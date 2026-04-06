@@ -8,10 +8,10 @@
 - `INS-260330-FA9D` When stuck debugging, sleep on it—your brain continues processing unconsciously and often solves it by morning.
 - `INS-260405-B8BE` Sounds, sensations, and thoughts arise in consciousness automatically — only the act of selecting and holding an object of attention requires cognitive effort.
 - `INS-260330-7987` In crisis, making one small correct decision at a time toward safety beats trying to solve the whole problem at once.
-- `INS-260330-E0ED` Intelligent people routinely collapse complex political landscapes into single-axis narratives, making them unable to acknowledge threats from both sides simultaneously.
 - `INS-260329-6DED` Formally canceling old forgotten tasks frees more capacity than adding urgency to new ones.
 - `INS-260329-565E` Hormozi ate the same lunch every day for 2 years, treating meal selection as a solved problem to eliminate daily decision fatigue and preserve cognitive bandwidth for business.
 - `INS-260403-1CC5` Knowing you have a meeting in an hour stops you from starting hard work, making scheduled interruptions worse than random ones.
+- `INS-260330-E0ED` Intelligent people routinely collapse complex political landscapes into single-axis narratives, making them unable to acknowledge threats from both sides simultaneously.
 - `INS-260330-0930` Even after learning the backwards bicycle, any small distraction like a phone ringing would instantly revert Destin's brain to the old steering algorithm.
 - `INS-260329-AD3E` Effective tutorials introduce one new concept at a time while keeping everything else familiar, preventing working memory overload.
 - `INS-260404-6AD7` CrashCourse teaches photosynthesis by giving every sub-process a distinct name and character (PSII, Calvin Cycle, RuBisCo), turning an overwhelming chemical cascade into navigable chunks.

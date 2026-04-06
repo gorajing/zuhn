@@ -53,9 +53,9 @@ related:
   - INS-260327-8115
   - INS-260403-39F9
   - INS-260403-53AA
-  - INS-260403-1949
   - INS-260403-7072
-  - INS-260403-035A
+  - INS-260404-2B4C
+  - INS-260404-EE85
 ---
 Investors' primary fear at the early stage isn't that the market is too small — it's that the founders built something from a priori theory that no one actually wants. Specific user stories directly counter this fear by demonstrating observed demand rather than projected demand. Sequoia calls this the 'proxy for demand': what are people doing now, with inadequate tools, that proves the need exists?
 

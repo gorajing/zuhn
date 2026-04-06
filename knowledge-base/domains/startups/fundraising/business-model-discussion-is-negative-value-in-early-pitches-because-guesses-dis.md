@@ -55,11 +55,11 @@ related:
   - INS-260328-070D
   - INS-260403-F6F9
   - INS-260403-6982
-  - INS-260403-D7C4
   - INS-260403-1DB7
   - INS-260404-FF0B
-  - INS-260405-4FC0
   - INS-260404-4DF7
+  - INS-260405-4FC0
+  - INS-260403-2E90
 ---
 Graham makes a stronger claim than 'don't waste time on business models' — he argues the discussion is actively negative-value. A VC who spoke at YC described investing in experienced founders whose business model was wrong and would probably change three times. If seasoned repeat founders with millions in funding have bad business models, early-stage founders' models are certainly wrong too.
 

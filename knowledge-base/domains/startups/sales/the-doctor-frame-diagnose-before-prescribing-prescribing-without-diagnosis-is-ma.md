@@ -57,11 +57,11 @@ stance: >-
   problem before offering solutions) is the most effective way to control a
   sales conversation and establish expert authority.
 related:
+  - PRI-260405-91AD
   - PRI-260327-3BD9
   - INS-260330-568F
   - INS-260329-DF36
   - INS-260323-1CA4
-  - INS-260327-B18F
 evidence:
   - id: INS-260330-568F
     type: TRANSFERS_TO

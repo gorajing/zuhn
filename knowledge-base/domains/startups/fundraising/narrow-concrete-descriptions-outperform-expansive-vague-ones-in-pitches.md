@@ -49,11 +49,11 @@ stance: >-
   more investor interest than those who describe broad possibilities, because
   vague descriptions register as zero-content noise.
 related:
-  - INS-260403-26D3
   - INS-260403-FC45
   - INS-260403-BFD1
   - INS-260403-85F1
   - INS-260404-896B
+  - INS-260404-C2BC
   - INS-260405-44F5
 ---
 Paul Graham observes that as a startup description approaches 'could be anything,' its informational content approaches zero. Investors hearing 'a system to collaboratively leverage the value of information' will discard it and wait impatiently for the actual explanation. The counterintuitive advice is to start with a description that feels misleadingly narrow — 'an easy web-based database' — then expand. This mirrors incremental development: always have working code (a working mental model in the investor's head) at every step.

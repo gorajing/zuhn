@@ -1,6 +1,6 @@
 # Topic: resilience
 
-> 147 insights
+> 146 insights
 
 - `INS-260325-DF82` [very_high] Events are not traumatic — they are potentially traumatic — because the same event produces resilience in most people and lasting harm in a minority, meaning trauma is in the response, not the event.
 - `INS-260325-5F3C` [very_high] The stress response is a magnificent multiphasic system that shifts blood, glucose, and attention to survival mode while blocking narrative memory, then gracefully ramps down through a cortisol braking system.
@@ -86,7 +86,6 @@
 - `INS-260329-4499` [high] Your self-respect degrades each time you break a promise to yourself, because you're the only one who knows your true capacity.
 - `INS-260330-9351` [high] The healthiest people in isolation self-stimulate through counting, exercise, and narration — passive endurance leads to cognitive decline and dissociation.
 - `INS-260329-8CA3` [high] Distinguishing shame (violating others' rules) from guilt (violating your own) reveals that most inaction is driven by rules you never consciously chose.
-- `INS-260329-7FD6` [high] After losing everything, Hormozi made $100K the next month — proving skills, not savings, are the real asset.
 - `INS-260329-8E89` [high] Skills can never be taken from you by divorce, government, or economic collapse, making them the ultimate store of value.
 - `INS-260330-523E` [high] Expert social engineers often learned to read people as abused children needing to predict and manipulate caregivers for survival.
 - `INS-260327-B767` [high] Learning to enjoy being alone transforms every relationship into a choice rather than a dependency.

@@ -1,6 +1,6 @@
 # Topic: nutrition
 
-> 277 insights
+> 274 insights
 
 - `INS-260327-9E9D` [high] 93 percent of Americans are metabolically unhealthy making metabolic dysfunction the root of most chronic disease
 - `INS-260330-3DC8` [high] Alcohol kills good gut bacteria while allowing bad bacteria to escape through a leaky gut wall, triggering liver inflammation that reaches the brain and paradoxically increases the desire to drink more.
@@ -21,8 +21,6 @@
 - `INS-260327-4D54` [high] Chick-fil-A chicken contains seed oils MSG and TBHQ despite simple chicken marketing
 - `INS-260325-F50C` [high] Canned cod liver beats salmon for omega-3 content and serves as a palatable organ meat substitute.
 - `INS-260327-4998` [high] Caffeine increases urinary excretion of magnesium and other divalent cations; coffee drinkers should supplement magnesium and avoid taking creatine with coffee as it impairs absorption.
-- `INS-260327-DDC3` [high] Costco enables complete animal-based nutrition for under $15/day: grass-fed ground beef, pasture-raised eggs, whole milk, and seasonal fruit in bulk.
-- `INS-260327-5C78` [high] Costco provides the best value for grass-fed meat, organic eggs, and quality dairy in bulk
 - `INS-260325-B6B6` [high] DHA is 97% of brain omega-3 and 93% of retinal omega-3 — it is the brain-building omega-3, not EPA.
 - `INS-260327-9B97` [high] Dietary guidelines quietly reversed the cholesterol and saturated fat warnings after decades of wrong advice
 - `INS-260325-0A8A` [high] Eggs have the highest protein absorption rate of any food and 65% can serve as fuel versus 10-20% for lean meat.
@@ -220,7 +218,6 @@
 - `INS-260327-52AA` [medium] Observational research consistently links higher C15 and C17 odd-chain fatty acid levels (from dairy fat) with better longevity outcomes, yet no one in the longevity space supplements them.
 - `INS-260327-28FC` [medium] Optimal vitamin D levels of 60-80ng/mL provide broad disease protection but require 10000 IU daily for most adults
 - `INS-260327-40C1` [medium] Organ meats and collagen-rich foods provide the specific nutrients that drive hair growth and quality
-- `INS-260327-0F4E` [medium] Ozempic causes significant muscle loss alongside fat loss leading to worse body composition and rebound gain
 - `INS-260325-0BB0` [medium] Pattern baldness is driven by excess DHT from insulin resistance — lowering carbs and insulin can slow or reverse it.
 - `INS-260327-C334` [medium] Persistent high blood sugar despite medication indicates unaddressed insulin resistance and liver dysfunction
 - `INS-260327-BED6` [medium] Even healthy, unprocessed plant foods contain defense chemicals that trigger immune activation in susceptible people, causing conditions like eczema, psoriasis, and gut inflammation.

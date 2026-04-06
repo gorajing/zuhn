@@ -6,6 +6,7 @@
 - `INS-260322-AFE9` AI application to specific industries has no proven playbook anywhere in the world, making benchmarking-based strategy obsolete.
 - `INS-260323-62F3` Chinese companies release open-weight models primarily to gain global distribution and influence, not out of altruism.
 - `INS-260404-83C6` DeepSeek proved frontier AI can emerge from a hedge fund side project in China, not just from billion-dollar Western labs.
+- `INS-260324-C1B8` In firearms, the US government decides which foreign manufacturers can sell to American civilians — the logic is political, not economic, with NATO allies allowed and adversaries blocked.
 - `INS-260329-A4CA` Bond markets drive political decisions faster than traditional diplomacy in the current environment
 - `INS-260330-A2D4` China can destroy North Korea economically or militarily but cannot meaningfully steer it because using blunt tools would destabilize the buffer it needs.
 - `INS-260327-A00A` Coalitions held together by gold rather than shared survival instinct are brittle under battlefield pressure.
@@ -15,7 +16,6 @@
 - `INS-260321-10FF` Saudi Arabia and Israel were sworn enemies for decades. Now they're aligning because both want to be core hub stations on IMEC. When economic interests change, the colors beneath the board change on their own.
 - `INS-260321-3EC0` When you invest in a country's stock market, you're placing a geopolitical bet on that country's future economic power relative to rivals — not just on individual companies.
 - `INS-260403-8E25` The U.S. leads in space with launch sites, talent, capital markets, and reusable launch technology, but history shows every transportation era's early winner eventually faces challengers who close the gap.
-- `INS-260330-757E` States can use infrastructure projects to gradually absorb autonomous regions by making economic integration irreversible before political integration follows.
 - `INS-260323-17B5` El-Kurd demonstrates how legal systems can be constructed to legitimize displacement, drawing parallels to Jim Crow laws that were technically legal but morally bankrupt.
 - `INS-260330-5A0B` Nuclear threats function as a renewable resource for extracting aid through a predictable escalation-concession cycle.
 - `INS-260323-3864` The entire nuclear arsenal can launch in seconds; the president has 6 minutes to decide; and deterrence as a philosophy collapses completely once the first missile flies.
@@ -36,4 +36,3 @@
 - `INS-260325-2BB0` TSMC makes roughly 90% of advanced processor chips used in phones, computers, and AI — an unprecedented concentration of critical manufacturing in one company in one geopolitically sensitive location.
 - `INS-260323-79A5` Ukraine's departure made the Soviet Union structurally non-viable — Yeltsin told Bush that without Ukraine, Russia would be outnumbered by Muslim republics, ending Russian interest in the project.
 - `INS-260321-D4D0` The Iran operation isn't about religion or revenge — it's about clearing the physical obstacle blocking a logistics highway. International politics is leaders playing Go with a map; military power, resource control, and money are stronger than ideology.
-- `INS-260324-C1B8` In firearms, the US government decides which foreign manufacturers can sell to American civilians — the logic is political, not economic, with NATO allies allowed and adversaries blocked.

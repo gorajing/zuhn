@@ -46,13 +46,13 @@ stance: >-
   the bad plan instead of the good product.
 related:
   - PRI-260324-A608
-  - INS-260403-481F
   - INS-260403-6982
   - INS-260403-2E90
   - INS-260404-3214
   - INS-260404-93E3
   - INS-260404-16E1
   - INS-260405-C22F
+  - INS-260405-092A
 ---
 PG cites a top VC who invested in a company while explicitly acknowledging their business model would change three times before it was right. At early stage, the business model is pure speculation about a domain the founders likely don't have deep expertise in. Defending it in detail is a bad use of scarce pitch time and a credibility risk.
 

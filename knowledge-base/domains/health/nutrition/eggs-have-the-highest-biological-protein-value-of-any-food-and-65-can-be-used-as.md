@@ -44,11 +44,11 @@ stance: >-
   of an egg can be used as energy versus only 10-20% of lean meat protein,
   making eggs the most complete single food.
 related:
-  - INS-260330-E039
   - INS-260405-8B89
   - INS-260330-0B4A
   - INS-260327-D6E0
   - INS-260329-7EEF
+  - INS-260327-9542
   - INS-260327-8ADE
   - INS-260327-F103
   - INS-260329-6CCC

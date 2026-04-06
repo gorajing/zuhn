@@ -1,6 +1,6 @@
 # Domain: ai-development
 
-> 885 insights across 26 topics
+> 884 insights across 26 topics
 
 ## Topics
 
@@ -19,7 +19,7 @@
 | claude-code | 33 | Planning is king — always use planning mode before implementation; never let the builder start without plans. |
 | embeddings | 7 | Different basis choices make different operations trivial or impossible in vector spaces. |
 | foundation-models | 1 | Open models consistently trail closed models by ~6 months, but the gap persists because proprietary labs keep redefining what 'frontier' means. |
-| future-of-work | 43 | Tens of millions learning Python through free YouTube tutorials represent a workforce transformation happening outside traditional education. |
+| future-of-work | 42 | Tens of millions learning Python through free YouTube tutorials represent a workforce transformation happening outside traditional education. |
 | human-ai-relationship | 44 | When AI outperforms humans, human-AI synergy is g = -0.54; when humans outperform AI, synergy is g = +0.46. |
 | infrastructure | 2 | Multi-turn agent workloads flip the inference bottleneck from decode to prefill, requiring new optimization strategies for KV cache reuse and context processing. |
 | limitations | 35 | The optical nerve delivers about 10^15 bytes to a 4-year-old's brain versus 2x10^13 bytes of all internet text used to train LLMs -- most human knowledge comes from sensory interaction with the physical world, not from language. |

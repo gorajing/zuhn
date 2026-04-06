@@ -49,13 +49,11 @@ stance: >-
   mediocre first-mover solution so aggressively that replacing it becomes
   impossible
 related:
-  - INS-260330-0E1E
-  - INS-260330-7B11
-  - INS-260330-8B93
-  - INS-260403-3946
   - INS-260403-F68A
   - INS-260404-16B0
   - INS-260404-1000
+  - INS-260403-9442
+  - INS-260404-5DE4
   - INS-260404-26AE
   - INS-260404-1C48
 evidence:

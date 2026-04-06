@@ -46,11 +46,11 @@ stance: >-
   Low burn rate creates more strategic optionality than additional capital at
   every stage of a startup's life
 related:
+  - PRI-260405-BF5B
   - INS-260323-1FC1
   - INS-260329-CB2C
   - INS-260329-0B9D
   - INS-260330-4E10
-  - INS-260330-B906
   - INS-260402-C13F
   - INS-260403-7C47
 evidence:

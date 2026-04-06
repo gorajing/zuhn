@@ -45,7 +45,6 @@ stance: >-
   whether you're remembered at all
 related:
   - INS-260322-7B71
-  - PRI-260328-BD81
   - INS-260330-2294
   - INS-260403-BDBE
   - INS-260404-B87E
@@ -53,6 +52,7 @@ related:
   - INS-260403-F171
   - INS-260404-D242
   - INS-260403-19D8
-  - INS-260403-7FBE
+  - INS-260404-6C20
+  - INS-260404-96C6
 ---
 After hearing enough pitches, investors experience a blur effect where presentations merge together. The first cut in their evaluation isn't quality — it's simply being remembered. Formulaic phrases like 'the Microsoft Word of ecommerce' exploit how memory works under cognitive load: they anchor your startup to an existing strong concept and create a compact, portable mental handle. This pattern generalizes beyond fundraising to any high-volume attention environment. The exercise of crafting such a phrase also serves as a focusing function — if you can't describe your startup in one compelling phrase, your plans may not be sufficiently focused. The constraint of the soundbite reveals strategic clarity or its absence.

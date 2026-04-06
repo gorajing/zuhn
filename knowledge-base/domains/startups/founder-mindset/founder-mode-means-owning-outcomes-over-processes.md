@@ -53,7 +53,6 @@ stance: >-
   management authority.
 related:
   - INS-260327-2B75
-  - INS-260327-1EC4
   - INS-260327-5CB6
   - PRI-260403-2E59
   - INS-260330-D8D1
@@ -61,7 +60,7 @@ related:
   - INS-260403-7C88
   - INS-260327-0762
   - INS-260328-80E7
-  - INS-260330-D432
+  - INS-260403-F6F9
 evidence:
   - id: INS-260327-0762
     type: CHALLENGES

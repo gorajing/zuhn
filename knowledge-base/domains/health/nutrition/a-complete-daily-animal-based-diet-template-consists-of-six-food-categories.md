@@ -36,8 +36,8 @@ stance: >-
 related:
   - PRI-260328-D9D0
   - INS-260325-7EAC
-  - INS-260327-DDC3
   - INS-260327-C0C7
   - INS-260327-0402
+  - INS-260327-29F2
 ---
 The daily animal-based template: raw milk with honey and creatine (morning), grass-fed meat (lunch/dinner), organs weekly, seasonal fruit throughout day, squash as vegetable, and butter/tallow for cooking

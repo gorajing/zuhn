@@ -1,6 +1,5 @@
 # Tag: loyalty
 
-- `INS-260327-5200` Alexander personally led cavalry charges in every battle, sustaining multiple wounds — this shared risk created fanatical loyalty that held his army together through 10 years and 20,000 miles of campaign.
 - `INS-260330-4088` Hamas gained popular support primarily through building schools, mosques, and clinics in Gaza, not through its militant activities.
 - `INS-260330-C8E2` Harlow's wire mother experiments proved that infant primates bond to sources of comfort rather than sources of nourishment, overturning the cupboard theory of attachment.
 - `INS-260403-3F91` Once customers pay $60-120 upfront, they stop comparing prices elsewhere because not using the membership feels like wasting money.
@@ -17,3 +16,4 @@
 - `INS-260405-06B0` When membership fees are the primary revenue source, delivering customer value isn't optional — it's arithmetically mandatory.
 - `INS-260330-B384` Rome's shift from citizen-soldiers to mercenary armies eroded the loyalty that held the empire together — the same dynamic applies to startups replacing missionaries with mercenaries.
 - `INS-260330-E4DB` Rome's reliance on Germanic mercenaries loyal only to gold — not to Rome itself — directly caused the civil wars that destroyed the Western Empire.
+- `INS-260327-5200` Alexander personally led cavalry charges in every battle, sustaining multiple wounds — this shared risk created fanatical loyalty that held his army together through 10 years and 20,000 miles of campaign.

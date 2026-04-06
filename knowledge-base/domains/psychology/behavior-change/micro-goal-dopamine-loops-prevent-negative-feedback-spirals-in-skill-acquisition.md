@@ -58,9 +58,9 @@ related:
   - INS-260330-968D
   - INS-260330-1839
   - PRI-260328-1654
+  - PRI-260405-E628
   - INS-260330-EDDD
   - INS-260330-0C31
-  - INS-260330-17C3
 ---
 The author describes a specific ritual: before bed, write down a few small goals achievable the next day. Completing them and checking them off triggers dopamine release, creating a positive feedback loop that makes you 'addicted to coding.' The inverse—working on problems too large to complete—creates a negative feedback loop where effort produces no reward, leading to learned helplessness and quitting.
 

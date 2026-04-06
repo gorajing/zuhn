@@ -44,14 +44,13 @@ stance: >-
   unlocks growth.
 related:
   - INS-260327-2A73
-  - INS-260330-7ECB
   - INS-260325-FDF5
   - INS-260404-8520
   - INS-260322-8D47
+  - INS-260404-E06E
   - INS-260329-C92A
   - INS-260403-0020
   - INS-260403-4CD0
-  - INS-260404-E06E
 evidence:
   - id: INS-260325-FDF5
     type: CHALLENGES

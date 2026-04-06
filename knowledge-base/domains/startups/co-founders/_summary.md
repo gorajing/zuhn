@@ -1,6 +1,6 @@
 # Topic: co-founders
 
-> 36 insights
+> 35 insights
 
 - `INS-260325-9B73` [high] Esther Perel's framework from couples therapy identifies three root causes under every co-founder conflict: who has power, who feels cared for, and who gets recognized.
 - `INS-260326-D8B9` [high] No one ever says 'great person, wrong skills' when co-founders split — it's always 'brilliant person, impossible to work with.'
@@ -24,7 +24,6 @@
 - `INS-260329-61CF` [high] Only take a partner who clearly contributes money, experience, or time-energy that you genuinely lack — and can demonstrate active contribution of that resource.
 - `INS-260330-8550` [high] Spend 20+ hours with potential co-founders covering disagreements, work styles, and explicit divorce scenarios before committing.
 - `INS-260330-AA8B` [high] YC data shows all 9 companies that added random co-founders between interview and batch start fell apart within a year.
-- `INS-260330-CD65` [high] YC data shows 100% failure rate when companies added random co-founders between interview and batch start.
 - `INS-260325-C5AE` [high] Taking ownership of what your co-founder complains about ('I know I do this') stops the escalation cycle because they no longer need to prove their point.
 - `INS-260402-8813` [high] Co-founders matter most not for splitting work but for creating mutual obligation that sustains effort through unbearable lows.
 - `INS-260330-64E1` [high] Even solo founders should put standard 4-year vesting on their shares to set cultural precedent and satisfy investor expectations.

@@ -47,11 +47,11 @@ stance: >-
   something so unconventional that the fundraise itself becomes a story that
   generates press and investor inbound.
 related:
-  - INS-260403-D7C4
   - INS-260404-D242
   - INS-260403-BDBE
   - INS-260327-7E3D
   - PRI-260403-26B9
+  - INS-260404-6C20
 evidence:
   - id: INS-260404-D242
     type: SUPPORTS

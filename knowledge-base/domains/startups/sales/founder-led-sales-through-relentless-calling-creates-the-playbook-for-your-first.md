@@ -50,11 +50,10 @@ stance: >-
   their first salesperson to succeed.
 related:
   - INS-260327-FD15
-  - PRI-260328-E921
   - INS-260327-E9F3
+  - PRI-260328-E921
   - INS-260329-C56D
   - INS-260403-08AE
-  - INS-260330-1C61
 ---
 Brooke and his co-founder Gil spent months doing nothing but sales calls from 10am to 9pm. They A/B tested different pitches, heard the same questions repeatedly, and built an exhaustive mental model of customer concerns and what resonates.
 

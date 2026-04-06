@@ -1,6 +1,6 @@
 # Topic: business-models
 
-> 209 insights
+> 207 insights
 
 - `INS-260327-470B` [high] Fast food was considered recession-proof because it offered the best dollars-to-calories ratio, but chains responded to cost-conscious consumers by becoming more expensive, slower, and less reliable.
 - `INS-260403-0FEC` [high] Public company acquisitions function as pooled-risk management services for founders seeking freedom and security.
@@ -92,7 +92,6 @@
 - `INS-260405-631B` [high] Costco's $60 annual fee screens out price-sensitive customers and concentrates a cohort with ~$100k average household income and 90% annual renewal.
 - `INS-260404-35F8` [high] When membership fees are the profit center, low prices become a feature, not a sacrifice.
 - `INS-260404-B8AE` [high] Mandatory membership fees make the company's primary revenue dependent on customer satisfaction, not transaction margins.
-- `INS-260404-A938` [high] When revenue comes from membership renewal, every pricing decision optimizes for long-term trust rather than short-term margin.
 - `INS-260404-62D5` [high] Membership-fee businesses are structurally incentivized to keep prices low because revenue depends on renewal, not markup.
 - `INS-260404-12A4` [high] Mandatory fees force companies to continuously justify membership value, aligning long-term incentives with customer satisfaction.
 - `INS-260403-426A` [high] Marketplaces progress through horizontal lead gen, vertical lead gen, vertical transactional, and tightly managed phases.
@@ -107,7 +106,6 @@
 - `INS-260403-B2CB` [high] Costco makes 75% of profit from membership fees, so low prices directly serve its business model rather than undermining it.
 - `INS-260403-3F5F` [high] Costco makes 75% of revenue from membership fees, enabling an 11% markup cap vs Walmart's 24%.
 - `INS-260404-60D6` [high] Costco makes 75% of revenue from membership fees, which forces it to prioritize low prices and quality to drive renewals rather than extracting margin per transaction.
-- `INS-260404-0298` [high] Costco makes 75% of profit from membership fees, which structurally motivates it to minimize prices rather than maximize per-item margins.
 - `INS-260327-4C5E` [high] External events that spike a stocks price (Reddit squeezes, viral moments) provide temporary reprieve but cannot address
 - `INS-260330-0998` [high] Tencent's attempt to charge subscription fees for QQ backfired and lost users to competitors, but switching to free access with microtransactions for virtual items and in-game purchases became enormously profitable.
 - `INS-260403-94CA` [high] McDonald's makes 64% of franchise revenue from rent, not food — it is functionally a real estate company disguised as a fast food chain.

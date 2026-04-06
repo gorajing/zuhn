@@ -52,11 +52,11 @@ stance: >-
   regardless of market conditions or asset losses.
 related:
   - INS-260323-97DB
-  - INS-260329-7FD6
   - INS-260327-B7FC
   - INS-260323-AB5F
   - INS-260403-6386
   - INS-260327-8521
+  - INS-260330-E695
 evidence:
   - id: INS-260323-97DB
     type: SUPPORTS

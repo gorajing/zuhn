@@ -50,14 +50,12 @@ stance: >-
   is a competitive advantage disguised as a barrier to growth.
 related:
   - INS-260327-176D
-  - INS-260403-2C00
   - INS-260403-9104
-  - INS-260403-FDB8
   - INS-260403-243A
   - INS-260404-AC1B
   - INS-260404-E65A
-  - INS-260404-3C9B
   - INS-260405-631B
+  - INS-260404-3C9B
 evidence:
   - id: INS-260403-747B
     type: REFINES

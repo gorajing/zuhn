@@ -47,7 +47,6 @@ stance: >-
   platforms don't need evangelism.
 related:
   - INS-260323-5C6F
-  - INS-260329-D6AA
   - INS-260330-7FFE
   - INS-260330-856B
   - INS-260330-84F4

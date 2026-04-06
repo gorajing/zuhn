@@ -53,8 +53,6 @@ stance: >-
   data decisions.
 related:
   - INS-260322-3537
-  - INS-260323-DB7B
-  - INS-260327-E0F7
   - INS-260325-FDA9
   - INS-260404-A183
   - INS-260329-F51D
@@ -62,6 +60,7 @@ related:
   - INS-260330-5609
   - INS-260329-148D
   - INS-260329-7914
+  - INS-260403-1B0D
 evidence:
   - id: INS-260325-EF66
     type: TRANSFERS_TO

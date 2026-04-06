@@ -15,7 +15,6 @@
 - `INS-260329-61CF` Only take a partner who clearly contributes money, experience, or time-energy that you genuinely lack — and can demonstrate active contribution of that resource.
 - `INS-260330-8550` Spend 20+ hours with potential co-founders covering disagreements, work styles, and explicit divorce scenarios before committing.
 - `INS-260330-AA8B` YC data shows all 9 companies that added random co-founders between interview and batch start fell apart within a year.
-- `INS-260330-CD65` YC data shows 100% failure rate when companies added random co-founders between interview and batch start.
 - `INS-260325-C5AE` Taking ownership of what your co-founder complains about ('I know I do this') stops the escalation cycle because they no longer need to prove their point.
 - `INS-260402-8813` Co-founders matter most not for splitting work but for creating mutual obligation that sustains effort through unbearable lows.
 - `INS-260404-DF8E` Startups stress-test co-founder relationships like a dog with a sock — if it can be pulled apart, it will be.

@@ -51,8 +51,9 @@ related:
   - INS-260327-E516
   - INS-260327-1270
   - PRI-260328-D9D0
-  - INS-260327-DDC3
   - INS-260327-C0C7
+  - INS-260327-33F7
+  - INS-260327-EE40
 ---
 The practical daily food template: raw milk (1L/day for hydration, protein, and C15 fatty acids), grass-fed ground beef or steaks (1-2 lbs/day), desiccated organ capsules or fresh liver/heart weekly, seasonal fruit (berries, citrus, tropical), raw honey as sweetener and carbohydrate source, pastured eggs, and grass-fed butter for cooking.
 

@@ -1,4 +1,4 @@
 # Tag: geographic-expansion
 
-- `INS-260327-8912` Russia expanded massively under Catherine but maintained serfdom and autocratic governance — creating a vast empire with medieval institutions that would eventually collapse under its own contradictions.
 - `INS-260403-D49B` Airbnb broke through by focusing exclusively on New York City — their highest-demand market — and doing things that don't scale there first.
+- `INS-260327-8912` Russia expanded massively under Catherine but maintained serfdom and autocratic governance — creating a vast empire with medieval institutions that would eventually collapse under its own contradictions.

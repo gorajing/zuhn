@@ -39,11 +39,11 @@ stance: >-
   relationships enabling questions about practices, plus access to raw dairy,
   heritage meats, and truly pasture-raised eggs unavailable in stores
 related:
-  - INS-260327-5C78
   - INS-260327-2DE8
   - INS-260330-420D
   - INS-260327-8EB7
   - INS-260327-515F
+  - INS-260403-D49B
 evidence:
   - id: INS-260330-420D
     type: CONTRADICTS

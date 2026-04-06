@@ -49,9 +49,9 @@ resolutions:
 related:
   - INS-260323-C316
   - INS-260322-CFB1
-  - INS-260330-7ECB
   - INS-260330-217C
   - INS-260329-CCC4
+  - PRI-260328-1D90
 stance: >-
   AI roll-up strategies succeed when you buy one company with blue-chip clients
   as your entry point for national AI deployment, not when you serially...

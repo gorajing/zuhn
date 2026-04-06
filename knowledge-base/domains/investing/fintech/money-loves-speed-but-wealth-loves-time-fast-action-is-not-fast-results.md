@@ -46,11 +46,11 @@ resolutions:
     initial decision right. The framework: use speed to seize the right
     opportunity, then use time to let it compound.
 related:
+  - PRI-260405-64B2
   - INS-260329-DD06
   - INS-260329-F04B
   - INS-260403-6731
   - INS-260330-1F25
-  - INS-260329-2AB9
   - INS-260325-3A54
   - INS-260325-E7D4
   - INS-260327-5580

@@ -1,6 +1,6 @@
 # Topic: decision-making
 
-> 93 insights
+> 90 insights
 
 - `INS-260404-A246` [high] Admitting you're bad at something is the first step to finding effective workarounds like delegation or systematic search.
 - `INS-260403-F03A` [high] Judge purchases by projected usage, not by the deal you got.
@@ -12,10 +12,8 @@
 - `INS-260403-DC64` [high] When evaluators can't assess substance directly, your confidence in your own work becomes the strongest signal they have.
 - `INS-260330-D0B4` [high] Staying buckled in an inverted sinking helicopter is safer than the instinctive escape attempt, but requires trained override of natural panic responses.
 - `INS-260403-B710` [high] Counting finite instances of recurring experiences makes time scarcity concrete and actionable.
-- `INS-260403-3D7D` [high] RuBisCo evolved in a low-oxygen world and now fails half the time because the atmosphere changed around it.
 - `INS-260404-C497` [high] Temperature-dependent sensors measuring the speed of light produced a fake diurnal cycle because the lab was outdoors.
 - `INS-260330-D304` [high] RuBisCo evolved in a low-oxygen world and now grabs oxygen instead of CO2 half the time — the same pattern drives human cognitive biases in modern environments.
-- `INS-260330-B3D5` [high] RuBisCo evolved when oxygen was nearly absent; now it confuses O2 for CO2 half the time, creating toxins plants must constantly remediate.
 - `INS-260404-03E7` [high] RuBisCo was perfectly adequate in low-oxygen atmospheres but became self-sabotaging when plants' own success raised oxygen levels.
 - `INS-260404-5309` [high] RuBisCo's oxygen-confusion problem shows that optimization for one context creates vulnerabilities when context shifts — a pattern visible in careers, companies, and cognitive habits.
 - `INS-260405-3048` [high] RuBisCo worked perfectly in a low-oxygen world; the problem wasn't the enzyme but the changed atmosphere — the same dynamic explains many human cognitive 'errors'.
@@ -31,7 +29,6 @@
 - `INS-260330-ED37` [high] Collateral damage and intentional massacre produce corpses equally dead, but moral frameworks that ignore the intention behind each death lose the ability to distinguish civilization from barbarism.
 - `INS-260403-D294` [high] Irreversible geological and cosmic decay means some present-day experiences are genuinely non-renewable, which should increase their weight in how we allocate time.
 - `INS-260330-2C57` [high] Agriculture was adopted through millions of small, locally rational choices that collectively created an irreversible civilizational transformation with massive unintended consequences.
-- `INS-260403-5755` [high] RuBisCo is a 450-million-year case study in how early adequate solutions calcify into permanent suboptimal architectures.
 - `INS-260330-9931` [high] A few network-joining decisions create the gravitational field that shapes all subsequent daily choices.
 - `INS-260403-5BF9` [high] Rollins credits his relentless work ethic to never forgetting the $8/hour ice cream shop he'd return to if he stopped hustling.
 - `INS-260404-7C3F` [high] Keeping your identity small — refusing to label yourself as an X or Y person — preserves your ability to think clearly across more domains.

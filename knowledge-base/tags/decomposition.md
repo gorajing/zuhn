@@ -6,7 +6,6 @@
 - `INS-260329-CA16` Break abstract success traits into the smallest observable behaviors until instructions are followable at your current skill level.
 - `INS-260329-4D06` 'People skills' isn't a trait — it's a hundred micro-skills like greeting by name, not interrupting, and smiling when someone enters.
 - `INS-260330-550F` Decomposition feels impossibly hard because our intuition says mixing is irreversible — the Fourier Transform works by reframing the problem as detection rather than separation.
-- `INS-260325-3611` Breaking a hard problem into many small approximate pieces, then taking the limit as pieces shrink, transforms intractable problems into solvable ones.
 - `INS-260330-4329` Linearity means you can analyze complex signals by analyzing their components separately — the results simply add up.
 - `INS-260329-9BA9` Related rates problems teach the transferable skill of decomposing interconnected changing quantities into solvable relationships via implicit differentiation.
 - `INS-260325-28AD` Decompose problems along their natural symmetries and math rewards you with simpler subproblems.

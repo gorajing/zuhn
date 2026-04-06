@@ -51,10 +51,10 @@ stance: >-
   shared defense.
 related:
   - INS-260404-2365
+  - PRI-260405-0AC6
   - INS-260320-92CC
   - INS-260330-3AF7
   - PRI-260328-0BE1
-  - PRI-260403-5FC4
 evidence:
   - id: INS-260330-3AF7
     type: TRANSFERS_TO

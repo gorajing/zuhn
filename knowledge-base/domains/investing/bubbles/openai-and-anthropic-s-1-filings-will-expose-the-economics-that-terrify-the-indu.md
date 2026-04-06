@@ -50,10 +50,10 @@ resolutions:
     requirement is an unavoidable reckoning with financial reality.
 related:
   - INS-260320-B210
+  - PRI-260405-F20C
   - INS-260330-D031
   - INS-260327-9EE4
   - INS-260327-17BE
-  - INS-260323-F753
 stance: >-
   When OpenAI and Anthropic file S-1s for IPO, the forced financial transparency
   will likely trigger a WeWork-style reassessment

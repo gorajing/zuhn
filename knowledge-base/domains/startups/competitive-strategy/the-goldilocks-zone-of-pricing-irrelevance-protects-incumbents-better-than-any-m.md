@@ -47,11 +47,11 @@ resolutions:
     requires patient entrepreneurs and high enough rates of new business
     formation.
 related:
+  - PRI-260405-EBC6
   - INS-260327-82AA
   - INS-260327-C673
   - INS-260403-862D
   - INS-260322-5650
-  - INS-260403-6BD9
   - INS-260327-E359
 stance: Some products are too cheap to bother replacing (janitorial services problem)
 evidence:

@@ -1,6 +1,6 @@
 # Topic: future-of-work
 
-> 43 insights
+> 42 insights
 
 - `INS-260320-A745` [very_high] Anthropic's own studies show AI deskilling in coding is real, but depends on HOW you use models — some usage patterns cause skill degradation, some don't.
 - `INS-260321-9824` [very_high] Tao's papers now have more code, more plots, deeper literature searches — but the core mathematical work (pen and paper for the hardest part) hasn't been accelerated. AI enriches output without deepening it.
@@ -12,7 +12,6 @@
 - `INS-260329-6CE8` [high] AI replaced creative and white-collar jobs first, not physical labor as universally predicted.
 - `INS-260329-B062` [high] AI replaced creative and expert roles before low-skill physical jobs, reversing what most people predicted.
 - `INS-260327-C962` [high] Running AI for millions of daily users will consume far more compute than training the models themselves.
-- `INS-260325-D19B` [high] Minimax hires for first-principles thinking regardless of background because the ability to ask the right questions matters more than the ability to code answers when AI handles execution.
 - `INS-260321-4178` [high] AI doesn't just automate procedures — it automates judgment calls. The person who deeply understands insurance underwriting and can talk an AI into building a tool is now more dangerous than the engineer who can build anything but doesn't know what to build.
 - `INS-260325-DA83` [high] Harvard/MIT research at BCG shows top performers got much better with AI while lower performers got worse — the 'selective upgrade puzzle.'
 - `INS-260320-DEAF` [high] Coding is going away first — AI models handle raw coding now, but broader software engineering (architecture, design, user needs, team management) takes longer to automate.

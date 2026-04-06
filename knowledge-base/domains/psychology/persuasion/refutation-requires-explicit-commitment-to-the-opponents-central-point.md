@@ -41,11 +41,11 @@ stance: >-
   You cannot genuinely refute an argument without first committing explicitly to
   what you believe its central point is.
 related:
-  - INS-260330-E3D3
   - INS-260330-A151
-  - INS-260403-ED1F
   - INS-260330-FB5A
   - INS-260330-76DA
+  - INS-260330-BE91
+  - PRI-260328-1D0B
 evidence:
   - id: INS-260403-ED1F
     type: EXTENDS

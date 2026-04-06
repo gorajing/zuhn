@@ -57,14 +57,14 @@ stance: >-
   volume rather than switching to better alternatives, because the switching
   cost always appears higher than the compensation cost
 related:
-  - INS-260330-EB48
+  - INS-260327-8048
+  - INS-260330-E218
+  - INS-260330-7B09
   - INS-260330-4489
   - INS-260330-47CF
-  - INS-260330-BFA2
   - INS-260330-11EB
-  - INS-260330-3FCF
-  - INS-260403-D518
-  - INS-260403-3E1C
+  - INS-260403-262F
+  - INS-260403-2DC4
   - INS-260404-B6E8
   - INS-260404-CC7C
 evidence:

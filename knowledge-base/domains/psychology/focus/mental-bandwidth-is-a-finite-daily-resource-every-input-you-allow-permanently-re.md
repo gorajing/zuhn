@@ -47,13 +47,13 @@ resolutions:
     for life's small moments. The bandwidth roughly resets each day, making the
     order and quantity of daily inputs a design decision.
 related:
-  - INS-260321-6437
   - INS-260320-C8CC
   - INS-260322-6042
   - INS-260322-BEA3
   - PRI-260323-57AC
+  - PRI-260405-E628
   - INS-260322-E90F
-  - INS-260330-4285
+  - INS-260321-6437
   - INS-260323-F310
   - INS-260327-5E40
   - INS-260329-565E

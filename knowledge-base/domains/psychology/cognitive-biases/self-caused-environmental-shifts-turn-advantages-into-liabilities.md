@@ -56,13 +56,14 @@ stance: >-
   lock-in, because the very behaviors that created dominance can become the
   behaviors that compound the new problem.
 related:
-  - INS-260330-EACA
-  - INS-260403-CF3E
-  - INS-260403-3D7D
+  - INS-260330-D304
+  - INS-260403-B5E2
+  - INS-260403-2C1A
   - INS-260403-6628
+  - INS-260404-B7B6
+  - INS-260404-581C
   - INS-260405-7E85
   - INS-260405-F03A
-  - INS-260404-B7B6
   - INS-260405-3048
 evidence:
   - id: INS-260403-CF3E

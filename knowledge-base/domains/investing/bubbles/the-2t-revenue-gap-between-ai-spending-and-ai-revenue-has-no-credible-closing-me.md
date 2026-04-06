@@ -48,11 +48,11 @@ resolutions:
     There is no historical precedent for a 36x revenue-to-spending gap closing
     in a technology market. This isn't a bull-vs-bear debate; it's arithmetic.
 related:
+  - PRI-260405-F20C
   - INS-260403-754F
   - PRI-260324-3081
   - INS-260403-EA2D
   - PRI-260403-4612
-  - INS-260327-6061
 stance: >-
   Bain Capital estimates $2T in revenue needed to justify AI spending but only
   ~$55B exists

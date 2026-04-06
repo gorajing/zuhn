@@ -46,10 +46,10 @@ stance: >-
   adopt conventional delegation-heavy management, even at scale
 related:
   - PRI-260328-F0E4
+  - PRI-260405-608A
   - PRI-260403-7D1F
+  - PRI-260405-86E0
   - INS-260403-F6F9
-  - INS-260325-05EC
-  - PRI-260328-E870
 evidence:
   - id: INS-260325-05EC
     type: TRANSFERS_TO

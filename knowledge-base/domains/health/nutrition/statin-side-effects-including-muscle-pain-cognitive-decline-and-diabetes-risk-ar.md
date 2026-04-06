@@ -39,11 +39,11 @@ stance: >-
   impairment, diabetes onset, and liver damage, but are systematically
   underreported in industry-funded trials
 related:
-  - INS-260327-0F4E
   - PRI-260328-E3A7
   - INS-260329-8CA0
   - INS-260325-0BD7
   - INS-260330-443B
+  - INS-260327-F8BF
 evidence:
   - id: INS-260329-8CA0
     type: CONTRADICTS

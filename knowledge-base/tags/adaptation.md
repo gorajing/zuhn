@@ -3,12 +3,7 @@
 - `INS-260329-C4F5` Framing AI as augmentation rather than replacement is the only actionable mindset because the alternative is paralysis.
 - `INS-260330-C367` Thunderbird pilots build 9G tolerance by flying twice daily for 4 months, and lose it within weeks of inactivity.
 - `INS-260325-BF44` Your immune system uses hypermutation and clonal selection — the same mutation-selection staircase as evolution — to fight novel pathogens in real time.
-- `INS-260327-7315` Austria's Archduke Charles reformed the Austrian army by copying Napoleon's corps system, which enabled Austria to defeat Napoleon at Aspern-Essling.
-- `INS-260327-DEEB` The coalition armies that defeated Napoleon in 1813-15 were far more effective than those he crushed in 1805-06, having learned from their earlier failures.
-- `INS-260330-EACA` RuBisCo evolved when oxygen was rare; when plants produced oxygen, the enzyme started confusing O2 for CO2 half the time, creating toxic byproducts.
 - `INS-260330-5F6C` The brain treats novel sensory environments as threats initially but habituates within minutes, revealing that psychological resilience — not fragility — is the baseline.
-- `INS-260403-3D7D` RuBisCo evolved in a low-oxygen world and now fails half the time because the atmosphere changed around it.
-- `INS-260330-B3D5` RuBisCo evolved when oxygen was nearly absent; now it confuses O2 for CO2 half the time, creating toxins plants must constantly remediate.
 - `INS-260404-5309` RuBisCo's oxygen-confusion problem shows that optimization for one context creates vulnerabilities when context shifts — a pattern visible in careers, companies, and cognitive habits.
 - `INS-260405-3048` RuBisCo worked perfectly in a low-oxygen world; the problem wasn't the enzyme but the changed atmosphere — the same dynamic explains many human cognitive 'errors'.
 - `INS-260403-B5E2` RuBisCo was rational in a low-oxygen world — the trap emerged when oxygen levels rose after plants had fully committed to the enzyme.
@@ -32,7 +27,8 @@
 - `INS-260330-98EA` The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples.
 - `INS-260404-B7B6` RuBisCo was designed for a low-oxygen world — when plants themselves changed the atmosphere, their own core enzyme started poisoning them.
 - `INS-260404-8CEE` Sears, Toys-R-Us, and RadioShack died from strategic failures, not from Amazon's existence — Costco, Aldi, and Dollar General thrived in the same environment.
-- `INS-260403-CF3E` RuBisCo evolved in a low-oxygen atmosphere, then photosynthesis itself raised oxygen levels until RuBisCo started confusing O2 for CO2 half the time — success changed the environment in ways that undermined the winning strategy.
 - `INS-260330-84BD` The collapse of North Korea's Public Distribution System forced the emergence of illegal private markets that now sustain the majority of the population.
 - `INS-260403-FED6` The retailers killed during the 'Retail Apocalypse' (Sears, Toys-R-Us, RadioShack) shared a common trait: they had stopped serving customers well long before Amazon arrived.
 - `INS-260404-96E6` Sears, Toys-R-Us, and J.C. Penney failed from strategic neglect, not because Amazon made physical retail unviable.
+- `INS-260327-7315` Austria's Archduke Charles reformed the Austrian army by copying Napoleon's corps system, which enabled Austria to defeat Napoleon at Aspern-Essling.
+- `INS-260327-DEEB` The coalition armies that defeated Napoleon in 1813-15 were far more effective than those he crushed in 1805-06, having learned from their earlier failures.

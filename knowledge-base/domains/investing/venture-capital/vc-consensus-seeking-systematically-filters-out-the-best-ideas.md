@@ -20,7 +20,7 @@ last_accessed: null
 access_count: 0
 indexed: true
 embedded: true
-embedding_model: "nomic-embed-text"
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Consensus-driven investment processes guarantee that the most outlier ideas
@@ -51,6 +51,7 @@ related:
   - INS-260329-4D06
   - INS-260330-B5D6
   - INS-260330-2F52
+  - PRI-260405-BF5B
   - INS-260403-EA34
   - INS-260323-197A
   - INS-260320-DDD9

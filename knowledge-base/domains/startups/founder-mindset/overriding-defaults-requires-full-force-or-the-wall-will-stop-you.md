@@ -51,11 +51,11 @@ stance: >-
   partial effort triggers defensive mechanisms that push you back to the status
   quo.
 related:
-  - INS-260323-7D3C
   - INS-260322-4F7A
   - INS-260330-14CA
+  - INS-260323-7D3C
   - INS-260329-A6F0
-  - INS-260330-8C54
+  - PRI-260405-F9BD
 evidence:
   - id: INS-260330-8C54
     type: TRANSFERS_TO

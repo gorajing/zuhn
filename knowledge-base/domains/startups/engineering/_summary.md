@@ -1,6 +1,6 @@
 # Topic: engineering
 
-> 34 insights
+> 29 insights
 
 - `INS-260404-4130` [high] Building the language up toward the problem lets small teams punch far above their weight.
 - `INS-260403-C514` [high] Plants produce massive quantities of inefficient RuBisCo plus cleanup enzymes rather than fixing the core algorithm—a biological version of scaling horizontally around bad code.
@@ -17,7 +17,6 @@
 - `INS-260404-1455` [high] Plants evolved entire secondary metabolic pathways just to cope with RuBisCo's oxygen-binding error, illustrating how foundational flaws propagate systemic complexity.
 - `INS-260404-2695` [high] RuBisCo evolved when oxygen was scarce; when oxygen rose, plants added workarounds instead of replacing it — a pattern mirrored in legacy software.
 - `INS-260403-2CDA` [high] RuBisCo fails half the time in modern conditions but plants produce 40 billion tons of it rather than evolving a replacement — the same logic keeps legacy code alive.
-- `INS-260404-3608` [high] When replacement cost exceeds compensation cost, scaling the workaround beats re-architecting — the same logic that keeps RuBisCo in every plant on Earth.
 - `INS-260404-4010` [high] RuBisCo is terrible at its job but plants invested so heavily in it that 40 billion tons exist on Earth rather than evolving a replacement.
 - `INS-260403-2457` [high] RuBisCo is terrible at its job but 450 million years of biological investment make it irreplaceable — the same pattern traps startups in early architectural choices.
 - `INS-260403-3831` [high] Graham wrote essays in notebooks for 15 years before the web existed; Wozniak designed computers on paper before affordable chips arrived — both were ready when the moment came.
@@ -25,10 +24,6 @@
 - `INS-260403-EA2C` [high] Programmer throughput is constant in lines/day, so more succinct languages directly multiply output.
 - `INS-260403-410A` [high] Easy-to-read individual lines multiplied by many more lines produces worse total readability than dense-but-fewer lines.
 - `INS-260403-0A7A` [high] Rewriting code you've already written forces you to fully understand it, which is the prerequisite for seeing fundamentally better designs.
-- `INS-260330-4EC0` [high] RuBisCo, the most abundant enzyme on Earth, gets confused by oxygen ~50% of the time, yet plants dominated by scaling volume and building repair pathways rather than evolving a better enzyme.
-- `INS-260330-BFA2` [high] RuBisCo fails ~50% of the time but plants produce 40 billion tons of it rather than evolve a better enzyme — scale masks inefficiency when switching costs exceed optimization costs.
-- `INS-260403-3E1C` [high] RuBisCo is a poor enzyme that plants can never replace, so they produce 40 billion tons of it and build workaround systems instead.
-- `INS-260403-F088` [high] RuBisCo is evolution's poster child for technical debt — a mediocre enzyme that became unfixable because plants scaled around it.
 - `INS-260330-181B` [high] Longbows require the arrow to flex around the problem; compound bows mechanically eliminate the problem — both hit the target but with different failure modes.
 - `INS-260404-E6F9` [high] Plants evolved entire metabolic pathways just to handle RuBisCo's toxic byproduct, showing how workarounds for legacy decisions become load-bearing infrastructure.
 - `INS-260403-59F4` [medium] Shorter programs, thinner manuals, and terse syntax are signs of good design, not corners being cut.

@@ -46,7 +46,6 @@ stance: >-
   In successful enterprise companies, the CEO is actively originating and
   debugging major deals rather than delegating sales entirely.
 related:
-  - INS-260322-229C
   - INS-260327-9C00
   - PRI-260328-E921
   - INS-260328-4EA0

@@ -1,6 +1,6 @@
 # Topic: persuasion
 
-> 45 insights
+> 40 insights
 
 - `INS-260403-6F65` [high] Equal optimization on substance makes charisma the tiebreaker.
 - `INS-260403-22FE` [high] Explicit claims of passion or quality trigger skepticism filters, while implicit confidence conveyed through demeanor and specifics builds genuine credibility.
@@ -10,11 +10,9 @@
 - `INS-260404-F161` [high] In low-information evaluation contexts, implicit confidence outweighs explicit claims about quality.
 - `INS-260404-D672` [high] When investors can't evaluate the tech, your own confidence becomes the largest piece of evidence they use to form an opinion.
 - `INS-260404-0095` [high] Non-technical audiences who can't evaluate your product will primarily judge it by how impressed you yourself seem with what you've built.
-- `INS-260404-58AE` [high] Show, don't tell: never claim passion or quality directly—let your command of the problem and product demonstrate it.
 - `INS-260403-B12E` [high] Saying 'nothing could go wrong' destroys credibility — genuine experts enumerate risks in detail because deep knowledge reveals more failure modes.
 - `INS-260403-C37D` [high] Good persuaders don't lie — they choose which truths to tell, the same way a flatterer picks genuine compliments.
 - `INS-260403-560A` [high] Labels like x-ist end discussion by signaling that truth-evaluation is no longer relevant.
-- `INS-260403-915E` [high] Explicitly claiming passion or greatness triggers investor skepticism; confidence must be demonstrated implicitly through how you present, not what you say about yourself.
 - `INS-260404-0CD8` [high] Never say 'we're passionate' or 'our product is great'—such messages must be implicit or audiences write you off as bullshitters.
 - `INS-260403-F171` [high] Craft a single compelling phrase ('the X of Y') that investors will remember after hearing dozens of pitches.
 - `INS-260330-5BEB` [high] The Black Legend pattern shows how condemning a rival's cruelty becomes moral cover for your own imperial ambitions.
@@ -22,14 +20,11 @@
 - `INS-260330-9DC9` [high] Persuasion offers short-term advantages but cannot indefinitely substitute for factual grounding and real value creation.
 - `INS-260403-61B0` [high] Spin added for persuasion gets mixed into your own reasoning, making you unable to see your ideas clearly.
 - `INS-260404-B31C` [high] Sequoia's 'proxy for demand' — what people do now with inadequate tools — is more convincing than market size because it shows revealed behavior, not projected numbers.
-- `INS-260404-132E` [high] Demonstrate demand by showing what people painfully do today with bad tools, not by citing market size numbers.
 - `INS-260404-9C25` [high] Graham doesn't argue for or against the death penalty on conventional grounds — he reframes the entire debate from philosophy to error rates.
 - `INS-260403-6E9F` [high] True refutation demands stating the opponent's main claim before dismantling it, which forces intellectual honesty.
 - `INS-260403-0353` [high] The same act of deception ranges from routine (soccer flopping) to morally insane (golf score fabrication) depending on domain-specific norm calibration that outsiders often can't perceive.
 - `INS-260330-4E09` [high] Building up your opponent's best case before responding protects you from being blindsided by stronger versions of their argument later.
-- `INS-260330-E3D3` [high] Build up your opponent's case to its strongest form before responding, because defeating a strong version is more persuasive than demolishing a strawman.
 - `INS-260404-3D8F` [high] Costco and Amazon Prime both use upfront fees to trigger sunk-cost psychology that stops customers from comparison shopping.
-- `INS-260403-3421` [high] Sequoia's 'proxy for demand' concept—showing current workarounds with bad tools—is more convincing than TAM slides because it demonstrates revealed preference.
 - `INS-260404-5A3D` [high] Realizing that selectors barely scrutinize you motivates more active self-presentation.
 - `INS-260330-59CE` [high] Vague predictions appear accurate because our brains apply the 'law of near enough' — two things don't have to match exactly for us to perceive a connection, making almost any outcome confirmatory.
 - `INS-260330-4605` [high] The Polarity Principle in relationships operates through the same variable-ratio reinforcement schedule that drives gambling addiction.

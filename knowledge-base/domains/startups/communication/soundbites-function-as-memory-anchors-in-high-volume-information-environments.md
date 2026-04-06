@@ -43,6 +43,7 @@ stance: >-
   a marketing gimmick but a cognitive necessity, because professional investors
   process so many pitches that recall—not evaluation—is the actual first filter.
 related:
+  - INS-260327-D2A6
   - INS-260328-9415
   - INS-260404-96C6
   - INS-260403-2A1D

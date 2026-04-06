@@ -1,6 +1,6 @@
 # Topic: cognition
 
-> 78 insights
+> 77 insights
 
 - `INS-260330-984C` [high] Flat Earth theories are clever ad hoc explanations that address individual challenges but fail to fit all evidence into a unified framework.
 - `INS-260403-518E` [high] Chatter makes stress toxic by keeping the stress response active long after the triggering event has passed.
@@ -11,7 +11,6 @@
 - `INS-260403-8BF4` [high] Cutting words isn't just style — it's how you discover what you actually mean.
 - `INS-260402-9676` [high] Our programming languages limit what we can conceive as possible, making easier solutions feel surprising when discovered.
 - `INS-260404-92B8` [high] The block-collision pi algorithm is simultaneously the most elegant and most absurdly inefficient way to compute pi, revealing that elegance and efficiency measure fundamentally different things.
-- `INS-260330-EACA` [high] RuBisCo evolved when oxygen was rare; when plants produced oxygen, the enzyme started confusing O2 for CO2 half the time, creating toxic byproducts.
 - `INS-260404-4E6D` [high] Writing ideas down matters not because you'll re-read them, but because holding an idea in memory blocks the next one from forming.
 - `INS-260330-F889` [high] Special relativity shows that even an object's shape is observer-dependent, challenging naive realism about 'objective truth.'
 - `INS-260403-15DA` [high] Haters and fanboys are structurally identical: both are obsessive, uncritical, and identity-fused with their target.

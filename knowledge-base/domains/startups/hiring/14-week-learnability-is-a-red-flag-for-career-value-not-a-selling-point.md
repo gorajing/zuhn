@@ -45,10 +45,10 @@ stance: >-
   actually value
 related:
   - INS-260327-1787
+  - PRI-260405-6A4E
   - INS-260323-FE69
   - INS-260403-EA34
   - INS-260329-C3DF
-  - INS-260329-32A4
 evidence:
   - id: INS-260329-C3DF
     type: CHALLENGES

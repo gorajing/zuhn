@@ -55,7 +55,6 @@ stance: >-
   many independent constraints they satisfy simultaneously, like intersecting
   crossword answers
 related:
-  - INS-260325-FA86
   - INS-260321-C4CD
   - INS-260329-8BFC
   - INS-260330-7994
@@ -65,6 +64,7 @@ related:
   - INS-260330-6844
   - PRI-260403-CCBC
   - INS-260402-7A1A
+  - INS-260403-6424
 evidence:
   - id: INS-260325-FA86
     type: CHALLENGES

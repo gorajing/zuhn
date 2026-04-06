@@ -1,6 +1,6 @@
 # Topic: fundraising
 
-> 202 insights
+> 190 insights
 
 - `INS-260323-E9E4` [high] Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead.
 - `INS-260330-09FF` [high] A YC company that was incorrectly converted from a Connecticut LLC to a Delaware C-Corp accumulated a $500K legal bill across four law firms when the error surfaced during a major fundraise.
@@ -48,13 +48,9 @@
 - `INS-260403-6982` [high] A wrong business model presented in detail becomes the memorable takeaway, crowding out the actually impressive problem-solving work.
 - `INS-260404-93E3` [high] Talking about a likely-wrong business model pushes the genuinely impressive parts of your startup out of investors' memory, replacing them with skepticism about your revenue plan.
 - `INS-260403-97DB` [high] Mention that you've thought about monetization, but don't elaborate — talk about your problem and product instead.
-- `INS-260403-481F` [high] Talk about the problem you're solving, not your revenue guesses — investors expect your business model to be wrong at this stage.
 - `INS-260405-D6B9` [high] A spectacularly wrong business model pushes your real value proposition out of investors' memory — don't crowd out the good with the guesswork.
 - `INS-260405-4FC0` [high] At early stage, detailed business model discussion consumes time from your strong suit and exposes your weak one.
 - `INS-260403-1DB7` [high] Smart investors expect early business models to be wrong, so founders should spend pitch time on the problem and product instead.
-- `INS-260403-D7C4` [high] Don't dwell on business models in early pitches—they're probably wrong anyway, and discussing them crowds out the compelling parts of your story.
-- `INS-260404-A8C0` [high] VCs expect early business models to be wrong—pitching them displaces the interesting signal (your problem and solution) with forgettable noise.
-- `INS-260404-19FE` [high] Mention that you've thought about monetization, but don't elaborate—smart investors expect your business model to change multiple times.
 - `INS-260403-A172` [high] Smart investors expect early business models to be wrong and would rather hear about the problem you're solving than your guesses about monetization.
 - `INS-260322-A02C` [high] At pre-seed and seed stage, investors and early customers are betting on the founder's story and character, not the product.
 - `INS-260404-187C` [high] Explicit confidence claims get ignored or trigger bullshit detection, while implicit confidence through substance and demeanor is the primary signal investors use.
@@ -82,7 +78,6 @@
 - `INS-260402-9288` [high] Taking a high valuation narrows the field of potential acquirers and can turn a likely win into an unlikely moonshot.
 - `INS-260403-24F0` [high] Never say 'we're passionate' or 'our product is great'—investors ignore or penalize explicit self-promotion, responding only to demonstrated conviction.
 - `INS-260405-8BEA` [high] Never say you're passionate or that your product is great — both are ignored or actively backfire; demonstrated confidence is the only kind that works.
-- `INS-260403-2F22` [high] Never say 'we're passionate' — investors ignore or penalize explicit self-praise, but unconsciously weight your implicit confidence heavily.
 - `INS-260405-3C56` [high] Genuine goodness beats strategic niceness when information flows freely and the future is unpredictable.
 - `INS-260403-E9C6` [high] Super-angels emerged specifically because the $200k-$600k range was too large for angels and too small for VCs.
 - `INS-260330-070A` [high] VCs who avoid flawed companies systematically miss the biggest winners because extreme outliers always have glaring weaknesses alongside their extraordinary strengths.
@@ -110,7 +105,6 @@
 - `INS-260403-77B4` [high] PG sent 10+ emails over a month pushing Fred Wilson toward Airbnb, each adding a new data point.
 - `INS-260403-30D8` [high] Show investors a 'proxy for demand' — concrete evidence of people struggling with inadequate tools — rather than citing market size numbers.
 - `INS-260403-17A3` [high] Investors' biggest early-stage fear is that you built something nobody wants, so showing existing user pain with current tools is the strongest counter-signal.
-- `INS-260403-F8FF` [high] Demonstrate demand by showing the awkward workarounds people currently use, not by citing market size statistics.
 - `INS-260403-0F5C` [high] Sequoia's 'proxy for demand'—people using bad tools to solve your problem—is the strongest early-stage fundraising signal.
 - `INS-260404-5D18` [high] Sequoia looks for 'proxy for demand' — what people are doing now with bad tools that proves they need what you're making.
 - `INS-260322-0C91` [high] Microsoft, Dell, Yahoo, eBay, Instagram, and Midjourney were all capital-efficient or fully bootstrapped — fundraising should only happen when capital creates a genuine acceleration advantage.
@@ -125,7 +119,6 @@
 - `INS-260403-D99E` [high] Scientist-founders lose deals by prioritizing how cool the science is over how big the market opportunity is.
 - `INS-260403-1034` [high] Three forces — higher burn, higher bar, and failure-by-default framing — make second rounds categorically harder than first ones.
 - `INS-260328-D26B` [high] The Series A process — warm intros, long courtships, silent passes, opaque terms — hasn't changed since the 1980s despite seed-stage innovation.
-- `INS-260403-ED1F` [high] Investors ignore or penalize direct claims of passion and quality—confidence must be demonstrated through how you present, not what you say about yourself.
 - `INS-260405-2AFB` [high] Never say 'we're passionate' — investors tune out assertions and read posture, pacing, and directness instead.
 - `INS-260405-C22F` [high] Early business models are almost certainly wrong, and sophisticated investors know it — spending pitch time on them trades signal for noise.
 - `INS-260328-0C4C` [high] Standard Capital publishes its Series A term sheet publicly, takes 10% for a founder-chosen price, and promises a firm yes/no by a specific date.
@@ -140,7 +133,6 @@
 - `INS-260330-2BB3` [high] Each funding round should target specific risks to eliminate, with the amount raised calibrated precisely to the milestones needed to peel away those risk layers.
 - `INS-260323-4C43` [high] Mark Pincus argues that founder control is worth more than valuation because losing control means losing the ability to make the risky, unpopular pivots that save companies.
 - `INS-260403-21C4` [high] Creating a sticky descriptive phrase like 'the Microsoft Word of ecommerce' forces strategic clarity and ensures investors remember you.
-- `INS-260403-34C0` [high] Investors hear hundreds of pitches that blur together; a single sticky phrase ('the X of Y') is often the difference between being remembered and being forgotten.
 - `INS-260403-07C6` [high] Answering 'why now' — why this idea only recently became viable — is the strongest evidence you can offer for massive growth potential.
 - `INS-260403-36DD` [high] Minimal seed funding plus a hard demo deadline produces working prototypes faster than large raises.
 - `INS-260330-97F6` [high] In a downturn, assume your current bank balance is your terminal funding and work backward from that constraint to find a viable path to profitability or self-sustaining growth.
@@ -154,13 +146,9 @@
 - `INS-260403-39F9` [high] Replace business model slides with stories of specific users and their inadequate current solutions — that's the 'proxy for demand' top investors actually look for.
 - `INS-260405-672E` [high] Investors' biggest fear is that you built something nobody wants — concrete user stories are the antidote to that fear.
 - `INS-260403-53AA` [high] Tell stories about specific users and their problems rather than citing market sizes — investors use user narratives as a proxy for genuine demand.
-- `INS-260403-035A` [high] Tell stories about specific users and their problems rather than citing market size — investors fear you've built something nobody wants, and user stories are the antidote.
-- `INS-260403-D7DF` [high] Replace market size arguments with specific user stories that demonstrate proxy for demand.
 - `INS-260403-8F31` [high] Investors' deepest early-stage fear is that nobody wants what you built — specific user stories proving existing demand defeat any market size number.
-- `INS-260403-1949` [high] Tell stories about specific users solving specific problems — especially your own needs — rather than citing market size.
 - `INS-260403-1444` [high] Specific user stories beat market size numbers because they directly address investors' biggest early-stage fear: that nobody wants what you've built.
 - `INS-260405-E7FB` [high] Sequoia calls it 'proxy for demand' — what are people doing right now with inadequate tools that proves they need what you're building?
-- `INS-260404-2FC0` [high] Concrete user stories are the strongest pitch element because they directly counter the core investor fear of building something nobody wants.
 - `INS-260404-EF17` [high] Replace market-size slides with concrete stories of specific users and the problems they face.
 - `INS-260405-4B31` [high] What are people doing right now with inadequate tools? That story is worth more than any market size number.
 - `INS-260405-F9EC` [high] Specific user stories dissolve the investor's core fear — that the product is a solution without a problem.

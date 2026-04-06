@@ -58,11 +58,11 @@ stance: >-
   Systems that embed deeply enough will persist even after superior alternatives
   emerge, because switching costs exceed the performance gap.
 related:
-  - INS-260330-E039
   - INS-260404-1C48
   - INS-260404-26AE
   - INS-260403-262F
   - INS-260403-F68A
+  - INS-260405-95AE
 evidence:
   - id: INS-260330-E039
     type: SUPPORTS

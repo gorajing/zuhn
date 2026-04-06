@@ -56,9 +56,9 @@ stance: >-
 related:
   - INS-260330-53A9
   - INS-260404-5E8F
-  - INS-260330-BFA2
-  - INS-260330-CC30
   - INS-260330-54ED
+  - INS-260330-22C0
+  - INS-260403-0162
 evidence:
   - id: INS-260330-CC30
     type: TRANSFERS_TO

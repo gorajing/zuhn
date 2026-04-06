@@ -50,10 +50,10 @@ stance: >-
   judgments.
 related:
   - INS-260403-7586
+  - PRI-260405-4B06
   - INS-260404-37F7
   - INS-260404-5017
   - INS-260404-AFE6
-  - INS-260403-22FE
   - INS-260404-0570
   - INS-260404-F965
 evidence:

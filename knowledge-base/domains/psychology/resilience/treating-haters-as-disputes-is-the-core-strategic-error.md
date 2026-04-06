@@ -47,11 +47,11 @@ stance: >-
   because there is no rational dispute to resolve — only obsessive identity
   projection.
 related:
+  - PRI-260405-64C0
   - INS-260403-DAB1
   - INS-260327-1403
   - INS-260329-783C
   - INS-260403-886D
-  - INS-260322-AB55
 evidence:
   - id: INS-260403-DAB1
     type: SUPPORTS

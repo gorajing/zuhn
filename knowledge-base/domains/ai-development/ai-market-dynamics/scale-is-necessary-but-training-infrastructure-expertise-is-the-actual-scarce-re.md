@@ -51,10 +51,9 @@ stance: >-
   across tens of thousands of failing GPUs, making infrastructure engineering
   talent rather than money the limiting resource.
 related:
-  - INS-260323-35D4
+  - INS-260327-C962
   - INS-260404-CE26
   - PRI-260328-A82C
-  - INS-260327-C962
   - INS-260405-6BBC
   - INS-260327-8997
   - INS-260330-2BEC

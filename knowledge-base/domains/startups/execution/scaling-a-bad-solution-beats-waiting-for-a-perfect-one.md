@@ -48,7 +48,7 @@ stance: >-
   optimal one
 related:
   - INS-260323-A1FE
-  - INS-260330-BFA2
+  - PRI-260403-40D7
   - INS-260403-9442
   - INS-260404-8256
   - INS-260404-47F5

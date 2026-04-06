@@ -48,11 +48,11 @@ resolutions:
     barrier to initial contribution and invest in iterative improvement instead
     of upfront perfection.
 related:
+  - PRI-260405-0AC6
   - PRI-260321-14D8
   - INS-260327-F55C
   - INS-260328-D26B
   - INS-260321-EE05
-  - INS-260322-5790
 stance: >-
   Wikipedia's predecessor Nupedia had a 7-stage academic review process that
   produced almost nothing in 2 years

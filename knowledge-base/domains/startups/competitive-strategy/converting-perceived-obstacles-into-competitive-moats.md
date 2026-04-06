@@ -53,6 +53,7 @@ related:
   - INS-260403-0435
   - INS-260403-9104
   - INS-260403-6BD9
+  - PRI-260405-EBC6
 ---
 Costco's $60 membership fee should make customer acquisition fatally difficult — yet it selects for households averaging $100K income. Its confusing warehouse layout should annoy shoppers — yet it forces them to wander through aisles, increasing discovery and spend. Its bulk-only quantities should limit the customer base — yet business owners (one-third of members) account for two-thirds of sales.
 

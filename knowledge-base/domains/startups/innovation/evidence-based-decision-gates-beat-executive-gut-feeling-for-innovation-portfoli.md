@@ -49,7 +49,6 @@ stance: >-
   resources
 related:
   - INS-260329-8226
-  - INS-260402-62E3
   - PRI-260403-E023
   - INS-260405-2CDB
   - INS-260403-910E

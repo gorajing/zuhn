@@ -53,11 +53,11 @@ stance: >-
   just fairer discourse
 related:
   - INS-260330-87A0
-  - INS-260330-E3D3
   - PRI-260403-57EC
   - INS-260330-CFEA
   - INS-260404-CB96
   - INS-260327-D7E6
+  - INS-260327-48A5
 evidence:
   - id: INS-260327-D7E6
     type: TRANSFERS_TO

@@ -47,15 +47,15 @@ resolutions:
     decade-scale horizons, and ignore the quarterly noise in between.
 related:
   - INS-260323-0B5E
+  - PRI-260405-64B2
   - PRI-260323-AEE6
   - INS-260329-476D
   - INS-260330-C658
   - INS-260329-F007
-  - INS-260321-E471
-  - INS-260327-9830
-  - INS-260327-0E86
   - INS-260328-C2CB
   - INS-260328-93C8
+  - INS-260330-D272
+  - INS-260330-6900
 stance: >-
   A week is long enough to validate ideas and ship products; ten years captures
   true strategic direction

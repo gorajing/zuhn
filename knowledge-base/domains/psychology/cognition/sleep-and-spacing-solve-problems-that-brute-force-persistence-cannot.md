@@ -52,12 +52,11 @@ stance: >-
   a superior problem-solving strategy, because unconscious processing during
   rest resolves what conscious grinding cannot.
 related:
-  - INS-260321-AD95
   - INS-260325-8D66
   - INS-260330-0982
   - PRI-260403-9D15
+  - PRI-260405-E628
   - INS-260405-8412
-  - INS-260327-E7B8
 evidence:
   - id: INS-260325-8D66
     type: CHALLENGES

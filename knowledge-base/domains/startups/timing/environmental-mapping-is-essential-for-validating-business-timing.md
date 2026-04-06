@@ -45,10 +45,10 @@ stance: >-
   feel
 related:
   - INS-260403-2DE3
+  - PRI-260405-64B2
   - INS-260329-DD06
   - INS-260323-7E6F
   - INS-260323-F5EF
-  - INS-260321-167A
 evidence:
   - id: INS-260321-167A
     type: SUPPORTS

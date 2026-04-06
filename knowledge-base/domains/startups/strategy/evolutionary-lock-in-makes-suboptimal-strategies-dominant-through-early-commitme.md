@@ -49,16 +49,16 @@ stance: >-
   Organizations that go all-in on a mediocre strategy early often outcompete
   those waiting for an optimal one, because scale compensates for inefficiency.
 related:
+  - INS-260325-C528
+  - INS-260327-8048
   - INS-260330-73F3
-  - INS-260330-43CA
-  - INS-260330-0B8D
-  - INS-260330-EB48
-  - INS-260330-8B93
-  - INS-260330-4EC0
-  - INS-260403-F088
-  - INS-260403-3946
-  - INS-260403-D518
+  - INS-260330-4489
+  - INS-260330-11EB
   - INS-260403-262F
+  - INS-260404-B6E8
+  - INS-260404-AE3C
+  - INS-260404-3B9D
+  - INS-260404-1000
 evidence:
   - id: INS-260330-6ECA
     type: SUPPORTS

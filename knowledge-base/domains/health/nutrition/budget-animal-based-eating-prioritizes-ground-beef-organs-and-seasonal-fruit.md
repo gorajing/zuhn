@@ -52,9 +52,9 @@ related:
   - INS-260327-8EB7
   - INS-260327-0402
   - INS-260327-8ADE
-  - INS-260327-DDC3
   - INS-260327-C0C7
   - PRI-260328-D9D0
+  - INS-260327-9A23
 ---
 The most affordable animal-based diet template: grass-fed ground beef (~$7-9/lb at Costco), pasture-raised eggs, raw milk or whole milk, seasonal fruit, and organ supplements (desiccated liver/heart capsules for those who won't eat whole organs). This provides the full spectrum of animal-based nutrients at a fraction of the cost of premium cuts.
 

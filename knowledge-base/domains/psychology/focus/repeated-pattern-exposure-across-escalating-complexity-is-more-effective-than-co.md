@@ -56,11 +56,10 @@ stance: >-
   moving on.
 related:
   - INS-260329-E914
+  - PRI-260405-71C5
   - PRI-260328-49CB
   - INS-260329-493A
   - INS-260330-189F
-  - INS-260329-26AC
-  - INS-260329-BE50
   - INS-260329-50C0
   - INS-260330-B4B9
 evidence:

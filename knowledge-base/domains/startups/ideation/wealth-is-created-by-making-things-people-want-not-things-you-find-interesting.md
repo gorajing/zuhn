@@ -52,8 +52,8 @@ related:
   - INS-260404-0095
   - INS-260330-E263
   - INS-260403-FCA6
-  - INS-260404-CF2A
   - INS-260403-8F31
+  - INS-260323-2726
 ---
 Graham highlights a critical founder trap: conflating personal interest with market demand. His example of the woman starting an 'outdoor portal' because she liked the outdoors illustrates how founders project their own preferences onto the market. The correct business for someone who likes the outdoors might be data recovery — there's zero connection between what you enjoy and what creates wealth.
 

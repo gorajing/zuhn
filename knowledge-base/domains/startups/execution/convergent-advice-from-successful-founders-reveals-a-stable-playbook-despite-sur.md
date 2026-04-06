@@ -56,6 +56,7 @@ related:
   - INS-260330-C391
   - INS-260403-64D0
   - INS-260404-8890
+  - PRI-260405-93E2
   - INS-260402-E140
 ---
 Kate was struck by how consistent the advice was across different YC speakers, and Graham confirms this pattern. The recurring themes are: launch something fast, listen to users, then iterate; startups require resilience because they're always an emotional rollercoaster; and most VCs are sheep. Graham notes that launching fast and iterating was contrarian advice 10 years prior but had become established practice.

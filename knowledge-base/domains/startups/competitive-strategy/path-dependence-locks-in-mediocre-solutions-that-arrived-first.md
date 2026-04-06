@@ -53,15 +53,15 @@ stance: >-
   faster than the alternative's advantage grows
 related:
   - INS-260330-E218
-  - INS-260330-3EE4
-  - INS-260330-4C3A
-  - INS-260330-43CA
   - INS-260330-D4CC
-  - INS-260330-0B8D
-  - INS-260330-EACA
+  - INS-260330-3FF4
   - INS-260330-11EB
   - PRI-260403-C34A
-  - INS-260403-F088
+  - INS-260403-1731
+  - INS-260404-D39F
+  - INS-260404-5DE4
+  - INS-260405-F20F
+  - INS-260404-AE3C
 evidence:
   - id: INS-260330-E218
     type: TRANSFERS_TO

@@ -1,7 +1,5 @@
 # Tag: equity
 
-- `INS-260323-4B09` Zero people on the Forbes 400 got there from earned income alone — the vast majority are buyers and builders who continuously acquire and compound businesses.
-- `INS-260323-9A29` Cash flow funds your lifestyle today; equity creates wealth tomorrow — McDonald's burgers generate cash flow but their $45B real estate portfolio and $1.6B in franchise royalties are the actual wealth engine.
 - `INS-260329-61CF` Only take a partner who clearly contributes money, experience, or time-energy that you genuinely lack — and can demonstrate active contribution of that resource.
 - `INS-260330-64E1` Even solo founders should put standard 4-year vesting on their shares to set cultural precedent and satisfy investor expectations.
 - `INS-260330-3E6F` Among YC's highest-valued companies, none had significantly unequal founder equity splits.
@@ -10,13 +8,15 @@
 - `INS-260330-E4D9` Demoting an executive preserves their above-market equity while destroying their authority, making it worse than a clean separation for everyone involved.
 - `INS-260403-85DE` An employee who improves expected outcomes by 20% is worth up to 16.7% equity before salary costs.
 - `INS-260330-C7FF` The most successful YC companies gave generous equity to early employees (~10% for first 10) while fighting to minimize investor dilution.
-- `INS-260330-A9CB` Demoting an executive preserves their above-market equity while stripping their authority, creating resentment from peers who earn less for doing more.
-- `INS-260330-D5FB` Keeping a demoted executive preserves their above-grade equity while signaling that effort without results is enough to maintain senior compensation.
 - `INS-260330-CBF3` Target giving 10% of the company to the first 10 employees because employees compound value over years while investors mostly write a check.
 - `INS-260330-855A` YC data shows the most successful companies give 3-5% equity annually to employees, and investors who fight equity grants are shortsighted despite it diluting them equally with founders.
 - `INS-260403-3D38` Founders are investors buying stock with work, so downturns represent the same buying opportunity for them as for financial investors.
 - `INS-260403-37F4` Multiply annual salary plus overhead by 1.5 to estimate total stock-equivalent cost at current valuation.
 - `INS-260403-BAD7` Give up n% only if the deal makes your (100-n)% worth more than 100% was before.
 - `INS-260330-C4D4` While VCs frame vesting as protecting their investment, its most practical function is solving the problem of what happens if a co-founder quits.
+- `INS-260330-A9CB` Demoting an executive preserves their above-market equity while stripping their authority, creating resentment from peers who earn less for doing more.
+- `INS-260330-D5FB` Keeping a demoted executive preserves their above-grade equity while signaling that effort without results is enough to maintain senior compensation.
 - `INS-260405-6DAD` Founders taking equity upfront are making the same bet as ladder climbers — they've just restructured the timeline of risk and reward.
 - `INS-260403-CF7C` Falling startup costs have given founders structural leverage over investors, increasing equity retention and board control.
+- `INS-260323-4B09` Zero people on the Forbes 400 got there from earned income alone — the vast majority are buyers and builders who continuously acquire and compound businesses.
+- `INS-260323-9A29` Cash flow funds your lifestyle today; equity creates wealth tomorrow — McDonald's burgers generate cash flow but their $45B real estate portfolio and $1.6B in franchise royalties are the actual wealth engine.

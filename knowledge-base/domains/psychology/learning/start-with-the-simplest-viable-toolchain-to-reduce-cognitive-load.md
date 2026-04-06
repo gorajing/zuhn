@@ -51,10 +51,10 @@ stance: >-
   unrelated to the core concept
 related:
   - INS-260329-65CD
+  - PRI-260405-71C5
   - INS-260329-E914
   - INS-260329-E402
   - PRI-260403-ABDE
-  - PRI-260321-7307
 ---
 The tutorial deliberately starts with just a text editor and browser — no build tools, no frameworks, no package managers. This isn't just simplification; it's a cognitive load management strategy. Every additional tool in a learning environment is a potential source of errors that have nothing to do with the subject being taught. A webpack configuration error when you're trying to learn HTML tags creates confusion about what's 'HTML' vs what's 'tooling.'
 

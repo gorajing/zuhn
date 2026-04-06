@@ -40,11 +40,10 @@ stance: >-
   superior budget option
 related:
   - INS-260325-A61B
-  - INS-260327-5C78
-  - INS-260327-22E8
   - INS-260327-8EB7
-  - INS-260327-DDC3
+  - INS-260327-22E8
   - PRI-260328-25C9
   - INS-260327-33F7
+  - INS-260322-2647
 ---
 Sprouts provides comparable quality grass-fed meat, organic produce, and specialty dairy to Whole Foods at significantly lower prices, making it a superior budget option

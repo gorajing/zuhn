@@ -49,11 +49,11 @@ stance: >-
   when conditions change, not merely degrade gracefully
 related:
   - INS-260403-979D
+  - PRI-260405-3449
   - INS-260330-A3EB
   - INS-260330-8C54
   - INS-260403-304E
   - INS-260330-CA97
-  - INS-260405-F03A
 evidence:
   - id: INS-260403-979D
     type: SUPPORTS

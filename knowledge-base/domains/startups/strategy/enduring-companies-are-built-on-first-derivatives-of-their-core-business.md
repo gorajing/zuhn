@@ -47,10 +47,10 @@ resolutions:
     willing to build it outside conventional ecosystem thinking.
 related:
   - PRI-260323-7B35
+  - PRI-260405-5266
   - INS-260403-6279
   - INS-260327-EA4E
   - INS-260403-EAC6
-  - INS-260328-A666
   - INS-260404-886C
 stance: >-
   Most of the world's most successful companies made their real money not from

@@ -49,11 +49,11 @@ stance: >-
   byproducts when conditions change, and the organism will spend more energy
   managing side effects than it originally spent on the core function.
 related:
+  - PRI-260405-3449
   - INS-260330-CA97
   - INS-260330-E5DC
   - INS-260330-A3EB
   - INS-260330-D304
-  - INS-260405-3048
 evidence:
   - id: INS-260330-CA97
     type: TRANSFERS_TO

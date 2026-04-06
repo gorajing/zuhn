@@ -49,10 +49,10 @@ stance: >-
   features and specifications.
 related:
   - INS-260323-1CA4
-  - INS-260328-0C87
   - INS-260329-4A96
   - INS-260329-C56D
   - PRI-260403-0ABD
+  - PRI-260405-91AD
   - INS-260330-5F35
   - INS-260403-B446
   - INS-260330-7D07

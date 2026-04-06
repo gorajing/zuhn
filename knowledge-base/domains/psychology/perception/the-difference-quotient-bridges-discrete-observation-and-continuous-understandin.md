@@ -55,10 +55,10 @@ stance: >-
   technique for extracting precise truths from imprecise measurements.
 related:
   - INS-260329-F4B2
+  - PRI-260405-6867
   - INS-260330-FF5B
   - INS-260323-433B
   - INS-260329-8015
-  - INS-260403-BADD
 evidence:
   - id: INS-260330-FF5B
     type: EXTENDS

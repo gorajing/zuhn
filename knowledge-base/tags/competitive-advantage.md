@@ -7,9 +7,6 @@
 - `INS-260323-4EE4` The new competitive moat is not better models but better judgment on which tasks go to which AI and which stay with humans.
 - `INS-260323-AF7B` AI programming tools have a unique competitive dynamic where every model improvement creates new product possibilities, making iteration speed the primary moat over incumbents.
 - `INS-260329-C375` HFT firms treat latency dashboards and real-time alerts as competitive infrastructure, not optional observability tooling.
-- `INS-260327-643C` Score any software company across 8 moat dimensions — four or more means durable, two or less means vulnerable.
-- `INS-260403-8E25` The U.S. leads in space with launch sites, talent, capital markets, and reusable launch technology, but history shows every transportation era's early winner eventually faces challengers who close the gap.
-- `INS-260327-0FA9` After defeating Napoleon at Aspern-Essling, Austria hesitated instead of pressing the advantage, giving Napoleon six weeks to rebuild and return with overwhelming force.
 - `INS-260330-750A` The Mongols became siege warfare experts and adopted gunpowder by interrogating prisoners and absorbing techniques from conquered peoples.
 - `INS-260329-93AE` Stop treating goal-setting as a strategy — focus instead on committing to the daily activities that produce goals, since everyone already shares the same goals.
 - `INS-260403-3517` Vertical AI trained on domain-specific data outperforms generalist AI enough to unbundle horizontal SaaS incumbents.
@@ -34,7 +31,6 @@
 - `INS-260330-DD10` Attack incumbents where their architecture or economics prevent them from following you.
 - `INS-260403-9106` Bundling financial services into a marketplace creates LTV advantages that fund superior customer acquisition.
 - `INS-260330-6A47` In winner-take-all markets, being adequate first beats being optimal later because the first mover reshapes the competitive environment.
-- `INS-260330-43CA` RuBisCo is a terrible enzyme that confuses O2 for CO2 half the time, yet 40 billion tons of it dominate Earth because plants went all-in before oxygen levels rose.
 - `INS-260327-FC6F` There is no moat in AI — the best defense is offense, constantly innovating and pushing out new products faster than anyone else.
 - `INS-260330-66C7` Uber built secret systems (Greyball, Hell, Heaven) to surveil regulators and competitors, creating asymmetric information advantages that were nearly impossible to counter.
 - `INS-260402-E470` Choosing a more expressive language creates a development velocity gap competitors cannot close by hiring more people.
@@ -44,7 +40,6 @@
 - `INS-260322-7282` Owning the full workflow from intake to outcome generates proprietary data that public models can't replicate — creating a compounding competitive advantage.
 - `INS-260405-DEF2` Being the only or one of two options in a category gives you more leverage over suppliers than volume alone ever could.
 - `INS-260330-7DB7` In-N-Out's real product is consistency, not burgers — and that reframe explains every strategic decision they make.
-- `INS-260330-7B11` RuBisCo is a terrible enzyme that won by being produced in massive quantities — 40 billion tons on Earth — because 'good enough at scale' beats 'perfect but scarce.'
 - `INS-260403-C7A0` Incumbents who outsourced their entire tech stack to vendors cannot compete on product speed with tech-native challengers.
 - `INS-260403-876D` When a dominant player leaves a critical technical problem unsolved, that gap is a viable entry point for focused competitors.
 - `INS-260403-3F9C` Silicon Valley's transformation from charming college town to suburban sprawl creates an opening for competitor cities that preserve urban livability.
@@ -62,24 +57,27 @@
 - `INS-260327-4081` Allocating AI intelligence effectively across your org is the new moat, like capital allocation was for Berkshire Hathaway.
 - `INS-260330-883E` The extreme operational stress of running live server software can only be sustained by founders, giving startups a structural edge large companies cannot replicate by hiring.
 - `INS-260330-DC22` Unscalable founder involvement is a moat that should be defended, not a phase to outgrow.
-- `INS-260330-7C05` Get big slow — the slower you burn funding, the more time you have to learn, and deep business understanding is the ultimate competitive weapon.
 - `INS-260330-70BF` No entrepreneur fears AI taking their job because entrepreneurship requires self-directed agency and authentic desires that AI structurally lacks.
 - `INS-260323-C0BD` GSP and Lex Fridman agree that in martial arts, skill level is by far the most important factor — it trumps strength, size, and even heart.
 - `INS-260403-4431` Rare genuine interest in commercially valuable but unappealing work creates a natural monopoly on motivation and persistence.
-- `INS-260321-E654` Defense primes' advantage over startups is not inventiveness but production and manufacturing at scale — startups must build factory and quality-testing muscle to cross the procurement chasm.
+- `INS-260330-7C05` Get big slow — the slower you burn funding, the more time you have to learn, and deep business understanding is the ultimate competitive weapon.
 - `INS-260323-73AB` Cuban identifies curiosity, agility, and the ability to sell as the three entrepreneurial essentials — with curiosity as the foundation because business is never static.
 - `INS-260322-36E3` Every dollar of profit not reinvested into growth is a dollar a competitor could use to catch up — operate at breakeven to build position while competitors extract profits.
+- `INS-260321-E654` Defense primes' advantage over startups is not inventiveness but production and manufacturing at scale — startups must build factory and quality-testing muscle to cross the procurement chasm.
+- `INS-260403-1C09` Investing in innovation during downturns yields disproportionate post-crisis growth and market position.
 - `INS-260321-E471` Most founders filter out ideas requiring more than two years to work, so simply imagining ideas with longer timelines dramatically reduces competition.
 - `INS-260323-DE2B` Productivity apps are beginner-friendly to build but impossible to win because everyone else had the same idea — serious businesses require domain expertise that most competitors cannot replicate.
-- `INS-260403-1C09` Investing in innovation during downturns yields disproportionate post-crisis growth and market position.
 - `INS-260403-9AB5` Most organizations underexplore innovation by focusing only on product features, missing business model, process, and experience innovations.
 - `INS-260329-476D` Willingness to work on something for 5-10 years is itself a competitive advantage because most founders filter out ideas that won't pay off in two years.
 - `INS-260329-1A3B` If prospects reject your free offer, their objections reveal hidden costs that, once eliminated, let you charge premium prices while competitors still impose those costs.
 - `INS-260327-FA62` Knowing what 'good' looks like in a profession is more important than ML expertise when building AI products for that profession.
 - `INS-260403-B8A3` Internal ventures without access to parent company brand, customers, and resources lose their only structural advantage over independent startups.
+- `INS-260327-643C` Score any software company across 8 moat dimensions — four or more means durable, two or less means vulnerable.
 - `INS-260330-ABB1` The cheapest M1 MacBook Air outperformed the most expensive Intel i9 MacBook Pro in most developer workflows while running cooler and using less battery.
 - `INS-260330-FEB0` The Eastern Empire survived 1,000 years longer than the West primarily because it was richer, more urban, more compact, and closer to major trade routes — not because it had better armies.
 - `INS-260329-FC53` Your results are mostly determined by which vehicle you operate in, not how hard you row.
 - `INS-260330-8D99` Photosynthesis is 'complicated, inefficient and confusing' yet has dominated Earth's energy economy for 450 million years because it shipped first.
 - `INS-260405-88F9` Costco's ~4,000 SKUs versus Walmart's 140,000 means suppliers fight to be one of two choices, handing Costco extreme pricing power.
 - `INS-260403-9DC6` Geographic tech clusters win not through information access but through human networks that curate which information matters—and the best insider knowledge is still transmitted in person.
+- `INS-260403-8E25` The U.S. leads in space with launch sites, talent, capital markets, and reusable launch technology, but history shows every transportation era's early winner eventually faces challengers who close the gap.
+- `INS-260327-0FA9` After defeating Napoleon at Aspern-Essling, Austria hesitated instead of pressing the advantage, giving Napoleon six weeks to rebuild and return with overwhelming force.

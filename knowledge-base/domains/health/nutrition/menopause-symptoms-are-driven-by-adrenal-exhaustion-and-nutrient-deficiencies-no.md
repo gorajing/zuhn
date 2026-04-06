@@ -44,10 +44,10 @@ related:
   - INS-260325-DC90
   - PRI-260325-E271
   - PRI-260325-638B
+  - INS-260327-EE51
   - INS-260327-78E6
   - PRI-260328-92EF
   - INS-260327-B1A8
   - INS-260327-A680
-  - INS-260327-70EB
 ---
 Most menopause symptoms result from adrenal gland exhaustion (the backup estrogen source post-ovarian decline), worsened by chronic stress, vitamin D deficiency, and magnesium depletion -- not simply low estrogen requiring HRT

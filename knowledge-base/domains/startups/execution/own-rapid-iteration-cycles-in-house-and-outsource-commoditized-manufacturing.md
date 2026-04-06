@@ -50,14 +50,14 @@ stance: >-
   under-optimizing the final product dwarfs the savings from outsourcing
   iteration.
 related:
-  - INS-260327-0004
   - INS-260327-9AD8
   - INS-260327-DC65
   - INS-260330-B882
   - INS-260323-AF7B
+  - INS-260327-0004
+  - PRI-260405-0AC6
   - INS-260403-219E
   - PRI-260320-A2C7
-  - PRI-260328-935A
   - INS-260403-C7A0
 evidence:
   - id: INS-260323-AF7B

@@ -43,12 +43,12 @@ stance: >-
   Writing in spoken language makes you more effective than 95% of writers
   because formality creates distance and false depth rather than clarity
 related:
-  - INS-260323-87F3
   - INS-260327-04D8
   - INS-260404-875B
+  - INS-260323-87F3
   - INS-260405-86BB
+  - PRI-260405-BF5B
   - INS-260403-6652
-  - INS-260404-D6EE
 evidence:
   - id: INS-260323-87F3
     type: CHALLENGES

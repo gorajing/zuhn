@@ -49,11 +49,11 @@ stance: >-
   structure communicates unchangeability more reliably than any documentation or
   naming convention
 related:
+  - PRI-260405-2A95
   - INS-260329-3423
   - INS-260329-47DD
   - INS-260329-0CC5
   - INS-260330-DEF7
-  - INS-260330-C31B
   - INS-260330-4B84
 evidence:
   - id: INS-260330-DEF7

@@ -49,9 +49,9 @@ stance: >-
 related:
   - INS-260325-2F12
   - INS-260330-541B
-  - INS-260325-3611
   - INS-260329-6727
   - INS-260330-85AE
+  - INS-260329-0CC5
   - INS-260330-09AB
 ---
 Sanderson's key move is showing that the sum of ring areas (2πr·dr for r from 0 to 3) can be visualized as thin rectangles under the graph of 2πr — a straight line that forms a triangle. The area of that triangle (½ · 3 · 6π = 9π = π·3²) immediately gives the circle's area.

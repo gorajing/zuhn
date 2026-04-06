@@ -54,8 +54,8 @@ related:
   - INS-260330-0242
   - PRI-260328-1654
   - INS-260327-6570
+  - PRI-260405-6867
   - INS-260330-E823
-  - INS-260404-9A69
 ---
 Most learning advice focuses on discipline and grit, but Fireship argues the real leverage is in reward engineering. Writing down small achievable daily goals and checking them off exploits dopamine release to create a positive feedback loop. The critical insight is speed-to-first-reward: building a full working demo as quickly as possible, even if imperfect, prevents the negative feedback loop where pain accumulates without payoff.
 

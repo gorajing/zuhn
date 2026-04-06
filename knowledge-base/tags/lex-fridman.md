@@ -4,12 +4,9 @@
 - `INS-260323-1345` When AI exceeds human intelligence, our species' value shifts from information processing to subjective experience and consciousness.
 - `INS-260323-29ED` GPT-4's remarkable reasoning emerges from an incredibly simple feed-forward architecture trained on next-word prediction, not from replicating brain complexity.
 - `INS-260323-87F3` Using AI to rewrite emotional messages or generate personal speeches eliminates the meaningful human struggle from communication.
-- `INS-260323-365A` Meta open-sources AI models like LLaMA because ecosystem innovation makes their own infrastructure more efficient while attracting top researchers.
 - `INS-260323-C4EE` Meta's codec avatars encode facial expressions into a compact model rather than transmitting full video, achieving photorealism while using less bandwidth than traditional video calls.
 - `INS-260323-4D63` Quest 3's mixed reality breakthrough is making VR more comfortable and practical by layering digital objects onto the physical world rather than fully immersing users.
-- `INS-260323-5B36` El-Kurd's campaign succeeded globally because it finally matched visual imagery to rhetoric, making the power asymmetry undeniable to international observers.
-- `INS-260323-17B5` El-Kurd demonstrates how legal systems can be constructed to legitimize displacement, drawing parallels to Jim Crow laws that were technically legal but morally bankrupt.
-- `INS-260323-04D4` El-Kurd shows that media coverage of geopolitical conflicts misleads not through fabrication but through systematic omission of essential context.
+- `INS-260323-365A` Meta open-sources AI models like LLaMA because ecosystem innovation makes their own infrastructure more efficient while attracting top researchers.
 - `INS-260323-97DB` Adams never thought losing was possible — he entered every contest expecting to win, which meant his only losses were Olympic and World Championship finals on split decisions.
 - `INS-260323-F9FD` Adams lost the 1980 Olympic final after cutting weight poorly with bad nutrition — a fundamental failure that mattered more than the opponent's skill at the highest competitive level.
 - `INS-260323-2B53` Neil Adams describes his desire to win as something 'as much a part of me as my arms and legs' — deeply rooted rather than learned, persisting from childhood competitions through to casual games of pool decades after retirement.
@@ -31,3 +28,6 @@
 - `INS-260323-8726` The moment you decide you are too embarrassed to try something new, you stop learning — making willingness to be a beginner the most important skill for leaders.
 - `INS-260323-6908` The codec avatar system crosses the uncanny valley by preserving human imperfections like freckles, asymmetry, and wrinkles rather than smoothing them out.
 - `INS-260323-92AD` Mortgage fraud safeguards are designed for ordinary borrowers, not for brokers who understand the system — Cox learned to exploit seams by moving from employee to company owner where he could see the full architecture.
+- `INS-260323-5B36` El-Kurd's campaign succeeded globally because it finally matched visual imagery to rhetoric, making the power asymmetry undeniable to international observers.
+- `INS-260323-17B5` El-Kurd demonstrates how legal systems can be constructed to legitimize displacement, drawing parallels to Jim Crow laws that were technically legal but morally bankrupt.
+- `INS-260323-04D4` El-Kurd shows that media coverage of geopolitical conflicts misleads not through fabrication but through systematic omission of essential context.

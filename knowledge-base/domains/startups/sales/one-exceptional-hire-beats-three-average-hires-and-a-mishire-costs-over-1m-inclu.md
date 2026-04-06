@@ -64,6 +64,7 @@ stance: >-
   and restart.
 related:
   - INS-260323-2C70
+  - PRI-260405-608A
   - PRI-260328-E870
   - INS-260403-C977
   - INS-260323-9A93
@@ -72,7 +73,6 @@ related:
   - INS-260327-8997
   - INS-260330-7241
   - INS-260330-22A2
-  - INS-260330-965B
 evidence:
   - id: INS-260327-3653
     type: CONTRADICTS

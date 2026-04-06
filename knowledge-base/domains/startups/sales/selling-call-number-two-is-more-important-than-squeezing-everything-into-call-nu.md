@@ -59,8 +59,8 @@ related:
   - INS-260327-CC57
   - PRI-260328-E921
   - PRI-260403-0ABD
+  - PRI-260405-91AD
   - INS-260327-9483
-  - INS-260327-9C00
 ---
 Peter An identifies a pattern he sees in nearly every founder sales call: with 2 minutes left, the seller asks 'can I show you one more thing?' This is dangerous because feature-stuffing the first demo overwhelms prospects without actually advancing the deal. In enterprise sales with 8-30 decision-makers, you can't close in one call anyway.
 

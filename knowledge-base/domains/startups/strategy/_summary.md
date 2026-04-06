@@ -1,6 +1,6 @@
 # Topic: strategy
 
-> 231 insights
+> 217 insights
 
 - `INS-260330-98EA` [high] The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples.
 - `INS-260403-0530` [high] New York struggles as a startup hub because founders there are second-class citizens in a status hierarchy that most admires financial wealth.
@@ -10,7 +10,6 @@
 - `INS-260404-E65A` [high] Costco's $60 fee, warehouse layout, and bulk sizes filter for affluent ($100K household income) and business customers who spend disproportionately more.
 - `INS-260403-243A` [high] Costco's $60 membership fee and bulk-only format filter for affluent, high-spending households averaging $100K income who renew at 90%.
 - `INS-260404-5587` [high] Costco's $60 membership fee filters for households averaging $100K income and business owners who account for two-thirds of sales despite being one-third of members.
-- `INS-260330-7ECB` [high] Apple deliberately buys small teams and technology rather than whole companies to avoid the cultural dilution and integration overhead that derails operationally focused organizations.
 - `INS-260330-217C` [high] Apple's strategy of acquiring small teams for talent and technology rather than buying large companies preserves the extreme focus that drives its premium margins.
 - `INS-260330-ABB1` [high] The cheapest M1 MacBook Air outperformed the most expensive Intel i9 MacBook Pro in most developer workflows while running cooler and using less battery.
 - `INS-260330-73F3` [high] DNA replication's lagging strand can't simply mirror the leading strand — it requires an entirely different mechanism with Okazaki fragments, multiple primers, and extra enzymes.
@@ -33,7 +32,6 @@
 - `INS-260404-B086` [high] Costco's $60 membership fee, confusing warehouse layout, and bulk-only sizing all seem like obstacles but actually select for affluent, high-spending customers with $100K average household income.
 - `INS-260403-9104` [high] Costco's $60+ membership fee filters for affluent, high-spending customers while simultaneously creating sunk-cost-driven loyalty.
 - `INS-260404-7A5B` [high] Costco turns every seeming disadvantage — fees, sparse selection, warehouse aesthetics — into a structural competitive advantage.
-- `INS-260403-2C00` [high] Costco's $60 membership fee filters for affluent households averaging $100K income who spend more per visit.
 - `INS-260405-4CDA` [high] The 1980s leveraged buyout wave succeeded partly because corporate balance sheets never formalized the debt owed to employees for deferred promotion promises.
 - `INS-260323-1EEA` [high] Frebel's experience: even astronomers who share interests and work on the same phenomena struggle to communicate across theoretical and observational subfields — but pushing through produces the best work.
 - `INS-260330-5A4C` [high] Running nodes must be culturally ingrained as a responsibility, not just technically possible, because without that culture economic pressure will centralize the network.
@@ -55,7 +53,6 @@
 - `INS-260322-229C` [high] Most of the world's most successful companies made their real money not from their core product but from a first derivative of it — Union Pacific from land sales, Google from ads on search, Shopify from payments on commerce.
 - `INS-260403-1636` [high] Plants evolved entire metabolic pathways to handle RuBisCo's toxic byproducts rather than replacing RuBisCo, making the entrenched system more resilient over time.
 - `INS-260403-A5D5` [high] RuBisCo's inability to distinguish O2 from CO2 was irrelevant in a low-oxygen world but became a 50% failure rate once plants oxygenated the atmosphere they depended on.
-- `INS-260403-CF3E` [high] RuBisCo evolved in a low-oxygen atmosphere, then photosynthesis itself raised oxygen levels until RuBisCo started confusing O2 for CO2 half the time — success changed the environment in ways that undermined the winning strategy.
 - `INS-260330-3E6B` [high] When an industry's business model is disrupted, the enterprises in that industry need new software — creating opportunities for vertical startups.
 - `INS-260404-5DE4` [high] RuBisCo is a terrible enzyme that dominates Earth because plants committed to it early and scaled massively rather than optimizing.
 - `INS-260405-B09F` [high] RuBisCo misfires ~50% of the time in today's oxygen-rich atmosphere—but 450 million years of investment make it impossible to switch away.
@@ -65,7 +62,6 @@
 - `INS-260329-7D18` [high] Your 20s are for sampling widely and your 30s are for going deep on the best thing you found — mistiming this transition is the most common career error.
 - `INS-260324-DC98` [high] UNIQLO, Zara, and H&M transformed fashion from a creativity contest into a speed-and-curation game, driving GAP to irrelevance and J.Crew to bankruptcy.
 - `INS-260403-2C1A` [high] Early photosynthetic organisms with inefficient RuBisCo dominated Earth because being first let them reshape the entire atmosphere and ecosystem around their approach.
-- `INS-260404-C25C` [high] Early ecosystem capture with a 'good enough' solution creates compounding switching costs that make replacement nearly impossible, even when the solution is demonstrably suboptimal.
 - `INS-260322-8299` [high] The correct sequence is pricing optimization -> freed cash flow -> attribution tracking -> paid ads -> content/thought leadership, not the reverse.
 - `INS-260403-990C` [high] When an industry's value chain has cascading dependencies, optimizing one link compounds gains through every downstream step — making fragmented chains the highest-ROI AI targets.
 - `INS-260323-8893` [high] Raising funding is just the beginning of obligation, not a milestone of success — bootstrapping forces the discipline of margin-first thinking that funded companies defer until it's too late.
@@ -87,8 +83,6 @@
 - `INS-260330-012D` [high] LA water engineers tried floating tarps, PVC trampolines, pipe chippers, and debris fields — each failure's specific flaw narrowed the solution space until shade balls emerged.
 - `INS-260330-BF8F` [high] Web pages as UI were crude compared to desktop apps, but ubiquitous browser access was such a large advantage that quality didn't matter.
 - `INS-260330-22C0` [high] RuBisCo is terrible at its job but plants went all-in on it and now produce 40 billion tons rather than evolve a replacement — illustrating how early dominance creates irreversible lock-in.
-- `INS-260330-0E77` [high] When RuBisCo began producing toxic phosphoglycolate due to atmospheric oxygen, plants evolved detoxification pathways rather than a better enzyme — the biological equivalent of writing wrapper functions around buggy legacy code.
-- `INS-260330-50B3` [high] RuBisCo was designed for a low-oxygen world, became half-broken when plants changed the atmosphere, but plants doubled down rather than evolving a replacement — a universal pattern in organizations and codebases.
 - `INS-260404-5CC6` [high] Dominant systems persist not because they are optimal but because entire ecosystems co-evolved around their limitations.
 - `INS-260329-FC53` [high] Your results are mostly determined by which vehicle you operate in, not how hard you row.
 - `INS-260403-215E` [high] Be selective with radical bets — pursue few enough to maintain conviction and execution quality, and size them so failure is survivable.
@@ -104,12 +98,10 @@
 - `INS-260330-659D` [high] Shade balls were purchased to block bromate formation, but their secondary benefits — 80-90% evaporation reduction, algae elimination, near-zero chlorination — pay back at least half their cost.
 - `INS-260328-A417` [high] PG's anti-zero-sum thesis — that funding more startups creates more total wealth rather than diluting a fixed pool — was proven right by YC and applies to AI-era Series A investing.
 - `INS-260403-08FE` [high] Costco turns its $60 entry fee, confusing layout, and bulk-only format into loyalty drivers and demographic filters.
-- `INS-260403-FDB8` [high] Costco's $60 entry fee filters for affluent households averaging $100K income, who then spend more and renew at 90%.
 - `INS-260330-4ACF` [high] Britain promised Palestine to three different parties simultaneously, ensuring universal betrayal and lasting conflict.
 - `INS-260403-0B14` [high] Parental drive to advantage children is so powerful that only structural solutions (smaller organizations, market measurement) work—rule-based patches always get circumvented.
 - `INS-260404-BC18` [high] RuBisCo is terrible at its job but plants produce 40 billion tons of it rather than evolve an alternative, mirroring how startups cement early technical choices.
 - `INS-260404-8947` [high] RuBisCo is terrible at its job but irreplaceable — early commitment plus ecosystem adaptation creates permanent lock-in.
-- `INS-260404-D452` [high] RuBisCo's evolutionary story shows how early dominance with a bad strategy creates irreversible lock-in that organisms (and companies) compensate around rather than replace.
 - `INS-260330-4983` [high] RuBisCo is terrible at its job but 450 million years of built infrastructure makes replacing it impossible — the same dynamic traps companies on legacy systems.
 - `INS-260404-1FCE` [high] RuBisCo is terrible at its job but plants went all-in on it 450M years ago and now produce 40 billion tons rather than evolve a better enzyme.
 - `INS-260403-335F` [high] RuBisCo shows how a 'good enough' early bet can permanently lock a system into managing costly workarounds rather than redesigning.
@@ -140,11 +132,6 @@
 - `INS-260403-FED6` [high] The retailers killed during the 'Retail Apocalypse' (Sears, Toys-R-Us, RadioShack) shared a common trait: they had stopped serving customers well long before Amazon arrived.
 - `INS-260403-92CC` [high] Category leaders show revenue growth that compounds with user growth because each new business model layer increases revenue per existing customer.
 - `INS-260330-C7CB` [high] The agricultural revolution was not a revolution — it was 13,000+ years of people incrementally optimizing for 'more food' without intending systemic change.
-- `INS-260330-EB48` [high] RuBisCo is a terrible enzyme that plants can't replace because all of biology is built on it — a pattern that recurs in technology and business strategy.
-- `INS-260403-3946` [high] RuBisCo is a terrible enzyme that won because it arrived first and scaled before alternatives could emerge.
-- `INS-260330-0B8D` [high] RuBisCo is a bad enzyme that became irreplaceable because plants scaled around it before its environment changed.
-- `INS-260403-818F` [high] RuBisCo was built for a low-oxygen world and became too entrenched to replace when oxygen levels rose, forcing plants to build workarounds instead.
-- `INS-260330-CBF8` [high] Scaling a flawed core strategy creates irreversible lock-in where compensation costs less than redesign.
 - `INS-260405-F20F` [high] RuBisCo, an enzyme that makes catastrophic errors 50% of the time, remains the planet's dominant carbon-fixing enzyme because plants went all-in on it before oxygen made it dysfunctional.
 - `INS-260404-B1AB` [high] RuBisCo is terrible at its job but 40 billion tons of it run the biosphere because early life scaled quantity over quality.
 - `INS-260330-4489` [high] RuBisCo is terrible at its job but plants produce 40 billion tons of it rather than evolving a better enzyme — a biological case study in scale-over-quality lock-in.
@@ -229,7 +216,6 @@
 - `INS-260404-0A17` [medium] Business model innovation exists on a continuum from incremental improvement to radical invention, not as a binary choice.
 - `INS-260323-224F` [medium] The Large Hadron Collider discovered the Higgs boson (confirming a 50-year-old prediction) but failed to find supersymmetry, becoming a cautionary tale about building a machine optimized for the expected rather than the unknown.
 - `INS-260322-AAEA` [medium] A week is long enough to validate ideas and ship products; ten years captures true strategic direction. Quarterly planning is a deeply useless middle ground where cohorts don't bake and real outcomes aren't visible.
-- `INS-260330-3FCF` [medium] Evolution's RuBisCo strategy — flood the system with a mediocre enzyme rather than replace it — mirrors how startups accumulate technical debt and compensate with scale.
 - `INS-260330-B27A` [medium] LA discovered that sunlight + chlorine + bromide creates bromate — a carcinogenic reaction not covered by existing regulations that only monitored ozone-based bromate formation.
 - `INS-260405-2748` [medium] Amazon's original content production reduces its exposure to third-party studios that could raise licensing fees or pull content to launch competing services.
 - `INS-260403-3E46` [medium] If questioning the enforcement process gets you accused of the same heresy, you're witnessing a witch hunt.

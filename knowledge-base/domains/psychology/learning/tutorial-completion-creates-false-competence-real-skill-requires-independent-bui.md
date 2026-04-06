@@ -47,7 +47,6 @@ stance: >-
   that only collapses when you try to build something from scratch without
   guidance
 related:
-  - INS-260329-40B6
   - INS-260330-63B8
   - PRI-260328-909D
   - INS-260329-F21F

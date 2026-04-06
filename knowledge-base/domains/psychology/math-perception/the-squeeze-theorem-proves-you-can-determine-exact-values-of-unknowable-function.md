@@ -57,7 +57,7 @@ related:
   - INS-260329-356A
   - INS-260329-F8AF
   - INS-260329-C2E5
-  - INS-260325-3611
+  - INS-260329-02C5
 ---
 The squeeze theorem (also called the sandwich or pinching theorem) demonstrates a counterintuitive problem-solving strategy: when you cannot directly evaluate a function's behavior, bound it above and below by simpler functions whose behavior you can determine. If those bounds converge to the same value, the unknown function must converge there too. The classic example is x² sin(1/x) as x→0: sin(1/x) oscillates wildly and has no limit, but multiplying by x² traps it between -x² and x², both of which go to 0.
 

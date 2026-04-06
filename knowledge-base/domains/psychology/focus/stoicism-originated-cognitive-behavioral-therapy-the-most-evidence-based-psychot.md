@@ -52,11 +52,11 @@ stance: >-
   Stoic techniques by its founders Beck and Ellis, providing modern scientific
   evidence that ancient Stoic approaches to emotion and reasoning actually work.
 related:
+  - PRI-260405-262B
   - PRI-260327-7924
   - INS-260330-F500
   - INS-260329-E208
   - INS-260329-E900
-  - PRI-260325-E41B
 evidence:
   - id: INS-260329-E208
     type: TRANSFERS_TO

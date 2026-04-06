@@ -46,11 +46,11 @@ stance: >-
   are the strongest antidote to that fear.
 related:
   - INS-260327-4431
-  - INS-260403-1949
   - INS-260403-7072
   - INS-260403-53AA
   - INS-260404-2B4C
-  - INS-260404-3D06
+  - INS-260403-8F31
+  - INS-260403-EA2D
 evidence:
   - id: INS-260404-09E8
     type: REFINES

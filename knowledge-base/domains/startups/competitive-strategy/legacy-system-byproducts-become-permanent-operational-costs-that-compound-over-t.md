@@ -53,10 +53,10 @@ stance: >-
   that the organization must perpetually absorb rather than eliminate
 related:
   - INS-260403-C4CD
-  - INS-260330-0E77
-  - INS-260330-B3D5
   - INS-260405-7E85
   - INS-260330-F5CF
+  - INS-260403-53C9
+  - INS-260404-1F1B
   - INS-260330-F222
 evidence:
   - id: INS-260330-EACA

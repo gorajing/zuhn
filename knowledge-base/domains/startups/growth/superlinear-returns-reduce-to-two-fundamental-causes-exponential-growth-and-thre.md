@@ -50,7 +50,6 @@ stance: >-
   effects, and the most powerful outcomes combine both.
 related:
   - INS-260329-388E
-  - INS-260329-33C7
   - INS-260330-AD13
   - INS-260330-3C70
   - INS-260330-AA4F

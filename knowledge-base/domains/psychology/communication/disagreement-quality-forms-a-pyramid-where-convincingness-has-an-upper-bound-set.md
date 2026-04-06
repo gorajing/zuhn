@@ -43,10 +43,10 @@ stance: >-
   can be, regardless of eloquence or forcefulness.
 related:
   - INS-260402-2C6B
+  - PRI-260405-64C0
   - INS-260330-3570
   - INS-260403-FAC0
   - INS-260330-CD7A
-  - INS-260322-F65F
 evidence:
   - id: INS-260322-F65F
     type: TRANSFERS_TO

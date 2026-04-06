@@ -2,7 +2,6 @@
 
 - `INS-260329-6AF5` Naming a variable 'hours' helps humans read code but tricks beginners into thinking Python understands the concept of hours.
 - `INS-260329-3C75` Semantic naming and structural clarity communicate intent more reliably than comments because structure can't drift out of sync with behavior.
-- `INS-260325-69CF` SETI should technically be called SETT — Search for Extraterrestrial Technology — because we detect technology (narrow-band radio signals, laser pulses), not intelligence.
 - `INS-260404-E4B8` Photosystem II runs before Photosystem I, and 'dark reactions' occur in daylight — bad names persist because coordination costs of renaming exceed individual frustration.
 - `INS-260330-1801` Calling the unknown 85% of gravitational force 'dark matter' smuggles in the assumption that matter causes it, when 'dark gravity' would better describe what we actually observe.
 - `INS-260330-0C1D` Calling an unknown phenomenon 'dark matter' makes people debate whether it's matter, when the only confirmed property is gravitational — 'dark gravity' would keep the hypothesis space open.
@@ -20,3 +19,4 @@
 - `INS-260404-924C` Founders confuse their inability to think of alternative names with the belief that no better alternatives exist.
 - `INS-260325-A79E` The Banach-Tarski proof only works because of a specific naming scheme for points on a sphere — the right labeling system makes the 'impossible' duplication self-evident.
 - `INS-260323-2E49` Branding is not surface decoration but a worldview methodology — the process of connecting a specific concept to a name, implanting community memories, and building brand strength that converts to shareholder value through consumer benefit.
+- `INS-260325-69CF` SETI should technically be called SETT — Search for Extraterrestrial Technology — because we detect technology (narrow-band radio signals, laser pulses), not intelligence.

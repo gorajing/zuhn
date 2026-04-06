@@ -42,7 +42,6 @@ related:
   - INS-260327-9830
   - INS-260330-FF9A
   - INS-260325-F451
-  - INS-260404-D40E
   - INS-260405-451E
 stance: >-
   Finance has three jobs: explain what happened (the metric), why it happened

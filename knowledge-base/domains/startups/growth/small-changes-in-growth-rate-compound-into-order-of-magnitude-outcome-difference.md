@@ -52,7 +52,6 @@ stance: >-
   rate the highest-leverage variable to optimize.
 related:
   - INS-260323-1643
-  - INS-260327-F55C
   - INS-260327-4B5A
   - INS-260330-73A2
   - INS-260330-4AE7
@@ -61,6 +60,7 @@ related:
   - INS-260330-608C
   - INS-260330-05C7
   - PRI-260403-E097
+  - INS-260330-6AA3
 evidence:
   - id: INS-260330-9935
     type: EXTENDS

@@ -50,10 +50,10 @@ stance: >-
   wrong' increases rather than decreases their confidence in the material
 related:
   - INS-260403-C37D
+  - PRI-260405-262B
   - INS-260403-4CF9
   - INS-260330-12DC
   - INS-260327-70DF
-  - INS-260329-4A69
 evidence:
   - id: INS-260329-4A69
     type: TRANSFERS_TO

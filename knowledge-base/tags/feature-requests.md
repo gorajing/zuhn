@@ -5,4 +5,3 @@
 - `INS-260330-C5FD` Prospects who condition purchase on one more feature rarely convert even after you build it — either get a signed agreement contingent on the feature or wait for multiple customers to request it.
 - `INS-260330-FFDB` When real users request specific features, the feedback feels overwhelmingly compelling but leads to building the wrong things.
 - `INS-260330-48DE` Users ask for specific features but the real insights are the goals behind those requests — Twitch built subscriptions (not polls) because the underlying goal was making money.
-- `INS-260330-40E9` Users will say 'that sounds great' to almost any feature idea — validate with behavior observation or payment commitment instead.

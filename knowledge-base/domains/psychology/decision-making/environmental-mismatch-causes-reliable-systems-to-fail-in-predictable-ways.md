@@ -54,11 +54,11 @@ stance: >-
   wrong input rather than producing no output
 related:
   - INS-260325-82E8
-  - INS-260403-3D7D
   - INS-260405-3048
-  - INS-260403-CF3E
   - INS-260405-F03A
   - INS-260405-7E85
+  - INS-260404-2695
+  - INS-260405-02EE
   - INS-260404-5309
   - INS-260405-B09F
 evidence:

@@ -56,8 +56,8 @@ related:
   - INS-260330-0DCA
   - INS-260330-BBDA
   - INS-260404-8D23
+  - PRI-260405-C27E
   - INS-260330-BE78
-  - INS-260323-6944
 stance: >-
   Destiny identifies a recurring pattern in conservative argumentation: every
   proposed incremental fix gets redirected to a root cause (like two-pare...

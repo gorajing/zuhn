@@ -1,6 +1,6 @@
 # Topic: execution
 
-> 218 insights
+> 216 insights
 
 - `INS-260329-FCF2` [high] Doing 10-100x more volume beats 2x optimization, but you must relearn this lesson independently in each new domain you enter.
 - `INS-260403-FED1` [high] YC's batch funding model — its most important innovation — was adopted not strategically but because a summer program seemed like the fastest way to learn angel investing.
@@ -116,7 +116,6 @@
 - `INS-260402-92AE` [high] Centivax outsourced initial testing but brought optimization in-house once they knew the technology worked, making iteration cheaper, faster, and producing a more polished product.
 - `INS-260402-9681` [high] Multiple successful YC founders independently ranked persistence above intelligence as the dominant success factor.
 - `INS-260328-6A18` [high] Founders can't innovate across 20 zones — pick the top 3 where you want to innovate and hire the experienced person for everything else.
-- `INS-260403-D518` [high] Rather than evolving a better enzyme, plants simply produce massive quantities of RuBisCo to compensate for its low success rate.
 - `INS-260403-144A` [high] Rollins recognized the shrinking middle class in his 20s and deliberately stacked multiple income streams — music, acting, writing, voiceover, speaking — as insurance.
 - `INS-260330-BF96` [high] Byron Ferguson hits aspirins mid-air not by eliminating arrow wobble but by testing every arrow's spine and rejecting those outside tolerance.
 - `INS-260328-6E7A` [high] The more something looks like producing bolts, the more process works; the more it looks like producing art, the less process helps — and confusing the two is where startups go wrong.
@@ -132,7 +131,6 @@
 - `INS-260403-2376` [high] 'Make something people want' tells you where to go; 'be relentlessly resourceful' tells you how to get there day by day.
 - `INS-260327-0700` [high] Most AI startups fail because they stop at demo-quality 60% accuracy instead of grinding through evals to reach 97%+.
 - `INS-260330-4F7B` [high] Patterson built the world's first cleanroom to eliminate lead contamination from his age-of-Earth measurements, then used that same precision infrastructure to prove lead pollution was man-made — a discovery that saved millions of lives.
-- `INS-260403-D482` [high] RuBisCo is terrible at its job but plants went all-in on it 450 million years ago and still produce 40 billion tons of it rather than evolve a replacement.
 - `INS-260330-A44F` [high] Each power increase was accompanied by proportional safety upgrades: shields, kill switches, stronger mounting — scaling protection with capability.
 - `INS-260403-532D` [high] Plants produce 40 billion tons of inefficient RuBisCo rather than evolving a better enzyme — brute-force scaling of a mediocre solution can dominate an entire ecosystem.
 - `INS-260330-20FD` [high] Photosynthesis splits into two decoupled stages — light reactions capture energy into ATP/NADPH currency, then the Calvin Cycle spends that currency to build useful molecules.

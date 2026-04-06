@@ -9,7 +9,6 @@
 - `INS-260403-DD95` Default customer interviews produce biased data — structured de-biasing techniques are required for truthful feedback.
 - `INS-260404-087C` End every interview by asking for introductions to others who might find your business useful, offering to draft the intro message.
 - `INS-260404-6442` Ask 'when is the last time you...' instead of 'would you...' to get facts over opinions.
-- `INS-260330-40E9` Users will say 'that sounds great' to almost any feature idea — validate with behavior observation or payment commitment instead.
 - `INS-260330-D1C8` Non-users reveal the barriers preventing market expansion, which existing users and competitor users cannot articulate.
 - `INS-260404-DD95` Never mention your solution during learning interviews — people inherently wish to please and will confirm your opinions.
 - `INS-260404-1773` Ask 'why' repeatedly to drill past surface answers into the real motivations driving customer behavior.

@@ -7,7 +7,6 @@
 - `INS-260327-442D` Lionsgate's acquisition of Artisan Entertainment gave them 8,000+ titles whose syndication licensing generated steady recurring revenue -- like a SaaS business -- that cushioned the inherent volatility of new film production.
 - `INS-260404-EAA7` When revenue comes from membership rather than markup, the company is structurally incentivized to keep prices low and quality high.
 - `INS-260404-35F8` When membership fees are the profit center, low prices become a feature, not a sacrifice.
-- `INS-260404-A938` When revenue comes from membership renewal, every pricing decision optimizes for long-term trust rather than short-term margin.
 - `INS-260404-837E` Costco makes 75% of profit from membership fees, freeing it to keep markups at 11% average versus 24-35% for competitors.
 - `INS-260403-3864` Costco makes 75% of profit from membership fees, which means raising prices costs $60 in lost renewals for pennies of margin gain.
 - `INS-260403-8757` Costco derives 75% of profit from membership fees, making customer satisfaction the direct driver of revenue rather than markup.
@@ -15,7 +14,6 @@
 - `INS-260403-BF47` Costco makes 75% of profit from membership fees, which structurally aligns its incentives with delivering maximum customer value.
 - `INS-260403-B2CB` Costco makes 75% of profit from membership fees, so low prices directly serve its business model rather than undermining it.
 - `INS-260403-3F5F` Costco makes 75% of revenue from membership fees, enabling an 11% markup cap vs Walmart's 24%.
-- `INS-260404-0298` Costco makes 75% of profit from membership fees, which structurally motivates it to minimize prices rather than maximize per-item margins.
 - `INS-260404-6751` AWS's recurring revenue model generates far higher margins than Amazon's transactional e-commerce, illustrating the structural superiority of subscription-based models.
 - `INS-260403-C4DF` Choosing between transaction, recurring, and usage-based revenue is a strategic decision that shapes the entire business, not just the billing page.
 - `INS-260405-39F3` Adobe's shift from selling licenses to selling Creative Cloud subscriptions transformed a lumpy transactional business into compounding recurring revenue.

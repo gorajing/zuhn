@@ -48,13 +48,13 @@ stance: >-
   activity (like sometimes exercising with music, sometimes without) maintains
   motivation far better than consistently maximizing the experience every time.
 related:
-  - INS-260329-F04B
   - INS-260329-68C8
   - INS-260329-4488
   - INS-260330-0242
+  - INS-260329-F04B
   - INS-260325-085E
+  - PRI-260405-E628
   - INS-260330-0C31
-  - INS-260330-E823
 evidence:
   - id: INS-260325-085E
     type: EXTENDS

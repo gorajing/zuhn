@@ -46,7 +46,6 @@ stance: >-
   the single most important concept in computer science, more fundamental than
   any specific algorithm or data structure
 related:
-  - INS-260323-DB7B
   - INS-260329-E839
   - PRI-260328-B4BD
   - PRI-260403-ABDE

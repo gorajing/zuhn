@@ -46,7 +46,7 @@ related:
   - INS-260327-671E
   - INS-260329-B533
   - INS-260329-6B87
-  - INS-260329-96BA
   - INS-260325-E84D
+  - INS-260329-B0F4
 ---
 Hormozi adapts Roy Southernland's real estate insight: realtors who advertise a property's negatives help buyers find undervalued deals where their specific tolerance creates arbitrage. Applied to relationships, leading with your downsides (workaholic, particular about diet, etc.) filters for partners who genuinely don't mind those traits — or even see them as positives. This inverts the standard dating advice of showcasing strengths. The partner who finds your negatives neutral only experiences upside, creating a relationship with minimal friction and resentment. It's the opposite of deception-based dating tactics that create short-term attraction but long-term disappointment when the real person is revealed.

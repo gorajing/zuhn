@@ -3,7 +3,6 @@
 - `INS-260330-A6BE` Record interviews and play them back to the team — the emotional impact of hearing real users creates alignment that summaries and data slides cannot.
 - `INS-260330-FFDB` When real users request specific features, the feedback feels overwhelmingly compelling but leads to building the wrong things.
 - `INS-260330-48DE` Users ask for specific features but the real insights are the goals behind those requests — Twitch built subscriptions (not polls) because the underlying goal was making money.
-- `INS-260330-40E9` Users will say 'that sounds great' to almost any feature idea — validate with behavior observation or payment commitment instead.
 - `INS-260330-2576` Users will say 'yes that sounds great' to almost any feature idea, but that enthusiasm rarely translates to actual switching behavior.
 - `INS-260330-D1C8` Non-users reveal the barriers preventing market expansion, which existing users and competitor users cannot articulate.
 - `INS-260330-1854` Non-users tell you what blocks market growth; existing users only tell you about incremental improvements.

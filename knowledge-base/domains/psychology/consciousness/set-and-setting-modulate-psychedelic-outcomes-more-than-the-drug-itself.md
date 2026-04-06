@@ -50,11 +50,11 @@ stance: >-
   Context shapes psychedelic experiences more powerfully than for any other drug
   class, making therapeutic environment design as important as dosing.
 related:
+  - PRI-260405-3449
   - INS-260330-53F7
   - INS-260325-6BDE
   - INS-260330-8B24
   - INS-260325-436A
-  - INS-260403-B9F4
 evidence:
   - id: INS-260330-CA97
     type: TRANSFERS_TO

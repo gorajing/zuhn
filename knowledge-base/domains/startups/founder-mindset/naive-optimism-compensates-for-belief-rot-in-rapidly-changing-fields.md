@@ -52,6 +52,7 @@ related:
   - INS-260403-A60E
   - INS-260404-7071
   - INS-260403-B835
+  - INS-260404-924C
 ---
 Established experts accumulate beliefs about what is and isn't possible, but in fast-moving fields these beliefs decay rapidly. A naive founder who plunges in saying 'how hard can it be?' occasionally solves problems that were genuinely insoluble until recently, precisely because they never internalized the old constraints.
 

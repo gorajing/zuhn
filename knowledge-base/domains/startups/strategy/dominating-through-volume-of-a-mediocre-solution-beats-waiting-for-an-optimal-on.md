@@ -49,16 +49,16 @@ stance: >-
   A mediocre mechanism deployed at massive scale will outcompete a superior but
   scarce alternative, locking in suboptimal architecture permanently
 related:
-  - INS-260330-0E1E
-  - INS-260330-43CA
-  - INS-260330-7B11
-  - INS-260330-8B93
+  - INS-260325-C528
+  - INS-260327-8048
+  - INS-260330-47CF
   - INS-260403-9442
-  - INS-260403-3E1C
   - INS-260403-F68A
   - INS-260404-B04F
   - INS-260404-3B9D
   - INS-260404-1000
+  - INS-260404-1FCE
+  - INS-260404-47F5
 evidence:
   - id: INS-260403-EDA2
     type: REFINES

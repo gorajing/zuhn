@@ -46,10 +46,10 @@ related:
   - INS-260323-D56E
   - INS-260325-5B28
   - INS-260325-0409
+  - PRI-260405-6A4E
   - INS-260327-6E57
   - INS-260330-63DD
   - PRI-260323-CE34
-  - PRI-260328-5F64
   - INS-260330-EE25
 stance: >-
   Bayesian wind tunnel experiments prove transformers perform exact Bayesian

@@ -46,12 +46,10 @@ stance: >-
   solve the problem you address is more persuasive to investors than any market
   size figure.
 related:
-  - INS-260403-3421
   - INS-260403-DC32
   - INS-260403-8C50
   - INS-260403-0F5C
   - INS-260405-E7FB
-  - INS-260405-F980
   - INS-260404-B31C
 evidence:
   - id: INS-260403-3421

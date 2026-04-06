@@ -50,7 +50,6 @@ stance: >-
   indefinitely despite severe inefficiency, because the cost of replacing the
   entrenched solution exceeds the cost of compensating for its flaws
 related:
-  - INS-260330-3EE4
   - INS-260330-D4CC
   - INS-260330-5DFF
   - INS-260403-962E

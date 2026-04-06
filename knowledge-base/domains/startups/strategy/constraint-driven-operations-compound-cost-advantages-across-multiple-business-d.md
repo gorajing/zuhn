@@ -47,7 +47,6 @@ stance: >-
   cascading efficiencies that are harder to replicate than any single
   cost-cutting measure
 related:
-  - INS-260330-B3DD
   - INS-260404-C9B5
   - INS-260404-7A5B
   - INS-260403-6BD9

@@ -51,12 +51,11 @@ stance: >-
   indefinitely rather than switch, even when the environment changes to make the
   strategy half-broken.
 related:
-  - INS-260330-CBF8
-  - INS-260404-3608
+  - PRI-260405-C27E
   - PRI-260403-40D7
-  - INS-260330-3FCF
   - INS-260330-53A9
   - PRI-260323-0F93
+  - INS-260326-2C4E
 evidence:
   - id: INS-260330-CBF8
     type: TRANSFERS_TO

@@ -1,8 +1,6 @@
 # Tag: yc
 
-- `INS-260403-BB6B` Venture returns are so concentrated in a few outliers that non-outlier investments are economically irrelevant.
 - `INS-260330-AA8B` YC data shows all 9 companies that added random co-founders between interview and batch start fell apart within a year.
-- `INS-260330-CD65` YC data shows 100% failure rate when companies added random co-founders between interview and batch start.
 - `INS-260330-5EB6` Paul Graham found no correlation between founder confidence at YC admission and which startups became stars.
 - `INS-260403-71D1` YC funded Airbnb despite not liking the idea because the founders' earnestness was unmistakable.
 - `INS-260403-D1D0` Graham pushed Reddit to launch in weeks since a v1 link-sharing site only needed a couple hundred lines of code, and they shipped about three weeks into the YC batch.
@@ -16,3 +14,4 @@
 - `INS-260328-3A00` YC's core advantage was being a software company built by someone who loved software and hated hiring people — Standard Capital is replicating this approach for Series A.
 - `INS-260403-36DD` Minimal seed funding plus a hard demo deadline produces working prototypes faster than large raises.
 - `INS-260403-D1D4` Doubling your already-ambitious targets forces strategic creativity and attracts higher-caliber collaborators.
+- `INS-260403-BB6B` Venture returns are so concentrated in a few outliers that non-outlier investments are economically irrelevant.

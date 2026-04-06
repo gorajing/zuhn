@@ -44,11 +44,10 @@ stance: >-
   fabricate and directly address the core fear that no one actually wants the
   product.
 related:
+  - INS-260403-DC32
   - INS-260403-0F5C
   - INS-260404-5D18
-  - INS-260405-F980
   - INS-260404-B31C
-  - INS-260403-DC32
   - INS-260403-8C50
 evidence:
   - id: INS-260404-B31C

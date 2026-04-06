@@ -45,9 +45,9 @@ resolutions:
 related:
   - INS-260323-F7DB
   - INS-260323-2117
+  - PRI-260405-0AC6
   - INS-260325-A72C
   - INS-260323-0277
-  - PRI-260403-9D15
 stance: >-
   Boston Dynamics' breakthrough approach was reducing complex locomotion to a
   bouncing pogo stick

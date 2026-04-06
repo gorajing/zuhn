@@ -46,14 +46,12 @@ stance: >-
   Deliberately doing nothing for even three minutes throws a cognitive circuit
   breaker that restores depleted attention bandwidth.
 related:
-  - INS-260322-6042
   - INS-260325-8EED
   - PRI-260328-4000
+  - PRI-260405-E628
   - INS-260329-6DED
   - INS-260403-3CD9
-  - INS-260403-2B6E
   - INS-260329-2242
-  - INS-260329-ADC4
 evidence:
   - id: INS-260329-FEBA
     type: CHALLENGES

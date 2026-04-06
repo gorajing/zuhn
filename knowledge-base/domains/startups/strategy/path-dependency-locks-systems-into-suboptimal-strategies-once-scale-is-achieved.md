@@ -52,16 +52,16 @@ stance: >-
   mechanism, switching costs become prohibitive and the system perpetuates
   inefficiency indefinitely
 related:
-  - INS-260330-E039
   - INS-260330-22C0
   - INS-260330-4489
   - INS-260330-0B4A
-  - INS-260403-D518
-  - INS-260403-D482
   - INS-260403-637C
-  - INS-260403-3E1C
   - INS-260404-B04F
   - INS-260404-4010
+  - INS-260404-CC7C
+  - INS-260404-AE3C
+  - INS-260404-BC18
+  - INS-260404-16B0
 evidence:
   - id: INS-260404-B04F
     type: EXTENDS

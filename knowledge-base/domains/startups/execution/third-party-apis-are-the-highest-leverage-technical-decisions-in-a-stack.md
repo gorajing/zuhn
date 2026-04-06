@@ -47,7 +47,6 @@ stance: >-
   has more impact on shipping speed than any framework choice.
 related:
   - INS-260323-0B52
-  - INS-260322-AD9B
   - INS-260329-33D4
   - INS-260323-70B9
   - INS-260322-1D52

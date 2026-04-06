@@ -62,13 +62,13 @@ stance: >-
   nearly impossible to replace, because the entire ecosystem co-evolves to
   accommodate the flaw rather than eliminate it.
 related:
-  - INS-260330-4EC0
   - INS-260404-60F4
-  - INS-260405-C497
+  - INS-260405-8469
   - INS-260405-F20F
-  - INS-260403-D518
+  - INS-260405-C497
   - INS-260403-262F
   - INS-260404-5DE4
+  - INS-260404-D39F
 evidence:
   - id: INS-260405-C497
     type: EXTENDS

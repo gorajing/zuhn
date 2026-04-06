@@ -1,6 +1,6 @@
 # Topic: validation
 
-> 152 insights
+> 149 insights
 
 - `INS-260329-F7F4` [high] When a functional prototype costs 15 minutes instead of 3 months, validation shifts from optional luxury to mandatory first step.
 - `INS-260327-CD36` [high] At least 70% of YC's top 100 companies by valuation came from ideas noticed organically rather than deliberate brainstorming, because brainstorming systematically produces tar pit ideas.
@@ -64,7 +64,6 @@
 - `INS-260403-1E4A` [high] Use one Value Proposition Canvas per customer segment — never combine payers, users, and other segments.
 - `INS-260403-27AA` [high] Change only one variable per A/B test to maintain causal attribution.
 - `INS-260329-3EC3` [high] Define your ideal customer as one hyper-specific person rather than a broad demographic to unlock premium pricing and faster sales cycles.
-- `INS-260330-40E9` [high] Users will say 'that sounds great' to almost any feature idea — validate with behavior observation or payment commitment instead.
 - `INS-260330-2576` [high] Users will say 'yes that sounds great' to almost any feature idea, but that enthusiasm rarely translates to actual switching behavior.
 - `INS-260330-D1C8` [high] Non-users reveal the barriers preventing market expansion, which existing users and competitor users cannot articulate.
 - `INS-260330-843E` [high] Non-users reveal the barriers preventing market expansion — problems that existing user feedback will never surface.
@@ -89,7 +88,6 @@
 - `INS-260404-1773` [high] Ask 'why' repeatedly to drill past surface answers into the real motivations driving customer behavior.
 - `INS-260403-7333` [high] Replace the instinct to build a prototype with the discipline to map and decompose your business risks first.
 - `INS-260403-0803` [high] Identify and test the single assumption whose failure would invalidate everything else before touching any other hypothesis.
-- `INS-260403-D563` [high] RuBisCo fails half the time with oxygen yet remains universal because plants built everything around it — the ultimate legacy system.
 - `INS-260403-B32D` [high] Nearly all 40 participating organizations admitted large potential for improvement in scaling Lean Startup testing, with most still relatively inexperienced.
 - `INS-260403-BF09` [high] BioCity discovered that biologists and chemists had entirely different pains and gains regardless of whether they worked at a university, biotech startup, or large pharma company.
 - `INS-260329-78CB` [high] High-ticket with few customers is easier to execute than low-ticket at scale, especially when starting with no resources.
@@ -114,7 +112,6 @@
 - `INS-260330-901B` [high] The silicon sphere (Avogadro) and Watt Balance (Planck's constant) provide independent checks on each other — dual independent approaches beat single-method perfection.
 - `INS-260404-B01F` [high] Tell stories about specific users with specific problems to prove demand exists beyond your own assumptions.
 - `INS-260403-7072` [high] Tell stories about specific users and their problems rather than citing market size figures to convince investors of demand.
-- `INS-260404-3D06` [high] Tell stories about specific users and their problems rather than citing market sizes—investors fear you've built something nobody actually wants.
 - `INS-260404-9A82` [high] Investors' primary fear with early startups is that founders built from theory rather than need — specific user stories are the direct antidote.
 - `INS-260330-E8C6` [high] Unlike school and corporate life where gaming metrics works, startups have no boss to trick — only users who judge purely on whether the product solves their problem.
 - `INS-260404-D1E2` [high] Use the Value Proposition Canvas to make explicit how your product addresses the most critical customer jobs, pains, and gains.

@@ -54,10 +54,10 @@ stance: >-
   memory model prevents a common category of resource leaks.
 related:
   - INS-260329-19EA
+  - PRI-260405-2A95
   - PRI-260403-9E80
   - INS-260330-3B0B
   - INS-260329-9BEF
-  - INS-260329-8DC5
 ---
 When a function is defined inside another function, the inner function captures references to the outer function's variables. JavaScript automatically moves these captured variables from the call stack to heap memory so they persist between calls. This is a closure — it 'closes over' its lexical environment.
 

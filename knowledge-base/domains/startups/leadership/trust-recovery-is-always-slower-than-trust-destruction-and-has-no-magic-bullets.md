@@ -51,11 +51,11 @@ stance: >-
   stop looking for silver-bullet communications or gestures to accelerate the
   recovery.
 related:
+  - PRI-260405-0AC6
   - INS-260323-4457
   - PRI-260403-5FC4
   - INS-260322-5650
   - INS-260323-19A8
-  - INS-260403-93A5
   - INS-260403-FA30
 evidence:
   - id: INS-260403-FA30

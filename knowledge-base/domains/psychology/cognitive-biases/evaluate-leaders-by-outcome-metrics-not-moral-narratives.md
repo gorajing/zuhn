@@ -54,10 +54,10 @@ stance: >-
   quality — moral framing is a distraction
 related:
   - INS-260323-BC20
-  - INS-260323-244C
   - PRI-260403-E023
+  - PRI-260405-F5A0
+  - INS-260323-244C
   - INS-260327-32F1
-  - INS-260327-2A73
 evidence:
   - id: INS-260327-32F1
     type: CHALLENGES

@@ -1,6 +1,6 @@
 # Topic: product-development
 
-> 124 insights
+> 123 insights
 
 - `INS-260327-EB3E` [high] Apple's 48-hour design review rhythm forced constant refinement that produced best-in-class products.
 - `INS-260329-1028` [high] freeCodeCamp's 48M-view tutorial demonstrates that one comprehensive free resource can become a permanent acquisition engine dwarfing paid channels.
@@ -88,7 +88,6 @@
 - `INS-260403-6628` [high] Plants produced so much oxygen through photosynthesis that their own key enzyme RuBisCo started malfunctioning, forcing them to evolve detoxification pathways.
 - `INS-260330-F222` [high] Plants must keep oxygen LOW inside leaves despite oxygen being their most valuable output, because it poisons RuBisCo.
 - `INS-260405-F7C5` [high] The Magnus effect aircraft generated more lift per unit than conventional wings — and proportionally far more drag, causing it to crash after a single flight.
-- `INS-260330-2A73` [high] Requiring all builders to do customer support creates a self-correcting feedback loop that improves product quality and reduces support volume.
 - `INS-260330-3A3E` [high] When the people who build the product also support it, bugs get fixed faster and the knowledge gap between builders and users collapses.
 - `INS-260327-30E4` [high] Competing with OpenAI and Anthropic on models is capital-intensive and futile — surf the wave of their improvements by building applications on top.
 - `INS-260329-2EB1` [high] Real taste means having an honest internal barometer for whether your product creates genuine user value, not just whether it looks good in a demo.

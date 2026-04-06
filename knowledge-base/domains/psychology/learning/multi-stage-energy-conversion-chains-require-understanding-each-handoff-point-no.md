@@ -54,7 +54,7 @@ related:
   - INS-260403-D2FD
   - INS-260404-52FC
   - INS-260404-2A07
-  - INS-260404-6AD7
+  - PRI-260405-CE75
 evidence:
   - id: INS-260404-2A07
     type: EXTENDS

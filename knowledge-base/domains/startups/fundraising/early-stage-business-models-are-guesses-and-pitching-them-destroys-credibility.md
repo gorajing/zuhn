@@ -44,7 +44,6 @@ stance: >-
   investors actually care about
 related:
   - INS-260327-363C
-  - INS-260403-D7C4
   - INS-260403-462F
   - INS-260403-F590
   - INS-260404-FF0B
@@ -52,6 +51,7 @@ related:
   - INS-260404-E36F
   - INS-260404-3214
   - INS-260404-16E1
+  - INS-260405-092A
   - INS-260405-AC3E
 ---
 Graham cites a VC who invested in a company whose business model he expected to be wrong and change three times — and still invested because at early stage that's normal. Smart investors do not expect correct revenue models; they expect them to be wrong. The risk of discussing business models at length is twofold: it occupies precious minutes that could demonstrate the problem and solution, and if the model sounds spectacularly flawed, that becomes the dominant memory. Investors will recall the 'company with the boneheaded plan' rather than the company that solved an important problem. The advice is to show you've thought about monetization (one slide, one sentence) and move on — the problem and product are the actual evidence investors are evaluating.

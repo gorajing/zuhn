@@ -5,6 +5,9 @@
 - `INS-260327-422B` Two dynamics run simultaneously: model intelligence cost drops ~4X/year while total spending rises ~10X/year — DeepSeek sat perfectly on the cost reduction curve, but being the first Chinese company at frontier capability is genuinely concerning.
 - `INS-260323-62F3` Chinese companies release open-weight models primarily to gain global distribution and influence, not out of altruism.
 - `INS-260404-83C6` DeepSeek proved frontier AI can emerge from a hedge fund side project in China, not just from billion-dollar Western labs.
+- `INS-260330-B4BD` Two generations of one-child families made small families the cultural norm in China, rendering policy reversal largely ineffective.
+- `INS-260325-C5FD` American automakers take 6 years to ship a new model; Chinese competitors do it in 18 months — with 50 major EV makers competing fiercely, iteration speed IS the innovation.
+- `INS-260323-1D15` Chinese competitive dynamics favor rapid replication over differentiation — when something works, thousands of competitors copy it immediately, driving ferocious price and execution competition.
 - `INS-260330-A98B` Local governments funding themselves primarily through land sales creates a structural incentive to oversupply housing, inflating bubbles.
 - `INS-260325-854D` China's senior leadership were all trained engineers who build compulsively — roads, homes, economies, souls. America's elite are mostly lawyers who block everything, good and bad.
 - `INS-260323-E214` The biggest misconception about China's economy is that it is centrally commanded — in reality, local mayors and provincial governors drive reform and innovation in a fiercely competitive decentralized system.
@@ -15,7 +18,6 @@
 - `INS-260323-A3DB` Saudi Arabia and Gulf states are accelerating their pivot toward China because the US repeatedly failed to protect oil infrastructure (Aramco 2019, current Iran strikes on Qatar/Saudi/UAE) while prioritizing Israel — creating a structural shift in Middle East security alignment.
 - `INS-260323-59FE` Becoming a hegemonic power requires other nations to voluntarily follow — China lacks this despite economic scale because it demands compliance without offering public goods or making sacrifices.
 - `INS-260321-A3A1` IMEC (India-Middle East-Europe Economic Corridor) is a US-backed logistics highway routing goods from India through UAE, Saudi Arabia, and Israel to Europe — designed to completely bypass China's Belt and Road Initiative.
-- `INS-260330-757E` States can use infrastructure projects to gradually absorb autonomous regions by making economic integration irreversible before political integration follows.
 - `INS-260330-0FCE` Physical infrastructure creates economic interdependency that gradually makes political separation impractical, serving as a subtler tool of control than direct legislation.
 - `INS-260325-B115` Chinese citizens tolerate authoritarian governance partly because they have watched their physical world transform — highways from zero, 1,000 parks in Shanghai, cleaner air — while Americans in static cities lose optimism.
 - `INS-260403-A87D` The US government is undermining its own dollar dominance by attacking the very stablecoin projects that would cement USD as the default digital currency.
@@ -24,6 +26,3 @@
 - `INS-260321-3808` When Japan's GDP reached ~70% of US GDP, the US forced the Plaza Accord and Japan stagnated for 35 years. When China's GDP reached ~70% of US GDP, the US initiated the trade/tech war. The pattern: hegemons don't let vassals surpass them.
 - `INS-260321-9E91` The US has wanted to pivot to Asia since the 2000s but keeps getting stuck in the Middle East. IMEC's purpose is to bind Middle Eastern nations economically so they manage their own region, freeing the US to focus on China.
 - `INS-260321-5655` Venezuela, Iran, Greenland — every major US foreign policy move is about creating oil and resource chokepoints against China, not the surface-level reasons given publicly.
-- `INS-260330-B4BD` Two generations of one-child families made small families the cultural norm in China, rendering policy reversal largely ineffective.
-- `INS-260325-C5FD` American automakers take 6 years to ship a new model; Chinese competitors do it in 18 months — with 50 major EV makers competing fiercely, iteration speed IS the innovation.
-- `INS-260323-1D15` Chinese competitive dynamics favor rapid replication over differentiation — when something works, thousands of competitors copy it immediately, driving ferocious price and execution competition.

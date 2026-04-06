@@ -47,9 +47,9 @@ related:
   - INS-260327-F961
   - INS-260329-4F67
   - INS-260329-C56D
+  - PRI-260405-91AD
   - INS-260328-0C87
   - PRI-260403-0ABD
   - INS-260403-08AE
-  - PRI-260328-E921
 ---
 Hormozi's CLOSER framework (Clarify, Label, Overview, Sell vacation, Explain concerns, Reinforce) is entirely question-based. The key advantage isn't just engagement — it's error recovery. When a prospect goes on a tangent, a question-based rep simply asks the next question in the sequence. A paragraph-based rep gets lost and starts 'freeballing.' This makes question frameworks dramatically more scalable across teams because new reps don't need to memorize monologues — they need to internalize a sequence of questions with 30-second anecdotal stories for each transition point. The framework works across B2B, B2C, and price points from $500 to $100K.

@@ -48,11 +48,11 @@ stance: >-
   impossible achievable by bypassing the brain's all-or-nothing quit response.
 related:
   - INS-260329-CABE
+  - PRI-260405-E628
   - PRI-260323-57AC
   - PRI-260321-14D8
   - INS-260329-0487
   - PRI-260328-4000
-  - PRI-260324-12CF
 evidence:
   - id: INS-260329-CABE
     type: SUPPORTS

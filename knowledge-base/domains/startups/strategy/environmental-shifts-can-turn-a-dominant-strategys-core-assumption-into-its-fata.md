@@ -52,13 +52,13 @@ stance: >-
   becomes its greatest liability when the environment changes, and the more
   dominant the strategy, the harder it is to pivot
 related:
-  - INS-260330-3EE4
+  - INS-260330-E5DC
   - INS-260403-979D
   - INS-260404-0BED
   - INS-260404-03E7
-  - INS-260403-818F
   - INS-260330-DF69
   - INS-260330-A3EB
+  - INS-260405-3048
 evidence:
   - id: INS-260325-1709
     type: TRANSFERS_TO

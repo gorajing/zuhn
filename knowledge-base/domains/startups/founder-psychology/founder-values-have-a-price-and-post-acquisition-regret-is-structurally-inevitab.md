@@ -53,6 +53,7 @@ stance: >-
   but a certainty, and the founder departure is predictable from day one
 related:
   - INS-260327-968C
+  - INS-260327-E4F1
   - INS-260328-23B4
   - INS-260329-E6DB
   - INS-260330-A029
@@ -61,7 +62,6 @@ related:
   - INS-260330-09FF
   - INS-260330-06CD
   - INS-260330-BC6F
-  - INS-260330-7F62
 evidence:
   - id: INS-260327-E4F1
     type: SUPPORTS

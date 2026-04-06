@@ -47,11 +47,10 @@ stance: >-
   closes more deals than presenting logical arguments for why they should buy.
 related:
   - INS-260329-55F7
+  - PRI-260405-91AD
   - PRI-260403-0ABD
   - INS-260329-7E63
   - PRI-260327-3BD9
-  - INS-260328-B233
-  - INS-260329-1621
   - INS-260330-318B
 evidence:
   - id: INS-260330-318B

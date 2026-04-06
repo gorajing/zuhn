@@ -56,12 +56,11 @@ stance: >-
   costs from the initial adoption decision to an exit that never happens,
   generating perpetual rent extraction.
 related:
+  - INS-260325-A54F
+  - INS-260330-C870
   - INS-260403-DC6E
   - INS-260404-D6EC
   - INS-260404-1A9D
-  - INS-260330-C870
-  - INS-260325-A54F
-  - INS-260404-C25C
   - INS-260330-DCFB
 evidence:
   - id: INS-260325-A54F

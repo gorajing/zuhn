@@ -48,11 +48,11 @@ stance: >-
   When an entire system depends on a flawed component, defending the flaw
   becomes more rational than fixing it
 related:
-  - INS-260403-3E1C
-  - INS-260330-0E1E
-  - INS-260330-3FCF
   - INS-260330-47CF
   - INS-260404-B6E8
+  - INS-260404-84FE
+  - INS-260404-AE3C
+  - INS-260403-9442
 evidence:
   - id: INS-260403-3E1C
     type: TRANSFERS_TO

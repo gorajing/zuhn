@@ -49,10 +49,10 @@ stance: >-
   operational protocol.
 related:
   - INS-260329-5306
+  - PRI-260405-F5A0
   - PRI-260328-521E
   - INS-260325-0FED
   - PRI-260323-2C5C
-  - INS-260325-5023
 evidence:
   - id: INS-260325-5023
     type: SUPPORTS

@@ -53,9 +53,9 @@ related:
   - INS-260327-2E84
   - INS-260404-24FB
   - INS-260403-FC45
-  - INS-260404-6EB8
-  - INS-260403-7FBE
   - INS-260405-E6F9
+  - INS-260404-D242
+  - INS-260403-F7DD
 ---
 After a demo day or investor meeting series, pitches genuinely blur. The investor's ability to recall and advocate for a specific startup in partner meetings or follow-up conversations depends on having a handle — a phrase that encodes the startup's essence and sticks.
 

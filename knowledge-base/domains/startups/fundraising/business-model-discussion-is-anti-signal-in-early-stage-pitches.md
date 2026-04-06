@@ -47,7 +47,7 @@ related:
   - INS-260402-4633
   - INS-260403-97DB
   - INS-260404-4DF7
-  - INS-260404-19FE
+  - INS-260402-0F36
 ---
 A VC speaking at YC described investing in experienced founders whose business model he knew was wrong—and expected it to change three times. Smart investors at the early stage aren't evaluating your revenue projections; they're evaluating whether you're solving an important problem and can build.
 

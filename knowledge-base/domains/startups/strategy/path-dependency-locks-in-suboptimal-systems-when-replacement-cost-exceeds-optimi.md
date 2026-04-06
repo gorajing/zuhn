@@ -54,7 +54,6 @@ stance: >-
   inefficiency, making incremental workarounds the rational default.
 related:
   - INS-260403-2457
-  - INS-260403-D482
   - INS-260404-1D8F
   - PRI-260403-C34A
   - INS-260404-4010

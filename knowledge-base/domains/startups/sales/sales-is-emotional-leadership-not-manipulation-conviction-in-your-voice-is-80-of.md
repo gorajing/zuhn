@@ -56,6 +56,7 @@ stance: >-
   requirement for ethical selling.
 related:
   - INS-260322-F65F
+  - INS-260323-EF23
   - PRI-260322-3DA5
   - INS-260405-8BEA
   - INS-260404-0CD8
@@ -64,7 +65,6 @@ related:
   - PRI-260328-0332
   - INS-260329-EF96
   - INS-260330-3F24
-  - INS-260330-2576
 evidence:
   - id: INS-260322-F65F
     type: TRANSFERS_TO

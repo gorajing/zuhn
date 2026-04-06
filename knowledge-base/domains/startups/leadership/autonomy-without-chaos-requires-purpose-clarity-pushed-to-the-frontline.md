@@ -46,10 +46,10 @@ stance: >-
   shared context.
 related:
   - INS-260327-3136
+  - PRI-260405-F5A0
   - INS-260322-F128
   - INS-260329-6D8B
   - INS-260323-7D01
-  - INS-260330-C6A2
 evidence:
   - id: INS-260329-6D8B
     type: EXTENDS

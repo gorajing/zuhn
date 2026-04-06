@@ -39,6 +39,7 @@ stance: >-
   reducing meal frequency and improving food quality lowers insulin more
   effectively than calorie restriction
 related:
+  - INS-260327-6664
   - PRI-260328-7AF5
   - INS-260325-A03D
   - INS-260327-B2E3

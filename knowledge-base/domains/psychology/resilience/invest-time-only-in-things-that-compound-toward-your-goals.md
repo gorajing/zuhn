@@ -43,7 +43,6 @@ stance: >-
   passive consumption) and redirecting that time to building and investing
   creates an insurmountable advantage over time.
 related:
-  - INS-260322-BEA3
   - INS-260327-421F
   - INS-260325-ADF5
   - INS-260329-6FAC

@@ -44,13 +44,14 @@ stance: >-
   already solving your problem with inadequate tools, because it proves market
   pull exists independent of your solution.
 related:
+  - INS-260320-703F
   - INS-260325-D797
   - INS-260403-EA8C
   - INS-260403-8C50
   - INS-260404-5D18
-  - INS-260405-F980
   - INS-260405-E7FB
   - INS-260403-30D8
+  - INS-260404-B31C
 evidence:
   - id: INS-260325-D797
     type: CHALLENGES

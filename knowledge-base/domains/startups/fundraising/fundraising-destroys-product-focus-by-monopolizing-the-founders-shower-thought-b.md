@@ -43,7 +43,6 @@ stance: >-
   Raising money reduces startup productivity to roughly one-third because it
   hijacks the founder's ambient cognitive processing away from the product.
 related:
-  - INS-260325-809A
   - INS-260324-62A8
   - INS-260403-ABBB
   - INS-260403-D833

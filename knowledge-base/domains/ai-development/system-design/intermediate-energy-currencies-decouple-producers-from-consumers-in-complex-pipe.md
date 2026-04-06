@@ -54,12 +54,12 @@ stance: >-
   architectures
 related:
   - INS-260330-20FD
-  - INS-260403-8125
   - INS-260403-6AD0
   - INS-260404-842D
   - INS-260405-C780
   - INS-260405-8E85
   - INS-260404-9428
+  - INS-260405-F3C0
 evidence:
   - id: INS-260330-20FD
     type: TRANSFERS_TO

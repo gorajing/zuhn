@@ -45,11 +45,11 @@ stance: >-
   CEOs who optimize decisions for the person in front of them create worse
   outcomes than those who model how every employee will interpret the decision
 related:
+  - PRI-260405-F5A0
   - INS-260323-6BF4
   - INS-260402-F3D7
   - INS-260405-E06B
   - INS-260403-B9F4
-  - INS-260404-0095
 evidence:
   - id: INS-260402-F3D7
     type: TRANSFERS_TO

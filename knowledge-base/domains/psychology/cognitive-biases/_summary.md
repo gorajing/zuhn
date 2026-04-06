@@ -1,6 +1,6 @@
 # Topic: cognitive-biases
 
-> 274 insights
+> 273 insights
 
 - `INS-260326-163A` [very_high] Data quality dominates ML architecture just as install base and data gravity beat product design elegance in business -- what you've accumulated is the moat, not how you've arranged it.
 - `INS-260326-CA66` [very_high] Insulin resistance manifests as heart disease, diabetes, obesity, and dementia -- just as a misidentified business model manifests as churn, pricing problems, and sales failures.
@@ -265,7 +265,6 @@
 - `INS-260403-C1B7` [medium] People who didn't attend elite schools suffer more from imagining what they missed than from any actual educational gap.
 - `INS-260329-8CA0` [medium] Disclosed side effects make products seem more potent because consumers interpret risk as evidence the product actually does something.
 - `INS-260330-12FB` [medium] Crude norm violations trigger alarm while sophisticated ones fly under the radar, creating a dangerous detection gap.
-- `INS-260404-7C3F` [medium] Costco's mandatory membership triggers sunk-cost reasoning more reliably than Amazon Prime because there's no self-sorting calculation — you've already paid to enter.
 - `INS-260330-383F` [medium] Peterson's dragon test: if the crisis you're fighting makes you terrified and authoritarian, your emotional state disqualifies you from leading the response regardless of whether the threat is real.
 - `INS-260330-66EF` [medium] Fossil evidence shows foragers were healthier than early farmers, yet every independent civilization chose agriculture anyway.
 - `INS-260329-F063` [medium] Telling prospects 'answering without looking under the hood would be unethical' reframes information withholding as professional responsibility and discredits competitors who give easy answers.

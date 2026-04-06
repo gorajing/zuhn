@@ -45,6 +45,6 @@ related:
   - PRI-260325-E271
   - INS-260325-5A7C
   - INS-260330-A33F
-  - INS-260327-0F4E
+  - INS-260327-FD30
 ---
 Stubborn inner thigh fat and cellulite are driven by estrogen dominance (from xenoestrogens, poor liver detoxification, or excess body fat producing aromatase), making hormonal optimization more effective than targeted exercises

@@ -50,10 +50,10 @@ stance: >-
   compounding technical or organizational debt
 related:
   - INS-260330-B71B
-  - INS-260330-0E77
-  - INS-260330-EACA
   - INS-260403-53C9
-  - INS-260330-43CA
+  - INS-260330-F5CF
+  - INS-260404-1F1B
+  - INS-260405-7E85
 evidence:
   - id: INS-260330-EACA
     type: EXTENDS

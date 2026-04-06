@@ -55,7 +55,6 @@ related:
   - INS-260330-AE16
   - INS-260321-7D7C
   - INS-260330-FCA3
-  - INS-260403-8B5A
 evidence:
   - id: INS-260330-112E
     type: CHALLENGES

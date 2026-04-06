@@ -50,14 +50,15 @@ stance: >-
   alternatives
 related:
   - INS-260327-E516
+  - INS-260327-8EB7
   - INS-260327-0402
   - INS-260327-1270
-  - INS-260327-DDC3
+  - INS-260327-33F7
   - INS-260327-AA4F
   - INS-260327-7F98
   - PRI-260328-25C9
-  - INS-260327-8EB7
   - PRI-260328-D9D0
+  - INS-260325-7EAC
 ---
 The cost myth around healthy eating is largely false. Ground beef is the most affordable quality meat ($5-8/lb grass-fed at Costco/Aldi). Whole chickens are $1-2/lb. Pasture-raised eggs are $5-7/dozen. Seasonal fruit is $1-3/lb. Whole milk is $4-6/gallon. Total daily cost: $10-15 for nutrient-complete meals.
 

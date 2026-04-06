@@ -58,8 +58,6 @@ stance: >-
   environment shifts end up spending more resources on workarounds than the
   original strategy saves
 related:
-  - INS-260330-CBF8
-  - INS-260330-3EE4
   - INS-260330-22C0
   - INS-260405-0806
   - INS-260330-11EB

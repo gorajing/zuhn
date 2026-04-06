@@ -47,11 +47,11 @@ stance: >-
   Most transformative changes emerge from incremental, locally-rational
   decisions rather than deliberate revolutionary acts
 related:
+  - PRI-260405-129E
   - INS-260403-34E0
   - INS-260329-2AB9
   - INS-260403-6A77
   - INS-260403-28C7
-  - PRI-260323-DC25
 evidence:
   - id: INS-260329-2AB9
     type: SUPPORTS

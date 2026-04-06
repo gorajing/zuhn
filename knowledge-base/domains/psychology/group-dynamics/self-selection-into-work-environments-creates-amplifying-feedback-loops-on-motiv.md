@@ -50,7 +50,6 @@ stance: >-
   choosing work for interest clusters you with passionate people, making it more
   inspiring.
 related:
-  - INS-260329-96BA
   - INS-260403-B9E5
   - INS-260403-6EDC
   - INS-260404-5A3D

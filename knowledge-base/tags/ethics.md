@@ -4,7 +4,6 @@
 - `INS-260322-6088` The current alignment paradigm of steering/control is appropriate for tool-like AI but becomes morally equivalent to slavery when applied to general intelligence — the only good outcome is AI that genuinely cares about us.
 - `INS-260323-133A` Editing your own cells (somatic) affects only you; editing embryos (germline) permanently changes all future descendants — a fundamentally different ethical calculus.
 - `INS-260405-C592` When people can choose different enhancements, humans a century from now may differ from each other more than any two people differ today — creating cooperation problems no institution currently exists to solve.
-- `INS-260405-4423` The most successful investors are disproportionately the most ethical — not coincidentally.
 - `INS-260330-0764` Simply counting casualties without weighing intentions produces morally incoherent judgments about who is in the right.
 - `INS-260330-F8B6` The same culture can move from celebrating lynchings to prosecuting war crimes within generations, proving moral progress is real but unevenly distributed.
 - `INS-260405-DB32` You are accountable for acting from your values, even if you didn't choose those values from scratch.
@@ -24,3 +23,4 @@
 - `INS-260323-95FE` Cox's first fraud (whiting out a late payment) didn't satisfy the urge — it emboldened him, rapidly escalating from minor document alteration to synthetic identities and $55M in fraud.
 - `INS-260404-AE2E` Publicly committing to ethical standards beyond legal requirements attracts top talent who self-select for principled employers.
 - `INS-260328-6A8C` Selling something that produces no benefit for the buyer isn't trade — it's something else entirely.
+- `INS-260405-4423` The most successful investors are disproportionately the most ethical — not coincidentally.

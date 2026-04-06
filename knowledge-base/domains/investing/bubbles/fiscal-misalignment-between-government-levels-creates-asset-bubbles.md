@@ -49,6 +49,7 @@ stance: >-
   obligations, they will inevitably financialize whatever asset they control,
   creating systemic bubble risk.
 related:
+  - INS-260322-5F87
   - INS-260330-A98B
   - INS-260403-A115
   - INS-260327-1ACE

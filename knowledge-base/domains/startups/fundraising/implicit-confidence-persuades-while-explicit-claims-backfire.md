@@ -44,11 +44,12 @@ stance: >-
   explicitly stating passion or product quality triggers investor skepticism
 related:
   - INS-260329-B4C8
-  - INS-260403-2F22
-  - INS-260403-ED1F
+  - INS-260403-97DB
   - INS-260404-0CD8
   - INS-260405-8BEA
-  - INS-260404-58AE
+  - INS-260404-405A
+  - INS-260405-2AFB
+  - INS-260327-5688
 evidence:
   - id: INS-260404-58AE
     type: REFINES

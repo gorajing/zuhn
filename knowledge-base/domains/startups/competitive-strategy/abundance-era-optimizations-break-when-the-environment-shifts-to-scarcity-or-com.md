@@ -52,12 +52,12 @@ stance: >-
   for adaptability.
 related:
   - INS-260330-40DA
-  - INS-260330-B3D5
   - INS-260330-3FF4
-  - INS-260330-EACA
   - INS-260404-2695
-  - INS-260403-818F
   - INS-260404-581C
+  - INS-260405-7E85
+  - INS-260330-DF69
+  - INS-260405-FBD7
 evidence:
   - id: INS-260330-EACA
     type: SUPPORTS

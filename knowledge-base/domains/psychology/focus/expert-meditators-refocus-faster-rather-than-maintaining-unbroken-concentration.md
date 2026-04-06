@@ -47,7 +47,6 @@ stance: >-
   ability to sustain uninterrupted attention
 related:
   - INS-260323-422C
-  - INS-260325-8EED
   - INS-260323-334D
   - INS-260330-B360
   - INS-260330-BCC7
@@ -56,6 +55,7 @@ related:
   - INS-260330-CFAD
   - INS-260330-E107
   - INS-260403-8779
+  - INS-260403-B6CD
 evidence:
   - id: INS-260330-B360
     type: REFINES

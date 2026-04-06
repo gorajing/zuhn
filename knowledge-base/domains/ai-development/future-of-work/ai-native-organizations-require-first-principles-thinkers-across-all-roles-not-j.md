@@ -51,7 +51,6 @@ stance: >-
   ask the right questions regardless of technical background, because AI handles
   the execution of answers.
 related:
-  - INS-260325-D19B
   - INS-260322-C6CE
   - INS-260326-98A0
   - INS-260327-6CB7
@@ -61,6 +60,7 @@ related:
   - INS-260330-26E7
   - INS-260330-83D5
   - INS-260326-7B2A
+  - PRI-260403-7BEC
 evidence:
   - id: INS-260322-C6CE
     type: SUPPORTS

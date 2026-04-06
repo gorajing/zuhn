@@ -44,7 +44,6 @@ stance: >-
   The qualities of the founders dominate economic conditions so heavily that
   macroeconomic timing is effectively irrelevant to startup outcomes.
 related:
-  - INS-260320-8688
   - INS-260321-E654
   - INS-260327-DD1D
   - INS-260402-7B69
@@ -54,6 +53,7 @@ related:
   - INS-260403-862E
   - INS-260403-4A2F
   - PRI-260328-C918
+  - INS-260327-80A8
 evidence:
   - id: INS-260403-472E
     type: CHALLENGES

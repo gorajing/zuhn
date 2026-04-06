@@ -46,11 +46,11 @@ stance: >-
   weight after stopping end up with worse body composition than before
   treatment.
 related:
-  - INS-260327-0F4E
   - INS-260327-6664
   - INS-260321-9AB5
   - INS-260327-DB76
   - INS-260327-B2E3
+  - INS-260330-A33F
   - INS-260323-F9FD
   - INS-260327-940C
 evidence:

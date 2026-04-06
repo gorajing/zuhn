@@ -1,9 +1,6 @@
 # Tag: framing
 
 - `INS-260325-39FD` Longevity medicine aims to extend disease-free years, not prevent death — and one extra healthy year is worth $38 trillion.
-- `INS-260323-04D4` El-Kurd shows that media coverage of geopolitical conflicts misleads not through fabrication but through systematic omission of essential context.
-- `INS-260327-60FB` 'Population collapse' anxiety serves two very different interests: genuine concern about supporting aging populations vs. corporate concern about maintaining cheap labor - the solutions are contradictory.
-- `INS-260323-B726` Putin's framing of 1991 as a greater tragedy than WWII (where the Soviets lost millions) reveals his value hierarchy: loss of great power status and territorial unity outweighs loss of human life.
 - `INS-260404-B87E` Craft one 'the X of Y' phrase that sticks — professional investors hear so many pitches they blur, and the first filter is simply being remembered.
 - `INS-260405-194F` When someone can't perceive a constraint you experience, appealing to politeness (take me at my word) is more tractable than demanding they recognize their privilege.
 - `INS-260330-1801` Calling the unknown 85% of gravitational force 'dark matter' smuggles in the assumption that matter causes it, when 'dark gravity' would better describe what we actually observe.
@@ -25,7 +22,6 @@
 - `INS-260330-E54B` Both Augustus and Jesus were called 'son of God' — the identical claim succeeded for radically different audiences because each version addressed different unmet needs.
 - `INS-260329-61E5` Breadth-first search (using a queue) explores all neighbors before going deep, while depth-first search (using a stack) goes deep before exploring broadly — same graph, completely different discovery sequences.
 - `INS-260330-9367` Since the 1950s, no famous skyscraper ever held the tallest-structure record because unglamorous radio and TV towers always surpassed them.
-- `INS-260404-24FB` Craft and deploy a single memorable phrase that captures your startup's essence early in your pitch.
 - `INS-260403-07C1` Blunt truth-telling gets misclassified as tribal aggression because readers expect persuasive padding.
 - `INS-260403-BDBE` Professional investors hear so many pitches they blur together — a sticky 'the X of Y' phrase near the beginning ensures you survive the first cut of simply being remembered.
 - `INS-260326-8189` Napoleon renamed a suicidal artillery battery 'Battery of Men Without Fear' and suddenly had no shortage of volunteers.
@@ -37,3 +33,6 @@
 - `INS-260329-348D` Warning about extreme positive side effects makes the positive outcome feel inevitable rather than aspirational.
 - `INS-260330-DD9C` Facebook's Free Basics and Google's AMP are framed as philanthropy but function as internet centralization strategies.
 - `INS-260404-007B` Costco's warehouse layout and IKEA's DIY model prove that reframing cost-cutting constraints as intentional experiences creates emotional loyalty beyond price.
+- `INS-260323-04D4` El-Kurd shows that media coverage of geopolitical conflicts misleads not through fabrication but through systematic omission of essential context.
+- `INS-260327-60FB` 'Population collapse' anxiety serves two very different interests: genuine concern about supporting aging populations vs. corporate concern about maintaining cheap labor - the solutions are contradictory.
+- `INS-260323-B726` Putin's framing of 1991 as a greater tragedy than WWII (where the Soviets lost millions) reveals his value hierarchy: loss of great power status and territorial unity outweighs loss of human life.

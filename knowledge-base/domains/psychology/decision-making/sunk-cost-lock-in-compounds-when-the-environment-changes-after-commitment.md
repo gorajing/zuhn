@@ -46,11 +46,13 @@ stance: >-
   The worst path-dependency traps occur not from bad initial decisions but from
   environmental shifts that invalidate previously rational commitments
 related:
+  - INS-260403-53C9
   - INS-260404-B7B6
   - INS-260404-581C
-  - INS-260403-818F
   - INS-260404-03E7
   - INS-260405-7E85
+  - INS-260405-02EE
+  - INS-260405-F03A
   - INS-260405-3048
 evidence:
   - id: INS-260404-B7B6

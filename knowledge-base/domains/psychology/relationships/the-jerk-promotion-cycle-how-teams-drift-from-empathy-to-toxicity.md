@@ -45,11 +45,11 @@ stance: >-
   Teams that default to niceness inevitably promote aggressive individuals
   because bluntness gets results in a culture that avoids confrontation.
 related:
+  - PRI-260405-F5A0
   - INS-260405-E06B
   - INS-260327-70DF
   - INS-260403-A99F
   - INS-260323-6BF4
-  - INS-260329-E45A
   - INS-260327-58ED
   - INS-260330-51B1
   - INS-260404-B6CC

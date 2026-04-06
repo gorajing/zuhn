@@ -41,6 +41,7 @@ stance: >-
   folate, CoQ10, choline, and complete protein in extraordinary concentrations
 related:
   - INS-260325-0146
+  - INS-260325-0A8A
   - PRI-260325-654D
   - INS-260327-118C
   - INS-260327-5E7F

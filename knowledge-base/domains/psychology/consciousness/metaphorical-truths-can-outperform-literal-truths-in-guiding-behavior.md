@@ -51,16 +51,16 @@ stance: >-
   outcomes than acting on their literal falsehood, making 'metaphorical truth' a
   legitimate epistemological category rather than mere self-deception.
 related:
-  - INS-260326-B10B
   - INS-260329-7B56
   - INS-260403-4CF9
   - INS-260330-1815
   - INS-260330-7D5F
+  - PRI-260405-262B
   - PRI-260324-2C9F
-  - INS-260330-D066
   - INS-260330-ECD8
-  - INS-260330-39E4
+  - INS-260330-D066
   - INS-260330-78B8
+  - INS-260402-F772
 evidence:
   - id: INS-260329-7B56
     type: SUPPORTS

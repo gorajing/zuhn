@@ -54,14 +54,12 @@ stance: >-
   effectively permanent.
 related:
   - PRI-260403-C34A
-  - INS-260403-F088
-  - INS-260403-D563
   - INS-260403-2CDA
   - INS-260404-9229
   - INS-260403-F68A
-  - INS-260403-3E1C
   - INS-260404-1FCE
   - INS-260404-AE3C
+  - INS-260403-262F
   - INS-260404-76DD
 evidence:
   - id: INS-260404-76DD

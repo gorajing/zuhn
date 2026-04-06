@@ -53,16 +53,15 @@ stance: >-
   accumulate costly workarounds rather than redesign when conditions shift, and
   the workaround cost grows with scale
 related:
+  - INS-260328-D0F6
   - INS-260330-CA97
-  - INS-260330-50B3
+  - INS-260330-D304
   - INS-260330-3FF4
   - PRI-260403-53D6
   - INS-260403-F52E
-  - INS-260403-D563
-  - INS-260403-818F
   - INS-260404-581C
   - INS-260405-7E85
-  - INS-260404-5CC6
+  - PRI-260405-3449
 evidence:
   - id: INS-260405-7E85
     type: SUPPORTS

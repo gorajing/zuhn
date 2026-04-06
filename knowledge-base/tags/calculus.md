@@ -5,7 +5,6 @@
 - `INS-260330-FB50` Newton invented calculus at age 23 because 1600s mathematics couldn't calculate a falling moon's trajectory — necessity of the problem forced creation of an entirely new mathematical discipline.
 - `INS-260325-03D5` Hard problems yield to successive approximation converging on precision, not to brute-force exact computation.
 - `INS-260329-02C5` Derivative rules are compressed patterns derived from the limit definition, and understanding their origin enables flexible problem-solving beyond rote application.
-- `INS-260325-3611` Breaking a hard problem into many small approximate pieces, then taking the limit as pieces shrink, transforms intractable problems into solvable ones.
 - `INS-260329-196E` Implicit differentiation computes rates of change directly from the relationship between variables, without requiring one variable to be isolated as a function of the other.
 - `INS-260329-579D` The limit operation is the conceptual bridge that transforms approximate finite calculations into exact infinite-process results.
 - `INS-260329-F8AF` The limit of a function at a point is determined entirely by the function's behavior near that point, not by its value at the point.

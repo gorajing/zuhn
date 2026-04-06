@@ -21,7 +21,7 @@ last_accessed: null
 access_count: 0
 indexed: true
 embedded: true
-embedding_model: "nomic-embed-text"
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Costco's mandatory membership triggers stronger sunk-cost loyalty than
@@ -48,6 +48,12 @@ stance: >-
   Requiring upfront payment as a condition of access produces deeper behavioral
   lock-in than offering it as an optional upgrade, because the customer cannot
   rationalize non-participation
+related:
+  - INS-260403-546E
+  - INS-260403-CE5F
+  - INS-260404-ED19
+  - INS-260404-B46E
+  - INS-260404-2D53
 ---
 Both Costco and Amazon Prime use upfront fees to trigger sunk-cost thinking — once you've paid, you feel compelled to shop there to 'get your money's worth.' But there's a critical difference in how each deploys this mechanism. Amazon Prime is optional, meaning users self-select based on rational calculation of whether the fee pays for itself. This creates loyalty but doesn't fundamentally alter behavior for non-subscribers.
 

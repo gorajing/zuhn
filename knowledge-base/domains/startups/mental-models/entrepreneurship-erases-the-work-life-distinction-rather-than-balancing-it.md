@@ -45,12 +45,11 @@ stance: >-
   dissolving the boundary, not optimizing it
 related:
   - INS-260325-11E9
-  - INS-260323-BDC1
-  - INS-260326-E0E1
   - INS-260327-4739
   - INS-260329-62E1
   - INS-260405-874D
   - INS-260404-D547
+  - INS-260326-E0E1
 evidence:
   - id: INS-260325-11E9
     type: CHALLENGES

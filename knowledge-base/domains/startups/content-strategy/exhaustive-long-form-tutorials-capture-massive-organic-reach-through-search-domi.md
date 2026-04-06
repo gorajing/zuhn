@@ -51,7 +51,6 @@ stance: >-
   because it becomes the canonical search result for an evergreen topic,
   outperforming dozens of shorter videos combined.
 related:
-  - INS-260329-90C3
   - INS-260329-69F0
   - INS-260329-E6AF
   - PRI-260403-C76D

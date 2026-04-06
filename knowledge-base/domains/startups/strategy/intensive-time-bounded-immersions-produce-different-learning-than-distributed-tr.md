@@ -50,11 +50,11 @@ stance: >-
   equivalent hours spread across months of part-time training because context
   switching costs and social intensity both compound learning
 related:
+  - INS-260323-7CA7
   - INS-260329-A937
   - INS-260330-B966
-  - INS-260323-7CA7
+  - PRI-260405-6867
   - INS-260329-9A7F
-  - INS-260330-B360
 evidence:
   - id: INS-260330-B360
     type: CONTRADICTS

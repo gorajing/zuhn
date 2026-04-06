@@ -53,10 +53,10 @@ stance: >-
   rather than a rational behavior that can be discouraged.
 related:
   - INS-260403-393C
-  - INS-260403-92EB
   - INS-260329-F2E1
   - INS-260322-5745
   - INS-260327-CEE4
+  - PRI-260324-D701
 evidence:
   - id: INS-260403-393C
     type: EXTENDS

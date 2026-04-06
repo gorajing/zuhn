@@ -45,12 +45,12 @@ stance: >-
   right questions and define what problems to solve will be the last uniquely
   human capability because it requires genuine curiosity about the unknown.
 related:
-  - INS-260325-D19B
   - INS-260322-B693
   - INS-260322-4B4A
   - INS-260330-2306
   - INS-260405-89E7
   - PRI-260403-FBA8
+  - INS-260330-FE9E
 evidence:
   - id: INS-260321-7D7C
     type: REFINES

@@ -51,10 +51,10 @@ stance: >-
   them from surprises.
 related:
   - INS-260326-C657
+  - PRI-260405-F5A0
   - PRI-260403-E023
   - INS-260322-2FAD
   - INS-260322-2ABB
-  - INS-260403-96FA
 evidence:
   - id: INS-260402-62E3
     type: EXTENDS

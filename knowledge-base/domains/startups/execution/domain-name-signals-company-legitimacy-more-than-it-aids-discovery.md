@@ -43,6 +43,6 @@ related:
   - INS-260403-99B1
   - INS-260327-80A8
   - INS-260404-8A02
-  - INS-260404-756D
+  - INS-260403-4C61
 ---
 Paul Graham argues that in the mobile app era, having the right domain name is less critical for user discovery than it once was. However, the .com of your company name serves as a powerful credibility signal — lacking it suggests weakness, while owning it (as Stripe demonstrates) signals strength regardless of semantic relevance. 100% of YC's top 20 companies by valuation own their .com, compared to only 66% of current batch companies, suggesting this is a reliable indicator of eventual success or at minimum a correctable disadvantage.

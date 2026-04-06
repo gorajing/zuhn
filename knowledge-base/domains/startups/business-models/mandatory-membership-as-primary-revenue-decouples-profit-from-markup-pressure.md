@@ -55,6 +55,6 @@ related:
   - INS-260403-B2CB
   - INS-260405-051E
   - INS-260404-60D6
-  - INS-260404-0298
+  - INS-260405-48EC
 ---
 Costco derives 75% of its profit from membership fees, not product sales. This fundamentally changes its incentive structure: raising prices would generate pennies today but risk losing a $60-$120 annual renewal. The result is a self-imposed 15% max markup (vs. Walmart's 24% or Home Depot's 35%). This isn't altruism — it's structural incentive alignment. The membership fee also triggers sunk-cost behavior, reducing price comparison and increasing repeat visits. Critically, the mandatory nature of the fee (vs. Amazon Prime's optional model) means every customer is a member, so the company can optimize entirely around renewal rates rather than maintaining a two-tier pricing strategy. This model is replicable: any business that can shift its profit center from per-transaction margins to recurring access fees gains the same structural alignment between company profit and customer satisfaction.

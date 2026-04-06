@@ -50,11 +50,11 @@ stance: >-
   people treat arguing as instinctive rather than a trainable skill, producing
   bad outcomes that further erode confidence in disagreement itself
 related:
+  - PRI-260405-64C0
   - INS-260330-3570
   - INS-260403-AA8F
   - INS-260326-B10B
   - INS-260403-FAC0
-  - PRI-260323-27D6
   - INS-260403-F60A
 evidence:
   - id: INS-260326-C692

@@ -47,10 +47,10 @@ stance: >-
   evasion because the best investors already expect most VCs to miss outliers
 related:
   - INS-260404-AF54
-  - INS-260403-915E
   - INS-260405-0B17
   - INS-260403-47B7
   - INS-260404-EE85
+  - INS-260404-AFE6
 evidence:
   - id: INS-260325-9AD4
     type: TRANSFERS_TO

@@ -47,6 +47,7 @@ stance: >-
   Successful strategies inevitably alter the conditions that made them
   successful, forcing continuous adaptation even without external competition
 related:
+  - INS-260330-B71B
   - INS-260330-F222
   - INS-260330-2CFA
   - INS-260330-F5CF
@@ -54,7 +55,7 @@ related:
   - INS-260404-1F1B
   - INS-260403-6628
   - INS-260404-B7B6
-  - INS-260330-EACA
+  - INS-260403-B5E2
 evidence:
   - id: INS-260330-F222
     type: REFINES

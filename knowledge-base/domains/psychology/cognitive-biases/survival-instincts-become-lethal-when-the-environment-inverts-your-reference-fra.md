@@ -57,13 +57,12 @@ stance: >-
   breath) become the primary cause of death when environmental assumptions are
   violated
 related:
-  - INS-260327-D9C0
   - INS-260330-D27C
+  - PRI-260405-3449
   - PRI-260325-F21B
   - PRI-260327-0AA2
   - INS-260330-E68E
   - INS-260330-5F6C
-  - PRI-260325-45A2
   - INS-260330-1E12
   - INS-260330-14CA
   - INS-260404-C663

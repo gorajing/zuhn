@@ -42,7 +42,7 @@ stance: >-
   print statements and breakpoints to progressively narrow the error location —
   rather than reading through entire codebases or making speculative fixes.
 related:
-  - INS-260325-3611
+  - INS-260325-5FE9
   - INS-260325-C724
   - INS-260329-F84E
   - INS-260329-ACEB
@@ -50,6 +50,7 @@ related:
   - INS-260330-5609
   - INS-260330-64D8
   - INS-260402-2CAF
+  - INS-260330-1E5E
 evidence:
   - id: INS-260325-3611
     type: TRANSFERS_TO

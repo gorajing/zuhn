@@ -46,11 +46,11 @@ stance: >-
   failure.
 related:
   - INS-260320-6CCE
-  - INS-260327-3C19
   - INS-260329-7A3C
   - INS-260330-6A94
   - INS-260330-881A
-  - INS-260327-FC21
+  - PRI-260405-64B2
+  - INS-260327-3C19
 evidence:
   - id: INS-260320-6CCE
     type: TRANSFERS_TO

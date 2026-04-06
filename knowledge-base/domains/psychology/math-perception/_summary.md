@@ -1,6 +1,6 @@
 # Topic: math-perception
 
-> 56 insights
+> 55 insights
 
 - `INS-260325-03D5` [high] Hard problems yield to successive approximation converging on precision, not to brute-force exact computation.
 - `INS-260330-09AB` [high] For any convex 3D shape, averaging its shadow area over all orientations yields exactly one-quarter of its surface area — a powerful generalization beyond spheres.
@@ -15,7 +15,6 @@
 - `INS-260323-75A6` [high] Dirac's equation predicting antimatter came from his unusual visual-geometric approach to mathematics -- and he said the equation was 'smarter than he was' because it revealed truths he hadn't put in.
 - `INS-260323-FAF0` [high] Hamkins proves every natural number is interesting via contradiction: if boring numbers existed, the smallest boring number would be interesting for being the smallest boring number.
 - `INS-260330-B640` [high] Gödel showed that by assigning numbers to symbols, any mathematical system powerful enough to do arithmetic can construct statements that refer to themselves.
-- `INS-260325-3611` [high] Breaking a hard problem into many small approximate pieces, then taking the limit as pieces shrink, transforms intractable problems into solvable ones.
 - `INS-260404-8908` [high] Anomalous outputs in simple systems are signals of hidden structural connections waiting to be uncovered.
 - `INS-260329-196E` [high] Implicit differentiation computes rates of change directly from the relationship between variables, without requiring one variable to be isolated as a function of the other.
 - `INS-260329-9391` [high] Indeterminate forms like 0/0 in calculus signal convergence of two quantities and require algebraic manipulation to resolve, teaching the meta-skill of treating apparent paradoxes as meaningful signals.

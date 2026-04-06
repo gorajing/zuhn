@@ -51,11 +51,11 @@ stance: >-
   communication in professional contexts
 related:
   - INS-260330-748E
+  - PRI-260405-262B
   - INS-260402-3639
   - INS-260329-4DBC
   - INS-260404-A526
   - INS-260403-0907
-  - PRI-260327-3BD9
 evidence:
   - id: INS-260329-4DBC
     type: TRANSFERS_TO

@@ -49,11 +49,10 @@ stance: >-
   concept-first instruction.
 related:
   - INS-260329-27A3
+  - PRI-260405-71C5
   - INS-260329-8330
   - INS-260329-E402
   - INS-260329-493A
-  - INS-260329-3263
-  - INS-260329-820D
 evidence:
   - id: INS-260329-27A3
     type: REFINES

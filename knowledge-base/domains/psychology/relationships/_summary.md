@@ -1,6 +1,6 @@
 # Topic: relationships
 
-> 86 insights
+> 85 insights
 
 - `INS-260325-3A54` [very_high] The 85-year Harvard Study of Adult Development shows that the single choice most likely to keep you happy and healthy is investing in relationships.
 - `INS-260330-A33E` [high] Active addiction of any kind — drugs, crime, gambling — makes genuine love impossible because the addiction always comes first.
@@ -74,7 +74,6 @@
 - `INS-260325-FA70` [medium] Joy's preconditions — emotional availability, surprise, and connection — are precisely what productivity optimization destroys.
 - `INS-260330-A59D` [medium] Kissing likely evolved from kiss-feeding and persisted because saliva exchange provides biological compatibility data for mate selection.
 - `INS-260330-FCB7` [medium] Kissing likely evolved from kiss-feeding and persisted because saliva carries hormonal signals (like testosterone) that help assess mate compatibility.
-- `INS-260329-96BA` [medium] State your downsides first so that partners who are unbothered by them self-select in, creating stronger matches.
 - `INS-260329-ABA1` [medium] Present your flaws first in dating — people unbothered by your downsides are your strongest matches.
 - `INS-260330-A2E7` [medium] Helen Fisher's research shows 81% of long-married people would remarry their spouse, and argues the modern 'slow love' pattern of extended courtship improves partner selection.
 - `INS-260323-7263` [medium] Messaging on Discord, following creators who resonate with you, and having online friends all genuinely reduce loneliness and matter as real social connection — not just a substitute for in-person relationships.

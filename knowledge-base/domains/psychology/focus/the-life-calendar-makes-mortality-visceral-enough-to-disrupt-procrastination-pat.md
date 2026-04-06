@@ -52,7 +52,7 @@ related:
   - INS-260325-77B1
   - PRI-260328-30C2
   - PRI-260325-2800
-  - INS-260328-FE38
+  - PRI-260405-64B2
 ---
 Urban closes with a Life Calendar showing one box for every week of a 90-year life. The visual impact is immediate — there aren't that many boxes, and you've already used a lot of them. This converts the abstract idea of mortality into something spatially concrete.
 

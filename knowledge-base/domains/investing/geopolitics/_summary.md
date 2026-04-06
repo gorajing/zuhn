@@ -1,6 +1,6 @@
 # Topic: geopolitics
 
-> 357 insights
+> 356 insights
 
 - `INS-260326-1E52` [very_high] The Bolsheviks were a minority party in 1917 Russia but the most disciplined and decisive -- they captured the state while larger factions deliberated.
 - `INS-260326-3E19` [very_high] Pharmaceutical companies funding the FDA, banks staffing financial regulators, and tech giants writing platform regulations are structurally identical -- the mechanism is industry-funded oversight producing industry-favorable rules.
@@ -129,7 +129,6 @@
 - `INS-260327-3381` [high] Davout was Napoleon's most valuable marshal because he could win battles independently — at Auerstedt he defeated the main Prussian army with a single corps while Napoleon fought a secondary force at Jena.
 - `INS-260327-D1B7` [high] The Entente won WW1 primarily because its combined industrial output (including American manufacturing) vastly exceeded the Central Powers', allowing it to absorb losses and maintain operations indefinitely.
 - `INS-260330-02A7` [high] Inflation should be modeled as a multi-dimensional vector across all assets and goods, not reduced to a single government-defined CPI scalar.
-- `INS-260330-757E` [high] States can use infrastructure projects to gradually absorb autonomous regions by making economic integration irreversible before political integration follows.
 - `INS-260330-0FCE` [high] Physical infrastructure creates economic interdependency that gradually makes political separation impractical, serving as a subtler tool of control than direct legislation.
 - `INS-260327-EDBA` [high] Paul Revere's ride was possible because the colonial intelligence network (supported by the entire sympathetic population) tracked every British movement while the British had no intelligence on colonial preparations.
 - `INS-260323-D41A` [high] Spy agencies recruit assets who combine technical knowledge with clean backgrounds and personal naivety — the ideal agent is competent enough to access targets but inexperienced enough to be manipulated.

@@ -50,10 +50,10 @@ stance: >-
 related:
   - INS-260330-EF51
   - PRI-260328-F0E4
+  - PRI-260405-86E0
   - INS-260327-7F56
   - PRI-260328-604D
   - INS-260403-C949
-  - INS-260330-F800
 evidence:
   - id: INS-260327-7F56
     type: TRANSFERS_TO

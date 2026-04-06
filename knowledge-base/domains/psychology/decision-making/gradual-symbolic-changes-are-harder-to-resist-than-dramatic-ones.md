@@ -51,10 +51,10 @@ stance: >-
   at producing fundamental transformation than sudden dramatic shifts, because
   each step falls below the threshold that triggers organized resistance.
 related:
-  - INS-260330-757E
   - INS-260323-822B
   - INS-260330-9E26
   - INS-260330-1293
+  - PRI-260405-129E
   - INS-260330-6E4E
 evidence:
   - id: INS-260330-757E

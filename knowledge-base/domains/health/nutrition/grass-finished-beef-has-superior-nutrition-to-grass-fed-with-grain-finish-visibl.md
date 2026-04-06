@@ -44,7 +44,6 @@ related:
   - INS-260327-5D5D
   - INS-260327-1270
   - PRI-260328-D9D0
-  - INS-260327-DDC3
   - INS-260327-40C1
 ---
 True grass-finished beef has yellow-tinted fat (from beta-carotene), different marbling patterns, and superior fatty acid profiles compared to grass-fed-then-grain-finished beef commonly mislabeled

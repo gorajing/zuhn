@@ -63,7 +63,6 @@ related:
   - INS-260404-DD95
   - INS-260403-3E46
   - INS-260405-2DC0
-  - INS-260404-6753
 evidence:
   - id: INS-260322-2A3A
     type: REFINES

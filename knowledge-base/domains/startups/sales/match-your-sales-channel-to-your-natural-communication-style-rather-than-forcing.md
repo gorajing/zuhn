@@ -47,14 +47,14 @@ stance: >-
   finding the sales channel—writing, recruiting, fundraising—that aligns with
   their natural communication strengths.
 related:
-  - INS-260327-B18F
   - INS-260327-FC21
-  - INS-260328-B233
   - INS-260329-DF36
   - INS-260403-9542
   - PRI-260403-0ABD
   - INS-260323-1CA4
+  - INS-260327-B18F
   - PRI-260328-E921
+  - PRI-260405-91AD
 evidence:
   - id: INS-260403-9542
     type: CHALLENGES

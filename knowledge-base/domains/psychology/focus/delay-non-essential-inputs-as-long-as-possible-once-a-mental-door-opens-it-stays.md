@@ -49,10 +49,10 @@ resolutions:
     book for notes instead of a phone preserves mental clarity.
 related:
   - INS-260322-71E4
+  - PRI-260405-E628
   - PRI-260323-57AC
   - INS-260403-38C5
   - INS-260322-E90F
-  - INS-260325-809A
   - INS-260329-565E
 stance: >-
   Delay checking email, social media, and other non-essential inputs for as long

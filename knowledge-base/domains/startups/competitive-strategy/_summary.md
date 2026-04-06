@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 471 insights
+> 462 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -34,7 +34,6 @@
 - `INS-260324-6C83` [high] 80% of US barbershops remain independent despite 40 years of corporate attempts because the core asset (barber talent) can walk out and open their own shop with just scissors and a chair.
 - `INS-260402-0A49` [high] Centivax deliberately proved their universal vaccine beat commercial vaccines even against the outdated guidance strains those vaccines were specifically designed for.
 - `INS-260327-6853` [high] Taco Bell was Yum Brands' overlooked third child behind KFC and Pizza Hut, but being excluded from the China arms race gave its leaders room to quietly build a domestic powerhouse without corporate interference or pressure to scale prematurely.
-- `INS-260330-E039` [high] RuBisCo is bad at its job but became the most abundant protein on Earth (40 billion tons) because early plants scaled it before alternatives evolved.
 - `INS-260327-0519` [high] BNPL succeeds because four payments doesnt feel like debt even though it is functionally identical to credit card borrowing.
 - `INS-260327-176D` [high] Board seats pay hundreds of thousands for showing up to quarterly meetings, creating a professional director class incentivized to avoid rocking any boat.
 - `INS-260327-812B` [high] Boeing's board includes a former Vanguard CEO who also sits on Pfizer's board with Coca-Cola's CEO who sits on Netflix's board - it's an interconnected club providing the illusion of independent oversight.
@@ -146,11 +145,9 @@
 - `INS-260330-9A60` [high] Photosynthesis is explicitly described as 'complicated, inefficient and confusing' yet powers virtually all life because it achieved ecosystem lock-in 450 million years ago.
 - `INS-260403-962E` [high] RuBisCo is mediocre but has dominated carbon fixation for 3+ billion years because the entire biosphere was built on top of it.
 - `INS-260330-3FF4` [high] RuBisCo evolved when CO2 was abundant and O2 scarce — when conditions changed, it became terrible, yet no alternative has displaced it in 450 million years because every plant depends on it.
-- `INS-260330-8B93` [high] RuBisCo is a terrible enzyme that won the planet because switching costs exceeded optimization pressure.
 - `INS-260403-1731` [high] RuBisCo dominates carbon fixation despite failing half the time because plants went all-in before alternatives could evolve.
 - `INS-260330-6A47` [high] In winner-take-all markets, being adequate first beats being optimal later because the first mover reshapes the competitive environment.
 - `INS-260404-26AE` [high] RuBisCo is a terrible enzyme that conquered the planet because it was the first carbon-fixation solution available.
-- `INS-260330-43CA` [high] RuBisCo is a terrible enzyme that confuses O2 for CO2 half the time, yet 40 billion tons of it dominate Earth because plants went all-in before oxygen levels rose.
 - `INS-260327-1ACE` [high] After nearly bankrupting by expanding to 10 nearby European cities, Bolt ranked the top few hundred cities worldwide by demand fundamentals and discovered African cities dominated the list.
 - `INS-260327-E3DE` [high] A focused AI tool for one task beats ChatGPT's mediocre everything—the same reason you hire specialists.
 - `INS-260327-5973` [high] Donut economics work because the product cost is trivially low relative to the selling price, making even modest volume 
@@ -263,10 +260,8 @@
 - `INS-260403-A862` [high] Incumbents' existing architecture and customer base anchor them to old threat models when the battleground shifts.
 - `INS-260403-262F` [high] RuBisCo is a terrible enzyme that dominates all plant life because evolution went all-in before oxygen made it obsolete, illustrating how early commitment to mediocre solutions creates irreversible lock-in.
 - `INS-260403-F68A` [high] RuBisCo is a terrible enzyme that won evolution because it was first, and now 40 billion tons of it run the planet.
-- `INS-260330-B468` [high] Once a mediocre solution achieves ecosystem-level adoption, organisms (and markets) compensate around its flaws rather than replace it.
 - `INS-260330-11EB` [high] RuBisCo is a mediocre enzyme that plants can't replace because they went all-in — 40 billion tons of it — illustrating how early commitment to 'good enough' creates irreversible lock-in.
 - `INS-260330-D4CC` [high] RuBisCo fails 50% of the time in today's atmosphere but remains life's only carbon-fixation enzyme because plants invested too heavily to switch.
-- `INS-260330-1650` [high] RuBisCo evolved for a high-CO2 world and now fails half the time with O2, but plants can't switch — they just cope with the toxic byproducts.
 - `INS-260402-1F41` [high] Per-user models are inherently harder to game than shared models because attackers face a diverse population instead of a single target.
 - `INS-260330-A25A` [high] Layer 2 and application layers innovate faster than Layer 1 because they don't require community-wide consensus to ship changes.
 - `INS-260327-099A` [high] 95% of music downloads were pirated at peak, not because people refused to pay but because piracy was easier - streaming killed piracy by being more convenient, not cheaper.
@@ -318,10 +313,6 @@
 - `INS-260324-6A99` [high] Nike and Adidas hit record revenue at the peak of the sneaker resale boom, but revenue is a lagging indicator — by the time sales peaked, consumer demand had already shifted and the crash was inevitable.
 - `INS-260327-FAD7` [high] During the sneaker bubble, shoes flew off shelves without discounts, anyone could flip pairs for thousands, and shops opened everywhere -- when the market crashed, most stores went bankrupt because revenue had masked the absence of any real expertise or moat.
 - `INS-260327-9C3A` [high] Uber proved enormous demand for ride-hailing at subsidized prices but has struggled to demonstrate that demand persists 
-- `INS-260330-3EE4` [high] RuBisCo is terrible at distinguishing CO2 from O2 but dominates because plants went all-in before the environment changed, illustrating how early adoption creates irreversible lock-in.
-- `INS-260330-0E1E` [high] RuBisCo is a slow, error-prone enzyme that life committed to early and now cannot replace despite 40 billion tons of it being needed to compensate for its inefficiency.
-- `INS-260330-4C3A` [high] RuBisCo is a terrible enzyme that plants can never replace because their entire metabolism depends on it — a biological case study in permanent lock-in from early architectural decisions.
-- `INS-260330-7B11` [high] RuBisCo is a terrible enzyme that won by being produced in massive quantities — 40 billion tons on Earth — because 'good enough at scale' beats 'perfect but scarce.'
 - `INS-260327-8997` [high] Amazon is literally running out of human beings who haven't already worked for them and quit, revealing a hard limit on growth-through-churn employment strategies.
 - `INS-260329-F33F` [high] Like the woman in the red dress from The Matrix, opportunities become more seductive as you succeed — requiring a stronger 'no' muscle at every level.
 - `INS-260330-45A9` [high] Plants conquered Earth not by making RuBisCo better, but by making more of it — volume strategy beat optimization strategy over evolutionary timescales.

@@ -1,6 +1,5 @@
 # Tag: signaling
 
-- `INS-260403-06E2` Sand Hill Road's boring identical offices reveal that VC firms differentiate on relationships and judgment, not on brand or physical presence.
 - `INS-260404-F965` Sophisticated evaluators penalize polish that masks inexperience because it hides the raw talent signal they're actually looking for.
 - `INS-260403-7586` Smart evaluators screen for raw talent, not polish — pretending to be further along than you are conceals the signal they're looking for.
 - `INS-260403-37D9` Under time pressure and information asymmetry, an audience's primary evaluation heuristic becomes the presenter's own apparent confidence in their work.
@@ -17,8 +16,6 @@
 - `INS-260404-5017` When your audience can't evaluate your technical work directly, your own visible conviction becomes their strongest data point.
 - `INS-260404-F161` In low-information evaluation contexts, implicit confidence outweighs explicit claims about quality.
 - `INS-260404-0095` Non-technical audiences who can't evaluate your product will primarily judge it by how impressed you yourself seem with what you've built.
-- `INS-260404-58AE` Show, don't tell: never claim passion or quality directly—let your command of the problem and product demonstrate it.
-- `INS-260403-915E` Explicitly claiming passion or greatness triggers investor skepticism; confidence must be demonstrated implicitly through how you present, not what you say about yourself.
 - `INS-260404-0CD8` Never say 'we're passionate' or 'our product is great'—such messages must be implicit or audiences write you off as bullshitters.
 - `INS-260329-ABA1` Present your flaws first in dating — people unbothered by your downsides are your strongest matches.
 - `INS-260404-47AC` Investors hunt for raw talent, not polished surfaces—corporate cosplay and knowledge-faking conceal the very thing they're looking for.
@@ -35,6 +32,6 @@
 - `INS-260405-12E6` Investors who can't evaluate your product in 10 minutes will fall back on your own apparent conviction as the main signal.
 - `INS-260402-66A5` VCs select for founders who are best at performing certainty, not founders with the best businesses.
 - `INS-260405-8BEA` Never say you're passionate or that your product is great — both are ignored or actively backfire; demonstrated confidence is the only kind that works.
-- `INS-260403-2F22` Never say 'we're passionate' — investors ignore or penalize explicit self-praise, but unconsciously weight your implicit confidence heavily.
 - `INS-260404-103B` Show genuine confidence through implicit signals rather than explicit claims about passion or product quality.
 - `INS-260403-7708` A firm like Sequoia taking 30% needs to improve outcomes by 43%—their brand signal alone may exceed that.
+- `INS-260403-06E2` Sand Hill Road's boring identical offices reveal that VC firms differentiate on relationships and judgment, not on brand or physical presence.

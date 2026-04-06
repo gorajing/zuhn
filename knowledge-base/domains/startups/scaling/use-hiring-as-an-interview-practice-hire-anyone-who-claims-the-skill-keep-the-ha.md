@@ -47,11 +47,10 @@ resolutions:
 related:
   - INS-260321-69E1
   - INS-260326-7B2A
+  - PRI-260405-608A
   - INS-260330-1B37
   - PRI-260403-7BEC
   - INS-260327-2430
-  - PRI-260328-E870
-  - INS-260327-6405
 stance: >-
   Pincus hired anyone who said they knew PHP, kept less than half, and found
   gems like an 18-year-old savant living on his mom's couch

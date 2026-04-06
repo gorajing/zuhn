@@ -48,10 +48,11 @@ stance: >-
   revolutionary risk more than maintaining subsistence-level poverty does
 related:
   - INS-260323-8239
+  - INS-260327-7B05
   - PRI-260328-BD81
   - INS-260330-21CC
   - INS-260330-45A9
-  - INS-260403-D518
+  - INS-260330-697F
 evidence:
   - id: INS-260323-8239
     type: CHALLENGES

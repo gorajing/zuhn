@@ -43,11 +43,11 @@ stance: >-
   passion or quality.
 related:
   - INS-260327-E3ED
-  - INS-260403-2F22
-  - INS-260403-915E
   - INS-260403-4960
+  - INS-260403-24F0
   - INS-260404-0CD8
   - INS-260405-8BEA
+  - INS-260404-405A
 evidence:
   - id: INS-260403-915E
     type: SUPPORTS

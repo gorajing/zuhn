@@ -47,12 +47,13 @@ stance: >-
   fear that nobody actually wants what you've built.
 related:
   - INS-260403-8F31
-  - INS-260404-817A
-  - INS-260403-035A
-  - INS-260404-3D06
-  - INS-260404-2FC0
-  - INS-260404-CF2A
+  - INS-260403-7072
+  - INS-260403-53AA
+  - INS-260404-29F4
+  - INS-260404-2B4C
   - INS-260405-F9EC
+  - INS-260405-672E
+  - INS-260405-9E25
 ---
 The biggest fear for early-stage investors is that founders have built something based on a priori theories about what the world needs. Market size figures ('it's a $5B market') don't address this fear at all — they're like an aspiring actor citing Tom Hanks' salary. What Sequoia calls 'proxy for demand' is far more convincing: what are people doing right now, with inadequate tools, that demonstrates they need your solution?
 

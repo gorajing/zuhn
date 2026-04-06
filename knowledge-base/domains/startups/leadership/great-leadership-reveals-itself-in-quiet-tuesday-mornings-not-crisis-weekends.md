@@ -44,9 +44,9 @@ resolutions:
 related:
   - PRI-260403-E023
   - INS-260330-D432
+  - PRI-260405-F5A0
   - PRI-260328-BEAB
   - INS-260402-62E3
-  - PRI-260323-9EAD
 stance: >-
   The true measure of a leader is the quality of decisions they make on ordinary
   days, not how they perform in dramatic crises.

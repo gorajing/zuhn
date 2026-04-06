@@ -46,7 +46,6 @@ stance: >-
   programming work than unexpected ones because they prevent the programmer from
   even attempting hard problems.
 related:
-  - INS-260327-C5D9
   - INS-260327-0833
   - INS-260329-57D7
   - INS-260329-5306
@@ -56,6 +55,7 @@ related:
   - INS-260330-6900
   - INS-260402-7182
   - INS-260403-E255
+  - INS-260328-FE38
 evidence:
   - id: INS-260327-C5D9
     type: EXTENDS

@@ -46,7 +46,7 @@ related:
   - INS-260404-CE26
   - INS-260322-2ABB
   - INS-260404-DBD2
-  - INS-260325-D19B
+  - INS-260326-0AB4
 stance: >-
   Organizations routinely assign their least technical person to 'train the AI'
   because they don't understand that this is actual data science work.

@@ -50,11 +50,11 @@ stance: >-
   isolation
 related:
   - INS-260329-D1F2
+  - PRI-260405-71C5
   - PRI-260403-0509
   - INS-260329-69F0
   - INS-260329-023F
   - INS-260403-EE38
-  - INS-260323-AF7B
   - INS-260330-F7B2
   - INS-260404-0B86
 evidence:
