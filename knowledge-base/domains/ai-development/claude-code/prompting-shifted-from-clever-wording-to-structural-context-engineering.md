@@ -46,10 +46,10 @@ related:
   - PRI-260320-6847
   - INS-260320-D972
   - INS-260329-0F39
-  - INS-260329-0A55
   - INS-260321-703F
-  - INS-260322-17B3
-  - INS-260327-294E
+  - PRI-260320-8205
+  - INS-260329-7B2D
+  - INS-260329-CB03
 stance: >-
   Effective prompting is no longer about linguistic tricks — it's about
   providing the right structure: role, background, format, constraints

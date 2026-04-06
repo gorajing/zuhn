@@ -46,16 +46,16 @@ stance: >-
   winning strategy when the alternative is waiting for a perfect solution that
   may never arrive.
 related:
+  - INS-260325-9F5F
   - INS-260330-033A
   - INS-260330-3AF7
   - INS-260330-F82A
-  - INS-260404-47F5
+  - INS-260330-4489
   - INS-260404-16B0
-  - INS-260404-B04F
   - INS-260403-532D
   - INS-260404-8256
-  - INS-260403-C514
-  - INS-260403-2DC4
+  - INS-260404-3B9D
+  - INS-260404-AE3C
 evidence:
   - id: INS-260330-68C8
     type: TRANSFERS_TO

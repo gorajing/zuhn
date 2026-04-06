@@ -58,15 +58,15 @@ stance: >-
   energy conservation a fundamental constraint of all living systems.
 related:
   - INS-260330-D8E4
-  - INS-260404-F014
   - INS-260404-EFA8
   - INS-260330-BC56
   - INS-260404-3500
   - PRI-260403-181B
-  - PRI-260403-70D0
   - INS-260403-2DC0
+  - PRI-260403-70D0
+  - INS-260403-FC01
   - INS-260403-6AD0
-  - INS-260404-52FC
+  - INS-260404-040D
 evidence:
   - id: INS-260325-6A2C
     type: CHALLENGES

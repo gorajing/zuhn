@@ -47,15 +47,15 @@ stance: >-
   piece regardless of the others.
 related:
   - INS-260322-3537
+  - INS-260323-1B0B
   - INS-260323-0780
   - INS-260325-5692
   - INS-260322-EE1B
   - INS-260323-4AB5
   - INS-260323-C0BD
   - INS-260326-6D53
+  - INS-260329-CCDE
   - INS-260329-EC78
-  - INS-260329-976E
-  - INS-260330-DBAD
 evidence:
   - id: INS-260322-3537
     type: TRANSFERS_TO

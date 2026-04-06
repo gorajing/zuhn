@@ -51,11 +51,11 @@ stance: >-
   unstable transition state that must decompose before yielding stable, usable
   products.
 related:
-  - INS-260403-1731
-  - INS-260403-E52B
-  - INS-260330-D4CC
   - INS-260323-0780
   - INS-260405-F20F
+  - INS-260405-A103
+  - INS-260405-F3C0
+  - INS-260330-D8E4
 evidence:
   - id: INS-260330-30FB
     type: EXTENDS

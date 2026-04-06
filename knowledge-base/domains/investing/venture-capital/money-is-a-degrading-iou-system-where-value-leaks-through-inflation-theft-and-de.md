@@ -58,7 +58,6 @@ related:
   - INS-260403-6602
   - INS-260404-EEAF
   - INS-260404-108C
-  - INS-260403-6386
   - INS-260405-3066
 evidence:
   - id: INS-260323-1338

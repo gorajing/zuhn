@@ -52,9 +52,9 @@ stance: >-
 related:
   - INS-260329-FEA8
   - INS-260329-F8AF
-  - INS-260329-F4B2
   - INS-260329-4092
-  - INS-260329-FD7F
+  - INS-260329-356A
+  - INS-260330-FF5B
   - INS-260329-95EF
 ---
 The course demonstrates this through the bike ride example: your speedometer shows 'instantaneous velocity' but what it actually computes is distance over a very small time interval. The derivative formalizes this — f'(a) = lim(h→0) [f(a+h) - f(a)]/h. The difference quotient [f(a+h) - f(a)]/h gives the average rate of change over the interval [a, a+h], and only in the limit as h→0 do we get the 'instantaneous' rate. This has profound epistemological implications: every 'instantaneous' measurement in science — velocity, acceleration, current, temperature change rate — is a mathematical idealization. We never measure at a point; we always measure over intervals and extrapolate to zero. Understanding this distinction between constructed and observed quantities sharpens critical thinking about data, metrics, and claims of precision in any field.

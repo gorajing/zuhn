@@ -39,10 +39,10 @@ stance: >-
   Founders who hire leaders for functions they don't personally understand will
   consistently hire the wrong profile and waste months discovering the mismatch.
 related:
-  - INS-260327-FA62
   - PRI-260403-E023
   - INS-260322-2ABB
   - INS-260326-7B2A
   - INS-260322-C6CE
+  - INS-260327-2608
 ---
 Xiaoyin kept hiring the wrong sales leaders because she didn't understand the role. She hired big-account enterprise salespeople when she needed high-volume inbound closers. Only after doing the sales job herself did she understand the difference. The pattern: founders from technical backgrounds who delegate unfamiliar functions too early get burned. The fix is spending enough time doing the function yourself to develop judgment about what good looks like, then hiring based on that lived understanding.

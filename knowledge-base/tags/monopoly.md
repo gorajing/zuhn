@@ -2,13 +2,10 @@
 
 - `INS-260330-7ED0` M-PESA succeeded because Safaricom's telecom monopoly solved the cold-start problem that fragments US mobile payment competitors.
 - `INS-260330-0871` Facebook's $1B Instagram acquisition — mocked as absurd for an 18-month-old app with zero revenue — generated $24B/year by 2019 and eliminated its top competitor.
-- `INS-260330-FCBC` Controlling access to essential inputs creates stronger lock-in than product quality.
 - `INS-260330-E4B6` Morgan's 'morganization' strategy turned fragmented railroads into profitable monopolies by merging competitors rather than outcompeting them.
 - `INS-260327-7C67` For an alarming number of major companies, becoming a monopoly isn't just profit maximization - it's the only way they can make a profit at all.
 - `INS-260323-07BE` Johns-Manville systematically acquired companies with asbestos-free alternatives to eliminate anyone who could publicly denounce asbestos as dangerous.
 - `INS-260330-1FED` Rockefeller secured 50-75% railroad discounts by negotiating when railroads were desperate, then used the cost advantage to bankrupt competitors through sustained price wars.
-- `INS-260330-174B` Monopolies claim they're in huge markets to avoid regulation, while competitive businesses claim they're in tiny unique niches to attract capital — both are lying.
-- `INS-260330-420D` Monopolists frame themselves in huge markets (Google calls itself a 'technology company' in a $1T market) while struggling competitors claim tiny intersections ('the only British food restaurant in Palo Alto').
 - `INS-260330-F527` Monopolists describe their market as the union of many markets to appear competitive, while competitors describe theirs as the intersection of niches to appear unique — making the real difference invisible.
 - `INS-260323-E551` Tudor maintained his ice monopoly by systematically undercutting copycat businesses on price until they gave up or went bankrupt.
 - `INS-260330-106F` Since the 1970s, antitrust law has equated low prices with consumer benefit, creating a blind spot for companies like Amazon that maintain low prices while eliminating competition through cross-subsidization.
@@ -16,7 +13,5 @@
 - `INS-260330-C9C6` PayPal started with 20,000 eBay power sellers, Facebook started with 10,000 Harvard students — markets so small they seemed worthless, but they enabled 25-60% penetration in months before expanding concentrically.
 - `INS-260330-568A` Successful startups dominate a tiny market first — PayPal took 25-30% of eBay power sellers in 2-3 months, Facebook went 0 to 60% at Harvard in 10 days — then expanded concentrically.
 - `INS-260330-0525` Tesla and SpaceX succeeded not through a single 10x breakthrough but through complex vertical integration that pulled in distributors and subcontractors that would otherwise extract monopoly profits.
-- `INS-260330-AE4B` Tesla and SpaceX succeeded not through a single 10x innovation but through vertically integrating so many pieces that the coordination itself became the moat.
 - `INS-260330-66A0` The best startup ideas look bad initially because good-sounding ones attract too many competitors, preventing monopoly formation.
 - `INS-260330-9DCD` Government monopoly on land rezoning functions as an uncapped, unaccountable tax on housing demand.
-- `INS-260330-391C` PayPal started with 20,000 eBay power sellers, Facebook started with 10,000 Harvard students (0 to 60% in 10 days) — markets so small business schools would dismiss them as worthless.

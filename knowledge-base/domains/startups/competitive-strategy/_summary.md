@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 462 insights
+> 428 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -26,7 +26,6 @@
 - `INS-260327-0710` [high] Shopping malls built around anchor department stores face cascading failure when anchors close because the entire ecosys
 - `INS-260327-6B78` [high] Anthropic's enterprise sales targets two distinct buyers: developers/CPOs who consume the API and Chief AI Officers who manage model portfolios — with the majority of the Fortune 500 now having someone in the latter role.
 - `INS-260330-D801` [high] Patek Philippe's business model — forcing buyers through loyalty tiers, policing resales, and rebuying watches to trace leakers — is fundamentally bubble management, not watchmaking.
-- `INS-260330-FCBC` [high] Controlling access to essential inputs creates stronger lock-in than product quality.
 - `INS-260329-6D3B` [high] Incumbent competition is inevitable at scale — the question shifts from 'if' to 'how do I compete against their bundle advantage.'
 - `INS-260403-5593` [high] Big companies can't let individuals hold whole programs in their heads, so startups should target problems that demand exactly that.
 - `INS-260327-5E03` [high] When consumers can't afford cars, automakers built more expensive cars with longer loan terms rather than more affordable alternatives.
@@ -45,11 +44,9 @@
 - `INS-260329-B77F` [high] Business titans built credibility through results first and personal brands second — competitors can copy your promises and services but cannot copy your proof.
 - `INS-260327-8682` [high] Intuit's expansion playbook: after accounting (the anchor), the next problem was invoicing and getting paid (right next to accounting), then payroll, then credit — each one right next to the last.
 - `INS-260403-B446` [high] Building differentiates you early when the market is noisy with pure salespeople, but sales reputation compounds while technical skills depreciate.
-- `INS-260330-A3F2` [high] Massive value can be unlocked by removing bureaucratic barriers between complementary but disconnected markets rather than building something new.
 - `INS-260403-43B9` [high] Competitors can copy products far more easily than they can replicate an entire business model ecosystem.
 - `INS-260327-4431` [high] When customer demand is driven by anxiety about future availability rather than current need, sales are inherently unpre
 - `INS-260327-1B4A` [high] Physical venues that were supposedly killed by digital alternatives survive by pivoting to the social experience dimensi
-- `INS-260327-4877` [high] Companies whose revenue depends on customer inability to cancel rather than customer desire to continue face disruption 
 - `INS-260327-9508` [high] Companies that service the downstream effects of consumer behavior (storage, waste management, debt collection) have mor
 - `INS-260327-50CE` [high] When a business sells membership in an exclusive social group rather than a product or service, pricing is determined by
 - `INS-260327-4BC6` [high] Businesses positioned at the affordable end of essential categories are recession-proof because demand for basic needs i
@@ -82,7 +79,6 @@
 - `INS-260402-E2FF` [high] Make the adversary's business model unviable rather than trying to block every specific attack.
 - `INS-260402-B42C` [high] A barbershop's locality limits its growth but also limits its competition to other local barbers — startups that remove such constraints face the whole world.
 - `INS-260327-6900` [high] Car companies responded to consumers who can't afford cars by making cars more expensive than ever - the fundamental constraint is affordability, not technology.
-- `INS-260327-2BE1` [high] GoPro launched 9 generations and 20 models in 10 years but still collapsed because the action camera market was too small for a single-product company, while Nikon and Canon survived smartphones by diversifying into semiconductors, healthcare, and 3D printing.
 - `INS-260327-77C7` [high] When streaming services fragment content and raise prices simultaneously, they cross a threshold where the total cost and friction exceeds consumers' tolerance, driving them back to piracy.
 - `INS-260330-8F33` [high] Nakamura chose gallium nitride specifically because everyone else had abandoned it, giving him a field with almost no competition.
 - `INS-260403-4788` [high] If experts are contemptuous of your approach, you may have found a structural advantage they can't access.
@@ -91,7 +87,6 @@
 - `INS-260327-CC35` [high] Taco Bell never discounts core items like the Crunch Wrap -- instead they create purpose-built value products like the 79-cent cheese roll-up that are profitable at that price point, preserving pricing power that competitors destroyed through aggressive discounting.
 - `INS-260327-F6BA` [high] Taco Bell's CEO Greg Creed never discounted the Crunch Wrap or core items -- instead he created purpose-built products like 99-cent bean burritos and 79-cent cheese roll-ups that were profitable at those prices, preserving the chain's pricing power while competitors destroyed theirs.
 - `INS-260327-90E8` [high] GoPro created and cornered the action camera market but believed that creating the market entitled them to its future -- they flooded it with too many models, failed to diversify, and opened the door for Insta360.
-- `INS-260324-179B` [high] GoPro created and owned the action camera category, had strong margins, profits, and brand recognition — stock still dropped 95% because the market was too small to sustain a standalone company.
 - `INS-260403-407A` [high] YC's core strategic advantage is creating new startups rather than competing with VCs for the same fixed pipeline.
 - `INS-260327-2C46` [high] CSV embeds social impact into core business strategy, unlocking the full budget rather than a CSR sidebar.
 - `INS-260327-E07A` [high] Products branded around individual creators have a natural market ceiling equal to the creators engaged audience, and ca
@@ -100,16 +95,12 @@
 - `INS-260404-2A8B` [high] Companies from unrelated industries pose the greatest competitive threat because they compete with entirely different business model structures.
 - `INS-260330-C825` [high] Profitable divisions (like AWS) can fund indefinite losses in new markets (like groceries), making it impossible for single-industry competitors to survive on margins alone.
 - `INS-260330-923F` [high] A crowded market is a positive signal — it proves demand exists and no solution is good enough — while competitor-free markets are a red flag.
-- `INS-260330-D6D3` [high] Harvard Business Review's three market dominance paths — best price (logistics), best product (R&D), best overall solution (customer intimacy) — only the third requires near-zero capital, making it uniquely accessible to startups.
 - `INS-260330-09E3` [high] Harvard Business Review's three paths to market dominance—best price (logistics), best product (R&D), best overall solution (customer intimacy)—reveal that only the third path requires no capital, just humility and manners.
 - `INS-260322-9DDD` [high] a16z's platform model worked because its founders had been VC customers (entrepreneurs), giving them a perspective that career VCs structurally couldn't have.
-- `INS-260322-F8E4` [high] Data network effects are like gravity — invisible at the atomic level, undeniable at planetary scale. Having 4 customers vs 3 means nothing; having 4 billion vs 1 billion is decisive.
 - `INS-260327-6E93` [high] Crosby's customers (Cursor, Clay) care about how fast contracts close, not how cheap the review is, because their growth rate makes delay the real cost.
 - `INS-260330-2CE3` [high] Bing's $5B/year profit proves that owning the default position on a dominant platform is more valuable than building a better product.
 - `INS-260330-7DAA` [high] Bing earns $5B/year not from product quality but from being Windows' default — distribution through defaults beats product superiority.
 - `INS-260327-25D7` [high] Salesforce wasn't the first SaaS company, but by defining 'software is over' they became permanently associated with the cloud movement.
-- `INS-260404-B350` [high] Radical SKU reduction turns shelf space into a scarce resource that suppliers compete to access, granting the retailer outsized negotiating power.
-- `INS-260403-AABF` [high] Self-imposed constraints compound into structural advantages because each constraint reinforces the others and makes the whole system harder to copy piecemeal.
 - `INS-260330-9197` [high] Use difficulty as a strategic compass: at every fork, take the harder path because it compounds into an insurmountable lead over larger competitors.
 - `INS-260402-086D` [high] Software's real protection comes from design subtlety that qualified experts cannot replicate, not from patent claims.
 - `INS-260402-AEA1` [high] Startups win design wars in new markets because big companies' committee design processes cannot keep up with unified designer-implementors.
@@ -125,7 +116,6 @@
 - `INS-260327-7F1B` [high] Glass bottles are better for the environment but lost to plastic and aluminum because transportation costs per unit are 
 - `INS-260403-3C2C` [high] Every technology eventually hits a commoditization inflection point where differentiation must shift away from the tech itself.
 - `INS-260404-7E24` [high] Internal infrastructure and capabilities can be repackaged into new business lines, as demonstrated by both Amazon's AWS and Microsoft's Azure.
-- `INS-260327-724D` [high] Haunted houses and other experience businesses compete on the intensity of the emotional experience rather than objectiv
 - `INS-260327-F651` [high] Theme parks compete through a capital expenditure arms race where each new ride must be bigger and more expensive than t
 - `INS-260330-DD10` [high] Attack incumbents where their architecture or economics prevent them from following you.
 - `INS-260330-6EE1` [high] Find what incumbents structurally can't do — whether that's platform agnosticism against suite vendors or novel monetization like Zenefits getting paid by insurance companies instead of customers.
@@ -137,15 +127,8 @@
 - `INS-260327-8E62` [high] Spend a year finding a problem you'll love for a decade—that patience pays off more than rushing.
 - `INS-260403-9106` [high] Bundling financial services into a marketplace creates LTV advantages that fund superior customer acquisition.
 - `INS-260327-9018` [high] Fintech companies that tried to disrupt remittances discovered that the last-mile challenge is physical cash distributio
-- `INS-260329-DF50` [high] In HFT, the first system to react to market data captures the opportunity — everyone else follows with nothing left to take.
-- `INS-260327-FD18` [high] Let someone else prove the market exists and accumulate technical debt—then enter with a better product.
-- `INS-260403-3307` [high] Photosynthesis is inefficient and confusing but dominates Earth's energy economy because nothing could displace an entrenched global ecosystem.
-- `INS-260403-BA93` [high] Photosynthesis is complicated, inefficient, and confusing—yet it powers virtually all life because it got there first.
 - `INS-260330-39B0` [high] Photosynthesis is explicitly inefficient and complicated, yet it powered the organism that became the dominant life form on Earth by being first and scaling massively.
-- `INS-260330-9A60` [high] Photosynthesis is explicitly described as 'complicated, inefficient and confusing' yet powers virtually all life because it achieved ecosystem lock-in 450 million years ago.
-- `INS-260403-962E` [high] RuBisCo is mediocre but has dominated carbon fixation for 3+ billion years because the entire biosphere was built on top of it.
 - `INS-260330-3FF4` [high] RuBisCo evolved when CO2 was abundant and O2 scarce — when conditions changed, it became terrible, yet no alternative has displaced it in 450 million years because every plant depends on it.
-- `INS-260403-1731` [high] RuBisCo dominates carbon fixation despite failing half the time because plants went all-in before alternatives could evolve.
 - `INS-260330-6A47` [high] In winner-take-all markets, being adequate first beats being optimal later because the first mover reshapes the competitive environment.
 - `INS-260404-26AE` [high] RuBisCo is a terrible enzyme that conquered the planet because it was the first carbon-fixation solution available.
 - `INS-260327-1ACE` [high] After nearly bankrupting by expanding to 10 nearby European cities, Bolt ranked the top few hundred cities worldwide by demand fundamentals and discovered African cities dominated the list.
@@ -227,8 +210,6 @@
 - `INS-260330-59FD` [high] Airbnb declined to acquire their Rocket Internet clone despite the clone having 10x their funding and 10x their headcount, because the clone's mercenary culture would poison Airbnb's missionary DNA.
 - `INS-260325-522A` [high] Kilo Code grew to 1.5 million users in under a year by being fully open-source and supporting any model provider, making model freedom their core differentiator.
 - `INS-260324-62A8` [high] The Moneyball mindset — data over instinct, singles over home runs — gave corporations intellectual cover to rebrand cost-cutting as innovation, systematically destroying their ability to invent.
-- `INS-260330-174B` [high] Monopolies claim they're in huge markets to avoid regulation, while competitive businesses claim they're in tiny unique niches to attract capital — both are lying.
-- `INS-260330-420D` [high] Monopolists frame themselves in huge markets (Google calls itself a 'technology company' in a $1T market) while struggling competitors claim tiny intersections ('the only British food restaurant in Palo Alto').
 - `INS-260330-F527` [high] Monopolists describe their market as the union of many markets to appear competitive, while competitors describe theirs as the intersection of niches to appear unique — making the real difference invisible.
 - `INS-260323-E551` [high] Tudor maintained his ice monopoly by systematically undercutting copycat businesses on price until they gave up or went bankrupt.
 - `INS-260403-1258` [high] A monopoly's real death is when new entrants stop considering it a threat, which precedes financial decline by years.
@@ -243,7 +224,6 @@
 - `INS-260326-8189` [high] Napoleon renamed a suicidal artillery battery 'Battery of Men Without Fear' and suddenly had no shortage of volunteers.
 - `INS-260330-63FE` [high] At Stalingrad, Russians 'hugged' German front lines so Luftwaffe air strikes would kill both sides equally — neutralizing Germany's air superiority through proximity.
 - `INS-260327-2A58` [high] Analog products can sustain premium niche markets among enthusiasts but cannot recapture mass-market share because the c
-- `INS-260329-9098` [high] The more specific your ideal customer avatar, the more you can charge because your offer feels custom-built for them.
 - `INS-260329-9D87` [high] Narrowing your niche from generic to hyper-specific lets you charge 500x more while facing virtually no competition.
 - `INS-260327-C05A` [high] OpenAI's metamorphosis from nonprofit 'for the good of humanity' to for-profit IPO candidate has permanently damaged trust with researchers, regulators, and the public.
 - `INS-260330-0294` [high] Asymptotic network effects plateau in value quickly, making companies with this structure vulnerable to well-funded competitors who only need to match a fraction of the supply.
@@ -258,10 +238,7 @@
 - `INS-260403-35E7` [high] Real standards establish themselves before most people hear about them — heavy promotion is a smell of inadequacy.
 - `INS-260402-4605` [high] Eminence constrains innovation more than obscurity constrains execution.
 - `INS-260403-A862` [high] Incumbents' existing architecture and customer base anchor them to old threat models when the battleground shifts.
-- `INS-260403-262F` [high] RuBisCo is a terrible enzyme that dominates all plant life because evolution went all-in before oxygen made it obsolete, illustrating how early commitment to mediocre solutions creates irreversible lock-in.
 - `INS-260403-F68A` [high] RuBisCo is a terrible enzyme that won evolution because it was first, and now 40 billion tons of it run the planet.
-- `INS-260330-11EB` [high] RuBisCo is a mediocre enzyme that plants can't replace because they went all-in — 40 billion tons of it — illustrating how early commitment to 'good enough' creates irreversible lock-in.
-- `INS-260330-D4CC` [high] RuBisCo fails 50% of the time in today's atmosphere but remains life's only carbon-fixation enzyme because plants invested too heavily to switch.
 - `INS-260402-1F41` [high] Per-user models are inherently harder to game than shared models because attackers face a diverse population instead of a single target.
 - `INS-260330-A25A` [high] Layer 2 and application layers innovate faster than Layer 1 because they don't require community-wide consensus to ship changes.
 - `INS-260327-099A` [high] 95% of music downloads were pirated at peak, not because people refused to pay but because piracy was easier - streaming killed piracy by being more convenient, not cheaper.
@@ -283,7 +260,6 @@
 - `INS-260330-106F` [high] Since the 1970s, antitrust law has equated low prices with consumer benefit, creating a blind spot for companies like Amazon that maintain low prices while eliminating competition through cross-subsidization.
 - `INS-260324-1216` [high] Burger King fell from clear #2 to irrelevant because PE ownership oversimplified the business into quarterly numbers, while Wendy's with fewer resources but clearer vision took the #2 spot.
 - `INS-260327-EAB9` [high] Under 3G Capital's PE ownership, Burger King's operating margins jumped from 15% to 69% and they went from 88% to 100% franchised -- but average store revenue stayed flat at $1.18M for five years, showing zero improvement in actual customer demand.
-- `INS-260403-5348` [high] Software purchase committees meant to save money force vendors to charge 10x more, because the overhead of selling through committees only justifies high-ticket deals.
 - `INS-260327-CCD0` [high] Plant-based meat alternatives that position themselves as replacements for meat face rejection when taste comparison ine
 - `INS-260327-0746` [high] Products that solve invisible problems struggle with retention because customers cannot perceive whether the product is 
 - `INS-260327-472A` [high] Meal replacement products appeal to efficiency-maximizing consumers who are vocal online but represent a tiny fraction o
@@ -294,7 +270,6 @@
 - `INS-260330-ED9D` [high] Plants compensate for RuBisCo's ~50% failure rate by producing 40 billion tons of it — brute-force quantity as a strategy works when unit cost is low enough.
 - `INS-260403-4874` [high] Costco's 4,000-SKU limit versus Walmart's 140,000 gives it extreme per-item volume and supplier negotiating leverage.
 - `INS-260405-DEF2` [high] Being the only or one of two options in a category gives you more leverage over suppliers than volume alone ever could.
-- `INS-260405-F57E` [high] Costco stocks ~4,000 SKUs vs 30,000 for a typical supermarket, making suppliers compete fiercely to be one of two choices per category.
 - `INS-260403-C949` [high] Recessions reduce startup competition because most potential founders irrationally wait for better times.
 - `INS-260403-FE00` [high] Beating a monopoly requires redefining the problem space so the incumbent's strengths become irrelevant, not building a marginally better version of their product.
 - `INS-260330-7DB7` [high] In-N-Out's real product is consistency, not burgers — and that reframe explains every strategic decision they make.
@@ -310,8 +285,6 @@
 - `INS-260403-91DB` [high] Sears, Toys-R-Us, and J.C. Penney died from their own failures to adapt, while Costco, Aldi, and Dollar General thrived in the same environment.
 - `INS-260327-7BB5` [high] GameStop core business was dead the moment digital distribution became viable because no amount of operational excellenc
 - `INS-260405-D6E6` [high] Sears, Toys-R-Us, and Payless didn't die because of Amazon — they died because they stopped adapting, and Amazon is a conveniently blameable scapegoat.
-- `INS-260324-6A99` [high] Nike and Adidas hit record revenue at the peak of the sneaker resale boom, but revenue is a lagging indicator — by the time sales peaked, consumer demand had already shifted and the crash was inevitable.
-- `INS-260327-FAD7` [high] During the sneaker bubble, shoes flew off shelves without discounts, anyone could flip pairs for thousands, and shops opened everywhere -- when the market crashed, most stores went bankrupt because revenue had masked the absence of any real expertise or moat.
 - `INS-260327-9C3A` [high] Uber proved enormous demand for ride-hailing at subsidized prices but has struggled to demonstrate that demand persists 
 - `INS-260327-8997` [high] Amazon is literally running out of human beings who haven't already worked for them and quit, revealing a hard limit on growth-through-churn employment strategies.
 - `INS-260329-F33F` [high] Like the woman in the red dress from The Matrix, opportunities become more seductive as you succeed — requiring a stronger 'no' muscle at every level.
@@ -335,7 +308,6 @@
 - `INS-260330-C9C6` [high] PayPal started with 20,000 eBay power sellers, Facebook started with 10,000 Harvard students — markets so small they seemed worthless, but they enabled 25-60% penetration in months before expanding concentrically.
 - `INS-260330-568A` [high] Successful startups dominate a tiny market first — PayPal took 25-30% of eBay power sellers in 2-3 months, Facebook went 0 to 60% at Harvard in 10 days — then expanded concentrically.
 - `INS-260403-CE7C` [high] Durability comes from five compounding forces that must be designed into the business from the start, not bolted on later.
-- `INS-260402-F4E5` [high] Startups don't build desktop word processors to compete with Word—they build Writely, transcending the paradigm entirely.
 - `INS-260328-02A0` [high] Big companies walk the beautifully paved autobahn — startups are blazing new paths through the forest, and if you walk the autobahn instead, incumbents will run you over every time.
 - `INS-260403-600C` [high] Waze lost a year of US market focus by predicting Google would follow its usual API-first rollout pattern for Maps navigation — Google didn't, and Waze's Latin America pivot was wasted effort driven by panic.
 - `INS-260322-7723` [high] AI labs and big tech are structurally incapable of building opinionated standalone consumer products because their promo committees incentivize safe, incremental features over risky bets.
@@ -358,7 +330,6 @@
 - `INS-260327-A4E3` [high] Standup comedy only works because of tension before the punchline — marketing only works the same way.
 - `INS-260327-E747` [high] Build something 10X better, not incrementally better—that's how Gmail beat Hotmail.
 - `INS-260326-286F` [high] What wins long-term is always the thing that accumulates invisibly, because the impressive-looking variable commoditizes.
-- `INS-260322-1280` [high] Some products are too cheap to bother replacing (janitorial services problem) — nobody optimizes a $50/month/person line item, which means competitors can't get in but incumbents can't be kicked out.
 - `INS-260328-57CF` [high] Businesses being killed by AI disruptors will have to ignore all their process people — the innovator's dilemma means too many stakeholders are excited about doing A to allow B to happen.
 - `INS-260403-8011` [high] When the Internet eliminates distribution bottlenecks, 'build it and they will come' becomes a viable strategy.
 - `INS-260330-0C96` [high] Being the entry-level option lets you grow into the market while incumbents get squeezed from below.
@@ -370,7 +341,6 @@
 - `INS-260327-F723` [high] The Stanley tumbler went from coveted status symbol to symbol of overconsumption within 18 months as the same social dynamics that drove adoption drove rejection.
 - `INS-260330-5BC4` [high] Contrarian value comes from specific knowledge asymmetry against smart critics, not general disagreement.
 - `INS-260327-9EE4` [high] When consumer trust in an entire category collapses due to widespread deception, brands that adopt radical transparency 
-- `INS-260329-5346` [high] Trust has migrated from institutions to individuals who show their work transparently
 - `INS-260327-07C9` [high] Platforms like Temu sell products below cost as a customer acquisition strategy subsidized by investor capital, creating
 - `INS-260327-82AA` [high] Temu's impossibly cheap products don't just compete with premium brands — they degrade the entire e-commerce ecosystem by setting price expectations that quality products can't meet.
 - `INS-260330-1D3B` [high] An IRS tax inspector with no knowledge of Bitcoin or Tor cracked the Silk Road case through simple date-filtered Google searches, while FBI and DEA specialists with years of work and advanced tools hadn't identified Ross.
@@ -383,9 +353,7 @@
 - `INS-260403-37FD` [high] Well-funded startups are often too busy spending money to ship good software, making the competitive landscape far less threatening than it appears.
 - `INS-260328-F752` [high] VCs dismissing batch-model investing by claiming they already know all the good companies are admitting they view venture as a zero-sum commodity business.
 - `INS-260327-94FE` [high] Companies like Expo (security), Traversal (DevOps), and Meter (networking) are showing agents that outperform top human specialists in their specific domains.
-- `INS-260330-6B18` [high] Spotify spent over $1 billion on podcast acquisitions specifically to reduce the record labels' leverage and own content that didn't require paying per-stream royalties.
 - `INS-260330-0525` [high] Tesla and SpaceX succeeded not through a single 10x breakthrough but through complex vertical integration that pulled in distributors and subcontractors that would otherwise extract monopoly profits.
-- `INS-260330-AE4B` [high] Tesla and SpaceX succeeded not through a single 10x innovation but through vertically integrating so many pieces that the coordination itself became the moat.
 - `INS-260327-F229` [high] Disney's competitive advantage isn't better movies — it's owning the entire pipeline from film production through theme parks, merchandise, streaming, and cruise ships.
 - `INS-260330-80A7` [high] Vine died because it couldn't pay creators — when top Viners demanded $1.2M each annually and Twitter refused, they left, triggering a death spiral that killed the platform within two years.
 - `INS-260330-7BAE` [high] Netflix beat Blockbuster by retreating to improve its core service rather than launching new features to differentiate.
@@ -395,7 +363,6 @@
 - `INS-260327-CC05` [high] In SEO spam, mobile apps, and crypto ICOs, the sloppers all followed the same 'turkey graph' — looked like winning early, then collapsed. AI slop will be no different.
 - `INS-260403-599B` [high] When new technology arrives, ventures creating previously-impossible value win; those preserving old revenue models lose.
 - `INS-260329-6E0F` [high] Competitors who copy you are looking at you instead of their customers — their distraction is your advantage.
-- `INS-260330-2CFA` [high] Plants' light reactions flooded the atmosphere with oxygen, which then poisoned RuBisCo's carbon-fixing ability.
 - `INS-260405-F03A` [high] Plants evolved RuBisCo in a low-oxygen atmosphere, then produced the very oxygen that made RuBisCo increasingly dysfunctional — a trap where success altered the environment enough to undermine the mechanism of success.
 - `INS-260330-1C50` [high] Refusing to celebrate others' success out of competitive anxiety shrinks the total pie rather than protecting your share.
 - `INS-260330-DF31` [medium] 3D portfolio websites signal elite skill to non-technical evaluators while requiring only beginner-level Three.js knowledge.
@@ -405,7 +372,6 @@
 - `INS-260327-7F64` [medium] Reflection AI bets that autonomous coding is the gateway to superintelligence.
 - `INS-260327-3DE7` [medium] AI will make it trivial to port data and clone product experiences, eroding brand as a meaningful B2B moat.
 - `INS-260327-D285` [medium] Don't just build a better product—build a business model that makes incumbents look exploitative.
-- `INS-260402-D534` [medium] Business models emerge from iterative experimentation, not from top-down strategic planning.
 - `INS-260403-B1D6` [medium] Countries with stronger civil liberties grow richer because open discourse selects for efficient solutions over politically favored ones.
 - `INS-260330-BC21` [medium] Asa Candler obtained pharmacy customer lists and sent free Coke coupons, banking on caffeine and sugar addiction to convert trial users into lifetime customers.
 - `INS-260330-8D0C` [medium] The drive to colonize aggressively contains the seeds of its own unraveling when resources become scarce and competitors collide.

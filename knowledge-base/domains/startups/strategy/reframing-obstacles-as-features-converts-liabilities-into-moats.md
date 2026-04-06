@@ -48,13 +48,14 @@ stance: >-
   view as liabilities but that actually serve the business model — because
   competitors will not copy what they perceive as weaknesses.
 related:
-  - INS-260404-B24E
   - INS-260403-524B
   - INS-260405-A9B2
   - INS-260404-7A5B
   - INS-260404-8B1C
+  - INS-260404-8D5F
   - INS-260404-41AA
   - INS-260404-FB91
+  - INS-260404-3C7A
   - PRI-260405-EBC6
   - INS-260405-9EE6
 evidence:

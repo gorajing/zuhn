@@ -42,13 +42,12 @@ stance: >-
   Attempting to conceal inexperience through corporate polish actually hides the
   raw talent that sophisticated evaluators are screening for.
 related:
-  - INS-260403-C7A9
   - INS-260403-0CA8
   - INS-260404-F965
   - PRI-260405-4B06
-  - INS-260403-DC64
   - INS-260405-371F
-  - INS-260404-47AC
+  - INS-260404-312D
+  - INS-260404-5BBF
 evidence:
   - id: INS-260403-C7A9
     type: TRANSFERS_TO

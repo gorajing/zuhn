@@ -52,11 +52,11 @@ stance: >-
   business model
 related:
   - INS-260327-D480
-  - INS-260404-0FE4
   - INS-260405-FAE3
-  - INS-260404-0572
   - INS-260330-625B
-  - INS-260403-E2D9
+  - INS-260327-2430
+  - INS-260405-47FD
+  - INS-260404-C13E
   - INS-260403-37F4
 evidence:
   - id: INS-260323-FE69

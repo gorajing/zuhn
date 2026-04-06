@@ -56,6 +56,7 @@ stance: >-
   understanding the underlying distortion is more effective than memorizing
   objection scripts.
 related:
+  - INS-260323-BCCC
   - INS-260322-E06A
   - INS-260329-B604
   - INS-260330-A151

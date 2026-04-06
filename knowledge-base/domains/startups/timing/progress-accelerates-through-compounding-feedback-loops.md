@@ -50,12 +50,12 @@ stance: >-
   The long-term pattern of progress is accelerating rather than linear because
   foundational technologies feed back into the process of innovation itself.
 related:
-  - INS-260325-3CB5
   - INS-260325-B882
-  - INS-260325-B868
   - PRI-260328-D292
   - INS-260330-30AB
   - PRI-260328-BF67
+  - INS-260403-924B
+  - INS-260403-4690
   - INS-260403-4D8F
   - INS-260405-18C8
 evidence:

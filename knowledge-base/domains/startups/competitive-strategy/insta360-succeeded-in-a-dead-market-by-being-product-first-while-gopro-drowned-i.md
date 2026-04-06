@@ -43,11 +43,11 @@ resolutions:
     ones. Nintendo is the only company to consistently create breakthrough
     products across generations (Game Boy → DS → Wii → Switch).
 related:
-  - INS-260327-2BE1
   - PRI-260328-82BE
   - INS-260405-D660
   - INS-260327-0004
   - INS-260330-568A
+  - INS-260330-1266
   - INS-260327-CB1E
   - INS-260327-889F
   - INS-260330-8156

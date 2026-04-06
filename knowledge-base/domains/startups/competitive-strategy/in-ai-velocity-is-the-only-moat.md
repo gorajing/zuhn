@@ -44,10 +44,10 @@ stance: >-
   new capabilities faster than competitors.
 related:
   - INS-260325-FBE5
-  - INS-260328-17D7
   - INS-260404-CB96
   - INS-260327-289F
   - INS-260403-427E
+  - INS-260404-397F
 evidence:
   - id: INS-260327-1795
     type: CHALLENGES

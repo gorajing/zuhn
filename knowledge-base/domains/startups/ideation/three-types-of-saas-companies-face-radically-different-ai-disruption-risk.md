@@ -58,7 +58,6 @@ related:
   - INS-260329-27DF
   - PRI-260328-F0B4
   - PRI-260324-36BF
-  - INS-260402-73D9
   - INS-260403-59F0
 stance: >-
   SaaS companies where seats are tied to work output (Zendesk) face existential

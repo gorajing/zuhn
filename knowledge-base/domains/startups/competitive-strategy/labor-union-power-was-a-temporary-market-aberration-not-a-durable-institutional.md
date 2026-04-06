@@ -53,8 +53,8 @@ stance: >-
   Union wage premiums were a byproduct of rapid manufacturing growth, not labor
   organizing power, which is why they disappeared when growth slowed
 related:
-  - INS-260330-CB30
   - INS-260327-EF98
+  - PRI-260405-5912
   - PRI-260328-6CDE
   - PRI-260328-C918
   - PRI-260403-E097

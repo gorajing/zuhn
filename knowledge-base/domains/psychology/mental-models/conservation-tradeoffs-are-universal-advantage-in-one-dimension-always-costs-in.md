@@ -49,11 +49,11 @@ stance: >-
   an equal cost in distance or speed, and this tradeoff principle applies to all
   optimization problems
 related:
+  - PRI-260405-9504
   - INS-260321-2D72
   - INS-260330-DCE1
   - INS-260404-7A5B
   - INS-260330-30F0
-  - INS-260330-D7CD
   - INS-260330-B3DD
   - INS-260330-9BC3
 evidence:

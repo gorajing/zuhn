@@ -62,9 +62,9 @@ related:
   - INS-260403-C844
   - INS-260327-B45A
   - INS-260329-BC11
+  - INS-260330-7251
   - INS-260330-80A7
-  - INS-260403-3A9D
-  - INS-260403-4C4E
+  - INS-260330-999F
 ---
 The esports ecosystem was a chain of mutual dependencies: publishers support competitive play, leagues organize tournaments, teams fund players, players draw viewers, viewers attract sponsors, and sponsors fund everyone. The entire chain assumed all participants would keep investing until broadcast rights materialized.
 

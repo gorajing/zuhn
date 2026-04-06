@@ -1,24 +1,24 @@
 # Tag: perception
 
 - `INS-260330-5F36` Replacing C++ heuristics with neural nets that directly output vectors instead of a 'giant bag of points' is the key architectural evolution.
+- `INS-260327-E30A` Napoleon's Egyptian campaign was militarily inconclusive but his propaganda made it a triumph, creating the popular mandate that powered his coup.
 - `INS-260330-B539` Object boundaries and spatial differentiation are partially conceptual overlays that can be intentionally softened to access raw perceptual data.
 - `INS-260330-B87C` The same nerve signals producing pleasure or irritation depending on context reveals that the brain constructs meaning from sensory data rather than passively receiving it.
 - `INS-260405-76E4` Investors without technical depth use founder confidence as a proxy for product quality.
-- `INS-260330-2988` While thoughts, emotions, and sensations constantly change, the awareness that notices them remains structurally identical across all experiences.
-- `INS-260405-B8BE` Sounds, sensations, and thoughts arise in consciousness automatically — only the act of selecting and holding an object of attention requires cognitive effort.
-- `INS-260323-1D46` Donald Hoffman's interface theory argues that organisms evolved to perceive fitness-relevant simplifications, not objective reality — truth is expensive, useful illusion is efficient.
-- `INS-260327-EDE4` In deep space, without familiar environmental cues like horizon, gravity, and day-night cycles, human perception begins to deconstruct, revealing how much of 'reality' depends on context.
-- `INS-260330-5F9E` What you see with open eyes and what you think with closed eyes appear in the same experiential space.
-- `INS-260330-AB5D` Meditation works by subtracting perceptual illusions rather than adding new capabilities.
-- `INS-260330-AB38` What we see is heavily filtered by conceptual overlays — relaxing these filters reveals experience as an undifferentiated field of light and color.
-- `INS-260325-33DA` Each person constructs their own unique perceptual world, but consciousness feels so transparent that we assume others experience the same reality we do.
-- `INS-260323-9774` The brain is not recording reality — it is rendering a real-time simulation filtered through evolutionary structures designed for survival, not for representing truth.
 - `INS-260330-FCFA` True randomness clusters in ways humans perceive as non-random, so products must introduce artificial structure to satisfy our pattern-seeking minds.
 - `INS-260330-1319` Apple had to make iTunes shuffle less random because true randomness produced clusters that felt intentional to users.
 - `INS-260330-8B24` Direct experience consistently overrides and corrects media-constructed mental models of people and places.
 - `INS-260330-41A5` People instinctively project linear trends even when told growth is exponential, because ancestral environments rarely produced compounding phenomena.
 - `INS-260403-B6D9` When a concept changes slower than a human lifetime, people treat it as a fixed truth rather than an evolving convention.
 - `INS-260330-2B33` Emotionally vivid individual cases dominate public perception even when aggregate data tells a different story.
+- `INS-260330-2988` While thoughts, emotions, and sensations constantly change, the awareness that notices them remains structurally identical across all experiences.
+- `INS-260405-B8BE` Sounds, sensations, and thoughts arise in consciousness automatically — only the act of selecting and holding an object of attention requires cognitive effort.
+- `INS-260327-EDE4` In deep space, without familiar environmental cues like horizon, gravity, and day-night cycles, human perception begins to deconstruct, revealing how much of 'reality' depends on context.
+- `INS-260330-5F9E` What you see with open eyes and what you think with closed eyes appear in the same experiential space.
+- `INS-260330-AB5D` Meditation works by subtracting perceptual illusions rather than adding new capabilities.
+- `INS-260330-AB38` What we see is heavily filtered by conceptual overlays — relaxing these filters reveals experience as an undifferentiated field of light and color.
+- `INS-260325-33DA` Each person constructs their own unique perceptual world, but consciousness feels so transparent that we assume others experience the same reality we do.
+- `INS-260323-9774` The brain is not recording reality — it is rendering a real-time simulation filtered through evolutionary structures designed for survival, not for representing truth.
 - `INS-260329-F8AF` The limit of a function at a point is determined entirely by the function's behavior near that point, not by its value at the point.
 - `INS-260330-ED8A` Log-scale plots convert exponentials into straight lines, making changes in growth rate perceptually obvious where linear plots obscure them.
 - `INS-260323-D400` Mathematical training isn't just about solving equations — it's a perception technology that makes the world more complex, beautiful, and visible to you.
@@ -32,7 +32,6 @@
 - `INS-260322-2E1C` Our experience of a stable, solid world exists not because reality is stable, but because we are trapped too deeply in a narrow slice to notice its freedom.
 - `INS-260405-D3B5` The Magnus effect is negligible at low speeds but at 126m of freefall it curves a basketball dozens of meters sideways — the same physics, radically different outcomes.
 - `INS-260330-5391` Identical touch can feel amazing or infuriating depending on emotional context — context is the master variable, not technique.
-- `INS-260330-6D52` The same physical touch can feel arousing or irritating depending on context, proving that context — not technique — is the primary lever for sexual pleasure.
 - `INS-260330-ECD8` Deriving values from facts requires a pre-existing value framework to select which facts matter, creating an inescapable circularity.
 - `INS-260330-2C4D` People feel anxious in extreme silence because reverb normally signals spatial safety — its absence triggers an expectation violation that the brain interprets as claustrophobia.
 - `INS-260403-A5FF` Shared human perceptual wiring (faces, primary colors, 3D objects, edge-finding) makes art quality measurable against universal audience responses.
@@ -48,18 +47,14 @@
 - `INS-260330-0ED2` What we perceive as objects are hierarchically clustered fitness payoff functions — data structures encoding action-payoff relationships rather than representations of mind-independent things.
 - `INS-260325-EC7A` Greek and Roman statues were vibrantly painted — our image of austere white marble is an accident of decay, known for over a century but still shaping perception.
 - `INS-260330-A18F` Placebo potency scales with perceived seriousness: surgery > injection > capsule > pill, and even color matters (blue calms, red energizes).
-- `INS-260330-43E8` Silence doesn't cause madness — it redirects attention inward to bodily signals normally masked by ambient noise.
 - `INS-260330-EE7E` In extreme silence the brain turns up its perceptual gain, making tiny sounds (breathing, clothing rustle, swallowing) seem loud — this is normal adaptation, not madness.
 - `INS-260330-BE6F` Breaking the sound barrier inside an F-16 cockpit produces no sensation — only instrument anomalies from shock wave pressure changes on the Pitot tube reveal it happened.
 - `INS-260323-1930` Musicians like Charlie Puth experience notes as colors, tastes, and shapes — talent at the highest levels isn't doing the same thing better, it's literally perceiving reality differently.
-- `INS-260330-0DF9` At normal speed, an underwater gunshot is one event; at 27,450 fps, it becomes three distinct phenomena with separate physics.
 - `INS-260330-59E3` Going from 30fps to 27,450fps doesn't just make underwater gunfire look smoother — it reveals three separate physical mechanisms that are categorically invisible at normal speed.
 - `INS-260330-125E` Rubin describes how the brain instantly invents explanatory stories for unexpected events, then registers those invented stories as factual memories we later relay with full confidence.
-- `INS-260329-F4B2` The derivative concept teaches that understanding a process at any moment requires looking at infinitesimally small intervals around that moment, not at broad averages.
 - `INS-260325-2B9F` Real espionage effectiveness comes from being completely forgettable — the 'gray man' who disappears in any setting is more operationally valuable than any James Bond.
 - `INS-260330-BBEE` Aerogel scatters blue light like the atmosphere does, appearing blue on dark backgrounds but yellow against blue sky — a handheld sunset.
 - `INS-260330-3EDA` During 72 hours of isolation, Michael's time estimation error doubled after each sleep cycle, and Stefania Follini believed 130 days underground was only about 65.
 - `INS-260330-80A2` Traveling at light speed toward the Sun would initially make it appear to recede because your field of view expands to include light from nearly behind you, compressing forward objects into a smaller apparent region.
-- `INS-260327-E30A` Napoleon's Egyptian campaign was militarily inconclusive but his propaganda made it a triumph, creating the popular mandate that powered his coup.
 - `INS-260403-07C1` Blunt truth-telling gets misclassified as tribal aggression because readers expect persuasive padding.
 - `INS-260329-461A` CS50's theatrical production quality — not just Malan's knowledge — is what makes it the world's most popular CS course.

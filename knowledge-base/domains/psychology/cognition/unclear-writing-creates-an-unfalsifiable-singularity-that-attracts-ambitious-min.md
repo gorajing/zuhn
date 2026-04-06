@@ -49,16 +49,16 @@ stance: >-
   selectively recruits uncritical thinkers and drives away those who might fix
   it.
 related:
-  - INS-260322-5B1B
   - INS-260323-A19F
+  - INS-260327-23F8
   - INS-260402-8ACF
   - PRI-260405-BF5B
-  - INS-260403-B508
   - INS-260404-32C5
   - INS-260404-864F
+  - INS-260402-A693
   - INS-260402-7C15
+  - INS-260402-12D0
   - INS-260403-6E11
-  - INS-260403-2612
 evidence:
   - id: INS-260322-5B1B
     type: CHALLENGES

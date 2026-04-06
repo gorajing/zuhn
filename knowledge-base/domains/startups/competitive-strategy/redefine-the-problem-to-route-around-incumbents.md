@@ -54,9 +54,10 @@ related:
   - INS-260330-9DCD
   - INS-260330-7220
   - INS-260330-FF09
+  - PRI-260405-6216
   - PRI-260328-F0B4
-  - INS-260403-1258
   - INS-260403-876D
+  - INS-260403-1258
 ---
 Graham illustrates this with the Windows example: you can't defeat Microsoft by building a better desktop OS, because frontal attacks against monopolies fail. Instead, you redefine the problem from 'what operating system should people use on desktops?' to 'how should people use applications?'—a superset that may not even involve desktop computers.
 

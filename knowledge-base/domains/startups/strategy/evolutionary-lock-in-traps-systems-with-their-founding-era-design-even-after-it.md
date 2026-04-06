@@ -63,12 +63,12 @@ stance: >-
   accommodate the flaw rather than eliminate it.
 related:
   - INS-260404-60F4
+  - INS-260405-8B89
   - INS-260405-8469
   - INS-260405-F20F
   - INS-260405-C497
-  - INS-260403-262F
-  - INS-260404-5DE4
   - INS-260404-D39F
+  - INS-260404-AE3C
 evidence:
   - id: INS-260405-C497
     type: EXTENDS

@@ -5,5 +5,4 @@
 - `INS-260327-9EBA` Heart surgeons increasingly recognize metabolic health markers as more important than LDL for cardiac risk
 - `INS-260327-62AA` When stratified by metabolic health markers, the LDL-heart disease correlation either massively attenuates or completely disappears, suggesting metabolic context determines LDL's risk.
 - `INS-260327-D37F` Statin drug benefits are overstated using relative risk reduction while absolute risk reduction is only 1-2 percent
-- `INS-260325-EDE1` Saladino raised testosterone from 500 to 857 at age 48 through 5 natural interventions — no TRT needed.
 - `INS-260327-7F98` Three to four eggs daily provide essential choline and nutrients without increasing cardiovascular risk

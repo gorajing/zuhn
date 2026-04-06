@@ -52,7 +52,7 @@ related:
   - INS-260403-8391
   - INS-260403-A5FF
   - INS-260404-0570
-  - INS-260404-37F7
+  - INS-260326-163A
 ---
 Graham identifies that most people's response to art is a 'tangle of unexamined impulses' dominated by extraneous factors: Is the artist famous? Is it in a prestigious venue? Is it the sort of thing they're supposed to like? This creates a signal-to-noise problem where genuine quality assessment is overwhelmed by social proof.
 

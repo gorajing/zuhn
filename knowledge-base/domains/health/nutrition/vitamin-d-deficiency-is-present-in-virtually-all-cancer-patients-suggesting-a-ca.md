@@ -42,6 +42,6 @@ related:
   - PRI-260325-E271
   - PRI-260325-638B
   - INS-260327-ED21
-  - INS-260327-F8BF
+  - INS-260327-1F6E
 ---
 Studies consistently show vitamin D levels below 40ng/mL in virtually all cancer patients, with supplementation to 60-80ng/mL showing significant reduction in cancer incidence across multiple types

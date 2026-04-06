@@ -50,10 +50,10 @@ stance: >-
   never produces escape velocity from constrained circumstances
 related:
   - INS-260327-D9C0
-  - INS-260329-62E1
   - PRI-260328-23B0
   - PRI-260323-0F93
   - INS-260402-40D7
+  - INS-260327-1B09
 evidence:
   - id: INS-260330-EAA3
     type: TRANSFERS_TO

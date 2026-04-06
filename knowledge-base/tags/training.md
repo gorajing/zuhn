@@ -10,4 +10,3 @@
 - `INS-260404-DBD2` You can train competence but not exceptionalism — great programmers invent things ordinary ones would never conceive.
 - `INS-260403-402A` Running executive, team, and initiative-specific innovation training in parallel builds capability faster than sequential rollouts.
 - `INS-260403-6AB5` Match innovation program type (tactical vs. strategic vs. transformational) to your organization's current maturity for maximum ROI.
-- `INS-260403-5BAD` Structured innovation programs beat ad-hoc creativity by providing repeatable, de-risked experimentation processes.

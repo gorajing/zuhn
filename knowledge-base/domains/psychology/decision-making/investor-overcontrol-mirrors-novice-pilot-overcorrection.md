@@ -46,10 +46,10 @@ stance: >-
   convergence, analogous to novice pilots overcontrolling aircraft
 related:
   - INS-260327-0700
-  - INS-260404-93E3
   - INS-260402-EEDB
   - INS-260330-478B
   - PRI-260403-26B9
+  - INS-260405-C22F
 evidence:
   - id: INS-260327-0700
     type: EXTENDS

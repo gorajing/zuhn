@@ -52,10 +52,10 @@ stance: >-
   maximizing different combinations
 related:
   - INS-260329-FB3F
-  - INS-260330-EBDC
-  - INS-260330-3363
   - INS-260327-FEB7
   - PRI-260328-0C15
+  - INS-260327-165D
+  - INS-260327-7C6B
 evidence:
   - id: INS-260327-FEB7
     type: EXTENDS

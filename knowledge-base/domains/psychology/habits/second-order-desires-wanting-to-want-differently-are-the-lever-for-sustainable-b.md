@@ -54,7 +54,7 @@ related:
   - INS-260330-BCAF
   - INS-260404-CDF0
   - INS-260405-8584
-  - INS-260326-2582
+  - PRI-260323-F92B
 evidence:
   - id: INS-260326-2582
     type: CHALLENGES

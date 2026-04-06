@@ -56,10 +56,10 @@ stance: >-
   for warm social connection.
 related:
   - INS-260325-9C2F
-  - INS-260323-9867
-  - INS-260325-C996
   - PRI-260325-A95E
   - INS-260330-61C3
+  - INS-260323-9867
+  - INS-260404-2829
 evidence:
   - id: INS-260325-9C2F
     type: TRANSFERS_TO

@@ -53,7 +53,6 @@ stance: >-
   outperform zero-shot prompting.
 related:
   - INS-260320-7914
-  - INS-260325-5F3B
   - INS-260329-075C
   - INS-260327-BF89
   - PRI-260328-A65A

@@ -54,6 +54,7 @@ stance: >-
   constitutes a physically distinct reality where objects have genuinely
   different shapes and properties
 related:
+  - INS-260330-AFE0
   - INS-260330-6A9E
   - INS-260330-80A2
   - INS-260330-601A
@@ -63,7 +64,6 @@ related:
   - INS-260330-C989
   - INS-260330-6A65
   - INS-260404-C497
-  - INS-260405-D3B5
 evidence:
   - id: INS-260330-6A65
     type: EXTENDS

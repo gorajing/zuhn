@@ -49,6 +49,7 @@ stance: >-
 related:
   - INS-260325-5656
   - INS-260320-7682
+  - INS-260327-E07C
   - INS-260329-5F96
   - INS-260330-63DD
   - INS-260403-3569
@@ -56,7 +57,6 @@ related:
   - INS-260403-B1F2
   - INS-260403-D379
   - INS-260404-4E13
-  - INS-260403-3DF3
 evidence:
   - id: INS-260325-5656
     type: TRANSFERS_TO

@@ -53,11 +53,11 @@ stance: >-
   Productive struggle followed by breakthrough creates deeper retention and
   motivation than smooth, frictionless learning paths.
 related:
-  - INS-260329-A218
   - PRI-260403-0509
   - INS-260329-023F
   - INS-260330-E47D
   - INS-260329-B2F4
+  - INS-260329-DABC
 evidence:
   - id: INS-260329-B2F4
     type: CHALLENGES

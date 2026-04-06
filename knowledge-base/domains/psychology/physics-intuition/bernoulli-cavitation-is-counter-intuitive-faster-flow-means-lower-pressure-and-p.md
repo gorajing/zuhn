@@ -46,11 +46,11 @@ stance: >-
   water at near-freezing temperatures, violating naive intuition that
   fast-moving things create more pressure
 related:
-  - INS-260330-F76B
   - INS-260330-12F9
-  - INS-260330-0DF9
   - INS-260330-FD7C
   - INS-260330-8BB4
+  - INS-260330-D1A1
+  - INS-260330-59E3
 evidence:
   - id: INS-260330-F76B
     type: TRANSFERS_TO

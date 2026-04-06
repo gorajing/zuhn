@@ -26,7 +26,6 @@
 - `INS-260403-B7C6` Overfunded competitors lose exit flexibility and operational agility, turning their capital advantage into a strategic cage.
 - `INS-260327-4431` When customer demand is driven by anxiety about future availability rather than current need, sales are inherently unpre
 - `INS-260327-1B4A` Physical venues that were supposedly killed by digital alternatives survive by pivoting to the social experience dimensi
-- `INS-260327-4877` Companies whose revenue depends on customer inability to cancel rather than customer desire to continue face disruption 
 - `INS-260327-9508` Companies that service the downstream effects of consumer behavior (storage, waste management, debt collection) have mor
 - `INS-260327-50CE` When a business sells membership in an exclusive social group rather than a product or service, pricing is determined by
 - `INS-260327-4BC6` Businesses positioned at the affordable end of essential categories are recession-proof because demand for basic needs i
@@ -35,7 +34,6 @@
 - `INS-260403-CA1E` Large companies shift from user-serving to user-exploiting, creating predictable openings for startups that genuinely serve users.
 - `INS-260327-325B` Businesses that create environments where consumers have no competitive alternatives for essential services (food, enter
 - `INS-260327-90E8` GoPro created and cornered the action camera market but believed that creating the market entitled them to its future -- they flooded it with too many models, failed to diversify, and opened the door for Insta360.
-- `INS-260327-724D` Haunted houses and other experience businesses compete on the intensity of the emotional experience rather than objectiv
 - `INS-260327-F651` Theme parks compete through a capital expenditure arms race where each new ride must be bigger and more expensive than t
 - `INS-260327-9018` Fintech companies that tried to disrupt remittances discovered that the last-mile challenge is physical cash distributio
 - `INS-260327-5973` Donut economics work because the product cost is trivially low relative to the selling price, making even modest volume 
@@ -50,7 +48,6 @@
 - `INS-260327-E359` Ice cream shops face the structural challenge that demand is seasonal but rent, equipment, and staff costs are year-roun
 - `INS-260404-CB96` The best defense turns the attacker's greatest strength into their greatest vulnerability.
 - `INS-260327-CC05` In SEO spam, mobile apps, and crypto ICOs, the sloppers all followed the same 'turkey graph' — looked like winning early, then collapsed. AI slop will be no different.
-- `INS-260330-2CFA` Plants' light reactions flooded the atmosphere with oxygen, which then poisoned RuBisCo's carbon-fixing ability.
 - `INS-260405-F03A` Plants evolved RuBisCo in a low-oxygen atmosphere, then produced the very oxygen that made RuBisCo increasingly dysfunctional — a trap where success altered the environment enough to undermine the mechanism of success.
 - `INS-260403-4960` Tell investors truthfully about competing interest to create real urgency, but never exaggerate — investors are hypersensitive to manipulation.
 - `INS-260404-00CD` Patent trolls are parasites seeking rent, but incumbents suing startups are deliberately trying to kill superior products — a far worse outcome for innovation.

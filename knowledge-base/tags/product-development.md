@@ -14,14 +14,14 @@
 - `INS-260327-38D8` Under Ev Williams, Twitter's best features -- hashtags, retweets, lists, and @mentions -- were all organic user behaviors that the team formalized into official features.
 - `INS-260402-237D` Build what you personally need, even if it seems niche — Wozniak built himself a computer.
 - `INS-260403-6CE6` Treating aid recipients as product users with real feedback loops produces dramatically better outcomes than top-down charity models.
-- `INS-260330-0BBA` Listen to customer problems deeply but translate them into the simplest possible solution, which is often not what the customer literally asked for.
-- `INS-260404-3FDF` Viaweb built their entire company site with their own store-building software to experience exactly what users experienced.
-- `INS-260330-2306` Your job is to hear the problem behind the request and build the simplest solution to that problem.
 - `INS-260330-CCF0` Hardware teams learning speed from software and software teams learning deliberation from hardware creates better products than either discipline alone.
 - `INS-260330-83D5` Support staff who can interrupt developers with live bugs become the most effective QA and product intelligence system.
 - `INS-260330-2C79` Translate customer problems into elegant solutions rather than implementing their proposed features.
 - `INS-260404-226F` Each feedback layer — internal, user prototype, and public release — reveals distinct categories of issues that earlier stages miss.
 - `INS-260322-3C3D` ElevenLabs' core advantage comes from product teams talking directly to research teams — product provides real user feedback, research iterates immediately, and models get tested directly on the product.
+- `INS-260330-0BBA` Listen to customer problems deeply but translate them into the simplest possible solution, which is often not what the customer literally asked for.
+- `INS-260404-3FDF` Viaweb built their entire company site with their own store-building software to experience exactly what users experienced.
+- `INS-260330-2306` Your job is to hear the problem behind the request and build the simplest solution to that problem.
 - `INS-260402-2FDF` Following the most interesting path at each step — like a river finding the sea — produces better outcomes than planning the route in advance.
 - `INS-260330-8FD6` Airbnb's photography service started with Chesky personally photographing one host's home, then spreadsheets managing contract photographers, and only built technology after hundreds of photographers proved the perfect service model.
 - `INS-260330-178D` Treat 'I'd buy if you built X' as a soft rejection — either get them to sign a contract contingent on the feature, or wait until multiple customers request it.

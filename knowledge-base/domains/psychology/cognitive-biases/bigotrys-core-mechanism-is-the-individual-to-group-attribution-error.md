@@ -53,7 +53,6 @@ stance: >-
   from 'a member of group X harmed me' to 'all members of group X are bad' — and
   this same mechanism operates in political tribalism
 related:
-  - INS-260330-2911
   - INS-260404-D94D
   - INS-260330-984C
   - INS-260327-B37E

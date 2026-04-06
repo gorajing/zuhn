@@ -58,7 +58,7 @@ related:
   - INS-260330-3888
   - INS-260325-5977
   - INS-260330-3EDA
-  - INS-260325-6534
+  - INS-260325-05E4
 ---
 Michael's most surprising post-isolation insight wasn't about boredom or time distortion but about the nature of experience itself. He reported: 'If you only have your own experiences, you're not fully having them. You have to have someone else to listen to them and react to them and then you've fully experienced them.' He also noted that what he missed most wasn't entertainment or food — it was having a meal WITH people, hearing words other than his own.
 

@@ -57,10 +57,10 @@ stance: >-
   top-down R&D.
 related:
   - INS-260327-092E
-  - INS-260330-420D
   - INS-260324-C33C
   - INS-260324-C2B9
   - INS-260403-924B
+  - INS-260403-6279
 ---
 Ray Kroc deliberately selected 'young, hungry entrepreneur types' as franchisees and gave them latitude to experiment within quality/service/cleanliness guardrails. This created a distributed innovation engine: individual operators invented the Big Mac, the drive-thru, playground areas, and the Ronald McDonald character through local experiments. Corporate's role was to identify the best innovations and propagate them system-wide.
 

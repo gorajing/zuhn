@@ -48,13 +48,13 @@ stance: >-
   consequential decisions without modeling all stakeholder perspectives, turning
   small emotional problems into organizational forest fires.
 related:
+  - INS-260327-363C
   - INS-260327-F014
   - INS-260328-A4EB
   - INS-260330-DB4B
   - INS-260330-A476
   - INS-260404-1289
   - INS-260330-7987
-  - INS-260404-6442
 evidence:
   - id: INS-260330-7987
     type: SUPPORTS

@@ -36,10 +36,10 @@ resolutions:
     them. Bespoke UIs become unnecessary when agents handle orchestration.
 related:
   - PRI-260328-8317
-  - INS-260325-5F3B
   - INS-260403-0350
   - INS-260325-D540
   - INS-260403-4D80
+  - PRI-260405-AF79
 stance: >-
   Custom apps are overproduction — everything should be exposed API endpoints
   with agents as the intelligent glue that tool-calls all the parts.

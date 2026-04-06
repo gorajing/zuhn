@@ -46,12 +46,11 @@ resolutions:
     is currently easier than it's ever been.
 related:
   - INS-260330-D583
-  - INS-260329-5346
   - INS-260330-7FFE
   - PRI-260403-C337
-  - INS-260327-4081
+  - INS-260404-397F
+  - INS-260322-5D22
   - INS-260324-8C30
-  - INS-260404-83D5
 stance: >-
   Major banks like Goldman Sachs went from building their own email clients to
   adopting Cursor and GitHub Copilot

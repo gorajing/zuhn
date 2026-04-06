@@ -42,7 +42,6 @@ resolutions:
     troops.
 related:
   - INS-260324-2244
-  - INS-260324-6017
   - PRI-260323-7805
   - PRI-260324-5F05
   - INS-260330-C7E6

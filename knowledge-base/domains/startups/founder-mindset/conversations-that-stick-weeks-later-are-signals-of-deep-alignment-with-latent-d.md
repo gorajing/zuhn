@@ -46,7 +46,6 @@ related:
   - INS-260330-50D4
   - INS-260323-7C3A
   - INS-260330-DB4B
-  - INS-260404-6442
 evidence:
   - id: INS-260404-1289
     type: EXTENDS

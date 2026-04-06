@@ -1,6 +1,6 @@
 # Topic: growth-marketing
 
-> 125 insights
+> 117 insights
 
 - `INS-260320-630D` [very_high] Frame your product as a solution to a problem, not a toy — a video framing Coconote as a fun toy got 41M views but terrible conversion, while solution-framed videos converted far better.
 - `INS-260320-080B` [very_high] Ask customers how they describe your product, then use their exact words as marketing copy — Coconote asked and the majority said "never miss a key detail," which became their App Store headline.
@@ -15,7 +15,6 @@
 - `INS-260322-6AF5` [high] Amazon's product search has degraded so badly (spam, fake reviews, wrong-size photos, unclear ads) that DoorDash competing on product trust from local stores is a viable strategy — big tech's moats erode from the inside.
 - `INS-260323-2E49` [high] Branding is not surface decoration but a worldview methodology — the process of connecting a specific concept to a name, implanting community memories, and building brand strength that converts to shareholder value through consumer benefit.
 - `INS-260329-20E8` [high] Branding works through classical conditioning — people associate a symbol with accumulated positive experiences until the symbol itself triggers those feelings.
-- `INS-260329-EBBB` [high] Branding is the deliberate pairing of your product with things customers already like, through outcomes they experience.
 - `INS-260322-5A72` [high] A brand is established in the realm of fulfilling customer deficiency — the entire cycle from identifying lack to delivering satisfaction is the brand, not just the product.
 - `INS-260327-7CAF` [high] Roomies created a comedic series about NYC apartment hunting instead of promoting their rental software — and it drove millions of views in their target demographic.
 - `INS-260322-9172` [high] Successful brands ask fundamental questions and act fast on answers; failing brands have CEOs who already decided the answer and insist 'just do it this way.'
@@ -31,7 +30,6 @@
 - `INS-260321-021B` [high] Higgsfield interviewed 8 creatives — all 8 gave identical feedback about camera controls, which became their breakout feature.
 - `INS-260328-ACC3` [high] Stripe, Google, and PostHog all appear to be pure self-serve products, but they invest heavily in marketing — no one waits in an ivory tower to be discovered.
 - `INS-260329-776B` [high] Brand growth requires accepting that every new pairing loses some existing audience — the discipline is ensuring net positive gains.
-- `INS-260329-8DE7` [high] New brand pairings always lose some existing audience — the strategic question is whether you net-gain more than you lose.
 - `INS-260329-4FB2` [high] Hormozi 20x'd his podcast reviews simply by asking listeners to share — the barrier to referrals is prompting, not willingness.
 - `INS-260322-4B63` [high] Most people who aren't creating content are stopped by fear of negative comments from anonymous strangers, not by lack of ability or time.
 - `INS-260327-6E33` [high] Find 10 perfect people. If it doesn't work for them, make something better. If it does work, perhaps they'll tell the others.
@@ -47,7 +45,6 @@
 - `INS-260321-4E98` [high] Horizontal consumer AI agents like Manus grow explosively but face acquisition by big tech because once agentic capabilities become commoditized, distribution and existing enterprise contracts become the deciding moat.
 - `INS-260327-D013` [high] Products that create massive initial demand followed by sharp decline damage not just their own brand but the retail cat
 - `INS-260327-212A` [high] Stanley tumblers grew explosively not because they were better water bottles but because carrying one signaled membership in specific social tribes.
-- `INS-260328-17D7` [high] In consumer AI there is no moat — only momentum. Ship fastest, distribute widest, iterate hardest.
 - `INS-260324-5952` [high] Top food influencers succeed on personality and stream-of-consciousness delivery, not food quality — they deliberately avoid watching competitors to keep their voice unique.
 - `INS-260322-5745` [high] When an industry treats marketing as beneath it, the first firm to market aggressively gains a permanent structural advantage.
 - `INS-260322-5CBF` [high] Influencer marketing can deliver extraordinary or zero ROI — the variance comes from selection skill and creative direction, not the channel itself.
@@ -76,7 +73,6 @@
 - `INS-260323-181D` [high] Terms like 'liberal' and 'progressive' evolve rapidly in meaning — what was self-identifying becomes a smear in months, forcing constant repositioning.
 - `INS-260403-DEF6` [high] PR works like SEO for news — you get placed inside trusted editorial content rather than buying ignorable ads.
 - `INS-260330-4DBE` [high] Treat press outreach as a structured sales pipeline: get warm intros through recently-covered founders, invest reporters' time via face-to-face meetings, and prepare bullet-point narratives they'll transcribe into stories.
-- `INS-260330-4AB1` [high] Treat press like a sales funnel: get warm intros from recently-covered founders to reporters, pitch with memorized bullet points, and follow up with collateral before launch.
 - `INS-260321-8D2B` [high] Price AI products using three factors: value creation vs human cost, unit economics including hidden storage costs, and representative customer surveys.
 - `INS-260327-8389` [high] Starbucks's 170,000+ possible drink combinations create the illusion that your order is uniquely 'you' — a psychological trick that justifies complexity pricing.
 - `INS-260327-9838` [high] Products durable enough to be passed between generations create brand loyalty that spans lifetimes because each generati
@@ -88,7 +84,6 @@
 - `INS-260327-EBDF` [high] Social platforms surface metrics that serve their business (engagement time) not yours (revenue from trust) — stop measuring what's easy and start measuring what matters.
 - `INS-260327-415B` [high] When products are designed primarily to be shared on social media, they optimize for visual impact at the expense of the
 - `INS-260329-F6E1` [high] Launch free or cheap, raise 20% every 5 customers until conversion-rate × price peaks.
-- `INS-260327-3574` [high] Pitch a mindset shift in the world, not your product's features — this transforms you from an arrogant doctor into a movement leader.
 - `INS-260322-7B71` [high] Timeless how-to content (like 'Good Product Manager Bad Product Manager') compounds in value while opinion pieces about market bubbles are forgotten quickly.
 - `INS-260327-99E5` [high] 80% of consumers say they want sustainable products; less than 5% actually buy them when they cost more.
 - `INS-260327-A620` [high] Minimalism as an aesthetic requires specific products (clean-lined furniture, neutral colors, curated accessories) that 
@@ -103,8 +98,6 @@
 - `INS-260327-CA1C` [high] Verticalized content creation—being THE authority in one domain—is as viable as verticalized SaaS.
 - `INS-260327-4445` [high] Viral food products that succeed through novelty rather than taste superiority have the shortest possible trend lifecycl
 - `INS-260320-DADA` [high] You cannot pour fuel on organic fire — viral UGC repurposed as paid ads underperformed, while a separate clip agency creating performance-specific creatives outperformed significantly.
-- `INS-260330-3363` [high] Evaluate any viral mechanism by decomposing it into payload times frequency times conversion rate.
-- `INS-260330-EBDC` [high] Sean Parker's virality model (payload × frequency × conversion) reveals that Hotmail won via high frequency, PayPal via near-perfect conversion, and Facebook via pure word-of-mouth — not viral mechanics at all.
 - `INS-260327-7C6B` [high] Consistency alone causes plateaus, virality alone causes sugar-crash comedowns — real growth is consistency x experimentation.
 - `INS-260330-0FB9` [high] TikTok deliberately made it easy to share watermarked videos on Instagram, YouTube, and Snapchat, turning every repost into free advertising that eventually drove users to download TikTok.
 - `INS-260327-7498` [high] When Western markets adopt cultural products, they systematically remove the cultural context that creates authentic val
@@ -121,7 +114,6 @@
 - `INS-260323-8165` [medium] Run daily marketing experiments, calculate cost-per-customer for each, and pour everything into the cheapest acquisition channel.
 - `INS-260321-C292` [medium] After the movie 300, Navy SEAL recruitment spiked — entertainment that inspires heroism and optimism creates the cultural conditions for industrial mobilization.
 - `INS-260321-3BA8` [medium] The Department of War is replacing cost-plus contracts with 1000-requirement RFPs with simple firm-fixed-price requirements — the SpaceX model where vendors keep margins from economizing.
-- `INS-260329-1ECA` [medium] Search TikTok for viral videos of competitor apps, study the hook sentence, then film your own app demo using the same format.
 - `INS-260322-D57C` [medium] When scaling, CEOs cannot just delegate customer-facing work — they must personally demonstrate the brand's standard alongside new employees so sensibility transfers through shared experience.
 - `INS-260323-E1BE` [medium] Find people on social media who publicly complain about the product you're replacing, build genuine trust, then offer your alternative — this direct approach converts better than any ad campaign.
 - `INS-260329-7B56` [medium] Reviews that mention real downsides before praising outcomes are more believable and convert better than pure five-star praise.

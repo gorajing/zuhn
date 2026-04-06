@@ -48,7 +48,6 @@ stance: >-
   distribution during that window locks in for decades.
 related:
   - INS-260330-DA38
-  - INS-260402-580C
   - INS-260403-F234
   - PRI-260322-8FD4
   - INS-260325-BC2A

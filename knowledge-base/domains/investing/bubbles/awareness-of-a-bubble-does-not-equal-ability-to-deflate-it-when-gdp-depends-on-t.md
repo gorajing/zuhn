@@ -59,7 +59,6 @@ related:
   - PRI-260328-EAC4
   - PRI-260403-2927
   - PRI-260328-2C4C
-  - INS-260330-A98B
   - INS-260330-4D05
 ---
 Perhaps the most striking detail in China's housing situation is that Beijing is fully aware of the bubble, understands the risks, and even knows the approximate solution set — slow lending, rein in local governments, introduce property taxes. Yet it struggles to act because real estate is so deeply intertwined with GDP that any corrective measure would risk significant economic deceleration.

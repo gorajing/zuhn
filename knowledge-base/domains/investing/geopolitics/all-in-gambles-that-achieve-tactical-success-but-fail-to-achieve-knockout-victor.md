@@ -51,7 +51,6 @@ stance: >-
   when the stroke fails to achieve total victory, because there are no reserves
   left for the inevitable counterattack.
 related:
-  - INS-260326-1E52
   - INS-260326-79DF
   - INS-260327-7F88
   - INS-260327-F274

@@ -48,10 +48,10 @@ stance: >-
   assessment
 related:
   - INS-260325-1E0B
-  - INS-260325-FAC2
-  - INS-260330-FCB7
   - INS-260325-6571
   - INS-260325-DFA5
+  - INS-260323-8F70
+  - PRI-260325-7A6B
 evidence:
   - id: INS-260330-FCB7
     type: REFINES

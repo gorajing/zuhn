@@ -51,7 +51,6 @@ stance: >-
   grievances — it radicalizes the next generation and transforms moderate
   demands into revolutionary ones.
 related:
-  - INS-260326-44C9
   - INS-260327-96A5
   - INS-260327-842F
   - PRI-260328-E1CE
@@ -59,6 +58,7 @@ related:
   - INS-260327-5DD7
   - INS-260327-39FB
   - INS-260327-3D0F
+  - INS-260327-8152
   - INS-260330-2030
   - INS-260330-3A3F
 evidence:

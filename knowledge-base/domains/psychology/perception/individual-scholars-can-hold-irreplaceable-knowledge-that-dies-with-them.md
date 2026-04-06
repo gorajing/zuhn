@@ -55,6 +55,7 @@ related:
   - INS-260327-E82A
   - INS-260327-74CF
   - INS-260330-FFAB
+  - INS-260330-0F55
 ---
 Finkel's ability to read cuneiform - developed over 45+ years of daily practice - represents a skill that cannot be fully taught or transmitted. The tacit knowledge involved (recognizing damaged signs, understanding contextual meaning, connecting fragmentary texts) exists primarily in the neural patterns of a small number of aging scholars.
 

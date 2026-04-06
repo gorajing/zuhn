@@ -49,10 +49,10 @@ stance: >-
   honor
 related:
   - INS-260329-825D
-  - INS-260330-660A
   - INS-260330-7220
   - INS-260329-1DE0
   - INS-260328-0C4C
+  - INS-260322-6C4B
 evidence:
   - id: INS-260329-9115
     type: TRANSFERS_TO

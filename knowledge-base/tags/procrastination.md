@@ -1,7 +1,7 @@
 # Tag: procrastination
 
-- `INS-260330-F6B1` Per-project procrastination hides behind busy work on less important tasks, causing people to waste years without noticing.
 - `INS-260329-CCDE` The when-then fallacy ('when I have X, then I'll do Y') inverts cause and effect, creating circular inaction where the action itself would produce the prerequisite condition.
+- `INS-260330-F6B1` Per-project procrastination hides behind busy work on less important tasks, causing people to waste years without noticing.
 - `INS-260325-B6AD` Turn toward avoided tasks by acknowledging them psychologically, and action will follow naturally.
 - `INS-260325-D9D8` Overcome avoidance not by forcing action but by simply turning toward the dreaded task and acknowledging its existence in your life.
 - `INS-260403-AA0B` Important problems create an almost physical pain that paralyzes—you must approach them obliquely rather than head-on.
@@ -11,7 +11,6 @@
 - `INS-260403-7ED5` Unlike watching TV on a couch, browsing the internet at your desk looks and feels like work, which delays recognition of the problem.
 - `INS-260325-77B1` Deadline-based procrastination is contained and often survivable; non-deadline procrastination on life goals extends indefinitely and causes deep regret.
 - `INS-260328-3FCE` The Dark Playground — leisure during times meant for work — fills the air with guilt and anxiety, making the fun not actually fun.
-- `INS-260325-0A49` The Dark Playground is where procrastinators spend time on leisure activities that bring no real enjoyment because they're unearned.
 - `INS-260325-EF66` Procrastination stems from the Instant Gratification Monkey overriding the Rational Decision-Maker, not from character failure.
 - `INS-260325-D797` The Panic Monster — triggered by looming deadlines or public embarrassment — is the only thing that reliably scares the Instant Gratification Monkey into submission.
 - `INS-260403-3CD9` Busywork that feels productive is worse than obvious procrastination because it prevents self-correction.

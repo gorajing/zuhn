@@ -45,12 +45,13 @@ stance: >-
   persistence more effectively than any productivity system or motivational
   framework.
 related:
+  - INS-260325-A272
   - INS-260329-023F
   - INS-260403-B7FA
   - INS-260403-6935
   - PRI-260405-71C5
   - INS-260403-2B63
-  - INS-260329-8330
+  - INS-260402-8223
 evidence:
   - id: INS-260403-6935
     type: SUPPORTS

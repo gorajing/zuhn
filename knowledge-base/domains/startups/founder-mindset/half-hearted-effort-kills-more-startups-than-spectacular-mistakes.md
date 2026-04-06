@@ -44,7 +44,6 @@ stance: >-
   not dramatic flameouts — quitting your day job is statistically the strongest
   predictor of success.
 related:
-  - INS-260323-1307
   - INS-260327-8254
   - INS-260327-1064
   - INS-260330-AA8B
@@ -54,6 +53,7 @@ related:
   - INS-260403-78B7
   - INS-260402-2B96
   - INS-260403-E6A7
+  - INS-260403-12FD
 evidence:
   - id: INS-260403-6890
     type: SUPPORTS

@@ -1,21 +1,11 @@
 # Tag: recurring-revenue
 
-- `INS-260327-446A` American consumerism was deliberately engineered — planned obsolescence was explicitly proposed as an economic strategy during the Great Depression to create artificial demand.
 - `INS-260404-396E` ARM earns $1-10M upfront per license plus 1-2% royalties on every chip shipped, blending stability with volume upside.
-- `INS-260330-CAAB` Apple embraced longer device lifecycles because every iPhone user—new or used—still generates services revenue through apps, subscriptions, and licensing deals like Google's $9B search default payment.
 - `INS-260330-D556` When unit sales plateau, shift monetization from selling new devices to extracting recurring revenue from every device already in users' hands.
 - `INS-260327-442D` Lionsgate's acquisition of Artisan Entertainment gave them 8,000+ titles whose syndication licensing generated steady recurring revenue -- like a SaaS business -- that cushioned the inherent volatility of new film production.
 - `INS-260404-EAA7` When revenue comes from membership rather than markup, the company is structurally incentivized to keep prices low and quality high.
-- `INS-260404-35F8` When membership fees are the profit center, low prices become a feature, not a sacrifice.
-- `INS-260404-837E` Costco makes 75% of profit from membership fees, freeing it to keep markups at 11% average versus 24-35% for competitors.
-- `INS-260403-3864` Costco makes 75% of profit from membership fees, which means raising prices costs $60 in lost renewals for pennies of margin gain.
-- `INS-260403-8757` Costco derives 75% of profit from membership fees, making customer satisfaction the direct driver of revenue rather than markup.
-- `INS-260403-CDB9` When 75% of revenue comes from membership fees, the rational move is always to lower prices to protect renewals.
-- `INS-260403-BF47` Costco makes 75% of profit from membership fees, which structurally aligns its incentives with delivering maximum customer value.
-- `INS-260403-B2CB` Costco makes 75% of profit from membership fees, so low prices directly serve its business model rather than undermining it.
 - `INS-260403-3F5F` Costco makes 75% of revenue from membership fees, enabling an 11% markup cap vs Walmart's 24%.
 - `INS-260404-6751` AWS's recurring revenue model generates far higher margins than Amazon's transactional e-commerce, illustrating the structural superiority of subscription-based models.
 - `INS-260403-C4DF` Choosing between transaction, recurring, and usage-based revenue is a strategic decision that shapes the entire business, not just the billing page.
-- `INS-260405-39F3` Adobe's shift from selling licenses to selling Creative Cloud subscriptions transformed a lumpy transactional business into compounding recurring revenue.
 - `INS-260403-946A` The ideal validated business model combines large profit potential with structural defenses like recurring revenue, scalability, and competitive moats.
 - `INS-260322-C33D` Only build products with daily-use repeat purchase dynamics — subscriptions transform the business from hunting new customers every month to compounding on an existing base.

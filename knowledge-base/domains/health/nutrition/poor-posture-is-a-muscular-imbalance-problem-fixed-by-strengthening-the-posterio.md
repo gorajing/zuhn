@@ -46,11 +46,11 @@ stance: >-
   (upper back, rear deltoids, neck extensors) not tight chest muscles, and
   corrective exercises targeting these weak muscles fix posture within minutes.
 related:
-  - INS-260325-B463
-  - INS-260327-15A0
   - INS-260325-3FD3
+  - INS-260325-B463
   - INS-260329-0487
   - INS-260327-0105
+  - INS-260330-4079
   - INS-260327-E8A4
   - INS-260403-2DEE
 evidence:

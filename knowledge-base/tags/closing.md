@@ -10,6 +10,5 @@
 - `INS-260330-8B52` Instead of free trials, offer annual agreements with a 30-60 day cancellation window — buyers get the same safety net while you get real commitment.
 - `INS-260329-B239` Emotional buyers cancel when excitement fades; logical buyers stay because the reasoning that justified their purchase remains valid.
 - `INS-260329-8C69` The 3A framework (Acknowledge, Associate, Ask) reframes prospect objections by restating their concern, associating it with successful customer behavior, then asking a targeted question rather than answering directly.
-- `INS-260329-4F67` CLOSER (Clarify, Label, Overview past pain, Sell the vacation, Explain away concerns, Reinforce) creates a repeatable sales system that works by expanding the gap between current and desired state.
 - `INS-260329-7E63` The best closers don't have better arguments — they ask for the sale more times by using reframing to maintain rapport across repeated asks.
 - `INS-260330-5F35` Elite salespeople let the prospect talk 70% of the time, using questions to understand problems better than the prospect does.

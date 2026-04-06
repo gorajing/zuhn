@@ -48,9 +48,9 @@ stance: >-
 related:
   - INS-260403-5EB4
   - INS-260404-ED0F
-  - INS-260403-4337
-  - INS-260404-AFE6
   - PRI-260323-1B96
+  - INS-260330-5EB6
+  - INS-260403-B2EB
 evidence:
   - id: INS-260403-5EB4
     type: TRANSFERS_TO

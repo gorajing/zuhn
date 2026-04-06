@@ -53,11 +53,10 @@ stance: >-
   psychologically offset the cognitive dissonance.
 related:
   - INS-260327-764F
-  - INS-260330-CFEA
   - INS-260330-A151
   - INS-260403-204E
-  - INS-260330-5779
   - INS-260330-3698
+  - INS-260330-C548
 evidence:
   - id: INS-260403-204E
     type: TRANSFERS_TO

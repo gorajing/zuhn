@@ -53,10 +53,10 @@ stance: >-
   dysfunction.
 related:
   - INS-260325-A66E
-  - INS-260325-5F3C
   - INS-260330-0C10
   - INS-260330-B87C
   - INS-260330-EEAE
+  - INS-260330-5F6C
 ---
 The nervous system's entire function reduces to three stages: sensory input (detecting stimuli), integration (processing and deciding), and motor output (executing a response). This architecture is universal across all nervous systems from simple invertebrates to humans. When a spider lands on your knee, sensory neurons detect pressure, interneurons integrate that signal and decide on a response, and motor neurons execute the action.
 

@@ -53,7 +53,7 @@ related:
   - INS-260330-2ADC
   - PRI-260328-AF97
   - PRI-260328-7AF5
-  - INS-260327-0931
+  - INS-260327-9693
 ---
 Data from Satchin Panda's My Circadian Clock study of tens of thousands of human subjects shows that most people who think they follow an 8-hour eating window actually eat across a much broader window, especially on weekends. When the feeding window shifts by even 2 hours on weekends, it mimics traveling across time zones — disrupting circadian clock gene expression (PER, BMAL, CRY1) that governs 80% of gene expression in the body.
 

@@ -46,13 +46,13 @@ stance: >-
   trap where they become too busy to hire, which makes them busier, until they
   burn out.
 related:
+  - INS-260322-FD23
   - INS-260329-6204
+  - INS-260329-1F4D
   - INS-260330-7D83
   - INS-260330-7E58
   - INS-260330-EF51
-  - INS-260330-4CA7
   - INS-260327-2608
-  - INS-260329-1F4D
 evidence:
   - id: INS-260322-FD23
     type: EXTENDS

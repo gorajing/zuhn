@@ -46,7 +46,7 @@ stance: >-
   threat rather than a fine.
 related:
   - INS-260323-0EE2
-  - INS-260322-0E41
+  - PRI-260405-6216
   - PRI-260328-F0B4
   - INS-260330-FF09
   - INS-260403-FE00

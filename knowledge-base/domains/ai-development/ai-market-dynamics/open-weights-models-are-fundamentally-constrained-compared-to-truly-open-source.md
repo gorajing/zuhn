@@ -52,16 +52,16 @@ stance: >-
   limiting users to fine-tuning rather than true capability modification because
   heavy fine-tuning causes regression on other capabilities.
 related:
-  - INS-260323-62F3
   - INS-260322-3616
-  - INS-260321-8C35
   - INS-260323-3F39
   - INS-260404-CE26
+  - INS-260321-8C35
   - PRI-260323-8E89
   - INS-260405-CA27
   - INS-260329-A2D0
   - INS-260403-8A65
   - INS-260403-58DA
+  - INS-260403-BB23
 ---
 Karpathy makes a subtle but important distinction: open-weights models (like Llama) are like compiled binaries. You can run them and do some fine-tuning, but the more you fine-tune, the more the model regresses on its original capabilities. To add knowledge without regression, you need to train on a mixture of the original and new data distributions, which requires the full training loop and data, not just the weights.
 

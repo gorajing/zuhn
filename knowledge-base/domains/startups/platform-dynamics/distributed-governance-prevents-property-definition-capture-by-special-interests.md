@@ -50,11 +50,11 @@ stance: >-
   Multiple sovereign jurisdictions and functioning democracies act as a critical
   check against powerful actors warping property law to serve narrow interests.
 related:
+  - INS-260330-13B2
   - INS-260330-6EE1
   - INS-260330-95F3
   - INS-260403-4F1B
-  - INS-260330-13B2
-  - INS-260330-DC14
+  - PRI-260405-6216
 evidence:
   - id: INS-260402-B653
     type: SUPPORTS

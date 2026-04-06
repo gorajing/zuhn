@@ -49,11 +49,10 @@ stance: >-
 related:
   - INS-260323-44A9
   - INS-260327-399D
-  - INS-260327-71A5
-  - INS-260330-5779
   - INS-260330-3698
   - INS-260330-7E61
   - INS-260330-0764
+  - INS-260402-A2F1
   - INS-260403-45E3
 ---
 Harris identifies a specific cognitive trap: educated, ethically-minded people often draw moral equivalences between parties in a conflict as a way of signaling their own fairness and nuance. But when one side deliberately targets civilians for maximum horror while the other side treats civilian casualties as regrettable collateral damage, equating them isn't sophisticated — it's a category error that erases the very concept of moral progress.

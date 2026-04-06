@@ -55,12 +55,12 @@ stance: >-
   explaining why 93% of Americans show elevated inflammatory markers.
 related:
   - INS-260325-0400
+  - INS-260325-A8E3
   - INS-260327-8F45
   - INS-260330-3DC8
   - PRI-260328-97E0
-  - INS-260325-A8E3
-  - INS-260327-244B
   - INS-260327-E8D3
+  - PRI-260325-4FD3
 ---
 The intestine has three protective barriers: (1) a mucin layer (polysaccharide coating that bacteria will consume if not fed fiber), (2) tight junction proteins (claudin, zonulin) that form impermeable barriers between epithelial cells, and (3) the epithelial cells themselves. Fructose specifically nitrates tight junction proteins, altering their phosphorylation status and making them transiently permeable — this is the mechanism behind 'leaky gut.'
 

@@ -54,11 +54,11 @@ stance: >-
   more than any sales technique training, because selling is a transference of
   belief over a bridge of trust.
 related:
-  - INS-260327-52C1
   - PRI-260327-7924
   - INS-260329-A80B
   - PRI-260403-0ABD
   - INS-260403-AC74
+  - PRI-260405-262B
   - INS-260329-A6DB
 evidence:
   - id: INS-260330-6A3A

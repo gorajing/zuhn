@@ -1,13 +1,9 @@
 # Tag: pedagogy
 
-- `INS-260329-F635` Syntax errors should be reframed as the computer asking for help, not as punishment for mistakes.
-- `INS-260329-8330` Progressive mini-projects that layer new concepts onto familiar ones create the most effective programming learning paths.
-- `INS-260329-D75D` Progressive project sequences teach concepts in context, producing better retention than abstract-first approaches.
 - `INS-260329-FEC5` The most effective way to teach any formal system is the natural language progression: learn words, then sentences, then paragraphs.
-- `INS-260329-2DF2` Calculus understanding builds most effectively from visual/graphical intuition upward to symbolic manipulation and formal proof, not the reverse.
 - `INS-260329-48FD` Teaching complex concepts by starting with physical metaphors before moving to formal notation produces far better understanding than abstract-first approaches.
 - `INS-260329-90C3` Dr. Chuck's course revisits conditionals, loops, and functions across 24 chapters of escalating complexity because spiral repetition in new contexts builds deeper understanding than one-pass comprehensive coverage.
-- `INS-260404-52FC` CrashCourse teaches photosynthesis by tracking energy through a narrative journey rather than presenting simultaneous equations, dramatically improving comprehension.
+- `INS-260329-2DF2` Calculus understanding builds most effectively from visual/graphical intuition upward to symbolic manipulation and formal proof, not the reverse.
 - `INS-260330-E8BD` Mastering complex systems requires identifying the few repeated patterns rather than memorizing individual components.
 - `INS-260330-E47D` Teaching core intuitions before precise definitions helps learners build mental scaffolding that makes formalism meaningful.
 - `INS-260330-BEAD` Vsauce makes the Banach-Tarski proof accessible by building a chain of named analogies — chocolate bar → Hilbert's Hotel → circle points → Hyperwebster → sphere decomposition — each one preparing the mental model for the next.
@@ -15,10 +11,8 @@
 - `INS-260330-367B` Reframing algebra as geometry makes abstract concepts tangible and intuitive.
 - `INS-260330-9033` Presenting proofs as guided exercise sequences — even in a lecture format — forces the active engagement that produces genuine understanding.
 - `INS-260404-BEF7` Photosystem II was discovered before Photosystem I but functions first in the chain, creating unnecessary confusion for every student who encounters it.
-- `INS-260404-3C96` The electron transport chain teaches that understanding complex systems requires tracing energy/value transformations at each intermediate step.
 - `INS-260404-6AD7` CrashCourse teaches photosynthesis by giving every sub-process a distinct name and character (PSII, Calvin Cycle, RuBisCo), turning an overwhelming chemical cascade into navigable chunks.
 - `INS-260330-C8ED` Counter-intuitive naming in a field signals discovery-order thinking, which predicts where other confusions will cluster.
-- `INS-260403-F63E` Photosystem II being the first complex in the chain creates unnecessary confusion that persists across all levels of biology education.
 - `INS-260330-2BF4` Photosynthesis becomes learnable only because each intermediate product and enzyme (PSII, cytochrome complex, ATP synthase, PSI, RuBisCo, G3P) gets a distinct name that serves as a cognitive anchor.
 - `INS-260404-78EB` Photosystem II acts before Photosystem I because they were named in reverse order of discovery — a naming debt that has confused biology students for decades.
 - `INS-260403-837D` Photosystem II was discovered first but named second, and understanding why reduces the cognitive friction of learning the system.
@@ -26,9 +20,7 @@
 - `INS-260330-78B8` Flagging your own simplifications as 'kind of a lie, but in the direction of truth' builds credibility and primes learners for the real version.
 - `INS-260403-07C3` Photosystem II comes before Photosystem I in the actual process, creating needless confusion because they were named in discovery order.
 - `INS-260330-4FB9` Encoding knowledge inside memorable stories ensures transmission even when the transmitters don't understand the encoded information.
-- `INS-260329-E914` Start with the simplest working example and layer complexity incrementally rather than teaching theory first.
 - `INS-260330-1B16` Build understanding layer by layer so the final formula feels like a natural extension rather than an intimidating wall of symbols.
-- `INS-260329-3263` Interleaving mini-projects between theory sections creates concrete anchors that make abstract concepts stick.
 - `INS-260329-8830` Structuring tool instruction around escalating real-world projects produces better learning outcomes than feature-by-feature tutorials.
 - `INS-260329-E402` Embedding small projects at each complexity tier forces learners to synthesize concepts rather than merely recognize them.
 - `INS-260329-820D` Alternating between concept explanation and mini-projects creates natural retrieval practice and motivation loops.
@@ -38,18 +30,13 @@
 - `INS-260330-B904` Analyzing the simplest possible case first builds intuition that abstract proofs alone cannot provide.
 - `INS-260329-6004` Confronting misconceptions through cognitive dissonance teaches more effectively than stating correct answers directly
 - `INS-260330-C4F1` Using coding to teach critical thinking puts the cart before the horse—teach the target skill directly instead of through a proxy.
-- `INS-260329-2FEB` Immediate output from each new concept (printing, calculations, simple games) cements understanding faster than abstract theory.
 - `INS-260403-8C20` The classic five-paragraph essay is secretly a list of 3 things, and disguising this prevents students from learning that real essays are vehicles for discovering new ideas.
 - `INS-260330-053D` Framing knowledge as 'you could have invented this' converts memorization into genuine understanding.
 - `INS-260330-4E95` Thinking of transformations as 'watching every point in space move' builds intuition that rote formula memorization cannot.
 - `INS-260325-0713` True understanding means feeling you could have discovered the idea independently, not just following someone else's derivation.
 - `INS-260329-9CCF` Interleaving prerequisite material with advanced content at the point of need — as this calculus course does with algebra corequisites — creates immediate motivation and context that front-loaded prerequisites lack.
-- `INS-260329-DD0F` Programming understanding comes as a sudden click after sustained confusion, not as gradual comprehension.
-- `INS-260329-27A3` Learning concepts layered on top of each other in context transfers better than learning them in isolation.
 - `INS-260404-59D1` The video builds from 'you can't hold this' to 'watch me lift it overhead' — each step making the next seem more impossible, which deepens engagement with the explanation.
 - `INS-260329-F20E` Teaching building blocks without immediate practical context creates a stronger conceptual breakthrough when the payoff finally arrives.
-- `INS-260329-2349` Delaying the 'why' behind foundational concepts creates a powerful aha moment when the payoff finally arrives.
-- `INS-260329-AC6E` Dr. Chuck starts his Python course with hardware architecture because understanding what the CPU, memory, and disk actually do prevents students from treating code as magic incantations.
 - `INS-260325-7080` The gold standard for comprehension is the sense that you could have invented the idea independently.
 - `INS-260325-48E4` Drawing the right picture turns abstract formulas from arbitrary rules into obvious geometric facts.
 - `INS-260329-7A6A` Zero-based vs one-based indexing confuses programmers because it contradicts deeply ingrained mathematical counting conventions, and the problem compounds in fields like quantum computing that try to please multiple conventions simultaneously.

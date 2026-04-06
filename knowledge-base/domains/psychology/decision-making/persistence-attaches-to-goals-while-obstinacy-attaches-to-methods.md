@@ -47,11 +47,11 @@ stance: >-
   are practicing obstinacy, not persistence, and will fail on complex problems
   even if they succeed on simple ones.
 related:
-  - INS-260327-2F78
   - INS-260327-51C2
   - PRI-260323-0F93
   - INS-260329-557C
   - PRI-260328-BD81
+  - PRI-260328-39FA
 evidence:
   - id: INS-260327-2F78
     type: TRANSFERS_TO

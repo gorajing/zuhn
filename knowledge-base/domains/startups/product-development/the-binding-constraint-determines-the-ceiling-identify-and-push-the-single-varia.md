@@ -59,11 +59,12 @@ resolutions:
 related:
   - INS-260322-2D57
   - INS-260323-A1FE
+  - PRI-260405-9504
   - INS-260330-A3EB
   - PRI-260323-ADA4
-  - PRI-260328-5D9E
   - INS-260323-9BC8
   - INS-260327-CF53
+  - INS-260405-18C8
 stance: >-
   Jet engine efficiency is fundamentally limited by the Carnot equation: raise
   the combustion temperature or lower the outside air temperature

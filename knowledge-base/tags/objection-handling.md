@@ -12,5 +12,3 @@
 - `INS-260329-D215` Three straw man variants — anonymous recent customer, successful past client, and authority figure appeal — let salespeople deliver brutal truths without personally insulting the prospect.
 - `INS-260329-8C69` The 3A framework (Acknowledge, Associate, Ask) reframes prospect objections by restating their concern, associating it with successful customer behavior, then asking a targeted question rather than answering directly.
 - `INS-260327-E7FF` The CLOSER framework walks through Clarify why they're here, Label the problem, Overview past pain, Sell the vacation (outcome not process), Explain away concerns, and Reinforce the decision.
-- `INS-260329-4F67` CLOSER (Clarify, Label, Overview past pain, Sell the vacation, Explain away concerns, Reinforce) creates a repeatable sales system that works by expanding the gap between current and desired state.
-- `INS-260329-C430` 'I'll buy when I have money' inverts causation — the program creates the money, so waiting for money to buy the program is a logical impossibility.

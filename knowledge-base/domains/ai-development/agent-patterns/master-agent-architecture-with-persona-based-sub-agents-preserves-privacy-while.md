@@ -54,11 +54,11 @@ stance: >-
   context that spawns limited-access sub-agents with different personas for
   different environments like work, social, and dating.
 related:
-  - INS-260325-23BA
   - INS-260322-96D1
   - INS-260327-DC4C
   - INS-260322-EAB6
   - INS-260322-22B3
+  - INS-260325-031F
 ---
 Linda from MiniMax described a vision (attributed to OpenClaw's Peter) where each person has a master agent that holds their complete memory and personal data locally, maintaining full privacy. This master agent then spawns sub-agents with deliberately limited access and different personas for different contexts: a professional sub-agent for the Microsoft workspace, a casual one for social networks, a different persona for dating apps. Each sub-agent gets only the data and communication style appropriate for its environment.
 

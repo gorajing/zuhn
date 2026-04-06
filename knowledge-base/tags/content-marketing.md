@@ -6,6 +6,5 @@
 - `INS-260329-20E8` Branding works through classical conditioning — people associate a symbol with accumulated positive experiences until the symbol itself triggers those feelings.
 - `INS-260327-7CAF` Roomies created a comedic series about NYC apartment hunting instead of promoting their rental software — and it drove millions of views in their target demographic.
 - `INS-260329-69F0` freeCodeCamp's 48M-view Python tutorial demonstrates that one exhaustive tutorial can drive growth for years.
-- `INS-260329-1ECA` Search TikTok for viral videos of competitor apps, study the hook sentence, then film your own app demo using the same format.
 - `INS-260322-7B71` Timeless how-to content (like 'Good Product Manager Bad Product Manager') compounds in value while opinion pieces about market bubbles are forgotten quickly.
 - `INS-260329-1028` freeCodeCamp's 48M-view tutorial demonstrates that one comprehensive free resource can become a permanent acquisition engine dwarfing paid channels.

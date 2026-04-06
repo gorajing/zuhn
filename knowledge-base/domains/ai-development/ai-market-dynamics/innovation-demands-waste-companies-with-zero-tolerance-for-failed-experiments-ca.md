@@ -45,9 +45,9 @@ resolutions:
 related:
   - INS-260403-472E
   - INS-260330-2B45
-  - INS-260330-19F1
   - INS-260330-CC7D
   - INS-260330-2F13
+  - INS-260405-F1A2
 stance: >-
   If every AI project must show predictable ROI, you're structurally incapable
   of innovation — the first pancake is always burned.

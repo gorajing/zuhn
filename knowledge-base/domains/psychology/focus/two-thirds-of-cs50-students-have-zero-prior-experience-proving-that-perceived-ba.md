@@ -49,10 +49,10 @@ stance: >-
   prior experience, not actual prerequisite knowledge
 related:
   - INS-260329-E86C
-  - INS-260329-1741
   - INS-260330-43EE
   - INS-260325-E84D
   - INS-260329-C81C
+  - PRI-260327-5635
   - INS-260403-6E76
   - INS-260403-8CE6
 evidence:

@@ -49,11 +49,11 @@ stance: >-
   capacity, making the first intervention removing brakes rather than pressing
   the accelerator.
 related:
+  - PRI-260405-9D7B
   - INS-260330-293E
+  - PRI-260405-CCCE
   - INS-260330-6C6B
-  - INS-260325-5F3C
   - INS-260327-DF8B
-  - INS-260403-518E
   - INS-260403-B6CD
 evidence:
   - id: INS-260330-293E

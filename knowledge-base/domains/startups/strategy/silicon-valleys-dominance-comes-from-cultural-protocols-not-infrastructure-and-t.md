@@ -53,12 +53,13 @@ stance: >-
   infrastructure like VCs and coworking spaces will fail.
 related:
   - INS-260327-C4AD
+  - INS-260329-19B3
   - INS-260330-5A4C
   - INS-260330-766D
-  - INS-260329-19B3
   - INS-260403-A99F
   - INS-260329-ACE6
   - INS-260330-6D2E
+  - INS-260403-272E
   - INS-260404-266F
 evidence:
   - id: INS-260327-C4AD

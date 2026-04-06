@@ -44,15 +44,15 @@ stance: >-
   criticism is a prerequisite for delivering it effectively.
 related:
   - INS-260322-1C17
-  - INS-260330-CFEA
   - INS-260327-D7E6
   - INS-260329-C996
   - INS-260404-405A
   - INS-260330-ABBF
+  - INS-260330-568F
+  - INS-260328-0B42
   - INS-260329-3E3A
   - INS-260329-A7E2
   - INS-260329-4499
-  - INS-260329-812E
 evidence:
   - id: INS-260322-1C17
     type: SUPPORTS

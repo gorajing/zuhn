@@ -50,11 +50,11 @@ stance: >-
   biggest piece of evidence they use to judge quality.
 related:
   - INS-260329-B7F5
-  - INS-260404-37F7
   - PRI-260405-4B06
   - INS-260404-405A
   - INS-260404-5017
   - INS-260330-5BC4
+  - INS-260404-0095
 evidence:
   - id: INS-260330-5BC4
     type: CHALLENGES

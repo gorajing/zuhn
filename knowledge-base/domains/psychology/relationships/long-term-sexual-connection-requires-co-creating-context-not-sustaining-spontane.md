@@ -55,9 +55,9 @@ stance: >-
 related:
   - INS-260330-544F
   - INS-260330-EA2E
-  - INS-260330-6D52
   - INS-260330-EC5E
   - INS-260330-F9C1
+  - INS-260330-88B0
   - INS-260330-FA1C
 ---
 Nagoski's 'smoldering embers' metaphor reframes long-term sexual health: instead of a spark that either exists or doesn't (binary, passive), successful couples maintain banked embers they know how to stoke (continuous, active, skill-based). This requires shared vocabulary for discussing what activates each partner's brakes and accelerator, and collaborative effort to create contexts where both brains can access pleasure.

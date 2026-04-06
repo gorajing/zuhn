@@ -45,14 +45,13 @@ resolutions:
     describes depression after Scatter's failure), but that pain becomes 'armor'
     and 'weaponry' for future ventures.
 related:
+  - PRI-260405-E256
   - PRI-260323-1B96
-  - INS-260403-1DB7
-  - INS-260404-9A82
   - INS-260327-643E
   - INS-260323-19A8
+  - INS-260402-D739
   - INS-260329-ECB5
   - INS-260330-30CE
-  - INS-260330-2CE5
 stance: >-
   Investors who back founders with 3-4 failures are buying battle-tested pattern
   recognition that lucky first-timers never develop.

@@ -1,6 +1,5 @@
 # Tag: therapy
 
-- `INS-260330-A5B0` Johns Hopkins uses 30-40mg psilocybin (heroic dose) with trained guides, eye shades, curated music, and 6-8 hours of continuous support per session.
 - `INS-260330-22F0` Before psychoanalysis, mentally ill patients were confined to sanatoriums; Freud's talk therapy demonstrated that conversation itself could be curative.
 - `INS-260330-A47D` Freud's key insight was that unconscious processes, while hidden, are accessible through structured techniques like free association and dream analysis.
 - `INS-260330-AC16` Changing beliefs is like blazing a new trail next to a four-lane highway of old patterns — it works, but takes persistent effort over months or years, not weeks.

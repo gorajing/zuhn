@@ -51,11 +51,11 @@ stance: >-
   misallocation that historically produces corporate extinction
 related:
   - INS-260324-782C
-  - INS-260327-2BE1
   - INS-260403-9AB5
   - INS-260403-D8A2
-  - INS-260404-2839
   - INS-260403-EAC6
+  - INS-260404-8CEE
+  - INS-260403-91DB
 ---
 The letter makes a counterintuitive point: Kodak, Nokia, and Blackberry were not killed by lack of technological innovation—they were highly innovative technology companies. They died because they failed to explore new business models and value propositions alongside their product R&D. Kodak invented the digital camera; Nokia had superior hardware engineering; Blackberry pioneered mobile email.
 

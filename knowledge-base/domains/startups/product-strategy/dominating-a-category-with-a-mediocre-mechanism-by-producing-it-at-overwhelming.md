@@ -62,13 +62,13 @@ stance: >-
   competitors using superior but rarer alternatives
 related:
   - INS-260325-0A8A
+  - INS-260325-722C
   - INS-260330-0027
   - INS-260330-0B4A
-  - INS-260403-962E
   - INS-260405-C497
   - INS-260405-F20F
-  - INS-260404-1FCE
-  - INS-260330-D4CC
+  - INS-260403-532D
+  - INS-260405-95AE
 evidence:
   - id: INS-260405-C497
     type: SUPPORTS

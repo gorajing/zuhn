@@ -49,12 +49,12 @@ stance: >-
   addition, sleep optimization, endocrine disruptor removal, nutrient-dense
   diet, and stress management
 related:
-  - INS-260325-EDE1
   - INS-260327-1E16
   - INS-260327-7000
   - INS-260327-6916
   - PRI-260328-0174
   - INS-260327-13A9
+  - PRI-260328-92EF
 ---
 Paul Saladino documented a 70% testosterone increase (500 to 857 ng/dL) at age 48 through five changes: (1) Adding carbohydrates from fruit and honey -- the single biggest factor, as carbs signal evolutionary abundance for reproduction. (2) Sleep optimization -- consistent timing, 7-8 hours, no screens before bed. (3) Removing endocrine disruptors -- non-toxic cookware, filtered water, avoiding plastics. (4) Nutrient-dense animal foods including organ meats for zinc, B12, and other testosterone-supporting nutrients. (5) Stress management to lower cortisol, which directly suppresses testosterone production.
 

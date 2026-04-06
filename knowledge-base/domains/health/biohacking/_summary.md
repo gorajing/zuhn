@@ -1,6 +1,6 @@
 # Topic: biohacking
 
-> 119 insights
+> 111 insights
 
 - `INS-260330-B173` [high] Running up stairs for 20 seconds, 2-3 times daily across a workday, significantly improves VO2 max and blood glucose control.
 - `INS-260326-BF32` [high] Evolution optimized for stability under disruption, not peak performance — pushing one parameter to its optimum can crash the stability system that keeps everything else running.
@@ -25,7 +25,6 @@
 - `INS-260323-D4B1` [high] The same gene editing tools used for de-extinction can save living species from genetic bottlenecks, invasive species, and disease — a far more immediate and impactful application than bringing back mammoths.
 - `INS-260330-C456` [high] NAD+ and FAD act as rechargeable batteries derived from B vitamins that carry energy from the Krebs Cycle to the electron transport chain, where 89% of ATP is produced.
 - `INS-260325-F915` [high] DNA methylation patterns change predictably with age and can be measured to estimate biological age at the molecular level.
-- `INS-260325-D2AA` [high] Aging starts when DNA methylation patterns degrade, causing cells to lose their functional identity — wrinkles, gray hair, and disease are late-stage manifestations of molecular damage that began years earlier.
 - `INS-260330-5E03` [high] Exercises are neutral vehicles — sets, reps, intensity, and rest determine whether you build strength, size, or endurance.
 - `INS-260330-C367` [high] Thunderbird pilots build 9G tolerance by flying twice daily for 4 months, and lose it within weeks of inactivity.
 - `INS-260327-396D` [high] Fasting insulin elevates 15-20 years before glucose becomes abnormal, but standard blood panels only test glucose -- making fasting insulin the most important test doctors almost never order.
@@ -61,12 +60,10 @@
 - `INS-260330-DC78` [high] The difference between 6x10 and 10x10 on compound lifts is the difference between a testosterone spike and a cortisol spike.
 - `INS-260329-A9C0` [high] Take a 20-second break every 20 minutes to focus on something 20 feet away to prevent cumulative eye strain.
 - `INS-260330-E5F9` [high] The 3-to-5 concept — 3-5 exercises, 3-5 sets, 3-5 reps, 3-5 min rest, 3-5 days/week — is a complete strength/power training prescription.
-- `INS-260330-A5B0` [high] Johns Hopkins uses 30-40mg psilocybin (heroic dose) with trained guides, eye shades, curated music, and 6-8 hours of continuous support per session.
 - `INS-260325-BF44` [high] Your immune system uses hypermutation and clonal selection — the same mutation-selection staircase as evolution — to fight novel pathogens in real time.
 - `INS-260327-0105` [high] Upper cross syndrome from screen use is correctable within minutes through specific muscle activation patterns
 - `INS-260326-786D` [high] Taleb's via negativa principle argues that removing the unnatural (smoking, processed food, sedentary behavior) is categorically safer than adding interventions, because additions carry multiplicative hidden risks in complex systems.
 - `INS-260327-F384` [medium] Animal-based nutrition supports elite surfing performance through sustained energy without crashes
-- `INS-260327-56D0` [medium] Apple cider vinegar before meals improves insulin sensitivity and digestion
 - `INS-260327-7C0A` [medium] Candida overgrowth can be rapidly reduced with oregano oil caprylic acid and biofilm-disrupting enzymes
 - `INS-260327-1E16` [medium] Keto and carnivore diets dropped Saladino's testosterone from 800 to 500; adding fruit and honey back restored it, because carbohydrates signal evolutionary abundance for reproduction.
 - `INS-260327-DE4E` [medium] Optimal cold plunge is 11-12 minutes per week at 50-55F, separated from strength training by 6-8 hours; excessive cold plunging may suppress immune function.
@@ -76,7 +73,6 @@
 - `INS-260327-D4B5` [medium] DEXA scan shows excellent lean mass and low body fat on an animal-based diet of red meat, organs, fruit, and honey -- achieved without calorie counting through natural satiety signaling.
 - `INS-260327-4FFA` [medium] Five changes raised testosterone from 500 to 857 at age 48: adding fruit/honey carbs, optimizing sleep, removing endocrine disruptors, eating organ meats, and managing stress/cortisol.
 - `INS-260330-6C6B` [medium] Elite athletes and researchers are converging on a 5-minute post-training parasympathetic activation protocol as a recovery multiplier.
-- `INS-260327-15A0` [medium] Flat feet can be corrected through targeted tibialis posterior and intrinsic foot muscle strengthening
 - `INS-260327-E8A4` [medium] Functional mobility training with 5 simple exercises maintains leanness and flexibility without gym equipment
 - `INS-260327-827C` [medium] Healthy home design eliminates EMF, toxins, and artificial light for longevity
 - `INS-260330-332E` [medium] Ventricular fibrillation is caused by rotating spiral waves of electrical excitation that destroy the heart's synchronized contraction, directly linking synchronization science to sudden cardiac death.
@@ -86,7 +82,6 @@
 - `INS-260323-7D2E` [medium] Continuous 5.5-second nasal inhale/exhale cycles for 10-20 minutes resets the nervous system and produces deep relaxation comparable to a muscle relaxant.
 - `INS-260327-EE51` [medium] Inner thigh fat accumulation is driven by estrogen dominance not lack of targeted exercise
 - `INS-260327-78E6` [medium] Keto dieters who claim they need less sleep are misinterpreting sympathetic nervous system overdrive from elevated cortisol and catecholamines as reduced sleep need.
-- `INS-260326-2582` [medium] All lasting transformation modalities work by bypassing the thinking mind to access the deeper layer where behavioral change actually happens.
 - `INS-260327-C0AB` [medium] Magnesium taurate and malate are the best-absorbed forms; citrate causes diarrhea, glycinate may deplete methyl groups in those with MTHFR mutations, and threonate may cross the blood-brain barrier.
 - `INS-260327-5DB4` [medium] Methylene blue's perceived benefits are likely from its MAOI properties altering neurotransmitters rather than improving metabolism; it actually reduces ATP in healthy mitochondria.
 - `INS-260327-027E` [medium] Middle-of-night waking responds to blood sugar stabilization and specific breathing techniques
@@ -95,10 +90,8 @@
 - `INS-260403-2BAD` [medium] Neurofeedback uses real-time brainwave monitoring with reward signals to train the brain toward calmer, more focused configurations.
 - `INS-260327-7099` [medium] Despite nicotine occurring naturally in the body as a neurotransmitter, exogenous nicotine via pouches raises blood pressure, increases heart rate, and is highly addictive.
 - `INS-260327-5107` [medium] Of celebrity biohacks only cold exposure and red light therapy have meaningful evidence while IV drips are largely unnecessary
-- `INS-260330-2C6A` [medium] The psychedelic therapy model concentrates risk into a single supervised session rather than distributing it across years of daily medication with cumulative side effects.
 - `INS-260325-3AE4` [medium] fMRI studies show psychedelics produce massive increases in communication between brain areas that normally never talk to each other — breaking down the brain's usual compartmentalization.
 - `INS-260325-6576` [medium] Animal research suggests psychedelics increase neuroplasticity in the days after use, creating a window where new patterns stick more easily — explaining why single sessions produce lasting change.
-- `INS-260327-02AF` [medium] Quitting coffee for 30 days reveals improved sleep, stable energy, and lower cortisol after initial withdrawal
 - `INS-260330-4A7F` [medium] Undercorrecting vision to exercise eye muscles may help the lens but starves the retina and brain of sharp signals — the tradeoff favors wearing readers.
 - `INS-260325-FEDF` [medium] Rapamycin extended remaining mouse lifespan by 10-15% when given late in life via autophagy induction, and existing safety profiles mean human trials could yield results within a decade.
 - `INS-260327-AD25` [medium] Sauna benefits require staying below 100C to avoid dementia risk while protecting testicular health
@@ -113,7 +106,6 @@
 - `INS-260323-3ED8` [medium] Rotating between heavy lifting and lighter/higher-rep training in 3-month cycles gives joints rest and changes hormonal cascades that directly affect cognitive performance.
 - `INS-260330-72D9` [medium] Strobe-light training goggles that reduce visual information during practice produce measurably better visual performance when removed — a principle being studied at Stanford's new Vision Performance Center.
 - `INS-260327-1309` [medium] Waking at 3AM is caused by cortisol spikes from blood sugar drops not primary insomnia
-- `INS-260327-20AF` [medium] Winter depression is caused by insufficient full-spectrum light exposure disrupting serotonin production more than vitamin D deficiency
 - `INS-260325-3F8B` [medium] Like semiconductors and solar panels, gene therapy costs should follow Wright's Law — with AI designing personalized therapies on-demand, treatments could drop from millions to thousands of dollars.
 - `INS-260325-C394` [medium] Pulsed activation of four Yamanaka factors can reverse biological aging in mouse cells without destroying cell identity — a potential breakthrough that Altos Labs is pursuing with $3 billion.
 - `INS-260327-FD92` [low] Acupressure on specific points combined with deep breathing can interrupt addictive impulses within 60 seconds

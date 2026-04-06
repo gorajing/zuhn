@@ -57,7 +57,6 @@ related:
   - INS-260327-7C60
   - INS-260327-60C6
   - INS-260327-3528
-  - INS-260330-9EBA
 evidence:
   - id: INS-260330-4AAD
     type: EXTENDS

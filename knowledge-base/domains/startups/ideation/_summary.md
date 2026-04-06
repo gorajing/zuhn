@@ -1,6 +1,6 @@
 # Topic: ideation
 
-> 81 insights
+> 76 insights
 
 - `INS-260328-FF2C` [high] The smartest people can make the impossible happen, but if you cannot attract the smartest people, you cannot even make the possible happen.
 - `INS-260403-C610` [high] The best startup ideas come from projects built to scratch your own itch, not from brainstorming sessions about what would make a good company.
@@ -10,7 +10,6 @@
 - `INS-260321-CCD9` [high] Basic image generation is being absorbed by foundation models, but creative tools that are aesthetically opinionated (Midjourney) or own non-commoditized modalities (Suno for music, 11 Labs for voice) maintain defensible positions.
 - `INS-260330-0346` [high] Pairing programming skills with deep knowledge of an unrelated field produces outsized startup ideas through a double advantage of fresh perspective and technical capability.
 - `INS-260403-7471` [high] Startups fail by default everywhere — hubs succeed by providing enough positive interventions to counteract the natural death rate.
-- `INS-260402-EE6E` [high] The best startup ideas emerge as side projects from genuine curiosity, not from deliberate brainstorming sessions.
 - `INS-260330-6C68` [high] Deliberately brainstorming startup ideas produces plausible-sounding but fundamentally flawed ideas that no one urgently needs.
 - `INS-260402-D739` [high] The best startup ideas come from problems founders personally experience, not from copying existing companies with minor variations.
 - `INS-260330-2B42` [high] Larry Page became Larry Page not through startup education but because genuine curiosity made him an expert on search — startups are merely an ulterior motive for curiosity.
@@ -28,7 +27,6 @@
 - `INS-260402-2CAF` [high] Shifting which problem you solve produces order-of-magnitude improvements that execution refinement cannot match.
 - `INS-260403-816B` [high] The best startup ideas come from fixing what's broken in your own life, not imagining what strangers need.
 - `INS-260322-185B` [high] You cannot discover real customer pain points remotely — physical immersion in your users' environment reveals needs that surveys and interviews miss.
-- `INS-260329-9513` [high] Filter business ideas through three lenses — what pains you, what you do professionally, and what you care about — to find ideas grounded in authentic experience.
 - `INS-260329-FE15` [high] Ground your first business idea in personal pain, professional expertise, or deep passion rather than abstract market research.
 - `INS-260327-2661` [high] The AtoB founders chose trucking as a fertile idea space, physically went to truck stops to talk to drivers, and systematically mapped the space until they found fuel cards — a method anyone can replicate.
 - `INS-260322-2155` [high] Selling frozen dumplings below cost on a recipe-sharing social platform proved market demand existed before investing in infrastructure — the pre-prototype validates the hypothesis, not the product.
@@ -41,10 +39,7 @@
 - `INS-260405-34D7` [high] During major platform transitions, systematically looking for physical objects to replace with software is a reliable source of startup ideas.
 - `INS-260327-E7A3` [high] Tar pit ideas form around widespread problems that seem easily solvable but have hidden structural reasons why they've resisted solution for 20+ years — and most founders skip the basic step of Googling to find out.
 - `INS-260403-DDFD` [high] Once you're truly good at a technology, the gaps and broken things in the world become obvious — each one a potential startup.
-- `INS-260404-9823` [high] In startups, the best ideas initially seem bad because obviously good ones are already taken — founders need imagination to find the sweet spot of productive craziness.
 - `INS-260330-8AC8` [high] Yahoo, Google, Facebook, and Apple all started as side projects — the best ideas are such outliers that your conscious mind rejects them as company ideas.
-- `INS-260403-39BB` [high] Great startup ideas sit in the Venn diagram overlap of 'seems like a bad idea' and 'is actually a good idea.'
-- `INS-260330-7819` [high] Pursue ideas that sound bad to others but you have specific reasons to believe are right — the apparent badness keeps competitors away.
 - `INS-260403-573F` [high] The most valuable startup ideas come from founders working on what genuinely interests them, not from systematic market analysis.
 - `INS-260323-AB5F` [high] Stuart Butterfield's games failed twice, but side features born from real problems became Flickr ($20M) and Slack ($27B) — the thing you're building around may be less valuable than the thing you built to support it.
 - `INS-260403-D543` [high] The pattern where dramatic cost reduction leads to massive volume increase and new use cases — seen in steel, power, and computing — is now happening to startups themselves.

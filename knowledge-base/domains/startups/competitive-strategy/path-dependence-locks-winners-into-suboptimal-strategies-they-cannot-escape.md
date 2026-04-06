@@ -52,6 +52,8 @@ stance: >-
   Once an organism or organization builds its entire ecosystem around a mediocre
   solution, replacing that solution becomes harder than working around its flaws
 related:
+  - INS-260330-E218
+  - INS-260403-2457
   - INS-260403-637C
   - INS-260404-3B9D
   - INS-260404-16B0
@@ -59,9 +61,7 @@ related:
   - INS-260404-D39F
   - INS-260404-26AE
   - INS-260404-CC7C
-  - INS-260404-1FCE
-  - INS-260404-1C48
-  - INS-260405-8469
+  - INS-260404-B1AB
 evidence:
   - id: INS-260405-8469
     type: REFINES

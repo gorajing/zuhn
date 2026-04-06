@@ -51,10 +51,10 @@ stance: >-
   lock-in and won't adopt it first.
 related:
   - INS-260327-7D53
-  - INS-260330-FCBC
   - INS-260330-1A23
-  - INS-260330-F512
   - INS-260321-D01E
+  - INS-260330-F512
+  - INS-260403-8256
 evidence:
   - id: INS-260321-D01E
     type: CHALLENGES

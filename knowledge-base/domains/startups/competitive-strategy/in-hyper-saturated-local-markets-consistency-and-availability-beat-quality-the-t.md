@@ -46,9 +46,9 @@ resolutions:
 related:
   - PRI-260324-D701
   - PRI-260328-F0B4
-  - INS-260330-420D
   - INS-260330-F527
-  - INS-260329-8DE7
+  - INS-260329-64A3
+  - INS-260329-D37E
 stance: 'In LA''s saturated taco market, the winning strategy isn''t being the best'
 ---
 LA has more Mexican restaurants than any other type and more than any other US city. With a competitor on every block, product quality is a fleeting advantage — someone can always make a better taco cheaper. The real moat is territorial: owning a specific neighborhood through consistent presence, adapting the menu to local demand (not personal opinion), and being available reliably. One truck owner monitors competitors on the road, adapted to the birria trend when it peaked, and added smash burgers and fries because that's what his neighborhood wanted. The principle: in commodity markets, serve what the local customer wants, not what you think they should want.

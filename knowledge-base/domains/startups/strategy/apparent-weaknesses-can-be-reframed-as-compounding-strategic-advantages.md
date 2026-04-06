@@ -51,11 +51,10 @@ stance: >-
   structural strength.
 related:
   - INS-260329-21AF
-  - INS-260403-2AE7
   - INS-260404-8B1C
   - INS-260404-8D5F
-  - INS-260404-B24E
   - INS-260403-524B
+  - INS-260403-6BD9
   - INS-260405-9EE6
 evidence:
   - id: INS-260403-524B

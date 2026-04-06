@@ -44,11 +44,12 @@ stance: >-
   A mediocre entrepreneur in a great market will outperform a great entrepreneur
   in a poor market nearly every time
 related:
-  - PRI-260324-D701
+  - INS-260324-8C6F
   - INS-260329-3BEE
   - PRI-260328-F0B4
+  - PRI-260324-D701
   - INS-260329-6BE8
-  - INS-260325-0688
+  - PRI-260405-6216
   - INS-260329-CBF3
   - INS-260330-6A47
   - INS-260330-D98E

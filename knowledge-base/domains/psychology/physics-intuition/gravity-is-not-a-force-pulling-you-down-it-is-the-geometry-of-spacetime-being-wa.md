@@ -50,7 +50,6 @@ resolutions:
 related:
   - INS-260323-C9B1
   - INS-260330-A149
-  - INS-260330-DD85
   - INS-260330-97A0
   - INS-260323-9F38
   - INS-260323-72EB
@@ -58,6 +57,7 @@ related:
   - INS-260330-E990
   - INS-260330-86A7
   - INS-260330-1114
+  - INS-260330-D7CD
 stance: Einstein showed that gravity is not a force at all
 evidence:
   - id: INS-260323-2D1D

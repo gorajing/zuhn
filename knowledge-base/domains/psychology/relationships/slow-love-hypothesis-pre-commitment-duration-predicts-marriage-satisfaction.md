@@ -45,11 +45,11 @@ stance: >-
   measurably happier, more stable partnerships than traditional
   courtship-to-marriage timelines.
 related:
-  - INS-260329-8EF6
   - INS-260330-A2E7
   - PRI-260328-7E6E
   - INS-260325-636B
   - INS-260325-3A54
+  - INS-260403-3E9A
   - INS-260330-8849
 ---
 Helen Fisher's 'slow love' framework reframes modern dating behaviors — hookups, friends-with-benefits, cohabitation — not as recklessness but as caution. A study found 67% of cohabiting singles hadn't married because they were terrified of divorce consequences. Fisher argues this extended evaluation period allows the brain's early-stage neurochemical storm to subside, letting prefrontal decision-making regions re-engage before commitment. Her match.com study of 1,100 married people found 81% would remarry their current spouse, supporting the hypothesis that longer pre-commitment evaluation leads to better partner selection. The key shift: marriage has moved from the beginning of a relationship to the finale.

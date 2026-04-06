@@ -50,11 +50,11 @@ stance: >-
   The requirement to spend 2 ATP before glycolysis can generate 4 ATP shows that
   even the most fundamental energy systems require speculative investment
 related:
-  - INS-260330-8E45
   - INS-260330-E068
   - INS-260330-8C52
   - INS-260403-5648
   - INS-260403-07D2
+  - INS-260404-1C01
 evidence:
   - id: INS-260329-55DC
     type: TRANSFERS_TO

@@ -45,12 +45,11 @@ stance: >-
   startup — with its own P&L, survival pressure, and accountability — maintain
   startup-level speed and innovation at scale.
 related:
-  - INS-260322-88C3
   - INS-260322-A892
+  - INS-260322-88C3
   - INS-260330-7CC0
   - INS-260402-2B96
   - INS-260403-DD41
-  - INS-260403-7374
 evidence:
   - id: INS-260322-B6DE
     type: EXTENDS

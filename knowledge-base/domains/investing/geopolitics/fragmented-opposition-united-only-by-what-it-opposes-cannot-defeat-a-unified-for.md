@@ -51,16 +51,16 @@ stance: >-
   goals fragment when they need to coordinate, because they agree on what to
   destroy but not what to build.
 related:
-  - INS-260326-1E52
   - INS-260327-37E3
   - INS-260327-157B
   - INS-260327-8DAA
   - INS-260327-3F8B
   - INS-260327-A75C
   - INS-260327-191B
-  - INS-260330-F158
+  - PRI-260405-C47B
   - INS-260327-33EA
   - INS-260327-3D0F
+  - INS-260327-5DD7
 evidence:
   - id: INS-260330-F8A2
     type: SUPPORTS

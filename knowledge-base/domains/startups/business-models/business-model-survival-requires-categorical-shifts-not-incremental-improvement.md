@@ -47,16 +47,16 @@ stance: >-
   fundamentally different business model type, not by optimizing within their
   existing one.
 related:
-  - INS-260323-62F3
   - PRI-260324-A608
+  - INS-260327-D285
   - INS-260329-9A8B
+  - INS-260330-D801
   - INS-260403-9AB5
   - INS-260403-7E18
   - INS-260403-C3A3
   - INS-260403-6342
   - INS-260403-E25F
   - INS-260403-97F5
-  - INS-260403-F590
 evidence:
   - id: INS-260323-62F3
     type: TRANSFERS_TO

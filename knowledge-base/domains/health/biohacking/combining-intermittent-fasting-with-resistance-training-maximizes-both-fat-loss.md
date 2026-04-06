@@ -39,14 +39,16 @@ stance: >-
   leverages elevated growth hormone and fat oxidation during the fast while the
   training stimulus preserves and builds muscle
 related:
+  - INS-260327-5833
   - PRI-260328-024A
   - INS-260330-A33F
   - INS-260330-45D9
-  - INS-260327-0931
   - INS-260330-1078
+  - INS-260330-6377
   - INS-260327-DB76
   - INS-260330-6C59
-  - INS-260330-6377
+  - INS-260330-9449
+  - INS-260330-18EE
 evidence:
   - id: INS-260327-5833
     type: CHALLENGES

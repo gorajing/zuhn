@@ -56,12 +56,11 @@ stance: >-
   preparation — rather than on the pharmacological properties of the substance
   itself.
 related:
-  - INS-260330-2C6A
-  - INS-260330-A5B0
   - INS-260330-81B1
   - INS-260330-7C42
-  - INS-260330-EE16
   - INS-260330-887A
+  - INS-260330-53F7
+  - PRI-260328-F804
 evidence:
   - id: INS-260330-2C6A
     type: EXTENDS

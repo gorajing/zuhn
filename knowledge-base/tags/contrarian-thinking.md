@@ -1,9 +1,9 @@
 # Tag: contrarian-thinking
 
+- `INS-260403-99FE` When established players consistently make irrational decisions, the resulting gap is a reliable signal of untapped opportunity.
+- `INS-260403-B6FD` False popular beliefs suppress exploration of nearby true ideas, creating predictable regions where novel insights cluster.
 - `INS-260402-8ACF` Truly novel and valuable ideas must appear bad to most evaluators, because obvious good ideas get executed immediately and stop being novel.
 - `INS-260330-31B5` If you're drawn to work despite its lack of prestige, that's evidence both of genuine interest and of untapped opportunity.
-- `INS-260403-B6FD` False popular beliefs suppress exploration of nearby true ideas, creating predictable regions where novel insights cluster.
-- `INS-260403-99FE` When established players consistently make irrational decisions, the resulting gap is a reliable signal of untapped opportunity.
 - `INS-260323-7345` Bohr's social authority caused the physics community to dismiss the EPR paradox for 30 years — not because he refuted it, but because his response was so obscure nobody dared challenge it, and anyone who did was told 'Do you think you're smarter than Niels Bohr?'
 - `INS-260323-0556` Black holes were resisted for decades because they seemed 'too preposterous to be real,' with senior scientists publicly attacking younger ones for following the math.
 - `INS-260330-548E` Rubin identifies owning your aesthetic feelings in the face of external disagreement as 'probably the single most important thing to practice as an artist.'
@@ -12,8 +12,6 @@
 - `INS-260329-AAE3` You can be right 99% of the time that individual attempts will fail, but being 100% wrong on the long-term outcome because one of them would have worked if you kept going.
 - `INS-260327-7F11` The biggest wins come from holding ideas that smart people call stupid—expert consensus is where the alpha is.
 - `INS-260330-66A0` The best startup ideas look bad initially because good-sounding ones attract too many competitors, preventing monopoly formation.
-- `INS-260404-9823` In startups, the best ideas initially seem bad because obviously good ones are already taken — founders need imagination to find the sweet spot of productive craziness.
-- `INS-260330-7819` Pursue ideas that sound bad to others but you have specific reasons to believe are right — the apparent badness keeps competitors away.
 - `INS-260330-4EF8` A contrarian idea is only valuable if you can name what you know that smart, informed skeptics don't — otherwise you're just wrong.
 - `INS-260330-0E49` Contrarian conviction must be grounded in a specific knowledge advantage over smart critics, not just general disagreement.
 - `INS-260321-3660` Making startup decisions based on VC podcasts and content is literally the definition of generating non-unique ideas.

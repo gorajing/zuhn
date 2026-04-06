@@ -44,11 +44,12 @@ stance: >-
   market signals.
 related:
   - INS-260330-1622
+  - INS-260403-8B13
   - INS-260403-3E9A
   - INS-260403-61A1
-  - INS-260403-8B13
   - INS-260403-61ED
   - INS-260403-E8DD
+  - INS-260405-F7FA
 evidence:
   - id: INS-260403-3E9A
     type: CHALLENGES

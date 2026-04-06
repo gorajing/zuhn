@@ -47,10 +47,10 @@ stance: >-
   more, not mass-market low-ticket sales
 related:
   - INS-260322-D5EB
-  - INS-260330-E61E
   - INS-260330-C391
   - INS-260329-7B15
   - INS-260327-0E57
+  - INS-260330-F0F2
 evidence:
   - id: INS-260329-7B15
     type: TRANSFERS_TO

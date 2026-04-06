@@ -48,10 +48,10 @@ resolutions:
     the position.
 related:
   - PRI-260403-E097
+  - PRI-260405-5912
   - INS-260403-87AC
   - INS-260403-EC8A
   - INS-260402-FFB2
-  - INS-260323-D621
   - INS-260327-0D0B
   - INS-260403-3518
 stance: >-

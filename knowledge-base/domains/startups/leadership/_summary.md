@@ -1,6 +1,6 @@
 # Topic: leadership
 
-> 170 insights
+> 164 insights
 
 - `INS-260404-F834` [high] Replace abstract culture complaints with specific behavioral stories backed by evidence to surface real, fixable problems.
 - `INS-260330-4A89` [high] Raises given on request incentivize lobbying over performance; formal evaluation cycles protect meritocratic culture.
@@ -36,7 +36,6 @@
 - `INS-260330-4A1F` [high] Rockefeller's personal investments were deep in the red until he hired Frederick Gates (a Baptist minister), who transformed his portfolio and whom Rockefeller later called the greatest businessman he'd ever met.
 - `INS-260330-14CA` [high] Delegate fully when consequences are low and your conviction is low; override only when consequences are catastrophic and your conviction is high.
 - `INS-260330-A9CB` [high] Demoting an executive preserves their above-market equity while stripping their authority, creating resentment from peers who earn less for doing more.
-- `INS-260330-D5FB` [high] Keeping a demoted executive preserves their above-grade equity while signaling that effort without results is enough to maintain senior compensation.
 - `INS-260327-3788` [high] Solomon credits being forced to rotate from credit trading to equity capital markets as essential preparation for the CEO role he never explicitly targeted.
 - `INS-260327-8521` [high] Bret Taylor learned as Facebook CTO to stop conforming the job to his strengths and instead identify the most important thing each day, even if uncomfortable, creating a virtuous cycle of broader impact and greater joy.
 - `INS-260323-46B2` [high] The perceived tension between empathy and assertiveness is a sequencing illusion — empathy first puts you in position to assert effectively.
@@ -53,7 +52,6 @@
 - `INS-260323-BC20` [high] The true measure of a leader is the quality of decisions they make on ordinary days, not how they perform in dramatic crises.
 - `INS-260323-4DF1` [high] Feeling uncomfortable in a role signals growth opportunity, not inadequacy — systematically seek discomfort rather than avoiding it.
 - `INS-260330-EF51` [high] The only escape from hero mode is accepting a temporary dip in performance to invest in hiring and delegation.
-- `INS-260330-4CA7` [high] Hero mode — working 18+ hours to avoid hiring — feels like dedication but is actually a growth ceiling that only breaks by accepting temporary regression to build capacity.
 - `INS-260330-625B` [high] Hero mode — working 18+ hour days to lead by example — prevents managers from stepping back to hire, creating an escalating trap that ends in burnout.
 - `INS-260322-DAF2` [high] In rapidly changing environments, people who resist change create a hidden 'persuasion cost' that drains the leader's energy every time direction shifts.
 - `INS-260323-3C7B` [high] Prioritize curiosity and learning velocity over domain expertise when hiring, especially in fast-changing industries.
@@ -72,7 +70,6 @@
 - `INS-260323-FDC1` [high] Carlson initially tried to control his Putin interview, then realized that letting the subject talk freely -- even when it seemed like filibustering -- produced far more revealing and significant information than aggressive questioning would have.
 - `INS-260330-1FA8` [high] When loyalty to a leader becomes the primary selection criterion, fear-based compliance replaces principled dissent and degrades institutional quality.
 - `INS-260330-85B8` [high] Genghis Khan's merit-based promotion system was a core innovation enabling the Mongols to build history's largest contiguous empire.
-- `INS-260330-58B9` [high] Genghis Khan built loyalty by promoting on merit and elevating the conquered peasantry while stripping power from incumbent elites.
 - `INS-260322-047D` [high] Setting the next milestone (transaction volume target, operating profit threshold) instead of fixating on the ultimate exit/IPO prevents the marathon-with-no-end-in-sight feeling that exhausts founders.
 - `INS-260329-5306` [high] Organization-wide quiet days eliminate the social penalty makers face when declining meetings, creating protected maker time at scale.
 - `INS-260330-04C0` [high] Never attribute to conspiracy what can be explained by incompetence—executing complex lies exceeds most organizations' actual competency.
@@ -115,7 +112,6 @@
 - `INS-260323-9146` [high] Finding a co-founder is as serious as choosing a spouse — the 'airport test' (who would you rather be stranded with for 48 hours) matters more than skills on paper.
 - `INS-260402-D2C9` [high] You cannot manage a process intended to produce beautiful things without knowing what beautiful is — taste is a prerequisite for quality leadership.
 - `INS-260325-6F89` [high] The founder's job changes every 12-18 months — most fail because they keep using skills that worked at the previous stage.
-- `INS-260330-654D` [high] The Mandate of Heaven principle — that rulers lose legitimacy when they stop delivering — maps directly to how founders and CEOs lose authority.
 - `INS-260330-DB4B` [high] When something important lands on your desk, saying 'I need to think this through from all perspectives' produces better outcomes than the instinct to demonstrate decisiveness.
 - `INS-260323-1176` [high] When Ignacio told Rosolie 'you'd be an idiot to leave right now,' the decision to stay produced the historic first-contact encounter -- leaders must create space for trusted operators to override the plan.
 - `INS-260329-5975` [high] Teaching someone to program transforms their identity from passive consumer to active creator, which is more valuable than any specific technical skill.
@@ -146,7 +142,6 @@
 - `INS-260330-8156` [medium] In-N-Out survived six leadership transitions over 70 years — beating the odds where two-thirds of family businesses fail at the second generation.
 - `INS-260403-8B5A` [medium] Founder-led deep involvement beats the conventional 'hire and delegate' playbook at scale.
 - `INS-260323-FBD9` [medium] Leading an MMO guild of 30+ anonymous players with mixed motivations (loot-seekers, lonely escapists, competitive achievers) teaches real leadership — motivation, discipline, coordination — in a high-stakes emotional environment.
-- `INS-260330-35E2` [medium] Toussaint L'Ouverture made conquered French and Spanish generals into leaders of his army because he needed their expertise to build a world-class organization, not just a victorious one.
 - `INS-260330-E0A9` [medium] Toussaint L'Ouverture made conquered European generals into his own officers because he prioritized upgrading his army's culture over satisfying his soldiers' desire for revenge.
 - `INS-260330-4AAD` [medium] Toussaint L'Ouverture made conquered enemy generals into his own generals because he valued cultural elevation over revenge.
 - `INS-260329-4F3F` [medium] When everyone knows the numbers, you spend less time convincing them why the new priority matters.
@@ -162,7 +157,6 @@
 - `INS-260327-B7FC` [medium] When Rajat saw his early team members were willing to die for the company, he knew he had built something real — their dedication became his motivation.
 - `INS-260403-4760` [medium] Stay a programmer in flat startup structures rather than climbing corporate ladders that force you into management you'll do poorly.
 - `INS-260404-8520` [medium] Innovation leadership requires a dedicated C-level role because the CEO's optimization mindset conflicts with the exploration mindset needed for new ventures.
-- `INS-260405-6DC4` [medium] Osterwalder proposes a 'Chief Entrepreneur' role to own the invention space — separating the search function from the execute function at the C-suite level.
 - `INS-260403-9FE2` [medium] A Chief Entrepreneur needs C-suite level power and prestige to protect innovation from the execution engine's organizational antibodies.
 - `INS-260330-7675` [medium] Because Singapore's opposition is so disadvantaged, voters 'grade them on a curve' — the PAP could actually gain support by making elections fair, since voters would then judge alternatives on their actual merits.
 - `INS-260404-266F` [medium] The Culture Map's four-layer decomposition (outcomes, behaviors, enablers, blockers) makes culture systematically designable rather than abstractly aspirational.

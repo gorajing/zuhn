@@ -53,11 +53,11 @@ stance: >-
   gatekeeping ideas upfront or letting projects run indefinitely without
   validation.
 related:
-  - INS-260405-66A1
   - INS-260403-D8C1
   - INS-260329-F7F4
   - INS-260403-566D
   - INS-260325-8A61
+  - INS-260323-4AB5
 evidence:
   - id: INS-260325-8A61
     type: TRANSFERS_TO

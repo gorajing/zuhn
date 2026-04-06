@@ -44,11 +44,11 @@ resolutions:
 related:
   - INS-260321-A56C
   - INS-260323-7A50
-  - INS-260329-0A55
   - INS-260329-EDA2
   - INS-260402-9676
   - INS-260403-9BBA
   - INS-260327-5F10
+  - INS-260327-7214
   - INS-260403-EF20
 stance: >-
   Natural language interfaces change who can program a robot, not just what it

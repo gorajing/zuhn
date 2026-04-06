@@ -54,6 +54,7 @@ stance: >-
   iterate on what it should do, while with agents you don't even know what it
   does until you observe it running.
 related:
+  - INS-260321-D3BE
   - INS-260325-D540
   - INS-260322-EAB6
   - INS-260325-2DCD
@@ -62,8 +63,7 @@ related:
   - INS-260322-D8C3
   - INS-260330-8F07
   - INS-260403-0350
-  - INS-260325-5F3B
-  - INS-260327-9D50
+  - PRI-260328-8317
 evidence:
   - id: INS-260327-B9BB
     type: CONTRADICTS

@@ -47,11 +47,11 @@ stance: >-
   what happens to a small set of basis cases — you do not need to test every
   possible input.
 related:
-  - INS-260323-2785
   - INS-260330-3B6C
   - INS-260330-AA4F
   - INS-260330-DF2C
   - INS-260330-B50A
+  - INS-260404-8908
 evidence:
   - id: INS-260330-3B6C
     type: TRANSFERS_TO

@@ -1,16 +1,13 @@
 # Topic: system-building
 
-> 170 insights
+> 155 insights
 
 - `INS-260329-4F8C` [high] Abstract data types define behavior contracts while data structures provide specific implementations, and this separation is the root of all software modularity.
 - `INS-260329-A93C` [high] Naming a block of code and hiding its implementation is the fundamental act that makes software complexity manageable.
 - `INS-260329-E015` [high] Every programming construct — functions, classes, libraries, APIs — is the same abstraction operation applied at different scales.
-- `INS-260329-5C25` [high] Programming mastery is not syntax fluency but knowing when and how to create the right abstraction.
-- `INS-260330-E6BB` [high] Abstraction layers — not simplification — are what let humans build on billion-transistor systems.
 - `INS-260329-A461` [high] Programming languages, functions, and libraries all exist as abstraction layers that hide complexity, and choosing the right abstraction level is the core system design skill.
 - `INS-260323-2E51` [high] Peter Steinberger runs 4-10 parallel Claude Code agents simultaneously, rarely uses an IDE, and explicitly doesn't read 'boring' code (data transformation, UI alignment) — focusing review only on critical paths like database interactions.
 - `INS-260329-EF14` [high] Dynamic array append appears O(n) in worst case due to resizing, but amortized analysis shows it's O(1) because the expensive resizing happens so rarely that its cost spreads across all previous cheap appends.
-- `INS-260329-8181` [high] Evaluate data structures by amortized cost across operation sequences, not just worst-case single operations.
 - `INS-260329-425B` [high] Dynamic arrays double in size when full, making each individual resize expensive but amortizing the cost across all appends to achieve constant time on average.
 - `INS-260329-8F98` [high] Always version APIs explicitly (e.g., /v1/products, /v2/products) rather than modifying existing endpoints, so old clients continue working while new clients get new features.
 - `INS-260330-E059` [high] 300 rotating arrows, each performing the simplest possible motion (constant-rate rotation), compose to trace any arbitrary shape — a principle that extends to neural networks and modular system design.
@@ -23,20 +20,16 @@
 - `INS-260330-4267` [high] A simple sigmoid-based prior over word frequencies improved the Wordle solver from 4.1 to 3.6 average — a bigger gain than algorithmic sophistication alone.
 - `INS-260402-7A1A` [high] Probabilities have clear semantics for combining evidence; arbitrary scores do not, making probabilistic systems more principled and debuggable.
 - `INS-260329-6A60` [high] Python is AI's interface language, but C++ is its execution language — the performance-critical layer underneath every major framework.
-- `INS-260329-5DB9` [high] The CAP theorem proves distributed systems can only guarantee two of three properties: consistency, availability, and partition tolerance.
 - `INS-260329-B408` [high] The course author's core claim from experience at Google is that excellent programmers are distinguished primarily by knowing when to use which data structure, not by raw coding speed or algorithm knowledge.
 - `INS-260330-43E3` [high] Closures preserve outer scope variables on the heap after function return, providing encapsulation without class machinery but requiring awareness of memory implications.
-- `INS-260330-AB58` [high] Justinian's legal codification outlived the Byzantine Empire by centuries and became the foundation of European law — proving that structured knowledge systems are more durable than the institutions that create them.
 - `INS-260320-4A82` [high] Commit output specs to git so future agents and engineers see what was done, what failed, and what decisions were made.
 - `INS-260329-9157` [high] Python's class system with properties and raise statements demonstrates how design-time constraints prevent entire categories of bugs that runtime checks would miss.
-- `INS-260329-A8D3` [high] Combining a hash table with a binary heap improves node removal from O(n) to O(log n) — a pattern that generalizes across all system design.
 - `INS-260329-2FB8` [high] Composite primary keys (like employee_id + client_id in a Works_With table) enforce domain constraints at the database level that surrogate keys silently abandon.
 - `INS-260329-34EE` [high] Junction tables with composite keys naturally prevent duplicate relationships and encode the semantics of entity interactions.
 - `INS-260329-8233` [high] When two entities have a many-to-many relationship, a junction table with a composite key of both foreign keys is the only correct way to model it.
 - `INS-260329-FAE2` [high] Layer simple, well-understood data structures together rather than inventing clever one-off solutions.
 - `INS-260329-A171` [high] Suffix arrays replaced suffix trees by storing only sorted indices instead of full tree structures, recovering equivalent power through the LCP auxiliary array.
 - `INS-260320-47FA` [high] MASTER_INDEX to domain overview to topic summary to individual insight — answering "what do I know about X?" requires reading roughly 4 files regardless of total insight count.
-- `INS-260329-FEF4` [high] Computational thinking — decomposition, pattern recognition, abstraction, algorithms — is a general reasoning toolkit that transfers across all domains.
 - `INS-260325-2CC7` [high] Computing originated as an industrial problem — how to process astronomical and navigational data at scale with minimum cost — not as a theoretical exercise.
 - `INS-260330-3EFC` [high] Single-threaded event loops can handle thousands of concurrent operations by pausing and resuming work rather than running in parallel.
 - `INS-260329-F688` [high] Constructors that require essential data prevent invalid object states that cause downstream bugs.
@@ -56,7 +49,6 @@
 - `INS-260325-FDA9` [high] Babbage's Rule — that two people doing the same calculation the same way tend to make the same mistakes — drove computing to prioritize verification methods over raw calculation speed.
 - `INS-260329-3FC9` [high] Try-except forces you to explicitly enumerate what can go wrong, transforming crashes into controlled responses — the foundation of production-grade software.
 - `INS-260329-7255` [high] Almost every performance optimization in computing trades memory for speed or speed for memory — recognizing which tradeoff you're making is the key architectural skill.
-- `INS-260329-35F2` [high] Demonstrating program crashes from bad input before introducing try-catch makes error handling feel necessary rather than ceremonial.
 - `INS-260329-72E0` [high] Specific exception catches force explicit failure mode enumeration, producing more robust error handling than generic catch-alls.
 - `INS-260329-9010` [high] Exception handling transforms uncontrolled crashes into controlled recovery paths, maintaining system stability when errors inevitably occur.
 - `INS-260329-3441` [high] Wrap specific risky operations in try-catch, not entire programs — granular error handling enables recovery, catch-all handlers just hide bugs.
@@ -65,7 +57,6 @@
 - `INS-260329-6286` [high] Circular foreign key references between tables force a multi-step insertion pattern: insert with NULLs first, create the referenced row, then update back.
 - `INS-260329-67CB` [high] Database constraints like foreign keys, NOT NULL, and ON DELETE CASCADE enforce business rules at the lowest shared layer, preventing corrupt data regardless of which application writes to the database.
 - `INS-260329-BE72` [high] Foreign keys transform isolated tables into a connected information graph, enabling relationship queries that no single table could answer.
-- `INS-260329-EEA2` [high] Foreign keys move relationship enforcement from application code to the database layer where it cannot be bypassed.
 - `INS-260329-1277` [high] Foreign keys encode domain relationships that raw data cannot express, making explicit relationship declaration essential for system integrity.
 - `INS-260329-0154` [high] Testing frequently during development limits the search space for bugs to only the code changed since the last successful run.
 - `INS-260323-1F27` [high] Galaxies grow hierarchically — larger ones absorb smaller neighbors — and the evidence of those acquisitions persists in the chemistry and position of ancient stars at the galaxy's outskirts.
@@ -83,7 +74,6 @@
 - `INS-260329-C1A4` [high] Four-layer caching (browser, server-side, database, CDN) with appropriate write policies at each level compounds latency reductions far beyond any single cache.
 - `INS-260329-F887` [high] Load balancers distribute traffic but become single points of failure — always deploy in redundant pairs with automatic failover.
 - `INS-260329-C991` [high] HFT pipelines use lock-free event queues because thread locking introduces unpredictable latency spikes that ruin trade timing.
-- `INS-260329-B922` [high] Understanding pointer ownership, memory leaks from lost references, and explicit deallocation builds mental models for any resource lifecycle — connections, file handles, GPU memory, API rate limits.
 - `INS-260323-2FC3` [high] The Aharonov-Bohm effect proved that potentials (once dismissed as mere mathematical shortcuts) directly influence physical reality — a reminder that abstractions can be more fundamental than the concrete phenomena derived from them.
 - `INS-260330-F5A1` [high] Store the result of expensive computations and reuse them instead of recomputing from scratch.
 - `INS-260329-6D6C` [high] When you find yourself writing the same logic twice, extract it into a method with parameters — this is the most impactful refactoring pattern.
@@ -99,11 +89,9 @@
 - `INS-260320-4773` [high] Run all backend microservices via PM2 so Claude can read individual service logs in real-time without manual copy-pasting.
 - `INS-260329-3243` [high] HFT systems run automated pre-trade risk checks in microseconds — blocking bad orders before they hit exchanges without slowing the pipeline.
 - `INS-260330-4E68` [high] Default to restrictive permissions and explicitly grant access only when needed — chmod 777 is a red flag in any system.
-- `INS-260329-8330` [high] Progressive mini-projects that layer new concepts onto familiar ones create the most effective programming learning paths.
 - `INS-260330-AC7F` [high] CPU protection rings enforce that user-space code cannot directly access kernel resources without explicit system calls.
 - `INS-260329-12D1` [high] Python's readable syntax made it the gateway language for non-CS practitioners entering AI/ML, creating a self-reinforcing ecosystem effect.
 - `INS-260329-CF48` [high] Python's for-loop-over-file-handle pattern unifies local files, network resources, and databases into a single iteration abstraction that other languages require separate paradigms to handle.
-- `INS-260329-C375` [high] HFT firms treat latency dashboards and real-time alerts as competitive infrastructure, not optional observability tooling.
 - `INS-260330-B153` [high] Score translation quality without reference translations by training a separate quality estimation model on human error judgments
 - `INS-260323-22E8` [high] A single-pixel LIDAR sensor achieves trillion-FPS video by scanning one point at a time, relying on the scene replaying identically each time.
 - `INS-260330-3B0B` [high] Rust's borrow checker shows that encoding safety rules as compile-time constraints eliminates memory bugs more effectively than garbage collection or manual discipline.
@@ -127,7 +115,6 @@
 - `INS-260320-26B1` [high] Use SuperWhisper for voice-to-text prompting when your hands are tired from typing all day.
 - `INS-260323-A8B5` [high] Jia Tan did not hack XZ — he spent years building trust with the maintainer, then weaponized that trust to insert a backdoor.
 - `INS-260329-D297` [high] Using arbitrary surrogate keys rather than business-meaningful natural keys as primary keys prevents breakage when business rules change.
-- `INS-260329-36DA` [high] Surrogate keys insulate your schema from real-world identifier instability by creating a stable internal reference layer.
 - `INS-260323-813B` [high] The key to making knowledge computable is finding symbolic representations that match how humans conceptualize things while remaining formally manipulable by machines.
 - `INS-260330-EC22` [high] Real-world workflow tests reveal performance truths that synthetic benchmarks systematically miss due to component-level measurement bias.
 - `INS-260323-1811` [high] Minecraft shows five distinct degradation zones before total failure — from buggy terrain to stretched blocks to void to infinity — demonstrating how systems fail gradually through observable stages before hitting hard limits.
@@ -156,7 +143,6 @@
 - `INS-260320-4BA8` [medium] Keep spec templates simple — if too heavy, people skip them. Automate file creation and periodically revisit findings for tech debt.
 - `INS-260323-D8B9` [medium] Hamkins' mathematical multiverse view holds that different foundational axiom systems (ZFC, ZFC + large cardinals, constructive math) produce genuinely different mathematical universes -- there is no single 'true' foundation.
 - `INS-260329-075C` [medium] OOP's core pattern — encapsulated state + behavior composed into hierarchies — is the same pattern that makes multi-agent AI systems work.
-- `INS-260329-D75D` [medium] Progressive project sequences teach concepts in context, producing better retention than abstract-first approaches.
 - `INS-260329-0F39` [medium] Pseudocode separates the 'what to do' from 'how to express it,' reducing cognitive load — the same mechanism that makes chain-of-thought prompting effective for LLMs.
 - `INS-260327-0875` [medium] A robot that can build copies of itself from its own parts enables exponential manufacturing capacity - exactly how ribosomes build elephants one molecule at a time.
 - `INS-260320-D4BD` [medium] New engineers hit the ground running with clear specs defining both what to build and what has already been done.
@@ -166,7 +152,6 @@
 - `INS-260329-1610` [medium] Static attributes reveal that classes are first-class entities with their own state, not merely blueprints for objects.
 - `INS-260329-7914` [medium] JavaScript strings being immutable (you must replace the whole string, not modify individual characters) demonstrates how immutability eliminates entire categories of bugs.
 - `INS-260329-C7BF` [medium] Switch statements introduce the powerful concept of mapping values to behaviors, which generalizes to dispatch tables, strategy patterns, and event handlers.
-- `INS-260327-03CF` [medium] Gershenfeld learned 'the secret of life' at the boundary between bits and atoms - because life itself is the original digital-physical hybrid system.
 - `INS-260329-CF16` [medium] SQL triggers execute automatically and atomically when data changes, making them reliable for maintaining derived tables, audit logs, and cross-table consistency.
 - `INS-260327-F232` [medium] Gershenfeld argues Turing and von Neumann made a fundamental mistake by separating software from hardware - biology computes with its physical structure, not with programs running on it.
 - `INS-260330-77E2` [medium] Two-step lookahead improved Wordle solving from 3.6 to 3.43 — significant but diminishing returns over greedy one-step.

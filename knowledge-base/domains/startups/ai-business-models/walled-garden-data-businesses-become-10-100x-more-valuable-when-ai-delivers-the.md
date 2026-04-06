@@ -48,14 +48,13 @@ resolutions:
     makes it economically viable to deliver a $1,000 finished product from data
     that previously only supported a $2/month subscription.
 related:
+  - PRI-260405-BFAC
   - INS-260403-F62E
   - INS-260322-7282
   - INS-260403-599B
   - INS-260327-EA4E
-  - INS-260403-5D89
   - INS-260329-8DDF
   - INS-260330-F512
-  - INS-260330-ACE7
   - INS-260404-396E
   - INS-260405-FE86
 stance: >-

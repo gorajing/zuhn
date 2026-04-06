@@ -54,13 +54,12 @@ stance: >-
   capacity, and the inflection point marks the shift from acceleration to
   deceleration.
 related:
-  - INS-260330-FE65
   - INS-260330-FF5B
   - INS-260330-1C84
-  - INS-260330-AE66
   - INS-260330-ED8A
   - PRI-260403-CD44
   - INS-260330-C499
+  - INS-260330-8817
   - INS-260402-4BC7
 evidence:
   - id: INS-260330-FE65

@@ -50,15 +50,15 @@ stance: >-
   ideas from personal experience are systematically better
 related:
   - INS-260320-E044
+  - INS-260323-C4E2
   - INS-260321-3660
   - INS-260323-09E4
   - INS-260327-FCCF
   - INS-260327-CD36
   - PRI-260328-59DC
   - INS-260329-4DBC
-  - INS-260329-9513
   - PRI-260403-3906
-  - INS-260404-9823
+  - INS-260403-C610
 evidence:
   - id: INS-260403-2822
     type: SUPPORTS

@@ -53,12 +53,11 @@ stance: >-
   opportunity, and breaking this cycle by pushing through the valley is the
   primary differentiator between success and perpetual poverty.
 related:
-  - INS-260329-D1B8
-  - INS-260404-9823
   - INS-260402-E36A
   - INS-260403-472E
   - PRI-260323-2C5C
-  - INS-260329-7F70
+  - INS-260325-BE8A
+  - PRI-260323-1B96
 evidence:
   - id: INS-260329-7F70
     type: TRANSFERS_TO

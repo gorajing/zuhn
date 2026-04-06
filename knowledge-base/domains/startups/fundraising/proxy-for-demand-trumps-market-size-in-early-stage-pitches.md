@@ -47,10 +47,11 @@ stance: >-
   size figure.
 related:
   - INS-260403-DC32
-  - INS-260403-8C50
-  - INS-260403-0F5C
+  - INS-260403-EA2D
   - INS-260405-E7FB
   - INS-260404-B31C
+  - INS-260404-61DA
+  - INS-260404-A246
 evidence:
   - id: INS-260403-3421
     type: SUPPORTS

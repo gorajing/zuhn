@@ -12,7 +12,6 @@
 - `INS-260322-BD0D` You can't market a company without a character, but the character must be real and sustainable — manufactured personas always collapse over time.
 - `INS-260323-D6F2` Rella never runs ads on content created specifically for ads — they only boost posts that already performed well organically, using the algorithm as a free testing ground.
 - `INS-260403-DEF6` PR works like SEO for news — you get placed inside trusted editorial content rather than buying ignorable ads.
-- `INS-260330-4AB1` Treat press like a sales funnel: get warm intros from recently-covered founders to reporters, pitch with memorized bullet points, and follow up with collateral before launch.
 - `INS-260329-7B56` Reviews that mention real downsides before praising outcomes are more believable and convert better than pure five-star praise.
 - `INS-260329-4A69` Invest in capturing and displaying proof rather than crafting elaborate promises — proof is always more compelling.
 - `INS-260322-8299` The correct sequence is pricing optimization -> freed cash flow -> attribution tracking -> paid ads -> content/thought leadership, not the reverse.

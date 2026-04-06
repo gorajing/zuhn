@@ -40,7 +40,6 @@ stance: >-
   typically unaddressed hepatic insulin resistance, cortisol-driven
   gluconeogenesis, fatty liver disease, and hidden dietary carbohydrate sources
 related:
-  - INS-260327-A867
   - INS-260327-FC60
   - PRI-260325-9258
   - PRI-260328-7AF5

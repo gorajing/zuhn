@@ -4,4 +4,3 @@
 - `INS-260325-AA15` Age spots indicate liver congestion not normal aging — they fade when liver detoxification function is restored.
 - `INS-260327-2D68` Liver dysfunction presents with specific visible signs including right shoulder pain, spider angiomas, and itchy skin
 - `INS-260325-6360` High-carb breakfasts force the liver to convert fructose to fat first thing in the morning, driving fatty liver disease.
-- `INS-260327-AF60` Starting mornings with juice, cereal, or coffee on empty stomach spikes insulin and stresses the liver

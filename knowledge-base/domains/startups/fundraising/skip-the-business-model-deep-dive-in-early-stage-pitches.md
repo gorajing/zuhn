@@ -49,11 +49,11 @@ stance: >-
   investors who already expect it to be wrong
 related:
   - INS-260330-D801
-  - INS-260403-2E90
-  - INS-260405-092A
-  - INS-260405-D6B9
-  - INS-260403-A172
+  - INS-260403-C695
   - INS-260404-16E1
+  - INS-260404-E36F
+  - INS-260405-092A
+  - PRI-260405-2A11
   - INS-260405-180B
 ---
 A top-tier VC Paul Graham quotes explicitly said a company he just invested in had a business model that would probably change three times. He invested anyway. This is the norm, not the exception. Investors at the seed stage are betting on the problem and the founders, not the revenue model.

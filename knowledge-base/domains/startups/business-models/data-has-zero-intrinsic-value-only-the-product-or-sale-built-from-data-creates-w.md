@@ -53,10 +53,11 @@ stance: >-
   user-facing product value or direct revenue is strategically worthless despite
   widespread belief otherwise.
 related:
+  - INS-260320-703F
   - INS-260327-4434
   - INS-260327-EA4E
+  - PRI-260405-BFAC
   - PRI-260328-B2EA
-  - INS-260404-2B4C
   - INS-260328-195E
   - INS-260403-E688
 evidence:

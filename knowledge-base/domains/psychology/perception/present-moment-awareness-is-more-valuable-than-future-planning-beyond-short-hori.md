@@ -47,11 +47,11 @@ stance: >-
   produces better outcomes than detailed long-term planning.
 related:
   - INS-260327-FD99
-  - INS-260325-75C5
   - PRI-260328-39FA
   - PRI-260403-EA13
   - INS-260405-690F
   - INS-260405-D23E
+  - INS-260323-4D4E
   - INS-260329-8DDF
 evidence:
   - id: INS-260329-8DDF

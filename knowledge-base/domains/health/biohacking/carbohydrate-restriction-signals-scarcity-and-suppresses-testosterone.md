@@ -48,7 +48,6 @@ stance: >-
   body, suppressing testosterone production even when calories are sufficient
 related:
   - INS-260325-5A7C
-  - INS-260325-EDE1
   - INS-260327-E092
   - INS-260327-13A9
   - INS-260327-4FFA
@@ -56,7 +55,6 @@ related:
   - INS-260327-C010
   - INS-260327-E6BC
   - INS-260327-6916
-  - INS-260330-FCB7
 evidence:
   - id: INS-260330-FCB7
     type: SUPPORTS

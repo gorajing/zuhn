@@ -51,8 +51,8 @@ related:
   - INS-260330-D5CD
   - INS-260327-E0B0
   - INS-260329-C56D
-  - INS-260329-F007
   - INS-260330-FC4D
+  - INS-260329-9A7F
 stance: A Bali-based cybersecurity consultant now works 30 minutes per day
 evidence:
   - id: INS-260329-C56D

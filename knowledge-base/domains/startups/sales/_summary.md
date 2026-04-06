@@ -1,8 +1,7 @@
 # Topic: sales
 
-> 176 insights
+> 165 insights
 
-- `INS-260329-913C` [high] Reach out to 100 people per day from your existing network — at standard conversion rates, this reliably produces your first paying customers within days.
 - `INS-260329-7B47` [high] Send 100 personalized outreach messages daily using a compliment-plus-positioning formula to guarantee your first five customers through pure volume.
 - `INS-260327-1B7C` [high] Data from MEDDIC CRM software shows over 80% of won deals had economic buyer engagement while 80% of lost deals lacked it — the correlation is overwhelming.
 - `INS-260329-21AF` [high] Lock in the price first, then negotiate favorable terms like seller financing and extended payment schedules as a separate conversation.
@@ -25,12 +24,9 @@
 - `INS-260330-B8C5` [high] Instead of free trials, offer annual agreements with a 30-60 day opt-out clause to get real commitment while giving prospects comfort.
 - `INS-260329-3609` [high] Hot streaks end not because salespeople forget how to sell, but because they stop believing in what they're selling.
 - `INS-260329-2B04` [high] Deep conviction in what you sell transfers more powerfully than any closing technique because prospects can sense authenticity and it makes the seller immune to rejection streaks.
-- `INS-260327-52C1` [high] Sales is passing conviction from one person to another -- a convicted salesperson naturally sounds right, while even perfect technique rings hollow without genuine belief.
-- `INS-260329-4A96` [high] Instead of training salespeople on tonal techniques, build their genuine conviction in the product — correct tone follows automatically.
 - `INS-260327-D7AA` [high] Each customer success story unlocks an industry vertical — OpenAI's Moderna partnership unlocked life sciences credibility, and Morgan Stanley unlocked financial services, because prospects want proof rather than promise.
 - `INS-260329-C56D` [high] Invest 60 minutes daily in structured sales training: 25min script reading aloud, 5min objection drilling, and 30min recorded call review.
 - `INS-260329-95EA` [high] Leading with a real negative before a positive ('but') makes the positive far more convincing because it signals honesty.
-- `INS-260329-1621` [high] Structure sales arguments as negative admission + 'but' + positive claim to amplify believability.
 - `INS-260327-8115` [high] Plunge waterfalls require patient field marketing and multi-touch attribution; slide waterfalls are dangerous without renewal/CS infrastructure; cascade waterfalls enable land-and-expand but need product management and cross-functional selling.
 - `INS-260327-5DD2` [high] When deal sizes exceed $10K, customers require human interaction to build trust before purchasing.
 - `INS-260327-6AA0` [high] Decision criteria isn't one thing — it's three: technical (features, integrations, security), economic (ROI, resources to implement, priority ranking), and relationship (partnership fit, industry strength, roadmap) — and each stakeholder weights these differently.
@@ -62,14 +58,12 @@
 - `INS-260329-1A3B` [high] If prospects reject your free offer, their objections reveal hidden costs that, once eliminated, let you charge premium prices while competitors still impose those costs.
 - `INS-260327-02DF` [high] Horowitz says the best sales hire for Data Bricks came from an unknown public company selling secure FTP — because if you can make your number selling FTP, you have the discipline to sell anything.
 - `INS-260328-7942` [high] A VP of Sales from Google knows how to run a team against an established playbook — they don't know how to create one from scratch.
-- `INS-260329-4C93` [high] For entry-level roles, personalized multi-touch outreach to several people at each company plus in-person follow-up beats any resume optimization.
 - `INS-260329-D1A1` [high] Custom-researched outreach to multiple stakeholders per target company signals the hustle that generic mass applications cannot.
 - `INS-260327-BF43` [high] Your job is to identify each prospect's specific leverage (pain points and motivations), then plug those specific pains into your solution -- never pitch the same way twice.
 - `INS-260327-9AD8` [high] Optimizely closed six-figure deals where customers never ran a single A/B test because they treated implementation as the customer's job -- the fix was project-managing implementation like a high-priority internal project.
 - `INS-260327-E9F3` [high] Pre-schedule your entire conference day in 30-minute increments with prospects — getting the attendee list weeks in advance and emailing everyone turns a conference into the most productive sales day of the year.
 - `INS-260327-9483` [high] When sales hears onboarding calls and CS hears sales calls weekly, expectations align, conviction rises, and the 5-10% of deals that would churn from misaligned expectations are saved.
 - `INS-260330-178D` [high] Treat 'I'd buy if you built X' as a soft rejection — either get them to sign a contract contingent on the feature, or wait until multiple customers request it.
-- `INS-260330-C5FD` [high] Prospects who condition purchase on one more feature rarely convert even after you build it — either get a signed agreement contingent on the feature or wait for multiple customers to request it.
 - `INS-260327-679A` [high] Kate Jensen builds Anthropic's sales culture around data obsession, deliberate experimentation (letting ICs propose and test hypotheses), and vulnerability — celebrating wins while learning quickly from failures.
 - `INS-260329-1DE0` [high] Cut delivery time in half or add priority access to create a premium tier that wealthy buyers prefer over larger promises.
 - `INS-260327-8C1C` [high] Instead of 'I'll walk you through everything in our product,' say 'I've thought through this problem at length and have a very specific perspective on solving it' -- nine out of ten founders miss this and jump straight to features.
@@ -95,7 +89,6 @@
 - `INS-260329-4A69` [high] Invest in capturing and displaying proof rather than crafting elaborate promises — proof is always more compelling.
 - `INS-260329-226C` [high] Prospects trust their own conclusions over a salesperson's claims, so the best closers breadcrumb prospects toward self-discovery rather than making arguments.
 - `INS-260329-CBEB` [high] The CLOSER framework uses sequential questions to let prospects talk themselves into buying rather than being pitched to.
-- `INS-260329-DF36` [high] Structure sales scripts as question sequences rather than paragraph monologues so reps can recover when conversations go off-track.
 - `INS-260327-1787` [high] The speed of feedback is inversely correlated with the number of repetitions needed to learn -- stopping mid-role-play to correct and repeat is far more effective than notes at the end.
 - `INS-260329-2B60` [high] Changing your internal success metric from closing the deal to helping the prospect make any empowered decision removes pressure and paradoxically increases sales.
 - `INS-260329-A6DB` [high] Referrals close easily because the referrer has already solved the trust problem, not because the prospect is more qualified.
@@ -135,13 +128,10 @@
 - `INS-260327-60A0` [high] The best salespeople listen 70% and talk 30% on calls, which is the exact inverse of what most excited founders naturally do.
 - `INS-260327-B6C7` [high] When a prospect gives a vague answer like 'our current tools aren't working,' don't move on -- pick up the breadcrumb: 'Can you dig into what you're using right now and where the gaps are?' This surfaces real buying context.
 - `INS-260327-77FA` [high] The CEO's #1 job is sales—selling to customers, employees, investors, and partners above everything else.
-- `INS-260329-89DA` [high] The CLOSER framework structures sales calls into six repeatable steps that any trained person can execute, making the founder replaceable in sales.
 - `INS-260327-E7FF` [high] The CLOSER framework walks through Clarify why they're here, Label the problem, Overview past pain, Sell the vacation (outcome not process), Explain away concerns, and Reinforce the decision.
-- `INS-260329-4F67` [high] CLOSER (Clarify, Label, Overview past pain, Sell the vacation, Explain away concerns, Reinforce) creates a repeatable sales system that works by expanding the gap between current and desired state.
 - `INS-260327-2E84` [high] Great demos start with recapping the prospect's problem (proving you listened), then show a personalized story of their user solving it -- using their logo, their data, their team names -- with magic moments of delight.
 - `INS-260327-F961` [high] Start every sales conversation by establishing the doctor frame: 'Is it okay if I ask you a few questions to figure out what's going on, so I can make sure I recommend the right thing? Prescribing without diagnosis is malpractice.'
 - `INS-260327-538E` [high] Gatekeepers buy to do the same thing cheaper, business users buy to deliver more for the business, enablers buy to help others be productive, leaders buy for growth — each archetype dictates a completely different sales approach.
-- `INS-260329-C430` [high] 'I'll buy when I have money' inverts causation — the program creates the money, so waiting for money to buy the program is a logical impossibility.
 - `INS-260327-CD77` [high] Start with an aggressively high price—first-time founders chronically underprice out of guilt.
 - `INS-260329-7E63` [high] The best closers don't have better arguments — they ask for the sale more times by using reframing to maintain rapport across repeated asks.
 - `INS-260330-5F35` [high] Elite salespeople let the prospect talk 70% of the time, using questions to understand problems better than the prospect does.
@@ -175,6 +165,5 @@
 - `INS-260329-B28C` [medium] Design premium offers for a different customer archetype, not your existing buyers stretched to a higher price point.
 - `INS-260328-41C9` [medium] Interviewers use rejection questions to filter for coachability and growth mindset — the answer reveals whether a candidate will burn out or improve under pressure.
 - `INS-260328-0C87` [medium] In SaaS sales interviews, demonstrating genuine passion for the technology and industry matters more than reciting sales frameworks.
-- `INS-260329-A575` [medium] Leading with high-margin toppings before low-margin base product captures maximum profit per customer.
 - `INS-260329-8BFC` [medium] Negative-before-positive sequencing leverages recency bias and earned credibility to make the same facts more persuasive.
 - `INS-260329-C996` [medium] Use Acknowledge-Compliment-Ask to warm up conversations, tying your ask to the compliment so the transition to your service feels natural rather than transactional.

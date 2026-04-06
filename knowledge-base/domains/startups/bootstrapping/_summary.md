@@ -1,6 +1,6 @@
 # Topic: bootstrapping
 
-> 31 insights
+> 27 insights
 
 - `INS-260320-00C2` [very_high] When users try to cancel, ask "Do you just need more time?" — trial extensions retained the most users, outperforming discounts and 3-month pause options, while keeping users on auto-renew.
 - `INS-260329-CB10` [high] Buying an existing business with seller financing lets you skip years of startup risk and immediately own a cash-flowing asset.
@@ -16,9 +16,6 @@
 - `INS-260402-EC9F` [high] Being poor means your personal cost threshold naturally produces products priced an order of magnitude below incumbents, which incumbents psychologically cannot follow.
 - `INS-260320-39A3` [high] Shelter your team and family from acquisition signal-to-noise until the wire hits — deals fall apart in the last week, and premature sharing creates damaging anxiety.
 - `INS-260320-8688` [high] Don't worry about LLM costs or unit economics until you have the growth problem — use startup credits early, optimize later. Almost everything gets cheaper at scale.
-- `INS-260329-0B9D` [high] Cutting personal expenses to the bone isn't about getting rich slowly — it's about buying the freedom to take bigger entrepreneurial swings.
-- `INS-260403-FC36` [high] Ramen profitability is a trick for not dying en route to scale, not evidence that the business model works.
-- `INS-260403-9E0E` [high] Once a startup makes enough to cover founders' living expenses, the entire relationship with investors shifts from desperation to negotiation.
 - `INS-260321-E8CB` [high] One-size-fits-all SaaS benchmarks are misleading — a pre-seed company should target burn multiple <2.5x while Series B+ targets <1.0x. Stage-specific targets: NRR >100%/>110%/>120%, LTV:CAC >2.0x/>3.0x/>3.5x.
 - `INS-260320-E044` [high] Shelter early ideas from smart skeptics — conventional wisdom about what won't work is based on different products. Think of your idea as a seed that needs protection to sprout.
 - `INS-260321-1992` [high] Focus on first dollar by day 30, $1M ARR ($80K/month) by day 90, and only consider VC if you actually need it.
@@ -29,7 +26,6 @@
 - `INS-260403-1B9E` [medium] Founders copy each other's funding strategies as fast as they copy tech stacks, so one visible bootstrapped success could shift industry norms.
 - `INS-260329-F0DD` [medium] Test prep can be run from free libraries with zero startup cost, reaching $1,100/day within six months — outearning most post-college professional salaries without the four-year opportunity cost.
 - `INS-260322-F609` [medium] ElevenLabs removed all titles, which simultaneously filtered out ego-driven candidates and eliminated implicit bias in idea-sharing and collaboration.
-- `INS-260329-7192` [medium] Video editing + copywriting + social media + management transforms someone from a $50K specialist into a CMO-level operator — each skill multiplies rather than adds.
 - `INS-260330-10CF` [medium] Phil Knight invented 'Blue Ribbon Sports' on the spot, claimed East Coast offices that didn't exist, and each bluff secured deals that funded the reality he'd described.
 - `INS-260329-28B0` [medium] At 9% returns over 40 years, every $250/month saved represents roughly $1M at retirement — turning savings into a countable score.
 - `INS-260329-2A70` [medium] Acquire burned-out small businesses by offering to pay from future profits, assembling a portfolio with zero capital.

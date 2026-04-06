@@ -45,8 +45,8 @@ related:
   - PRI-260321-0A4D
   - PRI-260322-9E36
   - INS-260323-1643
+  - PRI-260405-5912
   - INS-260321-3808
-  - PRI-260328-FA83
 stance: 'If US wins the cold war: S&P returns 8-10% annually'
 evidence:
   - id: INS-260323-1643

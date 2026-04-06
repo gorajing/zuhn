@@ -1,6 +1,6 @@
 # Topic: ai-capabilities
 
-> 89 insights
+> 87 insights
 
 - `INS-260321-E4EB` [very_high] AI made idea generation almost free, just as the internet made communication almost free — the bottleneck shifted to verification, evaluation, and filtering signal from noise.
 - `INS-260321-7D7C` [very_high] AI's superpower is breadth (trying every technique on every problem simultaneously), humans' is depth (cumulative progress from partial understanding). Science must restructure to exploit both.
@@ -45,7 +45,6 @@
 - `INS-260321-D959` [high] The biggest scientific advances came from deleting assumptions (Earth is at rest, species are static) rather than adding new theories — this is hard to reinforce-learn because there's no verifiable metric for 'which assumption to drop.'
 - `INS-260323-E161` [high] Quantum computers can perform computations across superpositions but measuring collapses to one random result — only a few problems with special mathematical structure (like factoring) allow extracting useful answers.
 - `INS-260323-8815` [high] Quantum computers don't break encryption by trying all keys — they exploit superposition and the quantum Fourier transform to find periodic patterns in modular arithmetic, which reveals prime factors.
-- `INS-260325-2A1B` [high] Quantum computers will solve problems that would take classical supercomputers billions of years, but only for specialized domains — they will complement, not replace, classical computing.
 - `INS-260323-3F11` [high] The Cursor founders saw the 2020 scaling laws papers as predictable progress, but early GPT-4 access in late 2022 made the theoretical gains concrete enough to bet their careers.
 - `INS-260323-7EEB` [high] The leap from GPT-4 to GPT-5 was subtle enough to require benchmarks, unlike earlier leaps that were obvious in minutes — scaling has hit a wall.
 - `INS-260328-8CCC` [high] Training loss scales predictably but actual capabilities emerge non-linearly, making capability prediction unreliable.
@@ -59,7 +58,6 @@
 - `INS-260325-EF79` [high] Nvidia's Jim Fan: the next AI frontier is the physical Turing test — proving competence in real-world tasks, not just conversation.
 - `INS-260329-FEBA` [high] Rather than perfecting one massive prompt, the effective workflow is: prompt, see the result, make a small adjustment, repeat — each cycle taking minutes.
 - `INS-260330-63DD` [high] Theoretical fields based on logical implications of assumptions can be nearly push-button accelerated by AI, while experimental fields remain gated by physical testing.
-- `INS-260323-29ED` [high] GPT-4's remarkable reasoning emerges from an incredibly simple feed-forward architecture trained on next-word prediction, not from replicating brain complexity.
 - `INS-260330-0C0C` [high] Embedding spaces develop meaningful geometric structure as a side effect of prediction training, with directions encoding concepts like gender and nationality.
 - `INS-260323-6134` [high] The most elegant and efficient robot movement comes from designing machines whose physics naturally want to do the right thing, then augmenting with control rather than overpowering.
 - `INS-260329-8DDF` [medium] Superintelligent AI access will be the defining resource of the future, more valuable than energy, capital, or territory.

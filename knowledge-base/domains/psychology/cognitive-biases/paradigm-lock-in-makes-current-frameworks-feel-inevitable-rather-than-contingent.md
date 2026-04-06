@@ -49,7 +49,6 @@ stance: >-
   cognitive building blocks themselves, making it nearly impossible for most
   people to evaluate ideas outside it fairly.
 related:
-  - INS-260330-18F3
   - INS-260402-8ACF
   - INS-260402-D0F3
   - INS-260403-0218

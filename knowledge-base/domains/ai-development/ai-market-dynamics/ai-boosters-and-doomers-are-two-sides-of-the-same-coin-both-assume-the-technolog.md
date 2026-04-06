@@ -50,9 +50,9 @@ resolutions:
 related:
   - PRI-260323-1F9C
   - INS-260325-59D4
-  - INS-260330-7819
   - INS-260327-7F11
   - INS-260327-5688
+  - PRI-260323-27D6
 stance: >-
   The booster-doomer debate creates a false spectrum where the only question is
   whether powerful AI is good or bad

@@ -51,11 +51,11 @@ stance: >-
   motivation take on a qualitatively different form than those created from a
   place of lack and desire for money.
 related:
-  - INS-260327-4D3A
   - INS-260327-E26D
   - INS-260403-CA46
   - PRI-260328-8815
   - INS-260330-9E91
+  - PRI-260328-EAC4
   - INS-260403-B710
 evidence:
   - id: INS-260327-4D3A

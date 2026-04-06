@@ -3,7 +3,6 @@
 - `INS-260325-3F9B` Quantum effects dissipate almost instantly through decoherence, so a computation needing 100 qubits may require a million physical qubits just for error correction redundancy.
 - `INS-260323-E161` Quantum computers can perform computations across superpositions but measuring collapses to one random result — only a few problems with special mathematical structure (like factoring) allow extracting useful answers.
 - `INS-260323-8815` Quantum computers don't break encryption by trying all keys — they exploit superposition and the quantum Fourier transform to find periodic patterns in modular arithmetic, which reveals prime factors.
-- `INS-260325-2A1B` Quantum computers will solve problems that would take classical supercomputers billions of years, but only for specialized domains — they will complement, not replace, classical computing.
 - `INS-260325-1B3E` The first quantum revolution gave us lasers, transistors, and GPS; the second leverages entanglement and superposition for quantum computers, sensing, imaging, and communication.
 - `INS-260323-B3A3` Nation states are already intercepting and storing encrypted data today, betting that quantum computers within 10-20 years will let them decrypt it — making the quantum threat present-tense for any data with lasting value.
 - `INS-260325-2069` The unemployed won't be biologists and chemists but biologists and chemists who don't use quantum computers -- the hammer doesn't replace the carpenter, it amplifies them.

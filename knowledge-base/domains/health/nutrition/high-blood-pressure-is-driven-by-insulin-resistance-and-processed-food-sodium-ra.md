@@ -45,5 +45,6 @@ related:
   - PRI-260325-9258
   - PRI-260328-7AF5
   - INS-260327-C9DA
+  - INS-260327-C782
 ---
 Hypertension is more strongly driven by insulin resistance (which causes sodium retention) and processed food sodium than by salt added to whole food cooking, making metabolic health the primary intervention target

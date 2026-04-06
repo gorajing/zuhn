@@ -47,7 +47,6 @@ stance: >-
   Consistent small wealth-building actions that compound over time outperform
   strategies optimized for single large payouts.
 related:
-  - INS-260330-2AC0
   - INS-260323-9A29
   - INS-260329-5414
   - INS-260329-2A70

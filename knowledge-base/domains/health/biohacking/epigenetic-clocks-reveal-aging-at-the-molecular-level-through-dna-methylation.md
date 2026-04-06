@@ -54,8 +54,8 @@ related:
   - INS-260325-B393
   - INS-260325-E8BC
   - PRI-260325-2800
-  - INS-260325-D2AA
   - INS-260325-CFC1
+  - INS-260325-9112
 ---
 The epigenome -- chemical modifications to DNA that control gene expression without changing the genetic code -- becomes progressively disordered with aging. DNA methylation, a chemical tag added to CG pairs in the genome, follows patterns that machine learning can use to predict biological age. Levine's lab has shown that epigenetic clocks are highly accelerated in tumors and in organs prone to cancer.
 

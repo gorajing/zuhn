@@ -50,13 +50,12 @@ stance: >-
   dysphemistic, abusive, idiomatic, emphatic, and cathartic — each serving a
   different social or psychological purpose
 related:
-  - INS-260330-3528
   - INS-260330-EA8B
   - INS-260330-24CD
   - INS-260330-0FAF
   - INS-260330-534C
+  - PRI-260405-7F1E
   - INS-260403-C49F
-  - INS-260330-80AF
 evidence:
   - id: INS-260403-C49F
     type: TRANSFERS_TO

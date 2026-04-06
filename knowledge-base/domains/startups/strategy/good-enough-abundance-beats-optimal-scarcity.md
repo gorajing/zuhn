@@ -55,10 +55,10 @@ stance: >-
   quality.
 related:
   - INS-260330-53A9
-  - INS-260404-5E8F
   - INS-260330-54ED
+  - INS-260404-5E8F
   - INS-260330-22C0
-  - INS-260403-0162
+  - INS-260330-4489
 evidence:
   - id: INS-260330-CC30
     type: TRANSFERS_TO

@@ -57,10 +57,10 @@ stance: >-
   self-narratives about strength they no longer possess.
 related:
   - INS-260327-E07D
-  - INS-260330-CFEA
   - PRI-260327-5635
   - INS-260329-438D
   - INS-260329-4499
+  - PRI-260403-88F5
 evidence:
   - id: INS-260327-E07D
     type: TRANSFERS_TO

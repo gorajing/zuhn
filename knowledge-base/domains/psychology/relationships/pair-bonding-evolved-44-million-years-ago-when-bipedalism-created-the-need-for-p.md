@@ -55,12 +55,11 @@ stance: >-
   consequence of bipedalism — when females could no longer carry babies on their
   backs, they needed partners, creating evolutionary pressure for attachment.
 related:
-  - INS-260325-FAC2
   - INS-260325-DFA5
   - INS-260330-C8E2
   - INS-260330-F9FB
   - INS-260330-A59D
-  - INS-260330-FCB7
+  - INS-260325-6571
   - INS-260330-8286
 ---
 Fisher traces the origins of human romantic love to a specific evolutionary pressure point 4.4 million years ago. As ancestors were forced from disappearing trees onto dangerous open grasslands, they began walking on two legs and carrying sticks, stones, and food. This critical shift meant females could no longer carry babies on their backs (as quadrupedal chimps do) but had to carry them in their arms — while simultaneously needing to defend themselves.

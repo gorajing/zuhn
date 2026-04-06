@@ -48,10 +48,10 @@ stance: >-
   opportunity rather than poor judgment.
 related:
   - INS-260330-31B5
-  - INS-260404-37F7
   - INS-260403-E365
   - INS-260330-DA0B
   - INS-260404-8A87
+  - INS-260402-D9D0
 evidence:
   - id: INS-260330-31B5
     type: SUPPORTS

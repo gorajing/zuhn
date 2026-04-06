@@ -50,11 +50,11 @@ stance: >-
   have exhausted themselves — often captures the most value because it commits
   resources when the opposition is weakest.
 related:
-  - INS-260326-1E52
   - INS-260326-79DF
   - INS-260327-FB61
   - INS-260327-7F88
   - INS-260327-AA3B
+  - INS-260327-A654
 ---
 By 1917, every major WW1 belligerent was exhausted: France had mutinies, Russia was in revolution, Germany was starving under blockade, Britain was hemorrhaging manpower. America's entry brought fresh troops, unlimited industrial capacity, and most importantly, psychological impact — the knowledge that time now favored the Entente. America didn't need to fight immediately; its mere presence on the Allied side was decisive.
 

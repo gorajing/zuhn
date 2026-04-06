@@ -48,7 +48,6 @@ stance: >-
   morbidity that should be tracked regularly, with fasting and keto likely
   worsening it
 related:
-  - INS-260325-EDE1
   - INS-260325-9F4C
   - INS-260327-1DAB
   - INS-260327-5943

@@ -47,11 +47,10 @@ stance: >-
   de-riskable.
 related:
   - INS-260329-6B2C
-  - INS-260329-88B2
   - INS-260329-31A2
   - INS-260323-D679
   - INS-260330-1D9D
-  - INS-260330-9CC6
+  - INS-260329-5427
 evidence:
   - id: INS-260329-6B2C
     type: REFINES

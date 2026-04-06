@@ -51,9 +51,9 @@ stance: >-
 related:
   - INS-260404-89C3
   - INS-260404-D94D
-  - INS-260404-8F62
   - INS-260403-A408
   - INS-260323-DE7F
+  - INS-260404-B6CC
   - INS-260404-7C3F
 evidence:
   - id: INS-260323-DE7F

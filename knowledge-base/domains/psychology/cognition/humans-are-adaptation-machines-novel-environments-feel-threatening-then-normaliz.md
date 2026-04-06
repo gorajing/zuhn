@@ -51,16 +51,16 @@ stance: >-
   the brain recalibrates expectations, proving psychological resilience is the
   default
 related:
+  - INS-260325-5C03
   - INS-260326-8E6D
   - INS-260327-375B
   - INS-260330-8C54
+  - INS-260330-8045
   - INS-260330-8718
   - PRI-260327-0AA2
   - INS-260325-3754
-  - INS-260325-5C03
-  - INS-260403-53D9
+  - PRI-260405-9D7B
   - INS-260403-2BAD
-  - INS-260404-A850
 evidence:
   - id: INS-260327-1631
     type: TRANSFERS_TO

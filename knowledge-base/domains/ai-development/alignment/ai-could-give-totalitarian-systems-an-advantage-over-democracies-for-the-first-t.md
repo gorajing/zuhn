@@ -50,11 +50,11 @@ stance: >-
   centralized totalitarian ones, because AI can process the information volume
   that overwhelmed human bureaucrats in the Soviet Union.
 related:
-  - INS-260325-D763
   - PRI-260328-7A9C
   - PRI-260328-C006
   - PRI-260327-0D6E
   - INS-260330-F258
+  - INS-260327-57CE
   - INS-260330-7711
   - INS-260330-A812
 evidence:

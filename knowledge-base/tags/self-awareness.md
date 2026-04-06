@@ -1,32 +1,31 @@
 # Tag: self-awareness
 
+- `INS-260325-13C2` We know average equity returns, inflation rates, and economic ranges — the only unsolved variable in investing is our own behavior.
 - `INS-260402-3737` Childhood lies create cognitive debt that compounds silently into adulthood, and deliberately identifying and clearing them unlocks disproportionate clarity.
-- `INS-260327-1313` Too much self-examination creates a hall of mirrors: the self watching the self watching the self, producing fragmentation rather than the clarity it promises.
-- `INS-260325-BA76` Pessoa's paradox: self-awareness splits the experiencer from the experience, making authentic living impossible for the deeply conscious.
-- `INS-260330-6D5C` The unconscious mind is a biological supercomputer running 95% of brain operations, and ignoring it makes conscious self-improvement efforts structurally incomplete.
-- `INS-260404-1289` When receiving advice, people either evaluate it with fresh eyes and give logical reasons for disagreement, or unconsciously munge it to fit pre-existing decisions.
-- `INS-260403-5BF9` Rollins credits his relentless work ethic to never forgetting the $8/hour ice cream shop he'd return to if he stopped hustling.
-- `INS-260403-F1C6` Hard work is not a simple intensity dial but a complex dynamic system where self-honesty is the single skill that enables correct calibration at every point.
-- `INS-260403-2612` Experts benefit more from writing about their domain because they hold more unconscious knowledge that only surfaces through articulation.
-- `INS-260403-C135` Specific knowledge is found by looking backward at what you've already done, not forward at what you plan to learn.
-- `INS-260403-1202` Rollins explicitly states he has no talent — only tenacity, discipline, and focus — and these carried him further than more talented peers.
-- `INS-260403-D022` Intense creative work has a daily hour limit (roughly 5 hours) beyond which quality declines, and crossing it is performative rather than productive.
-- `INS-260330-DC8B` Burnout typically signals you're working on something that isn't working or that you don't fundamentally enjoy, not that you need a vacation.
-- `INS-260329-1A64` When stuck on a decision, ask 'whose voice is telling me not to do this?' — naming the specific person strips the fear of its power.
 - `INS-260330-14BD` Amsterdam onlookers couldn't believe Destin genuinely forgot how to ride a bike because their own bias ('everyone can ride a bike') prevented them from processing his demonstration.
 - `INS-260404-D976` Samsung users' MRIs showed strong anti-Apple responses they didn't consciously report feeling.
 - `INS-260327-399D` You don't have a consistent moral framework - nobody does - and pretending you do prevents the ethical development that comes from grappling with your actual contradictions.
 - `INS-260403-9DBA` Microsoft's biggest weakness was not knowing how much they sucked — they still believed they could compete by building software in-house.
-- `INS-260404-B6CC` Arguments escalate when they shift from debating issues to threatening someone's core identity and values.
+- `INS-260327-1313` Too much self-examination creates a hall of mirrors: the self watching the self watching the self, producing fragmentation rather than the clarity it promises.
+- `INS-260325-BA76` Pessoa's paradox: self-awareness splits the experiencer from the experience, making authentic living impossible for the deeply conscious.
+- `INS-260330-6D5C` The unconscious mind is a biological supercomputer running 95% of brain operations, and ignoring it makes conscious self-improvement efforts structurally incomplete.
+- `INS-260403-2612` Experts benefit more from writing about their domain because they hold more unconscious knowledge that only surfaces through articulation.
+- `INS-260403-C135` Specific knowledge is found by looking backward at what you've already done, not forward at what you plan to learn.
+- `INS-260403-1202` Rollins explicitly states he has no talent — only tenacity, discipline, and focus — and these carried him further than more talented peers.
+- `INS-260403-D022` Intense creative work has a daily hour limit (roughly 5 hours) beyond which quality declines, and crossing it is performative rather than productive.
+- `INS-260404-1289` When receiving advice, people either evaluate it with fresh eyes and give logical reasons for disagreement, or unconsciously munge it to fit pre-existing decisions.
+- `INS-260403-5BF9` Rollins credits his relentless work ethic to never forgetting the $8/hour ice cream shop he'd return to if he stopped hustling.
+- `INS-260403-F1C6` Hard work is not a simple intensity dial but a complex dynamic system where self-honesty is the single skill that enables correct calibration at every point.
 - `INS-260327-B19E` Boredom isn't absence of stimulation - it's a signal that your current activity doesn't match your creative capacity, pointing toward what you should be doing instead.
 - `INS-260328-FE38` There are no non-procrastinators — only people whose most important tasks happen to come with deadlines that activate the Panic Monster.
 - `INS-260404-D547` Fake work — activity that looks like work but produces nothing — is more dangerous than leisure because it doesn't trigger the guilt alarms that would prompt you to stop.
-- `INS-260329-1B2A` Identity attachment to activities causes irrational over-investment by bypassing cost-benefit analysis.
+- `INS-260330-DC8B` Burnout typically signals you're working on something that isn't working or that you don't fundamentally enjoy, not that you need a vacation.
+- `INS-260329-1A64` When stuck on a decision, ask 'whose voice is telling me not to do this?' — naming the specific person strips the fear of its power.
 - `INS-260330-D7CC` Overconfidence in dangerous domains creates the conditions for the worst failures.
+- `INS-260404-B6CC` Arguments escalate when they shift from debating issues to threatening someone's core identity and values.
 - `INS-260325-BCA6` Cognitive scripts discovered in 1979 research efficiently handle routine decisions but silently hijack important life choices when left unexamined.
 - `INS-260323-3858` Each negative emotion carries a specific diagnostic message — regret means 'do it now,' jealousy reveals hidden desires, anger provides energy for change, and deep resistance to something often signals it matters deeply to you.
 - `INS-260330-548E` Rubin identifies owning your aesthetic feelings in the face of external disagreement as 'probably the single most important thing to practice as an artist.'
-- `INS-260323-1655` Knowing your patterns, naming your triggers, and understanding your attachment style means nothing if you do not actually behave differently.
 - `INS-260330-125E` Rubin describes how the brain instantly invents explanatory stories for unexpected events, then registers those invented stories as factual memories we later relay with full confidence.
 - `INS-260327-B2CC` Real humility means accepting you could be wrong, not performing modesty.
 - `INS-260330-0FBF` Defense mechanisms protect the conscious mind from vulnerability but become pathological when they operate without awareness, distorting perception of reality.
@@ -34,7 +33,6 @@
 - `INS-260330-59A4` Self-awareness without self-acceptance makes the gap between who you are and who you want to be more painful, not less.
 - `INS-260329-8CA3` Distinguishing shame (violating others' rules) from guilt (violating your own) reveals that most inaction is driven by rules you never consciously chose.
 - `INS-260329-163B` Success and failure follow a cyclical pattern; the competitive advantage is recognizing your current phase and shortcutting back to learning.
-- `INS-260325-13C2` We know average equity returns, inflation rates, and economic ranges — the only unsolved variable in investing is our own behavior.
 - `INS-260323-F9AC` Great achievers across history share one trait: they know their demons intimately and channel them into drive rather than letting those demons destroy them or pretending they don't exist.
 - `INS-260325-788E` The word 'should' signals a cognitive script is running; replacing it with 'might' reopens genuine deliberation and possibility space.
 - `INS-260323-1975` You must be either the tech/product founder or the business/revenue founder, then find a complementary co-founder for the other role.
@@ -42,7 +40,6 @@
 - `INS-260328-F303` The startup game is already nearly impossible when taking a real shot — not even taking a real shot is a guaranteed waste of time.
 - `INS-260329-9A5A` People aren't inconsistent because they lack discipline — they're inconsistent because they misread difficulty as a sign to pivot.
 - `INS-260328-2854` Self-aware people at powerful institutions stay because they know no one will return their calls once they leave.
-- `INS-260327-2F78` Learn to distinguish real conviction from stubbornness—the difference determines if you succeed or waste years.
 - `INS-260328-80E7` Before any advice session, founders should define their goal: am I here for answers to specific questions, or do I need to talk through my feelings — both are valid but require different meetings.
 - `INS-260323-9E37` Cuban recognized he was terrible at firing people because he wanted to see the best in everyone, so he always partnered with detail-oriented people who could make those hard calls.
 - `INS-260327-B4C0` When the org would do just as well without you, your chapter is done—time for the next one.

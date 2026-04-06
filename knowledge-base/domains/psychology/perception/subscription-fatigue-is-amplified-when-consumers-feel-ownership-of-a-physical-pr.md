@@ -41,11 +41,11 @@ stance: >-
   rather than being asked to pay for something new.
 related:
   - INS-260327-6900
-  - INS-260327-4ED3
   - INS-260327-9C3A
   - INS-260404-ED19
-  - INS-260405-9F38
-  - INS-260404-2D53
+  - PRI-260405-548B
+  - INS-260404-13F1
+  - INS-260403-1E4A
   - INS-260403-D99D
 evidence:
   - id: INS-260323-7F22

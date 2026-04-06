@@ -51,12 +51,12 @@ related:
   - INS-260323-3BA4
   - INS-260327-D982
   - INS-260327-643E
+  - INS-260327-D5CC
   - INS-260403-AEB3
   - INS-260404-CA58
-  - INS-260404-9823
   - INS-260403-C610
   - INS-260402-D739
-  - INS-260330-7819
+  - INS-260403-C949
   - INS-260403-5441
 ---
 Sam Altman argues the pendulum has swung too far toward 'ideas don't matter' and pivot culture. In reality, great companies almost always start with a great idea, not a pivot. The critical insight is that the best ideas — Google as the 13th search engine, Facebook limited to college students, Airbnb as sleeping on strangers' couches — sounded terrible at the time. This is a feature, not a bug: if an idea sounds obviously good, a big company or many startups will already be pursuing it. You want an idea where you can say 'I know it sounds bad, but here's specifically why it's great.' The practical filter: find a small market you can monopolize, then expand. This connects to Peter Thiel's monopoly theory — you can't get a monopoly in a big market right away, so you need an idea that looks small and bad but is actually the kernel of something massive.

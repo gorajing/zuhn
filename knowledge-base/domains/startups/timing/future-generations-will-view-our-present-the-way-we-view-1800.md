@@ -44,11 +44,11 @@ stance: >-
   astonished we lived without AI, fusion energy, and space settlement, just as
   we are astonished people lived without electricity.
 related:
-  - INS-260325-6F7F
   - INS-260325-362B
   - INS-260325-B14B
-  - INS-260330-41DB
   - INS-260327-EE23
+  - INS-260402-86C4
+  - PRI-260328-BF67
 evidence:
   - id: INS-260325-6262
     type: SUPPORTS

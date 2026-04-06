@@ -1,6 +1,6 @@
 # Topic: group-dynamics
 
-> 58 insights
+> 56 insights
 
 - `INS-260330-2EB0` [high] The Pueblo Revolt shows that a shared existential threat can override deep tribal divisions — but the unity is temporary.
 - `INS-260403-D609` [high] Enforcers of orthodoxy compete with each other, creating a race to the bottom where any borderline idea gets banned.
@@ -31,7 +31,6 @@
 - `INS-260330-DBAD` [high] The kilogram exists as an awkward prefixed base unit because 'grave' sounded too aristocratic during the French Revolution.
 - `INS-260330-B22D` [high] Political visibility creates a separating equilibrium where any slight lean gets amplified into full tribal membership through social pressure.
 - `INS-260403-6947` [high] Production blocking — one person speaking while others must listen — suppresses parallel ideation and reduces total creative output in group sessions.
-- `INS-260403-97D6` [high] Psychological safety is prerequisite infrastructure for innovation — without it, process investments are wasted.
 - `INS-260330-9A34` [high] Mechanical watches needed to be accurate to within 5 seconds/day — not as good as quartz, but good enough that wearing one didn't break the luxury illusion.
 - `INS-260402-FFCB` [high] Bret Weinstein's taxonomy — witch-hunters, followers, silent majority, and resisters who become the witches — describes a recurring social pattern where opposition to a movement gets recast as the very evil being hunted.
 - `INS-260403-C4E2` [high] When enough people around you are doing something ambitious, it stops feeling crazy and starts feeling like the obvious next step.
@@ -49,7 +48,6 @@
 - `INS-260330-B4BD` [medium] Two generations of one-child families made small families the cultural norm in China, rendering policy reversal largely ineffective.
 - `INS-260402-1CAD` [medium] Group identities persist because their arbitrary, irrational elements create the cohesion needed to carry beneficial beliefs as payload.
 - `INS-260403-DA14` [medium] A leader's repeated norm violations train their handlers and staff to preemptively execute the cheating pattern without explicit instructions.
-- `INS-260330-93F3` [medium] The same culture can occupy radically different moral positions across centuries, proving that moral differences between contemporary cultures reflect temporal position on a shared trajectory, not permanent group characteristics.
 - `INS-260403-3A71` [medium] Publicizing that charisma decides elections should eventually force both sides to match on charisma, restoring issue-based competition.
 - `INS-260403-FF74` [medium] Formal restrictions provoke resistance in hacker-minded people, while informal social contracts earn genuine compliance.
 - `INS-260330-1293` [medium] North Korea maintains stability by selectively tolerating illegal capitalism rather than cracking down uniformly, turning potential dissidents into co-opted participants.

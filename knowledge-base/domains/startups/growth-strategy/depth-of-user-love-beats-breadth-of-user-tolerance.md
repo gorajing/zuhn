@@ -45,14 +45,15 @@ stance: >-
   many users, because expanding a user base is easier than deepening
   satisfaction
 related:
+  - INS-260320-00C2
   - INS-260327-2718
   - INS-260330-E089
-  - INS-260330-EA94
   - INS-260330-E263
   - INS-260330-16CD
   - INS-260330-EF64
   - INS-260403-B635
   - INS-260404-C720
+  - INS-260330-21CC
 ---
 Graham presents a strategic choice every early startup faces: satisfy all the needs of a subset of users, or satisfy a subset of needs for all potential users. He advocates strongly for the first path, arguing that expanding your user base is mechanically easier than deepening satisfaction after the fact.
 

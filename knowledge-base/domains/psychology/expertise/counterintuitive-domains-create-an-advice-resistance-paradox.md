@@ -47,11 +47,12 @@ stance: >-
   The more counterintuitive a domain is, the less likely practitioners are to
   accept good advice, because correct guidance sounds wrong to the uninitiated.
 related:
+  - INS-260328-D775
   - INS-260404-8890
   - INS-260402-2B96
-  - INS-260404-93E3
   - INS-260330-6C68
   - INS-260403-AEB3
+  - INS-260402-421B
   - INS-260403-DF73
 evidence:
   - id: INS-260404-8890

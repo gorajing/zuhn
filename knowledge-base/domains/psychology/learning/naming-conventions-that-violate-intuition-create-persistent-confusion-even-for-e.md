@@ -56,11 +56,11 @@ related:
   - INS-260330-C8ED
   - INS-260330-0143
   - INS-260330-2BF4
-  - INS-260403-F63E
   - INS-260403-837D
-  - INS-260403-5215
   - INS-260403-07C3
   - INS-260404-BEF7
+  - INS-260404-78EB
+  - INS-260404-E4B8
 ---
 Photosystem II acts before Photosystem I in the electron transport chain, but was named second because it was discovered second. This historical accident means every student of biology must spend cognitive effort resolving the naming conflict, and every teacher must preemptively address the confusion. The alternative name — plastoquinone oxidoreductase — is technically precise but unusable.
 

@@ -51,9 +51,9 @@ stance: >-
 related:
   - INS-260323-9B68
   - INS-260330-5C80
-  - INS-260330-93F3
   - INS-260330-ED37
   - INS-260330-F20D
+  - INS-260325-C2BD
 evidence:
   - id: INS-260323-9B68
     type: CHALLENGES

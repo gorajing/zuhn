@@ -51,11 +51,12 @@ stance: >-
   customer value rather than extracting it
 related:
   - INS-260329-72A5
-  - INS-260403-CDB9
-  - INS-260403-3864
-  - INS-260404-60D6
+  - INS-260403-3F5F
+  - INS-260404-C9B5
+  - INS-260404-12A4
+  - INS-260404-B8AE
   - INS-260405-48EC
-  - INS-260403-BF47
+  - INS-260405-051E
 evidence:
   - id: INS-260327-7435
     type: CONTRADICTS

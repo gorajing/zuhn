@@ -54,7 +54,7 @@ related:
   - INS-260403-3A8A
   - INS-260325-EBDD
   - INS-260403-C161
-  - INS-260323-6230
+  - PRI-260405-C47B
 evidence:
   - id: INS-260323-6230
     type: TRANSFERS_TO

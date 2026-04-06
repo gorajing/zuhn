@@ -54,6 +54,7 @@ stance: >-
   amplify destruction exactly as efficiently as they amplify creation.
 related:
   - INS-260321-13C6
+  - INS-260327-BA97
   - INS-260330-23CD
   - INS-260330-8950
   - INS-260330-7E97

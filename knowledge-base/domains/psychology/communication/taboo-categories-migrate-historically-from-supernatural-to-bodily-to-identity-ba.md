@@ -52,6 +52,7 @@ stance: >-
   meaning today's acceptable words will become tomorrow's slurs.
 related:
   - INS-260330-647D
+  - PRI-260405-7F1E
   - INS-260330-0FAF
   - INS-260330-6300
   - INS-260330-534C

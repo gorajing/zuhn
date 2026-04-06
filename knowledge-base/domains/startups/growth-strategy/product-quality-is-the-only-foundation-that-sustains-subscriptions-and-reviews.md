@@ -47,8 +47,8 @@ resolutions:
     selling it. Marketing can drive first purchases, but only product quality
     drives the repeat purchases and reviews that sustain a brand.
 related:
+  - INS-260322-7DD5
   - INS-260322-B450
-  - INS-260322-1280
   - INS-260330-1D9D
   - INS-260329-B0BA
   - PRI-260328-6A8D

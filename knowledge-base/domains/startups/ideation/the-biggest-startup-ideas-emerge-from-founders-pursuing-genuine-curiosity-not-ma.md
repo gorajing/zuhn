@@ -50,6 +50,7 @@ stance: >-
 related:
   - INS-260321-3660
   - INS-260327-D982
+  - INS-260327-CD36
   - INS-260327-4DDE
   - PRI-260328-59DC
   - INS-260328-A9D2
@@ -57,7 +58,6 @@ related:
   - INS-260329-AA30
   - INS-260329-FE15
   - INS-260330-DDF0
-  - INS-260330-2B42
 ---
 Paul Graham observes that Apple, Google, and Facebook all began as projects founders were doing for fun — not as calculated business ventures. The pattern recurs because the best startup ideas are such extreme outliers that a profit-seeking filter would dismiss them as impractical or too weird. Young technologists' unconscious instincts about what's interesting to work on are better aligned with what needs to be built than their conscious analysis of what might be profitable.
 

@@ -47,12 +47,13 @@ stance: >-
   False historical narratives become unchallengeable conventional wisdom through
   sheer repetition, not through evidence
 related:
+  - INS-260325-EC7A
   - INS-260330-9EBA
-  - INS-260330-41DB
   - INS-260330-3851
-  - INS-260330-3DB2
   - INS-260330-4FA3
   - INS-260323-0556
+  - INS-260403-222E
+  - INS-260402-26B0
 ---
 The idea that people before Columbus thought the Earth was flat is itself a misconception. Virtually every scholar and major religion in the West accepted Earth's roundness since the Ancient Greeks, who observed boats disappearing bottom-first and stars changing with latitude. The flat Earth smear originated as a rhetorical weapon — 'your people recently thought the Earth was flat, so why should we believe you now?' — and was repeated and published so frequently it became accepted as historical fact.
 

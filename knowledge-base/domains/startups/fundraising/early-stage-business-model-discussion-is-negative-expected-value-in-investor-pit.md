@@ -53,12 +53,13 @@ stance: >-
   startups because the model is almost certainly wrong and displaces discussion
   of the problem and product
 related:
+  - INS-260327-363C
   - INS-260329-FCC6
-  - INS-260404-BF04
-  - INS-260404-4DF7
-  - INS-260404-3214
-  - INS-260403-24F0
-  - INS-260403-A172
+  - PRI-260405-2A11
+  - INS-260404-16E1
+  - INS-260327-58AC
+  - INS-260328-D2EC
+  - INS-260402-4633
 evidence:
   - id: INS-260404-58AE
     type: SUPPORTS

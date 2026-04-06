@@ -50,12 +50,13 @@ stance: >-
   profit driver when the productivity multiplier exceeds the wage premium
 related:
   - INS-260327-D480
-  - INS-260403-365D
-  - INS-260404-6A20
+  - INS-260403-8A80
   - INS-260404-C13E
   - INS-260405-202B
-  - INS-260404-20AD
+  - INS-260405-47FD
   - INS-260405-AC40
+  - INS-260403-85DE
+  - INS-260405-C8BC
 ---
 The standard retail playbook treats labor as a cost to minimize. Costco inverts this by paying $21/hour (double the U.S. retail average) with superior health insurance and retirement benefits. The result is employees who are three times more productive than the industry average — a 2x cost for 3x output is a clear mathematical win.
 

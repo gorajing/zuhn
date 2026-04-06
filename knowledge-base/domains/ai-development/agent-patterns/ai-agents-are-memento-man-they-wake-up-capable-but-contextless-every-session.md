@@ -51,8 +51,8 @@ stance: >-
   checklists, memory systems) to maintain coherent work across sessions.
 related:
   - INS-260320-9D89
-  - INS-260325-23BA
   - INS-260325-160E
+  - INS-260322-96D1
   - INS-260325-252D
   - INS-260322-22B3
   - INS-260322-D8C3

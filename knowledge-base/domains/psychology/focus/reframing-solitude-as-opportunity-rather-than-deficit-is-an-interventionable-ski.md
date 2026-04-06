@@ -52,7 +52,6 @@ stance: >-
   opportunity rather than a reflection of social failure.
 related:
   - INS-260325-5977
-  - INS-260325-6534
   - PRI-260328-8815
   - INS-260327-B767
   - INS-260403-28C7

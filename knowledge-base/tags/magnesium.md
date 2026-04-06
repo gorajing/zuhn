@@ -5,7 +5,6 @@
 - `INS-260325-61A7` Heart palpitations are usually potassium or magnesium deficiency — supplementation resolves them faster than cardiac workups.
 - `INS-260327-D6E0` Heart-strengthening foods center on potassium-rich vegetables, omega-3 sources, and CoQ10 from organ meats
 - `INS-260325-4FB1` Magnesium prevents kidney stones by controlling calcium — deficiency lets calcium bind with oxalates to form stones.
-- `INS-260327-F8BF` Magnesium deficiency presents as muscle cramps insomnia anxiety and heart palpitations before blood tests show it
 - `INS-260327-6EB6` Menstrual cramps respond to magnesium, vitamin D, omega-3, and anti-inflammatory dietary changes
 - `INS-260327-C782` Most heart palpitations are caused by potassium and magnesium deficiency not cardiac disease
 - `INS-260327-3586` Conventional magnesium sources like spinach, almonds, and grains contain oxalates and phytic acid that bind magnesium and prevent absorption, making meat, milk, and coconut water superior sources.

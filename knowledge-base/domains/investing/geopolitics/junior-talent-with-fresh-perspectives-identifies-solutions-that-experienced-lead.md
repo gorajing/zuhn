@@ -48,11 +48,11 @@ stance: >-
   Newcomers without institutional conditioning see opportunities and solutions
   that experienced professionals have been trained to overlook.
 related:
-  - INS-260330-35E2
   - INS-260330-E0A9
   - INS-260327-1BBF
   - INS-260327-7E6F
   - INS-260326-1CB1
+  - INS-260327-19D2
 evidence:
   - id: INS-260330-35E2
     type: CHALLENGES

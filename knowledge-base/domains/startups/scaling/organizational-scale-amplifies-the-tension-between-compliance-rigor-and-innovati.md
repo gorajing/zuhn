@@ -48,6 +48,7 @@ stance: >-
   As organizations grow larger, the gap between compliance process overhead and
   innovation cycle time requirements widens nonlinearly
 related:
+  - INS-260403-3A34
   - INS-260404-F8B7
   - INS-260403-5427
   - INS-260403-B2EA

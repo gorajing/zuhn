@@ -59,9 +59,9 @@ related:
   - INS-260329-B8C4
   - INS-260329-D0F4
   - INS-260329-7B47
-  - INS-260329-913C
   - INS-260329-563F
   - PRI-260328-BDC2
+  - INS-260329-8B33
 ---
 Hormozi prescribes a specific daily volume target — 100 warm outreach attempts per day — as the primary customer acquisition engine for broke entrepreneurs. This is not cold calling strangers; it is engaging with people in your network, social media connections, relevant communities, and second-degree contacts who fit your narrow avatar.
 

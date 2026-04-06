@@ -44,16 +44,16 @@ stance: >-
   weren't afraid,' they discover that fear of failure, judgment, and uncertainty
   has shaped more of their life path than genuine preference.
 related:
-  - INS-260320-8B06
   - INS-260325-B6AD
   - INS-260325-D9D8
   - INS-260323-47B0
   - INS-260327-CA72
   - INS-260327-E833
-  - INS-260329-A90C
   - INS-260330-207D
+  - INS-260327-CD49
   - INS-260327-015B
   - INS-260327-7427
+  - INS-260327-F7BC
 evidence:
   - id: INS-260320-8B06
     type: TRANSFERS_TO

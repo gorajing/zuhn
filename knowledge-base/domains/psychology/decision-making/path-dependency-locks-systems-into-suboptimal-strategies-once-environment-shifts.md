@@ -53,13 +53,13 @@ stance: >-
   trapped when conditions change, because switching costs exceed the cost of
   working around the original flaw.
 related:
-  - INS-260330-DF69
   - INS-260330-A3EB
   - INS-260403-304E
-  - INS-260403-A5D5
-  - INS-260404-60F4
-  - INS-260404-03E7
+  - INS-260404-2695
   - INS-260404-B7B6
+  - INS-260404-60F4
+  - INS-260403-B5E2
+  - INS-260403-F52E
 evidence:
   - id: INS-260330-1650
     type: SUPPORTS

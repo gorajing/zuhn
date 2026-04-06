@@ -57,10 +57,10 @@ stance: >-
   separates closers from order-takers.
 related:
   - INS-260330-2306
-  - INS-260330-FE9E
   - PRI-260403-0ABD
   - INS-260327-CEE4
-  - INS-260403-B3A4
+  - INS-260404-D1E2
+  - INS-260403-F7DD
   - INS-260403-3E3B
 evidence:
   - id: INS-260327-4F3D

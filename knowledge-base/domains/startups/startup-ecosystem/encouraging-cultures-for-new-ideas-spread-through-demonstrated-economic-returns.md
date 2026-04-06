@@ -55,12 +55,12 @@ stance: >-
   similar cultures will spread wherever the same incentives exist.
 related:
   - INS-260329-E45A
-  - INS-260330-93F3
   - INS-260330-B4BD
   - INS-260403-4850
   - INS-260403-6224
   - INS-260403-A99F
   - INS-260404-CDF0
+  - INS-260327-C69F
 evidence:
   - id: INS-260330-B4BD
     type: TRANSFERS_TO

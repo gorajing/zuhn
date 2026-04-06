@@ -56,9 +56,8 @@ related:
   - INS-260327-8A06
   - INS-260327-9EC4
   - INS-260327-F50F
-  - INS-260327-5D5D
-  - INS-260327-9A23
   - INS-260327-B87B
+  - INS-260327-9A23
   - INS-260327-F3A5
 ---
 Omega-6 and omega-3 fatty acids share the same desaturase and elongase enzymes for conversion. When seed oils flood the body with omega-6 linoleic acid, these enzymes are monopolized, crippling omega-3 conversion. This is why vegetarians and the general population show poor ALA-to-EPA/DHA conversion.

@@ -51,15 +51,15 @@ stance: >-
   rebuilding their entire business model.
 related:
   - INS-260327-7EFD
+  - INS-260327-6A45
   - INS-260403-323A
   - INS-260403-6BD9
   - INS-260403-0435
   - INS-260403-524B
-  - INS-260403-2AE7
   - INS-260404-007B
   - INS-260404-8D5F
   - INS-260404-41AA
-  - INS-260404-B350
+  - INS-260404-3C7A
 evidence:
   - id: INS-260403-524B
     type: TRANSFERS_TO

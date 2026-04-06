@@ -53,11 +53,11 @@ stance: >-
   long enough timeline.
 related:
   - INS-260323-D9CE
+  - INS-260330-E585
   - PRI-260328-E1CE
   - PRI-260323-9D46
-  - INS-260330-E585
-  - INS-260330-654D
   - INS-260329-5A24
+  - INS-260327-15E1
 evidence:
   - id: INS-260323-D9CE
     type: TRANSFERS_TO

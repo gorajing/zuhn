@@ -49,6 +49,7 @@ stance: >-
   provides enough foundational competence to start applying for jobs requiring
   that skill
 related:
+  - INS-260322-76B5
   - INS-260323-0982
   - INS-260323-7CA7
   - INS-260323-E3FD

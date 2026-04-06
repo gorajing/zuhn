@@ -51,7 +51,6 @@ stance: >-
   signals through channels that professional frameworks systematically discount
   as noise
 related:
-  - INS-260325-D2AA
   - INS-260325-D02E
   - INS-260325-0C45
   - INS-260325-FCF1
@@ -60,6 +59,7 @@ related:
   - INS-260327-B1A8
   - INS-260327-A680
   - INS-260326-9E23
+  - INS-260327-2D68
   - INS-260327-B93E
 evidence:
   - id: INS-260330-9733

@@ -45,6 +45,7 @@ stance: >-
   rather than treated as a signal to retreat to safety
 related:
   - INS-260325-600C
+  - INS-260325-D9D8
   - INS-260325-0E1D
   - INS-260327-5F94
   - INS-260327-CA72
@@ -53,7 +54,6 @@ related:
   - INS-260327-1845
   - INS-260327-F397
   - INS-260327-71A3
-  - INS-260327-E26D
 evidence:
   - id: INS-260325-600C
     type: CHALLENGES

@@ -56,7 +56,6 @@ related:
   - INS-260323-72EB
   - PRI-260328-9EC9
   - INS-260328-6C9A
-  - INS-260330-51D1
 stance: Intelligence is multi-dimensional
 evidence:
   - id: INS-260328-6C9A

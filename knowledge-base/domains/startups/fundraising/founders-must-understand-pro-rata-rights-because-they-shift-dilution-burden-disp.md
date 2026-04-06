@@ -52,10 +52,10 @@ stance: >-
   hidden cost is that founders absorb proportionally more dilution in every
   subsequent round.
 related:
-  - INS-260403-6A65
   - INS-260403-CF7C
   - INS-260322-6C4B
-  - INS-260403-B9A9
   - INS-260323-4C43
+  - PRI-260405-E9C5
+  - INS-260330-855A
 ---
 Pro-rata rights give existing investors the option to invest additional money in future rounds to maintain their ownership percentage. While this seems like a simple, fair mechanism, founders often fail to think through the math. When early investors exercise pro-rata rights, they avoid dilution — but that dilution doesn't disappear, it gets concentrated on the remaining shareholders, primarily the founders. Consider: if you raise $2M on a $6M cap (giving away ~25%), then raise a Series A where existing investors exercise pro-rata to stay at 25% and new investors take 20%, the founders' share shrinks faster than a simple dilution model would suggest. The compounding effect across multiple rounds can be dramatic. This isn't a reason to refuse pro-rata rights (they're standard and expected), but founders must model out multi-round dilution scenarios to understand their true ownership trajectory. Too many founders focus only on valuation while ignoring how these structural terms reshape ownership over time.

@@ -54,9 +54,9 @@ stance: >-
   catastrophic.
 related:
   - INS-260325-9A0F
+  - INS-260326-73F4
   - INS-260327-561F
   - INS-260327-399D
-  - INS-260327-71A5
   - PRI-260405-0676
   - INS-260330-6D86
   - PRI-260403-67FC

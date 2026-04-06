@@ -43,6 +43,7 @@ stance: >-
   cannibalize or diverge from their core model
 related:
   - INS-260327-0004
+  - INS-260327-42F0
   - INS-260327-500C
   - INS-260327-30E4
   - INS-260327-7C69

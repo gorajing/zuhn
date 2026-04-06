@@ -53,12 +53,12 @@ stance: >-
   are more persuasive than market size data because they directly address
   investors' primary fear that no one will want the product.
 related:
+  - INS-260327-4D70
   - INS-260402-F5E0
-  - INS-260403-17A3
-  - INS-260403-8F31
-  - INS-260405-672E
-  - INS-260403-1444
   - INS-260404-29F4
+  - INS-260405-F9EC
+  - PRI-260323-0942
+  - INS-260404-B01F
 ---
 Graham identifies the core anxiety driving early-stage investor skepticism: that the startup built something based on theory rather than real demand. Market size statistics don't address this — they describe a potential future, not present human need. A user story about a specific person using an inadequate workaround demonstrates that the problem exists today, independently of the startup.
 

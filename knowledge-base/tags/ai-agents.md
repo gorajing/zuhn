@@ -10,9 +10,7 @@
 - `INS-260330-52C3` LLMs' real production value is covering the long tail of unexpected inputs that killed previous-generation AI systems, even at the cost of occasional hallucination.
 - `INS-260322-B6DE` Every AI employee should map to one of seven business operations stages: outreach, discovery, proposal, sales, onboarding, retention, and competitive intelligence.
 - `INS-260322-3010` Upload bank and credit card statements to an AI agent to identify SaaS subscriptions that can be replaced with custom AI-built modules — one audit revealed $1000/month in replaceable subscriptions.
-- `INS-260325-E1FA` LangChain's Harrison Chase: context engineering (assembling the right info at the right time) matters more than prompt engineering for agents.
 - `INS-260322-760A` The 'self-driving money' app that automatically allocates paychecks, sweeps savings, and invests is technically feasible but faces a trust barrier — most consumers don't understand or trust the agent's actions.
-- `INS-260403-1E4A` AI pricing is shifting from per-seat to outcome-based because AI can now deliver measurable results, making customers unwilling to pay for inputs.
 - `INS-260327-EE5E` Twitter makes AI agent competition feel intense, but the market is so huge companies rarely encounter actual competitors.
 - `INS-260325-73C0` Bret Taylor: AI breaks per-seat SaaS — the new model charges for outcomes (tasks completed, problems solved), not users provisioned.
 - `INS-260325-DFC7` FlashIntel CEO Yi Shi: find industries where standards are not set, apply tech first — tokens are the new currency in the AI era.

@@ -47,10 +47,10 @@ resolutions:
     delivery, inspired by how viruses naturally target specific cells.
 related:
   - INS-260325-07FA
-  - INS-260325-1AB9
   - PRI-260328-5989
   - INS-260325-3F8B
   - INS-260325-EC93
+  - INS-260327-E8D3
   - INS-260327-97AE
 stance: >-
   Casgevy, the first FDA-approved CRISPR therapy, effectively cures sickle cell

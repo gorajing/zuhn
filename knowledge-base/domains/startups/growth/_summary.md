@@ -1,6 +1,6 @@
 # Topic: growth
 
-> 57 insights
+> 52 insights
 
 - `INS-260404-1A9D` [high] When an AI product cuts process time by 92%, the switching cost of NOT adopting it exceeds the cost of change, driving organic product-led growth.
 - `INS-260330-73A2` [high] Growth equals conversion minus churn, and reducing churn by 1% has the identical mathematical effect on growth as increasing conversion by 1%, but costs significantly less.
@@ -12,7 +12,6 @@
 - `INS-260402-2632` [high] Users judge products as animations not snapshots — the velocity of improvement matters more than current feature set, and responding to feedback creates word-of-mouth that no ad budget can match.
 - `INS-260330-AE70` [high] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.
 - `INS-260330-DE80` [high] Apple pivoted its growth narrative from iPhone unit sales to ecosystem ARPU (services, accessories, subscriptions) once smartphone saturation made unit growth impossible.
-- `INS-260330-D487` [high] Dedicate 100% of growth effort to a single channel per week to get clean signal on whether it works before moving on.
 - `INS-260330-323E` [high] Test one growth channel at a time with full dedication for a week; only move on when you have a clear signal it works or doesn't.
 - `INS-260403-D49B` [high] Airbnb broke through by focusing exclusively on New York City — their highest-demand market — and doing things that don't scale there first.
 - `INS-260330-7C05` [high] Get big slow — the slower you burn funding, the more time you have to learn, and deep business understanding is the ultimate competitive weapon.
@@ -29,18 +28,14 @@
 - `INS-260330-072D` [high] One person saying 'don't use them' destroys more growth than ten champions create, so always make it right even when it's expensive.
 - `INS-260330-49A4` [high] At 10 users worry about reaching 100, not about reaching a million — necessity will force the right solutions at each stage.
 - `INS-260330-CBEF` [high] At 10 users worry about reaching 100, not a million — necessity at each breaking point will force the right architectural decisions.
-- `INS-260330-E61E` [high] Churned and resurrected users vastly outnumber new signups after early growth so optimizing for low-engagement users moves the retention needle far more than tuning for power users.
 - `INS-260330-697F` [high] Building great product means optimizing for power users, but driving growth means optimizing for the marginal user who barely engages.
 - `INS-260330-59DC` [high] The users who drive growth metrics are the ones on the edge of churning or reactivating, not your most engaged users.
 - `INS-260330-1266` [high] Dominant technologies almost always grew through word-of-mouth from devoted early adopters, not through splashy launches.
 - `INS-260330-33FF` [high] Preferential attachment (rich-get-richer dynamics) is a mathematical inevitability that explains why small early leads in views, users, or market share compound into dominant positions.
 - `INS-260330-C0E2` [high] Apple's improving phone quality extended upgrade cycles from 2 years to 3-4 years, flattening sales despite a growing installed base — a structural paradox for any durable goods company.
 - `INS-260330-D0AB` [high] Paul's decision to drop circumcision and Jewish law requirements for converts removed the single biggest friction point and opened Christianity to the entire Roman world.
-- `INS-260330-CB30` [high] A small reduction or increase in daily/weekly growth rate compounds into order-of-magnitude differences in outcomes, making growth rate the single highest-leverage metric.
 - `INS-260330-608C` [high] A small reduction in growth rate (e.g., from 15% to 10% daily) produces dramatically different outcomes over time due to compounding, making rate optimization the highest-leverage intervention.
-- `INS-260330-05C7` [high] Tiny growth rate differences compound into massive outcome gaps, making growth rate optimization the highest-leverage activity.
 - `INS-260330-8817` [high] Small differences in growth rates compound into enormous outcome divergence because exponential functions amplify parameter sensitivity over time.
-- `INS-260402-3F92` [high] A company growing 1% weekly reaches 1.7x/year; at 5% weekly it reaches 12.6x/year — human intuition dramatically underestimates this divergence.
 - `INS-260402-318B` [high] Superlinear returns arise from exponential compounding, winner-take-all thresholds, or their combination.
 - `INS-260330-8048` [high] Mark Zuckerberg chose monthly active users over registered users and held everyone — internal and external — to that metric, which prevented the vanity-metric trap that killed competitors.
 - `INS-260403-99B1` [high] Exponential startup growth comes from making a product so good users recommend it, not from launch tactics or exposure strategies.

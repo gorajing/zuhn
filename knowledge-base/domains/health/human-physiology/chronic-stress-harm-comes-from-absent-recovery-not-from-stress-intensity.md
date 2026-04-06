@@ -40,12 +40,12 @@ stance: >-
   The damage attributed to stress is primarily caused by insufficient recovery
   periods rather than by the stress exposure itself
 related:
+  - INS-260330-8898
   - INS-260330-E0A7
   - INS-260403-B6CD
   - INS-260403-518E
-  - INS-260325-5F3C
-  - INS-260330-8898
   - PRI-260323-A3A3
+  - INS-260325-A66E
 evidence:
   - id: INS-260330-E0A7
     type: EXTENDS

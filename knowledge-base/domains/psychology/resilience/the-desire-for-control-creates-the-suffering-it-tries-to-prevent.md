@@ -49,10 +49,11 @@ stance: >-
 related:
   - INS-260325-E0D5
   - INS-260327-F397
-  - INS-260327-439A
   - INS-260330-206F
+  - INS-260327-439A
   - PRI-260328-1654
   - INS-260329-6B95
+  - INS-260329-A6F0
 ---
 The control paradox: seeking control creates anxiety about losing control, which creates more control-seeking behavior, which creates more anxiety. The person who must control their environment, relationships, and outcomes lives in perpetual tension because perfect control is impossible.
 

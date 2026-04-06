@@ -47,16 +47,16 @@ stance: >-
   rather than calorie counting, making food quality more important than calorie
   quantity
 related:
+  - INS-260325-E538
   - INS-260325-0BD7
   - INS-260327-3C60
   - INS-260327-E2F1
   - INS-260327-6664
   - INS-260327-D4B5
-  - INS-260327-BEF6
-  - INS-260327-0D7C
   - INS-260327-B626
   - INS-260327-A7D0
   - INS-260330-45D9
+  - INS-260327-E2F2
 evidence:
   - id: INS-260327-E2F1
     type: TRANSFERS_TO

@@ -47,11 +47,11 @@ stance: >-
   Complex sequential processes become comprehensible only when you identify the
   single repeating mechanism underneath the apparent complexity
 related:
-  - INS-260403-CD2A
-  - INS-260404-F014
-  - INS-260404-3500
-  - PRI-260403-70D0
   - INS-260330-F671
+  - PRI-260403-70D0
+  - INS-260404-3500
+  - INS-260404-EFA8
+  - INS-260330-1084
 evidence:
   - id: INS-260405-64C5
     type: SUPPORTS

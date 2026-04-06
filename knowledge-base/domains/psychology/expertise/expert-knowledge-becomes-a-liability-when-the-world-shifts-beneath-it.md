@@ -45,11 +45,12 @@ stance: >-
   Domain expertise systematically blinds people to paradigm shifts because
   confidence compounds on a now-outdated version of reality
 related:
+  - INS-260330-1D61
   - INS-260402-F772
-  - INS-260405-3331
-  - INS-260330-5EAC
   - INS-260330-0E86
   - PRI-260328-22EC
+  - INS-260330-FB5A
+  - INS-260402-E76D
   - INS-260403-0B99
 ---
 When the world is static, accumulated experience monotonically increases the reliability of beliefs. But most domains change, and experts who don't account for this become prisoners of outdated mental models. The danger is that expertise feels increasingly reliable over time — the very mechanism that makes experts useful in stable domains makes them fragile in shifting ones.

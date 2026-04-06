@@ -59,6 +59,7 @@ stance: >-
   lifestyle problems.
 related:
   - INS-260325-123C
+  - INS-260325-A293
   - INS-260327-1AEC
   - INS-260327-6EB6
   - INS-260330-4D8B
@@ -67,7 +68,6 @@ related:
   - PRI-260325-638B
   - PRI-260325-F627
   - INS-260325-E6C8
-  - INS-260330-B1F6
 evidence:
   - id: INS-260327-6EB5
     type: TRANSFERS_TO

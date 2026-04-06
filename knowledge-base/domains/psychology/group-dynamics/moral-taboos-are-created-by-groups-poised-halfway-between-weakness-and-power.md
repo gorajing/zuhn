@@ -46,11 +46,11 @@ stance: >-
   from groups that are powerful enough to enforce taboos yet insecure enough to
   need them.
 related:
+  - PRI-260405-7F1E
   - PRI-260323-287B
   - INS-260323-0603
   - INS-260329-EF96
   - INS-260330-748E
-  - PRI-260323-0942
 evidence:
   - id: INS-260323-0603
     type: EXTENDS

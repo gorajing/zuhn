@@ -53,7 +53,6 @@ related:
   - INS-260330-21C2
   - INS-260330-2AA7
   - INS-260330-148C
-  - INS-260330-181B
 evidence:
   - id: INS-260330-CED2
     type: TRANSFERS_TO

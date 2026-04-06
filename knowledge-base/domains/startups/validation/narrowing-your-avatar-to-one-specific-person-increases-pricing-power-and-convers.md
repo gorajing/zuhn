@@ -50,10 +50,10 @@ stance: >-
   charge more and close faster than targeting a broad market
 related:
   - INS-260329-9D87
-  - INS-260329-9098
   - INS-260329-B28C
   - INS-260329-1DE0
   - INS-260404-FB91
+  - INS-260330-697F
 ---
 Hormozi emphasizes that broke entrepreneurs instinctively try to serve everyone to maximize their addressable market, but this is backwards. The narrower you define your avatar — down to a single specific person with specific circumstances — the more your offer feels custom-built for them, which increases willingness to pay and shortens the sales conversation.
 

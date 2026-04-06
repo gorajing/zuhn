@@ -42,9 +42,9 @@ stance: >-
   nutrients
 related:
   - INS-260327-B29D
-  - INS-260327-4CF4
-  - INS-260327-244B
   - INS-260327-88E1
   - INS-260327-44CC
+  - INS-260327-F103
+  - INS-260325-E538
 ---
 Modern bread harms health through multiple mechanisms beyond gluten: glyphosate residues from pre-harvest spraying, potassium bromate (banned in most countries), added seed oils, HFCS, and highly refined flour with depleted nutrients

@@ -1,6 +1,6 @@
 # Topic: future-of-work
 
-> 42 insights
+> 40 insights
 
 - `INS-260320-A745` [very_high] Anthropic's own studies show AI deskilling in coding is real, but depends on HOW you use models — some usage patterns cause skill degradation, some don't.
 - `INS-260321-9824` [very_high] Tao's papers now have more code, more plots, deeper literature searches — but the core mathematical work (pen and paper for the hardest part) hasn't been accelerated. AI enriches output without deepening it.
@@ -18,7 +18,6 @@
 - `INS-260320-E683` [high] Even if you're only doing 5% of the task and AI does 95%, that 5% gets "super amplified" — you become 20x more productive through comparative advantage.
 - `INS-260320-DDD9` [high] In a world where AI can generate anything, "having basic critical thinking skills may be the most important thing to success."
 - `INS-260323-DA85` [high] When companies replace interns and junior staff with AI, they destroy the training ground that produces the next generation of senior experts.
-- `INS-260329-4F04` [high] Experts who previously spent 90% of time generating work now spend that time on quality assurance of AI output, increasing their throughput dramatically.
 - `INS-260329-3489` [high] Experts shift from spending 90% of time generating to spending most time on QA and validation of AI output.
 - `INS-260320-5F14` [high] "Even if an AI is always going to be better than you at something, you can still learn that thing. You can still enrich yourself intellectually."
 - `INS-260327-32F1` [high] Career advice from successful people is inherently flawed by survivorship bias (only winners speak) and confirmation bias (they accentuate positives and eliminate negatives in retrospect).
@@ -42,5 +41,4 @@
 - `INS-260329-A862` [medium] Programming is becoming a universal skill stratified by depth, just as reading ranges from functional literacy to literary criticism.
 - `INS-260325-2069` [medium] The unemployed won't be biologists and chemists but biologists and chemists who don't use quantum computers -- the hammer doesn't replace the carpenter, it amplifies them.
 - `INS-260405-0E77` [medium] AI collapses the historical separation between software budgets and labor budgets by doing the whole job, not just tooling it.
-- `INS-260325-3CB5` [medium] AI, clean energy, and bioengineering are all hitting exponential growth tipping points at the same time.
 - `INS-260405-18C8` [low] Like steam engines making coal cheaper and thereby increasing total coal consumption, AI lowering the cost of knowledge work will likely expand total demand for that work.

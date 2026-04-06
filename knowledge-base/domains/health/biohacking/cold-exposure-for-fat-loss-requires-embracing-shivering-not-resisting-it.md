@@ -53,6 +53,6 @@ related:
   - INS-260330-A33F
   - INS-260330-9C40
   - INS-260327-F958
-  - INS-260327-C19C
+  - INS-260330-6377
 ---
 A Nature paper demonstrated that shivering, not cold exposure per se, is what triggers brown fat thermogenesis. When muscles shiver, they release succinate, which acts on brown fat to increase metabolic rate and convert beige fat into true brown fat over time. The optimal protocol is counterintuitive: get into cold water until you shiver, get out (don't dry off), wait 1-3 minutes, then repeat 3 times — the cooling-rewarming cycle maximizes shivering. This is the opposite of the popular approach of staying in cold water as long as possible while remaining calm. Furthermore, becoming cold-adapted defeats the purpose for fat loss specifically, because adaptation means less shivering and therefore less succinate release. Huberman recommends cycling cold exposure in 2-3 month blocks rather than year-round to avoid adaptation.

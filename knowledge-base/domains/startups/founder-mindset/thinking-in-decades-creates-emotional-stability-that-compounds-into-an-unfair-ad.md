@@ -47,11 +47,11 @@ stance: >-
   volatility and creates a structural advantage over competitors who optimize
   for 90-day cycles.
 related:
-  - INS-260329-6FAC
   - PRI-260328-23B0
   - INS-260323-4D14
   - INS-260325-3A54
   - INS-260330-0149
+  - PRI-260405-CCCE
 evidence:
   - id: INS-260323-4D14
     type: TRANSFERS_TO

@@ -47,10 +47,10 @@ stance: >-
   preserves long-term relationships.
 related:
   - INS-260328-6A8C
+  - INS-260329-59D2
   - INS-260329-2A5A
   - INS-260403-8FB5
   - INS-260329-21AF
-  - INS-260330-A3F2
   - INS-260327-C5D0
   - INS-260403-7B28
 evidence:

@@ -7,7 +7,6 @@
 - `INS-260327-E8D3` Fasting's real benefit is reducing gut endotoxin (LPS), not autophagy -- and charcoal, insoluble fiber, and avoiding resistant starches can achieve the same effect without cortisol damage.
 - `INS-260327-5943` Fasting with a cortisol-to-DHEA ratio above 0.5 is counterproductive -- it accelerates catabolism, suppresses immunity, and may promote cancer growth; older adults are especially vulnerable.
 - `INS-260330-18EE` Weekend feeding window drift effectively jet-lags your metabolic system, offsetting weekday fasting benefits.
-- `INS-260327-0931` Intermittent fasting activates stem cell regeneration and immune system reset after 48-72 hours
 - `INS-260330-2ADC` Light walking after meals accelerates gastric emptying and glucose clearance, shortening the time before your body enters a true fasted state.
 - `INS-260327-3D1C` Prolonged fasting combined with specific nutrients creates a hostile environment for colon cancer cells
 - `INS-260327-3678` The most overlooked medicine is the absence of food rather than the addition of supplements

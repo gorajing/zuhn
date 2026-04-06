@@ -44,11 +44,12 @@ resolutions:
     assumptions about how the world works.
 related:
   - INS-260323-8966
-  - INS-260327-4367
   - INS-260330-0E86
+  - PRI-260405-ADEA
   - INS-260402-D0F3
   - INS-260330-5BC4
   - INS-260323-D934
+  - INS-260327-924F
   - INS-260402-7A1A
   - INS-260404-DA41
   - INS-260405-370B

@@ -47,15 +47,15 @@ stance: >-
   single source of truth that all applications share
 related:
   - INS-260329-BE35
+  - INS-260329-34EE
   - INS-260329-47DD
-  - INS-260329-EEA2
   - INS-260329-2FB8
   - INS-260329-6286
   - INS-260329-3423
   - INS-260329-F556
+  - INS-260329-BE72
   - INS-260329-34C0
   - INS-260329-D297
-  - PRI-260403-9E80
 evidence:
   - id: INS-260329-BE35
     type: SUPPORTS

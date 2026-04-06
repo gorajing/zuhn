@@ -44,7 +44,6 @@ stance: >-
   repeatable editing heuristic that eventually becomes automatic
 related:
   - INS-260327-04D8
-  - INS-260404-6442
   - INS-260404-616F
   - INS-260323-87F3
   - INS-260404-E5D9

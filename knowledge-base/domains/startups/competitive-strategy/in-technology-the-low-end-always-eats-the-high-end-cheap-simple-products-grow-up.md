@@ -49,11 +49,13 @@ stance: >-
   powerful products are to make cheap.
 related:
   - INS-260322-144E
+  - INS-260329-78CB
   - INS-260329-21AF
   - INS-260330-0C96
   - INS-260402-15A7
   - INS-260330-6A47
   - INS-260403-8BE9
+  - INS-260405-DEF2
 evidence:
   - id: INS-260322-144E
     type: TRANSFERS_TO

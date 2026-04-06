@@ -52,7 +52,6 @@ stance: >-
   compounds across the knowledge chain.
 related:
   - INS-260330-0143
-  - INS-260403-F63E
   - INS-260403-07C3
   - INS-260404-FDEA
   - INS-260404-BEF7

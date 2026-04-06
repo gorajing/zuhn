@@ -37,9 +37,9 @@ resolutions:
 related:
   - INS-260323-7EEB
   - INS-260329-49A4
-  - INS-260330-201F
   - INS-260327-0700
   - INS-260329-CBF6
+  - INS-260402-1D32
 stance: >-
   One-size-fits-all SaaS benchmarks are misleading — a pre-seed company should
   target burn multiple <2.5x while Series B+ targets <1.0x

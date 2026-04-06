@@ -1,6 +1,6 @@
 # Topic: innovation
 
-> 106 insights
+> 98 insights
 
 - `INS-260405-EFC2` [high] C invented the curly-brace, semicolon syntax that now defines how billions of developers write code — its design choices became the assumed defaults of most successor languages.
 - `INS-260403-1750` [high] Startup success requires being right when everyone else is wrong, which demands aggressive independent-mindedness, not just passive nonconformity.
@@ -31,10 +31,6 @@
 - `INS-260405-6BBC` [high] Knowing the Business Model Canvas is not enough — running a room of skeptical executives through it productively requires a separate and trainable skill set.
 - `INS-260405-3403` [high] You must fund the losers to find the winners—the portfolio math only works if you don't pre-filter by apparent promise.
 - `INS-260403-6224` [high] Innovation program assessment requires dual axes: value creation and culture change capacity.
-- `INS-260404-CD55` [high] Embedding legal and compliance as collaborative partners in the innovation program design phase transforms them from blockers into enablers.
-- `INS-260405-F99E` [high] Believing you can pick innovation winners leads to concentrated bets on false certainty; portfolio strategy acknowledges uncertainty and prices it correctly.
-- `INS-260403-383F` [high] Treat innovation like venture capital: invest in a portfolio expecting most projects to fail so the few winners can outperform.
-- `INS-260403-F87C` [high] Managing innovation alongside core business through portfolio thinking outperforms isolated innovation labs.
 - `INS-260403-C3A3` [high] Managing existing businesses requires execution precision; inventing new ones requires comfort with uncertainty and radical pivots.
 - `INS-260403-F148` [high] Innovation platforms that bundle methodology and training outperform feature-rich tools that lack structured frameworks.
 - `INS-260403-6AB5` [high] Match innovation program type (tactical vs. strategic vs. transformational) to your organization's current maturity for maximum ROI.
@@ -66,7 +62,6 @@
 - `INS-260403-740E` [high] The pattern of initial panic followed by exponential expansion has repeated across every major creative-technology disruption — photography, electronic music, chess engines, and now AI.
 - `INS-260405-0A6D` [high] Portfolio innovation strategy only works if you actually exit the failures fast—without a kill discipline, you accumulate zombie projects that consume resources and produce nothing.
 - `INS-260405-C342` [high] Photosynthesis produces oxygen as a 'useless byproduct' — yet that waste product became the atmosphere that enables all animal life, including the humans who depend on the plants.
-- `INS-260403-B4F1` [high] All breathable oxygen on Earth is a waste byproduct of photosynthesis's water-splitting step, suggesting that the most transformative outputs often emerge as side effects rather than goals.
 - `INS-260403-F75F` [high] Most innovation failures happen not at ideation but at the transfer stage where validated ideas must shift from exploration teams to execution teams.
 - `INS-260403-FAD8` [high] Transformative innovation requires 10x more ideas in the pipeline because breakthrough outcomes are inherently unpredictable.
 - `INS-260404-FF39` [high] Oxygen — the molecule enabling all animal life — was originally a toxic waste product of early photosynthesis, suggesting that transformative innovations often emerge as byproducts.
@@ -78,7 +73,6 @@
 - `INS-260405-FBF1` [medium] An innovation Sharpe Ratio gives CFOs a risk-adjusted metric to compare experimentation against other asset classes rather than treating it as pure cost.
 - `INS-260403-5D81` [medium] Applying behavioral science to innovation training ensures skills actually transfer to daily work rather than fading post-program.
 - `INS-260405-5617` [medium] When regulations prevent informed, consenting adults from voluntarily joining early-stage experiments, the cost is paid in slower iteration cycles and delayed learning — not just in lost individual freedom.
-- `INS-260403-42F2` [medium] Lego Factory shows that powerful business model innovation can come from rejiggering fulfillment rather than reinventing the company.
 - `INS-260403-402A` [medium] Running executive, team, and initiative-specific innovation training in parallel builds capability faster than sequential rollouts.
 - `INS-260403-24AE` [medium] Innovation needs its own dedicated hierarchy paralleling the existing business structure, not ad-hoc committees.
 - `INS-260404-6BBB` [medium] Tools like 'Spark Ideas With Design Constraints' and trigger question decks systematically push teams past their first obvious ideas.
@@ -102,9 +96,7 @@
 - `INS-260403-63E6` [medium] When you lack selection expertise, use others' demonstrated picks as a proxy rather than trying to build the capability internally.
 - `INS-260403-3A34` [medium] Build reusable legal and compliance frameworks with legal teams upfront so innovation teams don't renegotiate from scratch each time.
 - `INS-260405-9FD9` [medium] Osterwalder observes that being tasked with 'inventing the future' of a company carries surprisingly little prestige inside most large organizations.
-- `INS-260405-66A1` [medium] Regulatory constraints define the innovation search space but don't eliminate the need for systematic discovery and validation.
 - `INS-260405-3066` [medium] Apple framed wallet replacement not as a convenience upgrade but as a security and privacy improvement — a more compelling reason to change entrenched behavior.
 - `INS-260403-5427` [medium] Early innovation cohorts predictably struggle with experimentation speed, requiring systematic process fixes rather than ad hoc team support.
 - `INS-260403-4D8F` [medium] Structured toolboxes with experiment libraries and progress mapping enable both large and small companies to achieve world-class innovation.
-- `INS-260403-5BAD` [medium] Structured innovation programs beat ad-hoc creativity by providing repeatable, de-risked experimentation processes.
 - `INS-260403-C8FD` [medium] A dedicated internal ambassador who bridges innovation and execution teams prevents both isolation and antibody rejection.

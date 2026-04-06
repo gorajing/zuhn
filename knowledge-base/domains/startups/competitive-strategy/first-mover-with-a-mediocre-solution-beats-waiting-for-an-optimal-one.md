@@ -49,7 +49,6 @@ stance: >-
   that makes switching costs prohibitive, even when better alternatives become
   theoretically possible
 related:
-  - INS-260403-962E
   - INS-260403-637C
   - INS-260403-F68A
   - INS-260404-3B9D

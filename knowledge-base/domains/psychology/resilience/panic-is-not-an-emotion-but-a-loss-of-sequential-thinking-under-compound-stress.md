@@ -56,16 +56,16 @@ stance: >-
   rather than an emotional state, and it is prevented by forcing sequential
   decision-making
 related:
-  - INS-260325-27B2
   - INS-260325-3A04
   - INS-260323-DEEA
   - INS-260325-F1BC
   - INS-260325-A326
-  - INS-260329-FEF4
   - INS-260329-CCDE
   - INS-260329-DEE5
   - INS-260330-6C09
   - INS-260330-47E0
+  - INS-260330-7987
+  - PRI-260403-88F5
 evidence:
   - id: INS-260329-FEF4
     type: SUPPORTS

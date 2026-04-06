@@ -47,6 +47,6 @@ related:
   - INS-260402-9075
   - INS-260403-78B7
   - INS-260327-200C
-  - INS-260327-8254
+  - PRI-260405-E256
 ---
 Kisson's first startup taught her that restaurant booking is operationally heavy — the technology worked fine but the operational chain (owner -> manager -> part-time staff -> customer) broke at every handoff. She identifies this as the most valuable first lesson: as a tech founder, you naturally build product but ignore the operational details that determine whether anyone actually uses it. This pattern repeats across B2B where implementation, training, change management, and workflow integration are often harder problems than the technology itself.

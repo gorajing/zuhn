@@ -54,11 +54,11 @@ stance: >-
 related:
   - INS-260327-6F08
   - INS-260330-F9C9
-  - INS-260403-39F9
   - INS-260405-C22F
   - INS-260327-D285
   - PRI-260324-A608
   - INS-260404-CC9A
+  - INS-260405-1894
 evidence:
   - id: INS-260330-F9C9
     type: EXTENDS

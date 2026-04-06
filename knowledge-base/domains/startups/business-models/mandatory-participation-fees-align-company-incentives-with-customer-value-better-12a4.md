@@ -52,11 +52,12 @@ stance: >-
   business model optimizes for renewal rather than per-transaction extraction.
 related:
   - INS-260330-D824
-  - INS-260404-DD00
   - INS-260404-B8AE
-  - INS-260403-BF47
   - INS-260405-48EC
-  - INS-260403-8757
+  - INS-260405-8884
+  - INS-260403-9104
+  - INS-260404-13F1
+  - INS-260405-D4F4
 ---
 Costco derives 75% of its revenue from membership fees, which fundamentally restructures its incentive system. Unlike Amazon Prime, where the subscription is optional and the core business model remains per-transaction margin, Costco's mandatory membership means its survival depends entirely on members renewing. This creates a powerful feedback loop: the company must consistently deliver value (low prices, high quality) because raising prices saves pennies today but costs $60-120 in lost renewals.
 

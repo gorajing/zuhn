@@ -52,11 +52,9 @@ stance: >-
   Us, JC Penney) rather than an inherent structural disadvantage of physical
   retail against e-commerce.
 related:
-  - INS-260324-6017
   - INS-260324-B0D3
   - INS-260327-0710
   - INS-260403-FED6
-  - INS-260404-2839
   - INS-260403-D8A2
   - INS-260405-7B7C
   - INS-260404-96E6

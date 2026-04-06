@@ -56,11 +56,12 @@ stance: >-
   more time before failing.
 related:
   - INS-260327-42F0
-  - INS-260402-EE6E
   - INS-260403-C610
-  - INS-260404-9823
   - PRI-260403-3906
+  - INS-260327-D5CC
+  - INS-260327-CD36
   - INS-260403-83E2
+  - INS-260403-2B1D
 evidence:
   - id: INS-260327-42F0
     type: SUPPORTS

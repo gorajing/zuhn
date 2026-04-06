@@ -40,9 +40,9 @@ stance: >-
   resolve with supplementation
 related:
   - INS-260325-61A7
-  - INS-260327-F8BF
   - INS-260327-7E2F
   - PRI-260325-638B
   - INS-260330-332E
+  - INS-260327-A17A
 ---
 The majority of heart palpitations in otherwise healthy people are caused by electrolyte imbalances, specifically insufficient potassium and magnesium, and resolve with supplementation

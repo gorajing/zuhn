@@ -56,11 +56,11 @@ stance: >-
   structure for each specific task.
 related:
   - INS-260329-7255
-  - INS-260329-AC6E
   - INS-260329-F51D
   - PRI-260403-52DF
-  - INS-260329-1741
-  - INS-260403-8190
+  - INS-260404-BE07
+  - INS-260329-500E
+  - INS-260320-A745
 evidence:
   - id: INS-260327-2387
     type: TRANSFERS_TO

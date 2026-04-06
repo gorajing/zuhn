@@ -49,8 +49,8 @@ related:
   - INS-260323-B0EA
   - INS-260324-DC98
   - INS-260327-95C6
-  - INS-260327-4081
   - INS-260403-DF73
+  - INS-260403-886D
 stance: >-
   The Moneyball mindset — data over instinct, singles over home runs — gave
   corporations intellectual cover to rebrand cost-cutting as innovation, sy...

@@ -49,9 +49,9 @@ resolutions:
 related:
   - INS-260322-3DE2
   - INS-260322-6D1D
-  - INS-260403-2702
   - INS-260329-D8C7
   - INS-260323-1930
+  - INS-260330-84C6
 stance: >-
   All scale degree feeling states can be understood as combinations of two
   primary dimensions: the pure/neutral quality of degree 5 and the warm/swee...

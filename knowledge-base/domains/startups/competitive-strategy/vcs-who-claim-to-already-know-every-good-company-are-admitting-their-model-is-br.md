@@ -50,11 +50,11 @@ stance: >-
   startups is revealing a commodity-capital mindset that should disqualify them
   from venture investing.
 related:
-  - INS-260403-2E90
   - INS-260328-195E
+  - PRI-260405-2A11
   - INS-260328-A417
-  - INS-260404-93E3
   - PRI-260324-A608
+  - INS-260402-8424
 ---
 When Standard Capital launched, some VCs dismissed it by claiming they already had complete knowledge of every good company through their scouting and networks. Dalton and Michael point out this is a self-defeating admission: if you truly believe you know every good founder and the market is fully mapped, you're conceding that venture capital is a zero-sum commodity game with no margin.
 

@@ -1,6 +1,6 @@
 # Topic: growth-strategy
 
-> 59 insights
+> 58 insights
 
 - `INS-260329-AF18` [high] Before exploring new growth channels, exhaust 10x potential in your current working channel first.
 - `INS-260330-059C` [high] ByteDance's core innovation was building products around a personalization algorithm rather than a social graph, eliminating the need for users to follow anyone to get value.
@@ -9,7 +9,6 @@
 - `INS-260323-CE9A` [high] Rella's CEO and co-founders still personally handle customer support — the number one compliment they receive is 'we can tell you actually listen to us.'
 - `INS-260327-B357` [high] Intuit's accountant channel drives faster sales cycles, higher retention, and broader product adoption — but only because they invest in making accountants genuine partners who use the product themselves, not just resellers.
 - `INS-260329-4EF5` [high] When your first sale covers acquisition + fulfillment for the next customer, growth becomes self-funding and capital is no longer the bottleneck.
-- `INS-260329-AADB` [high] Structure offers so each customer pays back their acquisition cost within 30 days, turning customers into funding for the next customer.
 - `INS-260330-2ABC` [high] Coke's 'Cradle to grave' strategy paid schools $3,000/year for exclusive vending contracts, ensuring children became habitual consumers before they could make independent choices.
 - `INS-260323-8896` [high] Frederic Tudor broke through zero demand by giving bartenders free ice to make cocktails — once customers experienced cold drinks, they could never go back.
 - `INS-260322-D69E` [high] When COVID canceled 120 fully-booked rooms and left 2 months of runway, pivoting share houses to quarantine facilities and building a university quarantine solution actually grew the business beyond its pre-crisis trajectory.

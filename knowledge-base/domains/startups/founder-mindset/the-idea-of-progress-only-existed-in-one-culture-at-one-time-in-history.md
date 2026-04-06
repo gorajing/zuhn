@@ -46,11 +46,11 @@ stance: >-
   historically anomalous idea — most human civilizations assumed cyclical or
   declining trajectories.
 related:
-  - INS-260325-6F7F
   - PRI-260328-BF67
   - INS-260327-203C
   - INS-260325-F306
   - INS-260323-9B68
+  - INS-260330-615D
   - INS-260325-66BE
 evidence:
   - id: INS-260327-203C

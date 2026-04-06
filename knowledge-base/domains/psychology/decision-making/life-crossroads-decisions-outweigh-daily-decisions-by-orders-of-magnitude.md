@@ -47,11 +47,11 @@ stance: >-
   decision dashboard, making daily choices largely downstream of network
   topology.
 related:
-  - INS-260322-F8E4
   - INS-260323-DEEA
   - INS-260327-3049
   - INS-260325-4C6D
   - INS-260330-E794
+  - INS-260323-9F61
 evidence:
   - id: INS-260322-F8E4
     type: TRANSFERS_TO

@@ -46,9 +46,9 @@ stance: >-
   and resolve rapidly with electrolyte supplementation.
 related:
   - INS-260327-C782
-  - INS-260327-F8BF
   - INS-260327-7E2F
   - PRI-260325-638B
   - INS-260327-F222
+  - INS-260330-713C
 ---
 The heart is an electrical organ dependent on precise potassium-magnesium balance. The RDA for potassium is 4700mg/day but average intake is only 2500mg. Low potassium causes electrical instability in heart muscle cells. Magnesium controls the rhythm by managing calcium channels. Common depleting factors: stress (cortisol dumps potassium), high-carb diets (insulin drives potassium into cells), diuretics, caffeine, and sweating. Fix: large salads (leafy greens are potassium-rich), avocados, potassium citrate supplement, and magnesium glycinate. Many people get extensive cardiac workups when the issue is simply an electrolyte gap.

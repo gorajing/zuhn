@@ -47,7 +47,6 @@ stance: >-
   opponent's entry into the conflict are net-negative even when tactically
   successful
 related:
-  - INS-260326-1E52
   - INS-260327-7F88
   - INS-260327-F274
   - INS-260327-AA3B

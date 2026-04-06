@@ -48,14 +48,15 @@ stance: >-
   the day before a theory is falsified is the day you were most confident in it
 related:
   - INS-260321-D959
+  - INS-260327-924F
   - INS-260330-0AE2
   - PRI-260324-2C9F
   - PRI-260405-262B
   - PRI-260327-5635
+  - INS-260330-3AF7
   - INS-260403-6E9F
   - INS-260403-0803
-  - INS-260405-2CDB
-  - INS-260405-3331
+  - INS-260403-222E
 evidence:
   - id: INS-260321-D959
     type: CHALLENGES

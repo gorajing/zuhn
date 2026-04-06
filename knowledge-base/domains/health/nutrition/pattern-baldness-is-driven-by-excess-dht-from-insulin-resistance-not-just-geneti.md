@@ -50,7 +50,7 @@ related:
   - PRI-260328-7AF5
   - PRI-260328-0174
   - INS-260325-A03D
-  - INS-260327-C19C
+  - INS-260327-FC60
   - INS-260327-67A9
 ---
 Hair follicles require massive oxygen and mitochondria to function. DHT (a potent form of testosterone) increases with age while regular testosterone decreases. Excess DHT causes follicle inflammation, oxygen deprivation, and scar tissue formation around the follicle — eventually killing hair growth. The genetic component is enzyme sensitivity and receptor density, but the driver of elevated DHT is insulin resistance from high carb diets. Berg at 60 has no hair loss despite age. The best meal for hair growth focuses on lowering insulin resistance through low-carb eating, intermittent fasting, and specific nutrients like zinc, biotin, and saw palmetto (a natural DHT inhibitor).

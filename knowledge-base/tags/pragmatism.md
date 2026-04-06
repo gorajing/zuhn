@@ -7,5 +7,4 @@
 - `INS-260405-2299` Using available low-tech tools beats waiting for proper systems when speed of alignment matters.
 - `INS-260323-BDC1` The tension between dreaming and pragmatism is not a contradiction to resolve but a dance to maintain — you need both the north star and the day-by-day execution.
 - `INS-260323-3982` Friedman's willingness to compromise and say 'I was wrong' gave him lasting policy influence, while Rand's philosophical purity made her schismatic and limited her practical impact.
-- `INS-260330-B7B1` Plants compensate for RuBisCo's 50% error rate by producing 40 billion tons of it — brute-force scaling of a flawed solution often beats redesigning.
 - `INS-260323-8B90` Destiny identifies a recurring pattern in conservative argumentation: every proposed incremental fix gets redirected to a root cause (like two-parent households) that neither side can directly engineer, creating a policy paralysis loop.

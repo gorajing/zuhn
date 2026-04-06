@@ -41,10 +41,10 @@ resolutions:
     deployment fails.
 related:
   - INS-260323-4D4E
-  - INS-260404-AFE6
-  - INS-260404-D672
   - INS-260322-627E
   - INS-260328-E410
+  - INS-260404-ED0F
+  - INS-260403-AFCD
   - INS-260325-5CA5
   - INS-260322-760A
   - INS-260323-A183

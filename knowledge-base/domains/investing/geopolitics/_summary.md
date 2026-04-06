@@ -1,8 +1,7 @@
 # Topic: geopolitics
 
-> 356 insights
+> 353 insights
 
-- `INS-260326-1E52` [very_high] The Bolsheviks were a minority party in 1917 Russia but the most disciplined and decisive -- they captured the state while larger factions deliberated.
 - `INS-260326-3E19` [very_high] Pharmaceutical companies funding the FDA, banks staffing financial regulators, and tech giants writing platform regulations are structurally identical -- the mechanism is industry-funded oversight producing industry-favorable rules.
 - `INS-260326-79DF` [very_high] Germany's unrestricted submarine warfare sank 886,000 tons in April 1917 alone -- a tactical triumph that brought America into the war and guaranteed Germany's defeat.
 - `INS-260327-4DE8` [high] The Bolsheviks seized power with a tiny force by capturing Petrograd's key infrastructure — the telegraph office, bridges, railway stations, and banks — rather than fighting the entire city.
@@ -225,10 +224,8 @@
 - `INS-260330-7DB6` [high] A pandemic, Fed rate hikes, and the Ukraine war each individually would be significant — but hitting simultaneously creates non-linear damage because each shock removes the buffer against the others.
 - `INS-260327-8152` [high] The 1848 revolutions erupted across Europe simultaneously but each national movement pursued different goals and couldn't coordinate, allowing conservative governments to crush them one by one.
 - `INS-260327-E2F1` [high] The UK's few things working well are all concentrated in London, making national GDP look acceptable while the rest of the country structurally declines.
-- `INS-260327-C935` [high] At Aspern-Essling, Napoleon's pontoon bridges across the Danube broke repeatedly from Austrian fire-ships and debris, stranding his army on the wrong side of the river.
 - `INS-260323-9676` [high] ASML is the sole manufacturer of EUV lithography machines worldwide — every advanced chip on Earth depends on one company in one Dutch town, making semiconductor manufacturing the most concentrated chokepoint in the global economy.
 - `INS-260327-7750` [high] Belisarius repeatedly defeated armies 5-10x his size because his forces were professionally trained, personally loyal, and under unified command while his opponents were tribal coalitions.
-- `INS-260330-2AC0` [high] Sovereign wealth funds combine massive capital pools with minimal oversight, making them uniquely exploitable for large-scale fraud.
 - `INS-260327-C22F` [high] Belisarius conquered the entire Vandal Kingdom in weeks by attacking before they could assemble their dispersed forces, defeating them piecemeal before they understood the threat.
 - `INS-260327-80AD` [high] Napoleon's greatest weapon was not army size but the speed with which he moved before coalition forces could unite.
 - `INS-260327-A052` [high] The Crusade mobilized tens of thousands to march across a continent at their own expense because the spiritual incentive (remission of sins) was more powerful than any paycheck.

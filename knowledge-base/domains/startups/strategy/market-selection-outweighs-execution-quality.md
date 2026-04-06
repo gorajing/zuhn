@@ -46,6 +46,7 @@ stance: >-
   Choosing the right market matters more than how hard you work — the boat
   you're in determines outcomes more than how hard you row.
 related:
+  - INS-260327-CFE5
   - INS-260329-D37E
   - INS-260329-CBF3
   - PRI-260328-F0B4

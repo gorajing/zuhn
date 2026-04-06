@@ -51,10 +51,11 @@ stance: >-
   investing requires
 related:
   - INS-260325-0688
+  - INS-260330-2BEC
   - INS-260402-2B96
   - PRI-260403-26B9
   - INS-260403-57FF
-  - INS-260403-383F
+  - INS-260327-8254
   - INS-260403-B133
   - INS-260403-C1F5
 evidence:

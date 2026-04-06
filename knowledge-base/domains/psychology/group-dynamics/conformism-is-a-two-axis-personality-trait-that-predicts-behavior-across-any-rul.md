@@ -47,10 +47,9 @@ stance: >-
   axes is more a function of their personality than the specific beliefs or
   rules of their society.
 related:
-  - INS-260403-2702
+  - INS-260330-B869
   - INS-260329-66C7
   - INS-260325-F707
-  - INS-260330-B869
   - PRI-260323-0F93
   - INS-260404-94EB
 ---

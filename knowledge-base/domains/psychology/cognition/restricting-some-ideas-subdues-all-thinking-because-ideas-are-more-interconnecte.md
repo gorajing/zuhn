@@ -47,12 +47,10 @@ stance: >-
   propagates restrictions backward into every field that might yield
   implications touching the forbidden topics.
 related:
-  - INS-260330-FBE1
   - INS-260330-184C
   - INS-260402-A94F
   - INS-260330-C31B
   - INS-260327-24D2
-  - INS-260405-66A1
   - PRI-260328-E64D
 evidence:
   - id: INS-260402-A94F

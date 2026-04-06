@@ -47,7 +47,7 @@ related:
   - INS-260327-D1B7
   - INS-260330-DC0D
   - INS-260321-822B
-  - INS-260327-EAB9
+  - PRI-260405-5912
   - INS-260327-505A
 stance: >-
   Taco Bell outperforms McDonald's, Burger King, and KFC in per-store earnings

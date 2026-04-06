@@ -1,6 +1,5 @@
 # Tag: ai-deployment
 
-- `INS-260323-59C9` Cisco found 83% of companies plan to release AI agents but only 13% have the infrastructure to support them — the gap creates compounding infrastructure debt.
 - `INS-260323-F204` AI systems launch knowing only half of what they need — the rest must be learned through real-world usage and continuous human feedback.
 - `INS-260323-0B52` The hidden multiplier in AI building: have AI document everything it does so every project creates a reusable blueprint for the next one.
 - `INS-260323-7A11` Classical ML has one right answer and measurable error; generative AI has infinite valid outputs, making traditional ROI frameworks useless.

@@ -55,11 +55,10 @@ stance: >-
   or price strategy
 related:
   - INS-260329-22A8
-  - INS-260329-9098
   - INS-260403-FC45
-  - INS-260329-EBBB
-  - INS-260403-941F
   - INS-260329-CEC5
+  - INS-260403-F7DD
+  - INS-260404-24FB
 evidence:
   - id: INS-260403-941F
     type: SUPPORTS

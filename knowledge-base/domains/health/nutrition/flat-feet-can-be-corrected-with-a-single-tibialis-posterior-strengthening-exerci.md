@@ -47,9 +47,9 @@ stance: >-
   raises with inversion corrects the arch in weeks to months.
 related:
   - INS-260325-3FD3
-  - INS-260327-15A0
   - INS-260325-3306
   - INS-260327-368C
   - INS-260325-6088
+  - PRI-260328-024A
 ---
 The arch of the foot is maintained primarily by the tibialis posterior muscle and tendon. When this muscle weakens (from supportive shoes, inactivity, or weight gain), the arch collapses. Orthotics and arch supports further weaken the muscle by doing its job. The corrective exercise: single-leg heel raises with slight foot inversion (turning sole inward), 3 sets of 15 daily. Additionally: walking barefoot on varied surfaces strengthens all foot muscles, toe spreaders reverse shoe-caused toe compression, and vitamin D plus magnesium support muscle function. Most flat feet in adults are acquired (muscular) not congenital (structural) and are reversible.

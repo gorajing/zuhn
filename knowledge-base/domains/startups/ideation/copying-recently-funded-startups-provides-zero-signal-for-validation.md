@@ -44,11 +44,11 @@ related:
   - INS-260403-47B7
   - INS-260403-B2EB
   - INS-260402-EEDB
-  - INS-260404-93E3
+  - PRI-260405-E9C5
   - INS-260323-8893
-  - INS-260328-AA1F
   - INS-260328-3F19
-  - INS-260328-3959
+  - INS-260328-F301
+  - INS-260328-6F5B
 stance: Using another company's funding as market validation is a false signal
 evidence:
   - id: INS-260329-4605

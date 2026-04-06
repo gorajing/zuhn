@@ -49,10 +49,10 @@ stance: >-
   living than unexamined optimism provides.
 related:
   - INS-260325-76E6
-  - INS-260323-9369
-  - INS-260322-C9AC
   - INS-260327-51C2
   - PRI-260328-6189
+  - INS-260323-9369
+  - PRI-260325-08FB
   - INS-260327-0061
 evidence:
   - id: INS-260325-76E6

@@ -47,16 +47,16 @@ stance: >-
   who act, because the majority of potential competitors self-select out of the
   market.
 related:
+  - INS-260323-3BA4
   - INS-260321-E471
-  - INS-260322-AF17
   - INS-260327-643E
   - INS-260327-DD1D
+  - INS-260330-66A0
   - INS-260402-8EED
   - INS-260402-E2AF
-  - INS-260403-6A65
-  - INS-260403-57FF
-  - INS-260403-214B
+  - INS-260403-805E
   - INS-260403-9D89
+  - INS-260403-862D
 evidence:
   - id: INS-260403-E3E6
     type: TRANSFERS_TO

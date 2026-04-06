@@ -44,8 +44,8 @@ related:
   - INS-260327-78A0
   - INS-260327-2B94
   - INS-260323-E1BE
-  - INS-260404-0CD8
   - INS-260327-D285
+  - INS-260327-C673
 evidence:
   - id: INS-260327-2B94
     type: EXTENDS

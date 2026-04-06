@@ -53,11 +53,11 @@ stance: >-
   Organizations that compress and formalize their accumulated wisdom into
   transmissible systems outlive those that don't by orders of magnitude
 related:
-  - INS-260327-BA97
   - INS-260330-1B8A
   - INS-260330-E2F5
-  - INS-260330-AB58
-  - INS-260330-44BC
+  - INS-260327-BA97
+  - INS-260325-EBDD
+  - INS-260323-17B5
 evidence:
   - id: INS-260330-AB58
     type: SUPPORTS

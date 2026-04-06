@@ -61,6 +61,7 @@ related:
   - PRI-260403-ABDE
   - INS-260329-4F8C
   - INS-260329-E839
+  - INS-260330-202A
 ---
 CS50 Python's curriculum arc reveals that functions, OOP, libraries, and APIs are not separate topics — they are the same cognitive operation (name a thing, hide its internals, interact through its interface) applied at increasing scales. A function abstracts a sequence of statements. A class abstracts data and behavior. A library abstracts a collection of classes. An API abstracts an entire system. The student who grasps this meta-pattern once can apply it everywhere.
 

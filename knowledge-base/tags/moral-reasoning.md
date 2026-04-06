@@ -9,4 +9,3 @@
 - `INS-260330-6D13` Treating all sides as morally equal regardless of their demonstrated ethical norms is a failure of moral reasoning, not balanced thinking.
 - `INS-260330-7E97` WWII proved that the most technologically advanced civilization in history could commit the worst atrocities, shattering the Enlightenment assumption that progress is unitary.
 - `INS-260330-3698` Mentally reversing roles in a conflict reveals whether both sides operate under the same ethical constraints.
-- `INS-260330-5779` If reversing which side uses a tactic produces an absurd or unthinkable scenario, the two sides are not morally equivalent in that dimension.

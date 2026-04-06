@@ -49,10 +49,11 @@ stance: >-
   to adults' public performance
 related:
   - INS-260321-80A9
+  - INS-260325-66BE
   - INS-260330-141E
   - PRI-260325-697B
-  - INS-260330-5EAC
   - INS-260403-393C
+  - INS-260323-1BF7
   - INS-260403-C1B7
 evidence:
   - id: INS-260323-1BF7

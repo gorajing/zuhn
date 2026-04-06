@@ -45,11 +45,11 @@ stance: >-
   because the perceptual experience of 'lightness' overrides mechanical
   understanding
 related:
+  - INS-260330-A149
   - INS-260330-51D6
   - INS-260330-0BC2
   - INS-260323-849E
-  - INS-260330-DD85
-  - INS-260330-A149
   - INS-260330-97A0
+  - INS-260405-D3B5
 ---
 When a spinning flywheel is held at one end of its shaft, gravitational torque doesn't pull it down as expected — instead, it drives the wheel to precess in a horizontal circle. The lifter perceives this as dramatic weightlessness, but the scale still reads the same total weight. This illustrates a broader cognitive pattern: humans interpret changes in the direction of force as changes in magnitude. The felt experience of 'lightness' is real but misleading — the gravitational load hasn't changed, only where it's being directed. This has implications for any domain where redirected forces (economic, organizational, physical) are mistaken for eliminated ones.

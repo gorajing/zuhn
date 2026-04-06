@@ -46,11 +46,11 @@ stance: >-
   Personal skills are more durable than any financial asset because no external
   force — divorce, government, or financial crisis — can confiscate them.
 related:
-  - INS-260329-7C1D
   - INS-260323-FC5B
   - PRI-260323-DC25
   - INS-260327-A8D9
   - INS-260329-F07A
+  - INS-260323-9EDC
 evidence:
   - id: INS-260329-7C1D
     type: SUPPORTS

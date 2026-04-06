@@ -53,11 +53,11 @@ stance: >-
   that should repel customers — instead create feelings of deal-hunting
   satisfaction and pride that drive loyalty
 related:
+  - INS-260404-007B
   - INS-260403-0435
   - INS-260403-323A
   - INS-260403-524B
-  - INS-260329-EBBB
-  - INS-260404-007B
+  - INS-260329-CEC5
 ---
 Friction is usually a product failure, but Costco and IKEA demonstrate that intentional, predictable friction can create psychological value when it triggers the right cognitive response. Costco's confusing warehouse layout forces customers to wander through most aisles — increasing basket size — but customers experience it as treasure hunting rather than annoyance. IKEA's assembly requirement makes customers value their furniture more (the IKEA effect: effort invested increases perceived value).
 

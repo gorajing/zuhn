@@ -51,12 +51,11 @@ stance: >-
   eventually dominate system resources.
 related:
   - INS-260330-E218
-  - INS-260330-8E45
   - INS-260403-8653
   - INS-260404-AE3C
   - INS-260404-B6E8
-  - INS-260404-B04F
   - INS-260404-16B0
+  - INS-260404-1000
   - INS-260403-2DC4
 evidence:
   - id: INS-260330-68C8

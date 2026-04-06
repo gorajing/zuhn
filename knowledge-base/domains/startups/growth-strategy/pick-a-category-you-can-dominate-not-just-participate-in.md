@@ -51,11 +51,11 @@ related:
   - INS-260327-E833
   - INS-260402-33CA
   - INS-260404-95BA
-  - INS-260327-DB8F
   - INS-260329-F21F
+  - INS-260323-3D7D
   - INS-260322-B3D0
   - INS-260327-B410
-  - INS-260329-A024
+  - INS-260329-EC01
 stance: >-
   The #1 strategic decision is choosing a category you can realistically become
   #1 in

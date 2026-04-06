@@ -50,7 +50,6 @@ stance: >-
   directions sounds smart but creates coordination problems and allows a
   concentrated defender to defeat each piece.
 related:
-  - INS-260325-DDEE
   - INS-260327-3D4D
   - INS-260327-DC45
   - INS-260327-AA2C
@@ -60,6 +59,7 @@ related:
   - INS-260327-377A
   - INS-260327-CF72
   - INS-260327-31B8
+  - INS-260327-3FC7
 evidence:
   - id: INS-260329-EC78
     type: TRANSFERS_TO

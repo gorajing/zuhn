@@ -1,6 +1,5 @@
 # Tag: perception-economics
 
-- `INS-260327-4D3A` Even consumers who cognitively recognize that limited drops are manufactured scarcity still experience genuine urgency a
 - `INS-260327-134F` When addictive substances are packaged in clean modern branding with lifestyle marketing, consumers perceive them as wel
 - `INS-260327-6742` Stated preference for sustainable packaging evaporates when the price premium is visible on the shelf because consumers 
 - `INS-260327-A69D` Plant-based milk adoption was driven primarily by avoiding dairy rather than positive attributes of the alternatives, cr

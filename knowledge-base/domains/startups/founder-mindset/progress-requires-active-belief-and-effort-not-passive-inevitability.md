@@ -51,7 +51,6 @@ related:
   - INS-260329-CCDE
   - INS-260327-8C58
   - INS-260327-6992
-  - INS-260329-C430
   - INS-260405-8584
 evidence:
   - id: INS-260329-CCDE

@@ -1,18 +1,13 @@
 # Tag: psychedelics
 
-- `INS-260326-2582` All lasting transformation modalities work by bypassing the thinking mind to access the deeper layer where behavioral change actually happens.
-- `INS-260330-2C6A` The psychedelic therapy model concentrates risk into a single supervised session rather than distributing it across years of daily medication with cumulative side effects.
 - `INS-260325-D7B1` Psychedelics are non-specific amplifiers — you can have euphoria or hell, and the difference is mostly determined by set (your mindset) and setting (your environment), not the drug itself.
 - `INS-260325-3AFE` Unlike any other drug class, psychedelics uniquely produce widespread reports of people taking a substance once and pointing to lasting life transformation decades later.
 - `INS-260325-3AE4` fMRI studies show psychedelics produce massive increases in communication between brain areas that normally never talk to each other — breaking down the brain's usual compartmentalization.
 - `INS-260325-6576` Animal research suggests psychedelics increase neuroplasticity in the days after use, creating a window where new patterns stick more easily — explaining why single sessions produce lasting change.
-- `INS-260330-A5B0` Johns Hopkins uses 30-40mg psilocybin (heroic dose) with trained guides, eye shades, curated music, and 6-8 hours of continuous support per session.
 - `INS-260330-81B1` Johnson's pilot study showed 80% smoking cessation at 6 months with psilocybin therapy versus 25-35% for the best existing treatments.
 - `INS-260330-4079` Psychedelics appear to work therapeutically by temporarily destabilizing rigid neural patterns, creating a window of increased flexibility where new behavioral repertoires can form.
 - `INS-260403-7639` MDMA's therapeutic mechanism is enabling self-compassion — people can face traumatic memories without the self-loathing that normally blocks processing.
-- `INS-260330-EE16` Johns Hopkins research shows that the intensity of mystical-type experiences, not just drug dose, predicts whether patients achieve lasting therapeutic benefits from psilocybin.
 - `INS-260330-2304` Psychedelics temporarily suppress the default mode network, breaking entrenched neural patterns and enabling cognitive flexibility that persists after the drug wears off.
-- `INS-260330-8646` Dr. Johnson frames all psychiatric disorders as variations of narrowed mental repertoire, unifying depression, anxiety, OCD, and addiction under one mechanistic umbrella.
 - `INS-260330-415C` Johnson's framework reframes psychiatric disorders as varieties of stuck-ness — narrowed loops of thought and behavior — that psychedelics disrupt by forcing the brain into novel configurations.
 - `INS-260330-7C42` Clinical psilocybin therapy uses 30-40mg doses because partial dissolution creates anxiety without breakthrough, while full doses enable the mystical-type experiences correlated with lasting therapeutic benefit.
 - `INS-260330-84C6` The gap between peak conscious experience and linguistic description is not a matter of degree but of kind — language is structurally incapable of encoding these states.
@@ -24,7 +19,6 @@
 - `INS-260330-1384` Psychedelics stand alone as a drug class where single-dose experiences routinely produce permanent life changes.
 - `INS-260330-7A69` Resisting the psychedelic experience produces suffering while surrender produces transcendence, making the experience a direct feedback mechanism on one's relationship to control.
 - `INS-260330-53F7` Set (mindset, preparation, trust in guides) and setting (physical environment, music, safety) are the primary variables determining whether a psychedelic experience produces healing or harm.
-- `INS-260330-203F` Johnson argues set and setting are not soft variables but pharmacologically active factors that determine whether the same psilocybin dose produces healing or harm.
 - `INS-260330-43C9` Psychedelic outcomes are uniquely shaped by environmental context — warm, prepared settings produce more meaningful experiences.
 - `INS-260330-3672` High-dose psilocybin sessions at Johns Hopkins are safe not because the drug is inherently safe, but because the clinical protocol eliminates nearly all environmental risk vectors.
 - `INS-260330-3748` The profound intimacy and vulnerability of psychedelic therapy demands stricter clinical boundaries, not looser ones — including resisting the guru complex of filling in meaning for patients.

@@ -55,11 +55,11 @@ stance: >-
   recognition that all values ultimately bottom out in subjective preferences
   rather than objective foundations.
 related:
-  - INS-260325-9928
   - PRI-260328-6189
   - INS-260330-D42C
   - INS-260325-F500
   - INS-260402-E11A
+  - PRI-260325-08FB
 ---
 O'Connor corrects the common misconception that nihilism means having no desires or motivation. A nihilist who learns that thirst is merely an evolved biological drive does not stop being thirsty — they still drink. Nihilism is a bird's-eye analysis that recognizes all values, desires, and purposes ultimately trace back either to arbitrary evolutionary drives or to an infinite regress of contingent reasons — neither of which provides objective grounding.
 

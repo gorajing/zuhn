@@ -48,7 +48,6 @@ stance: >-
   bold early-movers who get access to the best deals and passive followers who
   pay premium prices or get shut out entirely
 related:
-  - INS-260322-0C91
   - INS-260322-A31D
   - INS-260325-3E9F
   - INS-260327-7E3D
@@ -58,6 +57,7 @@ related:
   - INS-260330-0AA7
   - INS-260330-C84C
   - INS-260402-E522
+  - INS-260403-AA6A
 evidence:
   - id: INS-260322-0C91
     type: CHALLENGES

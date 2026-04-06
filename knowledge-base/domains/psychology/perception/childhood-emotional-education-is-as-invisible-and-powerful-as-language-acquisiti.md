@@ -56,9 +56,9 @@ stance: >-
 related:
   - INS-260325-88A7
   - PRI-260325-496E
-  - INS-260329-27A3
   - INS-260327-8DDE
   - INS-260402-3737
+  - INS-260403-E2FB
 ---
 De Botton draws a powerful analogy: none of us remember learning to speak, yet we mastered incredibly complex grammar — pluperfect, subjunctive — without knowing such things exist. The same invisible process occurs with emotional language. Between ages 0 and 10, we absorb a complete emotional vocabulary from caregivers: whether humans can be trusted, whether we are worth something, what happens when someone is angry, how to communicate important things.
 

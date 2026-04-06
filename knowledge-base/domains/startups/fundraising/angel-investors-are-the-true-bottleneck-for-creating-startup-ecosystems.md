@@ -44,12 +44,11 @@ stance: >-
   geographic immobility constrains where ecosystems form.
 related:
   - INS-260402-8E29
-  - INS-260403-7374
+  - PRI-260405-E9C5
   - INS-260403-EE10
   - INS-260327-DAA4
   - INS-260402-EEDB
   - INS-260403-E9C6
-  - INS-260403-6A65
   - INS-260403-E185
   - INS-260403-7A31
 evidence:

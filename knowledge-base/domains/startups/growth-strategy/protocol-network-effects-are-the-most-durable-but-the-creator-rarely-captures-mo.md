@@ -55,10 +55,10 @@ stance: >-
   identity, addressing, or token supply.
 related:
   - INS-260330-6D2E
+  - PRI-260405-BFAC
   - INS-260404-6891
   - PRI-260328-A4AC
   - PRI-260322-94C4
-  - INS-260325-DFC7
 evidence:
   - id: INS-260330-6D2E
     type: CHALLENGES

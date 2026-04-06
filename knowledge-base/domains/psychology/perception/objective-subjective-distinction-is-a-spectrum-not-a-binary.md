@@ -45,11 +45,11 @@ stance: >-
   Properties that depend on observer response are not purely subjective — they
   sit on a continuum determined by how much observers share in common.
 related:
-  - INS-260329-A024
   - INS-260330-F889
   - PRI-260323-6644
   - INS-260323-8271
-  - INS-260327-4367
+  - INS-260404-7EFA
+  - INS-260323-1EEA
   - INS-260405-F7FA
 evidence:
   - id: INS-260329-A024

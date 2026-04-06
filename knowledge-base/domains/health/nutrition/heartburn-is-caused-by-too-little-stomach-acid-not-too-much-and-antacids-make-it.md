@@ -46,9 +46,9 @@ stance: >-
   reduce acid further creating a worsening cycle.
 related:
   - INS-260325-4E88
-  - INS-260327-7BB0
   - PRI-260328-97E0
   - INS-260327-F2E2
   - INS-260327-1F6E
+  - INS-260327-FF4A
 ---
 The lower esophageal sphincter (LES) closes in response to adequate stomach acid. When acid is too low, food sits and ferments, producing gas that forces the LES open — creating reflux. Antacids and PPIs reduce acid further, providing temporary relief but worsening the root cause. Over time, low acid leads to: poor protein digestion, mineral malabsorption (calcium, iron, magnesium, B12), bacterial overgrowth (SIBO), and increased infection risk (stomach acid kills pathogens). The fix: apple cider vinegar before meals (stimulates acid), betaine HCl supplement with meals, and reducing carbohydrates (which feed fermentation).

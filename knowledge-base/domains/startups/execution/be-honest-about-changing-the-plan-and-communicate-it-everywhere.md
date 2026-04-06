@@ -47,10 +47,10 @@ stance: >-
   communicate the new plan to investors, board, employees, and themselves.
 related:
   - INS-260323-7D01
-  - INS-260325-7D50
   - INS-260325-F451
   - INS-260325-17BF
   - INS-260402-7FCC
+  - PRI-260405-1FBC
 evidence:
   - id: INS-260402-7FCC
     type: CHALLENGES

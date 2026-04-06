@@ -50,11 +50,11 @@ stance: >-
   tutorials
 related:
   - INS-260321-ADB4
+  - INS-260329-69F0
   - INS-260329-5C65
   - INS-260329-18BB
-  - INS-260329-88B2
-  - INS-260329-69F0
   - INS-260329-63DD
+  - PRI-260405-71C5
   - INS-260404-59D1
 evidence:
   - id: INS-260321-ADB4

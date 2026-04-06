@@ -1,3 +1,3 @@
-# Tag: columbus
+# Tag: Columbus
 
-- `INS-260330-41DB` Ancient Greeks knew Earth was round 2000+ years before Columbus; the flat Earth myth was a 19th-century invention that became 'common knowledge' through repetition.
+- `INS-260330-3851` The Columbus flat-Earth myth persists because the hero-vs-ignorance narrative is more compelling than the boring truth that educated people already knew Earth was round.

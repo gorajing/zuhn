@@ -48,11 +48,11 @@ stance: >-
   examined, creating a paradox where popular consensus is a negative signal for
   truth.
 related:
-  - INS-260330-32E6
-  - INS-260327-4367
   - INS-260405-2CDB
   - INS-260402-D0F2
   - INS-260330-0E86
+  - INS-260330-FB5A
+  - INS-260323-9AA5
 evidence:
   - id: INS-260330-32E6
     type: SUPPORTS

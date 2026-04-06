@@ -49,10 +49,10 @@ stance: >-
   outcomes than relying on willpower or budgeting discipline.
 related:
   - INS-260323-9A29
-  - INS-260329-0B9D
   - INS-260329-94CF
   - INS-260404-EEAF
   - INS-260403-5BBE
+  - INS-260402-4719
 evidence:
   - id: INS-260323-9A29
     type: EXTENDS

@@ -51,10 +51,10 @@ stance: >-
   gravity, making them permanently planet-bound regardless of intelligence.
 related:
   - INS-260330-03F7
-  - INS-260330-4B9A
   - INS-260323-38EC
   - INS-260330-4E9B
   - INS-260323-849E
+  - INS-260330-97A0
 evidence:
   - id: INS-260323-38EC
     type: SUPPORTS

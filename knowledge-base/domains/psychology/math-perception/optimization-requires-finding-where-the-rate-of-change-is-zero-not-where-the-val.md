@@ -52,10 +52,10 @@ stance: >-
   values.
 related:
   - INS-260329-FEA8
+  - INS-260329-196E
   - INS-260329-8015
-  - INS-260329-FD7F
-  - INS-260329-F4B2
-  - INS-260329-7510
+  - INS-260321-2D72
+  - PRI-260320-A2C7
   - INS-260329-BC6C
 evidence:
   - id: INS-260329-BC6C

@@ -56,12 +56,12 @@ stance: >-
   where they agree produces a more reliable factual core than any single
   authoritative source.
 related:
-  - INS-260322-F65F
   - INS-260325-7BE7
+  - INS-260322-F65F
   - INS-260325-95EB
-  - INS-260330-CFEA
   - INS-260330-1815
   - INS-260403-1A96
+  - INS-260330-3570
 evidence:
   - id: INS-260322-F65F
     type: CHALLENGES

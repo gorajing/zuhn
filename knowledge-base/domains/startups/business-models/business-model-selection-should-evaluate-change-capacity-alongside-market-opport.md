@@ -47,12 +47,12 @@ stance: >-
   Selecting a target business model without assessing organizational change
   capacity leads to failed transitions
 related:
-  - INS-260403-5FBD
+  - INS-260403-DF7F
   - INS-260403-7333
   - INS-260403-F590
   - INS-260404-BD46
-  - INS-260403-DF7F
   - INS-260405-1894
+  - INS-260404-E36F
   - INS-260403-B5A5
   - INS-260404-6A15
 ---

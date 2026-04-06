@@ -52,11 +52,11 @@ stance: >-
   so far beyond any existing treatment that the effect size suggests a
   fundamentally different mechanism of behavior change, not just a better drug.
 related:
-  - INS-260330-A5B0
-  - INS-260330-EE16
   - INS-260330-887A
   - INS-260330-7C42
   - INS-260330-3672
+  - PRI-260405-CCCE
+  - INS-260330-DA37
 evidence:
   - id: INS-260330-A5B0
     type: SUPPORTS

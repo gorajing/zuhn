@@ -50,8 +50,8 @@ related:
   - INS-260322-88C3
   - INS-260403-ABBB
   - PRI-260324-A608
+  - PRI-260405-6216
   - INS-260402-E2AF
-  - INS-260403-9A4C
 ---
 Graham draws a crucial distinction between two types of patent abuse. Patent trolls are parasites — they extract money but don't specifically aim to destroy their targets. Incumbents suing startups with superior products are predators — their explicit goal is market suppression. The parasite may accidentally kill the host, but the predator is trying to.
 

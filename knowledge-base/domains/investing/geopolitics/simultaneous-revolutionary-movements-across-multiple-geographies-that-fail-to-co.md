@@ -52,11 +52,11 @@ stance: >-
   but fail to form a coordinated strategy, established powers can defeat each
   one individually after the initial shock subsides.
 related:
-  - INS-260326-44C9
   - PRI-260328-E1CE
   - INS-260327-ABE5
   - INS-260327-5DD7
   - PRI-260328-79DA
+  - INS-260327-7A27
 evidence:
   - id: INS-260326-44C9
     type: CHALLENGES

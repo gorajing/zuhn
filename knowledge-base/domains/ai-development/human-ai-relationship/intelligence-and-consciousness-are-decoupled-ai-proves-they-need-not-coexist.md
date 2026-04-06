@@ -54,10 +54,10 @@ related:
   - INS-260327-DD48
   - INS-260403-41BC
   - INS-260323-DE7F
-  - INS-260323-1D46
   - INS-260325-E17F
   - INS-260326-E5D3
   - INS-260327-0133
+  - INS-260330-6D5C
 stance: >-
   Humans conflate intelligence with consciousness because they co-evolved in us,
   but AI demonstrates that high intelligence can exist with zero consc...

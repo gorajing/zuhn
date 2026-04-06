@@ -43,12 +43,12 @@ stance: >-
   excitotoxicity), and artificial sweeteners (that paradoxically increase
   cravings) -- making willpower insufficient against biochemical manipulation
 related:
+  - INS-260327-3C60
   - INS-260327-BF59
   - PRI-260328-1545
   - INS-260330-121C
-  - INS-260327-3C60
   - INS-260330-A33E
-  - INS-260327-0D7C
+  - PRI-260328-4A63
 evidence:
   - id: INS-260330-A33E
     type: SUPPORTS

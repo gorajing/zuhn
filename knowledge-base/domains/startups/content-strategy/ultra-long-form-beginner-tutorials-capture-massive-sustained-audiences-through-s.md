@@ -49,14 +49,14 @@ stance: >-
   outperform series of shorter videos for total lifetime viewership because they
   dominate search results for 'full course' queries.
 related:
-  - INS-260329-50C0
   - INS-260329-B7F5
-  - INS-260329-88B2
   - INS-260329-31A2
   - INS-260329-4CFD
   - INS-260329-63DD
   - INS-260329-69F0
   - INS-260329-9A42
+  - INS-260329-5C65
+  - INS-260329-E6AF
   - INS-260329-26AC
   - INS-260329-E20C
 evidence:

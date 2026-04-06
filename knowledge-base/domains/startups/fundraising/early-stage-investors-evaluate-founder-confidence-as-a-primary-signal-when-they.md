@@ -55,10 +55,10 @@ stance: >-
 related:
   - INS-260327-C5D9
   - INS-260330-0F52
-  - INS-260404-AFE6
   - INS-260405-0B17
   - INS-260323-4457
   - INS-260403-82CC
+  - INS-260404-0095
 evidence:
   - id: INS-260327-C5D9
     type: TRANSFERS_TO

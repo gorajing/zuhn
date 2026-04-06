@@ -46,8 +46,8 @@ stance: >-
 related:
   - INS-260330-C8B4
   - INS-260403-E8DD
-  - INS-260329-A90C
   - PRI-260325-45A2
   - INS-260325-B067
+  - PRI-260323-1187
 ---
 Apophenia — the tendency to perceive meaningful connections in unrelated information — exists because the cost of a false positive (seeing a threat that isn't there) is trivially low compared to a false negative (missing a real threat). If a shadow might be a predator, treating it as one wastes a moment of energy; ignoring it could be fatal. This asymmetric cost structure means organisms with heightened pattern sensitivity survive longer and reproduce more. The same mechanism explains pareidolia (seeing faces in objects), hearing your name in white noise, and our general tendency to find meaning in coincidences. It's not a bug — it's an evolved feature with known tradeoffs.

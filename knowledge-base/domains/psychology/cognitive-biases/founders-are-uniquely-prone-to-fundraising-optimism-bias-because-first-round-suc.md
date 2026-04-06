@@ -46,11 +46,12 @@ stance: >-
   cognitive bias that makes founders systematically overestimate their chances
   of raising again under worse conditions
 related:
-  - INS-260327-BA93
-  - INS-260330-B09B
+  - INS-260330-3138
   - INS-260404-7071
   - PRI-260403-26B9
   - INS-260403-FE3B
+  - INS-260403-A57D
+  - INS-260402-E140
 evidence:
   - id: INS-260327-BA93
     type: CHALLENGES

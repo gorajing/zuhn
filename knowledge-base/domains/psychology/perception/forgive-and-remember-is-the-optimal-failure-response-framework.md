@@ -48,10 +48,9 @@ stance: >-
   outperforming both blame cultures and forgive-and-forget approaches.
 related:
   - PRI-260328-0AB1
-  - INS-260325-887D
   - INS-260325-5023
   - INS-260327-9F46
-  - INS-260325-CF3E
+  - PRI-260323-2C5C
   - INS-260329-87BA
   - INS-260330-C8E1
 evidence:

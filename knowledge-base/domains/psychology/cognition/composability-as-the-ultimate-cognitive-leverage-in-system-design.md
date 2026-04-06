@@ -50,7 +50,6 @@ stance: >-
   (statements), giving designers fundamentally more leverage
 related:
   - INS-260329-04A5
-  - INS-260330-AA77
   - INS-260404-5440
   - INS-260329-21C0
   - INS-260329-33D4

@@ -46,9 +46,10 @@ stance: >-
   founders would prefer, because founder leverage over investors is
   monotonically increasing
 related:
+  - INS-260328-41C9
   - PRI-260403-26B9
-  - INS-260330-B09B
   - INS-260403-1287
+  - PRI-260405-E9C5
   - INS-260327-D982
   - INS-260404-8890
 ---

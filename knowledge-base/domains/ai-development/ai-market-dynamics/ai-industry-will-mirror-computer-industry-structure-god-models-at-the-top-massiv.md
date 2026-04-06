@@ -51,11 +51,11 @@ resolutions:
     means building for smaller, more efficient models may capture more total
     market than targeting only frontier capabilities.
 related:
-  - INS-260325-2A1B
   - INS-260321-B7CB
   - INS-260322-54F3
   - INS-260323-8637
   - INS-260322-8147
+  - INS-260327-C962
   - INS-260403-021D
 stance: The AI industry will likely cascade like the computer industry
 evidence:

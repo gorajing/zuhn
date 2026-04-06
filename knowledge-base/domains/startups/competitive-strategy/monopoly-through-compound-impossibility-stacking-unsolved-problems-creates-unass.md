@@ -51,10 +51,10 @@ resolutions:
 related:
   - INS-260325-47FE
   - PRI-260323-F193
+  - PRI-260405-6216
   - INS-260403-FE00
   - INS-260327-7C67
   - PRI-260328-F0B4
-  - PRI-260324-5F05
 stance: >-
   ASML's monopoly exists because EUV requires solving dozens of 'impossible'
   problems simultaneously

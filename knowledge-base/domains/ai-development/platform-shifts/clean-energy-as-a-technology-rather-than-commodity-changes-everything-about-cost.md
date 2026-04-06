@@ -52,11 +52,12 @@ stance: >-
   costs will continuously decline on a manufacturing learning curve, making
   abundant clean energy inevitable.
 related:
+  - INS-260325-3F8B
   - INS-260322-8147
   - INS-260325-2906
-  - INS-260403-E52B
   - INS-260405-18C8
-  - INS-260325-3CB5
+  - INS-260405-8B89
+  - INS-260330-BC56
   - INS-260330-DCE1
   - INS-260404-3ABF
   - INS-260405-7DC3

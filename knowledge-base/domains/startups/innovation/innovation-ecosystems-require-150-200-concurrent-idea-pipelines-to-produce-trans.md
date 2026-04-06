@@ -55,7 +55,7 @@ related:
   - INS-260403-BDCC
   - INS-260405-7AE0
   - INS-260321-E471
-  - INS-260330-19F1
+  - INS-260403-0372
 ---
 Strategyzer's framework argues that innovation ecosystems need high project volume to succeed — roughly 150 to 200 ideas per year of varying shapes and sizes. The reasoning is probabilistic: most ideas fail, so a large portfolio is necessary to surface the few that create transformative value. This contrasts with the common corporate approach of betting heavily on a small number of carefully vetted projects.
 

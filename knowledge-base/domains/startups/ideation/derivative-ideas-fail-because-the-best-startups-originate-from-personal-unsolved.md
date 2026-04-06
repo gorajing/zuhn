@@ -49,6 +49,8 @@ stance: >-
   pain produces deeper problem understanding.
 related:
   - INS-260322-CFB1
+  - INS-260323-5F8A
+  - INS-260323-09E4
   - INS-260326-967C
   - INS-260327-D982
   - INS-260327-4DDE
@@ -56,8 +58,6 @@ related:
   - INS-260327-D5CC
   - INS-260328-070D
   - INS-260329-AA30
-  - INS-260330-66A0
-  - INS-260330-DDF0
 evidence:
   - id: INS-260327-F9C3
     type: CONTRADICTS

@@ -48,12 +48,12 @@ stance: >-
   A 20-30 minute light walk after eating compresses the 5-6 hour fed-to-fasted
   transition significantly through glucose clearing
 related:
-  - INS-260327-0931
+  - INS-260327-3D1C
   - INS-260330-B173
   - INS-260330-9449
   - INS-260330-18EE
   - PRI-260328-AF97
-  - INS-260327-3D1C
+  - INS-260327-9693
 ---
 After eating, your body remains in a 'fed state' for 5-6 hours regardless of when you stop putting food in your mouth — blood glucose stays elevated, insulin remains active, and digestive processes continue. This distinction between 'not eating' and 'actually fasted' is critical for understanding fasting benefits.
 

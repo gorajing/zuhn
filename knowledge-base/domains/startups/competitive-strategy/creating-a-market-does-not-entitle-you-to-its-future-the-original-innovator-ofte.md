@@ -51,13 +51,13 @@ stance: >-
   will be disrupted by challengers who study the creator's mistakes and build
   better solutions.
 related:
-  - INS-260324-179B
   - INS-260321-021B
   - INS-260324-224B
-  - INS-260327-2BE1
   - PRI-260328-82BE
   - INS-260327-8B5B
   - INS-260327-4669
+  - INS-260323-104E
+  - INS-260330-8FD6
 evidence:
   - id: INS-260323-6230
     type: CHALLENGES

@@ -9,7 +9,6 @@
 - `INS-260330-56E0` The archer's paradox only exists if you assume arrows are rigid — once you add flex as a variable, the paradox dissolves.
 - `INS-260330-CDF8` Light's regularity means its full 3D state is determined by its values on any 2D boundary surface.
 - `INS-260330-12F9` Firing one bullet underwater produces three visually distinct phenomena (Bernoulli cavitation, gas trail, shock vapor) that are invisible at normal speed but separable at 27,450 fps.
-- `INS-260330-4D18` History repeatedly shows that purely abstract mathematical concepts — developed with no practical intent — later turn out to describe physical reality with precision.
 - `INS-260323-C9B1` Upgrading from Newton's to Einstein's model of gravity was not just philosophical — it enabled GPS, accurate satellites, and Uber; better frameworks for understanding reality directly produce better tools.
 - `INS-260330-966E` When underwater cavitation bubbles collapse, the compression can generate temperatures hot enough to produce light (sonoluminescence), showing how mundane initial conditions can concentrate energy to extreme densities.
 - `INS-260404-842D` Conservation of energy forces the collision dynamics onto a circle in velocity phase space, which is why pi emerges from a counting problem.
@@ -18,8 +17,6 @@
 - `INS-260330-5D8A` Supercritical fluids bypass the destructive surface tension of evaporation by eliminating the liquid-gas boundary altogether.
 - `INS-260330-D0F8` Exit velocity depends on the speed differential and coupling efficiency between bat and ball, not just bat speed.
 - `INS-260323-849E` Einstein showed that gravity is not a force at all — objects follow curved paths through spacetime warped by mass, and what we feel as gravity is just the ground stopping our natural path.
-- `INS-260330-4B9A` On a flat disc Earth, gravity would pull toward the center of mass creating increasingly sideways forces at edges, making normal life impossible.
-- `INS-260330-D3AA` On a flat disc Earth, gravity would pull increasingly sideways toward the center as you moved to edges, making the periphery uninhabitable.
 - `INS-260404-E0FD` Spinning objects feel lighter because gravity's torque is redirected into precession, not because weight actually decreases.
 - `INS-260330-5265` Our everyday experience with catching baseballs at 90 mph provides zero useful intuition for what happens at 1000 mph because energy scales with velocity squared.
 - `INS-260325-A72C` Physics succeeds by stripping everything to ideal cases (spherical cows) then adding complexity back — a strategy that works for physics but fails for psychology or biology.

@@ -1,6 +1,6 @@
 # Topic: fintech
 
-> 67 insights
+> 64 insights
 
 - `INS-260329-C4A4` [high] Every $250/month saved consistently compounds to roughly $1M by retirement, making micro-savings feel consequential.
 - `INS-260323-C370` [high] When you account for size, value, profitability, and investment factors, most active fund managers who appeared to beat the market were simply maintaining factor exposures that can be replicated at far lower cost.
@@ -39,9 +39,6 @@
 - `INS-260323-2FF9` [high] Options offer three distinct advantages over direct stock ownership: capped maximum loss (the premium paid), amplified returns through leverage, and the ability to hedge specific risks.
 - `INS-260327-7F73` [high] When PE firms borrow billions to acquire companies, the debt goes on the acquired company's books - the PE firm collects fees regardless while employees bear the bankruptcy risk.
 - `INS-260327-17BE` [high] Pension funds keep giving money to PE firms because PE's opaque accounting lets pensions report hitting their 7-8% return targets, even when actual returns may not justify the fees.
-- `INS-260329-A9ED` [high] HFT systems enforce automated pre-trade risk checks in microseconds to prevent runaway algorithms from causing financial disasters.
-- `INS-260327-F996` [high] Prediction markets handling $100B+/year in volume on everything from elections to war zone casualty counts are gambling platforms using academic information theory as regulatory cover.
-- `INS-260327-4FAE` [high] Total private credit outstanding exceeds $2 trillion - nearly double the $1.3T in subprime mortgages that triggered the 2008 crisis - with even less regulatory oversight.
 - `INS-260327-7F54` [high] PE firms promised billionaire-level returns through superior analysts but actually delivered them through borrowing against acquired companies and smoothing volatility on paper.
 - `INS-260329-33AA` [high] HFT firms treat real-time latency monitoring as a profit driver, not just operational overhead, because microseconds of undetected degradation directly cost money.
 - `INS-260327-68C1` [high] 2025 had the highest corporate bankruptcies ever outside a recession, including companies going bankrupt for the second time within months, suggesting structural unsustainability not cyclical distress.

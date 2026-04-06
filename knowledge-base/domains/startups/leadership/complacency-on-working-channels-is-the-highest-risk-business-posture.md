@@ -45,7 +45,7 @@ related:
   - PRI-260328-6A8D
   - INS-260330-323E
   - INS-260322-5678
-  - INS-260330-D487
+  - PRI-260328-0993
 stance: >-
   Businesses that become one-dimensional on currently-working channels almost
   always see revenue halve rather than double, because platform shifts ar...

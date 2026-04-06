@@ -1,6 +1,5 @@
 # Tag: distraction
 
-- `INS-260330-4114` A phone ringing in Destin's pocket instantly crashed his backwards-bike riding because the new neural pathway required active attention the old one didn't.
 - `INS-260403-1E5A` Distractions continuously evolve toward knowledge workers, requiring ever-updated defenses rather than one-time solutions.
 - `INS-260403-FA30` Coders knocked out of flow need 15+ minutes to return — if they can return at all.
 - `INS-260403-50F1` Physical separation of work and internet computers forces conscious awareness of distraction that software tools cannot replicate.

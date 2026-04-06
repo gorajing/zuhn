@@ -48,9 +48,9 @@ stance: >-
   causing proton leak, reduced ATP production, and metabolic dysfunction at the
   cellular level
 related:
+  - INS-260325-7301
   - INS-260325-A03E
   - INS-260327-3EEF
-  - INS-260327-7BB0
   - INS-260327-47F2
   - PRI-260328-40CA
   - INS-260327-4F53

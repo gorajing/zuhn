@@ -48,12 +48,11 @@ stance: >-
   reverses with supplementation before permanent nerve damage occurs.
 related:
   - INS-260327-368C
-  - INS-260327-15A0
   - INS-260327-4C6D
   - PRI-260325-638B
   - INS-260325-B463
-  - INS-260325-6088
   - INS-260325-3306
+  - INS-260325-6088
   - INS-260327-BA14
 evidence:
   - id: INS-260329-C4F5

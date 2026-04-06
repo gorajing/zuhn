@@ -51,7 +51,6 @@ related:
   - PRI-260325-663A
   - PRI-260403-35FE
   - INS-260329-3473
-  - INS-260327-02AF
   - INS-260330-DC78
 stance: >-
   Rotating between heavy lifting and lighter/higher-rep training in 3-month

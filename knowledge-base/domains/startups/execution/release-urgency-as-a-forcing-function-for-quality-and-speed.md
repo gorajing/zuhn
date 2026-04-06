@@ -49,7 +49,7 @@ related:
   - INS-260327-E7A3
   - INS-260403-B957
   - INS-260403-7C88
-  - INS-260404-9A82
+  - PRI-260328-04FA
 ---
 Most founders delay releases because they intuitively know the stress level will spike once real users are involved. Graham argues this stress is the point — it's a feature, not a bug. The shift from 'interesting problem' to 'alarming problem' is what drives the velocity startups need to survive.
 

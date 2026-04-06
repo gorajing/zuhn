@@ -48,11 +48,11 @@ stance: >-
   premium incumbents, because the new architecture's floor exceeds the old
   architecture's ceiling for the metrics that matter.
 related:
-  - INS-260330-201F
   - INS-260329-7CDE
   - INS-260403-EFAF
   - INS-260403-4A2F
   - INS-260403-4964
+  - INS-260405-DAC9
 evidence:
   - id: INS-260329-9115
     type: TRANSFERS_TO

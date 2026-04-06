@@ -41,10 +41,10 @@ stance: >-
   technological moat.
 related:
   - PRI-260328-935B
+  - PRI-260405-548B
   - INS-260322-B641
   - INS-260403-E78B
   - INS-260322-DAF2
-  - INS-260325-040F
 evidence:
   - id: INS-260325-040F
     type: SUPPORTS

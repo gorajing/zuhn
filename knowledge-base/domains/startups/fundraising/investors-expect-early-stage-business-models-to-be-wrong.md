@@ -51,11 +51,11 @@ stance: >-
   time on them displaces what investors actually care about
 related:
   - INS-260327-40E3
+  - INS-260405-C22F
+  - PRI-260405-2A11
   - INS-260404-16E1
   - INS-260405-092A
-  - INS-260405-C22F
-  - INS-260404-93E3
-  - INS-260403-2E90
+  - INS-260405-1894
 evidence:
   - id: INS-260327-40E3
     type: CHALLENGES

@@ -45,14 +45,12 @@ stance: >-
   but a cognitive necessity, because professional investors hear so many pitches
   that the first survival filter is simply being remembered at all.
 related:
-  - INS-260403-448F
-  - INS-260403-87CD
-  - INS-260404-6C20
   - INS-260403-81CE
-  - INS-260403-2FE1
-  - INS-260405-5BD3
   - INS-260403-2A1D
+  - INS-260403-87CD
+  - INS-260405-5BD3
   - INS-260404-B87E
+  - INS-260404-D242
   - INS-260405-E6F9
 evidence:
   - id: INS-260404-B87E

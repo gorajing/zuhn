@@ -53,11 +53,11 @@ stance: >-
   and constrained by history in ways that no rational designer would choose.
 related:
   - INS-260327-BA97
-  - INS-260330-9A60
-  - INS-260403-BA93
+  - INS-260330-09DE
+  - INS-260330-D108
   - INS-260404-9213
   - INS-260404-1A18
-  - INS-260404-6F39
+  - INS-260330-39B0
 evidence:
   - id: INS-260330-9A60
     type: SUPPORTS

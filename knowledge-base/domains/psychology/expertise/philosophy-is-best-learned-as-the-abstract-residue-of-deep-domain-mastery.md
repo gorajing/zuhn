@@ -44,12 +44,12 @@ stance: >-
   insight from deep expertise in math, history, or engineering — the useful
   abstractions emerge bottom-up, not top-down.
 related:
+  - INS-260327-6CB7
   - INS-260327-A5CD
   - INS-260402-BA91
   - PRI-260324-3B70
-  - INS-260329-5C25
-  - INS-260327-6CB7
   - PRI-260328-8516
+  - INS-260323-F2C3
 evidence:
   - id: INS-260329-5C25
     type: TRANSFERS_TO

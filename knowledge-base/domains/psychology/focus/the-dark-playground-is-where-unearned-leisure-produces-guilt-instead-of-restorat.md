@@ -49,7 +49,6 @@ stance: >-
   psychological benefit and instead generates compounding guilt, anxiety, and
   self-hatred.
 related:
-  - INS-260325-0A49
   - INS-260323-4718
   - INS-260404-D547
   - INS-260329-177E

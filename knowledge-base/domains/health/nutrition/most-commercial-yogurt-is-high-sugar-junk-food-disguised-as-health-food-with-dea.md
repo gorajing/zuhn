@@ -44,11 +44,12 @@ stance: >-
   loaded with sugar (some contain more than soda per serving), and uses
   thickeners and artificial flavors that negate any health benefit.
 related:
-  - INS-260327-4CF4
   - PRI-260325-654D
   - INS-260325-6787
   - PRI-260325-B4FA
   - INS-260329-4161
+  - INS-260327-B2E3
+  - INS-260327-1A07
   - INS-260329-D267
 evidence:
   - id: INS-260329-4161

@@ -2,7 +2,6 @@
 
 - `INS-260327-1F6E` Anxiety is frequently driven by vitamin B1 deficiency, gut dysbiosis, or blood sugar instability rather than purely psychological causes
 - `INS-260325-600C` Chronic anxiety is often B1 deficiency impacting the autonomic nervous system — not a psychological disorder requiring SSRIs.
-- `INS-260327-F8BF` Magnesium deficiency presents as muscle cramps insomnia anxiety and heart palpitations before blood tests show it
 - `INS-260330-0233` Chronic moderate alcohol intake disrupts the hypothalamic-pituitary-adrenal axis, causing higher baseline cortisol and increased anxiety during sober periods.
 - `INS-260330-B15C` Instead of seeking solutions to problems like anxiety, examine where the problem comes from — that examination IS the resolution.
 - `INS-260329-6DED` Formally canceling old forgotten tasks frees more capacity than adding urgency to new ones.

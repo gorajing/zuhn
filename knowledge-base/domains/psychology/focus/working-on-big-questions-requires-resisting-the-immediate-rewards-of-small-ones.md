@@ -49,9 +49,9 @@ stance: >-
   The gravitational pull toward small, familiar problems is the primary
   mechanism that prevents capable people from doing paradigm-shifting work.
 related:
-  - INS-260325-2944
   - INS-260325-CE25
   - INS-260323-4AB5
+  - INS-260327-A817
   - INS-260329-8C69
   - INS-260329-812E
   - INS-260330-63B8

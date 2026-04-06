@@ -53,11 +53,11 @@ stance: >-
   using a stronger model with zero-shot prompting, meaning workflow architecture
   matters more than raw model capability.
 related:
-  - INS-260325-5F3B
   - INS-260327-33FA
   - PRI-260403-7585
   - PRI-260328-F723
   - INS-260330-EC22
+  - INS-260326-2410
   - INS-260327-2101
   - INS-260327-D020
 evidence:

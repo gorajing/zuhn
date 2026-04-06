@@ -48,6 +48,7 @@ stance: >-
   The same rigid constraints that make a system exceptionally strong also make
   it impossible to adapt without catastrophic restructuring
 related:
+  - INS-260325-1160
   - INS-260323-9BC8
   - INS-260330-E70C
   - INS-260330-851F

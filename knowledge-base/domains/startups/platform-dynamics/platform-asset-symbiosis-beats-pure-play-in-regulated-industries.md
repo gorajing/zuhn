@@ -47,10 +47,10 @@ stance: >-
   the other.
 related:
   - INS-260404-7325
-  - INS-260405-2748
   - INS-260327-5CB6
   - INS-260403-EA34
   - INS-260330-F22A
+  - INS-260327-3930
 evidence:
   - id: INS-260403-EA34
     type: TRANSFERS_TO

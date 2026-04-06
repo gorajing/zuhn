@@ -48,6 +48,7 @@ resolutions:
     scalar representation of a problem often matters more than having
     sophisticated tools for working with the full-dimensional representation.
 related:
+  - INS-260325-ED75
   - INS-260321-53E2
   - PRI-260325-EEE9
   - PRI-260328-8516
@@ -57,7 +58,6 @@ related:
   - INS-260325-B61B
   - INS-260323-7DAE
   - INS-260323-1302
-  - INS-260326-E1A8
 stance: >-
   Lagrange's breakthrough was converting the three-body problem from vectors
   (directional, hard to add) to scalars (magnitudes, trivially additive)

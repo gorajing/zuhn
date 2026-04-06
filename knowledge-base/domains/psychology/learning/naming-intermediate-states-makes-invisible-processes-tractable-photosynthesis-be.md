@@ -56,10 +56,10 @@ stance: >-
   anchors for sequential reasoning.
 related:
   - INS-260404-6AD7
-  - INS-260403-F63E
-  - INS-260404-1C48
   - INS-260404-FDEA
   - INS-260403-837D
+  - PRI-260405-CE75
+  - INS-260329-E402
 evidence:
   - id: INS-260330-30FB
     type: EXTENDS

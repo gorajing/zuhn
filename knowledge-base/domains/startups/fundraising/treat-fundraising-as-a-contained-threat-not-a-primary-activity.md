@@ -48,11 +48,13 @@ stance: >-
   The optimal fundraising strategy is to minimize time spent on it by keeping
   the startup's development as the primary activity, not the other way around
 related:
+  - INS-260322-8F80
   - INS-260330-6900
   - INS-260403-0680
   - INS-260405-092A
   - INS-260403-47B7
-  - INS-260403-1DB7
+  - INS-260405-224A
+  - INS-260403-D328
 evidence:
   - id: INS-260329-9A30
     type: SUPPORTS

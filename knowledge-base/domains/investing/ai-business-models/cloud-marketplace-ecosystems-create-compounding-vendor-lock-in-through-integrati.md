@@ -57,10 +57,10 @@ stance: >-
   interconnected services simultaneously
 related:
   - INS-260404-D6EC
-  - INS-260404-8947
   - INS-260330-5C64
   - INS-260325-A54F
   - INS-260322-642F
+  - PRI-260405-A11F
 evidence:
   - id: INS-260322-642F
     type: CHALLENGES

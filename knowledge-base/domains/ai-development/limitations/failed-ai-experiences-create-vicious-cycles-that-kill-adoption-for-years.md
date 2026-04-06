@@ -50,11 +50,13 @@ stance: >-
   permanently disengage, creating a death spiral where reduced usage means less
   feedback data and slower improvement
 related:
+  - INS-260330-1A23
   - INS-260330-843E
   - INS-260330-AB6F
   - INS-260329-B0BA
-  - INS-260329-35F2
-  - INS-260404-8947
+  - INS-260330-F268
+  - INS-260402-D9D0
+  - INS-260402-5CF0
 evidence:
   - id: INS-260330-1A23
     type: CHALLENGES

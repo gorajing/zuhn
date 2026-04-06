@@ -1,6 +1,6 @@
 # Topic: platform-shifts
 
-> 33 insights
+> 32 insights
 
 - `INS-260403-5DD7` [high] Selling AI as the product rather than as the means to a complete outcome creates a fragile, easily copied competitive position.
 - `INS-260327-561F` [high] AI ethics is not a feature to patch later but foundational infrastructure -- like rebar in a building -- without which even the best AI technology inevitably becomes a surveillance tool.
@@ -33,5 +33,4 @@
 - `INS-260330-460D` [medium] Facebook and Google's strategies to become the internet itself — through Instant Articles, AMP, and app-based experiences — represent an existential threat to the open web's architecture.
 - `INS-260325-F21D` [medium] Digital computers abstract reality into zeros and ones, but molecules and diseases are not zeros and ones — quantum computers work with electrons and atoms directly, making them native to simulating biological reality.
 - `INS-260325-B882` [medium] AI, clean energy, and bioengineering are simultaneously hitting their technology adoption tipping points, creating a convergence that may produce civilizational-scale change.
-- `INS-260325-CED9` [medium] AI, clean energy, and bioengineering are all hitting their tipping points simultaneously, creating a convergence that historically triggers 25-year explosions of civilizational progress.
 - `INS-260325-8290` [low] Every 80 years — founding era (1787), post-Civil War (1865), post-WWII (1945), and now (2025) — America undergoes violent systemic change followed by 25 years of explosive innovation.

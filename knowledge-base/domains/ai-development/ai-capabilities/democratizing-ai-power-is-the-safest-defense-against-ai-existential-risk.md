@@ -53,9 +53,9 @@ stance: >-
   misuse superintelligence are precisely those who accumulate disproportionate
   power.
 related:
-  - INS-260325-D763
   - INS-260323-8239
   - INS-260329-19B3
+  - PRI-260405-C47B
   - INS-260323-BC61
   - PRI-260323-57AC
   - INS-260330-4150

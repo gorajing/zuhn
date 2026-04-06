@@ -50,15 +50,14 @@ stance: >-
   better retention than the reverse sequence.
 related:
   - INS-260329-2DF2
-  - INS-260330-4D18
-  - INS-260329-2FEB
   - INS-260330-E47D
   - INS-260329-70F2
+  - INS-260403-CBB0
+  - INS-260329-937E
   - INS-260329-FEC5
   - INS-260329-18C9
   - INS-260329-E43B
   - INS-260330-1B16
-  - INS-260403-CBB0
 evidence:
   - id: INS-260329-18C9
     type: TRANSFERS_TO

@@ -47,6 +47,7 @@ stance: >-
   Deep technical skill is a prerequisite for seeing startup opportunities, not a
   tool you acquire after finding an idea.
 related:
+  - INS-260323-4D4E
   - INS-260327-FFA7
   - INS-260327-8358
   - INS-260330-5043
@@ -56,7 +57,6 @@ related:
   - INS-260330-0346
   - INS-260327-E2BC
   - INS-260327-3A71
-  - INS-260404-5882
 ---
 Graham uses the metaphor of a shop with a sticking door: to non-carpenters it's a mysterious natural phenomenon requiring a warning sign, but to a carpenter the fix is obvious. Similarly, once you're good at programming, all the missing software in the world becomes visible. Zuckerberg saw that Harvard's student directory wasn't online and thought 'I could fix this in one night' — most students didn't even notice the problem.
 

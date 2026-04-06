@@ -7,7 +7,6 @@
 - `INS-260325-123C` There is no catching up on sleep; consistent sleep hygiene is the most powerful attention intervention.
 - `INS-260325-9693` Sleep deprivation impairs cognition equivalent to being legally drunk, and weekend catch-up sleep is a myth — circadian rhythms don't allow debt repayment.
 - `INS-260327-6916` The pillars of natural testosterone optimization are: 7-8 hours of consistent sleep, adequate carbohydrates, avoiding endocrine disruptors, and nutrient-dense food -- no TRT required at any age.
-- `INS-260327-20AF` Winter depression is caused by insufficient full-spectrum light exposure disrupting serotonin production more than vitamin D deficiency
 - `INS-260330-29CE` The circadian clock gene BMAL enhances protein synthesis pathways in muscle cells during morning hours, making early protein intake beneficial for hypertrophy.
 - `INS-260330-18EE` Weekend feeding window drift effectively jet-lags your metabolic system, offsetting weekday fasting benefits.
 - `INS-260325-E6C8` Sunlight delivers vitamin D, nitric oxide, infrared healing, and circadian reset simultaneously — no supplement replicates all four.

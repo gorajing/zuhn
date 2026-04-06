@@ -1,17 +1,15 @@
 # Topic: perception
 
-> 291 insights
+> 272 insights
 
 - `INS-260325-6AE7` [very_high] Perfect squares become vanishingly rare as numbers grow — 'almost no' numbers are perfect squares — yet there are infinitely many of them, perfectly predictably located.
 - `INS-260325-0921` [very_high] The Collatz sequence's logarithmic behavior matches geometric Brownian motion — a stock-market-like random walk emerging from a fully deterministic rule.
 - `INS-260323-189B` [high] Edgerton's single-frame strobe technique from the 1930s produces sharper images than a modern 20,000 FPS camera because it sacrifices all temporal resolution for maximum spatial resolution.
 - `INS-260325-D4F6` [high] In infinite or self-similar systems, a subset can contain everything the whole contains.
-- `INS-260325-C996` [high] Psychologist Sonja Lyubomirsky estimates 50% of happiness is biological set point, 10% is circumstances, and 40% is under our control through deliberate choices.
 - `INS-260330-2C4D` [high] People feel anxious in extreme silence because reverb normally signals spatial safety — its absence triggers an expectation violation that the brain interprets as claustrophobia.
 - `INS-260327-7D75` [high] The worst outcome isn't failing at your goals - it's succeeding at goals that were never actually yours.
 - `INS-260402-86C4` [high] Adults hiding their flaws while enforcing high standards on children creates a generation that feels secretly, hopelessly inadequate compared to an illusion.
 - `INS-260327-9D51` [high] Algorithms optimized for engagement systematically show people the most extreme, emotional, and divisive content, creating population-scale distortion of what the world actually looks like.
-- `INS-260329-36D9` [high] Amortized cost analysis shows that expensive occasional operations can average out to near-zero cost when they enable many cheap subsequent operations.
 - `INS-260325-D033` [high] 75,000-year-old African beds used ash layers to repel ticks and aromatic leaves to deter mosquitoes, while ostrich egg canteens were self-cooling through micro-porous evaporation.
 - `INS-260327-86FE` [high] Every anti-consumption trend is immediately co-opted by brands selling anti-consumption-branded products, neutralizing t
 - `INS-260330-12D5` [high] Over-detecting threats in ambiguous stimuli is evolutionarily cheaper than missing real threats, so apophenia persists as a survival advantage.
@@ -20,7 +18,6 @@
 - `INS-260325-A54F` [high] Apple's power is ecosystem lock-in that makes switching feel like identity loss — not product superiority.
 - `INS-260323-C1D7` [high] 'Nature abhors a vacuum' dominated thinking for over a thousand years because Aristotle's framing was so intuitively compelling that even experimental contradictions were dismissed.
 - `INS-260403-A5FF` [high] Shared human perceptual wiring (faces, primary colors, 3D objects, edge-finding) makes art quality measurable against universal audience responses.
-- `INS-260327-4D3A` [high] Even consumers who cognitively recognize that limited drops are manufactured scarcity still experience genuine urgency a
 - `INS-260330-4D9D` [high] When people expect norm compliance from one party but not the other, the norm is already destroyed regardless of what happens next.
 - `INS-260330-1296` [high] When ambient noise disappears, the auditory system cranks up its gain, making internal body sounds that were always present suddenly audible.
 - `INS-260323-7345` [high] Bohr's social authority caused the physics community to dismiss the EPR paradox for 30 years — not because he refuted it, but because his response was so obscure nobody dared challenge it, and anyone who did was told 'Do you think you're smarter than Niels Bohr?'
@@ -32,7 +29,6 @@
 - `INS-260325-5A68` [high] Wright warns that when things become fully black-and-white — all good or all evil — that is exactly when conflict becomes most dangerous.
 - `INS-260327-C9A7` [high] Apple users stay not because of iMessage lock-in or ecosystem integration but because leaving Apple would mean abandoning a part of their self-identity.
 - `INS-260327-E039` [high] Disney's genius is not its content quality but its systematic embedding into childhood emotional experiences, creating adults who spend irrationally on Disney products out of nostalgia.
-- `INS-260325-AC52` [high] Censorship systematically backfires because suppressing ideas creates martyrs and amplifies interest through the Streisand Effect.
 - `INS-260325-36F0` [high] From Jesus to Socrates to Barbra Streisand, suppressing ideas consistently amplifies them — people are more interested in and more likely to believe prohibited content.
 - `INS-260323-DEF0` [high] Censoring speech does not change opinions — it pushes people to share views only with those who already agree, accelerating group polarization.
 - `INS-260323-0827` [high] When you cannot move an obstacle directly, change its angle with minimal force — Stevens uses his pinky to rotate the opponent's stance rather than trying to move their planted foot.
@@ -41,7 +37,6 @@
 - `INS-260327-134F` [high] When addictive substances are packaged in clean modern branding with lifestyle marketing, consumers perceive them as wel
 - `INS-260325-BCA6` [high] Cognitive scripts discovered in 1979 research efficiently handle routine decisions but silently hijack important life choices when left unexamined.
 - `INS-260323-44A9` [high] The ideal moral framework balances rational analysis of impact with genuine compassion for well-being — neither alone is sufficient.
-- `INS-260326-2C4E` [high] Complex systems resist change because their current state is the survivor — stability was selected for, not designed.
 - `INS-260323-B230` [high] Losing his father sobered McConaughey up to the 'mendacities' consuming his daily emotional energy, making him realize most anxieties are insignificant in the larger scheme.
 - `INS-260325-2999` [high] fMRI gives spatial detail but loses time; EEG captures millisecond timing but low resolution; direct electrode recording is precise but covers tiny fractions of 86 billion neurons.
 - `INS-260323-0556` [high] Black holes were resisted for decades because they seemed 'too preposterous to be real,' with senior scientists publicly attacking younger ones for following the math.
@@ -111,7 +106,6 @@
 - `INS-260327-1845` [high] Ask 'what would I do if I weren't afraid?' and notice how many of your current life choices are fear-avoidance rather than genuine pursuit.
 - `INS-260325-3589` [high] Musashi: overthinking is the gap between perception and action — train to act on direct perception before analysis creates paralysis.
 - `INS-260327-DF8B` [high] Musical training physically changes brain structure - enlarging the corpus callosum, strengthening neural pathways, and enhancing capabilities that transfer to language, emotion, and reasoning.
-- `INS-260325-9928` [high] Even if thirst has no ultimate cosmic purpose, you are still thirsty — nihilism removes metaphysical grounding but not subjective motivation.
 - `INS-260330-1243` [high] Applying ideological threat models to fundamentally transactional actors leads to systematic misprediction of their behavior and goals.
 - `INS-260330-14B1` [high] Normal maps exploit how humans perceive surface detail through light interaction rather than actual geometry.
 - `INS-260327-2EFD` [high] Consumer interest in analog products (vinyl, film cameras, physical planners) peaks when the aesthetic appeal exceeds th
@@ -122,11 +116,9 @@
 - `INS-260323-E77E` [high] Bohm and Aharonov, both academic outsiders — one exiled by McCarthyism, the other a student — overturned 200 years of physics consensus because their marginalization freed them from orthodoxy.
 - `INS-260325-B974` [high] A hairdresser, survivalists, and indigenous communities have all corrected academic archaeologists because practical craft knowledge reveals what artifact analysis misses.
 - `INS-260325-02F2` [high] The Copernican revolution took centuries to be fully absorbed; discovering alien life will likely follow the same slow integration pattern.
-- `INS-260329-E4BA` [high] Pass/fail options remove the fear barrier that prevents capable people from attempting unfamiliar domains.
 - `INS-260325-CC47` [high] Our brains evolved to over-detect patterns for survival, which now causes us to compulsively construct false causal narratives from random events.
 - `INS-260330-A18F` [high] Placebo potency scales with perceived seriousness: surgery > injection > capsule > pill, and even color matters (blue calms, red energizes).
 - `INS-260330-8A5C` [high] Studies show that positive placebo outcomes persist even after subjects learn their treatment had no active ingredient.
-- `INS-260327-446A` [high] American consumerism was deliberately engineered — planned obsolescence was explicitly proposed as an economic strategy during the Great Depression to create artificial demand.
 - `INS-260330-27CA` [high] The Millennium Bridge wobble was caused by a positive feedback loop where the bridge's lateral sway synchronized pedestrians' gaits, which amplified the sway further.
 - `INS-260323-ACD9` [high] Committing in advance to principled behavior yields better outcomes than optimizing each decision in isolation.
 - `INS-260323-A19F` [high] The argument that a word is too powerful to study in academic contexts is self-defeating — powerful words demand more engagement, not less.
@@ -147,10 +139,8 @@
 - `INS-260325-568A` [high] Every great scientific breakthrough, even those attributed to lone geniuses, arose from collaborative social contexts — and knowing this helps us create better conditions for future discovery.
 - `INS-260323-C3FA` [high] The Aharonov-Bohm effect required 27 years of progressively tighter experiments — from Chambers' iron whisker to Tonomura's superconducting donut — to eliminate every alternative explanation before consensus shifted.
 - `INS-260325-C6BB` [high] In science, a theory is assembled from many rigorously tested hypotheses and independent evidence — it is the top of the hierarchy, not a casual guess.
-- `INS-260323-1655` [high] Knowing your patterns, naming your triggers, and understanding your attachment style means nothing if you do not actually behave differently.
 - `INS-260327-671E` [high] You'd be surprised how people perceive you - they notice your energy and consistency far more than the specific flaws you obsess over.
 - `INS-260327-0755` [high] Starbucks charges 5x the cost of home-brewed coffee because customers are buying a 'third place' — a comfortable environment between home and work — not a beverage.
-- `INS-260330-43E8` [high] Silence doesn't cause madness — it redirects attention inward to bodily signals normally masked by ambient noise.
 - `INS-260330-EE7E` [high] In extreme silence the brain turns up its perceptual gain, making tiny sounds (breathing, clothing rustle, swallowing) seem loud — this is normal adaptation, not madness.
 - `INS-260327-690E` [high] Scented candle purchases are really purchases of emotional states — calm, romance, coziness — using scent as the deliver
 - `INS-260325-5023` [high] Constructive failure processing requires separating the act of making a mistake from the identity of being a failure.
@@ -166,12 +156,9 @@
 - `INS-260327-1403` [high] Consumer rage at automotive subscriptions exceeds rational price objections because the psychological experience is havi
 - `INS-260330-BE6F` [high] Breaking the sound barrier inside an F-16 cockpit produces no sensation — only instrument anomalies from shock wave pressure changes on the Pitot tube reveal it happened.
 - `INS-260329-B22B` [high] The surrogate vs. natural key choice embodies a universal trade-off between meaningful identifiers and stable abstractions.
-- `INS-260329-AC6E` [high] Dr. Chuck starts his Python course with hardware architecture because understanding what the CPU, memory, and disk actually do prevents students from treating code as magic incantations.
 - `INS-260327-74CF` [high] The most dangerous pattern in history is repeating: powerful entities restrict access to transformative technology to maintain their position, whether ancient priests hoarding literacy or modern companies hoarding AI.
 - `INS-260403-368A` [high] Every era misses spectacular events from other eras, so temporal FOMO cancels itself out.
-- `INS-260330-0DF9` [high] At normal speed, an underwater gunshot is one event; at 27,450 fps, it becomes three distinct phenomena with separate physics.
 - `INS-260330-59E3` [high] Going from 30fps to 27,450fps doesn't just make underwater gunfire look smoother — it reveals three separate physical mechanisms that are categorically invisible at normal speed.
-- `INS-260330-A5C4` [high] Slowing time by 1000x reveals physical complexity that human perception is biologically incapable of registering.
 - `INS-260329-0F06` [high] Abstract data types define behavior contracts while data structures provide specific implementations, and this separation principle applies far beyond programming.
 - `INS-260327-7D27` [high] All-inclusive pricing environments increase total spending because individual consumption decisions carry zero marginal 
 - `INS-260330-125E` [high] Rubin describes how the brain instantly invents explanatory stories for unexpected events, then registers those invented stories as factual memories we later relay with full confidence.
@@ -179,7 +166,6 @@
 - `INS-260329-B8B6` [high] The chain rule states that when y depends on u which depends on x, the rate dy/dx equals dy/du times du/dx — rates of change through composed systems multiply, they don't add.
 - `INS-260323-6BF4` [high] Malice identifies a toxic cultural pattern: people feel compelled to have and share opinions on everything, even topics they know almost nothing about.
 - `INS-260329-95EF` [high] Shrinking the measurement interval from average to instantaneous rate of change is the core technique for converting rough observations into precise understanding.
-- `INS-260329-F4B2` [high] The derivative concept teaches that understanding a process at any moment requires looking at infinitesimally small intervals around that moment, not at broad averages.
 - `INS-260322-4B4A` [high] There is no right answer in creative work, but there are people whose job it is to make their choices become the right answer through total commitment to execution.
 - `INS-260329-8D70` [high] Binary search trees average O(log n) but degrade to O(n) when data arrives sorted — this single gap motivated AVL trees, red-black trees, and the entire field of self-balancing structures.
 - `INS-260325-2B9F` [high] Real espionage effectiveness comes from being completely forgettable — the 'gray man' who disappears in any setting is more operationally valuable than any James Bond.
@@ -193,7 +179,6 @@
 - `INS-260325-1EB3` [high] Reactionary influencers tell boys 'nobody wants you to watch my content' -- slamming the laptop shut proves their point, while curiosity and real-world male role models provide the actual antidote.
 - `INS-260327-691F` [high] Every astronaut who has seen Earth from space reports the same thing: borders, conflicts, and individual concerns become absurd when you see the whole planet as one fragile system.
 - `INS-260325-216D` [high] The wavy walls and pretty colors are the trivial part of psychedelics — the therapeutic mechanism is the dissolution of identity and self-definition that allows people to reframe their entire life narrative.
-- `INS-260325-4F06` [high] After 9/11 and COVID, shared anxiety and media amplification create a collective blind spot where people cannot believe their distress is temporary, leading to systematic overprediction of lasting trauma.
 - `INS-260330-BBEE` [high] Aerogel scatters blue light like the atmosphere does, appearing blue on dark backgrounds but yellow against blue sky — a handheld sunset.
 - `INS-260323-DA13` [high] Just as scientists never refuse to run an experiment because the result might be unpleasant, the marketplace of ideas must entertain all hypotheses — including hateful ones.
 - `INS-260325-636B` [high] The Sequel Script makes people choose careers matching their degree and partners matching their ex — privileging narrative continuity over genuine fit.
@@ -257,8 +242,6 @@
 - `INS-260323-A494` [medium] African-Americans, Jewish Americans, gay Americans, and Soviet emigres are all overrepresented in comedy not from innate talent but from the outsider perspective that comes with marginalization.
 - `INS-260330-0FCC` [medium] Disciplinary training creates perceptual filters that make anomalies invisible to insiders but obvious to outsiders.
 - `INS-260327-6F26` [medium] Since the future will be nothing like we imagine, building adaptive capacity is more valuable than building specific plans.
-- `INS-260329-DD0F` [medium] Programming understanding comes as a sudden click after sustained confusion, not as gradual comprehension.
-- `INS-260329-27A3` [medium] Learning concepts layered on top of each other in context transfers better than learning them in isolation.
 - `INS-260404-59D1` [medium] The video builds from 'you can't hold this' to 'watch me lift it overhead' — each step making the next seem more impossible, which deepens engagement with the explanation.
 - `INS-260325-59D4` [medium] Suppression creates an inference: if the idea were not dangerous to the powerful, they would not bother censoring it — making the forbidden idea seem more credible.
 - `INS-260327-9447` [medium] Most people have never been adults - they've learned to perform the social behaviors associated with adulthood while remaining emotionally and psychologically undeveloped.
@@ -272,7 +255,6 @@
 - `INS-260327-1D3D` [medium] When the technological gap between groups becomes large enough, it creates the same social dynamics as perceived divine power - dependence, worship, and unquestioning obedience.
 - `INS-260325-0147` [medium] Suppressing an idea does not just draw attention to it -- it actually increases the likelihood people will believe it.
 - `INS-260329-F20E` [medium] Teaching building blocks without immediate practical context creates a stronger conceptual breakthrough when the payoff finally arrives.
-- `INS-260329-2349` [medium] Delaying the 'why' behind foundational concepts creates a powerful aha moment when the payoff finally arrives.
 - `INS-260322-A8F2` [medium] Jung's synchronicity demands two events (one internal, one external), no causal link between them, meaningful symbolic connection, and close temporal proximity — most apparent 'synchronicities' fail at least one criterion.
 - `INS-260323-1930` [medium] Musicians like Charlie Puth experience notes as colors, tastes, and shapes — talent at the highest levels isn't doing the same thing better, it's literally perceiving reality differently.
 - `INS-260326-3CDE` [medium] Like a pilot aiming north of the runway to compensate for crosswind, we must aim above people's current state to help them land where they're capable of being.
@@ -281,7 +263,6 @@
 - `INS-260327-6807` [medium] The internet as a place where you directly access information from diverse sources is ending - AI intermediaries will increasingly determine what you see, know, and believe.
 - `INS-260325-4868` [medium] Joy requires emotional openness and surprise, which means putting down the phone and being experientially surprisable.
 - `INS-260325-DFA5` [medium] If God chose evolution by natural selection as the mechanism to create humans, billions of years of animal predation, disease, and extinction were built into the design — this challenges God's goodness more than God's existence.
-- `INS-260325-2F1E` [medium] Evolution by natural selection — God's chosen mechanism for creating humans — required billions of years of animal suffering and extinction, which seems deeply unexpected from a loving, all-powerful creator.
 - `INS-260403-9BBA` [medium] The Uncanny Valley is best understood not as a robot-specific phenomenon but as what happens when anything straddles the boundary between two categories our brain needs to resolve.
 - `INS-260327-8C74` [medium] Western linear time (from St. Augustine) creates existential urgency because every moment is unique and unrepeatable, while Hindu cyclical time (kalpas) resolves anxiety by framing all experience as phases in an eternal rhythm.
 - `INS-260330-3EDA` [medium] During 72 hours of isolation, Michael's time estimation error doubled after each sleep cycle, and Stefania Follini believed 130 days underground was only about 65.

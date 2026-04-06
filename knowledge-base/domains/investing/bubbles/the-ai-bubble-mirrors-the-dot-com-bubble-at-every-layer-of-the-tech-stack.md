@@ -41,11 +41,11 @@ resolutions:
     dump profitability burden onto the public at IPO.
 related:
   - INS-260321-B8E8
-  - INS-260328-17D7
   - PRI-260328-E921
   - INS-260325-FBE5
   - INS-260327-77FA
-  - INS-260403-8C50
+  - INS-260325-5455
+  - INS-260327-FA43
 stance: >-
   OpenAI is Netscape (first mover, no moat), Nvidia is Sun+Cisco (shovel
   seller), hyperscalers are Exodus Communications (building for demand that

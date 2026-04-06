@@ -46,8 +46,8 @@ related:
   - PRI-260328-E3A7
   - INS-260327-5827
   - INS-260327-9EBA
-  - INS-260325-5F3C
   - INS-260325-A8E3
+  - PRI-260328-97E0
 evidence:
   - id: INS-260325-5F3C
     type: EXTENDS

@@ -54,10 +54,10 @@ stance: >-
   marketing, not technology
 related:
   - INS-260330-8326
-  - INS-260322-AF17
   - INS-260323-DE39
   - INS-260329-EC01
   - INS-260322-0247
+  - INS-260327-CFE5
 evidence:
   - id: INS-260323-DE39
     type: TRANSFERS_TO

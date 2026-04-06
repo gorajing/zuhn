@@ -50,12 +50,13 @@ resolutions:
     important as optimizing for continued progress.
 related:
   - INS-260325-B14B
-  - INS-260330-93F3
   - INS-260330-5C80
   - INS-260330-F8B6
   - PRI-260325-070D
   - INS-260330-8950
+  - INS-260330-7E97
   - INS-260327-D24A
+  - INS-260330-14E1
 stance: >-
   Shapiro's counter to the 'arc of history bends toward progress' narrative: the
   20th century produced communism, Nazism, and the Holocaust

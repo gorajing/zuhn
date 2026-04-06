@@ -51,6 +51,8 @@ stance: >-
   historically transformed steel, power, computing, and agriculture — and this
   will produce equally dramatic structural changes.
 related:
+  - INS-260325-2906
+  - INS-260325-B882
   - INS-260403-B6A0
   - INS-260403-7B60
   - INS-260403-3615
@@ -59,8 +61,6 @@ related:
   - INS-260320-8688
   - INS-260403-34A6
   - INS-260403-A6AF
-  - INS-260403-1FCD
-  - INS-260405-6A94
 evidence:
   - id: INS-260325-2906
     type: SUPPORTS

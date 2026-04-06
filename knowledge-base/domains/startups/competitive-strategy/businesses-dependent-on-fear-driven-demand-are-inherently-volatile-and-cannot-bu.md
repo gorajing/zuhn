@@ -41,12 +41,11 @@ stance: >-
   spikes that are impossible to plan for operationally.
 related:
   - INS-260327-FBD8
-  - INS-260403-8F31
   - INS-260403-754F
   - INS-260404-B01F
   - INS-260403-EA2D
+  - INS-260404-8746
   - INS-260327-0FD9
-  - INS-260327-4D3A
 evidence:
   - id: INS-260329-C36D
     type: EXTENDS

@@ -49,16 +49,16 @@ stance: >-
   The retail apocalypse selectively killed companies with outdated practices,
   not physical stores as a category
 related:
+  - INS-260325-EF66
   - INS-260327-6058
   - INS-260328-D0F6
   - INS-260330-570F
   - INS-260330-C418
+  - INS-260403-CF09
   - INS-260403-3673
+  - INS-260403-D8A2
   - INS-260403-91DB
   - INS-260404-AD52
-  - INS-260403-D8A2
-  - INS-260405-D6E6
-  - INS-260405-7B7C
 evidence:
   - id: INS-260327-6058
     type: SUPPORTS

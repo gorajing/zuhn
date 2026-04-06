@@ -39,7 +39,6 @@ stance: >-
   for most adults, far exceeding the RDA of 600-800 IU, and provides documented
   protection against cancer, autoimmune disease, and infection
 related:
-  - INS-260325-EDE1
   - INS-260325-A003
   - INS-260327-D19D
   - INS-260325-E6C8

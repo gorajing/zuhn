@@ -49,11 +49,9 @@ stance: >-
   yields 2 million users in two years
 related:
   - INS-260321-6437
-  - INS-260330-E61E
   - INS-260330-A949
   - INS-260402-7FF5
   - PRI-260403-E097
-  - INS-260330-CB30
   - INS-260330-21CC
 evidence:
   - id: INS-260321-6437

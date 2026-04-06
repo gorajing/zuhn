@@ -43,6 +43,7 @@ stance: >-
   Starting a startup — even one that fails — develops founder capabilities
   faster than years of employment at an established company
 related:
+  - INS-260323-0C3A
   - INS-260325-6F89
   - INS-260323-F9E5
   - INS-260327-200C
@@ -50,9 +51,8 @@ related:
   - INS-260329-4A09
   - INS-260329-8E79
   - INS-260330-F800
+  - INS-260330-8156
   - INS-260330-E39E
-  - INS-260330-AA8B
-  - INS-260330-5A0A
 evidence:
   - id: INS-260329-5FB5
     type: SUPPORTS

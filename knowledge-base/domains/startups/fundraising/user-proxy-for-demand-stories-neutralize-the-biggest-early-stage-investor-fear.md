@@ -44,13 +44,10 @@ stance: >-
   something nobody wants.
 related:
   - INS-260402-F5E0
-  - INS-260403-17A3
-  - INS-260403-8F31
-  - INS-260403-1444
-  - INS-260404-9A82
-  - INS-260404-EE85
+  - INS-260403-53AA
+  - INS-260403-7072
+  - INS-260404-B01F
   - INS-260405-F9EC
-  - INS-260405-672E
   - INS-260405-9E25
 evidence:
   - id: INS-260404-B887

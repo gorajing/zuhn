@@ -1,6 +1,6 @@
 # Topic: platform-dynamics
 
-> 19 insights
+> 18 insights
 
 - `INS-260325-14DC` [high] ASML's $350 million EUV lithography machines — using tin plasma at 40x the sun's surface temperature to carve transistors smaller than viruses — are required for all advanced chips and have no competitor.
 - `INS-260322-EDC2` [high] While staying on the model frontier matters, the real defensibility in vertical AI comes from deep application context — understanding specific workflows, regulations, and customer needs that no foundation model company will pursue.
@@ -19,5 +19,4 @@
 - `INS-260330-7C24` [high] Vibe coding creates a barbell market where giant apps and tiny niche apps thrive, but 5-20 person software companies get squeezed out.
 - `INS-260322-D8C3` [medium] OpenAI doesn't treat agents as a separate category — ChatGPT, Codex CLI, Sora, and the API are all just different interfaces for deploying the same underlying intelligence, each optimized for different user contexts.
 - `INS-260325-2BDB` [medium] Eugene from ZDOT AI argued durable value lies in platform infrastructure — model-as-a-service, enterprise deployment, and APIs — sitting between foundation models and applications.
-- `INS-260403-D0B9` [medium] MoE architectures let smaller labs like Mistral compete with frontier labs by using compute more efficiently.
 - `INS-260328-9B8A` [medium] Zuckerberg frames open source AI not as idealism but as a security strategy — concentrated AI power in untrustworthy hands is potentially more dangerous than widespread access.

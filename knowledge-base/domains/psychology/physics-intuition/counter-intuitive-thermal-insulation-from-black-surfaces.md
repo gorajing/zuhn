@@ -47,12 +47,12 @@ stance: >-
   Black objects in water can cool the water beneath them because air-gap
   insulation matters more than surface absorption in determining heat transfer.
 related:
-  - INS-260330-31A9
   - INS-260330-FC16
   - INS-260330-012D
   - INS-260330-659D
   - INS-260403-F075
   - INS-260330-56AA
+  - INS-260330-F8E7
 evidence:
   - id: INS-260330-FC16
     type: TRANSFERS_TO

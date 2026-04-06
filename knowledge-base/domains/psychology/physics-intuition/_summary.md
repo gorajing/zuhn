@@ -1,11 +1,10 @@
 # Topic: physics-intuition
 
-> 72 insights
+> 67 insights
 
 - `INS-260330-CDF8` [high] Light's regularity means its full 3D state is determined by its values on any 2D boundary surface.
 - `INS-260330-12F9` [high] Firing one bullet underwater produces three visually distinct phenomena (Bernoulli cavitation, gas trail, shock vapor) that are invisible at normal speed but separable at 27,450 fps.
 - `INS-260330-6FDF` [high] Three different physical processes produce visually identical bubbles underwater, distinguishable only at extreme temporal resolution.
-- `INS-260330-4D18` [high] History repeatedly shows that purely abstract mathematical concepts — developed with no practical intent — later turn out to describe physical reality with precision.
 - `INS-260323-D8DD` [high] Both Planck's quantum of energy and Bohr's quantized angular momentum were 'acts of desperation' with no physical justification — they worked spectacularly before anyone understood why.
 - `INS-260330-8CCE` [high] Aerogel's fragile nanostructure gradually decelerates hypervelocity comet particles over distance rather than stopping them instantly, preventing vaporization on impact.
 - `INS-260330-B69C` [high] Earth simultaneously spins at 1,670 km/h, orbits at 108,000 km/h, drifts at 70,000 km/h with the solar system, races at 792,000 km/h around the galaxy, and hurtles at 2.1M km/h toward the Great Attractor.
@@ -30,11 +29,8 @@
 - `INS-260330-D0F8` [high] Exit velocity depends on the speed differential and coupling efficiency between bat and ball, not just bat speed.
 - `INS-260330-CA62` [high] Entropy measures how spread out energy is, not how 'messy' a system looks.
 - `INS-260330-CA43` [high] A mechanical engineer discovered he didn't truly understand an everyday device until he built a transparent version and watched it in slow motion.
-- `INS-260330-DD85` [high] Einstein's equivalence principle shows falling is indistinguishable from floating in empty space — gravity is geometry, not force.
 - `INS-260323-849E` [high] Einstein showed that gravity is not a force at all — objects follow curved paths through spacetime warped by mass, and what we feel as gravity is just the ground stopping our natural path.
-- `INS-260330-4B9A` [high] On a flat disc Earth, gravity would pull toward the center of mass creating increasingly sideways forces at edges, making normal life impossible.
 - `INS-260330-04F9` [high] On a flat disc Earth, gravity would pull increasingly sideways toward the center as you moved to the edges, making walking, water flow, and weather radically different from our spherical experience.
-- `INS-260330-D3AA` [high] On a flat disc Earth, gravity would pull increasingly sideways toward the center as you moved to edges, making the periphery uninhabitable.
 - `INS-260404-E0FD` [high] Spinning objects feel lighter because gravity's torque is redirected into precession, not because weight actually decreases.
 - `INS-260330-FEDD` [high] Daniel Barringer spent 27 years drilling for an iron meteorite that had vaporized on impact 50,000 years earlier — our intuition about low-speed collisions doesn't transfer to high-energy events.
 - `INS-260330-5265` [high] Our everyday experience with catching baseballs at 90 mph provides zero useful intuition for what happens at 1000 mph because energy scales with velocity squared.
@@ -44,7 +40,6 @@
 - `INS-260330-DFA4` [high] Tyson's experiment at Princeton showed astrophysical publications double every 15-18 years, meaning every generation on the exponential curve genuinely feels like they're living in special times.
 - `INS-260330-E70C` [high] A mere 2 PSI applied over 600 square inches generates 1200 pounds of lifting force while the surface remains completely soft.
 - `INS-260330-7EFD` [high] Extending Schwarzschild's coordinates to their mathematical limits revealed white holes, parallel universes, and wormholes - none of which were anticipated.
-- `INS-260323-0E33` [high] An outside observer sees objects freeze forever at a black hole's horizon, while the falling observer crosses it without noticing anything unusual -- both descriptions are simultaneously correct.
 - `INS-260330-300D` [high] Holograms work because they record phase via interference with a reference beam, while photographs only capture amplitude.
 - `INS-260325-A72C` [high] Physics succeeds by stripping everything to ideal cases (spherical cows) then adding complexity back — a strategy that works for physics but fails for psychology or biology.
 - `INS-260323-3E21` [high] Physics forces you beyond the limitation of human senses to develop intuitions that apply at different distances, scales, and ways of thinking — a meta-skill transferable to any complex domain.

@@ -49,11 +49,11 @@ resolutions:
 related:
   - INS-260322-3010
   - INS-260322-8F80
-  - INS-260405-39F3
   - PRI-260403-1D59
   - INS-260322-8D47
   - INS-260403-92CC
-  - INS-260330-CAAB
+  - INS-260329-C8C7
+  - PRI-260328-43F1
 stance: Only build products with daily-use repeat purchase dynamics
 evidence:
   - id: INS-260322-3010

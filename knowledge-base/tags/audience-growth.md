@@ -4,5 +4,4 @@
 - `INS-260329-127F` Multi-year daily content output is the only reliable audience-building strategy; most people quit too early.
 - `INS-260329-13D2` Higher production value and format evolution to reach more people is justified as long as the core message stays intact — the audience trains you through engagement signals.
 - `INS-260323-7EDF` Pakman explicitly structures his show as a content pyramid — serious deep dives at the base, entertaining segments on top — deliberately adapting the ratio to each platform.
-- `INS-260329-8DE7` New brand pairings always lose some existing audience — the strategic question is whether you net-gain more than you lose.
 - `INS-260329-7C08` Commit to producing 400 long-form content pieces as the baseline strategy for audience building from zero.

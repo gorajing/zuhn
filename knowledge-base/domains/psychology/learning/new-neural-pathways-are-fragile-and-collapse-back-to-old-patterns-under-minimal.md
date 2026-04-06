@@ -54,9 +54,9 @@ stance: >-
 related:
   - INS-260330-0930
   - INS-260330-0C49
-  - INS-260330-4114
   - INS-260330-7B62
-  - INS-260330-0EF6
+  - INS-260330-9471
+  - INS-260330-6620
 ---
 After 8 months of practice, Destin could ride the backwards bicycle — but the new skill was extremely fragile. Any minor distraction (a phone ringing, someone calling his name) would instantly revert his brain to the old steering algorithm, causing an immediate crash. The new pathway required continuous conscious attention to maintain.
 

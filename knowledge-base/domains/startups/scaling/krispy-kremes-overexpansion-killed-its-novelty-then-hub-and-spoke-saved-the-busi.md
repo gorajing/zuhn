@@ -51,6 +51,7 @@ related:
   - PRI-260328-82BE
   - INS-260404-96E6
   - INS-260403-D8A2
+  - INS-260327-F7C0
 stance: >-
   Krispy Kreme expanded into supermarkets, gas stations, and airports to fill
   production capacity

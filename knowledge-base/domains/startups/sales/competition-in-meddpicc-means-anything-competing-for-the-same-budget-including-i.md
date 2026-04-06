@@ -64,6 +64,7 @@ stance: >-
   the same budget, and sellers who only track rival vendors miss the majority of
   competitive threats.
 related:
+  - INS-260324-5C53
   - INS-260323-D621
   - INS-260323-FEDF
   - INS-260323-B4D2
@@ -71,6 +72,7 @@ related:
   - INS-260330-376E
   - INS-260329-7CDE
   - INS-260327-10E0
+  - INS-260403-2074
   - INS-260403-C7A0
 evidence:
   - id: INS-260323-B4D2

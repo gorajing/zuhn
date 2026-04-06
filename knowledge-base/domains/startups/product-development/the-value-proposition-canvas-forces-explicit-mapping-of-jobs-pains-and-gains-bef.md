@@ -53,13 +53,12 @@ stance: >-
   pains, and gains produce sharper product decisions than narrative customer
   personas alone.
 related:
+  - INS-260322-5A72
   - INS-260322-185B
   - INS-260327-00EB
   - INS-260404-D1E2
-  - INS-260404-1E47
-  - INS-260322-5A72
   - INS-260329-CEC5
-  - INS-260330-FE9E
+  - INS-260325-040F
 evidence:
   - id: INS-260326-3F06
     type: TRANSFERS_TO

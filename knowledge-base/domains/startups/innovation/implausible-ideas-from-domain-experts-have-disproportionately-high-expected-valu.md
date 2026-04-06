@@ -52,11 +52,11 @@ stance: >-
   conservatism creates an efficient-market-style mispricing of radical
   innovation.
 related:
-  - INS-260327-4367
   - INS-260323-15F4
   - INS-260403-4788
   - INS-260403-B12E
   - INS-260330-4EF8
+  - INS-260330-B2C5
 evidence:
   - id: INS-260327-4367
     type: SUPPORTS

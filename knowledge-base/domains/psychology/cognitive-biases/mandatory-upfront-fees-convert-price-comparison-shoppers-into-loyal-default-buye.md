@@ -48,14 +48,11 @@ stance: >-
   the commitment is non-negotiable.
 related:
   - INS-260327-1403
-  - INS-260403-546E
   - INS-260403-CE5F
-  - INS-260403-543E
+  - PRI-260405-548B
   - INS-260404-A938
-  - INS-260404-B46E
   - INS-260404-13F1
-  - INS-260404-2D53
-  - INS-260405-9F38
+  - INS-260404-94BB
 evidence:
   - id: INS-260404-A938
     type: SUPPORTS

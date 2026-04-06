@@ -52,16 +52,16 @@ stance: >-
   built through discovery rather than design — and learners should expect
   similar inversions throughout.
 related:
-  - INS-260325-69CF
   - INS-260325-40DC
   - INS-260325-B061
   - INS-260330-4329
   - INS-260330-3819
+  - INS-260330-E47D
   - INS-260330-0143
   - INS-260404-FDEA
   - INS-260403-07C3
   - INS-260402-89DE
-  - INS-260330-E47D
+  - INS-260403-979D
 evidence:
   - id: INS-260325-69CF
     type: TRANSFERS_TO

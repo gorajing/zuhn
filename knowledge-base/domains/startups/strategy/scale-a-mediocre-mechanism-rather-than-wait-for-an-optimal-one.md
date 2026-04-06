@@ -48,13 +48,13 @@ stance: >-
   outcompete those waiting to evolve a perfect one
 related:
   - INS-260330-2F74
-  - INS-260403-962E
   - INS-260403-2457
-  - INS-260404-4010
-  - INS-260404-BC18
-  - INS-260403-0162
-  - INS-260404-1D8F
-  - INS-260404-1FCE
+  - INS-260330-54ED
+  - INS-260403-F68A
+  - INS-260403-532D
+  - INS-260404-16B0
+  - INS-260404-1000
+  - INS-260405-0FC4
 evidence:
   - id: INS-260404-1D8F
     type: CHALLENGES

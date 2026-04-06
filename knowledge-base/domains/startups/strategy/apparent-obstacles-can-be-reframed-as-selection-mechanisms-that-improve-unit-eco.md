@@ -51,11 +51,10 @@ stance: >-
 related:
   - INS-260327-176D
   - INS-260403-9104
-  - INS-260403-243A
   - INS-260404-AC1B
   - INS-260404-E65A
   - INS-260405-631B
-  - INS-260404-3C9B
+  - INS-260404-94BB
 evidence:
   - id: INS-260403-747B
     type: REFINES

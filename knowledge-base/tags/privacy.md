@@ -1,6 +1,5 @@
 # Tag: privacy
 
-- `INS-260325-23BA` Linda described Peter Steinberger's OpenClaw vision: a master agent with your full memory spawns context-specific sub-agents — a work persona for Microsoft workspace, a different persona for social apps — keeping your core data private.
 - `INS-260405-8166` A master agent holds your full private context locally while spawning persona-limited sub-agents for different environments — work, social, dating — each with different data access and communication styles.
 - `INS-260325-042A` All previous information networks ran on organic cycles with built-in rest; AI networks never rest and may force humans to never rest either.
 - `INS-260325-C59D` AI networks never rest, never sleep, and never need privacy — but forcing organic humans to match this inorganic pace will collapse them.

@@ -49,9 +49,9 @@ resolutions:
 related:
   - INS-260330-BEE7
   - INS-260330-C391
-  - INS-260329-913C
   - INS-260321-E5C5
   - INS-260327-B302
+  - INS-260327-1393
   - INS-260329-A57B
 stance: Most founders talk to 3-5 customers per week and think that's enough
 ---

@@ -41,9 +41,9 @@ resolutions:
     lesson: measure AI value by capabilities unlocked, not time saved.
 related:
   - PRI-260405-86E0
+  - PRI-260405-1FBC
   - INS-260328-E410
   - INS-260321-A56C
-  - INS-260330-4CA7
   - INS-260403-A485
 stance: >-
   A worker saving 20% of their time is 'soft savings' — employers rarely

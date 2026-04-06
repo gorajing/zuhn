@@ -45,11 +45,11 @@ stance: >-
   thriving or dying are wrong more than 50% of the time and should be ignored
   for decision-making.
 related:
-  - INS-260330-EBDC
   - INS-260322-38D8
   - INS-260322-F65F
   - INS-260323-BEF0
   - INS-260404-D976
+  - INS-260403-28C7
 evidence:
   - id: INS-260322-F65F
     type: SUPPORTS

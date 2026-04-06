@@ -50,11 +50,11 @@ stance: >-
   saying 'I know I do this,' it removes the other person's need to keep
   insisting they are right, creating space for repair.
 related:
-  - INS-260325-7D50
   - INS-260325-EC85
   - INS-260404-0D62
   - PRI-260328-3BEF
   - INS-260323-4C43
+  - INS-260330-DC22
   - INS-260327-DCA9
 evidence:
   - id: INS-260404-0D62

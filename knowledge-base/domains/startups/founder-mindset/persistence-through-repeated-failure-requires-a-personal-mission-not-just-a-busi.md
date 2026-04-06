@@ -48,9 +48,9 @@ resolutions:
 related:
   - INS-260323-E551
   - PRI-260328-E53E
-  - INS-260403-1547
   - INS-260327-B7FC
   - INS-260323-FFAC
+  - INS-260327-E052
   - INS-260403-5BF9
 stance: >-
   Tudor went $40K+ in debt, was jailed twice, and lost years of shipments to

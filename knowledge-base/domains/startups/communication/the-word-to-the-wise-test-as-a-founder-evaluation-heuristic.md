@@ -49,9 +49,9 @@ related:
   - INS-260328-80E7
   - INS-260404-8890
   - PRI-260403-2E59
-  - INS-260405-54B8
   - INS-260403-EF30
   - PRI-260327-5635
+  - INS-260404-3C46
 ---
 The old adage 'a word to the wise is sufficient' maps directly to founder evaluation: give a resourceful founder a one-line intro to a VC and they'll come back with money, the only question being terms. This works because understanding all implications of what someone tells you is conversational resourcefulness, which is a subset of real-world resourcefulness.
 

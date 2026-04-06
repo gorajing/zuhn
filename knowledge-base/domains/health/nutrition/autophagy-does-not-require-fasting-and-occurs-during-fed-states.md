@@ -50,7 +50,7 @@ related:
   - INS-260327-E8D3
   - INS-260327-FC60
   - INS-260325-4E88
-  - INS-260327-0D7C
+  - INS-260330-3DC8
 ---
 The popular narrative that fasting is required for autophagy (cellular cleanup) is an oversimplification. The body continuously performs protein ubiquitination and recycling in both fed and fasted states. Glucose and trehalose (a sugar in plant foods) actually trigger autophagy pathways, contradicting the idea that only fasting activates cellular cleanup.
 

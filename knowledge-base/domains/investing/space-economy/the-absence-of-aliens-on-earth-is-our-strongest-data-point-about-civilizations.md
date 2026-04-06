@@ -50,10 +50,11 @@ stance: >-
   of any aggressively expansionist galactic-scale civilization.
 related:
   - INS-260325-415A
-  - INS-260325-7973
   - INS-260330-FFAB
   - PRI-260328-9FB6
   - INS-260325-02F2
+  - INS-260330-CF10
+  - INS-260330-1DCA
 evidence:
   - id: INS-260330-FFAB
     type: CHALLENGES

@@ -49,10 +49,9 @@ stance: >-
   expansion rates between ink particle surfaces and cores, not by vaporizing the
   ink.
 related:
-  - INS-260330-F76B
   - INS-260330-9733
-  - INS-260330-2A6A
   - INS-260330-EEF3
+  - INS-260330-2A6A
   - INS-260330-E3C0
   - INS-260330-BA54
   - INS-260330-E59F

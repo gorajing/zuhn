@@ -47,10 +47,10 @@ stance: >-
   than an adult's, with the backwards bicycle showing a 2-week vs 8-month
   learning curve for the same task
 related:
-  - INS-260330-4A6A
-  - INS-260330-0EF6
   - INS-260330-7B62
   - PRI-260405-6A4E
   - PRI-260403-35FE
+  - INS-260330-0930
+  - INS-260330-8134
 ---
 The backwards bicycle experiment provides a rare controlled comparison of adult vs child neural plasticity on the exact same novel motor task. Destin's son, who had been riding a normal bike for 3 years (over half his life), rewired his steering algorithm in approximately 2 weeks. Destin, with 25+ years of normal cycling encoded, required 8 months. This ~16x difference aligns with broader neuroscience research on critical periods and synaptic pruning — children's brains maintain more flexible neural connections that haven't yet been reinforced into rigid pathways. The implication extends to language acquisition, musical training, and any domain where early exposure dramatically outperforms adult learning. For adults, this suggests that truly novel skills requiring procedural rewiring demand patience measured in months, not weeks.

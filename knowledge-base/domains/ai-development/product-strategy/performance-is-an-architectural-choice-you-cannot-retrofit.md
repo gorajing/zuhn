@@ -56,7 +56,6 @@ related:
   - INS-260327-7E6F
   - INS-260323-FEDF
   - PRI-260328-EC3F
-  - INS-260402-F4E5
 evidence:
   - id: INS-260323-AB5F
     type: CHALLENGES

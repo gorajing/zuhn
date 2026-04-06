@@ -1,6 +1,6 @@
 # Topic: focus
 
-> 159 insights
+> 148 insights
 
 - `INS-260330-1B64` [high] Sitting quietly for 17 minutes focusing on breathing and internal body sensations significantly reduces attentional blinks in a near-permanent way after just one session.
 - `INS-260325-4A01` [high] Research shows 45% of daily behavior is habitual, meaning we are on autopilot nearly half the time.
@@ -11,7 +11,6 @@
 - `INS-260325-D9D8` [high] Overcome avoidance not by forcing action but by simply turning toward the dreaded task and acknowledging its existence in your life.
 - `INS-260325-B5EF` [high] Brain imaging shows behavioral addictions from tech activate the same areas as drug addictions.
 - `INS-260325-5977` [high] Media describes being alone as negative 10x more than positive — people who internalize this framing feel lonelier when alone, while those with positive beliefs about solitude actually benefit from it.
-- `INS-260325-6534` [high] People who believe being alone is positive feel good during alone time; those who believe it is negative feel lonelier — making belief the key variable, not the aloneness itself.
 - `INS-260327-B19E` [high] Boredom isn't absence of stimulation - it's a signal that your current activity doesn't match your creative capacity, pointing toward what you should be doing instead.
 - `INS-260325-71DE` [high] Your response to boredom predicts life outcomes: tolerating it builds deep focus while fleeing it creates stimulation dependency.
 - `INS-260327-6570` [high] Nothing feels fun because constant digital stimulation has elevated your dopamine baseline so high that normal activities can't produce enough relative increase to register as pleasure.
@@ -25,7 +24,6 @@
 - `INS-260325-0103` [high] Prestigious unsolved problems can destroy careers because the prestige masks the near-zero probability of progress.
 - `INS-260328-217C` [high] Deadline-free procrastination silently extends forever because the Panic Monster never wakes up, making it the primary source of long-term regret.
 - `INS-260330-4E50` [high] In ADHD, the default mode network and task-directed networks fire together instead of alternating, and dopamine acts as the conductor that should keep them anti-correlated.
-- `INS-260329-A218` [high] Deliberately exposing learners to common errors builds debugging intuition that error-avoidance pedagogy cannot produce.
 - `INS-260327-D10B` [high] Thoreau went to the woods to live deliberately - reducing life to its essentials revealed more depth than the complexity he left behind.
 - `INS-260325-B61B` [high] After solving a problem, the mathematician's reflex is to extract the general technique — the answer is a byproduct, the method is the prize.
 - `INS-260327-AAFA` [high] Every TikTok video, every scroll, every notification trains your brain to expect that level of stimulation as normal, progressively making books, conversations, and deep work feel intolerably boring.
@@ -51,7 +49,6 @@
 - `INS-260327-4739` [high] Meaningful work exists at the intersection of what you love, what you're good at, what the world needs, and what you can be paid for - missing any one creates imbalance.
 - `INS-260327-F0C0` [high] Every time you reach for your phone when bored, you're training your brain to require more stimulation to feel engaged, making meaningful deep work progressively harder.
 - `INS-260329-783C` [high] Ambitious people who can't stay consistent are misdiagnosing a frustration tolerance problem as a motivation problem.
-- `INS-260325-27B2` [high] When every single heuristic breaks at once, you need a new framework, not better heuristics.
 - `INS-260323-8266` [high] Working out hard enough that you cannot simultaneously worry is a form of active meditation that forces a high-vibrational present state.
 - `INS-260330-0149` [high] Casino-style intermittent reward scheduling applied to personal activities prevents dopamine baseline erosion and sustains long-term motivation.
 - `INS-260403-7ED5` [high] Unlike watching TV on a couch, browsing the internet at your desk looks and feels like work, which delays recognition of the problem.
@@ -65,7 +62,6 @@
 - `INS-260327-4279` [high] Playing music activates more simultaneous brain systems than any other voluntary activity, making it the most complete neural workout available.
 - `INS-260323-F9FD` [high] Adams lost the 1980 Olympic final after cutting weight poorly with bad nutrition — a fundamental failure that mattered more than the opponent's skill at the highest competitive level.
 - `INS-260325-5C03` [high] The resilience paradox: we can identify many factors correlated with resilience, but none strongly predict who will be resilient next time, because the meta-skill is flexibly matching strategy to situation.
-- `INS-260325-75C5` [high] Individual resilience factors like optimism or problem-solving have only small predictive effects because situations vary so much — the real predictor is adaptive flexibility across strategies.
 - `INS-260325-77B1` [high] Deadline-based procrastination is contained and often survivable; non-deadline procrastination on life goals extends indefinitely and causes deep regret.
 - `INS-260323-7CA7` [high] Kaplan's 6,000+ hours of EverQuest — which looked like addiction and time-wasting — became the foundation for designing World of Warcraft and Overwatch; deep immersion in something you love creates expertise that formal training cannot replicate.
 - `INS-260327-3A15` [high] Once you stop caring about the specific outcome, your natural competence operates without the interference of performance anxiety, and results come more easily.
@@ -101,18 +97,15 @@
 - `INS-260403-DDEB` [high] Flow triggers most reliably when challenge slightly exceeds skill — stretch but don't snap.
 - `INS-260329-A077` [high] Most learning dropouts happen before reaching the critical mass of knowledge where effort starts feeling worthwhile.
 - `INS-260328-3FCE` [high] The Dark Playground — leisure during times meant for work — fills the air with guilt and anxiety, making the fun not actually fun.
-- `INS-260325-0A49` [high] The Dark Playground is where procrastinators spend time on leisure activities that bring no real enjoyment because they're unearned.
 - `INS-260325-1AD3` [high] We suffer doubly from problems: once from the problem itself, and again from indignation that problems should even exist in our lives.
 - `INS-260325-D5C6` [high] Mindfulness is not always helpful, emotional suppression is not always harmful — every strategy's effectiveness depends on the specific situation, which Bonanno calls the fallacy of uniform efficacy.
 - `INS-260325-3E86` [high] The flexibility sequence is: 1) narrow the problem to what is bothering you right now, 2) choose a strategy from your toolbox, 3) check if it is working and iterate if not.
-- `INS-260325-2052` [high] Stop and ask 'what is the specific problem right now?', choose one strategy from your toolbox, monitor if it works, and try something else if it doesn't — this iterative loop is the core of resilience.
 - `INS-260329-FC75` [high] CS50 explicitly frames the struggle of debugging and hitting walls as the core learning experience, not a bug in the pedagogy.
 - `INS-260325-EF66` [high] Procrastination stems from the Instant Gratification Monkey overriding the Rational Decision-Maker, not from character failure.
 - `INS-260323-2394` [high] Einstein would whistle and breakthroughs came — Frenkel argues that you must prepare intensely, but the actual moment of discovery requires releasing the thinking mind.
 - `INS-260325-D797` [high] The Panic Monster — triggered by looming deadlines or public embarrassment — is the only thing that reliably scares the Instant Gratification Monkey into submission.
 - `INS-260327-BE49` [high] The more boring you are - consistent routines, repeated practice, unglamorous persistence - the more impressive you become over time.
 - `INS-260325-4CF9` [high] The brain's wanting system is diffuse and insatiable; the liking system is small and satiable. Tech exploits the wanting system.
-- `INS-260325-7417` [high] The brain's wanting circuit is easy to trigger but impossible to satisfy, creating the hedonic treadmill that technology exploits for engagement.
 - `INS-260323-334D` [high] Nicky Ryan visualizes obsessively for weeks, Nicky Rod duplicates exact warm-up routines until competition feels like 'another Tuesday,' and Craig Jones blocks it all out until the last second — all three compete at the world level.
 - `INS-260323-D7D0` [high] The best thing about getting older is learning to trust the body's signals instead of using the analytical forebrain to override them — every time Huberman overrode his gut, he regretted it.
 - `INS-260329-8986` [high] CS50's enrollment data proves that perceived prerequisites are the real gatekeepers, not actual skill requirements.
@@ -137,8 +130,6 @@
 - `INS-260329-812E` [medium] Incoming messages feel obligatory but are actually requests — recognizing this eliminates the guilt of not replying.
 - `INS-260328-FE38` [medium] There are no non-procrastinators — only people whose most important tasks happen to come with deadlines that activate the Panic Monster.
 - `INS-260323-97DB` [medium] Adams never thought losing was possible — he entered every contest expecting to win, which meant his only losses were Olympic and World Championship finals on split decisions.
-- `INS-260329-50C0` [medium] 24 short chapters across 13 hours creates frequent completion signals that sustain momentum through long learning journeys.
-- `INS-260329-1B2A` [medium] Identity attachment to activities causes irrational over-investment by bypassing cost-benefit analysis.
 - `INS-260403-6CE8` [medium] We'll increasingly be defined by what we say no to, as the default environment becomes saturated with compelling distractions.
 - `INS-260322-71E4` [medium] Your total capacity to focus resets each day; every input (email, podcast, notification) you let in takes permanent space until the next reset — so guard it aggressively.
 - `INS-260405-18F3` [medium] Using breath, body, and sound as interchangeable anchors creates a fault-tolerant attention architecture rather than a single point of failure.
@@ -149,11 +140,9 @@
 - `INS-260403-50F1` [medium] Physical separation of work and internet computers forces conscious awareness of distraction that software tools cannot replicate.
 - `INS-260329-72AC` [medium] Computers demand a precision of thought that exposes logical gaps humans normally gloss over in natural language.
 - `INS-260325-AEF5` [medium] Asking yourself 'What is happening now? What do I need to do? What tools do I have?' converts the flexibility sequence from abstract framework into real-time cognitive tool.
-- `INS-260325-2944` [medium] Shifting self-talk from statements ('I'll be fine') to questions ('What's happening now? What tools do I have?') activates problem-solving rather than just emotional comfort.
 - `INS-260330-4285` [medium] Goggins manages ADHD through absolute compartmentalization — each activity gets total focus with zero mental bleed between domains.
 - `INS-260325-B4D1` [medium] Tech-free families report their children find genuine friends faster, build richer real-world social lives, and show better mental health — the exit is additive, not subtractive.
 - `INS-260325-9B9A` [medium] Heavy screen use does not just exploit weak impulse control — it actively stunts the brain's ability to develop that control, creating a vicious cycle.
-- `INS-260329-19EE` [medium] Events, masterminds, and networking carry enormous hidden costs beyond their time slots — they fragment focus and create ongoing obligations.
 - `INS-260329-3FED` [medium] Your biggest monthly expense isn't rent — it's the income gap caused by not knowing how to earn more, making ignorance debt the most expensive debt to carry.
 - `INS-260323-2B53` [medium] Neil Adams describes his desire to win as something 'as much a part of me as my arms and legs' — deeply rooted rather than learned, persisting from childhood competitions through to casual games of pool decades after retirement.
 - `INS-260325-C884` [medium] A Life Calendar — one box per week of a 90-year life — makes finite time concrete enough to function as an artificial Panic Monster for non-deadline goals.

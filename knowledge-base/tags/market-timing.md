@@ -5,7 +5,6 @@
 - `INS-260328-C12D` Enterprise AI buying is real and fast, but predicting which products will endure is like picking winners in early mobile — nobody knows yet.
 - `INS-260403-535C` Simultaneous supply aging and demand shifting creates opportunities that favor operationally heavy startups over pure software.
 - `INS-260330-930D` Apple's dismissal of India as low-revenue ignores that competitors are building ecosystem lock-in with hundreds of millions of users who will be difficult to convert later.
-- `INS-260402-580C` Restriction breeds innovation at the edges of incumbent-dominated industries, gradually migrating inward.
 - `INS-260330-ADB7` Gallium nitride was declared a 'dead end' by RCA in 1972 and by Nichia's biggest customer in 1990, yet became an $80 billion industry by 2024.
 - `INS-260403-2DE3` Market timing — arriving too early for insufficient demand or too late against entrenched competitors — is an independent variable that product and business model excellence cannot compensate for.
 - `INS-260403-93A5` Historical technology windows show the viable launch period for category-defining products is extremely compressed — 11 months for social networks, 30 months for mobile social.

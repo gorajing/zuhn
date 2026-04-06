@@ -46,6 +46,7 @@ stance: >-
   popular regardless of its intrinsic quality
 related:
   - INS-260323-F204
+  - INS-260321-2241
   - INS-260321-1A0B
   - INS-260403-0372
   - INS-260402-72EF

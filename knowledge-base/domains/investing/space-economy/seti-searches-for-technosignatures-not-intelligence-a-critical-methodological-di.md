@@ -53,11 +53,11 @@ stance: >-
   detectable technology, since we cannot define or detect intelligence at a
   distance but can potentially detect engineered electromagnetic signals.
 related:
-  - INS-260325-69CF
   - INS-260325-2C31
   - INS-260330-C8ED
   - INS-260403-C49F
   - INS-260322-E734
+  - INS-260329-FCD3
   - INS-260330-E4AD
 evidence:
   - id: INS-260325-2C31

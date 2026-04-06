@@ -1,13 +1,10 @@
 # Topic: scaling
 
-> 141 insights
+> 129 insights
 
 - `INS-260329-CF70` [high] One A+ hire at 170K outperforms five B-players at 100K each in knowledge work.
-- `INS-260404-0FE4` [high] Costco pays $21/hr (double the retail average) and gets employees three times more productive, plus better health insurance reduces turnover costs.
-- `INS-260403-365D` [high] Costco pays $21/hour (double the retail average) and gets employees three times more productive, making the higher wage a net positive investment.
 - `INS-260327-3930` [high] Nikesh Arora's key M&A principle: acquired founders become the bosses of existing Palo Alto teams, because if incumbents were capable enough, they wouldn't have needed the acquisition.
 - `INS-260403-DD41` [high] YC broke at 80 startups because partner-startup relationships were O(n²) — sharding into dedicated groups fixed it instantly.
-- `INS-260327-BA93` [high] AI-native founders grow 20% faster while wanting to raise $250K less—the venture equation is shifting.
 - `INS-260327-968C` [high] Block's AI transformation began with the CTO writing a manifesto email to Jack Dorsey, then both spending two days aligning on centralized AI investment before restructuring the entire organization.
 - `INS-260403-B387` [high] AI vertical companies should size their market against total labor cost in the vertical, not existing software spend — a 10x larger opportunity.
 - `INS-260329-903B` [high] AWS GovCloud and compliance programs let startups inherit compliance certifications instead of building them from scratch, opening regulated markets like government and healthcare.
@@ -19,7 +16,6 @@
 - `INS-260327-9192` [high] When Arora's engineering team proposed 60 engineers and 9 months to match a browser startup, he asked: do you expect them to just hang out and wait for you to catch up?
 - `INS-260327-390A` [high] Bill Anderson argues that bureaucracy isn't a disease you treat — it's produced by the composition of the organization itself, specifically layers, functional silos, and annual budgets.
 - `INS-260330-EA23` [high] Domino's centralized all ingredient preparation into hub facilities, enabling individual stores to be much smaller and cheaper while maintaining consistent quality across thousands of locations.
-- `INS-260330-44BC` [high] Justinian's legal codification shows that systematizing knowledge into accessible formats is the most durable form of institutional output — it outlasted the empire by centuries.
 - `INS-260330-3585` [high] Productivity falls with the square of employees unless you actively build alignment through repeated roadmap communication, offsites, and quarterly planning.
 - `INS-260330-EB1B` [high] Early organisms compensated for RuBisCo's poor performance by producing enormous quantities of it — a strategy that dominated Earth but left no room for optimization.
 - `INS-260330-47CF` [high] Plants spend enormous metabolic energy producing enzymes to break down RuBisCo's toxic byproduct rather than fixing the enzyme itself — the biological equivalent of compounding technical debt.
@@ -29,7 +25,6 @@
 - `INS-260323-9A93` [high] Only hire when you physically cannot meet demand, and hire people who do multiple people's worth of work.
 - `INS-260330-0E4B` [high] At scale, force daily multi-hour cross-functional calls where every discipline shares trade-offs and hears how their decisions affect others.
 - `INS-260329-97C1` [high] Ramsey Solutions' diverse product mix (radio, books, courses, coaching, app, endorsements) prevented stair-step growth by having different products peak at different times.
-- `INS-260327-FA62` [high] Knowing what 'good' looks like in a profession is more important than ML expertise when building AI products for that profession.
 - `INS-260327-1EC4` [high] Anderson's first piece of advice to scaling founders: don't hire professional managers, because they will implement the bureaucratic systems they were trained in.
 - `INS-260330-72BD` [high] The Mongol Empire splintered into four separate khanates after Genghis Khan's death because conquest outpaced institutional development.
 - `INS-260330-912C` [high] Rome successfully absorbed conquered peoples for centuries by making them Romans, but collapsed when expansion outpaced cultural integration.
@@ -37,7 +32,6 @@
 - `INS-260327-0D0B` [high] Plan for your company to break at every headcount doubling—the breakage is a feature, not a bug.
 - `INS-260403-D704` [high] McDonald's demands more from franchisees than competitors — approved suppliers, Hamburger University training, rigid operating standards — yet attracts $1-2M investments because the constraints signal safety.
 - `INS-260329-A57B` [high] Each additional nine of availability cuts allowed downtime by 10x but costs roughly 10x more to achieve — most startups should target three nines, not five.
-- `INS-260330-5FED` [high] Flat structure works until it suddenly doesn't — the failure mode is a cliff, not a slope.
 - `INS-260330-488B` [high] Flat structure works perfectly until ~25 employees, then fails completely overnight with no gradual degradation.
 - `INS-260330-50A4` [high] Flat org structures work perfectly until ~20 employees then fail all at once around 25-30, requiring proactive structure before the crisis.
 - `INS-260330-E99F` [high] Force daily cross-functional calls where every discipline presents constraints together, because trade-offs in one area systematically affect others in ways that organic communication misses.
@@ -62,7 +56,6 @@
 - `INS-260329-4223` [high] Moving up the leverage hierarchy from labor to code/content multiplies output per unit of input exponentially.
 - `INS-260330-2737` [high] Paul's Roman citizenship gave him free travel throughout the empire, allowing him to use Rome's own road network and legal protections to spread a message that would eventually undermine Roman religious authority.
 - `INS-260329-BB8F` [high] When the market wants a suite, building only the best single tool creates a ceiling — you must decide whether to bundle or accept a limited outcome.
-- `INS-260330-E4DB` [high] Rome's reliance on Germanic mercenaries loyal only to gold — not to Rome itself — directly caused the civil wars that destroyed the Western Empire.
 - `INS-260404-D1F6` [high] The Calvin Cycle produces 6 G3P molecules but only 1 exits — 83% is reinvested to keep the cycle running.
 - `INS-260403-DC6E` [high] Once a token economy launches on-chain, rebalancing becomes nearly impossible compared to server-side economies, making upfront design discipline critical.
 - `INS-260330-C658` [high] Focus only on reaching the next 10x milestone — at 10 users plan for 100, at 100 plan for 1000 — because necessity at breaking points forces better solutions than premature planning.
@@ -75,7 +68,6 @@
 - `INS-260330-F3E4` [high] Harry Sonneborn's franchise realty strategy gave McDonald's control over operators, a new 8.5% revenue stream, and balance sheet assets for bank financing — all from one move.
 - `INS-260404-F69A` [high] The Calvin Cycle produces 6 G3P molecules but must recycle 5 to regenerate its starting materials, yielding only 1 net output per full cycle.
 - `INS-260403-AEBD` [high] Restructuring resource assignments can create room for growth without acquiring new resources.
-- `INS-260404-2839` [high] The retail apocalypse killed Sears, Toys-R-Us, and RadioShack not because physical retail is dead, but because these specific companies failed to adapt while competitors like Costco and Aldi thrived.
 - `INS-260329-1962` [high] Market position follows power laws, not linear distribution — being 7th doesn't mean 1/7th the revenue, it means approaching zero.
 - `INS-260327-A927` [high] Nvidia feels like working for multiple startups — each division has its own survival pressure, P&L accountability, and startup mentality.
 - `INS-260329-22A8` [high] One product, one avatar, one channel to $1M; add second product at $10M; add second channel after that.
@@ -104,9 +96,6 @@
 - `INS-260330-E585` [high] The Articles of Confederation collapsed primarily because Congress could not collect taxes, proving that authority without enforcement mechanisms is meaningless.
 - `INS-260403-E1EB` [high] Zillow's iBuying shutdown shows that marketplace DNA (software-first) clashes fatally with fintech DNA (financial operations and risk management).
 - `INS-260327-41A9` [medium] Junior engineering jobs aren't coming back—three forces converged to eliminate them permanently.
-- `INS-260404-ABB1` [medium] Costco's $21/hour average wage (double the retail average) produces 3x more productive employees, making generosity operationally rational.
-- `INS-260404-6A20` [medium] Costco pays $21/hr (2x retail average) and gets 3x more productive employees, making high wages an investment with positive ROI.
-- `INS-260403-43E5` [medium] Costco pays $21/hour (2x retail average) and gets 3x employee productivity, making generous wages a competitive advantage.
 - `INS-260403-8A80` [medium] Costco pays $21/hour (2x retail average) and gets 3x the productivity per employee.
 - `INS-260403-F745` [medium] The 5.8M SMB market requires uniqueness at scale — each business has specific needs — which AI agents can deliver but traditional SaaS never could.
 - `INS-260403-4E23` [medium] A founder measured his team's output before and after acquisition by a competent big company and found a 13x productivity decline from organizational overhead alone.
@@ -130,7 +119,6 @@
 - `INS-260329-9A8B` [medium] Hormozi's bankruptcy-to-seven-figures turnaround came from doing fewer things with more intensity, not from finding a new business model.
 - `INS-260404-B1BC` [medium] Playing both the execution and experimentation games in parallel is the core organizational challenge for established companies seeking growth.
 - `INS-260404-AD2B` [medium] Larger organizations face exponentially higher stakes that demand more rigorous compliance, which creates proportionally greater friction for innovation teams.
-- `INS-260404-EE20` [medium] Costco pays $21/hour (2x retail average) and gets 3x productivity, proving high wages can be the economically rational choice.
 - `INS-260330-8C52` [medium] The Calvin Cycle produces 6 G3P molecules but must reinvest 5 to regenerate its starting materials — only 1 in 6 (17%) is net output, yet this sustains all plant life on Earth.
 - `INS-260330-4830` [medium] When repatriation taxes trap offshore profits, companies resort to borrowing domestically against foreign assets rather than deploying capital optimally.
 - `INS-260330-DE65` [medium] Labs forced to monetize their research (like OpenAI) consistently out-commercialize well-funded labs (like Google Brain/DeepMind) because financial pressure drives product focus.

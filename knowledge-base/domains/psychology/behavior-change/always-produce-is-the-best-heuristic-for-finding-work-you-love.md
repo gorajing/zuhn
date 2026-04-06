@@ -49,10 +49,10 @@ stance: >-
   with reality and exposes self-deception.
 related:
   - INS-260403-E365
-  - INS-260404-BB34
   - INS-260403-449A
-  - INS-260329-640C
   - INS-260403-2B63
+  - INS-260403-B9E5
+  - INS-260330-85E1
 evidence:
   - id: INS-260403-E365
     type: CONTRADICTS

@@ -53,15 +53,11 @@ stance: >-
   cannot avoid the sunk-cost calculation on every purchase decision.
 related:
   - INS-260323-4AB5
-  - INS-260403-546E
   - INS-260404-A938
-  - INS-260404-2D53
   - INS-260404-ED19
   - INS-260404-94BB
-  - INS-260403-543E
-  - INS-260404-B46E
-  - INS-260404-3D8F
-  - INS-260404-5D39
+  - PRI-260405-548B
+  - INS-260404-13F1
 evidence:
   - id: INS-260323-4AB5
     type: CHALLENGES

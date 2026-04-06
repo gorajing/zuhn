@@ -48,10 +48,10 @@ stance: >-
   NULL-insert-then-update patterns that reveal hidden coupling costs invisible
   during schema design
 related:
-  - INS-260329-36DA
   - INS-260329-67CB
   - INS-260329-8233
   - INS-260329-34EE
   - INS-260329-2FB8
+  - INS-260329-CF16
 ---
 When two tables reference each other via foreign keys (e.g., Employee.branch_id → Branch and Branch.mgr_id → Employee), you cannot insert into either table first because the referenced row doesn't exist yet. The solution is a three-step dance: insert the employee with a NULL branch_id, insert the branch referencing that employee's ID as manager, then UPDATE the employee's branch_id. This pattern reveals a fundamental tension in relational design — the schema looks clean on paper but creates operational complexity at write time. This is directly analogous to circular dependencies in code modules: the dependency graph looks reasonable but creates initialization ordering problems. When designing database schemas or system architectures, bidirectional references should be treated as a code smell that warrants scrutiny, not just accepted as natural modeling.

@@ -47,11 +47,11 @@ stance: >-
   millions of views over years because the beginner audience perpetually renews
   while the content remains relevant
 related:
-  - INS-260329-4CFD
   - INS-260329-69F0
+  - INS-260329-4CFD
   - INS-260329-3332
-  - INS-260329-AD3E
   - INS-260330-9346
+  - INS-260327-3A71
 evidence:
   - id: INS-260329-AD3E
     type: SUPPORTS

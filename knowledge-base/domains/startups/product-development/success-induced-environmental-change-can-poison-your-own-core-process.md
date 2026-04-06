@@ -50,7 +50,6 @@ stance: >-
   design never anticipated
 related:
   - INS-260330-E218
-  - INS-260330-2CFA
   - INS-260330-F5CF
   - INS-260403-53C9
   - INS-260405-02EE

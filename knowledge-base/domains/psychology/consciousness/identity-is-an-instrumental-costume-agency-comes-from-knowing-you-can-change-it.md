@@ -52,7 +52,7 @@ related:
   - INS-260329-28A6
   - PRI-260328-BF1E
   - PRI-260323-F92B
-  - INS-260404-8F62
+  - INS-260330-A075
 stance: >-
   At the self-authoring stage of development, you realize your values and
   identity are not terminal but instrumental

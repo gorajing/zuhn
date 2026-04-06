@@ -1,6 +1,5 @@
 # Tag: team-dynamics
 
-- `INS-260403-97D6` Psychological safety is prerequisite infrastructure for innovation — without it, process investments are wasted.
 - `INS-260326-2E56` When a team's culture prioritizes niceness over candor, the loudest and most aggressive person rises while everyone else retreats into passive-aggressive behavior.
 - `INS-260327-3C96` You need to know whether you can work with people in extremely stressful situations — skills matter less than stress compatibility.
 - `INS-260404-DF8E` Startups stress-test co-founder relationships like a dog with a sock — if it can be pulled apart, it will be.

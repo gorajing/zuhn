@@ -50,11 +50,11 @@ resolutions:
     know what they want — and that requires philosophy, reading, experience, and
     sustained reflection on what matters.
 related:
-  - INS-260325-23BA
   - INS-260322-96D1
   - PRI-260328-81F5
   - INS-260327-DC4C
   - INS-260323-1345
+  - INS-260405-2BB0
   - INS-260325-BE19
   - INS-260405-8166
 stance: >-

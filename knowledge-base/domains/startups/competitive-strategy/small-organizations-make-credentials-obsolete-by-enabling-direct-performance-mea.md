@@ -49,12 +49,12 @@ stance: >-
   market selection directly measures performance, making prediction-based
   credentials unnecessary.
 related:
-  - INS-260325-C29B
   - INS-260327-8B1A
   - INS-260402-7182
   - PRI-260323-9D46
   - PRI-260403-5DEA
-  - PRI-260403-E023
+  - INS-260325-C29B
+  - PRI-260405-BFAC
 evidence:
   - id: INS-260327-8B1A
     type: TRANSFERS_TO

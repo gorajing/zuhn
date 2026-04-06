@@ -48,10 +48,10 @@ stance: >-
   micromanagement founders despise.
 related:
   - INS-260323-A2E5
+  - PRI-260405-ED62
   - PRI-260323-6A93
   - INS-260323-C370
   - PRI-260323-977A
-  - INS-260327-7E3D
 evidence:
   - id: INS-260323-C370
     type: EXTENDS

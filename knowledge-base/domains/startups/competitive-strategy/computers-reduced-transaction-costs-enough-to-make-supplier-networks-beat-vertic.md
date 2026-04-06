@@ -51,11 +51,10 @@ stance: >-
   identified as the reason corporations exist
 related:
   - INS-260330-0525
-  - INS-260330-AE4B
   - INS-260330-7D6D
   - PRI-260328-DF2D
   - INS-260403-E3CC
-  - INS-260404-83D5
+  - INS-260327-4440
 ---
 Henry Ford's River Rouge plant — 100,000 workers turning iron ore into cars under one roof — represented peak vertical integration. Graham argues this model dominated not because it was inherently superior but because coordinating external suppliers was prohibitively expensive without computers. As computing power spread, the transaction costs that Ronald Coase identified as the fundamental reason corporations exist dropped dramatically.
 

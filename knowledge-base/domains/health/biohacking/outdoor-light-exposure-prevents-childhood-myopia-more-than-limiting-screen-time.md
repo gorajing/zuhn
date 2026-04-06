@@ -59,6 +59,7 @@ related:
   - INS-260330-4A7F
   - PRI-260328-B115
   - INS-260330-54A3
+  - INS-260330-38DA
 ---
 For decades, the dominant clinical narrative blamed near-work (reading, screens) for childhood myopia progression. Recent well-designed cohort studies and the first randomized controlled trials have shifted this understanding: the critical variable appears to be time spent outdoors in full-spectrum sunlight, not merely the avoidance of close-up activities.
 

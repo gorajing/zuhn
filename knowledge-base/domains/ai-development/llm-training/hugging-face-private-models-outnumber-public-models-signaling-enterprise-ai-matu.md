@@ -52,15 +52,15 @@ stance: >-
   experimentation — is now mainstream.
 related:
   - INS-260323-01F9
+  - INS-260325-DAD7
   - INS-260325-3CE2
   - INS-260325-522A
   - INS-260327-7299
   - INS-260325-FADB
-  - PRI-260403-5DEA
+  - PRI-260405-BFAC
   - INS-260327-B561
   - INS-260327-E07C
   - INS-260403-EA93
-  - INS-260403-F4C7
 evidence:
   - id: INS-260325-3CE2
     type: CHALLENGES

@@ -48,7 +48,7 @@ related:
   - INS-260330-D460
   - PRI-260322-8FD4
   - INS-260330-C825
-  - INS-260404-B350
+  - INS-260404-96E6
   - INS-260402-3196
 ---
 India requires 30% local sourcing for foreign single-brand retailers to open stores — a rule Apple couldn't meet without local manufacturing. This forced Apple to sell through third-party retailers who also carry competitors, eliminating the controlled retail experience that drives conversions in other markets. The insight is that regulatory barriers in emerging markets don't just add cost — they remove strategic capabilities. Apple couldn't control its retail experience, couldn't demonstrate ecosystem value, and couldn't build brand affinity through stores. Each missing capability made the others less effective. For any company entering regulated emerging markets, the lesson is to solve manufacturing/sourcing constraints first, because they cascade into distribution, branding, and customer experience disadvantages.

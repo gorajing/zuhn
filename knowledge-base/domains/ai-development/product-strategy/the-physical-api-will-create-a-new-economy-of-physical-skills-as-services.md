@@ -49,6 +49,7 @@ stance: >-
   skill economy where human expertise (like Michelin-star cooking) can be
   encoded and delivered as a robotic service.
 related:
+  - INS-260323-05B5
   - INS-260321-2BF9
   - INS-260322-B33E
   - INS-260323-7A50
@@ -58,7 +59,6 @@ related:
   - PRI-260328-7007
   - INS-260327-1652
   - INS-260327-BEFF
-  - INS-260329-4751
 evidence:
   - id: INS-260323-DDC2
     type: EXTENDS

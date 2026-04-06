@@ -49,15 +49,14 @@ stance: >-
   beliefs about being alone, which are heavily shaped by media narratives that
   are 10x more likely to frame aloneness as harmful.
 related:
-  - INS-260325-6534
   - PRI-260328-8815
   - INS-260327-B767
   - INS-260325-05E4
   - INS-260325-765F
+  - INS-260330-9351
   - INS-260327-7711
   - INS-260330-3888
   - INS-260330-D812
-  - INS-260330-9351
   - INS-260403-28C7
 evidence:
   - id: INS-260325-11E9

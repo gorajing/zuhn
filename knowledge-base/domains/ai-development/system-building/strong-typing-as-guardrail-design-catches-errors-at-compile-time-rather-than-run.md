@@ -51,7 +51,6 @@ stance: >-
   catches entire categories of bugs before code ever runs — a design philosophy
   applicable to any system that validates inputs
 related:
-  - INS-260325-27B2
   - INS-260323-19A8
   - INS-260325-5023
   - PRI-260403-5B3D

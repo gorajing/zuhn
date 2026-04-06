@@ -45,11 +45,11 @@ stance: >-
   small businesses with seller financing rather than investing in stocks, real
   estate, or startups.
 related:
-  - INS-260329-AADB
   - INS-260330-809A
   - INS-260403-1AE5
   - INS-260403-8C56
   - INS-260403-9106
+  - INS-260402-8424
   - INS-260403-0FEC
 evidence:
   - id: INS-260330-809A

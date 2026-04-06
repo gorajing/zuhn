@@ -56,11 +56,11 @@ stance: >-
   digital workflow, because the physical version has near-zero marginal cost to
   the user.
 related:
-  - INS-260330-1B47
   - INS-260329-CA4F
   - INS-260327-368D
   - INS-260323-23B9
   - INS-260403-268C
+  - INS-260405-69F1
 evidence:
   - id: INS-260327-368D
     type: CHALLENGES

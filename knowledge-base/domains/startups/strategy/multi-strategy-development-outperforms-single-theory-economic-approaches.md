@@ -54,13 +54,12 @@ stance: >-
   foreign investment — outperform those betting on a single silver-bullet theory
   of growth.
 related:
-  - INS-260330-6689
   - INS-260330-73C1
-  - INS-260330-CC0F
   - INS-260323-822B
   - INS-260404-C92A
   - PRI-260322-9E36
   - INS-260323-3D7D
+  - PRI-260323-0F93
 evidence:
   - id: INS-260323-822B
     type: SUPPORTS

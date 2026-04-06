@@ -50,10 +50,10 @@ resolutions:
     additive advantage — competitors have to match all three simultaneously.
 related:
   - INS-260322-0247
-  - INS-260405-F99E
+  - PRI-260405-6216
   - INS-260330-7ED0
-  - INS-260328-AA1F
   - INS-260330-06CD
+  - INS-260328-4EA0
 stance: >-
   Robinhood succeeded by combining three bets that were each individually
   contrarian (zero commissions, mobile-first, populist brand) into a single o...

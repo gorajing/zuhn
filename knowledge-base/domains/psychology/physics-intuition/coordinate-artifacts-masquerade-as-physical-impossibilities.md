@@ -50,7 +50,6 @@ stance: >-
   of chosen representation than real physical barriers, and mistaking one for
   the other can block scientific progress for decades.
 related:
-  - INS-260323-0E33
   - INS-260330-8625
   - INS-260330-D17A
   - INS-260330-7EFD

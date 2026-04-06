@@ -15,7 +15,6 @@
 - `INS-260329-3036` Hormozi claims every wealthy person he knows started with years of high-volume sales conversations with strangers — it's the universal entrepreneurial apprenticeship.
 - `INS-260329-D1A1` Custom-researched outreach to multiple stakeholders per target company signals the hustle that generic mass applications cannot.
 - `INS-260330-178D` Treat 'I'd buy if you built X' as a soft rejection — either get them to sign a contract contingent on the feature, or wait until multiple customers request it.
-- `INS-260330-C5FD` Prospects who condition purchase on one more feature rarely convert even after you build it — either get a signed agreement contingent on the feature or wait for multiple customers to request it.
 - `INS-260330-2BEC` Founders should aggressively drive prospects to yes or no, because a thousand maybes consume all resources while producing zero revenue.
 - `INS-260329-3D14` Treating negotiation as mutual value discovery rather than extraction creates better deals and preserves relationships.
 - `INS-260329-E598` Address prospect concerns as obstacles before soliciting the sale — the same concern becomes exponentially harder to resolve once it becomes a post-price objection.

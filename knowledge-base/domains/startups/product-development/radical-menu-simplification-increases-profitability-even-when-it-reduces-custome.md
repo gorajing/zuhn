@@ -50,6 +50,7 @@ stance: >-
   Drastically cutting menu options to only the highest-volume items increases
   profitability and operational speed without reducing total sales volume
 related:
+  - INS-260324-D612
   - INS-260325-4CBB
   - INS-260324-D90C
   - INS-260330-637F

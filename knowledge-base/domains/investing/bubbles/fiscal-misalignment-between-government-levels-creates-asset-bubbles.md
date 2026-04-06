@@ -50,7 +50,6 @@ stance: >-
   creating systemic bubble risk.
 related:
   - INS-260322-5F87
-  - INS-260330-A98B
   - INS-260403-A115
   - INS-260327-1ACE
   - INS-260327-AC1B

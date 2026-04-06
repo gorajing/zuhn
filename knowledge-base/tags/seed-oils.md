@@ -2,7 +2,6 @@
 
 - `INS-260327-E5BC` Age spots are lipofuscin accumulation from oxidative damage not inevitable aging
 - `INS-260327-1C50` American health is declining because of simultaneous increases in processed food, seed oils, and screen time
-- `INS-260327-244B` Arthritis inflammation is driven by specific foods including seed oils, gluten, sugar, and nightshades
 - `INS-260327-4D54` Chick-fil-A chicken contains seed oils MSG and TBHQ despite simple chicken marketing
 - `INS-260327-F06B` Chronic disease reversal is achievable by eliminating seed oils (mitochondrial damage) and refined sugar (gut dysbiosis) while eating single-ingredient whole foods -- meat, fruit, and vegetables.
 - `INS-260327-AB93` Without seed oils competing for conversion enzymes, the body converts ALA from tallow and animal fat into adequate EPA, DPA, and DHA -- Saladino's blood work confirms excellent omega-3 status eating no fish.
@@ -21,7 +20,5 @@
 - `INS-260327-FF4A` Linoleic acid from seed oils accumulates in mitochondrial membranes, causing proton leak across the electron transport chain and reducing ATP production -- the molecular root of metabolic dysfunction.
 - `INS-260327-5961` Seed oils persist in the food supply because they are cheap preservatives that likely undermine satiety, benefiting food manufacturers at the expense of consumer health.
 - `INS-260327-2EF6` Tallow and butter are the safest cooking fats (high smoke point, low PUFA, resistant to oxidation), olive oil works for low-medium heat, and all seed oils should be eliminated.
-- `INS-260325-EDE1` Saladino raised testosterone from 500 to 857 at age 48 through 5 natural interventions — no TRT needed.
 - `INS-260327-1AEC` The most common health questions center on seed oils, testosterone, sleep, and supplement confusion
 - `INS-260327-F50F` The three biggest health realizations are seed oil harm, carbohydrate necessity, and organ meat value
-- `INS-260325-8FEF` Junk food danger is the starch-seed oil-sugar triad heated together, not any single ingredient.

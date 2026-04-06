@@ -52,6 +52,5 @@ related:
   - PRI-260328-AF97
   - INS-260325-81BD
   - INS-260330-D7DF
-  - INS-260330-C2C5
 ---
 Cancer is heterogeneous (many types) but most share a metabolic vulnerability: dependence on glucose via the Warburg effect. Unlike normal cells, cancer cells have damaged mitochondria and cannot efficiently use ketones or fatty acids for fuel. A ketogenic diet with intermittent fasting lowers blood glucose and insulin (a growth factor for cancer), raises ketones (which healthy cells can use but cancer cells cannot), and activates autophagy (cellular cleanup of damaged components). This is metabolic therapy, not a cure — but it creates an environment that is hostile to tumor growth. Cruciferous vegetables provide sulforaphane with documented anti-cancer properties.

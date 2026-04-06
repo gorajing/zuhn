@@ -53,11 +53,13 @@ stance: >-
   expiration dates, the rational strategy is to build cheaply and rebuild often
   — creating national-scale planned obsolescence.
 related:
+  - INS-260324-748A
   - INS-260323-BD2B
   - INS-260327-DF2F
   - INS-260403-A115
   - PRI-260328-EAC4
-  - INS-260330-A98B
+  - INS-260330-16F7
+  - INS-260330-9DCD
 evidence:
   - id: INS-260324-748A
     type: TRANSFERS_TO

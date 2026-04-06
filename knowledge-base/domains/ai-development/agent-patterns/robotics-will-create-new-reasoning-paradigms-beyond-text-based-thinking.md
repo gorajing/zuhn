@@ -51,10 +51,10 @@ stance: >-
   rather than text.
 related:
   - INS-260322-32E3
-  - INS-260325-20C4
   - INS-260323-F0A2
   - INS-260330-0C0C
   - INS-260322-B33E
+  - PRI-260328-9F8C
 ---
 Physical Intelligence's founders argue that while current robotics models already do short-horizon planning (50 timesteps, about 1-2 seconds) and task decomposition in language space, physical reasoning is fundamentally different from math or coding reasoning. When learning tennis, you don't think in text about grip angles; you reason in terms of body motion and object trajectories.
 

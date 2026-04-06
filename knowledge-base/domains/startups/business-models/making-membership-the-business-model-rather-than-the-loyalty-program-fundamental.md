@@ -58,13 +58,12 @@ related:
   - INS-260322-B450
   - INS-260327-2B62
   - INS-260327-50CE
-  - INS-260403-CDB9
-  - INS-260403-3864
-  - INS-260404-DD00
   - INS-260404-12A4
-  - INS-260404-60D6
   - INS-260404-B8AE
-  - INS-260404-62D5
+  - INS-260404-EAA7
+  - INS-260405-8884
+  - INS-260405-051E
+  - INS-260405-D4F4
 ---
 Costco earns 75% of its profit from membership fees, not product markups. This means every price increase on goods would generate small short-term revenue but threaten the $60–$120 annual renewal — the opposite tradeoff of a conventional retailer. The business model hard-codes customer alignment: the only way to grow is to keep impressing members enough to renew.
 

@@ -49,11 +49,11 @@ resolutions:
     incomplete, and whoever bridges this gap could unlock technologies as
     transformative as what GPS was to navigation.
 related:
-  - INS-260323-C9B1
   - INS-260323-849E
   - INS-260330-97A0
   - INS-260323-72EB
-  - INS-260330-DD85
+  - INS-260323-C9B1
+  - PRI-260324-3B70
   - INS-260330-03F7
   - INS-260330-6E61
   - INS-260330-A149

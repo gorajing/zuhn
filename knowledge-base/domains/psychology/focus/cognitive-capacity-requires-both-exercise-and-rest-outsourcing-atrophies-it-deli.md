@@ -50,7 +50,6 @@ stance: >-
   absence of stimulation) is not a luxury but the required recovery period that
   restores the capacity outsourcing and overstimulation destroy.
 related:
-  - INS-260325-7417
   - INS-260327-B19E
   - INS-260327-F0C0
   - INS-260327-4279
@@ -59,7 +58,8 @@ related:
   - PRI-260328-4000
   - PRI-260403-2376
   - PRI-260328-1654
-  - INS-260330-9351
+  - INS-260403-8779
+  - INS-260403-50F1
 evidence:
   - id: INS-260327-2F75
     type: SUPPORTS

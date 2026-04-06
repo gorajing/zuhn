@@ -51,14 +51,13 @@ stance: >-
   When elite cultural norms condemn a preference, surveys systematically
   undercount that preference because holders conceal it from strangers
 related:
-  - INS-260329-55F7
   - INS-260403-7B28
-  - INS-260404-6442
   - INS-260404-3275
+  - INS-260329-55F7
   - INS-260403-C37D
   - INS-260323-9AA5
   - INS-260330-141E
-  - INS-260327-4367
+  - INS-260330-3BBC
 evidence:
   - id: INS-260404-6442
     type: SUPPORTS

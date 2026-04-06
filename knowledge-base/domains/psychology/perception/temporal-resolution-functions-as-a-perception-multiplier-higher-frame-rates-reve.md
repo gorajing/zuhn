@@ -58,11 +58,12 @@ stance: >-
   invisible at lower resolutions.
 related:
   - INS-260330-D1A1
+  - INS-260330-E59F
   - INS-260330-5EFD
   - INS-260330-1222
+  - INS-260330-24B6
   - INS-260330-12F9
   - INS-260330-CBA5
-  - INS-260330-0DF9
   - INS-260403-89B5
 evidence:
   - id: INS-260330-6C17

@@ -52,8 +52,8 @@ related:
   - INS-260404-266F
   - INS-260404-CDF0
   - INS-260404-F834
+  - PRI-260405-CCCE
   - INS-260330-4A89
-  - INS-260403-08E6
 ---
 Alex Osterwalder warns that you can't just slap phrases on a wall and expect employees to enact them. The Culture Map framework addresses this by treating the map as a living document that requires regular reassessment — ideally quarterly — where teams evaluate whether the culture has actually moved from current to desired state.
 

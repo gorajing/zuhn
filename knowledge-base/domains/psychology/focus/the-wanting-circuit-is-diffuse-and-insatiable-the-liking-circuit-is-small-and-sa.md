@@ -49,11 +49,11 @@ stance: >-
   system that can be satiated, and tech products primarily exploit the
   insatiable wanting system.
 related:
-  - INS-260325-7417
   - PRI-260328-1654
   - INS-260330-B87C
   - INS-260330-F9C1
   - INS-260330-BB0C
+  - INS-260405-B8BE
   - INS-260330-D42C
   - INS-260405-8584
 ---

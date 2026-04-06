@@ -46,6 +46,7 @@ stance: >-
   commitments, but most haven't tested whether board membership actually
   protects returns
 related:
+  - INS-260330-1FE2
   - INS-260321-7109
   - INS-260330-7220
   - INS-260403-AFCD

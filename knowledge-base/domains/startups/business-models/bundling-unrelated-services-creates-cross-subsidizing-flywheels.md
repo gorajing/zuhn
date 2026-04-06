@@ -57,10 +57,9 @@ stance: >-
   churn economically irrational for subscribers.
 related:
   - INS-260320-00C2
-  - INS-260327-4ED3
-  - INS-260327-4877
   - PRI-260328-935B
   - INS-260329-B239
+  - PRI-260405-548B
   - PRI-260328-6A8D
   - INS-260403-E78B
 ---

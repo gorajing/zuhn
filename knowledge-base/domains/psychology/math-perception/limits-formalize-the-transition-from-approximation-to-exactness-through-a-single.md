@@ -52,11 +52,12 @@ stance: >-
   because it converts finite approximation into exact mathematical truth, making
   all subsequent calculus possible.
 related:
+  - INS-260329-04A5
   - INS-260329-356A
-  - INS-260329-9CBB
   - INS-260329-F8AF
   - INS-260329-02C5
   - INS-260403-868C
+  - INS-260403-3A8A
   - INS-260330-B4B9
 evidence:
   - id: INS-260403-868C

@@ -52,8 +52,8 @@ related:
   - INS-260329-4020
   - INS-260329-B8C4
   - INS-260329-12EC
-  - INS-260329-913C
   - INS-260329-563F
+  - INS-260329-5427
 ---
 Hormozi describes a specific escalation pattern for pricing: start free, then 20% of target price, then 40%, 60%, 100%, and eventually 500% — but only when demand at each tier exceeds your capacity. The critical mistake most people make is offering free value with strings attached ('I'll give you X in exchange for Y'), which signals low confidence and misaligned incentives.
 

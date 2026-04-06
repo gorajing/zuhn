@@ -53,11 +53,11 @@ stance: >-
   financially demonstrate motivated reasoning — the moral case was already clear
   but only economic self-interest creates action.
 related:
-  - INS-260327-71A5
   - PRI-260328-BEAB
   - PRI-260328-E53E
   - INS-260325-B8CB
   - INS-260327-A75B
+  - INS-260404-8D23
 evidence:
   - id: INS-260325-B8CB
     type: SUPPORTS

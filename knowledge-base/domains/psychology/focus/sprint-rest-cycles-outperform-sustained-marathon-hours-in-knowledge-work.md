@@ -46,11 +46,11 @@ stance: >-
   Knowledge workers produce higher-quality output through intense sprints
   followed by genuine rest than through sustained 80-hour weeks.
 related:
-  - INS-260325-5F3C
   - INS-260325-DC90
   - INS-260404-EE01
   - INS-260330-7AE9
   - INS-260330-28EF
+  - PRI-260405-9D7B
 evidence:
   - id: INS-260404-EE01
     type: SUPPORTS

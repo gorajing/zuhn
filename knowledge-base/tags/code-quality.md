@@ -1,6 +1,5 @@
 # Tag: code-quality
 
-- `INS-260405-8891` Coding agents create acceptable new code but cannot yet judge whether a PR is good for a codebase's long-term health.
 - `INS-260320-7379` A Stop hook detects risky patterns (try-catch, async, DB calls) in edited files and shows gentle non-blocking self-check reminders.
 - `INS-260329-19EA` ES6 destructuring lets you extract object/array values into named variables in one step, eliminating the intermediate assignments where naming mistakes typically happen.
 - `INS-260329-CB03` Comments should explain why, not what — if code needs a comment to explain what it does, the code itself should be rewritten.

@@ -1,8 +1,8 @@
 # Tag: business-strategy
 
 - `INS-260323-3A98` No business became an industry leader through cost-cutting alone — AI investments driven by competitive fear rather than strategic vision will fail.
-- `INS-260327-3377` Credit card rewards create a psychological illusion of getting something for free that causes consumers to spend more ov
 - `INS-260405-C0AF` Surviving retailers like Costco, Ross, Aldi, and Dollar General prove physical retail isn't dying — only undifferentiated or maladapted retail is.
+- `INS-260327-3377` Credit card rewards create a psychological illusion of getting something for free that causes consumers to spend more ov
 - `INS-260327-07FC` Airlines generate enormous revenue but trivial profits because the industry structure — high fixed costs, commodity pric
 - `INS-260327-8E9D` Theme parks must continuously invest in new rides because each new attraction generates declining visitor impact over ti
 - `INS-260327-B715` Cruise lines earn higher margins than airlines because the ship is a captive-market platform where all spending occurs w
@@ -14,7 +14,6 @@
 - `INS-260327-B116` Nightclub economics are driven by selling status through bottle service, VIP areas, and exclusivity rather than the actu
 - `INS-260327-FBD8` Gun store revenue is driven primarily by fear of future regulation rather than actual use demand, creating cyclical boom
 - `INS-260327-B815` Sports team economics make no sense as operating businesses — they are valued for scarcity, prestige, and media rights r
-- `INS-260327-E68D` Haunted house operators must generate an entire years revenue in 4-6 weeks, creating extreme operational intensity and h
 - `INS-260327-FD4C` Self-storage facilities profit during economic booms (people buy too much) and busts (people downsize) because both cond
 - `INS-260327-F867` UNIQLO (timeless basics) and Zara (fast-fashion trends) both succeed in clothing by targeting opposite ends of the same 
 - `INS-260327-2695` Every generation of consumer credit innovation follows the same pattern: expand access during prosperity, accumulate ris

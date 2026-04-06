@@ -47,10 +47,10 @@ stance: >-
   because founders get no warning signs.
 related:
   - INS-260330-50A4
-  - INS-260330-5FED
   - INS-260330-B3D9
   - INS-260330-ED9D
   - INS-260323-EA36
+  - INS-260327-40D5
 evidence:
   - id: INS-260323-EA36
     type: TRANSFERS_TO

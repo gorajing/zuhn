@@ -52,8 +52,8 @@ related:
   - INS-260326-967C
   - INS-260402-F08D
   - INS-260323-1975
-  - INS-260403-4337
   - INS-260403-C228
+  - INS-260322-A02C
 ---
 Katz met his co-founder Michael toward the end of college. Their first lunch was 'one of those one-in-a-million conversations' where they immediately connected on vision, complementary skills, and energy. Katz was going into product management at Asana; Michael reached out to understand what product work was like.
 

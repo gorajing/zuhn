@@ -46,10 +46,10 @@ stance: >-
   current state, not by cost-plus margins
 related:
   - INS-260403-2DE3
-  - INS-260329-EBBB
   - INS-260327-0133
   - INS-260329-CEC5
   - INS-260330-0AA7
+  - INS-260403-1BCC
 evidence:
   - id: INS-260327-0133
     type: TRANSFERS_TO

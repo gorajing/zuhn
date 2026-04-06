@@ -47,6 +47,8 @@ stance: >-
   debugging major deals rather than delegating sales entirely.
 related:
   - INS-260327-9C00
+  - INS-260327-A815
+  - INS-260327-07C9
   - PRI-260328-E921
   - INS-260328-4EA0
   - PRI-260327-942E

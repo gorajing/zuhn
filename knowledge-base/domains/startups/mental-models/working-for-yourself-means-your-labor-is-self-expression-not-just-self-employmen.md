@@ -48,6 +48,7 @@ stance: >-
   The deeper meaning of working for yourself is that your work expresses who you
   are, not merely that you lack a boss
 related:
+  - INS-260403-B87D
   - INS-260403-F1C6
   - INS-260403-DF37
   - INS-260405-874D

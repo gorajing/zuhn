@@ -45,11 +45,11 @@ stance: >-
   The window for acting on creative inspiration closes rapidly and rarely
   reopens, making immediate execution the only reliable capture strategy.
 related:
-  - INS-260330-19F1
   - INS-260403-21AF
   - INS-260329-1739
   - INS-260404-4E6D
   - INS-260327-F95F
+  - PRI-260403-3906
   - INS-260404-8A87
 evidence:
   - id: INS-260327-F95F

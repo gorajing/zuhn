@@ -1,6 +1,5 @@
 # Tag: investors
 
-- `INS-260403-8C50` Sequoia's 'proxy for demand' — people using bad tools to do the thing you enable — is the strongest antidote to investors' biggest early-stage fear.
 - `INS-260330-CBF3` Target giving 10% of the company to the first 10 employees because employees compound value over years while investors mostly write a check.
 - `INS-260405-3C56` Genuine goodness beats strategic niceness when information flows freely and the future is unpredictable.
 - `INS-260405-224A` When founders talk, bad investor behavior propagates quickly and reduces dealflow.

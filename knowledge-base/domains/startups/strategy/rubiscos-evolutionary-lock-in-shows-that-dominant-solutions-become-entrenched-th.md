@@ -62,14 +62,12 @@ stance: >-
   self-reinforcing even when better alternatives theoretically exist.
 related:
   - INS-260330-F82A
-  - INS-260330-D4CC
   - INS-260330-5DFF
-  - INS-260403-1731
-  - INS-260403-262F
   - INS-260404-26AE
   - INS-260404-D39F
   - INS-260405-8B89
   - INS-260405-95AE
+  - INS-260403-F68A
 evidence:
   - id: INS-260330-F82A
     type: EXTENDS

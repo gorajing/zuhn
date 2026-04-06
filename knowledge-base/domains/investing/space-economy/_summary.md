@@ -1,6 +1,6 @@
 # Topic: space-economy
 
-> 29 insights
+> 27 insights
 
 - `INS-260325-415A` [high] Detecting an alien signal would statistically prove that technological civilizations can have long futures, because the math of detection requires that such technologies are long-lived on cosmic timescales.
 - `INS-260322-7A2F` [high] Artemis builds permanent lunar presence through deliberate phased deployment — unmanned test, crewed orbit, first landing, rover, habitable vehicle, base camp — each phase de-risking the next.
@@ -10,12 +10,10 @@
 - `INS-260325-E5EB` [high] We now know there are more planets than stars in the Milky Way, and life thrives in environments once considered utterly sterile — the universe appears far more bio-friendly than we taught 40 years ago.
 - `INS-260322-3833` [high] The Lunar Gateway is not just a moon station — it is the strategic launch point for Mars and deep space missions because escaping lunar gravity requires vastly less fuel than escaping Earth's.
 - `INS-260322-B8E6` [high] Orion's design for reuse across multiple Artemis missions fundamentally changes space economics from disposable to durable infrastructure.
-- `INS-260325-69CF` [high] SETI should technically be called SETT — Search for Extraterrestrial Technology — because we detect technology (narrow-band radio signals, laser pulses), not intelligence.
 - `INS-260325-40DC` [high] SETI is a misnomer — we search for technology (frequency-compressed radio signals or time-compressed optical pulses) because we cannot define or detect intelligence at interstellar distances.
 - `INS-260330-AF2A` [high] Space elevators work in theory but require materials with strength-to-weight ratios beyond current capabilities.
 - `INS-260403-34A6` [high] Space launch cost reductions mirror containerization's 36x collapse, and Starship targets 500x — a magnitude that historically reshapes entire economies.
 - `INS-260325-9677` [high] The fact that Earth is not colonized by aliens proves no galaxy-spanning civilization exists, despite 13 billion years being more than enough time to colonize the Milky Way even at current spacecraft speeds.
-- `INS-260325-7973` [high] Hart's Fact A — no aliens cohabit Earth — rules out aggressive galaxy-spanning civilizations despite 13 billion years being enough to colonize everything even at Voyager speeds.
 - `INS-260325-82E8` [high] The Copernican principle works for features unrelated to life (like Neptune) but fails for life-dependent features due to anthropic selection bias.
 - `INS-260325-9CDC` [high] The line between fringe and mainstream science shifts constantly -- exoplanet research went from 'silly' to a major field in one generation.
 - `INS-260325-23E0` [high] When Tarter started, we knew of only 9 planets and believed extreme environments were sterile; now we know there are more planets than stars and life thrives in environments once thought impossible.

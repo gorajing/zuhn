@@ -49,10 +49,10 @@ stance: >-
   additive information loss.
 related:
   - INS-260403-4730
-  - INS-260404-C64D
   - INS-260403-19D8
+  - INS-260404-C64D
   - INS-260405-E6F9
-  - INS-260405-283A
+  - INS-260405-466C
 evidence:
   - id: INS-260403-4730
     type: SUPPORTS

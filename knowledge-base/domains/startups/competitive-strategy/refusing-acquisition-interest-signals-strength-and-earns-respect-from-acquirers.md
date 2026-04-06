@@ -48,9 +48,9 @@ stance: >-
 related:
   - INS-260403-E3E6
   - INS-260403-D972
-  - INS-260403-4337
   - INS-260403-BCB1
   - INS-260403-6713
+  - INS-260402-5974
 evidence:
   - id: INS-260403-BCB1
     type: SUPPORTS

@@ -1,7 +1,6 @@
 # Tag: probiotics
 
 - `INS-260325-EE8B` L. reuteri bacteria signal the brain via the vagus nerve to produce more oxytocin increasing social bonding and reducing stress.
-- `INS-260327-4CF4` Most commercial yogurt is a sugar-laden pasteurized product with dead probiotics that harms rather than helps gut health
 - `INS-260325-E538` Most store yogurt is sugar-loaded with dead probiotics — only raw, unsweetened, full-fat varieties provide health benefits.
 - `INS-260327-BA5B` Raw and fermented cheeses retain beneficial bacteria and enzymes destroyed by pasteurization
 - `INS-260325-7F1B` Raw grass-fed cheese retains live enzymes, probiotics, and K2 that pasteurization destroys — nutritionally superior despite regulatory barriers.

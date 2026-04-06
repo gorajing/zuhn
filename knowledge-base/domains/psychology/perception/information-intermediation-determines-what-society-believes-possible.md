@@ -46,6 +46,7 @@ stance: >-
   effectively controls what society believes is true, possible, and important -
   making AI model builders the most powerful gatekeepers in history.
 related:
+  - INS-260325-C9EB
   - INS-260325-239C
   - PRI-260328-C006
   - INS-260330-CAD2

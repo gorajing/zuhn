@@ -1,6 +1,6 @@
 # Topic: relationships
 
-> 85 insights
+> 80 insights
 
 - `INS-260325-3A54` [very_high] The 85-year Harvard Study of Adult Development shows that the single choice most likely to keep you happy and healthy is investing in relationships.
 - `INS-260330-A33E` [high] Active addiction of any kind — drugs, crime, gambling — makes genuine love impossible because the addiction always comes first.
@@ -15,11 +15,9 @@
 - `INS-260325-64FD` [high] We habitually see bad behavior and assume bad person — but separating behavior from identity enables coaching instead of punishment in any relationship.
 - `INS-260330-5391` [high] Identical touch can feel amazing or infuriating depending on emotional context — context is the master variable, not technique.
 - `INS-260330-88B0` [high] Identical physical stimulation produces pleasure or discomfort depending entirely on context — emotional safety, stress levels, and relationship dynamics matter more than technique.
-- `INS-260330-6D52` [high] The same physical touch can feel arousing or irritating depending on context, proving that context — not technique — is the primary lever for sexual pleasure.
 - `INS-260323-176B` [high] Covert contracts — where one party secretly resents an agreement and begins taking compensation through indirect sabotage — are the root mechanism of relationship destruction.
 - `INS-260330-8D2C` [high] The architecture of social media makes criticism indistinguishable from cruelty, so personal growth requires deliberately building and maintaining a trusted inner circle whose feedback you actually internalize.
 - `INS-260329-B583` [high] If your partner measures success on different metrics than you measure yourself, you can never win.
-- `INS-260329-8EF6` [high] Verify that your partner's scorecard for you matches your own scorecard for yourself — misaligned metrics guarantee conflict.
 - `INS-260330-1AEA` [high] Boys in fatherless households suffer more than girls, creating an intergenerational cycle of male disadvantage that compounds across education, employment, and family formation.
 - `INS-260327-4D29` [high] You can only be truly kind if you're capable of not being kind - otherwise niceness isn't a choice, it's just an inability to say no.
 - `INS-260325-268F` [high] Good relationships regulate emotions at a biological level, keeping bodies in equilibrium; people with secure late-life connections show slower brain decline.
@@ -49,7 +47,6 @@
 - `INS-260325-9E0C` [high] The 85-year Harvard Study of Adult Development found that people with the warmest relationships stayed healthiest longest and lived longest.
 - `INS-260323-42A7` [high] Marriages fail like bankruptcy — very slowly and then all at once — through accumulated small disconnections, not through the dramatic event that finally ends them.
 - `INS-260330-EC5E` [high] Responsive desire — wanting sex only after pleasure has already begun — is as normal as spontaneous desire, and treating it as dysfunction damages relationships.
-- `INS-260325-4C0F` [high] The romantic idea that love should follow pure instinct, need no rational analysis, and reject criticism has produced 250 years of relationship failure masquerading as liberation.
 - `INS-260325-362B` [high] De Botton argues we have been in a 'romantic age' for 250 years where love is treated as instinct and feeling, and it has been a disaster — we are no happier than in the dynastic marriage era.
 - `INS-260325-6571` [high] Brain scans reveal romantic love is not an emotion but a drive originating in the VTA dopamine system next to thirst and hunger — it evolved as a survival mechanism to focus mating energy on a single partner.
 - `INS-260330-D0E2` [high] The brain's sexual response has separate accelerator (excitation) and brake (inhibition) systems, and most problems come from overactive brakes rather than a weak accelerator.
@@ -73,12 +70,10 @@
 - `INS-260325-05E4` [medium] Gratitude combats the loneliness epidemic by expanding one's sense of belonging beyond the individual self.
 - `INS-260325-FA70` [medium] Joy's preconditions — emotional availability, surprise, and connection — are precisely what productivity optimization destroys.
 - `INS-260330-A59D` [medium] Kissing likely evolved from kiss-feeding and persisted because saliva exchange provides biological compatibility data for mate selection.
-- `INS-260330-FCB7` [medium] Kissing likely evolved from kiss-feeding and persisted because saliva carries hormonal signals (like testosterone) that help assess mate compatibility.
 - `INS-260329-ABA1` [medium] Present your flaws first in dating — people unbothered by your downsides are your strongest matches.
 - `INS-260330-A2E7` [medium] Helen Fisher's research shows 81% of long-married people would remarry their spouse, and argues the modern 'slow love' pattern of extended courtship improves partner selection.
 - `INS-260323-7263` [medium] Messaging on Discord, following creators who resonate with you, and having online friends all genuinely reduce loneliness and matter as real social connection — not just a substitute for in-person relationships.
 - `INS-260325-1E0B` [medium] When early humans stood upright 4.4 million years ago, females had to carry babies in arms instead of on backs — creating evolutionary pressure for pair-bonding that selected for the brain circuitry of romantic love and attachment.
-- `INS-260325-FAC2` [medium] When our ancestors began walking on two legs 4.4 million years ago, females could no longer carry babies on their backs while foraging — this created the evolutionary pressure for pair bonding.
 - `INS-260403-79AF` [medium] Relationships where someone can hear you and help you trace your feelings to their origins are themselves a primary treatment for trauma, not just a precondition for it.
 - `INS-260329-B2D8` [medium] Choose roommates who share your ambition level, not just your rent budget.
 - `INS-260330-1A55` [medium] In a study of 1,100 married people, 81% said they would remarry their current partner, which Fisher attributes to extended pre-commitment periods filtering incompatible matches.

@@ -53,11 +53,11 @@ stance: >-
   their tipping points creates a convergence that could birth an entirely new
   civilization, not just incremental improvement.
 related:
-  - INS-260325-3CB5
-  - INS-260325-CED9
   - PRI-260328-D292
   - INS-260325-0F4F
   - INS-260327-A3A2
+  - INS-260403-D543
+  - INS-260325-4846
 evidence:
   - id: INS-260325-0F4F
     type: SUPPORTS

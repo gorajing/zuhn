@@ -53,8 +53,8 @@ related:
   - INS-260325-9DEB
   - PRI-260328-E3A7
   - PRI-260328-97E0
-  - INS-260327-244B
   - INS-260327-1F6E
+  - INS-260330-3DC8
 ---
 Animal studies demonstrate that knocking out inflammatory signaling pathways eliminates atherosclerosis even with very high LDL levels. This proves that LDL alone is insufficient -- it must be modified by oxidative stress and inflammation, then recognized by immune cells whose macrophages have altered uptake behavior.
 

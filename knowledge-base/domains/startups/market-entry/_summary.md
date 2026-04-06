@@ -1,6 +1,6 @@
 # Topic: market-entry
 
-> 37 insights
+> 34 insights
 
 - `INS-260403-535C` [high] Simultaneous supply aging and demand shifting creates opportunities that favor operationally heavy startups over pure software.
 - `INS-260403-16AB` [high] AI copilots in marketplaces increase supply capacity while preserving trust, whereas full autopilots race to zero pricing.
@@ -11,7 +11,6 @@
 - `INS-260404-7A54` [high] High mobile penetration plus low workflow digitization signals a ripe market entry window for vertical SaaS.
 - `INS-260403-8BE9` [high] Stablecoins gain traction first in markets like Kenya, Turkey, Argentina, and Venezuela where local currencies are unstable and physical dollar access is restricted.
 - `INS-260402-3196` [high] IBM's fatal error was granting a non-exclusive DOS license, allowing Microsoft to own the PC standard from within the supply chain.
-- `INS-260402-580C` [high] Restriction breeds innovation at the edges of incumbent-dominated industries, gradually migrating inward.
 - `INS-260402-C030` [high] A large single-language domestic market lets startups ship simpler MVPs by deferring internationalization.
 - `INS-260403-8A8B` [high] Top talent actively avoided gig platforms not because of low pay but because the work structure itself was fundamentally unappealing — boring solo tasks with no creative fulfillment.
 - `INS-260403-B6A0` [high] Making something dramatically cheaper doesn't just expand the existing market—it creates qualitatively new use cases, as seen from Roman water mills to personal computers.
@@ -19,8 +18,6 @@
 - `INS-260403-1284` [high] Marketplaces in every category follow a predictable arc: horizontal discovery → vertical discovery → vertical transactional → fintech-enabled managed marketplace.
 - `INS-260403-1AE5` [high] New markets have no existing demand to capture, so spending on acquisition before the tipping point burns cash with no proportional return.
 - `INS-260330-3431` [high] Premium brand identity can prevent entry into massive price-sensitive markets where the bulk of demand sits far below your price floor.
-- `INS-260330-D071` [high] Apple's refusal to make cheaper phones caps India market share at ~1% despite massive demand.
-- `INS-260330-660A` [high] Apple's refusal to offer affordable tiers in India resulted in ~1% market share despite massive demand, showing premium-only strategies fail in price-sensitive markets.
 - `INS-260330-7479` [high] Apple's $1,100+ iPhone captures only 1% of India where 75% of smartphones sell under $250, proving brand prestige alone cannot overcome price-sensitivity at scale.
 - `INS-260330-7EDF` [high] Asking 'what could go right?' instead of 'what went wrong?' shifts strategic focus from diagnosis of failure to identification of actionable opportunities.
 - `INS-260330-F23F` [high] India's requirement that foreign companies source 30% of materials locally before opening retail stores blocked Apple from its most profitable distribution channel.

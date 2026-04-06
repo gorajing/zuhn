@@ -48,10 +48,10 @@ stance: >-
   generates press and investor inbound.
 related:
   - INS-260404-D242
-  - INS-260403-BDBE
   - INS-260327-7E3D
   - PRI-260403-26B9
-  - INS-260404-6C20
+  - INS-260403-7E27
+  - INS-260403-1287
 evidence:
   - id: INS-260404-D242
     type: SUPPORTS

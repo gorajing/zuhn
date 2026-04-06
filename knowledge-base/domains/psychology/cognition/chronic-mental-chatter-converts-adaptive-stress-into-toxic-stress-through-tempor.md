@@ -49,12 +49,11 @@ stance: >-
   chronic elevation linked to cardiovascular disease, inflammation, and cancer
 related:
   - INS-260325-FC52
-  - INS-260325-5F3C
   - INS-260325-A66E
-  - INS-260330-28EF
   - INS-260330-A9F8
   - INS-260404-EE01
   - INS-260330-293E
+  - PRI-260327-0AA2
   - INS-260404-4FDB
 evidence:
   - id: INS-260404-EE01

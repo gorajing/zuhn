@@ -51,8 +51,8 @@ stance: >-
   startup success.
 related:
   - INS-260327-85EB
-  - INS-260327-4D3A
   - INS-260329-C36D
+  - INS-260329-D267
   - INS-260330-6A47
   - INS-260330-9313
   - PRI-260328-C918

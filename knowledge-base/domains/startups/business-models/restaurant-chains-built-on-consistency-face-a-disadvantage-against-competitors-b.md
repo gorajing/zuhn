@@ -40,6 +40,7 @@ stance: >-
   same) lose to competitors whose promise is freshness (Chick-fil-A, Popeyes)
   because consumers now associate consistency with processed food.
 related:
+  - INS-260324-C33C
   - INS-260324-D274
   - INS-260324-C2B9
   - INS-260324-5952
@@ -49,7 +50,6 @@ related:
   - INS-260330-7DB7
   - INS-260322-5A72
   - INS-260403-AEAF
-  - INS-260327-4445
 ---
 Fast-food chains whose brand promise is consistency (every KFC tastes the same) lose to competitors whose promise is freshness (Chick-fil-A, Popeyes) because consumers now associate consistency with processed food.
 

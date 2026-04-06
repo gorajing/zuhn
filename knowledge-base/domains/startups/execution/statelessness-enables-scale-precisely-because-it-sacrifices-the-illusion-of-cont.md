@@ -48,7 +48,6 @@ stance: >-
   massive horizontal scaling.
 related:
   - INS-260327-1599
-  - INS-260329-B922
   - INS-260329-8CC0
   - INS-260330-3B0B
   - INS-260329-4696

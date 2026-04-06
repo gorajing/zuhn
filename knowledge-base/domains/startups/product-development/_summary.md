@@ -1,6 +1,6 @@
 # Topic: product-development
 
-> 123 insights
+> 116 insights
 
 - `INS-260327-EB3E` [high] Apple's 48-hour design review rhythm forced constant refinement that produced best-in-class products.
 - `INS-260329-1028` [high] freeCodeCamp's 48M-view tutorial demonstrates that one comprehensive free resource can become a permanent acquisition engine dwarfing paid channels.
@@ -12,7 +12,6 @@
 - `INS-260329-4696` [high] Batching operations increases total system throughput by amortizing overhead, but each individual request waits longer — you cannot optimize both simultaneously.
 - `INS-260323-3239` [high] The fastest path to product-market fit is having an audience you can survey, test MVPs with, and iterate against — not building in isolation.
 - `INS-260330-E263` [high] Concentrate on making a small group of users love your product rather than building something many people merely like.
-- `INS-260330-EA94` [high] Startups must choose depth of user love over breadth because weak enthusiasm cannot be upgraded to devotion, while intense love naturally expands.
 - `INS-260327-D0F3` [high] The apps you actually spend your day using are all built by professional developers; vibe-coded apps are empowering but represent a lower-value segment of the software economy.
 - `INS-260402-426C` [high] Schools reward how far you've come; markets only care how far you are from what users need—and the gap produces fatally different building behaviors.
 - `INS-260323-A0CE` [high] If you combine genuine novelty in synthetic biology, robotics, material science, and computational design simultaneously, the output is guaranteed to be novel.
@@ -31,10 +30,8 @@
 - `INS-260403-2A44` [high] Good design requires diagnosing user needs rather than implementing stated requests.
 - `INS-260327-289F` [high] Gamma's competitive moat is design taste encoded into building blocks: AI generates 10 layout options and picks the best, but the building blocks themselves were crafted by a team that was one-third designers.
 - `INS-260403-D2B1` [high] Genuine platform adoption is proven by hackers spontaneously building on it; if you need PR to promote it, it's not a real platform.
-- `INS-260403-A5B8` [high] The best tools emerge when builders design for their own needs rather than dumbing things down for imagined users.
 - `INS-260403-C3DF` [high] Looking down on your users, however benevolently, inevitably corrupts the design.
 - `INS-260330-AB3E` [high] Replace one strong component with a weak transparent one to see how the rest of the system behaves under real load.
-- `INS-260402-0F36` [high] The way to succeed is to be an expert on your users and their problems, not an expert on startup mechanics.
 - `INS-260402-7B69` [high] In early startups, product quality is redefined as total user experience quality, where personal attentiveness compensates for product incompleteness.
 - `INS-260330-1282` [high] Users judge products by experience quality, never by whether you used React or Vue, MySQL or MongoDB.
 - `INS-260327-C569` [high] Enterprises are on the hook for outcomes — AI will evolve as composite systems with checks and balances, not the AGI monolith that media hypes.
@@ -53,7 +50,6 @@
 - `INS-260327-555D` [high] Gamma's founder dismissed GPT-3 in 2020 as inadequate for slides, but was captivated by Stable Diffusion in 2022 because visual AI output has an inherent virality and magic that text output lacks.
 - `INS-260322-58B7` [high] Ship the minimal core feature fast and let actual user feedback determine where the product goes next.
 - `INS-260402-E85D` [high] The excuses for delaying launch decompose into six specific fears, and forcing a quick launch combats all of them simultaneously.
-- `INS-260330-FE9E` [high] Your job is to listen to customer problems and translate them into the best simplest solution — not to build exactly what they tell you to build.
 - `INS-260330-2C79` [high] Translate customer problems into elegant solutions rather than implementing their proposed features.
 - `INS-260323-6C84` [high] Wikipedia's predecessor Nupedia had a 7-stage academic review process that produced almost nothing in 2 years — switching to open wiki editing produced more work in 2 weeks than 2 years of rigorous process.
 - `INS-260325-A070` [high] Traditional archaeology tells you what the past looked like; experimental archaeology — physically making and doing things — reveals what it sounded, tasted, and smelled like, and answers questions theory cannot.
@@ -73,7 +69,6 @@
 - `INS-260330-2B45` [high] Ship a prototype fast and refine based on user reactions — the 'Hail Mary' strategy of planning extensively before building wastes millions.
 - `INS-260330-A6BE` [high] Record interviews and play them back to the team — the emotional impact of hearing real users creates alignment that summaries and data slides cannot.
 - `INS-260323-7DAE` [high] Boston Dynamics' breakthrough approach was reducing complex locomotion to a bouncing pogo stick — solve the simplified version first, then extrapolate.
-- `INS-260330-B7B1` [high] Plants compensate for RuBisCo's 50% error rate by producing 40 billion tons of it — brute-force scaling of a flawed solution often beats redesigning.
 - `INS-260403-7732` [high] Selection from a large open pool surfaces better top-end quality than editorial curation, which dampens extremes.
 - `INS-260329-BE35` [high] Your sharding key is a frozen prediction about usage patterns — choose wrong, and resharding a live database is one of the hardest problems in production engineering.
 - `INS-260403-0CA8` [high] Focus all polish on the one or two things users come back for, ship that fast, then layer depth only after validation.
@@ -96,11 +91,9 @@
 - `INS-260323-257D` [high] Jet engine efficiency is fundamentally limited by the Carnot equation: raise the combustion temperature or lower the outside air temperature. Turbine blade materials became the binding constraint because they set the maximum combustion temperature, making metallurgy — not aerodynamics or fuel chemistry — the bottleneck for the entire aviation industry.
 - `INS-260327-62CF` [high] YouTube's embed feature — built from day one — turned MySpace profiles into a free distribution channel: users embedded YouTube videos, the logo spread, and curiosity converted viewers into uploaders, all at zero marketing cost.
 - `INS-260402-4633` [high] The first phase of business creation is product creation — hacking — and figuring out monetization afterward is the comparatively easy part.
-- `INS-260330-2119` [high] Oxygen — the gas that enabled all animal life — was originally just a toxic waste product of photosynthesis, making it history's most valuable accidental byproduct.
 - `INS-260330-8890` [high] Define 5 or fewer 'Why' statements that articulate specific user problems whose solutions make the product indispensable, then use them as the filter for every trade-off decision.
 - `INS-260403-EE38` [high] Most big programs started as throwaway scripts, so tools must excel at quick disposable work to capture the projects that grow.
 - `INS-260322-3C3D` [high] ElevenLabs' core advantage comes from product teams talking directly to research teams — product provides real user feedback, research iterates immediately, and models get tested directly on the product.
-- `INS-260329-1741` [high] CS50's success with 66% complete beginners demonstrates that programming is a teachable skill with proper scaffolding, not an innate talent.
 - `INS-260323-C5D3` [high] Before ZZT shipped, Sweeney invited neighbors of all ages to play it while forcing himself not to explain anything -- noting where they got stuck, felt bored, or enjoyed themselves -- then iteratively polished until the game worked without his guidance.
 - `INS-260330-2F22` [high] When users request a feature, don't build it — instead investigate what underlying problem triggered the request.
 - `INS-260330-139D` [high] Ask how users behave and live rather than whether they want specific features to uncover category-creating opportunities.

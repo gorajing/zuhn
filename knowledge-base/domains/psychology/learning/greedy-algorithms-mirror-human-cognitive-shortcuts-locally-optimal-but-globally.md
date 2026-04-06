@@ -47,11 +47,12 @@ stance: >-
   whole problem are the computational equivalent of human cognitive biases
   toward immediate gratification
 related:
+  - INS-260329-D8BC
   - INS-260329-2AB9
   - INS-260402-CCC3
   - INS-260329-4109
+  - PRI-260405-ADEA
   - INS-260330-C31B
-  - PRI-260325-45A2
 evidence:
   - id: INS-260330-C31B
     type: TRANSFERS_TO

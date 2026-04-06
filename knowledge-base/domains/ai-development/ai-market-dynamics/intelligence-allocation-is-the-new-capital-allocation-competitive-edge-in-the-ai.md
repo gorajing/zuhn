@@ -52,8 +52,8 @@ related:
   - INS-260321-3967
   - INS-260325-5455
   - INS-260322-019A
-  - INS-260327-4081
   - INS-260328-C246
+  - INS-260403-427E
 stance: >-
   The new competitive moat is not better models but better judgment on which
   tasks go to which AI and which stay with humans.

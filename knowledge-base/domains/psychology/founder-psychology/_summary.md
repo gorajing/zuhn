@@ -1,6 +1,6 @@
 # Topic: founder-psychology
 
-> 22 insights
+> 21 insights
 
 - `INS-260330-D644` [high] Don't start acquisition conversations unless you'd accept a low offer — the distraction and psychological demoralization of entertaining buyers kills more companies than most founders realize.
 - `INS-260405-020E` [high] Lame-looking early work on ambitious projects is not accurately lame — it's accurately early.
@@ -8,7 +8,6 @@
 - `INS-260330-9BF3` [high] Founder psychology doesn't stabilize with success — the emotional amplitude expands, with higher highs but increasingly devastating lows.
 - `INS-260329-1DA3` [high] An expert is someone who has made all the mistakes possible in a narrow field, and the cost of not making those mistakes (staying ignorant) compounds faster than financial debt.
 - `INS-260330-90C3` [high] Jho Low's fake credentials compounded — each lie made the next one easier because people used prior signals as validation.
-- `INS-260329-C66E` [high] Passion is a byproduct of getting good at something, not the prerequisite for starting.
 - `INS-260329-6BFC` [high] Full passive income without engaging work produces boredom and depression, not the freedom people imagine.
 - `INS-260329-5B3D` [high] Spending to look rich instead of being rich reveals that you've outsourced your self-worth to other people's opinions.
 - `INS-260330-7D83` [high] Travis's 'uber against the world' narrative drove 12-hour workdays and fierce loyalty, but the same combative culture produced internal backstabbing, sexual harassment cover-ups, and employee burnout.

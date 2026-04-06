@@ -47,11 +47,11 @@ stance: >-
   Geodesics on curved surfaces demonstrate that apparent attraction between
   objects can arise purely from geometry without any force.
 related:
-  - INS-260330-DD85
   - INS-260323-849E
   - INS-260330-5263
   - INS-260330-6EE2
   - INS-260330-F889
+  - INS-260330-97A0
 ---
 The ribbon test demonstrates a powerful geometric principle: on a curved surface like a sphere, two paths that start parallel and never turn will eventually converge and meet. To an observer, this looks exactly like an attractive force pulling the objects together, but no force exists — it's a pure consequence of the surface's curvature.
 

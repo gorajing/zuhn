@@ -55,13 +55,11 @@ stance: >-
   levels — because sub-threshold doses produce anxiety without the full
   dissolution experience that drives lasting change.
 related:
-  - INS-260330-2C6A
-  - INS-260330-A5B0
   - INS-260330-81B1
-  - INS-260330-EE16
-  - INS-260330-203F
   - INS-260330-3672
   - INS-260330-887A
+  - PRI-260325-2DE6
+  - INS-260330-3748
 evidence:
   - id: INS-260330-2C6A
     type: REFINES

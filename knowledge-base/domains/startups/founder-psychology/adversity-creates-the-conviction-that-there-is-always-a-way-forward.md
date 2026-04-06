@@ -47,12 +47,12 @@ related:
   - INS-260323-DA91
   - INS-260325-13B9
   - INS-260325-EC93
-  - INS-260329-640C
   - INS-260327-51C2
   - INS-260327-CEE4
   - PRI-260403-88F5
   - INS-260323-28FB
   - INS-260323-4082
+  - INS-260327-3C96
 stance: >-
   Early hardship — while not required for success — instills an unshakeable
   belief that solutions exist and are within your control.

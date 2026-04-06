@@ -51,8 +51,8 @@ related:
   - INS-260325-BE8A
   - INS-260403-3A49
   - INS-260323-3982
-  - INS-260330-CC0F
   - INS-260328-4EA0
+  - INS-260403-4904
 stance: The 10 Blue Links was always a compromise
 evidence:
   - id: INS-260325-BE8A

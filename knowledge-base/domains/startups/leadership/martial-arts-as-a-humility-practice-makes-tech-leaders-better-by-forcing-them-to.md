@@ -52,6 +52,7 @@ related:
   - PRI-260328-094A
   - INS-260326-5E07
   - INS-260327-8521
+  - INS-260327-B2CC
 stance: >-
   Lex Fridman argues that jiu-jitsu is humbling and that humility is a powerful
   tool for innovation and leadership, especially for tech leaders who r...

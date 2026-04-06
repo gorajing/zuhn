@@ -3,7 +3,6 @@
 - `INS-260330-A7CB` Overnight wear and inadequate cleaning of reusable contacts dramatically increases corneal infection risk; daily disposables eliminate the cleaning variable entirely.
 - `INS-260329-E86C` David Malan himself almost didn't take CS50 until he was allowed to enroll pass/fail, proving that stake reduction unlocks hidden talent.
 - `INS-260329-DE17` Evaluate free content from a teacher before buying paid courses to reliably predict quality and fit.
-- `INS-260329-E4BA` Pass/fail options remove the fear barrier that prevents capable people from attempting unfamiliar domains.
 - `INS-260321-96CE` Markets (topics) rarely change and can't be invented. Formats (creative vessels) are born daily. Innovate on format, not market — then transplant across markets for maximum leverage.
 - `INS-260403-D704` McDonald's demands more from franchisees than competitors — approved suppliers, Hamburger University training, rigid operating standards — yet attracts $1-2M investments because the constraints signal safety.
 - `INS-260327-6405` Conrad argues that hiring friends, former colleagues, and people you already trust is underrated because it dramatically lowers executive hiring risk.

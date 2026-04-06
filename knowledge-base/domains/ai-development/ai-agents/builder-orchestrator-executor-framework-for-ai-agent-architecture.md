@@ -47,7 +47,6 @@ resolutions:
     for each role.
 related:
   - INS-260320-9D89
-  - INS-260325-23BA
   - INS-260327-C1A4
   - INS-260403-4D80
   - INS-260327-A9D5
@@ -56,6 +55,7 @@ related:
   - PRI-260320-D5B7
   - PRI-260320-BC72
   - INS-260327-FE24
+  - INS-260403-F0DF
 stance: >-
   Separate AI agent work into three roles: the builder constructs platforms, the
   orchestrator manages workflows, and executors are specialized agents...

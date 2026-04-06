@@ -43,9 +43,9 @@ resolutions:
 related:
   - INS-260324-C2B9
   - INS-260327-8EB7
-  - INS-260330-420D
   - INS-260327-2DE8
   - INS-260327-048B
+  - INS-260330-744E
   - INS-260327-D5F0
 stance: >-
   Pizza has the lowest food costs in fast food (flour, canned tomatoes,

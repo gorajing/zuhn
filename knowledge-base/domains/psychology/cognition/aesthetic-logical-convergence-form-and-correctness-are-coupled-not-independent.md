@@ -49,11 +49,12 @@ stance: >-
   independent variables — they are two ends of the same rope, connected by
   multiple overlapping mechanisms.
 related:
+  - INS-260329-3C75
   - INS-260405-86BB
-  - INS-260403-B508
   - PRI-260405-BF5B
   - INS-260402-A693
   - INS-260403-0218
+  - INS-260405-678B
 evidence:
   - id: INS-260329-3C75
     type: TRANSFERS_TO

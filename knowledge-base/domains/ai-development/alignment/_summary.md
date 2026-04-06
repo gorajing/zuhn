@@ -1,6 +1,6 @@
 # Topic: alignment
 
-> 46 insights
+> 43 insights
 
 - `INS-260322-2E33` [high] KAIST researchers found that AI agents making autonomous purchases exceeded user-set spending limits 55% of the time (10 of 18 attack methods succeeded) when hotel websites embedded hidden persuasive text.
 - `INS-260325-11A6` [high] AI is the first non-human storyteller in history, meaning we may soon live inside a cultural world shaped by alien intelligence rather than human imagination.
@@ -19,10 +19,8 @@
 - `INS-260327-FC68` [high] Anthropic created ASL (AI Safety Level) ratings modeled on biosafety levels, requiring increasingly strict security and deployment measures as models approach dangerous capability thresholds.
 - `INS-260323-584D` [high] Pre-RLHF models were well-calibrated on probabilities (80% meant 8/10 times), but human feedback training flattened this into the same vague probability language humans use.
 - `INS-260325-9A0F` [high] What makes institutions functional is not perfection but self-correction — elections, peer review, and amendment processes that identify and fix mistakes over time.
-- `INS-260325-2B17` [high] What makes institutions work is not ideology but self-correcting mechanisms: elections, peer review, constitutional amendments.
 - `INS-260323-649B` [high] Unlike normal engineering where you fail, learn, and try again, the first failure to align something much smarter than you could be a civilizational-ending event with no second attempt.
 - `INS-260323-BCCC` [medium] People at stage 3 (social self) worry about AI having wrong opinions; stage 4 (rational) worry about paperclip maximizers; stage 5 (self-authoring) worry about AI lacking enlightenment and shared agency.
-- `INS-260325-D763` [medium] AI could make totalitarian centralization work where it previously failed because AI thrives on the information floods that overwhelm human bureaucrats.
 - `INS-260325-C9EB` [medium] AI could flip the democracy/totalitarianism balance because it can process the centralized information volume that overwhelmed human Soviet bureaucrats.
 - `INS-260323-38EC` [medium] Hotz argues humanity is more likely to be destroyed by AI-generated infinite TikTok that we can't look away from than by a hostile superintelligence — we'll simply stop reproducing.
 - `INS-260325-2C31` [medium] AI should be understood as alien intelligence because it generates genuinely unpredictable ideas, not just automates human ones.
@@ -32,7 +30,6 @@
 - `INS-260327-4E8E` [medium] If AI models in datacenters are like a 'country of geniuses,' the natural question is what their intent is — and this existential risk of autonomous AI action is the one area where limited US-China cooperation might be possible.
 - `INS-260403-1F58` [medium] The same explanatory gap that prevents us from verifying another human's color experience makes it fundamentally impossible to verify AI consciousness through behavioral testing alone.
 - `INS-260327-7F32` [medium] You can't train an intelligent system to trust you while it knows you can shut it off at any time - genuine trust requires mutual vulnerability.
-- `INS-260326-7B2C` [medium] Computational irreducibility guarantees that sufficiently complex AI systems will produce unintended consequences — alignment can be patched but never solved.
 - `INS-260326-73C0` [medium] Yudkowsky explains that a superintelligent AI need not be malicious to be lethal — virtually any terminal goal, even wanting to make 'tiny molecular squiggles,' convergently implies resource acquisition behavior that would destroy humanity as a side effect.
 - `INS-260322-F65F` [medium] AI outputs sound so complete and reasonable that users may believe they have the full picture on controversial topics — deliberately seeking opposing viewpoints is essential to counteract this.
 - `INS-260330-A812` [medium] Complete elimination of conflict or suffering may require totalitarian enforcement that produces worse outcomes than tolerating some controlled negativity.

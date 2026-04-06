@@ -48,10 +48,10 @@ stance: >-
   patterns, requiring ground-up infrastructure rebuilding.
 related:
   - INS-260321-3967
-  - INS-260404-8326
   - PRI-260328-DD90
   - INS-260327-0B69
   - INS-260327-FDF4
+  - PRI-260328-AC85
 evidence:
   - id: INS-260404-8326
     type: TRANSFERS_TO

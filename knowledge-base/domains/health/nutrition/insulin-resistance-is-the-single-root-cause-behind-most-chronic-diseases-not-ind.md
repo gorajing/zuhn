@@ -48,13 +48,12 @@ stance: >-
   cancers, and kidney disease all share insulin resistance as their common
   upstream cause rather than being separate diseases with separate causes.
 related:
-  - INS-260327-B51F
   - PRI-260325-9258
   - INS-260326-CA66
   - INS-260323-A2E5
   - INS-260327-3014
-  - INS-260325-6088
   - INS-260330-09B5
+  - INS-260325-6088
 evidence:
   - id: INS-260326-CA66
     type: SUPPORTS

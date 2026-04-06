@@ -45,7 +45,6 @@ stance: >-
   humans to do the work have stronger defensibility than those merely offering
   cheaper alternatives to existing labor.
 related:
-  - INS-260322-1280
   - INS-260327-8997
   - INS-260327-FCCF
   - PRI-260328-5CDE

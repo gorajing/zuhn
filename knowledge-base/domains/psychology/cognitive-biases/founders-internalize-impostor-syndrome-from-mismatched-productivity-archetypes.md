@@ -40,6 +40,7 @@ stance: >-
   Even successful founders feel like impostors because society's mental model of
   'real business' looks nothing like what actually works
 related:
+  - INS-260403-DAB1
   - INS-260404-312D
   - INS-260403-A99F
   - INS-260330-CC7D

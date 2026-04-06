@@ -48,9 +48,9 @@ stance: >-
   when conditions shift, and the cost of the workaround compounds over time
 related:
   - INS-260325-D033
+  - INS-260330-B27A
   - INS-260330-CA97
   - INS-260330-F222
-  - INS-260330-DF69
   - INS-260330-F5CF
   - INS-260403-304E
   - INS-260403-53C9

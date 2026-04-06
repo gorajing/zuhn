@@ -56,8 +56,6 @@ resolutions:
     precedent suggests.
 related:
   - INS-260322-8BD1
-  - INS-260325-4E96
-  - INS-260323-62F3
   - INS-260322-5790
   - PRI-260321-05B5
   - PRI-260328-C918
@@ -65,6 +63,8 @@ related:
   - PRI-260403-5FC4
   - INS-260325-C29B
   - INS-260323-5986
+  - INS-260327-969D
+  - INS-260327-0004
 stance: AI companies will be 'model busters'
 evidence:
   - id: INS-260322-8BD1

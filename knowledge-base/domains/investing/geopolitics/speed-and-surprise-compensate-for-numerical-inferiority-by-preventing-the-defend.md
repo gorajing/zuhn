@@ -50,7 +50,6 @@ stance: >-
   force to bear.
 related:
   - INS-260325-DDEE
-  - INS-260326-E411
   - INS-260327-048C
   - INS-260327-AC1B
   - INS-260327-DC45
@@ -59,6 +58,7 @@ related:
   - INS-260327-EF8C
   - INS-260327-A072
   - INS-260327-377A
+  - PRI-260403-B9A0
 evidence:
   - id: INS-260326-E411
     type: TRANSFERS_TO

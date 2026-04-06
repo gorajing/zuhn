@@ -48,9 +48,9 @@ stance: >-
 related:
   - INS-260323-0603
   - PRI-260327-0D6E
+  - PRI-260405-7F1E
   - INS-260323-C3FA
   - INS-260330-B437
-  - INS-260325-36F0
 evidence:
   - id: INS-260323-C3FA
     type: TRANSFERS_TO

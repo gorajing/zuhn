@@ -58,8 +58,8 @@ related:
   - INS-260327-10A2
   - INS-260330-5A82
   - INS-260327-B946
-  - INS-260330-660A
   - PRI-260324-90E8
+  - PRI-260328-70D9
   - INS-260329-825D
 ---
 Under Armour's first era was a masterclass in premium positioning: they charged $5-10 more than competitors, rarely discounted, and built retailer confidence by maintaining pricing integrity. Wholesalers appreciated the premium because it meant higher per-unit profits. Athletes appreciated the quality focus. The brand grew from zero to a billion in revenue through this disciplined approach.

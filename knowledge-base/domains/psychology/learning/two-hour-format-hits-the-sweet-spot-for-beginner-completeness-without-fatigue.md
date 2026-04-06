@@ -50,12 +50,11 @@ stance: >-
   sitting
 related:
   - INS-260329-6AF5
-  - INS-260329-50C0
-  - INS-260329-88B2
   - INS-260329-3332
   - INS-260329-69F0
   - INS-260329-18BB
   - INS-260329-31A2
+  - INS-260329-5C65
 evidence:
   - id: INS-260329-6AF5
     type: CHALLENGES

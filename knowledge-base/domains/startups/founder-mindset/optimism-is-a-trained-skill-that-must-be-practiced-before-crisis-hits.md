@@ -51,12 +51,13 @@ stance: >-
   pathway isn't established.
 related:
   - INS-260323-4D4E
-  - INS-260329-D1B8
+  - INS-260327-99CE
   - INS-260330-BCAF
   - INS-260402-A558
+  - INS-260402-7FCC
   - INS-260403-4102
-  - INS-260325-75C5
   - INS-260405-3C56
+  - PRI-260328-39FA
   - INS-260405-690F
 evidence:
   - id: INS-260323-4D4E

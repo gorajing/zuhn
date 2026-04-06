@@ -36,9 +36,9 @@ stance: >-
 related:
   - INS-260325-61A7
   - INS-260327-368C
-  - INS-260327-F8BF
   - INS-260327-C782
   - INS-260327-E121
   - INS-260327-1F6E
+  - PRI-260328-E3A7
 ---
 Most Americans consume far less potassium than the 4700mg daily requirement, and this deficiency drives hypertension, arrhythmia, and increased stroke risk more than sodium excess

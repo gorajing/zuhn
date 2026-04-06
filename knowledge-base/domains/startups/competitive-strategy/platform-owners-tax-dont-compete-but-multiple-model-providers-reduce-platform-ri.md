@@ -47,15 +47,15 @@ resolutions:
     their feet.
 related:
   - INS-260321-21BE
+  - PRI-260405-6216
+  - PRI-260405-BFAC
   - PRI-260403-5DEA
   - PRI-260328-82BE
-  - INS-260327-7C67
-  - INS-260403-1258
   - PRI-260324-DE71
   - INS-260327-7D53
-  - INS-260327-F996
   - INS-260330-57BB
   - INS-260330-7220
+  - INS-260403-1258
 stance: >-
   Unlike Windows' 95% monopoly which crushed VisiCalc/Lotus, having 5+ model
   providers means AI startups face taxation risk, not existential platform...

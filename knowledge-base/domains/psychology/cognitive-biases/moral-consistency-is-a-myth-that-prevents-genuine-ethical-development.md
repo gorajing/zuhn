@@ -50,7 +50,7 @@ related:
   - INS-260325-C2BD
   - INS-260330-6D13
   - INS-260330-7E61
-  - INS-260327-71A5
+  - INS-260326-73F4
 ---
 Most people believe they have consistent moral principles. Thought experiments consistently reveal they don't: utilitarian in some situations, deontological in others, self-serving in a third. The contradiction isn't a failure - it's the human condition.
 

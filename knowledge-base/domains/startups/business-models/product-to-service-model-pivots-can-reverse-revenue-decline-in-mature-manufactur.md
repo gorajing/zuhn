@@ -54,10 +54,10 @@ related:
   - INS-260322-837A
   - INS-260323-BF81
   - INS-260329-B194
+  - INS-260330-57BB
   - INS-260403-363C
   - INS-260403-5D89
   - INS-260403-101D
-  - INS-260405-39F3
   - INS-260330-DC0D
 ---
 When low-cost international competition threatened Hilti's power tool business after 2013, the company didn't respond with cost-cutting or incremental product improvements. Instead, it reframed its entire business model from product manufacturer to service provider — 'tools as a service.' The result: net sales grew from CHF 4B to CHF 5.7B by 2018.

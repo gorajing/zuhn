@@ -50,9 +50,9 @@ resolutions:
 related:
   - INS-260403-B6D9
   - INS-260327-F723
+  - PRI-260405-7F1E
   - INS-260330-3A3F
   - INS-260330-6300
-  - INS-260327-A458
 stance: Terms like 'liberal' and 'progressive' evolve rapidly in meaning
 evidence:
   - id: INS-260329-28A6

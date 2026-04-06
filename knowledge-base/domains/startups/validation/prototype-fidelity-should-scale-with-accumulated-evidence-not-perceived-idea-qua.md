@@ -51,16 +51,15 @@ stance: >-
   Teams should start with the roughest possible prototype and increase fidelity
   only as evidence accumulates, not as internal confidence grows.
 related:
-  - INS-260329-C66E
   - INS-260330-775F
   - INS-260403-A408
-  - INS-260403-45AA
   - INS-260403-BDCC
   - INS-260403-DFC3
   - INS-260403-0218
   - INS-260402-D0F3
   - INS-260402-89DE
   - INS-260325-0147
+  - INS-260330-984C
 evidence:
   - id: INS-260403-A408
     type: TRANSFERS_TO

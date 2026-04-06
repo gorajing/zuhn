@@ -55,6 +55,7 @@ stance: >-
   liver for gluconeogenesis — the association with fatigue is a classic
   correlation-causation error.
 related:
+  - INS-260325-61A7
   - INS-260325-9F4C
   - INS-260327-9F10
   - INS-260327-5DB4

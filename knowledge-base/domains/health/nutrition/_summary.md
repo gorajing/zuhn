@@ -1,6 +1,6 @@
 # Topic: nutrition
 
-> 274 insights
+> 258 insights
 
 - `INS-260327-9E9D` [high] 93 percent of Americans are metabolically unhealthy making metabolic dysfunction the root of most chronic disease
 - `INS-260330-3DC8` [high] Alcohol kills good gut bacteria while allowing bad bacteria to escape through a leaky gut wall, triggering liver inflammation that reaches the brain and paradoxically increases the desire to drink more.
@@ -31,7 +31,6 @@
 - `INS-260330-DA37` [high] A 35,000-person UK Biobank study found neocortical thinning even at 1-2 drinks per day average consumption.
 - `INS-260330-45D9` [high] Exercise helps maintain weight loss mainly by making your brain more responsive to fullness signals, not by burning significant calories.
 - `INS-260327-88E1` [high] Fast food contains dozens of undisclosed ingredients including seed oils, TBHQ, dimethylpolysiloxane, and artificial colors beyond listed menu items.
-- `INS-260327-A867` [high] Fasting insulin is the most important blood test most doctors never order
 - `INS-260330-18EE` [high] Weekend feeding window drift effectively jet-lags your metabolic system, offsetting weekday fasting benefits.
 - `INS-260330-9C40` [high] Subtle fidgety movements trigger local epinephrine release from neurons innervating fat, burning 800-2500 additional calories daily without formal exercise.
 - `INS-260327-0E50` [high] JAMA editorial summarizing 4 trials (12,000-13,000 participants each) found fish oil at 4g/day nearly doubles atrial fibrillation risk, with dose-related risk increases at lower doses.
@@ -46,7 +45,6 @@
 - `INS-260327-8ED1` [high] In-N-Out uses seed oils for cooking despite marketing a fresh quality image
 - `INS-260325-F8D2` [high] Industrial starch hides behind zero sugar labels while causing worse blood sugar spikes than glucose itself.
 - `INS-260330-0FA7` [high] The PADIRKO mouse (kidney-specific insulin receptor knockout) develops diabetic nephropathy with normal blood glucose — proving insulin itself, not glucose, drives metabolic organ damage.
-- `INS-260327-B51F` [high] Insulin resistance is the common root cause underlying obesity, diabetes, heart disease, and cancer
 - `INS-260325-11E0` [high] Insulin resistance is the single upstream cause of most chronic diseases — treating them separately misses the shared root.
 - `INS-260325-A03D` [high] Reducing meals to 1-2 per day lowers insulin more than food quality changes alone because every eating event spikes insulin.
 - `INS-260327-29E1` [high] Isolated vitamins without cofactors create imbalances and deplete companion nutrients
@@ -55,18 +53,15 @@
 - `INS-260327-9542` [high] Liver is the single most nutrient-dense food on earth containing virtually every essential vitamin and mineral
 - `INS-260327-4B8B` [high] Low-fat diet foods are particularly dangerous for diabetics because fat is replaced with sugar and starch
 - `INS-260325-4FB1` [high] Magnesium prevents kidney stones by controlling calcium — deficiency lets calcium bind with oxalates to form stones.
-- `INS-260327-F8BF` [high] Magnesium deficiency presents as muscle cramps insomnia anxiety and heart palpitations before blood tests show it
 - `INS-260327-33F7` [high] Target now carries grass-fed ground beef, pasture-raised eggs, organic dairy, and quality butter, making animal-based eating accessible at mainstream retailers nationwide.
 - `INS-260327-F103` [high] Maltodextrin has a higher glycemic index than table sugar and is hidden in 60 percent of processed foods
 - `INS-260327-61F5` [high] Testing reveals many popular sea salts have significantly elevated lead and heavy metal levels; always verify certificates of analysis and choose brands with documented low contamination.
 - `INS-260327-8431` [high] Medical schools train doctors in pharmaceutical symptom management with virtually no nutrition education, making them structurally unable to address the dietary root causes of most chronic disease.
 - `INS-260325-81BD` [high] Metabolic disease is cells starving amid abundant fuel because insulin resistance locks the door to energy access.
-- `INS-260327-C19C` [high] Metabolic health means seamlessly switching between glucose and fat burning modes -- constant snacking prevents this by keeping insulin elevated and blocking the fat-burning switch.
 - `INS-260327-1A07` [high] Modern commercial bread contains glyphosate residues, bromate, seed oils, and added sugars beyond just gluten
 - `INS-260325-8AB8` [high] Most bottled water contains microplastics from packaging — only glass spring water or reverse osmosis is genuinely clean.
 - `INS-260327-44CC` [high] Most commercial beverages contain harmful additives: sodas have HFCS, energy drinks have artificial ingredients, pasteurized juices have added sugars, and tap water contains fluoride and chlorine byproducts.
 - `INS-260327-B332` [high] Most commercial olive oils are adulterated with cheaper seed oils or oxidized from improper handling; independent testing reveals widespread fraud in the olive oil industry.
-- `INS-260327-4CF4` [high] Most commercial yogurt is a sugar-laden pasteurized product with dead probiotics that harms rather than helps gut health
 - `INS-260325-E538` [high] Most store yogurt is sugar-loaded with dead probiotics — only raw, unsweetened, full-fat varieties provide health benefits.
 - `INS-260327-63DC` [high] Most multivitamins contain synthetic forms, inadequate doses, and harmful fillers that provide no benefit
 - `INS-260327-3586` [high] Conventional magnesium sources like spinach, almonds, and grains contain oxalates and phytic acid that bind magnesium and prevent absorption, making meat, milk, and coconut water superior sources.
@@ -126,7 +121,6 @@
 - `INS-260327-7F98` [high] Three to four eggs daily provide essential choline and nutrients without increasing cardiovascular risk
 - `INS-260327-4F53` [high] Trans fats and hydrogenated oils are the most dangerous dietary fats disrupting cell membranes at the molecular level
 - `INS-260325-5D71` [high] Turmeric curcumin matches ibuprofen for pain relief in clinical trials without the liver and gut damage.
-- `INS-260325-8FEF` [high] Junk food danger is the starch-seed oil-sugar triad heated together, not any single ingredient.
 - `INS-260327-3C60` [high] Ultra-processed foods combine fat and sugar in ratios that never exist in nature, hitting a mathematically optimized 'bliss point' that short-circuits the brain's fullness signal and creates drug-like dopamine responses.
 - `INS-260327-29F2` [high] Vegan diets cannot provide multiple nutrients found exclusively in animal foods
 - `INS-260325-EDC8` [high] Waking at 2-3AM is a cortisol spike from dropping blood sugar — eating more fat at dinner prevents it.
@@ -142,7 +136,6 @@
 - `INS-260327-1F6E` [medium] Anxiety is frequently driven by vitamin B1 deficiency, gut dysbiosis, or blood sugar instability rather than purely psychological causes
 - `INS-260325-600C` [medium] Chronic anxiety is often B1 deficiency impacting the autonomic nervous system — not a psychological disorder requiring SSRIs.
 - `INS-260325-EEE7` [medium] Apple cider vinegar at 10 cents per day stabilizes blood sugar, aids digestion, and enhances mineral absorption via acetic acid.
-- `INS-260327-244B` [medium] Arthritis inflammation is driven by specific foods including seed oils, gluten, sugar, and nightshades
 - `INS-260325-0400` [medium] Joint inflammation starts with ER stress in cartilage cells before mitochondrial damage, making it the upstream target.
 - `INS-260327-5827` [medium] Atherosclerosis requires multiple factors including LDL oxidation, inflammatory signaling, and immune activation -- simply having high LDL levels is insufficient to cause plaque formation.
 - `INS-260327-F663` [medium] Authentic high-quality olive oil requires third-party testing for polyphenols and harvest date verification
@@ -151,8 +144,6 @@
 - `INS-260325-3FD3` [medium] Burning feet is usually B1/B12 deficiency not permanent nerve damage — supplementation reverses it before nerves are destroyed.
 - `INS-260327-368C` [medium] Burning feet syndrome is typically B1 deficiency or insulin-driven neuropathy not structural nerve damage
 - `INS-260327-3EEF` [medium] C15 (pentadecanoic acid) from dairy fat inversely correlates with ferroptosis and protects cell membranes from seed oil-induced oxidative damage; optimal levels are 0.4-0.64% of cell membrane fatty acids.
-- `INS-260327-BEF6` [medium] Calorie counting is the worst weight loss advice because insulin not calories controls fat storage
-- `INS-260327-0D7C` [medium] When eating nutrient-dense whole foods, natural satiety signals regulate calorie intake without counting; food quality determines appetite more than willpower.
 - `INS-260325-FD12` [medium] Cancer cells cannot burn ketones so ketogenic diet and fasting selectively starve tumors while feeding healthy cells.
 - `INS-260325-4E88` [medium] Candida feeds on sugar and thrives in low acid — cutting sugar and restoring stomach acid eliminates it faster than antifungals.
 - `INS-260327-F958` [medium] Carbohydrate restriction suppresses thyroid hormones (the body's metabolic thermostat), reducing metabolic rate and making long-term leanness harder to maintain.
@@ -181,21 +172,18 @@
 - `INS-260327-CF14` [medium] Frequent small meals -- the standard diabetic advice -- worsen blood sugar by keeping insulin chronically elevated
 - `INS-260327-A7D0` [medium] Gallbladder removal eliminates critical bile concentration causing lifelong fat malabsorption and nutrient deficiency
 - `INS-260327-AEF6` [medium] Government health spending is ineffective without addressing food supply quality at the policy level
-- `INS-260327-5D5D` [medium] Grass-fed beef tallow contains high stearic acid (activates mitochondria), only 1-2% linoleic acid, and fat-soluble vitamins E and K2 -- making it the optimal cooking and dietary fat.
 - `INS-260327-77B7` [medium] Grass-finished beef has superior nutrition to grass-fed with grain finish visible in fat color
 - `INS-260327-F2E2` [medium] Gut health declines after 40 primarily from reduced stomach acid enzyme production and microbiome diversity loss
 - `INS-260327-ED21` [medium] Studies show all androgenic alopecia patients have deficiencies in zinc, copper, magnesium, selenium, B12, E, D, and folate -- nutrients best absorbed from animal foods due to phytic acid blocking plant-source absorption.
 - `INS-260327-D17A` [medium] Hair loss reversal requires addressing zinc, biotin, iron, and vitamin D deficiencies alongside hormonal and gut health
 - `INS-260327-D6E0` [medium] Heart-strengthening foods center on potassium-rich vegetables, omega-3 sources, and CoQ10 from organ meats
 - `INS-260327-9EBA` [medium] Heart surgeons increasingly recognize metabolic health markers as more important than LDL for cardiac risk
-- `INS-260327-7BB0` [medium] Heartburn is caused by insufficient stomach acid not excess acid making antacids counterproductive
 - `INS-260325-7301` [medium] Heartburn is low stomach acid causing food fermentation — antacids reduce acid further and make the problem progressively worse.
 - `INS-260327-A17A` [medium] High blood pressure is driven by insulin resistance and processed food sodium rather than dietary salt from whole foods
 - `INS-260327-C010` [medium] Medical literature shows honey improves insulin sensitivity and testosterone levels, distinguishing it from isolated sucrose which lacks honey's 300+ bioactive compounds.
 - `INS-260327-C8EB` [medium] Humans convert only 1% of fructose to fat via de novo lipogenesis, and harmful fructose effects in studies are driven by endotoxin from isolated fructose feeding, not fructose itself.
 - `INS-260327-7B16` [medium] Hunter-gatherers surviving childhood regularly lived to 68-78 years without chronic disease; the 30-40 year average lifespan is skewed by high infant and childhood mortality.
 - `INS-260325-0124` [medium] Cellulite is estrogen-driven — cruciferous vegetables with DIM metabolize excess estrogen more effectively than spot exercises.
-- `INS-260327-0931` [medium] Intermittent fasting activates stem cell regeneration and immune system reset after 48-72 hours
 - `INS-260327-3D69` [medium] Keto plateaus are usually caused by hidden carbs excess protein or cortisol from stress and poor sleep
 - `INS-260330-C9CA` [medium] A patient with schizoaffective disorder who failed 17 medications achieved remission of hallucinations and delusions on a ketogenic diet, losing 160 pounds and gaining independent living.
 - `INS-260327-FF86` [medium] Short-term ketogenic diets impair bone health markers, elevate stress hormones, and suppress thyroid function -- the body's metabolic thermostat.
@@ -226,7 +214,6 @@
 - `INS-260327-1439` [medium] Proposed legislation threatens to criminalize sharing health information that contradicts pharmaceutical interests
 - `INS-260327-370A` [medium] Prostate enlargement responds to zinc supplementation, saw palmetto, and estrogen reduction
 - `INS-260329-965A` [medium] Design every meal around a single protein target (~100g) while treating carbs and fat as optional additions rather than required components.
-- `INS-260329-7EEF` [medium] Compare any food's protein density against a pure protein scoop (~120cal for 24g) to quickly evaluate whether it's a lean source.
 - `INS-260325-DC90` [medium] Coffee borrows energy from stress hormones — quitting for 30 days reveals true energy levels and allows adrenal recovery.
 - `INS-260327-BA5B` [medium] Raw and fermented cheeses retain beneficial bacteria and enzymes destroyed by pasteurization
 - `INS-260325-7F1B` [medium] Raw grass-fed cheese retains live enzymes, probiotics, and K2 that pasteurization destroys — nutritionally superior despite regulatory barriers.
@@ -243,13 +230,10 @@
 - `INS-260327-8048` [medium] Soy protein isolate is the worst protein source due to phytoestrogens hexane processing and GMO contamination
 - `INS-260327-B1A8` [medium] Specific food cravings and physical signs are reliable indicators of nutrient deficiencies
 - `INS-260327-515F` [medium] Sprouts offers competitive grass-fed and organic options at lower prices than Whole Foods
-- `INS-260327-AF60` [medium] Starting mornings with juice, cereal, or coffee on empty stomach spikes insulin and stresses the liver
 - `INS-260327-940C` [medium] Statin side effects including muscle pain cognitive decline and diabetes risk are systematically underreported
 - `INS-260327-E245` [medium] Statins are the most overprescribed medication based on manipulated risk statistics and industry influence
 - `INS-260327-4C6D` [medium] Synthetic B vitamins particularly cyanocobalamin and folic acid can worsen nerve pain by blocking receptors
-- `INS-260325-EDE1` [medium] Saladino raised testosterone from 500 to 857 at age 48 through 5 natural interventions — no TRT needed.
 - `INS-260329-7E0A` [medium] Hormozi's layering cereal on top (not mixing), keeping cream cheese cold separately from hot bread, and mashing salmon into bite-sized pieces are food UX optimizations that make the difference between eating something once and eating it for years.
-- `INS-260329-2D0B` [medium] Layer crunchy ingredients on top of wet bases bite-by-bite rather than mixing them in, preserving texture contrast that makes simple meals feel restaurant-quality.
 - `INS-260325-7EAC` [medium] Saladino's animal-based diet: organ meats + raw dairy + fruit + honey as the evolutionary human diet, eliminating grains and seed oils.
 - `INS-260327-83E1` [medium] The best heart-protective meal combines potassium-rich vegetables, quality protein, and healthy fats
 - `INS-260327-13A9` [medium] The number one animal-based diet mistake is eating too few carbohydrates from fruit and honey, causing elevated cortisol, suppressed thyroid, and lower testosterone.

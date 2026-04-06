@@ -44,11 +44,11 @@ resolutions:
     fidelity. This has implications for anyone building immersive experiences:
     invest in motion and interaction quality before visual polish.
 related:
-  - INS-260323-5609
   - INS-260325-D82A
   - INS-260330-BE4D
   - INS-260330-AB5D
   - INS-260403-AFBB
+  - INS-260403-280B
   - INS-260327-671E
   - INS-260327-A43C
   - INS-260330-1114

@@ -48,7 +48,6 @@ stance: >-
   A shared structured methodology equalizes innovation capability across company
   sizes more than budget or headcount does
 related:
-  - INS-260403-F87C
   - INS-260403-3A7A
   - INS-260403-2BEE
   - PRI-260328-935A

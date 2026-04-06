@@ -49,10 +49,10 @@ stance: >-
   differentiator for early infrastructure investing.
 related:
   - INS-260330-DDF0
+  - PRI-260405-BFAC
   - INS-260403-C032
   - INS-260403-9DC6
   - INS-260403-D198
-  - INS-260403-5BFB
 evidence:
   - id: INS-260330-DDF0
     type: TRANSFERS_TO

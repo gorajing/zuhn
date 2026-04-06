@@ -1,10 +1,9 @@
 # Topic: hiring
 
-> 43 insights
+> 38 insights
 
 - `INS-260330-4341` [high] The speed at which a skill can be taught is inversely correlated with its long-term career defensibility.
 - `INS-260330-1B37` [high] Airbnb spent 5 months hiring their first employee and only hired two people in year one because early hire quality is existential.
-- `INS-260330-2691` [high] Mediocre early hires poison culture so severely that Altman recommends losing customers over hiring suboptimal people.
 - `INS-260330-7E58` [high] In-N-Out pays managers $160K+ with full benefits, achieving 14-year average tenure in an industry with 150%+ annual turnover.
 - `INS-260403-E497` [high] Screening for character at entry creates compounding returns through the quality of the network that forms around your organization.
 - `INS-260403-7F6F` [high] Y Combinator found that college prestige adds almost no predictive value when evaluating startup founders against direct assessment.
@@ -23,7 +22,6 @@
 - `INS-260330-C7FF` [high] The most successful YC companies gave generous equity to early employees (~10% for first 10) while fighting to minimize investor dilution.
 - `INS-260402-AA3F` [high] Great hackers cluster together, so talent attraction scales with the square of environment quality, not linearly.
 - `INS-260403-A136` [high] Startup headcount growth systematically dilutes independent-mindedness because conventional thinkers vastly outnumber independent ones.
-- `INS-260330-B525` [high] PolyAI learned that their best performers were always candidates where at least one interviewer was passionately enthusiastic, not candidates with uniformly good but unremarkable scores.
 - `INS-260402-9B06` [high] Industries with easy firing (film, sports, academia pre-tenure) consistently outperform those with near-impossible firing (civil service, unionized manufacturing).
 - `INS-260403-D51E` [high] Mean founders can only hire people who need the job, not people who choose the job, which is lethal in environments where talent quality is the primary competitive variable.
 - `INS-260403-C977` [high] Weak hires don't just underperform—they force you to hire more people, making the organization bigger and thus structurally slower.
@@ -31,14 +29,11 @@
 - `INS-260403-5F3E` [high] Hiring too fast is by far the biggest killer of startups that raise money, as large teams are the effect of growth, not the cause.
 - `INS-260403-22DF` [high] The best programmers can work anywhere, so perceived corporate evil selectively filters out exactly the talent you most need.
 - `INS-260330-9F1F` [high] Before interviewing anyone, talk to known world-class practitioners to learn what great looks like — learning during interviews is prohibitively expensive.
-- `INS-260402-73D9` [high] Glanville resisted 'butts in seats' pressure and held out for luminaries in each role, arguing that in a 10-30 person company a single person can make all the difference.
 - `INS-260404-FE95` [high] Google proved that concentrating top talent and measuring results outperforms traditional business structure in the early stages.
 - `INS-260403-D966` [high] Good programmers want to work with other good programmers, so talent decline is a one-way ratchet.
 - `INS-260402-33CA` [high] Technology stack decisions double as social decisions that determine the caliber of talent you can attract.
 - `INS-260330-E126` [high] Hire people who are 'animals' — so obsessively good at their job that they cross from professional into obsessive.
 - `INS-260330-BCC2` [high] Hire undervalued talent — people early in careers or overlooked by the market — rather than competing for proven stars at big companies.
-- `INS-260404-0572` [medium] Costco pays $21/hour (2x retail average) with superior benefits and gets employees who are 3x more productive, making the premium investment net-positive.
-- `INS-260404-20AD` [medium] Costco pays $21/hour (2x retail average) and gets 3x productivity, suggesting high wages are an investment with positive ROI in high-volume operations.
 - `INS-260403-79AD` [medium] Buying Web 2.0 startups would have cost Microsoft less than Facebook and restored their competitiveness, but their culture couldn't accept it.
 - `INS-260403-D531` [medium] College marks the transition point where signaling compliance stops working and genuine ability becomes the only reliable path forward.
 - `INS-260330-D52B` [medium] Mass learn-to-code campaigns flood the junior market while senior scarcity persists, compressing entry wages without solving the actual talent shortage.

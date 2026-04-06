@@ -52,6 +52,7 @@ stance: >-
   catalysts at best; the self-sustaining driver is purely the density of
   startup-minded people
 related:
+  - INS-260323-BD20
   - INS-260327-1393
   - INS-260327-6B02
   - INS-260327-8D86
@@ -61,7 +62,6 @@ related:
   - INS-260403-46B2
   - INS-260403-2759
   - INS-260403-9A4C
-  - INS-260322-CFB1
 evidence:
   - id: INS-260327-6B02
     type: CHALLENGES

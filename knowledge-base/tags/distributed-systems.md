@@ -1,6 +1,5 @@
 # Tag: distributed-systems
 
-- `INS-260329-5DB9` The CAP theorem proves distributed systems can only guarantee two of three properties: consistency, availability, and partition tolerance.
 - `INS-260329-148D` AWS's multi-AZ and multi-region architecture demonstrates that true high availability requires geographic distribution, but each level of distribution multiplies data consistency complexity.
 - `INS-260329-C7B8` Smart order routers evaluate multiple exchanges in real-time based on liquidity, latency, fill probability, and rebate structures.
 - `INS-260330-82B2` The stack (short-lived, auto-managed) vs heap (long-lived, manually managed) split mirrors stateless vs stateful architecture.

@@ -45,11 +45,11 @@ stance: >-
   Embedding small complete projects between concept blocks produces better
   retention than teaching all concepts first and building projects after
 related:
-  - INS-260329-8330
-  - INS-260329-3263
+  - INS-260329-656B
   - INS-260329-E402
   - PRI-260405-71C5
-  - INS-260329-656B
+  - INS-260329-E6AF
+  - PRI-260403-0509
 evidence:
   - id: INS-260329-8330
     type: SUPPORTS

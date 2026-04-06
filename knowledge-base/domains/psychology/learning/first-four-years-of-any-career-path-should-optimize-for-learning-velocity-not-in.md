@@ -51,7 +51,6 @@ stance: >-
   treating the first four years as paid education rather than earning years
   compounds dramatically over a lifetime.
 related:
-  - INS-260329-EFA8
   - INS-260329-50BD
   - INS-260329-32A4
   - INS-260329-9F81

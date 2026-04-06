@@ -48,12 +48,13 @@ stance: >-
   predictive effects because situational demands vary too much — the real
   predictor is the meta-skill of flexibly adapting strategy to context.
 related:
-  - INS-260325-75C5
   - PRI-260328-39FA
   - INS-260325-F707
   - INS-260325-3754
-  - INS-260325-2052
+  - PRI-260323-847E
   - INS-260330-5F6C
+  - INS-260325-C2DA
+  - PRI-260328-27F7
 evidence:
   - id: INS-260327-A00A
     type: TRANSFERS_TO

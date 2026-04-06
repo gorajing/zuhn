@@ -49,15 +49,15 @@ stance: >-
   destroys the subscription value proposition
 related:
   - INS-260323-F753
+  - INS-260322-3259
   - INS-260327-048B
+  - INS-260329-6B3C
   - INS-260330-8FEC
   - INS-260330-77D1
   - INS-260403-99DE
-  - INS-260404-837E
-  - INS-260403-8757
   - INS-260405-051E
-  - INS-260403-BF47
-  - INS-260404-60D6
+  - INS-260404-EAA7
+  - INS-260404-B8AE
 evidence:
   - id: INS-260323-F753
     type: SUPPORTS

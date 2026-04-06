@@ -47,8 +47,8 @@ related:
   - INS-260323-DA91
   - INS-260322-A928
   - INS-260330-1C90
-  - INS-260329-5C25
   - INS-260327-70DF
+  - INS-260327-8521
 stance: >-
   Optimizing for stewardship (what you do and serve) rather than status (titles
   and positions) produces both deeper fulfillment and better career out...

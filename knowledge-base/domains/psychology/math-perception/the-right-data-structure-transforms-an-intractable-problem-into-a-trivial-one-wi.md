@@ -56,7 +56,6 @@ stance: >-
   orders of magnitude — from O(n²) to O(n log n) or O(n) — proving that how you
   represent a problem matters more than how hard you work on it.
 related:
-  - INS-260329-A8D3
   - INS-260330-1E5E
   - INS-260329-FAE2
   - INS-260325-4CA1

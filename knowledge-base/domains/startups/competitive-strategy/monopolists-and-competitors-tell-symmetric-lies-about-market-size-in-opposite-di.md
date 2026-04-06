@@ -52,16 +52,16 @@ stance: >-
   The apparent similarity between monopolies and competitive businesses is
   manufactured by systematic incentive-driven lying about market definitions
 related:
-  - INS-260324-6017
   - INS-260324-8C6F
   - INS-260321-5C24
   - INS-260321-141B
   - INS-260327-C6DC
   - INS-260327-EE5E
+  - INS-260327-22E8
+  - INS-260327-5D01
   - INS-260327-325B
   - INS-260327-2A58
   - PRI-260328-33E5
-  - INS-260329-B6DF
 evidence:
   - id: INS-260403-D500
     type: SUPPORTS

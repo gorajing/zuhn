@@ -51,15 +51,15 @@ stance: >-
   more valuable than thoroughly explaining every aspect of what you do
 related:
   - INS-260328-70D3
-  - INS-260330-2784
   - INS-260403-81CE
   - INS-260403-2A1D
   - INS-260404-B87E
-  - INS-260403-BDBE
   - INS-260403-F7DD
-  - INS-260403-2FE1
-  - INS-260403-85F1
+  - INS-260404-D242
+  - INS-260403-87CD
   - INS-260403-FC45
+  - INS-260403-21C4
+  - INS-260404-8D37
 evidence:
   - id: INS-260328-70D3
     type: CHALLENGES

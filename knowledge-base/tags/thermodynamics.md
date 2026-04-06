@@ -1,7 +1,6 @@
 # Tag: thermodynamics
 
 - `INS-260330-1084` A photon's journey from solar fusion through photosynthesis to cellular ATP involves at least 6 major conversion steps, each losing energy — making biological systems inherently energy-constrained despite abundant solar input.
-- `INS-260330-F76B` Picosecond laser pulses heat one side of an ink particle so fast that thermal expansion on that side rips it apart before the other side warms up.
 - `INS-260330-F671` The electron transport chain extracts energy through a cascade of small reactions rather than one explosive step — a pattern that maps directly to sustainable human productivity.
 - `INS-260330-CA62` Entropy measures how spread out energy is, not how 'messy' a system looks.
 - `INS-260330-833E` Jeremy England proposes that life emerges because self-replicating structures are better at dissipating energy gradients than inert matter.

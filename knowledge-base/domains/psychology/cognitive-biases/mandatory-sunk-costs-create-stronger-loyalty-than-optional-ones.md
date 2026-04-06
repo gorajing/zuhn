@@ -49,11 +49,11 @@ stance: >-
   lock-in than offering it as an optional upgrade, because the customer cannot
   rationalize non-participation
 related:
-  - INS-260403-546E
   - INS-260403-CE5F
   - INS-260404-ED19
-  - INS-260404-B46E
-  - INS-260404-2D53
+  - INS-260404-13F1
+  - PRI-260405-548B
+  - INS-260403-9104
 ---
 Both Costco and Amazon Prime use upfront fees to trigger sunk-cost thinking — once you've paid, you feel compelled to shop there to 'get your money's worth.' But there's a critical difference in how each deploys this mechanism. Amazon Prime is optional, meaning users self-select based on rational calculation of whether the fee pays for itself. This creates loyalty but doesn't fundamentally alter behavior for non-subscribers.
 

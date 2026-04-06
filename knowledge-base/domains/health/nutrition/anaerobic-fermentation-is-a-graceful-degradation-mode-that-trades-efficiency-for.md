@@ -48,11 +48,12 @@ stance: >-
   Cells sacrifice 95% of potential ATP yield by switching to fermentation under
   oxygen debt, but this keeps the system running rather than halting entirely
 related:
+  - INS-260325-81BD
   - INS-260330-AB3C
   - INS-260405-C497
-  - INS-260404-47F5
   - INS-260404-8256
   - INS-260404-AE3C
+  - INS-260405-FBD7
 evidence:
   - id: INS-260330-6ECA
     type: SUPPORTS

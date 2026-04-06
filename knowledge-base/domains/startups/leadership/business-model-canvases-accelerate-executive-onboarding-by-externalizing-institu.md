@@ -57,7 +57,6 @@ related:
   - INS-260403-F7DD
   - INS-260403-21C4
   - INS-260403-3346
-  - INS-260404-BA8B
 evidence:
   - id: INS-260320-C65B
     type: TRANSFERS_TO

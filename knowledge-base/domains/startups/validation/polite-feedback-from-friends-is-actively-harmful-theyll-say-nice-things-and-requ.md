@@ -53,9 +53,9 @@ related:
   - INS-260330-2576
   - INS-260403-B635
   - INS-260330-E263
-  - INS-260327-3574
-  - INS-260327-FC5D
   - INS-260327-8B1A
+  - INS-260327-52CF
+  - INS-260329-A7E2
 stance: >-
   Friends and acquaintances will give positive feedback and feature requests not
   because they want your product, but because they want to be nice to ...

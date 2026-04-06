@@ -58,10 +58,10 @@ stance: >-
   because it decouples the rate and location of production from consumption.
 related:
   - INS-260330-20FD
-  - INS-260404-9428
   - INS-260405-C780
   - INS-260405-F3C0
   - PRI-260403-181B
+  - INS-260404-3500
 evidence:
   - id: INS-260405-F3C0
     type: REFINES

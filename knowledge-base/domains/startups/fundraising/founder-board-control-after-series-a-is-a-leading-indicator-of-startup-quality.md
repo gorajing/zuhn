@@ -45,13 +45,12 @@ stance: >-
   highest-performing ones, creating a self-reinforcing selection effect
 related:
   - INS-260328-372B
-  - INS-260330-B09B
   - INS-260403-1904
   - PRI-260403-26B9
+  - PRI-260405-E9C5
   - INS-260402-E140
   - INS-260403-57FF
   - INS-260403-C949
-  - INS-260404-2250
 evidence:
   - id: INS-260404-2250
     type: SUPPORTS

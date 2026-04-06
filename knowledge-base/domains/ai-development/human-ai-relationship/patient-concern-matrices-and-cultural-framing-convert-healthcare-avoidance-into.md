@@ -47,8 +47,8 @@ stance: >-
 related:
   - INS-260330-568F
   - INS-260330-9351
+  - PRI-260405-9D7B
   - INS-260405-85B5
-  - INS-260327-3574
   - INS-260330-3491
 ---
 David's team built patient archetypes with concern matrices that map what each patient actually cares about. For a 78-year-old Mexican grandmother who is the family matriarch, they don't frame healthcare as 'take care of yourself because you're older' but rather 'take care of yourself so you have more years with your grandson.' This reframing brought back patients who had stopped seeing their neurologists entirely. The principle extends beyond healthcare: AI systems that adapt their persuasion frame to individual motivation structures outperform those that use universal messaging. The World Economic Forum estimates AI will leave behind 5 billion people — culturally-adaptive framing is the mechanism to prevent that exclusion.

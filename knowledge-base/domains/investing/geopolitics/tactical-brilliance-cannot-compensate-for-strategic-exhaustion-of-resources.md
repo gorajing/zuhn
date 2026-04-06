@@ -52,8 +52,8 @@ related:
   - INS-260327-DEEB
   - INS-260327-B038
   - INS-260327-2964
+  - PRI-260405-C47B
   - PRI-260328-43D8
-  - PRI-260328-65EC
   - INS-260327-64A5
 ---
 The 1814 Campaign of France showcased Napoleon at his tactical best: using interior lines, he defeated larger coalition forces at Champaubert, Montmirail, and Montereau in rapid succession. Militarily, it was masterful. But France was drained — 20 years of continuous war had exhausted its manpower, treasury, and national will. Conscripts were deserting, taxes were unpayable, and allies were defecting. No tactical victory could replenish these depleted fundamentals.

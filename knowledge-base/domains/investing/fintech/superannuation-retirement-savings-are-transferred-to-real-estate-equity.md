@@ -47,11 +47,11 @@ stance: >-
   costs force retirees to liquidate retirement accounts to pay off mortgages,
   converting retirement security into real estate support.
 related:
-  - INS-260329-7C1D
   - INS-260330-C1EA
   - INS-260327-004B
   - INS-260329-28B0
   - INS-260329-C4A4
+  - PRI-260403-2927
 evidence:
   - id: INS-260329-7C1D
     type: CHALLENGES

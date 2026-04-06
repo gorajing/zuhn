@@ -55,11 +55,11 @@ stance: >-
   intuition.
 related:
   - INS-260330-B5BF
-  - INS-260330-2911
   - INS-260325-CC47
   - INS-260403-E8DD
   - INS-260402-D0F3
   - INS-260330-FCFA
+  - INS-260325-436A
 ---
 Graham's formulation — 'don't see purpose where there isn't' — implies that we do see purpose by default, which is the harder problem. The positive reframe 'see randomness' acknowledges this: it's not enough to avoid the error, you have to actively cultivate the competing perception.
 

@@ -48,11 +48,11 @@ stance: >-
   intermediary layers unlock disproportionate flexibility.
 related:
   - INS-260330-30E8
-  - INS-260404-F014
   - INS-260404-3500
   - INS-260405-F3C0
   - INS-260330-20FD
   - INS-260405-8E85
+  - INS-260330-1084
 evidence:
   - id: INS-260405-F3C0
     type: TRANSFERS_TO

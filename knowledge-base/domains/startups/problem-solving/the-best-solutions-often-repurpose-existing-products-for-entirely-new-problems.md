@@ -45,7 +45,6 @@ stance: >-
   solutions from scratch in most constraint-heavy environments
 related:
   - INS-260325-D033
-  - INS-260330-31A9
   - INS-260330-F8E7
   - INS-260330-E606
   - INS-260330-012D

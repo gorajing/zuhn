@@ -49,6 +49,7 @@ stance: >-
   mental model for entrepreneurship.
 related:
   - INS-260325-0921
+  - INS-260324-8C6F
   - INS-260323-3D7D
   - PRI-260322-9E36
   - INS-260329-59FF

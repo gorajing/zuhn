@@ -50,11 +50,13 @@ stance: >-
   builds software.
 related:
   - INS-260329-31A2
-  - INS-260329-88B2
   - INS-260403-6EA6
   - INS-260329-1028
   - INS-260403-449D
+  - INS-260329-69F0
+  - INS-260329-D0F4
   - INS-260329-6B2C
+  - INS-260329-DE17
 evidence:
   - id: INS-260329-31A2
     type: SUPPORTS

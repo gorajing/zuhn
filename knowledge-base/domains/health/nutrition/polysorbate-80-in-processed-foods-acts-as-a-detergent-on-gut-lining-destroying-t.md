@@ -41,8 +41,8 @@ stance: >-
 related:
   - INS-260325-A8E3
   - PRI-260325-4FD3
-  - INS-260327-4CF4
   - PRI-260328-97E0
   - INS-260330-F755
+  - INS-260330-3DC8
 ---
 Polysorbate 80, found in 60% of processed foods as an emulsifier, strips the protective mucus layer from intestinal walls like a detergent, increasing gut permeability and driving systemic inflammation

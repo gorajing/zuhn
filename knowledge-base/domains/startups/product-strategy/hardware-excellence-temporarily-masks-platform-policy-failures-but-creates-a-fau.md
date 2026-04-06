@@ -50,10 +50,10 @@ stance: >-
   debt that eventually outweighs product appeal.
 related:
   - INS-260329-CD02
-  - INS-260330-1B47
   - PRI-260403-2024
   - INS-260330-CCF0
   - PRI-260328-4CC0
+  - INS-260329-AA2C
 evidence:
   - id: INS-260329-CD02
     type: CHALLENGES

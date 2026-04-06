@@ -53,6 +53,7 @@ related:
   - INS-260323-3A54
   - INS-260327-6021
   - INS-260330-75B5
+  - INS-260327-D10B
 stance: >-
   Losing his father sobered McConaughey up to the 'mendacities' consuming his
   daily emotional energy, making him realize most anxieties are insignifi...

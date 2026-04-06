@@ -44,8 +44,8 @@ related:
   - INS-260327-90E8
   - INS-260320-A1D3
   - INS-260327-4669
-  - INS-260327-2BE1
   - INS-260330-410A
+  - INS-260403-0A1C
 stance: >-
   Higgsfield interviewed 8 creatives — all 8 gave identical feedback about
   camera controls, which became their breakout feature.

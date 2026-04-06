@@ -49,14 +49,14 @@ stance: >-
   of pitches that blur together and the first filter is simply being remembered
 related:
   - INS-260325-D82A
-  - INS-260330-2784
   - INS-260403-81CE
   - INS-260403-2A1D
   - INS-260403-F171
-  - INS-260403-BDBE
+  - INS-260404-D242
   - INS-260404-A526
   - INS-260404-96C6
   - INS-260405-5BD3
+  - INS-260405-E6F9
 evidence:
   - id: INS-260403-81CE
     type: TRANSFERS_TO

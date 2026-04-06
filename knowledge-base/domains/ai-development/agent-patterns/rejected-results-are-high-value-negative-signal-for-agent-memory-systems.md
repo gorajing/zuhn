@@ -46,10 +46,10 @@ stance: >-
   decision-making value than storing only successful outcomes
 related:
   - INS-260405-02BE
-  - INS-260402-3DBF
   - INS-260402-1D32
   - INS-260329-4842
-  - INS-260329-EECD
+  - INS-260330-82B5
+  - INS-260329-92E9
 evidence:
   - id: INS-260329-4842
     type: TRANSFERS_TO

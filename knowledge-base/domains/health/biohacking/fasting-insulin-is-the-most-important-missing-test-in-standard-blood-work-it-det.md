@@ -52,11 +52,11 @@ stance: >-
   which becomes elevated 15-20 years before glucose shows abnormality -- meaning
   most pre-diabetics are undetected because the wrong marker is being measured.
 related:
-  - INS-260327-A867
   - PRI-260328-F6DE
   - PRI-260328-7AF5
   - PRI-260325-1C61
   - PRI-260328-AF97
+  - INS-260325-B393
   - INS-260327-9EBA
   - INS-260327-B93E
 ---

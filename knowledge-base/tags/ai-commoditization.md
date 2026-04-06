@@ -1,6 +1,5 @@
 # Tag: ai-commoditization
 
-- `INS-260329-EC30` AI commoditizes synthesis; human judgment becomes the scarce, premium resource
 - `INS-260403-A101` AI will commoditize taste (evaluating what worked before) just as it commoditized craft, leaving forward-looking expression as the only durable human advantage.
 - `INS-260405-DFFB` AI commoditizes information synthesis, elevating human curatorial judgment to the primary value layer in media.
 - `INS-260329-7BA7` Internet value accrues to those who control the user relationship while commoditizing supply — now playing out in AI

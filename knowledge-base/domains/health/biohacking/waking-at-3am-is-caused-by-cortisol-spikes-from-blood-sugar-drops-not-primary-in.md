@@ -45,6 +45,5 @@ related:
   - PRI-260328-92EF
   - INS-260327-3D69
   - INS-260327-FC60
-  - INS-260327-20AF
 ---
 Consistent 3AM waking is typically triggered by blood sugar drops causing compensatory cortisol spikes, often from eating too many carbs at dinner or adrenal stress -- addressable through diet rather than sleep medication

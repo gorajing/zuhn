@@ -10,4 +10,3 @@
 - `INS-260327-5B13` There's a point where thinking deeper about life stops producing insights and starts producing paralysis - the curse of thinking too deeply is real.
 - `INS-260405-D606` Getting the problem statement right is not preliminary work — it is the core intellectual work.
 - `INS-260403-0218` Writing doesn't just express pre-formed ideas — it actively shapes and completes them during the process.
-- `INS-260403-B508` Some ideas are discovered through writing rather than conceived first and then written down, making writing skill a direct input to intellectual output.

@@ -1,7 +1,6 @@
 # Tag: decomposition
 
 - `INS-260330-4329` Linearity means you can analyze complex signals by analyzing their components separately — the results simply add up.
-- `INS-260329-9BA9` Related rates problems teach the transferable skill of decomposing interconnected changing quantities into solvable relationships via implicit differentiation.
 - `INS-260325-28AD` Decompose problems along their natural symmetries and math rewards you with simpler subproblems.
 - `INS-260330-D475` Math rewards you when your decomposition respects the symmetry of the problem — concentric rings for a circle, not random slices.
 - `INS-260330-24B6` A single gunshot underwater produces three physically independent phenomena (cavitation, gas trail, shock vapor), each governed by different equations.

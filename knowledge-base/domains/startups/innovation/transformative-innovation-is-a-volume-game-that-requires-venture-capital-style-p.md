@@ -46,11 +46,11 @@ stance: >-
   idea volume and accept that most explorations will fail, just like VCs accept
   most investments will lose money
 related:
-  - INS-260330-19F1
   - PRI-260403-7D53
   - INS-260403-E172
   - INS-260403-1358
   - PRI-260328-9EC9
   - INS-260403-0372
+  - INS-260405-7AE0
 ---
 Most large organizations run 15-20 exploratory ideas per year and expect transformative outcomes from that small pool. This pharmaceutical company recognized that transformative innovation follows the same statistical logic as venture capital: you cannot predict winners in advance, so you must invest in a large volume of bets and accept losses on most. They set a target of 150-200 ideas per year — a 10x increase — which demanded fundamentally different resource allocation, not just incremental process improvement. The implication for any organization seeking breakthrough innovation is that the bottleneck is rarely idea quality but idea volume and the willingness to let most explorations die without treating each death as a failure.

@@ -52,8 +52,8 @@ related:
   - INS-260321-D183
   - INS-260403-EEDF
   - INS-260325-BC2A
-  - INS-260330-CB30
   - PRI-260403-E097
+  - INS-260323-4D8D
 stance: >-
   Netanyahu's formula for Israel's GDP growth from $17K to $54K per capita: free
   market reforms plus a permanent pipeline of knowledge workers from m...

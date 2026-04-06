@@ -50,12 +50,11 @@ stance: >-
   (bureaucracy, politics, existing customers) that require purpose-built
   frameworks.
 related:
-  - INS-260403-F87C
   - INS-260403-0AF7
   - INS-260403-9AB5
-  - INS-260405-66A1
   - INS-260403-3326
   - INS-260403-DB22
+  - INS-260322-C472
   - INS-260403-F112
   - INS-260403-3A34
 evidence:

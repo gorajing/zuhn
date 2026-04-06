@@ -51,12 +51,13 @@ stance: >-
   familiar physical decay — one foot per year, one centimeter per year, one inch
   per ten thousand years.
 related:
-  - INS-260330-3363
-  - INS-260330-A5C4
+  - INS-260323-433B
+  - INS-260329-95EF
   - INS-260330-9935
   - INS-260403-4502
   - INS-260405-0184
   - INS-260330-4DC5
+  - INS-260327-EDE4
 evidence:
   - id: INS-260330-3363
     type: TRANSFERS_TO

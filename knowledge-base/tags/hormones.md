@@ -7,4 +7,3 @@
 - `INS-260327-E092` Store melatonin doses are vastly above physiologic levels; animal studies show gonad shrinkage at mega-doses, making natural melatonin production through blue light avoidance far preferable.
 - `INS-260330-DC78` The difference between 6x10 and 10x10 on compound lifts is the difference between a testosterone spike and a cortisol spike.
 - `INS-260327-D17A` Hair loss reversal requires addressing zinc, biotin, iron, and vitamin D deficiencies alongside hormonal and gut health
-- `INS-260330-FCB7` Kissing likely evolved from kiss-feeding and persisted because saliva carries hormonal signals (like testosterone) that help assess mate compatibility.

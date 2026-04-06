@@ -52,6 +52,7 @@ stance: >-
   barbarism.
 related:
   - INS-260330-5A66
+  - INS-260330-5C80
   - INS-260330-F8B6
   - INS-260327-70DF
   - PRI-260405-0676

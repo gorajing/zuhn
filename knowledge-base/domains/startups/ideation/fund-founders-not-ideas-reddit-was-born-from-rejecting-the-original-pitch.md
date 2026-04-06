@@ -46,6 +46,7 @@ stance: >-
   ideas while mediocre founders fail even with good ones.
 related:
   - INS-260321-3521
+  - INS-260323-0277
   - INS-260328-896B
   - INS-260328-F301
   - INS-260328-6F5B
@@ -53,6 +54,7 @@ related:
   - INS-260403-45D5
   - INS-260403-71D1
   - PRI-260403-26B9
+  - INS-260405-76E4
 evidence:
   - id: INS-260328-896B
     type: SUPPORTS

@@ -1,6 +1,6 @@
 # Topic: math-perception
 
-> 55 insights
+> 51 insights
 
 - `INS-260325-03D5` [high] Hard problems yield to successive approximation converging on precision, not to brute-force exact computation.
 - `INS-260330-09AB` [high] For any convex 3D shape, averaging its shadow area over all orientations yields exactly one-quarter of its surface area — a powerful generalization beyond spheres.
@@ -31,13 +31,11 @@
 - `INS-260330-1609` [high] To extract Fourier coefficient c_n, you multiply by the inverse frequency to freeze the target vector and average away everything else — a pattern applicable far beyond mathematics.
 - `INS-260325-4677` [high] Hilbert's Hotel shows that a fully occupied infinite hotel can always accommodate more guests — infinity doesn't follow conservation rules.
 - `INS-260329-89CB` [high] Optimization reframes calculus from abstract computation to a practical framework for finding the best possible outcome under real-world constraints.
-- `INS-260329-FD7F` [high] Maximum and minimum values in optimization problems occur precisely where the derivative equals zero — where change momentarily stops.
 - `INS-260329-4092` [high] Setting the derivative to zero finds extrema faster than comparing every possible value — optimize by analyzing change rates, not outcomes.
 - `INS-260329-4986` [high] Union-find path compression flattens the tree during every find operation, making future lookups nearly O(1) amortized despite starting as O(n) worst-case.
 - `INS-260330-BFA1` [high] The Basel Problem proof works by treating 1/n² terms as lighthouse brightness, making the inverse square law a physical representation of the series.
 - `INS-260330-3819` [high] The Fourier Transform becomes intuitive when reframed as tracking the center of mass of a signal wound around a circle.
 - `INS-260325-5FE9` [high] When a problem reduces to summing many small rectangles, plotting them as area under a graph often reveals the answer visually.
-- `INS-260329-7510` [high] Related rates problems show that when one quantity changes, every connected quantity changes too, and calculus lets you compute exactly how fast.
 - `INS-260325-28AD` [high] Decompose problems along their natural symmetries and math rewards you with simpler subproblems.
 - `INS-260330-3C70` [high] The 3x+1 rule is trivially simple yet produces hailstone sequences that follow geometric Brownian motion — the same statistical pattern as stock market fluctuations.
 - `INS-260330-D475` [high] Math rewards you when your decomposition respects the symmetry of the problem — concentric rings for a circle, not random slices.
@@ -45,7 +43,6 @@
 - `INS-260329-8015` [high] The derivative at a point is defined as the limit of secant line slopes as the interval shrinks to zero — instantaneous rates are always constructed, never observed.
 - `INS-260330-579B` [high] Problems that seem hardest often have the shortest solutions — difficulty is a framing artifact, not an intrinsic property.
 - `INS-260329-94E6` [high] Switching data structures can transform an O(n²) problem into O(n log n) without changing the problem — representation is leverage.
-- `INS-260329-9CBB` [high] The squeeze theorem proves limits by showing a quantity is trapped between two converging bounds, teaching a general strategy of establishing upper and lower bounds when direct computation is impossible.
 - `INS-260329-76B8` [high] The squeeze theorem shows that if you can trap an unknown function between two functions that both approach the same limit, the unknown must approach that limit too — even if you can never evaluate it directly.
 - `INS-260325-72AE` [high] Cantor's diagonal argument proves that real numbers between 0 and 1 outnumber all whole numbers — uncountable infinity is strictly larger than countable infinity.
 - `INS-260330-B4B9` [high] Adding one thing before an infinite sequence gets absorbed (1+ω=ω), but adding one after creates something genuinely new (ω+1≠ω).
@@ -55,5 +52,4 @@
 - `INS-260329-04A5` [high] Indeterminate forms like 0/0 force you to factor, conjugate-multiply, or otherwise restructure an expression before the limit becomes computable.
 - `INS-260330-8A65` [medium] Sanderson's observation that 'if it were any simpler, what hope would we have that it could recognize digits?' reveals a useful heuristic: solution complexity should be proportional to problem complexity.
 - `INS-260330-9935` [medium] Converting percentage growth rates into doubling times gives non-mathematical audiences an intuitive grasp of exponential speed that raw percentages cannot provide.
-- `INS-260329-9BA9` [medium] Related rates problems teach the transferable skill of decomposing interconnected changing quantities into solvable relationships via implicit differentiation.
 - `INS-260329-2DF2` [medium] Calculus understanding builds most effectively from visual/graphical intuition upward to symbolic manipulation and formal proof, not the reverse.

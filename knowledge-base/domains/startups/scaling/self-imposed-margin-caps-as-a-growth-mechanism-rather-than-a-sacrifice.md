@@ -49,8 +49,8 @@ related:
   - INS-260405-39A6
   - INS-260403-3F5F
   - INS-260404-41AA
-  - INS-260329-A575
-  - INS-260404-837E
+  - INS-260322-B450
+  - INS-260405-8884
 ---
 Costco's self-imposed rule that no item can be marked up more than 15% (vs Walmart's 24% and Home Depot's 35%) seems like leaving money on the table. But the constraint serves multiple functions: it forces continuous operational efficiency (warehouse layout, bulk purchasing, minimal decor), it builds deep customer trust, and it makes every pricing decision trivially simple.
 

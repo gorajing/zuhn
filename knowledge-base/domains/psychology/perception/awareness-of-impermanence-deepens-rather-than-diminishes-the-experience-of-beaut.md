@@ -54,7 +54,7 @@ related:
   - PRI-260325-A95E
   - INS-260327-48BA
   - PRI-260327-A7C5
-  - INS-260325-0172
+  - PRI-260405-9D7B
 ---
 Western culture often treats impermanence as the enemy of value: we preserve, archive, and attempt to make things permanent. Mono no aware reverses this: beauty is enhanced by its temporary nature. The cherry blossom festival celebrates flowers that will fall within days. The tea ceremony values the unique, unrepeatable moment.
 

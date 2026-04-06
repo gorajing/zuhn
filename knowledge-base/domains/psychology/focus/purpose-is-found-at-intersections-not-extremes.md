@@ -47,9 +47,9 @@ stance: >-
 related:
   - INS-260323-1EEA
   - INS-260329-0935
-  - INS-260329-DDBC
   - INS-260323-F2C3
   - INS-260403-5D18
+  - INS-260327-4739
   - INS-260403-F322
 evidence:
   - id: INS-260323-1EEA

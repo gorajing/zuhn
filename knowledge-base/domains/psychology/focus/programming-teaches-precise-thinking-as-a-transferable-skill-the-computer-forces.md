@@ -49,11 +49,13 @@ stance: >-
   thinking that natural language hides
 related:
   - INS-260323-539C
+  - INS-260323-2C19
   - INS-260327-9BA2
   - INS-260330-3C2F
   - INS-260330-5609
   - INS-260330-026B
   - INS-260330-B711
+  - INS-260330-3BBC
 evidence:
   - id: INS-260323-539C
     type: EXTENDS

@@ -50,7 +50,7 @@ related:
   - INS-260330-A78C
   - INS-260402-E140
   - INS-260404-8890
+  - PRI-260405-E256
   - INS-260327-80A8
-  - INS-260323-5F8A
 ---
 Altman claims that across all YC companies, the single strongest predictor of success is consistent shipping velocity — whether founders have completed new things every time YC talks to them. This is distinct from working hard (many founders work hard on the wrong things and get no credit for effort). The key insight is that huge things can be accomplished through incremental pieces: if you keep knocking down small chunks, in a year you've built something amazing. Conversely, disappearing for a year to build something ambitious almost never works. This applies even to deep-tech companies like synthetic biology — there's almost always a way to break work into smaller shippable projects. The practical framework is: identify 2-3 priorities each day, say no to the other 97 things, execute with a bias toward action, and maintain a regular operating rhythm of shipping and metric review.

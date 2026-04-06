@@ -46,15 +46,15 @@ stance: >-
   better outcomes than hiring experienced closers who treat it as just another
   job.
 related:
-  - INS-260327-52C1
   - PRI-260327-7924
   - INS-260327-999C
   - INS-260329-2B04
-  - INS-260329-4A96
   - INS-260330-6611
   - INS-260327-9C00
+  - PRI-260403-0ABD
   - INS-260329-EF96
   - INS-260329-D215
   - INS-260330-8CD4
+  - INS-260403-AC74
 ---
 Hormozi's conviction framework implies a counterintuitive hiring insight: the best sales hire isn't necessarily the most experienced closer, but the person who most genuinely believes the product transforms lives. Since conviction transmits unconsciously through tone and micro-behaviors that can't be trained or scripted, hiring for belief alignment may be a stronger predictor of performance than hiring for sales technique. Technique can be trained through the 6C system; conviction cannot be installed. This has implications for any role where persuasion matters — fundraising, partnerships, recruiting. The practical application is to screen candidates for authentic enthusiasm about the problem you solve, not just their track record of closing. A true believer with mediocre technique will often outperform a skilled mercenary with no conviction.

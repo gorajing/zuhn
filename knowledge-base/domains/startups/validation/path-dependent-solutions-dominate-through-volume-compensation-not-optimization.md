@@ -50,15 +50,15 @@ stance: >-
   making them nearly impossible to displace.
 related:
   - INS-260325-C528
+  - INS-260327-8048
   - INS-260330-4489
-  - INS-260330-11EB
+  - INS-260330-47CF
   - INS-260330-0B4A
   - INS-260403-F68A
+  - INS-260404-CC7C
   - INS-260404-AE3C
   - INS-260404-3B9D
   - INS-260404-16B0
-  - INS-260404-5DE4
-  - INS-260404-1FCE
 evidence:
   - id: INS-260325-C528
     type: SUPPORTS

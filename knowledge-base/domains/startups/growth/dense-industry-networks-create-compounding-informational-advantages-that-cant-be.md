@@ -24,7 +24,7 @@ last_accessed: null
 access_count: 0
 indexed: true
 embedded: true
-embedding_model: "nomic-embed-text"
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Silicon Valley's tech saturation means the person at the next table likely
@@ -50,6 +50,14 @@ stance: >-
   The ambient knowledge density of Silicon Valley — where anyone nearby might
   know your stakeholders or solve your problem — provides a structural advantage
   that remote-first culture struggles to match
+related:
+  - INS-260330-2601
+  - INS-260330-ACDA
+  - INS-260403-20BF
+  - INS-260403-E7E1
+  - INS-260403-DDFD
+  - INS-260403-5BFB
+  - INS-260327-3A71
 ---
 Kate noticed that Silicon Valley feels like 'everybody is in the industry,' and Graham confirms there's a qualitative difference — you keep your voice down because the person at the next table likely knows the people you're discussing, but the upside is they could also help you. This dual nature of dense industry networks creates both accountability (you can't trash-talk freely) and serendipitous opportunity.
 

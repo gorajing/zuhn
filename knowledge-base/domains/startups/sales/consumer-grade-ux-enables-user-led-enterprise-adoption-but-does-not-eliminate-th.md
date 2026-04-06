@@ -53,6 +53,7 @@ stance: >-
   consultative sales to convert organizational adoption — the two are
   complementary, not substitutes
 related:
+  - INS-260322-0812
   - INS-260325-FDF5
   - INS-260321-4E98
   - INS-260327-B357
@@ -62,7 +63,6 @@ related:
   - INS-260330-760D
   - INS-260330-EEA9
   - INS-260330-6611
-  - INS-260330-C095
 evidence:
   - id: INS-260325-FDF5
     type: REFINES

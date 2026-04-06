@@ -61,9 +61,9 @@ related:
   - INS-260329-CBEB
   - PRI-260405-91AD
   - PRI-260403-0ABD
-  - INS-260404-4DF7
-  - INS-260404-EE85
+  - INS-260327-B18F
   - INS-260328-C12D
+  - INS-260328-3446
 ---
 Peter An coined the 'breadcrumb' concept: a prospect's answer that can naturally be followed up with a question to continue discovery. Most salespeople hear a vague response ('we have some budget but not much' or 'I report into operations') and move on because they're afraid of seeming pushy. But these vague answers contain breadcrumbs.
 

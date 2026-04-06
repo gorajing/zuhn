@@ -53,15 +53,15 @@ stance: >-
   manifesting in reality.
 related:
   - INS-260323-085A
-  - INS-260330-4D18
   - INS-260330-F183
   - INS-260330-6AFA
   - INS-260323-DA1E
+  - PRI-260325-5760
   - INS-260325-820C
   - INS-260323-A14D
   - INS-260323-144F
-  - PRI-260325-5760
   - INS-260329-9391
+  - INS-260330-5263
 evidence:
   - id: INS-260330-4D18
     type: CHALLENGES

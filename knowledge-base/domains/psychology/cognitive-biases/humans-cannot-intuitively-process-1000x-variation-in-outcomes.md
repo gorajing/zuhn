@@ -48,9 +48,9 @@ stance: >-
   expertise or experience.
 related:
   - INS-260402-E140
+  - PRI-260405-E9C5
   - INS-260402-EEDB
   - INS-260402-D739
-  - INS-260403-1DB7
   - INS-260328-195E
 evidence:
   - id: INS-260403-3CD0

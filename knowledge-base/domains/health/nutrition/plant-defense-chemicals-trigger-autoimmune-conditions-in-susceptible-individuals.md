@@ -52,12 +52,12 @@ stance: >-
   eliminate
 related:
   - INS-260327-2321
-  - INS-260327-244B
   - INS-260327-DC20
   - PRI-260328-97E0
   - PRI-260325-4FD3
   - INS-260325-A8E3
   - INS-260327-5E7F
+  - INS-260327-FC60
 ---
 Not all foods work for every immune system. Plant defense chemicals -- lectins, oxalates, digestive enzyme inhibitors, and nightshade alkaloids -- can trigger immune activation in susceptible individuals. This manifests as eczema, asthma, psoriasis, ulcerative colitis, Crohn's disease, joint pain, and other autoimmune conditions.
 

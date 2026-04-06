@@ -50,10 +50,10 @@ stance: >-
   maximum sensitivity to change signals from any direction
 related:
   - PRI-260323-CE34
-  - INS-260325-75C5
   - PRI-260405-3449
   - INS-260402-CCC3
   - INS-260403-4DFB
+  - INS-260403-0A97
 evidence:
   - id: INS-260403-4DFB
     type: SUPPORTS

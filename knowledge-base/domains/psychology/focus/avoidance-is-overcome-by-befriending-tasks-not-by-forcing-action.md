@@ -46,10 +46,10 @@ stance: >-
   but to consciously build a psychological relationship with the avoided task.
 related:
   - INS-260325-D9D8
-  - INS-260329-A90C
   - PRI-260328-4313
   - INS-260330-293E
   - INS-260327-1845
+  - PRI-260323-F92B
 ---
 Paul Loomans describes chronically avoided tasks as 'gnawing rats' that drain energy through the effort of avoidance. Burkeman's key insight is that the first step is not doing the task but simply turning toward it: entering the space, visualizing the first steps, writing down what would be involved.
 

@@ -41,11 +41,11 @@ stance: >-
   Framing entropy as 'the tendency of energy to spread out' produces better
   physical intuition than the common 'disorder' metaphor
 related:
-  - INS-260403-3307
   - INS-260327-9DB0
   - PRI-260403-70D0
   - INS-260330-F671
-  - INS-260330-8D99
+  - PRI-260328-36C3
+  - INS-260325-0C45
 evidence:
   - id: INS-260327-9DB0
     type: TRANSFERS_TO

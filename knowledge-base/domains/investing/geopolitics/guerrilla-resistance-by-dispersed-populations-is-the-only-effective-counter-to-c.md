@@ -58,7 +58,6 @@ related:
   - INS-260327-377A
   - INS-260327-B038
   - INS-260330-B490
-  - INS-260330-E4DB
 evidence:
   - id: INS-260330-E4DB
     type: TRANSFERS_TO

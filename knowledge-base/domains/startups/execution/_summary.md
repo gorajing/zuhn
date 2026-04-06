@@ -1,6 +1,6 @@
 # Topic: execution
 
-> 216 insights
+> 207 insights
 
 - `INS-260329-FCF2` [high] Doing 10-100x more volume beats 2x optimization, but you must relearn this lesson independently in each new domain you enter.
 - `INS-260403-FED1` [high] YC's batch funding model — its most important innovation — was adopted not strategically but because a summer program seemed like the fastest way to learn angel investing.
@@ -25,7 +25,6 @@
 - `INS-260329-6514` [high] Improving what you already have compounds over time while new ventures reset your progress.
 - `INS-260329-7691` [high] Making existing processes better (scripts, ads, follow-up, offers) creates leverage because you get more output from the same input, while new initiatives reset you to zero leverage.
 - `INS-260327-B605` [high] Weinberg says his number one hiring criterion is bias for action: he'd rather someone make a wrong decision and adjust a week later than spend three months deliberating until the market has changed.
-- `INS-260330-CEAE` [high] Plants produce 40 billion tons of RuBisCo to compensate for its ~50% failure rate rather than evolving a replacement.
 - `INS-260327-4DDE` [high] The best startups come from founders solving their own daily pain points, not from market analysis.
 - `INS-260329-917B` [high] Starting with login plus one primary feature, verifying it works, then adding secondary features through follow-up prompts avoids the compounding errors of complex multi-feature requests.
 - `INS-260330-3AF7` [high] DNA polymerase proofreads as it builds, achieving a 1-in-10-billion error rate — orders of magnitude better than any separate quality check could achieve at that scale.
@@ -39,7 +38,6 @@
 - `INS-260323-53BF` [high] Culture is not what you write on the wall — it is the collective habits of the superorganism that dictate day-to-day execution, and it changes only through iterative feedback loops, never by decree.
 - `INS-260402-91B5` [high] Focus on vertical slices that span the boundaries where bigger organizations divide labor, because the best insights live in those seams.
 - `INS-260330-2CE5` [high] YC's best success predictor is whether founders consistently ship small increments between check-ins, not the brilliance of their strategy.
-- `INS-260327-294E` [high] Give AI all your implicit context explicitly—that's the real skill, not clever prompting.
 - `INS-260404-8C42` [high] YC speakers independently and consistently advise the same things: launch fast, listen to users, iterate — suggesting these are empirical truths about startup success.
 - `INS-260403-558D` [high] Release crude, iterate fast — nature's imagination outperforms your own.
 - `INS-260323-8392` [high] Customer service is the #1 underrated competency in modern business — one great experience can make a brand blow up positively, one bad experience can destroy it publicly.
@@ -51,15 +49,12 @@
 - `INS-260327-0004` [high] Nota AI started in 2015 but only generated significant revenue from 2023 -- they survived 7-8 years of market mismatch by maintaining conviction that their AI model optimization technology would eventually be needed.
 - `INS-260403-9680` [high] Hedging your startup with grad school, consulting, or side projects is functionally equivalent to quitting.
 - `INS-260327-7CE9` [high] Build the hardest part first while you're most motivated—dancing around easy features kills momentum.
-- `INS-260330-8103` [high] Manually serving early customers feels humiliating but is the fastest path to understanding what your product actually needs to do.
-- `INS-260330-49C8` [high] DoorDash founders personally delivering food, dispatching drivers, and handling support gave them the domain expertise to design their dispatch algorithm and customer experience — manual work is competitive intelligence, not just bootstrapping.
 - `INS-260330-7CC0` [high] Manually doing every job in your startup — delivery, support, dispatch — gives founders the operational insight needed to build the right automated systems later.
 - `INS-260330-5036` [high] Understanding your users deeply matters far more than knowing startup mechanics like fundraising or growth hacking.
 - `INS-260404-0427` [high] A startup's .com domain matters more as a strength signal than as a way for users to find the company.
 - `INS-260330-C33B` [high] Don't just push harder — also remove friction on the other side of the equation.
 - `INS-260403-3835` [high] Startups peak in productivity when founders are uninterrupted, and hiring can destroy this by imposing an interrupt-driven culture.
 - `INS-260329-FCE6` [high] Automate money flowing toward investments and add friction to every spending pathway.
-- `INS-260330-DF69` [high] RuBisCo was designed for a low-oxygen world and became half-broken when plants themselves changed the atmosphere.
 - `INS-260329-4E70` [high] The boring middle is a feature of ambitious paths, not a signal to pivot.
 - `INS-260326-7B2A` [high] If you can't hire someone smarter than you, do the work yourself — early hires set the talent bar that attracts or repels all future candidates.
 - `INS-260327-A608` [high] Great products start by identifying real problems, not by showcasing technology capabilities.
@@ -85,7 +80,6 @@
 - `INS-260403-30E5` [high] When facing death, redirect all engineering effort to whatever closes revenue fastest — more code is worthless if the company dies.
 - `INS-260327-FFA7` [high] In AI, waiting for perfection guarantees missing the window—launch rough and iterate with the technology.
 - `INS-260403-EFAF` [high] Version 1 should be light enough to evolve — over-engineering kills startups faster than technical debt.
-- `INS-260327-4081` [high] Allocating AI intelligence effectively across your org is the new moat, like capital allocation was for Berkshire Hathaway.
 - `INS-260330-0102` [high] Mastery comes from maximizing learning loop iterations — do, test against reality, extract insight, adjust — not from accumulating hours.
 - `INS-260330-8920` [high] The team broke multiple bats and redesigned between each attempt, reaching their goal faster than careful upfront engineering would have.
 - `INS-260403-FF4E` [high] Writing a list of N things mirrors iterative programming — you get a valid structure in minutes and refine it, maintaining a working artifact at every point.
@@ -120,10 +114,8 @@
 - `INS-260330-BF96` [high] Byron Ferguson hits aspirins mid-air not by eliminating arrow wobble but by testing every arrow's spine and rejecting those outside tolerance.
 - `INS-260328-6E7A` [high] The more something looks like producing bolts, the more process works; the more it looks like producing art, the less process helps — and confusing the two is where startups go wrong.
 - `INS-260330-DC3B` [high] Teams that see inevitable cuts being postponed grow more anxious than teams that absorb a single decisive cut paired with a clear plan.
-- `INS-260327-DB8F` [high] PMF is not strategy—it's the volume of genuine user conversations you have.
 - `INS-260329-D1B0` [high] Being around people at the next level reveals the invisible beliefs holding you back that you can't discover alone.
 - `INS-260402-E148` [high] Job listings are the most honest public signal of a competitor's technical capability because they must be specific to attract the right candidates.
-- `INS-260403-E52B` [high] The Calvin Cycle produces 6 G3P molecules but 5 must regenerate the starting material—only 1 leaves as net output, revealing the true cost of sustaining a production cycle.
 - `INS-260402-841D` [high] Releasing early transforms problems from interesting puzzles into urgent fires, which is precisely why founders resist it and why it works.
 - `INS-260327-8D5D` [high] Anderson replaced Bayer's annual budgeting with two tiers: a fixed high-level commitment to investors, and a fluid 90-day resource pool where 10-15% of people move between teams each cycle.
 - `INS-260402-C13F` [high] Bob Klein's principle from the F-14 program — tight group, little money, little time — describes how constraints create focus that abundance destroys.
@@ -177,7 +169,6 @@
 - `INS-260405-2299` [high] Using available low-tech tools beats waiting for proper systems when speed of alignment matters.
 - `INS-260329-3E28` [high] Year 4 of your current business will almost always outperform year 1 of a new one — switching vehicles resets your compounding.
 - `INS-260405-2C44` [high] Visual alignment tools compress weeks of planning into hours by forcing concrete commitments.
-- `INS-260329-EECD` [high] Massive volume of attempts eliminates the need for luck because rejection costs nothing and one success changes everything.
 - `INS-260329-3FF3` [high] Doing something enough times guarantees outcomes that individual attempts leave to chance.
 - `INS-260405-0FC4` [high] RuBisCo wasn't particularly good at its job—so the first organisms just made enormous quantities of it and dominated the planet anyway.
 - `INS-260329-5818` [high] In early stages, doing more reps at lower quality beats doing fewer reps at higher quality.

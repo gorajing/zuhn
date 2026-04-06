@@ -48,6 +48,7 @@ stance: >-
   not merely a bootstrapping necessity you graduate from.
 related:
   - INS-260325-EC85
+  - INS-260325-C5AE
   - INS-260323-4C43
   - INS-260327-2B75
   - INS-260330-7BF5
@@ -55,6 +56,7 @@ related:
   - PRI-260328-B11D
   - INS-260404-0D62
   - INS-260403-F6F9
+  - INS-260404-9376
 evidence:
   - id: INS-260404-0D62
     type: TRANSFERS_TO

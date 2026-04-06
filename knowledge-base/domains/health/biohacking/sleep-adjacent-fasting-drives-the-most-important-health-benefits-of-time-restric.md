@@ -58,11 +58,11 @@ stance: >-
   eating
 related:
   - INS-260327-51E8
-  - INS-260327-0931
   - INS-260327-3D1C
   - PRI-260328-AF97
   - INS-260330-18EE
   - INS-260330-2ADC
+  - INS-260327-9693
 ---
 The core insight from Huberman's consultation with Satchin Panda is that sleep-related fasting is uniquely powerful — not just because you're unconscious and not tempted to eat, but because sleep activates specific cellular repair processes (autophagy, circadian clock gene coordination, liver restoration, gut microbiome maintenance) that are amplified by the fasted state. The two foundational pillars are: no food for at least 60 minutes after waking, and no food (not even 1 gram of sugar) for 2-3 hours before bed.
 

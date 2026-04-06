@@ -52,7 +52,6 @@ stance: >-
   pulse-based interventions.
 related:
   - INS-260330-08E1
-  - INS-260330-F76B
   - INS-260330-9733
   - INS-260330-FD7C
   - INS-260330-E3C0

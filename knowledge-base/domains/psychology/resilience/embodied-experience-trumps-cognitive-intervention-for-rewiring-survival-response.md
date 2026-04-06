@@ -52,11 +52,11 @@ stance: >-
   consistently outperform talk-based and pharmacological methods.
 related:
   - INS-260330-22F0
+  - PRI-260405-9D7B
   - INS-260403-94CA
   - INS-260403-79AF
   - INS-260325-DF82
   - INS-260403-7639
-  - PRI-260325-F21B
 evidence:
   - id: INS-260403-94CA
     type: TRANSFERS_TO

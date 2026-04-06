@@ -53,10 +53,11 @@ stance: >-
   essential for evaluating any authoritative account.
 related:
   - INS-260323-9B68
-  - INS-260330-9FA5
+  - INS-260327-D24A
   - INS-260330-14E1
-  - INS-260330-93F3
   - INS-260330-F8B6
+  - INS-260330-F20D
+  - INS-260330-43EB
   - INS-260330-4E5F
 evidence:
   - id: INS-260323-9B68

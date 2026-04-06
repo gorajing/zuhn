@@ -59,6 +59,7 @@ stance: >-
   consciousness itself is effortless — only selective focus demands energy
 related:
   - INS-260323-8289
+  - INS-260325-4CF9
   - INS-260327-A4FE
   - INS-260330-4D81
   - INS-260330-DE69

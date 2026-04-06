@@ -46,7 +46,7 @@ stance: >-
   request batching, and embedding caching in the serving pipeline
 related:
   - INS-260329-C1A4
-  - INS-260329-C375
+  - INS-260329-33AA
   - INS-260330-D483
   - INS-260329-4B07
   - PRI-260403-2024

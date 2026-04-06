@@ -41,11 +41,11 @@ stance: >-
   fixed time delay, not a permanent competitive disadvantage
 related:
   - INS-260327-4B5A
-  - INS-260327-E68D
+  - INS-260330-4AE7
   - INS-260403-D444
+  - INS-260403-458A
   - INS-260403-ADB3
-  - INS-260402-3F92
-  - INS-260330-CB30
   - INS-260404-9BC6
+  - INS-260327-A5F9
 ---
 Graham reveals a counterintuitive mathematical property: since 2 ≈ 1.05^15, a founder extracting half the revenue is always exactly 15 weeks behind on the same growth curve — not a growing gap, a fixed one. This is because any constant multiple of an exponential curve is the same shape, just shifted in time. This insight generalizes beyond niceness to any startup decision that trades a constant factor for maintaining or improving growth rate. Whether it's giving away free tiers, underpricing competitors, or investing in customer experience at the cost of margins, the math says the same thing: if you're on a superlinear curve, the Y axis takes care of itself.

@@ -53,10 +53,10 @@ stance: >-
   priorities solved by making a decision — conflating the two leads to applying
   the wrong remedy.
 related:
+  - INS-260325-D7B1
   - INS-260325-600C
   - INS-260325-0E1D
   - INS-260323-3858
-  - INS-260325-4F06
   - INS-260326-9E23
   - INS-260327-71A3
   - INS-260327-E26D

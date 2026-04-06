@@ -58,7 +58,7 @@ related:
   - INS-260326-AB92
   - PRI-260323-A05E
   - INS-260323-8CA9
-  - INS-260329-A90C
+  - PRI-260327-0AA2
 evidence:
   - id: INS-260326-AB92
     type: EXTENDS

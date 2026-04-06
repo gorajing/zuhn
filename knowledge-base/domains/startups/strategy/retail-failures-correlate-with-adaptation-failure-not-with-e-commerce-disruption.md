@@ -50,7 +50,9 @@ stance: >-
   digital transformation, or losing focus, not from e-commerce competition
   alone.
 related:
+  - INS-260324-D90C
   - INS-260324-9E37
+  - INS-260324-B0D3
   - INS-260324-E7A2
   - INS-260323-AB5F
   - INS-260324-FF33
@@ -58,8 +60,6 @@ related:
   - INS-260327-94CC
   - INS-260327-D0F4
   - INS-260327-6058
-  - INS-260330-E615
-  - INS-260330-B22D
 evidence:
   - id: INS-260327-6058
     type: SUPPORTS

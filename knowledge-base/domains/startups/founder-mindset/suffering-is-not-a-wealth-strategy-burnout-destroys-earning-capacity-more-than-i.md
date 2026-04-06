@@ -53,8 +53,6 @@ related:
   - PRI-260325-A95E
   - PRI-260328-E53E
   - INS-260330-BC1B
-  - INS-260329-7F70
-  - INS-260329-62E1
   - INS-260404-108C
 stance: >-
   The martyr archetype wears exhaustion as a badge of honor, but burnout reduces

@@ -53,7 +53,7 @@ related:
   - INS-260330-0FB9
   - INS-260327-77C7
   - INS-260405-6B96
-  - INS-260329-88B2
+  - INS-260329-1028
   - INS-260403-5F8E
 ---
 Copyright holders fixate on lost revenue from piracy, assuming users are motivated by getting something for free. But as iTunes demonstrated, people willingly pay for digital content when the purchasing experience is convenient enough. A significant component of piracy is simply that it offers a better user experience — no DRM restrictions, no geographic blocks, no forced scheduling, instant access to any content.

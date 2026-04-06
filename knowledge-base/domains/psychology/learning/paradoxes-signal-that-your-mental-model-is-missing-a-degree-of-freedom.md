@@ -44,12 +44,14 @@ stance: >-
   means your model is treating a flexible variable as rigid, and adding that
   degree of freedom resolves the paradox.
 related:
+  - INS-260329-9391
   - INS-260330-CED2
   - INS-260330-BB53
   - INS-260330-21C2
   - INS-260330-FA2D
-  - INS-260330-181B
+  - INS-260330-2E34
   - INS-260330-2AA7
+  - INS-260330-148C
 evidence:
   - id: INS-260330-BB53
     type: SUPPORTS

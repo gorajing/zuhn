@@ -45,9 +45,9 @@ resolutions:
     together identify markets where AI can replace expensive human services in
     underserved verticals.
 related:
+  - PRI-260405-6216
   - INS-260330-F527
   - INS-260327-432E
-  - INS-260403-5FBD
   - INS-260322-F6AA
   - PRI-260328-1D90
   - INS-260327-325B

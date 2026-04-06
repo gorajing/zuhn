@@ -49,13 +49,12 @@ stance: >-
   your target income and actual income, making education the highest-ROI debt
   repayment.
 related:
-  - INS-260325-EBC3
   - INS-260327-D1BB
   - INS-260329-49E6
   - INS-260329-5A47
   - INS-260329-F9CD
-  - INS-260329-0B9D
-  - INS-260329-4A55
+  - INS-260325-EBC3
+  - INS-260402-8F1E
   - INS-260329-B2D8
 evidence:
   - id: INS-260327-D1BB

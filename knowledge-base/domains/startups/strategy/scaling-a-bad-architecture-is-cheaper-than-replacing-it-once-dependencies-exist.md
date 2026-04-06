@@ -53,12 +53,12 @@ stance: >-
   re-architect when the dependency graph is deep enough, making volume a
   permanent substitute for efficiency.
 related:
-  - INS-260330-B7B1
   - PRI-260403-40D7
   - INS-260403-532D
-  - INS-260404-47F5
   - INS-260404-CC7C
   - INS-260403-9442
+  - INS-260330-4489
+  - INS-260405-9DB6
 evidence:
   - id: INS-260330-68C8
     type: TRANSFERS_TO

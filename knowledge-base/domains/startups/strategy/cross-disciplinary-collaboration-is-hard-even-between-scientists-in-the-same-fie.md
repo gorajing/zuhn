@@ -55,6 +55,7 @@ related:
   - INS-260327-73CB
   - INS-260330-7994
   - INS-260327-684D
+  - INS-260403-C7D8
 stance: >-
   Frebel's experience: even astronomers who share interests and work on the same
   phenomena struggle to communicate across theoretical and observation...

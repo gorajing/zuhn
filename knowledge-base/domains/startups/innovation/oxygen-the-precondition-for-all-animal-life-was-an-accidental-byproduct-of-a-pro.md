@@ -59,10 +59,12 @@ stance: >-
   scanning for byproducts is a legitimate innovation strategy.
 related:
   - INS-260325-DFA5
+  - INS-260330-7B09
   - INS-260330-40DA
   - INS-260403-C0D4
-  - INS-260405-C342
   - INS-260404-FF39
+  - INS-260405-F03A
+  - INS-260405-C342
   - INS-260405-7E85
   - INS-260403-F52E
 evidence:

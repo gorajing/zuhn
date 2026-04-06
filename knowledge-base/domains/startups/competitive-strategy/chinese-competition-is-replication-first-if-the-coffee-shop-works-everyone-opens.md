@@ -55,9 +55,9 @@ related:
   - PRI-260328-78A5
   - PRI-260328-8F94
   - INS-260329-B6DF
+  - INS-260329-3CB6
   - INS-260330-5DD4
   - INS-260330-73F3
-  - INS-260402-2D7B
 stance: Chinese competitive dynamics favor rapid replication over differentiation
 evidence:
   - id: INS-260323-E2DD

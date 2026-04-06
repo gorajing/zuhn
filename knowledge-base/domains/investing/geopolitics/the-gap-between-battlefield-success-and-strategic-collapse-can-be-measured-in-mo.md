@@ -52,7 +52,6 @@ stance: >-
   position is collapsing, because visible success metrics lag behind invisible
   structural deterioration.
 related:
-  - INS-260326-1E52
   - INS-260326-79DF
   - INS-260327-FB61
   - INS-260327-AA3B

@@ -49,8 +49,8 @@ stance: >-
   fundamentally different (and more rational) bets than those optimizing for
   short-term returns, and those bets compound into inevitable outcomes.
 related:
-  - INS-260329-6FAC
   - INS-260403-BAD7
+  - PRI-260405-1FBC
   - INS-260329-2A5A
   - INS-260323-E9E4
   - INS-260329-CC75

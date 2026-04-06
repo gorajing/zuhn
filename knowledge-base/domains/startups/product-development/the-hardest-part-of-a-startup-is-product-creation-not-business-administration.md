@@ -48,12 +48,13 @@ stance: >-
   startup success than MBAs.
 related:
   - INS-260330-B0EB
-  - INS-260404-4DF7
+  - PRI-260405-2A11
   - INS-260327-735A
   - PRI-260328-6A8D
   - PRI-260328-FD47
-  - INS-260404-BF04
+  - INS-260322-A892
   - INS-260403-30BF
+  - INS-260403-97DB
 ---
 Graham challenges the assumption that business requires business expertise. The critical bottleneck in startup creation is building something people love, which is fundamentally a product/engineering challenge. Monetization — what MBAs are trained for — is the easier second phase. This inverts the conventional hierarchy where business strategy drives product decisions.
 

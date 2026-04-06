@@ -49,10 +49,10 @@ stance: >-
   scale its node count dynamically.
 related:
   - INS-260329-A86F
-  - INS-260329-A8D3
   - INS-260325-1519
   - INS-260329-0B55
   - INS-260330-D475
+  - INS-260330-4C31
 evidence:
   - id: INS-260329-A8D3
     type: EXTENDS

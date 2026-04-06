@@ -54,7 +54,6 @@ related:
   - INS-260330-1D9D
   - PRI-260328-6A8D
   - INS-260329-8B33
-  - INS-260330-9CC6
 stance: >-
   Offer lifetime free access at launch to generate initial downloads and App
   Store reviews, then turn on paid ads only after you have social proof an...

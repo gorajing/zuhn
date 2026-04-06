@@ -43,12 +43,11 @@ stance: >-
   structural deficiencies in revenue model, cost structure, channels, or
   customer retention
 related:
-  - INS-260330-5FED
-  - INS-260403-E642
   - INS-260403-8CDD
   - INS-260403-97F8
   - INS-260322-F6AA
   - INS-260403-C0FE
   - PRI-260328-F0B4
+  - INS-260403-52DB
 ---
 Kodak co-invented the digital camera yet filed for bankruptcy because its business model couldn't adapt. This illustrates a critical principle: product-market fit is necessary but insufficient. A business model fails when revenues can't cover costs (wrong pricing or underestimated operational costs), when channels don't reach customers (invisible value propositions), when customer relationships don't support retention and growth (the Zynga/Candy Crush pattern of acquisition without stickiness), or when key activities, resources, and partnerships aren't properly secured. Founders must design for the full business model canvas, not just the value proposition quadrant.

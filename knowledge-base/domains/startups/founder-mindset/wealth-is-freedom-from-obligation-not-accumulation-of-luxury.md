@@ -48,11 +48,11 @@ stance: >-
   from mandatory schedules and soul-crushing obligations, not to acquire
   expensive possessions.
 related:
+  - INS-260322-760A
   - INS-260330-9DC9
-  - INS-260329-0B9D
   - INS-260403-C681
   - INS-260327-EA4E
-  - INS-260322-760A
+  - INS-260327-33E0
   - INS-260405-69F1
 evidence:
   - id: INS-260322-760A

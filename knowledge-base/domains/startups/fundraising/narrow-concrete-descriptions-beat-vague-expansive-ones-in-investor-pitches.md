@@ -53,8 +53,8 @@ related:
   - INS-260404-896B
   - INS-260405-466C
   - INS-260405-0B17
-  - INS-260403-D430
   - INS-260405-D514
+  - INS-260404-A526
 ---
 Founders resist narrow descriptions because they fear underselling — the product could be so much more than its current form. But as a description approaches 'everything,' its information content approaches zero. 'A system to collaboratively leverage the value of information' conveys nothing; 'an easy web-based database' is immediately graspable.
 

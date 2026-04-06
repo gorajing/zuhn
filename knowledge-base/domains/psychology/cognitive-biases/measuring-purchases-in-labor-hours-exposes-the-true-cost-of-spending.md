@@ -47,11 +47,11 @@ stance: >-
   of spending decisions and naturally reduces unnecessary consumption more
   effectively than budgeting rules.
 related:
-  - INS-260329-E2D0
-  - INS-260329-4A55
   - INS-260329-78A0
   - INS-260329-BBF9
   - INS-260329-5257
+  - INS-260403-F03A
+  - INS-260327-E546
 evidence:
   - id: INS-260329-E2D0
     type: SUPPORTS

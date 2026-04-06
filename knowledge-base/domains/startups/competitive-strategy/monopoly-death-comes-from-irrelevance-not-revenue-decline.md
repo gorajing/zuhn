@@ -43,9 +43,9 @@ stance: >-
 related:
   - INS-260327-7C67
   - INS-260330-FF09
+  - PRI-260405-6216
   - INS-260403-FE00
   - INS-260322-0E41
-  - INS-260321-21BE
 evidence:
   - id: INS-260321-21BE
     type: SUPPORTS

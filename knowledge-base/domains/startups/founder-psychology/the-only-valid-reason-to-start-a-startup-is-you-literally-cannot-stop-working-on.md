@@ -54,11 +54,11 @@ related:
   - INS-260323-4457
   - INS-260323-F9E5
   - INS-260328-F303
+  - PRI-260405-E256
   - INS-260402-E140
   - PRI-260323-1B96
   - INS-260402-27A1
   - INS-260330-156C
   - INS-260330-5E47
-  - INS-260404-C1C1
 ---
 Dustin Moskovitz systematically debunks the four common reasons people start startups: glamour (reality is heads-down desk work and founder depression), being the boss (reality is managing conflicts and disappointing people), flexibility (reality is being always on-call as a role model), and financial upside (joining Facebook as employee #1000 in 2009 still yielded $20M). His alternative: 'you can't not do it' — interpreted two ways. First, you're so passionate the idea forces itself into the world regardless (he and Justin Rosenstein couldn't stop building Asana's prototype even while working full-time at Facebook). Second, the world needs YOU specifically to do it — you have some unique advantage. The Asana origin story demonstrates both: they saw the problem, were convinced no one else would build the right solution, and literally couldn't stop working on it nights after full days at Facebook.

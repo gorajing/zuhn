@@ -8,7 +8,6 @@
 - `INS-260403-45E3` Classical virtue ethics focused on character over action because its audience had no real choice about what to do with their lives.
 - `INS-260404-5A3D` Realizing that selectors barely scrutinize you motivates more active self-presentation.
 - `INS-260325-3223` Psychologist Sonja Lyubomirsky's analysis estimates 50% of happiness is genetic set point, 10% is circumstances, and 40% is under our control.
-- `INS-260325-C996` Psychologist Sonja Lyubomirsky estimates 50% of happiness is biological set point, 10% is circumstances, and 40% is under our control through deliberate choices.
 - `INS-260323-7212` Network experiments show the world is 'poised on an edge of instability' where one person's choice can tip an entire system toward cooperation or defection.
 - `INS-260325-922D` You control nothing but influence everything; every action has unforeseen ripple effects that reshape the future.
 - `INS-260330-D2CE` Agency and gratitude serve as the top-level indicators of mental health, paralleling blood pressure and endurance in physical health.

@@ -41,8 +41,8 @@ related:
   - INS-260329-AA30
   - INS-260330-6C68
   - INS-260403-C610
-  - INS-260402-EE6E
   - INS-260403-573F
+  - INS-260403-699B
 stance: >-
   Making startup decisions based on VC podcasts and content is literally the
   definition of generating non-unique ideas.

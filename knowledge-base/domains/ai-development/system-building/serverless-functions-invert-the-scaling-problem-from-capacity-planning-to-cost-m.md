@@ -56,7 +56,6 @@ stance: >-
   new failure mode — uncontrolled cost scaling — that requires fundamentally
   different operational discipline
 related:
-  - INS-260329-36D9
   - INS-260329-ADCD
   - PRI-260328-C918
   - INS-260404-1755

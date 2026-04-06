@@ -1,6 +1,6 @@
 # Topic: expertise
 
-> 63 insights
+> 62 insights
 
 - `INS-260402-F3D7` [high] Having an audience prevents the natural tendency to stop thinking at exactly the point where deeper exploration would be most valuable.
 - `INS-260403-EA34` [high] Building skills must be developed early because they require sustained focus, but selling skills can be added later.
@@ -24,7 +24,6 @@
 - `INS-260403-2B63` [high] Great work comes from obsessive interest that is disinterested — pursued for its own sake, not for external rewards.
 - `INS-260403-DE28` [high] Good taste comes from (a) becoming a connoisseur of trickery so tricks stop working on you, and (b) traveling widely in time and space to escape your own cultural defaults.
 - `INS-260404-AB0F` [high] When copying good work, deliberately identify what makes it good rather than defaulting to its most visible and easily copied surface features.
-- `INS-260404-BB34` [high] If your work intersects with contested ideas, you must think independently about them or accept mediocrity.
 - `INS-260402-D0F3` [high] Dishonesty in thinking doesn't just produce biased conclusions — it produces boring ones by preventing the discovery of surprising ideas.
 - `INS-260403-A4CF` [high] Being smart is a prerequisite for new ideas but the two are far from identical, and most smart people produce nothing original.
 - `INS-260403-A06E` [high] Genuine interest in your work outperforms discipline as a driver of sustained effort because it makes hard work feel like a natural pull rather than a push.

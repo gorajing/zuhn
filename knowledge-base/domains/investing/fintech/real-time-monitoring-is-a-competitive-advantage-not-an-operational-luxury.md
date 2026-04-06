@@ -46,11 +46,11 @@ stance: >-
   slowness leads to missed opportunities and losses.
 related:
   - INS-260329-05BB
-  - INS-260329-C375
   - INS-260330-D483
   - PRI-260403-2024
   - INS-260329-4B07
   - PRI-260328-0993
+  - INS-260330-C06E
   - INS-260405-EE74
 evidence:
   - id: INS-260330-D483

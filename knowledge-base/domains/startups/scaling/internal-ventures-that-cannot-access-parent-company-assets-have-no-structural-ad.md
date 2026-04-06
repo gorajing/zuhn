@@ -50,9 +50,9 @@ stance: >-
 related:
   - INS-260329-0DA4
   - INS-260402-8424
+  - PRI-260405-E9C5
   - INS-260403-CF7C
   - INS-260403-407A
-  - INS-260403-C9DC
 ---
 The letter's most actionable claim is that the execution engine MUST support the innovation engine with corporate assets—brand credibility, existing customers, distribution channels, and resources. This is what distinguishes internal ventures from startups, and without it, corporate innovation teams are just startups with more bureaucracy and less equity upside.
 

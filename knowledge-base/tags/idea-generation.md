@@ -5,7 +5,6 @@
 - `INS-260403-2B1D` The skills that make someone a great speaker are often orthogonal or opposed to the skills that generate good ideas.
 - `INS-260403-B6FD` False popular beliefs suppress exploration of nearby true ideas, creating predictable regions where novel insights cluster.
 - `INS-260402-4451` You can't find great questions by searching for them — they emerge from sustained immersion in work that interests you.
-- `INS-260403-B508` Some ideas are discovered through writing rather than conceived first and then written down, making writing skill a direct input to intellectual output.
 - `INS-260326-967C` Co-founders who discover the idea together feel true ownership; co-founders recruited into someone else's idea always have one foot out the door.
 - `INS-260403-21AF` When you can't act on ideas, you stop having them—implementation constraints propagate upstream to kill creative thinking itself.
 - `INS-260330-0346` Pairing programming skills with deep knowledge of an unrelated field produces outsized startup ideas through a double advantage of fresh perspective and technical capability.
@@ -14,7 +13,6 @@
 - `INS-260403-816B` The best startup ideas come from fixing what's broken in your own life, not imagining what strangers need.
 - `INS-260403-44ED` Projects conceived as charities but requiring company economics to operate are fertile ground for startup ideas precisely because they're overlooked.
 - `INS-260404-CF9F` Your unconscious mind prevents you from even seeing startup ideas that involve difficult, unpleasant work.
-- `INS-260330-7819` Pursue ideas that sound bad to others but you have specific reasons to believe are right — the apparent badness keeps competitors away.
 - `INS-260403-573F` The most valuable startup ideas come from founders working on what genuinely interests them, not from systematic market analysis.
 - `INS-260403-5441` The biggest startup ideas trigger fear and identity threat, causing founders to unconsciously filter them out.
 - `INS-260327-CD36` At least 70% of YC's top 100 companies by valuation came from ideas noticed organically rather than deliberate brainstorming, because brainstorming systematically produces tar pit ideas.

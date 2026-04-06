@@ -47,11 +47,14 @@ stance: >-
 related:
   - INS-260403-EF30
   - INS-260403-87CD
-  - INS-260403-ED1E
   - INS-260403-BFD1
   - INS-260403-F7DD
+  - INS-260403-C5D8
+  - INS-260403-FC45
+  - INS-260403-21C4
+  - INS-260404-4127
+  - INS-260404-C2BC
   - INS-260404-24FB
-  - INS-260405-54B8
 ---
 Professional investors hear hundreds of pitches that blur together. The first survival filter is simply being remembered, and the way to pass it is to plant a descriptive phrase—'the Microsoft Word of ecommerce,' 'the x of y'—that sticks in their heads. Launch it near the beginning of your talk, delivered casually so it doesn't feel forced.
 

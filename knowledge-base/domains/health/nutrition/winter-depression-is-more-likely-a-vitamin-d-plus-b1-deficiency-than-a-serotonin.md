@@ -48,9 +48,9 @@ stance: >-
   system), and responds better to supplementation than SSRIs.
 related:
   - INS-260325-E6C8
-  - INS-260327-20AF
   - PRI-260328-B115
   - INS-260327-1F6E
   - PRI-260325-F627
+  - INS-260330-0804
 ---
 The serotonin hypothesis of depression (low serotonin causes depression, SSRIs fix it) has been increasingly questioned. Winter depression specifically correlates with reduced sunlight which causes: vitamin D drop (vitamin D receptors exist throughout the brain and regulate mood neurotransmitters), disrupted circadian rhythm (melatonin-cortisol cycle imbalance), and B1 depletion (autonomic nervous system dysregulation creates anxiety-depression overlap). Treatment: 10,000 IU vitamin D3 daily with K2 in winter, benfotiamine for B1, morning light exposure (even overcast outdoor light is 10x brighter than indoor), and omega-3 fatty acids (DHA supports serotonin receptor function). These address root causes rather than downstream neurotransmitter symptoms.

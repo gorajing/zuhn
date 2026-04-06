@@ -1,6 +1,6 @@
 # Topic: content-strategy
 
-> 38 insights
+> 36 insights
 
 - `INS-260330-B885` [high] Rogan gained 2 million subscribers during his cancellation attempt because the coordinated media attack inadvertently proved his independence from institutional control.
 - `INS-260329-127F` [high] Multi-year daily content output is the only reliable audience-building strategy; most people quit too early.
@@ -10,14 +10,12 @@
 - `INS-260329-9DEE` [high] Foundational technology tutorials generate perpetual traffic because new beginners constantly enter the field while the fundamentals rarely change.
 - `INS-260329-4C4C` [high] Plan for years of content creation before expecting meaningful audience growth, treating the first year as skill development.
 - `INS-260330-06E3` [high] Capitalism scaled in Britain partly because writers like Thomas Mun reframed market participation as natural human behavior — even coining 'individuals' and 'career' as personal identity terms.
-- `INS-260329-88B2` [high] FreeCodeCamp's 4-hour free tutorials accumulate 13M+ views because exhaustive free content builds trust that shorter paid content cannot match.
 - `INS-260329-9A42` [high] Giving away exhaustive 4+ hour tutorials for free builds defensible audience positions because the depth itself becomes the moat — competitors face prohibitive production costs to match, and audiences consolidate around the 'definitive' resource.
 - `INS-260329-31A2` [high] freeCodeCamp's strategy of publishing complete 4-hour tutorials for free has generated 13M+ views on a single video, demonstrating that exhaustive free content builds massive audiences.
 - `INS-260403-6424` [high] Claiming a list is exhaustive ('The 7 secrets') exploits readers' need to verify completeness, making it effective linkbait but intellectually dishonest.
 - `INS-260329-26AC` [high] One comprehensive tutorial that becomes the canonical resource for a topic generates more cumulative reach than many shorter pieces.
 - `INS-260330-B65B` [high] Half of all content is the same 50-100 common words; differentiation and value live entirely in the rare, specific vocabulary choices.
 - `INS-260403-D20A` [high] List formats reduce reader risk by making content parallel, random-access, and fault-tolerant — like watertight compartments.
-- `INS-260330-9CC6` [high] Ramsey views YouTube Shorts and TikTok clips as free advertisements — 'little old ladies at Costco with a sample biscuit' — that funnel people to books, courses, and long-form shows.
 - `INS-260329-DC86` [high] Imperfect ratings with high volume signal authenticity and outperform perfect scores with low volume in building trust.
 - `INS-260403-7878` [high] Readers trust bloggers more than mainstream media because online writing lacks the invisible fingerprints of PR firms shaping editorial content.
 - `INS-260403-6BF7` [high] Developer influencers who master visibility often outperform technically superior peers in career outcomes.

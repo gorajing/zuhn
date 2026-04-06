@@ -49,13 +49,12 @@ stance: >-
   AI because foundational models shift monthly — the only defensible position is
   shipping faster than everyone else.
 related:
-  - INS-260328-17D7
   - INS-260327-FC6F
   - PRI-260328-EC3F
   - INS-260403-9E2D
   - INS-260325-5455
-  - INS-260324-5C53
   - INS-260403-427E
+  - INS-260324-5C53
 evidence:
   - id: INS-260328-17D7
     type: REFINES

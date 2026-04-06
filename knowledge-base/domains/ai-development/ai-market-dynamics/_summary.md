@@ -1,6 +1,6 @@
 # Topic: ai-market-dynamics
 
-> 93 insights
+> 89 insights
 
 - `INS-260321-86F1` [high] China is stealing American AI models, removing all guardrails, and potentially deploying them against the US — creating an absurd scenario where America fights with one arm tied behind its back against its own technology.
 - `INS-260323-B07C` [high] A Harvard study found that below-median entrepreneurs saw a 10% decline in profits from AI access because they lacked the judgment to filter good advice from bad.
@@ -11,7 +11,6 @@
 - `INS-260323-3A98` [high] No business became an industry leader through cost-cutting alone — AI investments driven by competitive fear rather than strategic vision will fail.
 - `INS-260323-4945` [high] The AI marketing machine works because massive capital buys corridor-of-power access, and people desperately want to believe technology can solve crises like climate change.
 - `INS-260327-991D` [high] The shift from perceptual AI to generative AI and reasoning has made inference as compute-intensive as training.
-- `INS-260323-59C9` [high] Cisco found 83% of companies plan to release AI agents but only 13% have the infrastructure to support them — the gap creates compounding infrastructure debt.
 - `INS-260321-807B` [high] AI native marketing agencies go end-to-end with AI, bypassing tools like Adobe entirely, dramatically improving margins and delivering ads within days.
 - `INS-260323-EA36` [high] 95% of AI projects fail — twice the rate of any other emerging technology — driven equally by skills gaps and employee resistance to adoption.
 - `INS-260328-92BC` [high] Howard argues the EU AI Act's foundation model provisions would outlaw competition with OpenAI while providing no real safety benefit since developers would simply relocate.
@@ -40,7 +39,6 @@
 - `INS-260327-95D3` [high] OpenAI's IMO gold came from general-purpose techniques for scaling test-time compute, not math-specific engineering.
 - `INS-260323-7A11` [high] Classical ML has one right answer and measurable error; generative AI has infinite valid outputs, making traditional ROI frameworks useless.
 - `INS-260321-2241` [high] Singapore, Hong Kong, and UAE lead per-capita AI adoption, while the US ranks 20th — driven primarily by cultural trust differentials (32% US trust vs 50-70% in leading countries) rather than technology availability.
-- `INS-260329-EC30` [high] AI commoditizes synthesis; human judgment becomes the scarce, premium resource
 - `INS-260405-6A94` [high] OpenRouter's 100 trillion token study shows inference becoming a dominant operating cost that volume growth keeps pushing higher despite falling unit prices.
 - `INS-260323-1C32` [high] If every AI project must show predictable ROI, you're structurally incapable of innovation — the first pancake is always burned.
 - `INS-260327-5E40` [high] Prompts reset every session; training data compounds institutional knowledge over time, creating a moat that deepens with each iteration.
@@ -52,8 +50,6 @@
 - `INS-260321-2BF9` [high] NVIDIA is positioning as infrastructure for all AI — digital and physical — with 110 robot companies, 18M cars annually on their robotaxi platform, and orbital data center designs.
 - `INS-260325-DAD7` [high] Open models are home manufacturing (custom, higher cost); closed models are mega token factories (shared, cheaper at scale).
 - `INS-260403-8A65` [high] DeepSeek R1 matched OpenAI o1's benchmarks within months of o1's release, as a free open-source model.
-- `INS-260325-4E96` [high] Open models trail closed models by a steady ~6 months because the capability target keeps moving.
-- `INS-260323-62F3` [high] Chinese companies release open-weight models primarily to gain global distribution and influence, not out of altruism.
 - `INS-260327-5D5F` [high] Fine-tuning an open-weights model degrades its other capabilities because you cannot mix new data with the original training distribution; truly open-source models with full training pipelines are fundamentally more useful.
 - `INS-260321-5DF8` [high] OpenClaw became the most popular open-source project in history within weeks, surpassing Linux's 30-year adoption curve — each AI unhobbling stacks on prior ones and grows faster.
 - `INS-260323-4794` [high] AI infrastructure includes human expectations, staff training, and cultural readiness — not just data pipelines and cloud credits.

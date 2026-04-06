@@ -42,10 +42,10 @@ resolutions:
     other startups) and make bets that risk the company.
 related:
   - INS-260329-C26B
-  - INS-260327-DB8F
   - PRI-260327-117F
   - INS-260322-F128
   - INS-260403-6890
+  - PRI-260403-2E59
   - INS-260328-0B42
   - INS-260329-D159
 stance: >-

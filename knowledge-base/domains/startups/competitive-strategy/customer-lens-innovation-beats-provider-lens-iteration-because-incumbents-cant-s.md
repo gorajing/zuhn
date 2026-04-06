@@ -53,9 +53,9 @@ resolutions:
 related:
   - INS-260322-03DD
   - PRI-260323-1B96
-  - INS-260403-1DB7
   - PRI-260328-0C15
   - INS-260404-E36F
+  - PRI-260405-BFAC
   - INS-260403-0AF7
 stance: >-
   a16z's platform model worked because its founders had been VC customers

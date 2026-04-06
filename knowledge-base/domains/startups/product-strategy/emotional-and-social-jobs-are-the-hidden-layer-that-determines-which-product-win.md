@@ -50,11 +50,11 @@ stance: >-
   resolve the emotional and social dimensions of the same customer need.
 related:
   - INS-260327-8B1A
-  - INS-260327-8E9B
-  - INS-260403-91CC
   - PRI-260325-AA01
   - INS-260403-AFBB
+  - INS-260327-8E9B
   - PRI-260328-BF1E
+  - INS-260327-F405
 evidence:
   - id: INS-260403-AFBB
     type: CHALLENGES

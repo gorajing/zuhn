@@ -46,8 +46,8 @@ stance: >-
   produces unconscious tonal shifts that close more deals than scripting alone.
 related:
   - INS-260321-A6A6
-  - INS-260329-4A96
   - INS-260327-5688
+  - PRI-260405-7F1E
   - INS-260329-78AE
   - INS-260325-36F0
   - INS-260329-A80B

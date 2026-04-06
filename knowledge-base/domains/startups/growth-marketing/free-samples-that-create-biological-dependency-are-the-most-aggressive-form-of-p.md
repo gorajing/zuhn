@@ -45,11 +45,11 @@ stance: >-
   away just enough free product to make switching back to the previous solution
   physiologically or structurally impossible.
 related:
-  - INS-260330-FCBC
   - INS-260403-9BEF
   - INS-260330-5C64
   - INS-260404-8A57
-  - INS-260403-543E
+  - INS-260321-D01E
+  - INS-260330-82B5
 evidence:
   - id: INS-260321-D01E
     type: SUPPORTS

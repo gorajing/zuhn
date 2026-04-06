@@ -46,6 +46,7 @@ stance: >-
   careers, and the most successful founders tend to be people who were smart but
   uncool for most of their lives before the payoff became visible.
 related:
+  - INS-260325-0471
   - INS-260328-FF2C
   - INS-260403-9F9F
   - INS-260402-8C0E
@@ -55,7 +56,6 @@ related:
   - INS-260329-7372
   - INS-260329-EC01
   - INS-260402-E60E
-  - INS-260403-D467
 evidence:
   - id: INS-260329-7372
     type: CHALLENGES

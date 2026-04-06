@@ -55,7 +55,7 @@ related:
   - INS-260330-24CD
   - INS-260330-5A9E
   - INS-260330-534C
-  - INS-260330-6300
+  - PRI-260405-7F1E
 ---
 The history of taboo language reveals a pattern: the words considered most offensive in any era directly reflect which power structures and moral frameworks dominate. In medieval Europe, blasphemy and religious oaths were the most dangerous words because the church controlled social authority. During the Victorian era, bodily and sexual references became maximally taboo as bourgeois propriety became the dominant class signal. Today, identity-based slurs are the most potent taboo because social equality and group dignity are the prevailing moral framework.
 

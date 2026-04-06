@@ -46,16 +46,16 @@ stance: >-
   toward exactness is a distinct cognitive skill that transfers across all
   quantitative domains.
 related:
+  - INS-260325-3E86
   - INS-260325-03D5
   - INS-260326-841D
   - INS-260327-47E9
   - INS-260327-FFA7
   - INS-260329-72AC
-  - INS-260329-FEF4
   - INS-260329-89CB
-  - INS-260329-9BA9
   - INS-260329-02B3
   - INS-260329-0CC5
+  - INS-260329-F892
 evidence:
   - id: INS-260327-47E9
     type: TRANSFERS_TO

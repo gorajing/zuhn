@@ -53,10 +53,10 @@ stance: >-
   but from rewriting the problem in a form where the answer becomes visible.
 related:
   - INS-260329-9391
-  - INS-260329-9CBB
   - INS-260329-1F17
   - INS-260329-02C5
   - INS-260404-C7A1
+  - INS-260329-579D
 evidence:
   - id: INS-260329-1F17
     type: TRANSFERS_TO

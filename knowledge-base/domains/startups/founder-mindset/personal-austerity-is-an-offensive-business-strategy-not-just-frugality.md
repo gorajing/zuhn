@@ -47,9 +47,9 @@ stance: >-
 related:
   - INS-260323-EDAD
   - INS-260329-8E79
-  - INS-260329-0B9D
   - INS-260327-A75B
   - INS-260404-EEAF
+  - PRI-260328-BD81
 evidence:
   - id: INS-260323-EDAD
     type: EXTENDS

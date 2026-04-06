@@ -57,7 +57,7 @@ related:
   - INS-260329-58E7
   - INS-260402-3D61
   - INS-260327-D5B5
-  - INS-260330-35E2
+  - INS-260327-94CC
 ---
 Despite being perhaps the greatest business operator of his era, Rockefeller was a poor investor. His personal investments outside Standard Oil were largely failing. His solution was counter-intuitive: he hired Frederick Gates, a Baptist minister with no formal business training, to manage his fortune. Gates turned out to be brilliant — he orchestrated the Mesabi iron range acquisition, restructured the portfolio, and trained Rockefeller Jr. to continue the work.
 

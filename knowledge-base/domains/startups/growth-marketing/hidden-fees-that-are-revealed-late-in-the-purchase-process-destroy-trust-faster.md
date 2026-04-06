@@ -41,10 +41,10 @@ stance: >-
   all-in pricing.
 related:
   - INS-260327-B6D6
-  - INS-260404-3D8F
   - INS-260403-08FE
   - INS-260404-3156
-  - INS-260404-62D5
+  - INS-260405-9EE6
+  - INS-260403-0435
 evidence:
   - id: INS-260404-3156
     type: EXTENDS

@@ -51,13 +51,12 @@ stance: >-
   exceeds the cost of workarounds.
 related:
   - INS-260323-B0EA
-  - INS-260330-4983
-  - INS-260404-BC18
-  - INS-260404-B1AB
   - PRI-260403-C34A
+  - INS-260404-B1AB
   - INS-260330-22C0
+  - INS-260403-F68A
+  - INS-260330-54ED
   - INS-260403-04AF
-  - INS-260404-8947
 evidence:
   - id: INS-260323-BA00
     type: EXTENDS

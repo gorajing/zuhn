@@ -61,8 +61,8 @@ related:
   - INS-260330-EDDD
   - PRI-260325-663A
   - INS-260330-9E25
+  - PRI-260405-CCCE
   - PRI-260328-F570
-  - INS-260330-43E8
 stance: There are no true focus-enhancing drugs
 evidence:
   - id: INS-260330-EDDD

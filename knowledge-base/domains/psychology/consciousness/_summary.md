@@ -1,6 +1,6 @@
 # Topic: consciousness
 
-> 94 insights
+> 90 insights
 
 - `INS-260327-CA82` [high] Complex strategic board games existed 4,000+ years ago in Mesopotamia, demonstrating sophisticated mathematical and strategic thinking thousands of years before formal game theory.
 - `INS-260327-1B60` [high] Trillion-dollar companies are built on capturing human attention - the most finite and valuable resource any person possesses.
@@ -27,14 +27,12 @@
 - `INS-260330-1384` [high] Psychedelics stand alone as a drug class where single-dose experiences routinely produce permanent life changes.
 - `INS-260325-BA76` [high] Pessoa's paradox: self-awareness splits the experiencer from the experience, making authentic living impossible for the deeply conscious.
 - `INS-260330-53F7` [high] Set (mindset, preparation, trust in guides) and setting (physical environment, music, safety) are the primary variables determining whether a psychedelic experience produces healing or harm.
-- `INS-260330-203F` [high] Johnson argues set and setting are not soft variables but pharmacologically active factors that determine whether the same psilocybin dose produces healing or harm.
 - `INS-260330-43C9` [high] Psychedelic outcomes are uniquely shaped by environmental context — warm, prepared settings produce more meaningful experiences.
 - `INS-260325-4C2E` [high] The algorithm effect replaces internal motivation with external validation loops, creating population-level identity outsourcing to platforms.
 - `INS-260403-7F97` [high] Knowing every neural pathway involved in pain still cannot make someone who has never felt pain actually experience it.
 - `INS-260405-8584` [high] You can keep adding 'want to' layers, but you always bottom out at a desire you didn't choose.
 - `INS-260325-F6AF` [high] The 'hard problem' is why felt experience exists at all, not which brain regions correlate with which feelings.
 - `INS-260330-3672` [high] High-dose psilocybin sessions at Johns Hopkins are safe not because the drug is inherently safe, but because the clinical protocol eliminates nearly all environmental risk vectors.
-- `INS-260327-8DC5` [high] If a philosophical idea doesn't make you uncomfortable, it probably isn't challenging anything that matters.
 - `INS-260323-433B` [high] Our subjective 'now' is an extended window of roughly 200-300ms of perceptual latency, stitched together with episodic memory and anticipation — not a mathematical instant.
 - `INS-260330-DE69` [high] The feeling of authoring your thoughts is actually the absence of noticing their spontaneous arising.
 - `INS-260330-AEE3` [high] The sense of self dissolves under direct investigation because it was never a stable entity — just unexamined thought patterns.
@@ -45,7 +43,6 @@
 - `INS-260325-33DA` [high] Each person constructs their own unique perceptual world, but consciousness feels so transparent that we assume others experience the same reality we do.
 - `INS-260323-9774` [high] The brain is not recording reality — it is rendering a real-time simulation filtered through evolutionary structures designed for survival, not for representing truth.
 - `INS-260327-7711` [high] The shadow isn't just your dark side - it includes every positive capacity you've suppressed because it threatened your comfortable self-concept.
-- `INS-260330-8646` [medium] Dr. Johnson frames all psychiatric disorders as variations of narrowed mental repertoire, unifying depression, anxiety, OCD, and addiction under one mechanistic umbrella.
 - `INS-260330-415C` [medium] Johnson's framework reframes psychiatric disorders as varieties of stuck-ness — narrowed loops of thought and behavior — that psychedelics disrupt by forcing the brain into novel configurations.
 - `INS-260330-2988` [medium] While thoughts, emotions, and sensations constantly change, the awareness that notices them remains structurally identical across all experiences.
 - `INS-260330-9743` [medium] The consciousness aware of sadness is not itself sad — awareness functions like an unblemished mirror.
@@ -59,7 +56,6 @@
 - `INS-260323-CA1F` [medium] In deep sleep, experience ceases — no space, no time, no self — yet something knows that nothing happened, suggesting awareness persists even at the lowest layer.
 - `INS-260405-B8BE` [medium] Sounds, sensations, and thoughts arise in consciousness automatically — only the act of selecting and holding an object of attention requires cognitive effort.
 - `INS-260327-AEFA` [medium] Some mysteries aren't problems to solve but sources of wonder that analysis would destroy rather than enhance.
-- `INS-260323-1D46` [medium] Donald Hoffman's interface theory argues that organisms evolved to perceive fitness-relevant simplifications, not objective reality — truth is expensive, useful illusion is efficient.
 - `INS-260327-D212` [medium] Once you genuinely question whether the self is real, whether time is linear, or whether consciousness is what it seems, you cannot fully return to your previous way of seeing.
 - `INS-260327-1313` [medium] Too much self-examination creates a hall of mirrors: the self watching the self watching the self, producing fragmentation rather than the clarity it promises.
 - `INS-260330-2294` [medium] The Library of Babel contains every possible 3200-character text — including your birth, death, and every joke — yet we intuitively feel none of it has been 'said' until a person means it.

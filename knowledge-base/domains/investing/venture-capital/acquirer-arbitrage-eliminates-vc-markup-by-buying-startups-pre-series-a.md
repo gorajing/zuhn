@@ -48,11 +48,11 @@ stance: >-
   chain.
 related:
   - INS-260403-4E71
+  - PRI-260405-E9C5
   - INS-260328-195E
   - INS-260402-8424
   - INS-260403-ABBB
   - INS-260403-4904
-  - INS-260402-CCF4
 evidence:
   - id: INS-260403-4E71
     type: SUPPORTS

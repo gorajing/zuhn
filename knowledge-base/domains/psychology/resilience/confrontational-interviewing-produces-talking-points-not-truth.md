@@ -54,11 +54,12 @@ stance: >-
   they give shallow talking points, while patient non-confrontational
   questioning reveals genuinely held beliefs and their deep roots
 related:
+  - INS-260322-2A3A
   - INS-260323-FDC1
+  - INS-260326-C692
   - INS-260327-F961
   - INS-260328-93F7
   - INS-260329-4D5E
-  - INS-260326-C692
   - INS-260330-281A
   - INS-260404-DD95
   - INS-260403-3E46

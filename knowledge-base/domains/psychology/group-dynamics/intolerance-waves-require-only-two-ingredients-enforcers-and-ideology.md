@@ -49,7 +49,6 @@ stance: >-
   alignment behind a unifying ideology.
 related:
   - INS-260323-9E75
-  - INS-260325-AC52
   - INS-260330-E0ED
   - INS-260402-FFCB
   - INS-260325-36F0

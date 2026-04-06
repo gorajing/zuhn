@@ -42,7 +42,6 @@ stance: >-
   ratio, and CAC scores for cardiac risk assessment
 related:
   - INS-260325-9DEB
-  - INS-260327-A867
   - PRI-260328-E3A7
   - INS-260327-62AA
   - PRI-260328-AF97

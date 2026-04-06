@@ -52,7 +52,6 @@ related:
   - INS-260405-AAB7
   - INS-260327-8521
   - INS-260330-0149
-  - INS-260403-E652
 evidence:
   - id: INS-260327-8521
     type: TRANSFERS_TO

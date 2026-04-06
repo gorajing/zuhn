@@ -48,10 +48,10 @@ stance: >-
   rather than preserving small farming.
 related:
   - INS-260327-B6B7
-  - INS-260323-59C9
   - INS-260330-2B4F
   - PRI-260328-6136
   - INS-260330-E068
+  - INS-260405-A103
 evidence:
   - id: INS-260323-59C9
     type: TRANSFERS_TO

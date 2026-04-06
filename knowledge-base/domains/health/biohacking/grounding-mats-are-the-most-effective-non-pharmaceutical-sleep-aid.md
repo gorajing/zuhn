@@ -48,11 +48,11 @@ stance: >-
   relaxing sleep intervention Saladino has found, more effective than any
   supplement
 related:
-  - INS-260330-EE16
   - INS-260325-123C
   - INS-260327-027E
   - PRI-260325-663A
   - INS-260330-887A
+  - PRI-260328-B115
 evidence:
   - id: INS-260330-EE16
     type: TRANSFERS_TO

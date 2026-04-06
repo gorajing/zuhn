@@ -48,6 +48,6 @@ related:
   - PRI-260324-2A76
   - INS-260327-3DE7
   - INS-260330-6088
-  - INS-260329-8DE7
+  - INS-260403-AEAF
 ---
 Using the Bud Light/Dylan Mulvaney case and Kanye's controversies as examples, Hormozi argues that attempting to erase or apologize for a bad pairing is futile — the association already exists in the audience's mind. The effective strategy is displacement: flood the brand with so many positive pairings that the negative one becomes a tiny percentage of the total association portfolio. Bud Light recovered by pairing with Shane Gillis and the UFC, not by addressing the controversy directly. Kanye released new products and music until people's dominant associations shifted back to positive. This is essentially a signal-to-noise ratio strategy applied to brand management — you can't reduce the noise, but you can massively increase the signal.

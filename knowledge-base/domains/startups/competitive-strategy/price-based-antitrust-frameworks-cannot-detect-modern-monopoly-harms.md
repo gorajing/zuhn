@@ -54,8 +54,8 @@ related:
   - PRI-260324-5F05
   - PRI-260328-33E5
   - INS-260327-CC35
-  - INS-260404-35F8
   - PRI-260328-78A5
+  - PRI-260328-8F94
 ---
 Lina Khan's research (cited in the video) identifies a critical flaw in post-1970s antitrust doctrine: the 'consumer welfare standard' judges anticompetitive behavior primarily by whether prices increase. Amazon keeps prices perpetually low — not because it's efficient, but because AWS subsidizes retail losses. By the traditional test, Amazon looks pro-consumer even as it systematically eliminates competitors.
 

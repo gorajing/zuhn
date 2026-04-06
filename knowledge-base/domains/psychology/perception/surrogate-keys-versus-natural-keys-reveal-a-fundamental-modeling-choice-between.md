@@ -51,11 +51,11 @@ stance: >-
   trade-off appears in every system that maps real-world entities to internal
   representations.
 related:
-  - INS-260329-36DA
   - INS-260329-D297
   - INS-260329-2FB8
   - PRI-260323-0F93
   - INS-260329-41BC
+  - PRI-260405-F9BD
 evidence:
   - id: INS-260329-D297
     type: EXTENDS

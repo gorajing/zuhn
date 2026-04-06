@@ -50,6 +50,7 @@ stance: >-
   thyroid function and testosterone while elevating cortisol
 related:
   - INS-260327-1E16
+  - INS-260327-1DAB
   - INS-260327-D4B5
   - INS-260327-4FFA
   - INS-260327-E6BC

@@ -1,13 +1,11 @@
 # Topic: product-strategy
 
-> 54 insights
+> 48 insights
 
 - `INS-260330-809A` [high] Apple's acquisition pattern — Authentec for Touch ID, Siri for voice, NeXT for Jobs — shows that buying capabilities yields higher returns than buying businesses.
-- `INS-260402-3DBF` [high] False positives that destroy user trust are far more damaging than false negatives that merely annoy, so bias your systems accordingly.
 - `INS-260403-EAF7` [high] Solve the real problem and deliberately ignore peripheral concerns that seem important but aren't.
 - `INS-260330-766D` [high] Alfred Lin's principle from Zappos — culture and brand are two sides of the same coin — means that whatever happens inside the company eventually comes out.
 - `INS-260404-0CA7` [high] Vertical SaaS that bundles financial and operational workflows becomes nearly impossible to rip out.
-- `INS-260330-13A1` [high] Oxygen — the gas all animal life depends on — is literally a waste byproduct of photosynthesis that plants don't need.
 - `INS-260403-FB4D` [high] Compare enterprise software by capabilities (outcomes enabled) rather than features (functionality offered) to make better purchasing decisions.
 - `INS-260403-204E` [high] In vertical AI, the defensible position is owning the control point that facilitates the transaction, not just saving time on adjacent tasks.
 - `INS-260403-E86E` [high] The most powerful defensibility lever is turning your product from a single-player game into a multi-player network.
@@ -29,9 +27,7 @@
 - `INS-260404-95D0` [high] The email system's fundamental vulnerability is that sending messages has no consequences for the sender.
 - `INS-260403-4964` [high] The App Store, launched a year after iPhone, became a stronger moat than the hardware itself through developer network effects.
 - `INS-260403-EC8A` [high] Play-to-earn models collapse when growth slows because users attracted by money leave when earnings drop, triggering a reflexive downward spiral.
-- `INS-260403-5FBD` [high] Value proposition fit and business model viability are independent variables — companies need both to survive.
 - `INS-260403-A8F3` [high] Build for yourself first — products aimed 'down' at a mainstream audience tend to produce mediocre outcomes.
-- `INS-260403-83A8` [high] Carrying 4,000 SKUs instead of 140,000 makes each slot so valuable that suppliers will cut prices and customize products to win placement.
 - `INS-260404-A9D0` [high] Bid-times-conversion ranking resolves the monetization-vs-quality trade-off by making them the same objective function.
 - `INS-260403-FCA6` [high] Make your platform something builders personally love using, and killer apps will follow as a natural byproduct of developer self-interest.
 - `INS-260403-D4EA` [high] Fast iteration beats careful planning only when the medium allows cheap revision.
@@ -41,9 +37,7 @@
 - `INS-260403-B73A` [high] When A.Team made teams rather than individuals the core unit, participants stopped competing on price and started complementing each other, breaking the asymptotic ceiling.
 - `INS-260403-C4CD` [high] RuBisCo's oxygen-confusion creates toxic phosphoglycolate that plants must dedicate entire enzyme pathways to neutralize — a pattern mirrored in any high-throughput system.
 - `INS-260403-E69C` [high] Waze discovered churned users understood the mission completely — the only difference between retained and churned users was patience with broken core functionality.
-- `INS-260403-FDD8` [high] Oxygen — the molecule enabling all animal life — is a waste product of photosynthesis, suggesting founders should monitor their byproducts for hidden value.
 - `INS-260404-380C` [high] Apple Pay succeeded because its value proposition enabled its business model and vice versa — the two were designed as a tightly coupled system rather than sequentially.
-- `INS-260404-1E47` [high] The customer profile (jobs, pains, gains) should drive value proposition design, not the other way around.
 - `INS-260403-0196` [high] Great value propositions concentrate on very few customer jobs, pains, or gains but deliver outstanding depth in those areas.
 - `INS-260403-9681` [medium] AI enables marketplaces to capture awareness and consideration stages of the buying cycle, not just intent and purchase.
 - `INS-260403-9B5D` [medium] SMBs failed to adopt SaaS tools not due to cost alone but because the time investment to learn and monitor them was unaffordable — background-running AI agents eliminate this barrier.

@@ -44,7 +44,6 @@ stance: >-
   enthusiasm on easy parts leads to abandoned projects.
 related:
   - INS-260327-0E57
-  - INS-260327-FC5D
   - INS-260330-579B
   - INS-260327-CEE4
   - INS-260327-8C1C

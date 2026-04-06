@@ -45,11 +45,11 @@ stance: >-
   functioning exactly as designed, and attempts to 'fix' the visible dysfunction
   can destroy the outcome.
 related:
-  - INS-260330-8638
-  - INS-260330-181B
   - INS-260330-2E34
+  - INS-260330-8638
   - INS-260330-CED2
   - INS-260330-BB53
+  - INS-260330-56E0
   - INS-260330-13A8
 evidence:
   - id: INS-260330-8638

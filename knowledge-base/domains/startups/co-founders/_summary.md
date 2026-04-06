@@ -1,6 +1,6 @@
 # Topic: co-founders
 
-> 35 insights
+> 33 insights
 
 - `INS-260325-9B73` [high] Esther Perel's framework from couples therapy identifies three root causes under every co-founder conflict: who has power, who feels cared for, and who gets recognized.
 - `INS-260326-D8B9` [high] No one ever says 'great person, wrong skills' when co-founders split — it's always 'brilliant person, impossible to work with.'
@@ -8,8 +8,6 @@
 - `INS-260327-3C96` [high] You need to know whether you can work with people in extremely stressful situations — skills matter less than stress compatibility.
 - `INS-260325-A52D` [high] Co-founder conflict is co-created from a systems perspective — one founder's withdrawal provokes the other's over-functioning, and vice versa.
 - `INS-260325-93A9` [high] 65% of startups fail from co-founder interpersonal tensions yet no one tracks relationship health as a KPI — boards advise on fundraising and strategy but not the founding relationship itself.
-- `INS-260327-A4B1` [high] A co-founder relationship is like a marriage — you will spend 7-10 years together, and without mutual respect it will fail.
-- `INS-260325-7D50` [high] Before listing what your co-founder should change, identify how your behavior feeds the dynamic — if you want them to take fewer risks, give them space to evaluate risk themselves.
 - `INS-260330-8DCE` [high] Vet co-founders through 20+ hours of deep conversation including explicit divorce scenarios, not just friendship duration.
 - `INS-260402-225A` [high] Failed startups disproportionately cite cofounder character flaws over skill gaps as the root cause.
 - `INS-260403-6553` [high] Top universities produce more successful startups because their selective admissions concentrate smart and determined people who become each other's cofounders.

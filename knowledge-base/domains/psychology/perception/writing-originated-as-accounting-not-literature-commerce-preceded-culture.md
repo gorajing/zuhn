@@ -48,11 +48,11 @@ stance: >-
   not from artistic or literary impulses, suggesting that economic necessity is
   a more powerful driver of cognitive innovation than creative expression.
 related:
-  - INS-260403-B508
   - INS-260402-A693
   - INS-260402-12D0
   - INS-260330-DA4A
   - INS-260405-86BB
+  - INS-260402-3639
   - INS-260405-4810
 evidence:
   - id: INS-260330-DA4A

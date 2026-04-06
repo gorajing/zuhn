@@ -1,10 +1,8 @@
 # Topic: resilience
 
-> 146 insights
+> 143 insights
 
 - `INS-260325-DF82` [very_high] Events are not traumatic — they are potentially traumatic — because the same event produces resilience in most people and lasting harm in a minority, meaning trauma is in the response, not the event.
-- `INS-260325-5F3C` [very_high] The stress response is a magnificent multiphasic system that shifts blood, glucose, and attention to survival mode while blocking narrative memory, then gracefully ramps down through a cortisol braking system.
-- `INS-260325-F8EB` [very_high] Research across over 100 studies consistently shows that about two-thirds of people exposed to potentially traumatic events show a resilient trajectory of continued healthy functioning.
 - `INS-260327-48BA` [high] Most suffering about change comes from resisting it rather than from the change itself - accepting impermanence eliminates the anxiety of trying to freeze what cannot be frozen.
 - `INS-260327-F55A` [high] Adaptability to novel situations, not deep expertise in any domain, is the only AI-proof career strategy.
 - `INS-260330-D2CE` [high] Agency and gratitude serve as the top-level indicators of mental health, paralleling blood pressure and endurance in physical health.
@@ -43,7 +41,6 @@
 - `INS-260330-7D5F` [high] Forcing public affirmation of falsehoods establishes that truth itself is dangerous, creating a self-reinforcing compliance spiral.
 - `INS-260326-16A8` [high] Sleep deprivation doesn't just make you tired -- it degrades immune function, insulin sensitivity, emotional regulation, and cognitive performance simultaneously, just as attention depletion collapses decision quality across every life domain.
 - `INS-260329-557C` [high] The capacity to do the same unrewarding thing repeatedly without quitting is learnable and is the main thing separating successful people from everyone else.
-- `INS-260329-640C` [high] Sustained success comes from tolerating difficulty, not from feeling passionate about the work.
 - `INS-260326-6870` [high] Across West Point cadets, spelling bees, inner-city schools, and sales teams, grit consistently outpredicted IQ, physical health, and social intelligence.
 - `INS-260327-71A3` [high] Two people with identical anxiety levels can live completely different lives depending on whether they engage with it or flee from it.
 - `INS-260330-ADC6` [high] A Harvard/Virginia study found people prefer electric shocks to 15 minutes of boredom; in the episode, the subject shocked himself after only 1 minute 57 seconds despite saying he never would.

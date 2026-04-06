@@ -55,7 +55,6 @@ related:
   - INS-260327-40FC
   - INS-260327-9D23
   - INS-260327-2356
-  - INS-260327-C935
   - INS-260327-CB71
 ---
 Napoleon's Alpine crossing wasn't just about surprise — it was about strategic positioning. By arriving in the Austrian rear, he cut their supply lines and their route home. The Austrians were forced to turn around and attack Napoleon to survive, fighting on ground and at a time of his choosing. They couldn't ignore him or maneuver around him — they had to fight through him.

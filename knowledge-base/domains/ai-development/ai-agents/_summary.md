@@ -1,11 +1,10 @@
 # Topic: ai-agents
 
-> 35 insights
+> 34 insights
 
 - `INS-260330-8F07` [high] AI agents' biggest value is eliminating the friction between idea and implementation, not writing code faster.
 - `INS-260325-7FAF` [high] The agentic inflection point comes from model capability AND inference ease-of-use converging simultaneously.
 - `INS-260325-160E` [high] Persistent agents need hierarchical memory management like computer systems, not just bigger context windows.
-- `INS-260325-5F3B` [high] Andrew Ng: agentic workflows with iteration and tool use outperform single prompts even with weaker models — the agent pattern is the future.
 - `INS-260327-B9AD` [high] Pace's CEO argues that building AI into task-level workflow nodes is 'relatively short on AI' — the real opportunity is having agents run entire standard operating procedures end-to-end, replacing BPO services completely.
 - `INS-260325-D540` [high] Expert developers already use different coding agents for ideation, testing, and debugging — not one agent for everything.
 - `INS-260322-EAB6` [high] Separate AI agent work into three roles: the builder constructs platforms, the orchestrator manages workflows, and executors are specialized agents that do actual work.

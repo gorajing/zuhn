@@ -50,10 +50,10 @@ stance: >-
 related:
   - INS-260322-B09B
   - PRI-260326-DB67
-  - INS-260329-EC30
   - INS-260322-7FA4
   - INS-260403-A101
   - PRI-260322-94C4
+  - PRI-260328-C006
 evidence:
   - id: INS-260322-7FA4
     type: TRANSFERS_TO

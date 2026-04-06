@@ -52,7 +52,7 @@ stance: >-
   performance players get wiped out.
 related:
   - INS-260330-9A34
-  - INS-260404-2839
+  - PRI-260405-5912
   - INS-260405-7B7C
   - INS-260403-D8A2
   - PRI-260328-0993

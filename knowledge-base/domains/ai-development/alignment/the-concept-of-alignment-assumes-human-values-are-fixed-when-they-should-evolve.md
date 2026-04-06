@@ -52,10 +52,10 @@ stance: >-
   evolution may be more important than freezing current values into AI systems.
 related:
   - INS-260327-C69F
-  - INS-260330-93F3
-  - INS-260325-6F7F
   - INS-260322-6088
   - INS-260323-9B68
+  - INS-260330-5C80
+  - INS-260325-C2BD
 evidence:
   - id: INS-260330-93F3
     type: SUPPORTS

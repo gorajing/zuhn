@@ -44,11 +44,11 @@ stance: >-
   and user experience, not just their intellectual rigor
 related:
   - INS-260325-5CA5
-  - INS-260403-A5B8
   - INS-260403-DB22
   - INS-260328-91A1
   - INS-260328-9C16
   - INS-260403-F100
+  - INS-260403-DF7F
 evidence:
   - id: INS-260325-5CA5
     type: SUPPORTS

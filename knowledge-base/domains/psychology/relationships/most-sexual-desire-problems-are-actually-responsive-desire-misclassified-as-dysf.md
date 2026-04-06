@@ -51,7 +51,6 @@ stance: >-
   treatment.
 related:
   - INS-260325-87FC
-  - INS-260325-9928
   - INS-260330-EC5E
   - INS-260330-A9DD
   - INS-260325-4CF9

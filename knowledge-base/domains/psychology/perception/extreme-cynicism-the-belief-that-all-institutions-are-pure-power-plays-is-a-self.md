@@ -59,11 +59,11 @@ stance: >-
   factually wrong, and when universally adopted, it creates conditions where
   only authoritarian rule remains viable.
 related:
-  - INS-260325-2B17
   - PRI-260328-7EA5
   - INS-260330-790F
   - INS-260327-57CE
   - INS-260323-6A05
+  - PRI-260325-262C
 evidence:
   - id: INS-260325-2B17
     type: SUPPORTS

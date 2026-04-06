@@ -29,7 +29,6 @@
 - `INS-260403-98F3` Even sound business models die when external threats — competitor lock-in, shifting customer needs, macro trends — go unmonitored.
 - `INS-260327-749F` Fast fashions lower prices were achieved not through manufacturing innovation but by reducing fabric quality and constru
 - `INS-260327-D52B` BNPL services that grow by extending credit to consumers who were excluded from traditional credit face inevitable defau
-- `INS-260329-DF50` In HFT, the first system to react to market data captures the opportunity — everyone else follows with nothing left to take.
 - `INS-260330-6A47` In winner-take-all markets, being adequate first beats being optimal later because the first mover reshapes the competitive environment.
 - `INS-260327-0BDD` When affluent consumers discover and popularize budget shopping channels (thrift stores, discount retailers), prices ris
 - `INS-260327-CADA` The eco-premium business model profits from the gap between consumer willingness to pay for sustainability and the actua
@@ -40,7 +39,6 @@
 - `INS-260327-06A6` When platforms become the primary discovery channel, creators optimize for platform algorithms rather than audience sati
 - `INS-260327-624F` When marketplace platforms allow suppliers to continuously increase pricing and add fees, they eventually price out the 
 - `INS-260330-DC5E` The Cambrian explosion was triggered not by new resources but by predation — eyes, claws, and shells evolved as arms-race responses, producing more innovation in millions of years than billions of years of resource competition.
-- `INS-260403-5348` Software purchase committees meant to save money force vendors to charge 10x more, because the overhead of selling through committees only justifies high-ticket deals.
 - `INS-260327-CCD0` Plant-based meat alternatives that position themselves as replacements for meat face rejection when taste comparison ine
 - `INS-260327-472A` Meal replacement products appeal to efficiency-maximizing consumers who are vocal online but represent a tiny fraction o
 - `INS-260327-A43C` Products whose value proposition is entirely perceptual — creating the illusion of flavor, benefit, or improvement witho

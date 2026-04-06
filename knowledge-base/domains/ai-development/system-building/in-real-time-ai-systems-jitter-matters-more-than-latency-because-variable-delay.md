@@ -51,7 +51,6 @@ stance: >-
   can be compensated for but random latency cannot.
 related:
   - INS-260329-05BB
-  - INS-260329-C375
   - INS-260329-33AA
   - INS-260330-C06E
   - INS-260403-2DE3

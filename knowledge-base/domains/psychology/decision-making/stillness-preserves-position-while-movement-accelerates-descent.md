@@ -46,11 +46,11 @@ stance: >-
   In unstable environments, premature action destabilizes your position faster
   than patient stillness, even when instinct demands movement.
 related:
-  - INS-260330-31A9
   - INS-260330-012D
   - INS-260330-E606
   - INS-260330-FC16
   - INS-260330-04F9
+  - INS-260330-779C
 evidence:
   - id: INS-260330-012D
     type: CHALLENGES

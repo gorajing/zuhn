@@ -47,13 +47,14 @@ stance: >-
   company to continuously deliver value, while optional loyalty programs like
   Amazon Prime leave the core business model unchanged
 related:
-  - INS-260404-62D5
-  - INS-260403-8757
-  - INS-260405-48EC
+  - INS-260327-048B
+  - INS-260327-50CE
   - INS-260403-3F5F
-  - INS-260404-837E
+  - INS-260405-48EC
   - INS-260405-051E
+  - INS-260404-B8AE
   - INS-260405-D4F4
+  - INS-260405-39A6
 ---
 Costco generates 75% of its revenue from membership fees, not product markup. This fundamentally changes its incentive structure: raising prices saves pennies today but risks losing $60-120 annual renewals. Amazon Prime, by contrast, is optional and self-selecting — it creates loyalty but doesn't restructure the underlying business model.
 

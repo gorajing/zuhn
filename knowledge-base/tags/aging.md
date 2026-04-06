@@ -4,7 +4,6 @@
 - `INS-260325-E8BC` Your biological age is malleable through lifestyle changes, even though your chronological age is fixed.
 - `INS-260327-2321` Common skincare ingredients including retinol, chemical sunscreens, and fragrances accelerate skin aging
 - `INS-260327-7000` The cortisol-to-DHEA-S ratio strongly correlates with longevity; keeping it below 3 by minimizing chronic cortisol elevation is key to slowing aging.
-- `INS-260325-D2AA` Aging starts when DNA methylation patterns degrade, causing cells to lose their functional identity — wrinkles, gray hair, and disease are late-stage manifestations of molecular damage that began years earlier.
 - `INS-260330-4A7F` Undercorrecting vision to exercise eye muscles may help the lens but starves the retina and brain of sharp signals — the tradeoff favors wearing readers.
 - `INS-260325-5501` Slowing biological aging would prevent or lessen multiple diseases simultaneously, outperforming the current approach of treating each disease individually.
 - `INS-260405-174B` Replacing blood with saline and albumin mimics young-blood transfusion benefits, revealing that aging damage accumulation — not depletion of youth factors — is the primary mechanism.

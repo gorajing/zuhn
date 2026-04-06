@@ -48,9 +48,9 @@ stance: >-
 related:
   - INS-260329-2AB9
   - INS-260330-45A9
-  - INS-260329-EECD
   - INS-260326-4F90
   - INS-260403-CA46
+  - INS-260330-70B9
 evidence:
   - id: INS-260330-70B9
     type: TRANSFERS_TO

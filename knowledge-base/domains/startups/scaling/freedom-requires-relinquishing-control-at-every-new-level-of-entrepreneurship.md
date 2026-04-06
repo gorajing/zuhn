@@ -53,8 +53,6 @@ related:
   - INS-260330-70BF
   - INS-260403-83E2
   - INS-260323-4C43
-  - INS-260329-0B9D
-  - INS-260330-C087
 evidence:
   - id: INS-260330-2EC6
     type: CONTRADICTS

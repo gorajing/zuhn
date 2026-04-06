@@ -37,11 +37,11 @@ resolutions:
     from expanding what you do, not accelerating what you already did. The
     'depth' of insight remains human.
 related:
-  - INS-260329-2FEB
   - INS-260330-F183
   - PRI-260328-9E3F
   - INS-260327-40DA
   - INS-260323-085A
+  - INS-260321-7D7C
 stance: 'Tao''s papers now have more code, more plots, deeper literature searches'
 evidence:
   - id: INS-260329-2FEB

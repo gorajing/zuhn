@@ -50,11 +50,11 @@ stance: >-
   soulmates exist, that partners should not try to change each other — has made
   relationships worse, not better, compared to the dynastic era it replaced.
 related:
-  - INS-260325-4C0F
   - PRI-260325-F6F7
-  - INS-260330-9FA5
   - INS-260330-BB0C
   - PRI-260325-7A6B
+  - INS-260325-086C
+  - INS-260325-6571
   - INS-260325-66BE
   - INS-260330-A2E7
 evidence:

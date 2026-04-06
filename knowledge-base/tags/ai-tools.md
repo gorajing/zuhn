@@ -1,7 +1,6 @@
 # Tag: ai-tools
 
 - `INS-260322-3083` Stop analyzing AI and start using it this weekend -- vibe coding, agent mode reports, and conversational problem-solving.
-- `INS-260329-9EE4` Programming mastery is about building abstraction layers, not memorizing syntax — a skill that transfers directly to working with AI.
 - `INS-260327-DC0B` AI can synthesize across four Ikigai dimensions (passion, prowess, purpose, profit) to generate personalized career paths with specific waypoints, transforming a vague self-reflection exercise into an actionable planning tool.
 - `INS-260323-64A4` Some people use AI to avoid thinking; others use it to think more deeply than ever before — the tool amplifies whatever intent you bring to it.
 - `INS-260329-808C` Telling AI 'I run a dental practice and patients need to book appointments and fill intake forms' outperforms 'build me a booking app with forms and reminders.'

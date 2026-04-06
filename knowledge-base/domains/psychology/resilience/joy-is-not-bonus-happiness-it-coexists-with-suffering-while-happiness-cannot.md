@@ -55,7 +55,6 @@ related:
   - INS-260404-2829
   - INS-260323-DA91
   - INS-260323-FC5B
-  - INS-260327-A0D7
   - INS-260327-78DA
 ---
 Bowler draws a precise distinction: happiness is a psychologically relaxed state that is cumulative and contextual — it requires things having gone well, and one bad event can topple it. You cannot be happy and sad simultaneously. Joy is fundamentally different — it engages both dopamine systems AND stress systems, coexisting with despair and pain rather than replacing them.

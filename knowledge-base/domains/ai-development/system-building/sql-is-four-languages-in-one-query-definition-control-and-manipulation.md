@@ -50,11 +50,11 @@ stance: >-
   monolithic language prevents the common mistake of treating all SQL operations
   as equivalent in risk and purpose
 related:
-  - INS-260329-0A55
   - INS-260329-67CB
   - INS-260330-206C
   - INS-260329-CB6D
   - INS-260330-E5F7
+  - INS-260329-4F8C
 evidence:
   - id: INS-260327-2C5F
     type: TRANSFERS_TO

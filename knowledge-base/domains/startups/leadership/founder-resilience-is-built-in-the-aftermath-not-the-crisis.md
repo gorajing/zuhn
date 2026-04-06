@@ -46,7 +46,7 @@ stance: >-
   managing your psychology through the long rebuilding period that follows.
 related:
   - PRI-260328-BEAB
-  - INS-260325-5F3C
+  - PRI-260405-9D7B
   - INS-260330-207D
   - INS-260323-543C
   - PRI-260323-A3A3

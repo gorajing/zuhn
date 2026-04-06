@@ -53,8 +53,8 @@ stance: >-
 related:
   - INS-260330-7F62
   - INS-260330-09FF
-  - INS-260330-B09B
   - INS-260330-9933
   - INS-260327-46F6
+  - INS-260330-27E8
 ---
 Carolynn Levy shares a cautionary tale: a YC company originally formed as a Connecticut LLC was advised to convert to a Delaware Corporation. The Connecticut lawyers made a 'very simple but very crucial mistake' in the conversion paperwork. For years, the company believed it was a Delaware Corporation but was actually still a Connecticut LLC. The mistake surfaced during a large fundraising round — the worst possible time — and required four different law firms (two in Delaware, one in Connecticut, one in Silicon Valley) to untangle, running up a $500K bill. The lesson isn't just 'use standard documents' — it's that legal errors have asymmetric consequences. A minor paperwork mistake costs nothing to prevent but potentially hundreds of thousands to fix, because discovery happens during due diligence for high-stakes events when time pressure and counterparty scrutiny are at maximum.

@@ -53,6 +53,7 @@ stance: >-
   them—rather than punishing them—is a superior strategy for building
   world-class culture when your existing talent pool has structural limitations.
 related:
+  - INS-260327-787C
   - INS-260327-8BFF
   - INS-260327-891F
   - INS-260330-C7E6
@@ -60,8 +61,8 @@ related:
   - INS-260330-98EA
   - INS-260330-E0A9
   - INS-260330-4AAD
-  - INS-260330-35E2
   - INS-260330-D661
+  - INS-260327-B3A7
 evidence:
   - id: INS-260327-8BFF
     type: SUPPORTS

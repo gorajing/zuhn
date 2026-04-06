@@ -52,7 +52,6 @@ stance: >-
   leader's guidance, and promoting them to independent leadership reveals that
   their success was derivative rather than generative.
 related:
-  - INS-260326-1CB1
   - INS-260323-9E37
   - INS-260327-D6E5
   - INS-260327-70EF

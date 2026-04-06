@@ -1,6 +1,6 @@
 # Topic: timing
 
-> 51 insights
+> 49 insights
 
 - `INS-260330-ADB7` [high] Gallium nitride was declared a 'dead end' by RCA in 1972 and by Nichia's biggest customer in 1990, yet became an $80 billion industry by 2024.
 - `INS-260323-1494` [high] Having a brilliant idea without an addressable market or distribution infrastructure turns you into free R&D for better-timed competitors.
@@ -25,14 +25,12 @@
 - `INS-260403-7219` [high] The gap between outdated bigger-is-better norms and current small-group advantages creates exploitable arbitrage.
 - `INS-260403-4E7A` [high] Paradigm shifts like AI create rare adoption windows in stagnant industries — whoever wins distribution first locks in for decades.
 - `INS-260325-0F4F` [high] Progress begets progress: fundamental technologies like computing and steam power feed back into the innovation process itself, creating accelerating returns.
-- `INS-260325-B868` [high] Progress begets progress through feedback loops where inventions like computers and steam engines amplify the capacity to invent further.
 - `INS-260330-9346` [high] At the beginning of a technology S-curve, it's impossible to know if commercial viability is months or centuries away — and once the curve kicks in, decades of progress happen in years.
 - `INS-260403-021D` [high] Every major software architecture shift predictably spawns new billion-dollar cybersecurity companies.
 - `INS-260330-39C6` [high] Look for markets where underlying costs have dropped dramatically but incumbents still operate as if the old economics apply.
 - `INS-260330-68EF` [high] France was rich but bankrupt because nobles and clergy were exempt from taxes — the inability to extract revenue from those who hold the most is a fatal structural flaw.
 - `INS-260330-D808` [high] The rapid smartphone upgrade cycle of 2007-2016 was an anomaly driven by technology's growth phase, not a permanent market condition.
 - `INS-260403-93A5` [high] Historical technology windows show the viable launch period for category-defining products is extremely compressed — 11 months for social networks, 30 months for mobile social.
-- `INS-260325-6F7F` [high] For most of human history, people saw the past as a golden age from which they had fallen — the idea that the future could be better only emerged in the 1500-1600s.
 - `INS-260330-1F25` [high] Look for the widest gap between what's now technically possible and how things are still being done.
 - `INS-260325-6A35` [high] At every 80-year cycle, those whose identity and livelihood depend on the old system fight its replacement with extreme passion — the Civil War being the most extreme example.
 - `INS-260323-F5EF` [high] The same macro forces that create billion-dollar winners also destroy them when conditions shift — timing is not a skill.

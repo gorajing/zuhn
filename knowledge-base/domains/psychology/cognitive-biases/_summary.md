@@ -1,6 +1,6 @@
 # Topic: cognitive-biases
 
-> 273 insights
+> 248 insights
 
 - `INS-260326-163A` [very_high] Data quality dominates ML architecture just as install base and data gravity beat product design elegance in business -- what you've accumulated is the moat, not how you've arranged it.
 - `INS-260326-CA66` [very_high] Insulin resistance manifests as heart disease, diabetes, obesity, and dementia -- just as a misidentified business model manifests as churn, pricing problems, and sales failures.
@@ -32,7 +32,6 @@
 - `INS-260330-0BD3` [high] If someone claims they were too incompetent to prevent fraud, but built 50+ subsidiaries and one-way information walls, the complexity itself is evidence of deliberate design.
 - `INS-260330-CA8E` [high] Knowing the math behind G-forces did not prepare Destin for the physical reality of 7G in an F-16.
 - `INS-260404-DA41` [high] Confirmation bias across multiple actors in the justice system compounds into a reliable wrongful conviction pipeline.
-- `INS-260325-F2ED` [high] Kontorovich spent 20 years trying to prove Collatz true before realizing he should also search for counterexamples — a structural bias present in most research.
 - `INS-260330-0AE2` [high] Serendipitous discoveries are purer than confirmatory ones because surprise naturally triggers deeper scrutiny.
 - `INS-260325-A08A` [high] The trend cycle compressed from years to weeks — products become uncool before companies finish manufacturing them.
 - `INS-260404-D976` [high] Samsung users' MRIs showed strong anti-Apple responses they didn't consciously report feeling.
@@ -42,11 +41,9 @@
 - `INS-260404-8D23` [high] Failing to chase down uncomfortable implications is a form of weakness-driven conservatism, not a failure of intellect.
 - `INS-260325-537A` [high] Dostoevsky: forced goodness through willpower creates psychological backlash — suppressed darkness grows stronger until it erupts.
 - `INS-260330-BD04` [high] Non-practitioners who see a field's macro importance systematically underestimate its micro complexity, producing misleading career guidance.
-- `INS-260330-5EAC` [high] Novices overestimate their abilities because they lack the very knowledge needed to recognize what they don't know.
 - `INS-260330-43EE` [high] Novices overestimate their abilities because the skills required to assess competence are the same skills they lack.
 - `INS-260330-1BAC` [high] Educated professionals dismiss male disadvantage because they don't see it in their own circles—a class-based perception gap that blocks policy action for working-class men.
 - `INS-260323-2874` [high] Emotional contagion empathy makes one identified victim more compelling than 500,000 statistical victims — reason must override this bias for good ethical decisions.
-- `INS-260330-E5DC` [high] RuBisCo worked perfectly in low-oxygen atmospheres but its O2-confusion failure mode was invisible until plants changed their own environment — success can hide latent vulnerabilities.
 - `INS-260323-9AA5` [high] Newcomb's Paradox shows smart people split 50/50 because they weigh evidence vs causation differently, not because one side is wrong.
 - `INS-260330-B224` [high] Every physics textbook states the universe is mainly atoms, but 96% is actually dark matter (23%) and dark energy (73%) — the most basic 'fact' in the field is wrong.
 - `INS-260330-F734` [high] Even 4chan has a moderation policy — 'free speech absolutism' is an illusion because every platform necessarily makes curation decisions, and the real question is whether those decisions are responsible.
@@ -74,7 +71,6 @@
 - `INS-260322-38D8` [high] Our meaning-creation ability is so powerful that it generates false positives constantly — we see meaningful patterns in noise because meaning-making is our default mode, not an opt-in process.
 - `INS-260403-D33B` [high] Whether innate or learned, human expectations about variation cannot accommodate the 1000x outcome differences found in startup investing.
 - `INS-260330-41A5` [high] People instinctively project linear trends even when told growth is exponential, because ancestral environments rarely produced compounding phenomena.
-- `INS-260404-8F62` [high] Attachment to things that become part of your identity manifests as fabricated beliefs about their intrinsic superiority.
 - `INS-260404-CE92` [high] When a topic becomes part of someone's identity, they become constitutionally incapable of reasoning about it clearly.
 - `INS-260330-2EC6` [high] Ross went from libertarian idealist growing mushrooms to approving weapons sales, body parts listings, and commissioning hits — each step rationalized as defending the 'free market' philosophy he started with.
 - `INS-260330-99D1` [high] Scientists funded by the Ethyl Corporation claimed lead was 'a natural part of our environment' — a claim Clair Patterson demolished by measuring ocean lead at different depths and comparing modern bones to ancient mummies.
@@ -87,13 +83,10 @@
 - `INS-260327-E07D` [high] If you can't articulate the best argument against your own position, you don't actually understand your position well enough to hold it confidently.
 - `INS-260325-CB41` [high] Gut instincts evolved for ancestral threats and social navigation work well there but fail systematically on questions evolution never needed to answer.
 - `INS-260329-64B8` [high] Solve problems by listing every way to fail, then doing the opposite — your brain finds threats faster than solutions.
-- `INS-260329-A90C` [high] Inversion — defining what to avoid — is more actionable than defining what to pursue because threat-detection is neurologically stronger than reward-seeking.
 - `INS-260330-BEF8` [high] Benjamin Franklin identified lead toxicity in 1786, yet tetraethyl lead was added to gasoline in 1921 and not fully banned worldwide until 2021 — a 235-year gap between known truth and universal action.
 - `INS-260330-D385` [high] Judging other systems as 'primitive' based on missing features you value reveals your bias, not their inferiority.
 - `INS-260330-ECA9` [high] If you experience one event per second during waking hours, a one-in-a-million event should occur roughly every 35 days — making 'miracles' routine.
 - `INS-260404-94BB` [high] Costco's mandatory $60-120 membership fee triggers sunk-cost reasoning that makes customers stop comparing prices and shop exclusively at Costco.
-- `INS-260404-2D53` [high] Costco's mandatory $60-120 membership triggers sunk-cost reasoning that makes customers stop comparing prices, creating loyalty that optional programs cannot replicate.
-- `INS-260405-9F38` [high] Optional subscriptions self-select for rational evaluators who keep comparing prices; mandatory ones commit everyone equally.
 - `INS-260404-ED19` [high] Mandatory membership fees trigger stronger sunk-cost commitment than optional subscriptions because the buyer can't self-select out of the psychological lock-in.
 - `INS-260330-A84D` [high] Coke adopted the tobacco industry's playbook — funding counter-studies to cast doubt on the obesity-soda link rather than debating the science directly.
 - `INS-260403-47B7` [high] Mediocre investors defer to other investors' interest because they know they can't judge startups well independently.
@@ -111,7 +104,6 @@
 - `INS-260403-AFC4` [high] Paradigms shape not just what we think but the mental components we think with, creating invisible evaluation bias against novel ideas.
 - `INS-260403-393C` [high] Parents push children toward safe careers not from materialism but because they share in failures without sharing in the thrill of success.
 - `INS-260323-97A1` [high] Everyone expected a spy to look like James Bond; the actual spy was a goofy, church-going college kid who talked to everyone — our threat models are shaped by fiction, not reality.
-- `INS-260403-4101` [high] Informal delivery forces people to actually understand your work, which most won't bother to do.
 - `INS-260330-13B2` [high] People don't value privacy or decentralization until someone goes to jail or gets deplatformed, creating a predictable cycle of complacency and panic.
 - `INS-260330-3851` [high] The Columbus flat-Earth myth persists because the hero-vs-ignorance narrative is more compelling than the boring truth that educated people already knew Earth was round.
 - `INS-260329-882A` [high] Phishing works primarily by exploiting authority bias and urgency, not by exploiting technical ignorance about email systems.
@@ -146,7 +138,6 @@
 - `INS-260330-DFC8` [high] The 90-second silence after Chelyabinsk's flash drew people to windows, causing 1500 injuries from the subsequent shockwave — the delay created a false sense of safety.
 - `INS-260403-4A9E` [high] PR firms feed identical stories to multiple outlets simultaneously, causing readers to mistake coordinated placement for an organic trend.
 - `INS-260330-E0ED` [high] Intelligent people routinely collapse complex political landscapes into single-axis narratives, making them unable to acknowledge threats from both sides simultaneously.
-- `INS-260405-3331` [high] Optimal calibration is a worse strategy than slight overconfidence when you're fighting systematic biases in the opposite direction.
 - `INS-260403-B6D9` [high] When a concept changes slower than a human lifetime, people treat it as a fixed truth rather than an evolving convention.
 - `INS-260405-370B` [high] People tell pollsters what they're supposed to believe, not what they actually believe, whenever the two diverge.
 - `INS-260330-990F` [high] Ivy League credentials, celebrity endorsements, and institutional backing create a cascade of unchecked assumptions that sophisticated investors like Sequoia and BlackRock use as substitutes for actual investigation.
@@ -158,42 +149,33 @@
 - `INS-260403-D0EE` [high] Beyond a threshold, your stuff starts making your decisions for you.
 - `INS-260403-99FE` [high] When established players consistently make irrational decisions, the resulting gap is a reliable signal of untapped opportunity.
 - `INS-260404-13F1` [high] Once customers pay a membership fee, sunk-cost psychology makes them default to that retailer without comparing prices, converting a one-time payment into persistent behavioral change.
-- `INS-260404-5D39` [high] Once customers pay a mandatory membership fee, sunk-cost bias makes them default to that retailer without comparing prices elsewhere.
 - `INS-260404-3156` [high] Costco's mandatory $60-120 fee triggers sunk-cost reasoning that makes customers stop comparing prices with competitors.
-- `INS-260403-543E` [high] Both Costco and Amazon Prime exploit sunk-cost psychology, but Costco's mandatory fee creates universal lock-in while Prime's optional fee only captures self-selecting customers.
 - `INS-260330-CECB` [high] SafeMoon holders who lost 99% of their investment doubled down and formed cult-like communities because acknowledging the scam would mean admitting devastating personal failure.
 - `INS-260405-A164` [high] Once you've paid an annual fee, you stop asking 'is this the best price?' and start asking 'how do I justify what I already spent?'
 - `INS-260330-8C54` [high] Instincts calibrated for normal environments become deadly when the environment fundamentally changes — surviving requires overriding your deepest impulses.
 - `INS-260330-E0AA` [high] Without Native American written records, even sympathetic European accounts still frame indigenous experience through European categories and concerns.
 - `INS-260329-D8C7` [high] The college earnings premium conflates the value of the degree with the pre-existing traits of people who pursue degrees.
-- `INS-260403-1547` [high] Houdini's long history of surviving dangerous stunts created a cognitive model where he believed he was immune to the risks that killed him.
-- `INS-260330-2784` [high] The 'Fall of Rome' is a framing choice that erases 1000 years of Byzantine continuation, illustrating how dominant narratives shape what we consider real.
 - `INS-260326-A7CB` [high] The body shows nutritional deficiencies on skin and nails years before blood tests detect disease -- just as emotions flag relationship problems before conscious analysis catches up.
 - `INS-260403-53C9` [high] Photosynthesis produced oxygen that poisoned its own key enzyme, forcing plants to build elaborate workarounds for a problem they created.
 - `INS-260323-821F` [high] Mathematicians who publicly rejected the axiom of choice were found to be unknowingly using it in their own proofs -- the most natural assumptions are the hardest to notice.
 - `INS-260402-AC3D` [high] You can see what's missing in weaker tools but are blind to what's missing in your own compared to more powerful ones.
 - `INS-260330-B2C5` [high] When 'trust the science' fails, the remedy is real science shorn of ideology — not wholesale rejection of expertise itself.
-- `INS-260330-41DB` [high] Ancient Greeks knew Earth was round 2000+ years before Columbus; the flat Earth myth was a 19th-century invention that became 'common knowledge' through repetition.
-- `INS-260330-3DB2` [high] Ancient Greeks knew Earth was round 2000+ years before Columbus — the myth that he proved it was invented in the 1800s to create a progress narrative.
 - `INS-260330-4FA3` [high] Medieval educated people already knew Earth was spherical; the Columbus-proved-it-round story was invented in the 1800s by Washington Irving.
 - `INS-260402-0BFF` [high] Having zero controversial private opinions is evidence of conformity, not correctness.
 - `INS-260330-0F04` [high] Swapping the actor in a scenario while keeping the action identical exposes tribally-motivated reasoning.
 - `INS-260402-A999` [high] People confuse wealth with money and assume it's distributed rather than created, leading to flawed moral judgments about inequality.
 - `INS-260327-B0F2` [high] Orwell's deepest warning: the desire to be seen as good is the most effective way to stop actually being good, because performance replaces substance.
 - `INS-260325-E84D` [high] Dunning-Kruger creates a confidence inversion: beginners are most confident, experts least — because skill builds the capacity to see gaps.
-- `INS-260327-4367` [high] The people most confident in their opinions are statistically likely to be the least informed, while genuine experts are plagued by awareness of how much they don't know.
 - `INS-260325-622D` [high] Mentions of 'find your purpose' in books surged 700% in two decades, creating an Epic Script that stigmatizes simple, content lives.
 - `INS-260404-DCCD` [high] 'If you're not with us, you're against us' is often literally false because accidental moderates don't occupy a single point on the political spectrum.
 - `INS-260330-5263` [high] The Euclidean geometry example shows that absolute certainty about 'only one line through two points' was false once you consider curved space — our feeling of certainty is always suspect.
 - `INS-260404-5AEB` [high] Ask what you'd pay for something if you found it dirty and anonymous at a garage sale to reveal your real opinion of it.
 - `INS-260402-F04F` [high] People prefer to believe in innate genius because it absolves them of the responsibility to try harder.
 - `INS-260330-7ABB` [high] Two things don't have to literally match for our brains to see a connection — the 'law of near enough' plus selection and confirmation bias make any vague prediction seem prophetic.
-- `INS-260330-9FA5` [high] The Mandate of Heaven explained dynastic change through moral failure, creating an unfalsifiable narrative that persisted for 3,000 years.
 - `INS-260325-36EA` [high] Chronic niceness is covert manipulation to control others' perception — it breeds resentment in the giver and discomfort in the receiver.
 - `INS-260330-E4FA` [high] The 80/20 rule is a reliable heuristic because power-law distributions emerge independently across nearly all complex systems.
 - `INS-260403-CF54` [high] The pie fallacy — treating wealth as fixed-sum — dominates inequality discourse because it matches childhood experience but not adult economic reality.
 - `INS-260330-F60B` [high] An event rare for the average person can be common for a specific person whose life circumstances concentrate the relevant probability — Walter Summerford was struck by lightning three times because he was an avid outdoor sportsman, not because he was cosmically unlucky.
-- `INS-260330-51D1` [high] Walter Summerford was struck by lightning three times not because of cosmic fate, but because as an avid outdoor sportsman his exposure probability was orders of magnitude higher than average.
 - `INS-260330-66E6` [high] Oscillating between 'I'm an expert' and 'I never claimed expertise' is a deliberate rhetorical trick that makes someone impossible to hold accountable.
 - `INS-260327-C4AC` [high] Ask someone to explain their strongest belief and watch it dissolve - most convictions are adopted from environment rather than derived from reasoning.
 - `INS-260330-7E97` [high] WWII proved that the most technologically advanced civilization in history could commit the worst atrocities, shattering the Enlightenment assumption that progress is unitary.
@@ -201,7 +183,6 @@
 - `INS-260330-27DF` [high] Voter demand, media incentives, and political self-preservation form a mutually reinforcing triangle that locks in extremism.
 - `INS-260323-D479` [high] Nobel believed his explosives would 'put an end to war sooner than peace congresses' by making mutual destruction too horrifying -- the same argument made for nuclear weapons decades later.
 - `INS-260329-CCDE` [high] The when-then fallacy ('when I have X, then I'll do Y') inverts cause and effect, creating circular inaction where the action itself would produce the prerequisite condition.
-- `INS-260327-71A5` [high] Put in a trolley problem, most people discover their actual moral intuitions dramatically contradict their stated moral principles - everyone is a worse person than they believe.
 - `INS-260323-4711` [high] Active engagement makes short intervals feel fast but long periods feel slow, while boredom does the opposite — a key asymmetry in human time perception.
 - `INS-260327-6C64` [high] In game theory tournaments, tit-for-tat (cooperate first, then mirror) consistently beats both always-cooperate and always-defect strategies across repeated interactions.
 - `INS-260330-D066` [high] Obviously false statements serve as loyalty tests that bind groups together, not as attempts at deception.
@@ -217,18 +198,15 @@
 - `INS-260329-78AE` [high] People automatically trust speakers more when the speaker says something that visibly hurts their own interest, because costly signals are expensive to counterfeit.
 - `INS-260325-D25C` [high] We accept that squishing a bug in the past would change the future, but we refuse to believe that our present actions have the same cascading effects.
 - `INS-260330-6620` [high] Every person who tried the backwards bicycle knew exactly what was different, yet none could override their ingrained steering bias through conscious effort.
-- `INS-260330-FBE1` [medium] Unexamined search space makes absence-of-evidence arguments unreliable for ruling out hypotheses.
 - `INS-260403-359D` [medium] Deliberately adopting a beginner's mindset during customer interviews counteracts the confirmation bias that comes from having a pre-existing hypothesis about what customers want.
 - `INS-260327-2021` [medium] In a world changing faster than experience can adapt to, age is no longer a reliable proxy for wisdom - accumulated experience can be accumulated irrelevance.
 - `INS-260404-7541` [medium] Marketing researcher Americus Reed argues brands now serve the identity-support function once held by churches and communities.
 - `INS-260329-895D` [medium] Brands build loyalty through classical conditioning — repeated pairing of stimulus and positive response — not rational persuasion.
 - `INS-260326-9E23` [medium] Before reaching for psychological explanations of cognitive or emotional symptoms, test the cheap physiological fix first.
-- `INS-260330-0EF6` [medium] After learning the backwards bike, Destin couldn't ride a normal bike for 20 minutes — proving he hadn't removed his original bias but only replaced it with a new one.
 - `INS-260330-ACDA` [medium] Salary sharing in tech primarily serves status positioning, not transparency.
 - `INS-260327-924F` [medium] If everyone believes it, it's probably wrong - not because the majority is always wrong but because beliefs adopted without examination accumulate errors that questioning would catch.
 - `INS-260330-BBDA` [medium] Modern conservative parties mirror Bolshevism's structure: declaring all institutions rotten and demanding total destruction rather than incremental reform.
 - `INS-260330-1B5E` [medium] America is the only country whose citizens generate conspiracy theories about their own greatest achievements, like the moon landing — even Soviet citizens under total propaganda didn't doubt Gagarin.
-- `INS-260330-2911` [medium] The brain's evolved pattern-detection system generates conspiracy theories when applied to politics because assuming stupidity feels unsatisfying compared to finding hidden plans.
 - `INS-260403-FE91` [medium] A Dunning-Kruger-like effect causes conventional thinkers to overestimate and independent thinkers to underestimate their own independent-mindedness.
 - `INS-260327-764F` [medium] Nietzsche's most controversial insight: conventional morality may protect the weak but it also constrains the strong, functioning as a cage disguised as virtue.
 - `INS-260403-F66B` [medium] Customers say they want flashy features but actually follow the taste of sophisticated buyers they aspire to imitate.
@@ -250,9 +228,7 @@
 - `INS-260330-4634` [medium] Dinosaurs dominated for 300 million years without developing intelligence, and without their extinction asteroid, mammals would still be rodents — proving intelligence is not evolution's inevitable destination.
 - `INS-260330-1622` [medium] Seemingly incoherent organizational behavior often reflects unresolved internal faction conflicts rather than incompetence or randomness.
 - `INS-260403-CE5F` [medium] Costco's mandatory membership triggers sunk-cost reasoning on every shopping trip, while Amazon Prime's optional nature lets non-subscribers self-select out.
-- `INS-260404-B46E` [medium] Mandatory membership fees trigger universal sunk-cost loyalty across all customers, while optional subscriptions only lock in the subset who already calculated it worthwhile.
 - `INS-260404-A938` [medium] Costco's mandatory membership triggers stronger sunk-cost loyalty than Amazon Prime's optional subscription because every member is psychologically invested.
-- `INS-260403-546E` [medium] Costco's mandatory membership exploits sunk-cost psychology more effectively than Amazon Prime because there is no opt-out comparison path.
 - `INS-260329-A011` [medium] Reframe every purchase as the number of hours you must work to afford it, accounting for taxes.
 - `INS-260404-94EB` [medium] We default to personality explanations for disinterest when the real cause is often structural incentive misalignment.
 - `INS-260327-399D` [medium] You don't have a consistent moral framework - nobody does - and pretending you do prevents the ethical development that comes from grappling with your actual contradictions.
@@ -271,7 +247,6 @@
 - `INS-260330-5F21` [medium] Partially adopted personas trigger uncanny valley effects that repel rather than attract.
 - `INS-260329-A45D` [medium] 'But' acts as an attention redirector — everything after it is amplified, everything before it is diminished.
 - `INS-260329-78A0` [medium] Reframing a $500 purchase as '3 days of your life working' creates visceral cost awareness that dollar amounts alone cannot.
-- `INS-260329-4A55` [medium] A $600/month car lease at $100/day income means 6 of your 22 working days exist solely to pay for the car you drive to work.
 - `INS-260329-BF51` [medium] Showing the compounded future cost of discretionary purchases creates visceral aversion that abstract budget rules cannot.
 - `INS-260329-3C67` [medium] Research controlling for SAT scores and socioeconomic status shows college adds zero earning premium for white and Asian students from wealthy families, yet these families demand college attendance most aggressively.
 - `INS-260329-8B10` [medium] Wealthy families are the strongest college advocates despite getting the least value-add — their kids already have the networks and reference groups college provides.

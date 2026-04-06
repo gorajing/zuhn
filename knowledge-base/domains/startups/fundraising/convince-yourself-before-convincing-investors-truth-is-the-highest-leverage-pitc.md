@@ -46,14 +46,13 @@ stance: >-
   Founders who genuinely believe their startup is worth investing in based on
   honest self-evaluation will outperform polished presenters who lack conviction
 related:
-  - INS-260327-52C1
   - PRI-260327-7924
-  - INS-260327-2F78
   - INS-260329-2B04
   - INS-260330-0E49
   - INS-260330-AF47
   - INS-260330-6A3A
   - PRI-260405-262B
+  - INS-260329-A80B
   - INS-260403-E592
 evidence:
   - id: INS-260330-AF47

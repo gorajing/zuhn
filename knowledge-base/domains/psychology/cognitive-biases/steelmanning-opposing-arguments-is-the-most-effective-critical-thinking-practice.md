@@ -48,11 +48,11 @@ stance: >-
   it forces engagement with the real challenge.
 related:
   - INS-260325-1080
-  - INS-260330-CFEA
   - INS-260327-E07D
   - INS-260330-3570
   - PRI-260405-64C0
   - INS-260330-7994
+  - PRI-260403-57EC
   - INS-260330-87A0
   - INS-260330-4E09
 evidence:

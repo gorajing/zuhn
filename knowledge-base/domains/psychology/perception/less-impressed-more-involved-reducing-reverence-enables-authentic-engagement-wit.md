@@ -49,9 +49,9 @@ resolutions:
 related:
   - INS-260323-B230
   - INS-260327-8521
-  - INS-260403-1547
   - INS-260330-DE89
   - INS-260323-FA30
+  - PRI-260323-A3A3
   - INS-260327-D10B
 stance: >-
   After his father's death, McConaughey discovered that excessive reverence for

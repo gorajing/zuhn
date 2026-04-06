@@ -43,12 +43,12 @@ stance: >-
   systems assumed to be complete
 related:
   - INS-260323-085A
-  - INS-260325-2A1B
   - INS-260321-AE3F
   - INS-260321-9824
   - INS-260325-5A2F
   - INS-260325-CC49
   - INS-260325-5B7F
+  - INS-260323-72EB
   - INS-260323-A52F
   - INS-260325-F306
   - INS-260327-95D3

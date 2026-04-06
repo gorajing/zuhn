@@ -50,10 +50,9 @@ stance: >-
   Expressing exponential growth as doubling time rather than percentage growth
   rate dramatically improves human comprehension and decision quality.
 related:
-  - INS-260330-F493
   - INS-260330-FF5B
+  - INS-260330-F493
   - INS-260330-608C
-  - INS-260330-CB30
   - INS-260330-6AA3
   - INS-260330-ED8A
   - INS-260403-EEDF

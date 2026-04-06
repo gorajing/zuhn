@@ -45,10 +45,10 @@ stance: >-
   product.
 related:
   - INS-260403-DC32
-  - INS-260403-0F5C
+  - INS-260403-EA2D
   - INS-260404-5D18
   - INS-260404-B31C
-  - INS-260403-8C50
+  - INS-260404-61DA
 evidence:
   - id: INS-260404-B31C
     type: REFINES

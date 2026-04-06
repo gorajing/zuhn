@@ -51,6 +51,7 @@ stance: >-
   choices.
 related:
   - INS-260325-1802
+  - INS-260327-725F
   - INS-260327-7B16
   - INS-260330-6C3D
   - INS-260327-D77C

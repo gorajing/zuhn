@@ -57,12 +57,12 @@ related:
   - INS-260324-B0D3
   - INS-260327-263F
   - INS-260327-0A48
-  - INS-260327-FAD7
   - PRI-260328-0993
   - INS-260403-FED6
-  - INS-260324-6A99
+  - PRI-260328-82BE
   - INS-260327-9EE4
   - INS-260327-D013
+  - INS-260329-3609
 ---
 Under Armour's wholesale strategy reveals the asymmetric nature of retail relationships. It took years to convince retailers to stock UA products: retailers are 'cautious creatures who want to minimize every risk of being stuck with unsellable goods.' Under Armour earned their trust gradually through premium pricing (higher per-unit profits for retailers), athlete endorsements (demand signals), and low discount rates (pricing integrity).
 

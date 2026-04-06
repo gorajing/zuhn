@@ -1,6 +1,6 @@
 # Topic: product-strategy
 
-> 68 insights
+> 66 insights
 
 - `INS-260325-95A6` [very_high] MIT found 95% of genAI pilots yield zero P&L impact because enterprise AI tools become static science projects that never adapt to real workflows.
 - `INS-260325-206C` [very_high] AI Dungeon's near-death from token costs is the cautionary tale: variable-cost AI engines inside fixed-price subscriptions create margin erosion that grows with your best users.
@@ -23,7 +23,6 @@
 - `INS-260327-1C7C` [high] Crosby built a law firm rather than legal software because doing the work yourself creates irreplaceable telemetry for improving AI accuracy beyond 90%.
 - `INS-260330-6828` [high] Byron Ferguson spine-tests every arrow to normalize stiffness before shooting — the calibration step matters more than the archer's technique.
 - `INS-260327-47E9` [high] Google knew character consistency was a gap in prior models and deliberately designed Nano Banana's architecture and data to solve it, confirming it requires intentional engineering rather than just more compute.
-- `INS-260325-E1FA` [high] LangChain's Harrison Chase: context engineering (assembling the right info at the right time) matters more than prompt engineering for agents.
 - `INS-260323-8555` [high] Once a developer's intent is determined, all remaining keystrokes to express that intent are zero-entropy actions that AI should eliminate via next-action prediction.
 - `INS-260329-44C9` [high] Figma-first design eliminates the ambiguity that causes AI code editors to hallucinate features and layouts.
 - `INS-260325-040F` [high] AI product defensibility comes from user behavior loops (pain → relief → habit → switching cost) not from AI model improvements that competitors can replicate overnight.
@@ -46,7 +45,6 @@
 - `INS-260327-C5D9` [high] Just as novice managers check in on delegates after 5 minutes, users must learn to give AI agents minutes or hours before expecting results.
 - `INS-260327-7A48` [high] Foundation models give you 90% accuracy for free; per-customer fine-tuning and evals are the highest-ROI path to the remaining 9.99%.
 - `INS-260327-5CB0` [high] Nathan Sobo spent years building Atom on Electron, hit a performance ceiling he couldn't overcome, and rebuilt Zed in Rust from scratch because performance is an architectural choice, not a feature you bolt on later.
-- `INS-260325-20C4` [high] OpenAI's Deep Research team: reinforcement learning on outcomes (not supervised examples) is what enables genuine multi-step reasoning in agents.
 - `INS-260327-63B5` [high] Ramp's insight: instead of building tool APIs one feature at a time, have your agent computer-use your own frontend, leveraging your existing UI team's work and authentication system for instant full feature coverage.
 - `INS-260325-5CA5` [high] 90% of workers use personal AI tools at work despite low corporate adoption — they know what good AI feels like and are actively rejecting static enterprise solutions.
 - `INS-260327-9816` [high] Simple space-time patch tokenization enables diffusion transformers to generate entire videos simultaneously with global context.

@@ -50,6 +50,7 @@ stance: >-
   designing computers on paper — build capability that compounds invisibly until
   an enabling change makes it suddenly deployable.
 related:
+  - INS-260323-FCBB
   - INS-260327-45B4
   - INS-260325-B1D8
   - INS-260325-EBDD

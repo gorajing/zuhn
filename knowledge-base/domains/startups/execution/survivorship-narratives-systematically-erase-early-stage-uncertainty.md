@@ -47,7 +47,6 @@ stance: >-
   close those companies came to failing in their first months.
 related:
   - INS-260329-1CB0
-  - INS-260404-9A82
   - PRI-260328-B11D
   - PRI-260328-604D
   - INS-260402-E140

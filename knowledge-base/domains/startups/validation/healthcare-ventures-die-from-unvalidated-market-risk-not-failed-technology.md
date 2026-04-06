@@ -53,7 +53,7 @@ related:
   - INS-260403-910E
   - INS-260321-3521
   - INS-260405-092A
-  - INS-260404-AFE6
+  - PRI-260405-2A11
 ---
 Healthcare and deep-tech ventures default to optimizing technology risk because that's where founders' expertise lies. Scientists are comfortable asking 'how will the body metabolize this?' but rarely ask 'who will pay for this and how will it be adopted?' BioCity found that too many projects absorbed enormous funding while carrying fundamental flaws in market assumptions about adoption, usefulness, and business model viability.
 

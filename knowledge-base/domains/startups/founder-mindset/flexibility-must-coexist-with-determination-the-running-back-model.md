@@ -50,9 +50,9 @@ related:
   - INS-260403-7C88
   - INS-260403-E6A7
   - INS-260403-3A49
-  - INS-260403-7180
   - INS-260330-5A0A
   - INS-260403-9CD9
+  - INS-260327-3349
 ---
 The 'don't give up on your dreams' framing of determination is actively harmful in startups because the environment is too unpredictable for rigid goal pursuit. The running back metaphor captures the correct synthesis: absolute commitment to forward progress combined with moment-to-moment willingness to change direction entirely.
 

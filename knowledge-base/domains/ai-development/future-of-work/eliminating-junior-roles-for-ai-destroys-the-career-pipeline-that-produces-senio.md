@@ -50,8 +50,8 @@ related:
   - INS-260329-B062
   - INS-260405-945B
   - INS-260326-7B2A
-  - INS-260330-2691
   - INS-260330-16B1
+  - INS-260327-F544
 stance: >-
   When companies replace interns and junior staff with AI, they destroy the
   training ground that produces the next generation of senior experts.

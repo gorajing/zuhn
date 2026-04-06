@@ -57,8 +57,8 @@ stance: >-
 related:
   - INS-260329-A171
   - INS-260329-425B
-  - INS-260329-8181
   - INS-260329-0B55
   - INS-260330-F5A1
+  - PRI-260403-40D7
 ---
 Big-O notation focuses on worst-case scenarios, which is valuable for guarantees but can be misleading about practical performance. The course highlights a striking example: appending to a dynamic array occasionally requires copying all n elements into a new, doubled array — an O(n) operation. Yet append is listed as O(1). The resolution is amortized analysis: because the array doubles in size each time it resizes, each element is copied at most O(log n) times total, and the cost of each resize is 'paid for' by the many cheap O(1) appends that preceded it. This pattern — rare expensive operations amortized over many cheap ones — appears throughout computing. Union-find with path compression achieves amortized near-constant time through a similar principle: occasional expensive path traversals permanently flatten the tree structure, making all future operations cheaper. The insight generalizes beyond data structures: systems that invest in occasional expensive reorganizations (database vacuuming, index rebuilding, cache warming) to make the common case fast are applying the same amortized thinking. Worst-case analysis alone would reject these designs as too expensive.

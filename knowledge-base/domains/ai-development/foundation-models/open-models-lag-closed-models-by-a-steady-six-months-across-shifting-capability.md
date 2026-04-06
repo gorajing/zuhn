@@ -50,7 +50,6 @@ stance: >-
   preventing open models from fully closing the distance.
 related:
   - INS-260322-299C
-  - INS-260325-4E96
   - INS-260323-3F39
   - INS-260327-422B
   - INS-260404-83C6

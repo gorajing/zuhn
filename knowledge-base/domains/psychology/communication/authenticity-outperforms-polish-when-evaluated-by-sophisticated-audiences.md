@@ -49,12 +49,12 @@ stance: >-
   you produce it, and the performance conceals the raw talent they're actually
   screening for.
 related:
-  - INS-260403-C7A9
   - INS-260403-0CA8
   - INS-260403-7586
   - PRI-260405-4B06
   - INS-260330-43EE
-  - INS-260403-DC64
+  - PRI-260403-52DF
+  - INS-260405-D66B
 evidence:
   - id: INS-260403-C7A9
     type: TRANSFERS_TO

@@ -44,11 +44,11 @@ stance: >-
   asymmetry is the key to understanding their competitive advantage.
 related:
   - INS-260325-BBF1
+  - INS-260403-7639
   - INS-260403-7475
   - INS-260403-79AF
-  - INS-260403-7639
+  - PRI-260405-9D7B
   - INS-260325-DF82
-  - PRI-260324-1134
 evidence:
   - id: INS-260325-BBF1
     type: TRANSFERS_TO

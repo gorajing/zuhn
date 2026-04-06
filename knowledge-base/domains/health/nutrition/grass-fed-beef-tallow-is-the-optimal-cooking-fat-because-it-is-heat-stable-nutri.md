@@ -47,7 +47,6 @@ stance: >-
   smoke point, oxidative stability under heat, CLA content, fat-soluble vitamin
   profile, and alignment with ancestral human fat consumption patterns.
 related:
-  - INS-260327-5D5D
   - INS-260327-77B7
   - INS-260327-2EF6
   - INS-260327-AB93

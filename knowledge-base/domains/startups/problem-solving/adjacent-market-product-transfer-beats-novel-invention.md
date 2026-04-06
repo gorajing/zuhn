@@ -49,10 +49,10 @@ stance: >-
   reliable than inventing a purpose-built solution from scratch.
 related:
   - INS-260330-FC16
-  - INS-260330-659D
   - INS-260330-012D
-  - INS-260330-31A9
+  - INS-260330-659D
   - INS-260330-656A
+  - INS-260330-E606
 evidence:
   - id: INS-260330-31A9
     type: TRANSFERS_TO

@@ -54,5 +54,6 @@ related:
   - INS-260327-0E50
   - INS-260327-3586
   - INS-260327-7F98
+  - INS-260327-6EB6
 ---
 Since 90% of heart attacks involve clots (not plaque rupture), the meal prioritizes anti-clotting: wild salmon or sardines (omega-3 EPA is a potent anti-inflammatory and anti-clotting agent), large arugula salad (highest nitric oxide for vasodilation), extra virgin olive oil (anti-clotting polyphenols), avocado (4700mg potassium target for blood pressure), sauerkraut (vitamin K2 prevents arterial calcification), and a small amount of dark chocolate or cacao (flavanols for nitric oxide). This meal hits every cardiovascular target: inflammation, clotting, blood pressure, calcification, and endothelial health.

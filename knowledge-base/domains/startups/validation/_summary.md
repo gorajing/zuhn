@@ -1,6 +1,6 @@
 # Topic: validation
 
-> 149 insights
+> 138 insights
 
 - `INS-260329-F7F4` [high] When a functional prototype costs 15 minutes instead of 3 months, validation shifts from optional luxury to mandatory first step.
 - `INS-260327-CD36` [high] At least 70% of YC's top 100 companies by valuation came from ideas noticed organically rather than deliberate brainstorming, because brainstorming systematically produces tar pit ideas.
@@ -19,11 +19,9 @@
 - `INS-260403-1BCC` [high] Replace opinion-gathering with experiments that require customers to sacrifice something real — time, money, or reputation.
 - `INS-260404-FF0B` [high] Explore dozens of business model canvases before writing a single business plan—plans describe implementation of a proven model, not discovery of one.
 - `INS-260403-8CE6` [high] Deep field immersion before launch uncovers requirements that demo iteration never reveals.
-- `INS-260330-32E6` [high] When everyone tries to prove something true, almost no one looks for reasons it might be false — and that asymmetry delays discovery.
 - `INS-260403-08E6` [high] Empathy maps that capture what customers think, feel, see, hear, say, and do reveal unarticulated needs that direct questioning misses.
 - `INS-260403-DD95` [high] Default customer interviews produce biased data — structured de-biasing techniques are required for truthful feedback.
 - `INS-260403-C737` [high] Always follow customer interviews with cheap experiments that observe actual behavior, because what people say and what they do diverge systematically.
-- `INS-260404-6442` [high] Ask 'when is the last time you...' instead of 'would you...' to get facts over opinions.
 - `INS-260403-B87D` [high] Customer jobs span functional, social, emotional, and basic-need layers — addressing only one leaves value on the table.
 - `INS-260403-113D` [high] Separate customer observation from solution design by temporarily forgetting what you offer.
 - `INS-260403-CBC7` [high] Customer interviews reveal preferences but only call-to-action tests (pre-orders, sign-ups, payments) reliably predict real demand.
@@ -39,7 +37,6 @@
 - `INS-260403-6714` [high] Asking 'why' repeatedly during interviews uncovers the real motivations behind customer behavior that surface answers conceal.
 - `INS-260404-80AC` [high] The physics community's instinct to demand replication before abandoning relativity was correct — the OPERA result was indeed a systematic error.
 - `INS-260327-1E44` [high] Developers spend 60% of their time on non-coding activities — finding and automating those repetitive workflows is where AI startups should focus.
-- `INS-260404-1C48` [high] RuBisCo is a mediocre enzyme that dominates all life on Earth because it arrived first and everything was built on top of it.
 - `INS-260330-48DE` [high] Users ask for specific features but the real insights are the goals behind those requests — Twitch built subscriptions (not polls) because the underlying goal was making money.
 - `INS-260403-A60E` [high] A founding vision reframed as a hypothesis inherits the scientific requirement of testability, forcing founders to specify conditions under which they'd abandon the idea.
 - `INS-260327-EC45` [high] Filter ideas through: (1) is the value to customers special, (2) can we build it, (3) is the market big enough, (4) how are we differentiated from 15 competitors?
@@ -73,15 +70,12 @@
 - `INS-260403-3E3B` [high] Ranking pains by intensity and frequency forces triage that prevents building features for low-stakes annoyances.
 - `INS-260404-1000` [high] RuBisCo is a terrible enzyme that dominates Earth's biology because it arrived first and plants just made 40 billion tons of it to compensate.
 - `INS-260327-C900` [high] Susan turned Tesla saying no to home supercharging into a multi-million dollar business by solving the problem herself.
-- `INS-260330-CFBF` [high] Founders mistake the rituals of starting a startup for the substance, because their entire education trained them to game systems.
 - `INS-260330-5A0A` [high] Young founders trained by education to 'go through the motions' apply the same pattern to startups — hitting all the visible milestones while missing the substance.
 - `INS-260323-40AA` [high] Friends and acquaintances will give positive feedback and feature requests not because they want your product, but because they want to be nice to you — this deceiving signal drives fatal feature creep.
 - `INS-260405-B673` [high] A flawed experiment doesn't just waste time — it produces misleading signal that can kill a good idea or zombie a bad one.
 - `INS-260404-DD95` [high] Never mention your solution during learning interviews — people inherently wish to please and will confirm your opinions.
 - `INS-260405-B32E` [high] Fidelity is a function of evidence gathered, not how good the idea seems internally.
-- `INS-260404-5882` [high] Sequoia's 'proxy for demand' — what are people doing now with bad tools — is more persuasive than market size because it proves behavioral need exists.
 - `INS-260404-61DA` [high] Showing what people currently do with bad tools proves demand more convincingly than any market size number.
-- `INS-260403-EA8C` [high] Demonstrating that people already struggle with inadequate workarounds for your problem is the most compelling demand signal for investors.
 - `INS-260403-EA2D` [high] Show investors what people currently do with inadequate tools to prove demand exists—this 'proxy for demand' is more convincing than market size arguments.
 - `INS-260403-DC32` [high] Sequoia and top VCs look for 'proxy for demand' — evidence that people are already struggling with inadequate tools — rather than abstract market size numbers.
 - `INS-260330-281A` [high] Recorded interviews have an almost magical persuasive effect on teammates — far more than second-hand summaries of findings.
@@ -95,7 +89,6 @@
 - `INS-260323-E15F` [high] When every founder can build fast with AI tools, the bottleneck shifts permanently from execution speed to insight discovery speed.
 - `INS-260329-AAD1` [high] Start free to get reps and feedback, then systematically reduce discounts in batches of five customers until you reach and exceed full price.
 - `INS-260404-4E13` [high] Test cards and learning cards formalize the experiment-learn loop into a repeatable validation system.
-- `INS-260330-201F` [high] The Intel i9 beat M1 on a CPU-intensive JavaScript algorithm benchmark but lost on actual project build times, showing benchmarks mislead real-world decisions.
 - `INS-260323-92AD` [high] Mortgage fraud safeguards are designed for ordinary borrowers, not for brokers who understand the system — Cox learned to exploit seams by moving from employee to company owner where he could see the full architecture.
 - `INS-260327-B12E` [high] Start with customer problems, not technology — talk to as many people as possible about their problems and what skills you can bring.
 - `INS-260323-1B87` [high] Most founders talk to 3-5 customers per week and think that's enough; Kim insists on 3-5 per day with 24-hour follow-up cycles during the PMF search phase.
@@ -112,7 +105,6 @@
 - `INS-260330-901B` [high] The silicon sphere (Avogadro) and Watt Balance (Planck's constant) provide independent checks on each other — dual independent approaches beat single-method perfection.
 - `INS-260404-B01F` [high] Tell stories about specific users with specific problems to prove demand exists beyond your own assumptions.
 - `INS-260403-7072` [high] Tell stories about specific users and their problems rather than citing market size figures to convince investors of demand.
-- `INS-260404-9A82` [high] Investors' primary fear with early startups is that founders built from theory rather than need — specific user stories are the direct antidote.
 - `INS-260330-E8C6` [high] Unlike school and corporate life where gaming metrics works, startups have no boss to trick — only users who judge purely on whether the product solves their problem.
 - `INS-260404-D1E2` [high] Use the Value Proposition Canvas to make explicit how your product addresses the most critical customer jobs, pains, and gains.
 - `INS-260330-F268` [high] If users tolerate a problem and keep using your product anyway, that problem is probably not worth prioritizing over acquisition barriers.
@@ -121,12 +113,10 @@
 - `INS-260330-AB6F` [high] Users enduring terrible UX to use your product is a stronger signal than engagement metrics from a polished product.
 - `INS-260330-5ED4` [high] Users enduring a painful product experience proves genuine demand more reliably than polished prototypes with lukewarm interest.
 - `INS-260327-89C7` [high] YC teaches you to flip your thinking — instead of starting with a cool idea or technology, start with: who are the customers and what problems do they have?
-- `INS-260327-FC5D` [high] Finding the one feature that drives the aha moment is very hard, but your customers will tell you through their behavior.
 - `INS-260403-B635` [high] Having a few users who truly love your product matters infinitely more than having many indifferent users.
 - `INS-260402-D8E7` [medium] Pretty much 100% of startups that make something popular manage to make money from it.
 - `INS-260403-10D8` [medium] AI coaches that ask structured questions help teams articulate what they already know and pinpoint what they still need to learn about customers.
 - `INS-260323-A2E5` [medium] Co-founder departures, funding gaps, and market downturns are symptoms, not root causes — the underlying diseases are attachment to a specific solution and insufficient iteration speed.
-- `INS-260329-F007` [medium] Stop deliberating and start executing — the information you gain from running any reasonable business idea for 30 days exceeds what months of analysis could provide.
 - `INS-260403-3569` [medium] Nine experiment archetypes let founders systematically match the cheapest test to each business assumption.
 - `INS-260403-6342` [medium] Fast business model iteration through structured sprints produces stronger outcomes than extended planning cycles.
 - `INS-260405-EE92` [medium] Use card sorting with real customers to rank their jobs and pains before designing any solution.
@@ -145,7 +135,6 @@
 - `INS-260403-C228` [medium] A.Team's founder described palpable energy in early Zoom rooms as teams formed — genuine product-market fit in marketplaces announces itself through participant enthusiasm, not metrics gymnastics.
 - `INS-260328-372B` [medium] Standard Capital received three times more applications than expected because founders organically spread the word about a genuinely better fundraising process.
 - `INS-260404-2AA1` [medium] Brainstorming with explicit constraints and guidelines channels creative energy more productively than unconstrained sessions.
-- `INS-260403-45AA` [medium] Test Cards (hypothesis definition) paired with Learning Cards (evidence capture) formalize the experimental loop most startups run informally or skip entirely.
 - `INS-260329-DFD1` [medium] TestFlight's screenshot feedback feature captures user frustration in-context — tell beta users to screenshot anything weird and you get zero-friction bug reports with visual evidence.
 - `INS-260403-99D1` [medium] Business experiments need all three layers — traffic, experience, and measurement — to produce trustworthy signals.
 - `INS-260403-4CE7` [medium] Open entry plus strict three-month evidence requirements balances innovation access with resource discipline.

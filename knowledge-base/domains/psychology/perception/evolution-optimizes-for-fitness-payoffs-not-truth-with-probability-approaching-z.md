@@ -58,11 +58,11 @@ stance: >-
   useful fiction rather than an approximation of reality.
 related:
   - INS-260325-82E8
-  - INS-260323-1D46
   - INS-260323-FAF0
   - PRI-260323-1187
   - INS-260327-9DB0
   - PRI-260328-36C3
+  - INS-260322-38D8
   - INS-260330-0ED2
 evidence:
   - id: INS-260327-9DB0

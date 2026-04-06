@@ -51,6 +51,7 @@ stance: >-
   sufficiently capable reasoner.
 related:
   - INS-260321-F864
+  - INS-260329-70F2
   - INS-260329-6004
   - INS-260403-78E2
   - INS-260323-0961

@@ -43,6 +43,7 @@ stance: >-
   with that category, even if competitors existed before them.
 related:
   - INS-260321-9EBB
+  - INS-260324-224B
   - INS-260327-85E2
   - PRI-260328-82BE
   - INS-260330-8481
@@ -50,7 +51,7 @@ related:
   - INS-260403-8256
   - INS-260327-7BB5
   - INS-260330-77A2
-  - INS-260403-E59C
+  - INS-260403-3A9D
 evidence:
   - id: INS-260321-9EBB
     type: SUPPORTS

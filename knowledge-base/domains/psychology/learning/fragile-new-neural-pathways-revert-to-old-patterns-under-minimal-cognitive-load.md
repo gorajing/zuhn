@@ -52,15 +52,15 @@ stance: >-
   distractions like a phone vibration
 related:
   - INS-260330-27CA
+  - INS-260330-9471
   - INS-260330-FE49
   - INS-260330-B047
-  - INS-260330-0EF6
   - INS-260330-0C49
   - INS-260330-FB34
-  - INS-260330-4114
-  - INS-260330-B57C
   - INS-260330-7B62
   - INS-260330-6620
+  - INS-260330-9C78
+  - INS-260330-885C
 evidence:
   - id: INS-260330-0C49
     type: REFINES

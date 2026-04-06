@@ -42,14 +42,13 @@ stance: >-
   competitors to replicate faster, making execution speed and customer insight
   the only durable advantages.
 related:
-  - INS-260323-B4D2
   - PRI-260328-4CC0
   - INS-260402-5EDC
   - INS-260330-D1C8
   - INS-260327-112B
+  - INS-260323-B4D2
   - INS-260327-10E0
   - INS-260328-92BC
-  - INS-260330-A3F2
   - INS-260402-E470
 evidence:
   - id: INS-260328-92BC

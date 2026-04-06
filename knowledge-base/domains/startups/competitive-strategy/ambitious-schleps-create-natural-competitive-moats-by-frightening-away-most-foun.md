@@ -53,8 +53,8 @@ related:
   - INS-260402-910C
   - INS-260403-5441
   - INS-260403-C949
-  - INS-260404-9A82
   - INS-260402-D739
+  - INS-260403-573F
 ---
 Graham draws an analogy between ambitious startup ideas and undervalued stocks: both have less demand than their intrinsic value warrants. When an idea requires dealing with banks, regulators, fraud prevention, and complex infrastructure, most founders self-select out — not through rational analysis but through unconscious avoidance.
 

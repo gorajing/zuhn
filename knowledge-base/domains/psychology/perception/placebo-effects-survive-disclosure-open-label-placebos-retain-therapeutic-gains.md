@@ -52,10 +52,10 @@ stance: >-
   therapeutic improvements they experienced
 related:
   - INS-260322-9095
+  - PRI-260405-CCCE
   - INS-260330-C2C5
-  - INS-260325-20C4
   - INS-260330-887A
-  - INS-260330-EE16
+  - INS-260327-E8D3
 evidence:
   - id: INS-260322-9095
     type: CHALLENGES

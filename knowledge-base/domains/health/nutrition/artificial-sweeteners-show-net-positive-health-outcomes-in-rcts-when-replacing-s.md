@@ -63,10 +63,10 @@ related:
   - INS-260325-0C45
   - INS-260327-918A
   - INS-260327-44CC
-  - INS-260327-C19C
   - INS-260330-45D9
   - PRI-260328-0174
   - INS-260327-B2E3
+  - INS-260325-4E88
 ---
 A network meta-analysis of randomized controlled trials found that substituting non-nutritive sweeteners (NNS) for sugar-sweetened beverages improved multiple health markers including adiposity and HbA1c. Surprisingly, NNS beverages slightly outperformed even water substitution for reducing adiposity, suggesting a mild appetite-suppressant effect from sweet taste without calories. The epidemiological data associating artificial sweeteners with negative outcomes is confounded by lifestyle factors (people who drink diet soda may have other unhealthy habits).
 

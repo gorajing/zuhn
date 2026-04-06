@@ -52,11 +52,11 @@ stance: >-
   immediately before presenting it produces better outcomes than additional
   preparation time spent reinforcing your existing view
 related:
-  - INS-260327-48A5
   - INS-260327-E07D
-  - INS-260330-CFEA
+  - INS-260327-48A5
   - INS-260330-4E09
   - INS-260330-B67C
+  - INS-260403-6E11
 ---
 Bo Seo describes a counter-intuitive practice among elite debaters: in the final moments before going on stage — after weeks of research reinforcing their position — they take out a fresh sheet of paper and write the four best arguments for the opposing side. They then re-read their own case through the eyes of someone who fervently disagrees, identifying every flaw.
 

@@ -46,10 +46,10 @@ stance: >-
   educational pattern of starting broad and gradually specializing.
 related:
   - INS-260330-B91E
-  - INS-260330-EA94
   - INS-260321-7D7C
   - INS-260330-112E
   - INS-260402-F3D7
+  - INS-260329-A862
 evidence:
   - id: INS-260330-EA94
     type: TRANSFERS_TO

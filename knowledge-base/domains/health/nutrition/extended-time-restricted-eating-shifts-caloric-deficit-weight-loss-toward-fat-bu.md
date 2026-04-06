@@ -54,12 +54,13 @@ stance: >-
   and downregulates CIDEC, biasing weight loss toward fat stores rather than
   muscle or glycogen
 related:
-  - INS-260327-C19C
+  - INS-260327-9693
   - INS-260327-51E8
   - INS-260327-F958
   - INS-260330-A33F
   - INS-260330-1078
-  - INS-260327-9693
+  - INS-260330-45D9
+  - INS-260330-6270
 ---
 When time-restricted eating (8-10 hour window) is maintained for 60+ days, two metabolic shifts occur that bias weight loss toward fat: hepatic lipase (LAPC) — a liver enzyme that metabolizes fat for energy — increases, while CIDEC — a lipid droplet-associated lipolysis inhibitor — decreases. This is effectively removing the brake and pressing the accelerator on fat burning simultaneously.
 

@@ -50,7 +50,6 @@ stance: >-
   moderate caffeine consumption counts toward total fluid intake rather than
   causing net dehydration.
 related:
-  - INS-260327-02AF
   - INS-260327-4998
   - INS-260330-A33F
   - PRI-260328-F570

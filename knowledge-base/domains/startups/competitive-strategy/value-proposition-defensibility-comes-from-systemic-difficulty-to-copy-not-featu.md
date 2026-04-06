@@ -50,11 +50,11 @@ stance: >-
   factors like proprietary processes, network effects, and brand loyalty rather
   than from any single differentiating feature.
 related:
-  - INS-260330-A3F2
-  - INS-260403-AABF
   - INS-260403-16D7
   - INS-260330-579B
   - INS-260402-5EDC
+  - INS-260403-43B9
+  - PRI-260405-EBC6
 evidence:
   - id: INS-260330-579B
     type: CHALLENGES

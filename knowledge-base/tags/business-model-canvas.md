@@ -2,7 +2,6 @@
 
 - `INS-260403-49E7` Zoo Labs teaches business strategy by mapping it to musical concepts musicians already understand, accelerating comprehension.
 - `INS-260404-C8FA` BMC blocks form an integrated system where revenue requires a value proposition, which requires infrastructure, which must cost less than it earns.
-- `INS-260404-BA8B` Visual canvases like the Business Model Canvas create shared language that reduces misalignment in strategic discussions.
 - `INS-260403-CA57` Plot every business model on profitability vs. disruption risk to surface hidden vulnerabilities in seemingly healthy businesses.
 - `INS-260403-3F10` Innovation applied to your entire business model — not just your product — creates more durable competitive advantage.
 - `INS-260403-0A97` Business models progress through predictable stages from high-risk exploration to low-risk exploitation, and mapping this journey enables better strategic decisions.
@@ -16,7 +15,6 @@
 - `INS-260403-B4B9` Use your business model as the starting point for defining what to measure, not generic KPIs.
 - `INS-260404-E06E` Existing internal resources can become the foundation of entirely new, higher-margin business models.
 - `INS-260404-2BAD` Organizations using the Business Model Canvas for executive onboarding achieve faster, more complete knowledge transfer by making the company's strategic logic visually explicit.
-- `INS-260403-5FBD` Value proposition fit and business model viability are independent variables — companies need both to survive.
 - `INS-260403-7E7C` Mapping a customer's business model before selling positions your solution within their strategic context rather than as an isolated product.
 - `INS-260403-6342` Fast business model iteration through structured sprints produces stronger outcomes than extended planning cycles.
 - `INS-260403-09F6` Musicians' biggest AHA moment was seeing that the canvas captured what they already understood intuitively but never wrote down.

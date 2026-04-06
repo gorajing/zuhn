@@ -53,10 +53,10 @@ stance: >-
 related:
   - INS-260329-BC36
   - INS-260329-DE17
-  - INS-260329-88B2
   - INS-260329-31A2
   - INS-260329-9A42
   - INS-260329-5427
+  - INS-260320-9937
 evidence:
   - id: INS-260329-5427
     type: EXTENDS

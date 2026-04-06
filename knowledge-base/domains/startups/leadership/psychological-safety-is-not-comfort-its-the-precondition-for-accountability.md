@@ -49,10 +49,10 @@ stance: >-
   teams actually perform best.
 related:
   - INS-260403-35E7
-  - INS-260403-97D6
   - PRI-260328-2C6A
   - INS-260403-C4BE
   - INS-260330-C9A6
+  - INS-260403-EA93
   - INS-260403-1A08
   - INS-260403-8BA2
 evidence:

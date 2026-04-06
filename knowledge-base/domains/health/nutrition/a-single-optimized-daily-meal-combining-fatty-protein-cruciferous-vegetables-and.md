@@ -42,6 +42,7 @@ stance: >-
   time-restricted feeding window
 related:
   - INS-260325-0124
+  - INS-260325-6360
   - INS-260325-69E8
   - INS-260327-F06B
   - INS-260327-83E1
@@ -50,7 +51,6 @@ related:
   - INS-260329-965A
   - INS-260327-BBE3
   - INS-260327-584E
-  - INS-260329-6CCC
 evidence:
   - id: INS-260327-584D
     type: CHALLENGES

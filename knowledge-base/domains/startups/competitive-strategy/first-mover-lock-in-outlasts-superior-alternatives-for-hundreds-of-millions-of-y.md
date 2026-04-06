@@ -55,14 +55,15 @@ stance: >-
   Early ecosystem dominance creates such deep dependency chains that even
   dramatically superior alternatives cannot displace the incumbent
 related:
+  - INS-260325-4E20
   - INS-260325-D033
   - INS-260330-0027
   - INS-260330-4315
   - INS-260403-F52E
   - INS-260404-2695
-  - INS-260404-1D8F
-  - INS-260403-262F
   - INS-260330-22C0
+  - INS-260405-02EE
+  - INS-260405-7E85
 evidence:
   - id: INS-260325-6262
     type: SUPPORTS

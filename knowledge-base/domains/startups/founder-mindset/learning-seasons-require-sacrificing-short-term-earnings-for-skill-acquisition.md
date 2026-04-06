@@ -46,7 +46,6 @@ stance: >-
   outperform optimizing for salary in your 20s because the compounding effect of
   increased earning capacity dwarfs any short-term income difference.
 related:
-  - INS-260329-EFA8
   - INS-260329-C3DF
   - INS-260329-9A7F
   - INS-260329-A937

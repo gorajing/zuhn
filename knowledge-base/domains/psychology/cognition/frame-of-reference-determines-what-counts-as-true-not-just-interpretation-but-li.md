@@ -49,7 +49,6 @@ stance: >-
   relativity, which means 'truth' is more frame-dependent than most people's
   epistemology accounts for.
 related:
-  - INS-260323-0E33
   - PRI-260323-6644
   - INS-260330-5263
   - INS-260330-86A7

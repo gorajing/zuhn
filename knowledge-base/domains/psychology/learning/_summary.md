@@ -1,6 +1,6 @@
 # Topic: learning
 
-> 220 insights
+> 202 insights
 
 - `INS-260329-66C7` [high] Charisma, patience, confidence — all traits are shorthand labels for clusters of small, observable, teachable behaviors like smiling on entry and remembering names.
 - `INS-260330-750A` [high] The Mongols became siege warfare experts and adopted gunpowder by interrogating prisoners and absorbing techniques from conquered peoples.
@@ -16,7 +16,6 @@
 - `INS-260330-1DDE` [high] Evolution can only reach solutions through chains of viable intermediates, while human creativity can leap across non-viable gaps — explaining why no species ever made a campfire despite billions of years.
 - `INS-260330-137C` [high] Fourier's immortality came not from solving the heat equation but from asking whether ANY function could be expressed as sine waves — a question that seemed absurd at the time.
 - `INS-260330-3D7B` [high] Building a working model forces you to confront every gap in your understanding that passive learning lets you skip.
-- `INS-260330-4A6A` [high] Destin's son learned the backwards bicycle in 2 weeks versus his father's 8 months — a roughly 16x speed advantage attributable to childhood neural plasticity.
 - `INS-260330-DF2C` [high] Committing to a prediction before seeing results forces you to engage with the underlying model, not just the outcome.
 - `INS-260330-E8BD` [high] Mastering complex systems requires identifying the few repeated patterns rather than memorizing individual components.
 - `INS-260330-3879` [high] The MNIST network confidently classifies random noise because its cost function never incentivized uncertainty — what you optimize for defines the ceiling of what you learn.
@@ -49,8 +48,6 @@
 - `INS-260403-E6FD` [high] Following genuine curiosity beats chasing hot fields because sustained obsession is required to develop judgment at the frontier.
 - `INS-260330-367B` [high] Reframing algebra as geometry makes abstract concepts tangible and intuitive.
 - `INS-260330-2C97` [high] Testability is necessary but insufficient — good explanations are ones whose internal details are load-bearing and cannot be swapped out arbitrarily.
-- `INS-260329-AD3E` [high] Effective tutorials introduce one new concept at a time while keeping everything else familiar, preventing working memory overload.
-- `INS-260329-493A` [high] Interleaving three projects of increasing complexity throughout a course produces better retention than front-loading theory and back-loading practice.
 - `INS-260330-B5D6` [high] Teaching people that both their skills AND their jobs are malleable building blocks produces a sustainable happiness boost that growth mindset about skills alone cannot achieve.
 - `INS-260330-B966` [high] The Lally 2010 study found a 14x variance in habit formation time (18-254 days) for the same behavior, explained by individual differences in limbic friction management.
 - `INS-260330-FBF0` [high] Destin explicitly states he understands things better when working with his hands, then 3D-prints pulleys so viewers can see the principle decomposed — moving from watching to manipulating transforms comprehension.
@@ -73,7 +70,6 @@
 - `INS-260330-112E` [high] Each programming language (or any skill domain) contains its own infinite depth, making strategic depth-selection more important than exhaustive mastery.
 - `INS-260330-6F2F` [high] Einstein's circle metaphor — as the area of knowledge grows, its circumference of darkness grows even faster — describes a fundamental asymmetry in learning.
 - `INS-260330-885C` [high] Knowing the reversed-steering rule didn't help anyone ride the backwards bicycle, proving knowledge and understanding are separate.
-- `INS-260330-B57C` [high] Knowing how a bike works doesn't help you ride one with reversed steering — knowledge and understanding are fundamentally different.
 - `INS-260405-8412` [high] Your mind is a compiled program whose source code you've lost — the program still runs correctly.
 - `INS-260402-4BC7` [high] Learning compounds on itself, and nearly every form of exponential growth is either learning or deeply intertwined with it.
 - `INS-260403-449D` [high] Programs where participants work on real projects during training transfer skills more effectively than lecture-based alternatives.
@@ -100,11 +96,9 @@
 - `INS-260330-8901` [high] Intellectual knowledge of a system cannot override deeply trained procedural skills — understanding requires embodied practice, not just information.
 - `INS-260330-4C26` [high] After 8 months of daily practice with no visible progress, Destin suddenly could ride the backwards bike one day — skill acquisition followed a step-function, not a gradient.
 - `INS-260329-20F8` [high] Beginners fail because they assume computers infer intent, when computers only execute exact literal instructions.
-- `INS-260329-E914` [high] Start with the simplest working example and layer complexity incrementally rather than teaching theory first.
 - `INS-260330-1B16` [high] Build understanding layer by layer so the final formula feels like a natural extension rather than an intimidating wall of symbols.
 - `INS-260330-E349` [high] The crawl-walk-run method of isolating individual stressors before combining them builds genuine competence in high-stakes scenarios far more effectively than throwing people into the deep end.
 - `INS-260330-BD3C` [high] Breaking terrifying tasks into graduated sub-skills (flip upside down → add hatch → add regulator → add helicopter) builds competence that survives real pressure.
-- `INS-260329-3263` [high] Interleaving mini-projects between theory sections creates concrete anchors that make abstract concepts stick.
 - `INS-260329-8830` [high] Structuring tool instruction around escalating real-world projects produces better learning outcomes than feature-by-feature tutorials.
 - `INS-260329-820D` [high] Alternating between concept explanation and mini-projects creates natural retrieval practice and motivation loops.
 - `INS-260330-4FC5` [high] Schwarzschild solved Einstein's impossibly complex coupled differential equations by imagining the simplest possible universe - one point mass, no rotation, no charge - and still found black holes, white holes, and wormholes.
@@ -114,21 +108,18 @@
 - `INS-260329-3CB6` [high] Master an existing system by exact replication first — earn the right to iterate by proving you can duplicate the original results.
 - `INS-260330-BCAF` [high] Extend your positive anticipation to encompass the full habit envelope — before, during, and after — rather than only celebrating completion.
 - `INS-260403-D56B` [high] School adapts subjects so heavily for teaching that students never encounter what real work in those fields actually looks like, delaying genuine career discovery.
-- `INS-260403-8190` [high] You learn programming far faster building your own game than sitting in any classroom, which is why tech companies require coding tests regardless of degree pedigree.
 - `INS-260403-B7FA` [high] Skill acquisition is driven more by self-chosen hard projects than by structured coursework.
 - `INS-260330-B904` [high] Analyzing the simplest possible case first builds intuition that abstract proofs alone cannot provide.
 - `INS-260330-27A4` [high] Mastery produces a recurring cycle of feeling competent then incompetent again, and this loop never ends.
 - `INS-260330-0B0B` [high] After 8 months of daily practice with no visible progress, Destin suddenly could ride the backwards bike one day — a discrete phase transition.
 - `INS-260329-D3D9` [high] You must tolerate being bad at something long enough to become good at it — most people quit in the incompetence phase.
 - `INS-260329-CA16` [high] Break abstract success traits into the smallest observable behaviors until instructions are followable at your current skill level.
-- `INS-260329-DDBC` [high] Combining multiple top-20% skills creates rarer and more valuable professional profiles than deep specialization alone.
 - `INS-260330-7B62` [high] After months of riding the backwards bike, Destin couldn't ride a normal bike — but after 20 minutes his brain 'clicked back,' proving the old skill was suppressed, not erased.
 - `INS-260330-FA2D` [high] The arrow's flex is invisible to the naked eye but is the entire mechanism of accuracy — slow-motion cameras revealed what centuries of archery couldn't.
 - `INS-260330-13A8` [high] High-speed cameras reveal the arrow's mid-flight flex that explains how it navigates around the bow — without this visibility, the outcome seems impossible.
 - `INS-260329-4D06` [high] 'People skills' isn't a trait — it's a hundred micro-skills like greeting by name, not interrupting, and smiling when someone enters.
 - `INS-260329-1D3B` [high] Soft skills decompose into trainable micro-behaviors — patience is just a bundle of specific habits you can practice.
 - `INS-260330-9484` [high] Byron Ferguson spine-tests every arrow to ensure consistent flex behavior before shooting, separating equipment variance from skill variance.
-- `INS-260329-65CD` [high] Use the simplest tool available when learning something new — complexity in the environment competes with complexity in the subject.
 - `INS-260329-294C` [high] Reducing toolchain complexity for beginners removes failure modes unrelated to the skill being learned, keeping focus on core concepts.
 - `INS-260402-F772` [high] Surprises aren't just new information — they're corrections to existing wrong beliefs, making them the highest-value knowledge unit.
 - `INS-260330-3170` [high] Synchronization in coupled oscillators occurs as a sudden phase transition at a critical coupling strength, not as a gradual convergence.
@@ -137,7 +128,6 @@
 - `INS-260330-2311` [high] Habit formation depends on neural circuits that bracket the habit (before/after) rather than circuits active during the habit execution itself.
 - `INS-260330-63B8` [high] Teaching forces you to confront exactly what you don't know, encoding knowledge far deeper than passive consumption.
 - `INS-260330-026B` [high] Teaching a concept to others reveals precise knowledge gaps that self-study masks.
-- `INS-260329-2FEB` [high] Immediate output from each new concept (printing, calculations, simple games) cements understanding faster than abstract theory.
 - `INS-260403-5C1D` [high] Authority-imposed tests are hackable proxies; market tests honestly measure only what they actually test.
 - `INS-260330-D2D2` [high] 'Almost all' has a precise mathematical meaning that excludes infinitely many cases — perfect squares are 'almost none' of all numbers yet there are infinitely many of them.
 - `INS-260403-8C20` [high] The classic five-paragraph essay is secretly a list of 3 things, and disguising this prevents students from learning that real essays are vehicles for discovering new ideas.
@@ -145,17 +135,14 @@
 - `INS-260330-CC7D` [high] You'll cycle between feeling like a genius and feeling incompetent forever—that's the normal shape of expertise, not a sign of failure.
 - `INS-260330-053D` [high] Framing knowledge as 'you could have invented this' converts memorization into genuine understanding.
 - `INS-260330-16B1` [high] Universalizing a specialized skill devalues its practitioners while wasting the time of learners better suited to other specializations.
-- `INS-260329-88AB` [high] Tutorial consumption creates passive familiarity that masquerades as competence until tested by independent creation.
 - `INS-260329-023F` [high] Real learning happens when you build projects without following a tutorial, forcing yourself to problem-solve independently.
 - `INS-260330-4E95` [high] Thinking of transformations as 'watching every point in space move' builds intuition that rote formula memorization cannot.
 - `INS-260403-41BC` [high] Wisdom comes from cutting away biases and noise accumulated in youth; intelligence comes from selecting one bias and growing it into mastery.
 - `INS-260403-0218` [high] Writing doesn't just express pre-formed ideas — it actively shapes and completes them during the process.
-- `INS-260403-B508` [high] Some ideas are discovered through writing rather than conceived first and then written down, making writing skill a direct input to intellectual output.
 - `INS-260329-A937` [medium] Twenty hours of focused study on a single skill creates enough baseline competence to unlock meaningfully better job opportunities.
 - `INS-260330-FE14` [medium] Destin could diagnose hit quality purely from the crack of the bat — bottom barrel hits sound different from sweet-spot contact.
 - `INS-260330-9C78` [medium] Destin's 6-year-old son learned the backwards bicycle in 2 weeks versus his father's 8 months — roughly 16x faster.
 - `INS-260330-D950` [medium] Destin and his father discovered new phenomena about the carburetor they built only because they were operating and observing it together in real time.
-- `INS-260404-52FC` [medium] CrashCourse teaches photosynthesis by tracking energy through a narrative journey rather than presenting simultaneous equations, dramatically improving comprehension.
 - `INS-260329-656B` [medium] Use complete mini-projects rather than isolated exercises to teach technical concepts.
 - `INS-260330-5EFD` [medium] Destin solved his observation limitation by inverting the aquarium concept — building a structure to keep water out of the camera area rather than keeping water in around the gun.
 - `INS-260330-E47D` [medium] Teaching core intuitions before precise definitions helps learners build mental scaffolding that makes formalism meaningful.
@@ -183,12 +170,9 @@
 - `INS-260403-CBB0` [medium] Math trains thinking through metaphors and abstractions that transfer to any domain, making it valuable far beyond its direct applications.
 - `INS-260330-8F91` [medium] Memory operates on a Zipf-like distribution — a few experiences are retained strongly while most are forgotten entirely.
 - `INS-260329-438D` [medium] Motivation scales with the perceived gap between where you are and your reference point — change who you compare yourself to and you change your drive.
-- `INS-260404-3C96` [medium] The electron transport chain teaches that understanding complex systems requires tracing energy/value transformations at each intermediate step.
 - `INS-260404-6AD7` [medium] CrashCourse teaches photosynthesis by giving every sub-process a distinct name and character (PSII, Calvin Cycle, RuBisCo), turning an overwhelming chemical cascade into navigable chunks.
 - `INS-260330-C8ED` [medium] Counter-intuitive naming in a field signals discovery-order thinking, which predicts where other confusions will cluster.
-- `INS-260403-F63E` [medium] Photosystem II being the first complex in the chain creates unnecessary confusion that persists across all levels of biology education.
 - `INS-260403-837D` [medium] Photosystem II was discovered first but named second, and understanding why reduces the cognitive friction of learning the system.
-- `INS-260403-5215` [medium] Photosystem II was discovered before Photosystem I, so the 'first' complex in the chain is called II — and renaming would cause more confusion than it solves.
 - `INS-260330-0143` [medium] Photosystem II was discovered before Photosystem I but acts first in the chain — explicitly flagging discovery-vs-logic order mismatches helps learners navigate confusing nomenclature.
 - `INS-260330-78B8` [medium] Flagging your own simplifications as 'kind of a lie, but in the direction of truth' builds credibility and primes learners for the real version.
 - `INS-260403-07C3` [medium] Photosystem II comes before Photosystem I in the actual process, creating needless confusion because they were named in discovery order.
@@ -215,10 +199,8 @@
 - `INS-260329-BCCB` [medium] Long-form tutorials that build cumulatively create stronger foundational understanding than consuming the same material in disconnected short videos.
 - `INS-260330-5609` [medium] Treating approximation-then-refinement as a deliberate skill — not a compromise — unlocks problem-solving across domains.
 - `INS-260403-79E0` [medium] The five intrinsic motivators — curiosity, passion, purpose, autonomy, mastery — must be built in sequence, not cherry-picked.
-- `INS-260329-7F70` [medium] Anticipating the 'valley of despair' in skill acquisition transforms it from a quit signal into a progress marker.
 - `INS-260330-550F` [medium] Decomposition feels impossibly hard because our intuition says mixing is irreversible — the Fourier Transform works by reframing the problem as detection rather than separation.
 - `INS-260329-9A7F` [medium] Twenty hours of deeply focused study on one skill — using a physical timer to enforce attention — creates enough competence to begin job applications in that field.
 - `INS-260329-E20C` [medium] The ~2 hour tutorial length balances completeness with finishability, letting beginners go from zero to a working result in one session.
 - `INS-260329-E4F6` [medium] SQL's set operations build transferable intuition for combining and filtering any collections — from arrays to API responses to data pipeline stages.
 - `INS-260330-8898` [medium] The anechoic chamber madness myth went viral because 'silence drives you crazy' is more shareable than 'your brain adjusts and you're fine.'
-- `INS-260329-9927` [medium] Zero-based indexing is counter-intuitive because humans count from 1, and this mismatch creates ongoing off-by-one errors even in experienced programmers.

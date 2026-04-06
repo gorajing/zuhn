@@ -52,13 +52,12 @@ stance: >-
   benefit during regime changes.
 related:
   - INS-260323-3982
-  - INS-260330-58B9
   - INS-260325-5A93
   - INS-260327-C7BF
   - INS-260327-F389
   - INS-260330-13EE
-  - INS-260330-CC9E
   - INS-260330-4088
+  - INS-260330-CC9E
   - INS-260330-DD9C
 evidence:
   - id: INS-260323-3982

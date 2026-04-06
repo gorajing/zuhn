@@ -54,8 +54,6 @@ related:
   - INS-260327-B2E3
   - INS-260327-13A9
   - INS-260327-E728
-  - INS-260327-0D7C
-  - INS-260329-7EEF
 ---
 DEXA scan results demonstrate that an animal-based diet produces favorable body composition metrics: high lean muscle mass and low body fat percentage. This is achieved without calorie counting, macro tracking, or restrictive eating windows. The mechanism is natural satiety signaling from nutrient-dense whole foods.
 

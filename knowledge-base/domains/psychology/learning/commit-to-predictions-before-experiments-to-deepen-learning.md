@@ -47,11 +47,11 @@ stance: >-
   Making explicit predictions before observing outcomes forces deeper causal
   reasoning and produces stronger learning than passive observation alone
 related:
-  - INS-260323-2785
   - INS-260405-809E
-  - INS-260403-A172
   - INS-260403-9EB1
   - INS-260405-092A
+  - INS-260330-2F13
+  - INS-260404-16E1
   - INS-260330-C0D1
   - INS-260403-2824
 evidence:
