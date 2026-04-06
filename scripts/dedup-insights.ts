@@ -213,7 +213,7 @@ function phase2_restoreSourceBodies(): void {
       const { data } = matter(currentRaw);
 
       // Generate a brief summary from the actual content (first 200 words)
-      const cleanText = article.textContent.replace(/\s+/g, " ").trim();
+      const cleanText = (article.textContent ?? "").replace(/\s+/g, " ").trim();
       const summary = cleanText.split(/\s+/).slice(0, 50).join(" ") + "...";
 
       if (DRY_RUN) {

@@ -1365,6 +1365,7 @@ describe("detectTensions — candidate-judge pipeline", () => {
       confidence_a: "medium",
       confidence_b: "high",
       content_distance: 0.3,
+      polarity_score: 2,
     };
 
     await mkdir(join(kbRoot, "meta"), { recursive: true });

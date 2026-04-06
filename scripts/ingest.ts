@@ -141,7 +141,7 @@ async function main(): Promise<void> {
   // 5. Route to handler
   switch (type) {
     case "youtube": {
-      const { ingestYouTube } = await import("./lib/ingest/youtube");
+      const { ingestYouTube } = await import("./lib/ingest/youtube.js");
       const result = await ingestYouTube(url, KB_ROOT);
 
       console.log(`SUCCESS: Source created as ${result.sourceId}`);
@@ -194,7 +194,7 @@ async function main(): Promise<void> {
         process.exit(1);
       }
 
-      const { extractArticle } = await import("./lib/ingest/blog");
+      const { extractArticle } = await import("./lib/ingest/blog.js");
       const article = extractArticle(html, url);
 
       if (!article) {
@@ -259,7 +259,7 @@ async function main(): Promise<void> {
     }
 
     case "reddit": {
-      const { fetchRedditPost } = await import("./lib/ingest/reddit");
+      const { fetchRedditPost } = await import("./lib/ingest/reddit.js");
 
       let post;
       try {
@@ -349,7 +349,7 @@ async function main(): Promise<void> {
     }
 
     case "pdf": {
-      const { ingestPdf } = await import("./lib/ingest/pdf");
+      const { ingestPdf } = await import("./lib/ingest/pdf.js");
 
       try {
         const result = await ingestPdf(url, KB_ROOT);
@@ -367,7 +367,7 @@ async function main(): Promise<void> {
     }
 
     case "image": {
-      const { ingestImage } = await import("./lib/ingest/image");
+      const { ingestImage } = await import("./lib/ingest/image.js");
       const result = await ingestImage(url, KB_ROOT);
       console.log(`\nSUCCESS: Source created as ${result.sourceId}\n`);
       console.log(`Image saved to: ${result.rawPath}`);
@@ -376,7 +376,7 @@ async function main(): Promise<void> {
     }
 
     case "audio": {
-      const { ingestAudio } = await import("./lib/ingest/audio");
+      const { ingestAudio } = await import("./lib/ingest/audio.js");
 
       try {
         const result = await ingestAudio(url, KB_ROOT);

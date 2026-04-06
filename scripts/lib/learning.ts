@@ -690,9 +690,16 @@ export async function discoverClusters(
   if (rows.length < 2) return [];
 
   // 2. Dynamic import for ESM-only graphology modules
-  const { default: Graph } = await import("graphology");
-  const { default: louvain } = await import("graphology-communities-louvain");
+  // tsx CJS interop wraps these ESM modules in { default: fn }, but TS sees the raw
+  // module namespace which is not directly constructable/callable.
+  const graphologyMod = await import("graphology");
+  const louvainMod = await import("graphology-communities-louvain");
 
+  const Graph = graphologyMod.default ?? graphologyMod;
+  // @ts-expect-error — louvain's .default is typed as the module namespace, not the function
+  const louvain: (graph: InstanceType<typeof Graph>) => Record<string, number> = louvainMod.default ?? louvainMod;
+
+  // @ts-expect-error — Graph is the constructor but TS sees the module namespace type
   const graph = new Graph();
 
   // Add all insight nodes

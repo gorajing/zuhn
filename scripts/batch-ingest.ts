@@ -90,7 +90,7 @@ async function ingestOne(
 
   switch (type) {
     case "youtube": {
-      const { ingestYouTube } = await import("./lib/ingest/youtube");
+      const { ingestYouTube } = await import("./lib/ingest/youtube.js");
       const result = await ingestYouTube(normalized, KB_ROOT);
       return {
         sourceId: result.sourceId,
@@ -110,7 +110,7 @@ async function ingestOne(
       }
       html = await res.text();
 
-      const { extractArticle } = await import("./lib/ingest/blog");
+      const { extractArticle } = await import("./lib/ingest/blog.js");
       const article = extractArticle(html, normalized);
 
       if (!article) {
@@ -164,7 +164,7 @@ async function ingestOne(
     }
 
     case "reddit": {
-      const { fetchRedditPost } = await import("./lib/ingest/reddit");
+      const { fetchRedditPost } = await import("./lib/ingest/reddit.js");
       const post = await fetchRedditPost(normalized);
 
       const slug = slugify(post.title || "untitled");
@@ -235,7 +235,7 @@ async function ingestOne(
     }
 
     case "pdf": {
-      const { ingestPdf } = await import("./lib/ingest/pdf");
+      const { ingestPdf } = await import("./lib/ingest/pdf.js");
       const result = await ingestPdf(normalized, KB_ROOT);
       return {
         sourceId: result.sourceId,
@@ -246,7 +246,7 @@ async function ingestOne(
     }
 
     case "audio": {
-      const { ingestAudio } = await import("./lib/ingest/audio");
+      const { ingestAudio } = await import("./lib/ingest/audio.js");
       const result = await ingestAudio(normalized, KB_ROOT);
       return {
         sourceId: result.sourceId,
@@ -257,7 +257,7 @@ async function ingestOne(
     }
 
     case "image": {
-      const { ingestImage } = await import("./lib/ingest/image");
+      const { ingestImage } = await import("./lib/ingest/image.js");
       const result = await ingestImage(normalized, KB_ROOT);
       return {
         sourceId: result.sourceId,

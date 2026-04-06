@@ -173,7 +173,7 @@ describe("hybridSearch", () => {
     db = createTestDb();
 
     // Insert insights into the insights table (for FTS5)
-    const insights = [
+    const insights: Array<Partial<InsightData>> = [
       {
         id: "INS-260320-0001",
         domain: "ai-development",

@@ -50,7 +50,7 @@ export async function parseInsightFile(filePath: string): Promise<ParseResult> {
   }
 
   const errors = result.error.issues.map((issue) => ({
-    path: issue.path,
+    path: issue.path.map((p) => (typeof p === "symbol" ? String(p) : p)),
     message: issue.message,
   }));
 

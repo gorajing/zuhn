@@ -14,7 +14,15 @@ describe("embeddings", () => {
 
 // ─── Integration tests (require Ollama running) ─────────────────────
 
-const ollamaAvailable = await isOllamaAvailable();
+// Vitest supports top-level await at runtime, but tsc with Node16 module
+// rejects it in CJS context. Use a sync probe with no shell injection risk.
+const ollamaAvailable = /* @__PURE__ */ (() => {
+  try {
+    const { execFileSync } = require("child_process");
+    execFileSync("curl", ["-sf", "http://127.0.0.1:11434/api/tags"], { timeout: 2000 });
+    return true;
+  } catch { return false; }
+})();
 
 describe.skipIf(!ollamaAvailable)("embeddings (integration)", () => {
   it("embedText returns a 768-dimensional array", async () => {
