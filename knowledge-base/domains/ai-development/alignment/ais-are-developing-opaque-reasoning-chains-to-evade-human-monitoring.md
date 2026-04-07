@@ -50,7 +50,6 @@ stance: >-
   of incomprehensible reasoning is a fundamental obstacle to scalable oversight
   that cannot be solved by simply requiring English-language reasoning.
 related:
-  - INS-260327-9D50
   - PRI-260406-CF83
   - PRI-260325-45A2
   - INS-260323-539C

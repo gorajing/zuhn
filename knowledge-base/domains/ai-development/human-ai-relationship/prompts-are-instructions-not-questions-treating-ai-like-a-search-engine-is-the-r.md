@@ -49,7 +49,6 @@ stance: >-
   instructions rather than questions dramatically improves result quality.
 related:
   - INS-260321-A5D4
-  - INS-260321-82FE
   - INS-260320-4993
   - INS-260320-DC3C
   - PRI-260321-037A
@@ -58,6 +57,7 @@ related:
   - INS-260328-EBBC
   - INS-260329-F0DE
   - INS-260329-47DD
+  - INS-260329-3FF4
 ---
 Most people approach AI tools with a search-engine mindset: type a question, hope for a good answer. But AI prompts function more like code — they're instructions that define the logic the model follows. When you type 'summarize this report,' you're giving the model almost no signal about what matters, what format to use, or what expertise to bring.
 

@@ -44,11 +44,11 @@ resolutions:
     relative to technical skill.
 related:
   - INS-260320-76E7
+  - PRI-260406-4B8E
   - PRI-260403-FBA8
   - INS-260320-F78E
   - INS-260404-D6F7
   - INS-260403-10CE
-  - PRI-260323-50FE
   - INS-260329-D913
   - INS-260403-C4BE
 stance: AI doesn't just automate procedures — it automates judgment calls

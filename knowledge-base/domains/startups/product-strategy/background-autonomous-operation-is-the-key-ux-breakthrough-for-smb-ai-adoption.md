@@ -50,11 +50,11 @@ stance: >-
   interactive AI tools because SMB owners lack time and technical sophistication
   for active AI management.
 related:
+  - PRI-260406-C4D0
   - INS-260325-EE14
   - INS-260328-91A1
   - INS-260323-05B5
   - INS-260327-63B5
-  - PRI-260328-8317
 evidence:
   - id: INS-260323-05B5
     type: EXTENDS

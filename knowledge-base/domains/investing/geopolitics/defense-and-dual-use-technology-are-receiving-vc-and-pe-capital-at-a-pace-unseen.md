@@ -48,6 +48,7 @@ stance: >-
   private equity capital toward defense and dual-use technology that will
   persist independent of political cycles.
 related:
+  - PRI-260406-275E
   - INS-260405-C49E
   - INS-260405-776D
   - INS-260403-9A94

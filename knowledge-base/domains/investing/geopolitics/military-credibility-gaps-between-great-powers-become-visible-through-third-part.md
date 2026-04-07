@@ -62,7 +62,7 @@ related:
   - INS-260403-4B5A
   - INS-260330-97B3
   - PRI-260322-9E36
-  - PRI-260323-9928
+  - PRI-260406-F9EB
 ---
 Smith's fourth factor — that Trump's interventions against Venezuela and Iran reveal potential Chinese military weakness — relies on an indirect but historically meaningful signal: if China were genuinely capable of defending its client states from U.S. coercive pressure, those states would behave differently under threat. When they don't, or when they capitulate, it reveals a gap between China's projected power and its actual capacity to project force at distance.
 

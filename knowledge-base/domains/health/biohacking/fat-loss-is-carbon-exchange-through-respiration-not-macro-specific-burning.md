@@ -56,7 +56,6 @@ stance: >-
   making the specific exercise modality or macronutrient burned during exercise
   irrelevant to net fat loss when total energy expenditure is equated.
 related:
-  - INS-260325-0BD7
   - INS-260325-0C45
   - INS-260327-6664
   - INS-260327-9693
@@ -66,6 +65,7 @@ related:
   - INS-260330-1078
   - INS-260330-9C40
   - INS-260327-B2E3
+  - INS-260330-713C
 evidence:
   - id: INS-260330-035C
     type: CHALLENGES

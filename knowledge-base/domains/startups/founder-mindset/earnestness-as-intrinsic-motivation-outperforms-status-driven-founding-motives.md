@@ -43,16 +43,16 @@ stance: >-
   Founders motivated primarily by genuine interest in the problem they're
   solving consistently outperform those driven by wealth or fame.
 related:
-  - INS-260325-0103
   - INS-260326-4164
   - INS-260327-5297
   - INS-260329-0014
-  - INS-260403-3442
   - PRI-260405-E256
   - PRI-260405-E9C5
+  - PRI-260406-2411
   - INS-260405-45E0
   - INS-260327-80A8
-  - INS-260403-A57D
+  - INS-260403-6EDC
+  - INS-260403-25EE
 evidence:
   - id: INS-260403-6EDC
     type: SUPPORTS

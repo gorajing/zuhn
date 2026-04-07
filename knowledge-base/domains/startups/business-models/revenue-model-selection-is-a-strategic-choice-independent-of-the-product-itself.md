@@ -51,11 +51,11 @@ stance: >-
   recurring, or usage-based revenue — the revenue model is a first-class
   strategic decision, not a downstream implementation detail
 related:
-  - INS-260329-C8C7
   - PRI-260403-1D59
   - INS-260404-6751
+  - INS-260329-C8C7
+  - PRI-260406-B785
   - PRI-260405-1A34
-  - INS-260323-3D7D
 ---
 The book identifies three primary revenue architectures — transaction (one-time), recurring (subscription), and usage-based — and demonstrates how the choice between them fundamentally shapes business dynamics. Skype's freemium model works because marginal cost per free user is near zero, creating a massive funnel for premium conversion. Red Hat's open-source-plus-support model turns a free product into recurring enterprise revenue.
 

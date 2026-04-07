@@ -54,8 +54,8 @@ related:
   - INS-260403-EDFC
   - INS-260403-B635
   - INS-260404-C720
+  - PRI-260406-8C9D
   - INS-260402-46AD
-  - PRI-260328-B2EA
 ---
 Butler's discussion of signals vs. hard metrics captures a common founder trap: over-indexing on quantitative dashboards when sample sizes are too small for the numbers to mean anything. A 10% retention rate looks terrible in absolute terms but might represent the 5 most passionate early adopters in a new category — the exact cohort you need to understand deeply before scaling.
 

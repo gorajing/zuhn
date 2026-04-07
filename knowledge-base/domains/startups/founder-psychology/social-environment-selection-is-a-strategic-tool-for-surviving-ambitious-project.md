@@ -55,8 +55,8 @@ related:
   - INS-260403-C4E2
   - INS-260404-F212
   - INS-260403-D417
+  - PRI-260406-4E6C
   - PRI-260406-5CA8
-  - INS-260404-E716
 ---
 Graham argues that willpower alone is insufficient to sustain ambitious work through its lame phase — you need to engineer your social environment. But he adds a crucial nuance: generic encouragement is worthless because you'll learn to discount it. What you need are colleagues who can actually judge early work accurately, distinguishing genuinely promising ugly ducklings from actual bad ideas. The best source of such colleagues is people working on their own ambitious projects, because they've calibrated their judgment through direct experience.
 

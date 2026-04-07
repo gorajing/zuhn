@@ -52,9 +52,9 @@ stance: >-
 related:
   - INS-260330-8D27
   - INS-260330-DAAD
+  - PRI-260406-56A9
   - INS-260327-6AB1
   - INS-260330-8DCE
-  - INS-260330-8550
 ---
 Harry calls this the 'Tokyo Test' — could you fly to Tokyo with this person and stay engaged for the entire flight? He walks 6.5-hour marathons with potential hires, founders he's evaluating for investment, and even his mother. The psychology is sound: in hour 1 people perform, in hour 2 they hold it together, in hour 3 the facade starts cracking, and in hours 4-6 you meet the real person.
 

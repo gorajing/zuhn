@@ -46,10 +46,10 @@ stance: >-
   abandonment of working strategies.
 related:
   - INS-260329-1435
-  - INS-260329-C689
   - INS-260404-56AC
+  - PRI-260406-967A
+  - INS-260329-C689
   - INS-260330-4AE7
-  - INS-260329-163B
 evidence:
   - id: INS-260330-4AE7
     type: CHALLENGES

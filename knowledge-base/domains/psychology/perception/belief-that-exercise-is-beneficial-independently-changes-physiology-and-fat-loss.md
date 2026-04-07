@@ -53,7 +53,6 @@ stance: >-
   qualifies as beneficial exercise causes measurable fat loss, waist-to-hip
   changes, and cardiovascular improvements independent of behavior change
 related:
-  - INS-260330-2332
   - PRI-260328-024A
   - INS-260327-0795
   - INS-260330-6C59

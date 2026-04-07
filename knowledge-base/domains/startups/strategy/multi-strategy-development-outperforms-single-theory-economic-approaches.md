@@ -55,11 +55,11 @@ stance: >-
   of growth.
 related:
   - INS-260330-73C1
+  - PRI-260406-D9D6
   - INS-260403-9CA6
   - INS-260323-822B
   - INS-260403-FAA2
   - INS-260404-C92A
-  - PRI-260322-9E36
 evidence:
   - id: INS-260323-822B
     type: SUPPORTS

@@ -52,7 +52,6 @@ related:
   - INS-260403-EDEF
   - INS-260403-79AD
   - INS-260403-4075
-  - INS-260403-AA20
 evidence:
   - id: INS-260404-459B
     type: SUPPORTS

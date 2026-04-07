@@ -60,12 +60,11 @@ stance: >-
   stimulus but as strategic capability-building that pays compounding dividends
   over 10-20 years
 related:
-  - INS-260405-24F0
   - INS-260404-EC16
   - INS-260403-8BA4
   - INS-260404-5AC8
   - INS-260327-D1B7
-  - INS-260322-8147
+  - PRI-260406-4B37
 ---
 After the 2008 financial crisis, China deployed hundreds of billions into infrastructure — rail, high-voltage transmission lines, ports, and digital networks. The immediate goal was economic stimulus, but the lasting effect was building physical capacity that became a competitive moat for Chinese industry. By 2024, China was building more solar capacity in a single year than the US had built in total, partly enabled by the grid infrastructure to support it.
 

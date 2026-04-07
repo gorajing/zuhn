@@ -43,10 +43,10 @@ stance: >-
   abstract containers
 related:
   - INS-260326-4F90
+  - PRI-260406-1AC6
   - INS-260403-C135
   - INS-260329-0F39
   - PRI-260406-FB98
-  - INS-260329-F892
 evidence:
   - id: INS-260326-4F90
     type: TRANSFERS_TO

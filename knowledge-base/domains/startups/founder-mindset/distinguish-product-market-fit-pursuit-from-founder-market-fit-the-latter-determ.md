@@ -60,7 +60,6 @@ related:
   - INS-260330-B0EB
   - INS-260330-A86C
   - INS-260403-C228
-  - INS-260404-4BF9
   - INS-260403-DC59
 stance: 'Before chasing product-market fit, verify you have founder-market fit'
 ---

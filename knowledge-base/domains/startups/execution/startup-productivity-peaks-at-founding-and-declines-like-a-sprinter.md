@@ -39,7 +39,6 @@ stance: >-
   The earliest phase of a startup is its most productive period, and success
   comes from slowing down the least rather than accelerating later
 related:
-  - INS-260329-3848
   - INS-260403-4E23
   - PRI-260324-12CF
   - INS-260403-6D4F

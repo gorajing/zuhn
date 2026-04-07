@@ -48,8 +48,8 @@ stance: >-
 related:
   - PRI-260406-7FE4
   - INS-260404-9E4E
+  - PRI-260406-4B37
   - INS-260405-39FA
   - INS-260403-330E
-  - INS-260329-E7A4
 ---
 The networked-core model inverts the default startup scaling playbook. Instead of internalizing every function through full-time hires, you maintain a small permanent team that owns vision, roadmap, and culture, then surround it with an expandable shell of fractional specialists, contractors, and AI-driven processes. Waze demonstrated this by scaling through volunteer map editors and crowdsourced data rather than hiring. The key advantage is that you retain the speed and clarity of a small team while expanding output capacity. The outer ring can expand for launches and contract during maintenance phases, avoiding the permanent coordination overhead that comes with headcount growth.

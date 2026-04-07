@@ -48,10 +48,10 @@ stance: >-
   retention data proves it.
 related:
   - INS-260403-E930
+  - PRI-260406-D017
   - INS-260403-E1E0
   - INS-260403-53B0
   - INS-260404-563B
-  - INS-260329-2EB1
 ---
 High acquisition with poor retention is churn disguised as growth. The article frames retention as the single most honest signal: if users don't come back, you don't have a business. GRR (Gross Revenue Retention) measures how much revenue you keep without expansion; NRR (Net Revenue Retention) adds upsells and expansion. NRR above 120% signals compounding — users aren't just staying, they're deepening.
 

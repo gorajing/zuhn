@@ -57,8 +57,8 @@ related:
   - INS-260330-B4BD
   - INS-260330-74AC
   - INS-260330-0FF7
+  - PRI-260406-A77B
   - INS-260330-AAE9
-  - INS-260330-2C57
 evidence:
   - id: INS-260330-B4BD
     type: EXTENDS

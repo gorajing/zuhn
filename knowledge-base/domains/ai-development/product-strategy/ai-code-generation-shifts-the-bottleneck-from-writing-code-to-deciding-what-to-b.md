@@ -49,11 +49,11 @@ stance: >-
   When AI writes 90%+ of code, the scarce resource becomes product judgment and
   merge queue throughput, not engineering capacity
 related:
+  - PRI-260406-9FA8
   - INS-260404-9D14
+  - PRI-260406-72B3
   - INS-260403-EDA1
   - INS-260327-3E23
-  - PRI-260321-14D8
-  - PRI-260403-9E80
 ---
 Mike Krieger reports that 90-95% of code for some Anthropic products is now AI-written, and the transformation happened faster than anyone expected. The bottleneck has shifted from 'can we build it?' to 'should we build it?' and 'can we get it merged and deployed?'
 

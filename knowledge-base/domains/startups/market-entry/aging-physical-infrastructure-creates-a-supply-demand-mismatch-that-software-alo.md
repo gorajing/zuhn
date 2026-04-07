@@ -56,7 +56,6 @@ related:
   - INS-260322-CFB1
   - PRI-260406-D8C3
   - INS-260404-8746
-  - INS-260330-C477
   - INS-260403-C6C3
 evidence:
   - id: INS-260322-C472

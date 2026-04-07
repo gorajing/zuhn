@@ -65,8 +65,8 @@ related:
   - INS-260405-3753
   - PRI-260405-8E48
   - INS-260330-121C
+  - PRI-260406-7128
   - INS-260405-F6E6
-  - INS-260404-FAAC
 ---
 Most people's mental model of food economics is retailer-centric: demand rises, prices rise; competition between stores keeps margins thin. But this model misses where the actual leverage lives. Physical limits (water availability, arable land), economic incentives (which crops survive on which margins), and policy flows (subsidies, trade agreements) all operate upstream of the grocery shelf.
 

@@ -61,8 +61,8 @@ related:
   - INS-260405-F20C
   - INS-260405-E027
   - INS-260403-5A4C
+  - PRI-260406-9599
   - INS-260327-D1B7
-  - INS-260403-6694
 ---
 China's tournament model creates national champions like BYD, but because dozens of regional firms were simultaneously scaled up with cheap credit and subsidies, the losing competitors don't simply disappear — their capacity persists, driving down prices and distorting global markets. This is the mechanism behind China's reputation for 'dumping': overcapacity is not a policy failure but a predictable structural output of tournament-style competition.
 

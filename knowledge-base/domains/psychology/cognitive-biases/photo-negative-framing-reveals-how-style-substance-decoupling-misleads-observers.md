@@ -52,7 +52,6 @@ stance: >-
   effectiveness, observers systematically misjudge competence by anchoring on
   presentation rather than outcomes.
 related:
-  - INS-260327-A43C
   - INS-260405-2E0A
   - INS-260404-312D
   - INS-260330-070A

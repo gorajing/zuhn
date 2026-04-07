@@ -55,8 +55,8 @@ related:
   - INS-260330-9D44
   - INS-260403-8E25
   - INS-260403-6FEB
+  - PRI-260406-C4FD
   - INS-260404-29AF
-  - INS-260327-CB1E
 ---
 As high-quality language models proliferated and commoditized in 2024, the focus of AI competition shifted from the model layer to infrastructure. The U.S. leads in advanced chips and mass deployment (exemplified by xAI's 100,000 liquid-cooled H-100 cluster), while China leads in energy production with 9,000+ TWh generation, the world's largest coal fleet, dominant solar capacity, and extensive ultra-high-voltage transmission infrastructure.
 

@@ -56,7 +56,6 @@ related:
   - INS-260402-8424
   - INS-260405-1A59
   - INS-260404-B0BF
-  - INS-260405-B967
   - INS-260403-4F68
 ---
 A common founder mistake is choosing funding based on what sounds most attractive rather than what fits their stage. The article lays out a clear mapping: pre-revenue startups have limited options and should focus on grants, pitch competitions, and tax credits. Early-revenue startups with some cash flow can unlock revenue-based financing and invoice factoring. Growth-stage startups already backed by VC can access venture debt and business lines of credit.

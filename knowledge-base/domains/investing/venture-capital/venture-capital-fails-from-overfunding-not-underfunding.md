@@ -53,10 +53,10 @@ related:
   - INS-260403-160A
   - INS-260403-16B4
   - INS-260403-358D
-  - INS-260403-37B9
   - INS-260403-A57D
   - INS-260403-5F3E
   - INS-260404-FD24
+  - INS-260403-2369
 ---
 Roelof Botha's 'return-free risk' diagnosis reveals a counterintuitive dynamic: venture capital's problems stem from abundance, not scarcity. With $250B+ deployed annually but only ~20 billion-dollar exits, the math requires 'forty Figmas a year' to justify current capital levels. The excess creates a cascade — valuations rise beyond what public markets sustain (Figma fell below IPO price within four months), talent spreads across undifferentiated startups, and even strong companies can't deliver returns proportional to capital invested.
 

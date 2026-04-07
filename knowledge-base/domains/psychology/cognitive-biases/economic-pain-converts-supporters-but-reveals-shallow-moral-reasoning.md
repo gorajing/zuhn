@@ -57,7 +57,7 @@ related:
   - PRI-260328-BEAB
   - PRI-260328-E53E
   - PRI-260406-003E
-  - INS-260325-B8CB
+  - PRI-260406-6FA3
 evidence:
   - id: INS-260325-B8CB
     type: SUPPORTS

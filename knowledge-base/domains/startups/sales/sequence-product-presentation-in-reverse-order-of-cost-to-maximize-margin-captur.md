@@ -48,11 +48,11 @@ stance: >-
   items before they reach expensive low-margin offerings.
 related:
   - INS-260329-55D8
+  - PRI-260406-BE21
   - INS-260403-1C31
   - PRI-260328-F497
   - PRI-260406-5BD0
   - INS-260328-ACC3
-  - INS-260322-B450
   - INS-260330-A9F0
 ---
 Yogurt stores and buffets both exploit the same principle: customers have a finite container (cup or plate) and will fill it progressively. By placing the highest-margin item first (yogurt at 8¢/oz cost, sold at 50-60¢/oz) and the lowest-margin items last (fresh fruit at 10-40¢/oz cost, sold at 25-60¢/oz), the store ensures most of the cup contains profitable product. Buffets do the same — salad and bread first, seafood at the end. This translates to any business with sequential presentation: product pages, service packages, onboarding flows. Lead with what makes you money, let the expensive-to-deliver items come last when the customer's 'capacity' is mostly consumed. The principle is especially powerful in self-serve contexts where customers feel they're making free choices while the architecture predetermines margin allocation.

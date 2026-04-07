@@ -50,10 +50,10 @@ stance: >-
   angel investors who fund the next generation.
 related:
   - INS-260330-E811
-  - INS-260403-7C67
   - PRI-260406-3AE8
+  - PRI-260406-701E
+  - INS-260403-7C67
   - INS-260323-3ADC
-  - INS-260404-5CC6
 evidence:
   - id: INS-260323-3ADC
     type: CHALLENGES

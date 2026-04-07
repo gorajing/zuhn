@@ -55,11 +55,11 @@ stance: >-
   erodes when the US demonstrates purely transactional behavior toward allies.
 related:
   - INS-260403-D00D
+  - PRI-260406-7862
   - INS-260403-8C41
   - INS-260403-3912
   - INS-260403-B01D
   - INS-260403-A87D
-  - INS-260403-62A9
   - INS-260404-95CA
 evidence:
   - id: INS-260329-DFDD

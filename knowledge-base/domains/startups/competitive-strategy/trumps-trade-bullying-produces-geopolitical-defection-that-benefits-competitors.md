@@ -54,13 +54,13 @@ related:
   - INS-260323-9FCA
   - INS-260323-D6BD
   - INS-260327-DBEB
-  - INS-260327-6ACA
   - INS-260330-9575
   - INS-260330-3BBD
   - INS-260330-A192
   - INS-260330-3994
   - INS-260330-F759
   - INS-260404-F5C3
+  - INS-260403-E936
 ---
 In 2024, Canada followed the US in imposing 100% tariffs on Chinese EVs. But as Trump escalated tariff threats against Canada itself, the cost-benefit calculation shifted: Canada no longer saw as much downside in breaking with US policy. The result was a targeted deal — 49,000 Chinese EVs annually at 6.1% tariff in exchange for China cutting canola tariffs from 84% to 15%.
 

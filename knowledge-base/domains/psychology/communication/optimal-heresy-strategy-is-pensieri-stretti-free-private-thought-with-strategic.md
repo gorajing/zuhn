@@ -54,10 +54,10 @@ stance: >-
   intellectual output than either full conformity or full transparency.
 related:
   - INS-260323-64A4
+  - PRI-260406-4E6C
   - INS-260329-B0F4
   - INS-260325-36F0
   - INS-260405-4EAA
-  - PRI-260323-287B
 evidence:
   - id: INS-260323-64A4
     type: TRANSFERS_TO

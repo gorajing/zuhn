@@ -53,12 +53,12 @@ stance: >-
   deprivation.
 related:
   - INS-260325-1802
-  - INS-260323-A700
   - PRI-260325-697B
   - INS-260327-ECBB
+  - INS-260323-A700
   - INS-260403-7A1D
   - PRI-260403-88F5
-  - PRI-260325-A95E
+  - PRI-260406-6FA3
   - INS-260403-E4B6
 evidence:
   - id: INS-260323-A700

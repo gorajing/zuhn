@@ -49,10 +49,10 @@ stance: >-
   enduring those periods
 related:
   - INS-260329-1D08
+  - PRI-260406-967A
   - INS-260329-163B
   - PRI-260325-070D
   - PRI-260406-2B11
-  - INS-260329-AAE3
   - INS-260330-8156
 evidence:
   - id: INS-260329-1D08

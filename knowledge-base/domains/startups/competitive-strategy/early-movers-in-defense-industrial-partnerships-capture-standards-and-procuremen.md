@@ -55,11 +55,11 @@ stance: >-
   advantage because they shape standards, procurement pathways, and long-term
   institutional relationships that late entrants cannot easily replicate.
 related:
+  - PRI-260406-275E
   - INS-260330-D460
   - INS-260403-6570
   - INS-260403-CACB
   - PRI-260406-0EC6
-  - INS-260403-8806
 ---
 Japan is creating new institutions under ATLA (including DISTI) explicitly designed to shorten the path from commercial technology to defense deployment. Companies that engage now help define qualification standards, testing protocols, and procurement relationships. These institutional structures, once established, become the operating system through which all future participants must work.
 

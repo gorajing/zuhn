@@ -56,6 +56,7 @@ related:
   - INS-260330-DCE1
   - INS-260403-6FEB
   - INS-260403-2E12
+  - PRI-260406-9599
   - INS-260403-2B95
 ---
 The article introduces the concept of an 'Electric Tech Stack' — a converging set of components (batteries, electric motors, power electronics) that underpins an increasing number of industries: transportation, electronics, robotics, drones, and military hardware. EVs are the highest-volume consumer of these components, so they function as the demand anchor that allows producers to achieve scale and drive down costs for every other application.

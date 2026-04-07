@@ -58,7 +58,7 @@ related:
   - INS-260322-88FC
   - INS-260403-118B
   - INS-260403-8EFF
-  - INS-260327-9377
+  - PRI-260406-701E
 ---
 The NSF's Tech Labs initiative will invest up to $1 billion over five years in multiyear institutional grants ($10-50M/year) to research organizations operating outside traditional university structures. This represents a concrete implementation of metascience ideas that have been developing over the past decade — the recognition that modern scientific breakthroughs increasingly require massive datasets, large integrated teams, and sustained institutional support that project-based grants to individual PIs cannot provide.
 

@@ -56,8 +56,8 @@ related:
   - INS-260327-4F8C
   - INS-260330-F9C9
   - INS-260403-5710
+  - PRI-260406-1115
   - PRI-260324-5F05
-  - INS-260403-33DF
 ---
 Noah Smith argues the most convincing explanation for Trump's attachment to IEEPA tariffs specifically — rather than other available tariff authorities — is that IEEPA allowed him to set rates by country, choose exemptions, and negotiate bilaterally with zero congressional oversight. This created a patronage mechanism: companies line up to curry favor hoping for exemptions, countries negotiate directly with the president, and domestic businesses toe political lines to avoid being targeted.
 

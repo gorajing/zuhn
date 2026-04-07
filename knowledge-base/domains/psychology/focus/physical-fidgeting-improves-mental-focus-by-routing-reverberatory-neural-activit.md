@@ -52,11 +52,11 @@ stance: >-
   Allowing controlled physical movement during cognitive tasks enhances focus by
   giving premotor circuit activity an outlet rather than suppressing it
 related:
-  - INS-260330-EDDD
   - INS-260330-9C40
+  - INS-260330-EDDD
+  - PRI-260406-449E
   - INS-260330-233C
   - PRI-260405-E628
-  - INS-260330-4079
   - INS-260330-779C
   - INS-260330-332E
 evidence:

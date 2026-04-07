@@ -48,9 +48,9 @@ resolutions:
 related:
   - INS-260325-0C4A
   - INS-260404-9CAD
+  - PRI-260406-967A
   - PRI-260328-0AB1
   - INS-260326-8E6D
-  - INS-260329-C689
   - INS-260329-6130
 stance: >-
   Repeatedly putting yourself in high-stakes situations where failure is likely

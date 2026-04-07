@@ -49,12 +49,11 @@ stance: >-
   incumbents dismiss as too small, because that perceived insignificance is
   precisely what gives you room to establish a foothold before expanding.
 related:
-  - INS-260329-BB8F
   - INS-260330-13E8
   - INS-260327-540D
+  - PRI-260406-8C9D
   - INS-260402-426C
   - INS-260403-71A6
-  - INS-260403-9482
 evidence:
   - id: INS-260327-540D
     type: REFINES

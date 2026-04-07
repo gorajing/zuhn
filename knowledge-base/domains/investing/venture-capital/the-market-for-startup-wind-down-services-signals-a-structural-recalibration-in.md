@@ -48,6 +48,6 @@ related:
   - PRI-260328-0993
   - INS-260404-77CD
   - INS-260405-C5E5
-  - INS-260403-CC59
+  - PRI-260406-C422
 ---
 Pitchbook's coverage of booming startup wind-down services is a lagging indicator of the 2021 capital cycle's full unwinding. Specialized wind-down firms emerging as a business segment suggests the volume of failing startups has become large enough to commoditize the process — historically a sign that the distress phase is maturing rather than starting. For investors, this pattern historically precedes a re-acceleration in new venture deployment as overhang clears. The prior 2008 and 2001 cycles showed similar dynamics: wind-down industrialization preceded the next vintage's outperformance by 12-24 months.

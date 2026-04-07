@@ -46,7 +46,6 @@ stance: >-
   A single unified PMF narrative across multiple customer segments masks fatal
   assumptions and prevents real validation.
 related:
-  - INS-260404-F017
   - INS-260403-3A44
   - INS-260330-1815
   - INS-260403-7E7C

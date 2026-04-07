@@ -42,9 +42,8 @@ stance: >-
   for users and is in decline.
 related:
   - INS-260323-3CC2
-  - PRI-260324-5F05
-  - INS-260330-AB6F
   - INS-260330-1089
+  - PRI-260324-5F05
   - INS-260403-C0FE
   - INS-260403-44FF
   - INS-260403-B7C6

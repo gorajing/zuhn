@@ -52,10 +52,10 @@ stance: >-
   reviews
 related:
   - INS-260403-2D39
+  - PRI-260406-1A55
   - INS-260327-5688
   - INS-260404-0095
   - INS-260404-312D
-  - INS-260322-92D7
 ---
 Throughout the guide, Lenny evaluates baby products through a PM lens — comparing apps on 'UX, functionality, and reliability,' describing baby care advice as 'tactical, there's a system to it, lots of acronyms, and you'll see immediate impact,' and framing a cardboard cutter as transforming a 'package-opening workflow.' This isn't just cute language — it reveals how deeply internalized professional mental models become powerful evaluation tools in unrelated domains.
 

@@ -48,8 +48,8 @@ related:
   - INS-260403-193E
   - PRI-260406-E371
   - PRI-260406-D6F8
+  - PRI-260406-4F10
   - INS-260329-8E79
-  - PRI-260405-E9C5
   - INS-260403-EA01
 ---
 Most startups treat headcount planning as an HR administrative task — tracking names and base salaries in Notion or Google Sheets. But when people costs represent 60-80% of total burn, headcount is fundamentally a financial strategy decision, not a people ops checkbox.

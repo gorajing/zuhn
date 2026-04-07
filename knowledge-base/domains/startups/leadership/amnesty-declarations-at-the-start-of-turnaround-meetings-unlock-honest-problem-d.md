@@ -50,11 +50,11 @@ stance: >-
   before today removes the defensive posture that prevents teams from surfacing
   the real root cause of business problems.
 related:
+  - PRI-260406-6FA3
   - INS-260403-F75F
   - PRI-260323-9D46
   - INS-260330-AA25
   - INS-260329-DABC
-  - INS-260327-9F46
   - INS-260330-59BC
   - INS-260403-343D
   - INS-260403-1054

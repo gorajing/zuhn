@@ -56,8 +56,8 @@ related:
   - INS-260329-903B
   - INS-260403-D531
   - INS-260403-BACA
+  - PRI-260406-1F5E
   - INS-260330-E670
-  - PRI-260328-5B61
 ---
 The compliance path for offshore hiring has three distinct stages, each appropriate for different scales. Starting with contractors is cheapest and simplest — you pay them like any vendor. As headcount grows, an Employer of Record (platforms like Deel or Remote.com) prevents misclassification risk by formally employing workers with proper taxes and benefits. At critical mass, setting up a local legal entity becomes cost-effective despite the upfront complexity.
 

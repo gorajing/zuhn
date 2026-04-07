@@ -54,6 +54,5 @@ related:
   - INS-260403-D8B5
   - INS-260330-06CD
   - INS-260403-2241
-  - INS-260404-80F3
 ---
 Venture capital returns follow an extreme power law distribution: the top 1-2 investments in a fund typically generate the majority of returns, while most investments return little or nothing. This mathematical reality should drive every major fund management decision — from initial check size to reserve allocation to follow-on cadence. Managers who treat all portfolio companies equally or optimize for a 'balanced' portfolio miss the core logic of the asset class. The implication is that identifying and aggressively backing potential outliers — while accepting the loss of capital in the rest of the portfolio — is the only coherent strategy for top-quartile returns.

@@ -46,12 +46,11 @@ stance: >-
   because apps that go viral on TikTok reveal both proven demand and a
   ready-made distribution playbook in a single data point.
 related:
-  - INS-260322-0812
   - INS-260327-165D
-  - INS-260327-FEB7
+  - PRI-260406-7D93
   - PRI-260405-675B
+  - INS-260327-FEB7
   - INS-260330-20F7
-  - INS-260402-C301
 evidence:
   - id: INS-260322-0812
     type: EXTENDS

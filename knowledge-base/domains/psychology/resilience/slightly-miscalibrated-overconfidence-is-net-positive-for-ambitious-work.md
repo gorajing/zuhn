@@ -47,7 +47,6 @@ stance: >-
   self-assessment because it compensates for external skepticism and internal
   fear that would otherwise kill ambitious projects prematurely.
 related:
-  - INS-260323-BCCC
   - INS-260403-B7E3
   - INS-260405-80B0
   - INS-260405-2E0A

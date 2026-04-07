@@ -54,13 +54,13 @@ related:
   - INS-260325-B8D4
   - INS-260325-5023
   - INS-260327-679A
-  - INS-260327-8D82
   - INS-260327-7D75
   - INS-260327-9F46
   - INS-260329-4A09
   - INS-260329-B34E
   - INS-260330-90AD
   - INS-260403-6935
+  - INS-260403-4F4B
 ---
 Graham and Lisa Randall both advocate treating new projects as experiments rather than commitments to succeed. This reframe changes the payoff matrix: in the success-or-failure frame, anything short of the goal is a loss. In the experiment frame, even complete failure produces information ('the theorem is false,' 'this structural member fails under stress'), so the minimum return is always positive.
 

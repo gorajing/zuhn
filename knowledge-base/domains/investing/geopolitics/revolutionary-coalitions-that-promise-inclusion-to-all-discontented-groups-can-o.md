@@ -49,10 +49,10 @@ stance: >-
   achieve regime change that no single faction could accomplish alone.
 related:
   - INS-260327-7A27
+  - PRI-260406-541E
   - PRI-260328-79DA
   - INS-260327-23FA
   - INS-260327-ABE5
-  - INS-260327-842F
   - INS-260327-8152
   - INS-260330-D968
 evidence:

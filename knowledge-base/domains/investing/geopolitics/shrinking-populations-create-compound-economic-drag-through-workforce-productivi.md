@@ -61,9 +61,10 @@ related:
   - INS-260403-EC8A
   - INS-260403-D966
   - INS-260403-AE6A
+  - PRI-260406-A77B
+  - PRI-260406-25D0
   - INS-260327-3A81
   - PRI-260328-5CDE
-  - PRI-260328-0993
   - INS-260403-2833
 ---
 The naive response to population decline is that productivity growth will compensate — fewer workers each producing more. Smith identifies three reasons this fails as a strategy. First, every country is already trying to raise productivity, so there's no unused lever to pull. Second, Chad Jones (2022) models how a shrinking researcher pool directly reduces the rate of productivity improvement — the very mechanism you need to compensate is itself degraded by the problem. Third, empirical data shows aging workforces have measurably lower productivity at the state-industry level.

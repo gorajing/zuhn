@@ -45,10 +45,10 @@ stance: >-
   than ancestral levels and drives metabolic dysfunction
 related:
   - PRI-260328-40CA
+  - PRI-260406-7E1C
   - INS-260330-E647
+  - PRI-260406-350B
   - PRI-260325-200C
-  - PRI-260328-E3A7
-  - INS-260327-9E9D
 ---
 Hunter-gatherer populations consumed roughly 2% of calories as linoleic acid. Modern Americans consume 10-15% due to refined seed oils in processed foods. To naturally obtain 5-7 tablespoons of sunflower seed oil, you would need to eat 2.5 pounds of sunflower seeds daily -- an amount no ancestral population ever consumed.
 

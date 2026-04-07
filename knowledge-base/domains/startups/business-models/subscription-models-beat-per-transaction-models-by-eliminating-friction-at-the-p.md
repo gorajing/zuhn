@@ -49,11 +49,11 @@ stance: >-
   increase conversion and retention because it removes the psychological cost of
   each individual usage decision.
 related:
-  - INS-260322-94A9
+  - PRI-260406-6E0F
   - PRI-260328-6A8D
+  - PRI-260406-B785
   - INS-260405-FFCE
   - INS-260403-1E4A
-  - INS-260330-0998
 evidence:
   - id: INS-260323-FEAB
     type: CHALLENGES

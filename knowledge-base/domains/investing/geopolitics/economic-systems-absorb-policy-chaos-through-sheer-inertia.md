@@ -46,6 +46,7 @@ stance: >-
   and contradiction without immediately collapsing, which paradoxically
   encourages even more reckless policy-making.
 related:
+  - PRI-260406-1115
   - PRI-260328-8284
   - PRI-260325-6400
   - INS-260403-C460

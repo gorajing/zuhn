@@ -65,9 +65,9 @@ evidence:
 related:
   - INS-260405-020E
   - INS-260405-7A7C
+  - PRI-260406-377E
   - INS-260404-9C4C
   - INS-260404-CD3E
-  - INS-260403-FE41
 ---
 Paul Graham observes that the biggest barrier to doing great work isn't lack of talent but the fear of producing something embarrassing. Most people never even start ambitious projects because they judge their early output against the standard of finished work. This is a category error—early versions of ambitious projects are a fundamentally different type of artifact than polished final products, and evaluating them on the same scale systematically destroys high-expected-value work.
 

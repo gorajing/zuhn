@@ -53,7 +53,6 @@ related:
   - INS-260403-FAC6
   - INS-260330-F9C9
   - INS-260330-E082
-  - INS-260403-D5B0
 ---
 The common tech-industry framing of regulation as inherently anti-innovation ignores historical evidence. Industries like pharmaceuticals, finance, and aviation all scaled dramatically under regulatory frameworks that provided consumer trust and market stability. The FDA model demonstrates that subject-matter experts from industry and academia can evaluate risks while offering fast-track pathways for lower-risk innovations.
 

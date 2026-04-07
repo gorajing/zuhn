@@ -49,10 +49,10 @@ stance: >-
   moving faster between them than they can communicate and coordinate.
 related:
   - INS-260327-191B
+  - PRI-260406-541E
   - INS-260327-ABE5
   - PRI-260405-C47B
   - INS-260327-C7BF
-  - PRI-260403-B9A0
 ---
 At Castiglione, the Austrians sent two columns to relieve their besieged fortress of Mantua. Napoleon positioned himself between them and defeated each in turn before they could unite. His advantage was the interior position: he was closer to both enemies than they were to each other, allowing him to concentrate his full force against each separately.
 

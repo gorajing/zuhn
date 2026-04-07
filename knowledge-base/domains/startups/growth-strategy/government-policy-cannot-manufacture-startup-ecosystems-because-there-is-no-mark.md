@@ -46,11 +46,11 @@ stance: >-
   startups lack the geographic market need that drove adoption of railroads and
   electricity.
 related:
+  - PRI-260406-701E
   - PRI-260406-842D
   - PRI-260403-C337
   - INS-260404-DE04
   - INS-260403-7037
-  - INS-260404-EEA7
 evidence:
   - id: INS-260327-F417
     type: TRANSFERS_TO

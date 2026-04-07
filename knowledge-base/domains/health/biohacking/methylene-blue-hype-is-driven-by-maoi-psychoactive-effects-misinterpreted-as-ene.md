@@ -51,10 +51,10 @@ stance: >-
   improvement, making self-assessment unreliable
 related:
   - INS-260327-1C1B
+  - PRI-260406-350B
   - INS-260330-A18F
   - INS-260327-E8D3
   - PRI-260328-F570
-  - INS-260330-713C
 evidence:
   - id: INS-260330-A18F
     type: SUPPORTS

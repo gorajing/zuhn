@@ -53,7 +53,7 @@ related:
   - INS-260403-A268
   - INS-260405-7BA5
   - INS-260404-7C63
-  - PRI-260406-33E9
+  - PRI-260406-377E
 ---
 Most people judge early-stage ambitious work using the same criteria they'd apply to finished products or less ambitious projects. This is a category error — early work is a special case that requires a fundamentally different evaluation lens. The rational expected value of a project that's 20% complete toward a high-value goal can far exceed a polished but low-ambition finished product.
 

@@ -54,10 +54,10 @@ stance: >-
   that reduces both self-doubt and susceptibility to external skepticism
 related:
   - INS-260403-D75D
+  - PRI-260406-377E
   - INS-260403-9B3A
   - PRI-260328-0AB1
-  - INS-260327-7C69
-  - INS-260404-A1BA
+  - PRI-260406-967A
 ---
 Graham's prescription for escaping the trap of judging early work too harshly is empirical: study enough cases of great work's origins and you build an internal reference class. When your own early output looks lame, you recognize it as a familiar phase rather than evidence of personal failure.
 

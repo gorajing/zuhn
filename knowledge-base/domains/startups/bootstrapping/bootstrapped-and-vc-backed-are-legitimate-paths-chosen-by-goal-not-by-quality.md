@@ -51,15 +51,14 @@ stance: >-
   that VC-backed is the superior or more legitimate path.
 related:
   - INS-260330-C4D4
-  - INS-260403-C200
   - INS-260405-7F42
   - INS-260405-E05D
   - INS-260328-4EA0
   - INS-260326-967C
+  - INS-260403-C200
   - INS-260403-B2EB
   - INS-260404-EF67
   - INS-260403-4D7E
-  - INS-260403-21BD
 ---
 The startup ecosystem often treats VC-backed growth as the default aspirational path, but bootstrapping is a legitimate alternative that preserves ownership, autonomy, and optionality for founders who want profitable, sustainable businesses rather than winner-take-all bets. The right path depends on the nature of the market (winner-take-all vs. fragmented), the founder's financial needs, their risk tolerance, and the type of outcome they're optimizing for.
 

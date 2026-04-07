@@ -56,7 +56,6 @@ related:
   - INS-260329-C754
   - INS-260403-7037
   - INS-260405-567D
-  - INS-260403-F4D7
 ---
 AI startups occupy a uniquely vulnerable position: they produce software but depend heavily on tariffed hardware—GPUs, semiconductors, server components. With chip import tariffs projected to hit 50% in 2025, startups building their own inference infrastructure face premium costs on every imported server, board, and GPU. Even older-generation chips from Asia now carry significant tariff tags.
 

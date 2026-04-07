@@ -41,10 +41,10 @@ stance: >-
   investment cycle with diminishing returns.
 related:
   - INS-260327-8E9D
+  - PRI-260406-2900
   - INS-260327-F229
   - INS-260403-6694
   - INS-260403-5A4C
-  - INS-260327-714F
 evidence:
   - id: INS-260327-714F
     type: SUPPORTS

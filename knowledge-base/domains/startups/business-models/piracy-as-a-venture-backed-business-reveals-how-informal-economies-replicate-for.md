@@ -55,10 +55,10 @@ stance: >-
   coordination problems, not cultural artifacts of developed economies.
 related:
   - INS-260403-5F8E
+  - PRI-260406-1849
   - PRI-260406-CB40
   - PRI-260406-E5FB
   - INS-260404-8791
-  - INS-260330-0525
 ---
 Somali piracy operations mirror formal business structures with remarkable precision: 3-5 investors pool $30,000 per attack in an informal stock market, investors receive guaranteed 30%+ returns, port operators take 5-10% for infrastructure access, and individual attackers receive performance bonuses ($10,000 for first boarding). This isn't coincidence — it's evidence that equity investment, risk distribution, and incentive alignment are convergent solutions that emerge wherever people coordinate under uncertainty and asymmetric risk.
 

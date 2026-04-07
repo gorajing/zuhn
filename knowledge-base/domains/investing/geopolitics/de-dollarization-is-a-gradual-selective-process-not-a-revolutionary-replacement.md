@@ -54,14 +54,14 @@ stance: >-
   rather than a sudden collapse.
 related:
   - INS-260321-1992
+  - PRI-260406-7862
   - INS-260403-8BE9
   - INS-260403-3912
   - INS-260403-A87D
   - INS-260330-E082
-  - INS-260403-C460
   - INS-260330-5EE9
-  - INS-260403-8C41
   - INS-260403-B01D
+  - INS-260403-C460
   - INS-260403-2225
 evidence:
   - id: INS-260321-1992

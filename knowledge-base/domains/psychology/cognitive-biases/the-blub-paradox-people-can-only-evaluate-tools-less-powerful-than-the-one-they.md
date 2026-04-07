@@ -51,7 +51,6 @@ related:
   - INS-260327-D570
   - INS-260404-61DA
   - INS-260403-9C60
-  - INS-260405-4091
 evidence:
   - id: INS-260327-D570
     type: TRANSFERS_TO

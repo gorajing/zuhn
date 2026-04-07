@@ -51,8 +51,8 @@ related:
   - INS-260330-2306
   - INS-260403-5CAD
   - PRI-260406-6F52
+  - PRI-260406-CAE4
   - PRI-260406-874A
-  - INS-260325-FDF5
 ---
 The article identifies workarounds as 'startup gold,' and this framing captures something deeper than a surface-level heuristic. When users invest time and effort stitching together Zapier automations, Notion databases, and Excel spreadsheets to solve a problem, they are demonstrating three things simultaneously: the problem is real enough to warrant effort, no existing solution adequately addresses it, and they have budget (in time if not money) allocated to solving it.
 

@@ -47,11 +47,11 @@ resolutions:
     This is a slow-moving crisis that won't be visible until the talent pipeline
     is already broken.
 related:
+  - PRI-260406-25D0
   - INS-260403-680C
   - INS-260403-287B
   - INS-260329-B062
   - INS-260405-945B
-  - INS-260326-7B2A
   - INS-260403-529D
 stance: >-
   When companies replace interns and junior staff with AI, they destroy the

@@ -59,9 +59,9 @@ related:
   - INS-260404-F017
   - INS-260404-E5EB
   - INS-260403-280B
+  - PRI-260406-D9D6
   - INS-260327-DC0B
   - INS-260327-6AA0
-  - INS-260327-643C
 ---
 Most strategy evaluation devolves into 'which area has the biggest potential impact?' — a single-axis comparison that ignores execution risk. Chandra's four-dimension framework adds three critical reality checks: How confident are we in the impact estimate? Do we know specifically what actions would drive results? Are those actions something we're uniquely positioned to do?
 

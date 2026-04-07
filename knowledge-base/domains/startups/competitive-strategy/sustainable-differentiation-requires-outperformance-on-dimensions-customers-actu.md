@@ -53,7 +53,6 @@ related:
   - PRI-260406-818D
   - INS-260405-D66B
   - INS-260403-0414
-  - INS-260403-CF46
 evidence:
   - id: INS-260405-D66B
     type: TRANSFERS_TO

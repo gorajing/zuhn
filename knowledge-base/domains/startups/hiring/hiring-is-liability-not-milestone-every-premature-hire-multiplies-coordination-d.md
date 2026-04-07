@@ -47,9 +47,9 @@ stance: >-
   loops, and repeatable acquisition multiplies uncertainty rather than progress
 related:
   - INS-260323-9A93
+  - PRI-260406-4F10
   - INS-260323-FE69
   - INS-260329-DD06
   - INS-260330-625B
-  - INS-260327-2430
 ---
 The default founder instinct after early wins and funding is to 'build the team,' but premature hiring creates three compounding debts: coordination debt (more people to align, onboard, and manage), emotional debt (pressure to justify roles that don't yet drive impact), and cultural debt (diluting the ownership mentality small teams thrive on). The diagnostic before any hire should be: Can this be automated? Can it be templatized? Can it be outsourced temporarily? Only when all answers are no and the task is mission-critical should you hire. The real danger is that when the product inevitably pivots, you're carrying people hired for a version of the business that no longer exists. Headcount is a bet on clarity — make sure you've earned it.

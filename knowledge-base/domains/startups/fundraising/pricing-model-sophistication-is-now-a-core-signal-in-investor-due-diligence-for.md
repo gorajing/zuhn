@@ -55,8 +55,8 @@ related:
   - PRI-260328-BEDD
   - INS-260403-5D89
   - INS-260403-E44E
+  - PRI-260406-B785
   - INS-260403-B53B
-  - INS-260403-97F8
 ---
 For AI-native startups, pricing architecture has become a fundraising narrative weapon. A smart pricing model demonstrates to VCs that the founder understands valuation drivers (net dollar retention, CAC payback), competitive moats (proprietary attribution logic that's hard to replicate), and scalability (hybrid models that grow with customer usage). Investors are specifically asking: How well does pricing track to value? How does it evolve with adoption? How are you protecting margins against volatile AI infrastructure costs?
 

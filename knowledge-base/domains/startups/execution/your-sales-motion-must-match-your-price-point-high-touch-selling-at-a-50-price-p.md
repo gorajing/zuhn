@@ -51,11 +51,11 @@ stance: >-
   founders who use enterprise sales tactics for low-price products are building
   a business that cannot scale.
 related:
+  - PRI-260406-BE21
   - INS-260404-F0E9
   - INS-260329-B194
   - PRI-260406-F6A5
   - INS-260329-2D77
-  - INS-260403-CD74
   - INS-260327-17DE
   - INS-260327-EC45
   - INS-260329-3DD7

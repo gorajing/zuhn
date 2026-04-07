@@ -50,12 +50,11 @@ stance: >-
   buggy, incomplete product by compensating with attentiveness
 related:
   - INS-260327-24A5
-  - INS-260330-1282
+  - PRI-260406-26FB
   - INS-260403-BA0D
   - INS-260403-25EE
+  - PRI-260406-1A55
   - INS-260403-ADF9
-  - INS-260329-2EB1
-  - INS-260327-EF89
 evidence:
   - id: INS-260327-24A5
     type: CONTRADICTS

@@ -57,10 +57,10 @@ stance: >-
   every task
 related:
   - INS-260330-0C1B
+  - PRI-260406-940C
+  - PRI-260406-50EA
   - INS-260328-60C7
   - PRI-260328-A589
-  - INS-260403-976C
-  - PRI-260405-9504
 ---
 The standard fear about AI and jobs conflates competitive advantage (who does it better) with comparative advantage (who does it better relative to their other options). Even if AI outperforms humans at every task, compute is a producer-specific constraint that forces hard allocation choices. When AI could generate $2000/hour as an engineer but only $1000/hour as a doctor, the opportunity cost makes human doctors economically rational despite being 5x worse.
 

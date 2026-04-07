@@ -56,10 +56,10 @@ stance: >-
   integration rather than disappearing entirely.
 related:
   - PRI-260406-9780
+  - PRI-260406-9FA8
   - INS-260404-B2AF
   - INS-260403-FFBD
   - PRI-260328-94D4
-  - INS-260404-BFAB
   - INS-260327-40DA
   - INS-260329-F7F4
   - INS-260329-5EE7

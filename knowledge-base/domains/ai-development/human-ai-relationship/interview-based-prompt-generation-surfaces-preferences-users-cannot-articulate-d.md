@@ -55,8 +55,8 @@ related:
   - INS-260404-DD95
   - PRI-260406-BC55
   - INS-260403-E5D4
+  - PRI-260406-1AC6
   - INS-260403-C737
-  - INS-260323-5CBE
 ---
 The guide's core insight is that most people cannot accurately describe their working style, tone preferences, or interaction needs when staring at a blank text field. They default to vague platitudes like 'be helpful and concise.' But when an AI asks them targeted questions one at a time — 'Do you want your thinking challenged or supported?' 'What words should I avoid?' — they can articulate specific, actionable preferences.
 

@@ -49,7 +49,6 @@ stance: >-
   churning, not power users, even though great product building optimizes for
   the most-engaged users.
 related:
-  - INS-260323-B4D2
   - INS-260323-8897
   - INS-260327-BE4E
   - INS-260329-4696
@@ -59,6 +58,7 @@ related:
   - INS-260330-21CC
   - INS-260403-9482
   - INS-260403-99B1
+  - PRI-260403-E097
 evidence:
   - id: INS-260323-4945
     type: CHALLENGES

@@ -54,6 +54,7 @@ stance: >-
   fundamentals.
 related:
   - INS-260403-8DD4
+  - PRI-260406-7128
   - PRI-260328-BEDD
   - PRI-260324-3081
   - INS-260403-B73A

@@ -49,7 +49,7 @@ related:
   - INS-260325-FDF5
   - PRI-260323-49F8
   - PRI-260406-FCF0
-  - PRI-260406-B331
+  - PRI-260406-D9D6
   - INS-260405-4B12
 stance: >-
   Manifast CEO deliberately keeps the product focused on front-end software

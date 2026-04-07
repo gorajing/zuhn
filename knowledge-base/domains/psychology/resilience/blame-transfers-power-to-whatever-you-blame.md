@@ -48,10 +48,10 @@ stance: >-
   outcomes, making the blamer powerless to change their situation
 related:
   - INS-260329-6B95
+  - PRI-260406-6FA3
   - INS-260405-DB32
   - INS-260330-14CA
   - INS-260404-B6B1
-  - INS-260326-3F06
 evidence:
   - id: INS-260330-14CA
     type: TRANSFERS_TO

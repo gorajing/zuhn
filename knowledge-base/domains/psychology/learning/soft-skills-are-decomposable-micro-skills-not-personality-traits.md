@@ -45,7 +45,6 @@ stance: >-
   bundles of hundreds of trainable micro-behaviors, not innate personality
   attributes.
 related:
-  - INS-260320-8DBD
   - INS-260320-F8FD
   - INS-260327-5AFE
   - PRI-260406-99B2

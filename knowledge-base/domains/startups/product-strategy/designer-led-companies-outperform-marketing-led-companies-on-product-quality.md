@@ -42,11 +42,11 @@ stance: >-
   marketing people relying on focus groups.
 related:
   - INS-260329-ECB5
+  - PRI-260406-CAE4
   - INS-260403-3A44
+  - PRI-260406-1A55
   - INS-260403-5788
   - INS-260403-113D
-  - PRI-260406-2BC0
-  - INS-260327-C6DC
   - INS-260403-F66B
 evidence:
   - id: INS-260403-F66B

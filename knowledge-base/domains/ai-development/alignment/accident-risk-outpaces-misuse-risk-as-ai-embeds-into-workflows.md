@@ -50,7 +50,7 @@ related:
   - INS-260321-015B
   - PRI-260328-4144
   - PRI-260321-7307
-  - INS-260322-C935
+  - PRI-260406-B146
   - INS-260403-DE34
 ---
 Amodei's 2017 framework distinguished misuse (visible, intentional — weapons, surveillance) from accident risk (systems optimizing correct objectives that produce unintended outcomes). This distinction has proven prescient: as models embed into enterprise workflows, small misalignments between fuzzy real-world goals and formal proxy metrics compound through automation chains. A recommendation system optimizing 'engagement' instead of 'value' is a textbook Goodhart's Law violation, but the same pattern shows up in content moderation, hiring tools, and financial systems. The practical implication is that safety engineering must focus on the translation layer between human intent and formal objectives, not just preventing bad actors.

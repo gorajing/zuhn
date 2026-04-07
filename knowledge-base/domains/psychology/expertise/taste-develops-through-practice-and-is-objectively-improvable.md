@@ -48,12 +48,11 @@ stance: >-
   taste is not merely subjective personal preference
 related:
   - INS-260325-87FC
-  - INS-260330-F534
+  - PRI-260406-1A55
   - INS-260403-A101
   - INS-260403-DE28
   - INS-260323-1930
   - PRI-260328-AC85
-  - INS-260329-2EB1
 evidence:
   - id: INS-260330-F534
     type: CONTRADICTS

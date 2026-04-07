@@ -50,11 +50,11 @@ stance: >-
   When a nation or organization spends 50% or more of its budget on debt
   service, structural collapse becomes inevitable regardless of reform attempts.
 related:
+  - PRI-260406-BAAC
   - PRI-260328-6136
   - PRI-260328-E1CE
   - INS-260403-8DD4
   - INS-260327-15E1
-  - INS-260327-B6B7
 evidence:
   - id: INS-260330-85C2
     type: EXTENDS

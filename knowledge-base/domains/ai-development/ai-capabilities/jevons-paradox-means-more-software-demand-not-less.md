@@ -42,8 +42,7 @@ related:
   - INS-260330-D583
   - PRI-260403-C337
   - INS-260402-C98A
-  - INS-260330-7D6D
-  - INS-260403-D00D
+  - PRI-260406-50EA
 stance: >-
   Software was scarce and expensive — AI making it cheaper unlocks massive
   latent demand (Jevons paradox)

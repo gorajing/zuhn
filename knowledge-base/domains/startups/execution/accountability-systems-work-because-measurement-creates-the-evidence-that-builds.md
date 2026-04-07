@@ -49,7 +49,6 @@ stance: >-
   enables higher performance.
 related:
   - INS-260322-4757
-  - INS-260321-988C
   - INS-260321-9A03
   - INS-260327-CD49
   - INS-260327-BEEE
@@ -58,6 +57,7 @@ related:
   - INS-260405-8BEA
   - INS-260403-F1C6
   - INS-260402-8223
+  - INS-260329-882A
 evidence:
   - id: INS-260322-4757
     type: SUPPORTS

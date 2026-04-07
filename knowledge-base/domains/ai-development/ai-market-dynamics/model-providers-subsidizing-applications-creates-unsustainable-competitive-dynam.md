@@ -51,10 +51,10 @@ stance: >-
   existential pricing challenge that can only be overcome through product
   differentiation, not cost competition.
 related:
-  - PRI-260323-6A93
   - INS-260403-36EC
   - PRI-260406-0ACE
   - PRI-260405-B144
+  - PRI-260406-9FA8
   - INS-260403-B53B
   - INS-260405-B7C7
 evidence:

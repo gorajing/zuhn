@@ -53,13 +53,13 @@ stance: >-
   demographic transitions because it keeps accelerating with no observed bottom,
   making all current population projections too optimistic.
 related:
-  - INS-260327-9BE8
   - INS-260327-C834
   - INS-260330-230D
   - INS-260330-AD61
+  - INS-260327-9BE8
   - INS-260403-330D
+  - PRI-260406-BAAC
   - INS-260327-A458
-  - PRI-260328-1A2D
 ---
 Unlike the gradual demographic transition of the 20th century where fertility settled near replacement rate, the post-2015 collapse keeps accelerating — every year statistical agencies revise already negative projections further downward. China's TFR has fallen to 0.93 (fewer births in 2025 than in 1776), and the decline is spreading to Africa, Latin America, and India. This isn't a rich-country problem anymore; it's a species-level trend. The implication for long-term investment and geopolitical analysis is that population-dependent growth models are systematically overestimating future economic capacity everywhere, not just in East Asia.
 

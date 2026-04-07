@@ -59,7 +59,6 @@ related:
   - INS-260330-7A80
   - INS-260330-D26B
   - INS-260323-2CCA
-  - INS-260330-5C69
 evidence:
   - id: INS-260323-A197
     type: TRANSFERS_TO

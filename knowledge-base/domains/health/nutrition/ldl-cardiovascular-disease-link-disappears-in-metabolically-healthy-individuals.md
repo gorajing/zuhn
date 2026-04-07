@@ -55,8 +55,8 @@ related:
   - INS-260327-9E9D
   - INS-260327-9EBA
   - PRI-260328-E3A7
+  - PRI-260406-350B
   - INS-260330-443B
-  - INS-260327-FF86
 ---
 Multiple studies show the LDL-cardiovascular disease relationship is context-dependent. In Framingham, stratifying by HDL eliminates the correlation. Dave Feldman's lean mass hyperresponder study (n=80) found no correlation between LDL levels (mean 272, max 591 mg/dL) and plaque on CT coronary angiography. The same plaque incidence appeared in normal-LDL controls.
 

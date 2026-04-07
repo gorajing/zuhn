@@ -55,7 +55,7 @@ related:
   - INS-260330-2C79
   - INS-260327-89C7
   - INS-260403-4388
-  - INS-260330-F268
+  - PRI-260406-D017
 ---
 Churn timing is diagnostic. When users drop off in the first 30-90 days, the failure is almost always in onboarding—the 'aha' moment comes too late, activation steps are buried, or sales overpromised what the product delivers. This is a value delivery speed problem that can be addressed with focused product work on the initial experience.
 

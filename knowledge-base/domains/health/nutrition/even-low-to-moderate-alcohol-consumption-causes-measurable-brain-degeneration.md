@@ -49,11 +49,11 @@ stance: >-
   of the neocortex and loss of gray and white matter, contradicting the popular
   belief that moderate drinking is harmless to the brain.
 related:
+  - PRI-260406-D0E1
   - INS-260403-3CFB
   - INS-260330-4D8B
   - INS-260403-9757
   - PRI-260328-F570
-  - INS-260330-E647
   - INS-260330-81B1
 evidence:
   - id: INS-260403-3CFB

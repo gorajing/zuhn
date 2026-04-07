@@ -59,7 +59,6 @@ related:
   - INS-260323-9146
   - INS-260329-2BCC
   - PRI-260328-7E6E
-  - INS-260403-88F8
 ---
 Hoffman recommends spending 20+ hours in deep conversation with potential co-founders, specifically covering areas of possible disagreement, belief differences, and work style conflicts. The most counterintuitive recommendation is to explicitly discuss the 'divorce' — what conditions would lead each person to say 'this isn't working.' This isn't pessimism; it's building conversational infrastructure for the inevitable high-stress moments.
 

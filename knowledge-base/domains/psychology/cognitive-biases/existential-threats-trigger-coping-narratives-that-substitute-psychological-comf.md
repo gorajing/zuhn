@@ -53,11 +53,11 @@ stance: >-
   they generate unfalsifiable reassurance narratives that feel like analysis but
   actually prevent action.
 related:
+  - PRI-260406-A77B
   - PRI-260403-88F5
   - INS-260330-BC1B
   - PRI-260405-9D7B
   - INS-260330-7A80
-  - PRI-260325-697B
 ---
 Smith identifies six coping statements people use to dismiss fertility collapse: fewer people means more resources per person, AI will replace workers, it's really about racism/sexism, baby bonuses work, immigration solves it, and productivity growth will compensate. Each sounds plausible in isolation but fails under scrutiny. The pattern is recognizable across many slow-moving crises — the threat is real but distant enough that psychological coping can substitute for engagement indefinitely.
 

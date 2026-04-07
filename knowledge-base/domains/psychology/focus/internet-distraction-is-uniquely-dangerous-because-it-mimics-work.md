@@ -45,10 +45,10 @@ stance: >-
   because it visually and socially resembles productive work
 related:
   - INS-260403-38C5
+  - PRI-260406-B146
   - INS-260403-50F1
   - INS-260327-AAFA
   - INS-260323-3436
-  - INS-260327-E7B8
 evidence:
   - id: INS-260323-3436
     type: SUPPORTS

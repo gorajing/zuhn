@@ -56,10 +56,10 @@ stance: >-
   practitioners systematically underinvest in context quality.
 related:
   - INS-260320-5B49
+  - PRI-260406-1AC6
   - INS-260320-4993
   - INS-260403-49D1
   - INS-260321-82FE
-  - PRI-260321-037A
 ---
 Among all the advanced techniques studied — chain-of-thought, decomposition, ensembling, self-criticism — Schulhoff highlights that simply giving the model more relevant context is massively impactful and consistently underrated. The format and ordering of that context matter: structured data, relevant background, and properly sequenced information all contribute to better outputs.
 

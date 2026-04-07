@@ -58,8 +58,8 @@ related:
   - INS-260330-EC7C
   - PRI-260406-12A2
   - PRI-260406-9063
+  - PRI-260406-7128
   - INS-260330-9DCD
-  - INS-260330-8D0C
 evidence:
   - id: INS-260330-EC7C
     type: EXTENDS

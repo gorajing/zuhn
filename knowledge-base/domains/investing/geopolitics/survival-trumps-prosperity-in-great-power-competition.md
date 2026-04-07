@@ -51,7 +51,6 @@ stance: >-
   erupting despite unprecedented European economic integration.
 related:
   - PRI-260323-9295
-  - INS-260327-A00A
   - PRI-260324-2A76
   - PRI-260323-9928
   - INS-260404-F631

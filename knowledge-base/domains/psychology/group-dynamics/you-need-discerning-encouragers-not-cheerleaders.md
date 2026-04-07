@@ -55,7 +55,6 @@ related:
   - INS-260404-4985
   - INS-260403-D417
   - INS-260404-9C4C
-  - INS-260404-C29F
 ---
 Graham warns that simply collecting encouraging people isn't enough — you'll quickly learn to discount blanket positivity. What you need are colleagues who can actually evaluate whether your ugly early work has genuine promise or is genuinely bad. The best source of such colleagues is people working on their own ambitious projects, because they have calibrated intuitions about what early-stage promise looks like.
 

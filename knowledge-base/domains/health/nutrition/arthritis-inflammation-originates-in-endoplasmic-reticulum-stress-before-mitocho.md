@@ -46,9 +46,9 @@ stance: >-
   mitochondrial damage — meaning ER stress is the earlier upstream target.
 related:
   - INS-260325-FC52
+  - PRI-260406-350B
   - INS-260330-3DC8
   - PRI-260328-97E0
   - INS-260330-F755
-  - INS-260325-9F4C
 ---
 Chondrocytes (cartilage cells) contain an endoplasmic reticulum that folds proteins and stores calcium. Research shows ER stress in chondrocytes triggers the inflammatory cascade that causes arthritis BEFORE mitochondrial damage occurs. Additionally, chondrocytes have receptors for bile salts — secondary bile produced by gut microbes has anti-inflammatory effects on joints. This explains why gut health directly affects joint health. The 7 worst foods for arthritis all increase ER stress: seed oils, sugar, refined starch, alcohol, grains (especially wheat), and nightshades for sensitive individuals. Low-carb diet, fasting, and probiotics address the root cause.

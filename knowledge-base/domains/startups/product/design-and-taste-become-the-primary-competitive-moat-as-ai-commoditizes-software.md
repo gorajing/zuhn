@@ -53,9 +53,9 @@ related:
   - INS-260403-5384
   - INS-260403-21A7
   - PRI-260328-AC85
+  - PRI-260406-72B3
   - PRI-260328-EAC4
   - INS-260404-7A5B
-  - INS-260403-0435
   - INS-260405-64FA
 ---
 As AI tools dramatically reduce the cost and time to build software, the traditional moat of engineering talent and technical execution erodes. What remains scarce is taste — the ability to create aesthetic, intuitive products that users choose over functionally equivalent alternatives. Rex Woodbury argues this shift means startups should invest disproportionately in design and UX rather than engineering headcount.

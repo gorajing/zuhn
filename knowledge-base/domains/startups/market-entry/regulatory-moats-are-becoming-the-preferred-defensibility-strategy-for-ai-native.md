@@ -65,11 +65,11 @@ related:
   - INS-260327-5A72
   - INS-260404-F38A
   - INS-260404-3ACB
+  - PRI-260406-263A
   - PRI-260328-0123
   - INS-260329-903B
   - INS-260325-040F
   - PRI-260406-03D1
-  - INS-260404-5CFB
 ---
 YC W26 shows concentrated bets in healthcare (~10% of batch) and legal tech (~4%), both domains defined by heavy regulation. Healthcare companies target AI prior authorizations, autonomous primary care, dental operations, and drug discovery. Legal tech follows the rapid unicorn trajectories of Harvey and Legora, with founders explicitly pattern-matching to those outcomes.
 

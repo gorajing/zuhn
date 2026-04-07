@@ -55,11 +55,9 @@ stance: >-
   significantly better scaling decisions than those who hire based on pipeline
   optimism
 related:
-  - INS-260405-B361
   - INS-260403-8C2D
   - INS-260403-1ECB
   - INS-260403-EB0F
-  - INS-260403-024E
   - PRI-260406-E371
   - PRI-260406-BC09
   - PRI-260405-608A

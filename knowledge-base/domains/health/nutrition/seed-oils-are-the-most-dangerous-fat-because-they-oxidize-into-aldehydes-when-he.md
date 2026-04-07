@@ -56,6 +56,5 @@ related:
   - INS-260327-4B8B
   - INS-260327-B332
   - INS-260330-2BA7
-  - INS-260327-D21C
 ---
 Polyunsaturated fatty acids in seed oils (soybean, corn, canola, sunflower, safflower) have multiple double bonds that are chemically unstable. When heated (cooking, frying, processing), these bonds break and form aldehydes — the same toxic compounds produced by formaldehyde. These aldehydes damage mitochondria (cellular energy production), mutate DNA, oxidize LDL cholesterol (creating the truly dangerous small dense LDL), and trigger chronic inflammation. Seed oil consumption has increased 1000x since 1900, paralleling the rise of chronic disease. Safe cooking fats: butter, ghee, tallow, coconut oil, and olive oil (low-heat only). The worst exposure is restaurant food where seed oils are heated repeatedly.

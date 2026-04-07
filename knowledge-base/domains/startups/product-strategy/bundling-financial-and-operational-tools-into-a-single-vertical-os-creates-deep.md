@@ -51,10 +51,10 @@ stance: >-
   switching requires replacing the entire administrative stack
 related:
   - INS-260403-E3CC
+  - PRI-260406-EB94
   - INS-260403-EDA1
   - INS-260327-B9AD
   - PRI-260406-EBDB
-  - INS-260322-F6AA
 evidence:
   - id: INS-260327-B9AD
     type: SUPPORTS

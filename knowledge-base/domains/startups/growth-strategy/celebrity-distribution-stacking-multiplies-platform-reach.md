@@ -42,7 +42,6 @@ stance: >-
   Layering multiple celebrity audiences onto a single operational platform
   creates compounding distribution advantages
 related:
-  - INS-260329-22A8
   - INS-260403-5554
   - INS-260404-E52F
   - INS-260327-092E

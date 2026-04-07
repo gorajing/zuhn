@@ -55,8 +55,8 @@ related:
   - INS-260405-3061
   - INS-260403-53B0
   - PRI-260406-58FA
-  - PRI-260328-6A8D
-  - INS-260329-C8C7
+  - PRI-260406-D017
+  - PRI-260406-B785
 ---
 Andreessen Horowitz data shows consumer AI apps are achieving revenue retention above 100%, breaking traditional churn models. This is driven by usage-based pricing where expanding users more than compensate for churning ones, combined with enterprise adoption creating stickier revenue streams. The playbook includes early investment in sales infrastructure rather than relying purely on product-led growth.
 

@@ -45,7 +45,6 @@ stance: >-
   forces competitors to either accept investment or face extinction
 related:
   - INS-260330-0B50
-  - INS-260330-931A
   - INS-260330-2ABC
   - INS-260330-217C
   - INS-260322-88C3

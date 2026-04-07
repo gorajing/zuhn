@@ -47,11 +47,11 @@ stance: >-
   compress feedback loops and retain strategic coherence far better than those
   who simply work long hours
 related:
+  - PRI-260406-FD70
   - INS-260403-5593
   - INS-260403-86C7
   - INS-260403-BC89
   - PRI-260403-88F5
-  - INS-260330-A3AF
 ---
 Jensen Huang's leadership model distinguishes between 'hours at a desk' and 'persistent cognitive responsibility' — carrying unresolved decisions, weak signals, and second-order consequences continuously rather than episodically. This compresses feedback loops because the person setting direction remains perpetually exposed to its consequences, unlike leaders who compartmentalize work into calendar blocks.
 

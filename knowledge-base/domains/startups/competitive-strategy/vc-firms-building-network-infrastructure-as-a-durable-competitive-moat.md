@@ -48,10 +48,10 @@ stance: >-
   match.
 related:
   - INS-260403-9A57
+  - PRI-260406-701E
   - INS-260403-7037
   - INS-260404-D6EC
   - INS-260403-2759
-  - INS-260404-B5EB
 ---
 Andreessen Horowitz's hire of David Booth as Partner and Head of Ecosystem represents a deliberate strategy to industrialize network effects in venture capital. Rather than treating relationships as informal deal flow channels, the firm is investing in connectivity as core infrastructure.
 

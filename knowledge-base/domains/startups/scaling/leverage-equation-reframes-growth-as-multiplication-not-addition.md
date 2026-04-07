@@ -42,7 +42,6 @@ stance: >-
   linearly adding more volume, making operational depth more valuable than
   breadth.
 related:
-  - INS-260323-0B52
   - INS-260321-2F43
   - INS-260323-70B9
   - INS-260322-AD9B
@@ -52,6 +51,7 @@ related:
   - INS-260329-21C0
   - INS-260329-CB6D
   - INS-260329-4223
+  - INS-260329-7691
 evidence:
   - id: INS-260327-1563
     type: TRANSFERS_TO

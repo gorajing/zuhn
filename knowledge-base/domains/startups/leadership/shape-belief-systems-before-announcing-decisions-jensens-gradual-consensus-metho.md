@@ -50,10 +50,10 @@ resolutions:
     foundation all along.
 related:
   - INS-260330-DB4B
+  - PRI-260406-D9D6
   - INS-260321-9A03
   - INS-260326-291C
   - INS-260403-359D
-  - PRI-260405-F5A0
   - INS-260327-ECDA
   - INS-260403-21A2
   - INS-260403-02E2

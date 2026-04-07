@@ -50,10 +50,10 @@ stance: >-
   insurmountable speed advantage.
 related:
   - INS-260329-ECB5
+  - PRI-260406-1993
   - INS-260403-8280
   - INS-260327-289F
   - INS-260403-DB22
-  - INS-260327-6A4B
   - INS-260403-9627
 evidence:
   - id: INS-260323-E2DD

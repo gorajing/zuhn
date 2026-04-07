@@ -49,12 +49,11 @@ stance: >-
   experts plan to throw away early work and cultivate dissatisfaction with
   current results
 related:
+  - PRI-260406-377E
   - INS-260405-7A7C
   - PRI-260406-A5F0
   - INS-260404-CD3E
   - INS-260404-4985
-  - INS-260404-56F8
-  - INS-260404-8031
 evidence:
   - id: INS-260322-1C17
     type: SUPPORTS

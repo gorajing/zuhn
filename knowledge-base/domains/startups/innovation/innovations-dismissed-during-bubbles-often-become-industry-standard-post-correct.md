@@ -47,10 +47,10 @@ stance: >-
   underlying problem that the bubble temporarily masked.
 related:
   - INS-260403-D540
+  - PRI-260406-7128
   - INS-260402-4605
   - INS-260402-E144
   - INS-260403-4E7A
-  - PRI-260328-A1AA
 evidence:
   - id: INS-260330-AD61
     type: TRANSFERS_TO

@@ -46,16 +46,16 @@ stance: >-
   produces truly meaningful work, making late blooming not a failure but a
   prerequisite for the most significant contributions.
 related:
+  - PRI-260406-377E
   - INS-260405-020E
+  - PRI-260406-967A
   - INS-260403-EA34
   - INS-260329-5FB5
-  - INS-260402-9681
-  - PRI-260406-2B11
   - INS-260327-5AF9
-  - INS-260329-E078
   - INS-260329-D9A4
-  - INS-260330-85E1
   - INS-260403-9EB1
+  - INS-260403-D75D
+  - INS-260403-E1E9
 evidence:
   - id: INS-260329-EFA8
     type: SUPPORTS

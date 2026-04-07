@@ -46,13 +46,12 @@ stance: >-
   not independent enough — creating a systematic self-assessment inversion.
 related:
   - INS-260323-2FC3
-  - INS-260321-1A84
   - PRI-260323-400D
   - INS-260403-A136
+  - PRI-260406-4E6C
   - PRI-260406-22D5
   - INS-260402-D0F3
   - INS-260405-F5D8
-  - INS-260403-78E2
   - INS-260403-B9F4
 evidence:
   - id: INS-260323-2FC3

@@ -58,9 +58,9 @@ related:
   - INS-260404-2AA1
   - INS-260320-E872
   - INS-260403-7D7A
+  - PRI-260406-1AC6
   - INS-260403-31E4
   - INS-260403-F664
-  - INS-260403-F0AA
 ---
 Intuitively, adding constraints — word limits, tone requirements, vocabulary restrictions, audience specifications — feels like it should reduce the quality of AI output by limiting what the model can do. In practice, the opposite is true. Without constraints, models default to neutral, balanced, generic content because that's the safest response across the widest range of possible intents.
 

@@ -55,9 +55,9 @@ related:
   - INS-260330-EF51
   - PRI-260406-E371
   - PRI-260405-608A
+  - PRI-260406-4F10
   - INS-260327-2430
   - PRI-260406-DE8A
-  - INS-260403-BF1F
 ---
 Sales reps and GTM team members typically take up to 6 months to become fully productive. Companies hire them in H2 to drive the following year's growth — these hires are a cost in the current year with zero revenue contribution until months later. Under pressure to show efficiency (especially with metrics like burn multiple), a company can simply freeze H2 GTM hiring. The immediate effect is dramatically better efficiency metrics. The delayed effect is growth potentially collapsing from 75% to 20%.
 

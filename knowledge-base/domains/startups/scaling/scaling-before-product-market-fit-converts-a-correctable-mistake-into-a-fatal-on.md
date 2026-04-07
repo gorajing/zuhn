@@ -60,7 +60,7 @@ related:
   - PRI-260406-6C43
   - PRI-260328-BEDD
   - INS-260405-3098
-  - INS-260320-8688
+  - PRI-260406-7128
 ---
 Webvan is the canonical premature-scaling failure: they built out warehouse infrastructure across multiple cities before validating that customer acquisition costs and logistics were manageable at scale. Each new city locked in fixed costs that required a customer density that hadn't been proven. When the model didn't work, there was no graceful contraction — only bankruptcy.
 

@@ -56,10 +56,10 @@ stance: >-
 related:
   - INS-260322-94A9
   - INS-260326-4164
+  - PRI-260406-6E0F
   - INS-260404-02C8
   - INS-260330-0998
   - PRI-260328-6A8D
-  - INS-260329-C8C7
 evidence:
   - id: INS-260326-4164
     type: TRANSFERS_TO

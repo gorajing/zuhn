@@ -42,11 +42,11 @@ resolutions:
     parking, and require permits. The lesson: not every inconvenience is a
     market. Walking was not a problem that needed disrupting.
 related:
+  - PRI-260406-7128
   - INS-260327-A462
   - PRI-260328-82BE
   - PRI-260324-3081
   - INS-260324-29D8
-  - INS-260324-861B
   - INS-260405-EF0F
 stance: >-
   VCs proclaimed scooters would 'disrupt walking,' raised billions with no moat

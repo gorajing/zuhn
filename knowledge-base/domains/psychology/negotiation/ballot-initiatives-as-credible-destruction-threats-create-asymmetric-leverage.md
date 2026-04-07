@@ -49,10 +49,10 @@ stance: >-
   no genuine support from its sponsors.
 related:
   - INS-260330-5A0B
+  - PRI-260406-82EA
   - INS-260327-4D1F
   - INS-260403-583B
   - INS-260403-940F
-  - PRI-260328-A1AA
 ---
 SEIU spent $5 million backing ballot initiatives against hospitals, then withdrew them in exchange for $80 million in concessions plus union expansion rights. The key insight is that the ballot initiative itself was never the goal — it was a credible threat of destruction used as leverage. This works because the cost of fighting a ballot measure ($100M+ for dialysis clinics across three cycles) vastly exceeds the cost of proposing one ($5M), creating massive asymmetric leverage.
 

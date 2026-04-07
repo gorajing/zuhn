@@ -50,9 +50,9 @@ stance: >-
 related:
   - INS-260330-6D5C
   - INS-260330-0FBF
+  - PRI-260406-B7A1
   - INS-260330-909E
   - PRI-260324-1134
-  - INS-260330-BCC7
 ---
 Before Freud, the idea that minds could be driven by processes invisible to consciousness was radical enough. But the truly transformative claim was his second one: that the unconscious was discoverable. Through talk therapy, free association, and dream interpretation, patients could surface repressed feelings and gain self-insight.
 

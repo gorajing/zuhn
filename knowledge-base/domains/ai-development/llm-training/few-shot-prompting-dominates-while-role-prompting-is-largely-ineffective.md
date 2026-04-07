@@ -53,10 +53,10 @@ stance: >-
   prompting only useful for tone and style.
 related:
   - INS-260321-82FE
+  - PRI-260406-1AC6
   - INS-260403-31E4
   - PRI-260321-037A
   - PRI-260320-8205
-  - INS-260403-49D1
 ---
 Research across 1,500+ academic papers shows that few-shot prompting — providing the model with example input-output pairs — remains one of the highest-leverage techniques available. Schulhoff cites a medical-coding use case that went from complete failure to near-perfect output by simply adding a few examples. This works because examples ground the model in concrete patterns rather than abstract instructions.
 

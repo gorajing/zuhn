@@ -57,10 +57,10 @@ stance: >-
 related:
   - INS-260323-E214
   - INS-260330-73C1
+  - PRI-260406-9599
   - INS-260405-5856
   - INS-260404-2F49
   - INS-260403-6570
-  - INS-260403-8256
 ---
 Rather than picking a single winner and funding it, China designates an industry a 'national priority' and instructs 31 provincial governments to nurture it. Those provinces in turn activate 300+ prefecture-level governments, each backing local firms hoping to produce the national champion. This tournament structure preserves competitive pressure while still concentrating national resources on strategic sectors.
 

@@ -52,7 +52,7 @@ related:
   - INS-260330-4F2A
   - INS-260405-DADB
   - INS-260403-E86E
-  - INS-260330-1F41
+  - PRI-260406-C4D0
 ---
 Most AI tools operate in single-player mode — one user, one model. Meet-Ting's core insight was that scheduling is fundamentally a network problem, not an individual one. By building an AI that coordinates across multiple people, threads, and contexts simultaneously, every new user and meeting adds data that improves coordination for everyone.
 

@@ -49,11 +49,11 @@ stance: >-
   actually predict outcomes, preventing premature automation that locks in wrong
   assumptions.
 related:
+  - PRI-260406-26FB
   - INS-260403-648C
   - INS-260402-F62B
   - INS-260321-7D76
   - INS-260403-AC03
-  - INS-260402-7999
 evidence:
   - id: INS-260329-EAFD
     type: SUPPORTS

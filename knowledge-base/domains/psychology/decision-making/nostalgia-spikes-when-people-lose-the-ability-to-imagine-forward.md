@@ -51,12 +51,12 @@ related:
   - INS-260325-CE25
   - INS-260326-35CE
   - INS-260327-FD99
-  - INS-260329-A9B7
-  - INS-260329-C089
   - INS-260330-1114
   - INS-260330-BE4D
   - INS-260330-B869
   - INS-260330-206B
+  - INS-260403-53D9
+  - PRI-260403-88F5
 ---
 Smith connects widespread 90s/2000s nostalgia to the collapse of forward-looking confidence. Those decades weren't free of problems, but they had a quality the present lacks: legibility. People felt they could extrapolate their trajectory. The future was imaginable, even if imperfect.
 

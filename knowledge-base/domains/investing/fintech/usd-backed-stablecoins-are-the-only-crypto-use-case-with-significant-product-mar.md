@@ -47,12 +47,11 @@ stance: >-
   Digital dollars are the singular crypto product that has achieved meaningful
   adoption at scale, dwarfing all other blockchain use cases
 related:
-  - INS-260330-F79F
   - INS-260403-A87D
+  - PRI-260406-7862
   - INS-260403-3912
   - INS-260403-8BE9
   - INS-260403-BED6
-  - PRI-260406-FD1C
   - INS-260403-3518
   - INS-260405-39FA
   - INS-260403-EA6D

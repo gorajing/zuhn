@@ -60,6 +60,7 @@ related:
   - INS-260402-F833
   - INS-260403-2E12
   - INS-260403-3AF9
+  - PRI-260406-9599
   - INS-260403-2B95
 ---
 China's strategic bet on batteries and electric motors has matured into an integrated technology ecosystem spanning autonomous delivery trucks, drone food delivery, remote-piloted air taxis, and EVs that function as 'rolling smartphones.' Electric vehicles now account for over half of new car sales, with subcompacts at $9,000 and five-minute charging. This isn't just about individual products — batteries and motors make energy fundamentally more portable and divisible, enabling 'dumb matter' to become autonomous.

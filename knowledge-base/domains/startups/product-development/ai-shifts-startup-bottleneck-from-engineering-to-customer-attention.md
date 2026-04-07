@@ -48,9 +48,9 @@ related:
   - INS-260403-30E5
   - INS-260403-19C9
   - INS-260403-B617
-  - INS-260403-9020
+  - PRI-260406-9FA8
   - INS-260404-D6F7
-  - INS-260403-2B09
+  - INS-260403-9020
 ---
 The Lean Startup methodology was built for a world where engineering was expensive and slow. Rapid prototyping and MVPs made sense because building was the bottleneck. But with AI generating functional code in minutes, the constraint has fundamentally shifted. Now any founder can build a product quickly — the hard part is getting anyone to care about it.
 

@@ -55,11 +55,9 @@ stance: >-
   alignment than a subscription-as-loyalty-add-on model, because the company's
   survival depends on delivering value rather than extracting it
 related:
-  - INS-260322-B450
   - INS-260327-50CE
   - INS-260404-12A4
   - INS-260404-B8AE
-  - PRI-260405-1A34
   - INS-260404-EAA7
   - INS-260405-8884
   - INS-260405-051E

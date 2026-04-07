@@ -49,7 +49,7 @@ related:
   - INS-260330-3DC8
   - INS-260330-7981
   - INS-260330-D5DD
-  - INS-260330-0C10
+  - PRI-260406-350B
 evidence:
   - id: INS-260330-D5DD
     type: SUPPORTS

@@ -54,14 +54,14 @@ stance: >-
 related:
   - INS-260325-73C0
   - INS-260327-80E9
-  - INS-260327-9C3A
   - INS-260403-16B4
   - INS-260403-4E16
   - INS-260403-1E4A
+  - PRI-260406-C422
+  - PRI-260406-B785
   - PRI-260328-6A8D
-  - INS-260403-2385
   - INS-260403-3760
-  - INS-260404-B8EB
+  - INS-260403-2385
 ---
 CB Insights data shows a surge of AI customer service companies crossing $100M+ ARR, challenging incumbents through autonomous resolution rather than agent-assist tooling. The pricing model shift is significant: moving from per-seat subscriptions to outcome-based pricing (pay per resolved ticket) aligns vendor incentives with customer value and creates a measurably different economic proposition.
 

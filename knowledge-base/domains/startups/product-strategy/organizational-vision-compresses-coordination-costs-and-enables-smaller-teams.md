@@ -52,10 +52,10 @@ stance: >-
   rather than enforced through process
 related:
   - INS-260405-CADE
+  - PRI-260406-1993
   - INS-260323-CD28
   - INS-260325-FDF5
   - INS-260323-1452
-  - INS-260325-F451
 ---
 Baxley observes that companies like Disney operate efficiently with small teams because their vision ('happiest place on earth') is so clear and well-internalized that individual contributors can make aligned decisions without constant check-ins. The vision acts as a distributed decision-making framework, eliminating the need for heavy process, extensive documentation, or large management layers.
 

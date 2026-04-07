@@ -50,7 +50,6 @@ related:
   - PRI-260328-386C
   - INS-260328-FDC8
   - PRI-260406-B702
-  - INS-260405-AB6B
   - INS-260403-EFFB
 ---
 Delinquent auto debt over 60 days past due is at all-time highs, including above 2008 levels. But the more alarming finding is that the lending market has become so fragmented that total exposure is genuinely unknown. Between traditional loans, leases, buy-here-pay-here dealers, cross-collateralized lending, and fintech products, no single entity has a complete picture.

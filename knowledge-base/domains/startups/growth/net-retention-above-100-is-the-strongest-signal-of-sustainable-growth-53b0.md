@@ -58,8 +58,8 @@ related:
   - INS-260403-501D
   - INS-260403-1817
   - INS-260403-91A1
+  - PRI-260406-D017
   - PRI-260406-58FA
-  - INS-260403-E930
 ---
 Gross retention caps at 100%—the best you can do is keep every customer. Net retention factors in upsells and expansions, so it can exceed 100% even with some churn. A net retention of 120% means that a cohort of customers acquired a year ago now generates 20% more revenue than when they started, purely from expansion.
 

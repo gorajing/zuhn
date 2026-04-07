@@ -49,10 +49,10 @@ stance: >-
   across multiple channels simultaneously.
 related:
   - INS-260329-AF18
+  - PRI-260406-BE21
   - INS-260403-2054
   - INS-260403-76B7
   - INS-260402-7FF5
-  - INS-260403-B18C
 ---
 Cheung's growth framework is deliberately sequential: pick one channel, execute fully for one week, evaluate. If it works, keep executing until it caps out. If it doesn't, move on. This stands in contrast to the common approach of running Google ads, content marketing, and partnerships simultaneously with fractional effort on each.
 

@@ -41,10 +41,10 @@ stance: >-
   habitual purchasing.
 related:
   - INS-260327-AB2A
+  - PRI-260406-2900
   - INS-260327-4445
   - INS-260330-AB6F
   - INS-260403-EBC3
-  - INS-260403-9F5A
 ---
 Rotating product strategies generate novelty-driven visits but prevent the creation of signature items that form lasting brand identity and drive habitual purchasing.
 

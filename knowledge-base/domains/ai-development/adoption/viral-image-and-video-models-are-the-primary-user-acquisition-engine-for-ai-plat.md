@@ -48,10 +48,10 @@ resolutions:
     accuracy) creates a new dimension beyond just aesthetics and reasoning.
 related:
   - INS-260327-165D
+  - PRI-260406-7D93
   - INS-260327-FEB7
   - INS-260327-555D
   - INS-260404-48D1
-  - INS-260329-FB3F
 stance: The most viral consumer AI moments of 2025 were all image/video
 evidence:
   - id: INS-260327-165D

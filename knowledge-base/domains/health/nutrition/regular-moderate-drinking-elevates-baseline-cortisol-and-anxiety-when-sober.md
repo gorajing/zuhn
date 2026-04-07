@@ -54,11 +54,10 @@ stance: >-
 related:
   - INS-260330-F374
   - INS-260330-C89D
+  - PRI-260406-D0E1
   - PRI-260328-92EF
   - INS-260325-DC90
   - INS-260330-4D8B
-  - INS-260327-1DAB
-  - INS-260327-034A
 ---
 The hypothalamic-pituitary-adrenal (HPA) axis maintains the body's stress equilibrium. Huberman explains that even moderate patterns of drinking — one drink nightly, or a few drinks concentrated on weekends — alter this axis so that more cortisol is released at baseline when the person is NOT drinking. This creates a paradox familiar to regular drinkers: alcohol temporarily reduces stress (the 'I need a drink' relief), but it simultaneously recalibrates the stress system upward, so the person's sober baseline becomes more anxious and stressed than it was before they started drinking regularly.
 

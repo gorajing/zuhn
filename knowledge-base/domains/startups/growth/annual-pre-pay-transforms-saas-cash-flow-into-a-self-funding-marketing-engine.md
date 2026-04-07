@@ -50,9 +50,10 @@ stance: >-
 related:
   - INS-260329-3392
   - INS-260403-5BBE
+  - PRI-260406-6E0F
+  - PRI-260406-BE21
   - INS-260403-3A67
   - INS-260329-4EF5
-  - INS-260322-C33D
 ---
 The annual pre-pay technique works by collecting 12 months of revenue upfront while acquisition costs are paid once. The surplus cash between collection and service delivery can be immediately reinvested into acquiring more customers. This creates a self-reinforcing loop: more annual customers → more upfront cash → more marketing spend → more annual customers.
 

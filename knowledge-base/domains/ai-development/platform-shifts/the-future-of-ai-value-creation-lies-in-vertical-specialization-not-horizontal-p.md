@@ -58,7 +58,7 @@ related:
   - INS-260330-EF74
   - INS-260403-1284
   - INS-260403-3517
-  - INS-260403-B5C0
+  - INS-260403-FF65
 ---
 Bessemer Venture Partners argues that the next wave of AI value creation will come from vertical integration — AI solutions built deeply into specific industries rather than general-purpose horizontal platforms. This mirrors historical patterns where vertical SaaS eventually captured more total market value than horizontal tools.
 

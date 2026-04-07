@@ -48,11 +48,11 @@ stance: >-
   disproportionately promising novel ideas because cross-pollination bypasses
   within-field paradigm constraints.
 related:
+  - PRI-260406-6123
   - INS-260326-DBEF
   - INS-260330-AB62
   - INS-260403-7A48
   - INS-260329-E208
-  - INS-260325-95EB
   - INS-260330-6B7F
 evidence:
   - id: INS-260330-AB62

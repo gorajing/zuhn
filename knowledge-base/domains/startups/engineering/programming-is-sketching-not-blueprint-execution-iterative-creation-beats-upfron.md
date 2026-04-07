@@ -49,13 +49,12 @@ stance: >-
   The best software emerges from iterative refinement during implementation, not
   from completing specifications before coding begins.
 related:
-  - INS-260330-BE23
   - INS-260402-E994
   - INS-260403-AC03
   - PRI-260406-A5F0
+  - PRI-260406-26FB
   - INS-260403-0218
   - INS-260404-D66A
-  - INS-260405-86BB
 evidence:
   - id: INS-260329-2FEB
     type: SUPPORTS

@@ -46,10 +46,10 @@ stance: >-
   meaningful feedback.
 related:
   - INS-260403-2152
+  - PRI-260406-1A55
   - PRI-260406-9780
   - INS-260403-49D1
   - INS-260403-29AC
-  - INS-260330-1D9D
 ---
 The article argues that the original MVP compact — users tolerate rough edges in exchange for early access — has broken down. Today's users are conditioned by polished products and don't distinguish between 'this is a test' and 'this company doesn't get it.' A clunky MVP damages brand before it generates learning.
 

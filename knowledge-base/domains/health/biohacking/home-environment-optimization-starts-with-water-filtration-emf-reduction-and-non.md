@@ -45,7 +45,6 @@ related:
   - INS-260327-0871
   - INS-260403-E6F0
   - INS-260327-7F1B
-  - INS-260327-5D71
   - INS-260403-D16C
 evidence:
   - id: INS-260330-CA97

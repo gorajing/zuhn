@@ -65,13 +65,12 @@ stance: >-
   who implicate pain (making the buyer feel the personal and organizational
   consequences viscerally) create the urgency that drives closed deals.
 related:
-  - INS-260327-C6DC
   - PRI-260403-0ABD
   - PRI-260405-91AD
   - INS-260403-2814
   - INS-260327-F26E
+  - INS-260327-C6DC
   - INS-260403-1F97
-  - INS-260403-345C
   - INS-260403-C130
 evidence:
   - id: INS-260327-F26E

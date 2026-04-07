@@ -47,9 +47,9 @@ resolutions:
 related:
   - PRI-260323-9928
   - INS-260323-B1F5
+  - PRI-260406-F9EB
   - INS-260330-5C69
   - INS-260404-7EFA
-  - INS-260323-9E67
 stance: >-
   The fundamental driver of conflict in international politics is the inability
   to know another state's future intentions, making worst-case preparat...

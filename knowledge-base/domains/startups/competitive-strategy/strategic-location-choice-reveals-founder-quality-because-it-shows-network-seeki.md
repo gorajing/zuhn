@@ -47,7 +47,6 @@ stance: >-
   great founders locate where the strongest relevant networks exist for their
   specific problem, not where startups are generically prestigious
 related:
-  - INS-260330-DD63
   - PRI-260406-842D
   - INS-260327-4DDE
   - INS-260403-573F

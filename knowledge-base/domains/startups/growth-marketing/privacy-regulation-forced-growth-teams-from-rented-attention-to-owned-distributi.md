@@ -54,8 +54,8 @@ related:
   - PRI-260322-8FD4
   - INS-260330-1DCF
   - INS-260405-CF38
+  - PRI-260406-7D93
   - PRI-260406-5854
-  - INS-260403-45DB
 ---
 Apple's App Tracking Transparency alone cost Meta $10B in ad revenue in 2022 by destroying signal quality for lookalike audiences and attribution. Cookie deprecation completed the shift. For startups, this meant renting attention through paid channels became dramatically more expensive and less predictable.
 

@@ -53,10 +53,10 @@ related:
   - INS-260403-C1E9
   - INS-260404-6751
   - INS-260404-E4C9
+  - PRI-260406-6123
   - PRI-260406-40ED
   - INS-260404-FF0B
   - INS-260404-420F
-  - INS-260404-BD46
 ---
 Dollar Shave Club combined e-commerce with subscription models. Airbnb blended home rentals with trust-based marketplace mechanics. These weren't random inventions—they were deliberate recombinations of business models that already worked in other contexts. The power of this approach is that each component has already been market-validated independently, reducing the risk compared to building something entirely novel.
 

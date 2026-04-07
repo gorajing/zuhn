@@ -48,11 +48,11 @@ stance: >-
   experimentation — posting regularly while obsessively testing new formats and
   platform features.
 related:
+  - PRI-260406-7D93
   - PRI-260328-C918
   - INS-260403-B18C
   - INS-260328-EA3A
   - INS-260327-A458
-  - INS-260323-A2E5
 evidence:
   - id: INS-260328-EA3A
     type: SUPPORTS

@@ -51,7 +51,7 @@ related:
   - INS-260330-4150
   - INS-260403-7644
   - INS-260403-7089
-  - INS-260405-59AB
+  - PRI-260406-F9EB
   - INS-260404-9CAD
 ---
 When a dominant power acts without clear or consistent rationale, it undermines the entire framework of deterrence and alliance that depends on predictability. Other nations cannot distinguish between safe and unsafe behavior, so they must treat all interactions as potentially adversarial. This is why Trump's capture of Maduro — a relatively bloodless operation against an unpopular dictator — may be more destabilizing than larger military actions with clear strategic logic. The key insight for geopolitical analysis is that consistency of motivation matters more than magnitude of force. Investors and strategists should weight regime unpredictability as a separate, compounding risk factor beyond the direct effects of any single action.

@@ -52,7 +52,6 @@ stance: >-
   remain transaction-dependent
 related:
   - INS-260323-F753
-  - INS-260322-B450
   - INS-260324-C496
   - INS-260327-4440
   - INS-260329-C8C7
@@ -61,6 +60,7 @@ related:
   - INS-260403-C4DF
   - INS-260403-3F5F
   - INS-260403-2913
+  - PRI-260406-6E0F
 evidence:
   - id: INS-260323-F753
     type: CHALLENGES

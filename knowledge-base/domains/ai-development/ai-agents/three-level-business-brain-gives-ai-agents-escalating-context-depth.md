@@ -51,9 +51,9 @@ resolutions:
 related:
   - INS-260322-B6DE
   - PRI-260328-81F5
+  - PRI-260406-1F5E
   - INS-260403-7E7C
   - INS-260322-EAB6
-  - INS-260403-0350
 stance: 'AI agents need three levels of business context: Level 1 (identity'
 evidence:
   - id: INS-260329-FE15

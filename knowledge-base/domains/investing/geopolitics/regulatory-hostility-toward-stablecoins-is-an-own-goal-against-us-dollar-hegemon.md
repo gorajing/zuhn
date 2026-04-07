@@ -50,8 +50,8 @@ stance: >-
   ceding digital currency dominance to China
 related:
   - INS-260327-9BE8
-  - INS-260330-247C
   - INS-260403-99DE
+  - PRI-260406-7862
   - INS-260403-3912
   - INS-260403-3518
   - INS-260403-8C92

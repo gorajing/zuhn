@@ -43,10 +43,10 @@ resolutions:
     emotional resonance beat functional superiority.
 related:
   - INS-260327-5B47
+  - PRI-260406-2900
   - INS-260330-F9CA
   - INS-260327-2B62
   - INS-260403-3F91
-  - INS-260324-0DC1
 stance: >-
   Customers pay 2-5x more for Disney/Universal than Six Flags because branded
   attractions, $9 butterbeer, and character performers create emotional v...

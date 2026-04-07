@@ -46,6 +46,7 @@ stance: >-
   increasing growth
 related:
   - INS-260330-7C05
+  - PRI-260406-4F10
   - PRI-260405-86E0
   - INS-260403-4227
   - PRI-260403-26B9

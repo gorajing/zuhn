@@ -50,7 +50,6 @@ related:
   - PRI-260406-874A
   - INS-260327-B12E
   - INS-260405-D20A
-  - INS-260403-38C5
   - INS-260403-7ED5
 stance: >-
   Everyone recognizes desktop clutter as a problem, but nobody's in enough pain

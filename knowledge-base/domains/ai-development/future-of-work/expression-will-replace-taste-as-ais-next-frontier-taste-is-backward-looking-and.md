@@ -56,15 +56,15 @@ stance: >-
   human competitive advantage.
 related:
   - INS-260327-6A45
-  - INS-260327-2A59
   - PRI-260328-AC85
   - INS-260329-2EB1
   - INS-260402-D2C9
   - INS-260402-E11A
   - INS-260403-3C2C
+  - PRI-260406-1A55
   - PRI-260328-9F8C
-  - INS-260403-9020
   - INS-260405-DFFB
+  - INS-260329-72EF
 evidence:
   - id: INS-260327-6A45
     type: CHALLENGES

@@ -47,10 +47,10 @@ stance: >-
   labor, the exact opposite of what experts predicted would happen.
 related:
   - INS-260329-B062
+  - PRI-260406-6690
   - INS-260323-FE69
   - INS-260327-2627
   - INS-260327-40D5
-  - INS-260327-41A9
   - INS-260402-0392
 evidence:
   - id: INS-260327-40D5

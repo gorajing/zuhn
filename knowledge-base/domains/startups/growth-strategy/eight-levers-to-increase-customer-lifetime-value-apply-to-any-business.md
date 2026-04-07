@@ -50,11 +50,11 @@ stance: >-
   Most businesses leave money on the table by only optimizing acquisition when
   the 8 LTV levers compound multiplicatively
 related:
+  - PRI-260406-BE21
   - PRI-260406-5BD0
   - INS-260329-AAD1
   - INS-260403-B6F2
   - INS-260327-DD5C
-  - INS-260329-F6E1
 evidence:
   - id: INS-260323-B4D2
     type: CHALLENGES

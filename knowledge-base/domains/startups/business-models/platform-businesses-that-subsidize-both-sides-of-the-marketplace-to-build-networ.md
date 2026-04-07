@@ -41,11 +41,11 @@ stance: >-
   artificial network effects that collapse when subsidies are removed, because
   the natural equilibrium price may not support the platform.
 related:
+  - PRI-260406-7128
   - PRI-260406-0ACE
   - INS-260330-931A
   - PRI-260406-311D
   - INS-260330-0294
-  - INS-260403-2054
   - INS-260327-E52A
 evidence:
   - id: INS-260325-F5CA

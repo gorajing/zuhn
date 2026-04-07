@@ -52,7 +52,6 @@ related:
   - INS-260327-8ADE
   - INS-260327-F103
   - INS-260329-6CCC
-  - INS-260330-9900
 evidence:
   - id: INS-260330-E039
     type: TRANSFERS_TO

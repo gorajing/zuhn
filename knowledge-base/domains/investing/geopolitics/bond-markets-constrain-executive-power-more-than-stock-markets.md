@@ -46,12 +46,11 @@ stance: >-
   presidential behavior than stock market declines because it threatens
   government borrowing capacity
 related:
-  - INS-260403-988C
   - INS-260327-E72F
+  - PRI-260406-BAAC
   - INS-260403-6BDC
   - INS-260321-347D
   - INS-260402-36DE
-  - PRI-260321-2DF0
 ---
 Stock market declines are painful but self-contained — they destroy private wealth without directly constraining government operations. Bond market dysfunction is fundamentally different: rising yields increase the cost of financing government debt, potentially triggering a fiscal spiral where higher interest payments require more borrowing at even higher rates.
 

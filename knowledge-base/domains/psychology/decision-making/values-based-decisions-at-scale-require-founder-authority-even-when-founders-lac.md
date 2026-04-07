@@ -57,7 +57,6 @@ stance: >-
   over operator judgment because operators optimize for continuity while
   founders optimize for coherence
 related:
-  - INS-260402-2D7B
   - INS-260403-9FB1
   - INS-260330-14CA
   - INS-260325-A52D

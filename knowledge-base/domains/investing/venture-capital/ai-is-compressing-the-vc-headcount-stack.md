@@ -52,8 +52,6 @@ evidence:
     classified_at: '2026-04-06'
 related:
   - INS-260320-8632
-  - INS-260320-F78E
-  - INS-260325-854D
   - INS-260327-41A9
   - INS-260328-FFC3
   - INS-260328-8B2C
@@ -61,6 +59,8 @@ related:
   - INS-260330-7E58
   - INS-260403-7FFA
   - INS-260405-68DC
+  - INS-260327-1FA1
+  - INS-260403-5D1F
 ---
 The structural labor of venture—deal sourcing, market mapping, reference checks, due diligence memos—is being automated by AI tools. Firms that built large analyst and associate benches to handle volume work are now shrinking those teams dramatically. This isn't cyclical headcount reduction tied to a down market; it's a permanent compression of the labor-per-deal ratio.
 

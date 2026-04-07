@@ -53,9 +53,9 @@ resolutions:
 related:
   - INS-260322-F6B5
   - INS-260403-0949
+  - PRI-260406-377E
   - PRI-260325-A95E
   - INS-260323-DEC3
-  - INS-260326-D8B9
   - INS-260327-62AB
 stance: >-
   When a colleague's casual remark about her 'declining directing skills'

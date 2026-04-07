@@ -44,11 +44,11 @@ stance: >-
   Actively looking for patterns while building — rather than only during upfront
   design — leads to fundamentally simpler systems
 related:
+  - PRI-260406-F51A
   - INS-260403-A3E4
   - PRI-260328-C581
   - INS-260325-FDF5
   - INS-260403-B5A5
-  - INS-260405-A1E6
 evidence:
   - id: INS-260403-B5A5
     type: TRANSFERS_TO

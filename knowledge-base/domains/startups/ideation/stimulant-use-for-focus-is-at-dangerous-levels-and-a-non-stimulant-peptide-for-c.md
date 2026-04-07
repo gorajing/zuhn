@@ -58,11 +58,11 @@ resolutions:
     stimulants) is endemic. Huberman himself acknowledges drinking a lot of
     caffeine and wishing for a non-stimulant focus enhancer.
 related:
+  - PRI-260406-449E
   - INS-260330-EDDD
   - PRI-260325-663A
   - INS-260322-3A00
   - INS-260330-9E25
-  - PRI-260405-CCCE
 stance: There are no true focus-enhancing drugs
 evidence:
   - id: INS-260330-EDDD

@@ -51,7 +51,6 @@ stance: >-
   structurally democratized capital access so that traction matters more than
   connections.
 related:
-  - INS-260403-8002
   - PRI-260406-EE38
   - INS-260404-488A
   - INS-260405-6EE5

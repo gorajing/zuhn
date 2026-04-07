@@ -50,10 +50,10 @@ stance: >-
   requirements create natural barriers to entry.
 related:
   - INS-260327-EE5E
+  - PRI-260406-1F5E
   - INS-260403-0350
   - INS-260327-94FE
-  - INS-260404-CCB1
-  - INS-260403-8256
+  - PRI-260406-263A
 ---
 The article outlines a three-wave adoption model: Wave 1 covers text-based agents in marketing and customer service, Wave 2 expands to multi-modal agents in architecture and education, and Wave 3 reaches regulated sectors like healthcare and finance. The key insight is that Wave 3's slow adoption is precisely what creates defensibility—building trust through advisory boards, compliance credibility, and accuracy safeguards takes years that competitors must also invest.
 

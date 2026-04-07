@@ -49,12 +49,11 @@ stance: >-
   to replacement.
 related:
   - PRI-260406-E015
+  - PRI-260406-435D
   - PRI-260406-9866
   - INS-260323-BC61
   - INS-260404-D4E6
-  - INS-260403-E86E
   - INS-260404-68EE
-  - INS-260404-29EC
 evidence:
   - id: INS-260323-BC61
     type: EXTENDS

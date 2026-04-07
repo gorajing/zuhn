@@ -48,9 +48,9 @@ resolutions:
 related:
   - PRI-260323-7B35
   - PRI-260406-5BD0
+  - PRI-260406-B785
   - INS-260403-C907
   - PRI-260328-6CEC
-  - INS-260404-B8EB
   - INS-260403-30BF
 stance: >-
   The correct sequence is pricing optimization -> freed cash flow -> attribution

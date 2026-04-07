@@ -49,7 +49,6 @@ stance: >-
   value than the immediate revenue hit because churn kills the compounding
   engine of customer lifetime profit
 related:
-  - INS-260403-E69C
   - INS-260403-458A
   - PRI-260406-58FA
   - PRI-260324-7ED9

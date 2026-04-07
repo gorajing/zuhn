@@ -46,11 +46,11 @@ stance: >-
   outcomes than writing a comprehensive specification, because it keeps the
   program small enough to hold in one's head.
 related:
+  - PRI-260406-26FB
   - PRI-260403-5B3D
   - INS-260403-D645
   - INS-260325-D4F6
   - PRI-260405-3080
-  - INS-260325-2F12
 evidence:
   - id: INS-260320-4BA8
     type: CHALLENGES

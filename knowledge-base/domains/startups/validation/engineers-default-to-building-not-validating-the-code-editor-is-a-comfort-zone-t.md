@@ -46,9 +46,9 @@ related:
   - INS-260320-D4BD
   - INS-260329-500E
   - INS-260403-A2E9
+  - PRI-260406-4B8E
   - PRI-260321-14D8
   - INS-260327-2387
-  - INS-260403-D6C2
   - INS-260330-F125
 stance: >-
   Software engineers gravitate toward writing code because it feels like

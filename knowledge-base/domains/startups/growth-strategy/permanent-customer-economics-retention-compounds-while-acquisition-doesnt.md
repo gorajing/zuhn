@@ -46,11 +46,11 @@ stance: >-
   because time compounds retention but not acquisition.
 related:
   - INS-260327-40E3
+  - PRI-260406-D017
   - INS-260403-53B0
   - PRI-260406-58FA
   - INS-260403-91A1
-  - PRI-260328-43F1
-  - PRI-260328-C918
+  - PRI-260406-BE21
 evidence:
   - id: INS-260322-90E7
     type: SUPPORTS

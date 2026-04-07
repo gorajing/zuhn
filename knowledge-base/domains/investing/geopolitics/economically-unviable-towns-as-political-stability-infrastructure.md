@@ -48,11 +48,11 @@ stance: >-
   the cost of subsidizing them is lower than the cost of the unrest their
   closure would trigger.
 related:
+  - PRI-260406-7128
   - PRI-260328-F0B4
   - INS-260330-1183
   - INS-260405-1661
   - PRI-260403-5DEA
-  - INS-260327-BF95
 ---
 Russia maintains approximately 300 'monotowns' — single-industry settlements that cannot compete on global markets — through a combination of bloated state employment (20% of labor force), oligarch pressure against layoffs, and direct subsidies ($846M to 27 towns in 2010 alone). The Kremlin's Federal Protective Service identified 54 monotowns at highest risk of unrest, treating them as political kindling rather than economic units.
 

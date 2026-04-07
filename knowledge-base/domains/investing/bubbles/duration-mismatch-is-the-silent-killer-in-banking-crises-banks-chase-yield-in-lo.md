@@ -50,8 +50,8 @@ stance: >-
 related:
   - PRI-260321-2DF0
   - INS-260402-36DE
+  - PRI-260406-BAAC
   - PRI-260328-0993
   - INS-260403-6F9C
-  - INS-260403-6024
 ---
 During a decade of zero interest rates, banks like SVB, Signature, and First Republic sought higher returns by loading up on long-duration bonds. When the Fed raised rates from 0.25% to 5.5% in under two years, the market value of those bonds plummeted, creating massive unrealized losses. Once these losses became visible, depositors fled, forcing fire sales that crystallized the losses. This is a repeating pattern in financial history — duration mismatch is the structural time bomb that detonates at every rate regime change. The insight for investors and founders is to watch for this asymmetry: institutions that appear safe during low-rate periods may be accumulating invisible risk in their asset-liability structure.

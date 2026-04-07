@@ -59,7 +59,6 @@ related:
   - PRI-260328-0123
   - INS-260403-225F
   - INS-260403-5440
-  - INS-260404-B208
 ---
 The World Economic Forum's examination of generative AI governance highlights that traditional technology regulation — built around predictable, narrow-use systems — doesn't map well onto generative AI. The core challenge is that generative models have emergent capabilities that weren't explicitly trained and can be applied across virtually any domain, making it impossible to regulate by use case the way previous technologies were governed.
 

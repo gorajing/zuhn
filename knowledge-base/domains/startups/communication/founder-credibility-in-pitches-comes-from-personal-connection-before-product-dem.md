@@ -51,7 +51,6 @@ stance: >-
   product details only matter after the human relationship is established.
 related:
   - INS-260324-8FB4
-  - INS-260322-BFDE
   - INS-260327-0E33
   - INS-260327-BEB1
   - INS-260327-B5C9

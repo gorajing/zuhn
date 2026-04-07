@@ -51,10 +51,9 @@ stance: >-
 related:
   - INS-260327-26F2
   - INS-260327-35CB
+  - PRI-260406-E38B
   - INS-260327-7750
-  - PRI-260403-B9A0
-  - PRI-260405-C47B
-  - INS-260405-1101
+  - PRI-260406-541E
 ---
 By 1815, Prussia, Austria, and Russia had fundamentally reformed their armies after earlier humiliations. They adopted Napoleon's own innovations: corps-level organization, merit-based promotion, and aggressive pursuit doctrine. Blucher's Prussian army at Waterloo exemplified this — after being beaten at Ligny, they reorganized and marched to Wellington's aid rather than retreating, which had been the pattern in earlier campaigns.
 

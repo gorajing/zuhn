@@ -52,11 +52,11 @@ stance: >-
   infrastructure and instead allocate all effort to product-market fit and
   distribution.
 related:
+  - PRI-260406-9FA8
   - PRI-260406-D8C3
   - PRI-260405-D6F5
   - INS-260323-4794
   - PRI-260320-467A
-  - INS-260403-F68B
 ---
 A decade of developer tooling evolution has produced a mature, composable startup stack where payments (Stripe), authentication (Firebase/Auth0), hosting (Vercel/Railway), databases (Supabase/PlanetScale), and analytics are all plug-and-play. This means the 'starting from zero' experience has fundamentally changed — founders are standing on a decade's worth of accumulated infrastructure.
 

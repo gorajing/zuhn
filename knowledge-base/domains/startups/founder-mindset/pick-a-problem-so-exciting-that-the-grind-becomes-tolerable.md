@@ -47,10 +47,10 @@ stance: >-
   the underlying mission creates real energy and fun.
 related:
   - PRI-260405-E256
+  - PRI-260406-2411
   - PRI-260323-1B96
   - INS-260403-7513
   - INS-260327-D982
-  - INS-260403-805E
 evidence:
   - id: INS-260325-2052
     type: EXTENDS

@@ -54,7 +54,6 @@ related:
   - INS-260403-3C53
   - PRI-260406-0EC6
   - INS-260330-D460
-  - INS-260403-DAB9
   - INS-260403-431E
 ---
 The investor response to tariffs is shifting from 'macro noise' to 'balance-sheet risk.' VCs are now explicitly factoring tariff exposure into due diligence, asking about supplier geography concentration, component sourcing alternatives, and tariff pass-through strategies. Startups with high exposure to vulnerable geographies—particularly those dependent on Chinese manufacturing without backup suppliers—are seeing slower funding rounds and valuation pressure.

@@ -48,10 +48,10 @@ stance: >-
   risk avoidance rather than coherent vision.
 related:
   - INS-260322-7723
+  - PRI-260406-1993
   - INS-260320-A1D3
   - INS-260403-CEB7
   - INS-260330-CCF0
-  - INS-260402-71A7
 ---
 Graham points out that the best programming languages have been developed by small groups, and that if Java (run by a committee) turned out to be good, 'it will be the first time in history that a committee has designed a good language.' Committee design produces bureaucratic protocols and excessive process rather than elegant simplicity.
 

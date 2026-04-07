@@ -56,8 +56,8 @@ related:
   - INS-260405-5020
   - PRI-260406-E015
   - INS-260327-3B91
+  - PRI-260406-275E
   - INS-260403-5056
-  - INS-260327-1B7C
   - INS-260404-C6EB
 ---
 Shield AI went from $5.3B to $12.7B valuation in roughly 12 months—a trajectory more common in consumer internet than defense hardware. The driver is structural: once Hivemind is certified and integrated into Air Force platforms like the F-16 and Collaborative Combat Aircraft program, replacement requires re-certification, retraining, and re-integration across classified systems—a multi-year process no competitor can shortcut. This produces customer retention that SaaS businesses model as a target but rarely achieve. The implication for startup strategy: the most durable AI moats may come not from algorithmic superiority (which is replicable) but from integration depth into regulated, high-switching-cost environments—defense, healthcare, financial infrastructure. Valuation follows durability of revenue, not just growth rate.

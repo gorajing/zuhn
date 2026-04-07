@@ -54,10 +54,10 @@ stance: >-
   expression
 related:
   - INS-260325-EE8B
+  - PRI-260406-350B
   - PRI-260325-663A
   - INS-260322-D059
   - INS-260330-E647
-  - INS-260325-9F4C
 evidence:
   - id: INS-260322-D059
     type: REFINES

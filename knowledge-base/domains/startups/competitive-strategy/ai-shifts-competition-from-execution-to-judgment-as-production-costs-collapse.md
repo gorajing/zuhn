@@ -47,12 +47,14 @@ stance: >-
 related:
   - INS-260329-50D5
   - INS-260330-F125
-  - INS-260403-A101
   - INS-260405-0271
+  - PRI-260406-9FA8
+  - PRI-260406-72B3
+  - INS-260403-A101
   - INS-260405-7838
   - PRI-260321-14D8
-  - INS-260404-9D14
   - INS-260403-50F6
+  - INS-260404-9D14
 ---
 AI systems amplify whatever strategic direction they're pointed at — good judgment gets amplified into outsized results, while poor judgment accelerates failure. This inverts the traditional startup advantage where scrappy execution could compensate for mediocre strategy.
 

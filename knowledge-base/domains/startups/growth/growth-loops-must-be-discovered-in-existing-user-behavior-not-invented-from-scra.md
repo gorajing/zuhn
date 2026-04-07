@@ -54,6 +54,6 @@ related:
   - INS-260403-B18C
   - INS-260403-4C42
   - PRI-260328-49CB
-  - PRI-260403-5FC4
+  - PRI-260406-7D93
 ---
 A critical insight from the playbook is that loops aren't invented — they're discovered. The best loops emerge from observing what users already do: sharing screenshots, sending links, posting content. The journaling app example illustrates this perfectly — users were already screenshotting entries for Instagram, so the loop design simply removed friction from that existing behavior. If no reinforcing behavior exists naturally, the article argues you likely have a product-market fit problem, not a growth loop problem. This reframes growth loop design from a creative exercise to an observational one, and suggests that the first step in loop design should always be behavioral analytics and user research, not brainstorming sessions.

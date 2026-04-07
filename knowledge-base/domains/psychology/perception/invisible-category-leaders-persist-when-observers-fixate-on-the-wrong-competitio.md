@@ -50,10 +50,10 @@ stance: >-
   track a prestigious subcategory rather than the full competitive field.
 related:
   - INS-260327-EE23
+  - PRI-260406-006A
   - INS-260330-2D53
   - INS-260323-FAF2
   - INS-260330-F9FB
-  - INS-260327-6177
 evidence:
   - id: INS-260323-FAF2
     type: TRANSFERS_TO

@@ -51,8 +51,8 @@ related:
   - INS-260403-0041
   - PRI-260406-874A
   - INS-260330-2C79
+  - PRI-260406-CAE4
   - INS-260330-0BBA
-  - INS-260327-89C7
 ---
 When building customer profiles, teams instinctively filter customer jobs, pains, and gains through the lens of their existing product or idea. This creates a confirmation-bias loop where you only see problems your solution already addresses, missing the deeper motivations that actually drive purchasing decisions.
 

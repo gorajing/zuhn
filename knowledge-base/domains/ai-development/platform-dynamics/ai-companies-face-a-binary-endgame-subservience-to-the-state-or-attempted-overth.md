@@ -54,7 +54,6 @@ stance: >-
   control over superintelligence-level capabilities alongside sovereign
   nation-states.
 related:
-  - INS-260323-B40C
   - INS-260323-0683
   - PRI-260322-9E36
   - PRI-260321-0A4D

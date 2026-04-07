@@ -54,15 +54,14 @@ stance: >-
   the attentional machinery works fine but the dopamine-based gating mechanism
   for uninteresting tasks is broken
 related:
-  - INS-260325-085E
   - INS-260321-08AC
   - INS-260329-D481
+  - PRI-260406-449E
   - INS-260330-E823
   - PRI-260405-E628
   - PRI-260328-1654
   - INS-260330-4E50
   - INS-260330-F41D
-  - INS-260330-0242
 evidence:
   - id: INS-260325-085E
     type: EXTENDS

@@ -49,11 +49,10 @@ stance: >-
   mechanism.
 related:
   - INS-260325-8729
-  - INS-260329-C472
+  - PRI-260406-6FA3
+  - PRI-260406-B146
   - INS-260403-2814
   - INS-260327-F26E
-  - INS-260403-C1C4
-  - INS-260405-A2A2
 evidence:
   - id: INS-260329-CD64
     type: SUPPORTS

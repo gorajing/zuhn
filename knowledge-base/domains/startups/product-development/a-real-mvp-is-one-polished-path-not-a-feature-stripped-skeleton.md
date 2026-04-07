@@ -52,11 +52,11 @@ stance: >-
   clarity, not a broad product with features removed—because user conviction
   comes from depth of value delivery, not breadth of capability.
 related:
-  - INS-260329-FEBA
   - INS-260402-543E
+  - INS-260329-FEBA
   - INS-260327-F405
+  - PRI-260406-8C9D
   - INS-260403-1C31
-  - INS-260403-2D39
 ---
 Most founders misunderstand what 'minimum' means in MVP. They strip features to ship faster, ending up with a janky login, vague dashboards, and 'Coming Soon' tabs—a product that's minimal in quality rather than scope. A true MVP is one clear, polished path that makes the user immediately understand the value. If 90% of users want one specific thing, build the best possible version of that single thing.
 

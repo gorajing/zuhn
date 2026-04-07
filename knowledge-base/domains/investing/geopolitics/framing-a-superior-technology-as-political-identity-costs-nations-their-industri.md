@@ -56,7 +56,7 @@ related:
   - INS-260404-A15B
   - PRI-260324-3AAE
   - INS-260403-3C2C
-  - INS-260325-4846
+  - PRI-260406-9599
 ---
 The US is unique among major economies in treating EV adoption as a culture war issue rather than an industrial competitiveness question. Trump canceled EV subsidies not because of economic analysis but because EVs are associated with environmentalism and the political left. This political coding has caused American consumers, manufacturers, and policymakers to actively resist a technology that is objectively superior on maintenance costs, energy efficiency, and performance.
 

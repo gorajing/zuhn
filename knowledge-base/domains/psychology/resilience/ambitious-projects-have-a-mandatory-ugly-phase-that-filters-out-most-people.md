@@ -46,7 +46,6 @@ stance: >-
   The primary bottleneck to great work is not ability but emotional tolerance
   for producing low-quality early output
 related:
-  - INS-260329-D3D9
   - INS-260329-1FEE
   - INS-260403-FE41
   - INS-260404-56F8

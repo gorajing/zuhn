@@ -48,10 +48,10 @@ stance: >-
   startup success than what specific technology they choose to learn.
 related:
   - INS-260403-573F
+  - PRI-260406-2411
   - INS-260327-3A71
   - INS-260403-805E
   - INS-260404-8A02
-  - PRI-260328-59DC
 ---
 Graham defines technology broadly — programming, welding, making clothes, making videos — and says the specific choice barely matters. What matters is being on the production side. 'Are you writing computer games, or just playing them? That's the cutoff.' He reinforces this with Steve Jobs learning calligraphy: an apparently useless skill that gave Apple a decisive advantage in graphic design when the Macintosh launched.
 

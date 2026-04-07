@@ -46,9 +46,9 @@ stance: >-
   durability of revenue matters more than velocity of acquisition.
 related:
   - INS-260403-C837
+  - PRI-260406-D017
   - INS-260403-53B0
   - INS-260403-A2A2
   - INS-260330-D63C
-  - PRI-260406-58FA
 ---
 The question 'show me retention by cohort' is described as the moment that freezes fundraising rooms because it separates founders who understand their unit economics from those riding vanity metrics. MRR can grow 15% month-over-month while retention collapses underneath—marketing simply adds new customers faster than old ones leave. A founder who presents clean cohort tables with improving retention curves demonstrates three things investors care about: acquisition dollars compound over time, the product has staying power, and the business isn't burning capital on a leaky funnel. Preparing cohort data before fundraising is table-stakes readiness, not a nice-to-have.

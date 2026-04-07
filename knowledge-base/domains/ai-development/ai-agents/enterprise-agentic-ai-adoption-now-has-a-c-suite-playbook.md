@@ -56,10 +56,8 @@ related:
   - INS-260327-D65E
   - INS-260327-FE24
   - INS-260330-AB62
-  - INS-260330-EEA9
   - INS-260404-8E0D
-  - INS-260321-4E98
-  - INS-260403-AC2D
+  - PRI-260406-1F5E
   - INS-260405-1A3C
 ---
 Two major publications dropped simultaneously: McKinsey's agentic AI playbook targeting C-suite decision-makers on agent orchestration, trust, and enterprise reinvention, and OpenAI's technical guide to building agents with code-level implementation details and safety frameworks. The convergence of a management consultancy and an AI lab publishing agent guides at the same time is significant.

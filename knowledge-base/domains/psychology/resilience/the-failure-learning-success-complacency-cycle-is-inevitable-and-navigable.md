@@ -45,14 +45,12 @@ stance: >-
   success, and complacency, and the key skill is recognizing which phase you're
   in to minimize time in complacency.
 related:
-  - INS-260329-19F9
   - INS-260329-E078
   - INS-260329-1D08
   - INS-260329-C689
+  - PRI-260406-967A
   - PRI-260328-0AB1
   - PRI-260406-D7C7
-  - INS-260326-8E6D
-  - INS-260329-DF07
   - INS-260329-CE86
 evidence:
   - id: INS-260323-3CC2

@@ -56,6 +56,7 @@ related:
   - INS-260403-924B
   - INS-260403-CC59
   - INS-260403-E662
+  - PRI-260406-6123
 ---
 The rise of AI wrappers represents a familiar pattern in technology: the abstraction layer often captures more value than the infrastructure it sits on. AI wrappers take foundational models and package them into vertical-specific tools that solve concrete problems without requiring users to understand the underlying technology.
 

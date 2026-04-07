@@ -58,7 +58,6 @@ stance: >-
   because it builds tacit process knowledge that can later underpin independent
   innovation
 related:
-  - INS-260403-363C
   - INS-260404-57D0
   - INS-260403-690C
   - INS-260330-0346

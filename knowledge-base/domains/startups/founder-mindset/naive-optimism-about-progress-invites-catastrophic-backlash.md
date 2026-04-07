@@ -48,10 +48,11 @@ stance: >-
   anti-progress backlash.
 related:
   - PRI-260328-BF67
+  - PRI-260406-E38B
   - PRI-260328-D292
   - INS-260330-7E97
+  - PRI-260406-006A
   - INS-260402-9F35
-  - INS-260325-F306
 evidence:
   - id: INS-260330-7E97
     type: SUPPORTS

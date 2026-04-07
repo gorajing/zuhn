@@ -54,9 +54,8 @@ related:
   - INS-260403-2E12
   - INS-260403-6FEB
   - INS-260403-3AF9
+  - PRI-260406-9599
   - INS-260403-1337
-  - INS-260405-B6CB
-  - INS-260403-CACB
   - INS-260403-44D9
 stance: The next industrial revolution isn't just factories
 evidence:

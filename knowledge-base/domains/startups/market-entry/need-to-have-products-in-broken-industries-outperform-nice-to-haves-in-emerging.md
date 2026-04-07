@@ -53,10 +53,10 @@ stance: >-
   adoption despite trust barriers.
 related:
   - INS-260330-D460
+  - PRI-260406-263A
   - INS-260330-D5BD
   - PRI-260406-B87C
   - PRI-260328-A4AC
-  - PRI-260406-0EC6
 ---
 Latin America has multiple broken industries — education, insurance, logistics, finance — that are simultaneously large and high-impact. The strategic advantage of targeting these sectors is that they represent need-to-haves rather than nice-to-haves. When people desperately need a working solution for something essential, they'll push through trust barriers and adoption friction faster than they would for a convenience product.
 

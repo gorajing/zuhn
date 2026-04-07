@@ -47,11 +47,11 @@ resolutions:
     incentives (as in recent years), growth slows. Understanding this mechanism
     is more predictive than reading top-level policy announcements.
 related:
+  - PRI-260406-9599
   - PRI-260322-9E36
   - INS-260330-7DA5
   - INS-260405-F20C
   - INS-260330-73C1
-  - INS-260323-244C
 stance: >-
   The biggest misconception about China's economy is that it is centrally
   commanded

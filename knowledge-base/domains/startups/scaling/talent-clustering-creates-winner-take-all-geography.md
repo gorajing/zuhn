@@ -44,12 +44,13 @@ stance: >-
   colleagues, making talent geography a compounding advantage that can shift
   rapidly between regions
 related:
-  - INS-260330-DD63
   - INS-260330-8FC5
   - INS-260403-14D5
   - INS-260403-FA89
   - INS-260403-46B2
   - INS-260403-D966
+  - INS-260330-DD63
+  - PRI-260406-701E
 evidence:
   - id: INS-260330-8FC5
     type: SUPPORTS

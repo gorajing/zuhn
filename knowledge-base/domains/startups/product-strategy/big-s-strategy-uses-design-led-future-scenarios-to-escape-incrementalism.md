@@ -58,9 +58,9 @@ stance: >-
 related:
   - INS-260328-93C8
   - INS-260403-5E86
+  - PRI-260406-D9D6
   - INS-260404-E4F1
   - INS-260322-AAEA
-  - INS-260329-476D
   - INS-260403-93DA
 ---
 Chandra distinguishes 'big S' strategy as fundamentally different from the tactical 'small s' process. Big S takes a 5-10 year view, is led by design and research rather than product management, and focuses on envisioning distinct future scenarios through concept prototypes rather than analyzing current data. It can run in parallel with small s work without conflict.

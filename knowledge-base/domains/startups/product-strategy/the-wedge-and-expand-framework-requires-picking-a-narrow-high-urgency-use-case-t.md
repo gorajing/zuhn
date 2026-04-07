@@ -54,10 +54,9 @@ stance: >-
 related:
   - INS-260324-A046
   - INS-260404-F0E9
+  - PRI-260406-8C9D
   - INS-260402-C98A
   - INS-260404-4BF9
-  - PRI-260406-5BD0
-  - INS-260403-B448
 ---
 Jacob Effron's Redpoint framework distills AI startup evaluation into three filters: Is there an effective wedge (a narrow, high-urgency use case that end-users love)? How much can the company expand from that wedge into large adjacencies? And will quality matter in this market — because if 'good-enough for cheap' wins, race-to-the-bottom risk kills margins.
 

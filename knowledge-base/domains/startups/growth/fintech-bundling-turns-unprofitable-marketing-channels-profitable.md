@@ -51,10 +51,10 @@ stance: >-
   same CAC
 related:
   - INS-260403-9106
+  - PRI-260406-BE21
   - INS-260403-A57D
   - INS-260403-F524
   - INS-260322-FCFC
-  - PRI-260406-CA09
 ---
 Most marketplace founders evaluate customer acquisition channels in isolation—if a channel's CAC exceeds the revenue from a single transaction, it's discarded. But fintech-enabled marketplaces fundamentally change this math by capturing more value per transaction through bundled financial products (insurance, financing, concierge services).
 

@@ -51,7 +51,7 @@ related:
   - INS-260403-7E7C
   - INS-260403-0373
   - INS-260325-0FED
-  - INS-260325-5455
+  - PRI-260406-D9D6
 ---
 Vikrama Dhiman argues that PMs—especially early in their careers—should focus on execution before spending time on strategy. Effective strategic thinking requires deep context on the company, product, and stakeholders that new PMs simply don't have yet. Execution always presents opportunities and makes team members' lives easier.
 

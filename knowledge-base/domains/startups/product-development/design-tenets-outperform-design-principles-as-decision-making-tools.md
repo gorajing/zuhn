@@ -52,10 +52,10 @@ stance: >-
 related:
   - INS-260402-0BFF
   - INS-260403-C49F
+  - PRI-260406-1A55
   - INS-260330-8E8A
   - INS-260404-E185
   - INS-260323-3F30
-  - INS-260325-C2BD
 ---
 Baxley draws a critical distinction between design principles and design tenets. Principles are statements like 'simple' or 'beautiful' that no reasonable person would argue against — making them useless for resolving actual design disagreements. Tenets, by contrast, are opinionated stances where a reasonable person could hold the opposite view: 'documentation is a failure state' implies the product should be self-explanatory, which is a real commitment with real trade-offs.
 

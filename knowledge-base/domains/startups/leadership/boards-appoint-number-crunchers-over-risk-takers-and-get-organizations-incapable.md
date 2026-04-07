@@ -42,10 +42,10 @@ resolutions:
     runs are seen as reckless.
 related:
   - PRI-260324-12CF
+  - PRI-260406-C422
   - INS-260323-104E
   - PRI-260405-AF79
   - INS-260327-0004
-  - PRI-260406-7FE4
 stance: >-
   The systematic replacement of marketing/sales CEOs with finance/analytics CEOs
   post-2011 created a corporate monoculture optimized for yesterday's ...

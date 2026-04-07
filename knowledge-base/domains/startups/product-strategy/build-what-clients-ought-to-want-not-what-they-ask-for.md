@@ -50,11 +50,11 @@ stance: >-
   preferences.
 related:
   - INS-260405-8584
+  - PRI-260406-CAE4
   - INS-260405-95D1
   - INS-260327-A814
   - INS-260323-9D6E
   - INS-260402-426C
-  - INS-260405-9C70
 ---
 Karp describes Palantir's product philosophy as fundamentally different from traditional enterprise software. Where most companies figure out what the client wants, give them a version of it, and make switching costly, Palantir builds what the client ought to want — even if they don't ask for it. This means clients might not like you initially, but when the product delivers real outcomes (like bringing soldiers home safely), they learn to value it.
 

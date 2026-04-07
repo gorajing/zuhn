@@ -41,10 +41,10 @@ stance: >-
   therapeutic relationships fundamentally cannot provide.
 related:
   - INS-260327-5B47
+  - PRI-260406-B785
   - INS-260322-5650
   - INS-260322-B450
   - INS-260323-FEAB
-  - INS-260327-F405
   - INS-260405-E7EF
   - INS-260404-97AA
 evidence:

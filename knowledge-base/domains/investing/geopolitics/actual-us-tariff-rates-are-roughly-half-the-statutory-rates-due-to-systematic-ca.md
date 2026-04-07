@@ -53,9 +53,9 @@ stance: >-
 related:
   - INS-260330-AFAD
   - INS-260403-20ED
+  - PRI-260406-1115
   - INS-260403-7779
   - INS-260403-42BA
-  - INS-260405-1CC3
 ---
 Gopinath and Neiman (2025) document a systematic gap between announced and actual tariff rates. The Trump administration used product exemptions (e.g., semiconductors at 9% actual vs. 24% statutory), company-specific deals tied to domestic manufacturing commitments, and USMCA compliance provisions to significantly reduce effective rates. Taiwan's actual rate was 8% despite a 28% statutory rate.
 

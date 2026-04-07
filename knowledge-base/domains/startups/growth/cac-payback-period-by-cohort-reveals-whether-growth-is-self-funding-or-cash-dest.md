@@ -49,8 +49,8 @@ related:
   - INS-260330-A029
   - PRI-260406-46C3
   - INS-260403-B18C
+  - PRI-260406-BE21
   - INS-260403-45DB
-  - PRI-260406-E371
   - INS-260403-D8DB
 ---
 Comparing cumulative revenue per cohort against acquisition cost produces a concrete payback month rather than a theoretical ratio. This matters because a 3:1 LTV/CAC ratio means nothing if payback takes 18 months and your runway is 12. Different cohorts recover CAC at different speeds depending on acquisition channel, onboarding quality, and product-market fit at the time of signup. When payback stretches beyond cash runway, the prescription is specific: improve channels, pricing, or onboarding—not just 'grow faster.' Tagging cohorts by acquisition source connects payback speed to marketing spend decisions, turning retention analysis into an actionable growth lever rather than a backward-looking report.

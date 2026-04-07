@@ -41,10 +41,10 @@ stance: >-
   unsustainable capex treadmill.
 related:
   - INS-260324-748A
-  - INS-260327-8115
   - INS-260327-F651
+  - PRI-260406-2900
+  - INS-260327-8115
   - INS-260325-4677
-  - PRI-260328-F497
 evidence:
   - id: INS-260325-4677
     type: TRANSFERS_TO

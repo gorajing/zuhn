@@ -54,10 +54,10 @@ stance: >-
   trainable aspect of the dopamine system for sustained high performance.
 related:
   - INS-260326-8E6D
-  - INS-260327-7846
   - INS-260329-F04B
   - INS-260330-85D9
   - INS-260403-A06E
+  - PRI-260406-967A
   - INS-260403-D64B
   - INS-260404-8A67
 evidence:

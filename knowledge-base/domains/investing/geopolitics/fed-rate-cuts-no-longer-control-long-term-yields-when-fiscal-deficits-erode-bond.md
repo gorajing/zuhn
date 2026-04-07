@@ -57,10 +57,10 @@ related:
   - INS-260403-988C
   - INS-260403-6024
   - INS-260403-2242
+  - PRI-260406-BAAC
   - PRI-260328-0993
   - INS-260403-6BDC
   - INS-260404-DA3A
-  - INS-260324-DB86
 ---
 For 17 years starting in 2008, the Federal Reserve wielded extraordinary influence over markets through near-zero rates and aggressive quantitative easing. But by 2024, a structural shift emerged: when the Fed cut the Federal Funds Rate three times (from 5.5% to 4.25-4.50%), long-term yields actually rose. The mechanism broke because the U.S. continued running large deficits at full employment, flooding the market with Treasury issuance, while the Fed reduced its balance sheet and major foreign buyers (China, Japan) pulled back.
 

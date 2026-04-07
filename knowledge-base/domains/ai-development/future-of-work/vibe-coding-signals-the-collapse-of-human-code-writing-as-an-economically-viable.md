@@ -56,9 +56,9 @@ related:
   - INS-260405-5617
   - INS-260403-A2E9
   - INS-260403-36EC
+  - PRI-260406-3EF8
   - PRI-260328-9F8C
   - PRI-260321-7307
-  - PRI-260328-8317
 ---
 Smith highlights a critical progression: currently, human engineers still review AI-generated code, but as AI code quality improves, even this review step becomes uneconomical. The Spotify example — where top developers no longer write code — and the CNBC journalists cloning an app with zero experience illustrate how fast this transition is happening.
 

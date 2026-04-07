@@ -51,11 +51,11 @@ stance: >-
   bilateral mineral frameworks with allied nations to meaningfully counter
   China's 90% processing dominance.
 related:
+  - PRI-260406-275E
   - INS-260403-8C41
   - PRI-260323-9295
   - INS-260330-516E
   - INS-260405-7698
-  - INS-260404-F631
 ---
 Project Vault's $12B strategic mineral reserve goes beyond simple stockpiling by combining EXIM Bank loans with private capital and signing bilateral critical minerals frameworks with 11 countries simultaneously. This acknowledges that China's 90% dominance in mineral processing cannot be countered by any single nation's reserves alone.
 

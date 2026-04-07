@@ -54,10 +54,9 @@ stance: >-
 related:
   - PRI-260403-5C44
   - INS-260323-A700
+  - PRI-260406-FD70
   - INS-260403-7252
   - INS-260403-86C7
-  - INS-260405-AD04
-  - INS-260404-CC66
 ---
 Reports from late 2024 show 42% of business owners experienced burnout in the prior month, with 24% currently experiencing it. But burnout doesn't start as collapse — it begins with sleepless nights, constant anxiety, and the belief that not working means the company is sliding backward. Add perfectionism, financial strain, and leadership loneliness, and the escalation path becomes predictable.
 

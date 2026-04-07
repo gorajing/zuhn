@@ -48,11 +48,11 @@ stance: >-
   sustainability with corporate concern about maintaining cheap labor supply,
   and these require fundamentally different policy responses.
 related:
+  - PRI-260406-A77B
   - INS-260330-207D
   - PRI-260328-7E58
   - PRI-260328-8284
   - PRI-260325-A95E
-  - INS-260330-E68E
 evidence:
   - id: INS-260330-207D
     type: TRANSFERS_TO

@@ -44,7 +44,6 @@ resolutions:
     applications are augmenting labor or filling roles that simply could not be
     hired for, rather than eliminating existing jobs.
 related:
-  - INS-260325-F20C
   - INS-260403-B387
   - PRI-260328-8317
   - INS-260405-8532

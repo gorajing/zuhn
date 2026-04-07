@@ -54,10 +54,10 @@ stance: >-
   talking in generalities.
 related:
   - PRI-260406-7548
+  - PRI-260406-F51A
   - INS-260323-197A
+  - PRI-260406-D9D6
   - INS-260329-CBEB
-  - INS-260329-8C69
-  - INS-260403-EF30
 evidence:
   - id: INS-260323-197A
     type: TRANSFERS_TO

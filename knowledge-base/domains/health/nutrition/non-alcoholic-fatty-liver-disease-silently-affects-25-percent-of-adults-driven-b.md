@@ -39,11 +39,11 @@ stance: >-
   primarily by refined fructose (HFCS) and seed oil consumption causing hepatic
   insulin resistance and triglyceride accumulation in liver cells
 related:
+  - PRI-260406-D0E1
   - INS-260325-6360
   - INS-260327-C8EB
   - INS-260327-9E9D
   - PRI-260328-40CA
-  - INS-260325-A03E
 evidence:
   - id: INS-260325-A9E0
     type: SUPPORTS

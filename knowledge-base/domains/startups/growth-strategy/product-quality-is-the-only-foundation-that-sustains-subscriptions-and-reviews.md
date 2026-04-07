@@ -49,14 +49,14 @@ resolutions:
 related:
   - INS-260322-7DD5
   - INS-260330-1D9D
+  - PRI-260406-D017
   - INS-260329-B0BA
   - INS-260322-B450
   - PRI-260328-6A8D
-  - PRI-260406-CCAE
   - INS-260327-F55C
   - INS-260327-A98E
   - INS-260327-0C56
-  - INS-260327-AB2A
+  - INS-260330-0F52
 stance: >-
   In 2026, customer feedback is too fast and too public for mediocre products to
   survive

@@ -50,7 +50,6 @@ stance: >-
   inverting your mental orientation entirely — from listing reasons it will fail
   to imagining how it could succeed.
 related:
-  - INS-260320-E044
   - INS-260325-788E
   - INS-260327-D7E6
   - INS-260330-2576
@@ -60,6 +59,7 @@ related:
   - INS-260404-6D51
   - PRI-260406-D43E
   - INS-260404-9E63
+  - INS-260403-EEE5
 ---
 Most people evaluate new ideas by pattern-matching against known failures and listing objections. This feels intellectually rigorous but is actually the wrong tool for early-stage work, where the distribution of outcomes follows a power law. In a power-law world, the cost of missing the rare winner dwarfs the cost of spending time on losers.
 

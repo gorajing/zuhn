@@ -53,12 +53,11 @@ stance: >-
   than on nuanced diplomatic sophistication, and perceived unpredictability can
   substitute for actual strategic depth.
 related:
-  - INS-260323-B1F5
   - INS-260323-CB47
   - INS-260330-F488
   - PRI-260323-7749
+  - PRI-260406-F9EB
   - PRI-260324-8EE6
-  - PRI-260323-9928
   - INS-260330-ABBF
   - INS-260404-F5C3
   - INS-260405-5341

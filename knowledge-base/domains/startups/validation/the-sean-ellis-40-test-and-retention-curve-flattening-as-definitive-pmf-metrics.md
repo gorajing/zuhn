@@ -54,12 +54,12 @@ stance: >-
   flattening retention curve — rather than relying on qualitative founder
   intuition alone.
 related:
-  - INS-260329-8BD3
   - INS-260330-16CD
   - INS-260403-29AC
   - INS-260403-C837
   - INS-260404-769B
-  - INS-260403-53B0
+  - PRI-260406-D017
+  - INS-260329-8BD3
 ---
 While Marc Andreessen famously said 'you can always feel PMF,' the article provides two concrete measurement tools that remove guesswork. The Sean Ellis survey asks users 'How would you feel if you could no longer use this product?' — if 40%+ say 'very disappointed,' you're on the PMF path. This is powerful because it measures dependency rather than satisfaction, and dependency is what drives retention and organic growth.
 

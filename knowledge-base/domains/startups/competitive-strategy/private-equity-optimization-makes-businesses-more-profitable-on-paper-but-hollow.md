@@ -62,7 +62,7 @@ related:
   - INS-260330-DC0D
   - INS-260403-A115
   - INS-260329-C474
-  - INS-260330-F3E4
+  - INS-260403-CF98
 evidence:
   - id: INS-260403-CF98
     type: CHALLENGES

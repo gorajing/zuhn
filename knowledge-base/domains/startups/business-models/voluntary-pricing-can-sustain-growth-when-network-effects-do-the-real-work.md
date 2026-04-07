@@ -50,9 +50,9 @@ stance: >-
 related:
   - INS-260330-F9CA
   - INS-260405-631B
+  - PRI-260406-B785
   - INS-260403-9104
   - INS-260322-B450
-  - INS-260404-12A4
 evidence:
   - id: INS-260330-F9CA
     type: SUPPORTS

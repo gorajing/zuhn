@@ -49,11 +49,11 @@ stance: >-
 related:
   - INS-260327-F274
   - INS-260402-9F35
+  - PRI-260406-006A
   - PRI-260403-B9A0
+  - PRI-260406-E38B
   - PRI-260328-65EC
   - PRI-260405-C47B
-  - INS-260330-F116
-  - INS-260327-DEEB
 ---
 The Britain 1870-1914 case is the clearest historical proof: Britain's manufactured output rose substantially in absolute terms from 1870 to 1913, yet Britain entered WWI feeling strategically vulnerable. The reason was relative share collapse — from 31.8% to 14% of global manufacturing, while the US went from 23% to 32%. Britain could not defeat Germany alone and required American industrial power to tip the balance.
 

@@ -56,8 +56,8 @@ related:
   - PRI-260406-D802
   - INS-260403-44A6
   - PRI-260406-0EC6
-  - INS-260403-9E97
   - INS-260403-56FC
+  - PRI-260406-1115
 ---
 The 'Liberation Day' tariffs hit US regions asymmetrically, with the Midwest seeing a 32% drop in PE deal activity and the Southeast declining 26%. These regions' economies are more exposed to trade-sensitive industries like manufacturing and agriculture, making their deal pipelines directly vulnerable to tariff policy.
 

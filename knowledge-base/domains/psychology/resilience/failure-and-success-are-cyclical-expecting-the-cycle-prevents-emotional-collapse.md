@@ -47,15 +47,15 @@ stance: >-
   response amplifies the setback.
 related:
   - INS-260323-1811
-  - INS-260323-EDAD
   - INS-260329-66BD
   - INS-260329-19F9
   - INS-260329-1D08
   - INS-260329-163B
+  - PRI-260406-967A
   - INS-260330-9BF3
-  - INS-260403-77F4
   - INS-260329-DF07
   - INS-260403-5808
+  - INS-260403-E748
 evidence:
   - id: INS-260323-1811
     type: TRANSFERS_TO

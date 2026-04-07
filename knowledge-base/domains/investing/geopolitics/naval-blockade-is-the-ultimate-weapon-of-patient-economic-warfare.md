@@ -50,10 +50,10 @@ stance: >-
   entire industrial and social foundation.
 related:
   - INS-260327-99DF
+  - PRI-260406-E38B
   - PRI-260328-43D8
   - INS-260327-8268
   - INS-260321-3808
-  - INS-260327-E7AC
   - INS-260327-E4A1
 ---
 Britain's naval blockade received none of the attention given to land battles, but it was devastating: by 1917, Germany was suffering severe food shortages, industrial production was declining, and civilian morale was collapsing. An estimated 424,000 German civilians died from malnutrition and disease caused by the blockade. This invisible, patient economic warfare undermined Germany's ability to sustain the war more effectively than any battlefield victory.

@@ -60,9 +60,9 @@ related:
   - INS-260405-9409
   - PRI-260328-8317
   - INS-260402-C98A
+  - PRI-260406-50EA
   - PRI-260403-FBA8
   - INS-260403-3664
-  - PRI-260328-9F8C
   - INS-260403-D5BB
 ---
 Musk's framing — that AI and robotics make working 'optional' rather than impossible — is a precise and underappreciated distinction. It implies the economy doesn't collapse; it reorganizes. If time becomes abundant and goods become cheap, demand shifts toward things that help people create, learn, express, or connect — not things that save them time at work.

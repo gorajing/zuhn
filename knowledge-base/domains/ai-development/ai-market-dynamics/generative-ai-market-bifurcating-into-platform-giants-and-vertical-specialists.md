@@ -52,10 +52,10 @@ related:
   - INS-260403-3517
   - INS-260403-1085
   - INS-260403-426A
-  - INS-260404-9E11
   - INS-260404-EA1D
   - INS-260403-2A92
   - INS-260404-CCB1
+  - INS-260404-5684
 ---
 The 2025 generative AI market is crystallizing into two tiers: horizontal platform companies (OpenAI, Anthropic) competing for general-purpose dominance, and specialized startups capturing defensible niches in verticals like legal and medical AI.
 

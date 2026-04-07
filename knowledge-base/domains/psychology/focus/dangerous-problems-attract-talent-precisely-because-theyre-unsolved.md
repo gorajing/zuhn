@@ -46,11 +46,11 @@ stance: >-
   disproportionately consume early-career researchers who cannot yet afford
   unproductive years.
 related:
+  - PRI-260406-59C8
   - INS-260403-B12E
   - INS-260403-225B
+  - PRI-260406-377E
   - PRI-260406-D7C7
-  - PRI-260403-88F5
-  - INS-260403-862E
 evidence:
   - id: INS-260329-19F9
     type: TRANSFERS_TO

@@ -46,10 +46,10 @@ stance: >-
   person's head to fit in a user's head.
 related:
   - INS-260402-AEA1
+  - PRI-260406-1993
   - PRI-260328-A805
   - PRI-260321-AD44
   - INS-260329-44C9
-  - INS-260327-289F
 evidence:
   - id: INS-260329-44C9
     type: SUPPORTS

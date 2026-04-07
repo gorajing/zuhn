@@ -58,8 +58,8 @@ related:
   - INS-260323-59FE
   - INS-260321-3808
   - INS-260323-636C
+  - PRI-260406-F9EB
   - PRI-260321-0A4D
-  - INS-260403-DF45
 ---
 For three decades after the Cold War, the US operated in a unique structural position: no peer competitors. This allowed unilateral rule-setting, institution-shaping to reflect American values, and the ability to project power globally without coalition-building. That structural condition — not any particular policy or military capability — was what defined the unipolar moment.
 

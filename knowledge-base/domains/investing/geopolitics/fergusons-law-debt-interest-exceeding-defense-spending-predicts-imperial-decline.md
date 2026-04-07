@@ -55,11 +55,11 @@ stance: >-
   predictable trajectory of decline — a pattern that has held from 16th-century
   Habsburg Spain through 20th-century Britain to the present-day United States.
 related:
+  - PRI-260406-BAAC
   - INS-260323-8239
   - INS-260328-60C7
   - INS-260404-6077
   - INS-260327-4313
-  - INS-260403-7644
 evidence:
   - id: INS-260328-60C7
     type: SUPPORTS

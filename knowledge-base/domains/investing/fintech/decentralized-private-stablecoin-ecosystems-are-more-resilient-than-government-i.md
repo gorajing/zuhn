@@ -52,10 +52,10 @@ stance: >-
   digital currency
 related:
   - INS-260403-A87D
+  - PRI-260406-7862
   - INS-260405-39FA
   - INS-260403-EA6D
   - INS-260403-99DE
-  - INS-260403-B01D
   - INS-260405-ABCF
 evidence:
   - id: INS-260403-8BE9

@@ -53,10 +53,10 @@ related:
   - INS-260330-819E
   - INS-260403-EDA1
   - INS-260403-5CAD
+  - PRI-260406-9FA8
   - INS-260403-1D92
   - INS-260402-8C42
   - INS-260325-FDF5
-  - INS-260404-EEA7
 ---
 The economics of software creation have fundamentally changed. Two engineers with the right model APIs and code-generation tools can now build products that previously required 20-person teams. This has caused a massive surge in software supply, especially among early-stage startups.
 

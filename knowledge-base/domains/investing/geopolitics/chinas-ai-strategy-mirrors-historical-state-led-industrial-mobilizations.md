@@ -48,10 +48,10 @@ stance: >-
   market-driven approaches
 related:
   - INS-260327-BF89
+  - PRI-260406-9599
   - PRI-260324-3AAE
   - INS-260403-B4DC
   - INS-260323-758B
-  - INS-260405-E4FC
 ---
 China's approach to AI dominance combines massive state investment, orchestrated competition among domestic players, and long-term planning horizons that dwarf typical Western corporate strategy cycles. The playbook mirrors past national mobilizations in EVs and robotics, where state engineering created globally competitive industries faster than market-driven approaches predicted.
 

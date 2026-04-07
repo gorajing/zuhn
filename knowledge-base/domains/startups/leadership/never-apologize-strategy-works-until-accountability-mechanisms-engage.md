@@ -54,10 +54,10 @@ stance: >-
   external checks finally activate.
 related:
   - INS-260329-5A24
+  - PRI-260406-6FA3
   - PRI-260323-9D46
   - PRI-260328-0AB1
   - PRI-260328-2C6A
-  - INS-260404-B6B1
   - INS-260403-DE34
 evidence:
   - id: INS-260330-A15F

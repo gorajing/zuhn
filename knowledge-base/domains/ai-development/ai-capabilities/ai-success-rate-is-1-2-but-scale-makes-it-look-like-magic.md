@@ -41,11 +41,10 @@ related:
   - PRI-260328-9E3F
   - INS-260325-9C89
   - INS-260329-64B8
+  - PRI-260406-2411
   - PRI-260405-E256
-  - PRI-260405-D586
   - INS-260329-FC53
   - INS-260330-77E2
-  - INS-260403-B32D
   - INS-260405-2021
 stance: >-
   AI solved 50 Erdős problems which looks amazing, but systematic studies show a

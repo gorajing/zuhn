@@ -54,11 +54,11 @@ stance: >-
   protein's thermic effect wastes 25% of steak calories, and fructose bypasses
   normal satiety entirely.
 related:
+  - PRI-260406-7E1C
   - PRI-260328-4A63
   - INS-260327-C8EB
   - PRI-260328-D9D0
   - INS-260327-E728
-  - INS-260325-0A8A
 ---
 Lustig walks through three concrete examples demolishing 'a calorie is a calorie': (1) 160 calories of almonds → only 130 absorbed because soluble and insoluble fiber form a gel barrier in the intestine, feeding the remaining 30 calories to gut bacteria which convert them to protective short-chain fatty acids; (2) A 1600-calorie porterhouse steak → ~25% lost to thermic effect because deaminating amino acids costs 2 ATP versus 1 ATP for carbohydrates; (3) Omega-3s vs trans fats are both 9 cal/gram but one saves your life, the other lines your arteries.
 

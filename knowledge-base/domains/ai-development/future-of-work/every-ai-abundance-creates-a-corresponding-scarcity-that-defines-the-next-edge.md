@@ -54,9 +54,9 @@ stance: >-
 related:
   - INS-260327-E1DD
   - INS-260403-CA46
+  - PRI-260406-940C
   - INS-260403-0350
   - INS-260405-6A6F
-  - INS-260327-BB71
 ---
 Felicis and RunwayML frame the core strategic question as: 'Every abundance creates a new scarcity. The task for builders is to figure out which resources AI makes abundant, which are rendered scarce, and where an edge can be formed.' The article identifies specific scarcities: focused attention, original art and writing, trusted news and facts, data protection skills, customer empathy, green computing, AI ethics governance, and complex problem solving.
 

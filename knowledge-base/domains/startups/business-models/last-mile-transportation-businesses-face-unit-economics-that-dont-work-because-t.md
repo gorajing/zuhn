@@ -40,11 +40,11 @@ stance: >-
   also too short to generate fares that cover vehicle costs, maintenance,
   redistribution, and profit.
 related:
+  - PRI-260406-7128
   - INS-260323-7E6F
   - INS-260402-426C
   - INS-260323-7F22
   - INS-260330-2332
-  - INS-260403-E09C
   - INS-260327-E52A
 evidence:
   - id: INS-260323-7E6F

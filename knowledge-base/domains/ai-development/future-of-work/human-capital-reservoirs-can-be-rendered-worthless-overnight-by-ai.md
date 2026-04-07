@@ -49,13 +49,12 @@ stance: >-
 related:
   - INS-260323-FE69
   - INS-260323-4B1C
-  - INS-260327-CED9
   - INS-260330-16B1
   - INS-260403-47C0
   - INS-260403-6386
+  - PRI-260406-6690
   - PRI-260321-7307
   - PRI-260406-12D7
-  - INS-260403-A2E9
   - INS-260403-0A83
 ---
 Smith highlights a particularly cruel economic dynamic: human capital — the skills and expertise workers build over entire careers — can become worthless overnight. Unlike physical capital that depreciates gradually, human capital in a domain hit by AI automation can go from extremely valuable to nearly worthless in the time it takes for a new AI tool to ship.

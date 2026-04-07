@@ -51,11 +51,11 @@ stance: >-
   crisis far worse than if the action had been taken openly, because it reveals
   both the act and the deception.
 related:
+  - PRI-260406-82EA
   - INS-260330-3084
   - INS-260330-A1AF
   - INS-260327-F484
   - INS-260403-583B
-  - INS-260327-5E93
 evidence:
   - id: INS-260330-3084
     type: EXTENDS

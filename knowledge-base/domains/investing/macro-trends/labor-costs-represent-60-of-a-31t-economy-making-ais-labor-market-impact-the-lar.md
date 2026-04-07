@@ -63,8 +63,8 @@ related:
   - INS-260329-191D
   - INS-260403-8874
   - INS-260403-3664
+  - PRI-260406-940C
   - INS-260405-E4FC
-  - INS-260403-6988
 ---
 The framing of AI as a productivity tool undersells the structural stakes. Labor is not a minor cost center—it represents approximately 60% of the entire U.S. economy, or roughly $18.6 trillion annually. Technology investments typically target inefficiencies at the margin; AI is targeting the dominant input factor of production. Even conservative assumptions about AI's eventual adoption rate and scope imply value transfers at a scale with no modern precedent outside wartime industrial mobilization.
 

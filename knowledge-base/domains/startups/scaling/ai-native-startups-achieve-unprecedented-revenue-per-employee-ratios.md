@@ -54,7 +54,6 @@ stance: >-
   billion-dollar outcomes, making sub-20 person companies capable of $100M+ ARR
   within two years.
 related:
-  - INS-260320-A1D3
   - INS-260330-F08F
   - INS-260403-B73A
   - INS-260403-CEB7

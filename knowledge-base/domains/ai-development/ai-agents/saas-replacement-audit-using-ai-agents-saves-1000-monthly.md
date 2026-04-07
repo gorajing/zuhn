@@ -48,6 +48,7 @@ resolutions:
     replaces, the switch is justified.
 related:
   - INS-260327-DFF1
+  - PRI-260406-6E0F
   - INS-260323-FEAB
   - INS-260322-C33D
   - INS-260327-B357

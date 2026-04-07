@@ -50,6 +50,7 @@ stance: >-
   immediate economic threat than AI replacing human labor directly
 related:
   - INS-260329-8DDF
+  - PRI-260406-940C
   - INS-260402-1640
   - INS-260403-8874
   - INS-260403-BD30

@@ -43,11 +43,11 @@ stance: >-
   Optimizing for code brevity produces better software outcomes than optimizing
   for explicitness or verbosity.
 related:
+  - PRI-260406-26FB
   - INS-260326-97C9
   - INS-260327-E0F7
   - PRI-260323-49F8
   - PRI-260328-B4BD
-  - PRI-260405-3080
 evidence:
   - id: INS-260326-97C9
     type: TRANSFERS_TO

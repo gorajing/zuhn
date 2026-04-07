@@ -39,11 +39,10 @@ stance: >-
   disease, and most cancers
 related:
   - INS-260330-E647
+  - PRI-260406-350B
   - INS-260327-62AA
   - PRI-260325-9258
   - PRI-260328-E3A7
-  - INS-260322-D059
-  - INS-260327-FA0B
   - INS-260327-D21C
 evidence:
   - id: INS-260322-D059

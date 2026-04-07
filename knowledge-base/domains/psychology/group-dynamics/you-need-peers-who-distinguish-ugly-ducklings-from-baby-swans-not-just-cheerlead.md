@@ -54,9 +54,9 @@ related:
   - INS-260326-C692
   - PRI-260406-D7EA
   - INS-260404-4985
+  - PRI-260406-377E
   - INS-260404-E716
   - INS-260404-4666
-  - INS-260404-F212
 ---
 Graham argues that surrounding yourself with encouraging people is necessary but insufficient. If everyone always says your work is great, you quickly learn to discount their feedback, which defeats the purpose. What you actually need are colleagues who can distinguish genuinely promising early work from truly bad ideas — people with the rare skill of evaluating potential rather than current state.
 

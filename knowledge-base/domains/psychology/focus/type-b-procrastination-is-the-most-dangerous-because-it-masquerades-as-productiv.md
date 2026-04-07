@@ -48,11 +48,11 @@ stance: >-
   procrastination than doing nothing, because it provides the illusion of
   progress while avoiding the important work
 related:
-  - INS-260325-809A
   - INS-260330-14A1
   - INS-260330-F6B1
+  - PRI-260406-B146
   - INS-260325-77B1
-  - INS-260328-217C
+  - INS-260325-809A
   - INS-260404-BFD0
   - INS-260329-6020
 evidence:

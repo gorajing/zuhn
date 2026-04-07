@@ -54,11 +54,11 @@ related:
   - INS-260404-CD3E
   - INS-260403-4B81
   - INS-260404-F18F
-  - INS-260404-F8E6
   - INS-260404-56F8
   - INS-260405-7A7C
-  - INS-260403-8930
+  - PRI-260406-377E
   - INS-260404-21AA
+  - INS-260403-8930
 ---
 Paul Graham identifies a specific failure mode: people judge early versions of ambitious projects by the standards of finished work or less ambitious projects. This is a category error — early ambitious work is a special case that requires different evaluation criteria. The fear of producing something lame prevents most people from even starting, which means the biggest filter on great work is psychological, not intellectual.
 

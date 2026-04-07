@@ -45,14 +45,14 @@ resolutions:
     before attributing depression to psychological factors, first check sleep
     quality, diet, exercise, and time outdoors.
 related:
+  - PRI-260406-350B
   - INS-260330-C2C5
   - INS-260330-D7DF
   - PRI-260328-0174
   - INS-260327-FF86
-  - INS-260330-443B
-  - INS-260327-9E9D
   - INS-260330-C9CA
   - INS-260330-7981
+  - INS-260330-443B
   - INS-260327-034A
 stance: >-
   Emerging research in metabolic psychiatry shows that conditions like

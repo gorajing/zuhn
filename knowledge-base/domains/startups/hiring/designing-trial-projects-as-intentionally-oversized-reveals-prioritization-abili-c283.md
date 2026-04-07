@@ -52,11 +52,11 @@ stance: >-
   because they force candidates to reveal how they prioritize, scope, and
   communicate trade-offs under realistic constraints.
 related:
+  - PRI-260406-56A9
   - INS-260403-6844
   - INS-260330-F6B1
   - INS-260403-E9F5
   - INS-260404-6DA9
-  - PRI-260406-A5F0
 ---
 A perfectly-scoped trial project tells you whether someone can execute a defined task—but real startup work is never perfectly scoped. By intentionally making the trial slightly too large, you create a natural forcing function: candidates must decide what to prioritize, what to cut, and how to communicate those decisions. The ones who try to do everything and deliver a rushed mess reveal different judgment than those who deliver a polished subset with a clear explanation of what they'd tackle next.
 

@@ -45,15 +45,13 @@ stance: >-
   willing to sweep the floor like a janitor — this dual mindset is what actually
   moves products forward at startups.
 related:
-  - INS-260325-CEE1
-  - INS-260327-BEB1
   - INS-260405-DB32
   - INS-260323-5C6F
   - INS-260329-6B95
   - INS-260403-DED8
+  - INS-260327-BEB1
   - INS-260329-2B52
   - INS-260403-9689
-  - INS-260403-96BC
 evidence:
   - id: INS-260323-5C6F
     type: CHALLENGES

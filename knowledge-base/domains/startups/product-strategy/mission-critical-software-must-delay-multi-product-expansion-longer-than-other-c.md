@@ -53,11 +53,11 @@ related:
   - INS-260403-68C8
   - INS-260403-E748
   - INS-260404-2F49
+  - PRI-260406-435D
   - PRI-260328-94D4
+  - PRI-260406-8C9D
   - PRI-260328-43F1
   - INS-260330-697F
-  - INS-260321-33FC
-  - PRI-260328-C918
   - INS-260403-80A0
 ---
 Datadog exemplifies the 'go slow to go fast' principle: because their observability product is mission-critical infrastructure, premature R&D allocation to new products would have been catastrophic. The opportunity cost of degrading a mission-critical core product exceeds the upside of early expansion. Datadog's earliest website showed modest ambitions, but by 2017 their multi-product engine was running.

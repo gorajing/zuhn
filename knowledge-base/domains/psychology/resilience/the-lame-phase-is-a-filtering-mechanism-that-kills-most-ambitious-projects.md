@@ -50,14 +50,14 @@ stance: >-
   their ugly early versions by finished-work standards and quitting prematurely.
 related:
   - INS-260329-1FEE
-  - INS-260402-E36A
   - INS-260405-7A7C
-  - INS-260404-CD3E
   - INS-260403-4B81
   - INS-260404-056D
   - INS-260404-F18F
   - INS-260403-FE41
   - INS-260403-8930
+  - PRI-260406-377E
+  - INS-260404-CD3E
 ---
 Great projects have a universal vulnerability window: the early phase where the work looks unimpressive even to its creator. This is not a sign of failure — it's a structural feature of ambitious work. The gap between the creator's taste and their current output creates psychological pain that functions as a filter. Most people never even reach the stage of making something embarrassing, let alone push past it. Understanding this phase as inevitable rather than diagnostic changes the decision calculus entirely: the lame-looking prototype isn't evidence you should stop, it's evidence you're attempting something worthwhile.
 

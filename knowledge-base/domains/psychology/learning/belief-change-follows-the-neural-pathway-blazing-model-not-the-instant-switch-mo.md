@@ -55,7 +55,6 @@ stance: >-
   gratification approaches like 10-session CBT are structurally inadequate for
   this task.
 related:
-  - INS-260326-8B81
   - INS-260403-B6D9
   - INS-260404-9376
   - PRI-260403-9D15

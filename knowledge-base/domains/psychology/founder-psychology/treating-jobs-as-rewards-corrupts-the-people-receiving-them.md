@@ -54,7 +54,6 @@ stance: >-
   bad managers and degrades organizational quality
 related:
   - INS-260320-8632
-  - INS-260320-F78E
   - INS-260327-41A9
   - INS-260328-FFC3
   - INS-260328-8B2C
@@ -63,6 +62,7 @@ related:
   - INS-260403-7FFA
   - INS-260405-FAE3
   - INS-260404-177F
+  - INS-260403-5D1F
 evidence:
   - id: INS-260320-8632
     type: TRANSFERS_TO

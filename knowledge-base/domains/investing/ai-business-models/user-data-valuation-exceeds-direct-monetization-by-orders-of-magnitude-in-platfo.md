@@ -54,16 +54,16 @@ stance: >-
   subscription fees, making free products with data extraction more profitable
   than paid products
 related:
-  - INS-260323-F68A
   - INS-260324-6C5F
-  - INS-260327-2B62
   - INS-260330-D824
   - INS-260404-35B6
   - INS-260404-8750
   - INS-260405-A164
   - INS-260405-631B
+  - INS-260327-2B62
   - INS-260403-08FE
   - INS-260323-FEAB
+  - INS-260330-EBF6
 evidence:
   - id: INS-260323-F68A
     type: SUPPORTS

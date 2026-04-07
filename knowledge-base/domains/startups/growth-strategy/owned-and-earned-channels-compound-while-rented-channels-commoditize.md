@@ -54,11 +54,11 @@ stance: >-
   Companies that prioritize virality, word-of-mouth, and UGC over SEO, SEM, and
   paid social build defensible growth engines that competitors cannot replicate.
 related:
+  - PRI-260406-7D93
   - INS-260405-543B
   - INS-260330-7251
   - INS-260327-F2DF
   - PRI-260328-BDC2
-  - INS-260327-6E0E
 ---
 Elena Verna draws a sharp distinction between rented channels (SEO, SEM, paid social) where you pay for access to someone else's audience, and owned/earned channels (virality, word of mouth, user-generated content) that create compounding, defensible growth. Rented channels suffer from the Law of Shitty Clickthroughs — performance degrades as competitors flood in and platforms extract more value.
 

@@ -47,10 +47,10 @@ stance: >-
   temporal evolution, and internal connections.
 related:
   - INS-260329-C401
+  - PRI-260406-F51A
   - INS-260403-705C
   - INS-260403-AEA3
   - INS-260405-AFF7
-  - INS-260325-031F
 evidence:
   - id: INS-260328-B19D
     type: TRANSFERS_TO

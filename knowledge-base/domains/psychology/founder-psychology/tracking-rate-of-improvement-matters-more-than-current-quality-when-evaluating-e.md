@@ -51,7 +51,6 @@ stance: >-
   rate at which quality is improving — is a more reliable signal than the
   current quality level.
 related:
-  - INS-260403-225B
   - INS-260405-7196
   - INS-260405-0CE7
   - INS-260328-0B99

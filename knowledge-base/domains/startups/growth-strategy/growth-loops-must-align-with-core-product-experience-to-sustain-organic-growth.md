@@ -46,12 +46,11 @@ stance: >-
   outperform bolted-on referral programs because users share what they naturally
   use, not what they're artificially incentivized to promote.
 related:
-  - INS-260404-2F57
   - INS-260402-B743
   - INS-260402-5523
   - INS-260403-B18C
+  - PRI-260406-7D93
   - PRI-260328-43F1
-  - PRI-260403-5FC4
 ---
 Dropbox's referral loop worked because free storage was the product itself — users shared to get more of what they already valued. TikTok's loop worked because user-generated content IS the product; every creation is simultaneously consumption fuel for others. The common thread: the growth mechanism and the value delivery are the same action.
 

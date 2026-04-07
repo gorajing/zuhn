@@ -51,9 +51,9 @@ stance: >-
 related:
   - PRI-260328-6A8D
   - INS-260329-CBF6
+  - PRI-260406-BE21
   - INS-260403-7708
   - INS-260321-6437
-  - INS-260404-CAFA
 evidence:
   - id: INS-260321-6437
     type: SUPPORTS

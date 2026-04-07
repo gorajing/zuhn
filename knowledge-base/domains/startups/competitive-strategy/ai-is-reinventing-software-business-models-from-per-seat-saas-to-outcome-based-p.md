@@ -49,11 +49,11 @@ stance: >-
   pricing model because AI agents replace human seats — the new model charges
   for outcomes delivered, not users provisioned.
 related:
+  - PRI-260406-B785
   - INS-260403-586C
   - INS-260403-1E4A
   - INS-260403-AFBC
   - INS-260403-C734
-  - PRI-260328-D5EB
   - INS-260327-F7C0
   - INS-260327-0D0B
   - INS-260403-0DE8

@@ -56,9 +56,9 @@ stance: >-
 related:
   - INS-260405-1054
   - INS-260403-7157
+  - PRI-260406-4B37
   - INS-260405-F1A1
   - INS-260403-BD30
-  - INS-260321-2BF9
 ---
 The convergence of AI infrastructure buildout and solar deployment creates a reinforcing cycle: hyperscalers need massive, predictable power at low cost, and utility-scale solar provides the cheapest new generation available at $30-40/MWh. Long-term PPAs give solar developers revenue certainty to finance new projects while giving data center operators cost predictability and ESG compliance.
 

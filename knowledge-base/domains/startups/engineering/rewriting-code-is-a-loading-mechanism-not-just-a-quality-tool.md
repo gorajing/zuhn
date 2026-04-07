@@ -47,7 +47,6 @@ stance: >-
   internalization of the program, which enables redesign that wouldn't otherwise
   be conceivable.
 related:
-  - INS-260321-703F
   - INS-260329-44C9
   - INS-260329-500E
   - INS-260329-E333

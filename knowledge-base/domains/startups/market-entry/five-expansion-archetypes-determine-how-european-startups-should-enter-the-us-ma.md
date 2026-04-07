@@ -57,8 +57,8 @@ related:
   - INS-260402-C301
   - PRI-260328-43F1
   - PRI-260406-5854
+  - PRI-260406-8C9D
   - INS-260326-9402
-  - INS-260403-93DA
 ---
 Based on research across 500+ VC-backed startups, Index Ventures categorizes European expansion into five archetypes: Magnet (US pull from day one, relocate pre-Series A), Pendulum (dual hubs with engineering in Europe, GTM in US), Anchor (European home base with US foothold for key accounts), Telescope (product-led growth reaching US users remotely), and Transplant (full HQ relocation). Each archetype reflects fundamentally different assumptions about where value creation happens. Choosing the wrong model—like a Telescope behaving as a Transplant—burns capital without traction, while an Anchor that should have gone Magnet watches competitors leap ahead.
 

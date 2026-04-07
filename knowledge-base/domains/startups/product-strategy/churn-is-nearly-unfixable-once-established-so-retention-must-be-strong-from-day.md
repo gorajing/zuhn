@@ -54,7 +54,7 @@ related:
   - INS-260403-DDC9
   - PRI-260406-58FA
   - INS-260403-544B
-  - INS-260403-C837
+  - PRI-260406-D017
   - INS-260405-7ACC
 ---
 Andrew Chen's analysis reveals that churn patterns are extremely resistant to improvement once established. Revenue retention can expand even as usage falls, masking underlying engagement problems. For AI apps in particular, retention must be strong from day one to reach product-market fit — teams cannot rely on iterating their way to better retention after launch.

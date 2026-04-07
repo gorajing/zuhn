@@ -48,7 +48,6 @@ stance: >-
   orders for function arguments) dramatically accelerates comprehension compared
   to purely abstract explanations.
 related:
-  - INS-260326-97C9
   - INS-260329-6AF5
   - INS-260329-48FD
   - INS-260329-70F2

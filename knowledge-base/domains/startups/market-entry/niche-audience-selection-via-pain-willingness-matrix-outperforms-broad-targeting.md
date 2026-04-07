@@ -48,11 +48,11 @@ stance: >-
   pay to select their initial niche will find product-market fit faster than
   those targeting broad segments.
 related:
+  - PRI-260406-263A
   - INS-260403-AA0B
   - INS-260327-00EB
   - INS-260325-8729
   - INS-260403-C1C4
-  - INS-260329-9D87
 ---
 Most early-stage founders spread too thin by targeting large addressable markets. The 2x2 matrix forces a disciplined narrowing: segment your ICP into sub-niches, then score each on how severe the pain is and how readily they'll pay for a solution. The quadrant where both are high is your beachhead.
 

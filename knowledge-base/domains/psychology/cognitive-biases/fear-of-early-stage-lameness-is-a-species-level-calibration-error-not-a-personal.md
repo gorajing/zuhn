@@ -56,7 +56,6 @@ related:
   - INS-260403-AEF2
   - INS-260403-A268
   - INS-260404-695D
-  - INS-260404-A1BA
 ---
 Making new things is itself a recent phenomenon in human history. For most of our existence, change happened too slowly for any individual to notice, so we never developed cultural norms for how to treat early versions of ambitious projects. We default to evaluating them as either finished work (too harsh) or unambitious work (missing the point).
 

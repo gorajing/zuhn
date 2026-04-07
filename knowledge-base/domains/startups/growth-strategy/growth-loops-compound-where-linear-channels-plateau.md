@@ -59,8 +59,8 @@ related:
   - INS-260329-AF18
   - INS-260329-776B
   - INS-260330-A029
-  - INS-260330-323E
   - INS-260330-8FE7
+  - INS-260402-4BC7
 ---
 Linear acquisition channels like paid ads, outbound, and content marketing hit diminishing returns because each new customer requires roughly the same marginal effort. Growth loops break this constraint by making each user's activity recruit additional users automatically.
 

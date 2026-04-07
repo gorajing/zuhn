@@ -45,11 +45,11 @@ stance: >-
   to tolerate prolonged discomfort, not insufficient motivation or unclear goals
 related:
   - INS-260325-F6CD
-  - INS-260329-D3D9
   - INS-260329-9A5A
+  - INS-260329-D3D9
+  - PRI-260406-967A
   - INS-260327-CEE4
   - INS-260403-3E9A
-  - INS-260329-557C
   - INS-260330-C367
   - INS-260403-D99D
 evidence:

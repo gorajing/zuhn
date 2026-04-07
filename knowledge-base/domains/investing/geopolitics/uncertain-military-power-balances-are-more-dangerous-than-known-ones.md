@@ -47,14 +47,13 @@ stance: >-
   the US or China is the stronger military power, and this uncertainty itself
   increases the probability of great-power conflict.
 related:
-  - INS-260327-088D
   - INS-260327-08E7
   - INS-260403-AFCC
   - INS-260405-5341
   - INS-260404-82AA
+  - PRI-260406-F9EB
   - PRI-260328-7F20
   - INS-260404-4BC4
-  - PRI-260323-9928
 ---
 Noah Smith argues that the most dangerous periods in geopolitical history are not when one power clearly dominates, but when rapid technological change makes the hierarchy unclear. Artillery and railroads made Germany suddenly capable of defeating France in the 1870s, disrupting the continental balance and eventually causing WW1. Air power and tanks similarly reshuffled power in the interwar period.
 

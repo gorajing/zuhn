@@ -53,13 +53,12 @@ stance: >-
   from lack of experience with novelty, not an innate cognitive bias, and can be
   replaced by learned optimism as Silicon Valley demonstrates.
 related:
-  - INS-260405-81B4
   - INS-260405-F06C
   - INS-260404-E6E0
   - INS-260403-AEF2
   - INS-260403-A268
   - INS-260404-695D
-  - INS-260403-EE2C
+  - PRI-260406-377E
 ---
 Most people dismiss ambitious early-stage work because humanity has very little cultural experience evaluating incomplete novel projects. We default to judging them as finished work or comparing them to less ambitious projects. Silicon Valley demonstrates that this default can be overwritten: through repeated exposure to power-law outcomes, the community developed customs of constructive optimism toward strange-sounding ideas from unknown people.
 

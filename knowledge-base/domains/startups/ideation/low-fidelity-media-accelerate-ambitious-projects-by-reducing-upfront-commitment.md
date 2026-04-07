@@ -58,7 +58,7 @@ related:
   - INS-260405-0CE7
   - INS-260404-D147
   - INS-260404-DDFB
-  - INS-260329-4DBC
+  - PRI-260406-377E
   - INS-260404-8A18
 ---
 The medium you choose to start a project shapes whether you'll survive its early phase. Drawing in a notebook feels like 'just a sketch' — carving in stone feels like a commitment. Digital tools compound this advantage not primarily through software features but by collapsing the gap between starting and having something to evaluate. The faster you get initial results, the faster you can see improvement rate, and focusing on rate of change rather than absolute quality is one of the most effective antidotes to early-stage discouragement.

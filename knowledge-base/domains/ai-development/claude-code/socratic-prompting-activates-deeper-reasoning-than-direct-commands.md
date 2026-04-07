@@ -40,10 +40,10 @@ resolutions:
     reasoning pattern: Understand → Analyze → Reason → Synthesize → Conclude.
 related:
   - PRI-260320-6847
+  - PRI-260406-1AC6
   - INS-260321-82FE
   - INS-260320-D972
   - INS-260403-5F41
-  - INS-260403-0A7A
   - INS-260329-CB03
 stance: >-
   Instead of 'write me X', ask 'what makes X work well?' then 'what principles

@@ -65,11 +65,11 @@ stance: >-
   close), slide (quick close then long gap), or cascade (land and continuously
   expand) patterns determines the entire sales organization you need to build.
 related:
+  - PRI-260406-2900
   - INS-260403-3C2D
   - INS-260329-F4E4
   - PRI-260328-43F1
   - PRI-260406-3AE8
-  - PRI-260328-95A5
   - INS-260327-8E9D
 ---
 Sudheesh uses waterfall types as metaphors for deal dynamics. Plunge waterfalls: the deal moves slowly and peacefully until it reaches the point of fall — then massive revenue. This is the traditional large enterprise motion requiring patience, infrastructure, multi-touch attribution, and field marketing. It's worth the investment but requires staying power.

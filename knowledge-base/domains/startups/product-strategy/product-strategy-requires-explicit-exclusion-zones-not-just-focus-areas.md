@@ -54,11 +54,11 @@ stance: >-
   explicitly choose NOT to pursue are what give a strategy its forcing-function
   power over resource allocation.
 related:
+  - PRI-260406-D9D6
   - PRI-260406-0087
   - INS-260323-3D7D
   - INS-260330-7B1C
   - INS-260327-C673
-  - INS-260403-E681
 ---
 Most teams treat strategy as a list of priorities, but Chandra argues the anti-priorities are equally important. A good strategy includes 3-5 strategic pillars, areas explicitly not in focus, and clear reasoning for both. This forcing function is what distinguishes strategy from a wish list — it compels teams to make genuine resource allocation tradeoffs rather than spreading thin across everything that seems important.
 

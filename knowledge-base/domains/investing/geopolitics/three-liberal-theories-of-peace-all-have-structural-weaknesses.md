@@ -47,10 +47,10 @@ resolutions:
     geopolitical risk.
 related:
   - PRI-260324-1A67
+  - PRI-260406-F9EB
   - INS-260325-3A0E
   - PRI-260325-D34E
   - INS-260330-984C
-  - PRI-260323-9928
 stance: >-
   Democratic peace theory, economic interdependence theory, and liberal
   institutionalism each offer optimistic views of international relations but

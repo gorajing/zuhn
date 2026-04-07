@@ -49,10 +49,10 @@ stance: >-
   displaces workers in the short term.
 related:
   - INS-260325-2906
+  - PRI-260406-50EA
   - INS-260325-722C
   - INS-260325-0F4F
   - INS-260402-E144
-  - INS-260323-F2BD
 evidence:
   - id: INS-260325-0F4F
     type: SUPPORTS

@@ -48,9 +48,9 @@ related:
   - INS-260323-EA36
   - INS-260403-4B81
   - INS-260404-056D
+  - PRI-260406-377E
   - INS-260404-56F8
   - INS-260405-7A7C
   - INS-260403-FE41
-  - INS-260404-9C4C
 ---
 Paul Graham identifies the fear of making something lame as the single biggest force preventing great work. Every ambitious project passes through a stage where it looks unimpressive even to its creator, and most people quit during this phase or never start at all. The key reframe is recognizing that early-stage lameness is a structural feature of ambitious work, not a diagnostic signal. A project that looks 20% done toward a 100x goal is genuinely valuable despite looking terrible—but our evaluation instincts are calibrated for judging finished work or small projects, not embryonic ambitious ones. This means the feeling of 'this is bad' during early stages is systematically unreliable and should be treated as noise rather than signal.

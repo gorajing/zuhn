@@ -41,10 +41,10 @@ stance: >-
   cut during any budget crisis.
 related:
   - INS-260324-1C12
+  - PRI-260406-7128
   - INS-260327-C294
   - INS-260327-0B3B
   - INS-260327-5580
-  - INS-260330-931A
 ---
 Public transit systems that cannot cover operating costs through fares face perpetual political vulnerability because they depend on subsidies that can be cut during any budget crisis.
 

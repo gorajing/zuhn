@@ -52,10 +52,9 @@ stance: >-
   strong, extreme) where each level has distinct goals, metrics, and failure
   modes that require fundamentally different founder behaviors.
 related:
-  - INS-260327-F417
-  - INS-260403-E396
   - PRI-260406-7E0C
   - INS-260403-E209
+  - PRI-260406-D9D6
   - INS-260323-3D7D
   - INS-260404-5963
 ---

@@ -44,15 +44,14 @@ stance: >-
   but because they haven't explored alternative pricing structures.
 related:
   - INS-260322-C33D
+  - PRI-260406-B785
   - INS-260329-8F7C
   - PRI-260406-5BD0
   - INS-260404-6751
   - INS-260322-B450
-  - INS-260403-C4DF
   - INS-260329-D02E
-  - INS-260330-48DE
+  - INS-260403-C4DF
   - INS-260405-A164
-  - INS-260403-501D
 evidence:
   - id: INS-260323-FEAB
     type: CHALLENGES

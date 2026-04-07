@@ -51,7 +51,7 @@ related:
   - INS-260325-1AD3
   - INS-260325-13B9
   - PRI-260403-88F5
+  - PRI-260406-6FA3
   - INS-260329-E0DE
-  - INS-260322-F6C3
 ---
 Streets carpeted with horse feces and dead horses, ten people crammed into tenement apartments, and ubiquitous tobacco smoke in every restaurant and hotel represent historical disorder at least as severe as modern litter, graffiti, and tent encampments. Yet people search for their current problems in the past, fail to find them in that exact form, and conclude things have never been this bad. The historical equivalents get romanticized — picaresque stabbings at bordellos sound charming in retrospect. This novelty-severity conflation means each generation believes it faces uniquely terrible conditions, because the specific manifestation is always new even when the underlying level of disorder is stable or improving. Recognizing that disorder changes form rather than magnitude is essential for accurate assessment.

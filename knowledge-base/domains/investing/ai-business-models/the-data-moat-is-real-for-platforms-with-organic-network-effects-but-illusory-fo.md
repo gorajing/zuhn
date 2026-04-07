@@ -54,7 +54,6 @@ stance: >-
   user acquisition has no compounding advantage.
 related:
   - INS-260325-B1D8
-  - INS-260322-229C
   - INS-260327-40E3
   - INS-260327-4434
   - PRI-260405-BFAC
@@ -63,6 +62,7 @@ related:
   - INS-260403-EAC6
   - INS-260330-0317
   - INS-260403-C96F
+  - INS-260403-E688
 evidence:
   - id: INS-260323-3ADC
     type: SUPPORTS

@@ -48,8 +48,8 @@ related:
   - INS-260327-E7FF
   - INS-260330-DC8B
   - INS-260323-A700
+  - PRI-260406-967A
   - INS-260325-71DE
-  - INS-260403-9FEA
 ---
 The startup ecosystem glorifies relentless hustle, but the evidence increasingly shows that founders who never disengage suffer compounding cognitive impairment — worse judgment on hiring, strategy, and product decisions. The cost of a bad decision made while burned out far exceeds the cost of a week offline.
 

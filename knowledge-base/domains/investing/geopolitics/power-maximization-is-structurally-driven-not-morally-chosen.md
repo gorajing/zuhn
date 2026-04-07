@@ -48,9 +48,9 @@ resolutions:
 related:
   - INS-260330-51B1
   - INS-260404-6077
+  - PRI-260406-F9EB
   - INS-260403-0EC5
   - PRI-260406-1796
-  - INS-260403-7089
 stance: >-
   States pursue power not because they are inherently aggressive but because the
   anarchic structure of international politics leaves them no alternat...

@@ -46,9 +46,9 @@ resolutions:
 related:
   - PRI-260328-2E23
   - INS-260402-C301
+  - PRI-260406-7D93
   - PRI-260322-8FD4
   - INS-260330-9BB7
-  - PRI-260406-66BA
   - INS-260323-F274
 stance: >-
   A podcast episode is both a distribution mechanism AND a credibility-building

@@ -54,10 +54,10 @@ stance: >-
   to close a deal is the dominant strategy, not a failure of negotiation skill.
 related:
   - INS-260329-3D14
+  - PRI-260406-F9EB
   - INS-260404-98EE
   - PRI-260324-8EE6
   - PRI-260405-6216
-  - PRI-260406-91C2
 evidence:
   - id: INS-260329-3D14
     type: CONTRADICTS

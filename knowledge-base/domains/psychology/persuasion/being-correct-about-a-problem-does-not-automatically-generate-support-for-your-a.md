@@ -48,7 +48,7 @@ related:
   - INS-260405-ECCD
   - INS-260403-5683
   - INS-260330-7EDF
+  - PRI-260406-6FA3
   - PRI-260403-53D6
-  - INS-260405-D20A
 ---
 Noah Smith observes that Resistance Liberals were 'completely right about Trump' — correctly identifying authoritarian tendencies, corruption, and racist underpinnings — yet this correctness hasn't translated into overwhelming support. The insight generalizes beyond politics: in any competitive or adversarial context, being right about the other side's flaws is table stakes. What moves people is a positive alternative that addresses their underlying needs. This applies to startups competing against incumbents, leaders managing organizational change, or anyone trying to shift group opinion. Diagnosis without prescription leaves a vacuum that opponents can fill with their own narrative.

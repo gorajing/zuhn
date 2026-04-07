@@ -65,7 +65,7 @@ related:
   - INS-260403-B6D9
   - INS-260405-4EAA
   - INS-260404-A1BA
-  - INS-260404-86DE
+  - PRI-260406-4E6C
 ---
 Graham argues that humans have little experience with early versions of ambitious projects as a species. Innovation was historically too slow to generate social norms for evaluating it. So we defaulted to judging new things by the standards for finished things — a poor fit. The skepticism isn't moral or deeply psychological; it's a missing custom.
 

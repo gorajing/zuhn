@@ -52,7 +52,6 @@ stance: >-
   solutions they wouldn't have thought to request will outperform teams that
   build feature-for-feature what customers demand
 related:
-  - INS-260323-5CBE
   - PRI-260320-D2E1
   - INS-260327-B12E
   - INS-260327-89C7
@@ -62,6 +61,7 @@ related:
   - INS-260330-2C79
   - PRI-260406-874A
   - INS-260403-5683
+  - INS-260330-2306
 evidence:
   - id: INS-260323-5CBE
     type: EXTENDS

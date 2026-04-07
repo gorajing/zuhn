@@ -62,11 +62,11 @@ related:
   - INS-260327-918A
   - INS-260327-3520
   - INS-260327-BA14
+  - PRI-260406-D0E1
   - INS-260330-C89D
   - PRI-260325-638B
   - INS-260330-0804
   - PRI-260328-F570
-  - INS-260330-443B
 ---
 Hydration follows a hormetic curve: both under- and over-hydration degrade performance. As little as 2% bodyweight loss from dehydration reduces shooting accuracy and increases perceived exercise difficulty. But excessive water intake dilutes blood sodium concentration (hyponatremia), producing identical symptoms — brain fog, confusion, GI distress, irritability — which people misattribute to dehydration and compensate by drinking even more water.
 

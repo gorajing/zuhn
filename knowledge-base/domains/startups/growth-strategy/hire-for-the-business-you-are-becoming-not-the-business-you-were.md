@@ -49,9 +49,9 @@ resolutions:
 related:
   - INS-260323-E9E4
   - INS-260404-3574
+  - PRI-260406-4F10
   - INS-260322-D5EB
   - INS-260325-6F89
-  - INS-260330-B3D9
 stance: Stop hiring for the business you used to be
 ---
 At $30-50M in revenue, Physicians Choice was still operating like a scrappy startup — a few guys behind laptops in an Airbnb, no real departments or processes. When the founder complained about finding a good bookkeeper, a friend who was CFO of a $2B company said: 'You don't need a bookkeeper. You need a VP of Finance.' The realization: he was solving company-sized problems with a freelance mindset, hiring for the business he used to be instead of the business he was growing into.

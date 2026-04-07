@@ -53,11 +53,12 @@ related:
   - INS-260404-D1E2
   - INS-260403-2385
   - INS-260405-BBA3
+  - PRI-260406-BE21
+  - PRI-260406-D017
   - INS-260403-C734
   - INS-260403-1E4A
-  - INS-260405-790A
-  - INS-260403-91A1
   - INS-260403-A2A2
+  - INS-260405-790A
 ---
 Net Revenue Retention is uniquely valuable as a valuation input because it simultaneously communicates pricing power, customer satisfaction, and product stickiness — information that growth rate alone cannot convey. A company growing 50% through new customer acquisition with 85% NRR tells a fundamentally different story than one growing 50% with 115% NRR.
 

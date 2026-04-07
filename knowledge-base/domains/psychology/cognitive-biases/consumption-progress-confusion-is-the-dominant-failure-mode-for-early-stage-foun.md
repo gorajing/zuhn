@@ -50,10 +50,10 @@ stance: >-
   because it resists self-correction.
 related:
   - INS-260403-3511
+  - PRI-260406-2411
   - INS-260403-7513
   - PRI-260405-E256
   - INS-260402-27A1
-  - INS-260403-862E
 ---
 The article identifies a specific cognitive trap: spending hours reading about growth loops, saving pricing strategy threads, and watching YC talks creates a felt sense of accomplishment that is neurologically indistinguishable from actual progress. This is more dangerous than obvious procrastination because it resists self-diagnosis — the founder genuinely believes they are working.
 

@@ -55,10 +55,10 @@ stance: >-
   across all dependent systems
 related:
   - INS-260325-9693
+  - PRI-260406-D0E1
   - INS-260330-443B
+  - PRI-260406-350B
   - INS-260323-5D6D
-  - PRI-260325-663A
-  - INS-260330-E647
   - INS-260327-78E6
   - INS-260330-2726
 evidence:

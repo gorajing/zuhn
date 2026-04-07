@@ -58,7 +58,7 @@ related:
   - INS-260330-F737
   - INS-260402-F08D
   - INS-260403-BDE0
-  - INS-260403-5D18
+  - PRI-260403-2E59
 ---
 Self-presentation bias causes people to overvalue packaging even when the substance is strong. For founders who default to brevity and depth over spectacle, this creates a systematic misread: investors interpret minimalism as lack of strategy, teams mistake low hype for low ambition, and peers miss the signal entirely.
 

@@ -44,11 +44,11 @@ stance: >-
   The platforms that enable non-engineers to build, deploy, discover, and secure
   custom AI software will capture more value than the custom software itself.
 related:
+  - PRI-260406-8EBD
   - PRI-260406-E015
   - PRI-260323-00C6
   - PRI-260405-D6F5
   - INS-260404-6586
-  - INS-260403-E93A
   - INS-260402-CC68
 evidence:
   - id: INS-260323-4794

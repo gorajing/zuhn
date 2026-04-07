@@ -60,8 +60,9 @@ related:
   - INS-260403-33BF
   - INS-260403-2FB2
   - INS-260403-8194
+  - PRI-260406-275E
+  - PRI-260406-9599
   - INS-260403-6570
-  - INS-260322-8147
   - INS-260403-DAB9
 ---
 Japan's inward FDI stock of ~$350 billion is low for its economic size, and the government has set an explicit target to double it to $650-700 billion by 2030. This isn't passive openness—it's a structural bet that foreign capital, technology, and operating know-how can rebuild industrial capacity faster than domestic systems alone.

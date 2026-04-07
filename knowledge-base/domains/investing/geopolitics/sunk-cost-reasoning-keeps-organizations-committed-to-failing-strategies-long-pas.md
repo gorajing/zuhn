@@ -55,8 +55,8 @@ related:
   - PRI-260328-FA83
   - INS-260327-377A
   - INS-260327-719D
+  - PRI-260406-E38B
   - PRI-260328-43D8
-  - INS-260327-9CAD
 ---
 After the first day's catastrophe on the Somme (57,000 British casualties, negligible gains), rational analysis said: stop. But the battle continued for four more months. The reasoning was always the same: 'We can't stop now or the previous losses will have been for nothing.' Each day's casualties became the justification for tomorrow's attack. The sunk cost of 400,000+ casualties made withdrawal politically impossible.
 

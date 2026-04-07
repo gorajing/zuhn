@@ -53,11 +53,11 @@ stance: >-
   policies are central to their public identity, preferring escalation over the
   face-loss of abandonment.
 related:
-  - INS-260323-D6BD
   - INS-260403-44A6
   - PRI-260406-003E
+  - PRI-260406-1115
+  - INS-260323-D6BD
   - PRI-260324-3AAE
-  - INS-260403-42BA
 ---
 Trump's tariff policy offers a textbook case of escalation of commitment driven by identity. Polling showed Americans despised the tariffs, his approval on trade was underwater by 16+ points, consumer sentiment crashed to Great Financial Crisis levels, and manufacturing was declining. The politically rational move would have been to let SCOTUS kill the tariffs and claim credit for the resulting relief. Instead, Trump immediately reimposed tariffs under different authority and attacked the justices.
 

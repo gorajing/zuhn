@@ -59,9 +59,9 @@ stance: >-
 related:
   - INS-260322-AAEA
   - INS-260404-5963
+  - PRI-260406-D9D6
   - PRI-260405-64B2
   - INS-260323-3D7D
-  - INS-260327-9830
 ---
 Chandra outlines a concrete cadence: 4 weeks of preparation (forming cross-functional working groups, gathering behavioral data, user research, competitive analysis), followed by a 1-week strategy sprint to cluster problems into opportunities and select pillars, a 1-week design sprint to create illustrative concepts, 1-2 weeks of document writing, and 2-3 weeks of rollout and alignment. This rhythm can repeat as market conditions change.
 

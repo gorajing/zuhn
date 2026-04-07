@@ -52,9 +52,9 @@ stance: >-
 related:
   - INS-260329-D481
   - INS-260330-EDDD
+  - PRI-260406-449E
   - INS-260330-2304
   - INS-260330-0C31
-  - INS-260330-E823
   - INS-260330-2311
 ---
 The brain has two key circuit sets governing attention: the default mode network (active at rest) and task-directed networks (active during goal-oriented behavior). In a normally functioning brain, these are anti-correlated—when one is active, the other is suppressed, like a seesaw. In ADHD, these networks become abnormally correlated, firing together rather than alternating.

@@ -39,10 +39,10 @@ stance: >-
   unsustainable product development costs and eventual creative exhaustion.
 related:
   - INS-260327-38BC
+  - PRI-260406-2900
   - INS-260330-5ED4
   - INS-260327-0746
   - INS-260403-415E
-  - INS-260322-5650
 ---
 Businesses whose customer retention depends on continuous novelty face unsustainable product development costs and eventual creative exhaustion.
 

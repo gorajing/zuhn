@@ -62,8 +62,8 @@ related:
   - INS-260403-6570
   - INS-260404-8A36
   - PRI-260328-3C01
+  - PRI-260406-275E
   - INS-260405-24F0
-  - PRI-260406-9573
 ---
 The U.S. faces a structural mismatch: defense production bottlenecks (backed-up shipyards, thin munitions lines, aging workforce) cannot be solved by funding alone because new domestic capacity takes 3-7 years to permit and remains vulnerable to litigation. Meanwhile, China is rapidly outpacing U.S. production of ships, submarines, missiles, drones, and ammunition.
 

@@ -51,7 +51,7 @@ related:
   - PRI-260323-F37F
   - INS-260321-7C97
   - INS-260327-98DE
-  - INS-260322-823B
+  - PRI-260406-7D93
   - INS-260321-CCE3
 stance: >-
   Synthetic peptides beyond GLP-1s are spreading through tech culture using the

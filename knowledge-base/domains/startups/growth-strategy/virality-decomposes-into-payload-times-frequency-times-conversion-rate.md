@@ -52,10 +52,10 @@ stance: >-
   maximizing different combinations
 related:
   - INS-260329-FB3F
+  - PRI-260406-7D93
   - INS-260327-FEB7
   - INS-260402-C301
   - PRI-260328-0C15
-  - INS-260327-165D
   - INS-260403-7795
 evidence:
   - id: INS-260327-FEB7

@@ -45,13 +45,12 @@ stance: >-
   talent because recognizing excellence requires possessing the taste to
   evaluate it.
 related:
-  - INS-260327-C9BA
-  - PRI-260328-AC85
   - INS-260330-1282
+  - PRI-260406-1A55
+  - PRI-260328-AC85
   - INS-260329-2EB1
   - PRI-260403-E023
   - INS-260403-A101
-  - INS-260327-EF89
   - INS-260403-9DE0
 evidence:
   - id: INS-260402-E11A

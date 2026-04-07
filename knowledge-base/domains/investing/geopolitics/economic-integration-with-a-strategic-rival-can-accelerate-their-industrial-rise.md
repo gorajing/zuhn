@@ -58,10 +58,10 @@ stance: >-
 related:
   - INS-260327-5D01
   - INS-260403-6570
+  - PRI-260406-9599
   - INS-260403-C0FE
   - INS-260404-A520
   - PRI-260324-5F05
-  - PRI-260406-B331
 ---
 The 2001 WTO accession decision rested on a liberalization hypothesis: that market access and economic interdependence would open China's economy and moderate its authoritarian government. Neither happened. China used market access to build industrial capacity through three mechanisms the WTO rules were intended to prohibit: currency manipulation, intellectual property theft, and massive state subsidies.
 

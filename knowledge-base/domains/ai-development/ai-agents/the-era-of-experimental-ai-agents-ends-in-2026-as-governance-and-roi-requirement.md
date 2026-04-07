@@ -46,8 +46,8 @@ stance: >-
 related:
   - INS-260403-96BC
   - INS-260403-D56A
+  - PRI-260406-9051
   - INS-260403-2115
-  - INS-260325-FC07
-  - PRI-260328-8317
+  - PRI-260406-1F5E
 ---
 Industry roadmaps from Google, Gartner, Forrester, PwC, and a16z all converge on the same signal: agentic systems are graduating from internal R&D to orchestrating business-critical workflows. The new bar is not 'can it run autonomously' but 'can it run with auditability, rollback, and human override.' Enterprise buyers are insisting on measurable outcomes before signing, which means teams building agents without an accountability layer are building for a shrinking market. Founders should design governance as a first-class feature, not a retrofit.

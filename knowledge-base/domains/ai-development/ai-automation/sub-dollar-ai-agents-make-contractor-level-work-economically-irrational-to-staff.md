@@ -53,10 +53,10 @@ stance: >-
   contractors within two years.
 related:
   - INS-260403-59B0
+  - PRI-260406-72B3
   - INS-260403-A2E9
   - INS-260329-9101
   - PRI-260321-14D8
-  - PRI-260406-9780
 ---
 Anthropic's Claude Sonnet 4.6 demonstrated the ability to complete complex workflows — logging into systems, navigating multi-page flows, fixing errors autonomously — with up to 94% accuracy at roughly $0.30 per task. This represents a 100x cost reduction compared to the $30/hour contractors who currently perform equivalent work on reports, monitoring, and email management.
 

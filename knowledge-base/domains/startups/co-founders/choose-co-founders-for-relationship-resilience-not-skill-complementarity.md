@@ -47,8 +47,6 @@ stance: >-
   relationship strength — skill gaps are survivable, but relationship breakdowns
   kill companies.
 related:
-  - INS-260322-E22A
-  - INS-260323-7866
   - INS-260323-9E37
   - INS-260402-225A
   - INS-260402-2A1D

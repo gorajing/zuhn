@@ -57,7 +57,6 @@ stance: >-
   generate meaning and connection
 related:
   - INS-260325-FA70
-  - INS-260327-C673
   - INS-260327-CF53
   - INS-260327-48D6
   - INS-260402-CCC3
@@ -66,6 +65,7 @@ related:
   - INS-260403-A485
   - INS-260405-BA7F
   - INS-260402-4AB4
+  - INS-260404-E5EB
 ---
 The essay argues that Gen Z's malaise isn't simply social media addiction but the downstream effect of eliminating all friction from life. When survival requires almost nothing — DoorDash replaces grocery trips, dating apps replace social risk, remote work replaces commuting — the small obligations that once connected people to each other and to physical reality disappear. The counterintuitive claim is that inconvenience IS connection: driving a friend to the airport, helping a neighbor carry groceries, showing up to a nephew's practice. These small frictions are not bugs in life to be optimized away but the very substrate from which meaning and community grow.
 

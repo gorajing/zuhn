@@ -48,7 +48,6 @@ related:
   - INS-260325-FDF5
   - INS-260322-90E7
   - PRI-260323-00C6
-  - INS-260327-D65E
   - INS-260405-A23B
 stance: >-
   AI should be deployed in narrow, iterative layers rather than as a massive

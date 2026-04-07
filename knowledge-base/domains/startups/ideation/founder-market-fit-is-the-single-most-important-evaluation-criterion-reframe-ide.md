@@ -53,11 +53,11 @@ stance: >-
   instead of ideas matched to their expertise are making the most consequential
   strategic error.
 related:
+  - PRI-260406-2411
   - INS-260403-5301
   - INS-260403-573F
   - INS-260403-C610
   - PRI-260405-72D4
-  - INS-260330-66A0
   - INS-260327-E992
   - INS-260328-A9D2
   - INS-260403-82CC

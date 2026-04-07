@@ -51,7 +51,6 @@ stance: >-
   fail but to actively imagine ways it could succeed.
 related:
   - INS-260322-EE1B
-  - INS-260403-B734
   - INS-260403-C8F0
   - INS-260404-9A25
   - INS-260404-9E63

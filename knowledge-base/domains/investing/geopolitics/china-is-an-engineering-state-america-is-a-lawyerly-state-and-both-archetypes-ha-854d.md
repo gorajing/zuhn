@@ -55,11 +55,11 @@ stance: >-
   through policies like one-child and zero-COVID; America's lawyer-dominated
   elite protects freedoms but blocks infrastructure, good and bad alike.
 related:
-  - INS-260320-8632
   - INS-260329-C45C
   - INS-260403-7FFA
+  - PRI-260406-4B8E
+  - INS-260320-8632
   - INS-260323-FCC1
-  - INS-260405-FAE3
 evidence:
   - id: INS-260320-8632
     type: EXTENDS

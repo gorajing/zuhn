@@ -52,7 +52,7 @@ related:
   - INS-260403-5F41
   - PRI-260406-874A
   - INS-260404-A19C
-  - INS-260405-ECCD
+  - PRI-260406-2411
 ---
 The most common and costly startup failure mode begins when a founder falls in love with a technology — AI, blockchain, automation — before understanding whether anyone actually needs what it enables. This leads to high customer acquisition costs because you're essentially educating the market on a problem they don't feel, poor problem-solution fit because the product was designed around capabilities rather than needs, and stagnant growth because there's no organic pull from the market.
 

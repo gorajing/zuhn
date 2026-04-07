@@ -51,7 +51,6 @@ stance: >-
   of automatic assumptions with another, and the old bias remains latent and
   recoverable.
 related:
-  - INS-260327-8760
   - INS-260330-7B62
   - PRI-260406-0CA4
   - INS-260330-FB34

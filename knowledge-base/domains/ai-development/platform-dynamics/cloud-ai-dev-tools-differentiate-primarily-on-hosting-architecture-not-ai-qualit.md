@@ -53,9 +53,9 @@ related:
   - INS-260330-77A2
   - INS-260403-699A
   - PRI-260406-9780
+  - PRI-260406-9FA8
   - INS-260403-D6C2
   - INS-260328-9C16
-  - INS-260403-F148
 ---
 The article's tool comparison reveals that v0, Bolt, Replit, and Lovable all generate roughly similar code from the same prompts—the CRM examples look comparable. The real differentiators are infrastructure: v0 deploys to real Vercel hosting, Bolt runs servers in-browser (limiting persistent data and auth), Replit provides full Python backend with database, and Lovable integrates with Supabase for auth/data. Code generation quality is table stakes.
 

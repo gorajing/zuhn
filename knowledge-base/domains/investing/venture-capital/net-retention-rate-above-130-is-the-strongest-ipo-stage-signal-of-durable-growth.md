@@ -53,8 +53,8 @@ related:
   - INS-260403-53B0
   - INS-260404-9FBC
   - INS-260404-A19C
+  - PRI-260406-D017
   - INS-260404-9103
-  - INS-260404-E061
 ---
 Rubrik's 133% net retention rate was arguably the single most important metric in its IPO story. While 47% ARR growth is impressive, high net retention proves something deeper: existing customers are expanding their spend faster than any churn can offset. This means growth is partially self-funding — the company doesn't need to spend proportionally more on sales and marketing to maintain its trajectory.
 

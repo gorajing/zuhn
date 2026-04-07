@@ -41,7 +41,6 @@ stance: >-
   A startup's job postings reveal its true technical sophistication more
   reliably than any other public signal
 related:
-  - INS-260321-141B
   - INS-260327-6AA0
   - PRI-260328-21AD
   - INS-260327-EE5E
@@ -51,6 +50,7 @@ related:
   - INS-260403-6424
   - INS-260403-504D
   - INS-260403-7068
+  - INS-260405-4523
 evidence:
   - id: INS-260330-ACDA
     type: TRANSFERS_TO

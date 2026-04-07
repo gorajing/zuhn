@@ -56,9 +56,9 @@ related:
   - INS-260326-4164
   - INS-260329-34A9
   - INS-260405-2287
+  - PRI-260406-B785
   - INS-260403-3F5F
   - INS-260404-6751
-  - INS-260327-B6B7
   - INS-260403-4452
 ---
 Menlo Ventures research shows 61% of US adults and 1.8 billion people globally now use AI, yet only 3% pay for it. This 20:1 ratio between users and paying customers dwarfs typical freemium conversion benchmarks of 2-5% and represents the central business challenge for AI companies. Adoption is strongest among parents, students, and workers — demographics with clear use cases but historically low software spending.

@@ -53,13 +53,11 @@ stance: >-
   sustained cortisol and inflammation.
 related:
   - INS-260325-FC52
-  - INS-260325-0400
   - INS-260325-A66E
   - INS-260327-7000
   - INS-260330-713C
   - INS-260327-1DAB
   - PRI-260328-92EF
-  - INS-260330-7981
   - INS-260330-5D64
   - INS-260330-D38F
 evidence:

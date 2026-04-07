@@ -58,7 +58,7 @@ related:
   - INS-260322-A36C
   - PRI-260323-81E9
   - PRI-260406-818D
-  - INS-260403-7E95
+  - PRI-260406-006A
   - INS-260403-ABA7
 ---
 Chamath identifies a critical analytical failure: depending on which output metrics analysts track — GDP growth rates, military budgets, technology investments — they reach opposite conclusions about China's trajectory. Some conclude inevitable Chinese dominance; others declare China has peaked. Both are wrong because they're measuring symptoms, not causes.

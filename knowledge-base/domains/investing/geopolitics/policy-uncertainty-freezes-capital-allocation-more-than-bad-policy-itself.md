@@ -49,11 +49,11 @@ stance: >-
   more effectively than consistently bad policies because capital requires
   minimum planning horizons to commit.
 related:
+  - PRI-260406-1115
   - INS-260403-5710
   - INS-260403-E9E0
   - INS-260403-44A6
   - INS-260323-5A96
-  - PRI-260406-03D1
 evidence:
   - id: INS-260323-5A96
     type: TRANSFERS_TO
