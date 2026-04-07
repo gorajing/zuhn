@@ -29,6 +29,7 @@
     "resurrect": "tsx scripts/resurrect.ts",
     "views": "tsx scripts/views.ts",
     "resurface": "tsx scripts/resurface.ts",
+    "brief": "tsx scripts/brief.ts",
     "batch-ingest": "tsx scripts/batch-ingest.ts",
     "ingest-channel": "tsx scripts/ingest-channel.ts",
     "mcp": "tsx scripts/mcp-server.ts",

@@ -214,6 +214,40 @@ server.registerTool("zuhn_recall", {
   };
 });
 
+// ─── Tool: zuhn_brief ───────────────────────────────────────────────
+// Generate a decision brief from the knowledge base
+
+server.registerTool("zuhn_brief", {
+  description:
+    "Generate a decision brief from the knowledge base. " +
+    "Returns relevant principles (ranked by empirical confidence), past decisions, " +
+    "active predictions, known tensions, and supporting evidence for a given decision context.",
+  inputSchema: {
+    query: z.string().describe("Decision context or question (e.g. 'Should I raise VC or bootstrap?')"),
+    domain: z
+      .string()
+      .optional()
+      .describe("Constrain to specific domain (e.g. startups, investing)"),
+  },
+}, async ({ query, domain }) => {
+  const { generateBrief } = await import("./lib/brief.js");
+  const db = initDb();
+
+  try {
+    const brief = await generateBrief(db, query, { domain });
+    return {
+      content: [
+        {
+          type: "text" as const,
+          text: JSON.stringify(brief, null, 2),
+        },
+      ],
+    };
+  } finally {
+    db.close();
+  }
+});
+
 // ─── Tool: zuhn_browse ───────────────────────────────────────────────
 // List insights/principles in a domain or topic
 

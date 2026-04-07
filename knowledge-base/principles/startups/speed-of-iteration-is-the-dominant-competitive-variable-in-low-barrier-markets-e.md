@@ -1,5 +1,5 @@
 ---
-id: PRI-260406-E602
+id: PRI-260407-AF64
 domain: startups
 title: >-
   Speed of iteration is the dominant competitive variable in low-barrier markets

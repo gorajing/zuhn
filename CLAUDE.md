@@ -92,6 +92,7 @@ When the user says "wake":
 | `npm run bench:check` | Compare against previous snapshot, fail if regressed |
 | `npx tsx scripts/create-tensions.ts --file <json>` | Create tension records from Claude's judgments |
 | `npx tsx scripts/backfill-stances.ts --list` | List insights missing stances for backfill |
+| `npm run brief "query"` | Decision brief — relevant principles, predictions, decisions, tensions |
 
 ## Architecture Boundaries
 
