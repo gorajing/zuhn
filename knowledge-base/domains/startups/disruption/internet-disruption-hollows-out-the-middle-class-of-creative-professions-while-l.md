@@ -56,7 +56,7 @@ related:
   - INS-260405-BFC0
   - INS-260403-7878
   - INS-260327-723A
-  - INS-260403-A2E9
+  - PRI-260406-66BA
 ---
 In journalism's Golden Age, frontline writers earned $60-80k/year at newspapers and $50k at trade publications — enough to live comfortably. Feature assignments paid $10-20k. This attracted elite talent like Bret Easton Ellis into the profession. The internet didn't eliminate the ceiling; top writers still command premium rates. What collapsed was the floor: the reliable, middle-tier career path that made journalism viable for talented people without breakout fame.
 

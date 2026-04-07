@@ -52,9 +52,10 @@ related:
   - INS-260327-3A81
   - INS-260405-B204
   - INS-260323-FE69
+  - PRI-260406-6DBE
   - PRI-260328-D401
-  - INS-260327-E874
   - INS-260327-F4CB
+  - INS-260327-E874
 stance: >-
   The total percentage of jobs automated matters less than whether displacement
   happens gradually (manageable) or in a 6-month shock (potentially des...

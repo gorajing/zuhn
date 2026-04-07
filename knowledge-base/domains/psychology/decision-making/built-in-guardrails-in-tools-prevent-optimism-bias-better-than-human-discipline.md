@@ -51,10 +51,10 @@ stance: >-
   catch unrealistic assumptions.
 related:
   - INS-260403-BA81
+  - PRI-260406-A834
   - INS-260404-4D7F
-  - INS-260329-92E9
-  - INS-260329-2AB9
-  - INS-260327-4C94
+  - PRI-260406-0E02
+  - PRI-260406-A4AA
   - INS-260403-5137
 ---
 The single-tab model embeds comment columns next to every input that flag common benchmarks ('SaaS gross margins typically 75-85%') and warn against red-flag assumptions ('20x P/S? Rare even for top-tier SaaS'). This is a design pattern worth noting beyond finance: embedding guardrails directly into the tool at the point of input is more effective than relying on users to self-police their assumptions.

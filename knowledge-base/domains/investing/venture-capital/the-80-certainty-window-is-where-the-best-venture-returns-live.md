@@ -46,8 +46,8 @@ related:
   - INS-260323-1B42
   - INS-260403-A7D6
   - INS-260403-AC06
+  - PRI-260406-7F84
   - INS-260403-57FF
   - INS-260402-EA72
-  - INS-260403-4960
 ---
 Creandum's defining investments — Spotify at 80% of licensing done, Trade Republic with a messy cap table — share a pattern: the company was nearly there but had one visible problem that scared consensus investors away. This 80% window creates a structural advantage because the remaining 20% of risk is often solvable with hands-on work, while the discount from other investors' hesitation is enormous. The principle extends beyond VC: in any investment context, the gap between 'almost proven' and 'fully proven' is where asymmetric returns concentrate, because human psychology craves certainty and systematically overpays for it.

@@ -52,6 +52,6 @@ related:
   - INS-260403-6553
   - INS-260327-0C4A
   - PRI-260328-E870
-  - INS-260327-2430
+  - PRI-260406-F6A5
 ---
 At Airbnb, the host referral program became the single most efficient and effective growth lever for consumer supply, driving both the largest share of attributable supply AND the highest quality supply. This dual benefit is often overlooked — most teams think of referrals purely as an acquisition channel. The quality advantage comes from selection effects: successful hosts understand what makes a good host, have reputational skin in the game, and naturally recruit from their social graph of similar people. This means referral programs compound — high-quality supply leads to better guest experiences, which leads to more demand, which makes the referral pitch more compelling. The practical implication is that referral programs should be promoted aggressively throughout the user experience, not hidden in settings.

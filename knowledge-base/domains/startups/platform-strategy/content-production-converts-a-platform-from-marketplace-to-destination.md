@@ -55,9 +55,9 @@ stance: >-
 related:
   - INS-260403-FCD7
   - INS-260327-F2DF
+  - PRI-260406-28E1
   - INS-260324-782C
   - INS-260329-0F10
-  - INS-260403-6279
 ---
 Amazon's move into original content production (movies and TV series) is not primarily about entertainment revenue — it's about transforming the perceived identity of the Prime subscription. A logistics and retail subscription competes on speed, price, and selection. A destination that produces culturally resonant shows competes on identity and belonging.
 

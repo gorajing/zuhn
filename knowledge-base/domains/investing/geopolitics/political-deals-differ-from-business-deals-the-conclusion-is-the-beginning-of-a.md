@@ -47,11 +47,11 @@ resolutions:
     principle applies to any complex multi-stakeholder negotiation: design for
     the morning after, not the signing ceremony.
 related:
+  - PRI-260406-874A
   - INS-260325-898A
   - INS-260403-5F41
   - INS-260327-E7B8
   - INS-260404-FBF8
-  - INS-260403-7E7C
 stance: In business you solve a problem and move on
 evidence:
   - id: INS-260325-898A

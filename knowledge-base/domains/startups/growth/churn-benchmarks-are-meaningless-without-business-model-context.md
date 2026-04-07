@@ -49,10 +49,10 @@ stance: >-
   billing cycle, sales motion, and market dynamics
 related:
   - INS-260405-7ACC
+  - PRI-260406-58FA
   - INS-260403-A3BD
   - INS-260403-9863
   - INS-260403-448C
-  - INS-260330-73A2
 ---
 The instinct to benchmark churn against industry averages is natural but misleading. A 5% annual churn rate is excellent for enterprise SaaS with high ACVs and multi-year contracts, but potentially fatal for a B2C subscription with monthly billing. Even within the same vertical, churn behaves differently—Apple TV+ at 15.6% monthly churn versus Netflix at 2.5% reflects entirely different content strategies and customer lock-in dynamics.
 

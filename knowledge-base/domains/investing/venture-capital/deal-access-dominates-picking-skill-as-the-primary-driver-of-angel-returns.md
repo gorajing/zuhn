@@ -47,7 +47,7 @@ stance: >-
   An angel investor with access to hot deals but average picking ability will
   outperform one with expert picking but average deal flow
 related:
-  - INS-260403-E9C6
+  - PRI-260406-C6C3
   - INS-260403-62D1
   - INS-260402-6BB6
   - INS-260403-3122

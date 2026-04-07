@@ -54,12 +54,11 @@ stance: >-
   government-backed infrastructure necessity with built-in demand from
   sovereignty mandates.
 related:
-  - INS-260405-5020
   - INS-260404-DFA5
+  - PRI-260406-03D1
+  - PRI-260406-CB40
   - INS-260403-8256
   - INS-260330-EF74
-  - INS-260404-3D17
-  - PRI-260328-A1AA
 ---
 The article identifies a third structural driver beyond AI and climate: geopolitical realignment forcing nations to reassert control over critical infrastructure. Semiconductors, biomanufacturing, and food security have become national security concerns, creating a pull-demand dynamic for deeptech startups building local, resilient infrastructure. This converts deeptech from a purely market-driven innovation play into a partially government-funded infrastructure necessity.
 

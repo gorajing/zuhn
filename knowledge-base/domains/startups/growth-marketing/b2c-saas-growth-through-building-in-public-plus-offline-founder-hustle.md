@@ -49,12 +49,12 @@ related:
   - INS-260329-B194
   - INS-260405-D660
   - INS-260329-12EC
-  - INS-260330-410A
+  - PRI-260406-F6A5
   - INS-260323-BD20
   - INS-260327-B561
+  - INS-260330-410A
   - INS-260403-36D1
   - INS-260403-D4D4
-  - INS-260403-29EB
 stance: >-
   Manifast reached 4,000 users and 50 paid customers by combining
   building-in-public on LinkedIn/Threads, sponsoring niche communities,

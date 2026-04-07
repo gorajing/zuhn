@@ -52,10 +52,10 @@ stance: >-
   technical benchmarks or regulatory approvals — is the irreversible threshold
   that forces incumbent transport platforms to reprice existentially.
 related:
+  - PRI-260406-FCF0
   - INS-260404-78E0
   - INS-260403-4AB2
   - INS-260327-3B91
   - INS-260404-77CD
-  - INS-260403-600C
 ---
 The decisive signal is not that AV technology improved — it has been improving for years. The signal is that Tesla removed human safety monitors from revenue-generating vehicles in a public urban environment. This operationalizes the threat: it is now a cost structure question, not a capability question. Uber and Lyft's stock reaction (down 1-2% on Tesla's 4% rally) reflects this re-rating. Platform businesses are vulnerable at the cost structure layer — if Tesla can operate a robotaxi at dramatically lower marginal cost than a human-driven ride, it compresses margins across the entire rideshare category. For founders building in transportation, logistics, or any labor-intensive service where AI provides a cost structure discontinuity, the implication is that the competitive clock starts not when the technology exists but when a competitor first removes the human from the revenue-generating unit.

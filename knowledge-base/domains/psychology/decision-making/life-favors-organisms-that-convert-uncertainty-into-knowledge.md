@@ -52,7 +52,6 @@ stance: >-
   like kissing, curiosity, and exploration
 related:
   - INS-260325-CB41
-  - INS-260330-633F
   - INS-260330-B68F
   - INS-260330-0E86
   - INS-260325-75A3

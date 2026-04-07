@@ -51,10 +51,11 @@ stance: >-
   frameworks but consistent execution of well-documented methodologies, making
   them highly vulnerable to LLM automation
 related:
+  - PRI-260406-F21A
   - INS-260405-F374
+  - PRI-260406-4358
   - INS-260403-6EC8
   - INS-260330-2B4F
-  - INS-260403-087F
   - INS-260403-7AD0
 ---
 The article reveals an important pattern in AI disruption: financial valuation models, risk methodologies, and screening criteria all live in textbooks, MBA curricula, and CFA study guides. The intellectual property was never the moat. The value was having someone who could consistently execute these analyses week after week.

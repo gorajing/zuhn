@@ -61,9 +61,9 @@ related:
   - INS-260329-7BA7
   - INS-260403-B6A0
   - INS-260403-5D89
-  - INS-260403-F4CC
   - INS-260403-E688
   - INS-260321-52EF
+  - INS-260327-5690
 ---
 A common objection to the comparative advantage argument is that compute will become so cheap and abundant that the constraint becomes irrelevant. This fundamentally misunderstands opportunity cost. More abundant AI produces more total value, which increases demand, which raises the opportunity cost of using AI for anything other than its most productive application.
 

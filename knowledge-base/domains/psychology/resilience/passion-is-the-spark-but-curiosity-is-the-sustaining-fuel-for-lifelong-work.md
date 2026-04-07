@@ -53,11 +53,11 @@ stance: >-
   decays rapidly; only curiosity — the compulsion to understand — sustains
   effort across decades
 related:
+  - PRI-260406-229E
   - INS-260325-D624
   - INS-260330-03F7
   - INS-260330-FEDD
   - INS-260405-9E7D
-  - INS-260330-3B05
 evidence:
   - id: INS-260325-D624
     type: SUPPORTS

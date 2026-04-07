@@ -57,7 +57,6 @@ stance: >-
   charitably, and such norms spread when they prove economically superior
 related:
   - INS-260321-1A84
-  - INS-260323-D934
   - INS-260327-8BF6
   - INS-260330-593E
   - INS-260402-9E2D
@@ -66,6 +65,7 @@ related:
   - INS-260403-FF74
   - INS-260403-39E9
   - INS-260403-3BD3
+  - INS-260405-8732
 ---
 Graham argues that Silicon Valley's distinctive openness to strange-sounding ideas from unknown people didn't arise because Bay Area residents are morally superior or more imaginative. It arose initially from aligned financial incentives (investors benefit when founders succeed), which was then practiced long enough to become a genuine cultural norm.
 

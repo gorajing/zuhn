@@ -53,7 +53,6 @@ stance: >-
   Introducing one new concept per iteration while keeping syntax stable produces
   faster comprehension than introducing concept and syntax simultaneously
 related:
-  - INS-260329-8896
   - INS-260329-9074
   - INS-260329-6D6C
   - INS-260329-B2F4
@@ -63,6 +62,7 @@ related:
   - INS-260330-81A7
   - INS-260403-D4EA
   - INS-260405-EFC2
+  - INS-260329-5ECD
 evidence:
   - id: INS-260329-5ECD
     type: SUPPORTS

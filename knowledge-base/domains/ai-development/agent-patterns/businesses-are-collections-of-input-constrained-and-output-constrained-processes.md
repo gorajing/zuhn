@@ -57,9 +57,8 @@ related:
   - INS-260403-2D99
   - INS-260404-29AF
   - INS-260328-75B8
+  - PRI-260406-1188
   - INS-260328-6E7A
-  - INS-260403-5DAD
-  - INS-260328-4A93
   - INS-260405-9409
 stance: >-
   Reframing businesses as collections of input-constrained processes (customer

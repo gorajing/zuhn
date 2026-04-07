@@ -56,6 +56,7 @@ related:
   - PRI-260328-EAC4
   - PRI-260403-2927
   - INS-260327-2B44
+  - PRI-260406-4D4E
 ---
 Data from cities like Austin, Raleigh, Phoenix, and Denver shows a strong correlation between housing construction volume and rent decreases. The mechanism is straightforward supply-and-demand: when high-end housing is built, affluent buyers move into those units rather than competing for older, cheaper housing. This 'filtering' effect prevents the bidding wars that displace middle-class and working-class residents.
 

@@ -53,10 +53,10 @@ stance: >-
 related:
   - INS-260322-90E7
   - INS-260402-C030
+  - PRI-260406-D802
   - INS-260403-42BA
   - INS-260403-8194
   - INS-260403-5D7D
-  - INS-260403-6570
 ---
 The traditional startup playbook of building in one market and expanding globally is hitting tariff walls. European buyers are increasingly favoring regional vendors as U.S. imports become more expensive, with 'buy local' sentiment rising measurably. A European mobility startup reported having to delay U.S. expansion entirely because tariffs destroyed their margin structure overnight.
 

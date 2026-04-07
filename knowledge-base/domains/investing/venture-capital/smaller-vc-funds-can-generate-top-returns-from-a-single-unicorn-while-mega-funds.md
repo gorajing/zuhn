@@ -51,8 +51,9 @@ stance: >-
 related:
   - INS-260404-19C2
   - INS-260405-A6E1
-  - INS-260404-12FB
   - INS-260403-713B
+  - PRI-260406-97BB
+  - INS-260404-12FB
   - INS-260403-E2DE
 ---
 Stanford research ranking VC firms by unicorn hit rates reveals that fund size creates fundamentally different return dynamics. Firebolt achieves a 10% unicorn hit rate while Sequoia plays a scale game — but the economic implications differ drastically based on fund size. A $50M fund that backs a unicorn can return the entire fund multiple times over, while a $5B fund needs ten-billion-dollar outcomes to move its return metrics.

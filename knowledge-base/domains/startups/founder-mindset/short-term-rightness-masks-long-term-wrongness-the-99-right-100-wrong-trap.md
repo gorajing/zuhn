@@ -47,14 +47,13 @@ stance: >-
   the one, this business will fail) creates a self-fulfilling prophecy that
   guarantees long-term loss despite feeling validated at each step.
 related:
-  - INS-260327-A75B
   - INS-260327-7D75
   - INS-260329-1669
   - INS-260329-3FF3
+  - INS-260327-A75B
   - INS-260327-9F46
   - INS-260330-156C
   - INS-260329-CE86
-  - INS-260403-1750
 evidence:
   - id: INS-260327-7D75
     type: EXTENDS

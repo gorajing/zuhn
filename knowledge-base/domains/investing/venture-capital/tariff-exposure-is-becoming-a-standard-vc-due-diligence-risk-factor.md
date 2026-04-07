@@ -49,11 +49,11 @@ stance: >-
   Startups with unhedged international supply chain exposure will face
   systematic valuation discounts from VCs within the next funding cycle
 related:
+  - PRI-260406-D802
   - INS-260403-BF83
   - INS-260403-3C53
+  - PRI-260406-0EC6
   - INS-260330-D460
-  - INS-260403-8194
-  - INS-260403-E44E
   - INS-260403-DAB9
   - INS-260403-431E
 ---

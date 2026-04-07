@@ -51,11 +51,11 @@ stance: >-
   flexibility, vision and data, internal focus and external networking —
   calibrating intensity based on current conditions.
 related:
+  - PRI-260406-D181
   - INS-260329-5B50
   - PRI-260328-F0B4
   - PRI-260324-12CF
   - INS-260403-34C0
-  - PRI-260323-F193
 evidence:
   - id: INS-260327-BE4E
     type: TRANSFERS_TO

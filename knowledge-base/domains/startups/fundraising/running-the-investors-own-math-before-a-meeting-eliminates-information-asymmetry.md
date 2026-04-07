@@ -56,12 +56,11 @@ related:
   - INS-260329-21AF
   - INS-260405-1BFA
   - INS-260403-BA6A
-  - INS-260403-7C02
   - INS-260403-03CC
   - INS-260403-7FF8
+  - PRI-260406-CA93
   - INS-260328-4EA0
   - INS-260403-B374
-  - INS-260403-F4E7
   - INS-260403-6CB4
 ---
 Most founders treat valuation discussions as persuasion exercises—telling a compelling story and hoping for a high number. But VCs are running a deterministic model: exit value × probability ÷ required return = what they'll pay today. When founders understand this, negotiations shift from vibes to math.

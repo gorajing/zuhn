@@ -46,9 +46,9 @@ stance: >-
 related:
   - INS-260405-F6E6
   - INS-260402-36DE
+  - PRI-260406-6895
   - INS-260405-DDC2
   - INS-260403-9A94
   - INS-260405-BCF4
-  - INS-260404-7F24
 ---
 The 2024 venture capital liquidity landscape reveals a significant shift in capital dynamics: LPs are receiving fewer distributions as exits slow, creating pressure on the entire fund lifecycle. This distribution drought affects new fundraising because LPs who aren't getting capital back from existing funds have less to commit to new ones, creating a cascading effect across vintage years. The structural implication is that VCs may need to adapt fund terms — shorter durations, more transparent secondary market participation, and stronger governance around follow-on reserves — to maintain LP confidence. For founders, this means VC investors may push harder for liquidity events or structured exits rather than encouraging indefinite private growth.

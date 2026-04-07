@@ -50,8 +50,8 @@ related:
   - INS-260327-8115
   - INS-260403-11E3
   - INS-260403-1438
+  - PRI-260406-8987
   - INS-260323-34B7
-  - INS-260403-DB16
 ---
 Under an American waterfall, GPs collect 20% carry as soon as any single deal returns cash — even if the rest of the portfolio is underwater. This creates incentive to push for early liquidity events. Under a European waterfall, GPs only earn carry after the entire fund has returned capital to LPs, which promotes discipline in follow-ons and patience with holding periods.
 

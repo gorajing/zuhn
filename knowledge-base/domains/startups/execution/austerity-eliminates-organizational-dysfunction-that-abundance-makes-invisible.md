@@ -52,12 +52,12 @@ stance: >-
   better-run businesses than cheap-money periods ever could.
 related:
   - INS-260330-B6AD
-  - INS-260403-2D99
   - INS-260405-A1E6
   - INS-260403-DAA9
   - PRI-260324-12CF
   - PRI-260328-99F0
   - INS-260404-00DE
+  - PRI-260406-1188
 ---
 During ZIRP, companies could mask organizational dysfunction with capital: overpaying underperforming talent, underpaying overperformers (who stayed for equity upside), offering perks disconnected from profitability, and allowing middle management layers that coordinated rather than produced. These inefficiencies were invisible because growth papered over waste.
 

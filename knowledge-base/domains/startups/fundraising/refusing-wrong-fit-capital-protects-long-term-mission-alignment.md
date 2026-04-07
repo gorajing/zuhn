@@ -58,7 +58,7 @@ related:
   - PRI-260403-26B9
   - INS-260403-1287
   - INS-260405-03BB
-  - INS-260403-087E
+  - INS-260405-1982
 ---
 During fundraising, Glanville was advised to 'take whatever money you can.' He refused, pushing through exhaustion to assemble a board and investor group that shared his long-term vision for the technology. The result: a highly effective board, smart money, and united mission where investors actively work to increase shared value.
 

@@ -54,11 +54,11 @@ stance: >-
   mathematics constructs its objects from desired behaviors.
 related:
   - INS-260325-1CE4
-  - INS-260329-9391
   - INS-260329-196E
   - INS-260330-F493
+  - INS-260329-9391
   - INS-260329-C5C6
-  - INS-260329-1F17
+  - PRI-260406-FA5B
   - INS-260330-083D
 evidence:
   - id: INS-260330-F493

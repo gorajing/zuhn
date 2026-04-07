@@ -53,9 +53,9 @@ stance: >-
 related:
   - INS-260403-37F4
   - INS-260403-09E8
+  - PRI-260406-E371
   - INS-260403-7692
   - INS-260403-193E
-  - INS-260327-2430
 ---
 When founders budget for a new hire, they typically anchor on the base salary—say $150K for a senior engineer. But the actual cash cost includes payroll tax, health insurance, equipment, and other benefits that add 20-40% on top. A $150K hire might cost $190-210K fully loaded. When you multiply this error across a 10-person hiring plan, you're off by $400K-600K annually—enough to miscalculate runway by months.
 

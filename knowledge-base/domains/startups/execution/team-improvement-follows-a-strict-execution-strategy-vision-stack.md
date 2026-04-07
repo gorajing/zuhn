@@ -48,9 +48,9 @@ stance: >-
 related:
   - INS-260404-CF81
   - INS-260403-7BCF
+  - PRI-260406-A6A2
   - INS-260403-9362
   - PRI-260403-7E5E
-  - PRI-260328-EE04
 ---
 Most struggling teams have leadership that operates at the wrong altitude. The execution-strategy-vision stack provides a diagnostic: start at the bottom and only move up when each layer is solid. Execution means everyone knows their next task, blockers are cleared, processes are optimized, and goals are on track. Strategy means there's a clear, communicable plan that the team can articulate. Vision means a concrete North Star that motivates.
 

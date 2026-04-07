@@ -52,10 +52,10 @@ stance: >-
 related:
   - INS-260323-E204
   - INS-260402-CCF4
+  - PRI-260406-070D
   - INS-260405-70D4
   - INS-260403-1B9E
   - INS-260404-F631
-  - INS-260404-1579
 ---
 Venture capital has historically maintained an informal ethics norm against defense investment, particularly after controversies at major tech companies. The explicit, public leadership of a16z and Founders Fund in defense VC deals represents more than an investment thesis—it's a cultural declaration that changes what's acceptable in the ecosystem.
 

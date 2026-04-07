@@ -45,14 +45,12 @@ stance: >-
   Building intuitive feel for what an AI is good at and when it hallucinates is
   a valid form of knowledge, not a substitute for 'real' understanding.
 related:
-  - INS-260323-BEF0
   - INS-260323-C10D
   - INS-260403-27A5
   - PRI-260323-1CF9
   - INS-260327-7214
   - INS-260403-06D5
   - INS-260330-D006
-  - INS-260403-04AD
 evidence:
   - id: INS-260330-125E
     type: CHALLENGES

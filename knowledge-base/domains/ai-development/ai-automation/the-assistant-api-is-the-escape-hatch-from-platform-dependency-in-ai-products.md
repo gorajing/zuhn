@@ -46,12 +46,12 @@ stance: >-
   Assistant API from day one, because platform lock-in is the primary risk of
   walled-garden AI tools.
 related:
-  - INS-260325-ADF5
   - INS-260323-A7F6
   - INS-260403-E099
+  - PRI-260406-806C
+  - INS-260325-ADF5
   - INS-260327-BB71
   - INS-260403-4120
-  - INS-260322-EAB6
 ---
 The article presents a clear two-tier architecture: GPT Builder for rapid prototyping within OpenAI's ecosystem, and the Assistant API for production deployment outside it. The author explicitly frames this as breaking free from 'OpenAI's designated playground' to deploy 'wherever you want.'
 

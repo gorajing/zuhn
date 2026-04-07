@@ -48,7 +48,6 @@ stance: >-
   Successful complex systems are reliably adequate rather than optimally
   efficient, and product design should follow the same principle
 related:
-  - INS-260327-3049
   - INS-260329-572E
   - INS-260330-09DE
   - INS-260330-39B0
@@ -56,8 +55,6 @@ related:
   - PRI-260405-9504
   - INS-260402-4AB4
   - INS-260403-955F
-  - INS-260403-A7FD
-  - INS-260325-4996
 evidence:
   - id: INS-260404-92B8
     type: SUPPORTS

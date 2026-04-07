@@ -52,10 +52,10 @@ stance: >-
   expected information.
 related:
   - INS-260323-B849
+  - PRI-260406-E5FB
   - INS-260330-E982
   - INS-260403-F4C9
   - INS-260325-0688
-  - PRI-260328-3FEF
 evidence:
   - id: INS-260325-24D1
     type: SUPPORTS

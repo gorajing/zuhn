@@ -46,7 +46,6 @@ stance: >-
   breakthrough ideas are filtered out, making consensus-driven VC firms
   structurally unable to find the next Google.
 related:
-  - INS-260323-BA17
   - PRI-260405-ED62
   - INS-260325-0688
   - INS-260330-06CD

@@ -49,9 +49,9 @@ stance: >-
   construction rather than an intrinsic feature of awareness.
 related:
   - INS-260330-CFAD
+  - PRI-260406-C60B
   - INS-260405-B8BE
   - INS-260330-6CA5
   - INS-260327-A4FE
-  - INS-260330-95A5
 ---
 Harris guides the listener to search for where awareness is located and find that it has no center, no edges, and no point of view in the geometric sense. The habitual sense of being 'in the head' looking out is revealed as a construction maintained by constant subtle referencing to the body. This insight has cross-domain relevance: in UX and VR design, the assumption that consciousness is a point-perspective drives camera metaphors, but nondual awareness suggests presence can be designed as immersive field rather than viewpoint. More practically, recognizing that the 'observer' is itself observed—it appears in awareness rather than generating it—collapses the infinite regress of 'who is watching the watcher?' This is the core move in nondual meditation traditions and distinguishes them from concentration-based practices.

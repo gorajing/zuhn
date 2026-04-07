@@ -51,10 +51,10 @@ stance: >-
   validation, because the learning itself is the output, not the report.
 related:
   - INS-260403-802D
+  - PRI-260406-DD8C
   - PRI-260403-2376
   - INS-260404-F8B7
   - INS-260322-D57C
-  - INS-260403-DF7F
 ---
 When companies hire consultants or agencies to validate ideas, they get a deliverable — a report, a deck, a recommendation — but not the embodied understanding that comes from being in the room with customers. The confusion, the surprises, the failed assumptions: all of that learning stays with the vendor. This is why outsourced validation so often produces findings that feel correct on paper but fail to change organizational behavior: the people who need to be changed never experienced the raw data.
 

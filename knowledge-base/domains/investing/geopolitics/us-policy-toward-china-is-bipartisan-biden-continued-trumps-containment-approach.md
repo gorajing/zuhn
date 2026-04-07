@@ -45,10 +45,11 @@ resolutions:
 related:
   - PRI-260324-3AAE
   - INS-260405-1CC3
+  - PRI-260406-0EC6
   - PRI-260323-9295
   - INS-260403-44A6
-  - INS-260403-9E97
   - INS-260404-2AD7
+  - INS-260403-9E97
   - INS-260403-9006
 stance: >-
   Despite appearing ideologically opposed, Biden barely cut any tariffs on China

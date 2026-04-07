@@ -55,6 +55,7 @@ related:
   - INS-260404-9004
   - INS-260405-BDA0
   - INS-260404-433E
+  - PRI-260406-C40C
   - INS-260404-6751
 ---
 The 2012 IPO class is instructive because it contrasts two archetypes: Facebook's massive consumer IPO ($56.9B valuation) struggled initially with post-IPO trading glitches and stock decline, while enterprise SaaS companies like Workday ($9.3B) and ServiceNow ($4.1B) quietly built durable businesses. Both Workday and ServiceNow focused on product-market fit with enterprise clients before going public, ensuring their software addressed critical operational needs.

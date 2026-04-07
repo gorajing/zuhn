@@ -56,7 +56,7 @@ related:
   - INS-260324-29D8
   - INS-260327-7AB5
   - PRI-260324-A608
-  - PRI-260328-604D
+  - PRI-260406-CA09
 ---
 Smith's central thesis is that AI has possibly the worst sales pitch in history: 'Our product might destroy humanity AND it will definitely make you unemployable.' He compares it to a door-to-door salesman pitching a microwave that cooks your food perfectly but also paralyzes your family, then suggesting you'll be fine on welfare. The extinction risk part is actually defensible as 'our version is safer,' but the economic obsolescence messaging is pure own goal.
 

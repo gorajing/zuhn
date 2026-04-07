@@ -57,7 +57,6 @@ stance: >-
   personality trait, and systematic graduated exposure is more effective than
   willpower or personality mimicry
 related:
-  - INS-260325-0103
   - INS-260330-BD3C
   - INS-260403-D6FE
   - INS-260403-0B99

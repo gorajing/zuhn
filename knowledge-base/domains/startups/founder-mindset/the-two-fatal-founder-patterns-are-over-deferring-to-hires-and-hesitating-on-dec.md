@@ -50,16 +50,16 @@ stance: >-
   or hesitating on hard calls because of fear of being wrong (creating decision
   debt that paralyzes the company).
 related:
-  - INS-260323-E2ED
   - INS-260323-A2E5
   - PRI-260323-2C5C
   - INS-260327-B605
   - INS-260327-2B75
   - INS-260402-9075
   - PRI-260328-B11D
-  - INS-260326-291C
+  - PRI-260406-2B11
   - INS-260403-3835
-  - INS-260403-CEC0
+  - INS-260403-D51E
+  - INS-260405-BE58
 evidence:
   - id: INS-260321-167A
     type: TRANSFERS_TO

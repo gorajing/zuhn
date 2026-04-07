@@ -49,11 +49,11 @@ stance: >-
   observable micro-actions is the missing link between understanding and
   performance.
 related:
-  - INS-260329-4D06
   - INS-260329-66C7
+  - PRI-260406-99B2
+  - INS-260329-4D06
+  - PRI-260406-69FC
   - INS-260329-1D3B
-  - PRI-260403-67FC
-  - PRI-260405-0676
 ---
 Hormozi identifies a critical insight about the knowing-doing gap: the more skilled you are, the more general a command can be and you can still follow it. A CEO can hear 'grow the business' and execute. A novice needs 'click the blue button, then type these exact words.' Most people operate with instructions calibrated for a skill level above their actual ability.
 

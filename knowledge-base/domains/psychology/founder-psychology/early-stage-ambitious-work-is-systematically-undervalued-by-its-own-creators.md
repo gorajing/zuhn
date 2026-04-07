@@ -56,12 +56,12 @@ related:
   - INS-260325-CEE1
   - INS-260327-FFA7
   - INS-260329-1FEE
-  - INS-260403-472E
   - INS-260403-E365
   - INS-260405-D606
   - INS-260404-FADE
   - INS-260404-CD3E
   - INS-260403-AEF2
+  - INS-260405-7A7C
 ---
 Graham argues that humans have essentially no cultural customs for evaluating nascent ambitious work. We evolved to judge finished artifacts and extrapolate linearly, so a project that is 20% complete looks proportionally bad — not like a glimpse of something that could be 10x more valuable than ordinary finished work. The result is that creators abort projects that would have been extraordinary if continued.
 

@@ -56,10 +56,10 @@ stance: >-
   campaign with pre-seeded amplifiers, not a single launch moment
 related:
   - INS-260403-8DB5
+  - PRI-260406-F443
   - INS-260326-C305
   - INS-260403-5E86
   - INS-260327-9830
-  - INS-260404-77CD
 ---
 Most stealth startups fail at the exit — not because their product is wrong, but because the reveal is unplanned. The article prescribes a specific operating blueprint: set a launch date and work backwards, establish must-have vs coming-soon feature lines, build a 20-50 person amplifier list contacted 7-10 days before launch, assign clear launch-day roles (comms, ops, founder DMs, support), and schedule publishing in waves from owned channels outward.
 

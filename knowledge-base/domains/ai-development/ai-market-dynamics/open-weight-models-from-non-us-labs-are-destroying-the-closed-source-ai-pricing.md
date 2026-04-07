@@ -53,7 +53,6 @@ stance: >-
   integration and trust rather than model capability alone.
 related:
   - INS-260327-5D5F
-  - INS-260329-8F7C
   - INS-260405-B7C7
   - PRI-260405-B144
   - INS-260404-CE26

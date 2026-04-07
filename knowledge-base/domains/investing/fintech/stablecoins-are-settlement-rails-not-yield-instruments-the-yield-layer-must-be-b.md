@@ -60,12 +60,11 @@ stance: >-
   capital that requires purpose-built yield infrastructure to capture productive
   deployment
 related:
+  - PRI-260406-2E0D
   - INS-260403-6BDC
   - INS-260403-4227
   - INS-260322-0C91
   - INS-260404-91D5
-  - INS-260322-36E3
-  - INS-260403-C838
 ---
 The article highlights a structural gap in crypto infrastructure: stablecoins excel at holding value and fast settlement but offer no native yield. With the GENIUS Act providing regulatory clarity and an estimated $6.6 trillion in bank deposits potentially migrating to stablecoins over the next decade, the idle capital problem becomes enormous. YLDS attempts to solve this by being a yield-bearing stablecoin itself (earning SOFR minus 50bps as a baseline), while Democratized Prime layers additional credit yield on top.
 

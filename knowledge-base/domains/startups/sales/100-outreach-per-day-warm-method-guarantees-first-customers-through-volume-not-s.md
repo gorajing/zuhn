@@ -52,12 +52,11 @@ stance: >-
   customers regardless of sales ability
 related:
   - INS-260327-8D7E
-  - INS-260327-DD5C
+  - PRI-260406-F6A5
   - INS-260329-A57C
   - INS-260329-12EC
   - INS-260329-DAC4
   - INS-260403-77B4
-  - INS-260405-270B
 evidence:
   - id: INS-260327-8D7E
     type: TRANSFERS_TO

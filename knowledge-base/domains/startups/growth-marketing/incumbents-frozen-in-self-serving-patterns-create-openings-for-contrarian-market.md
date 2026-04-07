@@ -50,10 +50,9 @@ related:
   - INS-260404-A520
   - INS-260330-6A47
   - INS-260402-ECD2
+  - PRI-260406-B87C
   - INS-260403-9CC1
-  - PRI-260328-A4AC
   - INS-260403-0B14
-  - INS-260403-7E95
 stance: >-
   When an industry treats marketing as beneath it, the first firm to market
   aggressively gains a permanent structural advantage.

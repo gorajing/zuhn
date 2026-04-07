@@ -52,10 +52,10 @@ stance: >-
 related:
   - INS-260327-24F4
   - INS-260403-7DBB
+  - PRI-260406-E5FB
   - INS-260404-2E6C
+  - PRI-260406-992F
   - INS-260403-81D4
-  - INS-260405-18AB
-  - INS-260403-910E
   - INS-260402-A629
 ---
 Q3 2025 venture data reveals an interesting divergence: humanoid robotics leads in number of deals while AI leads in total dollar volume. This split reflects fundamentally different capital deployment strategies — robotics investors are making many smaller bets across the category expecting high variance in who cracks manufacturing and go-to-market, while AI investors concentrate massive capital in proven winners.

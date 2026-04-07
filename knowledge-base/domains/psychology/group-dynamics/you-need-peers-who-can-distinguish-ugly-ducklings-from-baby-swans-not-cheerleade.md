@@ -54,8 +54,8 @@ related:
   - INS-260403-5216
   - INS-260404-4985
   - INS-260403-2AA2
+  - PRI-260406-D7EA
   - INS-260403-56A9
-  - INS-260404-E716
 ---
 Graham makes a crucial distinction: collecting people who are always encouraging is useless because you quickly learn to discount unconditional praise. What you need are colleagues who can actually tell whether your messy early work has the seed of something great or is genuinely bad. The people best equipped for this judgment are those working on similar ambitious projects themselves.
 

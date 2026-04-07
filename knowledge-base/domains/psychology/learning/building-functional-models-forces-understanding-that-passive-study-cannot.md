@@ -49,11 +49,11 @@ stance: >-
   Constructing a working physical model of a system produces deeper
   understanding than any amount of reading or explanation alone
 related:
+  - PRI-260406-122A
   - INS-260329-B2F4
   - INS-260329-023F
   - INS-260330-63B8
   - PRI-260403-67FC
-  - INS-260327-4C73
 evidence:
   - id: INS-260329-B2F4
     type: TRANSFERS_TO

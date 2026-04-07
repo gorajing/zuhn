@@ -46,9 +46,9 @@ resolutions:
 related:
   - INS-260327-767B
   - INS-260404-EEA7
+  - PRI-260406-28E1
   - INS-260329-444F
   - PRI-260328-0C51
-  - INS-260403-E681
 stance: >-
   AI application to specific industries has no proven playbook anywhere in the
   world, making benchmarking-based strategy obsolete.

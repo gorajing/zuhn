@@ -44,9 +44,9 @@ resolutions:
 related:
   - INS-260322-7FA4
   - INS-260403-7878
+  - PRI-260406-66BA
   - PRI-260328-0C15
   - PRI-260321-5857
-  - PRI-260322-94C4
   - INS-260403-6908
 stance: >-
   As AI-generated articles surpass human-written ones and AI slop floods social

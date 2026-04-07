@@ -56,7 +56,7 @@ related:
   - INS-260329-4DBC
   - INS-260403-64F1
   - PRI-260328-94D4
-  - PRI-260405-0AC6
+  - PRI-260406-6AE6
 ---
 The availability of pretrained models, open-source frameworks, and API integrations has created a dramatic compression in startup timelines. MVPs that once took six months now take weeks. Product-market fit signals that took months to emerge now appear in days. This isn't just faster building — it's a fundamentally different tempo that changes the entire fundraising dynamic.
 

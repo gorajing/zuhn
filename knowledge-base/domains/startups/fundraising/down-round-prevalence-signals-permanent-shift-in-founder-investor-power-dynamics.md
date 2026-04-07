@@ -51,10 +51,9 @@ related:
   - INS-260403-71E6
   - INS-260403-248E
   - INS-260403-9F2A
+  - PRI-260406-ADF0
   - INS-260403-227D
   - INS-260403-DE9B
   - INS-260403-B374
-  - INS-260403-7045
-  - INS-260405-36E6
 ---
 The current environment where nearly 20% of funding rounds are down rounds represents more than a cyclical correction—it signals a durable shift in negotiating leverage. During 2020-2021, founders could dictate terms, skip due diligence, and raise at aspirational valuations. That power dynamic has inverted. Investors now have the leverage to demand cleaner terms, lower valuations, and proof of sustainable economics before committing capital. For founders, the practical implication is that the valuation you accept today directly constrains your options in future rounds. Raising at a lower but defensible valuation preserves optionality, while raising at an inflated number creates a ceiling that becomes a trap if growth slows. The founders who survive this era will be those who treat fundraising as a strategic tool rather than a vanity metric.

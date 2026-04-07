@@ -52,7 +52,6 @@ stance: >-
   than degrading it
 related:
   - INS-260327-7EFD
-  - INS-260330-EA23
   - INS-260403-323A
   - INS-260403-6BD9
   - INS-260403-0435
@@ -61,6 +60,7 @@ related:
   - INS-260405-A9B2
   - INS-260404-007B
   - INS-260404-41AA
+  - INS-260404-3C7A
 evidence:
   - id: INS-260327-7EFD
     type: EXTENDS

@@ -52,9 +52,10 @@ stance: >-
   to the next generation
 related:
   - INS-260402-3639
+  - PRI-260406-1EF3
   - INS-260403-B9F4
   - INS-260403-F9EE
-  - INS-260403-74E5
+  - PRI-260406-ABAA
   - INS-260403-8C20
 evidence:
   - id: INS-260322-5B1B

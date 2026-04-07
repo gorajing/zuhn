@@ -50,11 +50,11 @@ stance: >-
   achievements—are a more reliable predictor of program value than brand
   recognition or marketing claims.
 related:
+  - PRI-260406-164A
   - INS-260403-26CD
   - INS-260404-ECDF
   - INS-260404-9263
   - INS-260403-7F6F
-  - INS-260403-D870
 ---
 Brand prestige can mask weak execution. A well-known accelerator that produces few successful graduates is less valuable than an obscure one with strong alumni outcomes. The concrete metrics to evaluate are: what percentage of alumni successfully raised follow-on funding, how many achieved significant revenue milestones, and what is the overall survival rate of portfolio companies.
 

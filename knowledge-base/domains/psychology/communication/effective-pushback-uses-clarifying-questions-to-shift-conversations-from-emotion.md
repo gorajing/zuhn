@@ -49,11 +49,11 @@ stance: >-
   bad ideas than direct opposition because it forces the proposer to confront
   gaps in their own reasoning.
 related:
+  - PRI-260406-05B5
   - INS-260329-C996
   - INS-260330-568F
   - INS-260403-6652
   - INS-260323-46B2
-  - INS-260329-4D5E
 ---
 Dhiman provides a specific toolkit for pushing back on ideas without being difficult to work with: ask clarifying questions that bring conversations to a logical space rather than an emotional one. His go-to questions include 'Why has this become suddenly important?', 'Can you help clarify xyz?', 'What would success look like?', and 'What time frame do you need this in?'
 

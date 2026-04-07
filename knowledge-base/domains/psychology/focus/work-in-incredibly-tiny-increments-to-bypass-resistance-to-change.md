@@ -48,7 +48,6 @@ stance: >-
   you're willing to do it right now, and finding that minimum viable increment
   is more effective than pushing through resistance at full scale.
 related:
-  - INS-260325-58F5
   - PRI-260328-4313
   - INS-260330-30F0
   - INS-260323-7EEB

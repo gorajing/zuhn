@@ -40,7 +40,6 @@ stance: >-
   and add fees, they eventually price out the customer segment that created the
   demand, destroying the value proposition.
 related:
-  - INS-260324-157A
   - INS-260329-9F8D
   - INS-260403-5D89
   - INS-260403-345C

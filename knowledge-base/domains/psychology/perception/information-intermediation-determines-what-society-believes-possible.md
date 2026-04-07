@@ -47,12 +47,11 @@ stance: >-
   making AI model builders the most powerful gatekeepers in history.
 related:
   - INS-260325-C9EB
-  - INS-260325-239C
   - PRI-260328-C006
   - INS-260330-CAD2
   - PRI-260327-0D6E
+  - PRI-260406-1EF3
   - INS-260327-74CF
-  - PRI-260328-7A9C
   - INS-260330-03A9
 evidence:
   - id: INS-260328-711E

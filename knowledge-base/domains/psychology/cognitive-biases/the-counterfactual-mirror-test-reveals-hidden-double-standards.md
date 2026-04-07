@@ -46,10 +46,10 @@ stance: >-
   reliable method for detecting one's own rationalized hypocrisy.
 related:
   - INS-260323-3C7F
+  - PRI-260406-B9C9
   - INS-260404-2F16
+  - PRI-260406-6762
   - INS-260404-D94D
-  - INS-260330-AFF8
-  - INS-260403-E8DD
   - INS-260403-07C1
   - INS-260405-F7FA
 evidence:

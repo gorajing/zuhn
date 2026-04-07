@@ -48,14 +48,14 @@ stance: >-
 related:
   - INS-260405-0327
   - INS-260405-2F43
+  - PRI-260406-97BB
   - INS-260403-39B8
   - INS-260405-6342
   - INS-260404-F54F
-  - INS-260405-DDC2
-  - INS-260403-AB11
   - INS-260403-1874
   - INS-260404-8076
   - INS-260404-6243
+  - INS-260404-5D6E
 ---
 The Q2 2024 venture landscape reveals a barbell pattern: massive rounds like DFJ Growth's $1.05B fund and Headway's $100M Series D coexist alongside smaller early-stage funds like ZAKA VC's €15M and Cambridge Future Tech's £5M. The middle ground — Series A and B — faces the most friction as investors demand stronger proof points before committing.
 

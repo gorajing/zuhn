@@ -53,11 +53,11 @@ stance: >-
   organizational drag that exceeds the cost of clearly broken features, because
   they resist deprecation due to sunk cost attachment.
 related:
+  - PRI-260406-C4C5
+  - PRI-260406-EBDB
   - INS-260403-1E05
   - INS-260323-AB5F
   - INS-260330-F82A
-  - INS-260403-BA1B
-  - INS-260325-0C4A
 ---
 Broken features are easy to identify and scrap. The real momentum killers are features that 'kind of work'—the integration built for a prospect who never converted, the dashboard a few users occasionally check, the side project still 'gathering data' after three months. Each one adds friction: cognitive load for the team, complexity for new features, and confusion for users. They're organizational scar tissue.
 

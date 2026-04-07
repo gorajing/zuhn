@@ -41,7 +41,6 @@ stance: >-
   organic content promoting pharmaceuticals, with disclosure requirements
   frequently violated or buried in fine print
 related:
-  - INS-260324-988E
   - PRI-260328-1545
   - INS-260327-4F94
   - INS-260327-415B

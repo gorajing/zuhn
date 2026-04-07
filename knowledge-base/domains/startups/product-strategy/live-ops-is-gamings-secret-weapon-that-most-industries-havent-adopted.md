@@ -55,9 +55,9 @@ related:
   - INS-260403-7C60
   - INS-260327-2B62
   - PRI-260328-95A5
+  - PRI-260406-0ACE
   - PRI-260328-6A8D
   - INS-260330-E8C6
-  - INS-260403-57E7
 ---
 Live ops — the practice of continuously publishing new content, items, events, and pricing experiments into a live product — is what Shalel calls 'one of the deep secrets of the game industry.' At Plarium, live ops drove competition between free and paid players, kept engagement high, and if removed from any successful game, would eliminate approximately 40% of revenue.
 

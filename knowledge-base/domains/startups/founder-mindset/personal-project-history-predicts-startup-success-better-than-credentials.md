@@ -45,10 +45,10 @@ stance: >-
   signal of future success than academic grades or formal credentials.
 related:
   - INS-260403-6935
+  - PRI-260406-21DA
   - INS-260403-B7FA
+  - PRI-260406-229E
   - INS-260329-153F
-  - INS-260404-FADE
-  - INS-260322-30A0
 evidence:
   - id: INS-260322-30A0
     type: SUPPORTS

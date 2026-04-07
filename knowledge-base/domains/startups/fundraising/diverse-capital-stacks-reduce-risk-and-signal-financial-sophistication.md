@@ -50,10 +50,10 @@ stance: >-
   future investors
 related:
   - INS-260403-7CAF
+  - PRI-260406-CB40
   - INS-260329-B424
   - INS-260403-6E68
-  - INS-260323-70B9
-  - INS-260405-36E6
+  - PRI-260406-E542
 ---
 Most founders think about funding as a sequence of discrete rounds, but sophisticated capital management means building a stack — combining multiple non-dilutive sources so no single funding channel creates a bottleneck. If one source dries up or becomes unfavorable, others keep the business funded. This is the same diversification principle that applies to investment portfolios.
 

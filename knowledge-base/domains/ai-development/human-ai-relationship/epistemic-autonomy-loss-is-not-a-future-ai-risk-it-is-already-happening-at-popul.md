@@ -48,7 +48,6 @@ stance: >-
   total epistemic dependence.
 related:
   - INS-260325-922D
-  - INS-260327-767B
   - INS-260403-2475
   - INS-260323-BC61
   - INS-260403-1EFF

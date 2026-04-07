@@ -48,9 +48,9 @@ stance: >-
   founder cannot make hard personnel decisions.
 related:
   - INS-260327-8254
+  - PRI-260406-9EF7
   - INS-260323-4C43
   - INS-260327-2B75
   - INS-260402-9075
-  - INS-260405-224A
 ---
 VCs read cap tables as decision-making blueprints, not just ownership ledgers. When they see significant equity allocated to former co-founders, departed employees, or inactive advisors, it raises immediate concerns about the founder's judgment and ability to lead through difficult situations. A chunk of stock options sitting with someone who left two years ago signals either conflict avoidance or ignorance of equity mechanics — both disqualifying traits for someone about to manage millions in institutional capital. The fix requires proactive cleanup: buybacks, equity transfers tied to advisory duties with time-based vesting, or refresh grants to active founders. This cleanup isn't cosmetic — it's strategic, demonstrating the founder treats equity as a scarce strategic resource rather than a participation trophy.

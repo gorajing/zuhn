@@ -63,9 +63,9 @@ stance: >-
 related:
   - INS-260403-3518
   - INS-260403-EA6D
+  - PRI-260406-2546
   - INS-260404-A893
   - INS-260403-99DE
-  - INS-260403-8D5C
   - INS-260403-80A0
 ---
 Mastercard's Crypto Partner Program assembles Circle, Binance, PayPal, Ripple, Gemini, Paxos, Solana, Polygon, Fireblocks, and 75+ more into a structured collaboration group aimed at integrating digital assets into Mastercard's 150M+ merchant network. The explicit focus is practical payment flows: cross-border remittances, B2B transfers, payouts, and settlement — the boring, high-volume infrastructure that moves trillions annually.

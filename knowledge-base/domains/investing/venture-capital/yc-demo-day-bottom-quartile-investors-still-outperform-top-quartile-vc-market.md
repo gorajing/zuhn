@@ -59,8 +59,8 @@ related:
   - INS-260323-422B
   - INS-260328-195E
   - INS-260403-E16F
-  - INS-260403-8EE8
-  - INS-260403-5056
+  - PRI-260406-4D4E
+  - PRI-260406-3C6B
 ---
 Data from investors who backed at least 3 companies per YC Demo Day from 2018-2020 shows striking return distributions: bottom quartile achieved 3.3x TVPI, median 5x, top quartile 8x, and top decile 15x. The bottom quartile of Demo Day investing outperforms the top quartile of the broader venture capital market.
 

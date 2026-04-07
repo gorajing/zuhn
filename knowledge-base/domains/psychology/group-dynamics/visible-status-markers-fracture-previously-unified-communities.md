@@ -49,12 +49,12 @@ stance: >-
   relative to the intended benefit.
 related:
   - INS-260403-8C7E
+  - PRI-260406-AA07
+  - PRI-260406-6762
   - INS-260403-958C
   - INS-260327-112B
-  - INS-260403-49CC
-  - PRI-260405-7F1E
-  - INS-260403-889B
   - INS-260403-E36A
+  - INS-260403-49CC
 evidence:
   - id: INS-260327-112B
     type: CHALLENGES

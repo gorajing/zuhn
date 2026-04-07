@@ -55,11 +55,11 @@ stance: >-
   strategic plans become obsolete faster than they can be implemented.
 related:
   - INS-260329-AA2C
+  - PRI-260406-901E
   - PRI-260328-4CC0
+  - PRI-260406-E602
   - INS-260405-7838
   - INS-260403-CF0E
-  - PRI-260328-EC3F
-  - PRI-260322-8FD4
 ---
 Web2 PM career ladders reward strategic thinking and long-term vision-setting as the path to seniority. But in web3 and other nascent markets where new protocols launch daily and fundamental paradigms shift in weeks, the half-life of any strategic vision is shorter than the time needed to execute on it. Jason Shah observed that no web3 PM writes vision documents—vision lives in technical whitepapers by protocol architects.
 

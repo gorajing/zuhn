@@ -48,10 +48,10 @@ stance: >-
   creates psychological commitment that can be leveraged during the close.
 related:
   - INS-260329-0B1D
+  - PRI-260406-05B5
+  - PRI-260406-003E
   - INS-260327-D7E6
   - INS-260403-62A9
-  - INS-260330-DB4B
-  - PRI-260324-E8C6
 evidence:
   - id: INS-260330-A151
     type: CHALLENGES

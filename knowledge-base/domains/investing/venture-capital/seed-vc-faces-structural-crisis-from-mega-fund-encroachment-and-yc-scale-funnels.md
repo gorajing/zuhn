@@ -52,14 +52,14 @@ stance: >-
 related:
   - INS-260323-750A
   - INS-260327-9638
-  - INS-260403-4E71
   - INS-260403-62D0
-  - INS-260404-FA1E
-  - INS-260405-A761
   - INS-260404-0F6C
-  - INS-260405-A6E1
   - INS-260404-CB41
   - INS-260403-8EE8
+  - PRI-260406-EE38
+  - PRI-260406-6C6C
+  - INS-260405-6342
+  - INS-260403-6DFC
 ---
 Seed-stage venture capital is experiencing structural headwinds from multiple directions simultaneously. YC and similar accelerators create massive funnels that commoditize early deal flow, while mega-funds like a16z increasingly write seed-sized checks, compressing ownership and inflating valuations at the earliest stages.
 

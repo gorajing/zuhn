@@ -50,10 +50,10 @@ stance: >-
   a correctable cultural failure rather than an innate human trait.
 related:
   - INS-260404-31C3
+  - PRI-260406-D43E
+  - PRI-260406-5CA8
   - INS-260403-1A6B
   - INS-260404-6D51
-  - INS-260404-323D
-  - INS-260403-649C
 ---
 The default human response to an unfamiliar idea from an unknown person is to list reasons it won't work. This is rationally defensible—most new ideas do fail—but catastrophically wrong when weighted by outcome in a power-law world. Silicon Valley learned this through expensive mistakes: dismissing a future billion-dollar company feels clever for a moment but looks idiotic in retrospect.
 

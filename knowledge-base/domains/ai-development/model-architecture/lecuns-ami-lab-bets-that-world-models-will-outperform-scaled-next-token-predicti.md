@@ -56,7 +56,6 @@ stance: >-
   The next AI breakthrough will come from architectural innovation (world models
   / JEPA) rather than scaling LLMs on more compute and data.
 related:
-  - INS-260403-DC6E
   - PRI-260328-D893
   - INS-260323-6C6F
   - PRI-260323-8E89

@@ -51,9 +51,9 @@ stance: >-
 related:
   - INS-260404-12FB
   - INS-260405-D959
+  - PRI-260406-6C6C
+  - PRI-260406-7F84
   - INS-260404-3821
-  - INS-260327-7E3D
-  - INS-260403-5031
 ---
 When European VCs react with mixed feelings to a large fund raise within their own ecosystem, it reflects something more than competitive anxiety — it suggests a recognition that capital alone does not close structural gaps. Europe has historically struggled to produce the density of AI research commercialization, frontier model companies, and deep-tech exits that the US has generated.
 

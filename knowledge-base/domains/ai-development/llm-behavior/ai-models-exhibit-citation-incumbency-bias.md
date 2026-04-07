@@ -49,10 +49,10 @@ stance: >-
   entrants to displace.
 related:
   - INS-260405-DFBC
+  - PRI-260406-88DD
   - INS-260403-A6B1
   - INS-260404-573C
-  - PRI-260327-5635
-  - INS-260321-C4CD
+  - PRI-260406-ABAA
 ---
 AI models are trained on and reinforced by human feedback signals, including which citations users find helpful. Sources that get cited early accumulate positive signal, making them more likely to be cited again in future fine-tuning and retrieval cycles. This is analogous to PageRank's rich-get-richer dynamic but operates faster and is less transparent to would-be competitors.
 

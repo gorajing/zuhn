@@ -52,11 +52,11 @@ stance: >-
   self-disruption a career-ending decision for any CEO, creating a structural
   moat for attackers.
 related:
+  - PRI-260406-1796
   - INS-260403-0350
   - INS-260403-DF45
   - INS-260327-EE5E
   - INS-260404-2A8B
-  - PRI-260328-95A5
   - INS-260403-47E3
   - INS-260403-16A7
 ---

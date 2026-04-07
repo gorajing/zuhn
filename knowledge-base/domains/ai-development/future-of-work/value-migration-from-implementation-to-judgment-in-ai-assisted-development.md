@@ -58,8 +58,8 @@ related:
   - PRI-260321-14D8
   - PRI-260328-B4BD
   - INS-260329-B4E7
-  - INS-260330-3A3E
   - INS-260402-E470
+  - INS-260402-1FE9
 ---
 The 'vibe coding' debate often frames AI code generation as a loss of fundamentals, but this misses the structural change in where value lives. When the cost of writing code approaches zero, the hard part is no longer typing syntax — it is deciding what should exist, evaluating the results, and exercising taste. The human role migrates from being the engine to being the editor-in-chief.
 

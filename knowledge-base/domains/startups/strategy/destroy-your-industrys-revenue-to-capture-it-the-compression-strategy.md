@@ -45,11 +45,11 @@ stance: >-
   fifty-million-dollar industry win if they capture all fifty million, because
   incumbents cannot rationally self-cannibalize at that ratio.
 related:
+  - PRI-260406-B87C
   - PRI-260403-5DEA
   - INS-260403-87AC
   - INS-260403-53B0
   - INS-260405-246B
-  - INS-260403-F6D2
 evidence:
   - id: INS-260403-87AC
     type: SUPPORTS

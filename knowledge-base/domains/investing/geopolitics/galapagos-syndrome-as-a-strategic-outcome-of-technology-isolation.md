@@ -49,15 +49,15 @@ stance: >-
   rather than the global one
 related:
   - INS-260323-822B
-  - INS-260330-DC14
   - INS-260330-C825
-  - INS-260330-4F2A
   - INS-260402-B42C
   - INS-260403-0AF6
   - INS-260403-1DE4
+  - PRI-260406-0EC6
+  - PRI-260406-0ACE
+  - PRI-260406-12A2
   - PRI-260328-A4AC
-  - PRI-260324-5F05
-  - INS-260321-21BE
+  - INS-260405-8FCF
 ---
 Beyond the direct capability delay, export controls create a second-order strategic effect: if Chinese AI companies buy only from Chinese chip companies, those chips become optimized for domestic rather than international use cases. Japan experienced this 'Galapagos syndrome' with mobile phones — technically advanced but incompatible with global markets, which ultimately limited industry scale.
 

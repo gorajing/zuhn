@@ -49,8 +49,8 @@ stance: >-
   creating exploitable strategic openings.
 related:
   - INS-260327-0762
-  - INS-260330-A9CB
   - INS-260403-B133
+  - PRI-260406-1796
   - INS-260404-8520
   - INS-260403-2E0F
   - INS-260403-B008

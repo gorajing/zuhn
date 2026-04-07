@@ -54,14 +54,11 @@ stance: >-
   at exit than they expected.
 related:
   - INS-260330-3559
-  - INS-260404-64EC
   - INS-260405-5BA9
   - INS-260403-D970
   - INS-260403-ACC5
-  - INS-260405-863C
+  - PRI-260406-3317
   - INS-260403-53C0
-  - INS-260403-DE9B
-  - INS-260403-1287
 ---
 The most common founder mistake is optimizing valuation for the current round without modeling the cumulative effect across seed, Series A, B, and C. A seemingly favorable $20M post-money valuation at seed becomes devastating if subsequent rounds require heavy dilution. Each round compounds: ESOP pools expand, anti-dilution provisions trigger, and early investor protections layer.
 

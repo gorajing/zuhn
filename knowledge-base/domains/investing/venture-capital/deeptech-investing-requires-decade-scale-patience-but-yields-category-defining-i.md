@@ -53,12 +53,11 @@ stance: >-
   traditional SaaS-style growth metrics.
 related:
   - INS-260403-E185
-  - INS-260403-1AE5
   - INS-260330-809A
   - INS-260329-196A
+  - INS-260403-1AE5
   - INS-260404-A53F
   - INS-260405-C673
-  - INS-260404-AEC9
 ---
 Deeptech startups differ fundamentally from traditional tech in their return profile. While they require longer time to market and larger early capital, they build defensible IP moats, secure non-dilutive grants (SBIR, Horizon Europe, DARPA), and get acquired at strategic premiums by pharma, defense, energy, and government buyers. Traction looks different — published research, LOIs from utilities, government lab validation — rather than ARR.
 

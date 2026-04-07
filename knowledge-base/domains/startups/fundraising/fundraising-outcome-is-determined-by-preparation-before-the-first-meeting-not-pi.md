@@ -53,10 +53,11 @@ related:
   - INS-260403-9EB1
   - INS-260405-6433
   - INS-260405-6387
+  - PRI-260406-E880
+  - PRI-260406-0E64
   - INS-260405-67F2
   - INS-260405-092A
   - INS-260322-A02C
-  - INS-260405-C764
 ---
 Most founders treat fundraising as a storytelling exercise and invest disproportionate time in slide design. But investors are evaluating judgment, not presentation skills. The founders who raise efficiently have done extensive groundwork before the first meeting: researching investor theses, understanding portfolio overlap, securing warm introductions, and pressure-testing their narrative through real conversations.
 

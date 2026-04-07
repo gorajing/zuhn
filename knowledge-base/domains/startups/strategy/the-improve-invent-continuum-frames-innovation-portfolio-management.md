@@ -45,12 +45,12 @@ stance: >-
   a binary choice — produces better resource allocation because it acknowledges
   that most real initiatives live between the extremes
 related:
-  - INS-260402-4605
   - INS-260403-1000
+  - PRI-260406-4EBD
+  - PRI-260406-17AA
   - PRI-260403-5FC4
   - PRI-260405-47B5
   - INS-260403-E25F
-  - INS-260403-E3C4
   - INS-260322-CCE8
 evidence:
   - id: INS-260322-CCE8

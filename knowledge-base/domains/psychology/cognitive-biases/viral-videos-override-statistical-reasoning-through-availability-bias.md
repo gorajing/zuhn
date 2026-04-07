@@ -49,11 +49,11 @@ stance: >-
   statistical data in shaping public beliefs, making emotionally salient
   anecdotes more powerful than comprehensive datasets
 related:
+  - PRI-260406-949A
   - INS-260403-9DB6
   - INS-260405-5702
+  - PRI-260406-A33C
   - INS-260404-5017
-  - INS-260403-B6FD
-  - INS-260403-8C75
 ---
 Sam Harris demonstrates that while approximately 1,000 people are killed by police annually out of 10 million arrests, the public perception of an 'epidemic' is driven almost entirely by a handful of viral videos rather than systematic data analysis. He presents the Tony Timpa case — a white man killed under nearly identical circumstances to George Floyd — that received virtually no media attention, illustrating how the same event is perceived completely differently based on which narrative frame is applied.
 

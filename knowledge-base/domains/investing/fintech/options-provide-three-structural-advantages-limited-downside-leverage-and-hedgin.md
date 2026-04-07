@@ -47,10 +47,10 @@ resolutions:
     direction simultaneously.
 related:
   - INS-260329-B424
+  - PRI-260406-4B0E
   - INS-260403-B98A
   - PRI-260405-0099
   - INS-260405-FFCE
-  - INS-260329-D5FF
 stance: >-
   Options offer three distinct advantages over direct stock ownership: capped
   maximum loss (the premium paid), amplified returns through leverage, an...

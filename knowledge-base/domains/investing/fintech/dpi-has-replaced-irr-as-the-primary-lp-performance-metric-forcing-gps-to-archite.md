@@ -55,7 +55,6 @@ related:
   - INS-260403-9F64
   - INS-260403-FA65
   - INS-260403-01FD
-  - INS-260403-53AF
 ---
 Many VC funds raised in the mid-2010s are nearing or exceeding their 10-year end-of-life dates while sitting below 1x DPI—meaning LPs haven't even gotten their initial capital back. Median time to exit across European portfolios now exceeds 11 years. With global venture AUM at $3.1 trillion but cash distributions lagging far behind, the gap between paper wealth and realized returns has become the defining tension in venture capital.
 

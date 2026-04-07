@@ -45,8 +45,9 @@ stance: >-
   quality at the start.
 related:
   - INS-260321-ADB4
-  - INS-260329-9A42
+  - PRI-260406-AF0C
   - INS-260329-31A2
+  - INS-260329-9A42
   - INS-260405-0184
   - PRI-260322-DC5E
   - INS-260329-127F

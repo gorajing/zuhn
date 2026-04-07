@@ -45,11 +45,11 @@ stance: >-
   forcing brevity forces founders to identify their single strongest insight
   rather than diluting it across comprehensive coverage.
 related:
+  - PRI-260406-E880
   - INS-260403-822B
   - INS-260404-B6CA
   - INS-260404-6BBB
   - INS-260405-CB93
-  - INS-260404-1DDB
 ---
 Across 16 unicorn pitch decks, a clear pattern emerges: the decks that closed rounds were remarkably short. Intercom raised $600K with 8 slides, Tinder with 10, Airbnb with 12. The decks that tried to be comprehensive ended up saying nothing memorable.
 

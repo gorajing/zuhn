@@ -51,10 +51,10 @@ stance: >-
   making the solo GP model a durable competitive form rather than an anomaly.
 related:
   - INS-260403-087E
+  - PRI-260406-992F
   - INS-260403-215E
   - INS-260403-7DBB
   - INS-260404-CCE7
-  - INS-260330-64E1
 ---
 Traditional venture firms rely on partnerships and investment committees to deploy capital, which introduces consensus-seeking, internal politics, and slower decision cycles. Elad Gil's model demonstrates that a single operator-investor with extreme proof-of-work — built over 20 years of operating, angel investing, and 40+ unicorn picks — can raise institutional-scale capital ($1B+) and compete directly with storied firms.
 

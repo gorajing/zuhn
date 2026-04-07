@@ -54,7 +54,6 @@ related:
   - INS-260403-22D3
   - INS-260403-5CAD
   - INS-260403-E482
-  - INS-260403-9E6A
   - INS-260403-14E0
 ---
 Bosmeny identifies the 'one more feature' request as one of the most common closing traps for ambitious founders. When a prospect says they'd use the product but it's missing one feature, the natural response is to build it. But nine times out of ten, after you build that feature, there's another feature request or another reason they can't commit.

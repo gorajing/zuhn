@@ -57,9 +57,9 @@ related:
   - INS-260330-BBCF
   - INS-260403-CACB
   - INS-260403-8194
+  - PRI-260406-0EC6
   - PRI-260324-5F05
   - INS-260327-93F9
-  - INS-260327-D1B7
 ---
 Bloom et al. (2011) found that Chinese import competition had a dual effect on European firms: it caused pain (falling employment, profits, and prices) but also drove significant innovation (increased R&D, patenting, IT adoption, and TFP). The two channels — within-firm innovation and reallocation toward more innovative firms — were roughly equal in magnitude and together accounted for about 15% of European technology upgrading between 2000-2007.
 

@@ -57,7 +57,6 @@ evidence:
     type: SUPPORTS
 related:
   - PRI-260328-23DB
-  - INS-260330-6DEB
   - INS-260330-E8BD
   - INS-260323-3F30
   - INS-260330-70A8

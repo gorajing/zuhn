@@ -50,9 +50,10 @@ related:
   - INS-260327-E2BC
   - INS-260403-5593
   - INS-260403-7037
-  - INS-260403-86C7
+  - PRI-260406-54BE
   - INS-260404-82B2
   - INS-260403-B2A5
+  - INS-260403-86C7
   - INS-260405-3CC7
 ---
 Graham defines the startup essence as 'having brilliant people do work that's beneath them'—think Einstein designing refrigerators. Big companies try to match people to roles; startups gain leverage by having research-caliber minds solve immediate, prosaic problems like UI design or customer support workflows.

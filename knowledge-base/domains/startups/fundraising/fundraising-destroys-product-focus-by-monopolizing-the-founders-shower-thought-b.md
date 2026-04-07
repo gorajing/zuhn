@@ -44,11 +44,11 @@ stance: >-
   hijacks the founder's ambient cognitive processing away from the product.
 related:
   - INS-260324-62A8
+  - PRI-260406-E1D5
   - INS-260403-ABBB
   - INS-260326-291C
   - INS-260403-D833
   - INS-260403-9F5A
-  - INS-260403-3059
   - INS-260403-21A5
   - INS-260404-9376
 evidence:

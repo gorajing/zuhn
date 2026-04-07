@@ -53,9 +53,9 @@ stance: >-
 related:
   - INS-260403-943E
   - INS-260403-599B
+  - PRI-260406-B9A3
   - INS-260329-3E28
-  - INS-260403-165F
-  - INS-260403-01FD
+  - PRI-260406-91C2
 ---
 GP-led secondaries made up nearly half of all secondary market volume in 2024, with single-asset continuation vehicles comprising 48% of that. The mechanism is elegant: the GP spins a high-performing company out of an aging fund into a new vehicle capitalized by secondary buyers. Original LPs choose to cash out (solving their DPI problem) or roll into the new vehicle (maintaining upside). The GP retains their best asset without forcing a premature exit.
 

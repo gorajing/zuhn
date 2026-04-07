@@ -49,10 +49,10 @@ related:
   - INS-260322-B6DE
   - INS-260325-58F5
   - INS-260327-734D
+  - PRI-260406-874A
   - INS-260327-8C1C
   - INS-260404-D1E2
   - INS-260403-CD74
-  - INS-260328-D2EC
 ---
 Most founders fail at product-market fit because they jump to their solution too quickly. The PM-Fit Logic Template prescribes a rigid sequencing: define one specific customer segment, articulate their job to be done, identify the obstacle, map dominant alternatives and their shortcomings, and quantify consequences — all before mentioning your own product.
 

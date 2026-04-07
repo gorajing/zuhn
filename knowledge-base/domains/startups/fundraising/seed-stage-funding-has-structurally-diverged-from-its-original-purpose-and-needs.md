@@ -51,9 +51,9 @@ related:
   - INS-260327-8D5D
   - INS-260403-2724
   - INS-260403-118B
+  - PRI-260406-EE38
   - INS-260321-3521
   - INS-260405-6EE5
-  - INS-260323-8893
 ---
 The seed stage circa 2024 bears little resemblance to seed circa 2014. Round sizes, investor expectations, time-to-Series-A, and competitive dynamics have all shifted dramatically. What was once a relatively simple exchange — small capital for early traction signals — has become a complex, multi-round process where seed rounds can exceed what Series A rounds looked like a decade ago.
 

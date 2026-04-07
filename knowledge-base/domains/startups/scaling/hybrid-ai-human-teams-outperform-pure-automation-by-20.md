@@ -55,7 +55,6 @@ stance: >-
   relying on either alone, making the optimal strategy a hybrid model rather
   than maximum automation.
 related:
-  - INS-260325-FC07
   - INS-260327-0246
   - INS-260327-93F9
   - INS-260327-0762
@@ -63,7 +62,6 @@ related:
   - INS-260403-DC4A
   - INS-260403-E706
   - INS-260404-29AF
-  - INS-260403-7825
   - PRI-260321-7307
 ---
 The article presents a nuanced counterpoint to the 'replace everything with AI' narrative. McKinsey's finding that hybrid AI-human approaches are 20% more successful suggests that the optimal startup structure isn't minimum headcount—it's the right ratio of human judgment to AI automation. Enterprise sales, regulatory compliance, and customer relationship building remain domains where human skills are irreplaceable.

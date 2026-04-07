@@ -50,8 +50,8 @@ related:
   - INS-260403-76F5
   - INS-260403-A17D
   - INS-260403-C37B
+  - PRI-260406-1A4D
   - INS-260322-AAEA
-  - PRI-260405-64B2
 ---
 Lenny started his newsletter as an experiment with no clear business plan. Six months in he still thought he wanted to start a company and viewed the newsletter as a distraction. But by committing to publishing at least one post every single week for the entire year (64 posts total), the signal became undeniable — subscriber growth, paid conversions, and community engagement all pointed to the newsletter as his real work.
 

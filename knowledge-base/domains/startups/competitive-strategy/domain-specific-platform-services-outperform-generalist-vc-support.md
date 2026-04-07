@@ -50,12 +50,11 @@ stance: >-
   companies, while deep vertical expertise in specific domains like AI or crypto
   accelerates companies by months.
 related:
-  - INS-260327-C294
   - INS-260404-CCB1
+  - PRI-260406-0ACE
+  - PRI-260406-7F84
   - INS-260403-8DE1
   - INS-260403-3C66
-  - PRI-260328-0C15
-  - INS-260323-3ADC
 ---
 a16z learned that general startup research produced negligible value, while domain-specific efforts — like testing every AI foundation model and publishing comparative findings for portfolio companies — accelerated company timelines by months. The same vertical specialization applies to talent: AI researchers require completely different sourcing pools, compensation structures, and closing strategies than full-stack engineers.
 

@@ -50,11 +50,11 @@ stance: >-
   interview technique because different user segments surface fundamentally
   different strategic insights
 related:
+  - PRI-260406-BC55
+  - PRI-260406-2BC0
   - INS-260404-DD95
   - INS-260403-07FB
   - INS-260403-2718
-  - INS-260403-359D
-  - INS-260329-F063
 evidence:
   - id: INS-260329-F063
     type: EXTENDS

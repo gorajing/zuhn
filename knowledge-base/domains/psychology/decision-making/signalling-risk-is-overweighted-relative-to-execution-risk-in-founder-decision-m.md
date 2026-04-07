@@ -48,8 +48,6 @@ stance: >-
   investors' future behavior while underweighting the far larger risk of their
   own execution failures.
 related:
-  - INS-260322-B3D0
-  - INS-260327-4754
   - INS-260330-70BF
   - INS-260402-E2AF
   - INS-260403-57FF

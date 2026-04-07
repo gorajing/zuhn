@@ -49,7 +49,7 @@ related:
   - INS-260325-75A3
   - INS-260403-532D
   - INS-260327-2387
-  - INS-260330-1DDE
+  - PRI-260406-DE8A
 evidence:
   - id: INS-260330-1DDE
     type: CHALLENGES

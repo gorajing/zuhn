@@ -53,11 +53,11 @@ stance: >-
   Deliberately showing common errors and debugging them teaches deeper
   understanding than only demonstrating correct solutions.
 related:
+  - PRI-260406-FB98
   - INS-260329-9010
   - INS-260329-F892
   - INS-260403-5683
   - PRI-260325-A95E
-  - INS-260329-7BAF
   - INS-260329-A6FB
   - INS-260329-5A24
   - INS-260403-A6B1

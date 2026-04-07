@@ -60,12 +60,12 @@ stance: >-
   more credible than those that treat vision as a separate aspirational layer.
 related:
   - INS-260329-6514
-  - INS-260330-2BB3
   - INS-260330-C658
   - INS-260404-AEC9
   - PRI-260328-0E23
+  - PRI-260406-B9A3
+  - PRI-260406-AFA7
   - INS-260405-F2C7
-  - INS-260322-047D
 ---
 SpaceX's compounding loop is: reusability lowers cost → lower cost increases launch demand → more launches improve reliability → reliability unlocks new markets. Each step is both an outcome and an input to the next. This is qualitatively different from a milestone list where items are independent checkboxes.
 

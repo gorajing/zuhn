@@ -52,7 +52,6 @@ related:
   - INS-260403-5835
   - INS-260403-4AB2
   - INS-260403-7157
-  - INS-260405-5755
   - INS-260403-183D
 ---
 As of mid-2024, analysts are flagging a widening gap between the enormous capital flowing into AI infrastructure and applications versus the actual revenue those investments are generating. This mirrors the classic bubble pattern where narrative and expectation run far ahead of business fundamentals.

@@ -50,12 +50,11 @@ stance: >-
   theater.
 related:
   - INS-260403-538C
-  - INS-260403-ADB3
-  - INS-260403-6D8C
   - INS-260403-6740
   - INS-260403-A486
-  - INS-260403-3BBB
-  - INS-260403-CF1D
+  - PRI-260406-6533
+  - PRI-260406-DE8A
+  - INS-260403-6D8C
 ---
 The article synthesizes three complementary metrics into a diagnostic framework: Burn Multiple (Net Burn / Net New ARR) measures discipline — under 2x is healthy, over 3x is a red flag per David Sacks. Efficiency Score (Net New ARR / Net Burn) measures return on spend — Bessemer considers 1x+ strong and below 0.5x a signal of weak PMF. Hype Factor (Capital Raised / ARR) measures reality versus illusion — healthy SaaS hovers at 1-2x near IPO, above 5x means you're selling a dream.
 

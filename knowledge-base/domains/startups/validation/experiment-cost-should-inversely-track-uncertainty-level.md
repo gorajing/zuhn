@@ -47,10 +47,10 @@ stance: >-
   investment scaling only as evidence accumulates
 related:
   - INS-260403-FFEA
+  - PRI-260406-7ED0
   - INS-260405-DF08
   - INS-260404-2E6C
   - INS-260325-E84D
-  - INS-260403-3DF3
 evidence:
   - id: INS-260325-E84D
     type: SUPPORTS

@@ -51,13 +51,12 @@ stance: >-
   will inevitably encounter resource scarcity that turns that same drive inward,
   causing self-destruction before achieving total dominance.
 related:
-  - INS-260323-B40C
   - INS-260323-7F5C
   - INS-260402-1640
   - INS-260330-9BC4
   - INS-260330-4AC6
+  - PRI-260406-0EC6
   - INS-260404-20F3
-  - INS-260403-3059
   - INS-260330-4315
   - INS-260330-01D5
 evidence:

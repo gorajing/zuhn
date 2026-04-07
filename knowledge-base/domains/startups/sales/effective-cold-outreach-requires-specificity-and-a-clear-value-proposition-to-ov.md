@@ -51,10 +51,9 @@ related:
   - PRI-260328-95E3
   - INS-260329-DAC4
   - INS-260329-D1A1
-  - INS-260330-4DBE
   - INS-260328-711E
   - PRI-260328-BDC2
-  - INS-260329-7B47
+  - PRI-260406-F6A5
 ---
 Cold email and DM conversion is primarily determined by how clearly the sender demonstrates relevance to the recipient's specific situation. Generic outreach fails because it forces the recipient to do the mental work of figuring out why this matters to them — and most won't bother.
 

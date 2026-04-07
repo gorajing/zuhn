@@ -57,7 +57,7 @@ related:
   - PRI-260405-0099
   - PRI-260328-3FEF
   - INS-260403-30A5
-  - INS-260405-092A
+  - PRI-260406-CA2F
   - INS-260327-0E33
 stance: >-
   Ray Dalio's core insight: the #1 mistake is trying to increase returns without

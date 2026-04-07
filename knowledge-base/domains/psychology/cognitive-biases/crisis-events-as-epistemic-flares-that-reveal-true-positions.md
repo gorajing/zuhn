@@ -48,11 +48,10 @@ stance: >-
   people's actual commitments more reliably than their stated principles.
 related:
   - INS-260325-95EB
-  - INS-260329-FEA6
   - INS-260330-A151
   - INS-260329-7BAF
-  - INS-260323-DEEA
-  - INS-260403-57F6
+  - PRI-260406-CF83
+  - PRI-260406-90C7
 evidence:
   - id: INS-260329-FEA6
     type: TRANSFERS_TO

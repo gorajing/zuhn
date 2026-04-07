@@ -53,6 +53,7 @@ related:
   - INS-260403-3D75
   - INS-260403-6740
   - INS-260403-21DB
+  - PRI-260406-6533
 ---
 The fundraising landscape has shifted from rewarding growth-at-all-costs to demanding efficient growth. VCs now evaluate 'velocity per dollar' — how much learning and revenue each dollar produces relative to the last. The concrete metric is burn multiple: net burn divided by net new ARR. Best-in-class companies operate below 1.5x, meaning they spend less than $1.50 for every new dollar of ARR. Companies above 3x face uncomfortable conversations.
 

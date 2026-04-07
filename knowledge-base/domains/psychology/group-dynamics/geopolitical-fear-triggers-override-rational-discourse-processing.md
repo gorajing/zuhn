@@ -53,11 +53,10 @@ stance: >-
   proposals, regardless of how clearly those proposals are stated.
 related:
   - INS-260329-CA4F
-  - INS-260330-0F49
   - INS-260403-D63C
   - INS-260404-A850
+  - PRI-260406-F937
   - INS-260323-E492
-  - INS-260403-9012
 ---
 The satirical dialogue reveals how 'China will beat us' functions not as a rational concern to be addressed but as an emotional trigger that short-circuits engagement with details. The supporter offers concrete proposals — monitoring frameworks, conditional triggers, graduated strategies, precedent from nuclear treaties — but none penetrate because the opponent's threat-response system has been activated by the geopolitical competition frame.
 

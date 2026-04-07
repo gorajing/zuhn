@@ -51,10 +51,10 @@ stance: >-
   content is identical.
 related:
   - PRI-260403-0ABD
+  - PRI-260406-05B5
   - INS-260323-1CA4
   - PRI-260328-E921
   - INS-260329-A80B
-  - INS-260403-C37D
 evidence:
   - id: INS-260330-E3D3
     type: CHALLENGES

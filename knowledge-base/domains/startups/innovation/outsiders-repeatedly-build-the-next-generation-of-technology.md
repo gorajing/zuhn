@@ -47,11 +47,11 @@ stance: >-
   technological generation than motivated outsiders poking at existing systems
 related:
   - INS-260327-C464
+  - PRI-260406-BD4D
   - INS-260405-9FD9
   - INS-260330-1266
   - INS-260403-A4CF
   - PRI-260321-7307
-  - INS-260402-C664
 evidence:
   - id: INS-260403-A4CF
     type: SUPPORTS

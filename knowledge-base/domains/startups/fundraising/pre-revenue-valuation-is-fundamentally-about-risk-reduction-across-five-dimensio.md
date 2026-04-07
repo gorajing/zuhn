@@ -51,15 +51,15 @@ stance: >-
   for improving valuation.
 related:
   - INS-260327-80A8
-  - INS-260329-2A5A
-  - INS-260329-1318
   - INS-260330-8CD4
   - INS-260403-1904
   - INS-260403-9D89
   - INS-260403-599B
-  - INS-260403-D49E
-  - INS-260404-9BC6
-  - INS-260404-30B2
+  - INS-260404-A0C2
+  - INS-260403-3CD0
+  - INS-260403-D880
+  - INS-260404-7295
+  - INS-260404-7D4D
 ---
 The Berkus Method assigns up to $500K each across five categories: the idea, team strength, product progress, launch readiness, and strategic relationships. This framing reveals that at the earliest stages, investors are essentially pricing how much uncertainty you've eliminated, not how big the opportunity could be.
 

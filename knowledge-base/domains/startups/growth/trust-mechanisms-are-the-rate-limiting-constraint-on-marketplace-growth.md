@@ -50,11 +50,11 @@ stance: >-
   In two-sided marketplaces, growth is constrained not by supply or demand
   acquisition but by the sophistication of trust mechanisms between strangers.
 related:
+  - PRI-260406-9063
   - INS-260327-5DD2
   - INS-260403-B0E3
   - INS-260330-1854
   - INS-260403-B18C
-  - INS-260330-7FFE
 evidence:
   - id: INS-260321-8414
     type: TRANSFERS_TO

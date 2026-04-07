@@ -49,10 +49,7 @@ stance: >-
   because they have zero control over their core value chain.
 related:
   - INS-260324-1CC8
-  - INS-260327-3DE7
   - INS-260327-AB2A
-  - INS-260329-6E0F
-  - INS-260403-E3CC
   - INS-260323-1D15
   - PRI-260405-6216
   - INS-260403-43B9

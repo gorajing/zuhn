@@ -48,10 +48,10 @@ stance: >-
   failing to recognize this leads to false objectivity in data interpretation
 related:
   - INS-260330-CCA2
+  - PRI-260406-FA5B
   - INS-260330-B4DA
   - INS-260330-4F49
   - INS-260330-3B6C
-  - INS-260330-6494
 evidence:
   - id: INS-260330-B4DA
     type: EXTENDS

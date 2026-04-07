@@ -46,10 +46,10 @@ stance: >-
   should be completely ignored when making investment decisions.
 related:
   - INS-260325-9F41
+  - PRI-260406-4358
   - INS-260323-15F4
   - INS-260323-BA17
   - INS-260323-422B
-  - INS-260327-D6C5
 evidence:
   - id: INS-260323-15F4
     type: SUPPORTS

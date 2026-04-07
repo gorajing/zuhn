@@ -45,10 +45,10 @@ stance: >-
   comparison anchors keep shifting upward with media exposure to wealth.
 related:
   - INS-260330-B306
+  - PRI-260406-C168
   - INS-260403-9F9F
+  - PRI-260406-E4B0
   - INS-260403-6BF7
   - INS-260330-B5D6
-  - INS-260403-7881
-  - INS-260330-B906
 ---
 Smith identifies a structural limit on the 'abundance agenda' — the idea that making everyone materially better off will proportionally increase satisfaction. Economic theory confirms that relative consumption matters alongside absolute consumption (Luttmer 2005). If social media continuously resets the reference point upward by exposing people to ever-wealthier lifestyles, growth-driven improvements in living standards will feel smaller than they objectively are. This creates a treadmill effect where real economic gains are psychologically discounted. The implication for policy and startup founders: solving material problems is necessary but insufficient. Perception-shaping — controlling reference points and comparison targets — may matter as much as actual improvements.

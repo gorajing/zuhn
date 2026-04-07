@@ -50,10 +50,10 @@ stance: >-
   stages of a deep-tech startup.
 related:
   - INS-260403-4572
+  - PRI-260406-992F
   - INS-260403-FED6
+  - PRI-260406-2B2A
   - INS-260327-C083
-  - INS-260328-9415
-  - INS-260330-DFC8
 evidence:
   - id: INS-260324-72E8
     type: CHALLENGES

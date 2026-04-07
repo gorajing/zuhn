@@ -53,11 +53,11 @@ related:
   - INS-260404-92AA
   - INS-260403-B224
   - INS-260404-B496
-  - INS-260404-A3CD
   - INS-260405-EFC1
-  - INS-260403-C7AB
   - INS-260403-E503
   - INS-260403-DA33
+  - INS-260403-5056
+  - PRI-260406-4D4E
 ---
 Correlation Ventures analyzed ~21,000 financings and found that about 65% of investments fail to return capital while fewer than 4% deliver 10x+ multiples. Sapphire Ventures' analysis shows that in funds returning 5x or greater, the top company averaged ~90x, the second-best ~25x, and the rest averaged ~1x (breakeven). This means portfolio construction must be designed around the assumption that nearly everything fails and one or two companies must carry the entire fund.
 

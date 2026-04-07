@@ -50,11 +50,11 @@ stance: >-
 related:
   - INS-260403-1034
   - INS-260404-15B8
+  - PRI-260406-97BB
   - INS-260403-1E5F
   - INS-260403-0680
   - INS-260404-3821
   - INS-260404-50AC
-  - INS-260328-3F19
 ---
 The newsletter captures a stark market bifurcation: Zepto raises $665M doubling its valuation, Poolside targets $400M+ at $2B, and Semperis crosses $1B — while simultaneously early-stage AI investors show fatigue. This barbell pattern means capital concentrates at the extremes: proven late-stage winners attract enormous rounds while truly early pre-product bets still get funded on potential.
 

@@ -46,7 +46,6 @@ stance: >-
   predict deal likelihood from the talk-to-listen ratio alone.
 related:
   - INS-260327-60A0
-  - INS-260329-E598
   - INS-260329-100D
   - INS-260329-F063
   - INS-260330-7D07

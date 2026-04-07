@@ -52,10 +52,10 @@ stance: >-
   their popularity inversely measures system integrity.
 related:
   - INS-260329-C81C
+  - PRI-260406-430A
   - PRI-260321-7307
   - INS-260330-90C3
   - INS-260321-1A0B
-  - INS-260403-62AF
 evidence:
   - id: INS-260321-1A0B
     type: SUPPORTS

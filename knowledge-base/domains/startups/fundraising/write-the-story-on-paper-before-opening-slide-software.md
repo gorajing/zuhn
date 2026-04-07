@@ -52,11 +52,11 @@ stance: >-
   designing produce stronger pitch decks than those who open PowerPoint first,
   because story logic must precede visual execution.
 related:
-  - INS-260405-6387
   - INS-260404-FD79
+  - PRI-260406-E880
   - INS-260403-822B
   - INS-260405-CB93
-  - INS-260404-63D5
+  - INS-260405-6387
 ---
 The impulse to open a slide editor and start building is a trap — it conflates two separate cognitive tasks. Story architecture (what argument am I making, slide by slide?) must be resolved independently of visual execution. Mixing them produces decks that look polished but lack logical flow.
 

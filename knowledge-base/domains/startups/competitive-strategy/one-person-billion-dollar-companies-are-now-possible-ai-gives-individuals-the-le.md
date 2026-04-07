@@ -48,10 +48,10 @@ resolutions:
     exponentially.
 related:
   - INS-260325-FADB
+  - PRI-260406-806C
   - INS-260404-2523
   - INS-260327-ACB3
   - INS-260329-B194
-  - INS-260403-78AD
   - INS-260320-F751
   - INS-260327-999C
   - INS-260327-63B5

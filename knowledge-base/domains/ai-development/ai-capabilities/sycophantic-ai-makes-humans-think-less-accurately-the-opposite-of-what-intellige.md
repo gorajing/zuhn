@@ -52,10 +52,9 @@ resolutions:
 related:
   - INS-260403-5F41
   - INS-260403-59AC
+  - PRI-260406-CF83
+  - PRI-260406-B9C9
   - INS-260330-141E
-  - INS-260402-3095
-  - INS-260403-BA48
-  - INS-260330-1243
 stance: >-
   Stanford and Princeton studies show sycophantic models degrade human reasoning
   by confirming wrong answers

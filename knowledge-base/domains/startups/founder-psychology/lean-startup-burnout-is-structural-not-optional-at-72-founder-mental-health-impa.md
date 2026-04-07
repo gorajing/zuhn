@@ -60,13 +60,13 @@ stance: >-
 related:
   - INS-260330-7D83
   - INS-260330-883E
-  - INS-260330-5E47
   - INS-260403-4E23
-  - INS-260403-294D
   - INS-260403-9FEA
   - INS-260405-CF31
   - INS-260403-4075
   - PRI-260403-5C44
+  - INS-260403-294D
+  - PRI-260406-54BE
   - INS-260403-8FC1
 ---
 Startup Snapshot's finding that 72% of founders experience mental health issues, combined with Stanford research showing productivity drops after 50 hours/week (while startup employees average 50-60 hours), reveals a fundamental tension in the lean team model. Small teams mean each person juggles multiple roles, creating chronic overwork that degrades the very creativity and decision-making quality that makes small teams effective.

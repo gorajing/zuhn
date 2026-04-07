@@ -56,10 +56,10 @@ stance: >-
   the independent conviction it mythologizes.
 related:
   - INS-260403-C622
+  - PRI-260406-9924
   - INS-260405-FFCE
   - INS-260405-6342
   - INS-260403-5056
-  - INS-260403-23FD
 ---
 Despite every firm pitching proprietary pipelines and unique lenses, the data tells a collective story. According to PitchBook data, roughly 40% of all deals led by top-20 firms are co-invested with at least one other top-20 firm. Even historically independent firms like Benchmark and Redpoint now syndicate a significant share of their deals.
 

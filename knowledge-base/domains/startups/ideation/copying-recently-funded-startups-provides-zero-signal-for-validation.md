@@ -39,16 +39,16 @@ resolutions:
     to extremely derivative, non-unique ideas that are the opposite of what
     creates breakout companies.
 related:
-  - INS-260323-960A
   - PRI-260403-26B9
   - INS-260403-6F75
   - INS-260403-E2A7
   - INS-260403-47B7
   - INS-260403-B2EB
-  - INS-260323-8893
   - INS-260328-3F19
   - INS-260328-F301
   - INS-260328-6F5B
+  - INS-260402-EEDB
+  - INS-260403-5EB4
 stance: Using another company's funding as market validation is a false signal
 evidence:
   - id: INS-260329-4605

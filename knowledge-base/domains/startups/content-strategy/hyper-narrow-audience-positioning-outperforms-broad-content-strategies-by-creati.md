@@ -55,9 +55,9 @@ related:
   - INS-260327-8DFE
   - INS-260403-D730
   - INS-260403-0680
+  - PRI-260406-80E7
   - PRI-260405-2A11
-  - INS-260322-A02C
-  - PRI-260403-26B9
+  - PRI-260406-9EF7
 ---
 The counterintuitive insight is that broad positioning ('entrepreneurs') is the worst content strategy because it attracts a diffuse audience with no shared needs. Stebbings' rule: if you can't write your exact audience in one sentence, you're too broad. His example of a great podcast: 'people who scaled a newsletter from zero to 1 million in 12 months' — specific enough that every guest, sponsor, and listener self-selects.
 

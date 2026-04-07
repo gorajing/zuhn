@@ -47,12 +47,11 @@ stance: >-
 related:
   - INS-260329-2A70
   - INS-260330-2BEC
-  - INS-260402-3FC5
   - INS-260403-A57D
+  - PRI-260406-2E0D
   - PRI-260405-E9C5
   - INS-260328-195E
-  - INS-260403-4020
-  - INS-260403-7E27
+  - PRI-260406-BAD8
   - INS-260403-7D04
 ---
 Paul Graham identifies a qualitative shift that occurs when startups cross any profitability threshold, no matter how small. Once monthly revenue covers minimal operating costs, runway becomes infinite—the founders no longer face a countdown clock forcing them to either raise or die. This matters because the cost of running internet startups has fallen so dramatically (cheap hardware, open source, web distribution, powerful languages) that profitability thresholds can be as low as $3,000/month. The practical implication is that founders who prioritize reaching even modest profitability early gain negotiating leverage that fundamentally changes their relationship with investors, converting VC from a must-have to a nice-to-have.

@@ -50,12 +50,13 @@ stance: >-
   the psychological shift from survival mode to strategic mode, enabling you to
   make bets on education, opportunities, and inventory
 related:
+  - PRI-260406-D6F8
+  - PRI-260406-407C
   - PRI-260328-BD81
+  - PRI-260406-6574
   - INS-260402-40D7
-  - INS-260403-87D9
-  - INS-260403-9173
-  - INS-260405-092A
   - INS-260329-8443
+  - INS-260403-87D9
 evidence:
   - id: INS-260402-40D7
     type: CHALLENGES

@@ -50,10 +50,10 @@ stance: >-
 related:
   - INS-260327-A25E
   - INS-260330-2EB0
+  - PRI-260406-6762
   - PRI-260328-79DA
   - INS-260330-4ACF
   - INS-260327-5DD7
-  - INS-260330-CA88
 evidence:
   - id: INS-260327-5DD7
     type: REFINES

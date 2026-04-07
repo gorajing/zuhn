@@ -58,8 +58,7 @@ related:
   - INS-260323-1643
   - INS-260403-CACB
   - INS-260330-1293
-  - INS-260330-E082
-  - INS-260330-0AD5
+  - PRI-260406-03D1
 ---
 Japan's economy has suffered from risk-averse incremental R&D by corporations, weakness in software, declining manufacturing competitiveness against China, and inefficient stimulus spending like corporate bailouts. Defense spending addresses all four problems simultaneously: it funds bolder government-directed research benefiting multiple companies, forces rapid AI and software adoption out of necessity, gives manufacturers a cushion from Chinese competition while stimulating supply chains, and provides a politically acceptable reason to cut inefficient subsidies.
 

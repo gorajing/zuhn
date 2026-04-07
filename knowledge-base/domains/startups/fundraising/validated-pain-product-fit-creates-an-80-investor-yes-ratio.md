@@ -48,10 +48,10 @@ stance: >-
   unvalidated theses
 related:
   - INS-260403-3BBB
+  - PRI-260406-ADF0
   - PRI-260403-E097
   - INS-260329-6079
-  - PRI-260327-7A68
-  - INS-260404-B2AF
+  - PRI-260406-CA93
 ---
 Co-author Chris Tottman, a founding GP at Notion Capital with $1B+ AUM across 200+ portfolio companies, claims that founders with validated pain-product fit can achieve what he calls an '80% Yes Ratio' from investors. This contrasts sharply with the typical fundraising experience where founders burn months pitching to skeptical VCs.
 

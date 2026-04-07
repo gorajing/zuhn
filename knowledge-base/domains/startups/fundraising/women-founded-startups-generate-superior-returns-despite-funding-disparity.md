@@ -48,10 +48,10 @@ stance: >-
 related:
   - INS-260324-988E
   - INS-260403-76E5
+  - PRI-260406-FC94
   - INS-260403-1823
   - INS-260402-8424
   - PRI-260405-E9C5
-  - INS-260403-4227
 ---
 The persistent gap between female founder funding rates and their return performance represents a classic market inefficiency. When the majority of capital flows to one demographic while another demographic generates superior returns per dollar invested, contrarian investors can capture alpha by systematically correcting this bias.
 

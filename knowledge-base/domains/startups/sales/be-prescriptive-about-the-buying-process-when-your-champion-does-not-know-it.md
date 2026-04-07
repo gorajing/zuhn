@@ -56,10 +56,10 @@ stance: >-
   than deferring to the buyer -- accelerates deals and builds credibility.
 related:
   - INS-260325-FDF5
+  - PRI-260406-CCAE
   - INS-260330-C095
   - INS-260403-FB4D
   - INS-260327-6B78
-  - INS-260403-318A
 evidence:
   - id: INS-260325-FDF5
     type: CONTRADICTS

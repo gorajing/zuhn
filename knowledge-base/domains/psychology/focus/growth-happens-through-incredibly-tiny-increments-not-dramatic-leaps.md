@@ -47,11 +47,11 @@ stance: >-
   of the first step far enough, and there is nearly always a version small
   enough to begin.
 related:
+  - PRI-260406-B9B4
   - INS-260403-42B8
   - INS-260329-8F98
   - INS-260328-0345
   - PRI-260328-4313
-  - INS-260325-C8D5
 evidence:
   - id: INS-260330-4AD5
     type: CHALLENGES

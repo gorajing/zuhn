@@ -52,8 +52,8 @@ related:
   - INS-260326-80B1
   - INS-260329-F7F4
   - INS-260404-B2AF
+  - PRI-260406-9780
   - INS-260323-4457
-  - PRI-260405-0AC6
 ---
 Historically, building even a basic interactive prototype required significant engineering time, which rationed how many ideas a product team could explore. AI prototyping tools like Bolt and v0 can produce functional multi-page prototypes in under 10 minutes from a text prompt or Figma screenshot. This collapses the cost of the 'build' phase in build-measure-learn nearly to zero.
 

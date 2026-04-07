@@ -50,9 +50,9 @@ stance: >-
   undead companies that cannot scale, exit, or die, fundamentally breaking the
   venture ecosystem's recycling mechanism
 related:
-  - INS-260403-5F03
-  - INS-260403-968A
   - INS-260403-F387
+  - PRI-260406-C932
+  - INS-260403-968A
   - INS-260403-67AB
   - INS-260403-5056
 ---

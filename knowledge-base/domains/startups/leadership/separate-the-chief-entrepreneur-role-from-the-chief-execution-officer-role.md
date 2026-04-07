@@ -53,11 +53,11 @@ stance: >-
   business and drive disruptive innovation create a structural conflict that
   almost always resolves in favor of exploitation over exploration.
 related:
+  - PRI-260406-CBC2
   - INS-260404-8520
+  - PRI-260406-5F31
   - INS-260405-0271
   - INS-260404-1137
-  - INS-260403-7563
-  - INS-260322-EAB6
 evidence:
   - id: INS-260322-EAB6
     type: TRANSFERS_TO

@@ -51,9 +51,9 @@ stance: >-
 related:
   - INS-260330-F527
   - INS-260403-C0FE
+  - PRI-260406-2BC0
   - INS-260405-AEA0
   - INS-260404-5BBF
-  - INS-260323-D621
 ---
 Noah Smith argues that when Western authors like Graham Allison and Michael Pillsbury describe China as a patient, far-sighted strategic planner, they're less describing Chinese reality and more articulating what they want America to become. Kissinger's Go metaphor didn't reflect Chinese strategic culture (the Chinese play xiangqi, a faster, more tactical chess variant) — it reflected how Kissinger wanted America to respond to China.
 

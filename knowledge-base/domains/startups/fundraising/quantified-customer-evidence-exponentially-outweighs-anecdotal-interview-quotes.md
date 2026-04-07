@@ -51,9 +51,9 @@ stance: >-
 related:
   - INS-260329-E900
   - INS-260404-36F1
+  - PRI-260406-07C2
+  - PRI-260406-B314
   - INS-260404-405A
-  - INS-260403-DD95
-  - INS-260403-53AA
 ---
 The framework draws a clear evidence hierarchy: quantified customer patterns beat individual interview quotes, which beat market statistics. Saying 'this market is growing 60% per year' is only mildly convincing of PMF because market growth doesn't prove your product fits. Saying 'heard in customer interview' is weaker than '8 out of 10 customers mention this.'
 

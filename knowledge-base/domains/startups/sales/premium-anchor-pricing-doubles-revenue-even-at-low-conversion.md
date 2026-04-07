@@ -50,7 +50,7 @@ related:
   - INS-260404-6D22
   - PRI-260328-6A8D
   - INS-260404-7D4D
-  - INS-260329-F6E1
+  - PRI-260406-5BD0
 ---
 Hormozi demonstrates the math: if 100 buyers see a $100 base and a $1,000 premium, and 10% choose premium, the premium tier generates $10,000 in pure-margin revenue versus $3,600 profit from 90 base buyers at 40% margin. Three-quarters of total profit comes from the expensive tier despite representing only 10% of volume.
 

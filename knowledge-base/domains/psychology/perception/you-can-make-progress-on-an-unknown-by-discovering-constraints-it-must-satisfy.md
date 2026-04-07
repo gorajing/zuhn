@@ -46,11 +46,11 @@ stance: >-
   When you cannot determine what something is directly, discovering properties
   it must have often lets you reverse-engineer the answer.
 related:
+  - PRI-260406-1188
   - INS-260325-898A
   - INS-260330-C31B
   - INS-260329-0CC5
   - INS-260330-579B
-  - INS-260330-1E5E
 evidence:
   - id: INS-260330-C31B
     type: EXTENDS

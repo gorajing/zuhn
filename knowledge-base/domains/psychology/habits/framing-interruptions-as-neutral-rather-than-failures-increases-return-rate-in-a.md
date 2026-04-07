@@ -60,11 +60,11 @@ stance: >-
   only the noticing in this instant matters — produces more consistent habit
   return than framing wandering as failure
 related:
+  - PRI-260406-AA7D
   - INS-260405-E6F5
+  - PRI-260406-0E02
   - PRI-260403-9D15
   - INS-260329-0487
-  - INS-260403-1CC5
-  - INS-260327-1787
 evidence:
   - id: INS-260327-1787
     type: SUPPORTS

@@ -55,7 +55,7 @@ related:
   - INS-260320-8688
   - INS-260403-914F
   - INS-260403-3A2C
-  - INS-260403-1217
+  - PRI-260406-1F70
 ---
 Every major cloud and SaaS provider fights to lock in founders early because switching costs compound over time. This isn't charity — it's customer acquisition at scale. AWS, GCP, and Azure all know that a startup trained on their platform during the credit period is unlikely to migrate once real workloads are running. Algolia is explicitly noted as being 'sticky' with painful migration paths.
 

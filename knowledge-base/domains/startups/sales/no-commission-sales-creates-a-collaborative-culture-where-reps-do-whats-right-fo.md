@@ -71,8 +71,8 @@ related:
   - INS-260329-1318
   - INS-260403-4120
   - INS-260404-F212
+  - PRI-260406-21DA
   - INS-260327-0833
-  - INS-260327-5690
 evidence:
   - id: INS-260327-5690
     type: EXTENDS

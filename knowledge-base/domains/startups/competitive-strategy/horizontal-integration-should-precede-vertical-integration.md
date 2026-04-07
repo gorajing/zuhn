@@ -52,9 +52,9 @@ stance: >-
 related:
   - INS-260327-A654
   - INS-260330-E853
+  - PRI-260406-487A
   - INS-260330-0525
-  - PRI-260328-43F1
-  - PRI-260328-37D8
+  - PRI-260406-466E
 evidence:
   - id: INS-260327-A654
     type: TRANSFERS_TO

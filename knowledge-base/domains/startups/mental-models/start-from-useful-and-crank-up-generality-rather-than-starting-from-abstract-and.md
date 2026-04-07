@@ -49,11 +49,11 @@ stance: >-
   specific useful observations and progressively generalize them, not to start
   with the most abstract questions and work down.
 related:
+  - PRI-260406-6D40
   - INS-260403-C6DC
   - INS-260405-2849
   - INS-260403-FFF0
   - INS-260403-8C36
-  - PRI-260403-F981
 evidence:
   - id: INS-260327-48A5
     type: SUPPORTS

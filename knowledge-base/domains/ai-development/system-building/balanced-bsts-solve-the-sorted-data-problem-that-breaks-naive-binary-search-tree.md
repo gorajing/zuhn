@@ -49,10 +49,10 @@ stance: >-
   linked lists
 related:
   - INS-260329-8D70
+  - PRI-260406-0FF1
   - INS-260329-FAE2
   - INS-260330-FCFA
   - INS-260330-CAE6
-  - INS-260403-11F9
 evidence:
   - id: INS-260329-8D70
     type: SUPPORTS

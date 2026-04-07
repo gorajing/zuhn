@@ -46,10 +46,10 @@ resolutions:
     market validation.
 related:
   - PRI-260328-7A4D
+  - PRI-260406-5CA8
   - INS-260402-B12D
   - INS-260404-D147
   - PRI-260322-DCDB
-  - INS-260325-59D4
 stance: >-
   Stan Lee tested Spider-Man in a dying magazine's last issue because nobody
   cared what went in it

@@ -53,8 +53,9 @@ related:
   - INS-260404-B016
   - INS-260404-12FB
   - INS-260404-5684
+  - PRI-260406-6C6C
   - INS-260403-118B
-  - INS-260405-D959
+  - PRI-260406-97BB
 ---
 The fund launches cataloged in this roundup reveal a striking pattern: ARCH closes $3B+ for biotech, Atomico raises $1.24B for European tech, BlackRock/Microsoft collaborate on an AI infrastructure fund, while simultaneously sub-$100M funds launch with razor-sharp theses (Hungarian startups, early-stage only, ecosystem-leveraging). The traditional $200-500M generalist fund is conspicuously absent from new formation activity.
 

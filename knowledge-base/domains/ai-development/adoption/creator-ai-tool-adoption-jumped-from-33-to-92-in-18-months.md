@@ -52,7 +52,6 @@ related:
   - INS-260403-4819
   - INS-260403-19C9
   - INS-260404-02C8
-  - INS-260405-4B31
   - INS-260405-2287
 ---
 YouTube's data reveals that creator adoption of generative AI tools has gone from a minority activity to near-universal in just 18 months. This adoption curve is remarkably steep compared to previous technology shifts in the creator space (e.g., mobile-first content, short-form video).

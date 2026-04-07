@@ -47,11 +47,10 @@ stance: >-
   every stage of a startup's life
 related:
   - INS-260403-7881
+  - PRI-260406-4B0E
   - PRI-260405-BF5B
   - INS-260404-00DE
   - INS-260323-1FC1
-  - INS-260403-4227
-  - INS-260402-C13F
   - INS-260403-4093
 evidence:
   - id: INS-260330-B906

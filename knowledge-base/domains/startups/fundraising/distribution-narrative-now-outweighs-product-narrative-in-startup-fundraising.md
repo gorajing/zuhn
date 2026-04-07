@@ -51,12 +51,12 @@ related:
   - INS-260402-15A7
   - INS-260404-2250
   - INS-260404-8321
-  - INS-260403-1DDC
-  - INS-260403-C200
   - INS-260405-7F42
+  - PRI-260406-4397
   - PRI-260405-E9C5
   - INS-260403-64F1
   - PRI-260403-26B9
+  - PRI-260406-8DF5
 ---
 Multiple signals in this roundup converge on a single thesis: distribution is the new moat. VCs themselves are building newsletters for distribution. The advice to founders is to 'give VCs a reason to find you' rather than cold-pitching. And the funding concentration data shows that capital flows to startups with proven market pull, not just technical differentiation.
 

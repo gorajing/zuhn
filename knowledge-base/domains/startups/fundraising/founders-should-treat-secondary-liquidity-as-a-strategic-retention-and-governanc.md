@@ -53,15 +53,13 @@ stance: >-
   investors will retain talent better and maintain cleaner cap tables than those
   who treat secondaries as a last resort.
 related:
-  - INS-260404-36F3
   - INS-260405-BD2E
   - INS-260403-6F9C
-  - INS-260403-E294
   - INS-260403-F0D4
+  - PRI-260406-0A0B
   - INS-260403-6D4F
+  - INS-260403-E294
   - INS-260330-D8D1
-  - INS-260403-53A4
-  - INS-260403-A8BA
 ---
 With startups staying private far longer than the traditional 7-10 year window, employee equity has become increasingly illiquid. This creates a talent retention crisis—employees holding paper wealth can't pay mortgages with stock options. Founders who proactively offer structured secondary liquidity events (tender offers, direct secondaries) can partially cash out early employees, clean up cap tables by consolidating scattered angel positions, and extend private growth periods without the pressure to rush to IPO.
 

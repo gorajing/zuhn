@@ -48,11 +48,11 @@ stance: >-
 related:
   - INS-260329-595E
   - INS-260403-8448
+  - PRI-260406-C6C3
   - INS-260405-7698
   - INS-260404-3C7A
   - INS-260403-8DCB
   - INS-260403-3CD0
-  - PRI-260328-21AD
   - INS-260403-6EBD
 ---
 Ben Horowitz argues that the ability to win competitive deals is a stronger return driver than superior selection ability. The reasoning is that winning creates a compounding loop: winners attract the best pickers, who make the firm better at winning, which attracts more deal flow. This contradicts the common VC belief that returns come primarily from superior judgment.

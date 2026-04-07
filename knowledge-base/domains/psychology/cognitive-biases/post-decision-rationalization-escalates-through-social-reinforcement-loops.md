@@ -52,10 +52,10 @@ stance: >-
   when their social group rewards this behavior.
 related:
   - INS-260330-C548
+  - PRI-260406-D287
   - PRI-260324-E8C6
   - PRI-260323-2C5C
   - INS-260403-3AE7
-  - INS-260329-59A5
 evidence:
   - id: INS-260329-59A5
     type: REFINES

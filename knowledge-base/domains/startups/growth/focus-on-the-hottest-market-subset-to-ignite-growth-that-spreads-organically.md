@@ -47,7 +47,6 @@ stance: >-
   market.
 related:
   - INS-260321-807B
-  - INS-260327-505A
   - INS-260327-22E8
   - INS-260328-ACC3
   - INS-260402-15A7

@@ -51,11 +51,11 @@ stance: >-
   copilot-to-autopilot trajectory where trust builds through demonstrated
   reliability on routine compliance tasks
 related:
-  - INS-260327-0762
   - INS-260403-16AB
   - INS-260321-9A03
+  - INS-260327-0762
   - INS-260325-BC2A
-  - INS-260403-D531
+  - PRI-260406-7E0C
 evidence:
   - id: INS-260327-0762
     type: SUPPORTS

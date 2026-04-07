@@ -51,10 +51,10 @@ stance: >-
   feature breadth.
 related:
   - INS-260403-4388
+  - PRI-260406-58FA
   - INS-260403-501D
   - INS-260403-53B0
   - INS-260403-1817
-  - INS-260403-64AE
 evidence:
   - id: INS-260322-B641
     type: CHALLENGES

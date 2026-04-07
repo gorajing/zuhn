@@ -50,9 +50,9 @@ stance: >-
   intellectually dishonest and empirically wrong
 related:
   - PRI-260323-0F93
+  - PRI-260406-90C7
   - PRI-260328-3FEF
   - INS-260403-3E9A
   - INS-260330-121C
-  - PRI-260323-81E9
 ---
 Some economists reflexively label the preference expressed through immediate action as 'revealed' and genuine, while dismissing stated preferences as cheap talk or signaling. But this framework produces absurd conclusions: an alcoholic's 'real' preference is to drink, their $10,000 rehab is a signal, their relapse proves the signal was fake, and their eventual lasting sobriety is a coincidental preference change. George Ainslie's model of genuinely time-inconsistent preferences is both more parsimonious and more empirically grounded — people really do have multiple conflicting preference sets, each capable of enlisting different parts of their planning and decision-making apparatus. This matters beyond academic economics: any system that only respects 'revealed' immediate-action preferences will systematically under-serve people's reflective, long-term goals across domains from savings to health to charitable giving.

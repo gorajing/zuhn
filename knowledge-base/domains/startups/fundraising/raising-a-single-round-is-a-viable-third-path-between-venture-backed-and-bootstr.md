@@ -58,12 +58,12 @@ stance: >-
 related:
   - INS-260403-C557
   - INS-260403-D970
-  - INS-260403-E175
   - INS-260403-70B9
   - INS-260403-64F1
   - INS-260403-DE9B
-  - INS-260404-7E85
-  - INS-260403-6FB9
+  - PRI-260406-3317
+  - PRI-260406-4397
+  - PRI-260406-B9A3
 ---
 Jason Lemkin's 'third way' framework challenges the false binary that founders typically face: either take institutional VC (and accept the growth treadmill, board dynamics, and dilution that comes with it) or bootstrap entirely (and accept slower growth, capital constraints, and personal financial risk). The single-round path captures benefits of both: external capital validates the business and funds early hiring, while the absence of follow-on rounds keeps the founder in control of exit timing and scale ambitions.
 

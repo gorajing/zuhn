@@ -48,8 +48,8 @@ related:
   - INS-260323-0603
   - INS-260325-560A
   - PRI-260403-F981
+  - PRI-260406-C60B
   - INS-260402-F3D7
-  - PRI-260323-287B
   - INS-260403-9120
 stance: >-
   Free speech and scientific inquiry are both rooted in the recognition that

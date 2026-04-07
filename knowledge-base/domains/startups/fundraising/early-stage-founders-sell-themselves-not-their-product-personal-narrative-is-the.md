@@ -58,10 +58,10 @@ related:
   - PRI-260405-E9C5
   - INS-260403-64F1
   - INS-260322-EF20
-  - INS-260328-3FA4
   - INS-260403-832E
   - INS-260403-0618
   - INS-260405-7F42
+  - INS-260403-55E6
 stance: >-
   At pre-seed and seed stage, investors and early customers are betting on the
   founder's story and character, not the product.

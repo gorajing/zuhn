@@ -53,5 +53,7 @@ related:
   - INS-260405-285D
   - INS-260403-1E5F
   - INS-260403-3F5F
+  - PRI-260406-DE8A
+  - PRI-260406-FD1C
 ---
 The naive calculation — divide new valuation by your entry valuation — ignores that every subsequent round issues new shares, shrinking your ownership percentage. A seed investor who owns 10% at $16M post-money and gets diluted to 3.5% by series B/C/D still 'wins' when the company reaches $250M, but the actual multiple is dramatically lower than the headline number suggests. This matters for three reasons: (1) angel investors projecting portfolio returns must model dilution per round, not just terminal valuation; (2) founders granting early employees options need to communicate realistic outcomes; (3) VCs marketing fund performance should be scrutinized against ownership percentages, not just portfolio company valuations. The rule of thumb: assume 50-70% dilution from seed to late stage in a well-funded company.

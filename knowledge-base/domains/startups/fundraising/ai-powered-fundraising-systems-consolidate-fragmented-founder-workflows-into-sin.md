@@ -56,9 +56,9 @@ stance: >-
 related:
   - INS-260329-BB8F
   - INS-260403-F148
-  - INS-260330-0CAD
   - INS-260323-BF81
   - INS-260402-8C42
+  - PRI-260406-EC93
   - INS-260403-3A67
 ---
 The traditional fundraising stack involves separate tools for CRM, deck creation, investor research, email outreach, and data room management. Each tool boundary creates friction and data loss. An integrated system like this Notion-based kit allows AI to operate across the full context — personalizing outreach based on investor preferences tracked in the CRM, iterating decks based on logged feedback, and auto-updating pipeline status from email interactions.

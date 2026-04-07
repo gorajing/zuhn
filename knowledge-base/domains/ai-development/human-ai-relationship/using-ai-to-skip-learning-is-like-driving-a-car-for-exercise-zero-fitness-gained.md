@@ -50,13 +50,13 @@ related:
   - INS-260322-5A0F
   - PRI-260323-C49D
   - PRI-260403-2376
+  - PRI-260406-A5F0
   - PRI-260405-9A14
-  - PRI-260405-49C0
   - INS-260323-B497
   - INS-260323-5D6D
   - INS-260327-3B69
   - INS-260329-023F
-  - INS-260330-2DB0
+  - INS-260403-0907
 stance: >-
   Using AI to do learning-stage work (writing, reasoning) destroys the cognitive
   development the work was designed to build, creating a generation th...

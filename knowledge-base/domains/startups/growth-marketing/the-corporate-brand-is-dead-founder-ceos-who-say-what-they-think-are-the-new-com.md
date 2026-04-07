@@ -51,10 +51,10 @@ resolutions:
     interestingness.
 related:
   - PRI-260321-5857
+  - PRI-260406-6AE6
   - INS-260403-952F
   - INS-260327-735A
   - INS-260328-0DFE
-  - INS-260330-2347
   - INS-260328-D26B
 stance: >-
   Professional CEOs trained to say nothing on stage now lose to founder CEOs

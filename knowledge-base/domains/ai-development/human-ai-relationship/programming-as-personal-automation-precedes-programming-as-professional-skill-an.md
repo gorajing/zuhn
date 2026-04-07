@@ -58,10 +58,10 @@ stance: >-
 related:
   - INS-260320-6A9D
   - PRI-260320-097F
+  - PRI-260406-DDE1
   - INS-260402-F62B
   - INS-260403-648C
   - INS-260322-EDA4
-  - INS-260330-579B
 evidence:
   - id: INS-260320-6A9D
     type: EXTENDS

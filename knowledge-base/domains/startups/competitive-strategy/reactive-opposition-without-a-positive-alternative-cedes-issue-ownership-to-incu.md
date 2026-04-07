@@ -52,9 +52,9 @@ stance: >-
 related:
   - INS-260330-6050
   - INS-260403-C8FB
+  - PRI-260406-B331
   - INS-260330-EC76
   - INS-260405-246B
-  - INS-260403-FFD2
 ---
 Noah Smith demonstrates through polling data that even when Trump's immigration enforcement is deeply unpopular, voters still trust Republicans more on immigration because Democrats lack a credible alternative policy. This maps directly to competitive strategy: when an incumbent is failing, challengers who only highlight the incumbent's failures without presenting their own solution fail to capture the opportunity. The challenger must proactively define what they would do differently, not just react to what the incumbent does wrong.
 

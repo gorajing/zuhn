@@ -39,10 +39,10 @@ resolutions:
 related:
   - INS-260321-099E
   - PRI-260321-558C
+  - PRI-260406-CA09
   - INS-260403-CE95
+  - PRI-260406-FCF0
   - INS-260324-C33C
-  - INS-260403-0218
-  - INS-260404-A893
 stance: Markets (topics) rarely change and can't be invented
 evidence:
   - id: INS-260403-CE95

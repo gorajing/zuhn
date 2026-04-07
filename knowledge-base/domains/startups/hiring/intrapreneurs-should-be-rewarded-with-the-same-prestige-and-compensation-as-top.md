@@ -51,8 +51,8 @@ related:
   - INS-260327-9C00
   - INS-260323-E9E4
   - INS-260403-3F2C
+  - PRI-260406-CCAE
   - INS-260403-CBFF
-  - INS-260330-E170
 ---
 There's a structural asymmetry in how companies reward value creation: a salesperson who closes a billion-dollar deal gets commissions, bonuses, and prestige, while an intrapreneur who builds a billion-dollar new business line often gets a standard salary bump at best. This makes entrepreneurship outside the company far more attractive.
 

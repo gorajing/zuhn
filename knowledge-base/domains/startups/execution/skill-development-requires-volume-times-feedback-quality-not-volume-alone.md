@@ -47,12 +47,11 @@ stance: >-
   didn't produces minimal skill improvement compared to the same volume with
   structured self-assessment
 related:
-  - INS-260322-D1AB
+  - PRI-260406-8FDF
   - PRI-260323-9D46
   - INS-260403-4935
   - INS-260403-F943
-  - INS-260325-FDA9
-  - INS-260327-1787
+  - PRI-260406-DE8A
   - INS-260403-EA2C
   - INS-260322-F891
   - INS-260405-5E18

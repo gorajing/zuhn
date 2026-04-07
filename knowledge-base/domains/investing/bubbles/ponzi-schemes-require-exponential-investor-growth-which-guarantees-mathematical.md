@@ -43,11 +43,11 @@ stance: >-
   Any investment requiring constant new capital inflows to pay existing returns
   is structurally doomed to collapse regardless of the operator's skill.
 related:
+  - PRI-260406-ADF0
   - INS-260403-227D
+  - PRI-260406-CA93
   - INS-260403-9775
   - INS-260403-82B5
-  - INS-260330-478B
-  - INS-260402-318B
 evidence:
   - id: INS-260330-478B
     type: SUPPORTS

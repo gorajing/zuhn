@@ -64,11 +64,11 @@ stance: >-
   revenue, enablers who improve productivity, leaders who seek growth)
   determines your entire sales motion.
 related:
+  - PRI-260406-CCAE
   - INS-260330-809A
   - INS-260329-B28C
   - PRI-260328-95E3
   - INS-260329-C0F1
-  - INS-260403-0435
 evidence:
   - id: INS-260325-FDF5
     type: CONTRADICTS

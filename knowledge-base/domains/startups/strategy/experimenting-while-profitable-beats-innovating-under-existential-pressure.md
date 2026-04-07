@@ -48,10 +48,11 @@ stance: >-
   both survival and invention
 related:
   - INS-260403-62B2
+  - PRI-260406-17AA
   - INS-260404-BD46
+  - PRI-260406-4EBD
+  - PRI-260406-5E06
   - INS-260403-E25F
-  - INS-260403-C8B9
-  - INS-260403-8D2C
   - INS-260404-C92A
 ---
 McDonald's illustrates the deadly timing trap: by waiting until the core business needed saving, the company faced a two-front war. The existing business model — which would normally finance experimentation — itself needed rescue, creating a resource conflict between survive-now and invent-the-future.

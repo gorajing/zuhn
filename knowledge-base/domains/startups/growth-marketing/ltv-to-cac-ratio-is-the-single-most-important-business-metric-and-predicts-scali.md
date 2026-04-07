@@ -48,14 +48,14 @@ stance: >-
   metric that matters for determining whether and how far a business can scale,
   with ratios of 30:1 to 100:1 indicating massive scaling opportunity.
 related:
-  - INS-260321-E8CB
   - INS-260329-ADCD
   - INS-260329-1962
   - INS-260329-CBF6
   - INS-260405-4B5D
   - INS-260403-A93A
-  - INS-260403-44E9
+  - PRI-260406-DE8A
   - INS-260403-448C
+  - INS-260403-44E9
 evidence:
   - id: INS-260325-8A61
     type: TRANSFERS_TO

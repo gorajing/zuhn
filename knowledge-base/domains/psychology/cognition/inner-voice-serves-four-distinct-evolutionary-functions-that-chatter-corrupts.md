@@ -48,7 +48,7 @@ stance: >-
   verbal working memory, simulation/planning, self-control, and narrative
   identity — and chatter represents the dysfunction of this same system
 related:
-  - INS-260327-F4DB
+  - PRI-260406-7A21
   - INS-260403-50B0
   - INS-260323-87F3
   - PRI-260403-88F5

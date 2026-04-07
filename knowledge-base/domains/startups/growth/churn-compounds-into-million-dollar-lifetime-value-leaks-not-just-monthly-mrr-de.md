@@ -51,10 +51,10 @@ stance: >-
 related:
   - INS-260403-E69C
   - INS-260403-458A
+  - PRI-260406-58FA
   - PRI-260324-7ED9
   - INS-260403-53B0
   - INS-260403-12B4
-  - INS-260324-DB86
 ---
 Founders typically frame churn as a monthly percentage—3% here, a few logos there. But the real cost is exponential, not linear. A $150K ARR customer in a high-margin SaaS business could generate over $1M in profit across a 7-8 year lifetime. When that customer leaves, you don't lose $150K—you lose the entire compounding trajectory.
 

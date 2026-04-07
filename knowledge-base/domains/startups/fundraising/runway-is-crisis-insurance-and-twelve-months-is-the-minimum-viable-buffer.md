@@ -55,10 +55,10 @@ stance: >-
   rather than as operating comfort
 related:
   - INS-260403-2A30
-  - INS-260403-7318
   - INS-260402-2300
+  - PRI-260406-1A4D
+  - INS-260403-7318
   - INS-260403-C5D8
-  - INS-260404-8394
 ---
 Levine reframes the standard advice about maintaining 12-18 months of runway: it's not about operational comfort or investor expectations, but about crisis preparedness. When runway drops below a critical threshold, the founder's time allocation shifts almost entirely to fundraising, which means they can't simultaneously execute a crisis recovery plan.
 

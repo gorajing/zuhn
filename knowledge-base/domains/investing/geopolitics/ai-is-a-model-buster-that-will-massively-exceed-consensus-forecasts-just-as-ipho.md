@@ -61,10 +61,10 @@ related:
   - PRI-260405-B144
   - INS-260402-BCEC
   - PRI-260328-C918
-  - INS-260325-C29B
-  - INS-260323-5986
-  - INS-260327-F50E
   - INS-260328-91A1
+  - INS-260402-8E46
+  - INS-260405-DFBC
+  - INS-260403-6F22
 stance: AI companies will be 'model busters'
 evidence:
   - id: INS-260322-8BD1

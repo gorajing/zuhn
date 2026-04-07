@@ -52,10 +52,10 @@ stance: >-
   be more capital-efficient and market-aware
 related:
   - PRI-260405-E9C5
+  - PRI-260406-070D
+  - PRI-260406-CB40
   - INS-260403-D98E
-  - INS-260403-5031
-  - INS-260403-5056
-  - INS-260403-AB11
+  - PRI-260406-1F70
   - INS-260403-8448
   - INS-260403-B255
 evidence:

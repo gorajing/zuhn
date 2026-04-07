@@ -54,6 +54,7 @@ stance: >-
   similar work themselves.
 related:
   - INS-260403-1228
+  - PRI-260406-D7EA
   - INS-260404-4985
   - INS-260403-56A9
   - INS-260404-E716

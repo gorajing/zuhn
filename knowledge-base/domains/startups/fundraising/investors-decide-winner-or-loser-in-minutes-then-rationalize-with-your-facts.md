@@ -43,7 +43,6 @@ stance: >-
   Investor conviction about founders is set in the first few minutes and
   subsequent analysis is primarily confirmation bias in either direction
 related:
-  - INS-260327-DBA1
   - INS-260330-3AF9
   - INS-260403-94EB
   - INS-260327-D982
@@ -52,7 +51,6 @@ related:
   - INS-260405-12E6
   - INS-260403-02E2
   - INS-260403-793D
-  - INS-260403-CF92
 ---
 The same startup characteristic — say, a rich market with a slow sales cycle — gets framed as a positive by investors who like you and a dealbreaker by those who don't. This isn't intentional deception; investors are genuinely unclear about why they like or dislike startups. The formidable-founder impression acts as a lens that colors everything that follows.
 

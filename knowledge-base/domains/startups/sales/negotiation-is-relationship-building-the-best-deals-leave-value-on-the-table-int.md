@@ -46,12 +46,11 @@ stance: >-
   consistently earn more lifetime value, because repeat dealings with trusted
   counterparts eliminate acquisition costs.
 related:
-  - INS-260329-8542
   - INS-260329-3D14
+  - PRI-260406-CA93
   - INS-260404-98EE
   - INS-260404-6D22
   - INS-260404-7295
-  - INS-260403-6F8B
 evidence:
   - id: INS-260330-8FEC
     type: TRANSFERS_TO

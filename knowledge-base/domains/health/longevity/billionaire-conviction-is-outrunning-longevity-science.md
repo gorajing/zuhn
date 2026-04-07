@@ -50,7 +50,6 @@ stance: >-
   conviction than by scientific readiness, creating a momentum-science gap that
   founders and investors must navigate carefully.
 related:
-  - INS-260403-04AF
   - INS-260403-690C
   - PRI-260325-2800
   - INS-260325-90C6

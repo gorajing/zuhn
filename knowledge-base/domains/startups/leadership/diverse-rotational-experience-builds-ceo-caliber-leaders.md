@@ -49,11 +49,11 @@ stance: >-
   rotations even when they are excelling in their current role, because breadth
   of experience is what enables the judgment needed for the top job.
 related:
+  - PRI-260406-FBCE
   - INS-260329-B424
   - INS-260330-FB34
   - INS-260330-341D
   - INS-260404-D3C3
-  - INS-260330-85C2
 evidence:
   - id: INS-260329-B424
     type: TRANSFERS_TO

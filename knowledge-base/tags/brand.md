@@ -1,8 +1,8 @@
 # Tag: brand
 
 - `INS-260330-9A34` Mechanical watches needed to be accurate to within 5 seconds/day — not as good as quartz, but good enough that wearing one didn't break the luxury illusion.
-- `INS-260405-0810` More than half of Google searches end without a click, and AI accelerates this trend — meaning brand presence in the answer is worth more than the click itself.
 - `INS-260405-39A6` Costco's 15% markup cap is a credible promise — customers know the rule, which is why they don't bother price-checking elsewhere.
+- `INS-260405-0810` More than half of Google searches end without a click, and AI accelerates this trend — meaning brand presence in the answer is worth more than the click itself.
 - `INS-260403-7B04` AI app-layer tech is commoditizing so fast that brand and distribution are now the primary moats.
 - `INS-260405-9015` Anthropic's Pentagon conflict drove it from #120 to #1 on the App Store—an outcome no ad campaign had achieved
 - `INS-260330-9DE6` Omega died chasing performance against quartz while Patek survived by pivoting to brand, proving that doubling down on a commoditized advantage is fatal.

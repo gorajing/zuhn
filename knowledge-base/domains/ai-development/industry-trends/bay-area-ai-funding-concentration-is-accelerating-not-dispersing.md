@@ -49,7 +49,6 @@ stance: >-
   prior year — suggesting that AI capital is concentrating, not diffusing,
   toward established tech hubs.
 related:
-  - INS-260404-9B51
   - INS-260405-3E92
   - INS-260405-DDC2
   - INS-260403-5CBD
@@ -59,5 +58,6 @@ related:
   - INS-260403-3BFA
   - INS-260405-ED7E
   - INS-260405-ABB4
+  - INS-260403-C89A
 ---
 The popular narrative that AI will democratize startup ecosystems globally is contradicted by capital flow data. In 2023, the Bay Area's share of AI funding grew in both absolute terms (nearly doubled) and relative terms (29% of all global AI money). This matters for several reasons: talent follows capital, which means AI talent density in SF/SV is self-reinforcing; founders outside this geography face a structural fundraising disadvantage for AI-native companies; and policy discussions about AI governance are disproportionately shaped by a geographically concentrated set of companies and investors. The counterintuitive takeaway for non-Bay Area founders: competing with SF-based AI companies on their terms is increasingly difficult, so differentiation must come from domain specificity, regulatory adjacency, or customer access that SF companies cannot replicate remotely.

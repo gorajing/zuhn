@@ -50,9 +50,9 @@ stance: >-
 related:
   - INS-260404-40F2
   - INS-260403-822B
+  - PRI-260406-E880
   - INS-260404-63D5
   - INS-260405-1EFD
-  - INS-260404-8DEE
 ---
 WeWork's Series D deck is described as the most useful deck in the collection specifically because it illustrates what happens when narrative detaches from fundamentals. The slides read like a storytelling masterclass, yet the business behind them was hollow. WeWork raised $355M on that disconnect.
 

@@ -49,7 +49,7 @@ related:
   - INS-260404-304E
   - INS-260403-CDF1
   - INS-260322-C472
+  - PRI-260406-901E
   - INS-260327-4DDE
-  - INS-260403-185D
 ---
 Most early-stage startups oscillate between two extremes: flying blind on intuition or over-investing in sophisticated analytics platforms they can't fully utilize. The article argues that a structured spreadsheet—with raw data input, automated monthly analysis, and yearly aggregation—hits the sweet spot. It requires roughly 10 minutes per month of data entry but surfaces trends in retention, revenue, cancellations, and average order value that would otherwise go unnoticed. The key insight is that operational discipline doesn't require a CFO or a BI platform; it requires consistent data collection in a structured format. This is especially valuable for seed-to-Series B teams where resources are constrained but the cost of missing warning signs is existential.

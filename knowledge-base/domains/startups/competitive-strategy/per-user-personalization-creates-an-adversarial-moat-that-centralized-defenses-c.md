@@ -48,10 +48,10 @@ stance: >-
   against a single shared model.
 related:
   - INS-260321-D01E
+  - PRI-260406-2BC0
   - INS-260327-7299
   - INS-260327-C962
   - INS-260403-751D
-  - INS-260330-EF64
 evidence:
   - id: INS-260321-D01E
     type: CHALLENGES

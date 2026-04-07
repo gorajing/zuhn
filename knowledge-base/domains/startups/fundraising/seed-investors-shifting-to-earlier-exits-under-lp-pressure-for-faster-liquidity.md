@@ -45,15 +45,15 @@ stance: >-
   Seed-stage VCs will increasingly optimize for quicker exits over long-term
   returns as LP demands for faster liquidity reshape early-stage fund strategies
 related:
-  - INS-260403-6BDC
   - INS-260403-248E
   - INS-260403-0BD4
-  - INS-260403-C377
   - INS-260403-3562
   - INS-260403-FA65
-  - INS-260403-6044
   - INS-260403-53A4
   - INS-260403-E294
   - INS-260403-DA33
+  - INS-260405-863C
+  - INS-260403-1438
+  - INS-260403-36DB
 ---
 Venture returns overall are declining, and this is hitting seed-stage funds especially hard. Limited partners are pressuring fund managers for faster liquidity cycles, which is causing seed investors to favor earlier exits over the traditional long hold strategy. This has downstream effects on founders: seed-round terms may increasingly include provisions that facilitate quicker acquisitions rather than supporting the long runway to IPO. For founders raising seed rounds, this means understanding your investor's exit timeline expectations is now a critical diligence question — misalignment here can create destructive tension when growth-stage decisions arrive.

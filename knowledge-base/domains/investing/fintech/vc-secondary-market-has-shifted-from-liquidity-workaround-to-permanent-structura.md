@@ -50,14 +50,15 @@ stance: >-
   permanent structural layer in venture capital that will persist even when IPO
   windows reopen.
 related:
+  - PRI-260406-2129
   - INS-260404-B661
   - INS-260404-E55F
   - INS-260405-C49E
   - INS-260405-2F43
-  - INS-260403-2668
   - INS-260405-25E5
   - INS-260404-DA3A
   - INS-260405-B7C0
+  - INS-260403-2668
 ---
 The VC secondary market hit $152 billion in 2024 transaction volume, up 39% year-over-year, and now accounts for nearly 29% of all venture deal activity (up from 16% in 2020). This growth isn't purely reactive to frozen IPO markets—top-tier funds are proactively building secondary paths into their fund lifecycle through continuation vehicles, structured tenders, and LP-led transfers. LPs are now negotiating transfer rights and liquidity windows during fund formation itself.
 

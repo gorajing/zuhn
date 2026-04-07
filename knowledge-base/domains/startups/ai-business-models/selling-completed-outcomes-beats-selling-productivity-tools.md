@@ -47,7 +47,7 @@ related:
   - INS-260322-83D4
   - INS-260403-2E0F
   - INS-260403-8008
+  - PRI-260406-40ED
   - INS-260403-7E7C
-  - INS-260403-754F
 ---
 Sequoia's thesis argues that industries like accounting, healthcare billing, recruitment, and insurance brokerage are ripe for AI systems that deliver finished outcomes directly — not dashboards or workflows, but completed tax filings, processed claims, and placed candidates. This inverts the SaaS model: instead of charging for seats and feature access, you charge for work done. The margin structure is radically different because you capture the full value of the labor replaced, not a fraction of it as a tool fee. For founders, this means the largest opportunities may look like service businesses automated by AI rather than traditional software products, and the go-to-market resembles outsourcing displacement more than software sales.

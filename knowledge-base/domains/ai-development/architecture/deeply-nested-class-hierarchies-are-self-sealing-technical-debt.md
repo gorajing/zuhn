@@ -52,8 +52,8 @@ stance: >-
   flexible.
 related:
   - INS-260329-E333
-  - INS-260329-6D6C
   - INS-260329-41BC
+  - PRI-260406-D02A
   - INS-260330-CE2F
   - PRI-260405-F9BD
   - INS-260329-BA12

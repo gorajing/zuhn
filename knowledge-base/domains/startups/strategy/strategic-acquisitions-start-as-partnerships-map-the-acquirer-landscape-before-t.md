@@ -52,7 +52,6 @@ stance: >-
   building integration relationships with likely acquirers, not by running a
   cold M&A process.
 related:
-  - INS-260327-B8E5
   - INS-260329-3392
   - INS-260322-8D47
   - INS-260403-3B67

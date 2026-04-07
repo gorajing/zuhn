@@ -50,7 +50,6 @@ stance: >-
   differentiation.
 related:
   - INS-260327-C083
-  - INS-260327-1421
   - INS-260403-19D8
   - INS-260404-C64D
   - INS-260404-C0E6

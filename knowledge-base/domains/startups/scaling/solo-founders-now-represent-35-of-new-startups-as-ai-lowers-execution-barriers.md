@@ -58,8 +58,8 @@ related:
   - INS-260403-8B68
   - INS-260403-9FEB
   - INS-260405-FCA9
+  - PRI-260406-7FE4
   - INS-260404-3687
-  - INS-260403-D870
 ---
 Sam Altman's prediction of one-person billion-dollar companies is backed by growing evidence. According to Carta, solo founders accounted for 35% of the 2024 startup class—a significant increase driven by AI tools that replace entire departments. BuiltWith generates $14M/year with a single employee, while Testimonial and Seats.aero hit $1.5M ARR as solo operations.
 

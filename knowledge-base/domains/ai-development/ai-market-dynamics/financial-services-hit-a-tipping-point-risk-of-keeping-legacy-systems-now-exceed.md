@@ -55,9 +55,7 @@ related:
   - PRI-260328-A1AA
   - PRI-260405-D6F5
   - INS-260403-8194
-  - INS-260329-3AE5
   - INS-260329-92FC
-  - INS-260403-5F1C
 stance: >-
   For the first time, banks and insurers face more risk from keeping decades-old
   mainframes than from migrating to AI-native platforms

@@ -52,8 +52,8 @@ related:
   - INS-260403-11CC
   - INS-260403-A17D
   - INS-260403-002C
+  - PRI-260406-0E64
   - INS-260404-3A2E
-  - INS-260403-8CDC
 ---
 The newsletter-as-distribution-channel trend among VCs reflects a broader shift from passive deal sourcing (waiting for warm intros) to active audience building. Firms like this one (The VC Corner, 100k+ subscribers) demonstrate that consistent thought leadership creates a compounding advantage: founders seek out investors they already trust from content consumption.
 

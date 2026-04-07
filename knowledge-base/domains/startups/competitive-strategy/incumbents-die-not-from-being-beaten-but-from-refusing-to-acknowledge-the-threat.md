@@ -61,9 +61,9 @@ related:
   - INS-260323-AB5F
   - INS-260330-067C
   - INS-260403-0E11
+  - PRI-260406-14BB
   - INS-260323-DF0F
   - INS-260325-793A
-  - INS-260327-723A
 ---
 BlackBerry's decline is a case study in the incumbency trap: the belief that market leadership in one era confers competitive advantage in the next. When the iPhone launched, BlackBerry leadership interpreted it as a product for consumers, not enterprise — a segmentation error that bought them years of false comfort while their user base eroded beneath them.
 

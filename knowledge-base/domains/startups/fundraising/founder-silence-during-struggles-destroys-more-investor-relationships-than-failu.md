@@ -52,11 +52,11 @@ stance: >-
   more than founders who transparently communicate bad news to their early
   investors.
 related:
+  - PRI-260406-E431
   - INS-260403-0E87
   - INS-260403-4960
   - INS-260321-9A03
   - INS-260402-EA72
-  - INS-260403-4102
 ---
 The instinct to go dark when things aren't working is universal among founders—they want to wait until they have better news. But for friends-and-family investors who have a personal relationship with the founder, silence is uniquely painful. It triggers feelings of betrayal that go beyond financial loss because the investment was built on personal trust, not spreadsheet analysis.
 

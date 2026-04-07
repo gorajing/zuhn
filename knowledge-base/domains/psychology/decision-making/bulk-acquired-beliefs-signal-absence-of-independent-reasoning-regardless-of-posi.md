@@ -49,12 +49,13 @@ stance: >-
   far-right, or deliberately centrist — are all engaging in the same cognitive
   shortcut of outsourcing their thinking to a group identity.
 related:
+  - PRI-260406-B9C9
+  - PRI-260406-AA07
   - INS-260321-1A84
   - INS-260322-F65F
-  - INS-260404-FDB2
-  - INS-260402-62E3
-  - INS-260404-89C3
+  - PRI-260406-CF83
   - INS-260404-DCCD
+  - INS-260404-FDB2
   - INS-260403-0D1F
 evidence:
   - id: INS-260321-1A84

@@ -46,13 +46,12 @@ stance: >-
   to 'how do I decompose my idea into testable risks'
 related:
   - INS-260327-E3D5
-  - INS-260330-2B45
   - INS-260329-FE15
+  - PRI-260406-7ED0
+  - INS-260330-2B45
   - INS-260403-AC06
   - INS-260329-4DBC
-  - INS-260403-97F5
   - INS-260405-A6BA
-  - INS-260403-32E9
 evidence:
   - id: INS-260403-97D6
     type: EXTENDS

@@ -46,11 +46,11 @@ stance: >-
   optimization (2x), but this lesson does not transfer automatically between
   domains
 related:
+  - PRI-260406-8FDF
   - INS-260330-45A9
   - INS-260322-0AA6
+  - PRI-260406-818D
   - INS-260330-697F
-  - INS-260329-D062
-  - PRI-260328-D5EB
 evidence:
   - id: INS-260322-0AA6
     type: CHALLENGES

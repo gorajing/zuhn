@@ -51,7 +51,6 @@ related:
   - INS-260403-FA65
   - INS-260403-F4AC
   - INS-260330-7EAA
-  - INS-260403-F305
 evidence:
   - id: INS-260327-9018
     type: TRANSFERS_TO

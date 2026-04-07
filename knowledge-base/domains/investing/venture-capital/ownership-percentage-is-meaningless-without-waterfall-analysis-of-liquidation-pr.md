@@ -52,10 +52,11 @@ stance: >-
   stack that determines actual dollar payouts at exit.
 related:
   - INS-260405-B01A
+  - PRI-260406-8987
+  - PRI-260406-ADF0
   - INS-260403-36DB
   - INS-260323-4C43
-  - INS-260403-11E3
-  - INS-260322-A31D
   - INS-260403-ABAD
+  - INS-260403-11E3
 ---
 The standard way people discuss startup equity — as ownership percentages — obscures the most important economic reality: who gets paid first and how much. With stacked liquidation preferences across multiple rounds, a founder holding 35% of a company might take home dramatically less than 35% of exit proceeds. In the article's example, at a $50M exit, Series B investors earn $10.70 per share versus $8.20 for common shareholders despite nominally similar ownership percentages, because participating preferred terms let them double-dip. This gap widens at every exit valuation. The implication extends beyond founders to early employees and angels holding common stock — their actual economic interest is systematically overstated by ownership percentage alone. Anyone evaluating startup equity, whether as a founder, employee, or investor, should build or request waterfall models across multiple exit scenarios rather than relying on percentage ownership as a proxy for value.

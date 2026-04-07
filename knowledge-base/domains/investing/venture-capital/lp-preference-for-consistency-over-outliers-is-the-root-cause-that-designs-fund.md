@@ -59,7 +59,6 @@ stance: >-
   is the upstream force that restructures the entire VC ecosystem toward
   consensus behavior, not GP timidity.
 related:
-  - INS-260327-F50E
   - INS-260403-D33B
   - INS-260404-5B6A
   - INS-260403-01FD

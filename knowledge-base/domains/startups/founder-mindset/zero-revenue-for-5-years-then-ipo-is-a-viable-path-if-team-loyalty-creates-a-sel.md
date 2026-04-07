@@ -52,8 +52,8 @@ related:
   - INS-260323-E15B
   - PRI-260328-BD81
   - INS-260327-B7FC
+  - PRI-260406-2B11
   - PRI-260328-0C86
-  - INS-260405-03BB
   - INS-260327-125F
 ---
 Rajat Suri co-founded Lyft and then built Presto from idea to IPO. Presto had zero revenue for 5 years. The survival mechanism was not strategy but a self-reinforcing loyalty cycle: early team members worked for almost nothing (one was 'willing to die for the company'), their sacrifice gave Rajat the conviction to persist, and his persistence deepened their commitment. The cycle created an emotional flywheel that outlasted the financial reality. Key insight: most founders quit not because the idea is wrong but because they lose the emotional fuel to persist. Building that fuel through genuine team bonds — not equity incentives — is what separates those who survive the desert from those who don't.

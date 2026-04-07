@@ -56,8 +56,8 @@ related:
   - INS-260403-93E7
   - INS-260403-E44E
   - INS-260403-D089
-  - INS-260403-DC59
   - INS-260403-E1E0
+  - PRI-260406-3C6B
 ---
 In early-stage investing, most startups lack revenue, traction, or even a finished product. This forces investors to evaluate the founder rather than the business. Founder-market fit—whether the founder has lived the problem, understands the market from the inside, and would keep building even without funding—has become the primary filter before product-market fit is even possible to assess.
 

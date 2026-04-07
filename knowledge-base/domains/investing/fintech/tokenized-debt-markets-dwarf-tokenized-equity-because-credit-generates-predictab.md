@@ -60,11 +60,11 @@ stance: >-
   speculative appreciation
 related:
   - INS-260327-0519
+  - PRI-260406-2546
+  - PRI-260406-53BC
+  - PRI-260406-B702
   - INS-260403-7CAF
   - INS-260404-B0BF
-  - INS-260403-5941
-  - INS-260403-EA6D
-  - INS-260327-1555
 ---
 The article notes that tokenized debt markets are already three times the size of tokenized equity markets. This isn't accidental — debt instruments have properties that align perfectly with blockchain's strengths: predictable payment schedules can be enforced by smart contracts, collateral values can be verified on-chain, and overcollateralization ratios can be maintained programmatically. Equity, by contrast, depends on governance rights, voting, and valuation judgments that are harder to codify.
 

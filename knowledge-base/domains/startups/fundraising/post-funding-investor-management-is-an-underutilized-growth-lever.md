@@ -49,11 +49,11 @@ stance: >-
   asks, and board meeting preparation.
 related:
   - INS-260403-C17B
+  - PRI-260406-E431
   - INS-260404-2250
   - INS-260403-03CC
   - INS-260403-CC5D
   - INS-260405-6EE5
-  - INS-260403-44C4
 ---
 Fundraising doesn't end when the wire hits your account. The most effective founders build systematic investor management practices: monthly or quarterly updates with key metrics (revenue, growth rate, burn rate, runway), clear wins and progress reports, and specific asks where they need help. This structured communication builds trust and significantly increases follow-on investment potential.
 

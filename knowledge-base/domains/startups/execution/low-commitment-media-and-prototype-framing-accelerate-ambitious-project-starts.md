@@ -49,7 +49,6 @@ stance: >-
   Starting ambitious projects in low-fidelity formats with explicit 'just a
   hack' framing dramatically increases the probability of actually beginning
 related:
-  - INS-260405-32BB
   - INS-260404-55E1
   - INS-260403-C428
   - INS-260404-D66A
@@ -59,6 +58,7 @@ related:
   - INS-260404-D688
   - INS-260404-AD21
   - INS-260404-4154
+  - INS-260404-DDFB
 ---
 One of the most effective techniques for overcoming the fear of early work is to deliberately frame ambitious projects as lower-stakes artifacts—calling a painting 'just a sketch,' new software 'just a quick hack.' This isn't self-deception but a psychological ratchet: you judge initial results by appropriately lower standards, and once the project builds momentum you can 'sneakily convert it to something more.' The framing removes the paralyzing weight of ambition from the critical first steps.
 

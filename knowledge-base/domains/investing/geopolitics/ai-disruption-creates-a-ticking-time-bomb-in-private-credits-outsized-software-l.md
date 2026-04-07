@@ -43,12 +43,11 @@ resolutions:
     standards, questionable ratings, opacity — is concerning but the system is
     smaller and banks have less direct exposure.
 related:
-  - INS-260323-114D
   - INS-260327-3B91
+  - PRI-260406-53BC
   - INS-260330-3E6B
   - INS-260403-5056
   - INS-260328-58B1
-  - INS-260327-68C1
 stance: 25% of business development company portfolios are in software companies
 evidence:
   - id: INS-260323-59C9

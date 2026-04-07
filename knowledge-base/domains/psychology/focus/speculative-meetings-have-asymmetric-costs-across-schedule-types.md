@@ -49,7 +49,7 @@ related:
   - INS-260329-E44D
   - INS-260329-9A30
   - INS-260322-FFF6
-  - PRI-260328-BDC2
+  - PRI-260406-B846
 evidence:
   - id: INS-260322-FFF6
     type: CHALLENGES

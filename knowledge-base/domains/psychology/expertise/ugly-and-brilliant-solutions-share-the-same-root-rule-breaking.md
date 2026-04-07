@@ -46,11 +46,11 @@ stance: >-
   There is a continuum between inelegant hacks and brilliant innovations because
   both require willingness to violate assumed constraints
 related:
+  - PRI-260406-DDE1
+  - PRI-260406-5CA8
   - PRI-260323-A33E
   - PRI-260328-D292
   - PRI-260323-27D6
-  - INS-260404-AD21
-  - INS-260405-D925
 evidence:
   - id: INS-260330-30AB
     type: TRANSFERS_TO

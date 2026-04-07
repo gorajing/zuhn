@@ -54,7 +54,6 @@ related:
   - INS-260327-C569
   - INS-260327-1D23
   - INS-260403-3AE7
-  - INS-260403-5772
 evidence:
   - id: INS-260327-1D23
     type: TRANSFERS_TO

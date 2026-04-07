@@ -47,15 +47,11 @@ stance: >-
   self-deception but a productive framing trick that bypasses premature quality
   judgment and lets projects reach critical mass.
 related:
-  - INS-260403-824F
-  - INS-260404-D147
+  - PRI-260406-5CA8
   - INS-260403-1A6B
   - INS-260404-D66A
+  - PRI-260406-A5F0
   - INS-260405-F402
-  - INS-260403-E7A7
-  - INS-260404-DDFB
-  - INS-260403-EFCC
-  - INS-260403-D4E1
 ---
 Graham observes that creators who frame their early work as 'just a sketch' or 'just a hack' apply a lower quality bar, which lets them produce without paralysis. Once the project has momentum, they can 'sneakily convert' it into something serious. This is not denial—it is a deliberate staging strategy that separates the generative phase from the evaluative phase.
 

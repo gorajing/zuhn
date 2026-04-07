@@ -47,16 +47,16 @@ stance: >-
   advantages require network effects, deep workflow embedding, and brand equity
   rather than just shipping faster.
 related:
-  - PRI-260328-9C71
   - INS-260330-8CD4
   - INS-260403-E497
-  - INS-260403-1DE4
   - INS-260403-DB22
   - INS-260404-9004
+  - PRI-260406-EBDB
   - PRI-260328-43F1
+  - PRI-260328-9C71
   - PRI-260324-36BF
   - INS-260405-2422
-  - PRI-260405-BFAC
+  - INS-260403-E099
 ---
 Pete Flint of NfX argues that while speed is table stakes in AI, it does not constitute a moat. The real defensibility comes from network effects (where each additional user makes the product more valuable), embedding deeply into customer workflows (making switching costly), and building brand equity that creates trust and mindshare.
 

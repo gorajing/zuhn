@@ -52,12 +52,11 @@ stance: >-
   most consequential and least understood negotiation points in venture
   financing
 related:
-  - INS-260330-AF2B
-  - INS-260403-402F
+  - PRI-260406-0A98
   - INS-260403-49FC
+  - PRI-260406-3317
+  - INS-260330-AF2B
   - INS-260403-ACC5
-  - INS-260402-3D34
-  - INS-260403-130A
 ---
 At each funding round, investors typically request an option pool refresh to ensure the company can attract talent through the next growth phase. The standard ask is 15-20% of fully diluted shares. What many founders miss is that this pool expansion is usually carved out pre-money, meaning existing shareholders (primarily founders) absorb the dilution rather than sharing it with new investors.
 

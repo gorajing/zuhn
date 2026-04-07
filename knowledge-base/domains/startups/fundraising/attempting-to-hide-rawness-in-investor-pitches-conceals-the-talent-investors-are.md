@@ -46,13 +46,12 @@ stance: >-
   Founders who perform corporate polish to mask inexperience suppress the raw
   technical talent that sophisticated investors specifically want to identify.
 related:
-  - INS-260330-1002
   - INS-260403-7586
   - INS-260403-DE45
+  - PRI-260406-2576
   - INS-260403-FE3B
   - INS-260403-9942
   - PRI-260403-26B9
-  - INS-260405-224A
 evidence:
   - id: INS-260403-7586
     type: TRANSFERS_TO

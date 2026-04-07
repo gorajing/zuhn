@@ -51,11 +51,11 @@ stance: >-
   fields from those who merely contribute to existing ones, making the initial
   step of choosing what to work on the key to the whole game
 related:
+  - PRI-260406-874A
   - INS-260325-898A
   - INS-260402-4AB4
   - INS-260403-3E9A
   - INS-260327-CEE4
-  - INS-260402-5522
   - INS-260405-D606
 evidence:
   - id: INS-260402-5522

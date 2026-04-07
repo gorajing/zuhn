@@ -48,11 +48,11 @@ stance: >-
   target-setting because it forces founders to validate every conversion
   assumption rather than reverse-engineering from a wishful revenue number.
 related:
+  - PRI-260406-26B3
+  - PRI-260406-E371
   - INS-260329-49A4
+  - PRI-260406-46C3
   - INS-260403-9CC1
-  - INS-260403-7FB2
-  - INS-260403-ADB3
-  - INS-260327-4B5A
 ---
 Top-down modeling starts with a revenue goal (e.g., $1M ARR) and works backward to figure out how to get there. This feels productive but hides fragile assumptions—if any conversion rate is off, the whole plan collapses silently. Bottom-up modeling forces you to specify each funnel stage: MQL volume, MQL-to-SQL conversion, win rate, sales cycle length, and average deal size. Each assumption is explicit and testable.
 

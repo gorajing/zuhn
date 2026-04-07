@@ -52,13 +52,12 @@ stance: >-
   those who compress it
 related:
   - INS-260327-E3ED
-  - INS-260328-9415
-  - INS-260403-21B2
   - INS-260402-2300
   - INS-260403-53C0
+  - PRI-260406-EC93
   - PRI-260403-26B9
+  - PRI-260406-2E0D
   - INS-260402-3D61
-  - INS-260403-A9C9
 ---
 The article frames fundraising explicitly as a distraction from daily operations — only 1% of small businesses are VC-backed, and the process pulls founders away from the work that actually builds the company. The prescription is a tight process: prepare everything upfront (deck, VDR, parameters), then run all investor conversations in parallel rather than sequentially, and aim to close within a defined window.
 

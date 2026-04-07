@@ -55,10 +55,10 @@ stance: >-
   independent variables
 related:
   - INS-260324-861B
+  - PRI-260406-1F31
   - PRI-260403-5DEA
   - INS-260325-95A6
   - PRI-260324-3081
-  - INS-260327-B715
 evidence:
   - id: INS-260330-A0AE
     type: SUPPORTS

@@ -52,12 +52,12 @@ related:
   - INS-260320-E044
   - INS-260402-FE91
   - INS-260403-AAE4
-  - INS-260403-AA8F
   - INS-260404-323D
   - INS-260404-9E63
   - INS-260329-ABD9
   - INS-260404-31C3
   - INS-260404-6D51
+  - INS-260403-2788
 ---
 Graham distinguishes between merely lowering your standards for new ideas and completely switching polarity—from finding flaws to finding possibilities. This is the evaluation mode practiced at Y Combinator, where power-law outcomes make it painfully obvious when you miss winners. The cost of false negatives (dismissing the next Google) dwarfs the cost of false positives.
 

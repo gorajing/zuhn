@@ -47,10 +47,10 @@ resolutions:
     the career more attractive to educated candidates.
 related:
   - INS-260327-1D37
+  - PRI-260406-6B63
   - INS-260325-B50B
   - INS-260330-B28C
   - INS-260327-891F
-  - INS-260403-1B15
 stance: A Teach for America model for law enforcement
 evidence:
   - id: INS-260327-1D37

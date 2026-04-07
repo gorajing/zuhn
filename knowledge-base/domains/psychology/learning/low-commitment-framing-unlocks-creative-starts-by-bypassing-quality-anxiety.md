@@ -52,12 +52,12 @@ related:
   - INS-260405-7B8D
   - INS-260405-32BB
   - INS-260404-55E1
-  - INS-260403-C428
   - INS-260403-E7A7
   - INS-260404-AD21
   - INS-260405-F402
   - INS-260405-D925
   - INS-260402-7999
+  - INS-260404-D688
 ---
 Graham catalogs a specific psychological technique: deliberately mislabel your work as a lower-stakes category. Call a painting a sketch. Call software a quick hack. This lets you bypass the internal critic that demands finished-quality output from the first line. Once the project has momentum and initial results, you can 'sneakily convert it to something more.'
 

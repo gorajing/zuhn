@@ -59,8 +59,8 @@ related:
   - INS-260403-0680
   - INS-260403-696C
   - INS-260321-3521
+  - PRI-260406-B2E5
   - INS-260403-E2DE
-  - INS-260403-8D8D
 ---
 VC fund economics are driven by ownership targets and management fee structures. A large fund ($500M–$1B+) needs to deploy significant capital per investment to build meaningful ownership stakes and justify GP time. Writing $250K–$1M seed checks into a $500M fund is mathematically negligible — it won't move the needle on fund returns even if the company 100x's.
 

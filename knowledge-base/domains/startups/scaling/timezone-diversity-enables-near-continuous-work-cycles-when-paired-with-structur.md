@@ -52,10 +52,10 @@ stance: >-
   progress.
 related:
   - INS-260330-BC8E
+  - PRI-260406-B846
   - INS-260329-24CE
   - INS-260329-7A3C
   - PRI-260405-64B2
-  - INS-260329-4253
 ---
 The default assumption that timezone differences are a pure negative leads companies to restrict hiring to nearshore locations, limiting their talent pool and increasing costs. In practice, timezone spread enables a powerful workflow: offshore teams complete tasks during the domestic team's off-hours, and results are ready for review each morning.
 

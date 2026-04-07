@@ -52,10 +52,11 @@ resolutions:
     operation where the cost of a failed experiment is always lower than the
     cost of not knowing.
 related:
+  - PRI-260406-0E02
   - INS-260403-F4C9
   - INS-260405-DF08
+  - PRI-260406-E5FB
   - INS-260329-2AB9
-  - PRI-260324-2C9F
   - INS-260404-88D8
 stance: >-
   In high-uncertainty environments, executing quickly to gather real information

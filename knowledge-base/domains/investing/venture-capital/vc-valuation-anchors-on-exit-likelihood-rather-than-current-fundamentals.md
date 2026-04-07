@@ -49,12 +49,11 @@ stance: >-
   and competitor comparisons (60%) rather than intrinsic financial metrics,
   making exit narrative the most important valuation lever.
 related:
-  - INS-260403-D500
   - INS-260404-51A2
   - INS-260403-DA8F
+  - PRI-260406-CA93
   - INS-260403-1EE4
   - INS-260403-49EC
-  - INS-260404-25FF
   - INS-260403-F4AC
 ---
 VC valuation methodology is fundamentally different from traditional corporate finance. Rather than discounting future cash flows, 65% of VCs anchor valuation on the likelihood and quality of exit opportunities — whether IPO or acquisition. Another 60% benchmark against comparable companies. Traditional metrics like IRR (target ~31% for early stage) and NPV take a backseat, especially for earlier rounds.

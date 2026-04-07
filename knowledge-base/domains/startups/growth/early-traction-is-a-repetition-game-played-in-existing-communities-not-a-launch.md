@@ -50,11 +50,11 @@ stance: >-
   from founders who showed up repeatedly where their users already were.
 related:
   - INS-260404-3771
+  - PRI-260406-8A97
   - INS-260330-59DC
   - INS-260330-21CC
   - INS-260403-B635
   - INS-260403-CA1E
-  - INS-260330-1854
 ---
 Founders commonly expect a Product Hunt launch or newsletter mention to deliver sustained traction. When the spike fades, they conclude the idea is not working — but the idea never got a real chance because the founder stopped at broadcasting and never started engaging. The article argues that early traction is inherently unglamorous: direct messages, Reddit threads, cold emails, and showing up in the same communities repeatedly until recognition builds.
 

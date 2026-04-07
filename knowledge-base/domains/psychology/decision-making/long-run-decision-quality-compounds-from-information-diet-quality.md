@@ -57,9 +57,9 @@ related:
   - INS-260330-4E10
   - INS-260330-E403
   - INS-260403-6EC8
+  - PRI-260406-A4AA
   - INS-260403-E554
   - INS-260330-6F36
-  - INS-260403-910E
   - INS-260403-14B3
 ---
 Most people treat decision-making as a discrete cognitive act: gather information, weigh options, choose. But the quality of that in-the-moment reasoning depends heavily on the background model of the world built up over years of information consumption. Someone who has consistently consumed high-signal, accurate, diverse sources has a richer prior to reason from than someone with a narrower or lower-quality diet — even if they're equally intelligent in the moment.

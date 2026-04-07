@@ -51,15 +51,15 @@ stance: >-
   The companies that win in AI are those that engineer cost efficiency into
   their product architecture rather than competing on features alone.
 related:
-  - PRI-260320-233B
   - INS-260327-F316
   - INS-260402-5E4E
   - INS-260404-397F
   - INS-260403-C1EB
-  - INS-260404-CCB1
   - PRI-260324-36BF
+  - PRI-260406-EBDB
   - INS-260403-BA1B
-  - PRI-260328-D5EB
+  - INS-260404-CCB1
+  - PRI-260406-E015
   - INS-260404-9004
 ---
 Perplexity built a hybrid retrieval layer that pulls relevant documents before summarizing with an LLM, dramatically cutting token usage while delivering faster responses with better citations. Grammarly's incremental fine-tuning makes corrections cheaper over time. Canva treats AI tools as lightweight enhancements rather than cost-draining centerpieces. These aren't just engineering optimizations—they're strategic moats.

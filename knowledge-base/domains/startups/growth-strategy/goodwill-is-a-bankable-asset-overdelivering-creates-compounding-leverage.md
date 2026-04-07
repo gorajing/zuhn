@@ -44,12 +44,11 @@ stance: >-
   revenue than optimizing for immediate extraction, because goodwill compounds
   through referrals, retention, and pricing power.
 related:
-  - INS-260327-194D
   - INS-260327-DF8C
   - PRI-260328-A4AC
   - INS-260403-B6F2
+  - PRI-260406-311D
   - PRI-260322-8FD4
-  - PRI-260328-7E58
   - INS-260329-595E
 ---
 Hormozi frames goodwill not as a soft virtue but as a hard financial asset. When you consistently deliver more value than expected, you accumulate social and reputational capital that converts to revenue through word-of-mouth, reduced churn, and the ability to charge premium prices.

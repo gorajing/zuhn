@@ -50,9 +50,9 @@ resolutions:
 related:
   - PRI-260403-6DD6
   - PRI-260328-30C2
+  - PRI-260406-DC9B
   - INS-260402-300A
   - INS-260325-75EA
-  - INS-260327-390A
 stance: Culture is not what you write on the wall
 evidence:
   - id: INS-260403-0218

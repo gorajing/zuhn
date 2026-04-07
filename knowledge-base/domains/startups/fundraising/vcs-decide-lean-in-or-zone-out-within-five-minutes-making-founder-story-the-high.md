@@ -47,11 +47,11 @@ stance: >-
   The first five minutes of a VC call determine the outcome more than any metric
   or slide that follows
 related:
+  - PRI-260406-7710
   - INS-260403-A36C
   - PRI-260405-2A11
   - INS-260326-291C
   - INS-260403-FC45
-  - INS-260327-8C1C
 ---
 VCs process dozens of pitches and form snap judgments early. The founder story — why you specifically are building this, what lived experience gave you the insight, how close you've been to the problem — is the single most important element because it's evaluated first and colors everything after.
 

@@ -43,14 +43,14 @@ resolutions:
     physical moat of fresh food supply chains and brand loyalty resists digital
     disruption in ways that pure software businesses cannot.
 related:
-  - INS-260322-019A
   - INS-260327-FC6F
   - INS-260403-427E
   - INS-260403-9E2D
+  - PRI-260406-E015
   - INS-260404-397F
   - INS-260403-FF7E
+  - INS-260322-019A
   - INS-260403-11F9
-  - INS-260405-5C3F
 stance: >-
   AI creates the greatest period of business disruptability in history, making
   moat analysis the most critical and difficult skill for investors.

@@ -50,10 +50,10 @@ stance: >-
   mountains beneath you.
 related:
   - INS-260403-E6FD
+  - PRI-260406-229E
   - PRI-260328-9EC9
   - INS-260325-D624
   - INS-260327-CFD5
-  - INS-260404-F227
 evidence:
   - id: INS-260330-0AE2
     type: CHALLENGES

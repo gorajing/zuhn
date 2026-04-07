@@ -43,9 +43,9 @@ stance: >-
   solidify almost always generate negative ROI on those hires
 related:
   - INS-260404-B893
+  - PRI-260406-CCAE
   - INS-260403-2647
   - INS-260403-C977
   - PRI-260322-8FD4
-  - INS-260403-5598
 ---
 Elena Verna identifies premature sales hiring as the defining mistake in product-led growth strategies. The error is logical but costly: founders see pipeline and hire closers to accelerate it, but without a self-serve motion that generates qualified intent, sales reps spend cycles educating prospects rather than closing them. The result is high CAC, long sales cycles, and quota misses that pressure founders into discounting. The correct sequencing is to let the product create bottom-up adoption first, identify where the natural upgrade inflection occurs, and only then hire salespeople to work inbound intent from existing users — not cold outbound.

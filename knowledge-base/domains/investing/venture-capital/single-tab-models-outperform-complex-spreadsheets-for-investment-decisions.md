@@ -50,8 +50,8 @@ related:
   - INS-260322-3083
   - INS-260330-4329
   - INS-260403-7795
+  - PRI-260406-CA93
   - INS-260329-5B7B
-  - INS-260329-34C0
 ---
 Traditional multi-tab financial models accumulate complexity that works against their purpose — formulas reference wrong cells, partners use different versions, and founders can't trace the assumptions. A single-tab return model that connects revenue, margins, raise sizes, valuation, and exit multiples forces both founders and investors to agree on the same inputs and see the same outputs.
 

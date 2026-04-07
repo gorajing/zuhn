@@ -46,9 +46,9 @@ stance: >-
   investor conviction than any amount of pitch deck data or market analysis
 related:
   - INS-260327-2E84
+  - PRI-260406-2576
   - INS-260404-5017
+  - PRI-260406-9780
   - INS-260403-D6C2
-  - PRI-260322-94C4
-  - PRI-260405-D586
 ---
 Vasco Pedro's demo of Halo at Notion's Founders retreat was the highest-rated session of the week, with multiple audience members moved to tears. This illustrates a fundamental asymmetry in how humans evaluate novel technology: analytical arguments ('our TAM is $X billion') activate the skeptical mind, while visceral demonstrations ('watch this ALS patient speak to their family for the first time in years') bypass rational objection entirely. For founders building genuinely transformative technology, this means the demo IS the fundraising strategy. The emotional response creates a social proof cascade — every witness becomes an evangelist. This is why Halo's partnership with OpenAI was announced at the UN's AI for Good Summit rather than a typical tech conference. The venue and context amplify the emotional resonance of the demonstration.

@@ -59,7 +59,7 @@ related:
   - INS-260404-3CBE
   - INS-260403-A3DA
   - INS-260403-6F75
-  - INS-260403-A9C9
+  - PRI-260406-2E0D
 ---
 Among non-dilutive options, crowdfunding (Kickstarter, Indiegogo) occupies a unique niche because it simultaneously raises capital and validates market demand. Pebble Technology raising $10M+ on Kickstarter didn't just fund their smartwatch — it proved a massive customer base existed before manufacturing began. No grant, loan, or RBF arrangement provides this dual signal.
 

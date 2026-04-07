@@ -50,7 +50,7 @@ related:
   - PRI-260325-EEE9
   - INS-260330-D475
   - INS-260330-1E5E
-  - INS-260325-898A
+  - PRI-260406-D3E4
   - INS-260329-94E6
 ---
 When computing the area of a circle, Sanderson notes that slicing it into concentric rings 'should seem promising because it respects the symmetry of the circle, and math has a tendency to reward you when you respect its symmetries.' This principle extends far beyond geometry. In any complex system, there exist natural lines along which the problem decomposes cleanly.

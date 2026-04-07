@@ -46,13 +46,12 @@ stance: >-
   founders bold enough to refuse are the same founders who build massive
   companies.
 related:
-  - INS-260330-809A
   - INS-260402-9288
   - INS-260403-906E
   - INS-260403-9CD9
   - INS-260403-B374
+  - PRI-260406-E4B0
   - INS-260403-FE3B
-  - INS-260403-F4E7
   - INS-260403-0FEC
   - INS-260403-1115
 evidence:

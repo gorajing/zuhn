@@ -55,6 +55,7 @@ related:
   - INS-260405-6342
   - INS-260405-CD10
   - INS-260403-23FD
+  - PRI-260406-C6C3
 ---
 CB Insights data shows CVC volume at its lowest since 2018, yet median deal size is up and AI dominates the top deals. Salesforce Ventures leads CVC activity, reinforcing the pattern that corporate investors are being highly selective but writing larger checks when they do deploy—and those checks are overwhelmingly going to AI.
 

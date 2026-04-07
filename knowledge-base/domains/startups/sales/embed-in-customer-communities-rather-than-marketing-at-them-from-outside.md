@@ -49,10 +49,10 @@ stance: >-
   communities from the outside
 related:
   - PRI-260328-43F1
+  - PRI-260406-CCAE
   - PRI-260328-DF2D
   - INS-260329-793D
-  - PRI-260328-0C86
-  - INS-260328-2BCF
+  - PRI-260406-DD8C
 ---
 The HVAC example reveals a powerful distribution pattern: instead of running ads targeting HVAC owners, the founders joined their Facebook groups, shared trade-specific memes, became group admins, and built authority from the inside out. Similarly, another founder didn't just buy podcast ads — they brought the host on as an advisor, converting a media channel into an organic, trusted pipeline.
 

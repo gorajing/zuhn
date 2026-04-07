@@ -52,10 +52,10 @@ stance: >-
   to manage other complex operations well
 related:
   - INS-260403-BF83
+  - PRI-260406-DA72
   - INS-260403-082C
   - INS-260403-ACC5
-  - INS-260405-0D9F
-  - INS-260403-7190
+  - PRI-260406-2B0E
   - INS-260402-FC79
 ---
 From the VC perspective, the cap table is one of the first documents reviewed in due diligence—and its quality sets the tone for the entire process. A cap table with missing updates, unreconciled SAFEs, or version control issues doesn't just create practical problems; it signals that the founding team lacks the operational discipline to manage critical business systems.

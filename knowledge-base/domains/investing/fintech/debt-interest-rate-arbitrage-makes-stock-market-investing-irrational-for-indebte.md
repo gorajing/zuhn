@@ -46,8 +46,8 @@ stance: >-
   Paying off 24% credit card debt before investing for 10% stock returns is not
   conservative advice but basic arbitrage math that most people fail to compute
 related:
-  - INS-260327-14E6
   - INS-260403-7C02
+  - PRI-260406-CA93
   - INS-260403-B9B8
   - INS-260403-B98A
   - PRI-260405-0099

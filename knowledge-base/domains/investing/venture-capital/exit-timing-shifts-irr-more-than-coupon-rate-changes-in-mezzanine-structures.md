@@ -49,11 +49,11 @@ stance: >-
   than a material change in the interest coupon rate.
 related:
   - INS-260405-0F47
+  - PRI-260406-AAA9
   - INS-260403-0BD4
   - INS-260403-3280
   - INS-260403-3DCB
   - INS-260403-6F9C
-  - INS-260321-AA91
 ---
 IRR is highly sensitive to the time dimension because it measures return per unit of time. In mezzanine deals where principal repayment is bullet-structured (all at exit), the lender's largest cash inflow is concentrated at a single point. Moving that point forward by one year compresses the same total return into a shorter period, dramatically boosting IRR. Moving it back dilutes the return over more time.
 

@@ -51,10 +51,10 @@ stance: >-
   drivers than product quality, marketing spend, or brand loyalty combined.
 related:
   - INS-260322-4F7A
+  - PRI-260406-426E
   - INS-260330-7DAA
   - INS-260325-EE14
   - INS-260323-7D3C
-  - INS-260330-A01C
 evidence:
   - id: INS-260325-EE14
     type: CONTRADICTS

@@ -46,10 +46,11 @@ related:
   - INS-260325-F20C
   - PRI-260324-36BF
   - PRI-260405-BFAC
+  - PRI-260406-28E1
   - PRI-260328-D5EB
-  - INS-260405-71E1
-  - INS-260405-FAA3
+  - PRI-260406-E015
   - INS-260327-F0B2
+  - INS-260405-FAA3
 stance: >-
   Traditional moats (system of record, network effects, workflow ownership)
   still apply in AI

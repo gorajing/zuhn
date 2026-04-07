@@ -50,9 +50,9 @@ related:
   - INS-260330-3B31
   - INS-260403-C377
   - INS-260403-DA33
+  - PRI-260406-0412
   - INS-260403-E2DE
-  - INS-260403-032B
-  - INS-260403-3562
+  - PRI-260406-CA93
 ---
 Fund size dictates the game a VC can play. A $25M seed fund can win with smaller exits, move quickly, and take earlier risks. A $750M multi-stage platform must deploy larger checks and concentrate ownership, screening hard for billion-dollar outcomes. The phrase 'return the fund' is literal math: if a $100M fund owns 20% and a company sells for $500M, that stake repays the whole vehicle.
 

@@ -58,8 +58,7 @@ related:
   - INS-260403-7943
   - INS-260405-863C
   - PRI-260328-7E58
-  - PRI-260403-E097
-  - INS-260403-98F3
+  - PRI-260406-6895
   - INS-260403-2833
 ---
 Axie Infinity demonstrated this pattern clearly: at peak, players earned up to $1,000/month and the game became a job in the Philippines, with 40%+ of users there. But as new user growth inevitably slowed, demand for in-game NFTs (averaging $787 each) couldn't be sustained. The decline started before the $620M hack, not because of it.

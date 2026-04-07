@@ -54,10 +54,10 @@ stance: >-
   requires a categorically different mechanism rather than a simple inversion
 related:
   - INS-260404-B6E8
+  - PRI-260406-E602
   - INS-260323-1D15
   - INS-260323-6D41
   - PRI-260328-06F1
-  - INS-260329-8CC0
 evidence:
   - id: INS-260404-B6E8
     type: EXTENDS

@@ -48,10 +48,10 @@ stance: >-
 related:
   - INS-260325-7C72
   - INS-260325-A9E0
+  - PRI-260406-CC90
   - PRI-260325-F21B
   - INS-260405-4EAA
   - INS-260327-D5E0
-  - INS-260323-53FF
 evidence:
   - id: INS-260325-7C72
     type: SUPPORTS

@@ -56,7 +56,7 @@ related:
   - INS-260330-B771
   - INS-260402-2879
   - INS-260403-6412
-  - INS-260403-4CD0
+  - INS-260405-4B12
 ---
 The distinction between AI as a feature and AI as a platform matters enormously for startup strategy and enterprise planning. When AI agents can autonomously handle tasks that previously required human coordination across multiple tools, entire categories of SaaS products become redundant. This isn't about adding a chatbot to your app — it's about the app becoming unnecessary because an agent handles the underlying workflow directly.
 

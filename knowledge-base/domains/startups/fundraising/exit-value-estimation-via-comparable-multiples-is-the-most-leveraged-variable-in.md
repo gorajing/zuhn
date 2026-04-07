@@ -59,10 +59,10 @@ stance: >-
   comparable selection the highest-leverage negotiation point
 related:
   - INS-260403-E503
+  - PRI-260406-CA93
   - INS-260404-25FF
-  - INS-260403-F4AC
   - INS-260403-1EE4
-  - INS-260404-51A2
+  - INS-260403-F4AC
 ---
 In the VC Method formula, exit value is the numerator from which everything else derives. VCs typically estimate exit value using revenue forecasts multiplied by comparable company multiples (e.g., 10x ARR for SaaS, different multiples for other industries). A shift from 8x to 12x ARR on the same revenue projection changes the exit value by 50%, which flows directly through to pre-money valuation.
 

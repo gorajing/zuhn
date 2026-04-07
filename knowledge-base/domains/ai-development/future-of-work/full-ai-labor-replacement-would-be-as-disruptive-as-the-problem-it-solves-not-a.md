@@ -58,8 +58,8 @@ related:
   - INS-260403-B539
   - INS-260402-1640
   - INS-260405-8532
+  - PRI-260406-6DBE
   - INS-260327-3A81
-  - INS-260403-862D
   - INS-260405-844D
 ---
 The 'AI will fix it' response to fertility collapse assumes labor replacement is a clean substitution — fewer humans, more robots, problem solved. Smith argues this ignores the transition dynamics: overnight creation of a vast dispossessed underclass, AI-driven demand spiking prices for electricity, land, and water to levels threatening human subsistence, and the need for unprecedented capital income redistribution to keep people alive. Each of these would disrupt political systems more severely than anything since the Industrial Revolution.

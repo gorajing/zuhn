@@ -51,11 +51,10 @@ stance: >-
   AI agents that fragmented toolchains cannot replicate
 related:
   - INS-260325-2DCD
-  - INS-260403-83F3
   - PRI-260328-D5EB
+  - PRI-260406-28E1
+  - PRI-260406-EBDB
   - INS-260325-D540
-  - INS-260325-031F
-  - INS-260403-D090
 ---
 While competitors built powerful but fragmented developer tools (the 'skyscraper' approach), Replit built an integrated 'motorcycle' — editor, database, and hosting within a single container. This seemed like a simplification tradeoff at the time, but it became the critical enabler for AI agents.
 

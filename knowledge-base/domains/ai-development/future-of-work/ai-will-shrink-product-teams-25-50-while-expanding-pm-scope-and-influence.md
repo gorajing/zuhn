@@ -53,11 +53,11 @@ stance: >-
   while product managers gain more leverage, shift toward discovery and GTM, and
   oversee broader scope.
 related:
-  - INS-260321-0CCD
   - INS-260320-A1D3
   - INS-260327-DAE5
   - INS-260328-8B2C
   - INS-260330-217C
+  - PRI-260406-806C
   - PRI-260328-5CDE
   - INS-260403-5CAD
   - INS-260404-B893

@@ -55,11 +55,10 @@ stance: >-
 related:
   - INS-260327-17BE
   - INS-260325-51E6
-  - INS-260404-92AA
   - INS-260328-988F
   - INS-260403-49EC
   - INS-260404-8CAE
-  - INS-260328-195E
+  - PRI-260406-3C6B
 ---
 Citywire's finding that most French retail-accessible VC funds fail to deliver reinforces a structural principle: the best VC opportunities are allocated to institutional LPs and high-net-worth networks before retail access vehicles are even formed. By the time a fund is structured for retail distribution, the top-tier deal flow has typically been secured through GP relationships that retail funds can't access.
 

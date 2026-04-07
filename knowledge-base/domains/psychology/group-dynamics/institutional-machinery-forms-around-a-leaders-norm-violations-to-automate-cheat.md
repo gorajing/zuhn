@@ -51,9 +51,9 @@ stance: >-
 related:
   - INS-260330-4D9D
   - INS-260330-12FB
+  - PRI-260406-E48F
   - INS-260403-272C
   - PRI-260405-0676
-  - PRI-260403-67FC
 ---
 The discussion highlights that Trump's caddies and handlers already know what to do — they drop balls, move scores, and manage the cheating machinery without being explicitly told each time. This is a critical organizational dynamic: when a leader consistently violates norms, the surrounding institutional machinery evolves to automate and smooth those violations. The handlers aren't ordered to cheat each time; they've internalized the pattern and proactively execute it.
 

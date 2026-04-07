@@ -59,7 +59,6 @@ stance: >-
   predictor of whether the therapeutic benefit persists months later.
 related:
   - INS-260325-3AFE
-  - INS-260325-6576
   - INS-260327-B987
   - INS-260330-38DA
   - INS-260330-8A5C
@@ -68,6 +67,7 @@ related:
   - INS-260330-3672
   - INS-260330-7C42
   - INS-260330-53F7
+  - PRI-260325-2DE6
 evidence:
   - id: INS-260327-B987
     type: TRANSFERS_TO

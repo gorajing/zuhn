@@ -46,11 +46,11 @@ stance: >-
   both sides adapt toward each other and the eventual survivors from both groups
   become nearly indistinguishable.
 related:
+  - PRI-260406-B2E5
   - INS-260403-E9C6
   - INS-260403-E185
+  - PRI-260406-992F
   - INS-260402-8E29
-  - INS-260403-2E2C
-  - INS-260321-B7CB
   - INS-260403-735E
 evidence:
   - id: INS-260403-E185

@@ -55,9 +55,9 @@ related:
   - INS-260402-225A
   - INS-260402-421B
   - INS-260403-2822
-  - INS-260403-DD41
   - INS-260403-4075
   - INS-260405-9579
+  - INS-260403-94EB
 ---
 Scott Kupor of a16z and multiple other VC authors emphasize a truth that most founders miss: rejection rarely means your startup is bad. Internal fund dynamics—where a firm is in its deployment cycle, existing portfolio conflicts, LP mandate constraints, partner disagreements, and thesis evolution—drive most 'no' decisions.
 

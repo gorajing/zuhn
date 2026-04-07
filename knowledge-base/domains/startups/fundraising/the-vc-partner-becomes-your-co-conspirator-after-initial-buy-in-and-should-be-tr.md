@@ -52,10 +52,10 @@ stance: >-
   internally to their partnership
 related:
   - INS-260403-9867
+  - PRI-260406-E431
   - INS-260405-9F92
   - INS-260330-EA2E
   - INS-260322-8D47
-  - INS-260329-61CF
 ---
 Venture capital fundraising closely mimics enterprise sales. Once your 'inside sponsor' (the partner) has personally committed to championing your deal, the dynamic fundamentally changes. The partner has invested months of their reputation and time — they want the deal to close as much as you do. The best founders recognize this transition point and begin collaborating: tailoring the deck specifically for the partnership meeting audience, agreeing on exact term sheet timelines, and discussing acceptable terms upfront.
 

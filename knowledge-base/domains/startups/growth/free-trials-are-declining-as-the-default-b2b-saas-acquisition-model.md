@@ -53,6 +53,7 @@ related:
   - INS-260403-1E4A
   - INS-260330-1D9D
   - INS-260327-6188
+  - PRI-260406-E75B
 ---
 Free trials were once the gold standard for B2B SaaS acquisition — give the product away, let users discover value, convert on upgrade. But as the SaaS market has matured, buyer sophistication has grown. Decision-makers now expect proof of ROI, integration support, and stakeholder alignment before signing — none of which a raw 14-day trial delivers well.
 

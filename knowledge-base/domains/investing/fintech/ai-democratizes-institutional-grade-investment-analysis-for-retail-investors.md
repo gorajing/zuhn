@@ -53,13 +53,12 @@ stance: >-
   collapsing as LLMs provide the analytical rigor previously locked behind $25K
   Bloomberg terminals and six-figure analyst salaries
 related:
-  - INS-260403-7BC6
   - INS-260403-7AD0
   - INS-260404-2F75
+  - PRI-260406-8F89
+  - PRI-260406-E015
   - INS-260403-94A3
   - PRI-260328-21AD
-  - INS-260327-E3CA
-  - PRI-260405-EBC6
 ---
 Bloomberg terminals cost $25K/year, sell-side research runs $600-$1,500/month, and a junior analyst costs $80-120K loaded. Retail investors have historically competed against this infrastructure with basic stock screeners and free articles. The article argues this asymmetry is collapsing.
 

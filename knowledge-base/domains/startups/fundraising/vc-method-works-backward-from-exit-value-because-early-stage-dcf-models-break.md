@@ -60,8 +60,8 @@ related:
   - INS-260403-3280
   - INS-260405-0375
   - INS-260403-F4AC
+  - PRI-260406-CA93
   - INS-260403-EEE6
-  - INS-260403-53A4
 ---
 Traditional DCF valuation requires projecting future cash flows — something nearly impossible for pre-revenue or early-revenue startups with no historical data to anchor forecasts. The VC Method sidesteps this entirely by starting from the end: estimate what the company could be worth at exit (via comparable company multiples like 10x ARR), then discount backward using the investor's required return rate (typically 25-40% depending on stage and risk).
 

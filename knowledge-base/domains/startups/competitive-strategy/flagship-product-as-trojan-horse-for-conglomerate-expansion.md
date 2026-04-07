@@ -54,16 +54,14 @@ stance: >-
   and financial services will build more defensible empires than single-product
   companies.
 related:
-  - INS-260324-5481
-  - INS-260327-25D7
   - INS-260329-693E
+  - PRI-260406-0ACE
   - INS-260405-94A0
   - INS-260403-13E6
   - INS-260403-8011
   - INS-260403-57E7
-  - INS-260328-2BCF
-  - INS-260330-F23F
   - INS-260405-CF38
+  - INS-260403-76B7
 evidence:
   - id: INS-260321-13EA
     type: TRANSFERS_TO

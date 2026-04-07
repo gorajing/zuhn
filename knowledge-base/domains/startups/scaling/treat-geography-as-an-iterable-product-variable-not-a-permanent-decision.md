@@ -51,12 +51,12 @@ related:
   - INS-260327-F417
   - INS-260327-5580
   - INS-260330-4F49
-  - INS-260404-B475
   - INS-260330-C4D8
   - INS-260403-5CD7
   - INS-260403-2936
   - INS-260403-361D
   - INS-260405-A596
+  - INS-260404-8FBE
 ---
 Companies like UiPath (Bucharest to New York for enterprise proximity, engineering stayed in Romania), Revolut (London to Lithuania for EU banking access post-Brexit), and Zendesk (Copenhagen to San Francisco for SaaS ecosystem access) demonstrate that strategic relocation is a growth lever, not a sign of failure. Each move was context-specific — regulation, customer proximity, talent, or IPO readiness.
 

@@ -50,8 +50,8 @@ related:
   - INS-260330-EFF3
   - INS-260325-922D
   - INS-260325-7974
+  - PRI-260406-C60B
   - INS-260327-439A
-  - INS-260327-57CE
 ---
 Klaas identifies what he calls 'the delusion of individualism' — the Western obsession with believing we're in control of our lives. This is at odds with both Eastern philosophy (which emphasizes relational interconnection) and scientific fact (chaos theory, complex systems).
 

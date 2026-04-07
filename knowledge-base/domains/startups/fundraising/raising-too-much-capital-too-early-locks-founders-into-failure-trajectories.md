@@ -48,16 +48,16 @@ stance: >-
   harder to reset than underfunding, making capital discipline a survival
   advantage.
 related:
-  - INS-260323-4C43
   - INS-260329-88A4
   - INS-260330-3138
   - INS-260403-9CD9
   - INS-260404-FD24
-  - INS-260405-10A5
   - INS-260330-3B31
   - INS-260405-83F0
   - INS-260404-7E85
   - INS-260403-F4E7
+  - INS-260403-B374
+  - INS-260403-AB7D
 ---
 The article frames overfunding as a trap more dangerous than underfunding for founders. High early valuations set growth expectations that compound with each round, and missing milestones at elevated valuations is nearly impossible to recover from. Founders who raise what they need when they need it, build around margins rather than market size, and treat dilution as a real cost rather than a deferral are the ones who survive risk-off cycles.
 

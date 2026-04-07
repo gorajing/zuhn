@@ -50,7 +50,7 @@ related:
   - INS-260403-B6A0
   - INS-260327-3A71
   - INS-260403-5CAD
-  - INS-260403-754F
+  - PRI-260406-9780
 ---
 The traditional sequence—build the technology, then figure out how to sell it—is the most expensive possible approach to product development. World-class teams run technology R&D and business R&D (customer desirability, business viability) in parallel, iterating fast between capabilities and customer validation.
 

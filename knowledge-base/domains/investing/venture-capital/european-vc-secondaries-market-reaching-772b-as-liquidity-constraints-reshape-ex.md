@@ -49,11 +49,11 @@ stance: >-
   VC-backed companies, surpassing traditional IPO and M&A exits in volume
 related:
   - INS-260403-94A3
-  - INS-260403-9A94
+  - PRI-260406-2129
   - INS-260403-8EE8
+  - PRI-260406-0A0B
+  - INS-260403-9A94
   - INS-260403-E294
-  - INS-260403-BAD6
-  - INS-260404-F45E
   - INS-260404-5E82
 ---
 PitchBook projects Europe's VC direct secondaries market will reach $77.2 billion, representing a fundamental shift in how venture-backed companies provide liquidity to shareholders. This growth is driven by constrained traditional exit paths — IPO markets remain selective and M&A activity hasn't fully recovered.

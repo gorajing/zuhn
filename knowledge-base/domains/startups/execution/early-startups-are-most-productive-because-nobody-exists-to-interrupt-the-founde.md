@@ -51,9 +51,9 @@ stance: >-
 related:
   - INS-260330-883E
   - INS-260403-D51E
+  - PRI-260406-54BE
   - PRI-260328-5B61
   - INS-260327-8254
-  - INS-260327-2B75
 ---
 Graham observes that startups are most productive at the very beginning—just a couple of founders in an apartment—and attributes this primarily to the absence of interruptions rather than the small team's passion or alignment. Once you hire 'type-B procrastinators' (ordinary office workers who are interrupt-driven), the whole company starts to resonate at their frequency.
 

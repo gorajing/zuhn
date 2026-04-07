@@ -56,7 +56,6 @@ stance: >-
   is standardization that allows less-educated workers to reliably execute
   processes they don't fully understand.
 related:
-  - INS-260321-53E2
   - INS-260323-8DE7
   - INS-260325-21D1
   - INS-260325-2B76
@@ -66,6 +65,7 @@ related:
   - INS-260330-F183
   - INS-260405-4AAD
   - INS-260403-FC4F
+  - INS-260325-8E0D
 evidence:
   - id: INS-260330-F183
     type: CHALLENGES

@@ -53,7 +53,5 @@ related:
   - INS-260329-CBF6
   - INS-260329-3DD7
   - INS-260329-BE8E
-  - INS-260329-6B3C
-  - INS-260403-401F
 ---
 Hormozi used this pattern across three businesses: a personal training startup (free via charity donations), gym launch (free turnarounds fronting all costs), and a software company (free case studies). The mechanics are: (1) free customers convert to paid after the trial period, (2) they refer new customers, (3) they provide testimonials for marketing, and (4) they give feedback to improve the product. After the initial free batch of 10-20, raise prices 20% every 5 customers. Track conversion rate × price — when total revenue per batch of sales calls declines, you've found the ceiling. This approach is especially powerful because it simultaneously builds proof while discovering market willingness to pay, rather than guessing at pricing in a vacuum.

@@ -51,11 +51,11 @@ stance: >-
   whether customers achieve measurable life changes, not by the quality of the
   educational content itself
 related:
+  - PRI-260406-765D
+  - PRI-260406-9C4B
   - PRI-260405-1FBC
+  - PRI-260406-D6F8
   - INS-260403-EE02
-  - INS-260330-06E3
-  - INS-260403-296C
-  - INS-260403-E9DD
 evidence:
   - id: INS-260329-8329
     type: EXTENDS

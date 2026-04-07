@@ -49,13 +49,11 @@ stance: >-
   capital source rather than by developing superior evaluation frameworks
 related:
   - INS-260330-A38C
-  - INS-260403-C557
+  - PRI-260406-4397
   - PRI-260403-2E59
   - PRI-260405-E9C5
   - PRI-260403-26B9
   - INS-260328-982A
-  - INS-260403-AF3B
-  - INS-260405-36E6
 ---
 The article surfaces a fundamental inversion in startup fundraising dynamics: at the angel and seed stage, the best deals are oversubscribed, meaning founders select which investors to accept. Harry Stebbings frames the key LP question as whether an investor is 'an aspirational source of capital that the very best founders consistently choose.' Louis Beryl emphasizes asking 'what is your right to invest in a deal?'
 

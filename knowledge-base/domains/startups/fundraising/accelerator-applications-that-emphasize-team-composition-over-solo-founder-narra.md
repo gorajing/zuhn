@@ -52,10 +52,10 @@ stance: >-
   for top-tier program acceptance.
 related:
   - INS-260404-9263
+  - PRI-260406-164A
   - INS-260404-ECDF
   - INS-260403-6553
   - INS-260404-2523
-  - INS-260402-2A1D
   - INS-260403-5896
 ---
 Accelerator selection committees evaluate risk, and solo founders represent a concentration risk that teams naturally mitigate. A founding team with complementary skills—technical, commercial, domain expertise—signals resilience, faster execution capacity, and the interpersonal dynamics needed to survive the intense pressure of an accelerator program.

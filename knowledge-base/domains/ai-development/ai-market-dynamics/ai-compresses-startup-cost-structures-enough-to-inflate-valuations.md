@@ -45,12 +45,12 @@ stance: >-
   AI-driven cost reduction in startups is creating a new valuation paradigm
   where leaner operations justify higher multiples, not just faster growth.
 related:
-  - INS-260327-1576
   - INS-260403-D543
-  - INS-260403-CF7C
   - INS-260403-F4CC
   - INS-260404-9BC6
+  - INS-260403-CF7C
   - INS-260403-6F8B
+  - PRI-260406-1F70
   - INS-260403-A57D
   - INS-260403-4AB2
   - INS-260404-116E

@@ -47,9 +47,9 @@ resolutions:
 related:
   - INS-260405-D660
   - INS-260403-4819
+  - PRI-260406-9D48
   - INS-260325-522A
   - INS-260323-23B9
-  - INS-260329-14AE
   - INS-260403-8A65
 stance: >-
   OpenClaw became the most popular open-source project in history within weeks,

@@ -52,7 +52,6 @@ stance: >-
   deck because professional investors hear hundreds of pitches and the first cut
   is simply being recalled.
 related:
-  - INS-260403-6F52
   - INS-260403-81CE
   - INS-260403-19D8
   - INS-260404-96C6
@@ -60,7 +59,7 @@ related:
   - INS-260403-F171
   - INS-260404-D242
   - INS-260405-E6F9
-  - INS-260405-A596
+  - PRI-260406-80E7
 evidence:
   - id: INS-260404-B87E
     type: SUPPORTS

@@ -52,13 +52,12 @@ related:
   - INS-260325-D797
   - INS-260327-FD15
   - INS-260330-BCAF
-  - INS-260330-6A94
   - INS-260403-4102
   - INS-260403-77B4
   - INS-260403-E63B
-  - INS-260403-14F4
   - INS-260404-45BB
   - INS-260323-95BC
+  - INS-260403-F8B6
 ---
 Silence after a VC intro call is the most common outcome, not rejection. VCs juggle dozens of meetings and interest fades for reasons unrelated to your startup. The instinct to chase or send frequent check-ins signals desperation and actually decreases your chances.
 

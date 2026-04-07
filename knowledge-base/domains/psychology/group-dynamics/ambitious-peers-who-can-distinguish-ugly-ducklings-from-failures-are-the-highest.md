@@ -55,12 +55,12 @@ related:
   - INS-260403-56A9
   - INS-260404-64F1
   - INS-260404-4985
-  - INS-260404-FA5B
+  - PRI-260406-D7EA
   - INS-260403-5216
   - INS-260404-F212
-  - INS-260403-1228
   - INS-260404-C29F
   - INS-260405-ED6F
+  - INS-260404-4D13
 ---
 Graham distinguishes between two types of supportive environments: people who always encourage you (which you quickly learn to discount) and people who can actually tell whether your ugly early work has real promise. The latter group is almost exclusively people working on ambitious projects themselves, because only they have calibrated intuition for what promising early-stage work looks like.
 

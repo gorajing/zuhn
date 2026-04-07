@@ -53,7 +53,7 @@ related:
   - INS-260405-3E4E
   - INS-260404-007F
   - INS-260327-7B2B
-  - INS-260404-9004
+  - PRI-260406-FBCE
 ---
 While media attention in 2012 focused on Facebook's IPO, the more instructive investments were Palo Alto Networks ($3.7B valuation) and Splunk ($2.9B). Both companies addressed problems that were growing in importance as enterprises digitized: network security threats and the need to extract value from machine-generated data.
 

@@ -53,7 +53,6 @@ stance: >-
   comes from depth of value delivery, not breadth of capability.
 related:
   - INS-260329-FEBA
-  - INS-260330-39D7
   - INS-260402-543E
   - INS-260327-F405
   - INS-260403-1C31

@@ -45,7 +45,6 @@ stance: >-
   intelligent self-compounding systems achieve fundamentally better unit
   economics than workflow automation
 related:
-  - INS-260321-B85C
   - INS-260405-B204
   - INS-260403-2609
   - PRI-260321-7307

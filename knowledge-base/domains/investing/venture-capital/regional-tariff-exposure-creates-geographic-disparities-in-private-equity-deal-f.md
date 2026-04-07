@@ -49,14 +49,15 @@ stance: >-
   Trade policy sensitivity will increasingly determine which US regions attract
   private capital, creating persistent geographic funding gaps
 related:
-  - INS-260327-F84E
   - INS-260403-CCCC
   - INS-260403-20ED
   - INS-260403-7779
   - INS-260405-1CC3
+  - PRI-260406-D802
   - INS-260403-44A6
-  - INS-260403-56FC
+  - PRI-260406-0EC6
   - INS-260403-9E97
+  - INS-260403-56FC
 ---
 The 'Liberation Day' tariffs hit US regions asymmetrically, with the Midwest seeing a 32% drop in PE deal activity and the Southeast declining 26%. These regions' economies are more exposed to trade-sensitive industries like manufacturing and agriculture, making their deal pipelines directly vulnerable to tariff policy.
 

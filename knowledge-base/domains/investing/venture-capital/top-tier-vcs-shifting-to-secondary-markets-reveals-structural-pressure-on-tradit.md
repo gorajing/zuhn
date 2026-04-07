@@ -48,10 +48,10 @@ stance: >-
   fund economics are structurally challenged, not just cyclically depressed.
 related:
   - INS-260330-9313
+  - PRI-260406-2129
   - INS-260403-2668
   - INS-260403-B53B
-  - INS-260404-2F75
-  - INS-260403-BF8C
+  - PRI-260406-6895
 ---
 Silicon Valley's Lightspeed Ventures shifting focus to secondary markets represents more than a tactical move — it signals that traditional VC investment models face structural threats from the current environment. Secondary markets allow VCs to acquire proven positions at discounted valuations rather than taking full early-stage risk.
 

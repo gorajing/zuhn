@@ -56,15 +56,12 @@ stance: >-
   extension on exit timeline can cut IRR by 30-50% even at the same valuation.
 related:
   - INS-260322-3646
-  - INS-260403-8C56
   - INS-260403-F305
   - INS-260403-2330
+  - PRI-260406-AAA9
   - INS-260403-8FD7
   - INS-260403-F4AC
   - INS-260403-248E
-  - INS-260403-6F9C
-  - INS-260403-8834
-  - INS-260403-001C
 ---
 Venture capital returns are typically quoted as MOIC (multiple on invested capital), which is time-agnostic. A 5x return sounds impressive whether it takes 3 years or 10. But IRR — which accounts for the time value of money — tells a very different story. A 5x in 3 years is roughly 71% IRR; the same 5x in 10 years is only 17% IRR.
 

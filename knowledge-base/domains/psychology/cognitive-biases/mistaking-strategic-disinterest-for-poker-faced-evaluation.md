@@ -43,12 +43,11 @@ stance: >-
   rather than structural incentive misalignment, causing them to miss critical
   market signals.
 related:
-  - INS-260403-8B13
   - INS-260403-3E9A
   - INS-260402-67B4
+  - PRI-260406-20FD
   - INS-260405-585D
   - INS-260403-9362
-  - INS-260403-61A1
 evidence:
   - id: INS-260403-3E9A
     type: CHALLENGES

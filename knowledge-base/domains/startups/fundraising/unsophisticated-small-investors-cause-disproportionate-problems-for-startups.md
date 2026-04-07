@@ -50,13 +50,12 @@ stance: >-
   operational risk than the capital is worth.
 related:
   - INS-260330-9B90
+  - PRI-260406-9226
   - INS-260402-EA72
   - PRI-260403-26B9
   - PRI-260405-E9C5
-  - INS-260403-47B7
   - INS-260403-C695
-  - INS-260330-3B31
-  - INS-260405-278F
+  - INS-260403-47B7
   - INS-260405-CE53
 evidence:
   - id: INS-260330-3B31

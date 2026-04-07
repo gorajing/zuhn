@@ -45,16 +45,16 @@ stance: >-
   of any individual decision, because most decisions are reversible and
   information compounds through action.
 related:
-  - INS-260322-D1AB
   - INS-260322-1A20
   - INS-260329-5C7A
   - INS-260329-59A5
+  - PRI-260406-0E02
   - INS-260404-0C67
+  - PRI-260406-A4AA
   - INS-260330-B4F1
   - INS-260404-DF88
-  - INS-260330-AA4F
-  - INS-260402-CCC3
   - INS-260330-4E10
+  - INS-260330-2B29
 evidence:
   - id: INS-260323-01F9
     type: SUPPORTS

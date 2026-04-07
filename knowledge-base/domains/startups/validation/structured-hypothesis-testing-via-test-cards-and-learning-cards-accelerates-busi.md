@@ -48,11 +48,11 @@ stance: >-
   Formalizing business hypotheses into test cards with explicit pass/fail
   criteria produces faster validated learning than ad-hoc experimentation
 related:
+  - PRI-260406-1B3A
   - INS-260403-FFEA
   - INS-260405-9460
   - INS-260330-0102
   - INS-260323-4D8D
-  - PRI-260328-8E01
 evidence:
   - id: INS-260323-4D8D
     type: TRANSFERS_TO

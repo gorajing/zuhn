@@ -53,8 +53,6 @@ related:
   - PRI-260328-A4AC
   - PRI-260324-12CF
   - PRI-260328-0993
-  - INS-260403-EB97
-  - INS-260403-CA42
 ---
 Research consistently shows that companies maintaining innovation investment during economic crises experience superior growth and performance afterward. The intuition to cut innovation budgets during uncertainty is widespread but counterproductive — it sacrifices future positioning precisely when competitors are also pulling back, creating a wider field for those who stay the course.
 

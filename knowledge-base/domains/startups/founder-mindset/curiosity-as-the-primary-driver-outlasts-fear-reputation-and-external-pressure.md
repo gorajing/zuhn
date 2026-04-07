@@ -50,6 +50,7 @@ resolutions:
     creates a sustainable engine.
 related:
   - INS-260323-73AB
+  - PRI-260406-229E
   - INS-260403-E6FD
   - INS-260327-4EDE
   - INS-260330-2B42
@@ -57,7 +58,6 @@ related:
   - INS-260326-4164
   - INS-260402-F5E0
   - INS-260403-C0E6
-  - INS-260405-36AF
 stance: >-
   At 54 with grown children and strong convictions, Carlson finds that pure
   curiosity ('I was just interested') is the most sustainable and honest dr...

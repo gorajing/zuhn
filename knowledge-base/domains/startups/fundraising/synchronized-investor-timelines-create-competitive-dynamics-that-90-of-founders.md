@@ -53,8 +53,9 @@ related:
   - INS-260322-8F80
   - INS-260327-E9F3
   - INS-260330-6900
+  - PRI-260406-EC93
   - INS-260403-E541
-  - INS-260402-5974
+  - PRI-260406-04DB
 ---
 The most common fundraising failure mode is allowing investors to progress at different speeds. When one fund gets ahead, founders face impossible choices: accept a term sheet from their least-preferred investor or reject it and risk losing all leverage. The solution is treating fundraising as market-making — compressing 50-60 first meetings into a 2-3 week window (max 4-5 per day) and actively managing each fund's diligence timeline to keep them synchronized.
 

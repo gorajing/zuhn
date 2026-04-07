@@ -52,10 +52,10 @@ stance: >-
 related:
   - INS-260330-EA8B
   - INS-260330-24CD
+  - PRI-260406-7BA2
   - INS-260330-0FAF
   - INS-260330-534C
   - PRI-260405-7F1E
-  - INS-260403-C49F
 evidence:
   - id: INS-260403-C49F
     type: TRANSFERS_TO

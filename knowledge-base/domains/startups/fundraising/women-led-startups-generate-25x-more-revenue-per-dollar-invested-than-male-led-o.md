@@ -50,13 +50,11 @@ stance: >-
   The gender funding gap in VC represents systematic capital misallocation that
   costs investors real returns, not a fairness issue
 related:
-  - INS-260405-ABB4
-  - INS-260403-E419
   - INS-260404-A2AE
+  - PRI-260406-FC94
   - INS-260403-A57D
   - INS-260403-6694
   - INS-260404-3687
-  - PRI-260405-E9C5
 ---
 BCG research shows women-led startups generated $730K in revenue over five years compared to $662K for male-led ones — a modest absolute gap. But when adjusted for capital raised (women raise less than half), the capital efficiency becomes stark: $0.78 per dollar vs $0.31. Female-only founders received just 2% of global VC in 2024, dropping to 0.8% in early 2025.
 

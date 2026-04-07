@@ -53,7 +53,6 @@ related:
   - INS-260327-FC68
   - INS-260403-518E
   - INS-260323-FE33
-  - INS-260402-B065
 evidence:
   - id: INS-260327-FC68
     type: TRANSFERS_TO

@@ -40,11 +40,11 @@ stance: >-
   union demands for higher wages threaten the margin structure that makes the
   experience profitable.
 related:
+  - PRI-260406-E9F2
   - INS-260327-8F03
   - INS-260405-AC40
   - INS-260403-85DE
   - INS-260405-C8BC
-  - INS-260404-007B
 evidence:
   - id: INS-260329-D8C7
     type: TRANSFERS_TO

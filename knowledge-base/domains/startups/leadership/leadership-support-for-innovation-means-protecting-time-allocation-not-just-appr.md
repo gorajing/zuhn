@@ -49,16 +49,16 @@ stance: >-
   The most common way leaders kill innovation is not by cutting budgets but by
   refusing to adapt team workloads to make time for innovation activities
 related:
-  - INS-260325-DB7D
   - INS-260325-0FED
   - INS-260327-9830
   - INS-260330-1F41
-  - INS-260330-8920
   - INS-260403-D022
   - INS-260403-6731
   - INS-260403-3A7A
   - INS-260403-566D
   - INS-260403-3A34
+  - PRI-260406-A7EC
+  - INS-260403-F75F
 evidence:
   - id: INS-260325-DB7D
     type: TRANSFERS_TO

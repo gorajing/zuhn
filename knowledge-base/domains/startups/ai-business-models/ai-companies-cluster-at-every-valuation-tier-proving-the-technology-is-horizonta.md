@@ -56,7 +56,6 @@ related:
   - INS-260405-FE74
   - INS-260403-FF65
   - INS-260404-C147
-  - INS-260405-9492
   - INS-260403-FA8E
 ---
 The 2025 ranking contains AI companies in nearly every category: OpenAI and Anthropic in foundational models, Anduril and Helsing in defense, Figure AI in robotics, Perplexity in search, Cursor in developer tools, Mercor in hiring, and Sierra in enterprise. This distribution across verticals and valuation tiers ($10B-$157B) mirrors how previous platform shifts like cloud computing created value horizontally rather than in a single sector. For founders and investors, this means AI startup opportunities exist in virtually any domain with sufficient data and workflow complexity, not just in the model layer.

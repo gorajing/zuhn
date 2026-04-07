@@ -47,10 +47,11 @@ stance: >-
   understanding the distortion category matters more than memorizing rebuttals.
 related:
   - INS-260329-116A
+  - PRI-260406-05B5
+  - PRI-260406-CF83
   - INS-260327-D7E6
+  - PRI-260406-5ECB
   - INS-260403-36C1
-  - INS-260330-A151
-  - INS-260329-4D5E
 evidence:
   - id: INS-260330-A151
     type: TRANSFERS_TO

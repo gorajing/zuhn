@@ -61,7 +61,6 @@ related:
   - INS-260403-FB0C
   - INS-260404-B6B1
   - INS-260327-DD1D
-  - INS-260404-9696
 ---
 Uri Levine argues that founders waste critical time during crises because they fail to correctly diagnose what type of crisis they're in. A cash crisis — caused by lost customers, disappearing investors, or missed expectations — requires immediate expense reduction, primarily through headcount decisions since 70-75% of budget is people. A product-market-fit crisis — caused by market shifts, regulation, or competition — requires going back to square one and potentially pivoting the entire business model.
 

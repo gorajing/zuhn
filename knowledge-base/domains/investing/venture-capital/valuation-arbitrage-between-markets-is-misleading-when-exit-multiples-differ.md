@@ -52,10 +52,10 @@ stance: >-
   valuations scale differently.
 related:
   - INS-260404-25FF
+  - PRI-260406-CA93
   - INS-260403-B98A
   - INS-260330-F527
-  - INS-260403-248E
-  - INS-260403-E503
+  - PRI-260406-AAA9
   - INS-260403-53AF
   - INS-260327-575D
 evidence:

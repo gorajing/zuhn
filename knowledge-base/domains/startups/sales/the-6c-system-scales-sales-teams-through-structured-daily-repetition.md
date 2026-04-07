@@ -45,16 +45,15 @@ stance: >-
   Daily call reviews, scripted role-plays, and competitive leaderboards produce
   more consistent sales team performance than periodic training events.
 related:
-  - INS-260322-7F88
   - INS-260327-999C
   - INS-260327-8FD4
   - INS-260329-C56D
   - INS-260329-2ECE
   - INS-260322-D57C
+  - PRI-260406-CCAE
   - INS-260330-0E4B
+  - PRI-260406-7FE4
   - PRI-260403-7D1F
-  - INS-260404-19B0
-  - INS-260403-9CC1
 evidence:
   - id: INS-260329-2ECE
     type: TRANSFERS_TO

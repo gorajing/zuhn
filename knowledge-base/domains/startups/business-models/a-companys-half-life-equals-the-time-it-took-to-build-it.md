@@ -49,6 +49,6 @@ related:
   - INS-260330-D272
   - INS-260405-4D20
   - INS-260405-C764
-  - INS-260323-19A8
+  - PRI-260406-04DB
 ---
 Chamath presents an axiom that the time it takes to build a company is also often its half-life. This implies that companies rushed to scale through cheap capital and aggressive growth shortcuts accumulate structural fragility — their moats, culture, and unit economics were never stress-tested. The practical implication for founders is that growing slower and more methodically, while painful in a boom cycle, produces more durable businesses. This reframes patience not as a competitive disadvantage but as a durability investment — the slower build creates deeper foundations that resist decay.

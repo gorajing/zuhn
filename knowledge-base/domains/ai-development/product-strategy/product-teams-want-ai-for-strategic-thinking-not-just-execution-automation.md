@@ -54,8 +54,7 @@ related:
   - INS-260403-063E
   - INS-260403-39CF
   - PRI-260328-B2EA
-  - INS-260403-E23C
-  - INS-260403-902F
+  - PRI-260406-2BC0
 ---
 A survey of 1,750 tech professionals reveals a telling split: product managers want AI for research, founders want it for ideation, and engineers are shifting from coding to documentation, code review, and testing. The common thread is that all roles are moving AI upstream—from execution tasks toward strategic thinking support.
 

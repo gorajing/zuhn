@@ -51,7 +51,6 @@ stance: >-
   makes decomposition practical rather than theoretical
 related:
   - INS-260322-3083
-  - INS-260325-696D
   - INS-260320-77C2
   - INS-260330-B50A
   - INS-260330-E8BD
@@ -60,6 +59,7 @@ related:
   - INS-260330-3819
   - INS-260330-C8ED
   - INS-260330-6DEB
+  - INS-260403-979D
 evidence:
   - id: INS-260322-3083
     type: TRANSFERS_TO

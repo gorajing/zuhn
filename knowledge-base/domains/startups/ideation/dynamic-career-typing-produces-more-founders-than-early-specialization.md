@@ -52,14 +52,15 @@ stance: >-
   only happens when people are free to make career decisions on the fly.
 related:
   - INS-260328-3FA4
+  - PRI-260406-54BE
   - INS-260403-D51E
   - INS-260327-E2BC
   - INS-260330-5A0A
   - INS-260403-573F
-  - INS-260404-D8D8
   - INS-260403-37B9
   - INS-260403-4760
   - INS-260405-EAF3
+  - INS-260404-D8D8
 ---
 Graham draws an analogy between programming language type systems and career systems: America's 'dynamic typing' for careers — where people often don't choose their specialty until after college — produces more startups than Europe's 'static typing' where career tracks are locked in during high school. The mechanism is that startup founding is inherently unplannable; no high schooler chooses it, and when forced to choose early, people pick conservative, well-understood occupations like doctor or lawyer.
 

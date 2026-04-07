@@ -52,12 +52,9 @@ related:
   - INS-260323-3239
   - INS-260326-80B1
   - INS-260327-40DA
-  - INS-260329-F7F4
-  - INS-260403-6731
-  - INS-260403-EFAC
   - INS-260403-FFBD
   - INS-260403-4572
+  - PRI-260406-9780
   - PRI-260328-0BE1
-  - PRI-260405-0AC6
 ---
 The article describes companies entering with little more than a prototype and leaving with millions in ARR, with some already at $2-2.5M ARR by Progress Day (the midpoint). This isn't just impressive fundraising — it reveals that compressed, high-pressure environments with dense feedback loops (partners, peer founders, potential customers) can dramatically accelerate the validation cycle. The traditional startup timeline of months-to-years for initial revenue gets compressed to weeks when founders are forced into an environment that removes all distractions and provides immediate access to decision-makers. This supports the broader principle that external constraints and deadlines are often more effective at driving execution speed than internal motivation alone.

@@ -53,8 +53,8 @@ related:
   - INS-260403-617C
   - INS-260402-3095
   - INS-260329-ACE6
+  - PRI-260406-B97E
   - INS-260330-B8C6
-  - INS-260327-9BA2
 ---
 The argument draws on neuroscience that dissociates language production from general cognition — the brain regions responsible for fluent speech are distinct from those handling abstract reasoning and creativity. This means LLMs, which are fundamentally optimized to predict the next token in a sequence, may be learning the surface patterns of how humans communicate ideas rather than the deeper processes that generate those ideas.
 

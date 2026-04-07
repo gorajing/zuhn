@@ -53,11 +53,11 @@ stance: >-
   narrative clarity, customer empathy, and adaptability—and they form this
   judgment within minutes.
 related:
+  - PRI-260406-7710
   - PRI-260405-E256
   - INS-260326-291C
+  - PRI-260406-D181
   - INS-260403-FE3B
-  - INS-260402-9681
-  - INS-260402-2A1D
 ---
 While VCs rarely disclose their exact evaluation criteria, the article reveals a consistent internal pattern: they score founders across domain expertise (inside knowledge of the market), obsession (intrinsic motivation beyond money), execution history (past shipping/leading experience), network access (ability to reach first customers and hires), narrative clarity (connecting background to mission), customer empathy (genuine understanding of user pain), and adaptability (speed of iteration and feedback incorporation).
 

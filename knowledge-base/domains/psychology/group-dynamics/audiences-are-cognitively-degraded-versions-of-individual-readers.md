@@ -47,10 +47,10 @@ stance: >-
   primitive emotional reactions over intellectual ones.
 related:
   - INS-260327-9D51
-  - INS-260330-5B0C
   - INS-260402-7C15
   - INS-260402-F3D7
   - PRI-260324-1134
+  - PRI-260406-5ECB
   - INS-260403-FE91
 evidence:
   - id: INS-260330-5B0C

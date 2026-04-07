@@ -54,7 +54,6 @@ related:
   - INS-260323-8AA1
   - INS-260323-40AA
   - INS-260323-E0B5
-  - INS-260321-3D65
 stance: >-
   Software that makes you similar to everyone else (beta) will be replaced by
   AI/vibe-coding

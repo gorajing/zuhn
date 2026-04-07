@@ -45,11 +45,11 @@ stance: >-
   incentive structure that prioritizes narrative over results.
 related:
   - INS-260327-4212
+  - PRI-260406-1AA1
   - INS-260403-D880
   - INS-260403-4314
   - INS-260403-9CC1
   - INS-260327-505A
-  - INS-260403-2647
 evidence:
   - id: INS-260327-4212
     type: SUPPORTS

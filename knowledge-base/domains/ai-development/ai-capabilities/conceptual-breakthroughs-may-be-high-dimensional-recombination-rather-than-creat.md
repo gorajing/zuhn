@@ -53,11 +53,11 @@ stance: >-
   invention.
 related:
   - INS-260323-A0CE
+  - PRI-260406-BD4D
+  - PRI-260406-B9E0
   - INS-260323-C10D
   - PRI-260328-AC85
   - PRI-260328-C528
-  - INS-260321-7D7C
-  - INS-260403-A4CF
 evidence:
   - id: INS-260323-A0CE
     type: SUPPORTS

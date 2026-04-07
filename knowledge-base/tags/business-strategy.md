@@ -2,8 +2,8 @@
 
 - `INS-260323-3A98` No business became an industry leader through cost-cutting alone — AI investments driven by competitive fear rather than strategic vision will fail.
 - `INS-260403-02E2` Treating AGI arrival as an instant winner-take-all event is faith-based reasoning that substitutes for sound business fundamentals.
-- `INS-260327-3377` Credit card rewards create a psychological illusion of getting something for free that causes consumers to spend more ov
 - `INS-260405-C0AF` Surviving retailers like Costco, Ross, Aldi, and Dollar General prove physical retail isn't dying — only undifferentiated or maladapted retail is.
+- `INS-260327-3377` Credit card rewards create a psychological illusion of getting something for free that causes consumers to spend more ov
 - `INS-260327-07FC` Airlines generate enormous revenue but trivial profits because the industry structure — high fixed costs, commodity pric
 - `INS-260327-8E9D` Theme parks must continuously invest in new rides because each new attraction generates declining visitor impact over ti
 - `INS-260327-B715` Cruise lines earn higher margins than airlines because the ship is a captive-market platform where all spending occurs w

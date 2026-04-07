@@ -59,9 +59,9 @@ related:
   - INS-260403-D500
   - INS-260403-BAD7
   - INS-260405-AB6B
-  - INS-260323-8AB8
   - INS-260405-FFCE
   - INS-260403-36DB
+  - PRI-260406-CA93
 ---
 The choice between discount and valuation cap in a SAFE has asymmetric consequences depending on how much the company grows before the next priced round. A 20% discount means the SAFE investor converts at 80% of the round price—a bounded, predictable dilution. A valuation cap, however, locks in a maximum conversion price. If the company raises at 2-5x the cap, the investor gets shares at a fraction of what new investors pay.
 

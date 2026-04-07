@@ -47,12 +47,10 @@ stance: >-
   Companies that run fewer than 150 ideas per year lack the portfolio diversity
   needed for breakthrough innovation and default to incremental improvement
 related:
-  - INS-260327-7B0C
   - INS-260328-6A18
   - INS-260330-F2EB
   - INS-260403-566D
   - INS-260403-FAD8
-  - INS-260403-BDCC
   - INS-260405-7AE0
   - INS-260321-E471
   - INS-260403-0372

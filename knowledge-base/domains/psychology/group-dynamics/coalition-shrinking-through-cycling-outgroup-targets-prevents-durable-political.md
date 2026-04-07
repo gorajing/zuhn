@@ -55,10 +55,10 @@ stance: >-
   time.
 related:
   - INS-260330-5A0B
+  - PRI-260406-1B8A
   - INS-260402-1640
   - INS-260327-C7BF
   - INS-260405-59AB
-  - INS-260323-CB34
 ---
 Smith describes MAGA as a 'roving Eye of Sauron' that cycles through racial targets — Black Americans, Jewish Americans, Hispanics, Indian immigrants, East Asians — to keep base engagement high. Leaders stir up fear, then back off when pushback mounts, but must find new targets to maintain the emotional energy. Each cycle permanently alienates a group that might otherwise have been recruited.
 

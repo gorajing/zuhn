@@ -51,11 +51,11 @@ stance: >-
   conditions turn favorable.
 related:
   - INS-260405-5F16
+  - PRI-260406-F443
   - INS-260404-E55F
   - INS-260405-A671
   - INS-260405-FCA9
   - PRI-260328-6A8D
-  - INS-260405-2F43
 ---
 Rubrik's April 2024 IPO timing wasn't lucky — it was the result of years of preparation meeting a favorable market moment. The company had already completed its painful subscription revenue transition, achieved strong unit economics (133% NRR), and built strategic partnerships before the 2024 tech IPO window opened. Companies that wait for favorable conditions to start preparing typically miss the window entirely.
 

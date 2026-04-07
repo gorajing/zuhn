@@ -52,9 +52,9 @@ stance: >-
 related:
   - INS-260329-2DF2
   - INS-260329-48FD
+  - PRI-260406-FA5B
   - INS-260329-C5C6
   - INS-260403-65D2
-  - INS-260330-AE16
 evidence:
   - id: INS-260329-F211
     type: SUPPORTS

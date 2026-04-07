@@ -47,9 +47,7 @@ related:
   - INS-260404-1B7E
   - INS-260405-6EE5
   - INS-260322-A02C
+  - PRI-260406-04DB
   - INS-260404-EFA0
-  - INS-260405-EB7E
-  - INS-260405-BCF4
-  - INS-260405-9492
 ---
 Cambridge Associates — one of the most influential institutional advisors to endowments and pension funds — is explicitly telling LPs to pull back from seed-stage strategies in 2026. The reasoning is structural: too much capital chasing too few breakout outcomes, valuations that compress future returns, and a path to liquidity (IPO or meaningful acquisition) that has lengthened significantly. The one exception noted is AI-focused seed funds that can access secondary sales as an intermediate liquidity mechanism. This signals a potential funding drought at the earliest stages, which may paradoxically benefit the best seed managers (less competition) while squeezing marginal ones out of the market.

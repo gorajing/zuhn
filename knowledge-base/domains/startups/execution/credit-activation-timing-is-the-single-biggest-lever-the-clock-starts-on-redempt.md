@@ -60,7 +60,7 @@ related:
   - INS-260403-1B15
   - INS-260405-844D
   - INS-260323-19A8
-  - INS-260403-6E68
+  - PRI-260406-E1D5
 ---
 Most credit programs start their expiration clock the moment you activate, not when you apply or get approved. This means founders who activate during the prototype phase burn through free months before their real workloads begin. The playbook is to get approvals in place early (many programs take weeks to process and require partner referrals) but trigger activation only at launch, first user onboarding, or pilot stage.
 

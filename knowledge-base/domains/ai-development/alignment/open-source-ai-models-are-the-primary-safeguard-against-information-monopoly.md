@@ -45,7 +45,6 @@ stance: >-
   structural safeguard against a few companies becoming chokepoints for
   information access.
 related:
-  - INS-260325-DE23
   - INS-260328-9B8A
   - PRI-260328-5464
   - INS-260403-27F5
@@ -55,6 +54,7 @@ related:
   - INS-260323-E1B6
   - PRI-260328-7A9C
   - INS-260330-F734
+  - INS-260403-B1D6
 evidence:
   - id: INS-260325-FD0F
     type: EXTENDS

@@ -50,9 +50,9 @@ stance: >-
 related:
   - INS-260327-DE27
   - INS-260327-BE1F
+  - PRI-260406-E1D5
   - INS-260327-A5F9
   - PRI-260403-26B9
-  - INS-260403-01FD
   - INS-260402-A629
 evidence:
   - id: INS-260327-DE27

@@ -52,8 +52,8 @@ related:
   - INS-260404-7679
   - INS-260404-841B
   - INS-260405-2F43
+  - PRI-260406-CB40
   - INS-260403-F387
-  - INS-260405-6EE5
 ---
 A growing movement of venture capitalists are explicitly branding themselves as anti-woke, creating funds that reject ESG-oriented or DEI-focused investment criteria. This represents a fundamental shift from venture capital's traditional positioning as ideology-agnostic and purely returns-driven.
 

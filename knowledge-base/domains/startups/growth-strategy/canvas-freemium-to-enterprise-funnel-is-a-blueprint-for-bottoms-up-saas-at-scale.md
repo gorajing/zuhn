@@ -57,7 +57,6 @@ related:
   - INS-260403-6E23
   - INS-260403-F62E
   - PRI-260328-6A8D
-  - INS-260403-18F7
 ---
 Canva's sales funnel demonstrates that bottoms-up product-led growth and top-down enterprise sales are not mutually exclusive — they're complementary flywheels. The freemium product creates millions of individual users who become internal champions when their organizations evaluate enterprise tools.
 

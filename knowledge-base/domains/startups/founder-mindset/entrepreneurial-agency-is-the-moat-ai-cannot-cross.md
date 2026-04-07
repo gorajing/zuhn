@@ -53,7 +53,6 @@ stance: >-
   that separate entrepreneurs from job-holders.
 related:
   - INS-260323-C4E2
-  - INS-260323-73AB
   - INS-260327-0053
   - INS-260329-3924
   - INS-260327-9C00

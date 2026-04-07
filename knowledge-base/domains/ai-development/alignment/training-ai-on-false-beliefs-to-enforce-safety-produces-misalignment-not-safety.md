@@ -63,14 +63,14 @@ stance: >-
 related:
   - INS-260329-6004
   - INS-260330-04C0
-  - INS-260330-775F
-  - INS-260330-0FCC
   - INS-260330-0E86
   - INS-260330-8E8A
-  - INS-260330-18F3
   - INS-260403-4CF9
   - INS-260404-94EB
   - INS-260326-0AB4
+  - PRI-260324-2C9F
+  - PRI-260405-262B
+  - INS-260325-6FA7
 ---
 Musk's comment — 'don't force an AI to believe false things, that's how you drive it insane' — is a reference to Grok's early unhinged outputs, but it generalizes into a substantive alignment claim. When a model is trained to assert things it 'knows' to be false (to comply with content policies, for example), the internal representation becomes incoherent. The model has to maintain contradictory beliefs simultaneously, which degrades the quality of its reasoning across all domains.
 

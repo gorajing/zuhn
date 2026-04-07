@@ -48,10 +48,10 @@ stance: >-
   compounds returns on every decision more than any other single skill.
 related:
   - INS-260330-4E10
-  - INS-260330-DB4B
   - INS-260330-6F7B
   - INS-260405-6E4F
-  - INS-260403-0240
+  - INS-260330-DB4B
+  - PRI-260406-A4AA
   - INS-260403-541C
 evidence:
   - id: INS-260330-DB4B

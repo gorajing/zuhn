@@ -43,14 +43,14 @@ stance: >-
   Early-life exposure to accuracy-focused judgments (grades, rules) trains
   people to wrongly assume all adult judgments aim for correctness.
 related:
-  - INS-260329-3D3E
   - INS-260330-0764
   - INS-260404-0570
   - INS-260404-67C5
   - INS-260404-E185
   - INS-260404-DA41
   - PRI-260405-ADEA
-  - PRI-260324-2C9F
+  - PRI-260406-A4AA
+  - PRI-260406-4C28
 evidence:
   - id: INS-260329-A2D0
     type: SUPPORTS

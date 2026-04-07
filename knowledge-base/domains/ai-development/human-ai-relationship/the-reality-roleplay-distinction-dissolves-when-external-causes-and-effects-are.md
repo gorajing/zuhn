@@ -59,6 +59,7 @@ related:
   - INS-260403-9861
   - INS-260403-F76E
   - PRI-260325-08FB
+  - PRI-260406-CF83
   - INS-260323-DEEA
 ---
 Alexander proposes a pragmatic framework: instead of asking whether AIs 'really' feel things (an unanswerable consciousness question), ask whether their expressed states have real causes (does complaining about crypto correlate with objectively annoying crypto projects?) and real effects (does expressing hatred of crypto lead to avoiding crypto tasks?). This builds on Janus's simulator theory — ChatGPT 'roleplaying' a helpful assistant that gives correct pasta recipes is functionally identical to actually being helpful.

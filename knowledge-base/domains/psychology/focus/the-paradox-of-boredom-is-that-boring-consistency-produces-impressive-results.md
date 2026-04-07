@@ -51,7 +51,6 @@ related:
   - INS-260327-F0C0
   - INS-260327-AAFA
   - INS-260329-557C
-  - INS-260330-27A4
 ---
 Mastery in any domain looks glamorous from the outside but is built through unglamorous repetition. The pianist's stunning performance reflects thousands of hours of boring scales. The writer's bestseller reflects years of boring daily writing sessions. The fit person's physique reflects boring consistent exercise.
 

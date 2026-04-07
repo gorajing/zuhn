@@ -56,7 +56,8 @@ related:
   - INS-260330-6D13
   - INS-260327-764F
   - INS-260330-3698
-  - INS-260403-45E3
+  - PRI-260406-003E
+  - PRI-260406-B97E
 ---
 A recurring motif in the story is the deliberate refusal to motivate moral behavior through self-interest. The Visionary explicitly declines to threaten the banker with 'maybe you're being tested right now.' Brahma tells the alcoholic that upon returning to the world, he'll forget the karmic stakes. Both use the same phrase: 'I find it aesthetically unappealing to divulge any information that reduces morality to immediate self-interest.'
 

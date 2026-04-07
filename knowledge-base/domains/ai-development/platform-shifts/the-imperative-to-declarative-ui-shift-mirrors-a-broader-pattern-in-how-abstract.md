@@ -54,7 +54,6 @@ stance: >-
   function of state eliminates an entire class of synchronization bugs.
 related:
   - INS-260329-0EAC
-  - INS-260330-82B2
   - INS-260330-6B7F
   - INS-260403-2115
   - INS-260403-1C10

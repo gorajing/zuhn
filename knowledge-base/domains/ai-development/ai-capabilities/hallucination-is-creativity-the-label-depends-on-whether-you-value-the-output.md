@@ -52,12 +52,12 @@ related:
   - INS-260325-ADF3
   - INS-260323-9773
   - PRI-260323-1CF9
-  - INS-260323-1930
+  - PRI-260406-B9E0
   - INS-260322-38D8
   - INS-260323-369C
+  - INS-260323-1930
   - INS-260323-FCC1
   - INS-260327-7214
-  - INS-260327-6EFB
 stance: LLM hallucination and creativity are the same mechanism
 evidence:
   - id: INS-260330-2B3F

@@ -41,10 +41,10 @@ stance: >-
   on top of consumption.
 related:
   - INS-260327-07FC
+  - PRI-260406-9573
   - PRI-260328-F0B4
   - PRI-260324-12CF
   - INS-260327-D129
-  - INS-260329-9E6C
 evidence:
   - id: INS-260329-1B2A
     type: SUPPORTS

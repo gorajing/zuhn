@@ -56,6 +56,7 @@ stance: >-
   disproportionate supplier negotiating power that more than compensates for the
   lost breadth
 related:
+  - PRI-260406-6D04
   - INS-260403-F4D3
   - INS-260403-4874
   - INS-260404-41AA

@@ -62,7 +62,7 @@ related:
   - INS-260403-DB0A
   - INS-260403-500F
   - INS-260325-803C
-  - INS-260403-4D04
+  - PRI-260406-AA07
   - INS-260403-CBED
 ---
 Bor and Petersen (2021) found that hostile political discussions online aren't caused by the medium making normal people angrier — they result from status-driven individuals who are equally hostile offline but gain disproportionate visibility online. Social media makes their behavior more visible, not more common. Eugene Wei's framing of social media as a status game explains why: 10,000 followers represents more attention than most people receive in their entire lives, making divisiveness a rational entrepreneurial strategy for those who crave status.

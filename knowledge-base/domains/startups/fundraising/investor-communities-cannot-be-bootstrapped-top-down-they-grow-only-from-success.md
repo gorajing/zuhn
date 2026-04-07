@@ -51,9 +51,9 @@ stance: >-
 related:
   - INS-260330-E811
   - INS-260403-7C67
+  - PRI-260406-3AE8
   - INS-260323-3ADC
   - INS-260404-5CC6
-  - INS-260402-6BB6
 evidence:
   - id: INS-260323-3ADC
     type: CHALLENGES

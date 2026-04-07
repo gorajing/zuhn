@@ -50,11 +50,11 @@ stance: >-
   measurement becomes useless — you must eliminate error sources before
   attempting to judge quality, not aggregate more opinions.
 related:
+  - PRI-260406-E3D0
   - INS-260403-A5FF
   - INS-260403-9C60
   - INS-260403-8391
   - INS-260402-E994
-  - INS-260403-31B1
 evidence:
   - id: INS-260402-E994
     type: CHALLENGES

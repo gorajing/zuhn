@@ -52,7 +52,6 @@ related:
   - INS-260402-8424
   - INS-260403-6044
   - INS-260404-6914
-  - INS-260403-E2DE
   - INS-260328-988F
 ---
 Jackie Dimonte's argument is that standard top-down TAM analysis (serviceable market × price) systematically undercounts niche opportunities for two reasons: it misses the value expansion that comes from dominating a vertical (pricing power, adjacent upsell), and it filters for markets that already look large rather than markets that will become large once a category-defining product exists. The irony is that VCs chasing large TAMs often fund crowded markets where margin compression is inevitable, while genuinely niche opportunities with defensible moats get passed on as 'too small.' The practical insight: a startup that owns 80% of a $500M niche is often more valuable than one with 5% of a $10B contested market.

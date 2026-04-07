@@ -38,10 +38,11 @@ resolutions:
     itself.
 related:
   - INS-260403-C05F
+  - PRI-260406-CBC2
+  - PRI-260406-5F31
   - PRI-260324-12CF
   - INS-260329-D062
   - INS-260403-6AB5
-  - PRI-260405-3080
   - INS-260320-F872
 stance: >-
   A research organization is described by its program.md — you can imagine

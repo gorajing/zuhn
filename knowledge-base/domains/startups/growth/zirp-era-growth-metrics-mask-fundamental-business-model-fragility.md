@@ -47,15 +47,14 @@ stance: >-
   unit economics than companies founded during high-rate environments because
   cheap capital rewards revenue growth over profitability
 related:
-  - INS-260324-861B
   - INS-260327-226A
   - INS-260328-AB0C
   - INS-260402-96E2
   - INS-260403-368A
-  - INS-260405-110D
   - INS-260403-E33B
   - PRI-260405-5912
   - PRI-260328-0993
   - INS-260404-B6DF
+  - INS-260402-9EBD
 ---
 The market's tendency during low-rate environments to reward each dollar of revenue growth with multiple dollars of enterprise value creates a toxic incentive structure. Companies rationally choose to grow at any cost because the market explicitly rewards it. This produces 'unsustainable growth models' that are extremely difficult to reverse when the rate regime changes. The comparison is stark: Microsoft, Google, and Meta all went public during rising-rate regimes and were resoundingly profitable at and after IPO. Uber and Snapchat, founded during ZIRP, have never generated a full year of positive EBITDA. For founders today, this is an immediate actionability insight: if you're building during a high-rate environment, the discipline forced upon you is actually a structural advantage. Your competitors from the ZIRP era are struggling to restructure business models that were never designed for profitability.

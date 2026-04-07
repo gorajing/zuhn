@@ -54,11 +54,12 @@ related:
   - INS-260403-CDF1
   - INS-260404-74DD
   - INS-260405-EB7E
+  - PRI-260406-FCF0
   - INS-260403-5056
   - INS-260403-6694
-  - INS-260404-3687
   - INS-260403-67AB
   - INS-260405-6317
+  - PRI-260406-164A
 ---
 AI startups captured 41.7% of all US seed-stage investment in 2025, with median seed valuations of $19M compared to $15M for the broader market — a 27% premium. This creates a two-sided dynamic: AI founders get higher valuations but compete against a massive concentration of similarly positioned companies for VC attention.
 

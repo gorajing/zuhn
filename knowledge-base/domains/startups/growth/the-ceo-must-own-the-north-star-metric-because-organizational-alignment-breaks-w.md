@@ -54,11 +54,11 @@ stance: >-
   optimizes for
 related:
   - INS-260327-5A72
+  - PRI-260406-818D
   - INS-260403-A0B0
   - INS-260330-21CC
   - INS-260330-9C48
   - INS-260327-9DA6
-  - INS-260330-4553
 evidence:
   - id: INS-260327-5A72
     type: CHALLENGES

@@ -53,9 +53,8 @@ related:
   - INS-260403-872C
   - INS-260404-8ACB
   - INS-260403-9F78
+  - PRI-260406-A5F0
   - INS-260404-6DA9
-  - INS-260404-A46A
-  - INS-260404-4320
 ---
 When you frame a project as 'making something,' failure means you made something bad. When you frame it as 'running an experiment,' failure means you learned something. This single reframe changes the entire emotional calculus of ambitious work. The fear of lameness loses its grip because experiments are supposed to produce messy, incomplete results.
 

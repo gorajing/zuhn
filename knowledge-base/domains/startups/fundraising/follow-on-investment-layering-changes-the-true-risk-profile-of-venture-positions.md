@@ -56,12 +56,11 @@ stance: >-
   fundamentally different risk profile than evaluating only the initial check
   size.
 related:
-  - INS-260330-2BB3
-  - INS-260403-C7AB
+  - PRI-260406-B9A3
   - INS-260405-36E6
+  - INS-260403-C7AB
   - INS-260403-71E6
   - INS-260403-3BBB
-  - PRI-260405-0099
 ---
 Investors and founders commonly evaluate returns against the initial investment amount, but most venture positions involve follow-on capital. A $500K seed check that becomes $2M total deployed across seed, Series A, and Series B pro-rata has a very different return profile than it appears when evaluated against just the initial check.
 

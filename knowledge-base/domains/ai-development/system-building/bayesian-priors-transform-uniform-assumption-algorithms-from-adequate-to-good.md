@@ -55,10 +55,10 @@ stance: >-
   algorithms operating on uniform assumptions.
 related:
   - INS-260330-77E2
+  - PRI-260406-F95C
   - INS-260325-9C89
   - INS-260330-8A65
   - INS-260403-1EFF
-  - PRI-260403-5B3D
 evidence:
   - id: INS-260330-8A65
     type: CHALLENGES

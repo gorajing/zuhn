@@ -45,9 +45,9 @@ stance: >-
 related:
   - INS-260327-0E57
   - INS-260330-579B
+  - PRI-260406-C4C5
   - INS-260327-CEE4
   - INS-260327-8C1C
-  - INS-260330-D61A
 evidence:
   - id: INS-260330-D61A
     type: CONTRADICTS

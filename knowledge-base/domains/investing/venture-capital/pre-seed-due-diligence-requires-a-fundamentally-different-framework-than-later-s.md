@@ -54,10 +54,10 @@ stance: >-
 related:
   - INS-260403-BF83
   - INS-260403-5301
+  - PRI-260406-DA72
   - INS-260403-D089
   - INS-260326-291C
   - INS-260405-0D9F
-  - INS-260403-8806
   - INS-260403-83E0
 ---
 A comprehensive pre-seed due diligence checklist looks fundamentally different from Series A or later frameworks. At pre-seed, there are no meaningful financial metrics, no proven unit economics, and often no product-market fit to evaluate. The relevant signals are almost entirely about the founders: their domain expertise, speed of learning, ability to attract talent, and clarity of insight about the problem.

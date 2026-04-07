@@ -55,10 +55,10 @@ stance: >-
   they need money
 related:
   - INS-260403-7318
+  - PRI-260406-1A4D
   - INS-260405-1982
   - INS-260404-E9F2
   - INS-260404-9696
-  - INS-260403-A538
 ---
 VCs don't invest because you're running out of money — they invest because they believe their equity stake will be worth significantly more. Yet many founders only start fundraising reactively when runway gets short, which creates a doom loop: desperation signals weakness, weak positioning yields worse terms or no terms, and the time pressure prevents running a proper synchronized process. The recommended timeline is 12 months of advance planning, 4 weeks of material preparation, and 8-16 weeks of active fundraising from first meeting to term sheet.
 

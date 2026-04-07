@@ -49,11 +49,11 @@ stance: >-
   destroy the moderate insider positions that produce the highest-leverage
   policy outcomes.
 related:
+  - PRI-260406-1B8A
+  - PRI-260406-6B63
   - INS-260330-D066
   - INS-260330-7D5F
   - INS-260402-B817
-  - INS-260330-1FA8
-  - INS-260403-C37D
 ---
 When moderates within a system are pressured to publicly denounce that system, they lose the very insider status that made them valuable. The result is a lose-lose: the movement gets a brief cathartic moment of solidarity, while permanently losing its best channel for influencing outcomes. The moderates are then replaced by loyalists selected purely for compliance.
 

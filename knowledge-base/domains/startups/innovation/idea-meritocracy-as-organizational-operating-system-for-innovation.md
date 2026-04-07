@@ -49,11 +49,10 @@ related:
   - INS-260323-85E7
   - INS-260330-85B8
   - INS-260330-4A89
-  - INS-260403-9FE2
   - INS-260403-24AE
-  - INS-260403-3326
+  - PRI-260406-BD4D
+  - PRI-260406-A7EC
   - INS-260405-34F1
-  - INS-260403-C05F
 ---
 Ray Dalio's concept of idea meritocracy, as highlighted by Osterwalder, proposes that the quality of ideas should determine organizational direction rather than the seniority of who proposed them. This requires radical transparency, believability-weighted decision-making, and systematic processes for evaluating ideas on merit.
 

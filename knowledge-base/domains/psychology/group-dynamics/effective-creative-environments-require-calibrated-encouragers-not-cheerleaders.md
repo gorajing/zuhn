@@ -56,8 +56,8 @@ related:
   - INS-260403-2AA2
   - INS-260404-4985
   - INS-260404-CD3E
+  - PRI-260406-D7EA
   - INS-260402-E36A
-  - INS-260405-7A7C
 ---
 The social dimension of pushing through the lame phase requires more than generic positivity. Undiscriminating encouragement gets discounted quickly — if someone praises everything, their praise carries no signal. What creators need are colleagues who can actually evaluate the potential of ugly early work, distinguishing genuine promise from genuine failure. The people best equipped for this are those working on similar ambitious projects of their own, which is why university departments and research labs function as effective creative environments.
 

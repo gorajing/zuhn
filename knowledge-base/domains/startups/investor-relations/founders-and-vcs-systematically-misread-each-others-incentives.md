@@ -49,7 +49,6 @@ stance: >-
   adequately corrects for this gap.
 related:
   - INS-260327-46F6
-  - INS-260328-2CFF
   - INS-260403-B008
   - INS-260403-B133
   - INS-260403-DF73
@@ -58,5 +57,6 @@ related:
   - INS-260403-22BB
   - INS-260404-7071
   - INS-260403-F4E7
+  - INS-260326-291C
 ---
 A VC managing a $500M fund with 30 companies can afford to let 25 of them fail; a founder has one company and their identity is fused with its survival. This asymmetry in stakes creates a predictable pattern: founders interpret a VC's push for aggressive growth as partnership enthusiasm, but it's often portfolio math (the fund needs a 50x, not a 10x). Conversely, VCs interpret a founder's caution as risk-aversion, missing that the founder is protecting their livelihood and team. The correction: founders should explicitly ask 'what does this company need to be for your fund model to work?' before closing a round. If the answer requires a unicorn outcome and the founder wants a sustainable $50M business, the cap table is set up for conflict from day one. Aligning on outcome expectations before signing is more valuable than negotiating valuation.

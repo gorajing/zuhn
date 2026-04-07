@@ -52,9 +52,9 @@ related:
   - INS-260403-CF98
   - INS-260403-F85C
   - INS-260403-544B
+  - PRI-260406-58FA
   - INS-260405-DDC2
   - INS-260403-12B4
-  - INS-260330-608C
 ---
 The math on churn compounding is brutal and non-intuitive. Dropping monthly churn from 5% to 4% means you retain an extra percentage point of MRR every single month. Over 24 months, the cumulative difference between these two scenarios is enormous—far larger than most founders intuit from the seemingly small 1% gap.
 

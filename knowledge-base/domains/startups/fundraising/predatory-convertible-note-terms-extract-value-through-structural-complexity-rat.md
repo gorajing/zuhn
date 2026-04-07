@@ -53,11 +53,11 @@ stance: >-
   real ones offering convertible notes with predatory caps, discounts, and
   trigger clauses that founders accept because the instrument seems simple.
 related:
+  - PRI-260406-FD1C
+  - PRI-260406-ADF0
   - INS-260403-B374
   - INS-260403-227D
   - INS-260403-BED6
-  - PRI-260405-E9C5
-  - INS-260403-3059
 ---
 Unlike outright scams, predatory convertible notes operate in a gray zone — they're legal instruments offered by entities that may appear legitimate. The danger lies in founders treating convertible notes as 'simple' and not scrutinizing terms. Unrealistically low valuation caps cause massive dilution at conversion, high conversion discounts stack the deck further, mandatory liquidity event timelines can force unfavorable exits, and early repayment triggers can create unexpected cash crunches.
 

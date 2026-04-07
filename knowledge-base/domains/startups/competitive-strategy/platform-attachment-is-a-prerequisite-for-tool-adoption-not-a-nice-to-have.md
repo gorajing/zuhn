@@ -46,10 +46,10 @@ stance: >-
   popular regardless of its intrinsic quality
 related:
   - INS-260321-1A0B
+  - PRI-260406-426E
   - INS-260403-0372
   - INS-260404-6398
   - INS-260402-72EF
-  - PRI-260321-7307
   - INS-260403-5C83
 evidence:
   - id: INS-260323-F204

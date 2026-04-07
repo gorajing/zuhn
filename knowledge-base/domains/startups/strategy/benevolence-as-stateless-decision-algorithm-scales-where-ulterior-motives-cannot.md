@@ -45,10 +45,10 @@ stance: >-
   scales across many simultaneous decisions
 related:
   - INS-260329-0F39
+  - PRI-260406-90C7
   - INS-260322-F128
   - INS-260330-DB4B
   - INS-260330-8890
-  - INS-260404-2F16
 evidence:
   - id: INS-260404-2F16
     type: CONTRADICTS

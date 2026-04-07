@@ -46,14 +46,14 @@ stance: >-
   activation energy for creative work
 related:
   - INS-260402-9D7B
-  - INS-260403-7093
   - INS-260403-824F
-  - INS-260405-F402
+  - PRI-260406-A5F0
   - INS-260403-E7A7
   - INS-260404-DDFB
   - INS-260404-D688
-  - INS-260404-4154
+  - PRI-260406-33E9
   - INS-260404-D147
+  - INS-260404-4154
   - INS-260403-649C
 ---
 Graham identifies a powerful trick used by creators across fields: start by telling yourself the work is a different, less demanding type. A painting is 'just a sketch,' software is 'just a quick hack.' This lowers your internal quality bar for initial results, letting you make progress without the paralysis of premature self-judgment. Once momentum builds, you sneakily convert it into the real thing. This works best with media that allow fast iteration and low upfront commitment — digital over physical, notebooks over stone carving. The technique isn't dishonest; it's a recognition that the fear of making something lame is the primary bottleneck, and anything that reduces that fear without eliminating quality standards entirely is a net positive.

@@ -52,6 +52,5 @@ related:
   - INS-260403-3C66
   - INS-260404-EEA7
   - INS-260403-5B46
-  - INS-260405-F531
 ---
 Jason Cohen's referenced piece argues AI startups require genuinely new strategies — not just adapted SaaS playbooks. The core structural differences include: model commoditization eroding product differentiation faster than SaaS ever did; data moats being less durable than assumed; inference costs creating margin pressure that doesn't exist in traditional software; and distribution advantages held by incumbents being more decisive when switching costs are low. Founders who recognize these differences early can build around data flywheels, workflow lock-in, and vertical depth rather than feature velocity — the winning moves from the SaaS era that transfer poorly.

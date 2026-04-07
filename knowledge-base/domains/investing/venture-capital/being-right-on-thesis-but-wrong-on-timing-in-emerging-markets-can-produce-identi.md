@@ -55,9 +55,9 @@ stance: >-
 related:
   - INS-260330-F1C8
   - INS-260403-2E2C
+  - PRI-260406-992F
   - INS-260403-910E
   - INS-260405-092A
-  - INS-260405-5C3F
 ---
 Chamath and friends invested in India around 2016 when UPI launched — a bet on digital payments infrastructure transforming the economy. UPI became a massive success, successful startups like Flipkart and Zomato emerged, yet the bets still didn't pay off because 'India's startup ecosystem was still nascent.'
 

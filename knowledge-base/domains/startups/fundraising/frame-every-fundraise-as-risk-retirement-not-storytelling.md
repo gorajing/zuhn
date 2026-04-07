@@ -43,10 +43,10 @@ stance: >-
   next' consistently outperform those who pitch vision and TAM because investors
   price residual uncertainty, not potential.
 related:
+  - PRI-260406-B9A3
   - INS-260405-1EFD
+  - PRI-260406-E880
   - INS-260403-32E9
   - INS-260405-CB93
-  - INS-260405-94A1
-  - INS-260405-6DAD
 ---
 Investors internally evaluate startups by mapping risk layers and assessing which have been peeled away with evidence. When founders frame their raise as a risk-retirement plan rather than a growth narrative, they speak the language investment committees actually use behind closed doors. This means every deck should lead with concrete proof of what's been de-risked (retention cohorts, signed LOIs, validated unit economics) and explicitly name the 2-3 layers the new capital will address. This framing converts valuation negotiation from subjective storytelling into mutual accounting, giving founders pricing power because they're reducing the investor's perceived discount rate with evidence rather than promises.

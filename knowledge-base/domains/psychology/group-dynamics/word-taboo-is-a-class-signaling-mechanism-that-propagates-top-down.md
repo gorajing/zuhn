@@ -47,15 +47,15 @@ stance: >-
   neutral words acquire negative connotations through association with
   lower-status speakers
 related:
-  - INS-260323-181D
   - INS-260323-B497
   - INS-260330-FAB4
   - INS-260330-3528
   - INS-260330-534C
   - PRI-260405-7F1E
-  - INS-260403-62E0
+  - PRI-260406-7BA2
   - INS-260402-FFCB
   - INS-260403-160C
+  - INS-260403-62E0
 evidence:
   - id: INS-260323-181D
     type: EXTENDS

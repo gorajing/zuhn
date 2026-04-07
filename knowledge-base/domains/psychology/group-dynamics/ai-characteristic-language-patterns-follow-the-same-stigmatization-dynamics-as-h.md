@@ -57,10 +57,10 @@ stance: >-
 related:
   - INS-260323-A494
   - INS-260330-3528
-  - INS-260330-6300
   - INS-260403-BEB3
+  - PRI-260406-7BA2
   - PRI-260405-7F1E
-  - PRI-260323-400D
+  - INS-260330-6300
 ---
 Alexander draws a provocative parallel between the social rejection of 'AI slop' writing patterns and the stigmatization of African-American Vernacular English. Both involve perfectly valid linguistic constructions that become marked as 'bad writing' or 'grammatical errors' purely through association with a low-status group. Em-dashes, 'And honestly? That hit different,' and similar constructions are fine English — they just signal 'AI-generated' the way AAVE signals membership in a historically marginalized group.
 

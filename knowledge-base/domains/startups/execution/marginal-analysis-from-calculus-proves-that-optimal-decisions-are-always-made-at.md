@@ -52,7 +52,6 @@ stance: >-
   evaluated incrementally rather than on total averages.
 related:
   - INS-260327-4416
-  - INS-260327-E153
   - INS-260329-ADCD
   - INS-260403-16EA
   - PRI-260328-F0B4

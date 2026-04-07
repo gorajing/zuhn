@@ -53,9 +53,9 @@ related:
   - INS-260329-31A2
   - INS-260327-7DBC
   - INS-260327-62CF
-  - INS-260327-E093
   - INS-260329-4FB2
   - INS-260329-DE17
+  - INS-260403-29EB
 stance: >-
   Fireship got 3,121 free signups from his massive YouTube audience but only
   0.3% converted to paid

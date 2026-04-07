@@ -52,10 +52,10 @@ related:
   - INS-260330-CB2E
   - INS-260403-7BC6
   - INS-260404-F45E
+  - PRI-260406-0A0B
   - INS-260403-BAD6
   - INS-260404-9103
   - INS-260405-4D4D
-  - INS-260403-08D8
 ---
 SpaceX's tender offer at a $350B valuation—making it one of the most valuable private companies in history—demonstrates that the traditional path from startup to IPO is no longer the only route for category-defining companies. By using tender offers to provide liquidity to employees and early investors, SpaceX can delay or avoid public market scrutiny while continuing to operate with strategic flexibility.
 

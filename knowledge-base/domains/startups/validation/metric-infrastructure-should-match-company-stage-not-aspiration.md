@@ -52,8 +52,8 @@ related:
   - INS-260403-6DED
   - INS-260403-7B41
   - INS-260403-BF1F
-  - INS-260322-7F88
-  - INS-260327-4B5A
+  - PRI-260406-818D
+  - PRI-260406-E371
 ---
 There's a strong temptation for founders to build sophisticated analytics infrastructure early, either because investors ask for specific metrics or because they've read about what mature companies track. But enterprise-grade tools like Looker, deep cohort analysis, and multi-product revenue decomposition require data volumes and team bandwidth that early-stage startups simply don't have.
 

@@ -47,11 +47,10 @@ stance: >-
   breaks when inputs are wrong.
 related:
   - INS-260403-EAFC
+  - PRI-260406-26B3
+  - PRI-260406-BC09
   - INS-260404-16E1
   - INS-260403-88AF
-  - INS-260404-D4A0
-  - PRI-260405-2A11
-  - INS-260403-44E9
 ---
 The most dangerous failure mode for early-stage founders is operating on assumptions that feel reasonable but are never tested. When churn assumptions are wishful thinking, or when CAC climbs while ARPA stays flat, a well-structured model exposes these contradictions immediately—the payback calculation breaks visibly, and you can't hide from the math.
 

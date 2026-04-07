@@ -50,6 +50,6 @@ related:
   - INS-260330-4B84
   - INS-260402-5ACE
   - INS-260402-28BA
-  - INS-260330-4F10
+  - PRI-260406-FA5B
 ---
 The speaker demonstrated a concrete pattern: embed a query into vector space, use cosine similarity to find the nearest existing result (with a threshold heuristic — above 0.8 auto-accept, 0.7-0.8 offer as suggestion, below 0.7 do fresh research), then follow graph relationships from that landing point to discover related context. This hybrid approach leverages the strengths of both paradigms: vectors capture semantic meaning across 1,500 dimensions regardless of vocabulary, while graph edges capture explicit structural relationships like causality, temporal ordering, and organizational hierarchy. The demo showed this saving significant token costs by reusing cached research results when semantically similar queries arrived.

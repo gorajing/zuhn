@@ -55,7 +55,6 @@ stance: >-
   when the transformative outcomes require Level 4-5 (AI as product or AI-first)
   thinking
 related:
-  - INS-260403-D62D
   - INS-260403-7D5B
   - INS-260404-8A02
   - INS-260326-291C

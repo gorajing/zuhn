@@ -54,15 +54,13 @@ stance: >-
   than depth or originality of presentation.
 related:
   - INS-260403-6F52
-  - INS-260403-B90F
-  - INS-260403-4D4D
   - INS-260403-55E6
   - INS-260403-822B
+  - PRI-260406-E880
   - INS-260405-94A1
   - INS-260405-CB93
   - INS-260405-1EFD
-  - INS-260404-D242
-  - INS-260404-63D5
+  - INS-260405-9F92
 ---
 Investors processing hundreds of decks develop heuristic checklists — scalable business, large market, customer validation, clear team, defined ask. These boxes must be checked quickly and legibly. A deck that buries its traction on slide 11 or explains its market size in dense prose fails not because the business is weak but because the presentation doesn't serve the reader's scanning behavior.
 

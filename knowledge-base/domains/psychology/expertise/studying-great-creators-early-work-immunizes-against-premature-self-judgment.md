@@ -49,9 +49,9 @@ stance: >-
   great work recalibrates your internal judge to evaluate early-stage work on
   its actual merits rather than against finished-work standards.
 related:
-  - INS-260402-E36A
   - INS-260403-C55B
   - INS-260405-020E
+  - PRI-260406-33E9
   - INS-260404-CD3E
   - INS-260404-4985
   - INS-260405-7A7C

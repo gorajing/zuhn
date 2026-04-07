@@ -54,11 +54,11 @@ stance: >-
 related:
   - INS-260403-3562
   - INS-260404-B496
+  - PRI-260406-CC5E
   - INS-260403-CB97
   - INS-260405-62B2
-  - INS-260403-49EC
-  - INS-260404-8CAE
   - INS-260403-21E1
+  - INS-260403-49EC
 ---
 Most analysis of VC performance focuses on deal selection — which companies a fund invests in. But reserve strategy (how much capital to hold back for follow-on rounds) and recycling (reinvesting early distributions back into new deals) are equally critical and less discussed levers.
 

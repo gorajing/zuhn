@@ -54,6 +54,7 @@ related:
   - INS-260404-F54F
   - INS-260403-1E5F
   - INS-260403-5F8B
+  - PRI-260406-97BB
   - INS-260404-9905
 ---
 The deck collection shows seed rounds spanning from $2.5M (Tiun) to $22M (Lago), with multiple pre-seed rounds in the $6-8M range (Jimini at $8M pre-seed, Pruna AI at $6.5M seed). This is a significant departure from the historical norm of $1-3M seed rounds that prevailed even five years ago.

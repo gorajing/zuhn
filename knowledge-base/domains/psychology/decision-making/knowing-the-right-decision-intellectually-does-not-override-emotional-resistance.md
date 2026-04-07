@@ -50,15 +50,14 @@ stance: >-
   exactly why you're wrong.
 related:
   - INS-260323-821F
-  - INS-260323-DEEA
   - INS-260323-4D5E
   - INS-260327-7DBF
   - INS-260327-7427
   - INS-260329-B22B
   - INS-260329-FEA6
   - INS-260404-2F16
+  - PRI-260406-3BB5
   - INS-260403-E554
-  - INS-260329-EE04
 evidence:
   - id: INS-260329-FEA6
     type: SUPPORTS

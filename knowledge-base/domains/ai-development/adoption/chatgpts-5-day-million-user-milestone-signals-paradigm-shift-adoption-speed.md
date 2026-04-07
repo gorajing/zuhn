@@ -42,8 +42,6 @@ stance: >-
   Consumer AI adoption velocity exceeds all prior technology platforms by orders
   of magnitude, indicating a qualitatively different category of disruption
 related:
-  - INS-260321-5DF8
-  - INS-260327-560D
   - INS-260330-410A
   - INS-260403-4819
   - INS-260405-D660
@@ -51,7 +49,7 @@ related:
   - INS-260405-62F8
   - INS-260403-2A0F
   - INS-260405-963B
-  - INS-260403-8421
+  - INS-260404-C30F
 evidence:
   - id: INS-260320-20F2
     type: SUPPORTS

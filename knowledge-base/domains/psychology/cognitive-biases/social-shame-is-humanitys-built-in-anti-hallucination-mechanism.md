@@ -52,7 +52,7 @@ related:
   - INS-260403-2E2C
   - INS-260403-E554
   - INS-260326-4F90
-  - INS-260327-7DBF
+  - PRI-260406-0E02
 ---
 Alexander draws a parallel between student test-taking and AI behavior. Most students will guess on multiple choice (low shame risk) but won't fabricate an essay answer (high shame risk). The one student who tried it in a presentation became a permanent cautionary memory. Humans are not epistemically pure — we simply have a shame-based cost function that makes confabulation negative-EV in social contexts.
 

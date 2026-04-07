@@ -48,11 +48,11 @@ stance: >-
   Founders who build from genuine personal struggle rather than
   opportunity-scanning create more durable and compounding ventures
 related:
+  - PRI-260406-8DF5
   - INS-260403-F524
   - INS-260327-CB72
+  - PRI-260406-CA09
   - INS-260402-C03D
-  - INS-260330-7251
-  - INS-260404-7325
 ---
 The 20VC founding story illustrates a recurring pattern: constraints and personal crises create the conditions for non-obvious breakthroughs. When Harry Stebbings launched his media platform from a difficult personal period, the venture wasn't optimized for market opportunity — it was born from necessity and available resources.
 

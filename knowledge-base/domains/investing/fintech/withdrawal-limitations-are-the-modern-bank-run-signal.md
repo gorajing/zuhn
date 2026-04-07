@@ -47,10 +47,10 @@ stance: >-
   bank runs, just in a less regulated wrapper.
 related:
   - INS-260404-B496
+  - PRI-260406-6287
+  - PRI-260406-6895
+  - PRI-260406-91C2
   - INS-260405-BCF4
-  - PRI-260328-37D8
-  - INS-260403-032B
-  - INS-260404-8CAE
 evidence:
   - id: INS-260322-A31D
     type: TRANSFERS_TO

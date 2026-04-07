@@ -49,11 +49,11 @@ stance: >-
   Tight teams with minimal money and time consistently outperform well-resourced
   groups because constraints eliminate waste and force focus.
 related:
+  - PRI-260406-407C
+  - PRI-260406-6D04
+  - PRI-260406-1188
   - INS-260323-7E6F
   - PRI-260323-57AC
-  - INS-260404-00DE
-  - INS-260330-9751
-  - INS-260330-217C
 evidence:
   - id: INS-260323-7E6F
     type: SUPPORTS

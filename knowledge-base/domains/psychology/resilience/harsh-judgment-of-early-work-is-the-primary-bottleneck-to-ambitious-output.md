@@ -46,10 +46,10 @@ related:
   - INS-260403-472E
   - INS-260403-E365
   - INS-260403-C4E2
-  - INS-260403-886D
   - INS-260405-020E
   - INS-260405-7A7C
   - INS-260403-824F
   - INS-260404-F212
+  - INS-260404-F18F
 ---
 Paul Graham identifies a specific failure mode: people judge early-stage ambitious work by the standards of finished work or less ambitious projects. This category error causes most people to quit before reaching the stage where quality emerges. The fear is not irrational—early versions genuinely do look bad—but the response of abandoning them is catastrophically wrong because ambitious projects necessarily pass through an ugly phase. The implication is that tolerance for producing bad work is not a personality trait but a learnable skill, and one of the highest-leverage skills for creative output.

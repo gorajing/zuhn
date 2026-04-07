@@ -45,10 +45,11 @@ stance: >-
   it, then expanding from that foothold.
 related:
   - INS-260321-5C24
+  - PRI-260406-B87C
+  - PRI-260406-4CF9
   - INS-260403-6279
   - PRI-260328-1D90
   - INS-260330-8326
-  - INS-260405-9FD9
   - INS-260329-723A
   - INS-260402-B42C
   - INS-260403-21A7

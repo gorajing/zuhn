@@ -53,11 +53,10 @@ resolutions:
     remove the most obvious confound.
 related:
   - INS-260330-CC51
+  - PRI-260406-4F8E
   - INS-260330-B2B8
   - PRI-260323-1CF9
   - PRI-260323-CE34
-  - INS-260325-ADF3
-  - INS-260321-1F9F
   - INS-260328-031A
   - INS-260330-1B74
   - INS-260403-04AD

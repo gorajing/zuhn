@@ -50,11 +50,10 @@ stance: >-
   expectations.
 related:
   - INS-260403-EC8A
-  - INS-260403-F852
   - INS-260403-2330
+  - PRI-260406-ADF0
   - INS-260402-3FC5
   - INS-260403-8A28
-  - INS-260404-5EB8
 ---
 Each funding round dilutes all existing shareholders, including founders. A founder who raises seed, Series A, Series B, and Series C can easily end up owning 10-15% of the company they started, after accounting for employee option pool expansions and investor share issuances. This isn't inherently bad — if the company grows large enough, a small percentage of a large outcome exceeds a large percentage of a small one — but many founders are surprised by how little they own at exit.
 

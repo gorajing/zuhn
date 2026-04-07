@@ -57,7 +57,7 @@ related:
   - INS-260329-B194
   - INS-260323-BF81
   - INS-260403-2D39
-  - INS-260325-FDF5
+  - PRI-260406-8A97
 ---
 Greylock Partners' framework on engagement as the key to building billion-dollar businesses presents a hierarchical model where companies must progress users through escalating levels of engagement. This isn't just about DAU/MAU ratios — it's about creating compounding loops where deeper engagement generates network effects and switching costs.
 

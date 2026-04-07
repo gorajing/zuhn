@@ -48,7 +48,6 @@ related:
   - PRI-260328-9F8C
   - INS-260320-DDD9
   - PRI-260405-49C0
-  - INS-260403-743D
 stance: >-
   In the AGI era, the critical skill shifts from executing tasks to evaluating
   outputs — from doing the homework to grading it.

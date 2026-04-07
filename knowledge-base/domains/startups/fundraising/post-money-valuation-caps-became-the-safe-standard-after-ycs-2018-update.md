@@ -55,10 +55,10 @@ related:
   - INS-260405-AB6B
   - INS-260402-B653
   - INS-260405-FFCE
+  - PRI-260406-FD1C
   - INS-260403-B98A
   - INS-260403-AB7D
   - INS-260403-2F60
-  - INS-260403-FA8E
 ---
 Y Combinator's 2018 SAFE update introduced post-money valuation caps as the default, replacing pre-money caps. Under a pre-money cap, the valuation excludes the capital being raised, meaning investors don't know their final ownership until the round closes. Post-money caps include all SAFEs and convertible instruments, so investors know exactly how much equity they'll receive regardless of additional funding.
 

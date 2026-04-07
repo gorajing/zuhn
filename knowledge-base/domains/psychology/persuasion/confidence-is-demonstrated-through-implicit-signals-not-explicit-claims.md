@@ -48,16 +48,16 @@ stance: >-
   discount you, while implicit confidence through demeanor and specificity
   builds credibility
 related:
-  - PRI-260324-2C9F
   - INS-260326-B10B
   - INS-260327-9EE4
   - INS-260327-A9E8
-  - INS-260329-E900
   - INS-260329-DC86
   - INS-260329-78AE
   - INS-260330-990F
   - INS-260330-916B
   - INS-260404-405A
+  - INS-260403-4363
+  - PRI-260324-2C9F
 evidence:
   - id: INS-260327-9EE4
     type: TRANSFERS_TO

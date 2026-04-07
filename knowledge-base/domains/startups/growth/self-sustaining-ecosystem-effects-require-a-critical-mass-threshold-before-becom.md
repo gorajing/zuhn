@@ -48,8 +48,8 @@ stance: >-
 related:
   - INS-260323-D4EC
   - INS-260403-7C67
+  - PRI-260406-3AE8
   - INS-260404-5CC6
   - INS-260404-20F3
-  - INS-260330-0294
 ---
 Paul Graham argues that startup ecosystems have a tipping point dynamic. Below a critical mass, startups will leave for wherever funding concentrates (historically Silicon Valley). Above it, VCs open local offices and the ecosystem becomes self-sustaining. This implies that half-measures in ecosystem building are worse than useless—they spend resources without ever reaching the threshold where returns compound. The estimated ~1000 startups at ~$1M each ($1B total, roughly the cost of a football stadium) represents the investment needed to cross that threshold. This pattern extends beyond startups: any ecosystem with strong network effects requires upfront investment sized to reach critical mass, not incremental spending that never gets there.

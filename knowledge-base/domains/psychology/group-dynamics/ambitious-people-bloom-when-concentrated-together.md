@@ -49,11 +49,11 @@ stance: >-
   surrounded by non-ambitious peers are starved of the encouragement needed to
   reach their potential.
 related:
+  - PRI-260406-BA3B
   - INS-260402-2A1D
   - INS-260325-11E9
   - INS-260403-4120
   - INS-260403-92B5
-  - INS-260403-4D45
 evidence:
   - id: INS-260325-11E9
     type: SUPPORTS

@@ -47,11 +47,11 @@ stance: >-
   line) reliably produces better output because constraints force re-examination
   that can only improve truth and clarity, never degrade it.
 related:
+  - PRI-260406-1188
   - INS-260404-2AA1
   - INS-260403-D022
   - INS-260403-F400
   - INS-260403-21AF
-  - INS-260403-2D99
 evidence:
   - id: INS-260404-2AA1
     type: SUPPORTS

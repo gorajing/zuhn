@@ -50,10 +50,10 @@ stance: >-
   no other operational improvement can rescue the business
 related:
   - INS-260403-F85C
+  - PRI-260406-58FA
   - PRI-260328-F0B4
   - INS-260403-4388
   - INS-260403-C3A3
-  - INS-260405-0271
 ---
 The financial model template described here includes churn, CAC, LTV, P&L, runway, and valuation in one file. But the advice attached — 'keep your CAC and churn on a tight leash; they'll make or break you' — correctly identifies that these two variables are architecturally prior to all others. A company with high CAC but low churn can survive and improve. A company with low CAC but high churn is burning money on a leaky bucket and no operational excellence can fix the math.
 

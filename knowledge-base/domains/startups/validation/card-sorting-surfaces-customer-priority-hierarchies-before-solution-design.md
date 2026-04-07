@@ -50,8 +50,8 @@ related:
   - INS-260327-89C7
   - INS-260330-2306
   - INS-260330-0BBA
+  - PRI-260406-874A
   - INS-260327-B12E
-  - INS-260404-D1E2
 ---
 A common failure mode in product development is designing solutions to customer problems in the order the team finds them interesting rather than the order the customer finds them important. Card sorting is a lightweight exercise where customers physically or digitally rank items — potential jobs, pains, and gains — forcing a priority ordering that reveals what they actually care about most.
 

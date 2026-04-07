@@ -52,7 +52,7 @@ related:
   - INS-260403-CAAB
   - INS-260403-27A5
   - PRI-260324-2C9F
-  - PRI-260403-EA13
+  - PRI-260406-CC90
 evidence:
   - id: INS-260325-ADF3
     type: SUPPORTS

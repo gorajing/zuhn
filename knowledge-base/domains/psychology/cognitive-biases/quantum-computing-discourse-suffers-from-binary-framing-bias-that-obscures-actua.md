@@ -56,12 +56,11 @@ stance: >-
   collapses a nuanced capability spectrum into 'revolutionary breakthrough'
   versus 'overhyped failure' binary frames.
 related:
-  - INS-260403-D63C
+  - PRI-260406-4F8E
   - PRI-260403-50EF
   - PRI-260328-D2FB
   - PRI-260325-45A2
   - INS-260326-DBEF
-  - INS-260404-9DBB
 ---
 Chamath identifies that quantum computing perception has oscillated between two extremes: distant science fiction or imminent all-purpose supercomputer. This binary framing is a general cognitive pattern that applies to any emerging technology — AI, gene therapy, fusion energy all suffer the same distortion.
 

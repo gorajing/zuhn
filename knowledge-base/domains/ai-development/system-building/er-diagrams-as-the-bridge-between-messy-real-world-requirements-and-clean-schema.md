@@ -46,13 +46,13 @@ stance: >-
   before writing any SQL
 related:
   - PRI-260320-C14C
-  - INS-260327-E0F7
   - INS-260327-D9D6
   - INS-260327-D794
   - INS-260329-44C9
   - INS-260329-C401
   - INS-260329-7673
   - INS-260329-18C9
+  - PRI-260406-788D
   - INS-260329-5B7B
 evidence:
   - id: INS-260327-D794

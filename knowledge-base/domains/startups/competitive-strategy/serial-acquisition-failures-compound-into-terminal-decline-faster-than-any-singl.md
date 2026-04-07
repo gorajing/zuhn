@@ -52,7 +52,6 @@ stance: >-
   acquisitions signals a systemic decision-making failure that accelerates
   organizational decline
 related:
-  - INS-260403-AAC8
   - INS-260403-22BB
   - INS-260330-8326
   - INS-260403-CCED

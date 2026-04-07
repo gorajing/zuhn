@@ -51,11 +51,11 @@ stance: >-
   contemporary-centric bias rather than objective assessment of their
   sophistication.
 related:
+  - PRI-260406-A33C
   - INS-260325-82E8
   - INS-260326-DBEF
   - INS-260402-AC3D
-  - PRI-260323-DA09
-  - PRI-260405-ADEA
+  - PRI-260406-0CA4
 evidence:
   - id: INS-260325-82E8
     type: SUPPORTS

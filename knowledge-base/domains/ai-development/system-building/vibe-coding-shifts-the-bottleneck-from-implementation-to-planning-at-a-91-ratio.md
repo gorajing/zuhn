@@ -56,6 +56,7 @@ related:
   - INS-260329-3D28
   - INS-260402-1FE9
   - INS-260405-2C44
+  - PRI-260406-A6A2
 stance: >-
   As AI coding tools handle implementation, the planning-to-development time
   ratio has inverted to as high as 9:1

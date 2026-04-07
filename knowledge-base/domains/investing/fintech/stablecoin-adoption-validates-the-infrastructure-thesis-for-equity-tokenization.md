@@ -57,12 +57,12 @@ stance: >-
   tokenized financial instruments can achieve mainstream scale when
   infrastructure advantages are clear
 related:
-  - INS-260403-99DE
   - INS-260403-3518
   - INS-260405-39FA
   - INS-260405-33CD
-  - INS-260405-6EE5
-  - INS-260403-781D
+  - PRI-260406-2546
+  - PRI-260406-8F89
+  - INS-260403-99DE
 ---
 Stablecoins have grown more than 10x in under five years and now serve as the primary settlement layer for on-chain financial activity. While they serve a different function than equity tokens (currency settlement vs. ownership representation), their trajectory validates a crucial hypothesis: tokenized instruments can achieve meaningful adoption when they deliver clear structural advantages over legacy systems.
 

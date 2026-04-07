@@ -47,15 +47,15 @@ stance: >-
   more than better analytical frameworks.
 related:
   - INS-260325-3F86
+  - PRI-260406-A4AA
   - INS-260403-B7E3
   - INS-260327-7DBF
   - INS-260405-6E4F
-  - PRI-260405-2DE5
   - INS-260329-8896
-  - INS-260329-5C7A
   - INS-260329-B533
   - INS-260330-61C3
   - INS-260404-0C67
+  - INS-260403-33E2
 evidence:
   - id: INS-260325-3F86
     type: CHALLENGES

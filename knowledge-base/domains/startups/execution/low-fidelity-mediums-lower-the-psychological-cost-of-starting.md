@@ -52,14 +52,12 @@ stance: >-
   final work
 related:
   - INS-260402-9D7B
-  - INS-260403-C55B
   - INS-260403-1A6B
   - INS-260404-D147
   - INS-260404-D688
+  - PRI-260406-DDE1
   - INS-260403-E7A7
-  - INS-260405-F402
   - INS-260403-76E4
-  - INS-260403-649C
   - INS-260403-D4E1
 ---
 Graham identifies medium selection as a key tactical lever for overcoming the fear of early work. A sketch in a notebook feels inherently less committal than carving in stone—the same idea carries different psychological weight depending on how it's expressed. Digital media's advantage isn't primarily its software capabilities but that it reduces upfront commitment, letting you start something new with minimal psychological overhead.

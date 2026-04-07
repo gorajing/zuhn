@@ -50,6 +50,6 @@ related:
   - INS-260405-0D9A
   - INS-260325-0C4A
   - INS-260403-35A6
-  - INS-260404-9899
+  - PRI-260406-8E01
 ---
 Nesrine Changuel proposes that product teams balance their roadmaps using a 50-40-10 split: 50% on core functional improvements, 40% on reducing friction and anticipating user needs, and 10% on moments that exceed expectations. This ratio prevents the common failure mode where delight is either ignored entirely (leading to commoditized products) or over-indexed (leading to flashy but unreliable experiences). The framework gives PMs a concrete way to defend delight investments to skeptical stakeholders by showing it as a disciplined allocation rather than open-ended experimentation. Teams like Spotify and Google Chrome have used similar balanced approaches to differentiate their products in crowded markets.

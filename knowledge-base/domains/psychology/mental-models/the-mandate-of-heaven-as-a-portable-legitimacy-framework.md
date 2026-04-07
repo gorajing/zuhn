@@ -54,11 +54,11 @@ stance: >-
   built-in justification for replacing failed leaders.
 related:
   - INS-260323-17B5
-  - INS-260330-3260
+  - PRI-260406-C1EF
   - PRI-260325-262C
+  - INS-260330-3260
   - INS-260330-4A89
   - INS-260325-EF66
-  - INS-260327-9F46
 evidence:
   - id: INS-260330-654D
     type: REFINES

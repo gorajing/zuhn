@@ -49,11 +49,11 @@ stance: >-
   creation has stopped, but knowledge turns previously worthless things into
   resources, making the concept of finite resources a category error
 related:
-  - INS-260329-36FF
+  - PRI-260406-8778
   - INS-260330-2F13
   - INS-260403-2EE2
   - INS-260403-CA46
-  - INS-260323-FE69
+  - INS-260329-36FF
 evidence:
   - id: INS-260325-6262
     type: SUPPORTS

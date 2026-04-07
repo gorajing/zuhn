@@ -54,10 +54,10 @@ stance: >-
   contract is bidirectional.
 related:
   - INS-260323-59FE
-  - INS-260330-1FA8
   - INS-260330-1647
   - INS-260330-CA88
-  - PRI-260325-262C
+  - PRI-260406-21DA
+  - INS-260330-1FA8
   - INS-260404-82AA
   - INS-260403-24DB
 evidence:

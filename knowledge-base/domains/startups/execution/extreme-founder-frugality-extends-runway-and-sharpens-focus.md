@@ -46,10 +46,10 @@ stance: >-
   every dollar saved extends the time to find product-market fit.
 related:
   - PRI-260328-BD81
+  - PRI-260406-407C
   - INS-260325-86B3
   - INS-260330-1002
   - INS-260402-3D61
-  - INS-260330-B6FA
   - INS-260403-5BF9
 evidence:
   - id: INS-260403-5BF9

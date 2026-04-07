@@ -54,11 +54,11 @@ stance: >-
   data' are not neutral—they actively inject hesitation, ambiguity, and delay
   that harden into cultural norms over time.
 related:
+  - PRI-260406-0E02
+  - PRI-260406-AA7D
   - INS-260330-A476
   - INS-260403-6652
   - PRI-260328-BF67
-  - INS-260403-76F5
-  - INS-260403-B6D9
 ---
 Language shapes organizational behavior more than most founders realize. Five seemingly innocent phrases—'let's revisit this later,' 'we're waiting for more data,' 'let's explore other options,' 'it's not hurting anyone,' and 'we'll get to it after X'—each sound responsible but encode specific pathologies: indefinite deferral, analysis paralysis, commitment avoidance, tolerance of clutter, and backlog accumulation.
 

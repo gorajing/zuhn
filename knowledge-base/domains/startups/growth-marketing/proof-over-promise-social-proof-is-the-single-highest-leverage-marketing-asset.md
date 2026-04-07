@@ -54,8 +54,7 @@ related:
   - INS-260329-9F8D
   - PRI-260405-675B
   - INS-260330-1D9D
-  - PRI-260328-6CEC
-  - INS-260402-1146
+  - PRI-260406-E75B
 ---
 Hormozi argues that while offers (promises) matter, proof is the only thing that matters more. A company offering X with 11,382 five-star reviews at 4.7 stars will beat a competitor offering X+Y+Z+W with guarantees but only one review. The reason: proof eliminates the belief gap. People don't need to be convinced when they can see evidence.
 

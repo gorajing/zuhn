@@ -55,10 +55,10 @@ related:
   - INS-260403-4942
   - INS-260403-A3A7
   - INS-260403-8BBB
+  - PRI-260406-33E9
   - INS-260405-7A7C
   - INS-260404-9C4C
   - INS-260403-1A6B
-  - INS-260403-649C
 ---
 Beyond inexperience and wanting to seem clever, there's a darker reason people are harsh on early ambitious work: they hope you'll fail because your success would place you above them. This isn't always conscious — it can be an unconscious impulse, and in some cultures it's institutionalized as a national trait (tall poppy syndrome, crab mentality). The key insight is that the criticism is about the critic's status anxiety, not the work's actual merit.
 

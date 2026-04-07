@@ -48,10 +48,10 @@ stance: >-
   regardless of market mood.
 related:
   - INS-260404-2F75
+  - PRI-260406-7F84
   - INS-260405-092A
+  - PRI-260406-E431
   - INS-260403-C732
-  - INS-260403-36DB
-  - INS-260403-793D
   - INS-260403-6EC8
 evidence:
   - id: INS-260403-4717

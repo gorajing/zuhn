@@ -59,9 +59,9 @@ related:
   - INS-260402-3F8D
   - INS-260403-9F64
   - PRI-260403-26B9
+  - PRI-260406-EC93
+  - PRI-260406-EE38
   - INS-260403-A9C9
-  - INS-260405-6EE5
-  - INS-260403-1D7D
 ---
 At pre-seed and seed stages, investors cannot evaluate product-market fit because it doesn't exist yet. What they're actually evaluating is founder quality, and preparation is the strongest observable proxy. A founder who walks into a meeting with a complete data room—cap table, financial model, traction dashboard, legal documents—communicates something beyond the contents of those documents: they communicate that they run a tight operation.
 

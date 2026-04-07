@@ -53,11 +53,11 @@ stance: >-
 related:
   - INS-260327-5DD2
   - INS-260329-8602
-  - INS-260405-39A6
+  - PRI-260406-F08C
   - INS-260403-EA2D
+  - PRI-260406-80E7
   - INS-260405-7CF9
-  - INS-260403-53AA
-  - INS-260323-8AB8
+  - PRI-260406-6F52
 ---
 When VCs ask about market size, saying 'it's a $50B industry' is a red flag, not an answer. Top-down sizing demonstrates nothing except the ability to Google an industry report. Bottom-up sizing—counting specific potential customers in your initial wedge, multiplying by realistic annual contract values, and mapping expansion paths—shows you understand your actual addressable opportunity.
 

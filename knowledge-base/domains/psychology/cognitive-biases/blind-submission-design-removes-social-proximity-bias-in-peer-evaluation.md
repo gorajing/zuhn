@@ -57,6 +57,7 @@ related:
   - INS-260403-31B1
   - INS-260326-C692
   - INS-260403-E4C6
+  - PRI-260406-0109
   - INS-260322-1C17
 ---
 Scott Alexander explicitly designs his contest so that he hides the submitter identity column immediately after collecting it, specifically to prevent his friends or 'internet semi-famous people' from gaining an advantage. This acknowledges a real cognitive trap: even well-intentioned evaluators unconsciously weight familiar names or known personal narratives more favorably. The blind submission rule is the structural fix — you can't favor who you don't know.

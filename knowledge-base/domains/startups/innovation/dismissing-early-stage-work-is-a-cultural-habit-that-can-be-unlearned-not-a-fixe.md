@@ -53,7 +53,6 @@ stance: >-
   from lack of experience with novelty, not an innate cognitive bias, and can be
   replaced by learned optimism as Silicon Valley demonstrates.
 related:
-  - INS-260403-C55B
   - INS-260405-81B4
   - INS-260405-F06C
   - INS-260404-E6E0

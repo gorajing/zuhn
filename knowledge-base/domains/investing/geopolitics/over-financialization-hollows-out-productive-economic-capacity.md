@@ -46,10 +46,10 @@ stance: >-
   value more efficiently than manufacturing creates it.
 related:
   - PRI-260328-6136
+  - PRI-260406-6C43
   - INS-260330-570F
+  - PRI-260406-9573
   - INS-260330-2B4F
-  - PRI-260328-EAC4
-  - INS-260403-D522
 evidence:
   - id: INS-260330-570F
     type: EXTENDS

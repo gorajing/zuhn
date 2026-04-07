@@ -54,9 +54,9 @@ stance: >-
 related:
   - INS-260330-E5F2
   - INS-260330-795D
+  - PRI-260406-66BA
+  - PRI-260406-949A
   - INS-260321-4280
-  - PRI-260323-36A6
-  - INS-260405-6019
 ---
 The official narrative from DHS Secretary Noem called Good a 'domestic terrorist' who 'weaponized her SUV.' Trump claimed she 'violently ran over the ICE officer.' Frame-by-frame analysis by the Washington Post and Bellingcat — using publicly available video from multiple angles — showed these claims were false. The agent fired his second and third shots from the side of a vehicle driving away from him.
 

@@ -57,14 +57,12 @@ stance: >-
   trial-and-error iteration — commit, fail, diagnose, fix, repeat — identical to
   how successful startups iterate on product-market fit.
 related:
-  - INS-260327-0700
   - INS-260327-734D
   - PRI-260323-1B96
   - INS-260403-93E7
   - INS-260403-219E
   - INS-260402-2B96
   - INS-260322-92D7
-  - INS-260403-8D8D
   - INS-260404-E4C9
 evidence:
   - id: INS-260330-30CE

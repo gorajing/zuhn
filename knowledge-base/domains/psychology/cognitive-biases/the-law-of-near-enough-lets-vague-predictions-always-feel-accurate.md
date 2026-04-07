@@ -48,10 +48,10 @@ stance: >-
   horoscopes reliably seem accurate.
 related:
   - INS-260330-59CE
+  - PRI-260406-4F8E
   - INS-260330-A4A5
   - PRI-260403-57EC
   - PRI-260323-6644
-  - PRI-260324-2C9F
 evidence:
   - id: INS-260405-809E
     type: TRANSFERS_TO

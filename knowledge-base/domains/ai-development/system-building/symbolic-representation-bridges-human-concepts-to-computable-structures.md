@@ -49,9 +49,8 @@ related:
   - PRI-260328-8516
   - INS-260329-2DF2
   - INS-260403-841F
+  - PRI-260406-2903
   - INS-260323-085A
-  - INS-260329-04FA
-  - INS-260330-6BBD
 stance: >-
   The key to making knowledge computable is finding symbolic representations
   that match how humans conceptualize things while remaining formally mani...

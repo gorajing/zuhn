@@ -53,9 +53,9 @@ stance: >-
 related:
   - INS-260330-87BD
   - INS-260404-E9F2
+  - PRI-260406-EC93
+  - PRI-260406-E880
   - INS-260405-CB93
-  - INS-260405-67F2
-  - INS-260404-D242
 ---
 The a16z Speedrun demo day format—58 founders pitching with no introductions, no applause, and no breathing room—is a deliberate design choice that exploits cognitive and emotional momentum. When investors don't get time to cool down, critically assess, or compare, each new pitch rides the energy of the previous one. The format transforms what could be a rational evaluation exercise into an emotional experience where 'exhausted and inspired' coexist.
 

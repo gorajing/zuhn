@@ -48,13 +48,12 @@ stance: >-
   skills deliver measurably better ROI than those focused purely on knowledge
   transfer.
 related:
-  - INS-260403-402A
   - INS-260403-6AB5
   - INS-260403-449D
   - PRI-260328-094A
+  - PRI-260406-ED43
   - INS-260323-D400
   - INS-260327-DF8B
-  - INS-260404-9AEC
 evidence:
   - id: INS-260403-449D
     type: SUPPORTS

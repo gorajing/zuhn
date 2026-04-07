@@ -52,11 +52,9 @@ stance: >-
 related:
   - INS-260325-24D1
   - INS-260321-4280
-  - INS-260402-2D7B
-  - INS-260403-E332
+  - PRI-260406-66BA
   - INS-260403-22FE
   - INS-260330-990F
-  - PRI-260321-5857
 ---
 Traditional media derived credibility from institutional affiliation — the masthead, the network, the editorial board. The new media ecosystem inverts this: audiences now trust individuals who demonstrate genuine expertise and are willing to be wrong in public, over organizations that speak with anonymous authority. Sense-makers like podcast hosts and Substack writers build reputations through accumulated correct calls and transparent reasoning, not credentials.
 

@@ -46,11 +46,12 @@ resolutions:
     scale of the problem. Rational frameworks must supplement gut emotional
     reactions.
 related:
+  - PRI-260406-949A
+  - PRI-260406-0109
   - PRI-260325-F21B
   - INS-260323-F853
   - INS-260323-B811
   - INS-260330-6D86
-  - INS-260325-C2DA
 stance: >-
   Emotional contagion empathy makes one identified victim more compelling than
   500,000 statistical victims

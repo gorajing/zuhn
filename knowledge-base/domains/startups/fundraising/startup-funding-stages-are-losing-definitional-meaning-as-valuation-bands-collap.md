@@ -55,11 +55,11 @@ stance: >-
 related:
   - INS-260402-B2A2
   - INS-260404-D654
+  - PRI-260406-FCF0
   - INS-260403-9F2A
   - INS-260403-88B9
-  - INS-260404-A2C4
-  - INS-260403-0618
-  - INS-260405-EB7E
+  - PRI-260406-ADF0
+  - PRI-260406-7F84
 ---
 2023 data showed dramatic valuation band overlap: 4% of seed rounds were priced above $50M valuations, while 8% of Series As were priced below $10M, and 5% of Series Bs were also below $10M. This compression means that stage labels have decoupled from their original purpose — communicating development stage, risk, and appropriate investor expectations.
 

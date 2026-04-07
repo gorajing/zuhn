@@ -54,13 +54,13 @@ related:
   - INS-260403-A331
   - INS-260403-B90F
   - INS-260404-40F2
-  - INS-260404-8DEE
   - INS-260403-B02A
   - INS-260405-67F2
-  - INS-260403-9867
   - INS-260404-63D5
-  - INS-260404-FD79
   - INS-260405-1EFD
+  - INS-260404-1DDB
+  - INS-260405-7E50
+  - INS-260405-94A1
 ---
 The conventional framing of a pitch deck is persuasion — make investors excited enough to say yes. But the article surfaces a more strategic dual function: a well-designed deck also filters out investors who aren't a fit, saving everyone's time before diligence is initiated. This means deliberately including specifics about stage, market thesis, and go-to-market that would turn off misaligned VCs, not sanitizing the deck to maximize broad appeal.
 

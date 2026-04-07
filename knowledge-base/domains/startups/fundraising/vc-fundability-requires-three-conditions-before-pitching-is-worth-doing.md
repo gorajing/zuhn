@@ -55,15 +55,13 @@ stance: >-
   recover from due to investor memory effects.
 related:
   - INS-260327-7DBC
-  - INS-260403-AFCD
   - INS-260403-6ACB
   - INS-260403-21DB
   - INS-260403-0303
+  - PRI-260406-9DD4
   - INS-260403-49FB
   - INS-260403-F6EC
-  - INS-260404-A526
-  - INS-260404-3212
-  - INS-260403-4610
+  - PRI-260406-80E7
 ---
 Venture capital has a specific investment thesis: they need 10x-100x returns on a portfolio basis, which means they only fund companies that can grow very large very fast. A business that is high-quality but not scalable (e.g. a services firm, a niche product) will be rejected regardless of deck quality. Pitching it anyway trains investors to mentally file you under 'not VC-backable.'
 

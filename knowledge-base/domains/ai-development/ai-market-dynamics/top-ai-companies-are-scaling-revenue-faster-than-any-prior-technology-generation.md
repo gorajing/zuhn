@@ -52,13 +52,13 @@ related:
   - INS-260325-FADB
   - INS-260322-5745
   - INS-260321-822B
-  - INS-260324-92E9
   - INS-260327-CFE5
-  - INS-260327-226A
-  - INS-260329-74F9
   - INS-260403-92CC
   - INS-260403-7708
   - INS-260404-9BC6
+  - PRI-260406-7FE4
+  - INS-260403-D880
+  - INS-260403-3106
 ---
 The current AI growth cycle is outpacing prior technology waves — including mobile, cloud, and SaaS — in terms of revenue scaling speed. Top AI companies are pulling far ahead of competitors, which forces incumbents into defensive positions and reshuffles market leadership faster than historical precedent would suggest.
 

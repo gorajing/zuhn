@@ -50,7 +50,7 @@ related:
   - INS-260402-E994
   - INS-260402-F62B
   - INS-260402-7999
-  - INS-260404-21AA
+  - PRI-260406-FB98
 evidence:
   - id: INS-260320-6CCE
     type: CONTRADICTS

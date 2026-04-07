@@ -49,10 +49,10 @@ stance: >-
   strategic depth
 related:
   - INS-260330-F527
+  - PRI-260406-12A2
   - INS-260404-A520
   - INS-260330-923F
   - PRI-260323-81E9
-  - PRI-260405-6216
 ---
 Many founders instinctively try to minimize their competitive landscape, thinking it makes their startup look more unique. The opposite is true—VCs aren't scared of competition; its absence is actually a red flag. It either means the market doesn't exist, or the founder hasn't looked hard enough.
 

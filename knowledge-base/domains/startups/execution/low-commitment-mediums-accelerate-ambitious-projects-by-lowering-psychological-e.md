@@ -55,8 +55,8 @@ related:
   - INS-260403-C428
   - INS-260403-1A6B
   - INS-260403-E7A7
+  - PRI-260406-A5F0
   - INS-260405-D925
-  - INS-260404-D688
 ---
 Graham identifies a practical technique for navigating the lame early phase: deliberately choose media and framing that minimize upfront commitment. Calling a painting 'just a sketch' or software 'just a quick hack' creates psychological permission to produce imperfect early versions. Once the project gains momentum, you can quietly convert it into something more serious.
 

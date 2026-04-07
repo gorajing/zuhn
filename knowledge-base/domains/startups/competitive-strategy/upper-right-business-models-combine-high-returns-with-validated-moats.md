@@ -47,11 +47,11 @@ stance: >-
   protected through recurring revenue, scalability, and competitive moats that
   make them hard to disrupt
 related:
-  - INS-260403-DF7F
+  - PRI-260406-40ED
   - INS-260404-F62A
+  - INS-260403-DF7F
   - INS-260403-CA57
   - INS-260404-380C
-  - INS-260404-BD46
   - INS-260404-E06E
 ---
 Osterwalder's expected return axis evaluates not just revenue size but business model robustness — recurring revenues, long-term growth potential, scalability, and protection from competition. This means two businesses with identical current revenue can sit at very different positions on the return axis based on structural quality.

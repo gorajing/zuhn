@@ -59,7 +59,6 @@ related:
   - INS-260330-F889
   - INS-260330-86A7
   - INS-260330-09AB
-  - INS-260330-B539
 evidence:
   - id: INS-260323-36A8
     type: CHALLENGES

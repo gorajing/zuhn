@@ -54,10 +54,10 @@ related:
   - INS-260403-8CE6
   - INS-260405-F7C5
   - INS-260403-52C4
+  - PRI-260406-C4C5
   - PRI-260328-2014
   - INS-260403-832E
   - INS-260404-77CD
-  - INS-260403-5598
 ---
 Founders are naturally drawn to beginnings—brainstorms, roadmaps, new initiatives. But momentum compounds at the point of completion, not initiation. The final 10% of any project is where feedback happens, where customers convert, and where the team sees real impact. When that last stretch is perpetually deferred, nothing lands and nothing compounds.
 

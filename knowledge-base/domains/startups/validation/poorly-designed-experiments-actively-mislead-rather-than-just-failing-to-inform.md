@@ -55,7 +55,6 @@ related:
   - INS-260323-DA13
   - INS-260402-D0F3
   - INS-260403-1BCC
-  - INS-260404-AE27
 evidence:
   - id: INS-260323-DA13
     type: REFINES

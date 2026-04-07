@@ -43,8 +43,9 @@ stance: >-
 related:
   - INS-260403-4730
   - INS-260405-D514
+  - PRI-260406-80E7
   - INS-260405-44F5
   - INS-260403-822B
-  - INS-260330-87BD
+  - PRI-260406-E880
 ---
 Founders resist narrow descriptions because their product 'could be so much more.' But attempting to describe something that could be anything produces a sentence that means nothing — investors discard it as boilerplate and wait impatiently for actual content. The goal of a first pitch is not to describe everything the company might become, but to convince investors the company is worth a follow-up conversation. Graham frames this as incremental development applied to description: start with a gripping but perhaps overly narrow framing, then expand. A 'working description' in the investor's head is the output to optimize for, not comprehensive accuracy.

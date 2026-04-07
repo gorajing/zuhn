@@ -57,7 +57,7 @@ related:
   - INS-260405-4D81
   - INS-260323-A3DB
   - INS-260321-52EF
-  - INS-260323-8893
+  - PRI-260406-D802
 ---
 JPMorgan Chase announced a $1.5 trillion decade-long financing plan targeting supply chain resilience, defense tech, energy independence, and frontier technologies like AI and quantum computing. This is not traditional lending — it is a bank deliberately shaping the industrial cycle by channeling its balance-sheet power toward public priorities.
 

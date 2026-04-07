@@ -49,7 +49,6 @@ stance: >-
   members with commit metrics rather than evaluating them on synthetic
   benchmarks
 related:
-  - INS-260330-7241
   - INS-260405-FAE3
   - INS-260405-68DC
   - INS-260405-880C

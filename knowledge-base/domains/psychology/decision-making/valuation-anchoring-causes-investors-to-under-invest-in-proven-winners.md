@@ -52,7 +52,7 @@ related:
   - INS-260329-1A3B
   - INS-260403-776C
   - INS-260403-D880
+  - PRI-260406-4B0E
   - INS-260403-4960
-  - INS-260402-9288
 ---
 A subtle cognitive trap operates in follow-on decisions: investors anchor to their entry price and perceive later-round valuations as 'expensive,' even when the company has dramatically de-risked. An investor who paid $20M valuation at seed may balk at a $500M Series C valuation, feeling they've 'already captured the upside.' But the power law dynamics of venture mean that the difference between 2% and 10% ownership in a $10B+ outcome dwarfs the capital cost of follow-on checks. This is compounded by diversification bias — the instinct to spread capital across new deals rather than concentrate in proven winners. The best-performing funds invert this logic: they get 'greedy on ownership, not valuation,' recognizing that information advantage in existing portfolio companies makes follow-on investments among the highest-EV bets available.

@@ -55,7 +55,6 @@ stance: >-
   your audience's expectations
 related:
   - INS-260323-3614
-  - INS-260322-E06A
   - INS-260327-A048
   - INS-260330-748E
   - INS-260322-F65F

@@ -51,7 +51,6 @@ stance: >-
   initially, too panicked eventually — is predictable and exploitable for better
   decision-making
 related:
-  - INS-260329-2AB9
   - INS-260330-C0D1
   - INS-260330-864C
   - INS-260330-F493

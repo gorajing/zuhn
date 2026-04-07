@@ -49,15 +49,14 @@ stance: >-
   misrepresent their future behavior
 related:
   - INS-260323-8165
-  - INS-260330-281A
-  - INS-260330-A6BE
   - INS-260403-DD95
   - INS-260403-359D
   - INS-260403-1BCC
-  - INS-260403-CBC7
+  - PRI-260406-BC55
   - INS-260403-6714
-  - INS-260404-F8B7
+  - INS-260403-CBC7
   - INS-260403-07FB
+  - INS-260403-E9F5
 evidence:
   - id: INS-260403-359D
     type: SUPPORTS

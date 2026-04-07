@@ -56,11 +56,11 @@ stance: >-
   experiences more heavily in decision-making.
 related:
   - INS-260403-B710
+  - PRI-260406-8778
   - INS-260330-4DC5
   - INS-260330-FFAB
   - INS-260403-1CB1
   - INS-260325-415A
-  - INS-260404-4E1A
 evidence:
   - id: INS-260325-415A
     type: TRANSFERS_TO

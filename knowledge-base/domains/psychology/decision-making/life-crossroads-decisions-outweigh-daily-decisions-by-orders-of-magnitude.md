@@ -48,10 +48,10 @@ stance: >-
   topology.
 related:
   - INS-260323-DEEA
+  - PRI-260406-90C7
   - INS-260327-3049
   - INS-260404-4D7F
-  - INS-260325-4C6D
-  - INS-260330-E794
+  - PRI-260406-3BB5
 evidence:
   - id: INS-260322-F8E4
     type: TRANSFERS_TO

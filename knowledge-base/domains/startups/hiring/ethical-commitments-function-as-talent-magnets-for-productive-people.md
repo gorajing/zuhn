@@ -45,12 +45,12 @@ stance: >-
   The most productive people disproportionately select employers who hold
   themselves to standards higher than what the law requires
 related:
-  - INS-260325-BAA4
   - INS-260323-D8A9
   - INS-260403-F7DA
   - INS-260322-116B
   - PRI-260328-E870
   - INS-260327-70DF
+  - PRI-260406-6B63
 evidence:
   - id: INS-260325-BAA4
     type: SUPPORTS

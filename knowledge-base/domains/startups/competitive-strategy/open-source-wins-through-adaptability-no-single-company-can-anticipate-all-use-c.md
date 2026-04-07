@@ -44,14 +44,14 @@ resolutions:
     richer, attracting more adaptations.
 related:
   - INS-260325-4C92
+  - PRI-260406-9D48
+  - PRI-260406-426E
   - PRI-260323-BA94
   - INS-260330-2601
-  - INS-260405-131B
-  - INS-260405-DAC9
   - INS-260327-D9C0
   - INS-260330-7241
-  - INS-260330-9055
   - INS-260330-BCD8
+  - INS-260405-DAC9
   - INS-260404-68EE
 stance: >-
   Linux dominates because anyone can tweak it for their specific use case —

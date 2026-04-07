@@ -1,0 +1,552 @@
+# psychology
+
+## behavior-change
+- Rules-based approaches to distraction fail because the addictive part of your brain finds plausible exceptions; adversarial design works better.
+- Forcing yourself to always produce something pushes you away from what you think you should work on and toward what you actually like.
+- Professional success and stable routines mask stagnation by removing the discomfort that signals growth opportunities.
+- Meaning emerges from friction, obligation, and inconvenience — optimizing these away optimizes away purpose itself.
+- Changing first-order desires is hard; changing second-order desires is rarer; beyond that it becomes nearly impossible.
+- Research shows people who explicitly pursue happiness end up less happy and more depressed.
+- Nearly a third of Gen Z has deleted social media apps, and global social media usage has declined 10% since 2022, suggesting organic human adaptation to harmful technology.
+- When you can't browse or check email at your work computer, the ingrained habit of sitting there for hours redirects itself into actual work.
+- The habituation effect means delightful features become expected baselines, requiring continuous reinvention.
+- Infant monkeys chose the soft cloth mother over the wire mother that provided food, proving tactile comfort is the primary driver of attachment.
+- When a goal seems impossible at scale, decomposing it to the smallest unit (one rep, one page, one call) circumvents the brain's overwhelm-triggered shutdown.
+- Write down small achievable goals nightly; the check-mark dopamine hit builds an addiction to the learning process itself.
+- Opt-out mechanisms let governments support people's better-self preferences without forcing compliance, avoiding both the failure of voluntarism and the overreach of mandates.
+- Johnson's pilot study showed 80% smoking cessation at 6 months with psilocybin therapy versus 25-35% for the best existing treatments.
+- Psychedelics appear to work therapeutically by temporarily destabilizing rigid neural patterns, creating a window of increased flexibility where new behavioral repertoires can form.
+- The alcoholic refuses to change not because he can't, but because changing would mean surrendering the only thing he has left — his defiant self-image.
+- Renaming failures as learning moments removes stigma and increases the rate at which employees surface mistakes and experiment.
+- Theater and role-playing let people physically experience alternative identities, creating deeper change than imagining or discussing those possibilities.
+- It took roughly 100 years for society to develop customs against cigarettes, but new addictive technologies now emerge every few years.
+- Hamas gained popular support primarily through building schools, mosques, and clinics in Gaza, not through its militant activities.
+- Getting to a working demo fast creates dopamine hits that make the pain of learning self-sustaining.
+- Before psychoanalysis, mentally ill patients were confined to sanatoriums; Freud's talk therapy demonstrated that conversation itself could be curative.
+- The early Islamic empire didn't require conversion but taxed non-Muslims more, creating a persistent economic nudge that drove widespread voluntary conversion over generations.
+- Technology inherently makes things more addictive by concentrating the desirable properties of their predecessors.
+- When behavior is blocked by active inhibitors (stress, fear, friction), removing those brakes produces bigger results than pushing harder on motivation.
+- Screen-sharing AI workflows in meetings and Slack creates viral adoption through social proof more effectively than formal training.
+- Self-selected time-wasters survive precisely because they're expert at defeating your own defenses.
+- Richer nations consistently reforest and protect biodiversity more, supporting Pinker's theory that comfort breeds altruism.
+- Willpower functions as a trainable meta-skill whose gains compound across personal and professional domains simultaneously.
+
+## cognition
+- Flat Earth theories are clever ad hoc explanations that address individual challenges but fail to fit all evidence into a unified framework.
+- Chatter makes stress toxic by keeping the stress response active long after the triggering event has passed.
+- Harlow's wire mother experiments proved that infant primates bond to sources of comfort rather than sources of nourishment, overturning the cupboard theory of attachment.
+- The silicon sphere (atom-counting) and the Watt Balance (Planck's constant) provide independent checks on each other that neither could achieve alone.
+- Reversing just one variable in bicycle steering — handlebars to wheel direction — made riding impossible for everyone who tried, despite 99% of the physical system remaining identical.
+- Making everything an expression rather than mixing expressions with statements enables arbitrary composition — a multiplicative increase in what you can express.
+- Cutting words isn't just style — it's how you discover what you actually mean.
+- Our programming languages limit what we can conceive as possible, making easier solutions feel surprising when discovered.
+- The block-collision pi algorithm is simultaneously the most elegant and most absurdly inefficient way to compute pi, revealing that elegance and efficiency measure fundamentally different things.
+- Writing ideas down matters not because you'll re-read them, but because holding an idea in memory blocks the next one from forming.
+- Special relativity shows that even an object's shape is observer-dependent, challenging naive realism about 'objective truth.'
+- Call it a sketch. Call it a quick hack. The label you apply to your work changes the internal standards you apply — and once momentum exists, you can quietly convert it to something real.
+- Haters and fanboys are structurally identical: both are obsessive, uncritical, and identity-fused with their target.
+- The brain processes empathy through two distinct systems: prefrontal 'cold' reasoning circuits and amygdala-based 'hot' emotional mirroring, which can operate independently.
+- When people overreact to small provocations, the real cause is usually a past experience their nervous system never fully processed, not a character deficiency.
+- Erosion rates turn incomprehensible deep time into something the human mind can grasp and reason about.
+- When every possible life path is visible simultaneously, choosing any single path feels like losing all the others — so people choose nothing.
+- The inner voice handles working memory, simulation, self-control, and identity construction — chatter is when this system malfunctions.
+- Writing created a class distinction in Mesopotamia that persists in various forms to this day — those who control information access hold disproportionate power.
+- The Women's March on Versailles was driven by grain hoarding rumors, not Enlightenment philosophy — material deprivation is the actual catalyst for collective action.
+- _...and 68 more..._
+
+## cognitive-biases
+- Data quality dominates ML architecture just as install base and data gravity beat product design elegance in business -- what you've accumulated is the moat, not how you've arranged it.
+- Insulin resistance manifests as heart disease, diabetes, obesity, and dementia -- just as a misidentified business model manifests as churn, pricing problems, and sales failures.
+- Over 85% of near-Earth asteroids are found in the 45-degree band opposite the sun because asteroids approaching from the sun's direction are invisible to ground telescopes — no amount of better ground telescopes fixes this.
+- Algorithmic feeds replaced neighbor-comparison with influencer-comparison, escalating financial inadequacy.
+- Saying 'Hitler was bad' doesn't get algorithmic boost, but novel contrarian revisionism does — creating structural incentives for misinformation.
+- Lifelong exposure to high crime rates blinds Americans to how aberrant their situation is compared to peer nations.
+- History's biggest paradigm shifts — heliocentrism, evolution, selfish gene — all share a single move: removing humans from the center of the story.
+- Organisms that over-detect patterns survive longer than those that under-detect them because missing a real threat is costlier than reacting to a false one.
+- Staten Island Chuck's 85% accuracy dissolves once you notice he predicts early spring 25 out of 31 times—he's a broken clock in a town where spring usually comes early
+- What looks like intentional strategy in evolution is actually 'simple chemistry that happens to work well and propagates' -- the same applies to business success stories.
+- True randomness clusters in ways humans perceive as non-random, so products must introduce artificial structure to satisfy our pattern-seeking minds.
+- Apple had to make iTunes shuffle less random because true randomness produced clusters that felt intentional to users.
+- Dressing salespeople as nurses exploits authority bias to bypass critical evaluation of claims.
+- Assigning equal prior probability to simulation and non-simulation scenarios, Bayesian averaging always yields sub-50% simulation probability because base reality persists in both branches.
+- Both leftists and rightists got the multipolar world they wanted but not the version they expected.
+- Public outcome data enables bias audits that institutions cannot suppress.
+- Destiny's two mental safeguards — argue both sides convincingly, and name what would change your mind — are more effective than claiming objectivity.
+- Bigotry, political tribalism, and conspiracy theories all share the same cognitive root: attributing the actions of individuals to entire groups they belong to.
+- The average billionaire is 63 and getting older, with no billionaires under 30 being self-made, yet most refuse to retire even though some would be richer if they'd passively invested instead.
+- Anonymizing submissions is the only reliable way to prevent social proximity from contaminating quality judgments.
+- _...and 293 more..._
+
+## communication
+- Craft one 'the X of Y' phrase that sticks — professional investors hear so many pitches they blur, and the first filter is simply being remembered.
+- When someone can't perceive a constraint you experience, appealing to politeness (take me at my word) is more tractable than demanding they recognize their privilege.
+- Viewing argument as instinct rather than trainable craft creates a vicious cycle: bad arguments reduce confidence in disagreement, which further degrades argument quality.
+- Good public speaking is an artificial technique made to seem natural — like good writing, it's elaborate effort disguised as spontaneity.
+- Be candid about gaps with sophisticated audiences — trying to seem corporate or knowledgeable about things you aren't conceals your actual talent.
+- Sophisticated evaluators penalize polish that masks inexperience because it hides the raw talent signal they're actually looking for.
+- In leadership communication, fewer words carry more weight because they signal resolved thinking.
+- Smart evaluators screen for raw talent, not polish — pretending to be further along than you are conceals the signal they're looking for.
+- Social skills frequently outweigh technical ability in determining who advances to engineering leadership.
+- When evaluators can't assess substance directly, the presenter's implicit confidence becomes their primary evidence for quality.
+- Under time pressure and information asymmetry, an audience's primary evaluation heuristic becomes the presenter's own apparent confidence in their work.
+- When exaggerated claims are excused as 'pointing in the right direction,' everyone ratchets up rhetoric until opponents seem like existential threats, enabling real political violence.
+- Lower forms of disagreement (name-calling through tone policing) can never be convincing no matter how well-executed.
+- Investors without technical depth use founder confidence as a proxy for product quality.
+- Reframe pushback as clarifying questions to move conversations from emotional to logical space without creating adversarial dynamics.
+- Robert Morris's strategy of never saying anything unless fairly sure of it made him essentially never wrong — not through omniscience but through careful qualification.
+- Correcting a malicious streetlight looks like directional overclaiming, and correcting directional overclaiming looks like streetlighting — trapping good-faith actors.
+- Arguments that start by explicitly naming what is being disagreed about — and what is not — dramatically outperform arguments that jump straight into positions.
+- Ubiquitous video plus independent analysis creates near real-time falsification of institutional narratives.
+- Saying 'you suck' is easier than explaining exactly what you disagree with, and also shields the speaker from refutation.
+- Inability to communicate an idea simply is a signal the idea itself needs more work.
+- Photosystem II runs before Photosystem I, and 'dark reactions' occur in daylight — bad names persist because coordination costs of renaming exceed individual frustration.
+- Startup pitching is structurally broken: people bad at explaining talk to people bad at understanding, and even Google got rejected.
+- Startup pitches suffer from a double communication penalty where both sender and receiver deficiencies compound rather than cancel out.
+- Technically accurate quotes stripped of context can produce a more misleading picture than outright fabrication.
+- Daniel Dennett argues that qualia seem private and ineffable due to language failure, not because they are inherently unshareable.
+- Think freely, speak carefully, and cultivate a small circle of friends who can handle heretical ideas.
+- A strong-willed patient like Houdini needed the surgery framed in a way that aligned with his identity rather than contradicted it.
+- Steven Pinker identified five distinct types of swearing, each serving a different communicative and emotional function.
+- Shared precise vocabulary is a coordination technology that enables complex collaborative action in high-stakes domains.
+- Treat group presentation as a consciously artificial trick requiring deliberate practice, then make the artificial delivery sound conversational.
+- Speaking to a room requires a completely different voice than conversation — treat it as a consciously artificial trick, like juggling, that you make seem natural.
+- Profanity is neurologically distinct from regular language, routed through the limbic system rather than cortical speech areas.
+- Swear words serve as credible emotional signals because their social cost keeps them scarce—overuse would destroy their alarm function.
+- The Morris technique — never say anything unless you're sure it's worth hearing — turns scientific publication bias into an essayist's greatest asset.
+- Apply four gates (Real, Important, Specific, Aligned) before entering any disagreement to give it the best chance of being productive.
+- The RISA framework (Real, Important, Specific, Aligned) is a four-question pre-flight check that prevents unproductive arguments before they begin.
+- Professional investors hear so many pitches they blur together — a sticky phrase like 'the Microsoft Word of ecommerce' is the minimum viable unit of memorability.
+- The skills that make someone a great speaker are often orthogonal or opposed to the skills that generate good ideas.
+- Pinker classifies swearing into five types: dysphemistic (forcing uncomfortable imagery), abusive (intimidating), idiomatic (casual signaling), emphatic (intensifying), and cathartic (pain relief).
+- As religion and bodily functions become less frightening, identity-based and class-based language increasingly occupies the taboo space.
+- Choosing between 'defecate' and its vulgar synonym signals your emotional state about the referent, not just the referent itself.
+- Speaking excels at motivation and emotional impact, not at conveying complex ideas — choose your communication medium accordingly.
+- Have one person talk while another operates the computer — splitting both roles causes you to mumble at your screen and lose the audience.
+- Jessica Livingston's aversion to attention meant she was written out of YC's history despite being co-founder and primary culture-builder.
+- Writing's superiority for idea generation comes from removing the real-time constraint that limits both speakers and listeners.
+- Essay impact is novelty × importance, but achieving both simultaneously is rare because important topics have already been heavily explored.
+- Writing demands more rigor than talking because less can go unsaid and you lose the crutch of tone and shared context.
+- Introverts should leverage written content as their primary vehicle for demonstrating expertise rather than competing in verbal-dominant settings.
+
+## consciousness
+- Complex strategic board games existed 4,000+ years ago in Mesopotamia, demonstrating sophisticated mathematical and strategic thinking thousands of years before formal game theory.
+- Trillion-dollar companies are built on capturing human attention - the most finite and valuable resource any person possesses.
+- The feeling of being located behind your eyes looking outward is a cognitive habit, not a structural feature of consciousness.
+- Boredom sits on the same emotional spoke as disgust and loathing, driving organisms toward complexity and neural growth.
+- There's a point where thinking deeper about life stops producing insights and starts producing paralysis - the curse of thinking too deeply is real.
+- Desire creates a deficit state that acquisition only neutralizes rather than transcends — you return to baseline, not a new high.
+- Shunryu Suzuki taught 'there is no enlightened person, only enlightened activity' — pursuing a permanent state of arrival is a self-improvement delusion.
+- External sources of transcendence (substances, outrage, consumption) create escalating tolerance, while internally generated sublime experiences are permanently transformative.
+- True freedom means freedom from the mind's patterns, not from material or physical constraints.
+- Freud's key insight was that unconscious processes, while hidden, are accessible through structured techniques like free association and dream analysis.
+- Clinical psilocybin therapy uses 30-40mg doses because partial dissolution creates anxiety without breakthrough, while full doses enable the mystical-type experiences correlated with lasting therapeutic benefit.
+- At the self-authoring stage of development, you realize your values and identity are not terminal but instrumental — and gaining agency over your identity costume is what constitutes wisdom.
+- The gap between peak conscious experience and linguistic description is not a matter of degree but of kind — language is structurally incapable of encoding these states.
+- Embodied engagement accesses what intellect cannot, and psychedelics produce lasting change through a neuroplasticity window -- both show that the body is the primary transformation channel, not the thinking mind.
+- The Killingsworth & Gilbert study (Science, 2010) found that what you're thinking matters less for happiness than whether your thoughts match your current activity.
+- People who think meditation requires political passivity have confused an anodyne communication style with the actual goal of contemplative practice.
+- Abundant access to pleasure sources turns direct pursuit of pleasure into an addiction trap that replaces genuine relationships and activities with artificial substitutes.
+- Zen teaches that pain is inevitable but the stories we tell about it — how unfair it is, how permanent it feels — are optional suffering we inflict on ourselves.
+- Hopkins data shows that patients who rate their psilocybin session as a mystical-type experience show the strongest and most durable therapeutic improvements, regardless of diagnosis.
+- What we see is heavily filtered by conceptual overlays — relaxing these filters reveals experience as an undifferentiated field of light and color.
+- _...and 74 more..._
+
+## decision-making
+- Admitting you're bad at something is the first step to finding effective workarounds like delegation or systematic search.
+- Judge purchases by projected usage, not by the deal you got.
+- What looks like a flaw mid-process (arrow flexing wildly) is often the exact mechanism enabling the correct result.
+- Getting a tattoo takes hours; removing one takes years of painful treatments — this reversal-cost asymmetry is a general pattern humans systematically underweight.
+- Baby bonuses work directionally but the effect size is so small that reaching replacement fertility through payments alone would cost astronomically more than any government would spend.
+- Your early twenties offer unique exploration that a startup's all-consuming depth-first search permanently forecloses.
+- Intentional moderates and ideologues both acquire opinions in bulk rather than reasoning independently about each question.
+- When a model needs ad-hoc explanations for gravity, time zones, satellite imagery, and navigation simultaneously, the model itself is wrong — not the evidence.
+- Four of seven SI base units depend on the kilogram, so a fingerprint-weight drift in Big K corrupts Newtons, Joules, Volts, and Watts.
+- Growing up with accuracy-focused judgments trains a false expectation that all judgments aim to be fair.
+- Staying buckled in an inverted sinking helicopter is safer than the instinctive escape attempt, but requires trained override of natural panic responses.
+- The belief that history guarantees your victory makes you stop doing the strategic work required to actually win.
+- Counting finite instances of recurring experiences makes time scarcity concrete and actionable.
+- Seemingly paradoxical findings often dissolve when you recognize the phenomenon as a mix of tradeoff and failure components rather than seeking a single unified explanation.
+- Temperature-dependent sensors measuring the speed of light produced a fake diurnal cycle because the lab was outdoors.
+- RuBisCo evolved in a low-oxygen world and now grabs oxygen instead of CO2 half the time — the same pattern drives human cognitive biases in modern environments.
+- RuBisCo worked perfectly in a low-oxygen world; the problem wasn't the enzyme but the changed atmosphere — the same dynamic explains many human cognitive 'errors'.
+- Because humans linearize exponentials, they systematically under-react when early action is cheapest and over-react when the situation is already determined.
+- Most China analyses reach contradictory conclusions (China will dominate vs. China has peaked) because they cherry-pick output metrics instead of examining the underlying systems that produce those outputs.
+- Luck ranges from blind fortune to character-attracted opportunity, and you can deliberately move up that gradient.
+- _...and 99 more..._
+
+## epistemics
+- Feed algorithms don't just show different opinions — they construct different facts for different population clusters.
+- Growing audiences for 2-4 hour deep-dive content disprove the shrinking attention span narrative — people crave depth when the content rewards sustained focus.
+- History uniformly shows that every era had forbidden truths; assuming ours is different requires extraordinary evidence.
+- You know what you believe but rarely why you believe it — the source code is gone.
+- Treating survey non-response as randomly missing data produces systematically wrong estimates whenever the stigmatized view is also the under-reported one.
+- All else being equal, bet against the explanation where you are the protagonist.
+- You cannot use a biased yardstick to measure whether the selection was biased.
+
+## expertise
+- Having an audience prevents the natural tendency to stop thinking at exactly the point where deeper exploration would be most valuable.
+- Building skills must be developed early because they require sustained focus, but selling skills can be added later.
+- Sufficiently corrupt tests invert their purpose and select against the people they should be selecting for.
+- Founders don't ignore startup advice out of stubbornness — they reject it because counterintuitive truths sound like bad advice.
+- If you're bored making something, the result will look boring — morale is a design input, not just a side effect.
+- Great work comes from deep curiosity about specific questions, not from forcing yourself through material via discipline.
+- Determination requires equal parts willfulness and discipline; excess of either without the other produces local maxima or paralysis.
+- Francis Darwin identified his father's key advantage as 'the power of never letting exceptions pass unnoticed' — great discovery requires treating anomalies as data, not noise.
+- The paths to new ideas look unpromising by definition — if they looked promising, others would have already explored them.
+- Serial pivots away from proven talent usually signal identity rejection rather than strategic diversification.
+- Early versions of ambitious projects look worse than they are because we lack cultural norms for evaluating unfinished work.
+- The gap between good and great hackers is not intelligence but empathy — understanding how users actually think and behave.
+- A great programmer doesn't do the same work faster — they invent things an ordinary programmer would never even think of.
+- Across wildly different fields, Graham's heroes shared exactly two traits: excessive care about their work and absolute refusal to pander.
+- Experts develop reliable 'smell tests' for technology quality based on surrounding signals rather than technical deep-dives.
+- Experts fail not from ignorance but from over-confidence in beliefs calibrated to a previous version of the world.
+- Reversing just one variable in bicycle steering (handlebar direction) made the entire riding algorithm — balance, pedaling, leaning, steering — completely non-functional for everyone who tried.
+- Expert hackers are a tiny minority, but their tool choices cascade to the majority through influence, authority, and the software they create.
+- Experts benefit more from writing about their domain because they hold more unconscious knowledge that only surfaces through articulation.
+- Trying to express what you understand isn't just proof of understanding — it's the primary mechanism for understanding more deeply.
+- _...and 51 more..._
+
+## focus
+- Sitting quietly for 17 minutes focusing on breathing and internal body sensations significantly reduces attentional blinks in a near-permanent way after just one session.
+- Research shows 45% of daily behavior is habitual, meaning we are on autopilot nearly half the time.
+- ADHD hyper-focus on enjoyable tasks proves the focus circuitry works—the deficit is specifically in the dopamine system that should enable focus on non-preferred tasks.
+- Rewarding yourself after hard work actually undermines future motivation; learning to find the effort itself rewarding is the neuroscience behind growth mindset.
+- Design your financial systems so investing happens automatically and spending requires deliberate effort.
+- Solving hard problems requires sustained background cognition that you can only influence indirectly by controlling what occupies your mind.
+- Overcome avoidance not by forcing action but by simply turning toward the dreaded task and acknowledging its existence in your life.
+- Brain imaging shows behavioral addictions from tech activate the same areas as drug addictions.
+- Media describes being alone as negative 10x more than positive — people who internalize this framing feel lonelier when alone, while those with positive beliefs about solitude actually benefit from it.
+- Boredom isn't absence of stimulation - it's a signal that your current activity doesn't match your creative capacity, pointing toward what you should be doing instead.
+- Your response to boredom predicts life outcomes: tolerating it builds deep focus while fleeing it creates stimulation dependency.
+- CS50 teaches C before Python so students understand what happens underneath abstractions, creating mental models that transfer to any future language.
+- Nothing feels fun because constant digital stimulation has elevated your dopamine baseline so high that normal activities can't produce enough relative increase to register as pleasure.
+- Formally canceling old forgotten tasks frees more capacity than adding urgency to new ones.
+- Your brain needs both exercise (hard thinking) and rest (deliberate boredom) — AI outsourcing eliminates the exercise, digital stimulation eliminates the rest.
+- Teaching complex concepts by starting with physical metaphors before moving to formal notation produces far better understanding than abstract-first approaches.
+- Confidence problems are usually domain-specific, meaning the person already has the psychological machinery — they just need to extend it to the problem area.
+- The most dangerous aspect of addiction for creative people is the false belief that substances are the source of creativity — Callaghan proved the creative engine survives intact after sobriety.
+- You can push through noise when you have momentum, but generating new ideas demands quiet — plan your environment accordingly.
+- CRUD's universality demonstrates that complex data systems reduce to just four primitive operations, and finding such minimal operation sets is a powerful simplification strategy.
+- _...and 135 more..._
+
+## founder-mindset
+- Masa Son's explicit 50-year plan — build in 20s, accumulate in 30s, deploy in 40s, consolidate in 50s, hand off after 60 — gave him a framework to absorb $70B losses without changing course.
+- Treat every goal as a funnel where volume of attempts generates information that compounds into exponentially better outcomes over time.
+- Perceived laziness in young people often reflects unappetizing work, not lack of drive — ownership unlocks latent intensity.
+- The differentiator for top performers is absence of distractions, not presence of special abilities.
+- Champion-level performance correlates with intensity of drive rather than any particular personality archetype.
+- Stebbings observes that 90% of great founders show entrepreneurial behavior before age 13, and that gaming clan leadership is more predictive of startup success than college prestige.
+- Karp maintained contrarian positions for 20 years while being called a failure, and that tolerance for ostracism was itself a competitive advantage.
+- In work where you must invent rather than choose, there is no ceiling that signals completion, so feeling perpetually unsatisfied is the normal state.
+- Redefine success as daily activity completion rather than revenue or follower milestones to break the feast-famine cycle.
+- Replit CEO Amjad Masad's six lessons on winning emphasize that progress compounds through clarity and consistency, not through shortcuts or hype cycles.
+- Wozniak, Zuckerberg, and Gates didn't think they were starting companies — that mindset freed them to build what they actually wanted.
+- Taking full responsibility during a crisis isn't just virtuous — it functionally increases survival odds by keeping the founder in problem-solving mode rather than blame mode.
+- Haplessness means being battered by circumstances rather than shaping them, which is the precise opposite of founder temperament.
+- Marx argued that classes become self-aware not through shared traits but through the struggle itself — conflict creates identity, not the other way around.
+- Adopting an infinite-game mindset — focused on expanding what's possible rather than defending what exists — is the winning strategic posture during major technological disruption.
+- Happiness improves decision-making quality, which matters more than raw effort in a leveraged economy.
+- Study what successful people did at your stage, not what they do now, to find the right playbook.
+- Successful founders tend to have a piratical gleam — they break unimportant rules while caring deeply about the important ones.
+- In technology, revenue growth can continue long after a company has lost its ability to create new things, as Microsoft demonstrated post-2000.
+- Feeling unseen as a founder usually means you've evolved faster than your environment has noticed — it's a growth signal, not a failure signal.
+- Constraints force founders to prioritize ruthlessly, while excess capital dulls urgency and enables avoidance of hard product decisions.
+- High-performers respect hustle and learning in younger people, not luxury consumption.
+- Guy Kawasaki argues optimism means believing in your ability to shape reality, not ignoring it — a mindset that compounds through team inspiration and opportunity attraction.
+- Choose roles that maximize skill acquisition over immediate compensation during your growth years.
+- The real obstacle to your first customers is your discomfort with asking people you know to buy from you, not any external market condition.
+- Rich people don't take big risks — they structure deals to eliminate risk while preserving upside.
+- The core mental model shift for wealth creation is moving from 'how much per hour' to 'what percentage of value created can I capture.'
+
+## founder-psychology
+- Don't start acquisition conversations unless you'd accept a low offer — the distraction and psychological demoralization of entertaining buyers kills more companies than most founders realize.
+- Burnout typically signals you're working on something that isn't working or that you don't fundamentally enjoy, not that you need a vacation.
+- Being slightly overconfident armors you against both others' skepticism and your own harsh early-work judgments.
+- Designing work around natural temperament produces sustainable high performance, while chronic temperament mismatch leads to burnout regardless of talent.
+- Despite having more liquid spending power than almost anyone on Earth, Jho Low was described by party guests as anxious, unable to enjoy his own events, and desperate to be liked.
+- $10B+ founders nearly universally exhibit both a superiority complex and a deep inferiority complex operating simultaneously.
+- Entrepreneurial 'strategy sessions' about new directions often mask emotional avoidance of difficult execution work.
+- The fear that your early work looks lame is real but wrong — ambitious projects necessarily pass through a low-status phase that doesn't predict their ceiling.
+- Every ambitious project looks bad early — the problem is not the work, it's the absence of calibrated judgment for unfinished things.
+- Humans evolved no customs for evaluating nascent ambitious work, so we default to judging it by finished-work standards—a correctable error.
+- Lame-looking early work on ambitious projects is not accurately lame — it's accurately early.
+- Most founders who take premature corp dev meetings already know it's a mistake but do it anyway because being wanted feels good.
+- 42% of business owners experienced burnout recently, but the early warning signs are culturally celebrated rather than treated.
+- Founder psychology doesn't stabilize with success — the emotional amplitude expands, with higher highs but increasingly devastating lows.
+- Founders face coordinated pressure from VCs and executives to abandon instincts that are actually correct.
+- Getting fired from Stanford redirected Keating from safe postdoc work to founding the BICEP experiment — the most important work of his career.
+- An expert is someone who has made all the mistakes possible in a narrow field, and the cost of not making those mistakes (staying ignorant) compounds faster than financial debt.
+- Jho Low's fake credentials compounded — each lie made the next one easier because people used prior signals as validation.
+- When stuck on a decision, ask 'whose voice is telling me not to do this?' — naming the specific person strips the fear of its power.
+- Full passive income without engaging work produces boredom and depression, not the freedom people imagine.
+- Spending to look rich instead of being rich reveals that you've outsourced your self-worth to other people's opinions.
+- Travis's 'uber against the world' narrative drove 12-hour workdays and fierce loyalty, but the same combative culture produced internal backstabbing, sexual harassment cover-ups, and employee burnout.
+- Early entrepreneurial support comes from others' increased relative status; later hostility comes from your success highlighting their inaction.
+- When money arrives faster than feels normal, it indicates a large value gap has been identified — the correct response is to scale, not to question legitimacy.
+- Success amplifies both the highs and lows of founding — the swings get wider, not smaller.
+- Ponzi's family decline from wealthy merchants to working class created a status-obsessed identity that made him reject honest work and pursue increasingly risky schemes.
+- Focus on how fast the work is improving, not where it currently stands.
+- Good engineers made into managers as a reward for engineering excellence reliably become bad managers — the role requires different skills, not more of the same.
+
+## group-dynamics
+- The Pueblo Revolt shows that a shared existential threat can override deep tribal divisions — but the unity is temporary.
+- Enforcers of orthodoxy compete with each other, creating a race to the bottom where any borderline idea gets banned.
+- Surround yourself with peers doing ambitious work of their own — they can tell ugly ducklings from genuine failures, unlike generic encouragers.
+- Great work clusters historically around institutions that concentrate ambitious peers — a force potentially more valuable than expert advice.
+- Ambition is contagious and withers in isolation — concentrating ambitious people together amplifies everyone's output like pulling control rods from a reactor.
+- People say things anonymously online they would never say face to face, just as drivers behave more aggressively than pedestrians.
+- Dismissing new ideas earns reliable social status while pursuing them only pays off probabilistically, creating a structural bias toward criticism.
+- Cities send subtle but powerful messages about which type of ambition is most valued, and these messages shape inhabitants more than most people realize.
+- English profanity largely descends from lower-class Saxon vocabulary that was stigmatized when Norman French speakers held social power.
+- The spam problem is fundamentally a collective action failure where the rational majority cannot stop the exploitable minority from sustaining the attacker's business model.
+- Harvard Business School's largest cohorts systematically catch the last wave — junk bonds in 1989, dotcom in 1999, housing in 2005-2007 — because competition feels like validation rather than a warning signal.
+- Conformism varies on two orthogonal axes — conventional/independent and passive/aggressive — creating four stable personality types observable from childhood.
+- China's One Child Policy created a surplus of 35 million men, making property ownership a prerequisite for marriage and turning housing into inelastic social demand.
+- Developer pecking orders reward complexity theater over actual delivery.
+- The neocortex constrains stable social relationships to ~150-230 people, a biological limit unaffected by social media scale.
+- A population barely surviving only has energy to survive, while one tasting improvement develops the capacity and desire to demand more.
+- The right creative peers aren't cheerleaders but fellow practitioners who can tell whether early ugly work has genuine promise.
+- Freedom is typically eroded through small, individually reasonable steps that each seem too minor to resist, not through dramatic confrontation.
+- When your grassroots supporters actively work against your stated policy positions, the public correctly perceives your stated positions as insincere.
+- Research on hunter-gatherers and organizations converges on 8 as ideal, 20 as hard to manage, and 50 as unwieldy—matching our evolutionary design.
+- _...and 78 more..._
+
+## habits
+- Neutral framing of interruptions ('it doesn't matter how long') removes the shame spiral that prevents return, making recovery from distraction faster and more automatic.
+- Calling a project a 'sketch' isn't lowering your standards — it's applying the right standards for the stage.
+- People grabbed newspapers and magazines at newsstands out of commuting habit — when smartphones replaced the commute ritual, the revenue vanished even though the content was still good.
+- Wanting to want the new behavior is a prerequisite for lasting habit change.
+
+## human-computer-interaction
+- Triggering the human 'being-to-being' interaction mode produces engagement that productivity tools are constitutionally unable to match.
+
+## learning
+- Charisma, patience, confidence — all traits are shorthand labels for clusters of small, observable, teachable behaviors like smiling on entry and remembering names.
+- The Mongols became siege warfare experts and adopted gunpowder by interrogating prisoners and absorbing techniques from conquered peoples.
+- Confusion about advanced topics is usually a symptom of weak prerequisite understanding, not genuine complexity of the topic itself.
+- Instead of trying to predict where change will come from, be aggressively open-minded and maximize sensitivity to change signals from any direction.
+- AI tutoring's real power is meeting you at your exact level — eighth grade vocabulary with fifth grade math — so you're always at the edge of understanding, never lost or bored.
+- Concrete physical analogies (boxes for variables, restaurants for functions) make abstract programming concepts learnable faster than formal definitions alone.
+- Reframing feedback requests as advice requests shifts people from cheerleader/critic mode into coach mode with actionable forward-looking suggestions.
+- Proof of work exploits the asymmetry between creation difficulty and verification ease to scale trust across unlimited participants.
+- Popperian error correction (conjecture + refutation) is superior to Bayesian confidence-building because confidence in a theory peaks right before falsification.
+- Changing beliefs is like blazing a new trail next to a four-lane highway of old patterns — it works, but takes persistent effort over months or years, not weeks.
+- If you expect work to hurt, you lose the ability to distinguish productive struggle from doing something fundamentally wrong.
+- You can't find great questions by searching for them — they emerge from sustained immersion in work that interests you.
+- Cells cannot use glucose energy directly — it must first be converted to ATP, a universal intermediary, just as economies need standardized currency to function.
+- Evolution can only reach solutions through chains of viable intermediates, while human creativity can leap across non-viable gaps — explaining why no species ever made a campfire despite billions of years.
+- Fourier's immortality came not from solving the heat equation but from asking whether ANY function could be expressed as sine waves — a question that seemed absurd at the time.
+- Building a working model forces you to confront every gap in your understanding that passive learning lets you skip.
+- Automating fundamental operations frees working memory for complex abstractions, making advanced concepts stick rather than crumble.
+- Clear thinking lets you identify the 1% of decisions that matter and apply leverage to magnify their impact.
+- Committing to a prediction before seeing results forces you to engage with the underlying model, not just the outcome.
+- Mastering complex systems requires identifying the few repeated patterns rather than memorizing individual components.
+- _...and 214 more..._
+
+## math-perception
+- Hard problems yield to successive approximation converging on precision, not to brute-force exact computation.
+- For any convex 3D shape, averaging its shadow area over all orientations yields exactly one-quarter of its surface area — a powerful generalization beyond spheres.
+- Tracking just two basis vectors fully determines any 2D linear transformation — a principle of minimal sufficient representation.
+- Big-O deliberately ignores constants and small inputs, which means theoretically equivalent algorithms can have vastly different real-world performance.
+- The inverse Pythagorean theorem lets you split one lighthouse into two while preserving total brightness — transforming the problem without losing information.
+- Cardinality measures how many things exist while ordinality measures how they're arranged, and these diverge at infinity.
+- Perfect cancellation of opposing effects — like width-stretching and height-squishing in sphere-to-cylinder projection — is a fingerprint of deeper structural relationships.
+- Adding a hash table to a heap reduces arbitrary element removal from O(n) to O(log n) by eliminating the linear search bottleneck.
+- Dirichlet's proof that primes distribute evenly across residue classes relies on complex analysis — calculus with complex-valued functions — despite primes being purely discrete objects.
+- The importance of a mathematical fact is proportional to how many other topics it connects to, making it discoverable from many starting points.
+- Derivative rules are compressed patterns derived from the limit definition, and understanding their origin enables flexible problem-solving beyond rote application.
+- Dirac's equation predicting antimatter came from his unusual visual-geometric approach to mathematics -- and he said the equation was 'smarter than he was' because it revealed truths he hadn't put in.
+- Hamkins proves every natural number is interesting via contradiction: if boring numbers existed, the smallest boring number would be interesting for being the smallest boring number.
+- Gödel showed that by assigning numbers to symbols, any mathematical system powerful enough to do arithmetic can construct statements that refer to themselves.
+- Anomalous outputs in simple systems are signals of hidden structural connections waiting to be uncovered.
+- Implicit differentiation computes rates of change directly from the relationship between variables, without requiring one variable to be isolated as a function of the other.
+- Indeterminate forms like 0/0 in calculus signal convergence of two quantities and require algebraic manipulation to resolve, teaching the meta-skill of treating apparent paradoxes as meaningful signals.
+- Our brains treat infinity like a big finite number, which produces wrong answers — infinity/2 = infinity, and the set of even numbers equals the set of all whole numbers.
+- Infinity is not the biggest number — it's how many numbers there are, a size rather than a quantity on the number line.
+- Epsilon-delta formalizes the intuitive idea of closeness into a precise logical framework that underpins all of calculus.
+- _...and 33 more..._
+
+## mental-models
+- Three competing theories for the Indus Valley's decline each tell a confident story from the same absence of evidence, revealing how humans handle epistemic gaps.
+- The 'alien truth' test filters for universal truths by asking whether any intelligent being would converge on an idea.
+- Complex problems almost always have both 'chosen cost' and 'pure dysfunction' causes, and separating them improves analysis.
+- Every exponential process in nature eventually saturates, making the logistic S-curve a more accurate mental model than pure exponential growth.
+- Bernoulli's principle unifies cavitation across wildly different domains: bullets, propellers, pipes, and arteries all create vacuum bubbles through the same mechanism.
+- ATP functions as a universal energy currency — the body cannot use glucose directly, just as a store cannot accept foreign currency without exchange.
+- The neo-Assyrian Empire collapsed partly because its theology required perpetual conquest — one loss shattered the entire worldview.
+- Our definition of 'civilization' privileges traits like writing and monuments, causing us to undervalue the Indus Valley's achievements in sanitation and urban planning.
+- Both the Israeli and Palestinian historical narratives are factually grounded, yet they support mutually exclusive territorial claims.
+- The Calvin Cycle produces 6 G3P molecules but 5 must be recycled to regenerate the starting material — only 1/6 of output actually leaves the system as usable product.
+- A top performer's concentrated skill creates disproportionate value that cannot be replicated by distributing the same total skill across many people.
+- Aristotle's most consequential error was inferring that because curiosity-driven inquiry is noble, the resulting knowledge should be valued precisely for being useless.
+- A 4:1 mechanical advantage means you pull with 1/4 the force but must pull 4x the distance — you never get something for nothing, only redistribute the cost.
+- Thylakoids are charged like batteries by pumping protons to one side, then releasing them through ATP synthase to produce energy—imbalance is the engine.
+- Cram schools reveal the exact weaknesses in any credentialing system—their decline signals the system is becoming harder to game.
+- Default to creating rather than critiquing, because early-stage creation is rarer and more valuable than sophisticated criticism.
+- Susan Haack's crossword metaphor shows beliefs are justified by mutual support among independent evidence lines, not by any single foundation or coherent story alone.
+- The Calvin cycle produces 6 G3P molecules per turn but only 1 escapes as net product—the other 5 must be recycled to regenerate the 3 RuBP molecules needed to run the next cycle.
+- Photosynthesis runs as two completely separate stages—light reactions convert photons into ATP and NADPH, then the Calvin cycle spends that stored currency to fix carbon—allowing each stage to be optimized, timed, and regulated independently.
+- The mathematician defines a vector by what you can do with it (add, scale), not by what it is — this yields maximum generality.
+- _...and 50 more..._
+
+## negotiation
+- SEIU weaponized ballot initiatives as destruction threats to extract concessions worth 16x their investment.
+- Somali ransom negotiations show that calibrated irrationality — seeming rash enough to execute threats but patient enough to deal — is the optimal bilateral monopoly strategy.
+- Frame early stakeholder conversations as informal information-seeking, not persuasion attempts, to get honest intelligence.
+- Corp dev teams systematically flip the dynamic so founders end up selling themselves rather than being courted.
+- Arguments escalate when they shift from debating issues to threatening someone's core identity and values.
+- Creating a crisis first makes your offer to stop look like a concession, giving you leverage you never earned.
+- VCs resist founder control primarily because they don't want to appear weak to their partners, not because they believe it harms returns.
+- Be optimistic about what you can do but assume every external deal will fall through — not to avoid disappointment but to prevent leaning your company against something that will collapse.
+- Asking 'what's your advice on how we can get our interests met at the same time?' converts adversaries into co-problem-solvers.
+- Consciously listening for the first 10 minutes and acknowledging the other side's logic disarms conflict more effectively than arguing.
+- When an investor says 'I want to invest but I don't lead,' translate to 'No, except yes if you become a hot deal.'
+- Narratives dominate negotiations only until one side introduces a formal model—then the conversation shifts irreversibly to quantitative terms.
+
+## perception
+- Perfect squares become vanishingly rare as numbers grow — 'almost no' numbers are perfect squares — yet there are infinitely many of them, perfectly predictably located.
+- The Collatz sequence's logarithmic behavior matches geometric Brownian motion — a stock-market-like random walk emerging from a fully deterministic rule.
+- Edgerton's single-frame strobe technique from the 1930s produces sharper images than a modern 20,000 FPS camera because it sacrifices all temporal resolution for maximum spatial resolution.
+- In infinite or self-similar systems, a subset can contain everything the whole contains.
+- People feel anxious in extreme silence because reverb normally signals spatial safety — its absence triggers an expectation violation that the brain interprets as claustrophobia.
+- The worst outcome isn't failing at your goals - it's succeeding at goals that were never actually yours.
+- Adults hiding their flaws while enforcing high standards on children creates a generation that feels secretly, hopelessly inadequate compared to an illusion.
+- Algorithms optimized for engagement systematically show people the most extreme, emotional, and divisive content, creating population-scale distortion of what the world actually looks like.
+- 75,000-year-old African beds used ash layers to repel ticks and aromatic leaves to deter mosquitoes, while ostrich egg canteens were self-cooling through micro-porous evaporation.
+- Every anti-consumption trend is immediately co-opted by brands selling anti-consumption-branded products, neutralizing t
+- Over-detecting threats in ambiguous stimuli is evolutionarily cheaper than missing real threats, so apophenia persists as a survival advantage.
+- The negative energy solutions in the Dirac equation were universally condemned as 'the saddest chapter in modern physics' — until Dirac proposed they predicted antimatter, and Carl Anderson accidentally found the positron in a cloud chamber just one year later.
+- Finding children's and women's shoes at Roman army bases overturned the assumption that military posts were male-only — tiny artifacts reshaped understanding of an entire institution.
+- Apple's power is ecosystem lock-in that makes switching feel like identity loss — not product superiority.
+- 'Nature abhors a vacuum' dominated thinking for over a thousand years because Aristotle's framing was so intuitively compelling that even experimental contradictions were dismissed.
+- Shared human perceptual wiring (faces, primary colors, 3D objects, edge-finding) makes art quality measurable against universal audience responses.
+- When people expect norm compliance from one party but not the other, the norm is already destroyed regardless of what happens next.
+- When ambient noise disappears, the auditory system cranks up its gain, making internal body sounds that were always present suddenly audible.
+- Bohr's social authority caused the physics community to dismiss the EPR paradox for 30 years — not because he refuted it, but because his response was so obscure nobody dared challenge it, and anyone who did was told 'Do you think you're smarter than Niels Bohr?'
+- The cherry blossom is beautiful because it falls, not despite it - awareness of impermanence deepens experience rather than diminishing it.
+- _...and 277 more..._
+
+## persuasion
+- Steady accumulation of documented incidents shifts opinion more than any single dramatic event because patterns resist counter-narrative.
+- Credibility in political discourse requires praising opponents when warranted, not just criticizing allies — a rare and costly signal.
+- Smooth-tongued liars succeed by method-acting belief in false premises, producing internally consistent but externally ungrounded reasoning.
+- Correctness about what's wrong doesn't convert into support without a clear alternative vision.
+- The conviction that you understand persuasion too well to be persuaded is itself a persuasion vulnerability.
+- Conservatives and liberals both benefit from treating 'the West' as monolithic — one gets scary stories, the other avoids engaging with uncomfortable European statistics.
+- Equal optimization on substance makes charisma the tiebreaker.
+- Explicit claims of passion or quality trigger skepticism filters, while implicit confidence conveyed through demeanor and specifics builds genuine credibility.
+- Never verbally claim passion or quality — audiences discount explicit self-praise but heavily weight the implicit confidence of your delivery.
+- When your audience can't evaluate your technical work directly, your own visible conviction becomes their strongest data point.
+- The shopping-as-leisure reframe is a deliberate corporate strategy most people can't see through for decades.
+- Rhetoric that questions whether a system is legitimate makes it impossible for the speaker to credibly claim they should lead that system.
+- Saying 'nothing could go wrong' destroys credibility — genuine experts enumerate risks in detail because deep knowledge reveals more failure modes.
+- Good persuaders don't lie — they choose which truths to tell, the same way a flatterer picks genuine compliments.
+- Explicitly stating the boundaries of your argument before making it partially defuses accusations of malicious streetlighting or directional overclaiming.
+- The article pitches the same amendment separately to Democrats (anti-gerrymandering), Republicans (Trump's legacy building), Libertarians (third-party viability), and state legislators (personal career advancement).
+- Labels like x-ist end discussion by signaling that truth-evaluation is no longer relevant.
+- Insider status grants persuasive leverage that outsiders cannot replicate.
+- Moral labels replace factual rebuttals precisely when the factual rebuttal would fail.
+- LLM fact-checkers like Grok achieve belief-accuracy shifts comparable to professional fact-checking, and resist their creators' political biases.
+- Keep a running notes document tracking exec questions and feedback to anticipate their reactions in future discussions.
+- Adams, the self-proclaimed expert on manipulation tactics, was ultimately destroyed by a manipulation technique straight out of his own playbook that he failed to recognize.
+- Craft a single compelling phrase ('the X of Y') that investors will remember after hearing dozens of pitches.
+- The Black Legend pattern shows how condemning a rival's cruelty becomes moral cover for your own imperial ambitions.
+- Shift from defending your position to calling out the pattern of misrepresentation itself.
+- Persuasion overhead increases with idea novelty until it consumes all available energy, capping how far you can push thinking.
+- Persuasion offers short-term advantages but cannot indefinitely substitute for factual grounding and real value creation.
+- Spin added for persuasion gets mixed into your own reasoning, making you unable to see your ideas clearly.
+- Announced breakthroughs can be strategic deception designed to make containment policies seem futile.
+- Structure landing page narratives as Problem → Agitation (real business cost) → Transformation (quantified outcome) using customers' exact language.
+- Sequoia's 'proxy for demand' — what people do now with inadequate tools — is more convincing than market size because it shows revealed behavior, not projected numbers.
+- Costco's confusing warehouse layout makes shoppers feel like deal-hunters rather than annoyed customers, turning a cost-saving measure into a positive brand experience.
+- Present proposals in terms of what the audience already cares about, not what you care about.
+- Graham doesn't argue for or against the death penalty on conventional grounds — he reframes the entire debate from philosophy to error rates.
+- True refutation demands stating the opponent's main claim before dismantling it, which forces intellectual honesty.
+- Both the Visionary and Brahma refuse to leverage self-interest arguments for morality, finding it 'aesthetically unappealing' to reduce ethics to incentives.
+- The school habit of stretching limited ideas to fill required page counts trains people to communicate without conviction, which investors and other sophisticated audiences immediately detect.
+- Professional investors hear so many pitches they blur together — a sticky 'the X of Y' phrase is the first-cut survival filter.
+- Professional investors hear so many pitches they blur together — a sticky one-phrase description ensures you're remembered at all.
+- Concrete metrics and specific examples generate trust in cold outreach far more than enthusiasm or passion statements.
+- The same act of deception ranges from routine (soccer flopping) to morally insane (golf score fabrication) depending on domain-specific norm calibration that outsiders often can't perceive.
+- Systematically research each stakeholder's incentives, decision process, and concerns before attempting to influence them.
+- Building up your opponent's best case before responding protects you from being blindsided by stronger versions of their argument later.
+- Participants subliminally exposed to the Apple logo outperformed IBM-exposed groups on creative tasks.
+- Swear words across languages tend to be short with hard consonants because cultural selection favors words that can be deployed rapidly and with maximum percussive impact.
+- Realizing that selectors barely scrutinize you motivates more active self-presentation.
+- Vague predictions appear accurate because our brains apply the 'law of near enough' — two things don't have to match exactly for us to perceive a connection, making almost any outcome confirmatory.
+- The Polarity Principle in relationships operates through the same variable-ratio reinforcement schedule that drives gambling addiction.
+- Moral movements go viral because people's default response to being told they're breaking a rule is to believe the accuser, especially when rules change fast.
+- One viral video of concrete harm shifts opinion more than years of theoretical warnings.
+
+## physics-intuition
+- Light's regularity means its full 3D state is determined by its values on any 2D boundary surface.
+- Firing one bullet underwater produces three visually distinct phenomena (Bernoulli cavitation, gas trail, shock vapor) that are invisible at normal speed but separable at 27,450 fps.
+- Three different physical processes produce visually identical bubbles underwater, distinguishable only at extreme temporal resolution.
+- Both Planck's quantum of energy and Bohr's quantized angular momentum were 'acts of desperation' with no physical justification — they worked spectacularly before anyone understood why.
+- Aerogel's fragile nanostructure gradually decelerates hypervelocity comet particles over distance rather than stopping them instantly, preventing vaporization on impact.
+- Earth simultaneously spins at 1,670 km/h, orbits at 108,000 km/h, drifts at 70,000 km/h with the solar system, races at 792,000 km/h around the galaxy, and hurtles at 2.1M km/h toward the Great Attractor.
+- Scientists created acoustic black holes (dumbholes) in labs using fluids at the speed of sound to study real black hole behavior through analog observation.
+- Shadows and geometric intersection points can exceed light speed because they transfer no information — only physical causation is speed-limited.
+- Water in front of the bullet inside the barrel vaporizes because high flow velocity drops local pressure below the boiling point, even at 4°C.
+- Upgrading from Newton's to Einstein's model of gravity was not just philosophical — it enabled GPS, accurate satellites, and Uber; better frameworks for understanding reality directly produce better tools.
+- When underwater cavitation bubbles collapse, the compression can generate temperatures hot enough to produce light (sonoluminescence), showing how mundane initial conditions can concentrate energy to extreme densities.
+- Underwater gas bubbles oscillate through multiple collapse-rebound cycles because fluid momentum carries the bubble past equilibrium in both directions.
+- Objects appear to follow single trajectories not because they do, but because the crazy paths cancel each other out — only paths near the least-action path constructively interfere and survive.
+- The Julian calendar drifted only 10 days in 1,500+ years, yet that imperceptible annual error eventually forced Pope Gregory to delete 10 days from October 1582.
+- Conservation of energy forces the collision dynamics onto a circle in velocity phase space, which is why pi emerges from a counting problem.
+- Aerogel insulates better than air despite being 99% air because its pores are smaller than air molecules' mean free path.
+- The event horizon 'singularity' that convinced Einstein black holes couldn't exist was just a bad coordinate choice, not real physics.
+- Black shade balls actually cool the water beneath them because the air gap inside acts like a double-paned window, blocking heat transfer despite high surface absorption.
+- Near a black hole singularity, it's not the strength of gravity that kills you but the difference in gravitational pull between your head and feet — the gradient stretches you apart.
+- Because we move almost exclusively through time rather than space relative to Earth, gravity's pull is mostly the curvature of time, not space.
+- _...and 52 more..._
+
+## relationships
+- The 85-year Harvard Study of Adult Development shows that the single choice most likely to keep you happy and healthy is investing in relationships.
+- Active addiction of any kind — drugs, crime, gambling — makes genuine love impossible because the addiction always comes first.
+- The Harvard study shows that finding reliable adult partners and friends can correct the gloomy expectations formed by difficult childhoods.
+- Ensure your partner judges you on the same metrics you judge yourself — misaligned scorecards create unwinnable games.
+- Attachment theory research estimates that caregivers let down about 50% of children — meaning on any given date, there is a 50% chance the other person has an attachment wound operating unconsciously.
+- Self-improvement is the single lever that makes all dating tactics redundant.
+- Shunryu Suzuki's teaching that beginner's mind holds many possibilities while expert's mind holds few applies to relationships, business, and self-understanding alike.
+- Children learn 'is it safe to be upset around people who love me?' and carry that answer as their default relationship setting into adulthood.
+- Just as children absorb grammatical language invisibly, they also absorb an emotional grammar -- patterns of trust, fear, and communication -- from caregivers that shapes every adult relationship.
+- Kids don't just need care — they become genuinely interesting friends and conversation partners much earlier than expected.
+- We habitually see bad behavior and assume bad person — but separating behavior from identity enables coaching instead of punishment in any relationship.
+- Identical touch can feel amazing or infuriating depending on emotional context — context is the master variable, not technique.
+- Identical physical stimulation produces pleasure or discomfort depending entirely on context — emotional safety, stress levels, and relationship dynamics matter more than technique.
+- Covert contracts — where one party secretly resents an agreement and begins taking compensation through indirect sabotage — are the root mechanism of relationship destruction.
+- The architecture of social media makes criticism indistinguishable from cruelty, so personal growth requires deliberately building and maintaining a trusted inner circle whose feedback you actually internalize.
+- If your partner measures success on different metrics than you measure yourself, you can never win.
+- Boys in fatherless households suffer more than girls, creating an intergenerational cycle of male disadvantage that compounds across education, employment, and family formation.
+- You can only be truly kind if you're capable of not being kind - otherwise niceness isn't a choice, it's just an inability to say no.
+- Good relationships regulate emotions at a biological level, keeping bodies in equilibrium; people with secure late-life connections show slower brain decline.
+- John Gottman's four horsemen of relationship failure (criticism, contempt, defensiveness, stonewalling) map precisely to customer support anti-patterns that cause churn.
+- _...and 65 more..._
+
+## resilience
+- Events are not traumatic — they are potentially traumatic — because the same event produces resilience in most people and lasting harm in a minority, meaning trauma is in the response, not the event.
+- Most suffering about change comes from resisting it rather than from the change itself - accepting impermanence eliminates the anxiety of trying to freeze what cannot be frozen.
+- Adaptability to novel situations, not deep expertise in any domain, is the only AI-proof career strategy.
+- Agency and gratitude serve as the top-level indicators of mental health, paralleling blood pressure and endurance in physical health.
+- Planning for career stability in the AI era is planning for extinction—adaptability is the only viable strategy.
+- Ambitious projects universally look unimpressive early on, so premature judgment kills more great work than lack of talent.
+- Great projects universally pass through a phase where they look embarrassingly bad, and most people quit before pushing through it.
+- Great work requires pushing through an early phase where your output looks embarrassingly bad.
+- Nietzsche's amor fati doesn't just accept suffering - it loves it, treating every hardship as necessary raw material for becoming who you are.
+- Antifragility means pressure makes the system stronger, not just intact.
+- When the worst-case cost is trivial (a day's wages, some embarrassment), the decision to try is mathematically obvious.
+- Gregory Watson got a C on his paper about the 27th Amendment, then spent a decade and $6,000 to prove his professor wrong by getting the amendment ratified 203 years after it was proposed.
+- Rosolie's spontaneous, profanity-filled Instagram video about Amazon fires went viral and led to the major funding that transformed Jungle Keepers, while his calculated Discovery Channel stunt backfired catastrophically.
+- I can't go on. I'll go on. - Beckett's most important insight is that persistence doesn't require hope, meaning, or expectation of success.
+- Deliberately deceiving an adversary in negotiations to buy time destroys the possibility of future diplomatic solutions, often at catastrophic long-term cost.
+- Wherever you assign blame for your situation, you simultaneously assign power over your future outcomes to that same thing.
+- Blame is pain management disguised as accountability — when people blame, they are discharging discomfort, not seeking truth.
+- Whatever you cast blame to is where you also cast power — blaming your mom, the economy, or politics makes those things your master.
+- A third of male K-12 teachers also coach, and coaches naturally spot struggling boys and open conversations in non-threatening shoulder-to-shoulder settings -- they are disguised mental health infrastructure.
+- Evolution selects for stability not optimality, biology punishes radical intervention with cascading side effects, yet first-principles leaps succeed precisely because they bypass the system rather than trying to reform it.
+- _...and 151 more..._
+
+## skill-development
+- Like physical strength after industrialization, writing will persist only in those who choose to cultivate it, not those compelled by circumstance.
+- Autonomy in work is a one-way door: once crossed, the cage of a managed job becomes visible and unbearable.

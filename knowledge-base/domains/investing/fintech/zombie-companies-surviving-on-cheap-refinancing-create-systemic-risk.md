@@ -45,13 +45,12 @@ stance: >-
   unsustainable debt at low rates create systemic risk because when rates rise,
   they fail simultaneously rather than individually.
 related:
-  - PRI-260321-2DF0
   - INS-260327-68C1
-  - INS-260327-E4F1
+  - PRI-260406-861A
   - INS-260403-8DD4
   - INS-260403-3A72
+  - PRI-260321-2DF0
   - INS-260404-B0BF
-  - INS-260403-9CC1
   - INS-260329-F443
   - INS-260405-4CDA
 evidence:

@@ -54,9 +54,9 @@ related:
   - INS-260403-D463
   - INS-260404-94EB
   - INS-260405-F7FA
+  - PRI-260406-20FD
   - INS-260404-CDF0
   - INS-260330-3698
-  - INS-260327-4C73
 ---
 The story's central mechanism — a drug that lets people live counterfactual lives — dramatizes a deep insight about character assessment. Observed behavior is contaminated by circumstance: a rich person never tested by poverty may appear virtuous simply because virtue was never costly. A poor person who steals may have been generous if born wealthy. The veil of ignorance framework strips away situational luck to reveal dispositional character.
 

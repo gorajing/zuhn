@@ -46,10 +46,10 @@ stance: >-
   already established.
 related:
   - INS-260325-0FED
+  - PRI-260406-A5F0
   - INS-260404-8ACB
   - INS-260405-7BA5
   - INS-260327-B5C9
-  - INS-260329-1F4D
   - INS-260323-D9CE
   - INS-260327-B4C0
 evidence:

@@ -52,7 +52,6 @@ stance: >-
   between the most and least productive individuals and companies will widen
   exponentially rather than narrowing.
 related:
-  - INS-260320-E683
   - INS-260329-3739
   - INS-260329-9101
   - INS-260329-9D26

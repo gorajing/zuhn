@@ -46,11 +46,10 @@ stance: >-
   moderates and undecided people.
 related:
   - INS-260330-F759
-  - INS-260405-39FA
+  - PRI-260406-1B8A
   - PRI-260321-0A4D
   - INS-260327-C7BF
   - INS-260403-B73A
   - PRI-260322-9E36
-  - INS-260403-B198
 ---
 The article shows that despite record-high liberal self-identification (28%), surging Democratic party ID, and widespread disapproval of Trump's tactics, neither Trump nor Trumpism is collapsing the way Bush-era support did. This suggests opposition energy alone plateaus. The dynamic is visible in many domains: open-source movements that are 'anti-big-tech' but lack a coherent product vision, startup positioning that is purely 'we're not X,' or team cultures defined by what they reject rather than what they build. The ceiling exists because moderates and swing participants need something to move toward, not just something to move away from. Breaking through requires articulating a positive identity and concrete plan.

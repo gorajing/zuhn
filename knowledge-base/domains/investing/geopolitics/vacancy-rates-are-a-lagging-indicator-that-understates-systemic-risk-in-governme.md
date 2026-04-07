@@ -56,9 +56,10 @@ stance: >-
 related:
   - INS-260327-96BB
   - INS-260330-EC7C
+  - PRI-260406-12A2
+  - PRI-260406-9063
   - INS-260330-9DCD
   - INS-260330-8D0C
-  - INS-260330-923F
 evidence:
   - id: INS-260330-EC7C
     type: EXTENDS

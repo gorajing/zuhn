@@ -53,13 +53,13 @@ stance: >-
   ambitious work gain a durable competitive advantage because this tolerance is
   rare, trainable, and produces outsized power-law returns.
 related:
-  - INS-260329-E45A
   - INS-260402-7B04
   - INS-260327-A40E
   - INS-260404-A1BA
+  - PRI-260406-21DA
+  - INS-260329-E45A
   - INS-260322-A928
   - INS-260405-4EAA
-  - INS-260329-F21F
 ---
 Graham argues that dismissing early-stage work is not deeply rooted in human nature but is a cultural default that emerged because making new things is historically novel for our species. We simply never developed customs for evaluating work-in-progress. Silicon Valley developed such customs — partly from self-interest (investors want founders to succeed), partly from practice (repeated exposure to ugly ducklings that became swans).
 

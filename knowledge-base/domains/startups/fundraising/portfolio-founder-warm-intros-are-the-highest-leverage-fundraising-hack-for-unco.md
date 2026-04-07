@@ -55,10 +55,10 @@ stance: >-
 related:
   - INS-260403-D0BA
   - INS-260404-F26B
+  - PRI-260406-0E64
   - INS-260403-62D1
   - INS-260403-7E27
   - INS-260403-E6DE
-  - INS-260403-F4E7
   - INS-260403-888C
 ---
 For every target VC, the founders connected with ~15 portfolio founders on LinkedIn, converted 3 into 15-minute calls, and consistently got 1-2 warm introductions per VC. This created a repeatable system that solved the cold-start network problem. The key insight is that when a portfolio founder introduces you, the investor receives the deal from a trusted source, assumes the round is already progressing, and feels urgency to act. This is especially powerful for founders outside established ecosystems (non-Silicon Valley, non-London) who lack organic investor networks.

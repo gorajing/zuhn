@@ -45,8 +45,8 @@ stance: >-
 related:
   - INS-260326-3CDE
   - INS-260330-C367
+  - PRI-260406-229E
   - INS-260403-E6FD
   - INS-260327-4EDE
-  - INS-260323-810D
 ---
 When validating problem-solution fit, giving away a pilot for free optimizes for the wrong thing—participation rate rather than genuine need. Customers who invest money, even at a discount, have crossed a commitment threshold: they've signaled a real problem worth solving and have an incentive to engage seriously. This produces much higher quality feedback during post-pilot interviews. The skin-in-the-game principle applies here: financial commitment changes behavior. The data from a 10-customer paid pilot is worth more than data from 100 free trials when calibrating your value proposition.

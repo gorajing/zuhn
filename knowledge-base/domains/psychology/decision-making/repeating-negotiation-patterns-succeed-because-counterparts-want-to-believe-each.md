@@ -52,7 +52,7 @@ related:
   - INS-260329-3D14
   - INS-260403-BA48
   - PRI-260324-2C9F
-  - INS-260405-370B
+  - PRI-260406-D287
 evidence:
   - id: INS-260329-3D14
     type: CONTRADICTS

@@ -52,6 +52,7 @@ related:
   - INS-260403-DD13
   - INS-260403-1DDC
   - INS-260404-EA1D
+  - PRI-260406-F9AC
   - INS-260330-217C
 ---
 In venture capital, the standard assumption is that a proven track record is the primary driver of fund performance. But Allocator One's research on specialized first-time managers challenges this: niche focus can be a genuine structural advantage, not just a marketing pitch. A manager with deep domain expertise — in climate tech, defense, biotech, or a specific geography — can source deals earlier, evaluate them with more nuance, and add more value post-investment than a generalist operating across sectors.

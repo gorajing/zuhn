@@ -46,10 +46,10 @@ related:
   - INS-260327-4F8C
   - PRI-260328-F497
   - INS-260403-616B
+  - PRI-260406-0ACE
   - INS-260403-DD63
   - INS-260327-1576
   - INS-260403-F4B9
-  - INS-260330-A0AE
   - INS-260403-FB4A
 ---
 Cruise lines earn higher margins than airlines because the ship is a captive-market platform where all spending occurs within their controlled environment, while airlines merely transport people between competitive destinations.

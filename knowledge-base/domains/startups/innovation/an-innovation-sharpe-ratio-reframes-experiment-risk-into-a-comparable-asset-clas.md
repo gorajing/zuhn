@@ -52,11 +52,11 @@ stance: >-
   adjusted for failure rate—lets CFOs benchmark innovation against private
   equity or high-yield funds rather than against zero.
 related:
+  - PRI-260406-AC52
   - INS-260403-1358
   - INS-260403-910E
   - INS-260403-B1F2
   - PRI-260405-47B5
-  - INS-260330-1A63
 ---
 The Sharpe Ratio measures return per unit of risk, making it one of the most common tools for comparing investments that differ in both return and volatility. Applying the same logic to innovation—(expected upside × success probability) / (experiment cost × expected failure rate)—produces a number that can be compared to private equity returns or high-yield bond yields.
 

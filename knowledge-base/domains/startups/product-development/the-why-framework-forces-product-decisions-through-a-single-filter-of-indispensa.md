@@ -53,10 +53,10 @@ stance: >-
   constrains creativity productively and prevents feature creep.
 related:
   - INS-260330-0BBA
+  - PRI-260406-874A
   - PRI-260403-53D6
   - INS-260403-CD74
   - INS-260327-8C1C
-  - INS-260403-5F41
   - INS-260403-5B4E
 ---
 Jawbone's 'Why' framework asks a deceptively simple question: what is the user problem that, once solved through this experience, people can't live without? For UP24, they distilled this to five specific Whys around real-time data flow, contextual guidance, ongoing encouragement, and fluid interaction. These Whys served triple duty: they constrained the creative exploration phase so innovation stayed focused, they provided a consistent checkpoint during trade-off decisions ('does this still meet our Whys?'), and they became the brief that aligned engineering, design, and data teams.

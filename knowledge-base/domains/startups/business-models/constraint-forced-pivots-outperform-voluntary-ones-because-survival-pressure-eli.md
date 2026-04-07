@@ -50,7 +50,6 @@ stance: >-
   durable model changes than those that pivot opportunistically, because
   survival pressure overrides organizational inertia and sunk-cost attachment.
 related:
-  - INS-260328-12EE
   - INS-260403-ACA8
   - INS-260403-2D99
   - INS-260403-E25F

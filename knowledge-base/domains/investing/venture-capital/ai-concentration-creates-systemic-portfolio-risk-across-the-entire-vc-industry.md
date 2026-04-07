@@ -47,11 +47,11 @@ stance: >-
   asymmetric bets.
 related:
   - INS-260327-0D3C
+  - PRI-260406-C932
   - INS-260403-5CBD
   - INS-260405-6FE3
   - INS-260402-180C
   - INS-260404-5684
-  - INS-260405-D959
 ---
 The gravitational pull of AI has warped venture capital's portfolio construction at the industry level. With most capital flowing into foundation models, frontier compute, and AI infrastructure, LPs backing different GPs are effectively making the same bet. Startups outside AI either rebrand to capture funding or watch their cap tables evaporate.
 

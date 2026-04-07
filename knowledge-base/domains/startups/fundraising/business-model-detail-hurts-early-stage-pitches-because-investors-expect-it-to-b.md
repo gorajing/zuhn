@@ -52,15 +52,15 @@ stance: >-
   change and judge you on problem clarity instead.
 related:
   - INS-260323-6351
-  - INS-260323-1B42
   - INS-260327-5B30
-  - INS-260329-1CB0
-  - INS-260330-A38C
-  - INS-260330-DF2C
   - INS-260330-F1C8
   - INS-260402-5974
   - INS-260403-EE10
   - INS-260403-D882
+  - INS-260404-D4A0
+  - INS-260404-16E1
+  - INS-260404-E36F
+  - INS-260405-4AE1
 evidence:
   - id: INS-260323-6351
     type: TRANSFERS_TO

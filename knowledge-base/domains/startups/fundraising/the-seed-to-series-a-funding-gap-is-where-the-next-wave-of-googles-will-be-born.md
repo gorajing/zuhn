@@ -50,15 +50,15 @@ stance: >-
   is the most underserved and highest-opportunity segment in startup investing.
 related:
   - INS-260402-5974
+  - PRI-260406-B2E5
   - INS-260403-64F1
   - INS-260403-E407
+  - PRI-260406-4397
   - INS-260403-1E5F
-  - PRI-260405-E9C5
-  - INS-260404-EFA0
   - INS-260403-7483
   - INS-260404-B016
   - INS-260403-8ABF
-  - INS-260403-96A6
+  - INS-260405-75E6
 evidence:
   - id: INS-260403-47B7
     type: TRANSFERS_TO

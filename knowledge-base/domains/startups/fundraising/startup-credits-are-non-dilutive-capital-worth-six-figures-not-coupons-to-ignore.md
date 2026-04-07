@@ -47,16 +47,16 @@ stance: >-
   Founders who treat startup credits as strategic capital rather than perks can
   extend runway by 6-12 months without giving up equity
 related:
-  - INS-260330-2952
   - INS-260404-5E22
   - INS-260404-22CB
   - INS-260403-6184
-  - INS-260403-A3DA
   - INS-260403-3C53
   - INS-260403-E175
   - INS-260402-C2BA
   - INS-260405-EAF3
   - INS-260405-1A59
+  - PRI-260406-1A4D
+  - PRI-260406-E542
 ---
 Early-stage AI startups typically burn 30-40% of cash on infrastructure and tools before reaching product-market fit. The credit ecosystem in 2025 offers over $500K across cloud (AWS up to $100K, GCP up to $350K, Azure up to $150K), AI tools (ElevenLabs, PostHog, Cloudflare), ops (Notion, Linear), and GTM (HubSpot 90% off year one, Intercom, Zendesk). Founders who map these programs and stack them strategically can turn a shaky 12-month runway into an 18-24 month window.
 

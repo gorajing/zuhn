@@ -56,9 +56,9 @@ stance: >-
 related:
   - INS-260321-2482
   - INS-260403-CD68
+  - PRI-260406-6122
   - INS-260323-AB5F
   - INS-260325-73C0
-  - INS-260330-2E1E
 ---
 Smith highlights a critical mechanism: even when US policy nominally supports the Electric Tech Stack, execution failures neutralize the intent. The Biden administration promised vast EV charging networks but built almost none, because the initiative was loaded with unrelated contracting requirements. Solar deployment is blocked by local NIMBYs and environmental permitting laws. This creates a double bind — anti-EV administrations actively oppose the technology, while pro-EV administrations can't execute because of structural governance dysfunction.
 

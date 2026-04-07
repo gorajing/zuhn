@@ -51,11 +51,11 @@ stance: >-
   than equity rounds, making it the most ownership-efficient growth capital
   available to VC-backed startups.
 related:
-  - INS-260403-A057
   - INS-260403-18E0
+  - PRI-260406-B702
   - INS-260404-B0BF
-  - INS-260403-CF7C
-  - PRI-260405-E9C5
+  - PRI-260406-53BC
+  - PRI-260406-3317
 ---
 The core economic trade-off of venture debt is paying interest (9-14% floating rate) plus small warrant coverage (0.5-2% equity) instead of selling 15-25% of the company in a priced round. For a startup that can reliably service the debt, this math is overwhelmingly favorable. A company raising $5M in venture debt at 1% warrant coverage gives up roughly 10-20x less equity than raising the same amount through a Series A.
 

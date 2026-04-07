@@ -47,11 +47,11 @@ resolutions:
     universe may be because deeper geometry refuses to let meaning fully
     dissolve.
 related:
+  - PRI-260406-FA5B
   - INS-260323-B47B
   - PRI-260403-9E80
   - INS-260327-47E9
   - INS-260329-71AB
-  - INS-260403-280B
 stance: >-
   The E8 lattice (8D) and leech lattice (24D) are used in real-world
   error-correcting codes because certain dimensions are supernaturally efficient

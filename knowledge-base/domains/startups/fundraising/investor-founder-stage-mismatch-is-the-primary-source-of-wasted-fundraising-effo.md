@@ -58,12 +58,12 @@ related:
   - INS-260327-7E3D
   - INS-260327-D2A6
   - INS-260328-7CA9
-  - INS-260330-B6FA
-  - PRI-260403-26B9
   - INS-260405-7F42
   - INS-260403-8ABF
-  - INS-260403-882A
+  - PRI-260403-26B9
   - PRI-260405-2A11
+  - INS-260405-092A
+  - PRI-260406-2E0D
 ---
 The guide's central thesis is that the hardest part of fundraising isn't pitching—it's knowing who to pitch. Angels write $25K-$500K checks and tolerate pre-traction risk; VCs deploy $500K-$100M+ but demand scalability metrics; accelerators provide $50K-$500K with mentorship; crowdfunding requires marketing muscle rather than investor relationships.
 

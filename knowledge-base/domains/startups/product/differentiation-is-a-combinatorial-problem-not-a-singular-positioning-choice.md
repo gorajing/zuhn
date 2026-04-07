@@ -46,10 +46,10 @@ stance: >-
   proposition.
 related:
   - INS-260329-196E
+  - PRI-260406-9866
   - INS-260330-B539
   - INS-260330-849D
   - INS-260405-28DF
-  - INS-260405-670E
 ---
 Traditional positioning advice tells founders to find their one differentiator. But Lenny's framework reveals that differentiation is combinatorial — the most successful companies layer multiple dimensions. This reframes the product strategy exercise: instead of asking 'what makes us unique?' ask 'which 3-4 of these 20 axes can we credibly own together?'
 

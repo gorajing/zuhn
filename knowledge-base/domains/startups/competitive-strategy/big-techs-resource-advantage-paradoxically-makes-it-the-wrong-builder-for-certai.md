@@ -50,9 +50,9 @@ stance: >-
 related:
   - INS-260403-EEDB
   - INS-260405-BE58
+  - PRI-260406-CBC2
+  - PRI-260406-A7EC
   - INS-260405-9C70
-  - INS-260326-291C
-  - INS-260403-B2EB
 ---
 Despite having enormous engineering talent, data, and capital, Big Tech companies consistently miss innovation opportunities that startups capture. This isn't accidental—it's structural. Large companies optimize for protecting existing revenue streams, face internal politics that kill unconventional ideas, and struggle with the speed and risk tolerance that breakthrough innovation requires.
 

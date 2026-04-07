@@ -45,10 +45,10 @@ stance: >-
   investors toward earlier-stage bets where entry valuations are low enough to
   generate the necessary multiples.
 related:
+  - PRI-260406-CA93
   - INS-260404-80F3
   - INS-260403-7C02
   - INS-260327-9BE8
   - INS-260329-FCE6
-  - INS-260402-3D34
 ---
 If a currency depreciates 50-90% over a fund's life (as seen with Argentine peso, Nigerian naira, and Pakistani rupee), returns denominated in local currency must be proportionally higher to deliver attractive USD returns. Later-stage investments with higher entry valuations simply cannot generate the multiples needed. This creates a structural advantage for early-stage EM investors: by entering at seed or pre-seed valuations, they can target 50-100x returns where even after a 80% currency haircut, the net USD return remains compelling. This also explains why EM VC is harder — it requires both the skill to pick winners extremely early and the operational capacity to support companies through volatile macro environments.

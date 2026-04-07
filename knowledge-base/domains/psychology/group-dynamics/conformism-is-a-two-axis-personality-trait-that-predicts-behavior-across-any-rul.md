@@ -47,10 +47,10 @@ stance: >-
   axes is more a function of their personality than the specific beliefs or
   rules of their society.
 related:
+  - PRI-260406-99B2
   - INS-260329-66C7
+  - PRI-260406-69FC
   - INS-260325-F707
   - INS-260330-B869
-  - PRI-260323-0F93
-  - INS-260404-94EB
 ---
 Paul Graham proposes that people can be classified by two independent dimensions: how conventional or independent their thinking is, and how passively or aggressively they act on that orientation. This produces four types visible even in young children: tattletales (aggressively conventional), sheep (passively conventional), dreamers (passively independent), and the naughty ones (aggressively independent). The key claim is that which quadrant you occupy depends more on your personality than on the specific rules of your society — the same person who enforces orthodoxy today would have enforced a completely different orthodoxy in a different era. This framework is useful for predicting how people will behave when norms shift: don't ask what someone believes, ask how they relate to whatever the dominant belief system happens to be.

@@ -50,14 +50,15 @@ resolutions:
     transcripts of actual customer conversations, not replacing those
     conversations.
 related:
+  - PRI-260406-874A
   - INS-260403-E816
   - INS-260330-2C79
   - INS-260327-89C7
   - INS-260330-0BBA
-  - INS-260403-CF92
   - INS-260323-A7F6
   - INS-260404-1773
   - INS-260403-07FB
+  - INS-260403-CF92
   - INS-260403-96D7
 stance: >-
   Founders who ask AI what customers want instead of talking to actual customers

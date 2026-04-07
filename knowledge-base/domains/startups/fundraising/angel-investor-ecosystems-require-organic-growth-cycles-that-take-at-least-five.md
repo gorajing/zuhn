@@ -52,10 +52,10 @@ stance: >-
   after getting rich, creating an irreducible five-year minimum cycle time.
 related:
   - INS-260402-6BB6
+  - PRI-260406-B2E5
   - PRI-260405-E9C5
   - INS-260404-06B9
   - PRI-260403-26B9
-  - INS-260403-D870
   - INS-260403-298E
   - INS-260403-028F
   - INS-260403-E9C6

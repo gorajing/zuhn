@@ -55,8 +55,8 @@ related:
   - INS-260403-2B50
   - INS-260404-25FF
   - INS-260403-EA28
+  - PRI-260406-BC09
   - PRI-260323-7B35
-  - INS-260403-EB97
 ---
 Every major accounting manipulation described in the article has a balance sheet footprint. Capitalized commissions show up as assets that grow disproportionately to revenue. Internal-use software capitalization inflates intangible assets. Aggressive cash management shows up as accounts payable ballooning. A company celebrating a great burn multiple while accounts payable increased 5x is simply shifting costs between periods, not becoming more efficient.
 

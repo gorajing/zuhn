@@ -42,11 +42,10 @@ stance: >-
   Replacing vague enthusiasm statements with concrete metrics and examples is
   the single highest-leverage change in cold outreach effectiveness
 related:
-  - INS-260327-0826
-  - INS-260327-E3CA
   - INS-260329-DAC4
   - INS-260404-F26B
   - INS-260404-B0DC
   - INS-260403-22FE
+  - INS-260327-E3CA
 ---
 Statements like 'we're passionate about revolutionizing our industry' fail because they are unfalsifiable — every founder says them, so they carry zero information. In contrast, specific claims ('40% MoM growth over 6 months' or 'serving 200 enterprise customers') are falsifiable and therefore credible. This maps to a deeper persuasion principle: trust scales with the falsifiability of your claims. The more specific and verifiable your statements, the more an investor trusts your judgment, because you're implicitly inviting scrutiny rather than hiding behind abstraction.

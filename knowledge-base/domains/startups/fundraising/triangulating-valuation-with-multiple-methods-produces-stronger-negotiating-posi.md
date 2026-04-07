@@ -49,11 +49,11 @@ stance: >-
   demonstrates analytical rigor and reduces investor ability to cherry-pick the
   lowest estimate.
 related:
+  - PRI-260406-CA93
   - INS-260404-25FF
   - INS-260404-DFE5
   - INS-260403-7C02
   - INS-260404-0EB2
-  - INS-260402-CCC3
 ---
 Investors use different valuation methods depending on stage and context, and no single method captures the full picture. A pre-seed founder might blend Berkus (progress-based), Scorecard (market-relative), and Risk Factor Summation (risk-adjusted) to triangulate a range. A Series A company might use Comparable Transactions, light DCF, and the VC Method.
 

@@ -48,14 +48,14 @@ stance: >-
   appears trivially small and expand laterally, not to articulate a grand vision
   and execute against it.
 related:
-  - INS-260322-8F3F
   - INS-260322-229C
   - INS-260327-432E
   - INS-260330-D99D
+  - PRI-260406-B87C
   - INS-260403-7D5B
   - INS-260403-924B
+  - PRI-260406-4CF9
   - INS-260402-9EBD
-  - INS-260403-BCB1
   - INS-260403-2FC3
   - INS-260405-9FD9
 evidence:

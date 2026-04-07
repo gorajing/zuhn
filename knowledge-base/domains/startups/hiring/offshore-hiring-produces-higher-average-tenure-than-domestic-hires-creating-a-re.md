@@ -50,7 +50,6 @@ stance: >-
   reducing burnout on local teams through offshore augmentation further improves
   domestic retention.
 related:
-  - INS-260328-2854
   - INS-260327-2627
   - INS-260403-7D11
   - INS-260329-6204

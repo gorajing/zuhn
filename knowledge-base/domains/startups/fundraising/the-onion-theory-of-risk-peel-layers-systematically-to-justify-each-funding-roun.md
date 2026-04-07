@@ -55,11 +55,11 @@ stance: >-
   amounts to risk-removal stages raise money more effectively than those who
   raise as much as possible
 related:
+  - PRI-260406-B9A3
   - INS-260404-64EC
   - INS-260403-FAFA
+  - PRI-260406-7ED0
   - INS-260405-F20D
-  - INS-260405-0D9A
-  - INS-260403-70B9
   - INS-260403-B9E6
   - INS-260403-32E9
 evidence:

@@ -50,11 +50,10 @@ stance: >-
   participants have incorporated positions into their identity
 related:
   - INS-260404-89C3
+  - PRI-260406-B9C9
   - INS-260404-D94D
+  - PRI-260406-6762
   - INS-260403-A408
-  - INS-260323-DE7F
-  - INS-260404-B6CC
-  - INS-260404-7C3F
 evidence:
   - id: INS-260323-DE7F
     type: EXTENDS

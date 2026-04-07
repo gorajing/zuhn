@@ -55,13 +55,13 @@ related:
   - INS-260323-4DD9
   - INS-260327-DD5C
   - INS-260327-EC45
-  - INS-260327-89C7
   - INS-260329-78CB
   - INS-260330-8890
   - INS-260330-49A4
   - INS-260403-F745
   - INS-260403-0196
   - INS-260404-BAED
+  - INS-260403-A54C
 ---
 The framework's Level 1 definition is deliberately narrow: find 3-5 customers with a real problem, engage with them deeply, deliver a solution, and validate it works. This contrasts with the common founder mistake of seeking broad market validation through landing pages, waitlists, or surveys before deeply understanding even a handful of customers.
 

@@ -56,12 +56,11 @@ stance: >-
 related:
   - PRI-260328-70D9
   - INS-260327-F6BA
+  - PRI-260406-5BD0
   - INS-260321-AA91
   - INS-260327-82AA
-  - INS-260403-5D89
   - INS-260327-B6D6
   - INS-260328-F3C4
-  - INS-260330-1FED
   - INS-260330-106F
 ---
 Burger King's story contrasts sharply with Taco Bell's approach, both covered in Modern MBA episodes. Burger King discounted the Whopper so frequently that the product lost all perceived value -- customers would never pay full price because they knew a deal was always coming. McDonald's did the same with Big Mac promotions. Both chains destroyed their own pricing power.

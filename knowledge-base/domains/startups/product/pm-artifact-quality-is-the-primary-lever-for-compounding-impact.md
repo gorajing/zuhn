@@ -48,8 +48,8 @@ related:
   - INS-260404-7F34
   - INS-260325-2AA0
   - INS-260403-6428
+  - PRI-260406-E3D0
   - INS-260403-6EE7
-  - INS-260323-2FC3
 ---
 Dhiman frames PM artifacts—PRDs, product notes, design briefs—as the core output through which product managers demonstrate proficiency and create leverage. These documents are not bureaucratic overhead; they are the PM's primary tool for multiplying team effectiveness.
 

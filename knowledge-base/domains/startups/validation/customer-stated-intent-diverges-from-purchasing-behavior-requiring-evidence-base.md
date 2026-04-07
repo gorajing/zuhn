@@ -48,11 +48,11 @@ stance: >-
   purchasing behavior
 related:
   - INS-260403-2824
-  - INS-260403-C737
   - PRI-260405-D586
+  - INS-260403-C737
   - INS-260403-D4F0
   - INS-260403-359D
-  - INS-260403-3739
+  - PRI-260406-07C2
 evidence:
   - id: INS-260403-359D
     type: SUPPORTS

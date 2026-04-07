@@ -55,9 +55,9 @@ stance: >-
 related:
   - INS-260327-390A
   - INS-260403-A99F
+  - PRI-260406-DC9B
   - INS-260402-7182
   - PRI-260328-0C51
-  - INS-260405-7B7C
 ---
 When remote work forced transparency about actual productivity, two revelations emerged: some people's entire roles evaporated without physical meetings, and others discovered they could complete their 'full-time' work in three hours. This is a leading indicator for AI displacement — roles that couldn't survive the loss of physical presence are even more vulnerable to AI automation, because they were never about the work itself but about the social performance of working.
 

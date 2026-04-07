@@ -54,7 +54,6 @@ related:
   - INS-260327-A75C
   - INS-260403-E8E3
   - INS-260404-CB21
-  - INS-260403-C17B
   - INS-260405-9015
 stance: >-
   El-Kurd's campaign succeeded globally because it finally matched visual

@@ -54,11 +54,11 @@ stance: >-
   decision-makers cannot distinguish complexity-as-competence from
   complexity-as-waste
 related:
+  - PRI-260406-F3B6
   - PRI-260328-5D9E
   - INS-260325-BF84
+  - PRI-260406-BD4D
   - INS-260330-D3F5
-  - PRI-260323-F193
-  - INS-260323-6134
 evidence:
   - id: INS-260323-6134
     type: CONTRADICTS

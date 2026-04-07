@@ -53,14 +53,13 @@ stance: >-
 related:
   - INS-260327-D2A6
   - INS-260405-3238
-  - INS-260403-B02A
   - INS-260405-67F2
   - INS-260403-9867
   - INS-260405-1EFD
   - INS-260404-E9F2
   - INS-260404-1DDB
   - INS-260405-CB93
-  - INS-260403-D730
+  - PRI-260406-E880
 ---
 Early-stage VCs are primarily making a bet on the founding team and the thesis — do these people have the insight and capability to figure out a large market? Commercial traction is thin or nonexistent, so asking investors to evaluate it heavily would be premature. The pitch should lead with concept clarity, market size, team credibility, and why now.
 

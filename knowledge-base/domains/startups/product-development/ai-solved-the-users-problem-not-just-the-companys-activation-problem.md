@@ -51,11 +51,11 @@ stance: >-
   engagement.
 related:
   - INS-260323-8896
+  - PRI-260406-806C
   - PRI-260328-FBB3
   - INS-260329-9A42
   - INS-260330-3A3E
   - INS-260402-3D00
-  - INS-260405-4AAD
 ---
 Gamma spent two years pre-AI with middling traction because 95% of users dropped off at the blank page. They initially saw AI as solving their activation metric problem by filling the blank page. But the deeper insight was that AI didn't just help users get started with Gamma; it solved the universal problem that makes presentations intimidating: the daunting process of outlining, structuring, designing, and formatting from scratch.
 

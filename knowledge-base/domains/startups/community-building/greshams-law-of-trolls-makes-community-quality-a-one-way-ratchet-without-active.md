@@ -50,7 +50,7 @@ related:
   - INS-260404-78E6
   - INS-260403-BA48
   - INS-260402-C49E
-  - INS-260403-22EE
+  - PRI-260406-AA07
 evidence:
   - id: INS-260322-F65F
     type: SUPPORTS

@@ -51,11 +51,11 @@ related:
   - INS-260330-488B
   - INS-260403-3106
   - INS-260404-5CD3
+  - PRI-260406-7FE4
   - PRI-260328-0993
   - INS-260403-183D
   - INS-260403-9CC1
   - INS-260325-FADB
-  - INS-260405-B4D0
 ---
 When a milestone goes from 1 company to 35 companies, it stops being lightning-in-a-bottle and starts being a category with identifiable characteristics. The $1B ARR club reaching 35 members means there's now enough data to study what these companies have in common: go-to-market motions, pricing architecture, retention benchmarks, expansion revenue mechanisms, and category creation strategies.
 

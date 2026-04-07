@@ -54,8 +54,8 @@ related:
   - INS-260402-FFB2
   - INS-260404-A520
   - PRI-260403-2B12
+  - PRI-260406-0ACE
   - PRI-260405-6216
-  - INS-260405-28DF
 ---
 Price-based competition is listed as one of the biggest GTM mistakes because it reveals a fundamental strategic vacuum. If the only reason a customer would choose you is that you're slightly cheaper, you haven't identified a unique strength to play on or a competitor weakness to exploit. You've outsourced your positioning to their pricing decisions.
 

@@ -50,16 +50,14 @@ stance: >-
   audience—forces precision that passive study never achieves, making the
   Feynman technique one of the most efficient learning accelerators.
 related:
-  - INS-260323-6BF4
-  - INS-260329-F9CD
   - INS-260330-3D7B
-  - INS-260330-026B
+  - PRI-260406-122A
+  - PRI-260406-DB86
   - INS-260403-C135
   - INS-260403-E2FB
   - INS-260403-FFF0
-  - PRI-260403-88F5
-  - INS-260330-8901
   - INS-260402-F3D7
+  - INS-260403-9681
 evidence:
   - id: INS-260403-9681
     type: TRANSFERS_TO

@@ -51,10 +51,10 @@ stance: >-
   predict.
 related:
   - INS-260325-DAD7
+  - PRI-260406-9DD4
   - INS-260320-EF3A
   - INS-260403-8176
   - INS-260325-73C0
-  - INS-260403-88AF
 evidence:
   - id: INS-260325-DAD7
     type: SUPPORTS

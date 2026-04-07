@@ -57,7 +57,7 @@ related:
   - INS-260403-544B
   - INS-260403-448C
   - INS-260403-9863
-  - PRI-260328-0993
+  - PRI-260406-58FA
 ---
 The article demonstrates that a startup assuming 2% churn when actual churn is 5% can miss its $100k MRR target by $30k over 12 months. Similarly, modeling at $150 ARPU when reality is $95 inflates CAC payback ratios and delays fundraising timelines. These aren't edge cases — they're the norm for early-stage SaaS companies that haven't instrumented their metrics rigorously.
 

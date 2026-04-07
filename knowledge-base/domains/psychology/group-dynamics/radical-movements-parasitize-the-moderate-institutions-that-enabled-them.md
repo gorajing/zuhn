@@ -52,7 +52,6 @@ stance: >-
   liberal infrastructure it inherited — libraries, transit, parks, public safety
   — until those systems collapse under demands they weren't designed to bear.
 related:
-  - INS-260330-BE78
   - INS-260330-BBDA
   - PRI-260328-E1CE
   - INS-260403-0661

@@ -52,11 +52,11 @@ stance: >-
   sourcing and evaluation will outperform those relying on traditional
   relationship-based deal flow.
 related:
+  - PRI-260406-F21A
+  - PRI-260406-710D
   - INS-260403-5056
   - PRI-260328-5CDE
   - INS-260405-C88A
-  - INS-260403-64F4
-  - PRI-260403-5DEA
 ---
 A survey of nearly 300 private-capital professionals reveals that firms are doubling down on data consolidation and AI to sharpen sourcing and evaluation capabilities. As fundraising conditions improve, managers emphasize efficiency and demonstrable value creation to differentiate themselves from competitors.
 

@@ -57,9 +57,9 @@ stance: >-
 related:
   - PRI-260403-C337
   - INS-260404-1ADA
+  - PRI-260406-2546
   - INS-260404-21E6
   - INS-260321-FD14
-  - INS-260403-FF57
 ---
 Figure Markets' Democratized Prime illustrates that the hardest part of bringing real-world assets on-chain isn't the technology — it's the regulatory scaffolding. They hold lending licenses in 40+ US states, have an SEC-registered stablecoin (YLDS), and have originated $16B+ in loans through 170 institutional partners. Any DeFi protocol can write smart contracts for lending pools, but almost none can legally originate consumer loans, register yield-bearing instruments with the SEC, or maintain compliance across jurisdictions.
 

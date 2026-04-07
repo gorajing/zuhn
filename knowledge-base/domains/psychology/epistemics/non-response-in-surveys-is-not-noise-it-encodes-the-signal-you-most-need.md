@@ -48,11 +48,11 @@ stance: >-
   Who refuses to answer a survey question is often more diagnostic than who
   answers it, because refusal correlates with holding the socially costly view
 related:
+  - PRI-260406-A33C
   - INS-260403-8C75
   - INS-260322-A36C
+  - PRI-260406-E3D0
   - INS-260322-AB55
-  - INS-260404-88D8
-  - INS-260403-DD95
 evidence:
   - id: INS-260322-A36C
     type: SUPPORTS

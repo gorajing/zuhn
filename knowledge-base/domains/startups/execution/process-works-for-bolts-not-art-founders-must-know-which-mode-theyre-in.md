@@ -50,7 +50,7 @@ related:
   - INS-260403-ABBB
   - INS-260327-FCCF
   - INS-260327-E2BC
-  - INS-260403-924B
+  - PRI-260406-A5F0
 evidence:
   - id: INS-260321-B85C
     type: REFINES

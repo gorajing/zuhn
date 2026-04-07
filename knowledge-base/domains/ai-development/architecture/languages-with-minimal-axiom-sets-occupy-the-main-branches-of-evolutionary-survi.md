@@ -53,10 +53,10 @@ stance: >-
   adaptable while accumulated cruft creates evolutionary dead-ends.
 related:
   - PRI-260405-F9BD
+  - PRI-260406-D02A
   - PRI-260323-0F93
+  - PRI-260406-9F3D
   - INS-260404-5CC6
-  - INS-260326-286F
-  - INS-260403-2D89
 evidence:
   - id: INS-260326-286F
     type: SUPPORTS

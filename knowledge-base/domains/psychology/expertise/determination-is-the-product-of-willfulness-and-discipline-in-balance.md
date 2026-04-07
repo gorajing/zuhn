@@ -48,10 +48,10 @@ stance: >-
   collapse regardless of raw ability.
 related:
   - PRI-260328-4313
+  - PRI-260406-69FC
   - INS-260403-14CB
   - PRI-260328-094A
   - INS-260325-537A
-  - INS-260327-439A
 ---
 Paul Graham models determination as two forces that must be balanced like fingers squeezing a melon seed — will provides the energy, discipline provides the direction. If willfulness exceeds discipline, you succumb to temptation and oscillate between brilliance and stagnation (the 'wing flutter' pattern). If discipline crushes willfulness, you become too cautious and self-critical to attempt anything ambitious.
 

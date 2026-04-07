@@ -60,10 +60,10 @@ related:
   - INS-260330-A149
   - INS-260330-86A7
   - INS-260330-0C1D
-  - INS-260330-1801
   - INS-260330-4711
   - INS-260330-601A
   - INS-260330-04F9
+  - INS-260323-72EB
 ---
 Vsauce demonstrates that on a flat disc Earth, gravity wouldn't pull uniformly 'down' — it would pull toward the center of mass, meaning at the edges you'd experience gravity at extreme angles, water would flow toward the center, and the atmosphere would thin dramatically at the periphery. None of this is obvious until you simulate it.
 

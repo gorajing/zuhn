@@ -52,7 +52,7 @@ stance: >-
   Rereading a book is not redundant but produces genuinely new learning because
   the same input compiles against a different mental state.
 related:
-  - INS-260321-2564
+  - PRI-260406-ABAA
   - INS-260330-B91E
   - INS-260327-2021
   - INS-260329-613F

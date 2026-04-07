@@ -49,7 +49,7 @@ related:
   - INS-260330-4830
   - INS-260330-137A
   - INS-260330-B6AD
-  - INS-260329-2A70
+  - PRI-260406-4B0E
 evidence:
   - id: INS-260330-4830
     type: EXTENDS

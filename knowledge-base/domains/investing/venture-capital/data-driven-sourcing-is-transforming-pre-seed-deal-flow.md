@@ -47,6 +47,6 @@ related:
   - INS-260403-9D9E
   - INS-260403-A331
   - INS-260405-6EE5
-  - INS-260327-EA4E
+  - PRI-260406-FCF0
 ---
 The traditional VC model of sourcing deals through personal networks and warm introductions is being disrupted by data-driven approaches at the pre-seed stage. VCs are now using alternative data signals — developer activity, patent filings, team formation patterns, and market signals — to identify promising founders before they even begin fundraising. This shift advantages firms that invest in data infrastructure and proprietary signal detection over those relying on brand and network effects alone. For founders, this means that building visible signals of traction and capability (open-source contributions, technical content, team pedigree) matters even before the first pitch.

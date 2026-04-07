@@ -43,11 +43,10 @@ stance: >-
   global scale because they're harder for foreign competitors to replicate
 related:
   - INS-260330-0294
-  - INS-260403-BA5D
+  - PRI-260406-9063
+  - PRI-260406-311D
   - INS-260403-DF45
   - INS-260404-1CC0
-  - INS-260330-6D2E
-  - INS-260403-7841
 evidence:
   - id: INS-260330-6D2E
     type: REFINES

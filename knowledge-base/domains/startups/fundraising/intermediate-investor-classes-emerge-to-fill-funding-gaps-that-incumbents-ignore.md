@@ -44,11 +44,10 @@ stance: >-
   market gaps attract entrepreneurial capital allocators.
 related:
   - INS-260403-298E
+  - PRI-260406-B2E5
   - INS-260403-E185
   - INS-260402-6BB6
   - INS-260402-8E29
-  - INS-260403-ECB2
-  - INS-260403-735E
 evidence:
   - id: INS-260403-E185
     type: SUPPORTS

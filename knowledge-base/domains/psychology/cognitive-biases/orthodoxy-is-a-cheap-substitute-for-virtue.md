@@ -48,10 +48,10 @@ stance: >-
   compliance costs little while conferring moral superiority over non-adherents.
 related:
   - INS-260402-A2F1
+  - PRI-260406-E48F
   - INS-260403-D609
   - INS-260327-764F
   - INS-260402-62E3
-  - INS-260403-6C38
 ---
 Graham observes that effective orthodoxy requires strict but not demanding rules — doctrinal minutiae, precise word choices, superficial compliance markers. These can be made extremely complicated without requiring actual sacrifice, so they don't repel potential converts. The key insight is about incentive alignment: orthodoxy becomes an inexpensive substitute for virtue. You can be a terrible person but as long as you're orthodox, you're positioned as morally superior to everyone who isn't.
 

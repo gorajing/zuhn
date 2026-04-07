@@ -49,6 +49,7 @@ resolutions:
     competition is the norm, not the exception.
 related:
   - INS-260323-E2DD
+  - PRI-260406-E602
   - PRI-260328-4CC0
   - INS-260323-6D41
   - PRI-260328-78A5
@@ -57,7 +58,6 @@ related:
   - INS-260330-5DD4
   - INS-260330-73F3
   - INS-260403-415E
-  - INS-260403-CD51
 stance: Chinese competitive dynamics favor rapid replication over differentiation
 evidence:
   - id: INS-260323-E2DD

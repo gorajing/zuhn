@@ -43,13 +43,11 @@ stance: >-
   Preserving intellectual innocence is strategically valuable because premature
   cynicism forecloses learning capacity that cannot be easily reopened
 related:
-  - INS-260330-6F2F
-  - INS-260330-3851
+  - PRI-260406-DB86
   - INS-260403-C135
+  - PRI-260406-1EF3
   - INS-260330-CC51
-  - PRI-260403-F981
-  - INS-260404-89C3
-  - INS-260325-1EAC
+  - PRI-260406-22D5
   - INS-260402-F772
   - INS-260405-CD42
 evidence:

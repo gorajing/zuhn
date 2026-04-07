@@ -49,9 +49,9 @@ stance: >-
 related:
   - PRI-260405-64C0
   - INS-260403-DAB1
+  - PRI-260406-05B5
   - INS-260327-1403
   - INS-260329-783C
-  - INS-260403-886D
   - INS-260403-EEAF
 evidence:
   - id: INS-260403-DAB1

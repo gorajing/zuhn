@@ -43,11 +43,11 @@ stance: >-
   Physical or digital distance from consequences is the primary driver of
   antisocial communication, not inherent malice
 related:
+  - PRI-260406-AA07
   - INS-260403-500F
   - INS-260327-E75F
   - INS-260323-40AA
   - INS-260322-4B63
-  - INS-260323-0603
 evidence:
   - id: INS-260327-E75F
     type: CHALLENGES

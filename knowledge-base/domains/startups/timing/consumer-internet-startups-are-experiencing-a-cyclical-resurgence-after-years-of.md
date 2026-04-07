@@ -48,7 +48,6 @@ stance: >-
   previous cycles that produced companies like Uber, TikTok, and ChatGPT, making
   B2C viable again for venture investment.
 related:
-  - INS-260322-CFB1
   - INS-260322-3E59
   - INS-260403-CA1E
   - INS-260403-924B

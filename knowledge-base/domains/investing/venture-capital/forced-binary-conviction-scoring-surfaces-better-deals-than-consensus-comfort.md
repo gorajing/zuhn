@@ -48,9 +48,9 @@ stance: >-
 related:
   - INS-260329-27DF
   - INS-260403-8450
+  - PRI-260406-C6C3
+  - PRI-260406-8987
   - INS-260327-1B7C
-  - INS-260405-FFCE
-  - INS-260403-C622
 ---
 Sequoia tracked partner votes for over a decade and discovered a consistent pattern: investments that received lukewarm consensus approval underperformed investments that generated strong conviction from some partners, even when others disagreed. Their solution was to remove the middle option entirely — no five-out-of-ten votes allowed.
 

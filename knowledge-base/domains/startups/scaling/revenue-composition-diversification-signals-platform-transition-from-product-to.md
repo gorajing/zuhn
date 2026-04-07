@@ -56,9 +56,9 @@ related:
   - INS-260404-7E24
   - INS-260403-C164
   - PRI-260405-D6F5
+  - PRI-260406-710D
   - PRI-260328-43F1
   - INS-260404-EC16
-  - INS-260403-8BA4
 ---
 Airwallex's revenue composition reveals a deliberate platform strategy: business banking (34%), payments (30%), spend management (20%), and infrastructure licensing. Each segment individually competes with focused players — Mercury in banking, Stripe in payments, Ramp in spend management — but the combination creates a unified financial stack that no single competitor replicates.
 

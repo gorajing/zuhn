@@ -51,11 +51,11 @@ stance: >-
   intensive session because they force concrete commitments rather than abstract
   discussion.
 related:
-  - INS-260323-DC99
   - INS-260330-3585
   - INS-260404-CF81
   - INS-260405-2299
-  - INS-260322-C935
+  - PRI-260406-A6A2
+  - INS-260323-DC99
 ---
 Geneva University Hospital needed to transform 1,900 beds and 11,000+ employees into a COVID-19 center with days of runway. Using the Team Alignment Map — a visual tool that forces teams to identify objectives, translate them into joint commitments, and confirm resources — the operations department planned the transformation in a single intensive day.
 

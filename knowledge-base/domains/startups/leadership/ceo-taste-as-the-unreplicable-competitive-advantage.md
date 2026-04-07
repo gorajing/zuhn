@@ -48,7 +48,6 @@ stance: >-
   cannot be delegated or replicated, because most CEOs choosing 'by committee'
   are effectively choosing at random.
 related:
-  - INS-260330-1319
   - INS-260403-DE28
   - PRI-260328-AC85
   - INS-260327-7F6A

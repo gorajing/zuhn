@@ -53,8 +53,9 @@ related:
   - INS-260327-500C
   - INS-260404-226F
   - PRI-260405-0AC6
+  - PRI-260406-9780
+  - PRI-260406-CBAC
   - INS-260403-49D1
-  - INS-260403-D6C2
 ---
 Stripe's origin story illustrates this principle clearly: they didn't set out to build the best payment infrastructure. They identified a specific frustration — developers struggling with online payments — and built the simplest possible solution first. The anti-patterns are over-engineering complex tech nobody asked for, adding unnecessary features, making adoption difficult, and spending months refining a product nobody wants.
 

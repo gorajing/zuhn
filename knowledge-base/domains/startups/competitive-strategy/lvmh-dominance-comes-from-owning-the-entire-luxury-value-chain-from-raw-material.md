@@ -43,8 +43,8 @@ related:
   - INS-260327-6A4B
   - PRI-260328-DF2D
   - INS-260404-7A5B
+  - PRI-260406-466E
   - INS-260403-0414
-  - INS-260329-C0F1
 ---
 LVMHs competitive advantage is vertical integration across the luxury value chain: they own materials suppliers, manufacturing, brands, and retail distribution, capturing margin at every stage.
 

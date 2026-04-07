@@ -51,12 +51,11 @@ stance: >-
   obvious in retrospect, with the real barrier being execution rather than
   ideation
 related:
-  - INS-260325-FBE5
   - INS-260322-019A
-  - INS-260327-FC6F
   - INS-260323-7B63
   - INS-260404-397F
-  - INS-260403-11F9
+  - PRI-260406-AC52
+  - PRI-260406-28E1
 evidence:
   - id: INS-260323-4EE4
     type: SUPPORTS

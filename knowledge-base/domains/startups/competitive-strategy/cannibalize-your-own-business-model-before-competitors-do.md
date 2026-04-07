@@ -43,8 +43,6 @@ stance: >-
   at the cost of short-term revenue — will survive, while those that protect
   legacy models will be displaced.
 related:
-  - INS-260327-A22D
-  - INS-260404-D149
   - INS-260403-693C
   - INS-260330-06CD
   - INS-260405-D959

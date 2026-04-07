@@ -46,7 +46,6 @@ related:
   - PRI-260405-6216
   - INS-260403-FE00
   - INS-260322-0E41
-  - INS-260404-FFC4
 evidence:
   - id: INS-260321-21BE
     type: SUPPORTS

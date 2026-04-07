@@ -44,7 +44,7 @@ related:
   - INS-260403-C05F
   - INS-260403-E172
   - INS-260405-34F1
-  - INS-260403-0372
-  - INS-260403-FAD8
+  - PRI-260406-A7EC
+  - PRI-260406-6122
 ---
 Most organizations can point to one or two innovation initiatives at any given time, but this is qualitatively different from an innovation ecosystem. The former is episodic and dependent on specific champions; the latter is structural and self-sustaining. The shift from projects to ecosystem is the real leadership challenge post-Covid, because crises expose how fragile project-based innovation is when resources and attention contract. Building an ecosystem means embedding processes, incentives, and tooling that produce innovation as a repeatable output rather than a heroic exception.

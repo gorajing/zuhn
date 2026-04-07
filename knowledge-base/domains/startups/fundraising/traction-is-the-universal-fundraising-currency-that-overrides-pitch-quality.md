@@ -55,15 +55,14 @@ stance: >-
   storytelling, and personal charisma.
 related:
   - INS-260325-3E9F
-  - INS-260330-08FA
   - INS-260403-9EB1
   - INS-260403-1CC6
-  - INS-260403-2724
   - INS-260403-3A67
   - INS-260402-3F8D
-  - INS-260405-1982
-  - INS-260403-44C4
   - INS-260405-2A34
+  - INS-260404-569C
+  - PRI-260406-2E0D
+  - INS-260403-44C4
 ---
 Across every investor type and outreach method described, the guide repeatedly returns to traction as the decisive variable. VCs want 'early growth metrics,' the cold email template leads with a traction data point, the pitch deck checklist prioritizes traction over problem/solution, and the closing advice states 'money follows momentum.'
 

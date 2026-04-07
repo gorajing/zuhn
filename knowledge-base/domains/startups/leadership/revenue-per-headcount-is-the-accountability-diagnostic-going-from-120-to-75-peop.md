@@ -57,7 +57,6 @@ related:
   - INS-260327-FA43
   - INS-260329-B77F
   - INS-260403-4452
-  - INS-260403-F653
   - INS-260403-5A88
 stance: >-
   If your competitor's team member supports $400K in revenue and yours supports

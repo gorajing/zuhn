@@ -51,11 +51,11 @@ stance: >-
   the platform where code is written, which is why Linux dominates despite 4%
   desktop share.
 related:
-  - INS-260330-2CE3
   - INS-260330-ACDA
+  - PRI-260406-9D48
+  - INS-260330-2CE3
   - INS-260403-8F6E
   - INS-260330-EF74
-  - INS-260404-70DE
 evidence:
   - id: INS-260330-2CE3
     type: SUPPORTS

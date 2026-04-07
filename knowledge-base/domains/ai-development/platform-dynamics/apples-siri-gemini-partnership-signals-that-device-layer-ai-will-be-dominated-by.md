@@ -49,10 +49,10 @@ stance: >-
   cannot compete at the foundation model layer — commoditizing the device AI
   interface.
 related:
-  - INS-260322-9EC6
   - INS-260404-1755
+  - INS-260322-9EC6
   - PRI-260328-A82C
   - INS-260327-30E4
-  - INS-260327-F316
+  - PRI-260406-08E9
 ---
 Apple entered a multiyear deal reportedly worth ~$1B/year to use Google Gemini models to power Siri upgrades. Apple's strategy is to run inference on-device and via Private Cloud Compute to preserve its privacy brand, but it is conceding the base model capability layer to Google. This is a significant strategic signal: if Apple — with its hardware integration, custom silicon, and vast resources — cannot build a competitive foundation model, the foundation model layer is becoming a duopoly (OpenAI/Google) that device and application companies must license from. The long-run implication is that platform power concentrates at the model layer, not the device or OS layer, reversing decades of Apple's competitive architecture.

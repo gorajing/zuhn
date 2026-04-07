@@ -52,7 +52,6 @@ related:
   - INS-260403-B280
   - INS-260329-C45C
   - INS-260403-AB5C
-  - INS-260403-DC52
   - INS-260403-F8FB
 evidence:
   - id: INS-260327-9638

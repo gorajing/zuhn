@@ -51,9 +51,9 @@ related:
   - INS-260403-E36A
   - PRI-260403-E097
   - INS-260403-C1FB
+  - PRI-260406-E431
   - INS-260404-2250
   - INS-260330-9C48
-  - INS-260323-5B36
 ---
 ACX runs the 'Meetups Everywhere' campaign twice yearly specifically because 'lots of people are vaguely interested but don't try them out until I make a big deal about it on the blog.' This is an explicit acknowledgment that latent demand exists but activation energy prevents conversion. The forcing function — a time-bounded, high-visibility campaign with social proof — bridges that gap.
 

@@ -54,10 +54,10 @@ stance: >-
 related:
   - INS-260330-5828
   - INS-260330-24DD
+  - PRI-260406-5D76
   - INS-260330-3748
   - INS-260325-216D
   - PRI-260325-2DE6
-  - INS-260326-24E6
 ---
 Harris frames the core challenge of high-dose psychedelics as a binary between surrender and resistance. He describes how recoiling from the 'beatific vision' is experienced as being cast into hell, while surrender reveals consciousness as intrinsically free and imperturbable. The emotional ballast of gratitude and love during the launch phase appeared to set the trajectory for the entire experience.
 

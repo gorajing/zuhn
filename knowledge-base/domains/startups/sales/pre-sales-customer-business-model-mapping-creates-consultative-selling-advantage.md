@@ -49,7 +49,6 @@ stance: >-
   consistently develop more relevant value propositions than those who lead with
   their own product features.
 related:
-  - INS-260323-4473
   - INS-260325-F451
   - INS-260327-DD0F
   - INS-260327-BEB1
@@ -59,6 +58,7 @@ related:
   - INS-260327-07C9
   - INS-260329-4B45
   - INS-260403-754F
+  - PRI-260406-40ED
 evidence:
   - id: INS-260322-E4D8
     type: TRANSFERS_TO

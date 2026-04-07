@@ -52,11 +52,11 @@ stance: >-
   impossible to accurately interpret ambiguous situations, because the emotion
   itself feels like proof
 related:
+  - PRI-260406-5ECB
   - INS-260330-F20D
   - INS-260322-AB55
-  - INS-260330-6D86
-  - INS-260323-4D5E
-  - INS-260404-0348
+  - PRI-260406-0109
+  - PRI-260406-C1EF
   - INS-260403-3E46
 evidence:
   - id: INS-260322-AB55

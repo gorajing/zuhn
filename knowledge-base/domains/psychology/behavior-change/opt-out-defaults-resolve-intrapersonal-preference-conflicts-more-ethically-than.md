@@ -50,9 +50,9 @@ stance: >-
   systems
 related:
   - INS-260403-0661
+  - PRI-260406-03D1
+  - PRI-260406-90C7
   - INS-260330-4045
   - INS-260323-59FE
-  - PRI-260325-262C
-  - INS-260330-A812
 ---
 When people have genuinely time-inconsistent preferences — wanting to be generous in the abstract but resisting in the moment — pure voluntarism systematically under-delivers on what most people actually want. But mandating participation risks the slippery slope toward prohibition-style enforced virtue. An opt-out default (e.g., a tax form checkbox to cancel your foreign aid contribution) threads this needle: it enlists the power of inertia to support the long-term preference while preserving genuine autonomy for dissenters. The predicted result — only 10-40% opting out — would match poll numbers of actual opposition, suggesting the remaining participation reflects authentic preference rather than coercion. This framework generalizes beyond charity to any domain where default settings can align with people's reflective preferences without removing choice.

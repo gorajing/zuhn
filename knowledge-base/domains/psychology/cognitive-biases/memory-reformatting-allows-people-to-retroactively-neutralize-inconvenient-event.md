@@ -52,10 +52,10 @@ stance: >-
   new information, purely through motivated reasoning.
 related:
   - INS-260325-A326
+  - PRI-260406-CF83
   - INS-260404-1678
   - INS-260330-7A80
   - INS-260404-B6B1
-  - INS-260403-4102
   - INS-260402-A558
 evidence:
   - id: INS-260325-A326

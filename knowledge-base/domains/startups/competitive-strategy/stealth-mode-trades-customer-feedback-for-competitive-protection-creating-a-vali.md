@@ -58,7 +58,7 @@ related:
   - INS-260403-82CC
   - INS-260403-5441
   - INS-260404-0427
-  - INS-260404-8A02
+  - PRI-260406-598F
 ---
 Stealth mode creates an inherent tension: the secrecy that protects against competitors also blocks the customer feedback loop that validates product-market fit. The article acknowledges startups risk 'developing products that miss the mark' without feedback, but frames this as a manageable tradeoff rather than the existential risk it often is.
 

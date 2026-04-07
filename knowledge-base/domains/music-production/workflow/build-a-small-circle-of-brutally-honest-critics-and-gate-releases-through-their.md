@@ -44,11 +44,11 @@ resolutions:
     matters but quality matters more. The honest feedback loop is what
     calibrates your taste faster than solo iteration ever could.
 related:
+  - PRI-260406-D7EA
   - INS-260404-4985
   - INS-260322-AB55
   - INS-260326-C692
   - INS-260404-8031
-  - INS-260404-C29F
   - INS-260405-3E73
 stance: >-
   Find 2-3 peers at a similar skill level who will give brutally honest

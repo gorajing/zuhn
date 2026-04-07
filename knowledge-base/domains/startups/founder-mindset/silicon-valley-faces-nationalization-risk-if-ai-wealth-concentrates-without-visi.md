@@ -55,8 +55,8 @@ related:
   - INS-260323-A183
   - INS-260403-C314
   - INS-260327-3A81
+  - PRI-260406-6DBE
   - INS-260402-5FE1
-  - INS-260404-A15B
   - INS-260403-C4C5
 stance: >-
   If 50 unlikable people hold all the wealth while white-collar workers lose

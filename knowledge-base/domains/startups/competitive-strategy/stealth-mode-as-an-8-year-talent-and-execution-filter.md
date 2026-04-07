@@ -52,12 +52,11 @@ stance: >-
   until the moat is already dug
 related:
   - INS-260330-C6A2
-  - INS-260330-8E95
   - INS-260403-6178
   - INS-260404-7ED7
+  - PRI-260406-598F
   - INS-260403-BE93
   - INS-260403-B557
-  - PRI-260325-3F50
 ---
 Travis Kalanick ran City Storage Systems (now Adams) in stealth for eight years — thousands of employees, 30 countries, no LinkedIn mentions, locations described by cross streets only. This forced every recruiter to excel at outbound without brand pull, every salesperson to earn meetings cold, and every hire to join despite the silence.
 

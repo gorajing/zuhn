@@ -45,7 +45,6 @@ stance: >-
   just astronomically unlikely at macroscopic scales
 related:
   - INS-260323-8897
-  - INS-260323-9772
   - INS-260323-6C6F
   - PRI-260405-9504
   - INS-260323-0780

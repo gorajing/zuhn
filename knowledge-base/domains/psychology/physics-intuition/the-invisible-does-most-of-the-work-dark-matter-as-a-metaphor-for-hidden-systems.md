@@ -47,11 +47,11 @@ resolutions:
     dynamics — team morale, technical debt, cultural norms — that drive outcomes
     far more than visible metrics suggest.
 related:
-  - INS-260323-1F27
   - INS-260325-E5EB
   - PRI-260325-F9E1
   - INS-260330-BE0A
   - INS-260330-8429
+  - PRI-260406-603C
   - INS-260325-23E0
   - INS-260330-2EC4
   - INS-260403-6AD0

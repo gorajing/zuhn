@@ -52,9 +52,9 @@ stance: >-
 related:
   - INS-260403-F447
   - INS-260403-03CC
+  - PRI-260406-FC94
   - INS-260404-2250
   - INS-260403-888C
-  - INS-260403-1823
 ---
 A Harvard study revealed a consistent framing asymmetry in VC pitch meetings: male founders receive promotion-oriented questions ('How big can this get?') while female founders receive prevention-oriented questions ('What if it doesn't work?'). Same business, same metrics, but fundamentally different conversational frames that shape funding outcomes over time.
 

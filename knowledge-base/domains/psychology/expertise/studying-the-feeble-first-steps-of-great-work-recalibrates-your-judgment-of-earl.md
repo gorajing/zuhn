@@ -53,8 +53,8 @@ related:
   - INS-260405-81B4
   - INS-260404-4666
   - INS-260405-020E
+  - PRI-260406-33E9
   - INS-260327-7846
-  - INS-260403-A06E
 ---
 Graham's deepest insight is that the ultimate solution to misjudging early work is not a psychological trick but genuine recalibration. By studying enough cases of how great projects actually started — the first commits, first sketches, first prototypes — you can train yourself to accurately assess the expected value of embryonic work. Michael Nielsen notes the internet has made this easier by exposing programmers' first commits and musicians' first videos.
 

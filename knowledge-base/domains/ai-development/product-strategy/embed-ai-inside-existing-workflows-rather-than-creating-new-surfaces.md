@@ -49,7 +49,6 @@ stance: >-
   AI products that operate inside tools people already use (email, calendar)
   achieve higher adoption than those requiring users to adopt new interfaces.
 related:
-  - INS-260322-88FC
   - INS-260329-D3F6
   - INS-260330-A25A
   - INS-260402-543E

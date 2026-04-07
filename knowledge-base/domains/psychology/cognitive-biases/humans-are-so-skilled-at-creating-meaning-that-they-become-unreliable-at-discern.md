@@ -47,10 +47,10 @@ resolutions:
     false patterns, superstition, confirmation bias).
 related:
   - INS-260325-3EF4
+  - PRI-260406-CC90
   - INS-260325-B067
   - PRI-260324-2C9F
   - INS-260323-C10D
-  - PRI-260323-1187
   - INS-260328-031A
   - INS-260330-6165
 stance: >-

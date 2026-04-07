@@ -53,7 +53,6 @@ stance: >-
   suggesting these patterns are structural features of complex adaptive systems
   rather than purely cognitive biases.
 related:
-  - INS-260323-6258
   - PRI-260405-C27E
   - INS-260404-B6E8
   - INS-260405-F20F

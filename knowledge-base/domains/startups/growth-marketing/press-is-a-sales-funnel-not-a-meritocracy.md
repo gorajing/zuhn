@@ -55,10 +55,10 @@ stance: >-
 related:
   - INS-260323-CD03
   - INS-260329-D1A1
+  - PRI-260406-0E64
   - INS-260329-DAC4
   - INS-260403-4F8D
-  - INS-260405-270B
-  - INS-260404-2032
+  - PRI-260406-CA09
 evidence:
   - id: INS-260323-CD03
     type: EXTENDS

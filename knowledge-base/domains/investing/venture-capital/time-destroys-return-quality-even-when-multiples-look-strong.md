@@ -44,9 +44,10 @@ stance: >-
   than a 3x in 10 years (12% IRR)
 related:
   - INS-260403-F305
+  - PRI-260406-AAA9
+  - PRI-260406-992F
   - INS-260404-8CAE
   - INS-260403-2E2C
   - INS-260403-70B9
-  - INS-260403-49EC
 ---
 In venture capital, MOIC (Multiple on Invested Capital) measures total value created while IRR measures the annualized speed of value creation. A 3x return in four years yields roughly 32% IRR, but the same 3x over ten years drops to about 12% — barely above public market benchmarks. This is why LPs demand both metrics: MOIC alone can flatter slow capital, and IRR alone can exaggerate quick partial exits. The practical implication is that founders and VCs who only think in multiples are missing half the picture — the time dimension fundamentally changes whether a return is exceptional or pedestrian.

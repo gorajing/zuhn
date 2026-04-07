@@ -47,13 +47,12 @@ stance: >-
   enables focused execution.
 related:
   - INS-260403-803A
-  - INS-260403-A7FD
   - INS-260403-D7C4
   - INS-260403-A6F1
+  - PRI-260406-90C7
   - INS-260404-4D7F
+  - PRI-260406-6574
   - INS-260404-8E68
-  - INS-260403-C313
-  - INS-260323-ACD9
   - INS-260404-7C1F
 evidence:
   - id: INS-260329-FEA6

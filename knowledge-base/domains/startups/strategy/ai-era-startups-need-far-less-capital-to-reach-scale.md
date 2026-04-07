@@ -52,11 +52,11 @@ related:
   - INS-260327-7BB5
   - INS-260403-19C9
   - INS-260403-E662
-  - INS-260404-EEA7
   - INS-260404-9D14
+  - PRI-260406-1F70
+  - INS-260404-EEA7
   - INS-260403-4904
   - INS-260403-37FD
-  - INS-260403-968A
 ---
 The article argues that AI has fundamentally changed the economics of building startups. Tasks that required a 30-person team can now be accomplished by 5 people using tools like ChatGPT, Notion AI, and Zapier. No-code and low-code platforms eliminate the need for full engineering teams, allowing founders to go from idea to MVP without raising millions.
 

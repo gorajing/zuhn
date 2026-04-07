@@ -47,8 +47,8 @@ stance: >-
 related:
   - INS-260404-8CAE
   - INS-260403-C7AB
+  - PRI-260406-AAA9
   - INS-260402-C2BA
   - INS-260403-53A4
-  - INS-260330-137A
 ---
 Despite improved deal activity and some IPO momentum in 2025-2026, the venture capital exit backlog still vastly exceeds public market absorption capacity. LP cash returns remain deeply lagging, creating a structural dependency on secondary markets to free trapped capital. This dynamic reshapes fundraising — GPs who can't demonstrate liquidity paths face LP pullback, while the handful of blockbuster listings that do occur carry outsized influence on whether the broader fundraising cycle resets or contracts further. The implication is that venture's traditional liquidity model (build → IPO/M&A → return capital → raise next fund) is broken for the median fund, and secondaries are becoming the norm rather than the exception.

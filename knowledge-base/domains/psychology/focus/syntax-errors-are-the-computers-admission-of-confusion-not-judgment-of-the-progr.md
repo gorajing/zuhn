@@ -49,11 +49,11 @@ stance: >-
   criticizing the programmer eliminates the emotional barrier that causes most
   beginners to quit.
 related:
+  - PRI-260406-FB98
   - INS-260329-7F3D
   - INS-260327-4C73
   - INS-260329-DABC
   - INS-260329-DAD1
-  - INS-260329-A9B7
   - INS-260404-E5D9
   - INS-260404-A246
 evidence:

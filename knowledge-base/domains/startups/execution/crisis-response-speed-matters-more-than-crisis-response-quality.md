@@ -59,9 +59,9 @@ related:
   - INS-260330-7987
   - INS-260402-EA72
   - INS-260404-A032
+  - PRI-260406-0E02
   - INS-260404-77CD
   - INS-260403-8B94
-  - INS-260403-C949
 ---
 Levine emphasizes that hesitation during a crisis is itself a decision — one that systematically reduces your options. Each week of inaction during a cash crisis burns runway that could have been preserved, and each week of inaction during a PMF crisis lets competitors solidify their position in the shifting market.
 

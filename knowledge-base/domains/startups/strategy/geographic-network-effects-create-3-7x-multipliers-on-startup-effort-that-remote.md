@@ -51,11 +51,11 @@ stance: >-
   networks cannot match.
 related:
   - INS-260330-8FC5
+  - PRI-260406-3AE8
   - INS-260403-7037
+  - PRI-260406-E4B0
+  - PRI-260406-842D
   - INS-260403-9D89
-  - INS-260403-9A57
-  - INS-260403-4C61
-  - INS-260330-DDF0
   - INS-260404-5882
 evidence:
   - id: INS-260330-8FC5

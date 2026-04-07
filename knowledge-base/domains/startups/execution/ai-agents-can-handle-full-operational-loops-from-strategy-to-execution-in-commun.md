@@ -54,10 +54,10 @@ stance: >-
   managing 500-member organizations.
 related:
   - INS-260323-6414
+  - PRI-260406-7FE4
   - INS-260403-7825
   - INS-260403-4D1E
-  - INS-260405-D660
-  - INS-260327-C1A4
+  - PRI-260406-CCAE
   - INS-260403-0D23
   - INS-260403-D4D4
 evidence:

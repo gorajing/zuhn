@@ -49,8 +49,8 @@ related:
   - PRI-260328-094A
   - PRI-260328-B11D
   - INS-260330-5A0A
+  - PRI-260406-54BE
   - INS-260403-7333
-  - INS-260405-484F
 ---
 Wu played competitive piano and did competitive math before becoming the youngest quant researcher at a major hedge fund. She credits these experiences with building discipline, risk tolerance, and comfort with being uncomfortable. The pattern: doing hard things in structured competitive environments trains you for the unstructured competition of startups.
 

@@ -55,11 +55,10 @@ stance: >-
   activity.
 related:
   - INS-260329-3924
+  - PRI-260406-4B0E
   - INS-260323-4C43
+  - PRI-260406-9063
   - INS-260403-227D
-  - PRI-260328-C918
-  - PRI-260403-E097
-  - INS-260403-BE18
 evidence:
   - id: INS-260329-7BA7
     type: TRANSFERS_TO

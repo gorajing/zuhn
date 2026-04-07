@@ -46,10 +46,10 @@ stance: >-
   transfers their accumulated trust to the seller, collapsing the belief gap
 related:
   - PRI-260327-3BD9
+  - PRI-260406-B314
   - INS-260329-7E63
   - INS-260404-1ADA
   - INS-260329-2B04
-  - INS-260327-C083
 evidence:
   - id: INS-260325-E84D
     type: CHALLENGES

@@ -48,11 +48,11 @@ stance: >-
   execution time is the bottleneck and must be fiercely protected
 related:
   - INS-260322-FD23
-  - INS-260325-CEE1
   - INS-260327-E546
   - INS-260329-2242
   - INS-260329-4253
   - INS-260403-B05A
+  - PRI-260406-B846
   - INS-260330-625B
   - INS-260330-C215
 evidence:

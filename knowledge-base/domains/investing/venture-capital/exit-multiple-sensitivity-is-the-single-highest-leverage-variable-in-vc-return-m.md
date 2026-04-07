@@ -54,9 +54,9 @@ related:
   - INS-260403-1EE4
   - INS-260403-C377
   - INS-260403-1438
+  - PRI-260406-CA93
   - INS-260403-2330
   - INS-260403-02B8
-  - INS-260405-B01A
 ---
 In VC return analysis, the exit multiple (typically price-to-sales) acts as a massive lever. A startup targeting a $100M exit at one multiple might return 5x MOIC, but if the M&A landscape softens and the realistic exit drops to $60M, the MOIC falls to 3x. Whether that's still acceptable depends on fund size — for a $150M fund, maybe; for a $400M fund, probably not.
 

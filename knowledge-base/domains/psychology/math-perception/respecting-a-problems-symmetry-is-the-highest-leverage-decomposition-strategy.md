@@ -49,7 +49,7 @@ related:
   - PRI-260325-EEE9
   - INS-260330-541B
   - INS-260330-1E5E
-  - INS-260325-898A
+  - PRI-260406-D3E4
   - INS-260330-D475
 ---
 Slicing the circle into concentric rings rather than, say, horizontal strips or random chunks works because it respects the circle's rotational symmetry. As 3Blue1Brown notes, 'math has a tendency to reward you when you respect its symmetries.' Each ring has uniform properties (same radius, same circumference) precisely because the decomposition aligned with the underlying structure.

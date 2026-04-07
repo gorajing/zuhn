@@ -65,9 +65,9 @@ related:
   - INS-260404-C0E6
   - INS-260322-9436
   - INS-260403-F8B6
-  - INS-260405-0D9A
   - INS-260403-19D8
-  - INS-260405-7196
+  - INS-260405-0D9A
+  - PRI-260406-7F84
 ---
 SpaceX manages the tension between ambitious vision and near-term credibility through strict separation: near-term milestones are concrete and testable, medium-term goals expand the market, and long-term vision (Mars) provides direction without being used to justify today's execution. This sequencing is what makes talking about Mars feel like a direction rather than a deflection.
 

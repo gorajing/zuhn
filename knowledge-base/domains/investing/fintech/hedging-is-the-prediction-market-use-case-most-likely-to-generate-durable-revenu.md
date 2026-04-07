@@ -53,10 +53,10 @@ stance: >-
   participants who rationally accept negative expected monetary value in
   exchange for risk reduction
 related:
+  - PRI-260406-0A0B
   - INS-260404-A526
+  - PRI-260406-D106
   - INS-260403-BAD6
-  - PRI-260328-43F1
-  - INS-260405-4D4D
-  - INS-260405-44F5
+  - PRI-260406-466E
 ---
 Vitalik's framework identifies three types of prediction market participants: naive traders (dumb-opinion speculators), information buyers (organizations that fund markets to learn things), and hedgers (participants who buy insurance-like positions that reduce their financial risk even at negative expected value). Platforms relying on naive traders are incentivized to attract people with bad opinions—a race toward gambling and dopamine-optimized 'corposlop.' Information buying has a classic public-goods problem: the information created is freely available to all, so few organizations will pay for it. Hedgers, by contrast, are structurally motivated participants who will repeatedly engage even when losing money, because the risk reduction is worth it—analogous to how individuals buy insurance at negative expected value. The derivatives market currently holds ~$2 trillion, suggesting the addressable market for prediction-market-based hedging is enormous if execution and liquidity problems can be solved.

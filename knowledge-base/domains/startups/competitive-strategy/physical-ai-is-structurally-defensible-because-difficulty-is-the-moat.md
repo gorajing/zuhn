@@ -53,15 +53,15 @@ stance: >-
   — are inherently more defensible than software AI because the difficulty of
   atoms-based iteration cannot be replicated in a prompt
 related:
-  - PRI-260323-F193
-  - INS-260327-A653
   - INS-260329-572E
   - INS-260402-8595
   - INS-260403-1034
   - INS-260330-8EC6
   - INS-260330-FF94
+  - PRI-260406-E015
   - INS-260323-AF7B
   - INS-260330-579B
+  - INS-260327-A653
 ---
 Kalanick draws a sharp distinction between digital AI (which compounds fastest against businesses whose core value can be reproduced in a prompt) and physical AI (which requires tolerances, material science, and operational iteration that current models cannot shortcut). His bet on atoms — specialized robots with wheels rather than humanoids, real estate density rather than software scale — is a deliberate choice to run toward difficulty.
 

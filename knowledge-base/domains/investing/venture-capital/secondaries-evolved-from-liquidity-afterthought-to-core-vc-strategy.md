@@ -48,10 +48,10 @@ stance: >-
 related:
   - INS-260403-9A94
   - INS-260403-4B3D
+  - PRI-260406-2129
   - INS-260405-6EE5
   - INS-260403-E294
   - INS-260403-BAD6
-  - INS-260403-AB11
 ---
 Historically, secondary transactions in venture were treated as distress signals or last-resort liquidity events. Selling LP stakes or founder shares on secondary markets carried stigma. But as IPO timelines stretched and venture fund lifecycles extended well beyond 10 years, secondaries became a necessary and eventually desirable part of the ecosystem.
 

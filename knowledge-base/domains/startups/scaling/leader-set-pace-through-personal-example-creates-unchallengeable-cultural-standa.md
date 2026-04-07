@@ -53,11 +53,11 @@ stance: >-
 related:
   - INS-260329-B4C8
   - INS-260330-1FA8
-  - INS-260330-E4D9
   - INS-260330-A9CB
   - INS-260403-DA14
   - INS-260403-5419
-  - PRI-260403-E023
+  - PRI-260406-E48F
+  - PRI-260406-21DA
 ---
 Huang's personal intensity functions not as motivation but as enforcement. By visibly absorbing more pressure than anyone else, he removes the moral ground on which complaints about pace or workload typically stand. This creates a form of authority that policies cannot replicate — it doesn't rely on consensus and doesn't ask permission. The standard is high because that's where the leader maintains it personally.
 

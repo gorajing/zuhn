@@ -50,11 +50,11 @@ stance: >-
 related:
   - INS-260403-3A7A
   - INS-260403-2BEE
+  - PRI-260406-ED43
   - PRI-260328-935A
   - INS-260325-0F4F
   - INS-260403-1358
   - INS-260403-B1F2
-  - INS-260403-E3C4
 ---
 The discussion highlights that both large corporations and SMEs face innovation challenges — corporations need to upskill at scale while SMEs need to justify innovation's existence. Strategyzer's argument is that a structured approach (training modules, milestones, experiment libraries, business model progress mapping) addresses both contexts equally.
 

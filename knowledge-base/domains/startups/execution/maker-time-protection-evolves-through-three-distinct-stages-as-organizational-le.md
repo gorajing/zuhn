@@ -53,11 +53,11 @@ stance: >-
   leverage and team grow.
 related:
   - INS-260325-5B08
+  - PRI-260406-B846
   - INS-260329-24CE
   - INS-260403-D36D
   - INS-260329-7A3C
   - INS-260329-1F4D
-  - INS-260404-38A6
 evidence:
   - id: INS-260329-E44D
     type: TRANSFERS_TO

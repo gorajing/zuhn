@@ -49,10 +49,10 @@ stance: >-
   resources
 related:
   - PRI-260403-E023
+  - PRI-260406-07C2
+  - PRI-260406-4C28
   - INS-260405-2CDB
   - INS-260403-910E
-  - INS-260405-9DF5
-  - PRI-260327-5635
 evidence:
   - id: INS-260329-8226
     type: EXTENDS

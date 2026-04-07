@@ -46,7 +46,6 @@ stance: >-
   risk management — readers choose structured formats when they lack trust in
   the writer, the same way you order a cheeseburger at an untested restaurant.
 related:
-  - INS-260329-85E9
   - INS-260329-4842
   - INS-260403-C907
   - PRI-260403-9E80

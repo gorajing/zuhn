@@ -47,12 +47,11 @@ stance: >-
   companies that survive disruption from those that don't
 related:
   - INS-260403-F0DF
-  - INS-260404-C92A
+  - PRI-260406-5F31
   - INS-260403-E3C4
   - PRI-260328-43F1
   - INS-260403-7227
   - INS-260403-1358
-  - INS-260405-0271
 evidence:
   - id: INS-260325-C7FA
     type: EXTENDS

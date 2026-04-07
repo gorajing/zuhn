@@ -48,10 +48,10 @@ stance: >-
   VC treadmill
 related:
   - INS-260404-AFE6
+  - PRI-260406-EE38
   - INS-260323-8893
   - INS-260329-4EF5
   - INS-260405-B967
-  - INS-260403-914F
 ---
 Seed strapping is emerging as a distinct third funding strategy that sits between bootstrapping and full VC. Founders raise a modest seed round to build initial momentum — enough to reach product-market fit and early revenue — then deliberately choose not to raise follow-on rounds. Instead, they fund growth through cash flow.
 

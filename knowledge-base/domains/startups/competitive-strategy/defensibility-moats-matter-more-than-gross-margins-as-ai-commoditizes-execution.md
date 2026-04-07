@@ -52,16 +52,16 @@ stance: >-
   health because durable competitive advantages come from network effects,
   switching costs, unique data, and brand—not from cost structure.
 related:
-  - INS-260329-E7A4
   - INS-260403-9173
   - INS-260323-7B63
   - INS-260403-41C8
   - INS-260405-D098
   - INS-260405-E155
   - INS-260403-57FF
+  - PRI-260406-E015
   - INS-260404-EEA7
-  - PRI-260405-B144
   - INS-260403-2D68
+  - INS-260404-EC26
 ---
 Traditional startup evaluation heavily weights gross margins as a proxy for business quality—high margins signal scalability and pricing power. But in the AI era, this heuristic breaks down. A company can show strong margins while having zero defensibility if its AI capabilities are easily replicated, and conversely, a lower-margin business with deep network effects and proprietary data may be far more durable.
 

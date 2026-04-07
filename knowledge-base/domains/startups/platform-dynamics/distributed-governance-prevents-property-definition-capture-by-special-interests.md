@@ -51,6 +51,7 @@ stance: >-
   check against powerful actors warping property law to serve narrow interests.
 related:
   - INS-260330-13B2
+  - PRI-260406-B331
   - INS-260330-6EE1
   - INS-260330-95F3
   - INS-260403-4F1B

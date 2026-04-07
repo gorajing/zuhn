@@ -53,10 +53,9 @@ related:
   - INS-260403-B224
   - INS-260405-7FFC
   - INS-260403-713B
-  - INS-260403-5031
+  - PRI-260406-DE8A
   - INS-260403-4E51
   - INS-260403-1438
-  - INS-260403-D8DB
 ---
 Q2 2025 data shows a meaningful shift in VC fund performance: DPI (distributions to paid-in capital) is rising across 2017-2023 vintages, meaning LPs are actually receiving money back. TVPI and IRR also climbed while LP check sizes grew larger, signaling renewed confidence.
 

@@ -49,10 +49,10 @@ resolutions:
     is unresolvable.
 related:
   - INS-260323-2874
+  - PRI-260406-949A
   - PRI-260325-F21B
   - INS-260403-9DB6
   - PRI-260324-8EE6
-  - PRI-260328-82A2
   - INS-260323-5737
   - INS-260330-2294
   - INS-260330-0764

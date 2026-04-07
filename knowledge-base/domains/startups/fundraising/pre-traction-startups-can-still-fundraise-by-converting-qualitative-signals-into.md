@@ -55,8 +55,8 @@ related:
   - INS-260327-E3CA
   - INS-260403-5F15
   - INS-260404-96CF
+  - PRI-260406-7710
   - INS-260403-49FB
-  - INS-260403-CD90
   - INS-260403-6807
 ---
 Most startup advice focuses on metric-driven fundraising, but the reality is that pre-seed and many seed rounds happen before meaningful financial data exists. In these cases, investors evaluate TAM credibility, team strength, and competitive differentiation — but the most effective founders also surface leading indicators that bridge the gap between vision and traction.

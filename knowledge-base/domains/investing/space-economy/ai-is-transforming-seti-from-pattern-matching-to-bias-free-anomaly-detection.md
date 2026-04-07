@@ -47,11 +47,11 @@ stance: >-
   in data rather than only the specific signal types humans have pre-defined,
   removing anthropocentric biases from the search.
 related:
+  - PRI-260406-CC90
   - PRI-260323-CE34
   - INS-260405-C3B0
   - PRI-260325-45A2
   - INS-260327-684D
-  - INS-260330-4329
 evidence:
   - id: INS-260327-684D
     type: EXTENDS

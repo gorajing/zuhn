@@ -49,13 +49,11 @@ stance: >-
   and intelligence widens, and society has collectively chosen to value
   intelligence over wisdom.
 related:
-  - INS-260329-A862
   - INS-260330-C8D7
-  - INS-260330-6F2F
   - INS-260330-16B1
   - INS-260403-E9DD
   - PRI-260405-2DE5
-  - PRI-260403-52DF
+  - PRI-260406-32FE
   - INS-260403-8EFF
 evidence:
   - id: INS-260329-A862

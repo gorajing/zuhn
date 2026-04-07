@@ -52,10 +52,10 @@ stance: >-
 related:
   - INS-260330-0BC2
   - INS-260404-569C
+  - PRI-260406-818D
   - INS-260327-0595
   - INS-260402-4719
   - INS-260330-5E03
-  - INS-260403-A9C9
 ---
 Early-stage traction is inherently limited, so VCs are evaluating two things simultaneously: the validation signal (does the market want this?) and the velocity signal (how fast are you learning and moving?). But there's a third, often overlooked dimension: the quality of your traction narrative.
 

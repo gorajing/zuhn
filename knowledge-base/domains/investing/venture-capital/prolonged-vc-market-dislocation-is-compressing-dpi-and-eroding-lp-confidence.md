@@ -46,11 +46,11 @@ stance: >-
   distributions to paid-in capital, creating a crisis of LP confidence that will
   reshape fund allocation for years
 related:
+  - PRI-260406-4D4E
   - INS-260403-5031
   - INS-260404-C3F1
+  - PRI-260406-9EF7
   - INS-260403-3D38
-  - INS-260327-CBBB
-  - INS-260404-EC16
   - INS-260403-08D8
   - INS-260405-BCF4
 ---

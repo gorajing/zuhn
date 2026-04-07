@@ -50,8 +50,8 @@ related:
   - INS-260329-28A6
   - INS-260330-59A4
   - INS-260402-ECB6
+  - PRI-260406-003E
   - INS-260323-64A4
-  - INS-260404-CE92
 ---
 Graham's core prescription is that since identity attachment corrupts reasoning, the strategic response is to let as few things as possible into your identity. Each label you adopt — 'I'm a Mac person,' 'I'm a libertarian,' 'I'm a Python developer' — is a domain where you've traded the ability to think clearly for the comfort of belonging.
 

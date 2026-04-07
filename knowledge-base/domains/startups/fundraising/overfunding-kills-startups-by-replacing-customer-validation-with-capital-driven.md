@@ -49,14 +49,13 @@ stance: >-
   cause of startup death.
 related:
   - INS-260321-3521
-  - INS-260403-C695
   - INS-260403-2F77
   - INS-260403-3AE7
   - INS-260403-5D99
   - INS-260403-7FF8
+  - PRI-260406-9DD4
   - PRI-260403-26B9
   - INS-260404-7071
-  - INS-260405-6D3A
 ---
 Startup Genome's analysis of 3,200 startups found that approximately 70% scaled prematurely, and 93% of those never broke $100k MRR. When funding flows before product-market fit, it changes what you're building and who you're building it for — founders start responding to investor pressure and board expectations rather than listening to users.
 

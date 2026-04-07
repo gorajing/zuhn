@@ -53,9 +53,8 @@ related:
   - PRI-260328-FD47
   - PRI-260328-6CEC
   - INS-260329-1A3B
-  - INS-260330-923F
-  - INS-260404-B0DC
   - INS-260403-E662
+  - INS-260402-3D00
 stance: >-
   Having a brilliant idea without an addressable market or distribution
   infrastructure turns you into free R&D for better-timed competitors.

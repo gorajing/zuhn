@@ -50,16 +50,16 @@ stance: >-
   Books, television, and mainstream press create a layer of credibility that
   digital content alone cannot replicate
 related:
-  - INS-260325-24D1
   - INS-260325-622D
   - INS-260321-2564
-  - INS-260322-7B71
   - INS-260327-E6B0
   - INS-260329-BC11
   - INS-260330-4FB9
   - INS-260403-DEF6
   - INS-260325-803C
   - INS-260404-D45D
+  - INS-260403-BF45
+  - INS-260403-BC04
 ---
 Herjavec distinguishes between two types of media leverage: digital content (social media, newsletters, podcasts) which creates awareness and reach, versus traditional media (books, television, mainstream press) which creates credibility and authority. His own experience with Shark Tank illustrates how TV exposure created a credibility multiplier that no amount of blog posts could replicate.
 

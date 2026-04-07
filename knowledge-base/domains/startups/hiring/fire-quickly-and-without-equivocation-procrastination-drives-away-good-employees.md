@@ -53,7 +53,7 @@ related:
   - INS-260330-8E3C
   - INS-260330-36B4
   - INS-260330-AB95
+  - PRI-260406-4FAE
   - INS-260330-258F
-  - INS-260329-E45A
 ---
 The YC partners argue that firing well is a defining skill of effective founders — 'you're not a real founder until you've had to fire somebody.' Their best practices are deliberately blunt: fire quickly (procrastination only has downside — good employees may quit, business may suffer), communicate directly without apologizing or rationalizing ('we're letting you go' not 'I'm so sorry sales didn't take off'), do it face-to-face with a third party present, pay all wages and accrued vacation immediately (legal requirement, not negotiable), and cut digital access the moment the person is out the door. They share a case where a fired founder held the company's GitHub password hostage. The broader insight is that founders naturally resist firing because they hire friends and form intense bonds at startups, but this emotional resistance is precisely what makes decisive termination a signal of professional maturity.

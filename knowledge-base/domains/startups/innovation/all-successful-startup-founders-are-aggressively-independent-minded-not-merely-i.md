@@ -46,12 +46,12 @@ stance: >-
   aggressive willingness to act on heterodox conclusions when everyone else
   disagrees.
 related:
-  - INS-260329-557C
   - INS-260330-790F
+  - INS-260329-557C
   - INS-260403-9362
+  - PRI-260406-22D5
   - PRI-260403-2E59
   - INS-260403-B734
-  - INS-260329-AAE3
 evidence:
   - id: INS-260330-790F
     type: CHALLENGES

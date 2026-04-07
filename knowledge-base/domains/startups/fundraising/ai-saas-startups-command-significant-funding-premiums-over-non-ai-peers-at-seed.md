@@ -54,12 +54,12 @@ related:
   - INS-260327-8D86
   - INS-260330-5EB6
   - INS-260403-0530
-  - INS-260403-31C2
   - INS-260403-C1D2
   - INS-260403-8B68
   - INS-260403-6E4C
   - INS-260404-EFA0
   - INS-260403-6694
+  - INS-260403-A57D
 ---
 The 41% funding premium for AI SaaS startups at seed stage reveals how investor sentiment shapes market structure. This premium exists because VCs believe AI-native companies can achieve faster growth trajectories and potentially winner-take-most dynamics in their categories. The premium effectively gives AI founders more runway and resources to capture markets before competitors.
 

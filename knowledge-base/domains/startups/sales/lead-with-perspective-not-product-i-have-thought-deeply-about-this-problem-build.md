@@ -58,15 +58,15 @@ stance: >-
   problem creates trust that feature demonstrations cannot.
 related:
   - INS-260320-080B
+  - PRI-260406-874A
   - INS-260329-4DBC
   - INS-260403-805E
   - INS-260404-8890
   - INS-260404-C2BC
-  - INS-260327-89C7
-  - INS-260327-DCA9
   - INS-260327-734D
   - INS-260327-7CE9
   - INS-260330-8890
+  - INS-260403-1D6E
 evidence:
   - id: INS-260320-47FA
     type: TRANSFERS_TO

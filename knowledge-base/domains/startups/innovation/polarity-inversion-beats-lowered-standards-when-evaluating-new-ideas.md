@@ -47,11 +47,11 @@ stance: >-
 related:
   - INS-260325-0147
   - INS-260325-788E
+  - INS-260403-EEE5
   - INS-260404-323D
   - INS-260404-6D51
-  - INS-260403-EEE5
   - INS-260404-AC7C
-  - INS-260405-3E5F
+  - PRI-260406-D43E
 ---
 Graham distinguishes between having lower standards and switching polarity entirely. Lowering standards still operates within a failure-detection framework — you're just being less sensitive. Polarity inversion means actively searching for paths to success, which generates genuinely new information about the idea's potential.
 

@@ -41,10 +41,10 @@ resolutions:
     AI breadth is most powerful.
 related:
   - PRI-260403-8EC2
+  - PRI-260406-D3E4
   - INS-260330-F183
   - PRI-260328-9E3F
   - INS-260323-085A
-  - INS-260403-FC4F
   - INS-260325-B61B
   - INS-260327-AEFA
   - INS-260330-FB50

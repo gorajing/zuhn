@@ -49,12 +49,14 @@ resolutions:
 related:
   - INS-260329-E45A
   - INS-260403-A99F
+  - PRI-260406-21DA
   - INS-260403-F8B5
-  - INS-260404-0240
-  - INS-260403-D4BC
+  - PRI-260406-4FAE
   - INS-260330-647D
   - INS-260330-175F
   - INS-260330-4A89
+  - INS-260404-0240
+  - INS-260403-D4BC
 stance: >-
   Cancel culture is specifically the post-2014 surge in successful campaigns to
   get people fired, expelled, or deplatformed for speech that would be ...

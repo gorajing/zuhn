@@ -49,12 +49,11 @@ stance: >-
   that can be worse than dilution
 related:
   - INS-260403-46BD
-  - INS-260403-A3DA
   - INS-260403-0E32
+  - PRI-260406-E542
   - INS-260403-3A67
-  - INS-260403-3A2C
-  - INS-260405-1A59
-  - INS-260404-D60F
+  - INS-260403-A3DA
+  - PRI-260406-B702
   - INS-260403-C4B3
 ---
 Founders often frame non-dilutive funding as 'free money' compared to equity rounds, but every funding type carries real costs. Grants demand compliance reporting and consortium participation. Revenue-based financing takes a fixed percentage of top-line revenue, which can be painful during revenue dips. Venture debt means interest payments that compound if cash flow stalls.

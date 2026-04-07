@@ -59,9 +59,10 @@ related:
   - INS-260403-9CC1
   - INS-260404-0153
   - INS-260404-9BC6
-  - INS-260403-4A42
+  - PRI-260406-5BD0
   - INS-260327-12BE
   - INS-260405-DFBC
+  - INS-260403-4A42
 stance: >-
   The fastest AI companies reach $100M revenue significantly faster than SaaS
   predecessors, with top performers growing 693% YoY

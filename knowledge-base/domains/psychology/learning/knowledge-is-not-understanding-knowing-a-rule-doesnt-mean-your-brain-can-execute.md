@@ -55,5 +55,6 @@ related:
   - INS-260330-6620
   - INS-260330-0930
   - INS-260330-9471
+  - PRI-260406-D6AA
 ---
 When the handlebars of a bicycle were modified so left turns the wheel right, every person who tried — including Destin, engineers, and audience members offered $200 — failed immediately despite fully understanding the single rule change. This reveals that procedural understanding is encoded as a complex algorithm involving dozens of simultaneous body adjustments (pedal force, lean angle, handlebar push/pull, gyroscopic effects). Changing one variable cascades through the entire control system. The implication extends far beyond bicycles: in any domain with complex procedural knowledge — surgery, coding, music performance, martial arts — intellectual understanding of a technique provides almost no transfer to execution. True understanding requires rewiring the neural pathways through practice, not just updating the mental model.

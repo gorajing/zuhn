@@ -52,10 +52,11 @@ related:
   - INS-260322-047D
   - INS-260403-1EE4
   - INS-260404-F589
+  - PRI-260406-8E01
   - INS-260403-F4E7
   - INS-260405-AD04
-  - INS-260405-B01A
   - INS-260403-001C
+  - INS-260405-B01A
 ---
 The VC Method starts with a projected exit value (e.g., $100M in 5 years), applies the investor's target return (often 10x+), and calculates backward to determine what the company must be worth today. If a VC wants 10x on a $100M exit, they need to get in at $10M post-money. A $2M raise means $8M pre-money valuation.
 

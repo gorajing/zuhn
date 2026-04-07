@@ -50,10 +50,10 @@ resolutions:
     provide rapid, unambiguous humbling that keeps leaders calibrated.
 related:
   - INS-260325-E84D
+  - PRI-260406-AA7D
   - INS-260325-1EAC
   - PRI-260323-2C5C
   - INS-260329-D3D9
-  - INS-260330-D61A
   - INS-260329-A077
 stance: >-
   The moment you decide you are too embarrassed to try something new, you stop

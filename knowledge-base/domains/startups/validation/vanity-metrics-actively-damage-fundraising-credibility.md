@@ -50,10 +50,10 @@ stance: >-
   investor trust rather than building it.
 related:
   - INS-260405-7CF9
+  - PRI-260406-7F84
   - INS-260321-3521
+  - PRI-260406-B314
   - INS-260403-6F75
-  - INS-260404-ED0F
-  - INS-260403-6F8B
 ---
 Founders often default to the largest numbers available — total registered users, app downloads, social media reach, or top-line revenue growth — because they look impressive on a slide. But experienced VCs immediately see through these because they obscure the health indicators that actually matter. A million signups with 5% DAU/MAU reveals a retention crisis. Impressive revenue growth paired with a burn rate that outpaces it signals unsustainable unit economics.
 

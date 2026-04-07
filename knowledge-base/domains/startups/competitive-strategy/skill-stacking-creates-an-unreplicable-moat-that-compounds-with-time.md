@@ -50,10 +50,10 @@ stance: >-
   one can replicate without living your life.
 related:
   - INS-260323-4EE4
-  - INS-260327-1795
   - INS-260327-289F
+  - PRI-260406-28E1
+  - INS-260327-1795
   - INS-260404-397F
-  - PRI-260323-50FE
   - INS-260405-2E46
 evidence:
   - id: INS-260327-1795

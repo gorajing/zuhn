@@ -58,11 +58,12 @@ stance: >-
   drive equity tokenization adoption regardless of regulatory friction
 related:
   - INS-260403-CC97
+  - PRI-260406-1F70
   - INS-260329-0DA4
   - INS-260402-8424
   - INS-260404-EEA7
-  - INS-260404-3A2E
   - INS-260403-2FF2
+  - INS-260404-3A2E
 ---
 Companies are staying private significantly longer than in previous decades, meaning the highest-growth phase of value creation increasingly occurs before IPO. This locks out the vast majority of investors from participation. Surveys show roughly 90% of Americans would allocate retirement savings to private assets, with particularly strong interest among younger demographics.
 

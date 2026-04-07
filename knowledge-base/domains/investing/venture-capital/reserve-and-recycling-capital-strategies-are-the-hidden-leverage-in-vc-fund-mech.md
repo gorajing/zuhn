@@ -55,12 +55,12 @@ related:
   - INS-260403-FA65
   - INS-260404-7F24
   - INS-260404-A3CD
+  - PRI-260406-CC5E
   - INS-260404-8CAE
   - INS-260405-62B2
   - INS-260403-49EC
-  - INS-260403-21E1
   - INS-260404-707C
-  - INS-260404-B6DF
+  - INS-260403-21E1
 ---
 Most analysis of VC performance focuses on deal selection and entry valuation, but fund-level mechanics — specifically reserve strategy and capital recycling — quietly determine whether a fund delivers 2x or 3x+ net returns. Reserves (capital held back for follow-on investments in winners) allow GPs to double down on their best-performing companies, concentrating capital into the power-law tail. Recycling (reinvesting early distributions rather than returning them to LPs) effectively increases the fund's investable capital beyond committed amounts.
 

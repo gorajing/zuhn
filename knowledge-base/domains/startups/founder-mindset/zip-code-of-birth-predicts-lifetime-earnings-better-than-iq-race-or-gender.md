@@ -52,10 +52,10 @@ stance: >-
   highest-leverage intervention for upward mobility.
 related:
   - INS-260329-047C
+  - PRI-260406-E4B0
+  - PRI-260406-C168
   - INS-260403-BDE0
   - INS-260404-E65A
-  - INS-260330-0C0C
-  - INS-260404-B086
 evidence:
   - id: INS-260330-0C0C
     type: TRANSFERS_TO

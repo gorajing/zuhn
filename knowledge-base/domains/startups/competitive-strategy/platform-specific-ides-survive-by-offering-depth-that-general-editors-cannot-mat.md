@@ -48,11 +48,11 @@ stance: >-
   relevance by providing deep platform integration that extension-based editors
   cannot reliably replicate.
 related:
+  - PRI-260406-9D48
   - INS-260330-112E
   - INS-260404-CCB1
   - INS-260405-D23E
   - INS-260321-7D7C
-  - INS-260323-7D3C
 evidence:
   - id: INS-260330-112E
     type: TRANSFERS_TO

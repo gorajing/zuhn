@@ -53,12 +53,11 @@ stance: >-
 related:
   - INS-260403-402F
   - INS-260402-3D34
-  - INS-260403-D970
+  - PRI-260406-3317
   - INS-260405-D2E2
   - INS-260404-5EB8
-  - INS-260403-3A2C
+  - PRI-260406-FD1C
   - INS-260403-7190
-  - INS-260403-49FC
 ---
 Institutional VCs evaluate three things before writing a check: whether founders retain enough ownership to stay motivated long-term, whether the cap table is clean enough to structure a deal, and whether new investors can get favorable terms relative to early SAFE holders. If early investors already own too much equity, it creates friction—new investors demand more aggressive terms to compensate, which further dilutes founders.
 

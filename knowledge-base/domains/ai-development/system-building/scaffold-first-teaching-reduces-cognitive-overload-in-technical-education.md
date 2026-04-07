@@ -43,7 +43,6 @@ stance: >-
   code
 related:
   - INS-260329-7EFD
-  - INS-260329-40B6
   - INS-260329-F20E
   - INS-260329-3177
   - INS-260329-9CED

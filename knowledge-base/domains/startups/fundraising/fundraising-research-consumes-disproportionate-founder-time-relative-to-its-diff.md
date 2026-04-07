@@ -58,10 +58,10 @@ evidence:
     classified_at: '2026-04-05'
 related:
   - PRI-260403-26B9
+  - PRI-260406-EC93
   - INS-260403-53C0
-  - INS-260403-21B2
-  - INS-260403-D730
-  - INS-260405-2A34
+  - PRI-260406-EE38
+  - PRI-260406-E1D5
 ---
 The article opens with a pointed observation: founders spend six weeks building investor spreadsheets and another month on poorly targeted cold emails. This is a resource allocation failure, not an information scarcity problem. The investor landscape is well-documented; what's missing is founders' awareness of aggregated resources and a systematic approach to using them.
 

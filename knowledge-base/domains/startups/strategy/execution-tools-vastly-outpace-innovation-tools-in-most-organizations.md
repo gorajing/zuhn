@@ -44,11 +44,10 @@ related:
   - INS-260327-ACB3
   - INS-260402-AEA1
   - INS-260403-ACA8
-  - INS-260403-9AB5
   - INS-260403-130D
   - INS-260403-1269
+  - PRI-260406-7548
   - INS-260403-E23C
   - INS-260403-7841
-  - INS-260403-3EFB
 ---
 Organizations invest heavily in financial modeling, operational efficiency tools, and process optimization — the 'surgeon's scalpel' for known business models. Yet when it comes to identifying future business models and value propositions, they rely on ad-hoc methods or outdated frameworks. This asymmetry creates a structural blind spot: companies become excellent at optimizing what exists but poor at discovering what comes next. The gap is particularly dangerous in environments where existing business models face disruption, because the very precision of execution tools creates false confidence that the current model will persist.

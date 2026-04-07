@@ -60,13 +60,12 @@ stance: >-
   narratives than those that optimize across many variables.
 related:
   - INS-260322-EE1B
-  - INS-260326-286F
   - INS-260402-B2A2
   - INS-260403-2A1D
   - INS-260403-F171
+  - PRI-260406-80E7
   - INS-260404-B87E
   - INS-260403-F7DD
-  - INS-260405-5BD3
   - INS-260403-E09C
 ---
 SpaceX's entire strategy becomes legible once you understand that cost per kilogram to orbit was their north star. Reusability, vertical integration, and launch cadence all trace back to that single constraint. This is a generalizable pattern: great companies find the variable that actually matters and then make every major decision a function of improving it.

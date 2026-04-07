@@ -50,13 +50,12 @@ stance: >-
   over hypergrowth, and companies that cannot demonstrate profitability paths
   will remain locked out of public markets.
 related:
-  - INS-260323-D6C7
   - INS-260403-1E5C
   - INS-260403-20F7
   - INS-260404-9103
+  - PRI-260406-04DB
   - INS-260403-BAD6
   - INS-260403-9CC1
-  - INS-260404-D475
 ---
 September 2025 marked the strongest IPO wave since 2021, but with a fundamentally different character. The companies successfully going public — Klarna, StubHub, Netskope — share common traits: proven scale, paths to profitability, and realistic valuations relative to their 2021 peaks.
 

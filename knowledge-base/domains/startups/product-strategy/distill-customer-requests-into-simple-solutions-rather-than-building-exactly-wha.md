@@ -60,8 +60,8 @@ related:
   - INS-260329-F2BB
   - INS-260330-8890
   - INS-260330-2C79
+  - PRI-260406-874A
   - INS-260403-5683
-  - INS-260330-2306
 evidence:
   - id: INS-260323-5CBE
     type: EXTENDS

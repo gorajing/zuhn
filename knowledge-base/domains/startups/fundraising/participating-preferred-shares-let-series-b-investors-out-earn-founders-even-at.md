@@ -53,12 +53,10 @@ related:
   - INS-260322-A31D
   - INS-260330-9B90
   - INS-260403-FAFA
-  - INS-260403-D882
   - INS-260403-248E
   - INS-260403-EA28
   - INS-260403-B98A
   - INS-260330-6204
   - INS-260403-2330
-  - INS-260405-B01A
 ---
 With participating preferred shares, investors receive their initial investment back (the liquidation preference) and then participate pro-rata in the remaining proceeds as if they were common shareholders. In the article's example, at a $200M exit, the Series B investor walks away with $53.2M while Founder One gets $40.5M and Founder Two gets $33.7M — meaning no individual founder out-earns the Series B lead even at a home-run exit. At a $25M exit, founders collectively take home less than $8M while selling the entire company. This makes waterfall modeling before signing term sheets essential. Founders should ask: at what valuation do I earn more than my Series B lead? Am I still incentivized if the company sells for less than a home run? The waterfall isn't just a spreadsheet — it's a strategy tool for evaluating whether deal terms preserve founder motivation across realistic exit scenarios.

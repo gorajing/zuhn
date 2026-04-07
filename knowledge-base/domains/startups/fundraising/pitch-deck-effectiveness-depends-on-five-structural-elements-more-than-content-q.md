@@ -49,9 +49,9 @@ stance: >-
 related:
   - INS-260403-822B
   - INS-260404-63D5
+  - PRI-260406-E880
   - INS-260405-7E50
   - INS-260405-1EFD
-  - INS-260405-CB93
 ---
 The most common pitch deck failure mode is founders spending time on content polish while neglecting structural fundamentals. Investors evaluate decks through a mental checklist: Is the problem clearly framed? Is the market large enough? Is there traction evidence? Does the team have credibility? Is the ask specific and justified?
 

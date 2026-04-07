@@ -48,10 +48,10 @@ stance: >-
   those who defer defensibility
 related:
   - INS-260403-B6F2
+  - PRI-260406-AFA7
   - INS-260404-E5EB
+  - PRI-260406-C4C5
   - INS-260403-9D89
-  - INS-260403-E497
-  - INS-260403-79E0
   - INS-260404-F017
 evidence:
   - id: INS-260403-79E0

@@ -47,7 +47,6 @@ stance: >-
   balloon from a small fraction of the economy into a dominant force that sets
   the tone for everything else.
 related:
-  - INS-260327-3DCB
   - INS-260330-D98E
   - PRI-260322-9E36
   - INS-260404-238B

@@ -59,11 +59,11 @@ related:
   - INS-260323-8896
   - INS-260323-2F50
   - INS-260327-DC65
-  - INS-260327-A8B6
   - INS-260402-0A49
-  - INS-260402-92AE
   - INS-260403-C7A0
   - INS-260403-599B
+  - INS-260403-202E
+  - INS-260404-BA3D
 ---
 Juicero's failure is often told as a story about absurd product design, but the more instructive reading is about value proposition clarity. The company never convincingly answered the question a customer would immediately ask: what does this $700 machine do that justifies its cost over a $10 bottle of juice or squeezing a pack by hand? When a Bloomberg reporter demonstrated the answer was 'nothing,' the company had no defense because it had never built one.
 

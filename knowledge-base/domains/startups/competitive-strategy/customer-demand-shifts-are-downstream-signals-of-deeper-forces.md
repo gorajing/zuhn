@@ -49,14 +49,13 @@ stance: >-
   trace demand changes to their root cause build more durable competitive
   advantages.
 related:
-  - INS-260321-4B99
   - INS-260322-DAF2
   - INS-260327-4431
   - INS-260403-AEAF
   - INS-260325-B234
   - INS-260403-535C
+  - INS-260321-4B99
   - INS-260405-FC36
-  - INS-260327-D129
 evidence:
   - id: INS-260325-B234
     type: EXTENDS

@@ -44,13 +44,12 @@ stance: >-
   consumer demand that businesses need to sell their products, creating a
   fundamental economic paradox with no market-based solution.
 related:
+  - PRI-260406-6DBE
   - INS-260327-3A81
   - INS-260404-29AF
   - INS-260403-063E
   - PRI-260328-D401
-  - PRI-260321-7307
   - INS-260327-40D5
-  - INS-260405-4F2B
   - INS-260403-2FB2
 evidence:
   - id: INS-260322-F6AA

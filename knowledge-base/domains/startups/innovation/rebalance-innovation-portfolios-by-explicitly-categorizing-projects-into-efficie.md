@@ -47,10 +47,10 @@ stance: >-
   transformative tiers is required for breakthrough outcomes
 related:
   - INS-260403-E556
+  - PRI-260406-F72A
+  - PRI-260406-A7EC
+  - PRI-260406-DE8A
   - INS-260403-6AB5
-  - INS-260403-5C06
-  - INS-260404-2DB4
-  - INS-260403-6602
 evidence:
   - id: INS-260403-6602
     type: CHALLENGES

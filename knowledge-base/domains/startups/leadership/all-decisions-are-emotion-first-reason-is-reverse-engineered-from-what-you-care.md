@@ -49,11 +49,11 @@ resolutions:
 related:
   - INS-260325-E9B1
   - INS-260325-AE23
+  - PRI-260406-3BB5
   - INS-260403-C313
+  - PRI-260406-CF83
   - INS-260404-2F16
-  - INS-260327-C316
-  - INS-260330-5A66
-  - INS-260404-1678
+  - PRI-260406-5ECB
 stance: >-
   People decide based on what they care about first, then construct rational
   justifications — which makes reason itself an emotion-based process.

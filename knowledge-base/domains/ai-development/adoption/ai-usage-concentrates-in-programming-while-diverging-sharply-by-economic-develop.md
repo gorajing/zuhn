@@ -51,10 +51,10 @@ stance: >-
   education and learning
 related:
   - PRI-260322-9E36
+  - PRI-260406-6C43
+  - PRI-260406-0EC6
+  - PRI-260406-D802
   - PRI-260321-0A4D
-  - INS-260403-D540
-  - INS-260323-1643
-  - INS-260325-BC2A
 ---
 The Anthropic Economic Index reveals that AI usage is not uniformly distributed globally. Programming dominates across all regions, but the second-order use cases diverge sharply by income level. Advanced economies deploy AI for professional collaboration, workflow optimization, and knowledge work augmentation. Emerging markets lean heavily toward academic support and learning tasks.
 

@@ -47,9 +47,9 @@ related:
   - INS-260402-C98A
   - INS-260405-A4DB
   - PRI-260328-99F0
-  - INS-260404-8746
+  - PRI-260406-1911
   - INS-260329-E44D
-  - INS-260403-4874
+  - INS-260404-8746
 stance: >-
   Factory capacity for DRAM and NAND is fixed, but AI demand pays so much more
   that producers shifted mass production lines to HBM

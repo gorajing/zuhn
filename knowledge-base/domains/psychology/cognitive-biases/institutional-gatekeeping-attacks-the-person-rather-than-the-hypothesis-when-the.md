@@ -53,11 +53,11 @@ stance: >-
   established institutions default to attacking the claimant's credentials
   rather than engaging with the specific evidence
 related:
+  - PRI-260406-C1EF
+  - PRI-260406-07C2
   - INS-260405-B32E
+  - PRI-260406-A33C
   - INS-260402-476E
-  - INS-260322-AB55
-  - INS-260405-585D
-  - INS-260403-11F9
 evidence:
   - id: INS-260323-216A
     type: CHALLENGES

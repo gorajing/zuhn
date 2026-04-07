@@ -44,14 +44,12 @@ stance: >-
   Maintaining at least 18 months of runway is not just survival math—it's a
   signal that triples the probability of securing subsequent investment rounds.
 related:
-  - INS-260326-8798
-  - INS-260327-088E
   - INS-260403-2A30
   - INS-260403-8C2D
+  - PRI-260406-1A4D
   - INS-260402-2300
   - INS-260403-A538
   - INS-260403-A486
   - INS-260404-9696
-  - INS-260403-A752
 ---
 The 18-month runway threshold functions as both a practical buffer and a credibility signal. Practically, fundraising itself takes 3-6 months, so starting with less than 18 months means you'll be negotiating from a position of desperation by the time term sheets arrive. As a signal, it tells VCs that founders understand burn rate management and can allocate capital efficiently—a proxy for how they'll steward the next round. The 3x follow-on likelihood statistic suggests this is one of the highest-leverage financial metrics founders can optimize. The implication is counterintuitive: sometimes raising less money at better terms and running leaner is superior to raising a larger round that creates burn rate expectations you can't sustain.

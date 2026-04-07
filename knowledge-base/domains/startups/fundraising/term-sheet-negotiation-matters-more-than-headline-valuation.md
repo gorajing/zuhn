@@ -50,10 +50,11 @@ related:
   - INS-260328-0C4C
   - INS-260330-975D
   - INS-260403-B6AB
-  - INS-260403-7190
+  - PRI-260406-0A98
   - INS-260403-C8F0
+  - PRI-260406-8987
+  - PRI-260406-4B0E
   - INS-260402-3D34
-  - INS-260330-AF2B
 ---
 A common founder mistake is treating valuation as the primary metric of a good fundraise. In reality, aggressive liquidation preferences (like 2x participating) can mean VCs take double their investment before anyone else gets paid in an exit. Board control and voting rights determine who makes key company decisions post-funding. A higher valuation can also set dangerous expectations that lead to painful down rounds later.
 

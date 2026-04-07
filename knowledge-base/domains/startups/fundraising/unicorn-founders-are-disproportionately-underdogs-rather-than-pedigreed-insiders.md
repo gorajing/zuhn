@@ -51,7 +51,7 @@ related:
   - INS-260405-93AE
   - INS-260403-76E5
   - INS-260404-238B
+  - PRI-260406-FC94
   - INS-260403-D870
-  - INS-260404-BEBB
 ---
 A TechCrunch-reported study finding that most unicorn founders are 'underdogs' challenges the VC industry's persistent pattern-matching toward pedigreed founders (Stanford/MIT, FAANG alumni, repeat founders). If outsider perspective and resilience-from-adversity are actually stronger predictors of breakout success, then the industry's screening heuristics systematically filter out the highest-potential founders. The simultaneous rise of female founders reaching unicorn status reinforces this—previously excluded groups are proving the pattern-matching was filtering signal, not noise. For founders without traditional credentials, this data is ammunition in fundraising conversations.

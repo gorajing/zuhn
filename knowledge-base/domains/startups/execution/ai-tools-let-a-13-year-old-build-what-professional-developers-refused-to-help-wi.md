@@ -49,11 +49,11 @@ stance: >-
   products that a 13-year-old with no professional coding experience can build
   and ship a general AI agent that gets paying customers.
 related:
+  - PRI-260406-806C
   - INS-260323-BF81
   - INS-260329-F4E4
   - INS-260323-FCBB
   - INS-260403-4819
-  - INS-260404-1CC0
 ---
 Goldstein had an idea for a general AI agent but every developer he contacted refused to help—probably because of his age. So he built it himself using AI coding tools, supplemented with weekly coding lessons. He went from idea to launched product to first paying customer (via Stripe) as a 13-year-old building after school.
 

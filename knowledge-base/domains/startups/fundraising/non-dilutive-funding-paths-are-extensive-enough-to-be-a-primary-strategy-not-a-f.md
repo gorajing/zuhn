@@ -54,10 +54,10 @@ stance: >-
   represents a significant strategic blind spot.
 related:
   - INS-260403-A3DA
+  - PRI-260406-E542
   - INS-260403-65AC
   - INS-260403-3A2C
-  - INS-260405-1A59
-  - INS-260405-5BA9
+  - PRI-260406-EE38
 ---
 Most fundraising advice assumes equity rounds as the primary capital formation strategy, with non-dilutive sources treated as supplementary. But when you catalog the actual landscape—government grants, revenue-based financing, corporate credits, prizes, venture debt—the sheer volume suggests a different framing. For many startups, especially those with early revenue or operating in sectors with active grant programs, non-dilutive capital can fund significant runway without cap table dilution.
 

@@ -46,11 +46,11 @@ stance: >-
   building speeds-and-feeds features for power users rather than complete
   products that can scale across the market.
 related:
+  - PRI-260406-CCAE
   - INS-260330-DE1D
   - INS-260323-19A8
   - INS-260326-291C
   - INS-260403-B835
-  - INS-260403-6890
 evidence:
   - id: INS-260403-6890
     type: SUPPORTS

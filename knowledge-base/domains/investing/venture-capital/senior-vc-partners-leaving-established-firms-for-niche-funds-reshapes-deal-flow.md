@@ -52,6 +52,7 @@ related:
   - INS-260404-12FB
   - INS-260403-8441
   - INS-260404-7679
+  - PRI-260406-8F89
 ---
 A notable trend in the venture landscape is senior partners departing established, generalist VC firms to create smaller, thesis-driven niche funds. This signals that experienced investors see more opportunity in deep specialization than in the generalist megafund model.
 

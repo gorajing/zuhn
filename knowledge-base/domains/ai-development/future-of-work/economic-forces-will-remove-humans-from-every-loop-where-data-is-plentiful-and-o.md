@@ -54,10 +54,10 @@ stance: >-
 related:
   - INS-260404-CC79
   - PRI-260328-D401
+  - PRI-260406-6DBE
   - PRI-260321-7307
   - PRI-260325-6400
   - PRI-260405-C27E
-  - INS-260403-C5BD
 ---
 Noah Smith identifies three conditions under which keeping humans in the loop becomes un-economical: plentiful data, verifiable outputs, and no physical bottlenecks. Software development was the first major domain to meet all three, and biology research is rapidly approaching the same threshold. The key insight is that this isn't a choice any individual company makes—it's an emergent property of market competition. Any firm that maintains costly human oversight will be outcompeted by one that doesn't.
 

@@ -51,9 +51,10 @@ stance: >-
 related:
   - INS-260330-E8BD
   - INS-260330-FB9C
+  - PRI-260406-7C54
   - PRI-260323-F193
   - INS-260329-E839
-  - PRI-260403-ABDE
+  - PRI-260406-FA5B
 evidence:
   - id: INS-260330-E8BD
     type: SUPPORTS

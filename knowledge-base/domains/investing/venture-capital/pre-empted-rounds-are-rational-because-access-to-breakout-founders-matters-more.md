@@ -44,10 +44,10 @@ stance: >-
   cheaper than missing the deal entirely because price sensitivity destroys
   returns at the tail.
 related:
+  - PRI-260406-C6C3
   - INS-260403-3562
   - INS-260405-2703
   - INS-260403-8441
-  - INS-260404-77CD
-  - INS-260403-2330
+  - PRI-260406-901E
 ---
 Pre-empted rounds appear expensive by conventional valuation metrics, but they exist because the venture power law makes entry price nearly irrelevant for top-percentile outcomes. When a company returns 100x, paying 2x the 'fair' valuation still yields 50x — while hesitating means losing access entirely. The real edge is not negotiating price but identifying and backing the right founders before consensus forms. This reframes pre-emption not as overpaying but as rational pricing of optionality on access to outlier outcomes.

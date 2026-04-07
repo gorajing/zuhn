@@ -48,12 +48,11 @@ stance: >-
   existentially dangerous because investor interest is inherently fickle and
   unpredictable
 related:
-  - INS-260402-E522
   - PRI-260403-26B9
   - INS-260330-B6FA
   - INS-260405-B967
+  - PRI-260406-2E0D
   - INS-260404-64EC
-  - INS-260405-5BA9
 ---
 Even with steep revenue growth (5x+ annually), investor interest can never be fully counted on. Something about your business can always spook investors regardless of growth metrics. Graham advises founders to write down precisely what they'll do to survive without more money and precisely when they'll switch to that plan.
 

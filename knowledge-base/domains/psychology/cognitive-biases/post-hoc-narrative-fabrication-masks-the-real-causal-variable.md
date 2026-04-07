@@ -42,12 +42,12 @@ stance: >-
   complexity feels more credible than simplicity.
 related:
   - INS-260325-FA86
-  - INS-260329-FAE2
   - INS-260330-2C97
   - INS-260330-7CFB
   - INS-260330-984C
   - INS-260403-6F65
-  - INS-260404-94EB
+  - PRI-260406-99B2
+  - INS-260329-FAE2
 evidence:
   - id: INS-260325-FA86
     type: SUPPORTS

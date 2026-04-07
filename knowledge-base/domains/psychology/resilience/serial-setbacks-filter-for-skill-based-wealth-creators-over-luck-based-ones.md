@@ -48,13 +48,12 @@ stance: >-
   genuine wealth-creation skill rather than a sign of poor judgment.
 related:
   - INS-260323-85E7
-  - PRI-260328-26AA
-  - INS-260329-0117
   - INS-260329-89ED
+  - PRI-260406-12D7
+  - PRI-260328-26AA
   - INS-260404-EEAF
   - INS-260403-6386
   - PRI-260327-5635
-  - INS-260325-0688
 evidence:
   - id: INS-260404-EEAF
     type: SUPPORTS

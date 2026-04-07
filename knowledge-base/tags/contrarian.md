@@ -1,9 +1,9 @@
 # Tag: contrarian
 
-- `INS-260403-A739` Karp maintained contrarian positions for 20 years while being called a failure, and that tolerance for ostracism was itself a competitive advantage.
 - `INS-260403-30A5` The best VC entry point is when most risk is resolved but most investors still hesitate.
 - `INS-260405-5EB2` Peak-consensus forecasts of national rise historically coincide with the onset of structural decline.
 - `INS-260322-06EA` Every round of Facebook, Stripe, and similar companies was called 'insane' by consensus — Yuri Milner invested at $5B because he'd run a social network and could do math others couldn't.
+- `INS-260403-A739` Karp maintained contrarian positions for 20 years while being called a failure, and that tolerance for ostracism was itself a competitive advantage.
 - `INS-260327-D570` The biggest opportunities come from tools that expose broken systems rather than perpetuating them.
 - `INS-260403-4788` If experts are contemptuous of your approach, you may have found a structural advantage they can't access.
 - `INS-260403-943D` Deliberately generating 'bad' ideas is the path to genuinely differentiated branding in commodity markets.

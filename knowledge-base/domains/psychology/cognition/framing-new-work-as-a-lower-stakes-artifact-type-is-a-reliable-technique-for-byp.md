@@ -62,8 +62,8 @@ related:
   - INS-260405-7B8D
   - INS-260404-AD21
   - INS-260404-D66A
+  - PRI-260406-5CA8
   - INS-260405-F402
-  - INS-260403-E7A7
 ---
 Graham identifies a specific cognitive technique used across disciplines: starting a project under a label that implies low standards, then escalating after momentum exists. A painter begins 'just a sketch.' A programmer writes 'just a quick hack.' This is not self-deception about quality — it's a deliberate calibration of the internal critic.
 

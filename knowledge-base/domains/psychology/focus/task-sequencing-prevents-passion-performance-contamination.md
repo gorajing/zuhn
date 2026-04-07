@@ -53,15 +53,14 @@ stance: >-
   task excitement levels produces better overall output.
 related:
   - INS-260323-334D
-  - INS-260323-8726
-  - INS-260327-7CE9
   - INS-260327-E3DE
   - INS-260327-BE49
   - INS-260329-4293
   - INS-260402-D9D0
+  - PRI-260406-A5F0
   - INS-260327-F0C0
   - INS-260403-2B63
-  - INS-260404-D547
+  - INS-260403-0C33
 evidence:
   - id: INS-260323-8726
     type: CHALLENGES

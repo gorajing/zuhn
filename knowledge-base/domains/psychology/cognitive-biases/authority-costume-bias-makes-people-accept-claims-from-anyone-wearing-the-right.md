@@ -45,11 +45,11 @@ stance: >-
   the perceived authority signifiers of the messenger (lab coat, title,
   institutional affiliation), not by the quality of evidence presented.
 related:
+  - PRI-260406-0109
   - INS-260329-55F7
   - INS-260405-390B
   - INS-260329-226C
-  - INS-260405-966C
-  - INS-260329-882A
+  - PRI-260406-430A
 evidence:
   - id: INS-260329-226C
     type: CHALLENGES

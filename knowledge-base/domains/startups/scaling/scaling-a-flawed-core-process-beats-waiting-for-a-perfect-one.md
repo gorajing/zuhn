@@ -52,7 +52,6 @@ stance: >-
   imperfection creates ongoing overhead.
 related:
   - INS-260330-E70C
-  - INS-260330-45A9
   - INS-260330-54ED
   - INS-260330-2F74
   - INS-260330-ED9D
@@ -60,6 +59,7 @@ related:
   - PRI-260403-40D7
   - INS-260405-0806
   - INS-260404-EC33
+  - PRI-260406-4A83
 evidence:
   - id: INS-260330-E70C
     type: TRANSFERS_TO

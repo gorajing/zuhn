@@ -55,16 +55,16 @@ stance: >-
   days, the bottleneck shifts to evaluation, production hardening, and software
   integration rather than disappearing entirely.
 related:
+  - PRI-260406-9780
   - INS-260404-B2AF
   - INS-260403-FFBD
   - PRI-260328-94D4
   - INS-260404-BFAB
-  - PRI-260405-0AC6
   - INS-260327-40DA
-  - PRI-260328-3C01
   - INS-260329-F7F4
   - INS-260329-5EE7
   - INS-260329-C881
+  - INS-260330-1F25
 evidence:
   - id: INS-260321-D484
     type: TRANSFERS_TO

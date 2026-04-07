@@ -53,10 +53,10 @@ stance: >-
   interactions that reductionist analysis deliberately strips away.
 related:
   - INS-260330-E8BD
+  - PRI-260406-7869
+  - PRI-260406-F8E5
   - INS-260330-4329
   - INS-260330-B50A
-  - PRI-260328-36C3
-  - INS-260326-6D76
 evidence:
   - id: INS-260323-2785
     type: SUPPORTS

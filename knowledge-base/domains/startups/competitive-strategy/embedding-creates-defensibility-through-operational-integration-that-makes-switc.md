@@ -50,11 +50,11 @@ stance: >-
   Products that integrate deeply into customer operations create higher
   switching costs than products competing on features or price alone
 related:
+  - PRI-260406-0ACE
   - INS-260402-5E4E
+  - PRI-260406-466E
   - INS-260404-0CA7
-  - INS-260403-415E
-  - PRI-260328-78A5
-  - PRI-260328-8F94
+  - PRI-260406-E9F2
 ---
 Embedding as a durability factor works by integrating your product into customer operations so deeply that replacing it requires significant time, money, and organizational disruption. The key metrics are customer retention rate, net revenue retention, and net revenue expansion through cross-selling — each additional product sold deepens the embed.
 

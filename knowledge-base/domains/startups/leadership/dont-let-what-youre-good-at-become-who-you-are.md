@@ -51,16 +51,16 @@ stance: >-
   company needs something different is how founders lose effectiveness and
   eventually lose their companies.
 related:
-  - INS-260321-99C0
   - INS-260325-ED84
   - INS-260323-DA91
-  - INS-260323-7CA7
   - INS-260323-2B53
   - INS-260325-C2BD
   - INS-260323-C2F1
   - INS-260323-8B89
   - INS-260325-E895
   - INS-260323-2038
+  - INS-260323-B374
+  - INS-260327-70DF
 evidence:
   - id: INS-260321-99C0
     type: TRANSFERS_TO

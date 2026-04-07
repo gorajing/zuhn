@@ -47,9 +47,9 @@ stance: >-
 related:
   - INS-260403-FE91
   - INS-260403-78E2
+  - PRI-260406-22D5
   - INS-260405-F5D8
   - INS-260403-4DFB
-  - INS-260403-B18C
 evidence:
   - id: INS-260403-FE91
     type: EXTENDS

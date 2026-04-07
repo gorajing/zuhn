@@ -50,11 +50,11 @@ stance: >-
   action deserve disproportionate upfront deliberation, yet humans routinely
   underweight this asymmetry.
 related:
+  - PRI-260406-6A1C
   - INS-260330-9733
   - INS-260328-D1B2
   - INS-260330-EEF3
   - INS-260405-7305
-  - INS-260403-AFBC
 evidence:
   - id: INS-260328-D1B2
     type: TRANSFERS_TO

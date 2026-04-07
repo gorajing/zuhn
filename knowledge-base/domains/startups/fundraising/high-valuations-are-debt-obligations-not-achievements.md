@@ -53,10 +53,10 @@ related:
   - INS-260403-D99E
   - INS-260403-2F77
   - INS-260403-27AC
-  - INS-260404-1986
   - INS-260403-3059
   - INS-260403-7DC7
   - INS-260404-7E85
+  - INS-260403-227D
 ---
 Brex's $12.3B peak valuation turned a $5.15B exit — extraordinary by any normal measure — into a perceived failure. When valuation grows faster than the underlying business, founders lose the power to make pragmatic decisions like raising a down round, pursuing a strategic acquisition, or pivoting strategy. The gap between price and reality becomes a structural constraint that limits every move the leadership can make.
 

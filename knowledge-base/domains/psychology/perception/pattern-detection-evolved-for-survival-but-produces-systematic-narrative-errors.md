@@ -50,10 +50,10 @@ stance: >-
   things just happen.
 related:
   - INS-260325-B067
+  - PRI-260406-CC90
   - PRI-260325-45A2
+  - PRI-260406-4F8E
   - INS-260330-125E
-  - PRI-260403-50EF
-  - PRI-260324-2C9F
   - INS-260405-FE57
   - INS-260403-9DB6
 ---

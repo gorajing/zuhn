@@ -45,11 +45,11 @@ stance: >-
   Investors with too much control over startups cause oscillation rather than
   convergence, analogous to novice pilots overcontrolling aircraft
 related:
+  - PRI-260406-9DD4
   - INS-260327-0700
+  - PRI-260406-BAD8
   - INS-260402-EEDB
   - INS-260330-478B
-  - PRI-260403-26B9
-  - INS-260403-E2A7
   - INS-260403-0C2E
 evidence:
   - id: INS-260327-0700

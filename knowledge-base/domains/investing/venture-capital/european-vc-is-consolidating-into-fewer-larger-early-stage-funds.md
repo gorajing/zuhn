@@ -52,7 +52,7 @@ related:
   - INS-260405-B4D2
   - INS-260405-6EE5
   - INS-260403-6E4C
-  - INS-260403-AF3B
+  - PRI-260406-6C6C
 ---
 Cherry Ventures securing $500M for early-stage European startups represents a broader trend of capital consolidation in European venture. When established firms can raise funds of this magnitude for early-stage deals, they crowd out smaller managers competing for the same deals.
 

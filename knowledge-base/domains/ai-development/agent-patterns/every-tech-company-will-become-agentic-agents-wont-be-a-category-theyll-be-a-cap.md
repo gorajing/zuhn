@@ -57,7 +57,6 @@ related:
   - INS-260403-572C
   - INS-260327-25D7
   - INS-260330-9346
-  - INS-260404-AF08
 stance: Agents will follow the same path as 'internet companies' in the 1990s
 evidence:
   - id: INS-260327-6807

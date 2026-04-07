@@ -51,11 +51,11 @@ stance: >-
   disruption, but only if they build agentic capabilities on top of their
   existing moats rather than ceding the interaction layer to AI overlays.
 related:
+  - PRI-260406-EBDB
   - INS-260321-4E98
   - INS-260327-4CB3
   - INS-260322-CCAA
   - INS-260403-11F9
-  - PRI-260328-D5EB
 ---
 B2B SaaS firms hold three assets that pure AI startups cannot easily replicate: proprietary customer data accumulated over years, deep domain expertise encoded in workflows, and hard-won enterprise trust relationships. However, these moats are necessary but not sufficient. The existential threat is not AI replacing SaaS — it is AI overlays sitting between the user and the SaaS product, capturing attention and control while reducing the software to a dumb data backend.
 

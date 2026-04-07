@@ -50,12 +50,13 @@ stance: >-
   companies make faster kill-or-continue decisions than those who rely on
   qualitative judgment alone
 related:
+  - PRI-260406-E431
   - INS-260327-A5F9
+  - PRI-260406-E1D5
   - INS-260402-3FC5
   - PRI-260403-26B9
-  - INS-260405-BCF4
-  - INS-260403-B2ED
   - INS-260403-C1FB
+  - INS-260403-B2ED
 ---
 Corcoran gives every Shark Tank investment a report card every six months, evaluating momentum, cash position, and actual customer feedback. When a company drifts, she stops — not after one more quarter, not after giving them another chance, but immediately. This systematic approach is what separates capital that scales from capital that bleeds out slowly.
 

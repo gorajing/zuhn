@@ -50,10 +50,10 @@ stance: >-
   than those producing only meeting notes or verbal agreements.
 related:
   - INS-260403-0A1C
+  - PRI-260406-7548
   - INS-260405-6433
   - INS-260404-8A18
   - INS-260323-2AE2
-  - INS-260329-70D5
 evidence:
   - id: INS-260323-2AE2
     type: SUPPORTS

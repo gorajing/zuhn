@@ -46,10 +46,10 @@ resolutions:
     non-default choices carefully and commit totally — is what makes them work.
 related:
   - INS-260327-D9C0
+  - PRI-260406-AFA7
+  - PRI-260406-426E
   - INS-260330-BCD8
   - INS-260327-85E2
-  - PRI-260403-6DD6
-  - PRI-260323-2C5C
 stance: Life defaults are like software defaults
 evidence:
   - id: INS-260327-85E2

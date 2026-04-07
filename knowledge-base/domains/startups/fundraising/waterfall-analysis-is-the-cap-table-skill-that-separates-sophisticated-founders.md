@@ -53,12 +53,12 @@ stance: >-
   systematically accept worse deal terms because they cannot see how liquidation
   preferences and participation rights redistribute value
 related:
-  - INS-260403-EA28
   - INS-260403-3C2D
+  - PRI-260406-8987
+  - PRI-260406-CA93
+  - INS-260403-EA28
   - INS-260403-C8F0
-  - PRI-260405-BFAC
-  - INS-260403-1E34
-  - INS-260323-8AB8
+  - PRI-260406-0A98
 ---
 A waterfall analysis calculates how proceeds from a liquidity event flow to each shareholder class based on liquidation preferences, participation rights, and seniority stacking. VCs run these models routinely, but most founders don't—which creates a dangerous information asymmetry at the negotiating table.
 

@@ -50,10 +50,10 @@ stance: >-
 related:
   - INS-260326-80B1
   - INS-260330-4980
+  - PRI-260406-6122
   - PRI-260403-5FC4
   - INS-260403-5427
   - PRI-260328-94D4
-  - INS-260322-F6AA
 evidence:
   - id: INS-260326-80B1
     type: SUPPORTS

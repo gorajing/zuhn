@@ -52,11 +52,11 @@ stance: >-
   exits produce fewer serial founders which depresses future investment — not a
   talent pipeline problem
 related:
+  - PRI-260406-FC94
   - INS-260404-A2AE
   - INS-260404-C9D0
   - INS-260403-227D
   - PRI-260405-E9C5
-  - PRI-260403-26B9
 ---
 The 'pipeline myth' — that there aren't enough qualified women founders — persists despite women earning 27-35% of STEM degrees globally and female-only teams doubling their deal share over the past decade. The real bottleneck is a compounding structural loop: fewer exits → less investor confidence → fewer repeat women founders → fewer visible success stories → back to fewer exits.
 

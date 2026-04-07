@@ -41,10 +41,10 @@ stance: >-
   volatility — systematically destroys margins.
 related:
   - PRI-260328-F0B4
+  - PRI-260406-1F31
+  - PRI-260406-9573
   - INS-260327-194D
-  - PRI-260324-C63E
-  - INS-260403-5D89
-  - INS-260329-72A5
+  - PRI-260406-0ACE
 ---
 Airlines generate enormous revenue but trivial profits because the industry structure — high fixed costs, commodity pricing, unionized labor, fuel volatility — systematically destroys margins.
 

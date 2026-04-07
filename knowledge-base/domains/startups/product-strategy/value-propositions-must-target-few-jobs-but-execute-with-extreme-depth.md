@@ -52,7 +52,6 @@ related:
   - INS-260403-CD74
   - PRI-260403-5DEA
   - INS-260404-D1E2
-  - INS-260403-9B18
 ---
 The instinct to address every customer need is one of the most common product strategy mistakes. The article uses KinetX's laser focus on deep-space navigation as an extreme example — by becoming indispensable in one narrow domain, they made themselves irreplaceable rather than merely useful.
 

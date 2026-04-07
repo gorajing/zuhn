@@ -59,6 +59,7 @@ related:
   - INS-260403-B73A
   - INS-260403-CEB7
   - INS-260405-35DF
+  - PRI-260406-7FE4
   - INS-260405-3098
 ---
 The data from Ben Lang's tracking of tiny teams in tech reveals a pattern: AI-native startups are reaching revenue milestones in months that previously took years with much larger teams. Cursor hit $100M ARR in 21 months with 20 people, Bolt reached $20M ARR in 2 months with 15 people, and Midjourney hit $200M ARR in 2 years with just 10 employees.

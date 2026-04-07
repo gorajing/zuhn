@@ -51,8 +51,8 @@ related:
   - INS-260330-84BD
   - PRI-260328-A4AC
   - INS-260403-B6C6
+  - PRI-260406-0ACE
   - INS-260404-4BC4
-  - INS-260403-D62F
 ---
 If the AI powering agricultural machinery goes rogue, humans can plausibly call in a competing AI system to fix it. This competitive redundancy is an accidental safety feature of market capitalism—no single AI provider has achieved monopoly, even temporarily. The scenario where all AIs collude against humans or where one rogue AI locks out all alternatives requires coordination that market fragmentation makes unlikely.
 

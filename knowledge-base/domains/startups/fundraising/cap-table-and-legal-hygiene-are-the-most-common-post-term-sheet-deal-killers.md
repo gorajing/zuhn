@@ -50,11 +50,11 @@ stance: >-
   convertible note ambiguity, and missing legal documents than due to business
   model concerns.
 related:
+  - PRI-260406-2B0E
   - INS-260403-130A
   - INS-260327-1421
   - INS-260404-943E
   - INS-260328-0C4C
-  - INS-260404-1ADA
 ---
 The article identifies a specific failure pattern: deals that survive business diligence but collapse during confirmatory legal review. Cap table confusion, unreviewed SAFE/note terms, unclear option pools, missing C-Corp verification, legacy shareholder issues, and ambiguous convertible notes are cited as the primary culprits. These are all fixable problems that become unfixable once a term sheet creates time pressure.
 

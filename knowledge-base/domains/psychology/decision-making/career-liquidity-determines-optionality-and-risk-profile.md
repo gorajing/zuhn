@@ -49,10 +49,10 @@ stance: >-
   potential reward but dramatically reduced optionality
 related:
   - INS-260402-2FDF
+  - PRI-260406-6574
   - INS-260329-EE04
   - INS-260404-B640
-  - INS-260403-AAE4
-  - INS-260402-9055
+  - PRI-260406-E5FB
   - INS-260403-9149
 ---
 Applying the investment concept of liquidity to careers reveals an underappreciated dimension of career decisions. Linear, credentialed paths (consulting, medicine, engineering at large firms) function like liquid assets—easily transferable, broadly valued, with clear market pricing. Non-linear paths (founding a company, creative careers, niche expertise) behave like illiquid investments—harder to exit, harder to value, but with potentially outsized returns.

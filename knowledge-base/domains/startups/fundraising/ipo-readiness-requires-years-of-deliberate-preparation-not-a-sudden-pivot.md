@@ -52,13 +52,12 @@ stance: >-
   transformation rather than a last-minute financial exercise achieve better
   public market outcomes.
 related:
-  - INS-260328-93C8
   - INS-260403-05CE
   - INS-260405-C764
+  - PRI-260406-04DB
+  - PRI-260406-F443
   - INS-260404-5963
   - INS-260326-C305
-  - INS-260403-943E
-  - INS-260405-4D20
 ---
 The question of when and how to prepare for an IPO is fundamentally about operational maturity, not market timing. Companies that successfully transition to public markets typically begin building the infrastructure — audited financials, SOX compliance, board composition, investor relations capabilities, and predictable revenue forecasting — years before filing an S-1.
 

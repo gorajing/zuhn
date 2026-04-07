@@ -50,13 +50,13 @@ related:
   - INS-260321-822B
   - INS-260327-4434
   - INS-260330-6411
-  - INS-260403-1085
   - INS-260403-C1D2
   - INS-260322-C472
   - INS-260403-5056
   - INS-260403-9FEB
-  - INS-260403-6694
+  - PRI-260406-FCF0
   - INS-260403-83A4
+  - INS-260404-8E17
 ---
 Accenture's GenAI revenue exceeding all VC-backed startups combined reveals a classic technology adoption pattern: the companies closest to enterprise buyers capture revenue first, even when they didn't build the underlying technology. Consulting firms have existing client relationships, trust, and integration capabilities that let them monetize AI immediately through services.
 

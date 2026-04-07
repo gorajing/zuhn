@@ -42,10 +42,10 @@ resolutions:
     to young talent who think differently about what's possible.
 related:
   - INS-260327-D0F3
+  - PRI-260406-75C2
   - INS-260327-D8D1
   - INS-260330-0346
   - INS-260404-5AC1
-  - INS-260321-7C97
 stance: >-
   Fresh graduates (23-25) who grew up vibe coding think differently and generate
   the best new ideas at AI companies.

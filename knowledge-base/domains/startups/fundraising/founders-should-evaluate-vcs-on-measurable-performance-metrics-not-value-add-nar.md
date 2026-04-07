@@ -53,7 +53,6 @@ stance: >-
   network and support.
 related:
   - INS-260403-C681
-  - INS-260405-F20D
   - INS-260403-7B41
   - INS-260403-7FF8
   - INS-260404-8A02

@@ -50,10 +50,10 @@ stance: >-
   separate GTM engine engineered for American buyer psychology.
 related:
   - INS-260405-7CF9
+  - PRI-260406-B314
   - INS-260405-790A
+  - PRI-260406-CCAE
   - PRI-260327-942E
-  - PRI-260403-0ABD
-  - PRI-260322-8FD4
 ---
 The most common European expansion failure mode is drag-and-dropping home-market GTM into the US. European sales cycles are typically consensus-driven, bottom-up, and long-cycle. US buyers demand urgency—they want demos tomorrow, not next week. They require US-specific value propositions, ROI calculators, enterprise compliance proof (SOC 2), Salesforce integration, and recognizable American logos before forwarding to procurement.
 

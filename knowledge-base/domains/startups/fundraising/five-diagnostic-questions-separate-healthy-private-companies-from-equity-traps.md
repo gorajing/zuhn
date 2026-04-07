@@ -51,6 +51,6 @@ related:
   - INS-260403-914F
   - INS-260403-96A6
   - INS-260403-CD90
-  - INS-260403-F4E7
+  - PRI-260406-CA93
 ---
 The article surfaces five critical diagnostic questions for evaluating late-stage private company equity: (1) Is the company profitable—staying private from strength versus inability to meet public market standards? (2) Have investors been waiting a decade for liquidity—creating pressure that could trigger layoffs or forced exits? (3) Have other employees successfully cashed out equity—if nobody has in 10 years, the equity is functionally worthless? (4) Is cash compensation competitive—below-market salary plus illiquid equity is double jeopardy? (5) Is there a stated exit plan or secondary market access? These questions function as a framework because evasion on any of them is itself informative. A healthy private company that genuinely compensates well will answer all five transparently. Defensiveness or vagueness suggests the equity narrative is more recruiting tool than genuine wealth-sharing mechanism.

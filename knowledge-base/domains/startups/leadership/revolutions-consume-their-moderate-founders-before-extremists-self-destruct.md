@@ -50,13 +50,13 @@ stance: >-
   radicals themselves are destroyed, making the original moderate vision the
   long-term survivor.
 related:
-  - INS-260323-181D
   - INS-260327-968C
   - INS-260327-96A5
   - INS-260403-BA53
   - INS-260403-4E67
   - INS-260403-25F3
   - INS-260327-7A27
+  - PRI-260406-1B8A
   - INS-260404-FDB2
 evidence:
   - id: INS-260327-96A5

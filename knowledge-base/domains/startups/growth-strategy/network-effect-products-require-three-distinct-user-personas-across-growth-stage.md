@@ -52,10 +52,10 @@ stance: >-
   consumers — each requiring fundamentally different product experiences.
 related:
   - INS-260330-3745
+  - PRI-260406-2BC0
   - INS-260405-D660
   - PRI-260328-FD47
   - INS-260323-6414
-  - PRI-260328-1D90
 ---
 Waze's growth unfolded across three stages with incompatible user needs. Stage 1 targeted early adopters who wanted broken, janky functionality they could help fix — showing GPS signal strength and raw map-editing tools. Stage 2 needed passive drivers for GPS data collection, incentivized through gamification. Stage 3 served mass-market users who wanted a polished app and never knew a community built it — requiring Waze to remove beloved power-user features.
 

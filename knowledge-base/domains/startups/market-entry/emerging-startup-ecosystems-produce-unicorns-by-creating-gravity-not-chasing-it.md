@@ -52,10 +52,10 @@ stance: >-
 related:
   - INS-260405-225B
   - INS-260330-DD63
+  - PRI-260406-842D
   - INS-260403-C381
   - INS-260403-5D7D
   - INS-260403-DF45
-  - INS-260403-0A20
 ---
 In 2013, only four ecosystems globally had produced unicorns. By 2020, that number exploded to over 80 distinct regions. This isn't passive diffusion — companies like Develocraft in Gdańsk actively catalyzed their local ecosystem by launching tech conferences, coding academies, and talent attraction programs. They created gravity rather than chasing it elsewhere.
 

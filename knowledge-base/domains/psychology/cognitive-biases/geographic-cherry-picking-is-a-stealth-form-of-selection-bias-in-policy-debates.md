@@ -52,9 +52,9 @@ stance: >-
 related:
   - INS-260403-3DB9
   - INS-260403-A1B6
+  - PRI-260406-A33C
   - INS-260403-CF46
   - INS-260322-AB55
-  - PRI-260403-CCBC
 ---
 When someone cites German asylum-seeker murder rates (5-8x native) in an American immigration debate where asylum-seekers likely commit crimes at 0.3-0.7x native rates, they're engaging in geographic cherry-picking — selecting the jurisdiction whose data supports their conclusion. This is structurally identical to citing only favorable studies in a scientific debate, but it receives far less scrutiny because cross-national comparison feels like 'broadening perspective' rather than selection bias.
 

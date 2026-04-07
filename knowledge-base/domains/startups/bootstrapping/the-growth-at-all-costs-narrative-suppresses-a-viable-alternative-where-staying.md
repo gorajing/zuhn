@@ -47,12 +47,11 @@ stance: >-
   for many founders but is systematically undervalued because the dominant
   startup narrative equates growth with success.
 related:
-  - INS-260403-99B1
   - INS-260403-9D89
   - INS-260403-2759
   - INS-260403-87CF
   - INS-260403-1BEF
+  - INS-260403-99B1
   - INS-260404-7071
-  - INS-260403-1F3F
 ---
 Company of One and The $100 Startup represent a counter-narrative that challenges the VC-backed growth imperative. The article positions these as 'hidden weapons' and 'underrated gems,' which itself reveals the bias—staying small is treated as an alternative rather than a default. Yet for the vast majority of founders (those outside the tiny percentage who achieve venture-scale outcomes), building a profitable small business produces superior personal outcomes in terms of wealth retention, autonomy, and mental health. The ecosystem's fundraising-first culture creates a selection effect where founders pursue growth not because it maximizes their personal utility but because it is the only path that receives social validation and media attention.

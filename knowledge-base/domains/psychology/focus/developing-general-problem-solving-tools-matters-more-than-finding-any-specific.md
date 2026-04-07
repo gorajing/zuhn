@@ -49,11 +49,10 @@ stance: >-
   problems, not just obtaining the answer.
 related:
   - INS-260403-FC4F
+  - PRI-260406-D3E4
   - INS-260325-05FC
   - PRI-260328-8E01
   - INS-260321-AE3F
-  - INS-260323-2117
-  - INS-260325-B206
   - INS-260325-1CE4
   - INS-260330-35CB
 evidence:

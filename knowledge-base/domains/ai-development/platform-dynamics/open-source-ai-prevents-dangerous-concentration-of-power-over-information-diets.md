@@ -54,13 +54,13 @@ related:
   - INS-260323-38EC
   - INS-260321-1A03
   - INS-260322-D0F6
-  - INS-260323-F62A
   - INS-260323-23B9
   - PRI-260328-5464
   - INS-260328-9B8A
   - PRI-260324-DE71
   - INS-260403-C10D
   - INS-260323-CF30
+  - INS-260323-6F66
 stance: >-
   LeCun argues the biggest AI danger is not existential risk but concentration
   of power

@@ -50,8 +50,9 @@ stance: >-
   missions in sustainability, mental health, or financial inclusion build loyal
   communities that outperform feature-based competition on retention.
 related:
-  - INS-260327-FCC4
   - INS-260403-F66B
+  - INS-260327-FCC4
+  - PRI-260406-CCAE
   - INS-260327-0053
   - INS-260403-6DFC
   - INS-260403-9CD9

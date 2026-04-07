@@ -49,10 +49,10 @@ stance: >-
 related:
   - INS-260327-470B
   - INS-260330-ABB1
+  - PRI-260406-407C
   - INS-260403-57FF
   - INS-260403-25EE
   - PRI-260405-E9C5
-  - INS-260327-4DDE
 ---
 Graham argues that making a startup recession-proof is identical to what founders should do anyway: minimize operating costs. The immediate cause of death in startups is always running out of money, so the cheaper you are to run, the harder you are to kill. This is the 'cockroach of the corporate world' strategy.
 

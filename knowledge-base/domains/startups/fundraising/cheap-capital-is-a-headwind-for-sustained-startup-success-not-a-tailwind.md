@@ -53,6 +53,6 @@ related:
   - INS-260404-FD24
   - INS-260404-8321
   - INS-260403-4227
-  - INS-260403-9E82
+  - INS-260403-6694
 ---
 Conventional wisdom holds that low interest rates benefit startups by increasing available risk capital. Chamath's historical analysis suggests the opposite: the largest and most successful cohort of tech startups (27 companies worth $5.4T+) was founded during the 70s and 80s when interest rates peaked in the mid-teens. During ZIRP, markets reward revenue growth with outsized enterprise value, giving companies a perverse incentive to grow at any cost. This produces companies like Uber and Snapchat that have never generated a full year of positive EBITDA, versus Microsoft and Google which were profitable at IPO. Rising rates concentrate capital and talent more intentionally, shake out competition, and force sustainable business models.

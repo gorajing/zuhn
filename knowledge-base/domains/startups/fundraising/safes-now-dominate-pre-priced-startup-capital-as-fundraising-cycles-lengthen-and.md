@@ -46,7 +46,6 @@ stance: >-
   reflects both founder preference for speed and investor adaptation to extended
   price discovery cycles, and this pattern will persist through 2026.
 related:
-  - INS-260328-0C4C
   - INS-260403-6B24
   - INS-260403-AB11
   - INS-260405-6342

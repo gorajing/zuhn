@@ -51,8 +51,8 @@ related:
   - INS-260404-E061
   - INS-260403-54FF
   - INS-260404-0EB2
+  - PRI-260406-CA93
   - INS-260330-D63C
-  - INS-260403-807A
   - INS-260403-0CBA
 ---
 Most SaaS founders treat valuation as a black box, anchoring to outdated Twitter anecdotes or accepting the first offer without a framework to evaluate it. In reality, private SaaS valuations are statistically derivable from three inputs most founders already track: broad market conditions (via the SaaS Capital Index), ARR growth rate (the highest-weighted variable), and Net Revenue Retention.

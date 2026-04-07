@@ -50,8 +50,8 @@ related:
   - INS-260402-9075
   - INS-260403-9A4C
   - INS-260403-B5B7
+  - PRI-260406-BAD8
   - PRI-260403-26B9
-  - INS-260402-2B96
   - INS-260403-9FEA
 ---
 Graham makes a subtle diagnostic distinction: while startups technically die by running out of money, the real pathology is demoralization causing loss of focus. Smart founders don't fail from stupidity — they fail because the psychological weight of a startup grinds them down, causing them to lose the relentless focus that survival requires.

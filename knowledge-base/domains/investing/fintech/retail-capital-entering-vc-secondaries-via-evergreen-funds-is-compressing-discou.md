@@ -51,11 +51,11 @@ stance: >-
   pricing.
 related:
   - INS-260403-087F
+  - PRI-260406-8F89
   - PRI-260323-6A93
   - PRI-260405-E9C5
   - INS-260403-2668
   - INS-260403-8EE8
-  - INS-260404-2250
 ---
 Unlike traditional secondary buyers who demand steep discounts (40-60% of NAV in 2024 for venture portfolios), evergreen funds are willing to pay 85-90% of NAV for top-tier venture assets. Their incentive structure is different—they need steady portfolio turnover to meet quarterly redemption cycles, so they optimize for access rather than bargain hunting. Platforms like Hamilton Lane and StepStone are scaling this model with relatively low minimums for accredited investors.
 

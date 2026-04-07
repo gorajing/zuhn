@@ -63,9 +63,9 @@ related:
   - INS-260326-2259
   - INS-260330-BA71
   - INS-260402-70FD
+  - PRI-260406-69FC
   - INS-260330-CC7D
   - INS-260403-61ED
-  - PRI-260403-5C44
 ---
 Cain's most strategic claim is that career design should start from temperament alignment: you should generally look forward to your days. This sounds obvious but is radical in practice—most career advice assumes you should adapt yourself to whatever role offers the best opportunity, treating temperament as an obstacle to overcome.
 

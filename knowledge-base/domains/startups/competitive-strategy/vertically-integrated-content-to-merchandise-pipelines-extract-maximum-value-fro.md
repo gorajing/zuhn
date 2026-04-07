@@ -53,7 +53,7 @@ related:
   - PRI-260328-F497
   - INS-260327-F2DF
   - PRI-260324-36BF
-  - INS-260327-7C67
+  - PRI-260406-466E
 ---
 Disney monetizes each IP across multiple channels: theatrical release, streaming, theme park attractions, merchandise, cruise lines, Broadway shows. Each channel reinforces the others: the movie drives park attendance, the park drives merchandise sales, and merchandise drives streaming engagement. Competitors who only make movies capture a fraction of the value that Disney extracts from the same IP.
 

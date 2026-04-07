@@ -43,8 +43,8 @@ stance: >-
 related:
   - INS-260323-0683
   - INS-260328-D220
+  - PRI-260406-8F89
   - INS-260405-776D
   - INS-260404-0F6C
-  - INS-260403-A57D
 ---
 Tiger Global closing its fund well below target ($2.2B vs original goal) and DCVC failing to hit its $500M climate fund target signal a broader LP pullback. Yet simultaneously, a survey shows VCs expect to increase deployment in 2024. This mismatch—harder fundraising but optimistic deployment plans—suggests either VCs are drawing down existing dry powder without replenishment, or the optimism is aspirational rather than backed by committed capital. For startups, this means fewer but potentially larger checks from established funds, while emerging managers face existential fundraising pressure.

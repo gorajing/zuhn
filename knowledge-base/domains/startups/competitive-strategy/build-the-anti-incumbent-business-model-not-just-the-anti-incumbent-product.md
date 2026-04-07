@@ -47,13 +47,12 @@ stance: >-
   but proving a fundamentally different business model that makes the
   incumbents' model look exploitative by comparison.
 related:
-  - INS-260322-F6AA
   - PRI-260324-A608
+  - PRI-260406-B331
   - INS-260404-A375
   - PRI-260403-5DEA
-  - INS-260405-1894
+  - INS-260322-F6AA
   - INS-260330-D801
-  - INS-260403-3F10
   - INS-260405-8E2A
 evidence:
   - id: INS-260325-FDF5

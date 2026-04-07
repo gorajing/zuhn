@@ -52,13 +52,12 @@ stance: >-
   outcomes than a seasoned sales hire because they inherently filter out
   technically infeasible customer requests.
 related:
-  - INS-260323-0FDA
   - INS-260327-4754
+  - PRI-260406-CCAE
   - PRI-260323-1B96
   - PRI-260328-04FA
   - INS-260403-ABBB
   - INS-260321-2F09
-  - INS-260330-BEE7
 ---
 PolyAI's CEO Nicola, despite being a researcher by training, built the entire sales engine himself. Wen explains this worked because Nicola was deeply technical — a competitive programmer — so when customers made requests, he could instantly filter what was technically feasible versus impossible. A typical non-technical salesperson would bring back every customer request, many of which would be engineering dead ends.
 

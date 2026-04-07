@@ -65,9 +65,9 @@ related:
   - INS-260403-862D
   - INS-260403-31C2
   - INS-260405-BC10
+  - PRI-260406-75C2
   - INS-260403-57FF
   - INS-260403-4227
-  - INS-260404-8A02
 ---
 When asked whether founders need to be in the US, Lubetzky identified four structural advantages: rule of law, the ability to fail and try again, freedom of expression, and a financial system that rewards ambition. Notably, he omitted commonly cited factors like talent density, university ecosystems, or network effects — focusing instead on institutional infrastructure that takes decades or centuries to build.
 

@@ -48,7 +48,7 @@ related:
   - INS-260403-EA2D
   - INS-260404-5D18
   - INS-260404-B31C
-  - INS-260404-61DA
+  - PRI-260406-6F52
 evidence:
   - id: INS-260404-B31C
     type: REFINES

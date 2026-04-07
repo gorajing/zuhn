@@ -48,13 +48,11 @@ stance: >-
   continuous learning the single most reliable path to superlinear returns.
 related:
   - INS-260323-1F27
-  - INS-260329-6514
   - INS-260330-41A5
   - INS-260330-1C84
   - INS-260330-1AB0
   - INS-260403-B18C
   - INS-260403-C8A9
-  - INS-260402-318B
 evidence:
   - id: INS-260323-1F27
     type: TRANSFERS_TO

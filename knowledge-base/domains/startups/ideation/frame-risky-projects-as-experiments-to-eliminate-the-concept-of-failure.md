@@ -47,7 +47,6 @@ stance: >-
   ventures converts every result into useful knowledge and removes the
   psychological cost of failure
 related:
-  - INS-260329-4A09
   - INS-260402-F957
   - INS-260403-B1F2
   - INS-260403-5C89
@@ -57,6 +56,7 @@ related:
   - INS-260404-6DA9
   - INS-260404-8ACB
   - INS-260404-36B9
+  - INS-260404-A46A
 ---
 When you frame a project as an experiment, the success criteria shift from 'did it work?' to 'did I learn something?' This is not self-deception—it's a more accurate model. If a theorem you're trying to prove turns out to be false, or a structural approach fails under stress, you've genuinely learned something valuable. Failure with a sharply defined problem is itself knowledge.
 

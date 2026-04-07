@@ -50,13 +50,13 @@ stance: >-
 related:
   - INS-260330-6411
   - INS-260402-6BB6
-  - INS-260403-EE10
   - INS-260404-78E0
-  - INS-260403-EA6D
+  - PRI-260406-8F89
   - INS-260404-A893
   - INS-260403-AB11
   - INS-260405-2F43
   - INS-260403-8EE8
-  - INS-260403-64F1
+  - INS-260404-16FB
+  - INS-260403-0618
 ---
 As of Q1 2024, Middle Eastern capital from Gulf states — sovereign wealth funds, family offices, and institutional investors — is increasingly co-investing in European startups. This represents a geographic rebalancing in who provides early-stage capital to European founders, which had previously been dominated by US funds and European VCs. The shift matters because Gulf LPs bring different return horizons, governance expectations, and strategic interests (often tied to national diversification agendas like Saudi Vision 2030). For European founders, this opens new capital sources but may also introduce unfamiliar investor dynamics. For the global venture ecosystem, it signals that capital is becoming more multipolar.

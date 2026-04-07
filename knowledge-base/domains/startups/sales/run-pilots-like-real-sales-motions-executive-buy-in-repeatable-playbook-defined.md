@@ -61,11 +61,11 @@ stance: >-
   playbooks, and defined success metrics convert at dramatically higher rates
   and produce 5x larger deal sizes than casual 'free trial' approaches.
 related:
+  - PRI-260406-1A4D
   - INS-260403-3122
-  - INS-260330-2CE5
-  - PRI-260405-86E0
-  - INS-260403-7318
-  - INS-260405-35DF
+  - PRI-260406-7FE4
+  - PRI-260406-DE8A
+  - PRI-260406-CCAE
 evidence:
   - id: INS-260325-95A6
     type: SUPPORTS

@@ -56,7 +56,6 @@ related:
   - INS-260405-2A34
   - INS-260403-44C4
   - INS-260403-A9C9
-  - INS-260404-57B8
 ---
 The fundraising process mirrors relationship-building: trust accumulates through multiple interactions over time. Founders should use a teaser deck (3-7 slides) for initial email outreach and reserve the full presentation deck (12-15 slides) for in-person meetings. This staged disclosure creates anticipation and gives founders control over the narrative arc. The instinct to share everything upfront — proving legitimacy through exhaustive data — actually undermines the process by eliminating reasons for follow-up meetings and removing the partner's sense of discovery.
 

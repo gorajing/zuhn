@@ -57,7 +57,7 @@ related:
   - INS-260405-3238
   - INS-260403-A08A
   - INS-260327-89C7
-  - INS-260330-178D
+  - PRI-260406-E75B
 ---
 When a visitor's finger hovers over 'Start Now,' their hesitation isn't about features — it's a final nagging question about security, integrations, setup time, or cancellation policy. A mini-FAQ placed beside (not below, not in footer) the primary CTA intercepts this moment. Each answer should be one sentence plus a link for details, covering: compliance (SOC-2/GDPR), integrations (stack compatibility), time to value (setup duration), cancellation policy, and expected ROI.
 

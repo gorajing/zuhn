@@ -50,11 +50,11 @@ stance: >-
   specific languages), they create psychological barriers to adopting superior
   alternatives, reducing their effective competence over time.
 related:
-  - INS-260330-9E1B
+  - PRI-260406-003E
   - INS-260402-AC3D
   - INS-260323-64A4
-  - PRI-260328-BF1E
-  - INS-260327-A4FE
+  - PRI-260406-B9C9
+  - PRI-260406-6762
 evidence:
   - id: INS-260323-64A4
     type: TRANSFERS_TO

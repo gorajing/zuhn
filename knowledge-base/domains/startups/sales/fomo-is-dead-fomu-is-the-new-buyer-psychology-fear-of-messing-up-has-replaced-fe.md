@@ -67,13 +67,12 @@ stance: >-
   de-risk purchases rather than create urgency.
 related:
   - INS-260325-FF45
-  - INS-260323-C8AC
   - INS-260320-39A3
   - PRI-260327-117F
   - INS-260327-1B7C
+  - INS-260323-C8AC
   - PRI-260328-0993
   - INS-260327-747B
-  - INS-260404-CB41
 evidence:
   - id: INS-260325-FF45
     type: TRANSFERS_TO

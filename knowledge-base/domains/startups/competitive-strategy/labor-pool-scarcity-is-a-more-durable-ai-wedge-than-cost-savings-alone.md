@@ -46,10 +46,9 @@ stance: >-
   cheaper alternatives to existing labor.
 related:
   - INS-260327-8997
+  - PRI-260406-834A
   - INS-260327-FCCF
   - INS-260403-ABD1
   - INS-260405-BC10
-  - INS-260403-4227
-  - INS-260403-8874
 ---
 When an AI startup competes on cost against available human labor, it faces a race-to-the-bottom dynamic as other AI tools match the price. But when the startup targets a market where there literally are not enough qualified humans to meet demand, the competitive dynamic fundamentally changes. The AI is not replacing an existing worker at a lower price; it is filling a gap that cannot be filled any other way. The speed of AI execution also compounds this advantage—even if humans were available, the recruiting, training, and supervision timeline cannot match AI deployment speed. This makes labor-scarce verticals the most attractive entry points for AI service companies because the value proposition is existential (something vs. nothing) rather than incremental (cheaper vs. expensive).

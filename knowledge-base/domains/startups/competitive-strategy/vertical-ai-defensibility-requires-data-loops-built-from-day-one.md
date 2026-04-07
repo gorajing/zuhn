@@ -47,16 +47,16 @@ stance: >-
   feedback loops and lock-in mechanisms built from inception create real
   defensibility
 related:
-  - INS-260325-5455
   - INS-260323-E15F
   - INS-260327-F95F
   - INS-260327-C54D
-  - INS-260327-7265
-  - PRI-260328-EC3F
-  - PRI-260328-2014
   - INS-260403-97CA
   - INS-260403-3058
   - INS-260403-CF0E
+  - INS-260404-304E
+  - INS-260403-3725
+  - PRI-260328-EC3F
+  - PRI-260406-901E
 ---
 Euclid Ventures argues that in vertical AI, being first to market is table stakes—it gets you started but doesn't keep you alive. Real defensibility comes from data feedback loops where each customer interaction improves the product in ways competitors can't replicate, combined with switching costs that make leaving painful.
 

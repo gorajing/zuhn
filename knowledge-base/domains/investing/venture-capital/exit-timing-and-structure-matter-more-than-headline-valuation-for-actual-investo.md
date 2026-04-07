@@ -57,11 +57,11 @@ stance: >-
   often matter more than the headline valuation number for determining real cash
   returns to investors.
 related:
+  - PRI-260406-AAA9
+  - PRI-260406-8987
   - INS-260403-F852
   - INS-260403-D500
   - PRI-260328-21AD
-  - INS-260403-4F8E
-  - INS-260405-FFCE
 ---
 Most discussions of startup exits focus on the headline valuation — a $1B IPO or a $500M acquisition. But the actual cash an investor receives depends heavily on structural details: IPO underwriter discounts (typically 5-7%), lock-up periods preventing share sales for 90-180 days post-IPO, and earn-out provisions in acquisitions that tie a portion of proceeds to future performance milestones.
 

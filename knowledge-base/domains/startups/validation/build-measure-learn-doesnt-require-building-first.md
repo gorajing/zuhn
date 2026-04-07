@@ -46,11 +46,11 @@ stance: >-
   Entrepreneurs waste time and resources by building too early — most business
   assumptions can and should be tested without any product development.
 related:
+  - PRI-260406-7ED0
   - INS-260403-7333
   - INS-260329-1ACD
   - INS-260403-0701
   - INS-260329-500E
-  - INS-260403-AC03
 evidence:
   - id: INS-260329-1ACD
     type: TRANSFERS_TO

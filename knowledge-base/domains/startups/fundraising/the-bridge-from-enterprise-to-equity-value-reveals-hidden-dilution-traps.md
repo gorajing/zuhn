@@ -56,8 +56,9 @@ related:
   - INS-260403-9D7C
   - INS-260323-4C43
   - INS-260403-A9F2
-  - INS-260405-484F
-  - PRI-260405-E9C5
+  - PRI-260406-4B0E
+  - PRI-260406-0A98
+  - PRI-260406-3317
   - INS-260403-49FC
 ---
 Enterprise value and equity value are fundamentally different numbers, and the gap between them widens as startups accumulate financing complexity. The bridge calculation subtracts financial liabilities and debt equivalents while adding cash and marketable securities. Convertible debt, outstanding options, and non-controlling interests all chip away at the equity available to common shareholders.

@@ -60,7 +60,6 @@ related:
   - INS-260330-4AAD
   - INS-260327-D6E5
   - INS-260327-8B9A
-  - INS-260403-20F9
 ---
 Xi Jinping's purge of General Zhang Youxia—his personal friend, the most senior uniformed officer, and one of China's few commanders with actual combat experience from the 1979 Vietnam war—marks the most sweeping military purge since Mao's death. The popular theory that purges signal Taiwan invasion preparation fails logical scrutiny: you don't fire every combat-experienced general before starting a war, and newly appointed replacements who just watched their predecessors destroyed would be unreliable war leaders.
 

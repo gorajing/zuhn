@@ -56,7 +56,6 @@ related:
   - INS-260404-1D05
   - INS-260323-0780
   - INS-260327-51C2
-  - INS-260402-1CAD
   - INS-260403-8B13
 ---
 Harris repeatedly directs attention to the quality of awareness itself rather than its contents—sounds, sensations, thoughts all change, but the 'space' in which they appear does not. This is not a metaphysical claim but a phenomenological one: in direct experience, you can notice that the knowing quality of consciousness is identical whether you're observing pleasure or pain, boredom or excitement. The practical application is a fundamentally different emotional regulation strategy. Rather than trying to change mental contents (replace negative thoughts with positive ones, suppress unwanted emotions), you shift identification to the unchanging awareness in which all contents appear. This is more robust because it doesn't depend on successfully controlling mental events—which decades of psychology research shows is unreliable. Instead, it changes the relationship to all events equally, providing equanimity that is not contingent on circumstances.

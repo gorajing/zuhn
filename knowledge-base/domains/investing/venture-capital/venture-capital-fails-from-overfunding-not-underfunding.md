@@ -47,16 +47,16 @@ stance: >-
   Excess capital destroys venture returns by inflating valuations and diluting
   execution quality rather than producing more breakout companies.
 related:
-  - INS-260323-9A29
   - INS-260327-4434
-  - INS-260328-A417
-  - INS-260330-9751
   - INS-260330-D98E
   - INS-260402-D8E7
   - INS-260403-160A
   - INS-260403-16B4
   - INS-260403-358D
-  - INS-260403-862D
+  - INS-260403-37B9
+  - INS-260403-A57D
+  - INS-260403-5F3E
+  - INS-260404-FD24
 ---
 Roelof Botha's 'return-free risk' diagnosis reveals a counterintuitive dynamic: venture capital's problems stem from abundance, not scarcity. With $250B+ deployed annually but only ~20 billion-dollar exits, the math requires 'forty Figmas a year' to justify current capital levels. The excess creates a cascade — valuations rise beyond what public markets sustain (Figma fell below IPO price within four months), talent spreads across undifferentiated startups, and even strong companies can't deliver returns proportional to capital invested.
 

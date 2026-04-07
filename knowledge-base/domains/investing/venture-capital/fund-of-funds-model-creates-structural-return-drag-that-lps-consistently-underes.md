@@ -52,8 +52,8 @@ related:
   - INS-260404-7F24
   - INS-260330-AD13
   - INS-260330-8FEC
+  - PRI-260406-3317
   - INS-260404-8CAE
-  - INS-260402-318B
 ---
 Fund-of-funds vehicles charge management fees and carry on top of the underlying funds' own fee structures, creating a double-fee problem that compounds over the typical 10+ year fund life. The diversification benefit they promise is often illusory because top-performing VC funds are capacity-constrained and rarely accessible through fund-of-funds intermediaries, meaning LPs get diversified access to mediocre funds rather than concentrated access to great ones.
 

@@ -57,8 +57,9 @@ related:
   - INS-260327-F7BC
   - INS-260329-4D06
   - INS-260329-1D3B
+  - PRI-260406-99B2
+  - PRI-260406-69FC
   - INS-260329-CA16
-  - INS-260325-F707
   - INS-260403-8B13
 ---
 When we call someone 'charismatic,' we're actually describing a bundle of micro-behaviors: smiling when people walk in, remembering names, changing vocal tonality, making eye contact, addressing everyone in the room. The shorthand label creates a false sense that the trait is innate and unlearnable. This is a linguistic trap — the compression of behaviors into a single word makes the skill seem monolithic and inaccessible.

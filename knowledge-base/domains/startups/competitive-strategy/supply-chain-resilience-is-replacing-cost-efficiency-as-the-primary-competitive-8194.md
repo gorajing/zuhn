@@ -62,8 +62,8 @@ related:
   - INS-260404-8BC7
   - INS-260403-20ED
   - INS-260405-1CC3
-  - INS-260403-8806
   - INS-260403-2FB2
+  - INS-260403-D543
 ---
 The traditional startup playbook of optimizing supply chains purely for speed and cost—typically centering on Shenzhen manufacturing—is breaking down under tariff pressure. Startups building electronics, robotics, IoT, medtech, and mobility products face cascading cost increases from components through assembly, packaging, and shipping. Companies are scrambling to nearshore to Vietnam, Mexico, or Eastern Europe, with diversification timelines ranging from 3-6 months for contract manufacturers to 6-12 months for custom tooling.
 

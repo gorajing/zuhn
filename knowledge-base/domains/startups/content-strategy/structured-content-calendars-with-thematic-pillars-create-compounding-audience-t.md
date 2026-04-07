@@ -51,11 +51,11 @@ stance: >-
   thematic pillars builds more audience trust and engagement than ad-hoc content
   creation
 related:
-  - INS-260329-BC11
   - INS-260403-4D04
+  - INS-260329-BC11
   - INS-260403-C907
+  - PRI-260406-66BA
   - INS-260329-13D2
-  - PRI-260323-DAB9
 ---
 Chamath structures his content output around five thematic pillars (deep tech, energy transition, healthcare, economic analysis, socio-political trends) with a predictable monthly cadence. Each pillar is chosen because it represents a lens for understanding how the world is changing, not because it's trending.
 

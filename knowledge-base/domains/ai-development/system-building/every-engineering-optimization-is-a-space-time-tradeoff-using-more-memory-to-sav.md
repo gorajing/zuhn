@@ -48,11 +48,11 @@ stance: >-
   decision
 related:
   - INS-260323-6761
+  - PRI-260406-8B75
   - INS-260329-5B50
   - PRI-260405-2DE5
+  - PRI-260406-1ED1
   - PRI-260328-4CC0
-  - INS-260330-CCF0
-  - PRI-260403-52DF
   - INS-260329-F886
 evidence:
   - id: INS-260330-CCF0

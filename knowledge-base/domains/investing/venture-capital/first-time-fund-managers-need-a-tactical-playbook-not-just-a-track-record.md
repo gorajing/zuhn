@@ -55,8 +55,8 @@ related:
   - INS-260403-3AEE
   - INS-260403-118B
   - INS-260325-5455
+  - PRI-260406-8DF5
   - INS-260405-83F0
-  - INS-260404-1A3F
 ---
 First-time fund managers often underestimate how different LP fundraising is from startup fundraising. LPs — family offices, fund-of-funds, endowments — evaluate managers on differentiated thesis, proof of sourcing edge, and team construction, not just individual deal performance. A manager with strong angel returns but no institutional LP relationships needs a conversion strategy that maps to LP concerns: liquidity timeline, fee structure, and GP commitment (skin in the game).
 

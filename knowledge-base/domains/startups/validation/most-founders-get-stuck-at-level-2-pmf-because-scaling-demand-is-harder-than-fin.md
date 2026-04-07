@@ -56,7 +56,7 @@ related:
   - INS-260329-78CB
   - INS-260403-49FB
   - INS-260402-910C
-  - INS-260330-BEE7
+  - PRI-260406-8A97
 ---
 While startup mythology emphasizes the importance of the initial idea (Level 1) or scaling challenges (Level 3-4), the data from First Round Capital shows most founders get stuck at Level 2 — the transition from validated problem to repeatable demand. Common symptoms include spending over 12 months struggling to generate new demand, high churn, slow sales cycles, and lack of urgency from potential customers.
 

@@ -47,11 +47,11 @@ stance: >-
   Incremental tranche-based funding for internal ventures produces better
   innovation outcomes than lump-sum project budgets
 related:
+  - PRI-260406-AC52
   - INS-260403-910E
   - INS-260403-1358
   - INS-260405-B32E
   - INS-260403-DFC3
-  - INS-260403-E172
 ---
 The Chief Venture Capitalist role applies VC financing mechanics inside corporations: angel-sized investments for early cheap experiments, with follow-on funding contingent on evidence of progress. This is the opposite of traditional corporate budgeting where projects receive full funding upfront based on projections rather than validated learning.
 

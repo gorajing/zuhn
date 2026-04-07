@@ -48,11 +48,11 @@ stance: >-
   ability, and CAC efficiency rather than detailed multi-year financial models
   with departmental headcount planning.
 related:
+  - PRI-260406-26B3
+  - PRI-260406-DE8A
   - INS-260403-3BBB
   - INS-260327-4B5A
-  - INS-260403-C837
-  - INS-260403-53B0
-  - INS-260403-44C4
+  - PRI-260406-6533
 ---
 Early-stage investors are not looking at your five-year departmental headcount plan or your 40-tab financial model. They know those projections are largely fiction at the seed stage. What they actually want to evaluate is the health of your revenue engine: Can you retain customers? Can you expand them? Is your acquisition capital-efficient?
 

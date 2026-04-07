@@ -44,7 +44,6 @@ stance: >-
   capital.
 related:
   - INS-260328-982A
-  - INS-260403-9173
   - INS-260403-FE3B
   - INS-260403-1B96
   - INS-260404-5988

@@ -53,11 +53,11 @@ stance: >-
   too fast, while bio and techbio patents remain enforceable and strategically
   valuable
 related:
+  - PRI-260406-28E1
   - PRI-260403-C34A
+  - PRI-260406-E015
+  - PRI-260406-358C
   - INS-260403-2457
-  - PRI-260325-3A00
-  - INS-260325-90C6
-  - INS-260405-4053
 ---
 NFX explicitly states that intellectual property is 'not typically an effective strategy' in software because the field moves too quickly for patents to stick. This is a significant claim given how much startup advice emphasizes IP as a competitive advantage. The implication is that software founders should invest their defensibility efforts into the other four factors (network effects, scale, brand, embedding) rather than patent portfolios.
 

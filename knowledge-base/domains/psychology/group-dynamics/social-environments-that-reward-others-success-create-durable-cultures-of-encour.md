@@ -59,8 +59,8 @@ related:
   - INS-260405-339F
   - INS-260402-7B04
   - INS-260404-86DE
+  - PRI-260406-21DA
   - INS-260329-0014
-  - INS-260403-BDE0
 ---
 Graham makes a subtle observation about how Silicon Valley's supportive culture formed: it didn't start from moral superiority but from aligned incentives. Investors explicitly profit from founders' success. Employees hope to rise with successful companies. Even casual acquaintances benefit from association with someone who later becomes famous. Over decades, this self-interested encouragement practiced so consistently that it calcified into genuine custom — people now encourage startups because that's simply what one does.
 

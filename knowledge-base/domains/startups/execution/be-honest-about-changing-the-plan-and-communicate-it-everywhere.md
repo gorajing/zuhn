@@ -46,11 +46,11 @@ stance: >-
   irrational—the best founders honestly acknowledge the plan has changed and
   communicate the new plan to investors, board, employees, and themselves.
 related:
+  - PRI-260406-E431
   - INS-260323-7D01
   - INS-260403-0BD4
   - INS-260325-F451
   - INS-260325-17BF
-  - INS-260402-7FCC
 evidence:
   - id: INS-260402-7FCC
     type: CHALLENGES

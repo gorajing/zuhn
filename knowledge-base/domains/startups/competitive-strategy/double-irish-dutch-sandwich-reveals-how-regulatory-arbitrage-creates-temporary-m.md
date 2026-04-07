@@ -49,12 +49,11 @@ stance: >-
   competitive advantages that inevitably get legislated away, making them
   unreliable strategic moats.
 related:
-  - INS-260330-247C
+  - PRI-260406-7B76
   - INS-260403-7219
   - INS-260405-71E1
   - PRI-260328-33E5
   - INS-260403-B7C6
-  - PRI-260405-6216
   - INS-260403-4093
 evidence:
   - id: INS-260330-F79F

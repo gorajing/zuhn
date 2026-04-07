@@ -48,9 +48,9 @@ related:
   - INS-260327-6D57
   - INS-260403-9681
   - INS-260403-5683
+  - PRI-260406-07C2
   - PRI-260323-8EEA
   - PRI-260403-88F5
-  - INS-260405-ECCD
 ---
 Many founders conflate vocal frustration with market demand, but people complain freely about things they would never pay to fix. The gap between 'this annoys me' and 'I will pay $X/month to solve this' is enormous. Effective validation requires looking for urgency signals — are people actively searching for solutions, cobbling together workarounds, or expressing time pressure? The $40K mistake in this case study originated from treating Reddit complaints as demand proof without testing whether anyone would actually convert to a paying customer.
 

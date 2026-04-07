@@ -51,8 +51,7 @@ related:
   - PRI-260405-E9C5
   - PRI-260403-26B9
   - INS-260404-EFA0
-  - INS-260403-CF7C
-  - INS-260403-AF3B
+  - PRI-260406-4397
   - INS-260404-6D4D
 ---
 Corporate venture capital has reached critical mass in Europe, participating in one of every four startup deals, with 89% of corporate investors signaling they'll maintain or increase activity. This shifts CVC from a nice-to-have to a strategic imperative for European founders. However, CVC money comes with strings: strategic alignment requirements, potential acquisition dynamics, and slower decision-making. Smart founders use CVC for distribution advantages and domain expertise while structuring terms that preserve optionality. The key insight is that ignoring CVCs now means ignoring 25% of the available capital pool—but accepting CVC without understanding the strategic implications can constrain future exits.

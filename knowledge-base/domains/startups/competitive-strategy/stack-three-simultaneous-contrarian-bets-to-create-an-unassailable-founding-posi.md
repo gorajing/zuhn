@@ -51,9 +51,9 @@ resolutions:
 related:
   - INS-260405-95CB
   - INS-260322-0247
+  - PRI-260406-9866
   - PRI-260405-6216
   - INS-260405-5C3F
-  - INS-260330-7ED0
 stance: >-
   Robinhood succeeded by combining three bets that were each individually
   contrarian (zero commissions, mobile-first, populist brand) into a single o...

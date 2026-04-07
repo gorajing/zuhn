@@ -42,11 +42,10 @@ stance: >-
   Startups that aim only for 'viable' in their MVP will lose to competitors who
   build competitively positioned products from launch
 related:
-  - INS-260403-876D
   - INS-260404-462B
   - INS-260404-95BA
-  - INS-260403-44FF
   - INS-260404-C501
+  - PRI-260406-9866
   - INS-260403-5DD7
   - INS-260323-1D15
   - INS-260322-F128

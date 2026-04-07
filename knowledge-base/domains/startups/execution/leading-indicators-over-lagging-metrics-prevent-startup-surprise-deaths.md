@@ -47,9 +47,9 @@ related:
   - INS-260327-747B
   - PRI-260328-0993
   - PRI-260327-942E
+  - PRI-260406-BAD8
   - INS-260327-D0F4
   - INS-260405-F691
-  - PRI-260328-6A8D
   - INS-260405-C8B2
 ---
 Revenue and signups are lagging indicators: by the time they decline, the underlying problem has been compounding for weeks or months. The article identifies return rates, cancellation trends, and average order value changes as the early-warning metrics that separate proactive founders from reactive ones. A sudden spike in returns or a gradual decline in AOV signals product-market fit erosion, pricing problems, or customer segment shifts long before they show up in top-line revenue. The operational discipline here is monitoring the rate of change in these secondary metrics, not just their absolute values. Founders who build this habit can intervene while problems are still small and fixable rather than discovering them during a crisis.

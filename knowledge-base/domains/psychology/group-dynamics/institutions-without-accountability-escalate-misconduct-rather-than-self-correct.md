@@ -50,11 +50,11 @@ stance: >-
   aggression rather than moderating behavior, because the absence of
   repercussions signals that escalation is safe.
 related:
+  - PRI-260406-F937
   - INS-260330-59BC
   - INS-260403-3D8C
   - PRI-260405-0676
   - INS-260403-6861
-  - PRI-260324-1A67
 ---
 When organizations face criticism for misconduct but experience no actual consequences, the rational institutional response is escalation rather than reform. The ICE pattern illustrates this clearly: after the killing of Renee Good drew widespread criticism, agents became more aggressive rather than more cautious — one told a protester 'Have y'all not learned from the past couple days?' and another kicked over memorial candles.
 

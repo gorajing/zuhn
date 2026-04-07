@@ -48,12 +48,14 @@ stance: >-
   fixed-size equity rounds because it aligns investor incentives with
   risk-taking rather than herd behavior
 related:
+  - PRI-260406-FD1C
+  - PRI-260406-9226
   - INS-260403-A057
   - INS-260403-BED6
   - INS-260403-8421
+  - INS-260402-FC79
   - INS-260402-9055
   - INS-260403-5151
-  - INS-260402-FC79
 evidence:
   - id: INS-260402-40D7
     type: TRANSFERS_TO

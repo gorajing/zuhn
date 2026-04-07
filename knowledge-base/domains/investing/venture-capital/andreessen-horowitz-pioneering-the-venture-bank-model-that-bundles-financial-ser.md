@@ -54,11 +54,10 @@ evidence:
     classified_at: '2026-04-06'
 related:
   - INS-260322-03DD
+  - PRI-260406-710D
   - INS-260403-37FC
   - INS-260404-7679
   - INS-260403-B301
-  - INS-260405-2F43
-  - INS-260404-F493
 ---
 Andreessen Horowitz has evolved from a traditional venture fund into what's being called a 'venture bank' — a platform that combines venture investing with broader financial services, media operations, and strategic advisory. This model goes beyond the standard GP/LP structure by creating multiple revenue streams and deeper portfolio company lock-in.
 

@@ -50,14 +50,13 @@ stance: >-
   than genuine expansion of the venture asset class.
 related:
   - INS-260327-3788
-  - INS-260329-A6EA
   - INS-260403-4A9E
   - INS-260403-AAAC
+  - PRI-260406-FBCE
   - INS-260405-6EE5
   - INS-260405-2F43
   - INS-260403-118B
   - INS-260404-FA1E
-  - INS-260404-238B
 ---
 The newsletter documents concurrent mega-fund launches: Cisco's $1B AI fund, multiple new crypto funds from Gate.io and RW3/Mubadala/Raptor, and Forbion's €2B life sciences funds. This pattern of capital clustering around narrative-driven sectors is a recurring feature of venture markets where LP capital follows recent returns rather than forward-looking opportunity.
 

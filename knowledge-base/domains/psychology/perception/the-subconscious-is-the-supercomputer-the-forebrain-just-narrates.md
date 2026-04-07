@@ -48,13 +48,13 @@ resolutions:
 related:
   - INS-260325-BE19
   - INS-260325-95EB
+  - PRI-260406-90C7
   - INS-260404-8E68
+  - PRI-260406-3BB5
   - INS-260403-E554
-  - INS-260403-C313
-  - INS-260330-7A80
   - INS-260323-7C3A
   - INS-260330-487E
-  - INS-260330-3BBC
+  - INS-260330-7A80
   - INS-260330-9931
 stance: >-
   Paul Conti's framework: 90% of our decision-making is driven by the

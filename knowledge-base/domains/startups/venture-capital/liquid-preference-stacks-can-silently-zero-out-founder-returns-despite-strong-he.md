@@ -46,9 +46,9 @@ stance: >-
   because investor preferences absorb all proceeds.
 related:
   - INS-260403-EA28
+  - PRI-260406-0A98
+  - PRI-260406-CA93
+  - PRI-260406-8987
   - INS-260403-EEE6
-  - INS-260403-0BD4
-  - INS-260405-484F
-  - INS-260403-36DB
 ---
 The FanDuel case illustrates a recurring trap: a company achieves a unicorn private valuation, but layered liquidation preferences, participating preferred terms, and governance provisions mean founders and early employees receive nothing at exit. The headline number is a distraction from the actual distribution mechanics. Modeling the waterfall—not just the valuation—is the critical skill. Founders should stress-test exit scenarios at 0.5x, 1x, 2x, and 5x against the current cap table before accepting terms, and push for non-participating preferred or caps on participation. Alignment of governance early determines who actually wins.

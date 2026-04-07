@@ -49,11 +49,11 @@ stance: >-
   produces more robust systems because it forces developers to enumerate and
   handle each failure mode explicitly.
 related:
+  - PRI-260406-A0D6
   - INS-260329-3FC9
   - INS-260329-D8F2
   - INS-260329-3441
   - INS-260329-4D24
-  - INS-260329-9010
 evidence:
   - id: INS-260329-D8F2
     type: TRANSFERS_TO

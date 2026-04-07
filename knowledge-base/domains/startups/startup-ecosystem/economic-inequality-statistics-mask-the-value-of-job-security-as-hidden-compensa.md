@@ -54,11 +54,11 @@ stance: >-
   Measured inequality appears higher in market economies partly because job
   security — a real form of wealth — is excluded from economic statistics
 related:
+  - PRI-260406-A33C
   - PRI-260328-6CDE
   - INS-260405-D3D7
   - PRI-260323-81E9
   - INS-260405-966C
-  - INS-260330-0A95
 evidence:
   - id: INS-260405-966C
     type: EXTENDS

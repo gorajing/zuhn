@@ -56,7 +56,6 @@ related:
   - PRI-260328-21AD
   - INS-260403-CC4E
   - INS-260403-9106
-  - INS-260403-BE18
 ---
 NFX frames the core opportunity for fintech-enabled marketplaces not as generic digitization but as resolving structurally misaligned incentives. In a car sale, the dealer maximizes sale price, the trade-in team minimizes purchase price, and the financing team maximizes APR — each participant optimizing for a different objective at the customer's expense.
 

@@ -61,7 +61,7 @@ related:
   - INS-260403-4964
   - INS-260403-4DFB
   - INS-260403-EF2C
-  - INS-260402-89DE
+  - PRI-260406-9D48
 ---
 Chris Best describes Substack's evolution as moving from weak to strong network effects. In the early days, Substack was valuable as a standalone tool — writers could publish and get paid even without the network. This is a weak network effect: useful alone, better together. As the platform added discovery, recommendations, and social features, it crossed into strong network effect territory where each new quality writer measurably increases value for readers, and each new reader measurably increases opportunity for writers.
 

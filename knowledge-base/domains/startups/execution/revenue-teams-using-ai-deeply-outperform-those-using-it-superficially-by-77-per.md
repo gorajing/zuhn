@@ -49,11 +49,11 @@ stance: >-
   Frequent AI adoption with redesigned workflows drives dramatically higher
   revenue per rep than surface-level AI tooling
 related:
-  - INS-260321-822B
   - INS-260403-DAFA
   - INS-260405-35DF
+  - PRI-260406-7FE4
+  - INS-260321-822B
   - INS-260403-1B8C
-  - INS-260403-CBFF
 ---
 The highest-performing revenue teams in 2025 diverged from the traditional growth playbook of hiring more reps. Instead, they focused on output per rep by deeply integrating AI into their workflows — not just adding chatbot tools, but fundamentally redesigning processes around AI capabilities. Gong's data shows this approach yielded roughly 77% higher revenue per rep compared to average teams.
 

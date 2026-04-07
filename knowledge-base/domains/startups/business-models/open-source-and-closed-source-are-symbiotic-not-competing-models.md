@@ -44,7 +44,7 @@ related:
   - INS-260327-9AD8
   - INS-260325-DAD7
   - INS-260403-3518
-  - INS-260405-B7C0
-  - PRI-260323-00C6
+  - PRI-260406-7F84
+  - PRI-260406-C4C5
 ---
 The prevailing mental model that pits open source against proprietary software is a false dichotomy. In practice, every major closed software product is built on a foundation of OSS components, and OSS projects often remain inaccessible or unusable without the distribution, support, and refinement that commercial companies provide. The two are symbiotic: OSS handles the hard, universal problem-solving at scale; closed software takes that general solution and adapts it to the specific needs of specific customers. Companies that internalize this complementarity can use OSS strategically rather than treating it as charity or a threat.

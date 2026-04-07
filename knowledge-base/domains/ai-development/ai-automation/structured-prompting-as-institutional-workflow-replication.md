@@ -52,11 +52,11 @@ stance: >-
   formats, and analytical frameworks can replicate institutional-quality
   analysis that previously required specialized teams
 related:
-  - INS-260403-7BC6
+  - PRI-260406-F21A
   - INS-260403-087F
+  - INS-260403-7BC6
   - INS-260403-042B
   - PRI-260403-FBA8
-  - INS-260327-77E7
 ---
 The article demonstrates a prompt engineering pattern worth noting: each prompt encodes a specific professional persona ('portfolio manager at a $2B long-only equity fund with 15 years experience'), requests structured multi-part outputs (thesis + metrics + red flags + confidence ranking), and includes meta-analytical requirements (contrarian ideas, names to avoid). This trinity of role-context-structure produces outputs that mirror institutional deliverables.
 

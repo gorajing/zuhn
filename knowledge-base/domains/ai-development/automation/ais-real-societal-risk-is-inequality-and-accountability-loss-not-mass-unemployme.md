@@ -48,10 +48,10 @@ stance: >-
   connection, and dissolving accountability chains
 related:
   - INS-260329-4D24
+  - PRI-260406-6DBE
   - INS-260327-3A81
   - PRI-260323-9D46
   - INS-260329-1D08
-  - PRI-260323-7BFA
   - INS-260330-B7AB
 ---
 The unemployment narrative around AI is tractable: if jobs disappear, new ones can be created, social safety nets can be expanded, and retraining programs can be funded. These are political problems with known solution shapes. The harder risks are structural: AI concentrates productivity gains among capital owners rather than workers, widens the skill gap between those who can leverage AI and those who cannot, and introduces systems where no individual or institution feels responsible for outcomes. Decisions made by AI pipelines with no clear human author erode the accountability chains that legal and social systems depend on. These failure modes compound quietly rather than arriving as a visible shock, making them more dangerous.

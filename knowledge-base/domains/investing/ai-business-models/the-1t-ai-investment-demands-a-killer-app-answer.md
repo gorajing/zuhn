@@ -49,9 +49,9 @@ stance: >-
 related:
   - INS-260403-EBC3
   - INS-260325-90C6
+  - PRI-260406-C932
   - INS-260403-EAC6
   - INS-260323-9770
-  - INS-260403-0372
 ---
 Chamath frames the central unresolved question of the AI era as follows: over $1 trillion has been invested in AI over the past decade, yet we are still searching for the application that justifies that capital. The GenAI hype cycle produced useful tools but no category-defining product analogous to the smartphone or the internet browser.
 

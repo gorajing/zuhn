@@ -54,11 +54,11 @@ stance: >-
   proliferation will drive a minimum 10x and potentially 10,000x increase in
   compute consumption per person.
 related:
+  - PRI-260406-04DB
   - INS-260323-FE69
+  - PRI-260406-BAD8
   - INS-260403-910E
-  - INS-260325-BC2A
-  - INS-260321-B7CB
-  - INS-260403-3EDE
+  - PRI-260406-7FE4
 evidence:
   - id: INS-260321-B7CB
     type: SUPPORTS

@@ -54,9 +54,9 @@ stance: >-
 related:
   - INS-260404-F366
   - INS-260404-F0A3
-  - INS-260327-C150
-  - INS-260405-B673
-  - INS-260330-18F3
+  - PRI-260406-0109
+  - PRI-260406-949A
+  - PRI-260406-E3D0
 ---
 The malicious streetlight effect is a rhetorical move where someone responds to a valid complaint by disproving something similar-sounding but subtly different, then acts as if they've debunked the original concern. Scott Alexander's example: when people said illegal southern border immigration was at record highs, a data journalist proved Mexican illegal immigration was low — technically true, but the actual surge was from Central Americans entering through Mexico.
 

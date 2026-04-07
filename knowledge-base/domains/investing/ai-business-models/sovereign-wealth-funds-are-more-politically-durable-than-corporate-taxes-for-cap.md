@@ -52,11 +52,11 @@ stance: >-
   administrations to unwind than tax rates, making them a more robust mechanism
   for redistributing AI-generated wealth
 related:
+  - PRI-260406-CB40
   - INS-260403-5031
   - INS-260330-A9CB
   - INS-260403-2ED2
   - PRI-260328-37D8
-  - INS-260404-12FB
 ---
 The core insight is about mechanism design for political durability. Corporate tax rates are trivially reversible — Trump cut them in 2017, and any future administration can do the same. But a sovereign wealth fund that holds broad market equity creates a constituency effect: dumping those shares would crash the stock market, making reversal politically toxic even for anti-redistribution politicians.
 

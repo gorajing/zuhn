@@ -55,8 +55,8 @@ related:
   - INS-260327-3136
   - INS-260330-51B1
   - INS-260403-59D5
+  - PRI-260406-1B8A
   - INS-260405-59AB
-  - INS-260323-0683
 ---
 The common assumption is that autocracies can plan long-term because they don't face elections. But as political scientist Bruce Bueno de Mesquita's selectorate theory shows, autocratic leaders must constantly manage the coalition that keeps them in power — military leaders, party elites, oligarchs. Xi Jinping's purge of his close friend and top general Zhang Youxia illustrates this perfectly: even at the peak of power, autocrats spend enormous energy on internal threat management rather than long-term strategic planning.
 

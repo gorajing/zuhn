@@ -56,12 +56,11 @@ stance: >-
   advantage.
 related:
   - INS-260327-2EFD
+  - PRI-260406-0087
   - INS-260330-F527
   - INS-260323-1D15
   - INS-260327-C673
   - PRI-260328-82BE
-  - INS-260404-312D
-  - INS-260403-162F
 evidence:
   - id: INS-260327-2EFD
     type: TRANSFERS_TO

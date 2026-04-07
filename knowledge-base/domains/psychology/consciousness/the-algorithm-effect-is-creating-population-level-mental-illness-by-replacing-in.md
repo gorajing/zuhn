@@ -49,11 +49,11 @@ stance: >-
   views, followers), creating a population that has outsourced its sense of self
   to algorithmic reinforcement.
 related:
+  - PRI-260406-6762
+  - PRI-260406-B9C9
   - PRI-260328-BF1E
   - INS-260403-66CA
   - INS-260330-059C
-  - PRI-260328-C006
-  - INS-260405-5702
 evidence:
   - id: INS-260323-4D8D
     type: TRANSFERS_TO

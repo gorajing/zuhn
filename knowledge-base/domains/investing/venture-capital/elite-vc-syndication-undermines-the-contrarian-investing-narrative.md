@@ -47,10 +47,9 @@ stance: >-
 related:
   - INS-260403-1A6C
   - INS-260402-ECD2
+  - PRI-260406-C6C3
   - INS-260405-6342
   - PRI-260328-21AD
-  - INS-260405-FFCE
-  - INS-260403-DFA2
 ---
 The VC industry heavily markets itself on contrarian conviction — backing founders others overlook. But PitchBook data reveals that nearly 40% of elite VC deals include at least one other top-tier firm, suggesting syndication and consensus play a much larger role than the narrative admits.
 

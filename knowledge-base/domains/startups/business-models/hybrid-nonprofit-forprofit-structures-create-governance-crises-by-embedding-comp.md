@@ -55,8 +55,8 @@ related:
   - INS-260403-6705
   - INS-260323-8C53
   - PRI-260328-5053
+  - PRI-260406-03D1
   - INS-260402-3134
-  - INS-260403-7089
 ---
 OpenAI created a novel structure where a nonprofit board controlled a for-profit entity with capped 100x investor returns, believing no existing legal structure balanced mission and capital needs. But this innovation compounded risk: the nonprofit board had fiduciary duty to the charter while investors and employees had financial incentives to commercialize aggressively. When Altman pushed commercialization, the board exercised its structural power to remove him — triggering mass resignations and near-collapse.
 

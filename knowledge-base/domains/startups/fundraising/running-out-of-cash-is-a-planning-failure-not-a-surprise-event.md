@@ -52,10 +52,9 @@ related:
   - INS-260329-8B1C
   - INS-260330-3C70
   - INS-260404-8394
+  - PRI-260406-BAD8
   - INS-260404-B6B1
   - PRI-260325-D34E
-  - INS-260327-DD1D
-  - INS-260403-EAFC
 ---
 Most founders track only revenue and bank balance, which creates a false sense of control. The gap between bookkeeping (where money went) and FP&A (what you can afford next) is where startups die. When a founder signs off on a growth hire without modeling that cash collections are delayed, or when deferred revenue is ignored and runway is overestimated by six figures, the failure mode is always the same: the financial view was off by months.
 

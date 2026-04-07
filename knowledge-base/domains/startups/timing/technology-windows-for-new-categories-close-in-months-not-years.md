@@ -49,15 +49,13 @@ stance: >-
   brutally short — often under three years — and no amount of talent or effort
   can overcome missing it
 related:
-  - INS-260321-13EA
   - INS-260323-2040
-  - INS-260403-36F4
   - INS-260403-C37B
   - INS-260403-CAAB
+  - PRI-260406-F443
   - INS-260326-80B1
   - PRI-260328-94D4
   - INS-260323-4457
-  - INS-260330-9346
 evidence:
   - id: INS-260403-36F4
     type: SUPPORTS

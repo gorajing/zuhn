@@ -45,13 +45,10 @@ stance: >-
   deal quality.
 related:
   - INS-260329-8542
-  - INS-260403-215E
-  - INS-260403-17E1
   - INS-260404-2E6C
   - INS-260405-3403
   - INS-260404-B81C
   - INS-260403-2E2C
-  - INS-260403-7C02
-  - INS-260403-7DBB
+  - PRI-260406-CA93
 ---
 VC fund returns are a function of both deal selection and portfolio construction — how many companies to back, how much to reserve for follow-ons, and what ownership targets to set. Too-concentrated portfolios amplify both upside and downside. Too-diversified portfolios dilute the impact of any single winner. Reserve ratios (money held back for pro-rata in follow-on rounds) directly determine whether a fund captures its best companies' full appreciation or gets diluted. Most emerging managers underestimate how much structure — not just picks — drives DPI and TVPI.

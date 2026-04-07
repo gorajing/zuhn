@@ -46,9 +46,10 @@ stance: >-
   startup-level speed and innovation at scale.
 related:
   - INS-260322-A892
+  - PRI-260406-F8BD
   - INS-260322-88C3
+  - PRI-260406-54BE
   - INS-260330-7CC0
-  - INS-260402-2B96
   - INS-260403-DD41
 evidence:
   - id: INS-260322-B6DE

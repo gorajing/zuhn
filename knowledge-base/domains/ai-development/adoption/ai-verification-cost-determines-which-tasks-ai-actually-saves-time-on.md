@@ -46,13 +46,11 @@ resolutions:
     manually?
 related:
   - INS-260321-4280
-  - INS-260327-6C54
-  - INS-260330-74A0
-  - INS-260403-F4F6
   - INS-260325-FDA9
+  - PRI-260406-9780
+  - INS-260330-74A0
   - INS-260403-E4B3
   - INS-260329-3739
-  - PRI-260321-14D8
   - INS-260403-5953
 stance: AI only saves time when verification is cheaper than doing the task manually
 evidence:

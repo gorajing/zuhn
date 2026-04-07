@@ -47,11 +47,11 @@ stance: >-
   bypass innate alarm systems by mimicking the surface features of virtuous
   behavior
 related:
-  - INS-260403-268C
   - INS-260404-EEAF
+  - PRI-260406-4B0E
   - INS-260329-BF96
+  - INS-260403-268C
   - INS-260403-14CB
-  - INS-260323-A700
 evidence:
   - id: INS-260403-268C
     type: TRANSFERS_TO

@@ -44,7 +44,6 @@ stance: >-
   that fundraising is fundamentally a clarity exercise.
 related:
   - PRI-260326-12C6
-  - INS-260330-87BD
   - INS-260403-CE95
   - INS-260403-19D8
   - INS-260404-C64D
@@ -53,5 +52,6 @@ related:
   - INS-260405-D514
   - INS-260403-A331
   - INS-260404-40F2
+  - PRI-260406-E880
 ---
 Studying the original pitch decks of iconic startups reveals a consistent pattern: the decks that raised legendary early rounds prioritized narrative clarity over visual sophistication. Investors pattern-match on whether they can instantly grasp the problem, the solution, and why this team wins — not on slide design quality. This suggests founders should invest disproportionate time on sharpening their story into the simplest possible framing rather than perfecting deck aesthetics. The repeatable patterns across these successful decks provide a learnable framework for raising smarter and faster.

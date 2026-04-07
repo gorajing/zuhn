@@ -50,11 +50,11 @@ stance: >-
   rather than genuine value creation, yet it reliably drives real corporate and
   board decisions in both public and private contexts.
 related:
+  - PRI-260406-ADF0
   - INS-260404-A53F
   - INS-260403-544B
   - INS-260404-9103
   - INS-260403-1115
-  - INS-260329-33D4
   - INS-260403-6CB4
 ---
 When an acquirer buys a company using stock, the pro forma EPS changes based on the combined earnings divided by the new share count. If the target's P/E ratio is lower than the acquirer's, EPS mechanically increases (accretion) — even if zero operational synergies exist. This is pure arithmetic, not value creation. Yet public markets reward EPS accretion with higher stock prices, and private boards use it as a key decision metric.

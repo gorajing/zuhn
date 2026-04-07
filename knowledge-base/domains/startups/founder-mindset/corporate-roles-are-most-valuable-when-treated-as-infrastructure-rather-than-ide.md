@@ -55,8 +55,8 @@ related:
   - INS-260322-EDA4
   - INS-260404-3D17
   - INS-260403-DC4A
+  - PRI-260406-CA09
   - INS-260327-FCCF
-  - INS-260403-DF37
 ---
 The essay identifies a emerging pattern where workers maintain corporate personas while building parallel systems of actual value — developers shipping products in the afternoon, marketers running agencies from corporate desks, consultants automating deliverables to free time for side projects. The critical psychological shift is from identity ('I am a Growth Hacker') to utility ('this role funds my real work').
 

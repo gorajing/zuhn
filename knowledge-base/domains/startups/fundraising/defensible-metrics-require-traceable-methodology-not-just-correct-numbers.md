@@ -49,9 +49,9 @@ stance: >-
 related:
   - INS-260402-5974
   - PRI-260405-2A11
-  - PRI-260328-604D
-  - INS-260405-224A
-  - PRI-260323-9D46
+  - PRI-260406-DE8A
+  - PRI-260406-2B0E
+  - PRI-260406-EC93
 ---
 The article describes a scenario where a founder pitches a clean 4:1 LTV:CAC ratio, but when an investor probes the methodology — what's included in CAC, over what timeframe, which channels — the number falls apart. The metrics were directionally right but not defensible, and trust evaporated.
 

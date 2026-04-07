@@ -46,11 +46,9 @@ stance: >-
   real-time cash runway visibility, not growth optimization.
 related:
   - INS-260403-7252
-  - INS-260403-5762
-  - INS-260403-2A30
+  - PRI-260406-BAD8
+  - PRI-260406-9DD4
   - INS-260323-F9E5
   - INS-260403-ADF9
-  - INS-260402-2B96
-  - PRI-260403-26B9
 ---
 CB Insights' analysis of 110+ failed startups consistently shows cash depletion as the #1 killer at 38%. Despite this, many founders treat cash tracking as a back-office function rather than a strategic discipline. The dangerous pattern is that founders focus on growth metrics (ARR, CAC, retention) while neglecting the meta-metric that determines whether they survive long enough for those growth metrics to matter. In 2026's environment where median fundraising cycles stretch to 23 months and 61% of startups saw runway shrink year-over-year (per SVB), the gap between founders who model their cash flow dynamically and those who check their bank balance occasionally is literally the gap between survival and death.

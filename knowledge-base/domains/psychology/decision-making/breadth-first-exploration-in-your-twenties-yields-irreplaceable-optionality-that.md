@@ -52,10 +52,10 @@ stance: >-
   than early commitment
 related:
   - INS-260403-AC9F
+  - PRI-260406-75C2
   - INS-260330-CFBA
   - INS-260403-D98E
   - PRI-260405-E9C5
-  - PRI-260328-04FA
 evidence:
   - id: INS-260330-CFBA
     type: SUPPORTS

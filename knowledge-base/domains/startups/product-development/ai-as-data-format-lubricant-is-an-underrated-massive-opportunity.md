@@ -45,7 +45,6 @@ stance: >-
   mundane capability unlocks enormous workflow efficiency.
 related:
   - INS-260323-216A
-  - INS-260320-8FFC
   - INS-260327-B539
   - INS-260327-0595
   - INS-260329-19EA
@@ -54,6 +53,7 @@ related:
   - INS-260320-0F7C
   - INS-260329-D868
   - INS-260329-FAE2
+  - INS-260329-2F63
 evidence:
   - id: INS-260323-216A
     type: SUPPORTS

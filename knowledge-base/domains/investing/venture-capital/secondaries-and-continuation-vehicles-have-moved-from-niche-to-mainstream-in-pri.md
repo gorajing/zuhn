@@ -51,7 +51,7 @@ related:
   - INS-260405-25E5
   - INS-260405-B7C0
   - INS-260404-0C25
+  - PRI-260406-0A0B
   - INS-260404-970B
-  - INS-260405-776D
 ---
 The Q1 2026 data reveals that secondaries and continuation vehicles are no longer a niche corner of private markets—they are one of the fastest-growing categories. The dynamic is driven by a structural misalignment: LPs need liquidity as traditional exit timelines have stretched well beyond 7-10 years, while GPs want to hold their highest-conviction assets longer without forcing exits in unfavorable markets. Continuation vehicles solve both problems simultaneously. What was once considered a distress signal or edge case is now a deliberate portfolio management tool, normalized across the LP base. This trend is likely durable regardless of broader market conditions.

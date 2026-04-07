@@ -58,14 +58,14 @@ stance: >-
 related:
   - INS-260323-6258
   - INS-260321-347D
-  - PRI-260323-977A
   - PRI-260324-3081
   - INS-260327-D522
-  - INS-260327-E4F1
   - INS-260330-22D6
-  - INS-260403-7CAF
   - INS-260403-EA15
-  - INS-260404-92AA
+  - INS-260405-5C3F
+  - PRI-260406-9DD4
+  - PRI-260406-4D4E
+  - PRI-260406-5E9A
 ---
 Quirky's failure is a clean case study in how capital amplifies existing errors rather than correcting them. They raised over $185M and used it to manufacture and stock products that had never been meaningfully validated against real purchase intent. The result was overstocked warehouses and a bankruptcy filing — a failure mode that would have been cheaper to discover at the survey or pilot stage.
 

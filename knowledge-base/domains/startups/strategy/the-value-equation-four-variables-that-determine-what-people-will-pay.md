@@ -57,7 +57,6 @@ stance: >-
   matters more than improving the top two.
 related:
   - INS-260329-04A5
-  - INS-260329-6773
   - INS-260403-448C
   - INS-260330-73A2
   - INS-260329-33D4

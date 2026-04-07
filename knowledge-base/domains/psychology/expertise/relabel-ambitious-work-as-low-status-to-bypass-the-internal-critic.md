@@ -52,10 +52,10 @@ related:
   - INS-260404-8A87
   - INS-260405-7B8D
   - INS-260404-55E1
+  - PRI-260406-33E9
   - INS-260405-D925
   - INS-260403-E7A7
   - INS-260404-4154
-  - INS-260404-D66A
 ---
 Graham identifies a common technique among successful creators: deliberately framing ambitious work as something lower-stakes — a sketch, a hack, an experiment. This isn't dishonesty; it's a strategic reframing that bypasses the perfectionism that would otherwise prevent you from starting at all. Once the project gains momentum, you can 'sneakily convert it' to something more serious.
 

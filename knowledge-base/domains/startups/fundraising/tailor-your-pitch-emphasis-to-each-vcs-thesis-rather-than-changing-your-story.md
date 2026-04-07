@@ -46,7 +46,6 @@ stance: >-
   consistently outperform those who deliver identical pitches to every VC
 related:
   - INS-260330-3AF9
-  - INS-260403-D882
   - INS-260404-0427
   - INS-260403-82CC
   - INS-260403-407A

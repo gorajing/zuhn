@@ -48,9 +48,8 @@ related:
   - INS-260322-88C3
   - INS-260322-2FAD
   - INS-260404-B893
+  - PRI-260406-1796
   - INS-260330-86CD
-  - INS-260404-7325
-  - INS-260403-CCA3
   - INS-260327-A234
 stance: >-
   Founders who try to be every team member stifle company growth and drain

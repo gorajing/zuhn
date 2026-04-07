@@ -49,9 +49,9 @@ stance: >-
 related:
   - INS-260323-DA4E
   - INS-260327-8C74
+  - PRI-260406-8778
   - INS-260403-D294
   - INS-260323-A55A
-  - INS-260404-3324
 evidence:
   - id: INS-260323-A55A
     type: SUPPORTS

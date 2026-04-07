@@ -52,11 +52,11 @@ stance: >-
   connections.
 related:
   - INS-260403-8002
+  - PRI-260406-EE38
   - INS-260404-488A
   - INS-260405-6EE5
+  - PRI-260406-070D
   - INS-260404-FA1E
-  - INS-260403-1E5F
-  - INS-260403-A9C9
 ---
 The traditional fundraising model required founders to be physically present in Silicon Valley with warm introductions to top-tier VCs. That model has been structurally disrupted by several parallel innovations: micro-VCs actively seeking pre-seed and seed deals from operators and niche founders, rolling funds providing continuous deployment capital, AngelList-style syndicates letting smaller investors back deals alongside experienced leads, and equity crowdfunding platforms that convert early customers into early funders.
 

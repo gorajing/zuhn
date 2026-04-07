@@ -55,8 +55,8 @@ related:
   - INS-260329-7A7F
   - INS-260330-2B5F
   - INS-260328-E410
+  - PRI-260406-21DA
   - INS-260329-EC33
-  - INS-260330-293E
 ---
 Smith's core policy insight is that prosecuting companies that hire undocumented workers would be far more effective than ICE raids — because it attacks the demand side rather than the supply side. When jobs dry up, people self-deport, as happened during the Great Recession. This avoids the enormous costs of detention, enforcement infrastructure, and political backlash.
 

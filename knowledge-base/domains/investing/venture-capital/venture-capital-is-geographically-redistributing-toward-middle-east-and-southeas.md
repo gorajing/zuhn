@@ -48,7 +48,6 @@ stance: >-
   The Middle East and Southeast Asia are structurally emerging as major VC
   destinations, not just cyclical beneficiaries of capital overflow.
 related:
-  - INS-260321-96CE
   - INS-260405-39FA
   - INS-260405-6EE5
   - INS-260404-1A3F

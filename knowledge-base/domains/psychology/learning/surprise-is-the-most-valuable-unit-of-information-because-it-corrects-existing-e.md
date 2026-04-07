@@ -49,6 +49,7 @@ stance: >-
   contradict and correct things you thought you knew.
 related:
   - INS-260330-3260
+  - PRI-260406-DB86
   - INS-260403-222E
   - INS-260403-20C3
   - INS-260403-C135

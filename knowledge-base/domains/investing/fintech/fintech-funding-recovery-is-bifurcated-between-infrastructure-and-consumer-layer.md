@@ -56,10 +56,10 @@ related:
   - INS-260403-B0E3
   - INS-260403-738F
   - INS-260405-C5E5
+  - PRI-260406-4D4E
   - INS-260404-8CAE
   - INS-260403-75C3
-  - INS-260403-E294
-  - INS-260404-CB41
+  - INS-260403-85BB
 ---
 The Q3 2024 fintech data reflects a market that has bifurcated sharply. B2B fintech infrastructure — payment operations platforms like Diesta, data verification like Opacity Labs, and derivatives exchanges like Bitnominal — continues to attract funding because these businesses have clearer unit economics and enterprise buyers. Consumer-facing fintech, which dominated the 2020-2021 boom, faces skepticism after high-profile failures and regulatory tightening.
 

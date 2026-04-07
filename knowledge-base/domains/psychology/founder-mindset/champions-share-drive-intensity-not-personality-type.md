@@ -44,11 +44,11 @@ stance: >-
   Elite performers differ wildly in personality but universally share an
   abnormal level of drive that separates them from equally talented peers
 related:
+  - PRI-260406-69FC
   - INS-260403-7CD3
   - INS-260329-19B3
   - PRI-260328-DD6A
   - INS-260404-91B8
-  - INS-260403-6F65
 evidence:
   - id: INS-260329-FC53
     type: CHALLENGES

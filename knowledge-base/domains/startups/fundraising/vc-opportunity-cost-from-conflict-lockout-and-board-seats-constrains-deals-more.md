@@ -60,13 +60,13 @@ related:
   - INS-260327-8D5D
   - INS-260329-89E9
   - INS-260330-2332
+  - PRI-260406-7F84
   - INS-260403-FE00
+  - PRI-260406-6D04
   - PRI-260328-F0B4
-  - INS-260403-C89A
-  - INS-260403-35A6
   - INS-260330-975D
   - INS-260403-59F0
-  - INS-260404-ECDF
+  - INS-260403-C89A
 ---
 Andreessen reveals that the primary constraint at Andreessen Horowitz isn't capital but opportunity cost operating through two mechanisms. First, conflict lockout: investing in one company in a category permanently blocks investing in competitors, including companies that haven't been founded yet. Had they invested in Myspace, they'd have been locked out when Facebook emerged a year later. Second, board seat scarcity: with 8 general partners each handling 10-12 boards maximum, every investment reduces the firm's capacity to do future deals.
 

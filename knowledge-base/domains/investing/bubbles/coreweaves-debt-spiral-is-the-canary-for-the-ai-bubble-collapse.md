@@ -47,10 +47,10 @@ resolutions:
     Blue Owl or other private credit firms balk at new Coreweave facilities.
 related:
   - PRI-260403-4612
+  - PRI-260406-53BC
   - PRI-260405-F20C
   - INS-260405-776D
   - INS-260403-1874
-  - INS-260405-2230
   - INS-260405-4D81
 stance: >-
   Coreweave — backed by Nvidia, Blackstone, JP Morgan, Goldman — projects $23B

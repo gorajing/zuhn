@@ -51,10 +51,10 @@ stance: >-
   inspiring.
 related:
   - INS-260403-B9E5
+  - PRI-260406-003E
   - INS-260403-6EDC
   - INS-260404-5A3D
   - INS-260327-F26E
-  - INS-260403-3E9A
 evidence:
   - id: INS-260325-57CA
     type: SUPPORTS

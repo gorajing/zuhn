@@ -1,7 +1,7 @@
 # Tag: founder-selection
 
-- `INS-260403-FE8D` Stebbings observes that 90% of great founders show entrepreneurial behavior before age 13, and that gaming clan leadership is more predictive of startup success than college prestige.
 - `INS-260403-AAC8` Harry Stebbings missed $400M+ in gains on Deel and Vanta by letting market concerns override his conviction in generational founders, permanently changing his investment framework.
+- `INS-260403-FE8D` Stebbings observes that 90% of great founders show entrepreneurial behavior before age 13, and that gaming clan leadership is more predictive of startup success than college prestige.
 - `INS-260403-862E` Genuine problem interest predicts startup success better than ambition for money or status.
 - `INS-260404-1986` Some founders have such extreme willpower that standard evaluation frameworks break down for them.
 - `INS-260330-156C` After 9 years of evaluating YC founders, Graham found that swaggering confidence and quiet self-doubt predict outcomes equally poorly — the only way to know is to try.

@@ -52,7 +52,6 @@ stance: >-
   norm once enough people benefit financially from not dismissing them
 related:
   - INS-260325-0147
-  - INS-260329-0B1D
   - INS-260329-20E8
   - INS-260330-712D
   - INS-260403-74E5
@@ -61,6 +60,7 @@ related:
   - INS-260403-F7F4
   - INS-260403-39E9
   - INS-260403-4850
+  - INS-260404-B1BC
 ---
 Graham traces an interesting evolutionary path: Silicon Valley's supportive attitude toward strange ideas didn't start as moral virtue. It started as self-interest — investors want you to succeed because they profit, and everyone else wants to say they knew you early. But practiced long enough, this self-interested optimism hardened into a genuine cultural norm where encouraging startups is simply what one does.
 

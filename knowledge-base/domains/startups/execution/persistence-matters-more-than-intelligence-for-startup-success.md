@@ -41,15 +41,13 @@ stance: >-
   with higher raw intelligence who give up earlier.
 related:
   - INS-260327-7846
-  - PRI-260328-0C86
   - INS-260328-68BA
-  - INS-260329-557C
+  - PRI-260406-2B11
   - INS-260403-FE3B
   - INS-260402-E140
   - PRI-260405-E256
   - INS-260404-8A02
   - INS-260403-FE8D
-  - INS-260403-44D4
 evidence:
   - id: INS-260402-F04F
     type: SUPPORTS

@@ -50,9 +50,9 @@ related:
   - INS-260323-8271
   - INS-260403-CBC7
   - INS-260403-C7D8
+  - PRI-260406-07C2
   - PRI-260323-8EEA
   - INS-260403-1BCC
-  - INS-260404-B01F
 ---
 Founders routinely mistake polite encouragement for validation. Someone nodding along and saying 'that's interesting' creates a false sense of progress that can sustain months of misguided building. The Mom Test framework exists specifically to counter this: ask questions that reveal truth rather than comfort.
 

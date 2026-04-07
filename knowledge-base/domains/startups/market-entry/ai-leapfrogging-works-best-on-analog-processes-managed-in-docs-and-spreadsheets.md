@@ -51,12 +51,11 @@ stance: >-
   because the improvement delta is 100x rather than 2-3x.
 related:
   - INS-260327-1E44
-  - INS-260403-97CA
   - INS-260404-1775
   - INS-260403-ABC5
   - INS-260403-C5BD
   - INS-260403-3058
-  - INS-260322-C472
+  - PRI-260406-D8C3
 evidence:
   - id: INS-260322-C472
     type: EXTENDS

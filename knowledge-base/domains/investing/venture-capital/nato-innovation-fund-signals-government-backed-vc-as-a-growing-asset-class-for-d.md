@@ -46,8 +46,8 @@ stance: >-
 related:
   - INS-260404-C28B
   - INS-260403-39B8
+  - PRI-260406-CB40
   - INS-260403-0BE9
   - INS-260405-2F43
-  - INS-260404-E55F
 ---
 The NATO Innovation Fund represents a structural shift where geopolitical alliances now operate as venture capital allocators. This isn't traditional government grants — it's a VC-structured fund aiming to boost European tech sovereignty and defense capabilities. The signal for investors is that defense tech is moving from a niche category to a mainstream VC thesis, evidenced also by Helsing's $450M raise. For founders, this creates a new class of patient, strategically-motivated capital that may accept longer timelines and different return profiles than traditional VC, particularly in hardware, cybersecurity, and dual-use technologies.

@@ -58,6 +58,8 @@ related:
   - INS-260330-9E1B
   - INS-260403-07C1
   - INS-260404-CE92
+  - PRI-260406-6762
+  - PRI-260406-B9C9
 evidence:
   - id: INS-260330-F324
     type: TRANSFERS_TO

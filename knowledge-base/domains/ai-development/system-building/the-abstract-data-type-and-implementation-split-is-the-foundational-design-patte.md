@@ -52,9 +52,9 @@ stance: >-
   practice — it is the single pattern that makes systems evolvable and prevents
   architectural lock-in.
 related:
-  - PRI-260320-C14C
   - INS-260329-0F06
   - INS-260329-4F8C
+  - PRI-260406-D02A
   - INS-260329-DEA1
   - INS-260329-FAE2
   - INS-260329-C7BF

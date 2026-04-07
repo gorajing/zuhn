@@ -51,7 +51,6 @@ stance: >-
   medieval consensus is a modern fabrication — educated people knew Earth was
   spherical since ancient Greece.
 related:
-  - INS-260330-6EF1
   - INS-260330-1D61
   - INS-260330-3851
   - INS-260330-10CF

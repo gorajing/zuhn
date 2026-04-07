@@ -47,10 +47,10 @@ stance: >-
   alpha-generative.
 related:
   - INS-260403-52FF
+  - PRI-260406-6C6C
   - INS-260403-A2A6
+  - PRI-260406-97BB
   - INS-260403-713B
-  - INS-260404-12FB
-  - INS-260403-5031
   - INS-260404-C189
 ---
 Conventional VC wisdom held that smaller funds outperform because they can move faster, take larger ownership stakes, and aren't constrained by the need to deploy massive capital. The emerging counter-narrative—that mega funds are now outperforming middle-market funds—challenges this assumption and has real implications for LP allocation strategy.

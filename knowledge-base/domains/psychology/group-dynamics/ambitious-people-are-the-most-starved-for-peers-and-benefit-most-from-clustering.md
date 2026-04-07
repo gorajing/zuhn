@@ -53,11 +53,11 @@ stance: >-
   at their level are rare, making deliberate clustering of talent more valuable
   than individual mentorship.
 related:
+  - PRI-260406-D7EA
   - PRI-260328-0C86
   - INS-260402-2A1D
   - INS-260403-9DC6
   - INS-260330-DD63
-  - INS-260325-3CE2
 evidence:
   - id: INS-260403-9DC6
     type: REFINES

@@ -46,7 +46,6 @@ stance: >-
   deeper learning than teaching each concept with isolated toy examples
 related:
   - INS-260320-E6DD
-  - INS-260320-5B49
   - INS-260320-47FA
   - INS-260323-CD28
   - INS-260327-73BE
@@ -55,6 +54,7 @@ related:
   - INS-260329-26AC
   - INS-260329-32DB
   - INS-260329-C34B
+  - INS-260405-6C88
 evidence:
   - id: INS-260320-E6DD
     type: TRANSFERS_TO

@@ -46,13 +46,13 @@ stance: >-
   against their own interests.
 related:
   - INS-260324-72E8
+  - PRI-260406-ADF0
+  - PRI-260406-CA93
   - INS-260404-7E85
   - INS-260403-7C02
   - INS-260404-9905
   - INS-260403-71E6
-  - INS-260402-3D34
   - INS-260405-5569
-  - INS-260403-D70C
   - INS-260403-D11C
 evidence:
   - id: INS-260324-72E8

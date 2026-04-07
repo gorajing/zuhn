@@ -54,10 +54,11 @@ related:
   - INS-260330-4830
   - INS-260405-86A1
   - INS-260403-47E3
+  - PRI-260406-CB40
+  - PRI-260406-4D4E
   - INS-260327-C1F6
-  - INS-260403-C10D
-  - PRI-260322-9E36
-  - INS-260404-8076
+  - PRI-260406-BF64
+  - PRI-260406-070D
 ---
 European pension funds hold enormous pools of capital but systematically avoid venture allocation, forcing the continent's tech ecosystem to depend on American and Asian investors. This creates a double vulnerability: European startups lack reliable domestic funding sources, and the returns from successful European companies flow back to foreign LPs.
 

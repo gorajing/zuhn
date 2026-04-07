@@ -49,7 +49,6 @@ stance: >-
   advantages that pure financial VCs cannot replicate, directly impacting IPO
   valuation multiples.
 related:
-  - INS-260322-88FC
   - INS-260327-D7AA
   - INS-260330-6411
   - INS-260330-B390

@@ -51,7 +51,6 @@ stance: >-
   dependent on alignment with specific buyer pressure points rather than broad
   market conditions.
 related:
-  - INS-260327-0E28
   - INS-260403-5554
   - INS-260405-77C9
   - INS-260403-8441

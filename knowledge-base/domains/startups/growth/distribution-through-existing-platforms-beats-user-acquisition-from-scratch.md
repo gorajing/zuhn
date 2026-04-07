@@ -57,14 +57,14 @@ stance: >-
 related:
   - INS-260327-7B2B
   - INS-260327-2A58
-  - PRI-260328-1D90
   - INS-260330-06E3
   - INS-260330-84BD
   - INS-260330-7D6D
-  - INS-260330-C9C6
   - INS-260403-58BB
   - INS-260405-CF38
   - INS-260403-0D23
+  - PRI-260406-CA09
+  - PRI-260406-9D48
 ---
 The prediction market growth story is fundamentally a distribution story. Rather than convincing millions of users to create new accounts, link bank details, and learn a new interface, platforms like Kalshi and Polymarket benefited from integration into Robinhood, Coinbase, DraftKings, and FanDuel — platforms where users already have funded accounts and trading habits.
 

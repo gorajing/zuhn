@@ -62,7 +62,6 @@ related:
   - PRI-260403-70D0
   - INS-260330-39B0
   - INS-260330-2601
-  - INS-260403-DB38
   - INS-260330-2EAB
 evidence:
   - id: INS-260330-2601

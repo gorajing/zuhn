@@ -43,9 +43,9 @@ stance: >-
 related:
   - INS-260330-A476
   - INS-260404-1289
+  - PRI-260406-AA7D
   - INS-260330-50D4
   - INS-260323-7C3A
-  - INS-260330-DB4B
 evidence:
   - id: INS-260404-1289
     type: EXTENDS

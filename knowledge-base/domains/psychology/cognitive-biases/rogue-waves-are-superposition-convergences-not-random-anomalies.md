@@ -47,11 +47,11 @@ stance: >-
   result of multiple ordinary forces converging at the same point in time and
   space.
 related:
+  - PRI-260406-CC90
   - INS-260325-B067
   - INS-260325-DF82
   - INS-260330-F60B
   - INS-260330-FCFA
-  - INS-260325-436A
   - INS-260330-E4AD
 evidence:
   - id: INS-260325-436A

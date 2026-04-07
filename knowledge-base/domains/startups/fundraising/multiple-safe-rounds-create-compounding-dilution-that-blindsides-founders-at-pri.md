@@ -52,10 +52,10 @@ stance: >-
   round arrives.
 related:
   - INS-260330-AF2B
+  - PRI-260406-3317
   - INS-260402-3D34
+  - PRI-260406-FD1C
   - INS-260403-5B89
-  - INS-260330-73A2
-  - INS-260403-5151
 ---
 Each SAFE round feels painless because no shares are issued immediately—the dilution is deferred. But when a priced round triggers conversion, all outstanding SAFEs convert simultaneously, and founders discover their cumulative ownership is far lower than anticipated. The article cites data from 14,911 startups showing median founder ownership declining significantly from Seed through Series D.
 

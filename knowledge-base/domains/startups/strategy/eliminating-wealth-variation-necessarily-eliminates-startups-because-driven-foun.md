@@ -47,7 +47,6 @@ stance: >-
   wealth creation through startups, potentially increasing variation further.
 related:
   - INS-260329-BF96
-  - INS-260330-B906
   - INS-260402-8C0E
   - INS-260402-CF0A
   - INS-260402-E60E
@@ -56,6 +55,7 @@ related:
   - INS-260403-160A
   - INS-260405-484F
   - INS-260403-6602
+  - INS-260403-C888
 evidence:
   - id: INS-260403-420A
     type: SUPPORTS

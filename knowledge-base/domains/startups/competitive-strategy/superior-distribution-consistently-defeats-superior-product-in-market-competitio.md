@@ -57,8 +57,8 @@ related:
   - INS-260329-793D
   - INS-260329-D5FF
   - INS-260329-4B07
-  - INS-260330-DCE1
-  - INS-260330-7DAA
+  - INS-260330-697F
+  - INS-260330-7168
 ---
 Investors and founders alike observe that companies with solid products regularly get beaten by competitors with superior distribution. This isn't an edge case — it's a consistent pattern across industries. The reason is structural: product advantages are increasingly ephemeral (especially in AI where capabilities converge quickly), while distribution advantages compound over time through network effects, community trust, and channel ownership.
 

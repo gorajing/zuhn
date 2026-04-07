@@ -53,16 +53,16 @@ stance: >-
   surrendering 15–25% of their company before exploring non-dilutive
   alternatives that could fund the same milestone at zero equity cost.
 related:
-  - INS-260328-D220
   - INS-260402-E522
   - INS-260403-20A7
   - PRI-260403-26B9
   - INS-260403-832E
   - INS-260403-2F77
   - INS-260403-1287
-  - INS-260403-0551
   - PRI-260405-E9C5
   - INS-260404-5EB8
+  - INS-260404-06B9
+  - INS-260404-EFEB
 ---
 The fundraising default in startup culture—build a pitch deck, chase VCs, give up 15–25%—is so deeply normalized that most founders treat it as the only path. But the choice to raise equity before exhausting non-dilutive alternatives is not neutral: early dilution compounds across every future round and reduces founder leverage in exit scenarios. A founder who reaches product-market fit at 100% ownership is in a categorically different negotiating position than one who reaches it at 75%.
 

@@ -55,10 +55,10 @@ stance: >-
   actual population.
 related:
   - INS-260403-500F
+  - PRI-260406-AA07
   - INS-260403-56D7
   - INS-260327-E75F
   - INS-260327-9D51
-  - INS-260403-DB0A
 ---
 Research from Törnberg (2025) using ANES data shows that the most affectively polarized users are the most active posters across all platforms, while casual users increasingly disengage. This creates a structural selection effect: as moderates leave, online spaces become more extreme, which drives away more moderates.
 

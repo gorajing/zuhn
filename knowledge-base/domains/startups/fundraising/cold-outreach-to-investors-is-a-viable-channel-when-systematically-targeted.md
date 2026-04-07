@@ -48,11 +48,11 @@ stance: >-
   cold pitches proves warm introductions are overrated as a gating requirement
   for fundraising.
 related:
+  - PRI-260406-0E64
   - INS-260404-F26B
   - INS-260403-62D1
   - INS-260403-C95C
   - INS-260404-E9F2
-  - INS-260403-E6DE
 ---
 Silicon Valley fundraising lore treats warm introductions as table stakes—the implicit message being that if you can't get an intro, you're not fundable. This resource challenges that narrative by documenting hundreds of firms with open inbound channels. The implication is not that warm intros don't help (they do, by providing social proof), but that their absence is not the blocker founders believe it to be.
 

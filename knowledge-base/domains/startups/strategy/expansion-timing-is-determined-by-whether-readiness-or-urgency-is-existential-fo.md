@@ -54,10 +54,10 @@ related:
   - INS-260327-B64E
   - INS-260327-7D0B
   - PRI-260323-1B96
+  - PRI-260406-992F
+  - PRI-260406-6A1C
   - INS-260404-B2AF
   - INS-260403-93E7
-  - INS-260327-C083
-  - PRI-260405-1FBC
 ---
 The Spotify vs. Klarna contrast crystallizes a fundamental strategic question. Spotify waited years, fine-tuning UX, catalog depth, licensing deals, and PR narrative before launching in the US in 2011. It treated the US as a multiplier for a perfected product. Klarna did the opposite—it saw the US not as expansion but as a future-defining market and bet that speed, branding, and capital would cover imperfections.
 

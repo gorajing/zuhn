@@ -53,10 +53,10 @@ stance: >-
   see genuine potential
 related:
   - INS-260404-8031
-  - INS-260403-5216
+  - PRI-260406-D7EA
   - INS-260403-1228
   - INS-260404-4985
-  - INS-260326-7B2A
+  - INS-260403-5216
 ---
 Graham makes a crucial distinction in what 'supportive environment' actually means for ambitious work. Simply collecting encouraging people fails because you quickly learn to discount unconditional praise—it carries no information. What you actually need are people who can distinguish genuine potential from genuine mediocrity in early-stage work. The best candidates are people working on similarly ambitious projects of their own, because they've developed calibrated judgment about what rough-but-promising looks like.
 

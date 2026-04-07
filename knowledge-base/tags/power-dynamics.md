@@ -2,17 +2,17 @@
 
 - `INS-260403-2475` Private control of frontier AI is incompatible with the nation-state's monopoly on force, making government seizure of control inevitable.
 - `INS-260403-7089` The power structure emerging from AI development converges to either state control or corporate warlordism, with no viable middle ground.
+- `INS-260330-A2D4` China can destroy North Korea economically or militarily but cannot meaningfully steer it because using blunt tools would destabilize the buffer it needs.
+- `INS-260323-B40C` States pursue power not because they are inherently aggressive but because the anarchic structure of international politics leaves them no alternative for survival.
+- `INS-260405-1101` Britain in 1870-1914 produced more in absolute terms at war's outbreak than in 1870, yet felt weaker because America and Germany had grown faster — the lesson applies to any competitive system.
 - `INS-260403-AE5B` In leadership communication, fewer words carry more weight because they signal resolved thinking.
 - `INS-260330-3528` English profanity largely descends from lower-class Saxon vocabulary that was stigmatized when Norman French speakers held social power.
 - `INS-260403-7644` Organizations that win by exercising power gradually lose the ability to win by doing better work.
 - `INS-260402-116A` Groups that are simultaneously powerful and nervous produce the most aggressively enforced speech norms.
 - `INS-260330-1293` North Korea maintains stability by selectively tolerating illegal capitalism rather than cracking down uniformly, turning potential dissidents into co-opted participants.
 - `INS-260330-0FAF` Which words are 'worst' shifts historically: religious oaths were most taboo when the church held power, bodily words when Victorian propriety reigned, and identity slurs now that social equality is the dominant moral framework.
-- `INS-260327-1D3D` When the technological gap between groups becomes large enough, it creates the same social dynamics as perceived divine power - dependence, worship, and unquestioning obedience.
 - `INS-260330-E3ED` Fame removes the honest critics who keep you dying properly to your bad ideas, which is why celebrities and leaders spiral out of control.
-- `INS-260330-A2D4` China can destroy North Korea economically or militarily but cannot meaningfully steer it because using blunt tools would destabilize the buffer it needs.
-- `INS-260323-B40C` States pursue power not because they are inherently aggressive but because the anarchic structure of international politics leaves them no alternative for survival.
-- `INS-260405-1101` Britain in 1870-1914 produced more in absolute terms at war's outbreak than in 1870, yet felt weaker because America and Germany had grown faster — the lesson applies to any competitive system.
+- `INS-260327-1D3D` When the technological gap between groups becomes large enough, it creates the same social dynamics as perceived divine power - dependence, worship, and unquestioning obedience.
 - `INS-260330-F8A2` The British created separate Christian, Jewish, and Muslim institutions in Palestine specifically to prevent unified Palestinian opposition.
 - `INS-260403-47C0` Power has been steadily transferring from charismatic dealmakers to technically competent people for a century, and nothing on the horizon reverses this.
 - `INS-260330-3ECE` Rosalind Franklin's open data-sharing with Watson and Crick directly enabled them to claim credit for the DNA double helix discovery.

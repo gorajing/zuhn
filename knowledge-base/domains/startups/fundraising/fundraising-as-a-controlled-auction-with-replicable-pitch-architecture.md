@@ -50,11 +50,11 @@ stance: >-
   narratives extract significantly more capital at higher valuations than those
   who rely on personal charisma
 related:
+  - PRI-260406-EC93
+  - PRI-260406-E880
   - INS-260403-44C4
   - INS-260402-A629
   - INS-260404-D242
-  - INS-260402-3D61
-  - INS-260330-A38C
 ---
 Kalanick's fundraising approach treated the process like an IPO order book: four rooms running in parallel, 12 hours a day for a week. Investors entered a room, wrote their number at each valuation tier, and Travis aggregated responses, told investors they weren't clearing, watched them bid higher, and ran the model again.
 

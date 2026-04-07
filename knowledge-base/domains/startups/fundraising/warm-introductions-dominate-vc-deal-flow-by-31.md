@@ -51,8 +51,8 @@ related:
   - INS-260403-3122
   - INS-260403-D0BA
   - INS-260403-C95C
+  - PRI-260406-0E64
   - INS-260403-8EE8
-  - INS-260404-5988
 ---
 The VC deal pipeline is heavily skewed toward referral-based sourcing. Three-quarters of funded deals arrive through warm introductions from angel investors, portfolio founders, or peer VCs. Cold emails rarely work unless traction is undeniable. This creates a structural advantage for founders who invest in relationship-building before they need to raise.
 

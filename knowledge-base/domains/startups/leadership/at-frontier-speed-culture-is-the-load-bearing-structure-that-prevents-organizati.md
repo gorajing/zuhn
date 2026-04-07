@@ -52,12 +52,11 @@ stance: >-
   coherence through radical transparency becomes the primary leadership task,
   consuming 30-40% of the CEO's time.
 related:
-  - INS-260329-E45A
-  - INS-260403-6061
-  - INS-260403-A99F
   - INS-260404-266F
   - INS-260404-0240
-  - INS-260330-C8D7
+  - PRI-260406-21DA
+  - INS-260403-A99F
+  - INS-260329-E45A
   - INS-260403-4963
 ---
 Dario reports spending a third to 40% of his time ensuring Anthropic's culture stays coherent at 2,500 employees. His method is radical transparency: biweekly 'Dario Vision Quest' memos covering models, products, industry, and geopolitics in plain language. He explicitly notes that other AI labs are already showing 'decoherence and people fighting each other' as they scale.

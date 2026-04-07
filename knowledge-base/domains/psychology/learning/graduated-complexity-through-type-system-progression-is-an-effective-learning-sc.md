@@ -51,14 +51,14 @@ stance: >-
   cognitive scaffolding that mirrors how expertise develops
 related:
   - INS-260329-71AB
+  - PRI-260406-2903
   - INS-260329-32DB
   - INS-260329-48FD
   - INS-260329-74E5
-  - INS-260329-D0B3
   - INS-260329-E43B
   - INS-260330-0ED2
-  - INS-260330-DBB3
   - INS-260330-0C0C
+  - INS-260329-D0B3
   - INS-260329-1075
 evidence:
   - id: INS-260330-0C0C

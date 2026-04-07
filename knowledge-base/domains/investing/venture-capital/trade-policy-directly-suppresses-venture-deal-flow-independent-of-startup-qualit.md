@@ -45,11 +45,11 @@ stance: >-
   Macroeconomic policy shocks like tariffs reduce VC investment velocity more
   than founder or company quality factors do
 related:
+  - PRI-260406-D802
   - INS-260404-DE04
   - INS-260404-DF88
   - INS-260403-3C53
   - INS-260404-77CD
-  - INS-260403-37FD
 ---
 Venture capital deal flow has dropped significantly in response to escalating trade policy, suggesting that macro uncertainty acts as a throttle on funding independent of startup fundamentals. This pattern recurs across policy shocks — VCs freeze when they cannot model exit multiples or market sizing under shifting regulatory regimes.
 

@@ -49,7 +49,6 @@ stance: >-
   different perspectives create decision paralysis that a unified opponent
   exploits.
 related:
-  - INS-260327-4CCE
   - INS-260327-ABE5
   - INS-260330-F158
   - PRI-260405-C47B

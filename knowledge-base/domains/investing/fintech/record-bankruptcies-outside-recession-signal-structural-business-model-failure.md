@@ -46,11 +46,11 @@ stance: >-
   recession indicates that many business models have been structurally
   unsustainable for years, with easy money masking the underlying problems.
 related:
+  - PRI-260406-861A
   - PRI-260321-2DF0
   - INS-260327-226A
   - INS-260323-114D
-  - INS-260321-F2C4
-  - INS-260330-8A28
+  - PRI-260406-C932
 evidence:
   - id: INS-260330-8A28
     type: SUPPORTS

@@ -55,14 +55,14 @@ stance: >-
   Any self-sustaining system must dedicate the vast majority of its output to
   regeneration, leaving only a small fraction as net production
 related:
-  - INS-260330-EBFD
-  - INS-260330-8C52
   - INS-260403-DB16
   - INS-260403-1A5A
-  - INS-260403-07D2
   - INS-260403-5648
   - INS-260404-F69A
   - INS-260330-E068
+  - INS-260403-07D2
+  - INS-260330-8C52
+  - PRI-260406-0A40
 evidence:
   - id: INS-260330-E068
     type: EXTENDS

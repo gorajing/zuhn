@@ -45,11 +45,11 @@ stance: >-
   window, because model improvements and competitive dynamics shift faster than
   any development cycle can match.
 related:
+  - PRI-260406-F443
   - INS-260329-50D5
   - INS-260323-2559
   - INS-260405-7BA5
   - INS-260330-5609
-  - INS-260403-DDFD
 evidence:
   - id: INS-260330-255F
     type: CONTRADICTS

@@ -52,8 +52,8 @@ related:
   - INS-260322-0C28
   - INS-260329-B194
   - INS-260328-0DFE
+  - PRI-260406-7FE4
   - INS-260327-B357
-  - PRI-260328-8317
 ---
 After years of AI investment driven largely by hype and potential, coding assistants have emerged as the first AI product category generating substantial, measurable revenue. With billions in projected sales, tools like GitHub Copilot, Cursor, and similar products represent the clearest proof that AI can create direct business value at scale.
 

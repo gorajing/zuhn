@@ -46,11 +46,12 @@ stance: >-
   Anxiety about slow results is best resolved by increasing input volume rather
   than by seeking reassurance or changing strategy prematurely
 related:
+  - PRI-260406-7CD8
   - INS-260329-2AB9
+  - PRI-260406-0E02
   - INS-260330-45A9
   - INS-260403-E681
   - INS-260403-E1CE
-  - INS-260326-4F90
 evidence:
   - id: INS-260330-70B9
     type: TRANSFERS_TO

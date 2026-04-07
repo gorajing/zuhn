@@ -55,9 +55,9 @@ stance: >-
 related:
   - INS-260320-7B4B
   - INS-260403-ED64
+  - PRI-260406-B331
   - PRI-260323-1B96
   - INS-260327-5CB0
-  - INS-260330-2B45
 ---
 Kirsten Green's account of scaling Forerunner Ventures into a tier-1 firm highlights that the durable competitive advantage of top venture funds is organizational, not informational. Any firm can access information about hot deals; few can build decision-making structures that consistently back category-defining consumer companies before consensus forms.
 

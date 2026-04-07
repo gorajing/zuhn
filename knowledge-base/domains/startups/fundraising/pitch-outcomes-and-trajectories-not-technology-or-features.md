@@ -56,7 +56,6 @@ stance: >-
   more effectively than pitches that lead with technical capabilities, because
   investors fund trajectories not capabilities.
 related:
-  - INS-260330-6D59
   - INS-260404-A15B
   - INS-260403-599B
   - INS-260403-01FD

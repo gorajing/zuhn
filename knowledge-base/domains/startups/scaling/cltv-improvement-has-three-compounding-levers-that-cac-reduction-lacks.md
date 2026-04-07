@@ -54,9 +54,9 @@ related:
   - INS-260403-CE7C
   - INS-260403-CEBA
   - INS-260403-64AE
-  - PRI-260324-12CF
-  - INS-260403-53B0
-  - INS-260330-608C
+  - PRI-260406-AFA7
+  - PRI-260406-58FA
+  - PRI-260406-7CD8
 ---
 While both sides of the CLTV/CAC ratio matter, the CLTV side offers three compounding levers — retention (longer customer lifespans), upsells/expansions (higher revenue per customer), and product stickiness (deeper usage driving loyalty) — that reinforce each other over time. A customer who stays longer is more likely to expand; a stickier product drives both retention and expansion.
 

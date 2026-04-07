@@ -49,7 +49,6 @@ related:
   - INS-260330-4329
   - INS-260404-C663
   - INS-260403-AEA3
-  - INS-260403-27AA
 evidence:
   - id: INS-260404-C663
     type: SUPPORTS

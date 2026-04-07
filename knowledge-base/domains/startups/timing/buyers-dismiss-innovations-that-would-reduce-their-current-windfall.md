@@ -42,7 +42,6 @@ stance: >-
   Acquirers and incumbents systematically reject superior technology when their
   existing revenue model is temporarily inflated by market irrationality.
 related:
-  - INS-260321-F446
   - INS-260403-C314
   - INS-260403-599B
   - INS-260405-4AAD

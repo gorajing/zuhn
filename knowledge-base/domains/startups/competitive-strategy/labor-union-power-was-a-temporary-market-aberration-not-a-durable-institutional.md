@@ -54,10 +54,10 @@ stance: >-
   organizing power, which is why they disappeared when growth slowed
 related:
   - INS-260327-EF98
+  - PRI-260406-818D
   - PRI-260405-5912
   - PRI-260328-6CDE
   - PRI-260328-C918
-  - INS-260403-227D
 evidence:
   - id: INS-260327-EF98
     type: SUPPORTS

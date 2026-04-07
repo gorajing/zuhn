@@ -54,16 +54,15 @@ stance: >-
   mismatch between large fund structures and the current deployment environment,
   not merely individual career moves.
 related:
-  - INS-260403-9C63
-  - INS-260403-62D0
   - INS-260405-A761
   - INS-260405-BD2E
-  - INS-260405-A6E1
   - INS-260404-DBD1
+  - PRI-260406-6C6C
   - INS-260404-3821
   - INS-260403-5031
   - INS-260403-E2DE
   - INS-260403-A2A6
+  - INS-260404-5684
 ---
 The pattern of senior partners departing large VC firms is symptomatic of deeper structural tensions in the venture industry. Large funds require large deployments, which push toward later-stage deals and bigger check sizes — but the best risk-adjusted returns in venture historically come from earlier stages with smaller checks. Senior partners with strong personal brands and deal flow can often capture more economics by running smaller, focused funds.
 

@@ -56,7 +56,7 @@ related:
   - INS-260403-7037
   - INS-260327-5690
   - INS-260405-8080
-  - INS-260330-3E6B
+  - PRI-260406-F8BD
 ---
 Across the 58 companies in a16z Speedrun Cohort 005, the overwhelming pattern is vertical AI agents: AI recruiter (Dex, Jooba, Ezra), AI auditor (Bead AI), AI consultant (Presia), AI supply chain (Sourcerer), AI fundraising (Metal), AI mining (URSA). Very few are building horizontal platforms or infrastructure. This represents a strategic bet that the value capture in AI happens at the application layer, not the model layer.
 

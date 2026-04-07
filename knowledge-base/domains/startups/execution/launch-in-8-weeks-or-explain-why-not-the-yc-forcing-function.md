@@ -47,11 +47,11 @@ stance: >-
   over-engineering, not insufficient product.
 related:
   - INS-260321-13EA
+  - PRI-260406-F443
   - PRI-260328-2014
   - INS-260403-8DB5
   - INS-260403-77F4
   - INS-260323-19A8
-  - INS-260404-8C42
   - INS-260330-5D4F
   - INS-260402-E85D
   - INS-260403-05CE

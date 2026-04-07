@@ -52,8 +52,8 @@ related:
   - INS-260327-B18F
   - INS-260327-6AB1
   - INS-260404-DD95
+  - PRI-260406-0E64
   - INS-260330-9F1F
-  - INS-260403-FC45
 ---
 The biggest bottleneck in customer development isn't the interviews themselves — it's finding enough of the right people to interview. Systematic referral requests at the end of every interview solve this by turning each conversation into a pipeline for the next. Offering to write the intro email or message on the interviewee's behalf reduces friction and dramatically increases the likelihood they'll follow through.
 

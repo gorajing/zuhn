@@ -47,7 +47,7 @@ related:
   - INS-260329-FCF2
   - PRI-260322-3DA5
   - INS-260330-550F
-  - PRI-260320-A2C7
+  - PRI-260406-8FDF
 stance: >-
   Getting volume levels right first makes every subsequent mixing decision (EQ,
   compression, spatial) easier and more effective.

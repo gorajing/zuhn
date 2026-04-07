@@ -50,10 +50,10 @@ stance: >-
   that protects people from the discomfort of knowing they could work harder.
 related:
   - INS-260330-9B7B
+  - PRI-260406-22D5
   - INS-260330-CC7D
   - INS-260403-A4CF
   - INS-260403-FE3B
-  - INS-260326-8E6D
 evidence:
   - id: INS-260330-9B7B
     type: CHALLENGES

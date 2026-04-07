@@ -45,7 +45,6 @@ stance: >-
   In any compound statement joined by 'but,' listeners reliably weight the
   second clause more heavily regardless of content
 related:
-  - INS-260320-5A6F
   - INS-260321-3312
   - INS-260327-1631
   - INS-260330-BCC7

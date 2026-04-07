@@ -39,13 +39,13 @@ stance: >-
   External auditors can detect institutional bias without the institution's
   cooperation, using only publicly available outcome data
 related:
-  - INS-260330-318B
   - INS-260404-DA41
-  - PRI-260405-ADEA
   - INS-260405-F369
+  - PRI-260405-ADEA
+  - PRI-260406-A33C
   - PRI-260323-81E9
   - INS-260403-DD95
-  - INS-260322-7282
+  - PRI-260406-949A
 evidence:
   - id: INS-260404-DA41
     type: CHALLENGES

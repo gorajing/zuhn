@@ -50,13 +50,12 @@ stance: >-
   better outcomes in power-law environments.
 related:
   - INS-260329-BFBF
-  - INS-260403-C8F0
   - INS-260404-323D
   - INS-260404-9A25
   - INS-260403-EEE5
   - INS-260404-A42E
+  - PRI-260406-D43E
   - INS-260404-6D51
-  - INS-260404-AC7C
 ---
 Graham describes a complete polarity inversion in how to evaluate new ideas: instead of defaulting to skepticism (listing flaws), switch to generative optimism (imagining paths to success). This isn't naive positivity — it's calibrated to environments where outcomes follow power-law distributions, meaning the cost of missing one great idea vastly exceeds the cost of being wrong about many mediocre ones.
 

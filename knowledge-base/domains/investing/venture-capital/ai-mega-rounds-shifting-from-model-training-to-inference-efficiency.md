@@ -49,9 +49,9 @@ stance: >-
 related:
   - INS-260403-64F1
   - INS-260403-0680
+  - PRI-260406-4397
   - INS-260403-79F3
   - INS-260404-5D6E
-  - INS-260404-5AC8
 ---
 The shift in AI mega-rounds toward infrastructure, inference optimization, and vertical specialization marks a maturation of the AI investment thesis. Investors are moving capital away from the expensive and increasingly commoditized model training race toward companies that make existing models cheaper, faster, and more specialized to deploy.
 

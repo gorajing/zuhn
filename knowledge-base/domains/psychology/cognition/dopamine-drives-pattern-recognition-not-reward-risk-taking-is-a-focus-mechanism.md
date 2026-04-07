@@ -48,11 +48,11 @@ stance: >-
   performance, not just thrill-seeking.
 related:
   - INS-260330-0ED2
-  - INS-260330-FCFA
   - INS-260402-FEA3
+  - PRI-260406-CC90
   - INS-260330-8A0C
+  - PRI-260406-B9E0
   - PRI-260328-39FA
-  - INS-260325-75A3
 evidence:
   - id: INS-260402-FEA3
     type: SUPPORTS

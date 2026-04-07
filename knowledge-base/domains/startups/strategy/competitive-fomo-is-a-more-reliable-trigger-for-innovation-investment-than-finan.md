@@ -52,10 +52,10 @@ stance: >-
   overrides analytical skepticism.
 related:
   - INS-260329-6D3B
+  - PRI-260406-0ACE
   - PRI-260405-B144
   - PRI-260324-12CF
   - INS-260327-E1EB
-  - INS-260330-C825
 evidence:
   - id: INS-260327-E1EB
     type: CHALLENGES

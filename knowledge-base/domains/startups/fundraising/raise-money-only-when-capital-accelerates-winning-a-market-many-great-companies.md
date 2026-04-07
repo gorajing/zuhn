@@ -50,14 +50,15 @@ resolutions:
     only for certain business types.
 related:
   - INS-260323-8893
+  - PRI-260406-2E0D
+  - PRI-260406-EE38
   - INS-260328-D220
   - INS-260405-776D
-  - INS-260403-A3DA
-  - INS-260404-B6DF
   - INS-260403-2369
+  - INS-260403-A3DA
   - INS-260402-C2BA
   - INS-260405-F531
-  - INS-260404-3B83
+  - INS-260404-B6DF
 stance: >-
   Microsoft, Dell, Yahoo, eBay, Instagram, and Midjourney were all
   capital-efficient or fully bootstrapped

@@ -52,11 +52,11 @@ stance: >-
   stacked liquidation preferences and diluted common pools routinely turn $200M
   exits into disappointments for founders and early investors.
 related:
+  - PRI-260406-3317
   - INS-260405-FFCE
   - INS-260404-8321
   - INS-260403-BED6
-  - PRI-260323-7B35
-  - INS-260403-F852
+  - PRI-260406-8987
   - INS-260405-7F03
 ---
 Exit waterfall analysis reveals the true economics hiding beneath a company's valuation. A $200M acquisition sounds impressive until you discover that multiple rounds of preferred shares with 2x liquidation preferences consume most of the proceeds, leaving founders and early common holders with scraps. Stacked SAFEs converting unpredictably, fragmented ownership across a dozen small investors, and missing ESOPs all compound the problem — they don't just reduce returns, they can scare off acquirers entirely.

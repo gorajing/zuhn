@@ -51,15 +51,14 @@ stance: >-
   either exceptional strength or desperation.
 related:
   - INS-260403-8E0C
-  - INS-260403-ACC5
   - INS-260405-1A59
   - INS-260403-0E32
   - INS-260405-D2E2
   - PRI-260405-E9C5
   - INS-260403-64F1
   - PRI-260403-26B9
-  - INS-260403-1287
-  - INS-260403-65AC
+  - PRI-260406-1F70
+  - INS-260403-4F68
 ---
 The traditional VC model of successive equity rounds is particularly punishing for consumer and CPG startups, where unit economics are well-understood and revenue streams are predictable. Smart founders in this space are now constructing blended capital stacks that combine small equity raises for growth capital with debt financing for inventory and revenue-based financing for marketing spend.
 

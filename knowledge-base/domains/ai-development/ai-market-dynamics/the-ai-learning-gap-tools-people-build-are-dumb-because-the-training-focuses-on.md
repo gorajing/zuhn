@@ -47,11 +47,10 @@ related:
   - PRI-260323-00C6
   - INS-260403-E23C
   - INS-260330-930D
+  - PRI-260406-CA09
   - INS-260405-88A4
-  - INS-260323-365A
   - INS-260325-95A6
   - INS-260403-7A31
-  - INS-260403-FCEA
 stance: >-
   MIT research shows $291B wasted on AI because the ecosystem trained people to
   sell AI services, not build AI that actually works reliably.

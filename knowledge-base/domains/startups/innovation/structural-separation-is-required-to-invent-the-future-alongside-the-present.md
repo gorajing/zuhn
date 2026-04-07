@@ -50,10 +50,10 @@ stance: >-
   its own culture, resources, and metrics.
 related:
   - INS-260403-24AE
+  - PRI-260406-5F31
+  - PRI-260406-CBC2
   - INS-260403-3326
   - PRI-260328-43F1
-  - INS-260327-DAE5
-  - INS-260327-999C
 ---
 Under Steve Ballmer, Microsoft's culture was singularly focused on improving and defending Windows — every initiative was filtered through a Windows-first lens. This produced some successes (Xbox, SharePoint) but none that matched Windows's scale, because the gravitational pull of the core business constrained what was possible.
 

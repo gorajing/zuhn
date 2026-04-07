@@ -50,7 +50,6 @@ related:
   - INS-260403-FC45
   - INS-260404-C2BC
   - INS-260404-3C46
-  - INS-260405-F456
 ---
 The BMC deliberately excludes competition, problem validation, and metrics—not because they don't matter, but because a tool that tries to do everything does nothing well. The surgeon analogy is precise: you wouldn't want a brain surgeon using a swiss army knife.
 

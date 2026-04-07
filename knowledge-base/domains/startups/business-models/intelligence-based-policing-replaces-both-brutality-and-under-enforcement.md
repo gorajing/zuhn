@@ -48,10 +48,10 @@ resolutions:
     alternatives.
 related:
   - INS-260322-888D
+  - PRI-260406-F95C
   - INS-260403-6861
   - INS-260403-34C0
   - PRI-260325-45A2
-  - INS-260330-12FB
   - INS-260322-5F87
   - INS-260403-46DD
   - INS-260403-8C12

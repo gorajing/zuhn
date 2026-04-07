@@ -47,10 +47,10 @@ stance: >-
   has more impact on shipping speed than any framework choice.
 related:
   - INS-260329-33D4
+  - PRI-260406-CA09
+  - PRI-260406-E1D5
   - INS-260323-70B9
-  - INS-260322-1D52
-  - INS-260405-69F1
-  - INS-260403-6E68
+  - PRI-260406-CA93
 evidence:
   - id: INS-260322-1D52
     type: EXTENDS

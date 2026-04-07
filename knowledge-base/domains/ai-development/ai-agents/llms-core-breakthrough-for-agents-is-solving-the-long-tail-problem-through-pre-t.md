@@ -54,9 +54,9 @@ stance: >-
 related:
   - PRI-260328-7E58
   - INS-260402-8E46
+  - PRI-260406-B8B2
   - INS-260326-E0CB
-  - PRI-260325-45A2
-  - PRI-260321-14D8
+  - PRI-260406-F72A
   - INS-260403-708E
 ---
 Before LLMs, PolyAI and similar companies could build systems that handled 85-90% of common use cases well, but the long tail was devastating — a restaurant booking bot getting 10-15% of calls from people trying to find jobs, for example. Previous models required explicit programming for each use case, making comprehensive coverage impossibly expensive.

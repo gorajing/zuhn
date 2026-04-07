@@ -58,7 +58,7 @@ related:
   - INS-260403-407A
   - INS-260403-A57D
   - INS-260404-9BC6
-  - INS-260404-0153
+  - INS-260403-42E4
 ---
 Zapflow data from 2013-2023 shows US startups raised 2-3x more than European counterparts across all funding stages, even during global market corrections. At the extreme, early-stage US companies raised 7x more for equivalent products. This gap isn't just about money—it translates to better talent leverage, more runway to iterate, and less equity dilution.
 

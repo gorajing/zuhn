@@ -48,11 +48,11 @@ stance: >-
   autonomously produce better outcomes than teams receiving detailed
   step-by-step instructions, especially in information-constrained environments.
 related:
+  - PRI-260406-598F
   - INS-260403-BE93
   - INS-260403-3566
   - INS-260403-4A16
   - INS-260330-487E
-  - INS-260330-FAB8
 evidence:
   - id: INS-260323-0603
     type: TRANSFERS_TO

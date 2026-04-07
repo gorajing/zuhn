@@ -49,11 +49,11 @@ stance: >-
   on and requires the previous one, rather than a displacement model where new
   eras replace old ones.
 related:
+  - PRI-260406-9573
   - INS-260403-4690
+  - PRI-260406-DC9B
   - INS-260405-A596
   - INS-260405-9492
-  - INS-260403-990C
-  - PRI-260328-D292
 evidence:
   - id: INS-260329-D0B3
     type: TRANSFERS_TO

@@ -47,7 +47,6 @@ stance: >-
   quality in ways that cannot be compensated by technique or planning.
 related:
   - INS-260330-B625
-  - INS-260403-9627
   - INS-260402-D9D0
   - INS-260402-D0F3
   - INS-260330-D61A

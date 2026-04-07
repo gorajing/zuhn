@@ -46,7 +46,6 @@ stance: >-
   The defining metric VCs use to evaluate scalability is not raw growth rate but
   the widening gap between revenue acceleration and cost growth.
 related:
-  - INS-260328-D1B2
   - INS-260329-ADCD
   - INS-260329-B2BE
   - INS-260329-425B
@@ -56,5 +55,6 @@ related:
   - INS-260403-EEDF
   - INS-260404-420F
   - INS-260404-EF1D
+  - INS-260405-3098
 ---
 The article emphasizes that VCs evaluate scalability through the lens of unit economics—specifically the ratio of Customer Lifetime Value to Customer Acquisition Cost and the trajectory of Monthly Recurring Revenue. Slack is cited as an example: its network effects meant each new user reduced the effective CAC for the next user, creating a widening margin between revenue and cost curves. This is fundamentally different from revenue growth alone. A startup growing 50% year-over-year but with proportionally growing costs is not scalable in the VC sense. Founders should present not just top-line growth but the efficiency metrics that prove the underlying engine improves with scale—declining CAC, expanding margins, and network effects or switching costs that compound over time.

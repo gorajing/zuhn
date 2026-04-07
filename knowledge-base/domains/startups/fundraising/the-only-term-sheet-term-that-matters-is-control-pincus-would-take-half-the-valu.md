@@ -47,15 +47,15 @@ resolutions:
     keep it.
 related:
   - INS-260325-C5AE
+  - PRI-260406-4B0E
   - INS-260404-0D62
   - INS-260330-6204
   - INS-260403-B374
-  - INS-260403-227D
-  - INS-260328-4EA0
+  - PRI-260406-2B11
   - INS-260323-E2ED
   - INS-260327-8AE7
   - INS-260329-88A4
-  - INS-260329-3924
+  - INS-260330-DC22
 stance: >-
   Mark Pincus argues that founder control is worth more than valuation because
   losing control means losing the ability to make the risky, unpopular p...

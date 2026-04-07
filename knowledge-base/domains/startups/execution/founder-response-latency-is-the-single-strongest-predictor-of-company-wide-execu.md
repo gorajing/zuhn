@@ -52,12 +52,12 @@ stance: >-
   entire organization's pace, making founder urgency the highest-leverage
   intervention for startup velocity.
 related:
-  - INS-260323-E15F
   - PRI-260328-4810
   - INS-260329-C0A7
+  - INS-260323-E15F
+  - PRI-260406-901E
+  - PRI-260406-D181
   - INS-260323-A075
-  - PRI-260405-86E0
-  - INS-260403-3058
 ---
 Startups mirror their founder's pace with surprising fidelity. A one-day delay at the top cascades into a week of drift across the organization because teams wait for direction, context, or approval before acting. Two identical startups with the same product, headcount, and funding will diverge dramatically based solely on founder responsiveness—the fast-deciding founder's company ships 15x more updates in the same period.
 

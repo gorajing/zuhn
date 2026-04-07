@@ -55,8 +55,9 @@ stance: >-
 related:
   - INS-260403-53AA
   - INS-260404-B01F
+  - PRI-260406-6F52
   - INS-260404-29F4
-  - INS-260403-EA2D
+  - PRI-260406-F08C
   - INS-260405-F9EC
 ---
 The biggest fear investors have with early-stage startups is that you've built something based on a priori theories rather than real need. Sequoia calls it the 'proxy for demand' — what are people doing right now, with inadequate tools, that proves they need what you're making? Specific user stories directly counter this fear in a way that market size figures never can.

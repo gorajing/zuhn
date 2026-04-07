@@ -47,11 +47,11 @@ stance: >-
   Companies systematically overinvest in process safeguards because the cost of
   each new check is invisible while the disaster it prevents is vivid
 related:
+  - PRI-260406-DC9B
   - INS-260403-83C7
   - INS-260403-7DC7
   - INS-260403-696C
   - INS-260403-65AC
-  - PRI-260405-548B
 evidence:
   - id: INS-260403-546E
     type: TRANSFERS_TO

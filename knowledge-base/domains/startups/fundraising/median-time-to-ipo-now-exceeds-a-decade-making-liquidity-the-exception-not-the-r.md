@@ -47,10 +47,10 @@ stance: >-
   compensation packages
 related:
   - INS-260403-F0D4
+  - PRI-260406-04DB
   - INS-260403-458A
   - INS-260405-6DAD
   - INS-260403-7F67
   - INS-260403-6F9C
-  - INS-260403-8834
 ---
 The median time to IPO has roughly doubled from historical norms, now sitting at 11-13 years and trending longer. Companies like Stripe, SpaceX, and Epic Games have remained private for 15+ years. This shift has profound implications for employee compensation: equity that might have converted to cash in 5-7 years now represents a 10-20 year bet. For employees offered below-market salaries offset by equity, the discount rate on that equity should be dramatically higher than most candidates apply. The practical effect is that equity-heavy packages at companies without clear exit timelines are worth far less in present value than they appear on offer letters. Candidates should weight cash compensation more heavily and treat equity as a bonus rather than core compensation.

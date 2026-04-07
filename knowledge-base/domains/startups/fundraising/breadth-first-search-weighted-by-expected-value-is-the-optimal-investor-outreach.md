@@ -45,11 +45,11 @@ stance: >-
   this naturally protects against investors who string you along.
 related:
   - INS-260327-DBA1
+  - PRI-260406-E5FB
   - INS-260403-AC06
+  - PRI-260406-4C28
   - INS-260404-9905
   - INS-260403-147C
-  - INS-260404-2250
-  - INS-260403-CA42
 evidence:
   - id: INS-260323-ACD9
     type: TRANSFERS_TO

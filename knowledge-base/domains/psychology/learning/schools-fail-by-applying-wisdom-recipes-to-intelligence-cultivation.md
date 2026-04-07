@@ -47,14 +47,12 @@ stance: >-
   conformity, which actively undermines the development of intelligence that
   requires nurturing individual curiosity.
 related:
-  - INS-260322-CC69
-  - INS-260329-34A9
   - INS-260330-1647
   - INS-260403-AB5C
+  - PRI-260406-9C4B
   - PRI-260405-0676
   - PRI-260403-67FC
   - INS-260403-41BC
-  - INS-260327-70DF
 evidence:
   - id: INS-260322-CC69
     type: SUPPORTS

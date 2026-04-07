@@ -48,7 +48,6 @@ stance: >-
   transform housing from shelter into a financial engineering vehicle, creating
   self-reinforcing price spirals that become politically impossible to unwind.
 related:
-  - INS-260327-14E6
   - PRI-260328-EAC4
   - INS-260323-70B9
   - INS-260330-C1EA

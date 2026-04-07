@@ -51,11 +51,11 @@ stance: >-
   irreplaceable.
 related:
   - INS-260403-A1DF
+  - PRI-260406-AA7D
   - INS-260330-DB4B
   - PRI-260328-E9B5
+  - PRI-260406-A4AA
   - INS-260402-9093
-  - INS-260403-34C0
-  - INS-260403-8ECB
 evidence:
   - id: INS-260403-A1DF
     type: EXTENDS

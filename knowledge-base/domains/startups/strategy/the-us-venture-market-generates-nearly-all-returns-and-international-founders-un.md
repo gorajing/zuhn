@@ -44,7 +44,6 @@ stance: >-
   founders outside the US systematically underestimate how much harder it is to
   build a billion-dollar company elsewhere.
 related:
-  - INS-260328-F752
   - INS-260405-EFC1
   - INS-260403-B9B8
   - INS-260403-5056

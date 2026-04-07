@@ -57,7 +57,7 @@ related:
   - INS-260404-0782
   - INS-260403-2788
   - INS-260403-EEE5
-  - INS-260404-9E63
+  - PRI-260406-D43E
 ---
 Graham distinguishes between being less critical and being differently critical. The right response to early-stage ideas isn't lowering your bar — it's switching from a default-skeptical to a default-constructive frame. Instead of asking 'what's wrong with this?', ask 'under what conditions could this be huge?'. This is what experienced VCs learn to do, and it's what makes Silicon Valley's culture economically productive.
 

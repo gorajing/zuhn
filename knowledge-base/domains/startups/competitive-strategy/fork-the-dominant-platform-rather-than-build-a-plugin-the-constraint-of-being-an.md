@@ -49,11 +49,11 @@ resolutions:
     your most ambitious feature ideas are blocked by the platform's API, you
     need to own the platform.
 related:
+  - PRI-260406-B331
   - INS-260327-0B69
   - INS-260403-A2E9
   - INS-260404-D646
   - PRI-260328-FD47
-  - INS-260329-8F98
   - INS-260329-693E
   - INS-260322-22D0
 stance: >-

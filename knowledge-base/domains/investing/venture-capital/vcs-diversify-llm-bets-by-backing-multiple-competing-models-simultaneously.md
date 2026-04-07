@@ -52,9 +52,9 @@ related:
   - INS-260404-B81C
   - INS-260403-3EDE
   - INS-260403-C557
+  - PRI-260406-4397
   - INS-260403-57FF
   - INS-260403-5018
-  - INS-260402-EEDB
 ---
 Rather than committing to a single LLM winner, venture capital firms are diversifying across multiple competing large language model startups. This hedging strategy mirrors historical patterns in platform races (e.g., search engines in the 2000s, cloud providers in the 2010s) where the eventual winner-take-most outcome is unpredictable.
 

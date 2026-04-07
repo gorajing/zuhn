@@ -49,11 +49,11 @@ stance: >-
   measured in years
 related:
   - INS-260402-1F58
+  - PRI-260406-598F
   - INS-260403-BE93
   - INS-260403-3566
   - INS-260404-569C
   - PRI-260325-3F50
-  - INS-260403-1984
 ---
 The article distinguishes full stealth (existence and product hidden) from partial stealth (existence known, product undisclosed), but the case studies suggest partial stealth consistently outperforms. Robinhood built a waitlist while in stealth; Clubhouse used invite-only access. Both maintained product secrecy while generating demand signals.
 

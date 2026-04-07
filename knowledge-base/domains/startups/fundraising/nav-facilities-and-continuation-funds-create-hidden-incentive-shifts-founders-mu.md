@@ -55,8 +55,8 @@ related:
   - INS-260403-3C2D
   - INS-260404-707C
   - INS-260403-2330
+  - PRI-260406-91C2
   - INS-260403-CF1D
-  - INS-260403-C377
 ---
 NAV facilities are loans secured by a fund's portfolio value, giving VCs with limited dry powder the ability to still write checks. While this creates flexibility, it also introduces leverage and opacity — founders should ask whether their VC uses NAV facilities, under what limits, and whether covenants could affect portfolio support.
 

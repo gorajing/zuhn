@@ -55,14 +55,13 @@ stance: >-
   designers to fake disorder
 related:
   - INS-260325-B067
-  - INS-260325-436A
   - INS-260329-5D8A
   - INS-260330-E1CA
   - INS-260330-3879
   - INS-260330-7DCF
+  - PRI-260406-CC90
   - INS-260330-1319
   - INS-260327-A44E
-  - INS-260403-CF23
 evidence:
   - id: INS-260327-A44E
     type: CHALLENGES

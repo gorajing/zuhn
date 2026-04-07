@@ -57,8 +57,8 @@ related:
   - INS-260402-A999
   - INS-260403-CF54
   - PRI-260328-F0B4
+  - PRI-260406-6C43
   - INS-260402-CF0A
-  - INS-260327-3A81
   - INS-260403-C4C5
 ---
 Trump's immigration crackdown assumed kicking out immigrants would free up jobs for natives — a textbook lump-of-labor fallacy. The data showed the opposite: native-born unemployment rose while immigrant employment increased, because immigrants also create demand and produce goods. Similarly, tariffs meant to protect manufacturing ended up hurting it because manufacturing relies heavily on intermediate goods that tariffs make more expensive. Only 38.2% of manufacturing sub-sectors were still adding jobs, down from 47.2% a year prior.

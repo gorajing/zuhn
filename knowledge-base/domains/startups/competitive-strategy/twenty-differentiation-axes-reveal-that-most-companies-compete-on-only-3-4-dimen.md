@@ -50,10 +50,11 @@ stance: >-
   dimension.
 related:
   - INS-260327-643C
-  - INS-260330-09E3
+  - PRI-260406-9866
   - INS-260325-8B36
+  - INS-260330-09E3
   - INS-260329-D5FF
-  - INS-260323-3D7D
+  - PRI-260406-6D04
 ---
 Lenny identifies 20 distinct differentiation strategies ranging from lowest price to story-driven branding. The real insight emerges from the examples: Trader Joe's combines price + quality + service + unique supply. Tesla combines product experience + service + problem-solving + limited supply + delight. No dominant company wins on a single axis.
 

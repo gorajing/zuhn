@@ -56,10 +56,10 @@ related:
   - INS-260320-8688
   - INS-260403-8806
   - INS-260404-A032
+  - PRI-260406-1A4D
   - INS-260403-CD90
+  - PRI-260406-DE8A
   - INS-260403-6E68
-  - INS-260321-E654
-  - INS-260402-EA72
 ---
 The tariff-induced macro uncertainty is accelerating a shift that was already underway: VCs are moving from growth-at-all-costs selection to efficiency-first evaluation. Series C and D deal volume dropped 18% in Q1, with Q2 expected to fall further. The practical markers investors now demand include clean data rooms, metrics transparency, strong unit economics, and demonstrated ability to extend runway without desperation.
 

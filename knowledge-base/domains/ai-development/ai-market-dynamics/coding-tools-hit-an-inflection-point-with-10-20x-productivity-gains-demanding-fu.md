@@ -55,11 +55,11 @@ resolutions:
     engineering, and design are blurring when two engineers with AI tools can
     outproduce traditional teams.
 related:
+  - PRI-260406-806C
   - INS-260325-ADF5
   - INS-260403-EFAF
   - PRI-260328-5CDE
   - INS-260403-3AEE
-  - INS-260403-39CF
   - INS-260327-9192
   - INS-260327-CED9
   - INS-260404-B18A

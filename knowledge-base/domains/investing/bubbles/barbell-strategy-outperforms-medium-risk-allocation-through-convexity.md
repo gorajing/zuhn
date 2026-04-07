@@ -54,10 +54,10 @@ stance: >-
   because the barbell is convex to volatility.
 related:
   - INS-260323-0DC4
+  - PRI-260406-97BB
+  - PRI-260406-E5FB
   - PRI-260405-0099
-  - INS-260323-B849
-  - PRI-260328-BD9B
-  - INS-260323-4D13
+  - PRI-260406-6574
 evidence:
   - id: INS-260323-4D13
     type: TRANSFERS_TO

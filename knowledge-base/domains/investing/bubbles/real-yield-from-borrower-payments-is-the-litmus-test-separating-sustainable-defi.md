@@ -64,7 +64,7 @@ related:
   - PRI-260328-26AA
   - PRI-260323-7B35
   - INS-260327-BB67
-  - PRI-260328-386C
+  - PRI-260406-CA93
 ---
 Democratized Prime's ~9% yield comes from homeowners making monthly payments on HELOCs with 750+ FICO scores and sub-80% LTV ratios. This is structurally identical to how banks earn money — from the spread between borrowing costs and lending rates on real collateral. The article explicitly contrasts this with DeFi Summer yield farming, where returns came from token inflation, liquidity mining incentives, and recursive leverage — mechanisms that collapse when new capital inflows stop.
 

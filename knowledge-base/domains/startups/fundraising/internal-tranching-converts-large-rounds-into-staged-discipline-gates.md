@@ -49,10 +49,10 @@ stance: >-
 related:
   - INS-260404-7E85
   - INS-260402-C2BA
-  - INS-260403-64F1
+  - PRI-260406-3317
   - INS-260405-36E6
-  - INS-260403-3059
-  - INS-260404-5EB8
+  - PRI-260406-ADF0
+  - INS-260403-64F1
 ---
 Even in capital-intensive sectors like biotech or deeptech where large rounds are structurally necessary, the smartest founders stage their spending by creating internal deployment gates. They might raise $40M but only release $8M at a time, tied to technical validation, regulatory progress, or commercial traction milestones.
 

@@ -48,11 +48,11 @@ stance: >-
   subscription pricing makes heavy users unprofitable, and this margin erosion
   is invisible until it's critical.
 related:
+  - PRI-260406-818D
   - INS-260403-75E3
   - INS-260327-1B7C
   - INS-260403-501D
   - INS-260329-7BA7
-  - INS-260329-CEC5
   - INS-260403-E497
 evidence:
   - id: INS-260327-1B7C

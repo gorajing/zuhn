@@ -52,11 +52,11 @@ stance: >-
   absolute purchasing power
 related:
   - INS-260327-4348
+  - PRI-260406-C168
   - INS-260323-9867
   - INS-260405-AC40
   - INS-260403-9E82
   - INS-260403-62AF
-  - INS-260323-1930
 evidence:
   - id: INS-260327-4348
     type: SUPPORTS

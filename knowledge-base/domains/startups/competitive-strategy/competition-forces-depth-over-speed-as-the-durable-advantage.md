@@ -49,9 +49,9 @@ stance: >-
 related:
   - INS-260330-923F
   - PRI-260328-1D90
+  - PRI-260406-12A2
   - INS-260403-D198
   - INS-260323-3239
-  - PRI-260328-B2EA
 ---
 When Meet-Ting launched its AI scheduling assistant, similar tools quickly emerged from startups and giants like Google and Perplexity. Rather than panicking or racing on features, the team used competitive pressure as a forcing function to ask what truly differentiated their product, team, and user offering. This reframed their trajectory from 'smartest assistant' to 'networked coordination layer.'
 

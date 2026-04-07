@@ -46,7 +46,6 @@ stance: >-
 related:
   - INS-260322-CCAA
   - INS-260323-636C
-  - INS-260323-DE39
   - INS-260325-47FE
   - INS-260323-D934
   - INS-260326-9402
@@ -54,6 +53,7 @@ related:
   - INS-260327-6C64
   - INS-260404-FBF8
   - INS-260404-AD45
+  - INS-260403-4120
 ---
 As AI agents proliferate in real-world environments, they will inevitably interact with other agents — both AI and human. Pure goal optimization without cooperation mechanisms leads to adversarial dynamics, resource conflicts, and emergent zero-sum behavior that harms all parties.
 

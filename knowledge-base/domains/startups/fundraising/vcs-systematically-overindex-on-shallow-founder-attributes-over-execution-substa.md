@@ -54,9 +54,9 @@ related:
   - INS-260323-F9FD
   - INS-260323-422B
   - INS-260403-9F64
+  - PRI-260406-3C6B
   - INS-260405-6E4F
   - INS-260405-D66B
-  - INS-260325-0688
 ---
 Research consistently demonstrates that venture capitalists overindex on shallow founder attributes—confidence, pedigree, presentation style—at the expense of substantive evaluation of problem-solving ability, domain expertise, and operational execution. This creates a systematic selection bias that leads to predictably poor investments in polished-but-hollow teams while missing strong operators who don't fit the pattern.
 

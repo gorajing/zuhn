@@ -60,6 +60,8 @@ related:
   - INS-260404-F69A
   - INS-260330-6AB7
   - INS-260404-1C01
+  - PRI-260406-B8B2
+  - PRI-260406-0A40
 evidence:
   - id: INS-260330-6AB7
     type: SUPPORTS

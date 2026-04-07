@@ -47,11 +47,11 @@ stance: >-
   steps in the motivation sequence produces fragile drive that collapses under
   pressure.
 related:
-  - INS-260403-CE7C
   - INS-260323-73AB
   - INS-260327-DC0B
+  - PRI-260406-69FC
   - INS-260327-4F3D
-  - INS-260403-78E2
+  - PRI-260406-229E
 evidence:
   - id: INS-260327-DC0B
     type: CHALLENGES

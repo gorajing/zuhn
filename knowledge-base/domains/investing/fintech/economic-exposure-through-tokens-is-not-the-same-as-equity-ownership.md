@@ -59,13 +59,12 @@ related:
   - INS-260326-0C14
   - INS-260403-8991
   - INS-260322-A31D
+  - PRI-260406-0A98
+  - PRI-260406-8987
   - INS-260403-18E0
-  - INS-260403-F852
-  - INS-260405-FFCE
   - INS-260402-B653
   - INS-260403-97FD
   - INS-260403-0F15
-  - INS-260402-9055
 ---
 When Robinhood distributed OpenAI and SpaceX tokens to EU users, those tokens did not represent direct ownership of company shares. Instead, they represented a financial claim on an intermediary SPV structure. This distinction is critical: preferred vs. common equity differs in liquidation priority, voting rights, and return profile, yet it remains unclear which type of exposure many tokens provide.
 

@@ -56,11 +56,11 @@ stance: >-
   recognizing these patterns early is essential to preserving innovation.
 related:
   - INS-260325-B115
+  - PRI-260406-3AE8
   - INS-260403-7A31
   - INS-260403-7C67
+  - PRI-260406-1796
   - INS-260404-20F3
-  - PRI-260403-C34A
-  - INS-260404-5CC6
 evidence:
   - id: INS-260325-B115
     type: CHALLENGES

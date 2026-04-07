@@ -48,9 +48,9 @@ stance: >-
 related:
   - INS-260329-49A4
   - INS-260403-4E51
+  - PRI-260406-46C3
   - PRI-260403-E097
   - INS-260403-0992
-  - INS-260403-6740
 ---
 Most founders celebrate a high CLTV to CAC ratio, but ratios significantly above 3:1 — especially 5:1 or 7:1 — often reveal under-spending on customer acquisition. If every customer returns 5-7x their acquisition cost, the company likely has room to invest more aggressively in growth channels while still maintaining healthy economics.
 

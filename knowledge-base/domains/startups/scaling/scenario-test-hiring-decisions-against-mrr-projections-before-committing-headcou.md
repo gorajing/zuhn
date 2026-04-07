@@ -55,14 +55,14 @@ stance: >-
   significantly better scaling decisions than those who hire based on pipeline
   optimism
 related:
-  - INS-260322-7F88
   - INS-260405-B361
   - INS-260403-8C2D
   - INS-260403-1ECB
   - INS-260403-EB0F
   - INS-260403-024E
+  - PRI-260406-E371
+  - PRI-260406-BC09
   - PRI-260405-608A
-  - INS-260322-D5EB
   - INS-260403-6807
 ---
 The article's case study is instructive: a seed-stage SaaS CEO was pressured by her board to hire 5 sales reps, but modeling 30 new customers/month at $120 ARPU with 4.5% churn showed they'd only reach $90k MRR in 6 months — not enough to support the headcount. She hired 2 instead, invested in pricing optimization, and beat revised projections within 3 months.

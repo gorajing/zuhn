@@ -54,12 +54,11 @@ stance: >-
   that obscures the true dilution cost to founders.
 related:
   - INS-260329-27DF
+  - PRI-260406-8987
   - INS-260402-3D34
+  - PRI-260406-0A98
   - INS-260403-3CD0
-  - INS-260403-8450
-  - INS-260329-6079
   - INS-260403-6EBD
-  - INS-260403-11E3
 ---
 Mezzanine lenders attach warrants as an equity kicker to compensate for the higher risk of subordinated debt. The coverage percentage, strike price, and target ownership are all negotiable inputs that mechanically determine the number of warrant shares and their value across exit scenarios. When founders or advisors treat warrants as a minor sweetener or narrative promise of alignment, they fail to calculate the actual dilution and its sensitivity to exit outcomes.
 

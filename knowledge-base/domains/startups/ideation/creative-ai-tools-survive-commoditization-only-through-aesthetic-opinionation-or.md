@@ -58,8 +58,8 @@ related:
   - INS-260322-B09B
   - INS-260403-9774
   - INS-260322-F65F
+  - PRI-260406-B97E
   - INS-260403-58DA
-  - INS-260327-B403
 stance: >-
   Basic image generation is being absorbed by foundation models, but creative
   tools that are aesthetically opinionated (Midjourney) or own non-commod...

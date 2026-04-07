@@ -49,13 +49,12 @@ stance: >-
 related:
   - INS-260403-822B
   - INS-260403-9867
+  - PRI-260406-E880
   - INS-260405-CB93
   - INS-260404-FD79
   - INS-260405-1EFD
-  - INS-260405-67F2
   - INS-260404-1DDB
   - INS-260404-B6CA
-  - INS-260405-7E50
 ---
 The author frames the GPT explicitly as a 'pitch deck co-pilot for story-building' rather than a template generator. This distinction matters because VCs evaluate narrative coherence and founder vision, not slide formatting. The GPT was trained on successful real-world pitch decks to help founders construct compelling stories.
 

@@ -47,11 +47,10 @@ stance: >-
   what you observe.
 related:
   - INS-260325-560A
+  - PRI-260406-C60B
+  - PRI-260406-1437
   - INS-260327-A4FE
   - INS-260330-AEE3
-  - INS-260325-BA76
-  - INS-260330-026B
-  - INS-260330-3737
 ---
 Pessoa created dozens of heteronyms - not pseudonyms but fully developed alternate identities with distinct writing styles and philosophies. This fragmentation wasn't literary gimmick but lived experience of what happens when self-awareness becomes recursive: observing yourself changes the self being observed, creating an infinite regress.
 

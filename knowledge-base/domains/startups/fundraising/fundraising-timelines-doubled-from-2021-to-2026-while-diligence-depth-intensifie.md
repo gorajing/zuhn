@@ -53,9 +53,9 @@ related:
   - INS-260329-8B33
   - INS-260403-7749
   - INS-260405-A309
+  - PRI-260406-04DB
   - INS-260405-C764
   - INS-260328-9415
-  - INS-260403-8421
 ---
 Fundraising cycles have roughly doubled since 2021, from 3-4 months to 6-9 months on average. More critically, the nature of diligence has deepened — what used to take a week now takes 1-2 months, covering org structure, security practices, customer contracts, and founder personal backgrounds. Term sheets that seemed solid fall through after deep diligence reveals issues.
 

@@ -52,9 +52,9 @@ stance: >-
   and missequencing this order wastes capital on the wrong problems.
 related:
   - INS-260403-B02A
+  - PRI-260406-B9A3
   - INS-260403-AC06
   - INS-260403-8FD7
   - INS-260330-2BB3
-  - INS-260403-7333
 ---
 The Onion Theory applies universally but the composition and ordering of layers differs by sector. Deep tech founders face existential technical risk before revenue even matters — investors want proof of principle, not customers. SaaS startups can show early revenue but the real risk is repeatability: can acquisition and retention scale profitably (CAC payback under 12-18 months, net retention above 100%)? Consumer startups may acquire users cheaply but face retention and habit-formation risk at the core. Marketplaces must solve liquidity risk (supply-demand density) before anything else matters. Fintech founders must build compliance infrastructure first because unmitigated legal risk nullifies every other layer. Founders who solve the wrong layer first — a deep tech company chasing revenue before proving the science, or a fintech scaling before securing licenses — burn capital without retiring the risk investors actually care about. Matching your de-risking sequence to your sector's risk signature is the single most important strategic decision in early-stage fundraising.

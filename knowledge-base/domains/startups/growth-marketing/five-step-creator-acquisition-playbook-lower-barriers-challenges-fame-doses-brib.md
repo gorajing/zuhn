@@ -59,7 +59,7 @@ related:
   - INS-260327-8682
   - PRI-260328-FD47
   - INS-260330-57BB
-  - INS-260329-B194
+  - PRI-260406-AF0C
 ---
 ByteDance's creator acquisition was methodical, not organic. Step 1: Lower barriers by building editing tools directly into the app so anyone could create professional-looking content. Step 2: Create challenges (inspired by the Ice Bucket Challenge) so users didn't need original ideas — just replicate the format. Step 3: Distribute fame broadly by algorithmically giving new creators viral moments, creating a 'gold rush' feeling that attracted more creators. Step 4: Pay established influencers from competing platforms to cross-post, sometimes up to $1M per creator. Step 5: Assign account managers to top creators who helped with everything from content strategy to personal issues.
 

@@ -55,7 +55,6 @@ stance: >-
   showcase expertise will build stronger professional reputations than those who
   force themselves into spontaneous verbal communication contexts
 related:
-  - INS-260329-40B6
   - INS-260329-3FF4
   - INS-260403-2612
   - PRI-260405-BF5B

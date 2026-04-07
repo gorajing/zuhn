@@ -46,7 +46,6 @@ stance: >-
   even to its creator, and the ability to push through this phase rather than
   abandon it is what separates great work from unrealized potential
 related:
-  - INS-260329-5818
   - INS-260320-96C9
   - INS-260405-10DF
   - INS-260405-7A7C

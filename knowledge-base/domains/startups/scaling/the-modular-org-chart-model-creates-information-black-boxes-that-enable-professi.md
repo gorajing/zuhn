@@ -49,10 +49,10 @@ stance: >-
   at the cost of founder effectiveness and company performance
 related:
   - PRI-260328-F0E4
+  - PRI-260406-598F
   - PRI-260405-86E0
   - INS-260403-1984
   - INS-260403-C23E
-  - INS-260326-291C
 evidence:
   - id: INS-260327-7F56
     type: TRANSFERS_TO

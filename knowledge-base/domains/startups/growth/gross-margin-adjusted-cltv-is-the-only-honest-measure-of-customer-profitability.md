@@ -51,9 +51,9 @@ related:
   - INS-260329-1F17
   - INS-260330-73A2
   - INS-260403-F85C
+  - PRI-260406-58FA
   - INS-260403-12B4
   - INS-260329-49A4
-  - INS-260323-F753
 ---
 The standard CLTV formula (ARPU / Churn Rate) only captures revenue, not profit — and investors care about how much you keep, not how much you make. The gross-margin-adjusted formula (ARPU × Gross Margin / Churn Rate) gives a realistic picture of true customer profitability. For a SaaS company with $100 ARPU, 5% churn, and 80% gross margin, this means CLTV is $1,600 rather than $2,000.
 

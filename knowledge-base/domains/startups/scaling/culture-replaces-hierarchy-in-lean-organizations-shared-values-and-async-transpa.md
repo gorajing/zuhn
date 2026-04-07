@@ -49,10 +49,10 @@ stance: >-
   is a more scalable coordination mechanism than management layers for teams
   under 50 people
 related:
+  - PRI-260406-21DA
   - INS-260403-A99F
   - INS-260325-502D
   - INS-260326-2E56
   - INS-260322-D57C
-  - INS-260403-C6A6
 ---
 Basecamp operates with ~30 people, no managers, profitable SaaS, asynchronous communication, and local decision-making. This works because culture fills the coordination gap that hierarchy normally occupies. The mechanism is specific: shared values create alignment without alignment meetings, async transparency (written updates, one-page reviews) replaces status syncs, and clear goals eliminate the need for someone to translate strategy into tasks. The tradeoff is that this model demands strong generalists who can think beyond their job title — you can't hire specialists who need a manager to connect their work to the bigger picture. The implication for founders is that investing in culture isn't a nice-to-have; it's the load-bearing infrastructure that makes lean scaling possible.

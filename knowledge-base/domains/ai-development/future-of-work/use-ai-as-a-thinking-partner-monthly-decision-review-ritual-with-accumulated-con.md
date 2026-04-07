@@ -47,9 +47,9 @@ resolutions:
 related:
   - PRI-260405-64B2
   - INS-260322-F128
+  - PRI-260406-E431
+  - PRI-260406-AA7D
   - INS-260403-9BEB
-  - INS-260330-DB4B
-  - INS-260327-8521
 stance: >-
   Share every major decision with AI daily, then monthly ask 'what was my
   biggest mistake in the past 6 months?'

@@ -48,15 +48,14 @@ stance: >-
   heuristics around pricing and growth rates unreliable guides for investment
   decisions.
 related:
-  - INS-260403-1FCD
   - INS-260404-304E
-  - INS-260403-6B72
   - INS-260405-B204
   - INS-260405-B88A
   - INS-260404-29AF
   - INS-260403-4AB2
   - PRI-260328-5CDE
   - PRI-260328-C918
+  - PRI-260406-6AE6
   - INS-260404-A0C2
 ---
 The traditional venture playbook relied on well-established benchmarks: T2D3 growth rates, standard fundraising thresholds at each stage, and precision pricing models calibrated over decades. AI-driven automation is compressing the time it takes startups to reach scale, which means companies can hit milestones faster with fewer resources than historical baselines assumed.

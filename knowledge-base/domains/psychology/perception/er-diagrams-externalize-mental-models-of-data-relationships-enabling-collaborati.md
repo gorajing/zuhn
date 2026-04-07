@@ -54,14 +54,11 @@ stance: >-
   implementation.
 related:
   - INS-260329-18C9
+  - PRI-260406-788D
   - INS-260329-7673
   - INS-260329-83AA
   - INS-260404-D711
-  - INS-260329-2DF2
-  - INS-260329-8233
-  - INS-260329-E43B
   - INS-260325-E23D
-  - INS-260329-1075
 evidence:
   - id: INS-260325-E23D
     type: EXTENDS

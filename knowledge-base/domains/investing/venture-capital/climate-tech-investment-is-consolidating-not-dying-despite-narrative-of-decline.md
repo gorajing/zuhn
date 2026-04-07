@@ -55,9 +55,9 @@ related:
   - INS-260403-FCB6
   - INS-260405-C88A
   - INS-260403-8BA4
+  - PRI-260406-070D
   - INS-260404-2D82
   - INS-260404-86D3
-  - INS-260327-C1F6
 ---
 Despite narratives declaring climate tech 'dead,' the evidence shows continued significant funding — including a €285M European sustainability fund and a $125M climate and health tech fund. What's actually happening is a maturation and consolidation of the sector, not an abandonment.
 

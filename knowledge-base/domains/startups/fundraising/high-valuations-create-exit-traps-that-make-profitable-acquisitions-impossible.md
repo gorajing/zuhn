@@ -51,10 +51,9 @@ related:
   - INS-260322-A31D
   - INS-260330-D644
   - INS-260403-912E
-  - INS-260403-8C56
   - INS-260403-C349
-  - INS-260404-A53F
-  - INS-260403-5B89
+  - PRI-260406-ADF0
+  - PRI-260406-0A98
 ---
 High valuations create a trap that goes beyond the commonly discussed difficulty of raising the next round. Liquidation preferences, participating preferred stock, and ratchets pile up from big early rounds, crushing exit flexibility. A modest or even substantial acquisition might return nothing to the founding team after preferences are paid out.
 

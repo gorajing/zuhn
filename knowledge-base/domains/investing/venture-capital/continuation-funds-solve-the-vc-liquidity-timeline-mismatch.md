@@ -49,9 +49,9 @@ stance: >-
 related:
   - INS-260403-53C0
   - INS-260405-83F0
+  - PRI-260406-0A0B
   - INS-260403-01FD
   - INS-260404-D3C3
-  - INS-260327-7E3D
   - INS-260403-6F9C
 ---
 Traditional VC fund structures assume a 10-year lifecycle with exits concentrated in years 7-10, but the reality—especially in Europe—is that strong companies increasingly take longer to reach meaningful liquidity events. Continuation funds bridge this gap by providing near-term returns to LPs while allowing VCs and founders to hold high-performing companies through their full growth trajectory.

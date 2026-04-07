@@ -50,12 +50,13 @@ resolutions:
     private through Series G, H, K rounds — meaning retail investors are locked
     out of the highest-growth phase. 'Series D was called an IPO' 30 years ago.
 related:
+  - PRI-260406-2546
   - INS-260405-33CD
   - INS-260322-E791
   - INS-260403-80D9
   - INS-260403-BA62
-  - INS-260403-8991
   - INS-260405-787F
+  - INS-260403-8991
   - INS-260403-2225
 stance: >-
   The entire GameStop crisis was caused by an archaic settlement system (T+1)

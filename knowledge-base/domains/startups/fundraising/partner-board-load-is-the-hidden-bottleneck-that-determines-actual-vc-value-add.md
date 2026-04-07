@@ -52,11 +52,11 @@ stance: >-
   firm brand or stated value-add.
 related:
   - INS-260328-2CFF
+  - PRI-260406-E880
   - INS-260405-94A1
   - INS-260403-A331
   - INS-260402-A22C
   - INS-260404-63D5
-  - INS-260405-CB93
 ---
 Every investor promises value-add, but the real constraint is human bandwidth. A partner managing 8-10+ active board seats cannot provide deep strategic engagement to any single company. Studies show that active monitoring and governance correlate with better innovation and exit outcomes, but this requires actual time investment — monthly KPI reviews, quarterly strategy sessions, and timely talent search support.
 

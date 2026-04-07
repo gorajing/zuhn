@@ -49,9 +49,9 @@ stance: >-
 related:
   - INS-260330-1FED
   - INS-260330-E4B6
+  - PRI-260406-9573
   - INS-260327-37E3
   - INS-260404-C147
-  - INS-260327-D1B7
 evidence:
   - id: INS-260327-37E3
     type: TRANSFERS_TO

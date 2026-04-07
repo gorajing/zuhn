@@ -54,10 +54,10 @@ stance: >-
   structural barriers remain.
 related:
   - INS-260405-6FE3
+  - PRI-260406-FC94
   - INS-260404-C9D0
   - INS-260405-3E92
   - INS-260405-DDC2
-  - INS-260403-1823
 ---
 Aggregate statistics about female founder funding can be misleading when a few outlier deals dominate the signal. If one or two late-stage AI companies with female co-founders raise $500M+ rounds, that alone can shift the percentage of total VC dollars going to female founders significantly — without any change in the underlying funding environment for most women-led startups at seed or Series A.
 

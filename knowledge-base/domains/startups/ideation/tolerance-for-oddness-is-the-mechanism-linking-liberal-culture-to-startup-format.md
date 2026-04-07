@@ -51,7 +51,6 @@ stance: >-
   only oddness-tolerant environments let them survive.
 related:
   - INS-260323-6BF4
-  - INS-260402-7C15
   - INS-260405-4EAA
   - INS-260403-922C
   - INS-260404-86DE

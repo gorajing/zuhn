@@ -57,11 +57,11 @@ stance: >-
   suboptimal implementation of the right goal, and the cost only becomes visible
   at scale
 related:
+  - PRI-260406-3285
   - INS-260323-6944
   - INS-260329-7A6A
   - INS-260329-D8BC
   - INS-260404-41AA
-  - INS-260329-818A
 evidence:
   - id: INS-260329-D8BC
     type: SUPPORTS

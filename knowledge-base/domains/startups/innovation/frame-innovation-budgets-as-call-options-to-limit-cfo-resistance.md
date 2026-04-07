@@ -48,7 +48,6 @@ stance: >-
   more persuasive to CFOs than ROI projections because conventional NPV tools
   systematically undervalue optionality.
 related:
-  - INS-260330-2952
   - INS-260403-7DC7
   - INS-260404-2F75
   - INS-260330-4D05

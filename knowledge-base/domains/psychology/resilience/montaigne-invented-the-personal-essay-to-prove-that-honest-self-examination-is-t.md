@@ -47,13 +47,14 @@ stance: >-
   your own contradictions, fears, and absurdities without judgment — produces
   deeper philosophical insight than abstract theorizing about human nature.
 related:
+  - PRI-260406-C60B
   - INS-260327-1313
   - INS-260327-B64B
   - PRI-260327-5635
   - INS-260330-AEE3
-  - INS-260402-1414
   - INS-260323-D060
   - INS-260327-12B5
+  - INS-260402-1414
   - INS-260403-560A
   - INS-260325-E78D
 evidence:

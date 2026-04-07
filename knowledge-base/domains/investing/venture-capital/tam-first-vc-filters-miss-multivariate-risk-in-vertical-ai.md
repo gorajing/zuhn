@@ -49,12 +49,11 @@ stance: >-
   Vertical AI opportunities, which win through risk decomposition rather than
   market size.
 related:
-  - INS-260322-D1AB
   - INS-260402-BF2E
   - PRI-260323-81E9
+  - PRI-260406-A33C
+  - PRI-260406-7ED0
   - INS-260405-3403
-  - INS-260325-B067
-  - INS-260330-C8B4
 ---
 Traditional VC screening starts with market size—is this a $1B+ opportunity? But in Vertical AI, the most defensible businesses often address markets that look small under naive TAM analysis, because they require deep domain integration that creates switching costs invisible to surface-level sizing. Euclid's framing is that the better filter is multivariate risk: can this company achieve distribution, avoid commoditization as models improve, and build data moats before incumbents respond?
 

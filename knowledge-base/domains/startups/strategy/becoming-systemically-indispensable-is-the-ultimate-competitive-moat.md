@@ -50,7 +50,6 @@ stance: >-
   would cause systemic collapse, it gains leverage that transcends normal market
   dynamics and even government regulation.
 related:
-  - INS-260327-3788
   - INS-260327-CA05
   - INS-260327-C68B
   - INS-260330-E853

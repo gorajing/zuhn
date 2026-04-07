@@ -47,11 +47,11 @@ stance: >-
   magnitude shorter than in SaaS, making strategic speed the primary survival
   factor.
 related:
+  - PRI-260406-EBDB
   - INS-260403-BA1B
   - INS-260403-CD51
+  - PRI-260406-C4C5
   - INS-260403-ABC5
-  - INS-260404-21E6
-  - INS-260329-4DBC
 ---
 In SaaS, features might take years to copy—giving companies time to iterate, build switching costs, and establish distribution. In AI, commoditization happens overnight. Every new AI feature spawns 100 clones on Product Hunt. The adoption window is measured in quarters, not years. When costs spiral, you get months to fix it, not years. When commoditization hits, you have weeks to react, not quarters.
 

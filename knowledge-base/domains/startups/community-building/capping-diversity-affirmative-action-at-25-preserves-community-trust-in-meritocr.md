@@ -54,9 +54,9 @@ stance: >-
 related:
   - INS-260404-5365
   - INS-260405-D66B
+  - PRI-260406-A33C
   - INS-260403-8BA2
   - PRI-260405-EBC6
-  - PRI-260405-4B06
 ---
 Scott notes that most ACX book review entries trend toward nonfiction on technical topics, and he wants to counteract this without abandoning meritocracy. His solution: reserve no more than 25% of finalist slots for nontraditional categories (fiction, poetry, pre-1900 books). The explicit cap is key — it makes the intervention legible and bounded rather than open-ended.
 

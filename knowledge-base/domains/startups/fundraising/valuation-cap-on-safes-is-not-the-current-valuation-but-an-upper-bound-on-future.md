@@ -54,15 +54,15 @@ stance: >-
   fundamentally misunderstand SAFE mechanics and will be surprised by dilution
   at the priced round.
 related:
-  - INS-260329-6079
+  - PRI-260406-3317
   - INS-260403-B98A
+  - PRI-260406-FD1C
   - INS-260403-BED6
   - INS-260405-FFCE
-  - INS-260403-7190
   - INS-260404-D654
   - INS-260405-AB6B
   - INS-260403-D11C
-  - INS-260403-130A
+  - INS-260403-7190
   - INS-260404-0EB2
 evidence:
   - id: INS-260330-808B

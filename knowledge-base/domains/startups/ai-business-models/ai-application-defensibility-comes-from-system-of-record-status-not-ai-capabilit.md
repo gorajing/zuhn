@@ -47,11 +47,11 @@ resolutions:
 related:
   - INS-260403-11F9
   - INS-260403-427E
+  - PRI-260406-28E1
   - PRI-260328-9C71
-  - INS-260323-7B63
-  - PRI-260324-36BF
-  - INS-260327-643C
+  - PRI-260406-EBDB
   - INS-260404-F38A
+  - INS-260323-7B63
 stance: >-
   AI differentiation is not the same as defensibility — the moat comes from
   owning the end-to-end workflow and becoming the system of record.

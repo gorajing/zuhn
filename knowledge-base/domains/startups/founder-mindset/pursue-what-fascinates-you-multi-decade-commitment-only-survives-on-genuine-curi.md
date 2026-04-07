@@ -44,11 +44,11 @@ resolutions:
     multi-decade commitment depends on genuine fascination with the problem
     domain, not just the business opportunity.
 related:
+  - PRI-260406-229E
   - INS-260325-71DE
   - INS-260328-8DF8
   - INS-260403-4431
   - INS-260330-E263
-  - PRI-260325-A95E
 stance: >-
   Boston Dynamics' extremely low attrition comes from people pursuing genuine
   fascination — you do it much better when you love it.

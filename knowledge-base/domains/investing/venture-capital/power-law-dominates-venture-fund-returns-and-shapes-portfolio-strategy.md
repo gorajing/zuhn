@@ -50,14 +50,13 @@ stance: >-
 related:
   - INS-260327-17BE
   - INS-260329-388E
-  - INS-260329-59FF
   - INS-260403-9775
   - INS-260403-FA65
   - INS-260404-7F24
-  - INS-260403-52B7
   - INS-260405-C56F
   - INS-260405-3A6E
   - INS-260403-D8B5
+  - PRI-260405-ED62
 ---
 The power law in venture capital means that a tiny fraction of investments — often just 1-2 deals — drive the majority of a fund's returns. This has profound implications for how VCs construct portfolios and make follow-on decisions. Unlike traditional investing where diversification smooths returns, VC requires concentration in winners.
 

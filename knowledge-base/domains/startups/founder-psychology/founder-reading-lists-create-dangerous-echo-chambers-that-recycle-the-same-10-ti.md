@@ -45,9 +45,9 @@ stance: >-
   knowledge outside the canonical list.
 related:
   - INS-260329-613F
+  - PRI-260406-ABAA
   - INS-260330-B91E
   - INS-260327-9377
   - INS-260327-6E86
-  - INS-260329-26AC
 ---
 The article explicitly notes that most 'Top 10 Startup Books' lists repeat the same titles from the same echo chamber. This convergence means founders develop nearly identical mental models—useful for shared vocabulary but dangerous for competitive differentiation. The underrated gems section (Ulwick's Outcome-Driven Innovation, Chen's Cold Start Problem, Jarvis's Company of One) contains frameworks that could materially change strategy, yet they rarely surface in standard recommendations. Founders who deliberately seek knowledge outside the canonical list gain asymmetric insight advantages.

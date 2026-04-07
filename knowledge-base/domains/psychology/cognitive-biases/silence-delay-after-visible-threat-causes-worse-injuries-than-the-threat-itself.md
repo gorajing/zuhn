@@ -48,7 +48,6 @@ stance: >-
   causes people to lower their guard, resulting in more casualties than the
   initial event would have caused alone
 related:
-  - INS-260327-7D0B
   - INS-260330-BE6F
   - INS-260330-0F49
   - INS-260330-ADC6

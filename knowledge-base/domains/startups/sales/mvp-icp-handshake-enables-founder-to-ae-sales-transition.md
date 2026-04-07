@@ -47,7 +47,7 @@ related:
   - INS-260327-A815
   - PRI-260328-E921
   - INS-260327-9C00
+  - PRI-260406-CCAE
   - INS-260404-D3C7
-  - INS-260403-805E
 ---
 The transition from founder-led sales to a scalable AE-led model is one of the most dangerous inflection points for startups. Founders carry implicit product knowledge and passion that closes deals through sheer conviction, but this doesn't scale. The MVP-ICP handshake framework argues that the product itself must encode enough ICP-specific value that the sales conversation becomes structured and repeatable. When MVP features map directly to ICP pain points, sales reps can follow a clear narrative rather than improvising. This means founders should design their MVP not just for product-market fit, but specifically for sales-process transferability — building in the hooks that let a trained AE tell the same compelling story.

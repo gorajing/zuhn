@@ -53,10 +53,10 @@ resolutions:
     extreme upside rather than optimizing the median case.
 related:
   - INS-260323-B849
+  - PRI-260406-32FE
   - INS-260405-C56F
   - INS-260403-A868
   - PRI-260323-81E9
-  - PRI-260405-ED62
   - INS-260325-3B28
   - INS-260327-D5E0
   - INS-260330-E4FA

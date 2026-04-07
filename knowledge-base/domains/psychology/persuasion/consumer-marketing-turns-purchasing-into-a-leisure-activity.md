@@ -44,11 +44,11 @@ stance: >-
   cannot resist until their thirties or later
 related:
   - INS-260327-57A4
+  - PRI-260406-62AD
+  - PRI-260406-7CD8
   - INS-260404-8D37
   - INS-260322-AAEA
-  - INS-260403-21C4
-  - INS-260403-C5D8
-  - INS-260403-E681
+  - PRI-260406-0087
 evidence:
   - id: INS-260404-8D37
     type: TRANSFERS_TO

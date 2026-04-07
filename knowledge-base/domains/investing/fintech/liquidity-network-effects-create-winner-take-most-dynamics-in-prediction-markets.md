@@ -56,12 +56,11 @@ stance: >-
   improve price discovery, which attracts more traders, creating a compounding
   flywheel that favors platforms achieving early liquidity critical mass
 related:
-  - INS-260329-C7B8
+  - PRI-260406-D106
+  - PRI-260406-311D
   - INS-260404-4758
   - INS-260330-0294
   - INS-260323-422B
-  - PRI-260328-A4AC
-  - PRI-260320-5947
 ---
 Without sufficient liquidity, small trades cause large price swings and wide bid-ask spreads, degrading the market's core value proposition of accurate price discovery. As volume increases, spreads tighten, signals sharpen, and the market becomes more useful — pulling in additional participants.
 

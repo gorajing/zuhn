@@ -52,8 +52,8 @@ stance: >-
 related:
   - INS-260404-4682
   - INS-260402-9055
+  - PRI-260406-FD1C
   - INS-260403-5151
-  - INS-260403-A9F2
-  - INS-260327-6E93
+  - PRI-260406-ADF0
 ---
 Despite the well-documented disadvantages of SAFEs and convertible notes at larger round sizes — dilution ambiguity, stacking risk, and valuation cap complexity — they continue to dominate early-stage rounds up to $4-5M because founders rationally prioritize speed over optimization. The transaction cost of negotiating a priced round (legal fees, time, complexity) outweighs the potential savings for most founders at this stage. However, AI-powered legal review tools are beginning to collapse that transaction cost gap. When closing documents can be reviewed in minutes rather than weeks, the speed advantage of SAFEs diminishes, potentially creating space for priced rounds to return at earlier stages. This represents a broader pattern: AI tools don't just automate existing workflows, they can shift equilibrium points in markets where speed-vs-quality tradeoffs previously locked in suboptimal defaults.

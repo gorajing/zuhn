@@ -54,8 +54,8 @@ related:
   - INS-260404-0C25
   - INS-260330-D8D1
   - PRI-260328-E921
+  - PRI-260406-CCAE
   - INS-260403-F4E7
-  - INS-260405-A671
 ---
 A featured startup targets the European SME succession crisis — thousands of profitable companies at risk of closure because aging founders have no succession plan. Their solution enables employee buyouts with financing, software, and advisory services, and they've already built a €70M pipeline with two LOIs signed.
 

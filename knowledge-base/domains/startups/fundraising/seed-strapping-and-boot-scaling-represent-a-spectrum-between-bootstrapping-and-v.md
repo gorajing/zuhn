@@ -79,12 +79,11 @@ related:
   - INS-260403-5B46
   - INS-260403-FED1
   - INS-260327-B9BB
+  - PRI-260406-EE38
+  - PRI-260406-1F70
   - INS-260403-64F1
-  - PRI-260405-E9C5
-  - INS-260403-4904
   - INS-260403-6177
   - INS-260405-F531
-  - INS-260405-0CE9
 ---
 The traditional framing of 'bootstrap or raise VC' presents a false binary. Seed strapping involves taking a small seed round but then growing primarily from revenue rather than raising successive rounds, preserving equity while getting initial capital momentum. Boot-scaling is the inverse: starting bootstrapped to prove the model, then raising venture capital to accelerate once unit economics are validated.
 

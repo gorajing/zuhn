@@ -45,10 +45,10 @@ stance: >-
   quantifiable annual debt you pay for every year you lack a skill.
 related:
   - INS-260329-3FED
+  - PRI-260406-12D7
   - INS-260329-5A47
   - INS-260329-D4BC
   - INS-260329-191D
-  - INS-260329-F443
 evidence:
   - id: INS-260329-191D
     type: SUPPORTS

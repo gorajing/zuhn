@@ -53,11 +53,10 @@ stance: >-
   rather than reducing polarization.
 related:
   - INS-260323-DEF0
-  - INS-260330-27DF
   - INS-260403-E4C7
   - INS-260403-889B
+  - PRI-260406-AA07
   - INS-260327-C9A7
-  - INS-260330-0371
 ---
 Törnberg (2025) documents a clear pattern: overall platform use has declined, with the youngest and oldest Americans increasingly abstaining from social media altogether. Facebook, YouTube, and Twitter/X have all lost ground. However, across platforms, political posting remains tightly linked to affective polarization — the most partisan users are the most active. As casual users disengage and polarized partisans remain vocal, the online public sphere grows smaller, sharper, and more ideologically extreme.
 

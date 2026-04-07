@@ -47,10 +47,9 @@ related:
   - INS-260322-D57C
   - PRI-260403-7D1F
   - PRI-260405-608A
-  - INS-260403-BF1F
-  - INS-260329-74F9
+  - PRI-260406-E371
+  - PRI-260406-8A97
   - INS-260403-2718
-  - INS-260403-6807
 stance: >-
   At scale, your recruiting pipeline needs the same metrics-driven rigor as your
   customer pipeline: lead gen, nurture, conversion, onboarding, retent...

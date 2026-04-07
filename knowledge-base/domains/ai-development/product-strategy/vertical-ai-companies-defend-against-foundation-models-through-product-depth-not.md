@@ -51,13 +51,12 @@ stance: >-
   depth, brand, and taste — the things that require thousands of iteration
   steps.
 related:
-  - INS-260323-4EE4
+  - PRI-260406-28E1
   - INS-260403-3C66
+  - INS-260323-4EE4
   - PRI-260324-36BF
   - INS-260403-26D4
-  - INS-260404-397F
   - INS-260327-F4DB
-  - INS-260405-FAA3
 evidence:
   - id: INS-260327-289F
     type: REFINES

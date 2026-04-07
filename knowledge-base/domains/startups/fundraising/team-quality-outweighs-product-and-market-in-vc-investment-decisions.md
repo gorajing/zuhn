@@ -47,10 +47,10 @@ stance: >-
   idea in high-uncertainty environments.
 related:
   - INS-260403-35A6
+  - PRI-260406-7710
   - INS-260330-7220
   - INS-260403-F554
   - INS-260403-05EB
-  - INS-260323-C370
 ---
 When VCs evaluate startups, they follow a clear hierarchy: team first (65% rank it #1), market second, product third. This ordering reflects a deep structural insight about early-stage investing — startups almost always pivot, markets shift, and initial products rarely survive contact with customers. What persists is the founding team's ability to adapt, execute, and recruit.
 

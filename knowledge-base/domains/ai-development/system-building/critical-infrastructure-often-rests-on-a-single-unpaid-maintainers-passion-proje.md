@@ -49,7 +49,7 @@ related:
   - INS-260404-20F3
   - INS-260330-5E47
   - INS-260323-A8B5
-  - INS-260330-22C0
+  - PRI-260406-6AE6
 stance: >-
   The XZ backdoor nearly succeeded because the entire Linux ecosystem depended
   on a compression tool maintained by one burned-out volunteer for 20 ye...

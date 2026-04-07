@@ -52,12 +52,11 @@ stance: >-
   interdependent chain represent disproportionately large AI opportunities
   because optimization compounds across every downstream step
 related:
-  - INS-260402-B2A2
+  - PRI-260406-9573
   - PRI-260328-DF2D
   - PRI-260328-A4AC
-  - PRI-260328-43F1
-  - INS-260403-52DB
-  - PRI-260328-F0B4
+  - PRI-260406-311D
+  - PRI-260406-466E
 ---
 Real estate exemplifies a broader pattern: industries built as chains of interdependent specialized tasks managed by different third parties, where any single delay or error snowballs through the entire pipeline. Construction runs 20 months behind schedule on average, with 98% of projects overshooting costs or timelines, precisely because this cascade effect amplifies small inefficiencies.
 

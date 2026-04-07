@@ -49,7 +49,6 @@ stance: >-
   your head.
 related:
   - INS-260330-E660
-  - INS-260330-FAB4
   - INS-260330-80AF
   - INS-260402-E470
   - INS-260402-9676

@@ -51,11 +51,11 @@ stance: >-
   advanced topics are more likely to reach advanced material than those
   following a multi-resource learning path
 related:
-  - INS-260329-90C3
   - INS-260329-26AC
   - PRI-260405-71C5
   - INS-260330-0102
-  - INS-260329-32DB
+  - INS-260329-90C3
+  - PRI-260406-6EF8
 evidence:
   - id: INS-260329-26AC
     type: SUPPORTS

@@ -52,14 +52,14 @@ stance: >-
 related:
   - INS-260322-770D
   - INS-260327-484F
-  - INS-260402-9288
-  - INS-260403-5B89
-  - INS-260403-7F67
   - INS-260404-D475
+  - PRI-260406-ADF0
   - INS-260404-7E85
+  - INS-260403-5B89
   - INS-260404-9103
-  - INS-260403-B228
   - INS-260403-1E5C
+  - INS-260403-70B9
+  - INS-260403-B228
 ---
 Kalshi's valuation jump to $11B following a $1B financing round illustrates the prediction market category's explosive growth alongside its fundamental tension. Surging volumes and competitive dynamics with Polymarket are driving massive value creation, but this growth coincides with increasing legal friction because regulators struggle to categorize these instruments.
 

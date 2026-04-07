@@ -49,11 +49,11 @@ stance: >-
   biggest winners.
 related:
   - INS-260325-2CC7
-  - INS-260327-3A81
   - INS-260403-34A6
+  - PRI-260406-9573
+  - INS-260327-3A81
+  - PRI-260406-6DBE
   - INS-260403-599B
-  - PRI-260328-A1AA
-  - PRI-260403-4612
 evidence:
   - id: INS-260325-2CC7
     type: SUPPORTS

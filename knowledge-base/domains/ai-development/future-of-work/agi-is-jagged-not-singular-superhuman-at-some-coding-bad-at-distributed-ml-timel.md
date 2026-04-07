@@ -53,8 +53,7 @@ related:
   - PRI-260403-EA13
   - INS-260403-4803
   - PRI-260328-B4BD
-  - INS-260404-DBD2
-  - INS-260403-1B53
+  - PRI-260406-BD4D
   - INS-260403-A851
 stance: >-
   AI capabilities are 'jagged' -- superhuman at frontend/traditional ML but bad

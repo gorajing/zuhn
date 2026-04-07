@@ -41,11 +41,11 @@ stance: >-
   Rationally evaluating worst-case outcomes (losing one day's pay, enduring
   embarrassment) makes seemingly risky decisions obviously correct.
 related:
+  - PRI-260406-6A1C
   - INS-260329-BFBF
+  - PRI-260406-7ED0
   - INS-260329-59A5
   - INS-260402-4AB4
-  - INS-260403-DC6C
-  - INS-260329-EE04
 evidence:
   - id: INS-260329-59A5
     type: SUPPORTS

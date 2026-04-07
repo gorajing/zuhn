@@ -42,12 +42,12 @@ resolutions:
     switches cost 30 minutes of focus, and that every automation makes the next
     one cheaper.
 related:
+  - PRI-260406-E602
   - PRI-260328-D5EB
+  - PRI-260406-818D
   - INS-260322-3C3D
   - PRI-260328-4CC0
-  - INS-260329-E8EB
   - PRI-260328-6CEC
-  - INS-260327-6A4B
   - INS-260328-0932
   - INS-260329-4092
   - INS-260330-0C1B

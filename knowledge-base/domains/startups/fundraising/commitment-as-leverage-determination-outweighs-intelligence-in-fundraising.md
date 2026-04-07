@@ -46,11 +46,11 @@ stance: >-
   determined founder than by rational evaluation of the startup's intelligence
   or technology.
 related:
+  - PRI-260406-2E0D
   - INS-260403-3A67
   - INS-260405-5BA9
   - INS-260330-B6FA
   - INS-260403-1CC6
-  - INS-260403-0551
 evidence:
   - id: INS-260404-2250
     type: SUPPORTS

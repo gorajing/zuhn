@@ -45,10 +45,11 @@ stance: >-
   Economies of scale become a liability rather than an advantage when the rate
   of technological change exceeds an organization's ability to adapt internally.
 related:
-  - INS-260330-0294
   - INS-260404-CAD5
+  - INS-260330-0294
+  - PRI-260406-0EC6
+  - PRI-260406-311D
   - INS-260403-CA46
-  - INS-260403-B7C6
   - INS-260402-FF4F
 evidence:
   - id: INS-260321-21BE

@@ -48,7 +48,7 @@ related:
   - INS-260330-B50A
   - INS-260403-E21C
   - INS-260402-7A1A
-  - INS-260403-979D
+  - PRI-260406-1B3A
 evidence:
   - id: INS-260402-7A1A
     type: SUPPORTS

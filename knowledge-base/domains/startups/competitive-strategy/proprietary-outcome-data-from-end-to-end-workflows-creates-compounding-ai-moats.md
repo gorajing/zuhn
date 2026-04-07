@@ -54,8 +54,7 @@ related:
   - INS-260403-64F4
   - INS-260403-494E
   - PRI-260328-DF2D
-  - INS-260403-2DB2
-  - INS-260405-966C
+  - INS-260403-042B
 stance: >-
   Owning the full workflow from intake to outcome generates proprietary data
   that public models can't replicate

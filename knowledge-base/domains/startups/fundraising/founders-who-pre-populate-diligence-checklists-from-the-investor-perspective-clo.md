@@ -54,14 +54,14 @@ stance: >-
 related:
   - INS-260328-9415
   - INS-260330-404B
-  - INS-260403-7C47
   - INS-260403-AAAC
   - INS-260403-21B2
   - INS-260405-83F0
   - INS-260403-943E
   - INS-260405-1982
-  - INS-260404-5EB8
+  - PRI-260406-EC93
   - INS-260402-3F8D
+  - INS-260403-882A
 ---
 The article reveals a powerful asymmetry: most founders wait for investor requests, then scramble to locate documents scattered across drives and inboxes. Founders who instead adopt the investor's diligence framework—pre-populating answers to key questions across team, technology, regulatory, GTM, competition, market, financials, exit potential, and legal/cap table—walk into diligence looking sharp and close with fewer surprises.
 

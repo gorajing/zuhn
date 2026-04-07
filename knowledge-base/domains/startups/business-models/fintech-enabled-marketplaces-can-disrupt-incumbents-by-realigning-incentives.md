@@ -49,7 +49,6 @@ stance: >-
   historically misaligned incentives (healthcare, education) more effectively
   than pure software marketplaces
 related:
-  - INS-260330-6EE1
   - INS-260403-4F0D
   - INS-260403-BE7C
   - INS-260403-E1EB

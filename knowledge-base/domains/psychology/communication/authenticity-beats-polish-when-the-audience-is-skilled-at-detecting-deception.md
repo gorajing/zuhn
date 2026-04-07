@@ -49,7 +49,6 @@ stance: >-
   or gaps actively backfires because your audience is better at detecting
   bullshit than you are at producing it
 related:
-  - INS-260329-F063
   - INS-260404-405A
   - PRI-260403-0ABD
   - INS-260325-E84D

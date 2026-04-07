@@ -57,7 +57,6 @@ related:
   - INS-260403-8EF3
   - PRI-260328-0C51
   - INS-260403-063E
-  - INS-260403-E706
 ---
 A reported MIT study found that 95% of companies that had invested in AI tools were seeing zero measurable return on that investment. While this headline figure likely reflects a specific moment in the adoption curve rather than a permanent verdict on AI's value, it highlights a critical deployment maturity gap.
 

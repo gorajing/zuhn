@@ -62,8 +62,8 @@ related:
   - INS-260323-12F2
   - INS-260323-7F5D
   - INS-260327-0133
-  - INS-260327-A4FE
   - INS-260327-D212
+  - INS-260327-EDE4
 ---
 Hoffman argues that the standard approach to consciousness — trying to derive subjective experience from neurons, microtubules, or integrated information within spacetime — is fundamentally misguided because spacetime itself is not fundamental. All current theories of consciousness (IIT, orchestrated collapse, global workspace, attention schema) assume spacetime as bedrock, which physicists like Nima Arkani-Hamed have shown is 'doomed.'
 

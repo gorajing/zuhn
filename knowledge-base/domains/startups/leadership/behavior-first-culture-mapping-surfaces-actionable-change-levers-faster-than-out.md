@@ -48,14 +48,15 @@ stance: >-
   abstract outcomes produces more specific and actionable culture maps because
   behaviors are what people actually experience and discuss.
 related:
-  - INS-260323-ACD9
   - INS-260330-B5BF
   - INS-260403-6224
   - INS-260404-F834
   - INS-260405-AAB7
   - INS-260403-A99F
-  - INS-260404-266F
+  - INS-260323-ACD9
+  - PRI-260406-21DA
   - INS-260404-74F4
+  - INS-260404-266F
   - INS-260402-67B4
 evidence:
   - id: INS-260405-AAB7

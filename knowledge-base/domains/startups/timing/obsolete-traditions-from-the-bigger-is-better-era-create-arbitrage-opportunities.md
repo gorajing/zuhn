@@ -49,10 +49,10 @@ stance: >-
   assumptions no longer hold.
 related:
   - INS-260330-EEED
+  - PRI-260406-7B76
   - PRI-260328-33E5
   - INS-260403-3BBB
   - INS-260323-8AB8
-  - INS-260403-99FE
 evidence:
   - id: INS-260323-8AB8
     type: CHALLENGES

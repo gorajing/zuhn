@@ -47,9 +47,9 @@ stance: >-
 related:
   - INS-260323-DA6F
   - INS-260404-7D4D
+  - PRI-260406-04DB
   - INS-260403-9CC1
   - PRI-260328-0993
-  - INS-260403-3A72
 ---
 After years of near-zero interest rates enabling growth-at-all-costs investing, the VC landscape has recalibrated. Forbes and others note that investors now scrutinize unit economics and profitability timelines far more aggressively than during the 2020-2021 bubble peak.
 

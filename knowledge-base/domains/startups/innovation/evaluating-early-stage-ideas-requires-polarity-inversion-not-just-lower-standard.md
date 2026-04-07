@@ -53,14 +53,14 @@ stance: >-
 related:
   - INS-260323-DEF0
   - INS-260322-F609
-  - INS-260327-7DAA
   - INS-260330-0DCA
   - INS-260330-E0F5
   - INS-260403-AAE4
   - INS-260403-57F6
-  - INS-260403-39E9
   - INS-260403-B734
+  - PRI-260406-D43E
   - INS-260403-EEE5
+  - INS-260403-EFCC
 ---
 Graham distinguishes between two approaches to early-stage ideas that look similar but are fundamentally different. Lowering your standards means applying the same critical framework with more tolerance. Inverting polarity means abandoning the critical framework entirely and switching to a generative one: given this idea, how could it work?
 

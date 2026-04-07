@@ -51,7 +51,7 @@ related:
   - INS-260330-965B
   - INS-260326-7B2A
   - PRI-260405-608A
-  - INS-260405-89E7
+  - PRI-260406-D7EA
 ---
 Every time Sequoia helps a portfolio company hire a VP of Engineering, they ask one question: who are the five smartest peers you respect in this role? Every answer goes into their CRM, and they've done this for over ten years across roles, stages, and geographies.
 

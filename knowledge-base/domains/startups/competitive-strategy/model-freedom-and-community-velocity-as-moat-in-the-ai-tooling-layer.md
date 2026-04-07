@@ -54,11 +54,11 @@ related:
   - INS-260325-522A
   - INS-260322-34AE
   - INS-260323-6414
-  - INS-260327-B561
   - INS-260327-560D
   - INS-260330-B437
   - INS-260403-36D1
   - INS-260403-8A65
+  - INS-260403-4964
 ---
 Kilo Code's strategy reveals an emerging moat pattern for AI developer tools: model freedom (letting users bring any model provider) combined with open-source community engagement that accelerates development beyond what any closed team could achieve. Eric from Kilo Code frames their moat as 'speed of development × community engagement' — they grew to 1.5M users in under a year by encouraging community PRs and responding to user feedback rapidly.
 

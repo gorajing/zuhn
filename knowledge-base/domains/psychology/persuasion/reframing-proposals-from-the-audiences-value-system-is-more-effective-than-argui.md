@@ -49,11 +49,11 @@ stance: >-
   consistently outperforms presenting it from your own perspective, even when
   the underlying ask is identical.
 related:
+  - PRI-260406-B97E
   - INS-260403-97DB
   - INS-260403-A408
   - INS-260402-F3D7
   - INS-260329-13D2
-  - INS-260327-E833
 ---
 When Jules Walter needed Slack CEO Stewart Butterfield's approval for a controversial monetization experiment, he knew Butterfield was allergic to value-extraction framing. Instead of leading with revenue projections, Walter reframed the entire proposal around user benefit: paid users retain better, yet Slack makes it hard to discover the paid version. Same project, completely different frame.
 

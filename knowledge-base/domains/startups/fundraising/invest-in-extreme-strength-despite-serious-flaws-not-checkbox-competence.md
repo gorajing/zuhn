@@ -52,11 +52,10 @@ stance: >-
   well-rounded companies that merely check every box
 related:
   - INS-260330-A484
+  - PRI-260406-3C6B
   - INS-260403-970B
   - INS-260403-F6D2
   - INS-260330-06CD
-  - INS-260325-8B36
-  - INS-260402-7DCC
 evidence:
   - id: INS-260330-06CD
     type: SUPPORTS

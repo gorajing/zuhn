@@ -50,10 +50,10 @@ resolutions:
     and universal/timeless framing.
 related:
   - INS-260322-D6D7
-  - INS-260329-3739
-  - PRI-260323-81E9
-  - INS-260405-3046
-  - INS-260329-2AB9
+  - PRI-260406-E75B
+  - PRI-260406-0109
+  - PRI-260406-A33C
+  - PRI-260406-4C28
 stance: >-
   Track four quadrants — high eval + high views (validated winners), high eval +
   low views (false positives), low eval + high views (missed patterns)...

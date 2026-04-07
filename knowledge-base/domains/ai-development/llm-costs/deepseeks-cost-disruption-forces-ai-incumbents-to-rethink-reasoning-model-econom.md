@@ -49,7 +49,6 @@ stance: >-
   will compress margins for proprietary AI providers and democratize access to
   reasoning capabilities
 related:
-  - INS-260321-3BA8
   - INS-260327-C15B
   - INS-260329-9D87
   - INS-260329-8F7C
@@ -59,6 +58,7 @@ related:
   - PRI-260405-B144
   - INS-260320-EF3A
   - INS-260403-5D89
+  - INS-260325-DD43
 ---
 DeepSeek's R1 model represents a structural challenge to the prevailing AI business model. By delivering comparable reasoning performance to frontier models at a fraction of the cost through an open-source approach, it undermines the assumption that massive compute budgets are required for competitive AI.
 

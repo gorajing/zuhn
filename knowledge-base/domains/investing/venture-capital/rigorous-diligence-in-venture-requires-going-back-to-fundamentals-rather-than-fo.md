@@ -51,10 +51,10 @@ stance: >-
   first-principles diligence systematically overpay and underperform in down
   cycles.
 related:
-  - INS-260403-402F
   - INS-260403-867B
-  - INS-260403-E44E
+  - PRI-260406-DA72
   - INS-260403-BF83
+  - INS-260403-E44E
   - INS-260403-082C
 ---
 The TDK Ventures/6Pages piece on 'Doing Diligence Well' advocates a return-to-fundamentals approach at a time when AI hype has compressed diligence timelines and inflated valuations. In bull markets, narrative momentum substitutes for analysis — investors fear missing out more than they fear overpaying, so checks move faster with less scrutiny. The hangover is overfunded companies with weak fundamentals that struggle to grow into their valuations.

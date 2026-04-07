@@ -43,11 +43,11 @@ stance: >-
   Deliberately choosing discomfort and simplicity builds psychological
   resilience and appreciation that comfortable living systematically erodes.
 related:
+  - PRI-260406-407C
   - INS-260330-206F
   - PRI-260325-A95E
   - INS-260325-F500
   - INS-260330-BC1B
-  - INS-260327-5C91
 evidence:
   - id: INS-260402-EC9F
     type: TRANSFERS_TO

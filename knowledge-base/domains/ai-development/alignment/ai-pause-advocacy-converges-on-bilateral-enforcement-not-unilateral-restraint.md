@@ -51,10 +51,10 @@ stance: >-
   consistently mischaracterizes them as naive calls for unilateral disarmament.
 related:
   - INS-260323-636C
+  - PRI-260406-AA7D
   - INS-260323-8271
   - INS-260330-76DA
   - INS-260325-0FED
-  - INS-260404-F5C3
 ---
 The piece quotes three prominent pause advocates — Pause AI, Eliezer Yudkowsky, and David Krueger — all explicitly calling for international, bilateral pauses enforced by treaty. Pause AI states they want 'an international pause, enforced by a treaty' that 'also needs to be signed by China.' Yudkowsky writes the goal is not unilateral cessation but 'enough major powers express willingness to halt the suicide race, worldwide.' Krueger outlines a three-step conditional process.
 

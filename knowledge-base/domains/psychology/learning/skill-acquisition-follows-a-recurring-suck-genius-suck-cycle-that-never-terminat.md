@@ -50,11 +50,11 @@ stance: >-
   perceived competence, and accepting this permanence is what separates
   persistent learners from dropouts.
 related:
-  - INS-260329-D3D9
+  - PRI-260406-D7C7
   - INS-260330-CC7D
+  - INS-260329-D3D9
   - INS-260329-1D08
   - INS-260329-557C
-  - INS-260327-BE49
 evidence:
   - id: INS-260329-D1B8
     type: TRANSFERS_TO

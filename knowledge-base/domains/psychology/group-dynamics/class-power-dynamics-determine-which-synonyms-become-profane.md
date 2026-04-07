@@ -47,7 +47,7 @@ stance: >-
   Germanic terms becoming taboo while upper-class Latin equivalents stayed
   respectable.
 related:
-  - INS-260330-9EBA
+  - PRI-260406-7BA2
   - PRI-260405-7F1E
   - INS-260330-6300
   - INS-260403-62E0

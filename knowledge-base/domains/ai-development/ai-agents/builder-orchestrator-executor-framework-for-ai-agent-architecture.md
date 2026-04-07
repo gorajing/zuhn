@@ -54,8 +54,8 @@ related:
   - PRI-260320-D5B7
   - PRI-260320-BC72
   - INS-260327-FE24
-  - INS-260403-F0DF
   - INS-260405-8166
+  - INS-260404-BD96
 stance: >-
   Separate AI agent work into three roles: the builder constructs platforms, the
   orchestrator manages workflows, and executors are specialized agents...

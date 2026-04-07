@@ -61,7 +61,7 @@ related:
   - INS-260405-B4D4
   - INS-260403-F0EE
   - INS-260405-13C5
-  - INS-260403-0D24
+  - PRI-260406-6C43
 ---
 The Series B is where the narrative shifts fundamentally. At Seed and Series A, investors are betting on the team's ability to find product-market fit and prove initial traction. By Series B, that proof should exist — and investors are now evaluating whether the business can deploy $20-100M+ without degrading the economics that justified early investment.
 

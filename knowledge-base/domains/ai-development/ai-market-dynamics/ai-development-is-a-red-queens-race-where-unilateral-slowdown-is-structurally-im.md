@@ -49,11 +49,11 @@ stance: >-
   because the field is too large and distributed, leaving regulation as the only
   viable mechanism for slowdown.
 related:
-  - INS-260321-3C8A
   - PRI-260328-0123
   - INS-260323-636C
+  - PRI-260406-7B76
   - INS-260404-D471
-  - PRI-260328-4CC0
+  - PRI-260406-E602
   - INS-260403-50F6
 ---
 Smith identifies the core game-theoretic trap driving AI development: every major lab believes that if they don't build superintelligence, Elon Musk or the Chinese Communist Party will. This creates three unacceptable outcomes — a machine god enslaved to Musk, to the CCP, or autonomous. So despite genuine personal fears, researchers feel compelled to race to the finish to ensure the 'machine-god-baby is raised with good values.'

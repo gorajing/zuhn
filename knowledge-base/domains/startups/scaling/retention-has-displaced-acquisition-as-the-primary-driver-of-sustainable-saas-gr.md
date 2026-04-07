@@ -45,16 +45,13 @@ stance: >-
   Net revenue retention is now more predictive of long-term SaaS company value
   than customer acquisition rate.
 related:
-  - INS-260329-C26B
   - INS-260330-A029
   - INS-260403-B7FA
   - INS-260404-A53F
   - INS-260404-2C23
   - INS-260403-8450
-  - INS-260403-6D8C
-  - INS-260403-544B
-  - INS-260330-78B1
   - INS-260403-B18C
+  - INS-260403-6B37
 ---
 OpenView's SaaS Benchmarks and ChartMogul's retention analysis both point to the same structural shift: the SaaS companies that scale most efficiently are those optimizing retention mechanics (gross retention, net dollar retention, expansion revenue) rather than pouring capital into top-of-funnel acquisition. This reflects a maturation of the SaaS model where CAC payback periods have lengthened and capital is more expensive.
 

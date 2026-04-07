@@ -51,15 +51,15 @@ resolutions:
     from technical users to mainstream consumers.
 related:
   - INS-260321-8414
+  - PRI-260406-CCAE
   - INS-260405-487E
   - PRI-260328-8317
   - INS-260403-7B04
   - PRI-260328-43F1
-  - INS-260330-24A5
-  - INS-260327-EE5E
   - INS-260327-BB71
   - INS-260330-AB67
-  - INS-260330-DE2B
+  - INS-260330-24A5
+  - INS-260404-8E0D
 stance: >-
   Horizontal consumer AI agents like Manus grow explosively but face acquisition
   by big tech because once agentic capabilities become commoditized, d...

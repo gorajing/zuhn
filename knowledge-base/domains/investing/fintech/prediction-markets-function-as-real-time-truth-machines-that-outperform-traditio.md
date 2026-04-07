@@ -62,9 +62,9 @@ related:
   - INS-260404-8A8A
   - INS-260404-7E86
   - INS-260404-7AA0
+  - PRI-260406-D106
   - INS-260405-5702
   - INS-260403-14C3
-  - INS-260403-20F7
 ---
 During the 2024 presidential election, prediction markets on Polymarket and Kalshi processed $4.2B in trading volume and correctly priced the outcome days before traditional polls converged. The mechanism is straightforward: binary contracts trade between $0 and $1, with the price reflecting collective probability estimates. At $0.65, the market prices a 65% chance of an event occurring.
 

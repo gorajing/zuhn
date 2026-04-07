@@ -48,9 +48,9 @@ stance: >-
 related:
   - INS-260330-FC16
   - INS-260330-E606
+  - PRI-260406-7ED0
   - INS-260404-2E6C
   - INS-260403-88AF
-  - INS-260330-06CD
 evidence:
   - id: INS-260330-06CD
     type: TRANSFERS_TO

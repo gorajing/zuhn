@@ -49,14 +49,12 @@ stance: >-
   eventually cannibalize their entire innovation budget on zombie projects.
 related:
   - INS-260327-B410
-  - INS-260328-57CF
   - INS-260330-9A92
-  - INS-260403-FB8E
   - INS-260403-F75F
+  - PRI-260406-AC52
   - INS-260402-2B96
+  - PRI-260406-6122
   - INS-260323-19A8
-  - INS-260404-6DA9
-  - PRI-260324-12CF
 evidence:
   - id: INS-260327-B410
     type: TRANSFERS_TO

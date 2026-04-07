@@ -53,7 +53,7 @@ related:
   - INS-260403-FF7E
   - INS-260404-D471
   - INS-260404-116E
-  - INS-260322-5790
+  - PRI-260406-BC09
 ---
 When a company sells hardware alongside recurring software subscriptions, the financial model becomes structurally deceptive. Strong SaaS margins can mask hardware unit economics that are deeply negative — a company can look healthy on blended metrics while each hardware unit sold is destroying value. The template tip — 'watch your blended margin like a hawk; that's where most fail' — points at a real failure mode in companies like IoT startups, consumer hardware with subscriptions, and med-tech devices.
 

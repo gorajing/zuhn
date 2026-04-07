@@ -55,11 +55,11 @@ stance: >-
   improvement but from simultaneously solving trading hours, intermediary costs,
   and access restrictions in one infrastructure shift
 related:
-  - INS-260322-96F1
   - INS-260403-9D7C
+  - PRI-260406-2546
+  - INS-260322-96F1
   - INS-260405-33CD
   - INS-260325-4FF3
-  - INS-260325-DFC7
 ---
 Traditional equity markets suffer from three compounding structural limitations: restricted trading hours (even though 11% of U.S. trading already occurs off-hours), multi-layered intermediary chains for ownership tracking and settlement, and accredited investor gates that lock most people out of private companies. Equity tokenization addresses all three simultaneously—continuous trading reflects global shareholder bases, on-chain ownership eliminates intermediary friction (saving an estimated $5-10B annually in post-trade costs), and SPV-based token structures can offer exposure to pre-IPO companies.
 

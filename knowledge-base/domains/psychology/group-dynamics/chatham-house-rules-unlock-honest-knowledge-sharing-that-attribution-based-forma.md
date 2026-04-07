@@ -56,10 +56,10 @@ stance: >-
   attributed case studies or public testimonials
 related:
   - INS-260403-27AA
+  - PRI-260406-66BA
   - INS-260329-EF89
   - INS-260402-3FD8
   - INS-260403-92E9
-  - INS-260327-70DF
   - INS-260403-A3A7
 evidence:
   - id: INS-260402-3FD8

@@ -51,12 +51,11 @@ stance: >-
   as two distinct fits.
 related:
   - INS-260330-2C79
-  - INS-260403-59C6
   - INS-260404-E5EB
   - INS-260330-0BBA
+  - PRI-260406-874A
   - INS-260403-CD74
   - INS-260404-D1E2
-  - INS-260403-A54C
 ---
 The PM-Fit Logic Template requires two explicit connections in the narrative: Feature A must directly tackle the problem identified in step 3, and Feature B must address the shortcomings of alternatives identified in step 5. Having only one fit is insufficient — solving the problem without being better than alternatives means customers won't switch, and being better than alternatives without solving the core problem means you're optimizing for the wrong thing.
 

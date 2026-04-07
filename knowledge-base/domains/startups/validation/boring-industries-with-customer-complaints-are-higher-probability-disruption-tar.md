@@ -52,12 +52,11 @@ stance: >-
   opportunities than trendy sectors, because low competition compounds with high
   switching motivation.
 related:
-  - INS-260328-57CF
   - INS-260322-F6AA
+  - PRI-260406-14BB
   - INS-260327-1064
   - INS-260403-ABBB
   - INS-260327-8254
-  - INS-260330-F737
 ---
 The most overfunded startup sectors—social media, consumer fintech, AI wrappers—attract disproportionate founder talent, creating intense competition. Meanwhile, industries like logistics, waste management, and niche B2B services operate with legacy software, frustrated customers, and minimal innovation pressure. The lack of competition in these 'boring' markets means even a moderately better product can capture significant share.
 

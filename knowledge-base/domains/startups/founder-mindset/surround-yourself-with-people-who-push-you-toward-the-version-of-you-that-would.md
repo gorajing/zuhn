@@ -40,12 +40,11 @@ resolutions:
     decade and iShowSpeed years — if the thought of doing it for 10 years
     without anyone watching makes you want to quit, it's probably not for you.
 related:
+  - PRI-260406-E4B0
   - INS-260329-A7E2
   - PRI-260328-0C86
   - INS-260330-BBE7
   - INS-260329-3FF3
-  - INS-260329-1669
-  - INS-260329-976E
   - INS-260403-9824
   - INS-260403-68CE
 stance: >-

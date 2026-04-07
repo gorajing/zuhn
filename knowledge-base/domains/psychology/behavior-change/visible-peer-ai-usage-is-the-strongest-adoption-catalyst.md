@@ -52,7 +52,7 @@ related:
   - INS-260330-24A5
   - INS-260403-449D
   - INS-260402-C301
-  - INS-260328-2BCF
+  - PRI-260406-CA09
 ---
 Multiple companies in the study converged on the same discovery: peer demonstration beats formal training programs. At Roblox, Peter Yang shares AI workflows in Slack and screen-shares AI output during meetings to solve problems in real time. Whoop's Head of Product responds to PMs bringing problems with 'Want me to show you how I solve this with AI?' and demonstrates live.
 

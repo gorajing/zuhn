@@ -51,7 +51,6 @@ stance: >-
   generates more high-quality deal flow than any other sourcing strategy
 related:
   - INS-260327-088E
-  - INS-260403-E185
   - INS-260403-AA09
   - INS-260403-FED1
   - INS-260403-ECB2
@@ -59,6 +58,7 @@ related:
   - INS-260329-27DF
   - INS-260404-4146
   - INS-260404-A893
+  - PRI-260406-C6C3
   - INS-260403-6190
 ---
 Rachitsky's deal sourcing evolved from 70% friends' companies early on to majority investor-referred deals as his network matured. The mechanism is simple reciprocity: sharing deals you're investing in signals conviction (strong signal), keeps you top-of-mind with other investors, and creates an expectation of reciprocal sharing. Julian Shapiro distinguishes between default sharing (founder-requested, adverse selection) and deep-relationship sharing where investors proactively pitch you to founders for hard-to-access rounds.

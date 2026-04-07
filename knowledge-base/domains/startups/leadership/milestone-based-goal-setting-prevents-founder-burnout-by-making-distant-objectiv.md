@@ -52,7 +52,6 @@ related:
   - INS-260403-185D
   - INS-260405-0375
   - INS-260403-F8B6
-  - INS-260405-0D9A
 stance: >-
   Setting the next milestone (transaction volume target, operating profit
   threshold) instead of fixating on the ultimate exit/IPO prevents the marath...

@@ -48,11 +48,11 @@ stance: >-
   against AI disruption, while those with two or fewer are genuinely vulnerable
   to replacement.
 related:
+  - PRI-260406-E015
+  - PRI-260406-9866
   - INS-260323-BC61
   - INS-260404-D4E6
   - INS-260403-E86E
-  - INS-260327-3B91
-  - INS-260322-019A
   - INS-260404-68EE
   - INS-260404-29EC
 evidence:

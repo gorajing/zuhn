@@ -50,10 +50,11 @@ stance: >-
 related:
   - INS-260403-3A34
   - INS-260404-F8B7
+  - PRI-260406-E48F
   - INS-260403-5427
-  - INS-260403-B2EA
+  - PRI-260406-6122
+  - PRI-260406-A7EC
   - INS-260403-C4B3
-  - PRI-260328-0123
 ---
 There's a scaling law at work in corporate innovation: as organizations grow, the stakes of any public misstep increase (reputation, brand, market cap), which drives more robust compliance processes. But innovation requires speed, direct market contact, and tolerance for small failures — all of which compliance processes are designed to prevent.
 

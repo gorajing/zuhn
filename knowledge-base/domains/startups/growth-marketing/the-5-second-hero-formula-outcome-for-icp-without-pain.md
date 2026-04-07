@@ -50,14 +50,11 @@ stance: >-
   pain point outperform clever or abstract taglines in the first 5 seconds of
   landing page attention
 related:
-  - INS-260329-3EC3
-  - INS-260405-A2A2
   - INS-260403-2385
   - INS-260330-0BBA
   - INS-260404-D1E2
   - INS-260329-CEC5
   - INS-260403-CD74
-  - INS-260403-FFD2
 ---
 The first 5 seconds of a landing page visit determine whether a visitor converts or bounces. YC's recommendation is a hero section built on the formula: 'Outcome for [ideal customer] without [common pain]' — e.g., 'Ship new features faster without waiting on your backend team.' This works because it immediately answers the visitor's subconscious question 'Is this for me?' with specificity rather than vague brand promises.
 

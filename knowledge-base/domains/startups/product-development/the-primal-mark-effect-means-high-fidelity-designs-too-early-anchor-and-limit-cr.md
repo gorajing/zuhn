@@ -53,11 +53,11 @@ stance: >-
   Starting with high-fidelity prototypes or polished visuals prematurely anchors
   the team's thinking and prevents discovery of fundamentally better solutions
 related:
+  - PRI-260406-DDE1
   - INS-260404-DDFB
+  - PRI-260406-33E9
+  - PRI-260406-A5F0
   - INS-260405-D925
-  - INS-260323-1811
-  - INS-260403-649C
-  - PRI-260322-CF2B
 ---
 Baxley references Stanford research on 'the primal mark' — the first concrete visual representation of an idea sets cognitive expectations that constrain all subsequent iterations. Once a team sees a polished mockup, they unconsciously optimize within that frame rather than questioning whether the entire approach is wrong. This is why he advocates staying in low-fidelity block frames for as long as possible.
 

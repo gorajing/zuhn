@@ -45,16 +45,16 @@ resolutions:
     This makes the decision of how much to raise — not just whether to raise —
     one of the most consequential financial decisions a startup makes.
 related:
+  - PRI-260406-ADF0
   - INS-260403-36DB
   - INS-260403-D70C
+  - PRI-260406-0A98
   - INS-260404-2250
-  - INS-260330-6204
-  - PRI-260403-26B9
   - INS-260330-7346
   - INS-260403-776C
   - INS-260403-9D7C
-  - INS-260404-B640
-  - INS-260403-EA28
+  - INS-260404-57B8
+  - PRI-260406-8987
 stance: Each fundraise adds a liquidation preference stack
 evidence:
   - id: INS-260327-8374

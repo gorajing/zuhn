@@ -60,11 +60,11 @@ stance: >-
   domains (robotics, energy, agriculture, aerospace) where domain expertise and
   real-world integration create moats that pure software AI cannot replicate.
 related:
+  - PRI-260406-9F3D
   - INS-260403-3C2C
   - PRI-260324-3AAE
   - PRI-260328-A1AA
   - INS-260405-E4FC
-  - INS-260402-8595
 ---
 YC W26 represents a sharp pivot from the consumer AI wave of 2023-2024. The batch is 64% B2B, heavily weighted toward infrastructure and hard technical problems — mines, drones, satellites, battery packs, chip design tools, radar for autonomous vehicles. AI is the baseline capability, not the thesis; what differentiates companies is where AI is applied.
 

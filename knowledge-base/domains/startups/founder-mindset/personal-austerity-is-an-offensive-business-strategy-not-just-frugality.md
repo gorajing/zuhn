@@ -46,10 +46,10 @@ stance: >-
   builds wealth directly through savings
 related:
   - INS-260329-8E79
+  - PRI-260406-D6F8
   - INS-260325-0C4A
   - INS-260327-A75B
   - INS-260323-EDAD
-  - INS-260404-EEAF
 evidence:
   - id: INS-260323-EDAD
     type: EXTENDS

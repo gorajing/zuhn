@@ -53,9 +53,9 @@ stance: >-
 related:
   - INS-260403-2D68
   - INS-260403-9CC1
+  - PRI-260406-1796
   - INS-260404-5AC8
   - INS-260405-5755
-  - INS-260403-7CAA
 ---
 Public SaaS valuation multiples have compressed dramatically, with very few companies maintaining above 10x revenue multiples in 2026. The survivors share common traits: they own infrastructure layers rather than application features, solve mission-critical problems where switching costs are high, and sustain growth at enterprise scale.
 

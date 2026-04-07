@@ -54,10 +54,10 @@ stance: >-
   grow.
 related:
   - INS-260330-0E4B
+  - PRI-260406-3285
+  - PRI-260406-1188
   - INS-260330-1F41
-  - INS-260403-958C
-  - INS-260402-142F
-  - INS-260325-C2BD
+  - PRI-260406-6D04
 evidence:
   - id: INS-260325-C2BD
     type: CHALLENGES

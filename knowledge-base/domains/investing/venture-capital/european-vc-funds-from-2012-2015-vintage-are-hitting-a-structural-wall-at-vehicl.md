@@ -51,11 +51,11 @@ stance: >-
   the IRR from their first two funds has not materialized, creating a systemic
   fundraising crisis.
 related:
+  - PRI-260406-4D4E
   - INS-260403-6F9C
   - INS-260403-49EC
+  - PRI-260406-6895
   - INS-260404-8CAE
-  - INS-260405-EFC1
-  - INS-260405-6D3A
 ---
 European VC funds that emerged between 2012 and 2015 are now attempting to raise their third vehicles while simultaneously deploying their second. They are hitting resistance from LPs because the first two funds have not demonstrated realized returns—exits are scarce, portfolio companies remain unprofitable, and valuations from boom-era rounds are too high for strategic acquisitions.
 

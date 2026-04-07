@@ -48,9 +48,9 @@ stance: >-
 related:
   - INS-260403-CF1D
   - INS-260323-A075
+  - PRI-260406-901E
   - INS-260404-EC32
   - INS-260330-7C05
-  - INS-260329-9115
 ---
 PitchBook's analysis of VC horizon IRR by first-year deployment speed challenges the common pressure on fund managers to deploy capital quickly. The data suggests that patience — taking time to find the right deals rather than rushing to put money to work — produces better long-term returns.
 

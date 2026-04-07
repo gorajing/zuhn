@@ -46,14 +46,13 @@ stance: >-
   flows unpredictable beyond a 2-3 year window, forcing a fundamental repricing
   of how capital-intensive AI bets are valued.
 related:
+  - PRI-260406-992F
   - INS-260403-B228
   - INS-260322-299C
   - INS-260403-3AE7
-  - INS-260403-839E
-  - INS-260403-71E6
-  - INS-260403-1019
-  - INS-260404-36F3
+  - PRI-260406-0A0B
   - INS-260403-A8BA
+  - INS-260403-839E
 ---
 Chamath Palihapitiya argues that if AI makes business outcomes genuinely unpredictable beyond a short window, the entire foundation of DCF-based valuation collapses. Traditional models depend on projecting cash flows 5-10+ years out and discounting them back. When the variance on those projections explodes, the terminal value—often 60-80% of a DCF valuation—becomes meaningless.
 

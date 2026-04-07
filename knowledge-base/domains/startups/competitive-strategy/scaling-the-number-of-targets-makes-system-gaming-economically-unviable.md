@@ -53,8 +53,8 @@ related:
   - PRI-260403-5DEA
   - INS-260404-5684
   - INS-260325-C523
+  - PRI-260406-0412
   - INS-260404-F54F
-  - INS-260330-7DA5
 ---
 The article demonstrates that simply scaling the number of Congressional seats from 435 to 6,641 would naturally degrade the effectiveness of two major manipulation strategies — gerrymandering and donor influence — without changing any rules about either practice. The math is straightforward: gerrymandering requires precise demographic balancing that becomes combinatorially harder with more districts, and the return on investment for purchasing influence in any single seat drops by an order of magnitude.
 

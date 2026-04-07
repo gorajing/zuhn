@@ -53,7 +53,7 @@ related:
   - INS-260404-9C4C
   - INS-260405-020E
   - INS-260403-FE41
-  - INS-260405-7A7C
+  - PRI-260406-A5F0
 ---
 Paul Graham identifies fear of making something lame as the single largest obstacle to doing great work. This fear is not irrational—early versions of ambitious projects genuinely look unimpressive, even to their creators. But the fear is disproportionate to the reality: a lame-looking early version of an ambitious project is far more valuable than it appears, because it sits on a trajectory toward something great.
 

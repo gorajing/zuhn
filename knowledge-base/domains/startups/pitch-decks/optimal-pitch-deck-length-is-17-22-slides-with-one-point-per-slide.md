@@ -51,7 +51,7 @@ related:
   - INS-260405-1BFA
   - INS-260404-D242
   - INS-260403-81CE
-  - INS-260403-6F52
+  - PRI-260406-80E7
 ---
 Thiel's original 2012 deck used 11 text-dense slides—effective for its era but misaligned with how modern investors process decks. Contemporary fundraising norms have converged on 17-22 slides, with each slide making exactly one point presented with visual clarity and minimal words. This isn't aesthetic preference; it reflects how investors actually consume decks—often on mobile, often quickly, often while simultaneously evaluating dozens of others.
 

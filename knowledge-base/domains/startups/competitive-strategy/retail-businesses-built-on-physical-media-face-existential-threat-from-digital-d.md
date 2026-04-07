@@ -41,10 +41,10 @@ stance: >-
   the physical product you exist to sell.
 related:
   - INS-260324-E7A2
+  - PRI-260406-69C1
   - INS-260404-EEA7
   - INS-260324-5481
   - INS-260403-2B09
-  - INS-260327-25D7
 ---
 GameStop core business was dead the moment digital distribution became viable because no amount of operational excellence can overcome the elimination of the physical product you exist to sell.
 

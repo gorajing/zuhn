@@ -49,7 +49,6 @@ related:
   - PRI-260321-0A4D
   - PRI-260322-9E36
   - PRI-260323-DAB9
-  - INS-260403-0EC5
 stance: >-
   As stakes increase, power struggles intensify — resilient governance
   structures must be built early, before the pressure peaks.

@@ -52,10 +52,10 @@ stance: >-
   competition over quality standards produced unmatched artistic output.
 related:
   - INS-260403-7093
+  - PRI-260406-33E9
   - INS-260403-824F
   - INS-260402-70FD
   - INS-260327-E63E
-  - INS-260402-EF63
 evidence:
   - id: INS-260327-8BF6
     type: SUPPORTS

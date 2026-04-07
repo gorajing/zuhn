@@ -53,14 +53,12 @@ stance: >-
   stuck in refinement loops.
 related:
   - INS-260328-F782
-  - INS-260329-3818
   - INS-260330-B882
   - INS-260330-A78C
-  - INS-260403-2DF9
   - INS-260405-2CDB
   - INS-260327-679A
+  - PRI-260406-CBAC
   - INS-260403-9F78
-  - PRI-260403-35FE
 evidence:
   - id: INS-260330-B882
     type: CHALLENGES

@@ -56,11 +56,11 @@ related:
   - INS-260403-C032
   - INS-260405-86A1
   - INS-260405-C5E5
+  - PRI-260406-FBCE
   - INS-260404-E55F
   - INS-260404-8076
-  - INS-260403-5031
-  - INS-260404-8CAE
-  - INS-260404-5D6E
+  - PRI-260406-EE38
+  - PRI-260406-070D
 ---
 The newsletter catalogs a notable pattern in recent fund launches: Sofinnova's €165M biotech fund, Soulmates' €50M climate fund, Motion's $100M maritime/logistics fund, and Pillar's $175M deep-tech fund all closed in the same period. This clustering isn't coincidental — it reflects a thesis shift among LPs and GPs that software's easy-money era is ending as AI commoditizes code.
 

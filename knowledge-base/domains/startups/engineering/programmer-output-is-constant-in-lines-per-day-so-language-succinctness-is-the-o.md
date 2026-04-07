@@ -46,7 +46,6 @@ stance: >-
   of language, choosing a more succinct language is the primary way to ship
   software faster.
 related:
-  - INS-260330-81A7
   - INS-260327-2C5F
   - INS-260329-4109
   - INS-260329-4696

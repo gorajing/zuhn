@@ -51,9 +51,9 @@ stance: >-
 related:
   - INS-260330-B08E
   - PRI-260328-9E3F
+  - PRI-260406-E602
   - PRI-260405-FB37
   - PRI-260324-F9CD
-  - PRI-260323-8E89
   - INS-260329-0D70
 evidence:
   - id: INS-260329-0D70

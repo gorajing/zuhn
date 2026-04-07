@@ -44,9 +44,9 @@ stance: >-
   chaos of blurry ownership.
 related:
   - INS-260330-D8D1
+  - PRI-260406-54BE
   - INS-260403-805E
   - INS-260403-7C88
   - INS-260327-2B75
-  - INS-260330-5A0A
 ---
 First-time founders hire for enthusiasm and versatility — people who can 'wear many hats.' Repeat founders recognize this leads to blurry ownership and dropped balls at scale. They instead look for slope (rate of improvement), ownership mindset, and role clarity from day one. More importantly, they design the organizational structure for the company's next stage, not its current one. This means early hires get clearly scoped roles even in a 5-person team, which paradoxically enables faster execution because nobody is wondering whose job something is. The credibility of having done it before also attracts better talent — A-players want to work with founders who've already navigated the journey.

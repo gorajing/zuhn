@@ -52,5 +52,6 @@ related:
   - INS-260323-1930
   - INS-260330-F399
   - INS-260327-EDE4
+  - PRI-260406-603C
 ---
 Harris instructs listeners to relax the conceptual machinery that segments visual experience into distinct objects with boundaries, and instead perceive the visual field as a 'single sphere of color and light and shadow.' This exercise points to a finding well-supported in cognitive science: perception is not passive reception of raw data but active construction shaped by both genetic wiring and learned categories. The meditation instruction makes this philosophically abstract claim directly experiential — you can partially de-automate the object-recognition pipeline and glimpse more primitive visual experience. The cross-domain implication is significant: if perception is this concept-laden, then what we take to be 'seeing reality' is always mediated by conceptual frameworks we're not aware of, whether in visual perception, pattern recognition in data, or judgment of situations.

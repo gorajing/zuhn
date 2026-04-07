@@ -49,11 +49,12 @@ stance: >-
   competitors attract capital
 related:
   - INS-260323-4EE4
-  - INS-260322-9EC6
   - INS-260327-3B25
   - INS-260330-EEED
   - INS-260330-C870
   - INS-260403-9E2D
+  - PRI-260406-9063
   - INS-260404-1CC0
+  - PRI-260406-E015
 ---
 The world's most durable companies — Amazon, Coinbase, Tesla, Starbucks — built moats that actively repel competition rather than merely slowing it. Network effect moats (each new user makes the product more valuable for all users) and switching cost moats (users face real pain or loss from churning) compound asymmetrically: they become harder to attack precisely because the leader is larger. Cost and scale advantages, by contrast, attract competitors who can raise capital to match capital expenditure. For startup founders, the highest-value architectural decision is choosing a business model where growth creates defensibility, not just revenue. A business that gets easier to defend as it gets bigger is a fundamentally different animal than one that merely grows.

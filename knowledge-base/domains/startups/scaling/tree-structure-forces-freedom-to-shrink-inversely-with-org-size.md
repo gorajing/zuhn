@@ -40,11 +40,11 @@ stance: >-
   Hierarchical tree structure mathematically guarantees that individual autonomy
   decreases as organization size increases, regardless of culture or intent.
 related:
+  - PRI-260406-F8BD
+  - PRI-260406-7C9C
   - INS-260405-B406
-  - INS-260330-42DE
-  - INS-260327-C1A4
-  - INS-260404-292E
-  - PRI-260403-6DD6
+  - PRI-260406-5F31
+  - PRI-260406-E48F
   - INS-260403-E36A
 evidence:
   - id: INS-260330-42DE

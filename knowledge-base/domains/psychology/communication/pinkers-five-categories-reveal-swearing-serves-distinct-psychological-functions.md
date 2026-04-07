@@ -48,8 +48,8 @@ stance: >-
 related:
   - INS-260330-EA8B
   - INS-260330-5A9E
+  - PRI-260406-7BA2
   - INS-260330-0FAF
   - INS-260330-534C
-  - INS-260323-FAD5
 ---
 Steven Pinker's taxonomy classifies swearing into five categories: dysphemistic (using crude terms to force attention to an uncomfortable referent), abusive (weaponizing taboo words against someone), idiomatic (casual social bonding usage like 'what the hell'), emphatic (intensifying a statement), and cathartic (reflexive emotional release when hurt or frustrated). This framework matters because it shows that blanket rules against 'bad language' conflate fundamentally different social acts — a cathartic expletive after stubbing a toe is neurologically and socially distinct from an abusive slur. Understanding the taxonomy helps in communication design, content moderation, and recognizing that attempts to eliminate all swearing misunderstand its multifunctional role.

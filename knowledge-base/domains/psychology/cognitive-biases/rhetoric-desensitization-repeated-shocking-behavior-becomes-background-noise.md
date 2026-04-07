@@ -52,11 +52,11 @@ stance: >-
   original shock response.
 related:
   - INS-260330-795D
+  - PRI-260406-20FD
   - INS-260403-6E11
+  - PRI-260406-C1EF
   - PRI-260405-262B
-  - PRI-260324-8EE6
   - INS-260330-CDE1
-  - INS-260402-116A
   - INS-260403-963B
 evidence:
   - id: INS-260330-CDE1

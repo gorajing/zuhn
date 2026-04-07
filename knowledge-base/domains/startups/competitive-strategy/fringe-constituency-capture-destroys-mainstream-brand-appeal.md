@@ -49,11 +49,11 @@ stance: >-
   lose the mainstream majority, even when the mainstream nominally agrees with
   the organization's core mission.
 related:
+  - PRI-260406-1B8A
   - INS-260330-3431
   - INS-260330-6088
   - INS-260403-EC66
   - INS-260330-629E
-  - INS-260322-683B
 evidence:
   - id: INS-260330-F759
     type: TRANSFERS_TO

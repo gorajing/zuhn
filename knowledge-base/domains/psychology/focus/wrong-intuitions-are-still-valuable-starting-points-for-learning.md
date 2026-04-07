@@ -50,7 +50,6 @@ related:
   - INS-260403-C313
   - INS-260403-27A5
   - INS-260329-6004
-  - INS-260403-33E2
 evidence:
   - id: INS-260323-FEDF
     type: TRANSFERS_TO

@@ -52,10 +52,10 @@ stance: >-
   the real argument.
 related:
   - INS-260403-FC2E
+  - PRI-260406-20FD
   - INS-260330-4E09
   - INS-260403-BA48
   - INS-260327-E07D
-  - INS-260403-6E9F
 ---
 Scott Alexander's satirical dialogue demonstrates a pattern where one side explicitly states their position (bilateral, negotiated pause with enforcement mechanisms) dozens of times, yet the opponent continues attacking a position nobody holds (unilateral pause). This reveals that strawmanning in polarized debates is not a misunderstanding to be corrected but a rhetorical strategy that persists because attacking the fake position is easier and more emotionally compelling than engaging the real one.
 

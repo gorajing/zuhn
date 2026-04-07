@@ -48,11 +48,11 @@ stance: >-
   information, and tangential connections between disparate fields cultivate
   genuine intellectual curiosity
 related:
+  - PRI-260406-FB98
   - INS-260405-585D
+  - PRI-260406-DB86
   - INS-260403-27A5
   - INS-260327-7DBF
-  - INS-260403-C135
-  - INS-260402-D0F3
   - INS-260330-52F6
 evidence:
   - id: INS-260322-CC69

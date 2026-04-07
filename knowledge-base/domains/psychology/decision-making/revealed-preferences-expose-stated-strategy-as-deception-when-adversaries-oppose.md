@@ -53,9 +53,9 @@ related:
   - INS-260330-4E09
   - INS-260402-E2FF
   - INS-260404-FBF8
+  - PRI-260406-20FD
   - INS-260403-B198
   - PRI-260403-57EC
-  - INS-260405-246B
   - INS-260403-F2BA
 ---
 China consistently pressures the US to end export controls while simultaneously claiming those controls accelerate Chinese self-sufficiency. These positions are logically incompatible: if controls truly helped China's indigenous chip industry, China would welcome them or at minimum accept them quietly. The active opposition is a revealed preference that directly contradicts the stated narrative.

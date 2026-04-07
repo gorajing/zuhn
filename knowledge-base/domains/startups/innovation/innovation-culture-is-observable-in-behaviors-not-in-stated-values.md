@@ -47,7 +47,6 @@ stance: >-
   experimentation actually occur, not whether leadership says innovation matters
 related:
   - INS-260323-FCA7
-  - INS-260326-2E56
   - INS-260329-E45A
   - INS-260330-5A4C
   - INS-260330-766D
@@ -56,6 +55,7 @@ related:
   - INS-260403-6428
   - INS-260403-F8B5
   - INS-260403-89A5
+  - PRI-260406-A7EC
 evidence:
   - id: INS-260404-A8B9
     type: TRANSFERS_TO

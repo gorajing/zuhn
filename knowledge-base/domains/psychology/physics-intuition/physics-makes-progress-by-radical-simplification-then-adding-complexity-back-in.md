@@ -50,12 +50,11 @@ stance: >-
   for physics but would fail completely in psychology or biology.
 related:
   - PRI-260323-0F93
+  - PRI-260406-D3E4
   - INS-260330-B5D2
   - INS-260326-AB92
   - PRI-260405-47B5
-  - INS-260321-D959
   - INS-260323-7DAE
-  - INS-260403-8114
 evidence:
   - id: INS-260321-D959
     type: CHALLENGES

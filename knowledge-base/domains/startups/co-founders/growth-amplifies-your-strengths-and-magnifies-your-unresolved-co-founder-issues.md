@@ -46,10 +46,10 @@ stance: >-
   imbalances that make the eventual reckoning worse.
 related:
   - PRI-260328-3BEF
+  - PRI-260406-7F84
   - PRI-260328-B11D
   - INS-260325-C5AE
   - INS-260327-8F76
-  - INS-260330-DC22
 evidence:
   - id: INS-260330-3138
     type: SUPPORTS

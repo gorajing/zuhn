@@ -55,13 +55,12 @@ stance: >-
   securing investor meetings, making relationship-building the highest-leverage
   pre-fundraising activity.
 related:
-  - INS-260327-4E28
-  - INS-260403-D0BA
   - INS-260404-F26B
   - INS-260403-C95C
+  - PRI-260406-0E64
+  - PRI-260406-EC93
+  - PRI-260406-F6A5
   - INS-260404-2250
-  - INS-260404-5988
-  - INS-260403-44C4
 ---
 The guide quantifies what most founders intuit: warm introductions dramatically outperform cold outreach for investor meetings. The claimed 10x multiplier aligns with broader VC industry data showing that referral-based deal flow dominates funded rounds.
 

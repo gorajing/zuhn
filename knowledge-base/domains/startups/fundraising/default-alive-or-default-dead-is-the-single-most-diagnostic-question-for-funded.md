@@ -46,12 +46,11 @@ stance: >-
   trajectory is more predictive of survival than growth rate, team size, or
   market opportunity alone
 related:
+  - PRI-260406-E371
+  - PRI-260406-46C3
+  - PRI-260406-DE8A
   - INS-260404-7C79
   - INS-260404-F8AF
-  - INS-260403-87AC
-  - INS-260403-D8DB
-  - INS-260404-F62A
-  - INS-260403-44E9
 evidence:
   - id: INS-260403-87AC
     type: CHALLENGES

@@ -41,10 +41,10 @@ stance: >-
   reviews produces far superior products than longer feedback cycles.
 related:
   - INS-260330-ED04
+  - PRI-260406-8FDF
+  - PRI-260406-CBAC
   - INS-260403-219E
   - PRI-260328-AC85
-  - INS-260323-7CA7
-  - INS-260330-A1D2
 evidence:
   - id: INS-260329-FEBA
     type: SUPPORTS

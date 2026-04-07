@@ -50,11 +50,11 @@ stance: >-
   inheritance but in the ability to create domain-specific data types that map
   directly to real-world concepts
 related:
+  - PRI-260406-D02A
   - INS-260329-4F8C
   - INS-260329-4D03
   - INS-260329-1610
   - INS-260329-0F06
-  - INS-260403-64F4
 evidence:
   - id: INS-260329-41BC
     type: SUPPORTS

@@ -50,10 +50,10 @@ stance: >-
   hour-long conceptual discussions.
 related:
   - PRI-260405-0AC6
+  - PRI-260406-6AE6
   - INS-260330-1839
   - INS-260403-36DD
-  - PRI-260323-0654
-  - INS-260403-B6D9
+  - PRI-260406-0E02
 ---
 The format design of 'How I AI'—capped at ~30 minutes, single use case, live demo—is a deliberate bet on a specific theory of behavior change: people adopt new tools when the cognitive distance between 'watching someone do it' and 'trying it myself' is small. Long-form content creates a sense of having learned without triggering the try-it impulse. Short demos do the opposite.
 

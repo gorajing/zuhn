@@ -49,11 +49,11 @@ stance: >-
   churned or almost activated -- not on power users who are already retained.
 related:
   - INS-260327-4B5A
-  - INS-260329-8BD3
   - INS-260329-8386
   - INS-260330-1854
-  - INS-260330-697F
+  - PRI-260406-818D
   - INS-260330-21CC
+  - INS-260330-697F
   - PRI-260403-E097
   - INS-260403-58CF
 ---

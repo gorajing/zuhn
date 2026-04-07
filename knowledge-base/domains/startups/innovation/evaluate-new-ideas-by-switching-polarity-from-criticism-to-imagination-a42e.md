@@ -55,6 +55,7 @@ related:
   - INS-260403-C8F0
   - INS-260404-9A25
   - INS-260404-9E63
+  - PRI-260406-D43E
   - INS-260403-7644
 ---
 Graham describes the YC evaluation mindset: when encountering a strange-sounding idea from an unknown person, the productive response is not skepticism but creative engagement. Instead of asking 'why will this fail?', ask 'under what conditions could this succeed?' This is not naive optimism—it's rational behavior in a domain with power-law outcomes, where missing one outlier success costs far more than wasting time on many failures.

@@ -47,7 +47,6 @@ stance: >-
   outperform those in office parks because employees stay longer, socialize, and
   iterate on ideas after hours.
 related:
-  - INS-260327-27DA
   - INS-260328-6898
   - INS-260403-C381
   - INS-260327-E2BC

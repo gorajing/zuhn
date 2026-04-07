@@ -48,12 +48,11 @@ stance: >-
   before they are ready, destroying more value than it creates for the majority
   of funded companies
 related:
-  - INS-260402-FC79
+  - PRI-260406-9EF7
   - INS-260403-D089
   - INS-260403-696C
+  - PRI-260406-9DD4
   - PRI-260403-26B9
-  - INS-260403-ABBB
-  - INS-260403-4227
 ---
 Venture capital's return model requires portfolio companies to pursue hypergrowth, but this creates a structural misalignment with what most startups actually need. Large checks lead to over-hiring, inflated ad budgets, and expansion into markets before product-market fit is established. Founders enter a cycle where they optimize for the next funding round rather than for building a sustainable business.
 

@@ -48,7 +48,7 @@ stance: >-
   failure in all of them, because focus is the binding constraint not
   opportunity count
 related:
-  - INS-260321-C0A4
+  - PRI-260406-CA2F
   - INS-260329-AAE3
   - INS-260403-5D18
   - INS-260403-5E03

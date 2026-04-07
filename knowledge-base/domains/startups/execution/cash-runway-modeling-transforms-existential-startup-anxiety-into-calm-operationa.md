@@ -46,12 +46,10 @@ stance: >-
   clear runway model converts hiring, burn, and funding timelines from panic
   triggers into informed decision points.
 related:
-  - INS-260326-8798
+  - PRI-260406-BAD8
   - INS-260404-9696
+  - PRI-260406-BC09
   - INS-260403-A486
   - INS-260403-7318
-  - INS-260327-C316
-  - INS-260403-B5B7
-  - INS-260403-A752
 ---
 The most common startup death is not product failure but cash exhaustion — yet many founders treat financial planning as secondary to building. A well-constructed runway model connects hiring plans, burn rate, and fundraising timelines into a single coherent view that surfaces decision points before they become crises. When founders can see exactly when they need to start fundraising, how each hire affects runway, and what revenue targets preserve optionality, the emotional weight of financial uncertainty transforms into structured operational choices. This is fundamentally a psychological tool as much as a financial one — it replaces ambient anxiety with specific, actionable levers.

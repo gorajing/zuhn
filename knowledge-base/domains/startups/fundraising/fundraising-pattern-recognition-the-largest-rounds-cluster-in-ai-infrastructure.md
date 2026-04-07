@@ -53,12 +53,11 @@ stance: >-
   software-only plays.
 related:
   - INS-260403-7483
-  - INS-260404-FA1E
   - INS-260404-8076
   - INS-260404-D5B5
   - INS-260405-2F43
+  - PRI-260406-97BB
   - INS-260405-6317
-  - INS-260403-0BE9
   - INS-260404-880A
 ---
 Analyzing the funding rounds mentioned—Crusoe's $600M Series D for AI infrastructure, Ayar Labs' $155M for optical interconnects, and multiple $75-120M biotech rounds—reveals a clear pattern: the biggest checks are going to companies with physical or regulatory moats that are expensive to replicate. This contrasts with the prior era where software companies with near-zero marginal costs attracted the largest rounds.

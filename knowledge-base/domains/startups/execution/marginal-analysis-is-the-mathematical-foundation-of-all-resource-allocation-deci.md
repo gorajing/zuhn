@@ -52,7 +52,6 @@ stance: >-
   scale.
 related:
   - INS-260325-8A61
-  - INS-260322-8299
   - INS-260327-4F8C
   - INS-260327-5973
   - PRI-260328-BEDD
@@ -61,6 +60,7 @@ related:
   - INS-260329-49A4
   - INS-260405-4B5D
   - INS-260320-8688
+  - INS-260329-3EB6
 evidence:
   - id: INS-260325-8A61
     type: SUPPORTS

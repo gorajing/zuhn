@@ -47,10 +47,10 @@ stance: >-
   disproportionately higher returns to justify the reset.
 related:
   - INS-260325-17BF
+  - PRI-260406-AFA7
   - INS-260329-6514
   - INS-260329-E6C3
   - INS-260325-060A
-  - INS-260327-A5F9
   - INS-260403-9F23
 evidence:
   - id: INS-260325-060A

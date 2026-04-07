@@ -47,12 +47,11 @@ stance: >-
   (area under a curve) once you recognize they involve summing many small
   quantities.
 related:
-  - INS-260323-2117
   - INS-260325-5FE9
   - INS-260330-541B
+  - INS-260323-2117
   - INS-260403-FC4F
   - INS-260330-09AB
-  - INS-260329-94E6
   - INS-260330-083D
   - INS-260330-5641
   - INS-260330-85AE

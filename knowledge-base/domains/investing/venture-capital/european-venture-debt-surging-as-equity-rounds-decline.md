@@ -44,11 +44,11 @@ related:
   - INS-260403-7CAF
   - INS-260403-781D
   - INS-260404-7295
+  - PRI-260406-53BC
   - INS-260403-5056
   - PRI-260405-E9C5
   - INS-260403-CF7C
+  - PRI-260406-1F70
   - INS-260403-914F
-  - INS-260403-636D
-  - INS-260403-5941
 ---
 Venture lending in Europe is approaching record levels even as equity rounds decline and interest rates remain elevated. This signals a structural shift rather than a temporary substitution—founders are deliberately choosing debt to avoid dilution during a period of compressed valuations. The willingness to take on higher borrowing costs suggests founders believe current equity pricing undervalues their companies, and they'd rather pay interest than give up ownership at unfavorable terms. This trend has implications for how startups manage cap tables and runway planning.

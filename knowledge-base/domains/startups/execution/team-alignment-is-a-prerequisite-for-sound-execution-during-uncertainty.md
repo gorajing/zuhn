@@ -45,7 +45,7 @@ stance: >-
   phases execute faster than those that assume alignment exists
 related:
   - INS-260327-91C7
-  - INS-260330-3585
+  - PRI-260406-A6A2
   - INS-260405-2C44
   - INS-260403-7BCF
   - INS-260404-F48F

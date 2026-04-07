@@ -48,11 +48,11 @@ stance: >-
   seed-stage fundraising, with the majority of successful 2024 decks featuring
   AI as a core value proposition rather than a feature.
 related:
+  - PRI-260406-FCF0
   - INS-260403-A331
   - INS-260404-1DDB
   - INS-260322-CFB1
   - INS-260403-9FEB
-  - INS-260405-6EE5
   - INS-260403-2936
 ---
 Across the 59 compiled pitch decks, a striking pattern emerges: AI is not just a sector but a positioning strategy. Companies like Malibou (AI legal assistant), Apriora (AI hiring), Pruna AI, Thoughtful AI, and Rogo (AI market research) all led with AI as their core differentiator at seed stage. This suggests that investors have moved beyond treating AI as a buzzword—they now expect it as the default technical moat for early-stage companies.

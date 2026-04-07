@@ -48,11 +48,11 @@ stance: >-
 related:
   - INS-260327-6E93
   - INS-260403-9D9E
+  - PRI-260406-C6C3
   - INS-260405-58B0
   - INS-260404-4146
   - INS-260327-C083
   - PRI-260327-942E
-  - INS-260403-1A6C
 ---
 The VC deal funnel is one of the most aggressive selection funnels in business. A median firm reviews roughly 200 deals per year, advances only 8 to partner-level discussion, performs serious due diligence on 4, and closes just 1. This 200:1 compression ratio explains why professional networks (31%) and other investors (20%) dominate sourcing — they pre-filter for quality. Only 10% of deals come through inbound management pitches.
 

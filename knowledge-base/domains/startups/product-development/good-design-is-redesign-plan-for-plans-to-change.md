@@ -50,10 +50,10 @@ stance: >-
   current results
 related:
   - INS-260405-7A7C
+  - PRI-260406-A5F0
   - INS-260404-CD3E
   - INS-260404-4985
   - INS-260404-56F8
-  - INS-260404-4666
   - INS-260404-8031
 evidence:
   - id: INS-260322-1C17

@@ -47,12 +47,12 @@ stance: >-
 related:
   - INS-260322-047D
   - INS-260403-0992
-  - INS-260404-1775
-  - INS-260403-78AD
   - INS-260404-F589
   - INS-260405-8080
   - INS-260405-B4D2
+  - PRI-260406-1F70
+  - PRI-260406-54BE
+  - INS-260403-78AD
   - INS-260330-5A0A
-  - INS-260405-A671
 ---
 The scaling section reveals a consistent pattern: every recommended book (Predictable Revenue, High Output Management, From Impossible to Inevitable, Who) addresses the same fundamental problem—replacing founder-dependent processes with repeatable systems. Ross's 'pipeline is a system, not a personality' and Grove's 'manager productivity = output of your team + leverage of your systems' both point to the same inflection. Martell's Buy Back Your Time frames this from the wellness angle—founders who remain the bottleneck burn out. The convergence across sales, management, hiring, and time management books suggests this transition is the single most common failure mode in post-PMF startups.

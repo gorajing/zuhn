@@ -51,11 +51,10 @@ related:
   - INS-260327-9AD8
   - INS-260329-F2BB
   - INS-260403-260B
-  - INS-260403-CBC7
   - INS-260330-0BBA
   - INS-260403-5683
   - INS-260405-ECCD
-  - INS-260330-2C79
+  - PRI-260406-874A
 ---
 Many founders stop their validation at problem identification — confirming that yes, people experience this pain. But the article's framework places willingness to pay as a separate, harder gate. A problem can be real and widespread but still not monetizable if customers don't value its resolution enough to spend money, or if free alternatives are good enough. Uber didn't just confirm people struggled to find taxis; they validated that people would pay a premium for a better experience.
 

@@ -54,10 +54,10 @@ related:
   - INS-260327-FD99
   - INS-260329-348D
   - INS-260403-F7F4
-  - INS-260403-D294
   - INS-260405-690F
   - INS-260403-8679
   - INS-260403-5E03
+  - INS-260404-86DE
 ---
 Smith highlights a striking pattern: American optimism held steady through the Great Recession and Covid—periods of genuine hardship—but has dropped significantly by 2026. The difference is not severity of conditions but legibility of the future. During a recession, people could imagine recovery. During a pandemic, they could imagine it ending. AI-driven change offers no such narrative anchor.
 

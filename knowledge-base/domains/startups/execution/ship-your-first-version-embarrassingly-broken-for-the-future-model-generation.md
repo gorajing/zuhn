@@ -46,10 +46,10 @@ stance: >-
   current generation barely supports your vision.
 related:
   - INS-260327-0B69
+  - PRI-260406-08E9
   - INS-260403-6F22
   - INS-260403-6C07
   - INS-260330-6D59
-  - INS-260328-91A1
 ---
 Crivello's principle: 'If you're not embarrassed by your first version, you shipped too late. In AI, if your first version works, you're not thinking big enough.' The reasoning: AI models improve so rapidly that building for current capabilities means your product will be instantly commoditized when the next model drops.
 

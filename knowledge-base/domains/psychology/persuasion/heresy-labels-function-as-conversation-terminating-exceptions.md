@@ -47,11 +47,11 @@ stance: >-
   in code — it terminates evaluation of truth and forces immediate punishment
   processing.
 related:
+  - PRI-260406-C1EF
   - INS-260330-A01C
   - INS-260330-76DA
   - INS-260330-795D
   - INS-260325-560A
-  - PRI-260327-3BD9
 evidence:
   - id: INS-260330-76DA
     type: SUPPORTS

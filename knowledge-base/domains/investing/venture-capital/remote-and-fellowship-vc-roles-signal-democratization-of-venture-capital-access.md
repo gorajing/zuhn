@@ -53,7 +53,7 @@ related:
   - INS-260404-7295
   - INS-260403-8441
   - INS-260405-2F43
-  - INS-260404-DFE8
+  - PRI-260406-710D
 ---
 The job listings in this roundup include multiple remote VC positions (Topology Ventures, GetFresh Ventures, Serena, The Aligned Fund) alongside traditional hub-based roles and explicit fellowship programs (Forbion). This wasn't the norm even five years ago when VC recruiting happened almost exclusively through warm intros within SF/NYC/London networks.
 

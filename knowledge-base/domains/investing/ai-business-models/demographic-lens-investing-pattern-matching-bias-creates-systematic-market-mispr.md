@@ -54,8 +54,8 @@ related:
   - INS-260403-9942
   - PRI-260405-E9C5
   - INS-260329-4605
+  - PRI-260406-9EF7
   - INS-260403-9F64
-  - INS-260323-422B
 ---
 The women-led startup funding gap illustrates a broader investing principle: when capital allocation is driven by pattern-matching on irrelevant founder characteristics rather than business fundamentals, systematic mispricings emerge. Women-led startups outperform on capital efficiency by 2.5x yet receive a fraction of funding — a spread that would be immediately exploited in public markets.
 

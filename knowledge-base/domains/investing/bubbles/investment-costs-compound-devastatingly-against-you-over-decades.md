@@ -47,13 +47,11 @@ stance: >-
   investment performance, with high-cost portfolios generating 20% less value
   over 25-30 years.
 related:
-  - INS-260329-F443
   - INS-260325-039E
   - INS-260403-21E1
   - PRI-260328-BD9B
+  - PRI-260406-6A1C
   - PRI-260405-B144
-  - PRI-260405-0099
-  - INS-260327-7435
 evidence:
   - id: INS-260330-8A87
     type: SUPPORTS

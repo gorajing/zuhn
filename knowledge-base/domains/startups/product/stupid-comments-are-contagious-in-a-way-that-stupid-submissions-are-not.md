@@ -53,7 +53,6 @@ related:
   - INS-260326-C692
   - INS-260404-78E6
   - INS-260322-F65F
-  - INS-260404-F6ED
 evidence:
   - id: INS-260322-F65F
     type: TRANSFERS_TO

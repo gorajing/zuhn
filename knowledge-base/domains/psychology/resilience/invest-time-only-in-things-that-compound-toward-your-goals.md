@@ -44,10 +44,10 @@ stance: >-
   creates an insurmountable advantage over time.
 related:
   - INS-260327-421F
+  - PRI-260406-AFA7
   - INS-260325-ADF5
   - INS-260403-E099
   - INS-260403-1CC5
-  - INS-260322-8F80
 evidence:
   - id: INS-260325-ADF5
     type: EXTENDS

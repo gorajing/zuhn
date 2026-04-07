@@ -54,10 +54,10 @@ stance: >-
   in advance.
 related:
   - INS-260403-7BCF
+  - PRI-260406-CBAC
   - INS-260327-ACB3
   - INS-260404-B893
   - INS-260330-A78C
-  - INS-260403-B2EA
 evidence:
   - id: INS-260323-FAF2
     type: CHALLENGES

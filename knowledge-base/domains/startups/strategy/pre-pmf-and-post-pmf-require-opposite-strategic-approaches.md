@@ -49,10 +49,10 @@ stance: >-
   after it — founders who only hill-climb post-PMF get trapped in local maxima
 related:
   - INS-260322-B3D0
+  - PRI-260406-7CD8
   - INS-260403-B4DC
   - INS-260329-EC01
   - INS-260403-B198
-  - INS-260404-A19C
   - INS-260403-9B3A
   - INS-260403-0769
 evidence:

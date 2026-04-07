@@ -47,15 +47,15 @@ stance: >-
   past the point of diminishing returns, because success creates cognitive
   lock-in.
 related:
-  - INS-260322-AFE9
   - INS-260327-0017
   - INS-260329-5C7A
   - INS-260330-BD04
   - INS-260403-48CC
-  - INS-260403-74DB
-  - INS-260404-1678
   - INS-260403-E05D
   - INS-260404-2BDA
+  - PRI-260406-7CD8
   - PRI-260403-2E59
+  - INS-260325-0688
+  - INS-260323-1B42
 ---
 Smith documents how every major liberal success — civil rights, welfare expansion, criminal justice reform — was extended past its point of effectiveness. Mass incarceration reform worked when there was genuine over-incarceration, but continued as permissive prosecution even after crime patterns changed. Anti-discrimination efforts succeeded at removing barriers but then inverted into institutionalized discrimination. The pattern is universal in strategy: practitioners conflate the tactic with the mission, continuing to apply the same playbook even after conditions change. This is directly applicable to startups and businesses — the growth hack that took you from 0 to 1 is rarely the strategy that takes you from 1 to 10. The hardest strategic pivot is abandoning something that used to work brilliantly.

@@ -53,10 +53,10 @@ stance: >-
   time-to-first-deal.
 related:
   - INS-260403-37FC
+  - PRI-260406-710D
   - INS-260403-66EF
   - INS-260322-9DDD
   - INS-260402-E148
-  - PRI-260322-DC5E
 ---
 The article reveals that Speedrun founders get paired with experts in product, brand, marketing, and business development. They rehearse live demos with actual buyers and refine storytelling with media operators. They 'learn to sell before they finish building.' The $1M in capital and $5M in credits are table stakes—the structural advantage is compressing what normally takes 6-12 months of founder fumbling into 12 weeks of coached iteration.
 

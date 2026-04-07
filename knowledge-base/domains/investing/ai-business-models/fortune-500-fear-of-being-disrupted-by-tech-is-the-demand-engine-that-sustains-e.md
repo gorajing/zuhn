@@ -56,11 +56,11 @@ stance: >-
   overblown narrative Silicon Valley produces.
 related:
   - INS-260324-27E2
+  - PRI-260406-1AA1
   - INS-260327-94F5
   - INS-260327-4434
   - INS-260328-4BF3
   - INS-260403-0B76
-  - INS-260403-ABC5
 evidence:
   - id: INS-260321-1749
     type: SUPPORTS

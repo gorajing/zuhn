@@ -47,11 +47,11 @@ stance: >-
   reflects a universal engineering tradeoff between memory locality and
   operational flexibility
 related:
+  - PRI-260406-8B75
   - INS-260329-818A
   - PRI-260403-9E80
   - INS-260325-6150
   - INS-260329-7255
-  - INS-260329-CC79
 evidence:
   - id: INS-260329-818A
     type: TRANSFERS_TO

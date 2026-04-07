@@ -54,10 +54,10 @@ stance: >-
   customer, requiring dozens of personalized emails per day.
 related:
   - INS-260327-8D7E
+  - PRI-260406-F6A5
   - INS-260327-6C54
   - INS-260329-F6E1
   - INS-260329-12EC
-  - INS-260403-E6DE
 evidence:
   - id: INS-260327-8D7E
     type: TRANSFERS_TO

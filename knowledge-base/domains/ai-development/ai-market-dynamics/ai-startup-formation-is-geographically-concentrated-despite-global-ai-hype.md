@@ -54,7 +54,7 @@ related:
   - INS-260403-968A
   - INS-260404-6D4D
   - INS-260404-C3F1
-  - INS-260405-6FE3
+  - PRI-260406-C932
 ---
 Visual Capitalist's mapping of newly funded AI startups from 2013 to 2023 — filtering for companies that received over $1.5 million in private investment — reveals a highly uneven global landscape. While AI discourse is global and AI tools are accessible worldwide, the formation of venture-backed AI companies remains heavily concentrated in specific geographies.
 

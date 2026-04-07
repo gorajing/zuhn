@@ -60,9 +60,9 @@ related:
   - INS-260403-4AF3
   - INS-260404-EC26
   - INS-260403-21A7
+  - PRI-260406-9EF7
   - INS-260322-92D7
   - INS-260404-7071
-  - INS-260403-5301
 ---
 FemTech is projected to reach $1.1 trillion by 2027 yet historically received under 3% of digital health funding. The care economy, flexible family support, and products for underserved demographics (minority communities, aging populations) represent similarly massive categories with unmet demand and minimal legacy competition.
 

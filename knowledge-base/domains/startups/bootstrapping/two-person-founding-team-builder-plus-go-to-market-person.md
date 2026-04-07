@@ -42,8 +42,8 @@ related:
   - INS-260403-3B67
   - INS-260330-C391
   - INS-260403-5018
+  - PRI-260406-901E
   - INS-260403-C228
-  - INS-260403-FC45
   - INS-260323-1B87
 stance: >-
   The ideal AI startup founding team is one builder who ships in 24 hours and

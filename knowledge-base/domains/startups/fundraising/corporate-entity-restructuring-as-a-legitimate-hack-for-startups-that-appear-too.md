@@ -58,9 +58,8 @@ related:
   - INS-260403-9F23
   - PRI-260403-26B9
   - INS-260403-53C0
-  - INS-260405-5BA9
-  - INS-260404-E9F2
-  - INS-260403-5E86
+  - PRI-260406-B9A3
+  - PRI-260406-04DB
 ---
 The founders relay advice from Silicon Valley investors: founders who spent years consulting, pivoting, and testing before finding product-market fit often face investor skepticism because their company looks 'too old' relative to its stage. The hack is straightforward — incorporate a new company, transfer the relevant resources and team, and pitch the new entity with a fresh incorporation date while leveraging all prior learnings.
 

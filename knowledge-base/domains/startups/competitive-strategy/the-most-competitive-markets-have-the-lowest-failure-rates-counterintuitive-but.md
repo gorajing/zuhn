@@ -42,9 +42,9 @@ resolutions:
 related:
   - INS-260403-B9B8
   - INS-260330-7DA5
+  - PRI-260406-12A2
   - INS-260403-333C
   - INS-260323-EA36
-  - INS-260330-ED9D
 stance: Texas has the most BBQ spots per capita but a 33% failure rate
 evidence:
   - id: INS-260323-EA36

@@ -47,10 +47,10 @@ stance: >-
   monotonically increasing
 related:
   - PRI-260403-26B9
+  - PRI-260406-EE38
   - INS-260403-1287
   - INS-260405-5BA9
   - INS-260403-F4E7
-  - PRI-260405-E9C5
 ---
 Paul Graham identifies a meta-trend underlying all changes in startup funding: founders are becoming increasingly powerful relative to investors. This means every pain point founders experience—slow closes, herd-following investors, tranched deals, option pool manipulation—will eventually be eliminated.
 

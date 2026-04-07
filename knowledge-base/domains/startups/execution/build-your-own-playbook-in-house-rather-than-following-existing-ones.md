@@ -47,10 +47,10 @@ stance: >-
   rather than copying what worked elsewhere.
 related:
   - INS-260322-AFE9
+  - PRI-260406-08E9
   - INS-260328-7942
   - INS-260403-832B
   - INS-260404-83C6
-  - INS-260328-5431
 evidence:
   - id: INS-260322-AFE9
     type: TRANSFERS_TO

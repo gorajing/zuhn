@@ -48,12 +48,11 @@ related:
   - INS-260322-3E59
   - INS-260327-DD1D
   - INS-260403-160A
-  - INS-260403-87CF
   - INS-260403-A4FC
   - INS-260403-86C7
   - INS-260403-E407
+  - PRI-260406-1F70
   - INS-260403-0CB8
-  - INS-260403-C949
 ---
 After years of explosive growth that peaked with 11 unicorns in 2021, the creator economy startup landscape has contracted significantly. Fewer new startups are launching for creators, largely because the previous wave raised too much capital too quickly and couldn't sustain growth.
 

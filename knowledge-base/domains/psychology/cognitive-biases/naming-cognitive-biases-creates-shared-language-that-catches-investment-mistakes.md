@@ -51,11 +51,11 @@ stance: >-
   they drive decisions.
 related:
   - INS-260322-F609
-  - INS-260330-FB34
+  - PRI-260406-A33C
   - PRI-260323-81E9
   - PRI-260405-ADEA
-  - PRI-260325-45A2
-  - INS-260323-15F4
+  - PRI-260406-0CA4
+  - INS-260330-FB34
 ---
 After running post-mortems on their biggest investment misses, Sequoia kept arriving at the same conclusion: the error wasn't analytical — it was psychological. Competitive excitement influenced judgment. Similarity bias drew them toward familiar-feeling founders. Rather than treating these as vague warnings, they cataloged 40 specific cognitive biases and gave each one a name.
 

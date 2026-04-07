@@ -48,10 +48,10 @@ stance: >-
   two-thirds of their best-performing investments
 related:
   - INS-260403-ECB2
+  - PRI-260406-992F
   - INS-260403-298E
   - INS-260323-C370
-  - INS-260330-304C
-  - INS-260403-E9C6
+  - PRI-260406-B2E5
 ---
 Lenny Rachitsky tracked his confidence level (OK, Good, or Great) for each of his 140+ angel investments. Reviewing the data, only a third of his biggest winners were rated 'Great' at the time of investing. This means a strategy of only backing high-conviction deals would have eliminated two-thirds of his best outcomes.
 

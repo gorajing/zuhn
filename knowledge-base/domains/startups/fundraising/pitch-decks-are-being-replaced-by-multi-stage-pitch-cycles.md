@@ -48,12 +48,12 @@ stance: >-
   a complex investor relationship into one artifact, and founders who use a
   staged storytelling approach get more investor engagement.
 related:
-  - INS-260403-A331
   - INS-260403-B02A
   - INS-260403-822B
   - INS-260405-67F2
   - INS-260404-63D5
   - INS-260404-FD79
+  - PRI-260406-E880
   - INS-260405-94A1
   - INS-260405-CB93
   - INS-260404-B6CA

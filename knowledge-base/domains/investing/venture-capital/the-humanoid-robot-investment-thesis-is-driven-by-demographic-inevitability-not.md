@@ -59,8 +59,8 @@ related:
   - INS-260323-758B
   - INS-260405-E4FC
   - INS-260405-ADCE
+  - PRI-260406-8778
   - INS-260404-8746
-  - INS-260329-36FF
 ---
 Most technology investment theses depend on demand creation — convincing people they need something new. The humanoid robot case is unusual because the demand is structurally guaranteed: declining fertility rates and aging populations in major economies are already producing measurable labor shortages. The question is not whether physical labor will be scarce but when the cost curve of robotic substitutes will cross the cost of human labor.
 

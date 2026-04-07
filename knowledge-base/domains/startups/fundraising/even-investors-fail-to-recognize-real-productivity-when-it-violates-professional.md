@@ -42,16 +42,16 @@ stance: >-
   Investors who should be experts at identifying productive companies are still
   fooled by professional appearance over substance
 related:
-  - INS-260329-B6DF
   - INS-260330-A484
   - INS-260330-BD04
-  - INS-260330-956E
   - INS-260402-7182
-  - INS-260403-7586
   - INS-260403-06E2
   - INS-260404-5BBF
   - INS-260404-A8B9
   - INS-260322-116B
+  - PRI-260405-4B06
+  - INS-260403-9F64
+  - INS-260405-9760
 evidence:
   - id: INS-260405-9760
     type: EXTENDS

@@ -50,12 +50,11 @@ stance: >-
   Growing companies maintain product velocity by expanding the number of
   parallel projects rather than adding more people to existing projects.
 related:
+  - PRI-260406-8A97
   - INS-260403-39CF
   - PRI-260328-C918
   - PRI-260328-5CDE
   - INS-260404-B893
-  - INS-260402-910C
-  - INS-260404-63B0
   - INS-260404-8A36
 ---
 Altman describes OpenAI's approach: relatively small teams with huge amounts of responsibility working on many parallel initiatives. The failure mode he identifies is companies that 'get big and don't do more things -- they just get bigger because you're supposed to get bigger and they still ship the same amount of product.' This creates 40-person meetings and fights over tiny parts of the product.

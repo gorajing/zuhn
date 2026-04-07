@@ -48,7 +48,6 @@ stance: >-
   returns than the quality of the underlying business, because even excellent
   companies can be bad investments at the wrong price
 related:
-  - INS-260403-D500
   - INS-260404-51A2
   - INS-260403-2330
   - INS-260404-7E85

@@ -56,10 +56,10 @@ stance: >-
 related:
   - INS-260320-2058
   - INS-260329-BF51
+  - PRI-260406-03D1
   - INS-260322-EDA4
   - INS-260403-8194
   - INS-260403-8806
-  - INS-260403-83C7
 ---
 Tariff disruption is converting previously optional software categories into must-haves. Warehouse management systems, AI-powered supply chain optimization platforms, shipment tracking tools, supplier diversification analytics, and trade compliance automation are all seeing demand spikes. Enterprise buyers who never budgeted for these tools are now allocating spend because the cost of not having visibility into tariff exposure exceeds the software cost.
 

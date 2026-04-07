@@ -52,7 +52,7 @@ related:
   - INS-260403-1BEF
   - INS-260402-E2AF
   - INS-260327-2B75
-  - INS-260403-B5B7
+  - PRI-260406-BAD8
 ---
 The article argues that founders universally believe they will recognize product-market fit when it arrives, but in practice they never do. The signal of PMF — customers pulling product out of your hands — gets lost in the noise of daily fires, bugs, hiring mistakes, and co-founder tensions. This creates a dangerous gap where founders either prematurely declare PMF (mistaking early traction for sustainable demand) or fail to capitalize on genuine PMF because they are too busy firefighting.
 

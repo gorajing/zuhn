@@ -49,13 +49,13 @@ related:
   - INS-260402-D8E7
   - INS-260403-AA6A
   - INS-260403-D98E
-  - INS-260403-0680
   - INS-260403-0618
   - INS-260404-3687
   - INS-260404-5988
   - INS-260404-6D4D
   - INS-260403-968A
   - INS-260403-5056
+  - INS-260403-8EE8
 ---
 In a vetted sample of 61 actively fundraising startups, the stage distribution was 7% stealth, 37% pre-seed, 43% seed, and only 13% Series A or B. This bottom-heavy distribution suggests that the current market has abundant early-stage companies seeking capital while later-stage rounds remain concentrated among fewer companies.
 

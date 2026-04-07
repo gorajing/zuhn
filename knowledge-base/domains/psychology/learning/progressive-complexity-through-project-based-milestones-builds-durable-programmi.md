@@ -57,7 +57,6 @@ stance: >-
   durable skill than teaching concepts in isolation then asking learners to
   combine them.
 related:
-  - INS-260329-48FD
   - INS-260329-90C3
   - INS-260329-656B
   - INS-260329-E6AF
@@ -67,6 +66,7 @@ related:
   - INS-260329-294C
   - INS-260329-8830
   - INS-260330-AE16
+  - INS-260330-9033
 evidence:
   - id: INS-260329-9EE4
     type: SUPPORTS

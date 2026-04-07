@@ -50,11 +50,11 @@ stance: >-
   large companies' internal politics, decision-making distance, and procurement
   cycles create structural slowness that startups exploit.
 related:
+  - PRI-260406-1796
   - INS-260329-6D3B
   - PRI-260403-5DEA
   - INS-260403-16D7
   - INS-260405-9FD9
-  - INS-260321-B7CB
   - INS-260403-614D
 evidence:
   - id: INS-260321-B7CB

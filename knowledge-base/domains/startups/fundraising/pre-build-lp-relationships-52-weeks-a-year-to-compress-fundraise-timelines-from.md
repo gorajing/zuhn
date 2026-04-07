@@ -51,9 +51,9 @@ stance: >-
 related:
   - INS-260403-CC5D
   - INS-260327-A5F9
+  - PRI-260406-E431
   - INS-260405-83F0
   - INS-260327-8D5D
-  - INS-260330-4605
 ---
 Harry Stebbings speaks to 2 LPs every week regardless of fundraising status, asks each for 3 introductions (creating 312 new relationships per year), and maintains a 400-person CRM with personalized quarterly updates referencing specific life details. The results: $8M first raise, then $140M in 7 days, then $400M in 3 months — with $75M raised over WhatsApp alone.
 

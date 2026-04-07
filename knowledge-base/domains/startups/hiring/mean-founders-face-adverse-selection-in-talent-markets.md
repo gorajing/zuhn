@@ -46,14 +46,13 @@ stance: >-
   a talent ceiling that is fatal in startups where top-percentile hires matter
   most
 related:
-  - INS-260326-7B2A
-  - INS-260327-1EC4
   - INS-260330-883E
   - INS-260402-0727
   - INS-260403-3835
   - INS-260402-66A5
   - INS-260402-8813
   - INS-260327-8254
+  - INS-260326-7B2A
 ---
 In large organizations, a mean leader can still attract talent through brand prestige, compensation, or career advancement. Startups lack these compensating factors — they offer risk, uncertainty, and below-market pay. The only draw is the mission and the people. When the founder is mean, the best candidates — who have competing offers from better environments — simply go elsewhere.
 

@@ -66,9 +66,8 @@ related:
   - INS-260403-E7A7
   - INS-260404-AD21
   - INS-260404-D688
-  - INS-260403-1A6B
-  - INS-260405-D925
-  - INS-260404-DDFB
+  - PRI-260406-DDE1
+  - INS-260403-649C
 ---
 Graham identifies a cluster of related techniques for getting through the early lame phase of ambitious work: calling something a sketch instead of a painting, a quick hack instead of software, an experiment instead of a product. The key insight is that these labels aren't lies — they're temporarily accurate, and they lower the internal standard being applied so the work can proceed.
 

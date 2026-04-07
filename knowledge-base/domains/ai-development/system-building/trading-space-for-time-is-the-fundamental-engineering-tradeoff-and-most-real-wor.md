@@ -57,10 +57,10 @@ stance: >-
   clarifies most system design decisions.
 related:
   - INS-260329-7255
+  - PRI-260406-8B75
   - PRI-260405-9504
   - INS-260402-4AB4
-  - INS-260405-880C
-  - PRI-260323-0654
+  - PRI-260406-1ED1
   - INS-260330-70F5
 evidence:
   - id: INS-260330-3591

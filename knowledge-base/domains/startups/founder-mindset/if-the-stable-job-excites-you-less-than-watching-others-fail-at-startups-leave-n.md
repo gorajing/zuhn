@@ -48,7 +48,6 @@ stance: >-
   succeeding at your stable corporate job, you should leave immediately—that
   asymmetry in excitement is the clearest signal you're a founder.
 related:
-  - INS-260327-1064
   - INS-260402-E140
   - INS-260403-ADF9
   - INS-260403-78B7
@@ -58,6 +57,7 @@ related:
   - INS-260402-ED85
   - INS-260403-12FD
   - INS-260403-E300
+  - INS-260404-70AE
 evidence:
   - id: INS-260329-0014
     type: SUPPORTS

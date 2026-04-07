@@ -52,10 +52,10 @@ stance: >-
   anticipating where massive markets will emerge.
 related:
   - PRI-260328-D292
+  - PRI-260406-6DBE
   - PRI-260325-070D
+  - PRI-260406-9573
   - INS-260403-9E4D
-  - INS-260403-740E
-  - INS-260403-D543
 evidence:
   - id: INS-260330-F671
     type: TRANSFERS_TO

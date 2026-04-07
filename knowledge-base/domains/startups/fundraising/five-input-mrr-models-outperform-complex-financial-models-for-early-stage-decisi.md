@@ -55,10 +55,10 @@ stance: >-
   rather than building elaborate multi-tab financial models before Series A
 related:
   - INS-260403-F85C
+  - PRI-260406-26B3
+  - PRI-260406-40ED
   - INS-260403-B4B9
   - PRI-260405-1FBC
-  - INS-260403-E25F
-  - INS-260403-C8B9
 ---
 The article argues that pre-Series A companies gain more from a lightweight, single-sheet projection model than from elaborate three-tab cash flow engines. The reasoning is sound: early-stage data is inherently noisy, so adding model complexity just gives false precision. The five inputs — new customers per month, ARPU, net churn rate, current MRR, and target MRR — capture the core growth dynamics.
 

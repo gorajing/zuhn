@@ -50,15 +50,15 @@ stance: >-
   same dimensions.
 related:
   - INS-260330-EC76
-  - INS-260330-39C6
   - INS-260330-6050
   - INS-260330-DD10
   - INS-260403-D444
   - INS-260403-7644
-  - INS-260403-B26E
   - INS-260403-C8FB
   - INS-260403-59C6
-  - PRI-260403-5DEA
+  - PRI-260406-B331
+  - PRI-260406-1796
+  - INS-260403-FBD6
 ---
 Large incumbents are constrained by their existing business models, customer commitments, internal politics, and incentive structures. A startup that competes directly on the incumbent's strongest dimensions will lose. The winning move is to identify what the incumbent cannot do (structural impossibility — e.g., cannibalizing existing revenue) or will not do (willful avoidance — e.g., serving low-margin segments they consider beneath them), and make that the core of the startup's strategy.
 

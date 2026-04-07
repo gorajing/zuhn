@@ -48,11 +48,11 @@ stance: >-
   because they bypass partnership consensus, rigid traction milestones, and slow
   investment cycles
 related:
+  - PRI-260406-8F89
   - INS-260403-AB11
   - INS-260403-6E68
   - INS-260405-2F43
   - INS-260405-B922
-  - INS-260405-6342
   - INS-260403-C838
 ---
 Traditional VC fundraising forces founders through a gauntlet: full partnership pitches, arbitrary traction milestones, and multi-month decision cycles that reject 99% of deals. Family offices operate with fundamentally different incentive structures—they're long-term thinkers deploying personal or generational wealth without the LP-driven return timelines that constrain VCs.

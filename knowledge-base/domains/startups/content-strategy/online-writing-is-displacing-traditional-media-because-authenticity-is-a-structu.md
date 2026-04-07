@@ -46,10 +46,10 @@ stance: >-
   that will reverse.
 related:
   - INS-260321-86E7
+  - PRI-260406-66BA
   - INS-260403-DEF6
   - INS-260403-6908
   - INS-260405-6BC4
-  - PRI-260321-5857
   - INS-260405-BAB0
 evidence:
   - id: INS-260321-86E7

@@ -53,6 +53,7 @@ stance: >-
   determine business viability more than product features do.
 related:
   - INS-260327-624F
+  - PRI-260406-CCAE
   - INS-260329-6079
   - INS-260403-5D89
   - INS-260327-E07A

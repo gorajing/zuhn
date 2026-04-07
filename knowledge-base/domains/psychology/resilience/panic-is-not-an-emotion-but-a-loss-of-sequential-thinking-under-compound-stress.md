@@ -57,7 +57,6 @@ stance: >-
   decision-making
 related:
   - INS-260325-3A04
-  - INS-260323-DEEA
   - INS-260325-F1BC
   - INS-260325-A326
   - INS-260329-CCDE
@@ -65,6 +64,7 @@ related:
   - INS-260330-6C09
   - INS-260330-7987
   - INS-260329-0B76
+  - PRI-260406-0E02
   - PRI-260403-88F5
 evidence:
   - id: INS-260329-FEF4

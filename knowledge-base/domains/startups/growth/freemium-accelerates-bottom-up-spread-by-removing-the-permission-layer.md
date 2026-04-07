@@ -52,10 +52,10 @@ stance: >-
   defining advantage of bottom-up GTM.
 related:
   - INS-260403-A9CC
+  - PRI-260406-CA09
   - INS-260321-1A0B
   - INS-260330-760D
   - INS-260325-FDF5
-  - INS-260403-9A0C
   - INS-260405-0CE9
 ---
 Figma's freemium model was the enabling infrastructure for its entire bottom-up motion. By letting designers start for free, the product could spread virally within organizations before any budget conversation occurred. The permission layer — manager approval, IT review, procurement contracts — was bypassed entirely at the adoption stage and only re-engaged at the monetization stage, when the product had already proved its value.

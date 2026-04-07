@@ -53,10 +53,10 @@ stance: >-
   and given a discrete identity, even if the names are arbitrary or confusing.
 related:
   - INS-260330-2BF4
+  - PRI-260406-F8E5
   - INS-260330-30FB
   - INS-260330-F2B6
   - INS-260405-7E85
-  - PRI-260403-181B
 evidence:
   - id: INS-260330-30FB
     type: TRANSFERS_TO

@@ -47,8 +47,8 @@ related:
   - INS-260403-E4B3
   - PRI-260328-D5EB
   - INS-260404-21E6
+  - PRI-260406-EBDB
   - INS-260327-82AA
-  - INS-260403-415E
   - INS-260329-409F
 ---
 Rajaram explicitly excluded brand from his 8-moat framework, arguing it will weaken as AI makes switching costs approach zero. Within 1-2 years, agents will enable easy data migration between ecosystems, and AI can replicate pixel-perfect product experiences. This is especially true in B2B where businesses are more rational than consumers. The analogy is professional sports: do you cheer for the player or the team when they switch? If your product can be cloned and your data can be ported, brand alone won't save you. This contradicts conventional wisdom that brand becomes more important as technology commoditizes, at least in B2B contexts.

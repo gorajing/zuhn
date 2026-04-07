@@ -55,6 +55,7 @@ related:
   - INS-260403-41C8
   - PRI-260323-1B96
   - PRI-260405-93E2
+  - PRI-260406-9EF7
   - INS-260403-35EE
 ---
 The article identifies a common founder archetype — 'the Oblivious' — who builds exceptional products but neglects the business model that must sustain them. This maps to a broader pattern where technical founders optimize for product quality while treating monetization as an afterthought.

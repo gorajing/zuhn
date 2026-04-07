@@ -50,10 +50,10 @@ stance: >-
   processes amplify small parameter changes into massive outcome differences.
 related:
   - INS-260330-1C84
-  - INS-260330-6AA3
+  - PRI-260406-00E6
   - INS-260330-C499
+  - INS-260330-6AA3
   - INS-260330-1AB0
-  - PRI-260403-50EF
 evidence:
   - id: INS-260330-6AA3
     type: SUPPORTS

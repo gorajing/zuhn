@@ -60,6 +60,7 @@ related:
   - INS-260405-F20F
   - INS-260404-3B9D
   - INS-260405-95AE
+  - PRI-260406-1ED1
 ---
 RuBisCo evolved in a low-oxygen atmosphere where its inability to distinguish CO2 from O2 didn't matter. By the time photosynthesis itself raised atmospheric oxygen — making RuBisCo fail half the time — plants had built their entire metabolic architecture around it. Rather than evolve a better enzyme, they evolved workarounds: photorespiration pathways, massive overproduction (40 billion tons globally), and specialized enzymes to detoxify the byproducts.
 

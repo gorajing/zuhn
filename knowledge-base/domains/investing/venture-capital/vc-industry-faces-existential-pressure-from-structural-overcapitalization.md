@@ -45,14 +45,14 @@ stance: >-
   asset class.
 related:
   - INS-260323-750A
-  - INS-260327-8374
   - INS-260330-77D1
   - INS-260404-EC16
-  - INS-260404-FA1E
   - INS-260404-92AA
   - INS-260404-A2CA
   - INS-260403-F305
   - INS-260403-6B29
   - INS-260403-FA65
+  - INS-260404-B496
+  - INS-260405-EFC1
 ---
 The 'extinction of VC' thesis highlights a growing structural problem: the VC industry has expanded far beyond what deal flow quality can support. With thousands of funds competing for a limited pool of exceptional founders, valuations get inflated at entry, reducing return potential. The math becomes increasingly punitive — when entry prices are high, companies need even larger exits to generate meaningful multiples. This dynamic suggests a coming shakeout where smaller, less differentiated funds struggle to raise subsequent vehicles, while mega-funds and highly specialized micro-funds survive. For founders, this paradoxically means more capital available short-term but potentially less patient, value-added capital as undifferentiated investors compete on price alone.

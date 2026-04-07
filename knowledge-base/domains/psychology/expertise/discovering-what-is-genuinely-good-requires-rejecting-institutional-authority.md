@@ -49,8 +49,8 @@ related:
   - INS-260403-31B1
   - INS-260404-E185
   - INS-260404-2135
+  - PRI-260406-430A
   - INS-260403-4363
-  - PRI-260405-ADEA
 ---
 Graham's epiphany came from the art world, where the corruption was so blatant it 'snapped the leash of credulity.' He realized it was a choice between doing good work and being an insider — and that this tension exists to some degree in almost every field. Philosophy professors published beautifully typeset papers that said nothing definite enough to refute. English teachers assigned fiction optimized for classroom use, not quality.
 

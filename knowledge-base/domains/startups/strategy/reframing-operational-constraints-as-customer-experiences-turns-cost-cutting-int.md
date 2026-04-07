@@ -47,7 +47,7 @@ stance: >-
   experiences (treasure-hunt shopping, DIY assembly) generate loyalty that pure
   low-price competitors cannot match.
 related:
-  - INS-260327-9924
+  - PRI-260406-E9F2
   - INS-260403-323A
   - INS-260403-0435
   - INS-260403-524B

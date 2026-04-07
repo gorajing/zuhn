@@ -3,10 +3,10 @@
 - `INS-260403-7BC6` LLMs threaten financial analyst roles because the analytical frameworks were always public — only the execution was scarce.
 - `INS-260405-B7C7` Meta giving away a $10B AI model forces the AI market toward commoditized model weights, undermining the subscription economics of closed competitors while costing Meta nothing since it doesn't sell AI.
 - `INS-260405-3805` AI is eating software faster in Europe, shortening competitive windows for cloud companies.
-- `INS-260403-6EA6` Skills that can be mass-taught get mass-produced, driving wages toward training cost plus minimal return.
 - `INS-260325-FD14` TurboQuant's data-oblivious algorithm beats dataset-specific tuned competitors, demonstrating that fundamental algorithmic breakthroughs can instantly commoditize proprietary optimization moats.
 - `INS-260403-4C61` NFX evaluates AI startups on moat strength, proprietary data, and network effects rather than the AI component itself, since AI capabilities are rapidly commoditizing.
 - `INS-260403-06E2` Sand Hill Road's boring identical offices reveal that VC firms differentiate on relationships and judgment, not on brand or physical presence.
+- `INS-260403-6EA6` Skills that can be mass-taught get mass-produced, driving wages toward training cost plus minimal return.
 - `INS-260403-BE7C` Price disruption alone invites margin compression; a stacked second model (marketplace, fintech, bundling) is required for sustainability.
 - `INS-260403-F62E` Hilti's pivot from selling power tools to offering tools-as-a-service grew revenue from CHF 4B to 5.7B despite commoditization pressure.
 - `INS-260403-3725` AI features get cloned in weeks rather than years, so founders must build strategic moats immediately rather than planning to add them later.

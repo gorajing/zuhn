@@ -54,7 +54,6 @@ stance: >-
   can go wrong, and your job is to guarantee their successful transition to AI.
 related:
   - INS-260327-EEBD
-  - INS-260327-6B78
   - INS-260404-3D17
   - INS-260330-C095
   - INS-260330-3E6B
@@ -63,6 +62,7 @@ related:
   - INS-260330-8CD4
   - INS-260330-7168
   - INS-260330-13E8
+  - INS-260403-FB4D
 evidence:
   - id: INS-260327-6B78
     type: EXTENDS

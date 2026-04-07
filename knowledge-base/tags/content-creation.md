@@ -1,9 +1,9 @@
 # Tag: content-creation
 
-- `INS-260403-8EF3` Creator AI tool usage surged from 33% to 92% in 18 months, though 90% feel they're not using AI to its full potential.
-- `INS-260403-FB82` Generative AI's deeper impact is enabling infinite personalized content variants that were economically impossible before, not just making existing workflows cheaper.
 - `INS-260320-D58E` An n8n workflow scrapes YouTube, Reddit, Twitter, and the web daily to identify content outliers and trending topics, then generates detailed content ideas with scripts, hooks, and storylines.
 - `INS-260320-9935` The 0-to-175K growth came from automating content research and ideation, not from automating content creation itself -- the competitive advantage is knowing what to create, not how to create it.
+- `INS-260403-8EF3` Creator AI tool usage surged from 33% to 92% in 18 months, though 90% feel they're not using AI to its full potential.
+- `INS-260403-FB82` Generative AI's deeper impact is enabling infinite personalized content variants that were economically impossible before, not just making existing workflows cheaper.
 - `INS-260404-D45D` Introverts should leverage written content as their primary vehicle for demonstrating expertise rather than competing in verbal-dominant settings.
 - `INS-260329-D9A4` Redefine success as daily activity completion rather than revenue or follower milestones to break the feast-famine cycle.
 - `INS-260323-CD03` Everyone wants media coverage, which means holding a camera is a universal access pass — the journalist is a portal for exposure that gives front-row seats to history as it unfolds.

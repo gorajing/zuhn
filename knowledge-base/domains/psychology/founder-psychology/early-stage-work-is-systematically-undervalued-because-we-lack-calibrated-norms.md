@@ -43,7 +43,6 @@ stance: >-
   The inability to distinguish promising early work from genuinely bad work is a
   cultural gap, not a fixed human trait, and can be deliberately corrected.
 related:
-  - INS-260404-FADE
   - INS-260404-7C63
   - INS-260403-AEF2
   - INS-260403-A268

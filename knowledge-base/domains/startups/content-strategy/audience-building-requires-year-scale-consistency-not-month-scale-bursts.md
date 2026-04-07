@@ -42,11 +42,11 @@ stance: >-
   Creating content consistently for years, not months, is the only reliable path
   to building a meaningful audience from zero
 related:
-  - INS-260329-4C4C
-  - INS-260329-7C08
+  - PRI-260406-AF0C
   - INS-260329-0F10
+  - INS-260329-4C4C
   - INS-260329-764E
-  - PRI-260322-DCDB
+  - INS-260329-7C08
 evidence:
   - id: INS-260329-764E
     type: SUPPORTS

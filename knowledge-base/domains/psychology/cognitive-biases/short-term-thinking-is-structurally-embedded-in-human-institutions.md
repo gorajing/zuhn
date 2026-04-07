@@ -47,11 +47,11 @@ stance: >-
   are amplified by institutional structures (elections, quarterly earnings, news
   cycles) that systematically punish long-term thinking.
 related:
+  - PRI-260406-0CA4
   - PRI-260328-D292
   - PRI-260328-C006
   - PRI-260405-ADEA
   - PRI-260403-50EF
-  - INS-260322-5D22
 evidence:
   - id: INS-260325-2B17
     type: CHALLENGES

@@ -49,15 +49,15 @@ stance: >-
   across all three
 related:
   - INS-260322-683B
-  - INS-260327-B302
   - INS-260330-1266
   - INS-260403-6279
   - INS-260403-5C06
   - INS-260403-99B1
   - INS-260327-80A8
+  - PRI-260406-4CF9
   - INS-260403-9D89
+  - PRI-260406-901E
   - INS-260403-183D
-  - INS-260404-2032
 ---
 Lenny's research across the most successful consumer startups of the prior decade revealed a striking pattern: most companies achieved initial scale by excelling at just one of three growth lanes — performance marketing (e.g., Facebook ads), virality (e.g., word of mouth, invites), or content (e.g., SEO). This challenges the common instinct to pursue multiple channels simultaneously.
 

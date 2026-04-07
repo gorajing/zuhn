@@ -44,8 +44,8 @@ stance: >-
 related:
   - INS-260327-A815
   - PRI-260328-E921
+  - PRI-260406-E75B
   - INS-260404-563B
   - INS-260329-A80B
-  - INS-260329-B239
 ---
 The number five is a practical threshold: enough to identify a pattern (shared role, company size, pain point) but small enough to be reached by direct founder-led sales before any process exists. Below five, you're still in signal-gathering mode. Above five—specifically all paying full price without being talked into it—you have enough data to define a beachhead market and formalize a sales motion. The 'full price' constraint is critical: discounted deals can mask weak product-market fit by using price as a substitute for genuine urgency. Five full-price deals is the earliest point at which repeatable scaling becomes a rational bet.

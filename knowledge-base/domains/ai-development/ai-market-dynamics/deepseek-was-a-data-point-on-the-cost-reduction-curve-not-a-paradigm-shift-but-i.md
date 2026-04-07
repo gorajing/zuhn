@@ -60,7 +60,6 @@ stance: >-
   has achieved frontier model engineering capability for the first time.
 related:
   - INS-260320-901C
-  - INS-260327-40E3
   - PRI-260328-A82C
   - PRI-260405-B144
   - INS-260322-5790

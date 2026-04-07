@@ -40,11 +40,11 @@ stance: >-
   when anchors close because the entire ecosystem of smaller tenants depended on
   anchor foot traffic.
 related:
+  - PRI-260406-14BB
   - INS-260405-C0AF
   - INS-260405-7B7C
   - PRI-260328-0993
   - INS-260403-D8A2
-  - INS-260323-5106
 evidence:
   - id: INS-260405-C0AF
     type: SUPPORTS

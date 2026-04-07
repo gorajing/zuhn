@@ -49,9 +49,9 @@ stance: >-
   event.
 related:
   - INS-260403-7190
+  - PRI-260406-0A98
+  - PRI-260406-3317
   - INS-260405-D2E2
   - INS-260403-18E0
-  - INS-260403-ACC5
-  - INS-260403-D970
 ---
 Most institutional investors ask founders to expand the employee option pool before the investment (pre-money), which means the new shares come out of the founders' ownership rather than being shared dilution post-money. This can cost founders 5-10% of their company in a single term sheet clause. The counter-strategy is to come prepared with a detailed hiring roadmap showing exactly how much equity is needed before the next round, then demonstrate that the existing unallocated option pool already covers much of that need. If a founder can show that a 6-7% pool covers all anticipated hires until Series B, investors are more likely to agree to a smaller pool or shift some of it post-money. The key insight is that this negotiation determines who absorbs the risk of future hiring — unprepared founders absorb 100% of it.

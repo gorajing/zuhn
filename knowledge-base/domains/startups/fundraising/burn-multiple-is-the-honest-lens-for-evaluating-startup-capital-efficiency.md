@@ -49,9 +49,10 @@ stance: >-
   aggressive spending.
 related:
   - INS-260321-E8CB
-  - INS-260403-A93A
   - INS-260403-3D75
   - INS-260403-D8DB
+  - PRI-260406-6533
+  - PRI-260406-DE8A
   - INS-260403-9AD1
   - INS-260403-3BBB
   - INS-260404-B6DF

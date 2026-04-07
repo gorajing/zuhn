@@ -45,11 +45,11 @@ stance: >-
   paralyzing force into productive energy, because with no lifeboats you stop
   fooling yourself about whether your ideas will work.
 related:
+  - PRI-260406-4F06
   - INS-260327-1845
   - INS-260330-207D
   - INS-260325-0E1D
   - INS-260403-9F78
-  - INS-260329-541A
   - INS-260330-383F
 evidence:
   - id: INS-260330-383F

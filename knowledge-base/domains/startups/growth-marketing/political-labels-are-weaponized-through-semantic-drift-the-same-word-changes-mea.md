@@ -48,11 +48,11 @@ resolutions:
     update your vocabulary when terms get captured. Brand positioning requires
     constant linguistic maintenance.
 related:
+  - PRI-260406-003E
+  - PRI-260406-B9C9
+  - PRI-260406-C1EF
   - INS-260403-B6D9
   - INS-260327-F723
-  - PRI-260405-7F1E
-  - INS-260330-3A3F
-  - INS-260330-6300
 stance: Terms like 'liberal' and 'progressive' evolve rapidly in meaning
 evidence:
   - id: INS-260329-28A6

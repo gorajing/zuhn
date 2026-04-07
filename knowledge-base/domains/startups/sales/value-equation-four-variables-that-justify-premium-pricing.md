@@ -45,11 +45,11 @@ stance: >-
   Price should be set by the perceived value gap between dream outcome and
   current state, not by cost-plus margins
 related:
+  - PRI-260406-5BD0
   - INS-260405-7838
   - INS-260403-2DE3
   - INS-260403-AEA3
   - INS-260327-0133
-  - INS-260403-2814
 evidence:
   - id: INS-260327-0133
     type: TRANSFERS_TO

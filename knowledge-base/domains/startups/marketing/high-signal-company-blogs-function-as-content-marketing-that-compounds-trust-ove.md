@@ -52,9 +52,9 @@ stance: >-
 related:
   - INS-260404-C7B2
   - INS-260403-FC45
+  - PRI-260406-CCAE
   - INS-260403-BC04
   - INS-260403-99B1
   - INS-260327-80A8
-  - INS-260404-24FB
 ---
 PostHog's blog covers topics like 'I've consistently underestimated how important communication is as a CEO,' 'How we got our first 1,000 users,' and 'Job interview questions engineers should ask.' These are useful to their target audience regardless of whether they ever buy PostHog. This approach works because it attracts exactly the right audience (technical founders, PMs, engineers), builds trust before any sales interaction, and positions the company as a peer-to-peer resource rather than a vendor. The signal-to-noise ratio is what matters—most company blogs are promotional noise. The ones that survive editorial scrutiny from skeptical readers become genuine distribution assets. The compounding effect is that quality content attracts the kinds of people who then share it with others like them.

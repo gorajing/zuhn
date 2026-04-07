@@ -53,8 +53,9 @@ related:
   - INS-260330-EF74
   - INS-260403-1B9E
   - INS-260404-2CA6
-  - INS-260404-8076
   - INS-260404-48D1
+  - PRI-260406-FBCE
+  - INS-260404-8076
   - INS-260403-9E4D
 ---
 In a single newsletter issue, health-adjacent raises include Alan ($4.5B valuation, health insurance), Mendaera ($73M, robotic healthcare), Qure.ai ($65M, AI diagnostics), Sabadell Asabys II (€180M health tech fund), and a dedicated PitchBook Digital Health Report. This concentration across insurance, robotics, AI diagnostics, and dedicated fund vehicles suggests the sector isn't riding a hype cycle.

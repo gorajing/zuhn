@@ -51,7 +51,7 @@ related:
   - INS-260403-8C2D
   - INS-260403-1ECB
   - INS-260403-7318
-  - INS-260402-2300
+  - PRI-260406-1A4D
   - INS-260403-6E68
 ---
 The article's example shows that simply shifting a Head of Sales hire from Q1 to Q2 — not eliminating the hire, just delaying it — extended cash runway by 3 months. This delay created enough breathing room to raise capital on better terms rather than under time pressure.

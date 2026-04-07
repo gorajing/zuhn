@@ -52,10 +52,10 @@ stance: >-
   completely useless for the minority class you actually care about.
 related:
   - INS-260329-A2D0
+  - PRI-260406-A33C
   - INS-260323-584D
   - PRI-260323-81E9
   - INS-260329-7F02
-  - INS-260404-2135
 ---
 The course walks through a critical failure mode that traps beginners: on a dataset where 95% of patients are healthy, a model that always predicts healthy achieves 95% accuracy while catching zero cases of disease. Accuracy rewards this degenerate strategy. Precision (of the positive predictions, how many were correct?) and recall (of the actual positives, how many did we catch?) expose the failure.
 

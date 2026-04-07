@@ -50,11 +50,10 @@ stance: >-
   clearer market ownership and defensibility.
 related:
   - INS-260404-620D
-  - INS-260404-40F2
   - INS-260405-CB93
   - INS-260404-63D5
+  - PRI-260406-E880
   - INS-260405-94A1
-  - INS-260403-822B
 ---
 The deck collection reveals two dominant archetypes among companies that raised significant rounds: vertical SaaS plays that own a specific industry (Vori for grocery supply chain, Pelago for substance use treatment, Flo for women's health) and horizontal infrastructure platforms (Lago for billing, Griffin for banking-as-a-service, Paddle for SaaS payments). Both categories share a common trait—they make it easy for investors to understand the TAM and the path to market dominance.
 

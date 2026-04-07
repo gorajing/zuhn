@@ -52,13 +52,12 @@ stance: >-
   organize relationships before committing to formal schema definitions.
 related:
   - PRI-260320-C14C
-  - INS-260329-6A26
   - INS-260329-C401
   - INS-260329-7673
   - INS-260329-83AA
   - INS-260403-0A7A
+  - PRI-260406-788D
   - INS-260329-2DF2
-  - INS-260329-48FD
 evidence:
   - id: INS-260329-C401
     type: SUPPORTS

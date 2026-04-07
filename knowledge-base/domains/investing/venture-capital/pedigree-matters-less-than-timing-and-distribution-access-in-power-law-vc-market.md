@@ -51,11 +51,11 @@ stance: >-
   Non-traditional investors with strong distribution networks and cultural
   timing can outperform credentialed VCs in power-law venture outcomes
 related:
-  - INS-260403-2E2C
+  - PRI-260406-CA09
   - INS-260403-2241
+  - INS-260403-2E2C
   - PRI-260405-ED62
   - INS-260405-3A6E
-  - INS-260404-81AB
 ---
 Jake Paul's quietly successful venture portfolio — including hits like Ramp, Chronosphere, Anduril, and Cognition — challenges the assumption that effective venture investing requires traditional finance credentials or deep technical expertise. In power-law markets where a single winner can return an entire fund, the critical advantages are access to the best deals, timing conviction, and the distribution network to add value post-investment.
 

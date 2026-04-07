@@ -52,8 +52,8 @@ related:
   - INS-260403-001C
   - INS-260403-0BD4
   - INS-260404-25FF
-  - INS-260403-7F67
-  - INS-260322-3646
+  - PRI-260406-04DB
+  - PRI-260406-CA93
 ---
 Earn-outs are designed to bridge valuation gaps or trust gaps between buyer and seller. But cash earn-outs and equity earn-outs do very different things even at the same nominal value. A $20M cash earn-out contingent on hitting revenue targets in year 3 has a present value that accounts for both time-value discounting and probability of achievement — often making it worth 30-50% of face value. Equity earn-outs add another layer: the shares received are subject to the acquirer's stock performance.
 

@@ -45,10 +45,10 @@ stance: >-
   measurement itself is contaminated by the same bias being tested
 related:
   - INS-260405-F369
+  - PRI-260406-A33C
   - INS-260404-5365
   - INS-260405-D66B
   - PRI-260323-81E9
-  - INS-260403-63E6
 evidence:
   - id: INS-260405-F369
     type: TRANSFERS_TO

@@ -49,11 +49,11 @@ stance: >-
   Landing in approximate semantic space via vector search then following graph
   edges for structured exploration outperforms either approach alone
 related:
-  - INS-260325-E652
   - INS-260329-61E5
   - INS-260402-5ACE
   - INS-260405-214D
-  - INS-260329-2DF2
+  - INS-260325-E652
+  - PRI-260406-FA5B
 evidence:
   - id: INS-260329-61E5
     type: TRANSFERS_TO

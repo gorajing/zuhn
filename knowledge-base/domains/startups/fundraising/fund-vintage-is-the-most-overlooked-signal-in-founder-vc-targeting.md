@@ -54,11 +54,11 @@ stance: >-
   Fund vintage (how recently a fund was raised) matters more than brand or focus
   area when identifying VCs who can actually write a check today.
 related:
+  - PRI-260406-9EF7
   - PRI-260403-26B9
   - INS-260330-B6FA
   - INS-260328-D220
   - INS-260330-1002
-  - INS-260327-5B30
 ---
 Most VC funds deploy capital over a 2-3 year investment period after raising, then shift to reserving capital for follow-ons in existing portfolio companies or begin raising a new fund. This means a fund with a 2019 or 2020 vintage is effectively closed to new investments by 2025, regardless of the firm's brand or stated thesis.
 

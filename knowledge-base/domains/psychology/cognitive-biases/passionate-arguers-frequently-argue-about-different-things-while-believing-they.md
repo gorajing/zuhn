@@ -44,7 +44,6 @@ stance: >-
   that both parties are addressing different propositions.
 related:
   - INS-260330-3570
-  - INS-260403-F60A
   - PRI-260405-64C0
   - INS-260330-CD7A
   - INS-260404-6753

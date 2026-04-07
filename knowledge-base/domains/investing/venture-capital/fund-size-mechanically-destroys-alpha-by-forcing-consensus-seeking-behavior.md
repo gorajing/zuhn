@@ -55,10 +55,9 @@ stance: >-
 related:
   - INS-260403-0BD4
   - INS-260403-82B5
+  - PRI-260406-0412
   - INS-260403-DA33
   - INS-260403-3562
-  - INS-260403-2330
-  - INS-260403-1438
 ---
 Financial theory predicts diminishing marginal returns as fund size grows—every extra dollar delivers less differentiated return because the portfolio drifts toward systemic exposure. A $100M fund needs roughly $1.7B in aggregate exit value for 3x net returns, while a $1B fund needs ~$17B. This math makes it rational for mega-funds to pile into de-risked, consensus names and avoid anything that doesn't obviously clear high exit bars.
 

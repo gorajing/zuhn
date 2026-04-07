@@ -54,10 +54,10 @@ resolutions:
     genuinely win-win.
 related:
   - INS-260403-52DB
+  - PRI-260406-17AA
   - INS-260404-420F
   - INS-260403-6342
   - INS-260403-BE7C
-  - PRI-260403-5FC4
 stance: >-
   The most scalable business models solve three different groups' pain points
   simultaneously in a self-reinforcing loop.

@@ -51,10 +51,8 @@ related:
   - INS-260330-568A
   - INS-260402-421B
   - INS-260403-82CC
-  - INS-260403-31C2
   - INS-260403-EDEF
   - INS-260330-66A0
-  - INS-260404-943E
   - INS-260404-77CD
 ---
 Venture capitalists operate under extreme time pressure and use the first meeting as a rapid filter. The three things they assess in those opening minutes are market size and urgency, traction and revenue growth, and whether the founding team is uniquely positioned to win. Common instant-rejection triggers include claiming no competitors exist (signals weak market understanding), not knowing core metrics like CAC and LTV, and dodging hard questions.

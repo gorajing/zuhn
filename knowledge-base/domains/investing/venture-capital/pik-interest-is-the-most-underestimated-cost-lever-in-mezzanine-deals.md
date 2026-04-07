@@ -53,7 +53,7 @@ related:
   - INS-260403-C8A9
   - INS-260404-E061
   - INS-260403-0240
-  - INS-260403-3280
+  - PRI-260406-8987
 ---
 Payment-in-kind (PIK) interest accrues by adding unpaid interest back onto the loan balance, where it compounds in subsequent periods. A founder seeing a 5% cash rate plus 5% PIK may mentally register '10% total interest' but miss that the PIK portion grows the principal itself, meaning interest-on-interest accumulates silently. Over a 4-5 year tenor, this compounding can add 20-30% to the total repayment amount beyond what a simple rate multiplication would suggest.
 

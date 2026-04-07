@@ -52,7 +52,6 @@ stance: >-
   Changing payment incentives from registered users to activated users causes
   short-term vanity metric drops but dramatically accelerates genuine growth.
 related:
-  - INS-260321-6437
   - INS-260330-8048
   - PRI-260403-E097
   - INS-260405-07DF

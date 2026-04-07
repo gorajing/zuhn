@@ -53,10 +53,11 @@ stance: >-
   network effects.
 related:
   - INS-260325-88DF
+  - PRI-260406-9063
   - INS-260330-8A0C
   - PRI-260328-A4AC
   - INS-260330-E794
-  - PRI-260325-496E
+  - PRI-260406-003E
 evidence:
   - id: INS-260329-1B2A
     type: CHALLENGES

@@ -49,7 +49,6 @@ stance: >-
   The most profitable franchise businesses make their money selling supplies to
   franchisees, not from the consumer-facing product itself.
 related:
-  - INS-260324-5B35
   - INS-260324-B7C0
   - INS-260324-D612
   - PRI-260328-5053
@@ -59,6 +58,7 @@ related:
   - INS-260403-3F5F
   - INS-260327-092E
   - INS-260329-2EAA
+  - INS-260329-4161
 ---
 Domino's is technically a logistics company disguised as a pizza chain. Individual franchises earn razor-thin 11% margins on pizza sales, and there isn't much cash flow when you're taking 5% of $8. But Domino's corporate generates billions in revenue by selling ingredients at markup to its franchise network. This is the same pattern seen across franchise businesses: the real money is in the supply chain, not the storefront.
 

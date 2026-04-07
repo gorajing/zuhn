@@ -53,11 +53,11 @@ stance: >-
   bypass founders' rational due diligence.
 related:
   - INS-260402-E522
+  - PRI-260406-0109
   - INS-260403-9F64
   - INS-260403-D4BC
   - INS-260403-A9C9
   - INS-260404-569C
-  - PRI-260403-26B9
 ---
 Across the 10 scam types catalogued — fake investors, pay-to-pitch, predatory notes, impersonated VCs, data harvesting, fake commitments, PR schemes, crowdfunding fraud, and equity grabs — the underlying psychological mechanism is remarkably consistent. Each manufactures artificial social proof ('prominent investors are already committed,' 'we backed a founder who just exited') combined with urgency ('limited slots,' 'closing applications tomorrow,' 'moving quickly on top startups').
 

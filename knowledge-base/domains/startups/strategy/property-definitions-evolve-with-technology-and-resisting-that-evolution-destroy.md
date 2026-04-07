@@ -51,7 +51,6 @@ stance: >-
   should be abandoned.
 related:
   - INS-260325-40DC
-  - INS-260330-5A9E
   - INS-260402-2C6B
   - INS-260403-B6D9
   - INS-260405-B22F

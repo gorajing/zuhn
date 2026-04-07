@@ -47,10 +47,10 @@ stance: >-
   making market size the real story.
 related:
   - INS-260323-3BA4
+  - PRI-260406-12A2
   - INS-260330-F527
   - INS-260403-BDCB
   - INS-260405-AEA0
-  - INS-260321-4E98
   - INS-260402-E148
   - INS-260403-0AF6
   - INS-260404-2A8B

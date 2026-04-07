@@ -58,13 +58,12 @@ stance: >-
   trust informed intuition rather than waiting for statistical significance that
   will never arrive.
 related:
-  - INS-260322-1A20
   - INS-260323-2559
-  - INS-260405-2B3F
   - INS-260405-75AC
+  - PRI-260406-0E02
   - PRI-260405-64B2
-  - INS-260327-679A
-  - INS-260330-DF2C
+  - INS-260322-1A20
+  - PRI-260406-4C28
 ---
 Verna identifies over-experimentation as a growth anti-pattern: teams that insist on A/B testing everything, including low-traffic scenarios where statistical significance is mathematically impossible within reasonable timeframes. This creates analysis paralysis disguised as rigor.
 

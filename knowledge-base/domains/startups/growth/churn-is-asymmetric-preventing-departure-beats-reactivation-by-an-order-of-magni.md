@@ -46,12 +46,11 @@ stance: >-
   Reactivation campaigns are nearly worthless compared to churn prevention
   because once users leave they almost never return with sustained engagement
 related:
-  - INS-260403-E69C
+  - PRI-260406-58FA
   - INS-260403-4388
   - INS-260403-E78B
   - PRI-260328-4313
   - INS-260403-B6F2
-  - INS-260330-73A2
 ---
 Churn behaves like a cliff, not a revolving door. Email win-backs get less than 5% click-through, reactivation discounts see 10-20% redemption, and actual sustained usage reactivation is under 10%. Even successfully reactivated users reset to a worse retention curve than their first time.
 

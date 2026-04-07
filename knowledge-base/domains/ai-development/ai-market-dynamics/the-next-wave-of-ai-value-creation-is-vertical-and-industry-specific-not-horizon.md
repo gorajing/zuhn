@@ -47,7 +47,6 @@ stance: >-
   Vertical AI solutions targeting specific industries will drive deeper adoption
   and more defensible businesses than horizontal AI platforms.
 related:
-  - INS-260323-76B8
   - INS-260326-3D8D
   - INS-260327-540D
   - INS-260403-8256

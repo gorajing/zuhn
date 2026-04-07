@@ -47,13 +47,11 @@ stance: >-
   outcomes for both founders and investors than the traditional always-on
   fundraising process.
 related:
-  - INS-260327-9830
-  - INS-260327-7D0B
   - INS-260403-53C0
+  - PRI-260406-6AE6
+  - PRI-260406-EC93
   - INS-260403-21B2
   - INS-260404-E9F2
-  - INS-260405-1982
-  - INS-260403-458A
   - INS-260403-8E58
 evidence:
   - id: INS-260329-14AE

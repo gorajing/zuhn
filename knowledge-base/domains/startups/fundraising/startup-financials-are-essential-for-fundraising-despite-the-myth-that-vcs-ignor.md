@@ -54,8 +54,8 @@ related:
   - INS-260404-D4A0
   - INS-260404-8890
   - INS-260405-092A
-  - INS-260330-478B
-  - PRI-260405-E9C5
+  - PRI-260406-8E01
+  - PRI-260406-5E06
 ---
 A common piece of founder advice is that VCs don't look at financials for early-stage companies, so building a detailed model is wasted effort. This is misleading. While VCs don't underwrite projections as literal forecasts, they use financial models to evaluate whether founders understand their cost structure, what assumptions drive growth, and how capital will be deployed. A founder who can't walk through their model is a red flag.
 

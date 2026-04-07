@@ -52,11 +52,11 @@ stance: >-
   on-site at each location is a superior scaling strategy for franchise
   businesses
 related:
+  - PRI-260406-5854
   - INS-260330-9FCC
   - INS-260403-323A
   - INS-260403-20B1
   - INS-260330-4C31
-  - INS-260403-524B
 evidence:
   - id: INS-260323-3D7D
     type: TRANSFERS_TO

@@ -46,8 +46,8 @@ stance: >-
   The ability to create wealth is a portable, learnable skill that persists
   across contexts, not a product of specific circumstances or connections.
 related:
-  - INS-260329-BBBE
   - INS-260403-39DD
+  - PRI-260406-12D7
   - PRI-260403-C229
   - INS-260403-22C2
   - PRI-260405-1FBC

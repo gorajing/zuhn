@@ -45,11 +45,11 @@ stance: >-
   A single meeting doesn't just cost the meeting time — it destroys the entire
   surrounding block because anticipation prevents starting ambitious work
 related:
+  - PRI-260406-B846
   - INS-260403-E255
   - INS-260330-814E
   - INS-260329-9A30
   - PRI-260323-DC25
-  - INS-260403-1CC5
 evidence:
   - id: INS-260329-9A30
     type: REFINES

@@ -43,11 +43,10 @@ stance: >-
 related:
   - INS-260329-F0DD
   - INS-260403-9421
-  - INS-260403-55E6
   - INS-260403-8E58
   - INS-260403-5E86
+  - PRI-260406-04DB
   - INS-260403-8DB5
-  - INS-260322-AAEA
-  - PRI-260405-64B2
+  - PRI-260406-F443
 ---
 The OnlyCFO IPO preparation guide frames going public as a deep operational transformation: public-company-grade financial controls, investor relations infrastructure, board composition, and narrative coherence must all be in place well before bankers are engaged. Companies that start this work 18-36 months out can fix structural weaknesses under low-stakes conditions; those that start six months out are forced to paper over problems or delay. The implication is that 'IPO readiness' is a continuous state of organizational maturity rather than a project with a start date.

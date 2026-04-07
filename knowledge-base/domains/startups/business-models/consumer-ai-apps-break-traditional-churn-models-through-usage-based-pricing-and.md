@@ -48,16 +48,15 @@ stance: >-
   Usage-based pricing in consumer AI enables net revenue retention above 100%
   even when some users churn, fundamentally changing the SaaS retention playbook
 related:
-  - INS-260322-E20E
   - INS-260322-B450
   - INS-260328-D826
-  - INS-260329-CCC4
-  - INS-260329-C8C7
   - INS-260330-0871
   - INS-260403-E69C
-  - INS-260404-C9B5
   - INS-260405-3061
   - INS-260403-53B0
+  - PRI-260406-58FA
+  - PRI-260328-6A8D
+  - INS-260329-C8C7
 ---
 Andreessen Horowitz data shows consumer AI apps are achieving revenue retention above 100%, breaking traditional churn models. This is driven by usage-based pricing where expanding users more than compensate for churning ones, combined with enterprise adoption creating stickier revenue streams. The playbook includes early investment in sales infrastructure rather than relying purely on product-led growth.
 

@@ -50,16 +50,15 @@ stance: >-
   the writer almost believing the false premises, producing internally
   consistent reasoning from dishonest starting points.
 related:
-  - INS-260330-F909
   - INS-260330-12DC
   - INS-260330-D066
   - INS-260330-3899
   - INS-260330-78B8
-  - INS-260402-3737
   - INS-260403-C37D
   - PRI-260405-262B
   - INS-260405-585D
-  - INS-260403-9669
+  - PRI-260406-C1EF
+  - INS-260403-20C3
 evidence:
   - id: INS-260330-04C0
     type: CHALLENGES

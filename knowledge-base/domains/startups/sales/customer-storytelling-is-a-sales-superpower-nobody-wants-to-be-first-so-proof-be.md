@@ -65,10 +65,10 @@ stance: >-
   proof, not promise, and each story unlocks an entire industry vertical.
 related:
   - INS-260327-CB1E
+  - PRI-260406-B314
   - INS-260327-E3CA
   - INS-260403-4610
   - INS-260404-688B
-  - INS-260322-8D47
   - INS-260329-B77F
   - INS-260403-2647
 evidence:

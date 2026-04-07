@@ -52,11 +52,11 @@ stance: >-
   cost you a lot of effort
 related:
   - INS-260329-B1A1
+  - PRI-260406-33E9
   - INS-260403-1A6B
+  - PRI-260406-A5F0
   - INS-260404-DDFB
   - PRI-260405-1FBC
-  - PRI-260328-F0B4
-  - INS-260404-CD3E
 evidence:
   - id: INS-260330-264B
     type: TRANSFERS_TO

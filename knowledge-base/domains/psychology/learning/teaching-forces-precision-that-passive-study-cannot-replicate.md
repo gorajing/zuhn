@@ -49,14 +49,13 @@ stance: >-
   knowledge — the gaps you didn't know existed — which passive study
   systematically hides from you.
 related:
-  - INS-260327-1313
   - INS-260329-72AC
   - INS-260330-3737
   - INS-260330-2DB0
+  - PRI-260406-122A
+  - PRI-260406-1437
   - INS-260327-B64B
   - INS-260403-C135
-  - INS-260330-63B8
-  - INS-260330-3C2F
 ---
 The Feynman technique (explain to a 12-year-old → identify gaps → refine → simplify) is often presented as a memory aid, but its real power is diagnostic. When you passively consume material, you develop an illusion of understanding — you recognize concepts without being able to reconstruct them. Teaching shatters this illusion because explanation demands precision that recognition doesn't.
 

@@ -55,11 +55,11 @@ stance: >-
   only trusted inner circle feedback produces genuine course correction
 related:
   - INS-260325-243C
-  - INS-260327-9562
   - INS-260403-39E9
   - INS-260402-5523
   - INS-260330-BA3A
-  - PRI-260328-2C6A
+  - PRI-260406-C168
+  - INS-260327-9562
 evidence:
   - id: INS-260326-C692
     type: REFINES

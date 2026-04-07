@@ -51,10 +51,10 @@ stance: >-
   most people never make it an explicit optimization target
 related:
   - PRI-260324-12CF
+  - PRI-260406-818D
   - PRI-260328-0BE1
   - INS-260327-C673
   - INS-260403-955F
-  - INS-260330-697F
   - INS-260329-EC33
 evidence:
   - id: INS-260321-988C

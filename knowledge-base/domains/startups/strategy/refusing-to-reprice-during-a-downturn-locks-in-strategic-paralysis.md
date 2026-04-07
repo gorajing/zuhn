@@ -49,12 +49,13 @@ stance: >-
   and move aggressively
 related:
   - INS-260330-5EE9
-  - INS-260403-7F67
   - INS-260403-56BB
   - INS-260405-397C
   - INS-260403-6B24
   - INS-260403-397B
+  - PRI-260406-992F
   - INS-260403-693C
+  - INS-260403-7F67
   - INS-260403-776C
 ---
 When markets collapsed in 2022, Brex and Ramp faced the same decision: accept reality or defend the old price. Ramp took the mark-down, reset expectations, and regained the ability to raise capital and operate without the burden of justifying a fantasy valuation. Brex chose to defend its $12.3B number by cutting costs internally rather than repricing externally.

@@ -52,10 +52,10 @@ stance: >-
   as a 'proxy for demand' that market numbers cannot provide
 related:
   - INS-260404-61DA
+  - PRI-260406-F08C
+  - PRI-260406-6F52
   - INS-260403-DC32
   - INS-260404-B31C
-  - INS-260403-8EF3
-  - INS-260323-BF81
 evidence:
   - id: INS-260404-132E
     type: TRANSFERS_TO

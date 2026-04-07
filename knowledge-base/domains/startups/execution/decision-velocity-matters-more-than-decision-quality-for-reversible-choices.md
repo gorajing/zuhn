@@ -47,14 +47,15 @@ stance: >-
   reversible decisions, not the quality of those decisions — deciding in minutes
   and fixing in 15 is faster than deliberating for hours.
 related:
+  - PRI-260406-0E02
+  - PRI-260406-6A1C
   - INS-260404-4D7F
   - INS-260329-2AB9
   - INS-260330-4E10
   - INS-260330-C548
-  - INS-260404-8E68
-  - INS-260330-A15F
   - INS-260403-A7FD
   - INS-260404-78E6
+  - PRI-260406-A834
 evidence:
   - id: INS-260330-A15F
     type: REFINES

@@ -48,11 +48,10 @@ stance: >-
   logical argumentation.
 related:
   - INS-260328-93F7
-  - INS-260329-116A
   - INS-260329-57B3
+  - PRI-260406-05B5
   - INS-260327-D7E6
   - INS-260403-5E03
-  - INS-260404-86DE
 evidence:
   - id: INS-260403-22FE
     type: EXTENDS

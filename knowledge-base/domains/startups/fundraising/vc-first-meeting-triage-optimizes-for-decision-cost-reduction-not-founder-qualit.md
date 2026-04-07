@@ -52,11 +52,10 @@ stance: >-
   regardless of underlying quality.
 related:
   - INS-260323-5CBE
-  - INS-260403-2718
   - INS-260327-D982
   - INS-260404-8890
+  - PRI-260406-0E02
   - INS-260405-D2E2
-  - INS-260403-82CC
 ---
 The VC first-meeting funnel is not a quality filter — it's a cognitive load filter. Investors triage by clarity of one-liner, tangible traction metrics, timing alignment with their thesis, market size specifics, and referral credibility. This means the packaging of a pitch determines access more than the underlying business quality.
 

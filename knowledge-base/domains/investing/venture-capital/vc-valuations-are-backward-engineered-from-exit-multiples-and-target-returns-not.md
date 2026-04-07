@@ -55,15 +55,14 @@ stance: >-
   the primary input rather than the startup's current metrics.
 related:
   - INS-260403-D500
-  - INS-260403-54FF
   - INS-260403-1019
-  - INS-260403-E503
+  - PRI-260406-CA93
   - INS-260403-001C
   - INS-260403-7C02
   - INS-260403-F4AC
   - INS-260403-DA8F
-  - INS-260403-3280
   - INS-260403-ABAD
+  - INS-260403-0CBA
 ---
 The Venture Capital Method inverts traditional valuation: instead of building up from revenue and margins, it starts with a target exit (e.g., $100M based on comparable exits and revenue multiples), applies a required return (typically 10x for early-stage or 25-40% IRR), and discounts back to derive today's implied valuation. This means two startups with identical ARR can receive wildly different term sheets if investors disagree on exit potential or apply different return hurdles.
 

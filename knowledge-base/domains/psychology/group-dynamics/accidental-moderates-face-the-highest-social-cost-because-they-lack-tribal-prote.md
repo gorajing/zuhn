@@ -49,11 +49,11 @@ stance: >-
   extreme ones, because independents get attacked from both sides without the
   support of any orthodox group.
 related:
-  - INS-260404-3959
   - INS-260404-DCCD
+  - PRI-260406-1B8A
   - INS-260403-25F3
+  - INS-260404-3959
   - INS-260330-3A3F
-  - INS-260330-AF47
 evidence:
   - id: INS-260330-3A3F
     type: SUPPORTS

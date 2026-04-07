@@ -53,11 +53,11 @@ stance: >-
   reps take months to ramp.
 related:
   - INS-260330-EF51
-  - INS-260403-8C2D
+  - PRI-260406-E371
   - PRI-260405-608A
   - INS-260327-2430
+  - PRI-260406-DE8A
   - INS-260403-BF1F
-  - INS-260403-7D11
 ---
 Sales reps and GTM team members typically take up to 6 months to become fully productive. Companies hire them in H2 to drive the following year's growth — these hires are a cost in the current year with zero revenue contribution until months later. Under pressure to show efficiency (especially with metrics like burn multiple), a company can simply freeze H2 GTM hiring. The immediate effect is dramatically better efficiency metrics. The delayed effect is growth potentially collapsing from 75% to 20%.
 

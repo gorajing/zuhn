@@ -47,11 +47,11 @@ stance: >-
   employees, overhead, and investor pressure that make pivoting nearly
   impossible.
 related:
+  - PRI-260406-C40C
   - INS-260403-1E5F
+  - PRI-260406-EE38
+  - PRI-260406-4397
   - PRI-260403-26B9
-  - INS-260403-5F03
-  - INS-260402-EEDB
-  - INS-260403-A57D
   - INS-260403-F8A2
   - INS-260403-CC5D
   - INS-260405-863C

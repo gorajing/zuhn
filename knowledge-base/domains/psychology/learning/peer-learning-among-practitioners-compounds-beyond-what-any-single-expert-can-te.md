@@ -49,10 +49,10 @@ stance: >-
   curriculum designers or instructors
 related:
   - INS-260330-AE22
+  - PRI-260406-D7EA
+  - PRI-260406-3913
   - INS-260325-1EAC
   - INS-260327-24D2
-  - INS-260330-8901
-  - INS-260325-A272
 evidence:
   - id: INS-260327-24D2
     type: TRANSFERS_TO

@@ -55,7 +55,7 @@ related:
   - INS-260404-2CA6
   - INS-260403-3AEE
   - INS-260404-EA1D
-  - INS-260403-01FD
+  - PRI-260406-F9AC
 ---
 Avra's strategy to invest in frontier technologies and the massive raises by sector-specific funds (ARCH for biotech, From Energy's $405M Series F for energy storage) point to a broader truth: transformative technologies with long development timelines, regulatory hurdles, and capital-intensive R&D require investors with domain-specific expertise, longer fund horizons, and different risk tolerance than typical software-focused VCs.
 

@@ -50,10 +50,10 @@ stance: >-
   inherently perspective-dependent
 related:
   - INS-260405-FFCE
+  - PRI-260406-5BD0
   - INS-260404-A2C4
   - INS-260403-BED6
   - INS-260405-69F1
-  - INS-260330-2CE3
 ---
 Capital One evaluated Brex on current fundamentals: a profitable, scaled corporate spending platform with real enterprise customers. Building this from scratch would have cost more time and money than the acquisition price. From their perspective, $5.15B was a disciplined strategic purchase, not a venture-style bet.
 

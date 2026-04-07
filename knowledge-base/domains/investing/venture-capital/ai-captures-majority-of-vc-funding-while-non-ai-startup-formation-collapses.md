@@ -52,11 +52,11 @@ related:
   - INS-260404-C3F1
   - INS-260403-5056
   - INS-260403-F387
+  - PRI-260406-1F70
   - INS-260403-4AB2
   - INS-260403-4020
   - INS-260404-34D4
   - INS-260405-58B0
-  - INS-260405-FBDF
 ---
 The venture capital market has undergone a dramatic structural shift where AI startups now absorb more than half of all global venture funding. In the US specifically, AI captures 62.7% of VC dollars at $192.7B, creating what amounts to an 'AI or bust' funding environment.
 

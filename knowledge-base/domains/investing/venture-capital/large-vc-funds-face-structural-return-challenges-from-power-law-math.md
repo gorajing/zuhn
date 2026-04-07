@@ -51,13 +51,12 @@ stance: >-
   making mega-funds a worse bet for LPs than smaller focused funds.
 related:
   - INS-260403-C377
+  - PRI-260406-0412
   - INS-260403-8441
   - INS-260403-1EE4
   - INS-260404-A3CD
   - INS-260403-2330
-  - INS-260403-E2DE
   - INS-260403-6044
-  - INS-260403-82B5
 ---
 The power law dynamics of venture capital mean that fund returns are dominated by a small number of outsized winners. As fund sizes expand into the billions, the mathematical bar for what constitutes a fund-returning investment rises dramatically — a $3B fund needs 3x the exit magnitude of a $1B fund just to match the same multiple.
 

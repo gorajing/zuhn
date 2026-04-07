@@ -47,10 +47,10 @@ stance: >-
   design than iterating on data and retrofitting structure later.
 related:
   - INS-260403-2D99
+  - PRI-260406-1188
   - INS-260405-3F0F
   - INS-260320-5B49
   - INS-260325-890D
-  - INS-260323-8D12
 evidence:
   - id: INS-260320-5B49
     type: SUPPORTS

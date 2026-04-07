@@ -50,8 +50,8 @@ stance: >-
   adoption creates social proof and product-market fit that powers expansion
 related:
   - INS-260330-D5BD
-  - INS-260330-0C96
   - INS-260330-F0F2
+  - PRI-260406-4CF9
   - INS-260405-7ABE
   - INS-260403-AF3B
   - INS-260403-D49B

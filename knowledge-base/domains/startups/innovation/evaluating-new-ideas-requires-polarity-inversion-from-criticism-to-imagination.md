@@ -55,9 +55,9 @@ related:
   - INS-260405-B32E
   - INS-260405-3E5F
   - INS-260404-323D
-  - INS-260404-9E63
+  - PRI-260406-D43E
   - INS-260403-EEE5
-  - INS-260403-2788
+  - INS-260404-9E63
   - INS-260403-EFCC
 ---
 Graham distinguishes between two fundamentally different modes of evaluating new ideas. The default mode — listing reasons an idea won't work — is both easy and statistically likely to be correct for any given idea. But in a power-law distribution of outcomes, being right about most ideas while missing the exceptional ones is catastrophic. The alternative is polarity inversion: actively trying to imagine how a strange-sounding idea could work rather than why it won't.

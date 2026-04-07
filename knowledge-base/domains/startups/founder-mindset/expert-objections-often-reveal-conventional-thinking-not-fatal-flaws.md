@@ -47,10 +47,10 @@ resolutions:
     convention. The latter often identifies your competitive advantage.
 related:
   - INS-260329-116A
+  - PRI-260406-05B5
   - INS-260330-1E6A
   - INS-260330-3570
   - INS-260325-59D4
-  - INS-260330-CDE1
   - INS-260330-E54B
 stance: Stan Lee's publisher had three logical-sounding objections to Spider-Man
 evidence:

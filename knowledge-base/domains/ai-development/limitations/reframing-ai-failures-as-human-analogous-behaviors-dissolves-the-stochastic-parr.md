@@ -50,11 +50,11 @@ stance: >-
   human-like, undermining claims that AIs are merely blind pattern matchers with
   no internal model.
 related:
+  - PRI-260406-CC90
   - INS-260403-27A5
   - INS-260325-2C31
+  - PRI-260406-4F8E
   - INS-260323-BEF0
-  - INS-260323-9773
-  - INS-260325-ADF3
 ---
 The stochastic parrot argument claims AIs can't have any real understanding because they exhibit 'hallucinations' — a term that implies bizarre, incomprehensible failure. Alexander argues this framing is doing heavy rhetorical lifting. Rename the behavior 'shameless guessing' and it becomes immediately recognizable as something humans do constantly.
 

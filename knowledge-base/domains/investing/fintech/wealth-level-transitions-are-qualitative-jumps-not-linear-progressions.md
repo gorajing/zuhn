@@ -50,14 +50,13 @@ stance: >-
   income to net worth to access to influence.
 related:
   - INS-260325-EBC3
+  - PRI-260406-C168
   - INS-260402-CF0A
   - INS-260402-8F1E
   - INS-260403-8EFF
   - PRI-260405-1FBC
-  - INS-260403-830F
   - INS-260330-353B
   - INS-260329-8329
-  - INS-260403-9E82
 evidence:
   - id: INS-260323-1338
     type: CHALLENGES

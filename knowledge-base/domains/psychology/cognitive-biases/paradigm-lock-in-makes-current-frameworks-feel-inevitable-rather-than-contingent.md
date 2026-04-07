@@ -53,7 +53,7 @@ related:
   - INS-260402-D0F3
   - INS-260403-0218
   - INS-260404-6D51
-  - PRI-260405-9A14
+  - PRI-260406-CF83
 ---
 Thomas Kuhn's paradigm concept goes deeper than most people appreciate. The current paradigm doesn't just bias judgment — it literally provides the conceptual building blocks people use to construct thoughts. This makes paradigm-breaking ideas feel not just wrong but incoherent, because they can't be properly expressed in the existing mental vocabulary. Even the Copernican heliocentric model took over a century to gain scientific consensus after publication.
 

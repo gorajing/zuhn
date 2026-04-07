@@ -56,7 +56,7 @@ related:
   - INS-260323-C90C
   - INS-260327-84E6
   - INS-260329-3EB6
-  - INS-260329-74F9
+  - INS-260330-D031
 ---
 Vertical SaaS has evolved through three distinct expansion waves. The first wave moved industry-specific workflows to the cloud. The second embedded fintech capabilities (payments, lending, insurance) to capture more revenue per customer. The third wave — 'AI Inside' — integrates AI to automate tasks that previously required human labor within the vertical.
 

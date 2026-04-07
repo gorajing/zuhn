@@ -54,15 +54,14 @@ stance: >-
   that abundance removes.
 related:
   - INS-260323-1452
-  - INS-260330-8D0C
   - INS-260403-805E
   - INS-260403-7C88
-  - INS-260403-2B6E
   - INS-260403-0AF7
   - INS-260404-00DE
+  - PRI-260406-E1D5
   - INS-260403-B374
-  - INS-260326-291C
-  - INS-260403-DE9B
+  - INS-260404-EC26
+  - INS-260403-FBD6
 ---
 The psychological dimension of overfunding is distinct from the financial one. With millions in the bank, founders are tempted to spend big, hire quickly, launch early, and outsource problems — the capital starts to shape the company more than the customer does. As both Paul Graham and Fred Wilson warn, abundance makes companies rigid, less adaptable, and more vulnerable to internal bloat.
 

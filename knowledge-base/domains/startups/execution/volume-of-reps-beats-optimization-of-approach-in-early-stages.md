@@ -46,10 +46,10 @@ stance: >-
   quantity of optimized work when building a new skill or business
 related:
   - INS-260327-E747
+  - PRI-260406-8FDF
   - PRI-260322-3DA5
   - PRI-260328-2014
   - INS-260329-9115
-  - INS-260404-056D
 evidence:
   - id: INS-260330-60A5
     type: TRANSFERS_TO

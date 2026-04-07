@@ -48,8 +48,8 @@ related:
   - INS-260330-7346
   - INS-260321-801C
   - INS-260405-5C48
+  - PRI-260406-E431
   - INS-260403-53C0
   - INS-260322-A31D
-  - INS-260402-3F8D
 ---
 One of the hidden benefits of maintaining a structured MIS is that board meetings, investor updates, and fundraising decks become trivially easy to produce. The yearly analysis sheet aggregates performance trends that VCs want to see—revenue growth, retention patterns, unit economics shifts—without requiring a separate data-gathering exercise. This flips the typical founder experience where fundraising prep is a painful, weeks-long process of digging through scattered data. When you're already tracking the right metrics monthly, an investor update becomes a 15-minute export rather than a three-day scramble. The implication is that operational discipline and fundraising readiness are not separate concerns—they're the same system viewed from different angles.

@@ -58,8 +58,8 @@ related:
   - INS-260330-341D
   - INS-260330-F3E4
   - INS-260330-9933
+  - PRI-260406-CB40
   - INS-260403-6705
-  - INS-260403-1B00
 ---
 When Page created Alphabet in 2015, the public narrative framed it as organizational innovation. But the deeper function was resolving the founder's central dilemma: how to maintain strategic control without being consumed by operational complexity. By making Google a subsidiary with its own CEO, Page moved himself above the execution layer entirely.
 

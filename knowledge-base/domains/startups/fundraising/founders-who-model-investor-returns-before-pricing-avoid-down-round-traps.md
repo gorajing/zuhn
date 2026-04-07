@@ -51,11 +51,10 @@ related:
   - INS-260329-D38D
   - INS-260403-5B89
   - INS-260404-A7BF
-  - INS-260405-18AB
   - INS-260404-25FF
+  - PRI-260406-CA93
+  - PRI-260406-ADF0
   - INS-260403-B98A
-  - INS-260405-3403
-  - INS-260404-28A1
   - INS-260403-0CBA
 ---
 Every founder wants to raise at the highest possible valuation, but without modeling how that valuation plays out for investors — through ownership dilution, future funding requirements, and realistic exit scenarios — high pricing becomes a trap. An inflated Series A valuation that doesn't map to believable fund-level returns creates pressure for a down round when the next raise comes.

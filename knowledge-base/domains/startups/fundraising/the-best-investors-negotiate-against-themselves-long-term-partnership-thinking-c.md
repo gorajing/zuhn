@@ -47,14 +47,14 @@ resolutions:
     be.
 related:
   - PRI-260403-26B9
+  - PRI-260406-9EF7
   - INS-260405-224A
   - PRI-260405-E9C5
   - INS-260403-9942
-  - INS-260403-9CD9
-  - INS-260328-0C4C
   - INS-260330-64E1
   - INS-260403-296C
   - INS-260403-1861
+  - PRI-260406-992F
 stance: >-
   The best investors will offer founders terms that hurt themselves in the short
   run because they know being a great partner now means the founder wo...

@@ -49,10 +49,10 @@ stance: >-
   to the bottom that overshoots any reasonable boundary.
 related:
   - INS-260403-7E8E
+  - PRI-260406-E48F
   - INS-260327-A75C
   - PRI-260405-7F1E
   - INS-260325-36F0
-  - INS-260403-474E
 evidence:
   - id: INS-260327-A75C
     type: SUPPORTS

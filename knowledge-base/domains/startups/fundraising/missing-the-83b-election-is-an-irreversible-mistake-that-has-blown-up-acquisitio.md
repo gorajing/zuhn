@@ -49,11 +49,11 @@ stance: >-
   because it cannot be retroactively fixed and investors will walk away from
   deals without proof of filing.
 related:
+  - PRI-260406-2B0E
   - INS-260330-FABE
   - INS-260403-56BB
   - INS-260403-7749
   - INS-260324-8D35
-  - INS-260330-95F3
 evidence:
   - id: INS-260324-8D35
     type: TRANSFERS_TO

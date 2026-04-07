@@ -57,6 +57,7 @@ related:
   - INS-260330-6900
   - INS-260402-5974
   - INS-260403-8779
+  - PRI-260406-EC93
   - INS-260402-A3DB
 ---
 The founders argue fundraising success splits 50/50 between company strength and process execution. The process half is dominated by one variable: meeting density. When investors see you're simultaneously in conversations with multiple other investors, the 'why now?' question answers itself — if they don't act, someone else will take the deal. This applies even when MRR isn't growing at extreme rates (300%+ MoM).

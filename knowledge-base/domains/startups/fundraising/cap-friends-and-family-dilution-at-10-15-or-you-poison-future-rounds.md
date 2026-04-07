@@ -48,16 +48,16 @@ stance: >-
   valuation anchoring problems that make subsequent institutional raises
   significantly harder.
 related:
-  - INS-260403-5B89
-  - INS-260404-A7BF
-  - INS-260404-B640
-  - INS-260404-0475
   - INS-260403-1E34
   - INS-260405-D2E2
+  - PRI-260406-3317
+  - PRI-260406-ADF0
+  - PRI-260406-0A98
   - INS-260403-ACC5
   - INS-260403-9F2A
-  - INS-260328-195E
   - INS-260403-D11C
+  - INS-260403-130A
+  - INS-260404-0EB2
 ---
 When founders give away 20% for $100K, they anchor their valuation at $500K. If they haven't achieved significant traction by their next raise, they face a brutal dilemma: raise at a modest increase (giving VCs little upside incentive) or accept a down round (signaling failure). Either outcome damages fundraising momentum.
 

@@ -35,11 +35,11 @@ resolutions:
     margin >78%, LTV:CAC >3.5x, payback <12 months, Rule of 40 >40%, Magic
     >1.0x. Using the wrong stage benchmarks leads to wrong strategic decisions.
 related:
+  - PRI-260406-6F52
   - INS-260403-6740
   - INS-260403-3BBB
   - INS-260403-9AD1
-  - INS-260323-7EEB
-  - INS-260329-49A4
+  - PRI-260406-DE8A
 stance: >-
   One-size-fits-all SaaS benchmarks are misleading — a pre-seed company should
   target burn multiple <2.5x while Series B+ targets <1.0x

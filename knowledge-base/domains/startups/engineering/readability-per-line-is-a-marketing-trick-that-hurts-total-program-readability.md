@@ -47,10 +47,10 @@ stance: >-
   obscures the true cost of reading an entire verbose program.
 related:
   - INS-260330-B91E
+  - PRI-260406-ABAA
   - INS-260403-EA2C
   - INS-260330-2F74
-  - INS-260403-A6B1
-  - INS-260325-C523
+  - PRI-260406-FA5B
 evidence:
   - id: INS-260403-A6B1
     type: CHALLENGES

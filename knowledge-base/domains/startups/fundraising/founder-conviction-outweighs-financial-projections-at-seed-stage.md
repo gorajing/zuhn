@@ -47,12 +47,11 @@ stance: >-
   more persuasive to investors than any financial model or market sizing
   exercise.
 related:
+  - PRI-260406-E880
+  - PRI-260406-FCF0
   - INS-260403-B2EB
   - INS-260403-A331
   - INS-260323-E551
-  - INS-260405-CB93
-  - INS-260327-555D
-  - INS-260404-B6CA
 ---
 The unicorn deck analysis reveals that the companies that became massive looked almost nothing like what their pitch decks described. Uber pitched as a luxury black car service. Airbnb's revenue projections were wildly wrong. Facebook's deck was barely a fundraising document. Yet all raised successfully.
 

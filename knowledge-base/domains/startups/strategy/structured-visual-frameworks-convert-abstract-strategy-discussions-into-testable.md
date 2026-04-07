@@ -53,11 +53,11 @@ stance: >-
   participants to map ideas to specific business model components rather than
   talking in generalities.
 related:
+  - PRI-260406-7548
   - INS-260323-197A
   - INS-260329-CBEB
   - INS-260329-8C69
   - INS-260403-EF30
-  - INS-260403-DB22
 evidence:
   - id: INS-260323-197A
     type: TRANSFERS_TO

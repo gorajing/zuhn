@@ -51,8 +51,8 @@ stance: >-
   evaluate early-stage potential, not merely people who are unconditionally
   encouraging
 related:
-  - INS-260322-1C17
   - INS-260326-C692
+  - PRI-260406-D7EA
   - INS-260404-4985
   - INS-260404-E716
   - INS-260404-4666

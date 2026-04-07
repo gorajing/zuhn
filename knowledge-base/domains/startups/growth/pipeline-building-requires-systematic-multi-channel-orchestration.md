@@ -46,9 +46,9 @@ stance: >-
   channels rather than optimizing any single acquisition channel in isolation.
 related:
   - INS-260404-3ABF
+  - PRI-260406-46C3
   - PRI-260328-43F1
   - PRI-260328-4FA6
   - INS-260404-7060
-  - PRI-260320-BC72
 ---
 Pipeline generation in B2B SaaS has shifted from single-channel dominance (cold outbound, paid ads, or content) to a multi-channel orchestration problem. Each channel has diminishing returns when scaled in isolation — cold email response rates decline, ad costs rise, and organic content saturates. The compounding effect comes from channel overlap: a prospect who sees your content, gets a warm introduction, and then receives a targeted outbound message converts at dramatically higher rates than one touched through any single channel. This means growth teams should think less about optimizing individual channels and more about designing sequences where channels reinforce each other, creating multiple touchpoints that build familiarity before the sales conversation begins.

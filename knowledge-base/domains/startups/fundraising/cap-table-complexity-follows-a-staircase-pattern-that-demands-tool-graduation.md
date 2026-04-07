@@ -53,12 +53,11 @@ evidence:
     type: SUPPORTS
     classified_at: '2026-04-05'
 related:
-  - INS-260403-E4DD
+  - PRI-260406-2B0E
   - INS-260325-5455
   - INS-260404-78E0
   - PRI-260328-6A8D
   - INS-260403-6CB4
-  - INS-260322-642F
 ---
 Cap tables start simple—founders and maybe a few SAFEs—but complexity increases in discrete jumps at each funding milestone. The seed-to-Series A transition introduces preferred stock classes, expanded option pools, and SAFE conversions simultaneously. By Series B, you have multiple preferred classes with distinct liquidation preferences, participation rights, and governance terms that spreadsheets simply cannot track reliably.
 

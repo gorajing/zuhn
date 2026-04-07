@@ -48,11 +48,11 @@ stance: >-
   Carrd, Kickofflabs) means the bottleneck in demand validation has shifted from
   technical execution to copywriting and offer design.
 related:
+  - PRI-260406-9780
   - INS-260330-E282
+  - PRI-260406-B9B4
   - PRI-260321-14D8
   - INS-260329-F7F4
-  - INS-260403-CD51
-  - INS-260322-F891
 evidence:
   - id: INS-260322-F891
     type: TRANSFERS_TO

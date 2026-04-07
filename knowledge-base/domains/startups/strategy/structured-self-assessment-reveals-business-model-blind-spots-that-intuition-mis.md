@@ -50,11 +50,11 @@ stance: >-
   surfaces improvement opportunities that qualitative strategic thinking alone
   overlooks
 related:
+  - PRI-260406-7548
   - INS-260404-CC9A
   - INS-260403-C0FE
   - INS-260403-7E18
-  - INS-260403-C8B9
-  - INS-260404-FF0B
+  - PRI-260406-5E06
 ---
 Most strategic discussions about business models remain qualitative—leaders discuss strengths and weaknesses in general terms without a consistent framework for comparison. The 9-mechanic assessment approach forces granularity: each component of the business model gets an independent score, and the resulting profile visualizes where the model is strong versus vulnerable.
 

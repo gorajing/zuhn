@@ -47,12 +47,11 @@ stance: >-
   Most founder dilution surprises come not from priced rounds but from failing
   to model SAFE and convertible note conversion impact before they trigger
 related:
-  - INS-260404-4682
-  - INS-260403-D11C
   - INS-260402-9055
   - INS-260403-A057
-  - INS-260403-296C
-  - INS-260405-54E2
+  - PRI-260406-FD1C
+  - PRI-260406-598F
+  - INS-260404-4682
 ---
 SAFEs and convertible notes are deceptively simple instruments. They don't appear on the cap table as equity until conversion, which makes it easy for founders to accumulate them without modeling their downstream impact. When a priced round triggers conversion—typically at a discounted or capped valuation—the resulting dilution can shock founders who assumed their ownership percentage was stable.
 

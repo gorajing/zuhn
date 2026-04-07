@@ -48,10 +48,10 @@ stance: >-
   outperform a superior product that requires user action to adopt.
 related:
   - INS-260330-BCD8
+  - PRI-260406-426E
   - INS-260330-2CE3
   - PRI-260322-8FD4
   - INS-260330-1DCF
-  - INS-260403-9482
   - INS-260404-396E
 evidence:
   - id: INS-260330-BCD8

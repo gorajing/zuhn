@@ -50,7 +50,6 @@ stance: >-
   projects.
 related:
   - INS-260322-F6B5
-  - INS-260329-1FEE
   - INS-260403-472E
   - INS-260404-CD3E
   - INS-260403-4B81
@@ -59,6 +58,7 @@ related:
   - INS-260404-56F8
   - INS-260405-7A7C
   - INS-260403-8930
+  - INS-260404-21AA
 ---
 Paul Graham identifies a specific failure mode: people judge early versions of ambitious projects by the standards of finished work or less ambitious projects. This is a category error — early ambitious work is a special case that requires different evaluation criteria. The fear of producing something lame prevents most people from even starting, which means the biggest filter on great work is psychological, not intellectual.
 

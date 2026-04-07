@@ -47,14 +47,12 @@ resolutions:
     faster than in the software era.
 related:
   - INS-260323-19A8
+  - PRI-260406-BAD8
   - INS-260323-F9E5
   - INS-260323-4457
   - INS-260402-EA72
-  - PRI-260405-64B2
   - INS-260327-9830
   - INS-260329-A57B
-  - INS-260330-2952
-  - INS-260403-68CE
 stance: >-
   Unlike traditional software where nine women can't have a baby in one month,
   AI allows companies to throw money and GPUs at problems

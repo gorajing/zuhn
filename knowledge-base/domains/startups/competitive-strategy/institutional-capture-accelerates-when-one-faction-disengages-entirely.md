@@ -59,11 +59,11 @@ stance: >-
   creating a self-reinforcing cycle of extremism.
 related:
   - INS-260323-E1B6
-  - INS-260323-8B90
   - INS-260403-3AE7
+  - INS-260323-8B90
   - INS-260330-0DCA
+  - PRI-260406-AA07
   - INS-260403-0D1F
-  - INS-260403-126D
 evidence:
   - id: INS-260330-BBDA
     type: EXTENDS

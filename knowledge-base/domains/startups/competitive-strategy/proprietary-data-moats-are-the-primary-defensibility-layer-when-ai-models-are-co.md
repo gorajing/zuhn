@@ -52,9 +52,9 @@ stance: >-
 related:
   - INS-260322-7282
   - PRI-260405-BFAC
+  - PRI-260406-9D48
   - PRI-260328-A82C
   - PRI-260323-BA94
-  - PRI-260328-DF2D
 ---
 As access to powerful AI models becomes democratized through open-source releases and API access, model architecture alone ceases to be a differentiator. The defensibility question shifts entirely to data: Are you collecting data that others can't easily replicate? Does your system improve as more users engage? Does your advantage compound over time?
 
