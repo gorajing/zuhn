@@ -1,17 +1,10 @@
 # Tag: forecasting
 
-- `INS-260404-4434` The Bio Anchors report's efficiency comparisons are technology-invariant, undermining their usefulness for timing AI progress.
 - `INS-260403-1EFF` Bio Anchors estimated 30% yearly algorithmic progress from easy-task benchmarks, but frontier AI saw 200% yearly gains because harder tasks have more room for improvement.
 - `INS-260403-F8CB` Yudkowsky predicted shorter timelines than Bio Anchors via disjunctive reasoning — either deep learning pays off fast or a new paradigm emerges — and was right on the bottom line despite the wrong mechanism.
 - `INS-260403-F0DC` Bio Anchors had many anchors and parameters but its output was almost entirely determined by the algorithmic progress rate, which was its least-researched input.
 - `INS-260403-CEAD` Bio Anchors accurately predicted willingness-to-spend and cost-per-FLOP trends through 2025, correctly forecasting the massive data center buildout from observable investment patterns.
-- `INS-260325-F0CE` Philip Tetlock's research shows expert financial forecasts are no better than average person predictions, and no one predicted the major market-moving events of recent years.
-- `INS-260325-9F41` Wharton's Philip Tetlock found expert forecasts were no better than average guesses — nobody predicted the 2020 pandemic, 2021 Ukraine invasion, or 2022's 500bp rate hikes.
-- `INS-260404-4758` Prediction markets aggregate dispersed knowledge into price signals that react faster and more accurately than polls.
-- `INS-260404-5B6A` A Fed working paper found Kalshi's probability distributions for CPI and rate decisions outperform Bloomberg consensus and fed funds futures.
-- `INS-260321-B7CB` AI companies will be 'model busters' — growing faster and longer than any spreadsheet model predicts — just as iPhone caused consensus models to miss Apple's performance by 3x over four years despite being the most covered company in the world.
-- `INS-260405-5EB2` Peak-consensus forecasts of national rise historically coincide with the onset of structural decline.
-- `INS-260404-4BC4` Stacking AI disruption with geopolitical chaos creates compound uncertainty that no single-variable model can price.
+- `INS-260404-4434` The Bio Anchors report's efficiency comparisons are technology-invariant, undermining their usefulness for timing AI progress.
 - `INS-260404-4E1A` Human optimism is fueled by narrative continuity about the future, not by present comfort.
 - `INS-260405-75AC` Staten Island Chuck's 85% accuracy dissolves once you notice he predicts early spring 25 out of 31 times—he's a broken clock in a town where spring usually comes early
 - `INS-260330-FB66` Human brains default to linear extrapolation, causing systematic underestimation of exponential processes in their early stages.
@@ -21,3 +14,10 @@
 - `INS-260405-809E` Updating predictions to match outcomes after the fact eliminates any information the prediction contained and corrupts future calibration.
 - `INS-260327-1421` The paper process (NDAs, contracts, procurement, legal reviews) is the single biggest cause of deal slippage, which is why MEDDPICC separates it from the decision process as its own tracked element.
 - `INS-260403-98CD` A prominent development pessimist who argued in 2023 that post-1990 global development was a bust now implicitly concedes it succeeded everywhere except Africa.
+- `INS-260325-F0CE` Philip Tetlock's research shows expert financial forecasts are no better than average person predictions, and no one predicted the major market-moving events of recent years.
+- `INS-260325-9F41` Wharton's Philip Tetlock found expert forecasts were no better than average guesses — nobody predicted the 2020 pandemic, 2021 Ukraine invasion, or 2022's 500bp rate hikes.
+- `INS-260404-4758` Prediction markets aggregate dispersed knowledge into price signals that react faster and more accurately than polls.
+- `INS-260404-5B6A` A Fed working paper found Kalshi's probability distributions for CPI and rate decisions outperform Bloomberg consensus and fed funds futures.
+- `INS-260321-B7CB` AI companies will be 'model busters' — growing faster and longer than any spreadsheet model predicts — just as iPhone caused consensus models to miss Apple's performance by 3x over four years despite being the most covered company in the world.
+- `INS-260405-5EB2` Peak-consensus forecasts of national rise historically coincide with the onset of structural decline.
+- `INS-260404-4BC4` Stacking AI disruption with geopolitical chaos creates compound uncertainty that no single-variable model can price.

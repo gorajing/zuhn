@@ -1,6 +1,5 @@
 # Tag: enterprise
 
-- `INS-260405-B88A` AI automation applied to the RFP process promises dramatic efficiency gains in both proposal generation and vendor evaluation.
 - `INS-260403-A9CC` Companies fail at AI adoption because they issue vague 'be AI-first' mandates without concrete tactics for daily workflows.
 - `INS-260322-3D21` AI adoption in enterprises won't happen top-down — there's someone at every big company who figured out how to do 8 hours of work in 1 minute; the worst thing that can happen is they keep it a secret.
 - `INS-260403-2115` McKinsey and OpenAI have both released practical frameworks for enterprise agent deployment, signaling agentic AI is entering mainstream adoption.
@@ -13,6 +12,7 @@
 - `INS-260405-4803` Agentic AI is moving from an engineering concern to a board-level strategic imperative.
 - `INS-260403-82E0` Investors should prioritize AI application-layer companies with workflow embedding, data flywheels, and strong net revenue retention over foundational model plays.
 - `INS-260403-3B8D` Anthropic proved that safety-first positioning creates enterprise value by making predictability the product, not the overhead.
+- `INS-260405-B88A` AI automation applied to the RFP process promises dramatic efficiency gains in both proposal generation and vendor evaluation.
 - `INS-260403-1A38` $23.6B in Q4 2025 enterprise deals driven by CIOs buying agentic platforms instead of building internally marks the buy-over-build inflection point.
 - `INS-260403-EDA1` SaaS value is migrating from code to workflow orchestration, compliance, and distribution — categories AI cannot easily replicate.
 - `INS-260403-E3CC` Deep operational integration makes ripping out your product so costly that competitors cannot displace you on features or price alone.
@@ -35,7 +35,7 @@
 - `INS-260330-7168` Find the gap between incumbent solutions, build the best experience for that narrow slice, then expand to larger customers or more use cases over time.
 - `INS-260404-007F` Enterprise SaaS IPOs from 2012 outperformed expectations by solving deep operational pain points with recurring revenue models.
 - `INS-260330-1F25` Look for the widest gap between what's now technically possible and how things are still being done.
-- `INS-260403-3326` Scaling innovation in enterprises requires dedicated structures, not just individual champions evangelizing the methodology.
 - `INS-260328-070D` Nine times out of ten, what founders dismiss as consulting is actually a chance to deeply learn the problem space and build a moat.
 - `INS-260330-EEA9` Let the product drive user adoption, but deploy consultative salespeople to help customers navigate deployment and competition.
 - `INS-260330-3E6B` When an industry's business model is disrupted, the enterprises in that industry need new software — creating opportunities for vertical startups.
+- `INS-260403-3326` Scaling innovation in enterprises requires dedicated structures, not just individual champions evangelizing the methodology.

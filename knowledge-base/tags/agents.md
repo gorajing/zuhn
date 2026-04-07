@@ -1,5 +1,7 @@
 # Tag: agents
 
+- `INS-260322-3083` Stop analyzing AI and start using it this weekend -- vibe coding, agent mode reports, and conversational problem-solving.
+- `INS-260405-CA27` Agents optimize across multi-step workflows, making open-source models more valuable because enterprises need control over each step's behavior.
 - `INS-260325-BC2A` Ron from Open Router predicted the agent adoption curve in enterprises will compress from years to months as coalitions form around industry-specific secure deployment standards.
 - `INS-260321-2482` When agents fail, the instinct now is 'I gave bad instructions' not 'the AI can't do this' — most failures are configuration problems, not capability limits.
 - `INS-260321-D3BE` Stop thinking in lines of code — think in macro actions: 'agent 1 builds feature X, agent 2 researches Y, agent 3 plans Z' — then review their work.
@@ -14,8 +16,6 @@
 - `INS-260405-FE94` Coinbase's Agentic Wallets let AI agents hold funds, pay for APIs, and execute trades without human approval at each step.
 - `INS-260405-CC9D` Prototyping an agent and deploying it reliably in production are fundamentally different engineering problems.
 - `INS-260405-E8A1` When agents can monetize their own outputs and spend autonomously, they become economic actors, not just tools — blurring the line between software and economic agent.
-- `INS-260322-3083` Stop analyzing AI and start using it this weekend -- vibe coding, agent mode reports, and conversational problem-solving.
-- `INS-260405-CA27` Agents optimize across multi-step workflows, making open-source models more valuable because enterprises need control over each step's behavior.
 - `INS-260325-7FAF` The agentic inflection point comes from model capability AND inference ease-of-use converging simultaneously.
 - `INS-260325-160E` Persistent agents need hierarchical memory management like computer systems, not just bigger context windows.
 - `INS-260325-252D` Context rot in agents stems from poor context management design, not just model limits.

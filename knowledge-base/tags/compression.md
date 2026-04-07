@@ -6,9 +6,9 @@
 - `INS-260326-8201` At 3.5 bits per channel (4.5x compression), TurboQuant matches full-precision Llama 3.1 8B on LongBench with zero quality loss; at 2.5 bits (6.4x), quality degradation is marginal.
 - `INS-260329-A171` Suffix arrays replaced suffix trees by storing only sorted indices instead of full tree structures, recovering equivalent power through the LCP auxiliary array.
 - `INS-260320-47FA` MASTER_INDEX to domain overview to topic summary to individual insight — answering "what do I know about X?" requires reading roughly 4 files regardless of total insight count.
-- `INS-260322-22D0` Learn your DAW's stock EQ, compression, synths, and spatial effects before buying any third-party plugins.
 - `INS-260403-8BF4` Cutting words isn't just style — it's how you discover what you actually mean.
 - `INS-260403-BFD1` The inability to create a compelling one-phrase description of your startup signals insufficient strategic focus, not poor wordsmithing.
 - `INS-260404-C2BC` If you can't describe your startup in one sticky phrase, your plans may not be focused enough.
 - `INS-260404-96C6` A sticky descriptive phrase is a survival necessity in investor pitches because the first filter is simply being remembered.
 - `INS-260403-C5D8` If you can't describe your startup in one sticky phrase, your plans may not be focused enough — the exercise is diagnostic, not just cosmetic.
+- `INS-260322-22D0` Learn your DAW's stock EQ, compression, synths, and spatial effects before buying any third-party plugins.

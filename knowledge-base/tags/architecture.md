@@ -24,6 +24,7 @@
 - `INS-260327-9816` Simple space-time patch tokenization enables diffusion transformers to generate entire videos simultaneously with global context.
 - `INS-260405-8E85` Photosynthesis converts sunlight into ATP and NADPH as intermediate currencies, then spends those currencies in the Calvin Cycle—never coupling capture and use directly.
 - `INS-260404-F7C5` Chloroplasts charge thylakoids like batteries using proton gradients, decoupling photon arrival from ATP production.
+- `INS-260330-100F` Thylakoid membranes store energy by pumping protons to one side, creating a 'charged battery' that drives ATP synthase — energy stored as a gradient, not a molecule.
 - `INS-260329-4F8C` Abstract data types define behavior contracts while data structures provide specific implementations, and this separation is the root of all software modularity.
 - `INS-260329-D0B3` CS50's progression from binary to C to Python mirrors how software systems are actually built — each layer abstracts away the complexity below.
 - `INS-260329-425B` Dynamic arrays double in size when full, making each individual resize expensive but amortizing the cost across all appends to achieve constant time on average.
@@ -42,7 +43,6 @@
 - `INS-260329-C031` Abstract data types define behavior contracts while data structures provide implementations — the same separation that makes APIs, protocols, and plugin systems work.
 - `INS-260330-0A8D` One unified MoE model beats 256 separate models — complexity grows quadratically with per-pair but linearly with unified
 - `INS-260329-BAB7` The variable vs pointer distinction in C++ maps directly to value vs reference patterns that pervade AI system architecture.
-- `INS-260330-100F` Thylakoid membranes store energy by pumping protons to one side, creating a 'charged battery' that drives ATP synthase — energy stored as a gradient, not a molecule.
 - `INS-260326-163A` Data quality dominates ML architecture just as install base and data gravity beat product design elegance in business -- what you've accumulated is the moat, not how you've arranged it.
 - `INS-260405-C780` Photosynthesis runs as two completely separate stages—light reactions convert photons into ATP and NADPH, then the Calvin cycle spends that stored currency to fix carbon—allowing each stage to be optimized, timed, and regulated independently.
 - `INS-260330-9D44` Apple's SoC puts CPU, GPU, memory, and I/O on one chip, beating Intel's more powerful but physically separated components in real-world tasks.
@@ -53,10 +53,10 @@
 - `INS-260329-4870` A singly linked list and doubly linked list both implement the same list interface, but the wrong choice creates invisible O(n) costs that only surface at scale.
 - `INS-260329-818A` HTTP's 'memory loss' between requests is not a bug — it's the design decision that allows any server in a pool to handle any request, enabling unlimited horizontal scaling.
 - `INS-260330-7106` Suppressors work by first capturing gases in an expansion chamber, then restricting their outflow — a two-stage pattern that maps to error handling, customer support escalation, and content moderation.
-- `INS-260330-47CF` Plants spend enormous metabolic energy producing enzymes to break down RuBisCo's toxic byproduct rather than fixing the enzyme itself — the biological equivalent of compounding technical debt.
-- `INS-260405-3CC7` Rare edge cases become common failures at scale, creating novel downstream problems no amount of upfront architecture prevents.
 - `INS-260330-ABB1` The cheapest M1 MacBook Air outperformed the most expensive Intel i9 MacBook Pro in most developer workflows while running cooler and using less battery.
 - `INS-260404-CC7C` RuBisCo is evolution's ultimate legacy system — plants produce 40 billion tons of a bad enzyme rather than redesign the core pathway.
 - `INS-260404-B7B6` RuBisCo was designed for a low-oxygen world — when plants themselves changed the atmosphere, their own core enzyme started poisoning them.
 - `INS-260330-48F2` RuBisCo was optimized for a high-CO2 world, but when photosynthesis itself changed the atmosphere to high-O2, the enzyme started making toxic errors half the time.
 - `INS-260404-9229` When redesign costs exceed the cost of brute-forcing volume, systems evolve to produce massive quantities of a flawed component rather than fix the flaw — plants maintain 40 billion tons of RuBisCo rather than evolve a better enzyme.
+- `INS-260330-47CF` Plants spend enormous metabolic energy producing enzymes to break down RuBisCo's toxic byproduct rather than fixing the enzyme itself — the biological equivalent of compounding technical debt.
+- `INS-260405-3CC7` Rare edge cases become common failures at scale, creating novel downstream problems no amount of upfront architecture prevents.

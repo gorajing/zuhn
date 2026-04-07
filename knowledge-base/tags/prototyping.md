@@ -20,11 +20,11 @@
 - `INS-260404-D688` Calling early work a sketch or hack lowers the psychological bar enough to actually start and iterate.
 - `INS-260323-DDC2` You can only iterate fearlessly on expensive robots if you can repair them yourself — the ability to 'just go make it' is the enabling condition for rapid learning.
 - `INS-260404-D147` Starting in low-commitment, fast-iteration media (sketches, hacks, notebooks) lets ambitious projects survive the vulnerable early stage where they look worst.
-- `INS-260403-36DD` Minimal seed funding plus a hard demo deadline produces working prototypes faster than large raises.
 - `INS-260403-76E4` Choosing media that allow fast iteration and low upfront commitment makes it psychologically easier to survive the ugly early phase of ambitious projects.
 - `INS-260403-649C` Deliberately labeling early ambitious work as a lower-stakes artifact (sketch, hack, experiment) disarms the internal critic long enough for the project to gain momentum.
 - `INS-260403-0701` Innovation engines should prototype and test business models to reduce uncertainty, not write business plans that create false confidence.
 - `INS-260404-AD21` Calling serious work 'just a hack' or 'just a sketch' lets you start by applying lower standards, then sneakily converting it once momentum builds.
+- `INS-260403-36DD` Minimal seed funding plus a hard demo deadline produces working prototypes faster than large raises.
 - `INS-260403-FFBD` When functional prototypes cost minutes instead of weeks, the constraint on product discovery shifts from engineering bandwidth to hypothesis quality.
 - `INS-260402-E36A` Experts expect to throw away early work and cultivate dissatisfaction, while amateurs convince themselves their first attempt is good enough.
 - `INS-260330-84F4` Start with a small useful hack and let it grow, rather than designing a comprehensive system upfront.

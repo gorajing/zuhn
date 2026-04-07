@@ -1,8 +1,8 @@
 # Tag: evolution
 
-- `INS-260327-D24A` Aligning AI to current human values assumes those values are correct - but we've abandoned slavery, expanded rights, and improved moral reasoning over centuries. Should AI be aligned to 2024 values or to where values should evolve?
 - `INS-260327-9DB0` Assembly Theory can determine if an object was built by evolution by measuring its complexity (minimum assembly steps) and abundance (number of copies) - applicable to any substrate, not just biology.
 - `INS-260327-A44E` Evolution doesn't randomly search the space of possible organisms - it accumulates successful building blocks and recombines them, which is why it can create complexity that random search never could.
+- `INS-260327-D24A` Aligning AI to current human values assumes those values are correct - but we've abandoned slavery, expanded rights, and improved moral reasoning over centuries. Should AI be aligned to 2024 values or to where values should evolve?
 - `INS-260325-D680` Cancer cells use the same mutation-and-selection mechanism as species evolution, making cancer a fundamental feature of the evolutionary process, not a bug.
 - `INS-260325-BF44` Your immune system uses hypermutation and clonal selection — the same mutation-selection staircase as evolution — to fight novel pathogens in real time.
 - `INS-260330-4B22` Boredom sits on the same emotional spoke as disgust and loathing, driving organisms toward complexity and neural growth.
@@ -19,8 +19,8 @@
 - `INS-260330-4634` Dinosaurs dominated for 300 million years without developing intelligence, and without their extinction asteroid, mammals would still be rodents — proving intelligence is not evolution's inevitable destination.
 - `INS-260325-CB41` Gut instincts evolved for ancestral threats and social navigation work well there but fail systematically on questions evolution never needed to answer.
 - `INS-260330-4441` RuBisCo was optimized for a low-oxygen world, but photosynthesis itself flooded the atmosphere with oxygen, causing RuBisCo to malfunction half the time — your greatest success can corrupt your core mechanism.
-- `INS-260403-1E5A` Distractions continuously evolve toward knowledge workers, requiring ever-updated defenses rather than one-time solutions.
 - `INS-260403-0C95` Research on hunter-gatherers and organizations converges on 8 as ideal, 20 as hard to manage, and 50 as unwieldy—matching our evolutionary design.
+- `INS-260403-1E5A` Distractions continuously evolve toward knowledge workers, requiring ever-updated defenses rather than one-time solutions.
 - `INS-260330-1DDE` Evolution can only reach solutions through chains of viable intermediates, while human creativity can leap across non-viable gaps — explaining why no species ever made a campfire despite billions of years.
 - `INS-260330-09DE` Photosynthesis is 'complicated, inefficient and confusing' yet dominates all life on Earth because it achieved planetary scale before any competitor could emerge.
 - `INS-260405-BEA7` Photosynthesis is 450 million years old, described as 'complicated, inefficient and confusing'—yet it powers virtually all life on Earth.
@@ -41,7 +41,6 @@
 - `INS-260403-1284` Marketplaces in every category follow a predictable arc: horizontal discovery → vertical discovery → vertical transactional → fintech-enabled managed marketplace.
 - `INS-260403-8653` Plants evolved entire metabolic pathways to manage RuBisCo's toxic byproducts rather than replace the enzyme itself.
 - `INS-260404-0F87` Studying how a company's website messaging evolves reveals which value propositions are constant (the platform identity) versus which change (individual product positioning).
-- `INS-260404-5E8F` RuBisCo is terrible at its job but plants scaled it to 40 billion tons and dominated Earth, proving that volume compensates for per-unit inefficiency.
 - `INS-260404-CC7C` RuBisCo is evolution's ultimate legacy system — plants produce 40 billion tons of a bad enzyme rather than redesign the core pathway.
 - `INS-260330-0B4A` RuBisCo — the most abundant protein on Earth at 40 billion tons — is demonstrably bad at its job, confusing O2 for CO2 half the time, yet plants are permanently locked into it.
 - `INS-260404-FAE9` RuBisCo's 450-million-year reign shows that dominant systems compensate for flaws rather than replace core mechanisms.
@@ -54,3 +53,4 @@
 - `INS-260404-3B9D` RuBisCo is a terrible enzyme that won by being first and scaling to 40 billion tons rather than being replaced by something better.
 - `INS-260405-F20F` RuBisCo, an enzyme that makes catastrophic errors 50% of the time, remains the planet's dominant carbon-fixing enzyme because plants went all-in on it before oxygen made it dysfunctional.
 - `INS-260330-4489` RuBisCo is terrible at its job but plants produce 40 billion tons of it rather than evolving a better enzyme — a biological case study in scale-over-quality lock-in.
+- `INS-260404-5E8F` RuBisCo is terrible at its job but plants scaled it to 40 billion tons and dominated Earth, proving that volume compensates for per-unit inefficiency.

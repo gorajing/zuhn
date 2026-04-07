@@ -2,5 +2,5 @@
 
 - `INS-260405-62F8` Tesla's FSD data access to Lemonade produced a ~50% premium cut, showing that AV adoption ripples through adjacent industries before consumer uptake is even widespread.
 - `INS-260405-54B7` Tesla's January 2026 unsupervised robotaxi launch in Austin caused Uber and Lyft to fall 1-2% on the news, confirming that market participants now price AV as a live platform threat, not a future one.
-- `INS-260404-D654` Tesla's $1T pay package only vests if the company hits $8.5T valuation through AI, robotics, and energy milestones — aligning Musk's payout with transformative value creation.
 - `INS-260330-0525` Tesla and SpaceX succeeded not through a single 10x breakthrough but through complex vertical integration that pulled in distributors and subcontractors that would otherwise extract monopoly profits.
+- `INS-260404-D654` Tesla's $1T pay package only vests if the company hits $8.5T valuation through AI, robotics, and energy milestones — aligning Musk's payout with transformative value creation.

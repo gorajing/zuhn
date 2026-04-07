@@ -1,5 +1,8 @@
 # Tag: industrial-policy
 
+- `INS-260403-5A4C` China's playbook of picking national champions, subsidizing them infinitely, and pricing below cost has captured steel, solar, drones, and EVs — and private firms cannot compete on price alone.
+- `INS-260403-2FB2` Research on the First China Shock shows that import competition simultaneously hurt profits and workers while increasing innovation, R&D, and productivity — accounting for ~15% of European technology upgrading from 2000-2007.
+- `INS-260403-44D9` EV technology shares components with drones, robots, and electronics, so low EV adoption limits scale for the entire manufacturing ecosystem.
 - `INS-260405-24F0` Britain's relative manufacturing share predicted its WWI dependency on America decades before the war; today's US-China manufacturing gap signals a similar structural shift.
 - `INS-260403-1462` Defense-industrial catch-up requires allied co-manufacturing because domestic reshoring timelines are too slow against urgent threats.
 - `INS-260403-F2A2` China's state-engineered AI strategy—targeting 90% penetration by 2030—follows the same playbook as its EV and robotics mobilizations.
@@ -20,6 +23,3 @@
 - `INS-260403-2B95` The same core components (batteries, motors, power electronics) underpin EVs, drones, robots, and AI data centers, making them a single interconnected industrial revolution.
 - `INS-260405-1CC3` The US-Taiwan deal reduces tariffs from 20% to 15% contingent on $500B in US semiconductor investment, making trade policy a reshoring mechanism.
 - `INS-260405-5856` When hundreds of local governments simultaneously subsidize competing firms in the same industry, the winning national champion emerges alongside massive excess capacity.
-- `INS-260403-5A4C` China's playbook of picking national champions, subsidizing them infinitely, and pricing below cost has captured steel, solar, drones, and EVs — and private firms cannot compete on price alone.
-- `INS-260403-2FB2` Research on the First China Shock shows that import competition simultaneously hurt profits and workers while increasing innovation, R&D, and productivity — accounting for ~15% of European technology upgrading from 2000-2007.
-- `INS-260403-44D9` EV technology shares components with drones, robots, and electronics, so low EV adoption limits scale for the entire manufacturing ecosystem.

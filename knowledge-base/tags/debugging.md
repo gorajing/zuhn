@@ -1,8 +1,8 @@
 # Tag: debugging
 
+- `INS-260403-643A` AI tools generate code easily but debugging still requires technical intuition, creating a hidden cliff where non-coders get stuck.
 - `INS-260321-2482` When agents fail, the instinct now is 'I gave bad instructions' not 'the AI can't do this' — most failures are configuration problems, not capability limits.
 - `INS-260327-9D50` Chase argues that traces are to agents what source code is to software: the actual source of truth for understanding what the system does, because you literally cannot predict agent behavior by reading the code.
-- `INS-260403-643A` AI tools generate code easily but debugging still requires technical intuition, creating a hidden cliff where non-coders get stuck.
 - `INS-260321-D370` Classical robotics systems fail loudly (joint limit hit, object not detected, planner infeasible). VLAs fail silently — producing plausible-looking but wrong trajectories with no mechanism to detect out-of-distribution inputs.
 - `INS-260323-4B4D` Making an AI agent aware of its own source code, harness, documentation, and model enables self-modification — Peter Steinberger's OpenClaw agent modified its own software when users didn't like something, without being explicitly programmed to do so.
 - `INS-260329-D2CA` Types catch structural errors and tests catch behavioral errors — skipping either leaves an entire category of bugs invisible.

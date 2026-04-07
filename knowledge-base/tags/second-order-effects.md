@@ -1,7 +1,6 @@
 # Tag: second-order-effects
 
 - `INS-260405-62F8` Tesla's FSD data access to Lemonade produced a ~50% premium cut, showing that AV adoption ripples through adjacent industries before consumer uptake is even widespread.
-- `INS-260403-213C` Wars of choice that impose costs on allies damage long-term economic relationships in ways that outlast the immediate commodity shock.
 - `INS-260403-4672` Idea restrictions propagate backward: forbidding conclusions in one domain suppresses exploration in every domain that connects to it.
 - `INS-260403-E9DB` Many of America's most-discussed problems — sprawl, bad transit, housing costs — are actually second-order effects of its uniquely high crime rates.
 - `INS-260330-2C57` Agriculture was adopted through millions of small, locally rational choices that collectively created an irreversible civilizational transformation with massive unintended consequences.
@@ -19,9 +18,10 @@
 - `INS-260403-6628` Plants produced so much oxygen through photosynthesis that their own key enzyme RuBisCo started malfunctioning, forcing them to evolve detoxification pathways.
 - `INS-260405-F7C5` The Magnus effect aircraft generated more lift per unit than conventional wings — and proportionally far more drag, causing it to crash after a single flight.
 - `INS-260323-60C1` Ice did not just preserve food — it launched the fish industry, meat packing, brewing, and fundamentally restructured American cities.
-- `INS-260405-3CC7` Rare edge cases become common failures at scale, creating novel downstream problems no amount of upfront architecture prevents.
-- `INS-260404-1F1B` Photosynthesis produced oxygen as a 'useless byproduct' that then poisoned its own core enzyme, forcing plants into permanent damage-control mode.
 - `INS-260330-659D` Shade balls were purchased to block bromate formation, but their secondary benefits — 80-90% evaporation reduction, algae elimination, near-zero chlorination — pay back at least half their cost.
 - `INS-260330-F229` The Mongols' Silk Road revival enabled unprecedented cultural and economic exchange but also spread the Black Death across Eurasia.
 - `INS-260330-22A2` Sweden's 480-day paid parental leave per child boosted fertility but made employers reluctant to hire young women.
 - `INS-260403-7BA1` The industries accidentally created by cost collapses — modern finance from sail, consumer credit from automobiles, global manufacturing from containers — always exceed the value of the original technology.
+- `INS-260405-3CC7` Rare edge cases become common failures at scale, creating novel downstream problems no amount of upfront architecture prevents.
+- `INS-260404-1F1B` Photosynthesis produced oxygen as a 'useless byproduct' that then poisoned its own core enzyme, forcing plants into permanent damage-control mode.
+- `INS-260403-213C` Wars of choice that impose costs on allies damage long-term economic relationships in ways that outlast the immediate commodity shock.

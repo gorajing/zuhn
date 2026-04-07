@@ -16,10 +16,10 @@
 - `INS-260405-DEF2` Being the only or one of two options in a category gives you more leverage over suppliers than volume alone ever could.
 - `INS-260403-0435` Costco's bare warehouse layout and confusing aisles make customers feel like deal-hunters rather than budget shoppers, similar to how IKEA's DIY model creates customer pride.
 - `INS-260405-C8BC` Costco pays double the retail average and gets triple the productivity — the premium pays for itself with room to spare.
-- `INS-260404-8D5F` Costco turns its warehouse aesthetic and confusing layout into brand assets that make customers feel like savvy deal-hunters.
 - `INS-260403-747B` Costco's $60 membership fee filters for affluent households ($100K average income) and business owners who account for two-thirds of sales.
 - `INS-260404-41AA` Costco's 15% markup cap, warehouse layout, and limited selection create interlocking efficiencies that compound into an unreplicable cost advantage.
 - `INS-260404-B086` Costco's $60 membership fee, confusing warehouse layout, and bulk-only sizing all seem like obstacles but actually select for affluent, high-spending customers with $100K average household income.
 - `INS-260403-9104` Costco's $60+ membership fee filters for affluent, high-spending customers while simultaneously creating sunk-cost-driven loyalty.
 - `INS-260403-6BD9` Costco turns its confusing warehouse layout, mandatory fee, and limited selection into advantages that competitors won't replicate because they look like problems.
 - `INS-260403-137D` Costco's $60 membership fee filters for households averaging ~$100K income, with business owners representing one-third of members but two-thirds of sales.
+- `INS-260404-8D5F` Costco turns its warehouse aesthetic and confusing layout into brand assets that make customers feel like savvy deal-hunters.

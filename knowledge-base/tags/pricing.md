@@ -3,12 +3,6 @@
 - `INS-260403-D3ED` DeepSeek's open-weight release at a fraction of US training costs signals that closed-source model pricing power is rapidly eroding.
 - `INS-260323-F68A` Claude Code users spend $8-13.5x their subscription in compute — if they had to pay per-error like a metered taxi, most would abandon the service because mistakes become expensive.
 - `INS-260325-206C` AI Dungeon's near-death from token costs is the cautionary tale: variable-cost AI engines inside fixed-price subscriptions create margin erosion that grows with your best users.
-- `INS-260405-ECD2` Retail food prices are the last output of an infrastructure system shaped far upstream by inputs, water, labor, and policy.
-- `INS-260323-7F22` Unlike Uber where subsidized-to-real price increases were 2-3x within the psychology of cab fares, AI would require 5-7x increases into a range users have never mentally budgeted for.
-- `INS-260403-94A3` Evergreen funds buying VC secondaries pay closer to NAV than institutional buyers because they optimize for stable access rather than deep discounts.
-- `INS-260404-47F3` At $40-50K per implant with 10K units/year target, Neuralink is building a $400-500M/year premium medical device business, not a consumer product.
-- `INS-260403-6044` In breakout companies, speed and access dominate price as the primary driver of venture returns.
-- `INS-260403-E503` 65% of VCs weigh anticipated exit opportunities as the key valuation determinant, with competitor benchmarks (60%) as secondary anchor.
 - `INS-260404-A938` Costco's mandatory membership triggers stronger sunk-cost loyalty than Amazon Prime's optional subscription because every member is psychologically invested.
 - `INS-260329-8602` Removing the small cup size forces customers to anchor on medium as the minimum, increasing average spend.
 - `INS-260405-B4D4` The 100x unit-economics threshold — cost savings plus revenue uplift — is the practical filter for identifying which AI workforce opportunities will achieve durable adoption.
@@ -41,7 +35,11 @@
 - `INS-260327-DD5C` Christoph Janz's framework shows five ways to build a $100M business: 1,000 customers at $100K, 10,000 at $10K, or 10 million at $10 — and your sales approach must match which path you're on.
 - `INS-260329-64A3` Arbitrage — same asset, two markets, different prices — is the meta-pattern behind all of Hormozi's 10 wealth strategies.
 - `INS-260405-3315` Freemium works because it routes adoption through the user, not through procurement.
-- `INS-260328-4EA0` Standard Capital lets founders set their own valuation with no negotiation -- founders who price reasonably relative to traction get funded, those who don't get rejected without counteroffers.
+- `INS-260402-24B0` Unlike SaaS where marginal cost trends to zero, every AI user incurs real compute cost, making undisciplined distribution a path to margin collapse.
+- `INS-260329-3DD7` Raise price, decrease cost, increase frequency, cross-sell, increase quantity, upgrade quality, downsell, and offer economy tiers — these 8 levers make any single customer worth more.
+- `INS-260330-999F` Spotify's free ad-funded tier lost money but was the primary engine converting users to paid subscriptions, which competitors without free tiers couldn't match.
+- `INS-260329-6079` Price increases that reduce conversion by less than the price multiplier always increase total profit, and pricing is far more inelastic than most founders assume.
+- `INS-260321-7109` SaaS companies where seats are tied to work output (Zendesk) face existential risk from AI, those where seats are just a pricing trick unrelated to output (Workday) are safe, and those in between (Adobe) face moderate pressure.
 - `INS-260321-AA91` Enterprise customers resist AI credit-based pricing because credits are opaque (unlike transferable units like gigabytes), vendors can silently increase consumption by adding features, and outcome-based pricing creates a dynamic baseline problem where savings erode year over year.
 - `INS-260403-9DC2` A strategically inferior pricing tier makes your target plan feel like the obvious choice through asymmetric dominance.
 - `INS-260322-0247` Robinhood's zero-commission bet gave them 3-4 years before incumbents could respond because free is a categorically different value proposition than merely cheaper.
@@ -49,12 +47,8 @@
 - `INS-260321-8D2B` Price AI products using three factors: value creation vs human cost, unit economics including hidden storage costs, and representative customer surveys.
 - `INS-260322-8BC5` Charging $1500-3000/month to SMBs creates 4-6 month average stick rates that crush margins as churn compounds and CAC rises.
 - `INS-260403-0F72` Low prices attract price-sensitive users who churn fast and consume disproportionate support — raising prices filters for better customers.
-- `INS-260402-24B0` Unlike SaaS where marginal cost trends to zero, every AI user incurs real compute cost, making undisciplined distribution a path to margin collapse.
-- `INS-260329-3DD7` Raise price, decrease cost, increase frequency, cross-sell, increase quantity, upgrade quality, downsell, and offer economy tiers — these 8 levers make any single customer worth more.
-- `INS-260330-999F` Spotify's free ad-funded tier lost money but was the primary engine converting users to paid subscriptions, which competitors without free tiers couldn't match.
-- `INS-260329-6079` Price increases that reduce conversion by less than the price multiplier always increase total profit, and pricing is far more inelastic than most founders assume.
-- `INS-260321-7109` SaaS companies where seats are tied to work output (Zendesk) face existential risk from AI, those where seats are just a pricing trick unrelated to output (Workday) are safe, and those in between (Adobe) face moderate pressure.
 - `INS-260403-B6A0` Making something dramatically cheaper doesn't just expand the existing market—it creates qualitatively new use cases, as seen from Roman water mills to personal computers.
+- `INS-260328-4EA0` Standard Capital lets founders set their own valuation with no negotiation -- founders who price reasonably relative to traction get funded, those who don't get rejected without counteroffers.
 - `INS-260405-36AF` Free pilots measure curiosity; paid pilots measure desire.
 - `INS-260330-B8C5` Instead of free trials, offer annual agreements with a 30-60 day opt-out clause to get real commitment while giving prospects comfort.
 - `INS-260328-F3C4` If someone doesn't want the burrito, cutting the price just makes them wonder what's wrong with it.
@@ -66,13 +60,19 @@
 - `INS-260330-8B52` Instead of free trials, offer annual agreements with a 30-60 day cancellation window — buyers get the same safety net while you get real commitment.
 - `INS-260327-CD77` Start with an aggressively high price—first-time founders chronically underprice out of guilt.
 - `INS-260329-5924` Use the Value Equation (dream outcome × perceived likelihood / time delay × effort) to price based on value delivered rather than cost incurred.
-- `INS-260329-3EC3` Define your ideal customer as one hyper-specific person rather than a broad demographic to unlock premium pricing and faster sales cycles.
-- `INS-260404-0EB2` PMF locks three variables — value prop, segment, and pricing — so capital can be spent on scaling rather than iteration.
-- `INS-260329-78CB` High-ticket with few customers is easier to execute than low-ticket at scale, especially when starting with no resources.
-- `INS-260330-0F52` Get to paid users as fast as possible because they will tell you the truth about your product's shortcomings.
 - `INS-260330-ABB1` The cheapest M1 MacBook Air outperformed the most expensive Intel i9 MacBook Pro in most developer workflows while running cooler and using less battery.
 - `INS-260322-8299` The correct sequence is pricing optimization -> freed cash flow -> attribution tracking -> paid ads -> content/thought leadership, not the reverse.
 - `INS-260405-8884` Costco earns 75% of profit from membership fees, so raising prices costs more in renewals than it gains in margins — the structure enforces customer-first behavior.
 - `INS-260403-839E` Ramp's willingness to reprice in 2022 gave it a fresh start, while Brex's refusal to mark down trapped it under an unsustainable valuation anchor.
 - `INS-260329-C6BB` Start premium to fund the infrastructure needed for eventual mass-market scale.
 - `INS-260329-1F17` Value = (Dream Outcome × Perceived Likelihood) ÷ (Time Delay × Effort/Sacrifice) — reducing the denominator often matters more than inflating the numerator.
+- `INS-260329-3EC3` Define your ideal customer as one hyper-specific person rather than a broad demographic to unlock premium pricing and faster sales cycles.
+- `INS-260404-0EB2` PMF locks three variables — value prop, segment, and pricing — so capital can be spent on scaling rather than iteration.
+- `INS-260329-78CB` High-ticket with few customers is easier to execute than low-ticket at scale, especially when starting with no resources.
+- `INS-260330-0F52` Get to paid users as fast as possible because they will tell you the truth about your product's shortcomings.
+- `INS-260323-7F22` Unlike Uber where subsidized-to-real price increases were 2-3x within the psychology of cab fares, AI would require 5-7x increases into a range users have never mentally budgeted for.
+- `INS-260405-ECD2` Retail food prices are the last output of an infrastructure system shaped far upstream by inputs, water, labor, and policy.
+- `INS-260403-94A3` Evergreen funds buying VC secondaries pay closer to NAV than institutional buyers because they optimize for stable access rather than deep discounts.
+- `INS-260404-47F3` At $40-50K per implant with 10K units/year target, Neuralink is building a $400-500M/year premium medical device business, not a consumer product.
+- `INS-260403-6044` In breakout companies, speed and access dominate price as the primary driver of venture returns.
+- `INS-260403-E503` 65% of VCs weigh anticipated exit opportunities as the key valuation determinant, with competitor benchmarks (60%) as secondary anchor.

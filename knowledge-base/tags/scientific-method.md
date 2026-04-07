@@ -3,8 +3,8 @@
 - `INS-260330-984C` Flat Earth theories are clever ad hoc explanations that address individual challenges but fail to fit all evidence into a unified framework.
 - `INS-260330-1801` Calling the unknown 85% of gravitational force 'dark matter' smuggles in the assumption that matter causes it, when 'dark gravity' would better describe what we actually observe.
 - `INS-260330-0C1D` Calling an unknown phenomenon 'dark matter' makes people debate whether it's matter, when the only confirmed property is gravitational — 'dark gravity' would keep the hypothesis space open.
-- `INS-260404-ABCB` NASA's Bennu sample return found fragile organic compounds that meteorite studies could never detect because atmospheric entry destroys them.
 - `INS-260402-607A` Francis Darwin identified his father's key advantage as 'the power of never letting exceptions pass unnoticed' — great discovery requires treating anomalies as data, not noise.
+- `INS-260404-ABCB` NASA's Bennu sample return found fragile organic compounds that meteorite studies could never detect because atmospheric entry destroys them.
 - `INS-260330-B2B8` Stuart Firestein argues science begins where facts run out — riding the wave beyond the circle of knowledge is more productive than bobbing within it.
 - `INS-260330-CC51` Stuart Firestein argues science begins where facts run out — riding the wave of ignorance outward is more productive than circling within known facts.
 - `INS-260323-D8DD` Both Planck's quantum of energy and Bohr's quantized angular momentum were 'acts of desperation' with no physical justification — they worked spectacularly before anyone understood why.

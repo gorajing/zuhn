@@ -1,8 +1,7 @@
 # Tag: workflow
 
-- `INS-260405-B88A` AI automation applied to the RFP process promises dramatic efficiency gains in both proposal generation and vendor evaluation.
-- `INS-260321-D3BE` Stop thinking in lines of code — think in macro actions: 'agent 1 builds feature X, agent 2 researches Y, agent 3 plans Z' — then review their work.
 - `INS-260322-3159` Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
+- `INS-260321-D3BE` Stop thinking in lines of code — think in macro actions: 'agent 1 builds feature X, agent 2 researches Y, agent 3 plans Z' — then review their work.
 - `INS-260325-D540` Expert developers already use different coding agents for ideation, testing, and debugging — not one agent for everything.
 - `INS-260322-B6DE` Every AI employee should map to one of seven business operations stages: outreach, discovery, proposal, sales, onboarding, retention, and competitive intelligence.
 - `INS-260320-93E1` Planning is king — always use planning mode before implementation; never let the builder start without plans.
@@ -13,6 +12,7 @@
 - `INS-260320-47DC` If Claude struggles more than 30 minutes on something you could fix in 2 minutes, just step in and do it yourself.
 - `INS-260320-0127` Update dev docs regularly by running /update-dev-docs before context compaction to preserve current state.
 - `INS-260403-31E4` Follow-up prompts that reshape output ('too long, trim to 100 words, make it conversational') are more effective than trying to craft one perfect initial prompt.
+- `INS-260405-B88A` AI automation applied to the RFP process promises dramatic efficiency gains in both proposal generation and vendor evaluation.
 - `INS-260323-2E51` Peter Steinberger runs 4-10 parallel Claude Code agents simultaneously, rarely uses an IDE, and explicitly doesn't read 'boring' code (data transformation, UI alignment) — focusing review only on critical paths like database interactions.
-- `INS-260320-105E` The sound design workflow for video follows three steps: lay down temp music/score first, add creative SFX and foley second, then apply final audio treatment and mixing.
 - `INS-260403-648C` Before reaching for any tool, ask whether the task should exist at all — only then design the system, then automate.
+- `INS-260320-105E` The sound design workflow for video follows three steps: lay down temp music/score first, add creative SFX and foley second, then apply final audio treatment and mixing.

@@ -1,9 +1,9 @@
 # Tag: ai-agents
 
+- `INS-260405-9285` AI agent deployment now requires use case judgment, not engineering skill — the bottleneck has shifted from build to design.
 - `INS-260404-34DB` CMU's Zico Kolter argues AI agents must be designed to cooperate via game theory, not just optimize individual goals.
 - `INS-260327-368D` Just as security changed fundamentally when economic activity moved from physical to digital, it must change again as it moves from digital to autonomous AI interactions.
 - `INS-260405-A992` Embed AI agents where people already communicate rather than asking them to adopt new interfaces.
-- `INS-260405-9285` AI agent deployment now requires use case judgment, not engineering skill — the bottleneck has shifted from build to design.
 - `INS-260403-E78C` Claude Sonnet completing multi-page workflows at 94% accuracy for $0.30 creates a 100x cost gap that makes human contractors economically irrational for routine tasks.
 - `INS-260322-96D1` AI agents that accumulate all past conversations and user-shared resources develop into genuinely personalized assistants — one agent independently followed AI influencers on social media to self-educate in its field.
 - `INS-260404-8E0D` Successful AI agent adoption starts with well-scoped engineering tasks then expands into QA, analytics, documentation, and CX.
@@ -41,11 +41,10 @@
 - `INS-260403-BB5E` AI agents expand addressable market beyond software budgets into the 35x-larger labor budget pool.
 - `INS-260405-1951` Claude Code built the entire Claude Cowork product with humans providing only planning and oversight, not code.
 - `INS-260403-08D7` Top developers now orchestrate multiple AI agents in parallel, elevating strategic direction over line-by-line coding.
-- `INS-260403-4120` Moltbook reveals that AI agents excel at founding projects but cannot sustain them, producing thousands of one-off ideas with almost no follow-through or genuine collaboration.
 - `INS-260404-D646` Agentic AI is eating software by turning autonomous multi-step execution into a new platform layer, not just a feature bolted onto existing products.
 - `INS-260403-E93A` History suggests the application layer on top of AI infrastructure will capture more enterprise value than the infrastructure itself.
 - `INS-260403-05EB` Gartner's prediction that 90% of B2B purchases will flow through AI agents means product quality replaces marketing spend as the primary growth lever.
-- `INS-260322-760A` The 'self-driving money' app that automatically allocates paychecks, sweeps savings, and invests is technically feasible but faces a trust barrier — most consumers don't understand or trust the agent's actions.
+- `INS-260403-4120` Moltbook reveals that AI agents excel at founding projects but cannot sustain them, producing thousands of one-off ideas with almost no follow-through or genuine collaboration.
 - `INS-260405-615E` Platform companies are acquiring agentic workflow capability to embed automation into existing distribution, not to win on model benchmarks.
 - `INS-260403-3852` Nearly every startup in the Speedrun batch frames itself as an AI agent or autonomous worker for a specific industry vertical rather than a horizontal platform.
 - `INS-260403-75E3` Per-seat pricing creates an inverse relationship between AI product effectiveness and revenue.
@@ -58,3 +57,4 @@
 - `INS-260403-0350` For SMBs, AI agents are pure value-add filling gaps they couldn't afford to fill; for enterprises, agents must replace entrenched processes, creating friction.
 - `INS-260405-54A9` Internal AI agents (HR, knowledge base, competitor intel) deliver faster ROI than customer-facing ones because deployment barriers are lower.
 - `INS-260403-F745` The 5.8M SMB market requires uniqueness at scale — each business has specific needs — which AI agents can deliver but traditional SaaS never could.
+- `INS-260322-760A` The 'self-driving money' app that automatically allocates paychecks, sweeps savings, and invests is technically feasible but faces a trust barrier — most consumers don't understand or trust the agent's actions.

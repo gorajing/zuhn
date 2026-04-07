@@ -4,7 +4,6 @@
 - `INS-260405-89E7` MiniMax hires for first-principles thinking across all backgrounds because AI handles execution — the scarce skill is knowing which questions to ask.
 - `INS-260325-DA83` Harvard/MIT research at BCG shows top performers got much better with AI while lower performers got worse — the 'selective upgrade puzzle.'
 - `INS-260403-9A0F` Product managers embedded with AI researchers influence model behavior directly, creating differentiation impossible to achieve by building on public APIs alone.
-- `INS-260403-FF15` Design your organization around the conflicts you want to hear about, not around eliminating disagreement.
 - `INS-260330-0BD3` If someone claims they were too incompetent to prevent fraud, but built 50+ subsidiaries and one-way information walls, the complexity itself is evidence of deliberate design.
 - `INS-260405-68DC` Good engineers made into managers as a reward for engineering excellence reliably become bad managers — the role requires different skills, not more of the same.
 - `INS-260322-F609` ElevenLabs removed all titles, which simultaneously filtered out ego-driven candidates and eliminated implicit bias in idea-sharing and collaboration.
@@ -14,12 +13,12 @@
 - `INS-260330-1B8A` The Constitution's framers designed checks against both government tyranny and democratic mob rule, creating a system durable enough to last 230+ years.
 - `INS-260403-58BA` Stripping bureaucracy to maintain speed over 20 years made Palantir impossible to compete with.
 - `INS-260403-3A9D` Yahoo's choice to call itself a media company caused it to treat programming as commodity work, which destroyed product quality.
-- `INS-260323-0683` As stakes increase, power struggles intensify — resilient governance structures must be built early, before the pressure peaks.
 - `INS-260402-ABB5` Financial constraints force companies to fix dysfunctions — overpaying underperformers, underpaying top talent, coordination-heavy middle management — that abundant capital made invisible.
 - `INS-260328-7241` Bad process is like a cancer — a machine that only wants more power and more people, until you have a thousand process people and one guy making bolts.
 - `INS-260403-1ECB` When hiring plans live in Notion, runway models in Excel, and compensation decisions in separate conversations, the resulting misalignment silently erodes runway.
 - `INS-260404-89DA` Founder mode correctly emphasizes deep engagement but becomes dangerous when used to justify bypassing management structure entirely.
 - `INS-260327-99DB` Supercell was founded on flipping the org chart: game teams (cells) own the vision, leadership serves them, and the best game developers are the superstars of the company.
+- `INS-260323-0683` As stakes increase, power struggles intensify — resilient governance structures must be built early, before the pressure peaks.
 - `INS-260330-D99D` McDonald's biggest innovations — the Big Mac, drive-thru, Ronald McDonald, and Happy Meal — all came from individual franchisees experimenting locally, not corporate headquarters.
 - `INS-260404-B893` Growth teams are multipliers of existing traction, not creators of it — fix the product before hiring growth.
 - `INS-260330-D968` The umma concept superseded tribal allegiance, enabling Islam to unify warring factions into a single expansionary community within two centuries.
@@ -67,6 +66,7 @@
 - `INS-260405-ACCE` The conflicts leadership hears about are a structural choice—design the org to surface the right ones.
 - `INS-260405-B406` If critical tensions aren't reaching leadership, the org structure is filtering them out.
 - `INS-260403-30FF` Clear organizational vision replaces coordination overhead — everyone already knows what to build without being told.
+- `INS-260330-D74A` The Articles required 9 of 13 states to agree on any decision and unanimity for amendments, resulting in zero amendments ever passed and near-total paralysis.
 - `INS-260327-3930` Nikesh Arora's key M&A principle: acquired founders become the bosses of existing Palo Alto teams, because if incumbents were capable enough, they wouldn't have needed the acquisition.
 - `INS-260403-DD41` YC broke at 80 startups because partner-startup relationships were O(n²) — sharding into dedicated groups fixed it instantly.
 - `INS-260403-1C28` Structure teams as autonomous 2-6 person pods that each own their own goals, roadmap, deployment, and quality control.
@@ -94,4 +94,4 @@
 - `INS-260403-20BF` A 'Mullet' structure—small hub presence for strategy/capital, large remote workforce for engineering—captures network benefits while enabling faster technical iteration.
 - `INS-260403-2ED2` Democratic governance kills venture firm scaling because partners vote to preserve their own power during reorganizations.
 - `INS-260330-E585` The Articles of Confederation collapsed primarily because Congress could not collect taxes, proving that authority without enforcement mechanisms is meaningless.
-- `INS-260330-D74A` The Articles required 9 of 13 states to agree on any decision and unanimity for amendments, resulting in zero amendments ever passed and near-total paralysis.
+- `INS-260403-FF15` Design your organization around the conflicts you want to hear about, not around eliminating disagreement.

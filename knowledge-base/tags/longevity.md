@@ -12,7 +12,6 @@
 - `INS-260325-6088` Legs fail first because they are furthest from the heart — leg weakness is the earliest warning of systemic health decline.
 - `INS-260327-52AA` Observational research consistently links higher C15 and C17 odd-chain fatty acid levels (from dairy fat) with better longevity outcomes, yet no one in the longevity space supplements them.
 - `INS-260327-D19D` Bryan Johnson's vegan longevity protocol requires 100+ daily supplements to compensate for nutrients naturally abundant in meat and organs, yet still misses key compounds.
-- `INS-260403-B9E6` Longevity investments should be evaluated by whether they flatten the mortality curve (like naked mole rats) rather than shift it rightward.
 - `INS-260403-1B96` AI founders face a personal expected-value calculation where certain death in decades vs. a chance at immortality makes even a 25% extinction risk individually rational.
 - `INS-260403-1CB1` Our inability to intuit exponential change causes us to underfund moonshot longevity research in favor of comfortable incremental approaches.
 - `INS-260325-9E0C` The 85-year Harvard Study of Adult Development found that people with the warmest relationships stayed healthiest longest and lived longest.
@@ -20,3 +19,4 @@
 - `INS-260403-DAA9` Decades of accumulated context at a single company create pattern recognition and reinvention capacity that no amount of capital or talent can fast-track.
 - `INS-260327-8E62` Spend a year finding a problem you'll love for a decade—that patience pays off more than rushing.
 - `INS-260323-810D` At 54 with grown children and strong convictions, Carlson finds that pure curiosity ('I was just interested') is the most sustainable and honest driver -- outlasting career anxiety, reputation management, and fear.
+- `INS-260403-B9E6` Longevity investments should be evaluated by whether they flatten the mortality curve (like naked mole rats) rather than shift it rightward.

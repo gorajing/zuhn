@@ -12,9 +12,6 @@
 - `INS-260405-75C4` Watching someone use AI live is more instructive than reading or hearing about it.
 - `INS-260405-7C86` Focused, short demos change AI behavior faster than comprehensive theoretical treatments.
 - `INS-260329-FEC5` The most effective way to teach any formal system is the natural language progression: learn words, then sentences, then paragraphs.
-- `INS-260323-5CE3` Blues, bebop, and other musical styles are languages with their own syntax; hearing bebop as a child (like Rick from his non-musician dad, or Flea from his jazz-bassist stepfather) creates fluency that teenage exposure cannot replicate.
-- `INS-260323-01A1` When learning guitar, start by learning songs you love rather than scales and theory — the struggle of figuring out songs by ear builds skills faster than abstract exercises, and keeps motivation alive.
-- `INS-260323-0982` For learning guitar (or any instrument), 10 minutes daily seven days a week beats one hour once a week — and keeping the guitar on a stand where you walk by it turns idle moments into practice sessions.
 - `INS-260329-5C65` Long-form tutorials act as a self-selection filter — people who click a 4.5-hour video are pre-committed, leading to deeper engagement than bite-sized content.
 - `INS-260329-9CED` CS50 teaches C before Python so students understand what happens underneath abstractions, creating mental models that transfer to any future language.
 - `INS-260329-48FD` Teaching complex concepts by starting with physical metaphors before moving to formal notation produces far better understanding than abstract-first approaches.
@@ -86,4 +83,7 @@
 - `INS-260323-8726` The moment you decide you are too embarrassed to try something new, you stop learning — making willingness to be a beginner the most important skill for leaders.
 - `INS-260329-7B1D` Malan's technique of changing only one thing per code iteration — either the concept or the syntax, never both — minimizes cognitive load and accelerates learning.
 - `INS-260328-070D` Nine times out of ten, what founders dismiss as consulting is actually a chance to deeply learn the problem space and build a moat.
+- `INS-260323-5CE3` Blues, bebop, and other musical styles are languages with their own syntax; hearing bebop as a child (like Rick from his non-musician dad, or Flea from his jazz-bassist stepfather) creates fluency that teenage exposure cannot replicate.
 - `INS-260405-CA45` You cannot delegate the learning that comes from direct customer interaction — outsourcing validation transfers the insight to the vendor, not back to you.
+- `INS-260323-01A1` When learning guitar, start by learning songs you love rather than scales and theory — the struggle of figuring out songs by ear builds skills faster than abstract exercises, and keeps motivation alive.
+- `INS-260323-0982` For learning guitar (or any instrument), 10 minutes daily seven days a week beats one hour once a week — and keeping the guitar on a stand where you walk by it turns idle moments into practice sessions.

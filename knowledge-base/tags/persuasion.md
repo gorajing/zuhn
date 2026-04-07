@@ -16,8 +16,8 @@
 - `INS-260330-5F21` Partially adopted personas trigger uncanny valley effects that repel rather than attract.
 - `INS-260329-A45D` 'But' acts as an attention redirector — everything after it is amplified, everything before it is diminished.
 - `INS-260329-78AE` People automatically trust speakers more when the speaker says something that visibly hurts their own interest, because costly signals are expensive to counterfeit.
-- `INS-260404-6753` Consciously listening for the first 10 minutes and acknowledging the other side's logic disarms conflict more effectively than arguing.
 - `INS-260403-29C7` Kissinger chose Go over xiangqi not because it described China accurately, but because it made America respond the way he wanted.
+- `INS-260404-6753` Consciously listening for the first 10 minutes and acknowledging the other side's logic disarms conflict more effectively than arguing.
 - `INS-260403-9DB6` Steady accumulation of documented incidents shifts opinion more than any single dramatic event because patterns resist counter-narrative.
 - `INS-260403-36F0` Correctness about what's wrong doesn't convert into support without a clear alternative vision.
 - `INS-260330-6A3A` The conviction that you understand persuasion too well to be persuaded is itself a persuasion vulnerability.
@@ -39,9 +39,9 @@
 - `INS-260330-0F49` The reflexive racial framing of the Capitol security failure ignored contradicting evidence — like black cops struggling to defend the building and a white woman being shot — while alienating the moderate conservatives needed for democratic healing.
 - `INS-260325-0147` Suppressing an idea does not just draw attention to it -- it actually increases the likelihood people will believe it.
 - `INS-260323-0277` Raibert deliberately made the top and bottom ideas on his project list boring and put 'pogo stick robot' in the middle — letting Ivan Sutherland naturally select the exciting one, which led to the first $3,000 of funding.
+- `INS-260326-3C9C` Alexander's Opis speech worked because he could strip and show his scars -- shared suffering creates unchallengeable authority.
 - `INS-260403-E4C6` Never say 'we're passionate' or 'our product is great'—audiences ignore or penalize explicit self-promotion, while implicit confidence through demeanor is the strongest signal.
 - `INS-260405-D20A` Investors must feel the problem, not just understand it, for the problem slide to do its job.
-- `INS-260326-3C9C` Alexander's Opis speech worked because he could strip and show his scars -- shared suffering creates unchallengeable authority.
 - `INS-260405-ECCD` Investors must feel the problem before they can value the solution.
 - `INS-260329-F2BB` Describe the customer's problem more accurately than they can, and they'll believe you can solve it without needing proof.
 - `INS-260329-E900` Mine book reviews in your niche for exact customer language about their pain — matching their words creates automatic credibility.
