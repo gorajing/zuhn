@@ -47,7 +47,6 @@ stance: >-
   When a discussion requires no expertise threshold to join, it has likely
   become an identity battleground rather than a knowledge exchange
 related:
-  - INS-260325-FA86
   - INS-260323-86FA
   - INS-260327-5547
   - INS-260329-C34B

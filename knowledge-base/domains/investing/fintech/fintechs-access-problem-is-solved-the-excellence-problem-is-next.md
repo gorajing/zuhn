@@ -45,8 +45,8 @@ related:
   - INS-260405-C5E5
   - INS-260404-19C2
   - INS-260322-EDA4
-  - INS-260403-8256
-  - INS-260403-FF57
+  - PRI-260407-93D7
+  - PRI-260407-40F9
 stance: >-
   The fintech industry has largely digitized traditional financial services
   (access), but hasn't yet made them excellent

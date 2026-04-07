@@ -50,7 +50,6 @@ stance: >-
   Every marketplace category evolves through the same four phases from
   horizontal lead-gen to fully managed fintech-enabled transactions
 related:
-  - INS-260321-141B
   - INS-260403-426A
   - INS-260404-CCB1
   - INS-260404-A2C4

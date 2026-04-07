@@ -54,13 +54,12 @@ stance: >-
   knowledge or insight that intelligent, domain-expert critics are missing —
   otherwise you are merely wrong, not contrarian.
 related:
-  - INS-260323-A48E
   - INS-260323-9AA5
-  - INS-260323-8966
   - INS-260330-ECD8
   - INS-260330-0E49
   - INS-260403-C732
   - INS-260330-3570
+  - INS-260323-8966
   - INS-260402-0BFF
   - INS-260403-37D9
 evidence:

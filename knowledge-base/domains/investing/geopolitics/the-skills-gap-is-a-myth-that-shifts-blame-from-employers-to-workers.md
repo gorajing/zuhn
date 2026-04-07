@@ -46,11 +46,11 @@ stance: >-
   manufactured by employers who refuse to pay market-clearing wages,
   conveniently shifting blame for labor market dysfunction onto workers.
 related:
+  - PRI-260407-2ACF
   - PRI-260328-D68F
   - INS-260327-39D4
   - INS-260403-3223
   - INS-260327-2430
-  - INS-260330-B28C
 evidence:
   - id: INS-260330-B28C
     type: SUPPORTS

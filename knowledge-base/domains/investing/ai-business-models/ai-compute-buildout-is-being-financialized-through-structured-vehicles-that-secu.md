@@ -56,8 +56,8 @@ related:
   - INS-260330-DE65
   - INS-260403-01FD
   - INS-260404-2CA6
+  - PRI-260407-93D7
   - INS-260403-44C4
-  - INS-260328-FDC8
 ---
 xAI assembled a ~$20B financing round where NVIDIA invests ~$2B into an SPV that buys NVIDIA GPUs and leases them back to xAI. The SPV structure provides risk mitigation through asset-backed securitization — debt holders are secured by the physical GPU assets, and the SPV retains ownership after the five-year lease. Simultaneously, OpenAI and AMD structured a partnership using 160 million shares of AMD stock as partial payment for 6 GW of GPU capacity.
 

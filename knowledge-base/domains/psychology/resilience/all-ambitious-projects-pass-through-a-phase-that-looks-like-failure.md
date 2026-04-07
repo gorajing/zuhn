@@ -48,13 +48,13 @@ related:
   - INS-260330-BCC2
   - INS-260402-E36A
   - INS-260403-472E
-  - INS-260403-F657
-  - INS-260404-F965
   - INS-260404-4666
   - INS-260405-7A7C
   - INS-260405-7BA5
   - INS-260404-8031
   - PRI-260406-377E
+  - PRI-260407-C737
+  - INS-260404-56F8
 ---
 Paul Graham observes that the biggest filter separating people who do great work from those who don't is not ability but willingness to push through an ugly early phase. Every ambitious project—startups, research, art—goes through a stage where the output looks embarrassing even to its creator. Most people never start, and most who start quit here.
 

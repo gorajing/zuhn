@@ -45,11 +45,11 @@ stance: >-
   financial infrastructure, with weekly trading volumes exploding from $50M to
   $6B+ in just two years.
 related:
+  - PRI-260407-40F9
   - INS-260403-E611
   - INS-260404-9103
   - INS-260403-9CC1
   - INS-260403-71E6
-  - INS-260404-D475
 ---
 Before the 2024 U.S. election, prediction markets were a niche product with roughly $50 million in weekly trading volume. Within 24 months, that figure surged past $6 billion — a 100x increase that signals a fundamental shift in how markets price information and uncertainty.
 

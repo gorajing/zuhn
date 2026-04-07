@@ -57,7 +57,7 @@ related:
   - PRI-260406-D7EA
   - INS-260404-4985
   - INS-260403-56A9
-  - INS-260404-E716
+  - PRI-260407-C737
   - INS-260403-2AA2
 ---
 Graham makes a crucial distinction about creative environments that's often missed: the goal is not to surround yourself with people who are always encouraging. You'd quickly learn to discount unconditional support, making it useless. What you need are colleagues with genuine diagnostic ability — people who can look at messy early work and distinguish real promise from actual mediocrity.

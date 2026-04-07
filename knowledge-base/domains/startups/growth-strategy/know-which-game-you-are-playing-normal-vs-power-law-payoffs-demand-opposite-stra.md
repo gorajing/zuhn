@@ -63,7 +63,6 @@ related:
   - INS-260403-A868
   - INS-260330-B08E
   - INS-260329-920D
-  - INS-260326-0045
 stance: 'In normal-distribution games (coin flips for $1), optimize for the average'
 evidence:
   - id: INS-260329-920D

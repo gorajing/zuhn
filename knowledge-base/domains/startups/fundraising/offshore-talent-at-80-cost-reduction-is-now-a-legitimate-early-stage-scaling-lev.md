@@ -53,10 +53,10 @@ stance: >-
   changing early-stage capital efficiency.
 related:
   - PRI-260405-608A
+  - PRI-260407-C8FE
   - INS-260327-2430
   - INS-260403-7D11
   - INS-260403-09E8
-  - INS-260322-D5EB
 ---
 As capital has become more expensive post-2021, early-stage startups are increasingly turning to offshore talent not as a compromise but as a deliberate capital efficiency strategy. The VC Corner sponsor example (OnlyExperts) illustrates a broader trend: specialized functions like accounting, finance ops, and certain engineering roles can now be filled with high-quality offshore talent at dramatically lower cost.
 

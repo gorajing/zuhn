@@ -53,10 +53,10 @@ stance: >-
   and composition second, even though this feels backwards to the learner.
 related:
   - INS-260329-E402
+  - PRI-260407-1D23
   - PRI-260406-F8E5
   - INS-260329-BA12
   - PRI-260406-1AC6
-  - PRI-260405-9A14
 evidence:
   - id: INS-260329-5C25
     type: CHALLENGES

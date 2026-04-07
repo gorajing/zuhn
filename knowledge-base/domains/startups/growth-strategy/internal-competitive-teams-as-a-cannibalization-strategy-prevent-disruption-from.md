@@ -55,8 +55,8 @@ related:
   - INS-260323-48AF
   - INS-260328-9408
   - INS-260330-C24F
+  - PRI-260407-7C1A
   - INS-260323-DE2B
-  - INS-260403-699A
 evidence:
   - id: INS-260323-48AF
     type: EXTENDS

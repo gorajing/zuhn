@@ -49,11 +49,11 @@ related:
   - INS-260323-8966
   - INS-260325-4300
   - INS-260330-BE78
-  - INS-260330-A15F
   - INS-260330-6418
   - INS-260403-7F67
-  - INS-260404-5B6A
   - INS-260403-597B
   - INS-260403-BAE1
+  - INS-260403-E2A7
+  - PRI-260323-977A
 ---
 There's a growing gap between how certain the market feels about AI outcomes and how much real-world evidence actually supports those convictions. Capital and strategic decisions are locking in around belief systems — 'AI will replace X' or 'AI can't do Y' — rather than tracking demonstrated, measurable performance. This is a classic epistemic trap: once confidence solidifies, contradictory evidence gets rationalized away rather than incorporated. The practical risk is systematic mispricing — both of AI companies (overvalued when belief exceeds capability) and non-AI companies (undervalued when belief dismisses their relevance). The antidote is tracking concrete capability demonstrations rather than narrative momentum.

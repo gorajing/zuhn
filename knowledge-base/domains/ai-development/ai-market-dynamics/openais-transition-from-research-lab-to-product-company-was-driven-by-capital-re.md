@@ -55,7 +55,7 @@ related:
   - INS-260403-8450
   - PRI-260328-5E58
   - PRI-260328-A1AA
-  - PRI-260406-B331
+  - PRI-260407-F704
   - INS-260403-20F9
 ---
 OpenAI's 2019 transition is often framed as mission drift — a safety-focused lab gradually seduced by commercial success. But the timeline suggests the opposite: the restructuring was a deliberate capital access decision. Training frontier AI models requires massive compute investment, and the nonprofit structure couldn't attract sufficient capital. The capped-profit model was designed specifically to unlock Microsoft's $1B investment.

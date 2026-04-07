@@ -52,12 +52,11 @@ stance: >-
   The primary victim of delayed firing is not the bad employee but the good
   employees who quit because of the toxic environment.
 related:
-  - INS-260329-E45A
-  - INS-260330-8E3C
   - INS-260330-687B
   - INS-260330-258F
   - INS-260330-36B4
   - PRI-260406-4FAE
+  - INS-260330-8E3C
 ---
 YC's advice on firing distills to a specific asymmetry: there is only downside to procrastination when dealing with a bad employee. If a toxic employee stays too long, good employees may quit. If the employee is underperforming, you continue losing business or users every day you delay. The upside of waiting is zero.
 

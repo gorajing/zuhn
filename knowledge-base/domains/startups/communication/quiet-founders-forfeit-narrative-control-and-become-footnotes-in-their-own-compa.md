@@ -60,8 +60,8 @@ related:
   - INS-260327-4434
   - INS-260323-F2C3
   - INS-260328-E410
+  - PRI-260407-F884
   - PRI-260405-F5A0
-  - INS-260330-E77D
 ---
 Despite architecting most of Google's defining product bets, Page is routinely underattributed in popular narratives because he avoided public communication. The media credited Schmidt as the stabilizing force, not because Page's contributions were invisible, but because Page never narrated them. In the absence of a founder's own story, observers construct a simpler one.
 

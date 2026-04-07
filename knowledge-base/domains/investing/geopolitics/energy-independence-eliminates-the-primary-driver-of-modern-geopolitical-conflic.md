@@ -54,11 +54,11 @@ stance: >-
   eliminate resource control as a casus belli, creating an unprecedented peace
   dividend that reshapes foreign policy and global trade.
 related:
-  - INS-260325-722C
   - INS-260325-2906
   - INS-260403-2EE2
   - PRI-260406-C4FD
-  - INS-260404-7A75
+  - INS-260325-722C
+  - PRI-260407-B738
 ---
 Nearly every modern war has been influenced by control of or access to natural resources — the Ukraine conflict's energy dimension being the latest example. Europe's failure to maintain energy independence (shutting down nuclear, underinvesting in renewables) made it dependent on Russian natural gas, which went from 25% to 40%+ of supply between 2010-2018. This dependency became a strategic weapon.
 

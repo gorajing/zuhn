@@ -59,5 +59,6 @@ related:
   - INS-260403-D090
   - INS-260403-19C9
   - INS-260405-3061
+  - PRI-260407-A13C
 ---
 The AI coding tool market is a vivid case study in the peculiar dynamics of developer adoption. Tools can achieve explosive growth — 900%+ in weeks — driven by developer curiosity and low switching costs. But that same low switching cost enables equally fast abandonment when novelty fades. Developers are uniquely willing to pay for tools quickly and uniquely willing to cancel just as fast. This creates a market where early growth metrics are almost meaningless as predictors of retention. The products that survive in developer tooling are those that become embedded in existing development workflows — IDE integrations, CI/CD pipelines, code review processes — rather than standalone interfaces that require context switching. For founders building in this space, the key question is not 'can we get developers to try this?' but 'does this become invisible infrastructure in how they work?'

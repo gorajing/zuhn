@@ -46,16 +46,14 @@ stance: >-
   OpenAI nearly doubled Q1 US totals while early-stage deal volume actually
   declined.
 related:
-  - INS-260403-420F
   - INS-260405-6FE3
   - INS-260403-6B24
-  - INS-260404-C3F1
-  - INS-260405-3E92
   - INS-260403-1B46
+  - PRI-260407-D50C
   - INS-260403-87C4
   - INS-260403-968A
   - INS-260403-39B8
-  - INS-260403-0BE9
+  - INS-260405-FCA9
 ---
 Q1 2025 saw US startup funding hit $85.5B, nearly doubling previous periods. But this headline is almost entirely an artifact of OpenAI's record $40B round. Strip that out and the picture is bleak for early-stage founders — deal volume declined and capital concentrated further into late-stage AI companies.
 

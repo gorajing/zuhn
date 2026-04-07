@@ -47,9 +47,9 @@ stance: >-
   compress margins, making AI cost deflation net positive for the ecosystem
 related:
   - INS-260322-5790
-  - INS-260403-BE7C
   - INS-260403-F4CC
   - PRI-260405-B144
+  - PRI-260407-7AE9
   - INS-260404-A0C2
   - INS-260403-B53B
   - INS-260405-E155

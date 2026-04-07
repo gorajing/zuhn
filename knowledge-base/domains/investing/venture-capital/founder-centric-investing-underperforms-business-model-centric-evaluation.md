@@ -54,9 +54,9 @@ related:
   - INS-260328-3FA4
   - INS-260328-982A
   - INS-260330-5EB6
-  - INS-260330-156C
   - INS-260402-27A1
   - INS-260402-225A
+  - INS-260402-66A5
 ---
 New research reported by CrunchBase challenges the deeply held VC belief in 'backing the jockey over the horse.' The data suggests that overweighting founder charisma, pedigree, and credentials—divorced from the business itself—leads to systematically poor investment decisions. The best VCs evaluate founders through their business, not separately from it.
 

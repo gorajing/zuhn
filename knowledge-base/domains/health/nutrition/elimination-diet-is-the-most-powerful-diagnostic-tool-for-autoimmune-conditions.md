@@ -50,11 +50,11 @@ stance: >-
   diagnostically valuable than any medical test for identifying autoimmune food
   triggers
 related:
+  - PRI-260407-9D41
   - INS-260327-F06B
   - PRI-260328-97E0
   - PRI-260328-AF97
   - INS-260327-A7F5
-  - INS-260327-E8D3
 evidence:
   - id: INS-260327-584D
     type: CHALLENGES

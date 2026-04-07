@@ -54,7 +54,6 @@ related:
   - INS-260330-9033
   - INS-260323-3F30
   - INS-260329-4A69
-  - INS-260330-BEAD
 evidence:
   - id: INS-260330-9033
     type: SUPPORTS

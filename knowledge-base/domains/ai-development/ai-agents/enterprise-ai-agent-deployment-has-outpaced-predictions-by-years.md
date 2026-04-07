@@ -46,7 +46,6 @@ stance: >-
   deployment was a 2030 phenomenon.
 related:
   - INS-260325-BC2A
-  - INS-260325-F981
   - INS-260327-004B
   - INS-260405-5222
   - PRI-260406-C422

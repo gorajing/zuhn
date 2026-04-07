@@ -50,14 +50,14 @@ resolutions:
 related:
   - INS-260320-92CC
   - INS-260320-0511
-  - INS-260322-D079
   - PRI-260405-B144
+  - PRI-260407-7AE9
   - INS-260404-116E
   - INS-260321-B7CB
   - PRI-260323-8E89
   - INS-260327-0004
-  - INS-260325-C5FD
   - INS-260327-422B
+  - INS-260328-4717
 stance: >-
   AI model input costs have declined 99%+ in two years (faster than Moore's law)
   while quality doubles every 7 months

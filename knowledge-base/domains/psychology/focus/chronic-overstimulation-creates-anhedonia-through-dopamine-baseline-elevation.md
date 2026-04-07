@@ -46,11 +46,12 @@ stance: >-
   levels until normal activities can no longer produce relative pleasure.
 related:
   - PRI-260328-1654
+  - PRI-260407-3EB6
   - INS-260330-F9C1
   - INS-260330-0C31
   - INS-260330-2F9F
-  - INS-260330-9E25
   - INS-260327-4279
+  - INS-260330-9E25
   - INS-260330-1839
 evidence:
   - id: INS-260330-2F9F

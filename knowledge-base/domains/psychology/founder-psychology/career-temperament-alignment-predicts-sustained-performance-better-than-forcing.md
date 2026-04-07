@@ -61,7 +61,6 @@ stance: >-
   temperamentally mismatched roles
 related:
   - INS-260326-2259
-  - INS-260330-BA71
   - INS-260402-70FD
   - PRI-260406-69FC
   - PRI-260406-967A

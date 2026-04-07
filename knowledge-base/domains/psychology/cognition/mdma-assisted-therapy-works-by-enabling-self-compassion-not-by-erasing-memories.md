@@ -53,7 +53,6 @@ stance: >-
   than self-blame.
 related:
   - INS-260325-FBA0
-  - INS-260325-DF82
   - INS-260323-4ADE
   - INS-260323-6F94
   - PRI-260327-A7C5
@@ -62,6 +61,7 @@ related:
   - INS-260330-FE21
   - INS-260330-9743
   - PRI-260405-9D7B
+  - INS-260403-94CA
 evidence:
   - id: INS-260403-94CA
     type: TRANSFERS_TO

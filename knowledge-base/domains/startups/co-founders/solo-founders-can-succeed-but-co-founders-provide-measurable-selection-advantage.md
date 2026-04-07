@@ -44,14 +44,14 @@ stance: >-
   though solo founders are not categorically excluded.
 related:
   - INS-260322-8F3F
-  - PRI-260328-0C86
-  - INS-260402-910C
   - INS-260403-6553
   - INS-260403-37B9
   - INS-260403-26CD
   - INS-260326-967C
+  - PRI-260328-0C86
   - INS-260404-C9D0
   - INS-260403-5896
   - INS-260404-ECDF
+  - INS-260403-9F49
 ---
 A16Z Speedrun accepts solo founders, but the program explicitly flags strong co-founders as a clear advantage. This suggests accelerator selection committees view co-founding teams as risk-reduction signals — complementary skills, shared workload, and emotional resilience during the intense 12-week program. For solo founders considering application, this isn't disqualifying but does mean they need to compensate with stronger traction or exceptionally deep domain expertise to offset the perceived team risk.

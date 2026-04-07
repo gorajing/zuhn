@@ -45,10 +45,10 @@ stance: >-
   geopolitical risk
 related:
   - INS-260327-E72F
+  - PRI-260407-40F9
   - INS-260404-4758
   - INS-260405-7838
   - INS-260403-CF0E
-  - PRI-260322-9E36
 evidence:
   - id: INS-260330-4E10
     type: CONTRADICTS

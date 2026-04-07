@@ -51,11 +51,11 @@ stance: >-
   creates both opportunity and a funding gap that forces early-stage ventures to
   be more capital-efficient and market-aware
 related:
+  - PRI-260407-D50C
   - PRI-260405-E9C5
   - PRI-260406-070D
   - PRI-260406-CB40
   - INS-260403-D98E
-  - PRI-260406-1F70
   - INS-260403-8448
   - INS-260403-B255
 evidence:

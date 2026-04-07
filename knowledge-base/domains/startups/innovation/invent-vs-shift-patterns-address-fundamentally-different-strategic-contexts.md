@@ -48,13 +48,11 @@ stance: >-
   established companies require pattern-based shifting from outdated models, and
   conflating these two contexts leads to strategic failure
 related:
-  - INS-260329-ECB5
   - INS-260403-DDDC
   - INS-260405-1894
   - INS-260404-A375
   - INS-260404-FF0B
   - INS-260403-97F5
-  - INS-260404-93CD
   - INS-260403-F0AA
 evidence:
   - id: INS-260404-93CD

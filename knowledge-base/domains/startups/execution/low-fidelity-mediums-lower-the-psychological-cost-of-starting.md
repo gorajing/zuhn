@@ -51,7 +51,6 @@ stance: >-
   projects psychologically accessible by shrinking the gap between early and
   final work
 related:
-  - INS-260402-9D7B
   - INS-260403-1A6B
   - INS-260404-D147
   - INS-260404-D688

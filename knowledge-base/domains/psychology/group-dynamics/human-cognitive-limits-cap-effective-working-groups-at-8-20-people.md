@@ -45,6 +45,6 @@ related:
   - INS-260325-DFA5
   - PRI-260323-0F93
   - PRI-260405-C27E
-  - INS-260325-CB41
+  - PRI-260407-E7CD
 ---
 Cross-referencing hunter-gatherer anthropology, organizational research, and direct observation of startups reveals consistent natural group size limits. Groups of 8 work well with minimal coordination overhead. By 20, management friction appears. At 50, the group becomes unwieldy. Large companies create 10-person teams that superficially match this pattern but strip away individual initiative—they're 'fake tribes' that satisfy our social instincts while denying our need for autonomy. This explains why small company energy feels qualitatively different from big company team energy, even when team sizes are identical.

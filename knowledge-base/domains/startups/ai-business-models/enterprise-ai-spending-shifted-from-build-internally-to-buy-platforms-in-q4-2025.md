@@ -52,11 +52,11 @@ stance: >-
   like Salesforce Agentforce signals that enterprise AI has crossed from
   experimentation to procurement-driven adoption.
 related:
+  - PRI-260407-F704
   - INS-260405-77C9
   - INS-260321-4E98
   - INS-260403-8450
   - INS-260329-E193
-  - INS-260325-FDF5
 ---
 Q4 2025 saw $23.6 billion in enterprise AI-related deals, driven primarily by CIOs who tried and failed to build AI capabilities internally and are now purchasing platforms with autonomous digital labor built in. Salesforce's Agentforce is the canonical example — enterprises want agents that plug into their existing stack rather than science projects that require ML teams to maintain.
 

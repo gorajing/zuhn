@@ -48,10 +48,10 @@ stance: >-
 related:
   - INS-260327-725F
   - INS-260330-808B
+  - PRI-260407-C8FE
   - INS-260330-7E58
   - INS-260404-C13E
   - INS-260405-202B
-  - INS-260403-3062
 evidence:
   - id: INS-260330-808B
     type: EXTENDS

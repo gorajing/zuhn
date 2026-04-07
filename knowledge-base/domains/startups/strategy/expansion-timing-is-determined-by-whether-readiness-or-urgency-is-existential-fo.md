@@ -51,7 +51,6 @@ stance: >-
   risk comes from entering too early without product readiness or from entering
   too late against aggressive competitors.
 related:
-  - INS-260327-B64E
   - INS-260327-7D0B
   - PRI-260323-1B96
   - PRI-260406-992F

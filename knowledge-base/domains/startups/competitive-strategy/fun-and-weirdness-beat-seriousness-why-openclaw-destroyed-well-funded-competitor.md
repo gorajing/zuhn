@@ -51,11 +51,11 @@ resolutions:
     soulless corporate products, especially in developer-facing open-source
     tools.
 related:
+  - PRI-260407-7D5E
   - INS-260327-EE5E
   - INS-260402-E140
   - INS-260330-66A0
   - INS-260402-E2AF
-  - INS-260403-C949
 stance: >-
   OpenClaw beat every well-funded agentic AI startup because competitors 'all
   take themselves too seriously'

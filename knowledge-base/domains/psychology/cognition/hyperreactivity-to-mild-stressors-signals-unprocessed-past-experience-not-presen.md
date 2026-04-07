@@ -53,12 +53,11 @@ stance: >-
   unprocessed historical trauma than by personality flaws or poor
   self-regulation
 related:
-  - INS-260325-A9E0
   - PRI-260325-F21B
+  - PRI-260407-00A1
   - INS-260403-C55F
   - INS-260330-75B5
   - INS-260325-DF82
-  - PRI-260406-5ECB
 ---
 Van der Kolk describes Vietnam veterans who were passive most of the time but exploded from zero to ten when something disappointed them. This pattern — baseline numbness punctuated by explosive overreaction — is a signature of unresolved trauma. The body continues responding to mild stressors as if life is in danger.
 

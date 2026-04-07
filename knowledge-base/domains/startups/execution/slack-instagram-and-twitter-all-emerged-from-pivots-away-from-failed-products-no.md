@@ -51,9 +51,9 @@ related:
   - INS-260327-200C
   - INS-260330-E8C6
   - INS-260402-27A1
-  - INS-260402-9075
   - INS-260402-7B69
   - INS-260402-2B96
   - INS-260403-99B1
+  - INS-260403-CA1E
 ---
 Slack was the internal communication tool inside failed game Glitch. Instagram was the photo-sharing feature stripped from failing Foursquare clone Burbn. Twitter emerged from a brainstorm after Odeo was rendered obsolete by Apple's iTunes podcast support. In each case, the founders didn't predict their eventual product — they observed organic engagement patterns within or adjacent to their failing venture and pivoted toward that signal. This suggests that the real skill isn't visionary product design but disciplined attention to usage data during execution. Founders should instrument their products to surface unexpected engagement patterns and treat any organic traction — even in peripheral features — as a stronger signal than their original thesis.

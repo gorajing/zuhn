@@ -55,7 +55,6 @@ stance: >-
   between different groups than on the intelligence of individuals within those
   groups, and isolated populations reliably regress in cultural complexity.
 related:
-  - INS-260323-D934
   - INS-260327-1D3D
   - PRI-260406-3913
   - INS-260403-F8B5

@@ -49,11 +49,11 @@ stance: >-
   fundamental category error that essentializes trauma as existing in the event
   rather than in the individual's response.
 related:
+  - PRI-260407-00A1
   - PRI-260325-F21B
   - INS-260325-3754
   - INS-260403-79AF
   - PRI-260405-9D7B
-  - INS-260403-7639
   - INS-260325-C2DA
   - INS-260325-BBF1
   - INS-260326-6D53

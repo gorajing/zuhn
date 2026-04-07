@@ -51,9 +51,9 @@ stance: >-
 related:
   - INS-260403-0BE9
   - PRI-260406-C932
+  - PRI-260407-D50C
   - INS-260403-968A
   - INS-260403-5056
-  - INS-260403-9FEB
 ---
 Crunchbase data from mid-2025 reveals that 11 AI startups captured approximately one-third of all venture capital deployed that year. This concentration effect creates a bifurcated market: megafunds thrive by writing massive checks into proven AI infrastructure plays, while emerging managers and startups outside major tech hubs struggle to compete for attention and capital.
 

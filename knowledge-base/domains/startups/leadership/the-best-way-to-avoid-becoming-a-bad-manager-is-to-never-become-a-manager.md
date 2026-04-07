@@ -45,7 +45,6 @@ stance: >-
   startups where peer consensus replaces hierarchical management.
 related:
   - INS-260330-48C6
-  - INS-260403-22DF
   - INS-260403-9680
   - INS-260403-4CD0
   - INS-260330-0346

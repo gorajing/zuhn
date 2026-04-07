@@ -53,11 +53,11 @@ stance: >-
   cloud-based SaaS absorbed on-premise software rather than eliminating it
   entirely.
 related:
+  - PRI-260407-F704
   - INS-260325-F451
   - INS-260403-B198
   - INS-260403-BAE1
   - INS-260403-4314
-  - INS-260322-5678
 ---
 When cloud-based SaaS emerged, many predicted the death of on-premise software. What actually happened was more nuanced: on-premise didn't vanish, it adapted. Companies like Microsoft transitioned from boxed software to cloud subscriptions. The same pattern is playing out with AI and SaaS. Salesforce embedded Einstein AI, Microsoft added Copilot to 365, and Notion integrated AI features — they're absorbing the threat rather than being replaced by it.
 

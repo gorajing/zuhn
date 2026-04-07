@@ -52,7 +52,6 @@ stance: >-
   application complexity (single-page → full-stack → production).
 related:
   - INS-260325-175B
-  - INS-260330-36DB
   - INS-260330-77BB
   - INS-260330-77A2
   - INS-260403-CCC3

@@ -46,7 +46,6 @@ stance: >-
   new ones is not a nice-to-have but the defining capability that separates
   companies that survive disruption from those that don't
 related:
-  - INS-260403-F0DF
   - PRI-260406-5F31
   - INS-260403-E3C4
   - PRI-260328-43F1

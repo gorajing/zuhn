@@ -56,12 +56,11 @@ stance: >-
   competitors have systematically higher success rates because most founders
   self-select away from them, leaving massive opportunities on the table.
 related:
-  - INS-260323-5F8A
+  - PRI-260407-7D5E
   - INS-260330-66A0
   - PRI-260405-E256
   - INS-260403-AEB3
   - INS-260403-C949
-  - INS-260404-CA58
   - INS-260403-8A8B
 evidence:
   - id: INS-260330-D644

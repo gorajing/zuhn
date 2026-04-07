@@ -42,13 +42,13 @@ stance: >-
   deals rather than a broadly recovering funding market.
 related:
   - INS-260405-5F16
-  - INS-260404-D5B5
   - INS-260403-5941
   - INS-260403-A9F3
+  - INS-260404-D5B5
   - PRI-260406-97BB
   - INS-260404-50AC
+  - PRI-260407-D50C
   - INS-260403-5F8B
-  - INS-260405-6342
   - INS-260404-9905
 ---
 Crunchbase data shows median round sizes increasing across U.S. startup funding in the first half of 2024. This is counterintuitive given the broader narrative of a funding winter. The likely explanation is capital concentration — investors are writing fewer checks but making them larger, funneling money into perceived winners rather than spreading bets widely. For founders, this means the bar to raise has gotten higher, but those who clear it can expect larger rounds. The practical implication is that fundraising strategy should optimize for being in the top tier of investable companies rather than trying to raise in a mediocre middle ground.

@@ -60,13 +60,12 @@ stance: >-
   because it follows the concrete-to-abstract gradient that matches how human
   cognition naturally generalizes.
 related:
-  - INS-260322-3537
-  - INS-260323-B309
   - INS-260329-6936
   - INS-260329-E4F6
   - INS-260329-70F2
   - PRI-260406-2903
   - PRI-260406-FA5B
+  - INS-260323-B309
   - INS-260329-74E5
 evidence:
   - id: INS-260322-3537

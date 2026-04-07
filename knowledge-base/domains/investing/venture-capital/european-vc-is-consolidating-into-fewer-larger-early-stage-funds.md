@@ -44,7 +44,6 @@ stance: >-
   Ventures' $500M signals that emerging managers face an increasingly
   winner-take-all funding landscape in Europe
 related:
-  - INS-260327-2043
   - INS-260327-5CB6
   - INS-260403-287B
   - INS-260403-3AEE
@@ -52,7 +51,7 @@ related:
   - INS-260405-B4D2
   - INS-260405-6EE5
   - INS-260403-6E4C
-  - PRI-260406-6C6C
+  - PRI-260407-D50C
 ---
 Cherry Ventures securing $500M for early-stage European startups represents a broader trend of capital consolidation in European venture. When established firms can raise funds of this magnitude for early-stage deals, they crowd out smaller managers competing for the same deals.
 

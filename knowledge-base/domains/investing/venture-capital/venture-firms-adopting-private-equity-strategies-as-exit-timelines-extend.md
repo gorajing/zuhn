@@ -53,9 +53,9 @@ related:
   - INS-260403-2FF2
   - INS-260403-3562
   - INS-260403-6044
-  - INS-260404-970B
   - INS-260404-F493
   - INS-260404-DBD1
+  - INS-260403-1EE4
 ---
 With IPO windows narrowing and M&A activity constrained by regulatory and economic pressures, venture firms are pivoting toward private equity strategies — focusing on acquisitions, operational improvements, and AI-driven growth rather than waiting for traditional exits. This represents a structural shift in how venture returns are generated.
 

@@ -56,10 +56,10 @@ stance: >-
   that try to avoid all cost spikes
 related:
   - INS-260329-EF14
+  - PRI-260407-5465
   - PRI-260403-40D7
   - INS-260329-4696
   - INS-260330-F5A1
-  - INS-260403-16EA
 evidence:
   - id: INS-260329-4696
     type: EXTENDS

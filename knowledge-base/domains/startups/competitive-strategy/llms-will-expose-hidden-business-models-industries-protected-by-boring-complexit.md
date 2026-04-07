@@ -47,7 +47,6 @@ resolutions:
     the complexity disappear for the customer. The incumbents won't see it
     coming because they don't think of complexity as their business model.
 related:
-  - INS-260325-FA70
   - PRI-260324-A608
   - INS-260403-CA57
   - INS-260403-52DB
@@ -56,7 +55,8 @@ related:
   - INS-260327-D285
   - INS-260328-57CF
   - INS-260330-1243
-  - INS-260330-D031
+  - INS-260402-E2FF
+  - INS-260403-BB22
 stance: >-
   Industries whose profitability depends on making processes boring, difficult,
   and time-consuming are most vulnerable to LLM disruption

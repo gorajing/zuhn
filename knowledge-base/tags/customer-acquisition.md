@@ -1,5 +1,6 @@
 # Tag: customer-acquisition
 
+- `INS-260324-8D35` FanDuel and DraftKings are spending billions on advertising and sign-up bonuses to acquire users in newly legal states before the regulatory window closes — the same blitzscaling playbook as Uber.
 - `INS-260324-D90C` Casper, Warby Parker, and Dollar Shave Club promised that cutting out retailers would lower costs — but they replaced wholesale margins with massive advertising budgets and ended up spending more on customer acquisition than retailers spent on shelf space.
 - `INS-260403-E78B` High CAC only pays off when switching costs or lock-in mechanisms prevent customer churn to competitors.
 - `INS-260405-631B` Costco's $60 annual fee screens out price-sensitive customers and concentrates a cohort with ~$100k average household income and 90% annual renewal.
@@ -17,4 +18,3 @@
 - `INS-260403-C5FA` Becoming a trusted insider in customer communities creates pipelines that paid marketing cannot replicate.
 - `INS-260329-4020` Give massive value for free to 100 people without asking for anything — a handful will respond, creating more income than most jobs and establishing genuine credibility.
 - `INS-260329-12EC` Reach out to 100 people per day through free warm channels (social media, email, communities) to generate first customers without advertising spend.
-- `INS-260324-8D35` FanDuel and DraftKings are spending billions on advertising and sign-up bonuses to acquire users in newly legal states before the regulatory window closes — the same blitzscaling playbook as Uber.

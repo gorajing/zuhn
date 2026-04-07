@@ -57,8 +57,8 @@ related:
   - INS-260330-8326
   - INS-260330-809A
   - INS-260404-7E24
+  - PRI-260407-F704
   - INS-260403-1115
-  - INS-260403-8A28
 ---
 Canva acquiring Leonardo AI — a leading image generation model company — signals a broader strategic pattern: established design and creative platforms are choosing acquisition over internal R&D to rapidly integrate generative AI capabilities. Building competitive foundation models requires massive compute, data, and talent that incumbents cannot assemble in time to stay relevant.
 

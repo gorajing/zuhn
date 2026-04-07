@@ -45,11 +45,11 @@ stance: >-
   Individual decision-makers produce better designs than committees because they
   can take risks that groups would never approve.
 related:
+  - PRI-260407-C737
   - INS-260402-AEA1
   - INS-260405-8732
   - INS-260402-086D
   - PRI-260406-1993
-  - PRI-260406-A5F0
 evidence:
   - id: INS-260405-8732
     type: SUPPORTS

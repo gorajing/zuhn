@@ -57,7 +57,6 @@ related:
   - INS-260405-B88A
   - INS-260403-ACB2
   - INS-260403-BACA
-  - INS-260403-FA12
   - INS-260403-E9F5
 ---
 Companies face a perverse incentive structure around human-AI complementarity: investing in figuring out how humans work best with AI is expensive, and the insights quickly leak to competitors. This makes on-the-job training and workflow experimentation a public good that's systematically underproduced. The result is companies default to replacing humans with AI even when the combined human+AI approach would be more productive.

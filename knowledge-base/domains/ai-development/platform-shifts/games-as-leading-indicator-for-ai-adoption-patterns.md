@@ -51,10 +51,10 @@ stance: >-
   frontier playground for AI breakthroughs.
 related:
   - INS-260325-4846
+  - PRI-260407-A13C
   - INS-260403-2A92
+  - PRI-260407-F704
   - INS-260329-E208
-  - PRI-260406-7FE4
-  - INS-260403-FF65
 evidence:
   - id: INS-260402-580C
     type: EXTENDS

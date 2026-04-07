@@ -51,10 +51,10 @@ stance: >-
   pursuit.
 related:
   - INS-260329-D481
+  - PRI-260407-86E6
   - PRI-260406-90C7
   - PRI-260323-2C5C
   - INS-260403-DFBD
-  - INS-260325-D9D8
 ---
 Graham's essay ends with a powerful reframing: in a world of accelerating addictiveness, the scarce resource isn't opportunity or information — it's the ability to say no. The people who get things done will be those who develop personal customs for refusal before society develops collective ones.
 

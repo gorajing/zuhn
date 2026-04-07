@@ -55,10 +55,10 @@ stance: >-
   collapse even if equilibrium wages remain healthy
 related:
   - INS-260403-699F
+  - PRI-260407-023B
   - PRI-260328-D292
   - INS-260405-C592
   - INS-260403-3E9A
-  - INS-260321-1A0B
 ---
 The Rust Belt and China Shock demonstrate that humans and institutions are far less adaptable than economic models assume. If comparative advantage shifts rapidly — making 'doctor' a human job one decade and an AI job the next, then human again when opportunity costs rise — the institutions supporting that work (medical schools, premed programs, licensing bodies) would collapse during the interregnum and couldn't reconstitute quickly.
 

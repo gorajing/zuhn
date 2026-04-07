@@ -53,11 +53,11 @@ stance: >-
   services company that does the work alongside AI creates feedback loops and
   telemetry that a pure software company cannot replicate.
 related:
+  - PRI-260407-B808
   - INS-260323-BF81
   - INS-260327-94F5
   - INS-260330-56B2
   - INS-260330-8FD6
-  - INS-260327-0700
 evidence:
   - id: INS-260323-BF81
     type: CHALLENGES

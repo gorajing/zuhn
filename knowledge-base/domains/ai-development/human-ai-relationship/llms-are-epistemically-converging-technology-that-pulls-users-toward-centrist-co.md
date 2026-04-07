@@ -59,8 +59,8 @@ related:
   - INS-260329-92C3
   - PRI-260328-C006
   - INS-260323-B309
+  - PRI-260407-7FB7
   - PRI-260328-1D90
-  - INS-260321-7D7C
   - INS-260404-60A6
 ---
 Unlike social media, which fragments reality by letting users self-select into echo chambers, LLMs present something closer to the average opinion of the full population. When a partisan user talks to an AI, they're indirectly engaging with viewpoints from across the spectrum — not just their curated social circle. Research from John Burn-Murdoch at the Financial Times confirms that all major chatbots (Grok, GPT, Gemini, DeepSeek) nudge users away from extreme positions toward more moderate, expert-aligned stances.

@@ -4,10 +4,10 @@
 - `INS-260329-55F7` People trust their own conclusions far more than anything a salesperson tells them, so guide them to discover the answer rather than asserting it.
 - `INS-260325-3B2A` Getting on the plane to meet someone in person, even for 15 minutes, creates a signal of commitment that consistently beats remote communication in closing deals.
 - `INS-260323-1CA4` Cuban redefines selling as simply asking 'can my product help this person?' — a learnable skill that requires empathy and domain knowledge, not innate charisma.
-- `INS-260322-EF20` Early-stage founders should paint a picture of how the customer's life changes with the product, not enumerate features.
 - `INS-260405-5CCD` The champion, not the salesperson, is the real closer in bottom-up enterprise deals.
-- `INS-260403-AFCD` Showing customers they are already vulnerable builds trust faster than any pitch deck or feature demo.
+- `INS-260322-EF20` Early-stage founders should paint a picture of how the customer's life changes with the product, not enumerate features.
 - `INS-260405-6387` The deck opens the door; the meeting closes it—optimize for curiosity, not completeness.
+- `INS-260403-AFCD` Showing customers they are already vulnerable builds trust faster than any pitch deck or feature demo.
 - `INS-260405-7F06` Generic differentiation claims ('we're easier to use') backfire; specific, verifiable claims with proof points are what actually move buyers.
 - `INS-260329-7B47` Send 100 personalized outreach messages daily using a compliment-plus-positioning formula to guarantee your first five customers through pure volume.
 - `INS-260330-7D07` Top salespeople spend only 30% of the call talking and 70% listening to understand the prospect's problem.

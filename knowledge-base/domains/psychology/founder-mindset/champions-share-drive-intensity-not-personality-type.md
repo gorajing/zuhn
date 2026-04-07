@@ -45,10 +45,10 @@ stance: >-
   abnormal level of drive that separates them from equally talented peers
 related:
   - PRI-260406-69FC
+  - PRI-260407-F684
   - INS-260403-7CD3
   - INS-260329-19B3
   - PRI-260328-DD6A
-  - INS-260404-91B8
 evidence:
   - id: INS-260329-FC53
     type: CHALLENGES

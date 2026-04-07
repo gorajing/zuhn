@@ -50,10 +50,10 @@ stance: >-
   Live operations capability creates a compounding competitive moat because each
   iteration makes the product more personalized and harder to replicate.
 related:
-  - INS-260325-FD14
   - PRI-260328-49CB
   - INS-260402-55FB
   - PRI-260406-E602
+  - PRI-260407-AF64
   - PRI-260328-DF2D
   - INS-260329-E8EB
 evidence:

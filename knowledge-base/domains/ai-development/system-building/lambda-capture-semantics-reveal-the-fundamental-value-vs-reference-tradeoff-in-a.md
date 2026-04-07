@@ -48,11 +48,11 @@ stance: >-
   system boundaries determines coupling, debuggability, and failure modes more
   than any other architectural decision.
 related:
+  - PRI-260407-4EC8
   - INS-260329-BAB7
   - PRI-260406-8EBD
   - INS-260330-47E0
   - PRI-260406-1F31
-  - INS-260404-21E6
 evidence:
   - id: INS-260330-A0AE
     type: SUPPORTS

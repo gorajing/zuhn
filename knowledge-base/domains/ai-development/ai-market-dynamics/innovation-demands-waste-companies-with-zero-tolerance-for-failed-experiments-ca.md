@@ -44,10 +44,10 @@ resolutions:
     how to innovate — which doesn't appear on quarterly reports.
 related:
   - PRI-260406-A5F0
+  - PRI-260407-C737
   - INS-260403-472E
   - INS-260405-7BA5
   - INS-260404-9C4C
-  - INS-260405-7A7C
 stance: >-
   If every AI project must show predictable ROI, you're structurally incapable
   of innovation — the first pancake is always burned.

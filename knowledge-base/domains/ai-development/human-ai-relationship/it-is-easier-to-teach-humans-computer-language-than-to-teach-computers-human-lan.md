@@ -51,11 +51,11 @@ stance: >-
   understanding is so vast that learning to program will remain more practical
   than natural language interfaces for decades of complex tasks.
 related:
-  - INS-260323-EECF
   - INS-260329-EDA2
+  - PRI-260407-ED1C
+  - INS-260323-EECF
   - INS-260329-FEC5
   - INS-260325-C7FA
-  - INS-260327-2C5F
 evidence:
   - id: INS-260327-2C5F
     type: CONTRADICTS

@@ -44,7 +44,7 @@ related:
   - INS-260325-3FD3
   - INS-260325-B463
   - PRI-260325-638B
+  - PRI-260407-9D41
   - INS-260327-7E2F
-  - INS-260327-4C6D
 ---
 Burning feet sensation is most commonly caused by vitamin B1 (thiamine) deficiency, insulin resistance-driven peripheral neuropathy, or B12 deficiency -- all reversible nutritional causes rather than permanent structural nerve damage

@@ -47,7 +47,6 @@ stance: >-
   reduces recovery time and emotional disruption when failure inevitably occurs.
 related:
   - INS-260323-EDAD
-  - INS-260327-A75B
   - INS-260327-24F4
   - INS-260329-87BA
   - INS-260329-8B1C
@@ -56,6 +55,7 @@ related:
   - INS-260330-D7CC
   - INS-260330-97F6
   - INS-260330-7EDF
+  - INS-260402-7FCC
 evidence:
   - id: INS-260323-EDAD
     type: SUPPORTS

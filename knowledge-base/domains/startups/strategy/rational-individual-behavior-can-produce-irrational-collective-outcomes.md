@@ -45,8 +45,8 @@ related:
   - INS-260325-7974
   - PRI-260406-6762
   - INS-260404-34DB
+  - PRI-260407-023B
   - INS-260403-6340
-  - INS-260330-C8D7
   - INS-260326-7F56
 stance: >-
   What is rational for one person can be irrational for the group — rational

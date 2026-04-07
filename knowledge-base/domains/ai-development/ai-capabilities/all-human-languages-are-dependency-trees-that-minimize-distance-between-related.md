@@ -61,7 +61,6 @@ related:
   - INS-260403-0550
   - INS-260330-B8C6
   - INS-260329-FEC5
-  - INS-260329-A171
   - INS-260330-80AF
 stance: >-
   Every sentence in every language forms a tree structure where each word

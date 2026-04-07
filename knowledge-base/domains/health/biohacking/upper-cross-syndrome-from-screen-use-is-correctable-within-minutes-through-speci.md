@@ -40,10 +40,10 @@ stance: >-
   and lower trapezius while stretching tight pectorals and upper traps
 related:
   - INS-260325-3306
+  - PRI-260407-3EB6
   - INS-260325-9B9A
   - INS-260330-6C6B
   - PRI-260328-1654
-  - INS-260325-9F01
 evidence:
   - id: INS-260325-9B9A
     type: SUPPORTS

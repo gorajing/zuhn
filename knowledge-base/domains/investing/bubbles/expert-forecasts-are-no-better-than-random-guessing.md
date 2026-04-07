@@ -49,7 +49,7 @@ related:
   - PRI-260406-4358
   - INS-260323-15F4
   - INS-260323-BA17
-  - INS-260323-422B
+  - PRI-260407-40F9
 evidence:
   - id: INS-260323-15F4
     type: SUPPORTS

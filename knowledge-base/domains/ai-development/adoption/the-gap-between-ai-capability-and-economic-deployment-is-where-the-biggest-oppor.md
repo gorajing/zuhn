@@ -52,11 +52,11 @@ stance: >-
 related:
   - INS-260321-2241
   - INS-260404-3043
+  - PRI-260407-A13C
   - INS-260403-976C
   - PRI-260328-4CC0
   - PRI-260322-9E36
   - INS-260325-4846
-  - PRI-260328-A82C
 ---
 Dario identifies two distinct exponentials: the capability curve (model performance improving at research speed) and the adoption curve (economic deployment moving at institutional speed). Both are fast, but neither is instant, and there's always a lag between what AI can do and what organizations actually use it for.
 

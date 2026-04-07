@@ -55,11 +55,11 @@ stance: >-
   cognitive blind spot where people cannot believe their distress is temporary,
   leading to overestimation of lasting psychological damage.
 related:
+  - PRI-260407-00A1
   - PRI-260325-F21B
   - INS-260325-3754
   - INS-260325-DF82
   - INS-260325-F707
-  - INS-260325-5C03
   - INS-260330-7DB6
   - INS-260402-A558
   - INS-260404-D6D4

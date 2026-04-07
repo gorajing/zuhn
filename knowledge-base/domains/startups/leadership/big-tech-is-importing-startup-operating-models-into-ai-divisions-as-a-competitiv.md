@@ -55,8 +55,8 @@ related:
   - INS-260403-407A
   - INS-260403-24AE
   - INS-260404-D149
-  - INS-260403-84E1
   - INS-260403-8832
   - INS-260403-3852
+  - INS-260403-2318
 ---
 Meta's Superintelligence Labs reorganization is not just a headcount optimization — it's a structural acknowledgment that the startup operating model (small team, fast iteration, minimal coordination overhead) is the correct one for frontier AI development. By bringing in founders like Alexandr Wang (Scale AI) and Nat Friedman (GitHub) to lead divisions, Meta is also importing founder-mode decision-making into what was previously a research-oriented culture. This reflects a broader pattern: the companies winning in AI are those that have the most startup-like internal units, regardless of overall company size. The inverse implication is that AI labs organized like traditional R&D departments — with large headcounts, multi-layer approvals, and academic publication cycles — will structurally lag behind on deployment speed.

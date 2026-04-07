@@ -52,10 +52,10 @@ related:
   - INS-260327-D7AA
   - INS-260329-59D2
   - INS-260330-7FFE
-  - INS-260403-8BE9
   - INS-260329-DFDD
   - PRI-260406-B314
+  - PRI-260407-40F9
   - INS-260327-679A
-  - INS-260327-E3CA
+  - INS-260403-8BE9
 ---
 Creandum faced a classic positioning problem: a Nordic VC trying to compete in London and Berlin would be dismissed as 'a cousin from the countryside.' Instead of attacking those markets directly, they opened in San Francisco first. The US connection transformed their brand from regional Nordic firm to international investor, making them attractive to German and later British founders. Staffan calls this a 'pincer movement.' The principle generalizes: when entering a market where you lack status, find an adjacent high-status market where you can compete, build credibility there, then re-enter your target from a position of strength. This applies to startups entering enterprise from SMB, consumer brands going premium through collaborations, or any entity needing to reposition before it can compete directly.

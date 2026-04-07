@@ -55,8 +55,8 @@ related:
   - INS-260405-6EE5
   - INS-260405-2F43
   - INS-260404-5E22
+  - PRI-260407-D50C
   - INS-260405-D4FA
-  - PRI-260406-8F89
 ---
 A significant structural shift is underway in venture capital: the biggest firms (Sequoia, a16z, Benchmark, etc.) are increasingly moving downstream toward later-stage, de-risked deals. This creates an opportunity gap at the earliest stages where micro-VCs and operator-angels are becoming the fastest path to capital. The dynamics vary by firm — a16z led with 25+ AI deals in 2025, Sequoia channels seed through its Arc program, and Benchmark does fewer deals than any top-tier fund.
 

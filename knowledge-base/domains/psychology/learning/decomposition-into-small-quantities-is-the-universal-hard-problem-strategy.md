@@ -46,7 +46,6 @@ stance: >-
   monolithic whole.
 related:
   - INS-260325-2F12
-  - INS-260325-898A
   - INS-260325-03D5
   - INS-260325-5FE9
   - INS-260325-28AD
@@ -55,6 +54,7 @@ related:
   - INS-260330-1E5E
   - INS-260403-FC4F
   - PRI-260406-D3E4
+  - INS-260330-64D8
 evidence:
   - id: INS-260329-0CC5
     type: TRANSFERS_TO

@@ -45,11 +45,11 @@ resolutions:
     (Linus's Law failed here) but structural investment in dependency auditing
     and maintainer support.
 related:
+  - PRI-260407-E7CD
   - PRI-260403-C34A
   - INS-260404-20F3
   - INS-260330-5E47
   - INS-260323-A8B5
-  - PRI-260406-6AE6
 stance: >-
   The XZ backdoor nearly succeeded because the entire Linux ecosystem depended
   on a compression tool maintained by one burned-out volunteer for 20 ye...

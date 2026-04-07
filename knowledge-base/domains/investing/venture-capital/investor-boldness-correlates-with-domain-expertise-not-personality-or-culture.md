@@ -46,7 +46,6 @@ stance: >-
   by deeper startup understanding, not by risk tolerance as a character trait.
 related:
   - INS-260325-5A72
-  - INS-260330-2413
   - INS-260330-5BC4
   - INS-260404-7F24
   - PRI-260405-0099
@@ -55,6 +54,7 @@ related:
   - INS-260404-78C7
   - INS-260403-4717
   - INS-260403-D882
+  - INS-260403-8291
 evidence:
   - id: INS-260325-5A72
     type: CHALLENGES

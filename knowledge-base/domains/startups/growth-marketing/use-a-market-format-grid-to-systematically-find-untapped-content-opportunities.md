@@ -41,7 +41,7 @@ related:
   - PRI-260321-558C
   - PRI-260406-F51A
   - INS-260403-20F7
-  - INS-260403-1284
+  - PRI-260407-40F9
 stance: >-
   Write a proven format at the top of a grid, list all markets down the side,
   mark where the combination exists — empty cells are your blue ocean.

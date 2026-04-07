@@ -51,10 +51,10 @@ related:
   - PRI-260405-0AC6
   - INS-260323-4457
   - INS-260403-49FB
+  - PRI-260407-6F21
   - INS-260330-E39E
   - INS-260323-7F3E
   - INS-260326-C305
-  - INS-260327-4754
 stance: Pincus argues MVP takes too long to fail
 evidence:
   - id: INS-260322-1D52

@@ -54,11 +54,11 @@ stance: >-
   candidates without any sales experience but with the right traits consistently
   outperform experienced hires who lack them.
 related:
-  - INS-260326-7B2A
   - PRI-260328-E870
+  - INS-260326-7B2A
+  - PRI-260407-2ACF
   - INS-260403-1DC9
   - INS-260330-A69C
-  - PRI-260405-608A
   - INS-260327-CEA6
   - INS-260327-A3E9
   - INS-260329-62C1

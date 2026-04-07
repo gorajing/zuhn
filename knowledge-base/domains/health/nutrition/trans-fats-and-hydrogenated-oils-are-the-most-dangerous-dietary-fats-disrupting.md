@@ -43,11 +43,11 @@ related:
   - INS-260325-A03E
   - INS-260327-1E87
   - INS-260327-3EEF
-  - INS-260327-C8EB
   - INS-260327-4B8B
   - INS-260327-FF4A
   - INS-260327-2EF6
   - PRI-260328-40CA
   - PRI-260328-7FC4
+  - INS-260330-A92A
 ---
 Trans fats created by hydrogenation incorporate into cell membranes in place of natural fats, disrupting membrane fluidity, receptor function, and creating chronic inflammation at the cellular level

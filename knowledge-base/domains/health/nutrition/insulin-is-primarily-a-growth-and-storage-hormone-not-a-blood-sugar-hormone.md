@@ -54,11 +54,11 @@ stance: >-
   even with normal blood glucose, meaning the disease is insulinemia, not
   glycemia.
 related:
-  - INS-260325-81BD
+  - PRI-260407-9D41
   - INS-260327-FC60
+  - INS-260325-81BD
   - PRI-260325-9258
   - INS-260325-A03D
-  - PRI-260328-7AF5
 ---
 Lustig reframes the entire diabetes paradigm: insulin is not 'the diabetes hormone' but 'the energy storage hormone.' The PADIRKO mouse is the key evidence — this transgenic mouse lacks insulin receptors only in the kidney. It has normal blood glucose, normal glucose tolerance, normal weight, but develops devastating diabetic nephropathy. Since glucose levels are normal, the kidney damage cannot be caused by glucose — it must be caused by circulating insulin acting elsewhere in the body.
 

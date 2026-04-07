@@ -57,7 +57,6 @@ related:
   - INS-260403-0661
   - INS-260330-1293
   - INS-260327-15E1
-  - INS-260403-7848
 ---
 Smith identifies a repeating pattern in progressive-led cities: liberals build functional public goods (libraries, parks, transit, walkable neighborhoods), then progressives demand those institutions absorb functions they weren't designed for — libraries become homeless shelters, transit becomes unsafe, parks become open drug markets. Portland exemplifies this: it went from a celebrated liberal city to having the second-highest crime rate in America, with 40% of fires caused by unchecked vagrancy.
 

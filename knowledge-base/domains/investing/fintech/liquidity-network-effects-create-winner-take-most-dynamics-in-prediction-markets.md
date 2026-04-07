@@ -57,10 +57,10 @@ stance: >-
   flywheel that favors platforms achieving early liquidity critical mass
 related:
   - PRI-260406-D106
+  - PRI-260407-40F9
   - PRI-260406-311D
   - INS-260404-4758
   - INS-260330-0294
-  - INS-260323-422B
 ---
 Without sufficient liquidity, small trades cause large price swings and wide bid-ask spreads, degrading the market's core value proposition of accurate price discovery. As volume increases, spreads tighten, signals sharpen, and the market becomes more useful — pulling in additional participants.
 

@@ -48,11 +48,11 @@ resolutions:
     moment theoretical progress becomes tangible is the founder skill that
     created Cursor.
 related:
+  - PRI-260407-A13C
   - INS-260327-6177
   - INS-260403-4803
   - INS-260323-6C6F
   - PRI-260323-8E89
-  - INS-260323-7EEB
 stance: >-
   The Cursor founders saw the 2020 scaling laws papers as predictable progress,
   but early GPT-4 access in late 2022 made the theoretical gains concre...

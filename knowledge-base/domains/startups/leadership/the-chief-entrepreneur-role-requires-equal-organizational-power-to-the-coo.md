@@ -48,11 +48,11 @@ stance: >-
   antibodies from the execution engine will kill new ventures unless the
   innovation leader has C-suite prestige and power
 related:
+  - PRI-260407-3179
   - PRI-260406-CBC2
   - INS-260405-9FD9
   - PRI-260406-6122
   - INS-260403-A2E9
-  - PRI-260406-BD4D
   - INS-260403-C8FD
 ---
 Osterwalder and Pigneur insist that the Chief Entrepreneur must have 'prestige and power'—not just a title, but genuine organizational authority equal to the execution side of the house. This is a specific structural prescription, not just a platitude about valuing innovation.

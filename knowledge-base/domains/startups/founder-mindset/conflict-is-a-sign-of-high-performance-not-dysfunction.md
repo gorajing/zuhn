@@ -48,7 +48,6 @@ stance: >-
   which leads to better decisions.
 related:
   - INS-260321-3C8A
-  - INS-260323-E2DD
   - INS-260323-7866
   - INS-260323-D621
   - INS-260325-8B36
@@ -57,6 +56,7 @@ related:
   - INS-260403-7BCF
   - INS-260403-B73A
   - INS-260327-4CCE
+  - INS-260327-29F0
 evidence:
   - id: INS-260321-3C8A
     type: CHALLENGES

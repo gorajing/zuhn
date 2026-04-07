@@ -58,11 +58,12 @@ related:
   - PRI-260406-806C
   - INS-260325-ADF5
   - INS-260403-EFAF
+  - PRI-260407-7C1A
   - PRI-260328-5CDE
-  - INS-260403-3AEE
   - INS-260327-9192
   - INS-260327-CED9
   - INS-260404-B18A
+  - INS-260403-3AEE
 stance: >-
   A portfolio founder assigned two AI-native engineers with unlimited budgets on
   Claude Code, Codex, and Cursor and saw 10-20x faster progress

@@ -47,11 +47,11 @@ resolutions:
     with me — there's something there.' Good ideas are fragile in their early
     stages, with many easy objections, and need protection to survive.
 related:
+  - PRI-260407-3179
   - INS-260323-4457
   - INS-260402-4605
   - INS-260405-F1A2
   - INS-260323-19A8
-  - PRI-260328-9EC9
   - INS-260402-1F58
 stance: >-
   True invention (not incremental improvement) requires permission to wander

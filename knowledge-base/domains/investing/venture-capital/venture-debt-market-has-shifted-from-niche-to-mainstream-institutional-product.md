@@ -51,10 +51,10 @@ stance: >-
   fundraising strategy for VC-backed startups.
 related:
   - PRI-260406-53BC
+  - PRI-260407-93D7
   - PRI-260406-B702
   - INS-260327-1555
   - INS-260404-F54F
-  - INS-260403-7CAF
 ---
 Venture debt has evolved from a niche product offered by a handful of specialized banks (primarily SVB) into a mainstream institutional market with multiple provider categories: venture banks (First Citizens/SVB, HSBC Innovation Banking, Bridge Bank), specialty lenders (Hercules Capital, TriplePoint, Runway Growth Capital), and dedicated venture debt funds (InnoVen, Stride Ventures, Alteria Capital, Columbia Lake). Deal sizes have increased significantly, and the product is now available globally.
 

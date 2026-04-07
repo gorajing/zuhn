@@ -51,14 +51,14 @@ stance: >-
 related:
   - INS-260325-4E88
   - INS-260325-F8D2
-  - INS-260325-A03D
   - INS-260325-81BD
-  - INS-260325-0BB0
   - PRI-260325-9258
   - INS-260327-1309
   - INS-260327-1F6E
   - INS-260327-DEE0
   - INS-260327-A6B6
+  - INS-260327-A17A
+  - INS-260327-C010
 ---
 The mechanism: pure sucrose or high fructose corn syrup feeds pathogenic bacteria in the gut, causing dysbiosis and elevated lipopolysaccharide (endotoxin). Endotoxin binds TLR4 receptors, triggering TNF-alpha, IL-6, and inflammatory cytokines that directly cause insulin resistance. Cultures eating 95% carbohydrate from whole foods do not develop diabetes.
 

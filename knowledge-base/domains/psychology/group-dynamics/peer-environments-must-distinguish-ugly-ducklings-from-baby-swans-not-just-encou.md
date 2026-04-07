@@ -50,7 +50,6 @@ stance: >-
   promising early work from hopeless work, not one that encourages everything
 related:
   - INS-260322-1C17
-  - INS-260402-E36A
   - INS-260403-5D18
   - INS-260403-F657
   - INS-260403-2BAF
@@ -59,6 +58,7 @@ related:
   - INS-260404-8031
   - INS-260403-5216
   - INS-260403-1228
+  - INS-260403-D417
 ---
 Graham identifies a subtle trap in the advice to 'surround yourself with supportive people.' Collecting people who are always encouraging is counterproductive because you learn to discount their praise. What you actually need are colleagues with the discernment to tell an ugly duckling from a baby swan — people who can see promise in rough early work without being indiscriminate cheerleaders.
 

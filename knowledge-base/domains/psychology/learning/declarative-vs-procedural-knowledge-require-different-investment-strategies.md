@@ -55,7 +55,6 @@ related:
   - INS-260330-AE22
   - INS-260323-D400
   - INS-260403-C135
-  - INS-260403-6EA6
 evidence:
   - id: INS-260329-B2F4
     type: SUPPORTS

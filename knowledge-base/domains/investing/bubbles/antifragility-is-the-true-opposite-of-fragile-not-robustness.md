@@ -53,9 +53,9 @@ stance: >-
 related:
   - PRI-260327-0AA2
   - INS-260325-DF82
+  - PRI-260407-00A1
   - PRI-260328-4144
   - INS-260403-FB0C
-  - INS-260403-280B
 evidence:
   - id: INS-260325-DF82
     type: TRANSFERS_TO

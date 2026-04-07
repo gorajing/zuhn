@@ -49,7 +49,6 @@ stance: >-
   specifically for operationally complex startups, not pure software plays.
 related:
   - INS-260329-9BC0
-  - INS-260403-EFAF
   - INS-260403-37FD
   - INS-260404-EEA7
   - INS-260330-3E6B

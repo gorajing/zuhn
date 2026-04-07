@@ -50,10 +50,10 @@ resolutions:
     smooth on the exponential.'
 related:
   - PRI-260403-EA13
+  - PRI-260407-A13C
   - INS-260323-7EEB
   - INS-260404-023C
   - INS-260330-2F13
-  - INS-260405-567D
   - INS-260327-35C7
   - INS-260403-705C
 stance: >-

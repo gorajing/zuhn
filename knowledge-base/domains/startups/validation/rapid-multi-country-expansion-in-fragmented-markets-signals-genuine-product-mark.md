@@ -55,7 +55,7 @@ related:
   - PRI-260406-12A2
   - PRI-260406-0EC6
   - PRI-260328-A4AC
-  - INS-260404-4758
+  - PRI-260407-40F9
 ---
 fidu expanded to 1,000+ schools across 10 Latin American countries rather than deeply penetrating one market first. For investors, this breadth of adoption signals that the pain point (administrators spending 70% of time on operations) is structurally universal across the region rather than a quirk of one country's education system.
 

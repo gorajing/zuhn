@@ -46,7 +46,6 @@ stance: >-
   increase the odds of startup success more than any macroeconomic condition
 related:
   - INS-260324-8656
-  - INS-260327-1393
   - INS-260405-2AFD
   - INS-260403-90FF
   - INS-260402-9EBD

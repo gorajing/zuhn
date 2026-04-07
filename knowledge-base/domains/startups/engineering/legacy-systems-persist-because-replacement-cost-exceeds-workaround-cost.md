@@ -48,12 +48,12 @@ stance: >-
   the flaws are severe
 related:
   - INS-260330-23CD
-  - INS-260330-53A9
   - INS-260402-5242
+  - INS-260330-53A9
   - INS-260404-CC7C
+  - PRI-260407-E7CD
   - INS-260404-2695
   - INS-260330-22C0
-  - INS-260330-54ED
   - INS-260405-DAC9
 evidence:
   - id: INS-260402-1FE9

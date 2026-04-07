@@ -48,7 +48,6 @@ stance: >-
   defensibility
 related:
   - INS-260323-E15F
-  - INS-260327-F95F
   - INS-260327-C54D
   - INS-260403-97CA
   - INS-260403-3058
@@ -57,6 +56,7 @@ related:
   - INS-260403-3725
   - PRI-260328-EC3F
   - PRI-260406-901E
+  - INS-260404-EEA7
 ---
 Euclid Ventures argues that in vertical AI, being first to market is table stakes—it gets you started but doesn't keep you alive. Real defensibility comes from data feedback loops where each customer interaction improves the product in ways competitors can't replicate, combined with switching costs that make leaving painful.
 

@@ -53,7 +53,7 @@ related:
   - INS-260404-7A75
   - PRI-260406-C4FD
   - INS-260323-F528
-  - INS-260325-5CB1
+  - PRI-260407-B738
   - INS-260404-57D0
 ---
 The AI race is fundamentally an energy race — whoever can produce cheap abundant energy at scale wins. China's solar deployment from 2023-2024 alone exceeded total US installed capacity, and two-thirds of all new global renewable facilities are in China. Combined with 50,000+ km of ultra-high voltage transmission lines (vs. near-zero in the US) and 33 nuclear reactors under construction (vs. zero US), China is building the energy substrate for AI dominance.

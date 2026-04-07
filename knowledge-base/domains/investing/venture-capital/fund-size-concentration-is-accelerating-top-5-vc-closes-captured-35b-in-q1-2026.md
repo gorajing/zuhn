@@ -48,11 +48,11 @@ related:
   - INS-260322-0C91
   - INS-260405-25E5
   - INS-260403-F524
-  - INS-260403-1B46
   - INS-260403-87C4
   - INS-260405-F01C
+  - PRI-260407-D50C
   - INS-260403-39B8
   - INS-260405-DDC2
-  - INS-260405-6342
+  - INS-260403-FD57
 ---
 The top five VC fund closes in Q1 2026 alone exceeded $35 billion, surpassing total US venture capital raised in all of 2025. This extends a multi-year trend: funds over $500M have captured more than 52% of all venture capital raised over the past four years. The implication for emerging managers is stark—they are competing for scraps of a shrinking LP allocation pool while the largest firms raise the largest funds in history. This structural bifurcation makes brand, network, and track record increasingly determinative of who gets funded, and who doesn't.

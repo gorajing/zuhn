@@ -1,52 +1,5 @@
 # Tag: early-stage
 
-- `INS-260404-FADE` Early versions of ambitious projects look worse than they are because we lack cultural norms for evaluating unfinished work.
-- `INS-260405-7A7C` The fear that your early work looks lame is real but wrong — ambitious projects necessarily pass through a low-status phase that doesn't predict their ceiling.
-- `INS-260405-7196` Focus on how fast your work is improving, not where it currently stands — the trajectory is what matters, not the position.
-- `INS-260404-CD3E` Ambitious projects universally look unimpressive early on, so premature judgment kills more great work than lack of talent.
-- `INS-260404-056D` Great work requires pushing through an early phase where your output looks embarrassingly bad.
-- `INS-260403-FE41` Most great projects go through a phase where they look terrible even to their creators, and most people quit before pushing through it.
-- `INS-260404-21AA` Most people never start ambitious projects because they cannot tolerate the inevitably poor quality of early versions.
-- `INS-260320-E044` Shelter early ideas from smart skeptics — conventional wisdom about what won't work is based on different products. Think of your idea as a seed that needs protection to sprout.
-- `INS-260326-7B2A` If you can't hire someone smarter than you, do the work yourself — early hires set the talent bar that attracts or repels all future candidates.
-- `INS-260404-1E35` Startups peak in productivity at founding and spend the rest of their existence decelerating — winners just decelerate less.
-- `INS-260405-6F45` Before PMF, your job is to discover, not to deliver — treating a startup like a Fortune 500 kills the learning loop.
-- `INS-260328-91A1` We are so early in AI adoption that freezing all model development today would still yield massive business improvements for years -- current tools are dramatically under-deployed.
-- `INS-260402-D9AC` Manual user-by-user recruitment works because compound weekly growth transforms tiny absolute numbers into massive scale.
-- `INS-260329-8386` Satisfied early users who refer others are your most powerful growth engine before you have budget or brand recognition.
-- `INS-260330-1B37` Airbnb spent 5 months hiring their first employee and only hired two people in year one because early hire quality is existential.
-- `INS-260403-BACA` AI agents trained on VC hiring frameworks can provide contextual hiring guidance that previously required expensive recruiting professionals.
-- `INS-260330-965B` Each of your first 10 hires effectively recruits the next 10 people like themselves, so you're really choosing 100 people.
-- `INS-260403-FA12` Early hires define company culture and execution speed more decisively than any strategic or product decision.
-- `INS-260330-63BA` Airbnb spent 5 months hiring their first engineer because that person's values would replicate across the entire company.
-- `INS-260403-309F` Improvised hiring at early stage creates compounding delays that manifest months after the bad hire.
-- `INS-260404-FE95` Google proved that concentrating top talent and measuring results outperforms traditional business structure in the early stages.
-- `INS-260330-BCC2` Hire undervalued talent — people early in careers or overlooked by the market — rather than competing for proven stars at big companies.
-- `INS-260322-EF20` Early-stage founders should paint a picture of how the customer's life changes with the product, not enumerate features.
-- `INS-260323-6414` Manifast reached 4,000 users and 50 paid customers by combining building-in-public on LinkedIn/Threads, sponsoring niche communities, recruiting ambassadors, and personally going offline to hand out flyers.
-- `INS-260405-F1A2` Business plans presuppose knowledge that doesn't yet exist in early-stage innovation, making them a liability rather than a tool.
-- `INS-260404-A1BA` Harsh judgment of early work is a cultural habit, not human nature, and environments like Silicon Valley prove it can be unlearned.
-- `INS-260403-EFCC` Early-stage ambitious work requires switching evaluation polarity from finding flaws to imagining how it could succeed.
-- `INS-260402-6BB6` Startup ecosystems are constrained by angel investor presence because angels fund the pre-VC risk that makes later rounds possible.
-- `INS-260404-D4A0` Smart early-stage investors care more about whether you've identified an important problem than whether your revenue model is correct.
-- `INS-260403-97DB` Mention that you've thought about monetization, but don't elaborate — talk about your problem and product instead.
-- `INS-260405-180B` A top VC invested in a company specifically knowing their business model would change three times — detail-pitching yours signals you don't understand this.
-- `INS-260403-7B41` Without hard metrics, founders must package qualitative indicators — waitlists, engagement data, customer feedback — as credible evidence of future traction.
-- `INS-260405-D4FA` Carta's 2025 data shows SAFEs dominating early-stage capital as founders and investors both prefer deferred pricing in an uncertain market.
-- `INS-260403-37F4` Multiply annual salary plus overhead by 1.5 to estimate total stock-equivalent cost at current valuation.
-- `INS-260403-8D8D` Before YC, seed funding was chaotic with random terms, bad docs, and amateur lawyers — standardization unlocked the market.
-- `INS-260402-7B69` In early startups, product quality is redefined as total user experience quality, where personal attentiveness compensates for product incompleteness.
-- `INS-260405-0E05` In early stage, the depth of user love is a better signal than any metric you can count.
-- `INS-260404-C720` Start by making a few users love you rather than many users tolerate you.
-- `INS-260330-7D07` Top salespeople spend only 30% of the call talking and 70% listening to understand the prospect's problem.
-- `INS-260329-3392` Your first paying customers are people who already know you — reach out to them directly before spending on acquisition channels.
-- `INS-260329-9F8D` Start free, then raise your price incrementally with each batch of customers as your testimonial stack and confidence grow.
-- `INS-260327-18D4` Maggie's first OpenAI hire was Molly — Stanford MBA, 8 years at Google — who accepted an SDR role when 49 other candidates refused it, then built the global sales dev org within months because she had zero ego.
-- `INS-260405-6317` AMI's $1.03B seed — Europe's largest ever — shows sophisticated investors concentrating capital at inception when the paradigm bet is clear.
-- `INS-260404-A6D4` Substack's first version had no CMS, no onboarding, and no design tools — Chris Best manually typed the first user into a database, and that user made six figures on day one.
-- `INS-260403-C96F` When there's no product or traction data, the founders themselves are the entire investment thesis.
-- `INS-260403-58BB` Target markets that are small today but have a built-in expansion mechanism, like Apple selling computers in 1976 to hobbyists before everyone wanted one.
-- `INS-260403-CD74` Level 1 PMF requires finding just 3-5 customers with a problem worth solving, engaging deeply, delivering a solution, and validating it — not broad market traction.
 - `INS-260404-C6AB` Effective early-stage AI investing requires a structured framework at the $100-500M fund scale, as generalist AI exposure fails to differentiate.
 - `INS-260405-963B` Chamath argues AI is still early-stage even after two years of mainstream adoption and a trillion in investment.
 - `INS-260404-15B8` Early-stage VCs show AI fatigue despite $30B raised in 2024, suggesting a coming selectivity filter.
@@ -59,3 +12,50 @@
 - `INS-260403-87D9` Most deal-killing risks at early stage live outside the financial model.
 - `INS-260403-AB11` Major VC firms are shifting toward later-stage de-risked investments, making micro-VCs and operator-angels the fastest path to early-stage capital in 2026.
 - `INS-260405-6EE5` Gulf investors are becoming structurally active in European pre-seed and early-stage deals, diversifying the European funding ecosystem beyond traditional US and local capital.
+- `INS-260404-FADE` Early versions of ambitious projects look worse than they are because we lack cultural norms for evaluating unfinished work.
+- `INS-260405-7A7C` The fear that your early work looks lame is real but wrong — ambitious projects necessarily pass through a low-status phase that doesn't predict their ceiling.
+- `INS-260405-7196` Focus on how fast your work is improving, not where it currently stands — the trajectory is what matters, not the position.
+- `INS-260404-CD3E` Ambitious projects universally look unimpressive early on, so premature judgment kills more great work than lack of talent.
+- `INS-260404-056D` Great work requires pushing through an early phase where your output looks embarrassingly bad.
+- `INS-260403-FE41` Most great projects go through a phase where they look terrible even to their creators, and most people quit before pushing through it.
+- `INS-260404-21AA` Most people never start ambitious projects because they cannot tolerate the inevitably poor quality of early versions.
+- `INS-260320-E044` Shelter early ideas from smart skeptics — conventional wisdom about what won't work is based on different products. Think of your idea as a seed that needs protection to sprout.
+- `INS-260328-91A1` We are so early in AI adoption that freezing all model development today would still yield massive business improvements for years -- current tools are dramatically under-deployed.
+- `INS-260326-7B2A` If you can't hire someone smarter than you, do the work yourself — early hires set the talent bar that attracts or repels all future candidates.
+- `INS-260404-1E35` Startups peak in productivity at founding and spend the rest of their existence decelerating — winners just decelerate less.
+- `INS-260402-D9AC` Manual user-by-user recruitment works because compound weekly growth transforms tiny absolute numbers into massive scale.
+- `INS-260329-8386` Satisfied early users who refer others are your most powerful growth engine before you have budget or brand recognition.
+- `INS-260405-6F45` Before PMF, your job is to discover, not to deliver — treating a startup like a Fortune 500 kills the learning loop.
+- `INS-260323-6414` Manifast reached 4,000 users and 50 paid customers by combining building-in-public on LinkedIn/Threads, sponsoring niche communities, recruiting ambassadors, and personally going offline to hand out flyers.
+- `INS-260330-1B37` Airbnb spent 5 months hiring their first employee and only hired two people in year one because early hire quality is existential.
+- `INS-260403-BACA` AI agents trained on VC hiring frameworks can provide contextual hiring guidance that previously required expensive recruiting professionals.
+- `INS-260330-965B` Each of your first 10 hires effectively recruits the next 10 people like themselves, so you're really choosing 100 people.
+- `INS-260403-FA12` Early hires define company culture and execution speed more decisively than any strategic or product decision.
+- `INS-260330-63BA` Airbnb spent 5 months hiring their first engineer because that person's values would replicate across the entire company.
+- `INS-260403-309F` Improvised hiring at early stage creates compounding delays that manifest months after the bad hire.
+- `INS-260404-FE95` Google proved that concentrating top talent and measuring results outperforms traditional business structure in the early stages.
+- `INS-260330-BCC2` Hire undervalued talent — people early in careers or overlooked by the market — rather than competing for proven stars at big companies.
+- `INS-260322-EF20` Early-stage founders should paint a picture of how the customer's life changes with the product, not enumerate features.
+- `INS-260405-F1A2` Business plans presuppose knowledge that doesn't yet exist in early-stage innovation, making them a liability rather than a tool.
+- `INS-260404-A1BA` Harsh judgment of early work is a cultural habit, not human nature, and environments like Silicon Valley prove it can be unlearned.
+- `INS-260403-EFCC` Early-stage ambitious work requires switching evaluation polarity from finding flaws to imagining how it could succeed.
+- `INS-260402-6BB6` Startup ecosystems are constrained by angel investor presence because angels fund the pre-VC risk that makes later rounds possible.
+- `INS-260404-D4A0` Smart early-stage investors care more about whether you've identified an important problem than whether your revenue model is correct.
+- `INS-260403-97DB` Mention that you've thought about monetization, but don't elaborate — talk about your problem and product instead.
+- `INS-260405-180B` A top VC invested in a company specifically knowing their business model would change three times — detail-pitching yours signals you don't understand this.
+- `INS-260403-7B41` Without hard metrics, founders must package qualitative indicators — waitlists, engagement data, customer feedback — as credible evidence of future traction.
+- `INS-260405-D4FA` Carta's 2025 data shows SAFEs dominating early-stage capital as founders and investors both prefer deferred pricing in an uncertain market.
+- `INS-260403-37F4` Multiply annual salary plus overhead by 1.5 to estimate total stock-equivalent cost at current valuation.
+- `INS-260403-8D8D` Before YC, seed funding was chaotic with random terms, bad docs, and amateur lawyers — standardization unlocked the market.
+- `INS-260405-0E05` In early stage, the depth of user love is a better signal than any metric you can count.
+- `INS-260404-C720` Start by making a few users love you rather than many users tolerate you.
+- `INS-260402-7B69` In early startups, product quality is redefined as total user experience quality, where personal attentiveness compensates for product incompleteness.
+- `INS-260330-7D07` Top salespeople spend only 30% of the call talking and 70% listening to understand the prospect's problem.
+- `INS-260329-3392` Your first paying customers are people who already know you — reach out to them directly before spending on acquisition channels.
+- `INS-260329-9F8D` Start free, then raise your price incrementally with each batch of customers as your testimonial stack and confidence grow.
+- `INS-260327-18D4` Maggie's first OpenAI hire was Molly — Stanford MBA, 8 years at Google — who accepted an SDR role when 49 other candidates refused it, then built the global sales dev org within months because she had zero ego.
+- `INS-260405-6317` AMI's $1.03B seed — Europe's largest ever — shows sophisticated investors concentrating capital at inception when the paradigm bet is clear.
+- `INS-260404-A6D4` Substack's first version had no CMS, no onboarding, and no design tools — Chris Best manually typed the first user into a database, and that user made six figures on day one.
+- `INS-260403-C96F` When there's no product or traction data, the founders themselves are the entire investment thesis.
+- `INS-260403-58BB` Target markets that are small today but have a built-in expansion mechanism, like Apple selling computers in 1976 to hobbyists before everyone wanted one.
+- `INS-260403-CD74` Level 1 PMF requires finding just 3-5 customers with a problem worth solving, engaging deeply, delivering a solution, and validating it — not broad market traction.

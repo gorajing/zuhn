@@ -58,10 +58,10 @@ stance: >-
 related:
   - INS-260327-9816
   - INS-260405-F72B
+  - PRI-260407-7FB7
   - PRI-260403-35FE
   - PRI-260403-EA13
   - PRI-260405-6A4E
-  - INS-260330-0FCC
 ---
 Classical machine learning stops training at the overfitting point, where a model begins memorizing the training set instead of generalizing. OpenAI ran an experiment for days instead of hours—far past this threshold—and observed that the model entered what they called the 'grokking zone': it stopped memorizing and began to actually understand concepts, exhibiting emergent behaviors not present in the training data.
 

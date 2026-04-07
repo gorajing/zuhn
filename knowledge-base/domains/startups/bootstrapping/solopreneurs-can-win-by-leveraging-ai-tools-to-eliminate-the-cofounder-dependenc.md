@@ -52,10 +52,10 @@ related:
   - INS-260323-BF81
   - INS-260327-ACB3
   - INS-260403-CAB4
+  - PRI-260407-7C1A
   - PRI-260406-806C
   - INS-260403-78AD
   - INS-260403-A6A7
-  - PRI-260406-54BE
   - INS-260403-26CD
 ---
 The conventional wisdom that startups need cofounders is being challenged by a new generation of AI-augmented solopreneurs. Tools for code generation, design, customer support, and marketing automation allow a single founder to operate at the capacity of a small team. This shifts the calculus of early-stage company building.

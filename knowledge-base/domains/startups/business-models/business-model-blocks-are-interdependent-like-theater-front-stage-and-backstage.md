@@ -48,10 +48,10 @@ stance: >-
   through systemic interdependence
 related:
   - INS-260404-F017
+  - PRI-260407-C35C
   - INS-260329-F20E
   - INS-260403-2D68
   - PRI-260403-4612
-  - INS-260403-B0E3
 evidence:
   - id: INS-260329-F20E
     type: TRANSFERS_TO

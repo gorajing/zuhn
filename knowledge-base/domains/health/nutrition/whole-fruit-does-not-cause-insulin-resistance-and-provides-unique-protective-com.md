@@ -54,10 +54,10 @@ related:
   - INS-260327-A17A
   - INS-260327-C8EB
   - INS-260327-FC60
-  - INS-260327-84FA
   - PRI-260328-0174
   - PRI-260328-4A63
   - PRI-260325-9258
+  - PRI-260407-9D41
 ---
 The strict carnivore position against fruit is contradicted by human interventional data. Whole fruit consumption does not cause insulin resistance even in large quantities. The fructose in fruit is paired with glucose (required for co-transport across the gut lining), fiber, polyphenols, and hundreds of bioactive compounds that prevent bacterial overgrowth.
 

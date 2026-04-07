@@ -56,7 +56,6 @@ stance: >-
   validating the Fiscal Theory of the Price Level and undermining claims that
   deficit spending is costless.
 related:
-  - INS-260403-912C
   - PRI-260328-6136
   - INS-260403-9897
   - PRI-260406-BAAC

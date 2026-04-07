@@ -56,8 +56,8 @@ related:
   - INS-260404-2523
   - INS-260403-A6A7
   - INS-260403-CC59
+  - PRI-260407-7C1A
   - PRI-260406-1F70
-  - PRI-260406-54BE
   - INS-260404-6FFF
 ---
 Solo founders now account for more than a third of all new startup formations, a structural shift enabled by AI tools that handle tasks previously requiring dedicated team members — design, engineering, copywriting, customer support, and data analysis. This isn't just about cost savings; it's about the authorship advantage, where a single person with clear vision can ship coherent products faster than a team negotiating trade-offs.

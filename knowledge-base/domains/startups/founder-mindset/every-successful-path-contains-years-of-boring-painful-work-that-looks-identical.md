@@ -48,11 +48,11 @@ stance: >-
   tedious, unrewarding work — the difference between success and failure is
   enduring those periods
 related:
+  - PRI-260407-2DBD
   - INS-260329-1D08
   - PRI-260406-967A
   - INS-260329-163B
   - PRI-260325-070D
-  - PRI-260406-2B11
   - INS-260330-8156
 evidence:
   - id: INS-260329-1D08

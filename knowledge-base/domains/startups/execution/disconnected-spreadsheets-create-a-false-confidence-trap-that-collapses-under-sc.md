@@ -53,9 +53,9 @@ stance: >-
 related:
   - PRI-260406-DA72
   - INS-260323-D288
+  - PRI-260407-93D7
   - PRI-260406-BAD8
   - INS-260403-D089
-  - INS-260403-A752
 ---
 The article identifies a specific failure mode: founders tracking revenue in Stripe, cash burn in Notion, and headcount planning in Google Sheets. Each tool tells a coherent local story, but the assumptions never reconcile across tools. Churn rates in the revenue tracker don't match the churn baked into the hiring plan. Marketing spend in the budget doesn't align with the CAC calculations in the metrics deck.
 

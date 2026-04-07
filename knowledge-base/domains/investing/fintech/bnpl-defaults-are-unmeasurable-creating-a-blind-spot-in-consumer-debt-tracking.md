@@ -45,10 +45,10 @@ stance: >-
   exposure is systematically underestimated by conventional metrics.
 related:
   - PRI-260328-386C
+  - PRI-260407-93D7
   - INS-260327-CE05
   - PRI-260328-6136
   - INS-260327-B6B7
-  - PRI-260406-B702
   - INS-260327-BF93
   - INS-260327-FCC4
   - INS-260328-FDC8

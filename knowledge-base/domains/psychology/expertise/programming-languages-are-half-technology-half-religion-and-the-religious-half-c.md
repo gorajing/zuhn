@@ -47,11 +47,11 @@ stance: >-
   rather than technical merit, creating a 20-year lag between invention and
   mainstream use
 related:
-  - INS-260329-E208
   - INS-260403-F100
+  - PRI-260407-A13C
+  - INS-260329-E208
   - INS-260329-ACE6
   - INS-260321-1A0B
-  - INS-260405-131B
 evidence:
   - id: INS-260402-2D95
     type: SUPPORTS

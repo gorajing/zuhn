@@ -50,12 +50,12 @@ related:
   - INS-260403-CF98
   - INS-260405-285D
   - INS-260325-195E
-  - INS-260403-71E6
   - INS-260403-1E5C
   - INS-260404-D475
   - INS-260405-F374
   - INS-260403-2D9B
   - INS-260405-ED7E
+  - INS-260404-2C23
 ---
 Redpoint's 2025 analysis reveals a stark bifurcation in SaaS valuations: companies growing at triple-digit rates command premium private valuations, while anything below that threshold actually prices better in public markets. This represents a fundamental shift from the 2021 era when VCs would pay premiums for 40-60% growth.
 

@@ -47,9 +47,9 @@ resolutions:
 related:
   - INS-260323-1D15
   - PRI-260406-E602
+  - PRI-260407-AF64
   - INS-260404-5CC6
   - INS-260323-FFE8
-  - INS-260325-502D
   - INS-260403-9CA6
 stance: >-
   Healthy competition across ideas, companies, products, and cultures —

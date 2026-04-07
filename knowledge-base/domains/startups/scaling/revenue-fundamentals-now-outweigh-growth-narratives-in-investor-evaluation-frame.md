@@ -51,7 +51,6 @@ stance: >-
   growth-at-all-costs evaluation.
 related:
   - INS-260403-1407
-  - INS-260405-2230
   - INS-260403-7410
   - INS-260403-4A42
   - INS-260403-5056

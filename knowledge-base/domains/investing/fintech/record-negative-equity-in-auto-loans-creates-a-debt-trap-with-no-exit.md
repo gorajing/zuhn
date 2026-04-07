@@ -48,9 +48,9 @@ stance: >-
 related:
   - PRI-260328-386C
   - PRI-260406-861A
+  - PRI-260407-93D7
   - PRI-260406-B702
   - PRI-260406-8987
-  - INS-260403-7CAF
   - INS-260403-FA1E
 ---
 Auto loans and vehicle depreciation have created a particularly vicious debt trap. Vehicles lose value rapidly (especially EVs with extreme depreciation), but auto loans are longer than ever (7+ year terms common). The result: millions of borrowers owe more than their vehicle is worth within months of purchase.

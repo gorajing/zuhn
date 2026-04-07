@@ -43,7 +43,7 @@ related:
   - INS-260327-A6B6
   - INS-260327-B29D
   - INS-260327-FC60
-  - INS-260325-0A8A
+  - PRI-260407-9D41
   - INS-260327-1A07
 ---
 Maltodextrin with a glycemic index of 105-136 (vs sugar at 65) is hidden in 60% of processed foods including protein powders, baby formula, and health foods -- making it the single most damaging hidden carb

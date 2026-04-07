@@ -57,9 +57,9 @@ stance: >-
 related:
   - INS-260327-BF89
   - INS-260405-9285
+  - PRI-260407-D1AD
   - INS-260327-1FA1
   - PRI-260406-1F5E
-  - INS-260403-0350
 ---
 Most AI agent tutorials focus on the happy path: get the model to call a tool, chain a few steps, produce output. This is the prototype phase, and it's genuinely easy in 2025 with LangChain, CrewAI, and similar frameworks. What's consistently underestimated is the production gap—the engineering work required to make agents reliable, observable, and maintainable at scale.
 

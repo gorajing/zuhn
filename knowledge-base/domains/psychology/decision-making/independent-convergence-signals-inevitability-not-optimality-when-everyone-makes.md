@@ -49,11 +49,11 @@ stance: >-
   When multiple independent groups converge on the same solution, it more likely
   reflects shared constraints than proof the solution is optimal
 related:
+  - PRI-260407-023B
   - INS-260330-3FF4
   - INS-260330-66EF
   - INS-260325-DFA5
   - INS-260403-CA93
-  - INS-260330-8D0C
 evidence:
   - id: INS-260330-3FF4
     type: SUPPORTS

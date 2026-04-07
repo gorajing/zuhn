@@ -51,10 +51,10 @@ stance: >-
   company's ability to raise capital.
 related:
   - PRI-260406-861A
+  - PRI-260407-93D7
   - INS-260327-7F73
   - INS-260403-7CAF
   - INS-260327-E4F1
-  - PRI-260406-53BC
 ---
 Startups systematically underinvest in back-office functions because they are viewed as cost centers rather than value drivers. However, an understaffed finance team produces late or inaccurate financials, fails audits, misses customer invoicing, and sends unreliable data to investors. Each of these failures compounds: missed invoices are real lost revenue, and inaccurate financials sent to investors erode trust precisely when the company needs capital.
 

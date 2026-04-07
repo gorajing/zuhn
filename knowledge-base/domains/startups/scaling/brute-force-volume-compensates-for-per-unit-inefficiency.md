@@ -50,7 +50,6 @@ stance: >-
   per-unit efficiency at ecosystem scale
 related:
   - INS-260330-3AF7
-  - INS-260330-F82A
   - INS-260330-4489
   - INS-260403-9442
   - INS-260403-532D
@@ -59,6 +58,7 @@ related:
   - INS-260404-3B9D
   - INS-260404-16B0
   - INS-260404-8256
+  - INS-260405-9DB6
 evidence:
   - id: INS-260330-FC4D
     type: SUPPORTS

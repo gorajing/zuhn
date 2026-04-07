@@ -44,11 +44,11 @@ stance: >-
   (what gets loaded into context and how) rather than a pure model capability
   limitation.
 related:
+  - PRI-260407-D1AD
   - PRI-260328-EE02
   - PRI-260320-07A4
   - INS-260321-2482
   - INS-260403-0350
-  - INS-260327-DC4C
 evidence:
   - id: INS-260403-0350
     type: CHALLENGES

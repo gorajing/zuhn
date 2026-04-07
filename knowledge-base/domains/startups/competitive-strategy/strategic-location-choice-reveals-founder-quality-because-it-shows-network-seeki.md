@@ -48,10 +48,10 @@ stance: >-
   specific problem, not where startups are generically prestigious
 related:
   - PRI-260406-842D
+  - PRI-260407-3BD9
   - INS-260327-4DDE
   - INS-260403-573F
   - INS-260402-D739
-  - INS-260403-C381
   - INS-260403-E1E4
   - INS-260403-9A57
 evidence:

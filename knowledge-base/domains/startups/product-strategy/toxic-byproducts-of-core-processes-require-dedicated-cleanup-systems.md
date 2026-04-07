@@ -53,7 +53,7 @@ related:
   - INS-260403-53C9
   - INS-260330-F5CF
   - INS-260404-1F1B
-  - INS-260405-7E85
+  - PRI-260407-6452
 evidence:
   - id: INS-260330-EACA
     type: EXTENDS

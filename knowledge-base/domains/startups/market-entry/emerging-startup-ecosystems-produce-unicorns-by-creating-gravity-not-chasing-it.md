@@ -50,12 +50,11 @@ stance: >-
   outsized startup outcomes because local actors actively build ecosystem
   infrastructure rather than waiting for it to arrive.
 related:
-  - INS-260405-225B
   - PRI-260406-701E
   - INS-260330-DD63
   - PRI-260406-842D
+  - PRI-260407-3BD9
   - INS-260403-C381
-  - INS-260403-5D7D
 ---
 In 2013, only four ecosystems globally had produced unicorns. By 2020, that number exploded to over 80 distinct regions. This isn't passive diffusion — companies like Develocraft in Gdańsk actively catalyzed their local ecosystem by launching tech conferences, coding academies, and talent attraction programs. They created gravity rather than chasing it elsewhere.
 

@@ -56,8 +56,8 @@ related:
   - INS-260330-D5CD
   - INS-260403-D531
   - INS-260405-AFF7
+  - PRI-260407-A13C
   - INS-260405-C1E4
-  - INS-260403-7DF4
 ---
 Andrej Karpathy — one of the world's most skilled AI engineers — reported that his coding workflow inverted from 80/20 manual-to-agent to 20/80 in the span of weeks during late 2025. This wasn't a gradual adoption curve; it was a phase transition triggered by a specific capability threshold being crossed.
 

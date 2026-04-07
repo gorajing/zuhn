@@ -54,12 +54,11 @@ stance: >-
   internet consumers benefited.
 related:
   - INS-260327-BB67
-  - INS-260327-1555
+  - PRI-260407-93D7
   - PRI-260328-386C
+  - INS-260327-1555
   - PRI-260403-2927
   - PRI-260403-4612
-  - INS-260323-114D
-  - INS-260403-FCB6
 evidence:
   - id: INS-260327-A8DF
     type: TRANSFERS_TO

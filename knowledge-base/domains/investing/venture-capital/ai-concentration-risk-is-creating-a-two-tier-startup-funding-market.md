@@ -55,7 +55,7 @@ related:
   - PRI-260406-C932
   - INS-260403-5CBD
   - INS-260404-C28B
-  - INS-260404-34D4
+  - INS-260403-4AB2
 ---
 The venture capital market has split into two distinct economies: AI startups swimming in capital and everyone else struggling to raise. This concentration mirrors previous hype cycles (crypto, cleantech) but at unprecedented scale — 40% of all VC capital flowing to a single sector creates massive misallocation risk.
 

@@ -42,10 +42,10 @@ resolutions:
     emergent will.
 related:
   - INS-260403-141E
+  - PRI-260407-7FB7
   - PRI-260403-EA13
   - PRI-260403-67FC
   - PRI-260328-0AB1
-  - PRI-260406-4F8E
 stance: >-
   Scary stories about LLMs trying to deceive or resist shutdown are reflections
   of training data patterns, not emergent architectural properties

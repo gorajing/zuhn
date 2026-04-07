@@ -44,8 +44,8 @@ related:
   - INS-260325-A03D
   - INS-260325-EDC8
   - PRI-260328-7AF5
+  - PRI-260407-9D41
   - PRI-260325-9258
   - INS-260327-4B8B
-  - INS-260327-C334
 ---
 The standard medical advice for diabetics to eat 6 small meals daily keeps insulin chronically elevated, prevents fat burning, and worsens insulin resistance over time; fewer, larger meals with longer fasting windows improve blood sugar control

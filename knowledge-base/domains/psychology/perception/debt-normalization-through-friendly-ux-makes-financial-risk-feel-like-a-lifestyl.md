@@ -41,16 +41,16 @@ stance: >-
   branding, they normalize borrowing as a lifestyle choice rather than a
   financial risk, increasing usage among populations least able to manage debt.
 related:
-  - INS-260324-6FC7
   - INS-260324-6345
   - INS-260327-BF93
   - INS-260327-9508
   - INS-260327-134F
+  - PRI-260407-93D7
   - INS-260327-1555
   - PRI-260406-B702
   - PRI-260328-386C
-  - PRI-260406-53BC
   - INS-260327-7018
+  - INS-260403-C445
 evidence:
   - id: INS-260327-1555
     type: SUPPORTS

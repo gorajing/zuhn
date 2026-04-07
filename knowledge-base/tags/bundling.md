@@ -7,6 +7,6 @@
 - `INS-260403-9106` Bundling financial services into a marketplace creates LTV advantages that fund superior customer acquisition.
 - `INS-260403-D2A9` Bundling financial services raises ARPU enough to unlock marketing channels that were previously uneconomical.
 - `INS-260404-C6EB` Lenny's Newsletter bundles 15+ premium tools worth $10,000+ into a $350/year subscription, creating multi-product lock-in.
-- `INS-260405-2422` All-in-one platforms that actually work create moats through workflow integration that point solutions can't replicate.
 - `INS-260329-BB8F` When the market wants a suite, building only the best single tool creates a ceiling — you must decide whether to bundle or accept a limited outcome.
 - `INS-260403-85BB` Revenue diversification across multiple financial product categories signals a company has become infrastructure rather than a point solution.
+- `INS-260405-2422` All-in-one platforms that actually work create moats through workflow integration that point solutions can't replicate.

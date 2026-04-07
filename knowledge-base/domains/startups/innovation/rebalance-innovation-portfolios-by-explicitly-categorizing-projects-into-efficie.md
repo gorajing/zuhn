@@ -50,7 +50,7 @@ related:
   - PRI-260406-F72A
   - PRI-260406-A7EC
   - PRI-260406-DE8A
-  - INS-260403-6AB5
+  - PRI-260407-3179
 evidence:
   - id: INS-260403-6602
     type: CHALLENGES

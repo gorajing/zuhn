@@ -48,8 +48,8 @@ stance: >-
   offering the same dopamine-driven speculation with more interesting underlying
   assets.
 related:
-  - INS-260323-500B
   - INS-260329-A4CA
+  - PRI-260407-40F9
   - INS-260403-6024
   - PRI-260322-9E36
   - INS-260321-3EC0

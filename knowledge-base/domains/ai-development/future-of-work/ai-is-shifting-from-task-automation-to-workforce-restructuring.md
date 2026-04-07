@@ -53,9 +53,9 @@ related:
   - INS-260327-13B3
   - INS-260327-0246
   - PRI-260328-8317
-  - PRI-260328-1ED1
   - PRI-260328-3094
   - INS-260403-4D80
+  - INS-260403-3587
 ---
 Early AI adoption focused on automating discrete tasks—summarizing documents, generating code snippets, answering queries. The agentic workforce paradigm shifts this from task substitution to role restructuring: AI agents that can plan, execute multi-step workflows, and collaborate with humans fundamentally change team composition rather than just speeding up existing workflows.
 

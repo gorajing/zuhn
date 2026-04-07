@@ -47,8 +47,8 @@ related:
   - PRI-260406-070D
   - INS-260403-5056
   - INS-260403-968A
+  - PRI-260407-D50C
   - INS-260403-E407
-  - INS-260403-F387
   - INS-260405-6317
 ---
 Amazon's $2.75 billion investment in Anthropic represents its largest venture investment ever, illustrating how hyperscalers (Amazon, Microsoft, Google) are using strategic capital to secure AI infrastructure positions. This shifts the power dynamic in AI funding — startups building foundation models increasingly depend on cloud provider partnerships rather than traditional VC rounds.

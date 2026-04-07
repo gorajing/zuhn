@@ -50,9 +50,9 @@ related:
   - INS-260327-38F0
   - INS-260324-D274
   - INS-260324-5952
-  - INS-260321-96CE
   - INS-260327-D5F0
   - INS-260329-97C1
+  - INS-260330-D99D
 stance: 'Unlike most food trends, bubble tea innovation flows from Asia to the West'
 ---
 Bubble tea was introduced to the US in the 1990s as a cheap $1-2 powdered mix drink. Asian markets evolved it into a premium category with fresh fruit, cheese foam, and third-wave presentation. Now saturated in Asia, these brands see the US as a gold rush. The franchise-to-independent journey is common: one LA shop owner started as a Taiwanese chain franchisee, invented 3 drinks that became bestsellers, then went independent for autonomy. The structural advantage of independence: flexibility to adapt to local tastes, while franchise HQs optimize for scale at the expense of local market fit.

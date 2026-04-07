@@ -49,6 +49,7 @@ stance: >-
   is invisible until it's critical.
 related:
   - PRI-260406-818D
+  - PRI-260407-C35C
   - INS-260403-75E3
   - INS-260327-1B7C
   - INS-260403-501D

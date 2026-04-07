@@ -52,10 +52,10 @@ stance: >-
   complexity better than those requiring manual field-by-field extraction
 related:
   - INS-260402-C301
+  - PRI-260407-5465
   - INS-260403-C4EE
   - INS-260403-2A92
   - INS-260329-FAE2
-  - INS-260329-91DD
 evidence:
   - id: INS-260329-8F86
     type: SUPPORTS

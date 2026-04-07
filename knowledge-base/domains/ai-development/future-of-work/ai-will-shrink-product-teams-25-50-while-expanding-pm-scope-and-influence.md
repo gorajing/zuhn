@@ -59,10 +59,10 @@ related:
   - INS-260330-217C
   - PRI-260406-806C
   - PRI-260406-1993
+  - PRI-260407-590E
+  - PRI-260407-7C1A
   - PRI-260328-5CDE
-  - INS-260403-5CAD
   - INS-260403-E706
-  - INS-260404-B893
 ---
 Lenny endorses Marty Cagan's prediction that AI will shrink product teams by 25-50%, with the reduction coming primarily from the engineering side. PMs will have more influence and broader scope, but their role shifts toward discovery (figuring out what to build) and GTM (driving adoption) rather than the design-and-build phase that AI increasingly handles.
 

@@ -41,10 +41,10 @@ stance: >-
   A fully integrated VC tech stack costs far less than the standard 10% tooling
   budget from management fees, leaving room for advanced capabilities
 related:
-  - INS-260321-0CCD
   - INS-260404-E55F
   - INS-260404-2D82
+  - INS-260321-0CCD
   - INS-260403-1DDC
-  - INS-260405-931E
+  - PRI-260407-D50C
 ---
 The article demonstrates that a baseline productivity stack costs roughly $1.2K per seat per year, with optional add-ons bringing it to $1.8K. Even adding premium data sources at $3.8K per seat and $10K for outsourced integration, a 5-FTE fund stays well within the 10% management fee benchmark. This means the perceived barrier of 'expensive tooling' is largely a myth for early-stage funds — the real barrier is knowing what to buy and how to integrate it, not affordability.

@@ -51,8 +51,8 @@ related:
   - INS-260403-699F
   - INS-260403-0414
   - PRI-260324-36BF
+  - PRI-260407-F704
   - INS-260403-8832
-  - INS-260403-7868
 ---
 As foundational AI models converge in capability, the primary competitive battleground has shifted from raw model quality to distribution strategy and ecosystem integration. This mirrors historical platform shifts where the technology layer commoditized while the distribution and ecosystem layers captured disproportionate value.
 

@@ -57,10 +57,10 @@ stance: >-
   origins can include self-correcting mechanisms.
 related:
   - INS-260325-24D1
+  - PRI-260407-AE33
   - INS-260330-1E6A
   - PRI-260405-0676
   - INS-260325-59D4
-  - INS-260330-7D5F
 evidence:
   - id: INS-260325-24D1
     type: EXTENDS

@@ -49,10 +49,10 @@ stance: >-
   warning signal rather than validation.
 related:
   - INS-260321-8382
+  - PRI-260407-F684
   - INS-260404-BE07
   - INS-260323-1930
   - INS-260402-46AD
-  - INS-260330-CC7D
 evidence:
   - id: INS-260323-1930
     type: TRANSFERS_TO

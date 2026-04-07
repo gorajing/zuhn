@@ -48,11 +48,11 @@ resolutions:
     dehumanization. Both observations are correct — and the tension between them
     is unresolvable.
 related:
-  - INS-260323-2874
   - PRI-260406-949A
+  - PRI-260407-00A1
   - PRI-260325-F21B
   - INS-260403-9DB6
-  - PRI-260324-8EE6
+  - INS-260323-2874
   - INS-260323-5737
   - INS-260330-2294
   - INS-260330-0764

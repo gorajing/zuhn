@@ -49,11 +49,11 @@ stance: >-
   more tempting to chase shiny new concepts instead of committing to hard
   problems they understand.
 related:
+  - PRI-260407-590E
   - INS-260405-6F45
   - INS-260403-9A4C
   - INS-260404-CD1A
   - INS-260403-CD51
-  - INS-260403-ABC5
   - INS-260327-6C54
   - INS-260330-59FD
   - INS-260403-97B4

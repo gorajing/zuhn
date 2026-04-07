@@ -57,8 +57,8 @@ related:
   - INS-260403-713B
   - INS-260404-E55F
   - INS-260404-ADEE
-  - INS-260403-1F6B
   - INS-260404-6243
+  - INS-260404-620D
 ---
 Of the 13 new creator economy unicorns since 2020, 46% are AI-based platforms including ElevenLabs, Runway, Jasper, and the broader AI companies like Anthropic and OpenAI that serve creators among other users. This represents a dramatic shift from the previous unicorn class which was dominated by marketplace and community platforms.
 

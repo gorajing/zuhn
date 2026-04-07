@@ -1,24 +1,5 @@
 # Tag: capital-allocation
 
-- `INS-260403-3AE7` Confidence about AI's trajectory is hardening into consensus faster than the underlying evidence supports, creating dangerous belief-lock-in across capital allocation decisions.
-- `INS-260403-9421` The time required to build a company is often predictive of how long it will last.
-- `INS-260329-1CB0` Extreme early frugality isn't about the savings — it's about escaping survival mode so you can think long-term and make strategic bets.
-- `INS-260403-A93A` Extremely high CLTV/CAC ratios can signal missed growth opportunities rather than operational excellence.
-- `INS-260405-69F1` Innovation spend framed as a call option is harder for CFOs to cut because it reuses their own valuation logic.
-- `INS-260405-3403` You must fund the losers to find the winners—the portfolio math only works if you don't pre-filter by apparent promise.
-- `INS-260403-BDCC` Fund internal innovation projects in tranches tied to evidence, not annual lump-sum budgets.
-- `INS-260404-F22C` Biotech and health tech VC funds are raising at dramatically larger scales than software-focused peers.
-- `INS-260404-F970` Capital gravitates toward the biggest, most painful problems—founders who articulate problem severity clearly will raise more effectively.
-- `INS-260403-7881` Free money dilutes talent, inflates competition, and rewards unsustainable growth models over durable businesses.
-- `INS-260403-70B9` Tracking total capital deployed across follow-on rounds rather than just the initial investment reveals the true risk exposure and changes return calculations significantly.
-- `INS-260402-C2BA` F&F capital works when tied to a specific unlockable milestone like an MVP or pilot launch, not when used to buy time while figuring things out.
-- `INS-260404-5D6E` The largest venture rounds are concentrating in AI infrastructure and biotech, signaling investor preference for capital-intensive defensible businesses.
-- `INS-260330-A38C` Travis systematically learned when Lyft had investor meetings, then immediately contacted those same investors to announce Uber's upcoming round, causing investors to back out of Lyft deals.
-- `INS-260330-2BB3` Each funding round should target specific risks to eliminate, with the amount raised calibrated precisely to the milestones needed to peel away those risk layers.
-- `INS-260405-5B4D` Investors asking 'what will you do with the money?' are really asking whether you understand your own business's leverage points.
-- `INS-260330-A1A4` Apple's $285B cash hoard demonstrates that past a strategic reserve threshold, excess cash creates more problems than options.
-- `INS-260330-4830` When repatriation taxes trap offshore profits, companies resort to borrowing domestically against foreign assets rather than deploying capital optimally.
-- `INS-260403-D379` Spend the least on experiments when you know the least, and increase stakes only as validated learning reduces uncertainty.
 - `INS-260330-4D05` Restricted investment options funnel high savings rates into real estate, disconnecting prices from underlying demand.
 - `INS-260403-738F` Companies invest in AI infrastructure defensively, then can't admit it isn't working because they've already spent too much.
 - `INS-260327-D7DD` When real estate is unaffordable, bonds are unattractive, and savings accounts lose to inflation, stocks become the only game in town regardless of fundamentals.
@@ -41,3 +22,22 @@
 - `INS-260403-4227` More VC money doesn't produce more great startups — it inflates prices, spreads talent thin, and compresses exit multiples.
 - `INS-260403-D00D` JPMorgan's $1.5T commitment signals that private banks are assuming industrial policy roles governments are too slow to fill.
 - `INS-260403-7157` Solar attracts ~$500B/year in investment and installs more new capacity than every other electricity source combined.
+- `INS-260403-3AE7` Confidence about AI's trajectory is hardening into consensus faster than the underlying evidence supports, creating dangerous belief-lock-in across capital allocation decisions.
+- `INS-260403-9421` The time required to build a company is often predictive of how long it will last.
+- `INS-260403-A93A` Extremely high CLTV/CAC ratios can signal missed growth opportunities rather than operational excellence.
+- `INS-260329-1CB0` Extreme early frugality isn't about the savings — it's about escaping survival mode so you can think long-term and make strategic bets.
+- `INS-260405-69F1` Innovation spend framed as a call option is harder for CFOs to cut because it reuses their own valuation logic.
+- `INS-260405-3403` You must fund the losers to find the winners—the portfolio math only works if you don't pre-filter by apparent promise.
+- `INS-260403-BDCC` Fund internal innovation projects in tranches tied to evidence, not annual lump-sum budgets.
+- `INS-260404-F22C` Biotech and health tech VC funds are raising at dramatically larger scales than software-focused peers.
+- `INS-260404-F970` Capital gravitates toward the biggest, most painful problems—founders who articulate problem severity clearly will raise more effectively.
+- `INS-260403-7881` Free money dilutes talent, inflates competition, and rewards unsustainable growth models over durable businesses.
+- `INS-260403-70B9` Tracking total capital deployed across follow-on rounds rather than just the initial investment reveals the true risk exposure and changes return calculations significantly.
+- `INS-260402-C2BA` F&F capital works when tied to a specific unlockable milestone like an MVP or pilot launch, not when used to buy time while figuring things out.
+- `INS-260404-5D6E` The largest venture rounds are concentrating in AI infrastructure and biotech, signaling investor preference for capital-intensive defensible businesses.
+- `INS-260330-A38C` Travis systematically learned when Lyft had investor meetings, then immediately contacted those same investors to announce Uber's upcoming round, causing investors to back out of Lyft deals.
+- `INS-260330-2BB3` Each funding round should target specific risks to eliminate, with the amount raised calibrated precisely to the milestones needed to peel away those risk layers.
+- `INS-260405-5B4D` Investors asking 'what will you do with the money?' are really asking whether you understand your own business's leverage points.
+- `INS-260330-A1A4` Apple's $285B cash hoard demonstrates that past a strategic reserve threshold, excess cash creates more problems than options.
+- `INS-260330-4830` When repatriation taxes trap offshore profits, companies resort to borrowing domestically against foreign assets rather than deploying capital optimally.
+- `INS-260403-D379` Spend the least on experiments when you know the least, and increase stakes only as validated learning reduces uncertainty.

@@ -60,7 +60,6 @@ related:
   - INS-260404-96E6
   - INS-260330-930D
   - INS-260324-1216
-  - INS-260327-62AB
 evidence:
   - id: INS-260323-3ADC
     type: SUPPORTS

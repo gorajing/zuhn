@@ -55,10 +55,10 @@ stance: >-
   of epistemic surrender.
 related:
   - PRI-260406-044F
+  - PRI-260407-AE33
   - PRI-260406-C1EF
   - PRI-260405-262B
   - INS-260403-C37D
-  - INS-260326-B10B
 evidence:
   - id: INS-260323-6A05
     type: SUPPORTS

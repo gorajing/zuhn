@@ -51,7 +51,6 @@ stance: >-
   equivalent of a type system and should be maximized rather than treated as
   optional
 related:
-  - INS-260323-DB7B
   - INS-260329-F688
   - INS-260329-47DD
   - PRI-260405-2A95

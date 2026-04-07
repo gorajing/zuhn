@@ -51,7 +51,6 @@ related:
   - PRI-260328-4810
   - PRI-260328-EC3F
   - INS-260403-ABC5
-  - INS-260402-4DB4
 evidence:
   - id: INS-260329-A4CA
     type: TRANSFERS_TO

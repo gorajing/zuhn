@@ -56,9 +56,9 @@ stance: >-
 related:
   - INS-260323-D288
   - INS-260327-2627
+  - PRI-260407-7C1A
   - PRI-260323-7BFA
   - INS-260404-19B0
-  - INS-260322-F6AA
 evidence:
   - id: INS-260323-D288
     type: EXTENDS

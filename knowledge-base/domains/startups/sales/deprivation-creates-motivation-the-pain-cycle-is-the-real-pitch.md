@@ -55,10 +55,10 @@ stance: >-
   product pitch.
 related:
   - INS-260327-B6C7
+  - PRI-260407-600C
   - INS-260329-E598
   - PRI-260403-88F5
   - INS-260330-5ED4
-  - INS-260403-4572
 evidence:
   - id: INS-260330-D644
     type: TRANSFERS_TO

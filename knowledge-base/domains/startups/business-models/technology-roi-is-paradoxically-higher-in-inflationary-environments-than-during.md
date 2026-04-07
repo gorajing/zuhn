@@ -54,14 +54,13 @@ stance: >-
   investment higher during inflation than during periods of abundance.
 related:
   - INS-260404-3043
-  - INS-260405-18C8
   - INS-260405-86A1
   - INS-260403-9897
   - INS-260403-D543
   - INS-260322-D079
   - PRI-260406-50EA
+  - PRI-260407-B738
   - INS-260325-4846
-  - INS-260327-C1F6
 ---
 The conventional wisdom is that higher interest rates and inflation are bad for technology companies because they compress valuations and reduce available capital. While this is true for funding and multiples, Chamath argues the opposite is true for technology adoption and utility. When labor costs rise and raw materials become expensive, every dollar saved through automation, software efficiency, or process optimization is worth more.
 

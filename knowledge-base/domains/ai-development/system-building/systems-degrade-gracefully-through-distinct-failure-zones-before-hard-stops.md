@@ -43,12 +43,13 @@ resolutions:
     and fallback behaviors. The key insight is that each failure zone has
     distinct symptoms that can be detected and handled differently.
 related:
+  - PRI-260407-69A9
   - PRI-260406-6C2C
+  - PRI-260407-68B9
   - INS-260330-D7CC
   - INS-260329-4D24
-  - INS-260329-C689
-  - INS-260330-5A13
   - INS-260330-A3B7
+  - INS-260330-5A13
 stance: Minecraft shows five distinct degradation zones before total failure
 evidence:
   - id: INS-260330-D7CC

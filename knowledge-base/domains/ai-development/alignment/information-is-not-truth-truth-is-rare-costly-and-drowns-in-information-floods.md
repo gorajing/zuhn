@@ -52,11 +52,11 @@ stance: >-
   easier, because fiction is cheap to produce while truth requires expensive
   institutional investment.
 related:
+  - PRI-260407-AE33
   - INS-260405-6019
   - INS-260330-1E6A
   - PRI-260406-044F
   - INS-260330-6566
-  - INS-260330-CC51
   - INS-260330-E5F2
   - INS-260404-8750
   - INS-260405-BFC0

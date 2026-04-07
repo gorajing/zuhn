@@ -49,7 +49,6 @@ stance: >-
   seed rounds becoming standard for companies with strong narratives even before
   significant traction.
 related:
-  - INS-260404-B016
   - INS-260405-5569
   - INS-260404-F54F
   - INS-260403-1E5F

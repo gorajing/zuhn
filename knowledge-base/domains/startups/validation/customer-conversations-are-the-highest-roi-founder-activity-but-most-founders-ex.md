@@ -47,9 +47,9 @@ related:
   - INS-260403-359D
   - INS-260403-802D
   - INS-260405-AC3E
+  - PRI-260407-2E0F
   - PRI-260406-BC55
   - INS-260403-DD95
   - PRI-260323-8EEA
-  - INS-260323-5CBE
 ---
 The Mom Test's core insight—that customers will lie to you out of politeness unless you structure conversations to prevent it—represents a fundamental failure mode in early-stage startups. The article frames this as helping founders avoid 'building something people like but don't actually need,' which is the canonical startup death spiral. The deeper pattern is that confirmation bias in customer discovery is not a minor error but the primary mechanism by which startups waste months or years building the wrong thing. Founders who master falsification-oriented questioning gain a massive time advantage over those running on politeness-validated assumptions.

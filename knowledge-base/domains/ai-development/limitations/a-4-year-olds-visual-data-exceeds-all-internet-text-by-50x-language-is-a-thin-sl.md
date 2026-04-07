@@ -52,11 +52,12 @@ resolutions:
     ultimately limited intermediate step.
 related:
   - INS-260323-1BF7
+  - PRI-260407-ED1C
   - INS-260323-1345
   - INS-260329-EDA2
   - INS-260330-189F
-  - INS-260329-C555
   - INS-260322-E734
+  - INS-260329-C555
   - INS-260330-B85B
 stance: >-
   The optical nerve delivers about 10^15 bytes to a 4-year-old's brain versus

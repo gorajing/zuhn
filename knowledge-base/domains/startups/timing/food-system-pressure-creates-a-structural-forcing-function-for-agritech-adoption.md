@@ -54,7 +54,7 @@ related:
   - INS-260403-44D9
   - INS-260404-CC7C
   - PRI-260406-1911
-  - PRI-260403-C34A
+  - PRI-260407-E7CD
 ---
 The global food system is responsible for roughly a quarter of greenhouse gas emissions and is a primary driver of biodiversity loss, while simultaneously needing to feed a growing population with diversifying dietary demands. This isn't a cyclical problem that market forces alone will resolve—it's a structural tension that can only be addressed through technological transformation.
 

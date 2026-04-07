@@ -58,15 +58,15 @@ stance: >-
   cost always appears higher than the compensation cost
 related:
   - INS-260327-8048
-  - INS-260330-E218
   - INS-260330-54ED
-  - INS-260330-22C0
   - INS-260330-4489
   - INS-260330-47CF
   - INS-260403-2DC4
   - INS-260404-B6E8
   - INS-260404-CC7C
   - INS-260404-1000
+  - INS-260404-D39F
+  - INS-260404-16B0
 evidence:
   - id: INS-260330-EB48
     type: SUPPORTS

@@ -50,9 +50,9 @@ stance: >-
 related:
   - INS-260325-A36F
   - INS-260404-0348
+  - PRI-260407-00A1
   - INS-260405-59AB
   - INS-260403-3BD3
-  - INS-260403-5DD6
 ---
 Most people believe psychopathy is extremely rare, associated only with serial killers. In reality, about 1% of adults have clinical levels of psychopathy, the same prevalence as schizophrenia or bipolar disorder. The core feature is an outwardly normal, even charming demeanor masking profound deficits in emotional connection and genuine caring for others' welfare.
 

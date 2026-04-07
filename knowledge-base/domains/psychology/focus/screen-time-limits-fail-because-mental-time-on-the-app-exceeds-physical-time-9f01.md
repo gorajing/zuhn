@@ -47,13 +47,13 @@ stance: >-
   addictive design creates persistent mental engagement that extends far beyond
   the minutes spent on-screen.
 related:
+  - PRI-260407-3EB6
   - INS-260325-9B9A
   - PRI-260328-1654
   - INS-260327-FD92
   - INS-260329-A9C0
-  - INS-260403-D022
   - INS-260321-EE05
-  - INS-260327-0105
+  - INS-260403-D022
   - INS-260327-6F94
   - INS-260403-BE24
 evidence:

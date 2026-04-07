@@ -49,9 +49,9 @@ related:
   - INS-260403-DF37
   - PRI-260405-608A
   - PRI-260406-4FAE
+  - PRI-260407-2ACF
   - PRI-260328-E870
   - INS-260403-A99F
-  - INS-260403-DC4A
 ---
 At the pre-seed and seed stage, your first 3-10 hires are not just filling roles — they are establishing the operating norms, quality bar, and execution tempo that will persist long after those individuals' specific contributions. A founding engineer doesn't just write code; they establish the engineering culture, tooling choices, and technical standards that subsequent hires will inherit.
 

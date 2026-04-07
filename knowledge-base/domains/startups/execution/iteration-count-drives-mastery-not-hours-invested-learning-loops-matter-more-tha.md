@@ -52,7 +52,6 @@ stance: >-
   experiment-evaluate-adjust cycles, not by raw time invested, making iteration
   velocity the primary metric for individual and team capability growth.
 related:
-  - INS-260323-4D8D
   - INS-260322-24FB
   - INS-260323-F274
   - INS-260327-5E40
@@ -62,6 +61,7 @@ related:
   - INS-260329-B2F4
   - PRI-260328-49CB
   - PRI-260406-2D38
+  - INS-260402-5523
 evidence:
   - id: INS-260323-4D8D
     type: SUPPORTS

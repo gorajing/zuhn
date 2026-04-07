@@ -47,13 +47,13 @@ stance: >-
 related:
   - INS-260323-13C0
   - INS-260323-D18D
-  - INS-260320-7682
   - INS-260323-4E12
   - PRI-260320-3032
   - INS-260327-5E40
   - INS-260329-5F96
   - INS-260330-206C
   - INS-260320-7B4B
+  - PRI-260407-7FB7
   - INS-260330-CAE6
 ---
 As language models are trained on exponentially more data, the resulting performance improvements are only linear. This means that once all competitors have access to roughly the same volume of internet-scraped text, models converge toward similar capability levels on that axis alone.

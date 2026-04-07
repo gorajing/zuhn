@@ -52,9 +52,9 @@ related:
   - INS-260403-6B24
   - INS-260403-87C4
   - INS-260404-8881
+  - PRI-260407-D50C
   - INS-260403-39B8
   - INS-260403-0BE9
-  - INS-260405-776D
   - INS-260405-F01C
 ---
 The dramatic decline in first-time fund formation signals a structural shift in venture capital. With emerging managers unable to raise, the industry loses the fresh perspectives and unconventional bets that historically produced outsized returns from overlooked founders and markets. This concentration effect compounds: fewer new managers means less competition for deals outside the AI hype cycle, which means non-consensus founders lose access to capital entirely.

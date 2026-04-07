@@ -51,11 +51,10 @@ stance: >-
 related:
   - INS-260327-484F
   - INS-260403-71E6
-  - INS-260403-1E5C
+  - PRI-260407-40F9
   - INS-260404-9103
   - INS-260405-2F43
   - INS-260404-78E0
-  - INS-260404-E061
   - INS-260403-9149
 ---
 Kalshi raised $1B at an $11B valuation, doubling in under two months, with trading volumes exceeding $1B weekly—up over 1000% from 2024. The round attracted top-tier investors including Paradigm, Sequoia, a16z, and YC. New partnerships with CNBC and CNN integration signal prediction markets moving from niche crypto-adjacent products into mainstream financial infrastructure.

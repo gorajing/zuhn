@@ -57,16 +57,16 @@ stance: >-
   failure, not a reliable quality signal — the lame-looking prototype and the
   great finished work are the same project.
 related:
-  - INS-260323-1C32
   - INS-260402-E36A
   - INS-260403-8A8B
   - INS-260403-F657
   - INS-260405-020E
   - INS-260404-F8E6
+  - PRI-260407-C737
   - PRI-260406-377E
   - INS-260404-CD3E
-  - INS-260404-56F8
   - INS-260405-7BA5
+  - INS-260403-824F
 ---
 Paul Graham identifies a specific cognitive trap: we apply the same evaluative standards to embryonic ambitious projects that we apply to finished, polished work or to less ambitious projects. This comparison is structurally unfair — a 20% sketch of something that will be 10x more valuable than what it's being compared to is already worth more than its surface appearance suggests.
 

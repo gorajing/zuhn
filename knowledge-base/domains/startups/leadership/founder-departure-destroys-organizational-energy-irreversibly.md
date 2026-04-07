@@ -60,8 +60,8 @@ related:
   - INS-260327-1EC4
   - INS-260330-D8D1
   - INS-260327-2B75
+  - PRI-260407-7C1A
   - INS-260327-2A73
-  - PRI-260406-2B11
 ---
 Lubetzky observes across industries — startups, restaurants, global corporations — that founder departure triggers an irreversible energy loss. His framing ('when the founder leaves, the soul leaves too') points to something deeper than management competence: founders carry the original problem-obsession, taste, and willingness to make irrational bets that created the company's differentiation.
 

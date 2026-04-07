@@ -51,11 +51,11 @@ stance: >-
   economics than US equivalents because the friction gap between existing
   financial infrastructure and digital alternatives is far wider.
 related:
-  - INS-260322-BC97
   - INS-260403-4F0D
   - PRI-260403-C337
   - INS-260403-BE7C
   - INS-260404-EC16
+  - PRI-260407-40F9
 evidence:
   - id: INS-260322-BC97
     type: EXTENDS

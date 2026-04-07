@@ -47,11 +47,11 @@ resolutions:
     isn't 'how fast can we ship?' but 'what do we know about customers that
     nobody else building fast will discover?'
 related:
+  - PRI-260407-590E
   - INS-260323-E15F
   - PRI-260406-806C
   - PRI-260406-72B3
   - INS-260403-8011
-  - PRI-260328-D5EB
   - INS-260327-FA43
   - INS-260329-A57B
   - INS-260329-C0A7

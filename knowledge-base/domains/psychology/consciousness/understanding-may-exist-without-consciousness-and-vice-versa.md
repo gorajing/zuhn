@@ -46,15 +46,15 @@ stance: >-
   consciousness and intelligent behavior may be fundamentally separable.
 related:
   - INS-260325-0713
+  - PRI-260407-1D23
   - PRI-260323-F92B
   - INS-260403-E2FB
   - PRI-260406-D6AA
-  - INS-260403-D463
   - INS-260327-6021
   - INS-260329-A6FB
-  - INS-260329-3C75
   - INS-260330-FBF0
   - INS-260403-617C
+  - INS-260403-D463
 evidence:
   - id: INS-260323-539C
     type: CONTRADICTS

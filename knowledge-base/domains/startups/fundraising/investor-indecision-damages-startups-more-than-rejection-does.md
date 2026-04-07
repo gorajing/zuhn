@@ -46,7 +46,6 @@ stance: >-
   The most dangerous investor behavior is not saying no, but the slow no that
   drains months of founder time while the startup stagnates
 related:
-  - INS-260323-F9E5
   - INS-260402-EA72
   - PRI-260406-E1D5
   - INS-260403-EDEF

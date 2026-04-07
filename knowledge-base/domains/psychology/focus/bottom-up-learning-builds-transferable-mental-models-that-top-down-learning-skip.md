@@ -53,7 +53,6 @@ stance: >-
   understanding that persists across tools and languages, while starting with
   abstractions leaves permanent blind spots.
 related:
-  - INS-260323-2C19
   - INS-260329-F969
   - INS-260329-ACE6
   - INS-260329-E43B
@@ -63,6 +62,7 @@ related:
   - INS-260329-DACC
   - INS-260404-023C
   - INS-260329-9A58
+  - INS-260329-70D5
 evidence:
   - id: INS-260323-2C19
     type: SUPPORTS

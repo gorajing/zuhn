@@ -43,10 +43,10 @@ resolutions:
     one cheaper.
 related:
   - PRI-260406-E602
+  - PRI-260407-AF64
   - PRI-260328-D5EB
   - PRI-260406-818D
   - INS-260322-3C3D
-  - PRI-260328-4CC0
   - PRI-260328-6CEC
   - INS-260328-0932
   - INS-260329-4092

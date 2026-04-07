@@ -57,11 +57,11 @@ related:
   - INS-260330-D8D1
   - INS-260330-D644
   - INS-260330-A954
-  - INS-260403-20A7
   - INS-260403-04FF
   - INS-260403-25A8
   - INS-260403-DF73
   - INS-260403-3B67
+  - INS-260405-AD04
 ---
 A founder fixated on going public while the investor's fund is structured for quicker M&A timelines creates an invisible fault line that only surfaces when stakes are highest. The same applies in reverse — if a founder would happily take a $100M strategic exit but investors need a 10x return on a high entry valuation, the math doesn't work for anyone. These misalignments are far easier to surface in calm pre-investment conversations than to renegotiate when the exit clock is ticking.
 

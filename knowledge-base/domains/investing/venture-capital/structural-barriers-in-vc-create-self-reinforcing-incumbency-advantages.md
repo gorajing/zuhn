@@ -46,7 +46,6 @@ stance: >-
   and LP relationships form a closed loop that established firms monopolize
 related:
   - INS-260323-CF27
-  - INS-260329-0B55
   - INS-260329-A6DB
   - INS-260330-F759
   - INS-260403-8402
@@ -55,6 +54,7 @@ related:
   - INS-260405-B22F
   - INS-260404-A893
   - PRI-260406-B331
+  - INS-260330-6050
 ---
 Venture capital has unusually high barriers to entry compared to other investment classes. New investors face limited deal flow because the best founders prefer established firms with track records, while LPs prefer allocating to funds with proven returns. This creates a closed loop: without deal flow you can't build returns, without returns you can't attract LPs, and without LP capital you can't access deal flow.
 

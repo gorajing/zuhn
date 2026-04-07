@@ -54,10 +54,10 @@ stance: >-
 related:
   - INS-260330-D74A
   - PRI-260406-E542
+  - PRI-260407-2DBD
   - INS-260403-EDEF
   - INS-260328-372B
   - INS-260328-D866
-  - PRI-260405-E256
   - INS-260405-EAF3
 ---
 The perception that government grants are impractical for startups—too slow, too bureaucratic, near-zero odds—is largely wrong for Phase I programs. Approval rates in the 15–20% range are competitive but not prohibitive; by comparison, top-tier VC funds accept far less than 1% of companies they see. The difference is that founders don't apply to government grants because they don't perceive them as a real path.

@@ -51,8 +51,6 @@ stance: >-
   the value and deeper search yields diminishing returns.
 related:
   - INS-260325-9C89
-  - INS-260329-A86F
-  - INS-260329-4986
   - INS-260330-4267
   - PRI-260406-F95C
   - INS-260321-BFA3

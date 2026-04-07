@@ -54,8 +54,8 @@ related:
   - INS-260403-DDFD
   - INS-260404-DF88
   - PRI-260403-3906
+  - PRI-260407-7D5E
   - INS-260330-6C68
-  - INS-260403-0680
 ---
 The framework identifies five repeatable patterns: (1) Technology breakthroughs enabling radically better solutions to old problems (Brex using banking APIs for startup credit cards), (2) Regulatory changes creating new mandatory needs (Factorial capitalizing on Spain's employee time-tracking law), (3) Domains that feel too messy or specialized for most founders (SpaceX in rockets), (4) Boring industries that are massive but neglected (Flexport in freight, Ramp in expense software), and (5) Non-consensus opportunities where universal agreement signals it's already too late.
 

@@ -46,9 +46,9 @@ stance: >-
 related:
   - PRI-260405-0AC6
   - PRI-260406-E602
+  - PRI-260407-AF64
   - INS-260330-0C1B
   - PRI-260328-F0B4
-  - INS-260403-BB23
 evidence:
   - id: INS-260330-0C1B
     type: EXTENDS

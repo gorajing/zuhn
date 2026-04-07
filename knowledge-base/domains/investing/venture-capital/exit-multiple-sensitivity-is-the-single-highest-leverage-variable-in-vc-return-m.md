@@ -49,7 +49,6 @@ stance: >-
   deserving of stress-testing.
 related:
   - INS-260327-ECDA
-  - INS-260329-2B60
   - INS-260403-1019
   - INS-260403-1EE4
   - INS-260403-C377

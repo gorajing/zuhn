@@ -52,10 +52,10 @@ stance: >-
 related:
   - INS-260404-459B
   - INS-260404-6FFF
+  - PRI-260407-7D5E
   - INS-260403-5B46
   - INS-260403-C949
   - INS-260403-CA1E
-  - INS-260322-CFB1
   - INS-260405-5D8A
 ---
 The playbook of building in public, hiring aggressively, and courting press has become noise. The most promising startups are now lean, quiet, and buried deep in vertical niches where they compound value without attracting attention or competition. Traditional investor signals — headcount, media presence, visible growth curves — have become unreliable indicators of actual company trajectory.

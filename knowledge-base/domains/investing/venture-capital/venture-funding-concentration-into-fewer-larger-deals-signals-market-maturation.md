@@ -47,7 +47,6 @@ stance: >-
   structural change in venture capital rather than a cyclical pattern
 related:
   - INS-260403-0BE9
-  - INS-260405-DDC2
   - INS-260405-3E92
   - INS-260403-1B46
   - INS-260405-776D
@@ -56,6 +55,7 @@ related:
   - INS-260404-8881
   - INS-260404-970B
   - INS-260403-D986
+  - INS-260404-D5B5
 ---
 Venture funding reached $94.6 billion in Q2 2025 for the third consecutive quarter above $90B, representing a 53% increase from 2024. However, the headline number masks a structural shift: capital is flowing into fewer, larger deals rather than being distributed broadly across the startup ecosystem.
 

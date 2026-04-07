@@ -49,13 +49,13 @@ stance: >-
   More startups die from the post-PMF growth plateau than from failing to find
   initial product-market fit
 related:
-  - INS-260323-F9E5
   - INS-260402-B66A
   - INS-260403-C7E3
   - INS-260402-EA72
+  - INS-260323-F9E5
   - INS-260403-57FF
   - INS-260403-99B1
-  - INS-260403-7D5B
+  - PRI-260407-2DBD
 ---
 The conventional narrative focuses on product-market fit as the great filter, but the article presents a compelling counter-pattern: the years 5-7 growth plateau kills more funded startups than the initial search for PMF. This is when CAC spikes, growth stalls, investors go quiet, and acquisition offers arrive at valuations that feel like defeat. Most companies sell at this point.
 

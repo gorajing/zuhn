@@ -49,10 +49,10 @@ stance: >-
   connections between the prefrontal cortex and reward centers.
 related:
   - INS-260325-9F01
+  - PRI-260407-3EB6
   - PRI-260328-1654
   - INS-260330-85D9
   - PRI-260406-D0E1
-  - INS-260330-C89D
   - INS-260327-0105
 evidence:
   - id: INS-260327-FB98

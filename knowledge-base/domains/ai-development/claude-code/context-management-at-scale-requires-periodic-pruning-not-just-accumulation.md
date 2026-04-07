@@ -53,7 +53,6 @@ related:
   - PRI-260328-A65A
   - INS-260320-0127
   - INS-260329-CC79
-  - INS-260327-F625
 evidence:
   - id: INS-260329-CC79
     type: TRANSFERS_TO

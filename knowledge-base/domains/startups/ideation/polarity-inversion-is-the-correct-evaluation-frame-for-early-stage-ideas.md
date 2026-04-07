@@ -50,7 +50,6 @@ stance: >-
   imagining ways they could succeed is not just generous — it's the
   higher-expected-value analytical frame
 related:
-  - INS-260328-8CCC
   - INS-260404-9E63
   - INS-260404-A42E
   - INS-260329-5FB5

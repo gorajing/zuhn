@@ -52,7 +52,7 @@ related:
   - PRI-260328-0C15
   - PRI-260328-95E3
   - INS-260323-5C6F
-  - INS-260329-CEC5
+  - PRI-260407-F704
 ---
 The Wayback Machine exercise reveals something subtle: as companies morph from single-product to multi-product suites, certain messaging elements remain constant while others change. The constant elements represent the company's durable platform identity — the overarching problem space they own. The changing elements represent individual product positioning that adapts as the portfolio grows.
 

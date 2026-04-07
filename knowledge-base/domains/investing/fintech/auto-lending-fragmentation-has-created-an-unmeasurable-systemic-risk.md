@@ -46,10 +46,10 @@ stance: >-
   debt exposure genuinely unmeasurable, creating blind-spot systemic risk.
 related:
   - INS-260321-C6C0
-  - PRI-260321-2DF0
   - PRI-260328-386C
+  - PRI-260407-93D7
+  - PRI-260321-2DF0
   - INS-260328-FDC8
-  - PRI-260406-B702
   - INS-260403-EFFB
 ---
 Delinquent auto debt over 60 days past due is at all-time highs, including above 2008 levels. But the more alarming finding is that the lending market has become so fragmented that total exposure is genuinely unknown. Between traditional loans, leases, buy-here-pay-here dealers, cross-collateralized lending, and fintech products, no single entity has a complete picture.

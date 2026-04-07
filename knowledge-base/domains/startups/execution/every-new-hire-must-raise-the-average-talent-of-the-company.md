@@ -47,6 +47,7 @@ stance: >-
   to future talent.
 related:
   - INS-260323-2C70
+  - PRI-260407-2ACF
   - INS-260330-A69C
   - PRI-260405-608A
   - PRI-260403-7BEC
@@ -55,7 +56,6 @@ related:
   - INS-260327-A3E9
   - INS-260329-CF70
   - INS-260329-C92A
-  - INS-260330-072C
 evidence:
   - id: INS-260325-D19B
     type: SUPPORTS

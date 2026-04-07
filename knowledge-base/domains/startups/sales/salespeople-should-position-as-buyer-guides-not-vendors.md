@@ -51,7 +51,6 @@ stance: >-
   incentives with the buyer's interests.
 related:
   - INS-260327-60A0
-  - INS-260328-B233
   - INS-260329-55F7
   - INS-260329-226C
   - INS-260330-318B

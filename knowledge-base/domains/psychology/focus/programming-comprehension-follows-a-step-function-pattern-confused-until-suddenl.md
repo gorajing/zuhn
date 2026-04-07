@@ -52,10 +52,10 @@ stance: >-
   advance prevents premature abandonment.
 related:
   - INS-260329-E40B
+  - PRI-260407-ED1C
   - INS-260403-E2FB
   - INS-260329-DACC
   - INS-260325-0713
-  - INS-260403-0070
 evidence:
   - id: INS-260329-DACC
     type: SUPPORTS

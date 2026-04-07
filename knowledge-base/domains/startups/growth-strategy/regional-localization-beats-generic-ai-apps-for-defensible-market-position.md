@@ -54,7 +54,6 @@ related:
   - INS-260327-79E8
   - INS-260329-BCB7
   - PRI-260320-6847
-  - INS-260403-E5D4
 evidence:
   - id: INS-260327-79E8
     type: CONTRADICTS

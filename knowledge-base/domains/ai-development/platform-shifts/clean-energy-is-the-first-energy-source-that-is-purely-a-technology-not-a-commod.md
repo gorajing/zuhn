@@ -50,10 +50,10 @@ stance: >-
   fuels structurally cannot.
 related:
   - INS-260325-722C
+  - PRI-260407-B738
   - INS-260403-BD30
   - INS-260405-18C8
   - INS-260402-5C89
-  - PRI-260406-B8B2
   - INS-260405-D638
   - INS-260404-57D0
   - INS-260404-EE07

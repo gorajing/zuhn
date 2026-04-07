@@ -48,10 +48,10 @@ stance: >-
   marketing, and fundraising around a single story.
 related:
   - INS-260327-29F0
+  - PRI-260407-F704
   - PRI-260323-A5E8
   - PRI-260406-DF94
   - INS-260330-7B1C
-  - INS-260403-7E7C
   - INS-260327-ECDA
   - INS-260330-4C23
   - INS-260403-4A9E

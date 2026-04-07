@@ -46,7 +46,6 @@ stance: >-
   cycle causes more damage than the failure itself, because the emotional
   response amplifies the setback.
 related:
-  - INS-260323-1811
   - INS-260329-66BD
   - INS-260329-19F9
   - INS-260329-1D08
@@ -56,6 +55,7 @@ related:
   - INS-260329-DF07
   - INS-260403-5808
   - INS-260403-E748
+  - INS-260403-6EA0
 evidence:
   - id: INS-260323-1811
     type: TRANSFERS_TO

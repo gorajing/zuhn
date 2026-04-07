@@ -47,15 +47,15 @@ stance: >-
   capital.
 related:
   - INS-260330-7DA5
-  - INS-260403-5D7D
-  - INS-260403-CA93
   - INS-260403-0680
   - INS-260403-A4FC
   - INS-260403-F387
   - INS-260404-34D4
+  - PRI-260407-D50C
   - INS-260403-4227
   - INS-260403-5056
   - INS-260405-6342
+  - INS-260403-A521
 ---
 Peter Walker's data shows that venture funding in 2025 is concentrating into fewer companies than ever before. AI-focused startups and those based in the Bay Area are capturing a disproportionate share of available capital, talent, and media attention.
 

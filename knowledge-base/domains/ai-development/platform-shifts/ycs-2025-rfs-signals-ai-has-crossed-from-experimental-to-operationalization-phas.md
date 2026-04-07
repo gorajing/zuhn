@@ -54,10 +54,10 @@ related:
   - INS-260327-7C69
   - INS-260403-BBCF
   - INS-260403-420F
+  - PRI-260407-F704
   - INS-260403-407A
   - INS-260405-8080
   - INS-260330-3E6B
-  - INS-260405-6342
   - INS-260404-CAD5
 ---
 YC's six target areas — agent infrastructure, AI-native enterprise workflows, workforce retraining, video generation, lean mega-companies, and public-sector consulting automation — share a common thread: they all assume capable AI models already exist and focus on turning that capability into durable products and revenue.

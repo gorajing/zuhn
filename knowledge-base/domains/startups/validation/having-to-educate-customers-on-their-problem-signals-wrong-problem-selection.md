@@ -55,8 +55,8 @@ related:
   - INS-260328-D2EC
   - INS-260329-DABC
   - INS-260329-79D3
-  - INS-260329-B0BA
   - INS-260329-F2BB
+  - INS-260330-E6B7
 ---
 A critical litmus test for problem-solution fit is whether customers already feel the pain you're addressing. When founders find themselves spending most of their energy convincing prospects that a problem exists — rather than demonstrating their solution is the best one — it's a strong signal they've chosen the wrong problem. Google+ exemplifies this at scale: a technically superior social network that failed because nobody was actively searching for an alternative to Facebook.
 

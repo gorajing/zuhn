@@ -49,11 +49,11 @@ stance: >-
   issues but cannot yet maintain codebase health, evaluate system design
   quality, or make good long-term architectural decisions like senior engineers.
 related:
-  - INS-260321-2482
   - INS-260325-D540
   - INS-260403-4120
   - INS-260403-8793
-  - PRI-260406-3EF8
+  - INS-260321-2482
+  - PRI-260407-D1AD
 evidence:
   - id: INS-260327-1FA1
     type: SUPPORTS

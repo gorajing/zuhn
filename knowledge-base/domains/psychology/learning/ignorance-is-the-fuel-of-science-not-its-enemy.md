@@ -48,7 +48,6 @@ stance: >-
   don't know rather than by the accumulation of what we do know — facts are
   byproducts, not the engine.
 related:
-  - INS-260325-24D1
   - INS-260323-BEF0
   - INS-260325-4C09
   - INS-260330-1718
@@ -58,6 +57,7 @@ related:
   - PRI-260406-DB86
   - INS-260330-420B
   - INS-260330-3851
+  - INS-260402-F957
 evidence:
   - id: INS-260330-B2B8
     type: SUPPORTS

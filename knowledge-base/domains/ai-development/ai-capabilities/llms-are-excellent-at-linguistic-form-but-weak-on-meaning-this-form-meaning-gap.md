@@ -51,12 +51,11 @@ resolutions:
     builders, this means LLMs are reliable for form-heavy tasks and unreliable
     for meaning-heavy ones.
 related:
+  - PRI-260407-1D23
   - INS-260330-84C6
   - INS-260323-539C
   - INS-260329-ACE6
   - INS-260330-2666
-  - INS-260329-9CED
-  - INS-260330-EA8B
   - INS-260403-617C
 stance: >-
   A leading psycholinguist confirms that LLMs have mastered the form (syntax,

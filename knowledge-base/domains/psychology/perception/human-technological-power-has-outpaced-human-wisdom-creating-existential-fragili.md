@@ -48,8 +48,6 @@ stance: >-
   capacity have not scaled to match this power.
 related:
   - INS-260325-C7FA
-  - INS-260325-B882
-  - INS-260327-2021
   - PRI-260328-E349
   - PRI-260328-D292
   - INS-260330-09DE

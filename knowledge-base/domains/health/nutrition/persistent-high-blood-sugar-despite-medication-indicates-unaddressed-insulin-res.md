@@ -42,8 +42,8 @@ stance: >-
 related:
   - INS-260327-FC60
   - PRI-260325-9258
+  - PRI-260407-9D41
   - PRI-260328-7AF5
   - INS-260327-A6B6
-  - INS-260327-CF14
 ---
 When blood sugar remains high despite medication, the root causes are typically unaddressed hepatic insulin resistance, cortisol-driven gluconeogenesis, fatty liver disease, and hidden dietary carbohydrate sources

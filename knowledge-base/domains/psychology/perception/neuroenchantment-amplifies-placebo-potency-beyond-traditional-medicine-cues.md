@@ -53,11 +53,11 @@ stance: >-
   'neuroenchantment' effect that produces stronger placebo responses than
   conventional medical cues alone
 related:
+  - PRI-260407-3EB6
   - PRI-260325-2DE6
   - PRI-260325-663A
   - INS-260322-3A00
   - PRI-260406-05B1
-  - PRI-260328-1545
 evidence:
   - id: INS-260322-3A00
     type: SUPPORTS

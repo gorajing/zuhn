@@ -57,6 +57,7 @@ related:
   - INS-260329-B4F5
   - INS-260329-348D
   - INS-260403-B280
+  - PRI-260407-023B
   - INS-260404-1299
 ---
 Economists typically measure technological progress through total factor productivity (TFP) growth, which has slowed since 1973. This has led influential thinkers like Tyler Cowen and Paul Krugman to argue we haven't experienced radical technological change. Smith's counter-argument is powerful: the information technology revolution redirected daily activities toward entirely different sorts of relationships and interactions, transformed how we navigate physical space, commoditized factual knowledge, and created permanent digital memory — none of which is well-captured by monetary value of goods and services.

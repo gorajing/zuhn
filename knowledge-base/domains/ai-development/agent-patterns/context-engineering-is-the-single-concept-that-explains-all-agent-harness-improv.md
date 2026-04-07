@@ -58,7 +58,7 @@ related:
   - PRI-260320-07A4
   - PRI-260321-D74F
   - PRI-260328-A65A
-  - INS-260327-E016
+  - PRI-260407-D1AD
   - INS-260320-63D3
 ---
 Chase describes three eras of agent development: raw text-in/text-out models where only simple chains were possible; tool-calling models that could decide what to do but needed heavy scaffolding; and the current era where LLMs run in loops with the harness managing context. The critical insight is that the jump from era two to three wasn't about a fundamentally different algorithm — it's still an LLM in a loop. What changed was context engineering: compaction strategies for when context windows fill up, planning tools that help the agent track its own state, file system access for overflow storage, sub-agent communication patterns, and memory for cross-session learning. Each of these is a different angle on the same problem: getting the right information into the model's context at the right time. Chase notes that even the difference between harnesses (Claude Code vs. Factory vs. AMP) largely comes down to context engineering choices, including understanding which tools each model family was trained on.

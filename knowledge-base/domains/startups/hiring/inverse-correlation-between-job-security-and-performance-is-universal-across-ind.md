@@ -53,11 +53,11 @@ stance: >-
   across all industries and countries, making rigid labor laws especially lethal
   to startups that have zero redundancy.
 related:
+  - PRI-260407-2ACF
   - INS-260330-F800
   - INS-260326-6870
   - INS-260403-1DC9
   - INS-260323-F2C3
-  - INS-260325-502D
 evidence:
   - id: INS-260326-6870
     type: CHALLENGES

@@ -56,10 +56,10 @@ related:
   - INS-260327-58AC
   - INS-260327-50CE
   - INS-260404-B8AE
-  - PRI-260405-1A34
   - INS-260404-EAA7
   - INS-260405-48EC
-  - INS-260405-051E
+  - PRI-260407-C35C
+  - PRI-260405-1A34
 ---
 Costco earns 75% of its profit from membership fees, not product margins. This creates a fundamentally different incentive structure than Amazon Prime or typical loyalty programs. Amazon Prime users self-select — each calculating whether the fee pays off — but Prime remains an add-on to Amazon's core margin-seeking model. Costco's model means every pricing decision is evaluated through the lens of 'will this make members renew?' rather than 'can we extract more margin here?' The result is a self-imposed 15% markup cap (vs. 24% at Walmart, 35% at Home Depot) that would be irrational under any other business model.
 

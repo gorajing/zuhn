@@ -60,8 +60,8 @@ related:
   - INS-260403-2759
   - INS-260403-3615
   - INS-260403-4C61
-  - INS-260403-F327
   - INS-260403-F68B
+  - INS-260403-FF65
 ---
 Multiple signals in the data — Accel's Globalscape report showing non-US ecosystems closing the gap at the application layer, the €33B Japan-Europe tech alliance since 2019, and Europe's push in applied AI with thousands of startups across strategic verticals — point to a bifurcation in global AI competition.
 

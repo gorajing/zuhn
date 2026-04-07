@@ -50,7 +50,6 @@ stance: >-
   speed means in startup execution.
 related:
   - INS-260320-922A
-  - INS-260323-5986
   - INS-260403-36DD
   - INS-260403-7483
   - INS-260329-4DBC

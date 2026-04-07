@@ -48,11 +48,11 @@ stance: >-
   turning schedule conflicts from interpersonal friction into recognized
   operational protocol.
 related:
+  - PRI-260407-F884
   - INS-260329-5306
   - PRI-260406-4FAE
   - PRI-260405-F5A0
   - PRI-260406-B846
-  - PRI-260328-521E
   - INS-260403-2F4D
 evidence:
   - id: INS-260325-5023

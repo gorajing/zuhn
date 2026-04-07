@@ -51,11 +51,10 @@ stance: >-
   because passion is the only fuel that sustains the decade of pain required.
 related:
   - INS-260323-19A8
-  - INS-260328-F303
+  - PRI-260407-6F21
   - PRI-260405-E256
   - INS-260402-E140
-  - PRI-260323-1B96
-  - INS-260402-27A1
+  - PRI-260407-2DBD
   - INS-260330-156C
   - INS-260330-5E47
   - INS-260404-C1C1

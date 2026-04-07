@@ -53,10 +53,10 @@ related:
   - INS-260404-0C25
   - INS-260404-970B
   - INS-260403-39B8
+  - PRI-260407-D50C
   - INS-260403-0BE9
   - INS-260403-5056
   - INS-260405-6342
-  - INS-260403-8EE8
   - INS-260404-6243
 ---
 Q2 2024 venture deal value hit an eight-quarter high of $55.6 billion, but the headline number is misleading. CoreWeave and xAI alone absorbed $14.6 billion—over 26% of total capital deployed. Strip those two deals out and the remaining market tells a story of continued constraint rather than recovery.

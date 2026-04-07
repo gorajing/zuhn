@@ -55,12 +55,12 @@ related:
   - INS-260404-A0C2
   - INS-260405-54B7
   - INS-260405-B4D0
-  - INS-260403-968A
   - INS-260403-C5BD
   - INS-260403-5056
+  - INS-260403-968A
+  - PRI-260407-D50C
   - INS-260403-F387
   - INS-260403-8EE8
-  - INS-260403-1E5F
 ---
 For over a decade, SaaS was the default venture bet — predictable recurring revenue, high gross margins, and clear expansion metrics. But the investment thesis is shifting. Andreessen Horowitz reported a 60% surge in funding for AI-first startups over the past year while early-stage SaaS investment declined. The logic is straightforward: AI-native companies promise to automate what SaaS companies staffed humans to do.
 

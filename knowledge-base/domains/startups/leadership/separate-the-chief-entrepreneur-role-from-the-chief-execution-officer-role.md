@@ -54,10 +54,10 @@ stance: >-
   almost always resolves in favor of exploitation over exploration.
 related:
   - PRI-260406-CBC2
+  - PRI-260407-3179
   - INS-260404-8520
   - PRI-260406-5F31
   - INS-260405-0271
-  - INS-260404-1137
 evidence:
   - id: INS-260322-EAB6
     type: TRANSFERS_TO

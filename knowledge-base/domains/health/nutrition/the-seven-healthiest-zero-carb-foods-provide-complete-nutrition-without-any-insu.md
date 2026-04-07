@@ -45,6 +45,6 @@ related:
   - PRI-260325-654D
   - PRI-260328-4A63
   - INS-260327-118C
-  - INS-260327-C9DA
+  - PRI-260407-9D41
 ---
 Eggs, sardines, grass-fed beef, butter, aged cheese, organ meats, and bone broth collectively provide every essential nutrient with zero insulin-stimulating carbohydrates -- making them the foundation of metabolic healing

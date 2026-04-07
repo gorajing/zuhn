@@ -51,7 +51,6 @@ related:
   - INS-260323-E81D
   - INS-260403-91DB
   - INS-260404-2695
-  - INS-260330-2200
 evidence:
   - id: INS-260330-CA97
     type: TRANSFERS_TO

@@ -47,9 +47,7 @@ related:
   - INS-260322-D5EB
   - INS-260402-5522
   - INS-260403-C977
-  - INS-260327-2430
   - INS-260327-BEEE
-  - INS-260329-CF70
   - INS-260403-36C6
 stance: >-
   Only hire when you physically cannot meet demand, and hire people who do

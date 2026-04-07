@@ -61,7 +61,7 @@ related:
   - INS-260403-22D3
   - INS-260405-4B12
   - INS-260403-CEAD
-  - INS-260403-39CF
+  - INS-260405-3805
 ---
 Replit's billion-developer thesis rests on the Jevons Paradox from economics: when a resource becomes more efficient and cheaper to use, total consumption increases rather than decreases. Applied to software, this means AI won't eliminate developers — it will create an explosion of new builders as every small business owner, student, and knowledge worker can create custom tools for the cost of a few API tokens.
 

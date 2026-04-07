@@ -49,6 +49,6 @@ related:
   - PRI-260406-070D
   - INS-260403-5056
   - INS-260405-6342
-  - INS-260403-F387
+  - PRI-260407-D50C
 ---
 The conventional mental model of VC LPs — pension funds, university endowments, family offices — is outdated. By 2023, government entities (sovereign wealth funds, national development banks, public pension mandates tied to innovation policy) collectively surpassed every other LP category. This has downstream consequences: government capital tends to carry geographic mandates, ESG constraints, or sector priorities (deep tech, defense, climate) that private LPs don't impose. Founders and fund managers who understand this shift can anticipate where capital will flow next and which fund strategies will attract the largest checks. It also means that venture, often positioned as purely private-market activity, is increasingly entangled with public policy cycles.

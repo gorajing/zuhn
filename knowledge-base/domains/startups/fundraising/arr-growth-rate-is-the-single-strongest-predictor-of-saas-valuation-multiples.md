@@ -46,7 +46,6 @@ stance: >-
   statistical correlation with observed private SaaS transaction multiples
 related:
   - INS-260403-37F4
-  - INS-260404-D475
   - INS-260403-3DCB
   - INS-260330-D63C
   - INS-260404-9103

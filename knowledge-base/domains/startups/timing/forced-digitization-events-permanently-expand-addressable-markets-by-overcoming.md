@@ -56,9 +56,9 @@ stance: >-
 related:
   - INS-260330-2C57
   - INS-260330-318C
+  - PRI-260407-023B
   - INS-260330-30CE
   - INS-260404-6398
-  - INS-260404-3714
 evidence:
   - id: INS-260330-30CE
     type: EXTENDS

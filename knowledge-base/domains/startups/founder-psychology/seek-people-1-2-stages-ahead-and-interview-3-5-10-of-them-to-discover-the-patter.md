@@ -47,10 +47,10 @@ resolutions:
     responsibilities.
 related:
   - INS-260403-9421
+  - PRI-260407-2ACF
   - PRI-260406-04DB
   - PRI-260328-94D4
   - INS-260404-19B0
-  - INS-260403-79F3
   - INS-260330-C215
 stance: In fast-growing companies you cannot learn organically fast enough
 evidence:

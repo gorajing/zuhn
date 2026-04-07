@@ -52,7 +52,6 @@ stance: >-
   portfolio construction.
 related:
   - INS-260329-2A5A
-  - INS-260403-7CAF
   - INS-260403-6F8B
   - INS-260403-44C4
   - INS-260405-3E92
@@ -61,6 +60,7 @@ related:
   - INS-260403-F524
   - INS-260404-F493
   - INS-260404-77E7
+  - INS-260403-641F
 ---
 SignalFire raising over $1 billion demonstrates growing LP confidence in data-driven venture investing. Their approach treats proprietary data infrastructure as a core competitive advantage — using signals from developer activity, hiring patterns, product usage, and market dynamics to identify investment opportunities earlier and with more conviction than traditional network-based sourcing.
 

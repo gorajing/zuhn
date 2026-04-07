@@ -56,11 +56,11 @@ stance: >-
   like individuals — the same exponential laws apply at every organizational
   scale, even with only minimal inter-cluster connectivity.
 related:
+  - PRI-260407-023B
   - INS-260330-C8D7
   - PRI-260406-7C9C
   - PRI-260406-6C43
   - INS-260330-1C84
-  - INS-260330-41A5
 evidence:
   - id: INS-260330-C8D7
     type: SUPPORTS

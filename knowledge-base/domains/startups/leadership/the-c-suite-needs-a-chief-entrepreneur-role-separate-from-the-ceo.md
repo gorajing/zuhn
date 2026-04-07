@@ -52,11 +52,11 @@ related:
   - INS-260403-F0DF
   - INS-260403-EEDB
   - INS-260403-C1F5
+  - PRI-260407-3179
   - PRI-260406-CBC2
   - PRI-260406-D181
   - INS-260322-2FAD
   - PRI-260323-9EAD
-  - INS-260405-6BBC
 ---
 Osterwalder proposes that CEOs excel at growing companies within known business models but systematically underinvest in future growth engines. The Chief Entrepreneur role exists to lead exploration of completely new value propositions and business models while the CEO manages the existing business.
 

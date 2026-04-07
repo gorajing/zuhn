@@ -48,9 +48,9 @@ resolutions:
 related:
   - INS-260323-8AB8
   - INS-260323-15F4
+  - PRI-260407-40F9
   - PRI-260405-B144
   - PRI-260406-E015
-  - INS-260330-6AA3
 stance: >-
   After Fama-French opened the door to factor research, academics published 316+
   distinct factors by 2016

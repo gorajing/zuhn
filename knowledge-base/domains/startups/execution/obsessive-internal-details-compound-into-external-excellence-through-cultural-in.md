@@ -51,10 +51,10 @@ stance: >-
   excellence without the CEO having to personally enforce standards at scale.
 related:
   - PRI-260406-21DA
+  - PRI-260407-F684
   - INS-260403-A99F
   - PRI-260405-2DE5
   - INS-260327-70DF
-  - PRI-260406-A7EC
 evidence:
   - id: INS-260327-70DF
     type: CHALLENGES

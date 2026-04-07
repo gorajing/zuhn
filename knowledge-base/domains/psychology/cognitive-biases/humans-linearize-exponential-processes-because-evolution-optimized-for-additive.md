@@ -46,7 +46,6 @@ stance: >-
   Human cognitive failure with exponential growth is not a knowledge gap but a
   hardwired perceptual bias that cannot be overcome through awareness alone
 related:
-  - INS-260330-9FCF
   - PRI-260403-50EF
   - INS-260402-4BC7
   - INS-260330-C499

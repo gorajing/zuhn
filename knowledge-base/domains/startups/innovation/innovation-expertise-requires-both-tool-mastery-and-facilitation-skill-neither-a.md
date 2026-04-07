@@ -56,7 +56,7 @@ related:
   - INS-260322-2ABB
   - INS-260404-8520
   - INS-260330-43EE
-  - INS-260323-4DD9
+  - PRI-260407-6F21
 evidence:
   - id: INS-260323-1452
     type: EXTENDS

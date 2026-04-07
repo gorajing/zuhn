@@ -45,13 +45,13 @@ stance: >-
 related:
   - INS-260402-3FC5
   - INS-260403-AA6A
-  - INS-260403-0680
   - INS-260404-B016
   - INS-260405-EB05
-  - INS-260403-4AB2
   - INS-260403-5056
   - INS-260403-968A
   - INS-260403-0BE9
   - INS-260403-8EE8
+  - INS-260404-50AC
+  - INS-260403-5F8B
 ---
 Carta's Q2 2025 data showing bridge rounds at 16.6% of all VC cash — and still climbing — combined with PitchBook reporting only $45.7B raised across 376 funds through Q3 2025 (tracking near decade lows), paints a picture of systemic capital constraint. Series A and B activity has pulled back significantly, and follow-on funding is harder to secure across the board. This matters because it changes the strategic calculus for every startup: planning for a 12-month fundraise cycle is no longer conservative, it's baseline. Founders should model scenarios where their next raise takes 18-24 months and plan their burn accordingly. The bridge round isn't a sign of failure — it's become a standard survival mechanism in a market where the traditional funding cadence has broken down.

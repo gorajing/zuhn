@@ -57,8 +57,6 @@ related:
   - INS-260405-051E
   - INS-260405-8884
   - INS-260405-D4F4
-  - INS-260404-EAA7
-  - PRI-260406-6E0F
 ---
 Costco generates 75% of its revenue from membership fees, which fundamentally changes its incentive structure compared to traditional retailers or even Amazon Prime. Because renewal is the primary revenue driver, Costco self-imposes a 15% maximum markup (vs Walmart's 24% or Home Depot's 35%), passing savings to customers rather than extracting margin.
 

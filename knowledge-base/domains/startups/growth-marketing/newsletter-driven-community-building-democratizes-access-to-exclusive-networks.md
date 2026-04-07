@@ -47,10 +47,10 @@ stance: >-
   founders) access to information previously gatekept by insiders.
 related:
   - INS-260403-78AD
+  - PRI-260407-7C1A
   - INS-260403-2759
   - INS-260330-7CC0
   - INS-260404-3687
-  - INS-260403-D39A
   - INS-260403-D4D4
 ---
 Mariane realized the VC and startup community was very exclusive — events were closed circle and hard for outsiders to discover. She started a simple weekly newsletter reporting on all events happening in the Bay Area. This gave any founder — immigrant, woman, or unconnected — the same access to ecosystem events that insiders had. The newsletter grew to 45,000 members because it solved a real information asymmetry problem. The tactic is broadly applicable: wherever exclusive networks gatekeep information, curated transparency creates rapid community growth. Combined with authentic LinkedIn storytelling about her refugee background and mission to support women founders, the community became self-reinforcing.

@@ -51,10 +51,10 @@ stance: >-
   minds that model other minds from those that merely respond to stimuli.
 related:
   - INS-260323-2C19
+  - PRI-260407-1D23
   - PRI-260405-F5A0
   - INS-260327-4C73
   - INS-260405-1F6B
-  - INS-260403-B8AA
 evidence:
   - id: INS-260323-2C19
     type: SUPPORTS

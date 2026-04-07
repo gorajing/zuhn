@@ -50,9 +50,9 @@ resolutions:
 related:
   - INS-260322-96F1
   - PRI-260321-2DF0
+  - PRI-260407-93D7
   - INS-260323-8C53
   - INS-260404-8394
-  - INS-260330-990F
   - INS-260403-A447
 stance: >-
   During a crisis, the false but simple narrative ('Robinhood colluded with

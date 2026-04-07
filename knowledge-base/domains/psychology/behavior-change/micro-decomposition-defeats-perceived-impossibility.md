@@ -49,10 +49,10 @@ stance: >-
 related:
   - INS-260329-CABE
   - PRI-260405-E628
+  - PRI-260407-86E6
   - PRI-260323-57AC
   - PRI-260321-14D8
   - INS-260329-0487
-  - PRI-260328-4000
 evidence:
   - id: INS-260329-CABE
     type: SUPPORTS

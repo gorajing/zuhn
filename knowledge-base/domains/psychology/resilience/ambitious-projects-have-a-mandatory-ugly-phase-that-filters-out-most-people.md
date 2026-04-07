@@ -52,7 +52,6 @@ related:
   - INS-260404-F18F
   - INS-260403-8930
   - INS-260405-7A7C
-  - INS-260404-056D
 ---
 Paul Graham identifies the fear of making something lame as the single biggest barrier to doing great work. Every ambitious project goes through an early stage where it doesn't seem impressive even to its creator. The key insight is that most people never even reach the embarrassing stage — they're too frightened to start. Those who do start often quit at this exact point, mistaking an inevitable phase for evidence of failure.
 

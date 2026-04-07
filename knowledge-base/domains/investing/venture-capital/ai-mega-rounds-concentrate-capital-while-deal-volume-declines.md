@@ -50,14 +50,14 @@ stance: >-
 related:
   - INS-260403-420F
   - INS-260403-39B8
+  - PRI-260407-D50C
   - INS-260404-970B
   - INS-260403-FD57
   - INS-260403-1F6B
-  - INS-260404-F01F
   - INS-260405-3E92
   - INS-260403-1B46
+  - INS-260404-F01F
   - INS-260404-841B
-  - INS-260404-8881
 ---
 AI venture funding reached a record $225.8B in 2025, but the distribution reveals extreme concentration: mega-rounds made up 79% of total investment, and just three companies (OpenAI, Anthropic, xAI) captured 38% of all funding. Meanwhile, deal activity actually declined, meaning fewer companies are absorbing more capital.
 

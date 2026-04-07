@@ -50,13 +50,11 @@ stance: >-
   startups whose unit economics only work with cheap debt financing.
 related:
   - INS-260323-DD40
-  - INS-260327-14E6
   - PRI-260406-53BC
   - INS-260404-B0BF
+  - PRI-260407-93D7
   - INS-260403-E175
-  - INS-260404-7295
   - INS-260403-781D
-  - INS-260403-5941
   - INS-260404-D60F
 evidence:
   - id: INS-260323-DD40

@@ -46,10 +46,10 @@ related:
   - INS-260327-9641
   - INS-260328-6A18
   - INS-260404-8520
+  - PRI-260407-3179
   - INS-260403-8BA4
   - INS-260327-FCCF
   - INS-260404-EF67
-  - INS-260405-9FD9
 ---
 Gary Ridge argues that CEOs who spend their innovation time picking ideas are misallocating their most scarce resource — attention. The higher-leverage move is designing the organizational environment that makes exploration safe and rewarding for everyone.
 

@@ -50,7 +50,6 @@ stance: >-
   diverse traditions often produces more total value than any individual
   original discovery.
 related:
-  - INS-260323-2627
   - INS-260327-8BF6
   - INS-260330-9A46
   - INS-260402-89DE
@@ -60,6 +59,7 @@ related:
   - INS-260330-FCA3
   - INS-260330-3ECE
   - INS-260330-D711
+  - INS-260404-B1BC
 evidence:
   - id: INS-260323-2627
     type: CHALLENGES

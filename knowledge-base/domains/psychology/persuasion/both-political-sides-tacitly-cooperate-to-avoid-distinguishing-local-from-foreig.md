@@ -55,7 +55,7 @@ related:
   - INS-260330-18F3
   - INS-260323-B811
   - INS-260330-420B
-  - INS-260403-126D
+  - PRI-260407-AE33
 ---
 Alexander observes that US conservatives don't want to distinguish American from European immigration data because European numbers support their narrative, while US liberals don't want to engage because acknowledging European anti-immigrant populists might 'have a point' feels problematic. Both sides covertly cooperate in treating the West as a monolithic entity.
 

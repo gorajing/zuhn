@@ -49,7 +49,6 @@ resolutions:
 related:
   - INS-260323-B07C
   - INS-260325-FC0B
-  - INS-260325-F0CE
   - PRI-260406-9EF7
   - INS-260404-74DD
   - INS-260403-147C
@@ -57,6 +56,7 @@ related:
   - PRI-260403-E097
   - INS-260327-D4D8
   - INS-260405-AA3C
+  - INS-260403-14B3
 stance: >-
   The Barber & Odean study of 66,000 investors showed the most active traders
   underperformed the market by 7%/year while the least active performed b...

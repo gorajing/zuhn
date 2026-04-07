@@ -52,11 +52,11 @@ stance: >-
   for rather than eliminated
 related:
   - INS-260329-7EFD
+  - PRI-260407-ED1C
   - INS-260329-B2F4
   - INS-260329-7BAF
   - INS-260326-7995
   - PRI-260405-6A4E
-  - INS-260402-9676
 evidence:
   - id: INS-260326-7995
     type: SUPPORTS

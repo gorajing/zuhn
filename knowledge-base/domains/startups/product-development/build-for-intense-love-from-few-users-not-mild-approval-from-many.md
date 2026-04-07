@@ -47,7 +47,6 @@ stance: >-
   than a product liked mildly by a large number of users.
 related:
   - INS-260323-C814
-  - INS-260323-40AA
   - INS-260327-A903
   - INS-260329-764E
   - INS-260330-E089
@@ -56,6 +55,7 @@ related:
   - INS-260403-EDFC
   - INS-260327-F405
   - INS-260330-3A3E
+  - INS-260330-139D
 evidence:
   - id: INS-260329-764E
     type: TRANSFERS_TO

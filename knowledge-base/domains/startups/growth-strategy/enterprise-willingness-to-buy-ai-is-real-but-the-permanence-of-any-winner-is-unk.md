@@ -44,7 +44,6 @@ stance: >-
   technology cycles, but it is the worst possible moment to predict which
   products will have staying power.
 related:
-  - INS-260327-B6C7
   - INS-260327-AC84
   - INS-260327-BDD5
   - INS-260403-05EB

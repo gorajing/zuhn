@@ -53,11 +53,11 @@ stance: >-
   writes is a counter-intuitive optimization strategy that produces amortized
   constant-time performance from what appears to be a linear-time structure
 related:
-  - INS-260325-9C89
   - INS-260329-8D70
   - INS-260329-01F2
   - INS-260329-0B55
-  - INS-260330-77E2
+  - PRI-260407-5465
+  - INS-260325-9C89
 evidence:
   - id: INS-260325-9C89
     type: TRANSFERS_TO

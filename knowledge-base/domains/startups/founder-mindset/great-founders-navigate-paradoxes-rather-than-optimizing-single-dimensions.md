@@ -52,10 +52,10 @@ stance: >-
   calibrating intensity based on current conditions.
 related:
   - PRI-260406-D181
+  - PRI-260407-F684
   - INS-260329-5B50
   - PRI-260328-F0B4
   - PRI-260324-12CF
-  - INS-260403-34C0
 evidence:
   - id: INS-260327-BE4E
     type: TRANSFERS_TO

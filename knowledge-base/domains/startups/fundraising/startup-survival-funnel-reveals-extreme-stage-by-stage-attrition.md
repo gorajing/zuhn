@@ -46,11 +46,10 @@ stance: >-
   deal selection because only 0.5-1% of startups reach IPO while 40% die after
   seed.
 related:
-  - INS-260402-2B96
-  - INS-260403-9A4C
   - INS-260404-70AE
   - INS-260403-4020
   - INS-260403-DD13
+  - INS-260402-2B96
   - INS-260403-5056
   - INS-260403-E16F
   - INS-260404-EFA0

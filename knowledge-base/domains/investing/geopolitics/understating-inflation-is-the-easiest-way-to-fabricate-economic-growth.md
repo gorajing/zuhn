@@ -59,7 +59,6 @@ related:
   - INS-260327-EF98
   - PRI-260328-6CDE
   - PRI-260328-0993
-  - INS-260403-98CD
 ---
 Russia's official statistics showed 7.1% GDP growth and 24.8% real income growth from 2021-2024, fueling narratives about sanctions ineffectiveness and Russian economic resilience. However, a PeaceRep report using alternative inflation estimates (independent agency ROMIR measured 33% inflation in 2022 vs the official 11%) found GDP actually fell 1.5% and real household incomes declined 5.3% over the same period.
 

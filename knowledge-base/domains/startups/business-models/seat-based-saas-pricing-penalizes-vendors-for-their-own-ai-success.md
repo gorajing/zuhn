@@ -53,6 +53,7 @@ related:
   - PRI-260406-B785
   - INS-260403-586C
   - INS-260404-B8EB
+  - PRI-260407-C35C
   - INS-260405-9EE4
 ---
 When an AI agent automates the work of ten human users, charging per seat means your best customers—those getting the most value—generate the least revenue. Cursor reached $200M ARR with 60 employees, and Klarna doubled revenue per employee after deploying AI agents, illustrating how value now scales independently of headcount. This structural mismatch means SaaS companies building agentic AI must shift to usage-based or outcome-based models or face margin compression as their own product succeeds.

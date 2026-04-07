@@ -55,11 +55,11 @@ related:
   - INS-260405-6E60
   - INS-260405-54B7
   - INS-260405-6E5F
+  - PRI-260407-40F9
   - INS-260404-F45E
   - INS-260405-6EE5
   - INS-260403-BAD6
   - INS-260403-8BA4
-  - INS-260404-E55F
   - INS-260404-D475
 ---
 Coinbase's December 2025 product suite launch — spanning stock trading, prediction markets, futures, Solana DEX integration, and custom-branded stablecoins — represents a deliberate pivot from single-asset crypto exchange to multi-asset financial platform. Brian Armstrong's framing as 'the everything exchange' reveals the strategic logic: by bundling complementary financial products under one regulated roof, Coinbase expands its TAM dramatically while creating switching costs that single-product competitors cannot match.

@@ -47,11 +47,11 @@ stance: >-
   doesn't exist, because volume and availability compound while quality
   improvements can be layered on incrementally
 related:
-  - INS-260330-EB1B
   - INS-260405-0FC4
   - INS-260404-26AE
   - INS-260403-F68A
-  - INS-260330-39B0
+  - INS-260330-EB1B
+  - PRI-260407-6452
   - INS-260404-ABCB
 ---
 Early single-celled organisms needed to fix carbon but RuBisCo was inefficient at it. The winning strategy wasn't to wait for a better enzyme — it was to produce massive quantities of the mediocre one. This brute-force approach let those organisms outcompete everything else and become the dominant life form on Earth.
