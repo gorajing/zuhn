@@ -108,34 +108,79 @@ ${nextActions}
   mkdirSync(join(KB_ROOT, "meta"), { recursive: true });
   writeFileSync(SESSION_PATH, md, "utf-8");
 
-  // 7. Auto-commit
+  // 7. Optionally auto-commit — honest about the gitignored case.
+  //
+  // knowledge-base/meta/ is gitignored by design: it contains runtime
+  // state, not repository content. If session.md is ignored (the
+  // expected case), we skip the commit entirely and say so. If it's
+  // NOT ignored (someone unignored it deliberately), we attempt a
+  // commit. Either way, a git failure is non-fatal — the file was
+  // already written in step 6.
+  const isIgnored = isPathIgnored(SESSION_PATH);
+  if (isIgnored) {
+    console.log(
+      "Sleep state saved to meta/session.md (not committed — meta/ is gitignored)."
+    );
+    return;
+  }
+
   try {
     execFileSync("git", ["add", SESSION_PATH], {
       stdio: "pipe",
       cwd: PROJECT_ROOT,
     });
 
+    // Check if there are actually staged changes
+    let hasStaged = true;
     try {
       execFileSync("git", ["diff", "--cached", "--quiet"], {
         stdio: "pipe",
         cwd: PROJECT_ROOT,
       });
-      // No changes
+      hasStaged = false;
     } catch {
-      // There are staged changes — commit
+      hasStaged = true;
+    }
+
+    if (hasStaged) {
       execFileSync(
         "git",
         ["commit", "-m", "chore: sleep state saved"],
         { stdio: "pipe", cwd: PROJECT_ROOT }
       );
+      console.log("Sleep state saved to meta/session.md and committed.");
+    } else {
+      console.log("Sleep state saved to meta/session.md (no changes to commit).");
     }
   } catch (err: unknown) {
     const msg = err instanceof Error ? err.message : String(err);
-    console.error(`Git commit failed: ${msg}`);
-    process.exit(1);
+    // Non-fatal: the session.md file was already written successfully
+    // in step 6. Only the git bookkeeping failed.
+    console.warn(
+      `Sleep state saved to meta/session.md (git commit skipped: ${msg.split("\n")[0]})`
+    );
   }
+}
 
-  console.log("Sleep state saved to meta/session.md and committed.");
+/**
+ * Check whether a path would be ignored by .gitignore. Returns true if
+ * the path is ignored, false if it's tracked or untracked-but-eligible,
+ * and false on any git failure (graceful degradation — if git can't
+ * tell us, we default to attempting the commit).
+ */
+function isPathIgnored(path: string): boolean {
+  try {
+    execFileSync("git", ["check-ignore", "--quiet", path], {
+      stdio: "pipe",
+      cwd: PROJECT_ROOT,
+    });
+    // Exit code 0 means the path IS ignored
+    return true;
+  } catch {
+    // Non-zero exit: either not ignored (exit 1) or git error (exit 128).
+    // Either way, don't treat as ignored — let the commit path handle it.
+    return false;
+  }
 }
 
 main();
