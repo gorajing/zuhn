@@ -215,31 +215,55 @@ server.registerTool("zuhn_recall", {
 });
 
 // ─── Tool: zuhn_brief ───────────────────────────────────────────────
-// Generate a decision brief from the knowledge base
+// Generate a decision brief from the knowledge base.
+//
+// BREAKING CHANGE (2026-04-08): This tool now returns rendered text, not
+// structured JSON. Concise mode (default) returns a ~300-token summary;
+// full mode returns comprehensive markdown. Callers needing structured
+// data should use zuhn_search + zuhn_recall directly — those still return
+// structured results.
 
 server.registerTool("zuhn_brief", {
   description:
     "Generate a decision brief from the knowledge base. " +
     "Returns relevant principles (ranked by empirical confidence), past decisions, " +
-    "active predictions, known tensions, and supporting evidence for a given decision context.",
+    "active predictions, known tensions, and supporting evidence for a given decision context. " +
+    "Defaults to concise mode: a ~300-token summary suitable for reflexive use during decisions. " +
+    "Use mode='full' for a comprehensive markdown brief when doing deep analysis. " +
+    "Call this BEFORE responding to any decision-shaped prompt (should I X or Y, " +
+    "strategy choices, tradeoffs, evaluations) to ground the response in relevant principles.",
   inputSchema: {
     query: z.string().describe("Decision context or question (e.g. 'Should I raise VC or bootstrap?')"),
     domain: z
       .string()
       .optional()
       .describe("Constrain to specific domain (e.g. startups, investing)"),
+    mode: z
+      .enum(["concise", "full"])
+      .optional()
+      .default("concise")
+      .describe(
+        "Render mode. 'concise' (default) returns a compact ~300-token summary — 3 principles, " +
+          "2 predictions, 1 decision, 1 tension, 1-line track record — ideal for reflexive use. " +
+          "'full' returns a comprehensive markdown brief with all principles, summaries, and evidence."
+      ),
   },
-}, async ({ query, domain }) => {
-  const { generateBrief } = await import("./lib/brief.js");
+}, async ({ query, domain, mode }) => {
+  const { generateBrief, renderBriefAsConciseContext, renderBriefAsMarkdown } = await import("./lib/brief.js");
   const db = initDb();
 
   try {
     const brief = await generateBrief(db, query, { domain });
+    const renderMode = mode ?? "concise";
+    const rendered =
+      renderMode === "full"
+        ? renderBriefAsMarkdown(brief)
+        : renderBriefAsConciseContext(brief);
     return {
       content: [
         {
           type: "text" as const,
-          text: JSON.stringify(brief, null, 2),
+          text: rendered,
         },
       ],
     };
