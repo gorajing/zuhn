@@ -8,6 +8,7 @@ import { z } from "zod";
 import matter from "gray-matter";
 import { generatePrincipleId } from "./lib/generate-id.js";
 import { slugify } from "./lib/ingest/slug.js";
+import { safeLogEntry } from "./lib/log.js";
 
 const PROJECT_ROOT = join(__dirname, "..");
 const KB_ROOT = join(PROJECT_ROOT, "knowledge-base");
@@ -248,6 +249,25 @@ async function main(): Promise<void> {
     console.log(`Errors: ${errors.length}`);
     for (const err of errors) {
       console.error(`  ERROR: ${err}`);
+    }
+  }
+
+  // 6b. Log compress events to meta/log.md
+  // Principles can span multiple domains in a single run (e.g. the
+  // Tier 2 compression marathon wrote across psychology, investing,
+  // ai-development, and startups). We emit one log entry per domain
+  // so grep targets like "compress | psychology" stay useful.
+  if (created > 0) {
+    const byDomain = new Map<string, number>();
+    for (const p of input.principles) {
+      byDomain.set(p.domain, (byDomain.get(p.domain) || 0) + 1);
+    }
+    for (const [domain, count] of byDomain) {
+      safeLogEntry({
+        action: "compress",
+        scope: `${domain}/*`,
+        body: `Created ${count} principle${count === 1 ? "" : "s"} in ${domain}.`,
+      });
     }
   }
 

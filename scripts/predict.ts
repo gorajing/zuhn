@@ -9,17 +9,25 @@ import { PredictionInput } from "./schemas/empirical.js";
 import type { PredictionInputData } from "./schemas/empirical.js";
 import { generatePredictionId } from "./lib/generate-id.js";
 import { slugify } from "./lib/ingest/slug.js";
+import { safeLogEntry } from "./lib/log.js";
 
 const PROJECT_ROOT = join(__dirname, "..");
 const KB_ROOT = join(PROJECT_ROOT, "knowledge-base");
 
 // ─── Write Result ───────────────────────────────────────────────────
 
+export interface CreatedPrediction {
+  id: string;
+  claim: string;
+  deadline: string;
+}
+
 export interface WritePredictionsResult {
   created: number;
   skipped: number;
   files: string[];
   errors: string[];
+  createdPredictions: CreatedPrediction[];
 }
 
 export type { PredictionInputData };
@@ -75,6 +83,7 @@ export async function writePredictions(
     skipped: 0,
     files: [],
     errors: [],
+    createdPredictions: [],
   };
 
   const today = todayISO();
@@ -122,6 +131,11 @@ export async function writePredictions(
       console.log(`  -> ${filePath}`);
       result.files.push(filePath);
       result.created++;
+      result.createdPredictions.push({
+        id,
+        claim: pred.claim,
+        deadline: pred.deadline,
+      });
     } catch (err: unknown) {
       const msg = err instanceof Error ? err.message : String(err);
       result.errors.push(`Prediction "${pred.claim}": ${msg}`);
@@ -168,7 +182,8 @@ async function main(): Promise<void> {
   const input = validation.data;
   console.log(`Creating ${input.predictions.length} prediction(s)...\n`);
 
-  const { created, skipped, files, errors } = await writePredictions(input, KB_ROOT);
+  const writeResult = await writePredictions(input, KB_ROOT);
+  const { created, skipped, errors, createdPredictions } = writeResult;
 
   console.log(`\nCreated: ${created} prediction file(s)`);
   if (skipped > 0) {
@@ -179,6 +194,16 @@ async function main(): Promise<void> {
     for (const err of errors) {
       console.error(`  ERROR: ${err}`);
     }
+  }
+
+  // Log each created prediction to meta/log.md — one entry per ID
+  for (const pred of createdPredictions) {
+    const claimSnippet = pred.claim.slice(0, 140);
+    safeLogEntry({
+      action: "predict",
+      scope: pred.id,
+      body: `${claimSnippet} (due ${pred.deadline})`,
+    });
   }
 
   if (postIngest) {

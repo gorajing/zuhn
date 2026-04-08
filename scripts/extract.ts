@@ -5,6 +5,7 @@ import { join } from "node:path";
 import { execFileSync } from "node:child_process";
 import { ExtractionInput } from "./schemas/extraction.js";
 import { writeInsights } from "./lib/extract/write-insights.js";
+import { safeLogEntry } from "./lib/log.js";
 
 const PROJECT_ROOT = join(__dirname, "..");
 const KB_ROOT = join(PROJECT_ROOT, "knowledge-base");
@@ -112,6 +113,19 @@ async function main(): Promise<void> {
   }
   for (const f of result.files) {
     console.log(`  -> ${f}`);
+  }
+
+  // Log the extraction event to meta/log.md
+  if (result.created > 0) {
+    const topicsNote =
+      result.newTopics.length > 0
+        ? ` (new topics: ${result.newTopics.join(", ")})`
+        : "";
+    safeLogEntry({
+      action: "extract",
+      scope: source,
+      body: `Created ${result.created} insight${result.created === 1 ? "" : "s"}${topicsNote}.`,
+    });
   }
 
   // 7. Clean up temp file to prevent cross-source contamination

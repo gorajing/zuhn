@@ -9,17 +9,26 @@ import { DecisionInput } from "./schemas/empirical.js";
 import type { DecisionInputData } from "./schemas/empirical.js";
 import { generateDecisionId } from "./lib/generate-id.js";
 import { slugify } from "./lib/ingest/slug.js";
+import { safeLogEntry } from "./lib/log.js";
 
 const PROJECT_ROOT = join(__dirname, "..");
 const KB_ROOT = join(PROJECT_ROOT, "knowledge-base");
 
 // ─── Write Result ───────────────────────────────────────────────────
 
+export interface CreatedDecision {
+  id: string;
+  context: string;
+  choice: string;
+  outcome_date: string;
+}
+
 export interface WriteDecisionsResult {
   created: number;
   skipped: number;
   files: string[];
   errors: string[];
+  createdDecisions: CreatedDecision[];
 }
 
 export type { DecisionInputData };
@@ -75,6 +84,7 @@ export async function writeDecisions(
     skipped: 0,
     files: [],
     errors: [],
+    createdDecisions: [],
   };
 
   const today = todayISO();
@@ -123,6 +133,12 @@ export async function writeDecisions(
       console.log(`  -> ${filePath}`);
       result.files.push(filePath);
       result.created++;
+      result.createdDecisions.push({
+        id,
+        context: dec.context,
+        choice: dec.choice,
+        outcome_date: dec.outcome_date,
+      });
     } catch (err: unknown) {
       const msg = err instanceof Error ? err.message : String(err);
       result.errors.push(`Decision "${dec.context}": ${msg}`);
@@ -169,7 +185,8 @@ async function main(): Promise<void> {
   const input = validation.data;
   console.log(`Creating ${input.decisions.length} decision(s)...\n`);
 
-  const { created, skipped, files, errors } = await writeDecisions(input, KB_ROOT);
+  const writeResult = await writeDecisions(input, KB_ROOT);
+  const { created, skipped, errors, createdDecisions } = writeResult;
 
   console.log(`\nCreated: ${created} decision file(s)`);
   if (skipped > 0) {
@@ -180,6 +197,17 @@ async function main(): Promise<void> {
     for (const err of errors) {
       console.error(`  ERROR: ${err}`);
     }
+  }
+
+  // Log each created decision to meta/log.md — one entry per ID
+  for (const dec of createdDecisions) {
+    const contextSnippet = dec.context.slice(0, 100);
+    const choiceSnippet = dec.choice.slice(0, 80);
+    safeLogEntry({
+      action: "decide",
+      scope: dec.id,
+      body: `"${contextSnippet}" → chose "${choiceSnippet}" (review ${dec.outcome_date})`,
+    });
   }
 
   if (postIngest) {

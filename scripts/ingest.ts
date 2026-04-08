@@ -17,6 +17,20 @@ import { detectType, normalizeUrl } from "./lib/ingest/detect";
 import { slugify } from "./lib/ingest/slug";
 import { generateSourceId } from "./lib/generate-id";
 import { parseMarkdownFile } from "./lib/parse-insight";
+import { safeLogEntry } from "./lib/log";
+
+// ─── Local log helper ──────────────────────────────────────────────
+// Truncates titles to keep log entries tight. Called after each
+// successful source ingest across all content-type branches.
+
+function logIngest(sourceId: string, type: string, title: string): void {
+  const cleanTitle = (title || "untitled").slice(0, 140);
+  safeLogEntry({
+    action: "ingest",
+    scope: sourceId,
+    body: `${type}: ${cleanTitle}`,
+  });
+}
 
 // ─── Constants ─────────────────────────────────────────────────────────
 const KB_ROOT = join(__dirname, "..", "knowledge-base");
@@ -146,6 +160,7 @@ async function main(): Promise<void> {
 
       console.log(`SUCCESS: Source created as ${result.sourceId}`);
       console.log();
+      logIngest(result.sourceId, "youtube", result.metadata.title);
       meta("Type", "youtube");
       meta("Title", result.metadata.title);
       meta("Channel", result.metadata.channel);
@@ -242,6 +257,7 @@ async function main(): Promise<void> {
 
       console.log(`SUCCESS: Source created as ${sourceId}`);
       console.log();
+      logIngest(sourceId, "blog", article.metadata.title);
       meta("Type", "blog");
       meta("Title", article.metadata.title);
       if (article.metadata.author) meta("Author", article.metadata.author);
@@ -332,6 +348,7 @@ async function main(): Promise<void> {
 
       console.log(`SUCCESS: Source created as ${sourceId}`);
       console.log();
+      logIngest(sourceId, "reddit", post.title);
       meta("Type", "reddit");
       meta("Title", post.title);
       meta("Author", `u/${post.author}`);
@@ -355,6 +372,7 @@ async function main(): Promise<void> {
         const result = await ingestPdf(url, KB_ROOT);
         console.log(`SUCCESS: Source created as ${result.sourceId}`);
         console.log();
+        logIngest(result.sourceId, "pdf", result.sourcePath);
         console.log(`PDF saved to ${result.rawPath}. Use Read tool to review.`);
         meta("Source file", result.sourcePath);
       } catch (err: unknown) {
@@ -370,6 +388,7 @@ async function main(): Promise<void> {
       const { ingestImage } = await import("./lib/ingest/image.js");
       const result = await ingestImage(url, KB_ROOT);
       console.log(`\nSUCCESS: Source created as ${result.sourceId}\n`);
+      logIngest(result.sourceId, "image", result.rawPath);
       console.log(`Image saved to: ${result.rawPath}`);
       console.log("Use Read tool to view the image, then create extraction JSON.");
       break;
@@ -382,6 +401,7 @@ async function main(): Promise<void> {
         const result = await ingestAudio(url, KB_ROOT);
         console.log(`SUCCESS: Source created as ${result.sourceId}`);
         console.log();
+        logIngest(result.sourceId, "audio", result.metadata.title);
         meta("Type", "audio");
         meta("Title", result.metadata.title);
         meta("Duration", result.metadata.duration);
