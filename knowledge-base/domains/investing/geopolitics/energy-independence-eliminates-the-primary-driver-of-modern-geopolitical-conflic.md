@@ -59,6 +59,7 @@ related:
   - PRI-260406-C4FD
   - INS-260325-722C
   - PRI-260407-B738
+  - INS-260408-88D9
 ---
 Nearly every modern war has been influenced by control of or access to natural resources — the Ukraine conflict's energy dimension being the latest example. Europe's failure to maintain energy independence (shutting down nuclear, underinvesting in renewables) made it dependent on Russian natural gas, which went from 25% to 40%+ of supply between 2010-2018. This dependency became a strategic weapon.
 

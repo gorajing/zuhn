@@ -1,6 +1,6 @@
 # Domain: investing
 
-> 1066 insights across 11 topics
+> 1067 insights across 11 topics
 
 ## Topics
 
@@ -15,5 +15,5 @@
 | geopolitics | 487 | The Bolsheviks seized power with a tiny force by capturing Petrograd's key infrastructure — the telegraph office, bridges, railway stations, and banks — rather than fighting the entire city. |
 | macro | 9 | A continuing resolution ending January 30 means the same fight resumes in six weeks with even less goodwill. |
 | macro-trends | 2 | With U.S. labor costs at ~$18.6 trillion (60% of GDP), even partial AI-driven displacement would constitute the largest economic value transfer in modern history. |
-| space-economy | 30 | Detecting an alien signal would statistically prove that technological civilizations can have long futures, because the math of detection requires that such technologies are long-lived on cosmic timescales. |
+| space-economy | 31 | Detecting an alien signal would statistically prove that technological civilizations can have long futures, because the math of detection requires that such technologies are long-lived on cosmic timescales. |
 | venture-capital | 287 | Declining VC distributions through 2024 are fundamentally altering the LP-GP relationship and fund economics. |

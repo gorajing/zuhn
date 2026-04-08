@@ -21,11 +21,11 @@
 - `INS-260404-3959` Intentional moderates and ideologues both acquire opinions in bulk rather than reasoning independently about each question.
 - `INS-260404-7C3F` Keeping your identity small — refusing to label yourself as an X or Y person — preserves your ability to think clearly across more domains.
 - `INS-260403-9E97` Trump's rage at SCOTUS striking down tariffs — despite tariffs dragging his approval ratings — reveals how identity attachment to a signature policy overrides rational political self-interest.
-- `INS-260329-F3F0` The differentiator for top performers is absence of distractions, not presence of special abilities.
-- `INS-260403-A739` Karp maintained contrarian positions for 20 years while being called a failure, and that tolerance for ostracism was itself a competitive advantage.
 - `INS-260330-790A` Serial pivots away from proven talent usually signal identity rejection rather than strategic diversification.
 - `INS-260403-2BAF` People who do great work don't become haters, and haters don't produce great work — the orientations are mutually exclusive.
 - `INS-260330-C7B5` Making a tool part of your identity makes you worse at evaluating alternatives.
+- `INS-260329-F3F0` The differentiator for top performers is absence of distractions, not presence of special abilities.
+- `INS-260403-A739` Karp maintained contrarian positions for 20 years while being called a failure, and that tolerance for ostracism was itself a competitive advantage.
 - `INS-260330-CC9E` Despite having more liquid spending power than almost anyone on Earth, Jho Low was described by party guests as anxious, unable to enjoy his own events, and desperate to be liked.
 - `INS-260329-5B3D` Spending to look rich instead of being rich reveals that you've outsourced your self-worth to other people's opinions.
 - `INS-260330-7D83` Travis's 'uber against the world' narrative drove 12-hour workdays and fierce loyalty, but the same combative culture produced internal backstabbing, sexual harassment cover-ups, and employee burnout.
@@ -37,6 +37,7 @@
 - `INS-260404-A2F0` Some identities like 'scientist' function as anti-identities — they commit you to following evidence rather than defending conclusions.
 - `INS-260404-B6CC` Arguments escalate when they shift from debating issues to threatening someone's core identity and values.
 - `INS-260404-B863` Participants subliminally exposed to the Apple logo outperformed IBM-exposed groups on creative tasks.
+- `INS-260322-2E1C` Our experience of a stable, solid world exists not because reality is stable, but because we are trapped too deeply in a narrow slice to notice its freedom.
 - `INS-260325-A54F` Apple's power is ecosystem lock-in that makes switching feel like identity loss — not product superiority.
 - `INS-260330-C451` People grab onto one or two morally defensible positions to psychologically offset the guilt of supporting an otherwise indefensible one.
 - `INS-260330-548E` Rubin identifies owning your aesthetic feelings in the face of external disagreement as 'probably the single most important thing to practice as an artist.'
@@ -45,7 +46,6 @@
 - `INS-260327-691F` Every astronaut who has seen Earth from space reports the same thing: borders, conflicts, and individual concerns become absurd when you see the whole planet as one fragile system.
 - `INS-260325-216D` The wavy walls and pretty colors are the trivial part of psychedelics — the therapeutic mechanism is the dissolution of identity and self-definition that allows people to reframe their entire life narrative.
 - `INS-260325-636B` The Sequel Script makes people choose careers matching their degree and partners matching their ex — privileging narrative continuity over genuine fit.
-- `INS-260322-2E1C` Our experience of a stable, solid world exists not because reality is stable, but because we are trapped too deeply in a narrow slice to notice its freedom.
 - `INS-260405-874D` Autonomy in work is a one-way door: once crossed, the cage of a managed job becomes visible and unbearable.
 - `INS-260325-64FD` We habitually see bad behavior and assume bad person — but separating behavior from identity enables coaching instead of punishment in any relationship.
 - `INS-260403-958C` Online interaction encourages people to identify with distant interest-based groups over local physical communities.

@@ -1,5 +1,6 @@
 # Tag: application-layer
 
+- `INS-260408-F20F` Hassabis says even frontier labs can only explore a fraction of what their models enable, and the gap is widening as release schedules accelerate.
 - `INS-260327-89AE` Doug Leone argues AI value will accrue to companies solving domain-specific last-mile problems in the application layer, not to foundation models or infrastructure tooling.
 - `INS-260326-3D8D` Ng argues that the application layer of the AI stack must, almost by definition, generate more total value than semiconductors, cloud infrastructure, and foundation models combined — making it the largest opportunity for builders.
 - `INS-260403-7B04` AI app-layer tech is commoditizing so fast that brand and distribution are now the primary moats.

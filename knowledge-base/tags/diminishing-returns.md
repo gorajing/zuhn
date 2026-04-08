@@ -11,5 +11,5 @@
 - `INS-260403-CCA3` Movements that rely on outgroup fear for energy must rotate targets, which alienates each targeted group permanently and shrinks the coalition over time.
 - `INS-260328-EA3A` Past a critical threshold, more scale actively degrades quality — and the degradation is invisible during growth.
 - `INS-260404-F8AF` Dedicate 20-25% of growth resources to exploring new channels because current tactics will hit diminishing returns within 18 months.
-- `INS-260329-A57B` Each additional nine of availability cuts allowed downtime by 10x but costs roughly 10x more to achieve — most startups should target three nines, not five.
 - `INS-260403-E681` Successful strategies get applied past their point of diminishing returns because practitioners mistake the strategy for the goal.
+- `INS-260329-A57B` Each additional nine of availability cuts allowed downtime by 10x but costs roughly 10x more to achieve — most startups should target three nines, not five.

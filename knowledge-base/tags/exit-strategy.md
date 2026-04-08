@@ -14,5 +14,5 @@
 - `INS-260403-5B89` Giant VC rounds inflate valuations to levels where only IPOs satisfy investors, eliminating smaller but perfectly good exits.
 - `INS-260403-2330` Seed investors are pivoting to earlier exits as LPs demand faster returns on smaller funds.
 - `INS-260403-EEE6` VCs work backward from target exits and desired returns, so founders should focus on making the exit case credible.
-- `INS-260403-8C56` Being profitable lets you wait out acquisition market cycles and capture fair average-case valuations rather than being forced into bad timing.
 - `INS-260404-6BCA` Rubrik capitalized on the 2024 tech IPO window because it had already completed its subscription transition and hit key metrics before the window opened.
+- `INS-260403-8C56` Being profitable lets you wait out acquisition market cycles and capture fair average-case valuations rather than being forced into bad timing.

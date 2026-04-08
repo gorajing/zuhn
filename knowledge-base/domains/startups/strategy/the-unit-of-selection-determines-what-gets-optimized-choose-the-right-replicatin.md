@@ -51,7 +51,6 @@ related:
   - INS-260330-E660
   - INS-260325-DFA5
   - INS-260330-A59D
-  - INS-260404-07C3
   - INS-260403-CF01
 stance: >-
   Natural selection operates on genes because they're the right-sized unit that

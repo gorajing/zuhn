@@ -52,8 +52,8 @@
 - `INS-260327-9BFD` You're spending enormous energy managing an impression that others aren't even forming - they're too busy managing their own.
 - `INS-260330-3EDA` During 72 hours of isolation, Michael's time estimation error doubled after each sleep cycle, and Stefania Follini believed 130 days underground was only about 65.
 - `INS-260329-D913` Everyone who has ever handled an unexpected bill has proven they can be resourceful — they just choose not to be when the beneficiary is themselves.
-- `INS-260405-03BB` Adam Neumann's bid to buy WeWork back — five years after his ousting — exemplifies how founder identity becomes entangled with company narrative to the point of overriding rational capital allocation.
 - `INS-260330-C499` The early phase of exponential growth feels unrewarding because humans intuitively underestimate how steep the curve becomes.
+- `INS-260405-03BB` Adam Neumann's bid to buy WeWork back — five years after his ousting — exemplifies how founder identity becomes entangled with company narrative to the point of overriding rational capital allocation.
 - `INS-260330-697F` Building great product means optimizing for power users, but driving growth means optimizing for the marginal user who barely engages.
 - `INS-260403-CE70` Repeat founders often fail by transplanting an entire operating system from their last startup without testing whether it fits the new market, team, or timing.
 - `INS-260403-C0E6` Yahoo at $125B with 90% search market share was psychologically incapable of treating two Stanford PhD students as an existential threat.

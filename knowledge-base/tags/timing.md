@@ -28,10 +28,6 @@
 - `INS-260330-410A` Instagram hit 25K users on day one and 1M within a month by aligning iPhone 4 camera timing, cross-posting to Facebook/Twitter, and recruiting high-profile photographers as early adopters.
 - `INS-260403-CA42` Building distribution in parallel with product is now table stakes for startup survival, not a post-PMF optimization.
 - `INS-260322-34AE` When Airbnb expelled unlicensed Korean hosts in October 2025, EncoWithers grew from under 100 to over 7,000 hosts because they had spent a year preparing to absorb the displacement.
-- `INS-260329-DD06` If you never stop working, you'll be ready for every opportunity window, making the question of timing irrelevant.
-- `INS-260328-F782` Use your grit to improve starting conditions — that's a far more efficient use of determination than brute-forcing through gaps.
-- `INS-260327-DD1D` Quitting during a crisis reduces competition and can create better startup conditions than boom times.
-- `INS-260323-B426` Spend your 20s building skills, network, and industry expertise so you're equipped when you do start.
 - `INS-260330-5043` Monitor the delta between what new technology makes possible and how things are currently done — maximum divergence equals maximum startup opportunity.
 - `INS-260403-0372` Organizations should invest in innovation software when they cannot demonstrate ROI on innovation efforts, not simply when idea volume grows.
 - `INS-260404-3043` Bubble economics temporarily suppress adoption of efficient innovations that later become standard.
@@ -43,13 +39,12 @@
 - `INS-260405-3E4E` A cybersecurity company led by former Microsoft executives went from zero to $100M ARR in nine months, backed by Index and Sequoia — a pace achievable only when founder credibility and sector tailwinds align.
 - `INS-260402-A3DB` Coordinate first meetings within a 2-3 week window and manage all funds on parallel timelines to create a competitive market for your equity.
 - `INS-260403-07C6` Answering 'why now' — why this idea only recently became viable — is the strongest evidence you can offer for massive growth potential.
+- `INS-260329-DD06` If you never stop working, you'll be ready for every opportunity window, making the question of timing irrelevant.
+- `INS-260328-F782` Use your grit to improve starting conditions — that's a far more efficient use of determination than brute-forcing through gaps.
+- `INS-260327-DD1D` Quitting during a crisis reduces competition and can create better startup conditions than boom times.
+- `INS-260323-B426` Spend your 20s building skills, network, and industry expertise so you're equipped when you do start.
 - `INS-260404-7A54` High mobile penetration plus low workflow digitization signals a ripe market entry window for vertical SaaS.
 - `INS-260403-1AE5` New markets have no existing demand to capture, so spending on acquisition before the tipping point burns cash with no proportional return.
-- `INS-260327-7A44` The moment a customer has their first 'wow' result -- first milestone hit, first successful implementation, first measurable outcome -- immediately ask: 'Is there one or two people just like you that we could help?'
-- `INS-260403-A538` Pushing a Head of Sales hire from Q1 to Q2 extended runway by 3 months, creating room to raise on better terms.
-- `INS-260403-EAE5` The best time to search for new business models is while the existing one still generates surplus capital to fund experiments.
-- `INS-260403-7BA1` The industries accidentally created by cost collapses — modern finance from sail, consumer credit from automobiles, global manufacturing from containers — always exceed the value of the original technology.
-- `INS-260330-777A` Putin announced the pension age increase on the opening day of the 2018 World Cup — it still caused his largest-ever approval drop.
 - `INS-260404-007F` Enterprise SaaS IPOs from 2012 outperformed expectations by solving deep operational pain points with recurring revenue models.
 - `INS-260405-4D20` Greg Isenberg's 2024 claim that it's the best time to start a company in 30 years is grounded in AI dramatically compressing the cost and time to build an MVP.
 - `INS-260323-1494` Having a brilliant idea without an addressable market or distribution infrastructure turns you into free R&D for better-timed competitors.
@@ -77,5 +72,10 @@
 - `INS-260323-F5EF` The same macro forces that create billion-dollar winners also destroy them when conditions shift — timing is not a skill.
 - `INS-260325-EBDD` Bacon foresaw the power of systematic science in 1620 but the Industrial Revolution did not arrive until 200 years later.
 - `INS-260403-B835` Young founders use the latest technology first, positioning them to discover fixable brokenness before older, more experienced operators.
+- `INS-260327-7A44` The moment a customer has their first 'wow' result -- first milestone hit, first successful implementation, first measurable outcome -- immediately ask: 'Is there one or two people just like you that we could help?'
+- `INS-260403-EAE5` The best time to search for new business models is while the existing one still generates surplus capital to fund experiments.
+- `INS-260403-7BA1` The industries accidentally created by cost collapses — modern finance from sail, consumer credit from automobiles, global manufacturing from containers — always exceed the value of the original technology.
+- `INS-260330-777A` Putin announced the pension age increase on the opening day of the 2018 World Cup — it still caused his largest-ever approval drop.
 - `INS-260330-D5BD` Prioritize entering small but rapidly growing markets over large but slow-growing ones, because desperate customers in growing markets tolerate imperfect early products.
 - `INS-260323-09E4` When everyone agrees your startup idea is great, someone has probably already built it; when everyone thinks it's crazy, you may be onto something real.
+- `INS-260403-A538` Pushing a Head of Sales hire from Q1 to Q2 extended runway by 3 months, creating room to raise on better terms.

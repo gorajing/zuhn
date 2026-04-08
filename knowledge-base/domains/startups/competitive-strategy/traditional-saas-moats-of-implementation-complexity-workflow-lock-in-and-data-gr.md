@@ -60,8 +60,8 @@ related:
   - INS-260330-1A23
   - INS-260403-6857
   - INS-260404-7680
+  - INS-260408-C572
   - PRI-260407-F704
-  - INS-260322-5678
 ---
 The three SaaS moats that once guaranteed defensibility — implementation complexity, workflow lock-in, and data gravity — are becoming irrelevant. Foundation models can integrate, retrain, and migrate data across platforms with near-zero switching costs. This means startups compete not only with other startups but with their own customers, who have access to the same APIs and fine-tuning infrastructure.
 

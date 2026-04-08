@@ -4,10 +4,10 @@
 - `INS-260405-F26B` ReAct is an introduction to agent reasoning, not a complete architecture for production systems.
 - `INS-260325-160E` Persistent agents need hierarchical memory management like computer systems, not just bigger context windows.
 - `INS-260322-EAB6` Separate AI agent work into three roles: the builder constructs platforms, the orchestrator manages workflows, and executors are specialized agents that do actual work.
-- `INS-260327-1563` Attention Residue applies attention across the depth dimension rather than just temporal context, achieving 24% token efficiency improvement over standard residual connections.
 - `INS-260405-64C5` Photosynthesis solves the intermittency of sunlight by converting photon energy into a proton gradient (a charged thylakoid membrane acting as a battery), which then drives ATP synthesis on demand — completely decoupling capture from use.
 - `INS-260405-06B0` Deep inheritance hierarchies create refactoring traps that compound over time, not just stylistic inconvenience.
 - `INS-260330-30FB` G3P is photosynthesis's universal intermediate — one molecule convertible to glucose, cellulose, or starch — showing that versatile intermediates beat specialized end products for system resilience.
+- `INS-260327-1563` Attention Residue applies attention across the depth dimension rather than just temporal context, achieving 24% token efficiency improvement over standard residual connections.
 - `INS-260320-2DDE` Maintain multiple documentation levels — broad architectural overview, specific service docs, API references — to help Claude navigate large codebases.
 - `INS-260330-EE25` Context window size, not model capability, is the binding constraint on transformer coherence in long interactions.
 - `INS-260405-DA33` DeepSeek's mHC demonstrates that structural improvements to information flow yield real capability gains without added cost.
@@ -53,10 +53,10 @@
 - `INS-260329-4870` A singly linked list and doubly linked list both implement the same list interface, but the wrong choice creates invisible O(n) costs that only surface at scale.
 - `INS-260329-818A` HTTP's 'memory loss' between requests is not a bug — it's the design decision that allows any server in a pool to handle any request, enabling unlimited horizontal scaling.
 - `INS-260330-7106` Suppressors work by first capturing gases in an expansion chamber, then restricting their outflow — a two-stage pattern that maps to error handling, customer support escalation, and content moderation.
-- `INS-260330-47CF` Plants spend enormous metabolic energy producing enzymes to break down RuBisCo's toxic byproduct rather than fixing the enzyme itself — the biological equivalent of compounding technical debt.
-- `INS-260405-3CC7` Rare edge cases become common failures at scale, creating novel downstream problems no amount of upfront architecture prevents.
 - `INS-260330-ABB1` The cheapest M1 MacBook Air outperformed the most expensive Intel i9 MacBook Pro in most developer workflows while running cooler and using less battery.
 - `INS-260404-CC7C` RuBisCo is evolution's ultimate legacy system — plants produce 40 billion tons of a bad enzyme rather than redesign the core pathway.
 - `INS-260404-B7B6` RuBisCo was designed for a low-oxygen world — when plants themselves changed the atmosphere, their own core enzyme started poisoning them.
 - `INS-260330-48F2` RuBisCo was optimized for a high-CO2 world, but when photosynthesis itself changed the atmosphere to high-O2, the enzyme started making toxic errors half the time.
 - `INS-260404-9229` When redesign costs exceed the cost of brute-forcing volume, systems evolve to produce massive quantities of a flawed component rather than fix the flaw — plants maintain 40 billion tons of RuBisCo rather than evolve a better enzyme.
+- `INS-260330-47CF` Plants spend enormous metabolic energy producing enzymes to break down RuBisCo's toxic byproduct rather than fixing the enzyme itself — the biological equivalent of compounding technical debt.
+- `INS-260405-3CC7` Rare edge cases become common failures at scale, creating novel downstream problems no amount of upfront architecture prevents.

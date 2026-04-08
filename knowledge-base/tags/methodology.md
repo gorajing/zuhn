@@ -1,7 +1,7 @@
 # Tag: methodology
 
-- `INS-260403-F8CB` Yudkowsky predicted shorter timelines than Bio Anchors via disjunctive reasoning — either deep learning pays off fast or a new paradigm emerges — and was right on the bottom line despite the wrong mechanism.
 - `INS-260404-4434` The Bio Anchors report's efficiency comparisons are technology-invariant, undermining their usefulness for timing AI progress.
+- `INS-260403-F8CB` Yudkowsky predicted shorter timelines than Bio Anchors via disjunctive reasoning — either deep learning pays off fast or a new paradigm emerges — and was right on the bottom line despite the wrong mechanism.
 - `INS-260320-7682` Run systematic ablation experiments on architecture, data mixtures, and hyperparameters at small scale before committing to a full training run -- this consumes ~37% of total compute but prevents costly mistakes.
 - `INS-260405-F72B` LLM grokking, like penicillin, was discovered by accident—and this accidental-discovery pattern is more characteristic of deep learning progress than theory-driven research.
 - `INS-260320-6F8E` SDD cycle: input specs (PRD, tech brief, requirements) and output specs (research logs, code notes, findings) are both first-class artifacts.

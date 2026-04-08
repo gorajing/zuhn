@@ -26,7 +26,7 @@
 - `INS-260320-446F` Hire content creators directly (Gmail in bio, 5-10K followers) — if their email is at an agency, the arbitrage is already gone.
 - `INS-260403-8FC1` The creator economy startup field is shrinking but surviving companies are in a healthier competitive position than during the boom.
 - `INS-260405-1F65` Independent creators on YouTube, podcasts, and Substack now produce the most rigorous public intellectual discourse, displacing universities and legacy media.
-- `INS-260403-4D1E` Lenny's 1M-subscriber business runs with zero full-time employees, using specialized freelancers for editing, production, and community management.
 - `INS-260403-4C4E` As the music industry's distribution monopoly collapsed, musicians who learned business strategy gained control over their brand, customers, and revenue.
 - `INS-260403-6E76` The erosion of gatekeepers is pulling ambitious people away from test-hacking careers toward fields where genuine quality wins.
 - `INS-260329-6B2C` Follow multiple educators' free content for seven days — whoever delivers the most tactical value for free likely has the best paid offering, minimizing purchase risk.
+- `INS-260403-4D1E` Lenny's 1M-subscriber business runs with zero full-time employees, using specialized freelancers for editing, production, and community management.

@@ -48,6 +48,11 @@
 - `INS-260402-8F67` Most marketplace supply tactics fail individually, but cumulative small wins across many channels compound into massive growth.
 - `INS-260328-B57E` Do not be discouraged by others' growth, but do not accept slow growth either — better tools mean you should be going faster than before.
 - `INS-260330-36DB` Tencent created three separate internal teams to build a mobile messaging app that would compete against their own dominant desktop product QQ, ensuring they disrupted themselves before an outsider could.
+- `INS-260403-294D` The startup edge is applying disproportionate brainpower to mundane problems that large companies delegate to average employees.
+- `INS-260403-F8AE` Apple rarely invented iPhone features first but consistently delivered the best implementation, from multi-touch to facial recognition.
+- `INS-260403-427E` Truly disruptive solutions are often conceptually simple — the moat is in the execution, not the idea.
+- `INS-260403-F75F` Most innovation failures happen not at ideation but at the transfer stage where validated ideas must shift from exploration teams to execution teams.
+- `INS-260402-C2BA` F&F capital works when tied to a specific unlockable milestone like an MVP or pilot launch, not when used to buy time while figuring things out.
 - `INS-260329-82B1` When starting with no capital, embrace high-effort manual strategies first — automation and delegation come after you have revenue, not before.
 - `INS-260323-BDC1` The tension between dreaming and pragmatism is not a contradiction to resolve but a dance to maintain — you need both the north star and the day-by-day execution.
 - `INS-260405-6F45` Before PMF, your job is to discover, not to deliver — treating a startup like a Fortune 500 kills the learning loop.
@@ -59,11 +64,6 @@
 - `INS-260403-0C1D` Spheres packed as tightly as possible still only cover 91% of a surface — a mathematical ceiling that no amount of optimization can overcome.
 - `INS-260329-A01C` The opportunity cost of starting a second business is often the continued growth trajectory of your first one.
 - `INS-260327-8760` Altman rejects backward-from-vision planning, saying he's never seen people with elaborate backward-chain strategies massively succeed.
-- `INS-260403-294D` The startup edge is applying disproportionate brainpower to mundane problems that large companies delegate to average employees.
-- `INS-260403-F8AE` Apple rarely invented iPhone features first but consistently delivered the best implementation, from multi-touch to facial recognition.
-- `INS-260403-427E` Truly disruptive solutions are often conceptually simple — the moat is in the execution, not the idea.
-- `INS-260403-F75F` Most innovation failures happen not at ideation but at the transfer stage where validated ideas must shift from exploration teams to execution teams.
-- `INS-260402-C2BA` F&F capital works when tied to a specific unlockable milestone like an MVP or pilot launch, not when used to buy time while figuring things out.
 - `INS-260405-8080` Meta's explicit goal of making AI teams 'operate more like startups' signals that enterprise overhead is now a recognized competitive liability in AI.
 - `INS-260323-F15D` When transforming a large organization, changing processes and tools (the 'how') unlocks speed more effectively than simply demanding faster output.
 - `INS-260404-74F4` Schedule quarterly culture map reviews to assess whether enablers produced desired behaviors and blockers were actually removed.
@@ -75,8 +75,6 @@
 - `INS-260323-9393` Pincus's product religion: start by copying every pixel of what's proven to work, only change what existing users unanimously confirm is better, then innovate only in the narrow space that remains.
 - `INS-260329-7B47` Send 100 personalized outreach messages daily using a compliment-plus-positioning formula to guarantee your first five customers through pure volume.
 - `INS-260329-7E63` The best closers don't have better arguments — they ask for the sale more times by using reframing to maintain rapport across repeated asks.
-- `INS-260403-4365` Carta data shows solo founders hit 35% of the 2024 class, with soonicorns like BuiltWith ($14M/year, 1 employee) proving the one-person unicorn is approaching reality.
-- `INS-260323-2C70` Pincus hired anyone who said they knew PHP, kept less than half, and found gems like an 18-year-old savant living on his mom's couch — the early-stage hiring perfection myth costs more speed than it saves in quality.
 - `INS-260405-F2C7` Vision should pull milestones forward, not justify why you missed them—keep the two layers structurally separate in your pitch.
 - `INS-260403-6279` History shows that the biggest companies started by doing something that seemed small and unimportant, then expanded from a working beachhead.
 - `INS-260323-A075` Founder speed is not just about iteration velocity — it's a behavioral signal that predicts fundraising success, user acquisition, and survival.
@@ -85,3 +83,5 @@
 - `INS-260322-AAEA` A week is long enough to validate ideas and ship products; ten years captures true strategic direction. Quarterly planning is a deeply useless middle ground where cohorts don't bake and real outcomes aren't visible.
 - `INS-260323-2559` Spending months making an app 'perfect' before releasing it means you're optimizing in the dark — every day of polish without user data is a day of self-deception.
 - `INS-260329-B0BA` Start with your best bad idea and let customer feedback make it less wrong over time, rather than waiting for the perfect concept.
+- `INS-260403-4365` Carta data shows solo founders hit 35% of the 2024 class, with soonicorns like BuiltWith ($14M/year, 1 employee) proving the one-person unicorn is approaching reality.
+- `INS-260323-2C70` Pincus hired anyone who said they knew PHP, kept less than half, and found gems like an 18-year-old savant living on his mom's couch — the early-stage hiring perfection myth costs more speed than it saves in quality.

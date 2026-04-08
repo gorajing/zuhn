@@ -46,7 +46,6 @@ stance: >-
   monetization
 related:
   - INS-260322-AABB
-  - INS-260328-C246
   - INS-260330-02A7
   - INS-260403-DB16
   - INS-260403-C1E9
@@ -55,6 +54,7 @@ related:
   - INS-260329-ADCD
   - INS-260404-F62A
   - INS-260405-3098
+  - INS-260403-2913
 evidence:
   - id: INS-260328-C246
     type: TRANSFERS_TO

@@ -50,5 +50,5 @@
 - `INS-260329-E0B0` A great partnership is measured by the gap between what you achieve together versus what you'd achieve alone.
 - `INS-260404-DF8E` Startups stress-test co-founder relationships like a dog with a sock — if it can be pulled apart, it will be.
 - `INS-260325-3B2A` Getting on the plane to meet someone in person, even for 15 minutes, creates a signal of commitment that consistently beats remote communication in closing deals.
-- `INS-260403-DD41` YC broke at 80 startups because partner-startup relationships were O(n²) — sharding into dedicated groups fixed it instantly.
 - `INS-260330-CB2E` Jho Low let Malaysia's Deputy PM take full credit for brokering a Middle East investment deal, converting zero public credit into private access to the country's most powerful person.
+- `INS-260403-DD41` YC broke at 80 startups because partner-startup relationships were O(n²) — sharding into dedicated groups fixed it instantly.

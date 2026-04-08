@@ -38,10 +38,10 @@ resolutions:
     isn't developed enough yet, but compute constraints will force it.
 related:
   - INS-260323-8519
+  - INS-260408-C572
   - INS-260327-EE5B
   - INS-260322-54F3
   - INS-260322-CCE8
-  - INS-260404-CE26
   - INS-260327-4E8E
   - INS-260403-F9C7
 stance: >-

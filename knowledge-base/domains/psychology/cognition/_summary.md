@@ -1,6 +1,6 @@
 # Topic: cognition
 
-> 88 insights
+> 89 insights
 
 - `INS-260330-984C` [high] Flat Earth theories are clever ad hoc explanations that address individual challenges but fail to fit all evidence into a unified framework.
 - `INS-260403-518E` [high] Chatter makes stress toxic by keeping the stress response active long after the triggering event has passed.
@@ -16,6 +16,7 @@
 - `INS-260405-32BB` [high] Call it a sketch. Call it a quick hack. The label you apply to your work changes the internal standards you apply — and once momentum exists, you can quietly convert it to something real.
 - `INS-260403-15DA` [high] Haters and fanboys are structurally identical: both are obsessive, uncritical, and identity-fused with their target.
 - `INS-260404-0519` [high] The brain processes empathy through two distinct systems: prefrontal 'cold' reasoning circuits and amygdala-based 'hot' emotional mirroring, which can operate independently.
+- `INS-260408-C9F8` [high] Cleo names the bias live: humans must be at the center, then we're not; we must be uniquely emotional, then elephants have funerals; we must be uniquely creative, then Gemini makes art.
 - `INS-260403-5DD6` [high] When people overreact to small provocations, the real cause is usually a past experience their nervous system never fully processed, not a character deficiency.
 - `INS-260403-BADD` [high] Erosion rates turn incomprehensible deep time into something the human mind can grasp and reason about.
 - `INS-260403-D7C4` [high] When every possible life path is visible simultaneously, choosing any single path feels like losing all the others — so people choose nothing.

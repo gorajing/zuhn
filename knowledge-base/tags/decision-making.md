@@ -89,12 +89,6 @@
 - `INS-260327-8F76` When two partners with strong opinions disagree, a third co-founder provides the tiebreaker perspective that prevents gridlock.
 - `INS-260402-7DCC` 'Industry best practice' in technology shields managers from blame but guarantees mediocre results that bolder competitors will exploit.
 - `INS-260403-FF3E` Yahoo's serial misses — Google ($3B), Facebook ($1.1B), Microsoft ($46B buyout), Netflix ($4B) — each widened the competitive gap and reduced future options.
-- `INS-260402-F5E0` Break vague reluctance into specific fears to discover most are unfounded.
-- `INS-260328-9574` People reach for process when a recurring problem scares them or when they're doing something for the first time — it provides comfort even when it doesn't improve the output.
-- `INS-260405-03BB` Adam Neumann's bid to buy WeWork back — five years after his ousting — exemplifies how founder identity becomes entangled with company narrative to the point of overriding rational capital allocation.
-- `INS-260325-788E` The word 'should' signals a cognitive script is running; replacing it with 'might' reopens genuine deliberation and possibility space.
-- `INS-260323-95FE` Cox's first fraud (whiting out a late payment) didn't satisfy the urge — it emboldened him, rapidly escalating from minor document alteration to synthetic identities and $55M in fraud.
-- `INS-260405-2CDB` The urge to perfect before testing is driven by fear of invalidation, not by logic.
 - `INS-260330-C6A2` Submarines operate on broad mission intent with autonomous decision-making because communication would compromise stealth.
 - `INS-260327-3C19` As CEO, one wrong prioritization decision can easily waste 3 months building something that does not matter.
 - `INS-260403-7B93` Choosing the door-opening option 80% of the time creates 292 chances for serendipity per year versus 73 for comfort-seekers.
@@ -109,8 +103,20 @@
 - `INS-260404-88D8` If you can't reach statistical significance within a month, use pre/post analysis and trust intuition — waiting for perfect data is its own form of failure.
 - `INS-260403-8C2D` Delaying two hires by one quarter can extend runway by 3.5 months — scenario modeling makes these tradeoffs visible before they become consequences.
 - `INS-260403-1ECB` When hiring plans live in Notion, runway models in Excel, and compensation decisions in separate conversations, the resulting misalignment silently erodes runway.
+- `INS-260402-F5E0` Break vague reluctance into specific fears to discover most are unfounded.
+- `INS-260328-9574` People reach for process when a recurring problem scares them or when they're doing something for the first time — it provides comfort even when it doesn't improve the output.
+- `INS-260405-03BB` Adam Neumann's bid to buy WeWork back — five years after his ousting — exemplifies how founder identity becomes entangled with company narrative to the point of overriding rational capital allocation.
+- `INS-260325-788E` The word 'should' signals a cognitive script is running; replacing it with 'might' reopens genuine deliberation and possibility space.
+- `INS-260323-95FE` Cox's first fraud (whiting out a late payment) didn't satisfy the urge — it emboldened him, rapidly escalating from minor document alteration to synthetic identities and $55M in fraud.
+- `INS-260405-2CDB` The urge to perfect before testing is driven by fear of invalidation, not by logic.
 - `INS-260402-7FF5` Pick a weekly growth target and use it as the sole criterion for every decision — anything that hits the number is right.
 - `INS-260323-B849` In normal-distribution games (coin flips for $1), optimize for the average; in power-law games (startups, content, earthquakes), the average is meaningless — optimize for maximum exposure to extreme outcomes.
+- `INS-260403-9627` Committees produce safe, lumpy designs because no group will agree to the bold risks that distinguish great work.
+- `INS-260404-6394` Idea meritocracy — where ideas win over hierarchy — is a structural prerequisite for sustained organizational innovation.
+- `INS-260403-A3BD` A five-variable MRR model (new customers, ARPU, churn, current MRR, goal) provides 80% of the decision value of a full financial model.
+- `INS-260402-A629` Eliminating investment committees lets a solo GP write 9-figure checks in days, trading key-person risk for speed and conviction alignment.
+- `INS-260405-F531` Simply asking 'what would a bootstrapped company do?' cuts through VC-funded bloat and restores prioritization clarity.
+- `INS-260403-BF83` VC due diligence is designed to confirm or deny an initial gut feeling about a startup rather than to objectively discover its merits.
 - `INS-260328-70D3` The belief that you must 'break glass' because AGI is imminent rhymes with every generation's conviction that they happen to be alive at the end of days.
 - `INS-260323-7C3A` Make life-altering decisions with your heart and gut, then never revisit them — execute with pure discipline and data from that point forward.
 - `INS-260325-502D` Conflict between high performers with the same goal but different approaches is a feature, not a bug — organizations that seamlessly resolve conflict are winning teams.
@@ -126,12 +132,6 @@
 - `INS-260329-AAE3` You can be right 99% of the time that individual attempts will fail, but being 100% wrong on the long-term outcome because one of them would have worked if you kept going.
 - `INS-260327-8254` Horowitz identifies two fatal founder patterns: over-deferring to smart hires because no one else has the CEO's full context, and hesitating on hard decisions until decision debt paralyzes the company.
 - `INS-260328-0B42` Dalton's hack: ask 'if I were doing office hours with myself, what would I say?' to access your own best advice.
-- `INS-260403-9627` Committees produce safe, lumpy designs because no group will agree to the bold risks that distinguish great work.
-- `INS-260404-6394` Idea meritocracy — where ideas win over hierarchy — is a structural prerequisite for sustained organizational innovation.
-- `INS-260403-A3BD` A five-variable MRR model (new customers, ARPU, churn, current MRR, goal) provides 80% of the decision value of a full financial model.
-- `INS-260402-A629` Eliminating investment committees lets a solo GP write 9-figure checks in days, trading key-person risk for speed and conviction alignment.
-- `INS-260405-F531` Simply asking 'what would a bootstrapped company do?' cuts through VC-funded bloat and restores prioritization clarity.
-- `INS-260403-BF83` VC due diligence is designed to confirm or deny an initial gut feeling about a startup rather than to objectively discover its merits.
 - `INS-260323-4D5E` People decide based on what they care about first, then construct rational justifications — which makes reason itself an emotion-based process.
 - `INS-260403-48CC` Push purpose and strategy understanding down so frontline staff can make decisions without managerial approval.
 - `INS-260405-CADE` Crisis coordination works through distributed decision-makers with explicit commitment chains, not centralized command.
@@ -152,19 +152,19 @@
 - `INS-260405-6F8C` Returning to first principles in noisy domains is how you separate genuine breakthroughs from headline-driven hype.
 - `INS-260405-346A` Org structure is fundamentally a filter—it determines which conflicts are visible to leadership and which are suppressed before surfacing.
 - `INS-260405-ACCE` The conflicts leadership hears about are a structural choice—design the org to surface the right ones.
-- `INS-260404-29EC` Strategic pillars should be scored across four dimensions: expected impact, certainty of impact, clarity of levers, and lever uniqueness/differentiation.
-- `INS-260403-8BA2` You don't need total consensus on rankings to have meaningful quality standards — a partial order where great is distinguishable from mediocre is enough.
 - `INS-260403-0185` The best products come from small, opinionated teams — committees produce bureaucratic compromises.
 - `INS-260403-6C38` Design tenets are opinionated, falsifiable statements that guide real decisions — unlike vague principles that no one would disagree with.
 - `INS-260330-8D34` A clear set of 'why are we building this' statements serves as both creative constraint and trade-off arbiter across all teams.
 - `INS-260330-7241` Framework popularity is a legitimate engineering constraint because it determines hiring pool size and ecosystem support.
 - `INS-260330-8890` Define 5 or fewer 'Why' statements that articulate specific user problems whose solutions make the product indispensable, then use them as the filter for every trade-off decision.
-- `INS-260404-7C1F` Startup operating systems should prioritize reducing decision friction over covering every edge case.
-- `INS-260330-4A16` Culture is the set of invariants you maintain as you get involved in exponentially fewer decisions over time.
-- `INS-260330-304C` Top performers at PolyAI consistently came from candidates who had one exceptional strength that made an interviewer champion them, not from candidates with uniformly good scores.
-- `INS-260403-063E` McKinsey research shows companies combining AI with human decision-making are 20% more successful in AI deployment than those pursuing full automation.
+- `INS-260403-8BA2` You don't need total consensus on rankings to have meaningful quality standards — a partial order where great is distinguishable from mediocre is enough.
+- `INS-260404-29EC` Strategic pillars should be scored across four dimensions: expected impact, certainty of impact, clarity of levers, and lever uniqueness/differentiation.
 - `INS-260403-5B4E` Doing what's best for users eliminates the cognitive overhead of maintaining consistent strategic narratives across many decisions.
 - `INS-260330-F258` Good democratic systems are optimized for removing bad leaders efficiently and nonviolently, not for selecting the best ones — mirroring how science progresses by falsification, not verification.
 - `INS-260330-D74A` The Articles required 9 of 13 states to agree on any decision and unanimity for amendments, resulting in zero amendments ever passed and near-total paralysis.
 - `INS-260403-DFC3` Train your investment committee to judge evidence from experiments, not to judge ideas they personally like.
 - `INS-260405-9460` Without a structured process to capture what experiments taught you, you run the same tests twice and make the same bets twice.
+- `INS-260404-7C1F` Startup operating systems should prioritize reducing decision friction over covering every edge case.
+- `INS-260330-4A16` Culture is the set of invariants you maintain as you get involved in exponentially fewer decisions over time.
+- `INS-260330-304C` Top performers at PolyAI consistently came from candidates who had one exceptional strength that made an interviewer champion them, not from candidates with uniformly good scores.
+- `INS-260403-063E` McKinsey research shows companies combining AI with human decision-making are 20% more successful in AI deployment than those pursuing full automation.

@@ -20,10 +20,10 @@
 - `INS-260330-9931` A few network-joining decisions create the gravitational field that shapes all subsequent daily choices.
 - `INS-260405-6E4F` Better inputs compound into better judgment — information diet is a leverage point most people underinvest in.
 - `INS-260330-2B29` Revolutions result from accumulated small decisions, not single dramatic moments.
-- `INS-260403-E1CE` Treat every goal as a funnel where volume of attempts generates information that compounds into exponentially better outcomes over time.
-- `INS-260403-E1E9` Replit CEO Amjad Masad's six lessons on winning emphasize that progress compounds through clarity and consistency, not through shortcuts or hype cycles.
 - `INS-260403-D2A5` Persistence emerges from the interaction of energy, imagination, resilience, good judgment, and goal focus — missing any one degrades the whole.
 - `INS-260402-1146` Sustained proof-of-work builds a reputation signal that eventually outcompetes brand theatrics and institutional prestige in sophisticated markets.
+- `INS-260403-E1CE` Treat every goal as a funnel where volume of attempts generates information that compounds into exponentially better outcomes over time.
+- `INS-260403-E1E9` Replit CEO Amjad Masad's six lessons on winning emphasize that progress compounds through clarity and consistency, not through shortcuts or hype cycles.
 - `INS-260330-90C3` Jho Low's fake credentials compounded — each lie made the next one easier because people used prior signals as validation.
 - `INS-260330-E794` Early network advantages compound nonlinearly through preferential attachment, making initial network-selection moments disproportionately consequential.
 - `INS-260403-2949` Curiosity uniquely compounds — satisfying it generates more questions rather than satiation.
@@ -74,8 +74,10 @@
 - `INS-260330-8817` Small differences in growth rates compound into enormous outcome divergence because exponential functions amplify parameter sensitivity over time.
 - `INS-260403-07D2` The Calvin Cycle produces 6 G3P molecules but must recycle 5 to regenerate starting materials, netting only 1 for actual plant growth.
 - `INS-260403-458A` Time to $1B revenue compressed from 45 years (IBM) to 7-8 years for modern companies, creating a double effect on founder wealth.
+- `INS-260329-CB2C` Prioritize building audience goodwill over immediate monetization because it compounds faster and converts to money on your timeline.
 - `INS-260329-CCC4` Two businesses with 300 customers have radically different trajectories — one with 100% churn needs ever-increasing acquisition, while one with 100% retention grows automatically.
 - `INS-260403-98E1` Real wealth stacks up through many small chips — businesses, investments, options — not one big windfall.
+- `INS-260403-DE0E` Investing well in a few startups and genuinely helping them creates a chain reaction of increasingly high-quality referrals.
 - `INS-260329-22B6` What looks like speed from the outside is actually fewer strategic pivots over a longer time horizon, not more activity.
 - `INS-260329-5A47` Ignorance isn't a one-time cost — it's a recurring debt that compounds against you every period you don't learn.
 - `INS-260329-0935` Sustained focus on one domain compounds returns far more than spreading effort across many.
@@ -86,13 +88,17 @@
 - `INS-260329-FC6D` Two complementary skills compound disproportionately — sales + finance lets you raise billions; coding + marketing lets you build and distribute software solo.
 - `INS-260323-422B` The Barber & Odean study of 66,000 investors showed the most active traders underperformed the market by 7%/year while the least active performed best — jumping between opportunities destroys the compounding that builds wealth.
 - `INS-260329-8542` Writing yourself a 10-year contract to add 1-2 zeros to your net worth transforms your decision-making from gambling to inevitable compounding.
-- `INS-260329-CB2C` Prioritize building audience goodwill over immediate monetization because it compounds faster and converts to money on your timeline.
-- `INS-260403-DE0E` Investing well in a few startups and genuinely helping them creates a chain reaction of increasingly high-quality referrals.
 - `INS-260330-930D` Apple's dismissal of India as low-revenue ignores that competitors are building ecosystem lock-in with hundreds of millions of users who will be difficult to convert later.
 - `INS-260322-AD9B` It IS faster to do it yourself the first time — but accepting that upfront cost is the only path to compounding leverage.
 - `INS-260403-2DB2` Live ops creates a compounding advantage: each data-driven iteration personalizes the experience further, building a moat that static competitors cannot match.
 - `INS-260404-68EE` 78% of public software companies above $5B market cap are multi-product, making it effectively mandatory for outsized outcomes.
+- `INS-260325-0F4F` Progress begets progress: fundamental technologies like computing and steam power feed back into the innovation process itself, creating accelerating returns.
 - `INS-260327-7BFA` In your 20s with fewer responsibilities, work 7am to 7pm then prospect until 10pm -- the repetitions compound into skills and relationships that let your 40-year-old self have a family, coach kids' sports, and still earn top-tier income.
+- `INS-260405-0D9A` Structure your roadmap so each milestone lowers the cost or risk of the next, making progress compound rather than just accumulate.
+- `INS-260330-B3DD` Compound pulley systems achieve 8:1 advantage with fewer components than block-and-tackle systems because each stage doubles the previous output rather than adding to it.
+- `INS-260330-659D` Shade balls were purchased to block bromate formation, but their secondary benefits — 80-90% evaporation reduction, algae elimination, near-zero chlorination — pay back at least half their cost.
+- `INS-260403-92CC` Category leaders show revenue growth that compounds with user growth because each new business model layer increases revenue per existing customer.
+- `INS-260330-C7CB` The agricultural revolution was not a revolution — it was 13,000+ years of people incrementally optimizing for 'more food' without intending systemic change.
 - `INS-260403-6E23` Mark Leonard built a $100B empire by buying boring software companies, never selling, and compounding returns through operational patience.
 - `INS-260329-33D4` Output = Volume × Leverage means improving leverage multiplies all existing effort rather than adding incrementally.
 - `INS-260329-4223` Moving up the leverage hierarchy from labor to code/content multiplies output per unit of input exponentially.
@@ -100,9 +106,3 @@
 - `INS-260323-F310` LIGO now reaches 1,000x more space than its original design through continuous incremental sensitivity improvements.
 - `INS-260329-9DF3` Four leverage types — Collaboration, Capital, Code, Content — stack multiplicatively to break through revenue ceilings.
 - `INS-260329-9101` A 9.5/10 product requires 20x the work of a 7/10 but sells 1000x more, making the extra effort a 50x leverage multiplier.
-- `INS-260405-0D9A` Structure your roadmap so each milestone lowers the cost or risk of the next, making progress compound rather than just accumulate.
-- `INS-260330-B3DD` Compound pulley systems achieve 8:1 advantage with fewer components than block-and-tackle systems because each stage doubles the previous output rather than adding to it.
-- `INS-260330-659D` Shade balls were purchased to block bromate formation, but their secondary benefits — 80-90% evaporation reduction, algae elimination, near-zero chlorination — pay back at least half their cost.
-- `INS-260403-92CC` Category leaders show revenue growth that compounds with user growth because each new business model layer increases revenue per existing customer.
-- `INS-260330-C7CB` The agricultural revolution was not a revolution — it was 13,000+ years of people incrementally optimizing for 'more food' without intending systemic change.
-- `INS-260325-0F4F` Progress begets progress: fundamental technologies like computing and steam power feed back into the innovation process itself, creating accelerating returns.

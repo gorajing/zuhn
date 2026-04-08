@@ -18,9 +18,9 @@
 - `INS-260329-1ACD` Planning code via pseudocode and flowcharts before writing it produces cleaner implementations with fewer bugs.
 - `INS-260327-0E86` Five-year plans are impossible when AI capabilities change monthly—think first principles about what stays true for a year.
 - `INS-260403-1904` Centralizing all financial assumptions in one tab and wiring downstream logic to it prevents the Jenga-tower fragility that plagues most startup spreadsheets.
-- `INS-260327-8760` Altman rejects backward-from-vision planning, saying he's never seen people with elaborate backward-chain strategies massively succeed.
 - `INS-260402-2300` Start thinking about fundraising 12 months before you need it, maintain 8+ months runway when beginning outreach, and consider bridge rounds if runway is short.
+- `INS-260327-8760` Altman rejects backward-from-vision planning, saying he's never seen people with elaborate backward-chain strategies massively succeed.
 - `INS-260403-9D8A` Prototyping a subset beats spec-writing because it keeps the problem small enough for one mind to encompass.
-- `INS-260329-D02E` Decompose revenue targets into weekly unit sales to identify whether your constraint is volume or price.
-- `INS-260322-AAEA` A week is long enough to validate ideas and ship products; ten years captures true strategic direction. Quarterly planning is a deeply useless middle ground where cohorts don't bake and real outcomes aren't visible.
 - `INS-260328-93C8` The difference between a technology arriving in 18 months versus 10 years should completely change your strategy, even though both scenarios validate the same directional prediction.
+- `INS-260322-AAEA` A week is long enough to validate ideas and ship products; ten years captures true strategic direction. Quarterly planning is a deeply useless middle ground where cohorts don't bake and real outcomes aren't visible.
+- `INS-260329-D02E` Decompose revenue targets into weekly unit sales to identify whether your constraint is volume or price.

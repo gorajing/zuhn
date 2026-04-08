@@ -58,11 +58,12 @@ stance: >-
   known protein structures but engineering novel drug candidates that interact
   with cryptic, transient binding sites.
 related:
+  - INS-260408-306A
   - INS-260330-8BA6
   - INS-260402-89DE
   - INS-260403-219F
   - INS-260323-F7DB
-  - INS-260330-5609
+  - INS-260408-F58E
 ---
 AlphaFold won a Nobel Prize for predicting the 3D structure of proteins — a massive scientific achievement. But static structure prediction has a ceiling: proteins are dynamic, and many of the most important drug targets (like KRAS in cancer) only expose binding sites briefly as they flex and move. Earlier models saw a smooth surface; those transient pockets were invisible, which is why aggressive cancers and neurodegenerative diseases were labeled undruggable.
 

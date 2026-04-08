@@ -1,6 +1,6 @@
 # Topic: future-of-work
 
-> 76 insights
+> 77 insights
 
 - `INS-260320-A745` [very_high] Anthropic's own studies show AI deskilling in coding is real, but depends on HOW you use models — some usage patterns cause skill degradation, some don't.
 - `INS-260321-9824` [very_high] Tao's papers now have more code, more plots, deeper literature searches — but the core mathematical work (pen and paper for the hardest part) hasn't been accelerated. AI enriches output without deepening it.
@@ -31,6 +31,7 @@
 - `INS-260403-3223` [high] Young college grads show higher unemployment but not lower employment — the gap is driven by labor force participation differences, not AI displacement.
 - `INS-260403-B800` [high] Competitive advantage in the agent era comes from identifying which resources AI makes scarce, not which it makes abundant.
 - `INS-260329-3489` [high] Experts shift from spending 90% of time generating to spending most time on QA and validation of AI output.
+- `INS-260408-3691` [high] Hassabis to students: 'immerse myself in every tool available and become almost like superpowered' — the gap is creative application, not technical skill.
 - `INS-260320-5F14` [high] "Even if an AI is always going to be better than you at something, you can still learn that thing. You can still enrich yourself intellectually."
 - `INS-260327-32F1` [high] Career advice from successful people is inherently flawed by survivorship bias (only winners speak) and confirmation bias (they accentuate positives and eliminate negatives in retrospect).
 - `INS-260325-ADF5` [high] Open Router reports that sales and support staff are building agents that multiply their output, doing in hours what previously took days — the transformation is not engineers getting faster but non-engineers becoming builders.

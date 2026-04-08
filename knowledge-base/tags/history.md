@@ -14,6 +14,6 @@
 - `INS-260403-DC52` Learn history by reading exciting books on specific topics rather than attempting comprehensive chronological surveys.
 - `INS-260325-EC7A` Greek and Roman statues were vibrantly painted — our image of austere white marble is an accident of decay, known for over a century but still shaping perception.
 - `INS-260325-B14B` Before the 1500s, no major civilization believed in upward progress — history was seen as cyclical or as decline from a golden age.
+- `INS-260325-EBDD` Bacon foresaw the power of systematic science in 1620 but the Industrial Revolution did not arrive until 200 years later.
 - `INS-260323-9B68` Shapiro's counter to the 'arc of history bends toward progress' narrative: the 20th century produced communism, Nazism, and the Holocaust — moral regression is not just possible, it's historically common.
 - `INS-260325-79BD` The ~1500-year gap between Bronze Age collapse and Rome's fall, and another ~1500 years to today, suggests recurring vulnerability patterns.
-- `INS-260325-EBDD` Bacon foresaw the power of systematic science in 1620 but the Industrial Revolution did not arrive until 200 years later.

@@ -2,12 +2,12 @@
 
 - `INS-260404-292E` Investing autonomy progresses through five levels: human judgment, rule-based execution, system orchestration, ML adaptation, and fully autonomous agents.
 - `INS-260322-770D` AI labs are already profitable on current models — the bubble risk lies entirely in whether future capex on larger models will produce proportionally larger returns.
-- `INS-260403-13AF` Healthcare's $1T/year administrative layer — 185,000 coders translating across 70,000+ diagnosis codes — represents exactly the kind of repetitive translation work AI automates first.
-- `INS-260323-7B63` AI creates the greatest period of business disruptability in history, making moat analysis the most critical and difficult skill for investors.
-- `INS-260329-33C7` Builders compound value through operations while Bettors seek asymmetric payoffs through timing — backing Builders is more reliable.
 - `INS-260325-039E` High-cost portfolios generate roughly 20% less terminal value than low-cost portfolios over 25-30 years, all else equal.
 - `INS-260325-0688` The loser's game framework shows that investing success comes from minimizing errors, not maximizing returns.
 - `INS-260325-195E` Bessembinder's research shows just 2% of stocks account for all net market gains over 75 years.
+- `INS-260403-13AF` Healthcare's $1T/year administrative layer — 185,000 coders translating across 70,000+ diagnosis codes — represents exactly the kind of repetitive translation work AI automates first.
+- `INS-260323-7B63` AI creates the greatest period of business disruptability in history, making moat analysis the most critical and difficult skill for investors.
+- `INS-260329-33C7` Builders compound value through operations while Bettors seek asymmetric payoffs through timing — backing Builders is more reliable.
 - `INS-260405-DA83` TSMC's record $52-56B capex guidance reflects hyperscalers reserving capacity years ahead, de-risking the investment case.
 - `INS-260323-1B42` Ray Dalio's core insight: the #1 mistake is trying to increase returns without managing risk — the best investors keep returns constant while systematically reducing the risk required to achieve them.
 - `INS-260404-D7E0` Palo Alto Networks and Splunk's 2012 IPOs signaled that cybersecurity and big data were structural growth sectors, not niche plays.

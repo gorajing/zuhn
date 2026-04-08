@@ -10,8 +10,8 @@
 - `INS-260405-F1A1` The US data center pipeline hit 241 GW but only a third is under active development, with utilities unable to supply power fast enough despite $650B in planned 2026 CapEx.
 - `INS-260328-6C9A` In 2013, Sam Altman left YC to work on nuclear power because 'electricity is everything' — the AI era proved him exactly right.
 - `INS-260405-8E85` Photosynthesis converts sunlight into ATP and NADPH as intermediate currencies, then spends those currencies in the Calvin Cycle—never coupling capture and use directly.
-- `INS-260327-F384` Animal-based nutrition supports elite surfing performance through sustained energy without crashes
 - `INS-260325-5CB1` Stanford Prof Ram Rajagopal: the AI bottleneck is not compute but power — data centers are outgrowing the century-old electrical grid.
+- `INS-260327-F384` Animal-based nutrition supports elite surfing performance through sustained energy without crashes
 - `INS-260330-BC56` Photons from solar fusion excite electrons in chlorophyll, which through an elaborate transport chain produce ATP and NADPH, which build glucose, which animals then reverse-engineer back into ATP — making all aerobic life indirectly fusion-powered.
 - `INS-260330-1084` A photon's journey from solar fusion through photosynthesis to cellular ATP involves at least 6 major conversion steps, each losing energy — making biological systems inherently energy-constrained despite abundant solar input.
 - `INS-260330-100F` Thylakoid membranes store energy by pumping protons to one side, creating a 'charged battery' that drives ATP synthase — energy stored as a gradient, not a molecule.

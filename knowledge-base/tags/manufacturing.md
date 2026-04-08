@@ -6,6 +6,7 @@
 - `INS-260327-0875` A robot that can build copies of itself from its own parts enables exponential manufacturing capacity - exactly how ribosomes build elephants one molecule at a time.
 - `INS-260404-4F1B` Solar's 99.9% cost decline since 1975 demonstrates how manufacturing learning curves create inevitable cost dominance over extraction-based competitors.
 - `INS-260405-24F0` Britain's relative manufacturing share predicted its WWI dependency on America decades before the war; today's US-China manufacturing gap signals a similar structural shift.
+- `INS-260405-F05B` Structured environments like factory floors let humanoid robots learn fast and fail cheaply before tackling complex unstructured domains.
 - `INS-260330-BBCF` Since China's 2001 WTO entry, manufacturing value-added flipped from US at 2x China to China at 2x US — a structural shift in hard power.
 - `INS-260404-57D0` China controls 80-95% of global solar manufacturing across polysilicon, wafers, cells, and modules with no near-term Western alternative.
 - `INS-260403-33BF` Japan's forced remilitarization could paradoxically end its economic stagnation by funding bold R&D, reviving manufacturing, and attracting foreign investment.
@@ -16,7 +17,6 @@
 - `INS-260405-32D8` Both Micron's $100B NY megafab and xAI's Mississippi data center received state tax exemptions, confirming that government incentives are structural prerequisites for domestic semiconductor and compute investment.
 - `INS-260403-E9E0` US manufacturing shed workers for 8 consecutive months post-Liberation Day because tariffs taxed the imported inputs that most factories depend on.
 - `INS-260403-2B95` The same core components (batteries, motors, power electronics) underpin EVs, drones, robots, and AI data centers, making them a single interconnected industrial revolution.
-- `INS-260405-F05B` Structured environments like factory floors let humanoid robots learn fast and fail cheaply before tackling complex unstructured domains.
 - `INS-260325-C5FD` American automakers take 6 years to ship a new model; Chinese competitors do it in 18 months — with 50 major EV makers competing fiercely, iteration speed IS the innovation.
 - `INS-260405-2AFD` China's workforce built deep process knowledge by assembling goods for international firms, and that accumulated expertise became the foundation for leapfrogging into EVs, solar, and AI hardware.
 - `INS-260403-44D9` EV technology shares components with drones, robots, and electronics, so low EV adoption limits scale for the entire manufacturing ecosystem.

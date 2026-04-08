@@ -55,7 +55,6 @@ related:
   - INS-260403-4960
   - INS-260403-9F2A
   - INS-260403-087F
-  - INS-260403-6F22
 ---
 The traditional approach of evaluating AI companies through the lens of existing tech sectors (SaaS, marketplaces, etc.) misses the fundamental disruption AI creates. AI doesn't just improve existing categories — it creates entirely new ones and collapses others, requiring investors to develop novel evaluation frameworks.
 

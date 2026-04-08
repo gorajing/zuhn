@@ -21,10 +21,10 @@
 - `INS-260330-1293` North Korea maintains stability by selectively tolerating illegal capitalism rather than cracking down uniformly, turning potential dissidents into co-opted participants.
 - `INS-260330-7E3F` Non-experts in public discourse play 'tennis without a net' — they can swing as hard as they want with no penalty for errors, while real experts face career consequences for every mistake.
 - `INS-260330-F324` When your audience is built on tribal identity rather than expertise, changing your position is an extinction-level business event.
+- `INS-260405-3554` Founders misunderstand what VCs are optimized for, and VCs misunderstand how founders emotionally relate to their company — this mutual misreading creates predictable friction at board level.
 - `INS-260403-6C88` Chamath's admission that Facebook's team wishes they'd been more careful proves that competitive pressure overrides good intentions without external constraints.
 - `INS-260330-95E8` OpenAI succeeded commercially because it needed revenue to sustain research; Google DeepMind underperformed commercially because Google's deep pockets removed the urgency.
-- `INS-260405-3554` Founders misunderstand what VCs are optimized for, and VCs misunderstand how founders emotionally relate to their company — this mutual misreading creates predictable friction at board level.
 - `INS-260402-6D5E` Historical evidence shows wealth creation switches on and off like a fan depending on whether creators are allowed to keep their gains.
-- `INS-260330-DE65` Labs forced to monetize their research (like OpenAI) consistently out-commercialize well-funded labs (like Google Brain/DeepMind) because financial pressure drives product focus.
 - `INS-260405-339F` Idea-friendly cultures are not values-based — they're incentive-selected, which means they're replicable wherever the incentives align.
 - `INS-260330-13EE` Both Germany and Japan expanded primarily to secure food and resource self-sufficiency, not to spread ideology.
+- `INS-260330-DE65` Labs forced to monetize their research (like OpenAI) consistently out-commercialize well-funded labs (like Google Brain/DeepMind) because financial pressure drives product focus.

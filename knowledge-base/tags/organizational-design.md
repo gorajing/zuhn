@@ -14,16 +14,14 @@
 - `INS-260402-300A` Companies that enforce top-down idea flow and quality control lose to decentralized systems where the best work self-selects through audience feedback.
 - `INS-260330-1B8A` The Constitution's framers designed checks against both government tyranny and democratic mob rule, creating a system durable enough to last 230+ years.
 - `INS-260403-58BA` Stripping bureaucracy to maintain speed over 20 years made Palantir impossible to compete with.
-- `INS-260323-0683` As stakes increase, power struggles intensify — resilient governance structures must be built early, before the pressure peaks.
 - `INS-260402-ABB5` Financial constraints force companies to fix dysfunctions — overpaying underperformers, underpaying top talent, coordination-heavy middle management — that abundant capital made invisible.
 - `INS-260328-7241` Bad process is like a cancer — a machine that only wants more power and more people, until you have a thousand process people and one guy making bolts.
 - `INS-260403-1ECB` When hiring plans live in Notion, runway models in Excel, and compensation decisions in separate conversations, the resulting misalignment silently erodes runway.
+- `INS-260323-0683` As stakes increase, power struggles intensify — resilient governance structures must be built early, before the pressure peaks.
 - `INS-260330-D99D` McDonald's biggest innovations — the Big Mac, drive-thru, Ronald McDonald, and Happy Meal — all came from individual franchisees experimenting locally, not corporate headquarters.
 - `INS-260404-B893` Growth teams are multipliers of existing traction, not creators of it — fix the product before hiring growth.
 - `INS-260330-D968` The umma concept superseded tribal allegiance, enabling Islam to unify warring factions into a single expansionary community within two centuries.
 - `INS-260403-E63A` Growth matured from a solo hacker role into a cross-functional team that operates like a systems architecture function spanning product, data, engineering, and design.
-- `INS-260404-89DA` Founder mode correctly emphasizes deep engagement but becomes dangerous when used to justify bypassing management structure entirely.
-- `INS-260327-99DB` Supercell was founded on flipping the org chart: game teams (cells) own the vision, leadership serves them, and the best game developers are the superstars of the company.
 - `INS-260403-47BF` Lack of structured innovation processes is itself a warning sign that the organization is behind.
 - `INS-260403-1B15` Business models expire faster than CEO tenures, forcing leaders to build systematic invention capabilities rather than ride a single model.
 - `INS-260403-402A` Running executive, team, and initiative-specific innovation training in parallel builds capability faster than sequential rollouts.
@@ -44,6 +42,8 @@
 - `INS-260405-9FD9` Osterwalder observes that being tasked with 'inventing the future' of a company carries surprisingly little prestige inside most large organizations.
 - `INS-260404-63B0` Inventing future growth engines requires a structurally separate organization that operates independently from the team optimizing the existing business.
 - `INS-260403-C8FD` A dedicated internal ambassador who bridges innovation and execution teams prevents both isolation and antibody rejection.
+- `INS-260404-89DA` Founder mode correctly emphasizes deep engagement but becomes dangerous when used to justify bypassing management structure entirely.
+- `INS-260327-99DB` Supercell was founded on flipping the org chart: game teams (cells) own the vision, leadership serves them, and the best game developers are the superstars of the company.
 - `INS-260404-CDF0` Map behaviors before outcomes because they are concrete, observable, and the primary lever for culture change.
 - `INS-260405-8080` Meta's explicit goal of making AI teams 'operate more like startups' signals that enterprise overhead is now a recognized competitive liability in AI.
 - `INS-260404-2BAD` Organizations using the Business Model Canvas for executive onboarding achieve faster, more complete knowledge transfer by making the company's strategic logic visually explicit.
@@ -67,6 +67,7 @@
 - `INS-260405-ACCE` The conflicts leadership hears about are a structural choice—design the org to surface the right ones.
 - `INS-260405-B406` If critical tensions aren't reaching leadership, the org structure is filtering them out.
 - `INS-260403-30FF` Clear organizational vision replaces coordination overhead — everyone already knows what to build without being told.
+- `INS-260330-D74A` The Articles required 9 of 13 states to agree on any decision and unanimity for amendments, resulting in zero amendments ever passed and near-total paralysis.
 - `INS-260327-3930` Nikesh Arora's key M&A principle: acquired founders become the bosses of existing Palo Alto teams, because if incumbents were capable enough, they wouldn't have needed the acquisition.
 - `INS-260403-DD41` YC broke at 80 startups because partner-startup relationships were O(n²) — sharding into dedicated groups fixed it instantly.
 - `INS-260403-1C28` Structure teams as autonomous 2-6 person pods that each own their own goals, roadmap, deployment, and quality control.
@@ -94,4 +95,3 @@
 - `INS-260403-20BF` A 'Mullet' structure—small hub presence for strategy/capital, large remote workforce for engineering—captures network benefits while enabling faster technical iteration.
 - `INS-260403-2ED2` Democratic governance kills venture firm scaling because partners vote to preserve their own power during reorganizations.
 - `INS-260330-E585` The Articles of Confederation collapsed primarily because Congress could not collect taxes, proving that authority without enforcement mechanisms is meaningless.
-- `INS-260330-D74A` The Articles required 9 of 13 states to agree on any decision and unanimity for amendments, resulting in zero amendments ever passed and near-total paralysis.

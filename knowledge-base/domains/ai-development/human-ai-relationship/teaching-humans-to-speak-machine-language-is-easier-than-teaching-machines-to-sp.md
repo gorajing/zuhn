@@ -49,7 +49,6 @@ stance: >-
   optimal interface strategy is always to meet machines on their terms rather
   than building natural language interfaces
 related:
-  - INS-260323-1BF7
   - INS-260323-EECF
   - INS-260321-9906
   - INS-260325-CACA
@@ -59,6 +58,7 @@ related:
   - INS-260329-C555
   - INS-260402-9676
   - INS-260330-2666
+  - INS-260329-04FA
 evidence:
   - id: INS-260323-5CE3
     type: TRANSFERS_TO

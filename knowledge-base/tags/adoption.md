@@ -28,6 +28,6 @@
 - `INS-260403-5EB4` In low-trust markets, founders must build trust bridges through local symbols and social proof before product quality matters.
 - `INS-260404-B5EB` Apple 'mobilized' the payments ecosystem by letting all existing players continue business as usual while adding a mobile layer, rather than forcing ecosystem rewiring.
 - `INS-260403-1269` The best business tools are conceptually sound, simple, practical, visual, and have great UX — adoption depends on usability, not just correctness.
-- `INS-260405-7DC3` E-Ship 1 added four Flettner rotors to reduce diesel consumption — not to replace diesel, making the economics and risk profile of adoption far more tractable.
 - `INS-260330-318C` Mobile money adoption in Africa was explosive because the alternative — physically transporting cash over multi-day journeys with theft risk — made adoption a survival decision rather than a convenience choice.
 - `INS-260403-CB33` Forced adoption events like COVID permanently digitize resistant populations by giving them a socially acceptable excuse to change behavior.
+- `INS-260405-7DC3` E-Ship 1 added four Flettner rotors to reduce diesel consumption — not to replace diesel, making the economics and risk profile of adoption far more tractable.

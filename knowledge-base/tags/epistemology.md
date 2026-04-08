@@ -6,7 +6,6 @@
 - `INS-260323-2D1D` Pythagoras's theorem has been unchanged for 2500 years while Newton's gravity was superseded by Einstein's — mathematical proof produces certainty that empirical science cannot.
 - `INS-260330-BA13` SHA256's security is empirical rather than proven — no one has found a way to reverse it, but there's no proof that it's impossible.
 - `INS-260325-76E6` Even on Mars, we can never fully prove the absence of life — there is always another rock to check, another canyon to explore, making proof of cosmic loneliness impossible.
-- `INS-260404-F366` Correcting a malicious streetlight looks like directional overclaiming, and correcting directional overclaiming looks like streetlighting — trapping good-faith actors.
 - `INS-260330-984C` Flat Earth theories are clever ad hoc explanations that address individual challenges but fail to fit all evidence into a unified framework.
 - `INS-260403-213D` Good-sounding writing and correct thinking are structurally coupled through rhythm matching idea shape and revision forcing truth-convergence.
 - `INS-260330-8FF8` The silicon sphere (atom-counting) and the Watt Balance (Planck's constant) provide independent checks on each other that neither could achieve alone.
@@ -29,6 +28,7 @@
 - `INS-260330-5263` The Euclidean geometry example shows that absolute certainty about 'only one line through two points' was false once you consider curved space — our feeling of certainty is always suspect.
 - `INS-260330-1E6A` Truth has three structural disadvantages against fiction: it's costly to produce, inherently complex, and sometimes painful to accept.
 - `INS-260330-6566` The difference between a dangerous fiction and a useful one is whether it includes mechanisms for self-correction, which requires honesty about its human origins.
+- `INS-260404-F366` Correcting a malicious streetlight looks like directional overclaiming, and correcting directional overclaiming looks like streetlighting — trapping good-faith actors.
 - `INS-260330-84C6` The gap between peak conscious experience and linguistic description is not a matter of degree but of kind — language is structurally incapable of encoding these states.
 - `INS-260330-AB5D` Meditation works by subtracting perceptual illusions rather than adding new capabilities.
 - `INS-260330-12DC` Some false beliefs reliably produce better outcomes than acting on the known truth, creating a legitimate category of 'metaphorical truth.'

@@ -1,6 +1,6 @@
 # Topic: consciousness
 
-> 94 insights
+> 95 insights
 
 - `INS-260327-CA82` [high] Complex strategic board games existed 4,000+ years ago in Mesopotamia, demonstrating sophisticated mathematical and strategic thinking thousands of years before formal game theory.
 - `INS-260327-1B60` [high] Trillion-dollar companies are built on capturing human attention - the most finite and valuable resource any person possesses.
@@ -62,6 +62,7 @@
 - `INS-260327-1313` [medium] Too much self-examination creates a hall of mirrors: the self watching the self watching the self, producing fragmentation rather than the clarity it promises.
 - `INS-260330-2294` [medium] The Library of Babel contains every possible 3200-character text — including your birth, death, and every joke — yet we intuitively feel none of it has been 'said' until a person means it.
 - `INS-260327-EDE4` [medium] In deep space, without familiar environmental cues like horizon, gravity, and day-night cycles, human perception begins to deconstruct, revealing how much of 'reality' depends on context.
+- `INS-260408-59B3` [medium] Hassabis: most neuroscientists think the brain is an approximate Turing machine; no quantum effects found yet, so AI's ceiling is empirically open.
 - `INS-260330-5F9E` [medium] What you see with open eyes and what you think with closed eyes appear in the same experiential space.
 - `INS-260327-DD48` [medium] Intelligence that emerged from embodied biological experience and intelligence that emerged from statistical text processing may be so different that calling both 'intelligence' is misleading.
 - `INS-260323-3C7F` [medium] Rosolie's real-time recognition of 'Am I entering a one-way door?' during the tribal encounter demonstrates how framing a situation's reversibility sharpens survival decisions.

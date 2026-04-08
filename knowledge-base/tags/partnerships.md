@@ -11,6 +11,6 @@
 - `INS-260403-9DA1` Destin's fluid dynamics knowledge combined with David's motion control engineering made a previously impossible recreation achievable.
 - `INS-260402-910C` Big launches and partnerships appeal to founders because they promise scale without the emotional labor of individual recruitment, but they almost never work.
 - `INS-260322-8D47` When customers become partners invested in your success as much as you are in theirs, they introduce you to VCs, build on your platform, and actively help your company grow.
+- `INS-260403-318A` Study who's buying in your space and engineer partnerships with them early — the best acquisitions grow out of product integrations, co-selling, and shared customers.
 - `INS-260329-79D3` Ramsey Solutions turns down advertisers that fail the 'would you send your sister there' test, even when the revenue is significant.
 - `INS-260403-2ED2` Democratic governance kills venture firm scaling because partners vote to preserve their own power during reorganizations.
-- `INS-260403-318A` Study who's buying in your space and engineer partnerships with them early — the best acquisitions grow out of product integrations, co-selling, and shared customers.

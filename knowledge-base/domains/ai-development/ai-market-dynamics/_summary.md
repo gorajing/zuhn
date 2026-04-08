@@ -1,6 +1,6 @@
 # Topic: ai-market-dynamics
 
-> 129 insights
+> 130 insights
 
 - `INS-260321-86F1` [high] China is stealing American AI models, removing all guardrails, and potentially deploying them against the US — creating an absurd scenario where America fights with one arm tied behind its back against its own technology.
 - `INS-260327-5690` [high] Traditional SaaS sells productivity enhancement to workers; vertical AI agents sell the work itself, accessing the entire cost of labor as TAM rather than just the software budget.
@@ -33,6 +33,7 @@
 - `INS-260323-13C0` [high] Organizations routinely assign their least technical person to 'train the AI' because they don't understand that this is actual data science work.
 - `INS-260403-E6F0` [high] Benchmark optimization produces models that score well on tests while serving rocks as hors d'oeuvres.
 - `INS-260323-01F9` [high] Iterative public deployment of imperfect models surfaces discoveries — both positive and negative — that internal testing cannot.
+- `INS-260408-A0F5` [high] Hassabis would have preferred CERN-like collaboration on AGI; ChatGPT going viral forced commercial pressure that changed the entire industry's pace.
 - `INS-260404-02C8` [high] OpenAI's $3.4B in ChatGPT subscription revenue demonstrates massive consumer demand for AI tools.
 - `INS-260403-957B` [high] Coding assistants are proving to be AI's first real business model with billions in projected revenue, marking the shift from hype to validated payoff.
 - `INS-260321-0CCD` [high] A portfolio founder assigned two AI-native engineers with unlimited budgets on Claude Code, Codex, and Cursor and saw 10-20x faster progress — concluding his entire product and engineering organization needs restructuring within 12 months.

@@ -11,5 +11,5 @@
 - `INS-260329-B583` If your partner measures success on different metrics than you measure yourself, you can never win.
 - `INS-260329-C689` Expecting failure as a cyclical phase prevents the emotional spiral that amplifies setbacks beyond their actual damage.
 - `INS-260403-DFBD` Expecting difficulty as the default state prevents the psychological fracture that occurs when optimistic leaders encounter inevitable friction.
-- `INS-260329-CE86` Success and failure look identical during the middle years — the only differentiator is who keeps going.
 - `INS-260405-3554` Founders misunderstand what VCs are optimized for, and VCs misunderstand how founders emotionally relate to their company — this mutual misreading creates predictable friction at board level.
+- `INS-260329-CE86` Success and failure look identical during the middle years — the only differentiator is who keeps going.

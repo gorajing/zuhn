@@ -12,5 +12,5 @@
 - `INS-260330-DE89` Destin's involuntary tap-out at 7.2G permanently changed his approach to confidence-humility balance in ways voluntary humility never had.
 - `INS-260403-1A05` Slight overconfidence armors you against both external skepticism and your own harsh self-judgment during early creative phases.
 - `INS-260403-387D` Slight overconfidence armors you against the dual headwinds of external dismissal and internal self-doubt.
-- `INS-260330-156C` After 9 years of evaluating YC founders, Graham found that swaggering confidence and quiet self-doubt predict outcomes equally poorly — the only way to know is to try.
 - `INS-260403-65C3` When 40 organizations self-assessed across nine innovation dimensions, each scored high on some and low on others — making peer exchange maximally valuable.
+- `INS-260330-156C` After 9 years of evaluating YC founders, Graham found that swaggering confidence and quiet self-doubt predict outcomes equally poorly — the only way to know is to try.

@@ -53,12 +53,11 @@ stance: >-
   — only demonstrated refurbishment speed and cost competitiveness will
   determine whether Blue Origin can challenge SpaceX's dominance in heavy-lift.
 related:
-  - INS-260330-633F
+  - INS-260408-88D9
   - INS-260403-599B
   - INS-260328-8445
   - INS-260403-8E25
   - INS-260403-EFAF
-  - INS-260325-0F4F
 ---
 Blue Origin's New Glenn booster recovery is genuinely significant — it makes Blue Origin only the second company to recover an orbital-class booster. But the milestone conflates engineering success with economic viability. The real test is refurbishment cycle time, cost per relaunch, and how many flights each booster can sustain before retirement.
 

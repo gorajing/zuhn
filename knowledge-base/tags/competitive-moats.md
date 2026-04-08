@@ -45,11 +45,11 @@
 - `INS-260404-277E` Startups bridging foodtech with other industries create defensibility through cross-vertical complexity.
 - `INS-260404-C501` Treat differentiation as a combinatorial selection from ~20 possible axes rather than finding one unique angle.
 - `INS-260403-204E` In vertical AI, the defensible position is owning the control point that facilitates the transaction, not just saving time on adjacent tasks.
-- `INS-260403-FCD7` YC's culture was its product, and the authentic family atmosphere created a competitive moat that traditional VC firms on Sand Hill Road could not replicate.
+- `INS-260404-1A18` Photosynthesis has been 'complicated, inefficient and confusing' for 450 million years yet dominates all life on Earth, demonstrating that first-mover lock-in can outlast any degree of technical debt.
 - `INS-260404-3C7A` Costco turns confusing layouts, limited selection, and upfront fees into deal-hunting excitement, supplier leverage, and customer loyalty respectively.
 - `INS-260403-F290` Plants built entire metabolic pathways to compensate for RuBisCo's flaws rather than replace it — a pattern that applies to startups managing legacy technical debt.
 - `INS-260403-6BD9` Costco turns its confusing warehouse layout, mandatory fee, and limited selection into advantages that competitors won't replicate because they look like problems.
 - `INS-260405-F20F` RuBisCo, an enzyme that makes catastrophic errors 50% of the time, remains the planet's dominant carbon-fixing enzyme because plants went all-in on it before oxygen made it dysfunctional.
 - `INS-260403-7E6A` North Korea skipped conventional military parity and went straight to nuclear weapons, showing how one overwhelming capability can substitute for broad competitiveness.
 - `INS-260404-8B1C` Costco turns warehouse aesthetics, confusing layouts, and limited selection into feelings of deal-hunting and exclusivity—making cost savings feel like customer features.
-- `INS-260404-1A18` Photosynthesis has been 'complicated, inefficient and confusing' for 450 million years yet dominates all life on Earth, demonstrating that first-mover lock-in can outlast any degree of technical debt.
+- `INS-260403-FCD7` YC's culture was its product, and the authentic family atmosphere created a competitive moat that traditional VC firms on Sand Hill Road could not replicate.

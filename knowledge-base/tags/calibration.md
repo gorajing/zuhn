@@ -1,7 +1,7 @@
 # Tag: calibration
 
-- `INS-260403-7EA1` An AI system ranked 4th out of nearly 500 human forecasters on Polymarket by using disciplined data sourcing and calibrated uncertainty.
 - `INS-260323-584D` Pre-RLHF models were well-calibrated on probabilities (80% meant 8/10 times), but human feedback training flattened this into the same vague probability language humans use.
+- `INS-260403-7EA1` An AI system ranked 4th out of nearly 500 human forecasters on Polymarket by using disciplined data sourcing and calibrated uncertainty.
 - `INS-260403-E5D4` Asking the AI to analyze the disconnect between your stated preferences and actual conversation patterns reveals configuration improvements you cannot anticipate upfront.
 - `INS-260330-6828` Byron Ferguson spine-tests every arrow to normalize stiffness before shooting — the calibration step matters more than the archer's technique.
 - `INS-260404-D122` Neuralink requires ~20-minute personalized calibration per user because neural firing patterns for identical intended movements vary significantly between individuals.

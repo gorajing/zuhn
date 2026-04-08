@@ -6,6 +6,7 @@
 - `INS-260403-D5BB` AI labor debates are confused because participants argue from different layers of a $31T labor market without a shared framework.
 - `INS-260320-B99F` Build careers where AI is a tailwind — semiconductors, human-centered professions, anything mixing physical world with analytical skills.
 - `INS-260320-DEAF` Coding is going away first — AI models handle raw coding now, but broader software engineering (architecture, design, user needs, team management) takes longer to automate.
+- `INS-260408-3691` Hassabis to students: 'immerse myself in every tool available and become almost like superpowered' — the gap is creative application, not technical skill.
 - `INS-260325-2069` The unemployed won't be biologists and chemists but biologists and chemists who don't use quantum computers -- the hammer doesn't replace the carpenter, it amplifies them.
 - `INS-260403-3E16` When everyone delegates to AI, human professional identity shifts from 'what I do' to 'what I delegate.'
 - `INS-260404-459B` Inverting startup culture's oddities reveals the 'normal' world as conservative, hierarchical, and slow — which Graham argues is actually a portrait of the past, not a permanent default.

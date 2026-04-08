@@ -1,6 +1,6 @@
 # Domain: ai-development
 
-> 1227 insights across 39 topics
+> 1239 insights across 39 topics
 
 ## Topics
 
@@ -11,9 +11,9 @@
 | agents | 4 | ReAct is an introduction to agent reasoning, not a complete architecture for production systems. |
 | ai-agents | 64 | AI agents' biggest value is eliminating the friction between idea and implementation, not writing code faster. |
 | ai-automation | 29 | Improving multi-agent systems requires observability into inter-agent conversations -- GPTers built a dashboard to view session-send exchanges between agents to understand how to improve their collaboration. |
-| ai-capabilities | 121 | Superintelligent AI access will be the defining resource of the future, more valuable than energy, capital, or territory. |
-| ai-market-dynamics | 129 | China is stealing American AI models, removing all guardrails, and potentially deploying them against the US — creating an absurd scenario where America fights with one arm tied behind its back against its own technology. |
-| alignment | 72 | Accidental misalignment in automated workflows is more dangerous than deliberate misuse because it cascades silently at scale. |
+| ai-capabilities | 127 | Superintelligent AI access will be the defining resource of the future, more valuable than energy, capital, or territory. |
+| ai-market-dynamics | 130 | China is stealing American AI models, removing all guardrails, and potentially deploying them against the US — creating an absurd scenario where America fights with one arm tied behind its back against its own technology. |
+| alignment | 73 | Accidental misalignment in automated workflows is more dangerous than deliberate misuse because it cascades silently at scale. |
 | applications | 5 | An AI system routing 2,000 medical devices across 50 hospital locations cut nursing retrieval travel by 50% — staff only noticed they were happier. |
 | architecture | 18 | Libraries are reusable because they are language, not because they are object-oriented. |
 | automation | 11 | AI removes pressure to develop mid-tier skills, leaving only the highly capable and the completely incapable. |
@@ -21,7 +21,7 @@
 | economics | 2 | AI's variable inference costs prevent it from achieving the gross margins that made software companies so valuable. |
 | embeddings | 7 | Different basis choices make different operations trivial or impossible in vector spaces. |
 | foundation-models | 2 | Meta's TRIBE v2 predicts fMRI brain responses from video, audio, and language—enabling researchers to screen hypotheses in software before spending scarce scanner time on physical experiments. |
-| future-of-work | 76 | Tens of millions learning Python through free YouTube tutorials represent a workforce transformation happening outside traditional education. |
+| future-of-work | 77 | Tens of millions learning Python through free YouTube tutorials represent a workforce transformation happening outside traditional education. |
 | governance | 2 | Self-governance of generative AI by individual firms is insufficient; coordinated institutional frameworks are required for responsible deployment at scale. |
 | hardware | 1 | AI hardware devices are flopping because the differentiated value in AI lives in software, not physical form factors. |
 | human-ai-relationship | 66 | When AI outperforms humans, human-AI synergy is g = -0.54; when humans outperform AI, synergy is g = +0.46. |
@@ -40,7 +40,7 @@
 | product-strategy | 83 | MIT found 95% of genAI pilots yield zero P&L impact because enterprise AI tools become static science projects that never adapt to real workflows. |
 | productivity | 2 | Focused, short demos change AI behavior faster than comprehensive theoretical treatments. |
 | prompting | 1 | Prompt engineering has an accumulating body of research-backed techniques that reward systematic study over ad-hoc experimentation. |
-| research-methodology | 1 | LLM grokking, like penicillin, was discovered by accident—and this accidental-discovery pattern is more characteristic of deep learning progress than theory-driven research. |
+| research-methodology | 4 | LLM grokking, like penicillin, was discovered by accident—and this accidental-discovery pattern is more characteristic of deep learning progress than theory-driven research. |
 | system-building | 183 | Abstract data types define behavior contracts while data structures provide specific implementations, and this separation is the root of all software modularity. |
 | system-design | 6 | Photosynthesis converts sunlight into ATP and NADPH as intermediate currencies, then spends those currencies in the Calvin Cycle—never coupling capture and use directly. |
 | systems-design | 1 | Components tuned for original conditions do not just underperform in new environments — they generate actively harmful outputs. |

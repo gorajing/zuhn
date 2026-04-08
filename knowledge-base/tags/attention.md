@@ -3,12 +3,12 @@
 - `INS-260325-5B28` Kimi's attention residuals let transformer layers selectively choose what to optimize from prior layers.
 - `INS-260325-123C` There is no catching up on sleep; consistent sleep hygiene is the most powerful attention intervention.
 - `INS-260403-D467` Self-selected time-wasters survive precisely because they're expert at defeating your own defenses.
-- `INS-260403-5CA6` Have one person talk while another operates the computer — splitting both roles causes you to mumble at your screen and lose the audience.
 - `INS-260403-D16C` Physical clutter taxes cognition by forcing continuous environmental parsing.
 - `INS-260330-0C49` Even after learning the backwards bicycle, any small distraction like a phone ringing would instantly crash Destin back to the old steering algorithm.
 - `INS-260330-3C2F` Direct observation reveals that thinking is punctuated by gaps of pure awareness, challenging the assumption that cognition is a continuous stream.
 - `INS-260330-6E6A` A detectable time gap exists between a thought appearing and the mind claiming ownership of it, and meditation exploits this gap.
 - `INS-260329-A45D` 'But' acts as an attention redirector — everything after it is amplified, everything before it is diminished.
+- `INS-260403-5CA6` Have one person talk while another operates the computer — splitting both roles causes you to mumble at your screen and lose the audience.
 - `INS-260405-B8BE` Sounds, sensations, and thoughts arise in consciousness automatically — only the act of selecting and holding an object of attention requires cognitive effort.
 - `INS-260405-E6F5` Observation is itself a mode of disengagement — watching a thought changes the observer's relationship to it, accelerating its passing.
 - `INS-260405-0184` Growing audiences for 2-4 hour deep-dive content disprove the shrinking attention span narrative — people crave depth when the content rewards sustained focus.

@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-07 | 4444 actionable insights
+Generated on 2026-04-08 | 4451 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -123,6 +123,9 @@ Generated on 2026-04-07 | 4444 actionable insights
 - [INS-260403-5F69] Rising benchmark scores mask the gap between test performance and messy real-world reliability.
 - [INS-260403-F0DC] Bio Anchors had many anchors and parameters but its output was almost entirely determined by the algorithmic progress rate, which was its least-researched input.
 - [INS-260405-0327] Benedict Evans' Q1 2024 framing captures a market where most enterprises are still in the 'looking for use-cases' phase, not the 'scaling deployments' phase — suggesting the real AI ROI wave is still ahead.
+- [INS-260408-B5EC] AlphaZero learns chess from random to better-than-world-champion in 16-17 self-play generations, no human data required.
+- [INS-260408-5BE5] Root node problems are the leaves whose solution unlocks an entire research tree — AlphaFold was one, fusion and room-temperature superconductors are next.
+- [INS-260408-F20F] Hassabis says even frontier labs can only explore a fraction of what their models enable, and the gap is widening as release schedules accelerate.
 
 ## ai-development/ai-market-dynamics
 - [INS-260321-7C97] Software that makes you similar to everyone else (beta) will be replaced by AI/vibe-coding; software that expresses your competitive advantage (alpha) becomes more valuable.
@@ -254,6 +257,7 @@ Generated on 2026-04-07 | 4444 actionable insights
 - [INS-260404-B81C] Career planning requires hedging across multiple fields rather than betting on a single professional track.
 - [INS-260403-A2E9] As AI collapses implementation costs, the human role shifts from engine to editor-in-chief — the scarce skill becomes deciding what to build and evaluating quality, not writing code.
 - [INS-260403-DED4] The economics of software will shift from 'AI writes, humans review' to fully autonomous AI development as quality improvements make human oversight cost-prohibitive.
+- [INS-260408-3691] Hassabis to students: 'immerse myself in every tool available and become almost like superpowered' — the gap is creative application, not technical skill.
 
 ## ai-development/human-ai-relationship
 - [INS-260322-2B2D] Learning English to high fluency gives access to global opportunity systems, breaking dependence on any single country's constrained job market.
@@ -420,6 +424,11 @@ Generated on 2026-04-07 | 4444 actionable insights
 
 ## ai-development/prompting
 - [INS-260405-880C] Prompt engineering has an accumulating body of research-backed techniques that reward systematic study over ad-hoc experimentation.
+
+## ai-development/research-methodology
+- [INS-260408-F58E] Isomorphic's pipeline screens binding + cross-target toxicity in silico, then only validates the final candidates in the wet lab.
+- [INS-260408-76F4] Hassabis decided in a single meeting to fold all 200M proteins and release them free, because it took less effort than building the request server.
+- [INS-260408-C572] Foundation models are world models without the search/reasoning layer AlphaZero had; combining them is the next breakthrough, not bigger pretraining.
 
 ## ai-development/system-building
 - [INS-260320-4A82] Commit output specs to git so future agents and engineers see what was done, what failed, and what decisions were made.

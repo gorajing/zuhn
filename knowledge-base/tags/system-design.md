@@ -39,13 +39,13 @@
 - `INS-260404-C7A1` Making everything an expression rather than mixing expressions with statements enables arbitrary composition — a multiplicative increase in what you can express.
 - `INS-260403-5137` An 81.7% overturn rate on prior authorization denials means the system functions as a friction filter rather than a genuine decision-making process.
 - `INS-260330-A260` JavaScript handles concurrency on a single thread by using an event loop to schedule callbacks, proving parallelism isn't required for concurrent I/O.
-- `INS-260329-DFDB` Layering simple, well-understood components produces more robust complex systems than designing bespoke monolithic solutions.
 - `INS-260330-881A` The Julian calendar drifted only 10 days in 1,500+ years, yet that imperceptible annual error eventually forced Pope Gregory to delete 10 days from October 1582.
+- `INS-260329-DFDB` Layering simple, well-understood components produces more robust complex systems than designing bespoke monolithic solutions.
 - `INS-260403-A9F3` Gerrymandering 6,641 tiny districts is computationally harder and more fragile than gerrymandering 435 large ones, and buying 0.02% of Congress per seat is less attractive than buying 0.23%.
 - `INS-260403-11F9` The 'data moat' is largely a fallacy—architectural feedback loops that compound over time are what actually create defensibility.
 - `INS-260402-B743` Copying a competitor's growth loop features without understanding the underlying system mechanics and timing conditions produces poor results.
-- `INS-260404-95D0` The email system's fundamental vulnerability is that sending messages has no consequences for the sender.
 - `INS-260329-4696` Batching operations increases total system throughput by amortizing overhead, but each individual request waits longer — you cannot optimize both simultaneously.
-- `INS-260330-8718` Neurons are amitotic and irreplaceable once specialized, making them the nervous system's critical vulnerability despite being its most valuable component.
+- `INS-260404-95D0` The email system's fundamental vulnerability is that sending messages has no consequences for the sender.
 - `INS-260403-0B14` Parental drive to advantage children is so powerful that only structural solutions (smaller organizations, market measurement) work—rule-based patches always get circumvented.
 - `INS-260330-2C71` Photosynthesis uses a 4-complex electron transport chain with intermediate carriers (ATP, NADPH) rather than directly converting sunlight to glucose, enabling independent optimization of each stage.
+- `INS-260330-8718` Neurons are amitotic and irreplaceable once specialized, making them the nervous system's critical vulnerability despite being its most valuable component.

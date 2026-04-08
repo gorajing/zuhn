@@ -1,6 +1,6 @@
 # Topic: ai-capabilities
 
-> 121 insights
+> 127 insights
 
 - `INS-260321-E4EB` [very_high] AI made idea generation almost free, just as the internet made communication almost free — the bottleneck shifted to verification, evaluation, and filtering signal from noise.
 - `INS-260321-7D7C` [very_high] AI's superpower is breadth (trying every technique on every problem simultaneously), humans' is depth (cumulative progress from partial understanding). Science must restructure to exploit both.
@@ -28,6 +28,8 @@
 - `INS-260403-219F` [high] AI eliminates the burden-of-knowledge bottleneck by instantly connecting ideas across disciplines that human scientists have no time to learn.
 - `INS-260403-1EFF` [high] Bio Anchors estimated 30% yearly algorithmic progress from easy-task benchmarks, but frontier AI saw 200% yearly gains because harder tasks have more room for improvement.
 - `INS-260323-3920` [high] Every sentence in every language forms a tree structure where each word connects to exactly one other word, and languages evolve to minimize the distance between connected words.
+- `INS-260408-306A` [high] AlphaFold predicts protein 3D structure in seconds where wet lab took years and hundreds of thousands of dollars per protein.
+- `INS-260408-B5EC` [high] AlphaZero learns chess from random to better-than-world-champion in 16-17 self-play generations, no human data required.
 - `INS-260321-8433` [high] Karpathy's auto-research loop found hyperparameter improvements overnight that his two decades of ML experience missed — the agent found weight decay and Adam beta issues that interact jointly.
 - `INS-260325-D392` [high] PolarQuant converts Cartesian vectors to polar coordinates, revealing that angle distributions are naturally concentrated — making compression trivial without the normalization overhead traditional methods require.
 - `INS-260403-976C` [high] Current AI capabilities represent a fraction of what near-future compute investments will enable, creating an accelerating intelligence divergence.
@@ -44,6 +46,7 @@
 - `INS-260325-E23D` [high] Neo4j CTO argues graphs are the missing AI infrastructure — real-world data is relationships and paths, not tables.
 - `INS-260323-C10D` [high] LLM hallucination and creativity are the same mechanism — engineers call it hallucination when it produces errors, and creativity when it generates novel useful ideas.
 - `INS-260323-8D12` [high] Hallucinations stem from how LLMs break information into tokens and reconstruct probable relationships — this is a fundamental design flaw, not a bug to be patched.
+- `INS-260408-5BE5` [high] Root node problems are the leaves whose solution unlocks an entire research tree — AlphaFold was one, fusion and room-temperature superconductors are next.
 - `INS-260323-8AEC` [high] Reinforcement learning with verifiable rewards plus inference-time compute scaling is what enabled models to use tools, write code agentically, and perform multi-step reasoning.
 - `INS-260403-107E` [high] Japanese manufacturers hold 70% of global industrial robot market share because high-reliability components require decades of accumulated tacit manufacturing knowledge that cannot be shortcut.
 - `INS-260321-52EF` [high] Software was scarce and expensive — AI making it cheaper unlocks massive latent demand (Jevons paradox). Like ATMs creating more bank branches and more tellers, not fewer.
@@ -53,6 +56,7 @@
 - `INS-260323-2C19` [high] A leading psycholinguist confirms that LLMs have mastered the form (syntax, grammar, patterns) of language but not its meaning — and the gap between form and meaning may be much larger than assumed.
 - `INS-260323-D18D` [high] LLMs training on AI-generated content creates a downward spiral of quality degradation that nobody is actively addressing.
 - `INS-260321-80A9` [high] Models simultaneously feel like a brilliant PhD and a 10-year-old — they're superhuman in RL-trained domains and mediocre outside them. This jaggedness doesn't improve with scale.
+- `INS-260408-F3F0` [high] Deep Blue couldn't play tic-tac-toe; AlphaGo's move 37 revealed a system that generates knowledge its training data didn't contain.
 - `INS-260403-AC01` [high] Multi-layered optimization produces emergent capabilities irreducible to any single layer's objective.
 - `INS-260330-5F36` [high] Replacing C++ heuristics with neural nets that directly output vectors instead of a 'giant bag of points' is the key architectural evolution.
 - `INS-260403-141E` [high] Next-token prediction shapes AI systems the way evolution shapes humans — it's the training process, not the resulting cognition.
@@ -72,6 +76,7 @@
 - `INS-260325-6FA7` [high] Symbolic AI's failure at real-world tasks demonstrates that explicit rule-based reasoning hits a complexity ceiling.
 - `INS-260330-264B` [high] Temperature in LLM sampling controls the predictability-creativity tradeoff, with zero producing derivative text and high values risking incoherence.
 - `INS-260323-4D13` [high] Zuckerberg identifies the scaling question as the single highest-stakes bet in AI: Llama training went from 10-20K GPUs to 100K+ GPUs, with hundreds of billions in infrastructure riding on continued returns.
+- `INS-260408-F20F` [high] Hassabis says even frontier labs can only explore a fraction of what their models enable, and the gap is widening as release schedules accelerate.
 - `INS-260321-AE3F` [high] Most AI-solved math problems fell to known techniques that nobody had thought to apply — the 'deductive overhang' of existing knowledge applied systematically to all open problems could be enormous.
 - `INS-260323-4D14` [high] Jensen Huang argues the last decade was about the science of AI; the next decade will be about applying AI to biology, climate, agriculture, robotics, logistics, and every other domain.
 - `INS-260325-EF79` [high] Nvidia's Jim Fan: the next AI frontier is the physical Turing test — proving competence in real-world tasks, not just conversation.
@@ -94,6 +99,7 @@
 - `INS-260403-6632` [medium] Google DeepMind's model generated a novel cancer immunotherapy hypothesis that was experimentally validated, marking AI's shift from analysis to discovery.
 - `INS-260328-0DFE` [medium] Altman describes AI's trajectory as: today a mediocre chatbot, next a world-class chief of staff, then a company of 50 experts, then 10,000 experts per person.
 - `INS-260322-59B9` [medium] The total percentage of jobs automated matters less than whether displacement happens gradually (manageable) or in a 6-month shock (potentially destabilizing).
+- `INS-260408-8F0A` [medium] AlphaGenome predicts whether single-letter genome mutations are harmful or benign in the 98% non-coding region CRISPR can target but doctors can't yet interpret.
 - `INS-260327-9DB0` [medium] Assembly Theory can determine if an object was built by evolution by measuring its complexity (minimum assembly steps) and abundance (number of copies) - applicable to any substrate, not just biology.
 - `INS-260327-1563` [medium] Attention Residue applies attention across the depth dimension rather than just temporal context, achieving 24% token efficiency improvement over standard residual connections.
 - `INS-260322-B33E` [medium] AI reasoning capabilities plus robot learning are converging to create autonomous labs that accelerate scientific discovery across life sciences, chemistry, and materials.

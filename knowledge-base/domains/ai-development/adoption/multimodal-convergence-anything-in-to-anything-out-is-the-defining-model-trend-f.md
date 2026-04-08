@@ -48,12 +48,13 @@ resolutions:
     opinionated interfaces on top of these expanding capabilities).
 related:
   - INS-260403-9774
+  - INS-260408-C572
   - INS-260402-142F
   - INS-260321-CCD9
   - INS-260323-2AE2
-  - INS-260403-58DA
   - INS-260323-4D63
   - INS-260320-105E
+  - INS-260403-58DA
 stance: >-
   Labs are merging previously separate text, image, and video capabilities into
   unified models that accept any input modality and produce any output

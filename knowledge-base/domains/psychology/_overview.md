@@ -1,16 +1,16 @@
 # Domain: psychology
 
-> 2129 insights across 24 topics
+> 2131 insights across 24 topics
 
 ## Topics
 
 | Topic | Insights | Preview |
 | ----- | -------- | ------- |
 | behavior-change | 29 | Rules-based approaches to distraction fail because the addictive part of your brain finds plausible exceptions; adversarial design works better. |
-| cognition | 88 | Flat Earth theories are clever ad hoc explanations that address individual challenges but fail to fit all evidence into a unified framework. |
+| cognition | 89 | Flat Earth theories are clever ad hoc explanations that address individual challenges but fail to fit all evidence into a unified framework. |
 | cognitive-biases | 313 | Over 85% of near-Earth asteroids are found in the 45-degree band opposite the sun because asteroids approaching from the sun's direction are invisible to ground telescopes — no amount of better ground telescopes fixes this. |
 | communication | 49 | Craft one 'the X of Y' phrase that sticks — professional investors hear so many pitches they blur, and the first filter is simply being remembered. |
-| consciousness | 94 | Johnson's framework reframes psychiatric disorders as varieties of stuck-ness — narrowed loops of thought and behavior — that psychedelics disrupt by forcing the brain into novel configurations. |
+| consciousness | 95 | Johnson's framework reframes psychiatric disorders as varieties of stuck-ness — narrowed loops of thought and behavior — that psychedelics disrupt by forcing the brain into novel configurations. |
 | decision-making | 119 | Admitting you're bad at something is the first step to finding effective workarounds like delegation or systematic search. |
 | epistemics | 7 | Feed algorithms don't just show different opinions — they construct different facts for different population clusters. |
 | expertise | 71 | Having an audience prevents the natural tendency to stop thinking at exactly the point where deeper exploration would be most valuable. |

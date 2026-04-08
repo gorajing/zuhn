@@ -54,7 +54,6 @@ stance: >-
   dysregulation, not from peripheral metabolic problems that secondarily affect
   the brain
 related:
-  - INS-260325-1D95
   - INS-260326-16A8
   - INS-260330-45D9
   - INS-260330-989E

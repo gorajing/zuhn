@@ -1,14 +1,14 @@
 # Tag: abstraction
 
-- `INS-260330-6BBD` Forcing a neural net to compress vastly more data than it can memorize pushes it to discover higher-level algorithmic representations.
 - `INS-260402-06DB` Patterns in code signal you're hand-compiling abstractions your language should provide natively.
 - `INS-260404-5440` Fortran's expression/statement distinction existed because of punch cards, but persisted in languages long after that constraint vanished.
 - `INS-260405-DAC9` C endures because it is simultaneously high-level enough for developers and low-level enough for hardware — no replacement can match both simultaneously.
 - `INS-260402-0DC9` Languages survive long-term by minimizing their core axiom set, not by adding special-case features.
 - `INS-260402-2879` Define program meaning independently of implementation, then layer optimization advice on top.
+- `INS-260330-6BBD` Forcing a neural net to compress vastly more data than it can memorize pushes it to discover higher-level algorithmic representations.
 - `INS-260329-C555` 40+ years of research into natural language processing hasn't closed the gap that a few weeks of Python education can bridge from the human side.
-- `INS-260330-BF2A` Eigenvectors — vectors unchanged in direction by a transformation — exemplify the general strategy of finding invariants to understand complex systems.
 - `INS-260330-D3F5` LLM complexity comes from massive repetition of a few simple matrix operations, not from architectural diversity.
+- `INS-260330-BF2A` Eigenvectors — vectors unchanged in direction by a transformation — exemplify the general strategy of finding invariants to understand complex systems.
 - `INS-260330-E5F7` Languages succeed by occupying unique positions on the abstraction-vs-control spectrum, and shifts happen when new languages find gaps in that curve.
 - `INS-260330-AB62` Declarative UI frameworks won adoption by making UI a function of state, eliminating manual DOM synchronization bugs rather than improving raw performance.
 - `INS-260404-B1BC` Lisp's nine radical ideas from 1958 gradually became standard features in mainstream languages, proving theoretical purity wins over time.
@@ -69,20 +69,20 @@
 - `INS-260329-04A5` Indeterminate forms like 0/0 force you to factor, conjugate-multiply, or otherwise restructure an expression before the limit becomes computable.
 - `INS-260330-2689` The mathematician defines a vector by what you can do with it (add, scale), not by what it is — this yields maximum generality.
 - `INS-260402-2C6B` Everyday words work fine in normal use but produce meaningless disputes when pushed into abstract territory, because they lack precise definitions.
+- `INS-260330-AE9C` Abstract proofs and concrete examples serve complementary roles: proofs guarantee generality, examples build understanding.
+- `INS-260325-D037` Einstein's equations predicted things Einstein himself did not expect — formal systems consistently outrun their creators' intentions.
+- `INS-260330-6E61` String theory proposes that all subatomic particles — quarks, neutrinos, electrons — are simply different vibrational modes of tiny strings, replacing thousands of seemingly unrelated particles with one elegant mechanism.
 - `INS-260329-19B3` OOP's power comes from matching human cognitive patterns of categorization rather than from computational efficiency.
 - `INS-260329-DFDB` Layering simple, well-understood components produces more robust complex systems than designing bespoke monolithic solutions.
 - `INS-260330-649B` Saying 'if this sphere were Earth, mountains would be 14m tall' makes nanometer-scale precision viscerally understandable in a way raw numbers cannot.
 - `INS-260329-B22B` The surrogate vs. natural key choice embodies a universal trade-off between meaningful identifiers and stable abstractions.
 - `INS-260329-0F06` Abstract data types define behavior contracts while data structures provide specific implementations, and this separation principle applies far beyond programming.
-- `INS-260330-AE9C` Abstract proofs and concrete examples serve complementary roles: proofs guarantee generality, examples build understanding.
-- `INS-260325-D037` Einstein's equations predicted things Einstein himself did not expect — formal systems consistently outrun their creators' intentions.
-- `INS-260330-6E61` String theory proposes that all subatomic particles — quarks, neutrinos, electrons — are simply different vibrational modes of tiny strings, replacing thousands of seemingly unrelated particles with one elegant mechanism.
 - `INS-260404-6586` AI wrapper startups are winning by packaging complex AI capabilities into simple, domain-specific products that non-technical users can adopt immediately.
 - `INS-260403-F835` Counting AST elements measures the conceptual load a programmer must hold in their head, unlike lines or characters.
 - `INS-260404-673B` When language and program evolve together, the architecture naturally aligns with the problem's real structure.
 - `INS-260403-F9F0` When a language feels restrictive, it's mostly because it forces longer expression of ideas you can conceive more compactly.
 - `INS-260402-BA91` Instead of asking 'what are the most general truths?' ask 'of all useful things we can say, which are the most general?' — using applicability as a compass to avoid getting lost in abstraction.
-- `INS-260404-E8B2` Fewer components means fewer connections between them, and connection-count is where bugs actually live.
 - `INS-260330-7106` Suppressors work by first capturing gases in an expansion chamber, then restricting their outflow — a two-stage pattern that maps to error handling, customer support escalation, and content moderation.
-- `INS-260330-4A16` Culture is the set of invariants you maintain as you get involved in exponentially fewer decisions over time.
+- `INS-260404-E8B2` Fewer components means fewer connections between them, and connection-count is where bugs actually live.
 - `INS-260323-1302` Dirac couldn't solve his simultaneous equations with 2x2 matrices — the smallest matrices where multiplication order matters — until he had the insight to expand to 4x4 matrices, which instantly provided all four solutions.
+- `INS-260330-4A16` Culture is the set of invariants you maintain as you get involved in exponentially fewer decisions over time.

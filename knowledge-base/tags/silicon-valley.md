@@ -11,8 +11,6 @@
 - `INS-260405-F06C` Dismissing new ideas is not human nature — it's a cultural habit that formed when innovation happened too slowly to develop better customs, and it can change.
 - `INS-260403-D417` Surrounding yourself with people who can distinguish ugly ducklings from bad ideas is critical for ambitious work.
 - `INS-260404-5882` Silicon Valley's tech saturation means the person at the next table likely knows your stakeholders and could help you — creating ambient serendipity impossible to engineer remotely.
-- `INS-260405-4EAA` Silicon Valley's tolerance for weird ideas is a cultivated social custom that spread because it reliably produced better outcomes — not because its inhabitants are smarter or kinder.
-- `INS-260322-8F3F` Tight-knit groups of early employees at breakout companies go on to found and lead the next generation of billion-dollar companies, creating collaborative networks that compound over decades.
 - `INS-260403-7471` Startups fail by default everywhere — hubs succeed by providing enough positive interventions to counteract the natural death rate.
 - `INS-260403-8BBB` People dismiss ambitious ideas partly because they unconsciously hope you'll fail, since your success would threaten their relative status.
 - `INS-260404-9E63` Switch from listing reasons an idea won't work to imagining ways it could — especially in domains with power-law outcome distributions.
@@ -27,6 +25,8 @@
 - `INS-260403-EEE5` Evaluate new ideas by trying to imagine how they could work, not by listing reasons they won't.
 - `INS-260404-AC7C` Evaluating new ideas by imagining how they could work rather than why they won't is a trainable skill with outsized returns.
 - `INS-260402-6BB6` Startup ecosystems are constrained by angel investor presence because angels fund the pre-VC risk that makes later rounds possible.
+- `INS-260405-4EAA` Silicon Valley's tolerance for weird ideas is a cultivated social custom that spread because it reliably produced better outcomes — not because its inhabitants are smarter or kinder.
+- `INS-260322-8F3F` Tight-knit groups of early employees at breakout companies go on to found and lead the next generation of billion-dollar companies, creating collaborative networks that compound over decades.
 - `INS-260403-20B1` Startup hub quality exists on a spectrum where each step up in hub density yields compounding benefits.
 - `INS-260405-B4D2` Silicon Valley is rehabilitating micromanagement as a tool founders should embrace rather than avoid.
 - `INS-260405-339F` Idea-friendly cultures are not values-based — they're incentive-selected, which means they're replicable wherever the incentives align.

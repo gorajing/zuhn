@@ -5,6 +5,7 @@
 - `INS-260329-D2CA` Types catch structural errors and tests catch behavioral errors — skipping either leaves an entire category of bugs invisible.
 - `INS-260327-DC0B` AI can synthesize across four Ikigai dimensions (passion, prowess, purpose, profit) to generate personalized career paths with specific waypoints, transforming a vague self-reflection exercise into an actionable planning tool.
 - `INS-260329-92C3` Dr. Chuck's progression from variables through databases to web APIs teaches data-structural thinking — a meta-skill that makes AI coding assistants dramatically more useful because you can specify what you want in terms machines understand.
+- `INS-260408-3691` Hassabis to students: 'immerse myself in every tool available and become almost like superpowered' — the gap is creative application, not technical skill.
 - `INS-260323-64A4` Some people use AI to avoid thinking; others use it to think more deeply than ever before — the tool amplifies whatever intent you bring to it.
 - `INS-260329-808C` Telling AI 'I run a dental practice and patients need to book appointments and fill intake forms' outperforms 'build me a booking app with forms and reminders.'
 - `INS-260330-4AD5` AI improves its usability faster than you can learn tricks, so just speak naturally and let the models catch up to you.
@@ -21,11 +22,11 @@
 - `INS-260403-D6C2` No-code platforms and AI tools let non-technical founders go from idea to testable prototype in days, shifting the bottleneck from engineering capacity to hypothesis clarity.
 - `INS-260403-78AD` Solo founders now start over a third of new startups as AI tools replace functions that previously required full teams.
 - `INS-260328-B57E` Do not be discouraged by others' growth, but do not accept slow growth either — better tools mean you should be going faster than before.
+- `INS-260404-3CBE` Consolidating fundraising into a single AI-augmented platform creates compounding advantages over fragmented tool stacks.
 - `INS-260329-4DBC` Claude Code and similar tools make it so easy to build plausible prototypes that founders lose conviction faster and cycle through ideas without depth.
 - `INS-260326-291C` AI should amplify founder cognition, not replace it — delegating the hard thinking prevents developing the judgment that separates successful founders from feature-shippers.
-- `INS-260404-3CBE` Consolidating fundraising into a single AI-augmented platform creates compounding advantages over fragmented tool stacks.
-- `INS-260403-4365` Carta data shows solo founders hit 35% of the 2024 class, with soonicorns like BuiltWith ($14M/year, 1 employee) proving the one-person unicorn is approaching reality.
 - `INS-260403-2B09` AI and no-code platforms have collapsed the cost of startup operations so dramatically that most software startups no longer need venture-scale capital.
 - `INS-260404-1CC0` As building barriers collapse, competitive moats migrate from technical capability to distribution and taste.
 - `INS-260329-F7F4` When a functional prototype costs 15 minutes instead of 3 months, validation shifts from optional luxury to mandatory first step.
 - `INS-260403-49D1` AI prototyping success depends more on precise follow-up prompts describing exact changes than on the quality of the initial generation prompt.
+- `INS-260403-4365` Carta data shows solo founders hit 35% of the 2024 class, with soonicorns like BuiltWith ($14M/year, 1 employee) proving the one-person unicorn is approaching reality.

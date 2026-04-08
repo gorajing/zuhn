@@ -54,10 +54,10 @@ stance: >-
   effort across decades
 related:
   - PRI-260406-229E
+  - INS-260408-88D9
   - INS-260325-D624
   - INS-260330-03F7
   - INS-260330-FEDD
-  - INS-260405-9E7D
 evidence:
   - id: INS-260325-D624
     type: SUPPORTS

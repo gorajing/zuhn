@@ -50,10 +50,10 @@ resolutions:
 related:
   - INS-260325-F21D
   - PRI-260323-D475
+  - INS-260408-59B3
   - INS-260327-A4FE
   - INS-260323-8289
   - INS-260325-33DA
-  - PRI-260323-1187
   - INS-260404-1E65
 stance: >-
   Across multiple quantum consciousness frameworks, the brain consistently

@@ -1,6 +1,6 @@
 # Topic: space-economy
 
-> 30 insights
+> 31 insights
 
 - `INS-260325-415A` [high] Detecting an alien signal would statistically prove that technological civilizations can have long futures, because the math of detection requires that such technologies are long-lived on cosmic timescales.
 - `INS-260322-7A2F` [high] Artemis builds permanent lunar presence through deliberate phased deployment — unmanned test, crewed orbit, first landing, rover, habitable vehicle, base camp — each phase de-risking the next.
@@ -31,4 +31,5 @@
 - `INS-260325-4996` [medium] The Drake equation only multiplies narrowing filters, but the real calculation should also add up alternative paths to life that use different chemistry.
 - `INS-260403-CAE5` [medium] On-orbit satellite servicing — extending satellite life, repositioning, and deorbiting — will transform space economics the same way gas stations and highway maintenance transformed automotive economics.
 - `INS-260325-5ACA` [medium] The Venus phosphine discovery illustrates that detecting alien life will be forensic, not definitive — unexplained chemistry is a clue, not a conclusion.
+- `INS-260408-88D9` [low] Hassabis: cheap fusion + seawater desalination = infinite rocket fuel = real space economy with asteroid mining and Dyson sphere construction within 50 years.
 - `INS-260325-1709` [low] Phosphine detected in Venus's atmosphere cannot be explained by known chemistry, potentially indicating life in an environment previously considered impossible.

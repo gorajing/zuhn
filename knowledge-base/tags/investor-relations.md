@@ -3,7 +3,6 @@
 - `INS-260330-A954` When an investor says 'I want to invest but I don't lead,' translate to 'No, except yes if you become a hot deal.'
 - `INS-260330-64E1` Even solo founders should put standard 4-year vesting on their shares to set cultural precedent and satisfy investor expectations.
 - `INS-260327-5B30` Check with your investors before assuming they want you to keep grinding on a failing idea.
-- `INS-260325-3E9F` Xiaoyin Qu (2 exits, ex-Facebook PM): traction flips the fundraising power dynamic from begging for money to investors begging you to take theirs.
 - `INS-260405-94A1` Match your pitch deck's emphasis to investor decision criteria at your specific funding stage.
 - `INS-260405-5C48` Having live IRR numbers before every investor call signals operational discipline and closes the trust gap faster than almost any other preparation.
 - `INS-260403-05F2` Preparing 2-3 smart questions about the VC's involvement style and portfolio support is the easiest way to differentiate yourself from other founders.
@@ -37,6 +36,7 @@
 - `INS-260403-0CBA` Combine 2-3 valuation methods to present a defensible range rather than a single number.
 - `INS-260405-5B4D` Investors asking 'what will you do with the money?' are really asking whether you understand your own business's leverage points.
 - `INS-260403-CF92` VCs optimize for low-friction decision-making when triaging meeting requests, rewarding founders who package themselves for fast yes/no evaluation.
+- `INS-260325-3E9F` Xiaoyin Qu (2 exits, ex-Facebook PM): traction flips the fundraising power dynamic from begging for money to investors begging you to take theirs.
 - `INS-260403-D36D` Whoever holds organizational power imposes their schedule type on everyone else, usually at makers' expense.
 - `INS-260405-CB93` A good pitch deck should simultaneously repel misfit investors and excite the right ones.
 - `INS-260403-6CB4` Use of Funds and valuation should be live outputs that update automatically as the operating plan changes, not hand-crafted presentation slides.

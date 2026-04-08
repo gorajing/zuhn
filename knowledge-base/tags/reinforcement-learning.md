@@ -6,6 +6,7 @@
 - `INS-260327-EDF0` Training agent swarms requires three reward functions -- instantiation, finish, and outcome -- to prevent agents from defaulting to serial single-agent behavior.
 - `INS-260328-C246` Hassabis argues AGI will combine LLMs as world models with AlphaZero-like planning/search mechanisms on top.
 - `INS-260325-8065` AlphaProof solved 3 of 5 non-geometry IMO 2024 problems including P6 (solved by only 5 of 609 humans) through RL-guided formal proof search.
+- `INS-260408-B5EC` AlphaZero learns chess from random to better-than-world-champion in 16-17 self-play generations, no human data required.
 - `INS-260321-80A9` Models simultaneously feel like a brilliant PhD and a 10-year-old — they're superhuman in RL-trained domains and mediocre outside them. This jaggedness doesn't improve with scale.
 - `INS-260403-C501` Verifiable tasks provide the training signal that lets AI master them first, creating a predictable sequence of capability unlocks.
 - `INS-260323-F204` AI systems launch knowing only half of what they need — the rest must be learned through real-world usage and continuous human feedback.

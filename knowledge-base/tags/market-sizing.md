@@ -11,8 +11,8 @@
 - `INS-260403-E2DE` VCs disproportionately fund startups in large markets because only massive TAMs can deliver the 10x+ returns their fund model requires.
 - `INS-260403-D99E` Scientist-founders lose deals by prioritizing how cool the science is over how big the market opportunity is.
 - `INS-260405-7CF9` Pitch only after confirming scalability, large market, and real customer signals — pitching before this burns credibility.
-- `INS-260403-B387` AI vertical companies should size their market against total labor cost in the vertical, not existing software spend — a 10x larger opportunity.
 - `INS-260403-5CAD` The Jevons Paradox predicts that as AI makes software cheaper to build, total demand for software — and the number of people building it — will explode rather than contract.
 - `INS-260403-58BB` Target markets that are small today but have a built-in expansion mechanism, like Apple selling computers in 1976 to hobbyists before everyone wanted one.
 - `INS-260330-D5BD` Prioritize entering small but rapidly growing markets over large but slow-growing ones, because desperate customers in growing markets tolerate imperfect early products.
 - `INS-260330-CFBA` Good startup ideas look like narrow deep wells — a small number of people who want the product desperately — not broad shallow holes of mild interest.
+- `INS-260403-B387` AI vertical companies should size their market against total labor cost in the vertical, not existing software spend — a 10x larger opportunity.

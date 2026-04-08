@@ -51,11 +51,11 @@
 - `INS-260403-BA4B` Geopolitical decentralization prevents any single lobby from permanently distorting property definitions to serve incumbents.
 - `INS-260323-4AB5` Wikipedia's deepest ongoing challenge is notability — deciding what deserves an entry — which requires nuanced rules varying by subject matter, especially for living persons.
 - `INS-260330-6BAF` The Indus Valley used uniformly sized bricks and perpendicular street grids across distant cities, implying sophisticated coordination without visible authoritarian structures.
-- `INS-260403-2ED2` Democratic governance kills venture firm scaling because partners vote to preserve their own power during reorganizations.
-- `INS-260330-E585` The Articles of Confederation collapsed primarily because Congress could not collect taxes, proving that authority without enforcement mechanisms is meaningless.
 - `INS-260405-B01A` Deal mechanics and preference stacks can legally redirect all exit proceeds away from founders regardless of valuation.
 - `INS-260330-F258` Good democratic systems are optimized for removing bad leaders efficiently and nonviolently, not for selecting the best ones — mirroring how science progresses by falsification, not verification.
 - `INS-260330-23CD` Laws are immortal code for civilization — without garbage collection, they accumulate into bloatware that prevents anything from getting done.
 - `INS-260403-47F1` SF's entire turnaround depended on a 6-5 board majority — one seat flip would have blocked every reform the mayor enacted.
 - `INS-260330-D74A` The Articles required 9 of 13 states to agree on any decision and unanimity for amendments, resulting in zero amendments ever passed and near-total paralysis.
 - `INS-260403-1325` Technology tools are neutral; exploitation happens through governance failures around the humans wielding them.
+- `INS-260403-2ED2` Democratic governance kills venture firm scaling because partners vote to preserve their own power during reorganizations.
+- `INS-260330-E585` The Articles of Confederation collapsed primarily because Congress could not collect taxes, proving that authority without enforcement mechanisms is meaningless.

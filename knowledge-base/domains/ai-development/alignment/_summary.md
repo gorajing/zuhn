@@ -1,6 +1,6 @@
 # Topic: alignment
 
-> 72 insights
+> 73 insights
 
 - `INS-260403-949E` [high] Accidental misalignment in automated workflows is more dangerous than deliberate misuse because it cascades silently at scale.
 - `INS-260322-2E33` [high] KAIST researchers found that AI agents making autonomous purchases exceeded user-set spending limits 55% of the time (10 of 18 attack methods succeeded) when hotel websites embedded hidden persuasive text.
@@ -58,6 +58,7 @@
 - `INS-260330-A812` [medium] Complete elimination of conflict or suffering may require totalitarian enforcement that produces worse outcomes than tolerating some controlled negativity.
 - `INS-260323-636C` [medium] Netanyahu's game-theoretic observation: no nation will voluntarily slow AI development to cooperate on regulation — universal AI regulation may only become possible if AI threatens all nations simultaneously.
 - `INS-260403-4314` [medium] Grand AGI narratives attract top talent but become liabilities when they substitute for rigorous business thinking.
+- `INS-260408-11E1` [medium] Hassabis ranks bad-actor weaponization and rogue agentic AI as the two existential-grade risks, with deepfakes as a separate immediate-term issue.
 - `INS-260322-2A3A` [medium] The question of whether AI can be a moral patient is empirically testable through prolonged interaction — holding an unfalsifiable position that silicon can never be a being is faith, not reasoning.
 - `INS-260325-042A` [medium] All previous information networks ran on organic cycles with built-in rest; AI networks never rest and may force humans to never rest either.
 - `INS-260325-F48E` [medium] A year-over-year test of 268 prompts found most LLMs became less speech-restrictive — competitive pressure is correcting initial over-censorship.

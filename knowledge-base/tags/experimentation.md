@@ -15,16 +15,13 @@
 - `INS-260321-2D72` Code's real advantage isn't zero marginal cost of serving users — it's zero-cost experimentation. A/B test, deploy, roll back, iterate at near-zero cost per cycle. Your competitive advantage is learning speed, not serving speed.
 - `INS-260403-E63B` Lenny had no plan for the newsletter but weekly consistency for 18 months made the path obvious.
 - `INS-260404-3D14` Competitor tactics are outputs of invisible context you don't have — use them for pattern inspiration but run your own experiments.
-- `INS-260325-55D8` Before starting any experiment, plan what you will do if it fails and how to minimize downside — this is more valuable than optimizing for the upside scenario.
 - `INS-260404-A46A` Treating projects as experiments ensures you gain knowledge even if the project itself fails.
 - `INS-260330-9A83` Placing the anvil behind the driver head eliminated momentum transfer as a variable, isolating pure deformation as the only energy absorption mechanism.
 - `INS-260330-0102` Mastery comes from maximizing learning loop iterations — do, test against reality, extract insight, adjust — not from accumulating hours.
 - `INS-260404-88D8` If you can't reach statistical significance within a month, use pre/post analysis and trust intuition — waiting for perfect data is its own form of failure.
 - `INS-260330-B50A` Inconsistent results in complex systems require isolating variables rather than guessing at causes.
+- `INS-260325-55D8` Before starting any experiment, plan what you will do if it fails and how to minimize downside — this is more valuable than optimizing for the upside scenario.
 - `INS-260330-D99D` McDonald's biggest innovations — the Big Mac, drive-thru, Ronald McDonald, and Happy Meal — all came from individual franchisees experimenting locally, not corporate headquarters.
-- `INS-260405-6F45` Before PMF, your job is to discover, not to deliver — treating a startup like a Fortune 500 kills the learning loop.
-- `INS-260327-2386` If something takes less than 3 minutes and seems interesting, do it right now — do not wait, because most of the time failure is great if you fail fast.
-- `INS-260329-4A09` When a business experiment fails, you're not back at zero — you're at your previous position plus one experience point, and enough experience points trigger a level-up.
 - `INS-260323-8165` Run daily marketing experiments, calculate cost-per-customer for each, and pour everything into the cheapest acquisition channel.
 - `INS-260327-7C6B` Consistency alone causes plateaus, virality alone causes sugar-crash comedowns — real growth is consistency x experimentation.
 - `INS-260403-96F9` Like a brainless virus that outpaces scientists through sheer mutation speed, startups find PMF by running many cheap experiments faster than competitors can think.
@@ -40,6 +37,9 @@
 - `INS-260404-BD46` Unproven business models should be validated through many small experiments rather than detailed business plans.
 - `INS-260403-910E` Internal innovation should follow VC portfolio logic: many small bets filtered by evidence, not executive intuition.
 - `INS-260405-0A6D` Portfolio innovation strategy only works if you actually exit the failures fast—without a kill discipline, you accumulate zombie projects that consume resources and produce nothing.
+- `INS-260405-6F45` Before PMF, your job is to discover, not to deliver — treating a startup like a Fortune 500 kills the learning loop.
+- `INS-260327-2386` If something takes less than 3 minutes and seems interesting, do it right now — do not wait, because most of the time failure is great if you fail fast.
+- `INS-260329-4A09` When a business experiment fails, you're not back at zero — you're at your previous position plus one experience point, and enough experience points trigger a level-up.
 - `INS-260405-A6BA` Test your riskiest business assumptions before writing a single line of code.
 - `INS-260403-3569` Nine experiment archetypes let founders systematically match the cheapest test to each business assumption.
 - `INS-260403-D379` Spend the least on experiments when you know the least, and increase stakes only as validated learning reduces uncertainty.

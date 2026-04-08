@@ -3,8 +3,8 @@
 - `INS-260322-7DD5` 2026 marks when major consumer AI products shift from helping you work to helping you stay connected — understanding who you are and facilitating real human relationships.
 - `INS-260322-96D1` AI agents that accumulate all past conversations and user-shared resources develop into genuinely personalized assistants — one agent independently followed AI influencers on social media to self-educate in its field.
 - `INS-260322-22B3` An individual's philosophy, experiences, and accumulated wisdom become the essential 'data' that makes AI agents useful — without rich human input to personalize around, even the most powerful agent is an empty shell.
-- `INS-260403-FB82` Generative AI's deeper impact is enabling infinite personalized content variants that were economically impossible before, not just making existing workflows cheaper.
 - `INS-260328-711E` Altman distinguishes personalized AI persuasion — reading your entire online history to craft one perfect message — from traditional mass disinformation.
+- `INS-260403-FB82` Generative AI's deeper impact is enabling infinite personalized content variants that were economically impossible before, not just making existing workflows cheaper.
 - `INS-260329-0CDD` AI companions tuned to individual preferences for voice, personality, and emotional responsiveness will outperform human partners on availability and attentiveness.
 - `INS-260403-AEF7` AI systems with multiple interacting configuration layers require all layers to be set intentionally or higher layers will override lower ones.
 - `INS-260405-2DC0` Reframing health conversations around personal motivations instead of clinical outcomes brings disengaged patients back to their providers.

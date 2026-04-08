@@ -1,5 +1,5 @@
 # Source Map
-Generated on 2026-04-07 | 2421 sources
+Generated on 2026-04-08 | 2422 sources
 
 | Source | Type | Insights | Date |
 |--------|------|----------|------|
@@ -48,6 +48,7 @@ Generated on 2026-04-07 | 2421 sources
 | Lecture 16 - How to Run a User Interview (Emmett Shear) | youtube | 15 | 2026-03-31 |
 | Lecture 20 - Later-stage Advice (Sam Altman) | youtube | 15 | 2026-03-31 |
 | Lecture 8 - How to Get Started, Doing Things that Don't Scale, Press | youtube | 15 | 2026-03-31 |
+| The Hardest Problem AI Ever Solved, with Google DeepMind CEO | youtube | 15 | 2026-04-08 |
 | Why Apple Fails in India (& Why it Matters) | youtube | 15 | 2026-03-30 |
 | Apple's Money Problem (& Why It Won't Buy Netflix) | youtube | 14 | 2026-03-30 |
 | Seriously, watch this before you go to college | youtube | 14 | 2026-03-30 |

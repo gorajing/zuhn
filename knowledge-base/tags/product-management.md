@@ -14,11 +14,11 @@
 - `INS-260404-F962` PMs should nail execution first because strategic opportunities emerge from the context built through delivery.
 - `INS-260403-CD68` Libra failed partly because regulators went beyond setting guardrails to actively managing product decisions, making it impossible to ship a market-responsive product.
 - `INS-260403-A70D` Measuring outcomes over outputs forces product teams to validate that shipped features actually change user behavior and create value.
+- `INS-260330-2C79` Translate customer problems into elegant solutions rather than implementing their proposed features.
+- `INS-260330-8D34` A clear set of 'why are we building this' statements serves as both creative constraint and trade-off arbiter across all teams.
+- `INS-260330-A6BE` Record interviews and play them back to the team — the emotional impact of hearing real users creates alignment that summaries and data slides cannot.
 - `INS-260404-16DC` Product teams fail when they don't actively translate between the three distinct languages of customers, product, and business.
 - `INS-260404-AEC9` The 50-40-10 rule structures roadmap investment across functional, anticipatory, and delightful features.
 - `INS-260402-B36F` Every AI feature PRD should specify how the feature distributes itself, where it inserts into existing workflows, and whether its economics improve at 10x scale.
 - `INS-260404-E4F1` A structured 5-phase strategy process over 8-12 weeks creates repeatable strategic clarity without the overhead of annual planning cycles.
 - `INS-260402-142F` Web3 forces PMs to recombine user research, data analysis, design, BD, and marketing into one role because the tasks are too intertwined to specialize.
-- `INS-260330-2C79` Translate customer problems into elegant solutions rather than implementing their proposed features.
-- `INS-260330-8D34` A clear set of 'why are we building this' statements serves as both creative constraint and trade-off arbiter across all teams.
-- `INS-260330-A6BE` Record interviews and play them back to the team — the emotional impact of hearing real users creates alignment that summaries and data slides cannot.

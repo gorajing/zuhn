@@ -3,10 +3,10 @@
 - `INS-260327-35C7` Physical AI will develop reasoning in trajectory and motion space, complementing text-based reasoning and potentially improving LLMs in return.
 - `INS-260323-05B5` AI agents will use existing software tools rather than replace them, just as a humanoid robot would use a microwave rather than beam microwaves from its fingers — Jensen predicted the OpenClaw architecture two years before it existed.
 - `INS-260320-5B49` Curated structured data enables REASONING about connections. Vector memory stores text blobs for retrieval. For business-ready context, structure wins.
+- `INS-260405-CCB4` AI development offers an empirical path to proving which cognitive principles are prerequisites for intelligence rather than contingent human conventions.
 - `INS-260323-F0A2` Each major AI leap — next-word prediction learning anything, predictable improvement from scale, and RL teaching reasoning — seemed 'too simple to work' to experts before being proven right.
 - `INS-260323-8AEC` Reinforcement learning with verifiable rewards plus inference-time compute scaling is what enabled models to use tools, write code agentically, and perform multi-step reasoning.
 - `INS-260322-32E3` Math and formal reasoning are domains where RL-based AI training works especially well, making AI-driven proofs of major unsolved math problems plausible within 5 years.
-- `INS-260405-CCB4` AI development offers an empirical path to proving which cognitive principles are prerequisites for intelligence rather than contingent human conventions.
 - `INS-260327-95D3` OpenAI's IMO gold came from general-purpose techniques for scaling test-time compute, not math-specific engineering.
 - `INS-260321-703F` Instead of 'write me X', ask 'what makes X work well?' then 'what principles apply here?' then 'now do it for my case' — the model reasons before generating instead of pattern-matching to common outputs.
 - `INS-260403-5F41` Prompting 'think step by step: identify the issue, evaluate solutions, then recommend based on cost and feasibility' forces the model to reason rather than pattern-match to an answer.
@@ -15,6 +15,7 @@
 - `INS-260328-B19D` Zuckerberg revealed that coding was deprioritized in Llama 2 but became central to Llama 3 after discovering code training makes models more rigorous across all question types.
 - `INS-260403-CDB0` DeepSeek's R1-Zero model learned complex reasoning entirely through reinforcement learning without human data, discovering novel problem-solving approaches.
 - `INS-260405-547E` AMI's $1.03B bet is that grounded, causal world models beat next-token scaling for real-world AI.
+- `INS-260408-C572` Foundation models are world models without the search/reasoning layer AlphaZero had; combining them is the next breakthrough, not bigger pretraining.
 - `INS-260329-DEA1` Data types are the gateway abstraction that teaches programmers to separate representation from operation.
 - `INS-260325-82E8` The Copernican principle works for features unrelated to life (like Neptune) but fails for life-dependent features due to anthropic selection bias.
 - `INS-260403-213D` Good-sounding writing and correct thinking are structurally coupled through rhythm matching idea shape and revision forcing truth-convergence.

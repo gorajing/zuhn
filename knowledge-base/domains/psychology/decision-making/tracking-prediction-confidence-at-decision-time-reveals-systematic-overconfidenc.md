@@ -52,7 +52,6 @@ stance: >-
   certainty has weak predictive power over outcomes
 related:
   - INS-260403-7EA1
-  - INS-260403-BA81
   - PRI-260406-A4AA
   - PRI-260406-4C28
   - PRI-260324-2C9F

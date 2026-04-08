@@ -1,8 +1,8 @@
 # Tag: evolution
 
+- `INS-260327-D24A` Aligning AI to current human values assumes those values are correct - but we've abandoned slavery, expanded rights, and improved moral reasoning over centuries. Should AI be aligned to 2024 values or to where values should evolve?
 - `INS-260327-9DB0` Assembly Theory can determine if an object was built by evolution by measuring its complexity (minimum assembly steps) and abundance (number of copies) - applicable to any substrate, not just biology.
 - `INS-260327-A44E` Evolution doesn't randomly search the space of possible organisms - it accumulates successful building blocks and recombines them, which is why it can create complexity that random search never could.
-- `INS-260327-D24A` Aligning AI to current human values assumes those values are correct - but we've abandoned slavery, expanded rights, and improved moral reasoning over centuries. Should AI be aligned to 2024 values or to where values should evolve?
 - `INS-260325-D680` Cancer cells use the same mutation-and-selection mechanism as species evolution, making cancer a fundamental feature of the evolutionary process, not a bug.
 - `INS-260325-BF44` Your immune system uses hypermutation and clonal selection — the same mutation-selection staircase as evolution — to fight novel pathogens in real time.
 - `INS-260330-C8B4` Organisms that over-detect patterns survive longer than those that under-detect them because missing a real threat is costlier than reacting to a false one.
@@ -39,9 +39,8 @@
 - `INS-260325-E19E` New species form when populations are isolated long enough to accumulate distinct mutations — roughly 2 million years for mammals.
 - `INS-260405-F03A` Plants evolved RuBisCo in a low-oxygen atmosphere, then produced the very oxygen that made RuBisCo increasingly dysfunctional — a trap where success altered the environment enough to undermine the mechanism of success.
 - `INS-260403-1284` Marketplaces in every category follow a predictable arc: horizontal discovery → vertical discovery → vertical transactional → fintech-enabled managed marketplace.
-- `INS-260404-0F87` Studying how a company's website messaging evolves reveals which value propositions are constant (the platform identity) versus which change (individual product positioning).
 - `INS-260403-8653` Plants evolved entire metabolic pathways to manage RuBisCo's toxic byproducts rather than replace the enzyme itself.
-- `INS-260404-5E8F` RuBisCo is terrible at its job but plants scaled it to 40 billion tons and dominated Earth, proving that volume compensates for per-unit inefficiency.
+- `INS-260404-0F87` Studying how a company's website messaging evolves reveals which value propositions are constant (the platform identity) versus which change (individual product positioning).
 - `INS-260404-CC7C` RuBisCo is evolution's ultimate legacy system — plants produce 40 billion tons of a bad enzyme rather than redesign the core pathway.
 - `INS-260330-0B4A` RuBisCo — the most abundant protein on Earth at 40 billion tons — is demonstrably bad at its job, confusing O2 for CO2 half the time, yet plants are permanently locked into it.
 - `INS-260404-FAE9` RuBisCo's 450-million-year reign shows that dominant systems compensate for flaws rather than replace core mechanisms.
@@ -54,3 +53,4 @@
 - `INS-260404-3B9D` RuBisCo is a terrible enzyme that won by being first and scaling to 40 billion tons rather than being replaced by something better.
 - `INS-260405-F20F` RuBisCo, an enzyme that makes catastrophic errors 50% of the time, remains the planet's dominant carbon-fixing enzyme because plants went all-in on it before oxygen made it dysfunctional.
 - `INS-260330-4489` RuBisCo is terrible at its job but plants produce 40 billion tons of it rather than evolving a better enzyme — a biological case study in scale-over-quality lock-in.
+- `INS-260404-5E8F` RuBisCo is terrible at its job but plants scaled it to 40 billion tons and dominated Earth, proving that volume compensates for per-unit inefficiency.

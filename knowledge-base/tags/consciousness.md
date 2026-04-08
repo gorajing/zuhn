@@ -1,10 +1,10 @@
 # Tag: consciousness
 
-- `INS-260323-085A` Penrose argues from Goedel's incompleteness theorems that human mathematicians can grasp truths no algorithm can formally prove — suggesting understanding transcends classical computation.
 - `INS-260323-BCCC` People at stage 3 (social self) worry about AI having wrong opinions; stage 4 (rational) worry about paperclip maximizers; stage 5 (self-authoring) worry about AI lacking enlightenment and shared agency.
 - `INS-260403-1F58` The same explanatory gap that prevents us from verifying another human's color experience makes it fundamentally impossible to verify AI consciousness through behavioral testing alone.
 - `INS-260322-2A3A` The question of whether AI can be a moral patient is empirically testable through prolonged interaction — holding an unfalsifiable position that silicon can never be a being is faith, not reasoning.
 - `INS-260323-1345` When AI exceeds human intelligence, our species' value shifts from information processing to subjective experience and consciousness.
+- `INS-260323-085A` Penrose argues from Goedel's incompleteness theorems that human mathematicians can grasp truths no algorithm can formally prove — suggesting understanding transcends classical computation.
 - `INS-260326-E5D3` AI is the first technology that makes the consciousness question empirically testable, not just philosophically debatable.
 - `INS-260325-0E70` Seth argues real artificial consciousness might require real artificial life — self-regenerating biological properties — rather than just powerful computation running on silicon.
 - `INS-260323-9385` If AI becomes a planetary control system with malleable identity, coexistence requires shared purpose and non-transactional relationships — which means we need to formalize love as an engineering concept.
@@ -26,6 +26,7 @@
 - `INS-260327-D212` Once you genuinely question whether the self is real, whether time is linear, or whether consciousness is what it seems, you cannot fully return to your previous way of seeing.
 - `INS-260330-F37B` True freedom means freedom from the mind's patterns, not from material or physical constraints.
 - `INS-260323-7DBC` At the self-authoring stage of development, you realize your values and identity are not terminal but instrumental — and gaining agency over your identity costume is what constitutes wisdom.
+- `INS-260408-59B3` Hassabis: most neuroscientists think the brain is an approximate Turing machine; no quantum effects found yet, so AI's ceiling is empirically open.
 - `INS-260330-5F9E` What you see with open eyes and what you think with closed eyes appear in the same experiential space.
 - `INS-260327-DD48` Intelligence that emerged from embodied biological experience and intelligence that emerged from statistical text processing may be so different that calling both 'intelligence' is misleading.
 - `INS-260322-C4A2` Jung proposed that synchronicities reveal an underlying reality ('unus mundus') where psyche and matter are not separate substances but expressions of a single unified order.

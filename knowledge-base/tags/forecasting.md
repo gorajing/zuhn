@@ -1,9 +1,9 @@
 # Tag: forecasting
 
+- `INS-260404-4434` The Bio Anchors report's efficiency comparisons are technology-invariant, undermining their usefulness for timing AI progress.
 - `INS-260403-1EFF` Bio Anchors estimated 30% yearly algorithmic progress from easy-task benchmarks, but frontier AI saw 200% yearly gains because harder tasks have more room for improvement.
 - `INS-260403-F8CB` Yudkowsky predicted shorter timelines than Bio Anchors via disjunctive reasoning — either deep learning pays off fast or a new paradigm emerges — and was right on the bottom line despite the wrong mechanism.
 - `INS-260403-F0DC` Bio Anchors had many anchors and parameters but its output was almost entirely determined by the algorithmic progress rate, which was its least-researched input.
-- `INS-260404-4434` The Bio Anchors report's efficiency comparisons are technology-invariant, undermining their usefulness for timing AI progress.
 - `INS-260403-CEAD` Bio Anchors accurately predicted willingness-to-spend and cost-per-FLOP trends through 2025, correctly forecasting the massive data center buildout from observable investment patterns.
 - `INS-260325-F0CE` Philip Tetlock's research shows expert financial forecasts are no better than average person predictions, and no one predicted the major market-moving events of recent years.
 - `INS-260325-9F41` Wharton's Philip Tetlock found expert forecasts were no better than average guesses — nobody predicted the 2020 pandemic, 2021 Ukraine invasion, or 2022's 500bp rate hikes.

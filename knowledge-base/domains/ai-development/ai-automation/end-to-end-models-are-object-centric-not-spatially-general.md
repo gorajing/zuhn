@@ -41,11 +41,11 @@ resolutions:
     match the training distribution, severely narrowing 'zero-shot
     generalization.'
 related:
+  - INS-260408-C572
   - INS-260330-4AD5
   - INS-260327-30E4
   - INS-260323-7A50
   - INS-260323-0827
-  - INS-260330-6494
 stance: >-
   VLA models have no spatial primitive vocabulary — 'move up', 'move back',
   'don't move' all produce similar grasping motions

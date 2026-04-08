@@ -10,7 +10,6 @@
 - `INS-260323-C984` The 'AI clicker' phenomenon — pursuing efficiency by outsourcing reading, writing, design, and judgment to AI without building underlying skills — erodes the very human capacity that creates irreplaceable value in an automated world.
 - `INS-260330-BA13` SHA256's security is empirical rather than proven — no one has found a way to reverse it, but there's no proof that it's impossible.
 - `INS-260323-0D51` When victory or success is never defined precisely, it is always a tell that there is deception at the heart of the claim -- this applies to geopolitics, business pitches, and any context where vague goals substitute for measurable ones.
-- `INS-260403-F60A` Lower forms of disagreement (name-calling through tone policing) can never be convincing no matter how well-executed.
 - `INS-260330-7C58` The Holocaust used Western civilization's best tools — record-keeping, industrial production, technology — for systematic extermination, proving progress is morally neutral.
 - `INS-260403-A408` Step beyond asking 'is this true?' to asking 'why is this topic being written about at all?' — the selection of subject matter is itself a form of manipulation.
 - `INS-260402-3737` Childhood lies create cognitive debt that compounds silently into adulthood, and deliberately identifying and clearing them unlocks disproportionate clarity.
@@ -24,6 +23,7 @@
 - `INS-260330-0F04` Swapping the actor in a scenario while keeping the action identical exposes tribally-motivated reasoning.
 - `INS-260327-C4AC` Ask someone to explain their strongest belief and watch it dissolve - most convictions are adopted from environment rather than derived from reasoning.
 - `INS-260330-1E6A` Truth has three structural disadvantages against fiction: it's costly to produce, inherently complex, and sometimes painful to accept.
+- `INS-260403-F60A` Lower forms of disagreement (name-calling through tone policing) can never be convincing no matter how well-executed.
 - `INS-260330-4BFD` When a model needs ad-hoc explanations for gravity, time zones, satellite imagery, and navigation simultaneously, the model itself is wrong — not the evidence.
 - `INS-260403-DD07` Actively trying to convince yourself a problem isn't real or big enough surfaces evidence gaps that enthusiasm-driven validation misses.
 - `INS-260329-8226` Tests force you to externalize implicit assumptions about behavior, making testing a thinking discipline rather than just a quality assurance step.

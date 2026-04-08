@@ -11,6 +11,9 @@
 - `INS-260404-36B9` Reframing ambitious projects as experiments makes failure impossible because even negative results yield knowledge.
 - `INS-260404-A46A` Treating projects as experiments ensures you gain knowledge even if the project itself fails.
 - `INS-260327-24F4` Zero failures means you're not placing enough bets at the frontier.
+- `INS-260329-776B` Brand growth requires accepting that every new pairing loses some existing audience — the discipline is ensuring net positive gains.
+- `INS-260403-872C` Treating new projects as experiments means even failure produces knowledge, removing the psychological barrier to starting.
+- `INS-260403-9627` Committees produce safe, lumpy designs because no group will agree to the bold risks that distinguish great work.
 - `INS-260328-F60B` Agency over your calendar, your work, and your identity compounds into a better life trajectory than comfort does.
 - `INS-260329-F07A` When you have nothing to lose, the rational move is maximum risk-taking because any upside is pure gain.
 - `INS-260327-DAA4` Most people dramatically under-invest in risk—the US ecosystem uniquely rewards those who take bold career bets.
@@ -19,7 +22,4 @@
 - `INS-260328-00E8` When you can write the script of your remaining career, it is time to leave.
 - `INS-260327-DD1D` Quitting during a crisis reduces competition and can create better startup conditions than boom times.
 - `INS-260405-BC10` The US-Europe startup gap is best explained by failure-recovery infrastructure — bankruptcy law, investor attitudes, labor mobility — not by cultural risk appetite alone.
-- `INS-260329-776B` Brand growth requires accepting that every new pairing loses some existing audience — the discipline is ensuring net positive gains.
-- `INS-260403-872C` Treating new projects as experiments means even failure produces knowledge, removing the psychological barrier to starting.
-- `INS-260403-9627` Committees produce safe, lumpy designs because no group will agree to the bold risks that distinguish great work.
 - `INS-260323-FE33` Tal Wilkenfeld deliberately performs at the edge of her abilities because playing safe limits expression -- the unknown is where pure creative expression happens, and occasional mistakes are the acceptable cost.
