@@ -4,7 +4,7 @@ import { readFileSync, writeFileSync, readdirSync, existsSync } from "node:fs";
 import { join } from "node:path";
 import { execFileSync } from "node:child_process";
 import matter from "gray-matter";
-import { safeLogEntry } from "./lib/log.js";
+import { safeLogEntry, normalizeBodyLine } from "./lib/log.js";
 
 const PROJECT_ROOT = join(__dirname, "..");
 const KB_ROOT = join(PROJECT_ROOT, "knowledge-base");
@@ -167,8 +167,10 @@ function main(): void {
   console.log(`  Notes: ${notes}`);
   console.log(`  File: ${record.filePath}`);
 
-  // Log the resolution to meta/log.md
-  const notesSnippet = notes.slice(0, 160);
+  // Log the resolution to meta/log.md.
+  // Notes come from the --notes CLI flag and can easily contain
+  // newlines if the user pasted a multiline explanation.
+  const notesSnippet = normalizeBodyLine(notes, 160);
   safeLogEntry({
     action: "resolve",
     scope: id,

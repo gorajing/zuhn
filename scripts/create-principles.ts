@@ -45,11 +45,18 @@ export type PrinciplesFileData = z.infer<typeof PrinciplesFile>;
 
 // ─── Write Result ───────────────────────────────────────────────────
 
+export interface CreatedPrinciple {
+  id: string;
+  domain: string;
+  title: string;
+}
+
 export interface WritePrinciplesResult {
   created: number;
   skipped: number;
   files: string[];
   errors: string[];
+  createdPrinciples: CreatedPrinciple[];
 }
 
 // ─── Helpers ─────────────────────────────────────────────────────────
@@ -107,6 +114,7 @@ export async function writePrinciples(
     skipped: 0,
     files: [],
     errors: [],
+    createdPrinciples: [],
   };
 
   const today = todayISO();
@@ -180,6 +188,11 @@ export async function writePrinciples(
 
       result.files.push(filePath);
       result.created++;
+      result.createdPrinciples.push({
+        id,
+        domain: principle.domain,
+        title: principle.title,
+      });
       console.log(`  -> ${filePath}`);
     } catch (err: unknown) {
       const msg = err instanceof Error ? err.message : String(err);
@@ -238,7 +251,8 @@ async function main(): Promise<void> {
   const input = validation.data;
   console.log(`Creating ${input.principles.length} principle(s)...\n`);
 
-  const { created, skipped, files, errors } = await writePrinciples(input, KB_ROOT);
+  const writeResult = await writePrinciples(input, KB_ROOT);
+  const { created, skipped, errors, createdPrinciples } = writeResult;
 
   // 6. Summary
   console.log(`\nCreated: ${created} principle file(s)`);
@@ -253,13 +267,17 @@ async function main(): Promise<void> {
   }
 
   // 6b. Log compress events to meta/log.md
-  // Principles can span multiple domains in a single run (e.g. the
-  // Tier 2 compression marathon wrote across psychology, investing,
-  // ai-development, and startups). We emit one log entry per domain
-  // so grep targets like "compress | psychology" stay useful.
-  if (created > 0) {
+  //
+  // Group by domain only using principles that ACTUALLY got written.
+  // Using input.principles instead would overcount duplicates and
+  // errored writes, emitting false domain entries. The Tier 2
+  // compression marathon showed that single runs span multiple
+  // domains, so we emit one log entry per domain with scope
+  // "<domain>/*" to keep grep targets like "compress | psychology"
+  // useful.
+  if (createdPrinciples.length > 0) {
     const byDomain = new Map<string, number>();
-    for (const p of input.principles) {
+    for (const p of createdPrinciples) {
       byDomain.set(p.domain, (byDomain.get(p.domain) || 0) + 1);
     }
     for (const [domain, count] of byDomain) {

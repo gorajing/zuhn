@@ -9,7 +9,7 @@ import { DecisionInput } from "./schemas/empirical.js";
 import type { DecisionInputData } from "./schemas/empirical.js";
 import { generateDecisionId } from "./lib/generate-id.js";
 import { slugify } from "./lib/ingest/slug.js";
-import { safeLogEntry } from "./lib/log.js";
+import { safeLogEntry, normalizeBodyLine } from "./lib/log.js";
 
 const PROJECT_ROOT = join(__dirname, "..");
 const KB_ROOT = join(PROJECT_ROOT, "knowledge-base");
@@ -199,10 +199,13 @@ async function main(): Promise<void> {
     }
   }
 
-  // Log each created decision to meta/log.md — one entry per ID
+  // Log each created decision to meta/log.md — one entry per ID.
+  // Normalize context and choice to flatten embedded newlines — user
+  // input can be multiline, which would otherwise become a multiline
+  // log body and trigger truncation.
   for (const dec of createdDecisions) {
-    const contextSnippet = dec.context.slice(0, 100);
-    const choiceSnippet = dec.choice.slice(0, 80);
+    const contextSnippet = normalizeBodyLine(dec.context, 100);
+    const choiceSnippet = normalizeBodyLine(dec.choice, 80);
     safeLogEntry({
       action: "decide",
       scope: dec.id,

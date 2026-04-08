@@ -2,7 +2,13 @@ import { describe, it, expect, beforeEach, afterEach, vi } from "vitest";
 import { readFileSync, existsSync, unlinkSync, mkdtempSync, rmSync } from "node:fs";
 import { join } from "node:path";
 import { tmpdir } from "node:os";
-import { logEntry, safeLogEntry, LOG_ACTIONS, type LogAction } from "./log";
+import {
+  logEntry,
+  safeLogEntry,
+  normalizeBodyLine,
+  LOG_ACTIONS,
+  type LogAction,
+} from "./log";
 
 // ─── Test helpers ───────────────────────────────────────────────────
 
@@ -184,6 +190,54 @@ describe("logEntry", () => {
       "resolve",
       "tension",
     ]);
+  });
+});
+
+describe("normalizeBodyLine", () => {
+  it("collapses embedded newlines into single spaces", () => {
+    const input = "line1\nline2\nline3";
+    expect(normalizeBodyLine(input)).toBe("line1 line2 line3");
+  });
+
+  it("collapses runs of whitespace into single spaces", () => {
+    const input = "hello   world    with\t\ttabs";
+    expect(normalizeBodyLine(input)).toBe("hello world with tabs");
+  });
+
+  it("trims leading and trailing whitespace", () => {
+    expect(normalizeBodyLine("  padded  ")).toBe("padded");
+    expect(normalizeBodyLine("\n\nwith newlines\n\n")).toBe("with newlines");
+  });
+
+  it("truncates to maxLen with ellipsis when exceeded", () => {
+    const long = "a".repeat(200);
+    const result = normalizeBodyLine(long, 50);
+    expect(result.length).toBe(50);
+    expect(result.endsWith("…")).toBe(true);
+  });
+
+  it("does not truncate when under maxLen", () => {
+    const short = "short string";
+    expect(normalizeBodyLine(short, 160)).toBe("short string");
+  });
+
+  it("uses default maxLen of 160 when not specified", () => {
+    const input = "a".repeat(200);
+    const result = normalizeBodyLine(input);
+    expect(result.length).toBe(160);
+  });
+
+  it("handles the multiline-claim case that motivated the helper", () => {
+    // This is the exact scenario the reviewer flagged: a prediction
+    // claim with embedded newlines that would have become a multiline
+    // log body and triggered the 3-line truncation warning.
+    const claim = `YC W27 will fund 2x more solo founders than W26.
+Measured by the public company list at the start of each batch.
+Falsified if solo-founder ratio is less than 1.5x.`;
+    const normalized = normalizeBodyLine(claim);
+    expect(normalized).not.toContain("\n");
+    expect(normalized).toContain("YC W27 will fund 2x more");
+    expect(normalized).toContain("Measured by the public company list");
   });
 });
 

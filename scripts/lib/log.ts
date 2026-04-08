@@ -63,6 +63,25 @@ Newest entries at the bottom, never rewritten.
 
 `;
 
+// ─── Body helpers ───────────────────────────────────────────────────
+
+/**
+ * Flatten user-provided text into a single grep-friendly line suitable
+ * for a log body. Collapses embedded newlines and runs of whitespace
+ * into single spaces, trims, and optionally truncates to a max length.
+ *
+ * Call sites that source body text from user input (prediction claims,
+ * decision contexts, resolution notes, source titles) should normalize
+ * through this function before passing to logEntry/safeLogEntry.
+ * Otherwise a multiline claim becomes a multiline log body, which
+ * weakens the grep-friendly format discipline.
+ */
+export function normalizeBodyLine(text: string, maxLen: number = 160): string {
+  const flattened = text.replace(/\s+/g, " ").trim();
+  if (flattened.length <= maxLen) return flattened;
+  return flattened.slice(0, maxLen - 1) + "…";
+}
+
 // ─── Public API ─────────────────────────────────────────────────────
 
 export interface LogEntryInput {

@@ -9,7 +9,7 @@ import { PredictionInput } from "./schemas/empirical.js";
 import type { PredictionInputData } from "./schemas/empirical.js";
 import { generatePredictionId } from "./lib/generate-id.js";
 import { slugify } from "./lib/ingest/slug.js";
-import { safeLogEntry } from "./lib/log.js";
+import { safeLogEntry, normalizeBodyLine } from "./lib/log.js";
 
 const PROJECT_ROOT = join(__dirname, "..");
 const KB_ROOT = join(PROJECT_ROOT, "knowledge-base");
@@ -196,9 +196,12 @@ async function main(): Promise<void> {
     }
   }
 
-  // Log each created prediction to meta/log.md — one entry per ID
+  // Log each created prediction to meta/log.md — one entry per ID.
+  // Normalize the claim to flatten any embedded newlines before
+  // appending the deadline suffix — otherwise a multiline claim
+  // would become a multiline log body.
   for (const pred of createdPredictions) {
-    const claimSnippet = pred.claim.slice(0, 140);
+    const claimSnippet = normalizeBodyLine(pred.claim, 140);
     safeLogEntry({
       action: "predict",
       scope: pred.id,

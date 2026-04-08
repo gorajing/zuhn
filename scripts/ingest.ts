@@ -17,14 +17,15 @@ import { detectType, normalizeUrl } from "./lib/ingest/detect";
 import { slugify } from "./lib/ingest/slug";
 import { generateSourceId } from "./lib/generate-id";
 import { parseMarkdownFile } from "./lib/parse-insight";
-import { safeLogEntry } from "./lib/log";
+import { safeLogEntry, normalizeBodyLine } from "./lib/log";
 
 // ─── Local log helper ──────────────────────────────────────────────
-// Truncates titles to keep log entries tight. Called after each
-// successful source ingest across all content-type branches.
+// Normalizes titles to keep log entries tight and grep-friendly.
+// Called after each successful source ingest across all content-type
+// branches.
 
 function logIngest(sourceId: string, type: string, title: string): void {
-  const cleanTitle = (title || "untitled").slice(0, 140);
+  const cleanTitle = normalizeBodyLine(title || "untitled", 140);
   safeLogEntry({
     action: "ingest",
     scope: sourceId,
