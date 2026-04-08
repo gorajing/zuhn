@@ -78,7 +78,9 @@ Three commands: **ingest → extract → search.** Everything else builds on top
 4. **Compresses** knowledge upward: insights → principles → mental models
 5. **Searches** via hybrid keyword + semantic search (SQLite FTS5 + Ollama embeddings)
 6. **Predicts & Decides** — testable claims with deadlines, decisions with outcome tracking
-7. **Runs autonomously** — daemon processes inbox, extracts insights, red-teams beliefs, scouts evidence while you sleep
+7. **Surfaces ambient context** — concise decision briefs appear reflexively during decision-shaped conversations (via MCP)
+8. **Tracks chronology** — append-only `meta/log.md` records every ingestion, compression, prediction, and resolution
+9. **Runs autonomously** — daemon processes inbox, extracts insights, red-teams beliefs, scouts evidence while you sleep
 
 ## The 5 Levels of Knowledge
 
@@ -119,6 +121,11 @@ npx tsx scripts/predict.ts --file <json>   # Create testable predictions
 npx tsx scripts/decide.ts --file <json>    # Log decisions with insight links
 npx tsx scripts/resolve.ts --id <ID> --status <STATUS>  # Track outcomes
 
+# Decision Briefs
+npm run brief "should I raise VC?"              # Full markdown brief (CLI default)
+npm run brief -- --mode concise "hire or automate"  # Compact ~300-token summary
+# MCP default is concise — agents invoke reflexively on decision-shaped prompts
+
 # Session
 npm run wake                        # Morning briefing
 npm run sleep                       # Save session state
@@ -129,7 +136,7 @@ npm run autoknowledge               # Self-improving extraction loop
 
 # Platform
 npm run mcp                         # MCP server (11 tools, any Claude session)
-npm run test                        # 300 tests across 23 files
+npm run test                        # 348 tests across 25 files
 ```
 
 ## How It Learns
@@ -161,6 +168,7 @@ knowledge-base/                    ← Source of truth (markdown + YAML frontmat
 ├── sources/{type}/*.md            ← Where insights came from
 ├── views/mindmap.html             ← Interactive zoomable mindmap
 ├── meta/flags.md                  ← Learning flags (COMPRESS/DISCOVER/GAP/TRANSFER)
+├── meta/log.md                    ← Append-only chronological log of events
 └── db/brain.db                    ← SQLite + FTS5 + sqlite-vec
 
 scripts/                           ← 40+ TypeScript scripts
@@ -194,7 +202,7 @@ benchmarks/                        ← Epistemic CI/CD (quality metrics + regres
 | Embeddings | Ollama (nomic-embed-text, 768 dims) |
 | Transcription | Whisper (local) |
 | Scripts | TypeScript (tsx) |
-| Tests | Vitest (300 tests, 23 files) |
+| Tests | Vitest (348 tests, 25 files) |
 | Graph analysis | graphology + Louvain |
 | Reasoning | Claude (in conversation) |
 

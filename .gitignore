@@ -20,4 +20,5 @@ substack-*
 *.m4a
 # Meta — runtime state, batch trackers, session data (local only)
 knowledge-base/meta/
-knowledge-base/zuhn.db
+knowledge-base/*.db
+knowledge-base/.*.db
