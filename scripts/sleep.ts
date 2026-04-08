@@ -125,27 +125,36 @@ ${nextActions}
   }
 
   try {
-    execFileSync("git", ["add", SESSION_PATH], {
+    execFileSync("git", ["add", "--", SESSION_PATH], {
       stdio: "pipe",
       cwd: PROJECT_ROOT,
     });
 
-    // Check if there are actually staged changes
+    // Check if SESSION_PATH specifically has staged changes. Using
+    // `-- <path>` scopes the diff to just this file, so unrelated
+    // staged work in the user's index doesn't trigger a sleep commit.
     let hasStaged = true;
     try {
-      execFileSync("git", ["diff", "--cached", "--quiet"], {
-        stdio: "pipe",
-        cwd: PROJECT_ROOT,
-      });
+      execFileSync(
+        "git",
+        ["diff", "--cached", "--quiet", "--", SESSION_PATH],
+        { stdio: "pipe", cwd: PROJECT_ROOT }
+      );
       hasStaged = false;
     } catch {
       hasStaged = true;
     }
 
     if (hasStaged) {
+      // Pathspec mode: commit ONLY session.md, even if other files
+      // are staged. Using `-- <path>` here prevents sleep.ts from
+      // accidentally sweeping a user's unrelated staged work into
+      // "chore: sleep state saved" — a subtle footgun that would
+      // only fire in the "session.md unignored" future state, but
+      // fixing it now removes the landmine.
       execFileSync(
         "git",
-        ["commit", "-m", "chore: sleep state saved"],
+        ["commit", "-m", "chore: sleep state saved", "--", SESSION_PATH],
         { stdio: "pipe", cwd: PROJECT_ROOT }
       );
       console.log("Sleep state saved to meta/session.md and committed.");
