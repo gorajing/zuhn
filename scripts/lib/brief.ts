@@ -75,6 +75,12 @@ export interface DecisionBrief {
   track_record: { confirmed: number; falsified: number; untested: number };
 }
 
+// Render mode selector — used by CLI and MCP to choose between full and
+// concise renderers. Intentionally NOT part of BriefOptions: the data-
+// generation function generateBrief() produces a single full data structure
+// regardless of render. Mode is only consumed at the render layer.
+export type BriefRenderMode = "full" | "concise";
+
 // ─── Helpers ────────────────────────────────────────────────────────
 
 const KB_ROOT = join(__dirname, "../../knowledge-base");
@@ -591,6 +597,84 @@ export function renderBriefAsMarkdown(brief: DecisionBrief): string {
     );
   } else {
     lines.push("No principles matched — no track record available.\n");
+  }
+
+  return lines.join("\n");
+}
+
+// ─── Concise Renderer ──────────────────────────────────────────────
+// Compact, agent-friendly output budgeted for reflexive use during decisions.
+// Targets ~300 tokens (~1200-1600 chars). Selection is pure truncation — uses
+// whatever ordering generateBrief() already produces and slices to the limit.
+// Reordering belongs in generateBrief(), not here. The data layer is the
+// single source of ranking logic; this function is render-only.
+
+const CONCISE_LIMITS = {
+  principles: 3,
+  predictions: 2,
+  decisions: 1,
+  tensions: 1,
+} as const;
+
+export function renderBriefAsConciseContext(brief: DecisionBrief): string {
+  const { confirmed, falsified, untested } = brief.track_record;
+  const totalMatched =
+    brief.principles.length +
+    brief.predictions.length +
+    brief.decisions.length +
+    brief.tensions.length;
+
+  if (totalMatched === 0) {
+    return `Zuhn brief for "${brief.query}": no relevant context in KB.`;
+  }
+
+  const lines: string[] = [];
+  lines.push(`Zuhn brief — "${brief.query}"`);
+
+  // Principles (title + empirical label only — summary omitted)
+  if (brief.principles.length > 0) {
+    lines.push("");
+    lines.push("Principles:");
+    for (const p of brief.principles.slice(0, CONCISE_LIMITS.principles)) {
+      const label = empiricalLabel(p.empirical_state);
+      lines.push(`- [${label}] ${p.title}`);
+    }
+  }
+
+  // Predictions (claim + status + deadline)
+  if (brief.predictions.length > 0) {
+    lines.push("");
+    lines.push("Predictions:");
+    for (const pred of brief.predictions.slice(0, CONCISE_LIMITS.predictions)) {
+      lines.push(`- ${pred.claim} (${pred.status}, due ${pred.deadline})`);
+    }
+  }
+
+  // Decisions (context → choice → status)
+  if (brief.decisions.length > 0) {
+    lines.push("");
+    lines.push("Past decisions:");
+    for (const d of brief.decisions.slice(0, CONCISE_LIMITS.decisions)) {
+      lines.push(`- "${d.context}" → chose "${d.choice}" (${d.status})`);
+    }
+  }
+
+  // Tensions (title only)
+  if (brief.tensions.length > 0) {
+    lines.push("");
+    lines.push("Open tensions:");
+    for (const t of brief.tensions.slice(0, CONCISE_LIMITS.tensions)) {
+      lines.push(`- ${t.title}`);
+    }
+  }
+
+  // One-line track record
+  const totalPrinciples = confirmed + falsified + untested;
+  if (totalPrinciples > 0) {
+    lines.push("");
+    lines.push(
+      `Track record: ${confirmed} confirmed, ${falsified} falsified, ${untested} untested across ${totalPrinciples} matched principles.`
+    );
   }
 
   return lines.join("\n");
