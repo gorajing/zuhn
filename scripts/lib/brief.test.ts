@@ -425,6 +425,117 @@ describe("renderBriefAsConciseContext", () => {
     expect(output).not.toContain("Past decisions:");
     expect(output).not.toContain("Open tensions:");
   });
+
+  it("renders evidence when no higher-level artifacts exist (fallback, not empty state)", async () => {
+    // Bug fix: evidence alone should NOT trigger the "no relevant context"
+    // message. If generateBrief() returned supporting insights but no
+    // principles/predictions/decisions/tensions, the concise renderer must
+    // still surface that evidence — otherwise the agent is told the KB is
+    // empty when it actually has relevant raw material.
+    const { renderBriefAsConciseContext } = await import("./brief");
+    const evidenceOnlyBrief = {
+      query: "emerging topic without principles yet",
+      matched_domains: ["startups"],
+      principles: [],
+      predictions: [],
+      decisions: [],
+      tensions: [],
+      evidence: [
+        {
+          id: "INS-260320-0001",
+          title: "A relevant raw insight about the topic",
+          one_line: "one-line summary A",
+          domain: "startups",
+          topic: "sales",
+          confidence: "high",
+        },
+        {
+          id: "INS-260320-0002",
+          title: "Another relevant raw insight",
+          one_line: "one-line summary B",
+          domain: "startups",
+          topic: "sales",
+          confidence: "medium",
+        },
+        {
+          id: "INS-260320-0003",
+          title: "Third raw insight",
+          one_line: "one-line summary C",
+          domain: "startups",
+          topic: "sales",
+          confidence: "medium",
+        },
+      ],
+      track_record: { confirmed: 0, falsified: 0, untested: 0 },
+    };
+    const output = renderBriefAsConciseContext(evidenceOnlyBrief);
+    // Must NOT claim empty
+    expect(output.toLowerCase()).not.toMatch(/no relevant context/);
+    // Must surface the evidence
+    expect(output).toContain("Evidence:");
+    expect(output).toContain("A relevant raw insight");
+    expect(output).toContain("Another relevant raw insight");
+  });
+
+  it("limits evidence fallback to 3 items", async () => {
+    const { renderBriefAsConciseContext } = await import("./brief");
+    const manyEvidenceBrief = {
+      query: "test",
+      matched_domains: ["startups"],
+      principles: [],
+      predictions: [],
+      decisions: [],
+      tensions: [],
+      evidence: [
+        { id: "INS-001", title: "Insight 1", one_line: "a", domain: "startups", topic: "sales", confidence: "high" },
+        { id: "INS-002", title: "Insight 2", one_line: "b", domain: "startups", topic: "sales", confidence: "high" },
+        { id: "INS-003", title: "Insight 3", one_line: "c", domain: "startups", topic: "sales", confidence: "high" },
+        { id: "INS-004", title: "Insight 4 — should be truncated", one_line: "d", domain: "startups", topic: "sales", confidence: "high" },
+        { id: "INS-005", title: "Insight 5 — should be truncated", one_line: "e", domain: "startups", topic: "sales", confidence: "high" },
+      ],
+      track_record: { confirmed: 0, falsified: 0, untested: 0 },
+    };
+    const output = renderBriefAsConciseContext(manyEvidenceBrief);
+    expect(output).toContain("Insight 1");
+    expect(output).toContain("Insight 2");
+    expect(output).toContain("Insight 3");
+    expect(output).not.toContain("Insight 4");
+    expect(output).not.toContain("Insight 5");
+  });
+
+  it("does NOT render evidence when higher-level artifacts exist (budget discipline)", async () => {
+    // When principles/predictions/decisions/tensions exist, the concise
+    // format should stay tight and not include raw evidence. Evidence is
+    // only a fallback for the no-compressed-knowledge case.
+    const { renderBriefAsConciseContext } = await import("./brief");
+    const mixedBrief = {
+      query: "test",
+      matched_domains: ["startups"],
+      principles: [
+        {
+          id: "PRI-260321-05B5",
+          title: "Compressed principle",
+          summary: "",
+          confidence: "high",
+          empirical_state: "confirmed" as const,
+          supporting_insight_overlap: 3,
+          match_reasons: [],
+        },
+      ],
+      predictions: [],
+      decisions: [],
+      tensions: [],
+      evidence: [
+        { id: "INS-260320-0001", title: "Raw evidence A", one_line: "a", domain: "startups", topic: "sales", confidence: "high" },
+        { id: "INS-260320-0002", title: "Raw evidence B", one_line: "b", domain: "startups", topic: "sales", confidence: "high" },
+      ],
+      track_record: { confirmed: 1, falsified: 0, untested: 0 },
+    };
+    const output = renderBriefAsConciseContext(mixedBrief);
+    expect(output).toContain("Compressed principle");
+    expect(output).not.toContain("Evidence:");
+    expect(output).not.toContain("Raw evidence A");
+  });
 });
 
 describe("BriefRenderMode type", () => {

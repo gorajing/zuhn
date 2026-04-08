@@ -614,17 +614,26 @@ const CONCISE_LIMITS = {
   predictions: 2,
   decisions: 1,
   tensions: 1,
+  evidence: 3, // only used as a fallback when no higher-level artifacts exist
 } as const;
 
 export function renderBriefAsConciseContext(brief: DecisionBrief): string {
   const { confirmed, falsified, untested } = brief.track_record;
-  const totalMatched =
-    brief.principles.length +
-    brief.predictions.length +
-    brief.decisions.length +
-    brief.tensions.length;
 
-  if (totalMatched === 0) {
+  // Higher-level artifacts: compressed principles, tested predictions,
+  // past decisions, open tensions. These are the primary concise payload.
+  const hasHigherLevel =
+    brief.principles.length > 0 ||
+    brief.predictions.length > 0 ||
+    brief.decisions.length > 0 ||
+    brief.tensions.length > 0;
+
+  // Evidence is raw supporting insights. Included only when NOTHING
+  // higher-level matched — otherwise we'd bloat the concise budget with
+  // material that's already implied by the principles above it.
+  const hasEvidence = brief.evidence.length > 0;
+
+  if (!hasHigherLevel && !hasEvidence) {
     return `Zuhn brief for "${brief.query}": no relevant context in KB.`;
   }
 
@@ -665,6 +674,17 @@ export function renderBriefAsConciseContext(brief: DecisionBrief): string {
     lines.push("Open tensions:");
     for (const t of brief.tensions.slice(0, CONCISE_LIMITS.tensions)) {
       lines.push(`- ${t.title}`);
+    }
+  }
+
+  // Evidence fallback — only when no higher-level artifacts matched.
+  // Signals to the agent that raw insights exist even if nothing has
+  // been compressed yet, preventing a false "empty KB" reply.
+  if (!hasHigherLevel && hasEvidence) {
+    lines.push("");
+    lines.push("Evidence:");
+    for (const e of brief.evidence.slice(0, CONCISE_LIMITS.evidence)) {
+      lines.push(`- ${e.title} (${e.domain}/${e.topic})`);
     }
   }
 
