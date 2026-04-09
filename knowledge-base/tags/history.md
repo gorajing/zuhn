@@ -5,10 +5,10 @@
 - `INS-260327-11AB` The 1910 Flexner Report systematically eliminated natural medicine from medical education to benefit pharmaceutical interests
 - `INS-260330-2B4F` Morgan's two bailouts of the U.S. economy demonstrated that private financiers can fill institutional vacuums, but this concentrates dangerous power in unelected hands.
 - `INS-260330-B559` Germany and Japan chose land conquest over trade to solve food insecurity, and both were destroyed — trade integration consistently outperforms autarky.
+- `INS-260327-CA82` Complex strategic board games existed 4,000+ years ago in Mesopotamia, demonstrating sophisticated mathematical and strategic thinking thousands of years before formal game theory.
 - `INS-260330-BBDA` Modern conservative parties mirror Bolshevism's structure: declaring all institutions rotten and demanding total destruction rather than incremental reform.
 - `INS-260330-1D61` The myth that pre-Columbus Europeans believed in a flat Earth was a modern-era insult repeated until it became accepted fact.
 - `INS-260325-A1BC` The Colosseum (50K capacity) defines our image of Roman entertainment, but the Circus Maximus (250K capacity) was the real center of excitement — it just did not survive.
-- `INS-260327-CA82` Complex strategic board games existed 4,000+ years ago in Mesopotamia, demonstrating sophisticated mathematical and strategic thinking thousands of years before formal game theory.
 - `INS-260404-4666` Studying the embarrassingly rough early work of great creators teaches you to judge your own early efforts more accurately.
 - `INS-260330-9A46` Friedrich Miescher discovered DNA in 1869, but Watson and Crick are household names because they synthesized others' work into a compelling structural model nearly a century later.
 - `INS-260403-DC52` Learn history by reading exciting books on specific topics rather than attempting comprehensive chronological surveys.

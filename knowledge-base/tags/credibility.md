@@ -1,11 +1,11 @@
 # Tag: credibility
 
-- `INS-260327-0D82` The Protocol of Sevres — Britain, France, and Israel's secret plan to stage an Israeli attack as pretext for Suez intervention — was exposed, creating far more damage than an open intervention would have.
-- `INS-260327-50B6` Prussia sent Napoleon an ultimatum demanding withdrawal from Germany without first ensuring Russian forces could arrive in time to help.
-- `INS-260330-BE91` Institutions that abandon their own principles under pressure destroy their credibility far more than the original controversy would have.
 - `INS-260404-5BBF` Be candid about gaps with sophisticated audiences — trying to seem corporate or knowledgeable about things you aren't conceals your actual talent.
 - `INS-260403-37D9` Under time pressure and information asymmetry, an audience's primary evaluation heuristic becomes the presenter's own apparent confidence in their work.
 - `INS-260403-0479` Robert Morris's strategy of never saying anything unless fairly sure of it made him essentially never wrong — not through omniscience but through careful qualification.
+- `INS-260327-0D82` The Protocol of Sevres — Britain, France, and Israel's secret plan to stage an Israeli attack as pretext for Suez intervention — was exposed, creating far more damage than an open intervention would have.
+- `INS-260327-50B6` Prussia sent Napoleon an ultimatum demanding withdrawal from Germany without first ensuring Russian forces could arrive in time to help.
+- `INS-260330-BE91` Institutions that abandon their own principles under pressure destroy their credibility far more than the original controversy would have.
 - `INS-260403-F2BA` When your grassroots supporters actively work against your stated policy positions, the public correctly perceives your stated positions as insincere.
 - `INS-260330-ABBF` Credibility in political discourse requires praising opponents when warranted, not just criticizing allies — a rare and costly signal.
 - `INS-260403-22FE` Explicit claims of passion or quality trigger skepticism filters, while implicit confidence conveyed through demeanor and specifics builds genuine credibility.

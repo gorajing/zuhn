@@ -1,5 +1,5 @@
 # Gap Report
-Generated on 2026-04-08
+Generated on 2026-04-09
 
 ## Coverage Gaps
 - health/biohacking (119 insights) ↔ ai-development/ai-automation (29 insights)

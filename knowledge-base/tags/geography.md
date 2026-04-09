@@ -11,7 +11,7 @@
 - `INS-260404-6D4D` Only 30% of 61 curated fundraising startups were US-based, with Spain, UK, and rest-of-world comprising the majority.
 - `INS-260403-4610` Creandum went Stockholm → San Francisco → Germany → London, using US credibility to unlock European markets.
 - `INS-260403-F8B5` Startup culture is a social phenomenon requiring community expertise, making it fundamentally harder to transplant than industrial technology.
+- `INS-260404-E651` Good people attract good colleagues, so programming talent concentrates in hubs that can flip from one city to another within decades.
 - `INS-260330-FEB0` The Eastern Empire survived 1,000 years longer than the West primarily because it was richer, more urban, more compact, and closer to major trade routes — not because it had better armies.
 - `INS-260403-5BFB` Physical proximity in top tech ecosystems multiplies startup outcomes 3-7X through compounding network density effects.
 - `INS-260405-225B` SF will remain viable but become 'establishment' — the new innovation clusters will be distributed, crypto-friendly, and globally distributed rather than concentrated in a single American city.
-- `INS-260404-E651` Good people attract good colleagues, so programming talent concentrates in hubs that can flip from one city to another within decades.

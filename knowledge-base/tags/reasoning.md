@@ -9,12 +9,12 @@
 - `INS-260322-32E3` Math and formal reasoning are domains where RL-based AI training works especially well, making AI-driven proofs of major unsolved math problems plausible within 5 years.
 - `INS-260327-95D3` OpenAI's IMO gold came from general-purpose techniques for scaling test-time compute, not math-specific engineering.
 - `INS-260321-703F` Instead of 'write me X', ask 'what makes X work well?' then 'what principles apply here?' then 'now do it for my case' — the model reasons before generating instead of pattern-matching to common outputs.
-- `INS-260403-5F41` Prompting 'think step by step: identify the issue, evaluate solutions, then recommend based on cost and feasibility' forces the model to reason rather than pattern-match to an answer.
 - `INS-260327-9BA2` LLMs manipulate language so well that people mistake fluency for intelligence, but they cannot invent or truly reason.
 - `INS-260323-A5EC` LLMs generate one token at a time without planning the full answer first, unlike humans who form an abstract representation of their response before mapping it to language -- this is a fundamental architectural limitation.
+- `INS-260403-5F41` Prompting 'think step by step: identify the issue, evaluate solutions, then recommend based on cost and feasibility' forces the model to reason rather than pattern-match to an answer.
+- `INS-260405-547E` AMI's $1.03B bet is that grounded, causal world models beat next-token scaling for real-world AI.
 - `INS-260328-B19D` Zuckerberg revealed that coding was deprioritized in Llama 2 but became central to Llama 3 after discovering code training makes models more rigorous across all question types.
 - `INS-260403-CDB0` DeepSeek's R1-Zero model learned complex reasoning entirely through reinforcement learning without human data, discovering novel problem-solving approaches.
-- `INS-260405-547E` AMI's $1.03B bet is that grounded, causal world models beat next-token scaling for real-world AI.
 - `INS-260408-C572` Foundation models are world models without the search/reasoning layer AlphaZero had; combining them is the next breakthrough, not bigger pretraining.
 - `INS-260329-DEA1` Data types are the gateway abstraction that teaches programmers to separate representation from operation.
 - `INS-260325-82E8` The Copernican principle works for features unrelated to life (like Neptune) but fails for life-dependent features due to anthropic selection bias.

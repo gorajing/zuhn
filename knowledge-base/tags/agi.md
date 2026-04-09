@@ -10,8 +10,8 @@
 - `INS-260408-A0F5` Hassabis would have preferred CERN-like collaboration on AGI; ChatGPT going viral forced commercial pressure that changed the entire industry's pace.
 - `INS-260403-02E2` Treating AGI arrival as an instant winner-take-all event is faith-based reasoning that substitutes for sound business fundamentals.
 - `INS-260323-D2AA` AI capabilities are 'jagged' -- superhuman at frontend/traditional ML but bad at distributed systems -- making the 'superhuman coder' milestone unreachable as a binary goal.
-- `INS-260322-13D6` AI has already demonstrated creative problem-solving beyond human capability; the remaining human edge is the intrinsic motivation to preserve human flourishing.
 - `INS-260330-C681` AGI requires genuine creative disobedience — choosing unprogrammed goals — which no current AI approach is designed to produce.
+- `INS-260322-13D6` AI has already demonstrated creative problem-solving beyond human capability; the remaining human edge is the intrinsic motivation to preserve human flourishing.
 - `INS-260323-2651` Hotz argues that maximizing compression (cross-entropy) can never reach AGI because it produces 'mid' outputs — competent but never brilliant — and lacks the embodied feedback loops of human learning.
 - `INS-260321-8567` LLMs learn and navigate the manifold created by human-written training data but cannot create new manifolds — the representation breakthroughs that define scientific revolutions.
 - `INS-260403-CDB0` DeepSeek's R1-Zero model learned complex reasoning entirely through reinforcement learning without human data, discovering novel problem-solving approaches.

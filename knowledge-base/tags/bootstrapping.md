@@ -14,8 +14,8 @@
 - `INS-260324-748A` The best haunted houses gross 7+ figures in just 4-6 weekends — but only if you own the land and build everything yourself, because no bank will fund a seasonal attraction.
 - `INS-260330-EBFD` Glycolysis must invest 2 ATP to generate 4 ATP — even biology requires spending resources before earning returns.
 - `INS-260402-3D00` Making the platform useful to hosts even without buyers solves the marketplace cold-start problem.
-- `INS-260322-3259` SiteGPT's $1700-1800 LTV per customer makes even low-conversion organic traffic highly profitable.
 - `INS-260330-B0EB` Ross bootstrapped Silk Road by growing his own mushrooms to be the first product listing, then seeded demand by posing as a customer on forums — solving both sides of the marketplace simultaneously.
+- `INS-260322-3259` SiteGPT's $1700-1800 LTV per customer makes even low-conversion organic traffic highly profitable.
 - `INS-260329-FE15` Ground your first business idea in personal pain, professional expertise, or deep passion rather than abstract market research.
 - `INS-260323-E9E4` Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead.
 - `INS-260403-3F2C` Cuban argues raising money is an obligation, not an achievement — owning more of your company is the only path to outsized wealth.

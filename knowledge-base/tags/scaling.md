@@ -3,7 +3,6 @@
 - `INS-260330-7E4F` Running multiple AI agents in parallel requires cloud development environments because local machines hit physical limits at 3-4 concurrent worktrees.
 - `INS-260325-F981` Month-long agents will need entirely new inference systems — current serving stacks cannot handle persistent execution.
 - `INS-260321-6437` The Department of War achieved 15x AI user growth in 90 days by ruthlessly cutting 14 priority areas to 6 with applied AI as number one, proving that focus acceleration works even in massive bureaucracies.
-- `INS-260403-2138` DeepSeek R1's 671B parameter model uses sparse architecture so full-size reasoning doesn't require activating all parameters.
 - `INS-260403-46DD` Mass surveillance was legally possible but practically infeasible before AI; AI removes the cost/scale constraint that served as the real protection.
 - `INS-260321-BFA3` AI solved 50 Erdős problems which looks amazing, but systematic studies show a 1-2% success rate per problem — scale and selection bias make it look like magic when you only see the wins.
 - `INS-260403-1EFF` Bio Anchors estimated 30% yearly algorithmic progress from easy-task benchmarks, but frontier AI saw 200% yearly gains because harder tasks have more room for improvement.
@@ -13,16 +12,17 @@
 - `INS-260322-1D52` Unlike traditional software where nine women can't have a baby in one month, AI allows companies to throw money and GPUs at problems — meaning leads that took years to build can be closed in months.
 - `INS-260327-CFDC` Robots performing economically useful tasks in the real world will produce training data as a byproduct, creating a data flywheel unavailable from internet scraping.
 - `INS-260327-C4C8` RL went through a trough but is now the key capability multiplier because strong pretrained models finally provide the 'cake' that RL's 'cherries' can sit on top of.
+- `INS-260403-2138` DeepSeek R1's 671B parameter model uses sparse architecture so full-size reasoning doesn't require activating all parameters.
 - `INS-260402-C98A` Cheaper AI produces more value, which drives up the price of AI's best uses, perpetually leaving room for human workers in lower-priority tasks.
 - `INS-260327-C962` Running AI for millions of daily users will consume far more compute than training the models themselves.
 - `INS-260325-4846` Every successful technology follows the same S-curve adoption pattern, and AI is at its steepest inflection.
-- `INS-260404-E077` Neuralink's target of 10K implants/year by 2030 at $40-50K each means BCIs won't meaningfully close the human-AI gap at population scale for years.
 - `INS-260405-A4DB` AI workloads depend on HBM as the data conduit to GPUs, but HBM is harder to manufacture, lower yield, and supply is concentrated in three players.
 - `INS-260405-DA33` DeepSeek's mHC demonstrates that structural improvements to information flow yield real capability gains without added cost.
+- `INS-260404-E077` Neuralink's target of 10K implants/year by 2030 at $40-50K each means BCIs won't meaningfully close the human-AI gap at population scale for years.
+- `INS-260330-F493` Thinking in doubling times rather than absolute numbers enables correct intuition about exponential processes.
 - `INS-260323-4E12` The jump from GPT-3.5 to GPT-4 came from hundreds of small improvements multiplied together across data, training, architecture, and optimization.
 - `INS-260321-8C35` AGI requires weight plasticity (continual learning without catastrophic forgetting) and causal modeling (simulation over correlation) — neither solvable by making models bigger.
 - `INS-260323-3F39` Modern frontier models are essentially GPT-2 with minor tweaks; the real advances are in training methodology, data curation, and post-training.
-- `INS-260330-F493` Thinking in doubling times rather than absolute numbers enables correct intuition about exponential processes.
 - `INS-260328-6C9A` In 2013, Sam Altman left YC to work on nuclear power because 'electricity is everything' — the AI era proved him exactly right.
 - `INS-260327-DCF8` Scaling video diffusion models produces emergent world simulation capabilities including object permanence and physics understanding.
 - `INS-260329-425B` Dynamic arrays double in size when full, making each individual resize expensive but amortizing the cost across all appends to achieve constant time on average.
@@ -37,12 +37,12 @@
 - `INS-260330-DC0D` McDonald's beat competitors by taking a 1.4% revenue cut instead of overpricing supplies, aligning franchisor and franchisee interests.
 - `INS-260330-B771` Serverless platforms like Firebase eliminate the need for Docker, Kubernetes, Terraform, and manual server configuration — removing an entire skill domain from early-stage requirements.
 - `INS-260403-0902` Seek the single elegant bottleneck removal over battalions of special-case optimizations when scaling a system.
+- `INS-260405-13C5` Spending on acquisition before proving unit economics is the most common cash-kill mechanism in SaaS.
 - `INS-260330-E615` McDonald's failed when it adapted menus to local cultures but succeeded spectacularly when it kept the menu intact and hired locals to handle marketing.
 - `INS-260403-2496` Yahoo's hand-curated web directory drowned as the internet scaled, while Google's PageRank handled exponential growth effortlessly.
 - `INS-260329-F33F` Like the woman in the red dress from The Matrix, opportunities become more seductive as you succeed — requiring a stronger 'no' muscle at every level.
 - `INS-260330-45A9` Plants conquered Earth not by making RuBisCo better, but by making more of it — volume strategy beat optimization strategy over evolutionary timescales.
 - `INS-260330-C9C6` PayPal started with 20,000 eBay power sellers, Facebook started with 10,000 Harvard students — markets so small they seemed worthless, but they enabled 25-60% penetration in months before expanding concentrically.
-- `INS-260405-13C5` Spending on acquisition before proving unit economics is the most common cash-kill mechanism in SaaS.
 - `INS-260328-7241` Bad process is like a cancer — a machine that only wants more power and more people, until you have a thousand process people and one guy making bolts.
 - `INS-260329-4870` A singly linked list and doubly linked list both implement the same list interface, but the wrong choice creates invisible O(n) costs that only surface at scale.
 - `INS-260330-A44F` Each power increase was accompanied by proportional safety upgrades: shields, kill switches, stronger mounting — scaling protection with capability.
@@ -58,15 +58,15 @@
 - `INS-260330-CBEF` At 10 users worry about reaching 100, not a million — necessity at each breaking point will force the right architectural decisions.
 - `INS-260330-D0AB` Paul's decision to drop circumcision and Jewish law requirements for converts removed the single biggest friction point and opened Christianity to the entire Roman world.
 - `INS-260403-29AC` First adopters retain 20-30% better than paid users; treat their curve as a benchmark, not a baseline you can maintain.
+- `INS-260329-AF18` Before exploring new growth channels, exhaust 10x potential in your current working channel first.
+- `INS-260403-B18C` Exponential growth comes from stacking multiple self-reinforcing growth loops, not optimizing individual acquisition channels.
+- `INS-260322-70DD` Stop hiring for the business you used to be — at $30-50M revenue you need a CFO not a bookkeeper, and the founder becomes the ceiling when every function must pass through them.
 - `INS-260329-CBF6` Prioritize scaling advertising reach over optimizing conversion rates because reach has no ceiling while optimization maxes out at 100%.
 - `INS-260321-E654` Defense primes' advantage over startups is not inventiveness but production and manufacturing at scale — startups must build factory and quality-testing muscle to cross the procurement chasm.
 - `INS-260329-49A4` LTV-to-CAC ratio (using gross profit, not revenue) determines scaling ceiling — aim for 3:1 minimum, and pour fuel when you see 30:1+.
 - `INS-260322-D57C` When scaling, CEOs cannot just delegate customer-facing work — they must personally demonstrate the brand's standard alongside new employees so sensibility transfers through shared experience.
 - `INS-260404-880A` J&J's $1B+ investment in a 2M sq ft cell therapy facility marks the transition from experimental to industrial-scale advanced therapy manufacturing.
 - `INS-260325-07FA` Just as semiconductors and solar followed Wright's Law cost curves, gene therapy could drop from millions per dose to thousands — enabling treatment of ultra-rare diseases that currently have no economic model.
-- `INS-260329-AF18` Before exploring new growth channels, exhaust 10x potential in your current working channel first.
-- `INS-260403-B18C` Exponential growth comes from stacking multiple self-reinforcing growth loops, not optimizing individual acquisition channels.
-- `INS-260322-70DD` Stop hiring for the business you used to be — at $30-50M revenue you need a CFO not a bookkeeper, and the founder becomes the ceiling when every function must pass through them.
 - `INS-260330-965B` Each of your first 10 hires effectively recruits the next 10 people like themselves, so you're really choosing 100 people.
 - `INS-260403-A136` Startup headcount growth systematically dilutes independent-mindedness because conventional thinkers vastly outnumber independent ones.
 - `INS-260403-A8A3` Second-time founders stop wearing every hat early, hire for trajectory and ownership mindset, and design roles for the company's future shape.
@@ -94,13 +94,6 @@
 - `INS-260330-851F` Aerogel's insulation is extraordinary but too fragile alone; embedding it in fiberglass creates a practical product that can be flexed, cut, and sewn.
 - `INS-260330-6BAF` The Indus Valley used uniformly sized bricks and perpendicular street grids across distant cities, implying sophisticated coordination without visible authoritarian structures.
 - `INS-260405-443C` Sales hires amplify product-led momentum but cannot substitute for it.
-- `INS-260403-5B4E` Doing what's best for users eliminates the cognitive overhead of maintaining consistent strategic narratives across many decisions.
-- `INS-260329-06F2` $100K is harder than $1M because $100K assumes trading hours for wages — $1M forces you to find entirely different tools and leverage.
-- `INS-260329-CB6D` The four types of leverage—labor, capital, code, content—compound multiplicatively, with permissionless forms (code, content) creating the largest fortunes.
-- `INS-260403-DB16` Charity funds the R&D phase; sustainable scale requires transitioning to a model where beneficiaries can pay for the product themselves.
-- `INS-260404-B1AB` RuBisCo is terrible at its job but 40 billion tons of it run the biosphere because early life scaled quantity over quality.
-- `INS-260404-9229` When redesign costs exceed the cost of brute-forcing volume, systems evolve to produce massive quantities of a flawed component rather than fix the flaw — plants maintain 40 billion tons of RuBisCo rather than evolve a better enzyme.
-- `INS-260330-22D6` Ponzi's IRC arbitrage was a real opportunity that couldn't scale, and his refusal to accept this turned a legitimate idea into history's most famous fraud.
 - `INS-260403-8A80` Costco pays $21/hour (2x retail average) and gets 3x the productivity per employee.
 - `INS-260403-DD41` YC broke at 80 startups because partner-startup relationships were O(n²) — sharding into dedicated groups fixed it instantly.
 - `INS-260403-E3E0` Companies like Cursor (20 people, $100M ARR in 21 months) and Midjourney (10 people, $200M ARR in 2 years) prove that AI amplifies small team output by orders of magnitude.
@@ -169,3 +162,10 @@
 - `INS-260403-2ED2` Democratic governance kills venture firm scaling because partners vote to preserve their own power during reorganizations.
 - `INS-260329-F2E1` When something works, scale it by doing more rather than trying to make it better, because more has guaranteed returns while optimization risks breaking what works.
 - `INS-260403-E1EB` Zillow's iBuying shutdown shows that marketplace DNA (software-first) clashes fatally with fintech DNA (financial operations and risk management).
+- `INS-260403-5B4E` Doing what's best for users eliminates the cognitive overhead of maintaining consistent strategic narratives across many decisions.
+- `INS-260329-06F2` $100K is harder than $1M because $100K assumes trading hours for wages — $1M forces you to find entirely different tools and leverage.
+- `INS-260329-CB6D` The four types of leverage—labor, capital, code, content—compound multiplicatively, with permissionless forms (code, content) creating the largest fortunes.
+- `INS-260403-DB16` Charity funds the R&D phase; sustainable scale requires transitioning to a model where beneficiaries can pay for the product themselves.
+- `INS-260404-B1AB` RuBisCo is terrible at its job but 40 billion tons of it run the biosphere because early life scaled quantity over quality.
+- `INS-260404-9229` When redesign costs exceed the cost of brute-forcing volume, systems evolve to produce massive quantities of a flawed component rather than fix the flaw — plants maintain 40 billion tons of RuBisCo rather than evolve a better enzyme.
+- `INS-260330-22D6` Ponzi's IRC arbitrage was a real opportunity that couldn't scale, and his refusal to accept this turned a legitimate idea into history's most famous fraud.

@@ -16,12 +16,12 @@
 - `INS-260405-1982` Treat fundraising as a sprint with a hard end date to minimize distraction and create investor urgency.
 - `INS-260328-3A00` YC's core advantage was being a software company built by someone who loved software and hated hiring people — Standard Capital is replicating this approach for Series A.
 - `INS-260405-54A9` Internal AI agents (HR, knowledge base, competitor intel) deliver faster ROI than customer-facing ones because deployment barriers are lower.
-- `INS-260330-BE23` Do every process manually first to learn which steps and questions actually matter before building software to automate them.
 - `INS-260403-C4CD` RuBisCo's oxygen-confusion creates toxic phosphoglycolate that plants must dedicate entire enzyme pathways to neutralize — a pattern mirrored in any high-throughput system.
-- `INS-260327-CECA` Kisson's restaurant booking app failed because owners bought it but part-time employees who actually used it didn't know it existed.
+- `INS-260330-BE23` Do every process manually first to learn which steps and questions actually matter before building software to automate them.
 - `INS-260404-7C1F` Startup operating systems should prioritize reducing decision friction over covering every edge case.
 - `INS-260329-33D4` Output = Volume × Leverage means improving leverage multiplies all existing effort rather than adding incrementally.
 - `INS-260405-35DF` Meta cut nearly 10% of staff and grew revenue 50%, demonstrating that smaller focused teams outperform larger unfocused ones.
 - `INS-260330-9FCC` In-N-Out's requirement that all ingredients reach stores within a single day's drive from distribution centers caps expansion at ~500 miles per center.
 - `INS-260405-21C7` Webvan expanded to multiple cities before understanding its unit economics, and the fixed cost structure made course correction impossible.
 - `INS-260322-F46F` AI works with data -- if you don't have complete data architecture in place, there's nothing for AI to operate on.
+- `INS-260327-CECA` Kisson's restaurant booking app failed because owners bought it but part-time employees who actually used it didn't know it existed.

@@ -5,17 +5,17 @@
 - `INS-260322-5932` Unlike previous platform shifts (internet, mobile), AI lacks a known theoretical ceiling, making deterministic predictions uniquely unreliable.
 - `INS-260325-9F41` Wharton's Philip Tetlock found expert forecasts were no better than average guesses — nobody predicted the 2020 pandemic, 2021 Ukraine invasion, or 2022's 500bp rate hikes.
 - `INS-260327-D4D8` Markets dropping 12% in Japan then recovering the next day while fingers are pointed at multiple unrelated causes suggests nobody - not traders, not regulators, not economists - truly understands what's happening.
+- `INS-260404-4E1A` Human optimism is fueled by narrative continuity about the future, not by present comfort.
+- `INS-260403-37D9` Under time pressure and information asymmetry, an audience's primary evaluation heuristic becomes the presenter's own apparent confidence in their work.
 - `INS-260327-31B8` At Eylau, a blinding snowstorm caused an entire French corps to march into the Russian center by accident, turning a controlled battle into chaos that negated Napoleon's tactical superiority.
 - `INS-260327-99CE` Money loves certainty - businesses can adapt to bad rules but cannot plan around rules that change weekly.
-- `INS-260404-4E1A` Human optimism is fueled by narrative continuity about the future, not by present comfort.
-- `INS-260403-AEA3` Critics used Bio Anchors' acknowledged uncertainty to conclude 'things are fine and normal' rather than recognizing that uncertainty cuts both ways and timelines could be shorter.
-- `INS-260403-37D9` Under time pressure and information asymmetry, an audience's primary evaluation heuristic becomes the presenter's own apparent confidence in their work.
 - `INS-260403-6EDC` Difficulty choosing between passion and money reveals gaps in self-knowledge and work knowledge, not a genuine tie between options.
 - `INS-260330-3B05` Kissing, curiosity, and exploration all share an evolutionary root: organisms that convert uncertainty into knowledge make better decisions and outcompete those that don't.
 - `INS-260404-1D05` Nostalgia is a psychological refuge from an illegible future, not a rational assessment of the past.
 - `INS-260403-803A` When unsure what to do, choose options that keep the most future doors open rather than optimizing for any single outcome.
 - `INS-260405-7DD7` When you can't predict who matters, you must treat everyone as if they matter — which only genuinely good people can sustain.
 - `INS-260403-E554` Top VCs make decisions by thinking in probabilities and leaning into uncertainty rather than relying on gut instinct.
+- `INS-260403-AEA3` Critics used Bio Anchors' acknowledged uncertainty to conclude 'things are fine and normal' rather than recognizing that uncertainty cuts both ways and timelines could be shorter.
 - `INS-260403-EB56` Instead of trying to predict where change will come from, be aggressively open-minded and maximize sensitivity to change signals from any direction.
 - `INS-260330-E982` Maximize expected information per action rather than chasing high-reward but unlikely outcomes.
 - `INS-260330-420B` Three competing theories for the Indus Valley's decline each tell a confident story from the same absence of evidence, revealing how humans handle epistemic gaps.
@@ -26,9 +26,9 @@
 - `INS-260330-09A2` Fisher's 1955 puppy experiment showed that random alternation between kindness and punishment produced the strongest attachment — stronger than consistent kindness alone.
 - `INS-260403-8450` Nvidia's $20B Groq deal was not about buying growth but about preventing the fragmentation of buyer choice that would weaken long-term leverage.
 - `INS-260403-5710` Ever-shifting tariff regimes — imposing, exempting, reimposing under different authorities — make long-term business planning impossible, which suppresses investment independent of tariff levels.
-- `INS-260403-9173` Media and founder narratives make early-stage success look inevitable, hiding the razor-thin margins that actually determined survival.
 - `INS-260402-F5E0` Break vague reluctance into specific fears to discover most are unfounded.
 - `INS-260405-2CDB` The urge to perfect before testing is driven by fear of invalidation, not by logic.
+- `INS-260403-9173` Media and founder narratives make early-stage success look inevitable, hiding the razor-thin margins that actually determined survival.
 - `INS-260328-C12D` Enterprise AI buying is real and fast, but predicting which products will endure is like picking winners in early mobile — nobody knows yet.
 - `INS-260322-1A20` In high-uncertainty environments, executing quickly to gather real information beats prolonged analysis.
 - `INS-260328-D775` MBA programs were trade schools for middle managers at GM — that rule-following mindset is the exact opposite of what startups require.

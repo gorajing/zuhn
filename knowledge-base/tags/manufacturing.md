@@ -3,10 +3,10 @@
 - `INS-260403-107E` Japanese manufacturers hold 70% of global industrial robot market share because high-reliability components require decades of accumulated tacit manufacturing knowledge that cannot be shortcut.
 - `INS-260322-0CE3` Korea's surviving manufacturing workforce can generate proprietary physical AI training data that no other country can replicate.
 - `INS-260325-76BD` Nuclear weapon technology has barely improved since the 1960s and even North Korea can build one — but cutting-edge chips require such extreme precision that only 3 companies worldwide can manufacture them.
+- `INS-260405-F05B` Structured environments like factory floors let humanoid robots learn fast and fail cheaply before tackling complex unstructured domains.
 - `INS-260327-0875` A robot that can build copies of itself from its own parts enables exponential manufacturing capacity - exactly how ribosomes build elephants one molecule at a time.
 - `INS-260404-4F1B` Solar's 99.9% cost decline since 1975 demonstrates how manufacturing learning curves create inevitable cost dominance over extraction-based competitors.
 - `INS-260405-24F0` Britain's relative manufacturing share predicted its WWI dependency on America decades before the war; today's US-China manufacturing gap signals a similar structural shift.
-- `INS-260405-F05B` Structured environments like factory floors let humanoid robots learn fast and fail cheaply before tackling complex unstructured domains.
 - `INS-260330-BBCF` Since China's 2001 WTO entry, manufacturing value-added flipped from US at 2x China to China at 2x US — a structural shift in hard power.
 - `INS-260404-57D0` China controls 80-95% of global solar manufacturing across polysilicon, wafers, cells, and modules with no near-term Western alternative.
 - `INS-260403-33BF` Japan's forced remilitarization could paradoxically end its economic stagnation by funding bold R&D, reviving manufacturing, and attracting foreign investment.

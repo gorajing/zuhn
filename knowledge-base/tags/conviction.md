@@ -2,14 +2,14 @@
 
 - `INS-260323-3F11` The Cursor founders saw the 2020 scaling laws papers as predictable progress, but early GPT-4 access in late 2022 made the theoretical gains concrete enough to bet their careers.
 - `INS-260327-F95F` When you can send Claude Code a TechCrunch article and get a working clone in an hour, the temptation to constantly pivot becomes almost irresistible — and that's exactly how startups die.
+- `INS-260322-06EA` Every round of Facebook, Stripe, and similar companies was called 'insane' by consensus — Yuri Milner invested at $5B because he'd run a social network and could do math others couldn't.
+- `INS-260330-B1A3` Masa Son's explicit 50-year plan — build in 20s, accumulate in 30s, deploy in 40s, consolidate in 50s, hand off after 60 — gave him a framework to absorb $70B losses without changing course.
+- `INS-260403-A739` Karp maintained contrarian positions for 20 years while being called a failure, and that tolerance for ostracism was itself a competitive advantage.
 - `INS-260403-2E2C` Chamath's ~$62M concentrated bet on Groq from 2017 likely returned low single-digit billions, illustrating that outsized returns require tolerating long periods where being right feels indistinguishable from being wrong.
 - `INS-260405-5514` Onfido's acquisition delivered a reported 320x return to its first backer, demonstrating that early conviction in infrastructure fintech compounds dramatically regardless of how the exit occurs.
 - `INS-260403-DFA2` Sequoia found that deals everyone mildly liked underperformed deals that triggered strong conviction even with disagreement, so they eliminated middle-score options.
 - `INS-260403-735E` Only one-third of an experienced angel's top performers were rated high-conviction at investment time.
 - `INS-260403-30A5` The best VC entry point is when most risk is resolved but most investors still hesitate.
-- `INS-260322-06EA` Every round of Facebook, Stripe, and similar companies was called 'insane' by consensus — Yuri Milner invested at $5B because he'd run a social network and could do math others couldn't.
-- `INS-260330-B1A3` Masa Son's explicit 50-year plan — build in 20s, accumulate in 30s, deploy in 40s, consolidate in 50s, hand off after 60 — gave him a framework to absorb $70B losses without changing course.
-- `INS-260403-A739` Karp maintained contrarian positions for 20 years while being called a failure, and that tolerance for ostracism was itself a competitive advantage.
 - `INS-260403-6E11` The school habit of stretching limited ideas to fill required page counts trains people to communicate without conviction, which investors and other sophisticated audiences immediately detect.
 - `INS-260322-A928` You can only do your best work if you are doing what you want to do, the way you think it should be done, and you can take pride in it after.
 - `INS-260403-E7E1` When everyone has the team and the tech, the scarce resource is a strong enough point of view on what should exist.
@@ -29,5 +29,5 @@
 - `INS-260329-2B04` Deep conviction in what you sell transfers more powerfully than any closing technique because prospects can sense authenticity and it makes the seller immune to rejection streaks.
 - `INS-260329-EF96` True conviction that the product helps people creates involuntary tonal authority that prospects detect and respond to, independent of the words spoken.
 - `INS-260327-5688` Sales is 80% the conviction of your voice and energy when discussing your product -- people buy your eyes, your passion, and your belief before they buy features.
-- `INS-260405-6317` AMI's $1.03B seed — Europe's largest ever — shows sophisticated investors concentrating capital at inception when the paradigm bet is clear.
 - `INS-260329-A80B` Selecting for genuine product conviction when hiring salespeople creates a team whose unconscious enthusiasm closes deals that technique alone cannot.
+- `INS-260405-6317` AMI's $1.03B seed — Europe's largest ever — shows sophisticated investors concentrating capital at inception when the paradigm bet is clear.

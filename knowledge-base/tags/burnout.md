@@ -22,5 +22,5 @@
 - `INS-260330-EF51` The only escape from hero mode is accepting a temporary dip in performance to invest in hiring and delegation.
 - `INS-260330-625B` Hero mode — working 18+ hour days to lead by example — prevents managers from stepping back to hire, creating an escalating trap that ends in burnout.
 - `INS-260403-2833` Stanford research shows output per hour collapses past 50 hours, with zero marginal gain after 55.
-- `INS-260403-2F28` Large-scale 4-day workweek trials show 40% productivity jumps and 67% lower burnout with no pay cuts.
 - `INS-260403-AA20` The 996 grind culture trades short-term velocity for compounding burnout costs that destroy long-term startup viability.
+- `INS-260403-2F28` Large-scale 4-day workweek trials show 40% productivity jumps and 67% lower burnout with no pay cuts.

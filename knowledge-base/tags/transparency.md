@@ -1,8 +1,8 @@
 # Tag: transparency
 
-- `INS-260405-966C` Public outcome data enables bias audits that institutions cannot suppress.
 - `INS-260403-E332` Ubiquitous video plus independent analysis creates near real-time falsification of institutional narratives.
 - `INS-260403-6602` Attack the wealth-to-power conversion through radical transparency rather than attacking wealth itself, which has destructive side effects on innovation.
+- `INS-260405-966C` Public outcome data enables bias audits that institutions cannot suppress.
 - `INS-260330-78B8` Flagging your own simplifications as 'kind of a lie, but in the direction of truth' builds credibility and primes learners for the real version.
 - `INS-260330-242D` Domino's ran ads showing real focus group footage calling their crust 'cardboard,' admitted the criticism was deserved, then documented their complete recipe overhaul — generating a billion media impressions and 4,000% stock growth over the next decade.
 - `INS-260327-ECDA` When the world changes, change the plan—and be transparent about it with investors, board, and employees.

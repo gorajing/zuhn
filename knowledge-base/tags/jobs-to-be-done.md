@@ -4,8 +4,8 @@
 - `INS-260403-A17D` Every successful newsletter can be described by the specific job it does for its reader.
 - `INS-260321-2F09` Many AI founders fail because they build impressive demos that don't solve real painful jobs — if nobody asks about pricing, you don't have product-market fit.
 - `INS-260403-EF20` BioCity transformed their messaging from technical jargon about robotic compound retrieval to emotionally resonant language about control and budget maximization.
-- `INS-260402-C883` Wrapping commodity products in services that solve the full customer job transforms price-sensitive transactions into sticky relationships.
 - `INS-260405-95D1` Removing friction meets the baseline; gains require going beyond what customers already expect.
+- `INS-260402-C883` Wrapping commodity products in services that solve the full customer job transforms price-sensitive transactions into sticky relationships.
 - `INS-260403-3F12` AI coaches that ask structured questions help teams articulate what they already know and pinpoint what they still need to learn about customers.
 - `INS-260405-EE92` Use card sorting with real customers to rank their jobs and pains before designing any solution.
 - `INS-260403-08E6` Empathy maps that capture what customers think, feel, see, hear, say, and do reveal unarticulated needs that direct questioning misses.

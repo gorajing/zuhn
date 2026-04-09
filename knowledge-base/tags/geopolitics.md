@@ -11,9 +11,6 @@
 - `INS-260322-AFE9` AI application to specific industries has no proven playbook anywhere in the world, making benchmarking-based strategy obsolete.
 - `INS-260404-83C6` DeepSeek proved frontier AI can emerge from a hedge fund side project in China, not just from billion-dollar Western labs.
 - `INS-260405-24F0` Britain's relative manufacturing share predicted its WWI dependency on America decades before the war; today's US-China manufacturing gap signals a similar structural shift.
-- `INS-260405-ADCE` US and China are pursuing humanoid robotics through different incentive structures and deployment contexts, making a single global market unlikely.
-- `INS-260404-841B` NATO launched an innovation fund at its summit, merging venture capital with defense and political cooperation goals.
-- `INS-260405-5020` Top VC backing of defense tech functions as a legitimacy signal that unlocks talent and downstream capital.
 - `INS-260403-583B` China's threats against Japan over Taiwan defense declarations backfired by unifying Japanese society and pushing South Korea into closer partnership with Japan.
 - `INS-260402-F833` The U.S. leads in advanced chips while China leads in energy production — whoever integrates both first wins the AI race.
 - `INS-260403-1462` Defense-industrial catch-up requires allied co-manufacturing because domestic reshoring timelines are too slow against urgent threats.
@@ -80,6 +77,9 @@
 - `INS-260321-D4D0` The Iran operation isn't about religion or revenge — it's about clearing the physical obstacle blocking a logistics highway. International politics is leaders playing Go with a map; military power, resource control, and money are stronger than ideology.
 - `INS-260405-BBC9` The most compelling recent evidence for a trend is often a leading indicator of its reversal, not its continuation.
 - `INS-260403-F653` Stories we tell about competitors often reveal what we wish we were, not what they actually are.
+- `INS-260405-ADCE` US and China are pursuing humanoid robotics through different incentive structures and deployment contexts, making a single global market unlikely.
+- `INS-260404-841B` NATO launched an innovation fund at its summit, merging venture capital with defense and political cooperation goals.
+- `INS-260405-5020` Top VC backing of defense tech functions as a legitimacy signal that unlocks talent and downstream capital.
 - `INS-260403-69C3` National security framing activates fear circuits that override the capacity for nuanced policy engagement.
 - `INS-260324-C1B8` In firearms, the US government decides which foreign manufacturers can sell to American civilians — the logic is political, not economic, with NATO allies allowed and adversaries blocked.
 - `INS-260403-90A0` China's rare earth export tightening and Western chip seizures are forcing companies to vertically integrate within their geopolitical bloc or risk existential supply disruption.

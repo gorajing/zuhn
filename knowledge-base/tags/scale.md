@@ -5,20 +5,20 @@
 - `INS-260405-C497` RuBisCo is wrong about half the time in oxygen-rich conditions, yet plants compensate by making it the most abundant protein on Earth — roughly 40 billion tons — making photosynthesis viable despite terrible per-reaction accuracy.
 - `INS-260325-5B7F` Standards enabled computing at scale by allowing workers who didn't understand the underlying science to reliably execute their piece of a complex calculation.
 - `INS-260325-0C45` The scale cannot tell fat from water or muscle — body measurements, clothing fit, and energy levels are better progress indicators.
-- `INS-260323-527B` Smifter's video uses a ladder of progressively larger scale comparisons — Earth, Moon distance, Alpha Centauri, solar system, observable universe — to make incomprehensible numbers emotionally tangible.
 - `INS-260404-EDEC` The 1987 supernova neutrino arrival simultaneously with light over tens of thousands of light-years outweighed the OPERA result over 454 miles.
 - `INS-260330-814E` WWII's unprecedented destruction came not from unprecedented hatred but from unprecedented industrial capacity to act on ordinary human impulses at scale.
-- `INS-260330-4711` A field goal kicked due north drifts measurably sideways from Earth's rotation, proving invisible forces produce real effects even at everyday scales.
 - `INS-260325-96FB` Common sense works perfectly within its calibrated range and fails predictably outside it.
 - `INS-260330-CBFD` Saying 'if this sphere were Earth, the tallest mountain to deepest valley would be 14 meters' makes nanometer-level roundness instantly comprehensible.
+- `INS-260330-4711` A field goal kicked due north drifts measurably sideways from Earth's rotation, proving invisible forces produce real effects even at everyday scales.
+- `INS-260323-527B` Smifter's video uses a ladder of progressively larger scale comparisons — Earth, Moon distance, Alpha Centauri, solar system, observable universe — to make incomprehensible numbers emotionally tangible.
 - `INS-260330-E4B6` Morgan's 'morganization' strategy turned fragmented railroads into profitable monopolies by merging competitors rather than outcompeting them.
 - `INS-260330-39B0` Photosynthesis is explicitly inefficient and complicated, yet it powered the organism that became the dominant life form on Earth by being first and scaling massively.
 - `INS-260326-1CB1` Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260330-ED9D` Plants compensate for RuBisCo's ~50% failure rate by producing 40 billion tons of it — brute-force quantity as a strategy works when unit cost is low enough.
 - `INS-260405-8B89` RuBisCo is slow, makes errors half the time in modern atmospheres, and produces toxic waste—yet plants compensate by making it the single most abundant protein on Earth (estimated 40 billion tons), making it the dominant carbon-fixing mechanism on the planet by sheer volume.
 - `INS-260404-68EE` 78% of public software companies above $5B market cap are multi-product, making it effectively mandatory for outsized outcomes.
+- `INS-260405-3CC7` Rare edge cases become common failures at scale, creating novel downstream problems no amount of upfront architecture prevents.
+- `INS-260405-9DB6` Plants respond to RuBisCo's 50% error rate not by evolving a better enzyme but by producing 40 billion tons of it — making raw abundance the substitute for precision.
 - `INS-260404-16B0` RuBisCo is a terrible enzyme that won the planet by being produced in enormous quantities — 40 billion tons — rather than by being good at its job.
 - `INS-260405-0806` RuBisCo makes errors ~50% of the time yet dominates because plants produce 40 billion tons of it — volume compensated for quality and the strategy locked in permanently.
 - `INS-260330-4489` RuBisCo is terrible at its job but plants produce 40 billion tons of it rather than evolving a better enzyme — a biological case study in scale-over-quality lock-in.
-- `INS-260405-3CC7` Rare edge cases become common failures at scale, creating novel downstream problems no amount of upfront architecture prevents.
-- `INS-260405-9DB6` Plants respond to RuBisCo's 50% error rate not by evolving a better enzyme but by producing 40 billion tons of it — making raw abundance the substitute for precision.

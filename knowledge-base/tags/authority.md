@@ -1,9 +1,9 @@
 # Tag: authority
 
+- `INS-260403-AE5B` In leadership communication, fewer words carry more weight because they signal resolved thinking.
 - `INS-260323-11FF` Chinese deference to authority is a thousands-year-old implicit contract — stability, security, and prosperity in exchange for some deference — not the blind submission Western observers assume.
 - `INS-260327-2021` In a world changing faster than experience can adapt to, age is no longer a reliable proxy for wisdom - accumulated experience can be accumulated irrelevance.
 - `INS-260330-D5DD` Placebos may work because the brain evolved to maintain distress signals until help arrives — external authority cues grant 'permission' to switch from help-seeking to healing mode.
-- `INS-260403-AE5B` In leadership communication, fewer words carry more weight because they signal resolved thinking.
 - `INS-260404-0570` You must develop your own quality judgments because institutional gatekeepers' incentives often diverge from honest evaluation.
 - `INS-260403-2F4D` People instinctively defer to established organizers, creating a coordination trap that requires explicit, public handoff ceremonies to break.
 - `INS-260330-1293` North Korea maintains stability by selectively tolerating illegal capitalism rather than cracking down uniformly, turning potential dissidents into co-opted participants.

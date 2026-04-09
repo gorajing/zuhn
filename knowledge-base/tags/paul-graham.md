@@ -1,12 +1,12 @@
 # Tag: paul-graham
 
 - `INS-260404-EEAF` Most fortunes are destroyed by bad investments rather than extravagant spending because investments bypass our innate alarms about self-indulgence.
-- `INS-260403-5843` Acquirers behave like Benjamin Graham's Mr. Market — manic-depressive cycles of overpaying and ignoring, averaging out only over multi-year windows.
 - `INS-260403-0907` Ideas form when trained mental habits involuntarily fire on random inputs—like doodling with concepts—which is why domain expertise is a prerequisite for generating novel ideas.
 - `INS-260330-F737` Schlep blindness causes founders to unconsciously avoid ideas involving tedious operational work, systematically hiding the highest-value opportunities.
 - `INS-260403-87AC` In technology, revenue growth can continue long after a company has lost its ability to create new things, as Microsoft demonstrated post-2000.
 - `INS-260405-7BA5` Every ambitious project looks bad early — the problem is not the work, it's the absence of calibrated judgment for unfinished things.
 - `INS-260404-D547` Fake work — activity that looks like work but produces nothing — is more dangerous than leisure because it doesn't trigger the guilt alarms that would prompt you to stop.
+- `INS-260403-5843` Acquirers behave like Benjamin Graham's Mr. Market — manic-depressive cycles of overpaying and ignoring, averaging out only over multi-year windows.
 - `INS-260404-616F` Default to spoken language in writing—if you wouldn't say it to a friend, rewrite it.
 - `INS-260403-0FEC` Public company acquisitions function as pooled-risk management services for founders seeking freedom and security.
 - `INS-260330-923F` A crowded market is a positive signal — it proves demand exists and no solution is good enough — while competitor-free markets are a red flag.

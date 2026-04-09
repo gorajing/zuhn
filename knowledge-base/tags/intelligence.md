@@ -1,10 +1,10 @@
 # Tag: intelligence
 
 - `INS-260405-CCB4` AI development offers an empirical path to proving which cognitive principles are prerequisites for intelligence rather than contingent human conventions.
-- `INS-260323-0961` Humans conflate intelligence with consciousness because they co-evolved in us, but AI demonstrates that high intelligence can exist with zero consciousness, and consciousness may be far more valuable than intelligence.
 - `INS-260403-B8AA` Neuroscience research suggests language modeling captures communication patterns but not the underlying cognitive processes that produce genuine reasoning.
-- `INS-260327-EDBA` Paul Revere's ride was possible because the colonial intelligence network (supported by the entire sympathetic population) tracked every British movement while the British had no intelligence on colonial preparations.
+- `INS-260323-0961` Humans conflate intelligence with consciousness because they co-evolved in us, but AI demonstrates that high intelligence can exist with zero consciousness, and consciousness may be far more valuable than intelligence.
 - `INS-260405-2021` Musk's 'Hitchhiker's Guide' framing — the answer is 42, but we don't know the question — reframes progress as a problem of question quality, not answer capacity.
+- `INS-260327-EDBA` Paul Revere's ride was possible because the colonial intelligence network (supported by the entire sympathetic population) tracked every British movement while the British had no intelligence on colonial preparations.
 - `INS-260403-34C0` Schools optimize for intelligence because it's measurable, creating a lifelong illusion that intelligence is the destination rather than a means to an end.
 - `INS-260330-4634` Dinosaurs dominated for 300 million years without developing intelligence, and without their extinction asteroid, mammals would still be rodents — proving intelligence is not evolution's inevitable destination.
 - `INS-260403-A4CF` Being smart is a prerequisite for new ideas but the two are far from identical, and most smart people produce nothing original.

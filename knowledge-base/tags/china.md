@@ -8,8 +8,6 @@
 - `INS-260327-422B` Two dynamics run simultaneously: model intelligence cost drops ~4X/year while total spending rises ~10X/year — DeepSeek sat perfectly on the cost reduction curve, but being the first Chinese company at frontier capability is genuinely concerning.
 - `INS-260404-83C6` DeepSeek proved frontier AI can emerge from a hedge fund side project in China, not just from billion-dollar Western labs.
 - `INS-260405-B6CB` China's post-2008 infrastructure investment produced not just recovery but a transportation, energy, and digital backbone that now underpins its manufacturing dominance.
-- `INS-260405-484F` Clawback mechanisms that reach founders' personal assets convert entrepreneurship from bounded-downside to unlimited-downside, chilling risk-taking.
-- `INS-260405-ADCE` US and China are pursuing humanoid robotics through different incentive structures and deployment contexts, making a single global market unlikely.
 - `INS-260403-583B` China's threats against Japan over Taiwan defense declarations backfired by unifying Japanese society and pushing South Korea into closer partnership with Japan.
 - `INS-260402-F833` The U.S. leads in advanced chips while China leads in energy production — whoever integrates both first wins the AI race.
 - `INS-260405-59AB` Autocrats tend to become more paranoid and destructive over time, turning concentrated power into a systemic liability.
@@ -59,6 +57,8 @@
 - `INS-260403-1F97` Russian crude sellers are again requesting yuan payment from Indian refiners, driven by sanctions pressure rather than ideological de-dollarization.
 - `INS-260403-CF46` Most China analyses reach contradictory conclusions (China will dominate vs. China has peaked) because they cherry-pick output metrics instead of examining the underlying systems that produce those outputs.
 - `INS-260403-49FF` Page and Brin overruled Schmidt on China because values conflicts are founder-domain decisions that operators are structurally unable to make.
+- `INS-260405-484F` Clawback mechanisms that reach founders' personal assets convert entrepreneurship from bounded-downside to unlimited-downside, chilling risk-taking.
+- `INS-260405-ADCE` US and China are pursuing humanoid robotics through different incentive structures and deployment contexts, making a single global market unlikely.
 - `INS-260330-B4BD` Two generations of one-child families made small families the cultural norm in China, rendering policy reversal largely ineffective.
 - `INS-260403-69C3` National security framing activates fear circuits that override the capacity for nuanced policy engagement.
 - `INS-260325-C5FD` American automakers take 6 years to ship a new model; Chinese competitors do it in 18 months — with 50 major EV makers competing fiercely, iteration speed IS the innovation.

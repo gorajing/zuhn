@@ -7,10 +7,10 @@
 - `INS-260321-86E7` As AI-generated articles surpass human-written ones and AI slop floods social media, audiences will increasingly seek out authentic creators with long-term trusted brands.
 - `INS-260403-7B3B` AI influencer agencies eliminate talent management costs while capturing the full revenue stream that traditionally splits between creator and agency.
 - `INS-260403-E63B` Lenny had no plan for the newsletter but weekly consistency for 18 months made the path obvious.
-- `INS-260403-D4D4` Lenny called his 2,500-member private Slack community one of his proudest achievements, distinct from the newsletter itself.
 - `INS-260403-32BA` Creators are increasingly launching product lines, brands, and software companies rather than relying solely on content monetization.
 - `INS-260404-2F57` Substack achieves meaningful creator ownership — portable subscriber lists, direct payment relationships — without any blockchain infrastructure, because the layer that matters is the relationship, not the protocol.
 - `INS-260404-DF95` Payment friction acts as a quality filter that ad-supported models lack, because people won't pay for content they only rage-engage with.
+- `INS-260403-D4D4` Lenny called his 2,500-member private Slack community one of his proudest achievements, distinct from the newsletter itself.
 - `INS-260330-B885` Rogan gained 2 million subscribers during his cancellation attempt because the coordinated media attack inadvertently proved his independence from institutional control.
 - `INS-260403-CBED` Creators are replacing traditional media as the primary channel through which consumer opinions, purchase decisions, and product discovery flow.
 - `INS-260329-13D2` Higher production value and format evolution to reach more people is justified as long as the core message stays intact — the audience trains you through engagement signals.
@@ -26,7 +26,7 @@
 - `INS-260320-446F` Hire content creators directly (Gmail in bio, 5-10K followers) — if their email is at an agency, the arbitrage is already gone.
 - `INS-260403-8FC1` The creator economy startup field is shrinking but surviving companies are in a healthier competitive position than during the boom.
 - `INS-260405-1F65` Independent creators on YouTube, podcasts, and Substack now produce the most rigorous public intellectual discourse, displacing universities and legacy media.
+- `INS-260403-4D1E` Lenny's 1M-subscriber business runs with zero full-time employees, using specialized freelancers for editing, production, and community management.
 - `INS-260403-4C4E` As the music industry's distribution monopoly collapsed, musicians who learned business strategy gained control over their brand, customers, and revenue.
 - `INS-260403-6E76` The erosion of gatekeepers is pulling ambitious people away from test-hacking careers toward fields where genuine quality wins.
 - `INS-260329-6B2C` Follow multiple educators' free content for seven days — whoever delivers the most tactical value for free likely has the best paid offering, minimizing purchase risk.
-- `INS-260403-4D1E` Lenny's 1M-subscriber business runs with zero full-time employees, using specialized freelancers for editing, production, and community management.

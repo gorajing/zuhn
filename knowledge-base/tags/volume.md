@@ -10,8 +10,8 @@
 - `INS-260329-D062` Do more of what works, then optimize it, then try new things — in that strict order.
 - `INS-260405-8B89` RuBisCo is slow, makes errors half the time in modern atmospheres, and produces toxic waste—yet plants compensate by making it the single most abundant protein on Earth (estimated 40 billion tons), making it the dominant carbon-fixing mechanism on the planet by sheer volume.
 - `INS-260327-4E28` With typical B2B conversion rates (50% open, 10% reply, 25% to demo, 10% to customer), you need approximately 800 cold emails per customer -- plan for 50+ emails per day.
-- `INS-260322-0AA6` Getting volume levels right first makes every subsequent mixing decision (EQ, compression, spatial) easier and more effective.
 - `INS-260330-2F74` RuBisCo is terrible at its job but there are 40 billion tons of it on Earth — brute-force quantity as the scaling strategy when unit quality can't improve.
 - `INS-260330-8BF6` Plants produce 40 billion tons of a bad enzyme rather than evolving a better one — volume compensates for quality at sufficient scale.
 - `INS-260330-EB1B` Early organisms compensated for RuBisCo's poor performance by producing enormous quantities of it — a strategy that dominated Earth but left no room for optimization.
 - `INS-260329-F2E1` When something works, scale it by doing more rather than trying to make it better, because more has guaranteed returns while optimization risks breaking what works.
+- `INS-260322-0AA6` Getting volume levels right first makes every subsequent mixing decision (EQ, compression, spatial) easier and more effective.

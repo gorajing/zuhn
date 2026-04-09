@@ -3,10 +3,11 @@
 - `INS-260405-89E7` MiniMax hires for first-principles thinking across all backgrounds because AI handles execution — the scarce skill is knowing which questions to ask.
 - `INS-260322-116B` When AI can perform any technical task, employers hire for trustworthiness and genuine care — the qualities visible in someone's eyes, not their resume.
 - `INS-260322-82E8` Senior executives are professional interviewers — get signal from their 360 reviews at previous companies and do enough references until answers converge.
-- `INS-260402-225A` Failed startups disproportionately cite cofounder character flaws over skill gaps as the root cause.
 - `INS-260404-4127` Give a founder one sentence of advice and observe whether they chase down all its implications — this tests general resourcefulness, not just communication skill.
+- `INS-260402-225A` Failed startups disproportionately cite cofounder character flaws over skill gaps as the root cause.
 - `INS-260405-EE74` Growth-stage companies pay a premium for reliability because delays cost more than overpaying.
 - `INS-260330-2200` GitHub stars and green squares measure visibility and gaming, not engineering skill.
+- `INS-260323-0C3A` Confidence is necessary to start a business, but owners who think they can do it all and know it all fail at much higher rates than those who hire or retain experts in their blind spots.
 - `INS-260403-3835` Startups peak in productivity when founders are uninterrupted, and hiring can destroy this by imposing an interrupt-driven culture.
 - `INS-260326-7B2A` If you can't hire someone smarter than you, do the work yourself — early hires set the talent bar that attracts or repels all future candidates.
 - `INS-260330-258F` Quick, direct, face-to-face termination with immediate access revocation is the professional standard — procrastination lets toxic employees drive away good ones.
@@ -14,7 +15,6 @@
 - `INS-260330-636E` Ponzi's scheme collapsed when he hired honest publicist William McMasters, who gained access to records and exposed the fraud to the Boston Post.
 - `INS-260405-202B` Costco pays double the U.S. retail average and reports employees three times more productive, suggesting the productivity gain exceeds the wage cost.
 - `INS-260403-8C2D` Delaying two hires by one quarter can extend runway by 3.5 months — scenario modeling makes these tradeoffs visible before they become consequences.
-- `INS-260323-0C3A` Confidence is necessary to start a business, but owners who think they can do it all and know it all fail at much higher rates than those who hire or retain experts in their blind spots.
 - `INS-260322-70DD` Stop hiring for the business you used to be — at $30-50M revenue you need a CFO not a bookkeeper, and the founder becomes the ceiling when every function must pass through them.
 - `INS-260403-5788` Before joining a company as a designer, ask founders for their personal story about why they believe in design — if they don't have one, design will always be an afterthought.
 - `INS-260330-1B37` Airbnb spent 5 months hiring their first employee and only hired two people in year one because early hire quality is existential.

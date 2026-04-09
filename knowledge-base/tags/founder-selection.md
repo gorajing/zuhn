@@ -1,7 +1,7 @@
 # Tag: founder-selection
 
-- `INS-260403-AAC8` Harry Stebbings missed $400M+ in gains on Deel and Vanta by letting market concerns override his conviction in generational founders, permanently changing his investment framework.
 - `INS-260403-FE8D` Stebbings observes that 90% of great founders show entrepreneurial behavior before age 13, and that gaming clan leadership is more predictive of startup success than college prestige.
+- `INS-260403-AAC8` Harry Stebbings missed $400M+ in gains on Deel and Vanta by letting market concerns override his conviction in generational founders, permanently changing his investment framework.
 - `INS-260403-E497` Screening for character at entry creates compounding returns through the quality of the network that forms around your organization.
 - `INS-260403-B2EB` YC funded Steve and Alexis despite rejecting their idea, then steered them to Reddit — proving founder quality matters more than initial pitch.
 - `INS-260404-D6F7` As AI makes coding more accessible, YC's edge in picking technical founders diminishes because engineering skill becomes less of a differentiator.

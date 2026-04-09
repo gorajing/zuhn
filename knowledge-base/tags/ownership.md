@@ -1,12 +1,12 @@
 # Tag: ownership
 
 - `INS-260403-9D7C` Most equity tokens today provide financial exposure via SPV structures rather than direct share ownership, creating ambiguity around liquidation priority, voting rights, and conversion terms.
-- `INS-260403-032B` Larger fund sizes create a structural math problem where required ownership of winners becomes impossible, favoring smaller disciplined funds.
-- `INS-260403-2241` Small funds win by owning more of fewer outliers rather than spreading thin across large portfolios.
-- `INS-260405-7FFC` Smaller funds beat giants by maintaining agility, concentrated ownership, and disciplined focus rather than deploying at scale.
 - `INS-260322-2647` Companies with broad retail investor bases trade at higher multiples and benefit from organic brand defense because owners have skin in the game.
 - `INS-260403-4CE2` Perceived laziness in young people often reflects unappetizing work, not lack of drive — ownership unlocks latent intensity.
 - `INS-260404-B6B1` Taking full responsibility during a crisis isn't just virtuous — it functionally increases survival odds by keeping the founder in problem-solving mode rather than blame mode.
+- `INS-260403-032B` Larger fund sizes create a structural math problem where required ownership of winners becomes impossible, favoring smaller disciplined funds.
+- `INS-260403-2241` Small funds win by owning more of fewer outliers rather than spreading thin across large portfolios.
+- `INS-260405-7FFC` Smaller funds beat giants by maintaining agility, concentrated ownership, and disciplined focus rather than deploying at scale.
 - `INS-260329-C472` Whatever you cast blame to is where you also cast power — blaming your mom, the economy, or politics makes those things your master.
 - `INS-260404-2F57` Substack achieves meaningful creator ownership — portable subscriber lists, direct payment relationships — without any blockchain infrastructure, because the layer that matters is the relationship, not the protocol.
 - `INS-260403-9BEF` Incumbents resist portable digital ownership because lock-in benefits them, creating an opening for startups to differentiate by giving users true ownership of virtual goods.

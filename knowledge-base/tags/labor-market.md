@@ -9,10 +9,10 @@
 - `INS-260405-0E77` AI collapses the historical separation between software budgets and labor budgets by doing the whole job, not just tooling it.
 - `INS-260405-B204` Slow job growth plus fast productivity growth looks like automation displacement, but may actually reflect a capital investment cycle.
 - `INS-260323-FE69` Acemoglu predicts only 5% of tasks will be profitably automated and no current occupation will disappear within 5-10 years, because every occupation embeds complex tacit knowledge.
-- `INS-260327-40D5` Tech workers went from guaranteed careers with stock-option millionaires to mass layoffs and AI replacement, becoming everything they promised to disrupt.
-- `INS-260405-8532` With U.S. labor costs at ~$18.6 trillion (60% of GDP), even partial AI-driven displacement would constitute the largest economic value transfer in modern history.
 - `INS-260405-C709` AI-jobs debates feel unresolvable because optimists and pessimists are each describing a different causal layer of the same system.
 - `INS-260405-2287` 54.6% of U.S. adults use AI personally but fewer than 10% of businesses have integrated it into production, so the real disruption hasn't started yet.
+- `INS-260327-40D5` Tech workers went from guaranteed careers with stock-option millionaires to mass layoffs and AI replacement, becoming everything they promised to disrupt.
+- `INS-260405-8532` With U.S. labor costs at ~$18.6 trillion (60% of GDP), even partial AI-driven displacement would constitute the largest economic value transfer in modern history.
 - `INS-260403-2242` The Fed cut rates 25bps to 3.75-4.00% and announced QT ending December 1, with dissents revealing internal division, as major layoffs at UPS (48K), Amazon (30K), and others signal accelerating labor market deterioration.
 - `INS-260327-004B` 30 million Americans will retire by 2030 representing nearly a fifth of the labor force, with most having less than $250K in total assets.
 - `INS-260405-EE1F` Aggregate economic health metrics can look normal while underlying dynamics are historically anomalous.

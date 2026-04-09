@@ -12,15 +12,15 @@
 - `INS-260403-93E7` Feature-first thinking causes product-market fit failure; start with customer jobs, pains, and gains instead.
 - `INS-260405-F6A6` The two categories of programming languages are ones people complain about and ones nobody uses — complaints imply relevance.
 - `INS-260405-C1E4` AI coding tools like Base44 grew 900% then cooled within weeks, proving that developer retention requires workflow depth, not feature novelty.
+- `INS-260405-13C5` Spending on acquisition before proving unit economics is the most common cash-kill mechanism in SaaS.
 - `INS-260403-94AD` Competition for a customer segment is a fit contest, not a feature contest — the best match to jobs/pains/gains wins the slot.
 - `INS-260403-68C8` Reddit kept growing through years of management ranging from 'benign neglect to spectacular blunders' because the core product — community-curated interesting links — is fundamentally useful.
-- `INS-260405-13C5` Spending on acquisition before proving unit economics is the most common cash-kill mechanism in SaaS.
+- `INS-260403-5762` PMF is unrecognizable in real-time because founders are too deep in operational chaos to see the macro signal.
 - `INS-260327-734D` It took nine different iterations from 2012 to finding Marco Polo — the first thing you put out just does not work.
 - `INS-260327-2387` Months of user research before writing code produces faster PMF than build-fast-iterate approaches.
 - `INS-260403-ADF9` The most iconic startups found their winning product by observing what users actually did inside a failing product, not by executing their original plan.
 - `INS-260404-8394` Categorize any crisis as either cash or PMF before acting, because the response strategies are fundamentally different.
 - `INS-260327-1996` Conrad says Rippling took two years to start working, but he had zero doubt it would — so his entire job was preventing the team from quitting before they got there.
-- `INS-260403-5762` PMF is unrecognizable in real-time because founders are too deep in operational chaos to see the macro signal.
 - `INS-260403-D2F4` Second-time founders bake GTM strategy into week one of building, treating distribution as the product rather than an afterthought.
 - `INS-260403-DDC9` When customers churn reveals whether you have an activation problem or an evolution problem.
 - `INS-260405-BBA3` Five happy full-price customers is the minimum evidence required to justify building a repeatable sales motion.
@@ -28,11 +28,11 @@
 - `INS-260404-B893` Growth teams are multipliers of existing traction, not creators of it — fix the product before hiring growth.
 - `INS-260330-78B1` Plot percent monthly active vs days-from-acquisition; if the curve flattens, you have PMF — if it slopes to zero, no amount of growth tactics will save you.
 - `INS-260403-29AC` First adopters retain 20-30% better than paid users; treat their curve as a benchmark, not a baseline you can maintain.
-- `INS-260321-021B` Higgsfield interviewed 8 creatives — all 8 gave identical feedback about camera controls, which became their breakout feature.
 - `INS-260403-EDFC` Make a few users love you rather than many users tolerate you — it's easier to expand userwise than satisfactionwise.
 - `INS-260323-2040` Rella tried to serve everyone on social media, built a confused Frankenstein product, nearly died — then narrowed to social media managers only and hit $2M ARR in 15 months.
 - `INS-260403-A2A2` Prioritize retention measurement over acquisition volume to diagnose whether you actually have product-market fit.
 - `INS-260403-538C` Fast growth comes from hitting a real need, not from high spending — these two variables are surprisingly uncorrelated in practice.
+- `INS-260321-021B` Higgsfield interviewed 8 creatives — all 8 gave identical feedback about camera controls, which became their breakout feature.
 - `INS-260403-36C6` Treat every hire as a last resort after exhausting automation, templatization, and temporary outsourcing.
 - `INS-260323-AB5F` Stuart Butterfield's games failed twice, but side features born from real problems became Flickr ($20M) and Slack ($27B) — the thing you're building around may be less valuable than the thing you built to support it.
 - `INS-260330-F125` The value of what you build is determined by whether people want it, not by how technically interesting or personally exciting it is to you.
@@ -51,15 +51,6 @@
 - `INS-260322-B3D0` Pre-PMF advice (just ship, talk to users, no strategy) becomes actively harmful post-PMF — you need strategic bets like Facebook opening beyond .edu or DoorDash expanding beyond food.
 - `INS-260405-45E0` PMF is the primary predictor of startup success because it confirms that value creation and capture are aligned.
 - `INS-260403-A7D0` Gut-feel product decisions waste time and money building features nobody wants — systematic assumption testing is the mitigation.
-- `INS-260327-A8B6` Gamma built AI to solve their 95% user drop-off (cold start problem), but the real breakthrough was realizing they had solved the universal blank page problem that makes presentations intimidating for everyone.
-- `INS-260323-3239` The fastest path to product-market fit is having an audience you can survey, test MVPs with, and iterate against — not building in isolation.
-- `INS-260330-E263` Concentrate on making a small group of users love your product rather than building something many people merely like.
-- `INS-260402-426C` Schools reward how far you've come; markets only care how far you are from what users need—and the gap produces fatally different building behaviors.
-- `INS-260330-851F` Aerogel's insulation is extraordinary but too fragile alone; embedding it in fiberglass creates a practical product that can be flexed, cut, and sewn.
-- `INS-260330-1282` Users judge products by experience quality, never by whether you used React or Vue, MySQL or MongoDB.
-- `INS-260323-8AA1` Adding more features to an app that nobody is using does not make it more likely to succeed — it makes it harder to diagnose what actually matters.
-- `INS-260326-A0B4` Uber wins because people need to get somewhere three times a day; car-buying sites struggle because people buy a car once every seven years.
-- `INS-260323-9393` Pincus's product religion: start by copying every pixel of what's proven to work, only change what existing users unanimously confirm is better, then innovate only in the narrow space that remains.
 - `INS-260405-5E18` AI PMF is a continuous recalibration process, not a one-time validation milestone.
 - `INS-260405-0E05` In early stage, the depth of user love is a better signal than any metric you can count.
 - `INS-260405-C5B4` GOAT's $4B valuation traces back to authenticating sneakers, not selling them.
@@ -74,9 +65,19 @@
 - `INS-260403-2D39` Redpoint's framework demands a narrow high-urgency use case with real user love that naturally expands into larger product surfaces where quality sustains pricing power.
 - `INS-260402-3CF1` Airdrop farming, data portability, and pseudonymous wallets break every traditional PMF measurement framework.
 - `INS-260404-380C` Apple Pay succeeded because its value proposition enabled its business model and vice versa — the two were designed as a tightly coupled system rather than sequentially.
-- `INS-260330-318C` Mobile money adoption in Africa was explosive because the alternative — physically transporting cash over multi-day journeys with theft risk — made adoption a survival decision rather than a convenience choice.
+- `INS-260327-A8B6` Gamma built AI to solve their 95% user drop-off (cold start problem), but the real breakthrough was realizing they had solved the universal blank page problem that makes presentations intimidating for everyone.
+- `INS-260323-3239` The fastest path to product-market fit is having an audience you can survey, test MVPs with, and iterate against — not building in isolation.
+- `INS-260330-E263` Concentrate on making a small group of users love your product rather than building something many people merely like.
+- `INS-260402-426C` Schools reward how far you've come; markets only care how far you are from what users need—and the gap produces fatally different building behaviors.
+- `INS-260330-851F` Aerogel's insulation is extraordinary but too fragile alone; embedding it in fiberglass creates a practical product that can be flexed, cut, and sewn.
+- `INS-260330-1282` Users judge products by experience quality, never by whether you used React or Vue, MySQL or MongoDB.
+- `INS-260323-8AA1` Adding more features to an app that nobody is using does not make it more likely to succeed — it makes it harder to diagnose what actually matters.
+- `INS-260326-A0B4` Uber wins because people need to get somewhere three times a day; car-buying sites struggle because people buy a car once every seven years.
+- `INS-260323-9393` Pincus's product religion: start by copying every pixel of what's proven to work, only change what existing users unanimously confirm is better, then innovate only in the narrow space that remains.
 - `INS-260327-A815` A repeatable sales motion means a non-founder can sell and close — you know your ICP, your pitch, your lead sources, and deals move predictably through the funnel before you hire a sales leader.
 - `INS-260327-9C00` Pre-PMF sales is fundamentally entrepreneurial -- it requires the founder's vision, domain expertise, and conviction, which no hired sales rep can replicate.
+- `INS-260405-21C7` Webvan expanded to multiple cities before understanding its unit economics, and the fixed cost structure made course correction impossible.
+- `INS-260330-318C` Mobile money adoption in Africa was explosive because the alternative — physically transporting cash over multi-day journeys with theft risk — made adoption a survival decision rather than a convenience choice.
 - `INS-260403-4F1B` A centralized failure that mirrors what your decentralized product prevents becomes the strongest possible validation of your value proposition.
 - `INS-260329-C26B` The mindset that wins pre-PMF (just ship, no strategy) actively harms post-PMF growth if not evolved.
 - `INS-260403-DC59` Women founders disproportionately build in massive but overlooked markets like FemTech ($1.1T by 2027), caregiving, and community health — gaining sharper product-market fit from Day 1 because they've lived the problem.
@@ -118,4 +119,3 @@
 - `INS-260330-AB6F` Users enduring terrible UX to use your product is a stronger signal than engagement metrics from a polished product.
 - `INS-260330-5ED4` Users enduring a painful product experience proves genuine demand more reliably than polished prototypes with lukewarm interest.
 - `INS-260403-B635` Having a few users who truly love your product matters infinitely more than having many indifferent users.
-- `INS-260405-21C7` Webvan expanded to multiple cities before understanding its unit economics, and the fixed cost structure made course correction impossible.

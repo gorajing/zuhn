@@ -1,11 +1,16 @@
 # Tag: cognitive-bias
 
 - `INS-260325-13C2` We know average equity returns, inflation rates, and economic ranges — the only unsolved variable in investing is our own behavior.
-- `INS-260405-5EB2` Peak-consensus forecasts of national rise historically coincide with the onset of structural decline.
-- `INS-260325-6AD5` The Sea Peoples were blamed for the Bronze Age collapse but were likely symptoms and refugees, not the root cause.
 - `INS-260403-8679` We avoid feeling overwhelmed by change by focusing on what hasn't changed rather than what has.
 - `INS-260330-2EF0` Whether you view the Mongols as progressive or barbaric depends on whether you prioritize religious tolerance and trade over artistic output and human life.
 - `INS-260403-80B1` Users systematically avoid upfront configuration costs even when the time savings compound over every subsequent interaction.
+- `INS-260405-5EB2` Peak-consensus forecasts of national rise historically coincide with the onset of structural decline.
+- `INS-260325-6AD5` The Sea Peoples were blamed for the Bronze Age collapse but were likely symptoms and refugees, not the root cause.
+- `INS-260325-33DA` Each person constructs their own unique perceptual world, but consciousness feels so transparent that we assume others experience the same reality we do.
+- `INS-260403-3280` Bullet repayment preserves cash today but concentrates all repayment risk into a single exit event, exploiting human tendency to discount future costs.
+- `INS-260330-AA4F` Because humans linearize exponentials, they systematically under-react when early action is cheapest and over-react when the situation is already determined.
+- `INS-260403-C313` Even when you can prove the rational choice, emotional intuitions still dominate actual decisions.
+- `INS-260330-BB0C` Intense romantic love activates ancient brain drive systems while shutting down newer cognitive regions for planning and evaluation.
 - `INS-260330-FCFA` True randomness clusters in ways humans perceive as non-random, so products must introduce artificial structure to satisfy our pattern-seeking minds.
 - `INS-260330-1319` Apple had to make iTunes shuffle less random because true randomness produced clusters that felt intentional to users.
 - `INS-260330-14BD` Amsterdam onlookers couldn't believe Destin genuinely forgot how to ride a bike because their own bias ('everyone can ride a bike') prevented them from processing his demonstration.
@@ -35,11 +40,6 @@
 - `INS-260323-D479` Nobel believed his explosives would 'put an end to war sooner than peace congresses' by making mutual destruction too horrifying -- the same argument made for nuclear weapons decades later.
 - `INS-260323-4711` Active engagement makes short intervals feel fast but long periods feel slow, while boredom does the opposite — a key asymmetry in human time perception.
 - `INS-260325-D25C` We accept that squishing a bug in the past would change the future, but we refuse to believe that our present actions have the same cascading effects.
-- `INS-260325-33DA` Each person constructs their own unique perceptual world, but consciousness feels so transparent that we assume others experience the same reality we do.
-- `INS-260403-3280` Bullet repayment preserves cash today but concentrates all repayment risk into a single exit event, exploiting human tendency to discount future costs.
-- `INS-260330-AA4F` Because humans linearize exponentials, they systematically under-react when early action is cheapest and over-react when the situation is already determined.
-- `INS-260403-C313` Even when you can prove the rational choice, emotional intuitions still dominate actual decisions.
-- `INS-260330-BB0C` Intense romantic love activates ancient brain drive systems while shutting down newer cognitive regions for planning and evaluation.
 - `INS-260403-BCB1` Wozniak, Zuckerberg, and Gates didn't think they were starting companies — that mindset freed them to build what they actually wanted.
 - `INS-260405-80B0` Being slightly overconfident armors you against both others' skepticism and your own harsh early-work judgments.
 - `INS-260327-9562` Our brains evolved for 150 meaningful contacts but social media exposes us to thousands, causing us to unconsciously merge others' highlight reels into a single imagined nemesis who outperforms us in every dimension.
@@ -52,8 +52,8 @@
 - `INS-260327-9BFD` You're spending enormous energy managing an impression that others aren't even forming - they're too busy managing their own.
 - `INS-260330-3EDA` During 72 hours of isolation, Michael's time estimation error doubled after each sleep cycle, and Stefania Follini believed 130 days underground was only about 65.
 - `INS-260329-D913` Everyone who has ever handled an unexpected bill has proven they can be resourceful — they just choose not to be when the beneficiary is themselves.
-- `INS-260330-C499` The early phase of exponential growth feels unrewarding because humans intuitively underestimate how steep the curve becomes.
 - `INS-260405-03BB` Adam Neumann's bid to buy WeWork back — five years after his ousting — exemplifies how founder identity becomes entangled with company narrative to the point of overriding rational capital allocation.
+- `INS-260330-C499` The early phase of exponential growth feels unrewarding because humans intuitively underestimate how steep the curve becomes.
 - `INS-260330-697F` Building great product means optimizing for power users, but driving growth means optimizing for the marginal user who barely engages.
 - `INS-260403-CE70` Repeat founders often fail by transplanting an entire operating system from their last startup without testing whether it fits the new market, team, or timing.
 - `INS-260403-C0E6` Yahoo at $125B with 90% search market share was psychologically incapable of treating two Stanford PhD students as an existential threat.

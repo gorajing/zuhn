@@ -27,8 +27,8 @@
 - `INS-260327-482E` Stop avoiding hard problems—identify the biggest risk and attack it directly.
 - `INS-260403-8DA1` Never assume other teams see your project as a priority — explicitly demonstrate impact on their specific goals.
 - `INS-260403-6C07` Solve the problem users have right now before expanding into the product you envision for the future.
-- `INS-260403-9BEB` Defining success as '10% increase in X within 3 months' creates a decision filter that vague directional goals cannot provide.
 - `INS-260404-2BDA` Effective product strategy must include explicit 'not in focus' areas alongside strategic pillars to force real tradeoffs.
+- `INS-260403-9BEB` Defining success as '10% increase in X within 3 months' creates a decision filter that vague directional goals cannot provide.
 - `INS-260329-89E9` Solving the top constraint reshuffles reality so the old priority list becomes unreliable.
 - `INS-260403-32E9` Identify your sector's primary risk layer and retire it first before addressing downstream risks.
 - `INS-260403-FBD6` Refusing to budge on low-priority positions drains political capital needed to win the battles that actually matter.

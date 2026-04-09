@@ -35,6 +35,6 @@
 - `INS-260321-C0A4` Your probability of success directly correlates with whether your closest friends care about and push you toward what you want to achieve.
 - `INS-260403-886D` Competitive drive without ambitious projects to channel it into reliably turns into bitterness, trolling, and tearing down others' ideas.
 - `INS-260403-4942` Fifteenth-century Florentine artists produced extraordinary work partly because they believed extraordinary work was possible and competed fiercely to achieve it.
+- `INS-260327-4E34` Reaching unicorn status is just 0-to-1—the real value creation is in the 1-to-10 and 10-to-100 phases.
 - `INS-260403-0530` New York struggles as a startup hub because founders there are second-class citizens in a status hierarchy that most admires financial wealth.
 - `INS-260403-D1D4` Doubling your already-ambitious targets forces strategic creativity and attracts higher-caliber collaborators.
-- `INS-260327-4E34` Reaching unicorn status is just 0-to-1—the real value creation is in the 1-to-10 and 10-to-100 phases.

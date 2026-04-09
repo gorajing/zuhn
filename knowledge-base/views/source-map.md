@@ -1,5 +1,5 @@
 # Source Map
-Generated on 2026-04-08 | 2422 sources
+Generated on 2026-04-09 | 2422 sources
 
 | Source | Type | Insights | Date |
 |--------|------|----------|------|
@@ -2145,9 +2145,6 @@ Generated on 2026-04-08 | 2422 sources
 | You Are Taking Creatine Wrong (here's how to fix it) | youtube | 1 | 2026-03-26 |
 | You Will Never Wear AirPods Again | youtube | 1 | 2026-03-26 |
 | You'll Never Eat Sardines Again | youtube | 1 | 2026-03-26 |
-| Building the Zuhn knowledge base — lessons from Phase 1-5 | paste | 0 | 2026-03-20 |
-| Cross-domain synthesis — Phase 20 bridging insights | paste | 0 | 2026-03-27 |
-| The Leverage Field Manual — How to multiply your output without working more | paste | 0 | 2026-03-22 |
 | This Automation Took Me From 0 to 175k Followers in Under 12 Months | reddit | 0 | 2026-03-20 |
 | After learning this, my AI workflows cost me 30x less | reddit | 0 | 2026-03-20 |
 | Claude Code usage limit hack | reddit | 0 | 2026-03-20 |
@@ -2160,6 +2157,9 @@ Generated on 2026-04-08 | 2422 sources
 | I built a workflow that turns YouTube transcripts into newsletter style summaries | reddit | 0 | 2026-03-20 |
 | Sound Design Breakdown [and tutorial] | reddit | 0 | 2026-03-20 |
 | [Tutorial] All there is to know about syncing video and audio | reddit | 0 | 2026-03-20 |
+| Building the Zuhn knowledge base — lessons from Phase 1-5 | paste | 0 | 2026-03-20 |
+| Cross-domain synthesis — Phase 20 bridging insights | paste | 0 | 2026-03-27 |
+| The Leverage Field Manual — How to multiply your output without working more | paste | 0 | 2026-03-22 |
 | 2504.19874v1 | pdf | 0 | 2026-03-26 |
 | @u.northwestern.edu Mail - How Roblox Uses AI to Translate 16 Languages in 100 Milliseconds | pdf | 0 | 2026-03-30 |
 | @u.northwestern.edu Mail - The Agentic AI Tipping Point | pdf | 0 | 2026-03-30 |

@@ -75,6 +75,8 @@
 - `INS-260323-9393` Pincus's product religion: start by copying every pixel of what's proven to work, only change what existing users unanimously confirm is better, then innovate only in the narrow space that remains.
 - `INS-260329-7B47` Send 100 personalized outreach messages daily using a compliment-plus-positioning formula to guarantee your first five customers through pure volume.
 - `INS-260329-7E63` The best closers don't have better arguments — they ask for the sale more times by using reframing to maintain rapport across repeated asks.
+- `INS-260403-4365` Carta data shows solo founders hit 35% of the 2024 class, with soonicorns like BuiltWith ($14M/year, 1 employee) proving the one-person unicorn is approaching reality.
+- `INS-260323-2C70` Pincus hired anyone who said they knew PHP, kept less than half, and found gems like an 18-year-old savant living on his mom's couch — the early-stage hiring perfection myth costs more speed than it saves in quality.
 - `INS-260405-F2C7` Vision should pull milestones forward, not justify why you missed them—keep the two layers structurally separate in your pitch.
 - `INS-260403-6279` History shows that the biggest companies started by doing something that seemed small and unimportant, then expanded from a working beachhead.
 - `INS-260323-A075` Founder speed is not just about iteration velocity — it's a behavioral signal that predicts fundraising success, user acquisition, and survival.
@@ -83,5 +85,3 @@
 - `INS-260322-AAEA` A week is long enough to validate ideas and ship products; ten years captures true strategic direction. Quarterly planning is a deeply useless middle ground where cohorts don't bake and real outcomes aren't visible.
 - `INS-260323-2559` Spending months making an app 'perfect' before releasing it means you're optimizing in the dark — every day of polish without user data is a day of self-deception.
 - `INS-260329-B0BA` Start with your best bad idea and let customer feedback make it less wrong over time, rather than waiting for the perfect concept.
-- `INS-260403-4365` Carta data shows solo founders hit 35% of the 2024 class, with soonicorns like BuiltWith ($14M/year, 1 employee) proving the one-person unicorn is approaching reality.
-- `INS-260323-2C70` Pincus hired anyone who said they knew PHP, kept less than half, and found gems like an 18-year-old savant living on his mom's couch — the early-stage hiring perfection myth costs more speed than it saves in quality.

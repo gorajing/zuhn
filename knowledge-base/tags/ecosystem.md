@@ -23,9 +23,9 @@
 - `INS-260404-DE04` Regulatory shifts can rapidly undermine entire regional startup ecosystems independent of talent and capital availability.
 - `INS-260405-BC10` The US-Europe startup gap is best explained by failure-recovery infrastructure — bankruptcy law, investor attitudes, labor mobility — not by cultural risk appetite alone.
 - `INS-260403-20B1` Startup hub quality exists on a spectrum where each step up in hub density yields compounding benefits.
+- `INS-260405-ABE0` Valve can afford hardware bets others can't because every device plugs into an already-won software distribution war.
 - `INS-260404-D6EC` ARM's 1,000+ partner ecosystem creates switching costs that no single competitor can overcome, even with superior technology.
 - `INS-260404-B5EB` Apple 'mobilized' the payments ecosystem by letting all existing players continue business as usual while adding a mobile layer, rather than forcing ecosystem rewiring.
-- `INS-260405-ABE0` Valve can afford hardware bets others can't because every device plugs into an already-won software distribution war.
 - `INS-260330-C418` Cows thrived by being useful to humans; elephants declined despite being smarter and stronger — usefulness to the dominant player beats independent capability.
-- `INS-260404-8050` Oxygen is a 'useless byproduct' of photosynthesis that became the foundation for all animal life — the most consequential side effect in biological history.
 - `INS-260403-D870` Sweden's unicorn density came from founder alumni reinvesting exits into new startups, amplified by tax incentives — not government venture programs.
+- `INS-260404-8050` Oxygen is a 'useless byproduct' of photosynthesis that became the foundation for all animal life — the most consequential side effect in biological history.

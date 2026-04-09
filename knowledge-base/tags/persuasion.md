@@ -1,13 +1,5 @@
 # Tag: persuasion
 
-- `INS-260330-318B` Dressing salespeople as nurses exploits authority bias to bypass critical evaluation of claims.
-- `INS-260323-61D4` Einstein presented the non-locality problem at least three times — once at the 1927 Solvay Conference, once with the photon box thought experiment, and once in the EPR paper — and each time Bohr misunderstood or reframed the argument rather than addressing it directly.
-- `INS-260329-55F7` People trust their own conclusions far more than anything a salesperson tells them, so guide them to discover the answer rather than asserting it.
-- `INS-260330-748E` Repeated exposure to extreme rhetoric triggers habituation, making previously shocking statements functionally invisible to audiences.
-- `INS-260329-F063` Telling prospects 'answering without looking under the hood would be unethical' reframes information withholding as professional responsibility and discredits competitors who give easy answers.
-- `INS-260330-5F21` Partially adopted personas trigger uncanny valley effects that repel rather than attract.
-- `INS-260329-A45D` 'But' acts as an attention redirector — everything after it is amplified, everything before it is diminished.
-- `INS-260329-78AE` People automatically trust speakers more when the speaker says something that visibly hurts their own interest, because costly signals are expensive to counterfeit.
 - `INS-260405-194F` When someone can't perceive a constraint you experience, appealing to politeness (take me at my word) is more tractable than demanding they recognize their privilege.
 - `INS-260404-5BBF` Be candid about gaps with sophisticated audiences — trying to seem corporate or knowledgeable about things you aren't conceals your actual talent.
 - `INS-260403-AE5B` In leadership communication, fewer words carry more weight because they signal resolved thinking.
@@ -16,6 +8,14 @@
 - `INS-260403-3D61` A strong-willed patient like Houdini needed the surgery framed in a way that aligned with his identity rather than contradicted it.
 - `INS-260403-0949` Speaking excels at motivation and emotional impact, not at conveying complex ideas — choose your communication medium accordingly.
 - `INS-260404-7F34` Essay impact is novelty × importance, but achieving both simultaneously is rare because important topics have already been heavily explored.
+- `INS-260330-318B` Dressing salespeople as nurses exploits authority bias to bypass critical evaluation of claims.
+- `INS-260323-61D4` Einstein presented the non-locality problem at least three times — once at the 1927 Solvay Conference, once with the photon box thought experiment, and once in the EPR paper — and each time Bohr misunderstood or reframed the argument rather than addressing it directly.
+- `INS-260329-55F7` People trust their own conclusions far more than anything a salesperson tells them, so guide them to discover the answer rather than asserting it.
+- `INS-260330-748E` Repeated exposure to extreme rhetoric triggers habituation, making previously shocking statements functionally invisible to audiences.
+- `INS-260329-F063` Telling prospects 'answering without looking under the hood would be unethical' reframes information withholding as professional responsibility and discredits competitors who give easy answers.
+- `INS-260330-5F21` Partially adopted personas trigger uncanny valley effects that repel rather than attract.
+- `INS-260329-A45D` 'But' acts as an attention redirector — everything after it is amplified, everything before it is diminished.
+- `INS-260329-78AE` People automatically trust speakers more when the speaker says something that visibly hurts their own interest, because costly signals are expensive to counterfeit.
 - `INS-260403-29C7` Kissinger chose Go over xiangqi not because it described China accurately, but because it made America respond the way he wanted.
 - `INS-260404-6753` Consciously listening for the first 10 minutes and acknowledging the other side's logic disarms conflict more effectively than arguing.
 - `INS-260403-9DB6` Steady accumulation of documented incidents shifts opinion more than any single dramatic event because patterns resist counter-narrative.

@@ -1,8 +1,8 @@
 # Tag: fear
 
 - `INS-260329-C4F5` Framing AI as augmentation rather than replacement is the only actionable mindset because the alternative is paralysis.
-- `INS-260330-383F` Peterson's dragon test: if the crisis you're fighting makes you terrified and authoritarian, your emotional state disqualifies you from leading the response regardless of whether the threat is real.
 - `INS-260330-7A69` Resisting the psychedelic experience produces suffering while surrender produces transcendence, making the experience a direct feedback mechanism on one's relationship to control.
+- `INS-260330-383F` Peterson's dragon test: if the crisis you're fighting makes you terrified and authoritarian, your emotional state disqualifies you from leading the response regardless of whether the threat is real.
 - `INS-260405-7A7C` The fear that your early work looks lame is real but wrong — ambitious projects necessarily pass through a low-status phase that doesn't predict their ceiling.
 - `INS-260403-AA0B` Important problems create an almost physical pain that paralyzes—you must approach them obliquely rather than head-on.
 - `INS-260323-C1B2` Fear occurs in proportion to importance — the intensity of your resistance signals the significance of the action you are avoiding.
