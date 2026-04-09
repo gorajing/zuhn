@@ -31,6 +31,65 @@ function extractSection(md: string, heading: string): string {
   return body.join("\n").trim();
 }
 
+// ─── Prediction judgment helpers ───────────────────────────────────────
+
+export interface PredictionEvidenceRecord {
+  prediction_id: string;
+  net_signal: string;
+  evidence: unknown[];
+}
+
+/**
+ * Load current status for every prediction in the predictions directory,
+ * keyed by prediction id. Malformed files are silently skipped. Returns an
+ * empty map if the directory does not exist.
+ */
+export function loadPredictionStatuses(
+  predictionsDir: string = join(KB_ROOT, "predictions"),
+): Map<string, string> {
+  const statuses = new Map<string, string>();
+  let files: string[];
+  try {
+    files = readdirSync(predictionsDir).filter((f) => f.endsWith(".md"));
+  } catch {
+    return statuses;
+  }
+  for (const file of files) {
+    try {
+      const raw = readFileSync(join(predictionsDir, file), "utf-8");
+      const parsed = matter(raw);
+      const id = parsed.data.id as string | undefined;
+      const status = parsed.data.status as string | undefined;
+      if (id && status) statuses.set(id, status);
+    } catch {
+      /* skip malformed file */
+    }
+  }
+  return statuses;
+}
+
+/**
+ * From a prediction-evidence.json payload, return only the records that
+ * should surface in the wake briefing's "Your Judgment Needed" list: the
+ * evidence must lean confirmed or falsified, include at least 3 sources,
+ * AND the prediction itself must still be active in its YAML frontmatter.
+ *
+ * The active-status check prevents already-resolved predictions (whose
+ * evidence remains in the file as historical record) from looping forever
+ * as ghost action items.
+ */
+export function filterPredictionsReadyForJudgment(
+  evidence: PredictionEvidenceRecord[],
+  statuses: Map<string, string>,
+): PredictionEvidenceRecord[] {
+  return evidence.filter(
+    (e) =>
+      (e.net_signal === "leaning_confirmed" || e.net_signal === "leaning_falsified") &&
+      e.evidence.length >= 3 &&
+      statuses.get(e.prediction_id) === "active",
+  );
+}
+
 // ─── Main ─────────────────────────────────────────────────────────────
 
 function main(): void {
@@ -324,19 +383,15 @@ function main(): void {
     judgments.push(`Review ${inboxReview.n} source(s) in inbox/review/ (quality gate flagged)`);
   }
 
-  // Check for predictions with strong evidence ready to resolve
+  // Check for predictions with strong evidence ready to resolve.
+  // Skip any that are already resolved in YAML — their evidence stays in
+  // the file as historical record, but they should not surface as
+  // action items.
   if (existsSync(evidencePath)) {
     try {
-      const ev = JSON.parse(readFileSync(evidencePath, "utf-8")) as Array<{
-        prediction_id: string;
-        net_signal: string;
-        evidence: unknown[];
-      }>;
-      const ready = ev.filter(
-        (e) =>
-          (e.net_signal === "leaning_confirmed" || e.net_signal === "leaning_falsified") &&
-          e.evidence.length >= 3
-      );
+      const ev = JSON.parse(readFileSync(evidencePath, "utf-8")) as PredictionEvidenceRecord[];
+      const statuses = loadPredictionStatuses();
+      const ready = filterPredictionsReadyForJudgment(ev, statuses);
       for (const r of ready) {
         judgments.push(`Resolve ${r.prediction_id}? (${r.net_signal.replace(/_/g, " ")}, ${r.evidence.length} sources)`);
       }
@@ -377,4 +432,11 @@ function main(): void {
   }
 }
 
-main();
+// Only run main when executed directly (not when imported for testing)
+const isDirectRun =
+  process.argv[1]?.endsWith("wake.ts") ||
+  process.argv[1]?.endsWith("wake.js");
+
+if (isDirectRun) {
+  main();
+}
