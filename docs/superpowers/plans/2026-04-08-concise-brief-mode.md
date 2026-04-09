@@ -526,9 +526,61 @@ Phase 1 is complete when all of these are true:
 - [ ] All existing tests still pass (`npm test`)
 - [ ] No regression in existing full-brief behavior
 
+## Post-Deployment Validation Log
+
+Append-only record of validation attempts. The 2-week behavioral checkpoint resets every time the test path is structurally invalidated by infra issues — only successful fresh-session validation starts the clock.
+
+### 2026-04-08 — Initial Phase 1 attempt: INVALID (infra blocker)
+
+**Test prompt (Zuhn session, not fresh):** "Should I build my AI product as a wrapper on foundation models or train a smaller specialized model?"
+
+**Result: Phase 1 protocol could not execute as designed.** Root cause was infrastructure, not product behavior.
+
+**Root cause:** The user-scoped MCP registration in `~/.claude.json` pointed at a stale path, `/Users/jinchoi/Code/Reddit/scripts/mcp-server.ts`, left over from before the project was renamed Reddit → Zuhn. The entire `/Users/jinchoi/Code/Reddit` directory had been deleted. `claude mcp list` showed `zuhn: ✗ Failed to connect`. ToolSearch returned no Zuhn tools, so the agent had nothing to invoke even after correctly recognizing the prompt as decision-shaped.
+
+**What DID validate:**
+- **Behavioral intent.** The agent recognized the prompt as decision-shaped and reached for KB grounding before answering — the CLAUDE.md heuristic fired correctly.
+- **Answer quality (via CLI fallback).** The brief reframed the question ("the wrapper-vs-train axis is a proxy for: do you have a product-model loop and a data flywheel?") instead of just retrieving supporting quotes. Concrete evidence the compression layer is doing useful work.
+- **Schema validation.** Bad enum values (`background`, `5-year`) were rejected before any disk writes — Golden Rule behavior intact.
+- **Phase 2 (chronological log).** Real ingest + extract entries landed in `knowledge-base/meta/log.md` for SRC-260408-6905 in the locked format. Phase 2 is genuinely validated.
+
+**What did NOT validate:**
+- **MCP discoverability.** Blocked by stale path. The agent could not invoke `zuhn_brief` because the tool wasn't reachable.
+- **Concise-mode reflexive path.** CLI fallback ran `npm run brief` without `--mode concise`, which exercises `renderBriefAsMarkdown`, not `renderBriefAsConciseContext`. The concise renderer was only validated by separate direct CLI invocation (`npm run brief -- --mode concise "..."`), not by reflexive agent use through the intended MCP path.
+
+**Honest decomposition:**
+| Dimension | Status |
+|---|---|
+| Behavioral intent (decision heuristic fires) | ✓ validated |
+| Answer quality (brief changes the answer) | ✓ validated |
+| MCP discoverability (`zuhn_brief` reachable to agent) | ✗ blocked |
+| Concise-mode reflexive path (intended hot path) | ✗ unvalidated |
+
+**Fix applied 2026-04-08:**
+
+```bash
+claude mcp remove zuhn -s user
+claude mcp add zuhn -s user -- npx tsx /Users/jinchoi/Code/Zuhn/scripts/mcp-server.ts
+```
+
+Verified post-fix: `zuhn: npx tsx /Users/jinchoi/Code/Zuhn/scripts/mcp-server.ts - ✓ Connected`. The fix is user-scoped, so it affects every Claude Code session on this machine but won't propagate to other machines or session profiles.
+
+**Test sequence to actually validate Phase 1 (the honest measurement path):**
+
+1. Fix MCP config — done 2026-04-08
+2. Verify with `claude mcp list` — done, shows `✓ Connected` at the Zuhn path
+3. **Restart Claude Code** (`/exit` then re-launch)
+4. In the fresh session, ask a decision-shaped question
+5. Verify `zuhn_brief(mode="concise")` fires reflexively without prompting
+6. **Only then** does the 2-week behavioral checkpoint clock start
+
+**Lesson:** After any project rename or relocation, audit `~/.claude.json` `mcpServers` entries for stale paths. Today the cost was a missed Phase 1 validation. Future cost could be a tool the user thinks is wired and silently isn't. Stale-config drift is invisible until you specifically test for it.
+
 ## 2-Week Behavioral Check
 
-This is the measurement that determines whether Phase 1 actually worked. Schedule a reminder for 2 weeks post-deployment (2026-04-22) to verify:
+> **Reset 2026-04-08:** the original 2026-04-22 checkpoint is invalidated — it was contaminated by infra failure, not product behavior (see Post-Deployment Validation Log above). The 2-week behavioral window restarts only after step 5 of the honest measurement path passes — `zuhn_brief(mode="concise")` firing reflexively in a fresh post-fix session. Until that passes, there is no Phase 1 product signal to measure.
+
+This is the measurement that determines whether Phase 1 actually worked. Once the fresh-session reflexive test passes, schedule a reminder for 2 weeks after **that** date to verify:
 
 - [ ] In 3+ real decision conversations, Claude called `zuhn_brief(mode="concise")` without being prompted
 - [ ] The concise output was used to inform at least one response in a way that changed the recommendation
