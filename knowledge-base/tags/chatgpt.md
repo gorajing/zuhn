@@ -10,4 +10,5 @@
 - `INS-260402-BCEC` Despite a proliferation of high-quality models, OpenAI pulled ahead because ChatGPT became a daily habit for millions, not because it scored highest on benchmarks.
 - `INS-260405-3061` ChatGPT's retention improves after month one, bucking the typical viral app decay curve as users embed it into daily work.
 - `INS-260323-9D6E` Users stick with an LLM until it fails badly on a task they care about, then switch -- loyalty is driven by peak moments and broken by threshold failures.
+- `INS-260409-FE1D` Possession of customer beats model differentiation — ChatGPT may have negative model edge but owns the consumers.
 - `INS-260322-D7B1` Even a 20-30% shift from Google to AI chatbots will dramatically raise paid search costs for remaining advertisers, making current acquisition strategies unviable.

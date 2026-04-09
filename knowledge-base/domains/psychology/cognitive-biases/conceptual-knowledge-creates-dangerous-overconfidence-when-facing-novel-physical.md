@@ -59,6 +59,7 @@ related:
   - INS-260323-72EB
   - INS-260330-E89A
   - INS-260330-B5D2
+  - INS-260409-C758
 ---
 Destin understood the physics of G-forces perfectly — he could explain radial acceleration, calculate that his 10-pound head would feel like 70 pounds at 7G, and had even experienced 5G in a T-38 trainer. This conceptual mastery plus adjacent experience created a false sense of readiness. He planned to 'just receive the Gs' and 'take it.' Within minutes of actual maneuvers, he lost the ability to think, his vision tunneled, and he tapped out before reaching 9G.
 

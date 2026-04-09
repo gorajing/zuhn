@@ -1,5 +1,6 @@
 # Tag: performance
 
+- `INS-260409-E366` The clock cannot tick faster than the slowest signal path settles — performance is gated by physics, not by design ambition.
 - `INS-260405-2688` C has no garbage collector by design — manual malloc/free gives programmers full control over when memory is allocated and released, enabling predictable performance that GC languages cannot guarantee.
 - `INS-260325-DA83` Harvard/MIT research at BCG shows top performers got much better with AI while lower performers got worse — the 'selective upgrade puzzle.'
 - `INS-260325-9C2F` When AI outperforms humans, human-AI synergy is g = -0.54; when humans outperform AI, synergy is g = +0.46.
@@ -18,18 +19,19 @@
 - `INS-260330-B1F6` Galpin's supplement 80/20 rule: pick one from each of fuel (creatine), stimulant (caffeine/beetroot), and fatigue blocker (beta-alanine/sodium bicarbonate) for maximum ROI.
 - `INS-260329-33AA` HFT firms treat real-time latency monitoring as a profit driver, not just operational overhead, because microseconds of undetected degradation directly cost money.
 - `INS-260404-D6EE` Good public speaking is an artificial technique made to seem natural — like good writing, it's elaborate effort disguised as spontaneity.
-- `INS-260403-94C4` In work where you must invent rather than choose, there is no ceiling that signals completion, so feeling perpetually unsatisfied is the normal state.
+- `INS-260405-A6E1` The data is showing mega funds beating middle-market funds, inverting a long-held VC narrative.
 - `INS-260403-DEB6` Determination requires equal parts willfulness and discipline; excess of either without the other produces local maxima or paralysis.
 - `INS-260404-BE07` A great programmer doesn't do the same work faster — they invent things an ordinary programmer would never even think of.
 - `INS-260403-B7E3` Being somewhat overconfident about your abilities empirically leads to better outcomes than perfectly calibrated self-assessment.
 - `INS-260403-A1DF` Wisdom means consistently good decisions across many situations; intelligence means spectacularly good decisions in a few.
+- `INS-260403-94C4` In work where you must invent rather than choose, there is no ceiling that signals completion, so feeling perpetually unsatisfied is the normal state.
 - `INS-260330-85E1` Rewarding yourself after hard work actually undermines future motivation; learning to find the effort itself rewarding is the neuroscience behind growth mindset.
 - `INS-260330-9E25` Caffeine uniquely upregulates dopamine receptors (making dopamine more effective) rather than depleting dopamine stores like other stimulants do.
 - `INS-260327-7581` Focus on doing the work well rather than achieving the result, and the result takes care of itself.
-- `INS-260405-A6E1` The data is showing mega funds beating middle-market funds, inverting a long-held VC narrative.
 - `INS-260330-423B` Rogan argues that bombing repeatedly in comedy forces you to develop a genuine philosophy and unique perspective on life because you must confront why you're not connecting with audiences.
 - `INS-260327-9447` Most people have never been adults - they've learned to perform the social behaviors associated with adulthood while remaining emotionally and psychologically undeveloped.
 - `INS-260403-50B0` Rituals combat chatter by giving you a concrete sense of order when your thoughts feel out of control.
+- `INS-260409-143A` Hustle-driven anxiety triggers fight/flight physiology which measurably reduces creativity and opportunity recognition — the opposite of what the pursuit requires.
 - `INS-260330-202A` Svelte and Solid compile components into direct DOM manipulation code, eliminating the virtual DOM runtime entirely and achieving top benchmark scores with smaller bundle sizes.
 - `INS-260403-0902` Seek the single elegant bottleneck removal over battalions of special-case optimizations when scaling a system.
 - `INS-260329-4870` A singly linked list and doubly linked list both implement the same list interface, but the wrong choice creates invisible O(n) costs that only surface at scale.

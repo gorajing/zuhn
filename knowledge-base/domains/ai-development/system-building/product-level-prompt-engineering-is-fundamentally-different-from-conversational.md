@@ -62,6 +62,7 @@ related:
   - INS-260403-7D7A
   - PRI-260406-1AC6
   - PRI-260320-6847
+  - INS-260409-1812
 ---
 Schulhoff distinguishes two types of prompt engineering: conversational (chatting with ChatGPT) and product-focused (crafting system prompts embedded in applications). Most people think of prompting as the former, but the real leverage is in the latter. A system prompt that runs millions of times across a user base has compounding impact — a 5% accuracy improvement at that scale is transformative.
 

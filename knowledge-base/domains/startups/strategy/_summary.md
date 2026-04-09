@@ -1,6 +1,6 @@
 # Topic: strategy
 
-> 238 insights
+> 241 insights
 
 - `INS-260330-98EA` [high] The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples.
 - `INS-260403-0530` [high] New York struggles as a startup hub because founders there are second-class citizens in a status hierarchy that most admires financial wealth.
@@ -152,6 +152,7 @@
 - `INS-260405-6DAD` [high] Founders taking equity upfront are making the same bet as ladder climbers — they've just restructured the timeline of risk and reward.
 - `INS-260402-CCF4` [high] Patents serve startups primarily as signals to acquirers that the technology is defensible and worth buying rather than building.
 - `INS-260328-6898` [high] Large companies are effectively always remote because the people you work with most closely are never at adjacent desks, but startups adopting the same practice gave up their in-person colocation advantage.
+- `INS-260409-229B` [high] The story of the company IS the strategy — there is no separate secret strategy document.
 - `INS-260403-FA8E` [high] Capital One saw Brex as a bargain shortcut to a scaled platform; VCs saw a 58% haircut from peak valuation — both were correct within their own frameworks.
 - `INS-260403-318A` [high] Study who's buying in your space and engineer partnerships with them early — the best acquisitions grow out of product integrations, co-selling, and shared customers.
 - `INS-260403-E681` [high] Successful strategies get applied past their point of diminishing returns because practitioners mistake the strategy for the goal.
@@ -185,6 +186,7 @@
 - `INS-260404-3C7A` [medium] Costco turns confusing layouts, limited selection, and upfront fees into deal-hunting excitement, supplier leverage, and customer loyalty respectively.
 - `INS-260403-165F` [medium] Applied Intuition reached $15B valuation by serving 18 of 20 top automakers while preserving capital and expanding to multi-product within a year.
 - `INS-260405-7DC3` [medium] E-Ship 1 added four Flettner rotors to reduce diesel consumption — not to replace diesel, making the economics and risk profile of adoption far more tractable.
+- `INS-260409-B4D0` [medium] Barbell: AI-first disruption bets on one side, durable human-need verticals (health, food, entertainment) on the other — skip the middle.
 - `INS-260329-06F2` [medium] $100K is harder than $1M because $100K assumes trading hours for wages — $1M forces you to find entirely different tools and leverage.
 - `INS-260403-D1D4` [medium] Doubling your already-ambitious targets forces strategic creativity and attracts higher-caliber collaborators.
 - `INS-260404-0022` [medium] Mapping all business models on return-vs-risk and evidence-vs-potential axes reveals disruption vulnerability at a glance.
@@ -203,6 +205,7 @@
 - `INS-260325-79BD` [medium] The ~1500-year gap between Bronze Age collapse and Rome's fall, and another ~1500 years to today, suggests recurring vulnerability patterns.
 - `INS-260330-E474` [medium] The 1054 Orthodox-Catholic schism — driven by theological identity differences, not resource competition — created a 1000-year fracture, showing that value misalignment produces the most permanent organizational splits.
 - `INS-260330-FAB8` [medium] The stated mission often masks the real driver — when organizations face resource constraints, they build ideological stories to justify aggressive moves.
+- `INS-260409-6E05` [medium] Incumbents are too busy running their business to learn AI; their unused hours are the startup's structural advantage.
 - `INS-260405-A30D` [medium] Five consecutive days of immersive practice with a focused cohort produces qualitatively different skill development than the same hours distributed over months.
 - `INS-260403-4F1B` [medium] A centralized failure that mirrors what your decentralized product prevents becomes the strongest possible validation of your value proposition.
 - `INS-260330-9DCD` [medium] Government monopoly on land rezoning functions as an uncapped, unaccountable tax on housing demand.

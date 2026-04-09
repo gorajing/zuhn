@@ -55,10 +55,10 @@ stance: >-
   generations optimize around rather than replace.
 related:
   - INS-260405-131B
+  - INS-260409-E44A
   - INS-260329-500E
   - INS-260329-7B1D
   - INS-260404-D6F7
-  - INS-260403-A2E9
 evidence:
   - id: INS-260323-042C
     type: EXTENDS

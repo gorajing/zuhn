@@ -1,6 +1,7 @@
 # Tag: durability
 
 - `INS-260405-DAC9` C endures because it is simultaneously high-level enough for developers and low-level enough for hardware — no replacement can match both simultaneously.
+- `INS-260409-F975` HALO (high asset, low obsolescence) businesses — physical experiences, LNG, mining, space — are the counter-AI portfolio that preserves durability while digital business models face rerating.
 - `INS-260327-643C` Score any software company across 8 moat dimensions — four or more means durable, two or less means vulnerable.
 - `INS-260327-65E7` British ships were built heavier and more durable than French ships, which were faster but more fragile — in prolonged fleet actions, British durability won because the ships could absorb damage and keep fighting.
 - `INS-260330-4FB9` Encoding knowledge inside memorable stories ensures transmission even when the transmitters don't understand the encoded information.

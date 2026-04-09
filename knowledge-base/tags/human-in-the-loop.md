@@ -7,3 +7,4 @@
 - `INS-260403-D227` Anthropic's study showing 17% lower mastery with AI assistance reveals that AI productivity gains come at the cost of human backup capability.
 - `INS-260327-13B3` Ambient agents listen to event streams and act in the background at scale, but they're not fully autonomous -- they need inbox-style UX for human approval, editing, question-answering, and time-travel debugging.
 - `INS-260327-0246` Fortune 500 companies won't go fully humanless in contact centers for years; the winning strategy is blending human agent assist with autonomous digital agents rather than pushing total automation.
+- `INS-260409-4CE8` Plain files beat opaque stores because you can see, edit, and trust what the system knows.

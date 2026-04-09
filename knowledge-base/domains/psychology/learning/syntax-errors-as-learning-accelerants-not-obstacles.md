@@ -47,12 +47,13 @@ stance: >-
   feedback loop in programming education and should be reframed as a learning
   advantage over domains with delayed feedback.
 related:
-  - INS-260327-98F7
   - INS-260329-A6FB
   - INS-260329-D48B
   - PRI-260406-FB98
   - INS-260329-7B1D
   - PRI-260405-6867
+  - INS-260327-98F7
+  - INS-260409-52CE
 evidence:
   - id: INS-260322-3537
     type: TRANSFERS_TO

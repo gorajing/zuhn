@@ -51,12 +51,11 @@ stance: >-
   based on animal research, creating a critical period where new behavioral
   patterns can be established more easily.
 related:
-  - INS-260325-3AFE
   - INS-260325-3AE4
   - PRI-260325-2DE6
   - INS-260326-24E6
   - PRI-260406-05B1
-  - INS-260325-216D
+  - INS-260409-C0DF
   - INS-260330-2304
   - INS-260330-C366
 evidence:

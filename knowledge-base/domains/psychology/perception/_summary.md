@@ -1,6 +1,6 @@
 # Topic: perception
 
-> 297 insights
+> 304 insights
 
 - `INS-260325-6AE7` [very_high] Perfect squares become vanishingly rare as numbers grow — 'almost no' numbers are perfect squares — yet there are infinitely many of them, perfectly predictably located.
 - `INS-260325-0921` [very_high] The Collatz sequence's logarithmic behavior matches geometric Brownian motion — a stock-market-like random walk emerging from a fully deterministic rule.
@@ -10,6 +10,7 @@
 - `INS-260327-7D75` [high] The worst outcome isn't failing at your goals - it's succeeding at goals that were never actually yours.
 - `INS-260402-86C4` [high] Adults hiding their flaws while enforcing high standards on children creates a generation that feels secretly, hopelessly inadequate compared to an illusion.
 - `INS-260327-9D51` [high] Algorithms optimized for engagement systematically show people the most extreme, emotional, and divisive content, creating population-scale distortion of what the world actually looks like.
+- `INS-260409-8910` [high] REM sleep downregulates the frontal lobe, activates vision, and paralyzes the body — a ready-made abduction experience.
 - `INS-260325-D033` [high] 75,000-year-old African beds used ash layers to repel ticks and aromatic leaves to deter mosquitoes, while ostrich egg canteens were self-cooling through micro-porous evaporation.
 - `INS-260327-86FE` [high] Every anti-consumption trend is immediately co-opted by brands selling anti-consumption-branded products, neutralizing t
 - `INS-260330-12D5` [high] Over-detecting threats in ambiguous stimuli is evolutionarily cheaper than missing real threats, so apophenia persists as a survival advantage.
@@ -101,6 +102,7 @@
 - `INS-260323-144F` [high] Lunar rocks match Earth's isotope ratios at parts-per-million precision — an empirical fact that invalidates the most physically elegant Moon formation model, demonstrating that measurement precision can overturn theoretical elegance.
 - `INS-260323-C2F1` [high] After his father's death, McConaughey discovered that excessive reverence for dreams and people kept him from fully engaging — reducing reverence while maintaining respect enabled courage.
 - `INS-260329-356A` [high] A limit depends entirely on a function's behavior near a point, not at the point — a function can be undefined or have a completely different value at x=a and still have a perfectly well-defined limit there.
+- `INS-260409-C25D` [high] The giant Earth-over-the-Moon shot is a long-lens crop; the Earth would look quite small to a human eye on the lunar surface.
 - `INS-260327-57A4` [high] The malls original value proposition was social gathering that included shopping; when social interaction moved to socia
 - `INS-260327-747B` [high] Artificial urgency events like Cyber Monday show declining engagement as consumers learn that the same discounts are ava
 - `INS-260330-466E` [high] The Arecibo message, Pioneer plaques, and Voyager records all converge on using hydrogen's hyperfine transition as the base unit — because physics is believed to be identical everywhere in the universe.
@@ -110,6 +112,7 @@
 - `INS-260327-4A5D` [high] Your relationship with money isn't about money - it's about whatever psychological need (security, status, control) money has become a proxy for.
 - `INS-260327-032F` [high] The most dangerous people aren't those who know they're doing wrong but those who are absolutely certain they're doing right.
 - `INS-260327-1845` [high] Ask 'what would I do if I weren't afraid?' and notice how many of your current life choices are fear-avoidance rather than genuine pursuit.
+- `INS-260409-AC30` [high] Before asking what the object is, ask what the camera is doing.
 - `INS-260325-3589` [high] Musashi: overthinking is the gap between perception and action — train to act on direct perception before analysis creates paralysis.
 - `INS-260327-DF8B` [high] Musical training physically changes brain structure - enlarging the corpus callosum, strengthening neural pathways, and enhancing capabilities that transfer to language, emotion, and reasoning.
 - `INS-260330-1243` [high] Applying ideological threat models to fundamentally transactional actors leads to systematic misprediction of their behavior and goals.
@@ -117,6 +120,7 @@
 - `INS-260327-2EFD` [high] Consumer interest in analog products (vinyl, film cameras, physical planners) peaks when the aesthetic appeal exceeds th
 - `INS-260403-C7D8` [high] Whether something is objective or subjective depends on how much the observers have in common, not on whether observers are involved.
 - `INS-260330-601A` [high] A cosmic ray proton traveling at 99.9999999999991% light speed would measure Earth as only 17 metres thick — Earth is literally flat to that observer.
+- `INS-260409-7496` [high] On Earth we see point-source sun plus diffuse sky dome; in space there is only the point source, which reads as artificial.
 - `INS-260325-26C6` [high] Freud used steam engines, the 20th century used computers, and now neural networks may rehabilitate intuition as a valid metaphor for mind.
 - `INS-260325-EC7A` [high] Greek and Roman statues were vibrantly painted — our image of austere white marble is an accident of decay, known for over a century but still shaping perception.
 - `INS-260323-E77E` [high] Bohm and Aharonov, both academic outsiders — one exiled by McCarthyism, the other a student — overturned 200 years of physics consensus because their marginalization freed them from orthodoxy.
@@ -142,6 +146,7 @@
 - `INS-260325-451F` [high] Archaeologists assumed the undigested quickite lumps in Roman concrete were manufacturing errors, but MIT researchers discovered they were the self-healing mechanism that made Roman structures last 2,000 years.
 - `INS-260325-26CF` [high] Romantic rejection activates the nucleus accumbens (cocaine, heroin, gambling addiction center), the VTA (continued love drive), and physical pain regions — making love literally an addiction that can drive suicide and stalking.
 - `INS-260328-EA3A` [high] Past a critical threshold, more scale actively degrades quality — and the degradation is invisible during growth.
+- `INS-260409-8908` [high] Astronauts on the ISS never see the whole Earth at once because they're too close; only deep-space distance produces the marble.
 - `INS-260327-2A59` [high] Products that create flavor through scent alone demonstrate that a large percentage of what consumers perceive as taste 
 - `INS-260329-7B2D` [high] Defining structure before content forces you to discover constraints and relationships you would otherwise miss.
 - `INS-260325-568A` [high] Every great scientific breakthrough, even those attributed to lone geniuses, arose from collaborative social contexts — and knowing this helps us create better conditions for future discovery.
@@ -172,6 +177,7 @@
 - `INS-260329-0F06` [high] Abstract data types define behavior contracts while data structures provide specific implementations, and this separation principle applies far beyond programming.
 - `INS-260327-7D27` [high] All-inclusive pricing environments increase total spending because individual consumption decisions carry zero marginal 
 - `INS-260330-125E` [high] Rubin describes how the brain instantly invents explanatory stories for unexpected events, then registers those invented stories as factual memories we later relay with full confidence.
+- `INS-260409-FB26` [high] Experience is a generated model, not a recording — priors and beliefs shape what reaches awareness.
 - `INS-260325-AE23` [high] Ask 'why' enough times about any action and you reach either God, a self-justifying value like family, or the uncomfortable realization that reasons simply run out.
 - `INS-260329-B8B6` [high] The chain rule states that when y depends on u which depends on x, the rate dy/dx equals dy/du times du/dx — rates of change through composed systems multiply, they don't add.
 - `INS-260323-6BF4` [high] Malice identifies a toxic cultural pattern: people feel compelled to have and share opinions on everything, even topics they know almost nothing about.
@@ -211,6 +217,7 @@
 - `INS-260327-45BD` [high] Reusable tote bags from trendy brands function primarily as visible virtue signals rather than practical shopping tools,
 - `INS-260325-48E4` [high] Drawing the right picture turns abstract formulas from arbitrary rules into obvious geometric facts.
 - `INS-260330-D1A1` [high] Seeing gas dynamics inside a suppressor at 110,000 fps gave both the engineer and the audience understanding that no schematic or explanation could match.
+- `INS-260409-3059` [high] Images become the load-bearing memory of an event while the names of those involved fade.
 - `INS-260329-F51D` [high] The Google engineer observes that excellent programmers are distinguished not by knowing more data structures but by knowing when each one is the right choice for the task.
 - `INS-260323-FAD5` [high] The N-word demonstrates that identical words carry radically different meanings in different contexts — from slur to art to academic study to community bonding.
 - `INS-260327-23F8` [high] The first writing wasn't poetry or philosophy - it was accounting records tracking grain and livestock, revealing that economic necessity drives cognitive innovation more reliably than creative impulse.

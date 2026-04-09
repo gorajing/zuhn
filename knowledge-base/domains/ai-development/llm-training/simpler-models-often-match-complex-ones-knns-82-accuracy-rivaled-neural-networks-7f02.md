@@ -52,11 +52,11 @@ stance: >-
   frequently match or exceed neural network performance, making model complexity
   a poor default choice.
 related:
-  - INS-260327-7A48
   - INS-260329-3D3E
+  - INS-260327-7A48
   - INS-260323-584D
+  - INS-260409-17E9
   - PRI-260328-E3A7
-  - INS-260330-6BBD
 ---
 The course demonstrates across multiple algorithms that KNN (82.0%), Naive Bayes, and Logistic Regression all achieved comparable accuracy to neural networks on a heart disease classification task. This is not a fluke - it reflects a fundamental property of structured tabular data where feature relationships are relatively simple and the curse of dimensionality works against distance-based methods less than expected.
 

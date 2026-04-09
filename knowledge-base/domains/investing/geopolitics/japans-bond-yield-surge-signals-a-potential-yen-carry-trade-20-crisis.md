@@ -59,8 +59,8 @@ related:
   - INS-260405-AE75
   - INS-260403-EC09
   - INS-260403-0A91
+  - INS-260409-1390
   - INS-260403-2151
-  - INS-260403-8194
 ---
 Japan's new PM Sanae Takaichi pushed through a 21.3 trillion yen ($135.4B) stimulus package — the largest since COVID — sending long-dated JGB yields to their highest levels since the 2008 financial crisis and the yen to 10-month lows. This mirrors the conditions that preceded the July 2024 carry trade unwinding, when the BoJ's surprise rate hike forced rapid liquidation of the multi-trillion dollar yen carry trade.
 

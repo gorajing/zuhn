@@ -51,8 +51,6 @@ stance: >-
   to physical infrastructure — energy, cooling, and compute hardware — making
   hardware capabilities the new bottleneck.
 related:
-  - INS-260321-9824
-  - INS-260322-2D57
   - INS-260323-257D
   - PRI-260406-4B37
   - INS-260325-5CB1

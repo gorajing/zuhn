@@ -15,4 +15,5 @@
 - `INS-260329-AA76` Merge onboarding with the first real user action so users learn by doing, not by reading slides.
 - `INS-260329-7F3D` Telling users 'the system is confused' instead of 'you made an error' prevents the emotional shutdown that causes abandonment.
 - `INS-260329-D1F2` Real-world data extraction projects retain learners better than synthetic exercises because the output has immediate personal value.
+- `INS-260409-4EC0` Early-stage churn is an education problem, not a product problem — fix it with your time, not a roadmap.
 - `INS-260329-100D` Orient sales training around deep prospect understanding rather than product knowledge — reps shouldn't be talking much about the product anyway.

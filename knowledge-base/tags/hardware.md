@@ -1,11 +1,12 @@
 # Tag: hardware
 
+- `INS-260409-AB32` Two's complement turns subtraction into addition-of-a-negative, collapsing two circuits into one and revealing that smart representations beat smart algorithms.
 - `INS-260327-DE27` AI that designs better chips faster creates a recursive loop: better chips enable better AI, which designs even better chips.
 - `INS-260404-CC8B` Musk's orbital compute thesis rests on the claim that electricity and cooling requirements are becoming the binding constraint on AI progress, not algorithms.
 - `INS-260322-8147` The next industrial revolution isn't just factories — it's the shared component stack (batteries, motors, power electronics, compute) that powers EVs, drones, data centers, and manufacturing.
 - `INS-260405-A22F` Vera Rubin delivers up to 10x lower inference token cost and 4x fewer GPUs for MoE training compared to Blackwell, entering production in H2 2026.
-- `INS-260405-567D` NVIDIA's Vera Rubin platform delivers 10x inference efficiency gains, signaling the industry's pivot from training to inference as the dominant workload.
 - `INS-260404-1E65` Non-invasive wearables (wristbands, headbands) lower the adoption barrier for brain-computer interfaces compared to surgical implants.
+- `INS-260405-567D` NVIDIA's Vera Rubin platform delivers 10x inference efficiency gains, signaling the industry's pivot from training to inference as the dominant workload.
 - `INS-260405-5649` Biological neurons operate in milliseconds on minimal power; H100 GPUs process billions of times faster but consume massive energy—these are fundamentally different engineering solutions to intelligence, not points on a spectrum.
 - `INS-260323-2DF2` The explosion of AI accelerators (GPUs, TPUs, NPUs) creates an impossible maintenance burden that only a universal abstraction layer can solve.
 - `INS-260323-6761` Instead of humans manually finding cache sizes, tile dimensions, and vector widths, the compiler runs your code on the target hardware and caches the empirically fastest configuration.

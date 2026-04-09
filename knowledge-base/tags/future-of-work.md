@@ -8,6 +8,8 @@
 - `INS-260320-DEAF` Coding is going away first — AI models handle raw coding now, but broader software engineering (architecture, design, user needs, team management) takes longer to automate.
 - `INS-260408-3691` Hassabis to students: 'immerse myself in every tool available and become almost like superpowered' — the gap is creative application, not technical skill.
 - `INS-260325-2069` The unemployed won't be biologists and chemists but biologists and chemists who don't use quantum computers -- the hammer doesn't replace the carpenter, it amplifies them.
+- `INS-260409-4719` When intelligence costs go to zero, humans get paid for taking risk — the one thing machines cannot perform on your behalf.
+- `INS-260409-A180` Hassabis softly rejects Marc Andreessen's 'history always repeats' view — AGI at 10x Industrial Revolution speed may exceed the economy's capacity to create replacement jobs.
 - `INS-260403-3E16` When everyone delegates to AI, human professional identity shifts from 'what I do' to 'what I delegate.'
 - `INS-260404-459B` Inverting startup culture's oddities reveals the 'normal' world as conservative, hierarchical, and slow — which Graham argues is actually a portrait of the past, not a permanent default.
 - `INS-260403-10CE` As AI automates task execution, the scarce human contribution shifts to judgment, taste, and the ability to orchestrate AI systems effectively.

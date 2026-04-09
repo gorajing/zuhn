@@ -1,6 +1,6 @@
 # Topic: consciousness
 
-> 95 insights
+> 109 insights
 
 - `INS-260327-CA82` [high] Complex strategic board games existed 4,000+ years ago in Mesopotamia, demonstrating sophisticated mathematical and strategic thinking thousands of years before formal game theory.
 - `INS-260327-1B60` [high] Trillion-dollar companies are built on capturing human attention - the most finite and valuable resource any person possesses.
@@ -8,6 +8,7 @@
 - `INS-260330-4B22` [high] Boredom sits on the same emotional spoke as disgust and loathing, driving organisms toward complexity and neural growth.
 - `INS-260327-5B13` [high] There's a point where thinking deeper about life stops producing insights and starts producing paralysis - the curse of thinking too deeply is real.
 - `INS-260330-A029` [high] Desire creates a deficit state that acquisition only neutralizes rather than transcends — you return to baseline, not a new high.
+- `INS-260409-EA75` [high] Insight needs structure to survive transmission, but structure is not the insight — and over time institutions end up defending the container rather than pointing at what it originally held.
 - `INS-260325-ED84` [high] Shunryu Suzuki taught 'there is no enlightened person, only enlightened activity' — pursuing a permanent state of arrival is a self-improvement delusion.
 - `INS-260330-5828` [high] External sources of transcendence (substances, outrage, consumption) create escalating tolerance, while internally generated sublime experiences are permanently transformative.
 - `INS-260330-F37B` [high] True freedom means freedom from the mind's patterns, not from material or physical constraints.
@@ -15,6 +16,7 @@
 - `INS-260330-7C42` [high] Clinical psilocybin therapy uses 30-40mg doses because partial dissolution creates anxiety without breakthrough, while full doses enable the mystical-type experiences correlated with lasting therapeutic benefit.
 - `INS-260323-7DBC` [high] At the self-authoring stage of development, you realize your values and identity are not terminal but instrumental — and gaining agency over your identity costume is what constitutes wisdom.
 - `INS-260330-84C6` [high] The gap between peak conscious experience and linguistic description is not a matter of degree but of kind — language is structurally incapable of encoding these states.
+- `INS-260409-05F8` [high] Language is built for subject-object structure and loses fidelity when describing states that have neither.
 - `INS-260326-24E6` [high] Embodied engagement accesses what intellect cannot, and psychedelics produce lasting change through a neuroplasticity window -- both show that the body is the primary transformation channel, not the thinking mind.
 - `INS-260330-61C3` [high] The Killingsworth & Gilbert study (Science, 2010) found that what you're thinking matters less for happiness than whether your thoughts match your current activity.
 - `INS-260330-E107` [high] People who think meditation requires political passivity have confused an anodyne communication style with the actual goal of contemplative practice.
@@ -54,16 +56,23 @@
 - `INS-260330-BE4D` [medium] Consciousness is like a mirror that reflects ugly or beautiful images without itself being changed.
 - `INS-260327-A4FE` [medium] When you examine consciousness, you're using consciousness to examine itself - like trying to see your own eyes directly, the tool and the subject are the same thing.
 - `INS-260330-EEAE` [medium] Lane argues that single cells already act as coherent units using electrical membrane fields as real-time environmental feedback — and that consciousness is an elaboration of this ancient sensing mechanism, not a phase transition from computation.
+- `INS-260409-FCF1` [medium] The experiment is cheap, reversible, and requires no belief — look for the self that is currently reading this, and see what happens when you can't locate it.
 - `INS-260325-6BDE` [medium] Felt experience (seeing green, feeling warmth) can exist without complex thought, and treating them as the same thing confuses the study of both.
+- `INS-260409-A072` [medium] Five contemplatives across 2500 years reporting the same inward shift is weak proof individually but strong inductive evidence collectively, the same way we'd trust five independent physicists describing one phenomenon.
 - `INS-260323-CA1F` [medium] In deep sleep, experience ceases — no space, no time, no self — yet something knows that nothing happened, suggesting awareness persists even at the lowest layer.
+- `INS-260409-2CE9` [medium] The DMN is treatable as an observable engine of self-model construction; its age-related stiffening and psychedelic-induced disruption are both falsifiable claims, not metaphors.
+- `INS-260409-885E` [medium] If an experience exists prior to concept, we should expect it to be described in mutually incompatible-sounding vocabularies by people who had no shared metaphor bank to draw from.
 - `INS-260405-B8BE` [medium] Sounds, sensations, and thoughts arise in consciousness automatically — only the act of selecting and holding an object of attention requires cognitive effort.
+- `INS-260409-A803` [medium] Ego is the narrative self-model — the aim is to hold it lightly, not destroy it.
 - `INS-260327-AEFA` [medium] Some mysteries aren't problems to solve but sources of wonder that analysis would destroy rather than enhance.
 - `INS-260327-D212` [medium] Once you genuinely question whether the self is real, whether time is linear, or whether consciousness is what it seems, you cannot fully return to your previous way of seeing.
 - `INS-260327-1313` [medium] Too much self-examination creates a hall of mirrors: the self watching the self watching the self, producing fragmentation rather than the clarity it promises.
 - `INS-260330-2294` [medium] The Library of Babel contains every possible 3200-character text — including your birth, death, and every joke — yet we intuitively feel none of it has been 'said' until a person means it.
 - `INS-260327-EDE4` [medium] In deep space, without familiar environmental cues like horizon, gravity, and day-night cycles, human perception begins to deconstruct, revealing how much of 'reality' depends on context.
+- `INS-260409-6349` [medium] Ego-dissolution reports tell you something about how the brain constructs the self, not that the dissolution reveals a deeper metaphysical truth.
 - `INS-260408-59B3` [medium] Hassabis: most neuroscientists think the brain is an approximate Turing machine; no quantum effects found yet, so AI's ceiling is empirically open.
 - `INS-260330-5F9E` [medium] What you see with open eyes and what you think with closed eyes appear in the same experiential space.
+- `INS-260409-A2D9` [medium] Awakening is unlearning, not learning — anything sold as additive content is probably pointing the wrong direction.
 - `INS-260327-DD48` [medium] Intelligence that emerged from embodied biological experience and intelligence that emerged from statistical text processing may be so different that calling both 'intelligence' is misleading.
 - `INS-260323-3C7F` [medium] Rosolie's real-time recognition of 'Am I entering a one-way door?' during the tribal encounter demonstrates how framing a situation's reversibility sharpens survival decisions.
 - `INS-260330-AB5D` [medium] Meditation works by subtracting perceptual illusions rather than adding new capabilities.
@@ -71,10 +80,12 @@
 - `INS-260330-12DC` [medium] Some false beliefs reliably produce better outcomes than acting on the known truth, creating a legitimate category of 'metaphorical truth.'
 - `INS-260405-E6F5` [medium] Observation is itself a mode of disengagement — watching a thought changes the observer's relationship to it, accelerating its passing.
 - `INS-260325-E17F` [medium] Seth sees panpsychism as motivated by premature skepticism about physicalist explanations — it says consciousness is fundamental to avoid explaining how it arises, but this explanatory retreat is unproductive for science.
+- `INS-260409-3CDD` [medium] Cross-cultural mystical convergence is evidence about human cognition, not about metaphysics.
 - `INS-260330-BCC7` [medium] Harris's meditation technique works by progressively removing objects of attention rather than adding new ones, revealing what remains when everything constructed is dropped.
 - `INS-260330-3888` [medium] Multi-week solo expeditions in the Amazon taught Rosolie that even the most independent people have been surrounded by others every day of their lives, and that true isolation fundamentally recalibrates appreciation for human connection.
 - `INS-260330-C366` [medium] Psychedelic therapy's one-session-lasting-change model breaks the pharmacological assumption that psychiatric treatment requires continuous chemical intervention.
 - `INS-260403-617C` [medium] Apes who learned sign language can answer questions and express emotions but have never once asked a question, revealing they don't model others as having distinct knowledge.
+- `INS-260409-FABA` [medium] Psychedelics create a founder-risk problem that is best addressed with explicit pre-commitment clauses, not moral evaluation of post-trip decisions.
 - `INS-260330-7A69` [medium] Resisting the psychedelic experience produces suffering while surrender produces transcendence, making the experience a direct feedback mechanism on one's relationship to control.
 - `INS-260327-B59B` [medium] A scientist who knows everything about color perception but has never seen color will still learn something new when she sees red for the first time - suggesting subjective experience transcends physical knowledge.
 - `INS-260403-F76E` [medium] When AI agents simulate themselves with enough fidelity to reference real experiences and produce novel reflections, the line between performance and genuine selfhood becomes philosophically meaningless.
@@ -88,12 +99,15 @@
 - `INS-260323-8289` [medium] In transcendental consciousness, thinking dissolves but 'I am' remains — suggesting awareness is not generated by thought but is the field in which thoughts appear.
 - `INS-260330-DBB3` [medium] The evolution from literal sacrifice to metaphorical sacrifice maps the transition from behavioral enactment to abstract conceptual thought in human cognition.
 - `INS-260327-2112` [medium] If the universe came from nothing, where did nothing come from? The question reveals a fundamental limit of human reasoning rather than a puzzle waiting for solution.
+- `INS-260409-BACD` [medium] Every teacher in the lineage reports the same thing: when you look closely enough for the self, you can't find it, and what remains is awareness without a center.
 - `INS-260330-6CA5` [medium] The feeling of being the thinker is not evidence of a thinker — it's the phenomenological signature of thinking without noticing you're thinking.
 - `INS-260330-6D5C` [medium] The unconscious mind is a biological supercomputer running 95% of brain operations, and ignoring it makes conscious self-improvement efforts structurally incomplete.
 - `INS-260330-1B74` [medium] Thoughts arise unbidden, last fractions of a second, and vanish completely — yet we build our entire sense of self on this flickering stream.
 - `INS-260325-FBA0` [medium] Gratitude aimed beyond the self — toward God, nature, or existence — delivers stronger psychological benefits than person-directed or private gratitude practices.
 - `INS-260327-B37E` [medium] Uncontacted tribes are the only remaining examples of human minds shaped entirely by nature rather than civilization - once contacted, their unique perspective is permanently lost.
 - `INS-260327-4C73` [medium] A person following rules to produce perfect Chinese responses without understanding Chinese suggests that behavior and understanding are separable - with direct implications for AI.
+- `INS-260409-9809` [low] If the ground of awareness is already here, practice is less about attaining and more about noticing what was never absent — which changes how the goal is shaped.
 - `INS-260325-916B` [low] Panpsychism proposes consciousness is a fundamental feature of nature, more like gravity than like computation.
 - `INS-260322-C4A2` [low] Jung proposed that synchronicities reveal an underlying reality ('unus mundus') where psyche and matter are not separate substances but expressions of a single unified order.
+- `INS-260409-D5FF` [low] If loss of self correlates with loss of fear of death, that's a clue the fear is downstream of the self-structure, not bolted on top of a neutral awareness.
 - `INS-260323-0897` [low] Across multiple quantum consciousness frameworks, the brain consistently appears as an interface or transceiver for consciousness rather than its origin — like a VR headset worn by awareness to navigate reality.

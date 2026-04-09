@@ -11,6 +11,7 @@
 - `INS-260330-22F0` Before psychoanalysis, mentally ill patients were confined to sanatoriums; Freud's talk therapy demonstrated that conversation itself could be curative.
 - `INS-260330-C366` Psychedelic therapy's one-session-lasting-change model breaks the pharmacological assumption that psychiatric treatment requires continuous chemical intervention.
 - `INS-260403-AFC4` Paradigms shape not just what we think but the mental components we think with, creating invisible evaluation bias against novel ideas.
+- `INS-260409-02C5` The standard model of cosmology still explains the CMB, primordial hydrogen/helium abundances, and large-scale galaxy clustering with extraordinary precision; the cracks are real but localized, and conflating 'in crisis' with 'dead' is a category error.
 - `INS-260323-E77E` Bohm and Aharonov, both academic outsiders — one exiled by McCarthyism, the other a student — overturned 200 years of physics consensus because their marginalization freed them from orthodoxy.
 - `INS-260330-0FCC` Disciplinary training creates perceptual filters that make anomalies invisible to insiders but obvious to outsiders.
 - `INS-260330-DBA4` We abandoned solar time because mechanical clocks were more regular than the sun, choosing invented precision over natural truth.

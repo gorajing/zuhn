@@ -46,10 +46,10 @@ stance: >-
   because fundamental capabilities change monthly.
 related:
   - INS-260325-17BF
+  - INS-260409-22CD
   - INS-260325-060A
   - PRI-260405-64B2
   - INS-260325-6F89
-  - INS-260327-99CE
 evidence:
   - id: INS-260325-060A
     type: SUPPORTS

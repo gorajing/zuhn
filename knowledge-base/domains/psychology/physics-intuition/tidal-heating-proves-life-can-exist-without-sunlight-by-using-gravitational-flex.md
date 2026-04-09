@@ -52,12 +52,12 @@ stance: >-
   too narrow for predicting where life exists
 related:
   - INS-260323-5955
-  - INS-260330-8625
   - INS-260330-5D8A
   - INS-260330-8544
   - INS-260404-EFA8
   - INS-260330-966E
   - INS-260330-833E
+  - INS-260409-B8C1
   - INS-260330-4E9B
 evidence:
   - id: INS-260325-1709

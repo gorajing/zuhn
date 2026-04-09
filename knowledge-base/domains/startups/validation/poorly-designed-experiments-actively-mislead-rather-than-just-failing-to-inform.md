@@ -50,11 +50,11 @@ stance: >-
   Bad market research is worse than no research because it generates false
   confidence that misdirects product and strategy decisions.
 related:
+  - INS-260409-FCF1
   - INS-260404-6DA9
   - PRI-260323-CE34
   - INS-260323-DA13
   - INS-260402-D0F3
-  - INS-260403-1BCC
 evidence:
   - id: INS-260323-DA13
     type: REFINES

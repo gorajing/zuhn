@@ -50,9 +50,9 @@ resolutions:
 related:
   - INS-260323-C4EE
   - INS-260330-5F21
+  - INS-260409-A4F0
+  - INS-260409-94F8
   - INS-260403-1B0D
-  - INS-260330-14B1
-  - PRI-260323-1187
 stance: >-
   The codec avatar system crosses the uncanny valley by preserving human
   imperfections like freckles, asymmetry, and wrinkles rather than smoothing

@@ -57,6 +57,7 @@ related:
   - INS-260403-85BB
   - INS-260404-5AC8
   - INS-260327-89AE
+  - INS-260409-25FF
 ---
 When asked what he'd build starting from zero, Cuban pointed to infrastructure without hesitation. His reasoning follows a classic picks-and-shovels argument: consumer AI apps get the headlines but face brutal competition because AI itself lowers the barrier to building them. Infrastructure companies serve every layer above them and benefit from switching costs and data gravity.
 

@@ -11,11 +11,12 @@
 - `INS-260322-55D8` ChatGPT has 800-900M weekly active users, but only 5% pay — five times more people have accounts than can find a weekly use case.
 - `INS-260403-2A0F` Effective AI adoption measurement pairs leading indicators like power-user counts with lagging indicators like hours saved or PRs merged.
 - `INS-260321-6437` The Department of War achieved 15x AI user growth in 90 days by ruthlessly cutting 14 priority areas to 6 with applied AI as number one, proving that focus acceleration works even in massive bureaucracies.
-- `INS-260321-A56C` Generative AI can help with more tasks than past automation (more flexible) but takes over fewer tasks completely (less robust) — it's task-augmenting not task-replacing.
-- `INS-260405-0327` Benedict Evans' Q1 2024 framing captures a market where most enterprises are still in the 'looking for use-cases' phase, not the 'scaling deployments' phase — suggesting the real AI ROI wave is still ahead.
+- `INS-260409-C14E` AI is a platform shift — daily use now compounds into intuition that late adopters cannot buy later.
 - `INS-260323-1452` When executives mandate 'more AI everywhere,' it often signals abdication of decision-making rather than strategic vision.
 - `INS-260323-4794` AI infrastructure includes human expectations, staff training, and cultural readiness — not just data pipelines and cloud credits.
 - `INS-260404-3D17` AI's highest-value opportunities are shifting from horizontal platforms to deep industry-specific solutions.
+- `INS-260321-A56C` Generative AI can help with more tasks than past automation (more flexible) but takes over fewer tasks completely (less robust) — it's task-augmenting not task-replacing.
+- `INS-260405-0327` Benedict Evans' Q1 2024 framing captures a market where most enterprises are still in the 'looking for use-cases' phase, not the 'scaling deployments' phase — suggesting the real AI ROI wave is still ahead.
 - `INS-260403-F0EE` Individual AI productivity gains are real but haven't conclusively appeared in aggregate statistics yet, making macro claims premature.
 - `INS-260325-DA83` Harvard/MIT research at BCG shows top performers got much better with AI while lower performers got worse — the 'selective upgrade puzzle.'
 - `INS-260321-1A0B` The biggest risk of AI adoption isn't that it fails — it's that it works so well that humans stop learning. Design AI systems where a key priority is the learning and improvement of the humans in the loop.
@@ -24,8 +25,8 @@
 - `INS-260325-EE14` Wharton research shows people abandon AI tools after seeing a single error, but letting users tweak parameters restores adoption even at higher error rates.
 - `INS-260403-D82B` Framing AI as a named co-worker rather than a tool converts resistant users into champions.
 - `INS-260405-75C4` Watching someone use AI live is more instructive than reading or hearing about it.
-- `INS-260405-7C86` Focused, short demos change AI behavior faster than comprehensive theoretical treatments.
 - `INS-260403-1085` Gaming consistently pioneers AI integration patterns — from Deep Blue to AlphaGo to generative AI — making it a reliable leading indicator for how other industries will adopt AI.
+- `INS-260405-7C86` Focused, short demos change AI behavior faster than comprehensive theoretical treatments.
 - `INS-260327-540D` Sequoia frames the enterprise AI opportunity as a spectrum from bottoms-up tools to top-down solutions — and solution companies like Harvey, Sierra, and Pace are fundamentally selling trust that AI will work for the customer's specific needs.
 - `INS-260322-88FC` Major banks like Goldman Sachs went from building their own email clients to adopting Cursor and GitHub Copilot — AI's intuitive demonstrability is accelerating institutional openness to external technology.
 - `INS-260403-EC3D` Screen-sharing AI workflows in meetings and Slack creates viral adoption through social proof more effectively than formal training.

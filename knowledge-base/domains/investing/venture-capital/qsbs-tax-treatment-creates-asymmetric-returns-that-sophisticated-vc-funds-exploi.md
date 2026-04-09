@@ -57,8 +57,7 @@ related:
   - PRI-260405-E9C5
   - INS-260403-E2DE
   - INS-260404-F45E
-  - INS-260403-6E68
-  - INS-260403-4B31
+  - INS-260409-D465
 ---
 The QSBS provision (Section 1202) allows investors to exclude up to $10 million or 10x their cost basis in capital gains from federal taxes when selling stock in qualifying small businesses held for more than 5 years. For VC funds, this creates a powerful structural advantage that compounds across portfolio returns.
 

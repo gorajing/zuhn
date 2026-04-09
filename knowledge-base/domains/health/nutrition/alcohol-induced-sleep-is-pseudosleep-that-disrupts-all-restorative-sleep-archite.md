@@ -57,11 +57,11 @@ stance: >-
   sleep architecture, making alcohol-assisted sleep functionally closer to a
   hypnotic trance than actual restorative sleep.
 related:
-  - INS-260325-9693
   - PRI-260406-D0E1
+  - INS-260325-9693
   - INS-260327-027E
   - INS-260330-4D8B
-  - INS-260330-0233
+  - INS-260409-8910
 ---
 Citing sleep researcher Matthew Walker's work, Huberman explains that even one glass of wine or beer disrupts the architecture of sleep that night. Slow-wave sleep, deep sleep, and rapid eye movement (REM) sleep — all essential for cognitive restoration, memory consolidation, and physical recovery — are degraded when alcohol is present in the bloodstream. At higher consumption levels, sleep scientists classify the resulting state as 'pseudosleep': the person appears to be sleeping but is actually in a low-level hypnotic trance with multiple unnoticed awakenings throughout the night.
 

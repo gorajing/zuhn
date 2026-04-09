@@ -74,6 +74,7 @@ related:
   - INS-260402-E148
   - INS-260403-541C
   - INS-260404-29EC
+  - INS-260409-6ABF
 ---
 Whyte breaks decision criteria into three clear dimensions. Technical criteria: can the solution do what the customer needs technically? This extends beyond features to infrastructure, security, interface, and integration requirements. Economic criteria: does the business case stack up? Is the ROI sufficient? But critically, it's not just about money — it's about resources. Does implementing your solution require so much effort that even a great ROI isn't worth the organizational cost? Does the business case place you at the top of their priorities list? Relationship criteria: does the customer want to work with you? Are you a good partner? How strong is your roadmap, your industry presence, your partner ecosystem?
 

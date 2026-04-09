@@ -59,6 +59,7 @@ related:
   - PRI-260406-F6A5
   - INS-260404-F26B
   - PRI-260328-BDC2
+  - INS-260409-BD67
 ---
 The authors describe their strategy as 'simple but really hard: we create and find the best resources for founders and VCs worldwide and give them before anyone else — always trying to add value.' This give-first approach, maintained consistently across multiple channels, built an audience of 200k+ subscribers and generated the social proof and trust needed to get into competitive deal flow.
 

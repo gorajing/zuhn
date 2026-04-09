@@ -1,6 +1,7 @@
 # Tag: creator-economy
 
 - `INS-260405-E8A1` When agents can monetize their own outputs and spend autonomously, they become economic actors, not just tools — blurring the line between software and economic agent.
+- `INS-260409-278A` Agency pricing hasn't repriced for AI yet - the gap between creator cost and agency quote is an arbitrage window.
 - `INS-260330-E414` Recurring audience funding lets creators pursue ambitious projects that sponsors would reject as too risky or long-timeline.
 - `INS-260403-9FEB` 46% of new creator economy unicorns since 2020 are AI-based platforms, and AI-related startups captured the majority of new funding in 2024.
 - `INS-260403-E8E3` Veritasium's plan to sign and mail 10,000 shade balls to Patreon supporters turns a video prop into a tangible relationship artifact.
@@ -15,6 +16,7 @@
 - `INS-260403-CBED` Creators are replacing traditional media as the primary channel through which consumer opinions, purchase decisions, and product discovery flow.
 - `INS-260329-13D2` Higher production value and format evolution to reach more people is justified as long as the core message stays intact — the audience trains you through engagement signals.
 - `INS-260402-C03D` MrBeast's $500M+ revenue empire proves a single creator can bypass traditional marketing by using content as the distribution engine for vertically integrated businesses.
+- `INS-260409-8DDE` Platforms don't pay creators and never have — the real AI threat to creators is brands choosing AI faces they can own over human creators they rent, not platforms replacing content producers.
 - `INS-260403-09CB` Long-term content success requires prioritizing stamina by writing about what energizes you rather than chasing what performs well.
 - `INS-260405-6019` Expertise plus authenticity is outcompeting institutional authority as the basis for trusted information.
 - `INS-260329-0F10` The primary barrier to audience growth is premature quitting, not lack of skill—making persistence itself the competitive moat.

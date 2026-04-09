@@ -45,10 +45,10 @@ stance: >-
   than trying to launch with full depth across all features
 related:
   - INS-260404-F965
+  - INS-260409-1AA0
   - PRI-260405-4B06
   - INS-260323-2559
   - INS-260403-7586
-  - INS-260330-112E
 evidence:
   - id: INS-260404-F965
     type: EXTENDS

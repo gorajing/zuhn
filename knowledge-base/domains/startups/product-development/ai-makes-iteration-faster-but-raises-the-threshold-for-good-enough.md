@@ -51,6 +51,7 @@ related:
   - INS-260403-368A
   - INS-260403-1D92
   - INS-260322-BBED
+  - INS-260409-25FF
   - INS-260405-4091
 ---
 AI tooling enables founders to prototype in days rather than months and to extract user behavior insights that previously required large analyst teams. These are genuine productivity gains that lower the barrier to reaching early validation. However, the same AI advances that accelerate development also accelerate user sophistication — users who interact with powerful AI daily develop refined intuitions for what AI 'should' do, and they judge new products against that intuition. The net effect is that iteration speed is table stakes, not an advantage. The question shifts from 'how fast can we build?' to 'how well do we understand what the evolving user expects, and can we calibrate to that faster than expectations shift?'

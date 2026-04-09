@@ -52,7 +52,6 @@ stance: >-
   a perfect single prompt produces consistently better results and is a more
   efficient use of time than endlessly tweaking initial prompts.
 related:
-  - INS-260320-4993
   - INS-260320-DC3C
   - INS-260320-D972
   - INS-260329-FEBA
@@ -61,6 +60,8 @@ related:
   - PRI-260321-037A
   - INS-260403-F664
   - INS-260403-18CA
+  - INS-260409-D6D8
+  - INS-260409-1812
 ---
 There's a common trap in prompt engineering: spending excessive time crafting the perfect initial prompt. The article makes a crucial observation — your follow-up prompts are part of the prompt. The first output is rarely the best, and treating prompting as a layering process (tweak, reframe, narrow, repeat) is both faster and more effective than single-shot perfection.
 

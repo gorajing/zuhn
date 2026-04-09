@@ -47,11 +47,11 @@ resolutions:
     search integration within image models (like Nano Banana's web research for
     accuracy) creates a new dimension beyond just aesthetics and reasoning.
 related:
+  - INS-260409-A4F0
   - INS-260327-165D
   - PRI-260406-7D93
   - INS-260327-FEB7
   - INS-260327-555D
-  - INS-260404-48D1
 stance: The most viral consumer AI moments of 2025 were all image/video
 evidence:
   - id: INS-260327-165D

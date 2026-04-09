@@ -7,11 +7,11 @@
 - `INS-260326-3E19` Pharmaceutical companies funding the FDA, banks staffing financial regulators, and tech giants writing platform regulations are structurally identical -- the mechanism is industry-funded oversight producing industry-favorable rules.
 - `INS-260326-CA66` Insulin resistance manifests as heart disease, diabetes, obesity, and dementia -- just as a misidentified business model manifests as churn, pricing problems, and sales failures.
 - `INS-260326-A7CB` The body shows nutritional deficiencies on skin and nails years before blood tests detect disease -- just as emotions flag relationship problems before conscious analysis catches up.
-- `INS-260330-74A0` Proof of work exploits the asymmetry between creation difficulty and verification ease to scale trust across unlimited participants.
-- `INS-260330-D950` Destin and his father discovered new phenomena about the carburetor they built only because they were operating and observing it together in real time.
 - `INS-260330-1609` To extract Fourier coefficient c_n, you multiply by the inverse frequency to freeze the target vector and average away everything else — a pattern applicable far beyond mathematics.
 - `INS-260329-FEA8` The derivative simultaneously means geometric slope, instantaneous rate of change, and marginal cost/revenue — and the real skill is knowing which interpretation to apply in which context.
 - `INS-260329-6727` The geometric proof of lim(sin θ/θ) = 1 uses area comparisons of triangles and sectors that no purely algebraic approach can replicate, demonstrating that visual reasoning is a distinct and irreplaceable mode of mathematical understanding.
+- `INS-260330-74A0` Proof of work exploits the asymmetry between creation difficulty and verification ease to scale trust across unlimited participants.
+- `INS-260330-D950` Destin and his father discovered new phenomena about the carburetor they built only because they were operating and observing it together in real time.
 - `INS-260330-972B` The thylakoid membrane stores energy by pumping protons to create a concentration differential — the same pattern underlies arbitrage, expertise moats, and information advantages.
 - `INS-260330-42DE` The body's hierarchy — atoms, cells, tissues, organs, organ systems, organism — shows how stacking simple organized layers produces capabilities none could achieve alone.
 - `INS-260330-035C` Stanford research showed hotel workers told their daily movement met exercise guidelines lost significantly more fat and improved cardiovascular markers compared to uninformed controls, even without changing behavior.

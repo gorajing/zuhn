@@ -52,6 +52,6 @@ related:
   - INS-260403-9757
   - INS-260405-5649
   - INS-260325-5CB1
-  - INS-260404-7060
+  - INS-260409-2B5F
 ---
 The human brain processes roughly one billion bits of sensory information per second, yet our output channels — speech, movement, typing — are limited to approximately 10 bits per second. This represents a five-orders-of-magnitude compression bottleneck. Every interface humans use (keyboards, touchscreens, voice) operates within this narrow output band. BCIs like Neuralink bypass the traditional neuromuscular pathway entirely, reading electrical activity directly from the motor cortex and translating neural firing patterns into digital actions. This reframing — from 'cool brain chip' to 'bandwidth upgrade' — clarifies why BCIs may be as transformative as the jump from dial-up to broadband was for the internet.

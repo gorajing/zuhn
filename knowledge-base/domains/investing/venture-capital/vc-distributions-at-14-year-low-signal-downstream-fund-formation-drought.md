@@ -49,7 +49,6 @@ stance: >-
   A prolonged distribution drought will constrain new VC fund formation 1-2
   years later, as LPs who haven't received returns cannot recommit capital.
 related:
-  - INS-260327-8374
   - INS-260404-DA3A
   - PRI-260406-6895
   - PRI-260406-4D4E

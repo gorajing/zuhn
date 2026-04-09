@@ -54,5 +54,6 @@ related:
   - INS-260403-10CE
   - INS-260330-2306
   - INS-260327-3A71
+  - INS-260409-94D6
 ---
 Pieter Levels built a portfolio of million-dollar businesses solo not through tool adoption but through systems design. Nomad List exemplifies this: users generate content by logging cities, that content drives long-tail SEO, SEO brings traffic, traffic drives subscriptions, and paid members moderate quality. No support team, no sales, no marketing department — just a self-reinforcing loop. AI tools like image generation and email drafts are supporting acts, not the engine. The common founder trap is asking 'What tools should we adopt?' when the better question is 'What's the most repetitive task I still do manually, and does it need to exist at all?' Automating a bloated system doesn't fix it — it just makes waste faster and more expensive.

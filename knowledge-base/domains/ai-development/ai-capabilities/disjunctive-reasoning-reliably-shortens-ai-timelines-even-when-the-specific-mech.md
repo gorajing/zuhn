@@ -56,7 +56,7 @@ related:
   - INS-260403-BADD
   - PRI-260328-5F64
   - PRI-260405-64B2
-  - PRI-260323-0654
+  - INS-260409-17E9
 ---
 Yudkowsky argued that timelines would be shorter than Bio Anchors predicted because researchers would actively seek new paradigms, and if the current paradigm wouldn't pay off until the 2050s, a new one would likely be discovered first. This created a disjunction: timelines are short either because deep learning works quickly OR because a new paradigm gets invented. It turned out to be the first path, not the second, but the disjunctive reasoning still produced a more accurate bottom line.
 

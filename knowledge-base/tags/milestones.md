@@ -6,3 +6,4 @@
 - `INS-260322-047D` Setting the next milestone (transaction volume target, operating profit threshold) instead of fixating on the ultimate exit/IPO prevents the marathon-with-no-end-in-sight feeling that exhausts founders.
 - `INS-260405-0D9A` Structure your roadmap so each milestone lowers the cost or risk of the next, making progress compound rather than just accumulate.
 - `INS-260403-832E` Company launch and product launch are distinct events, and conflating them causes founders to delay fundraising unnecessarily.
+- `INS-260409-784F` Ninety days to meaningful revenue replaces 18 months to Series A as the AI-era validation milestone.

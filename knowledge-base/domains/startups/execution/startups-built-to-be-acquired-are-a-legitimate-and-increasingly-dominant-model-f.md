@@ -56,7 +56,6 @@ related:
   - INS-260404-EC32
   - INS-260403-FCF7
   - PRI-260407-590E
-  - INS-260403-FB4D
   - INS-260403-8DA1
 evidence:
   - id: INS-260403-B7FA

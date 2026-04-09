@@ -2,17 +2,18 @@
 
 - `INS-260329-C4F5` Framing AI as augmentation rather than replacement is the only actionable mindset because the alternative is paralysis.
 - `INS-260322-3263` ChatGPT has 900M weekly active users but only 10-15% use it daily — 5x more people know how to use AI than can think of something to do with it, revealing a product-market fit gap not a technology gap.
+- `INS-260409-D012` Proficiency takes ~20 hours; people delay the first hour for decades because the cost of starting is visible and the cost of not starting is invisible.
 - `INS-260405-A992` Embed AI agents where people already communicate rather than asking them to adopt new interfaces.
 - `INS-260325-7FAF` The agentic inflection point comes from model capability AND inference ease-of-use converging simultaneously.
 - `INS-260403-2115` McKinsey and OpenAI have both released practical frameworks for enterprise agent deployment, signaling agentic AI is entering mainstream adoption.
 - `INS-260403-AC2D` 68% of large enterprises are already deploying AI agents, collapsing a timeline most predicted would take until 2030.
-- `INS-260325-4C92` Almost everything AI can do is underestimated because users discover unimaginable use cases.
 - `INS-260404-116E` When a cheaper AI model launches, the demand expansion from lower costs outweighs the margin compression investors fear.
 - `INS-260321-2241` Singapore, Hong Kong, and UAE lead per-capita AI adoption, while the US ranks 20th — driven primarily by cultural trust differentials (32% US trust vs 50-70% in leading countries) rather than technology availability.
+- `INS-260325-4C92` Almost everything AI can do is underestimated because users discover unimaginable use cases.
 - `INS-260405-3061` ChatGPT's retention improves after month one, bucking the typical viral app decay curve as users embed it into daily work.
+- `INS-260404-1E65` Non-invasive wearables (wristbands, headbands) lower the adoption barrier for brain-computer interfaces compared to surgical implants.
 - `INS-260330-82B5` One bad AI interaction permanently destroys user willingness to retry, creating a vicious cycle of declining engagement and improvement.
 - `INS-260330-30CE` Users who experience AI failure on first try rarely return, creating an adoption death spiral that compounds over time.
-- `INS-260404-1E65` Non-invasive wearables (wristbands, headbands) lower the adoption barrier for brain-computer interfaces compared to surgical implants.
 - `INS-260405-10DF` Knowledge workers spend nearly two hours per week fixing low-quality AI outputs ('workslop'), creating a hidden productivity tax during the adoption dip.
 - `INS-260402-543E` Healthcare AI succeeds when it augments existing workflows rather than demanding practitioners change how they work.
 - `INS-260403-990E` AI embedded in existing workflows like email gets adopted faster than AI requiring new habits.

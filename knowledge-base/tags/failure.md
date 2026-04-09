@@ -14,9 +14,9 @@
 - `INS-260403-39DD` Losing fortunes and rebuilding them is the empirical test that separates skill-based wealth creation from luck-based wealth.
 - `INS-260325-55D8` Before starting any experiment, plan what you will do if it fails and how to minimize downside — this is more valuable than optimizing for the upside scenario.
 - `INS-260323-5F8A` Investors who back founders with 3-4 failures are buying battle-tested pattern recognition that lucky first-timers never develop.
-- `INS-260405-3403` You must fund the losers to find the winners—the portfolio math only works if you don't pre-filter by apparent promise.
-- `INS-260405-0A6D` Portfolio innovation strategy only works if you actually exit the failures fast—without a kill discipline, you accumulate zombie projects that consume resources and produce nothing.
 - `INS-260323-8C53` Open Secret's marketplace failure created the financial discipline that enabled 3x growth while staying profitable — the crisis was the catalyst.
 - `INS-260323-DEC3` The 'never give up' mantra can be destructive — 170 rejection letters, deep depression, and isolation were the universe telling Jeff Kaplan to quit writing so the door to game design could open.
 - `INS-260323-FDB8` We only study winners, but losers often executed the same playbook — luck and timing separated them.
 - `INS-260405-BC10` The US-Europe startup gap is best explained by failure-recovery infrastructure — bankruptcy law, investor attitudes, labor mobility — not by cultural risk appetite alone.
+- `INS-260405-3403` You must fund the losers to find the winners—the portfolio math only works if you don't pre-filter by apparent promise.
+- `INS-260405-0A6D` Portfolio innovation strategy only works if you actually exit the failures fast—without a kill discipline, you accumulate zombie projects that consume resources and produce nothing.

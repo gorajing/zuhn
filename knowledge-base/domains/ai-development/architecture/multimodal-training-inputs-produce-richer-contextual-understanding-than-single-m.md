@@ -50,7 +50,6 @@ stance: >-
   plus facial expressions
 related:
   - INS-260322-B09B
-  - INS-260323-C4EE
   - INS-260323-D400
   - INS-260321-CCD9
   - INS-260327-1B9A
@@ -59,6 +58,7 @@ related:
   - INS-260404-CE26
   - INS-260327-79E8
   - INS-260325-B50B
+  - INS-260409-BE39
 ---
 The essay uses an intuitive analogy: understanding someone's facial expressions while they speak produces a richer interpretation than audio alone. Similarly, training on multimodal data from platforms like X — where a single post might contain text, images, video, and community reactions — allows models to triangulate meaning across modalities.
 

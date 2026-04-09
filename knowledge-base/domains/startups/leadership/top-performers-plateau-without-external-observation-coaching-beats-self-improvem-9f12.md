@@ -53,11 +53,11 @@ stance: >-
   self-assessment alone, and external coaching is the most reliable way to break
   through mid-career plateaus.
 related:
-  - INS-260321-8433
   - INS-260325-E895
+  - INS-260321-8433
   - INS-260327-8E62
   - PRI-260328-0F0D
-  - INS-260330-DE89
+  - INS-260409-BBBA
   - INS-260403-F658
 evidence:
   - id: INS-260321-8433

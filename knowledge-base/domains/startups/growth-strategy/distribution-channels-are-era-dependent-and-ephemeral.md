@@ -47,10 +47,10 @@ stance: >-
   one emerges.
 related:
   - INS-260404-35B6
+  - INS-260409-1390
   - INS-260330-3A0D
   - INS-260330-F9CA
   - INS-260403-1D6E
-  - INS-260325-24D1
 evidence:
   - id: INS-260325-24D1
     type: EXTENDS

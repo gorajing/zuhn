@@ -25,8 +25,8 @@
 - `INS-260404-569C` Without public traction metrics or media validation, stealth fundraising shifts the evaluation entirely to founder credibility and trusted referral networks.
 - `INS-260405-5D19` Behind every pitch decision is a messy mix of conviction, timing, and 'who else is in?' social proof — which founders can engineer.
 - `INS-260402-4719` VCs primarily invest based on traction and other investors' interest rather than their own technical evaluation.
+- `INS-260329-9C6B` Give away your service for free initially to collect testimonials and case studies that make subsequent sales dramatically easier.
 - `INS-260327-D7AA` Each customer success story unlocks an industry vertical — OpenAI's Moderna partnership unlocked life sciences credibility, and Morgan Stanley unlocked financial services, because prospects want proof rather than promise.
 - `INS-260327-E3CA` Lead with proof-point metrics from similar customers (M1) to build trust, then unlock the prospect's specific value metrics (M2) through discovery.
 - `INS-260329-4A69` Invest in capturing and displaying proof rather than crafting elaborate promises — proof is always more compelling.
 - `INS-260329-348D` Warning about extreme positive side effects makes the positive outcome feel inevitable rather than aspirational.
-- `INS-260329-9C6B` Give away your service for free initially to collect testimonials and case studies that make subsequent sales dramatically easier.

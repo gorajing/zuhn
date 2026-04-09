@@ -9,9 +9,9 @@
 - `INS-260403-9542` Treat group presentation as a consciously artificial trick requiring deliberate practice, then make the artificial delivery sound conversational.
 - `INS-260404-18F1` Speaking to a room requires a completely different voice than conversation — treat it as a consciously artificial trick, like juggling, that you make seem natural.
 - `INS-260330-AB5D` Meditation works by subtracting perceptual illusions rather than adding new capabilities.
-- `INS-260329-7AAB` Choose roles that maximize skill acquisition over immediate compensation during your growth years.
 - `INS-260403-EA34` Building skills must be developed early because they require sustained focus, but selling skills can be added later.
 - `INS-260402-72EF` Being popular requires as much dedicated effort as any elite skill — nerds simply invest their hours elsewhere.
+- `INS-260329-7AAB` Choose roles that maximize skill acquisition over immediate compensation during your growth years.
 - `INS-260329-9CED` CS50 teaches C before Python so students understand what happens underneath abstractions, creating mental models that transfer to any future language.
 - `INS-260329-F969` Teaching C before Python forces students to build mental models of how computers actually work, making all subsequent learning faster and more durable.
 - `INS-260329-7EFD` Programming learning goes from 'confused, confused, confused' to 'holy mackerel, this is awesome' with no gradual transition.
@@ -41,6 +41,7 @@
 - `INS-260329-9A7F` Twenty hours of deeply focused study on one skill — using a physical timer to enforce attention — creates enough competence to begin job applications in that field.
 - `INS-260329-40B6` Teaching isolated components before composition mirrors natural language acquisition and produces deeper mastery despite feeling counterintuitive.
 - `INS-260329-9CCF` Interleaving prerequisite material with advanced content at the point of need — as this calculus course does with algebra corequisites — creates immediate motivation and context that front-loaded prerequisites lack.
+- `INS-260409-B521` To get good you must be willing to be bad for a very long time — ego protection prevents the iteration that produces skill.
 - `INS-260329-3739` Skill = repetitions × improvement-per-rep; reviewing your top and bottom 10% of outputs is the multiplier most people skip.
 - `INS-260329-E40B` The normal learning path for programming is prolonged confusion followed by a sudden breakthrough, and knowing this pattern exists is itself the most valuable intervention.
 - `INS-260329-AB9A` Programming for your own use cases removes the hardest parts of software development and lets you focus purely on problem-solving.

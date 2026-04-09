@@ -48,9 +48,8 @@ stance: >-
   The same compliance processes that safeguard corporate reputation inevitably
   throttle innovation velocity unless explicitly redesigned for experimentation
 related:
-  - INS-260326-80B1
-  - INS-260330-4980
   - PRI-260406-6122
+  - INS-260326-80B1
   - PRI-260403-5FC4
   - INS-260403-5427
   - PRI-260328-94D4

@@ -24,6 +24,7 @@
 - `INS-260403-52C4` Partially working features that resist deprecation due to sunk cost create more cumulative drag than outright failures that get quickly killed.
 - `INS-260329-1F3F` Burning your escape routes forces the persistence that passion-based motivation cannot sustain.
 - `INS-260403-AA8F` Founders stick with bad ideas because invested time feels like evidence of quality, not because better ideas don't exist.
+- `INS-260409-2AF8` When prospects pay with time now, they are more likely to pay with money later.
 - `INS-260405-E353` Costco's maze-like layout and IKEA's self-assembly both work because they make customers feel like active participants who earned their reward rather than passive consumers.
 - `INS-260330-53A9` RuBisCo fails ~50% of the time but plants compensate with 40 billion tons of it rather than evolving a replacement — a textbook case of strategic lock-in.
 - `INS-260330-54ED` RuBisCo is terrible at its job but plants produce 40 billion tons of it rather than evolving a replacement, illustrating how early commitment to a suboptimal strategy creates permanent compensatory overhead.

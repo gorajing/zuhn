@@ -1,5 +1,6 @@
 # Tag: competitive-analysis
 
+- `INS-260409-2906` Reverse-engineer outlier videos in your niche instead of ideating from scratch — the data already tells you what works.
 - `INS-260404-7EFA` Creating Business Model Canvases for external parties like competitors and partners exposes their motivations, constraints, and possibilities for collaboration or conflict.
 - `INS-260404-462B` Combine the Value Proposition Canvas with a Strategy Canvas to visualize whether your differentiation from competitors is real and meaningful.
 - `INS-260328-D0F6` Yahoo, HP, and Intel all looked invincible until they were not — the 'watermelon' pattern of green outside, red inside applies to today's tech giants too.

@@ -13,11 +13,11 @@
 - `INS-260403-DDDC` Codified pattern libraries lower the barrier to business model innovation by providing proven configurations to adapt rather than invent.
 - `INS-260330-6B7F` Vanilla JS forces imperative DOM manipulation where state and UI are completely decoupled, and any attempt to manage that complexity at scale recreates framework patterns — just without the community, testing, and documentation.
 - `INS-260403-832B` eDreams built Spain's first unicorn without lean startup methodology, finding that the absence of playbooks forced them to focus on what actually worked rather than conventional wisdom.
-- `INS-260330-F2EB` Young Masa Son used three repeatable lenses — solve personal problems, invert properties, combine existing things — to generate 250 invention ideas in one year.
 - `INS-260325-05FC` Investing in general problem-solving techniques compounds; investing only in specific answers doesn't.
 - `INS-260328-D775` MBA programs were trade schools for middle managers at GM — that rule-following mindset is the exact opposite of what startups require.
+- `INS-260330-F2EB` Young Masa Son used three repeatable lenses — solve personal problems, invert properties, combine existing things — to generate 250 invention ideas in one year.
 - `INS-260403-1269` The best business tools are conceptually sound, simple, practical, visual, and have great UX — adoption depends on usability, not just correctness.
-- `INS-260329-B604` Sales objections are cognitive distortions that manifest as blame directed at circumstances, other people, or self.
-- `INS-260405-790A` Effective sales pitches follow a setup phase that frames the buyer's world, then a differentiated value phase that proves why your solution uniquely fits it.
 - `INS-260403-462F` Scoring business models across 9 defined mechanics reveals weaknesses that intuitive strategy discussions miss.
 - `INS-260405-736C` PMF is a four-rung ladder—customer-problem fit, problem-solution fit, business-model fit, then scale—and skipping rungs causes collapse.
+- `INS-260329-B604` Sales objections are cognitive distortions that manifest as blame directed at circumstances, other people, or self.
+- `INS-260405-790A` Effective sales pitches follow a setup phase that frames the buyer's world, then a differentiated value phase that proves why your solution uniquely fits it.

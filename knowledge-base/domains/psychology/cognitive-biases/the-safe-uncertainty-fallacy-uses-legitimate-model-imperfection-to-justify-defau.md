@@ -54,7 +54,6 @@ stance: >-
   that things will remain normal.
 related:
   - INS-260329-5924
-  - INS-260403-979D
   - INS-260404-D711
   - INS-260404-1D05
   - INS-260405-5E18

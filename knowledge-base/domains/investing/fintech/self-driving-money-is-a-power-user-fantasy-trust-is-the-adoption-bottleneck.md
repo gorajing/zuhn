@@ -45,8 +45,8 @@ related:
   - INS-260405-E8A1
   - INS-260321-9A03
   - INS-260327-C316
+  - INS-260409-B2B5
   - INS-260323-8AA1
-  - INS-260325-51E6
   - INS-260329-94CF
 stance: >-
   The 'self-driving money' app that automatically allocates paychecks, sweeps

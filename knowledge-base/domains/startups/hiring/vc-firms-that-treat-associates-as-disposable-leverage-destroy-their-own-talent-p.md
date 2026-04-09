@@ -54,10 +54,10 @@ stance: >-
 related:
   - INS-260323-DA85
   - INS-260327-6405
+  - INS-260409-065B
   - PRI-260406-25D0
   - PRI-260403-7D1F
   - INS-260326-7B2A
-  - INS-260404-91D5
 ---
 Mike Dauber of Amplify Partners highlights a systemic failure in VC hiring: most firms treat associates as short-term analytical labor rather than investing in their development as future investors. Amplify's contrarian approach — mentorship and long-term career growth from day one — reflects a belief that the associate role should be an apprenticeship, not a two-year stint.
 

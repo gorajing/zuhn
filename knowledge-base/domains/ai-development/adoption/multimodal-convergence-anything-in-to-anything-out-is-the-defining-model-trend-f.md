@@ -52,8 +52,6 @@ related:
   - INS-260402-142F
   - INS-260321-CCD9
   - INS-260323-2AE2
-  - INS-260323-4D63
-  - INS-260320-105E
   - INS-260403-58DA
 stance: >-
   Labs are merging previously separate text, image, and video capabilities into

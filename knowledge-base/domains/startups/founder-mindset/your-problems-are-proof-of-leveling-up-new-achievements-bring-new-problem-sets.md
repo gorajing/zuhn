@@ -44,15 +44,16 @@ resolutions:
     learning to be grateful for the new problems because they are evidence of
     the growth you asked for.
 related:
-  - INS-260325-1AD3
   - INS-260323-28FB
   - INS-260323-BDC1
   - INS-260323-9C11
+  - INS-260409-7DB7
   - INS-260325-13B9
-  - INS-260329-2460
+  - INS-260325-1AD3
   - INS-260327-3C96
   - INS-260328-F60B
   - INS-260328-0540
+  - INS-260329-2460
 stance: >-
   Many of your current problems are the result of achieving the dreams of your
   past self

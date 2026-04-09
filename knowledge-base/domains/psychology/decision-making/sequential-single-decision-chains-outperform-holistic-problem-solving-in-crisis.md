@@ -59,6 +59,8 @@ related:
   - INS-260404-B6B1
   - INS-260329-0B76
   - INS-260404-DF88
+  - INS-260409-42F2
+  - INS-260409-BC1E
 evidence:
   - id: INS-260330-A476
     type: CONTRADICTS

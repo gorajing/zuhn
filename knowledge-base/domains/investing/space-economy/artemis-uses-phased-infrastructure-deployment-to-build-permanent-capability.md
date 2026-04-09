@@ -48,9 +48,9 @@ resolutions:
 related:
   - INS-260322-3833
   - PRI-260328-0E23
+  - INS-260409-4EA5
   - INS-260327-D65E
   - INS-260403-CAE5
-  - INS-260327-F417
 stance: Artemis builds permanent lunar presence through deliberate phased deployment
 evidence:
   - id: INS-260327-F417

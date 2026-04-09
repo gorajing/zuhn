@@ -53,8 +53,8 @@ related:
   - INS-260329-9D26
   - INS-260405-B204
   - INS-260405-95A6
+  - INS-260409-1390
   - INS-260405-3098
-  - INS-260403-CF46
   - INS-260403-2833
 ---
 Multiple micro-level studies show AI improving worker productivity across tasks, and a European study found AI adoption causally increases labor productivity by 4% at the firm level. However, aggregate productivity data is noisy — Brynjolfsson claims 2.7% US productivity growth in 2025 signals an AI boom, but critics note the data is subject to revision, confounded by immigration policy changes (removing lower-productivity workers mechanically raises averages), and may reflect capital investment in AI rather than AI usage gains.

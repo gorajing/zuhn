@@ -52,7 +52,6 @@ stance: >-
   measurable ROI.
 related:
   - INS-260323-784B
-  - INS-260327-27DA
   - PRI-260327-942E
   - PRI-260406-CCAE
   - PRI-260328-6A8D

@@ -47,7 +47,6 @@ stance: >-
   fragile if that wealth is concentrated in a few narrow sectors like real
   estate and resource extraction rather than diversified productive activity.
 related:
-  - INS-260327-A4D1
   - INS-260329-7372
   - PRI-260403-C229
   - INS-260330-3E6F

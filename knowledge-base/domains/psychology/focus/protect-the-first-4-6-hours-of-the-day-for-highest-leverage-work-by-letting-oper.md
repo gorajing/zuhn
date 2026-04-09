@@ -50,9 +50,9 @@ stance: >-
 related:
   - INS-260320-47DC
   - INS-260329-1F4D
+  - INS-260409-D012
   - INS-260328-A57D
   - INS-260323-95BC
-  - INS-260325-809A
 evidence:
   - id: INS-260320-47DC
     type: SUPPORTS

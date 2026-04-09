@@ -56,7 +56,6 @@ stance: >-
   pharmacology.
 related:
   - INS-260330-22F0
-  - INS-260330-1384
   - PRI-260406-5D76
   - PRI-260325-2DE6
   - PRI-260405-CCCE

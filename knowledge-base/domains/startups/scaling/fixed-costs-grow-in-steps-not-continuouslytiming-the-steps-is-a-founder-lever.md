@@ -58,7 +58,6 @@ related:
   - PRI-260406-EE38
   - PRI-260406-1F70
   - INS-260403-4904
-  - INS-260403-EA01
 ---
 Variable costs scale smoothly with revenue, but fixed costs—salaries, office space, compliance certifications—increase in lumps. You don't need half an engineer; you either hire one or you don't. This step-function nature means there are windows where your fixed cost base can support more revenue than you're currently generating, and moments where one additional hire tips you into a significantly higher burn rate.
 

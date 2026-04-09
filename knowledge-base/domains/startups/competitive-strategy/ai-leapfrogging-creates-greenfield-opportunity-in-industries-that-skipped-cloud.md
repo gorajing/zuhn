@@ -54,7 +54,6 @@ stance: >-
   unaddressed TAMs
 related:
   - INS-260322-BBED
-  - INS-260325-DFC7
   - INS-260327-7D53
   - INS-260329-8DDF
   - INS-260330-77A2
@@ -63,6 +62,7 @@ related:
   - INS-260403-1FCD
   - PRI-260406-834A
   - INS-260404-5AC8
+  - INS-260404-3D17
 evidence:
   - id: INS-260329-8DDF
     type: EXTENDS

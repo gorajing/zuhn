@@ -54,10 +54,10 @@ stance: >-
 related:
   - INS-260323-2DB0
   - INS-260330-95E8
+  - INS-260409-7731
+  - INS-260409-647D
   - INS-260404-00DE
-  - INS-260403-FCB6
-  - PRI-260323-7B35
-  - INS-260330-217C
+  - INS-260409-8181
 ---
 Wen observes that Microsoft Research, Google Brain, and DeepMind all attracted world-class talent and produced groundbreaking research, but consistently failed to lead in commercialization. OpenAI, despite starting as a research lab, succeeded in commercializing because they needed revenue to sustain their research compute costs. The abundance of resources at Google and Microsoft removed the urgency to ship products.
 

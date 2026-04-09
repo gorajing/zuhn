@@ -43,6 +43,6 @@ related:
   - INS-260327-ED21
   - INS-260327-D6E0
   - INS-260327-1270
-  - PRI-260328-D9D0
+  - INS-260409-BB5E
 ---
 Hair growth requires specific nutrients concentrated in organ meats (copper, iron, B12), collagen-rich foods (hydroxyproline, glycine), and zinc-rich animal foods that plant sources cannot match

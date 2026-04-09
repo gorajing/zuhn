@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 536 insights
+> 537 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -302,6 +302,7 @@
 - `INS-260327-B387` [high] Serve your core fans like a band plays its hits—sideline critics will never become users no matter what you change.
 - `INS-260327-7B2B` [high] Palo Alto Networks evolved from a firewall company to a multi-platform cybersecurity giant by systematically asking which adjacent billion-dollar markets could be consolidated onto their existing infrastructure.
 - `INS-260324-C1B8` [high] In firearms, the US government decides which foreign manufacturers can sell to American civilians — the logic is political, not economic, with NATO allies allowed and adversaries blocked.
+- `INS-260409-FE1D` [high] Possession of customer beats model differentiation — ChatGPT may have negative model edge but owns the consumers.
 - `INS-260330-DC5E` [high] The Cambrian explosion was triggered not by new resources but by predation — eyes, claws, and shells evolved as arms-race responses, producing more innovation in millions of years than billions of years of resource competition.
 - `INS-260327-0A48` [high] Under Armour's premium pricing ($25 tees when competitors sold for $10-15, $100 running shoes) built credibility with athletes and retailer confidence, but the same pricing became a barrier when they tried to reach mainstream consumers and international markets.
 - `INS-260330-106F` [high] Since the 1970s, antitrust law has equated low prices with consumer benefit, creating a blind spot for companies like Amazon that maintain low prices while eliminating competition through cross-subsidization.

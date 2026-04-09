@@ -50,5 +50,6 @@ related:
   - INS-260403-5593
   - INS-260403-57FF
   - INS-260403-1861
+  - INS-260409-3CCA
 ---
 Graham observes that many 25-year-olds save nothing anyway, and plenty of employees already work startup-level hours — so neither money nor time explains why startups are rare. The real deterrent is bearing the full moral weight of responsibility for a venture's survival. This fear is rational because the burden genuinely is heavy. Ramen profitability directly addresses this by flipping the default state from 'dying' to 'surviving,' which lifts enough psychological weight to meaningfully increase chances of success. This reframes the founder support problem: the most valuable thing you can do for founders isn't reducing financial risk but reducing the felt weight of existential responsibility.

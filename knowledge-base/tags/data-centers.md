@@ -4,6 +4,7 @@
 - `INS-260403-CEAD` Bio Anchors accurately predicted willingness-to-spend and cost-per-FLOP trends through 2025, correctly forecasting the massive data center buildout from observable investment patterns.
 - `INS-260403-B539` AI's exponentially growing demand for electricity, land, and water will squeeze human access to basic resources before labor replacement becomes the primary concern.
 - `INS-260402-1640` AI threatens humans not by replacing their jobs but by competing for shared resources like energy and land.
+- `INS-260409-A11F` Frontier AI compute is only economically viable because its environmental and public health costs are externalized onto vulnerable communities that never consented to host the infrastructure.
 - `INS-260405-1054` xAI's third data center reaches nearly 2 gigawatts of compute power by co-locating with an acquired power plant, signaling that energy access—not just hardware—is the binding constraint for frontier AI labs.
 - `INS-260405-95A6` U.S. productivity growth near its post-WWII peak is attributable to data center investment, not white-collar AI tool use.
 - `INS-260405-D638` Starcloud's orbital GPU clusters use solar power and vacuum cooling to eliminate the cost structure of terrestrial AI infrastructure.

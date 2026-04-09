@@ -48,8 +48,8 @@ related:
   - INS-260404-0095
   - PRI-260323-8EEA
   - PRI-260406-9780
+  - INS-260409-2906
   - INS-260402-2632
-  - PRI-260406-B9B4
 stance: >-
   Opus Clip validated by manually engineering final video outputs and emailing
   them to potential customers, getting 60% positive feedback before writ...

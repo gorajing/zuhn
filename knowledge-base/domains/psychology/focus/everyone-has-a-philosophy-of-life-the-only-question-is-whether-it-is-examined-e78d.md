@@ -54,11 +54,11 @@ evidence:
   - id: INS-260322-C9AC
     type: SUPPORTS
 related:
+  - INS-260409-2093
   - PRI-260328-23B0
   - PRI-260328-6189
   - INS-260325-82E8
   - INS-260325-560A
-  - INS-260325-76E6
 ---
 Pigliucci confronts people who say they do not need a philosophy of life. He points out that if he observed their behavior — their choices, priorities, values — he could reconstruct their implicit philosophy. Everyone has one; the question is whether it is conscious and deliberate.
 

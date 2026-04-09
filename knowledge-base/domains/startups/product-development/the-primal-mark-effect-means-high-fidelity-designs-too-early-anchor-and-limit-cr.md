@@ -58,6 +58,7 @@ related:
   - PRI-260406-33E9
   - PRI-260406-A5F0
   - INS-260405-D925
+  - INS-260409-533A
 ---
 Baxley references Stanford research on 'the primal mark' — the first concrete visual representation of an idea sets cognitive expectations that constrain all subsequent iterations. Once a team sees a polished mockup, they unconsciously optimize within that frame rather than questioning whether the entire approach is wrong. This is why he advocates staying in low-fidelity block frames for as long as possible.
 

@@ -1,5 +1,6 @@
 # Tag: operations
 
+- `INS-260409-5065` Ingest adds new material; query probes and adds explorations; lint finds contradictions, orphans, and gaps.
 - `INS-260329-3EB6` AWS Lambda's auto-scaling model means you never under-provision, but the operational discipline shifts from capacity planning to cost monitoring and function optimization.
 - `INS-260327-E9FC` Berthier as Chief of Staff was arguably more important to Napoleon's success than any fighting marshal — he translated Napoleon's often vague strategic vision into precise orders that thousands could execute.
 - `INS-260330-2689` The mathematician defines a vector by what you can do with it (add, scale), not by what it is — this yields maximum generality.
@@ -16,8 +17,8 @@
 - `INS-260405-1982` Treat fundraising as a sprint with a hard end date to minimize distraction and create investor urgency.
 - `INS-260328-3A00` YC's core advantage was being a software company built by someone who loved software and hated hiring people — Standard Capital is replicating this approach for Series A.
 - `INS-260405-54A9` Internal AI agents (HR, knowledge base, competitor intel) deliver faster ROI than customer-facing ones because deployment barriers are lower.
-- `INS-260403-C4CD` RuBisCo's oxygen-confusion creates toxic phosphoglycolate that plants must dedicate entire enzyme pathways to neutralize — a pattern mirrored in any high-throughput system.
 - `INS-260330-BE23` Do every process manually first to learn which steps and questions actually matter before building software to automate them.
+- `INS-260403-C4CD` RuBisCo's oxygen-confusion creates toxic phosphoglycolate that plants must dedicate entire enzyme pathways to neutralize — a pattern mirrored in any high-throughput system.
 - `INS-260404-7C1F` Startup operating systems should prioritize reducing decision friction over covering every edge case.
 - `INS-260329-33D4` Output = Volume × Leverage means improving leverage multiplies all existing effort rather than adding incrementally.
 - `INS-260405-35DF` Meta cut nearly 10% of staff and grew revenue 50%, demonstrating that smaller focused teams outperform larger unfocused ones.

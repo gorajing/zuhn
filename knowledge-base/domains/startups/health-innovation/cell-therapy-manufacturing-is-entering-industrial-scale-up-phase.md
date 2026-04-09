@@ -52,10 +52,10 @@ stance: >-
   cell therapies economically viable for broader patient populations.
 related:
   - INS-260323-198E
+  - INS-260409-B21A
   - INS-260327-65F9
   - INS-260325-07FA
   - INS-260404-5D6E
-  - INS-260325-3F8B
 ---
 Johnson & Johnson's announcement of a next-generation cell therapy manufacturing facility represents a critical inflection point in advanced biologics. The scale — over 2 million square feet across 10 facilities, 500+ skilled biomanufacturing jobs, and an estimated $10B annual economic impact to Pennsylvania — signals that cell therapies are moving past the artisanal production phase that has kept them expensive and access-limited.
 

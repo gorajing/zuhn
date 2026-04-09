@@ -60,8 +60,8 @@ related:
   - INS-260330-2306
   - INS-260403-AA0B
   - INS-260403-260B
-  - INS-260403-EAF7
   - INS-260404-F970
+  - INS-260405-ECCD
 ---
 The problem slide has one job: make investors believe people will pay to have this problem solved. The mistake founders make is presenting a logical argument (market research, survey data, industry statistics) when what's needed is an emotional one. Investors need to step into the customer's shoes and feel the frustration, loss, or inefficiency.
 

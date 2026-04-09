@@ -56,6 +56,7 @@ related:
   - INS-260405-4803
   - INS-260403-84E1
   - INS-260403-ACB2
+  - INS-260409-6611
 ---
 The AI market is bifurcating between horizontal foundation model providers and vertical application builders. While horizontal AI (chatbots, general assistants) faces commoditization pressure, vertical AI companies that embed deep domain expertise—in healthcare, legal, finance, manufacturing—can build stronger moats through proprietary data, workflow integration, and regulatory knowledge.
 

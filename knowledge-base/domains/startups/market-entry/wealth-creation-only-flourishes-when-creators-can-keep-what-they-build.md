@@ -46,7 +46,6 @@ stance: >-
   that confiscate private fortunes see creation collapse — this pattern is as
   reliable as a controlled experiment
 related:
-  - INS-260329-0117
   - INS-260403-830F
   - INS-260403-160A
   - INS-260403-EC8A

@@ -1,6 +1,6 @@
 # Topic: llm-training
 
-> 43 insights
+> 45 insights
 
 - `INS-260326-8201` [very_high] At 3.5 bits per channel (4.5x compression), TurboQuant matches full-precision Llama 3.1 8B on LongBench with zero quality loss; at 2.5 bits (6.4x), quality degradation is marginal.
 - `INS-260320-7682` [high] Run systematic ablation experiments on architecture, data mixtures, and hyperparameters at small scale before committing to a full training run -- this consumes ~37% of total compute but prevents costly mistakes.
@@ -9,6 +9,7 @@
 - `INS-260320-5818` [high] Main pretraining consumes 63% of total compute; plan for 37% additional budget for ablation studies, debugging, and restarts due to infrastructure failures.
 - `INS-260329-A2D0` [high] Models trained on imbalanced data learn to ignore the minority class - explicit rebalancing through oversampling, undersampling, or weighted loss functions is required to fix this.
 - `INS-260328-B19D` [high] Zuckerberg revealed that coding was deprioritized in Llama 2 but became central to Llama 3 after discovering code training makes models more rigorous across all question types.
+- `INS-260409-C158` [high] Frontier model capabilities are built one at a time by human annotators, and the annotation workforce keeps growing — it's not a one-time cost that decays.
 - `INS-260320-7B4B` [high] HuggingFace's 200-page training playbook concludes that data quality dominates architectural innovation as the key factor in LLM performance.
 - `INS-260327-1B9A` [high] Kimi K2.5's early fusion of vision and text from pre-training day one produced emergent vision-to-code capabilities and mutual enhancement between modalities.
 - `INS-260323-47D8` [high] Conversations with jailbroken LLMs like Dan and Sydney become part of future training data, meaning each LLM's personality becomes immortal — reincarnatable by any future model trained on internet data.
@@ -44,4 +45,5 @@
 - `INS-260402-5034` [medium] Graham's 'degeneration' technique falls back from specific tokens (Subject*FREE!!!) through progressively general versions (FREE, free) when exact matches lack data.
 - `INS-260403-CDB9` [medium] Proprietary real-time data sources like social media feeds create defensible advantages over competitors relying on static web scrapes.
 - `INS-260403-CDB0` [medium] DeepSeek's R1-Zero model learned complex reasoning entirely through reinforcement learning without human data, discovering novel problem-solving approaches.
+- `INS-260409-8D86` [medium] The 'scale to AGI' strategy depends on Hinton and Sutskever's hypothesis that brains are statistical engines — a hypothesis neuroscientists actively dispute.
 - `INS-260323-9BAB` [medium] Whether LLM-generated synthetic data adds genuine new signal beyond its training data — or is merely empty calories by information theory — will determine trillion-dollar outcomes in AI development.

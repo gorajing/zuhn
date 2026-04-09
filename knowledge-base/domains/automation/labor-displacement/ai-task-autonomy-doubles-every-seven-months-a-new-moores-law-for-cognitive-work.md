@@ -64,7 +64,7 @@ related:
   - INS-260321-A56C
   - INS-260321-6437
   - INS-260403-8E58
-  - INS-260404-0B8E
+  - INS-260330-C215
 ---
 Earlier technological waves primarily displaced manual, routine labor. Generative AI is different: it targets cognitive, non-routine tasks that were long assumed to be safe from automation. A key empirical pattern emerging from capability tracking is that the duration of autonomous tasks AI can handle doubles approximately every seven months—a compression dynamic analogous to Moore's Law but applied to cognitive scope rather than transistor density.
 

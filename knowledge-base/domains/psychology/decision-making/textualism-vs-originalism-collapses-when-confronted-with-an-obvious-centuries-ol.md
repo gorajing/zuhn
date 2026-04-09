@@ -55,9 +55,9 @@ stance: >-
 related:
   - INS-260325-EF66
   - INS-260403-49FF
+  - INS-260409-35EC
   - INS-260330-3570
   - INS-260330-14CA
-  - INS-260327-F014
 ---
 The third clause of the Congressional Apportionment Amendment contains what has been acknowledged for 200+ years as a typo: 'more than' where 'less than' was clearly intended. This makes the clause mathematically impossible to satisfy at certain population ranges and inverts its meaning at current population levels. If ratified, it would create the cleanest possible test case for the Supreme Court: does the law mean what it literally says, or what everyone agrees it was meant to say?
 

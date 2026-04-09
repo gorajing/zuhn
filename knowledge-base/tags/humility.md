@@ -7,6 +7,7 @@
 - `INS-260327-B2CC` Real humility means accepting you could be wrong, not performing modesty.
 - `INS-260330-DE89` Destin's involuntary tap-out at 7.2G permanently changed his approach to confidence-humility balance in ways voluntary humility never had.
 - `INS-260330-A47B` Just as biological systems require cellular death to prevent cancer, psychological health requires voluntarily killing off bad ideas and identities before they become tyrannical.
+- `INS-260409-5491` Restarting from zero is a three-stage framework — honest self-inventory, humility to do entry work, and nighttime curiosity about local opportunity — and ego is just insecurity that blocks all three stages.
 - `INS-260322-AB55` Leaders who stall on giving feedback to gather 'objective evidence' let emotional resentment compound — there is no such thing as evidence everyone will accept.
 - `INS-260403-96FA` The three most powerful words a leader can say are 'I don't know' because it invites collective problem-solving instead of top-down directives.
 - `INS-260323-2038` Lex Fridman argues that jiu-jitsu is humbling and that humility is a powerful tool for innovation and leadership, especially for tech leaders who rarely experience physical vulnerability.

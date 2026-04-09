@@ -43,10 +43,10 @@ stance: >-
   processes.
 related:
   - PRI-260406-54BE
+  - INS-260409-6E05
   - INS-260405-6F45
   - INS-260404-304E
   - INS-260403-ABBB
-  - INS-260327-E2BC
 evidence:
   - id: INS-260322-C472
     type: REFINES

@@ -1,7 +1,7 @@
 # Tag: defensibility
 
-- `INS-260322-EDC2` While staying on the model frontier matters, the real defensibility in vertical AI comes from deep application context — understanding specific workflows, regulations, and customer needs that no foundation model company will pursue.
 - `INS-260403-5DD7` Selling AI as the product rather than as the means to a complete outcome creates a fragile, easily copied competitive position.
+- `INS-260322-EDC2` While staying on the model frontier matters, the real defensibility in vertical AI comes from deep application context — understanding specific workflows, regulations, and customer needs that no foundation model company will pursue.
 - `INS-260403-415E` When your entire product depends on a third-party API, you don't control pricing, uptime, or differentiation—any competitor can clone you in a weekend.
 - `INS-260403-82E0` Investors should prioritize AI application-layer companies with workflow embedding, data flywheels, and strong net revenue retention over foundational model plays.
 - `INS-260325-040F` AI product defensibility comes from user behavior loops (pain → relief → habit → switching cost) not from AI model improvements that competitors can replicate overnight.
@@ -30,6 +30,7 @@
 - `INS-260330-0294` Asymptotic network effects plateau in value quickly, making companies with this structure vulnerable to well-funded competitors who only need to match a fraction of the supply.
 - `INS-260402-8595` Embracing operational complexity that competitors avoid — like managing physical assets — creates durable defensibility through accumulated expertise and supply-side lock-in.
 - `INS-260403-2F40` Physical AI requires tolerances, material science, and operational iteration that software models cannot replicate, making the difficulty itself the competitive moat.
+- `INS-260409-FE1D` Possession of customer beats model differentiation — ChatGPT may have negative model edge but owns the consumers.
 - `INS-260403-494E` When everyone has access to the same foundation models, proprietary data that improves with usage becomes the only sustainable competitive advantage.
 - `INS-260403-5C9D` SaaS survival depends on building agentic capabilities atop existing data moats before AI overlays capture the user relationship.
 - `INS-260404-EEA7` Code alone no longer creates lasting competitive advantage; startups need non-software moats like data, distribution, or embedded workflows.

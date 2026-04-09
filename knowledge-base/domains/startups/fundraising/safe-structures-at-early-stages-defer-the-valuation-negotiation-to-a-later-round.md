@@ -60,6 +60,7 @@ related:
   - INS-260403-3A2C
   - INS-260403-49FC
   - INS-260403-CF92
+  - INS-260409-49EF
 ---
 Simple Agreements for Future Equity (SAFEs) are the dominant early-stage instrument precisely because they sidestep the valuation question when there's insufficient data to price a company confidently. Rather than locking in a valuation that may look bad — either too high (creates a down round problem) or too low (unnecessary dilution) — a SAFE converts at the next priced round, deferring the negotiation to a point when both sides have better information.
 

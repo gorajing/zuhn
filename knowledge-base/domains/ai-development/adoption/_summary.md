@@ -1,13 +1,15 @@
 # Topic: adoption
 
-> 40 insights
+> 45 insights
 
+- `INS-260409-8DDA` [high] Despite massive latent AI value, ~95% of enterprise AI pilots fail because organizations don't know how to operationalize the technology — throwing AI 'over a wall' doesn't work.
 - `INS-260403-A9CC` [high] Companies fail at AI adoption because they issue vague 'be AI-first' mandates without concrete tactics for daily workflows.
 - `INS-260322-3D21` [high] AI adoption in enterprises won't happen top-down — there's someone at every big company who figured out how to do 8 hours of work in 1 minute; the worst thing that can happen is they keep it a secret.
 - `INS-260322-3159` [high] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
 - `INS-260322-750D` [high] AI voice agents in loan servicing and collections can speak 50 languages, maintain perfect UDAP compliance, and deliver better customer experiences — reorienting fintech TAM from IT budgets to labor costs.
 - `INS-260403-00A4` [high] AI deployment patterns bifurcate along economic lines — rich countries augment professionals, developing countries augment students.
 - `INS-260322-F891` [high] AI only saves time when verification is cheaper than doing the task manually — generating 200 marketing images to pick 10 works, but AI copying 200 numbers from PDFs that all need checking doesn't.
+- `INS-260409-6C66` [high] Allocate 20% of your time to automating yourself out of a job — if you don't, someone else will, and they'll capture the leverage.
 - `INS-260405-62F8` [high] Tesla's FSD data access to Lemonade produced a ~50% premium cut, showing that AV adoption ripples through adjacent industries before consumer uptake is even widespread.
 - `INS-260322-0C28` [high] Only 9% of consumers pay for more than one LLM assistant, and less than 10% of ChatGPT users even visit competitors — signaling winner-take-most dynamics in general AI.
 - `INS-260329-14AE` [high] ChatGPT reached 1M users in 5 days versus Facebook's 2 years and Instagram's 2 years, signaling unprecedented adoption velocity.
@@ -25,13 +27,16 @@
 - `INS-260405-9285` [high] AI agent deployment now requires use case judgment, not engineering skill — the bottleneck has shifted from build to design.
 - `INS-260405-CD42` [high] Not learning AI is not a neutral stance—it is slow-motion failure as the competency floor rises.
 - `INS-260322-55D8` [high] ChatGPT has 800-900M weekly active users, but only 5% pay — five times more people have accounts than can find a weekly use case.
+- `INS-260409-D012` [high] Proficiency takes ~20 hours; people delay the first hour for decades because the cost of starting is visible and the cost of not starting is invisible.
 - `INS-260403-D540` [high] AI capability moves at research speed while economic adoption moves at institutional speed, and the gap between them is where fortunes are made.
 - `INS-260322-FD23` [high] Individual employees want to be lazier and richer — if AI lets them do 8 hours of work in 4, the company only benefits if it can capture the other 4 hours of productivity.
 - `INS-260403-2A0F` [high] Effective AI adoption measurement pairs leading indicators like power-user counts with lagging indicators like hours saved or PRs merged.
+- `INS-260409-52CE` [high] If your AI output is slop, you probably asked it to 'write good copy' instead of giving it 12 rules and 16 samples — the feedback loop is the same as training a junior employee, just 100x faster.
 - `INS-260322-0812` [high] The most viral consumer AI moments of 2025 were all image/video — Ghibli, Nano Banana, VO3, Sora 2 — making multimodal generation the primary driver of new user acquisition.
 - `INS-260403-E23C` [medium] An MIT study found 95% of companies investing in AI tools saw zero return, pointing to a gap between AI capability and organizational readiness to deploy it effectively.
 - `INS-260329-C4F5` [medium] Framing AI as augmentation rather than replacement is the only actionable mindset because the alternative is paralysis.
 - `INS-260403-643A` [medium] AI tools generate code easily but debugging still requires technical intuition, creating a hidden cliff where non-coders get stuck.
+- `INS-260409-21E0` [medium] Becoming an architect rather than a mason in the AI era requires extreme environmental constraints to rewire patterns, not motivational self-talk, because the discipline gap is what separates the two groups.
 - `INS-260322-7DD5` [medium] 2026 marks when major consumer AI products shift from helping you work to helping you stay connected — understanding who you are and facilitating real human relationships.
 - `INS-260403-C355` [medium] High-stakes industries adopt AI through a predictable trust ladder: copilot for routine tasks → demonstrated reliability → autopilot acceptance → perceived necessity.
 - `INS-260405-4D81` [medium] Google committing $100B+ to AI spend means the infrastructure layer is effectively closed to new entrants without sovereign or hyperscaler backing.

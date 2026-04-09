@@ -54,7 +54,7 @@ related:
   - INS-260403-D540
   - INS-260403-C584
   - PRI-260328-A82C
-  - INS-260403-4803
+  - INS-260409-005E
 ---
 Smith points out that the compute resources producing today's AI breakthroughs are dwarfed by what's being deployed in 2026 and beyond, with each year's investment far exceeding the last. Combined with AI systems themselves searching for algorithmic improvements, this creates a compounding effect: more compute enables better algorithms which make better use of even more compute.
 

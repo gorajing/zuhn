@@ -1,6 +1,6 @@
 # Topic: resilience
 
-> 171 insights
+> 175 insights
 
 - `INS-260325-DF82` [very_high] Events are not traumatic — they are potentially traumatic — because the same event produces resilience in most people and lasting harm in a minority, meaning trauma is in the response, not the event.
 - `INS-260327-48BA` [high] Most suffering about change comes from resisting it rather than from the change itself - accepting impermanence eliminates the anxiety of trying to freeze what cannot be frozen.
@@ -106,6 +106,7 @@
 - `INS-260327-B767` [high] Learning to enjoy being alone transforms every relationship into a choice rather than a dependency.
 - `INS-260325-25A2` [high] Spinoza: caring less is not apathy but rational clarity about what you can influence — most suffering comes from fighting the determined.
 - `INS-260327-439A` [high] Spinoza's insight: caring less about what you can't control isn't weakness - it's the prerequisite for caring more effectively about what you can control.
+- `INS-260409-143A` [high] Hustle-driven anxiety triggers fight/flight physiology which measurably reduces creativity and opportunity recognition — the opposite of what the pursuit requires.
 - `INS-260326-2259` [high] Duckworth's data shows grit is unrelated or inversely related to talent — the most gifted people often lack the perseverance to realize their potential.
 - `INS-260327-A507` [high] Synthesis of unfamiliar inputs, not creativity alone, is humanity's remaining edge over AI.
 - `INS-260327-1B09` [high] The harder you try to control life, the worse it gets - because the energy spent maintaining control exceeds the benefit of the control itself.
@@ -124,6 +125,7 @@
 - `INS-260327-ECBB` [high] Choosing to live with less than you can afford builds a psychological strength that living at maximum comfort systematically destroys.
 - `INS-260326-6CA3` [high] You cannot numb vulnerability without also numbing joy — the emotional system does not allow selective suppression.
 - `INS-260327-F7BC` [high] Become who you're afraid to be - the traits you suppress most actively are usually the ones whose expression would transform your life most dramatically.
+- `INS-260409-B521` [high] To get good you must be willing to be bad for a very long time — ego protection prevents the iteration that produces skill.
 - `INS-260330-9515` [high] Willpower has bidirectional plasticity — it decays as fast as it builds, requiring daily renewal.
 - `INS-260330-85D9` [high] The brain's willpower center grows only from doing unwanted tasks, not merely difficult ones you enjoy.
 - `INS-260329-93AE` [high] Stop treating goal-setting as a strategy — focus instead on committing to the daily activities that produce goals, since everyone already shares the same goals.
@@ -173,3 +175,5 @@
 - `INS-260330-3E64` [medium] Rogan credits brutal exercise routines, sauna, and cold plunge as the primary mechanism that made surviving his cancellation attempt manageable.
 - `INS-260404-9A69` [medium] Regularly doing things that suck recalibrates your brain's limit-detection system, raising your baseline tolerance for difficulty everywhere.
 - `INS-260330-A075` [medium] Deliberately allowing yourself to be influenced by others' ideas requires the confidence that you can return to yourself afterward.
+- `INS-260409-F691` [low] Start documenting purposefully at your lowest point — that's when commitment crystallizes and the 'never again' story begins.
+- `INS-260409-B9A1` [low] If you don't believe in your own ending, no one else can be recruited to help you get there.

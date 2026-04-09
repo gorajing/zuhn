@@ -58,9 +58,9 @@ stance: >-
 related:
   - INS-260327-B561
   - INS-260403-CAB4
+  - INS-260409-5FBA
   - INS-260403-4120
   - INS-260323-282F
-  - INS-260323-FF23
 ---
 Lenny deliberately chose a no-employee model as a design goal, building a team of specialized freelancers and boutique agencies: an editor, copy editor, and designer for the newsletter; two agencies for podcast production; a community lead with contractors for the 20K+ Slack community; and an EA plus engineer for cross-functional support. He started doing everything himself and progressively delegated as he identified what could be handed off.
 

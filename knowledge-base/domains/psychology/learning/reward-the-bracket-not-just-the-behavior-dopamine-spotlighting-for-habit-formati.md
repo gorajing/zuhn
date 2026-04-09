@@ -55,11 +55,11 @@ stance: >-
   formation more than rewarding only the outcome.
 related:
   - INS-260329-6253
+  - INS-260409-A1B2
   - INS-260403-76F5
   - INS-260327-A814
   - INS-260405-AAB7
   - INS-260403-5E03
-  - INS-260403-F7F4
   - INS-260330-6A94
   - INS-260329-72EF
 evidence:

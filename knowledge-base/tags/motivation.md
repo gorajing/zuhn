@@ -2,6 +2,7 @@
 
 - `INS-260329-206D` Dr. Chuck frames Python as a personal automation tool first — scraping your own data, organizing your own files — because solving your own problems creates motivation loops that career-oriented framing cannot match.
 - `INS-260403-955F` Meaning emerges from friction, obligation, and inconvenience — optimizing these away optimizes away purpose itself.
+- `INS-260409-7171` Naming a desire triggers attention to its absence, so gap-awareness is the default failure mode of goal-setting.
 - `INS-260405-8808` Changing first-order desires is hard; changing second-order desires is rarer; beyond that it becomes nearly impossible.
 - `INS-260330-0242` Write down small achievable goals nightly; the check-mark dopamine hit builds an addiction to the learning process itself.
 - `INS-260330-1839` Getting to a working demo fast creates dopamine hits that make the pain of learning self-sustaining.
@@ -15,13 +16,13 @@
 - `INS-260403-5BF9` Rollins credits his relentless work ethic to never forgetting the $8/hour ice cream shop he'd return to if he stopped hustling.
 - `INS-260405-E05D` The right to pitch future articles and sidebar placement may be worth more to a writer than the $2,500 first prize.
 - `INS-260330-31B5` If you're drawn to work despite its lack of prestige, that's evidence both of genuine interest and of untapped opportunity.
-- `INS-260329-A231` The debt snowball method wins not because it saves the most interest, but because quick wins create psychological momentum that prevents abandonment.
-- `INS-260403-4CE2` Perceived laziness in young people often reflects unappetizing work, not lack of drive — ownership unlocks latent intensity.
-- `INS-260403-FE8D` Stebbings observes that 90% of great founders show entrepreneurial behavior before age 13, and that gaming clan leadership is more predictive of startup success than college prestige.
 - `INS-260403-0C33` If you're bored making something, the result will look boring — morale is a design input, not just a side effect.
 - `INS-260402-8223` Great work comes from deep curiosity about specific questions, not from forcing yourself through material via discipline.
 - `INS-260403-48FE` Treating new work as experiments means even failures produce knowledge, removing the psychological cost of early-stage lameness.
 - `INS-260403-8B92` Ownership has two axes: choosing to do it (pull vs push) and doing it yourself (solo vs collaborative), which combine independently.
+- `INS-260329-A231` The debt snowball method wins not because it saves the most interest, but because quick wins create psychological momentum that prevents abandonment.
+- `INS-260403-4CE2` Perceived laziness in young people often reflects unappetizing work, not lack of drive — ownership unlocks latent intensity.
+- `INS-260403-FE8D` Stebbings observes that 90% of great founders show entrepreneurial behavior before age 13, and that gaming clan leadership is more predictive of startup success than college prestige.
 - `INS-260330-DC8B` Burnout typically signals you're working on something that isn't working or that you don't fundamentally enjoy, not that you need a vacation.
 - `INS-260330-CC9E` Despite having more liquid spending power than almost anyone on Earth, Jho Low was described by party guests as anxious, unable to enjoy his own events, and desperate to be liked.
 - `INS-260330-7D83` Travis's 'uber against the world' narrative drove 12-hour workdays and fierce loyalty, but the same combative culture produced internal backstabbing, sexual harassment cover-ups, and employee burnout.
@@ -37,6 +38,7 @@
 - `INS-260403-A4EB` Your colleagues self-selected for the same reasons you did, which amplifies whatever motivated the choice — money makes it worse, interest makes it better.
 - `INS-260403-9A57` LatAm founders' shared vision of regional transformation creates collaborative network density that purely profit-driven ecosystems struggle to replicate.
 - `INS-260405-AAB7` Wanting to want the new behavior is a prerequisite for lasting habit change.
+- `INS-260329-89CB` Optimization reframes calculus from abstract computation to a practical framework for finding the best possible outcome under real-world constraints.
 - `INS-260403-2949` Curiosity uniquely compounds — satisfying it generates more questions rather than satiation.
 - `INS-260330-45FF` Emotional engagement with a subject accelerates learning 3-4x compared to detached, obligation-driven study.
 - `INS-260402-D9D0` Pointless work doesn't just bore people — it creates lasting aversion to the content, poisoning future engagement.
@@ -48,7 +50,6 @@
 - `INS-260403-79E0` The five intrinsic motivators — curiosity, passion, purpose, autonomy, mastery — must be built in sequence, not cherry-picked.
 - `INS-260329-075F` Present the pain point before the solution to create intrinsic motivation for learning the concept.
 - `INS-260330-053D` Framing knowledge as 'you could have invented this' converts memorization into genuine understanding.
-- `INS-260329-89CB` Optimization reframes calculus from abstract computation to a practical framework for finding the best possible outcome under real-world constraints.
 - `INS-260402-0F45` Aristotle's most consequential error was inferring that because curiosity-driven inquiry is noble, the resulting knowledge should be valued precisely for being useless.
 - `INS-260402-B14F` Both the Visionary and Brahma refuse to leverage self-interest arguments for morality, finding it 'aesthetically unappealing' to reduce ethics to incentives.
 - `INS-260322-A928` You can only do your best work if you are doing what you want to do, the way you think it should be done, and you can take pride in it after.
@@ -89,6 +90,6 @@
 - `INS-260323-FBD9` Leading an MMO guild of 30+ anonymous players with mixed motivations (loot-seekers, lonely escapists, competitive achievers) teaches real leadership — motivation, discipline, coordination — in a high-stakes emotional environment.
 - `INS-260329-B4C8` Discretionary effort is voluntary and only flows toward leaders who use praise over punishment.
 - `INS-260329-1E81` CS50 tells students 'what matters is not where you end up relative to classmates but where you end up relative to yourself when you began' — the delta is the metric.
-- `INS-260327-0E57` SMB: easy to motivate (direct access to power), hard to enable (limited resources). Enterprise: hard to motivate (risk-averse, slow, process-heavy), easier to enable once committed.
-- `INS-260404-FA5B` You need peers who can tell an ugly duckling from a baby swan, not just people who are always encouraging.
 - `INS-260323-01A1` When learning guitar, start by learning songs you love rather than scales and theory — the struggle of figuring out songs by ear builds skills faster than abstract exercises, and keeps motivation alive.
+- `INS-260404-FA5B` You need peers who can tell an ugly duckling from a baby swan, not just people who are always encouraging.
+- `INS-260327-0E57` SMB: easy to motivate (direct access to power), hard to enable (limited resources). Enterprise: hard to motivate (risk-averse, slow, process-heavy), easier to enable once committed.

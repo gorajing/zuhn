@@ -1,6 +1,6 @@
 # Topic: persuasion
 
-> 50 insights
+> 53 insights
 
 - `INS-260403-9DB6` [high] Steady accumulation of documented incidents shifts opinion more than any single dramatic event because patterns resist counter-narrative.
 - `INS-260403-36F0` [high] Correctness about what's wrong doesn't convert into support without a clear alternative vision.
@@ -9,6 +9,7 @@
 - `INS-260403-22FE` [high] Explicit claims of passion or quality trigger skepticism filters, while implicit confidence conveyed through demeanor and specifics builds genuine credibility.
 - `INS-260404-405A` [high] Never verbally claim passion or quality — audiences discount explicit self-praise but heavily weight the implicit confidence of your delivery.
 - `INS-260404-5017` [high] When your audience can't evaluate your technical work directly, your own visible conviction becomes their strongest data point.
+- `INS-260409-3064` [high] People comment to correct what they think is wrong, so contrarian framing is a reliable comment-rate multiplier.
 - `INS-260403-6399` [high] Rhetoric that questions whether a system is legitimate makes it impossible for the speaker to credibly claim they should lead that system.
 - `INS-260403-B12E` [high] Saying 'nothing could go wrong' destroys credibility — genuine experts enumerate risks in detail because deep knowledge reveals more failure modes.
 - `INS-260403-C37D` [high] Good persuaders don't lie — they choose which truths to tell, the same way a flatterer picks genuine compliments.
@@ -39,6 +40,7 @@
 - `INS-260403-4CF9` [medium] Smooth-tongued liars succeed by method-acting belief in false premises, producing internally consistent but externally ungrounded reasoning.
 - `INS-260330-6A3A` [medium] The conviction that you understand persuasion too well to be persuaded is itself a persuasion vulnerability.
 - `INS-260403-74DB` [medium] The shopping-as-leisure reframe is a deliberate corporate strategy most people can't see through for decades.
+- `INS-260409-241B` [medium] Naming a specific cult-loved brand instead of a generic category gives viewers a pre-formed opinion to defend or attack in the comments.
 - `INS-260404-F0A3` [medium] Explicitly stating the boundaries of your argument before making it partially defuses accusations of malicious streetlighting or directional overclaiming.
 - `INS-260402-476E` [medium] Moral labels replace factual rebuttals precisely when the factual rebuttal would fail.
 - `INS-260403-20C3` [medium] LLM fact-checkers like Grok achieve belief-accuracy shifts comparable to professional fact-checking, and resist their creators' political biases.
@@ -50,5 +52,6 @@
 - `INS-260403-6E11` [medium] The school habit of stretching limited ideas to fill required page counts trains people to communicate without conviction, which investors and other sophisticated audiences immediately detect.
 - `INS-260403-81CE` [medium] Professional investors hear so many pitches they blur together — a sticky 'the X of Y' phrase is the first-cut survival filter.
 - `INS-260404-D242` [medium] Professional investors hear so many pitches they blur together — a sticky one-phrase description ensures you're remembered at all.
+- `INS-260409-30DE` [medium] 'This is the best way to cook pasta' drives fewer comments than 'this pasta is better than every mom-and-pop pasta shop in the world'; intensity scales engagement.
 - `INS-260404-B863` [medium] Participants subliminally exposed to the Apple logo outperformed IBM-exposed groups on creative tasks.
 - `INS-260330-80AF` [medium] Swear words across languages tend to be short with hard consonants because cultural selection favors words that can be deployed rapidly and with maximum percussive impact.

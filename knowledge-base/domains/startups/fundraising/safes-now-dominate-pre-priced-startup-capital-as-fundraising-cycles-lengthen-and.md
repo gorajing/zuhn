@@ -52,5 +52,6 @@ related:
   - PRI-260407-D50C
   - INS-260403-5056
   - INS-260405-2F43
+  - INS-260409-27F9
 ---
 Carta's State of Startups 2025 report documents that SAFEs have become the dominant instrument for pre-priced rounds, reflecting the structural dynamics of longer fundraising cycles and compressed operational teams. When price discovery is difficult—as it is when AI is reshaping cost structures across sectors—both founders and investors prefer to defer valuation negotiation. SAFEs enable this without requiring a priced round close. The implication: AI is capturing a disproportionate share of venture dollars while concentrating premium valuations geographically, pushing non-AI founders to compete more on capital efficiency and M&A optionality than on IPO runway.

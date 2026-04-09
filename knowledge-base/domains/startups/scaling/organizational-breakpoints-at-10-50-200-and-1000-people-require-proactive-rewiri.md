@@ -55,7 +55,7 @@ related:
   - PRI-260406-6C2C
   - INS-260403-4102
   - PRI-260323-9EAD
-  - PRI-260406-E371
+  - INS-260409-FFEA
 ---
 Gil identifies four critical organizational breakpoints: at 10 people communication happens by osmosis, at 50 you need managers, at 200 you need process and cross-functional coordination, at 1000 you need a leadership layer that spends most of its time aligning other leaders. The key insight is that founders should anticipate the next stage rather than patch the current one.
 

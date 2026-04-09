@@ -54,6 +54,8 @@ related:
   - INS-260403-B12E
   - INS-260330-D7CC
   - INS-260321-2482
+  - INS-260409-CE5F
+  - INS-260409-D947
 stance: 'For the first time, a genuine threat exists to systems of record'
 evidence:
   - id: INS-260330-D7CC

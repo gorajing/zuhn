@@ -55,6 +55,7 @@ related:
   - INS-260322-30A0
   - PRI-260406-FB98
   - INS-260403-615D
+  - INS-260409-A1D3
   - PRI-260403-FBA8
 stance: >-
   In the AI era, the core educational skill shifts from producing correct

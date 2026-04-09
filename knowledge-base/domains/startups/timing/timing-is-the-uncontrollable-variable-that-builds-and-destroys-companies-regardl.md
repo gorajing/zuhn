@@ -51,7 +51,6 @@ related:
   - INS-260405-D959
   - INS-260326-6B98
   - INS-260330-D7CD
-  - INS-260404-D40E
 stance: >-
   The same macro forces that create billion-dollar winners also destroy them
   when conditions shift — timing is not a skill.

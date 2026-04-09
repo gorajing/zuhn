@@ -1,6 +1,6 @@
 # Topic: validation
 
-> 180 insights
+> 182 insights
 
 - `INS-260329-F7F4` [high] When a functional prototype costs 15 minutes instead of 3 months, validation shifts from optional luxury to mandatory first step.
 - `INS-260327-CD36` [high] At least 70% of YC's top 100 companies by valuation came from ideas noticed organically rather than deliberate brainstorming, because brainstorming systematically produces tar pit ideas.
@@ -102,6 +102,7 @@
 - `INS-260404-1773` [high] Ask 'why' repeatedly to drill past surface answers into the real motivations driving customer behavior.
 - `INS-260403-7333` [high] Replace the instinct to build a prototype with the discipline to map and decompose your business risks first.
 - `INS-260403-E1E0` [high] Product-market fit is proven by users staying and returning, not by how many you acquire or how much press you generate.
+- `INS-260409-B73E` [high] First paying customer in 30 days is the only validation test that cannot be faked.
 - `INS-260403-0803` [high] Identify and test the single assumption whose failure would invalidate everything else before touching any other hypothesis.
 - `INS-260330-38E1` [high] Every Navy ship has been tested as a scale model first because a failed model test costs thousands while a failed ship costs billions.
 - `INS-260403-B32D` [high] Nearly all 40 participating organizations admitted large potential for improvement in scaling Lean Startup testing, with most still relatively inexperienced.
@@ -170,6 +171,7 @@
 - `INS-260330-22D6` [medium] Ponzi's IRC arbitrage was a real opportunity that couldn't scale, and his refusal to accept this turned a legitimate idea into history's most famous fraud.
 - `INS-260403-6807` [medium] Match your metrics infrastructure to your actual stage—tracking five core dimensions in a spreadsheet beats a premature Looker deployment.
 - `INS-260403-63F1` [medium] Design experiments around specific hypotheses rather than shipping functional products to learn.
+- `INS-260409-784F` [medium] Ninety days to meaningful revenue replaces 18 months to Series A as the AI-era validation milestone.
 - `INS-260404-0EB2` [medium] PMF locks three variables — value prop, segment, and pricing — so capital can be spent on scaling rather than iteration.
 - `INS-260404-DAA7` [medium] Cross-border traction in a fragmented market is a stronger PMF signal than single-market density.
 - `INS-260329-1739` [medium] Building something you personally want to use has fallen out of fashion due to TAM-obsessed VC thinking, but it remains the most reliable path to unique, defensible ideas.

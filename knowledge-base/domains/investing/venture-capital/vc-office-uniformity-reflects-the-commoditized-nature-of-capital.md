@@ -46,10 +46,10 @@ stance: >-
   mirrors the fundamental interchangeability of venture capital as a product.
 related:
   - INS-260327-61AE
+  - INS-260409-065B
   - INS-260330-F527
   - INS-260404-312D
   - INS-260403-0435
-  - PRI-260403-5DEA
 evidence:
   - id: INS-260327-61AE
     type: SUPPORTS

@@ -41,11 +41,11 @@ stance: >-
   Founders who respond to competitor spam by producing more low-quality output
   will always lose to the platform owner, not the rival spammer
 related:
+  - INS-260409-1298
   - INS-260327-473D
   - INS-260327-FA43
   - INS-260403-BEB3
   - INS-260323-FFE8
-  - INS-260323-5C6F
   - INS-260330-ABB1
 evidence:
   - id: INS-260323-5C6F

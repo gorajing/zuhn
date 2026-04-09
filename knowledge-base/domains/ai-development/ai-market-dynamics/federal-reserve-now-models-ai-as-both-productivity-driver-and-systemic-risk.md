@@ -53,9 +53,9 @@ stance: >-
 related:
   - INS-260404-2AFE
   - INS-260404-2A95
+  - INS-260409-3AC7
   - INS-260405-2F43
   - INS-260403-F171
-  - INS-260403-4960
 ---
 The Federal Reserve's January 2026 meeting minutes reveal a bifurcated view of AI's economic impact. On one side, officials acknowledge 'strong pace of AI-related investment' as supporting economic growth and productivity. On the other, they flag firms' hiring caution due to AI/automation uncertainty, high valuations in AI stocks, market concentration, and opaque private AI investment vehicles as financial stability risks.
 

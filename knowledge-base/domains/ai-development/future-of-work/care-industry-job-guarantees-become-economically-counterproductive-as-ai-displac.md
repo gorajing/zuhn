@@ -56,10 +56,10 @@ stance: >-
 related:
   - INS-260327-10E8
   - PRI-260328-D68F
+  - INS-260409-B12B
   - PRI-260406-834A
   - INS-260405-10DF
   - INS-260327-E874
-  - INS-260327-5690
 ---
 The traditional progressive response to automation anxiety is to point workers toward 'human-centered' industries — health care, education, child care — that seem resistant to AI. But when governments subsidize these sectors specifically to absorb displaced workers, a destructive dynamic emerges: subsidies drive up provider prices (Baumol's cost disease accelerated by policy), the care becomes more expensive even as it nominally becomes more accessible, and the workers themselves are arguably on disguised welfare.
 

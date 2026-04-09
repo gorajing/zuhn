@@ -57,7 +57,6 @@ related:
   - PRI-260406-4E6C
   - PRI-260323-2C5C
   - INS-260404-70AE
-  - INS-260403-2A92
 ---
 A veteran investor argues that YC has shifted from selecting founders with deep problem-first quests to favoring consensus-friendly prompts that reflect current market trends. This creates what's termed a 'Consensus Capital Machine' — a system that produces startups optimized for legibility to investors rather than genuine market insight.
 

@@ -53,11 +53,11 @@ stance: >-
   create far more value than those who merely consume model outputs through
   public APIs
 related:
+  - INS-260409-FE1D
   - INS-260325-8F49
   - INS-260405-227C
   - INS-260405-F9E4
   - INS-260402-142F
-  - PRI-260403-5DEA
 ---
 Krieger shifted almost all of Anthropic's product resources to embed directly with research teams, working on post-training and fine-tuning rather than just building interfaces on top of models. His reasoning: if you're building something anyone could build with public APIs, you're missing the real opportunity.
 

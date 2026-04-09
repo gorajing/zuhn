@@ -57,6 +57,7 @@ related:
   - INS-260322-FCFC
   - INS-260403-5616
   - INS-260405-E155
+  - INS-260409-B005
 ---
 Nike's experience with NGO activism over Vietnam operations and the potential impact of privacy laws on data-dependent business models illustrate a pattern: social and legal forces don't just create friction — they can make entire business model architectures illegal or socially toxic. Anti-spam laws didn't just make spam marketing harder; they aimed to eliminate the business model entirely. Privacy regulations don't just add compliance costs; they can invalidate business models built on uninformed data collection.
 

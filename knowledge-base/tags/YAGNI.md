@@ -1,3 +1,3 @@
-# Tag: YAGNI
+# Tag: yagni
 
-- `INS-260330-B15C` The instinct to add Kubernetes, Redis caching, and GraphQL before having users is a predictable failure pattern that delays shipping.
+- `INS-260409-7162` Start with the simple vault; let scale failures force the cutover, don't pre-argue it.

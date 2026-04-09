@@ -62,6 +62,7 @@ related:
   - INS-260330-21CC
   - INS-260404-DF95
   - INS-260403-21BD
+  - INS-260409-1BFD
 ---
 A classic mistake in customer research is assuming that fixing what's broken automatically delights users. Strategyzer's Value Proposition Canvas framework makes explicit that pains and gains operate on separate axes: a credit card that works doesn't create joy — it just avoids frustration. This asymmetry mirrors psychology's concept of the hedonic baseline and has practical consequences for product teams who conflate NPS drivers.
 

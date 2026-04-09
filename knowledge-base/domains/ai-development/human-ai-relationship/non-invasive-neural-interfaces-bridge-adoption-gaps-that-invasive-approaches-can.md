@@ -51,5 +51,6 @@ related:
   - PRI-260328-0BE1
   - INS-260404-E077
   - INS-260404-67F8
+  - INS-260409-BDAC
 ---
 Halo's deliberate choice of non-invasive form factors (wristband, headband, earbud) reflects a core insight about technology adoption: most users will accept reduced signal fidelity in exchange for zero surgical risk. This mirrors the broader pattern in tech where convenience consistently beats performance for mass adoption — USB beat FireWire, Bluetooth beat wired audio, smartphones beat dedicated cameras. For brain-computer interfaces specifically, the gap between invasive (Neuralink-style) and non-invasive approaches may narrow as AI models improve at interpreting weaker bioelectrical signals, making the non-invasive path increasingly viable without the adoption penalty of surgery.

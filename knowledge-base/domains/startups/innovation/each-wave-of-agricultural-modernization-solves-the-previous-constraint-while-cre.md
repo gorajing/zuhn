@@ -66,9 +66,9 @@ stance: >-
 related:
   - INS-260330-C7CB
   - INS-260330-9BC4
+  - INS-260409-BF3F
   - INS-260330-D429
   - PRI-260405-C27E
-  - INS-260325-F306
 ---
 American agriculture has gone through four identifiable waves: mechanization (tractors replaced animal labor, making scale decisive but pricing out small farms), the chemical revolution (synthetic fertilizer and pesticides massively increased yield per acre, but made farming dependent on energy and chemical inputs), consolidation (national retail chains and cold storage scaled distribution but concentrated market power), and the current data/genetics era (precision inputs and gene editing improve efficiency at the margin, constrained by regulatory uncertainty and adoption costs).
 

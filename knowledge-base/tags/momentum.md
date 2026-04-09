@@ -10,6 +10,6 @@
 - `INS-260405-D925` Starting with an explicit low-commitment frame ('just a sketch', 'just a hack') bypasses perfectionism and lets real work accumulate.
 - `INS-260330-8D6F` Lost momentum causes internal disagreement and attrition; only small concrete wins — not vision speeches — can reverse the spiral.
 - `INS-260330-2347` When Facebook's growth slowed in 2008, Mark Zuckerberg didn't give speeches — he created a growth group focused on small tactical wins that became Facebook's most prestigious team.
+- `INS-260323-8848` People stay in situations they hate because familiarity feels safer than the unknown — real change comes from tiny daily actions (15 min/day) that slowly expand comfort zones without triggering nervous system rebellion.
 - `INS-260330-C84C` If you want to raise $500k, tell investors you're raising $250k — hitting milestones faster creates FOMO.
 - `INS-260402-EA72` Fundraising typically consumes months of a startup's most critical early period, and investors don't recognize the damage their indecision causes.
-- `INS-260323-8848` People stay in situations they hate because familiarity feels safer than the unknown — real change comes from tiny daily actions (15 min/day) that slowly expand comfort zones without triggering nervous system rebellion.

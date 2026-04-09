@@ -53,10 +53,10 @@ stance: >-
   of exposure to long-term behavioral change.
 related:
   - PRI-260325-2DE6
+  - INS-260409-C0DF
   - INS-260330-1384
   - INS-260330-887A
   - INS-260326-24E6
-  - INS-260325-6576
 evidence:
   - id: INS-260330-1384
     type: SUPPORTS

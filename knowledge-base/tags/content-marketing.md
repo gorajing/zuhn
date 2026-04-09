@@ -1,6 +1,7 @@
 # Tag: content-marketing
 
 - `INS-260329-9DEE` Foundational technology tutorials generate perpetual traffic because new beginners constantly enter the field while the fundamentals rarely change.
+- `INS-260409-2EF3` Teach the problem, not the product — the product then appears as the obvious answer the reader already wanted.
 - `INS-260329-31A2` freeCodeCamp's strategy of publishing complete 4-hour tutorials for free has generated 13M+ views on a single video, demonstrating that exhaustive free content builds massive audiences.
 - `INS-260329-26AC` One comprehensive tutorial that becomes the canonical resource for a topic generates more cumulative reach than many shorter pieces.
 - `INS-260402-C1A9` HubSpot lost millions of visits and Chegg's stock tanked because AI can now answer the same generic questions their content targeted.

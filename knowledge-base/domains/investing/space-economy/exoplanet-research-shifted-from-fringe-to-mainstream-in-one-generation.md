@@ -49,14 +49,13 @@ stance: >-
   mainstream science with thousands of confirmed discoveries in roughly 30
   years, demonstrating how quickly fringe scientific fields can become dominant.
 related:
-  - INS-260323-4D14
   - INS-260325-9CDC
   - PRI-260323-A33E
   - INS-260330-DFA4
   - INS-260321-D959
   - INS-260330-CC51
-  - INS-260323-C3FA
   - INS-260327-538D
+  - INS-260409-F4E0
 evidence:
   - id: INS-260321-D959
     type: SUPPORTS

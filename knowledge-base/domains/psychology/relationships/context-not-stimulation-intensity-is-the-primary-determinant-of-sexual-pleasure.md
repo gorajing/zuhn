@@ -51,7 +51,6 @@ stance: >-
   sexual satisfaction rather than technique or intensity
 related:
   - INS-260327-3C96
-  - INS-260330-A18F
   - INS-260330-5391
   - INS-260330-49AE
   - INS-260330-B87C

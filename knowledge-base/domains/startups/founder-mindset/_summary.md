@@ -1,6 +1,6 @@
 # Topic: founder-mindset
 
-> 310 insights
+> 319 insights
 
 - `INS-260320-F751` [very_high] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
 - `INS-260322-E791` [high] During a crisis, the false but simple narrative ('Robinhood colluded with hedge funds') will always defeat the true but complex explanation (clearing mechanics, Dodd-Frank, collateral requirements).
@@ -195,6 +195,7 @@
 - `INS-260329-727B` [high] The fastest way to $1M/year isn't the fastest way to $10M, and the fastest way to $10M isn't the fastest way to $100M.
 - `INS-260325-B14B` [high] Before the 1500s, no major civilization believed in upward progress — history was seen as cyclical or as decline from a golden age.
 - `INS-260402-43F9` [high] Giving someone investment capital to build their own thing produces better outcomes than paying them a salary to build your thing.
+- `INS-260409-7D27` [high] Real entrepreneurs know the two years spent on a doomed project compound into skills for the next thing, so the 'why start if it'll be automated' objection exposes that you're not actually an entrepreneur.
 - `INS-260402-96E2` [high] Starting a company in mid-century America was rejected not as too risky but as too low-status compared to climbing institutional ladders.
 - `INS-260323-DA1E` [high] John Bell revolutionized physics by re-examining the EPR paradox that everyone had dismissed as 'settled' — his theorem proved that local hidden variables make different predictions than quantum mechanics, turning a philosophical debate into a testable experiment.
 - `INS-260328-FFC3` [high] Telling a great engineer to 'build better software' is useless — telling them to invest in sales is transformative.
@@ -243,10 +244,12 @@
 - `INS-260323-7C3A` [medium] Make life-altering decisions with your heart and gut, then never revisit them — execute with pure discipline and data from that point forward.
 - `INS-260327-F477` [medium] Big tech experience is anti-helpful for startups—the culture, speed, and processes are the exact opposite of what you need.
 - `INS-260327-CA72` [medium] With no fallback options, fear stops paralyzing you and starts driving productive action.
+- `INS-260409-C3B3` [medium] Out-caring competitors is the only high-leverage moat that isn't gated by scarcity — anyone can occupy that ranking.
 - `INS-260327-E3ED` [medium] Shameless urgency—like chasing PG to his car—signals genuine conviction that investors can't ignore.
 - `INS-260323-1975` [medium] You must be either the tech/product founder or the business/revenue founder, then find a complementary co-founder for the other role.
 - `INS-260323-5D6D` [medium] Repetitive work that violates your values causes cognitive depletion — your brain literally runs at lower capacity, making it impossible to learn new skills or build on the side.
 - `INS-260327-E3D5` [medium] Competitive backgrounds in any domain build the exact muscles—discipline, risk tolerance, resilience—that founders need.
+- `INS-260409-BA4E` [medium] Your newsfeed and peer group are in your control and determine whether you can execute in the AI era — deliberately switch them to optimism and action-orientation.
 - `INS-260328-A4EB` [medium] If you can live-quote someone's offhand remark months later, a deeper decision is already in motion.
 - `INS-260329-9C20` [medium] When you count progress in hundreds — hundreds of hours, hundreds of days — you automatically commit to the volume of effort that separates good from great.
 - `INS-260329-36FF` [medium] Work created from abundance rather than scarcity resonates differently because people can feel the intention behind it.
@@ -261,6 +264,7 @@
 - `INS-260329-4A09` [medium] When a business experiment fails, you're not back at zero — you're at your previous position plus one experience point, and enough experience points trigger a level-up.
 - `INS-260325-A272` [medium] Not knowing an industry is not a liability when you can identify a solvable problem — the fearless willingness to learn while building creates outsider advantages.
 - `INS-260323-2627` [medium] Ayn Rand's fiction changed more lives than Friedman's economics because she worked in the mythic register — creating characters people identified with and fusing emotional experience to intellectual framework.
+- `INS-260409-355C` [medium] Treat financial and spiritual capital as multiplicative factors, not additive line items — either zero and the total collapses.
 - `INS-260327-6CB7` [medium] Philosophy gives founders the framework to think about problems on a very deep level — ontology is first-principles thinking in philosophy.
 - `INS-260404-1986` [medium] Some founders have such extreme willpower that standard evaluation frameworks break down for them.
 - `INS-260403-36C1` [medium] Forgetting disputes signals that you've successfully kept them from occupying your top mental slot — a practical form of cognitive hygiene.
@@ -269,6 +273,7 @@
 - `INS-260326-8E6D` [medium] Kids who learn that the brain grows in response to challenge are much more likely to persevere after failure because they don't see failure as permanent.
 - `INS-260322-5D22` [medium] Building networks where people personally know and trust each other's character creates economic infrastructure that bypasses institutional gatekeeping in the AI era.
 - `INS-260329-9A5A` [medium] People aren't inconsistent because they lack discipline — they're inconsistent because they misread difficulty as a sign to pivot.
+- `INS-260409-EC0C` [medium] Not knowing the playbook guarantees you won't execute the playbook — making inexperience a forcing function for differentiation.
 - `INS-260329-1D8D` [medium] Investing $10K in skills that multiply your active income beats $10K in the S&P 500 because human capital ROI dwarfs market returns at the early stage.
 - `INS-260327-0053` [medium] Building products doesn't require sacrificing normal life—authentic entrepreneurial spirit coexists with being a kid.
 - `INS-260327-2C5F` [medium] Language is universal — once AI can process language, it can in principle do anything humans can do, because we are all information processors communicating through language.
@@ -290,6 +295,7 @@
 - `INS-260323-0277` [medium] Raibert deliberately made the top and bottom ideas on his project list boring and put 'pogo stick robot' in the middle — letting Ivan Sutherland naturally select the exciting one, which led to the first $3,000 of funding.
 - `INS-260330-F348` [medium] Musk doesn't seek sources of strength — quitting simply isn't in his option set, which removes the need for ongoing motivation.
 - `INS-260327-DD1D` [medium] Quitting during a crisis reduces competition and can create better startup conditions than boom times.
+- `INS-260409-D681` [medium] Relationships are the ballast that keeps transactional businesses afloat when the deal flow turns — customers stay with people, not products.
 - `INS-260403-4EBF` [medium] Many seemingly passive people develop relentless resourcefulness once freed from institutional environments that punished it.
 - `INS-260328-A46F` [medium] Standard Capital explicitly encourages repeat applications because two data points showing progress over time are far more compelling than a single snapshot.
 - `INS-260330-95E8` [medium] OpenAI succeeded commercially because it needed revenue to sustain research; Google DeepMind underperformed commercially because Google's deep pockets removed the urgency.
@@ -300,9 +306,12 @@
 - `INS-260327-7349` [medium] Kaz extends Toby Lutke's trust battery concept: start at 75% trust to enable risk-taking, but deplete faster to quickly identify who belongs.
 - `INS-260329-6204` [medium] Structuring long work days around energy allocation and task batching sustains output without burnout.
 - `INS-260323-F274` [medium] Success podcasts follow a 4-step loop: create/exploit anxiety, promise the solution, deliver partial satisfaction, repeat — a model that requires listeners to stay anxious to keep consuming.
+- `INS-260409-81CB` [medium] The most valuable AI insight for you personally is whichever side you're currently not considering — deliberately steelman the counter to your default position.
 - `INS-260325-A79E` [medium] The Banach-Tarski proof only works because of a specific naming scheme for points on a sphere — the right labeling system makes the 'impossible' duplication self-evident.
+- `INS-260409-5491` [medium] Restarting from zero is a three-stage framework — honest self-inventory, humility to do entry work, and nighttime curiosity about local opportunity — and ego is just insecurity that blocks all three stages.
 - `INS-260327-7B8E` [medium] At some point, founders must deliberately override their logical brain to pursue what rational analysis rejects.
 - `INS-260328-0B42` [medium] Dalton's hack: ask 'if I were doing office hours with myself, what would I say?' to access your own best advice.
+- `INS-260409-54AA` [medium] The people who stay detached from outcomes outperform the people who tie their identity to metrics because the detachment prevents the anxiety that degrades decision quality.
 - `INS-260327-2684` [medium] Building startups for your university application guarantees you'll never go all-in enough to succeed.
 - `INS-260405-BC10` [medium] The US-Europe startup gap is best explained by failure-recovery infrastructure — bankruptcy law, investor attitudes, labor mobility — not by cultural risk appetite alone.
 - `INS-260403-6386` [medium] If you dropped a skilled wealth-creator on a random street, they'd rebuild within 5-10 years because the skill transfers across contexts.

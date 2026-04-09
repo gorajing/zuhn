@@ -50,12 +50,13 @@ stance: >-
   approach — just as traders won't trade without an edge, and systematically
   generated topic lists are useless without edge
 related:
-  - INS-260325-560A
   - INS-260402-4451
   - INS-260403-8C36
   - INS-260403-A408
   - INS-260402-8223
+  - INS-260325-560A
   - INS-260402-D0F3
+  - INS-260409-95C8
 evidence:
   - id: INS-260402-F3D7
     type: SUPPORTS

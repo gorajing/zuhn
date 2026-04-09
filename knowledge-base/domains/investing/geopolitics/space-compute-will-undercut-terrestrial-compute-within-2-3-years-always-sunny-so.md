@@ -57,7 +57,7 @@ related:
   - INS-260330-BC8E
   - INS-260330-2064
   - INS-260403-0789
-  - INS-260404-7A75
+  - INS-260404-EE07
 stance: >-
   Musk argues space-based AI will cost less than terrestrial AI within 2-3 years
   because space solar is 5x more efficient (no atmosphere, no day/nigh...

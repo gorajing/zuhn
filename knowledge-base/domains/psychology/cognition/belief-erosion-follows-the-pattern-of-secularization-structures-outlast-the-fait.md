@@ -53,10 +53,10 @@ stance: >-
   participation without genuine conviction
 related:
   - INS-260330-647D
+  - INS-260409-EA75
   - PRI-260328-79DA
   - INS-260330-8F72
   - INS-260327-C4AC
-  - INS-260402-1CAD
 ---
 The secularization analogy reveals a specific failure mode of institutions: they can maintain structural integrity (offices, meetings, hierarchies) while losing the animating belief that made those structures meaningful. This creates a zombie-institution phase where participation is driven by economic necessity rather than genuine conviction, and everyone knows it but continues performing.
 

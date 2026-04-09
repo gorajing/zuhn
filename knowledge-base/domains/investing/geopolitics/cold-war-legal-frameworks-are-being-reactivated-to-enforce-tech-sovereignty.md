@@ -58,6 +58,7 @@ related:
   - PRI-260323-7805
   - INS-260404-2AD7
   - INS-260404-5CFB
+  - INS-260409-62DA
 ---
 The Dutch government invoked the Goods Availability Act — legislation from 1952 originally designed for Cold War resource management — to seize control of Nexperia from its Chinese parent company Wingtech. The government suspended Chinese leadership, placed shares under custodial management, and gave the Minister veto power over any company decision deemed harmful to European supply chains.
 

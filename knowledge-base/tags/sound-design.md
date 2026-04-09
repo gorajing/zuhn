@@ -2,4 +2,7 @@
 
 - `INS-260320-D44B` The foundational rule of video sound design: you should be able to hear everything you see -- nothing on screen is truly silent, and even empty rooms have ambient sound.
 - `INS-260320-105E` The sound design workflow for video follows three steps: lay down temp music/score first, add creative SFX and foley second, then apply final audio treatment and mixing.
+- `INS-260409-4290` A parameter that sounds boring when static often becomes a full arrangement element once an automation curve runs through its range over the file's duration.
+- `INS-260409-171B` Node-based wrappers (SoundThread over CDP) unlock decades-old DSP toolkits that were previously gated by command-line friction.
+- `INS-260409-FE00` Offline processing unlocks 'look at the whole file first' operations — like sorting grains by amplitude — that real-time DSP is structurally incapable of.
 - `INS-260322-7E86` Listeners connect to how a song makes them feel, not how technically impressive the production is.

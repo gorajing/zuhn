@@ -54,9 +54,11 @@ related:
   - INS-260325-560A
   - INS-260327-1313
   - PRI-260406-C60B
+  - INS-260409-6349
   - INS-260330-6CA5
   - INS-260327-B64B
-  - INS-260323-8289
+  - INS-260409-9296
+  - INS-260409-D5FF
 ---
 Sam Harris argues that what we call 'the self' is not a persistent entity located somewhere behind our eyes, but rather the experiential consequence of failing to notice thoughts as they arise. When you actually look for the thinker — the one who is supposedly authoring your thoughts — you find only more thoughts, sensations, and open awareness. The self is not hiding; it was never there as an entity in the first place.
 

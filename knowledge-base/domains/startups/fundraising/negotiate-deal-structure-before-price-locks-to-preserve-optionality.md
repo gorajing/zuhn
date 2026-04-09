@@ -52,9 +52,9 @@ stance: >-
 related:
   - INS-260329-21AF
   - PRI-260406-8987
+  - INS-260409-278A
   - INS-260403-8450
   - INS-260404-A893
-  - INS-260403-F852
 ---
 The natural instinct in acquisition talks is to agree on price first because it feels like the biggest decision. But this sequencing is a trap. Once price is set, the remaining negotiation space narrows dramatically — the acquirer can argue that any structural request (more cash, fewer earn-out conditions, shorter vesting) effectively changes the agreed price. Founders find themselves locked into unfavorable structures because they anchored too early.
 

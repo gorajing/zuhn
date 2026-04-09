@@ -3,6 +3,7 @@
 - `INS-260403-1106` ICONIQ's State of AI report shows enterprises are blocked on AI adoption by security and compliance issues, not by capability limitations.
 - `INS-260325-BC2A` Ron from Open Router predicted the agent adoption curve in enterprises will compress from years to months as coalitions form around industry-specific secure deployment standards.
 - `INS-260320-1B10` Have Claude review its own code via a specialized review agent — catches critical errors, missing implementations, and security flaws.
+- `INS-260409-C1B2` Memory is a flat tape of bits with no intrinsic type — whether a byte is code or data is determined entirely by how the CPU decides to read it next.
 - `INS-260320-DDFE` Bash commands (grep, find) bypass Read() deny rules — they scan everything including node_modules even with deny rules configured.
 - `INS-260325-A1B9` Digital encryption relies on the difficulty of factoring large numbers -- a task that takes digital computers centuries but quantum computers could do almost instantly.
 - `INS-260329-D6AA` Iframes show that composability in web systems creates inherent spoofing risks — most production sites correctly restrict embedding as a security default.

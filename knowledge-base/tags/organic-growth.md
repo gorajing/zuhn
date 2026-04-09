@@ -7,6 +7,7 @@
 - `INS-260330-1266` Dominant technologies almost always grew through word-of-mouth from devoted early adopters, not through splashy launches.
 - `INS-260403-99B1` Exponential startup growth comes from making a product so good users recommend it, not from launch tactics or exposure strategies.
 - `INS-260403-4C42` Design growth loops where the sharing mechanism is inseparable from the product's core experience, not a separate referral layer.
+- `INS-260409-B892` AI product distribution is an X-first cascade — small community buzz, news accounts, creator content, then scale.
 - `INS-260327-C9A3` People share products not because you asked them to, but because recommending remarkable things makes THEM look good.
 - `INS-260403-2054` Start with inbound and outbound channels that already show organic traction signals, and reserve paid channels for post-PMF scaling.
 - `INS-260403-CACE` The best thing a university can do for startups is be an excellent research institution, not run entrepreneurship programs.

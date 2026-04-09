@@ -59,6 +59,7 @@ related:
   - INS-260322-6C4B
   - INS-260403-78B7
   - INS-260403-0821
+  - INS-260409-FABA
 ---
 The article highlights a structural tension in venture-funded startups: boards and VCs sometimes explicitly scrutinize how much time founders are putting in, treating hours as a metric for commitment. Harry Stebbings' claim that building a billion-dollar company on a 9-to-5 schedule is 'delusional' represents the investor class normalizing unsustainable expectations. Meanwhile, seasoned operators like Reid Hoffman push back, arguing that founders bragging about no work-life balance are proving they don't understand sustainable building.
 

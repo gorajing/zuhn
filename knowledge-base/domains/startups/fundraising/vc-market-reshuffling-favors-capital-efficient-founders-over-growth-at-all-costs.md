@@ -57,8 +57,8 @@ related:
   - INS-260403-7DC7
   - INS-260403-70B9
   - INS-260403-1D7D
-  - INS-260403-9DEC
   - INS-260403-EFAC
+  - PRI-260406-DE8A
 ---
 Multiple data sources converge on the same signal: Carta reports longer gaps between funding rounds, record-high seed valuations paired with smaller teams, and investors pushing leaner cap tables. PitchBook's Q4 2024 report shows the tentative rebound slipping, with tariffs and weaker exits compounding the pressure.
 

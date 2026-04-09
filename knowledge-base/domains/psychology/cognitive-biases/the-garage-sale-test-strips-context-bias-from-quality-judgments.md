@@ -47,8 +47,8 @@ related:
   - INS-260329-BBF9
   - INS-260329-5B3D
   - INS-260404-C99B
+  - INS-260409-FCF1
   - INS-260403-B462
-  - INS-260327-8DDE
 ---
 Graham's 'garage sale test' — imagining a museum painting found frameless, dirty, and unsigned — is a practical debiasing technique for separating intrinsic quality from contextual prestige. When you walk through a museum applying this filter, the results are startling: works you thought you admired turn out to be carried entirely by their framing.
 

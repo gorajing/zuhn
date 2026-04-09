@@ -47,7 +47,6 @@ stance: >-
   the brain locks onto a new control algorithm, rather than progressing through
   gradual incremental improvement.
 related:
-  - INS-260327-BA8E
   - INS-260330-881A
   - INS-260330-4C26
   - INS-260330-0B0B

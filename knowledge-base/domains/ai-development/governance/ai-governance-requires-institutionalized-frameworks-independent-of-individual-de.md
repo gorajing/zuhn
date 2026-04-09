@@ -52,7 +52,6 @@ stance: >-
   self-governance—it requires coordinated institutional frameworks that set
   standards across the ecosystem.
 related:
-  - INS-260323-7A11
   - INS-260405-6CED
   - INS-260404-5CFB
   - INS-260403-FF65

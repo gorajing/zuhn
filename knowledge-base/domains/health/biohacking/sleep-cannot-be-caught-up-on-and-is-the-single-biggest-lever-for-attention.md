@@ -46,10 +46,10 @@ stance: >-
   is the single most impactful intervention for reclaiming attention and focus.
 related:
   - PRI-260325-663A
+  - INS-260409-2B5F
   - PRI-260328-B115
   - INS-260327-027E
   - INS-260330-0804
-  - INS-260325-4601
   - INS-260327-B987
 ---
 During sleep, the brain is highly active: consolidating memory, clearing waste products, and processing emotions. Shortchanging sleep produces cognitive impairment equivalent to a blood alcohol concentration of 0.08. You cannot compensate by sleeping in on weekends because the circadian cycle of 90-minute sleep stages does not work that way.

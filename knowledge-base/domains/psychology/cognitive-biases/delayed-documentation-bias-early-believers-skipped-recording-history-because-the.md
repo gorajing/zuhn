@@ -52,11 +52,11 @@ stance: >-
   under-invest in documentation, creating information gaps that later get filled
   by retroactive narrative construction
 related:
+  - INS-260409-BC24
   - INS-260330-615D
   - INS-260403-1000
   - INS-260327-F7FE
   - INS-260403-B6D9
-  - PRI-260328-E1CE
 evidence:
   - id: INS-260327-F7FE
     type: EXTENDS

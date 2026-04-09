@@ -8,6 +8,7 @@
 - `INS-260330-B711` Shared precise vocabulary is a coordination technology that enables complex collaborative action in high-stakes domains.
 - `INS-260403-6652` Writing demands more rigor than talking because less can go unsaid and you lose the crutch of tone and shared context.
 - `INS-260329-579D` The limit operation is the conceptual bridge that transforms approximate finite calculations into exact infinite-process results.
+- `INS-260409-E73C` GBAR builds a positronium converter and elaborate ion cooling just to make fewer antihydrogen atoms than ALPHA-g — because ALPHA-g's 0.5K is 50,000x too warm for 1% gravity precision.
 - `INS-260402-2C6B` Everyday words work fine in normal use but produce meaningless disputes when pushed into abstract territory, because they lack precise definitions.
 - `INS-260325-6AE7` Perfect squares become vanishingly rare as numbers grow — 'almost no' numbers are perfect squares — yet there are infinitely many of them, perfectly predictably located.
 - `INS-260323-144F` Lunar rocks match Earth's isotope ratios at parts-per-million precision — an empirical fact that invalidates the most physically elegant Moon formation model, demonstrating that measurement precision can overturn theoretical elegance.

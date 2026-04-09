@@ -1,10 +1,10 @@
 # Tag: forecasting
 
 - `INS-260404-4434` The Bio Anchors report's efficiency comparisons are technology-invariant, undermining their usefulness for timing AI progress.
+- `INS-260403-CEAD` Bio Anchors accurately predicted willingness-to-spend and cost-per-FLOP trends through 2025, correctly forecasting the massive data center buildout from observable investment patterns.
 - `INS-260403-1EFF` Bio Anchors estimated 30% yearly algorithmic progress from easy-task benchmarks, but frontier AI saw 200% yearly gains because harder tasks have more room for improvement.
 - `INS-260403-F8CB` Yudkowsky predicted shorter timelines than Bio Anchors via disjunctive reasoning — either deep learning pays off fast or a new paradigm emerges — and was right on the bottom line despite the wrong mechanism.
 - `INS-260403-F0DC` Bio Anchors had many anchors and parameters but its output was almost entirely determined by the algorithmic progress rate, which was its least-researched input.
-- `INS-260403-CEAD` Bio Anchors accurately predicted willingness-to-spend and cost-per-FLOP trends through 2025, correctly forecasting the massive data center buildout from observable investment patterns.
 - `INS-260325-F0CE` Philip Tetlock's research shows expert financial forecasts are no better than average person predictions, and no one predicted the major market-moving events of recent years.
 - `INS-260325-9F41` Wharton's Philip Tetlock found expert forecasts were no better than average guesses — nobody predicted the 2020 pandemic, 2021 Ukraine invasion, or 2022's 500bp rate hikes.
 - `INS-260404-4758` Prediction markets aggregate dispersed knowledge into price signals that react faster and more accurately than polls.
@@ -19,5 +19,5 @@
 - `INS-260403-AEA3` Critics used Bio Anchors' acknowledged uncertainty to conclude 'things are fine and normal' rather than recognizing that uncertainty cuts both ways and timelines could be shorter.
 - `INS-260330-59CE` Vague predictions appear accurate because our brains apply the 'law of near enough' — two things don't have to match exactly for us to perceive a connection, making almost any outcome confirmatory.
 - `INS-260405-809E` Updating predictions to match outcomes after the fact eliminates any information the prediction contained and corrupts future calibration.
-- `INS-260327-1421` The paper process (NDAs, contracts, procurement, legal reviews) is the single biggest cause of deal slippage, which is why MEDDPICC separates it from the decision process as its own tracked element.
 - `INS-260403-98CD` A prominent development pessimist who argued in 2023 that post-1990 global development was a bust now implicitly concedes it succeeded everywhere except Africa.
+- `INS-260327-1421` The paper process (NDAs, contracts, procurement, legal reviews) is the single biggest cause of deal slippage, which is why MEDDPICC separates it from the decision process as its own tracked element.

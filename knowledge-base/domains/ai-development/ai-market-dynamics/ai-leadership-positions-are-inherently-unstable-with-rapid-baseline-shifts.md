@@ -52,5 +52,6 @@ related:
   - PRI-260328-EC3F
   - PRI-260328-4810
   - PRI-260405-86E0
+  - INS-260409-A180
 ---
 The observation that AI market leadership has changed hands multiple times in under three years fundamentally challenges the notion of durable moats in foundation model development. When the baseline shifts this rapidly, a six-month lead in capabilities can evaporate overnight. This has two major implications: first, for investors, the value lies not in picking the 'winning' model company but in backing infrastructure and application layers that benefit regardless of which model leads. Second, for builders, the strategic imperative is to maintain architecture flexibility — tight coupling to any single AI provider is a liability when leadership rotates this fast. The winners will be those who can adopt new capabilities fastest, not those who bet correctly on a single provider.

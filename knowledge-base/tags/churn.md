@@ -21,6 +21,7 @@
 - `INS-260403-570D` VCs model durability not just growth, and high churn turns a growth engine narrative into a leaky bucket story.
 - `INS-260403-A752` Small churn assumption errors cascade through interconnected financial models to produce dramatically different runway outcomes.
 - `INS-260403-12B4` Minor metric misestimates in churn and ARPU compound over 12 months into massive revenue shortfalls.
+- `INS-260409-4EC0` Early-stage churn is an education problem, not a product problem — fix it with your time, not a roadmap.
 - `INS-260403-4388` Andrew Chen's data shows churn is almost impossible to fix retroactively, making early retention the critical PMF signal.
 - `INS-260405-7ACC` CAC and churn are the two variables that determine whether a SaaS business is structurally viable — everything else is execution.
 - `INS-260403-E1E0` Product-market fit is proven by users staying and returning, not by how many you acquire or how much press you generate.

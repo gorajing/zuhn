@@ -46,7 +46,7 @@ related:
   - INS-260403-693C
   - INS-260330-06CD
   - INS-260405-D959
+  - INS-260409-8A36
   - INS-260329-58E7
-  - INS-260327-EE5E
 ---
 Intercom CEO Eoghan McCabe's strategy of destroying Intercom's own business model to build around AI agent Fin — and the resulting growth reignition toward $400M ARR — illustrates the innovator's dilemma resolution in the AI era. The lesson is that incremental AI features bolted onto existing products will lose to competitors who redesign from first principles around AI capabilities. This is especially brutal in SaaS where the tool-to-outcome shift means your own AI could make your UI-based product irrelevant. The companies that survive will be the ones willing to sacrifice current revenue streams and rebuild around AI-native delivery, accepting short-term pain for long-term positioning.

@@ -59,6 +59,7 @@ related:
   - PRI-260403-26B9
   - PRI-260406-1F70
   - INS-260403-4F68
+  - INS-260409-49EF
 ---
 The traditional VC model of successive equity rounds is particularly punishing for consumer and CPG startups, where unit economics are well-understood and revenue streams are predictable. Smart founders in this space are now constructing blended capital stacks that combine small equity raises for growth capital with debt financing for inventory and revenue-based financing for marketing spend.
 

@@ -42,7 +42,6 @@ stance: >-
   When AI alone outperforms humans alone, inserting humans into the loop
   produces medium-sized performance losses rather than gains.
 related:
-  - INS-260321-3C8A
   - PRI-260403-7E5E
   - INS-260325-3EF4
   - INS-260325-4793

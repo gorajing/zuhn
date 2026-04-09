@@ -1,6 +1,6 @@
 # Topic: relationships
 
-> 85 insights
+> 87 insights
 
 - `INS-260325-3A54` [very_high] The 85-year Harvard Study of Adult Development shows that the single choice most likely to keep you happy and healthy is investing in relationships.
 - `INS-260330-A33E` [high] Active addiction of any kind — drugs, crime, gambling — makes genuine love impossible because the addiction always comes first.
@@ -54,6 +54,7 @@
 - `INS-260330-D0E2` [high] The brain's sexual response has separate accelerator (excitation) and brake (inhibition) systems, and most problems come from overactive brakes rather than a weak accelerator.
 - `INS-260330-75B5` [high] Sexual problems are mostly caused by too much hitting the brakes (stress, shame, trauma) rather than not enough gas (stimulation).
 - `INS-260326-35CE` [high] Shame is the fear that something about who you are makes you unworthy of connection.
+- `INS-260409-7249` [high] During grief, presence is the asset — 'you don't call, you show up' is a costly signal that cannot be faked by low-effort outreach.
 - `INS-260329-EBCA` [high] When you skip social obligations, people punish you by inviting you less — which is exactly what you wanted, making it a win-win.
 - `INS-260323-8268` [high] Satisfied couples maintain approximately five positive interactions for every negative one, where positives include micro-moments like acknowledging bids for connection.
 - `INS-260323-1C33` [high] Criticism, defensiveness, stonewalling, and contempt form a predictable cascade that erodes relationships, with contempt being the single strongest predictor of divorce.
@@ -68,6 +69,7 @@
 - `INS-260329-87C2` [high] The people whose voices you hear when making big decisions shape your trajectory more than the people physically around you.
 - `INS-260329-2460` [high] A partner must love both your current self and the person you are actively working to become.
 - `INS-260325-3223` [medium] Psychologist Sonja Lyubomirsky's analysis estimates 50% of happiness is genetic set point, 10% is circumstances, and 40% is under our control.
+- `INS-260409-E65B` [medium] Three unsolicited moves — compliment, congratulate, console — turn shallow contacts into durable allies because almost no one else bothers.
 - `INS-260403-958C` [medium] Online interaction encourages people to identify with distant interest-based groups over local physical communities.
 - `INS-260330-D812` [medium] After 72 hours alone, Michael realized he didn't just miss people — he discovered that experiences literally feel incomplete without someone to share them with.
 - `INS-260325-05E4` [medium] Gratitude combats the loneliness epidemic by expanding one's sense of belonging beyond the individual self.

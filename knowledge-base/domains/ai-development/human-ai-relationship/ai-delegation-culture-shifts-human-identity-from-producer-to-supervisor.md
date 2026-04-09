@@ -48,7 +48,6 @@ stance: >-
   delegate to, fundamentally changing professional identity.
 related:
   - INS-260322-DAFB
-  - INS-260323-7BB8
   - INS-260327-7F56
   - PRI-260403-FBA8
   - PRI-260328-F0E4

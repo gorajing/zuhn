@@ -7,5 +7,5 @@
 - `INS-260403-DAB9` Early partners in defense-industrial buildups shape the standards and procurement pathways that become barriers to entry for latecomers.
 - `INS-260403-23AA` Long approval processes for AI tools don't prevent usage — they push employees to unapproved personal accounts, creating more risk than fast-tracking would.
 - `INS-260321-3BA8` The Department of War is replacing cost-plus contracts with 1000-requirement RFPs with simple firm-fixed-price requirements — the SpaceX model where vendors keep margins from economizing.
-- `INS-260327-1421` The paper process (NDAs, contracts, procurement, legal reviews) is the single biggest cause of deal slippage, which is why MEDDPICC separates it from the decision process as its own tracked element.
 - `INS-260403-431E` Enterprise buyers are budgeting for logistics, compliance, and supply chain software that wasn't on their radar before tariffs created mandatory new spending categories.
+- `INS-260327-1421` The paper process (NDAs, contracts, procurement, legal reviews) is the single biggest cause of deal slippage, which is why MEDDPICC separates it from the decision process as its own tracked element.

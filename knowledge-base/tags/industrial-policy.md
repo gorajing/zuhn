@@ -1,6 +1,8 @@
 # Tag: industrial-policy
 
+- `INS-260409-BBBA` 10 years ago China published 50% of US research papers; last year it published 50% more. The inversion extends beyond AI into biotech, materials, and life sciences — with China becoming a scientific leader, not just a copycat.
 - `INS-260405-24F0` Britain's relative manufacturing share predicted its WWI dependency on America decades before the war; today's US-China manufacturing gap signals a similar structural shift.
+- `INS-260409-8B3D` Napier: the investment question for the next 10-15 years is not 'which company wins' but 'who gets cheap credit and who gets excluded' — winners are re-industrialization, rearmament, defense, energy, robotics, and old-economy manufacturing.
 - `INS-260403-1462` Defense-industrial catch-up requires allied co-manufacturing because domestic reshoring timelines are too slow against urgent threats.
 - `INS-260403-F2A2` China's state-engineered AI strategy—targeting 90% penetration by 2030—follows the same playbook as its EV and robotics mobilizations.
 - `INS-260403-6FEB` China's upstream mastery of batteries and electric motors is cascading into downstream dominance in drone delivery, autonomous vehicles, flying taxis, and urban robotics — creating an integrated 'Electric Tech Stack.'

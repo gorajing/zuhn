@@ -51,11 +51,11 @@ related:
   - INS-260330-7E58
   - INS-260405-5222
   - INS-260327-5690
+  - INS-260409-D491
   - INS-260405-9EE4
   - PRI-260328-8317
   - INS-260404-6BD6
   - INS-260402-5FE1
-  - INS-260405-093F
 ---
 Rather than conducting visible layoffs, companies are adopting a stealth workforce reduction strategy: when employees leave through normal attrition, their roles are backfilled by AI agents instead of new hires. SaaStr reports these AI replacements deliver 70-80% of human output at dramatically lower cost.
 

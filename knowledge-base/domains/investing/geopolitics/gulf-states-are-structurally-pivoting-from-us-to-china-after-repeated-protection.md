@@ -58,7 +58,6 @@ related:
   - INS-260323-E74E
   - INS-260321-9E91
   - INS-260405-5113
-  - INS-260403-D00D
 stance: >-
   Saudi Arabia and Gulf states are accelerating their pivot toward China because
   the US repeatedly failed to protect oil infrastructure (Aramco 2019,...

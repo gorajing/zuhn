@@ -8,6 +8,7 @@
 - `INS-260403-AEF7` AI systems with multiple interacting configuration layers require all layers to be set intentionally or higher layers will override lower ones.
 - `INS-260325-19E9` Only 3 of 106 experiments tested intentional subtask delegation between humans and AI; those 3 showed positive synergy (g = 0.22) versus the overall negative average.
 - `INS-260330-4C31` Co-locating components on one chip eliminates data transfer overhead, beating systems with individually stronger but physically separated parts.
+- `INS-260409-E080` Generator-verifier loops are easy to describe and almost impossible to execute because the verifier must be protected from the generator's influence.
 - `INS-260405-8E85` Photosynthesis converts sunlight into ATP and NADPH as intermediate currencies, then spends those currencies in the Calvin Cycle—never coupling capture and use directly.
 - `INS-260404-F7C5` Chloroplasts charge thylakoids like batteries using proton gradients, decoupling photon arrival from ATP production.
 - `INS-260405-C497` RuBisCo is wrong about half the time in oxygen-rich conditions, yet plants compensate by making it the most abundant protein on Earth — roughly 40 billion tons — making photosynthesis viable despite terrible per-reaction accuracy.
@@ -19,6 +20,7 @@
 - `INS-260402-8A7A` Graham doubled nonspam token counts to bias against false positives, treating them as bugs to debug rather than statistical errors to optimize.
 - `INS-260329-92FC` Cloud-native storage eliminates hardware as a single point of failure, turning device loss from catastrophic to trivial.
 - `INS-260329-9157` Python's class system with properties and raise statements demonstrates how design-time constraints prevent entire categories of bugs that runtime checks would miss.
+- `INS-260409-CDCD` The only way humans build anything as complex as a CPU is by aggressively black-boxing working parts and refusing to reason about internals and externals simultaneously.
 - `INS-260329-FAE2` Layer simple, well-understood data structures together rather than inventing clever one-off solutions.
 - `INS-260329-7255` Almost every performance optimization in computing trades memory for speed or speed for memory — recognizing which tradeoff you're making is the key architectural skill.
 - `INS-260329-F886` Open addressing trades deletion complexity for cache-friendly memory layout; separate chaining trades memory locality for operational simplicity.
@@ -44,8 +46,8 @@
 - `INS-260403-A9F3` Gerrymandering 6,641 tiny districts is computationally harder and more fragile than gerrymandering 435 large ones, and buying 0.02% of Congress per seat is less attractive than buying 0.23%.
 - `INS-260403-11F9` The 'data moat' is largely a fallacy—architectural feedback loops that compound over time are what actually create defensibility.
 - `INS-260402-B743` Copying a competitor's growth loop features without understanding the underlying system mechanics and timing conditions produces poor results.
-- `INS-260404-95D0` The email system's fundamental vulnerability is that sending messages has no consequences for the sender.
 - `INS-260329-4696` Batching operations increases total system throughput by amortizing overhead, but each individual request waits longer — you cannot optimize both simultaneously.
+- `INS-260404-95D0` The email system's fundamental vulnerability is that sending messages has no consequences for the sender.
 - `INS-260330-8718` Neurons are amitotic and irreplaceable once specialized, making them the nervous system's critical vulnerability despite being its most valuable component.
 - `INS-260403-0B14` Parental drive to advantage children is so powerful that only structural solutions (smaller organizations, market measurement) work—rule-based patches always get circumvented.
 - `INS-260330-2C71` Photosynthesis uses a 4-complex electron transport chain with intermediate carriers (ATP, NADPH) rather than directly converting sunlight to glucose, enabling independent optimization of each stage.

@@ -46,10 +46,10 @@ stance: >-
   coherence with their past, even when that continuity no longer serves them.
 related:
   - INS-260327-DC0B
+  - INS-260409-065B
   - INS-260327-4F3D
   - INS-260325-57CA
   - INS-260329-F21F
-  - INS-260403-5D18
   - INS-260330-1A55
 evidence:
   - id: INS-260327-DC0B

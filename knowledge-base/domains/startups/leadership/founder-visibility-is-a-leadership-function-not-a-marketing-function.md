@@ -56,6 +56,7 @@ related:
   - INS-260403-1984
   - INS-260403-E4C6
   - INS-260328-ACC3
+  - INS-260409-7249
 ---
 The article reframes founder visibility from a marketing or ego concern into a leadership function. When a founder's credibility doesn't travel externally, the internal environment warps: teams question strategy, hiring stalls, and board trust erodes — not from failure, but from persistent misrecognition.
 

@@ -52,6 +52,8 @@ related:
   - INS-260403-8450
   - INS-260403-B18C
   - INS-260403-6B37
+  - INS-260409-0503
+  - INS-260409-0988
 ---
 OpenView's SaaS Benchmarks and ChartMogul's retention analysis both point to the same structural shift: the SaaS companies that scale most efficiently are those optimizing retention mechanics (gross retention, net dollar retention, expansion revenue) rather than pouring capital into top-of-funnel acquisition. This reflects a maturation of the SaaS model where CAC payback periods have lengthened and capital is more expensive.
 

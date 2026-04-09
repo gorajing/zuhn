@@ -1,6 +1,6 @@
 # Topic: innovation
 
-> 125 insights
+> 126 insights
 
 - `INS-260405-EFC2` [high] C invented the curly-brace, semicolon syntax that now defines how billions of developers write code — its design choices became the assumed defaults of most successor languages.
 - `INS-260404-4320` [high] AI collapses experimentation costs across deeptech by replacing early-stage lab work with in-silico simulation.
@@ -127,3 +127,4 @@
 - `INS-260403-6EE7` [medium] Technology's deepest effects are qualitative transformations in how humans live, not quantitative improvements in economic output.
 - `INS-260403-C8FD` [medium] A dedicated internal ambassador who bridges innovation and execution teams prevents both isolation and antibody rejection.
 - `INS-260405-B922` [low] CEOs are using venture building as a growth multiplier, creating new business lines with startup speed inside corporate structures.
+- `INS-260409-AB58` [low] If biology, language, and morphology all show saltative branching — long stability then rapid reorganization at branch points — technology and market evolution likely follow the same dynamic, which reframes strategy around transition timing rather than steady progress.

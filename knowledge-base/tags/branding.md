@@ -2,6 +2,7 @@
 
 - `INS-260323-A55A` AI outputs are 'episodes' (trendy, replaceable, no pain) while human creative work builds 'narratives' (time-intensive, suffering-accumulated) — and only narratives carry the 'aura' of authenticity that Benjamin defined as presence born from spatial, temporal, and symbolic distance.
 - `INS-260329-895D` Brands build loyalty through classical conditioning — repeated pairing of stimulus and positive response — not rational persuasion.
+- `INS-260409-241B` Naming a specific cult-loved brand instead of a generic category gives viewers a pre-formed opinion to defend or attack in the comments.
 - `INS-260403-2A1D` Craft a single descriptive phrase that sticks — investors hear too many pitches, and the first cut is simply being one they remember.
 - `INS-260404-8D37` A compelling one-phrase description like 'the Microsoft Word of ecommerce' serves double duty: it survives in investors' memory and forces founders to clarify their own strategy.
 - `INS-260403-E4B3` AI lowers the cost of copying products, so brand and narrative become the hardest-to-replicate assets.

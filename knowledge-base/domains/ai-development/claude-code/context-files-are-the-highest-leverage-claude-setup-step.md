@@ -40,7 +40,8 @@ related:
   - INS-260323-E0B5
   - INS-260320-F872
   - INS-260320-04A2
-  - INS-260327-6D77
+  - INS-260409-51B2
+  - INS-260409-0D87
 stance: >-
   Create three markdown context files (about-me.md, my-rules.md,
   my-templates.md)

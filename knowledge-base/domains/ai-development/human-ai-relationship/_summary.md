@@ -1,6 +1,6 @@
 # Topic: human-ai-relationship
 
-> 66 insights
+> 68 insights
 
 - `INS-260325-9C2F` [very_high] When AI outperforms humans, human-AI synergy is g = -0.54; when humans outperform AI, synergy is g = +0.46.
 - `INS-260325-3EF4` [very_high] Decision tasks show negative synergy (g = -0.27, p = 0.002) while creation tasks show positive synergy (g = 0.19), a statistically significant difference.
@@ -45,6 +45,7 @@
 - `INS-260322-83D4` [high] The highest-value use of AI is building richer internal world models for better decision-making, not outsourcing output production.
 - `INS-260322-DAA1` [high] Using AI to do learning-stage work (writing, reasoning) destroys the cognitive development the work was designed to build, creating a generation that cannot think independently.
 - `INS-260329-0CDD` [medium] AI companions tuned to individual preferences for voice, personality, and emotional responsiveness will outperform human partners on availability and attentiveness.
+- `INS-260409-B12B` [medium] AI frees business owners from drudgery while simultaneously conscripting the laid-off working class into dehumanizing annotation labor — the 'more human' story is class-specific.
 - `INS-260403-3E16` [medium] When everyone delegates to AI, human professional identity shifts from 'what I do' to 'what I delegate.'
 - `INS-260323-03F4` [medium] Social media built machines for grabbing human attention; AI is now building machines for grabbing human intimacy, which is a far more dangerous capability because it exploits our deepest need to be listened to.
 - `INS-260326-E5D3` [medium] AI is the first technology that makes the consciousness question empirically testable, not just philosophically debatable.
@@ -68,3 +69,4 @@
 - `INS-260403-529D` [medium] Telling the AI 'you are a clinical researcher' or 'you are a senior developer' shifts its entire output posture from generalist to specialist.
 - `INS-260323-DE7F` [medium] We cannot prove consciousness in anyone but ourselves -- we rely on social conventions -- and as humans form intimate relationships with AI, legal systems will be compelled to treat AI as conscious entities regardless of whether they actually are.
 - `INS-260323-C984` [medium] The 'AI clicker' phenomenon — pursuing efficiency by outsourcing reading, writing, design, and judgment to AI without building underlying skills — erodes the very human capacity that creates irreplaceable value in an automated world.
+- `INS-260409-FEAE` [medium] Naming the field 'artificial intelligence' was a marketing choice that now distorts every public debate — evaluating systems by output and cost rather than by analogy to humans would be more honest.

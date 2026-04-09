@@ -3,21 +3,26 @@
 - `INS-260403-2115` McKinsey and OpenAI have both released practical frameworks for enterprise agent deployment, signaling agentic AI is entering mainstream adoption.
 - `INS-260323-01F9` Iterative public deployment of imperfect models surfaces discoveries — both positive and negative — that internal testing cannot.
 - `INS-260404-02C8` OpenAI's $3.4B in ChatGPT subscription revenue demonstrates massive consumer demand for AI tools.
+- `INS-260409-8181` Frontier AI labs are empires, not businesses — they extract more value than they return across data, labor, knowledge production, and environmental impact.
 - `INS-260403-FF65` The generative AI landscape is splitting between dominant horizontal players like OpenAI/Anthropic and specialized vertical startups in legal, medical, and other domains.
 - `INS-260402-BCEC` Despite a proliferation of high-quality models, OpenAI pulled ahead because ChatGPT became a daily habit for millions, not because it scored highest on benchmarks.
 - `INS-260403-8A65` DeepSeek R1 matched OpenAI o1's benchmarks within months of o1's release, as a free open-source model.
+- `INS-260409-D465` OpenAI offering PE investors a 17.5% minimum guaranteed return in a deployment JV is a non-standard capital structure that suggests either extreme confidence in returns or (more likely) growing capital-raise pressure.
+- `INS-260409-27F9` ChatGPT owned 100% of the consumer AI market in 2023, ~75% in 2025, and is likely to fall under 50% as platform incumbents enter with free offerings bundled through OS-level distribution.
 - `INS-260403-6705` OpenAI's 2019 restructuring to attract Microsoft's $1B investment made rapid commercialization a structural inevitability, not a choice individual leaders could resist.
 - `INS-260403-7868` AI market competition is increasingly about deployment philosophy (speed vs safety) rather than raw model capability.
 - `INS-260403-02E2` Treating AGI arrival as an instant winner-take-all event is faith-based reasoning that substitutes for sound business fundamentals.
+- `INS-260409-5B7B` AGI has no stable definition — OpenAI redefines it per audience to serve the specific mobilization need in front of them.
 - `INS-260322-CCE8` Even within OpenAI, the original belief was one AGI model that subsumes everything — that's completely changed, and the future is a portfolio of specialized models for different use cases.
+- `INS-260403-84E1` OpenAI is moving beyond API provider into direct enterprise SaaS competition with incumbents like Salesforce and HubSpot.
 - `INS-260322-D8C3` OpenAI doesn't treat agents as a separate category — ChatGPT, Codex CLI, Sora, and the API are all just different interfaces for deploying the same underlying intelligence, each optimized for different user contexts.
 - `INS-260328-896B` OpenAI's board tried to exercise its nonprofit mission authority and was immediately overridden by financial stakeholders — proving money wins over governance.
-- `INS-260403-84E1` OpenAI is moving beyond API provider into direct enterprise SaaS competition with incumbents like Salesforce and HubSpot.
 - `INS-260327-40E3` Ramp data shows Anthropic capturing 73% of new enterprise AI spend as OpenAI's strategic inconsistency — from flat headcount to doubling, from standalone Sora to folding it in — erodes buyer confidence.
 - `INS-260322-B641` In a reversal of the traditional software pattern where enterprise was stickier than consumer, consumer AI (ChatGPT) is proving stickier than B2B model access — because switching a family's habits is harder than switching an API call.
 - `INS-260327-E1EB` OpenAI spent hundreds of billions developing AI capabilities that competitors can now replicate at a fraction of the cost, potentially turning pioneering investment into a structural disadvantage.
 - `INS-260403-A691` Oracle's $300B OpenAI deal dwarfs OpenAI's $12.7B projected revenue, concentrating RPO risk in a single customer.
 - `INS-260403-56BB` Microsoft relinquished veto powers and right-of-first-refusal in exchange for extended IP rights through 2032 including post-AGI models, signaling that guaranteed model access is worth more than governance control.
+- `INS-260409-5FBA` OpenAI is a consumer-subscription business and Anthropic is an API/enterprise business; comparing headline revenue numbers is apples-to-oranges until both normalize for public markets.
 - `INS-260403-88F2` OpenAI's conversion to a for-profit PBC at $500B valuation, with nonprofit retaining control and a $25B commitment, establishes a new governance playbook for AI companies balancing mission with scale.
 - `INS-260403-F6D2` An entire industry can succeed wildly while flagship companies within it fail, leaving concentrated investors holding the bag.
 - `INS-260323-D288` When OpenAI and Anthropic file S-1s for IPO, the forced financial transparency will likely trigger a WeWork-style reassessment — Anthropic has leaked inconsistent revenue figures and OpenAI plans to burn $200B+ even at optimistic revenue targets.
@@ -28,7 +33,7 @@
 - `INS-260404-D149` OpenAI's immediate response of offering o1 Mini free and rushing out Operator suggests their competitive position was more narrative than technical.
 - `INS-260327-C05A` OpenAI's metamorphosis from nonprofit 'for the good of humanity' to for-profit IPO candidate has permanently damaged trust with researchers, regulators, and the public.
 - `INS-260328-FF2C` The smartest people can make the impossible happen, but if you cannot attract the smartest people, you cannot even make the possible happen.
+- `INS-260323-B0EA` OpenAI started as a research lab with no product plans — patching the structure repeatedly as reality changed led to the awkward hybrid that enabled the board crisis.
 - `INS-260327-421F` With commission, every hour spent helping a colleague or running an experiment is literally money out of your pocket — no-commission culture at Slack, OpenAI, Stripe, and others creates collaborative builders instead of selfish closers.
 - `INS-260327-A59A` Maggie left a senior director role at Webflow to become an individual contributor at 7-person OpenAI GTM because Kevin Egan's principle is true: if you get on a rocket ship, your career goes places you never imagined.
 - `INS-260327-18D4` Maggie's first OpenAI hire was Molly — Stanford MBA, 8 years at Google — who accepted an SDR role when 49 other candidates refused it, then built the global sales dev org within months because she had zero ego.
-- `INS-260323-B0EA` OpenAI started as a research lab with no product plans — patching the structure repeatedly as reality changed led to the awkward hybrid that enabled the board crisis.

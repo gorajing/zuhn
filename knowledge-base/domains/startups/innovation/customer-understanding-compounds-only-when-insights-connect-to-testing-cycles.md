@@ -46,7 +46,6 @@ stance: >-
   Customer research that doesn't feed directly into experiment design loses most
   of its value regardless of quality
 related:
-  - INS-260329-E7A4
   - INS-260330-7168
   - INS-260330-13E8
   - INS-260402-426C

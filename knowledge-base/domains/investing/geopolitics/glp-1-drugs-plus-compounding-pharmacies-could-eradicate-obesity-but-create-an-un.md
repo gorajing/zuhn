@@ -59,8 +59,8 @@ related:
   - INS-260325-0BD7
   - INS-260322-3A00
   - INS-260325-39FD
+  - INS-260409-F90C
   - INS-260404-E077
-  - INS-260403-8448
 stance: >-
   Nearly 1 in 7 Americans already takes a GLP-1 drug, next-gen retatrutide
   enables a third of body weight loss with muscle sparing, and compounding p...

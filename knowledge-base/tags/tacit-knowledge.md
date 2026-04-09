@@ -4,6 +4,7 @@
 - `INS-260403-107E` Japanese manufacturers hold 70% of global industrial robot market share because high-reliability components require decades of accumulated tacit manufacturing knowledge that cannot be shortcut.
 - `INS-260325-ADF3` Developing an intuitive sense of when ChatGPT will hallucinate is as legitimate as understanding its architecture.
 - `INS-260327-5A72` With 25% of US physicians as monthly active users, Open Evidence can now aggregate distributed clinical wisdom that exists only in doctors' heads -- knowledge not found in any published literature.
+- `INS-260409-6236` Daily hands-on AI usage builds usable intuition that content consumption cannot replace.
 - `INS-260330-D429` Zimbabwe's forced land redistribution cut agricultural output by 50-90% because the new farmers lacked the tacit expertise that made the farms productive.
 - `INS-260403-2612` Experts benefit more from writing about their domain because they hold more unconscious knowledge that only surfaces through articulation.
 - `INS-260403-8114` Understanding a mechanism's physics does not grant the ability to operate it skillfully.

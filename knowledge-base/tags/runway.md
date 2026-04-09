@@ -15,6 +15,7 @@
 - `INS-260403-ADB3` Founders must continuously calculate whether current revenue growth and burn rate lead to profitability before money runs out.
 - `INS-260404-771B` Smart founders monitor macro policy signals to time fundraising rounds, not just product milestones.
 - `INS-260403-EB0F` Investors want to see how roles map to runway with taxes, benefits, and timing modeled — saying 'we're hiring 10 engineers' without that detail signals lack of financial control.
+- `INS-260409-1CCD` The irony of unicorn-era overfunding is that raising more than you needed is what creates zombies.
 - `INS-260403-59B0` If suppliers demand Net 30 but customers pay Net 90, the 60-day gap creates a cash crunch that healthy revenue numbers can completely obscure.
 - `INS-260403-FB0C` Cash crises are predictable and preventable with forward-looking financial models that account for timing effects.
 - `INS-260404-9696` Sufficient runway isn't about comfort — it's about ensuring you spend crises building rather than fundraising.

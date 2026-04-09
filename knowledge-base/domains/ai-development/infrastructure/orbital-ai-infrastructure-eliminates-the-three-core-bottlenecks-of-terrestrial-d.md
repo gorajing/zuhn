@@ -48,7 +48,6 @@ stance: >-
   Space-based AI compute will become cost-competitive with ground data centers
   by eliminating energy, cooling, and data-locality constraints simultaneously
 related:
-  - INS-260322-3833
   - INS-260323-F528
   - INS-260403-CAE5
   - INS-260404-CC8B

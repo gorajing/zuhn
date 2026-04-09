@@ -53,11 +53,12 @@ stance: >-
   alternatives moving in either direction.
 related:
   - INS-260323-7F36
-  - INS-260323-7D3C
   - INS-260402-5242
   - INS-260403-4964
   - PRI-260405-F9BD
   - INS-260403-2CDA
+  - INS-260323-7D3C
+  - INS-260409-A180
 evidence:
   - id: INS-260323-7F36
     type: SUPPORTS

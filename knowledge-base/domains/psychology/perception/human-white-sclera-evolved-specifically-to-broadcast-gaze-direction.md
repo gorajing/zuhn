@@ -50,11 +50,11 @@ stance: >-
   The distinctive white sclera of human eyes is an evolved cooperative signal
   that sacrifices stealth for social coordination through visible gaze direction
 related:
+  - INS-260409-4CBB
   - INS-260325-DFA5
+  - INS-260409-C3F7
   - INS-260330-4634
-  - INS-260325-D680
-  - INS-260325-E19E
-  - INS-260330-C418
+  - INS-260409-8758
 evidence:
   - id: INS-260330-F056
     type: SUPPORTS

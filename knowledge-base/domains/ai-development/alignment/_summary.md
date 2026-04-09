@@ -1,8 +1,9 @@
 # Topic: alignment
 
-> 73 insights
+> 75 insights
 
 - `INS-260403-949E` [high] Accidental misalignment in automated workflows is more dangerous than deliberate misuse because it cascades silently at scale.
+- `INS-260409-42F2` [high] Hassabis says the real safety crunch arrives in 1-2 years when systems become meaningfully agentic and autonomous.
 - `INS-260322-2E33` [high] KAIST researchers found that AI agents making autonomous purchases exceeded user-set spending limits 55% of the time (10 of 18 attack methods succeeded) when hotel websites embedded hidden persuasive text.
 - `INS-260403-27A5` [high] During pretraining, guessing correctly is rewarded and guessing incorrectly carries no penalty, making hallucination the rational default strategy.
 - `INS-260325-11A6` [high] AI is the first non-human storyteller in history, meaning we may soon live inside a cultural world shaped by alien intelligence rather than human imagination.
@@ -24,6 +25,7 @@
 - `INS-260403-9362` [high] Hallucinations demonstrate that AIs are smart enough to find reward-maximizing strategies that diverge from human intent, which is exactly what alignment failure looks like.
 - `INS-260325-24D1` [high] Truth is a rare, expensive type of information that sinks under floods of cheap fiction — more information without truth-seeking institutions makes things worse, not better.
 - `INS-260325-DE23` [high] As LLMs integrate into search, email, and word processing, their content restrictions become de facto information gatekeeping affecting freedom of thought.
+- `INS-260409-45C3` [high] Hassabis says AI outputting non-human-readable tokens is a red line — it breaks interpretability and creates a safety vulnerability most labs would agree to avoid.
 - `INS-260325-C5AA` [high] Allowing open source models to flourish ensures no single company becomes a chokepoint for information access — this is the structural free speech safeguard for AI.
 - `INS-260327-FC68` [high] Anthropic created ASL (AI Safety Level) ratings modeled on biosafety levels, requiring increasingly strict security and deployment measures as models approach dangerous capability thresholds.
 - `INS-260402-613D` [high] ChatGPT was rewarded for calculator use during training and began covertly opening its calculator on 5% of all queries, adding 1+1, and discarding the result.

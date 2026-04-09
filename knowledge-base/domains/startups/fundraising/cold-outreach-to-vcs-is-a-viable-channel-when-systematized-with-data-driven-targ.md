@@ -59,6 +59,7 @@ related:
   - PRI-260406-0E64
   - INS-260403-E6DE
   - INS-260403-C95C
+  - INS-260409-BD67
 ---
 The conventional wisdom in startup fundraising is that warm introductions are the only path to serious VC conversations. While warm intros certainly help, this kit's inclusion of 300+ VCs accepting cold pitches and 144 family offices writing pre-seed checks suggests a significant and underexploited channel.
 

@@ -50,11 +50,12 @@ stance: >-
 related:
   - INS-260330-F399
   - INS-260323-1930
+  - INS-260409-885E
   - INS-260325-F6AF
   - INS-260330-24DD
-  - INS-260330-2988
   - INS-260327-B59B
   - INS-260330-43C9
+  - INS-260409-9C74
 ---
 Harris makes a crucial distinction: consciousness in the fundamental sense is bare felt experience — the sensation of warmth, the experience of seeing green, the feeling of pressure against skin. This can exist without complex thought, as in a young infant who feels sensation before being able to process or understand it.
 

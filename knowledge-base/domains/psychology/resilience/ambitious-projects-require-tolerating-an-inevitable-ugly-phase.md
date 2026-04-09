@@ -55,6 +55,7 @@ related:
   - PRI-260407-C737
   - INS-260403-8930
   - INS-260403-309F
+  - INS-260409-A62F
 ---
 Paul Graham observes that most people never do great work not because they lack talent, but because they abandon projects during the inevitable ugly early phase. Ambitious projects by definition start far from their final form, and our instinct is to judge them by the standards of finished work — which makes them look terrible.
 

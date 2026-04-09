@@ -58,7 +58,7 @@ related:
   - INS-260404-EF67
   - INS-260327-8254
   - INS-260405-3554
-  - INS-260405-5D19
+  - INS-260409-647D
 ---
 The Snapchat case (Spiegel vs. Brown) illustrates that co-founder disputes aren't interpersonal drama — they're a governance failure baked into the company's founding structure. When founders diverge on vision or contribution, the company splits its attention between executing and litigating its own identity.
 

@@ -59,10 +59,6 @@
 - `INS-260323-2040` Rella tried to serve everyone on social media, built a confused Frankenstein product, nearly died — then narrowed to social media managers only and hit $2M ARR in 15 months.
 - `INS-260322-F128` The #1 strategic decision is choosing a category you can realistically become #1 in — not just participate in — then killing everything else to focus all resources there.
 - `INS-260403-76B7` Find one channel where you can win and double down until diminishing returns before diversifying.
-- `INS-260321-08AC` There are no true focus-enhancing drugs — only alertness-enhancing stimulants (Adderall, modafinil, caffeine, nicotine) that indirectly improve focus but carry cardiac and sleep costs — and a non-stimulant peptide that reduces cognitive noise would capture enormous demand.
-- `INS-260405-A596` Find the one variable that governs your market and organize everything—strategy, pitch, and milestones—around it.
-- `INS-260403-2B6E` Fundraising cuts productivity to a third by replacing product thinking with investor thinking in founders' idle cognitive cycles.
-- `INS-260405-1982` Treat fundraising as a sprint with a hard end date to minimize distraction and create investor urgency.
 - `INS-260329-EC01` Champions win by saying no to everything except their singular focus, not by adding more skills or opportunities.
 - `INS-260329-C91D` Commitment equals the elimination of alternatives — you prove commitment by what you stop doing, not by what you start.
 - `INS-260329-0935` Sustained focus on one domain compounds returns far more than spreading effort across many.
@@ -74,14 +70,19 @@
 - `INS-260329-0117` The '7 income streams' advice is survivorship bias — millionaires built wealth by going all-in on one stream, then diversified to preserve it.
 - `INS-260329-1669` The belief that pursuing multiple opportunities increases the odds of one succeeding is a fallacy—any single one could have succeeded with full focus, but none will with divided attention.
 - `INS-260329-DEE5` Frame ruthless prioritization as a temporary 'season of no' to make the sacrifice psychologically sustainable.
+- `INS-260321-08AC` There are no true focus-enhancing drugs — only alertness-enhancing stimulants (Adderall, modafinil, caffeine, nicotine) that indirectly improve focus but carry cardiac and sleep costs — and a non-stimulant peptide that reduces cognitive noise would capture enormous demand.
+- `INS-260405-A596` Find the one variable that governs your market and organize everything—strategy, pitch, and milestones—around it.
+- `INS-260403-2B6E` Fundraising cuts productivity to a third by replacing product thinking with investor thinking in founders' idle cognitive cycles.
+- `INS-260405-1982` Treat fundraising as a sprint with a hard end date to minimize distraction and create investor urgency.
 - `INS-260327-D0F4` Goldman exited their consumer business with Apple not because it failed but because at less than 5% of revenue it consumed 40% of management attention, blocking higher-value initiatives.
 - `INS-260403-3FF5` Wartime prioritization requires cuts so deep that everyone in the organization can feel the change in direction.
-- `INS-260403-3A44` Publicly excluding customer segments that don't fit your product sharpens value perception for the customers who actually matter.
-- `INS-260404-2BDA` Effective product strategy must include explicit 'not in focus' areas alongside strategic pillars to force real tradeoffs.
-- `INS-260403-0196` Great value propositions concentrate on very few customer jobs, pains, or gains but deliver outstanding depth in those areas.
+- `INS-260409-2A8D` Your only job is right product at right time — everything else is avoidance of that job.
 - `INS-260403-B448` An effective MVP delivers one complete, polished workflow rather than a broad but half-baked product, because user conviction requires depth over breadth.
 - `INS-260323-EBC3` Moddoc stalled at low revenue serving 'all Koreans' until they narrowed to ophthalmology patients -- then revenue tripled annually.
 - `INS-260323-76B8` Manifast CEO deliberately keeps the product focused on front-end software planning rather than expanding to project management — arguing that horizontal plays generate short-term sales but not sustainable value.
+- `INS-260403-3A44` Publicly excluding customer segments that don't fit your product sharpens value perception for the customers who actually matter.
+- `INS-260404-2BDA` Effective product strategy must include explicit 'not in focus' areas alongside strategic pillars to force real tradeoffs.
+- `INS-260403-0196` Great value propositions concentrate on very few customer jobs, pains, or gains but deliver outstanding depth in those areas.
 - `INS-260329-9A8B` Hormozi's bankruptcy-to-seven-figures turnaround came from doing fewer things with more intensity, not from finding a new business model.
 - `INS-260329-22A8` One product, one avatar, one channel to $1M; add second product at $10M; add second channel after that.
 - `INS-260330-217C` Apple's strategy of acquiring small teams for talent and technology rather than buying large companies preserves the extreme focus that drives its premium margins.

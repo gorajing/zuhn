@@ -53,11 +53,11 @@ stance: >-
   that evil lies in every human heart, not treating evil people as fundamentally
   different from ourselves
 related:
+  - INS-260409-FCF1
   - INS-260330-09A2
   - INS-260325-59D4
   - INS-260325-DFA5
   - INS-260403-1BCC
-  - INS-260329-8CA3
 evidence:
   - id: INS-260323-64A4
     type: TRANSFERS_TO

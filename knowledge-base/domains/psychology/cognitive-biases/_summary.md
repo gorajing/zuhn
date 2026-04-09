@@ -1,6 +1,6 @@
 # Topic: cognitive-biases
 
-> 313 insights
+> 315 insights
 
 - `INS-260326-163A` [very_high] Data quality dominates ML architecture just as install base and data gravity beat product design elegance in business -- what you've accumulated is the moat, not how you've arranged it.
 - `INS-260326-CA66` [very_high] Insulin resistance manifests as heart disease, diabetes, obesity, and dementia -- just as a misidentified business model manifests as churn, pricing problems, and sales failures.
@@ -288,6 +288,7 @@
 - `INS-260402-7B04` [medium] We reward people for the luck of being in a position to help us rather than for having the character that would lead them to help.
 - `INS-260330-615D` [medium] The 'fall of Rome' in 476 CE is a misleading narrative — the empire continued for another 1000 years in the east, but our bias toward decline stories obscures ongoing transformation.
 - `INS-260330-FB34` [medium] Destin discovered he could not eliminate his steering bias but only re-designate it, suggesting cognitive biases are structural rather than removable.
+- `INS-260409-67A5` [medium] People keep putting aliens on fuzzy photos because we are lonely in the universe.
 - `INS-260403-FAC0` [medium] People in passionate arguments are often arguing about two different things and sometimes even agree without realizing it.
 - `INS-260403-EEAF` [medium] People complain about crime instead of disorder because disorder complaints risk being labeled racist or a Karen.
 - `INS-260330-A484` [medium] People who appear unserious but deliver results are underestimated, while those who appear serious but underdeliver are overestimated.
@@ -310,6 +311,7 @@
 - `INS-260329-A45D` [medium] 'But' acts as an attention redirector — everything after it is amplified, everything before it is diminished.
 - `INS-260329-78A0` [medium] Reframing a $500 purchase as '3 days of your life working' creates visceral cost awareness that dollar amounts alone cannot.
 - `INS-260329-BF51` [medium] Showing the compounded future cost of discretionary purchases creates visceral aversion that abstract budget rules cannot.
+- `INS-260409-0A28` [medium] UFO reports cluster on holidays when people drink — the sky is constant, the observer is not.
 - `INS-260403-A3A7` [medium] Wealth without a visible origin story removes the coping mechanism of attribution, intensifying envy.
 - `INS-260403-5772` [medium] Virtue signaling theories of voting fail because they predict universal support for nice-sounding measures, while actual vote patterns match belief differences too precisely.
 - `INS-260403-4E70` [medium] The Iran War was unpopular from day one — 53% opposed — breaking the normal pattern where wars enjoy initial public support that fades over time.

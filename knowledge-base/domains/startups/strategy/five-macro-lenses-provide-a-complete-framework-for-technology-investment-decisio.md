@@ -54,11 +54,12 @@ stance: >-
   capital market dynamics, and socio-political trends together produces better
   investment theses than analyzing any single dimension in isolation
 related:
-  - INS-260403-A6AF
   - INS-260403-912C
+  - INS-260403-A6AF
   - PRI-260406-FBCE
   - INS-260403-35A6
   - INS-260404-86D3
+  - INS-260409-6ABF
 ---
 Chamath organizes his worldview around five interconnected themes: deep tech (science making scarce things abundant), energy transition (trillions in capex reallocation), healthcare (20% of GDP plus demographic shifts), economic analysis (capital markets and business model viability), and socio-political trends (the overlay connecting everything). He explicitly frames these as lenses for understanding the world, not just investment categories.
 

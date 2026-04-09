@@ -22,6 +22,8 @@
 - `INS-260403-1E5A` Distractions continuously evolve toward knowledge workers, requiring ever-updated defenses rather than one-time solutions.
 - `INS-260403-0C95` Research on hunter-gatherers and organizations converges on 8 as ideal, 20 as hard to manage, and 50 as unwieldy—matching our evolutionary design.
 - `INS-260330-1DDE` Evolution can only reach solutions through chains of viable intermediates, while human creativity can leap across non-viable gaps — explaining why no species ever made a campfire despite billions of years.
+- `INS-260409-0584` A 2025 Bayesian phylogenetic model by Jordan Douglas detected saltative branching — rapid evolutionary leaps at speciation nodes followed by long stability — across enzymes, cephalopod body shapes, and Indo-European languages, validating punctuated equilibrium theory.
+- `INS-260409-BB40` Douglas's saltative branching model revealed that extinct evolutionary branches leave mathematical footprints on surviving lineages — the dead-end paths still shape what survived, even when invisible to direct observation.
 - `INS-260330-09DE` Photosynthesis is 'complicated, inefficient and confusing' yet dominates all life on Earth because it achieved planetary scale before any competitor could emerge.
 - `INS-260405-BEA7` Photosynthesis is 450 million years old, described as 'complicated, inefficient and confusing'—yet it powers virtually all life on Earth.
 - `INS-260405-7E85` RuBisCo evolved to fix CO2 in a low-oxygen world, then photosynthesis flooded the atmosphere with oxygen—causing RuBisCo to mistake oxygen for CO2 roughly half the time, generating toxic waste that plants must now continuously detoxify.
@@ -39,8 +41,8 @@
 - `INS-260325-E19E` New species form when populations are isolated long enough to accumulate distinct mutations — roughly 2 million years for mammals.
 - `INS-260405-F03A` Plants evolved RuBisCo in a low-oxygen atmosphere, then produced the very oxygen that made RuBisCo increasingly dysfunctional — a trap where success altered the environment enough to undermine the mechanism of success.
 - `INS-260403-1284` Marketplaces in every category follow a predictable arc: horizontal discovery → vertical discovery → vertical transactional → fintech-enabled managed marketplace.
-- `INS-260404-0F87` Studying how a company's website messaging evolves reveals which value propositions are constant (the platform identity) versus which change (individual product positioning).
 - `INS-260403-8653` Plants evolved entire metabolic pathways to manage RuBisCo's toxic byproducts rather than replace the enzyme itself.
+- `INS-260404-0F87` Studying how a company's website messaging evolves reveals which value propositions are constant (the platform identity) versus which change (individual product positioning).
 - `INS-260404-5E8F` RuBisCo is terrible at its job but plants scaled it to 40 billion tons and dominated Earth, proving that volume compensates for per-unit inefficiency.
 - `INS-260404-CC7C` RuBisCo is evolution's ultimate legacy system — plants produce 40 billion tons of a bad enzyme rather than redesign the core pathway.
 - `INS-260330-0B4A` RuBisCo — the most abundant protein on Earth at 40 billion tons — is demonstrably bad at its job, confusing O2 for CO2 half the time, yet plants are permanently locked into it.

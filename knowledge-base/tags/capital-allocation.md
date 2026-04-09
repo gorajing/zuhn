@@ -9,9 +9,7 @@
 - `INS-260330-ED77` Apple borrows money in the US to pay American bills despite having $285B in offshore accounts it cannot access without triggering taxes.
 - `INS-260330-137A` Offshore cash that can't be repatriated without heavy taxes acts as dead weight on shareholder returns rather than a competitive advantage.
 - `INS-260403-B744` Space tech is following the same stack-layer consolidation pattern as AI, but capital fixation on AI has left space infrastructure windows unusually open.
-- `INS-260403-D00D` JPMorgan's $1.5T commitment signals that private banks are assuming industrial policy roles governments are too slow to fill.
-- `INS-260403-7157` Solar attracts ~$500B/year in investment and installs more new capacity than every other electricity source combined.
-- `INS-260403-3AE7` Confidence about AI's trajectory is hardening into consensus faster than the underlying evidence supports, creating dangerous belief-lock-in across capital allocation decisions.
+- `INS-260409-8B3D` Napier: the investment question for the next 10-15 years is not 'which company wins' but 'who gets cheap credit and who gets excluded' — winners are re-industrialization, rearmament, defense, energy, robotics, and old-economy manufacturing.
 - `INS-260403-F387` AI dominates VC funding at 40% of total capital while non-AI startups face a funding freeze, and SVB flags rising 'zombiecorns' with shaky growth.
 - `INS-260404-C28B` Anti-woke VC funds are emerging as an explicit political counter-positioning in venture capital.
 - `INS-260404-E55F` New fund launches in late 2024 cluster around European deep tech and B2B software rather than US consumer tech.
@@ -23,8 +21,12 @@
 - `INS-260405-AA34` The emergence of a wind-down services industry signals that the post-2021 startup correction is entering its final clearing phase.
 - `INS-260404-3821` VC fund formation is splitting into massive scale plays and laser-focused thematic bets, leaving generalist mid-tier funds stranded.
 - `INS-260403-4227` More VC money doesn't produce more great startups — it inflates prices, spreads talent thin, and compresses exit multiples.
+- `INS-260403-D00D` JPMorgan's $1.5T commitment signals that private banks are assuming industrial policy roles governments are too slow to fill.
+- `INS-260403-7157` Solar attracts ~$500B/year in investment and installs more new capacity than every other electricity source combined.
+- `INS-260403-3AE7` Confidence about AI's trajectory is hardening into consensus faster than the underlying evidence supports, creating dangerous belief-lock-in across capital allocation decisions.
 - `INS-260403-9421` The time required to build a company is often predictive of how long it will last.
 - `INS-260403-A93A` Extremely high CLTV/CAC ratios can signal missed growth opportunities rather than operational excellence.
+- `INS-260329-1CB0` Extreme early frugality isn't about the savings — it's about escaping survival mode so you can think long-term and make strategic bets.
 - `INS-260405-69F1` Innovation spend framed as a call option is harder for CFOs to cut because it reuses their own valuation logic.
 - `INS-260405-3403` You must fund the losers to find the winners—the portfolio math only works if you don't pre-filter by apparent promise.
 - `INS-260403-BDCC` Fund internal innovation projects in tranches tied to evidence, not annual lump-sum budgets.
@@ -37,7 +39,6 @@
 - `INS-260330-A38C` Travis systematically learned when Lyft had investor meetings, then immediately contacted those same investors to announce Uber's upcoming round, causing investors to back out of Lyft deals.
 - `INS-260330-2BB3` Each funding round should target specific risks to eliminate, with the amount raised calibrated precisely to the milestones needed to peel away those risk layers.
 - `INS-260405-5B4D` Investors asking 'what will you do with the money?' are really asking whether you understand your own business's leverage points.
-- `INS-260329-1CB0` Extreme early frugality isn't about the savings — it's about escaping survival mode so you can think long-term and make strategic bets.
 - `INS-260330-A1A4` Apple's $285B cash hoard demonstrates that past a strategic reserve threshold, excess cash creates more problems than options.
 - `INS-260330-4830` When repatriation taxes trap offshore profits, companies resort to borrowing domestically against foreign assets rather than deploying capital optimally.
 - `INS-260403-D379` Spend the least on experiments when you know the least, and increase stakes only as validated learning reduces uncertainty.

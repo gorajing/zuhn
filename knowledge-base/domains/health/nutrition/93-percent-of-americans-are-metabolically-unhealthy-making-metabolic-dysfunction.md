@@ -38,11 +38,11 @@ stance: >-
   insulin resistance the common root cause underlying obesity, diabetes, heart
   disease, and most cancers
 related:
+  - INS-260409-7789
   - INS-260330-E647
   - PRI-260406-350B
   - INS-260327-62AA
   - PRI-260407-9D41
-  - PRI-260325-9258
   - INS-260327-D21C
 evidence:
   - id: INS-260322-D059

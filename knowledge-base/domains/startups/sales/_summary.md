@@ -1,6 +1,6 @@
 # Topic: sales
 
-> 179 insights
+> 183 insights
 
 - `INS-260329-7B47` [high] Send 100 personalized outreach messages daily using a compliment-plus-positioning formula to guarantee your first five customers through pure volume.
 - `INS-260327-1B7C` [high] Data from MEDDIC CRM software shows over 80% of won deals had economic buyer engagement while 80% of lost deals lacked it — the correlation is overwhelming.
@@ -37,6 +37,7 @@
 - `INS-260327-5B47` [high] The painkiller market is $7B, vitamins are $36B, candy is $70-80B — a single product in a single deal may need candy messaging (delight stories) for users, vitamin messaging (benefit word-of-mouth) for evaluators, and painkiller messaging (prescriptive facts) for executives.
 - `INS-260405-270B` [high] Cold outreach succeeds when personalization demonstrates genuine knowledge of the recipient's context rather than mass-blast generic pitches.
 - `INS-260327-C6DC` [high] When buyers lack defined decision criteria, elite sellers craft it for them — embedding their unique differentiators as 'must-haves' that disqualify competitors.
+- `INS-260409-57DB` [high] Content gets you seen; email gets you paid — the handoff from one to the other is the core monetization move.
 - `INS-260327-005D` [high] Horowitz explains that when engineers ask a question, they think about the correct answer; when salespeople hear a question, they think about why you're asking — and this fundamental difference causes engineer-CEOs to reject good sales candidates and hire bad ones.
 - `INS-260328-A666` [high] At companies like Palantir, the CEO doesn't delegate deal origination — the sales team is built as a multiplier around the founder.
 - `INS-260327-C464` [high] Entire departments at enterprise accounts have staked their careers on being experts in legacy systems -- even with a clear ROI case for modernization, the VP of IT who only knows on-premise systems sees your cloud solution as a career threat.
@@ -116,6 +117,7 @@
 - `INS-260329-788F` [high] Put your highest-margin products first in any self-serve flow so customers fill up on profitable items before reaching costly ones.
 - `INS-260327-F8EB` [high] A 20% improvement in show-up rates produces the same revenue gain as a 20% improvement in close rates, but show-up rate improvements are far easier to achieve through systematic reminder sequences.
 - `INS-260327-B959` [high] The Oracle veteran's most damaging deal loss: five months deep with one champion who went silent overnight -- no other contacts to call, months of effort wasted, and internal credibility damaged with his own solutions engineers.
+- `INS-260409-526E` [high] Real capacity limits are hidden scarcity assets — make them visible instead of fabricating artificial urgency.
 - `INS-260327-A814` [high] After the initial close, future-pace the customer: 'People love texting me when they hit their first milestone -- would you keep me in the loop on your transformation?' This cements commitment and shifts you from sales rep to partner.
 - `INS-260329-4B07` [high] Cut delivery time rather than increase promised results — latency reduction is the strongest purchase motivator.
 - `INS-260327-7226` [high] Founders who can't build their own product will never develop the intuition needed to sell and iterate effectively.
@@ -173,6 +175,7 @@
 - `INS-260329-2A5A` [medium] Leaving value on the table in negotiations builds relationship capital that generates more lifetime revenue than extraction.
 - `INS-260329-3D14` [medium] Treating negotiation as mutual value discovery rather than extraction creates better deals and preserves relationships.
 - `INS-260328-93F7` [medium] Sales interviews disproportionately weight how you describe handling objections because it simultaneously reveals listening skills, composure, and problem-solving ability.
+- `INS-260409-07ED` [medium] Ten emails of pure education make the eleventh email's purchase link irresistible — asking for the sale earlier collapses trust.
 - `INS-260403-7E7C` [medium] Mapping a customer's business model before selling positions your solution within their strategic context rather than as an isolated product.
 - `INS-260329-B28C` [medium] Design premium offers for a different customer archetype, not your existing buyers stretched to a higher price point.
 - `INS-260328-41C9` [medium] Interviewers use rejection questions to filter for coachability and growth mindset — the answer reveals whether a candidate will burn out or improve under pressure.
@@ -181,3 +184,4 @@
 - `INS-260329-8BFC` [medium] Negative-before-positive sequencing leverages recency bias and earned credibility to make the same facts more persuasive.
 - `INS-260329-C996` [medium] Use Acknowledge-Compliment-Ask to warm up conversations, tying your ask to the compliment so the transition to your service feels natural rather than transactional.
 - `INS-260403-2814` [medium] Build a visual pain statement that communicates the prospect's challenge before describing your solution.
+- `INS-260409-EF0C` [medium] Put the founder on camera for 40 minutes; the face-to-face trust signal closes deals no landing page can match.

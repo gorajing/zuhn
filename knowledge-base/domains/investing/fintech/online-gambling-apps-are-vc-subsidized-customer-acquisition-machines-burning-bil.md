@@ -47,7 +47,6 @@ related:
   - PRI-260403-E097
   - INS-260322-D7B1
   - INS-260404-4146
-  - INS-260330-1FE2
 stance: >-
   FanDuel and DraftKings are spending billions on advertising and sign-up
   bonuses to acquire users in newly legal states before the regulatory window...

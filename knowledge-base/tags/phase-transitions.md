@@ -4,6 +4,7 @@
 - `INS-260330-4C26` After 8 months of daily practice with no visible progress, Destin suddenly could ride the backwards bike one day — skill acquisition followed a step-function, not a gradient.
 - `INS-260330-0B0B` After 8 months of daily practice with no visible progress, Destin suddenly could ride the backwards bike one day — a discrete phase transition.
 - `INS-260330-3170` Synchronization in coupled oscillators occurs as a sudden phase transition at a critical coupling strength, not as a gradual convergence.
+- `INS-260409-0584` A 2025 Bayesian phylogenetic model by Jordan Douglas detected saltative branching — rapid evolutionary leaps at speciation nodes followed by long stability — across enzymes, cephalopod body shapes, and Indo-European languages, validating punctuated equilibrium theory.
 - `INS-260330-D795` Kistler solved aerogel's shrinkage problem not by fighting surface tension but by heating liquid past the critical point where liquid-gas distinction ceases to exist.
 - `INS-260330-43D3` Modifying just 30% of aerogel's surface chemistry flips it from water-absorbing to completely waterproof, demonstrating that threshold effects outweigh proportional ones.
 - `INS-260330-BE6F` Breaking the sound barrier inside an F-16 cockpit produces no sensation — only instrument anomalies from shock wave pressure changes on the Pitot tube reveal it happened.

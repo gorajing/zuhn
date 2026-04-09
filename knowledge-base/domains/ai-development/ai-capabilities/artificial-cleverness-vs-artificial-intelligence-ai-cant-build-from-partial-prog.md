@@ -48,6 +48,7 @@ related:
   - INS-260330-1118
   - INS-260330-DBE6
   - INS-260404-393A
+  - INS-260409-FEAE
 stance: >-
   AI has artificial cleverness (trial and error at scale) but not artificial
   intelligence (building cumulatively from partial progress, adapting stra...

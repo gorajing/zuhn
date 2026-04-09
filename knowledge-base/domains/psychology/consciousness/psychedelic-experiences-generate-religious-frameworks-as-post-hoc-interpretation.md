@@ -56,10 +56,10 @@ stance: >-
   on universal psychedelic phenomena, not evidence of the doctrines' truth.
 related:
   - INS-260325-6BDE
+  - INS-260409-2CE9
   - INS-260330-53F7
   - INS-260330-7A69
-  - INS-260330-3748
-  - INS-260330-F399
+  - INS-260409-3CDD
 ---
 Harris notes that having a transcendent psychedelic experience while holding specific religious beliefs could seem to confirm those beliefs — a Christian would count it as collision with the Holy Spirit. But he argues this is an interpretive overlay, not evidence. The brain regions that represent relationships to other minds can be triggered arbitrarily, just as they are in dreams where we feel ourselves in relationship to nonexistent people.
 

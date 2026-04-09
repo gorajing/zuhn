@@ -51,11 +51,11 @@ stance: >-
   analysis
 related:
   - INS-260403-CEBA
+  - INS-260409-D681
   - INS-260403-3D38
   - PRI-260406-CCAE
   - INS-260330-A38C
   - INS-260325-0C4A
-  - INS-260404-3212
 ---
 The article identifies a specific pattern in startup turnarounds: the pivots that rescue companies from the year 5-7 plateau consistently come from founders who went back to direct customer contact — calling major customers personally, testing new segments hands-on, and listening to PM proposals that emerged from customer-facing work. This is 'founder mode' applied to crisis recovery.
 

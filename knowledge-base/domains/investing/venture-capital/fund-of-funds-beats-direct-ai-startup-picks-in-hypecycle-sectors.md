@@ -65,6 +65,7 @@ related:
   - INS-260403-F6D2
   - INS-260405-D959
   - PRI-260406-6C6C
+  - INS-260409-8B3D
 ---
 Daniel Lubetzky deliberately avoids direct AI startup investments despite having the deal flow and capital to participate. His reasoning: the AI startup landscape will be a 'bloodbath' where a few companies become enormous but most fail completely. Rather than trying to pick winners in a sector defined by power-law outcomes, he invests in only six funds he considers world-class, each backing hundreds of companies.
 

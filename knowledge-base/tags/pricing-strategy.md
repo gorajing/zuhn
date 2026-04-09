@@ -26,7 +26,7 @@
 - `INS-260330-3431` Premium brand identity can prevent entry into massive price-sensitive markets where the bulk of demand sits far below your price floor.
 - `INS-260330-7479` Apple's $1,100+ iPhone captures only 1% of India where 75% of smartphones sell under $250, proving brand prestige alone cannot overcome price-sensitivity at scale.
 - `INS-260330-1D9D` Charge for your product as early as possible because paying customers give brutally honest feedback that free users won't.
-- `INS-260329-ACFF` Price either extremely high for a select few or extremely low for everyone — the middle kills businesses.
 - `INS-260404-B2FB` Costco's $60 membership fee filters for affluent households averaging $100K income, with business owners generating two-thirds of sales.
 - `INS-260403-D444` Shrinking an industry's total revenue by 95% is a viable strategy if you capture all of what remains, because incumbents can't follow you down.
 - `INS-260329-AAD1` Start free to get reps and feedback, then systematically reduce discounts in batches of five customers until you reach and exceed full price.
+- `INS-260329-ACFF` Price either extremely high for a select few or extremely low for everyone — the middle kills businesses.

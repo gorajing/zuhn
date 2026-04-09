@@ -47,7 +47,6 @@ stance: >-
   hormone release which occurs primarily during deep sleep in the first 90
   minutes.
 related:
-  - INS-260325-123C
   - PRI-260328-92EF
   - PRI-260328-B115
   - PRI-260325-F627

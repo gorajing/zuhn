@@ -58,6 +58,8 @@ related:
   - PRI-260323-CE34
   - INS-260323-3F56
   - INS-260323-7BA4
+  - INS-260409-E73C
+  - INS-260409-7FC5
 stance: >-
   The negative energy solutions in the Dirac equation were universally condemned
   as 'the saddest chapter in modern physics'

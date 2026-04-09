@@ -51,5 +51,6 @@ related:
   - INS-260403-FE3B
   - INS-260403-9942
   - INS-260330-6204
+  - INS-260409-2AF8
 ---
 The startup ecosystem stigmatizes acqui-hires as consolation prizes, but the financial reality is more nuanced. Founders in acqui-hires often negotiate retention packages, accelerated vesting, and signing bonuses on top of the acquisition price — making the total compensation package significantly more lucrative than the headline number suggests. For VCs, acqui-hires can return meaningful capital on otherwise struggling investments. The broader lesson is that founders should maintain acqui-hire as a legitimate strategic option rather than viewing it as failure. Companies with strong engineering teams in hot sectors (particularly AI right now) have significant acqui-hire leverage even without product-market fit.

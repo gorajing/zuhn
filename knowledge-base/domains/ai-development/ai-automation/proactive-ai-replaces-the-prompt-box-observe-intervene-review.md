@@ -42,9 +42,9 @@ resolutions:
 related:
   - INS-260329-BCB7
   - INS-260403-C37B
+  - INS-260409-B2B5
   - INS-260327-3A71
   - INS-260329-AA76
-  - INS-260327-79E8
 stance: >-
   The next generation of AI apps will observe user behavior and proactively
   suggest actions rather than waiting for prompts.

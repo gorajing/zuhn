@@ -1,5 +1,6 @@
 # Tag: insulin-resistance
 
+- `INS-260409-E490` Insulin resistance increases 5-alpha reductase activity and free testosterone availability, making metabolic repair a prerequisite for durable hair regrowth.
 - `INS-260327-1DAB` Chronic stress and cortisol management is as important as diet for health outcomes
 - `INS-260327-9E9D` 93 percent of Americans are metabolically unhealthy making metabolic dysfunction the root of most chronic disease
 - `INS-260327-368C` Burning feet syndrome is typically B1 deficiency or insulin-driven neuropathy not structural nerve damage

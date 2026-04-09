@@ -48,6 +48,7 @@ stance: >-
   creating a self-defeating cycle.
 related:
   - INS-260327-B0F2
+  - INS-260409-54AA
   - INS-260330-207D
   - PRI-260405-2DE5
   - INS-260403-B7E3

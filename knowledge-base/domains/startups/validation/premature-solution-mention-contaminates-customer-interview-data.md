@@ -46,7 +46,6 @@ stance: >-
   the data because social desirability bias causes interviewees to confirm
   rather than challenge
 related:
-  - INS-260320-508F
   - INS-260322-82E8
   - INS-260326-98A0
   - INS-260327-6AB1
@@ -56,6 +55,7 @@ related:
   - INS-260330-F3A8
   - INS-260330-A6BE
   - INS-260403-359D
+  - INS-260403-6714
 evidence:
   - id: INS-260322-F65F
     type: TRANSFERS_TO

@@ -51,10 +51,10 @@ stance: >-
   on top of an already repricing market.
 related:
   - PRI-260328-0993
+  - INS-260409-3640
   - INS-260324-DB86
   - INS-260403-EB97
   - PRI-260406-6533
-  - INS-260403-5056
 ---
 During ZIRP (2015-2021), SaaS companies were valued like growing bonds — predictable recurring revenue with 80% gross margins and 120%+ net retention made them ideal duration assets when discount rates were near zero. Even 20x revenue could be defended in DCF models under those inputs.
 

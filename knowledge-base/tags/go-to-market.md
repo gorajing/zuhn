@@ -1,6 +1,7 @@
 # Tag: go-to-market
 
 - `INS-260403-5DAD` AI is shifting SaaS from process automation to intelligent, self-compounding growth systems that rewrite GTM playbooks.
+- `INS-260409-E44A` Code was the ideal wedge product for Anthropic because it opened enterprise IT budgets and because 'if you can generate code, you can generate anything else by generating the code that creates it.'
 - `INS-260405-FCBE` AI automates volume in sales, making precision the only remaining differentiator.
 - `INS-260403-39CF` AI will reduce product team sizes by 25-50% (mainly fewer engineers) while PMs spend more time on discovery and go-to-market rather than building.
 - `INS-260405-F05B` Structured environments like factory floors let humanoid robots learn fast and fail cheaply before tackling complex unstructured domains.
@@ -38,13 +39,13 @@
 - `INS-260403-B198` Revolutionary framing creates a false dichotomy; the winning strategy is evolving what already works with new capabilities layered on top.
 - `INS-260404-97AA` Halo targets ALS and locked-in syndrome patients first, creating emotional demonstrations and clinical validation before pursuing consumer augmentation.
 - `INS-260330-62D6` Find the smallest valuable problem incumbents ignore, nail the UX, then expand outward.
+- `INS-260329-903B` AWS GovCloud and compliance programs let startups inherit compliance certifications instead of building them from scratch, opening regulated markets like government and healthcare.
+- `INS-260403-024E` Cutting back-half GTM hiring makes current efficiency metrics look great while silently guaranteeing a growth collapse the following year due to sales rep ramp times.
+- `INS-260329-C6BB` Start premium to fund the infrastructure needed for eventual mass-market scale.
+- `INS-260323-4DD9` Having a great product is necessary but nowhere near sufficient — you also need visibility, authority, credibility, marketing strategy, and customer experience to survive.
 - `INS-260330-6611` Build a product that sells itself, then hire salespeople anyway — they serve different functions.
 - `INS-260330-760D` Build products that sell themselves through user adoption, then add sales to help enterprises navigate deployment and competitive decisions.
 - `INS-260330-56B2` PolyAI's CEO built the entire sales engine from scratch because even seasoned sales leaders couldn't sell novel voice AI technology they didn't deeply understand.
 - `INS-260404-7B37` Aligning MVP features tightly with ICP needs creates a repeatable sales process that non-founders can execute.
 - `INS-260327-538E` Gatekeepers buy to do the same thing cheaper, business users buy to deliver more for the business, enablers buy to help others be productive, leaders buy for growth — each archetype dictates a completely different sales approach.
 - `INS-260330-EEA9` Let the product drive user adoption, but deploy consultative salespeople to help customers navigate deployment and competition.
-- `INS-260329-903B` AWS GovCloud and compliance programs let startups inherit compliance certifications instead of building them from scratch, opening regulated markets like government and healthcare.
-- `INS-260403-024E` Cutting back-half GTM hiring makes current efficiency metrics look great while silently guaranteeing a growth collapse the following year due to sales rep ramp times.
-- `INS-260329-C6BB` Start premium to fund the infrastructure needed for eventual mass-market scale.
-- `INS-260323-4DD9` Having a great product is necessary but nowhere near sufficient — you also need visibility, authority, credibility, marketing strategy, and customer experience to survive.

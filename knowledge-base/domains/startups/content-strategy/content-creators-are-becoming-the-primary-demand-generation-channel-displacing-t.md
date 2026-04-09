@@ -53,5 +53,6 @@ related:
   - INS-260403-4D04
   - INS-260327-E75F
   - INS-260403-8C7E
+  - INS-260409-241B
 ---
 With consumer consumption still exceeding 60% of global GDP but traditional media at its lowest value ever, Chamath argues that content creators have become the new tastemakers of opinions, ideas, and products. This represents a seismic shift in demand generation for trillions of dollars of goods and services. The key insight is that this isn't just about influencer marketing — it's about the entire demand-generation infrastructure of the economy being rebuilt around individual creators rather than institutional media. Most businesses and investors still poorly understand this shift, which is precisely where the opportunity lies. For founders, this means distribution strategy increasingly means creator partnership strategy, and the companies that master creator-driven demand generation will have outsized advantages in customer acquisition costs and brand building.

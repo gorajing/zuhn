@@ -1,14 +1,15 @@
 # Tag: systems-thinking
 
 - `INS-260330-EE25` Context window size, not model capability, is the binding constraint on transformer coherence in long interactions.
-- `INS-260330-BC56` Photons from solar fusion excite electrons in chlorophyll, which through an elaborate transport chain produce ATP and NADPH, which build glucose, which animals then reverse-engineer back into ATP — making all aerobic life indirectly fusion-powered.
-- `INS-260403-726B` Oxygen — the molecule all animal life requires — is a waste product of photosynthesis, not its purpose.
-- `INS-260330-8538` Each level of biological organization (atom → cell → tissue → organ → system → organism) produces emergent capabilities invisible at lower levels.
-- `INS-260330-2EAB` In biology, what something looks like tells you what it does — heart valves prevent backflow because of their shape, bones protect because they're hard.
-- `INS-260330-E3C0` Tattoo removal requires both laser fragmentation and immune-mediated clearance working in sequence — the laser breaks particles below the phagocytic threshold, then macrophages transport fragments to the liver.
 - `INS-260329-425B` Dynamic arrays double in size when full, making each individual resize expensive but amortizing the cost across all appends to achieve constant time on average.
 - `INS-260329-BD83` File access modes (read, write, append) teach the universal principle that every system boundary needs explicit access control.
 - `INS-260329-A67B` When variables are linked by constraint equations, the chain rule reveals how change propagates through the system at rates that defy naive intuition.
+- `INS-260330-BC56` Photons from solar fusion excite electrons in chlorophyll, which through an elaborate transport chain produce ATP and NADPH, which build glucose, which animals then reverse-engineer back into ATP — making all aerobic life indirectly fusion-powered.
+- `INS-260403-726B` Oxygen — the molecule all animal life requires — is a waste product of photosynthesis, not its purpose.
+- `INS-260330-8538` Each level of biological organization (atom → cell → tissue → organ → system → organism) produces emergent capabilities invisible at lower levels.
+- `INS-260409-3117` Because hair loss is a multi-factor cascade, any protocol that fixes only one layer (DHT, circulation, mitochondria, scar tissue, or metabolic) will plateau at partial results.
+- `INS-260330-2EAB` In biology, what something looks like tells you what it does — heart valves prevent backflow because of their shape, bones protect because they're hard.
+- `INS-260330-E3C0` Tattoo removal requires both laser fragmentation and immune-mediated clearance working in sequence — the laser breaks particles below the phagocytic threshold, then macrophages transport fragments to the liver.
 - `INS-260330-D6EF` Proof of work replaces trust by making fraud more expensive than honest participation.
 - `INS-260330-293E` When behavior is blocked by active inhibitors (stress, fear, friction), removing those brakes produces bigger results than pushing harder on motivation.
 - `INS-260330-D582` Reversing just one variable in bicycle steering — handlebars to wheel direction — made riding impossible for everyone who tried, despite 99% of the physical system remaining identical.
@@ -25,20 +26,20 @@
 - `INS-260330-2B29` Revolutions result from accumulated small decisions, not single dramatic moments.
 - `INS-260403-2DC4` Plants rationally invest in workaround enzymes for RuBisCo's failures rather than replacing the enzyme itself.
 - `INS-260404-6C8F` A 4%+ fatal error rate makes philosophical arguments for or against the death penalty moot — the implementation failure dominates.
+- `INS-260330-FE49` Reversing just one variable in bicycle steering (handlebar direction) made the entire riding algorithm — balance, pedaling, leaning, steering — completely non-functional for everyone who tried.
 - `INS-260404-DBA8` Both leftists and rightists got the multipolar world they wanted but not the version they expected.
 - `INS-260404-DA41` Confirmation bias across multiple actors in the justice system compounds into a reliable wrongful conviction pipeline.
 - `INS-260330-247C` Most government policies are iatrogenic — they create more harm than good — and their true cost is hidden by currency expansion rather than transparent taxation.
 - `INS-260403-FAC6` Just as capitalism incentivizes addictive products that exploit gaps between consumer desire and consumer welfare, democracy incentivizes destructive proposals that exploit gaps between voter perception and actual policy impact.
 - `INS-260405-02EE` Plants evolved RuBisCo in a low-oxygen world, then their own photosynthesis filled the atmosphere with O2 — the enzyme they were locked into now malfunctions half the time because of the environment they created.
-- `INS-260330-FE49` Reversing just one variable in bicycle steering (handlebar direction) made the entire riding algorithm — balance, pedaling, leaning, steering — completely non-functional for everyone who tried.
+- `INS-260329-196E` Implicit differentiation computes rates of change directly from the relationship between variables, without requiring one variable to be isolated as a function of the other.
+- `INS-260330-4329` Linearity means you can analyze complex signals by analyzing their components separately — the results simply add up.
 - `INS-260330-74A0` Proof of work exploits the asymmetry between creation difficulty and verification ease to scale trust across unlimited participants.
 - `INS-260330-1298` Cells cannot use glucose energy directly — it must first be converted to ATP, a universal intermediary, just as economies need standardized currency to function.
 - `INS-260330-E8BD` Mastering complex systems requires identifying the few repeated patterns rather than memorizing individual components.
 - `INS-260330-70A8` David Marr's three levels — computational theory (what/why), algorithm (how), and hardware (implementation) — remain essential for understanding any complex system, from brains to software.
 - `INS-260329-8D19` OOP's core discipline — decomposing complexity into objects with defined interfaces — transfers to organizational design, product architecture, and any domain requiring structured abstraction.
 - `INS-260403-2DC0` Photosynthesis looks simple (sunlight + water + CO2 → glucose + O2) but requires four protein complexes, multiple electron carriers, and a regeneration cycle—complexity hidden by clean I/O descriptions.
-- `INS-260329-196E` Implicit differentiation computes rates of change directly from the relationship between variables, without requiring one variable to be isolated as a function of the other.
-- `INS-260330-4329` Linearity means you can analyze complex signals by analyzing their components separately — the results simply add up.
 - `INS-260330-1C84` Every exponential process in nature eventually saturates, making the logistic S-curve a more accurate mental model than pure exponential growth.
 - `INS-260330-5670` ATP functions as a universal energy currency — the body cannot use glucose directly, just as a store cannot accept foreign currency without exchange.
 - `INS-260405-5670` Moon's 2.3-second round-trip latency allows synchronous coordination with Earth; Mars's 10-30 minute latency forces asynchronous civilization — and asynchronous civilizations can declare independence.

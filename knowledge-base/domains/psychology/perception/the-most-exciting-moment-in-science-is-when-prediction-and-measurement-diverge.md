@@ -46,8 +46,8 @@ related:
   - PRI-260323-CE34
   - PRI-260323-2FEE
   - INS-260330-E282
+  - INS-260409-E0D5
   - PRI-260323-A33E
-  - INS-260323-DA1E
 stance: >-
   SLAC researchers get most excited when simulated electron behavior diverges
   from experimental measurements — the gap is where new physics lives.

@@ -53,6 +53,7 @@ related:
   - INS-260329-B28C
   - INS-260405-EE74
   - INS-260403-917B
+  - INS-260409-D195
 ---
 Hormozi argues that 'latency beats magnitude 7 days a week and twice on Sunday.' Wealthy customers won't be motivated by saving money but will pay dramatically more for speed: priority response, first access to new offerings, pulling someone off another job to serve them immediately.
 

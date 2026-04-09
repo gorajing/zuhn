@@ -1,6 +1,7 @@
 # Tag: us-china
 
 - `INS-260327-4E8E` If AI models in datacenters are like a 'country of geniuses,' the natural question is what their intent is — and this existential risk of autonomous AI action is the one area where limited US-China cooperation might be possible.
+- `INS-260409-BBBA` 10 years ago China published 50% of US research papers; last year it published 50% more. The inversion extends beyond AI into biotech, materials, and life sciences — with China becoming a scientific leader, not just a copycat.
 - `INS-260327-10C9` Dario argues export controls on advanced chips are the most important national security policy in all fields because AI dominance translates directly to military and economic dominance, and the US has a ~4-year hardware lead that creates a critical 10-year window.
 - `INS-260405-8FCF` A hegemon loses its ability to set global rules unilaterally when rivals reach parity, even if the hegemon itself never declines in absolute terms.
 - `INS-260323-9FCA` Musk warns that China's economy will be 2-3x the US economy, creating the same Athens-vs-Sparta dynamic that led to the Peloponnesian War — a war both sides saw coming and couldn't prevent.

@@ -46,9 +46,9 @@ stance: >-
 related:
   - INS-260330-ED37
   - INS-260404-6C8F
+  - INS-260409-3064
   - INS-260330-0E49
   - INS-260330-14CA
-  - INS-260330-3570
 evidence:
   - id: INS-260330-0E49
     type: SUPPORTS

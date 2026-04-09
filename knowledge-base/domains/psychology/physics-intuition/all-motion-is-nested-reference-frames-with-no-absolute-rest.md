@@ -50,11 +50,11 @@ stance: >-
   frame, and the choice of frame determines what appears to be moving and what
   appears to be still.
 related:
+  - INS-260409-9464
   - INS-260330-601A
   - INS-260405-D3B5
   - INS-260330-5265
   - INS-260330-FEDD
-  - INS-260330-03F7
 evidence:
   - id: INS-260325-7973
     type: TRANSFERS_TO

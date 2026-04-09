@@ -49,11 +49,11 @@ stance: >-
   acquisition than years of paid marketing spend
 related:
   - INS-260329-5427
+  - INS-260409-B9F6
   - INS-260329-31A2
   - INS-260329-9A42
   - INS-260329-69F0
   - INS-260405-77C9
-  - INS-260403-45DB
 evidence:
   - id: INS-260329-5427
     type: SUPPORTS

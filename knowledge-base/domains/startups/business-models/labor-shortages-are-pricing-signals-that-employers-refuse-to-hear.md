@@ -48,10 +48,10 @@ stance: >-
   'nobody wants to work for what you are offering.'
 related:
   - INS-260329-7B15
+  - INS-260409-175D
   - INS-260402-EC9F
   - INS-260327-325B
   - INS-260329-ACFF
-  - INS-260405-9E25
 evidence:
   - id: INS-260329-7B15
     type: CHALLENGES

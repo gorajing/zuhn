@@ -3,8 +3,8 @@
 - `INS-260323-197A` The winning AI skill isn't prompting — it's architectural thinking: define the outcome, get AI to interview you about constraints, then have AI write its own implementation plan.
 - `INS-260320-B99F` Build careers where AI is a tailwind — semiconductors, human-centered professions, anything mixing physical world with analytical skills.
 - `INS-260320-901C` Six strategies combined took production systems from $300+/month to ~$10/month while processing 10x more data.
-- `INS-260323-365A` Meta open-sources AI models like LLaMA because ecosystem innovation makes their own infrastructure more efficient while attracting top researchers.
 - `INS-260405-4803` Agentic AI is moving from an engineering concern to a board-level strategic imperative.
+- `INS-260323-365A` Meta open-sources AI models like LLaMA because ecosystem innovation makes their own infrastructure more efficient while attracting top researchers.
 - `INS-260325-5455` In AI, being first to market makes you the first target rather than the winner — moats (data flywheels, workflow integration, trust/governance) must be engineered from day one.
 - `INS-260402-9E2D` Think freely, speak carefully, and cultivate a small circle of friends who can handle heretical ideas.
 - `INS-260330-B559` Germany and Japan chose land conquest over trade to solve food insecurity, and both were destroyed — trade integration consistently outperforms autarky.
@@ -38,18 +38,12 @@
 - `INS-260403-599B` When new technology arrives, ventures creating previously-impossible value win; those preserving old revenue models lose.
 - `INS-260329-6E0F` Competitors who copy you are looking at you instead of their customers — their distraction is your advantage.
 - `INS-260405-AEA0` Most competitor moves are about their opportunity, not your company — applying Graham's 'see randomness' heuristic prevents strategic paralysis.
+- `INS-260409-2578` Pivots at scale rarely work — only pivot when you have literally no other choice.
 - `INS-260403-75CE` Tactics from successful companies fail when transplanted without the underlying conditions that made them effective.
 - `INS-260404-F48F` Improve team performance by working up the stack: first nail execution clarity, then strategic coherence, then vision alignment.
 - `INS-260329-3E28` Year 4 of your current business will almost always outperform year 1 of a new one — switching vehicles resets your compounding.
 - `INS-260323-71B3` GSP teaches that when a takedown meets resistance, you don't force it — you 'turn the corner' and attack from the other side, using the opponent's defensive commitment against them.
 - `INS-260323-B849` In normal-distribution games (coin flips for $1), optimize for the average; in power-law games (startups, content, earthquakes), the average is meaningless — optimize for maximum exposure to extreme outcomes.
-- `INS-260323-2E49` Branding is not surface decoration but a worldview methodology — the process of connecting a specific concept to a name, implanting community memories, and building brand strength that converts to shareholder value through consumer benefit.
-- `INS-260329-776B` Brand growth requires accepting that every new pairing loses some existing audience — the discipline is ensuring net positive gains.
-- `INS-260403-130D` Industry-centric strategy tools like Porter's 5 Forces break down when companies like Apple span multiple industries simultaneously.
-- `INS-260405-A596` Find the one variable that governs your market and organize everything—strategy, pitch, and milestones—around it.
-- `INS-260402-C2BA` F&F capital works when tied to a specific unlockable milestone like an MVP or pilot launch, not when used to buy time while figuring things out.
-- `INS-260405-2A34` Filtering for fund size and vintage before outreach converts fundraising from a numbers game into a precision exercise.
-- `INS-260405-36E6` Raising exactly one round gives founders external capital to de-risk early stages while avoiding the compounding dilution and return-driven pressure of traditional multi-round VC paths.
 - `INS-260329-F4CD` Find the single domino that, when toppled, makes every other optimization unnecessary.
 - `INS-260404-F708` Great founders are like running backs — determined to reach the end zone but willing to go sideways or backwards to get there.
 - `INS-260329-58E7` Ramsey's breakthrough from tactical hustle to $300M came when MBAs taught him strategic thinking in exchange for him teaching them execution.
@@ -57,9 +51,17 @@
 - `INS-260329-727B` The fastest way to $1M/year isn't the fastest way to $10M, and the fastest way to $10M isn't the fastest way to $100M.
 - `INS-260322-B3D0` Pre-PMF advice (just ship, talk to users, no strategy) becomes actively harmful post-PMF — you need strategic bets like Facebook opening beyond .edu or DoorDash expanding beyond food.
 - `INS-260327-8760` Altman rejects backward-from-vision planning, saying he's never seen people with elaborate backward-chain strategies massively succeed.
+- `INS-260323-2E49` Branding is not surface decoration but a worldview methodology — the process of connecting a specific concept to a name, implanting community memories, and building brand strength that converts to shareholder value through consumer benefit.
+- `INS-260329-776B` Brand growth requires accepting that every new pairing loses some existing audience — the discipline is ensuring net positive gains.
+- `INS-260403-130D` Industry-centric strategy tools like Porter's 5 Forces break down when companies like Apple span multiple industries simultaneously.
+- `INS-260409-AB58` If biology, language, and morphology all show saltative branching — long stability then rapid reorganization at branch points — technology and market evolution likely follow the same dynamic, which reframes strategy around transition timing rather than steady progress.
+- `INS-260405-A596` Find the one variable that governs your market and organize everything—strategy, pitch, and milestones—around it.
+- `INS-260402-C2BA` F&F capital works when tied to a specific unlockable milestone like an MVP or pilot launch, not when used to buy time while figuring things out.
+- `INS-260405-2A34` Filtering for fund size and vintage before outreach converts fundraising from a numbers game into a precision exercise.
+- `INS-260405-36E6` Raising exactly one round gives founders external capital to de-risk early stages while avoiding the compounding dilution and return-driven pressure of traditional multi-round VC paths.
+- `INS-260323-28FB` People endure incredible hardship today if the future portends what they want — so start negotiations by finding a shared future state and work backward.
 - `INS-260403-4610` Creandum went Stockholm → San Francisco → Germany → London, using US credibility to unlock European markets.
 - `INS-260330-7EDF` Asking 'what could go right?' instead of 'what went wrong?' shifts strategic focus from diagnosis of failure to identification of actionable opportunities.
-- `INS-260323-28FB` People endure incredible hardship today if the future portends what they want — so start negotiations by finding a shared future state and work backward.
 - `INS-260404-F962` PMs should nail execution first because strategic opportunities emerge from the context built through delivery.
 - `INS-260405-8B89` RuBisCo is slow, makes errors half the time in modern atmospheres, and produces toxic waste—yet plants compensate by making it the single most abundant protein on Earth (estimated 40 billion tons), making it the dominant carbon-fixing mechanism on the planet by sheer volume.
 - `INS-260405-0010` PMF is a dynamic equilibrium that degrades without continuous customer feedback loops.
@@ -101,6 +103,7 @@
 - `INS-260403-F4C9` In periods of radical technological uncertainty, optimize for strategies that work across all scenarios rather than betting on a specific prediction.
 - `INS-260403-7BA1` The industries accidentally created by cost collapses — modern finance from sail, consumer credit from automobiles, global manufacturing from containers — always exceed the value of the original technology.
 - `INS-260330-B5DF` The set of outcomes reachable by a startup is determined by the span of its independent capabilities, not by total resource count.
+- `INS-260409-229B` The story of the company IS the strategy — there is no separate secret strategy document.
 - `INS-260403-462F` Scoring business models across 9 defined mechanics reveals weaknesses that intuitive strategy discussions miss.
 - `INS-260323-224F` The Large Hadron Collider discovered the Higgs boson (confirming a 50-year-old prediction) but failed to find supersymmetry, becoming a cautionary tale about building a machine optimized for the expected rather than the unknown.
 - `INS-260323-BD20` 80% of TwoSpace's 10,000 members already had offices — they were paying for community access and environmental variety, not affordable workspace.

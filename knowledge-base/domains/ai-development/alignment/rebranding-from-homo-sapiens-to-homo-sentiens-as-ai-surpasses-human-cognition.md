@@ -51,6 +51,7 @@ related:
   - INS-260323-EECF
   - INS-260330-3B05
   - INS-260403-B280
+  - INS-260409-4719
 stance: >-
   When AI exceeds human intelligence, our species' value shifts from information
   processing to subjective experience and consciousness.

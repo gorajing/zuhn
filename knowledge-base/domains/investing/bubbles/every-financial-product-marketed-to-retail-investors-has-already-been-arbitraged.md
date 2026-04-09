@@ -50,7 +50,6 @@ stance: >-
   investors have already captured the easy returns and the remaining upside is
   mostly risk.
 related:
-  - INS-260322-760A
   - INS-260327-415B
   - INS-260327-7018
   - INS-260405-EFC1

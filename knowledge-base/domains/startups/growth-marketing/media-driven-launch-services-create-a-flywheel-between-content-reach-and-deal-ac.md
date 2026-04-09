@@ -57,6 +57,7 @@ related:
   - PRI-260406-CA09
   - INS-260403-7E27
   - INS-260402-CCF4
+  - INS-260409-FA8F
 ---
 The VC Corner team built two large LinkedIn channels (5M weekly views) and three top Substack newsletters (200k+ subscribers, 2.5M monthly views) before monetizing through startup launch services and angel investing. The flywheel works because: (1) content reach attracts founders seeking distribution, (2) working with funded startups like Perplexity, ElevenLabs, and Vanta generates compelling content and social proof, (3) that social proof attracts more founders and readers, (4) the growing audience makes the launch service more valuable, which (5) earns allocation in competitive rounds.
 

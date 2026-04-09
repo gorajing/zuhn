@@ -48,10 +48,10 @@ stance: >-
   outside traditional tech centers.
 related:
   - INS-260321-E4EB
+  - INS-260409-3FC6
   - INS-260330-F183
   - INS-260325-898A
   - INS-260403-DDFD
-  - INS-260402-4AB4
 evidence:
   - id: INS-260321-E4EB
     type: EXTENDS

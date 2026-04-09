@@ -56,6 +56,7 @@ related:
   - PRI-260406-20FD
   - INS-260403-B4DC
   - INS-260403-29C7
+  - INS-260409-E65B
 stance: >-
   Musk argues Hamas's strategy was explicitly to provoke Israeli overreaction
   that rallies Muslims worldwide

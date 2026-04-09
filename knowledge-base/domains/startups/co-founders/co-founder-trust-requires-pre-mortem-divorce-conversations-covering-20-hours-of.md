@@ -61,7 +61,6 @@ related:
   - INS-260322-5831
   - INS-260329-2BCC
   - PRI-260328-3BEF
-  - INS-260403-88F8
 ---
 Hoffman's co-founder vetting framework mirrors his advice for hiring CEOs: spend 20+ hours in deep conversation exploring every potential difference in opinion, belief, and work style before committing. Crucially, this includes discussing the 'divorce' — under what conditions would either party want to end the partnership? This pre-mortem conversation isn't about creating a contract but establishing conversational precedent. When stress hits (and it will — 'valley of the shadows' moments are inevitable), you've already discussed analogous scenarios, making it natural to raise problems rather than letting resentment build.
 

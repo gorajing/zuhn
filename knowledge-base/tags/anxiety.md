@@ -16,3 +16,4 @@
 - `INS-260329-0B76` Sadness comes from perceived lack of options (solve with knowledge), anxiety from too many options without priorities (solve with a decision).
 - `INS-260323-53FF` People who score high in financial avoidance save less, carry more high-interest debt, and have higher financial stress — saying 'I'm bad with numbers' is ego protection, not truth.
 - `INS-260323-F274` Success podcasts follow a 4-step loop: create/exploit anxiety, promise the solution, deliver partial satisfaction, repeat — a model that requires listeners to stay anxious to keep consuming.
+- `INS-260409-54AA` The people who stay detached from outcomes outperform the people who tie their identity to metrics because the detachment prevents the anxiety that degrades decision quality.

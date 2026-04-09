@@ -49,11 +49,11 @@ stance: >-
   billionaire capital when the candidate's message aligns with demographic and
   affordability anxieties.
 related:
+  - INS-260409-DBAE
   - INS-260405-B126
   - INS-260402-3D61
   - INS-260328-372B
   - INS-260327-714F
-  - INS-260322-0C91
 ---
 Zohran Mamdani won the NYC mayoral race with 50.4% of the vote against former governor Andrew Cuomo (41.6%), despite Cuomo being backed by at least 26 billionaires who spent over $22 million. Mamdani's campaign relied on social-media-first outreach and a low-dollar grassroots donor model.
 

@@ -49,7 +49,6 @@ stance: >-
   differentiation axes rather than trying to be incrementally better on a single
   dimension.
 related:
-  - INS-260327-643C
   - PRI-260406-9866
   - INS-260325-8B36
   - INS-260330-09E3

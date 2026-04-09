@@ -51,7 +51,6 @@ stance: >-
   and brand differentiation
 related:
   - INS-260324-157A
-  - INS-260327-B034
   - INS-260327-7EFD
   - INS-260327-7BE4
   - INS-260327-45BD
@@ -60,6 +59,7 @@ related:
   - INS-260403-323A
   - INS-260403-524B
   - INS-260404-8D5F
+  - INS-260404-8B1C
 evidence:
   - id: INS-260403-06E2
     type: CONTRADICTS

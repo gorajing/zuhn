@@ -47,7 +47,6 @@ stance: >-
   Breaking an apparently impossible task into single-rep increments makes the
   impossible achievable by bypassing the brain's all-or-nothing quit response.
 related:
-  - INS-260329-CABE
   - PRI-260405-E628
   - PRI-260407-86E6
   - PRI-260323-57AC

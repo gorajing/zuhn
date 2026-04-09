@@ -6,5 +6,5 @@
 - `INS-260330-DA4A` Mesopotamia invented writing and territorial kingdoms because it lacked basic resources and had to trade for metal, stone, and wood.
 - `INS-260403-2FB2` Research on the First China Shock shows that import competition simultaneously hurt profits and workers while increasing innovation, R&D, and productivity — accounting for ~15% of European technology upgrading from 2000-2007.
 - `INS-260330-D711` The Mongol Empire's most lasting contributions — revived Silk Road trade, the yam communication system, cross-cultural exchange — were infrastructure plays, not military victories.
-- `INS-260328-6A8C` Selling something that produces no benefit for the buyer isn't trade — it's something else entirely.
 - `INS-260330-F229` The Mongols' Silk Road revival enabled unprecedented cultural and economic exchange but also spread the Black Death across Eurasia.
+- `INS-260328-6A8C` Selling something that produces no benefit for the buyer isn't trade — it's something else entirely.

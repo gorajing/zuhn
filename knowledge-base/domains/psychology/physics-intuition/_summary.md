@@ -1,6 +1,6 @@
 # Topic: physics-intuition
 
-> 72 insights
+> 85 insights
 
 - `INS-260330-CDF8` [high] Light's regularity means its full 3D state is determined by its values on any 2D boundary surface.
 - `INS-260330-12F9` [high] Firing one bullet underwater produces three visually distinct phenomena (Bernoulli cavitation, gas trail, shock vapor) that are invisible at normal speed but separable at 27,450 fps.
@@ -12,6 +12,8 @@
 - `INS-260330-6A9E` [high] Shadows and geometric intersection points can exceed light speed because they transfer no information — only physical causation is speed-limited.
 - `INS-260330-E59F` [high] Water in front of the bullet inside the barrel vaporizes because high flow velocity drops local pressure below the boiling point, even at 4°C.
 - `INS-260323-C9B1` [high] Upgrading from Newton's to Einstein's model of gravity was not just philosophical — it enabled GPS, accurate satellites, and Uber; better frameworks for understanding reality directly produce better tools.
+- `INS-260409-5C28` [high] Binary exists because noisy electricity cannot reliably represent ten distinct voltage levels — it is a noise-tolerance hack, not a mathematical preference.
+- `INS-260409-0250` [high] A galaxy hosting a rapidly accreting black hole can look identical in brightness to a galaxy with 10x more stars, because friction-heated infalling gas radiates light that is indistinguishable from starlight at JWST resolution from billions of light years away.
 - `INS-260330-966E` [high] When underwater cavitation bubbles collapse, the compression can generate temperatures hot enough to produce light (sonoluminescence), showing how mundane initial conditions can concentrate energy to extreme densities.
 - `INS-260330-9BB5` [high] Underwater gas bubbles oscillate through multiple collapse-rebound cycles because fluid momentum carries the bubble past equilibrium in both directions.
 - `INS-260323-5BEF` [high] Objects appear to follow single trajectories not because they do, but because the crazy paths cancel each other out — only paths near the least-action path constructively interfere and survive.
@@ -24,12 +26,15 @@
 - `INS-260330-A149` [high] Because we move almost exclusively through time rather than space relative to Earth, gravity's pull is mostly the curvature of time, not space.
 - `INS-260330-51D6` [high] Earth's uneven mass distribution, rotation, and external gravitational influences make 'down' a messy, ever-changing vector rather than a simple line to the center.
 - `INS-260330-E89A` [high] Gravity yielded the Industrial Revolution, electromagnetism produced the Electric Age, and nuclear forces created the Atomic Age — each fundamental force discovery reliably cascades into civilization-scale transformation.
+- `INS-260409-4EA5` [high] From the lunar surface Earth hangs in one spot forever; rising and setting only happens because the spacecraft is moving.
+- `INS-260409-CE1D` [high] From Artemis's long-exposure Earth shot the atmosphere is a thread — you cannot separate 'clouds' from 'breathable layer' because both are tiny against the planet's radius.
 - `INS-260330-AE9C` [high] Abstract proofs and concrete examples serve complementary roles: proofs guarantee generality, examples build understanding.
 - `INS-260330-30F0` [high] Drag scales with velocity squared, so eliminating resistance produces exponentially larger gains at higher speeds — true in physics and in execution.
 - `INS-260330-5D8A` [high] Supercritical fluids bypass the destructive surface tension of evaporation by eliminating the liquid-gas boundary altogether.
 - `INS-260330-D0F8` [high] Exit velocity depends on the speed differential and coupling efficiency between bat and ball, not just bat speed.
 - `INS-260330-CA62` [high] Entropy measures how spread out energy is, not how 'messy' a system looks.
 - `INS-260325-D037` [high] Einstein's equations predicted things Einstein himself did not expect — formal systems consistently outrun their creators' intentions.
+- `INS-260409-40AF` [high] A theory validated in one regime cannot be assumed to hold in a new one — each new regime demands fresh measurement.
 - `INS-260330-CA43` [high] A mechanical engineer discovered he didn't truly understand an everyday device until he built a transparent version and watched it in slow motion.
 - `INS-260330-FF94` [high] Accurate scale models require identifying the dominant physical ratio, not matching every parameter.
 - `INS-260323-849E` [high] Einstein showed that gravity is not a force at all — objects follow curved paths through spacetime warped by mass, and what we feel as gravity is just the ground stopping our natural path.
@@ -42,14 +47,18 @@
 - `INS-260330-B6DE` [high] When pores are smaller than air's mean free path, gas molecules can't diffuse heat normally, making a 99.8% air material a better insulator than air itself.
 - `INS-260330-DFA4` [high] Tyson's experiment at Princeton showed astrophysical publications double every 15-18 years, meaning every generation on the exponential curve genuinely feels like they're living in special times.
 - `INS-260330-E70C` [high] A mere 2 PSI applied over 600 square inches generates 1200 pounds of lifting force while the surface remains completely soft.
+- `INS-260409-7055` [high] Real low-rate signals emerge as slow accumulations over weeks, not as a-ha moments — learn to distinguish both from noise.
 - `INS-260330-7EFD` [high] Extending Schwarzschild's coordinates to their mathematical limits revealed white holes, parallel universes, and wormholes - none of which were anticipated.
 - `INS-260330-09F8` [high] Photons from the sun's fusion reactions excite electrons in chlorophyll, and the entire electron transport chain exists to convert that fusion energy into ATP and NADPH.
+- `INS-260409-7FC5` [high] You can't 'just drop' an antiproton to test gravity because electric forces dwarf gravity — neutral antiatoms are required, and those in turn are harder to contain.
 - `INS-260330-300D` [high] Holograms work because they record phase via interference with a reference beam, while photographs only capture amplitude.
 - `INS-260325-A72C` [high] Physics succeeds by stripping everything to ideal cases (spherical cows) then adding complexity back — a strategy that works for physics but fails for psychology or biology.
 - `INS-260323-3E21` [high] Physics forces you beyond the limitation of human senses to develop intuitions that apply at different distances, scales, and ways of thinking — a meta-skill transferable to any complex domain.
 - `INS-260330-85AE` [high] The Basel Problem sum equals π²/6 because the number line is the limit of ever-growing circles, embedding circular geometry into a seemingly linear problem.
+- `INS-260409-E0D5` [high] Where quantum stops and classical starts is an unknown that experimentalists push outward by engineering, not by theorizing.
 - `INS-260330-51AE` [high] Aerogel's nanoscale silica structures scatter blue light via 1/λ⁴ Rayleigh scattering, making it look blue on dark backgrounds and yellow/orange against a blue sky — a handheld sunset.
 - `INS-260330-4E9B` [high] A structure tall enough to reach geostationary orbit would be stabilized by centrifugal force rather than crushed by gravity, flipping compression into tension.
+- `INS-260409-005E` [high] Predictive competence and interpretive understanding are separable capabilities — prediction can run far ahead of intuition.
 - `INS-260330-6EE2` [high] Length contraction in special relativity means a sufficiently fast-moving observer would measure Earth as physically flat — shape depends on reference frame.
 - `INS-260330-86A7` [high] Two objects moving in perfectly straight lines on a curved surface will converge — mimicking gravitational attraction without any force acting between them.
 - `INS-260330-AFE0` [high] The speed limit of the universe applies to information transfer, not to geometric abstractions like shadows or intersection points.
@@ -61,14 +70,18 @@
 - `INS-260330-07B1` [high] Earth radiates back the same energy it receives from the sun; what we actually use is the low entropy — concentrated energy in fewer, higher-energy photons.
 - `INS-260330-97A0` [high] Simulating how gravity would work on a flat disc Earth reveals that our intuitions about 'normal' physics contain hidden assumptions about geometry we never examine.
 - `INS-260330-2DF9` [high] Jupiter's gravitational flexing of Europa generates enough internal heat to maintain a subsurface liquid ocean, proving life doesn't require proximity to a star.
+- `INS-260409-B367` [high] The 20-year apparatus build, not the moment of measurement, is the real cost of a frontier physics result.
 - `INS-260405-D3B5` [high] The Magnus effect is negligible at low speeds but at 126m of freefall it curves a basketball dozens of meters sideways — the same physics, radically different outcomes.
 - `INS-260330-03F7` [medium] Earth's gravity is just low enough for chemical rockets, it has fossil fuels for industrialization, a reachable Moon for early space programs, and plate tectonics from a giant impact — each condition narrowly enabling the next.
 - `INS-260323-089E` [medium] The popular narrative that Einstein couldn't keep up with quantum mechanics is 'almost 180 degrees wrong' — his philosophical objections were correct and led to understanding quantum entanglement.
+- `INS-260409-BE6D` [medium] Mass-bearing entangled particles are the unique experimental handle that could let physics test gravity and quantum mechanics in the same measurement.
 - `INS-260330-FFAB` [medium] Technological civilizations may last only thousands of years against billions of cosmic years, making simultaneous existence vanishingly rare.
 - `INS-260330-F9FB` [medium] The tallest human structures shifted from pushing against gravity (compression) to hanging from anchor points (tension), revealing how reframing constraints unlocks new solution spaces.
+- `INS-260409-0326` [medium] We are too big to hold an atom and too small to hug a star, and our intuition breaks at both ends.
 - `INS-260330-833E` [medium] Jeremy England proposes that life emerges because self-replicating structures are better at dissipating energy gradients than inert matter.
 - `INS-260323-5199` [medium] The arrow of time may not emerge from thermodynamics but is baked into reality through quantum decoherence — the truly irreversible process of quantum systems becoming entangled with their environment.
 - `INS-260330-C71A` [medium] The ball doesn't 'know' it's moving — from its perspective, the glove is approaching at supersonic speed, which immediately explains why leather strips leather on impact.
+- `INS-260409-34EA` [medium] Going the opposite direction from the dominant frontier — cold instead of hot, slow instead of fast — exposes different physics than the popular path.
 - `INS-260330-AC34` [medium] The 'river model' of spacetime - where space flows inward like a waterfall - instantly resolves the paradox of how things cross the event horizon while appearing frozen from outside.
 - `INS-260322-2E1C` [medium] Our experience of a stable, solid world exists not because reality is stable, but because we are trapped too deeply in a narrow slice to notice its freedom.
 - `INS-260330-6E61` [medium] String theory proposes that all subatomic particles — quarks, neutrinos, electrons — are simply different vibrational modes of tiny strings, replacing thousands of seemingly unrelated particles with one elegant mechanism.

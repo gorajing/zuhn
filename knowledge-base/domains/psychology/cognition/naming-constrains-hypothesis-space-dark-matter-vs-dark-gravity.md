@@ -51,7 +51,9 @@ related:
   - INS-260330-1801
   - INS-260330-8429
   - PRI-260406-7EFF
-  - INS-260330-97A0
+  - INS-260409-B8C1
+  - INS-260409-D8E4
+  - INS-260409-7FC5
 ---
 Tyson argues that naming the unexplained 85% of gravitational force 'dark matter' smuggles in an assumption — that it IS matter — which then forces every counter-theory to argue against that assumption rather than exploring the actual observable (gravity with no known source). He suggests calling it 'dark gravity' or even a neutral name like 'Fred' to avoid anchoring.
 

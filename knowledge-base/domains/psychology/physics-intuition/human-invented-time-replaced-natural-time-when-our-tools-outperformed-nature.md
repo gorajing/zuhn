@@ -50,14 +50,13 @@ stance: >-
   irregularity of natural phenomena, establishing a pattern that repeats across
   all measurement domains.
 related:
-  - INS-260325-8E0D
   - INS-260330-91EA
   - INS-260330-BC8E
   - INS-260327-6F94
   - INS-260325-2B76
-  - INS-260323-3F56
+  - INS-260325-8E0D
+  - INS-260409-E366
   - INS-260330-9A34
-  - INS-260403-368A
   - INS-260404-C497
   - INS-260405-75AC
 evidence:

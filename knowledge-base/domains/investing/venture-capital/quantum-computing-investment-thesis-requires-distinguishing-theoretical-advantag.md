@@ -59,6 +59,7 @@ related:
   - INS-260330-38C9
   - INS-260404-CC8B
   - INS-260403-976C
+  - INS-260409-CBC7
   - INS-260325-0F4F
 ---
 Quantum computing faces multiple simultaneous scaling constraints: hardware is expensive and fragile, only a small set of algorithms show advantages over classical approaches, and qubits remain highly error-prone. Cryptographically relevant attacks alone require thousands to tens of thousands of logical qubits with very low error rates — no existing system is close.

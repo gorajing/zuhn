@@ -49,10 +49,11 @@ stance: >-
   outnumber habitable exoplanets, potentially multiplying the Drake equation's
   habitable worlds parameter by 2-10x.
 related:
-  - INS-260323-1F27
   - INS-260325-23E0
   - INS-260325-E5EB
   - INS-260330-716C
+  - INS-260409-0250
+  - INS-260323-1F27
   - INS-260330-FC6E
 evidence:
   - id: INS-260323-1F27

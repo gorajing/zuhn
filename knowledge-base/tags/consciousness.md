@@ -13,6 +13,7 @@
 - `INS-260403-AB55` The philosophical framework of evaluating AI behavior by external causes and effects rather than internal experience dissolves the reality/roleplay debate into something empirically testable.
 - `INS-260321-1F9F` Scary stories about LLMs trying to deceive or resist shutdown are reflections of training data patterns, not emergent architectural properties — the objective function is purely next-token prediction.
 - `INS-260330-3C2F` Direct observation reveals that thinking is punctuated by gaps of pure awareness, challenging the assumption that cognition is a continuous stream.
+- `INS-260409-2093` Hassabis worries most about post-AGI philosophy — meaning, purpose, consciousness, what it is to be human — and says we lack modern philosophers equipped for it.
 - `INS-260405-2021` Musk's 'Hitchhiker's Guide' framing — the answer is 42, but we don't know the question — reframes progress as a problem of question quality, not answer capacity.
 - `INS-260330-2988` While thoughts, emotions, and sensations constantly change, the awareness that notices them remains structurally identical across all experiences.
 - `INS-260330-2E54` Hoffman inverts the hard problem of consciousness: instead of explaining how matter creates experience, he asks how conscious agents create the data structure we call spacetime.
@@ -22,8 +23,10 @@
 - `INS-260325-916B` Panpsychism proposes consciousness is a fundamental feature of nature, more like gravity than like computation.
 - `INS-260325-6BDE` Felt experience (seeing green, feeling warmth) can exist without complex thought, and treating them as the same thing confuses the study of both.
 - `INS-260323-CA1F` In deep sleep, experience ceases — no space, no time, no self — yet something knows that nothing happened, suggesting awareness persists even at the lowest layer.
+- `INS-260409-2CE9` The DMN is treatable as an observable engine of self-model construction; its age-related stiffening and psychedelic-induced disruption are both falsifiable claims, not metaphors.
 - `INS-260405-B8BE` Sounds, sensations, and thoughts arise in consciousness automatically — only the act of selecting and holding an object of attention requires cognitive effort.
 - `INS-260327-D212` Once you genuinely question whether the self is real, whether time is linear, or whether consciousness is what it seems, you cannot fully return to your previous way of seeing.
+- `INS-260409-6349` Ego-dissolution reports tell you something about how the brain constructs the self, not that the dissolution reveals a deeper metaphysical truth.
 - `INS-260330-F37B` True freedom means freedom from the mind's patterns, not from material or physical constraints.
 - `INS-260323-7DBC` At the self-authoring stage of development, you realize your values and identity are not terminal but instrumental — and gaining agency over your identity costume is what constitutes wisdom.
 - `INS-260408-59B3` Hassabis: most neuroscientists think the brain is an approximate Turing machine; no quantum effects found yet, so AI's ceiling is empirically open.

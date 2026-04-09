@@ -1,5 +1,6 @@
 # Tag: russia
 
+- `INS-260409-F485` Napier's emerging-market heuristic: avoid countries where trading rights are not guaranteed, constitutions are weak, or exchange rates are overvalued — operationalized as 'don't invest where you wouldn't live after retirement.'
 - `INS-260330-A3D9` Russia subsidizes 300+ economically dead monotowns because their real output is political compliance, not goods.
 - `INS-260325-5096` Napoleon's Russian disaster proves that logistics cannot scale linearly with army size — supply chains have a hard distance ceiling.
 - `INS-260330-FABE` Russians tolerated election fraud, corruption, war drafts, and inflation — but the 2018 pension age increase caused Putin's largest-ever approval drop (15%).

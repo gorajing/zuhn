@@ -48,5 +48,6 @@ related:
   - INS-260330-EE7E
   - PRI-260406-CC90
   - INS-260403-4730
+  - INS-260409-5C28
 ---
 Standard voice AI pipelines treat ambient noise as waste to be filtered out. David's team instead classifies environmental sounds — hospital cross-talk, urban noise, caregiver speech — to build a richer picture of the patient's current context. When a caregiver says 'remind me about the headaches,' the system captures that as an actionable signal rather than discarding it as noise. This approach of treating noise as data rather than interference represents a broader pattern in AI system design: the signals you throw away in preprocessing may contain the most valuable contextual information. Diarization of caregiver voices enables a form of collaborative memory that deepens patient trust.

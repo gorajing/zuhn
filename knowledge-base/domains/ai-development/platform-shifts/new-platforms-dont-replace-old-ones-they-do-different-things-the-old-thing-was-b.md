@@ -49,14 +49,14 @@ resolutions:
 related:
   - INS-260322-5932
   - PRI-260328-5F64
+  - INS-260409-C14E
   - PRI-260328-A1AA
   - INS-260404-FC9E
   - INS-260405-34D7
-  - INS-260327-85E2
   - INS-260322-5E5D
+  - INS-260327-85E2
   - INS-260328-9408
   - INS-260329-8F98
-  - INS-260330-7BAE
 stance: >-
   Each platform shift (PCs, web, mobile) succeeded not by doing the previous
   thing better, but by enabling entirely new behaviors

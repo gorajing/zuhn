@@ -47,11 +47,11 @@ stance: >-
   leadership—treating this breakage as expected rather than surprising is
   critical.
 related:
+  - INS-260409-665F
   - PRI-260328-BE2D
   - INS-260323-8D12
   - INS-260325-73C0
   - PRI-260406-6C2C
-  - INS-260403-77F4
 evidence:
   - id: INS-260323-8D12
     type: TRANSFERS_TO

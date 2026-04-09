@@ -46,11 +46,11 @@ stance: >-
   horizons, investing heavily in present-moment capability and adaptability
   produces better outcomes than detailed long-term planning.
 related:
+  - INS-260409-22CD
   - PRI-260328-39FA
   - PRI-260406-12D7
   - PRI-260403-EA13
   - INS-260403-4803
-  - PRI-260406-75C2
   - INS-260329-8DDF
   - INS-260405-690F
 evidence:

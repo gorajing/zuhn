@@ -1,10 +1,10 @@
 # Tag: economics
 
 - `INS-260405-E8A1` When agents can monetize their own outputs and spend autonomously, they become economic actors, not just tools — blurring the line between software and economic agent.
-- `INS-260322-59B9` The total percentage of jobs automated matters less than whether displacement happens gradually (manageable) or in a 6-month shock (potentially destabilizing).
-- `INS-260321-52EF` Software was scarce and expensive — AI making it cheaper unlocks massive latent demand (Jevons paradox). Like ATMs creating more bank branches and more tellers, not fewer.
 - `INS-260323-8637` Altman predicts compute becomes the world's most precious commodity, functioning as a new currency by end of decade.
 - `INS-260325-DAD7` Open models are home manufacturing (custom, higher cost); closed models are mega token factories (shared, cheaper at scale).
+- `INS-260322-59B9` The total percentage of jobs automated matters less than whether displacement happens gradually (manageable) or in a 6-month shock (potentially destabilizing).
+- `INS-260321-52EF` Software was scarce and expensive — AI making it cheaper unlocks massive latent demand (Jevons paradox). Like ATMs creating more bank branches and more tellers, not fewer.
 - `INS-260405-A22F` Vera Rubin delivers up to 10x lower inference token cost and 4x fewer GPUs for MoE training compared to Blackwell, entering production in H2 2026.
 - `INS-260323-6C6F` Scaling laws hold across 13 orders of magnitude and won't stop, but inference-time scaling currently offers better ROI than making models bigger.
 - `INS-260330-5EE9` North Korea's 2009 currency redenomination wiped out savings and permanently shifted unofficial transactions to the Chinese Yuan.

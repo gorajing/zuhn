@@ -11,6 +11,7 @@
 - `INS-260329-CF48` Python's for-loop-over-file-handle pattern unifies local files, network resources, and databases into a single iteration abstraction that other languages require separate paradigms to handle.
 - `INS-260329-C7BF` Switch statements introduce the powerful concept of mapping values to behaviors, which generalizes to dispatch tables, strategy patterns, and event handlers.
 - `INS-260329-C031` Abstract data types define behavior contracts while data structures provide implementations — the same separation that makes APIs, protocols, and plugin systems work.
+- `INS-260409-B80C` A shared bus with arbitration is how you escape N-squared point-to-point wiring — the same idea powers hardware buses, message queues, and event buses.
 - `INS-260405-EFC2` C invented the curly-brace, semicolon syntax that now defines how billions of developers write code — its design choices became the assumed defaults of most successor languages.
 - `INS-260329-ECB5` Screenshot top competitors from the App Store before designing — users expect familiar patterns, not novel ones.
 - `INS-260329-393C` Whenever you find yourself copy-pasting code or repeating a manual process, you've found a missing abstraction that will cost more to fix later.

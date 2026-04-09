@@ -52,7 +52,7 @@ related:
   - PRI-260406-6762
   - PRI-260406-B9C9
   - INS-260330-B2C5
-  - PRI-260406-003E
+  - INS-260409-7632
 ---
 Graham makes one exception to his 'keep identity small' rule: identifying as a scientist may be a net positive. But he argues this isn't really an exception — it's a meta-identity that commits you to a process (follow evidence wherever it leads) rather than to any specific belief. It's like putting a sign in a cupboard saying 'this cupboard must be kept empty.'
 

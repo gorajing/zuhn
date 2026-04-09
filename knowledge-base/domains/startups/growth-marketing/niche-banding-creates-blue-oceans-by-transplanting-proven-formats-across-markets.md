@@ -41,9 +41,9 @@ resolutions:
 related:
   - PRI-260321-558C
   - INS-260321-141B
+  - INS-260409-3FC6
   - INS-260330-BBEE
   - INS-260321-96CE
-  - INS-260325-A8E6
 stance: >-
   Don't find a blue ocean — create one by taking a format proven in Market A and
   applying it to Market B where nobody has used it yet.

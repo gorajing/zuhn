@@ -43,7 +43,6 @@ stance: >-
   fast-moving domains because it bypasses outdated assumptions about what is
   impossible.
 related:
-  - INS-260327-E7A3
   - INS-260327-D2F3
   - INS-260402-841D
   - INS-260404-9376

@@ -47,11 +47,11 @@ stance: >-
   millions through services that have no verifiable value, exposing fundamental
   failures in financial regulation and due diligence.
 related:
+  - INS-260409-C6BB
   - INS-260330-1D3B
   - INS-260329-3FED
   - INS-260329-50BD
-  - INS-260327-FF64
-  - INS-260329-62C1
+  - INS-260409-DBAE
 evidence:
   - id: INS-260330-1D3B
     type: TRANSFERS_TO

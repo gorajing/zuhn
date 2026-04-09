@@ -47,9 +47,11 @@ stance: >-
   market share before incumbents adapt.
 related:
   - INS-260321-7109
+  - INS-260409-6E05
   - INS-260403-F66F
   - INS-260404-77CD
   - INS-260403-C949
   - PRI-260406-7F84
+  - INS-260409-5FE5
 ---
 A white-glove law firm on a billable-hours model loses revenue if AI reduces hours per client — the business model punishes adoption. A startup entering the same space faces no such conflict: it can price on outcomes, serve more clients, and undercut on cost without cannibalizing an existing revenue stream. This Innovator's Dilemma pattern is not unique to legal; any service business whose pricing scales with human time (consulting, accounting, staffing) has the same structural vulnerability. Founders should actively map incumbent pricing models to identify where adoption resistance is highest — those are the highest-leverage entry points. The window closes as incumbents adapt, so speed of network attachment matters.

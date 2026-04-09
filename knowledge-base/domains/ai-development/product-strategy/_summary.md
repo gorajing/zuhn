@@ -1,6 +1,6 @@
 # Topic: product-strategy
 
-> 83 insights
+> 85 insights
 
 - `INS-260325-95A6` [very_high] MIT found 95% of genAI pilots yield zero P&L impact because enterprise AI tools become static science projects that never adapt to real workflows.
 - `INS-260325-206C` [very_high] AI Dungeon's near-death from token costs is the cautionary tale: variable-cost AI engines inside fixed-price subscriptions create margin erosion that grows with your best users.
@@ -51,6 +51,7 @@
 - `INS-260330-BB53` [high] Longbows solve the archer's paradox through arrow flex while compound bows use a cutout riser — same problem, completely different solutions.
 - `INS-260329-B4E7` [high] Base 44's value isn't generating better code — it's eliminating every step between 'idea' and 'published app' that would normally require separate tools, accounts, and expertise.
 - `INS-260327-112B` [high] Lowering creation barriers through AI generates stronger social dynamics than optimizing content consumption feeds.
+- `INS-260409-94D6` [high] Don't ask 'should I hire an editor' — list the 6-10 things an editor actually does with their hands and ask which of those can become workflows.
 - `INS-260327-C5D9` [high] Just as novice managers check in on delegates after 5 minutes, users must learn to give AI agents minutes or hours before expecting results.
 - `INS-260327-7A48` [high] Foundation models give you 90% accuracy for free; per-customer fine-tuning and evals are the highest-ROI path to the remaining 9.99%.
 - `INS-260327-5CB0` [high] Nathan Sobo spent years building Atom on Electron, hit a performance ceiling he couldn't overcome, and rebuilt Zed in Rust from scratch because performance is an architectural choice, not a feature you bolt on later.
@@ -77,6 +78,7 @@
 - `INS-260403-3C6D` [medium] Curated prompt packages that encode professional workflows represent a transitional business model that will shrink as models become more capable at self-structuring.
 - `INS-260403-F0AA` [medium] Recurring ChatGPT prompt patterns reveal unmet product needs that can be quickly converted into dedicated tools with built-in validated demand.
 - `INS-260327-5F10` [medium] Programs are written for people to read and only incidentally for machines to execute; as long as humans need to understand what AI agents do to their code, visual code interfaces remain essential.
+- `INS-260409-6236` [medium] Daily hands-on AI usage builds usable intuition that content consumption cannot replace.
 - `INS-260327-9C56` [medium] Fan envisions a Physical API that gives software a physical actuator, enabling a skill economy where experts teach robots and deliver their expertise as a service at scale.
 - `INS-260327-FE24` [medium] The terminal became more important with AI agents because its text-based, loggable, multi-session architecture perfectly matches agentic workflows.
 - `INS-260328-4A93` [medium] AI product orgs need three new capabilities: unit economics dashboarding, context/retrieval quality ownership, and eval-based QA for non-deterministic outputs.

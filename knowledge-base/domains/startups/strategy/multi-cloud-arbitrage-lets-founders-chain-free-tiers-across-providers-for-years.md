@@ -51,9 +51,9 @@ stance: >-
 related:
   - INS-260321-AA91
   - PRI-260406-7B76
+  - INS-260409-278A
   - INS-260403-2D68
   - INS-260327-624F
-  - PRI-260405-D6F5
 ---
 The guide recommends running startups like a hedge fund manager by diversifying across cloud providers. Use AWS Activate credits ($5K-$100K) in year one, shift inference workloads to Google Cloud's $350K two-year program in year two, then test GPU pricing on providers like Scaleway. This multi-cloud arbitrage can provide 2-3 years of heavily subsidized infrastructure.
 

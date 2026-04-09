@@ -2,6 +2,7 @@
 
 - `INS-260321-E4EB` AI made idea generation almost free, just as the internet made communication almost free — the bottleneck shifted to verification, evaluation, and filtering signal from noise.
 - `INS-260321-7D7C` AI's superpower is breadth (trying every technique on every problem simultaneously), humans' is depth (cumulative progress from partial understanding). Science must restructure to exploit both.
+- `INS-260409-E6F3` Hassabis frames AI-for-science and medicine as the ultimate use case — everything else is incidental to unlocking a new golden age of discovery.
 - `INS-260330-0AE2` Serendipitous discoveries are purer than confirmatory ones because surprise naturally triggers deeper scrutiny.
 - `INS-260323-D060` Free speech and scientific inquiry are both rooted in the recognition that humans are self-deceiving creatures of limited knowledge who need open discourse to approach truth.
 - `INS-260327-538D` Indigenous peoples have accumulated millennia of ecological knowledge through direct observation that Western science is only now catching up to through formal methods.

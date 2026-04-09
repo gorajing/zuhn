@@ -60,5 +60,6 @@ related:
   - INS-260325-9F41
   - INS-260330-DBA4
   - INS-260403-7EA1
+  - INS-260409-0A28
 ---
 Punxsutawney Phil, the original Groundhog Day prognosticator, has below-50% accuracy at predicting winter length. Staten Island Chuck, meanwhile, claims 85% accuracy over 20 years—statistically significant (p=0.0002) even after multiple-comparisons correction. The naive interpretation is that Staten Island Chuck is genuinely calibrated. The more careful reading: Chuck predicts early spring on 25 of 31 occasions. If early spring is simply more common on Staten Island, his accuracy is entirely explained by always choosing the base rate outcome. He's a broken clock that happens to be right most of the time not because he's skilled but because the correct answer is almost always the same. This is a clean, generalizable lesson: before celebrating a forecaster's track record, ask what they would have predicted by simply guessing the base rate every time. If their performance doesn't exceed that benchmark, they've provided no information. Mojave Max, the anti-oracular tortoise who achieves 20% accuracy by always predicting long winter in Las Vegas—a city that rarely has one—confirms the pattern from the opposite direction.

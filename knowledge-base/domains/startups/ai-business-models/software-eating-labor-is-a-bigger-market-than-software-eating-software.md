@@ -45,10 +45,10 @@ resolutions:
     hired for, rather than eliminating existing jobs.
 related:
   - INS-260403-B387
+  - INS-260409-492F
   - PRI-260328-8317
   - INS-260405-8532
   - INS-260322-EDA4
-  - INS-260327-85E2
 stance: >-
   The largest AI opportunity is not replacing existing software but replacing
   labor tasks where the cost-to-value equation was previously inverted.

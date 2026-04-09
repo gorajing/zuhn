@@ -57,5 +57,6 @@ related:
   - INS-260403-10CE
   - PRI-260406-F21A
   - INS-260402-89DE
+  - INS-260409-C133
 ---
 Flybridge's release of an AI-powered investment memo generator points to a broader pattern: the structured, templated work that has historically justified junior VC analysts — market sizing, competitive landscape, comparable funding rounds — is now automatable. Investment memos are highly structured documents with consistent schemas, making them natural targets for LLM generation. As this layer becomes commoditized, the durable value in VC will increasingly concentrate in what cannot be automated: founder relationship quality, pattern recognition from lived experience, and conviction formation in the face of genuine uncertainty. Firms that recognize this shift early and restructure accordingly will have a structural advantage over those treating AI tools as productivity enhancers within existing workflows.

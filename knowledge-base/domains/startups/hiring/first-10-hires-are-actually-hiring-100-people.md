@@ -53,6 +53,7 @@ related:
   - INS-260403-F4BB
   - PRI-260405-608A
   - INS-260327-2430
+  - INS-260409-AE80
 ---
 Patrick Collison argues that the first 10 employees are disproportionately important not just for their individual contributions, but because each one brings along roughly 10 more people who share their values and working style. This creates a compounding cultural effect where early hiring mistakes propagate exponentially.
 

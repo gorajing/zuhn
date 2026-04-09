@@ -44,11 +44,11 @@ stance: >-
   causes people to invest enormous emotional energy managing impressions that
   others aren't even forming.
 related:
-  - INS-260322-DAF2
-  - INS-260326-C657
   - INS-260327-671E
+  - INS-260322-DAF2
+  - INS-260409-F7F8
+  - INS-260326-C657
   - INS-260403-C4E2
-  - INS-260402-72EF
   - INS-260330-CC9E
 evidence:
   - id: INS-260322-DAF2

@@ -54,7 +54,6 @@ stance: >-
 related:
   - INS-260320-9935
   - INS-260327-B7C4
-  - INS-260329-1028
   - INS-260329-BC11
   - INS-260329-B1A1
   - INS-260329-4C4C
@@ -62,6 +61,7 @@ related:
   - INS-260403-BC04
   - INS-260403-C907
   - INS-260403-B18C
+  - PRI-260406-AF0C
 ---
 Lenny Rachitsky tested all major growth levers—paid ads, SEO, referrals, and business development—and found none of them moved the needle for his newsletter. The only thing that worked was word of mouth, driven by publishing something valuable every single week that people wanted to forward to colleagues. The one external lever that did help (Substack's recommendation feature) was itself a form of word of mouth, since it only works when other writers genuinely find your content worth recommending.
 

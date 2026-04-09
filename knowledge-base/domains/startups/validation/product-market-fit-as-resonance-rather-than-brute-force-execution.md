@@ -55,9 +55,9 @@ related:
   - INS-260330-332E
   - INS-260404-8908
   - INS-260323-2FC3
+  - INS-260409-5C28
   - INS-260330-52C3
   - INS-260405-5649
-  - INS-260327-4279
 ---
 The Tacoma Narrows Bridge metaphor reveals something founders systematically get wrong: they attribute success to execution quality when the real differentiator is market alignment. Two founders with identical skills and effort get wildly different outcomes because one is 'resonating' with a genuine market need while the other is pushing against indifference. Andy Rachleff's dog food test captures this — if the dogs are eating the dog food, you can screw up almost everything else and still succeed. Conversely, flawless execution on a product nobody wants is guaranteed failure.
 

@@ -22,9 +22,9 @@
 - `INS-260403-D6C2` No-code platforms and AI tools let non-technical founders go from idea to testable prototype in days, shifting the bottleneck from engineering capacity to hypothesis clarity.
 - `INS-260403-78AD` Solo founders now start over a third of new startups as AI tools replace functions that previously required full teams.
 - `INS-260328-B57E` Do not be discouraged by others' growth, but do not accept slow growth either — better tools mean you should be going faster than before.
-- `INS-260404-3CBE` Consolidating fundraising into a single AI-augmented platform creates compounding advantages over fragmented tool stacks.
 - `INS-260329-4DBC` Claude Code and similar tools make it so easy to build plausible prototypes that founders lose conviction faster and cycle through ideas without depth.
 - `INS-260326-291C` AI should amplify founder cognition, not replace it — delegating the hard thinking prevents developing the judgment that separates successful founders from feature-shippers.
+- `INS-260404-3CBE` Consolidating fundraising into a single AI-augmented platform creates compounding advantages over fragmented tool stacks.
 - `INS-260403-4365` Carta data shows solo founders hit 35% of the 2024 class, with soonicorns like BuiltWith ($14M/year, 1 employee) proving the one-person unicorn is approaching reality.
 - `INS-260403-2B09` AI and no-code platforms have collapsed the cost of startup operations so dramatically that most software startups no longer need venture-scale capital.
 - `INS-260404-1CC0` As building barriers collapse, competitive moats migrate from technical capability to distribution and taste.

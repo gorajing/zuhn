@@ -54,7 +54,6 @@ stance: >-
   than adopting borrowed heuristics
 related:
   - INS-260327-767B
-  - INS-260328-7942
   - INS-260329-444F
   - INS-260403-99B1
   - INS-260403-C9DC

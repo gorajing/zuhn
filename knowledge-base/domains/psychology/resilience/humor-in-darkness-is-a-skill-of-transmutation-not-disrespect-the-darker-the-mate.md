@@ -55,6 +55,7 @@ related:
   - INS-260403-772D
   - INS-260323-A494
   - INS-260330-DD91
+  - INS-260409-30DE
 stance: Dark humor requires more skill than light humor
 evidence:
   - id: INS-260323-4574

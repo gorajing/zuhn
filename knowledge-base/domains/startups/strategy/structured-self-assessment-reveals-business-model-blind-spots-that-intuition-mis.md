@@ -55,6 +55,7 @@ related:
   - INS-260403-C0FE
   - INS-260403-7E18
   - PRI-260406-5E06
+  - INS-260409-5E35
 ---
 Most strategic discussions about business models remain qualitative—leaders discuss strengths and weaknesses in general terms without a consistent framework for comparison. The 9-mechanic assessment approach forces granularity: each component of the business model gets an independent score, and the resulting profile visualizes where the model is strong versus vulnerable.
 

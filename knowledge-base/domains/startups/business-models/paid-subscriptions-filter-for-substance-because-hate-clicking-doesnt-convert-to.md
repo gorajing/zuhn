@@ -52,11 +52,11 @@ stance: >-
   ad-supported ones because the payment friction filters out engagement bait and
   rewards genuine value.
 related:
+  - INS-260409-1BFD
   - PRI-260405-EBC6
   - INS-260403-03BD
   - INS-260405-95D1
   - INS-260402-2632
-  - PRI-260328-935B
 ---
 Ad-supported platforms optimize for attention regardless of sentiment — hate-clicks and rage-shares generate the same revenue as genuine engagement. Subscription models invert this dynamic entirely: nobody pays monthly for content that merely provokes them. This creates a natural selection pressure toward substance.
 

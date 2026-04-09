@@ -1,13 +1,13 @@
 # Domain: automation
 
-> 32 insights across 7 topics
+> 34 insights across 7 topics
 
 ## Topics
 
 | Topic | Insights | Preview |
 | ----- | -------- | ------- |
-| ai-automation | 1 | AI automation applied to the RFP process promises dramatic efficiency gains in both proposal generation and vendor evaluation. |
-| content-creation | 10 | Composing face-swap with inpainting solves the character consistency problem that previously made AI personas impractical. |
+| ai-automation | 2 | AI automation applied to the RFP process promises dramatic efficiency gains in both proposal generation and vendor evaluation. |
+| content-creation | 11 | Composing face-swap with inpainting solves the character consistency problem that previously made AI personas impractical. |
 | labor-displacement | 4 | AI-jobs debates feel unresolvable because optimists and pessimists are each describing a different causal layer of the same system. |
 | n8n-workflows | 9 | Full pipeline: search query to scrape 100+ profiles, extract data, pull company info, AI-generate personalized opener, export to Google Sheets. |
 | pipelines | 1 | Sequential pipelines need periodic energy re-injection to sustain throughput, not just extraction at each stage. |

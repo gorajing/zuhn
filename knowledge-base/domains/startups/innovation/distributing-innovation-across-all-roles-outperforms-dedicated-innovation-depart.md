@@ -49,9 +49,9 @@ stance: >-
 related:
   - INS-260330-25A8
   - INS-260402-ECB6
+  - INS-260409-2A8D
   - PRI-260323-50FE
   - INS-260322-D2E9
-  - INS-260403-2D89
 evidence:
   - id: INS-260322-D2E9
     type: EXTENDS

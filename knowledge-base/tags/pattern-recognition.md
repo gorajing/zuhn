@@ -7,7 +7,12 @@
 - `INS-260404-93CD` Building bottom-up forces continuous pattern recognition that simplifies the overall design in ways upfront planning cannot.
 - `INS-260403-CF23` Dopamine from novelty, risk, and complexity amplifies pattern recognition and drives motivation rather than serving as a reward signal.
 - `INS-260330-B539` Object boundaries and spatial differentiation are partially conceptual overlays that can be intentionally softened to access raw perceptual data.
+- `INS-260405-638B` Neural networks with no sleep schedule and superior pattern recognition are coming for the VC analyst layer first.
+- `INS-260403-AAC8` Harry Stebbings missed $400M+ in gains on Deel and Vanta by letting market concerns override his conviction in generational founders, permanently changing his investment framework.
 - `INS-260330-8F72` Chinese dynastic history reveals a recurring cycle of institutional vigor → consolidation → complacency → collapse that maps onto corporate and political institutions today.
+- `INS-260403-B08E` Experts develop reliable 'smell tests' for technology quality based on surrounding signals rather than technical deep-dives.
+- `INS-260404-AB0F` When copying good work, deliberately identify what makes it good rather than defaulting to its most visible and easily copied surface features.
+- `INS-260403-C135` Specific knowledge is found by looking backward at what you've already done, not forward at what you plan to learn.
 - `INS-260330-C8B4` Organisms that over-detect patterns survive longer than those that under-detect them because missing a real threat is costlier than reacting to a false one.
 - `INS-260330-FCFA` True randomness clusters in ways humans perceive as non-random, so products must introduce artificial structure to satisfy our pattern-seeking minds.
 - `INS-260322-38D8` Our meaning-creation ability is so powerful that it generates false positives constantly — we see meaningful patterns in noise because meaning-making is our default mode, not an opt-in process.
@@ -16,18 +21,13 @@
 - `INS-260326-A7CB` The body shows nutritional deficiencies on skin and nails years before blood tests detect disease -- just as emotions flag relationship problems before conscious analysis catches up.
 - `INS-260403-AEF2` We judge early versions of ambitious projects by finished-work standards because we have no cultural customs for evaluating them correctly.
 - `INS-260403-FE8D` Stebbings observes that 90% of great founders show entrepreneurial behavior before age 13, and that gaming clan leadership is more predictive of startup success than college prestige.
-- `INS-260403-B08E` Experts develop reliable 'smell tests' for technology quality based on surrounding signals rather than technical deep-dives.
-- `INS-260404-AB0F` When copying good work, deliberately identify what makes it good rather than defaulting to its most visible and easily copied surface features.
-- `INS-260403-C135` Specific knowledge is found by looking backward at what you've already done, not forward at what you plan to learn.
-- `INS-260405-638B` Neural networks with no sleep schedule and superior pattern recognition are coming for the VC analyst layer first.
-- `INS-260403-AAC8` Harry Stebbings missed $400M+ in gains on Deel and Vanta by letting market concerns override his conviction in generational founders, permanently changing his investment framework.
-- `INS-260330-FE14` Destin could diagnose hit quality purely from the crack of the bat — bottom barrel hits sound different from sweet-spot contact.
-- `INS-260330-81D3` Learn programming patterns, not syntax—patterns transfer across languages while syntax is forgotten.
 - `INS-260329-02C5` Derivative rules are compressed patterns derived from the limit definition, and understanding their origin enables flexible problem-solving beyond rote application.
 - `INS-260404-8908` Anomalous outputs in simple systems are signals of hidden structural connections waiting to be uncovered.
 - `INS-260329-9391` Indeterminate forms like 0/0 in calculus signal convergence of two quantities and require algebraic manipulation to resolve, teaching the meta-skill of treating apparent paradoxes as meaningful signals.
 - `INS-260323-D400` Mathematical training isn't just about solving equations — it's a perception technology that makes the world more complex, beautiful, and visible to you.
 - `INS-260330-DECB` The prime number spirals arise from rational approximations of 2pi in the coordinate system, not from any property of primes themselves.
+- `INS-260330-FE14` Destin could diagnose hit quality purely from the crack of the bat — bottom barrel hits sound different from sweet-spot contact.
+- `INS-260330-81D3` Learn programming patterns, not syntax—patterns transfer across languages while syntax is forgotten.
 - `INS-260403-9DB6` Steady accumulation of documented incidents shifts opinion more than any single dramatic event because patterns resist counter-narrative.
 - `INS-260403-7EB2` Keep a running notes document tracking exec questions and feedback to anticipate their reactions in future discussions.
 - `INS-260330-12D5` Over-detecting threats in ambiguous stimuli is evolutionarily cheaper than missing real threats, so apophenia persists as a survival advantage.
@@ -42,6 +42,10 @@
 - `INS-260403-DAB1` Calling someone a fraud is the diagnostic marker of a hater — it's the only way to reconcile acknowledged fame with the conviction that the person has no talent.
 - `INS-260404-108C` Across money, time, and likely other resources, the biggest losses come not from obvious indulgence but from activities that mimic virtue while destroying value.
 - `INS-260402-55FB` Deliberately choosing roles with real complexity across different stages and cycles builds a compounding pattern library that becomes your primary competitive advantage.
+- `INS-260325-3CE2` Structured peer groups of 6-8 founders at similar stages outperform any advisor — EO's 18,000-member model proves this at scale.
+- `INS-260327-8D82` Conrad says the real advantage of doing it a second or third time is not learning from failure but developing judgment about what actually matters versus what feels consequential but isn't.
+- `INS-260403-7C88` Good founders make things happen the way they want through relentless resourcefulness, not by forcing a predefined plan.
+- `INS-260403-5D99` Repeat founders act on informed instinct and validate later, because they know the cost of analysis paralysis exceeds the cost of being wrong.
 - `INS-260403-B2A8` Travis's career pattern — taxis, food delivery, physical AI — shows that categories dismissed as boring, weird, and hard consistently produce outsized returns because all three filters must be present simultaneously.
 - `INS-260404-323D` Productive idea evaluation requires inverting from 'why it won't work' to 'how it could work' — a trainable skill, not naive optimism.
 - `INS-260403-DDFD` Once you're truly good at a technology, the gaps and broken things in the world become obvious — each one a potential startup.
@@ -50,10 +54,6 @@
 - `INS-260404-AC7C` Evaluating new ideas by imagining how they could work rather than why they won't is a trainable skill with outsized returns.
 - `INS-260403-9EB1` Angels must predict pre-traction potential; VCs can react to demonstrated success.
 - `INS-260403-25A8` Investors who signal future interest without making an offer are declining — founders should only weight committed offers in their decisions.
-- `INS-260325-3CE2` Structured peer groups of 6-8 founders at similar stages outperform any advisor — EO's 18,000-member model proves this at scale.
-- `INS-260327-8D82` Conrad says the real advantage of doing it a second or third time is not learning from failure but developing judgment about what actually matters versus what feels consequential but isn't.
-- `INS-260403-7C88` Good founders make things happen the way they want through relentless resourcefulness, not by forcing a predefined plan.
-- `INS-260403-5D99` Repeat founders act on informed instinct and validate later, because they know the cost of analysis paralysis exceeds the cost of being wrong.
 - `INS-260403-1284` Marketplaces in every category follow a predictable arc: horizontal discovery → vertical discovery → vertical transactional → fintech-enabled managed marketplace.
 - `INS-260403-A6AF` A repeatable five-step pattern (technology → cost collapse → democratization → new industries → power reshuffle) has predicted every major transportation-driven economic transformation in history.
 - `INS-260403-021D` Every major software architecture shift predictably spawns new billion-dollar cybersecurity companies.

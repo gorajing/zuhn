@@ -48,11 +48,11 @@ stance: >-
   without the margins of premium or the volume of cheap.
 related:
   - INS-260327-4D70
+  - INS-260409-62E0
   - INS-260327-D0F4
   - PRI-260406-0ACE
   - PRI-260403-5DEA
   - PRI-260406-6C6C
-  - INS-260327-2B44
 evidence:
   - id: INS-260327-2B44
     type: TRANSFERS_TO

@@ -54,8 +54,8 @@ related:
   - INS-260321-D183
   - INS-260323-70B9
   - INS-260330-2CE3
+  - INS-260409-1390
   - INS-260404-B6DF
-  - INS-260403-5056
   - INS-260404-8BC7
 ---
 Analyst Toby Nangle documented how Japan's government has accumulated enormous macro positions that function like a hedge fund portfolio: profitable forex interventions worth ~8% of GDP, Bank of Japan stock holdings with unrealized gains worth ~11% of GDP, plus the $1.8 trillion GPIF pension fund's gains from yen depreciation and stock appreciation. Nearly all positions reduce to one core trade — short yen, long dollars, long equities — which has been spectacularly successful. Using Fed economist YiLi Chien's data, these positions shrink Japan's effective debt by roughly half. This challenges the standard narrative that Japan is drowning in debt and offers a counterexample to conventional fiscal hawkishness. It also highlights a missed opportunity: had the US implemented Bush's 2005 Social Security investment proposal, it could be reaping similar benefits. For investors, Japan's true fiscal position is far stronger than headline debt numbers suggest.

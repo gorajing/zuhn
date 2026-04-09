@@ -48,9 +48,9 @@ resolutions:
 related:
   - INS-260327-4F3D
   - INS-260327-DC0B
+  - INS-260409-A1B2
   - INS-260327-A59A
   - INS-260328-80E7
-  - INS-260403-3E16
 stance: >-
   Instead of asking 'what do you want to be?' (astronaut, writer, game
   designer), ask 'what do you want to do?'

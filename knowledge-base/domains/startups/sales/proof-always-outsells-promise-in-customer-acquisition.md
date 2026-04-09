@@ -48,7 +48,6 @@ stance: >-
   A business with 1,000 testimonials and no fancy offer will consistently
   outperform a business with an elaborate promise stack but no proof.
 related:
-  - INS-260325-9BBC
   - INS-260403-E2FB
   - PRI-260406-B314
   - INS-260330-AE9C
@@ -58,6 +57,7 @@ related:
   - INS-260330-9033
   - INS-260403-6424
   - INS-260402-1146
+  - INS-260405-CC3F
 evidence:
   - id: INS-260325-9BBC
     type: TRANSFERS_TO

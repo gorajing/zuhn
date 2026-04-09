@@ -48,9 +48,9 @@ stance: >-
 related:
   - INS-260329-70D5
   - INS-260403-A6B1
+  - INS-260409-BE39
   - INS-260329-DFD1
   - INS-260329-4A69
-  - INS-260404-D147
 evidence:
   - id: INS-260329-DFD1
     type: TRANSFERS_TO

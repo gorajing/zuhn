@@ -47,7 +47,6 @@ stance: >-
   scaled alongside success.
 related:
   - INS-260329-F33F
-  - INS-260329-B4C8
   - INS-260403-DEB6
   - PRI-260328-094A
   - PRI-260406-69FC

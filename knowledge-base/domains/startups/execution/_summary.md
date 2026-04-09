@@ -1,6 +1,6 @@
 # Topic: execution
 
-> 264 insights
+> 272 insights
 
 - `INS-260329-FCF2` [high] Doing 10-100x more volume beats 2x optimization, but you must relearn this lesson independently in each new domain you enter.
 - `INS-260403-FED1` [high] YC's batch funding model — its most important innovation — was adopted not strategically but because a summer program seemed like the fastest way to learn angel investing.
@@ -95,6 +95,7 @@
 - `INS-260326-C657` [high] Teams lose critical information every day because members silently manage impressions rather than risk appearing ignorant or negative.
 - `INS-260403-30E5` [high] When facing death, redirect all engineering effort to whatever closes revenue fastest — more code is worthless if the company dies.
 - `INS-260327-FFA7` [high] In AI, waiting for perfection guarantees missing the window—launch rough and iterate with the technology.
+- `INS-260409-05AC` [high] If you're dead anyway, do the thing that's too scary to try — your current tactics are what produced the zombie state.
 - `INS-260329-6020` [high] After you know what needs to be done, more information-gathering is just socially acceptable procrastination.
 - `INS-260403-EFAF` [high] Version 1 should be light enough to evolve — over-engineering kills startups faster than technical debt.
 - `INS-260330-9A83` [high] Placing the anvil behind the driver head eliminated momentum transfer as a variable, isolating pure deformation as the only energy absorption mechanism.
@@ -123,6 +124,7 @@
 - `INS-260330-8D6F` [high] Lost momentum causes internal disagreement and attrition; only small concrete wins — not vision speeches — can reverse the spiral.
 - `INS-260327-2101` [high] Default to deterministic prompt-chain workflows over agentic systems — most professional tasks follow the same steps every time.
 - `INS-260327-DCA9` [high] Weinberg says almost every problem at Harvey traces back to having six DRIs on something instead of one — shared ownership is no ownership, just like asking two friends to water your plant guarantees it dies.
+- `INS-260409-2A8A` [high] When MVPs take a day, the bottleneck is no longer building — it is learning fast from the market.
 - `INS-260327-734D` [high] It took nine different iterations from 2012 to finding Marco Polo — the first thing you put out just does not work.
 - `INS-260327-2387` [high] Months of user research before writing code produces faster PMF than build-fast-iterate approaches.
 - `INS-260403-D6C2` [high] No-code platforms and AI tools let non-technical founders go from idea to testable prototype in days, shifting the bottleneck from engineering capacity to hypothesis clarity.
@@ -133,8 +135,10 @@
 - `INS-260327-1064` [high] The natural tendency of tech founders is to ignore operations, but for many businesses, operational execution determines success or failure.
 - `INS-260329-3FA6` [high] Redefine work as outputs (volume × leverage) rather than inputs like hours, effort, or intensity.
 - `INS-260402-92AE` [high] Centivax outsourced initial testing but brought optimization in-house once they knew the technology worked, making iteration cheaper, faster, and producing a more polished product.
+- `INS-260409-22CD` [high] Perfection is impossible when the capability ceiling moves every month — optimize for adaptation, not polish.
 - `INS-260402-9681` [high] Multiple successful YC founders independently ranked persistence above intelligence as the dominant success factor.
 - `INS-260328-6A18` [high] Founders can't innovate across 20 zones — pick the top 3 where you want to innovate and hire the experienced person for everything else.
+- `INS-260409-2578` [high] Pivots at scale rarely work — only pivot when you have literally no other choice.
 - `INS-260403-F4D7` [high] Best-in-class infrastructure components are now commodity plug-and-play, so building custom infra is almost always wrong for early-stage startups.
 - `INS-260403-144A` [high] Rollins recognized the shrinking middle class in his 20s and deliberately stacked multiple income streams — music, acting, writing, voiceover, speaking — as insurance.
 - `INS-260330-BF96` [high] Byron Ferguson hits aspirins mid-air not by eliminating arrow wobble but by testing every arrow's spine and rejecting those outside tolerance.
@@ -170,6 +174,7 @@
 - `INS-260326-8798` [high] Pay yourself less, get a worse office, and read your bank statement every month — burn rate is the only runway lever that's 100% in your control.
 - `INS-260403-8439` [high] Measuring success by spending or job creation rather than actual output is a reliable indicator of organizational dysfunction.
 - `INS-260329-E6DB` [high] Hormozi admits Prestige Labs stalled Gym Launch's growth because his attention split — the biggest lesson was he probably shouldn't have done it.
+- `INS-260409-885E` [high] The complete formula for making it is start, take feedback to get better, and never stop — most failure is skipping one of these.
 - `INS-260404-8394` [high] Categorize any crisis as either cash or PMF before acting, because the response strategies are fundamentally different.
 - `INS-260403-CCB7` [high] Walkable startup locations create natural after-hours collaboration that office parks cannot replicate.
 - `INS-260404-1E35` [high] Startups peak in productivity at founding and spend the rest of their existence decelerating — winners just decelerate less.
@@ -225,6 +230,8 @@
 - `INS-260329-AB9A` [high] Programming for your own use cases removes the hardest parts of software development and lets you focus purely on problem-solving.
 - `INS-260327-DD5C` [high] Christoph Janz's framework shows five ways to build a $100M business: 1,000 customers at $100K, 10,000 at $10K, or 10 million at $10 — and your sales approach must match which path you're on.
 - `INS-260403-FB4A` [high] Instead of moving ships empty between Caribbean and European seasons, cruise lines sell repositioning tickets — turning a cost center (transit) into a revenue stream.
+- `INS-260409-2DD0` [high] Zombies are identifiable by slowing dev cycles and excitement migrating from product to planning, not by cash runway.
+- `INS-260409-D947` [high] Treat the zombie like pre-PMF — nothing is sacred, and the AB-tested local maximum is still a bad onboarding flow.
 - `INS-260403-832B` [medium] eDreams built Spain's first unicorn without lean startup methodology, finding that the absence of playbooks forced them to focus on what actually worked rather than conventional wisdom.
 - `INS-260329-7A3C` [medium] Fill your calendar from 5pm backward so meetings stack at the end of the day and mornings stay open for deep work.
 - `INS-260327-767B` [medium] In frontier tech, no existing playbook applies—build your own through experimentation and first principles.
@@ -259,6 +266,7 @@
 - `INS-260329-5EE7` [medium] Reproduce production bugs in staging before debugging — debugging in production risks making the issue worse.
 - `INS-260403-4A42` [medium] Top-performing 2025 revenue teams achieved ~77% higher revenue per rep through deep AI integration and workflow redesign rather than headcount expansion.
 - `INS-260403-8C2D` [medium] Delaying two hires by one quarter can extend runway by 3.5 months — scenario modeling makes these tradeoffs visible before they become consequences.
+- `INS-260409-1A44` [medium] You have permission to shrink the team before pivoting — the ship is going down and directors who aren't helping aren't helping.
 - `INS-260403-78AD` [medium] Solo founders now start over a third of new startups as AI tools replace functions that previously required full teams.
 - `INS-260329-6253` [medium] Start new habits when you're busiest — if they survive peak load, they'll persist; habits formed during slack time break the moment pressure returns.
 - `INS-260327-3A71` [medium] In AI, start with what the technology can do, not what customers say they need—the possibilities exceed imagination.

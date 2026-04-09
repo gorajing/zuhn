@@ -53,10 +53,10 @@ stance: >-
   failures.
 related:
   - INS-260323-3CD0
+  - INS-260409-1D16
   - INS-260327-E30A
   - INS-260325-D624
   - INS-260403-E6A8
-  - INS-260327-EDBA
 evidence:
   - id: INS-260327-EDBA
     type: CHALLENGES

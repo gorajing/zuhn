@@ -50,10 +50,10 @@ stance: >-
   from aggregate economic impact
 related:
   - INS-260403-98DA
+  - INS-260409-647D
   - INS-260403-A52A
   - PRI-260405-8E48
   - INS-260404-4758
-  - INS-260330-6DE0
 ---
 Gasoline is a uniquely visible price signal — consumers see it posted on large signs multiple times per day, purchase it frequently, and pay for it as a standalone transaction rather than bundled into other goods. This creates a salience effect where gas price changes dominate consumer sentiment about the economy even when they represent a small fraction of total spending.
 

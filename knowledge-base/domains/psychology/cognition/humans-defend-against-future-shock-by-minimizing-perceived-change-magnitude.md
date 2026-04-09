@@ -53,7 +53,7 @@ related:
   - INS-260323-543C
   - INS-260327-48BA
   - INS-260330-2988
-  - INS-260404-4E1A
+  - INS-260409-9809
 ---
 Alvin Toffler's 'future shock' concept suggests people feel overwhelmed by rapid change, but Noah Smith observes a subtler defense: we unconsciously minimize the scale of change we've experienced. Year-to-year differences seem small and fun, and we anchor on unchanged physical objects (kitchens, appliances) while ignoring that our social lives, information access, and daily activities have been completely restructured.
 

@@ -44,11 +44,11 @@ stance: >-
   Founders who treat pivoting as failure waste months doing the wrong thing,
   when the only real failure is not pivoting three months earlier.
 related:
+  - INS-260409-2578
   - PRI-260328-EC3F
   - INS-260325-311F
   - INS-260403-600C
   - INS-260330-4AE7
-  - INS-260330-8134
 evidence:
   - id: INS-260330-8134
     type: TRANSFERS_TO

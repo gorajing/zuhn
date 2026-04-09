@@ -51,7 +51,6 @@ stance: >-
   management theater that sacrifices returns, because YC's network effects
   produce systematically better survival and exit outcomes
 related:
-  - INS-260403-0525
   - PRI-260406-BA3B
   - PRI-260328-A4AC
   - INS-260403-B6C6

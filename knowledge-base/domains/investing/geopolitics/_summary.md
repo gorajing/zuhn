@@ -1,9 +1,10 @@
 # Topic: geopolitics
 
-> 487 insights
+> 497 insights
 
 - `INS-260326-3E19` [very_high] Pharmaceutical companies funding the FDA, banks staffing financial regulators, and tech giants writing platform regulations are structurally identical -- the mechanism is industry-funded oversight producing industry-favorable rules.
 - `INS-260326-79DF` [very_high] Germany's unrestricted submarine warfare sank 886,000 tons in April 1917 alone -- a tactical triumph that brought America into the war and guaranteed Germany's defeat.
+- `INS-260409-D9A1` [high] A 5% one-time levy on a 7% per year portfolio is recovered in about 9 months of normal returns, smaller than typical market volatility.
 - `INS-260327-4DE8` [high] The Bolsheviks seized power with a tiny force by capturing Petrograd's key infrastructure — the telegraph office, bridges, railway stations, and banks — rather than fighting the entire city.
 - `INS-260327-F84E` [high] Russia's quest for warm-water ports has driven its foreign policy from Peter the Great to Putin — the geographic constraint persists regardless of ideology or regime type.
 - `INS-260327-3D4D` [high] Belisarius defended Rome against 50,000 Goths with 5,000 men by launching constant sorties that kept the Goths off balance and unable to press their numerical advantage.
@@ -43,6 +44,7 @@
 - `INS-260330-A2D4` [high] China can destroy North Korea economically or militarily but cannot meaningfully steer it because using blunt tools would destabilize the buffer it needs.
 - `INS-260327-2B44` [high] New construction is near record highs but almost entirely luxury apartments and McMansions, creating hundreds of thousands of empty high-end units alongside a 4-million-unit affordable housing shortage.
 - `INS-260327-F3F0` [high] Napoleon's Italian campaign funded itself through war indemnities and looting — each victory paid for the next advance, removing dependence on the cash-strapped French government.
+- `INS-260409-755C` [high] Massachusetts passed a millionaire tax in 2022 and the number of millionaires grew ~40% over the next two years, the opposite of the predicted exodus.
 - `INS-260327-B064` [high] 92% of Americans depend on cars for daily life because of car-centric infrastructure, but cars have become so expensive that responsible ownership is beyond reach for growing millions.
 - `INS-260327-AC1B` [high] The Mongol invasion devastated Russia's established cities but created the vacuum in which Moscow — a previously insignificant town — rose to dominate by collaborating with the Mongols as tax collectors.
 - `INS-260403-4B3D` [high] The Fed's pattern of letting bubbles inflate then responding with emergency measures has escalated intervention scale at each crisis.
@@ -72,6 +74,7 @@
 - `INS-260327-2356` [high] Alexander's army conquered from Greece to India but grew increasingly mutinous the further they marched from home — his own soldiers eventually refused to go further.
 - `INS-260405-5EB2` [high] Peak-consensus forecasts of national rise historically coincide with the onset of structural decline.
 - `INS-260327-CE05` [high] When 69% of GDP comes from consumer spending and that spending is increasingly debt-funded, GDP growth measures debt accumulation rather than genuine economic health.
+- `INS-260409-9D83` [high] When billionaires consume <1% of their wealth annually and workers consume ~100% of their income, any consumption tax is mechanically regressive no matter how 'flat' it looks.
 - `INS-260327-37E3` [high] The Bolsheviks held Russia's central industrial heartland with its railway hub, allowing them to shift forces rapidly between fronts while White armies on the periphery couldn't communicate or coordinate.
 - `INS-260327-B65A` [high] Blackbeard operated in the gaps between colonial jurisdictions — British, French, Spanish waters — where no single navy had clear authority to pursue him.
 - `INS-260327-C4AD` [high] Suez didn't transfer power from Britain to America — it publicly revealed a transfer that had already happened, making it permanent and irreversible.
@@ -254,6 +257,7 @@
 - `INS-260321-347D` [high] Private credit defaults reached 9.2% (Fitch) while funds gated redemptions at 5-14%, trapping investors — the retail expansion via 401k access amplifies panic.
 - `INS-260321-C6C0` [high] Post-2008 regulations pushed risky lending from regulated banks to private credit — a $2T opaque market with higher fees, less oversight, and now rising defaults.
 - `INS-260327-4294` [high] Apollo was cancelled not because it failed but because the Soviet space threat diminished — once the geopolitical competition ended, the political will to fund the program evaporated.
+- `INS-260409-E421` [high] Income taxes are the wrong instrument for taxing billionaires because founders take $1 salaries and hold appreciating unsold stock.
 - `INS-260327-719D` [high] Napoleon won at Borodino but lost 30,000+ men without destroying the Russian army — a tactical victory that was strategically catastrophic.
 - `INS-260327-65F4` [high] Justinian's reconquest of the Western Roman Empire bankrupted Byzantium — the wars in Italy and Africa cost far more than the conquered territories ever returned in revenue.
 - `INS-260325-3C17` [high] After the Bronze Age collapse, it took 400 years to rebuild comparable Mediterranean trade networks.
@@ -385,6 +389,8 @@
 - `INS-260403-6E7C` [medium] The U.S. benefits from a trust premium built over decades that could evaporate far faster than it was accumulated.
 - `INS-260327-1F4A` [medium] Markets had priced in perpetual regulatory leniency toward monopolies, making the Google ruling a wake-up call for every trillion-dollar company.
 - `INS-260405-59AB` [medium] Autocrats tend to become more paranoid and destructive over time, turning concentrated power into a systemic liability.
+- `INS-260409-C6BB` [medium] Jensen Huang of Nvidia — subject to the California wealth tax — said he 'hadn't thought about it even once' because the talent pool is what matters.
+- `INS-260409-DBAE` [medium] Around 50 of California's ~200 billionaires have funded Gavin Newsom's campaigns, and his public opposition to the wealth tax now protects their interests without any explicit quid pro quo.
 - `INS-260327-AB46` [medium] When billionaires move to Florida the narrative focuses on zero state income tax, but lifestyle, climate, and business networks drive most relocation decisions.
 - `INS-260327-A4D1` [medium] Half of Florida's top 10 billionaires now live in South Florida, creating a geographic concentration of wealth and political influence unprecedented in American history.
 - `INS-260329-A4CA` [medium] Bond markets drive political decisions faster than traditional diplomacy in the current environment
@@ -410,6 +416,7 @@
 - `INS-260323-5B36` [medium] El-Kurd's campaign succeeded globally because it finally matched visual imagery to rhetoric, making the power asymmetry undeniable to international observers.
 - `INS-260402-5C89` [medium] Near-zero marginal cost energy via solar and storage removes resource scarcity as the fundamental driver of international conflict, unlocking a massive peace dividend.
 - `INS-260327-0048` [medium] Napoleon's Egyptian expedition was a military failure but the 160 scientists he brought produced the Description de l'Egypte, founding modern Egyptology and the Rosetta Stone discovery.
+- `INS-260409-900D` [medium] The California wealth-tax campaign gained traction specifically because a 2025 federal bill cut ~$100B from state Medicaid over five years while delivering comparable gains to billionaires.
 - `INS-260327-3FC7` [medium] Austria sent five separate relief armies to break Napoleon's siege of Mantua — each failed, but each forced Napoleon to divert forces and attention from the siege.
 - `INS-260403-F061` [medium] The Gramm-Leach-Bliley Act of 1999 repealed Glass-Steagall separations, directly enabling the risk concentration that produced the 2008 crisis.
 - `INS-260327-E4A1` [medium] HMS Victory was enormously expensive to build and maintain but as Nelson's flagship at Trafalgar, it became a symbol of British naval power that generated value far beyond its material contribution.
@@ -418,6 +425,7 @@
 - `INS-260403-DF45` [medium] Technology isolation can cause a rival's ecosystem to optimize for a smaller domestic market, permanently limiting its global competitiveness.
 - `INS-260403-A2FE` [medium] Total protectionism against Chinese EVs risks isolating the US auto industry from the global EV transition, cutting off export markets and stalling critical technology development.
 - `INS-260403-8E25` [medium] The U.S. leads in space with launch sites, talent, capital markets, and reusable launch technology, but history shows every transportation era's early winner eventually faces challengers who close the gap.
+- `INS-260409-EF00` [medium] California's wealth-tax proposal covers any billionaire who was a resident as of January 1st this year, so moving out afterward does not escape the tax.
 - `INS-260405-6EE5` [medium] Gulf investors are becoming structurally active in European pre-seed and early-stage deals, diversifying the European funding ecosystem beyond traditional US and local capital.
 - `INS-260327-1A9C` [medium] Rome's symbolic importance forced the Goths to commit their entire army to besiege it for over a year, while Belisarius needed only a small garrison to tie down 50,000 troops.
 - `INS-260327-70EF` [medium] Napoleon created many marshals for political reasons — rewarding loyalty, balancing factions — which diluted the rank and made it unreliable as an indicator of capability.
@@ -486,6 +494,8 @@
 - `INS-260330-01D5` [medium] Government dependence on land revenue creates existential incentives to suppress price discovery, allowing vacancy rates to climb far beyond what free markets would tolerate.
 - `INS-260327-8AF8` [medium] France had hundreds of thousands of troops in Spain but could never concentrate enough in one place because guerrilla warfare forced them to garrison everywhere.
 - `INS-260321-D4D0` [medium] The Iran operation isn't about religion or revenge — it's about clearing the physical obstacle blocking a logistics highway. International politics is leaders playing Go with a map; military power, resource control, and money are stronger than ideology.
+- `INS-260409-49EF` [medium] California's proposal includes deferred-payment provisions letting startup founders delay wealth-tax payment until after IPO, defusing the 'forced sale' objection.
+- `INS-260409-1210` [medium] Massachusetts' millionaire tax survives because voters see free breakfast, free community college, and better transit — a broad beneficiary constituency offsets the concentrated opposition.
 - `INS-260403-1B00` [medium] Xi has purged his entire military leadership including his closest ally and China's last combat-experienced general, suggesting internal crisis rather than war preparation.
 - `INS-260403-7285` [medium] Xi entering a 'lion in winter' paranoia phase may reduce Taiwan invasion risk but make China's domestic policy more erratic.
 - `INS-260403-1F97` [medium] Russian crude sellers are again requesting yuan payment from Indian refiners, driven by sanctions pressure rather than ideological de-dollarization.

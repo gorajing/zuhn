@@ -47,12 +47,11 @@ stance: >-
   systems where colleagues rate each other on a simple scale produce better
   accountability with less organizational overhead.
 related:
-  - INS-260323-6C84
   - INS-260322-5650
   - INS-260404-45BB
+  - INS-260409-C016
   - PRI-260405-0AC6
   - PRI-260405-64B2
-  - INS-260322-3646
 evidence:
   - id: INS-260325-FDB3
     type: TRANSFERS_TO

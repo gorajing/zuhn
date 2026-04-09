@@ -45,7 +45,6 @@ stance: >-
   If you cannot compress your startup into a single memorable phrase, the
   problem is not your communication skill but your strategic focus.
 related:
-  - INS-260329-560D
   - INS-260403-EF30
   - INS-260404-C2BC
   - INS-260404-3C46

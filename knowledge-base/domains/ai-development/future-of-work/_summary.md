@@ -1,6 +1,6 @@
 # Topic: future-of-work
 
-> 77 insights
+> 81 insights
 
 - `INS-260320-A745` [very_high] Anthropic's own studies show AI deskilling in coding is real, but depends on HOW you use models — some usage patterns cause skill degradation, some don't.
 - `INS-260321-9824` [very_high] Tao's papers now have more code, more plots, deeper literature searches — but the core mathematical work (pen and paper for the hardest part) hasn't been accelerated. AI enriches output without deepening it.
@@ -18,6 +18,7 @@
 - `INS-260327-C962` [high] Running AI for millions of daily users will consume far more compute than training the models themselves.
 - `INS-260405-FCBE` [high] AI automates volume in sales, making precision the only remaining differentiator.
 - `INS-260404-6BD6` [high] AI agents are moving beyond task-level automation to reshape how entire workforces are structured.
+- `INS-260409-53F7` [high] AI is both genuinely automating some jobs and serving as convenient executive cover for layoffs, and the new jobs it creates barbell between high-skill orchestration and dehumanizing data annotation.
 - `INS-260403-F0EE` [high] Individual AI productivity gains are real but haven't conclusively appeared in aggregate statistics yet, making macro claims premature.
 - `INS-260321-4178` [high] AI doesn't just automate procedures — it automates judgment calls. The person who deeply understands insurance underwriting and can talk an AI into building a tool is now more dangerous than the engineer who can build anything but doesn't know what to build.
 - `INS-260325-DA83` [high] Harvard/MIT research at BCG shows top performers got much better with AI while lower performers got worse — the 'selective upgrade puzzle.'
@@ -73,9 +74,12 @@
 - `INS-260330-819E` [medium] Learn-to-code initiatives serve institutional goals (tax revenue, labor supply) more than the individual learners they claim to help.
 - `INS-260329-A862` [medium] Programming is becoming a universal skill stratified by depth, just as reading ranges from functional literacy to literary criticism.
 - `INS-260325-2069` [medium] The unemployed won't be biologists and chemists but biologists and chemists who don't use quantum computers -- the hammer doesn't replace the carpenter, it amplifies them.
+- `INS-260409-4719` [medium] When intelligence costs go to zero, humans get paid for taking risk — the one thing machines cannot perform on your behalf.
 - `INS-260405-0E77` [medium] AI collapses the historical separation between software budgets and labor budgets by doing the whole job, not just tooling it.
 - `INS-260403-7D1D` [medium] Software engineering's vulnerability to AI reveals it was always more routine cognitive work than the creative profession engineers believed it to be.
 - `INS-260405-B204` [medium] Slow job growth plus fast productivity growth looks like automation displacement, but may actually reflect a capital investment cycle.
 - `INS-260403-6691` [medium] The pandemic proved many coordination-heavy roles only existed because of physical office culture, not because they produced real output.
+- `INS-260409-9EE8` [medium] Past tech waves rewarded better swimmers — AI turns the water to gas, and even the best swimmer can't flap their way through air.
+- `INS-260409-A180` [medium] Hassabis softly rejects Marc Andreessen's 'history always repeats' view — AGI at 10x Industrial Revolution speed may exceed the economy's capacity to create replacement jobs.
 - `INS-260403-DED4` [medium] The economics of software will shift from 'AI writes, humans review' to fully autonomous AI development as quality improvements make human oversight cost-prohibitive.
 - `INS-260405-18C8` [low] Like steam engines making coal cheaper and thereby increasing total coal consumption, AI lowering the cost of knowledge work will likely expand total demand for that work.

@@ -58,9 +58,9 @@ related:
   - INS-260329-D38D
   - INS-260403-59F0
   - INS-260403-49FB
+  - INS-260409-D465
   - PRI-260406-7E0C
   - PRI-260328-21AD
-  - INS-260328-988F
 ---
 The VC target return range of 25-40% is the discount rate applied when working backward from exit value to present-day valuation. This rate encodes multiple risk factors: earlier stages demand higher returns because more startups fail before Series A than after Series B, certain markets carry higher regulatory or competitive risk, and hot deals with multiple term sheets compress returns because VCs compete on price.
 

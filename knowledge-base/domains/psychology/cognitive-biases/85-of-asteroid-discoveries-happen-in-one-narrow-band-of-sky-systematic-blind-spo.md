@@ -52,11 +52,11 @@ stance: >-
   by improving the system's sensitivity, only by fundamentally changing the
   observation angle
 related:
-  - INS-260330-F6B5
   - INS-260330-1DCA
   - INS-260330-6C7F
+  - INS-260330-F6B5
+  - INS-260409-D603
   - INS-260330-4711
-  - INS-260330-14B1
 evidence:
   - id: INS-260330-F6B5
     type: TRANSFERS_TO

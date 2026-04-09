@@ -45,13 +45,14 @@ resolutions:
 related:
   - PRI-260328-4810
   - INS-260329-CB2C
-  - INS-260330-7C05
   - INS-260403-7CD3
   - INS-260404-5369
   - INS-260405-FD9D
   - INS-260329-22B6
-  - INS-260403-8B26
   - PRI-260406-901E
+  - INS-260403-8B26
+  - INS-260330-7C05
+  - INS-260409-6B22
 stance: >-
   Founder speed is not just about iteration velocity — it's a behavioral signal
   that predicts fundraising success, user acquisition, and survival.

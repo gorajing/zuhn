@@ -61,7 +61,6 @@ related:
   - INS-260323-DA1E
   - INS-260323-7345
   - INS-260330-137C
-  - INS-260330-DBA4
 stance: >-
   Dirac rejected the Klein-Gordon equation not because it was wrong in practice
   but because it was ugly in principle

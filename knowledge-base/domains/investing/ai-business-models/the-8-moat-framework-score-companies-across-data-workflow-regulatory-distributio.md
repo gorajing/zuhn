@@ -50,9 +50,9 @@ stance: >-
 related:
   - PRI-260406-E015
   - PRI-260406-435D
+  - INS-260409-F975
   - PRI-260406-9866
   - INS-260323-BC61
-  - INS-260404-D4E6
   - INS-260404-68EE
 evidence:
   - id: INS-260323-BC61

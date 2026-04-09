@@ -58,6 +58,7 @@ related:
   - PRI-260406-BE21
   - INS-260403-5D89
   - INS-260327-E07A
+  - INS-260409-278A
 ---
 Martin Casado's insight highlights a counterintuitive truth about category creation: when no established market exists, features are table stakes because buyers don't yet have reference points for comparison. What actually determines whether the business survives is how it prices and sells. Anchoring high establishes value perception, real sales motions generate pricing intelligence that surveys and focus groups cannot, and the go-to-market team must evolve from missionary sellers who evangelize the category to execution-focused teams who scale it.
 

@@ -35,12 +35,15 @@
 - `INS-260323-F9AC` Great achievers across history share one trait: they know their demons intimately and channel them into drive rather than letting those demons destroy them or pretending they don't exist.
 - `INS-260323-FFAC` Cox maintained the narrative that he was 'helping people get homes' through every escalation of fraud, only recognizing his self-deception years later in prison while writing an ethics course.
 - `INS-260323-95FE` Cox's first fraud (whiting out a late payment) didn't satisfy the urge — it emboldened him, rapidly escalating from minor document alteration to synthetic identities and $55M in fraud.
-- `INS-260403-5441` The biggest startup ideas trigger fear and identity threat, causing founders to unconsciously filter them out.
-- `INS-260330-C84C` If you want to raise $500k, tell investors you're raising $250k — hitting milestones faster creates FOMO.
 - `INS-260323-53FF` People who score high in financial avoidance save less, carry more high-interest debt, and have higher financial stress — saying 'I'm bad with numbers' is ego protection, not truth.
 - `INS-260329-1CB0` Extreme early frugality isn't about the savings — it's about escaping survival mode so you can think long-term and make strategic bets.
 - `INS-260323-4C71` Self-sabotage is your brain protecting your ego from perceived threats — the fix is identifying the hidden core need (trust, self-worth, acceptance) that is the opposite of your surface-level coping behavior.
 - `INS-260323-3A54` Atlas discovered that his anger and street violence came from emotional poverty despite material comfort -- being a doctor's son with a disjointed family taught him that deprivation of connection drives destructive behavior regardless of economic status.
+- `INS-260403-5441` The biggest startup ideas trigger fear and identity threat, causing founders to unconsciously filter them out.
+- `INS-260409-7C92` Buyers pay when they are thirstiest; lead magnets should intensify deprivation, not relieve it.
+- `INS-260409-2AF8` When prospects pay with time now, they are more likely to pay with money later.
+- `INS-260330-C84C` If you want to raise $500k, tell investors you're raising $250k — hitting milestones faster creates FOMO.
+- `INS-260409-1BFD` Availability friction raises perceived value; waiting lists create the FOMO that 'buy now' buttons destroy.
 - `INS-260323-4D5E` People decide based on what they care about first, then construct rational justifications — which makes reason itself an emotion-based process.
 - `INS-260327-5F94` The acute crisis gets adrenaline and support; the real challenge is the psychological rebuilding on day 60 that nobody talks about.
 - `INS-260329-0B1D` Label prospects with positive traits during objections so they later feel compelled to live up to those identities at close time.

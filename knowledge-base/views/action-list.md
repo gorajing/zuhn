@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-09 | 4451 actionable insights
+Generated on 2026-04-09 | 4565 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -22,6 +22,11 @@ Generated on 2026-04-09 | 4451 actionable insights
 - [INS-260403-D540] AI capability moves at research speed while economic adoption moves at institutional speed, and the gap between them is where fortunes are made.
 - [INS-260405-7838] In AI markets, how fast you deliver value matters more than how much value you eventually deliver.
 - [INS-260403-2A0F] Effective AI adoption measurement pairs leading indicators like power-user counts with lagging indicators like hours saved or PRs merged.
+- [INS-260409-8DDA] Despite massive latent AI value, ~95% of enterprise AI pilots fail because organizations don't know how to operationalize the technology — throwing AI 'over a wall' doesn't work.
+- [INS-260409-21E0] Becoming an architect rather than a mason in the AI era requires extreme environmental constraints to rewire patterns, not motivational self-talk, because the discipline gap is what separates the two groups.
+- [INS-260409-6C66] Allocate 20% of your time to automating yourself out of a job — if you don't, someone else will, and they'll capture the leverage.
+- [INS-260409-D012] Proficiency takes ~20 hours; people delay the first hour for decades because the cost of starting is visible and the cost of not starting is invisible.
+- [INS-260409-52CE] If your AI output is slop, you probably asked it to 'write good copy' instead of giving it 12 rules and 16 samples — the feedback loop is the same as training a junior employee, just 100x faster.
 
 ## ai-development/agent-patterns
 - [INS-260320-1B10] Have Claude review its own code via a specialized review agent — catches critical errors, missing implementations, and security flaws.
@@ -49,6 +54,9 @@ Generated on 2026-04-09 | 4451 actionable insights
 - [INS-260327-FDC1] Chase argues that file system access is a non-negotiable primitive for long-horizon agents because it enables critical context management strategies: storing summarized context for later retrieval, handling large tool results, and maintaining state across compaction boundaries.
 - [INS-260327-26BF] ChatGPT Agent unified deep research's text browser, operator's visual browser, and a terminal with shared file system, producing 1+1+1=5 capabilities because tools can pass state to each other.
 - [INS-260327-79E8] OpenAI trained ChatGPT Agent via RL across thousands of VMs, letting the model discover when to use text vs visual browsing rather than programming tool selection rules.
+- [INS-260409-7C62] CLAUDE.md teaches the agent how to traverse the vault — it is the retrieval system.
+- [INS-260409-5C6B] LLMs reliably catch contradictions, orphans, and gaps in a wiki because the work is global reading — tedious for humans, cheap for LLMs.
+- [INS-260409-95C8] Your questions reveal what matters; file the answers back as permanent wiki pages or lose that signal.
 
 ## ai-development/agents
 - [INS-260405-FE94] Coinbase's Agentic Wallets let AI agents hold funds, pay for APIs, and execute trades without human approval at each step.
@@ -126,6 +134,8 @@ Generated on 2026-04-09 | 4451 actionable insights
 - [INS-260408-B5EC] AlphaZero learns chess from random to better-than-world-champion in 16-17 self-play generations, no human data required.
 - [INS-260408-5BE5] Root node problems are the leaves whose solution unlocks an entire research tree — AlphaFold was one, fusion and room-temperature superconductors are next.
 - [INS-260408-F20F] Hassabis says even frontier labs can only explore a fraction of what their models enable, and the gap is widening as release schedules accelerate.
+- [INS-260409-5975] LLM self-verifiers that see the reasoning trace rubber-stamp it; hiding the trace and showing only the final claim forces a fresh evaluation.
+- [INS-260409-60C2] Search is easy to bolt on; heavy training to synthesize dozens of papers without drift is what actually stopped Aletheia from fabricating references.
 
 ## ai-development/ai-market-dynamics
 - [INS-260321-7C97] Software that makes you similar to everyone else (beta) will be replaced by AI/vibe-coding; software that expresses your competitive advantage (alpha) becomes more valuable.
@@ -159,6 +169,7 @@ Generated on 2026-04-09 | 4451 actionable insights
 - [INS-260403-BB5E] AI agents expand addressable market beyond software budgets into the 35x-larger labor budget pool.
 - [INS-260403-D3ED] DeepSeek's open-weight release at a fraction of US training costs signals that closed-source model pricing power is rapidly eroding.
 - [INS-260404-3D17] AI's highest-value opportunities are shifting from horizontal platforms to deep industry-specific solutions.
+- [INS-260409-FACE] Buyers are anchored to $2,000/month legacy prices that embed old labor costs — if you can deliver the same output for $50 using agents, you keep the spread until the market reprices.
 
 ## ai-development/alignment
 - [INS-260322-F65F] AI outputs sound so complete and reasonable that users may believe they have the full picture on controversial topics — deliberately seeking opposing viewpoints is essential to counteract this.
@@ -166,6 +177,7 @@ Generated on 2026-04-09 | 4451 actionable insights
 - [INS-260325-24D1] Truth is a rare, expensive type of information that sinks under floods of cheap fiction — more information without truth-seeking institutions makes things worse, not better.
 - [INS-260325-C5AA] Allowing open source models to flourish ensures no single company becomes a chokepoint for information access — this is the structural free speech safeguard for AI.
 - [INS-260325-9A0F] What makes institutions functional is not perfection but self-correction — elections, peer review, and amendment processes that identify and fix mistakes over time.
+- [INS-260409-42F2] Hassabis says the real safety crunch arrives in 1-2 years when systems become meaningfully agentic and autonomous.
 
 ## ai-development/architecture
 - [INS-260402-2D95] Libraries are reusable because they are language, not because they are object-oriented.
@@ -258,6 +270,9 @@ Generated on 2026-04-09 | 4451 actionable insights
 - [INS-260403-A2E9] As AI collapses implementation costs, the human role shifts from engine to editor-in-chief — the scarce skill becomes deciding what to build and evaluating quality, not writing code.
 - [INS-260403-DED4] The economics of software will shift from 'AI writes, humans review' to fully autonomous AI development as quality improvements make human oversight cost-prohibitive.
 - [INS-260408-3691] Hassabis to students: 'immerse myself in every tool available and become almost like superpowered' — the gap is creative application, not technical skill.
+
+## ai-development/governance
+- [INS-260409-B005] 80% of Americans want AI regulated — a rare civic consensus — and frontier labs are spending hundreds of millions to kill it; the organizing opening is real.
 
 ## ai-development/human-ai-relationship
 - [INS-260322-2B2D] Learning English to high fluency gives access to global opportunity systems, breaking dependence on any single country's constrained job market.
@@ -417,10 +432,13 @@ Generated on 2026-04-09 | 4451 actionable insights
 - [INS-260403-E706] A survey of 1,750 tech professionals shows product managers want AI for research and founders want it for ideation, revealing a major gap in strategic AI applications.
 - [INS-260403-F0AA] Recurring ChatGPT prompt patterns reveal unmet product needs that can be quickly converted into dedicated tools with built-in validated demand.
 - [INS-260403-3B8D] Anthropic proved that safety-first positioning creates enterprise value by making predictability the product, not the overhead.
+- [INS-260409-94D6] Don't ask 'should I hire an editor' — list the 6-10 things an editor actually does with their hands and ask which of those can become workflows.
+- [INS-260409-6236] Daily hands-on AI usage builds usable intuition that content consumption cannot replace.
 
 ## ai-development/productivity
 - [INS-260405-7C86] Focused, short demos change AI behavior faster than comprehensive theoretical treatments.
 - [INS-260405-10DF] Knowledge workers spend nearly two hours per week fixing low-quality AI outputs ('workslop'), creating a hidden productivity tax during the adoption dip.
+- [INS-260409-3AEE] Founders are now shipping in days what used to take engineer-months or years — Chamath vibe-coded a bookmark service he'd sat on for 15 years in one weekend, and his team doubled click-through rates via auto-research in a day.
 
 ## ai-development/prompting
 - [INS-260405-880C] Prompt engineering has an accumulating body of research-backed techniques that reward systematic study over ad-hoc experimentation.
@@ -429,6 +447,7 @@ Generated on 2026-04-09 | 4451 actionable insights
 - [INS-260408-F58E] Isomorphic's pipeline screens binding + cross-target toxicity in silico, then only validates the final candidates in the wet lab.
 - [INS-260408-76F4] Hassabis decided in a single meeting to fold all 200M proteins and release them free, because it took less effort than building the request server.
 - [INS-260408-C572] Foundation models are world models without the search/reasoning layer AlphaZero had; combining them is the next breakthrough, not bigger pretraining.
+- [INS-260409-E080] Generator-verifier loops are easy to describe and almost impossible to execute because the verifier must be protected from the generator's influence.
 
 ## ai-development/system-building
 - [INS-260320-4A82] Commit output specs to git so future agents and engineers see what was done, what failed, and what decisions were made.
@@ -501,9 +520,22 @@ Generated on 2026-04-09 | 4451 actionable insights
 - [INS-260403-F664] Production system prompts that run millions of times must be hardened and optimized like code, representing a distinct discipline from conversational prompting.
 - [INS-260320-63D3] Each implementation task was dispatched to a fresh subagent with exactly the context it needed — no accumulated confusion from previous tasks.
 - [INS-260323-9955] The principle of least action provides a single mathematical framework that generates all laws of physics — classical mechanics, relativity, electrodynamics — by simply writing down the correct Lagrangian.
+- [INS-260409-0EEE] Prototyping a basic LLM-wiki in Claude Code takes about an hour — the scarce resource is knowing what to build it for.
+- [INS-260409-CDCD] The only way humans build anything as complex as a CPU is by aggressively black-boxing working parts and refusing to reason about internals and externals simultaneously.
+- [INS-260409-5065] Ingest adds new material; query probes and adds explorations; lint finds contradictions, orphans, and gaps.
+- [INS-260409-430B] Explicit folder hierarchies pre-encode retrieval paths so the agent follows, rather than searches.
+- [INS-260409-D5BD] A single ingested source should ripple through 10-15 existing pages; if it only creates one new page, the system isn't compounding.
+- [INS-260409-0D87] Under ~thousands of documents, a markdown vault plus Claude Code matches vector RAG without embeddings.
+- [INS-260409-2D5C] Raw sources are read-only truth; the wiki is LLM-writable derivative; the schema is human-LLM co-evolved style guide.
+- [INS-260409-EA5A] A RAW intake folder preserves the human's curation intent before Claude Code compresses it into wikis.
+- [INS-260409-7162] Start with the simple vault; let scale failures force the cutover, don't pre-argue it.
+- [INS-260409-086A] Spawn a subagent per source during ingest so context pollution doesn't degrade later items in the queue.
 
 ## ai-development/systems-design
 - [INS-260404-C663] Components tuned for original conditions do not just underperform in new environments — they generate actively harmful outputs.
+
+## automation/ai-automation
+- [INS-260409-6AEB] Web Clipper plus Local Images Plus gives one-click ingestion with localized images.
 
 ## automation/content-creation
 - [INS-260320-D58E] An n8n workflow scrapes YouTube, Reddit, Twitter, and the web daily to identify content outliers and trending topics, then generates detailed content ideas with scripts, hooks, and storylines.
@@ -618,11 +650,15 @@ Generated on 2026-04-09 | 4451 actionable insights
 - [INS-260327-FB98] Myopia rates of 80-90% in East Asian youth under 20 and 40-50% in the US are driven by indoor living and screen use; spending time outdoors looking at long distances is the primary prevention.
 - [INS-260327-1C1B] Methylene blue bypasses parts of the electron transport chain, which helps broken mitochondria but reduces ATP in healthy ones; its MAOI effects confuse users into thinking they have more energy.
 - [INS-260327-6F94] Morning sunlight exposure within 30 minutes of waking sets circadian rhythm for the entire day
+- [INS-260409-2384] Mouse evidence is strong enough that expectant fathers should treat the pre-conception window as a health-optimization window — low-cost bet with potentially meaningful upside for the child.
 
 ## health/human-physiology
 - [INS-260330-E647] Neurons have extremely high metabolic rates, with the brain consuming about 25% of daily calories, making cognitive function the first casualty of energy deficits.
 - [INS-260330-5D64] Expressing daily verbal appreciation to a partner reduces their cortisol and cholesterol while boosting immune function — and produces the same benefits in the speaker.
 - [INS-260404-EE01] Stress is not the silent killer — lack of recovery from stress is.
+
+## health/longevity
+- [INS-260409-6B22] Sprint performance is a clean mitochondrial-capacity biomarker and sprinting itself is an underprescribed longevity protocol.
 
 ## health/nutrition
 - [INS-260325-3FD3] Burning feet is usually B1/B12 deficiency not permanent nerve damage — supplementation reverses it before nerves are destroyed.
@@ -810,6 +846,7 @@ Generated on 2026-04-09 | 4451 actionable insights
 - [INS-260327-D21C] Non-alcoholic fatty liver disease silently affects 25 percent of adults driven by fructose and seed oil consumption
 - [INS-260329-72EF] Put sauce on the underside of your utensil before each bite so it hits your tongue first, making a tiny amount of sauce feel like a generous portion.
 - [INS-260325-024F] Two researchers proved the vitamin D RDA should be approximately 8895 IU not 600 IU but the error persists due to institutional incentives.
+- [INS-260409-BB5E] Zinc, vitamin D3, and heme iron from liver are rate-limiting for follicle stem cell activation and hair protein synthesis.
 
 ## investing/ai-business-models
 - [INS-260322-5790] AI model input costs have declined 99%+ in two years (faster than Moore's law) while quality doubles every 7 months — meaning today's thin margins on AI apps will likely expand dramatically as long as model competition persists.
@@ -1044,6 +1081,11 @@ Generated on 2026-04-09 | 4451 actionable insights
 - [INS-260321-6D01] Puth's best work follows a two-phase pattern: solo marination where the song develops in his head, then collaboration where others refine and constrain his tendencies.
 - [INS-260321-9C2E] Charlie Puth's vast musical index becomes a liability without collaborators to constrain him — 'if you only know one sound, you'll use it, but too many options means you need someone to tell you to sit down.'
 
+## music-production/sound-design
+- [INS-260409-6656] Tools that save every render to disk by default convert experimentation into asset accumulation, eliminating the fear of losing a happy accident.
+- [INS-260409-4290] A parameter that sounds boring when static often becomes a full arrangement element once an automation curve runs through its range over the file's duration.
+- [INS-260409-DC8C] Poking at a tool from partial understanding produces happy accidents that full understanding would systematically avoid.
+
 ## music-production/synthesis
 - [INS-260320-77C2] Sample analog synth sounds (like Moog DFAM) into a digital sampler/sequencer (like Elektron Digitakt) to get warm analog timbre with precise digital sequencing and pattern control.
 
@@ -1064,6 +1106,7 @@ Generated on 2026-04-09 | 4451 actionable insights
 - [INS-260322-22D0] Learn your DAW's stock EQ, compression, synths, and spatial effects before buying any third-party plugins.
 - [INS-260323-9E30] Wilkenfeld prefers 'trust' over 'confidence' because confidence implies a fixed belief in your identity ('I am this thing'), while trust is simply knowing you can handle whatever comes -- a more open and collaborative state.
 - [INS-260322-0AA6] Getting volume levels right first makes every subsequent mixing decision (EQ, compression, spatial) easier and more effective.
+- [INS-260409-CB44] Separate the sound-design session from the composition session — farm samples first, then arrange in a different tool using only the harvested material.
 
 ## pets/dog-care
 - [INS-260320-8B06] Letting dogs make small choices -- which toy to play with, which direction to walk, whether to engage or rest -- builds confidence and reduces anxiety-driven behaviors.
@@ -1084,6 +1127,11 @@ Generated on 2026-04-09 | 4451 actionable insights
 - [INS-260404-FD88] When a goal seems impossible at scale, decomposing it to the smallest unit (one rep, one page, one call) circumvents the brain's overwhelm-triggered shutdown.
 - [INS-260404-9AEC] Willpower functions as a trainable meta-skill whose gains compound across personal and professional domains simultaneously.
 - [INS-260403-EC3D] Screen-sharing AI workflows in meetings and Slack creates viral adoption through social proof more effectively than formal training.
+- [INS-260409-0FA2] Cringe accusations are defensive status plays — interpret them as evidence your trajectory is threatening, not as aesthetic feedback.
+- [INS-260409-7171] Naming a desire triggers attention to its absence, so gap-awareness is the default failure mode of goal-setting.
+- [INS-260409-7632] Most people wait for results to grant permission for a new identity; the causal direction is actually reversed — identity must shift first and results follow.
+- [INS-260409-CE5F] Treat chronic fear as legacy survival code misfiring, not as a report about present reality.
+- [INS-260409-A1B2] Three-column exercise: write the emotions/thoughts/actions of your future self who achieved the goal, contrast with today's, then practice the future-self column as daily behavior.
 
 ## psychology/cognition
 - [INS-260330-8045] Every nervous system action follows a three-stage pipeline: sense the environment, integrate meaning, then execute a motor response.
@@ -1253,6 +1301,7 @@ Generated on 2026-04-09 | 4451 actionable insights
 - [INS-260404-F366] Correcting a malicious streetlight looks like directional overclaiming, and correcting directional overclaiming looks like streetlighting — trapping good-faith actors.
 - [INS-260404-36F1] Technically accurate quotes stripped of context can produce a more misleading picture than outright fabrication.
 - [INS-260404-D45D] Introverts should leverage written content as their primary vehicle for demonstrating expertise rather than competing in verbal-dominant settings.
+- [INS-260409-D6D8] Write your story long-form — prose forces the discipline that speech and slides let you skip.
 
 ## psychology/consciousness
 - [INS-260323-3C7F] Rosolie's real-time recognition of 'Am I entering a one-way door?' during the tribal encounter demonstrates how framing a situation's reversibility sharpens survival decisions.
@@ -1279,6 +1328,7 @@ Generated on 2026-04-09 | 4451 actionable insights
 - [INS-260330-43C9] Psychedelic outcomes are uniquely shaped by environmental context — warm, prepared settings produce more meaningful experiences.
 - [INS-260330-3748] The profound intimacy and vulnerability of psychedelic therapy demands stricter clinical boundaries, not looser ones — including resisting the guru complex of filling in meaning for patients.
 - [INS-260405-E6F5] Observation is itself a mode of disengagement — watching a thought changes the observer's relationship to it, accelerating its passing.
+- [INS-260409-FCF1] The experiment is cheap, reversible, and requires no belief — look for the self that is currently reading this, and see what happens when you can't locate it.
 
 ## psychology/decision-making
 - [INS-260330-7987] In crisis, making one small correct decision at a time toward safety beats trying to solve the whole problem at once.
@@ -1335,6 +1385,7 @@ Generated on 2026-04-09 | 4451 actionable insights
 - [INS-260403-B26E] If your opponent lobbies against your strategy while claiming it helps them, their lobbying reveals the strategy is working.
 - [INS-260403-CB80] Recording confidence ratings at decision time and comparing to outcomes is a powerful metacognitive calibration tool.
 - [INS-260403-F9EE] Writing short essays forces you to form and articulate a point of view, which passive reading and watching cannot accomplish regardless of volume.
+- [INS-260409-53A1] 'Because' is a compliance trigger regardless of whether the reason makes sense.
 
 ## psychology/epistemics
 - [INS-260405-2B3F] Treating survey non-response as randomly missing data produces systematically wrong estimates whenever the stigmatized view is also the under-reported one.
@@ -1370,6 +1421,8 @@ Generated on 2026-04-09 | 4451 actionable insights
 - [INS-260403-C428] Deliberately downgrading the perceived status of your work ('just a sketch') disarms perfectionism and lets you start.
 - [INS-260404-4666] Studying the embarrassingly rough early work of great creators teaches you to judge your own early efforts more accurately.
 - [INS-260403-D75D] Studying the humble origins of great work trains you to see early efforts for what they actually are rather than dismissing them.
+- [INS-260409-065B] Creativity and relationship-building are what AI can't replicate — hire for both, most firms don't.
+- [INS-260409-93EC] Benchmark your chapter 1 against their chapter 1, not their chapter 1000 — comparing endpoints generates fake despair.
 
 ## psychology/focus
 - [INS-260322-6042] Delay checking email, social media, and other non-essential inputs for as long as possible each day because once you let them in, they occupy mental bandwidth permanently until your next reset.
@@ -1500,6 +1553,8 @@ Generated on 2026-04-09 | 4451 actionable insights
 - [INS-260329-03B5] Malan deliberately introduces bugs in live demos and normalizes debugging as the primary activity, which removes the perfectionism barrier that stops beginners from writing their first line of code.
 - [INS-260329-70D5] CS50 uses Scratch (visual blocks) in week 0 to give students immediate creative success before introducing C's syntactic overhead, leveraging early wins to fuel persistence.
 - [INS-260329-D48B] The write-run-see-error-fix cycle in programming provides the fastest possible feedback loop for learning systematic thinking.
+- [INS-260409-32D4] Internal state functions as a perceptual filter — opportunities are literally visible in calm states and invisible in anxious ones.
+- [INS-260409-56E5] The ancient prescription for clarity (stillness, presence, silence) is actively opposed by the default modern attention environment.
 
 ## psychology/founder-mindset
 - [INS-260329-C36D] The real obstacle to your first customers is your discomfort with asking people you know to buy from you, not any external market condition.
@@ -1514,6 +1569,7 @@ Generated on 2026-04-09 | 4451 actionable insights
 - [INS-260403-E1E9] Replit CEO Amjad Masad's six lessons on winning emphasize that progress compounds through clarity and consistency, not through shortcuts or hype cycles.
 - [INS-260403-5E03] Guy Kawasaki argues optimism means believing in your ability to shape reality, not ignoring it — a mindset that compounds through team inspiration and opportunity attraction.
 - [INS-260329-8329] The core mental model shift for wealth creation is moving from 'how much per hour' to 'what percentage of value created can I capture.'
+- [INS-260409-7DB7] Document the struggle now — the shame you feel about early work is exactly what makes future-you want that record.
 
 ## psychology/founder-psychology
 - [INS-260329-1A64] When stuck on a decision, ask 'whose voice is telling me not to do this?' — naming the specific person strips the fear of its power.
@@ -1527,6 +1583,7 @@ Generated on 2026-04-09 | 4451 actionable insights
 - [INS-260405-7BA5] Every ambitious project looks bad early — the problem is not the work, it's the absence of calibrated judgment for unfinished things.
 - [INS-260403-9FEA] 42% of business owners experienced burnout recently, but the early warning signs are culturally celebrated rather than treated.
 - [INS-260405-68DC] Good engineers made into managers as a reward for engineering excellence reliably become bad managers — the role requires different skills, not more of the same.
+- [INS-260409-50C5] Fear of cringe is more costly than actual cringe — it blocks the first reps that mastery requires.
 
 ## psychology/group-dynamics
 - [INS-260330-FB9C] Adding unnecessary complexity (abstract factories, excessive type gymnastics) often functions as social dominance signaling rather than engineering improvement.
@@ -1557,6 +1614,7 @@ Generated on 2026-04-09 | 4451 actionable insights
 - [INS-260405-7B8D] Calling a project a 'sketch' isn't lowering your standards — it's applying the right standards for the stage.
 - [INS-260405-AAB7] Wanting to want the new behavior is a prerequisite for lasting habit change.
 - [INS-260405-EF0F] People grabbed newspapers and magazines at newsstands out of commuting habit — when smartphones replaced the commute ritual, the revenue vanished even though the content was still good.
+- [INS-260409-74B9] 'Never miss a dinner' is a higher-fidelity legacy signal than any single achievement, because it survives statistical averaging.
 
 ## psychology/learning
 - [INS-260329-656B] Use complete mini-projects rather than isolated exercises to teach technical concepts.
@@ -1739,6 +1797,7 @@ Generated on 2026-04-09 | 4451 actionable insights
 - [INS-260404-7604] Complex problems almost always have both 'chosen cost' and 'pure dysfunction' causes, and separating them improves analysis.
 - [INS-260403-6EA0] Thinking in specific causal chains rather than vague decline narratives is both more accurate and more psychologically sustainable.
 - [INS-260403-29C7] Kissinger chose Go over xiangqi not because it described China accurately, but because it made America respond the way he wanted.
+- [INS-260409-1AA0] One deliberate trip down the stack permanently changes how you reason about every layer above it — depth compounds.
 
 ## psychology/negotiation
 - [INS-260330-A954] When an investor says 'I want to invest but I don't lead,' translate to 'No, except yes if you become a hot deal.'
@@ -1862,6 +1921,9 @@ Generated on 2026-04-09 | 4451 actionable insights
 - [INS-260404-124F] Concrete metrics and specific examples generate trust in cold outreach far more than enthusiasm or passion statements.
 - [INS-260403-541C] Systematically research each stakeholder's incentives, decision process, and concerns before attempting to influence them.
 - [INS-260403-AE2C] One viral video of concrete harm shifts opinion more than years of theoretical warnings.
+- [INS-260409-3064] People comment to correct what they think is wrong, so contrarian framing is a reliable comment-rate multiplier.
+- [INS-260409-241B] Naming a specific cult-loved brand instead of a generic category gives viewers a pre-formed opinion to defend or attack in the comments.
+- [INS-260409-30DE] 'This is the best way to cook pasta' drives fewer comments than 'this pasta is better than every mom-and-pop pasta shop in the world'; intensity scales engagement.
 
 ## psychology/physics-intuition
 - [INS-260330-AE9C] Abstract proofs and concrete examples serve complementary roles: proofs guarantee generality, examples build understanding.
@@ -1924,6 +1986,8 @@ Generated on 2026-04-09 | 4451 actionable insights
 - [INS-260330-BBE7] Close friends share nearly 100% network overlap with you, so acquaintances are the real conduits to new opportunities.
 - [INS-260330-677A] John Gottman's four horsemen of relationship failure (criticism, contempt, defensiveness, stonewalling) map precisely to customer support anti-patterns that cause churn.
 - [INS-260404-E52F] Deep one-on-one connections compound into stronger professional networks than the shallow breadth generated by traditional networking events.
+- [INS-260409-E65B] Three unsolicited moves — compliment, congratulate, console — turn shallow contacts into durable allies because almost no one else bothers.
+- [INS-260409-7249] During grief, presence is the asset — 'you don't call, you show up' is a costly signal that cannot be faked by low-effort outreach.
 
 ## psychology/resilience
 - [INS-260323-099F] When a low-vibration emotion surfaces, locate it physically in your body and feel it for a few minutes rather than bypassing it — this diffuses the charge permanently.
@@ -2035,6 +2099,9 @@ Generated on 2026-04-09 | 4451 actionable insights
 - [INS-260403-8930] Ambitious work passes through an ugly phase where it looks worse than it is, and most people quit here rather than pushing through.
 - [INS-260404-56F8] Ambitious projects look embarrassingly bad early on, and most creators quit before pushing through this inevitable phase.
 - [INS-260330-9515] Willpower has bidirectional plasticity — it decays as fast as it builds, requiring daily renewal.
+- [INS-260409-F691] Start documenting purposefully at your lowest point — that's when commitment crystallizes and the 'never again' story begins.
+- [INS-260409-143A] Hustle-driven anxiety triggers fight/flight physiology which measurably reduces creativity and opportunity recognition — the opposite of what the pursuit requires.
+- [INS-260409-B521] To get good you must be willing to be bad for a very long time — ego protection prevents the iteration that produces skill.
 
 ## psychology/skill-development
 - [INS-260405-874D] Autonomy in work is a one-way door: once crossed, the cage of a managed job becomes visible and unbearable.
@@ -2056,6 +2123,8 @@ Generated on 2026-04-09 | 4451 actionable insights
 - [INS-260403-9491] The highest-value AI business model sells completed work rather than tools to do the work.
 - [INS-260403-401F] AI companies need usage-based pricing that kicks in fast because generous free tiers burn cash at a rate that SaaS free tiers never did.
 - [INS-260404-63F0] 75% of YC's latest batch focusing on AI suggests dangerous herd behavior that will produce many undifferentiated startups competing for the same markets.
+- [INS-260409-D491] BYOA — one operator with trained agents replaces an entire department and captures a fraction of the saved salary cost; Anthropic's one-person marketing team is the template.
+- [INS-260409-492F] The profitable opportunity in AI is the gap between when something can be automated and when consumers actually change their habits, which runs for years.
 
 ## startups/bootstrapping
 - [INS-260320-39A3] Shelter your team and family from acquisition signal-to-noise until the wire hits — deals fall apart in the last week, and premature sharing creates damaging anxiety.
@@ -2505,10 +2574,16 @@ Generated on 2026-04-09 | 4451 actionable insights
 - [INS-260403-4F8D] VCs increasingly use newsletters to build personal brands and attract quality deal flow by establishing trust with founders before they pitch.
 - [INS-260403-45DB] Durable content growth comes from word of mouth driven by consistently high-quality output, not paid acquisition channels.
 - [INS-260405-0810] More than half of Google searches end without a click, and AI accelerates this trend — meaning brand presence in the answer is worth more than the click itself.
+- [INS-260409-01E7] Write for the buyer and the broadcaster in the same post — the broadcaster gives you reach, the buyer gives you revenue.
+- [INS-260409-B213] The right cadence is the one you'll still hit in year three — optimize for survival, not intensity.
+- [INS-260409-2EF3] Teach the problem, not the product — the product then appears as the obvious answer the reader already wanted.
+- [INS-260409-DEF4] Creators should now treat content production as dual-audience — humans and LLMs — with shorts for how-to volume and long-form written for depth that gets cited.
 
 ## startups/customer-discovery
 - [INS-260405-A742] You cannot identify gains until you've mapped the expectation floor — everything below it is pain, everything at it is neutral.
 - [INS-260405-AACA] Embedding in customer environments converts the most resistant users into your biggest champions.
+- [INS-260409-78E1] Eight interviews is a feature, not a bug — convergence is your signal to stop talking and start shipping.
+- [INS-260409-655B] Expert users know what is missing because they have a complete workflow mental model — mass-market users do not.
 
 ## startups/decision-making
 - [INS-260405-809E] Updating predictions to match outcomes after the fact eliminates any information the prediction contained and corrupts future calibration.
@@ -2758,6 +2833,15 @@ Generated on 2026-04-09 | 4451 actionable insights
 - [INS-260329-24CE] Maker time protection evolves through three stages: stolen hours, half-day splits, then entire dedicated maker days as your business scales.
 - [INS-260403-2B50] Only a fully linked three-statement model (income, balance sheet, cash flow) reveals the true cash position of a startup.
 - [INS-260403-2774] Founders who activate every credit program they qualify for drown their teams in context switching, turning free tools into a net productivity loss.
+- [INS-260409-885E] The complete formula for making it is start, take feedback to get better, and never stop — most failure is skipping one of these.
+- [INS-260409-05AC] If you're dead anyway, do the thing that's too scary to try — your current tactics are what produced the zombie state.
+- [INS-260409-2A8A] When MVPs take a day, the bottleneck is no longer building — it is learning fast from the market.
+- [INS-260409-22CD] Perfection is impossible when the capability ceiling moves every month — optimize for adaptation, not polish.
+- [INS-260409-1A44] You have permission to shrink the team before pivoting — the ship is going down and directors who aren't helping aren't helping.
+- [INS-260409-D947] Treat the zombie like pre-PMF — nothing is sacred, and the AB-tested local maximum is still a bad onboarding flow.
+
+## startups/exits
+- [INS-260409-143C] Give yourself two months to try for acquisition, then shut down — no time frame means no exit.
 
 ## startups/financial-planning
 - [INS-260405-E155] In hybrid hardware+SaaS models, blended margin is the single metric most likely to hide a fatal business problem.
@@ -2949,6 +3033,12 @@ Generated on 2026-04-09 | 4451 actionable insights
 - [INS-260403-8004] A founder packing boxes at $50M revenue does more for culture than any all-hands talk about being scrappy.
 - [INS-260403-743D] Self-directed project history reveals intrinsic motivation and execution ability that grades cannot measure.
 - [INS-260403-5D99] Repeat founders act on informed instinct and validate later, because they know the cost of analysis paralysis exceeds the cost of being wrong.
+- [INS-260409-C3B3] Out-caring competitors is the only high-leverage moat that isn't gated by scarcity — anyone can occupy that ranking.
+- [INS-260409-BA4E] Your newsfeed and peer group are in your control and determine whether you can execute in the AI era — deliberately switch them to optimism and action-orientation.
+- [INS-260409-7D27] Real entrepreneurs know the two years spent on a doomed project compound into skills for the next thing, so the 'why start if it'll be automated' objection exposes that you're not actually an entrepreneur.
+- [INS-260409-81CB] The most valuable AI insight for you personally is whichever side you're currently not considering — deliberately steelman the counter to your default position.
+- [INS-260409-5491] Restarting from zero is a three-stage framework — honest self-inventory, humility to do entry work, and nighttime curiosity about local opportunity — and ego is just insecurity that blocks all three stages.
+- [INS-260409-54AA] The people who stay detached from outcomes outperform the people who tie their identity to metrics because the detachment prevents the anxiety that degrades decision quality.
 
 ## startups/founder-psychology
 - [INS-260323-81F5] If you cannot imagine yourself working on this problem for 10 years, you will abandon it when the inevitable 2-3 year difficulty spike hits.
@@ -2991,6 +3081,10 @@ Generated on 2026-04-09 | 4451 actionable insights
 - [INS-260403-0992] The ratio of effort invested to progress generated is the clearest signal for whether a startup should continue or shut down.
 - [INS-260403-D417] Surrounding yourself with people who can distinguish ugly ducklings from bad ideas is critical for ambitious work.
 - [INS-260404-4D13] Surrounding yourself with people working on similarly ambitious projects creates a local counter-current against the social headwind of skepticism.
+- [INS-260409-8A36] Strong conviction in a wrong direction beats hedged drift; founders who hedge across five bets have already lost their team.
+- [INS-260409-A55C] The reward for shutting down a zombie is not an exit — it's getting your life back to do something that compounds.
+- [INS-260409-FCE1] Founders owe their employees and investors honest effort, not a successful outcome; the expected outcome was never winning.
+- [INS-260409-3CCA] Writing the story doesn't feel like work, so founders skip the most important part of the job.
 
 ## startups/fundraising
 - [INS-260322-A02C] At pre-seed and seed stage, investors and early customers are betting on the founder's story and character, not the product.
@@ -3329,6 +3423,7 @@ Generated on 2026-04-09 | 4451 actionable insights
 - [INS-260405-7E50] Narrative structure should be locked before any design work begins on a pitch deck.
 - [INS-260404-2A95] YC's SAFE contains provisions that many founders don't fully understand, creating hidden advantages for investors.
 - [INS-260403-BAE1] YC's evolution toward consensus-friendly prompts risks creating a 'Consensus Capital Machine' where founders chase trends instead of pursuing conviction-driven missions.
+- [INS-260409-3B53] Pitch the argument that convinces YOU to join — 'what does Ben want to hear' is unknowable and gets you talked out of your idea.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.
@@ -3507,6 +3602,12 @@ Generated on 2026-04-09 | 4451 actionable insights
 - [INS-260403-4D04] Digital content creates awareness, but traditional media like TV and books creates credibility that compounds over time.
 - [INS-260403-0F72] Low prices attract price-sensitive users who churn fast and consume disproportionate support — raising prices filters for better customers.
 - [INS-260403-A08A] Ask potential buyers four questions about price perception — too cheap, getting expensive, too expensive, and bargain — to find your data-backed pricing window.
+- [INS-260409-B892] AI product distribution is an X-first cascade — small community buzz, news accounts, creator content, then scale.
+- [INS-260409-FC9A] Name and package the lead magnet before polishing its content — the wrapper moves the needle far more.
+- [INS-260409-BD67] Direct purchase CTAs only convert informed audiences; cold traffic needs a mini-offer as a halfway step.
+- [INS-260409-1298] Pick the platform where your buyers are dense and competing voices are sparse, not the one with the most users.
+- [INS-260409-7C92] Buyers pay when they are thirstiest; lead magnets should intensify deprivation, not relieve it.
+- [INS-260409-2AF8] When prospects pay with time now, they are more likely to pay with money later.
 
 ## startups/growth-strategy
 - [INS-260322-70DD] Stop hiring for the business you used to be — at $30-50M revenue you need a CFO not a bookkeeper, and the founder becomes the ceiling when every function must pass through them.
@@ -3681,6 +3782,7 @@ Generated on 2026-04-09 | 4451 actionable insights
 - [INS-260404-9E63] Switch from listing reasons an idea won't work to imagining ways it could — especially in domains with power-law outcome distributions.
 - [INS-260329-ABD9] Find ideas others have discarded rather than trying to discover something nobody has ever considered.
 - [INS-260403-96F9] Like a brainless virus that outpaces scientists through sheer mutation speed, startups find PMF by running many cheap experiments faster than competitors can think.
+- [INS-260409-3FC6] Don't brainstorm ideas — attempt something hard, discover where no solution exists, solve that.
 
 ## startups/innovation
 - [INS-260403-CACE] The best thing a university can do for startups is be an excellent research institution, not run entrepreneurship programs.
@@ -3904,9 +4006,12 @@ Generated on 2026-04-09 | 4451 actionable insights
 - [INS-260404-B208] Nearly 10% of YC W26 builds in healthcare and 4% in legal tech, targeting regulatory complexity as a feature rather than a bug for AI-native defensibility.
 - [INS-260404-77CD] Stealth startups face asymmetric timing risk where the exit window is narrower than traditional launches because they lack the ongoing market signal correction that public startups receive.
 - [INS-260403-0303] US buyers expect top-down pitches, speed, ROI proof, and American reference customers—none of which transfer from European consensus-driven sales cycles.
+- [INS-260409-FA8F] Build the audience before the product; launch then becomes harvesting, not prospecting.
 
 ## startups/marketing
 - [INS-260405-F456] PostHog's genuinely useful company blog—covering topics like CEO communication, first 1,000 users, and startup sales—is cited as a model for content marketing.
+- [INS-260409-1BFD] Availability friction raises perceived value; waiting lists create the FOMO that 'buy now' buttons destroy.
+- [INS-260409-5FE5] Two loss frames beat one — 'limited seats' plus 'locked-in price forever' creates urgency that neither alone can match.
 
 ## startups/mental-models
 - [INS-260330-C0D1] If a system is linear, tracking what happens to a few basis cases lets you predict outcomes for all possible inputs.
@@ -3965,6 +4070,7 @@ Generated on 2026-04-09 | 4451 actionable insights
 - [INS-260405-45E0] PMF is the primary predictor of startup success because it confirms that value creation and capture are aligned.
 - [INS-260403-A70D] Measuring outcomes over outputs forces product teams to validate that shipped features actually change user behavior and create value.
 - [INS-260403-6C07] Solve the problem users have right now before expanding into the product you envision for the future.
+- [INS-260409-2A8D] Your only job is right product at right time — everything else is avoidance of that job.
 
 ## startups/product-development
 - [INS-260322-58B7] Ship the minimal core feature fast and let actual user feedback determine where the product goes next.
@@ -4074,6 +4180,7 @@ Generated on 2026-04-09 | 4451 actionable insights
 - [INS-260405-5E18] AI PMF is a continuous recalibration process, not a one-time validation milestone.
 - [INS-260405-839E] AI routinely surfaces more valuable use cases than the ones founders set out to solve.
 - [INS-260405-0E05] In early stage, the depth of user love is a better signal than any metric you can count.
+- [INS-260409-4EC0] Early-stage churn is an education problem, not a product problem — fix it with your time, not a roadmap.
 
 ## startups/product-strategy
 - [INS-260330-7168] Find the gap between incumbent solutions, build the best experience for that narrow slice, then expand to larger customers or more use cases over time.
@@ -4310,6 +4417,10 @@ Generated on 2026-04-09 | 4451 actionable insights
 - [INS-260404-6D22] A structured competitive sale reliably adds 1-2x ARR premium over bilateral negotiations, worth millions on even modest ARR bases.
 - [INS-260405-0060] Usage-based revenue doesn't accrue at contract signing, so compensating reps on TCV or ACV creates a structural misalignment — reps win, but the company may not.
 - [INS-260403-2814] Build a visual pain statement that communicates the prospect's challenge before describing your solution.
+- [INS-260409-57DB] Content gets you seen; email gets you paid — the handoff from one to the other is the core monetization move.
+- [INS-260409-07ED] Ten emails of pure education make the eleventh email's purchase link irresistible — asking for the sale earlier collapses trust.
+- [INS-260409-526E] Real capacity limits are hidden scarcity assets — make them visible instead of fabricating artificial urgency.
+- [INS-260409-EF0C] Put the founder on camera for 40 minutes; the face-to-face trust signal closes deals no landing page can match.
 
 ## startups/scaling
 - [INS-260322-7F88] At scale, your recruiting pipeline needs the same metrics-driven rigor as your customer pipeline: lead gen, nurture, conversion, onboarding, retention.
@@ -4489,6 +4600,7 @@ Generated on 2026-04-09 | 4451 actionable insights
 - [INS-260403-431E] Enterprise buyers are budgeting for logistics, compliance, and supply chain software that wasn't on their radar before tariffs created mandatory new spending categories.
 - [INS-260403-137D] Costco's $60 membership fee filters for households averaging ~$100K income, with business owners representing one-third of members but two-thirds of sales.
 - [INS-260403-6CB4] Use of Funds and valuation should be live outputs that update automatically as the operating plan changes, not hand-crafted presentation slides.
+- [INS-260409-229B] The story of the company IS the strategy — there is no separate secret strategy document.
 
 ## startups/team-building
 - [INS-260405-F378] Searching for a technical cofounder before validating demand is backwards — demand attracts technical talent.
@@ -4676,6 +4788,7 @@ Generated on 2026-04-09 | 4451 actionable insights
 - [INS-260403-ED64] Users building Frankenstein solutions from Zapier, Notion, and spreadsheets are proving demand with their behavior.
 - [INS-260403-F6EC] Metrics that don't connect to revenue, retention, or scalability harm credibility when presented to sophisticated investors.
 - [INS-260403-3739] Validating that customers will pay for a solution is a stricter and more predictive test than just confirming they have the problem.
+- [INS-260409-B73E] First paying customer in 30 days is the only validation test that cannot be faked.
 
 ## startups/venture-capital
 - [INS-260405-B01A] Deal mechanics and preference stacks can legally redirect all exit proceeds away from founders regardless of valuation.
@@ -4686,6 +4799,9 @@ Generated on 2026-04-09 | 4451 actionable insights
 
 ## video-production/audience-building
 - [INS-260403-E8E3] Veritasium's plan to sign and mail 10,000 shade balls to Patreon supporters turns a video prop into a tangible relationship artifact.
+
+## video-production/cinematography
+- [INS-260409-D170] Frames that show duct-taped wires, window frames, or the capsule interior next to the Earth outperform 'pure' astronomical shots because they give the viewer scale and a foothold.
 
 ## video-production/content-strategy
 - [INS-260320-10E8] Always clap once or use a clapboard at the start of each take -- the sharp transient creates a visible spike in both audio waveforms, making manual sync alignment trivial.
@@ -4703,3 +4819,15 @@ Generated on 2026-04-09 | 4451 actionable insights
 - [INS-260327-94E6] YouTube Shorts doesn't care about your niche, personality, or subscriber count — it only measures if viewers stay or swipe, making the first 3 seconds more important than everything else combined.
 - [INS-260327-62AB] Instagram told Andrews her reel was 'overperforming in follows' — but she measured success by conversation quality, which was poor, so it was a failure.
 - [INS-260323-527B] Smifter's video uses a ladder of progressively larger scale comparisons — Earth, Moon distance, Alpha Centauri, solar system, observable universe — to make incomprehensible numbers emotionally tangible.
+- [INS-260409-6ABF] The four-factor framework — relevance, non-obvious insight, high absorbability, short implementation distance — is a checklist for engagement-rate optimization.
+- [INS-260409-8750] Algorithms pick ~200 viewers as a fit-score sample test; that group's engagement is the single most leveraged lever in short-form distribution.
+- [INS-260409-661A] Lock the location and angle first, then add characters - reversing the order wastes credits.
+- [INS-260409-94F8] Consistent topic-avatar pairing is the only true compounding asset in short-form distribution because it sharpens the platform's fit-score model of your channel.
+- [INS-260409-FD8B] A viral hit to the wrong audience is algorithmically expensive because the platform re-targets your next videos toward those off-avatar viewers.
+- [INS-260409-2906] Reverse-engineer outlier videos in your niche instead of ideating from scratch — the data already tells you what works.
+
+## video-production/workflow
+- [INS-260409-FDB4] Lock characters with full sheets at the start; don't try to fix identity drift in post.
+- [INS-260409-533A] Chain end-frames to start-frames; let the image carry context the prompt cannot.
+- [INS-260409-1812] Generate many, select one - don't iterate prompts toward a single perfect shot.
+- [INS-260409-325B] Let Claude write the detailed prompt; you write the simple intent.

@@ -56,6 +56,7 @@ related:
   - INS-260329-CBF3
   - INS-260323-F853
   - INS-260403-66CA
+  - INS-260409-A55C
 ---
 The banker's objection to the Visionary's charity model crystallizes a pervasive cognitive bias: he distinguishes between people who actually helped him (none) and people who would counterfactually help him (many), treating only the former as deserving reciprocity. The Visionary's counterargument — that we judge attempted murderers the same as successful ones — exposes the inconsistency. We already accept that intent matters independent of outcome in criminal law, but refuse to apply the same logic to gratitude and reciprocity.
 

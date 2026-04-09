@@ -48,10 +48,10 @@ stance: >-
   are actively falling behind as the baseline competency level rises.
 related:
   - INS-260326-0AB4
+  - INS-260409-A2D9
   - INS-260402-E76D
   - INS-260403-5C89
   - INS-260329-C81C
-  - PRI-260406-D7C7
 ---
 Tobi Lütke's framing is precise: 'stagnation is slow-motion failure.' The professional landscape is not waiting for laggards to catch up. As AI tools raise the productivity ceiling for those who adopt them, the effective gap between adopters and non-adopters compounds over time. This is not primarily about job loss in the near term—it is about the widening delta in output quality, speed, and creative range between practitioners who integrate AI and those who do not.
 

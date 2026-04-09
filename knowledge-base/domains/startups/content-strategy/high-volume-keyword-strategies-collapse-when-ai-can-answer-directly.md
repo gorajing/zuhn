@@ -48,7 +48,6 @@ stance: >-
   Companies whose content strategy depends on ranking for generic informational
   queries will lose the majority of that traffic to AI-generated answers
 related:
-  - INS-260322-D7B1
   - INS-260330-629E
   - INS-260327-9DA6
   - INS-260403-FFF0

@@ -57,6 +57,7 @@ related:
   - PRI-260407-590E
   - INS-260403-1D92
   - INS-260402-8C42
+  - INS-260409-E44A
 ---
 The economics of software creation have fundamentally changed. Two engineers with the right model APIs and code-generation tools can now build products that previously required 20-person teams. This has caused a massive surge in software supply, especially among early-stage startups.
 

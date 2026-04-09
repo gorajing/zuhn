@@ -1,6 +1,6 @@
 # Topic: founder-mindset
 
-> 27 insights
+> 29 insights
 
 - `INS-260403-A739` [high] Karp maintained contrarian positions for 20 years while being called a failure, and that tolerance for ostracism was itself a competitive advantage.
 - `INS-260403-94C4` [high] In work where you must invent rather than choose, there is no ceiling that signals completion, so feeling perpetually unsatisfied is the normal state.
@@ -22,6 +22,7 @@
 - `INS-260329-F3F0` [medium] The differentiator for top performers is absence of distractions, not presence of special abilities.
 - `INS-260330-BA71` [medium] Champion-level performance correlates with intensity of drive rather than any particular personality archetype.
 - `INS-260403-FE8D` [medium] Stebbings observes that 90% of great founders show entrepreneurial behavior before age 13, and that gaming clan leadership is more predictive of startup success than college prestige.
+- `INS-260409-7DB7` [medium] Document the struggle now — the shame you feel about early work is exactly what makes future-you want that record.
 - `INS-260403-BCB1` [medium] Wozniak, Zuckerberg, and Gates didn't think they were starting companies — that mindset freed them to build what they actually wanted.
 - `INS-260404-B6B1` [medium] Taking full responsibility during a crisis isn't just virtuous — it functionally increases survival odds by keeping the founder in problem-solving mode rather than blame mode.
 - `INS-260330-B67C` [medium] Marx argued that classes become self-aware not through shared traits but through the struggle itself — conflict creates identity, not the other way around.
@@ -29,3 +30,4 @@
 - `INS-260403-1BEF` [medium] Feeling unseen as a founder usually means you've evolved faster than your environment has noticed — it's a growth signal, not a failure signal.
 - `INS-260403-3059` [medium] Constraints force founders to prioritize ruthlessly, while excess capital dulls urgency and enables avoidance of hard product decisions.
 - `INS-260403-5E03` [medium] Guy Kawasaki argues optimism means believing in your ability to shape reality, not ignoring it — a mindset that compounds through team inspiration and opportunity attraction.
+- `INS-260409-8487` [medium] Hate directed at people who care is projected self-contempt from people who haven't committed to anything.

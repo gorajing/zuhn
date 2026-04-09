@@ -53,6 +53,7 @@ related:
   - INS-260403-B635
   - INS-260404-C720
   - INS-260405-0E05
+  - INS-260409-30DE
 ---
 Graham presents a strategic choice every early startup faces: satisfy all the needs of a subset of users, or satisfy a subset of needs for all potential users. He advocates strongly for the first path, arguing that expanding your user base is mechanically easier than deepening satisfaction after the fact.
 

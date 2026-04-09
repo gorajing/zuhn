@@ -12,6 +12,7 @@
 - `INS-260330-0C1B` A 4:1 mechanical advantage means you pull with 1/4 the force but must pull 4x the distance — you never get something for nothing, only redistribute the cost.
 - `INS-260323-189B` Edgerton's single-frame strobe technique from the 1930s produces sharper images than a modern 20,000 FPS camera because it sacrifices all temporal resolution for maximum spatial resolution.
 - `INS-260329-59D2` Commitment means trading novelty for loyalty, exploration for trust, and the chase for a shared journey.
+- `INS-260409-FD8B` A viral hit to the wrong audience is algorithmically expensive because the platform re-targets your next videos toward those off-avatar viewers.
 - `INS-260403-410A` Easy-to-read individual lines multiplied by many more lines produces worse total readability than dense-but-fewer lines.
 - `INS-260402-B42C` A barbershop's locality limits its growth but also limits its competition to other local barbers — startups that remove such constraints face the whole world.
 - `INS-260329-3E28` Year 4 of your current business will almost always outperform year 1 of a new one — switching vehicles resets your compounding.

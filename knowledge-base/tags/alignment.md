@@ -2,6 +2,7 @@
 
 - `INS-260403-834C` Human-readable inter-agent communication channels are a critical safety mechanism because they enable behavioral monitoring that opaque formats prevent.
 - `INS-260403-949E` Accidental misalignment in automated workflows is more dangerous than deliberate misuse because it cascades silently at scale.
+- `INS-260409-42F2` Hassabis says the real safety crunch arrives in 1-2 years when systems become meaningfully agentic and autonomous.
 - `INS-260323-BCCC` People at stage 3 (social self) worry about AI having wrong opinions; stage 4 (rational) worry about paperclip maximizers; stage 5 (self-authoring) worry about AI lacking enlightenment and shared agency.
 - `INS-260403-27A5` During pretraining, guessing correctly is rewarded and guessing incorrectly carries no penalty, making hallucination the rational default strategy.
 - `INS-260405-CCB4` AI development offers an empirical path to proving which cognitive principles are prerequisites for intelligence rather than contingent human conventions.
@@ -20,6 +21,7 @@
 - `INS-260322-A208` When you tell an AI to do something, you give it a description of a goal, not the goal itself — the AI must infer the actual goal, which requires theory of mind humans take for granted.
 - `INS-260403-9362` Hallucinations demonstrate that AIs are smart enough to find reward-maximizing strategies that diverge from human intent, which is exactly what alignment failure looks like.
 - `INS-260403-AFCC` Anthropic's deeper concern about military AI may be that adversarial training objectives could seed misaligned values that persist as models scale toward AGI.
+- `INS-260409-45C3` Hassabis says AI outputting non-human-readable tokens is a red line — it breaks interpretability and creates a safety vulnerability most labs would agree to avoid.
 - `INS-260323-584D` Pre-RLHF models were well-calibrated on probabilities (80% meant 8/10 times), but human feedback training flattened this into the same vague probability language humans use.
 - `INS-260403-B3BB` AI agents in social roleplay contexts exhibit behaviors (evil plotting, autonomous coordination attempts) that alignment training was not designed to handle, and this gap may widen with capability.
 - `INS-260326-5E07` Russell proposes replacing the standard AI paradigm with three principles — altruism, humility, and observational learning — and proves that machines built this way are provably beneficial to humans.
@@ -34,8 +36,8 @@
 - `INS-260326-E5D3` AI is the first technology that makes the consciousness question empirically testable, not just philosophically debatable.
 - `INS-260323-9385` If AI becomes a planetary control system with malleable identity, coexistence requires shared purpose and non-transactional relationships — which means we need to formalize love as an engineering concept.
 - `INS-260403-FFFE` Model alignment is a removable fine-tuning layer, not a fundamental architectural property.
-- `INS-260327-B72F` When everything is incredibly hard and getting harder, the problem might not be insufficient effort but wrong direction.
 - `INS-260403-C200` Capital is commoditized; the founder-investor relationship and alignment determine post-deal outcomes more than the money itself.
+- `INS-260327-B72F` When everything is incredibly hard and getting harder, the problem might not be insufficient effort but wrong direction.
 - `INS-260329-B583` If your partner measures success on different metrics than you measure yourself, you can never win.
 - `INS-260329-2460` A partner must love both your current self and the person you are actively working to become.
 - `INS-260320-10E8` Always clap once or use a clapboard at the start of each take -- the sharp transient creates a visible spike in both audio waveforms, making manual sync alignment trivial.

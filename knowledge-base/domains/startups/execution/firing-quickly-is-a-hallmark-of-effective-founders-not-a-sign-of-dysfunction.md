@@ -50,11 +50,11 @@ stance: >-
   The speed and professionalism of employee termination is one of the clearest
   signals of founder maturity, and delay only compounds damage.
 related:
-  - INS-260330-36B4
   - INS-260330-687B
   - INS-260330-AB95
+  - INS-260330-36B4
   - INS-260330-8E3C
-  - INS-260325-0FED
+  - INS-260409-6C66
 ---
 YC frames firing as a founder rite of passage: 'You're not a real founder until you've had to fire somebody.' The difficulty stems from startups' intense social bonds — founders hire friends, former co-workers, or grow close to early employees. But letting a bad employee linger has only downside: good employees may quit, and business performance suffers.
 

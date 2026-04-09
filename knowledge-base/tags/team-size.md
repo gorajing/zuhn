@@ -2,6 +2,7 @@
 
 - `INS-260403-39CF` AI will reduce product team sizes by 25-50% (mainly fewer engineers) while PMs spend more time on discovery and go-to-market rather than building.
 - `INS-260330-883E` The extreme operational stress of running live server software can only be sustained by founders, giving startups a structural edge large companies cannot replicate by hiring.
+- `INS-260409-1A44` You have permission to shrink the team before pivoting — the ship is going down and directors who aren't helping aren't helping.
 - `INS-260403-78AD` Solo founders now start over a third of new startups as AI tools replace functions that previously required full teams.
 - `INS-260403-9F49` YC data shows founding team size correlates strongly with capital raised while educational background and brand-name employment explain little variance.
 - `INS-260403-0185` The best products come from small, opinionated teams — committees produce bureaucratic compromises.

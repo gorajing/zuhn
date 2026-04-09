@@ -1,9 +1,10 @@
 # Topic: decision-making
 
-> 119 insights
+> 121 insights
 
 - `INS-260404-A246` [high] Admitting you're bad at something is the first step to finding effective workarounds like delegation or systematic search.
 - `INS-260403-F03A` [high] Judge purchases by projected usage, not by the deal you got.
+- `INS-260409-53A1` [high] 'Because' is a compliance trigger regardless of whether the reason makes sense.
 - `INS-260330-148C` [high] What looks like a flaw mid-process (arrow flexing wildly) is often the exact mechanism enabling the correct result.
 - `INS-260330-08E1` [high] Getting a tattoo takes hours; removing one takes years of painful treatments — this reversal-cost asymmetry is a general pattern humans systematically underweight.
 - `INS-260403-70F0` [high] Baby bonuses work directionally but the effect size is so small that reaching replacement fertility through payments alone would cost astronomically more than any government would spend.
@@ -32,6 +33,7 @@
 - `INS-260330-2C57` [high] Agriculture was adopted through millions of small, locally rational choices that collectively created an irreversible civilizational transformation with massive unintended consequences.
 - `INS-260403-C313` [high] Even when you can prove the rational choice, emotional intuitions still dominate actual decisions.
 - `INS-260330-9931` [high] A few network-joining decisions create the gravitational field that shapes all subsequent daily choices.
+- `INS-260409-9412` [high] Earthrise happened because Bill Anders yelled for color film when he saw Earth coming up unscheduled; the Artemis eclipse happened because the crew chose to frame Venus into a dark shot.
 - `INS-260330-FD28` [high] Keeping a fixed reference point in chaos prevents the disorientation spiral that leads to fatal mistakes.
 - `INS-260403-5BF9` [high] Rollins credits his relentless work ethic to never forgetting the $8/hour ice cream shop he'd return to if he stopped hustling.
 - `INS-260404-7C3F` [high] Keeping your identity small — refusing to label yourself as an X or Y person — preserves your ability to think clearly across more domains.

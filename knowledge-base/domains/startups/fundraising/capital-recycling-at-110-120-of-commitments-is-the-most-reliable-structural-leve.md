@@ -57,6 +57,7 @@ related:
   - INS-260404-B496
   - PRI-260406-CC5E
   - INS-260404-A3CD
+  - INS-260409-D9A1
 ---
 Capital recycling — redeploying early liquidity from M&A, secondaries, or partial exits instead of immediately distributing to LPs — is one of the few tactics that mathematically guarantees both GP and LP interests converge. Thompson's analysis shows a $100M fund posting 3x gross that nets only 2.1x after fees can lift net returns to 2.4x+ through modest recycling. Top funds routinely recycle 110-120% of commitments, and Goodwin Law found nearly half of venture fund LPAs cap recycling at 120%.
 

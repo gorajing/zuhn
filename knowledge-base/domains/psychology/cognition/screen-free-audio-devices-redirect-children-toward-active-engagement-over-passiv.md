@@ -51,6 +51,7 @@ related:
   - INS-260405-6B96
   - INS-260327-E75F
   - INS-260403-F5EE
+  - INS-260409-6236
   - INS-260403-2AF0
 ---
 The observation that children using screen-free audio players spontaneously walk around dancing and engaging physically with music contrasts sharply with the stillness of screen-based consumption. This aligns with research on embodied cognition — that physical movement during learning and play strengthens neural connections and creativity.

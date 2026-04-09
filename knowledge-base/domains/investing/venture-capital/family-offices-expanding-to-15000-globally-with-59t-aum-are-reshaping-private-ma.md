@@ -46,8 +46,8 @@ stance: >-
 related:
   - INS-260324-4ACD
   - INS-260325-FADB
+  - INS-260409-5E94
   - INS-260327-DFF1
   - INS-260405-5755
-  - INS-260323-BD20
 ---
 The explosion of family offices from a handful to 15,000 globally represents one of the most significant structural changes in private capital markets. With $5.9T in assets, family offices collectively rival sovereign wealth funds in scale but operate with far more flexibility — no LP reporting requirements, no fund lifecycle constraints, and the ability to make quick decisions. For venture-backed founders, this means a growing pool of capital that can lead or co-invest in rounds without the governance overhead of institutional VC. For VCs, family offices are becoming both competitors for deals and essential LPs, creating a complex dual dynamic that reshapes fund economics.

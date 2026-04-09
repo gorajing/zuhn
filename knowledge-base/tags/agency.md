@@ -1,5 +1,6 @@
 # Tag: agency
 
+- `INS-260409-4719` When intelligence costs go to zero, humans get paid for taking risk — the one thing machines cannot perform on your behalf.
 - `INS-260325-EE14` Wharton research shows people abandon AI tools after seeing a single error, but letting users tweak parameters restores adoption even at higher error rates.
 - `INS-260403-AB55` The philosophical framework of evaluating AI behavior by external causes and effects rather than internal experience dissolves the reality/roleplay debate into something empirically testable.
 - `INS-260325-BE19` Even in a deterministic universe, modeling yourself and others as choice-making agents is the right approach because no one can be Laplace's demon.

@@ -1,6 +1,6 @@
 # Topic: communication
 
-> 49 insights
+> 50 insights
 
 - `INS-260404-B87E` [high] Craft one 'the X of Y' phrase that sticks — professional investors hear so many pitches they blur, and the first filter is simply being remembered.
 - `INS-260404-5BBF` [high] Be candid about gaps with sophisticated audiences — trying to seem corporate or knowledgeable about things you aren't conceals your actual talent.
@@ -38,6 +38,7 @@
 - `INS-260403-2AF0` [high] Writing's superiority for idea generation comes from removing the real-time constraint that limits both speakers and listeners.
 - `INS-260404-7F34` [high] Essay impact is novelty × importance, but achieving both simultaneously is rare because important topics have already been heavily explored.
 - `INS-260403-6652` [high] Writing demands more rigor than talking because less can go unsaid and you lose the crutch of tone and shared context.
+- `INS-260409-D6D8` [high] Write your story long-form — prose forces the discipline that speech and slides let you skip.
 - `INS-260404-D45D` [high] Introverts should leverage written content as their primary vehicle for demonstrating expertise rather than competing in verbal-dominant settings.
 - `INS-260405-194F` [medium] When someone can't perceive a constraint you experience, appealing to politeness (take me at my word) is more tractable than demanding they recognize their privilege.
 - `INS-260330-CD7A` [medium] Viewing argument as instinct rather than trainable craft creates a vicious cycle: bad arguments reduce confidence in disagreement, which further degrades argument quality.

@@ -1,11 +1,12 @@
 # Topic: focus
 
-> 155 insights
+> 157 insights
 
 - `INS-260330-1B64` [high] Sitting quietly for 17 minutes focusing on breathing and internal body sensations significantly reduces attentional blinks in a near-permanent way after just one session.
 - `INS-260325-4A01` [high] Research shows 45% of daily behavior is habitual, meaning we are on autopilot nearly half the time.
 - `INS-260330-EDDD` [high] ADHD hyper-focus on enjoyable tasks proves the focus circuitry works—the deficit is specifically in the dopamine system that should enable focus on non-preferred tasks.
 - `INS-260330-85E1` [high] Rewarding yourself after hard work actually undermines future motivation; learning to find the effort itself rewarding is the neuroscience behind growth mindset.
+- `INS-260409-32D4` [high] Internal state functions as a perceptual filter — opportunities are literally visible in calm states and invisible in anxious ones.
 - `INS-260329-94CF` [high] Design your financial systems so investing happens automatically and spending requires deliberate effort.
 - `INS-260403-BC89` [high] Solving hard problems requires sustained background cognition that you can only influence indirectly by controlling what occupies your mind.
 - `INS-260325-D9D8` [high] Overcome avoidance not by forcing action but by simply turning toward the dreaded task and acknowledging its existence in your life.
@@ -61,6 +62,7 @@
 - `INS-260329-9A30` [high] A meeting that costs a manager one of 100+ time slots costs a maker one of only 10 weekly work blocks — a 10x asymmetric penalty.
 - `INS-260329-E44D` [high] Meetings cost makers 10x more than managers because makers work in few large blocks while managers work in many small slots.
 - `INS-260327-454C` [high] The empty mind isn't about thinking nothing - it's about having practiced so thoroughly that the right response arises without deliberation.
+- `INS-260409-56E5` [high] The ancient prescription for clarity (stillness, presence, silence) is actively opposed by the default modern attention environment.
 - `INS-260403-3756` [high] Money worries and disputes hijack your top mental slot with unusual effectiveness because they feel urgent and engaging but produce no creative output.
 - `INS-260327-F014` [high] Musashi's answer to overthinking wasn't to think less but to engage so completely with the present moment that extraneous thought has no room to arise.
 - `INS-260327-4279` [high] Playing music activates more simultaneous brain systems than any other voluntary activity, making it the most complete neural workout available.

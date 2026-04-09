@@ -67,6 +67,8 @@ related:
   - INS-260403-9A8A
   - INS-260323-BEF0
   - INS-260403-6EED
+  - INS-260409-9412
+  - INS-260409-0A28
 ---
 The standard skeptical dismissal of mass anomalous experiences invokes either fraud or mass hysteria/suggestion — someone plants the idea, and social pressure spreads it. But both the Fatima and Dhammakaya events are poorly explained by this model. At Dhammakaya, someone spontaneously cried out about seeing a vision, and then thousands independently confirmed similar structural experiences. At Fatima, the crowd was primed to expect 'a miracle' but not specifically a sun miracle.
 

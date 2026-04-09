@@ -1,6 +1,6 @@
 # Topic: content-strategy
 
-> 61 insights
+> 68 insights
 
 - `INS-260330-B885` [high] Rogan gained 2 million subscribers during his cancellation attempt because the coordinated media attack inadvertently proved his independence from institutional control.
 - `INS-260405-3F0F` [high] Google ranks pages; AI cites statements — this single difference demands a claim-first approach to content structure.
@@ -13,6 +13,7 @@
 - `INS-260403-BC04` [high] Cuban's advice: content gives you reach and credibility, but you need scalable products to convert attention into lasting wealth.
 - `INS-260402-C03D` [high] MrBeast's $500M+ revenue empire proves a single creator can bypass traditional marketing by using content as the distribution engine for vertically integrated businesses.
 - `INS-260330-06E3` [high] Capitalism scaled in Britain partly because writers like Thomas Mun reframed market participation as natural human behavior — even coining 'individuals' and 'career' as personal identity terms.
+- `INS-260409-2EF3` [high] Teach the problem, not the product — the product then appears as the obvious answer the reader already wanted.
 - `INS-260329-9A42` [high] Giving away exhaustive 4+ hour tutorials for free builds defensible audience positions because the depth itself becomes the moat — competitors face prohibitive production costs to match, and audiences consolidate around the 'definitive' resource.
 - `INS-260329-31A2` [high] freeCodeCamp's strategy of publishing complete 4-hour tutorials for free has generated 13M+ views on a single video, demonstrating that exhaustive free content builds massive audiences.
 - `INS-260403-6424` [high] Claiming a list is exhaustive ('The 7 secrets') exploits readers' need to verify completeness, making it effective linkbait but intellectually dishonest.
@@ -26,6 +27,7 @@
 - `INS-260403-7878` [high] Readers trust bloggers more than mainstream media because online writing lacks the invisible fingerprints of PR firms shaping editorial content.
 - `INS-260403-6BF7` [high] Developer influencers who master visibility often outperform technically superior peers in career outcomes.
 - `INS-260330-7251` [high] Netflix's shift to original content was forced by the existential threat of content owners pulling licenses to launch competing streaming services.
+- `INS-260409-8DDE` [high] Platforms don't pay creators and never have — the real AI threat to creators is brands choosing AI faces they can own over human creators they rent, not platforms replacing content producers.
 - `INS-260403-09CB` [high] Long-term content success requires prioritizing stamina by writing about what energizes you rather than chasing what performs well.
 - `INS-260403-C907` [high] Growth comes from publishing valuable content people want to share, repeatedly, not from optimizing anything else.
 - `INS-260329-BC11` [high] Self-publishing builds a compounding content asset; gatekeeper-dependent publishing trades leverage for credibility.
@@ -47,11 +49,15 @@
 - `INS-260329-409F` [medium] You can't delete a bad brand pairing — you can only shrink it into irrelevance by overwhelming it with positive associations.
 - `INS-260404-B0DC` [medium] Sustained high-volume free value delivery builds trust capital that later converts into business opportunities at rates impossible through cold outreach.
 - `INS-260403-CBED` [medium] Creators are replacing traditional media as the primary channel through which consumer opinions, purchase decisions, and product discovery flow.
+- `INS-260409-01E7` [medium] Write for the buyer and the broadcaster in the same post — the broadcaster gives you reach, the buyer gives you revenue.
 - `INS-260329-13D2` [medium] Higher production value and format evolution to reach more people is justified as long as the core message stays intact — the audience trains you through engagement signals.
+- `INS-260409-B213` [medium] The right cadence is the one you'll still hit in year three — optimize for survival, not intensity.
 - `INS-260329-4CFD` [medium] Comprehensive single-resource tutorials capture high-intent beginner search queries and compound views over years.
+- `INS-260409-DEF4` [medium] Creators should now treat content production as dual-audience — humans and LLMs — with shorts for how-to volume and long-form written for depth that gets cited.
 - `INS-260403-5EEA` [medium] Topic selection should prioritize what gives you energy to think and write about for years, not what the market says it wants.
 - `INS-260330-8D27` [medium] Long-form conversation formats (2-5 hours) produce qualitatively different insights because duration itself relaxes subjects into revealing authentic complexity.
 - `INS-260330-DAAD` [medium] Three-hour podcast interviews can launder lies by substituting length and good vibes for actual fact-checking.
+- `INS-260409-A62F` [medium] High-volume content production is the late-stage payoff of having tolerated years of bad early output.
 - `INS-260329-976E` [medium] Brand strength = influence (behavior change probability) × direction (towards/away) × reach (number of people affected).
 - `INS-260402-5BE6` [medium] AI handles top-of-funnel informational queries well, but struggles to replicate case studies, product comparisons, and implementation guides rooted in real experience.
 - `INS-260405-D216` [medium] In AI content, doing-and-sharing beats talking-about at generating durable audience trust.
@@ -60,6 +66,7 @@
 - `INS-260405-6019` [medium] Expertise plus authenticity is outcompeting institutional authority as the basis for trusted information.
 - `INS-260403-7BAA` [medium] Organizing content around defined thematic pillars on a predictable schedule compounds audience trust more effectively than reactive or ad-hoc publishing.
 - `INS-260403-E33F` [medium] Non-affiliate, taste-driven curation signals authenticity and builds deeper audience trust than monetized recommendation lists.
+- `INS-260409-0F19` [medium] The more AI scales digital content, the more analog real-world experiences become scarce and valuable — operators should barbell between extreme tech and extreme analog.
 - `INS-260405-42D3` [medium] Crowd voting surfaces candidates; editorial judgment makes final calls — this hybrid beats both pure democracy and pure autocracy in content curation.
 - `INS-260329-63DD` [medium] Comprehensive long-form tutorials dominate search results because they fully satisfy user intent, creating compounding organic traffic that short content cannot match.
 - `INS-260403-002C` [medium] VC newsletters increasingly monetize through embedded partner tool credits rather than paywalling core content.

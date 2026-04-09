@@ -47,12 +47,13 @@ stance: >-
   an intermediate, and full dedicated maker days at scale — and failing to
   progress through these stages caps business growth.
 related:
-  - INS-260329-6AF5
   - INS-260329-4253
   - PRI-260406-B846
   - INS-260403-B2EA
   - PRI-260323-A3A3
+  - INS-260329-6AF5
   - INS-260404-38A6
+  - INS-260409-E8B3
 evidence:
   - id: INS-260329-6AF5
     type: SUPPORTS

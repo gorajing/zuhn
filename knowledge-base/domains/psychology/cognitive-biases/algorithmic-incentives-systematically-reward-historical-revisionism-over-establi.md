@@ -50,11 +50,11 @@ stance: >-
   because novel-seeming claims generate more engagement than accurate but
   familiar historical narratives.
 related:
+  - INS-260409-3064
   - PRI-260407-AE33
   - PRI-260406-C1EF
   - INS-260403-39E9
   - PRI-260323-27D6
-  - INS-260402-F772
   - INS-260330-7511
   - INS-260330-AACC
 evidence:

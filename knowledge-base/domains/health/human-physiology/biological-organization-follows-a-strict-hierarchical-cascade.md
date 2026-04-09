@@ -49,10 +49,10 @@ stance: >-
   emergent properties absent from the level below.
 related:
   - INS-260330-42DE
+  - INS-260409-1D91
   - INS-260323-BA00
   - PRI-260328-36C3
   - PRI-260403-C34A
-  - INS-260403-AC01
   - INS-260330-81E0
 evidence:
   - id: INS-260323-BA00

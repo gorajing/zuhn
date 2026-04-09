@@ -56,7 +56,8 @@ related:
   - INS-260403-832E
   - PRI-260328-1A2D
   - INS-260405-7A7C
-  - INS-260405-020E
+  - INS-260409-FA8F
+  - INS-260409-9509
 ---
 The default startup playbook emphasizes speed and public iteration — build in public, get feedback fast, iterate. But this article argues the failure mode is more often premature exposure than slow building. When a startup goes public too early, it locks in narratives, creates expectations around half-baked features, and subjects fragile prototypes to premature judgment.
 

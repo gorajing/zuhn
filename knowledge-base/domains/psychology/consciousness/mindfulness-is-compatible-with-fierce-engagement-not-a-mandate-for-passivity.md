@@ -54,7 +54,7 @@ related:
   - INS-260330-95A5
   - INS-260330-BCC7
   - INS-260327-454C
-  - INS-260330-7AE9
+  - INS-260409-56E5
 ---
 Harris directly addresses critics who tell him a mindfulness teacher shouldn't express strong political opinions. He argues this conflates a 'style of communication — an anodyne religious or new agey communication and a pseudo ethic around being as inoffensive as possible' with the actual goal of spiritual life. He can be nondualistically mindful while telling someone to take their head out of their ass.
 

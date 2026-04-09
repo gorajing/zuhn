@@ -49,11 +49,12 @@ stance: >-
   product-market fit that makes future growth unsustainably expensive
 related:
   - INS-260403-2A8B
-  - INS-260403-544B
   - PRI-260406-6533
   - PRI-260406-58FA
+  - INS-260403-544B
   - INS-260403-B18C
   - INS-260321-B7CB
+  - INS-260409-4EC0
 ---
 From an investor lens, churn isn't just a retention number—it's a judgment on company viability. VCs model durability alongside growth, and high churn signals that the foundation for scale is brittle. It lowers expansion potential, damages net revenue retention, and tells investors that future growth will require ever-increasing acquisition spend to compensate for losses.
 

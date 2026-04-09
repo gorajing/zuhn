@@ -65,8 +65,8 @@ related:
   - PRI-260406-7E1C
   - INS-260330-443B
   - INS-260403-2BAD
-  - INS-260330-2726
   - INS-260330-4A7F
+  - INS-260330-6377
 ---
 Herman Pontzer's constrained energy model shows that for every 100 calories burned through exercise, BMR decreases by about 28 calories — so exercise alone is an inefficient calorie-burning strategy. Yet over 70% of people who successfully maintain weight loss long-term exercise regularly, versus less than 30% of those who regain weight. The resolution lies in appetite regulation: RCTs show exercise increases sensitivity to satiety signals at the brain level, and a classic 1950s study of Bengali workers found a J-shaped curve where sedentary workers actually ate more than lightly or moderately active workers, while active workers almost perfectly calibrated intake to expenditure.
 

@@ -1,5 +1,6 @@
 # Tag: goal-setting
 
+- `INS-260409-7171` Naming a desire triggers attention to its absence, so gap-awareness is the default failure mode of goal-setting.
 - `INS-260330-0242` Write down small achievable goals nightly; the check-mark dopamine hit builds an addiction to the learning process itself.
 - `INS-260403-420A` Targeting economic inequality as a metric will reduce inequality without fixing poverty, just as targeting graduation rates improves graduation without improving learning.
 - `INS-260329-93AE` Stop treating goal-setting as a strategy — focus instead on committing to the daily activities that produce goals, since everyone already shares the same goals.

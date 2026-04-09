@@ -1,8 +1,8 @@
 # Tag: fragility
 
 - `INS-260403-6B72` Competitive pressure makes human-in-the-loop economically unsustainable in any domain meeting the automation trifecta, creating systemic fragility.
-- `INS-260330-B076` Nearly all life on Earth is fusion-powered — photons from solar fusion cascade through photosynthesis into every biological process, revealing how apparent diversity masks single-source dependency.
 - `INS-260403-D227` Anthropic's study showing 17% lower mastery with AI assistance reveals that AI productivity gains come at the cost of human backup capability.
+- `INS-260330-B076` Nearly all life on Earth is fusion-powered — photons from solar fusion cascade through photosynthesis into every biological process, revealing how apparent diversity masks single-source dependency.
 - `INS-260330-BA7F` Every oxygen molecule we breathe originates from Photosystem II splitting water — a single reaction point sustaining all aerobic life.
 - `INS-260330-D582` Reversing just one variable in bicycle steering — handlebars to wheel direction — made riding impossible for everyone who tried, despite 99% of the physical system remaining identical.
 - `INS-260323-6357` Much of democracy's stability relies on unwritten norms rather than enforceable laws — a shameless norm-violator reveals how fragile the system really is.

@@ -57,12 +57,12 @@ stance: >-
   complex engineering problem.
 related:
   - INS-260322-D8C3
-  - INS-260403-2138
   - INS-260403-C49F
   - INS-260404-AD45
   - INS-260403-0350
   - INS-260327-A9D5
   - INS-260405-E8A1
+  - INS-260409-A3EC
 ---
 The dominant entry point for learning AI agents in 2025 is ReAct (Reasoning + Acting), which teaches models to interleave reasoning steps with tool calls. It's a useful mental model, but it's only one node in a much larger design space. Production agent systems typically require persistent memory across sessions, multi-step planning that can backtrack, tool use with error recovery, and increasingly, collaboration between multiple specialized agents.
 

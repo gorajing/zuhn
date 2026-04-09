@@ -46,7 +46,6 @@ stance: >-
   profitability driver rather than a cost center.
 related:
   - INS-260327-D480
-  - INS-260329-60CF
   - INS-260403-3062
   - INS-260405-AC40
   - INS-260405-202B

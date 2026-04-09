@@ -59,7 +59,7 @@ related:
   - INS-260330-C8E2
   - INS-260330-F9FB
   - INS-260330-A59D
-  - INS-260325-6571
+  - INS-260409-C3F7
   - INS-260330-8286
 ---
 Fisher traces the origins of human romantic love to a specific evolutionary pressure point 4.4 million years ago. As ancestors were forced from disappearing trees onto dangerous open grasslands, they began walking on two legs and carrying sticks, stones, and food. This critical shift meant females could no longer carry babies on their backs (as quadrupedal chimps do) but had to carry them in their arms — while simultaneously needing to defend themselves.

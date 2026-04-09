@@ -52,7 +52,7 @@ related:
   - INS-260403-9DEC
   - INS-260405-7698
   - INS-260404-707C
-  - INS-260403-8421
+  - INS-260409-3AC7
 ---
 Most venture funds reserve 40-60% of committed capital for follow-on investments, but the actual availability depends on how much has been deployed, whether the investment period is still open, and if recycling rights exist. A fund might promise pro rata support, but if it's past its investment window or already deployed reserves into other winners, those rights are empty.
 

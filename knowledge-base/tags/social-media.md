@@ -1,6 +1,7 @@
 # Tag: social-media
 
 - `INS-260330-1F7E` The solution to social media misinformation is holding platforms liable for what their algorithms promote, not censoring what users post.
+- `INS-260409-EA56` Plaintiffs' lawyers successfully used product liability law to sidestep Section 230 protection for the first time, creating a replicable map that will produce sustained tort pressure on social media platforms and likely force age verification at the handset layer.
 - `INS-260323-03F4` Social media built machines for grabbing human attention; AI is now building machines for grabbing human intimacy, which is a far more dangerous capability because it exploits our deepest need to be listened to.
 - `INS-260320-CEBE` A single YouTube transcript can feed newsletter drafts, social media posts, blog articles, and email campaigns -- extend the base n8n workflow with parallel output branches.
 - `INS-260327-EEEE` Pharmaceutical companies pay social media influencers millions to promote drugs disguised as authentic health content

@@ -51,10 +51,11 @@ stance: >-
   an enabling change makes it suddenly deployable.
 related:
   - INS-260327-45B4
+  - INS-260409-9509
   - INS-260403-841F
   - INS-260325-B1D8
   - INS-260325-EBDD
-  - INS-260327-BA97
+  - INS-260409-60C2
 evidence:
   - id: INS-260325-B1D8
     type: SUPPORTS

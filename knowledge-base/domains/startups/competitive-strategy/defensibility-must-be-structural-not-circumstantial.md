@@ -45,7 +45,6 @@ stance: >-
   insufficient—VCs only value moats built from proprietary technology, network
   effects, or high switching costs.
 related:
-  - INS-260330-4341
   - INS-260330-9DC9
   - INS-260404-C1C1
   - PRI-260406-F9EB

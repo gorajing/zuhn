@@ -53,9 +53,9 @@ stance: >-
   dominant funding pattern because it distributes risk while locking in supply
   roadmaps.
 related:
-  - INS-260330-DE65
   - INS-260403-01FD
   - INS-260404-2CA6
+  - INS-260409-7731
   - PRI-260407-93D7
   - INS-260403-44C4
 ---

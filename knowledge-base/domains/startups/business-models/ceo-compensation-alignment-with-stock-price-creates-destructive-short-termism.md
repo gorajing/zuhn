@@ -50,8 +50,8 @@ related:
   - INS-260330-808B
   - PRI-260407-C8FE
   - INS-260330-7E58
+  - INS-260409-1390
   - INS-260404-C13E
-  - INS-260405-202B
 evidence:
   - id: INS-260330-808B
     type: EXTENDS

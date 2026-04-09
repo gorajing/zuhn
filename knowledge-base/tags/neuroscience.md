@@ -48,6 +48,7 @@
 - `INS-260329-0487` Self-doubt is eliminated by compressing thousands of reps into the shortest possible timeframe, forcing neurological adaptation rather than relying on affirmations.
 - `INS-260330-83BC` Girls' prefrontal cortex develops 1-2 years earlier than boys', giving them a structural advantage in education systems built around executive function.
 - `INS-260330-2311` Habit formation depends on neural circuits that bracket the habit (before/after) rather than circuits active during the habit execution itself.
+- `INS-260409-8910` REM sleep downregulates the frontal lobe, activates vision, and paralyzes the body — a ready-made abduction experience.
 - `INS-260330-035C` Stanford research showed hotel workers told their daily movement met exercise guidelines lost significantly more fat and improved cardiovascular markers compared to uninformed controls, even without changing behavior.
 - `INS-260325-2999` fMRI gives spatial detail but loses time; EEG captures millisecond timing but low resolution; direct electrode recording is precise but covers tiny fractions of 86 billion neurons.
 - `INS-260330-CD62` The cultural authority of neuroscience props — MRI machines, lab coats, institutional hallways — amplifies placebo effects beyond what pills or doctor visits achieve.

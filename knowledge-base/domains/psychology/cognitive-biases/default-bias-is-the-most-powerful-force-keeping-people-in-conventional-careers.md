@@ -45,10 +45,10 @@ stance: >-
   rationally evaluated alternatives
 related:
   - INS-260325-2069
-  - INS-260330-31B5
   - INS-260329-F21F
   - INS-260329-6CE8
-  - INS-260330-1C90
+  - INS-260409-2A8D
+  - INS-260330-31B5
 evidence:
   - id: INS-260329-6CE8
     type: TRANSFERS_TO

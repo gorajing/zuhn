@@ -50,13 +50,12 @@ stance: >-
   through a single optimized channel produces far more useful work than
   distributing effort evenly
 related:
-  - INS-260329-4696
   - INS-260330-4980
   - INS-260403-0902
+  - INS-260409-F9D5
   - INS-260403-8011
   - INS-260325-5CB1
   - INS-260405-A1E6
-  - INS-260404-7CBC
 evidence:
   - id: INS-260330-EAA3
     type: TRANSFERS_TO

@@ -47,7 +47,7 @@ related:
   - PRI-260406-58FA
   - INS-260403-4388
   - INS-260403-C837
+  - INS-260409-4EC0
   - INS-260403-570D
-  - INS-260403-5427
 ---
 A SaaS business showing steady 6% monthly churn in aggregate may actually have January customers churning at 20% by Month 3 while April customers churn only 8%. This divergence is invisible in topline metrics. The practical danger is that operators optimize against an average that doesn't represent any real customer group, missing both the failing cohorts that need urgent attention and the successful cohorts whose patterns should be replicated. Cohort-first analysis groups customers by signup month and tracks their behavior over equivalent time periods, surfacing the actual retention curve rather than a statistical fiction. This is why investors insist on seeing cohort tables during due diligence—they reveal whether growth is compounding or masking a leaky bucket.

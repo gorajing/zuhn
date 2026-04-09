@@ -18,17 +18,17 @@
 - `INS-260330-5A9E` Pinker classifies swearing into five types: dysphemistic (forcing uncomfortable imagery), abusive (intimidating), idiomatic (casual signaling), emphatic (intensifying), and cathartic (pain relief).
 - `INS-260404-7F34` Essay impact is novelty × importance, but achieving both simultaneously is rare because important topics have already been heavily explored.
 - `INS-260403-6652` Writing demands more rigor than talking because less can go unsaid and you lose the crutch of tone and shared context.
-- `INS-260323-5B36` El-Kurd's campaign succeeded globally because it finally matched visual imagery to rhetoric, making the power asymmetry undeniable to international observers.
 - `INS-260330-84C6` The gap between peak conscious experience and linguistic description is not a matter of degree but of kind — language is structurally incapable of encoding these states.
+- `INS-260323-5B36` El-Kurd's campaign succeeded globally because it finally matched visual imagery to rhetoric, making the power asymmetry undeniable to international observers.
 - `INS-260323-61D4` Einstein presented the non-locality problem at least three times — once at the 1927 Solvay Conference, once with the photon box thought experiment, and once in the EPR paper — and each time Bohr misunderstood or reframed the argument rather than addressing it directly.
 - `INS-260330-6F6D` The Pioneer plaque's arrow symbol — obvious to humans who hunted with projectiles — may be meaningless or misleading to an alien intelligence, revealing how deeply cultural assumptions embed in supposedly universal designs.
 - `INS-260329-812E` Incoming messages feel obligatory but are actually requests — recognizing this eliminates the guilt of not replying.
+- `INS-260330-9935` Converting percentage growth rates into doubling times gives non-mathematical audiences an intuitive grasp of exponential speed that raw percentages cannot provide.
 - `INS-260330-C13A` Reframing feedback requests as advice requests shifts people from cheerleader/critic mode into coach mode with actionable forward-looking suggestions.
 - `INS-260330-9A46` Friedrich Miescher discovered DNA in 1869, but Watson and Crick are household names because they synthesized others' work into a compelling structural model nearly a century later.
 - `INS-260404-FDEA` Photosystem II was discovered after Photosystem I but acts first in the process, creating a naming inversion that confuses every new learner of biology.
 - `INS-260330-78B8` Flagging your own simplifications as 'kind of a lie, but in the direction of truth' builds credibility and primes learners for the real version.
 - `INS-260403-07C3` Photosystem II comes before Photosystem I in the actual process, creating needless confusion because they were named in discovery order.
-- `INS-260330-9935` Converting percentage growth rates into doubling times gives non-mathematical audiences an intuitive grasp of exponential speed that raw percentages cannot provide.
 - `INS-260405-5670` Moon's 2.3-second round-trip latency allows synchronous coordination with Earth; Mars's 10-30 minute latency forces asynchronous civilization — and asynchronous civilizations can declare independence.
 - `INS-260330-A954` When an investor says 'I want to invest but I don't lead,' translate to 'No, except yes if you become a hot deal.'
 - `INS-260403-22FE` Explicit claims of passion or quality trigger skepticism filters, while implicit confidence conveyed through demeanor and specifics builds genuine credibility.
@@ -62,6 +62,9 @@
 - `INS-260330-D031` Stripe's radical transparency (BCCing everyone on all emails) broke Gmail and overwhelmed new hires, requiring new tooling and norms to sustain.
 - `INS-260403-4501` The EHR's fundamental design flaw is being built for billing rather than communication between providers and patients.
 - `INS-260405-85B5` EHRs serve billing and compliance, not communication — the gap between their purpose and provider needs is where healthcare AI value concentrates.
+- `INS-260328-EBBC` The quality of what you give us is the only factor in the quality of what we give you back — generic prompts get generic answers, honest ones get real insight.
+- `INS-260327-47BA` Nothing is going to be handed to you — you have to be vocal and communicate your needs and value to your manager, because good work alone is not enough.
+- `INS-260328-12EE` Tell the adviser what you want and give them constraints — without this, they'll go way out of scope, just like a lawyer who red-lines everything when given no direction.
 - `INS-260330-87BD` The 30-second pitch is three sentences (what you do in mom-test language, market size, traction) and the 2-minute pitch adds four more (unique insight, business model, team, the ask).
 - `INS-260402-994D` Stopping investor updates during difficult periods feels protective but is perceived as betrayal by people who trusted you with their savings.
 - `INS-260405-8BEA` Never say you're passionate or that your product is great — both are ignored or actively backfire; demonstrated confidence is the only kind that works.
@@ -70,9 +73,6 @@
 - `INS-260405-44F5` Describing your product narrowly and concretely gets into investors' heads; vague all-encompassing descriptions approach zero information content.
 - `INS-260405-2AFB` Never say 'we're passionate' — investors tune out assertions and read posture, pacing, and directness instead.
 - `INS-260405-466C` As a pitch description expands to cover every possibility, its information content approaches zero.
-- `INS-260328-EBBC` The quality of what you give us is the only factor in the quality of what we give you back — generic prompts get generic answers, honest ones get real insight.
-- `INS-260327-47BA` Nothing is going to be handed to you — you have to be vocal and communicate your needs and value to your manager, because good work alone is not enough.
-- `INS-260328-12EE` Tell the adviser what you want and give them constraints — without this, they'll go way out of scope, just like a lawyer who red-lines everything when given no direction.
 - `INS-260403-4102` Regular leader communication during crisis builds trust through predictability, even when the update is 'no update.'
 - `INS-260322-AB55` Leaders who stall on giving feedback to gather 'objective evidence' let emotional resentment compound — there is no such thing as evidence everyone will accept.
 - `INS-260323-46B2` The perceived tension between empathy and assertiveness is a sequencing illusion — empathy first puts you in position to assert effectively.
@@ -87,10 +87,6 @@
 - `INS-260405-CC3F` Headers that assert facts do the selling when you're not in the room.
 - `INS-260405-4AAD` Juicero raised $120M for technology that was immediately undermined when customers realized the same outcome was achievable by hand.
 - `INS-260404-16DC` Product teams fail when they don't actively translate between the three distinct languages of customers, product, and business.
-- `INS-260405-270B` Cold outreach succeeds when personalization demonstrates genuine knowledge of the recipient's context rather than mass-blast generic pitches.
-- `INS-260329-4D5E` Answer objections with questions about their questions to stay in control without damaging rapport.
-- `INS-260329-8BFC` Negative-before-positive sequencing leverages recency bias and earned credibility to make the same facts more persuasive.
-- `INS-260329-086B` Use third-party stories to deliver uncomfortable truths to prospects without making them feel personally attacked.
 - `INS-260330-0E4B` At scale, force daily multi-hour cross-functional calls where every discipline shares trade-offs and hears how their decisions affect others.
 - `INS-260330-1F41` Banning Slack raises communication friction intentionally, keeping teams small, preventing asymmetric time-wasting, and protecting creative deep work.
 - `INS-260330-E99F` Force daily cross-functional calls where every discipline presents constraints together, because trade-offs in one area systematically affect others in ways that organic communication misses.
@@ -98,3 +94,7 @@
 - `INS-260323-1EEA` Frebel's experience: even astronomers who share interests and work on the same phenomena struggle to communicate across theoretical and observational subfields — but pushing through produces the best work.
 - `INS-260330-777A` Putin announced the pension age increase on the opening day of the 2018 World Cup — it still caused his largest-ever approval drop.
 - `INS-260330-281A` Recorded interviews have an almost magical persuasive effect on teammates — far more than second-hand summaries of findings.
+- `INS-260405-270B` Cold outreach succeeds when personalization demonstrates genuine knowledge of the recipient's context rather than mass-blast generic pitches.
+- `INS-260329-4D5E` Answer objections with questions about their questions to stay in control without damaging rapport.
+- `INS-260329-8BFC` Negative-before-positive sequencing leverages recency bias and earned credibility to make the same facts more persuasive.
+- `INS-260329-086B` Use third-party stories to deliver uncomfortable truths to prospects without making them feel personally attacked.

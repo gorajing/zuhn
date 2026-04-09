@@ -60,6 +60,9 @@ related:
   - PRI-260406-7862
   - INS-260327-9BE8
   - PRI-260328-E1CE
+  - INS-260409-1DD3
+  - INS-260409-053F
+  - INS-260409-232E
 ---
 The essay reveals a pattern: the 1907 Panic (triggered by a failed copper corner) exposed banking fragmentation and forced the Fed's creation. France's gold redemptions in the 1960s — driven by skepticism about the U.S. balance of payments deficit from Vietnam War spending — forced Nixon to abandon gold convertibility in 1971. In both cases, the existing system wasn't reformed proactively; it broke under external stress.
 

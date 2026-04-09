@@ -42,12 +42,12 @@ stance: >-
   For startups, PR delivers far more value per dollar than advertising because
   it embeds your narrative directly into editorial content that readers trust.
 related:
-  - INS-260323-CD03
   - INS-260323-D6F2
   - INS-260403-7878
   - INS-260325-803C
   - INS-260403-4D04
   - INS-260403-C907
+  - INS-260409-BA4E
 evidence:
   - id: INS-260321-3312
     type: SUPPORTS

@@ -8,6 +8,7 @@
 - `INS-260403-3D61` A strong-willed patient like Houdini needed the surgery framed in a way that aligned with his identity rather than contradicted it.
 - `INS-260403-0949` Speaking excels at motivation and emotional impact, not at conveying complex ideas — choose your communication medium accordingly.
 - `INS-260404-7F34` Essay impact is novelty × importance, but achieving both simultaneously is rare because important topics have already been heavily explored.
+- `INS-260409-53A1` 'Because' is a compliance trigger regardless of whether the reason makes sense.
 - `INS-260330-318B` Dressing salespeople as nurses exploits authority bias to bypass critical evaluation of claims.
 - `INS-260323-61D4` Einstein presented the non-locality problem at least three times — once at the 1927 Solvay Conference, once with the photon box thought experiment, and once in the EPR paper — and each time Bohr misunderstood or reframed the argument rather than addressing it directly.
 - `INS-260329-55F7` People trust their own conclusions far more than anything a salesperson tells them, so guide them to discover the answer rather than asserting it.
@@ -22,6 +23,8 @@
 - `INS-260403-36F0` Correctness about what's wrong doesn't convert into support without a clear alternative vision.
 - `INS-260330-6A3A` The conviction that you understand persuasion too well to be persuaded is itself a persuasion vulnerability.
 - `INS-260404-5017` When your audience can't evaluate your technical work directly, your own visible conviction becomes their strongest data point.
+- `INS-260409-3064` People comment to correct what they think is wrong, so contrarian framing is a reliable comment-rate multiplier.
+- `INS-260409-241B` Naming a specific cult-loved brand instead of a generic category gives viewers a pre-formed opinion to defend or attack in the comments.
 - `INS-260403-C37D` Good persuaders don't lie — they choose which truths to tell, the same way a flatterer picks genuine compliments.
 - `INS-260403-23C1` The article pitches the same amendment separately to Democrats (anti-gerrymandering), Republicans (Trump's legacy building), Libertarians (third-party viability), and state legislators (personal career advancement).
 - `INS-260403-FC2E` Shift from defending your position to calling out the pattern of misrepresentation itself.
@@ -31,6 +34,7 @@
 - `INS-260404-9C25` Graham doesn't argue for or against the death penalty on conventional grounds — he reframes the entire debate from philosophy to error rates.
 - `INS-260403-6E11` The school habit of stretching limited ideas to fill required page counts trains people to communicate without conviction, which investors and other sophisticated audiences immediately detect.
 - `INS-260404-124F` Concrete metrics and specific examples generate trust in cold outreach far more than enthusiasm or passion statements.
+- `INS-260409-30DE` 'This is the best way to cook pasta' drives fewer comments than 'this pasta is better than every mom-and-pop pasta shop in the world'; intensity scales engagement.
 - `INS-260330-4E09` Building up your opponent's best case before responding protects you from being blindsided by stronger versions of their argument later.
 - `INS-260330-59CE` Vague predictions appear accurate because our brains apply the 'law of near enough' — two things don't have to match exactly for us to perceive a connection, making almost any outcome confirmatory.
 - `INS-260403-AE2C` One viral video of concrete harm shifts opinion more than years of theoretical warnings.
@@ -38,11 +42,12 @@
 - `INS-260330-0F49` The reflexive racial framing of the Capitol security failure ignored contradicting evidence — like black cops struggling to defend the building and a white woman being shot — while alienating the moderate conservatives needed for democratic healing.
 - `INS-260325-0147` Suppressing an idea does not just draw attention to it -- it actually increases the likelihood people will believe it.
 - `INS-260330-8B79` After years of global espionage, the most surprising finding about human nature is the universal painful longing for human connection across all socioeconomic brackets and cultures.
+- `INS-260323-0277` Raibert deliberately made the top and bottom ideas on his project list boring and put 'pogo stick robot' in the middle — letting Ivan Sutherland naturally select the exciting one, which led to the first $3,000 of funding.
 - `INS-260403-E4C6` Never say 'we're passionate' or 'our product is great'—audiences ignore or penalize explicit self-promotion, while implicit confidence through demeanor is the strongest signal.
 - `INS-260405-D20A` Investors must feel the problem, not just understand it, for the problem slide to do its job.
-- `INS-260323-0277` Raibert deliberately made the top and bottom ideas on his project list boring and put 'pogo stick robot' in the middle — letting Ivan Sutherland naturally select the exciting one, which led to the first $3,000 of funding.
 - `INS-260326-3C9C` Alexander's Opis speech worked because he could strip and show his scars -- shared suffering creates unchallengeable authority.
 - `INS-260405-ECCD` Investors must feel the problem before they can value the solution.
+- `INS-260405-D8AA` Show the CFO what competitors are spending on innovation; loss aversion moves budgets faster than projected IRR.
 - `INS-260329-F2BB` Describe the customer's problem more accurately than they can, and they'll believe you can solve it without needing proof.
 - `INS-260329-E900` Mine book reviews in your niche for exact customer language about their pain — matching their words creates automatic credibility.
 - `INS-260329-95EA` Leading with a real negative before a positive ('but') makes the positive far more convincing because it signals honesty.
@@ -56,4 +61,3 @@
 - `INS-260329-4B07` Cut delivery time rather than increase promised results — latency reduction is the strongest purchase motivator.
 - `INS-260329-8BFC` Negative-before-positive sequencing leverages recency bias and earned credibility to make the same facts more persuasive.
 - `INS-260329-348D` Warning about extreme positive side effects makes the positive outcome feel inevitable rather than aspirational.
-- `INS-260405-D8AA` Show the CFO what competitors are spending on innovation; loss aversion moves budgets faster than projected IRR.

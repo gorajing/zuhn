@@ -53,9 +53,9 @@ stance: >-
 related:
   - INS-260329-C0F1
   - INS-260404-2FD0
+  - INS-260409-D681
   - INS-260404-D1E2
   - PRI-260328-8317
-  - INS-260327-B116
 ---
 Michelin's evolution from tire manufacturer to tire-service provider illustrates servitization: instead of just selling rubber, they offered tire maintenance, performance monitoring, and support services. This shifts the customer relationship from a one-time purchase to an ongoing partnership, making price comparison with competitors much harder.
 

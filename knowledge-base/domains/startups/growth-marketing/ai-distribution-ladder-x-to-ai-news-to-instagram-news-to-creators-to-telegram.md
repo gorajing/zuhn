@@ -40,11 +40,11 @@ resolutions:
     may be rising as an alternative channel. Organic social media and creator
     integrations outperform paid ads for AI product distribution.
 related:
+  - INS-260409-B892
   - PRI-260322-8FD4
   - INS-260328-2BCF
   - PRI-260328-0C15
   - INS-260330-1DCF
-  - PRI-260328-2E23
   - INS-260403-4A9E
 stance: >-
   New AI products follow a predictable distribution ladder: X small communities

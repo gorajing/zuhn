@@ -46,5 +46,6 @@ related:
   - INS-260330-9449
   - INS-260330-2ADC
   - INS-260327-54B6
+  - INS-260409-BDAC
 ---
 Prolonged fasting lowers insulin and glucose that cancer cells depend on, while vitamin D, sulforaphane, and selenium create conditions that promote cancer cell apoptosis while protecting normal tissue

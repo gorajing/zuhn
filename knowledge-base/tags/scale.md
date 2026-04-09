@@ -9,8 +9,13 @@
 - `INS-260330-814E` WWII's unprecedented destruction came not from unprecedented hatred but from unprecedented industrial capacity to act on ordinary human impulses at scale.
 - `INS-260325-96FB` Common sense works perfectly within its calibrated range and fails predictably outside it.
 - `INS-260330-CBFD` Saying 'if this sphere were Earth, the tallest mountain to deepest valley would be 14 meters' makes nanometer-level roundness instantly comprehensible.
+- `INS-260409-8908` Astronauts on the ISS never see the whole Earth at once because they're too close; only deep-space distance produces the marble.
+- `INS-260409-CE1D` From Artemis's long-exposure Earth shot the atmosphere is a thread — you cannot separate 'clouds' from 'breathable layer' because both are tiny against the planet's radius.
+- `INS-260409-E0D5` Where quantum stops and classical starts is an unknown that experimentalists push outward by engineering, not by theorizing.
 - `INS-260330-4711` A field goal kicked due north drifts measurably sideways from Earth's rotation, proving invisible forces produce real effects even at everyday scales.
+- `INS-260409-D170` Frames that show duct-taped wires, window frames, or the capsule interior next to the Earth outperform 'pure' astronomical shots because they give the viewer scale and a foothold.
 - `INS-260323-527B` Smifter's video uses a ladder of progressively larger scale comparisons — Earth, Moon distance, Alpha Centauri, solar system, observable universe — to make incomprehensible numbers emotionally tangible.
+- `INS-260409-A62F` High-volume content production is the late-stage payoff of having tolerated years of bad early output.
 - `INS-260330-E4B6` Morgan's 'morganization' strategy turned fragmented railroads into profitable monopolies by merging competitors rather than outcompeting them.
 - `INS-260330-39B0` Photosynthesis is explicitly inefficient and complicated, yet it powered the organism that became the dominant life form on Earth by being first and scaling massively.
 - `INS-260326-1CB1` Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.

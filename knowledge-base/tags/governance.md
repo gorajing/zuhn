@@ -3,6 +3,7 @@
 - `INS-260405-1A3C` 2026 marks the transition from AI agent experiments to accountable production deployments with real governance requirements.
 - `INS-260403-A68D` Major AI pause advocates (Pause AI, Yudkowsky, Krueger) all explicitly call for international treaties, not unilateral action.
 - `INS-260323-FAF2` Building powerful AI turned out to be far easier than building safe AI, just as building airplanes was far easier than replicating bird flight.
+- `INS-260409-45C3` Hassabis says AI outputting non-human-readable tokens is a red line — it breaks interpretability and creates a safety vulnerability most labs would agree to avoid.
 - `INS-260325-9A0F` What makes institutions functional is not perfection but self-correction — elections, peer review, and amendment processes that identify and fix mistakes over time.
 - `INS-260403-DDD5` 'All lawful use' contract language is effectively unconstrained because surveillance and weapons laws are vague and mutable.
 - `INS-260403-33DF` Regulation and capitalism are co-dependent, not adversarial — historically, oversight has enabled rather than blocked economic scaling.
@@ -11,6 +12,8 @@
 - `INS-260328-896B` OpenAI's board tried to exercise its nonprofit mission authority and was immediately overridden by financial stakeholders — proving money wins over governance.
 - `INS-260330-E43F` China's cities receive 40% of tax revenue but bear 80% of expenses, forcing them to use land sales as their primary funding mechanism.
 - `INS-260403-A447` Centralized custodian failures in crypto repeat the exact structural patterns of traditional finance collapses.
+- `INS-260403-FF15` Design your organization around the conflicts you want to hear about, not around eliminating disagreement.
+- `INS-260403-2349` VC value-add is maximized through structured involvement like governance rigor, operating cadence, and early professionalization rather than ad-hoc help.
 - `INS-260403-6024` Presidents fear bond market signals more than stock drops because rising yields directly threaten the government's ability to finance itself.
 - `INS-260330-B7AB` DNA replication errors that escape proofreading accumulate silently until a critical threshold triggers disease — the same dynamic applies to institutional governance failures that prosperity masks.
 - `INS-260325-854D` China's senior leadership were all trained engineers who build compulsively — roads, homes, economies, souls. America's elite are mostly lawyers who block everything, good and bad.
@@ -19,8 +22,6 @@
 - `INS-260327-7C1A` Russia was founded by Viking traders who established fortified trading posts along rivers connecting the Baltic to Constantinople — the trade route became the state.
 - `INS-260403-C695` Just as novice pilots overcorrect and cause oscillation, investors with too much power apply excessive corrections that destabilize startups.
 - `INS-260330-6566` The difference between a dangerous fiction and a useful one is whether it includes mechanisms for self-correction, which requires honesty about its human origins.
-- `INS-260403-FF15` Design your organization around the conflicts you want to hear about, not around eliminating disagreement.
-- `INS-260403-2349` VC value-add is maximized through structured involvement like governance rigor, operating cadence, and early professionalization rather than ad-hoc help.
 - `INS-260330-1293` North Korea maintains stability by selectively tolerating illegal capitalism rather than cracking down uniformly, turning potential dissidents into co-opted participants.
 - `INS-260405-5670` Moon's 2.3-second round-trip latency allows synchronous coordination with Earth; Mars's 10-30 minute latency forces asynchronous civilization — and asynchronous civilizations can declare independence.
 - `INS-260330-7511` The Mandate of Heaven made political legitimacy conditional on moral performance, creating a recursive loop where failure itself became proof of illegitimacy.
@@ -40,7 +41,6 @@
 - `INS-260402-FC79` Ten friends each writing small checks under slightly different terms creates a cap table nightmare that VCs will either demand you fix or walk away from entirely.
 - `INS-260403-1438` Continuation funds reset carry and can change exit timing pressure; NAV facilities add leverage and opacity to the fund supporting you.
 - `INS-260402-8424` VCs invest in startups over ordinary businesses because equity-based returns through IPO/acquisition prevent the agency problem of founders self-dealing through inflated expenses.
-- `INS-260404-8791` Democratic governance alignment between India and the US reduces political risk, regulatory unpredictability, and cultural friction for American entrepreneurs in ways that create durable structural advantages.
 - `INS-260330-FA07` Mesopotamian power shifted from temple priests who interpreted gods to kings who delivered military protection and economic stability.
 - `INS-260328-2CFF` A board member is either a +1, 0, or -1 — there are only a handful of +1s in the world, so aim for a zero.
 - `INS-260403-A505` OpenAI's charter gave the board power to determine when AGI was achieved — a subjective call with massive financial consequences — making conflict inevitable as capabilities advanced.
@@ -48,6 +48,7 @@
 - `INS-260330-8686` Travis's relentless aggression built Uber into a global giant, but the same traits made him unfit to lead it once the company needed to repair its reputation and prepare for an IPO.
 - `INS-260330-F158` The Western Empire fell to internal power struggles between generals, not to barbarian military superiority — while the East survived because clear imperial authority over the Church prevented political fragmentation.
 - `INS-260324-C882` Twitter's board fired 4 CEOs in 10 years, creating a culture of chaos where execution was impossible — interested buyers (Google, Disney, Salesforce) all walked away over governance concerns deeper than price.
+- `INS-260404-8791` Democratic governance alignment between India and the US reduces political risk, regulatory unpredictability, and cultural friction for American entrepreneurs in ways that create durable structural advantages.
 - `INS-260403-BA4B` Geopolitical decentralization prevents any single lobby from permanently distorting property definitions to serve incumbents.
 - `INS-260323-4AB5` Wikipedia's deepest ongoing challenge is notability — deciding what deserves an entry — which requires nuanced rules varying by subject matter, especially for living persons.
 - `INS-260330-6BAF` The Indus Valley used uniformly sized bricks and perpendicular street grids across distant cities, implying sophisticated coordination without visible authoritarian structures.

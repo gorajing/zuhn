@@ -54,7 +54,6 @@ stance: >-
   collapse, and this same framing bias causes people to misread industry
   transitions as failures.
 related:
-  - INS-260330-881A
   - INS-260330-F5D1
   - INS-260323-DF0F
   - PRI-260406-006A

@@ -51,11 +51,11 @@ stance: >-
   budgets proves that AI capability is decoupling from capital concentration
 related:
   - INS-260322-299C
-  - INS-260327-767B
   - INS-260404-6B73
   - INS-260408-F20F
   - INS-260405-82F3
   - INS-260403-01FD
+  - INS-260409-B005
 evidence:
   - id: INS-260327-767B
     type: SUPPORTS

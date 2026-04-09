@@ -1,6 +1,6 @@
 # Topic: limitations
 
-> 45 insights
+> 47 insights
 
 - `INS-260323-EECF` [high] The optical nerve delivers about 10^15 bytes to a 4-year-old's brain versus 2x10^13 bytes of all internet text used to train LLMs -- most human knowledge comes from sensory interaction with the physical world, not from language.
 - `INS-260330-C31B` [high] AI's constraints on scientific discovery are a subset of human constraints — both fail when data is sparse, but AI excels where data is abundant but patterns are too complex for human cognition.
@@ -12,11 +12,13 @@
 - `INS-260325-1080` [high] The diagonal argument doesn't just prove something can't be done — it builds the exact thing that breaks the attempt.
 - `INS-260403-BE4D` [high] Including relevant background data (bios, papers, past interactions) in the right format and order can make or break prompt performance more than any clever technique.
 - `INS-260330-EE25` [high] Context window size, not model capability, is the binding constraint on transformer coherence in long interactions.
+- `INS-260409-2B5F` [high] Hassabis identifies continual learning as an unsolved bottleneck; brains solve it via sleep-driven memory consolidation that AI labs have not yet replicated.
 - `INS-260330-C681` [high] AGI requires genuine creative disobedience — choosing unprogrammed goals — which no current AI approach is designed to produce.
 - `INS-260403-304E` [high] RuBisCo was designed for low-oxygen atmospheres; when plants raised oxygen levels, it started failing silently half the time — a cautionary tale for AI model drift.
 - `INS-260330-82B5` [high] One bad AI interaction permanently destroys user willingness to retry, creating a vicious cycle of declining engagement and improvement.
 - `INS-260330-30CE` [high] Users who experience AI failure on first try rarely return, creating an adoption death spiral that compounds over time.
 - `INS-260323-9773` [high] OpenAI's own research confirms hallucinations cannot be eliminated even with perfect training data because they are inherent to probabilistic generation — and reasoning models make it worse by multiplying the dice rolls.
+- `INS-260409-D922` [high] Hassabis calls current models 'jagged intelligences' — amazing at certain framings but failing at basic variants, and closing this gap is core to AGI.
 - `INS-260327-9BA2` [high] LLMs manipulate language so well that people mistake fluency for intelligence, but they cannot invent or truly reason.
 - `INS-260323-B309` [high] LLMs match statistical patterns from human-generated text (wide, shallow), while formal computational systems like Wolfram Alpha build deep chains of logical inference from structured knowledge (narrow, deep).
 - `INS-260323-A5EC` [high] LLMs generate one token at a time without planning the full answer first, unlike humans who form an abstract representation of their response before mapping it to language -- this is a fundamental architectural limitation.

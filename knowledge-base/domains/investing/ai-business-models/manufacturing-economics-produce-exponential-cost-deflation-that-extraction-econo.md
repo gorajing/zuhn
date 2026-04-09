@@ -64,6 +64,7 @@ related:
   - PRI-260405-B144
   - PRI-260406-9573
   - INS-260405-24F0
+  - INS-260409-053F
 ---
 The fundamental distinction between extraction economics (coal, gas) and manufacturing economics (solar) explains why solar's cost advantage is structural rather than cyclical. Extraction requires ongoing opex to continuously procure and burn fuel, creating a cost floor. Manufacturing follows a learning curve where each doubling of cumulative production reduces unit costs by a predictable percentage.
 

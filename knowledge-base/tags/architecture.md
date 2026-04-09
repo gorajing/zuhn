@@ -4,27 +4,30 @@
 - `INS-260405-F26B` ReAct is an introduction to agent reasoning, not a complete architecture for production systems.
 - `INS-260325-160E` Persistent agents need hierarchical memory management like computer systems, not just bigger context windows.
 - `INS-260322-EAB6` Separate AI agent work into three roles: the builder constructs platforms, the orchestrator manages workflows, and executors are specialized agents that do actual work.
-- `INS-260327-1563` Attention Residue applies attention across the depth dimension rather than just temporal context, achieving 24% token efficiency improvement over standard residual connections.
 - `INS-260405-64C5` Photosynthesis solves the intermittency of sunlight by converting photon energy into a proton gradient (a charged thylakoid membrane acting as a battery), which then drives ATP synthesis on demand — completely decoupling capture from use.
 - `INS-260405-06B0` Deep inheritance hierarchies create refactoring traps that compound over time, not just stylistic inconvenience.
 - `INS-260330-30FB` G3P is photosynthesis's universal intermediate — one molecule convertible to glucose, cellulose, or starch — showing that versatile intermediates beat specialized end products for system resilience.
+- `INS-260327-1563` Attention Residue applies attention across the depth dimension rather than just temporal context, achieving 24% token efficiency improvement over standard residual connections.
+- `INS-260409-5975` LLM self-verifiers that see the reasoning trace rubber-stamp it; hiding the trace and showing only the final claim forces a fresh evaluation.
+- `INS-260409-1D91` Birds achieving cognitive parity with mammals via a completely different pallial architecture is biological proof that intelligence doesn't require a specific substrate — relevant analogy for AI systems that differ structurally from brains.
 - `INS-260320-2DDE` Maintain multiple documentation levels — broad architectural overview, specific service docs, API references — to help Claude navigate large codebases.
-- `INS-260330-EE25` Context window size, not model capability, is the binding constraint on transformer coherence in long interactions.
 - `INS-260405-DA33` DeepSeek's mHC demonstrates that structural improvements to information flow yield real capability gains without added cost.
-- `INS-260405-1F0B` Each biological neuron runs its own learning mechanisms and maintains state; each artificial neuron is just y = Wx + b, making raw neuron-count comparisons between brains and AI models deeply misleading.
-- `INS-260405-547E` AMI's $1.03B bet is that grounded, causal world models beat next-token scaling for real-world AI.
-- `INS-260405-16AB` DeepSeek's mHC paper shows that manifold constraints on layer connections preserve model stability while enabling richer information flow.
+- `INS-260330-EE25` Context window size, not model capability, is the binding constraint on transformer coherence in long interactions.
 - `INS-260320-7B4B` HuggingFace's 200-page training playbook concludes that data quality dominates architectural innovation as the key factor in LLM performance.
 - `INS-260327-1631` KimiLinear's fine-grained diagonal decay matrix enables different channels to independently retain long-range context or rapidly refresh, outperforming both full attention and prior linear attention variants.
 - `INS-260321-B014` Bayesian wind tunnel experiments prove transformers perform exact Bayesian posterior updating to 10^-3 bits accuracy, but this mechanism is purely correlational — not causal.
 - `INS-260321-8C35` AGI requires weight plasticity (continual learning without catastrophic forgetting) and causal modeling (simulation over correlation) — neither solvable by making models bigger.
 - `INS-260323-3F39` Modern frontier models are essentially GPT-2 with minor tweaks; the real advances are in training methodology, data curation, and post-training.
+- `INS-260405-1F0B` Each biological neuron runs its own learning mechanisms and maintains state; each artificial neuron is just y = Wx + b, making raw neuron-count comparisons between brains and AI models deeply misleading.
+- `INS-260405-547E` AMI's $1.03B bet is that grounded, causal world models beat next-token scaling for real-world AI.
+- `INS-260405-16AB` DeepSeek's mHC paper shows that manifold constraints on layer connections preserve model stability while enabling richer information flow.
+- `INS-260409-35EC` Hassabis disagrees with Yann LeCun — LLMs are the substrate, not a dead-end, and AGI comes from building on them rather than replacing them.
+- `INS-260409-6833` Formal proof verification (Lean, Coq) doesn't generalize to real research — agents need natural-language verification that resists self-agreement.
 - `INS-260327-7214` Autonomous driving is fundamentally different from language AI: hallucinations kill people, so the architecture must guarantee functional and behavioral safety rather than relying on scale to eliminate errors.
 - `INS-260327-5CB0` Nathan Sobo spent years building Atom on Electron, hit a performance ceiling he couldn't overcome, and rebuilt Zed in Rust from scratch because performance is an architectural choice, not a feature you bolt on later.
 - `INS-260327-9816` Simple space-time patch tokenization enables diffusion transformers to generate entire videos simultaneously with global context.
 - `INS-260405-8E85` Photosynthesis converts sunlight into ATP and NADPH as intermediate currencies, then spends those currencies in the Calvin Cycle—never coupling capture and use directly.
 - `INS-260404-F7C5` Chloroplasts charge thylakoids like batteries using proton gradients, decoupling photon arrival from ATP production.
-- `INS-260330-100F` Thylakoid membranes store energy by pumping protons to one side, creating a 'charged battery' that drives ATP synthase — energy stored as a gradient, not a molecule.
 - `INS-260329-4F8C` Abstract data types define behavior contracts while data structures provide specific implementations, and this separation is the root of all software modularity.
 - `INS-260329-D0B3` CS50's progression from binary to C to Python mirrors how software systems are actually built — each layer abstracts away the complexity below.
 - `INS-260329-425B` Dynamic arrays double in size when full, making each individual resize expensive but amortizing the cost across all appends to achieve constant time on average.
@@ -39,10 +42,13 @@
 - `INS-260329-C991` HFT pipelines use lock-free event queues because thread locking introduces unpredictable latency spikes that ruin trade timing.
 - `INS-260329-3243` HFT systems run automated pre-trade risk checks in microseconds — blocking bad orders before they hit exchanges without slowing the pipeline.
 - `INS-260330-AC7F` CPU protection rings enforce that user-space code cannot directly access kernel resources without explicit system calls.
+- `INS-260409-2D5C` Raw sources are read-only truth; the wiki is LLM-writable derivative; the schema is human-LLM co-evolved style guide.
 - `INS-260330-82B2` The stack (short-lived, auto-managed) vs heap (long-lived, manually managed) split mirrors stateless vs stateful architecture.
 - `INS-260329-C031` Abstract data types define behavior contracts while data structures provide implementations — the same separation that makes APIs, protocols, and plugin systems work.
+- `INS-260409-B80C` A shared bus with arbitration is how you escape N-squared point-to-point wiring — the same idea powers hardware buses, message queues, and event buses.
 - `INS-260330-0A8D` One unified MoE model beats 256 separate models — complexity grows quadratically with per-pair but linearly with unified
 - `INS-260329-BAB7` The variable vs pointer distinction in C++ maps directly to value vs reference patterns that pervade AI system architecture.
+- `INS-260330-100F` Thylakoid membranes store energy by pumping protons to one side, creating a 'charged battery' that drives ATP synthase — energy stored as a gradient, not a molecule.
 - `INS-260326-163A` Data quality dominates ML architecture just as install base and data gravity beat product design elegance in business -- what you've accumulated is the moat, not how you've arranged it.
 - `INS-260405-C780` Photosynthesis runs as two completely separate stages—light reactions convert photons into ATP and NADPH, then the Calvin cycle spends that stored currency to fix carbon—allowing each stage to be optimized, timed, and regulated independently.
 - `INS-260330-72D0` Building height is capped by when base materials crush under their own weight, making material science the true bottleneck.

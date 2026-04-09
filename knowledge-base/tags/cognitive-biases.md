@@ -1,6 +1,7 @@
 # Tag: cognitive-biases
 
 - `INS-260404-32C5` Ornate prose tricks the writer into believing they've said more than they have, creating an illusion of depth that readers don't share.
+- `INS-260409-A239` Treating your current self-model as untrustworthy is a generative stance when paired with willingness to act on better evidence, not a paralysis.
 - `INS-260403-C936` Entrepreneurs systematically skip the hypothesis-mapping step because building feels more productive than thinking, even when thinking would save months of wasted effort.
 - `INS-260405-3048` RuBisCo worked perfectly in a low-oxygen world; the problem wasn't the enzyme but the changed atmosphere — the same dynamic explains many human cognitive 'errors'.
 - `INS-260402-8ACF` Truly novel and valuable ideas must appear bad to most evaluators, because obvious good ideas get executed immediately and stop being novel.

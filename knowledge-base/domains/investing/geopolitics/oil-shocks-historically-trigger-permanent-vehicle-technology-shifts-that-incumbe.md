@@ -51,11 +51,11 @@ stance: >-
   because batteries have crossed the cost threshold where EVs are simply better
   products.
 related:
-  - INS-260327-5E03
   - INS-260327-9B97
   - INS-260405-7DC3
   - INS-260403-E992
   - PRI-260325-070D
+  - INS-260409-BE4C
   - PRI-260328-8284
   - INS-260327-DD1D
 ---

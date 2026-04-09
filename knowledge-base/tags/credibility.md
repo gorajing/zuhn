@@ -23,8 +23,8 @@
 - `INS-260405-2AFB` Never say 'we're passionate' — investors tune out assertions and read posture, pacing, and directness instead.
 - `INS-260326-3C9C` Alexander's Opis speech worked because he could strip and show his scars -- shared suffering creates unchallengeable authority.
 - `INS-260403-93BB` Founder visibility isn't self-promotion — it's a leadership tool that enables team confidence, investor trust, and market legibility.
-- `INS-260329-95EA` Leading with a real negative before a positive ('but') makes the positive far more convincing because it signals honesty.
-- `INS-260329-4020` Give massive value for free to 100 people without asking for anything — a handful will respond, creating more income than most jobs and establishing genuine credibility.
 - `INS-260405-0D9A` Structure your roadmap so each milestone lowers the cost or risk of the next, making progress compound rather than just accumulate.
 - `INS-260405-F2C7` Vision should pull milestones forward, not justify why you missed them—keep the two layers structurally separate in your pitch.
 - `INS-260403-F6EC` Metrics that don't connect to revenue, retention, or scalability harm credibility when presented to sophisticated investors.
+- `INS-260329-95EA` Leading with a real negative before a positive ('but') makes the positive far more convincing because it signals honesty.
+- `INS-260329-4020` Give massive value for free to 100 people without asking for anything — a handful will respond, creating more income than most jobs and establishing genuine credibility.

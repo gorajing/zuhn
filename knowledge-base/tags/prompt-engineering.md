@@ -3,8 +3,6 @@
 - `INS-260403-7AD0` Prompts that specify role, output structure, and analytical framework can match institutional analyst output quality.
 - `INS-260330-0E6E` Programmers should deliberately shift from low-level code writing to natural-language system design as AI code generation improves.
 - `INS-260320-F78E` Prompt engineering is like playing piano — you can't just sit down and start; it requires practice and iteration to develop the skill.
-- `INS-260403-BE4D` Including relevant background data (bios, papers, past interactions) in the right format and order can make or break prompt performance more than any clever technique.
-- `INS-260320-D972` Let AI rewrite your prompts in the model's own 'language' for 20-30% quality improvement using the meta-prompt technique.
 - `INS-260403-5F41` Prompting 'think step by step: identify the issue, evaluate solutions, then recommend based on cost and feasibility' forces the model to reason rather than pattern-match to an answer.
 - `INS-260403-F400` Tighter constraints on AI prompts force more creative and precise outputs by eliminating the vast space of mediocre default responses.
 - `INS-260330-4AD5` AI improves its usability faster than you can learn tricks, so just speak naturally and let the models catch up to you.
@@ -12,9 +10,12 @@
 - `INS-260403-31E4` Follow-up prompts that reshape output ('too long, trim to 100 words, make it conversational') are more effective than trying to craft one perfect initial prompt.
 - `INS-260403-7D7A` Treating prompts as code-like instructions rather than search queries is the single highest-leverage shift for AI output quality.
 - `INS-260403-529D` Telling the AI 'you are a clinical researcher' or 'you are a senior developer' shifts its entire output posture from generalist to specialist.
+- `INS-260320-D972` Let AI rewrite your prompts in the model's own 'language' for 20-30% quality improvement using the meta-prompt technique.
+- `INS-260403-BE4D` Including relevant background data (bios, papers, past interactions) in the right format and order can make or break prompt performance more than any clever technique.
 - `INS-260403-18CA` Few-shot prompting can take accuracy from 0% to 90%, while role prompting has negligible effect on correctness.
 - `INS-260405-880C` Prompt engineering has an accumulating body of research-backed techniques that reward systematic study over ad-hoc experimentation.
 - `INS-260327-33FA` On the HumanEval coding benchmark, GPT-3.5 with an agentic workflow outperformed GPT-4 zero-shot, demonstrating that iteration beats raw model capability.
 - `INS-260403-F664` Production system prompts that run millions of times must be hardened and optimized like code, representing a distinct discipline from conversational prompting.
+- `INS-260409-325B` Let Claude write the detailed prompt; you write the simple intent.
 - `INS-260327-0700` Most AI startups fail because they stop at demo-quality 60% accuracy instead of grinding through evals to reach 97%+.
 - `INS-260328-0B42` Dalton's hack: ask 'if I were doing office hours with myself, what would I say?' to access your own best advice.

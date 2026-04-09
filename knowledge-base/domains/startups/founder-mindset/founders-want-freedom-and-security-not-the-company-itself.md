@@ -52,6 +52,7 @@ related:
   - INS-260403-7C88
   - PRI-260406-54BE
   - INS-260404-7325
+  - INS-260409-3CCA
 ---
 Graham identifies a paradox: founders start companies seeking autonomy and financial safety, yet running a business demands total attention (no freedom) and ties income to continuous effort (no security). The few founders who genuinely love operating their specific business are rare — because success requires fanatical attention to customers' needs, which is an externally-imposed demand unlikely to perfectly align with personal interests.
 

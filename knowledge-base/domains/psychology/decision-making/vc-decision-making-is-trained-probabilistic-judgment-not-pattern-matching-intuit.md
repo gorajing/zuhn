@@ -57,8 +57,8 @@ related:
   - INS-260327-7DBF
   - INS-260329-F07A
   - INS-260330-487E
-  - INS-260330-3B05
   - INS-260330-DB4B
+  - INS-260403-EB56
 ---
 Stanford professor Ilya Strebulaev's research in 'The Venture Mindset' reveals that elite VC decision-making isn't mystical pattern recognition—it's a trained cognitive discipline. The best investors learn to think in probability distributions rather than binary outcomes, systematically leaning into uncertainty rather than fighting it.
 

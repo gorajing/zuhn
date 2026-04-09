@@ -55,11 +55,11 @@ stance: >-
 related:
   - INS-260404-BEBB
   - INS-260404-ADEE
-  - INS-260403-4B31
   - INS-260405-93AE
   - INS-260404-238B
   - INS-260404-C9D0
   - PRI-260406-FC94
+  - INS-260409-E421
 ---
 Research on Sweden's outsized unicorn production reveals that the ecosystem's engine is founder recycling — alumni from Spotify, Klarna, and Skype taking their exits, knowledge, and networks and reinvesting them into the next generation of startups. This creates a compounding flywheel: each successful exit produces multiple experienced founders and angel investors who de-risk the next cohort.
 

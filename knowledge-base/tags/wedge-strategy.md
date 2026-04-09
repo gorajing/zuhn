@@ -1,5 +1,6 @@
 # Tag: wedge-strategy
 
+- `INS-260409-E44A` Code was the ideal wedge product for Anthropic because it opened enterprise IT budgets and because 'if you can generate code, you can generate anything else by generating the code that creates it.'
 - `INS-260403-18F7` Startups that automate compliance (like Delve doing SOC 2 in 15 hours vs. months) win by directly unblocking stalled enterprise sales pipelines.
 - `INS-260404-3ACB` Neuralink entered through therapeutic use (paralysis) where 77% public approval exists, avoiding the 78% resistance to enhancement use cases.
 - `INS-260330-13E8` Find the gap between existing enterprise products, nail that narrow use case, then expand to adjacent problems over time.

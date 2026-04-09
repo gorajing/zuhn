@@ -41,15 +41,13 @@ stance: >-
   makes negative results uninterpretable because you cannot distinguish a wrong
   solution from a nonexistent problem.
 related:
-  - INS-260330-62D6
   - INS-260402-5522
   - INS-260402-4AB4
   - INS-260405-ECCD
   - INS-260405-D20A
+  - INS-260409-2EF3
   - INS-260325-898A
-  - INS-260403-3739
   - INS-260403-EAF7
-  - INS-260405-D606
 evidence:
   - id: INS-260330-B15C
     type: SUPPORTS

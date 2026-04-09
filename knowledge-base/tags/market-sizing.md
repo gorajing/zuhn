@@ -5,6 +5,7 @@
 - `INS-260405-2703` Niche markets look small on paper but often yield outsized returns when a startup owns the vertical completely.
 - `INS-260403-101D` The shift from selling tools ($1K/person/year) to replacing labor ($100K/person/year) expands the addressable market by roughly 50x.
 - `INS-260405-B4D4` The 100x unit-economics threshold — cost savings plus revenue uplift — is the practical filter for identifying which AI workforce opportunities will achieve durable adoption.
+- `INS-260409-C768` Problem precision beats market size — a small market solved precisely outperforms a big market solved approximately.
 - `INS-260322-054E` The largest AI opportunity is not replacing existing software but replacing labor tasks where the cost-to-value equation was previously inverted.
 - `INS-260405-1BFA` Skip the TAM slide — show investors you understand the idea maze instead.
 - `INS-260403-6ACB` Bottom-up market sizing using specific customer counts and realistic pricing builds far more investor credibility than vague top-down industry size claims.

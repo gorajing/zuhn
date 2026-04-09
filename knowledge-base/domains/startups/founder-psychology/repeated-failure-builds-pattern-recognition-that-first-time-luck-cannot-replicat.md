@@ -48,8 +48,8 @@ related:
   - PRI-260407-2DBD
   - PRI-260405-E256
   - INS-260329-5FB5
+  - INS-260409-882E
   - PRI-260323-1B96
-  - PRI-260407-7D5E
   - INS-260329-ECB5
 stance: >-
   Investors who back founders with 3-4 failures are buying battle-tested pattern

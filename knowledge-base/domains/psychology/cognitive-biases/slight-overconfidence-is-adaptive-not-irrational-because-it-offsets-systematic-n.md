@@ -58,13 +58,14 @@ stance: >-
   is more accurate in expected value terms than precise pessimism when
   systematic downward biases are in play.
 related:
-  - INS-260330-FB5A
   - INS-260330-A484
   - INS-260403-B7E3
   - INS-260403-222E
   - INS-260405-80B0
+  - INS-260330-FB5A
   - INS-260403-1A05
   - INS-260403-387D
+  - INS-260409-A318
 ---
 Graham cites G.H. Hardy's observation that good work is not done by 'humble' men — overestimating the importance of your subject and your role in it compensates for the overly harsh judgments you'll make of your initial results. This is a mathematically coherent point: if you estimate you're 20% toward a goal worth 100, but you're actually 10% toward a goal worth 200, you underestimate expected value. Overestimating the goal corrects the error.
 

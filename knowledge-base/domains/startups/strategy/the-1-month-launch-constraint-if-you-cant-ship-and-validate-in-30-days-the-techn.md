@@ -48,7 +48,6 @@ resolutions:
 related:
   - INS-260322-1D52
   - INS-260322-3646
-  - INS-260325-C5FD
   - INS-260323-19A8
   - INS-260323-7F3E
   - PRI-260406-9780
@@ -56,6 +55,7 @@ related:
   - PRI-260405-0AC6
   - INS-260329-F7F4
   - INS-260327-0C56
+  - INS-260327-B17E
 stance: >-
   A product that takes months to reach a testable state is burning the founder's
   most scarce resource

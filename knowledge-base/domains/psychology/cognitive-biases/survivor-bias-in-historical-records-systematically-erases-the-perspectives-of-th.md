@@ -55,10 +55,10 @@ stance: >-
   within the victor's categories.
 related:
   - INS-260330-3491
+  - INS-260409-FB26
   - INS-260330-FE21
   - INS-260330-4E5F
   - INS-260327-B37E
-  - INS-260330-B68F
 ---
 Native Americans had no written language, so the entire historical record of European-Indigenous contact comes from European sources. Even sympathetic accounts like Bartolomé de las Casas's writings frame indigenous suffering through European moral categories (Christian ethics, property rights, civilization). The Native American experience of contact — their strategic reasoning, cultural interpretation, internal debates — is largely lost.
 

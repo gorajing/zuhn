@@ -43,6 +43,6 @@ related:
   - INS-260327-F222
   - INS-260327-3586
   - INS-260327-4998
-  - INS-260327-ED21
+  - INS-260409-E73C
 ---
 Magnesium oxide the cheapest and most common supplemental form has only 4% bioavailability while glycinate, taurate, and malate achieve 50-80% absorption -- making form selection critical

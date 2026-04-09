@@ -3,11 +3,19 @@
 - `INS-260322-CCAA` As agents become intermediaries between users and systems, optimization shifts from visual design to machine-readable structure and insight density.
 - `INS-260403-3C6D` Curated prompt packages that encode professional workflows represent a transitional business model that will shrink as models become more capable at self-structuring.
 - `INS-260330-E414` Recurring audience funding lets creators pursue ambitious projects that sponsors would reject as too risky or long-timeline.
+- `INS-260409-3064` People comment to correct what they think is wrong, so contrarian framing is a reliable comment-rate multiplier.
+- `INS-260409-241B` Naming a specific cult-loved brand instead of a generic category gives viewers a pre-formed opinion to defend or attack in the comments.
 - `INS-260322-81CD` Frame your content around a public if-then challenge ('If I get X followers, I'll do Y') to create narrative tension that keeps viewers coming back.
+- `INS-260409-6ABF` The four-factor framework — relevance, non-obvious insight, high absorbability, short implementation distance — is a checklist for engagement-rate optimization.
+- `INS-260409-8750` Algorithms pick ~200 viewers as a fit-score sample test; that group's engagement is the single most leveraged lever in short-form distribution.
+- `INS-260409-BE39` Topic classification draws from visual, audio, and text signals together, so off-topic visuals or transcripts will contradict on-topic captions and confuse the fit score.
 - `INS-260323-3614` Pakman deleted a controversial tweet under threat pressure, which he deeply regrets — the attacks escalated anyway, and deleting removed his ability to show context when support arrived.
+- `INS-260409-94F8` Consistent topic-avatar pairing is the only true compounding asset in short-form distribution because it sharpens the platform's fit-score model of your channel.
+- `INS-260409-2906` Reverse-engineer outlier videos in your niche instead of ideating from scratch — the data already tells you what works.
 - `INS-260403-096C` When content can't be sold directly, monetize its scarce complements: concerts for music, advertising for articles, theatrical experiences for movies.
 - `INS-260404-B0DC` Sustained high-volume free value delivery builds trust capital that later converts into business opportunities at rates impossible through cold outreach.
 - `INS-260329-4CFD` Comprehensive single-resource tutorials capture high-intent beginner search queries and compound views over years.
+- `INS-260409-DEF4` Creators should now treat content production as dual-audience — humans and LLMs — with shorts for how-to volume and long-form written for depth that gets cited.
 - `INS-260402-5BE6` AI handles top-of-funnel informational queries well, but struggles to replicate case studies, product comparisons, and implementation guides rooted in real experience.
 - `INS-260405-D216` In AI content, doing-and-sharing beats talking-about at generating durable audience trust.
 - `INS-260329-BC11` Self-publishing builds a compounding content asset; gatekeeper-dependent publishing trades leverage for credibility.

@@ -57,6 +57,7 @@ related:
   - INS-260403-66EF
   - INS-260322-9DDD
   - INS-260402-E148
+  - INS-260409-01E7
 ---
 The article reveals that Speedrun founders get paired with experts in product, brand, marketing, and business development. They rehearse live demos with actual buyers and refine storytelling with media operators. They 'learn to sell before they finish building.' The $1M in capital and $5M in credits are table stakes—the structural advantage is compressing what normally takes 6-12 months of founder fumbling into 12 weeks of coached iteration.
 

@@ -1,6 +1,6 @@
 # Topic: ai-business-models
 
-> 69 insights
+> 71 insights
 
 - `INS-260403-13AF` [high] Healthcare's $1T/year administrative layer — 185,000 coders translating across 70,000+ diagnosis codes — represents exactly the kind of repetitive translation work AI automates first.
 - `INS-260327-93F9` [high] Companies racing to replace workers with AI are collectively destroying the consumer base that buys their products - automation success and economic success may be fundamentally incompatible.
@@ -30,6 +30,7 @@
 - `INS-260403-CCED` [high] Microsoft and Meta both beat revenue expectations but saw stock declines because investors focused on escalating AI capex eating into margins, while Alphabet and Amazon were rewarded for combining growth with execution efficiency.
 - `INS-260327-CFE5` [high] A company can miss earnings targets and still surge 30% if it tells a compelling AI story, revealing that markets are pricing narrative not performance.
 - `INS-260403-A691` [high] Oracle's $300B OpenAI deal dwarfs OpenAI's $12.7B projected revenue, concentrating RPO risk in a single customer.
+- `INS-260409-5FBA` [high] OpenAI is a consumer-subscription business and Anthropic is an API/enterprise business; comparing headline revenue numbers is apples-to-oranges until both normalize for public markets.
 - `INS-260327-505A` [high] Oracle gained more market cap in one day than all of McDonald's despite missing earnings targets, driven by AI promises, TikTok control, and deep political connections rather than product merit.
 - `INS-260323-8544` [high] In power-law distributions, the standard deviation is infinite, the average keeps growing with more samples, and one outlier (like Bill Gates in a room) dominates everything — making expected-value calculations from normal-distribution thinking dangerously misleading.
 - `INS-260325-FD14` [high] TurboQuant's data-oblivious algorithm beats dataset-specific tuned competitors, demonstrating that fundamental algorithmic breakthroughs can instantly commoditize proprietary optimization moats.
@@ -63,6 +64,7 @@
 - `INS-260404-D654` [medium] Tesla's $1T pay package only vests if the company hits $8.5T valuation through AI, robotics, and energy milestones — aligning Musk's payout with transformative value creation.
 - `INS-260403-88F2` [medium] OpenAI's conversion to a for-profit PBC at $500B valuation, with nonprofit retaining control and a $25B commitment, establishes a new governance playbook for AI companies balancing mission with scale.
 - `INS-260330-6411` [medium] ETH's dual role as both money and ecosystem fuel creates a synergistic flywheel that pure store-of-value assets like Bitcoin cannot replicate.
+- `INS-260409-3640` [medium] SaaS multiples are collapsing because if super-intelligence is coming, forward cash flows are uncertain, so investors are switching to 'how many years of FCF to earn back one share' as the real pricing heuristic.
 - `INS-260403-36EC` [medium] SaaS business models that charge for access to human-engineered software are being repriced by markets as AI makes equivalent software trivially cheap to produce.
 - `INS-260403-3106` [medium] Only a handful of public SaaS companies still command premium revenue multiples, with survivors owning infrastructure layers and solving mission-critical problems.
 - `INS-260403-1337` [medium] Sequoia views AI as an industrial revolution built on cognition instead of machinery, predicting it will mint the largest fortunes in modern history.

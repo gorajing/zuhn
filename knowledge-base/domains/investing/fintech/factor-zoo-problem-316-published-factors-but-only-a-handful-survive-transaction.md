@@ -51,6 +51,7 @@ related:
   - PRI-260407-40F9
   - PRI-260405-B144
   - PRI-260406-E015
+  - INS-260409-6ABF
 stance: >-
   After Fama-French opened the door to factor research, academics published 316+
   distinct factors by 2016

@@ -58,9 +58,9 @@ stance: >-
 related:
   - INS-260403-E9E0
   - INS-260327-8997
+  - INS-260409-B12B
   - PRI-260328-37D8
   - INS-260403-8874
-  - INS-260403-6184
 ---
 The record 43-day government shutdown required roughly 700,000 federal workers to keep working without pay — a structural absurdity that persisted because those services couldn't stop. The political standoff (ACA subsidy extensions vs. reopening government) was resolved with only a promise of a future vote, not a durable solution.
 

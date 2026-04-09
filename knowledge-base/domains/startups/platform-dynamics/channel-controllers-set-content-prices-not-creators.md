@@ -44,11 +44,11 @@ stance: >-
   Whoever controls the distribution device (not the content) dictates pricing,
   inevitably driving content prices toward zero
 related:
+  - INS-260409-D681
   - INS-260404-B8EB
   - INS-260327-58AC
   - INS-260327-19E5
   - INS-260403-0435
-  - INS-260324-157A
 ---
 Graham identifies that iTunes succeeded not by selling music but by controlling the default path onto the iPod. The toll must stay below the threshold of attention — once it becomes painful, users route around it. This tollbooth model means the platform owner's incentive is always to make content as cheap as possible to maximize device adoption.
 

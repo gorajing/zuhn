@@ -61,8 +61,10 @@ related:
   - INS-260330-ECA9
   - INS-260403-47FC
   - INS-260403-E6A8
+  - INS-260409-3CDD
   - INS-260403-6EED
-  - INS-260330-DBA4
+  - INS-260409-5E35
+  - INS-260409-7496
 ---
 The 1917 Fatima sun miracle — spinning, color-shifting sun seen by ~100,000 — has long been cited as empirical proof of Catholic faith. But a 1998 event at Thailand's Dhammakaya Temple reproduced nearly identical phenomena (spinning sun, color shifts, vivid hallucinations) in a crowd of 20,000 Buddhists with no connection to the Catholic tradition.
 

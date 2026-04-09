@@ -53,7 +53,7 @@ related:
   - INS-260405-AAB7
   - INS-260330-F348
   - INS-260327-48BA
-  - INS-260325-6874
+  - INS-260409-FFEA
 ---
 The alcoholic character knows exactly what the Rawls Foundation requires, knows he could theoretically develop the disposition to pass, and is even given explicit advice (Father Rawls' 'fake it till you make it' strategy). He refuses not from inability but from pride: 'All I've got is my pride. I'm not going to spend the few shitty years I have left training myself to be some rich person's bitch.' This illustrates how identity attachment — even to a harmful identity — can override rational self-interest.
 

@@ -1,6 +1,6 @@
 # Topic: founder-psychology
 
-> 28 insights
+> 29 insights
 
 - `INS-260330-D644` [high] Don't start acquisition conversations unless you'd accept a low offer — the distraction and psychological demoralization of entertaining buyers kills more companies than most founders realize.
 - `INS-260405-80B0` [high] Being slightly overconfident armors you against both others' skepticism and your own harsh early-work judgments.
@@ -17,6 +17,7 @@
 - `INS-260329-5B3D` [high] Spending to look rich instead of being rich reveals that you've outsourced your self-worth to other people's opinions.
 - `INS-260330-7D83` [high] Travis's 'uber against the world' narrative drove 12-hour workdays and fierce loyalty, but the same combative culture produced internal backstabbing, sexual harassment cover-ups, and employee burnout.
 - `INS-260330-3138` [high] Success amplifies both the highs and lows of founding — the swings get wider, not smaller.
+- `INS-260409-50C5` [high] Fear of cringe is more costly than actual cringe — it blocks the first reps that mastery requires.
 - `INS-260405-68DC` [high] Good engineers made into managers as a reward for engineering excellence reliably become bad managers — the role requires different skills, not more of the same.
 - `INS-260330-DC8B` [medium] Burnout typically signals you're working on something that isn't working or that you don't fundamentally enjoy, not that you need a vacation.
 - `INS-260404-91B8` [medium] Designing work around natural temperament produces sustainable high performance, while chronic temperament mismatch leads to burnout regardless of talent.

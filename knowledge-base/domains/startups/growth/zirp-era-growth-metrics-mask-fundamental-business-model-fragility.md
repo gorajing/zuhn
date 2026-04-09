@@ -48,9 +48,7 @@ stance: >-
   cheap capital rewards revenue growth over profitability
 related:
   - INS-260327-226A
-  - INS-260328-AB0C
   - INS-260402-96E2
-  - INS-260403-368A
   - INS-260403-E33B
   - PRI-260405-5912
   - PRI-260328-0993

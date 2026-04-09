@@ -1,10 +1,10 @@
 # Tag: ambition
 
 - `INS-260327-3918` Kennedy's deadline — 'land a man on the Moon before the decade is out' — mobilized $25B, 400,000 workers, and unprecedented innovation because the specificity and audacity of the goal demanded maximum effort.
-- `INS-260325-622D` Mentions of 'find your purpose' in books surged 700% in two decades, creating an Epic Script that stigmatizes simple, content lives.
 - `INS-260330-790A` Serial pivots away from proven talent usually signal identity rejection rather than strategic diversification.
 - `INS-260404-FADE` Early versions of ambitious projects look worse than they are because we lack cultural norms for evaluating unfinished work.
 - `INS-260330-F6B1` Per-project procrastination hides behind busy work on less important tasks, causing people to waste years without noticing.
+- `INS-260325-622D` Mentions of 'find your purpose' in books surged 700% in two decades, creating an Epic Script that stigmatizes simple, content lives.
 - `INS-260405-7BA5` Every ambitious project looks bad early — the problem is not the work, it's the absence of calibrated judgment for unfinished things.
 - `INS-260405-020E` Lame-looking early work on ambitious projects is not accurately lame — it's accurately early.
 - `INS-260403-AA0B` Important problems create an almost physical pain that paralyzes—you must approach them obliquely rather than head-on.
@@ -17,6 +17,7 @@
 - `INS-260403-C4E2` When enough people around you are doing something ambitious, it stops feeling crazy and starts feeling like the obvious next step.
 - `INS-260403-4B81` Great projects universally pass through a phase where they look embarrassingly bad, and most people quit before pushing through it.
 - `INS-260404-056D` Great work requires pushing through an early phase where your output looks embarrassingly bad.
+- `INS-260409-B9A1` If you don't believe in your own ending, no one else can be recruited to help you get there.
 - `INS-260404-F18F` Great projects universally pass through an embarrassing early phase that most people mistake for evidence of failure.
 - `INS-260404-F8E6` Great work almost always looks lame at first; the fear of that lameness is the primary killer of ambitious projects.
 - `INS-260403-5EE3` Applying finished-work standards to early-stage projects is a category error that destroys ambitious work.
@@ -29,11 +30,11 @@
 - `INS-260404-CA58` Intimidating startup ideas have less competition precisely because most founders are too scared to attempt them.
 - `INS-260329-EF89` Use public company winners as your benchmark — studying someone who 'might succeed' teaches less than studying someone who already did.
 - `INS-260402-7E2A` Ambition makes you climb known peaks, but curiosity can create entirely new fields with the most extreme returns.
-- `INS-260328-FF2C` The smartest people can make the impossible happen, but if you cannot attract the smartest people, you cannot even make the possible happen.
-- `INS-260403-5441` The biggest startup ideas trigger fear and identity threat, causing founders to unconsciously filter them out.
 - `INS-260403-C9C2` Ambitious people can now bypass corporate ladders entirely by building things the market judges directly, which was nearly impossible a generation ago.
 - `INS-260321-C0A4` Your probability of success directly correlates with whether your closest friends care about and push you toward what you want to achieve.
 - `INS-260403-886D` Competitive drive without ambitious projects to channel it into reliably turns into bitterness, trolling, and tearing down others' ideas.
+- `INS-260328-FF2C` The smartest people can make the impossible happen, but if you cannot attract the smartest people, you cannot even make the possible happen.
+- `INS-260403-5441` The biggest startup ideas trigger fear and identity threat, causing founders to unconsciously filter them out.
 - `INS-260403-4942` Fifteenth-century Florentine artists produced extraordinary work partly because they believed extraordinary work was possible and competed fiercely to achieve it.
 - `INS-260327-4E34` Reaching unicorn status is just 0-to-1—the real value creation is in the 1-to-10 and 10-to-100 phases.
 - `INS-260403-0530` New York struggles as a startup hub because founders there are second-class citizens in a status hierarchy that most admires financial wealth.

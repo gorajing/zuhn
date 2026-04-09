@@ -52,10 +52,10 @@ stance: >-
   outcomes.
 related:
   - INS-260403-393C
+  - INS-260409-A55C
   - INS-260327-0053
   - INS-260330-9351
   - PRI-260328-0C86
-  - INS-260329-8B10
 evidence:
   - id: INS-260327-0053
     type: CHALLENGES

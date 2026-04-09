@@ -1,6 +1,6 @@
 # Topic: biohacking
 
-> 119 insights
+> 125 insights
 
 - `INS-260330-B173` [high] Running up stairs for 20 seconds, 2-3 times daily across a workday, significantly improves VO2 max and blood glucose control.
 - `INS-260326-BF32` [high] Evolution optimized for stability under disruption, not peak performance — pushing one parameter to its optimum can crash the stability system that keeps everything else running.
@@ -60,6 +60,7 @@
 - `INS-260325-9693` [high] Sleep deprivation impairs cognition equivalent to being legally drunk, and weekend catch-up sleep is a myth — circadian rhythms don't allow debt repayment.
 - `INS-260327-6916` [high] The pillars of natural testosterone optimization are: 7-8 hours of consistent sleep, adequate carbohydrates, avoiding endocrine disruptors, and nutrient-dense food -- no TRT required at any age.
 - `INS-260325-5501` [high] Slowing biological aging would prevent or lessen multiple diseases simultaneously, outperforming the current approach of treating each disease individually.
+- `INS-260409-9991` [high] Clinical and recreational psychedelic use are different interventions and their risk/benefit data should not be pooled.
 - `INS-260323-133A` [high] Editing your own cells (somatic) affects only you; editing embryos (germline) permanently changes all future descendants — a fundamentally different ethical calculus.
 - `INS-260330-DC78` [high] The difference between 6x10 and 10x10 on compound lifts is the difference between a testosterone spike and a cortisol spike.
 - `INS-260329-A9C0` [high] Take a 20-second break every 20 minutes to focus on something 20 feet away to prevent cumulative eye strain.
@@ -88,10 +89,12 @@
 - `INS-260327-EE51` [medium] Inner thigh fat accumulation is driven by estrogen dominance not lack of targeted exercise
 - `INS-260327-78E6` [medium] Keto dieters who claim they need less sleep are misinterpreting sympathetic nervous system overdrive from elevated cortisol and catecholamines as reduced sleep need.
 - `INS-260327-C0AB` [medium] Magnesium taurate and malate are the best-absorbed forms; citrate causes diarrhea, glycinate may deplete methyl groups in those with MTHFR mutations, and threonate may cross the blood-brain barrier.
+- `INS-260409-AA34` [medium] Microneedling regrows hair by physically breaking scar tissue so oxygen and stem cell signaling can reach dormant follicles.
 - `INS-260327-5DB4` [medium] Methylene blue's perceived benefits are likely from its MAOI properties altering neurotransmitters rather than improving metabolism; it actually reduces ATP in healthy mitochondria.
 - `INS-260327-1C1B` [medium] Methylene blue bypasses parts of the electron transport chain, which helps broken mitochondria but reduces ATP in healthy ones; its MAOI effects confuse users into thinking they have more energy.
 - `INS-260327-027E` [medium] Middle-of-night waking responds to blood sugar stabilization and specific breathing techniques
 - `INS-260327-918A` [medium] Clinical studies show milk and orange juice are more hydrating than plain water; optimal daily hydration is 2.3L of fluid paired with 8-9g salt, consumed in the first 10 hours after waking.
+- `INS-260409-9C70` [medium] Minoxidil is a vasodilator treating hypoxia; finasteride is a 5-AR inhibitor blocking DHT — they address sequential steps in the same pathology, not the same step.
 - `INS-260327-C150` [medium] Modern LED lighting damages health through invisible flicker and circadian-disrupting blue light spectra
 - `INS-260404-67F8` [medium] Neuralink improved signal quality in 18 of 20 cases by incorporating lessons from its first human implant recipient.
 - `INS-260403-2BAD` [medium] Neurofeedback uses real-time brainwave monitoring with reward signals to train the brain toward calmer, more focused configurations.
@@ -100,6 +103,7 @@
 - `INS-260325-3AE4` [medium] fMRI studies show psychedelics produce massive increases in communication between brain areas that normally never talk to each other — breaking down the brain's usual compartmentalization.
 - `INS-260325-6576` [medium] Animal research suggests psychedelics increase neuroplasticity in the days after use, creating a window where new patterns stick more easily — explaining why single sessions produce lasting change.
 - `INS-260330-4A7F` [medium] Undercorrecting vision to exercise eye muscles may help the lens but starves the retina and brain of sharp signals — the tradeoff favors wearing readers.
+- `INS-260409-32E6` [medium] Red light at 630-850nm penetrates tissue and restores mitochondrial function, giving follicles the ATP needed to grow hair.
 - `INS-260325-FEDF` [medium] Rapamycin extended remaining mouse lifespan by 10-15% when given late in life via autophagy induction, and existing safety profiles mean human trials could yield results within a decade.
 - `INS-260327-AD25` [medium] Sauna benefits require staying below 100C to avoid dementia risk while protecting testicular health
 - `INS-260327-5B5C` [medium] Research shows sauna temperatures above 100C are associated with doubled dementia risk, while 80-100C (175-200F) provides cardiovascular and longevity benefits.
@@ -120,4 +124,6 @@
 - `INS-260327-B987` [low] Grounding mats that connect to earth's electromagnetic field may be the most effective non-pharmaceutical sleep relaxation tool, based on reported subjective effects and emerging research.
 - `INS-260327-1E87` [low] Ranking from least to most harmful: cigars (quality tobacco leaf), nicotine pouches, marijuana, vaping, cigarettes.
 - `INS-260327-D070` [low] Molecular hydrogen (H2) in water shows emerging evidence as a selective antioxidant that targets harmful hydroxyl radicals without suppressing beneficial ROS signaling.
+- `INS-260409-3262` [low] Natural 5-AR inhibitors are weaker but more local than finasteride, trading efficacy for a better systemic side effect profile.
+- `INS-260409-2384` [low] Mouse evidence is strong enough that expectant fathers should treat the pre-conception window as a health-optimization window — low-cost bet with potentially meaningful upside for the child.
 - `INS-260327-51E8` [low] Specific compounds enhance nighttime fat oxidation during the extended overnight fast

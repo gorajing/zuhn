@@ -54,10 +54,10 @@ related:
   - INS-260330-E4D9
   - INS-260403-CEC0
   - INS-260403-88F2
-  - INS-260403-62D0
   - INS-260404-8791
   - PRI-260406-4B0E
   - INS-260323-4C43
+  - INS-260404-7679
 ---
 a16z solved the venture scaling problem by giving Ben Horowitz unilateral organizational authority while keeping each fund structured like a small VC with a maximum of 5 GPs. The platform scales horizontally while investing teams stay small. This mirrors corporate governance principles where decisive leadership enables structural change that consensus-based models cannot achieve.
 

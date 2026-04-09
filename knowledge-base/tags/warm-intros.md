@@ -1,5 +1,6 @@
 # Tag: warm-intros
 
+- `INS-260409-0503` You can't go from no relationship to acquired acquirer in two months any more than you can close a cold Series A in three weeks.
 - `INS-260403-D0BA` Over 300 venture firms accept cold pitches directly, undermining the conventional wisdom that warm introductions are essential to fundraise.
 - `INS-260403-77B4` PG sent 10+ emails over a month pushing Fred Wilson toward Airbnb, each adding a new data point.
 - `INS-260403-C95C` Contact portfolio founders of target VCs to generate warm introductions rather than cold-emailing investors directly.

@@ -1,6 +1,6 @@
 # Topic: platform-shifts
 
-> 51 insights
+> 55 insights
 
 - `INS-260403-5DD7` [high] Selling AI as the product rather than as the means to a complete outcome creates a fragile, easily copied competitive position.
 - `INS-260403-AC02` [high] The AI vs SaaS narrative mirrors the SaaS vs on-premise transition — incumbents adapt and absorb the new paradigm rather than disappearing.
@@ -27,10 +27,13 @@
 - `INS-260323-89C2` [high] The 10 Blue Links was always a compromise — if the Google founders had LLMs from the start, they would have gone straight to direct answers, making the current AI transition an inevitability, not a disruption.
 - `INS-260404-CCB1` [high] Vertical AI solutions specialized for specific industries will outperform horizontal AI platforms by building deeper moats through domain expertise and proprietary data.
 - `INS-260330-AB62` [high] Declarative UI frameworks won adoption by making UI a function of state, eliminating manual DOM synchronization bugs rather than improving raw performance.
+- `INS-260409-A318` [high] Hassabis confirms Amara's Law holds for AI: we overestimate what's possible in a year and underestimate what's possible in 10 years — even amid current hype.
 - `INS-260405-54B7` [high] Tesla's January 2026 unsupervised robotaxi launch in Austin caused Uber and Lyft to fall 1-2% on the news, confirming that market participants now price AV as a live platform threat, not a future one.
 - `INS-260403-8832` [high] YC's Fall 2025 RFS reveals that AI startup competitive advantage has shifted from model innovation to operational productization in specific verticals.
 - `INS-260405-4803` [medium] Agentic AI is moving from an engineering concern to a board-level strategic imperative.
 - `INS-260404-D646` [medium] Agentic AI is eating software by turning autonomous multi-step execution into a new platform layer, not just a feature bolted onto existing products.
+- `INS-260409-5FF6` [medium] Hassabis sees a very good chance of AGI within 5 years, consistent with Shane Legg's 2010 extrapolation predicting ~20 years.
+- `INS-260409-2DE3` [medium] Hassabis quantifies AGI as 10x the Industrial Revolution's impact compressed into 10x less time — over a decade instead of a century.
 - `INS-260403-E93A` [medium] History suggests the application layer on top of AI infrastructure will capture more enterprise value than the infrastructure itself.
 - `INS-260403-05EB` [medium] Gartner's prediction that 90% of B2B purchases will flow through AI agents means product quality replaces marketing spend as the primary growth lever.
 - `INS-260325-2832` [medium] AI will amplify human mental powers the same way mechanical engines amplified physical powers, creating a permanent civilizational threshold that cannot be uncrossed.
@@ -46,6 +49,7 @@
 - `INS-260403-1085` [medium] Gaming consistently pioneers AI integration patterns — from Deep Blue to AlphaGo to generative AI — making it a reliable leading indicator for how other industries will adopt AI.
 - `INS-260330-E5F7` [medium] Languages succeed by occupying unique positions on the abstraction-vs-control spectrum, and shifts happen when new languages find gaps in that curve.
 - `INS-260403-88DA` [medium] Previous healthcare IT reforms required rebuilding infrastructure; LLMs can interpret unstructured clinical data on top of existing systems.
+- `INS-260409-35EC` [medium] Hassabis disagrees with Yann LeCun — LLMs are the substrate, not a dead-end, and AGI comes from building on them rather than replacing them.
 - `INS-260323-4D63` [medium] Quest 3's mixed reality breakthrough is making VR more comfortable and practical by layering digital objects onto the physical world rather than fully immersing users.
 - `INS-260403-572C` [medium] Human-naming AI products is the 'information superhighway' of this era—an analogy crutch that will fade as people internalize the autonomous nature of AI.
 - `INS-260403-84E1` [medium] OpenAI is moving beyond API provider into direct enterprise SaaS competition with incumbents like Salesforce and HubSpot.

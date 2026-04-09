@@ -50,9 +50,9 @@ related:
   - INS-260403-68C8
   - INS-260403-F943
   - INS-260405-FCA9
+  - INS-260409-BBBA
   - INS-260324-DB86
   - INS-260403-4819
-  - INS-260329-14AE
 ---
 HubSpot's trajectory proves that exceptional go-to-market execution can compensate for limited product breadth through the IPO milestone. Their additional products only kicked in from 2015 onwards — after the October 2014 IPO — and didn't cross 20% of ARR until 2019. This is a significantly different path from Rippling's compound startup strategy or ServiceNow's early multi-product push under Frank Slootman.
 

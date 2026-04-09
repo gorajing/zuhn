@@ -1,17 +1,19 @@
 # Topic: expertise
 
-> 71 insights
+> 74 insights
 
 - `INS-260402-F3D7` [high] Having an audience prevents the natural tendency to stop thinking at exactly the point where deeper exploration would be most valuable.
 - `INS-260403-EA34` [high] Building skills must be developed early because they require sustained focus, but selling skills can be added later.
 - `INS-260402-AD42` [high] Sufficiently corrupt tests invert their purpose and select against the people they should be selecting for.
 - `INS-260403-2822` [high] Founders don't ignore startup advice out of stubbornness — they reject it because counterintuitive truths sound like bad advice.
+- `INS-260409-065B` [high] Creativity and relationship-building are what AI can't replicate — hire for both, most firms don't.
 - `INS-260403-0C33` [high] If you're bored making something, the result will look boring — morale is a design input, not just a side effect.
 - `INS-260402-8223` [high] Great work comes from deep curiosity about specific questions, not from forcing yourself through material via discipline.
 - `INS-260403-DEB6` [high] Determination requires equal parts willfulness and discipline; excess of either without the other produces local maxima or paralysis.
 - `INS-260402-607A` [high] Francis Darwin identified his father's key advantage as 'the power of never letting exceptions pass unnoticed' — great discovery requires treating anomalies as data, not noise.
 - `INS-260403-AAE4` [high] The paths to new ideas look unpromising by definition — if they looked promising, others would have already explored them.
 - `INS-260330-790A` [high] Serial pivots away from proven talent usually signal identity rejection rather than strategic diversification.
+- `INS-260409-93EC` [high] Benchmark your chapter 1 against their chapter 1, not their chapter 1000 — comparing endpoints generates fake despair.
 - `INS-260404-FADE` [high] Early versions of ambitious projects look worse than they are because we lack cultural norms for evaluating unfinished work.
 - `INS-260402-46AD` [high] The gap between good and great hackers is not intelligence but empathy — understanding how users actually think and behave.
 - `INS-260404-BE07` [high] A great programmer doesn't do the same work faster — they invent things an ordinary programmer would never even think of.
@@ -49,6 +51,7 @@
 - `INS-260403-EDB9` [high] The duct-tape hack and the paradigm shift exist on the same continuum — both break rules, differing only in how imaginatively.
 - `INS-260403-A1DF` [high] Wisdom means consistently good decisions across many situations; intelligence means spectacularly good decisions in a few.
 - `INS-260403-D022` [high] Intense creative work has a daily hour limit (roughly 5 hours) beyond which quality declines, and crossing it is performative rather than productive.
+- `INS-260409-A1D3` [medium] Skills are teachable in weeks; attitudes calcify over decades — so over-indexing on attitude selection beats over-indexing on skill screening.
 - `INS-260403-497B` [medium] Leadership titles are stepping stones to career optionality, not end destinations — optionality enables you to craft work on your own terms.
 - `INS-260403-83E2` [medium] Once you're established, you lose the freedom to mess around with random projects — and that freedom was the source of your best ideas.
 - `INS-260403-F60C` [medium] Deep knowledge of how code fails makes technologists rationally skeptical of smart devices and automated systems.

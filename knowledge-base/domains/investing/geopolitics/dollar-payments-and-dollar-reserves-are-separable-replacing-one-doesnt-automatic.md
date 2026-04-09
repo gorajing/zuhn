@@ -52,7 +52,6 @@ stance: >-
   significantly reducing demand for dollar-denominated reserve assets, because
   modern currency markets make on-the-spot dollar acquisition trivial.
 related:
-  - INS-260330-F79F
   - INS-260330-A1A4
   - INS-260403-5BBE
   - INS-260403-8C41

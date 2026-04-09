@@ -5,6 +5,7 @@
 - `INS-260327-E9FC` Berthier as Chief of Staff was arguably more important to Napoleon's success than any fighting marshal — he translated Napoleon's often vague strategic vision into precise orders that thousands could execute.
 - `INS-260403-97B4` When inspiration strikes, act on it immediately because it won't survive being shelved.
 - `INS-260403-6890` Graham argues signalling risk from VC non-follow-on is in the same category as competitor fear—something founders worry about that rarely kills good startups.
+- `INS-260409-A1D3` Skills are teachable in weeks; attitudes calcify over decades — so over-indexing on attitude selection beats over-indexing on skill screening.
 - `INS-260404-9213` Photosynthesis is 'complicated, inefficient and confusing' yet it powers essentially all life on Earth because it shipped 450 million years ago.
 - `INS-260329-CA16` Break abstract success traits into the smallest observable behaviors until instructions are followable at your current skill level.
 - `INS-260323-0B5E` Teams that default to 'more meetings and re-strategizing' instead of shipping are using planning as emotional avoidance of the market test they fear.
@@ -28,8 +29,10 @@
 - `INS-260403-30E5` When facing death, redirect all engineering effort to whatever closes revenue fastest — more code is worthless if the company dies.
 - `INS-260325-0FED` Since the Panic Monster only responds to real consequences, effective execution in unstructured work requires manufacturing genuine external deadlines.
 - `INS-260330-8D6F` Lost momentum causes internal disagreement and attrition; only small concrete wins — not vision speeches — can reverse the spiral.
+- `INS-260409-2A8A` When MVPs take a day, the bottleneck is no longer building — it is learning fast from the market.
 - `INS-260329-1F3F` Burning your escape routes forces the persistence that passion-based motivation cannot sustain.
 - `INS-260402-9681` Multiple successful YC founders independently ranked persistence above intelligence as the dominant success factor.
+- `INS-260409-2578` Pivots at scale rarely work — only pivot when you have literally no other choice.
 - `INS-260328-6E7A` The more something looks like producing bolts, the more process works; the more it looks like producing art, the less process helps — and confusing the two is where startups go wrong.
 - `INS-260403-77F4` Measure and minimize the gap between failure and relaunch rather than trying to prevent all failures.
 - `INS-260326-E411` Napoleon's Italian Campaign succeeded because he moved his worst-supplied army faster than anyone believed possible, defeating enemies before they could coordinate.
@@ -48,11 +51,6 @@
 - `INS-260402-8F67` Most marketplace supply tactics fail individually, but cumulative small wins across many channels compound into massive growth.
 - `INS-260328-B57E` Do not be discouraged by others' growth, but do not accept slow growth either — better tools mean you should be going faster than before.
 - `INS-260330-36DB` Tencent created three separate internal teams to build a mobile messaging app that would compete against their own dominant desktop product QQ, ensuring they disrupted themselves before an outsider could.
-- `INS-260403-294D` The startup edge is applying disproportionate brainpower to mundane problems that large companies delegate to average employees.
-- `INS-260403-F8AE` Apple rarely invented iPhone features first but consistently delivered the best implementation, from multi-touch to facial recognition.
-- `INS-260403-427E` Truly disruptive solutions are often conceptually simple — the moat is in the execution, not the idea.
-- `INS-260403-F75F` Most innovation failures happen not at ideation but at the transfer stage where validated ideas must shift from exploration teams to execution teams.
-- `INS-260402-C2BA` F&F capital works when tied to a specific unlockable milestone like an MVP or pilot launch, not when used to buy time while figuring things out.
 - `INS-260329-82B1` When starting with no capital, embrace high-effort manual strategies first — automation and delegation come after you have revenue, not before.
 - `INS-260323-BDC1` The tension between dreaming and pragmatism is not a contradiction to resolve but a dance to maintain — you need both the north star and the day-by-day execution.
 - `INS-260405-6F45` Before PMF, your job is to discover, not to deliver — treating a startup like a Fortune 500 kills the learning loop.
@@ -64,6 +62,12 @@
 - `INS-260403-0C1D` Spheres packed as tightly as possible still only cover 91% of a surface — a mathematical ceiling that no amount of optimization can overcome.
 - `INS-260329-A01C` The opportunity cost of starting a second business is often the continued growth trajectory of your first one.
 - `INS-260327-8760` Altman rejects backward-from-vision planning, saying he's never seen people with elaborate backward-chain strategies massively succeed.
+- `INS-260403-294D` The startup edge is applying disproportionate brainpower to mundane problems that large companies delegate to average employees.
+- `INS-260409-8438` There are no ideas, only the idea maze — founders navigate walls, not pick concepts.
+- `INS-260403-F8AE` Apple rarely invented iPhone features first but consistently delivered the best implementation, from multi-touch to facial recognition.
+- `INS-260403-427E` Truly disruptive solutions are often conceptually simple — the moat is in the execution, not the idea.
+- `INS-260403-F75F` Most innovation failures happen not at ideation but at the transfer stage where validated ideas must shift from exploration teams to execution teams.
+- `INS-260402-C2BA` F&F capital works when tied to a specific unlockable milestone like an MVP or pilot launch, not when used to buy time while figuring things out.
 - `INS-260405-8080` Meta's explicit goal of making AI teams 'operate more like startups' signals that enterprise overhead is now a recognized competitive liability in AI.
 - `INS-260323-F15D` When transforming a large organization, changing processes and tools (the 'how') unlocks speed more effectively than simply demanding faster output.
 - `INS-260404-74F4` Schedule quarterly culture map reviews to assess whether enablers produced desired behaviors and blockers were actually removed.
@@ -73,8 +77,6 @@
 - `INS-260403-6C07` Solve the problem users have right now before expanding into the product you envision for the future.
 - `INS-260323-19A8` Pincus argues MVP takes too long to fail — founders should test minimum viable ideas (not products) and build failure machines that kill bad concepts in hours, not months.
 - `INS-260323-9393` Pincus's product religion: start by copying every pixel of what's proven to work, only change what existing users unanimously confirm is better, then innovate only in the narrow space that remains.
-- `INS-260329-7B47` Send 100 personalized outreach messages daily using a compliment-plus-positioning formula to guarantee your first five customers through pure volume.
-- `INS-260329-7E63` The best closers don't have better arguments — they ask for the sale more times by using reframing to maintain rapport across repeated asks.
 - `INS-260403-4365` Carta data shows solo founders hit 35% of the 2024 class, with soonicorns like BuiltWith ($14M/year, 1 employee) proving the one-person unicorn is approaching reality.
 - `INS-260323-2C70` Pincus hired anyone who said they knew PHP, kept less than half, and found gems like an 18-year-old savant living on his mom's couch — the early-stage hiring perfection myth costs more speed than it saves in quality.
 - `INS-260405-F2C7` Vision should pull milestones forward, not justify why you missed them—keep the two layers structurally separate in your pitch.
@@ -85,3 +87,5 @@
 - `INS-260322-AAEA` A week is long enough to validate ideas and ship products; ten years captures true strategic direction. Quarterly planning is a deeply useless middle ground where cohorts don't bake and real outcomes aren't visible.
 - `INS-260323-2559` Spending months making an app 'perfect' before releasing it means you're optimizing in the dark — every day of polish without user data is a day of self-deception.
 - `INS-260329-B0BA` Start with your best bad idea and let customer feedback make it less wrong over time, rather than waiting for the perfect concept.
+- `INS-260329-7B47` Send 100 personalized outreach messages daily using a compliment-plus-positioning formula to guarantee your first five customers through pure volume.
+- `INS-260329-7E63` The best closers don't have better arguments — they ask for the sale more times by using reframing to maintain rapport across repeated asks.

@@ -56,10 +56,10 @@ stance: >-
   mass in a peer group
 related:
   - INS-260321-C0A4
+  - INS-260409-2384
   - PRI-260406-E4B0
   - INS-260330-22A2
   - INS-260403-333C
-  - INS-260330-74AC
 ---
 René Girard's mimetic desire theory — that humans desire what those around them desire — applies directly to fertility decisions. Research from the American Sociological Review shows a woman's probability of having a child increases significantly 12-24 months after a close friend gives birth, peaking at around 2 years. The inverse is equally true: when peer groups prioritize career achievement and personal independence, those anti-natalist preferences propagate socially.
 

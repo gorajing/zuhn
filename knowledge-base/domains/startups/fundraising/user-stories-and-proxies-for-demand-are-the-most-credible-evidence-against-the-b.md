@@ -53,7 +53,6 @@ stance: >-
   are more persuasive than market size data because they directly address
   investors' primary fear that no one will want the product.
 related:
-  - INS-260327-4D70
   - INS-260402-F5E0
   - INS-260404-29F4
   - INS-260405-F9EC

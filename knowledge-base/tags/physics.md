@@ -1,18 +1,21 @@
 # Tag: physics
 
+- `INS-260409-E366` The clock cannot tick faster than the slowest signal path settles — performance is gated by physics, not by design ambition.
 - `INS-260323-2D1D` Pythagoras's theorem has been unchanged for 2500 years while Newton's gravity was superseded by Einstein's — mathematical proof produces certainty that empirical science cannot.
 - `INS-260325-CC49` The physical impossibility of infinite precision may be what prevents mathematical paradoxes from breaking reality.
 - `INS-260323-7BA4` Black holes existed in the Schwarzschild solution from 1917 but weren't recognized until the 1950s — the brightest physicists of two generations missed what was sitting in front of them.
 - `INS-260330-8AE8` At near-light-speed, Earth would be genuinely flattened by Lorentz contraction — not an illusion but a real physical consequence of the observer's reference frame.
-- `INS-260330-A7C6` When bubbles collapse rapidly enough during sonoluminescence, the compressed gas inside can briefly reach temperatures exceeding the sun's surface, emitting visible light from sound energy alone.
 - `INS-260323-2FC3` The Aharonov-Bohm effect proved that potentials (once dismissed as mere mathematical shortcuts) directly influence physical reality — a reminder that abstractions can be more fundamental than the concrete phenomena derived from them.
+- `INS-260330-A7C6` When bubbles collapse rapidly enough during sonoluminescence, the compressed gas inside can briefly reach temperatures exceeding the sun's surface, emitting visible light from sound energy alone.
 - `INS-260325-916B` Panpsychism proposes consciousness is a fundamental feature of nature, more like gravity than like computation.
 - `INS-260330-56E0` The archer's paradox only exists if you assume arrows are rigid — once you add flex as a variable, the paradox dissolves.
+- `INS-260409-E0A9` Antimatter is hard not because we can't make it, but because we can't hold it — most scarcity problems have a similar 'containment hides as creation' structure.
 - `INS-260330-4DC5` Physics and evolutionary psychology independently converge on the same conclusion: spacetime is a useful data structure, not fundamental reality — reducing billion-term calculations to single expressions when you abandon the spacetime framework.
 - `INS-260330-601A` A cosmic ray proton traveling at 99.9999999999991% light speed would measure Earth as only 17 metres thick — Earth is literally flat to that observer.
 - `INS-260330-CDF8` Light's regularity means its full 3D state is determined by its values on any 2D boundary surface.
 - `INS-260330-12F9` Firing one bullet underwater produces three visually distinct phenomena (Bernoulli cavitation, gas trail, shock vapor) that are invisible at normal speed but separable at 27,450 fps.
 - `INS-260323-C9B1` Upgrading from Newton's to Einstein's model of gravity was not just philosophical — it enabled GPS, accurate satellites, and Uber; better frameworks for understanding reality directly produce better tools.
+- `INS-260409-5C28` Binary exists because noisy electricity cannot reliably represent ten distinct voltage levels — it is a noise-tolerance hack, not a mathematical preference.
 - `INS-260330-966E` When underwater cavitation bubbles collapse, the compression can generate temperatures hot enough to produce light (sonoluminescence), showing how mundane initial conditions can concentrate energy to extreme densities.
 - `INS-260404-842D` Conservation of energy forces the collision dynamics onto a circle in velocity phase space, which is why pi emerges from a counting problem.
 - `INS-260330-85AA` Aerogel insulates better than air despite being 99% air because its pores are smaller than air molecules' mean free path.
@@ -20,6 +23,7 @@
 - `INS-260330-5D8A` Supercritical fluids bypass the destructive surface tension of evaporation by eliminating the liquid-gas boundary altogether.
 - `INS-260330-D0F8` Exit velocity depends on the speed differential and coupling efficiency between bat and ball, not just bat speed.
 - `INS-260325-D037` Einstein's equations predicted things Einstein himself did not expect — formal systems consistently outrun their creators' intentions.
+- `INS-260409-40AF` A theory validated in one regime cannot be assumed to hold in a new one — each new regime demands fresh measurement.
 - `INS-260330-FF94` Accurate scale models require identifying the dominant physical ratio, not matching every parameter.
 - `INS-260323-849E` Einstein showed that gravity is not a force at all — objects follow curved paths through spacetime warped by mass, and what we feel as gravity is just the ground stopping our natural path.
 - `INS-260404-E0FD` Spinning objects feel lighter because gravity's torque is redirected into precession, not because weight actually decreases.

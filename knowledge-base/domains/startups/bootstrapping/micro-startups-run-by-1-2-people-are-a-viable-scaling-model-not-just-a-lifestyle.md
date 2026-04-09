@@ -57,7 +57,6 @@ related:
   - INS-260404-2523
   - PRI-260406-806C
   - INS-260402-8813
-  - INS-260405-EAF3
   - INS-260403-4D1E
 ---
 The convergence of three trends — AI coding assistants like GitHub Copilot, no-code platforms like Bubble and Webflow, and global freelance talent marketplaces — has created a new category of viable business: the micro-startup. These are companies run by one or two people with strong margins, clear niches, and no external pressure to raise or scale prematurely.

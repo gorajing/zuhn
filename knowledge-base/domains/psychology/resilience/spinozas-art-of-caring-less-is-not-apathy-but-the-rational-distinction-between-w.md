@@ -49,10 +49,10 @@ stance: >-
   emotional energy for what we can actually influence.
 related:
   - INS-260327-439A
+  - INS-260409-8487
   - PRI-260406-6FA3
   - PRI-260323-A3A3
   - INS-260327-E833
-  - PRI-260403-88F5
   - INS-260325-FF46
   - INS-260327-56B3
   - INS-260403-81A4

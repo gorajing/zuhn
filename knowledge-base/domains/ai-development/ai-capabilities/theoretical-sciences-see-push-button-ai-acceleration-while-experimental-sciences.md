@@ -52,7 +52,6 @@ stance: >-
   far more easily than experimental fields because theoretical work only
   requires logical consistency, not physical verification.
 related:
-  - INS-260321-B014
   - INS-260330-E282
   - INS-260321-D959
   - INS-260403-FFEA

@@ -39,10 +39,10 @@ stance: >-
   competitive landscape navigation is more persuasive to investors than
   TAM/SAM/SOM projections.
 related:
+  - INS-260409-8438
   - INS-260405-C819
   - INS-260404-28A1
   - INS-260404-3212
   - PRI-260406-CA93
-  - INS-260403-81CE
 ---
 Most market sizing slides are ignored or discounted by experienced VCs because founders consistently inflate them and the numbers are rarely verifiable. An idea maze slide instead demonstrates that the founder deeply understands the competitive landscape, the failed approaches that came before, and why their specific path through the maze is defensible. This signals founder quality over addressable market size — which is what early-stage investors are actually betting on. For founders, this is an immediately actionable swap that can differentiate a pitch.

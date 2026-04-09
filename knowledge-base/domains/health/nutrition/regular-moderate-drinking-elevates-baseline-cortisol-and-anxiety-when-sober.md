@@ -52,7 +52,6 @@ stance: >-
   cortisol release at baseline through HPA axis disruption, meaning they feel
   more stressed and anxious specifically when they are NOT drinking.
 related:
-  - INS-260330-F374
   - INS-260330-C89D
   - PRI-260406-D0E1
   - PRI-260328-92EF

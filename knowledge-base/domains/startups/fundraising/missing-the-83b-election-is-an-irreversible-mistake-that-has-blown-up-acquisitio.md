@@ -50,10 +50,10 @@ stance: >-
   deals without proof of filing.
 related:
   - PRI-260406-2B0E
+  - INS-260409-B73E
   - INS-260330-FABE
   - INS-260403-56BB
   - INS-260403-7749
-  - INS-260324-8D35
 evidence:
   - id: INS-260324-8D35
     type: TRANSFERS_TO

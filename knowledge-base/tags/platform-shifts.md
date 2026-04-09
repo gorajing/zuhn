@@ -1,5 +1,6 @@
 # Tag: platform-shifts
 
+- `INS-260409-C14E` AI is a platform shift — daily use now compounds into intuition that late adopters cannot buy later.
 - `INS-260403-AC02` The AI vs SaaS narrative mirrors the SaaS vs on-premise transition — incumbents adapt and absorb the new paradigm rather than disappearing.
 - `INS-260330-77A2` WebAssembly and cloud compute are enabling full development environments to run entirely in the browser.
 - `INS-260403-1085` Gaming consistently pioneers AI integration patterns — from Deep Blue to AlphaGo to generative AI — making it a reliable leading indicator for how other industries will adopt AI.

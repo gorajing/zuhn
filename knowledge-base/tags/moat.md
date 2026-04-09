@@ -1,8 +1,10 @@
 # Tag: moat
 
+- `INS-260409-CBC7` Hassabis predicts the moat is shifting from scale to algorithmic invention — labs without novel-idea capacity will fall behind.
 - `INS-260405-1054` xAI's third data center reaches nearly 2 gigawatts of compute power by co-locating with an acquired power plant, signaling that energy access—not just hardware—is the binding constraint for frontier AI labs.
 - `INS-260403-415E` When your entire product depends on a third-party API, you don't control pricing, uptime, or differentiation—any competitor can clone you in a weekend.
 - `INS-260323-5C6F` If your AI product is just a layer on top of an underlying AI platform, that platform can replicate it — Jasper, Zynga, and SEO companies all learned this the hard way.
+- `INS-260409-003A` The compiled knowledge is the moat; the retrieval layer is commodity and replaceable.
 - `INS-260403-0414` Durable competitive advantage comes from business model design, not product or technology superiority alone.
 - `INS-260405-9EE6` Costco's deliberate obstacles — confusing layout, membership fee, crowded aisles — select for the right customers and increase per-visit spend.
 - `INS-260403-D4D4` Lenny called his 2,500-member private Slack community one of his proudest achievements, distinct from the newsletter itself.

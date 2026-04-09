@@ -7,16 +7,19 @@
 - `INS-260403-9012` Actions under threat reveal true safety commitments in ways that publications and policies never can.
 - `INS-260403-5086` Both human and AI internals use bizarre geometric encodings that neither system can introspect on, making external dismissals of AI cognition suspect.
 - `INS-260327-FC68` Anthropic created ASL (AI Safety Level) ratings modeled on biosafety levels, requiring increasingly strict security and deployment measures as models approach dangerous capability thresholds.
-- `INS-260403-C584` Anthropic's Claude and other AI tools were operationally deployed in the Iran War for intelligence processing, target identification, and battle damage assessment at unprecedented speed.
 - `INS-260327-1D37` Dario predicts models matching Nobel Prize-level intelligence in 2-4 years, eventually doing all remote work, and argues the critical policy challenge is managing this transition before it randomly divides humanity into 'useful' and 'useless' categories.
+- `INS-260409-E44A` Code was the ideal wedge product for Anthropic because it opened enterprise IT budgets and because 'if you can generate code, you can generate anything else by generating the code that creates it.'
+- `INS-260409-7731` Frontier AI labs splinter because each billionaire wants to create AI in their own image — they can't share control, so collaboration always collapses into competing labs.
 - `INS-260403-FF65` The generative AI landscape is splitting between dominant horizontal players like OpenAI/Anthropic and specialized vertical startups in legal, medical, and other domains.
 - `INS-260403-7868` AI market competition is increasingly about deployment philosophy (speed vs safety) rather than raw model capability.
+- `INS-260403-C584` Anthropic's Claude and other AI tools were operationally deployed in the Iran War for intelligence processing, target identification, and battle damage assessment at unprecedented speed.
 - `INS-260405-1951` Claude Code built the entire Claude Cowork product with humans providing only planning and oversight, not code.
 - `INS-260325-FDF5` Anthropic CPO Krieger: build AI products bottom-up from individual user workflows, not top-down from enterprise requirements — adoption drives sales.
 - `INS-260327-EEBD` When enterprise customers arrive with 'a thousand use cases,' Anthropic's sales team uses a 2x2 (internal/external x save money/make money) to prioritize — starting with internal cost savings as learning deployments before tackling external revenue generation.
 - `INS-260327-42F0` Artifacts, MCP, and Anthropic's best products all started as bottom-up prototypes from engineers working close to the model, not planned features.
 - `INS-260403-3B8D` Anthropic proved that safety-first positioning creates enterprise value by making predictability the product, not the overhead.
 - `INS-260327-40E3` Ramp data shows Anthropic capturing 73% of new enterprise AI spend as OpenAI's strategic inconsistency — from flat headcount to doubling, from standalone Sora to folding it in — erodes buyer confidence.
+- `INS-260409-5FBA` OpenAI is a consumer-subscription business and Anthropic is an API/enterprise business; comparing headline revenue numbers is apples-to-oranges until both normalize for public markets.
 - `INS-260403-3099` Dario Amodei warns that misalignment between massive AI infrastructure spending and uncertain revenue timing creates existential risk for companies pursuing aggressive YOLO strategies.
 - `INS-260323-D288` When OpenAI and Anthropic file S-1s for IPO, the forced financial transparency will likely trigger a WeWork-style reassessment — Anthropic has leaked inconsistent revenue figures and OpenAI plans to burn $200B+ even at optimistic revenue targets.
 - `INS-260403-0BE9` AI venture funding hit $225.8B in 2025 but mega-rounds dominated, with OpenAI, Anthropic, and xAI capturing 38% of total investment.

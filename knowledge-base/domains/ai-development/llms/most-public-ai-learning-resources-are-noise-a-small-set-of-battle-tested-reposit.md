@@ -57,9 +57,9 @@ stance: >-
 related:
   - INS-260329-9DEE
   - INS-260405-880C
+  - INS-260409-60C2
   - INS-260329-E6AF
   - INS-260320-D4BD
-  - INS-260320-F78E
 ---
 The AI tooling ecosystem has exploded, but most public repositories are thin wrappers, weekend projects, or tutorials that never go beyond a single notebook. For engineers trying to build production systems, this creates a navigation problem: the volume of resources makes it harder, not easier, to find what's worth studying.
 

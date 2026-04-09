@@ -46,11 +46,11 @@ stance: >-
   operation — the gap between understanding and competence requires embodied
   practice that no amount of theory can substitute.
 related:
+  - INS-260409-5E35
+  - INS-260409-E366
   - INS-260323-6134
   - INS-260328-75B8
   - INS-260323-A14D
-  - PRI-260406-D6AA
-  - INS-260330-0FBF
   - INS-260330-9A83
 evidence:
   - id: INS-260323-6134

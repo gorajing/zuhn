@@ -54,6 +54,7 @@ related:
   - PRI-260328-B4BD
   - PRI-260328-A65A
   - INS-260327-D0F3
+  - INS-260409-51B2
 stance: Text-only planning (markdown PRDs) is insufficient for vibe coding
 evidence:
   - id: INS-260327-D0F3

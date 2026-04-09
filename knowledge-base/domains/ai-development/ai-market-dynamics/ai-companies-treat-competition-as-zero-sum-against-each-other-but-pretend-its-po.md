@@ -50,11 +50,11 @@ resolutions:
     zero-sum nationalized. The labs' failure is not understanding which zero-sum
     game actually threatens their existence.
 related:
+  - INS-260409-8181
+  - INS-260409-7731
   - INS-260323-FFE8
   - PRI-260406-F3B6
   - INS-260325-502D
-  - INS-260403-B734
-  - INS-260325-9C2F
 stance: >-
   AI labs fight viciously against each other for dominance but frame the global
   AI race as positive-sum

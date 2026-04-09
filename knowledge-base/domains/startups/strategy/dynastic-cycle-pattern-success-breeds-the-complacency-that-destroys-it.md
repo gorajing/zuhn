@@ -50,14 +50,13 @@ stance: >-
   created by early success generates the complacency and internal corruption
   that causes eventual failure.
 related:
-  - INS-260329-1D08
   - INS-260330-8F72
   - PRI-260325-070D
+  - INS-260329-1D08
   - INS-260325-7FE6
   - INS-260405-83F0
   - INS-260403-7C71
   - INS-260322-B369
-  - INS-260330-9515
 evidence:
   - id: INS-260327-68C1
     type: SUPPORTS

@@ -48,12 +48,11 @@ resolutions:
     training models to reason longer and verify their own outputs -- represents
     the single biggest capability unlock since ChatGPT.
 related:
-  - INS-260325-7FAF
   - INS-260323-4D8D
   - PRI-260328-8E01
+  - INS-260409-17E9
   - INS-260323-6C6F
   - INS-260405-567D
-  - INS-260327-991D
   - INS-260330-0A8D
 stance: >-
   Reinforcement learning with verifiable rewards plus inference-time compute

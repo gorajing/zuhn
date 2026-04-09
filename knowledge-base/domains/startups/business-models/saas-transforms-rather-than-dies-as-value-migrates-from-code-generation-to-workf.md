@@ -49,7 +49,6 @@ stance: >-
   creation toward secure workflows, compliance infrastructure, and embedded
   distribution.
 related:
-  - INS-260330-819E
   - INS-260403-F8A2
   - INS-260404-0CA7
   - INS-260404-BD96

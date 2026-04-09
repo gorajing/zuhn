@@ -50,6 +50,7 @@ related:
   - INS-260330-8F91
   - INS-260402-C301
   - PRI-260406-7D93
+  - INS-260409-E080
 ---
 As AI capabilities commoditize, the deciding factor for startup survival shifts from what the product does to how it reaches and retains users. Fifteen distribution plays—from workflow embedding to output-as-marketing—illustrate how compounding loops create positions that are expensive for competitors to replicate.
 

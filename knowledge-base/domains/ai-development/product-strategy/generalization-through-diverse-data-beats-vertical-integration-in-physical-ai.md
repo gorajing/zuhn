@@ -52,7 +52,6 @@ stance: >-
   solutions that build separate systems for each application, because
   generalization amortizes intelligence costs across all deployments.
 related:
-  - INS-260322-7A2F
   - INS-260327-1ACE
   - INS-260403-E09C
   - INS-260325-DD43

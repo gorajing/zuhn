@@ -10,11 +10,11 @@
 - `INS-260330-3AF7` DNA polymerase proofreads as it builds, achieving a 1-in-10-billion error rate — orders of magnitude better than any separate quality check could achieve at that scale.
 - `INS-260328-6A18` Founders can't innovate across 20 zones — pick the top 3 where you want to innovate and hire the experienced person for everything else.
 - `INS-260328-6E7A` The more something looks like producing bolts, the more process works; the more it looks like producing art, the less process helps — and confusing the two is where startups go wrong.
+- `INS-260325-8D66` You cannot get out of bed each morning expecting a breakthrough — but you can get out of bed saying 'today I will figure out how to do this better than last week.'
 - `INS-260403-309F` Improvised hiring at early stage creates compounding delays that manifest months after the bad hire.
 - `INS-260405-1982` Treat fundraising as a sprint with a hard end date to minimize distraction and create investor urgency.
 - `INS-260404-E4C9` Fundraising performed better when treated as a repeatable system with standardized templates, CRMs, and investor databases.
 - `INS-260405-7E50` Narrative structure should be locked before any design work begins on a pitch deck.
-- `INS-260325-8D66` You cannot get out of bed each morning expecting a breakthrough — but you can get out of bed saying 'today I will figure out how to do this better than last week.'
 - `INS-260330-4A89` Raises given on request incentivize lobbying over performance; formal evaluation cycles protect meritocratic culture.
 - `INS-260330-3A7B` When you give a raise because someone asked, the employee who didn't ask but performs better learns that lobbying matters more than results.
 - `INS-260330-175F` A formal, periodic raise process prevents the culture from rewarding those who ask over those who perform.

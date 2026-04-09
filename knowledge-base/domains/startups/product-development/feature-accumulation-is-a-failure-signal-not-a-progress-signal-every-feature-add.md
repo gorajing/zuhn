@@ -42,7 +42,6 @@ resolutions:
     rejecting. With twenty, you can't tell what's failing.
 related:
   - INS-260321-7C97
-  - INS-260325-4C92
   - INS-260322-760A
   - INS-260323-DE2B
   - INS-260329-560D
@@ -51,6 +50,7 @@ related:
   - INS-260403-8F6E
   - INS-260323-2559
   - INS-260327-6D77
+  - INS-260327-94E6
 stance: >-
   Adding more features to an app that nobody is using does not make it more
   likely to succeed — it makes it harder to diagnose what actually matters.

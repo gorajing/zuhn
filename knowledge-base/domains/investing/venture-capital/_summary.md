@@ -1,6 +1,6 @@
 # Topic: venture-capital
 
-> 287 insights
+> 289 insights
 
 - `INS-260403-6B24` [high] High-profile 2025 IPOs like Figma, Chime, and Navan traded below debut prices even as Nasdaq and S&P 500 rallied.
 - `INS-260405-0CAB` [high] 38% of VCs stopped doing deals in 2023, exposing a large cohort of cycle-dependent tourist investors who entered during the 2020-2021 bull market.
@@ -111,6 +111,7 @@
 - `INS-260403-CDF1` [high] The Gordon Growth Model terminal value typically accounts for the majority of a startup's DCF valuation, making the terminal growth rate the single most sensitive input.
 - `INS-260403-30A5` [high] The best VC entry point is when most risk is resolved but most investors still hesitate.
 - `INS-260403-7C47` [high] As you move earlier in the funding spectrum, help matters exponentially more than money.
+- `INS-260409-3346` [high] The opportunity is alleviating AI's supply bottlenecks — transformers, power, chips, tokens, cooling.
 - `INS-260403-87D9` [high] Most deal-killing risks at early stage live outside the financial model.
 - `INS-260403-807A` [high] Median public SaaS multiples fell from 18x to 4x as revenue growth decelerated from 30%+ to low teens, breaking the duration-asset thesis that justified premium valuations.
 - `INS-260404-109D` [high] The US VC playbook assumes capital market infrastructure that most global markets lack, making direct transplantation a structural mistake.
@@ -272,6 +273,7 @@
 - `INS-260403-D500` [medium] Cross-market valuation comparisons are deceptive because entry discounts don't guarantee proportional exit returns when market dynamics differ.
 - `INS-260405-CD10` [medium] In April 2025, only a16z and Khosla closed 10+ deals, revealing a highly bifurcated VC market.
 - `INS-260405-BCF4` [medium] When LPs stop receiving distributions, they stop writing new fund commitments — shrinking the supply of venture capital with a 12-24 month lag.
+- `INS-260409-AC28` [medium] Top VCs (Josh Kushner, General Catalyst's Hemant) are buying accounting firms, hospitals, and BPO businesses and running them with AI because owning the change management is the only reliable way to capture AI value.
 - `INS-260403-21B2` [medium] VC fundraising is lagging prior cycles despite headline interest, with undifferentiated managers facing extended timelines and tougher terms.
 - `INS-260404-88F9` [medium] VCs struggle to raise while simultaneously planning to deploy more capital, creating structural tension.
 - `INS-260404-5684` [medium] The VC landscape is bifurcating into very large and very small funds, squeezing mid-size generalists.

@@ -54,7 +54,6 @@ stance: >-
   research showing they receive the least marginal benefit, driven by status quo
   bias and social signaling.
 related:
-  - INS-260325-B4D1
   - INS-260329-3C67
   - INS-260329-4B99
   - INS-260328-68BA

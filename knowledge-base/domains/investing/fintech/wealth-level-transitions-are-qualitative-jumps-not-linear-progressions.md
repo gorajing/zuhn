@@ -49,7 +49,6 @@ stance: >-
   represent discrete phase transitions where the primary asset class shifts from
   income to net worth to access to influence.
 related:
-  - INS-260325-EBC3
   - PRI-260406-C168
   - INS-260402-CF0A
   - INS-260402-8F1E

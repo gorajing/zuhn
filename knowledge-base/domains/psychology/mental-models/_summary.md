@@ -1,7 +1,8 @@
 # Topic: mental-models
 
-> 70 insights
+> 85 insights
 
+- `INS-260409-3138` [high] Computers are fully explainable bottom-up from electricity through logic gates to instructions — there is no magical layer, only layers of abstraction humans haven't personally traversed.
 - `INS-260330-420B` [high] Three competing theories for the Indus Valley's decline each tell a confident story from the same absence of evidence, revealing how humans handle epistemic gaps.
 - `INS-260405-C3B0` [high] The 'alien truth' test filters for universal truths by asking whether any intelligent being would converge on an idea.
 - `INS-260404-7604` [high] Complex problems almost always have both 'chosen cost' and 'pure dysfunction' causes, and separating them improves analysis.
@@ -15,6 +16,7 @@
 - `INS-260402-C4FF` [high] A top performer's concentrated skill creates disproportionate value that cannot be replicated by distributing the same total skill across many people.
 - `INS-260402-0F45` [high] Aristotle's most consequential error was inferring that because curiosity-driven inquiry is noble, the resulting knowledge should be valued precisely for being useless.
 - `INS-260330-0C1B` [high] A 4:1 mechanical advantage means you pull with 1/4 the force but must pull 4x the distance — you never get something for nothing, only redistribute the cost.
+- `INS-260409-E0A9` [high] Antimatter is hard not because we can't make it, but because we can't hold it — most scarcity problems have a similar 'containment hides as creation' structure.
 - `INS-260403-B6E6` [high] Thylakoids are charged like batteries by pumping protons to one side, then releasing them through ATP synthase to produce energy—imbalance is the engine.
 - `INS-260403-8A25` [high] Cram schools reveal the exact weaknesses in any credentialing system—their decline signals the system is becoming harder to game.
 - `INS-260403-C55B` [high] Default to creating rather than critiquing, because early-stage creation is rarer and more valuable than sophisticated criticism.
@@ -34,10 +36,14 @@
 - `INS-260404-3500` [high] Photosynthesis converts sunlight to sugar through a long chain of intermediaries (excited electrons → proton gradient → ATP → G3P), each step losing energy but gaining reliability.
 - `INS-260330-DEF7` [high] The linearity constraint — parallel lines stay parallel, origin stays fixed — eliminates most possible transformations, making the remaining ones tractable and powerful.
 - `INS-260330-E03A` [high] NASA used aerogel to catch comet dust at 6 km/s because the porous structure gradually absorbs kinetic energy instead of causing instantaneous vaporization.
+- `INS-260409-9C74` [high] 'The finger pointing at the moon is not the moon' is a general-purpose model — any symbolic representation of experience is downstream of the experience and must not be confused with it.
+- `INS-260409-02C5` [high] The standard model of cosmology still explains the CMB, primordial hydrogen/helium abundances, and large-scale galaxy clustering with extraordinary precision; the cracks are real but localized, and conflating 'in crisis' with 'dead' is a category error.
 - `INS-260403-D2FD` [high] The electron transport chain extracts energy through four sequential protein complexes rather than one step, a pattern that applies to any value-extraction system.
 - `INS-260405-BEA7` [high] Photosynthesis is 450 million years old, described as 'complicated, inefficient and confusing'—yet it powers virtually all life on Earth.
 - `INS-260330-E068` [high] The Calvin Cycle produces 6 G3P molecules but must reinvest 5 to regenerate — only 1/6 of gross output is net output.
+- `INS-260409-16CF` [high] To make the 1/8 gram antimatter bomb from 'Angels and Demons,' CERN would need to run for longer than the age of the universe.
 - `INS-260405-D606` [high] Getting the problem statement right is not preliminary work — it is the core intellectual work.
+- `INS-260409-D66D` [high] GBAR's positron moderator keeps 1 in 1000 — a 0.1% yield — yet builds a usable 100M-positron cloud by simply accumulating over minutes.
 - `INS-260330-CE2F` [high] JS classes are syntactic sugar over prototypal inheritance, where real objects link to real objects rather than abstract class hierarchies.
 - `INS-260330-64D8` [high] If you add something that makes a problem easier, redefine the entire problem in terms of what you added.
 - `INS-260403-6EA0` [high] Thinking in specific causal chains rather than vague decline narratives is both more accurate and more psychologically sustainable.
@@ -50,6 +56,7 @@
 - `INS-260330-D795` [high] Kistler solved aerogel's shrinkage problem not by fighting surface tension but by heating liquid past the critical point where liquid-gas distinction ceases to exist.
 - `INS-260330-9BB7` [high] Haack's crossword model says beliefs gain credibility from multiple independent lines of evidence interlocking, not from a single chain of deductive proof.
 - `INS-260403-6A77` [high] When an action and its reversal are coupled together, the net effect is always zero — apparent drama masks actual futility.
+- `INS-260409-2677` [high] Everything in the universe is a descendant of one lucky particle per billion that survived matter-antimatter annihilation — tiny asymmetries compound into everything.
 - `INS-260330-F5CF` [high] Photosynthesis raised atmospheric oxygen levels that now cause RuBisCo to malfunction half the time, forcing plants to evolve elaborate detoxification pathways instead of fixing the enzyme.
 - `INS-260330-43D3` [high] Modifying just 30% of aerogel's surface chemistry flips it from water-absorbing to completely waterproof, demonstrating that threshold effects outweigh proportional ones.
 - `INS-260402-ED85` [high] Every surprise founders reported traced back to unconsciously expecting startup life to resemble employment.
@@ -60,15 +67,23 @@
 - `INS-260330-E2F5` [high] The French Revolution's lasting impact wasn't its government changes but Article 6's claim that law comes from citizens and applies equally — a paradigm shift still unfolding centuries later.
 - `INS-260330-5DFF` [high] In the Calvin Cycle, the 6-carbon chain formed by CO2 fixation is so unstable it immediately breaks into two stable 3-carbon molecules — instability is a required step, not a failure.
 - `INS-260402-2C6B` [high] Everyday words work fine in normal use but produce meaningless disputes when pushed into abstract territory, because they lack precise definitions.
+- `INS-260409-D6A8` [medium] Goals entangled with emotional state are produced as byproducts of internal conditions, not by direct pursuit — optimize for state, not outcome.
 - `INS-260405-5670` [medium] Moon's 2.3-second round-trip latency allows synchronous coordination with Earth; Mars's 10-30 minute latency forces asynchronous civilization — and asynchronous civilizations can declare independence.
 - `INS-260330-972B` [medium] The thylakoid membrane stores energy by pumping protons to create a concentration differential — the same pattern underlies arbitrage, expertise moats, and information advantages.
 - `INS-260330-CA88` [medium] Confucius's Five Key Relationships defined mutual obligations at every level of society, creating a stable coordination framework that lasted millennia.
 - `INS-260403-8DCA` [medium] Both sides of many social debates can credibly claim to defend 'rights,' making rights-based framing insufficient for strategic decision-making.
+- `INS-260409-E73C` [medium] GBAR builds a positronium converter and elaborate ion cooling just to make fewer antihydrogen atoms than ALPHA-g — because ALPHA-g's 0.5K is 50,000x too warm for 1% gravity precision.
 - `INS-260330-1953` [medium] Underwater bubbles oscillating and collapsing under Rayleigh-Plesset dynamics concentrate enough energy to produce light (sonoluminescence), demonstrating how oscillating collapse amplifies small inputs into extreme outputs.
+- `INS-260409-0584` [medium] A 2025 Bayesian phylogenetic model by Jordan Douglas detected saltative branching — rapid evolutionary leaps at speciation nodes followed by long stability — across enzymes, cephalopod body shapes, and Indo-European languages, validating punctuated equilibrium theory.
+- `INS-260409-BB40` [medium] Douglas's saltative branching model revealed that extinct evolutionary branches leave mathematical footprints on surviving lineages — the dead-end paths still shape what survived, even when invisible to direct observation.
+- `INS-260409-F4E0` [medium] Cosmology has been at this exact epistemic junction before — the 1990s stellar-age contradiction looked fatal until the accelerating-expansion discovery retroactively made sense of it, and most physics crises follow the same pattern of appearing to be endings but turning out to be doors.
 - `INS-260403-45E3` [medium] Classical virtue ethics focused on character over action because its audience had no real choice about what to do with their lives.
+- `INS-260409-3E53` [medium] CERN's BASE team built a portable antimatter trap — not because CERN couldn't do more experiments, but because background magnetic noise at CERN itself capped precision.
 - `INS-260330-9BC3` [medium] A vacuum cannon works by combining negative pressure (vacuum) with positive pressure across a sealed boundary — the differential produces forces neither side could generate alone.
 - `INS-260402-1F58` [medium] The real question is not 'patents or freedom' but 'patents or secrecy'—and secrecy's historical track record is far worse.
 - `INS-260403-9E31` [medium] The gangsterism lens — treating governance as mafia-style personal power projection — reliably predicts which institutions will be targeted and how.
 - `INS-260403-6AD0` [medium] A photon takes millions of years bouncing randomly inside a star before escaping — a powerful metaphor for progress through complex, opaque systems.
 - `INS-260404-A2F0` [medium] Some identities like 'scientist' function as anti-identities — they commit you to following evidence rather than defending conclusions.
 - `INS-260330-5958` [medium] 64% of Singaporeans said economic development matters more than democracy — revealing a transactional relationship where support is rented, not owned, and can be withdrawn when delivery falters.
+- `INS-260409-1AA0` [medium] One deliberate trip down the stack permanently changes how you reason about every layer above it — depth compounds.
+- `INS-260409-D8E4` [low] Early dark energy is one of few candidates that could solve the Hubble tension without demolishing the parts of ΛCDM that work — a nudge in the first few hundred thousand years that ripples forward through 14 billion years of expansion into a measurably higher local rate today.

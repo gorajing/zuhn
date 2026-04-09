@@ -63,6 +63,7 @@ related:
   - INS-260403-12B4
   - INS-260403-570D
   - INS-260403-4388
+  - INS-260409-0988
 ---
 The article frames churn as the metric that 'quietly erodes growth even when acquisition looks strong.' This is a well-documented but persistently ignored dynamic in SaaS: teams celebrate new logo wins while the revenue base underneath leaks. A company adding 50 customers per month at $100 ARPU but churning 5% monthly will plateau at roughly $100k MRR regardless of how long they keep acquiring — the churn drag creates a mathematical ceiling.
 

@@ -1,8 +1,11 @@
 # Topic: architecture
 
-> 18 insights
+> 24 insights
 
+- `INS-260409-5D67` [high] The control unit of a CPU is a ROM — a lookup table — and every 'decision' a computer appears to make is a deterministic table read.
 - `INS-260402-2D95` [high] Libraries are reusable because they are language, not because they are object-oriented.
+- `INS-260409-E366` [high] The clock cannot tick faster than the slowest signal path settles — performance is gated by physics, not by design ambition.
+- `INS-260409-C1B2` [high] Memory is a flat tape of bits with no intrinsic type — whether a byte is code or data is determined entirely by how the CPU decides to read it next.
 - `INS-260330-DE16` [high] Linear transformations are powerful precisely because their constraints — parallel gridlines, fixed origin — make them fully describable, composable, and invertible.
 - `INS-260405-64C5` [high] Photosynthesis solves the intermittency of sunlight by converting photon energy into a proton gradient (a charged thylakoid membrane acting as a battery), which then drives ATP synthesis on demand — completely decoupling capture from use.
 - `INS-260405-06B0` [high] Deep inheritance hierarchies create refactoring traps that compound over time, not just stylistic inconvenience.
@@ -13,7 +16,10 @@
 - `INS-260403-72C2` [high] Running Mixtral-class models locally needs ~40GB RAM, limiting local AI to users with high-end hardware.
 - `INS-260405-2688` [high] C has no garbage collector by design — manual malloc/free gives programmers full control over when memory is allocated and released, enabling predictable performance that GC languages cannot guarantee.
 - `INS-260403-2138` [high] DeepSeek R1's 671B parameter model uses sparse architecture so full-size reasoning doesn't require activating all parameters.
+- `INS-260409-C133` [high] Peripherals are just memory addresses that happen to be wired to physical things — MMIO turns all I/O into loads and stores.
+- `INS-260409-F4AA` [high] Overflow is a deliberate hardware contract — the carry flag is offered, and it is the programmer's job to check it.
 - `INS-260402-2879` [high] Define program meaning independently of implementation, then layer optimization advice on top.
+- `INS-260409-AB32` [high] Two's complement turns subtraction into addition-of-a-negative, collapsing two circuits into one and revealing that smart representations beat smart algorithms.
 - `INS-260402-06DB` [medium] Patterns in code signal you're hand-compiling abstractions your language should provide natively.
 - `INS-260330-30FB` [medium] G3P is photosynthesis's universal intermediate — one molecule convertible to glucose, cellulose, or starch — showing that versatile intermediates beat specialized end products for system resilience.
 - `INS-260403-EA93` [medium] Healthcare AI safety requires specialty fine-tuned models plus a fast lightweight judge model running continuous real-time validation.

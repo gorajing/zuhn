@@ -1,5 +1,5 @@
 # Source Map
-Generated on 2026-04-09 | 2422 sources
+Generated on 2026-04-09 | 2454 sources
 
 | Source | Type | Insights | Date |
 |--------|------|----------|------|
@@ -32,9 +32,12 @@ Generated on 2026-04-09 | 2422 sources
 | Waking Up with Sam Harris - Looking for the Self (26 Minute Meditation) | youtube | 19 | 2026-03-30 |
 | Accelerating Growth at Scale 🔥 Phase 2 of Kickstarting and Scaling a Marketplace Business | blog | 17 | 2026-03-31 |
 | Hiring is Obsolete | blog | 17 | 2026-03-31 |
+| Anthropic's Generational Run, OpenAI Panics, AI Moats, Meta Loses Major Lawsuits | youtube | 16 | 2026-04-09 |
+| Demis Hassabis: Why AGI is Bigger than the Industrial Revolution & Where Are The Bottlenecks in AI | youtube | 16 | 2026-04-09 |
 | Figma To App Store In 37 Minutes With AI [Tutorial] | youtube | 16 | 2026-03-29 |
 | The Archer's Paradox in SLOW MOTION - Smarter Every Day 136 | youtube | 16 | 2026-03-30 |
 | 14 Life Lessons I Wish I Knew Earlier | youtube | 15 | 2026-03-30 |
+| AI Whistleblower: We Are Being Gaslit By AI Companies, They’re Hiding The Truth! - Karen Hao | youtube | 15 | 2026-04-09 |
 | Brutally Honest Advice to My Younger Poorer Self | youtube | 15 | 2026-03-30 |
 | Fall of The Roman Empire...in the 15th Century: Crash Course World History #12 | youtube | 15 | 2026-03-30 |
 | Good sex explained in 9 minutes | Dr. Emily Nagoski | youtube | 15 | 2026-03-30 |
@@ -50,28 +53,41 @@ Generated on 2026-04-09 | 2422 sources
 | Lecture 8 - How to Get Started, Doing Things that Don't Scale, Press | youtube | 15 | 2026-03-31 |
 | The Hardest Problem AI Ever Solved, with Google DeepMind CEO | youtube | 15 | 2026-04-08 |
 | Why Apple Fails in India (& Why it Matters) | youtube | 15 | 2026-03-30 |
+| 지금은 10억 짜리 회사 만드는데 2명이서 90일이면 충분합니다(A to Z 플레이북) - 힉스필드(Higgsfield) 창업자 | youtube | 14 | 2026-04-09 |
 | Apple's Money Problem (& Why It Won't Buy Netflix) | youtube | 14 | 2026-03-30 |
 | Seriously, watch this before you go to college | youtube | 14 | 2026-03-30 |
 | 2,000 Years of Chinese History! The Mandate of Heaven and Confucius: World History #7 | youtube | 13 | 2026-03-30 |
+| Ben Horowitz - "Your ONLY job is Right Product, Right Time" | youtube | 13 | 2026-04-09 |
+| Gary Vee: The AI Opportunity Is Real — You're Just Looking at It Wrong | youtube | 13 | 2026-04-09 |
 | The Greatest Speech in History? Alexander the Great and the Opis Mutiny | youtube | 13 | 2026-03-26 |
 | Why Are Bad Words Bad? | youtube | 13 | 2026-03-30 |
 | Why Do We Kiss? | youtube | 13 | 2026-03-30 |
+| Zombie Startups: Should They Shut Down or Keep Going? | youtube | 13 | 2026-04-09 |
+| But How Does a Computer Actually Work? (from scratch, no prior knowledge needed) | youtube | 12 | 2026-04-09 |
 | $6.7M ARR, No Paid Ads, and an Exit to Quizlet in 2 Years — Coconote | youtube | 12 | 2026-03-20 |
+| How Social Media Algorithms Actually Work (And How to Beat Them) | youtube | 12 | 2026-04-09 |
 | How to Reverse POOR Eyesight (Especially Over 50!) | youtube | 12 | 2026-03-26 |
+| Karpathy's LLM Wiki: What It Means & How to Build One | youtube | 12 | 2026-04-09 |
 | People You Shouldn't Fall In Love With | youtube | 12 | 2026-03-26 |
 | REPROGRAM your mind to be rich in 22 minutes.... | youtube | 12 | 2026-03-30 |
 | World War II: Crash Course World History #38 | youtube | 12 | 2026-03-30 |
+| 출시 4일 만에 3천만원 찍은 SaaS 전략, 그대로 따라하세요. | youtube | 11 | 2026-04-09 |
 | Andrej Karpathy on Code Agents, AutoResearch, and the Loopy Era of AI | youtube | 11 | 2026-03-21 |
+| Biggest Breakthroughs in Biology: 2025 | youtube | 11 | 2026-04-09 |
+| Bryan Johnson: I Just Took the Most Powerful Dose of DMT in the World... Here's What It Was Like | youtube | 11 | 2026-04-09 |
+| How to Win With AI in 2026 | youtube | 11 | 2026-04-09 |
 | Inside the Mind of a Master Procrastinator | Tim Urban | TED | youtube | 11 | 2026-03-25 |
 | Paul Rosolie: Amazon Jungle, Uncontacted Tribes, Anacondas, and Ayahuasca | Lex Fridman Podcast #369 | youtube | 11 | 2026-03-30 |
 | $100M CEO Explains How to Build A Brand in 2024 | youtube | 10 | 2026-03-30 |
 | 13 Foods You Should NEVER Buy Organic | youtube | 10 | 2026-03-26 |
 | 14 Money Mistakes to AVOID in Your 20's | youtube | 10 | 2026-03-30 |
+| [월가아재] 미국주식, 앞으로 15년은 지금과 달라질 수 있습니다 | youtube | 10 | 2026-04-09 |
 | 30 Minutes of sales training that will explode your business in 2022 | youtube | 10 | 2026-03-30 |
 | Advice I Wish Someone Gave Me When I Was Broke | youtube | 10 | 2026-03-30 |
 | After Closing 4000+ Sales, I Discovered a New Method to Close Deals Faster | youtube | 10 | 2026-03-30 |
 | AWS Certified Cloud Practitioner Training 2020 - Full Course | youtube | 10 | 2026-03-29 |
 | Building a Frozen Yogurt Store in 11 Minutes | youtube | 10 | 2026-03-30 |
+| DeepMind’s New AI Just Changed Science Forever | youtube | 10 | 2026-04-09 |
 | Get RICH in the A.I. Revolution (2023) | youtube | 10 | 2026-03-30 |
 | Harvard CS50 (2023) – Full Computer Science University Course | youtube | 10 | 2026-03-29 |
 | How I Would Invest $1000 If I Were In My 20s | youtube | 10 | 2026-03-30 |
@@ -80,6 +96,7 @@ Generated on 2026-04-09 | 2422 sources
 | How to Get Ahead of 99% of People | youtube | 10 | 2026-03-30 |
 | How to get SO rich you question the meaning of making money | youtube | 10 | 2026-03-30 |
 | How to Make Money So Fast It Feels ILLEGAL | youtube | 10 | 2026-03-30 |
+| How to make progress faster than everyone | youtube | 10 | 2026-04-09 |
 | How to Take Your Health to the Next Level (Cost: 10¢) | youtube | 10 | 2026-03-26 |
 | How to Win (At ANYTHING) | youtube | 10 | 2026-03-30 |
 | HTML Full Course - Build a Website Tutorial | youtube | 10 | 2026-03-29 |
@@ -87,6 +104,7 @@ Generated on 2026-04-09 | 2422 sources
 | If you're ambitious and in your 20s or 30s, please watch this. | youtube | 10 | 2026-03-30 |
 | "I'm Broke... What Should I Do?" | youtube | 10 | 2026-03-30 |
 | Introduction to Programming and Computer Science - Full Course | youtube | 10 | 2026-03-29 |
+| Karpathy의 Obsidian RAG와 Claude Code 조합, 정말 치트키입니다 | youtube | 10 | 2026-04-09 |
 | Learn JavaScript - Full Course for Beginners | youtube | 10 | 2026-03-29 |
 | Lecture 1 - How to Start a Startup (Sam Altman, Dustin Moskovitz) | youtube | 10 | 2026-03-31 |
 | Lecture 19 - Sales and Marketing; How to Talk to Investors (Tyler Bosmeny; YC Partners) | youtube | 10 | 2026-03-31 |
@@ -96,15 +114,18 @@ Generated on 2026-04-09 | 2422 sources
 | Microsoft Excel Tutorial for Beginners - Full Course | youtube | 10 | 2026-03-29 |
 | My 12 Hour Work Day (in 15 Minutes) [Ep 003] | youtube | 10 | 2026-03-30 |
 | No BS Advice to Get Rich in the Next 10 Years | youtube | 10 | 2026-03-30 |
+| One State Found a Way to Make Billionaires Pay. Your State Could Be Next. | youtube | 10 | 2026-04-09 |
 | OpenAI's Security Blind Spot. How We Stop It | Professor Bo Li | youtube | 10 | 2026-03-26 |
 | Sell Anything To Anyone With This Unusual Method | youtube | 10 | 2026-03-30 |
 | Spooky Coincidences? | youtube | 10 | 2026-03-30 |
 | Stripe's "Minions": How AI agents write 1,300 PRs weekly with 0 human coding | youtube | 10 | 2026-03-30 |
 | The anti-routine...[what billionaires use to win] | youtube | 10 | 2026-03-30 |
+| The Billionaire Cheat Code for Business and Life | Jesse Itzler | 4K | youtube | 10 | 2026-04-09 |
 | The science of sex, love, attraction, and obsession | Big Think | youtube | 10 | 2026-03-30 |
 | The Sin of Moral Equivalence (Episode #338) | youtube | 10 | 2026-03-30 |
 | The True Cost of the iPhone | youtube | 10 | 2026-03-30 |
 | The Ultimate Sales Training for 2026 [Full Course] | youtube | 10 | 2026-03-27 |
+| They All Discovered the Same Thing | youtube | 10 | 2026-04-09 |
 | Train for any argument with Harvard’s former debate coach | Bo Seo | youtube | 10 | 2026-03-30 |
 | Wait For It...The Mongols!: Crash Course World History #17 | youtube | 10 | 2026-03-30 |
 | Watch these 55 minutes if you want to be a millionaire in 2022.. | youtube | 10 | 2026-03-30 |
@@ -118,9 +139,11 @@ Generated on 2026-04-09 | 2422 sources
 | 10 Different Ways To Break Down Making $1 Million | youtube | 9 | 2026-03-30 |
 | ATP & Respiration: Crash Course Biology #7 | youtube | 9 | 2026-03-30 |
 | C Programming Tutorial for Beginners | youtube | 9 | 2026-03-29 |
+| Explaining the Most Important Artemis II Photos | youtube | 9 | 2026-04-09 |
 | How Laser Tattoo Removal Works - Smarter Every Day 123 | youtube | 9 | 2026-03-30 |
 | How to Grow an Audience if You Have 0 Followers | youtube | 9 | 2026-03-30 |
 | How to Learn to Code - 8 Hard Truths | youtube | 9 | 2026-03-30 |
+| How to Reverse Hair Loss | youtube | 9 | 2026-04-09 |
 | I Built 4 Businesses In A Row To Show It's Not Luck | youtube | 9 | 2026-03-30 |
 | Indus Valley Civilization: Crash Course World History #2 | youtube | 9 | 2026-03-30 |
 | Introduction to Anatomy & Physiology: Crash Course Anatomy & Physiology #1 | youtube | 9 | 2026-03-30 |
@@ -128,10 +151,14 @@ Generated on 2026-04-09 | 2422 sources
 | Lecture 3 - Before the Startup (Paul Graham) | youtube | 9 | 2026-03-31 |
 | Lecture 7 - How to Build Products Users Love (Kevin Hale) | youtube | 9 | 2026-03-31 |
 | Love is a skill, not a feeling | Alain de Botton: Full Interview | youtube | 9 | 2026-03-25 |
+| Nobel Prize Winner Warns: “This Isn’t Our Universe” — James Webb Found Something Strange | youtube | 9 | 2026-04-09 |
 | Not Everyone Should Code | youtube | 9 | 2026-03-30 |
 | The Agricultural Revolution: Crash Course World History #1 | youtube | 9 | 2026-03-30 |
 | The Alex Hormozi Cookbook [REVEALED] | youtube | 9 | 2026-03-30 |
+| The Ancients Decoded Reality | youtube | 9 | 2026-04-09 |
 | The surprisingly simple rules most investors break | Barry Ritholtz | youtube | 9 | 2026-03-25 |
+| 왜 미국에서는 UFO 기밀 폭로가 끊이지 않을까?ㅣ범준에물리다 | youtube | 9 | 2026-04-09 |
+| Watch This To Generate 1000s of Leads (In Any Niche) | youtube | 9 | 2026-04-09 |
 | What actually makes a good life, according to 85 years of data | Robert Waldinger | youtube | 9 | 2026-03-25 |
 | What Is The Speed of Dark? | youtube | 9 | 2026-03-30 |
 | Why 2025 was the single most pivotal year in our lifetime | Peter Leyden | youtube | 9 | 2026-03-25 |
@@ -142,10 +169,12 @@ Generated on 2026-04-09 | 2422 sources
 | Yuval Noah Harari: Why advanced societies fall for mass delusion | youtube | 9 | 2026-03-25 |
 | Zimbabwe’s Currency Crisis: the worthless $100 trillion bill | youtube | 9 | 2026-03-30 |
 | 2025 Year In Review | youtube | 8 | 2026-03-29 |
+| A $350,000 AI AD Using Only 1 Tool (2026) | youtube | 8 | 2026-04-09 |
 | A Day In My Life for Longevity (Live to 120+) | youtube | 8 | 2026-03-26 |
 | Ben Shapiro vs Destiny Debate: Politics, Jan 6, Israel, Ukraine & Wokeism | Lex Fridman Podcast #410 | youtube | 8 | 2026-03-30 |
 | DNA Structure and Replication: Crash Course Biology #10 | youtube | 8 | 2026-03-30 |
 | Elon Musk: War, AI, Aliens, Politics, Physics, Video Games, and Humanity | Lex Fridman Podcast #400 | youtube | 8 | 2026-03-30 |
+| Everything You Want Comes When You Let Go | youtube | 8 | 2026-04-09 |
 | '50 AI Agents Running My Company' Is a Lie — Gumloop, Max Brodeur-Urbas | youtube | 8 | 2026-03-20 |
 | How a CPU Works in 100 Seconds // Apple Silicon M1 vs Intel i9 | youtube | 8 | 2026-03-30 |
 | How High Can We Build? | youtube | 8 | 2026-03-30 |
@@ -178,13 +207,16 @@ Generated on 2026-04-09 | 2422 sources
 | Gokul Rajaram on the 8 Moats Companies Need & Why Dropouts are "AI Maxing" the World | youtube | 7 | 2026-03-27 |
 | How Great Founders Approach Sales | youtube | 7 | 2026-03-29 |
 | How Impatient Should Founders Be In The Pre-AGI Era? | youtube | 7 | 2026-03-29 |
+| How We Make Antimatter | youtube | 7 | 2026-04-09 |
 | If You're Waking Up to Pee, It's Not Your Bladder | youtube | 7 | 2026-03-26 |
 | Linear transformations and matrices | Chapter 3, Essence of linear algebra | youtube | 7 | 2026-03-30 |
 | Michio Kaku: The impending collapse of digital computing as we know it | youtube | 7 | 2026-03-25 |
+| Scientists observe atoms existing in two places at once for the first time | youtube | 7 | 2026-04-09 |
 | Terence Tao – How the world’s top mathematician uses AI | youtube | 7 | 2026-03-22 |
 | The art and science of failing well | youtube | 7 | 2026-03-25 |
 | The Crazy Business of Pokémon Cards | youtube | 7 | 2026-03-24 |
 | The most important piece of technology in your lifetime is this tiny chip | Chris Miller | youtube | 7 | 2026-03-25 |
+| The most insane sound design tool nobody's heard of (is free) | youtube | 7 | 2026-04-09 |
 | The real reason some people adapt faster than others | George Bonanno | youtube | 7 | 2026-03-25 |
 | What Is MEDDIC? (Win More Complex Sales) With Andy Whyte | Salesman Podcast | youtube | 7 | 2026-03-27 |
 | What the absence of aliens on Earth really tells us | David Kipping | youtube | 7 | 2026-03-25 |
@@ -200,6 +232,7 @@ Generated on 2026-04-09 | 2422 sources
 | How To Get Better Advice | youtube | 6 | 2026-03-29 |
 | How to Sell Better than 99% Of People (4 HOUR ULTIMATE GUIDE) | youtube | 6 | 2026-03-30 |
 | Is My Startup Growing Fast Enough? | youtube | 6 | 2026-03-29 |
+| Jonathan Rivnay is building a "living pharmacy" to dispense personalized medicine | youtube | 6 | 2026-04-09 |
 | Lee Cronin: Controversial Nature Paper on Evolution of Life and Universe | Lex Fridman Podcast #404 | youtube | 6 | 2026-03-24 |
 | Manolis Kellis: Evolution of Human Civilization and Superintelligent AI | Lex Fridman Podcast #373 | youtube | 6 | 2026-03-24 |
 | Marketing GENIUS: The Strategy Behind Content That Reaches Millions | youtube | 6 | 2026-03-27 |
@@ -2013,7 +2046,6 @@ Generated on 2026-04-09 | 2422 sources
 | How to Fall Back Asleep FAST (Even at 2AM) | youtube | 1 | 2026-03-26 |
 | How to Get Rid of Candida in 24 Hours (And Keep It Gone) | youtube | 1 | 2026-03-26 |
 | How to Mitigate The Side Effects of Coffee | youtube | 1 | 2026-03-26 |
-| How to Reverse Hair Loss | youtube | 1 | 2026-03-26 |
 | How to Stop Porn Addiction (Never Relapse Again) | youtube | 1 | 2026-03-26 |
 | I Answered Your Questions For 95 Minutes | youtube | 1 | 2026-03-26 |
 | I Built the Healthiest House to Live to 120 | youtube | 1 | 2026-03-26 |
@@ -2145,6 +2177,13 @@ Generated on 2026-04-09 | 2422 sources
 | You Are Taking Creatine Wrong (here's how to fix it) | youtube | 1 | 2026-03-26 |
 | You Will Never Wear AirPods Again | youtube | 1 | 2026-03-26 |
 | You'll Never Eat Sardines Again | youtube | 1 | 2026-03-26 |
+| 2504.19874v1 | pdf | 0 | 2026-03-26 |
+| @u.northwestern.edu Mail - How Roblox Uses AI to Translate 16 Languages in 100 Milliseconds | pdf | 0 | 2026-03-30 |
+| @u.northwestern.edu Mail - The Agentic AI Tipping Point | pdf | 0 | 2026-03-30 |
+| Claude for Finance | pdf | 0 | 2026-03-22 |
+| Building the Zuhn knowledge base — lessons from Phase 1-5 | paste | 0 | 2026-03-20 |
+| Cross-domain synthesis — Phase 20 bridging insights | paste | 0 | 2026-03-27 |
+| The Leverage Field Manual — How to multiply your output without working more | paste | 0 | 2026-03-22 |
 | This Automation Took Me From 0 to 175k Followers in Under 12 Months | reddit | 0 | 2026-03-20 |
 | After learning this, my AI workflows cost me 30x less | reddit | 0 | 2026-03-20 |
 | Claude Code usage limit hack | reddit | 0 | 2026-03-20 |
@@ -2157,13 +2196,6 @@ Generated on 2026-04-09 | 2422 sources
 | I built a workflow that turns YouTube transcripts into newsletter style summaries | reddit | 0 | 2026-03-20 |
 | Sound Design Breakdown [and tutorial] | reddit | 0 | 2026-03-20 |
 | [Tutorial] All there is to know about syncing video and audio | reddit | 0 | 2026-03-20 |
-| Building the Zuhn knowledge base — lessons from Phase 1-5 | paste | 0 | 2026-03-20 |
-| Cross-domain synthesis — Phase 20 bridging insights | paste | 0 | 2026-03-27 |
-| The Leverage Field Manual — How to multiply your output without working more | paste | 0 | 2026-03-22 |
-| 2504.19874v1 | pdf | 0 | 2026-03-26 |
-| @u.northwestern.edu Mail - How Roblox Uses AI to Translate 16 Languages in 100 Milliseconds | pdf | 0 | 2026-03-30 |
-| @u.northwestern.edu Mail - The Agentic AI Tipping Point | pdf | 0 | 2026-03-30 |
-| Claude for Finance | pdf | 0 | 2026-03-22 |
 | 10 contrarian leadership truths every leader needs to hear | Matt MacInnis (Rippling) | blog | 0 | 2026-03-31 |
 | 10 lessons on bootstrapping a $200m business | Patrick Campbell (ProfitWell) | blog | 0 | 2026-03-31 |
 | 100 AI Agent Ideas to Build in 2026 (Complete List + Tools) | blog | 0 | 2026-03-30 |

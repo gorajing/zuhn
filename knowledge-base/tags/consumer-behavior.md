@@ -26,6 +26,7 @@
 - `INS-260327-7D27` All-inclusive pricing environments increase total spending because individual consumption decisions carry zero marginal 
 - `INS-260327-6188` When therapy is marketed like a subscription service, consumers expect consumer-grade UX, responsiveness, and satisfacti
 - `INS-260327-7018` Affluent consumers who thrift for social media content are performing frugality as an identity signal while spending mor
+- `INS-260409-492F` The profitable opportunity in AI is the gap between when something can be automated and when consumers actually change their habits, which runs for years.
 - `INS-260330-5C64` Users make one unrelated choice (e.g., buying a phone) that forces dozens of subsequent choices, creating compounding lock-in that no single service could generate independently.
 - `INS-260330-0998` Tencent's attempt to charge subscription fees for QQ backfired and lost users to competitors, but switching to free access with microtransactions for virtual items and in-game purchases became enormously profitable.
 - `INS-260330-8639` A product's true cost is purchase price minus resale value, which can completely flip which option is actually cheaper.

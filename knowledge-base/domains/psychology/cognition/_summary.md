@@ -1,6 +1,6 @@
 # Topic: cognition
 
-> 89 insights
+> 92 insights
 
 - `INS-260330-984C` [high] Flat Earth theories are clever ad hoc explanations that address individual challenges but fail to fit all evidence into a unified framework.
 - `INS-260403-518E` [high] Chatter makes stress toxic by keeping the stress response active long after the triggering event has passed.
@@ -21,6 +21,7 @@
 - `INS-260403-BADD` [high] Erosion rates turn incomprehensible deep time into something the human mind can grasp and reason about.
 - `INS-260403-D7C4` [high] When every possible life path is visible simultaneously, choosing any single path feels like losing all the others — so people choose nothing.
 - `INS-260403-CBB2` [high] The inner voice handles working memory, simulation, self-control, and identity construction — chatter is when this system malfunctions.
+- `INS-260409-8758` [high] 2025 cell-type atlases show avian DVR and mammalian neocortex evolved intelligence independently from different ancestral cell populations, settling a 60-year debate in favor of convergence.
 - `INS-260330-CAD2` [high] Writing created a class distinction in Mesopotamia that persists in various forms to this day — those who control information access hold disproportionate power.
 - `INS-260330-6418` [high] The Women's March on Versailles was driven by grain hoarding rumors, not Enlightenment philosophy — material deprivation is the actual catalyst for collective action.
 - `INS-260403-7639` [high] MDMA's therapeutic mechanism is enabling self-compassion — people can face traumatic memories without the self-loathing that normally blocks processing.
@@ -85,8 +86,10 @@
 - `INS-260330-2304` [medium] Psychedelics temporarily suppress the default mode network, breaking entrenched neural patterns and enabling cognitive flexibility that persists after the drug wears off.
 - `INS-260403-10A0` [medium] Screen-free audio players like Yoto shift kids from passive screen consumption to active physical engagement with content.
 - `INS-260330-87A0` [medium] World-class debaters spend their final prep minutes writing the best case against themselves, not reinforcing their own position.
+- `INS-260409-9509` [medium] The right framing is that Apollo was unfathomably early for the available technology, not that Artemis is embarrassingly late.
 - `INS-260403-E8DD` [medium] The High Place Phenomenon shows that when survival instincts fire without a matching threat, the brain invents an intention to explain the mismatch.
 - `INS-260330-F671` [medium] The electron transport chain extracts energy through a cascade of small reactions rather than one explosive step — a pattern that maps directly to sustainable human productivity.
+- `INS-260409-2093` [medium] Hassabis worries most about post-AGI philosophy — meaning, purpose, consciousness, what it is to be human — and says we lack modern philosophers equipped for it.
 - `INS-260405-2021` [medium] Musk's 'Hitchhiker's Guide' framing — the answer is 42, but we don't know the question — reframes progress as a problem of question quality, not answer capacity.
 - `INS-260330-6E6A` [medium] A detectable time gap exists between a thought appearing and the mind claiming ownership of it, and meditation exploits this gap.
 - `INS-260403-F7DE` [medium] Decades of numerical simulation couldn't explain secondary vortex ring formation, but high-speed footage immediately revealed new structural details.

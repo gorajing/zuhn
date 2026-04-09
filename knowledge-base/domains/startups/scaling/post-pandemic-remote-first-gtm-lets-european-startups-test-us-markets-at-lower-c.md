@@ -58,6 +58,7 @@ related:
   - PRI-260406-F443
   - INS-260403-AC9F
   - PRI-260406-4CF9
+  - INS-260409-143C
 ---
 Before 2020, the average time for European startups to open a US office was four years. Post-pandemic, that stretched to five—not from slower ambition but because remote-first GTM motions allow cheaper, earlier market testing. The modern expansion ladder is: close first US customer from Europe, bridge time zones with hybrid support, make one embedded US hire, build GTM spine with real accountability, then relocate a founder or executive only once the funnel justifies it.
 

@@ -48,7 +48,6 @@ stance: >-
   As economies shift from scarce-resource control to idea creation, meanness
   transitions from competitive advantage to competitive liability
 related:
-  - INS-260321-3C8A
   - INS-260323-85E7
   - INS-260402-9F35
   - INS-260403-3A71
@@ -58,6 +57,7 @@ related:
   - PRI-260406-F3B6
   - PRI-260406-541E
   - INS-260323-0D51
+  - INS-260405-CF27
 evidence:
   - id: INS-260321-3C8A
     type: CHALLENGES

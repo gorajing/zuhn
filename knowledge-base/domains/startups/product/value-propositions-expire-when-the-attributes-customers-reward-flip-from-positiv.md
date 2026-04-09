@@ -53,10 +53,10 @@ related:
   - INS-260329-793D
   - INS-260329-D5FF
   - INS-260403-9482
+  - INS-260409-BE4C
   - INS-260322-5A72
-  - INS-260404-8746
   - INS-260403-162F
-  - INS-260405-AACA
+  - INS-260404-8746
 ---
 McDonald's was built on fast and inexpensive meals — for decades this was its competitive advantage. But as customers began valuing healthy eating, fresh products, and customized experiences, fast-and-cheap became associated with low quality. The very attributes that built the brand now actively repelled the market segment it needed to attract.
 

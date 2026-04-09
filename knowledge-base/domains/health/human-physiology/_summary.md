@@ -1,6 +1,6 @@
 # Topic: human-physiology
 
-> 29 insights
+> 34 insights
 
 - `INS-260330-BC56` [high] Photons from solar fusion excite electrons in chlorophyll, which through an elaborate transport chain produce ATP and NADPH, which build glucose, which animals then reverse-engineer back into ATP — making all aerobic life indirectly fusion-powered.
 - `INS-260330-B061` [high] PSII splits water to replace lost electrons, producing oxygen as a byproduct — this single reaction in chloroplasts is the source of virtually all breathable oxygen on Earth.
@@ -26,8 +26,13 @@
 - `INS-260330-E647` [high] Neurons have extremely high metabolic rates, with the brain consuming about 25% of daily calories, making cognitive function the first casualty of energy deficits.
 - `INS-260330-1677` [high] Chloroplasts charge thylakoids like batteries by pumping protons inside, then harvest that gradient through ATP synthase to produce ATP.
 - `INS-260405-174B` [medium] Replacing blood with saline and albumin mimics young-blood transfusion benefits, revealing that aging damage accumulation — not depletion of youth factors — is the primary mechanism.
+- `INS-260409-9215` [medium] Suppressing DHT alone is insufficient because follicle damage persists as hypoxia, scar tissue, and broken mitochondria that must be independently repaired.
 - `INS-260404-D122` [medium] Neuralink requires ~20-minute personalized calibration per user because neural firing patterns for identical intended movements vary significantly between individuals.
 - `INS-260404-C606` [medium] Higher cell division capacity protects against degenerative diseases like Alzheimer's but increases cancer risk, revealing a fundamental biological tradeoff.
+- `INS-260409-9A4E` [medium] Scalp hypoxia from restricted circulation triggers inflammation and scar tissue formation, which is the irreversible step in pattern baldness progression.
+- `INS-260409-3117` [medium] Because hair loss is a multi-factor cascade, any protocol that fixes only one layer (DHT, circulation, mitochondria, scar tissue, or metabolic) will plateau at partial results.
+- `INS-260409-E490` [medium] Insulin resistance increases 5-alpha reductase activity and free testosterone availability, making metabolic repair a prerequisite for durable hair regrowth.
 - `INS-260403-687E` [medium] Male testosterone is declining ~1% per year independent of age and lifestyle, meaning today's 30-year-old has 20% less than his father did at the same age.
 - `INS-260330-2A6A` [medium] Bright tattoo ink colors are created from heavy metal compounds, creating an ironic contrast with the sterile-field protocols used during application.
+- `INS-260409-8759` [medium] November 2025 Chinese mouse study showed treadmill-trained fathers pass physical fitness to male offspring via specific sperm microRNAs regulating metabolism genes — the strongest mechanistic evidence yet for non-DNA paternal inheritance.
 - `INS-260330-5D64` [medium] Expressing daily verbal appreciation to a partner reduces their cortisol and cholesterol while boosting immune function — and produces the same benefits in the speaker.

@@ -10,4 +10,5 @@
 - `INS-260329-3C67` Research controlling for SAT scores and socioeconomic status shows college adds zero earning premium for white and Asian students from wealthy families, yet these families demand college attendance most aggressively.
 - `INS-260403-2385` Structure landing page narratives as Problem → Agitation (real business cost) → Transformation (quantified outcome) using customers' exact language.
 - `INS-260329-CA4F` Avoidance-framed habits stick better than aspiration-framed habits because they tap into evolutionarily older threat-detection circuits.
+- `INS-260409-5FE5` Two loss frames beat one — 'limited seats' plus 'locked-in price forever' creates urgency that neither alone can match.
 - `INS-260405-D8AA` Show the CFO what competitors are spending on innovation; loss aversion moves budgets faster than projected IRR.

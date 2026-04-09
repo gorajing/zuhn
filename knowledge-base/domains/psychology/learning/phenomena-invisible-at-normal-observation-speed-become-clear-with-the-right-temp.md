@@ -47,7 +47,6 @@ stance: >-
   Most failures to understand complex systems stem from observing at the wrong
   timescale rather than lacking the right theory
 related:
-  - INS-260330-300D
   - INS-260330-2EC4
   - INS-260330-D1A1
   - INS-260330-59E3
@@ -55,6 +54,7 @@ related:
   - INS-260403-7BBD
   - PRI-260406-603C
   - PRI-260405-6867
+  - INS-260409-A8F4
 evidence:
   - id: INS-260403-7BBD
     type: SUPPORTS

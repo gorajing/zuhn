@@ -61,11 +61,11 @@ related:
   - INS-260327-35C7
   - INS-260328-B57E
   - INS-260329-1E81
-  - INS-260402-2632
   - INS-260403-225B
   - INS-260405-DC20
   - INS-260403-F943
   - INS-260403-2CFE
+  - INS-260405-0CE7
 ---
 Graham observes that one of the most reliable ways to stay motivated through the early lame phase of ambitious work is to shift attention from absolute quality to rate of change. Lame work that is rapidly improving is far more valuable than mediocre work that is static — but our intuitions about quality are calibrated to current state, not trajectory.
 

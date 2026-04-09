@@ -47,15 +47,15 @@ resolutions:
     opportunity, then use time to let it compound.
 related:
   - PRI-260405-64B2
+  - INS-260409-492F
   - INS-260329-DD06
   - INS-260329-F04B
   - INS-260403-6731
-  - INS-260330-1F25
   - INS-260325-3A54
   - INS-260327-5580
   - INS-260329-727B
   - INS-260330-4A16
-  - INS-260402-C13F
+  - INS-260330-1F25
 stance: >-
   Speed is the shortest distance between seeing and acting on an opportunity;
   time is making a good decision and holding it

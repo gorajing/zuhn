@@ -5,3 +5,4 @@
 - `INS-260330-C89D` Chronic drinking increases synapses in habit circuits while reducing connections in prefrontal control circuits, creating lasting impulsivity outside drinking episodes.
 - `INS-260330-DA37` A 35,000-person UK Biobank study found neocortical thinning even at 1-2 drinks per day average consumption.
 - `INS-260330-0233` Chronic moderate alcohol intake disrupts the hypothalamic-pituitary-adrenal axis, causing higher baseline cortisol and increased anxiety during sober periods.
+- `INS-260409-0A28` UFO reports cluster on holidays when people drink — the sky is constant, the observer is not.

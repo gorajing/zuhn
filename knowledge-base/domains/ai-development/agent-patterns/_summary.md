@@ -1,6 +1,6 @@
 # Topic: agent-patterns
 
-> 46 insights
+> 49 insights
 
 - `INS-260321-18D0` [very_high] Your bottleneck shifted from typing speed to token throughput — maximize how many agent sessions you can run in parallel, not how fast you code.
 - `INS-260321-2482` [high] When agents fail, the instinct now is 'I gave bad instructions' not 'the AI can't do this' — most failures are configuration problems, not capability limits.
@@ -12,6 +12,7 @@
 - `INS-260327-A9D5` [high] Chase says building agents is more iterative because with software you iterate on what it should do, while with agents you must also iterate on understanding what it actually does — a fundamentally different development loop.
 - `INS-260321-B85C` [high] Reframing businesses as collections of input-constrained processes (customer service, legal) and output-constrained processes (creative, engineering) reveals fundamentally different AI automation strategies for each.
 - `INS-260320-1B10` [high] Have Claude review its own code via a specialized review agent — catches critical errors, missing implementations, and security flaws.
+- `INS-260409-7C62` [high] CLAUDE.md teaches the agent how to traverse the vault — it is the retrieval system.
 - `INS-260327-F625` [high] Harrison Chase says context engineering describes everything LangChain has done without knowing the term existed — traces show what's in your context, compaction manages it, sub-agents partition it, and memory extends it across sessions.
 - `INS-260402-5ACE` [high] Context graphs store not just facts but the precedent and reasoning behind decisions, answering 'why' questions that vector similarity search alone cannot.
 - `INS-260327-368D` [high] Just as security changed fundamentally when economic activity moved from physical to digital, it must change again as it moves from digital to autonomous AI interactions.
@@ -21,8 +22,10 @@
 - `INS-260320-9D89` [high] Give agents very specific roles and clear instructions on what to RETURN — prevents 'I fixed it!' without details.
 - `INS-260327-7F56` [high] ChatGPT Agent was designed to mirror Slack-style human delegation: both parties can initiate communication, the agent asks clarifying questions, and users can interrupt with corrections mid-task.
 - `INS-260403-834C` [high] Human-readable inter-agent communication channels are a critical safety mechanism because they enable behavioral monitoring that opaque formats prevent.
+- `INS-260409-5C6B` [high] LLMs reliably catch contradictions, orphans, and gaps in a wiki because the work is global reading — tedious for humans, cheap for LLMs.
 - `INS-260327-FDC1` [high] Chase argues that file system access is a non-negotiable primitive for long-horizon agents because it enables critical context management strategies: storing summarized context for later retrieval, handling large tool results, and maintaining state across compaction boundaries.
 - `INS-260405-82DD` [high] Context windows are RAM-like quick access, but persistent agents also need hard-drive-like selective memory systems that choose what to retain.
+- `INS-260409-95C8` [high] Your questions reveal what matters; file the answers back as permanent wiki pages or lose that signal.
 - `INS-260327-1B82` [high] Teleoperated robots could already clean houses and cook a decade ago; the missing piece is autonomous intelligence, not better hardware.
 - `INS-260327-26BF` [high] ChatGPT Agent unified deep research's text browser, operator's visual browser, and a terminal with shared file system, producing 1+1+1=5 capabilities because tools can pass state to each other.
 - `INS-260405-AFF7` [high] MiniMax's Linda frames three coding eras — GUI copilots, CLI agents, and autonomous agent swarms — all emerging within months and coexisting rather than replacing each other.

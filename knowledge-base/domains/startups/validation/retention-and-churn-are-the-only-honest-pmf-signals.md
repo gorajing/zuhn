@@ -59,6 +59,7 @@ related:
   - INS-260403-A2A2
   - PRI-260406-D017
   - INS-260403-5301
+  - INS-260409-8750
 ---
 Growth metrics like signups, downloads, and even revenue can all be bought through aggressive spending. They tell you about your marketing effectiveness, not whether your product actually delivers value. Retention and churn are the honest signals because they measure whether users who experienced the product chose to keep experiencing it—a direct proxy for value delivery.
 

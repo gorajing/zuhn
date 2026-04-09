@@ -58,9 +58,9 @@ evidence:
 related:
   - PRI-260327-0AA2
   - PRI-260328-F804
+  - INS-260409-7789
   - PRI-260323-A05E
   - INS-260322-F6C3
-  - PRI-260325-663A
 ---
 Taleb draws a sharp line between mechanical systems (washing machines) and organic ones (cats, economies, people). Organic systems require stressors to function. You stress your body at the gym; bones need loading to maintain density; cells that break under fasting stress are replaced by stronger ones. The same Jensen's inequality that kills grandmothers at extreme temperature averages makes humans healthier with temperature variation.
 

@@ -46,10 +46,9 @@ stance: >-
   highest-ROI investment in social proof that compounds into paid demand
 related:
   - INS-260329-F73D
-  - INS-260329-8B33
-  - INS-260329-AAD1
   - INS-260329-9F8D
   - INS-260329-563F
+  - INS-260329-AAD1
   - INS-260330-1D9D
 ---
 The conventional wisdom is that giving away work for free devalues your offering. Hormozi flips this: free work at the start is a deliberate investment in social proof. Each free client becomes a testimonial source, a referral channel, and a case study. The testimonials reduce the trust gap for the next prospect, making each subsequent sale easier than the last.

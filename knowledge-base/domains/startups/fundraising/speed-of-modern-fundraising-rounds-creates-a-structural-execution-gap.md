@@ -48,10 +48,10 @@ stance: >-
   follow-on participation.
 related:
   - INS-260404-4682
-  - INS-260403-6BA6
   - PRI-260406-04DB
   - PRI-260406-1A4D
   - INS-260405-2F43
+  - INS-260409-784F
   - INS-260405-FCA9
 ---
 The article identifies a structural shift in venture: round velocity has accelerated to the point where operational friction — not investment conviction — becomes the primary barrier to follow-on. A missed email, delayed wire transfer, or slow legal review can cost an investor their pro-rata allocation in a hot round. This is especially acute for smaller funds without dedicated operations teams for cap table tracking, reserve management, and investor coordination. The implication extends beyond VC: in any domain where opportunities move faster than decision-making infrastructure, the bottleneck shifts from judgment to execution readiness. Firms that invest in real-time portfolio monitoring tools (Carta, Pulley, Allocate) and pre-authorize follow-on parameters gain systematic advantage over those relying on ad-hoc processes.

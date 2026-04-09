@@ -52,6 +52,7 @@ related:
   - INS-260403-FFF0
   - INS-260325-8729
   - INS-260322-185B
+  - INS-260409-95C8
 ---
 The founder's recovery strategy centered on 'listening, not asking' — setting up keyword alerts on Reddit, Twitter, forums, and G2 rather than sending surveys. This reflects a well-documented bias in customer research: interview subjects tell you what they think they want or what sounds reasonable, not what they actually do. Survey responses are filtered through social desirability and hypothetical thinking.
 

@@ -1,6 +1,6 @@
 # Topic: founder-psychology
 
-> 73 insights
+> 78 insights
 
 - `INS-260323-9C11` [high] Early hardship — while not required for success — instills an unshakeable belief that solutions exist and are within your control.
 - `INS-260328-91A1` [high] We are so early in AI adoption that freezing all model development today would still yield massive business improvements for years -- current tools are dramatically under-deployed.
@@ -20,6 +20,7 @@
 - `INS-260330-206B` [high] Founders must maintain dual consciousness—optimism about the long-term vision alongside paranoid clarity about current existential risks.
 - `INS-260323-F9AC` [high] Great achievers across history share one trait: they know their demons intimately and channel them into drive rather than letting those demons destroy them or pretending they don't exist.
 - `INS-260328-8DF8` [high] People who are having fun can sustain crazy levels of effort for years — people who aren't fun eventually burn out and quit.
+- `INS-260409-8A36` [high] Strong conviction in a wrong direction beats hedged drift; founders who hedge across five bets have already lost their team.
 - `INS-260403-86C7` [high] With 72% of startup founders experiencing mental health issues and productivity declining sharply after 50 hours/week, lean teams face a sustainability ceiling that AI automation only partially addresses.
 - `INS-260323-8B89` [high] Negative role models teach what kind of human not to be and what actions not to take — this via-negativa learning can be as formative as positive mentorship.
 - `INS-260403-E365` [high] Work on ambitious projects you genuinely enjoy, and the right things will naturally get left undone.
@@ -27,6 +28,7 @@
 - `INS-260323-F853` [high] Founders like Musk have deep empathy for humanity's mission but can be callous to individuals in the room, while others like Ben Franklin excel at personal empathy -- both are valid superpowers for different contexts.
 - `INS-260323-3CC2` [high] Even after a major win, assume your competitor has achieved the same advantage and continue producing at maximum intensity.
 - `INS-260404-FD24` [high] The cartoon archetype of the ruthless businessman is mathematically wrong for startups where growth comes from word-of-mouth.
+- `INS-260409-A55C` [high] The reward for shutting down a zombie is not an exit — it's getting your life back to do something that compounds.
 - `INS-260323-979C` [high] Your passion can start a business, but continuing to run it on personal emotion instead of facts, metrics, and processes is the most common path to failure.
 - `INS-260402-8C0E` [high] Founders are driven more by not wanting to look bad in front of peers than by the theoretical possibility of getting rich.
 - `INS-260325-0C4A` [high] Thinking through failure scenarios before starting a venture minimizes downside and accelerates recovery when things go wrong.
@@ -38,6 +40,7 @@
 - `INS-260323-5986` [high] In fast-growing companies you cannot learn organically fast enough — systematically interview people who are one or two stages ahead to discover the pattern of what you need 12-24 months from now.
 - `INS-260323-FFAC` [high] Cox maintained the narrative that he was 'helping people get homes' through every escalation of fraud, only recognizing his self-deception years later in prison while writing an ethics course.
 - `INS-260326-20C8` [high] The same mechanism that makes founders avoid hard truths is what makes people avoid emotional intimacy — self-protection destroys what it claims to protect.
+- `INS-260409-FCE1` [high] Founders owe their employees and investors honest effort, not a successful outcome; the expected outcome was never winning.
 - `INS-260323-95FE` [high] Cox's first fraud (whiting out a late payment) didn't satisfy the urge — it emboldened him, rapidly escalating from minor document alteration to synthetic identities and $55M in fraud.
 - `INS-260403-D417` [high] Surrounding yourself with people who can distinguish ugly ducklings from bad ideas is critical for ambitious work.
 - `INS-260404-4D13` [high] Surrounding yourself with people working on similarly ambitious projects creates a local counter-current against the social headwind of skepticism.
@@ -50,6 +53,7 @@
 - `INS-260323-0683` [high] As stakes increase, power struggles intensify — resilient governance structures must be built early, before the pressure peaks.
 - `INS-260323-78A5` [high] Casper rejected Target's $900M acquisition offer because it wasn't a billion dollars; the company IPO'd at $500M, then continued dropping — the unicorn ego cost investors hundreds of millions.
 - `INS-260329-B0F4` [high] The beliefs you don't even think to question — not the ones you debate — are what truly limit your potential.
+- `INS-260409-3CCA` [high] Writing the story doesn't feel like work, so founders skip the most important part of the job.
 - `INS-260330-9BF5` [medium] Systrom tolerated years of small Facebook interferences but resigned when Zuckerberg throttled team growth and began treating Instagram as subordinate to Facebook's interests.
 - `INS-260323-4AF5` [medium] Musk-type founders are literally addicted to intensity -- when things calm down, they manufacture new crises not out of dysfunction but because surge mode is how they create maximum value.
 - `INS-260403-4AF3` [medium] Research on 25 young billion-dollar founders reveals that hardship and neurodivergence appear where traditional filters would screen them out.
@@ -73,5 +77,6 @@
 - `INS-260328-33E8` [medium] When most of your peers made money from sports betting and crypto, advice about building for years doesn't land.
 - `INS-260405-2CDB` [medium] The urge to perfect before testing is driven by fear of invalidation, not by logic.
 - `INS-260404-108C` [medium] Across money, time, and likely other resources, the biggest losses come not from obvious indulgence but from activities that mimic virtue while destroying value.
+- `INS-260409-DBD8` [medium] The knowledge you built during the zombie years is real — your next swing is more likely to land than your first.
 - `INS-260405-93AE` [medium] Data on unicorn founders contradicts the cult of youth that dominates startup culture.
 - `INS-260404-7071` [medium] Young founders benefit from two offsetting mistakes: underestimating obstacles and underestimating their own capacity to grow.

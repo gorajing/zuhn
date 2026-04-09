@@ -50,10 +50,10 @@ stance: >-
   apply to one, leaving hundreds of thousands on the table.
 related:
   - INS-260405-1A59
+  - INS-260409-AD81
   - INS-260403-6E68
   - INS-260405-9579
   - INS-260402-0727
-  - INS-260403-CAB4
 ---
 The three major cloud providers each run startup credit programs worth $150K–$350K individually, combining to over $826K in free infrastructure. These programs are not mutually exclusive—founders can and should apply to all three. The credits typically cover compute, storage, and managed services, which for a SaaS startup can eliminate infrastructure costs for two or more years.
 

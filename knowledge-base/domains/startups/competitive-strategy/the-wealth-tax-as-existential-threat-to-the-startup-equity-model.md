@@ -56,14 +56,14 @@ evidence:
     type: CHALLENGES
     classified_at: '2026-04-06'
 related:
-  - INS-260327-AB46
   - INS-260327-714F
   - INS-260327-4E10
   - INS-260327-8AE7
   - INS-260330-9DCD
+  - INS-260409-E421
+  - INS-260409-49EF
+  - INS-260409-EF00
   - INS-260330-6204
-  - INS-260403-D870
-  - INS-260404-22CB
 ---
 The proposed California wealth tax includes unrealized gains and values company stakes by voting rights rather than ownership percentage. This means a typical founder who maintains board control despite dilution could be taxed on more wealth than they actually own. Since startup founders routinely hold billions in paper wealth for years before any liquidity event, this would force premature equity sales or restructuring.
 

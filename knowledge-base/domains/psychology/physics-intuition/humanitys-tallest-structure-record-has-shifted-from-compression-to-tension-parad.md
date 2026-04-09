@@ -56,7 +56,6 @@ related:
   - INS-260330-72D0
   - PRI-260406-1188
   - PRI-260328-99F0
-  - INS-260330-6A65
 evidence:
   - id: INS-260330-AF2A
     type: EXTENDS

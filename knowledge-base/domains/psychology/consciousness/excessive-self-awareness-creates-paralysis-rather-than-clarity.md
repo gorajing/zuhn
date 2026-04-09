@@ -51,6 +51,7 @@ related:
   - PRI-260406-1437
   - INS-260327-A4FE
   - INS-260330-AEE3
+  - INS-260409-BACD
 ---
 Pessoa created dozens of heteronyms - not pseudonyms but fully developed alternate identities with distinct writing styles and philosophies. This fragmentation wasn't literary gimmick but lived experience of what happens when self-awareness becomes recursive: observing yourself changes the self being observed, creating an infinite regress.
 

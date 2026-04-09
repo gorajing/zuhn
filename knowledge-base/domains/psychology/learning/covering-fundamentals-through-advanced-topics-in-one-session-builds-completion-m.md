@@ -52,10 +52,10 @@ stance: >-
   following a multi-resource learning path
 related:
   - INS-260329-26AC
+  - INS-260409-2B5F
   - PRI-260405-71C5
   - INS-260330-0102
   - INS-260329-90C3
-  - PRI-260406-6EF8
 evidence:
   - id: INS-260329-26AC
     type: SUPPORTS

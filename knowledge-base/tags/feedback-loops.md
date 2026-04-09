@@ -5,11 +5,11 @@
 - `INS-260327-5EEA` Improving multi-agent systems requires observability into inter-agent conversations -- GPTers built a dashboard to view session-send exchanges between agents to understand how to improve their collaboration.
 - `INS-260325-05EC` Prof Kuang Xu distinguishes deep AI (learns from decisions, creates feedback loops) from shallow AI (automates existing tasks) — deep wins long-term.
 - `INS-260329-FEBA` Rather than perfecting one massive prompt, the effective workflow is: prompt, see the result, make a small adjustment, repeat — each cycle taking minutes.
-- `INS-260330-82B5` One bad AI interaction permanently destroys user willingness to retry, creating a vicious cycle of declining engagement and improvement.
-- `INS-260330-30CE` Users who experience AI failure on first try rarely return, creating an adoption death spiral that compounds over time.
 - `INS-260403-BA48` AI trained to be agreeable slowly erodes users' ability to challenge their own assumptions.
 - `INS-260403-E5D4` Asking the AI to analyze the disconnect between your stated preferences and actual conversation patterns reveals configuration improvements you cannot anticipate upfront.
 - `INS-260329-206D` Dr. Chuck frames Python as a personal automation tool first — scraping your own data, organizing your own files — because solving your own problems creates motivation loops that career-oriented framing cannot match.
+- `INS-260330-82B5` One bad AI interaction permanently destroys user willingness to retry, creating a vicious cycle of declining engagement and improvement.
+- `INS-260330-30CE` Users who experience AI failure on first try rarely return, creating an adoption death spiral that compounds over time.
 - `INS-260403-751D` Pre-existing user bases of hundreds of millions create a flywheel where more human feedback produces faster model improvement.
 - `INS-260325-95A6` MIT found 95% of genAI pilots yield zero P&L impact because enterprise AI tools become static science projects that never adapt to real workflows.
 - `INS-260327-1C7C` Crosby built a law firm rather than legal software because doing the work yourself creates irreplaceable telemetry for improving AI accuracy beyond 90%.
@@ -46,23 +46,24 @@
 - `INS-260330-3AF7` DNA polymerase proofreads as it builds, achieving a 1-in-10-billion error rate — orders of magnitude better than any separate quality check could achieve at that scale.
 - `INS-260330-BEE7` Successful founders personally handle customer support, obsess over tiny product details, and maintain the tightest possible feedback loop with users — especially in the first year.
 - `INS-260329-3739` Skill = repetitions × improvement-per-rep; reviewing your top and bottom 10% of outputs is the multiplier most people skip.
+- `INS-260409-885E` The complete formula for making it is start, take feedback to get better, and never stop — most failure is skipping one of these.
+- `INS-260405-AC3E` The insight from a customer conversation degrades with every layer of intermediary between the customer and the decision-maker.
+- `INS-260323-B374` High-turnaround physical activities like jiu-jitsu and surfing teach leaders the crucial lesson that some things cannot be forced, a lesson business cycle times are too long to teach.
 - `INS-260329-F6E1` Launch free or cheap, raise 20% every 5 customers until conversion-rate × price peaks.
 - `INS-260403-71A6` The gap between understanding customers and testing ideas is where most innovation efforts stall — closing that gap through systematic linking is the key leverage point.
 - `INS-260402-3866` Prepare materials to 70% completeness, then test with 4-6 people who've fundraised or invested before iterating to final form.
-- `INS-260405-AC3E` The insight from a customer conversation degrades with every layer of intermediary between the customer and the decision-maker.
-- `INS-260323-B374` High-turnaround physical activities like jiu-jitsu and surfing teach leaders the crucial lesson that some things cannot be forced, a lesson business cycle times are too long to teach.
 - `INS-260325-B50B` CIA's three-step training model — educate, exercise, experience — compresses skill acquisition by immediately applying classroom learning in real-world settings with self-accountability.
 - `INS-260326-C692` Start by asking for criticism of yourself before criticizing others — it builds trust and credibility for harder conversations.
 - `INS-260330-26E7` Loyalty-first hiring filters for liars or zealots, destroying an organization's capacity for honest self-assessment.
 - `INS-260325-75EA` A teacher makes deposits of knowledge; a coach observes your real performance over time and walks you through iterative change — the distinction is about feedback loops, not content.
-- `INS-260404-95D0` The email system's fundamental vulnerability is that sending messages has no consequences for the sender.
 - `INS-260330-C134` Plants' own success at producing oxygen through photosynthesis poisoned their core enzyme RuBisCo, which evolved for a low-oxygen world — their greatest output became their biggest problem.
 - `INS-260330-C391` YC finds that founders who hook PagerDuty to customer support tickets and respond within an hour at 3am correlate with startup success more than almost any other behavior.
 - `INS-260404-8A18` Rapid iteration with visible progress keeps amateur contributors motivated through multi-day creative projects.
 - `INS-260330-3A3E` When the people who build the product also support it, bugs get fixed faster and the knowledge gap between builders and users collapses.
 - `INS-260322-3C3D` ElevenLabs' core advantage comes from product teams talking directly to research teams — product provides real user feedback, research iterates immediately, and models get tested directly on the product.
-- `INS-260327-1787` The speed of feedback is inversely correlated with the number of repetitions needed to learn -- stopping mid-role-play to correct and repeat is far more effective than notes at the end.
+- `INS-260404-95D0` The email system's fundamental vulnerability is that sending messages has no consequences for the sender.
 - `INS-260325-0F4F` Progress begets progress: fundamental technologies like computing and steam power feed back into the innovation process itself, creating accelerating returns.
 - `INS-260403-64D0` The startup environment's rapid success/failure cycle makes it uniquely suited to reveal which evaluation signals actually predict performance.
 - `INS-260329-180B` Limit your first app to one core feature so you can ship fast and get real user feedback before building more.
 - `INS-260329-DFD1` TestFlight's screenshot feedback feature captures user frustration in-context — tell beta users to screenshot anything weird and you get zero-friction bug reports with visual evidence.
+- `INS-260327-1787` The speed of feedback is inversely correlated with the number of repetitions needed to learn -- stopping mid-role-play to correct and repeat is far more effective than notes at the end.

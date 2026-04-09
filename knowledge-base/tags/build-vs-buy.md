@@ -2,6 +2,7 @@
 
 - `INS-260403-F68B` Tariffs on GPUs and server components create a cost advantage for AI startups using cloud APIs over those building owned inference infrastructure.
 - `INS-260320-922A` Only pretrain your own LLM for three reasons: advancing research with novel questions, meeting specific production requirements, or filling gaps in the open-source ecosystem.
+- `INS-260409-7162` Start with the simple vault; let scale failures force the cutover, don't pre-argue it.
 - `INS-260330-6B7F` Vanilla JS forces imperative DOM manipulation where state and UI are completely decoupled, and any attempt to manage that complexity at scale recreates framework patterns — just without the community, testing, and documentation.
 - `INS-260402-92AE` Centivax outsourced initial testing but brought optimization in-house once they knew the technology worked, making iteration cheaper, faster, and producing a more polished product.
 - `INS-260403-F4D7` Best-in-class infrastructure components are now commodity plug-and-play, so building custom infra is almost always wrong for early-stage startups.

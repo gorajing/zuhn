@@ -1,3 +1,3 @@
-# Tag: dht
+# Tag: DHT
 
-- `INS-260325-0BB0` Pattern baldness is driven by excess DHT from insulin resistance — lowering carbs and insulin can slow or reverse it.
+- `INS-260327-D17A` Hair loss reversal requires addressing zinc, biotin, iron, and vitamin D deficiencies alongside hormonal and gut health

@@ -1,6 +1,6 @@
 # Topic: behavior-change
 
-> 29 insights
+> 39 insights
 
 - `INS-260403-C512` [high] Rules-based approaches to distraction fail because the addictive part of your brain finds plausible exceptions; adversarial design works better.
 - `INS-260403-D64B` [high] Forcing yourself to always produce something pushes you away from what you think you should work on and toward what you actually like.
@@ -20,14 +20,24 @@
 - `INS-260403-E652` [high] Technology inherently makes things more addictive by concentrating the desirable properties of their predecessors.
 - `INS-260403-D467` [high] Self-selected time-wasters survive precisely because they're expert at defeating your own defenses.
 - `INS-260403-955F` [medium] Meaning emerges from friction, obligation, and inconvenience — optimizing these away optimizes away purpose itself.
+- `INS-260409-0FA2` [medium] Cringe accusations are defensive status plays — interpret them as evidence your trajectory is threatening, not as aesthetic feedback.
+- `INS-260409-7171` [medium] Naming a desire triggers attention to its absence, so gap-awareness is the default failure mode of goal-setting.
 - `INS-260403-E4C7` [medium] Nearly a third of Gen Z has deleted social media apps, and global social media usage has declined 10% since 2022, suggesting organic human adaptation to harmful technology.
 - `INS-260403-38C5` [medium] When you can't browse or check email at your work computer, the ingrained habit of sitting there for hours redirects itself into actual work.
+- `INS-260409-7632` [medium] Most people wait for results to grant permission for a new identity; the causal direction is actually reversed — identity must shift first and results follow.
 - `INS-260330-0242` [medium] Write down small achievable goals nightly; the check-mark dopamine hit builds an addiction to the learning process itself.
+- `INS-260409-CE5F` [medium] Treat chronic fear as legacy survival code misfiring, not as a report about present reality.
 - `INS-260403-24DB` [medium] Opt-out mechanisms let governments support people's better-self preferences without forcing compliance, avoiding both the failure of voluntarism and the overreach of mandates.
 - `INS-260330-4079` [medium] Psychedelics appear to work therapeutically by temporarily destabilizing rigid neural patterns, creating a window of increased flexibility where new behavioral repertoires can form.
 - `INS-260403-9861` [medium] Theater and role-playing let people physically experience alternative identities, creating deeper change than imagining or discussing those possibilities.
+- `INS-260409-FFEA` [medium] Durable behavior change requires small consistent shifts, not dramatic overhauls — the mustard-seed heuristic.
 - `INS-260330-4088` [medium] Hamas gained popular support primarily through building schools, mosques, and clinics in Gaza, not through its militant activities.
+- `INS-260409-9296` [medium] Pain is often the solvent that dissolves a self-model rigid enough to block updating.
 - `INS-260330-293E` [medium] When behavior is blocked by active inhibitors (stress, fear, friction), removing those brakes produces bigger results than pushing harder on motivation.
+- `INS-260409-A1B2` [medium] Three-column exercise: write the emotions/thoughts/actions of your future self who achieved the goal, contrast with today's, then practice the future-self column as daily behavior.
+- `INS-260409-F7F8` [medium] People who brag about not trying are losing and sensing it — the mockery of effort is self-protection against their own avoidance.
 - `INS-260403-EC3D` [medium] Screen-sharing AI workflows in meetings and Slack creates viral adoption through social proof more effectively than formal training.
 - `INS-260403-D443` [medium] Richer nations consistently reforest and protect biodiversity more, supporting Pinker's theory that comfort breeds altruism.
 - `INS-260404-9AEC` [medium] Willpower functions as a trainable meta-skill whose gains compound across personal and professional domains simultaneously.
+- `INS-260409-11E7` [low] Felt-effortfulness in goal pursuit is a signal of internal resistance to the goal, not evidence of dedication.
+- `INS-260409-DBCF` [low] The 'what story will remain?' frame is a cleaner decision filter than 'what do I want?' because terminal state is harder to fool.

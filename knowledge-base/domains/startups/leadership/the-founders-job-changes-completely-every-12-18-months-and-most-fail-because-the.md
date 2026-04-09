@@ -48,7 +48,6 @@ stance: >-
   to delegating to designing systems — each stage requires unlearning the skills
   that made the previous stage work.
 related:
-  - INS-260325-060A
   - INS-260322-70DD
   - INS-260402-27A1
   - INS-260325-17BF

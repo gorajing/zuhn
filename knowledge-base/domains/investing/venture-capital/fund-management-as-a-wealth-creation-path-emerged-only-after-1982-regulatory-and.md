@@ -49,10 +49,10 @@ stance: >-
   capital — neither alone was sufficient.
 related:
   - INS-260323-C370
+  - INS-260409-1DD3
   - PRI-260405-1FBC
   - PRI-260406-275E
   - INS-260329-A6EA
-  - INS-260327-8D5D
 evidence:
   - id: INS-260327-8D5D
     type: TRANSFERS_TO

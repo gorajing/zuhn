@@ -1,6 +1,6 @@
 # Topic: growth-marketing
 
-> 139 insights
+> 148 insights
 
 - `INS-260320-630D` [very_high] Frame your product as a solution to a problem, not a toy — a video framing Coconote as a fun toy got 41M views but terrible conversion, while solution-framed videos converted far better.
 - `INS-260320-080B` [very_high] Ask customers how they describe your product, then use their exact words as marketing copy — Coconote asked and the majority said "never miss a key detail," which became their App Store headline.
@@ -8,9 +8,11 @@
 - `INS-260322-37EE` [high] Use tools like PostHog and RevenueCat experiments to A/B test onboarding screens, paywalls, and pricing in isolation — removing just 3 screens can drop conversion to zero.
 - `INS-260329-CBF6` [high] Prioritize scaling advertising reach over optimizing conversion rates because reach has no ceiling while optimization maxes out at 100%.
 - `INS-260321-AA91` [high] Enterprise customers resist AI credit-based pricing because credits are opaque (unlike transferable units like gigabytes), vendors can silently increase consumption by adding features, and outcome-based pricing creates a dynamic baseline problem where savings erode year over year.
+- `INS-260409-B892` [high] AI product distribution is an X-first cascade — small community buzz, news accounts, creator content, then scale.
 - `INS-260322-D7B1` [high] Even a 20-30% shift from Google to AI chatbots will dramatically raise paid search costs for remaining advertisers, making current acquisition strategies unviable.
 - `INS-260330-9C48` [high] When eBay switched from paying affiliates per confirmed registration to per activated user, registrations dropped 20% but active users only dropped 5% -- then growth accelerated.
 - `INS-260327-E6B0` [high] Underconsumption-core and anti-haul content generates as much commercial activity as the consumption it critiques, because it creates a new identity to signal.
+- `INS-260409-D195` [high] Ask more times, but only as often as your value delivery earns the right.
 - `INS-260327-6D58` [high] A clown gets attention but has no fan club — trusted creators with small audiences outperform viral ones with millions of followers.
 - `INS-260323-6414` [high] Manifast reached 4,000 users and 50 paid customers by combining building-in-public on LinkedIn/Threads, sponsoring niche communities, recruiting ambassadors, and personally going offline to hand out flyers.
 - `INS-260322-6AF5` [high] Amazon's product search has degraded so badly (spam, fake reviews, wrong-size photos, unclear ads) that DoorDash competing on product trust from local stores is a viable strategy — big tech's moats erode from the inside.
@@ -52,6 +54,7 @@
 - `INS-260322-5745` [high] When an industry treats marketing as beneath it, the first firm to market aggressively gains a permanent structural advantage.
 - `INS-260322-5CBF` [high] Influencer marketing can deliver extraordinary or zero ROI — the variance comes from selection skill and creative direction, not the channel itself.
 - `INS-260405-5CCD` [high] The champion, not the salesperson, is the real closer in bottom-up enterprise deals.
+- `INS-260409-FC9A` [high] Name and package the lead magnet before polishing its content — the wrapper moves the needle far more.
 - `INS-260323-F282` [high] Today almost no one associates Nobel with dynamite -- his prize program so thoroughly overwrote his legacy that 'Nobel' means scientific achievement, not weapons.
 - `INS-260321-FB3F` [high] Every time a public figure gets destroyed, it's because of something too short to contain context — say everything you think, but say it on a podcast or in an essay.
 - `INS-260329-69F0` [high] freeCodeCamp's 48M-view Python tutorial demonstrates that one exhaustive tutorial can drive growth for years.
@@ -62,6 +65,7 @@
 - `INS-260320-70FA` [high] Target the person who pays, not just the person who uses — students used Coconote but moms often bought it, and "my mom just changed my life" content drove viral parent-to-parent purchasing.
 - `INS-260321-C4CD` [high] A podcast episode is both a distribution mechanism AND a credibility-building mechanism — it operates on two axes at once. Most tools do one thing. Media does both, which is why its returns feel disproportionate.
 - `INS-260403-9E6A` [high] Place a mini-FAQ answering security, integrations, setup time, cancellation, and ROI questions directly beside your pricing CTA to catch bounces at the moment of intent.
+- `INS-260409-BD67` [high] Direct purchase CTAs only convert informed audiences; cold traffic needs a mini-offer as a halfway step.
 - `INS-260322-BD0D` [high] You can't market a company without a character, but the character must be real and sustainable — manufactured personas always collapse over time.
 - `INS-260329-D062` [high] Do more of what works, then optimize it, then try new things — in that strict order.
 - `INS-260327-29F0` [high] The framework is not the hard part — getting the entire leadership team aligned on one strategic story is where the real value lies.
@@ -88,6 +92,7 @@
 - `INS-260329-F73D` [high] Before launching any new product or entering a new market, work for free in exchange for testimonials because proof makes selling unnecessary.
 - `INS-260330-70BC` [high] eBay switched affiliate payouts from confirmed registrations to activated users, lost 20% registrations but only 5% active users — then growth accelerated.
 - `INS-260327-C9A3` [high] People share products not because you asked them to, but because recommending remarkable things makes THEM look good.
+- `INS-260409-7C92` [high] Buyers pay when they are thirstiest; lead magnets should intensify deprivation, not relieve it.
 - `INS-260321-96CE` [high] Markets (topics) rarely change and can't be invented. Formats (creative vessels) are born daily. Innovate on format, not market — then transplant across markets for maximum leverage.
 - `INS-260327-EBDF` [high] Social platforms surface metrics that serve their business (engagement time) not yours (revenue from trust) — stop measuring what's easy and start measuring what matters.
 - `INS-260327-415B` [high] When products are designed primarily to be shared on social media, they optimize for visual impact at the expense of the
@@ -103,6 +108,8 @@
 - `INS-260321-EE05` [high] The NYT's 24-hour editorial cycle is an OODA loop — the internet cycles in 12 hours, causing traditional media to perpetually chase viral posts and have a psychological breakdown.
 - `INS-260322-683B` [high] Less than 10% of brands succeed, and the common factor among those that do is preserving a single undiluted brand message through every stage of organizational growth.
 - `INS-260322-8BC5` [high] Charging $1500-3000/month to SMBs creates 4-6 month average stick rates that crush margins as churn compounds and CAC rises.
+- `INS-260409-13A5` [high] Every effective lead magnet is a diagnostic, a trial, or a partial solution — pick based on buyer awareness.
+- `INS-260409-2AF8` [high] When prospects pay with time now, they are more likely to pay with money later.
 - `INS-260321-822B` [high] The fastest AI companies reach $100M revenue significantly faster than SaaS predecessors, with top performers growing 693% YoY — driven by product demand, not sales spend — and running at $500K-1M ARR per FTE versus the old SaaS benchmark of $400K.
 - `INS-260403-0F72` [high] Low prices attract price-sensitive users who churn fast and consume disproportionate support — raising prices filters for better customers.
 - `INS-260327-4B5A` [high] Show real-time revenue growth by updating your metrics continuously—static snapshots are far less compelling.
@@ -123,6 +130,7 @@
 - `INS-260403-9DC2` [medium] A strategically inferior pricing tier makes your target plan feel like the obvious choice through asymmetric dominance.
 - `INS-260327-D2A6` [medium] Make your fundraise itself a story worth telling—unconventional approaches generate more attention than conventional pitches.
 - `INS-260327-16D7` [medium] Curry's (UK's Best Buy) CEO directly attributed Q4 revenue increases to their employees' TikTok presence — not the CEO's personal brand or traditional marketing.
+- `INS-260409-B9F6` [medium] Do the math on free services as a customer acquisition channel — the implicit CAC often beats paid media.
 - `INS-260403-6EC2` [medium] AI assistants like ChatGPT and Perplexity are replacing Google as the primary discovery layer, making Generative Engine Optimization essential.
 - `INS-260329-CB2C` [medium] Prioritize building audience goodwill over immediate monetization because it compounds faster and converts to money on your timeline.
 - `INS-260322-98AB` [medium] Offer lifetime free access at launch to generate initial downloads and App Store reviews, then turn on paid ads only after you have social proof and keyword rankings.
@@ -133,6 +141,7 @@
 - `INS-260321-C292` [medium] After the movie 300, Navy SEAL recruitment spiked — entertainment that inspires heroism and optimism creates the cultural conditions for industrial mobilization.
 - `INS-260321-3BA8` [medium] The Department of War is replacing cost-plus contracts with 1000-requirement RFPs with simple firm-fixed-price requirements — the SpaceX model where vendors keep margins from economizing.
 - `INS-260403-66CA` [medium] Product Hunt's algorithm and community reward makers who contribute genuine value before asking for support.
+- `INS-260409-1298` [medium] Pick the platform where your buyers are dense and competing voices are sparse, not the one with the most users.
 - `INS-260403-2054` [medium] Start with inbound and outbound channels that already show organic traction signals, and reserve paid channels for post-PMF scaling.
 - `INS-260322-D57C` [medium] When scaling, CEOs cannot just delegate customer-facing work — they must personally demonstrate the brand's standard alongside new employees so sensibility transfers through shared experience.
 - `INS-260323-E1BE` [medium] Find people on social media who publicly complain about the product you're replacing, build genuine trust, then offer your alternative — this direct approach converts better than any ad campaign.

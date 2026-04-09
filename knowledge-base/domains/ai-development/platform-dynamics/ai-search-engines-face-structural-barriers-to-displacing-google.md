@@ -54,5 +54,6 @@ related:
   - INS-260405-DA33
   - PRI-260407-5465
   - INS-260405-0810
+  - INS-260409-5065
 ---
 The Verge's analysis that AI search engines 'really can't kill Google' points to a deeper principle about platform displacement. Google's moat isn't just search quality—it's the compounding flywheel of default browser placement, advertiser ecosystem lock-in, decades of behavioral data, and integration across Android, Chrome, and Gmail. AI search challengers like Perplexity may capture niche use cases, but displacing the full search ecosystem requires simultaneously defeating distribution advantages, advertiser network effects, and user habits. This mirrors historical patterns where seemingly superior technologies failed to displace entrenched platforms because the incumbent's advantage was systemic rather than feature-based.

@@ -7,4 +7,5 @@
 - `INS-260323-BEF0` Yudkowsky warns of a 'boiling the frog' dynamic where early false sentience claims (Blake Lemoine) teach the public to dismiss all sentience signals, exactly when systems are getting closer to actual awareness.
 - `INS-260403-F4ED` Alignment difficulty stems from the nature of human values (sparse, contradictory, contextual), not from insufficient technical capability.
 - `INS-260403-BA48` AI trained to be agreeable slowly erodes users' ability to challenge their own assumptions.
+- `INS-260409-C158` Frontier model capabilities are built one at a time by human annotators, and the annotation workforce keeps growing — it's not a one-time cost that decays.
 - `INS-260403-751D` Pre-existing user bases of hundreds of millions create a flywheel where more human feedback produces faster model improvement.

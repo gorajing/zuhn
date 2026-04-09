@@ -44,11 +44,11 @@ stance: >-
   primarily driven by lifestyle, climate, and social network factors, with tax
   savings providing a convenient post-hoc justification.
 related:
+  - INS-260409-EF00
   - INS-260327-B47E
   - INS-260327-A4D1
-  - INS-260403-4B31
-  - INS-260327-714F
-  - INS-260403-9CD9
+  - INS-260409-755C
+  - INS-260409-900D
 evidence:
   - id: INS-260330-4830
     type: EXTENDS

@@ -53,7 +53,6 @@ stance: >-
   on educational credentials.
 related:
   - INS-260325-3CE2
-  - INS-260327-D77C
   - INS-260403-46B2
   - INS-260403-C161
   - INS-260403-7F6F

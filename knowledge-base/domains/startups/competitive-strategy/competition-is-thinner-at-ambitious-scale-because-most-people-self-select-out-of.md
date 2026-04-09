@@ -51,10 +51,10 @@ stance: >-
   competitors before they start.
 related:
   - INS-260329-93AE
+  - INS-260409-11E7
   - PRI-260328-23B0
   - INS-260325-502D
   - INS-260403-538C
-  - INS-260404-FD88
 evidence:
   - id: INS-260322-A208
     type: TRANSFERS_TO

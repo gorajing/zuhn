@@ -1,6 +1,6 @@
 # Topic: nutrition
 
-> 269 insights
+> 270 insights
 
 - `INS-260327-9E9D` [high] 93 percent of Americans are metabolically unhealthy making metabolic dysfunction the root of most chronic disease
 - `INS-260330-3DC8` [high] Alcohol kills good gut bacteria while allowing bad bacteria to escape through a leaky gut wall, triggering liver inflammation that reaches the brain and paradoxically increases the desire to drink more.
@@ -186,6 +186,7 @@
 - `INS-260327-D6E0` [medium] Heart-strengthening foods center on potassium-rich vegetables, omega-3 sources, and CoQ10 from organ meats
 - `INS-260327-9EBA` [medium] Heart surgeons increasingly recognize metabolic health markers as more important than LDL for cardiac risk
 - `INS-260325-7301` [medium] Heartburn is low stomach acid causing food fermentation — antacids reduce acid further and make the problem progressively worse.
+- `INS-260409-BB5E` [medium] Zinc, vitamin D3, and heme iron from liver are rate-limiting for follicle stem cell activation and hair protein synthesis.
 - `INS-260327-A17A` [medium] High blood pressure is driven by insulin resistance and processed food sodium rather than dietary salt from whole foods
 - `INS-260327-C010` [medium] Medical literature shows honey improves insulin sensitivity and testosterone levels, distinguishing it from isolated sucrose which lacks honey's 300+ bioactive compounds.
 - `INS-260327-C8EB` [medium] Humans convert only 1% of fructose to fat via de novo lipogenesis, and harmful fructose effects in studies are driven by endotoxin from isolated fructose feeding, not fructose itself.

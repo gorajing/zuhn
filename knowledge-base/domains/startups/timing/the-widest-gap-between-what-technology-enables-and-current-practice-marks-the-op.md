@@ -56,11 +56,11 @@ stance: >-
   feasible that remains unsolved—the wider the delta between possibility and
   current state, the larger the opportunity
 related:
-  - INS-260323-7E6F
   - INS-260330-5043
+  - INS-260323-7E6F
+  - INS-260409-BF3F
   - INS-260330-550F
   - INS-260403-DDFD
-  - INS-260326-80B1
 evidence:
   - id: INS-260323-7E6F
     type: SUPPORTS

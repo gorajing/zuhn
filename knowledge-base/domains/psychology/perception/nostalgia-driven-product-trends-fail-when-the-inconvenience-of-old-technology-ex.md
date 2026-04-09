@@ -42,10 +42,10 @@ stance: >-
   when daily friction makes the inconvenience intolerable.
 related:
   - INS-260327-A620
+  - INS-260409-0F19
   - INS-260324-A046
   - INS-260330-5ED4
   - INS-260329-B6DF
-  - INS-260327-6A45
 evidence:
   - id: INS-260327-A620
     type: SUPPORTS

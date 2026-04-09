@@ -1,6 +1,6 @@
 # Topic: ideation
 
-> 88 insights
+> 90 insights
 
 - `INS-260328-FF2C` [high] The smartest people can make the impossible happen, but if you cannot attract the smartest people, you cannot even make the possible happen.
 - `INS-260403-C610` [high] The best startup ideas come from projects built to scratch your own itch, not from brainstorming sessions about what would make a good company.
@@ -15,6 +15,7 @@
 - `INS-260330-6C68` [high] Deliberately brainstorming startup ideas produces plausible-sounding but fundamentally flawed ideas that no one urgently needs.
 - `INS-260402-D739` [high] The best startup ideas come from problems founders personally experience, not from copying existing companies with minor variations.
 - `INS-260330-2B42` [high] Larry Page became Larry Page not through startup education but because genuine curiosity made him an expert on search — startups are merely an ulterior motive for curiosity.
+- `INS-260409-3FC6` [high] Don't brainstorm ideas — attempt something hard, discover where no solution exists, solve that.
 - `INS-260402-0727` [high] Late career specialization produces more founders because 'startup founder' is never a planned career — it emerges from flexible systems.
 - `INS-260402-1414` [high] Starting from a genuine edge or puzzling question produces far better results than choosing an important-sounding topic and forcing insights from it.
 - `INS-260404-323D` [high] Productive idea evaluation requires inverting from 'why it won't work' to 'how it could work' — a trainable skill, not naive optimism.
@@ -58,6 +59,7 @@
 - `INS-260403-AA8F` [high] Founders stick with bad ideas because invested time feels like evidence of quality, not because better ideas don't exist.
 - `INS-260403-CA1F` [high] Ideas dismissed as toys — microcomputers, planes, cars, Facebook — often indicate genuine opportunities everyone else overlooked.
 - `INS-260330-5043` [high] Monitor the delta between what new technology makes possible and how things are currently done — maximum divergence equals maximum startup opportunity.
+- `INS-260409-8438` [high] There are no ideas, only the idea maze — founders navigate walls, not pick concepts.
 - `INS-260321-7109` [high] SaaS companies where seats are tied to work output (Zendesk) face existential risk from AI, those where seats are just a pricing trick unrelated to output (Workday) are safe, and those in between (Adobe) face moderate pressure.
 - `INS-260330-4EF8` [high] A contrarian idea is only valuable if you can name what you know that smart, informed skeptics don't — otherwise you're just wrong.
 - `INS-260330-0E49` [high] Contrarian conviction must be grounded in a specific knowledge advantage over smart critics, not just general disagreement.

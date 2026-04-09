@@ -1,6 +1,8 @@
 # Tag: identity
 
 - `INS-260329-D297` Using arbitrary surrogate keys rather than business-meaningful natural keys as primary keys prevents breakage when business rules change.
+- `INS-260409-7632` Most people wait for results to grant permission for a new identity; the causal direction is actually reversed — identity must shift first and results follow.
+- `INS-260409-DBCF` The 'what story will remain?' frame is a cleaner decision filter than 'what do I want?' because terminal state is harder to fool.
 - `INS-260402-82F6` The alcoholic refuses to change not because he can't, but because changing would mean surrendering the only thing he has left — his defiant self-image.
 - `INS-260403-9861` Theater and role-playing let people physically experience alternative identities, creating deeper change than imagining or discussing those possibilities.
 - `INS-260403-15DA` Haters and fanboys are structurally identical: both are obsessive, uncritical, and identity-fused with their target.
@@ -8,12 +10,17 @@
 - `INS-260403-CBB2` The inner voice handles working memory, simulation, self-control, and identity construction — chatter is when this system malfunctions.
 - `INS-260402-E7F7` The story's nested drug-induced lives create a situation where characters cannot determine if they are 'real' or simulated, making consistent moral behavior the only robust strategy.
 - `INS-260403-CD29` When everything you say online is permanently stored, the ability to reinvent yourself and move past mistakes is fundamentally constrained.
+- `INS-260409-A803` Ego is the narrative self-model — the aim is to hold it lightly, not destroy it.
 - `INS-260323-7DBC` At the self-authoring stage of development, you realize your values and identity are not terminal but instrumental — and gaining agency over your identity costume is what constitutes wisdom.
 - `INS-260403-F76E` When AI agents simulate themselves with enough fidelity to reference real experiences and produce novel reflections, the line between performance and genuine selfhood becomes philosophically meaningless.
 - `INS-260325-4C2E` The algorithm effect replaces internal motivation with external validation loops, creating population-level identity outsourcing to platforms.
+- `INS-260409-A239` Treating your current self-model as untrustworthy is a generative stance when paired with willingness to act on better evidence, not a paralysis.
 - `INS-260404-3959` Intentional moderates and ideologues both acquire opinions in bulk rather than reasoning independently about each question.
 - `INS-260404-7C3F` Keeping your identity small — refusing to label yourself as an X or Y person — preserves your ability to think clearly across more domains.
 - `INS-260403-9E97` Trump's rage at SCOTUS striking down tariffs — despite tariffs dragging his approval ratings — reveals how identity attachment to a signature policy overrides rational political self-interest.
+- `INS-260330-790A` Serial pivots away from proven talent usually signal identity rejection rather than strategic diversification.
+- `INS-260403-2BAF` People who do great work don't become haters, and haters don't produce great work — the orientations are mutually exclusive.
+- `INS-260330-C7B5` Making a tool part of your identity makes you worse at evaluating alternatives.
 - `INS-260327-D77C` The average billionaire is 63 and getting older, with no billionaires under 30 being self-made, yet most refuse to retire even though some would be richer if they'd passively invested instead.
 - `INS-260404-2E30` MRI studies show Apple users' brains respond to brand news with the same empathy patterns as family relationships.
 - `INS-260404-7541` Marketing researcher Americus Reed argues brands now serve the identity-support function once held by churches and communities.
@@ -23,9 +30,6 @@
 - `INS-260403-5A91` When someone cheats in the domain they claim to care most about, it reveals a disconnect between stated values and actual psychology that is deeply diagnostic.
 - `INS-260329-F3F0` The differentiator for top performers is absence of distractions, not presence of special abilities.
 - `INS-260403-A739` Karp maintained contrarian positions for 20 years while being called a failure, and that tolerance for ostracism was itself a competitive advantage.
-- `INS-260330-790A` Serial pivots away from proven talent usually signal identity rejection rather than strategic diversification.
-- `INS-260403-2BAF` People who do great work don't become haters, and haters don't produce great work — the orientations are mutually exclusive.
-- `INS-260330-C7B5` Making a tool part of your identity makes you worse at evaluating alternatives.
 - `INS-260330-CC9E` Despite having more liquid spending power than almost anyone on Earth, Jho Low was described by party guests as anxious, unable to enjoy his own events, and desperate to be liked.
 - `INS-260329-5B3D` Spending to look rich instead of being rich reveals that you've outsourced your self-worth to other people's opinions.
 - `INS-260330-7D83` Travis's 'uber against the world' narrative drove 12-hour workdays and fierce loyalty, but the same combative culture produced internal backstabbing, sexual harassment cover-ups, and employee burnout.
@@ -50,6 +54,7 @@
 - `INS-260403-958C` Online interaction encourages people to identify with distant interest-based groups over local physical communities.
 - `INS-260329-2460` A partner must love both your current self and the person you are actively working to become.
 - `INS-260405-874D` Autonomy in work is a one-way door: once crossed, the cage of a managed job becomes visible and unbearable.
+- `INS-260409-B9A1` If you don't believe in your own ending, no one else can be recruited to help you get there.
 - `INS-260330-D27C` You become what you're consistently exposed to — surgically arrange your environment rather than relying on willpower or techniques.
 - `INS-260330-593E` Nerds who can't accept their limitations either become crackpots (denial) or self-hating anti-nerds (reaction formation), while healthy acceptance enables actual productive work.
 - `INS-260330-A47B` Just as biological systems require cellular death to prevent cancer, psychological health requires voluntarily killing off bad ideas and identities before they become tyrannical.
@@ -75,5 +80,5 @@
 - `INS-260329-5975` Teaching someone to program transforms their identity from passive consumer to active creator, which is more valuable than any specific technical skill.
 - `INS-260405-7529` Entrepreneurs don't balance work and life — the two collapse into one undifferentiated thing.
 - `INS-260405-56CB` Self-employment is the shallow reading; self-expression through work is the deep one.
-- `INS-260329-0B1D` Label prospects with positive traits during objections so they later feel compelled to live up to those identities at close time.
 - `INS-260330-912C` Rome successfully absorbed conquered peoples for centuries by making them Romans, but collapsed when expansion outpaced cultural integration.
+- `INS-260329-0B1D` Label prospects with positive traits during objections so they later feel compelled to live up to those identities at close time.

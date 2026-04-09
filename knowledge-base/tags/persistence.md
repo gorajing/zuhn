@@ -5,8 +5,8 @@
 - `INS-260327-3FC7` Austria sent five separate relief armies to break Napoleon's siege of Mantua — each failed, but each forced Napoleon to divert forces and attention from the siege.
 - `INS-260327-EDC6` Arcole was won on the third day after two days of failed attacks — persistence and tactical adjustment eventually found the approach that worked.
 - `INS-260403-EB12` True persistence means flexibility on methods while maintaining commitment to the goal; obstinacy is the reverse.
-- `INS-260403-E1CE` Treat every goal as a funnel where volume of attempts generates information that compounds into exponentially better outcomes over time.
 - `INS-260403-D2A5` Persistence emerges from the interaction of energy, imagination, resilience, good judgment, and goal focus — missing any one degrades the whole.
+- `INS-260403-E1CE` Treat every goal as a funnel where volume of attempts generates information that compounds into exponentially better outcomes over time.
 - `INS-260329-7EFD` Programming learning goes from 'confused, confused, confused' to 'holy mackerel, this is awesome' with no gradual transition.
 - `INS-260329-A077` Most learning dropouts happen before reaching the critical mass of knowledge where effort starts feeling worthwhile.
 - `INS-260403-6AD0` A photon takes millions of years bouncing randomly inside a star before escaping — a powerful metaphor for progress through complex, opaque systems.
@@ -32,14 +32,13 @@
 - `INS-260327-7FDA` If you can quit, you should. If you literally cannot stop yourself from continuing, that's your signal to keep going.
 - `INS-260327-734D` It took nine different iterations from 2012 to finding Marco Polo — the first thing you put out just does not work.
 - `INS-260402-9681` Multiple successful YC founders independently ranked persistence above intelligence as the dominant success factor.
+- `INS-260409-885E` The complete formula for making it is start, take feedback to get better, and never stop — most failure is skipping one of these.
 - `INS-260403-9A4C` Most startups die from giving up, not from insurmountable external forces.
 - `INS-260329-19F9` The 5-phase emotional cycle (uninformed optimism → informed pessimism → despair → informed optimism → achievement) explains why serial-starters never build wealth.
 - `INS-260329-E6C3` Repeatedly starting over in new domains destroys the compounding effect that only kicks in after sustained effort.
 - `INS-260329-1FEE` Serial starters keep abandoning projects at the valley of despair and restarting with uninformed optimism — the fix is committing long enough for it to be unreasonable to still be bad.
 - `INS-260329-3E28` Year 4 of your current business will almost always outperform year 1 of a new one — switching vehicles resets your compounding.
 - `INS-260329-3FF3` Doing something enough times guarantees outcomes that individual attempts leave to chance.
-- `INS-260329-7C08` Commit to producing 400 long-form content pieces as the baseline strategy for audience building from zero.
-- `INS-260403-C349` Synthesia rejected $3B acquisition offers from Adobe and Meta, then raised $180M independently after enduring 100 rejections.
 - `INS-260330-4314` Maintain an explicit investment thesis and use confidence direction — not absolute level — to decide persistence vs. pivot.
 - `INS-260403-E6A7` Every billionaire founder could have stopped sooner — they kept going not for money but because there was nothing else they'd rather do.
 - `INS-260323-2F50` Both Kinoshita and Hawryluk were publicly ridiculed by experts for proposing EUV lithography — Hawryluk was 'literally laughed off stage' and vowed to 'never speak of it again' — yet the technology they championed became the most important machine in the world.
@@ -56,5 +55,7 @@
 - `INS-260323-DEC3` The 'never give up' mantra can be destructive — 170 rejection letters, deep depression, and isolation were the universe telling Jeff Kaplan to quit writing so the door to game design could open.
 - `INS-260403-6D4F` The founders who achieve outsized outcomes are distinguished primarily by their refusal to quit during the inevitable multi-year low points, not by superior initial vision.
 - `INS-260325-8D66` You cannot get out of bed each morning expecting a breakthrough — but you can get out of bed saying 'today I will figure out how to do this better than last week.'
-- `INS-260329-7E63` The best closers don't have better arguments — they ask for the sale more times by using reframing to maintain rapport across repeated asks.
+- `INS-260329-7C08` Commit to producing 400 long-form content pieces as the baseline strategy for audience building from zero.
+- `INS-260403-C349` Synthesia rejected $3B acquisition offers from Adobe and Meta, then raised $180M independently after enduring 100 rejections.
 - `INS-260330-3AF9` Write down why you think your startup will work, then track whether evidence increases or decreases your confidence in that thesis.
+- `INS-260329-7E63` The best closers don't have better arguments — they ask for the sale more times by using reframing to maintain rapport across repeated asks.

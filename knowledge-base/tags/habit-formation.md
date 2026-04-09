@@ -1,9 +1,11 @@
 # Tag: habit-formation
 
+- `INS-260409-21E0` Becoming an architect rather than a mason in the AI era requires extreme environmental constraints to rewire patterns, not motivational self-talk, because the discipline gap is what separates the two groups.
 - `INS-260402-BCEC` Despite a proliferation of high-quality models, OpenAI pulled ahead because ChatGPT became a daily habit for millions, not because it scored highest on benchmarks.
 - `INS-260405-3061` ChatGPT's retention improves after month one, bucking the typical viral app decay curve as users embed it into daily work.
 - `INS-260325-040F` AI product defensibility comes from user behavior loops (pain → relief → habit → switching cost) not from AI model improvements that competitors can replicate overnight.
 - `INS-260330-B360` Research supports that even 3-minute daily meditations produce significant improvements in focus and anxiety management, making consistency more important than duration.
+- `INS-260409-7632` Most people wait for results to grant permission for a new identity; the causal direction is actually reversed — identity must shift first and results follow.
 - `INS-260404-FD88` When a goal seems impossible at scale, decomposing it to the smallest unit (one rep, one page, one call) circumvents the brain's overwhelm-triggered shutdown.
 - `INS-260330-0242` Write down small achievable goals nightly; the check-mark dopamine hit builds an addiction to the learning process itself.
 - `INS-260330-1839` Getting to a working demo fast creates dopamine hits that make the pain of learning self-sustaining.

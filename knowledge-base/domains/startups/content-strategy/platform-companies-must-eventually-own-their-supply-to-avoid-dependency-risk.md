@@ -56,5 +56,6 @@ related:
   - INS-260402-3196
   - INS-260404-899D
   - INS-260408-A0F5
+  - INS-260409-8DDE
 ---
 Netflix's early streaming success was built on cheap licensing deals — notably a $20M deal with Starz for Disney and Sony content. But this created a fatal dependency: Netflix didn't own its supply. When streaming proved viable, content owners (Disney, HBO, NBC) pulled their content to launch their own services. Netflix lost The Office, Friends, Marvel movies, and much of its catalog. The $100M bet on House of Cards in 2011 wasn't just a content play — it was a survival move. Netflix needed content that couldn't be pulled. By 2021, Netflix was spending $17B/year on original content. The broader principle applies to any platform business: if your value proposition depends on third-party supply, you're vulnerable the moment those suppliers realize they can go direct. Netflix's four business model pivots (DVD sales → DVD subscription → streaming → original content) show progressive vertical integration, each solving the dependency risk of the previous model.

@@ -45,7 +45,6 @@ stance: >-
   People who understand a trend's importance but not its daily reality will
   consistently oversimplify what practicing that skill requires
 related:
-  - INS-260329-7D18
   - INS-260404-312D
   - INS-260330-43EE
   - INS-260326-DBEF

@@ -57,6 +57,7 @@ related:
   - INS-260327-1107
   - INS-260327-191B
   - INS-260327-DC45
+  - INS-260409-9412
 ---
 The Battle of Eylau was fought in a blinding snowstorm that made coordination nearly impossible. Augereau's corps lost its bearings and marched directly into the Russian center, where it was nearly annihilated. Napoleon's advantage in tactical skill was negated because he couldn't see the battlefield, coordinate movements, or exploit openings. The battle devolved into a brutal slugging match where Russian resilience mattered more than French finesse.
 

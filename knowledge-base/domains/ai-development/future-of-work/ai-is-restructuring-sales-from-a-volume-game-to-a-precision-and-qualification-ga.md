@@ -53,9 +53,9 @@ stance: >-
 related:
   - INS-260329-D02E
   - INS-260403-C1A5
+  - INS-260409-C768
   - INS-260403-4935
   - PRI-260327-942E
-  - PRI-260406-D017
 ---
 BCG's executive perspective on AI in sales points to a fundamental restructuring: the activities that have historically justified large sales headcount—prospecting, outreach sequencing, follow-up cadences—are being automated. This compresses the value of scale in outbound sales and shifts competitive advantage toward qualification accuracy, relationship depth, and enterprise deal complexity.
 

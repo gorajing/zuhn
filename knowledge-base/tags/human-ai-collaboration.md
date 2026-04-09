@@ -7,5 +7,6 @@
 - `INS-260325-3EF4` Decision tasks show negative synergy (g = -0.27, p = 0.002) while creation tasks show positive synergy (g = 0.19), a statistically significant difference.
 - `INS-260325-FA86` Despite massive research investment in explainable AI, the meta-analysis found no significant moderating effect of explanations or confidence on human-AI synergy or augmentation.
 - `INS-260325-4793` Meta-analysis of 106 experiments shows human-AI systems average g = -0.23 vs best-of-either, meaning most teams are worse than using the best partner alone.
+- `INS-260409-212F` Humans abandoned wikis because maintenance grew faster than value; LLMs reverse that ratio by doing all the cross-referencing for free.
 - `INS-260403-10CE` As AI automates task execution, the scarce human contribution shifts to judgment, taste, and the ability to orchestrate AI systems effectively.
 - `INS-260403-063E` McKinsey research shows companies combining AI with human decision-making are 20% more successful in AI deployment than those pursuing full automation.

@@ -8,6 +8,7 @@
 - `INS-260330-2B29` Revolutions result from accumulated small decisions, not single dramatic moments.
 - `INS-260403-AAE4` The paths to new ideas look unpromising by definition — if they looked promising, others would have already explored them.
 - `INS-260330-DBAD` The kilogram exists as an awkward prefixed base unit because 'grave' sounded too aristocratic during the French Revolution.
+- `INS-260409-BB40` Douglas's saltative branching model revealed that extinct evolutionary branches leave mathematical footprints on surviving lineages — the dead-end paths still shape what survived, even when invisible to direct observation.
 - `INS-260405-7E85` RuBisCo evolved to fix CO2 in a low-oxygen world, then photosynthesis flooded the atmosphere with oxygen—causing RuBisCo to mistake oxygen for CO2 roughly half the time, generating toxic waste that plants must now continuously detoxify.
 - `INS-260404-2695` RuBisCo evolved when oxygen was scarce; when oxygen rose, plants added workarounds instead of replacing it — a pattern mirrored in legacy software.
 - `INS-260403-2CDA` RuBisCo fails half the time in modern conditions but plants produce 40 billion tons of it rather than evolving a replacement — the same logic keeps legacy code alive.

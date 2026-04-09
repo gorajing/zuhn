@@ -48,8 +48,8 @@ stance: >-
 related:
   - INS-260404-7A54
   - INS-260403-7B41
+  - INS-260409-A4F0
   - INS-260403-8F6E
   - INS-260402-CCF4
-  - INS-260330-D808
 ---
 Not all emerging markets are equally ready for venture-backed tech startups. The article identifies a specific framework: smartphone and internet penetration must exceed 30% to have a viable customer pool, but the sweet spot is before 60-70% when digital businesses can scale with the wave. The early presence of ride-hailing, food delivery, and digital payments apps signals that consumers use phones beyond messaging — a behavioral prerequisite for tech adoption. Government verbal commitment to digitization provides regulatory tailwinds. Markets meeting all three criteria are 'primed' — they have the infrastructure, behavior, and political cover for tech startups to succeed. This framework is actionable for both VCs selecting geographies and founders choosing where to build.

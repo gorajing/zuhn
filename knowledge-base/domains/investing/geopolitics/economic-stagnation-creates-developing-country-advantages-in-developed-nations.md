@@ -58,11 +58,11 @@ stance: >-
   existing high-quality infrastructure, skilled workforce, and institutional
   stability.
 related:
+  - INS-260409-F485
   - PRI-260406-4D4E
   - PRI-260322-9E36
   - INS-260403-2C50
   - PRI-260403-C337
-  - INS-260327-E1EB
 evidence:
   - id: INS-260330-1F25
     type: SUPPORTS

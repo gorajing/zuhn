@@ -52,15 +52,15 @@ stance: >-
   object than orders of magnitude more geometric complexity would
 related:
   - INS-260323-4D63
-  - INS-260323-6908
   - INS-260327-EDE4
   - INS-260330-300D
   - INS-260330-B539
   - INS-260330-367B
   - INS-260330-6A9E
   - INS-260330-80A2
-  - INS-260330-FC6E
   - INS-260330-BBEE
+  - INS-260330-51AE
+  - INS-260330-2200
 evidence:
   - id: INS-260330-4F10
     type: CHALLENGES

@@ -51,16 +51,16 @@ stance: >-
   discovery costs to near-zero and accelerating word-of-mouth reputation, making
   product quality the dominant competitive factor.
 related:
-  - INS-260323-B4D2
   - INS-260321-A3A1
   - INS-260329-90F4
   - INS-260330-8481
   - INS-260330-8F91
   - INS-260330-9FCC
-  - INS-260330-1DCF
+  - INS-260409-2A8A
+  - INS-260409-3346
   - PRI-260322-8FD4
+  - INS-260323-B4D2
   - INS-260403-CA42
-  - PRI-260328-FD47
 evidence:
   - id: INS-260325-3B58
     type: CHALLENGES

@@ -60,6 +60,7 @@ related:
   - INS-260327-C464
   - INS-260403-A2BA
   - INS-260403-BCCB
+  - INS-260409-E44A
 stance: >-
   Vibe coding won't replace enterprise SaaS because of comparative advantage and
   hidden edge cases

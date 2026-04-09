@@ -21,8 +21,12 @@
 - `INS-260403-1E05` Five half-built features create more drag than one failed launch because the compounding effect only kicks in upon delivery, not upon starting.
 - `INS-260330-D031` Stripe's radical transparency (BCCing everyone on all emails) broke Gmail and overwhelmed new hires, requiring new tooling and norms to sustain.
 - `INS-260403-922C` Startup ecosystems require blanket tolerance for strangeness because you can't predict which weird ideas will become valuable.
-- `INS-260321-C292` After the movie 300, Navy SEAL recruitment spiked — entertainment that inspires heroism and optimism creates the cultural conditions for industrial mobilization.
-- `INS-260322-D57C` When scaling, CEOs cannot just delegate customer-facing work — they must personally demonstrate the brand's standard alongside new employees so sensibility transfers through shared experience.
+- `INS-260325-502D` Conflict between high performers with the same goal but different approaches is a feature, not a bug — organizations that seamlessly resolve conflict are winning teams.
+- `INS-260409-355C` Treat financial and spiritual capital as multiplicative factors, not additive line items — either zero and the total collapses.
+- `INS-260325-8B36` Conflict between high performers with the same goal but different approaches produces better decisions — but only when the company, not ego, is at the center.
+- `INS-260325-7B58` Progress does not happen automatically — it happens when people choose to make it happen and believe it is both possible and desirable.
+- `INS-260405-4EAA` Silicon Valley's tolerance for weird ideas is a cultivated social custom that spread because it reliably produced better outcomes — not because its inhabitants are smarter or kinder.
+- `INS-260325-B14B` Before the 1500s, no major civilization believed in upward progress — history was seen as cyclical or as decline from a golden age.
 - `INS-260330-1B37` Airbnb spent 5 months hiring their first employee and only hired two people in year one because early hire quality is existential.
 - `INS-260330-7E58` In-N-Out pays managers $160K+ with full benefits, achieving 14-year average tenure in an industry with 150%+ annual turnover.
 - `INS-260403-BE24` Extreme hour requirements screen out experienced and diverse candidates, leaving a narrow, less resilient talent pool.
@@ -34,6 +38,8 @@
 - `INS-260405-C8BC` Costco pays double the retail average and gets triple the productivity — the premium pays for itself with room to spare.
 - `INS-260403-D966` Good programmers want to work with other good programmers, so talent decline is a one-way ratchet.
 - `INS-260403-74E5` Startup ideas look crazy at first, so only cultures that tolerate oddness allow them to develop past the social-filtering stage.
+- `INS-260321-C292` After the movie 300, Navy SEAL recruitment spiked — entertainment that inspires heroism and optimism creates the cultural conditions for industrial mobilization.
+- `INS-260322-D57C` When scaling, CEOs cannot just delegate customer-facing work — they must personally demonstrate the brand's standard alongside new employees so sensibility transfers through shared experience.
 - `INS-260404-E6E0` Silicon Valley's advantage is not superior people but a cultural custom of treating early work charitably — a custom any community can develop.
 - `INS-260404-A1BA` Harsh judgment of early work is a cultural habit, not human nature, and environments like Silicon Valley prove it can be unlearned.
 - `INS-260404-695D` We judge early ambitious work harshly because we have no cultural customs for it, not because skepticism is hardwired.
@@ -42,11 +48,6 @@
 - `INS-260403-EFCC` Early-stage ambitious work requires switching evaluation polarity from finding flaws to imagining how it could succeed.
 - `INS-260404-0782` Silicon Valley's supportive stance toward strange-sounding ideas from unknown people is a practiced skill that produces outsized returns, not naive credulity.
 - `INS-260405-0A6D` Portfolio innovation strategy only works if you actually exit the failures fast—without a kill discipline, you accumulate zombie projects that consume resources and produce nothing.
-- `INS-260325-502D` Conflict between high performers with the same goal but different approaches is a feature, not a bug — organizations that seamlessly resolve conflict are winning teams.
-- `INS-260325-8B36` Conflict between high performers with the same goal but different approaches produces better decisions — but only when the company, not ego, is at the center.
-- `INS-260325-7B58` Progress does not happen automatically — it happens when people choose to make it happen and believe it is both possible and desirable.
-- `INS-260405-4EAA` Silicon Valley's tolerance for weird ideas is a cultivated social custom that spread because it reliably produced better outcomes — not because its inhabitants are smarter or kinder.
-- `INS-260325-B14B` Before the 1500s, no major civilization believed in upward progress — history was seen as cyclical or as decline from a golden age.
 - `INS-260404-F834` Replace abstract culture complaints with specific behavioral stories backed by evidence to surface real, fixable problems.
 - `INS-260330-4A89` Raises given on request incentivize lobbying over performance; formal evaluation cycles protect meritocratic culture.
 - `INS-260330-3A7B` When you give a raise because someone asked, the employee who didn't ask but performs better learns that lobbying matters more than results.
@@ -68,8 +69,8 @@
 - `INS-260405-ACCE` The conflicts leadership hears about are a structural choice—design the org to surface the right ones.
 - `INS-260405-B406` If critical tensions aren't reaching leadership, the org structure is filtering them out.
 - `INS-260403-8A29` Startup culture spreads slowly because it requires societies to tolerate the social disruption of flattening hierarchies.
-- `INS-260330-766D` Alfred Lin's principle from Zappos — culture and brand are two sides of the same coin — means that whatever happens inside the company eventually comes out.
 - `INS-260405-339F` Idea-friendly cultures are not values-based — they're incentive-selected, which means they're replicable wherever the incentives align.
+- `INS-260330-766D` Alfred Lin's principle from Zappos — culture and brand are two sides of the same coin — means that whatever happens inside the company eventually comes out.
 - `INS-260330-D272` Chesky argues that if you want to build and sell a company in one year, the best advice is to skip culture entirely — culture's ROI is exclusively long-term.
 - `INS-260330-4A16` Culture is the set of invariants you maintain as you get involved in exponentially fewer decisions over time.
 - `INS-260403-FD6A` In lean teams, culture (shared values + async transparency + clear goals) must do the coordination work that hierarchy handles in larger organizations.

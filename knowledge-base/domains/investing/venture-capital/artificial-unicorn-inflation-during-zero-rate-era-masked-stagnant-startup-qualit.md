@@ -56,5 +56,6 @@ related:
   - INS-260403-CE07
   - INS-260403-832B
   - INS-260403-0D24
+  - INS-260409-1CCD
 ---
 During 2020-2021, more unicorns were created than in the entire previous decade, but this explosion was driven almost entirely by low interest rates and LP capital abundance rather than a matching increase in genuinely transformational companies. The quantity of billion-dollar startups surged while the quality distribution remained roughly constant. This distinction matters for investors because it means a large cohort of companies carrying unicorn valuations have fundamentals that cannot support those marks. The pattern reveals a broader principle: when capital supply expands faster than the supply of quality opportunities, the excess inflates existing assets rather than creating new value. For investors evaluating late-stage companies from this vintage, the default assumption should be that the valuation is artificially inflated until proven otherwise.

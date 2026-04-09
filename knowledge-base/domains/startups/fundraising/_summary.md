@@ -1,6 +1,6 @@
 # Topic: fundraising
 
-> 457 insights
+> 461 insights
 
 - `INS-260323-E9E4` [high] Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead.
 - `INS-260330-09FF` [high] A YC company that was incorrectly converted from a Connecticut LLC to a Delaware C-Corp accumulated a $500K legal bill across four law firms when the error surfaced during a major fundraise.
@@ -53,6 +53,7 @@
 - `INS-260404-ED0F` [high] With limited time and technical understanding, investors use your confidence as a proxy for product quality — but it must be shown, never stated.
 - `INS-260404-4682` [high] Convertible notes with different caps reward early-committing investors and break the deadlock of everyone waiting on everyone else.
 - `INS-260403-AC74` [high] Self-conviction based on honest evaluation is more persuasive than rehearsed pitch technique.
+- `INS-260409-3B53` [high] Pitch the argument that convinces YOU to join — 'what does Ben want to hear' is unknowable and gets you talked out of your idea.
 - `INS-260403-D972` [high] Never take a corp dev meeting unless you've already decided to sell right now.
 - `INS-260404-5988` [high] With 89% of corporate investors planning to increase or maintain startup investments and CVCs in 25% of European deals, founders must develop CVC-specific fundraising strategies.
 - `INS-260322-8F80` [high] Flying to a city and stacking every investor and customer meeting into 2-3 days creates a forcing function where FOMO compounds — meetings multiply, terms improve, and nobody wants to miss the deal.
@@ -77,6 +78,7 @@
 - `INS-260403-6694` [high] US startups consistently raise 2-7x more than European counterparts at every stage, turning equal-skill competition into an asymmetric capital race.
 - `INS-260404-F0E9` [high] Greylock's Hierarchy of Engagement framework shows that billion-dollar businesses are built by systematically moving users up levels of increasing engagement and commitment.
 - `INS-260403-DA33` [high] The same three outlier exits produce 5x, 2.5x, or 1.25x fund returns depending entirely on whether the GP entered at $10M, $20M, or $40M post-money valuations.
+- `INS-260409-3AC7` [high] Hassabis diagnoses Europe's trillion-dollar-company gap as missing growth-stage capital — particularly pension fund unlock — not missing talent or startup ideas.
 - `INS-260403-0F15` [high] Event-based vesting gives companies total control over whether employees ever receive equity value.
 - `INS-260403-ACC5` [high] Institutional VCs screen for founder ownership levels and messy cap tables before investing, making excessive early dilution a compounding problem.
 - `INS-260402-66A5` [high] VCs select for founders who are best at performing certainty, not founders with the best businesses.
@@ -184,6 +186,7 @@
 - `INS-260403-5B46` [high] Falling startup costs don't just shrink existing funding models — they open ecological niches for fundamentally new ones.
 - `INS-260405-1A59` [high] Combining government grants, multi-provider cloud credits, and RBF lines can fund a startup past $1M at 0% dilution.
 - `INS-260403-8448` [high] Close at least one pharma deal before your Series A to prove platform commercial viability alongside scientific merit.
+- `INS-260409-1CCD` [high] The irony of unicorn-era overfunding is that raising more than you needed is what creates zombies.
 - `INS-260403-E2A7` [high] Too much funding lets founders mistake capital for validation, scaling a hypothesis before it's proven.
 - `INS-260403-5B89` [high] Giant VC rounds inflate valuations to levels where only IPOs satisfy investors, eliminating smaller but perfectly good exits.
 - `INS-260404-9905` [high] Founders with oversubscribed rounds allocate to investors based on non-capital value like distribution, expertise, or network — not check size.
@@ -393,6 +396,7 @@
 - `INS-260403-9867` [medium] Ask how many boards your partner currently sits on — it reveals more about likely support than any value-add pitch deck.
 - `INS-260404-63D5` [medium] The most effective AI-assisted pitch decks come from treating the tool as a story-building partner rather than a template filler.
 - `INS-260405-1EFD` [medium] The pitch deck as a static document is being superseded by a four-stage cycle that takes investors on a narrative journey.
+- `INS-260409-2232` [medium] Pitching a fake version of yourself is like dating as someone else — it fails when the real you shows up.
 - `INS-260403-EC66` [medium] VCs choosing political sides in the Musk-Trump feud introduces political alignment as a hidden variable in fundraising.
 - `INS-260403-76F5` [medium] After VC silence, wait 3-4 weeks then send concise milestone updates rather than chasing — this keeps the door open while signaling confidence.
 - `INS-260403-C1FB` [medium] Structured monthly updates with clear asks turn passive investors into active strategic assets for hiring, partnerships, and follow-on funding.

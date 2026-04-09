@@ -1,24 +1,28 @@
 # Tag: distribution
 
 - `INS-260402-BCEC` Despite a proliferation of high-quality models, OpenAI pulled ahead because ChatGPT became a daily habit for millions, not because it scored highest on benchmarks.
+- `INS-260409-27F9` ChatGPT owned 100% of the consumer AI market in 2023, ~75% in 2025, and is likely to fall under 50% as platform incumbents enter with free offerings bundled through OS-level distribution.
 - `INS-260404-CAD5` AI competitive advantage has migrated from model performance to distribution, ecosystems, and differentiation.
 - `INS-260404-573C` Despite AI advances, Google's structural advantages in data, distribution, and advertising make search displacement extremely unlikely.
 - `INS-260403-751D` Pre-existing user bases of hundreds of millions create a flywheel where more human feedback produces faster model improvement.
 - `INS-260403-990E` AI embedded in existing workflows like email gets adopted faster than AI requiring new habits.
 - `INS-260325-FBE5` a16z argues there are no traditional moats in consumer AI — the landscape shifts too fast — so momentum (launch speed, traction velocity, mindshare) is the only defensible position.
 - `INS-260330-7ED0` M-PESA succeeded because Safaricom's telecom monopoly solved the cold-start problem that fragments US mobile payment competitors.
-- `INS-260402-B12D` Professionals seemed superior to amateurs only because narrow channels ensured high average quality; once anyone can publish, audiences select the best regardless of professional status.
 - `INS-260404-8321` When capital is abundant, VCs who offer distribution and media reach win competitive allocations over those who only offer money.
 - `INS-260403-52B7` Jake Paul's VC portfolio (Ramp, Anduril, Cognition) shows that timing, access, and distribution often outweigh traditional VC pedigree in generating outsized returns.
+- `INS-260402-B12D` Professionals seemed superior to amateurs only because narrow channels ensured high average quality; once anyone can publish, audiences select the best regardless of professional status.
+- `INS-260409-3E53` CERN's BASE team built a portable antimatter trap — not because CERN couldn't do more experiments, but because background magnetic noise at CERN itself capped precision.
+- `INS-260409-AE80` The initial 200-person sample is mostly strangers, so follower count gives almost no advantage during the cold-start phase.
+- `INS-260409-8750` Algorithms pick ~200 viewers as a fit-score sample test; that group's engagement is the single most leveraged lever in short-form distribution.
 - `INS-260405-615E` Platform companies are acquiring agentic workflow capability to embed automation into existing distribution, not to win on model benchmarks.
 - `INS-260403-EDA1` SaaS value is migrating from code to workflow orchestration, compliance, and distribution — categories AI cannot easily replicate.
-- `INS-260405-BFC0` Local news collapsed because the internet made geographic information monopolies impossible, not because local journalism got worse.
 - `INS-260405-DFBC` Getting cited by AI engines compounds brand authority faster than traditional SEO because AI models return to sources that performed well before.
 - `INS-260403-CBED` Creators are replacing traditional media as the primary channel through which consumer opinions, purchase decisions, and product discovery flow.
 - `INS-260402-C03D` MrBeast's $500M+ revenue empire proves a single creator can bypass traditional marketing by using content as the distribution engine for vertically integrated businesses.
 - `INS-260329-BC11` Self-publishing builds a compounding content asset; gatekeeper-dependent publishing trades leverage for credibility.
 - `INS-260403-002C` VC newsletters increasingly monetize through embedded partner tool credits rather than paywalling core content.
 - `INS-260405-0810` More than half of Google searches end without a click, and AI accelerates this trend — meaning brand presence in the answer is worth more than the click itself.
+- `INS-260405-BFC0` Local news collapsed because the internet made geographic information monopolies impossible, not because local journalism got worse.
 - `INS-260402-ECD2` In hierarchical markets, winning one apex customer (e.g., a top law firm) cascades credibility and adoption downstream more effectively than scaling from the bottom up.
 - `INS-260330-2CE3` Bing's $5B/year profit proves that owning the default position on a dominant platform is more valuable than building a better product.
 - `INS-260330-7DAA` Bing earns $5B/year not from product quality but from being Windows' default — distribution through defaults beats product superiority.
@@ -29,6 +33,7 @@
 - `INS-260330-007E` M-PESA's genius was piggybacking on existing phone networks and SIM cards rather than building new financial infrastructure, achieving massive scale at minimal cost.
 - `INS-260330-856B` Tools must be embedded in existing popular systems to gain adoption — standalone merit is insufficient.
 - `INS-260324-5481` Facebook opened up to publishers in the late 2000s to boost engagement, then deprioritized publisher content once it had enough — destroying the distribution channel that BuzzFeed and VICE had built their entire businesses on.
+- `INS-260409-FE1D` Possession of customer beats model differentiation — ChatGPT may have negative model edge but owns the consumers.
 - `INS-260403-9482` Distribution advantage trumps product advantage because reaching customers reliably is harder to replicate than building features.
 - `INS-260403-8011` When the Internet eliminates distribution bottlenecks, 'build it and they will come' becomes a viable strategy.
 - `INS-260403-D2F4` Second-time founders bake GTM strategy into week one of building, treating distribution as the product rather than an afterthought.
@@ -46,7 +51,9 @@
 - `INS-260402-8D38` As AI summaries reduce click-through from Google, diversifying discovery channels from owned media to social platforms becomes a survival strategy.
 - `INS-260403-76B7` Find one channel where you can win and double down until diminishing returns before diversifying.
 - `INS-260402-C301` Self-distributing AI features fall into three archetypes: outputs that spread awareness (viral artifacts), features that make users show off usage (status loops), and systems that improve with more data (data flywheels).
+- `INS-260323-61CD` The Watts-Strogatz model shows that rewiring just 0.03% of connections to random shortcuts makes any network as navigable as a fully random one.
 - `INS-260321-C902` New AI products follow a predictable distribution ladder: X small communities then AI news pages then Instagram news then creators then Telegram.
+- `INS-260409-B892` AI product distribution is an X-first cascade — small community buzz, news accounts, creator content, then scale.
 - `INS-260328-ACC3` Stripe, Google, and PostHog all appear to be pure self-serve products, but they invest heavily in marketing — no one waits in an ivory tower to be discovered.
 - `INS-260403-6EC2` AI assistants like ChatGPT and Perplexity are replacing Google as the primary discovery layer, making Generative Engine Optimization essential.
 - `INS-260321-4E98` Horizontal consumer AI agents like Manus grow explosively but face acquisition by big tech because once agentic capabilities become commoditized, distribution and existing enterprise contracts become the deciding moat.
@@ -55,13 +62,10 @@
 - `INS-260405-543B` Memes achieve virality through audience co-ownership of the humor — resharing feels like self-expression, not advertising, which is why they outperform paid equivalents.
 - `INS-260330-0FB9` TikTok deliberately made it easy to share watermarked videos on Instagram, YouTube, and Snapchat, turning every repost into free advertising that eventually drove users to download TikTok.
 - `INS-260403-AF3B` In a market where capital concentrates in fewer deals, founders who demonstrate distribution and audience ownership before fundraising gain disproportionate investor attention.
-- `INS-260323-61CD` The Watts-Strogatz model shows that rewiring just 0.03% of connections to random shortcuts makes any network as navigable as a fully random one.
-- `INS-260405-ABE0` Valve can afford hardware bets others can't because every device plugs into an already-won software distribution war.
 - `INS-260403-E71A` Platform owners like Apple with iTunes function as tollbooths, not stores — they tax transactions rather than sell content, driving content prices to near-zero.
 - `INS-260403-C1E9` Software is too complex and iterative for a publisher-intermediary model that works for music or books.
+- `INS-260405-ABE0` Valve can afford hardware bets others can't because every device plugs into an already-won software distribution war.
 - `INS-260402-B36F` Every AI feature PRD should specify how the feature distributes itself, where it inserts into existing workflows, and whether its economics improve at 10x scale.
-- `INS-260329-7B47` Send 100 personalized outreach messages daily using a compliment-plus-positioning formula to guarantee your first five customers through pure volume.
-- `INS-260329-B194` Allen's breakthrough came from selling to agencies (who each had 50+ SMB clients) rather than individual small businesses, turning one pitch into a thousand customers.
 - `INS-260330-2737` Paul's Roman citizenship gave him free travel throughout the empire, allowing him to use Rome's own road network and legal protections to spread a message that would eventually undermine Roman religious authority.
 - `INS-260330-9FCC` In-N-Out's requirement that all ingredients reach stores within a single day's drive from distribution centers caps expansion at ~500 miles per center.
 - `INS-260403-4E7A` Paradigm shifts like AI create rare adoption windows in stagnant industries — whoever wins distribution first locks in for decades.
@@ -70,3 +74,5 @@
 - `INS-260330-1DCF` Financing underlies distribution which underlies product — great product strategy means thinking in this layered order.
 - `INS-260330-7B1C` The real strategy stack is financing → distribution → product, not the other way around.
 - `INS-260329-FB3F` TikTok viral app videos simultaneously prove market demand and provide a distribution template you can replicate.
+- `INS-260329-7B47` Send 100 personalized outreach messages daily using a compliment-plus-positioning formula to guarantee your first five customers through pure volume.
+- `INS-260329-B194` Allen's breakthrough came from selling to agencies (who each had 50+ SMB clients) rather than individual small businesses, turning one pitch into a thousand customers.

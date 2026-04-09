@@ -53,10 +53,10 @@ related:
   - INS-260327-98F7
   - INS-260403-9680
   - INS-260402-27A1
+  - INS-260409-6E05
   - INS-260330-5A0A
   - PRI-260406-54BE
   - INS-260403-ABBB
-  - INS-260330-7CC0
 ---
 The instinct to build process, hierarchy, and delivery cadences is often triggered by funding events, team growth, or investor pressure — before the underlying business model is validated. This is precisely backwards. Pre-PMF, the highest-value activity is rapid hypothesis testing: find what's true about the market, not what can be reliably shipped.
 

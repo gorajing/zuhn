@@ -46,7 +46,6 @@ stance: >-
   Watching a colleague save time with AI in real-time is a more powerful
   behavioral trigger than any top-down mandate or training program
 related:
-  - INS-260329-0EAC
   - INS-260330-ACDA
   - INS-260405-543B
   - INS-260330-24A5

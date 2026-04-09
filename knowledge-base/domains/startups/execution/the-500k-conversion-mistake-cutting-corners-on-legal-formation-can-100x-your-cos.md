@@ -57,7 +57,7 @@ related:
   - INS-260330-09FF
   - INS-260330-9933
   - PRI-260406-2B0E
-  - INS-260330-A561
+  - INS-260409-AC28
 ---
 A YC company originally formed as a Connecticut LLC on advice from local lawyer friends. When they converted to a Delaware C-Corp for YC, the Connecticut lawyers made a seemingly simple mistake in the conversion paperwork. The company operated for years believing it was a Delaware Corporation when it was actually still a Connecticut LLC. This was only discovered during due diligence for a large funding round, requiring four different law firms (two in Delaware, one in Connecticut, one in Silicon Valley) and $500K in legal fees to untangle.
 
