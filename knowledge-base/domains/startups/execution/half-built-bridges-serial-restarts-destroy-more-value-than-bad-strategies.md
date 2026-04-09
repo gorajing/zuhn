@@ -49,10 +49,10 @@ stance: >-
   partially-completed paths before reaching the payoff threshold
 related:
   - INS-260327-7E6F
+  - INS-260409-171C
   - PRI-260406-AFA7
   - INS-260329-64B8
   - INS-260404-6DA9
-  - INS-260403-77F4
 evidence:
   - id: INS-260323-EA36
     type: EXTENDS

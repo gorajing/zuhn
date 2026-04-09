@@ -15,5 +15,5 @@
 - `INS-260403-5301` VCs prioritize founder-market fit over product-market fit at seed stage because it's the clearest predictor when no traction exists.
 - `INS-260403-25F9` Investors form their core impression in the first five minutes, so your founder story and problem framing must be rehearsed to near-perfection.
 - `INS-260403-44D4` VCs mentally score founders across 7 dimensions—domain knowledge, obsession, track record, network, narrative, empathy, adaptability—in the first 10 minutes of a meeting.
-- `INS-260329-1739` Building something you personally want to use has fallen out of fashion due to TAM-obsessed VC thinking, but it remains the most reliable path to unique, defensible ideas.
 - `INS-260330-DE1D` Technical founders who sell filter impossible requests before they reach engineering, preventing wasted cycles that pure salespeople cause in novel product categories.
+- `INS-260329-1739` Building something you personally want to use has fallen out of fashion due to TAM-obsessed VC thinking, but it remains the most reliable path to unique, defensible ideas.

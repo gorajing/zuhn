@@ -49,7 +49,6 @@ stance: >-
   awareness for most startups because products built without user input
   systematically miss market needs
 related:
-  - INS-260323-F204
   - INS-260327-F95F
   - INS-260328-F303
   - INS-260330-5036
@@ -59,6 +58,7 @@ related:
   - INS-260403-5441
   - INS-260404-0427
   - PRI-260406-598F
+  - INS-260404-8A02
 ---
 Stealth mode creates an inherent tension: the secrecy that protects against competitors also blocks the customer feedback loop that validates product-market fit. The article acknowledges startups risk 'developing products that miss the mark' without feedback, but frames this as a manageable tradeoff rather than the existential risk it often is.
 

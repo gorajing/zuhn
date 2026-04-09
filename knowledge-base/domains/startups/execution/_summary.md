@@ -174,7 +174,7 @@
 - `INS-260326-8798` [high] Pay yourself less, get a worse office, and read your bank statement every month — burn rate is the only runway lever that's 100% in your control.
 - `INS-260403-8439` [high] Measuring success by spending or job creation rather than actual output is a reliable indicator of organizational dysfunction.
 - `INS-260329-E6DB` [high] Hormozi admits Prestige Labs stalled Gym Launch's growth because his attention split — the biggest lesson was he probably shouldn't have done it.
-- `INS-260409-885E` [high] The complete formula for making it is start, take feedback to get better, and never stop — most failure is skipping one of these.
+- `INS-260409-171C` [high] The complete formula for making it is start, take feedback to get better, and never stop — most failure is skipping one of these.
 - `INS-260404-8394` [high] Categorize any crisis as either cash or PMF before acting, because the response strategies are fundamentally different.
 - `INS-260403-CCB7` [high] Walkable startup locations create natural after-hours collaboration that office parks cannot replicate.
 - `INS-260404-1E35` [high] Startups peak in productivity at founding and spend the rest of their existence decelerating — winners just decelerate less.

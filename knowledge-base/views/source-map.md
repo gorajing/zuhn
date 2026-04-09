@@ -75,6 +75,7 @@ Generated on 2026-04-09 | 2454 sources
 | Andrej Karpathy on Code Agents, AutoResearch, and the Loopy Era of AI | youtube | 11 | 2026-03-21 |
 | Biggest Breakthroughs in Biology: 2025 | youtube | 11 | 2026-04-09 |
 | Bryan Johnson: I Just Took the Most Powerful Dose of DMT in the World... Here's What It Was Like | youtube | 11 | 2026-04-09 |
+| How to make progress faster than everyone | youtube | 11 | 2026-04-09 |
 | How to Win With AI in 2026 | youtube | 11 | 2026-04-09 |
 | Inside the Mind of a Master Procrastinator | Tim Urban | TED | youtube | 11 | 2026-03-25 |
 | Paul Rosolie: Amazon Jungle, Uncontacted Tribes, Anacondas, and Ayahuasca | Lex Fridman Podcast #369 | youtube | 11 | 2026-03-30 |
@@ -96,7 +97,6 @@ Generated on 2026-04-09 | 2454 sources
 | How to Get Ahead of 99% of People | youtube | 10 | 2026-03-30 |
 | How to get SO rich you question the meaning of making money | youtube | 10 | 2026-03-30 |
 | How to Make Money So Fast It Feels ILLEGAL | youtube | 10 | 2026-03-30 |
-| How to make progress faster than everyone | youtube | 10 | 2026-04-09 |
 | How to Take Your Health to the Next Level (Cost: 10¢) | youtube | 10 | 2026-03-26 |
 | How to Win (At ANYTHING) | youtube | 10 | 2026-03-30 |
 | HTML Full Course - Build a Website Tutorial | youtube | 10 | 2026-03-29 |
@@ -2177,10 +2177,6 @@ Generated on 2026-04-09 | 2454 sources
 | You Are Taking Creatine Wrong (here's how to fix it) | youtube | 1 | 2026-03-26 |
 | You Will Never Wear AirPods Again | youtube | 1 | 2026-03-26 |
 | You'll Never Eat Sardines Again | youtube | 1 | 2026-03-26 |
-| 2504.19874v1 | pdf | 0 | 2026-03-26 |
-| @u.northwestern.edu Mail - How Roblox Uses AI to Translate 16 Languages in 100 Milliseconds | pdf | 0 | 2026-03-30 |
-| @u.northwestern.edu Mail - The Agentic AI Tipping Point | pdf | 0 | 2026-03-30 |
-| Claude for Finance | pdf | 0 | 2026-03-22 |
 | Building the Zuhn knowledge base — lessons from Phase 1-5 | paste | 0 | 2026-03-20 |
 | Cross-domain synthesis — Phase 20 bridging insights | paste | 0 | 2026-03-27 |
 | The Leverage Field Manual — How to multiply your output without working more | paste | 0 | 2026-03-22 |
@@ -2196,6 +2192,10 @@ Generated on 2026-04-09 | 2454 sources
 | I built a workflow that turns YouTube transcripts into newsletter style summaries | reddit | 0 | 2026-03-20 |
 | Sound Design Breakdown [and tutorial] | reddit | 0 | 2026-03-20 |
 | [Tutorial] All there is to know about syncing video and audio | reddit | 0 | 2026-03-20 |
+| 2504.19874v1 | pdf | 0 | 2026-03-26 |
+| @u.northwestern.edu Mail - How Roblox Uses AI to Translate 16 Languages in 100 Milliseconds | pdf | 0 | 2026-03-30 |
+| @u.northwestern.edu Mail - The Agentic AI Tipping Point | pdf | 0 | 2026-03-30 |
+| Claude for Finance | pdf | 0 | 2026-03-22 |
 | 10 contrarian leadership truths every leader needs to hear | Matt MacInnis (Rippling) | blog | 0 | 2026-03-31 |
 | 10 lessons on bootstrapping a $200m business | Patrick Campbell (ProfitWell) | blog | 0 | 2026-03-31 |
 | 100 AI Agent Ideas to Build in 2026 (Complete List + Tools) | blog | 0 | 2026-03-30 |

@@ -12,10 +12,10 @@
 - `INS-260327-4FD9` Baby boomers voted for free education when young, worker protections when working, lower taxes when established, and retirement benefits when old - each shift disadvantaging the next generation.
 - `INS-260327-99CE` Money loves certainty - businesses can adapt to bad rules but cannot plan around rules that change weekly.
 - `INS-260327-B47E` The threat of wealthy exodus is politically effective regardless of accuracy - most high-net-worth individuals have businesses, networks, and family ties that make relocation extremely costly.
-- `INS-260403-70F0` Baby bonuses work directionally but the effect size is so small that reaching replacement fertility through payments alone would cost astronomically more than any government would spend.
 - `INS-260403-C888` Nice parks, walkable streets, and wealth-modest cultural norms reduce the sting of income inequality more than redistribution alone.
 - `INS-260330-0DCA` Destiny identifies the 'conservative merry-go-round' where every problem is deflected to a root cause that cannot be directly addressed, preventing action on tractable improvements.
 - `INS-260403-9E82` Even if everyone gets richer, social comparison to influencers caps how much happier growth can make people.
+- `INS-260403-70F0` Baby bonuses work directionally but the effect size is so small that reaching replacement fertility through payments alone would cost astronomically more than any government would spend.
 - `INS-260404-0095` Letting in a few thousand great programmers per year costs almost nothing but failing to do so could cost a country its technological lead.
 - `INS-260403-160A` Anti-wealth-creation policies don't eliminate startups — they just push founders to other countries, trading economic dynamism for a lower Gini coefficient.
 - `INS-260322-D051` US crop subsidies for corn, soy, and wheat made these ingredients artificially cheap, causing food companies to systematically replace real ingredients with processed versions — driving the chronic disease epidemic since the 1970s.

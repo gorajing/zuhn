@@ -53,12 +53,12 @@ related:
   - INS-260323-1B87
   - INS-260327-B302
   - INS-260403-B9B8
-  - INS-260402-3866
   - INS-260403-7B41
   - INS-260405-7CF9
   - PRI-260406-9DD4
   - INS-260403-F23A
   - PRI-260323-1B96
+  - PRI-260407-2DBD
 ---
 Steve Blank's concept of premature scaling describes what happens when founders invest heavily in growth before confirming PMF. The data is striking: 70% of startups scale prematurely along some dimension, and this maps closely to the 90% overall failure rate. Founders consistently underestimate validation timelines by 2-3x, creating artificial pressure to scale before readiness.
 

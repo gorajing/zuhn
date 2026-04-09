@@ -7,9 +7,9 @@
 - `INS-260325-8A61` Mind the Product's 2026 guide proposes the 3x rule: an AI feature must create measurable value at least 3x its direct compute cost, or treat it as research, not product.
 - `INS-260328-D826` AI features in SaaS create an inverse relationship between user engagement and profitability unless usage caps and smart routing are in place.
 - `INS-260325-206C` AI Dungeon's near-death from token costs is the cautionary tale: variable-cost AI engines inside fixed-price subscriptions create margin erosion that grows with your best users.
+- `INS-260323-FEAB` Traditional SaaS scales cheaply per user, but AI products have marginal costs that increase with usage — Anthropic spends $8-$135 per dollar of Claude Code subscription revenue.
 - `INS-260323-F753` Anthropic has earned $5B revenue against $10B spent; OpenAI's ratio is even worse — both companies lose money on every user query.
 - `INS-260404-F62A` Foundation model businesses are booming in revenue but the path to sustainable profitability remains unclear.
-- `INS-260323-FEAB` Traditional SaaS scales cheaply per user, but AI products have marginal costs that increase with usage — Anthropic spends $8-$135 per dollar of Claude Code subscription revenue.
 - `INS-260404-19C2` Only 13 of Europe's 50 fintech unicorns are profitable, exposing a systemic gap between valuations and business fundamentals.
 - `INS-260404-2C23` Rubrik's 133% net retention rate proved to investors that growth was organic and sustainable, not acquisition-dependent.
 - `INS-260404-47F3` At $40-50K per implant with 10K units/year target, Neuralink is building a $400-500M/year premium medical device business, not a consumer product.
@@ -31,8 +31,8 @@
 - `INS-260323-0026` Casper spent 73-91% of gross profit on advertising and lost $200 on every mattress sold — advertising is meant to grow a business, not sustain it.
 - `INS-260405-47FD` Costco pays $21/hour average — double the U.S. retail average — and gets employees three times more productive in return.
 - `INS-260405-9E7D` Landing a rocket once proves engineering; landing and relaunching it cheaply proves the business.
-- `INS-260405-E155` In hybrid hardware+SaaS models, blended margin is the single metric most likely to hide a fatal business problem.
 - `INS-260402-E2FF` Make the adversary's business model unviable rather than trying to block every specific attack.
+- `INS-260405-E155` In hybrid hardware+SaaS models, blended margin is the single metric most likely to hide a fatal business problem.
 - `INS-260327-DD5C` Christoph Janz's framework shows five ways to build a $100M business: 1,000 customers at $100K, 10,000 at $10K, or 10 million at $10 — and your sales approach must match which path you're on.
 - `INS-260330-73A2` Growth equals conversion minus churn, and reducing churn by 1% has the identical mathematical effect on growth as increasing conversion by 1%, but costs significantly less.
 - `INS-260403-6D8C` Cohort-level CAC payback reveals which acquisition channels and time periods produce self-funding growth versus cash-burning growth.
@@ -45,13 +45,13 @@
 - `INS-260403-91A1` Growing revenue from existing customers through upsells and expansion is more efficient than acquiring new ones.
 - `INS-260403-53B0` Net retention above 100% means upsell revenue from existing customers exceeds churn losses, creating compounding growth independent of new acquisition.
 - `INS-260403-3A72` ZIRP-era companies like Uber and Snapchat have never achieved sustained profitability, while high-rate-era companies like Microsoft and Google were profitable at IPO.
-- `INS-260402-24B0` Unlike SaaS where marginal cost trends to zero, every AI user incurs real compute cost, making undisciplined distribution a path to margin collapse.
-- `INS-260329-4EF5` When your first sale covers acquisition + fulfillment for the next customer, growth becomes self-funding and capital is no longer the bottleneck.
-- `INS-260329-3DD7` Raise price, decrease cost, increase frequency, cross-sell, increase quantity, upgrade quality, downsell, and offer economy tiers — these 8 levers make any single customer worth more.
 - `INS-260409-B9F6` Do the math on free services as a customer acquisition channel — the implicit CAC often beats paid media.
 - `INS-260322-3259` SiteGPT's $1700-1800 LTV per customer makes even low-conversion organic traffic highly profitable.
 - `INS-260329-49A4` LTV-to-CAC ratio (using gross profit, not revenue) determines scaling ceiling — aim for 3:1 minimum, and pour fuel when you see 30:1+.
 - `INS-260321-8D2B` Price AI products using three factors: value creation vs human cost, unit economics including hidden storage costs, and representative customer surveys.
+- `INS-260402-24B0` Unlike SaaS where marginal cost trends to zero, every AI user incurs real compute cost, making undisciplined distribution a path to margin collapse.
+- `INS-260329-4EF5` When your first sale covers acquisition + fulfillment for the next customer, growth becomes self-funding and capital is no longer the bottleneck.
+- `INS-260329-3DD7` Raise price, decrease cost, increase frequency, cross-sell, increase quantity, upgrade quality, downsell, and offer economy tiers — these 8 levers make any single customer worth more.
 - `INS-260403-44E9` Build revenue projections from funnel conversion rates upward rather than starting from a target number and working backward.
 - `INS-260403-6740` A burn multiple around 1.5x signals strong capital efficiency; above 2.5x means growth needs scrutiny regardless of top-line momentum.
 - `INS-260403-1D7D` For early rounds, present a clean dashboard showing retention, expansion, and CAC efficiency instead of bloated financial projections.
@@ -59,6 +59,8 @@
 - `INS-260403-4E51` Showing CLTV/CAC ratio improvement over time is a stronger fundraising signal than a single favorable snapshot.
 - `INS-260405-3098` Series B pitches succeed by proving unit economics are scalable, not just by showing growth.
 - `INS-260405-7F03` Venture capital decisions are driven by quantitative metrics, not story quality.
+- `INS-260329-ACFF` Price either extremely high for a select few or extremely low for everyone — the middle kills businesses.
+- `INS-260405-0060` Usage-based revenue doesn't accrue at contract signing, so compensating reps on TCV or ACV creates a structural misalignment — reps win, but the company may not.
 - `INS-260403-B6F2` Retention, upsells, and product stickiness are the three compounding levers for CLTV that outperform CAC reduction strategies long-term.
 - `INS-260403-0D24` eDreams focused on unit economics and EBITDA from day one, reaching unicorn status with real profits rather than just a billion-dollar valuation on paper.
 - `INS-260404-F69A` The Calvin Cycle produces 6 G3P molecules but must recycle 5 to regenerate its starting materials, yielding only 1 net output per full cycle.
@@ -76,5 +78,3 @@
 - `INS-260330-659D` Shade balls were purchased to block bromate formation, but their secondary benefits — 80-90% evaporation reduction, algae elimination, near-zero chlorination — pay back at least half their cost.
 - `INS-260323-8F70` Natural selection operates on genes because they're the right-sized unit that replicates faithfully and exhibits selectable traits -- businesses must identify their equivalent.
 - `INS-260329-78CB` High-ticket with few customers is easier to execute than low-ticket at scale, especially when starting with no resources.
-- `INS-260329-ACFF` Price either extremely high for a select few or extremely low for everyone — the middle kills businesses.
-- `INS-260405-0060` Usage-based revenue doesn't accrue at contract signing, so compensating reps on TCV or ACV creates a structural misalignment — reps win, but the company may not.

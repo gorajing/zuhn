@@ -3,8 +3,8 @@
 - `INS-260330-819E` Learn-to-code initiatives serve institutional goals (tax revenue, labor supply) more than the individual learners they claim to help.
 - `INS-260327-F9C3` VCs need radical ideas and founders want to start businesses on someone else's dime -- both sides must perform to reach the same payday, and since winning once in tech is enough, there is a near-infinite pool of aspiring participants willing to forgive past failures.
 - `INS-260327-A00A` Coalitions held together by gold rather than shared survival instinct are brittle under battlefield pressure.
-- `INS-260403-2AC0` Coercing a hostile vendor to build your weapons is self-defeating regardless of their technical capability.
 - `INS-260403-FAC6` Just as capitalism incentivizes addictive products that exploit gaps between consumer desire and consumer welfare, democracy incentivizes destructive proposals that exploit gaps between voter perception and actual policy impact.
+- `INS-260403-2AC0` Coercing a hostile vendor to build your weapons is self-defeating regardless of their technical capability.
 - `INS-260403-22ED` When people's financial incentives align with others' success, genuine cultures of encouragement emerge over time.
 - `INS-260327-D480` In 1965, CEOs earned 20x average employees; today it's 300x+, almost entirely in stock-based compensation that incentivizes price manipulation over business building.
 - `INS-260403-81BD` Industries with misaligned incentives between providers, payers, and consumers are vulnerable to fintech-enabled marketplace disruption.

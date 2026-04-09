@@ -30,6 +30,7 @@
 - `INS-260403-0CA8` Focus all polish on the one or two things users come back for, ship that fast, then layer depth only after validation.
 - `INS-260403-EE38` Most big programs started as throwaway scripts, so tools must excel at quick disposable work to capture the projects that grow.
 - `INS-260405-28DF` Viability is table stakes; competitive differentiation must be designed in from day one.
+- `INS-260404-7B37` Aligning MVP features tightly with ICP needs creates a repeatable sales process that non-founders can execute.
 - `INS-260404-A6D4` Substack's first version had no CMS, no onboarding, and no design tools — Chris Best manually typed the first user into a database, and that user made six figures on day one.
 - `INS-260405-A6BA` Test your riskiest business assumptions before writing a single line of code.
 - `INS-260403-FFEA` Design experiments to maximize validated learning rather than defaulting to scaled-down prototypes.
@@ -42,4 +43,3 @@
 - `INS-260403-F0C3` Always validate that customers want the core offering before optimizing secondary features.
 - `INS-260330-AB6F` Users enduring terrible UX to use your product is a stronger signal than engagement metrics from a polished product.
 - `INS-260330-5ED4` Users enduring a painful product experience proves genuine demand more reliably than polished prototypes with lukewarm interest.
-- `INS-260404-7B37` Aligning MVP features tightly with ICP needs creates a repeatable sales process that non-founders can execute.

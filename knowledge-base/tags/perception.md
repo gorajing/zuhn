@@ -1,6 +1,7 @@
 # Tag: perception
 
 - `INS-260330-5F36` Replacing C++ heuristics with neural nets that directly output vectors instead of a 'giant bag of points' is the key architectural evolution.
+- `INS-260327-E30A` Napoleon's Egyptian campaign was militarily inconclusive but his propaganda made it a triumph, creating the popular mandate that powered his coup.
 - `INS-260330-B539` Object boundaries and spatial differentiation are partially conceptual overlays that can be intentionally softened to access raw perceptual data.
 - `INS-260403-47FC` Both Fatima and Dhammakaya crowds saw spinning colored suns, but Catholics saw the Virgin Mary while Buddhists saw their founder — priming shapes content, mechanism shapes structure.
 - `INS-260330-B87C` The same nerve signals producing pleasure or irritation depending on context reveals that the brain constructs meaning from sensory data rather than passively receiving it.
@@ -13,7 +14,6 @@
 - `INS-260330-AB38` What we see is heavily filtered by conceptual overlays — relaxing these filters reveals experience as an undifferentiated field of light and color.
 - `INS-260325-33DA` Each person constructs their own unique perceptual world, but consciousness feels so transparent that we assume others experience the same reality we do.
 - `INS-260323-9774` The brain is not recording reality — it is rendering a real-time simulation filtered through evolutionary structures designed for survival, not for representing truth.
-- `INS-260327-E30A` Napoleon's Egyptian campaign was militarily inconclusive but his propaganda made it a triumph, creating the popular mandate that powered his coup.
 - `INS-260330-FCFA` True randomness clusters in ways humans perceive as non-random, so products must introduce artificial structure to satisfy our pattern-seeking minds.
 - `INS-260330-1319` Apple had to make iTunes shuffle less random because true randomness produced clusters that felt intentional to users.
 - `INS-260330-8B24` Direct experience consistently overrides and corrects media-constructed mental models of people and places.
@@ -23,13 +23,13 @@
 - `INS-260325-A1BC` The Colosseum (50K capacity) defines our image of Roman entertainment, but the Circus Maximus (250K capacity) was the real center of excitement — it just did not survive.
 - `INS-260330-2B33` Emotionally vivid individual cases dominate public perception even when aggregate data tells a different story.
 - `INS-260409-32D4` Internal state functions as a perceptual filter — opportunities are literally visible in calm states and invisible in anxious ones.
-- `INS-260329-F8AF` The limit of a function at a point is determined entirely by the function's behavior near that point, not by its value at the point.
-- `INS-260330-ED8A` Log-scale plots convert exponentials into straight lines, making changes in growth rate perceptually obvious where linear plots obscure them.
-- `INS-260323-D400` Mathematical training isn't just about solving equations — it's a perception technology that makes the world more complex, beautiful, and visible to you.
 - `INS-260330-9A46` Friedrich Miescher discovered DNA in 1869, but Watson and Crick are household names because they synthesized others' work into a compelling structural model nearly a century later.
 - `INS-260330-2EC4` Rendering invisible dynamics visible — through transparency, slow motion, or instrumentation — transforms conceptual understanding into visceral comprehension.
 - `INS-260330-FA2D` The arrow's flex is invisible to the naked eye but is the entire mechanism of accuracy — slow-motion cameras revealed what centuries of archery couldn't.
 - `INS-260330-550F` Decomposition feels impossibly hard because our intuition says mixing is irreversible — the Fourier Transform works by reframing the problem as detection rather than separation.
+- `INS-260329-F8AF` The limit of a function at a point is determined entirely by the function's behavior near that point, not by its value at the point.
+- `INS-260330-ED8A` Log-scale plots convert exponentials into straight lines, making changes in growth rate perceptually obvious where linear plots obscure them.
+- `INS-260323-D400` Mathematical training isn't just about solving equations — it's a perception technology that makes the world more complex, beautiful, and visible to you.
 - `INS-260330-EDF4` Our definition of 'civilization' privileges traits like writing and monuments, causing us to undervalue the Indus Valley's achievements in sanitation and urban planning.
 - `INS-260330-ECD8` Deriving values from facts requires a pre-existing value framework to select which facts matter, creating an inescapable circularity.
 - `INS-260330-2C4D` People feel anxious in extreme silence because reverb normally signals spatial safety — its absence triggers an expectation violation that the brain interprets as claustrophobia.

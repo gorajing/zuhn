@@ -1,7 +1,7 @@
 # Tag: defensibility
 
-- `INS-260403-5DD7` Selling AI as the product rather than as the means to a complete outcome creates a fragile, easily copied competitive position.
 - `INS-260322-EDC2` While staying on the model frontier matters, the real defensibility in vertical AI comes from deep application context — understanding specific workflows, regulations, and customer needs that no foundation model company will pursue.
+- `INS-260403-5DD7` Selling AI as the product rather than as the means to a complete outcome creates a fragile, easily copied competitive position.
 - `INS-260403-415E` When your entire product depends on a third-party API, you don't control pricing, uptime, or differentiation—any competitor can clone you in a weekend.
 - `INS-260403-82E0` Investors should prioritize AI application-layer companies with workflow embedding, data flywheels, and strong net revenue retention over foundational model plays.
 - `INS-260325-040F` AI product defensibility comes from user behavior loops (pain → relief → habit → switching cost) not from AI model improvements that competitors can replicate overnight.

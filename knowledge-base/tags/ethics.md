@@ -6,10 +6,10 @@
 - `INS-260330-0764` Simply counting casualties without weighing intentions produces morally incoherent judgments about who is in the right.
 - `INS-260330-F8B6` The same culture can move from celebrating lynchings to prosecuting war crimes within generations, proving moral progress is real but unevenly distributed.
 - `INS-260405-4423` The most successful investors are disproportionately the most ethical — not coincidentally.
-- `INS-260405-DB32` You are accountable for acting from your values, even if you didn't choose those values from scratch.
 - `INS-260330-15AE` Cynics excuse their own bad behavior by projecting it as universal, making cynicism a trust signal.
 - `INS-260330-6D13` Treating all sides as morally equal regardless of their demonstrated ethical norms is a failure of moral reasoning, not balanced thinking.
 - `INS-260327-B0F2` Orwell's deepest warning: the desire to be seen as good is the most effective way to stop actually being good, because performance replaces substance.
+- `INS-260405-DB32` You are accountable for acting from your values, even if you didn't choose those values from scratch.
 - `INS-260330-3698` Mentally reversing roles in a conflict reveals whether both sides operate under the same ethical constraints.
 - `INS-260325-FD0F` Brain-reading technology is progressing from clinical use to consumer EEG — creating a looming crisis for freedom of thought, the last privacy frontier beyond freedom of speech.
 - `INS-260323-44A9` The ideal moral framework balances rational analysis of impact with genuine compassion for well-being — neither alone is sufficient.

@@ -1,7 +1,7 @@
 # Tag: valuations
 
-- `INS-260322-BBED` AI's economic impact and design space exceeds the internet era, meaning more companies will reach $1B+ and $10B+ valuations than in previous technology cycles.
 - `INS-260405-D9DF` AI bubble concerns are the market's early signal that expectation-to-delivery gaps are becoming too large to ignore.
+- `INS-260322-BBED` AI's economic impact and design space exceeds the internet era, meaning more companies will reach $1B+ and $10B+ valuations than in previous technology cycles.
 - `INS-260403-0618` Cambridge Associates advises LPs to reduce pre-seed and seed commitments due to crowded markets, high valuations, and elongated IPO timelines.
 - `INS-260405-5C3F` Thrasio ($3.4B raised, bankrupt) and Hopin ($7.75B valued, liquidated) illustrate that pandemic-era business model bets often had no durable moat.
 - `INS-260403-8806` VCs are adding tariff and geopolitical supply chain exposure to their standard due diligence frameworks, creating valuation pressure on exposed startups.

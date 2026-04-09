@@ -18,8 +18,8 @@
 - `INS-260405-A671` Massive acquisition activity in software startups (2024) reflects incumbents buying growth rather than building it, creating exit opportunities for founders.
 - `INS-260330-9BF5` Systrom tolerated years of small Facebook interferences but resigned when Zuckerberg throttled team growth and began treating Instagram as subordinate to Facebook's interests.
 - `INS-260403-906E` Startups-as-acquisition-targets create better technology faster because developers are directly accountable for building the winner.
-- `INS-260403-DF01` Banzai went from near-bankruptcy to surpassing pre-pandemic event volume by acquiring a virtual events firm in days rather than building the capability internally.
 - `INS-260403-27AC` Rejecting acquisition offers correlates with outsized outcomes because it selects for ambitious, conviction-driven founders.
+- `INS-260403-DF01` Banzai went from near-bankruptcy to surpassing pre-pandemic event volume by acquiring a virtual events firm in days rather than building the capability internally.
 - `INS-260330-809A` Apple's acquisition pattern — Authentec for Touch ID, Siri for voice, NeXT for Jobs — shows that buying capabilities yields higher returns than buying businesses.
 - `INS-260329-545B` Earn-outs let you buy a business by paying the seller from the business's own future profits.
 - `INS-260405-4CDA` The 1980s leveraged buyout wave succeeded partly because corporate balance sheets never formalized the debt owed to employees for deferred promotion promises.

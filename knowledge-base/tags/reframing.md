@@ -4,17 +4,14 @@
 - `INS-260329-C4A4` Every $250/month saved consistently compounds to roughly $1M by retirement, making micro-savings feel consequential.
 - `INS-260330-4C23` Bitcoin's key conceptual shift is that the history of transactions constitutes the currency rather than tracking some external asset.
 - `INS-260409-0FA2` Cringe accusations are defensive status plays — interpret them as evidence your trajectory is threatening, not as aesthetic feedback.
-- `INS-260405-32BB` Call it a sketch. Call it a quick hack. The label you apply to your work changes the internal standards you apply — and once momentum exists, you can quietly convert it to something real.
 - `INS-260327-178D` Byzantine Emperor Alexius asked for mercenary help; Pope Urban reframed it as a holy war to reclaim Jerusalem, transforming a small request into a continental movement under papal authority.
+- `INS-260405-32BB` Call it a sketch. Call it a quick hack. The label you apply to your work changes the internal standards you apply — and once momentum exists, you can quietly convert it to something real.
+- `INS-260329-BF51` Showing the compounded future cost of discretionary purchases creates visceral aversion that abstract budget rules cannot.
 - `INS-260403-48FE` Treating new work as experiments means even failures produce knowledge, removing the psychological cost of early-stage lameness.
 - `INS-260404-55E1` Calling ambitious work 'just a sketch' or 'just a hack' sidesteps perfectionism paralysis while preserving the option to upgrade scope later.
-- `INS-260329-BF51` Showing the compounded future cost of discretionary purchases creates visceral aversion that abstract budget rules cannot.
-- `INS-260330-90AD` Getting fired from Stanford redirected Keating from safe postdoc work to founding the BICEP experiment — the most important work of his career.
 - `INS-260325-765F` Rather than viewing time alone as reflecting something wrong about you, reframing it as an opportunity for creativity and pleasant self-reflection transforms the experience from harmful to beneficial.
 - `INS-260329-A6FB` Syntax errors should be understood as Python saying 'I don't understand' rather than 'you're bad at this'.
-- `INS-260325-5FE9` When a problem reduces to summing many small rectangles, plotting them as area under a graph often reveals the answer visually.
-- `INS-260329-94E6` Switching data structures can transform an O(n²) problem into O(n log n) without changing the problem — representation is leverage.
-- `INS-260329-04A5` Indeterminate forms like 0/0 force you to factor, conjugate-multiply, or otherwise restructure an expression before the limit becomes computable.
+- `INS-260330-90AD` Getting fired from Stanford redirected Keating from safe postdoc work to founding the BICEP experiment — the most important work of his career.
 - `INS-260330-137C` Fourier's immortality came not from solving the heat equation but from asking whether ANY function could be expressed as sine waves — a question that seemed absurd at the time.
 - `INS-260330-5E67` Finding an equivalent random process that's easier to analyze is the master key to probability problems.
 - `INS-260403-9F78` Treating new projects as experiments or learning exercises removes the fear of failure because even failed experiments produce knowledge.
@@ -22,10 +19,12 @@
 - `INS-260329-937E` Reframing intimidating technical concepts using familiar analogues removes psychological barriers and accelerates comprehension.
 - `INS-260405-F402` Calling ambitious work a 'sketch' or 'hack' is a legitimate psychological technique that disables premature quality judgment long enough for momentum to build.
 - `INS-260403-1448` The 'question burst' method forces pure question generation with no answers or explanations, disrupting habitual thinking and reframing challenges more effectively.
+- `INS-260325-5FE9` When a problem reduces to summing many small rectangles, plotting them as area under a graph often reveals the answer visually.
+- `INS-260329-94E6` Switching data structures can transform an O(n²) problem into O(n log n) without changing the problem — representation is leverage.
+- `INS-260329-04A5` Indeterminate forms like 0/0 force you to factor, conjugate-multiply, or otherwise restructure an expression before the limit becomes computable.
 - `INS-260330-8544` The discovery that tidal forces can substitute for solar energy in sustaining liquid water fundamentally expanded where we search for life — by questioning which variable (energy source) was truly fixed.
 - `INS-260330-64D8` If you add something that makes a problem easier, redefine the entire problem in terms of what you added.
 - `INS-260404-FBF8` Asking 'what's your advice on how we can get our interests met at the same time?' converts adversaries into co-problem-solvers.
-- `INS-260404-9C25` Graham doesn't argue for or against the death penalty on conventional grounds — he reframes the entire debate from philosophy to error rates.
 - `INS-260323-738D` The negative energy solutions in the Dirac equation were universally condemned as 'the saddest chapter in modern physics' — until Dirac proposed they predicted antimatter, and Carl Anderson accidentally found the positron in a cloud chamber just one year later.
 - `INS-260330-8BA6` Aerogel achieves superhydrophobicity through nanoscale physical structure (trapping air) rather than chemical coatings, producing more durable waterproofing.
 - `INS-260325-451F` Archaeologists assumed the undigested quickite lumps in Roman concrete were manufacturing errors, but MIT researchers discovered they were the self-healing mechanism that made Roman structures last 2,000 years.
@@ -34,6 +33,7 @@
 - `INS-260330-CA62` Entropy measures how spread out energy is, not how 'messy' a system looks.
 - `INS-260330-C71A` The ball doesn't 'know' it's moving — from its perspective, the glove is approaching at supersonic speed, which immediately explains why leather strips leather on impact.
 - `INS-260330-6E61` String theory proposes that all subatomic particles — quarks, neutrinos, electrons — are simply different vibrational modes of tiny strings, replacing thousands of seemingly unrelated particles with one elegant mechanism.
+- `INS-260404-9C25` Graham doesn't argue for or against the death penalty on conventional grounds — he reframes the entire debate from philosophy to error rates.
 - `INS-260329-6B87` State your downsides first — if someone is fine with all of them, the relationship only has upside.
 - `INS-260329-DF07` Expecting cyclical setbacks as normal growth features prevents premature quitting.
 - `INS-260329-8B1C` Spelling out worst-case scenarios in concrete steps reveals that the feared outcome is almost always a manageable experience rather than a catastrophe.
@@ -51,9 +51,9 @@
 - `INS-260330-8D7C` LA's bromate problem had three inputs (bromide, chlorine, sunlight) — only sunlight could be removed, which reframed the entire solution space.
 - `INS-260330-FC16` LA's shade balls were originally 'bird balls' for airports and mine ponds — repurposed to solve a completely different water chemistry problem.
 - `INS-260402-4AB4` Reframing the problem is often more valuable than optimizing the solution.
-- `INS-260404-3C7A` Costco turns confusing layouts, limited selection, and upfront fees into deal-hunting excitement, supplier leverage, and customer loyalty respectively.
-- `INS-260323-1302` Dirac couldn't solve his simultaneous equations with 2x2 matrices — the smallest matrices where multiplication order matters — until he had the insight to expand to 4x4 matrices, which instantly provided all four solutions.
-- `INS-260403-6BD9` Costco turns its confusing warehouse layout, mandatory fee, and limited selection into advantages that competitors won't replicate because they look like problems.
 - `INS-260329-2B60` Changing your internal success metric from closing the deal to helping the prospect make any empowered decision removes pressure and paradoxically increases sales.
 - `INS-260329-E96A` If you measure success by 'did I help them decide' instead of 'did they buy,' pressure disappears and close rates increase.
 - `INS-260329-8C69` The 3A framework (Acknowledge, Associate, Ask) reframes prospect objections by restating their concern, associating it with successful customer behavior, then asking a targeted question rather than answering directly.
+- `INS-260404-3C7A` Costco turns confusing layouts, limited selection, and upfront fees into deal-hunting excitement, supplier leverage, and customer loyalty respectively.
+- `INS-260323-1302` Dirac couldn't solve his simultaneous equations with 2x2 matrices — the smallest matrices where multiplication order matters — until he had the insight to expand to 4x4 matrices, which instantly provided all four solutions.
+- `INS-260403-6BD9` Costco turns its confusing warehouse layout, mandatory fee, and limited selection into advantages that competitors won't replicate because they look like problems.

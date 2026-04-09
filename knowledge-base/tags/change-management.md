@@ -10,5 +10,5 @@
 - `INS-260403-97F5` When choosing among business model prototypes, organizational readiness to change must be weighted as heavily as market attractiveness.
 - `INS-260403-F590` The time required for business model change is driven by organizational readiness, not by how radical the change is.
 - `INS-260323-7D01` Leaders should shape the belief systems of employees, board, partners, and customers gradually over months so that by the time a major strategic decision is announced, it feels obvious and inevitable rather than shocking.
-- `INS-260330-777A` Putin announced the pension age increase on the opening day of the 2018 World Cup — it still caused his largest-ever approval drop.
 - `INS-260327-C464` Entire departments at enterprise accounts have staked their careers on being experts in legacy systems -- even with a clear ROI case for modernization, the VP of IT who only knows on-premise systems sees your cloud solution as a career threat.
+- `INS-260330-777A` Putin announced the pension age increase on the opening day of the 2018 World Cup — it still caused his largest-ever approval drop.

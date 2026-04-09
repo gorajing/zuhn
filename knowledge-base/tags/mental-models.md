@@ -23,27 +23,18 @@
 - `INS-260329-5B50` Most engineering optimizations are variants of one tradeoff: storing precomputed results (space) to avoid recomputing them (time).
 - `INS-260329-DEA1` Data types are the gateway abstraction that teaches programmers to separate representation from operation.
 - `INS-260329-8896` Framing variables as a solution to the pain of manual find-and-replace teaches DRY thinking from day one.
-- `INS-260329-33C7` Builders compound value through operations while Bettors seek asymmetric payoffs through timing — backing Builders is more reliable.
 - `INS-260330-2BA7` Fat must first be mobilized from fat cells (lipolysis) then oxidized in mitochondria — if only mobilized without oxidation, it returns to storage.
+- `INS-260329-33C7` Builders compound value through operations while Bettors seek asymmetric payoffs through timing — backing Builders is more reliable.
 - `INS-260329-C4A4` Every $250/month saved consistently compounds to roughly $1M by retirement, making micro-savings feel consequential.
 - `INS-260330-4C23` Bitcoin's key conceptual shift is that the history of transactions constitutes the currency rather than tracking some external asset.
+- `INS-260330-02A7` Inflation should be modeled as a multi-dimensional vector across all assets and goods, not reduced to a single government-defined CPI scalar.
 - `INS-260403-BADD` Erosion rates turn incomprehensible deep time into something the human mind can grasp and reason about.
 - `INS-260404-4E1A` Human optimism is fueled by narrative continuity about the future, not by present comfort.
 - `INS-260402-3737` Childhood lies create cognitive debt that compounds silently into adulthood, and deliberately identifying and clearing them unlocks disproportionate clarity.
 - `INS-260403-F7DE` Decades of numerical simulation couldn't explain secondary vortex ring formation, but high-speed footage immediately revealed new structural details.
 - `INS-260404-E4B8` Photosystem II runs before Photosystem I, and 'dark reactions' occur in daylight — bad names persist because coordination costs of renaming exceed individual frustration.
-- `INS-260330-A029` Desire creates a deficit state that acquisition only neutralizes rather than transcends — you return to baseline, not a new high.
 - `INS-260405-1CAA` You know what you believe but rarely why you believe it — the source code is gone.
-- `INS-260330-02A7` Inflation should be modeled as a multi-dimensional vector across all assets and goods, not reduced to a single government-defined CPI scalar.
-- `INS-260403-F03A` Judge purchases by projected usage, not by the deal you got.
-- `INS-260330-148C` What looks like a flaw mid-process (arrow flexing wildly) is often the exact mechanism enabling the correct result.
-- `INS-260404-2135` Growing up with accuracy-focused judgments trains a false expectation that all judgments aim to be fair.
-- `INS-260403-CF46` Most China analyses reach contradictory conclusions (China will dominate vs. China has peaked) because they cherry-pick output metrics instead of examining the underlying systems that produce those outputs.
-- `INS-260330-CED2` The archer's paradox shows that a flexible arrow bends around the bow — rigidity would cause a miss, while flexibility finds the target.
-- `INS-260403-FBC0` Luck ranges from blind fortune to character-attracted opportunity, and you can deliberately move up that gradient.
-- `INS-260403-CA46` When abundance replaces scarcity, the winning strategy inverts but behavior lags.
-- `INS-260330-C9A6` Reference standards — whether physical kilograms or personal heuristics — drift over time and must be recalibrated against unchanging fundamentals.
-- `INS-260403-A1DF` Wisdom means consistently good decisions across many situations; intelligence means spectacularly good decisions in a few.
+- `INS-260330-A029` Desire creates a deficit state that acquisition only neutralizes rather than transcends — you return to baseline, not a new high.
 - `INS-260330-9471` Destin found he could only re-designate his bias, not remove it — after learning the backwards bike, the old normal-bike algorithm persisted and resurfaced after 20 minutes.
 - `INS-260329-64B8` Solve problems by listing every way to fail, then doing the opposite — your brain finds threats faster than solutions.
 - `INS-260330-D385` Judging other systems as 'primitive' based on missing features you value reveals your bias, not their inferiority.
@@ -53,10 +44,15 @@
 - `INS-260403-CF54` The pie fallacy — treating wealth as fixed-sum — dominates inequality discourse because it matches childhood experience but not adult economic reality.
 - `INS-260329-78A0` Reframing a $500 purchase as '3 days of your life working' creates visceral cost awareness that dollar amounts alone cannot.
 - `INS-260329-BF51` Showing the compounded future cost of discretionary purchases creates visceral aversion that abstract budget rules cannot.
-- `INS-260329-F3F0` The differentiator for top performers is absence of distractions, not presence of special abilities.
-- `INS-260403-61ED` Haplessness means being battered by circumstances rather than shaping them, which is the precise opposite of founder temperament.
-- `INS-260329-27DF` Rich people don't take big risks — they structure deals to eliminate risk while preserving upside.
-- `INS-260329-1DA3` An expert is someone who has made all the mistakes possible in a narrow field, and the cost of not making those mistakes (staying ignorant) compounds faster than financial debt.
+- `INS-260403-A1DF` Wisdom means consistently good decisions across many situations; intelligence means spectacularly good decisions in a few.
+- `INS-260403-F03A` Judge purchases by projected usage, not by the deal you got.
+- `INS-260330-148C` What looks like a flaw mid-process (arrow flexing wildly) is often the exact mechanism enabling the correct result.
+- `INS-260404-2135` Growing up with accuracy-focused judgments trains a false expectation that all judgments aim to be fair.
+- `INS-260403-CF46` Most China analyses reach contradictory conclusions (China will dominate vs. China has peaked) because they cherry-pick output metrics instead of examining the underlying systems that produce those outputs.
+- `INS-260330-CED2` The archer's paradox shows that a flexible arrow bends around the bow — rigidity would cause a miss, while flexibility finds the target.
+- `INS-260403-FBC0` Luck ranges from blind fortune to character-attracted opportunity, and you can deliberately move up that gradient.
+- `INS-260403-CA46` When abundance replaces scarcity, the winning strategy inverts but behavior lags.
+- `INS-260330-C9A6` Reference standards — whether physical kilograms or personal heuristics — drift over time and must be recalibrated against unchanging fundamentals.
 - `INS-260329-9CED` CS50 teaches C before Python so students understand what happens underneath abstractions, creating mental models that transfer to any future language.
 - `INS-260329-91DD` CRUD's universality demonstrates that complex data systems reduce to just four primitive operations, and finding such minimal operation sets is a powerful simplification strategy.
 - `INS-260329-DABC` Intentionally encountering and resolving errors builds more robust understanding than only following the happy path.
@@ -66,17 +62,10 @@
 - `INS-260325-EF66` Procrastination stems from the Instant Gratification Monkey overriding the Rational Decision-Maker, not from character failure.
 - `INS-260323-334D` Nicky Ryan visualizes obsessively for weeks, Nicky Rod duplicates exact warm-up routines until competition feels like 'another Tuesday,' and Craig Jones blocks it all out until the last second — all three compete at the world level.
 - `INS-260323-61FE` In judo, you press until the opponent presses back — then use their resistance energy to execute the throw, turning their strength into your advantage.
-- `INS-260330-B4DA` Tracking just two basis vectors fully determines any 2D linear transformation — a principle of minimal sufficient representation.
-- `INS-260329-4109` Big-O deliberately ignores constants and small inputs, which means theoretically equivalent algorithms can have vastly different real-world performance.
-- `INS-260330-849D` Cardinality measures how many things exist while ordinality measures how they're arranged, and these diverge at infinity.
-- `INS-260330-6A65` Perfect cancellation of opposing effects — like width-stretching and height-squishing in sphere-to-cylinder projection — is a fingerprint of deeper structural relationships.
-- `INS-260329-8261` Studying behavior at boundaries and limits reveals structural truths invisible at typical operating points.
-- `INS-260329-F8AF` The limit of a function at a point is determined entirely by the function's behavior near that point, not by its value at the point.
-- `INS-260329-4092` Setting the derivative to zero finds extrema faster than comparing every possible value — optimize by analyzing change rates, not outcomes.
-- `INS-260329-4986` Union-find path compression flattens the tree during every find operation, making future lookups nearly O(1) amortized despite starting as O(n) worst-case.
-- `INS-260329-FEA8` The derivative simultaneously means geometric slope, instantaneous rate of change, and marginal cost/revenue — and the real skill is knowing which interpretation to apply in which context.
-- `INS-260329-94E6` Switching data structures can transform an O(n²) problem into O(n log n) without changing the problem — representation is leverage.
-- `INS-260330-B4B9` Adding one thing before an infinite sequence gets absorbed (1+ω=ω), but adding one after creates something genuinely new (ω+1≠ω).
+- `INS-260329-F3F0` The differentiator for top performers is absence of distractions, not presence of special abilities.
+- `INS-260403-61ED` Haplessness means being battered by circumstances rather than shaping them, which is the precise opposite of founder temperament.
+- `INS-260329-27DF` Rich people don't take big risks — they structure deals to eliminate risk while preserving upside.
+- `INS-260329-1DA3` An expert is someone who has made all the mistakes possible in a narrow field, and the cost of not making those mistakes (staying ignorant) compounds faster than financial debt.
 - `INS-260329-74E5` Concrete physical analogies (boxes for variables, restaurants for functions) make abstract programming concepts learnable faster than formal definitions alone.
 - `INS-260329-9CFE` The block vs. inline distinction teaches that digital elements have intrinsic spatial behaviors — the foundational mental model for all layout reasoning.
 - `INS-260330-E8BD` Mastering complex systems requires identifying the few repeated patterns rather than memorizing individual components.
@@ -112,6 +101,17 @@
 - `INS-260403-2DC0` Photosynthesis looks simple (sunlight + water + CO2 → glucose + O2) but requires four protein complexes, multiple electron carriers, and a regeneration cycle—complexity hidden by clean I/O descriptions.
 - `INS-260405-81B4` Immersing yourself in the early histories of great work trains you to recognize the pattern and neutralizes premature abandonment.
 - `INS-260330-4E95` Thinking of transformations as 'watching every point in space move' builds intuition that rote formula memorization cannot.
+- `INS-260330-B4DA` Tracking just two basis vectors fully determines any 2D linear transformation — a principle of minimal sufficient representation.
+- `INS-260329-4109` Big-O deliberately ignores constants and small inputs, which means theoretically equivalent algorithms can have vastly different real-world performance.
+- `INS-260330-849D` Cardinality measures how many things exist while ordinality measures how they're arranged, and these diverge at infinity.
+- `INS-260330-6A65` Perfect cancellation of opposing effects — like width-stretching and height-squishing in sphere-to-cylinder projection — is a fingerprint of deeper structural relationships.
+- `INS-260329-8261` Studying behavior at boundaries and limits reveals structural truths invisible at typical operating points.
+- `INS-260329-F8AF` The limit of a function at a point is determined entirely by the function's behavior near that point, not by its value at the point.
+- `INS-260329-4092` Setting the derivative to zero finds extrema faster than comparing every possible value — optimize by analyzing change rates, not outcomes.
+- `INS-260329-4986` Union-find path compression flattens the tree during every find operation, making future lookups nearly O(1) amortized despite starting as O(n) worst-case.
+- `INS-260329-FEA8` The derivative simultaneously means geometric slope, instantaneous rate of change, and marginal cost/revenue — and the real skill is knowing which interpretation to apply in which context.
+- `INS-260329-94E6` Switching data structures can transform an O(n²) problem into O(n log n) without changing the problem — representation is leverage.
+- `INS-260330-B4B9` Adding one thing before an infinite sequence gets absorbed (1+ω=ω), but adding one after creates something genuinely new (ω+1≠ω).
 - `INS-260330-972B` The thylakoid membrane stores energy by pumping protons to create a concentration differential — the same pattern underlies arbitrage, expertise moats, and information advantages.
 - `INS-260330-6AA3` The growth factor (today's new cases divided by yesterday's) directly reveals the exponent driving a process, making it a superior early-warning metric to absolute counts.
 - `INS-260409-9C74` 'The finger pointing at the moon is not the moon' is a general-purpose model — any symbolic representation of experience is downstream of the experience and must not be confused with it.
@@ -171,11 +171,11 @@
 - `INS-260329-28B0` At 9% returns over 40 years, every $250/month saved represents roughly $1M at retirement — turning savings into a countable score.
 - `INS-260403-C5D8` If you can't describe your startup in one sticky phrase, your plans may not be focused enough — the exercise is diagnostic, not just cosmetic.
 - `INS-260404-3212` Professional investors hear so many pitches they blur together — a sticky descriptive phrase like 'the Microsoft Word of ecommerce' is your primary weapon against being forgotten.
-- `INS-260405-F705` We miscategorize new products by anchoring them to what came before — the iPhone was called a phone only because it preceded the iPad.
 - `INS-260329-9A58` Programming education works best when concepts are introduced through progressively complex projects rather than abstract explanations.
 - `INS-260329-ACE6` CS50's success comes from teaching thinking patterns that transfer across languages, not Python-specific tricks.
-- `INS-260403-0A7A` Rewriting code you've already written forces you to fully understand it, which is the prerequisite for seeing fundamentally better designs.
 - `INS-260329-EF89` Use public company winners as your benchmark — studying someone who 'might succeed' teaches less than studying someone who already did.
+- `INS-260405-F705` We miscategorize new products by anchoring them to what came before — the iPhone was called a phone only because it preceded the iPad.
+- `INS-260403-0A7A` Rewriting code you've already written forces you to fully understand it, which is the prerequisite for seeing fundamentally better designs.
 - `INS-260323-3CC2` Even after a major win, assume your competitor has achieved the same advantage and continue producing at maximum intensity.
 - `INS-260329-B0F4` The beliefs you don't even think to question — not the ones you debate — are what truly limit your potential.
 - `INS-260329-3FA6` Redefine work as outputs (volume × leverage) rather than inputs like hours, effort, or intensity.

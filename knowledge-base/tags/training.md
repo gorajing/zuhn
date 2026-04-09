@@ -1,8 +1,8 @@
 # Tag: training
 
+- `INS-260409-60C2` Search is easy to bolt on; heavy training to synthesize dozens of papers without drift is what actually stopped Aletheia from fabricating references.
 - `INS-260405-585D` Musk's observation that 'forcing an AI to believe false things drives it insane' points to a technical alignment problem: epistemic incoherence in training produces behavioral incoherence at inference.
 - `INS-260327-991D` The shift from perceptual AI to generative AI and reasoning has made inference as compute-intensive as training.
-- `INS-260409-60C2` Search is easy to bolt on; heavy training to synthesize dozens of papers without drift is what actually stopped Aletheia from fabricating references.
 - `INS-260320-5818` Main pretraining consumes 63% of total compute; plan for 37% additional budget for ablation studies, debugging, and restarts due to infrastructure failures.
 - `INS-260323-2651` Hotz argues that maximizing compression (cross-entropy) can never reach AGI because it produces 'mid' outputs — competent but never brilliant — and lacks the embodied feedback loops of human learning.
 - `INS-260320-7B4B` HuggingFace's 200-page training playbook concludes that data quality dominates architectural innovation as the key factor in LLM performance.

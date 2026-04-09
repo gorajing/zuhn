@@ -23,7 +23,7 @@ last_accessed: null
 access_count: 0
 indexed: true
 embedded: true
-embedding_model: "nomic-embed-text"
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     If an experience exists prior to concept, we should expect it to be
@@ -45,5 +45,11 @@ stance: >-
   different language for what they report is not evidence they mean different
   things — it's what you'd expect if they're pointing at something that precedes
   language and cannot be captured in any single cultural frame.
+related:
+  - INS-260325-6BDE
+  - INS-260323-1930
+  - INS-260330-84C6
+  - PRI-260406-2903
+  - PRI-260406-4F8E
 ---
 Buddha calls it the unconditioned. Lao Tzu calls it the Tao. Jesus calls it the kingdom within. Rumi calls it the ocean. Ramana calls it the Self. On surface these sound incompatible — one is atheistic, one is theistic, one is cosmological, one is romantic, one is introspective. But the argument is that vocabulary divergence is the expected shape of language when the referent is pre-linguistic. Each tradition grabbed the closest culturally available metaphor. This matters because it's easy to dismiss mystical claims as 'just religion' — but if each tradition is doing the best it can with its native metaphor toolkit, literal disagreement between vocabularies is compatible with experiential agreement about what's being pointed at.

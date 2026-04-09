@@ -7,6 +7,13 @@
 - `INS-260403-0907` Ideas form when trained mental habits involuntarily fire on random inputs—like doodling with concepts—which is why domain expertise is a prerequisite for generating novel ideas.
 - `INS-260403-917B` When facts are instantly accessible, the premium shifts from knowing things to understanding and applying them.
 - `INS-260403-C732` Bold investing comes from understanding the domain well enough to recognize asymmetric upside, not from reckless risk appetite.
+- `INS-260330-BD04` Non-practitioners who see a field's macro importance systematically underestimate its micro complexity, producing misleading career guidance.
+- `INS-260330-43EE` Novices overestimate their abilities because the skills required to assess competence are the same skills they lack.
+- `INS-260327-5547` In any field, the person who says 'it's complicated' probably knows more than the person who says 'it's simple' - expertise produces humility, not certainty.
+- `INS-260403-47B7` Mediocre investors defer to other investors' interest because they know they can't judge startups well independently.
+- `INS-260330-B2C5` When 'trust the science' fails, the remedy is real science shorn of ideology — not wholesale rejection of expertise itself.
+- `INS-260325-E84D` Dunning-Kruger creates a confidence inversion: beginners are most confident, experts least — because skill builds the capacity to see gaps.
+- `INS-260330-66E6` Oscillating between 'I'm an expert' and 'I never claimed expertise' is a deliberate rhetorical trick that makes someone impossible to hold accountable.
 - `INS-260404-BE07` A great programmer doesn't do the same work faster — they invent things an ordinary programmer would never even think of.
 - `INS-260330-FE49` Reversing just one variable in bicycle steering (handlebar direction) made the entire riding algorithm — balance, pedaling, leaning, steering — completely non-functional for everyone who tried.
 - `INS-260403-2612` Experts benefit more from writing about their domain because they hold more unconscious knowledge that only surfaces through articulation.
@@ -16,13 +23,6 @@
 - `INS-260403-9DE0` If you can get better at something through practice, objective quality must exist in that domain.
 - `INS-260403-A1DF` Wisdom means consistently good decisions across many situations; intelligence means spectacularly good decisions in a few.
 - `INS-260404-89C3` The expertise barrier for participation in a discussion is a reliable proxy for whether it's driven by knowledge or identity.
-- `INS-260330-BD04` Non-practitioners who see a field's macro importance systematically underestimate its micro complexity, producing misleading career guidance.
-- `INS-260330-43EE` Novices overestimate their abilities because the skills required to assess competence are the same skills they lack.
-- `INS-260327-5547` In any field, the person who says 'it's complicated' probably knows more than the person who says 'it's simple' - expertise produces humility, not certainty.
-- `INS-260403-47B7` Mediocre investors defer to other investors' interest because they know they can't judge startups well independently.
-- `INS-260330-B2C5` When 'trust the science' fails, the remedy is real science shorn of ideology — not wholesale rejection of expertise itself.
-- `INS-260325-E84D` Dunning-Kruger creates a confidence inversion: beginners are most confident, experts least — because skill builds the capacity to see gaps.
-- `INS-260330-66E6` Oscillating between 'I'm an expert' and 'I never claimed expertise' is a deliberate rhetorical trick that makes someone impossible to hold accountable.
 - `INS-260329-1DA3` An expert is someone who has made all the mistakes possible in a narrow field, and the cost of not making those mistakes (staying ignorant) compounds faster than financial debt.
 - `INS-260330-FE14` Destin could diagnose hit quality purely from the crack of the bat — bottom barrel hits sound different from sweet-spot contact.
 - `INS-260330-3737` Having experienced peers critique your safety procedures reveals obvious gaps you cannot see yourself.

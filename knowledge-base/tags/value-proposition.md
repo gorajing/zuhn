@@ -20,6 +20,9 @@
 - `INS-260405-4AAD` Juicero raised $120M for technology that was immediately undermined when customers realized the same outcome was achievable by hand.
 - `INS-260404-380C` Apple Pay succeeded because its value proposition enabled its business model and vice versa — the two were designed as a tightly coupled system rather than sequentially.
 - `INS-260403-0196` Great value propositions concentrate on very few customer jobs, pains, or gains but deliver outstanding depth in those areas.
+- `INS-260328-F3C4` If someone doesn't want the burrito, cutting the price just makes them wonder what's wrong with it.
+- `INS-260403-7E7C` Mapping a customer's business model before selling positions your solution within their strategic context rather than as an isolated product.
+- `INS-260403-2814` Build a visual pain statement that communicates the prospect's challenge before describing your solution.
 - `INS-260405-EE92` Use card sorting with real customers to rank their jobs and pains before designing any solution.
 - `INS-260403-B87D` Customer jobs span functional, social, emotional, and basic-need layers — addressing only one leaves value on the table.
 - `INS-260403-113D` Separate customer observation from solution design by temporarily forgetting what you offer.
@@ -29,6 +32,3 @@
 - `INS-260404-0EB2` PMF locks three variables — value prop, segment, and pricing — so capital can be spent on scaling rather than iteration.
 - `INS-260403-BF09` BioCity discovered that biologists and chemists had entirely different pains and gains regardless of whether they worked at a university, biotech startup, or large pharma company.
 - `INS-260404-D1E2` Use the Value Proposition Canvas to make explicit how your product addresses the most critical customer jobs, pains, and gains.
-- `INS-260328-F3C4` If someone doesn't want the burrito, cutting the price just makes them wonder what's wrong with it.
-- `INS-260403-7E7C` Mapping a customer's business model before selling positions your solution within their strategic context rather than as an isolated product.
-- `INS-260403-2814` Build a visual pain statement that communicates the prospect's challenge before describing your solution.

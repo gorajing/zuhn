@@ -1,8 +1,8 @@
 # Tag: parenting
 
 - `INS-260403-10A0` Screen-free audio players like Yoto shift kids from passive screen consumption to active physical engagement with content.
-- `INS-260404-1C9D` Tracking tools in high-stakes personal domains can shift focus from judgment to metrics.
 - `INS-260403-393C` Parents push children toward safe careers not from materialism but because they share in failures without sharing in the thrill of success.
+- `INS-260404-1C9D` Tracking tools in high-stakes personal domains can shift focus from judgment to metrics.
 - `INS-260325-B4D1` Tech-free families report their children find genuine friends faster, build richer real-world social lives, and show better mental health — the exit is additive, not subtractive.
 - `INS-260329-7A7F` Delayed punishment or reward trains the behavior closest to the consequence, not the behavior you intended to shape.
 - `INS-260325-09AF` The 'sturdy pilot' metaphor: the best leader acknowledges your fear is real AND stays calm and in control — neither dismissing your feelings nor being overwhelmed by them.

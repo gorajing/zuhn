@@ -43,10 +43,10 @@ stance: >-
   than founders expect — Marco Polo went through nine distinct product versions
   over multiple years before landing on the right form.
 related:
+  - INS-260409-171C
   - INS-260327-8E62
   - INS-260327-8C1C
   - INS-260330-A86C
   - INS-260405-4D4D
-  - INS-260403-42B8
 ---
 Marco Polo went through 9 distinct product iterations from 2012 before finding the video messaging format that resonated. Each version was drawn out, tested against reality, and discarded when it did not work. Vlada frames this as normal: conflict with reality is a full-contact sport and you end up getting beaten up many times. The lesson challenges the Silicon Valley myth of overnight product-market fit. For purpose-driven companies solving deep human needs (connection, well-being), the iteration cycle may be even longer because the problems are more nuanced than efficiency gains.

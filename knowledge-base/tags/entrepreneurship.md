@@ -34,5 +34,5 @@
 - `INS-260405-7529` Entrepreneurs don't balance work and life — the two collapse into one undifferentiated thing.
 - `INS-260405-56CB` Self-employment is the shallow reading; self-expression through work is the deep one.
 - `INS-260402-4633` The first phase of business creation is product creation — hacking — and figuring out monetization afterward is the comparatively easy part.
-- `INS-260329-3924` You enter entrepreneurship for freedom but gain absolute control instead; each growth stage requires giving up control to regain freedom.
 - `INS-260329-3036` Hormozi claims every wealthy person he knows started with years of high-volume sales conversations with strangers — it's the universal entrepreneurial apprenticeship.
+- `INS-260329-3924` You enter entrepreneurship for freedom but gain absolute control instead; each growth stage requires giving up control to regain freedom.

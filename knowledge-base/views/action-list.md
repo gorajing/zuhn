@@ -2833,12 +2833,12 @@ Generated on 2026-04-09 | 4565 actionable insights
 - [INS-260329-24CE] Maker time protection evolves through three stages: stolen hours, half-day splits, then entire dedicated maker days as your business scales.
 - [INS-260403-2B50] Only a fully linked three-statement model (income, balance sheet, cash flow) reveals the true cash position of a startup.
 - [INS-260403-2774] Founders who activate every credit program they qualify for drown their teams in context switching, turning free tools into a net productivity loss.
-- [INS-260409-885E] The complete formula for making it is start, take feedback to get better, and never stop — most failure is skipping one of these.
 - [INS-260409-05AC] If you're dead anyway, do the thing that's too scary to try — your current tactics are what produced the zombie state.
 - [INS-260409-2A8A] When MVPs take a day, the bottleneck is no longer building — it is learning fast from the market.
 - [INS-260409-22CD] Perfection is impossible when the capability ceiling moves every month — optimize for adaptation, not polish.
 - [INS-260409-1A44] You have permission to shrink the team before pivoting — the ship is going down and directors who aren't helping aren't helping.
 - [INS-260409-D947] Treat the zombie like pre-PMF — nothing is sacred, and the AB-tested local maximum is still a bad onboarding flow.
+- [INS-260409-171C] The complete formula for making it is start, take feedback to get better, and never stop — most failure is skipping one of these.
 
 ## startups/exits
 - [INS-260409-143C] Give yourself two months to try for acquisition, then shut down — no time frame means no exit.
