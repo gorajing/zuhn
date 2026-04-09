@@ -576,11 +576,37 @@ Verified post-fix: `zuhn: npx tsx /Users/jinchoi/Code/Zuhn/scripts/mcp-server.ts
 
 **Lesson:** After any project rename or relocation, audit `~/.claude.json` `mcpServers` entries for stale paths. Today the cost was a missed Phase 1 validation. Future cost could be a tool the user thinks is wired and silently isn't. Stale-config drift is invisible until you specifically test for it.
 
+### 2026-04-09 — Phase 1 first reflexive fire: SUCCESS (single observation)
+
+**Context:** Fresh post-restart Claude Code session, in a non-Zuhn project directory (user's Job folder). User pasted a LinkedIn posting for Replit VP of Sales as implicit decision context.
+
+**Result:** `zuhn_brief (MCP)` fired reflexively with `mode: "concise"` before answering — the structural requirements of the Phase 1 protocol passed on first fire post-fix.
+
+**Observed (via screenshot):**
+
+| Property | Status |
+|---|---|
+| MCP tool reachability post-fix | ✓ — `zuhn_brief (MCP)` resolved in the fresh-session tool catalog |
+| Reflexive trigger on decision-shaped prompt | ✓ — no user prompting required |
+| Concise-mode invocation (intended hot path) | ✓ — `mode: "concise"` in the call signature |
+| Natural citation, applied to specific facts | ✓ — coachability principle applied to a specific named candidate; "developer-tools retain through corrections" applied to Replit's category, not name-dropped |
+| Cross-project portability | ✓ — fired from outside `/Code/Zuhn` |
+
+**Emergent behavior to watch (not formalizing yet):** Claude reformulated the user's implicit query into an enriched prompt that added session context the user did not explicitly type ("IB background, founder, building with Claude"). The brief saw a richer query than the literal user input. Hold as observation, not specification — wait for consistent recurrence across other sessions before treating as a designed property of the protocol.
+
+**What this does and does not prove:**
+- ✓ The protocol works structurally — MCP path, render mode, trigger heuristic, citation pattern all functioning on first fire post-fix.
+- ✗ Stable adoption is **not** proven by a single observation. Single fires are necessary but not sufficient evidence; the 2-week window exists precisely to gather repeated observations across multiple decision shapes and working directories.
+
+**2-week behavioral checkpoint: 2026-04-23** — clock starts on the date of the first verified fire (2026-04-09).
+
 ## 2-Week Behavioral Check
 
 > **Reset 2026-04-08:** the original 2026-04-22 checkpoint is invalidated — it was contaminated by infra failure, not product behavior (see Post-Deployment Validation Log above). The 2-week behavioral window restarts only after step 5 of the honest measurement path passes — `zuhn_brief(mode="concise")` firing reflexively in a fresh post-fix session. Until that passes, there is no Phase 1 product signal to measure.
 
-This is the measurement that determines whether Phase 1 actually worked. Once the fresh-session reflexive test passes, schedule a reminder for 2 weeks after **that** date to verify:
+> **Update 2026-04-09:** The fresh-session reflexive fire condition has been met — see "2026-04-09 — Phase 1 first reflexive fire: SUCCESS (single observation)" entry above. The 2-week clock is now running. Checkpoint date: **2026-04-23**.
+
+This is the measurement that determines whether Phase 1 actually worked. The fresh-session reflexive test passed on 2026-04-09; the behavioral window runs through 2026-04-23. By that date, verify:
 
 - [ ] In 3+ real decision conversations, Claude called `zuhn_brief(mode="concise")` without being prompted
 - [ ] The concise output was used to inform at least one response in a way that changed the recommendation
