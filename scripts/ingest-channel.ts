@@ -28,6 +28,12 @@ const KB_ROOT = join(__dirname, "..", "knowledge-base");
 const META_DIR = join(KB_ROOT, "meta");
 const DEFAULT_TOP = 50;
 const DEFAULT_DELAY = 3;
+// Warn the user when --auto-extract is combined with a batch this large
+// or larger. autoknowledge.ts is a long-running harness and the
+// single-wrapper convenience path is a footgun at scale even after
+// the 30-min outer timeout was removed. Better to recommend the
+// explicit two-step ingest → extract workflow.
+const LARGE_BATCH_THRESHOLD = 20;
 
 // ─── Types ─────────────────────────────────────────────────────────────
 interface VideoEntry {
@@ -410,6 +416,36 @@ async function main(): Promise<void> {
   if (toIngest.length === 0) {
     console.log("Nothing to ingest — all videos already processed.");
     return;
+  }
+
+  // Honest large-batch warning: --auto-extract is a convenience for small
+  // runs. At scale the two-step workflow (ingest, then autoknowledge
+  // directly) is more durable — crash recovery is clearer, checkpoints are
+  // explicit, no single wrapper process holds the whole job hostage.
+  if (autoExtract && toIngest.length >= LARGE_BATCH_THRESHOLD) {
+    console.log("");
+    console.log(
+      `⚠  WARNING: --auto-extract with ${toIngest.length} videos exceeds the`,
+    );
+    console.log(
+      `   recommended threshold of ${LARGE_BATCH_THRESHOLD}. --auto-extract is a small-batch`,
+    );
+    console.log(
+      `   convenience. For large batches the durable pattern is:`,
+    );
+    console.log("");
+    console.log(
+      `     1. Run ingest-channel WITHOUT --auto-extract to create sources`,
+    );
+    console.log(
+      `     2. Then run: npx tsx scripts/autoknowledge.ts --channel "<name>"`,
+    );
+    console.log("");
+    console.log(
+      `   Continuing anyway in 5 seconds. Press Ctrl-C to abort and switch.`,
+    );
+    console.log("");
+    await sleep(5000);
   }
 
   console.log(

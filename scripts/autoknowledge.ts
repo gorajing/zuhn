@@ -681,6 +681,46 @@ async function main(): Promise<void> {
       JSON.stringify({ type: "batch_summary", ...finalBatch }) + "\n"
     );
   }
+
+  // 7. Residue sweep — defensive final commit.
+  //
+  // The Dwarkesh batch revealed that tracked files (tag indices,
+  // insight cross-references, MASTER_INDEX) can land in the working
+  // tree AFTER the final post-ingest's auto-git step, leaving
+  // hundreds of uncommitted files. The most common cause is crash
+  // recovery: if an earlier run died mid-pipeline, insight files from
+  // the interrupted extraction remain untracked and are not absorbed
+  // until someone notices.
+  //
+  // This sweep guarantees that whatever mutation happens during this
+  // autoknowledge run — including any late writes from compression,
+  // learning mechanisms, or crash-recovery — gets committed before
+  // the process exits. It's a no-op when the working tree is clean.
+  try {
+    execFileSync("git", ["add", "knowledge-base/"], {
+      stdio: "pipe",
+      cwd: PROJECT_ROOT,
+    });
+    try {
+      execFileSync("git", ["diff", "--cached", "--quiet"], {
+        stdio: "pipe",
+        cwd: PROJECT_ROOT,
+      });
+      // Exit 0 = no staged changes. Clean — nothing to do.
+    } catch {
+      // Non-zero exit = there are staged changes. Commit them.
+      execFileSync(
+        "git",
+        ["commit", "-m", "auto: post-autoknowledge residue sweep"],
+        { stdio: "pipe", cwd: PROJECT_ROOT }
+      );
+      console.log("\n── Residue sweep ──");
+      console.log("   Committed stragglers that landed after final post-ingest.");
+    }
+  } catch (err: unknown) {
+    const msg = err instanceof Error ? err.message : String(err);
+    console.warn(`\n── Residue sweep skipped ──\n   ${msg}`);
+  }
 }
 
 main().catch((err) => {
