@@ -45,12 +45,13 @@ resolutions:
 related:
   - INS-260320-76E7
   - PRI-260406-4B8E
+  - INS-260410-9F17
   - PRI-260403-FBA8
   - INS-260320-F78E
   - INS-260404-D6F7
-  - INS-260403-10CE
   - INS-260329-D913
   - INS-260403-C4BE
+  - INS-260410-5D66
 stance: AI doesn't just automate procedures — it automates judgment calls
 evidence:
   - id: INS-260325-E895

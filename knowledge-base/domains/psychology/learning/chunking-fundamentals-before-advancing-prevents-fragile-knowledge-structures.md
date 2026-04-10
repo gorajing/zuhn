@@ -48,7 +48,6 @@ stance: >-
   automaticity before tackling complex abstractions like closures and async is
   more effective than rushing to advanced topics
 related:
-  - INS-260327-E016
   - INS-260329-393C
   - INS-260405-2688
   - INS-260329-91DD

@@ -50,8 +50,8 @@ stance: >-
 related:
   - INS-260403-4A16
   - INS-260403-1879
+  - INS-260410-9B0E
   - INS-260323-BC61
   - INS-260323-B029
-  - INS-260330-1243
 ---
 Hassabis explicitly separates two timescales of AI risk. The immediate-term: deepfakes and misinformation, which Google's SynthID watermarking partially addresses (he advocates all generative AI companies build similar watermarks). The medium-term (3-4 years): (1) bad actors — individuals up to nation states — repurposing AI built for curing diseases for harmful ends, and (2) AI systems themselves going rogue as they become agentic and autonomous, where ensuring guardrails actually contain the system becomes 'an incredibly hard technical challenge.' He thinks both experts and average people are not paying enough attention to these compared to the deepfake discourse. Calls for international cooperation among frontier labs and AI safety institutes.

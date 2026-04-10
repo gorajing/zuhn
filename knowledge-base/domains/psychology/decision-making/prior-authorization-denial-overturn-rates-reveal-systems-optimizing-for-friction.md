@@ -55,10 +55,10 @@ stance: >-
   betting that most people will not challenge the default.
 related:
   - INS-260330-4E68
+  - INS-260410-14E5
   - INS-260330-14CA
   - PRI-260406-4C28
   - INS-260409-3FDE
   - INS-260403-8ECB
-  - INS-260329-92E9
 ---
 Prior authorization in healthcare requires providers to get insurer approval before delivering certain treatments. When 81.7% of denials are overturned on appeal, the denial is not functioning as a quality or cost control — it is functioning as a friction tax. The system bets that a significant percentage of providers and patients will accept the denial rather than invest the time and effort to appeal. This is a general pattern in institutional design: when a gatekeeping process has an extremely high overturn rate, it reveals that the gate exists to reduce demand through friction rather than to filter on merit. Recognizing this pattern helps in any domain where you encounter high-friction approval processes — the question to ask is not whether you qualify, but whether the system is designed to discourage you from trying.

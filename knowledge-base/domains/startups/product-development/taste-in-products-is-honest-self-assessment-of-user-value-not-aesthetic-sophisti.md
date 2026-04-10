@@ -46,7 +46,6 @@ stance: >-
   Product taste is not about visual design or button placement — it's the
   willingness to honestly evaluate whether your product actually helps the user
 related:
-  - INS-260322-D6D7
   - INS-260327-C9BA
   - INS-260327-2A59
   - PRI-260406-1A55
@@ -56,6 +55,7 @@ related:
   - INS-260330-2B3F
   - INS-260330-F534
   - INS-260330-1282
+  - INS-260402-D2C9
 evidence:
   - id: INS-260322-D6D7
     type: EXTENDS

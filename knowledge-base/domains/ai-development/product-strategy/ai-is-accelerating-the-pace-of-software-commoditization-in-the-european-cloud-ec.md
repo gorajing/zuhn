@@ -53,5 +53,6 @@ related:
   - INS-260404-19B0
   - INS-260327-3B91
   - INS-260403-5CAD
+  - INS-260410-761B
 ---
 Accel's Euroscape report frames AI as an accelerant to cloud growth, but the underlying dynamic is that AI capabilities are compressing how quickly software features get replicated and commoditized. A feature that once took 18 months to copy now takes weeks when AI coding tools and foundation models can be fine-tuned quickly. European cloud companies face this same pressure while also contending with a more fragmented market and regulatory environment. The implication for founders is that durable differentiation must come from data network effects, workflow entrenchment, or proprietary data — not from feature novelty alone.

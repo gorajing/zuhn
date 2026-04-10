@@ -58,9 +58,9 @@ stance: >-
 related:
   - PRI-260406-9051
   - INS-260403-4A16
+  - INS-260410-9B0E
   - INS-260405-A992
   - INS-260327-DC4C
-  - INS-260323-D41A
 ---
 When an LLM is just generating text in a chat window, prompt injection is embarrassing but contained. When that same LLM is an agent that can book flights, send emails, execute code, or control a humanoid robot, successful prompt injection becomes a real-world security breach with material consequences. The attack surface grows with every tool and API the agent can access.
 

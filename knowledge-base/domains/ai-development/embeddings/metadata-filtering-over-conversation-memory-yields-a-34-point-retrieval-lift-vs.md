@@ -47,7 +47,6 @@ stance: >-
   Structured metadata filters layered on top of vector search dramatically
   outperform flat semantic search on real-world conversation memory benchmarks.
 related:
-  - INS-260320-B210
   - INS-260403-1432
   - INS-260409-5CF4
   - INS-260409-EA5A
@@ -57,5 +56,6 @@ related:
   - INS-260329-818A
   - INS-260405-5BD3
   - INS-260410-656B
+  - INS-260410-B501
 ---
 MemPalace published the retrieval ladder explicitly: search all closets = 60.9% R@10, search within wing = 73.1%, search wing+hall = 84.8%, search wing+room = 94.8%. The jump from flat semantic to structured metadata is 34 points on 22,000 real conversation memories. The maintainers honestly clarified in their April 2026 correction that this is not a novel retrieval mechanism — it is ChromaDB's standard metadata filtering feature. The insight is not about the algorithm; it is about how much signal sits in trivially-available structure (project, topic, date) that pure semantic search ignores. For any KB with distinguishable domains, adding metadata filters is the cheapest path to a large retrieval improvement.

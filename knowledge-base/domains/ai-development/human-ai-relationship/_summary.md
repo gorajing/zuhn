@@ -1,6 +1,6 @@
 # Topic: human-ai-relationship
 
-> 73 insights
+> 74 insights
 
 - `INS-260325-9C2F` [very_high] When AI outperforms humans, human-AI synergy is g = -0.54; when humans outperform AI, synergy is g = +0.46.
 - `INS-260325-3EF4` [very_high] Decision tasks show negative synergy (g = -0.27, p = 0.002) while creation tasks show positive synergy (g = 0.19), a statistically significant difference.
@@ -23,6 +23,7 @@
 - `INS-260325-FA86` [high] Despite massive research investment in explainable AI, the meta-analysis found no significant moderating effect of explanations or confidence on human-AI synergy or augmentation.
 - `INS-260403-7CD3` [high] AI provides speed and pattern recognition, but human instinct for customer psychology, timing, and emotional resonance remains the irreplaceable competitive edge.
 - `INS-260405-DFFB` [high] AI commoditizes information synthesis, elevating human curatorial judgment to the primary value layer in media.
+- `INS-260410-E042` [high] On Anthropic's accelerator take-home, humans beat Claude only with unlimited time; inside a 2-hour window, Opus 4.5 matched the best humans.
 - `INS-260325-EE14` [high] Wharton research shows people abandon AI tools after seeing a single error, but letting users tweak parameters restores adoption even at higher error rates.
 - `INS-260323-2AE2` [high] As AI automates strategy, naming, copy, design, video, and prototyping, the irreplaceable human role shifts from creating outputs to orchestrating meaning — designing values, selecting which work implants meaningful memories, and defining the scope of care for the community served.
 - `INS-260322-116B` [high] When AI can perform any technical task, employers hire for trustworthiness and genuine care — the qualities visible in someone's eyes, not their resume.

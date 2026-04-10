@@ -46,6 +46,7 @@ related:
   - INS-260403-5F41
   - INS-260329-CB03
   - INS-260409-325B
+  - INS-260410-1B17
 stance: >-
   Instead of 'write me X', ask 'what makes X work well?' then 'what principles
   apply here?' then 'now do it for my case'

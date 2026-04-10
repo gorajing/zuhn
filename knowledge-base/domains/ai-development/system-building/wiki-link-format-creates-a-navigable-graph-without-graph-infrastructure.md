@@ -42,10 +42,10 @@ stance: >-
   knowledge graph that Claude Code can traverse via file reads, providing
   graph-RAG capabilities with zero graph database.
 related:
-  - INS-260409-430B
   - INS-260409-0D87
+  - INS-260410-19DE
   - INS-260402-2342
+  - INS-260409-430B
   - INS-260323-E0B5
-  - INS-260329-12D1
 ---
 When notes link to each other via the [[note-name]] syntax and Claude Code knows the format via CLAUDE.md, following a link is just another file read. This recovers much of what graph RAG systems give you — the ability to walk from one concept to related concepts — without any graph database, triple store, or community detection layer. The tradeoff is that the graph is local and depth-limited rather than globally queryable, but for most question-answering workloads the relevant subgraph is small and the agent can assemble it on the fly.

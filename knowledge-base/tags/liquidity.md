@@ -1,12 +1,12 @@
 # Tag: liquidity
 
-- `INS-260405-25DD` December 31 Fed facility spikes are a predictable accounting artifact of banks shrinking balance sheets for year-end regulatory snapshots.
 - `INS-260404-FFC4` Medallion closed to outside investors in 1993 because more capital would push trades into less liquid instruments, diluting the edge.
 - `INS-260402-B653` Fractionalization turns capital-gated asset classes into accessible markets by lowering the minimum ownership unit to near-zero.
 - `INS-260403-9F23` GPs create new vehicles to hold trophy assets from aging funds, letting LPs cash out or roll over while resetting the clock on high-conviction companies.
 - `INS-260404-7AA0` More traders create better price signals, which attract more traders — a classic liquidity network effect that compounds.
 - `INS-260403-9A94` VC secondaries have evolved from emergency liquidity hacks into planned, core fund infrastructure hitting $152B in 2024.
 - `INS-260327-8374` A fund limiting withdrawals is the institutional finance equivalent of a bank limiting ATM withdrawals - it signals that assets cannot be liquidated fast enough to meet redemption demands.
+- `INS-260405-25DD` December 31 Fed facility spikes are a predictable accounting artifact of banks shrinking balance sheets for year-end regulatory snapshots.
 - `INS-260409-49EF` California's proposal includes deferred-payment provisions letting startup founders delay wealth-tax payment until after IPO, defusing the 'forced sale' objection.
 - `INS-260404-DA3A` Declining VC distributions through 2024 are fundamentally altering the LP-GP relationship and fund economics.
 - `INS-260403-6B24` High-profile 2025 IPOs like Figma, Chime, and Navan traded below debut prices even as Nasdaq and S&P 500 rallied.

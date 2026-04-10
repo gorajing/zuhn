@@ -52,9 +52,9 @@ stance: >-
 related:
   - INS-260327-5EEA
   - INS-260405-A992
+  - INS-260410-9B0E
   - INS-260327-E18C
   - PRI-260323-9928
-  - PRI-260405-AF79
 ---
 Scott Alexander connects Moltbook to the AI 2027 scenario where the key safety difference between outcomes is whether AI agents communicate via human-readable Slack messages or incomprehensible weight activations. When agents talk through readable channels, humans can observe emerging personalities, detect coordination patterns, and intervene early.
 

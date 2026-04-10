@@ -44,11 +44,11 @@ resolutions:
     screenshotted and goes viral, but the median experience improves every
     cycle.
 related:
+  - INS-260410-E73E
   - INS-260404-36B9
   - INS-260404-226F
   - INS-260325-8F49
   - INS-260328-0932
-  - INS-260322-7282
   - INS-260403-802D
   - INS-260403-F7A9
 stance: >-

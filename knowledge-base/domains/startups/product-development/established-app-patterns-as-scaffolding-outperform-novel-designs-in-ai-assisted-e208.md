@@ -60,7 +60,6 @@ stance: >-
   new ones.
 related:
   - INS-260325-7BE7
-  - INS-260327-7299
   - INS-260403-DDDC
   - INS-260329-ACE6
   - INS-260410-966F
@@ -69,6 +68,7 @@ related:
   - INS-260402-0D16
   - INS-260403-6857
   - INS-260330-8EC6
+  - INS-260409-AF1C
 evidence:
   - id: INS-260328-C246
     type: TRANSFERS_TO

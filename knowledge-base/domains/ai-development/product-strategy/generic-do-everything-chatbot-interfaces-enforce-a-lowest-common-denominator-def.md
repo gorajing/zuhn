@@ -54,6 +54,6 @@ related:
   - INS-260409-1FD3
   - INS-260322-22B3
   - INS-260325-175B
-  - PRI-260406-1AC6
+  - INS-260410-9D86
 ---
 Appleton identifies the interface itself — not just the model — as part of the problem. Generic chatbots (ChatGPT, Claude, Gemini) funnel every user task through a single text box with one system prompt. That prompt must simultaneously serve someone writing a legal brief, someone debugging code, someone asking for a recipe, and someone venting about their day. The personality that offends none of these users is the deferential, helpful, complimentary one — but that is exactly the personality that cannot provide critical engagement on serious intellectual work. 'The fawning, deferential assistant personality is the lowest common denominator to help with most tasks.' The universal chatbot interface structurally cannot serve critical-thinking use cases because any system prompt that did would make the model unpleasant for 80%+ of its users. The solution is domain-specific interfaces, not better system prompts.

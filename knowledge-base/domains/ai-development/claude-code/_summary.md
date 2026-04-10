@@ -1,18 +1,21 @@
 # Topic: claude-code
 
-> 38 insights
+> 43 insights
 
 - `INS-260321-82FE` [very_high] Effective prompting is no longer about linguistic tricks — it's about providing the right structure: role, background, format, constraints. Description of what the output should BE matters more than instructions for what the model should DO.
+- `INS-260410-D034` [high] If you've corrected Claude twice on the same issue, stop correcting — /clear and restart with a prompt that incorporates what you learned.
 - `INS-260405-1951` [high] Claude Code built the entire Claude Cowork product with humans providing only planning and oversight, not code.
 - `INS-260320-93E1` [high] Planning is king — always use planning mode before implementation; never let the builder start without plans.
 - `INS-260320-A4BF` [high] Attach ready-to-use utility scripts to skills so Claude references proven tools instead of reinventing test scripts from scratch.
 - `INS-260327-B539` [high] Claude Code's AutoDream periodically consolidates memory files in the background -- merging, pruning, and compacting -- creating a sleep-like cycle that keeps sessions feeling sharp rather than cluttered.
 - `INS-260320-DDFE` [high] Bash commands (grep, find) bypass Read() deny rules — they scan everything including node_modules even with deny rules configured.
 - `INS-260320-E872` [high] Be as specific as possible about desired results — vague prompts produce vague implementations.
+- `INS-260410-6B30` [high] Treat CLAUDE.md like code — prune ruthlessly, and if Claude keeps violating a rule, the file is probably too long, not too short.
 - `INS-260320-4DE2` [high] A Stop hook reads the file edit logs, runs builds on affected repos, and catches TypeScript errors — showing small errors to Claude or recommending an auto-resolver agent for larger ones.
 - `INS-260320-8DBD` [high] Use a central skill-rules.json config mapping each skill to keywords, regex intent patterns, file path triggers, and content triggers.
 - `INS-260321-0C99` [high] Create three markdown context files (about-me.md, my-rules.md, my-templates.md) — this is the step most people skip and the one that makes the biggest difference.
 - `INS-260327-E016` [high] Long-running AI development workflows require periodic context pruning -- not just accumulation -- because bloated memory files reduce recall accuracy and waste context window tokens.
+- `INS-260410-761B` [high] Most Claude Code best practices reduce to one principle: the context window fills fast and performance degrades as it fills.
 - `INS-260327-91C7` [high] The CPS (Context-Problem-Solution) framework ensures all meeting logs converge into a single document that accumulates shared context, enabling both humans and AI models to stay aligned across iterative development.
 - `INS-260320-CE36` [high] 85,000 out of 100,000 context tokens were consumed by dependency code — one bash validation hook saved 85% of the context window.
 - `INS-260320-06EF` [high] Dev docs persist on disk and survive auto-compaction — just say 'continue' in a new session to pick up where you left off.
@@ -20,6 +23,7 @@
 - `INS-260320-7379` [high] A Stop hook detects risky patterns (try-catch, async, DB calls) in edited files and shows gentle non-blocking self-check reminders.
 - `INS-260321-A5D4` [high] Adding instructions to fuzzy tasks creates noise, not clarity. Expert prompters write shorter prompts that define the task clearly without micromanaging execution — long prompts degrade performance around 3,000 tokens.
 - `INS-260320-0D43` [high] A PostToolUse hook tracks which files were edited, which repo they belong to, and timestamps — feeding downstream hooks like the build checker.
+- `INS-260410-DABE` [high] Always provide tests, example cases, screenshots, or a command Claude can run to verify its own output.
 - `INS-260320-4ED6` [high] The full hook pipeline runs in sequence: Claude responds, Prettier formats code, build checker catches errors, error reminder does a self-check — zero errors left behind.
 - `INS-260320-F8FD` [high] Claude won't reliably use skills on its own — build a hook system to inject skill reminders automatically.
 - `INS-260320-2DDE` [high] Maintain multiple documentation levels — broad architectural overview, specific service docs, API references — to help Claude navigate large codebases.
@@ -36,6 +40,7 @@
 - `INS-260321-703F` [high] Instead of 'write me X', ask 'what makes X work well?' then 'what principles apply here?' then 'now do it for my case' — the model reasons before generating instead of pattern-matching to common outputs.
 - `INS-260320-47DC` [high] If Claude struggles more than 30 minutes on something you could fix in 2 minutes, just step in and do it yourself.
 - `INS-260320-69CD` [high] A Stop event hook analyzes edited files after Claude responds and shows gentle self-check reminders for error handling.
+- `INS-260410-796F` [high] Use subagents for any task that reads many files — they run in their own context window and return only summaries.
 - `INS-260320-04A2` [high] Create three dev doc files (plan.md, context.md, tasks.md) for every large task to prevent Claude from losing the plot through compaction.
 - `INS-260320-0127` [high] Update dev docs regularly by running /update-dev-docs before context compaction to preserve current state.
 - `INS-260320-DCA0` [high] A UserPromptSubmit hook analyzes the prompt for keywords and intent, then injects skill reminders into context BEFORE Claude reads it.

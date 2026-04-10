@@ -1,6 +1,6 @@
 # Topic: future-of-work
 
-> 92 insights
+> 96 insights
 
 - `INS-260320-A745` [very_high] Anthropic's own studies show AI deskilling in coding is real, but depends on HOW you use models — some usage patterns cause skill degradation, some don't.
 - `INS-260321-9824` [very_high] Tao's papers now have more code, more plots, deeper literature searches — but the core mathematical work (pen and paper for the hardest part) hasn't been accelerated. AI enriches output without deepening it.
@@ -26,6 +26,7 @@
 - `INS-260320-DEAF` [high] Coding is going away first — AI models handle raw coding now, but broader software engineering (architecture, design, user needs, team management) takes longer to automate.
 - `INS-260320-E683` [high] Even if you're only doing 5% of the task and AI does 95%, that 5% gets "super amplified" — you become 20x more productive through comparative advantage.
 - `INS-260320-DDD9` [high] In a world where AI can generate anything, "having basic critical thinking skills may be the most important thing to success."
+- `INS-260410-2D5D` [high] Hume observed that over 50% of candidates would have been better off delegating entirely to Claude Code well before Opus 4 explicitly broke his test.
 - `INS-260403-6B72` [high] Competitive pressure makes human-in-the-loop economically unsustainable in any domain meeting the automation trifecta, creating systemic fragility.
 - `INS-260323-DA85` [high] When companies replace interns and junior staff with AI, they destroy the training ground that produces the next generation of senior experts.
 - `INS-260403-08D7` [high] Top developers now orchestrate multiple AI agents in parallel, elevating strategic direction over line-by-line coding.
@@ -35,11 +36,13 @@
 - `INS-260329-3489` [high] Experts shift from spending 90% of time generating to spending most time on QA and validation of AI output.
 - `INS-260408-3691` [high] Hassabis to students: 'immerse myself in every tool available and become almost like superpowered' — the gap is creative application, not technical skill.
 - `INS-260410-045C` [high] Humans are valuable precisely because no one has to build a bespoke training loop to teach them each new lab-specific or company-specific skill.
+- `INS-260410-56B4` [high] If a problem lives in well-documented territory (bank conflicts, SIMD, common compiler tricks), a frontier model will likely outperform humans on it within hours.
 - `INS-260410-D834` [high] People who imagine fast automation are mentally modeling jobs as one simple task, but real jobs are bundles of many competences—automating the headline task barely moves the needle.
 - `INS-260320-5F14` [high] "Even if an AI is always going to be better than you at something, you can still learn that thing. You can still enrich yourself intellectually."
 - `INS-260327-32F1` [high] Career advice from successful people is inherently flawed by survivorship bias (only winners speak) and confirmation bias (they accentuate positives and eliminate negatives in retrospect).
 - `INS-260325-ADF5` [high] Open Router reports that sales and support staff are building agents that multiply their output, doing in hours what previously took days — the transformation is not engineers getting faster but non-engineers becoming builders.
 - `INS-260320-F78E` [high] Prompt engineering is like playing piano — you can't just sit down and start; it requires practice and iteration to develop the skill.
+- `INS-260410-5AB5` [high] Job-representative interviews were always the gold standard, but once models can do the job in 2 hours, 'representative' and 'AI-resistant' become incompatible goals.
 - `INS-260403-5BCF` [high] Section 230 locked in rules before anyone understood social media's impact, leaving AI regulation as the chance to avoid repeating that mistake.
 - `INS-260321-988C` [high] A worker saving 20% of their time is 'soft savings' — employers rarely productively reallocate that 20% immediately. Individual task speedups don't automatically translate to enterprise-level value.
 - `INS-260325-4846` [high] Every successful technology follows the same S-curve adoption pattern, and AI is at its steepest inflection.
@@ -73,6 +76,7 @@
 - `INS-260410-098A` [medium] The winning career bet isn't avoiding automation — it's positioning to manage ever-larger fleets of AI workers, which still rewards deep fundamentals and frontier proximity.
 - `INS-260402-2D38` [medium] Finite compute forces allocation tradeoffs that keep humans economically relevant regardless of AI capability.
 - `INS-260329-92C3` [medium] Dr. Chuck's progression from variables through databases to web APIs teaches data-structural thinking — a meta-skill that makes AI coding assistants dramatically more useful because you can specify what you want in terms machines understand.
+- `INS-260410-DD0E` [medium] Hume implemented an entirely new take-home design in under a day by having Claude write it, then used Claude's solving attempts as the design's difficulty oracle.
 - `INS-260410-204E` [medium] Cognitive labor is not static — as AI automates triaging email, the new cognitive labor becomes reviewing the three drafts the agent selected, and the pattern continues up the abstraction ladder.
 - `INS-260402-1640` [medium] AI threatens humans not by replacing their jobs but by competing for shared resources like energy and land.
 - `INS-260403-A101` [medium] AI will commoditize taste (evaluating what worked before) just as it commoditized craft, leaving forward-looking expression as the only durable human advantage.

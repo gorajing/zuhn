@@ -56,11 +56,12 @@ stance: >-
   preference but functions as empirical data about the structure of reality,
   similar to how scientific observations point to physical laws.
 related:
-  - INS-260327-A620
   - INS-260403-A5FF
   - INS-260403-31B1
+  - INS-260327-A620
   - PRI-260325-1640
   - INS-260325-ADF3
+  - INS-260410-E4C4
 evidence:
   - id: INS-260325-ADF3
     type: SUPPORTS

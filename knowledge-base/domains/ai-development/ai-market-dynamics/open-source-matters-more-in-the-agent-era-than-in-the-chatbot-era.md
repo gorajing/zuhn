@@ -46,10 +46,10 @@ stance: >-
   entire multi-step systems, not just single responses.
 related:
   - INS-260405-CA27
+  - INS-260410-0E26
   - INS-260403-2152
   - PRI-260406-D8C3
   - INS-260322-CC69
-  - INS-260329-FEBA
 evidence:
   - id: INS-260403-2152
     type: REFINES

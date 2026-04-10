@@ -55,7 +55,7 @@ related:
   - INS-260409-FDB4
   - INS-260403-BAE1
   - INS-260329-D481
+  - INS-260410-D034
   - INS-260409-160F
-  - INS-260330-EF64
 ---
 Appleton demonstrates that custom prompts CAN elicit critical engagement — her 'Scholarly Inquisitor' Claude style is a working example. But she explicitly rejects this as a solution: 'Putting the onus on the user sidesteps the problem.' Most everyday users do not know the default chatbot personality is structurally fawning, do not know they can override it, and do not have the prompt engineering skills to write 'one that balances harsh critique with kindness, questions their assumptions while still being encouraging, and productively facilitates a challenging discussion.' The set of users who can craft critical-thinking prompts is a small fraction of the set who would benefit from them. Defaults are what ship to 99% of users, and the default is the problem. This is a durable product design principle: if a feature requires users to discover and manually enable it, it does not exist for most users.

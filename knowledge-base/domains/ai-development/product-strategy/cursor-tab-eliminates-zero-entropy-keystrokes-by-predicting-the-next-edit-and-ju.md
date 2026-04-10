@@ -49,11 +49,11 @@ resolutions:
     This represents a paradigm shift from autocomplete to next-action prediction
     in programming tools.
 related:
+  - INS-260410-1030
   - INS-260323-8897
   - INS-260323-E2ED
   - INS-260403-AC03
   - PRI-260405-0676
-  - INS-260323-E0B5
 stance: >-
   Once a developer's intent is determined, all remaining keystrokes to express
   that intent are zero-entropy actions that AI should eliminate via next...

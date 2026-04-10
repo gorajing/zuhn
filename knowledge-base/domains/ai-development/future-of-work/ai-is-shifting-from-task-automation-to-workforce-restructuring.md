@@ -46,16 +46,16 @@ stance: >-
   The agentic AI transition represents a qualitative shift from automating
   individual tasks to restructuring entire job roles and team compositions
 related:
-  - INS-260322-EAB6
   - INS-260326-2410
   - INS-260327-C1A4
-  - INS-260327-13B3
   - INS-260327-0246
   - PRI-260328-8317
   - PRI-260328-3094
   - INS-260403-4D80
   - INS-260403-3587
   - INS-260405-1282
+  - INS-260403-D51A
+  - INS-260403-656F
 ---
 Early AI adoption focused on automating discrete tasks—summarizing documents, generating code snippets, answering queries. The agentic workforce paradigm shifts this from task substitution to role restructuring: AI agents that can plan, execute multi-step workflows, and collaborate with humans fundamentally change team composition rather than just speeding up existing workflows.
 

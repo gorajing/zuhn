@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-10 | 4644 actionable insights
+Generated on 2026-04-10 | 4694 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -59,10 +59,47 @@ Generated on 2026-04-10 | 4644 actionable insights
 - [INS-260409-95C8] Your questions reveal what matters; file the answers back as permanent wiki pages or lose that signal.
 - [INS-260409-8408] MemPalace's 4-layer stack (L0 identity always loaded at ~50 tokens, L1 critical facts always loaded at ~120 tokens, L2 room recall on demand, L3 deep search on demand) gives agents ~170 tokens of persistent identity before any query fires.
 - [INS-260409-6560] MemPalace's 96.6% LongMemEval R@5 comes from raw verbatim ChromaDB storage; their own AAAK lossy compression scores only 84.2% — a 12.4 point regression that inverts the expected efficiency-quality trade-off at small scales.
+- [INS-260410-3601] The quality of the test/verifier is the binding constraint on what an unsupervised agent can actually achieve.
+- [INS-260410-9F17] If a human engineer can't definitively say which tool to use in a given situation, the agent can't be expected to do better.
+- [INS-260410-0E26] Start with single LLM calls plus retrieval and examples; add workflow complexity only when a simpler solution measurably fails, and add autonomous agents only when workflows measurably fail.
+- [INS-260410-37D5] Compaction preserves continuity but doesn't cure context anxiety; only a fresh agent with a handoff artifact does.
+- [INS-260410-0FC1] Redesign the test and log UX around the agent's cognitive constraints: short outputs, greppable ERROR lines, precomputed summaries, deterministic sampling.
+- [INS-260410-A1E9] Anthropic treats tool specs as a UI design problem — they iteratively probed for misunderstandings and rewrote descriptions to preempt them.
+- [INS-260410-F910] Tools for agents should be purpose-built around agent workflows, not mechanical wrappers of existing API endpoints.
+- [INS-260410-38C8] The SWE-bench agent always requires absolute paths and only performs an edit when `old_str` matches exactly once — both choices eliminate entire classes of silent failure.
+- [INS-260410-E27A] Tool error responses are prompt-engineering surfaces — use them to teach agents correct usage, not just to report failure.
+- [INS-260410-1B17] Schemas express what is valid; examples express what is idiomatic — and models need the latter to call complex tools correctly.
+- [INS-260410-19DE] Smart agents use file paths, queries, and links to fetch data on demand — like humans use file systems and bookmarks rather than memorizing everything.
+- [INS-260410-D250] Natural-language tool chains force every intermediate result through the context window; code orchestration keeps only the final answer.
+- [INS-260410-60C8] Preloading every tool definition burns context before work begins; discoverable tools preserve the window for actual reasoning.
+- [INS-260410-1A22] Pick the tool-use feature that solves your actual bottleneck — definition bloat, intermediate data, or parameter errors — not all three by default.
+- [INS-260410-CD79] Anthropic's SOTA SWE-bench agent used only a prompt plus a Bash tool and an edit tool, deliberately avoiding hardcoded step transitions.
+- [INS-260410-77E5] Multi-agent systems burn ~15x the tokens of a chat and only pay off for parallelizable, high-value research tasks — not coding or tightly-coupled domains.
+- [INS-260410-7ED2] When 16 agents all hit the same bug compiling one giant artifact, decompose by using a known-good oracle to narrow the failing subset per agent.
+- [INS-260410-EE5C] Return semantically meaningful names instead of UUIDs in tool responses because agents handle natural language identifiers far more reliably.
+- [INS-260410-AA6E] A separate evaluator agent is far more tractable to tune toward skepticism than convincing a generator to be critical of its own output.
+- [INS-260410-BDFF] Assign a subset of parallel agents to cross-cutting concerns — dedup, perf, Rust idiom critique, docs — rather than putting all agents on the main task.
+- [INS-260410-BBEA] Agent frameworks hide the underlying prompts and make debugging harder, so start with direct LLM API calls — most patterns are a few lines of code — and adopt frameworks only when their value exceeds the opacity cost.
+- [INS-260410-E4C4] 'Is this beautiful?' is unanswerable, but 'does this follow our design principles?' gives the model something concrete to grade against.
+- [INS-260410-9EFC] Context is not free real estate — every token spent depletes the model's attention budget, so curate aggressively.
+- [INS-260410-9D86] Invest as much effort in agent-computer interfaces as you would in human-computer interfaces — clear tool descriptions, example usage, poka-yoke constraints, and formats close to natural training data all compound into reliability.
+
+- [INS-260410-1030] Workflows orchestrate LLMs through predefined code paths; agents let LLMs dynamically direct their own process and tool use — pick deliberately based on whether you need predictability or flexibility.
+- [INS-260410-F259] System prompts fail at two extremes: brittle hardcoded if-else logic or vague high-level guidance — aim for the middle altitude.
 
 ## ai-development/agents
 - [INS-260405-FE94] Coinbase's Agentic Wallets let AI agents hold funds, pay for APIs, and execute trades without human approval at each step.
 - [INS-260405-CC9D] Prototyping an agent and deploying it reliably in production are fundamentally different engineering problems.
+- [INS-260410-F0EF] Manual approval prompts fail at scale because users stop paying attention — Anthropic measured 93% acceptance rates.
+- [INS-260410-F40F] One-sided evals create one-sided optimization — if you only test when the agent should search, you'll get an agent that searches for everything.
+- [INS-260410-14E5] Return denials as tool results so false positives cost a single retry instead of killing the session.
+- [INS-260410-F5EC] Generate dozens of evaluation tasks grounded in real data sources that require chained, multi-step tool calls rather than single-shot lookups.
+- [INS-260410-5D66] Grading tool-call sequences creates brittle evals that punish creativity; grade the outcome and the transcript holistically instead.
+- [INS-260410-4067] Strip assistant text and tool outputs from the classifier's view so it judges actions, not rationalizations.
+- [INS-260410-E3BB] A 0% pass rate across many trials is almost always a broken task or grader, not an incapable model — verify by reading transcripts.
+- [INS-260410-AF66] Bootstrap agent evals from 20-50 real failure cases; effect sizes are large early so small samples suffice.
+- [INS-260410-376A] Gate expensive chain-of-thought reasoning behind a cheap single-token filter tuned for high recall.
+- [INS-260410-83EC] Claude Code is an expert at reading evaluation transcripts and refactoring tool implementations and descriptions to improve performance.
 
 ## ai-development/ai-agents
 - [INS-260320-E6DD] Structure knowledge as a relational database (entities + relationships), not text blobs. Every Claude instance reads/writes the same structured knowledge base.
@@ -235,6 +272,11 @@ Generated on 2026-04-10 | 4644 actionable insights
 - [INS-260320-E872] Be as specific as possible about desired results — vague prompts produce vague implementations.
 - [INS-260320-96C9] If output quality seems worse, self-reflect on how you're prompting before blaming the model.
 - [INS-260320-F872] Skills handle 'how to write code' guidelines while CLAUDE.md handles 'how this specific project works' — keep them separate.
+- [INS-260410-D034] If you've corrected Claude twice on the same issue, stop correcting — /clear and restart with a prompt that incorporates what you learned.
+- [INS-260410-6B30] Treat CLAUDE.md like code — prune ruthlessly, and if Claude keeps violating a rule, the file is probably too long, not too short.
+- [INS-260410-761B] Most Claude Code best practices reduce to one principle: the context window fills fast and performance degrades as it fills.
+- [INS-260410-DABE] Always provide tests, example cases, screenshots, or a command Claude can run to verify its own output.
+- [INS-260410-796F] Use subagents for any task that reads many files — they run in their own context window and return only summaries.
 
 ## ai-development/embeddings
 - [INS-260402-1D32] Using tiered similarity thresholds (auto-accept above 0.8, offer with confirmation at 0.7-0.8, re-research below 0.7) balances cache hit rates against accuracy.
@@ -278,6 +320,9 @@ Generated on 2026-04-10 | 4644 actionable insights
 - [INS-260408-3691] Hassabis to students: 'immerse myself in every tool available and become almost like superpowered' — the gap is creative application, not technical skill.
 - [INS-260410-8767] Zuckerberg predicts most Meta AI-research code will be written by goal-driven AI agents within 12-18 months, replacing human-authored code rather than just augmenting it.
 - [INS-260410-098A] The winning career bet isn't avoiding automation — it's positioning to manage ever-larger fleets of AI workers, which still rewards deep fundamentals and frontier proximity.
+- [INS-260410-2D5D] Hume observed that over 50% of candidates would have been better off delegating entirely to Claude Code well before Opus 4 explicitly broke his test.
+- [INS-260410-DD0E] Hume implemented an entirely new take-home design in under a day by having Claude write it, then used Claude's solving attempts as the design's difficulty oracle.
+- [INS-260410-56B4] If a problem lives in well-documented territory (bank conflicts, SIMD, common compiler tricks), a frontier model will likely outperform humans on it within hours.
 
 ## ai-development/governance
 - [INS-260409-B005] 80% of Americans want AI regulated — a rare civic consensus — and frontier labs are spending hundreds of millions to kill it; the organizing opening is real.
@@ -467,6 +512,8 @@ Generated on 2026-04-10 | 4644 actionable insights
 - [INS-260405-880C] Prompt engineering has an accumulating body of research-backed techniques that reward systematic study over ad-hoc experimentation.
 - [INS-260410-B8EB] The same structured data in YAML costs roughly 15% fewer tokens than JSON, which matters for context length and API bills.
 - [INS-260410-18CF] Start a new chat whenever you switch topics — leftover tokens distract the model and slow sampling without improving answers.
+- [INS-260410-AB4A] Anthropic built a tool-testing agent that used a flawed MCP tool, then rewrote its description — future agents using the new description completed tasks 40% faster.
+- [INS-260410-096F] When the lead agent delegates with instructions as terse as 'research the semiconductor shortage,' subagents duplicate each other's work or wander off-topic — detailed task contracts are mandatory.
 
 ## ai-development/research-methodology
 - [INS-260408-F58E] Isomorphic's pipeline screens binding + cross-target toxicity in silico, then only validates the final candidates in the wet lab.
@@ -565,6 +612,12 @@ Generated on 2026-04-10 | 4644 actionable insights
 - [INS-260410-351E] sum(dim=1) without keepdim=True returns a 1D vector that broadcasting silently treats as a row vector, which normalizes columns instead of rows — producing garbage with no error.
 - [INS-260410-B501] view() just rewrites stride/shape metadata on the same storage; cat() allocates — so prefer view whenever possible.
 - [INS-260409-B13F] MemPalace stores conversations verbatim and uses structure plus semantic search to find what matters at query time, rather than extracting 'user prefers Postgres' and discarding the conversation that explained why.
+- [INS-260410-9DB0] Every piece of a harness encodes an assumption about what the model can't do; those assumptions are worth re-stress-testing each model release.
+- [INS-260410-25AC] Constrain planner agents to deliverables and high-level design — granular technical decisions made upfront propagate errors into the implementation.
+
+## ai-development/system-design
+- [INS-260410-1ED3] In agentic systems a minor bug cascades across many turns, so production requires resumable execution, retry logic, and rainbow deployments — not stateless request handling.
+- [INS-260410-A27C] Because agents are non-deterministic across runs, grade final outputs with an LLM judge on a rubric and start with ~20 real queries — not hundreds of rigid test cases.
 
 ## ai-development/systems-design
 - [INS-260404-C663] Components tuned for original conditions do not just underperform in new environments — they generate actively harmful outputs.

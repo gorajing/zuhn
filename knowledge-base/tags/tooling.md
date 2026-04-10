@@ -1,5 +1,6 @@
 # Tag: tooling
 
+- `INS-260410-0FC1` Redesign the test and log UX around the agent's cognitive constraints: short outputs, greppable ERROR lines, precomputed summaries, deterministic sampling.
 - `INS-260329-294C` Reducing toolchain complexity for beginners removes failure modes unrelated to the skill being learned, keeping focus on core concepts.
 - `INS-260402-E470` Choosing a more expressive language creates a development velocity gap competitors cannot close by hiring more people.
 - `INS-260403-E4DD` Fragmented financial tracking across multiple tools creates version control chaos and mismatched assumptions that unravel during investor due diligence.

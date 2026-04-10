@@ -52,11 +52,10 @@ stance: >-
   achieving feature parity with the human interface.
 related:
   - PRI-260320-097F
+  - INS-260410-F910
   - INS-260323-BF81
   - INS-260404-8E0D
   - INS-260327-BB71
-  - INS-260323-4B4D
-  - INS-260327-D020
   - INS-260329-917B
   - INS-260402-2342
   - INS-260402-237D

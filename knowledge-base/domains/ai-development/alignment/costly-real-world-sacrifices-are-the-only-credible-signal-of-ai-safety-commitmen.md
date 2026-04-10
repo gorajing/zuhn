@@ -50,7 +50,6 @@ stance: >-
 related:
   - INS-260323-6F66
   - INS-260327-DCAF
-  - INS-260327-015B
   - INS-260327-80DC
   - INS-260327-1439
   - INS-260330-7711
@@ -58,6 +57,7 @@ related:
   - INS-260403-C8EF
   - INS-260323-BC61
   - INS-260330-D7CC
+  - INS-260403-35E1
 ---
 Anthropic's refusal to drop usage policy guardrails under Pentagon pressure — risking potential destruction via supply chain designation — provides a credibility signal that no safety paper or responsible scaling policy could match. Scott Alexander argues this willingness to have a 'hill to die on' is precisely what makes Dario Amodei a 'precious resource' for AI safety.
 

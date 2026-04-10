@@ -50,10 +50,10 @@ stance: >-
   that risk exposure is a component of meaningful life.
 related:
   - INS-260327-032F
+  - INS-260410-9B0E
   - INS-260325-5A72
   - PRI-260323-50FE
   - INS-260327-1845
-  - INS-260403-9012
   - INS-260330-AE70
 evidence:
   - id: INS-260322-D2E9

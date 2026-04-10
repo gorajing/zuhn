@@ -46,7 +46,6 @@ stance: >-
   The single most important milestone for beginner programmers is reading and
   writing files, not mastering algorithms or data structures
 related:
-  - INS-260320-A4BF
   - INS-260323-042C
   - INS-260325-AEF5
   - INS-260329-3D28
@@ -56,6 +55,7 @@ related:
   - INS-260329-ED44
   - INS-260330-202A
   - INS-260329-74E5
+  - INS-260329-F362
 evidence:
   - id: INS-260325-AEF5
     type: SUPPORTS

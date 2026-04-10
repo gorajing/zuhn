@@ -56,13 +56,13 @@ related:
   - INS-260321-807B
   - INS-260321-015B
   - PRI-260328-3094
-  - INS-260402-543E
   - INS-260402-8170
   - INS-260404-BD96
   - PRI-260328-9F8C
   - PRI-260328-8317
   - INS-260403-3760
   - INS-260403-5DAD
+  - INS-260405-B88A
 ---
 A seismic shift has occurred inside software: the transition from co-pilots (suggestion and speed) to agents (autonomous outcomes). In the old model, AI features sat on top of existing workflows — autocomplete, summarize, recommend. In the new model, agents own the workflow itself: they read the brief, execute the task, and report completion. A legal co-pilot drafts a clause; a legal agent files the document.
 

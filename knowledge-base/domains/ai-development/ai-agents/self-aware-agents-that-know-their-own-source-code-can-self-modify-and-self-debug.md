@@ -52,13 +52,14 @@ resolutions:
     multiplier for both development velocity and accessibility.
 related:
   - INS-260320-1B10
-  - INS-260320-9D89
   - INS-260405-E8A1
+  - INS-260320-9D89
   - INS-260322-96D1
-  - INS-260405-2BB0
-  - INS-260327-63B5
+  - INS-260410-1030
   - INS-260402-2342
+  - INS-260405-2BB0
   - INS-260409-9296
+  - INS-260410-CD79
 stance: >-
   Making an AI agent aware of its own source code, harness, documentation, and
   model enables self-modification

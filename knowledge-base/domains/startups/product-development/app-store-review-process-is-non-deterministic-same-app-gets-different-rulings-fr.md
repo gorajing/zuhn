@@ -47,14 +47,14 @@ stance: >-
   judgments to be solved.
 related:
   - INS-260404-5365
+  - INS-260410-F0EF
   - INS-260405-02BE
   - INS-260330-178D
   - PRI-260323-8EEA
-  - INS-260403-E482
   - INS-260329-79D3
   - INS-260403-F7A9
-  - INS-260403-5137
   - INS-260403-23AA
+  - INS-260410-14E5
 evidence:
   - id: INS-260320-1B10
     type: CONTRADICTS

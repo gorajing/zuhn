@@ -49,7 +49,7 @@ related:
   - INS-260322-019A
   - INS-260325-040F
   - INS-260404-B208
-  - INS-260402-086D
+  - INS-260410-F910
 ---
 The Pitch Deck GPT crossed 10K+ conversations not because it accessed a better model, but because it was trained on real pitch decks from YouTube, Facebook, and Uber plus VC frameworks. The author's domain expertise as a VC determined what training data to include and how to structure the step-by-step interaction.
 

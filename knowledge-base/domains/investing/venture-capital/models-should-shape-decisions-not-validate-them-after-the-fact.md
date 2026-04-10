@@ -53,6 +53,8 @@ related:
   - INS-260403-8ECB
   - INS-260405-B361
   - INS-260403-23AA
+  - INS-260410-14E5
+  - INS-260410-4067
 ---
 Most investors and founders reach for models after a decision is emotionally made — to validate assumptions or patch errors. This inverts the entire purpose of modeling. A model used post-decision becomes a confirmation bias amplifier: you'll tweak inputs until the output matches your gut.
 

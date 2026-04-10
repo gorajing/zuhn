@@ -58,7 +58,6 @@ related:
   - PRI-260406-F937
   - INS-260330-FAB8
   - INS-260322-F6AA
-  - INS-260408-11E1
 evidence:
   - id: INS-260323-E520
     type: TRANSFERS_TO

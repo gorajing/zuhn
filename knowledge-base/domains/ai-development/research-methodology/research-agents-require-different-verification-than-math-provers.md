@@ -49,10 +49,11 @@ stance: >-
 related:
   - INS-260323-7A11
   - INS-260325-9BBC
-  - PRI-260328-8E01
   - INS-260330-BA13
+  - PRI-260328-8E01
   - INS-260330-E282
   - PRI-260406-B314
   - INS-260322-32E3
+  - INS-260410-DABE
 ---
 Prior AI math systems like AlphaProof relied on formal proof languages where a theorem prover can mechanically check correctness — this eliminates verification entirely as a design problem. But most research is not expressible in such languages: biology, physics, arithmetic geometry, and applied math all rely heavily on natural-language argumentation. Aletheia is described as operating in natural English, which forces the team to solve verification architecturally rather than formally. This distinction matters because much of the published literature on AI for math presumes formal verification is available; builders targeting other scientific domains cannot inherit this assumption and must invest in sycophancy-resistant natural-language verification from the start. The design pattern (separate thinking from answer, hide reasoning trace) is the first-principles workaround when formal checking is unavailable.

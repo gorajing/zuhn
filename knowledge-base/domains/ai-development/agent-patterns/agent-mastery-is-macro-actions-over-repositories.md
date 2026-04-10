@@ -35,11 +35,11 @@ resolutions:
     output based on how much you care about that code.
 related:
   - INS-260322-3083
+  - INS-260410-1030
   - INS-260403-08D7
   - INS-260320-1B10
   - INS-260325-031F
   - INS-260325-D540
-  - INS-260330-8F07
 stance: >-
   Stop thinking in lines of code — think in macro actions: 'agent 1 builds
   feature X, agent 2 researches Y, agent 3 plans Z' — then review their work.

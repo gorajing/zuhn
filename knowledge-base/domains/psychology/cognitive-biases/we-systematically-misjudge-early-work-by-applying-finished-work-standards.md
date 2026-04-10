@@ -55,6 +55,7 @@ related:
   - INS-260404-695D
   - INS-260403-5EE3
   - INS-260404-A1BA
+  - INS-260410-E4C4
 ---
 Creating new things is itself new for our species — it happened too slowly for most of human history for us to develop evaluation customs for early-stage work. As a result, we apply the same standards to a 20%-complete ambitious project as we would to a finished piece or a less ambitious project. This is a systematic bias, not an individual failing.
 

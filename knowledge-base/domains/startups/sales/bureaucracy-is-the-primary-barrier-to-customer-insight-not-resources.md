@@ -48,6 +48,7 @@ related:
   - INS-260410-9CF4
   - INS-260327-DECA
   - PRI-260328-0C51
+  - INS-260410-1A22
 ---
 When surveyed about obstacles to gaining customer insights, B2B professionals identified bureaucracy as the primary barrier—not time, money, or access. Legal review requirements, sales team territorial behavior, and organizational silos create more friction than any resource constraint.
 

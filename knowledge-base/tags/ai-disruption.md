@@ -18,11 +18,11 @@
 - `INS-260403-586C` Per-seat pricing breaks down when AI agents do the work instead of humans, forcing a shift to usage or outcome-based billing.
 - `INS-260404-BEAA` Reports of SaaS death are exaggerated, but the sentiment reflects genuine pressure from AI-native tools that can replicate SaaS functionality without traditional subscription models.
 - `INS-260402-C1A9` HubSpot lost millions of visits and Chegg's stock tanked because AI can now answer the same generic questions their content targeted.
+- `INS-260405-9EE4` When AI agents do the work instead of human seats, per-seat SaaS revenue evaporates.
 - `INS-260403-E4B3` AI lowers the cost of copying products, so brand and narrative become the hardest-to-replicate assets.
 - `INS-260403-5384` AI makes building software cheap, shifting competitive value from code to distribution, proprietary data, and workflow entrenchment.
 - `INS-260328-9408` None of the YC mobile winners had pre-iPhone mobile experience; the same pattern is playing out with AI disrupting SaaS.
 - `INS-260327-3DE7` AI will make it trivial to port data and clone product experiences, eroding brand as a meaningful B2B moat.
 - `INS-260404-21E6` DoorDash's value comes from its network and market position, not its code — AI tools that make cloning easy don't threaten network-effect moats.
 - `INS-260328-57CF` Businesses being killed by AI disruptors will have to ignore all their process people — the innovator's dilemma means too many stakeholders are excited about doing A to allow B to happen.
-- `INS-260405-9EE4` When AI agents do the work instead of human seats, per-seat SaaS revenue evaporates.
 - `INS-260404-D6F7` As AI makes coding more accessible, YC's edge in picking technical founders diminishes because engineering skill becomes less of a differentiator.

@@ -57,5 +57,6 @@ related:
   - INS-260403-08D7
   - INS-260410-2307
   - INS-260403-656F
+  - INS-260410-BDFF
 ---
 Even high-end MacBook Pros start 'sounding like an airplane taking off' with just 3-4 git worktrees running concurrent agent sessions. Stripe solves this by provisioning isolated cloud development environments (devboxes) for each minion, complete with the full codebase, running services, CI tooling, and test data. This enables true parallelism — an engineer can kick off 10 minions simultaneously from Slack, even from their phone on the subway. The practical implication is that teams investing in AI coding tools without investing in cloud development environments are artificially capping their throughput. The Mac Mini workaround (buying machines that don't sleep) is a symptom of this infrastructure gap. Engineering leaders should prioritize cloud dev environments as the enabling infrastructure for agentic engineering, not just as a developer convenience.

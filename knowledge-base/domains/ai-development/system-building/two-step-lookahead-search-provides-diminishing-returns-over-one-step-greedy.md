@@ -50,11 +50,11 @@ stance: >-
   from 3.6 to 3.43, suggesting that greedy entropy maximization captures most of
   the value and deeper search yields diminishing returns.
 related:
-  - INS-260325-9C89
   - INS-260330-4267
+  - INS-260325-9C89
+  - INS-260410-CAA4
   - PRI-260406-F95C
   - INS-260321-BFA3
-  - INS-260402-2CAF
 evidence:
   - id: INS-260329-4986
     type: CHALLENGES

@@ -51,10 +51,10 @@ stance: >-
   diverse and ultimately weaker teams
 related:
   - INS-260329-9A7F
+  - INS-260410-5AB5
   - INS-260326-7B2A
   - INS-260329-A937
   - INS-260403-2718
-  - INS-260325-9F01
 ---
 When startups set extreme hours as baseline expectations, they implicitly filter out caregivers, people managing health challenges, and experienced operators who value balance. What remains is a narrow talent slice — often younger, less diverse, and not necessarily more capable. The irony is that a culture designed to screen for 'commitment' screens out exactly the perspective and resilience that helps startups survive long-term challenges.
 

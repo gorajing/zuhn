@@ -54,6 +54,7 @@ related:
   - INS-260330-281A
   - INS-260403-DC4A
   - INS-260403-C737
+  - INS-260410-5AB5
   - INS-260403-2F28
 ---
 Multiple founders independently converged on the same realization: interview performance and job performance are weakly correlated. Matt Mullenweg (Automattic) noted they were being influenced by charm and speaking manner that had no bearing on actual work. James Hawkins (PostHog) found it 'frequently surprising how someone performs relative to what we thought in the interviews.'

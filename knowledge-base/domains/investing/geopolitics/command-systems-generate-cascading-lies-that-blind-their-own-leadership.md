@@ -60,9 +60,9 @@ stance: >-
 related:
   - PRI-260328-4FA6
   - PRI-260406-9DD4
+  - INS-260410-25AC
   - INS-260330-0BD3
   - PRI-260323-AEE6
-  - PRI-260328-5D9E
 ---
 Paine explains the mechanism clearly: a subunit needing inputs from central planning has to understate inventories and overstate needs to ensure supply, and every layer above does the same. The system rewards reporting that games the plan, not reporting that reflects reality. Without market prices as an external signal, there is no ground truth to correct the drift. The famous example: steel mills optimized for tonnage by making unnecessarily thick bars, then downstream factories had to thin them, and both operations counted toward GDP.
 

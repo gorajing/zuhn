@@ -54,7 +54,8 @@ related:
   - PRI-260328-A65A
   - INS-260330-7E4F
   - INS-260405-AFF7
-  - INS-260325-D540
+  - INS-260410-1030
+  - INS-260410-CD01
 ---
 Alfred Lin at Sequoia observes that the best builders have shifted from writing every line of code to directing fleets of AI coding agents working simultaneously. This is not just a productivity hack — it's a fundamental role transformation analogous to the shift from individual contributor to strategic commander.
 

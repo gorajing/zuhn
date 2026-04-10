@@ -47,10 +47,10 @@ stance: >-
   the overhead.
 related:
   - INS-260329-03B5
+  - INS-260410-1ED3
   - PRI-260405-3080
   - INS-260329-F84E
   - INS-260329-D2CA
-  - INS-260326-80B1
 evidence:
   - id: INS-260329-D2CA
     type: SUPPORTS

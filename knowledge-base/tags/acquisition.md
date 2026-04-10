@@ -8,9 +8,9 @@
 - `INS-260403-CD51` Instagram's replication of Snapchat's Stories feature—surpassing the original within a year—illustrates how incumbents with larger user bases can neutralize small-team innovation through rapid copying.
 - `INS-260403-6D8C` Cohort-level CAC payback reveals which acquisition channels and time periods produce self-funding growth versus cash-burning growth.
 - `INS-260405-E7EF` The self-serve free trial model is losing efficacy in B2B SaaS as buyers expect more guided, outcome-focused evaluation experiences.
-- `INS-260403-9CD9` The richest founders aren't money-driven — they're world-improvers who keep building past the acquisition offers that money-motivated founders accept.
 - `INS-260403-2D68` Acquirers price current revenue while founders with infrastructure moats can rationally price the compounding potential of their regulatory and technical assets.
 - `INS-260403-C349` Synthesia rejected $3B acquisition offers from Adobe and Meta, then raised $180M independently after enduring 100 rejections.
 - `INS-260404-F589` Large-scale exits increasingly reward companies with defensible go-to-market strategies over pure product innovation.
+- `INS-260403-9CD9` The richest founders aren't money-driven — they're world-improvers who keep building past the acquisition offers that money-motivated founders accept.
 - `INS-260404-A15B` Incumbents reject better technology when the status quo is irrationally profitable.
 - `INS-260330-98EA` The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples.

@@ -51,9 +51,9 @@ stance: >-
 related:
   - INS-260327-E0B0
   - INS-260410-7E29
+  - INS-260410-AB4A
   - INS-260403-976C
   - INS-260403-4819
-  - INS-260327-19D2
 ---
 The US military used AI — including Anthropic's Claude — for real-time intelligence assessment, target identification, mission planning, and battle damage evaluation during the Iran campaign. This represents the most advanced operational AI deployment in warfare to date, moving beyond the experimental uses seen in Ukraine.
 

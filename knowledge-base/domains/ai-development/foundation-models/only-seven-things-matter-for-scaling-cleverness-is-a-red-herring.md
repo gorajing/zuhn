@@ -69,10 +69,10 @@ related:
   - INS-260329-3EB6
   - INS-260329-D8BC
   - INS-260329-89E9
-  - INS-260402-1D32
   - INS-260403-0902
   - INS-260326-CAAB
   - INS-260330-FF94
+  - INS-260403-A9F3
 ---
 Amodei wrote the 'Big Blob of Compute' hypothesis in 2017, before GPT-1 was released, as a general theory about all of AI — robotics, reasoning, RL, and language. It listed seven things that matter: compute, data quantity, data quality and breadth of distribution, training duration, a scalable objective function (pre-training loss or RL reward), and two normalization/conditioning items that keep the compute 'flowing laminar' instead of diverging. Everything else — new methods, clever tricks, architectural breakthroughs — is noise. He now says he has seen nothing in the years since that contradicts this.
 

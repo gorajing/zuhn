@@ -44,7 +44,6 @@ stance: >-
   Iterative conversational refinement through small prompt adjustments produces
   better applications than attempting comprehensive upfront specification.
 related:
-  - INS-260325-DB7D
   - INS-260320-47DC
   - INS-260322-24FB
   - INS-260323-F15D
@@ -54,6 +53,7 @@ related:
   - INS-260403-31E4
   - INS-260402-543E
   - INS-260403-49D1
+  - PRI-260403-7585
 evidence:
   - id: INS-260322-24FB
     type: SUPPORTS

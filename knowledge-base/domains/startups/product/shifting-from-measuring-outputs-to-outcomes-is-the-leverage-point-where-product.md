@@ -48,7 +48,6 @@ stance: >-
   more business value because outcome orientation forces continuous validation
   of whether shipped work actually changes user behavior.
 related:
-  - INS-260320-4A82
   - INS-260327-4CB3
   - INS-260403-1E4A
   - INS-260403-FB4D
