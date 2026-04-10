@@ -1,5 +1,5 @@
 # Tag: saying-no
 
+- `INS-260329-C881` Declare a bounded period where you reject all non-essential commitments to create space for breakthrough execution.
 - `INS-260330-6A94` Reclaiming your time follows a progression — roommates, commute, alarm clock, calendar, email — and each stage requires disappointing someone.
 - `INS-260329-DEE5` Frame ruthless prioritization as a temporary 'season of no' to make the sacrifice psychologically sustainable.
-- `INS-260329-C881` Declare a bounded period where you reject all non-essential commitments to create space for breakthrough execution.

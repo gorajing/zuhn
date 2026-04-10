@@ -52,12 +52,11 @@ stance: >-
   integration added build data network effects that make their product
   exponentially harder to displace over time.
 related:
-  - INS-260327-368D
-  - INS-260330-4370
   - INS-260327-E0B0
   - INS-260403-7A48
   - INS-260330-7FFE
   - INS-260403-B6C6
+  - INS-260330-4370
 evidence:
   - id: INS-260327-E0B0
     type: SUPPORTS

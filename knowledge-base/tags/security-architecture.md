@@ -1,3 +1,4 @@
 # Tag: security-architecture
 
+- `INS-260410-CA42` Filesystem and network isolation are coupled defenses — either alone leaves an agent compromise trivially exploitable.
 - `INS-260323-A3DB` Saudi Arabia and Gulf states are accelerating their pivot toward China because the US repeatedly failed to protect oil infrastructure (Aramco 2019, current Iran strikes on Qatar/Saudi/UAE) while prioritizing Israel — creating a structural shift in Middle East security alignment.

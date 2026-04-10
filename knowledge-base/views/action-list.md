@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-10 | 4723 actionable insights
+Generated on 2026-04-10 | 4726 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -290,6 +290,9 @@ Generated on 2026-04-10 | 4723 actionable insights
 - [INS-260410-DABE] Always provide tests, example cases, screenshots, or a command Claude can run to verify its own output.
 - [INS-260410-796F] Use subagents for any task that reads many files — they run in their own context window and return only summaries.
 - [INS-260410-B118] Anthropic recommends a prompt template that explicitly instructs Claude Code to read three spec URLs (README, MANIFEST, examples) before writing extension code.
+- [INS-260410-E233] Fewer approval prompts inside well-defined sandboxes produce safer outcomes than many prompts against a trust-nothing baseline.
+- [INS-260410-992A] Keep real credentials outside the sandbox and hand the agent short-lived scoped tokens the proxy translates into the real auth at the boundary.
+- [INS-260410-CA42] Filesystem and network isolation are coupled defenses — either alone leaves an agent compromise trivially exploitable.
 
 ## ai-development/embeddings
 - [INS-260402-1D32] Using tiered similarity thresholds (auto-accept above 0.8, offer with confirmation at 0.7-0.8, re-research below 0.7) balances cache hit rates against accuracy.

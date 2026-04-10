@@ -53,11 +53,12 @@ stance: >-
   judgment through rule execution, system orchestration, ML adaptation, to fully
   autonomous agents — and the industry is now entering level five.
 related:
-  - INS-260325-031F
   - INS-260327-77E5
   - PRI-260328-1ED1
   - INS-260403-10CE
+  - INS-260325-031F
   - PRI-260328-9F8C
   - INS-260327-C1A4
+  - INS-260410-761E
 ---
 Chamath outlines five levels of investing autonomy that parallel frameworks seen in self-driving cars and other AI domains. Level 1 is pure human judgment (information scarcity era). Level 2 is rule-based execution (if signal, then trade). Level 3 is system orchestration (integrated fintech stacks reducing manual handoffs). Level 4 is ML-driven adaptation (models updating from new data without reprogramming). Level 5 is fully autonomous agents that plan, act, use tools, monitor outcomes, and self-correct. The October 2025 Alpha Arena experiment — seven frontier AI models each managing $10,000 with zero human intervention — marks the beginning of Level 5. This framework is useful for mapping where any AI application sits on the autonomy spectrum and identifying what capabilities are needed to advance to the next level. The pattern of 'autonomy levels' recurs across domains because it captures a genuine capability ladder from reactive to proactive to self-correcting systems.

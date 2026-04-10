@@ -472,6 +472,7 @@ Generated on 2026-04-10 | 2548 sources
 | Lies We Tell Kids | blog | 5 | 2026-03-31 |
 | Links For February 2026 | blog | 5 | 2026-03-30 |
 | Liquid and Illiquid Careers📈, 5 AI Distribution Plays That Build Moats🚀, Notes on China🏭 | blog | 5 | 2026-03-30 |
+| Making Claude Code more secure and autonomous with sandboxing | blog | 5 | 2026-04-10 |
 | Mark Cuban Interview: Startup Lessons, AI Insights, and Dealflow Opportunities for Founders | blog | 5 | 2026-03-30 |
 | Maybe you should have bought an electric car | blog | 5 | 2026-03-30 |
 | Microsoft is Dead | blog | 5 | 2026-03-31 |
@@ -2450,7 +2451,6 @@ Generated on 2026-04-10 | 2548 sources
 | It took me 30 years to learn what I’ll tell you in 13 mins | blog | 0 | 2026-03-30 |
 | Lines Composed In A Fake Sequoia Forest | blog | 0 | 2026-03-30 |
 | Lisp for Web-Based Applications | blog | 0 | 2026-03-31 |
-| Making Claude Code more secure and autonomous with sandboxing | blog | 0 | 2026-04-10 |
 | Modeling a Wealth Tax | blog | 0 | 2026-03-31 |
 | MVP Mastery: The Key to Building What Matters 📈 | blog | 0 | 2026-03-30 |
 | Novelty and Heresy | blog | 0 | 2026-03-31 |

@@ -1,11 +1,12 @@
 # Topic: claude-code
 
-> 44 insights
+> 47 insights
 
 - `INS-260321-82FE` [very_high] Effective prompting is no longer about linguistic tricks — it's about providing the right structure: role, background, format, constraints. Description of what the output should BE matters more than instructions for what the model should DO.
 - `INS-260410-D034` [high] If you've corrected Claude twice on the same issue, stop correcting — /clear and restart with a prompt that incorporates what you learned.
 - `INS-260405-1951` [high] Claude Code built the entire Claude Cowork product with humans providing only planning and oversight, not code.
 - `INS-260320-93E1` [high] Planning is king — always use planning mode before implementation; never let the builder start without plans.
+- `INS-260410-E233` [high] Fewer approval prompts inside well-defined sandboxes produce safer outcomes than many prompts against a trust-nothing baseline.
 - `INS-260320-A4BF` [high] Attach ready-to-use utility scripts to skills so Claude references proven tools instead of reinventing test scripts from scratch.
 - `INS-260327-B539` [high] Claude Code's AutoDream periodically consolidates memory files in the background -- merging, pruning, and compacting -- creating a sleep-like cycle that keeps sessions feeling sharp rather than cluttered.
 - `INS-260320-DDFE` [high] Bash commands (grep, find) bypass Read() deny rules — they scan everything including node_modules even with deny rules configured.
@@ -17,9 +18,11 @@
 - `INS-260327-E016` [high] Long-running AI development workflows require periodic context pruning -- not just accumulation -- because bloated memory files reduce recall accuracy and waste context window tokens.
 - `INS-260410-761B` [high] Most Claude Code best practices reduce to one principle: the context window fills fast and performance degrades as it fills.
 - `INS-260327-91C7` [high] The CPS (Context-Problem-Solution) framework ensures all meeting logs converge into a single document that accumulates shared context, enabling both humans and AI models to stay aligned across iterative development.
+- `INS-260410-992A` [high] Keep real credentials outside the sandbox and hand the agent short-lived scoped tokens the proxy translates into the real auth at the boundary.
 - `INS-260320-CE36` [high] 85,000 out of 100,000 context tokens were consumed by dependency code — one bash validation hook saved 85% of the context window.
 - `INS-260320-06EF` [high] Dev docs persist on disk and survive auto-compaction — just say 'continue' in a new session to pick up where you left off.
 - `INS-260320-508F` [high] Don't lead in prompts if you want honest feedback — Claude tells you what it thinks you want to hear.
+- `INS-260410-CA42` [high] Filesystem and network isolation are coupled defenses — either alone leaves an agent compromise trivially exploitable.
 - `INS-260320-7379` [high] A Stop hook detects risky patterns (try-catch, async, DB calls) in edited files and shows gentle non-blocking self-check reminders.
 - `INS-260321-A5D4` [high] Adding instructions to fuzzy tasks creates noise, not clarity. Expert prompters write shorter prompts that define the task clearly without micromanaging execution — long prompts degrade performance around 3,000 tokens.
 - `INS-260320-0D43` [high] A PostToolUse hook tracks which files were edited, which repo they belong to, and timestamps — feeding downstream hooks like the build checker.

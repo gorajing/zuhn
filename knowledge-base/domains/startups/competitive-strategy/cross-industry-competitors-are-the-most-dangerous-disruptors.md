@@ -48,7 +48,6 @@ stance: >-
   who enter your market with fundamentally different business model
   architectures.
 related:
-  - INS-260403-0AF6
   - INS-260403-C0FE
   - INS-260403-16D7
   - INS-260330-F527

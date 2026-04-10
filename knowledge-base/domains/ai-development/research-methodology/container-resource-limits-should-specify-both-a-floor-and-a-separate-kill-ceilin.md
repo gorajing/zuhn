@@ -58,6 +58,7 @@ related:
   - PRI-260405-2A95
   - PRI-260403-9E80
   - INS-260330-3B0B
+  - INS-260410-D04D
 ---
 Container runtimes enforce resources via two parameters: a guaranteed allocation reserved up front, and a hard limit at which the container is killed. When a benchmark publishes a single spec, naive implementations set both to that number, meaning a momentary memory fluctuation kills the container. Anthropic saw 5.8% of Terminal-Bench tasks failing from infra errors under strict 1x enforcement. Terminal-Bench's own leaderboard uses a sandboxing provider that allows temporary overallocation, hiding this issue for maintainers but not for external reproducers.
 

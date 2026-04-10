@@ -1,6 +1,6 @@
 # Domain: ai-development
 
-> 1648 insights across 40 topics
+> 1653 insights across 40 topics
 
 ## Topics
 
@@ -8,7 +8,7 @@
 | ----- | -------- | ------- |
 | adoption | 48 | An MIT study found 95% of companies investing in AI tools saw zero return, pointing to a gap between AI capability and organizational readiness to deploy it effectively. |
 | agent-patterns | 99 | A generative agent paired with a filtering agent that blocks unsupported claims achieves expert-level accuracy in medical advice. |
-| agents | 17 | ReAct is an introduction to agent reasoning, not a complete architecture for production systems. |
+| agents | 19 | ReAct is an introduction to agent reasoning, not a complete architecture for production systems. |
 | ai-agents | 64 | AI agents' biggest value is eliminating the friction between idea and implementation, not writing code faster. |
 | ai-automation | 29 | Improving multi-agent systems requires observability into inter-agent conversations -- GPTers built a dashboard to view session-send exchanges between agents to understand how to improve their collaboration. |
 | ai-business-models | 1 | Microsoft is seeing strong demand for Windows 365 instances provisioned for autonomous agents that need their own machine — the per-seat business is becoming per-user-plus-per-agent. |
@@ -18,7 +18,7 @@
 | applications | 6 | An AI system routing 2,000 medical devices across 50 hospital locations cut nursing retrieval travel by 50% — staff only noticed they were happier. |
 | architecture | 26 | The control unit of a CPU is a ROM — a lookup table — and every 'decision' a computer appears to make is a deterministic table read. |
 | automation | 12 | Blockade → commerce raiding → convoying is the same pattern as every firewall → exploit → intrusion detection cycle; the ladder is older than it looks. |
-| claude-code | 44 | If you've corrected Claude twice on the same issue, stop correcting — /clear and restart with a prompt that incorporates what you learned. |
+| claude-code | 47 | If you've corrected Claude twice on the same issue, stop correcting — /clear and restart with a prompt that incorporates what you learned. |
 | economics | 9 | AI's variable inference costs prevent it from achieving the gross margins that made software companies so valuable. |
 | embeddings | 13 | Different basis choices make different operations trivial or impossible in vector spaces. |
 | foundation-models | 9 | LLMs win the AGI race, but their first act as AGIs is to replace themselves with something closer to Sutton's from-scratch experiential architecture. |

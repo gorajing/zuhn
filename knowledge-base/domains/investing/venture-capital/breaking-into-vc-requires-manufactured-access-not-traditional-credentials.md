@@ -52,5 +52,6 @@ related:
   - INS-260330-6611
   - INS-260404-1ADA
   - INS-260329-CEC5
+  - INS-260410-992A
 ---
 Venture capital firms have no standardized hiring pipeline — most roles are filled through networks, and firms strongly pattern-match on prior investment experience, elite school pedigrees, or successful founder backgrounds. For candidates without these credentials, the only path is to make yourself impossible to ignore: source and present deals to firms before being hired, build a public track record of insight through writing or angel investing, or become the go-to person in an operator community that feeds the firm's deal flow. The grit required is not just persistence but strategic visibility — showing up where decisions are made rather than waiting to be discovered.
