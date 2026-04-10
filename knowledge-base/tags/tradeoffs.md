@@ -6,15 +6,15 @@
 - `INS-260329-5B50` Most engineering optimizations are variants of one tradeoff: storing precomputed results (space) to avoid recomputing them (time).
 - `INS-260330-4A7F` Undercorrecting vision to exercise eye muscles may help the lens but starves the retina and brain of sharp signals — the tradeoff favors wearing readers.
 - `INS-260409-FD8B` A viral hit to the wrong audience is algorithmically expensive because the platform re-targets your next videos toward those off-avatar viewers.
-- `INS-260403-772D` The skills that make someone a great speaker are often orthogonal or opposed to the skills that generate good ideas.
 - `INS-260404-92B8` The block-collision pi algorithm is simultaneously the most elegant and most absurdly inefficient way to compute pi, revealing that elegance and efficiency measure fundamentally different things.
+- `INS-260403-772D` The skills that make someone a great speaker are often orthogonal or opposed to the skills that generate good ideas.
 - `INS-260403-AB5C` Increasing knowledge specialization creates more points on the performance curve, widening the gap between average (wisdom) and peaks (intelligence), forcing a civilizational choice.
 - `INS-260404-7604` Complex problems almost always have both 'chosen cost' and 'pure dysfunction' causes, and separating them improves analysis.
 - `INS-260330-0C1B` A 4:1 mechanical advantage means you pull with 1/4 the force but must pull 4x the distance — you never get something for nothing, only redistribute the cost.
-- `INS-260329-59D2` Commitment means trading novelty for loyalty, exploration for trust, and the chase for a shared journey.
 - `INS-260323-189B` Edgerton's single-frame strobe technique from the 1930s produces sharper images than a modern 20,000 FPS camera because it sacrifices all temporal resolution for maximum spatial resolution.
-- `INS-260403-410A` Easy-to-read individual lines multiplied by many more lines produces worse total readability than dense-but-fewer lines.
+- `INS-260329-59D2` Commitment means trading novelty for loyalty, exploration for trust, and the chase for a shared journey.
 - `INS-260402-B42C` A barbershop's locality limits its growth but also limits its competition to other local barbers — startups that remove such constraints face the whole world.
+- `INS-260403-410A` Easy-to-read individual lines multiplied by many more lines produces worse total readability than dense-but-fewer lines.
 - `INS-260329-3E28` Year 4 of your current business will almost always outperform year 1 of a new one — switching vehicles resets your compounding.
 - `INS-260329-727B` The fastest way to $1M/year isn't the fastest way to $10M, and the fastest way to $10M isn't the fastest way to $100M.
 - `INS-260330-D272` Chesky argues that if you want to build and sell a company in one year, the best advice is to skip culture entirely — culture's ROI is exclusively long-term.

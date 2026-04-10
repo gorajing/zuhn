@@ -1,6 +1,6 @@
 # Topic: mental-models
 
-> 87 insights
+> 88 insights
 
 - `INS-260409-3138` [high] Computers are fully explainable bottom-up from electricity through logic gates to instructions — there is no magical layer, only layers of abstraction humans haven't personally traversed.
 - `INS-260330-420B` [high] Three competing theories for the Indus Valley's decline each tell a confident story from the same absence of evidence, revealing how humans handle epistemic gaps.
@@ -52,6 +52,7 @@
 - `INS-260330-4D0E` [high] PSII contains at least 99 chemicals coordinated to achieve a single task: transferring one excited electron to a carrier molecule.
 - `INS-260330-24B6` [high] A single gunshot underwater produces three physically independent phenomena (cavitation, gas trail, shock vapor), each governed by different equations.
 - `INS-260330-A260` [high] JavaScript handles concurrency on a single thread by using an event loop to schedule callbacks, proving parallelism isn't required for concurrent I/O.
+- `INS-260410-1D9B` [high] Paine distinguishes social revolution from political revolution sharply: 'social revolution is here's a mass grave, dig it, and then you're in it' — it targets who exists in society, not just who runs it.
 - `INS-260330-628D` [high] Asking 'what can I reach by combining these primitives?' reveals the true power and limits of any system.
 - `INS-260405-7E85` [high] RuBisCo evolved to fix CO2 in a low-oxygen world, then photosynthesis flooded the atmosphere with oxygen—causing RuBisCo to mistake oxygen for CO2 roughly half the time, generating toxic waste that plants must now continuously detoxify.
 - `INS-260330-D795` [high] Kistler solved aerogel's shrinkage problem not by fighting surface tension but by heating liquid past the critical point where liquid-gas distinction ceases to exist.

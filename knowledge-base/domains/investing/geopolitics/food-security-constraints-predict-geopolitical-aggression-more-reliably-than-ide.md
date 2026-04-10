@@ -53,7 +53,6 @@ stance: >-
   foreign policy than its stated political ideology.
 related:
   - INS-260327-B4B3
-  - INS-260327-BF95
   - INS-260330-8D0C
   - INS-260330-B559
   - INS-260330-13EE
@@ -62,6 +61,7 @@ related:
   - INS-260330-F116
   - INS-260403-7285
   - INS-260405-AD58
+  - INS-260410-AA87
 evidence:
   - id: INS-260330-8D0C
     type: SUPPORTS

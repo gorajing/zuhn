@@ -51,6 +51,7 @@ related:
   - INS-260330-30DE
   - INS-260322-B33E
   - INS-260330-44EF
+  - INS-260410-E6E8
 stance: >-
   If you combine genuine novelty in synthetic biology, robotics, material
   science, and computational design simultaneously, the output is guaranteed ...

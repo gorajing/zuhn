@@ -1,6 +1,6 @@
 # Domain: startups
 
-> 4217 insights across 54 topics
+> 4219 insights across 54 topics
 
 ## Topics
 
@@ -14,7 +14,7 @@
 | community-building | 7 | A 25% hard cap for underrepresented categories lets curators correct homogeneity without destroying participant trust in merit-based selection. |
 | company-culture | 2 | Costco pays double the retail average wage and reports three times the productivity, suggesting high wages are a competitive lever rather than a constraint. |
 | competition | 2 | Pasture-raised chicken startups fail because factory-farmed chicken is legally sold as 'all-natural' and consumers assume the labels mean the same thing. |
-| competitive-strategy | 538 | 3D portfolio websites signal elite skill to non-technical evaluators while requiring only beginner-level Three.js knowledge. |
+| competitive-strategy | 540 | 3D portfolio websites signal elite skill to non-technical evaluators while requiring only beginner-level Three.js knowledge. |
 | content-strategy | 69 | Rogan gained 2 million subscribers during his cancellation attempt because the coordinated media attack inadvertently proved his independence from institutional control. |
 | customer-discovery | 4 | You cannot identify gains until you've mapped the expectation floor — everything below it is pain, everything at it is neutral. |
 | decision-making | 1 | Updating predictions to match outcomes after the fact eliminates any information the prediction contained and corrupts future calibration. |

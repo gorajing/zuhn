@@ -7,15 +7,15 @@
 - `INS-260325-DF66` Lawrence Wright argues the novel is the only art form that lets you truly enter another person's mind — journalism shows the surface, fiction reveals the interior.
 - `INS-260330-125E` Rubin describes how the brain instantly invents explanatory stories for unexpected events, then registers those invented stories as factual memories we later relay with full confidence.
 - `INS-260330-E695` Rosolie's spontaneous, profanity-filled Instagram video about Amazon fires went viral and led to the major funding that transformed Jungle Keepers, while his calculated Discovery Channel stunt backfired catastrophically.
+- `INS-260404-D711` Color-coding a Business Model Canvas exposes connections, contrasts current vs future states, and highlights validated vs uncertain assumptions.
 - `INS-260403-DED8` Cuban says the biggest Shark Tank mistake is leading with the product instead of selling yourself — business is a human relationship first.
 - `INS-260403-02CE` Page's silence let the media credit Schmidt for Google's success, demonstrating that work does not speak for itself at scale.
-- `INS-260404-D711` Color-coding a Business Model Canvas exposes connections, contrasts current vs future states, and highlights validated vs uncertain assumptions.
 - `INS-260403-E4B3` AI lowers the cost of copying products, so brand and narrative become the hardest-to-replicate assets.
 - `INS-260325-F451` Andy Raskin's strategic narrative framework: sell a movement (world shift), not a product — it unifies the entire organization around one story.
+- `INS-260323-2627` Ayn Rand's fiction changed more lives than Friedman's economics because she worked in the mythic register — creating characters people identified with and fusing emotional experience to intellectual framework.
 - `INS-260327-D2A6` Make your fundraise itself a story worth telling—unconventional approaches generate more attention than conventional pitches.
 - `INS-260321-C292` After the movie 300, Navy SEAL recruitment spiked — entertainment that inspires heroism and optimism creates the cultural conditions for industrial mobilization.
 - `INS-260403-963B` Package your message into a surprising public visual that journalists and audiences cannot ignore.
-- `INS-260323-2627` Ayn Rand's fiction changed more lives than Friedman's economics because she worked in the mythic register — creating characters people identified with and fusing emotional experience to intellectual framework.
 - `INS-260322-A02C` At pre-seed and seed stage, investors and early customers are betting on the founder's story and character, not the product.
 - `INS-260403-4730` Fundraising has a binary transition point where signal rises above noise, making incremental pitch improvements less effective than crossing the threshold.
 - `INS-260403-822B` Unicorn-creating pitch decks used simple, instantly understandable stories rather than polished design.
@@ -39,7 +39,7 @@
 - `INS-260329-086B` Use third-party stories to deliver uncomfortable truths to prospects without making them feel personally attacked.
 - `INS-260405-790A` Effective sales pitches follow a setup phase that frames the buyer's world, then a differentiated value phase that proves why your solution uniquely fits it.
 - `INS-260327-2E84` Great demos start with recapping the prospect's problem (proving you listened), then show a personalized story of their user solving it -- using their logo, their data, their team names -- with magic moments of delight.
-- `INS-260409-229B` The story of the company IS the strategy — there is no separate secret strategy document.
 - `INS-260403-DC32` Sequoia and top VCs look for 'proxy for demand' — evidence that people are already struggling with inadequate tools — rather than abstract market size numbers.
 - `INS-260403-7072` Tell stories about specific users and their problems rather than citing market size figures to convince investors of demand.
 - `INS-260322-7E86` Listeners connect to how a song makes them feel, not how technically impressive the production is.
+- `INS-260409-229B` The story of the company IS the strategy — there is no separate secret strategy document.

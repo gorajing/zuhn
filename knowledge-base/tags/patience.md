@@ -1,12 +1,12 @@
 # Tag: patience
 
 - `INS-260323-7E6F` Speed is the shortest distance between seeing and acting on an opportunity; time is making a good decision and holding it — Berkshire compounded at 20% annually from 1965-2024 by getting both right.
-- `INS-260403-2E2C` Chamath's ~$62M concentrated bet on Groq from 2017 likely returned low single-digit billions, illustrating that outsized returns require tolerating long periods where being right feels indistinguishable from being wrong.
-- `INS-260404-B640` VC illiquidity prevents investors from making behavioral mistakes by removing the option to sell during temporary drawdowns or before exponential growth materializes.
-- `INS-260404-5369` PitchBook data suggests that slower, more deliberate first-year deployment speed in VC funds correlates with stronger long-term IRR performance.
 - `INS-260327-8473` Wellington's defensive strategy in Portugal was unpopular and appeared passive but systematically destroyed French armies through attrition rather than risk.
 - `INS-260327-EF8C` Wellington watched Marmont's army for days without attacking, then struck in 40 minutes when the French overextended their line — destroying an entire army in one afternoon.
 - `INS-260327-35CB` Russia defeated Napoleon in 1812 primarily by refusing to fight decisive battles — retreating, burning their own territory, and letting distance and winter destroy the Grande Armee.
+- `INS-260403-2E2C` Chamath's ~$62M concentrated bet on Groq from 2017 likely returned low single-digit billions, illustrating that outsized returns require tolerating long periods where being right feels indistinguishable from being wrong.
+- `INS-260404-B640` VC illiquidity prevents investors from making behavioral mistakes by removing the option to sell during temporary drawdowns or before exponential growth materializes.
+- `INS-260404-5369` PitchBook data suggests that slower, more deliberate first-year deployment speed in VC funds correlates with stronger long-term IRR performance.
 - `INS-260403-F075` Like floating on multi-layer shade balls, staying still keeps you on the surface while thrashing causes you to sink deeper.
 - `INS-260409-7055` Real low-rate signals emerge as slow accumulations over weeks, not as a-ha moments — learn to distinguish both from noise.
 - `INS-260409-B367` The 20-year apparatus build, not the moment of measurement, is the real cost of a frontier physics result.

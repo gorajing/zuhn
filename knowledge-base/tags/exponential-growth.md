@@ -1,7 +1,7 @@
 # Tag: exponential-growth
 
-- `INS-260403-976C` Current AI capabilities represent a fraction of what near-future compute investments will enable, creating an accelerating intelligence divergence.
 - `INS-260321-5DF8` OpenClaw became the most popular open-source project in history within weeks, surpassing Linux's 30-year adoption curve — each AI unhobbling stacks on prior ones and grows faster.
+- `INS-260403-976C` Current AI capabilities represent a fraction of what near-future compute investments will enable, creating an accelerating intelligence divergence.
 - `INS-260330-FF5B` Log scales convert exponential curves into straight lines, making growth rates, trend changes, and inflection points immediately visible to human perception.
 - `INS-260405-A309` The length of tasks AI can perform autonomously doubles roughly every seven months, accelerating exposure of knowledge work.
 - `INS-260330-AA4F` Because humans linearize exponentials, they systematically under-react when early action is cheapest and over-react when the situation is already determined.

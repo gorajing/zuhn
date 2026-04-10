@@ -52,11 +52,12 @@ stance: >-
   organization adds optimistic bias to reports, creating a cascading distortion
   that makes reality invisible to decision-makers.
 related:
+  - INS-260410-AA87
   - INS-260327-25AD
   - INS-260330-6418
   - INS-260403-EC09
   - INS-260330-D429
-  - INS-260330-9BC4
+  - INS-260410-A544
 evidence:
   - id: INS-260327-AFC7
     type: TRANSFERS_TO

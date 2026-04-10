@@ -1,8 +1,9 @@
 # Topic: system-design
 
-> 6 insights
+> 7 insights
 
 - `INS-260404-9C57` [high] Photosynthesis converts chaotic photon energy into standardized ATP and NADPH currencies before the Calvin Cycle consumes them, enabling the two stages to evolve independently.
+- `INS-260410-31AA` [high] Nadella frames AI as an emulator of a simulator and quantum as a simulator of nature, arguing the future stack uses quantum to generate synthetic training data that trains AI models for chemistry, physics, and biology.
 - `INS-260404-B1BC` [high] Lisp's nine radical ideas from 1958 gradually became standard features in mainstream languages, proving theoretical purity wins over time.
 - `INS-260405-8E85` [medium] Photosynthesis converts sunlight into ATP and NADPH as intermediate currencies, then spends those currencies in the Calvin Cycle—never coupling capture and use directly.
 - `INS-260404-F7C5` [medium] Chloroplasts charge thylakoids like batteries using proton gradients, decoupling photon arrival from ATP production.

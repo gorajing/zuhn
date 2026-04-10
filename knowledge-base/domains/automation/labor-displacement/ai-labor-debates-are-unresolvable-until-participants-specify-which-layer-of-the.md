@@ -59,7 +59,6 @@ stance: >-
   (exposure vs. adoption vs. labor market response) while treating their layer
   as the whole picture.
 related:
-  - INS-260325-2069
   - INS-260403-D5BB
   - INS-260403-F4C9
   - INS-260410-D834

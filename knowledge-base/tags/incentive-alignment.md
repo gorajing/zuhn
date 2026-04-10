@@ -3,6 +3,7 @@
 - `INS-260330-819E` Learn-to-code initiatives serve institutional goals (tax revenue, labor supply) more than the individual learners they claim to help.
 - `INS-260327-F9C3` VCs need radical ideas and founders want to start businesses on someone else's dime -- both sides must perform to reach the same payday, and since winning once in tech is enough, there is a near-infinite pool of aspiring participants willing to forgive past failures.
 - `INS-260327-A00A` Coalitions held together by gold rather than shared survival instinct are brittle under battlefield pressure.
+- `INS-260410-AA87` Mao kept exporting grain while 40 million Chinese starved because food exports were 'his pocket change' — the main source of government income he needed to fund anything else.
 - `INS-260403-2AC0` Coercing a hostile vendor to build your weapons is self-defeating regardless of their technical capability.
 - `INS-260403-FAC6` Just as capitalism incentivizes addictive products that exploit gaps between consumer desire and consumer welfare, democracy incentivizes destructive proposals that exploit gaps between voter perception and actual policy impact.
 - `INS-260403-22ED` When people's financial incentives align with others' success, genuine cultures of encouragement emerge over time.
@@ -26,8 +27,8 @@
 - `INS-260403-3C2D` The carry waterfall structure determines whether your VC is incentivized for patient long-term support or quick exits.
 - `INS-260403-028F` Startup investors need domain expertise and skin in the game—two things structurally absent from government bureaucracies.
 - `INS-260402-8424` VCs invest in startups over ordinary businesses because equity-based returns through IPO/acquisition prevent the agency problem of founders self-dealing through inflated expenses.
-- `INS-260404-A9D0` Bid-times-conversion ranking resolves the monetization-vs-quality trade-off by making them the same objective function.
 - `INS-260327-58AC` Whatever is your source of money, that is where the company will steer — if advertisers pay, you will build for advertisers, not users.
+- `INS-260404-A9D0` Bid-times-conversion ranking resolves the monetization-vs-quality trade-off by making them the same objective function.
 - `INS-260330-F08F` Small teams are powerful primarily because they make each person's contribution visible and measurable, not just because they move faster.
 - `INS-260403-4F68` Vendors offer credits to lock in early-stage companies before switching costs become prohibitive, which gives growth-stage founders leverage to renegotiate.
 - `INS-260330-5A4C` Running nodes must be culturally ingrained as a responsibility, not just technically possible, because without that culture economic pressure will centralize the network.

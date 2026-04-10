@@ -51,9 +51,9 @@ resolutions:
 related:
   - INS-260325-DF66
   - INS-260330-06E3
+  - INS-260410-0735
   - INS-260403-9861
   - PRI-260407-AE33
-  - INS-260325-11A6
 stance: >-
   Ayn Rand's fiction changed more lives than Friedman's economics because she
   worked in the mythic register

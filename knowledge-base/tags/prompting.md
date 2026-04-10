@@ -1,8 +1,8 @@
 # Tag: prompting
 
 - `INS-260409-52CE` If your AI output is slop, you probably asked it to 'write good copy' instead of giving it 12 rules and 16 samples — the feedback loop is the same as training a junior employee, just 100x faster.
-- `INS-260329-5ECD` Feed AI code editors one screen at a time with explicit spatial descriptions because they misplace UI elements when given multiple screens at once.
 - `INS-260403-042B` AI democratizes equity research by making public data analysis match institutional quality when properly orchestrated.
+- `INS-260329-5ECD` Feed AI code editors one screen at a time with explicit spatial descriptions because they misplace UI elements when given multiple screens at once.
 - `INS-260320-E872` Be as specific as possible about desired results — vague prompts produce vague implementations.
 - `INS-260320-508F` Don't lead in prompts if you want honest feedback — Claude tells you what it thinks you want to hear.
 - `INS-260321-A5D4` Adding instructions to fuzzy tasks creates noise, not clarity. Expert prompters write shorter prompts that define the task clearly without micromanaging execution — long prompts degrade performance around 3,000 tokens.

@@ -61,7 +61,7 @@ related:
   - INS-260323-FA30
   - INS-260323-3A54
   - INS-260327-A675
-  - INS-260327-A048
+  - INS-260410-F82F
 ---
 Paine highlights a counterintuitive pattern: Xi Jinping's father was a purged high-level communist, Xi himself was sent down to the countryside and at one point was turned away from his mother's home when he came back starving after his father was denounced. By naive expectation he should loathe Maoism. Instead he reveres Mao and is rebuilding Mao's centralized system.
 

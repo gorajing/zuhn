@@ -55,7 +55,6 @@ stance: >-
   When two people with different knowledge bases physically operate a system
   together, they generate insights that neither would reach independently
 related:
-  - INS-260323-246F
   - INS-260402-607A
   - INS-260330-9A46
   - INS-260330-91EA

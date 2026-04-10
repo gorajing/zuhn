@@ -47,15 +47,16 @@ resolutions:
     from reversible laws,' the answer is that reversible laws are the
     idealization, not reality.
 related:
-  - INS-260325-1B3E
   - INS-260325-6A2C
   - INS-260403-6AD0
+  - INS-260325-1B3E
   - INS-260325-F21D
   - INS-260330-833E
   - INS-260327-8C74
   - INS-260330-AC34
   - INS-260330-8CCE
   - INS-260323-4279
+  - INS-260410-42CB
 stance: >-
   The arrow of time may not emerge from thermodynamics but is baked into reality
   through quantum decoherence

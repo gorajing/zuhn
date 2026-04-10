@@ -48,13 +48,13 @@ resolutions:
     reframe — brain as receiver, not generator — has implications for how we
     think about identity, AI consciousness, and the limits of neuroscience.
 related:
-  - INS-260325-F21D
   - PRI-260323-D475
   - INS-260408-59B3
   - INS-260327-A4FE
   - INS-260323-8289
   - INS-260325-33DA
   - INS-260404-1E65
+  - INS-260410-31AA
 stance: >-
   Across multiple quantum consciousness frameworks, the brain consistently
   appears as an interface or transceiver for consciousness rather than its o...

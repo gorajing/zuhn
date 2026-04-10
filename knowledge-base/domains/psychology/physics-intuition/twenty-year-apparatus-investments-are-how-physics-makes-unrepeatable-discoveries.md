@@ -49,8 +49,8 @@ stance: >-
 related:
   - INS-260325-90C6
   - INS-260403-1EFF
+  - INS-260410-41EF
   - INS-260325-2CC7
   - PRI-260323-2FEE
-  - INS-260410-5740
 ---
 The lead researcher notes that he started building parts of the apparatus nearly 20 years ago as a PhD student, with entanglement tests as a long-term goal. The Bell-test measurement itself was a few weeks of data collection, but it was only possible because two decades of Zeeman slowers, cryogenic chambers, and laser control had been iterated into working shape. This inverts how outsiders usually frame discovery: the 'breakthrough' isn't the moment the signal appears — it's the prior decade of building the instrument that could even produce the signal. The model generalizes to any domain where measurement is the bottleneck: the moat is often the apparatus, not the analysis. Firms, researchers, and investors who accept 10-20 year instrument horizons unlock measurement regimes nobody else can reach.

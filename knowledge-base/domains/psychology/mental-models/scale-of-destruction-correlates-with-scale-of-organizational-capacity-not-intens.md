@@ -49,7 +49,6 @@ stance: >-
   The destructive potential of conflict scales with industrial and
   organizational capacity, not with the intensity of the underlying grievance
 related:
-  - INS-260323-B726
   - INS-260323-9D21
   - INS-260323-08E9
   - INS-260327-AC1B
@@ -59,6 +58,7 @@ related:
   - INS-260403-B280
   - INS-260402-B817
   - INS-260403-D746
+  - INS-260330-4B22
 evidence:
   - id: INS-260330-A2D4
     type: SUPPORTS

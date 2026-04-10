@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 538 insights
+> 540 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -36,6 +36,7 @@
 - `INS-260327-6B78` [high] Anthropic's enterprise sales targets two distinct buyers: developers/CPOs who consume the API and Chief AI Officers who manage model portfolios — with the majority of the Fortune 500 now having someone in the latter role.
 - `INS-260402-ECD2` [high] In hierarchical markets, winning one apex customer (e.g., a top law firm) cascades credibility and adoption downstream more effectively than scaling from the bottom up.
 - `INS-260330-D801` [high] Patek Philippe's business model — forcing buyers through loyalty tiers, policing resales, and rebuying watches to trace leakers — is fundamentally bubble management, not watchmaking.
+- `INS-260410-8AF0` [high] Britain could have weighed in against Prussia at any point in Bismarck's three wars and didn't, because each war individually looked too minor to merit intervention.
 - `INS-260329-6D3B` [high] Incumbent competition is inevitable at scale — the question shifts from 'if' to 'how do I compete against their bundle advantage.'
 - `INS-260403-5593` [high] Big companies can't let individuals hold whole programs in their heads, so startups should target problems that demand exactly that.
 - `INS-260327-5E03` [high] When consumers can't afford cars, automakers built more expensive cars with longer loan terms rather than more affordable alternatives.
@@ -171,6 +172,7 @@
 - `INS-260323-0539` [high] Cursor forked VS Code rather than building an extension because plugin APIs limit what you can build — when AI changes how software is built, you need full control of the editing surface.
 - `INS-260327-94F5` [high] Kevin Plank spent $700M acquiring fitness apps to chase big data and IoT hype, declared Under Armour was 'a technology company' on national TV, and no one in the organization could push back because the founder's voice was always the loudest and always correct.
 - `INS-260327-CB72` [high] Jack Dorsey systematically fabricated a solo-founder origin story for Twitter, manipulated media coverage, and orchestrated two CEO coups -- all to serve his personal mythos rather than the company's health.
+- `INS-260410-2CED` [high] Bismarck overturned the European balance of power by framing each of three wars as limited and local, so rivals never coordinated against him.
 - `INS-260327-0FC4` [high] Crumbl rapid franchise expansion outpaced its ability to maintain quality control, creating inconsistent product experie
 - `INS-260327-092E` [high] When a franchise brand goes viral (Popeyes chicken sandwich), individual franchisees lack the operational infrastructure
 - `INS-260403-5F8E` [high] Anti-piracy patrols create classic free-rider problems where non-paying companies benefit equally, making voluntary collective defense inherently unstable.

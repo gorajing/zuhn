@@ -50,11 +50,12 @@ stance: >-
   directly — will produce technologies as transformative as the first revolution
   that gave us transistors and lasers.
 related:
+  - INS-260410-0741
   - PRI-260328-D2FB
   - INS-260325-F21D
+  - INS-260410-42CB
   - INS-260405-7383
   - INS-260323-5199
-  - INS-260404-FC20
 evidence:
   - id: INS-260323-5199
     type: TRANSFERS_TO

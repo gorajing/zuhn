@@ -56,9 +56,9 @@ related:
   - INS-260327-45B4
   - INS-260329-7A6A
   - INS-260409-BBB5
+  - INS-260410-0741
   - INS-260325-F21D
   - PRI-260406-1EF3
-  - INS-260330-1718
-  - INS-260405-7383
+  - INS-260410-31AA
 ---
 The standard use of spaced-repetition systems is declarative knowledge: language vocabulary, country capitals, medical school facts. It is widely believed that SRS cannot handle abstract conceptual material — mathematics, physics, philosophy — because concepts don't decompose into flashcard-sized facts. Matuschak and Nielsen's contrary claim: they CAN, if (1) cards are written with virtuoso skill by an expert in both the subject matter and card-writing as a discipline, and (2) the cards are embedded inside a narrative essay that builds context and understanding between question clusters. Quantum Country's 112 cards on quantum computing include cards on abstract operators, bra-ket notation, and gate algebra — not trivia but operational understanding. User testimonials suggest it works: 'I have a PhD in quantum information/computing and I knew everything in the essay before reading it, but the additional understanding I got from doing the given spaced repetition flashcards significantly improved my understanding of the material.' This is an under-explored capability of SRS tools that mainstream users do not realize exists.

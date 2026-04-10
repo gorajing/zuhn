@@ -7,8 +7,8 @@
 - `INS-260409-655B` Expert users know what is missing because they have a complete workflow mental model — mass-market users do not.
 - `INS-260329-B6DF` Winners focus on customers while competitors focus on winners — creating a vicious cycle where copiers become progressively blind to what actually matters.
 - `INS-260329-6E0F` Competitors who copy you are looking at you instead of their customers — their distraction is your advantage.
-- `INS-260321-021B` Higgsfield interviewed 8 creatives — all 8 gave identical feedback about camera controls, which became their breakout feature.
 - `INS-260405-AC3E` The insight from a customer conversation degrades with every layer of intermediary between the customer and the decision-maker.
+- `INS-260321-021B` Higgsfield interviewed 8 creatives — all 8 gave identical feedback about camera controls, which became their breakout feature.
 - `INS-260322-185B` You cannot discover real customer pain points remotely — physical immersion in your users' environment reveals needs that surveys and interviews miss.
 - `INS-260327-2661` The AtoB founders chose trucking as a fertile idea space, physically went to truck stops to talk to drivers, and systematically mapped the space until they found fuel cards — a method anyone can replicate.
 - `INS-260322-A9DE` Real pain points only surface through direct immersion with users in their actual environment — traveling to parks, teaching in schools, and riding overnight buses reveals what desk research never will.
@@ -16,9 +16,9 @@
 - `INS-260403-A7D0` Gut-feel product decisions waste time and money building features nobody wants — systematic assumption testing is the mitigation.
 - `INS-260405-95D1` Removing friction meets the baseline; gains require going beyond what customers already expect.
 - `INS-260405-7305` Beyond a threshold, optimizing further on a valued attribute inverts into a pain — faster, hotter, louder all have inflection points.
-- `INS-260403-21BD` Palantir builds what clients ought to want rather than what they explicitly ask for, accepting initial friction for long-term loyalty.
 - `INS-260403-2A44` Good design requires diagnosing user needs rather than implementing stated requests.
 - `INS-260405-A2A2` Strategyzer's Value Proposition Canvas makes explicit what most product teams leave implicit: the specific pains a product relieves and gains it creates, mapped against real customer jobs.
+- `INS-260403-21BD` Palantir builds what clients ought to want rather than what they explicitly ask for, accepting initial friction for long-term loyalty.
 - `INS-260403-7F89` The bottleneck to customer understanding is internal process friction, not lack of resources.
 - `INS-260403-D49E` Shifting from 'buy our product' to 'what do you need' unlocks immediate revenue from startup talent advantages.
 - `INS-260403-902F` AI can mine forums, Reddit threads, and product reviews at scale to uncover unmet needs that manual research would miss.

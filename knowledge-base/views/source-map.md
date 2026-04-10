@@ -650,6 +650,7 @@ Generated on 2026-04-10 | 2526 sources
 | 100+ Computer Science Concepts Explained | youtube | 5 | 2026-03-30 |
 | 13 Years of Marketing Advice in 85 Mins | youtube | 5 | 2026-03-30 |
 | 13 Years of No BS Business Advice in 79 Mins | youtube | 5 | 2026-03-30 |
+| 20th Century's Most Lethal Leader – Sarah Paine (Lecture Excerpt) | youtube | 5 | 2026-04-10 |
 | 27 Years of No Bullsh*t Sales Advice in 16 Mins | youtube | 5 | 2026-03-27 |
 | 홀로 3조를 굴리는 실리콘밸리 내부자의 투자 원칙 | 엘라드 길 | youtube | 5 | 2026-03-22 |
 | 30 Years of Money Knowledge in 18 Minutes | youtube | 5 | 2026-03-23 |
@@ -824,6 +825,7 @@ Generated on 2026-04-10 | 2526 sources
 | Sarah Paine – Why Russia Lost the Cold War | youtube | 5 | 2026-04-10 |
 | Satya Nadella – How Microsoft thinks about AGI | youtube | 5 | 2026-04-10 |
 | Satya Nadella — Microsoft’s AGI plan & quantum breakthrough | youtube | 5 | 2026-04-10 |
+| Satya Nadella shows me the first Majorana 1 Quantum Computing chip | youtube | 5 | 2026-04-10 |
 | Science of Muscle Growth, Increasing Strength & Muscular Recovery | youtube | 5 | 2026-03-30 |
 | Singapore: The World's Only Successful Dictatorship? | youtube | 5 | 2026-03-30 |
 | Slop vs Craft | youtube | 5 | 2026-03-29 |
@@ -879,6 +881,7 @@ Generated on 2026-04-10 | 2526 sources
 | Trump 2.0, DOGE, and America's Global Decline with Sam Harris and Jonah Goldberg | youtube | 5 | 2026-03-30 |
 | Trump, Ukraine, and The Future of Geopolitics with Sam Harris and Niall Ferguson | youtube | 5 | 2026-03-30 |
 | Trump’s Real Intentions Behind the Middle East War? feat Dr. Jiyoon Kim | youtube | 5 | 2026-03-23 |
+| Unlimited War: Putin vs Bismarck – Sarah Paine | youtube | 5 | 2026-04-10 |
 | Vitalik: Ethereum, Part 1 | youtube | 5 | 2026-03-30 |
 | Was The War Against Japan Avoidable? - Sarah Paine | youtube | 5 | 2026-04-10 |
 | Watch This If You Have a Service Business | youtube | 5 | 2026-03-22 |
@@ -2512,7 +2515,6 @@ Generated on 2026-04-10 | 2526 sources
 | Write Simply | blog | 0 | 2026-03-31 |
 | Writing, Briefly | blog | 0 | 2026-03-31 |
 | YC W26 Batch: Complete Database of 196 Companies (2026) | blog | 0 | 2026-03-30 |
-| 20th Century's Most Lethal Leader – Sarah Paine (Lecture Excerpt) | youtube | 0 | 2026-04-10 |
 | Bill Nye: Creationism Is Not Appropriate For Children | Big Think | youtube | 0 | 2026-03-30 |
 | Brainf**k in 100 Seconds | youtube | 0 | 2026-03-30 |
 | Donut-shaped C code that generates a 3D spinning donut | youtube | 0 | 2026-03-30 |
@@ -2520,12 +2522,10 @@ Generated on 2026-04-10 | 2526 sources
 | Improvising in Africa.  Warning - GROSS - Smarter Every Day 28 | youtube | 0 | 2026-03-30 |
 | Mind Field - Official Trailer | youtube | 0 | 2026-03-30 |
 | Python in 100 Seconds | youtube | 0 | 2026-03-30 |
-| Satya Nadella shows me the first Majorana 1 Quantum Computing chip | youtube | 0 | 2026-04-10 |
 | Spend More Time Making the Big Decisions | youtube | 0 | 2026-03-30 |
 | Stable diffusion dreams of "blueberry spaghetti" for one night | youtube | 0 | 2026-04-10 |
 | Stable diffusion dreams of psychedelic faces | youtube | 0 | 2026-04-10 |
 | Stable diffusion dreams of steam punk neural networks | youtube | 0 | 2026-04-10 |
 | Stable diffusion dreams of steampunk brains | youtube | 0 | 2026-04-10 |
 | Stable diffusion dreams of tattoos | youtube | 0 | 2026-04-10 |
-| Unlimited War: Putin vs Bismarck – Sarah Paine | youtube | 0 | 2026-04-10 |
 | Your desires are not yours. | youtube | 0 | 2026-03-30 |

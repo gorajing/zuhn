@@ -68,8 +68,8 @@ related:
   - INS-260410-B507
   - INS-260323-DF0F
   - PRI-260328-E1CE
+  - INS-260410-F82F
   - INS-260410-5437
-  - PRI-260323-B798
 ---
 Paine emphasizes this as a critical, under-credited strategic move: Bush told Kohl 'I'm not going to beat my chest and dance on the Berlin Wall,' and both leaders were scrupulous about never publicly humiliating Gorbachev. The reasoning was tactical, not sentimental: humiliation would have collapsed Gorbachev's domestic position faster, brought hardliners to power sooner, and potentially reversed or contested the Cold War settlement before the newly independent Eastern European states could integrate militarily, politically, and economically with NATO and the EU.
 

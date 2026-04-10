@@ -1,6 +1,6 @@
 # Topic: geopolitics
 
-> 533 insights
+> 535 insights
 
 - `INS-260326-3E19` [very_high] Pharmaceutical companies funding the FDA, banks staffing financial regulators, and tech giants writing platform regulations are structurally identical -- the mechanism is industry-funded oversight producing industry-favorable rules.
 - `INS-260326-79DF` [very_high] Germany's unrestricted submarine warfare sank 886,000 tons in April 1917 alone -- a tactical triumph that brought America into the war and guaranteed Germany's defeat.
@@ -53,6 +53,9 @@
 - `INS-260410-3F35` [high] 25 years of 50/50 JVs produced zero Chinese auto champions; 18 months of Tesla competing directly taught BYD the consumer design it needed to become world-class.
 - `INS-260327-AC1B` [high] The Mongol invasion devastated Russia's established cities but created the vacuum in which Moscow — a previously insignificant town — rose to dominate by collaborating with the Mongols as tax collectors.
 - `INS-260403-4B3D` [high] The Fed's pattern of letting bubbles inflate then responding with emergency measures has escalated intervention scale at each crisis.
+- `INS-260410-A544` [high] Once Mao put all peasants on communes, the party controlled food distribution — which meant Beijing was literally choosing who ate and who died, and 40 million starved.
+
+
 - `INS-260327-5DD3` [high] Murat was the greatest cavalry commander of his era but a disastrous king — his instinct for dramatic personal action was perfect for leading charges but catastrophic for governance.
 - `INS-260325-854D` [high] China's senior leadership were all trained engineers who build compulsively — roads, homes, economies, souls. America's elite are mostly lawyers who block everything, good and bad.
 - `INS-260403-42E4` [high] China is historically unique as a US competitor — no prior adversary ever matched 60% of US GDP, yet China now contests American technological edge across multiple domains.
@@ -291,6 +294,7 @@
 - `INS-260327-4419` [high] Napoleon rejected the Frankfurt Proposals that would have kept him as Emperor of France within its natural frontiers, and ended up losing everything.
 - `INS-260403-2C07` [high] Regime-threatening unrest emerges only when economic hardship hits the business and working classes simultaneously, not from political grievances alone.
 - `INS-260410-EA78` [high] When ethical rule and economic prosperity fail as legitimacy pillars, authoritarian regimes default to jingoistic nationalism and territorial expansion — a last-resort card that clouds judgment and catalyzes counter-coalitions.
+- `INS-260410-AA87` [high] Mao kept exporting grain while 40 million Chinese starved because food exports were 'his pocket change' — the main source of government income he needed to fund anything else.
 - `INS-260323-EA65` [high] W.R. Grace lobbied regulators to define asbestos contamination below 1% as 'asbestos-free' — controlling the definition was more effective than fighting every individual regulation.
 - `INS-260403-A87D` [high] The US government is undermining its own dollar dominance by attacking the very stablecoin projects that would cement USD as the default digital currency.
 - `INS-260405-1101` [high] Britain in 1870-1914 produced more in absolute terms at war's outbreak than in 1870, yet felt weaker because America and Germany had grown faster — the lesson applies to any competitive system.

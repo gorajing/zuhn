@@ -1,6 +1,6 @@
 # Topic: research-methodology
 
-> 22 insights
+> 23 insights
 
 - `INS-260410-5740` [high] AI has driven the cost of idea generation to near-zero, making verification and evaluation the new bottleneck in science.
 - `INS-260409-004E` [high] Douglas's enzyme-trained phylogenetic model successfully detected evolutionary bursts in 13 biological systems plus Indo-European languages, demonstrating that branching-system mathematics is substrate-agnostic.
@@ -24,4 +24,5 @@
 - `INS-260410-F436` [medium] Gradient descent makes you solve the training problem, not generalize well — catastrophic forgetting is the natural default and good transfer happens only when researchers iterate until they find a representation that transfers.
 - `INS-260409-E080` [medium] Generator-verifier loops are easy to describe and almost impossible to execute because the verifier must be protected from the generator's influence.
 - `INS-260409-6833` [medium] Formal proof verification (Lean, Coq) doesn't generalize to real research — agents need natural-language verification that resists self-agreement.
+- `INS-260410-0741` [medium] Nadella says the first thing a working quantum computer lets you do is design the next one, because simulating atom-level gate construction is exactly the workload classical hardware cannot handle.
 - `INS-260410-6BBC` [medium] The tech tree branches so widely that different civilizations would discover entirely different subsets of it, producing enormous potential gains from trade between any two.

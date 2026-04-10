@@ -14,8 +14,8 @@
 - `INS-260405-3238` Define your funding amount, security type, and valuation floor before any investor conversation begins.
 - `INS-260403-55E6` Fundraising success depends on pre-meeting preparation — investor mapping, warm intros, and narrative sharpening — not deck aesthetics.
 - `INS-260404-433E` Successful 2012 IPOs invested years in product refinement and customer validation before going public.
-- `INS-260330-2B42` Larry Page became Larry Page not through startup education but because genuine curiosity made him an expert on search — startups are merely an ulterior motive for curiosity.
 - `INS-260405-5C48` Having live IRR numbers before every investor call signals operational discipline and closes the trust gap faster than almost any other preparation.
+- `INS-260330-2B42` Larry Page became Larry Page not through startup education but because genuine curiosity made him an expert on search — startups are merely an ulterior motive for curiosity.
 - `INS-260330-FA4D` Byron Ferguson spine-tests every arrow and discards out-of-tolerance ones before they ever enter his quiver — precision is built in preparation, not performance.
-- `INS-260404-6BCA` Rubrik capitalized on the 2024 tech IPO window because it had already completed its subscription transition and hit key metrics before the window opened.
 - `INS-260327-6AB1` Regardless of interview length, the first 2-3 minutes form the lasting impression — use the opening 'tell me about yourself' to immediately address why you want sales and why this specific company.
+- `INS-260404-6BCA` Rubrik capitalized on the 2024 tech IPO window because it had already completed its subscription transition and hit key metrics before the window opened.

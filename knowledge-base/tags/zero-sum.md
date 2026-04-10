@@ -2,6 +2,7 @@
 
 - `INS-260403-B734` For most of history, success meant winning zero-sum contests where ruthlessness helped; in idea-driven economies, the polarity reverses.
 - `INS-260403-D06F` Status games require putting others down to rise, making them psychologically toxic compared to positive-sum wealth creation.
+- `INS-260410-8C5F` Paine's framing: limited objectives ('you lose a province but stay in power') create settlement space, while unlimited objectives ('you're out of power') eliminate it entirely.
 - `INS-260403-6F65` Equal optimization on substance makes charisma the tiebreaker.
 - `INS-260403-407A` YC's core strategic advantage is creating new startups rather than competing with VCs for the same fixed pipeline.
 - `INS-260330-1C50` Refusing to celebrate others' success out of competitive anxiety shrinks the total pie rather than protecting your share.

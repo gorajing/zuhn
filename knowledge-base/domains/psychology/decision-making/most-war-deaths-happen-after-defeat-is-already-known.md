@@ -57,10 +57,10 @@ stance: >-
   government legitimacy is tied to continuation, not citizen welfare.
 related:
   - INS-260327-088D
-  - INS-260327-25AD
   - INS-260403-FF7C
+  - INS-260410-24DA
   - PRI-260406-E38B
-  - INS-260327-AA3B
+  - INS-260327-25AD
 ---
 Paine cites a staggering statistic: 1.8 million of 2.1 million Japanese war deaths (85%) occurred in the last 14 months, after military leaders knew they were losing. A similar pattern held in Germany. This isn't explained by simple denialism — it's that the Western assumption 'governments exist for the well-being of individuals' doesn't describe how most regimes actually function. Leaders are playing a different game, in which continued resistance is rational for them even when it's catastrophic for the population.
 

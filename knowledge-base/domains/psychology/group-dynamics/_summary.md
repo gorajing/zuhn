@@ -1,6 +1,6 @@
 # Topic: group-dynamics
 
-> 101 insights
+> 103 insights
 
 - `INS-260330-2EB0` [high] The Pueblo Revolt shows that a shared existential threat can override deep tribal divisions — but the unity is temporary.
 - `INS-260403-D609` [high] Enforcers of orthodoxy compete with each other, creating a race to the bottom where any borderline idea gets banned.
@@ -43,6 +43,7 @@
 - `INS-260402-B817` [high] Groups persecute outsiders not from hatred but because shared enemies create the strongest internal bonds.
 - `INS-260330-DBAD` [high] The kilogram exists as an awkward prefixed base unit because 'grave' sounded too aristocratic during the French Revolution.
 - `INS-260330-B22D` [high] Political visibility creates a separating equilibrium where any slight lean gets amplified into full tribal membership through social pressure.
+- `INS-260410-F82F` [high] Many Han Chinese still revere Mao despite 40M deaths because in their narrative he ended the 'century of humiliations' by reunifying China and fighting the Western coalition to a stalemate in Korea.
 - `INS-260403-6947` [high] Production blocking — one person speaking while others must listen — suppresses parallel ideation and reduces total creative output in group sessions.
 - `INS-260404-64F1` [high] Colleagues working on their own ambitious projects can distinguish ugly ducklings from baby swans in a way that purely supportive friends cannot.
 - `INS-260403-1D41` [high] Demanding public loyalty oaths from sympathetic insiders converts them from effective advocates into impotent outsiders.
@@ -83,6 +84,7 @@
 - `INS-260403-69C3` [medium] National security framing activates fear circuits that override the capacity for nuanced policy engagement.
 - `INS-260402-1CAD` [medium] Group identities persist because their arbitrary, irrational elements create the cohesion needed to carry beneficial beliefs as payload.
 - `INS-260403-CF01` [medium] The same ethnic group can have radically different outcomes depending on the selection mechanism that brought them to a country.
+- `INS-260410-C474` [medium] Paine argues Bismarck's manipulation of Europe's monarchs demonstrated the structural incompetence of inherited leadership, because kings selected by birth rather than skill consistently failed to see strategic patterns a competent peer group would have caught.
 - `INS-260403-DA14` [medium] A leader's repeated norm violations train their handlers and staff to preemptively execute the cheating pattern without explicit instructions.
 - `INS-260403-2D89` [medium] Corporate roles survive because dismantling any one threatens all adjacent roles that depend on it for legitimacy.
 - `INS-260403-8E0C` [medium] SF's hardline progressives effectively allied with old-money NIMBYs to freeze the city in amber, despite framing their agenda as equity-driven.

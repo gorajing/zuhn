@@ -1,6 +1,6 @@
 # Topic: decision-making
 
-> 131 insights
+> 133 insights
 
 - `INS-260404-A246` [high] Admitting you're bad at something is the first step to finding effective workarounds like delegation or systematic search.
 - `INS-260403-F03A` [high] Judge purchases by projected usage, not by the deal you got.
@@ -17,6 +17,7 @@
 - `INS-260403-0769` [high] The belief that history guarantees your victory makes you stop doing the strategic work required to actually win.
 - `INS-260403-B710` [high] Counting finite instances of recurring experiences makes time scarcity concrete and actionable.
 - `INS-260404-E783` [high] Seemingly paradoxical findings often dissolve when you recognize the phenomenon as a mix of tradeoff and failure components rather than seeking a single unified explanation.
+- `INS-260410-0735` [high] Mao was a military genius who reunified a shattered China after 40 years of civil war, and the same person then caused the largest peacetime famine in Chinese history — because the skills that win wars are not the skills that run economies.
 - `INS-260404-C497` [high] Temperature-dependent sensors measuring the speed of light produced a fake diurnal cycle because the lab was outdoors.
 - `INS-260330-D304` [high] RuBisCo evolved in a low-oxygen world and now grabs oxygen instead of CO2 half the time — the same pattern drives human cognitive biases in modern environments.
 - `INS-260405-3048` [high] RuBisCo worked perfectly in a low-oxygen world; the problem wasn't the enzyme but the changed atmosphere — the same dynamic explains many human cognitive 'errors'.
@@ -82,6 +83,7 @@
 - `INS-260402-CCC3` [high] VCs optimize for defensible-looking decisions rather than highest expected value, creating systematic blind spots.
 - `INS-260410-90BD` [high] Stalin genuinely fought tsarist injustice for 20 years as a penniless revolutionary and then built a regime orders of magnitude more unjust — this 'perverse and unintended consequences' pattern is the rule, not the exception.
 - `INS-260403-330D` [high] Voters expect absolute price decreases, not just slower inflation, creating a nearly impossible standard for politicians to meet.
+- `INS-260410-24DA` [high] Paine notes that World War I started with modest territorial objectives but, as casualties mounted into the millions, escalated to demands for regime change that the original goals never contemplated.
 - `INS-260330-31B5` [high] If you're drawn to work despite its lack of prestige, that's evidence both of genuine interest and of untapped opportunity.
 - `INS-260403-F9EE` [high] Writing short essays forces you to form and articulate a point of view, which passive reading and watching cannot accomplish regardless of volume.
 - `INS-260403-16F2` [high] The most effective way to direct your ambient thinking is upstream: choose situations where the most urgent problems are the ones you actually want to solve.

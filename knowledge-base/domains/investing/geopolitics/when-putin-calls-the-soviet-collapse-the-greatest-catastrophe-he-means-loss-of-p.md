@@ -46,11 +46,11 @@ resolutions:
     decisions, including the willingness to accept massive casualties in Ukraine
     to prevent what he sees as further fragmentation of Russian power.
 related:
+  - INS-260410-F82F
   - PRI-260323-B798
+  - INS-260410-24DA
   - INS-260403-B280
   - PRI-260328-BEAB
-  - INS-260327-F7FE
-  - INS-260330-814E
 stance: >-
   Putin's framing of 1991 as a greater tragedy than WWII (where the Soviets lost
   millions) reveals his value hierarchy: loss of great power status an...

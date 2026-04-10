@@ -4,12 +4,12 @@
 - `INS-260327-E0F7` Harness engineering uses structured documentation, linting rules, and architectural constraints to force consistent outputs regardless of which AI model generates the code.
 - `INS-260330-18EE` Weekend feeding window drift effectively jet-lags your metabolic system, offsetting weekday fasting benefits.
 - `INS-260327-B3A7` Marshal Suchet was the only French commander to actually succeed in Spain — not through brilliance but through methodical, systematic pacification that won over the local population.
+- `INS-260329-D9A4` Redefine success as daily activity completion rather than revenue or follower milestones to break the feast-famine cycle.
 - `INS-260405-7DD7` When you can't predict who matters, you must treat everyone as if they matter — which only genuinely good people can sustain.
 - `INS-260330-BE91` Institutions that abandon their own principles under pressure destroy their credibility far more than the original controversy would have.
 - `INS-260330-C548` Each moral compromise raises the psychological cost of reversing course, creating an escalation trap.
 - `INS-260329-783C` Ambitious people who can't stay consistent are misdiagnosing a frustration tolerance problem as a motivation problem.
 - `INS-260327-BE49` The more boring you are - consistent routines, repeated practice, unglamorous persistence - the more impressive you become over time.
-- `INS-260329-D9A4` Redefine success as daily activity completion rather than revenue or follower milestones to break the feast-famine cycle.
 - `INS-260409-74B9` 'Never miss a dinner' is a higher-fidelity legacy signal than any single achievement, because it survives statistical averaging.
 - `INS-260329-93AE` Stop treating goal-setting as a strategy — focus instead on committing to the daily activities that produce goals, since everyone already shares the same goals.
 - `INS-260403-E63B` Lenny had no plan for the newsletter but weekly consistency for 18 months made the path obvious.
@@ -21,11 +21,11 @@
 - `INS-260329-B4F5` What makes results extraordinary is not the nature of the action but the extraordinary duration of commitment to doing ordinary things.
 - `INS-260403-C4BE` Maintaining safety habits even when technically unnecessary prevents errors by eliminating per-situation judgment calls.
 - `INS-260329-1F3F` Burning your escape routes forces the persistence that passion-based motivation cannot sustain.
-- `INS-260327-7C6B` Consistency alone causes plateaus, virality alone causes sugar-crash comedowns — real growth is consistency x experimentation.
 - `INS-260329-22B6` What looks like speed from the outside is actually fewer strategic pivots over a longer time horizon, not more activity.
 - `INS-260329-9A5A` People aren't inconsistent because they lack discipline — they're inconsistent because they misread difficulty as a sign to pivot.
 - `INS-260403-98E1` Real wealth stacks up through many small chips — businesses, investments, options — not one big windfall.
+- `INS-260327-7C6B` Consistency alone causes plateaus, virality alone causes sugar-crash comedowns — real growth is consistency x experimentation.
 - `INS-260323-BC20` The true measure of a leader is the quality of decisions they make on ordinary days, not how they perform in dramatic crises.
-- `INS-260403-4850` The formula Culture = Values + Behavior × Consistency reveals that inconsistent behavior doesn't just fail to build culture — it destroys trust in stated values.
 - `INS-260329-7E63` The best closers don't have better arguments — they ask for the sale more times by using reframing to maintain rapport across repeated asks.
 - `INS-260327-0826` Good closers try to get hot; great closers never get cold because they've analyzed exactly what they do differently during hot streaks and systematized every detail.
+- `INS-260403-4850` The formula Culture = Values + Behavior × Consistency reveals that inconsistent behavior doesn't just fail to build culture — it destroys trust in stated values.

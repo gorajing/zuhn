@@ -48,7 +48,6 @@ stance: >-
   approach — keeping medium out instead of in — can reveal phenomena invisible
   under original conditions
 related:
-  - INS-260323-189B
   - INS-260330-1222
   - INS-260330-CBA5
   - INS-260330-59E3

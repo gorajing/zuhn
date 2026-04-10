@@ -50,7 +50,9 @@ related:
   - INS-260325-BE3A
   - INS-260325-A1B9
   - INS-260325-A782
+  - INS-260410-41EF
   - INS-260325-3D31
+  - INS-260410-42CB
 stance: >-
   Nation states are already intercepting and storing encrypted data today,
   betting that quantum computers within 10-20 years will let them decrypt it

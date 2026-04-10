@@ -51,7 +51,6 @@ stance: >-
   and charisma have no institutional resilience and fracture instantly when that
   leader is gone.
 related:
-  - INS-260323-B726
   - INS-260327-8912
   - INS-260327-64A5
   - PRI-260328-7EA5

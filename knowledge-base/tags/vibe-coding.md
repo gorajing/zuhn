@@ -2,10 +2,10 @@
 
 - `INS-260322-3083` Stop analyzing AI and start using it this weekend -- vibe coding, agent mode reports, and conversational problem-solving.
 - `INS-260320-76E7` Only automate what you deeply understand — automating ignorance creates slot machines, not efficiency.
-- `INS-260329-200A` A mood tracker app that would have taken a 4-person team a month was built in under an hour with AI coding tools and Expo.
-- `INS-260403-8953` AI that writes code can act on the physical world through software systems, making it far more dangerous than AI that only talks.
 - `INS-260327-D8D1` Just as software developers became AI researchers, they are now becoming roboticists as Python libraries and vibe coding make physical AI accessible to anyone who can code.
 - `INS-260321-FD14` Vibe coding won't replace enterprise SaaS because of comparative advantage and hidden edge cases — but it dramatically increases platform extensibility by letting non-developers build custom applications on top of existing systems of record.
+- `INS-260329-200A` A mood tracker app that would have taken a 4-person team a month was built in under an hour with AI coding tools and Expo.
+- `INS-260403-8953` AI that writes code can act on the physical world through software systems, making it far more dangerous than AI that only talks.
 - `INS-260403-7D1D` Software engineering's vulnerability to AI reveals it was always more routine cognitive work than the creative profession engineers believed it to be.
 - `INS-260403-A2E9` As AI collapses implementation costs, the human role shifts from engine to editor-in-chief — the scarce skill becomes deciding what to build and evaluating quality, not writing code.
 - `INS-260403-DED4` The economics of software will shift from 'AI writes, humans review' to fully autonomous AI development as quality improvements make human oversight cost-prohibitive.

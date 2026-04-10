@@ -64,8 +64,8 @@ related:
   - INS-260323-D479
   - INS-260410-EA78
   - INS-260325-DFA5
+  - INS-260410-0735
   - INS-260410-CBF9
-  - INS-260323-CF30
 ---
 Petrarch launched the classical revival intending to produce better Christian rulers who would govern like Brutus and Cicero. What actually emerged over 200 years was Hedonist and Epicurean philosophy, Machiavelli's political science, Bacon's scientific method, Voltaire, democracy, germ theory, and eventually a cure for the Black Death he himself survived. If you showed him that future, Palmer says, he would be horrified by its values (especially democracy) but would weep for joy at the curing of plague. He made a world that did not go his way but went well.
 

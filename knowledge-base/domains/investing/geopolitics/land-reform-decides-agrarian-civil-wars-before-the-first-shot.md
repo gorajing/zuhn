@@ -64,6 +64,7 @@ related:
   - INS-260327-ABE5
   - PRI-260328-43D8
   - INS-260327-23FA
+  - INS-260410-A544
 ---
 Paine's comparative point is sharp: Mao's detailed peasant surveys led him to discover that 6% of the rural population owned 80% of the land, and that distributing that land was the single most powerful allegiance-generating lever available. The Nationalists couldn't match him because their own officer corps were the landlords — structural capture prevented the only reform that could have saved them. In Korea, Syngman Rhee did land reform immediately and North Korean southern insurgency collapsed; in Vietnam, the South never did and lost.
 

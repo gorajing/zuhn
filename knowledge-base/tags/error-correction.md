@@ -1,7 +1,7 @@
 # Tag: error-correction
 
-- `INS-260325-3F9B` Quantum effects dissipate almost instantly through decoherence, so a computation needing 100 qubits may require a million physical qubits just for error correction redundancy.
 - `INS-260322-3537` The E8 lattice (8D) and leech lattice (24D) are used in real-world error-correcting codes because certain dimensions are supernaturally efficient at preserving order.
+- `INS-260325-3F9B` Quantum effects dissipate almost instantly through decoherence, so a computation needing 100 qubits may require a million physical qubits just for error correction redundancy.
 - `INS-260325-0409` QJL achieves zero-overhead error correction by spending just 1 bit on residual bias elimination rather than distributing precision uniformly — a principle applicable beyond quantization.
 - `INS-260330-AB5D` Meditation works by subtracting perceptual illusions rather than adding new capabilities.
 - `INS-260330-7E61` Since humans inevitably make mistakes, the core moral imperative is preserving mechanisms that allow errors to be detected and corrected — destroying these mechanisms is the deepest immorality.

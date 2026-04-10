@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-10 | 4642 actionable insights
+Generated on 2026-04-10 | 4644 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -2595,6 +2595,8 @@ Generated on 2026-04-10 | 4642 actionable insights
 - [INS-260403-ABC5] Vertical AI startups must build data loops and lock-in strategies from day one because speed alone provides no lasting moat.
 - [INS-260410-FA8E] Victory goes to whoever can identify the culminating point — push too far and you trigger counterattacks, third-party interventions, or supply collapse that erase your winnings.
 - [INS-260410-61D5] Japan's go-it-alone strategy against China in WW2 wrecked Japan despite China being a failed state — the lesson is that bringing allies against any large rival beats unilateral aggression, and trading away your alliance system for tactical gains is a category error.
+- [INS-260410-8AF0] Britain could have weighed in against Prussia at any point in Bismarck's three wars and didn't, because each war individually looked too minor to merit intervention.
+- [INS-260410-2CED] Bismarck overturned the European balance of power by framing each of three wars as limited and local, so rivals never coordinated against him.
 
 ## startups/content-strategy
 - [INS-260329-3332] A single 4+ hour comprehensive tutorial can accumulate millions of views over years by dominating 'full course' search queries.

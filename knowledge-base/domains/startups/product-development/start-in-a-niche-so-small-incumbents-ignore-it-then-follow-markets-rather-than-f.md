@@ -53,7 +53,6 @@ stance: >-
   expand by following organic user behavior into adjacent markets will
   outperform those trying to create demand from scratch.
 related:
-  - INS-260323-22E8
   - INS-260327-90E8
   - INS-260327-4669
   - PRI-260328-FBB3

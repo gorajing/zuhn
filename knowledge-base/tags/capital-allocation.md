@@ -6,12 +6,14 @@
 - `INS-260327-D7DD` When real estate is unaffordable, bonds are unattractive, and savings accounts lose to inflation, stocks become the only game in town regardless of fundamentals.
 - `INS-260410-4357` At scale, effectiveness of achieving outcomes matters more than efficiency of resource use — the 'waste' in China's growth was the mechanism that produced the growth.
 - `INS-260410-731D` China's banking system lets strategic-sector companies borrow on the promise of producing units, not profits — which produces world-leading manufacturing capacity alongside massive capital destruction.
-- `INS-260409-8B3D` Napier: the investment question for the next 10-15 years is not 'which company wins' but 'who gets cheap credit and who gets excluded' — winners are re-industrialization, rearmament, defense, energy, robotics, and old-economy manufacturing.
 - `INS-260329-A6EA` Your investment strategy should shift from human capital to financial assets as your capital base grows.
 - `INS-260330-7EAA` Cash sitting idle in offshore accounts destroys value because it earns no return while shareholders' alternative investments would.
 - `INS-260330-B6AD` When companies cannot repatriate cash cheaply, they issue domestic debt while sitting on foreign cash and pursue suboptimal foreign investments just to deploy trapped capital.
 - `INS-260330-ED77` Apple borrows money in the US to pay American bills despite having $285B in offshore accounts it cannot access without triggering taxes.
 - `INS-260330-137A` Offshore cash that can't be repatriated without heavy taxes acts as dead weight on shareholder returns rather than a competitive advantage.
+- `INS-260409-8B3D` Napier: the investment question for the next 10-15 years is not 'which company wins' but 'who gets cheap credit and who gets excluded' — winners are re-industrialization, rearmament, defense, energy, robotics, and old-economy manufacturing.
+- `INS-260403-D00D` JPMorgan's $1.5T commitment signals that private banks are assuming industrial policy roles governments are too slow to fill.
+- `INS-260403-7157` Solar attracts ~$500B/year in investment and installs more new capacity than every other electricity source combined.
 - `INS-260403-B744` Space tech is following the same stack-layer consolidation pattern as AI, but capital fixation on AI has left space infrastructure windows unusually open.
 - `INS-260403-F387` AI dominates VC funding at 40% of total capital while non-AI startups face a funding freeze, and SVB flags rising 'zombiecorns' with shaky growth.
 - `INS-260404-C28B` Anti-woke VC funds are emerging as an explicit political counter-positioning in venture capital.
@@ -24,8 +26,6 @@
 - `INS-260405-AA34` The emergence of a wind-down services industry signals that the post-2021 startup correction is entering its final clearing phase.
 - `INS-260404-3821` VC fund formation is splitting into massive scale plays and laser-focused thematic bets, leaving generalist mid-tier funds stranded.
 - `INS-260403-4227` More VC money doesn't produce more great startups — it inflates prices, spreads talent thin, and compresses exit multiples.
-- `INS-260403-D00D` JPMorgan's $1.5T commitment signals that private banks are assuming industrial policy roles governments are too slow to fill.
-- `INS-260403-7157` Solar attracts ~$500B/year in investment and installs more new capacity than every other electricity source combined.
 - `INS-260403-3AE7` Confidence about AI's trajectory is hardening into consensus faster than the underlying evidence supports, creating dangerous belief-lock-in across capital allocation decisions.
 - `INS-260403-9421` The time required to build a company is often predictive of how long it will last.
 - `INS-260403-A93A` Extremely high CLTV/CAC ratios can signal missed growth opportunities rather than operational excellence.

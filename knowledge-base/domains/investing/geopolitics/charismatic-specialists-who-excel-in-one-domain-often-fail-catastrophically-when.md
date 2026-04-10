@@ -59,6 +59,7 @@ related:
   - INS-260327-B9BA
   - INS-260327-787C
   - INS-260327-5200
+  - INS-260410-C474
 ---
 Murat's cavalry instincts — bold action, personal flamboyance, immediate decisive commitment — were perfect for leading 10,000 horsemen in a charge. But the same instincts made him a terrible king: he acted impulsively, made dramatic gestures instead of patient policy, and ultimately tried to switch sides at the last minute (a cavalry maneuver applied to politics). The skills that made him brilliant in his domain made him destructive outside it.
 

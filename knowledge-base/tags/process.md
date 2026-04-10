@@ -1,7 +1,7 @@
 # Tag: process
 
-- `INS-260320-105E` The sound design workflow for video follows three steps: lay down temp music/score first, add creative SFX and foley second, then apply final audio treatment and mixing.
 - `INS-260327-B9BA` The Mamluks were individually the finest cavalry in the world, but they shattered against French infantry squares because organized discipline defeated individual prowess.
+- `INS-260320-105E` The sound design workflow for video follows three steps: lay down temp music/score first, add creative SFX and foley second, then apply final audio treatment and mixing.
 - `INS-260330-B882` The team needed misfire procedures immediately on their first zoomed-in test, validating the experts' insistence on planning them in advance.
 - `INS-260404-875B` Apply a sentence-level filter: if you wouldn't say it to a friend, rewrite it until you would.
 - `INS-260328-57CF` Businesses being killed by AI disruptors will have to ignore all their process people — the innovator's dilemma means too many stakeholders are excited about doing A to allow B to happen.

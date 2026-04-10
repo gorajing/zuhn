@@ -49,8 +49,8 @@ related:
   - INS-260323-22E8
   - INS-260325-2999
   - INS-260330-300D
+  - INS-260410-42CB
   - INS-260323-9EEC
-  - INS-260330-5EFD
   - INS-260409-C25D
 stance: >-
   Edgerton's single-frame strobe technique from the 1930s produces sharper

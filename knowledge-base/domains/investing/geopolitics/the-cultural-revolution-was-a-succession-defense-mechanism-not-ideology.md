@@ -57,8 +57,8 @@ related:
   - INS-260410-EBDC
   - INS-260327-7A27
   - INS-260410-3A01
+  - INS-260410-F82F
   - INS-260410-58DB
-  - INS-260330-B885
 ---
 The standard narrative frames the Cultural Revolution as ideological purification. Paine's reading is that it was a personal survival move: after the Great Leap Forward famines, high-level officials like Peng Dehuai (who had lost siblings to starvation) and Liu Shaoqi pushed Mao out of day-to-day operations. Mao responded by mobilizing teenagers educated in Mao-worship to attack the educational and party hierarchies that threatened him, then used Lin Biao's military to restore order and purge his enemies.
 
