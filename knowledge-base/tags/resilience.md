@@ -62,14 +62,14 @@
 - `INS-260403-A0F7` Salesforce's evolution from 1999 SaaS pioneer to 2005+ platform shows that iterative business model extension compounds into resilience.
 - `INS-260403-8194` Tariffs up to 34% on China/Taiwan/Korea imports are forcing hardware startups to shift from cost-optimized to resilience-optimized supply chains.
 - `INS-260403-E748` Extreme strength at the core does not protect against catastrophic failure triggered at the weakest peripheral link.
+- `INS-260403-9746` 20VC's origin story demonstrates how a personal low created the space for a media platform that snowballed into a capital engine.
+- `INS-260403-77F4` Measure and minimize the gap between failure and relaunch rather than trying to prevent all failures.
 - `INS-260323-9C11` Early hardship — while not required for success — instills an unshakeable belief that solutions exist and are within your control.
 - `INS-260323-8B22` Altman's default-trust philosophy served him well until the board coup — the danger is overcorrecting from trusting to paranoid.
 - `INS-260405-CF31` Academic research by Freeman et al. finds that entrepreneurs and their families have disproportionately high prevalence of psychiatric conditions, suggesting founder mental health is a systemic issue, not individual weakness.
 - `INS-260403-35EE` VCs screen for obsession—founders who would keep building even if the money disappeared—because it predicts survival through inevitable chaos.
 - `INS-260325-0C4A` Thinking through failure scenarios before starting a venture minimizes downside and accelerates recovery when things go wrong.
 - `INS-260403-7252` Running out of money is the immediate cause of startup death, but demoralization and loss of focus are the underlying killers.
-- `INS-260403-9746` 20VC's origin story demonstrates how a personal low created the space for a media platform that snowballed into a capital engine.
-- `INS-260403-77F4` Measure and minimize the gap between failure and relaunch rather than trying to prevent all failures.
 - `INS-260327-E3D5` Competitive backgrounds in any domain build the exact muscles—discipline, risk tolerance, resilience—that founders need.
 - `INS-260404-8A02` Determination matters more than intelligence for startup founders once a baseline IQ threshold is met.
 - `INS-260327-CF53` Treat every external limitation and setback as jet fuel for your trajectory.

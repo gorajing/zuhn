@@ -10,11 +10,11 @@
 - `INS-260323-D56E` Yudkowsky publicly acknowledges that GPT-4 exceeded what he thought stacking transformer layers could achieve, which means he can't predict what GPT-5 will do.
 - `INS-260322-474A` AI automating AI R&D won't produce runaway self-improvement because research requires proportional scaling of experimental compute, not just more researchers.
 - `INS-260325-9C89` AlphaProof's TTRL adds 15 percentage points to solve rates beyond tree search scaling, enabling solutions to problems that exhaustive search at any budget cannot crack.
+- `INS-260403-2138` DeepSeek R1's 671B parameter model uses sparse architecture so full-size reasoning doesn't require activating all parameters.
 - `INS-260322-1D52` Unlike traditional software where nine women can't have a baby in one month, AI allows companies to throw money and GPUs at problems — meaning leads that took years to build can be closed in months.
 - `INS-260409-CBC7` Hassabis predicts the moat is shifting from scale to algorithmic invention — labs without novel-idea capacity will fall behind.
 - `INS-260327-CFDC` Robots performing economically useful tasks in the real world will produce training data as a byproduct, creating a data flywheel unavailable from internet scraping.
 - `INS-260327-C4C8` RL went through a trough but is now the key capability multiplier because strong pretrained models finally provide the 'cake' that RL's 'cherries' can sit on top of.
-- `INS-260403-2138` DeepSeek R1's 671B parameter model uses sparse architecture so full-size reasoning doesn't require activating all parameters.
 - `INS-260402-C98A` Cheaper AI produces more value, which drives up the price of AI's best uses, perpetually leaving room for human workers in lower-priority tasks.
 - `INS-260327-C962` Running AI for millions of daily users will consume far more compute than training the models themselves.
 - `INS-260325-4846` Every successful technology follows the same S-curve adoption pattern, and AI is at its steepest inflection.
@@ -40,12 +40,12 @@
 - `INS-260404-1755` ARM's licensing model lets it scale globally without any manufacturing infrastructure or costs.
 - `INS-260330-DC0D` McDonald's beat competitors by taking a 1.4% revenue cut instead of overpricing supplies, aligning franchisor and franchisee interests.
 - `INS-260330-B771` Serverless platforms like Firebase eliminate the need for Docker, Kubernetes, Terraform, and manual server configuration — removing an entire skill domain from early-stage requirements.
+- `INS-260403-0902` Seek the single elegant bottleneck removal over battalions of special-case optimizations when scaling a system.
 - `INS-260330-E615` McDonald's failed when it adapted menus to local cultures but succeeded spectacularly when it kept the menu intact and hired locals to handle marketing.
 - `INS-260403-2496` Yahoo's hand-curated web directory drowned as the internet scaled, while Google's PageRank handled exponential growth effortlessly.
 - `INS-260329-F33F` Like the woman in the red dress from The Matrix, opportunities become more seductive as you succeed — requiring a stronger 'no' muscle at every level.
 - `INS-260330-45A9` Plants conquered Earth not by making RuBisCo better, but by making more of it — volume strategy beat optimization strategy over evolutionary timescales.
 - `INS-260330-C9C6` PayPal started with 20,000 eBay power sellers, Facebook started with 10,000 Harvard students — markets so small they seemed worthless, but they enabled 25-60% penetration in months before expanding concentrically.
-- `INS-260403-0902` Seek the single elegant bottleneck removal over battalions of special-case optimizations when scaling a system.
 - `INS-260405-13C5` Spending on acquisition before proving unit economics is the most common cash-kill mechanism in SaaS.
 - `INS-260328-7241` Bad process is like a cancer — a machine that only wants more power and more people, until you have a thousand process people and one guy making bolts.
 - `INS-260329-4870` A singly linked list and doubly linked list both implement the same list interface, but the wrong choice creates invisible O(n) costs that only surface at scale.
@@ -63,23 +63,23 @@
 - `INS-260330-CBEF` At 10 users worry about reaching 100, not a million — necessity at each breaking point will force the right architectural decisions.
 - `INS-260330-D0AB` Paul's decision to drop circumcision and Jewish law requirements for converts removed the single biggest friction point and opened Christianity to the entire Roman world.
 - `INS-260403-29AC` First adopters retain 20-30% better than paid users; treat their curve as a benchmark, not a baseline you can maintain.
-- `INS-260330-F800` Wen's retrospective finding: every department that underperformed at PolyAI was one where the founders hired a leader without first getting hands dirty in that function themselves.
-- `INS-260329-58E7` Ramsey's breakthrough from tactical hustle to $300M came when MBAs taught him strategic thinking in exchange for him teaching them execution.
-- `INS-260329-727B` The fastest way to $1M/year isn't the fastest way to $10M, and the fastest way to $10M isn't the fastest way to $100M.
-- `INS-260322-B3D0` Pre-PMF advice (just ship, talk to users, no strategy) becomes actively harmful post-PMF — you need strategic bets like Facebook opening beyond .edu or DoorDash expanding beyond food.
-- `INS-260404-880A` J&J's $1B+ investment in a 2M sq ft cell therapy facility marks the transition from experimental to industrial-scale advanced therapy manufacturing.
-- `INS-260325-07FA` Just as semiconductors and solar followed Wright's Law cost curves, gene therapy could drop from millions per dose to thousands — enabling treatment of ultra-rare diseases that currently have no economic model.
 - `INS-260329-CBF6` Prioritize scaling advertising reach over optimizing conversion rates because reach has no ceiling while optimization maxes out at 100%.
 - `INS-260321-E654` Defense primes' advantage over startups is not inventiveness but production and manufacturing at scale — startups must build factory and quality-testing muscle to cross the procurement chasm.
 - `INS-260329-49A4` LTV-to-CAC ratio (using gross profit, not revenue) determines scaling ceiling — aim for 3:1 minimum, and pour fuel when you see 30:1+.
 - `INS-260322-D57C` When scaling, CEOs cannot just delegate customer-facing work — they must personally demonstrate the brand's standard alongside new employees so sensibility transfers through shared experience.
+- `INS-260329-AF18` Before exploring new growth channels, exhaust 10x potential in your current working channel first.
+- `INS-260403-B18C` Exponential growth comes from stacking multiple self-reinforcing growth loops, not optimizing individual acquisition channels.
+- `INS-260322-70DD` Stop hiring for the business you used to be — at $30-50M revenue you need a CFO not a bookkeeper, and the founder becomes the ceiling when every function must pass through them.
+- `INS-260404-880A` J&J's $1B+ investment in a 2M sq ft cell therapy facility marks the transition from experimental to industrial-scale advanced therapy manufacturing.
+- `INS-260325-07FA` Just as semiconductors and solar followed Wright's Law cost curves, gene therapy could drop from millions per dose to thousands — enabling treatment of ultra-rare diseases that currently have no economic model.
 - `INS-260330-965B` Each of your first 10 hires effectively recruits the next 10 people like themselves, so you're really choosing 100 people.
 - `INS-260403-A136` Startup headcount growth systematically dilutes independent-mindedness because conventional thinkers vastly outnumber independent ones.
 - `INS-260403-A8A3` Second-time founders stop wearing every hat early, hire for trajectory and ownership mindset, and design roles for the company's future shape.
 - `INS-260403-A851` The spectrum from full codebase access (Linear, Gumroad) to synthetic take-home projects (PostHog, Automattic at scale) reflects a deliberate trade-off between signal depth and process scalability.
-- `INS-260329-AF18` Before exploring new growth channels, exhaust 10x potential in your current working channel first.
-- `INS-260403-B18C` Exponential growth comes from stacking multiple self-reinforcing growth loops, not optimizing individual acquisition channels.
-- `INS-260322-70DD` Stop hiring for the business you used to be — at $30-50M revenue you need a CFO not a bookkeeper, and the founder becomes the ceiling when every function must pass through them.
+- `INS-260330-F800` Wen's retrospective finding: every department that underperformed at PolyAI was one where the founders hired a leader without first getting hands dirty in that function themselves.
+- `INS-260329-58E7` Ramsey's breakthrough from tactical hustle to $300M came when MBAs taught him strategic thinking in exchange for him teaching them execution.
+- `INS-260329-727B` The fastest way to $1M/year isn't the fastest way to $10M, and the fastest way to $10M isn't the fastest way to $100M.
+- `INS-260322-B3D0` Pre-PMF advice (just ship, talk to users, no strategy) becomes actively harmful post-PMF — you need strategic bets like Facebook opening beyond .edu or DoorDash expanding beyond food.
 - `INS-260403-59F0` The assumption that board seats protect VC returns is untested—removing them could unlock 2-3x deal throughput.
 - `INS-260403-5F1C` The transition from spreadsheet to dedicated equity platform should happen at the first priced round, not when errors become visible.
 - `INS-260403-5E86` IPO preparation should begin 2-3 years before the target date as an operational transformation, not a financial sprint.

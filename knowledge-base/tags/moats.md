@@ -13,10 +13,10 @@
 - `INS-260325-FD14` TurboQuant's data-oblivious algorithm beats dataset-specific tuned competitors, demonstrating that fundamental algorithmic breakthroughs can instantly commoditize proprietary optimization moats.
 - `INS-260330-8FEC` Businesses earning royalties on others' capital (like Amex's 3% transaction fee) generate superior returns because growth doesn't require proportional reinvestment.
 - `INS-260327-643C` Score any software company across 8 moat dimensions — four or more means durable, two or less means vulnerable.
-- `INS-260326-3E19` Pharmaceutical companies funding the FDA, banks staffing financial regulators, and tech giants writing platform regulations are structurally identical -- the mechanism is industry-funded oversight producing industry-favorable rules.
 - `INS-260403-41C8` Venture firms that think like product companies building systems outlast those optimizing per-fund carry.
 - `INS-260403-330E` In capital-intensive infrastructure markets, early movers who solve the core technical problem create nearly permanent competitive positions.
 - `INS-260403-C032` Infrastructure windows close when value becomes priced in, capital barriers exclude new entrants, and network effects lock users in — a framework applicable to any technology cycle.
+- `INS-260326-3E19` Pharmaceutical companies funding the FDA, banks staffing financial regulators, and tech giants writing platform regulations are structurally identical -- the mechanism is industry-funded oversight producing industry-favorable rules.
 - `INS-260322-019A` AI differentiation is not the same as defensibility — the moat comes from owning the end-to-end workflow and becoming the system of record.
 - `INS-260405-D098` AI startups must develop new strategic frameworks because SaaS assumptions about moats, margins, and customer acquisition no longer hold.
 - `INS-260405-70D4` Shield AI's 140% valuation jump in one year reflects that government defense AI contracts produce lock-in dynamics more durable than most commercial software.
@@ -55,7 +55,6 @@
 - `INS-260404-397F` Apple Pay's moat comes from simultaneously delivering seamless UX to consumers, mobile customer access to merchants, business continuity to networks, and fraud reduction to banks — all of which must be matched together.
 - `INS-260323-A1FE` Jet engine turbine blades must simultaneously optimize for temperature resistance (1,500C), centripetal force (20 metric tons per blade), oxidation resistance, creep resistance, weight, and manufacturing precision — and you can't max one without sacrificing others, making the integration itself the competitive moat.
 - `INS-260404-21E6` DoorDash's value comes from its network and market position, not its code — AI tools that make cloning easy don't threaten network-effect moats.
-- `INS-260403-B8CD` Costco's $60 membership fee filters for affluent households averaging $100K income, turning a barrier to entry into a demographic selection mechanism.
 - `INS-260402-8595` Embracing operational complexity that competitors avoid — like managing physical assets — creates durable defensibility through accumulated expertise and supply-side lock-in.
 - `INS-260402-1F41` Per-user models are inherently harder to game than shared models because attackers face a diverse population instead of a single target.
 - `INS-260330-C24F` Tencent's WeChat achieved dominance by bundling payments, social media, gaming, and mini-programs into one app, making it impossible for users to leave even when forced to choose between WeChat and a competitor's product.

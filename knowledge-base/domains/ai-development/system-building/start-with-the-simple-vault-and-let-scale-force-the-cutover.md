@@ -44,10 +44,10 @@ stance: >-
   the simple system demonstrably breaks, rather than debating the choice
   upfront.
 related:
+  - PRI-260409-9D7B
   - INS-260328-EA3A
   - INS-260323-7EEB
   - PRI-260406-9DD4
   - INS-260329-9074
-  - INS-260405-736C
 ---
 The video explicitly calls out the trap of endless debate over which RAG architecture is theoretically best. The practical answer is that the Obsidian setup is cheap enough to try, and the experience of actually hitting its ceiling will be more informative than any a-priori comparison. This is a general principle: for infrastructure decisions where the scaling regime is uncertain, building the simplest working version and measuring where it breaks is cheaper than choosing the 'right' system upfront. The cost of switching from a markdown vault to a vector RAG later is low because the vault content is the source of truth either way.

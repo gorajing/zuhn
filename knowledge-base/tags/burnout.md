@@ -2,8 +2,8 @@
 
 - `INS-260325-C59D` AI networks never rest, never sleep, and never need privacy — but forcing organic humans to match this inorganic pace will collapse them.
 - `INS-260404-EE01` Stress is not the silent killer — lack of recovery from stress is.
-- `INS-260325-622D` Mentions of 'find your purpose' in books surged 700% in two decades, creating an Epic Script that stigmatizes simple, content lives.
 - `INS-260330-0C31` Large dopamine peaks trigger proportional drops below baseline, creating a hidden burnout mechanism even from seemingly healthy activity patterns.
+- `INS-260325-622D` Mentions of 'find your purpose' in books surged 700% in two decades, creating an Epic Script that stigmatizes simple, content lives.
 - `INS-260330-DC8B` Burnout typically signals you're working on something that isn't working or that you don't fundamentally enjoy, not that you need a vacation.
 - `INS-260404-91B8` Designing work around natural temperament produces sustainable high performance, while chronic temperament mismatch leads to burnout regardless of talent.
 - `INS-260403-9FEA` 42% of business owners experienced burnout recently, but the early warning signs are culturally celebrated rather than treated.
@@ -16,9 +16,9 @@
 - `INS-260404-CC66` Founders avoiding vacations face diminishing returns as burnout degrades the decision-making quality that matters most.
 - `INS-260403-4075` Grinding 18-hour days degrades the judgment quality that actually determines startup outcomes, making hustle culture self-defeating.
 - `INS-260403-86C7` With 72% of startup founders experiencing mental health issues and productivity declining sharply after 50 hours/week, lean teams face a sustainability ceiling that AI automation only partially addresses.
+- `INS-260404-9626` Offshore hires often stay longer than domestic ones, and their presence reduces burnout-driven turnover on local teams.
 - `INS-260323-E874` The XZ attacker succeeded specifically because the maintainer was burned out and desperate for help — burnout is an attack surface.
 - `INS-260323-A700` The martyr archetype wears exhaustion as a badge of honor, but burnout reduces productivity by 10%+ and early burnout can cost $300K/year in lost high-earning years — suffering itself is the opposite path to wealth.
-- `INS-260404-9626` Offshore hires often stay longer than domestic ones, and their presence reduces burnout-driven turnover on local teams.
 - `INS-260330-EF51` The only escape from hero mode is accepting a temporary dip in performance to invest in hiring and delegation.
 - `INS-260330-625B` Hero mode — working 18+ hour days to lead by example — prevents managers from stepping back to hire, creating an escalating trap that ends in burnout.
 - `INS-260403-2833` Stanford research shows output per hour collapses past 50 hours, with zero marginal gain after 55.

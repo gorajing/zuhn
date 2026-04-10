@@ -1,6 +1,6 @@
 # Topic: strategy
 
-> 241 insights
+> 238 insights
 
 - `INS-260330-98EA` [high] The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples.
 - `INS-260403-0530` [high] New York struggles as a startup hub because founders there are second-class citizens in a status hierarchy that most admires financial wealth.
@@ -10,7 +10,6 @@
 - `INS-260323-9BC8` [high] Nickel superalloys get stronger when heated — the opposite of every other metal — because higher temperatures cause dislocations to cross-slip and lock each other in place. This anomalous behavior wasn't understood for 10 years after first use, but it turned out to be the alloy's most valuable property.
 - `INS-260403-747B` [high] Costco's $60 membership fee filters for affluent households ($100K average income) and business owners who account for two-thirds of sales.
 - `INS-260404-E65A` [high] Costco's $60 fee, warehouse layout, and bulk sizes filter for affluent ($100K household income) and business customers who spend disproportionately more.
-- `INS-260404-5587` [high] Costco's $60 membership fee filters for households averaging $100K income and business owners who account for two-thirds of sales despite being one-third of members.
 - `INS-260330-217C` [high] Apple's strategy of acquiring small teams for talent and technology rather than buying large companies preserves the extreme focus that drives its premium margins.
 - `INS-260330-ABB1` [high] The cheapest M1 MacBook Air outperformed the most expensive Intel i9 MacBook Pro in most developer workflows while running cooler and using less battery.
 - `INS-260330-73F3` [high] DNA replication's lagging strand can't simply mirror the leading strand — it requires an entirely different mechanism with Okazaki fragments, multiple primers, and extra enzymes.
@@ -100,8 +99,6 @@
 - `INS-260330-659D` [high] Shade balls were purchased to block bromate formation, but their secondary benefits — 80-90% evaporation reduction, algae elimination, near-zero chlorination — pay back at least half their cost.
 - `INS-260328-A417` [high] PG's anti-zero-sum thesis — that funding more startups creates more total wealth rather than diluting a fixed pool — was proven right by YC and applies to AI-era Series A investing.
 - `INS-260403-08FE` [high] Costco turns its $60 entry fee, confusing layout, and bulk-only format into loyalty drivers and demographic filters.
-- `INS-260403-64E7` [high] Costco's $60 membership fee filters for affluent households averaging $100K income, turning an acquisition barrier into a demographic selection mechanism.
-- `INS-260403-0CF7` [high] Costco's $60 membership fee filters for households averaging $100K income, and business owners who represent one-third of members but two-thirds of sales.
 - `INS-260403-D5DC` [high] Choose your startup location based on what fuels your business, not who funds it.
 - `INS-260330-4ACF` [high] Britain promised Palestine to three different parties simultaneously, ensuring universal betrayal and lasting conflict.
 - `INS-260403-0C2E` [high] China's pattern of dramatic action followed by rapid reversal — '30-year oversteering' — produces worse outcomes than incremental course correction.

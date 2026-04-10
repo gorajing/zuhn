@@ -1,16 +1,19 @@
 # Tag: geopolitics
 
 - `INS-260405-6A6F` AI agents that can code and reason may nullify the workforce scale advantage that underpins China's tech sector.
-- `INS-260403-474E` Palantir CEO Alex Karp argues that banning AI superintelligence development in the US would hand technological and ideological influence to global rivals rather than making the world safer.
-- `INS-260403-A68D` Major AI pause advocates (Pause AI, Yudkowsky, Krueger) all explicitly call for international treaties, not unilateral action.
-- `INS-260323-636C` Netanyahu's game-theoretic observation: no nation will voluntarily slow AI development to cooperate on regulation — universal AI regulation may only become possible if AI threatens all nations simultaneously.
-- `INS-260403-D7EF` DeepSeek R1's built-in censorship on politically sensitive topics demonstrates that state alignment creates structural bias that persists despite jailbreak attempts.
 - `INS-260321-86F1` China is stealing American AI models, removing all guardrails, and potentially deploying them against the US — creating an absurd scenario where America fights with one arm tied behind its back against its own technology.
 - `INS-260321-3C8A` AI labs fight viciously against each other for dominance but frame the global AI race as positive-sum — the actual zero-sum game is between nations, and the labs don't see it.
 - `INS-260408-A0F5` Hassabis would have preferred CERN-like collaboration on AGI; ChatGPT going viral forced commercial pressure that changed the entire industry's pace.
 - `INS-260322-AFE9` AI application to specific industries has no proven playbook anywhere in the world, making benchmarking-based strategy obsolete.
+- `INS-260403-474E` Palantir CEO Alex Karp argues that banning AI superintelligence development in the US would hand technological and ideological influence to global rivals rather than making the world safer.
+- `INS-260403-A68D` Major AI pause advocates (Pause AI, Yudkowsky, Krueger) all explicitly call for international treaties, not unilateral action.
+- `INS-260323-636C` Netanyahu's game-theoretic observation: no nation will voluntarily slow AI development to cooperate on regulation — universal AI regulation may only become possible if AI threatens all nations simultaneously.
+- `INS-260403-D7EF` DeepSeek R1's built-in censorship on politically sensitive topics demonstrates that state alignment creates structural bias that persists despite jailbreak attempts.
 - `INS-260404-83C6` DeepSeek proved frontier AI can emerge from a hedge fund side project in China, not just from billion-dollar Western labs.
 - `INS-260405-24F0` Britain's relative manufacturing share predicted its WWI dependency on America decades before the war; today's US-China manufacturing gap signals a similar structural shift.
+- `INS-260405-ADCE` US and China are pursuing humanoid robotics through different incentive structures and deployment contexts, making a single global market unlikely.
+- `INS-260404-841B` NATO launched an innovation fund at its summit, merging venture capital with defense and political cooperation goals.
+- `INS-260405-5020` Top VC backing of defense tech functions as a legitimacy signal that unlocks talent and downstream capital.
 - `INS-260403-583B` China's threats against Japan over Taiwan defense declarations backfired by unifying Japanese society and pushing South Korea into closer partnership with Japan.
 - `INS-260402-F833` The U.S. leads in advanced chips while China leads in energy production — whoever integrates both first wins the AI race.
 - `INS-260403-1462` Defense-industrial catch-up requires allied co-manufacturing because domestic reshoring timelines are too slow against urgent threats.
@@ -75,9 +78,6 @@
 - `INS-260404-2AD7` China banning foreign AI chips from state data centers and the US securing $1.4B in rare-earth deals indicate a permanent split in AI hardware supply chains.
 - `INS-260404-25F5` US power generation grew only 1.3x since 2000 while China expanded 7x to ~10,000 TWh, creating a physical infrastructure gap that limits AI deployment capacity.
 - `INS-260321-D4D0` The Iran operation isn't about religion or revenge — it's about clearing the physical obstacle blocking a logistics highway. International politics is leaders playing Go with a map; military power, resource control, and money are stronger than ideology.
-- `INS-260405-ADCE` US and China are pursuing humanoid robotics through different incentive structures and deployment contexts, making a single global market unlikely.
-- `INS-260404-841B` NATO launched an innovation fund at its summit, merging venture capital with defense and political cooperation goals.
-- `INS-260405-5020` Top VC backing of defense tech functions as a legitimacy signal that unlocks talent and downstream capital.
 - `INS-260405-BBC9` The most compelling recent evidence for a trend is often a leading indicator of its reversal, not its continuation.
 - `INS-260403-F653` Stories we tell about competitors often reveal what we wish we were, not what they actually are.
 - `INS-260403-69C3` National security framing activates fear circuits that override the capacity for nuanced policy engagement.

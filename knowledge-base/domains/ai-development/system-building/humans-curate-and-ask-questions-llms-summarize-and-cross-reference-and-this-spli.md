@@ -51,6 +51,7 @@ related:
   - INS-260409-5C6B
   - INS-260409-0EEE
   - INS-260409-654B
+  - PRI-260409-9D7B
   - INS-260409-BA55
 ---
 Karpathy's explicit framing: humans abandon personal wikis because the maintenance burden grows faster than the value they extract. Every new source should update ten to fifteen existing pages, but no human wants to do that bookkeeping. LLMs don't get bored, don't forget to update a cross-reference, and can touch fifteen files in a single pass. This collapses the cost of maintenance to near zero and is the reason the LLM-wiki pattern succeeds where decades of personal-knowledge-management attempts failed. The human's remaining job is the irreducible part: picking good sources, asking good questions, directing the analysis, and deciding what matters. Everything a human would rather skip — summarizing, cross-referencing, filing, bookkeeping — is exactly what LLMs are good at and will do reliably.

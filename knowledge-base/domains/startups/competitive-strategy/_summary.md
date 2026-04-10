@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 537 insights
+> 536 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -273,7 +273,6 @@
 - `INS-260327-AB2A` [high] Businesses whose customer retention depends on continuous novelty face unsustainable product development costs and event
 - `INS-260330-40DA` [high] Agriculture made individuals less healthy and overworked compared to foraging, yet it dominated because surplus calories enabled specialization cascades.
 - `INS-260327-38D8` [high] Under Ev Williams, Twitter's best features -- hashtags, retweets, lists, and @mentions -- were all organic user behaviors that the team formalized into official features.
-- `INS-260403-B8CD` [high] Costco's $60 membership fee filters for affluent households averaging $100K income, turning a barrier to entry into a demographic selection mechanism.
 - `INS-260327-E153` [high] Airlines only generate sustainable profits when they achieve hub dominance that reduces competition on specific routes, 
 - `INS-260327-0E86` [high] Five-year plans are impossible when AI capabilities change monthly—think first principles about what stays true for a year.
 - `INS-260403-2152` [high] Platforms must combine openness with genuine design quality to win developer adoption, not just check the open-source box.

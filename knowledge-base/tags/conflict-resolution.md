@@ -8,8 +8,8 @@
 - `INS-260330-CCD8` Labeling a problem as timeless or identity-based discourages solution-seeking by making resolution feel impossible.
 - `INS-260403-FAC0` People in passionate arguments are often arguing about two different things and sometimes even agree without realizing it.
 - `INS-260404-6753` Consciously listening for the first 10 minutes and acknowledging the other side's logic disarms conflict more effectively than arguing.
-- `INS-260325-5A68` Wright warns that when things become fully black-and-white — all good or all evil — that is exactly when conflict becomes most dangerous.
 - `INS-260330-6C0E` Deliberately decide which relationships matter more than political agreement, and protect those while holding public figures to a different standard.
+- `INS-260325-5A68` Wright warns that when things become fully black-and-white — all good or all evil — that is exactly when conflict becomes most dangerous.
 - `INS-260403-D99D` The instinct to resolve a hater's complaint like a normal dispute wastes time because the complaint is not the actual driver.
 - `INS-260326-F845` Founders who haven't had a real conversation with their co-founder in months know the relationship is over but choose years of pain over one hard conversation.
 - `INS-260327-3C96` You need to know whether you can work with people in extremely stressful situations — skills matter less than stress compatibility.

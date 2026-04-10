@@ -11,7 +11,6 @@
 - `INS-260405-051E` Costco makes 75% of revenue from membership fees, so it profits by impressing customers with low prices rather than extracting margin from each sale.
 - `INS-260405-AC40` Costco pays double the retail average wage and reports three times the productivity, suggesting high wages are a competitive lever rather than a constraint.
 - `INS-260405-47FD` Costco pays $21/hour average — double the U.S. retail average — and gets employees three times more productive in return.
-- `INS-260403-B8CD` Costco's $60 membership fee filters for affluent households averaging $100K income, turning a barrier to entry into a demographic selection mechanism.
 - `INS-260403-6670` Costco stocks 4,000 SKUs vs Walmart's 140,000, making each slot fiercely contested by suppliers willing to cut prices.
 - `INS-260405-DEF2` Being the only or one of two options in a category gives you more leverage over suppliers than volume alone ever could.
 - `INS-260403-0435` Costco's bare warehouse layout and confusing aisles make customers feel like deal-hunters rather than budget shoppers, similar to how IKEA's DIY model creates customer pride.

@@ -49,10 +49,12 @@ stance: >-
   Barriers that seem to limit your market actually concentrate it by filtering
   for customers whose lifetime value justifies the model.
 related:
+  - INS-260403-9104
+  - INS-260404-AC1B
+  - INS-260404-E65A
   - INS-260405-631B
   - INS-260403-747B
   - INS-260404-B2FB
-  - INS-260404-AC1B
 evidence:
   - id: INS-260404-B2FB
     type: SUPPORTS

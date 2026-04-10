@@ -5,10 +5,10 @@
 - `INS-260409-2CCA` Olympiad math is a closed, curated search space; frontier research is unbounded with no training data on unknown answers, making it a categorically harder AI task.
 - `INS-260408-F3F0` Deep Blue couldn't play tic-tac-toe; AlphaGo's move 37 revealed a system that generates knowledge its training data didn't contain.
 - `INS-260326-0AB4` Yudkowsky argues that RLHF-style training produces alignment that only holds within the training distribution and predictably fails when AI systems become smarter than their human evaluators.
-- `INS-260330-CAE6` Networks can memorize randomly-labeled datasets but the training curve is distinctly slower and more linear than when learning genuinely structured data.
 - `INS-260409-D922` Hassabis calls current models 'jagged intelligences' — amazing at certain framings but failing at basic variants, and closing this gap is core to AGI.
-- `INS-260409-004E` Douglas's enzyme-trained phylogenetic model successfully detected evolutionary bursts in 13 biological systems plus Indo-European languages, demonstrating that branching-system mathematics is substrate-agnostic.
+- `INS-260330-CAE6` Networks can memorize randomly-labeled datasets but the training curve is distinctly slower and more linear than when learning genuinely structured data.
 - `INS-260327-F417` Wayve deployed in Tokyo within 4 months of first driving there because their foundation model generalizes across countries and vehicles, while AV 1.0 companies need to build HD maps for each new city.
+- `INS-260409-004E` Douglas's enzyme-trained phylogenetic model successfully detected evolutionary bursts in 13 biological systems plus Indo-European languages, demonstrating that branching-system mathematics is substrate-agnostic.
 - `INS-260325-B61B` After solving a problem, the mathematician's reflex is to extract the general technique — the answer is a byproduct, the method is the prize.
 - `INS-260330-09AB` For any convex 3D shape, averaging its shadow area over all orientations yields exactly one-quarter of its surface area — a powerful generalization beyond spheres.
 - `INS-260405-C3B0` The 'alien truth' test filters for universal truths by asking whether any intelligent being would converge on an idea.

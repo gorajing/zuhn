@@ -45,8 +45,8 @@
 - `INS-260404-277E` Startups bridging foodtech with other industries create defensibility through cross-vertical complexity.
 - `INS-260404-C501` Treat differentiation as a combinatorial selection from ~20 possible axes rather than finding one unique angle.
 - `INS-260403-204E` In vertical AI, the defensible position is owning the control point that facilitates the transaction, not just saving time on adjacent tasks.
-- `INS-260403-FCD7` YC's culture was its product, and the authentic family atmosphere created a competitive moat that traditional VC firms on Sand Hill Road could not replicate.
 - `INS-260404-1A18` Photosynthesis has been 'complicated, inefficient and confusing' for 450 million years yet dominates all life on Earth, demonstrating that first-mover lock-in can outlast any degree of technical debt.
+- `INS-260403-FCD7` YC's culture was its product, and the authentic family atmosphere created a competitive moat that traditional VC firms on Sand Hill Road could not replicate.
 - `INS-260404-3C7A` Costco turns confusing layouts, limited selection, and upfront fees into deal-hunting excitement, supplier leverage, and customer loyalty respectively.
 - `INS-260403-F290` Plants built entire metabolic pathways to compensate for RuBisCo's flaws rather than replace it — a pattern that applies to startups managing legacy technical debt.
 - `INS-260403-6BD9` Costco turns its confusing warehouse layout, mandatory fee, and limited selection into advantages that competitors won't replicate because they look like problems.

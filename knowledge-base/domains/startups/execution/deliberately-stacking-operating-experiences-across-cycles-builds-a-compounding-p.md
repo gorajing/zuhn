@@ -57,7 +57,7 @@ related:
   - PRI-260328-49CB
   - PRI-260406-E602
   - PRI-260407-AF64
-  - INS-260329-E8EB
+  - PRI-260409-0156
 ---
 Gil's path from Google (hypergrowth at scale) to Mixer Labs (founder in a platform shift) to Twitter (executive in organizational chaos) to Color (regulated market grind) didn't look like a straight line, but each role added a distinct layer of pattern recognition. The Google era taught how decisions age under scale, Mixer Labs taught platform-shift timing, Twitter taught distinguishing surface activity from structural health, and Color taught navigating regulatory friction and long capital cycles.
 

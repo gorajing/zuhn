@@ -48,9 +48,10 @@ stance: >-
   class first, leaving only the wealthy and rent-controlled residents, which
   accelerates political dysfunction.
 related:
-  - INS-260330-0FF7
   - INS-260402-8F1E
+  - INS-260330-0FF7
   - PRI-260328-EAC4
   - INS-260327-F93A
+  - INS-260327-EE23
 ---
 Noah Smith describes a self-reinforcing cycle: housing supply restrictions drove up costs, forcing middle-class, working-class, and artist populations out of San Francisco. This left a bifurcated city of the rich and rent-controlled residents, which shifted the political composition further toward policies that opposed new construction. The anti-gentrification ideology that drove supply restrictions was empirically wrong — overwhelming evidence shows new housing reduces rents — but the demographic sorting it caused made the political coalition opposing housing even stronger. This doom loop pattern applies broadly: when a policy drives out the people who would oppose it, the policy becomes self-reinforcing regardless of its actual effects. Lurie's upzoning plan and permit reform (cutting approval from 605 to 280 days) represent the first crack in this cycle.

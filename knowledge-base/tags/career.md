@@ -1,14 +1,15 @@
 # Tag: career
 
 - `INS-260322-116B` When AI can perform any technical task, employers hire for trustworthiness and genuine care — the qualities visible in someone's eyes, not their resume.
-- `INS-260403-D64B` Forcing yourself to always produce something pushes you away from what you think you should work on and toward what you actually like.
 - `INS-260405-B22F` VC is a credentials-gated industry where unconventional entrants must manufacture access through deal sourcing, publishing, or operator relationships rather than waiting for invitation.
+- `INS-260403-D64B` Forcing yourself to always produce something pushes you away from what you think you should work on and toward what you actually like.
 - `INS-260403-83E2` Once you're established, you lose the freedom to mess around with random projects — and that freedom was the source of your best ideas.
 - `INS-260330-8FC5` Pick your city first because jobs, partners, friends, and opportunities are downstream of geographic network proximity.
 - `INS-260323-7CA7` Kaplan's 6,000+ hours of EverQuest — which looked like addiction and time-wasting — became the foundation for designing World of Warcraft and Overwatch; deep immersion in something you love creates expertise that formal training cannot replicate.
 - `INS-260327-73CB` The most meaningful work combines multiple domains rather than maximizing one - the person who connects their varied interests often contributes more than the pure specialist.
 - `INS-260405-874D` Autonomy in work is a one-way door: once crossed, the cage of a managed job becomes visible and unbearable.
 - `INS-260330-BBE7` Close friends share nearly 100% network overlap with you, so acquaintances are the real conduits to new opportunities.
+- `INS-260330-1C90` Optimize your first job for the quality of people you'll work with, not the paycheck or prestige on your resume.
 - `INS-260321-3D65` Fresh graduates (23-25) who grew up vibe coding think differently and generate the best new ideas at AI companies.
 - `INS-260320-C56D` Your early 20s with no obligations are years you can never get back — don't spend them fixing tickets at big tech.
 - `INS-260323-7BB8` Instead of asking 'what do you want to be?' (astronaut, writer, game designer), ask 'what do you want to do?' — follow the activities that bring joy moment-to-moment, and the career identity will emerge from that.
@@ -16,7 +17,6 @@
 - `INS-260323-A64F` Talent only reveals itself when the environment activates it — a person can go their whole life without entering the domain that would unlock their natural ability.
 - `INS-260323-E3FD` The 10,000-hour rule was misunderstood as 'practice creates excellence' — Gladwell himself clarifies it means practice is necessary but insufficient without innate talent, which is the hardware that skill (software) runs on.
 - `INS-260325-8D66` You cannot get out of bed each morning expecting a breakthrough — but you can get out of bed saying 'today I will figure out how to do this better than last week.'
-- `INS-260330-1C90` Optimize your first job for the quality of people you'll work with, not the paycheck or prestige on your resume.
 - `INS-260322-3CFB` Optimizing for stewardship (what you do and serve) rather than status (titles and positions) produces both deeper fulfillment and better career outcomes.
 - `INS-260328-0C87` In SaaS sales interviews, demonstrating genuine passion for the technology and industry matters more than reciting sales frameworks.
 - `INS-260405-6DAD` Founders taking equity upfront are making the same bet as ladder climbers — they've just restructured the timeline of risk and reward.

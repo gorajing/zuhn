@@ -21,8 +21,8 @@
 - `INS-260405-2AFD` China's workforce built deep process knowledge by assembling goods for international firms, and that accumulated expertise became the foundation for leapfrogging into EVs, solar, and AI hardware.
 - `INS-260403-44D9` EV technology shares components with drones, robots, and electronics, so low EV adoption limits scale for the entire manufacturing ecosystem.
 - `INS-260330-5600` Compute the raw material cost of your product's constituent atoms — that's the asymptotic floor — then ask why your actual cost is higher.
-- `INS-260404-880A` J&J's $1B+ investment in a 2M sq ft cell therapy facility marks the transition from experimental to industrial-scale advanced therapy manufacturing.
 - `INS-260321-E654` Defense primes' advantage over startups is not inventiveness but production and manufacturing at scale — startups must build factory and quality-testing muscle to cross the procurement chasm.
+- `INS-260404-880A` J&J's $1B+ investment in a 2M sq ft cell therapy facility marks the transition from experimental to industrial-scale advanced therapy manufacturing.
 - `INS-260403-50F6` Regulatory finality—not just regulatory speed—determines where capital-intensive manufacturing actually gets built.
 - `INS-260330-A1DB` India's 30% local sourcing rule for retail stores forced Apple into partner-dependent distribution, compounding its market weakness.
 - `INS-260323-0AF3` Creating mycelium leather is pointless if assembling the shoe still requires toxic glue — true sustainability demands solving the entire production chain from CO2 to compostable end product.

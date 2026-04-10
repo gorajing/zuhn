@@ -9,23 +9,19 @@
 - `INS-260404-B87E` Craft one 'the X of Y' phrase that sticks — professional investors hear so many pitches they blur, and the first filter is simply being remembered.
 - `INS-260405-194F` When someone can't perceive a constraint you experience, appealing to politeness (take me at my word) is more tractable than demanding they recognize their privilege.
 - `INS-260404-36F1` Technically accurate quotes stripped of context can produce a more misleading picture than outright fabrication.
+- `INS-260403-C428` Deliberately downgrading the perceived status of your work ('just a sketch') disarms perfectionism and lets you start.
+- `INS-260403-B710` Counting finite instances of recurring experiences makes time scarcity concrete and actionable.
 - `INS-260323-61D4` Einstein presented the non-locality problem at least three times — once at the 1927 Solvay Conference, once with the photon box thought experiment, and once in the EPR paper — and each time Bohr misunderstood or reframed the argument rather than addressing it directly.
 - `INS-260330-D385` Judging other systems as 'primitive' based on missing features you value reveals your bias, not their inferiority.
 - `INS-260330-615D` The 'fall of Rome' in 476 CE is a misleading narrative — the empire continued for another 1000 years in the east, but our bias toward decline stories obscures ongoing transformation.
 - `INS-260402-A999` People confuse wealth with money and assume it's distributed rather than created, leading to flawed moral judgments about inequality.
 - `INS-260329-F063` Telling prospects 'answering without looking under the hood would be unethical' reframes information withholding as professional responsibility and discredits competitors who give easy answers.
 - `INS-260329-A45D` 'But' acts as an attention redirector — everything after it is amplified, everything before it is diminished.
-- `INS-260403-C428` Deliberately downgrading the perceived status of your work ('just a sketch') disarms perfectionism and lets you start.
-- `INS-260403-B710` Counting finite instances of recurring experiences makes time scarcity concrete and actionable.
 - `INS-260405-7B8D` Calling a project a 'sketch' isn't lowering your standards — it's applying the right standards for the stage.
 - `INS-260404-D66A` Calling your ambitious project 'just a sketch' or 'just a hack' lowers the internal quality bar enough to start, then momentum converts it into real work.
 - `INS-260330-550F` Decomposition feels impossibly hard because our intuition says mixing is irreversible — the Fourier Transform works by reframing the problem as detection rather than separation.
 - `INS-260403-8DCA` Both sides of many social debates can credibly claim to defend 'rights,' making rights-based framing insufficient for strategic decision-making.
 - `INS-260403-29C7` Kissinger chose Go over xiangqi not because it described China accurately, but because it made America respond the way he wanted.
-- `INS-260330-E54B` Both Augustus and Jesus were called 'son of God' — the identical claim succeeded for radically different audiences because each version addressed different unmet needs.
-- `INS-260329-61E5` Breadth-first search (using a queue) explores all neighbors before going deep, while depth-first search (using a stack) goes deep before exploring broadly — same graph, completely different discovery sequences.
-- `INS-260330-9367` Since the 1950s, no famous skyscraper ever held the tallest-structure record because unglamorous radio and TV towers always surpassed them.
-- `INS-260330-CBFD` Saying 'if this sphere were Earth, the tallest mountain to deepest valley would be 14 meters' makes nanometer-level roundness instantly comprehensible.
 - `INS-260403-6399` Rhetoric that questions whether a system is legitimate makes it impossible for the speaker to credibly claim they should lead that system.
 - `INS-260403-C37D` Good persuaders don't lie — they choose which truths to tell, the same way a flatterer picks genuine compliments.
 - `INS-260403-23C1` The article pitches the same amendment separately to Democrats (anti-gerrymandering), Republicans (Trump's legacy building), Libertarians (third-party viability), and state legislators (personal career advancement).
@@ -34,6 +30,10 @@
 - `INS-260403-81CE` Professional investors hear so many pitches they blur together — a sticky 'the X of Y' phrase is the first-cut survival filter.
 - `INS-260404-D242` Professional investors hear so many pitches they blur together — a sticky one-phrase description ensures you're remembered at all.
 - `INS-260409-30DE` 'This is the best way to cook pasta' drives fewer comments than 'this pasta is better than every mom-and-pop pasta shop in the world'; intensity scales engagement.
+- `INS-260330-E54B` Both Augustus and Jesus were called 'son of God' — the identical claim succeeded for radically different audiences because each version addressed different unmet needs.
+- `INS-260329-61E5` Breadth-first search (using a queue) explores all neighbors before going deep, while depth-first search (using a stack) goes deep before exploring broadly — same graph, completely different discovery sequences.
+- `INS-260330-9367` Since the 1950s, no famous skyscraper ever held the tallest-structure record because unglamorous radio and TV towers always surpassed them.
+- `INS-260330-CBFD` Saying 'if this sphere were Earth, the tallest mountain to deepest valley would be 14 meters' makes nanometer-level roundness instantly comprehensible.
 - `INS-260403-1A6B` Deliberately framing ambitious work as sketches, hacks, or experiments lowers the psychological barrier to starting and sustaining it.
 - `INS-260403-07C1` Blunt truth-telling gets misclassified as tribal aggression because readers expect persuasive padding.
 - `INS-260404-667A` Reframing cross-border action as domestic enforcement eliminates natural constraints on scope.
@@ -41,8 +41,8 @@
 - `INS-260404-A46A` Treating projects as experiments ensures you gain knowledge even if the project itself fails.
 - `INS-260405-D925` Starting with an explicit low-commitment frame ('just a sketch', 'just a hack') bypasses perfectionism and lets real work accumulate.
 - `INS-260403-323A` Costco's warehouse layout and limited selection feel like treasure-hunting to customers rather than cost-cutting, similar to how IKEA's DIY assembly creates pride of ownership.
-- `INS-260325-A79E` The Banach-Tarski proof only works because of a specific naming scheme for points on a sphere — the right labeling system makes the 'impossible' duplication self-evident.
 - `INS-260403-699B` Reframing startup ideas as questions ("could one make X?") instead of assertions ("I'm building X") lowers defensiveness and opens exploration space.
+- `INS-260325-A79E` The Banach-Tarski proof only works because of a specific naming scheme for points on a sphere — the right labeling system makes the 'impossible' duplication self-evident.
 - `INS-260405-AA2E` Lead with what the world looks like if you win, then work backwards to technology—investors fund directions, not features.
 - `INS-260403-649C` Deliberately labeling early ambitious work as a lower-stakes artifact (sketch, hack, experiment) disarms the internal critic long enough for the project to gain momentum.
 - `INS-260404-AD21` Calling serious work 'just a hack' or 'just a sketch' lets you start by applying lower standards, then sneakily converting it once momentum builds.

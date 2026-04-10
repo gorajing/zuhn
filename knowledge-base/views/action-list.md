@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-09 | 4565 actionable insights
+Generated on 2026-04-10 | 4563 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -4575,7 +4575,6 @@ Generated on 2026-04-09 | 4565 actionable insights
 - [INS-260404-007B] Costco's warehouse layout and IKEA's DIY model prove that reframing cost-cutting constraints as intentional experiences creates emotional loyalty beyond price.
 - [INS-260404-8B1C] Costco turns warehouse aesthetics, confusing layouts, and limited selection into feelings of deal-hunting and exclusivity—making cost savings feel like customer features.
 - [INS-260404-E65A] Costco's $60 fee, warehouse layout, and bulk sizes filter for affluent ($100K household income) and business customers who spend disproportionately more.
-- [INS-260404-5587] Costco's $60 membership fee filters for households averaging $100K income and business owners who account for two-thirds of sales despite being one-third of members.
 - [INS-260405-225B] SF will remain viable but become 'establishment' — the new innovation clusters will be distributed, crypto-friendly, and globally distributed rather than concentrated in a single American city.
 - [INS-260405-D8AA] Show the CFO what competitors are spending on innovation; loss aversion moves budgets faster than projected IRR.
 - [INS-260405-7DC3] E-Ship 1 added four Flettner rotors to reduce diesel consumption — not to replace diesel, making the economics and risk profile of adoption far more tractable.
@@ -4585,7 +4584,6 @@ Generated on 2026-04-09 | 4565 actionable insights
 - [INS-260330-48F2] RuBisCo was optimized for a high-CO2 world, but when photosynthesis itself changed the atmosphere to high-O2, the enzyme started making toxic errors half the time.
 - [INS-260403-7DBB] Be selective with radical bets — pursue few enough to maintain conviction and execution quality, and size them so failure is survivable.
 - [INS-260403-5DF2] Using AWS credits year one, shifting to GCP year two, and testing Scaleway GPU pricing creates years of subsidized infrastructure through provider arbitrage.
-- [INS-260403-0CF7] Costco's $60 membership fee filters for households averaging $100K income, and business owners who represent one-third of members but two-thirds of sales.
 - [INS-260403-D5DC] Choose your startup location based on what fuels your business, not who funds it.
 - [INS-260403-0C2E] China's pattern of dramatic action followed by rapid reversal — '30-year oversteering' — produces worse outcomes than incremental course correction.
 - [INS-260403-2F28] Large-scale 4-day workweek trials show 40% productivity jumps and 67% lower burnout with no pay cuts.

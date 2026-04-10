@@ -17,12 +17,12 @@
 - `INS-260329-ABA1` Present your flaws first in dating — people unbothered by your downsides are your strongest matches.
 - `INS-260409-7249` During grief, presence is the asset — 'you don't call, you show up' is a costly signal that cannot be faked by low-effort outreach.
 - `INS-260403-6BF7` Developer influencers who master visibility often outperform technically superior peers in career outcomes.
+- `INS-260403-89A5` Chasing trendy tech stacks is identity performance, not engineering decision-making.
 - `INS-260403-D328` Saying no to corp dev meetings signals confidence and reminds acquirer founders of their own early discipline.
 - `INS-260404-6891` When most players in an ecosystem publicly commit to a standard, the holdouts face disproportionate reputational cost.
-- `INS-260403-89A5` Chasing trendy tech stacks is identity performance, not engineering decision-making.
 - `INS-260404-0427` A startup's .com domain matters more as a strength signal than as a way for users to find the company.
-- `INS-260403-8004` A founder packing boxes at $50M revenue does more for culture than any all-hands talk about being scrappy.
 - `INS-260404-AE2E` Publicly committing to ethical standards beyond legal requirements attracts top talent who self-select for principled employers.
+- `INS-260403-8004` A founder packing boxes at $50M revenue does more for culture than any all-hands talk about being scrappy.
 - `INS-260404-ED0F` With limited time and technical understanding, investors use your confidence as a proxy for product quality — but it must be shown, never stated.
 - `INS-260405-12E6` Investors who can't evaluate your product in 10 minutes will fall back on your own apparent conviction as the main signal.
 - `INS-260402-66A5` VCs select for founders who are best at performing certainty, not founders with the best businesses.

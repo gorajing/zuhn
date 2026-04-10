@@ -1,8 +1,8 @@
 # Tag: optionality
 
-- `INS-260403-D7C4` When every possible life path is visible simultaneously, choosing any single path feels like losing all the others — so people choose nothing.
 - `INS-260403-4717` Prefer investments with platform optionality over single-asset bets because the asymmetric downside of binary outcomes destroys portfolio returns.
 - `INS-260404-7F24` Optionality embedded in fund structure creates asymmetric upside that rigid allocation models cannot capture.
+- `INS-260403-D7C4` When every possible life path is visible simultaneously, choosing any single path feels like losing all the others — so people choose nothing.
 - `INS-260403-497B` Leadership titles are stepping stones to career optionality, not end destinations — optionality enables you to craft work on your own terms.
 - `INS-260402-B66A` Your early twenties offer unique exploration that a startup's all-consuming depth-first search permanently forecloses.
 - `INS-260403-A6F1` Careers can be evaluated like financial instruments—liquid paths offer security and optionality while illiquid paths carry concentrated risk and reward.

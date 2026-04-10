@@ -1,6 +1,6 @@
 # Domain: startups
 
-> 4193 insights across 54 topics
+> 4189 insights across 54 topics
 
 ## Topics
 
@@ -14,7 +14,7 @@
 | community-building | 7 | A 25% hard cap for underrepresented categories lets curators correct homogeneity without destroying participant trust in merit-based selection. |
 | company-culture | 2 | Costco pays double the retail average wage and reports three times the productivity, suggesting high wages are a competitive lever rather than a constraint. |
 | competition | 1 | Landing a rocket once proves engineering; landing and relaunching it cheaply proves the business. |
-| competitive-strategy | 537 | 3D portfolio websites signal elite skill to non-technical evaluators while requiring only beginner-level Three.js knowledge. |
+| competitive-strategy | 536 | 3D portfolio websites signal elite skill to non-technical evaluators while requiring only beginner-level Three.js knowledge. |
 | content-strategy | 68 | Rogan gained 2 million subscribers during his cancellation attempt because the coordinated media attack inadvertently proved his independence from institutional control. |
 | customer-discovery | 4 | You cannot identify gains until you've mapped the expectation floor — everything below it is pain, everything at it is neutral. |
 | decision-making | 1 | Updating predictions to match outcomes after the fact eliminates any information the prediction contained and corrupts future calibration. |
@@ -53,7 +53,7 @@
 | sales | 183 | Send 100 personalized outreach messages daily using a compliment-plus-positioning formula to guarantee your first five customers through pure volume. |
 | scaling | 175 | Startups need 2-3x longer than founders expect to validate their market, and 70% scale prematurely — largely explaining the 90% failure rate. |
 | startup-ecosystem | 5 | Entrepreneurship programs designed around employment outcomes rather than viable business models systematically fail both goals. |
-| strategy | 241 | The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples. |
+| strategy | 238 | The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples. |
 | team-building | 1 | Searching for a technical cofounder before validating demand is backwards — demand attracts technical talent. |
 | timing | 60 | Enterprise SaaS IPOs from 2012 outperformed expectations by solving deep operational pain points with recurring revenue models. |
 | unit-economics | 3 | CAC and churn are the two variables that determine whether a SaaS business is structurally viable — everything else is execution. |

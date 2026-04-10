@@ -10,9 +10,9 @@
 - `INS-260409-5E40` Solving open-but-neglected problems is less impressive than it sounds: the problems are tractable, just understaffed.
 - `INS-260330-B153` Score translation quality without reference translations by training a separate quality estimation model on human error judgments
 - `INS-260330-EC22` Real-world workflow tests reveal performance truths that synthetic benchmarks systematically miss due to component-level measurement bias.
+- `INS-260403-5AAC` Taking a vote on art quality is like finding north with a compass next to a magnet — the error overwhelms the signal, so more data just measures more error.
 - `INS-260405-3E73` Anonymizing submissions is the only reliable way to prevent social proximity from contaminating quality judgments.
 - `INS-260404-7C63` We judge early ambitious work by finished-work standards because we never developed customs for the special case of nascent projects.
-- `INS-260403-5AAC` Taking a vote on art quality is like finding north with a compass next to a magnet — the error overwhelms the signal, so more data just measures more error.
 - `INS-260403-5EE3` Applying finished-work standards to early-stage projects is a category error that destroys ambitious work.
 - `INS-260404-4127` Give a founder one sentence of advice and observe whether they chase down all its implications — this tests general resourcefulness, not just communication skill.
 - `INS-260404-695D` We judge early ambitious work harshly because we have no cultural customs for it, not because skepticism is hardwired.

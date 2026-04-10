@@ -9,11 +9,11 @@
 - `INS-260330-64E1` Even solo founders should put standard 4-year vesting on their shares to set cultural precedent and satisfy investor expectations.
 - `INS-260330-3E6F` Among YC's highest-valued companies, none had significantly unequal founder equity splits.
 - `INS-260329-5514` Revenue and profit grow enterprise value by a multiple (3-20x), making equity appreciation the dominant wealth creation lever over personal income.
-- `INS-260405-5BA9` Equity fundraising is often chosen by default rather than necessity, costing founders compounding ownership they never recover.
-- `INS-260329-60CF` Owning equity in a profitable business reaches millionaire status far faster than saving from high income due to valuation multipliers.
 - `INS-260330-E4D9` Demoting an executive preserves their above-market equity while destroying their authority, making it worse than a clean separation for everyone involved.
 - `INS-260403-85DE` An employee who improves expected outcomes by 20% is worth up to 16.7% equity before salary costs.
 - `INS-260330-C7FF` The most successful YC companies gave generous equity to early employees (~10% for first 10) while fighting to minimize investor dilution.
+- `INS-260405-5BA9` Equity fundraising is often chosen by default rather than necessity, costing founders compounding ownership they never recover.
+- `INS-260329-60CF` Owning equity in a profitable business reaches millionaire status far faster than saving from high income due to valuation multipliers.
 - `INS-260403-A3B2` Accelerator equity demands above 10% are a red flag indicating the program extracts more value than it creates.
 - `INS-260403-3F2C` Cuban argues raising money is an obligation, not an achievement — owning more of your company is the only path to outsized wealth.
 - `INS-260402-3D34` Excessive early dilution locks in low valuations that create down-round dynamics or insufficient upside for later-stage investors.
