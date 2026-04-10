@@ -496,10 +496,14 @@ async function main(): Promise<void> {
     console.log("");
     console.log("Running autoknowledge to extract insights...");
     try {
+      // Do not impose a harness-level wall-clock timeout here.
+      // autoknowledge.ts already has per-source extraction timeouts,
+      // periodic post-ingest checkpoints, and a lock file. A fixed
+      // outer timeout kills valid large batches (for example 50-source
+      // channel runs) before the child process can finish naturally.
       execFileSync("npx", ["tsx", "scripts/autoknowledge.ts"], {
         stdio: "inherit",
         cwd: join(__dirname, ".."),
-        timeout: 30 * 60 * 1000, // 30 min max
       });
     } catch (err: unknown) {
       const msg = err instanceof Error ? err.message : String(err);
