@@ -1352,6 +1352,127 @@ describe("detectTensions — candidate-judge pipeline", () => {
     }
   });
 
+  it("excludes archived insights from tension-candidates.json", async () => {
+    // Two active insights and one archived insight, all semantically close.
+    // Expectation: the archived insight must NEVER appear in any candidate pair.
+    const active1 = makeInsight({
+      id: "INS-260320-AAAA",
+      title: "Test insight alpha",
+      status: "active",
+      resolutions: { one_line: "Alpha one line", standard: "Alpha standard" },
+    });
+    const active2 = makeInsight({
+      id: "INS-260320-BBBB",
+      title: "Test insight beta",
+      status: "active",
+      resolutions: { one_line: "Beta one line", standard: "Beta standard" },
+    });
+    const archived = makeInsight({
+      id: "INS-260320-CCCC",
+      title: "Test insight gamma",
+      status: "superseded",
+      resolutions: { one_line: "Gamma one line", standard: "Gamma standard" },
+    });
+
+    const pathA = await writeInsightFile(kbRoot, active1);
+    const pathB = await writeInsightFile(kbRoot, active2);
+    const pathC = await writeInsightFile(kbRoot, archived);
+
+    upsertInsight(db, active1, pathA);
+    upsertInsight(db, active2, pathB);
+    upsertInsight(db, archived, pathC);
+
+    // All three embeddings near the same base so every pair is a neighbor.
+    const baseEmb = syntheticEmbedding(42);
+    upsertEmbedding(db, "INS-260320-AAAA", baseEmb);
+    upsertEmbedding(db, "INS-260320-BBBB", similarEmbedding(baseEmb, 0.01));
+    upsertEmbedding(db, "INS-260320-CCCC", similarEmbedding(baseEmb, 0.015));
+
+    await detectTensions(db, kbRoot);
+
+    const candidatesPath = join(kbRoot, "meta", "tension-candidates.json");
+    // The file must exist — A and B are active and close, so at least one candidate should form.
+    expect(existsSync(candidatesPath)).toBe(true);
+
+    const parsed = JSON.parse(await readFile(candidatesPath, "utf-8"));
+    const touchesArchived = parsed.candidates.some(
+      (c: CandidatePair) =>
+        c.id_a === "INS-260320-CCCC" || c.id_b === "INS-260320-CCCC"
+    );
+    expect(touchesArchived).toBe(false);
+  });
+
+  it("strips pre-existing archived-insight candidates during merge", async () => {
+    // Simulates the post-dedup stale-candidate scenario: tension-candidates.json
+    // already contains pairs involving insights that were later archived.
+    // detectTensions must drop them during the merge step, not preserve them.
+    const active1 = makeInsight({
+      id: "INS-260320-AAAA",
+      title: "Active one",
+      status: "active",
+      resolutions: { one_line: "Active one line A", standard: "A standard" },
+    });
+    const active2 = makeInsight({
+      id: "INS-260320-BBBB",
+      title: "Active two",
+      status: "active",
+      resolutions: { one_line: "Active one line B", standard: "B standard" },
+    });
+    const archived = makeInsight({
+      id: "INS-260320-CCCC",
+      title: "Archived one",
+      status: "superseded",
+      resolutions: { one_line: "Archived one line", standard: "C standard" },
+    });
+
+    upsertInsight(db, active1, await writeInsightFile(kbRoot, active1));
+    upsertInsight(db, active2, await writeInsightFile(kbRoot, active2));
+    upsertInsight(db, archived, await writeInsightFile(kbRoot, archived));
+
+    // Give the two actives embeddings so the mechanism runs and hits the merge path.
+    const baseEmb = syntheticEmbedding(42);
+    upsertEmbedding(db, "INS-260320-AAAA", baseEmb);
+    upsertEmbedding(db, "INS-260320-BBBB", similarEmbedding(baseEmb, 0.01));
+    // No embedding for archived — mirrors the real case where the embedding may
+    // or may not linger; what matters is that the STALE candidate entry must go.
+
+    // Pre-seed a stale candidate that touches the archived insight.
+    const stalePair: CandidatePair = {
+      pair_key: ["INS-260320-AAAA", "INS-260320-CCCC"].sort().join("|"),
+      id_a: "INS-260320-AAAA",
+      id_b: "INS-260320-CCCC",
+      title_a: "Active one",
+      title_b: "Archived one",
+      stance_a: null,
+      stance_b: null,
+      confidence_a: "medium",
+      confidence_b: "medium",
+      content_distance: 0.25,
+      polarity_score: 3,
+    };
+    await mkdir(join(kbRoot, "meta"), { recursive: true });
+    await writeFile(
+      join(kbRoot, "meta", "tension-candidates.json"),
+      JSON.stringify({
+        generated_at: "2026-04-08T00:00:00.000Z",
+        candidate_count: 1,
+        candidates: [stalePair],
+      }, null, 2) + "\n",
+      "utf-8"
+    );
+
+    await detectTensions(db, kbRoot);
+
+    const parsed = JSON.parse(
+      await readFile(join(kbRoot, "meta", "tension-candidates.json"), "utf-8")
+    );
+    const stillPresent = parsed.candidates.some(
+      (c: CandidatePair) =>
+        c.id_a === "INS-260320-CCCC" || c.id_b === "INS-260320-CCCC"
+    );
+    expect(stillPresent).toBe(false);
+  });
+
   it("merges new candidates with existing file without duplicates", async () => {
     // Pre-populate a candidates file
     const existingCandidate: CandidatePair = {

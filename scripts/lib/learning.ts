@@ -1314,10 +1314,22 @@ export async function detectTensions(
   const DISTANCE_THRESHOLD = 0.25;
   const CANDIDATE_THRESHOLD = 0.35;
 
-  // 1. Get all embedded insight IDs
-  const embeddedRows = db
-    .prepare("SELECT id FROM embeddings WHERE id LIKE 'INS-%'")
+  // 1. Get all embedded insight IDs — restricted to active insights only.
+  // Archived/superseded insights still live in the embeddings table after
+  // dedup passes move their files into knowledge-base/archive/, but they
+  // must not participate in tension or candidate detection.
+  const activeRows = db
+    .prepare(
+      "SELECT id FROM insights WHERE status = 'active' AND id LIKE 'INS-%'"
+    )
     .all() as { id: string }[];
+  const activeInsightIds = new Set(activeRows.map((r) => r.id));
+
+  const embeddedRows = (
+    db
+      .prepare("SELECT id FROM embeddings WHERE id LIKE 'INS-%'")
+      .all() as { id: string }[]
+  ).filter((r) => activeInsightIds.has(r.id));
 
   if (embeddedRows.length < 2) {
     return { newTensions: 0, tensions: [] };
@@ -1386,6 +1398,8 @@ export async function detectTensions(
       if (n.id === row.id) continue;
       if (n.distance >= CANDIDATE_THRESHOLD) continue;
       if (!n.id.startsWith("INS-")) continue;
+      // Archived insights still have embedding rows; skip them on the B side too.
+      if (!activeInsightIds.has(n.id)) continue;
 
       // Canonical pair key to avoid duplicates
       const pairKey = [row.id, n.id].sort().join("|");
@@ -1527,10 +1541,18 @@ export async function detectTensions(
     } catch { /* ignore */ }
   }
 
+  // Drop any pre-existing candidates whose insights have since been archived.
+  // This is the post-dedup cleanup path: dedup passes archive insights after
+  // the candidates file was last written, leaving stale pairs that falsely
+  // surface as "tensions" in future reviews.
+  const liveExistingCandidates = existingCandidates.filter(
+    (c) => activeInsightIds.has(c.id_a) && activeInsightIds.has(c.id_b)
+  );
+
   // Merge, dedup by pair_key, sort by polarity_score desc then distance asc
-  const existingKeys = new Set(existingCandidates.map((c: CandidatePair) => c.pair_key));
+  const existingKeys = new Set(liveExistingCandidates.map((c: CandidatePair) => c.pair_key));
   const merged = [
-    ...existingCandidates,
+    ...liveExistingCandidates,
     ...uncachedCandidates.filter((c) => !existingKeys.has(c.pair_key)),
   ].sort((a, b) =>
     (b.polarity_score ?? 0) - (a.polarity_score ?? 0) ||
