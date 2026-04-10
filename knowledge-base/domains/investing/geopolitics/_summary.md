@@ -1,6 +1,6 @@
 # Topic: geopolitics
 
-> 522 insights
+> 533 insights
 
 - `INS-260326-3E19` [very_high] Pharmaceutical companies funding the FDA, banks staffing financial regulators, and tech giants writing platform regulations are structurally identical -- the mechanism is industry-funded oversight producing industry-favorable rules.
 - `INS-260326-79DF` [very_high] Germany's unrestricted submarine warfare sank 886,000 tons in April 1917 alone -- a tactical triumph that brought America into the war and guaranteed Germany's defeat.
@@ -19,6 +19,7 @@
 - `INS-260325-4C16` [high] Alexander won with 40,000 troops against millions by moving faster than enemies could react — speed and adaptability beat numbers.
 - `INS-260327-FB61` [high] Germany's 1918 Spring Offensive gained more territory than any operation since 1914 but exhausted its last reserves, so when the Allies counterattacked with fresh American troops, Germany had nothing left.
 - `INS-260410-C207` [high] The WWII Allies had mutually exclusive end-states but a common existential enemy in Hitler, while the Axis shared ideology but fought parallel wars because their primary enemies didn't align — which let the Allies defeat them in detail.
+- `INS-260410-3A64` [high] The 'insurance policy' on American Maritime order is its allies and institutions (UN, EU, NATO); China's lonely roster of North Korea and Iran reveals how little of this insurance it actually holds.
 - `INS-260403-1462` [high] Defense-industrial catch-up requires allied co-manufacturing because domestic reshoring timelines are too slow against urgent threats.
 - `INS-260327-23FA` [high] During the Battle of Leipzig, Saxon and other German troops switched sides mid-battle to join the coalition, accelerating Napoleon's defeat.
 - `INS-260327-B6B7` [high] America represents 4% of global population but 33% of consumer spending, with consumer debt surpassing $1T in high-risk categories alone, suggesting this spending model has reached its structural limits.
@@ -55,6 +56,7 @@
 - `INS-260327-5DD3` [high] Murat was the greatest cavalry commander of his era but a disastrous king — his instinct for dramatic personal action was perfect for leading charges but catastrophic for governance.
 - `INS-260325-854D` [high] China's senior leadership were all trained engineers who build compulsively — roads, homes, economies, souls. America's elite are mostly lawyers who block everything, good and bad.
 - `INS-260403-42E4` [high] China is historically unique as a US competitor — no prior adversary ever matched 60% of US GDP, yet China now contests American technological edge across multiple domains.
+- `INS-260410-2D8E` [high] China's central economic distortion is too much supply and too little demand — the inverse of America's NIMBY scarcity model.
 - `INS-260403-C621` [high] China's expanding rare earth export controls create chokepoint leverage over every major technology supply chain.
 - `INS-260323-E214` [high] The biggest misconception about China's economy is that it is centrally commanded — in reality, local mayors and provincial governors drive reform and innovation in a fiercely competitive decentralized system.
 - `INS-260403-6FEB` [high] China's upstream mastery of batteries and electric motors is cascading into downstream dominance in drone delivery, autonomous vehicles, flying taxis, and urban robotics — creating an integrated 'Electric Tech Stack.'
@@ -76,6 +78,7 @@
 - `INS-260327-AA2C` [high] Belisarius's key innovation was integrating heavy cavalry, mounted archers, and infantry into coordinated tactics that no opponent could counter with any single approach.
 - `INS-260410-0575` [high] Soviet planners couldn't know actual productivity, capital value, or consumer preferences because every subunit lied about inventories and needs, and the lies aggregated upward until top leadership was navigating on garbage data.
 - `INS-260330-43FF` [high] Commodity price charts correlate strongly with political instability in the developing world — the Arab Spring and post-Ukraine spikes both preceded widespread unrest.
+- `INS-260410-19E3` [high] Communist regimes are brilliant at maintaining power but deliver compounding poverty as a direct byproduct of the same mechanisms.
 - `INS-260323-9E67` [high] In deep geopolitical conflicts, each side constructs an internally coherent narrative from the same historical facts — and these narratives are often mutually exclusive.
 - `INS-260327-2356` [high] Alexander's army conquered from Greece to India but grew increasingly mutinous the further they marched from home — his own soldiers eventually refused to go further.
 - `INS-260405-5EB2` [high] Peak-consensus forecasts of national rise historically coincide with the onset of structural decline.
@@ -174,6 +177,7 @@
 - `INS-260327-8BF6` [high] The Abbasid Golden Age attracted scholars from every religion and ethnicity — Muslim, Christian, Jewish, Persian, Greek, Indian — because Baghdad was uniquely tolerant and welcoming of talent.
 - `INS-260403-AE6A` [high] The BLS revised nonfarm employment down by 911K jobs, revealing the labor market was substantially weaker than monthly reports indicated.
 - `INS-260403-47E3` [high] Repurposing foreign-adversary regulatory tools against domestic companies in contract disputes poisons both the tool and the investment climate.
+- `INS-260410-1D41` [high] America fought Japan to preserve the international system of laws and free navigation — the same logic driving European unification against Russia today.
 - `INS-260327-E751` [high] Spanish guerrillas couldn't defeat French armies in open battle but made occupation so costly through constant harassment that France eventually bled out.
 - `INS-260323-A3DB` [high] Saudi Arabia and Gulf states are accelerating their pivot toward China because the US repeatedly failed to protect oil infrastructure (Aramco 2019, current Iran strikes on Qatar/Saudi/UAE) while prioritizing Israel — creating a structural shift in Middle East security alignment.
 - `INS-260327-26D3` [high] You don't matter anymore economically speaking - GDP, stock markets, and employment figures increasingly reflect a financial economy that most people don't participate in.
@@ -231,6 +235,7 @@
 - `INS-260327-B3B3` [high] The Crusader States established after Jerusalem's capture became feudal kingdoms serving noble self-interest rather than the religious mission that justified their creation.
 - `INS-260327-3F8B` [high] At Leipzig, Napoleon faced four converging armies and could no longer use his signature move of defeating each in isolation.
 - `INS-260325-5096` [high] Napoleon's Russian disaster proves that logistics cannot scale linearly with army size — supply chains have a hard distance ceiling.
+- `INS-260410-4A68` [high] Marshall Plan cash worked in Germany and Japan because they already had institutions to rebuild; the same playbook fails in China, Iraq, and Afghanistan where those institutions never existed.
 - `INS-260410-5735` [high] Japan and Germany recovered after WWII because they already had the institutional scaffolding; China, Iraq, and Afghanistan couldn't because it didn't exist and can't be imported with dollars.
 - `INS-260327-3675` [high] Nasser's nationalization of the Suez Canal succeeded because he correctly judged that the US and Soviet Union would prevent Britain and France from reversing it by force.
 - `INS-260327-DFD8` [high] Britain's naval blockade of Germany was boring and invisible but arguably the single most important factor in winning WW1 — it slowly starved Germany's economy and population.
@@ -258,6 +263,7 @@
 - `INS-260327-99CE` [high] Money loves certainty - businesses can adapt to bad rules but cannot plan around rules that change weekly.
 - `INS-260327-891F` [high] The French Revolution cleared an entire generation of aristocratic officers from the army, opening the door for a 24-year-old Corsican to become a general.
 - `INS-260323-4473` [high] In business you solve a problem and move on; in political deal-making, the conclusion of one problem set is the beginning of an entirely new paradigm that must sustain itself.
+- `INS-260410-7028` [high] Telling a 1945 American GI who just finished a three-year WWII tour to go die in China was politically impossible, which is why counterfactuals about 'saving China' miss the binding constraint — domestic willpower, not strategic insight, was the limit.
 - `INS-260330-D429` [high] Zimbabwe's forced land redistribution cut agricultural output by 50-90% because the new farmers lacked the tacit expertise that made the farms productive.
 - `INS-260403-A726` [high] Today's population decline is unprecedented because it stems from voluntary structural forces, not involuntary external shocks.
 - `INS-260327-F93A` [high] Canada's GDP grew while GDP per capita stagnated for a decade because population growth through immigration expanded the denominator, masking declining individual prosperity.
@@ -334,10 +340,12 @@
 - `INS-260327-CB71` [high] Austrian relief armies in Italy were consistently hampered by supply difficulties through Alpine passes, while Napoleon's shorter supply lines from France gave him a logistical advantage.
 - `INS-260330-825F` [high] Economic ties between nations cannot prevent war when survival is at stake, because security always trumps prosperity in the realist hierarchy.
 - `INS-260327-BF95` [high] During the Great Leap Forward, local officials inflated grain production numbers because reporting shortfalls was punished — so Beijing exported food while millions starved.
+- `INS-260410-7E29` [high] Pearl Harbor was an A+ military operation that converted isolationist America into Japan's destroyer — proving tactical perfection is worthless if it mobilizes a vastly stronger opponent.
 - `INS-260327-26F2` [high] Napoleon's 1814 campaign in France was tactically brilliant — he won multiple battles against larger forces — but it couldn't prevent defeat because France was exhausted after 20 years of war.
 - `INS-260323-493D` [high] Tactical nuclear weapons — designed for battlefield use — are the most dangerous category because their use almost certainly triggers full strategic nuclear exchange.
 - `INS-260327-42BA` [high] Most of Napoleon's marshals were brilliant under his direct command but failed dramatically when given independent responsibility — their talent was in execution, not strategic thinking.
 - `INS-260403-20ED` [high] Research on 25M+ shipments shows 96% of US tariff burden falls on American importers and consumers, not foreign sellers.
+- `INS-260410-BA3A` [high] Smoot-Hawley raised US tariffs to protect jobs in the Depression, but other countries retaliated, costing more American jobs and creating the economic conditions that let fascists take power in Germany and Japan.
 - `INS-260405-E027` [high] China's national champions are subsidized at cost, dump product to shape spot prices, and receive loans and grants that make them structurally unbeatable by tariffs alone.
 - `INS-260403-7779` [high] China's share of US imports fell from over one-fifth to less than one-thirteenth, but America's overall trade deficit remains largely unchanged.
 - `INS-260330-4980` [high] Tariffs create a bottleneck where industries must petition for exemptions, enabling corruption through selective enforcement.
@@ -352,6 +360,7 @@
 - `INS-260327-3528` [high] Belisarius was arguably history's greatest military commander but couldn't overcome the Byzantine system of court intrigue, underfunding, and jealous emperors that sabotaged his campaigns.
 - `INS-260322-06EA` [high] Every round of Facebook, Stripe, and similar companies was called 'insane' by consensus — Yuri Milner invested at $5B because he'd run a social network and could do math others couldn't.
 - `INS-260322-03DD` [high] a16z was criticized for raising their first fund in 2009 during the financial crisis, but it turned out that raising when nobody else has capital gives structural advantages in deal access and pricing.
+- `INS-260410-CE69` [high] Mao weaponized teenage Red Guards against the party apparatus because Liu Shaoqi and Deng Xiaoping were pulling the plug on him after the Great Leap Forward killed tens of millions.
 - `INS-260327-25C7` [high] Marshal Grouchy's failure to march to Waterloo when he heard the guns — pursuing a phantom Prussian force instead — turned a possible French victory into total defeat.
 - `INS-260403-2B95` [high] The same core components (batteries, motors, power electronics) underpin EVs, drones, robots, and AI data centers, making them a single interconnected industrial revolution.
 - `INS-260327-35CB` [high] Russia defeated Napoleon in 1812 primarily by refusing to fight decisive battles — retreating, burning their own territory, and letting distance and winter destroy the Grande Armee.
@@ -403,6 +412,7 @@
 - `INS-260410-5CDC` [high] China won the 1962 Sino-Indian War and took the Aksai Chin Plateau it wanted, but the cost was turning an idealistic, non-militarized India into a permanent adversary that doubled its army within a decade — and foreclosed any possibility of a China–India partnership that would have reshaped the global order.
 - `INS-260327-70A4` [high] Napoleon seized Spain easily but then faced six years of guerrilla war that drained more French resources than any conventional campaign.
 - `INS-260325-3A0E` [high] WWI proves that interlocking alliance systems turn local crises into global catastrophes — complexity creates systemic fragility.
+- `INS-260410-7D8E` [high] The CCP never stopped believing in communism — Deng's liberalization was a modification of economic tactics, not a change in the party's fundamental identity, and Xi is now walking it back.
 - `INS-260327-1F6A` [high] Americans aged 25-44 are 2.5x more likely to die than peers in other wealthy nations, with a 20-year life expectancy gap between the richest and poorest US counties.
 - `INS-260327-2DF7` [high] The 26-year-old Napoleon took risks in Italy that older, more cautious Austrian commanders wouldn't contemplate — and those risks paid off spectacularly.
 - `INS-260403-FAA2` [high] Zero-sum economic thinking fails because economies generate wealth through production, not by dividing a fixed pool of resources.
@@ -470,6 +480,7 @@
 - `INS-260403-2225` [medium] U.S. monetary regime changes have been crisis-forced rather than voluntarily chosen, from the 1907 Panic creating the Fed to France's gold demands ending Bretton Woods.
 - `INS-260404-4BC4` [medium] Stacking AI disruption with geopolitical chaos creates compound uncertainty that no single-variable model can price.
 - `INS-260330-F488` [medium] Nuclear deterrence works through the manipulation of risk — limited nuclear use signals resolve and shifts the last clear chance to avoid Armageddon onto the adversary.
+- `INS-260410-3018` [medium] If a losing adversary calculates 'it's my last day,' they'll happily make it your last day too — which is why nuclear weapons invert the logic of decisive victory.
 - `INS-260321-21BE` [medium] Google's TPU (Tensor Processing Unit) is already competitive for AI workloads, but NVIDIA's software ecosystem moat delays competitors — the 90% monopoly era will gradually end.
 - `INS-260403-9D90` [medium] The 1973 and 1979 oil crises permanently shifted the market toward fuel-efficient Japanese cars, but Detroit reverted to SUVs in the 90s — a cycle that won't repeat because EVs are now fundamentally superior.
 - `INS-260325-B115` [medium] Chinese citizens tolerate authoritarian governance partly because they have watched their physical world transform — highways from zero, 1,000 parks in Shanghai, cleaner air — while Americans in static cities lose optimism.

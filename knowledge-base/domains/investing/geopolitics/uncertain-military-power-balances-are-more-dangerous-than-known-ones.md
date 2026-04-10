@@ -47,7 +47,6 @@ stance: >-
   the US or China is the stronger military power, and this uncertainty itself
   increases the probability of great-power conflict.
 related:
-  - INS-260327-08E7
   - INS-260403-AFCC
   - INS-260405-5341
   - INS-260404-82AA

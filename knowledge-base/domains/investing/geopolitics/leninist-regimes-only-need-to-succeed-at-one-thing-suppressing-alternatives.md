@@ -70,8 +70,8 @@ related:
   - INS-260403-4D45
   - INS-260403-2A50
   - INS-260409-05AC
+  - INS-260410-19E3
   - INS-260410-CBF9
-  - INS-260410-A992
 ---
 Kotkin's sharpest line: 'Communism can fail at everything. It can starve the people, it can kill the people. It only has to do one thing to survive: suppress political alternatives.' During Stalin's collectivization, the peasants had no political alternative — it was 'return to tsarism or keep communism.' During Mao's famines, the same. Today in China, the CCP's market reforms were driven by society pushing back against the ideology grudgingly, not by the party's brilliance — but the party survived because it never permitted political liberalization.
 

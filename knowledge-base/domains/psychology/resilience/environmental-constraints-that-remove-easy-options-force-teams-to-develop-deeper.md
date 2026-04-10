@@ -50,10 +50,10 @@ stance: >-
   problem-solving than teams with readily available escape routes.
 related:
   - INS-260330-5B59
+  - INS-260410-7E29
   - INS-260330-BD3C
   - INS-260323-A197
   - INS-260330-D0B4
-  - INS-260330-8E95
 evidence:
   - id: INS-260323-A197
     type: TRANSFERS_TO

@@ -47,10 +47,10 @@ stance: >-
   those who wait for ideal setup
 related:
   - INS-260327-AEC2
+  - INS-260410-3DAD
   - INS-260327-F417
   - INS-260322-D69E
   - INS-260403-39F6
-  - INS-260403-6279
 evidence:
   - id: INS-260327-F417
     type: TRANSFERS_TO

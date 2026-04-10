@@ -7,6 +7,7 @@
 - `INS-260409-8B3D` Napier: the investment question for the next 10-15 years is not 'which company wins' but 'who gets cheap credit and who gets excluded' — winners are re-industrialization, rearmament, defense, energy, robotics, and old-economy manufacturing.
 - `INS-260403-1462` Defense-industrial catch-up requires allied co-manufacturing because domestic reshoring timelines are too slow against urgent threats.
 - `INS-260410-3F35` 25 years of 50/50 JVs produced zero Chinese auto champions; 18 months of Tesla competing directly taught BYD the consumer design it needed to become world-class.
+- `INS-260410-2D8E` China's central economic distortion is too much supply and too little demand — the inverse of America's NIMBY scarcity model.
 - `INS-260403-F2A2` China's state-engineered AI strategy—targeting 90% penetration by 2030—follows the same playbook as its EV and robotics mobilizations.
 - `INS-260403-6FEB` China's upstream mastery of batteries and electric motors is cascading into downstream dominance in drone delivery, autonomous vehicles, flying taxis, and urban robotics — creating an integrated 'Electric Tech Stack.'
 - `INS-260405-F20C` Beijing designates industry priorities top-down but lets 300+ prefectural governments compete bottom-up to back local firms with subsidies and credit.

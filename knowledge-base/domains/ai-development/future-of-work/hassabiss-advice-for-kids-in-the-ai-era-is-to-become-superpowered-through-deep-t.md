@@ -48,8 +48,8 @@ stance: >-
 related:
   - INS-260405-945B
   - INS-260320-F78E
+  - INS-260410-D49F
   - PRI-260406-32FE
   - INS-260325-E84D
-  - PRI-260406-BD4D
 ---
 When asked how viewers should participate in the AI future, Hassabis's answer is concrete: 'I would immerse myself in every tool available and just become almost like superpowered with those tools and those capabilities.' He couples this with the capability-overhang observation — frontier labs can only explore a fraction of what their models enable, the gap is widening, and 'a kid these days could probably start a multi-billion dollar business in some new way using these tools that no one had thought about.' The career-advice implication is that domain depth is now subordinate to tool fluency plus creative application across domains.

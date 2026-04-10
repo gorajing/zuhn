@@ -1,6 +1,6 @@
 # Topic: group-dynamics
 
-> 99 insights
+> 101 insights
 
 - `INS-260330-2EB0` [high] The Pueblo Revolt shows that a shared existential threat can override deep tribal divisions — but the unity is temporary.
 - `INS-260403-D609` [high] Enforcers of orthodoxy compete with each other, creating a race to the bottom where any borderline idea gets banned.
@@ -76,6 +76,7 @@
 - `INS-260403-824F` [medium] People dismiss ambitious early work partly because they unconsciously fear that the creator's success would threaten their own relative status.
 - `INS-260404-8031` [medium] You need colleagues who can see promise in rough early work, not just people who say everything is great.
 - `INS-260403-E6A8` [medium] Both Fatima and Dhammakaya events show that emotionally primed crowds gazing at the sun converge on shared anomalous percepts without requiring a hoaxer or hypnotist.
+- `INS-260410-EBDC` [medium] Mao's Red Guards worked because telling teenagers with no life experience that they were in charge was incredibly empowering — and they started by killing the teachers who had given them hard grades.
 - `INS-260403-7644` [medium] Organizations that win by exercising power gradually lose the ability to win by doing better work.
 - `INS-260330-B4BD` [medium] Two generations of one-child families made small families the cultural norm in China, rendering policy reversal largely ineffective.
 - `INS-260403-68CE` [medium] A woman's probability of having a child spikes in the 12-24 months after a close friend gives birth, proving fertility decisions spread socially.
@@ -99,5 +100,6 @@
 - `INS-260403-500F` [medium] More disagreement online is a structural artifact of conversational media, not evidence that people are angrier.
 - `INS-260330-534C` [medium] Which words are considered most offensive shifts historically, tracking whatever a culture holds most sacred or anxiety-producing.
 - `INS-260403-EC1D` [medium] Even incentive-aligned coordination mechanisms like assurance contracts fail because human attention, comprehension, and decision-making capacity are the binding constraints, not free-riding.
+- `INS-260410-43F6` [medium] Xi Jinping personally suffered during the Cultural Revolution — his father was purged, his mother turned him away starving — yet he reveres Mao and is recentralizing the system that harmed him.
 - `INS-260330-6300` [medium] Taboo words often become taboo through class-based avoidance — higher-status groups abandon terms associated with lower-status groups, creating a euphemism treadmill.
 - `INS-260403-9A44` [low] Social backlash cycles can overshoot the original equilibrium, producing outcomes that exceed pre-controversy baselines.

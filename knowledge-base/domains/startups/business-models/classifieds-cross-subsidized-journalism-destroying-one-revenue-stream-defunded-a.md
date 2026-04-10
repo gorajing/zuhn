@@ -60,6 +60,7 @@ related:
   - INS-260405-FE5C
   - INS-260327-B45A
   - INS-260405-BAB0
+  - INS-260410-260E
 ---
 Newspapers like Newsday, The Village Voice, and the New York Post derived roughly 30% of their revenue from classified ads — small print listings charging up to $250 each. This wasn't cosmetically related to journalism; it was the economic engine that made investigative reporting, feature writing, and full-time newsrooms financially viable. When the internet (especially Craigslist) offered free classifieds, it didn't just hurt one revenue line — it pulled a structural pillar that the entire editorial operation rested on.
 

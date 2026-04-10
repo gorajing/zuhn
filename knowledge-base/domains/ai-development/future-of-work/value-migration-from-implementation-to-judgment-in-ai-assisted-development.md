@@ -51,7 +51,6 @@ stance: >-
   — not writing syntax
 related:
   - INS-260320-DEAF
-  - INS-260323-C984
   - INS-260323-DC99
   - INS-260323-0539
   - INS-260323-2726
@@ -60,6 +59,7 @@ related:
   - INS-260402-E470
   - INS-260402-1FE9
   - INS-260403-9FE2
+  - INS-260403-E78C
 ---
 The 'vibe coding' debate often frames AI code generation as a loss of fundamentals, but this misses the structural change in where value lives. When the cost of writing code approaches zero, the hard part is no longer typing syntax — it is deciding what should exist, evaluating the results, and exercising taste. The human role migrates from being the engine to being the editor-in-chief.
 

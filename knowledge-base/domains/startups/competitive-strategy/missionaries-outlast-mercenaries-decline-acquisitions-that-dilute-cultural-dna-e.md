@@ -49,10 +49,10 @@ stance: >-
   correct long-term play even when the pragmatic case for acquisition is strong
 related:
   - INS-260330-B384
+  - INS-260410-6290
   - INS-260327-F95F
   - INS-260403-3155
   - INS-260330-CECB
-  - INS-260330-27E8
 evidence:
   - id: INS-260327-F95F
     type: CHALLENGES

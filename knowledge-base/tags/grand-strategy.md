@@ -2,6 +2,7 @@
 
 - `INS-260410-C207` The WWII Allies had mutually exclusive end-states but a common existential enemy in Hitler, while the Axis shared ideology but fought parallel wars because their primary enemies didn't align — which let the Allies defeat them in detail.
 - `INS-260410-D1A4` Continental empires like Russia and China survive by systematically destabilizing neighbors sequentially rather than forming lasting alliances, because no great power wants another great power on its border.
+- `INS-260410-1D41` America fought Japan to preserve the international system of laws and free navigation — the same logic driving European unification against Russia today.
 - `INS-260410-5CDC` China won the 1962 Sino-Indian War and took the Aksai Chin Plateau it wanted, but the cost was turning an idealistic, non-militarized India into a permanent adversary that doubled its army within a decade — and foreclosed any possibility of a China–India partnership that would have reshaped the global order.
 - `INS-260410-FA8E` Victory goes to whoever can identify the culminating point — push too far and you trigger counterattacks, third-party interventions, or supply collapse that erase your winnings.
 - `INS-260410-71D2` DIME (diplomacy, information, military, economics) is a decent starting point but Japan won on railways, loans, psyops, and Anglo-Japanese alliance terms — the decisive instruments are always context-specific.

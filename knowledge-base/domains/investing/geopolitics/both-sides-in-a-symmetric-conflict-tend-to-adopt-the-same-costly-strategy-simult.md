@@ -51,11 +51,12 @@ stance: >-
   individual advantage.
 related:
   - INS-260326-79DF
-  - INS-260327-FB61
   - INS-260327-719D
   - INS-260327-7F88
   - INS-260327-E7AC
+  - INS-260327-FB61
   - INS-260327-F274
+  - INS-260410-0065
 ---
 Both the German attack at Verdun and the British/French attack at the Somme were conceived as attrition strategies: bleed the enemy white. But when both sides simultaneously pursued the same strategy, the result was mutual bleeding rather than one-sided advantage. Germany lost 350,000 at Verdun, France 400,000. Britain lost 420,000 at the Somme, Germany 465,000. The net strategic change was approximately zero.
 

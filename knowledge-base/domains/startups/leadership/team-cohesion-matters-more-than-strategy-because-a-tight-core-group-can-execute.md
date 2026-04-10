@@ -54,7 +54,6 @@ related:
   - INS-260330-F800
   - INS-260325-86B3
   - INS-260330-8156
-  - INS-260403-A739
 stance: >-
   After 20 years running Meta, Zuckerberg's biggest lesson is that a cohesive
   leadership team can accomplish almost anything, while strategic brillia...

@@ -54,6 +54,7 @@ related:
   - INS-260323-7CA7
   - INS-260323-3A54
   - INS-260330-2D6D
+  - INS-260410-EBDC
 stance: >-
   Boxing saved Atlas from self-destruction by providing structure and discipline
   that redirected violent anger into mastery

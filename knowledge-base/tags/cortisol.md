@@ -18,7 +18,7 @@
 - `INS-260325-4601` Growth hormone releases during early deep sleep — seven common nighttime habits suppress it and accelerate aging.
 - `INS-260327-F222` Stress and caffeine are the primary drivers of magnesium depletion in modern life
 - `INS-260325-EDC8` Waking at 2-3AM is a cortisol spike from dropping blood sugar — eating more fat at dinner prevents it.
-- `INS-260321-4B38` Current health tech can read biology (wearables, CGMs, blood tests) but cannot write to it — the massive startup opportunity is in interventions like palm/sole body-cooling devices for sleep, eye-movement sleep masks, and real-time cortisol modulation.
 - `INS-260325-9F4C` Loneliness keeps the body in chronic fight-or-flight mode, elevating cortisol and inflammation that wear away cardiovascular, metabolic, and brain systems.
 - `INS-260330-D38F` Expressing verbal affirmations to a partner measurably reduces their cortisol and cholesterol while boosting immune function — and produces the same benefits in the speaker.
 - `INS-260325-A66E` The stress response is a multi-phase system that shifts from automatic survival processing to reflective goal-driven thinking, with cortisol acting through both high-affinity and low-affinity receptors to create a self-regulating arc.
+- `INS-260321-4B38` Current health tech can read biology (wearables, CGMs, blood tests) but cannot write to it — the massive startup opportunity is in interventions like palm/sole body-cooling devices for sleep, eye-movement sleep masks, and real-time cortisol modulation.

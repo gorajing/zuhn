@@ -66,8 +66,8 @@ related:
   - INS-260409-4290
   - PRI-260328-8317
   - INS-260404-6BD6
+  - INS-260410-9AF4
   - INS-260327-5690
-  - INS-260329-E839
 ---
 Nadella's key distinction: knowledge work (the tasks) is different from the knowledge worker (the role). Today's knowledge work — email triage, meeting notes, slide creation, first-draft analysis — will be automated. But the second an AI handles that layer, a new cognitive labor task appears at a higher abstraction: reviewing the agent's selections, setting priorities, supervising multi-agent workflows, deciding which of the surfaced exceptions matter.
 

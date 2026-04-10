@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-10 | 4638 actionable insights
+Generated on 2026-04-10 | 4642 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1434,6 +1434,9 @@ Generated on 2026-04-10 | 4638 actionable insights
 - [INS-260410-AF9A] Imperial Japan's army and navy kept their war plans secret from each other, didn't hold liaison meetings until 1944, and hid the loss of four carriers at Midway for months — individual samurai excellence couldn't overcome structural stovepiping.
 - [INS-260410-DB1D] Paine's practical advice: check alignments before committing, reassess early and often, don't get hung up about changing your mind, and recognize that part of good strategy is accepting that some problems cannot be solved and routing scarce resources to ones that can.
 - [INS-260410-734F] In hunter-gatherer environments the best hunters are 36-40; in Silicon Valley the best founders are often 25 — because the rate of change determines how long a previous generation's knowledge stays useful.
+- [INS-260410-D31B] Paine, a Naval War College historian, explicitly endorses counterfactual replay as the primary pedagogical method — 'we teach by counterfactuals' — against commenters who mock the framing as naive.
+- [INS-260410-260E] The missionary-children Foreign Service officers correctly called the Chinese Civil War hopeless in 1945-46 based on ground truth, were purged by McCarthy for being right, and their fate illustrates both the value and the cost of honest net assessment.
+- [INS-260410-0857] Travel's epistemic value is in surfacing new questions about home, not in producing reliable answers about the destination.
 
 ## psychology/epistemics
 - [INS-260405-2B3F] Treating survey non-response as randomly missing data produces systematically wrong estimates whenever the stigmatized view is also the under-reported one.
@@ -1447,6 +1450,7 @@ Generated on 2026-04-10 | 4638 actionable insights
 - [INS-260409-5CD4] Julia Galef: 'Scout Mindset is the motivation to see what's really there and not just what you wish was there' — distinguishing it from soldier mindset where beliefs are defended against threatening evidence through rationalization, denial, and motivated reasoning.
 - [INS-260410-A33F] Argument, counterargument, rebuttal — but the rebuttal must come from a completely different angle than the original argument, or it's just repetition.
 - [INS-260410-0775] Chesterton's Fence is real — bitter cassava processing, food taboos, bow-making techniques encode causal logic that took centuries to evolve and that the people following them cannot explain.
+- [INS-260410-8E0D] Paine repeatedly tells Dwarkesh his questions are 'above my pay grade' — she can describe what the Japanese leadership faced, but can't say what was politically feasible for FDR without having served in government.
 
 ## psychology/expertise
 - [INS-260330-C7B5] Making a tool part of your identity makes you worse at evaluating alternatives.

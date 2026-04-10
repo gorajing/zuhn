@@ -1,6 +1,6 @@
 # Topic: future-of-work
 
-> 88 insights
+> 92 insights
 
 - `INS-260320-A745` [very_high] Anthropic's own studies show AI deskilling in coding is real, but depends on HOW you use models — some usage patterns cause skill degradation, some don't.
 - `INS-260321-9824` [very_high] Tao's papers now have more code, more plots, deeper literature searches — but the core mathematical work (pen and paper for the hardest part) hasn't been accelerated. AI enriches output without deepening it.
@@ -34,6 +34,7 @@
 - `INS-260410-2388` [high] The 'conservative' move of assuming AI progress will stop isn't neutral — you're claiming an established trend will break, which needs positive justification.
 - `INS-260329-3489` [high] Experts shift from spending 90% of time generating to spending most time on QA and validation of AI output.
 - `INS-260408-3691` [high] Hassabis to students: 'immerse myself in every tool available and become almost like superpowered' — the gap is creative application, not technical skill.
+- `INS-260410-045C` [high] Humans are valuable precisely because no one has to build a bespoke training loop to teach them each new lab-specific or company-specific skill.
 - `INS-260410-D834` [high] People who imagine fast automation are mentally modeling jobs as one simple task, but real jobs are bundles of many competences—automating the headline task barely moves the needle.
 - `INS-260320-5F14` [high] "Even if an AI is always going to be better than you at something, you can still learn that thing. You can still enrich yourself intellectually."
 - `INS-260327-32F1` [high] Career advice from successful people is inherently flawed by survivorship bias (only winners speak) and confirmation bias (they accentuate positives and eliminate negatives in retrospect).
@@ -44,6 +45,7 @@
 - `INS-260325-4846` [high] Every successful technology follows the same S-curve adoption pattern, and AI is at its steepest inflection.
 - `INS-260321-28FB` [high] Galileo didn't invent the telescope — the future of AI will be determined by the people who wield it, not the labs that built it.
 - `INS-260403-5D1F` [high] Software engineers are transitioning from master craftsmen to factory operators who set up and maintain AI systems, mirroring the Industrial Revolution's displacement of artisans.
+- `INS-260410-9AF4` [high] AI's collective edge over human labor isn't intelligence — it's that you can copy a trained worker millions of times with all their skills and judgment intact.
 - `INS-260404-B81C` [high] Career planning requires hedging across multiple fields rather than betting on a single professional track.
 - `INS-260321-9A03` [high] Workers who see their employer as invested in them are more optimistic about AI. Building trust in AI may require building trust in the people deploying it, more than changing attitudes toward the technology.
 - `INS-260321-99C0` [high] Share every major decision with AI daily, then monthly ask 'what was my biggest mistake in the past 6 months?' — accumulated context makes AI an increasingly powerful strategic advisor.
@@ -57,6 +59,7 @@
 - `INS-260410-3E37` [medium] Coding-model TFP gains went 5% → 15-20% in six months inside Anthropic, and continue snowballing as Amdahl's law bottlenecks get cleared one by one.
 - `INS-260329-72C1` [medium] AI multiplies individual productivity 100x by compressing inputs 10x and expanding outputs 10x simultaneously.
 - `INS-260325-11E9` [medium] AI turns interdependent work into solo work, risking the same 'alone together' fragmentation that social media created.
+- `INS-260410-49C5` [medium] Future AI organizations will blur the line between individual workers by constantly spawning specialized copies and merging their learnings back through latent-space communication.
 - `INS-260403-D5BB` [medium] AI labor debates are confused because participants argue from different layers of a $31T labor market without a shared framework.
 - `INS-260403-9A0C` [medium] European data shows AI adoption increases productivity without reducing employment, suggesting AI augments workers rather than replacing them.
 - `INS-260405-89E7` [medium] MiniMax hires for first-principles thinking across all backgrounds because AI handles execution — the scarce skill is knowing which questions to ask.
@@ -89,4 +92,5 @@
 - `INS-260409-9EE8` [medium] Past tech waves rewarded better swimmers — AI turns the water to gas, and even the best swimmer can't flap their way through air.
 - `INS-260409-A180` [medium] Hassabis softly rejects Marc Andreessen's 'history always repeats' view — AGI at 10x Industrial Revolution speed may exceed the economy's capacity to create replacement jobs.
 - `INS-260403-DED4` [medium] The economics of software will shift from 'AI writes, humans review' to fully autonomous AI development as quality improvements make human oversight cost-prohibitive.
+- `INS-260410-410E` [medium] Dwarkesh still hires a human editor to clean transcripts even though Claude 4 Opus can technically do the task, because he can't train the model to learn his preferences over time.
 - `INS-260405-18C8` [low] Like steam engines making coal cheaper and thereby increasing total coal consumption, AI lowering the cost of knowledge work will likely expand total demand for that work.

@@ -49,10 +49,10 @@ stance: >-
   US-founded competitors who bolt on internationalization later.
 related:
   - INS-260403-DC59
+  - INS-260410-3DAD
   - INS-260327-432E
   - INS-260403-1D92
   - INS-260327-E1EB
-  - PRI-260328-82BE
 ---
 Jack Zhang explicitly credits Airwallex's success to being 'an outsider, not part of the Silicon Valley ecosystem.' The insight is structural, not cultural: US startups can reach $50M in revenue without ever dealing with foreign payment systems. Australian startups cannot. This constraint forced Airwallex to design for multi-currency, multi-jurisdiction operations from day one.
 

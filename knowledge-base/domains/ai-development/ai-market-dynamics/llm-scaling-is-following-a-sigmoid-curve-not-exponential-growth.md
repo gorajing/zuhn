@@ -53,6 +53,7 @@ related:
   - PRI-260406-DE8A
   - INS-260329-577E
   - INS-260330-08E1
+  - INS-260410-AF67
 evidence:
   - id: INS-260330-C499
     type: CONTRADICTS

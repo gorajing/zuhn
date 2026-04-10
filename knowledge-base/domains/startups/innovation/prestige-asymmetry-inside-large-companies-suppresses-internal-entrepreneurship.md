@@ -52,7 +52,6 @@ stance: >-
   The low status of exploratory work inside large organizations is a structural
   barrier to innovation that cannot be solved by process alone.
 related:
-  - INS-260325-C29B
   - INS-260327-C464
   - INS-260327-A59A
   - INS-260328-0DFE
@@ -62,6 +61,7 @@ related:
   - INS-260403-E4AD
   - INS-260403-499B
   - PRI-260407-3179
+  - INS-260404-7325
 evidence:
   - id: INS-260328-0DFE
     type: CHALLENGES

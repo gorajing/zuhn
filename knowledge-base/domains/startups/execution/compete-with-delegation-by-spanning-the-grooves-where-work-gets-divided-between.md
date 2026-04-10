@@ -56,10 +56,10 @@ stance: >-
   integration insights live in the seams.
 related:
   - INS-260403-B387
+  - INS-260410-49C5
   - INS-260404-277E
   - INS-260330-B539
   - INS-260403-3876
-  - PRI-260403-6E50
 evidence:
   - id: INS-260330-B539
     type: TRANSFERS_TO

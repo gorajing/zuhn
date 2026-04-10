@@ -1,6 +1,6 @@
 # Topic: venture-capital
 
-> 289 insights
+> 291 insights
 
 - `INS-260403-6B24` [high] High-profile 2025 IPOs like Figma, Chime, and Navan traded below debut prices even as Nasdaq and S&P 500 rallied.
 - `INS-260405-0CAB` [high] 38% of VCs stopped doing deals in 2023, exposing a large cohort of cycle-dependent tourist investors who entered during the 2020-2021 bull market.
@@ -16,6 +16,7 @@
 - `INS-260403-5056` [high] Carta's analysis of 60,000+ startups reveals AI capturing 44% of US capital at record valuations while initial equity grants fell 50% since 2022.
 - `INS-260403-5CBD` [high] The top 1% of AI companies now absorb over a third of total VC funding, creating extreme capital concentration reminiscent of early internet dynamics.
 - `INS-260404-BEBB` [high] Record unicorn creation in 2020-2021 was driven by cheap capital, not proportional increases in transformational startups.
+- `INS-260410-5D08` [high] Innovation ecosystems depend on risk-tolerant investors; one arbitrary crackdown — or even the credible threat of one — can wreck the whole stack for a decade.
 - `INS-260404-0711` [high] Chamath's 2016 India bets around UPI were thesis-correct but timing-wrong, producing losses despite the ecosystem later validating every part of the investment thesis.
 - `INS-260403-4DFB` [high] In rapidly changing domains, evaluating people (earnest, energetic, independent-minded) outperforms evaluating ideas because future discoveries are unpredictable but discoverer traits are not.
 - `INS-260405-3E92` [high] MANG (Microsoft, Amazon, Alphabet, Nvidia) raised $25B+ in 2023 deals — roughly 8% of all North American venture capital — signaling Big Tech's structural entry into VC.
@@ -24,6 +25,7 @@
 - `INS-260403-D880` [high] Judging sky-high valuations by the revenue needed to justify them — given realistic margins, growth, and reinvestment — reveals that aggregated company narratives often exceed plausible total market demand.
 - `INS-260403-402F` [high] A messy cap table during due diligence signals broader operational dysfunction and is one of the fastest deal-killers in venture financing.
 - `INS-260404-FF8D` [high] Chamath's $380M write-down on Relativity Space illustrates how deep-tech venture bets can produce catastrophic single-position losses.
+- `INS-260410-3880` [high] Moonshot AI raised $1B at a $3B valuation while xAI's Memphis cluster alone costs $3-4B — Chinese frontier labs are funding-starved by Western standards.
 - `INS-260403-B8A3` [high] As companies remain private longer and Gen Z/Millennial investors demand private market access, equity tokenization fills a structural gap that traditional finance cannot address.
 - `INS-260403-2E2C` [high] Chamath's ~$62M concentrated bet on Groq from 2017 likely returned low single-digit billions, illustrating that outsized returns require tolerating long periods where being right feels indistinguishable from being wrong.
 - `INS-260403-AAAC` [high] Continuation funds address the growing mismatch between VC fund timelines and the longer paths to liquidity, especially in European venture.

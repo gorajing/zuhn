@@ -6,6 +6,7 @@
 - `INS-260405-8F5D` Granting a rival access to your market can fund their industrial buildup rather than moderate their regime — the WTO-China case is the canonical example.
 - `INS-260403-A2FE` Total protectionism against Chinese EVs risks isolating the US auto industry from the global EV transition, cutting off export markets and stalling critical technology development.
 - `INS-260403-20ED` Research on 25M+ shipments shows 96% of US tariff burden falls on American importers and consumers, not foreign sellers.
+- `INS-260410-BA3A` Smoot-Hawley raised US tariffs to protect jobs in the Depression, but other countries retaliated, costing more American jobs and creating the economic conditions that let fascists take power in Germany and Japan.
 - `INS-260405-E027` China's national champions are subsidized at cost, dump product to shape spot prices, and receive loans and grants that make them structurally unbeatable by tariffs alone.
 - `INS-260405-1CC3` The US-Taiwan deal reduces tariffs from 20% to 15% contingent on $500B in US semiconductor investment, making trade policy a reshoring mechanism.
 - `INS-260403-5710` Ever-shifting tariff regimes — imposing, exempting, reimposing under different authorities — make long-term business planning impossible, which suppresses investment independent of tariff levels.

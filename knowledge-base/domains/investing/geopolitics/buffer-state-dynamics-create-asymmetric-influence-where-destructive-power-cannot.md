@@ -50,11 +50,11 @@ stance: >-
   blunt-force tools would undermine.
 related:
   - INS-260321-86F1
+  - INS-260410-7E29
   - PRI-260406-91C2
   - INS-260321-D4D0
   - INS-260404-20F3
   - INS-260410-FA8E
-  - PRI-260324-2A76
   - INS-260403-8155
 evidence:
   - id: INS-260321-86F1

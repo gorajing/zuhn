@@ -56,9 +56,9 @@ related:
   - INS-260403-CBB0
   - INS-260329-04FA
   - INS-260325-001B
-  - INS-260327-1B9A
   - INS-260329-FA1C
   - INS-260329-20E8
+  - INS-260330-72D9
 stance: Mathematical training isn't just about solving equations
 evidence:
   - id: INS-260329-5427

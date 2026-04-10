@@ -50,6 +50,7 @@ related:
   - INS-260330-E263
   - INS-260404-D976
   - INS-260403-C0E6
+  - INS-260410-EBDC
 evidence:
   - id: INS-260327-94E6
     type: TRANSFERS_TO

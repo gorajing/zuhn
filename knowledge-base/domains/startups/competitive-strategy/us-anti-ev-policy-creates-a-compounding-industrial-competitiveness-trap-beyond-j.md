@@ -54,8 +54,8 @@ related:
   - INS-260403-2B95
   - INS-260403-2E12
   - INS-260325-4846
+  - INS-260410-797C
   - INS-260322-8147
-  - PRI-260328-7007
   - INS-260404-FAAC
 ---
 Battery cells, power electronics, electric motors, and battery management systems are shared components across EVs, drones, robots, and consumer electronics. Manufacturing these at scale drives down costs and up quality through learning curves — the same dynamic that made Asian electronics dominant.

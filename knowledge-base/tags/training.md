@@ -1,9 +1,9 @@
 # Tag: training
 
 - `INS-260409-60C2` Search is easy to bolt on; heavy training to synthesize dozens of papers without drift is what actually stopped Aletheia from fabricating references.
+- `INS-260327-991D` The shift from perceptual AI to generative AI and reasoning has made inference as compute-intensive as training.
 - `INS-260409-1FD3` RLHF trains models on human-rated responses, and humans rate fawning answers higher than critical ones — so the sycophantic personality is structurally baked in at training time, not an incidental bug fixable with prompt engineering.
 - `INS-260405-585D` Musk's observation that 'forcing an AI to believe false things drives it insane' points to a technical alignment problem: epistemic incoherence in training produces behavioral incoherence at inference.
-- `INS-260327-991D` The shift from perceptual AI to generative AI and reasoning has made inference as compute-intensive as training.
 - `INS-260409-8C6C` The three empirical studies on GenAI and critical thinking do not convict AI itself; they convict RLHF-trained sycophancy plus generic deferential chatbot interfaces — both of which are fixable design choices, not inherent limitations of the technology.
 - `INS-260320-5818` Main pretraining consumes 63% of total compute; plan for 37% additional budget for ablation studies, debugging, and restarts due to infrastructure failures.
 - `INS-260323-2651` Hotz argues that maximizing compression (cross-entropy) can never reach AGI because it produces 'mid' outputs — competent but never brilliant — and lacks the embodied feedback loops of human learning.
@@ -13,9 +13,9 @@
 - `INS-260405-57D6` OpenAI accidentally discovered that training transformers well past the overfitting threshold triggers a 'grokking zone' where genuine understanding and emergent behaviors emerge.
 - `INS-260323-3ED8` Rotating between heavy lifting and lighter/higher-rep training in 3-month cycles gives joints rest and changes hormonal cascades that directly affect cognitive performance.
 - `INS-260330-72D9` Strobe-light training goggles that reduce visual information during practice produce measurably better visual performance when removed — a principle being studied at Stanford's new Vision Performance Center.
+- `INS-260409-A62B` Galef: 'Those are mental and emotional habits; and I think training those habits through repeated practice is quite important' — scout thinking transfers from ideologically low-stakes domains (politics you don't care about, arguments you aren't emotionally invested in) to high-stakes personal decisions where accuracy actually matters.
 - `INS-260325-001B` CIA trains through educate-exercise-experience: learn a concept in class, practice it in role-play, then immediately apply it alone in the real world where only you know if you succeeded.
 - `INS-260404-DBD2` You can train competence but not exceptionalism — great programmers invent things ordinary ones would never conceive.
 - `INS-260403-402A` Running executive, team, and initiative-specific innovation training in parallel builds capability faster than sequential rollouts.
 - `INS-260403-6AB5` Match innovation program type (tactical vs. strategic vs. transformational) to your organization's current maturity for maximum ROI.
 - `INS-260325-B50B` CIA's three-step training model — educate, exercise, experience — compresses skill acquisition by immediately applying classroom learning in real-world settings with self-accountability.
-- `INS-260409-A62B` Galef: 'Those are mental and emotional habits; and I think training those habits through repeated practice is quite important' — scout thinking transfers from ideologically low-stakes domains (politics you don't care about, arguments you aren't emotionally invested in) to high-stakes personal decisions where accuracy actually matters.

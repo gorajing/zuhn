@@ -2,6 +2,7 @@
 
 - `INS-260327-7C60` Napoleon's marshals defected, retired, or switched sides when Napoleon fell because their loyalty was to him personally rather than to an institution or cause.
 - `INS-260327-E382` Venice endured as a republic for over 1,000 years with 117 successive doges, while surrounding monarchies rose and fell with their dynasties.
+- `INS-260410-CE69` Mao weaponized teenage Red Guards against the party apparatus because Liu Shaoqi and Deng Xiaoping were pulling the plug on him after the Great Leap Forward killed tens of millions.
 - `INS-260403-7285` Xi entering a 'lion in winter' paranoia phase may reduce Taiwan invasion risk but make China's domestic policy more erratic.
 - `INS-260327-8AE7` Many billionaire CEOs would create more value for shareholders by retiring and allowing succession than by continuing to lead with outdated strategies.
 - `INS-260330-D8D1` When founders leave, successor managers tend to optimize the mission away in pursuit of growth.

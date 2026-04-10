@@ -53,14 +53,12 @@ stance: >-
   level up reduces existential dependency on others.
 related:
   - INS-260323-3D7D
-  - INS-260330-5B59
   - INS-260330-2601
   - PRI-260406-62AD
   - INS-260403-B198
   - INS-260404-29AF
   - INS-260330-7B1C
   - INS-260403-130D
-  - INS-260410-991B
 evidence:
   - id: INS-260330-2601
     type: SUPPORTS

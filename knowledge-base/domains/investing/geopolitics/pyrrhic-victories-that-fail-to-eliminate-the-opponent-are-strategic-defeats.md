@@ -48,7 +48,6 @@ stance: >-
   without achieving the strategic objective.
 related:
   - INS-260325-4C16
-  - INS-260326-79DF
   - INS-260327-3D4D
   - INS-260327-AA3B
   - INS-260327-F98D
@@ -57,6 +56,7 @@ related:
   - PRI-260328-FA83
   - INS-260327-241F
   - INS-260327-377A
+  - INS-260327-A4BB
 evidence:
   - id: INS-260326-8189
     type: CHALLENGES

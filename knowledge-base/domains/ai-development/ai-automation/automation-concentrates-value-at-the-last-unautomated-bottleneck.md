@@ -51,9 +51,9 @@ stance: >-
 related:
   - INS-260330-9E91
   - INS-260403-CA46
+  - INS-260410-2D8E
   - INS-260329-36FF
   - PRI-260406-8778
-  - INS-260402-5C89
   - INS-260409-581B
 ---
 Kalanick's 'plumber thought experiment' illustrates a counterintuitive dynamic: if everything in construction were automated except plumbing, building capacity would explode, and every plumber would command LeBron-level compensation. The bottleneck absorbs all the value that automation creates elsewhere in the chain.

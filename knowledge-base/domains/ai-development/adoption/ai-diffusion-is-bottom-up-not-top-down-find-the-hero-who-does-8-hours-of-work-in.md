@@ -49,8 +49,8 @@ related:
   - INS-260321-8414
   - INS-260403-9A0C
   - INS-260321-1A0B
+  - INS-260410-797C
   - INS-260404-3714
-  - INS-260323-9492
 stance: AI adoption in enterprises won't happen top-down
 evidence:
   - id: INS-260327-0762

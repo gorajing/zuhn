@@ -56,12 +56,12 @@ related:
   - INS-260323-87F3
   - INS-260325-0147
   - PRI-260328-0332
-  - INS-260330-1F41
   - INS-260403-0949
   - INS-260403-0218
   - INS-260404-B7E4
   - INS-260403-AE5B
   - INS-260404-6D51
+  - INS-260404-323D
 ---
 There's a common defense: 'It's too complex to explain simply.' But this usually means the thinker hasn't yet achieved clarity themselves. Richard Feynman's teaching method operated on the same premise — if you can't explain it to a beginner, you don't actually understand it.
 

@@ -51,9 +51,9 @@ stance: >-
 related:
   - INS-260404-6B73
   - PRI-260406-FCF0
+  - INS-260410-3880
   - INS-260321-3521
   - INS-260403-6F75
-  - INS-260403-3A67
 ---
 Mira Murati's AI lab raised $2B at a $12B valuation without shipping a product, backed by a16z and Nvidia. This is not an anomaly but a pattern in frontier AI: capital allocators are pricing the probability that elite AI researchers will create transformative technology, essentially treating team composition as the primary asset.
 

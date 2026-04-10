@@ -52,8 +52,8 @@ related:
   - PRI-260328-0123
   - INS-260410-46BB
   - INS-260323-636C
+  - INS-260410-D0F5
   - INS-260408-F20F
-  - PRI-260406-7B76
   - INS-260403-50F6
 ---
 Smith identifies the core game-theoretic trap driving AI development: every major lab believes that if they don't build superintelligence, Elon Musk or the Chinese Communist Party will. This creates three unacceptable outcomes — a machine god enslaved to Musk, to the CCP, or autonomous. So despite genuine personal fears, researchers feel compelled to race to the finish to ensure the 'machine-god-baby is raised with good values.'

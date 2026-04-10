@@ -45,8 +45,8 @@ related:
   - INS-260330-ED77
   - INS-260403-4E9D
   - INS-260330-B6AD
+  - INS-260410-4A68
   - INS-260327-7681
-  - INS-260322-88FC
 stance: 'Venmo, CashApp, and PayPal require bank accounts and only work domestically'
 evidence:
   - id: INS-260327-7681

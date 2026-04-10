@@ -1,6 +1,6 @@
 # Topic: epistemics
 
-> 37 insights
+> 39 insights
 
 - `INS-260409-F93A` [high] Galef argues accurate maps of the world should include explicit uncertainty markers and remain provisional — 'drawn in pencil, not pen' — because false precision creates psychological resistance to updating when better evidence arrives.
 - `INS-260405-5702` [high] Feed algorithms don't just show different opinions — they construct different facts for different population clusters.
@@ -9,6 +9,7 @@
 - `INS-260410-0775` [high] Chesterton's Fence is real — bitter cassava processing, food taboos, bow-making techniques encode causal logic that took centuries to evolve and that the people following them cannot explain.
 - `INS-260405-4693` [high] History uniformly shows that every era had forbidden truths; assuming ours is different requires extraordinary evidence.
 - `INS-260410-831F` [high] The Inquisition ignored Voltaire and the Encyclopédie to throw the book at Jansenist treatises about the Trinity — and Palmer says this pattern holds in every era she studies.
+- `INS-260410-8E0D` [high] Paine repeatedly tells Dwarkesh his questions are 'above my pay grade' — she can describe what the Japanese leadership faced, but can't say what was politically feasible for FDR without having served in government.
 - `INS-260405-1CAA` [high] You know what you believe but rarely why you believe it — the source code is gone.
 - `INS-260409-3FDE` [high] Contributor gizmax reproduced MemPalace's 96.6% LongMemEval R@5 on M2 Ultra in under 5 minutes using the public benchmark scripts — that reproduction is exactly what forced the retraction of the other overclaims by making ground truth reviewable.
 - `INS-260409-2E2B` [high] Katherine Chworowski's 2024 re-analysis showed that many 'too-massive' early galaxies were little red dots whose central black holes were doing the brightness work of billions of suns, inflating apparent stellar mass; once removed, the sample fit the standard model with only a mild residual.
@@ -39,3 +40,5 @@
 - `INS-260409-A239` [medium] Treating your current self-model as untrustworthy is a generative stance when paired with willingness to act on better evidence, not a paralysis.
 - `INS-260409-AD3B` [medium] Galef: 'I hate waste... there's all of this unnecessary waste happening where people are leaving value on the table' — the case for scout thinking is efficiency, not morality. Sacrificing accuracy for comfort has compounding costs across thousands of life decisions that usually exceed the emotional benefit.
 - `INS-260409-D603` [medium] Freedman's 2024 JWST analysis produced ~68-70 from red giants and JAGB stars but ~72 from Cepheids using the same telescope — an internal disagreement that suggests the problem may be in the distance ladder's calibration assumptions, not in the comparison to the CMB.
+- `INS-260410-2623` [medium] In censored societies, the binding constraint isn't private information — it's the inability to coordinate on what 'everyone knows everyone knows.'
+

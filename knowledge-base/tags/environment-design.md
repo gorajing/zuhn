@@ -1,10 +1,6 @@
 # Tag: environment-design
 
 - `INS-260325-9BBC` AlphaProof frames theorem proving as an RL environment with states (proof states), actions (tactics), and machine-verified rewards — enabling self-play learning on 80M auto-formalized problems.
-- `INS-260329-A7E2` For each friend, ask: does this person increase or decrease my probability of hitting my goal? If decrease, remove them.
-- `INS-260329-DD01` Birth zip code outpredicts IQ, race, and gender for lifetime earnings because environment shapes ambition through social comparison.
-- `INS-260403-6340` Fierce nerds thrive in small groups solving hard problems where being right matters more than being agreeable.
-- `INS-260403-EEDB` The CEO's primary innovation job is building the environment where people explore, not choosing which innovations to fund.
 - `INS-260403-38C5` When you can't browse or check email at your work computer, the ingrained habit of sitting there for hours redirects itself into actual work.
 - `INS-260403-D16C` Physical clutter taxes cognition by forcing continuous environmental parsing.
 - `INS-260404-B7E4` You can push through noise when you have momentum, but generating new ideas demands quiet — plan your environment accordingly.
@@ -16,3 +12,7 @@
 - `INS-260330-88B0` Identical physical stimulation produces pleasure or discomfort depending entirely on context — emotional safety, stress levels, and relationship dynamics matter more than technique.
 - `INS-260329-B2D8` Choose roommates who share your ambition level, not just your rent budget.
 - `INS-260330-D27C` You become what you're consistently exposed to — surgically arrange your environment rather than relying on willpower or techniques.
+- `INS-260329-A7E2` For each friend, ask: does this person increase or decrease my probability of hitting my goal? If decrease, remove them.
+- `INS-260329-DD01` Birth zip code outpredicts IQ, race, and gender for lifetime earnings because environment shapes ambition through social comparison.
+- `INS-260403-6340` Fierce nerds thrive in small groups solving hard problems where being right matters more than being agreeable.
+- `INS-260403-EEDB` The CEO's primary innovation job is building the environment where people explore, not choosing which innovations to fund.

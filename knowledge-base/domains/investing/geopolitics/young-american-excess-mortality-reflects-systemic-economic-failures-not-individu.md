@@ -56,7 +56,6 @@ related:
   - INS-260327-D77C
   - INS-260403-1B96
   - INS-260327-A478
-  - INS-260403-FF7C
   - INS-260403-8C12
 evidence:
   - id: INS-260327-A478

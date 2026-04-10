@@ -46,7 +46,6 @@ stance: >-
   food, entertainment) on the other, avoiding the middle where incumbents with
   legacy overhead get squeezed.
 related:
-  - INS-260321-A3A1
   - PRI-260406-6C6C
   - INS-260403-280B
   - INS-260404-277E

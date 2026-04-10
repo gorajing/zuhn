@@ -1,6 +1,6 @@
 # Topic: decision-making
 
-> 126 insights
+> 131 insights
 
 - `INS-260404-A246` [high] Admitting you're bad at something is the first step to finding effective workarounds like delegation or systematic search.
 - `INS-260403-F03A` [high] Judge purchases by projected usage, not by the deal you got.
@@ -38,6 +38,8 @@
 - `INS-260330-FD28` [high] Keeping a fixed reference point in chaos prevents the disorientation spiral that leads to fatal mistakes.
 - `INS-260403-5BF9` [high] Rollins credits his relentless work ethic to never forgetting the $8/hour ice cream shop he'd return to if he stopped hustling.
 - `INS-260404-7C3F` [high] Keeping your identity small — refusing to label yourself as an X or Y person — preserves your ability to think clearly across more domains.
+- `INS-260410-0065` [high] 85% of Japanese WWII deaths and 43% of German deaths happened in the last year of the war — after the outcome was already decided — because regimes optimize for their own survival, not their populations'.
+- `INS-260410-260E` [high] The missionary-children Foreign Service officers correctly called the Chinese Civil War hopeless in 1945-46 based on ground truth, were purged by McCarthy for being right, and their fate illustrates both the value and the cost of honest net assessment.
 - `INS-260402-8ACF` [high] Truly novel and valuable ideas must appear bad to most evaluators, because obvious good ideas get executed immediately and stop being novel.
 - `INS-260403-3BD3` [high] If people don't think you're weird, you're probably living badly — because statistically normal behavior increasingly includes harmful addictive patterns.
 - `INS-260404-AE3C` [high] RuBisCo is a terrible enzyme that plants compensate for by producing 40 billion tons of it rather than evolving a replacement, illustrating how path dependence locks in suboptimal strategies.
@@ -45,6 +47,7 @@
 - `INS-260403-EB12` [high] True persistence means flexibility on methods while maintaining commitment to the goal; obstinacy is the reverse.
 - `INS-260404-C258` [high] The switch from impersonal to personal moral dilemmas shifts brain activation from prefrontal reasoning circuits to the amygdala's emotion centers.
 - `INS-260330-C9A6` [high] Reference standards — whether physical kilograms or personal heuristics — drift over time and must be recalibrated against unchanging fundamentals.
+- `INS-260410-58DB` [high] Japan's path to Pearl Harbor was locked in by 1936 when young officers murdered Finance Minister Takahashi for opposing empire — by 1941 the peace faction could no longer save face, let alone stop the military.
 - `INS-260402-40D7` [high] Avoid locking into fixed life plans early; instead maximize the range of future options available to you.
 - `INS-260403-B9E5` [high] Prestige biases your perception of your own interests, making you pursue what you'd like to like rather than what you actually like.
 - `INS-260403-5137` [high] An 81.7% overturn rate on prior authorization denials means the system functions as a friction filter rather than a genuine decision-making process.
@@ -92,6 +95,7 @@
 - `INS-260404-2F16` [medium] Psychopaths' ability to act on utilitarian logic without emotional interference makes them more effective decision-makers in specific high-stakes personal scenarios.
 - `INS-260403-3D8C` [medium] Working within bad systems to improve them usually produces more good than refusing to engage on principle.
 - `INS-260403-D6FE` [medium] Writing about topics in durable public form forces you to worry about getting things right far more than casual conversation does.
+- `INS-260410-D31B` [medium] Paine, a Naval War College historian, explicitly endorses counterfactual replay as the primary pedagogical method — 'we teach by counterfactuals' — against commenters who mock the framing as naive.
 - `INS-260402-67B4` [medium] Judging character by counterfactual behavior under reversed roles is more revealing than judging by actual behavior shaped by circumstance.
 - `INS-260403-E9DB` [medium] Many of America's most-discussed problems — sprawl, bad transit, housing costs — are actually second-order effects of its uniquely high crime rates.
 - `INS-260404-1C9D` [medium] Tracking tools in high-stakes personal domains can shift focus from judgment to metrics.
@@ -122,6 +126,7 @@
 - `INS-260403-4452` [medium] The gap between supporting charity via taxation vs. personal donation reflects genuinely conflicting time-horizons within individuals, not hypocrisy.
 - `INS-260403-CB80` [medium] Recording confidence ratings at decision time and comparing to outcomes is a powerful metacognitive calibration tool.
 - `INS-260403-6602` [medium] Attack the wealth-to-power conversion through radical transparency rather than attacking wealth itself, which has destructive side effects on innovation.
+- `INS-260410-0857` [medium] Travel's epistemic value is in surfacing new questions about home, not in producing reliable answers about the destination.
 - `INS-260405-7DD7` [medium] When you can't predict who matters, you must treat everyone as if they matter — which only genuinely good people can sustain.
 - `INS-260403-A07A` [medium] Investors psychologically resist paying higher prices for companies they already own, even when new information strongly supports the higher valuation.
 - `INS-260403-49FF` [medium] Page and Brin overruled Schmidt on China because values conflicts are founder-domain decisions that operators are structurally unable to make.

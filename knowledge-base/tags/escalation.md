@@ -5,3 +5,4 @@
 - `INS-260323-493D` Tactical nuclear weapons — designed for battlefield use — are the most dangerous category because their use almost certainly triggers full strategic nuclear exchange.
 - `INS-260326-79DF` Germany's unrestricted submarine warfare sank 886,000 tons in April 1917 alone -- a tactical triumph that brought America into the war and guaranteed Germany's defeat.
 - `INS-260403-80D9` The 'Trump Always Chickens Out' trade paradoxically forces ever-larger provocations to generate the market pain that triggers retreat.
+- `INS-260410-0065` 85% of Japanese WWII deaths and 43% of German deaths happened in the last year of the war — after the outcome was already decided — because regimes optimize for their own survival, not their populations'.

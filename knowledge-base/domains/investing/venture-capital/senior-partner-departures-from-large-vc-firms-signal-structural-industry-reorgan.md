@@ -63,6 +63,7 @@ related:
   - INS-260403-E2DE
   - INS-260403-A2A6
   - INS-260404-5684
+  - INS-260410-89FB
 ---
 The pattern of senior partners departing large VC firms is symptomatic of deeper structural tensions in the venture industry. Large funds require large deployments, which push toward later-stage deals and bigger check sizes — but the best risk-adjusted returns in venture historically come from earlier stages with smaller checks. Senior partners with strong personal brands and deal flow can often capture more economics by running smaller, focused funds.
 

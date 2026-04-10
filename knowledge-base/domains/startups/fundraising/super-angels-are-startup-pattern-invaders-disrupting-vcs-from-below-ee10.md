@@ -46,7 +46,6 @@ stance: >-
   existing VCs moving downmarket, because risk tolerance is institutionally
   imprinted and nearly impossible to change.
 related:
-  - INS-260402-6BB6
   - PRI-260406-B2E5
   - PRI-260405-E9C5
   - INS-260405-092A

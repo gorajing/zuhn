@@ -54,14 +54,14 @@ stance: >-
 related:
   - INS-260328-0C4C
   - INS-260403-1407
-  - INS-260405-2F43
   - INS-260403-CE07
   - INS-260403-1874
   - INS-260403-5F8B
-  - INS-260403-8421
   - INS-260404-C30F
   - INS-260404-6BCA
   - INS-260403-4365
+  - INS-260405-2F43
+  - INS-260405-DDC2
 ---
 Revenue-based financing—where repayment is structured as a percentage of monthly revenue rather than fixed debt service—has historically been niche, but the market data now shows it entering mainstream adoption. $5.8B in 2024 with ~70% annual growth suggests it is tracking toward $10B+ by 2026. Simultaneously, venture debt reached $27.8B in 2025, indicating the broader non-dilutive capital market is maturing.
 

@@ -40,10 +40,10 @@ resolutions:
     'nothing to happen' — which requires credible deterrence against China.
 related:
   - PRI-260324-3AAE
+  - INS-260410-7E29
   - INS-260403-DF45
   - INS-260330-217C
-  - INS-260327-C7BF
-  - PRI-260328-FADC
+  - INS-260410-AEF8
   - INS-260330-9E26
 stance: Trump's NSS strategy is not isolationism but selective power projection
 evidence:

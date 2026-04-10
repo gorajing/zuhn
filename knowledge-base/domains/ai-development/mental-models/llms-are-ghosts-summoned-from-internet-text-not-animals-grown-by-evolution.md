@@ -59,8 +59,8 @@ related:
   - INS-260323-47D8
   - INS-260410-F985
   - INS-260410-1248
+  - INS-260410-E660
   - INS-260329-BCB7
-  - INS-260403-27A5
 ---
 Karpathy rejects Sutton's 'build animals' framing because animals come with enormous evolutionary priors baked into their weights (a zebra runs minutes after birth). We don't know how to run evolution, so we imitate internet documents instead — which produces a different kind of intelligence entirely, digital ghosts rather than biological animals.
 

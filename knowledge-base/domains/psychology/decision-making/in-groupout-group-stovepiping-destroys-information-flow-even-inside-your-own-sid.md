@@ -71,10 +71,10 @@ related:
   - INS-260323-A197
   - INS-260327-B959
   - INS-260410-0826
+  - INS-260410-7E29
+  - INS-260410-58DB
   - INS-260326-79DF
   - INS-260327-9D23
-  - INS-260330-98EA
-  - INS-260327-7C94
 ---
 Paine's examples of Japanese inter-service dysfunction are almost comic if they weren't catastrophic. After 1906, the army and navy maintained completely separate, secret war plans — each assuming the other would do critical things for them. The Navy started the southern advance in 1942 without telling the Army the outer perimeter of airfields wasn't complete; the Army only learned on August 17, 1942 when a US landing at Guadalcanal exposed an incomplete Japanese airfield. The Navy hid the loss of four aircraft carriers at Midway from the Army for three to four months — in the middle of the war.
 

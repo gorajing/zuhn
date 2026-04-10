@@ -52,9 +52,9 @@ stance: >-
 related:
   - INS-260410-CDDD
   - INS-260321-D484
+  - INS-260410-797C
   - INS-260405-9285
   - INS-260403-7868
-  - INS-260325-5CB1
   - INS-260409-526E
 evidence:
   - id: INS-260321-D484

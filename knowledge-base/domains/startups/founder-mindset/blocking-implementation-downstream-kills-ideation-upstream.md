@@ -42,7 +42,6 @@ stance: >-
   generating ideas entirely, creating a negative feedback loop that large
   organizations cannot prevent.
 related:
-  - INS-260327-A507
   - INS-260328-12EE
   - INS-260330-2492
   - INS-260402-300A
@@ -52,6 +51,7 @@ related:
   - PRI-260405-9A14
   - PRI-260323-C49D
   - INS-260403-951B
+  - INS-260403-6947
 evidence:
   - id: INS-260322-DAA1
     type: SUPPORTS

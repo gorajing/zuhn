@@ -10,6 +10,8 @@
 - `INS-260323-3614` Pakman deleted a controversial tweet under threat pressure, which he deeply regrets — the attacks escalated anyway, and deleting removed his ability to show context when support arrived.
 - `INS-260409-94F8` Consistent topic-avatar pairing is the only true compounding asset in short-form distribution because it sharpens the platform's fit-score model of your channel.
 - `INS-260409-2906` Reverse-engineer outlier videos in your niche instead of ideating from scratch — the data already tells you what works.
+- `INS-260409-3064` People comment to correct what they think is wrong, so contrarian framing is a reliable comment-rate multiplier.
+- `INS-260409-241B` Naming a specific cult-loved brand instead of a generic category gives viewers a pre-formed opinion to defend or attack in the comments.
 - `INS-260403-096C` When content can't be sold directly, monetize its scarce complements: concerts for music, advertising for articles, theatrical experiences for movies.
 - `INS-260404-B0DC` Sustained high-volume free value delivery builds trust capital that later converts into business opportunities at rates impossible through cold outreach.
 - `INS-260329-4CFD` Comprehensive single-resource tutorials capture high-intent beginner search queries and compound views over years.
@@ -37,7 +39,5 @@
 - `INS-260321-96CE` Markets (topics) rarely change and can't be invented. Formats (creative vessels) are born daily. Innovate on format, not market — then transplant across markets for maximum leverage.
 - `INS-260403-4D04` Digital content creates awareness, but traditional media like TV and books creates credibility that compounds over time.
 - `INS-260321-141B` Write a proven format at the top of a grid, list all markets down the side, mark where the combination exists — empty cells are your blue ocean.
-- `INS-260409-3064` People comment to correct what they think is wrong, so contrarian framing is a reliable comment-rate multiplier.
-- `INS-260409-241B` Naming a specific cult-loved brand instead of a generic category gives viewers a pre-formed opinion to defend or attack in the comments.
 - `INS-260322-D5DD` Make remixes of trending songs in your own style to leverage existing search demand and get discovered before you have original fans.
 - `INS-260321-3312` Music is now attached to YOU, not to a format — your job is not to promote a song (temporary) but to build a content machine (permanent) where your music is the superpower that gets you attention.

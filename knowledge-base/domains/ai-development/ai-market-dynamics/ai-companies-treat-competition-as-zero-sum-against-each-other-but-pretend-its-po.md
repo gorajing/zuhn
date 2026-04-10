@@ -51,10 +51,10 @@ resolutions:
     game actually threatens their existence.
 related:
   - INS-260409-8181
+  - INS-260410-D0F5
   - INS-260409-7731
   - INS-260323-FFE8
   - PRI-260406-F3B6
-  - INS-260325-502D
 stance: >-
   AI labs fight viciously against each other for dominance but frame the global
   AI race as positive-sum

@@ -42,7 +42,6 @@ stance: >-
   will eventually turn those tools inward, eliminating the skilled workers who
   created them.
 related:
-  - INS-260321-86F1
   - INS-260320-D4BD
   - INS-260323-BF81
   - INS-260403-5D1F

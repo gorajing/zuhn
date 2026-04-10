@@ -50,5 +50,6 @@ related:
   - INS-260403-C1F5
   - INS-260403-FF7E
   - INS-260403-219E
+  - INS-260410-89FB
 ---
 Most investors optimize for short-term carry within a single fund cycle, but the most enduring institutions treat the firm itself as a product to be iterated on across decades. This means decentralizing investment decisions so the firm doesn't depend on one star partner, building proprietary moats in sourcing or value-add, and creating scalable systems that compound institutional knowledge. The distinction is between a collection of individuals sharing economics versus a genuine platform where each fund strengthens the next — a16z, Sequoia, and Benchmark exemplify different versions of this approach.

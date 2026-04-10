@@ -55,8 +55,8 @@ stance: >-
   bridged by fine-tuning (SFT + reward modeling + PPO), not by scale alone.
 related:
   - INS-260320-922A
-  - INS-260329-8986
   - INS-260327-79E8
+  - INS-260410-E660
   - INS-260410-06DB
   - INS-260404-CE26
   - INS-260410-38C9

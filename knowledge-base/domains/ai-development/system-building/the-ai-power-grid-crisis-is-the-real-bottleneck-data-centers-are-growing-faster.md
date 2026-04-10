@@ -48,7 +48,6 @@ stance: >-
   power generation and distribution can scale, and naive electrification can
   increase emissions.
 related:
-  - INS-260325-3B58
   - INS-260410-C602
   - INS-260409-F9D5
   - INS-260403-6016
@@ -58,6 +57,7 @@ related:
   - INS-260321-D484
   - PRI-260323-ADA4
   - INS-260330-4C5A
+  - INS-260404-7060
 evidence:
   - id: INS-260322-2D57
     type: SUPPORTS

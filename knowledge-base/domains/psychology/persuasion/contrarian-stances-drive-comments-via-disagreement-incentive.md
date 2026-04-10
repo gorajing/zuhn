@@ -54,6 +54,7 @@ related:
   - PRI-260406-CF83
   - INS-260403-33E2
   - INS-260403-39E9
+  - INS-260410-D31B
 ---
 Comments require higher activation energy than likes, and that energy is most readily supplied by the urge to disagree. If a video plays the middle or hedges, viewers have nothing to push back against and stay passive. If a video takes a position the majority disagrees with, the majority feels compelled to respond — and the algorithm interprets that comment volume as signal of relevance.
 

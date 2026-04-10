@@ -56,11 +56,11 @@ related:
   - INS-260330-712D
   - INS-260403-74E5
   - INS-260403-B6FD
-  - INS-260403-922C
   - INS-260403-F7F4
   - INS-260403-39E9
   - INS-260403-4850
   - INS-260404-B1BC
+  - INS-260404-4E1A
 ---
 Graham traces an interesting evolutionary path: Silicon Valley's supportive attitude toward strange ideas didn't start as moral virtue. It started as self-interest — investors want you to succeed because they profit, and everyone else wants to say they knew you early. But practiced long enough, this self-interested optimism hardened into a genuine cultural norm where encouraging startups is simply what one does.
 

@@ -66,6 +66,7 @@ related:
   - INS-260410-F849
   - INS-260325-5CB1
   - INS-260321-D484
+  - INS-260410-BCFD
 ---
 Patel walks through the arithmetic: a gigawatt of Nvidia Rubin needs ~55,000 3nm wafers, ~6,000 5nm wafers, and ~170,000 DRAM wafers, translating to roughly 2 million EUV exposures per gigawatt. An EUV tool does 75 wafers/hour at 90% uptime, so 3.5 tools feed one gigawatt. With ~300 tools installed today and production creeping from 70 to 100/year, the end-of-decade installed base lands around 700 tools — enough for ~200 GW if every tool served AI (which it won't).
 

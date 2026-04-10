@@ -56,6 +56,7 @@ related:
   - INS-260330-3C4C
   - INS-260403-1054
   - INS-260409-EA56
+  - INS-260410-1D41
 stance: >-
   El-Kurd demonstrates how legal systems can be constructed to legitimize
   displacement, drawing parallels to Jim Crow laws that were technically lega...

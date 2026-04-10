@@ -54,9 +54,9 @@ stance: >-
 related:
   - INS-260325-1802
   - INS-260327-20F4
+  - INS-260410-0065
   - INS-260323-B811
   - INS-260327-C4E8
-  - INS-260327-1F6A
 ---
 Ukraine reports killing 35,000 Russians per month with a target of 50,000, while Russia recorded only ~610,000 male births in 2024. At current rates, annual Russian military deaths (420,000+) approach the size of an entire birth cohort, not counting those left permanently disabled. This demographic hemorrhage is occurring because armored vehicle assaults have become ineffective on the modern battlefield, forcing Russia into WWI-style 'meat assaults' that trade lives for marginal territorial gains.
 

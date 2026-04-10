@@ -48,7 +48,6 @@ stance: >-
   makes honest incremental work feel psychologically unbearable, driving them
   toward increasingly desperate schemes.
 related:
-  - INS-260323-FA30
   - INS-260323-3A54
   - INS-260327-37C8
   - INS-260402-8C0E

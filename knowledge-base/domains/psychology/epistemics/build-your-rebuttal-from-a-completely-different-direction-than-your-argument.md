@@ -66,7 +66,7 @@ related:
   - INS-260409-35EC
   - INS-260409-B3DC
   - PRI-260406-05B5
-  - PRI-260406-B97E
+  - INS-260410-D31B
 ---
 Paine learned this framework teaching at the Naval War College, where students are required to construct a counterargument to their own thesis in every paper. The key insight: a rebuttal that restates the original argument is worthless and annoying. The most effective rebuttals come at the problem from a completely different direction than either the argument or counterargument, creating an orthogonal line of support that the counterargument cannot reach.
 

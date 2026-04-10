@@ -54,7 +54,7 @@ related:
   - INS-260323-C2F1
   - INS-260323-3A54
   - INS-260323-246F
-  - INS-260330-669C
+  - INS-260410-43F6
 stance: Teddy Atlas's father never lectured about values
 evidence:
   - id: INS-260330-669C

@@ -9,6 +9,8 @@
 - `INS-260409-DBAE` Around 50 of California's ~200 billionaires have funded Gavin Newsom's campaigns, and his public opposition to the wealth tax now protects their interests without any explicit quid pro quo.
 - `INS-260403-311C` Japan's LDP has ruled for 70 years primarily because it pivots policy to match voter priorities, not because of electoral system rigging.
 - `INS-260330-A3D9` Russia subsidizes 300+ economically dead monotowns because their real output is political compliance, not goods.
+- `INS-260410-7028` Telling a 1945 American GI who just finished a three-year WWII tour to go die in China was politically impossible, which is why counterfactuals about 'saving China' miss the binding constraint — domestic willpower, not strategic insight, was the limit.
 - `INS-260330-D429` Zimbabwe's forced land redistribution cut agricultural output by 50-90% because the new farmers lacked the tacit expertise that made the farms productive.
 - `INS-260330-4980` Tariffs create a bottleneck where industries must petition for exemptions, enabling corruption through selective enforcement.
 - `INS-260409-1210` Massachusetts' millionaire tax survives because voters see free breakfast, free community college, and better transit — a broad beneficiary constituency offsets the concentrated opposition.
+- `INS-260410-58DB` Japan's path to Pearl Harbor was locked in by 1936 when young officers murdered Finance Minister Takahashi for opposing empire — by 1941 the peace faction could no longer save face, let alone stop the military.

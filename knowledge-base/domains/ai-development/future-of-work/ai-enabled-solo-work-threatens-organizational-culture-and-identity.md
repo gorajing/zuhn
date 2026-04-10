@@ -45,7 +45,6 @@ stance: >-
   organizations risk losing the collaborative interactions that create culture,
   identity, and shared mission.
 related:
-  - INS-260321-E9B7
   - INS-260403-8B92
   - INS-260323-7263
   - INS-260402-2A1D

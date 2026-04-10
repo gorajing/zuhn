@@ -47,7 +47,6 @@ stance: >-
   emerges when high-performing people with shared goals disagree on methods,
   which leads to better decisions.
 related:
-  - INS-260321-3C8A
   - INS-260323-7866
   - INS-260323-D621
   - INS-260325-8B36
@@ -57,6 +56,7 @@ related:
   - INS-260403-B73A
   - INS-260327-4CCE
   - INS-260327-29F0
+  - INS-260327-6C64
 evidence:
   - id: INS-260321-3C8A
     type: CHALLENGES

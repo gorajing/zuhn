@@ -50,11 +50,11 @@ stance: >-
   Staying committed to a single company or thesis for decades compounds context
   and pattern recognition into an irreplicable strategic advantage
 related:
+  - INS-260410-1197
   - PRI-260328-0BA6
   - INS-260402-ABB5
   - INS-260405-9FD9
   - INS-260405-A1E6
-  - PRI-260406-12D7
 ---
 NVIDIA's CUDA platform required years of investment with little external affirmation — margins were sacrificed, direction was questioned, and the opportunity remained internally contested. What sustained the effort was not superior foresight but tolerance for extended ambiguity. This pattern repeated with AI, where accelerated computing was treated as foundational long before the market narrative hardened.
 

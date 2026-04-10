@@ -54,11 +54,11 @@ stance: >-
   greater threat to civilizational progress than the absence of new regulations,
   and sunset clauses with asymmetric voting thresholds are the solution.
 related:
+  - INS-260410-6290
   - INS-260330-7C58
   - INS-260403-30E5
   - INS-260327-74CF
   - INS-260403-2CDA
-  - INS-260325-031F
   - INS-260330-EDF4
   - INS-260405-2688
   - INS-260409-CE5F

@@ -1,6 +1,7 @@
 # Tag: supply-demand
 
 - `INS-260330-B28C` Campaigns to universalize high-paying skills function as labor market flooding that depresses wages for existing practitioners.
+- `INS-260410-2D8E` China's central economic distortion is too much supply and too little demand — the inverse of America's NIMBY scarcity model.
 - `INS-260403-8436` Cities that built the most market-rate housing saw the largest rent declines, with new units acting as a 'yuppie fishtank' that prevents high earners from bidding up existing stock.
 - `INS-260330-737B` Unfashionable legacy technologies like COBOL create outsized earning potential because shrinking talent supply meets persistent institutional demand.
 - `INS-260403-441E` SF's housing restrictions forced out middle-class residents, creating a demographic hollowing that worsened the political conditions causing the restrictions.

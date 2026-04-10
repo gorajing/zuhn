@@ -49,10 +49,10 @@ stance: >-
   primitive, which is the identical move that makes any large software or
   hardware system humanly tractable.
 related:
+  - INS-260410-1197
   - PRI-260328-C528
   - INS-260405-1951
   - INS-260330-44EF
   - INS-260329-DFDB
-  - INS-260330-FB9C
 ---
 Throughout the video the presenter explicitly says 'we can now abstract this away' whenever a subcircuit works — the full adder becomes a rectangle, the flip-flop becomes a D-latch box, the ALU becomes a single unit, the register becomes a register. Without this disciplined forgetting, the final schematic would contain thousands of logic gates and be impossible to hold in a human head. The meta-lesson: whenever a project feels unmanageable, the fix is almost never cleverness — it is finding the right places to draw new abstraction boundaries, verifying the pieces inside, and then refusing to look inside again. This applies identically to software architecture, org design, and writing.

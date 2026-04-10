@@ -56,11 +56,11 @@ stance: >-
   The bottleneck on long-horizon agentic work is context acquisition and
   multi-file scope, not marginal reliability improvements on single-step tasks.
 related:
+  - INS-260410-1197
   - INS-260327-E016
   - INS-260403-F4ED
   - PRI-260321-D74F
   - PRI-260407-D1AD
-  - PRI-260328-A65A
 ---
 A year ago, Sholto described what was holding agents back as 'extra nines of reliability.' He now explicitly retracts that framing. Looking at current Claude Code and similar agents, the real limits are: lack of context, inability to do complex multi-file changes, and difficulty handling amorphous tasks that require discovery and iteration with the environment. When a task has a good feedback loop and scoped context, models are already capable at high intellectual complexity.
 

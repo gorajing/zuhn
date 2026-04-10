@@ -50,16 +50,16 @@ stance: >-
   in an era where the biggest outcomes are orders of magnitude larger than
   historical norms.
 related:
-  - INS-260404-83C6
   - INS-260403-FCB6
   - INS-260403-4F8E
   - INS-260404-16FB
-  - INS-260403-8EBD
   - INS-260404-FF8D
   - INS-260403-AAAC
   - INS-260403-3EDE
   - INS-260403-6B29
   - INS-260405-7FFC
+  - PRI-260406-0412
+  - INS-260403-2241
 ---
 The conventional criticism of mega funds — that they're too large to generate meaningful returns — misunderstands how power law dynamics scale. As the ceiling for startup outcomes rises (potential trillion-dollar companies), the optimal fund size rises proportionally. A $10B fund needs a $100B+ outcome to return the fund; these outcomes are now plausible in AI and platform businesses.
 

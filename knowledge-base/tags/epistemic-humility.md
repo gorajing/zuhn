@@ -2,6 +2,7 @@
 
 - `INS-260403-F0DC` Bio Anchors had many anchors and parameters but its output was almost entirely determined by the algorithmic progress rate, which was its least-researched input.
 - `INS-260405-194F` When someone can't perceive a constraint you experience, appealing to politeness (take me at my word) is more tractable than demanding they recognize their privilege.
+- `INS-260410-8E0D` Paine repeatedly tells Dwarkesh his questions are 'above my pay grade' — she can describe what the Japanese leadership faced, but can't say what was politically feasible for FDR without having served in government.
 - `INS-260403-222E` Experts fail not from ignorance but from over-confidence in beliefs calibrated to a previous version of the world.
 - `INS-260330-B224` Every physics textbook states the universe is mainly atoms, but 96% is actually dark matter (23%) and dark energy (73%) — the most basic 'fact' in the field is wrong.
 - `INS-260330-CC51` Stuart Firestein argues science begins where facts run out — riding the wave of ignorance outward is more productive than circling within known facts.

@@ -51,7 +51,6 @@ stance: >-
   degrades their combat effectiveness far more than direct attrition.
 related:
   - INS-260325-5096
-  - INS-260326-8189
   - INS-260327-31B8
   - INS-260327-6ACA
   - INS-260327-9D23
@@ -60,6 +59,7 @@ related:
   - INS-260327-5140
   - INS-260330-4E55
   - INS-260327-E7AC
+  - INS-260327-377A
 evidence:
   - id: INS-260326-8189
     type: SUPPORTS

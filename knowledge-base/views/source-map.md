@@ -796,6 +796,7 @@ Generated on 2026-04-10 | 2526 sources
 | Nestlé's Darkest Secret: The Disturbing Truth | youtube | 5 | 2026-03-30 |
 | Nick Lane: Origin of Life, Evolution, Aliens, Biology, and Consciousness | Lex Fridman Podcast #318 | youtube | 5 | 2026-03-30 |
 | No BS Advice to Get Rich Like the 1% | youtube | 5 | 2026-03-30 |
+| Notes on China | youtube | 5 | 2026-04-10 |
 | On Artificial Intelligence | youtube | 5 | 2026-03-30 |
 | On Recruiting | youtube | 5 | 2026-03-30 |
 | OpenClaw: The Viral AI Agent that Broke the Internet - Peter Steinberger | Lex Fridman Podcast #491 | youtube | 5 | 2026-03-23 |
@@ -827,6 +828,7 @@ Generated on 2026-04-10 | 2526 sources
 | Singapore: The World's Only Successful Dictatorship? | youtube | 5 | 2026-03-30 |
 | Slop vs Craft | youtube | 5 | 2026-03-29 |
 | Solving Wordle using information theory | youtube | 5 | 2026-03-30 |
+| Some thoughts on the Sutton interview | youtube | 5 | 2026-04-10 |
 | Something Strange Happens When You Follow Einstein's Math | youtube | 5 | 2026-03-30 |
 | Stephen Kotkin — How Stalin became the most powerful dictator in history | youtube | 5 | 2026-04-10 |
 | Stephen Wolfram: Computational Universe | MIT 6.S099: Artificial General Intelligence (AGI) | youtube | 5 | 2026-03-27 |
@@ -840,6 +842,7 @@ Generated on 2026-04-10 | 2526 sources
 | The Best Student Side Hustle in 2026 | youtube | 5 | 2026-03-30 |
 | The Biggest Bottlenecks For AI: Energy & Cooling | youtube | 5 | 2026-03-22 |
 | The Biggest Marketing Opportunity in History Is Being Ignored | youtube | 5 | 2026-03-22 |
+| "The Brilliance of Communism" – Sarah Paine | youtube | 5 | 2026-04-10 |
 | The CRAZY Truth About McDonald's | youtube | 5 | 2026-03-30 |
 | The Disturbing History of Coca-Cola | youtube | 5 | 2026-03-30 |
 | The essence of calculus | youtube | 5 | 2026-03-30 |
@@ -877,14 +880,18 @@ Generated on 2026-04-10 | 2526 sources
 | Trump, Ukraine, and The Future of Geopolitics with Sam Harris and Niall Ferguson | youtube | 5 | 2026-03-30 |
 | Trump’s Real Intentions Behind the Middle East War? feat Dr. Jiyoon Kim | youtube | 5 | 2026-03-23 |
 | Vitalik: Ethereum, Part 1 | youtube | 5 | 2026-03-30 |
+| Was The War Against Japan Avoidable? - Sarah Paine | youtube | 5 | 2026-04-10 |
 | Watch This If You Have a Service Business | youtube | 5 | 2026-03-22 |
 | What Alcohol Does to Your Body, Brain & Health | youtube | 5 | 2026-03-30 |
+| What are we scaling? | youtube | 5 | 2026-04-10 |
 | What Putin Fears More Than War | youtube | 5 | 2026-03-30 |
+| What will automated firms look like? | youtube | 5 | 2026-04-10 |
 | Where does consumer AI stand at the end of 2025? | youtube | 5 | 2026-03-22 |
 | Which Way Is Down? | youtube | 5 | 2026-03-30 |
 | Why AI is Failing: Ex-Google Chief Cassie Kozyrkov Debunks "AI-first" | youtube | 5 | 2026-03-23 |
 | Why AI Moats Still Matter (And How They've Changed) | youtube | 5 | 2026-03-22 |
 | Why China's manufacturing economy is dominating — Arthur Kroeber | youtube | 5 | 2026-04-10 |
+| Why I don’t think AGI is right around the corner | youtube | 5 | 2026-04-10 |
 | Why In-N-Out Isn't Coming to a City Near You | youtube | 5 | 2026-03-30 |
 | Why It Was Almost Impossible to Make the Blue LED | youtube | 5 | 2026-03-30 |
 | Why Leonardo was a saboteur, Gutenberg went broke, and Florence was weird – Ada Palmer | youtube | 5 | 2026-04-10 |
@@ -1319,6 +1326,7 @@ Generated on 2026-04-10 | 2526 sources
 | Are You a Psychopath? Take the Test! | Kevin Dutton | Big Think | youtube | 4 | 2026-03-30 |
 | Arm Yourself With Specific Knowledge | youtube | 4 | 2026-03-30 |
 | Asbestos is a bigger problem than we thought | youtube | 4 | 2026-03-23 |
+| Attacking America Is a Devastating Miscalculation – Sarah Paine | youtube | 4 | 2026-04-10 |
 | Backspin Basketball Flies Off Dam | youtube | 4 | 2026-03-30 |
 | Bayer’s Bill Anderson: Turning a 168 Year-Old Tanker Like a Speedboat | youtube | 4 | 2026-03-26 |
 | Behind the scenes of a $20M Series A - Part 1 | youtube | 4 | 2026-03-22 |
@@ -1460,6 +1468,7 @@ Generated on 2026-04-10 | 2526 sources
 | The idea so strange Einstein thought it broke quantum physics | Jim Al-Khalili | youtube | 4 | 2026-03-25 |
 | The Illegal Rise of Spotify | youtube | 4 | 2026-03-30 |
 | The Internet Was Weeks Away From Disaster and No One Knew | youtube | 4 | 2026-03-23 |
+| The Limits of American Power – Sarah Paine | youtube | 4 | 2026-04-10 |
 | The Man Who Fooled The World | youtube | 4 | 2026-03-23 |
 | The Most Controversial Idea in Biology | youtube | 4 | 2026-03-23 |
 | The Most Founder Mode CEO Working Today Isn’t the Founder: Opendoor’s Kaz Nejatian | youtube | 4 | 2026-03-26 |
@@ -2504,28 +2513,19 @@ Generated on 2026-04-10 | 2526 sources
 | Writing, Briefly | blog | 0 | 2026-03-31 |
 | YC W26 Batch: Complete Database of 196 Companies (2026) | blog | 0 | 2026-03-30 |
 | 20th Century's Most Lethal Leader – Sarah Paine (Lecture Excerpt) | youtube | 0 | 2026-04-10 |
-| Attacking America Is a Devastating Miscalculation – Sarah Paine | youtube | 0 | 2026-04-10 |
 | Bill Nye: Creationism Is Not Appropriate For Children | Big Think | youtube | 0 | 2026-03-30 |
 | Brainf**k in 100 Seconds | youtube | 0 | 2026-03-30 |
 | Donut-shaped C code that generates a 3D spinning donut | youtube | 0 | 2026-03-30 |
 | If You Want to Learn, Do | youtube | 0 | 2026-03-30 |
 | Improvising in Africa.  Warning - GROSS - Smarter Every Day 28 | youtube | 0 | 2026-03-30 |
 | Mind Field - Official Trailer | youtube | 0 | 2026-03-30 |
-| Notes on China | youtube | 0 | 2026-04-10 |
 | Python in 100 Seconds | youtube | 0 | 2026-03-30 |
 | Satya Nadella shows me the first Majorana 1 Quantum Computing chip | youtube | 0 | 2026-04-10 |
-| Some thoughts on the Sutton interview | youtube | 0 | 2026-04-10 |
 | Spend More Time Making the Big Decisions | youtube | 0 | 2026-03-30 |
 | Stable diffusion dreams of "blueberry spaghetti" for one night | youtube | 0 | 2026-04-10 |
 | Stable diffusion dreams of psychedelic faces | youtube | 0 | 2026-04-10 |
 | Stable diffusion dreams of steam punk neural networks | youtube | 0 | 2026-04-10 |
 | Stable diffusion dreams of steampunk brains | youtube | 0 | 2026-04-10 |
 | Stable diffusion dreams of tattoos | youtube | 0 | 2026-04-10 |
-| "The Brilliance of Communism" – Sarah Paine | youtube | 0 | 2026-04-10 |
-| The Limits of American Power – Sarah Paine | youtube | 0 | 2026-04-10 |
 | Unlimited War: Putin vs Bismarck – Sarah Paine | youtube | 0 | 2026-04-10 |
-| Was The War Against Japan Avoidable? - Sarah Paine | youtube | 0 | 2026-04-10 |
-| What are we scaling? | youtube | 0 | 2026-04-10 |
-| What will automated firms look like? | youtube | 0 | 2026-04-10 |
-| Why I don’t think AGI is right around the corner | youtube | 0 | 2026-04-10 |
 | Your desires are not yours. | youtube | 0 | 2026-03-30 |

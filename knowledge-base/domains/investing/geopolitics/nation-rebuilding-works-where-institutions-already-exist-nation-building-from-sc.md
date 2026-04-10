@@ -61,11 +61,11 @@ stance: >-
   modern institutions and fails when it tries to construct those institutions
   from scratch.
 related:
+  - INS-260410-4A68
   - INS-260330-B6AD
   - INS-260325-6AD5
   - INS-260403-91DB
   - INS-260403-6CA8
-  - INS-260403-3673
   - INS-260410-54CB
 ---
 Paine pushes back hard on the counterfactual that a larger Marshall Plan could have saved Nationalist China. Her distinction is between nation-rebuilding and nation-building: Japan and Germany had competent bureaucracies, functioning courts, literate populations, operational police forces, and modern economies before the war — aid dollars let them rapidly reconstitute machinery that already existed in institutional memory. China had none of that. High illiteracy, no indigenous administrative capacity, a century of warlord rule — cash could not conjure institutions where the human capital and procedural knowledge simply were not present.

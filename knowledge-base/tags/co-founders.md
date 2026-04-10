@@ -1,5 +1,6 @@
 # Tag: co-founders
 
+- `INS-260403-8B68` 35% of US startups are solo-founded but only 17% of VC-funded startups are, and 24% of 2-founder teams lose a co-founder by year 4.
 - `INS-260322-5831` ElevenLabs' co-founders Mati and Peter are childhood best friends with complementary skills — one product-focused, one research-focused — and their deep mutual trust enables the company to move at extreme speed.
 - `INS-260321-E5C5` The ideal AI startup founding team is one builder who ships in 24 hours and one go-to-market person with audience empathy.
 - `INS-260325-9B73` Esther Perel's framework from couples therapy identifies three root causes under every co-founder conflict: who has power, who feels cared for, and who gets recognized.
@@ -28,7 +29,6 @@
 - `INS-260325-F1BC` Matt Jones's containment principle: uncontained conflict contaminates execution — schedule a specific time and space for processing disagreements instead of reacting immediately.
 - `INS-260330-3E6F` Among YC's highest-valued companies, none had significantly unequal founder equity splits.
 - `INS-260330-E170` When founders don't pay themselves, a fired co-founder can use unpaid wage claims as leverage to negotiate vesting acceleration they wouldn't otherwise deserve.
-- `INS-260403-8B68` 35% of US startups are solo-founded but only 17% of VC-funded startups are, and 24% of 2-founder teams lose a co-founder by year 4.
 - `INS-260323-1975` You must be either the tech/product founder or the business/revenue founder, then find a complementary co-founder for the other role.
 - `INS-260403-26CD` Top accelerators prioritize diverse, complementary teams over solo founders in their selection process.
 - `INS-260403-31BD` Equity sitting with people who no longer contribute tells VCs the founder either can't make hard decisions or doesn't understand equity's strategic value.

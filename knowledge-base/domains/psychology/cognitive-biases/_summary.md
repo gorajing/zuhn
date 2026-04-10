@@ -1,6 +1,6 @@
 # Topic: cognitive-biases
 
-> 317 insights
+> 318 insights
 
 - `INS-260326-163A` [very_high] Data quality dominates ML architecture just as install base and data gravity beat product design elegance in business -- what you've accumulated is the moat, not how you've arranged it.
 - `INS-260326-CA66` [very_high] Insulin resistance manifests as heart disease, diabetes, obesity, and dementia -- just as a misidentified business model manifests as churn, pricing problems, and sales failures.
@@ -48,6 +48,7 @@
 - `INS-260330-3BBC` [high] Crises force binary choices that expose where people truly stand, cutting through ambiguity.
 - `INS-260403-BADB` [high] America's policy debate focuses on problems where it differs from peers by 10-20% while ignoring the one where it differs by 500-1000%.
 - `INS-260402-0392` [high] People get jobs because it's the default, not because they've rationally chosen employment over alternatives.
+- `INS-260410-AEF8` [high] Japan's fatal error was projecting that America would stay isolationist after Pearl Harbor — modeling the adversary as a static object rather than a system that responds to provocation.
 - `INS-260404-8D23` [high] Failing to chase down uncomfortable implications is a form of weakness-driven conservatism, not a failure of intellect.
 - `INS-260325-537A` [high] Dostoevsky: forced goodness through willpower creates psychological backlash — suppressed darkness grows stronger until it erupts.
 - `INS-260330-BD04` [high] Non-practitioners who see a field's macro importance systematically underestimate its micro complexity, producing misleading career guidance.

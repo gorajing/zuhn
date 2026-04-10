@@ -52,9 +52,9 @@ stance: >-
 related:
   - INS-260405-E8A1
   - PRI-260406-F21A
+  - INS-260410-9267
   - PRI-260328-8317
   - PRI-260406-91C2
-  - INS-260403-01FD
 ---
 There is a deeply ironic dynamic emerging in venture capital: investors are enthusiastically funding AI companies whose capabilities could eventually automate core VC functions like deal sourcing, market analysis, and investment judgment. The question is whether algorithmic insight can compete with human judgment in venture investing.
 

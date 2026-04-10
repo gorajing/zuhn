@@ -62,9 +62,8 @@ stance: >-
   and hypothesis-formation; closing that gap requires significant RL on tasks
   that model how researchers actually interact with the world.
 related:
-  - INS-260410-F985
-  - INS-260410-38C9
   - PRI-260406-B9E0
+  - INS-260410-F985
   - INS-260329-E402
   - PRI-260405-6A4E
   - PRI-260407-ED1C

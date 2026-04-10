@@ -53,11 +53,11 @@ resolutions:
     their backend systems to be AI-ready, and results will accelerate as this
     foundation work completes.
 related:
+  - INS-260410-797C
   - INS-260403-F234
   - PRI-260328-0C51
   - INS-260327-969D
   - PRI-260406-8A97
-  - PRI-260328-5CDE
 stance: >-
   Fortune 500 CEOs universally say they want to become AI companies, but actual
   deployment lags because change management across large organizations ...

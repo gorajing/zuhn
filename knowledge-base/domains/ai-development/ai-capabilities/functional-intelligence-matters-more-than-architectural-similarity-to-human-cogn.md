@@ -55,6 +55,7 @@ related:
   - INS-260330-2200
   - INS-260403-A1DF
   - INS-260403-34C0
+  - INS-260410-9AF4
 ---
 Noah Smith argues that debating whether AI 'truly thinks' is as irrelevant as debating whether submarines 'truly swim.' What matters is functional capability — solving math olympiad problems, writing production code, passing graduate exams. The submarine/airplane analogy is powerful: these machines dominate their domains without mimicking biological locomotion. Similarly, AI can dominate cognitive domains without mimicking human neural processes.
 

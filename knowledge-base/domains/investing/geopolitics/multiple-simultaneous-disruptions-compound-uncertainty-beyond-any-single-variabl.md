@@ -57,6 +57,7 @@ related:
   - PRI-260405-8E48
   - PRI-260322-9E36
   - INS-260403-4B5A
+  - INS-260410-2D8E
 ---
 Smith argues that while AI is the primary driver of future-uncertainty, it compounds with political chaos, the rise of China as a potential dominant authoritarian power, and the possibility of major war. Each disruption alone might be modelable, but together they create a fog that standard forecasting—whether personal life planning or financial market pricing—cannot penetrate.
 

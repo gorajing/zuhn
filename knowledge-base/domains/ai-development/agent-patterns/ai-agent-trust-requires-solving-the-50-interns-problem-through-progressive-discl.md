@@ -60,14 +60,14 @@ resolutions:
 related:
   - INS-260322-3D21
   - PRI-260406-1F5E
+  - INS-260410-797C
   - INS-260325-BC2A
   - INS-260403-2115
   - INS-260328-91A1
-  - INS-260403-1106
   - INS-260327-A22D
+  - INS-260403-1106
   - INS-260404-8E0D
   - INS-260402-8E46
-  - INS-260409-F0F5
 stance: >-
   The biggest barrier to enterprise AI agent adoption isn't model capability but
   trust UX

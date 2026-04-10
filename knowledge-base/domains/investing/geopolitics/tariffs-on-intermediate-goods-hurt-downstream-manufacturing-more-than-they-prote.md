@@ -53,9 +53,9 @@ stance: >-
 related:
   - INS-260330-A192
   - INS-260405-844D
+  - INS-260410-BA3A
   - INS-260405-10DF
   - PRI-260406-1115
-  - INS-260403-6988
 ---
 Tariffs are taxes on intermediate goods — steel tariffs protect domestic steel makers but raise costs for every industry that uses steel (cars, construction, appliances, etc.). Since downstream industries collectively employ far more workers than upstream producers, the net effect is negative for manufacturing overall. Under Trump's tariff regime, manufacturers shed workers in each of the eight months after Liberation Day tariffs, factory activity shrank for 26 consecutive months, and manufacturing construction spending fell for nine straight months.
 

@@ -52,7 +52,6 @@ stance: >-
   only works when you can prevent them from coordinating a simultaneous
   response.
 related:
-  - INS-260323-822B
   - INS-260327-23FA
   - INS-260327-768D
   - INS-260327-6058
@@ -62,6 +61,7 @@ related:
   - PRI-260406-541E
   - INS-260327-33EA
   - INS-260403-C161
+  - INS-260403-130D
 evidence:
   - id: INS-260403-C161
     type: TRANSFERS_TO

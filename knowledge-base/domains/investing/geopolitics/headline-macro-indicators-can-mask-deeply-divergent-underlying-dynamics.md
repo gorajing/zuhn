@@ -56,6 +56,7 @@ related:
   - PRI-260328-6CDE
   - PRI-260328-F6DE
   - PRI-260403-50EF
+  - INS-260410-AF67
 ---
 The U.S. economy in early 2026 presents a case study in how aggregates can obscure: GDP growth looks like a normal expansion, prime-age employment is at multi-decade highs, and inflation is only slightly above target. By any bird's-eye reading, this is a healthy economy. Yet beneath those aggregates, two things are simultaneously true that have rarely co-occurred: productivity growth is running at near-historic highs while job creation has stalled.
 

@@ -52,6 +52,7 @@ related:
   - INS-260323-A0CE
   - INS-260327-35C7
   - INS-260327-7F64
+  - INS-260410-D0F5
 stance: >-
   AI reasoning capabilities plus robot learning are converging to create
   autonomous labs that accelerate scientific discovery across life sciences,
