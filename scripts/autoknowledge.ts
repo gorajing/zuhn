@@ -15,10 +15,19 @@
  *   7. Log metrics, iterate
  *
  * Usage:
- *   npx tsx scripts/autoknowledge.ts                    # Process all unextracted
- *   npx tsx scripts/autoknowledge.ts --limit 10         # Process 10 sources
- *   npx tsx scripts/autoknowledge.ts --channel "EO"     # Process one channel
- *   npx tsx scripts/autoknowledge.ts --dry-run           # Show what would be processed
+ *   npx tsx scripts/autoknowledge.ts                              # Process all unextracted
+ *   npx tsx scripts/autoknowledge.ts --limit 10                   # Process 10 sources
+ *   npx tsx scripts/autoknowledge.ts --channel "EO"               # YouTube channel filter
+ *   npx tsx scripts/autoknowledge.ts --batch path/to/manifest.txt # Explicit cohort
+ *   npx tsx scripts/autoknowledge.ts --dry-run                    # Show what would be processed
+ *
+ * Cohort scoping:
+ *   --channel works only for YouTube sources that populate the `channel`
+ *     frontmatter field. It silently excludes blog/pdf/audio sources.
+ *   --batch reads a manifest file (one SRC ID per line, # comments ok)
+ *     and filters by exact source ID. Works for any source type. Prefer
+ *     --batch for blog cohorts, multi-source-type cohorts, or any batch
+ *     where explicit identity matters.
  */
 
 import { execFileSync, execFile } from "node:child_process";
@@ -77,7 +86,8 @@ interface BatchMetrics {
 // ─── Source Discovery ───────────────────────────────────────────────
 
 async function findUnextractedSources(
-  channelFilter?: string
+  channelFilter?: string,
+  batchIds?: Set<string>,
 ): Promise<SourceEntry[]> {
   const files = await fg("sources/{youtube,blog,reddit,pdf,audio,paste}/*.md", {
     cwd: KB_ROOT,
@@ -93,7 +103,17 @@ async function findUnextractedSources(
     const { data } = matter(raw);
 
     if (data.insight_count !== 0) continue;
-    if (channelFilter && data.channel !== channelFilter) continue;
+
+    // Batch cohort filter — explicit source-ID set from a manifest file.
+    // Works across every source type (blog, youtube, pdf, audio, etc).
+    // Takes precedence over channelFilter: if a source is in the batch,
+    // it's in the batch regardless of channel.
+    if (batchIds && !batchIds.has(data.id as string)) continue;
+
+    // Channel filter — legacy convenience for YouTube sources that
+    // populate data.channel in frontmatter. Silently excludes any source
+    // without a matching channel field, so prefer --batch for blog cohorts.
+    if (channelFilter && !batchIds && data.channel !== channelFilter) continue;
 
     const wordCount = (data.word_count as number) || 0;
 
@@ -538,7 +558,35 @@ async function main(): Promise<void> {
   const channelFilter = args.includes("--channel")
     ? args[args.indexOf("--channel") + 1]
     : undefined;
+  const batchManifestPath = args.includes("--batch")
+    ? args[args.indexOf("--batch") + 1]
+    : undefined;
   const dryRun = args.includes("--dry-run");
+
+  // Load batch manifest if provided. Manifest format: plain text, one
+  // SRC ID per line. Lines starting with '#' are comments and blank lines
+  // are ignored. Use this for explicit cohort scoping across any source
+  // type — blog, youtube, pdf, audio. Unlike --channel, --batch works for
+  // sources that do not populate the `channel` frontmatter field.
+  let batchIds: Set<string> | undefined = undefined;
+  let batchManifestName: string | undefined = undefined;
+  if (batchManifestPath) {
+    if (!existsSync(batchManifestPath)) {
+      console.error(`Batch manifest not found: ${batchManifestPath}`);
+      process.exit(1);
+    }
+    const manifestContent = readFileSync(batchManifestPath, "utf-8");
+    const ids = manifestContent
+      .split("\n")
+      .map((l) => l.trim())
+      .filter((l) => l.length > 0 && !l.startsWith("#"));
+    if (ids.length === 0) {
+      console.error(`Batch manifest ${batchManifestPath} contains no source IDs`);
+      process.exit(1);
+    }
+    batchIds = new Set(ids);
+    batchManifestName = batchManifestPath;
+  }
 
   console.log("╔══════════════════════════════════════╗");
   console.log("║     autoknowledge — knowledge RL     ║");
@@ -546,11 +594,16 @@ async function main(): Promise<void> {
   console.log();
 
   // 1. Discover unextracted sources
-  const sources = await findUnextractedSources(channelFilter);
+  const sources = await findUnextractedSources(channelFilter, batchIds);
   const toProcess = sources.slice(0, limit);
 
   console.log(`Found ${sources.length} unextracted sources.`);
-  console.log(`Processing ${toProcess.length}${channelFilter ? ` (channel: ${channelFilter})` : ""}.`);
+  const scopeLabel = batchManifestName
+    ? ` (batch: ${batchManifestName}, ${batchIds!.size} IDs)`
+    : channelFilter
+      ? ` (channel: ${channelFilter})`
+      : "";
+  console.log(`Processing ${toProcess.length}${scopeLabel}.`);
   console.log();
 
   if (dryRun) {
