@@ -1,0 +1,57 @@
+{
+  "timestamp": "2026-04-09T00:00:00.000Z",
+  "triggered_by": "tension-candidates review (top 5 polarity-3 pairs)",
+  "canonical": "INS-260403-747B",
+  "canonical_title": "Apparent customer obstacles can function as selection mechanisms for higher-value segments",
+  "archived": [
+    {
+      "id": "INS-260404-5587",
+      "title": "Apparent obstacles can be reframed as selection mechanisms that improve unit economics",
+      "pair_key": "INS-260403-747B|INS-260404-5587",
+      "polarity_score": 3
+    },
+    {
+      "id": "INS-260403-0CF7",
+      "title": "Obstacles reframed as filters can select for more valuable customer segments",
+      "pair_key": "INS-260403-0CF7|INS-260403-747B",
+      "polarity_score": 3
+    },
+    {
+      "id": "INS-260403-B8CD",
+      "title": "Obstacles that filter for ideal customers become moats competitors cannot copy",
+      "pair_key": "INS-260403-64E7|INS-260403-B8CD",
+      "polarity_score": 3
+    },
+    {
+      "id": "INS-260403-64E7",
+      "title": "Obstacles become advantages when they filter for your ideal customer",
+      "pair_key": "INS-260403-64E7|INS-260403-B8CD",
+      "polarity_score": 3
+    }
+  ],
+  "findings": {
+    "pair_review": {
+      "total_reviewed": 5,
+      "real_tensions": 0,
+      "active_duplicates": 4,
+      "stale_archived_references": 2,
+      "notes": [
+        "All 5 polarity-3 candidates were near-duplicates, not real contradictions. The pair members reference each other as SUPPORTS in their evidence arrays — the polarity metric is flagging mutually-supporting clusters as tensions.",
+        "Pairs #3 (INS-260329-58E7|INS-260330-4FED) and #5 (INS-260330-3AB4|INS-260404-8050) each had one member already in archive/dedup-260405/. tension-candidates.json is not filtering out archived IDs.",
+        "The Costco-membership-filter cluster has at least 10+ active near-duplicates in startups/strategy and startups/competitive-strategy. Only the 4 appearing in the top 5 polarity-3 pairs were archived in this pass; the remaining ~6 are left for a future dedup."
+      ]
+    },
+    "meta_bugs_surfaced": [
+      {
+        "location": "scripts/lib/learning.ts tension-candidate generator",
+        "symptom": "polarity_score metric flags near-duplicate clusters with mutually-supporting SUPPORTS edges as 'tensions' (polarity-3 is the maximum but corresponds to tightest semantic clustering, not strongest contradiction).",
+        "impact": "Tension review flow surfaces dedup targets, not real contradictions. The tension action type cannot be reliably exercised from this queue."
+      },
+      {
+        "location": "tension-candidates.json generator",
+        "symptom": "Candidates reference insights that have been archived (status: archived or moved to archive/ directory). Not filtered out on regeneration.",
+        "impact": "Stale candidates waste review cycles and create ghost pairs (one side missing)."
+      }
+    ]
+  }
+}

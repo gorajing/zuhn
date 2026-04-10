@@ -6,7 +6,12 @@ title: Obstacles reframed as filters can select for more valuable customer segme
 actionability: immediate
 confidence: high
 shelf_life: evergreen
-status: active
+status: superseded
+superseded_by: INS-260403-747B
+superseded_reason: >-
+  Near-duplicate of the Costco $60 membership fee / demographic-filter insight.
+  Canonical version is INS-260403-747B (same source, same empirical claims,
+  richer cross-links and evidence graph). Archived via dedup-260409.
 tags:
   - customer-selection
   - friction-as-feature

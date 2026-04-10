@@ -6,7 +6,12 @@ title: Obstacles that filter for ideal customers become moats competitors cannot
 actionability: reference
 confidence: high
 shelf_life: evergreen
-status: active
+status: superseded
+superseded_by: INS-260403-747B
+superseded_reason: >-
+  Near-duplicate of the Costco $60 membership fee / demographic-filter insight.
+  Canonical version is INS-260403-747B (same source, same empirical claims,
+  richer cross-links and evidence graph). Archived via dedup-260409.
 tags:
   - customer-selection
   - friction-as-feature
