@@ -47,11 +47,11 @@ stance: >-
   hardware problem into an unbounded distributed systems problem that is harder
   to reason about and debug.
 related:
+  - INS-260410-199B
   - PRI-260328-99F0
   - INS-260405-1282
   - INS-260405-CADE
   - PRI-260321-0A4D
-  - PRI-260323-F193
   - INS-260403-AEBD
 evidence:
   - id: INS-260329-5DB9

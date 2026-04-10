@@ -1,5 +1,6 @@
 # Tag: credentials
 
+- `INS-260410-1430` Structurally isolate credentials from Claude's execution environment rather than relying on narrow token scopes, because scope-based mitigations depend on assumptions about model capability that get weaker over time.
 - `INS-260327-9431` For the first time ever, unemployment among young male college graduates equals non-graduates, suggesting the college degree premium is evaporating.
 - `INS-260327-A5CD` At the highest levels of finance, who you know matters infinitely more than what you know or what credentials you hold.
 - `INS-260403-C1B7` People who didn't attend elite schools suffer more from imagining what they missed than from any actual educational gap.

@@ -4,6 +4,7 @@
 - `INS-260327-FDF4` Karpathy's LLM OS framework: models are the CPU, modalities are peripherals, existing software infrastructure connects in, and there will be both default apps and a thriving third-party ecosystem.
 - `INS-260321-2BF9` NVIDIA is positioning as infrastructure for all AI — digital and physical — with 110 robot companies, 18M cars annually on their robotaxi platform, and orbital data center designs.
 - `INS-260404-CAD5` AI competitive advantage has migrated from model performance to distribution, ecosystems, and differentiation.
+- `INS-260410-4F43` Anthropic open-sourced the full MCPB specification, toolchain, and schemas so that the format can become a cross-application standard rather than a Claude-only feature.
 - `INS-260323-F963` Python's dominance in AI comes from being the glue that composes disparate systems, creating a viral ecosystem cycle — not from the language itself.
 - `INS-260329-3AE5` AWS's 200+ services create lock-in through integration complexity — migrating one service is easy, but migrating an ecosystem of interconnected services is practically impossible.
 - `INS-260405-484F` Clawback mechanisms that reach founders' personal assets convert entrepreneurship from bounded-downside to unlimited-downside, chilling risk-taking.
@@ -17,11 +18,11 @@
 - `INS-260330-F22A` Tencent shifted from copying and crushing competitors to investing in them and leveraging its platform to help them grow, converting potential enemies into equity-generating partners.
 - `INS-260330-C24F` Tencent's WeChat achieved dominance by bundling payments, social media, gaming, and mini-programs into one app, making it impossible for users to leave even when forced to choose between WeChat and a competitor's product.
 - `INS-260403-1AD3` Startup ecosystems need a critical mass threshold before they become self-reinforcing through network effects.
+- `INS-260405-BC10` The US-Europe startup gap is best explained by failure-recovery infrastructure — bankruptcy law, investor attitudes, labor mobility — not by cultural risk appetite alone.
 - `INS-260403-2759` Effective startup ecosystems are built from small, intentional networks of 6-20 people that share knowledge and build mutual confidence.
 - `INS-260403-5D7D` Seed-stage startups are too mobile for small regional grants to anchor them geographically.
 - `INS-260404-DE04` Regulatory shifts can rapidly undermine entire regional startup ecosystems independent of talent and capital availability.
 - `INS-260405-3772` Java's flaws spawned Groovy, Clojure, Scala, Kotlin, and arguably JavaScript — more ecosystem value than most 'better' languages ever generated.
-- `INS-260405-BC10` The US-Europe startup gap is best explained by failure-recovery infrastructure — bankruptcy law, investor attitudes, labor mobility — not by cultural risk appetite alone.
 - `INS-260403-20B1` Startup hub quality exists on a spectrum where each step up in hub density yields compounding benefits.
 - `INS-260404-D6EC` ARM's 1,000+ partner ecosystem creates switching costs that no single competitor can overcome, even with superior technology.
 - `INS-260404-B5EB` Apple 'mobilized' the payments ecosystem by letting all existing players continue business as usual while adding a mobile layer, rather than forcing ecosystem rewiring.

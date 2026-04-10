@@ -1,7 +1,9 @@
 # Tag: latency
 
 - `INS-260410-CD01` Code-driven orchestration unlocks asyncio.gather across independent tool calls, collapsing sequential round-trips into one concurrent batch.
+- `INS-260410-E658` Let agents write while-loops and if-statements as code rather than rerunning the model to evaluate each branch.
 - `INS-260410-376A` Gate expensive chain-of-thought reasoning behind a cheap single-token filter tuned for high recall.
+- `INS-260410-0B73` Move container provisioning behind the first tool call so sessions that don't need a sandbox never wait for one — Anthropic saw p50 TTFT drop ~60% and p95 drop >90% from this change alone.
 - `INS-260405-567D` NVIDIA's Vera Rubin platform delivers 10x inference efficiency gains, signaling the industry's pivot from training to inference as the dominant workload.
 - `INS-260330-81A7` Cache the encoder output once, run only the decoder per target language — critical for one-to-many translation at scale
 - `INS-260329-85E9` HFT order books are maintained entirely in-memory with replicated copies for fault tolerance, avoiding all disk I/O.

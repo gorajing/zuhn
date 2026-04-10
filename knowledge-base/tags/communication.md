@@ -4,7 +4,6 @@
 - `INS-260405-1F6B` AI that can speak and understand speech natively will unlock use cases that text interfaces cannot reach, from accessibility to real-time conversation.
 - `INS-260329-560D` AI app builders fail not because the AI is weak, but because users cannot articulate what they want with sufficient precision.
 - `INS-260329-C555` 40+ years of research into natural language processing hasn't closed the gap that a few weeks of Python education can bridge from the human side.
-- `INS-260323-5B36` El-Kurd's campaign succeeded globally because it finally matched visual imagery to rhetoric, making the power asymmetry undeniable to international observers.
 - `INS-260403-BADD` Erosion rates turn incomprehensible deep time into something the human mind can grasp and reason about.
 - `INS-260405-194F` When someone can't perceive a constraint you experience, appealing to politeness (take me at my word) is more tractable than demanding they recognize their privilege.
 - `INS-260404-4956` Reframe pushback as clarifying questions to move conversations from emotional to logical space without creating adversarial dynamics.
@@ -19,9 +18,10 @@
 - `INS-260330-5A9E` Pinker classifies swearing into five types: dysphemistic (forcing uncomfortable imagery), abusive (intimidating), idiomatic (casual signaling), emphatic (intensifying), and cathartic (pain relief).
 - `INS-260404-7F34` Essay impact is novelty × importance, but achieving both simultaneously is rare because important topics have already been heavily explored.
 - `INS-260403-6652` Writing demands more rigor than talking because less can go unsaid and you lose the crutch of tone and shared context.
+- `INS-260330-84C6` The gap between peak conscious experience and linguistic description is not a matter of degree but of kind — language is structurally incapable of encoding these states.
 - `INS-260323-61D4` Einstein presented the non-locality problem at least three times — once at the 1927 Solvay Conference, once with the photon box thought experiment, and once in the EPR paper — and each time Bohr misunderstood or reframed the argument rather than addressing it directly.
 - `INS-260330-6F6D` The Pioneer plaque's arrow symbol — obvious to humans who hunted with projectiles — may be meaningless or misleading to an alien intelligence, revealing how deeply cultural assumptions embed in supposedly universal designs.
-- `INS-260330-84C6` The gap between peak conscious experience and linguistic description is not a matter of degree but of kind — language is structurally incapable of encoding these states.
+- `INS-260323-5B36` El-Kurd's campaign succeeded globally because it finally matched visual imagery to rhetoric, making the power asymmetry undeniable to international observers.
 - `INS-260329-812E` Incoming messages feel obligatory but are actually requests — recognizing this eliminates the guilt of not replying.
 - `INS-260330-C13A` Reframing feedback requests as advice requests shifts people from cheerleader/critic mode into coach mode with actionable forward-looking suggestions.
 - `INS-260330-9A46` Friedrich Miescher discovered DNA in 1869, but Watson and Crick are household names because they synthesized others' work into a compelling structural model nearly a century later.
@@ -59,6 +59,9 @@
 - `INS-260403-1C10` Teams that adopt a shared visual framework for business models iterate faster because they eliminate the communication overhead that kills most innovation efforts.
 - `INS-260329-BE8E` Simplify all marketing language to a third-to-fifth grade reading level to maximize comprehension and conversion rates.
 - `INS-260330-B65B` Half of all content is the same 50-100 common words; differentiation and value live entirely in the rare, specific vocabulary choices.
+- `INS-260328-EBBC` The quality of what you give us is the only factor in the quality of what we give you back — generic prompts get generic answers, honest ones get real insight.
+- `INS-260327-47BA` Nothing is going to be handed to you — you have to be vocal and communicate your needs and value to your manager, because good work alone is not enough.
+- `INS-260328-12EE` Tell the adviser what you want and give them constraints — without this, they'll go way out of scope, just like a lawyer who red-lines everything when given no direction.
 - `INS-260330-D031` Stripe's radical transparency (BCCing everyone on all emails) broke Gmail and overwhelmed new hires, requiring new tooling and norms to sustain.
 - `INS-260403-4501` The EHR's fundamental design flaw is being built for billing rather than communication between providers and patients.
 - `INS-260405-85B5` EHRs serve billing and compliance, not communication — the gap between their purpose and provider needs is where healthcare AI value concentrates.
@@ -70,9 +73,6 @@
 - `INS-260405-44F5` Describing your product narrowly and concretely gets into investors' heads; vague all-encompassing descriptions approach zero information content.
 - `INS-260405-2AFB` Never say 'we're passionate' — investors tune out assertions and read posture, pacing, and directness instead.
 - `INS-260405-466C` As a pitch description expands to cover every possibility, its information content approaches zero.
-- `INS-260328-EBBC` The quality of what you give us is the only factor in the quality of what we give you back — generic prompts get generic answers, honest ones get real insight.
-- `INS-260327-47BA` Nothing is going to be handed to you — you have to be vocal and communicate your needs and value to your manager, because good work alone is not enough.
-- `INS-260328-12EE` Tell the adviser what you want and give them constraints — without this, they'll go way out of scope, just like a lawyer who red-lines everything when given no direction.
 - `INS-260403-4102` Regular leader communication during crisis builds trust through predictability, even when the update is 'no update.'
 - `INS-260322-AB55` Leaders who stall on giving feedback to gather 'objective evidence' let emotional resentment compound — there is no such thing as evidence everyone will accept.
 - `INS-260323-46B2` The perceived tension between empathy and assertiveness is a sequencing illusion — empathy first puts you in position to assert effectively.

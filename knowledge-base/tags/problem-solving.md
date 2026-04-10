@@ -1,14 +1,15 @@
 # Tag: problem-solving
 
 - `INS-260321-E59A` Donald Knuth's viral LLM math result was achieved by making the LLM update its memory after each solution — a hack simulating plasticity — but Knuth himself still had to create the final proof manifold.
+- `INS-260410-36E3` Above ~3x the baseline, extra memory stops fixing infra errors and starts enabling new solution strategies — letting agents that default to 'install the whole Python data science stack' succeed where leaner agents already win at tight limits.
 - `INS-260329-B408` The course author's core claim from experience at Google is that excellent programmers are distinguished primarily by knowing when to use which data structure, not by raw coding speed or algorithm knowledge.
 - `INS-260329-04FA` CS50 teaches computational thinking as a universal problem-decomposition skill, not just a precursor to coding.
 - `INS-260323-2117` Lagrange's breakthrough was converting the three-body problem from vectors (directional, hard to add) to scalars (magnitudes, trivially additive) — a problem-solving pattern that recurs across engineering and AI.
 - `INS-260404-92B8` The block-collision pi algorithm is simultaneously the most elegant and most absurdly inefficient way to compute pi, revealing that elegance and efficiency measure fundamentally different things.
 - `INS-260330-0982` Sleeping on a stuck problem reliably produces solutions that extended conscious grinding cannot.
 - `INS-260330-FA9D` When stuck debugging, sleep on it—your brain continues processing unconsciously and often solves it by morning.
-- `INS-260329-64B8` Solve problems by listing every way to fail, then doing the opposite — your brain finds threats faster than solutions.
 - `INS-260330-B15C` Instead of seeking solutions to problems like anxiety, examine where the problem comes from — that examination IS the resolution.
+- `INS-260329-64B8` Solve problems by listing every way to fail, then doing the opposite — your brain finds threats faster than solutions.
 - `INS-260404-A246` Admitting you're bad at something is the first step to finding effective workarounds like delegation or systematic search.
 - `INS-260403-EB12` True persistence means flexibility on methods while maintaining commitment to the goal; obstinacy is the reverse.
 - `INS-260403-EDB9` The duct-tape hack and the paradigm shift exist on the same continuum — both break rules, differing only in how imaginatively.
@@ -49,12 +50,12 @@
 - `INS-260322-9C84` Problems that seem inescapable may simply be artifacts of the dimensional framework you're operating within.
 - `INS-260325-C724` When you can't find an answer directly, discovering constraints the answer must satisfy often lets you work backward to it.
 - `INS-260330-5D8A` Supercritical fluids bypass the destructive surface tension of evaporation by eliminating the liquid-gas boundary altogether.
-- `INS-260327-A608` Great products start by identifying real problems, not by showcasing technology capabilities.
-- `INS-260330-B50A` Inconsistent results in complex systems require isolating variables rather than guessing at causes.
-- `INS-260403-7513` The best startup ideas come from solving problems you personally experience and deeply understand.
 - `INS-260325-05FC` Investing in general problem-solving techniques compounds; investing only in specific answers doesn't.
 - `INS-260323-246F` Bezos's grandfather never called for help — he built cranes, made his own veterinary tools, and spent a summer fixing a broken bulldozer, teaching that any problem yields to persistence and ingenuity.
 - `INS-260325-A79E` The Banach-Tarski proof only works because of a specific naming scheme for points on a sphere — the right labeling system makes the 'impossible' duplication self-evident.
+- `INS-260327-A608` Great products start by identifying real problems, not by showcasing technology capabilities.
+- `INS-260330-B50A` Inconsistent results in complex systems require isolating variables rather than guessing at causes.
+- `INS-260403-7513` The best startup ideas come from solving problems you personally experience and deeply understand.
 - `INS-260330-AEF1` Jeff the stranger instantly earned trust and admiration by understanding the pulley system and knowing exactly what to do — practical knowledge created immediate social connection and value.
 - `INS-260330-FC16` LA's shade balls were originally 'bird balls' for airports and mine ponds — repurposed to solve a completely different water chemistry problem.
 - `INS-260330-2AA7` Toy designers avoid the paradox (offset rails), compound bows eliminate it (cut-out riser), but longbow archers harness it — each approach trades simplicity for capability.

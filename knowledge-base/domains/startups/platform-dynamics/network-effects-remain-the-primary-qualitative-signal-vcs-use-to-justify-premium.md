@@ -52,7 +52,6 @@ stance: >-
   software, and businesses without them face commoditization under competitive
   pressure.
 related:
-  - INS-260323-61CD
   - INS-260330-E794
   - INS-260330-6D2E
   - INS-260330-3D0D
@@ -62,6 +61,7 @@ related:
   - INS-260330-0294
   - INS-260403-6341
   - INS-260403-0637
+  - INS-260404-1BCC
 ---
 Network effects create compounding defensibility: the more users on a platform, the more valuable it becomes to each individual user, which attracts more users, creating a flywheel that competitors cannot easily replicate with features or price alone. This is why VCs treat them as a primary investment signal — a business with genuine network effects gets harder to displace over time rather than easier.
 

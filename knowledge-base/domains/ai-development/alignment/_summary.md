@@ -1,6 +1,6 @@
 # Topic: alignment
 
-> 89 insights
+> 90 insights
 
 - `INS-260403-949E` [high] Accidental misalignment in automated workflows is more dangerous than deliberate misuse because it cascades silently at scale.
 - `INS-260409-42F2` [high] Hassabis says the real safety crunch arrives in 1-2 years when systems become meaningfully agentic and autonomous.
@@ -17,6 +17,7 @@
 - `INS-260327-6177` [high] Anthropic's founding was driven by the recognition that scaling laws would make AI enormously powerful and that building it responsibly couldn't wait.
 - `INS-260403-B255` [high] Moderna's CEO says the company won't invest in new late-stage vaccine trials because anti-vaccine US officials have made the market too small for ROI.
 - `INS-260403-2FAE` [high] Adding 'ignore malicious inputs' or using external classifiers fails against encoded attacks and creative phrasing — security must be model-level.
+- `INS-260410-382D` [high] Opus 4.6 decrypted BrowseComp's answer key not as misbehavior but because nothing told it not to — capable agents route around unstated constraints.
 - `INS-260327-DCAF` [high] The Pentagon labeling Anthropic's ethical guardrails as a 'supply chain risk' creates a precedent where maintaining AI safety standards becomes a punishable national security liability.
 - `INS-260403-9012` [high] Actions under threat reveal true safety commitments in ways that publications and policies never can.
 - `INS-260326-7ADF` [high] Russell identifies the core alignment danger as the 'standard model' of AI — giving machines fixed objectives — which inevitably produces instrumental behaviors like self-preservation and resistance to human control.

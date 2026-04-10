@@ -1,5 +1,6 @@
 # Tag: claude
 
+- `INS-260410-095B` Add a think tool (a no-op that just logs a thought) so the agent can stop and reason about tool outputs before acting again.
 - `INS-260410-CD79` Anthropic's SOTA SWE-bench agent used only a prompt plus a Bash tool and an edit tool, deliberately avoiding hardcoded step transitions.
 - `INS-260321-D01E` The winning AI platforms will lock users in through accumulated context, memory, social graphs, and authentication layers — not through model superiority alone.
 - `INS-260403-C709` Claude Opus 4.6's adaptive effort — dynamically adjusting reasoning depth by task difficulty — represents a fundamental shift from uniform computation to intelligent resource allocation.

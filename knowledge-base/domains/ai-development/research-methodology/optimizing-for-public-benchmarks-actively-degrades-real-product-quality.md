@@ -64,6 +64,7 @@ related:
   - INS-260402-92AE
   - INS-260404-C663
   - INS-260404-8D91
+  - INS-260410-8243
 ---
 This is Goodhart's Law in neon. Zuckerberg says flatly that it was 'relatively easy' for Meta's team to tune a Llama 4 Maverick variant that would rank near the top of LM Arena, but they released the untuned pure model — which sits further down the leaderboard — because optimizing for benchmarks 'has not led towards the highest quality product, the most usage, and best feedback within Meta AI as people use our stuff.' The same phenomenon shows up with Sonnet 3.7: genuinely good model, not near the top.
 

@@ -1,6 +1,6 @@
 # Topic: platform-dynamics
 
-> 32 insights
+> 33 insights
 
 - `INS-260404-573C` [high] Despite AI advances, Google's structural advantages in data, distribution, and advertising make search displacement extremely unlikely.
 - `INS-260403-4120` [high] Moltbook reveals that AI agents excel at founding projects but cannot sustain them, producing thousands of one-off ideas with almost no follow-through or genuine collaboration.
@@ -34,3 +34,4 @@
 - `INS-260325-2BDB` [medium] Eugene from ZDOT AI argued durable value lies in platform infrastructure — model-as-a-service, enterprise deployment, and APIs — sitting between foundation models and applications.
 - `INS-260403-F01C` [medium] Media technologies cycle between democratization (which enables divisive entrepreneurs) and consolidation (which restores moderation), and LLMs may be the consolidating phase of the social media cycle.
 - `INS-260328-9B8A` [medium] Zuckerberg frames open source AI not as idealism but as a security strategy — concentrated AI power in untrustworthy hands is potentially more dangerous than widespread access.
+- `INS-260410-4F43` [medium] Anthropic open-sourced the full MCPB specification, toolchain, and schemas so that the format can become a cross-application standard rather than a Claude-only feature.

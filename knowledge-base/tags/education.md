@@ -51,6 +51,8 @@
 - `INS-260329-9A58` Programming education works best when concepts are introduced through progressively complex projects rather than abstract explanations.
 - `INS-260329-ACE6` CS50's success comes from teaching thinking patterns that transfer across languages, not Python-specific tricks.
 - `INS-260402-4B96` Startups are where gaming the system stops working because users only care if your product solves their problem.
+- `INS-260329-1D8D` Investing $10K in skills that multiply your active income beats $10K in the S&P 500 because human capital ROI dwarfs market returns at the early stage.
+- `INS-260403-805E` School conditions founders to look for tricks and shortcuts instead of focusing on building great products.
 - `INS-260329-BE50` Dr. Chuck's course succeeds with 7.6M views not by simplifying Python but by ruthlessly eliminating every prerequisite — no prior math, no command-line setup, no CS jargon — so the actual content can be taught at full depth.
 - `INS-260329-461A` CS50's theatrical production quality — not just Malan's knowledge — is what makes it the world's most popular CS course.
 - `INS-260329-E40B` The normal learning path for programming is prolonged confusion followed by a sudden breakthrough, and knowing this pattern exists is itself the most valuable intervention.
@@ -59,8 +61,6 @@
 - `INS-260403-3511` 20 years of schooling teaches problem-solving but never problem-choosing, which is the skill that determines startup success.
 - `INS-260404-09EE` Standard education systems optimize for convergent thinking, systematically destroying the creative capacity that innovation later demands.
 - `INS-260403-CACE` The best thing a university can do for startups is be an excellent research institution, not run entrepreneurship programs.
-- `INS-260329-1D8D` Investing $10K in skills that multiply your active income beats $10K in the S&P 500 because human capital ROI dwarfs market returns at the early stage.
-- `INS-260403-805E` School conditions founders to look for tricks and shortcuts instead of focusing on building great products.
 - `INS-260323-B497` Teachers get fired for teaching context about the N-word in literature — this reflexive avoidance of difficult topics creates ignorance rather than safety.
 - `INS-260329-5975` Teaching someone to program transforms their identity from passive consumer to active creator, which is more valuable than any specific technical skill.
 - `INS-260329-1E81` CS50 tells students 'what matters is not where you end up relative to classmates but where you end up relative to yourself when you began' — the delta is the metric.

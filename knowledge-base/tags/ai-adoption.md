@@ -29,8 +29,8 @@
 - `INS-260405-7C86` Focused, short demos change AI behavior faster than comprehensive theoretical treatments.
 - `INS-260327-540D` Sequoia frames the enterprise AI opportunity as a spectrum from bottoms-up tools to top-down solutions — and solution companies like Harvey, Sierra, and Pace are fundamentally selling trust that AI will work for the customer's specific needs.
 - `INS-260322-88FC` Major banks like Goldman Sachs went from building their own email clients to adopting Cursor and GitHub Copilot — AI's intuitive demonstrability is accelerating institutional openness to external technology.
-- `INS-260322-2647` Companies with broad retail investor bases trade at higher multiples and benefit from organic brand defense because owners have skin in the game.
 - `INS-260403-EC3D` Screen-sharing AI workflows in meetings and Slack creates viral adoption through social proof more effectively than formal training.
+- `INS-260322-2647` Companies with broad retail investor bases trade at higher multiples and benefit from organic brand defense because owners have skin in the game.
 - `INS-260403-A46C` AI companies undermine their own adoption by leading with economic obsolescence messaging instead of empowerment narratives.
 - `INS-260405-D216` In AI content, doing-and-sharing beats talking-about at generating durable audience trust.
 - `INS-260327-2627` Companies that fired teams and replaced them with AI are now begging workers to come back as they enter the 'find out' phase of discovering most jobs are more nuanced than AI can handle.

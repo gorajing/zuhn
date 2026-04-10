@@ -47,11 +47,11 @@ stance: >-
   Production agents serving real users should be evaluated on pass^k (all k
   trials succeed), not pass@k (at least one of k succeeds).
 related:
+  - INS-260410-199B
   - INS-260403-DDEB
   - INS-260329-CBF6
   - INS-260328-E410
   - INS-260329-3739
-  - INS-260410-E3BB
 ---
 Agent behavior is non-deterministic, so a single pass/fail per task hides the real distribution. Two metrics capture this: pass@k measures the probability that at least one of k trials succeeds (rises toward 100% as k grows), while pass^k measures the probability that all k trials succeed (collapses toward 0% as k grows). At k=1 they're identical; by k=10 they tell opposite stories.
 

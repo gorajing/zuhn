@@ -46,7 +46,6 @@ stance: >-
   up front.
 related:
   - INS-260322-22B3
-  - INS-260327-9D50
   - INS-260402-2342
   - INS-260405-82DD
   - INS-260327-FDC1
@@ -55,5 +54,6 @@ related:
   - INS-260409-51B2
   - PRI-260328-81F5
   - INS-260327-DC4C
+  - INS-260410-796F
 ---
 The dominant pattern in early AI applications was embedding-based pre-inference retrieval (RAG). The field is shifting toward 'just in time' context: agents store lightweight references (file paths, stored queries, links) and load data dynamically through tools. Claude Code exemplifies this — it uses Bash primitives like head, tail, glob, and grep to navigate large databases without ever loading full data objects. Metadata like folder hierarchy, naming conventions, and timestamps become signals that guide exploration. The tradeoff is speed (runtime exploration is slower than pre-computed retrieval), but it bypasses stale indexes and lets agents progressively disclose context as needed. Hybrid approaches work best when content is less dynamic (legal, finance).

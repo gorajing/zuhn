@@ -1,6 +1,6 @@
 # Topic: adoption
 
-> 47 insights
+> 48 insights
 
 - `INS-260409-8DDA` [high] Despite massive latent AI value, ~95% of enterprise AI pilots fail because organizations don't know how to operationalize the technology — throwing AI 'over a wall' doesn't work.
 - `INS-260403-A9CC` [high] Companies fail at AI adoption because they issue vague 'be AI-first' mandates without concrete tactics for daily workflows.
@@ -22,6 +22,7 @@
 - `INS-260403-1106` [high] ICONIQ's State of AI report shows enterprises are blocked on AI adoption by security and compliance issues, not by capability limitations.
 - `INS-260322-7B61` [high] Just as the internet ad industry needed companies like DoubleClick, Comscore, and Omniture before Google/Facebook could scale revenue, enterprise AI needs measurement infrastructure before the $700B spend can be justified.
 - `INS-260322-A36C` [high] When a measure becomes a target, it stops being accurate — AI productivity must be measured through passive behavioral data (who actually uses the tools) married with outcomes, not self-reported surveys.
+- `INS-260410-953E` [high] MCP servers remained inaccessible not because they lacked power, but because installation required Node.js, manual JSON config editing, and dependency resolution.
 - `INS-260322-3083` [high] Stop analyzing AI and start using it this weekend -- vibe coding, agent mode reports, and conversational problem-solving.
 - `INS-260403-EE02` [high] Menlo Ventures finds 61% of US adults use AI but only 3% pay, revealing an enormous monetization gap that defines the AI business model challenge.
 - `INS-260323-282F` [high] Microsoft — the apex predator of enterprise software with 440M Office 365 users — has only 8M active paying AI Copilot users, generating roughly $2.9B/year against $200B+ in AI capex.

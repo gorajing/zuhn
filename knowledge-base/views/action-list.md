@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-10 | 4694 actionable insights
+Generated on 2026-04-10 | 4723 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -86,6 +86,16 @@ Generated on 2026-04-10 | 4694 actionable insights
 
 - [INS-260410-1030] Workflows orchestrate LLMs through predefined code paths; agents let LLMs dynamically direct their own process and tool use — pick deliberately based on whether you need predictability or flexibility.
 - [INS-260410-F259] System prompts fail at two extremes: brittle hardcoded if-else logic or vague high-level guidance — aim for the middle altitude.
+- [INS-260410-2C51] Constrain agents to one feature per session and require a git commit plus progress-file update before stopping, so the next session inherits a clean baseline.
+- [INS-260410-01BC] When a tool returns large data, filter and aggregate it in the code execution sandbox and only log the relevant slice.
+- [INS-260410-85AD] Give the agent browser automation (e.g., Puppeteer MCP) and explicitly prompt it to verify every feature as a human user would, end-to-end.
+- [INS-260410-095B] Add a think tool (a no-op that just logs a thought) so the agent can stop and reason about tool outputs before acting again.
+- [INS-260410-B0D6] Every harness workaround encodes an assumption about what the model can't do; those assumptions decay fast and need to be re-tested on each model upgrade.
+- [INS-260410-BBC1] Prompt every session to run the same opening sequence: pwd, read progress file, read feature list, check git log, run init.sh, run a basic end-to-end smoke test, then pick a feature.
+- [INS-260410-545A] Have the initializer write a comprehensive JSON feature list with each feature marked failing, and forbid the coding agent from editing anything except the passes field.
+- [INS-260410-8ECF] Expose MCP servers as a typed file tree of tool modules so agents load only the definitions they actually need.
+- [INS-260410-53C2] Use a specialized first-session initializer agent to create scaffolding (feature list, progress file, init.sh, git repo), then run identical coding agents on subsequent sessions that only do incremental work.
+- [INS-260410-E658] Let agents write while-loops and if-statements as code rather than rerunning the model to evaluate each branch.
 
 ## ai-development/agents
 - [INS-260405-FE94] Coinbase's Agentic Wallets let AI agents hold funds, pay for APIs, and execute trades without human approval at each step.
@@ -227,6 +237,8 @@ Generated on 2026-04-10 | 4694 actionable insights
 - [INS-260403-72C2] Running Mixtral-class models locally needs ~40GB RAM, limiting local AI to users with high-end hardware.
 - [INS-260405-06B0] Deep inheritance hierarchies create refactoring traps that compound over time, not just stylistic inconvenience.
 - [INS-260330-30FB] G3P is photosynthesis's universal intermediate — one molecule convertible to glucose, cellulose, or starch — showing that versatile intermediates beat specialized end products for system resilience.
+- [INS-260410-0B73] Move container provisioning behind the first tool call so sessions that don't need a sandbox never wait for one — Anthropic saw p50 TTFT drop ~60% and p95 drop >90% from this change alone.
+- [INS-260410-346B] If losing a single container loses the session, you have adopted a pet — externalize state so any component can die and be replaced without human nursing.
 
 ## ai-development/automation
 - [INS-260329-4751] Python's readability and ecosystem make it the best entry point for automation-focused learners.
@@ -277,12 +289,15 @@ Generated on 2026-04-10 | 4694 actionable insights
 - [INS-260410-761B] Most Claude Code best practices reduce to one principle: the context window fills fast and performance degrades as it fills.
 - [INS-260410-DABE] Always provide tests, example cases, screenshots, or a command Claude can run to verify its own output.
 - [INS-260410-796F] Use subagents for any task that reads many files — they run in their own context window and return only summaries.
+- [INS-260410-B118] Anthropic recommends a prompt template that explicitly instructs Claude Code to read three spec URLs (README, MANIFEST, examples) before writing extension code.
 
 ## ai-development/embeddings
 - [INS-260402-1D32] Using tiered similarity thresholds (auto-accept above 0.8, offer with confirmation at 0.7-0.8, re-research below 0.7) balances cache hit rates against accuracy.
 - [INS-260402-28BA] Combining vector search to find a semantically close starting point with graph traversal to explore structured relationships yields better retrieval than either method alone.
 - [INS-260405-214D] Use vector embeddings to land near relevant content in semantic space, then traverse graph edges to discover structurally related knowledge that pure vector search would miss.
 - [INS-260409-ADD0] MemPalace's wing+room metadata filtering takes 60.9% flat semantic R@10 to 94.8% on 22k real conversation memories — a 34-point lift from trivial structure the maintainers honestly note is standard ChromaDB filtering.
+- [INS-260410-2067] Run BM25 and vector search in parallel, then merge results with rank fusion — embeddings catch meaning, BM25 catches exact strings like 'TS-999'.
+- [INS-260410-2F8D] Have Claude write a 50-100 token explanation of where each chunk sits in the parent document, prepend it to the chunk, then embed and BM25-index the combined text.
 
 ## ai-development/future-of-work
 - [INS-260320-A745] Anthropic's own studies show AI deskilling in coding is real, but depends on HOW you use models — some usage patterns cause skill degradation, some don't.
@@ -365,6 +380,13 @@ Generated on 2026-04-10 | 4694 actionable insights
 - [INS-260403-7D7A] Treating prompts as code-like instructions rather than search queries is the single highest-leverage shift for AI output quality.
 - [INS-260403-529D] Telling the AI 'you are a clinical researcher' or 'you are a senior developer' shifts its entire output posture from generalist to specialist.
 - [INS-260410-CD15] Paste the chapter you're currently reading into Claude/ChatGPT, ask for a summary first, then ask questions as you read — retention and cross-domain access both jump.
+
+## ai-development/infrastructure
+- [INS-260410-0DA5] Anthropic's existing benchmarks didn't flag the degradation users were reporting because benchmarks test isolated prompts and Claude often recovers from single mistakes even when the underlying quality has dropped.
+- [INS-260410-B3C4] When you serve one model across AWS Trainium, NVIDIA GPUs, and Google TPUs, each bug surfaces differently on each platform and masquerades as random variation rather than a coherent issue.
+- [INS-260410-A1CA] Anthropic's privacy controls prevented engineers from examining unreported problematic interactions, which lengthened the time needed to identify and reproduce the three infrastructure bugs.
+- [INS-260410-ED34] When LLM routing is sticky, a 0.8% misroute rate becomes a 100% bad experience for the unlucky users rather than a rare glitch for everyone.
+- [INS-260410-8092] Anthropic's December 2024 workaround for a dropped-token bug was inadvertently masking a much worse approximate top-k bug that only became visible when they removed the workaround in August.
 
 ## ai-development/limitations
 - [INS-260323-F68A] Claude Code users spend $8-13.5x their subscription in compute — if they had to pay per-error like a metered taxi, most would abandon the service because mistakes become expensive.
@@ -514,6 +536,8 @@ Generated on 2026-04-10 | 4694 actionable insights
 - [INS-260410-18CF] Start a new chat whenever you switch topics — leftover tokens distract the model and slow sampling without improving answers.
 - [INS-260410-AB4A] Anthropic built a tool-testing agent that used a flawed MCP tool, then rewrote its description — future agents using the new description completed tasks 40% faster.
 - [INS-260410-096F] When the lead agent delegates with instructions as terse as 'research the semiconductor shortage,' subagents duplicate each other's work or wander off-topic — detailed task contracts are mandatory.
+- [INS-260410-5D71] Tool descriptions should be short and functional; complex 'how to use this well' guidance belongs in the system prompt.
+- [INS-260410-87B5] Bare think tool: +7pts. Think tool + optimized prompt with reasoning examples: +20pts (54% relative). The prompt is the lever.
 
 ## ai-development/research-methodology
 - [INS-260408-F58E] Isomorphic's pipeline screens binding + cross-target toxicity in silico, then only validates the final candidates in the wet lab.
@@ -526,6 +550,9 @@ Generated on 2026-04-10 | 4694 actionable insights
 - [INS-260410-B30D] Leonardo wrote his discoveries in coded mirror script and Brunelleschi burned his dome schematics — both wanted to be marveled at forever, and Palmer calls them saboteurs of human progress.
 - [INS-260410-BFCF] Zuckerberg admits Meta tuned a Llama 4 Maverick variant that sat near the top of Chatbot Arena, but shipped the un-tuned version because arena-optimization 'led us astray' on actual product quality.
 - [INS-260410-0923] When your experiments contradict you, top-down belief based on beauty, simplicity, and brain-inspired correctness is what tells you to keep debugging instead of abandoning the direction.
+- [INS-260410-5951] On Terminal-Bench 2.0, the same Claude model scored 6 points higher with uncapped resources than with strictly enforced per-task specs (p<0.01), exceeding the margins that typically separate frontier models on leaderboards.
+- [INS-260410-303B] Setting container guarantee and hard limit to the same value creates zero headroom for transient memory spikes, silently OOM-killing tasks that would otherwise succeed — so evals should specify both parameters separately.
+- [INS-260410-D03C] Benchmark scores increasingly drive deployment decisions, but the rigor applied to running and reporting them hasn't caught up — making resource configuration a first-class variable is the minimum bar for trustworthy agentic evals.
 
 ## ai-development/system-building
 - [INS-260320-4A82] Commit output specs to git so future agents and engineers see what was done, what failed, and what decisions were made.
@@ -614,10 +641,14 @@ Generated on 2026-04-10 | 4694 actionable insights
 - [INS-260409-B13F] MemPalace stores conversations verbatim and uses structure plus semantic search to find what matters at query time, rather than extracting 'user prefers Postgres' and discarding the conversation that explained why.
 - [INS-260410-9DB0] Every piece of a harness encodes an assumption about what the model can't do; those assumptions are worth re-stress-testing each model release.
 - [INS-260410-25AC] Constrain planner agents to deliverables and high-level design — granular technical decisions made upfront propagate errors into the implementation.
+- [INS-260410-A18B] Claude Desktop ships its own Node.js runtime so extensions never fail on 'user doesn't have Node installed' or version mismatches.
+- [INS-260410-264E] If your corpus is under ~500 pages, just put the whole thing in the prompt and cache it — no RAG infrastructure required.
 
 ## ai-development/system-design
 - [INS-260410-1ED3] In agentic systems a minor bug cascades across many turns, so production requires resumable execution, retry logic, and rainbow deployments — not stateless request handling.
 - [INS-260410-A27C] Because agents are non-deterministic across runs, grade final outputs with an LLM judge on a rubric and start with ~20 real queries — not hundreds of rigid test cases.
+- [INS-260410-1430] Structurally isolate credentials from Claude's execution environment rather than relying on narrow token scopes, because scope-based mitigations depend on assumptions about model capability that get weaker over time.
+- [INS-260410-0C77] Desktop Extensions declare user_config with a 'sensitive: true' flag, and Claude Desktop stores those values in the OS keychain rather than leaving them in JSON files.
 
 ## ai-development/systems-design
 - [INS-260404-C663] Components tuned for original conditions do not just underperform in new environments — they generate actively harmful outputs.

@@ -50,14 +50,13 @@ stance: >-
   vector level propagate multiplicatively across every AI application that
   touches high-dimensional data.
 related:
+  - INS-260410-2067
   - INS-260405-214D
   - INS-260326-CAAB
   - PRI-260406-8B75
   - INS-260325-E62D
-  - PRI-260407-5465
   - INS-260326-AE6C
   - INS-260402-5ACE
-  - INS-260402-28BA
   - INS-260409-0D87
   - INS-260410-9D16
 ---

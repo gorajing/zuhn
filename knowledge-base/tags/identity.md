@@ -11,6 +11,10 @@
 - `INS-260403-CBB2` The inner voice handles working memory, simulation, self-control, and identity construction — chatter is when this system malfunctions.
 - `INS-260402-E7F7` The story's nested drug-induced lives create a situation where characters cannot determine if they are 'real' or simulated, making consistent moral behavior the only robust strategy.
 - `INS-260403-CD29` When everything you say online is permanently stored, the ability to reinvent yourself and move past mistakes is fundamentally constrained.
+- `INS-260409-A803` Ego is the narrative self-model — the aim is to hold it lightly, not destroy it.
+- `INS-260323-7DBC` At the self-authoring stage of development, you realize your values and identity are not terminal but instrumental — and gaining agency over your identity costume is what constitutes wisdom.
+- `INS-260403-F76E` When AI agents simulate themselves with enough fidelity to reference real experiences and produce novel reflections, the line between performance and genuine selfhood becomes philosophically meaningless.
+- `INS-260325-4C2E` The algorithm effect replaces internal motivation with external validation loops, creating population-level identity outsourcing to platforms.
 - `INS-260327-D77C` The average billionaire is 63 and getting older, with no billionaires under 30 being self-made, yet most refuse to retire even though some would be richer if they'd passively invested instead.
 - `INS-260404-2E30` MRI studies show Apple users' brains respond to brand news with the same empathy patterns as family relationships.
 - `INS-260404-7541` Marketing researcher Americus Reed argues brands now serve the identity-support function once held by churches and communities.
@@ -20,10 +24,6 @@
 - `INS-260403-5A91` When someone cheats in the domain they claim to care most about, it reveals a disconnect between stated values and actual psychology that is deeply diagnostic.
 - `INS-260409-2B3A` Galef: 'Sometimes I notice myself defending things I don't even believe because someone assumed I believed it' — a huge chunk of apparent belief defense is actually identity defense against a position that was never consciously chosen, just socially inherited.
 - `INS-260409-A239` Treating your current self-model as untrustworthy is a generative stance when paired with willingness to act on better evidence, not a paralysis.
-- `INS-260409-A803` Ego is the narrative self-model — the aim is to hold it lightly, not destroy it.
-- `INS-260323-7DBC` At the self-authoring stage of development, you realize your values and identity are not terminal but instrumental — and gaining agency over your identity costume is what constitutes wisdom.
-- `INS-260403-F76E` When AI agents simulate themselves with enough fidelity to reference real experiences and produce novel reflections, the line between performance and genuine selfhood becomes philosophically meaningless.
-- `INS-260325-4C2E` The algorithm effect replaces internal motivation with external validation loops, creating population-level identity outsourcing to platforms.
 - `INS-260404-3959` Intentional moderates and ideologues both acquire opinions in bulk rather than reasoning independently about each question.
 - `INS-260404-7C3F` Keeping your identity small — refusing to label yourself as an X or Y person — preserves your ability to think clearly across more domains.
 - `INS-260403-9E97` Trump's rage at SCOTUS striking down tariffs — despite tariffs dragging his approval ratings — reveals how identity attachment to a signature policy overrides rational political self-interest.
@@ -79,8 +79,8 @@
 - `INS-260328-2854` Self-aware people at powerful institutions stay because they know no one will return their calls once they leave.
 - `INS-260330-F348` Musk doesn't seek sources of strength — quitting simply isn't in his option set, which removes the need for ongoing motivation.
 - `INS-260402-ECB6` Don't let institutional roles define you — treat them as day jobs and reserve your identity for self-directed work.
+- `INS-260329-5975` Teaching someone to program transforms their identity from passive consumer to active creator, which is more valuable than any specific technical skill.
 - `INS-260405-7529` Entrepreneurs don't balance work and life — the two collapse into one undifferentiated thing.
 - `INS-260405-56CB` Self-employment is the shallow reading; self-expression through work is the deep one.
-- `INS-260329-5975` Teaching someone to program transforms their identity from passive consumer to active creator, which is more valuable than any specific technical skill.
 - `INS-260329-0B1D` Label prospects with positive traits during objections so they later feel compelled to live up to those identities at close time.
 - `INS-260330-912C` Rome successfully absorbed conquered peoples for centuries by making them Romans, but collapsed when expansion outpaced cultural integration.

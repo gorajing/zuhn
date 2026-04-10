@@ -60,6 +60,7 @@ related:
   - PRI-260406-7710
   - INS-260403-6F8B
   - INS-260404-8A02
+  - INS-260410-D03C
 ---
 The traditional VC scorecard of revenue multiples, stickiness, and network effects no longer explains why some billion-dollar AI startups compound while others flame out. Adoption curves that once took a decade now compress into quarters — ChatGPT reached 90% enterprise penetration within two years. This velocity means even the best product-market fit has a short half-life: a team can hit $10M ARR in months, then watch usage crater when a new open-source model undercuts them.
 

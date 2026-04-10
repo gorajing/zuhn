@@ -35,9 +35,8 @@
 - `INS-260323-0026` Casper spent 73-91% of gross profit on advertising and lost $200 on every mattress sold — advertising is meant to grow a business, not sustain it.
 - `INS-260405-47FD` Costco pays $21/hour average — double the U.S. retail average — and gets employees three times more productive in return.
 - `INS-260405-9E7D` Landing a rocket once proves engineering; landing and relaunching it cheaply proves the business.
-- `INS-260402-E2FF` Make the adversary's business model unviable rather than trying to block every specific attack.
 - `INS-260405-E155` In hybrid hardware+SaaS models, blended margin is the single metric most likely to hide a fatal business problem.
-- `INS-260327-DD5C` Christoph Janz's framework shows five ways to build a $100M business: 1,000 customers at $100K, 10,000 at $10K, or 10 million at $10 — and your sales approach must match which path you're on.
+- `INS-260402-E2FF` Make the adversary's business model unviable rather than trying to block every specific attack.
 - `INS-260330-73A2` Growth equals conversion minus churn, and reducing churn by 1% has the identical mathematical effect on growth as increasing conversion by 1%, but costs significantly less.
 - `INS-260403-6D8C` Cohort-level CAC payback reveals which acquisition channels and time periods produce self-funding growth versus cash-burning growth.
 - `INS-260403-1817` Each churned customer destroys not just current revenue but years of future compounding profit.
@@ -53,6 +52,7 @@
 - `INS-260322-3259` SiteGPT's $1700-1800 LTV per customer makes even low-conversion organic traffic highly profitable.
 - `INS-260329-49A4` LTV-to-CAC ratio (using gross profit, not revenue) determines scaling ceiling — aim for 3:1 minimum, and pour fuel when you see 30:1+.
 - `INS-260321-8D2B` Price AI products using three factors: value creation vs human cost, unit economics including hidden storage costs, and representative customer surveys.
+- `INS-260327-DD5C` Christoph Janz's framework shows five ways to build a $100M business: 1,000 customers at $100K, 10,000 at $10K, or 10 million at $10 — and your sales approach must match which path you're on.
 - `INS-260402-24B0` Unlike SaaS where marginal cost trends to zero, every AI user incurs real compute cost, making undisciplined distribution a path to margin collapse.
 - `INS-260329-4EF5` When your first sale covers acquisition + fulfillment for the next customer, growth becomes self-funding and capital is no longer the bottleneck.
 - `INS-260329-3DD7` Raise price, decrease cost, increase frequency, cross-sell, increase quantity, upgrade quality, downsell, and offer economy tiers — these 8 levers make any single customer worth more.
@@ -65,9 +65,6 @@
 - `INS-260405-7F03` Venture capital decisions are driven by quantitative metrics, not story quality.
 - `INS-260329-ACFF` Price either extremely high for a select few or extremely low for everyone — the middle kills businesses.
 - `INS-260405-0060` Usage-based revenue doesn't accrue at contract signing, so compensating reps on TCV or ACV creates a structural misalignment — reps win, but the company may not.
-- `INS-260405-7ACC` CAC and churn are the two variables that determine whether a SaaS business is structurally viable — everything else is execution.
-- `INS-260405-6B96` Amazon's 'free' streaming is only free in the sense that it's not line-itemed — its cost is recovered through the shopping behavior change it induces in Prime subscribers.
-- `INS-260405-4B5D` The 3:1 LTV:CAC threshold is the minimum ratio at which SaaS unit economics justify growth spend.
 - `INS-260403-B6F2` Retention, upsells, and product stickiness are the three compounding levers for CLTV that outperform CAC reduction strategies long-term.
 - `INS-260403-0D24` eDreams focused on unit economics and EBITDA from day one, reaching unicorn status with real profits rather than just a billion-dollar valuation on paper.
 - `INS-260404-F69A` The Calvin Cycle produces 6 G3P molecules but must recycle 5 to regenerate its starting materials, yielding only 1 net output per full cycle.
@@ -78,6 +75,9 @@
 - `INS-260330-696D` Agriculture's key unlock was producing surplus calories that freed people to specialize, creating a compounding flywheel of efficiency.
 - `INS-260404-1C01` The Calvin Cycle produces 6 G3P molecules but must reinvest 5 of them to regenerate its starting materials, netting only 1 — a pattern that mirrors sustainable business unit economics.
 - `INS-260329-D02E` Decompose revenue targets into weekly unit sales to identify whether your constraint is volume or price.
+- `INS-260405-7ACC` CAC and churn are the two variables that determine whether a SaaS business is structurally viable — everything else is execution.
+- `INS-260405-6B96` Amazon's 'free' streaming is only free in the sense that it's not line-itemed — its cost is recovered through the shopping behavior change it induces in Prime subscribers.
+- `INS-260405-4B5D` The 3:1 LTV:CAC threshold is the minimum ratio at which SaaS unit economics justify growth spend.
 - `INS-260330-659D` Shade balls were purchased to block bromate formation, but their secondary benefits — 80-90% evaporation reduction, algae elimination, near-zero chlorination — pay back at least half their cost.
 - `INS-260323-8F70` Natural selection operates on genes because they're the right-sized unit that replicates faithfully and exhibits selectable traits -- businesses must identify their equivalent.
 - `INS-260329-78CB` High-ticket with few customers is easier to execute than low-ticket at scale, especially when starting with no resources.

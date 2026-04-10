@@ -58,10 +58,10 @@ stance: >-
   fastest because frontier models have massive experience bases to draw on.
 related:
   - INS-260323-3F39
+  - INS-260410-5951
   - INS-260405-82F3
   - INS-260403-1EFF
   - PRI-260328-A82C
-  - INS-260405-547E
 ---
 Hume's second attempt at a new take-home used a data-transposition problem with bank conflicts, which he'd personally solved from first principles. Claude Opus 4.5 still cracked it—partly because engineers across many platforms have published on these exact problems, giving the model a much larger toolbox than any individual human. The failure mode generalizes: any evaluation rooted in a well-trodden domain inherits the evaluator's assumption that the problem is hard, while the model simply recognizes patterns from training.
 

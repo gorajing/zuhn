@@ -1,7 +1,7 @@
 # Tag: freedom
 
-- `INS-260323-CF30` Jefferson's 'tree of liberty' metaphor and RFK's 'we're all inches from barbarity' warning mean that democratic freedoms degrade the moment each generation stops actively protecting them.
 - `INS-260403-5CD6` The freedom we sacrifice for commitments was mostly unused anyway — we paid for it in loneliness without exercising it.
+- `INS-260323-CF30` Jefferson's 'tree of liberty' metaphor and RFK's 'we're all inches from barbarity' warning mean that democratic freedoms degrade the moment each generation stops actively protecting them.
 - `INS-260330-BA3A` Measuring personal growth creates an identity around being-the-person-who-is-growing, which is just another mental trap.
 - `INS-260403-750A` Gen Z's return to religion and structured practices signals that unconstrained freedom is experienced as a burden, not liberation.
 - `INS-260327-6021` Spinoza didn't say stop feeling - he said understand why you feel, because understanding transforms overwhelming emotions into manageable ones.

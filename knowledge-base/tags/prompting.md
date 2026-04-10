@@ -1,6 +1,7 @@
 # Tag: prompting
 
 - `INS-260409-52CE` If your AI output is slop, you probably asked it to 'write good copy' instead of giving it 12 rules and 16 samples — the feedback loop is the same as training a junior employee, just 100x faster.
+- `INS-260410-BBC1` Prompt every session to run the same opening sequence: pwd, read progress file, read feature list, check git log, run init.sh, run a basic end-to-end smoke test, then pick a feature.
 - `INS-260410-BBEA` Agent frameworks hide the underlying prompts and make debugging harder, so start with direct LLM API calls — most patterns are a few lines of code — and adopt frameworks only when their value exceeds the opacity cost.
 - `INS-260410-E4C4` 'Is this beautiful?' is unanswerable, but 'does this follow our design principles?' gives the model something concrete to grade against.
 - `INS-260410-F259` System prompts fail at two extremes: brittle hardcoded if-else logic or vague high-level guidance — aim for the middle altitude.
@@ -9,6 +10,7 @@
 - `INS-260320-E872` Be as specific as possible about desired results — vague prompts produce vague implementations.
 - `INS-260320-508F` Don't lead in prompts if you want honest feedback — Claude tells you what it thinks you want to hear.
 - `INS-260321-A5D4` Adding instructions to fuzzy tasks creates noise, not clarity. Expert prompters write shorter prompts that define the task clearly without micromanaging execution — long prompts degrade performance around 3,000 tokens.
+- `INS-260410-B118` Anthropic recommends a prompt template that explicitly instructs Claude Code to read three spec URLs (README, MANIFEST, examples) before writing extension code.
 - `INS-260321-82FE` Effective prompting is no longer about linguistic tricks — it's about providing the right structure: role, background, format, constraints. Description of what the output should BE matters more than instructions for what the model should DO.
 - `INS-260320-4993` Re-prompt often using double-esc to recall previous prompts — you get better results armed with knowledge of what you DON'T want.
 - `INS-260320-96C9` If output quality seems worse, self-reflect on how you're prompting before blaming the model.
@@ -18,9 +20,11 @@
 - `INS-260329-808C` Telling AI 'I run a dental practice and patients need to book appointments and fill intake forms' outperforms 'build me a booking app with forms and reminders.'
 - `INS-260410-0EFE` A forward pass through ~100 transformer layers is the compute budget per token, so any answer that requires real work must be spread across many intermediate tokens or offloaded to a tool.
 - `INS-260410-78F4` Treat weight-stored knowledge as a hazy recollection and the context window as working memory — paste the source material in rather than relying on recall.
+- `INS-260410-5D71` Tool descriptions should be short and functional; complex 'how to use this well' guidance belongs in the system prompt.
 - `INS-260410-096F` When the lead agent delegates with instructions as terse as 'research the semiconductor shortage,' subagents duplicate each other's work or wander off-topic — detailed task contracts are mandatory.
 - `INS-260410-B8EB` The same structured data in YAML costs roughly 15% fewer tokens than JSON, which matters for context length and API bills.
 - `INS-260405-880C` Prompt engineering has an accumulating body of research-backed techniques that reward systematic study over ad-hoc experimentation.
+- `INS-260410-87B5` Bare think tool: +7pts. Think tool + optimized prompt with reasoning examples: +20pts (54% relative). The prompt is the lever.
 - `INS-260410-18CF` Start a new chat whenever you switch topics — leftover tokens distract the model and slow sampling without improving answers.
 - `INS-260320-26B1` Use SuperWhisper for voice-to-text prompting when your hands are tired from typing all day.
 - `INS-260403-49D1` AI prototyping success depends more on precise follow-up prompts describing exact changes than on the quality of the initial generation prompt.

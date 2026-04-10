@@ -1,6 +1,7 @@
 # Tag: fundraising-strategy
 
 - `INS-260403-5941` Venture debt deal sizes and activity have grown substantially over the past decade, making it a standard tool rather than an exotic financing option.
+- `INS-260405-5BA9` Equity fundraising is often chosen by default rather than necessity, costing founders compounding ownership they never recover.
 - `INS-260404-9103` Sub-100% growth SaaS companies now get better valuations in public markets than from VCs.
 - `INS-260403-BA6A` Building a DCF model forces founders to speak the financial language investors use, shifting negotiations from opinion-based anchoring to assumption-based discussion.
 - `INS-260403-3D75` Burn multiple (net burn ÷ net new ARR) has become the dominant investor filter, with sub-1x considered excellent and over-2x triggering tough conversations.
@@ -21,5 +22,4 @@
 - `INS-260328-D866` The most successful Standard Capital founders hadn't talked to any investors or built a deck -- they just applied and committed to the process if accepted.
 - `INS-260402-5974` Founders should fit investor meetings into gaps in their development schedule, not fit development into gaps between investor meetings.
 - `INS-260404-B6DF` Founders must demonstrate capital efficiency and a path to profitability to raise at attractive valuations in the post-ZIRP era.
-- `INS-260405-5BA9` Equity fundraising is often chosen by default rather than necessity, costing founders compounding ownership they never recover.
 - `INS-260403-7E27` Technical founders can bypass the performative pitch process by launching cheaply on seed money and approaching investors with traction data instead of plans.

@@ -45,9 +45,9 @@ resolutions:
 related:
   - INS-260321-D4D0
   - INS-260403-8011
+  - INS-260410-ED34
   - INS-260330-09E3
   - PRI-260321-5BF1
-  - INS-260410-7E29
   - INS-260410-0C09
 stance: >-
   IMEC (India-Middle East-Europe Economic Corridor) is a US-backed logistics

@@ -44,6 +44,6 @@ related:
   - PRI-260405-49C0
   - INS-260323-64A4
   - INS-260323-DA4A
-  - INS-260327-4C73
+  - INS-260410-095B
 ---
 The host explicitly says his enjoyment comes from 'not fully understanding, having some descriptions, but not really understanding what you're going to get.' This is the opposite of the usual advice to RTFM first. For tools whose point is surprise — granular, spectral, distortion — surrendering to incomprehension is the creative mode. The moment you fully understand every parameter, you start steering toward predictable outcomes and lose the collisions that produced the interesting sound. Worth protecting a 'no-manual' mode even for tools you've worked with for years.

@@ -23,6 +23,6 @@
 - `INS-260330-9055` General-purpose editors win breadth but specialized IDEs win depth for committed platform developers.
 - `INS-260328-ACC3` Stripe, Google, and PostHog all appear to be pure self-serve products, but they invest heavily in marketing — no one waits in an ivory tower to be discovered.
 - `INS-260405-D23E` Platform builders should maximize developer access rather than try to anticipate use cases, because versatility produces emergent applications the platform creator never imagined.
+- `INS-260403-8793` Replit's decade of integrating editor, database, and hosting into one container was the only reason AI agents could autonomously write, test, and deploy code — a moat competitors cannot quickly replicate.
 - `INS-260329-E208` CS50P's use of established conventions (CLI arguments, JSON APIs, pytest patterns) teaches that leveraging existing mental models accelerates adoption more than inventing optimal-but-novel interfaces.
 - `INS-260403-EE38` Most big programs started as throwaway scripts, so tools must excel at quick disposable work to capture the projects that grow.
-- `INS-260403-8793` Replit's decade of integrating editor, database, and hosting into one container was the only reason AI agents could autonomously write, test, and deploy code — a moat competitors cannot quickly replicate.

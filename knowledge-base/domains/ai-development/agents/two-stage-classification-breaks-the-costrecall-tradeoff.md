@@ -50,7 +50,7 @@ related:
   - INS-260410-C022
   - PRI-260328-D893
   - INS-260323-7625
-  - PRI-260320-233B
+  - INS-260410-6ABA
 ---
 Auto Mode runs a single-token yes/no filter first, tuned to err toward blocking (8.5% FPR, 6.6% FNR on real traffic). Only flagged actions escalate to a second pass with chain-of-thought reasoning, which drops FPR to 0.4% at a small recall cost. Because stage 2 uses the same prompt with only the final instruction changed, it's almost entirely cache-hit from stage 1.
 

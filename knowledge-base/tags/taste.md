@@ -10,9 +10,9 @@
 - `INS-260404-C99B` Your guilty pleasures — what you read when not trying to be impressive — reveal your genuine aesthetic preferences.
 - `INS-260404-8A87` Only copy work you authentically enjoy, not work you admire for its status.
 - `INS-260403-E33F` Non-affiliate, taste-driven curation signals authenticity and builds deeper audience trust than monetized recommendation lists.
-- `INS-260330-9F1F` Before interviewing anyone, talk to known world-class practitioners to learn what great looks like — learning during interviews is prohibitively expensive.
 - `INS-260403-F657` If you're excited about non-prestigious work and can explain what others miss about it, that's a positive signal worth acting on.
 - `INS-260403-4431` Rare genuine interest in commercially valuable but unappealing work creates a natural monopoly on motivation and persistence.
+- `INS-260330-9F1F` Before interviewing anyone, talk to known world-class practitioners to learn what great looks like — learning during interviews is prohibitively expensive.
 - `INS-260403-8E4D` Steve Jobs was unique because he had genuine taste himself rather than delegating it, which most CEOs do and which the design paradox shows produces near-random outcomes.
 - `INS-260402-D2C9` You cannot manage a process intended to produce beautiful things without knowing what beautiful is — taste is a prerequisite for quality leadership.
 - `INS-260330-072C` Great recruiters are great sourcerers who find tinkerers and outliers before the market recognizes them.

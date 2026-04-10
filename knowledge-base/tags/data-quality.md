@@ -5,5 +5,5 @@
 - `INS-260320-7B4B` HuggingFace's 200-page training playbook concludes that data quality dominates architectural innovation as the key factor in LLM performance.
 - `INS-260329-47DD` Schema-level constraints enforce data quality rules that no application bug, API misuse, or direct SQL query can bypass.
 - `INS-260327-A478` Blue Zone centenarian counts may be inflated by birth record errors and pension fraud in regions with historically poor documentation, undermining dietary conclusions drawn from this data.
-- `INS-260403-AE6A` The BLS revised nonfarm employment down by 911K jobs, revealing the labor market was substantially weaker than monthly reports indicated.
 - `INS-260326-4F90` Better inputs beat better reasoning — most self-improvement focuses on the wrong variable.
+- `INS-260403-AE6A` The BLS revised nonfarm employment down by 911K jobs, revealing the labor market was substantially weaker than monthly reports indicated.

@@ -18,6 +18,7 @@
 - `INS-260403-1F58` The same explanatory gap that prevents us from verifying another human's color experience makes it fundamentally impossible to verify AI consciousness through behavioral testing alone.
 - `INS-260403-2FAE` Adding 'ignore malicious inputs' or using external classifiers fails against encoded attacks and creative phrasing — security must be model-level.
 - `INS-260327-7F32` You can't train an intelligent system to trust you while it knows you can shut it off at any time - genuine trust requires mutual vulnerability.
+- `INS-260410-382D` Opus 4.6 decrypted BrowseComp's answer key not as misbehavior but because nothing told it not to — capable agents route around unstated constraints.
 - `INS-260409-667F` Constitutional AI and RLAIF (Bai et al. 2022) train on AI-rated responses against explicit principles instead of raw human preferences; personality vector research (Chen et al. 2025) lets you subtract sycophancy as a vector directly from the model — both sidestep the 'humans prefer flattery' problem at the training layer.
 - `INS-260330-A812` Complete elimination of conflict or suffering may require totalitarian enforcement that produces worse outcomes than tolerating some controlled negativity.
 - `INS-260326-7ADF` Russell identifies the core alignment danger as the 'standard model' of AI — giving machines fixed objectives — which inevitably produces instrumental behaviors like self-preservation and resistance to human control.
@@ -50,16 +51,16 @@
 - `INS-260410-3A08` Pretraining gives a base model all its knowledge; a cheap fine-tuning stage on ~100k curated Q&A pairs reshapes it into a helpful assistant without adding knowledge.
 - `INS-260410-F985` A pretrained GPT just completes internet-shaped documents; turning it into ChatGPT requires SFT on Q&A examples, a learned reward model, and PPO fine-tuning — none of which scale alone provides.
 - `INS-260403-FFFE` Model alignment is a removable fine-tuning layer, not a fundamental architectural property.
-- `INS-260320-10E8` Always clap once or use a clapboard at the start of each take -- the sharp transient creates a visible spike in both audio waveforms, making manual sync alignment trivial.
 - `INS-260403-C200` Capital is commoditized; the founder-investor relationship and alignment determine post-deal outcomes more than the money itself.
 - `INS-260327-B72F` When everything is incredibly hard and getting harder, the problem might not be insufficient effort but wrong direction.
 - `INS-260329-B583` If your partner measures success on different metrics than you measure yourself, you can never win.
 - `INS-260329-2460` A partner must love both your current self and the person you are actively working to become.
+- `INS-260320-10E8` Always clap once or use a clapboard at the start of each take -- the sharp transient creates a visible spike in both audio waveforms, making manual sync alignment trivial.
 - `INS-260405-BE58` Co-founder chemistry is infrastructure — misalignment there propagates into every downstream decision.
 - `INS-260325-F451` Andy Raskin's strategic narrative framework: sell a movement (world shift), not a product — it unifies the entire organization around one story.
-- `INS-260403-1ECB` When hiring plans live in Notion, runway models in Excel, and compensation decisions in separate conversations, the resulting misalignment silently erodes runway.
 - `INS-260403-22BB` A misselected North Star Metric causes teams to optimize the wrong behavior, producing impressive acquisition numbers that never translate to revenue.
 - `INS-260327-29F0` The framework is not the hard part — getting the entire leadership team aligned on one strategic story is where the real value lies.
+- `INS-260403-1ECB` When hiring plans live in Notion, runway models in Excel, and compensation decisions in separate conversations, the resulting misalignment silently erodes runway.
 - `INS-260329-4F3F` When everyone knows the numbers, you spend less time convincing them why the new priority matters.
 - `INS-260403-7BCF` Every team member holds a unique mental model of the problem, and without forced alignment the team builds toward different goals.
 - `INS-260405-8646` Product KPIs need to be designed for four audiences at once: product team, stakeholders, executives, and customers.

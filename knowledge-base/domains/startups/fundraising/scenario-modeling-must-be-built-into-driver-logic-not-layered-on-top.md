@@ -56,6 +56,7 @@ related:
   - INS-260403-A752
   - PRI-260406-BC09
   - INS-260410-9DB0
+  - INS-260410-B0D6
 ---
 Most startup financial templates treat scenarios as a cosmetic layer—three columns with different revenue numbers. But real scenario modeling requires that changing a single assumption (e.g., churn rate, sales ramp time, or ARPU) propagates through COGS, headcount costs, working capital timing, and ultimately cash flow. Without this cascading logic, a 'Bear case' that only adjusts revenue while keeping costs fixed gives founders false confidence about downside resilience.
 

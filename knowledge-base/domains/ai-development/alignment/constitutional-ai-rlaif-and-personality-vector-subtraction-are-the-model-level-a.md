@@ -52,7 +52,6 @@ stance: >-
   Training-level techniques beyond RLHF can sidestep the sycophancy artifact by
   not training on raw human preferences for praise.
 related:
-  - INS-260322-D6D7
   - INS-260404-94EB
   - INS-260403-59AC
   - INS-260409-1FD3

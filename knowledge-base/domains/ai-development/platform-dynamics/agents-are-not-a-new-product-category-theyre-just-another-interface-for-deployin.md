@@ -52,9 +52,9 @@ related:
   - INS-260405-F26B
   - INS-260405-A992
   - INS-260410-F910
+  - INS-260410-71B9
   - INS-260327-94FE
   - INS-260409-A3EC
-  - INS-260410-9EA8
   - INS-260410-EE5C
 stance: OpenAI doesn't treat agents as a separate category
 evidence:

@@ -41,7 +41,7 @@
 - `INS-260404-6BBB` Tools like 'Spark Ideas With Design Constraints' and trigger question decks systematically push teams past their first obvious ideas.
 - `INS-260403-649C` Deliberately labeling early ambitious work as a lower-stakes artifact (sketch, hack, experiment) disarms the internal critic long enough for the project to gain momentum.
 - `INS-260404-AD21` Calling serious work 'just a hack' or 'just a sketch' lets you start by applying lower standards, then sneakily converting it once momentum builds.
-- `INS-260402-A94F` Beginning with open exploration rather than a fixed thesis produces more truthful and surprising results in complex domains.
 - `INS-260402-3A0D` Simplicity forces you to face the real problem because you can't hide behind ornament.
+- `INS-260402-A94F` Beginning with open exploration rather than a fixed thesis produces more truthful and surprising results in complex domains.
 - `INS-260321-6D01` Puth's best work follows a two-phase pattern: solo marination where the song develops in his head, then collaboration where others refine and constrain his tendencies.
 - `INS-260409-DC8C` Poking at a tool from partial understanding produces happy accidents that full understanding would systematically avoid.

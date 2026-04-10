@@ -2,6 +2,7 @@
 
 - `INS-260409-E366` The clock cannot tick faster than the slowest signal path settles — performance is gated by physics, not by design ambition.
 - `INS-260405-2688` C has no garbage collector by design — manual malloc/free gives programmers full control over when memory is allocated and released, enabling predictable performance that GC languages cannot guarantee.
+- `INS-260410-0B73` Move container provisioning behind the first tool call so sessions that don't need a sandbox never wait for one — Anthropic saw p50 TTFT drop ~60% and p95 drop >90% from this change alone.
 - `INS-260410-761B` Most Claude Code best practices reduce to one principle: the context window fills fast and performance degrades as it fills.
 - `INS-260325-DA83` Harvard/MIT research at BCG shows top performers got much better with AI while lower performers got worse — the 'selective upgrade puzzle.'
 - `INS-260325-9C2F` When AI outperforms humans, human-AI synergy is g = -0.54; when humans outperform AI, synergy is g = +0.46.

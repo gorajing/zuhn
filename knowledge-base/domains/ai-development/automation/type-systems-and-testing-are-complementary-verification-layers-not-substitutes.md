@@ -52,15 +52,14 @@ stance: >-
   categories of bugs, and using only one creates dangerous blind spots that
   AI-generated code amplifies.
 related:
-  - INS-260329-5EE7
   - INS-260329-F688
   - INS-260329-3441
   - INS-260329-0154
   - INS-260402-8A7A
   - PRI-260405-3080
+  - INS-260410-B3C4
   - INS-260329-F84E
   - INS-260329-03B5
-  - INS-260329-9157
 evidence:
   - id: INS-260329-5EE7
     type: SUPPORTS

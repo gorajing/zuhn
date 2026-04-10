@@ -57,6 +57,7 @@ related:
   - INS-260329-693E
   - INS-260322-22D0
   - INS-260409-9E95
+  - INS-260410-A18B
 stance: >-
   Cursor forked VS Code rather than building an extension because plugin APIs
   limit what you can build

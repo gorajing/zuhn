@@ -12,20 +12,21 @@
 - `INS-260403-1A6B` Deliberately framing ambitious work as sketches, hacks, or experiments lowers the psychological barrier to starting and sustaining it.
 - `INS-260321-FE91` Opus Clip validated by manually engineering final video outputs and emailing them to potential customers, getting 60% positive feedback before writing a single line of product code.
 - `INS-260404-6A15` Constrained prototyping deliberately restricts business model variables to force teams into imagining radically different configurations.
-- `INS-260330-7882` Spotify pirated millions of songs to build the prototype that would convince record labels to license music legally.
 - `INS-260403-0A7A` Rewriting code you've already written forces you to fully understand it, which is the prerequisite for seeing fundamentally better designs.
+- `INS-260330-7882` Spotify pirated millions of songs to build the prototype that would convince record labels to license music legally.
+- `INS-260404-D147` Starting in low-commitment, fast-iteration media (sketches, hacks, notebooks) lets ambitious projects survive the vulnerable early stage where they look worst.
 - `INS-260405-D925` Starting with an explicit low-commitment frame ('just a sketch', 'just a hack') bypasses perfectionism and lets real work accumulate.
 - `INS-260403-E7A7` Calling ambitious work 'just a sketch' or 'just a hack' lowers the psychological barrier to starting, then momentum carries you forward.
 - `INS-260404-4154` Starting with a sketch instead of a sculpture lets you bypass the psychological barrier of commitment that kills ambitious projects early.
 - `INS-260404-DDFB` Working in low-fidelity mediums like sketches or quick hacks lets you start ambitious projects by reducing the psychological weight of imperfect early output.
 - `INS-260404-D688` Calling early work a sketch or hack lowers the psychological bar enough to actually start and iterate.
 - `INS-260323-DDC2` You can only iterate fearlessly on expensive robots if you can repair them yourself — the ability to 'just go make it' is the enabling condition for rapid learning.
-- `INS-260403-76E4` Choosing media that allow fast iteration and low upfront commitment makes it psychologically easier to survive the ugly early phase of ambitious projects.
 - `INS-260403-36DD` Minimal seed funding plus a hard demo deadline produces working prototypes faster than large raises.
+- `INS-260403-76E4` Choosing media that allow fast iteration and low upfront commitment makes it psychologically easier to survive the ugly early phase of ambitious projects.
 - `INS-260403-649C` Deliberately labeling early ambitious work as a lower-stakes artifact (sketch, hack, experiment) disarms the internal critic long enough for the project to gain momentum.
 - `INS-260403-0701` Innovation engines should prototype and test business models to reduce uncertainty, not write business plans that create false confidence.
 - `INS-260404-AD21` Calling serious work 'just a hack' or 'just a sketch' lets you start by applying lower standards, then sneakily converting it once momentum builds.
-- `INS-260404-D147` Starting in low-commitment, fast-iteration media (sketches, hacks, notebooks) lets ambitious projects survive the vulnerable early stage where they look worst.
+- `INS-260403-AC03` Slow, careful software development merely produces a polished version of your first wrong idea.
 - `INS-260403-FFBD` When functional prototypes cost minutes instead of weeks, the constraint on product discovery shifts from engineering bandwidth to hypothesis quality.
 - `INS-260402-E36A` Experts expect to throw away early work and cultivate dissatisfaction, while amateurs convince themselves their first attempt is good enough.
 - `INS-260330-84F4` Start with a small useful hack and let it grow, rather than designing a comprehensive system upfront.
@@ -34,7 +35,6 @@
 - `INS-260403-9D8A` Prototyping a subset beats spec-writing because it keeps the problem small enough for one mind to encompass.
 - `INS-260403-D4E1` Stay in low-fidelity block frames as long as possible — the first detailed design becomes an anchor that limits all subsequent exploration.
 - `INS-260403-EE38` Most big programs started as throwaway scripts, so tools must excel at quick disposable work to capture the projects that grow.
-- `INS-260403-AC03` Slow, careful software development merely produces a polished version of your first wrong idea.
 - `INS-260405-DF08` Early uncertainty is irreducible by analysis — only experiments generate the evidence that reduces it.
 - `INS-260404-FF0B` Explore dozens of business model canvases before writing a single business plan—plans describe implementation of a proven model, not discovery of one.
 - `INS-260403-49D1` AI prototyping success depends more on precise follow-up prompts describing exact changes than on the quality of the initial generation prompt.

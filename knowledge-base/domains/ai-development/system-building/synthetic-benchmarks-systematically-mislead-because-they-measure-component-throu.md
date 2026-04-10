@@ -52,11 +52,11 @@ stance: >-
   coordination, making them unreliable predictors of real-world workflow
   performance.
 related:
-  - INS-260326-7F79
   - INS-260403-5F69
+  - INS-260326-7F79
   - PRI-260403-7585
+  - INS-260410-0DA5
   - INS-260327-33FA
-  - PRI-260405-ADEA
 evidence:
   - id: INS-260330-201F
     type: SUPPORTS

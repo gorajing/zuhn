@@ -7,8 +7,6 @@
 - `INS-260325-5B7F` Standards enabled computing at scale by allowing workers who didn't understand the underlying science to reliably execute their piece of a complex calculation.
 - `INS-260325-0C45` The scale cannot tell fat from water or muscle — body measurements, clothing fit, and energy levels are better progress indicators.
 - `INS-260410-4357` At scale, effectiveness of achieving outcomes matters more than efficiency of resource use — the 'waste' in China's growth was the mechanism that produced the growth.
-- `INS-260409-D170` Frames that show duct-taped wires, window frames, or the capsule interior next to the Earth outperform 'pure' astronomical shots because they give the viewer scale and a foothold.
-- `INS-260323-527B` Smifter's video uses a ladder of progressively larger scale comparisons — Earth, Moon distance, Alpha Centauri, solar system, observable universe — to make incomprehensible numbers emotionally tangible.
 - `INS-260404-EDEC` The 1987 supernova neutrino arrival simultaneously with light over tens of thousands of light-years outweighed the OPERA result over 454 miles.
 - `INS-260330-814E` WWII's unprecedented destruction came not from unprecedented hatred but from unprecedented industrial capacity to act on ordinary human impulses at scale.
 - `INS-260325-96FB` Common sense works perfectly within its calibrated range and fails predictably outside it.
@@ -17,6 +15,8 @@
 - `INS-260409-CE1D` From Artemis's long-exposure Earth shot the atmosphere is a thread — you cannot separate 'clouds' from 'breathable layer' because both are tiny against the planet's radius.
 - `INS-260409-E0D5` Where quantum stops and classical starts is an unknown that experimentalists push outward by engineering, not by theorizing.
 - `INS-260330-4711` A field goal kicked due north drifts measurably sideways from Earth's rotation, proving invisible forces produce real effects even at everyday scales.
+- `INS-260409-D170` Frames that show duct-taped wires, window frames, or the capsule interior next to the Earth outperform 'pure' astronomical shots because they give the viewer scale and a foothold.
+- `INS-260323-527B` Smifter's video uses a ladder of progressively larger scale comparisons — Earth, Moon distance, Alpha Centauri, solar system, observable universe — to make incomprehensible numbers emotionally tangible.
 - `INS-260409-A62F` High-volume content production is the late-stage payoff of having tolerated years of bad early output.
 - `INS-260330-E4B6` Morgan's 'morganization' strategy turned fragmented railroads into profitable monopolies by merging competitors rather than outcompeting them.
 - `INS-260330-39B0` Photosynthesis is explicitly inefficient and complicated, yet it powered the organism that became the dominant life form on Earth by being first and scaling massively.

@@ -55,8 +55,8 @@ related:
   - INS-260410-E977
   - INS-260410-CD79
   - INS-260323-2E51
+  - INS-260410-85AD
   - INS-260320-9D89
-  - INS-260321-2482
 ---
 Two concrete error-proofing tactics from the post: (1) the edit tool always requires an absolute path, because models sometimes lose track of the current working directory after the agent moves around with Bash commands; (2) string replacement edits only succeed when `old_str` appears exactly once in the file, otherwise the model gets an explicit error and a chance to retry with more context.
 

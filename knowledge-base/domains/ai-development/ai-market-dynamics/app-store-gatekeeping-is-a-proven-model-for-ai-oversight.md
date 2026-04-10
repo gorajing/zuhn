@@ -53,8 +53,8 @@ related:
   - INS-260320-1B10
   - INS-260329-92E9
   - INS-260323-01F9
+  - INS-260410-D03C
   - INS-260403-23AA
-  - INS-260403-C37B
 ---
 Rather than inventing AI regulation from scratch, Chamath points to existing private-sector gatekeeping as a template. Apple's App Store and Google Play already evaluate apps on novelty, risk, and potential for exploitation before allowing distribution. Facebook similarly sandboxed apps to observe behavior before public launch.
 

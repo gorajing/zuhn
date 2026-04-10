@@ -22,6 +22,6 @@
 - `INS-260330-8A65` Sanderson's observation that 'if it were any simpler, what hope would we have that it could recognize digits?' reveals a useful heuristic: solution complexity should be proportional to problem complexity.
 - `INS-260409-0250` A galaxy hosting a rapidly accreting black hole can look identical in brightness to a galaxy with 10x more stars, because friction-heated infalling gas radiates light that is indistinguishable from starlight at JWST resolution from billions of light years away.
 - `INS-260330-DE89` Destin's involuntary tap-out at 7.2G permanently changed his approach to confidence-humility balance in ways voluntary humility never had.
+- `INS-260409-81CB` The most valuable AI insight for you personally is whichever side you're currently not considering — deliberately steelman the counter to your default position.
 - `INS-260330-BF96` Byron Ferguson hits aspirins mid-air not by eliminating arrow wobble but by testing every arrow's spine and rejecting those outside tolerance.
 - `INS-260330-9F1F` Before interviewing anyone, talk to known world-class practitioners to learn what great looks like — learning during interviews is prohibitively expensive.
-- `INS-260409-81CB` The most valuable AI insight for you personally is whichever side you're currently not considering — deliberately steelman the counter to your default position.

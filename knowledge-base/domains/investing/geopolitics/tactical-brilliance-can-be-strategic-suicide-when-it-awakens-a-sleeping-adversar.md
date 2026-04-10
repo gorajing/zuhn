@@ -58,7 +58,6 @@ stance: >-
   effects on the adversary's will, not by first-order tactical success.
 related:
   - INS-260321-86F1
-  - INS-260321-A3A1
   - INS-260323-E74E
   - INS-260326-79DF
   - INS-260323-822B
@@ -67,6 +66,7 @@ related:
   - INS-260326-8189
   - INS-260321-1A99
   - INS-260327-7C94
+  - INS-260327-994B
 ---
 Paine's framing is that Pearl Harbor succeeded at every measurable tactical criterion — surprise, execution, damage inflicted, Japanese losses — yet it was a strategic disaster because it instantly unified an isolationist America behind total war. The Japanese saw America's refusal to help Britain against the Nazis and inferred weakness, missing that isolationism is conditional, not constitutive. Once attacked, the same population flips to 'hell to pay' mode.
 

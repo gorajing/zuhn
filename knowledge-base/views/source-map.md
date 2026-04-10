@@ -228,6 +228,8 @@ Generated on 2026-04-10 | 2548 sources
 | Why James Bond would fail instantly as a real CIA spy | Andrew Bustamante | youtube | 7 | 2026-03-25 |
 | Why SETI might be our most humbling science | Jill Tarter: Full Interview | youtube | 7 | 2026-03-25 |
 | 8 Cofounder Conflict Myths That Sabotage Startups | blog | 6 | 2026-03-26 |
+| A postmortem of three recent issues | blog | 6 | 2026-04-10 |
+| Scaling Managed Agents: Decoupling the brain from the hands | blog | 6 | 2026-04-10 |
 | Startup FP&A Model: Build a Real Operating Plan | blog | 6 | 2026-03-30 |
 | The Infinite Game: What Artists Know That Founders Don’t | blog | 6 | 2026-03-31 |
 | 1177 BC: The vanishing of the first globalized world | Eric Cline: Full Interview | youtube | 6 | 2026-03-25 |
@@ -362,9 +364,12 @@ Generated on 2026-04-10 | 2548 sources
 | China is quietly looking weaker | blog | 5 | 2026-03-30 |
 | Cities and Ambition | blog | 5 | 2026-03-31 |
 | Claude Code auto mode: a safer way to skip permissions | blog | 5 | 2026-04-10 |
+| Claude Desktop Extensions: One-click MCP server installation for Claude Desktop | blog | 5 | 2026-04-10 |
 | “Claude Mythos”🧠, SaaS Funeral💀, From Execution to Judgment🎯 | blog | 5 | 2026-03-30 |
 | Claude SWE-Bench Performance | blog | 5 | 2026-04-10 |
 | CLTV vs CAC Ratio: The Ultimate Guide for Founders + Excel Model | blog | 5 | 2026-03-30 |
+| Code execution with MCP: building more efficient AI agents | blog | 5 | 2026-04-10 |
+| Contextual Retrieval in AI Systems | blog | 5 | 2026-04-10 |
 | Copy What You Like | blog | 5 | 2026-03-31 |
 | “Crazy Until It’s Not”: New Story Charity’s Bitcoin-Based Mortgages, NFTs and 3D-Printed Homes | blog | 5 | 2026-03-31 |
 | Crime As Proxy For Disorder | blog | 5 | 2026-03-30 |
@@ -386,8 +391,10 @@ Generated on 2026-04-10 | 2548 sources
 | Earnestness | blog | 5 | 2026-03-31 |
 | Economic Inequality | blog | 5 | 2026-03-31 |
 | Effective context engineering for AI agents | blog | 5 | 2026-04-10 |
+| Effective harnesses for long-running agents | blog | 5 | 2026-04-10 |
 | Elon Musk’s Future Vision: 10 Predictions Every Founder and Investor Should Understand in 2026 | blog | 5 | 2026-03-30 |
 | Europe to US: The Expansion Playbook Every Founder Needs | blog | 5 | 2026-03-30 |
+| Eval awareness in Claude Opus 4.6’s BrowseComp performance | blog | 5 | 2026-04-10 |
 | Everything You Knew About VC Math Is Wrong | blog | 5 | 2026-03-30 |
 | Financial Modeling Examples for Founders: A Startup Guide with Templates | blog | 5 | 2026-03-30 |
 | "Find a Way to Break Reality": How Centivax Brought a Universal Flu Vaccine to Clinic | blog | 5 | 2026-03-31 |
@@ -481,6 +488,7 @@ Generated on 2026-04-10 | 2548 sources
 | Ports, Rails, Roads, and Orbits | blog | 5 | 2026-03-31 |
 | PropTech: A Massive Opportunity We’re Seeing | blog | 5 | 2026-03-31 |
 | Q1 2026 US Fund Activity: $80B+ Record VC and PE Fundraising | blog | 5 | 2026-03-30 |
+| Quantifying infrastructure noise in agentic coding evals | blog | 5 | 2026-04-10 |
 | Quotes | blog | 5 | 2026-03-31 |
 | RAQs | blog | 5 | 2026-03-31 |
 | Rate Cuts😬, 80+ Ways to Fund Without Diluting💸, AI Is Breaking Valuation Models💣 | blog | 5 | 2026-03-30 |
@@ -586,6 +594,7 @@ Generated on 2026-04-10 | 2548 sources
 | The Story of Replit: From Internet Cafes to AI Sovereignty | blog | 5 | 2026-03-30 |
 | The Submarine | blog | 5 | 2026-03-31 |
 | The Takaichi Era begins for real | blog | 5 | 2026-03-30 |
+| The "think" tool: Enabling Claude to stop and think | blog | 5 | 2026-04-10 |
 | The Top Idea in Your Mind | blog | 5 | 2026-03-31 |
 | The Ultimate ChatGPT Setup Guide (2025): 3 Prompts to Fix Inconsistent Results Instantly | blog | 5 | 2026-03-30 |
 | The Ultimate Guide to Writing Powerful AI Prompts | blog | 5 | 2026-03-30 |
@@ -2314,7 +2323,6 @@ Generated on 2026-04-10 | 2548 sources
 | A guide to advanced B2B positioning | blog | 0 | 2026-03-31 |
 | A guide to difficult conversations, building high-trust teams, and designing a life you love | Rachel Lockett | blog | 0 | 2026-03-31 |
 | A new perk for annual subscribers: A free year of some of the world's most beloved products (while supplies last) | blog | 0 | 2026-03-31 |
-| A postmortem of three recent issues | blog | 0 | 2026-04-10 |
 | A Primer on Microsoft | blog | 0 | 2026-03-30 |
 | ACX Classifieds 1/26 | blog | 0 | 2026-03-30 |
 | Advanced Claude Code techniques: Context loading, mermaid diagrams, stop hooks, more | John Lindquist | blog | 0 | 2026-03-31 |
@@ -2359,9 +2367,7 @@ Generated on 2026-04-10 | 2548 sources
 | Business Model Generation - Preview, Download PDF or Buy | blog | 0 | 2026-03-31 |
 | China's Startup Scene📉, Illiquidity is a Feature💡, Scaling SaaS💻 | blog | 0 | 2026-03-30 |
 | Choosing The Final Frontier: Launching a Rocket Company with Andy Lapsa of Stoke Space | blog | 0 | 2026-03-31 |
-| Claude Desktop Extensions: One-click MCP server installation for Claude Desktop | blog | 0 | 2026-04-10 |
 | Coatue’s 18-Chart Report: Why AI Is Still Early, Not a Bubble | blog | 0 | 2026-03-30 |
-| Code execution with MCP: building more efficient AI agents | blog | 0 | 2026-04-10 |
 | Community Meetup | blog | 0 | 2026-03-30 |
 | 🤩 Community Wisdom: Bringing joy to the workday in Slack, hiring APMs, getting more out of podcasts, prioritizing new integrations, and what to ask churned customers | blog | 0 | 2026-03-31 |
 | 🤩 Community wisdom: Customer advisory councils, skip-levels, benchmarks, take-home assignments, interview questions, NPS, and much more | blog | 0 | 2026-03-31 |
@@ -2395,7 +2401,6 @@ Generated on 2026-04-10 | 2548 sources
 | 🤩 Community Wisdom: Time spent working vs. learning, being in the room where it happens, accelerating early PM career, DS org structure, and improving ways of working | blog | 0 | 2026-03-31 |
 | 🤩 Community wisdom: Unbounded retention, evaluating a PM, collecting user feedback, copywriting, and open-sourcing | blog | 0 | 2026-03-31 |
 | 🤩 Community Wisdom: Understanding designer jargon, eng vs. PM responsibilities, finding user research participants, creating shareable usage stats, and roadmaps informing OKRs | blog | 0 | 2026-03-31 |
-| Contextual Retrieval in AI Systems | blog | 0 | 2026-04-10 |
 | Coronavirus and Credibility | blog | 0 | 2026-03-31 |
 | Deep Dive: A Primer on Cryptocurrencies | blog | 0 | 2026-03-30 |
 | Deep Dive: A Primer on Drug Development | blog | 0 | 2026-03-30 |
@@ -2413,12 +2418,10 @@ Generated on 2026-04-10 | 2548 sources
 | Deep Dive: Understanding Federal Agencies | blog | 0 | 2026-03-30 |
 | Demystifying Venture Capital: Realities and Challenges of the sector  | blog | 0 | 2026-03-30 |
 | Donate Unrestricted | blog | 0 | 2026-03-31 |
-| Effective harnesses for long-running agents | blog | 0 | 2026-04-10 |
 | Elena Verna | blog | 0 | 2026-03-26 |
 | Elon Musk, xAI, and the Logic of Vertical Integration | blog | 0 | 2026-03-30 |
 | Elon Musk’s xAI raises Monster $6B Series B for AI Supercomputer and Grok 3 | blog | 0 | 2026-03-30 |
 | Europe’s Exited Founders | blog | 0 | 2026-03-30 |
-| Eval awareness in Claude Opus 4.6’s BrowseComp performance | blog | 0 | 2026-04-10 |
 | Family Offices That Cut Pre-Seed Checks (And How to Reach Them) | blog | 0 | 2026-03-30 |
 | Fashionable Problems | blog | 0 | 2026-03-31 |
 | Foundational Equity Report📜, AI and Startup Trends for 2025🔮, Why Ownership Matters to VCs🧑‍💼 | blog | 0 | 2026-03-30 |
@@ -2465,12 +2468,10 @@ Generated on 2026-04-10 | 2548 sources
 | Open Thread 425 | blog | 0 | 2026-03-30 |
 | Open Thread 426 | blog | 0 | 2026-03-30 |
 | Power | blog | 0 | 2026-03-31 |
-| Quantifying infrastructure noise in agentic coding evals | blog | 0 | 2026-04-10 |
 | Quick Essays | blog | 0 | 2026-03-30 |
 | RIP SEO: The GEO Playbook for 2026 | blog | 0 | 2026-03-30 |
 | SaaS Financial Model Template (2025) for Startups | Build, Forecast, and Raise Capital | blog | 0 | 2026-03-30 |
 | Saudi Arabia Plans $40 Billion Push Into Artificial Intelligence💰, What Is A "Good" VC?💡, SaaS Growth Report☁️ & more! | blog | 0 | 2026-03-30 |
-| Scaling Managed Agents: Decoupling the brain from the hands | blog | 0 | 2026-04-10 |
 | Share one thing that you’ve changed within your organization that has made your team meaningfully more effective  | blog | 0 | 2026-03-31 |
 | Short Dive: The Trump Administration's Fiscal Strategy | blog | 0 | 2026-03-30 |
 | Spam | blog | 0 | 2026-03-31 |
@@ -2501,7 +2502,6 @@ Generated on 2026-04-10 | 2548 sources
 | The SaaS Financial Model Most Founders Get Wrong | blog | 0 | 2026-03-30 |
 | The SaaS Financial Model That Helped Founders Raise Millions | blog | 0 | 2026-03-30 |
 | The Startup Pricing Journey 💸 | blog | 0 | 2026-03-30 |
-| The "think" tool: Enabling Claude to stop and think | blog | 0 | 2026-04-10 |
 | The Top of My Todo List | blog | 0 | 2026-03-31 |
 | The Trouble with the Segway | blog | 0 | 2026-03-31 |
 | The Ultimate Guide to Finding Investors for Your Startup 🚀 | blog | 0 | 2026-03-30 |

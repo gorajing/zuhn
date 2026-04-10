@@ -59,8 +59,8 @@ related:
   - INS-260330-7E4F
   - INS-260403-699A
   - INS-260326-2410
+  - INS-260410-199B
   - PRI-260407-D1AD
-  - INS-260405-6A6F
 ---
 A significant but under-discussed constraint on AI-assisted development is local machine capacity. Even high-end MacBook Pros start 'sounding like an airplane taking off' with 3-4 concurrent worktrees running agents. This physical limitation caps the parallelism advantage that AI agents theoretically provide. Stripe's solution is cloud-hosted development environments that can be provisioned on-demand — each minion gets its own isolated cloud environment with the full codebase, services, CI, and tooling pre-configured.
 

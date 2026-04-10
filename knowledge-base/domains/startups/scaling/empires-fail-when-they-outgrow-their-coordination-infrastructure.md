@@ -47,15 +47,14 @@ stance: >-
   Organizations that expand beyond the reach of their administrative systems
   become vulnerable to both internal disaffection and external disruption.
 related:
-  - INS-260327-8B34
   - INS-260327-8912
   - INS-260327-5140
   - INS-260327-C68B
-  - INS-260327-15E1
   - INS-260330-B490
   - INS-260330-E585
   - INS-260327-D25D
   - INS-260327-8B9A
+  - INS-260327-15E1
 evidence:
   - id: INS-260327-D25D
     type: SUPPORTS

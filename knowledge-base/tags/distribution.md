@@ -1,5 +1,6 @@
 # Tag: distribution
 
+- `INS-260410-953E` MCP servers remained inaccessible not because they lacked power, but because installation required Node.js, manual JSON config editing, and dependency resolution.
 - `INS-260402-BCEC` Despite a proliferation of high-quality models, OpenAI pulled ahead because ChatGPT became a daily habit for millions, not because it scored highest on benchmarks.
 - `INS-260409-27F9` ChatGPT owned 100% of the consumer AI market in 2023, ~75% in 2025, and is likely to fall under 50% as platform incumbents enter with free offerings bundled through OS-level distribution.
 - `INS-260404-CAD5` AI competitive advantage has migrated from model performance to distribution, ecosystems, and differentiation.
@@ -7,13 +8,14 @@
 - `INS-260403-751D` Pre-existing user bases of hundreds of millions create a flywheel where more human feedback produces faster model improvement.
 - `INS-260403-990E` AI embedded in existing workflows like email gets adopted faster than AI requiring new habits.
 - `INS-260325-FBE5` a16z argues there are no traditional moats in consumer AI — the landscape shifts too fast — so momentum (launch speed, traction velocity, mindshare) is the only defensible position.
+- `INS-260410-A18B` Claude Desktop ships its own Node.js runtime so extensions never fail on 'user doesn't have Node installed' or version mismatches.
 - `INS-260330-7ED0` M-PESA succeeded because Safaricom's telecom monopoly solved the cold-start problem that fragments US mobile payment competitors.
-- `INS-260409-AE80` The initial 200-person sample is mostly strangers, so follower count gives almost no advantage during the cold-start phase.
-- `INS-260409-8750` Algorithms pick ~200 viewers as a fit-score sample test; that group's engagement is the single most leveraged lever in short-form distribution.
 - `INS-260404-8321` When capital is abundant, VCs who offer distribution and media reach win competitive allocations over those who only offer money.
 - `INS-260403-52B7` Jake Paul's VC portfolio (Ramp, Anduril, Cognition) shows that timing, access, and distribution often outweigh traditional VC pedigree in generating outsized returns.
 - `INS-260402-B12D` Professionals seemed superior to amateurs only because narrow channels ensured high average quality; once anyone can publish, audiences select the best regardless of professional status.
 - `INS-260409-3E53` CERN's BASE team built a portable antimatter trap — not because CERN couldn't do more experiments, but because background magnetic noise at CERN itself capped precision.
+- `INS-260409-AE80` The initial 200-person sample is mostly strangers, so follower count gives almost no advantage during the cold-start phase.
+- `INS-260409-8750` Algorithms pick ~200 viewers as a fit-score sample test; that group's engagement is the single most leveraged lever in short-form distribution.
 - `INS-260405-615E` Platform companies are acquiring agentic workflow capability to embed automation into existing distribution, not to win on model benchmarks.
 - `INS-260403-EDA1` SaaS value is migrating from code to workflow orchestration, compliance, and distribution — categories AI cannot easily replicate.
 - `INS-260405-DFBC` Getting cited by AI engines compounds brand authority faster than traditional SEO because AI models return to sources that performed well before.
@@ -45,6 +47,7 @@
 - `INS-260403-5447` Platform recommendation features can massively accelerate growth but function as an amplifier of existing quality, not a substitute for it.
 - `INS-260403-6341` Products where usage inherently creates exposure to new users achieve the most efficient growth.
 - `INS-260403-014D` Founders who empower aligned influencers to grow their own visibility create reinforcing distribution loops that compound over time.
+- `INS-260323-61CD` The Watts-Strogatz model shows that rewiring just 0.03% of connections to random shortcuts makes any network as navigable as a fully random one.
 - `INS-260321-C902` New AI products follow a predictable distribution ladder: X small communities then AI news pages then Instagram news then creators then Telegram.
 - `INS-260409-B892` AI product distribution is an X-first cascade — small community buzz, news accounts, creator content, then scale.
 - `INS-260328-ACC3` Stripe, Google, and PostHog all appear to be pure self-serve products, but they invest heavily in marketing — no one waits in an ivory tower to be discovered.
@@ -63,17 +66,16 @@
 - `INS-260403-76B7` Find one channel where you can win and double down until diminishing returns before diversifying.
 - `INS-260402-C301` Self-distributing AI features fall into three archetypes: outputs that spread awareness (viral artifacts), features that make users show off usage (status loops), and systems that improve with more data (data flywheels).
 - `INS-260403-AF3B` In a market where capital concentrates in fewer deals, founders who demonstrate distribution and audience ownership before fundraising gain disproportionate investor attention.
-- `INS-260323-61CD` The Watts-Strogatz model shows that rewiring just 0.03% of connections to random shortcuts makes any network as navigable as a fully random one.
 - `INS-260403-E71A` Platform owners like Apple with iTunes function as tollbooths, not stores — they tax transactions rather than sell content, driving content prices to near-zero.
 - `INS-260403-C1E9` Software is too complex and iterative for a publisher-intermediary model that works for music or books.
 - `INS-260405-ABE0` Valve can afford hardware bets others can't because every device plugs into an already-won software distribution war.
 - `INS-260402-B36F` Every AI feature PRD should specify how the feature distributes itself, where it inserts into existing workflows, and whether its economics improve at 10x scale.
-- `INS-260410-111A` Gutenberg went bankrupt because his small German town had only seven legal buyers for 300 Bibles — the press worked, the distribution didn't.
-- `INS-260403-4E7A` Paradigm shifts like AI create rare adoption windows in stagnant industries — whoever wins distribution first locks in for decades.
 - `INS-260329-7B47` Send 100 personalized outreach messages daily using a compliment-plus-positioning formula to guarantee your first five customers through pure volume.
 - `INS-260329-B194` Allen's breakthrough came from selling to agencies (who each had 50+ SMB clients) rather than individual small businesses, turning one pitch into a thousand customers.
 - `INS-260330-2737` Paul's Roman citizenship gave him free travel throughout the empire, allowing him to use Rome's own road network and legal protections to spread a message that would eventually undermine Roman religious authority.
 - `INS-260330-9FCC` In-N-Out's requirement that all ingredients reach stores within a single day's drive from distribution centers caps expansion at ~500 miles per center.
+- `INS-260410-111A` Gutenberg went bankrupt because his small German town had only seven legal buyers for 300 Bibles — the press worked, the distribution didn't.
+- `INS-260403-4E7A` Paradigm shifts like AI create rare adoption windows in stagnant industries — whoever wins distribution first locks in for decades.
 - `INS-260404-1CC0` As building barriers collapse, competitive moats migrate from technical capability to distribution and taste.
 - `INS-260330-BF8F` Web pages as UI were crude compared to desktop apps, but ubiquitous browser access was such a large advantage that quality didn't matter.
 - `INS-260330-1DCF` Financing underlies distribution which underlies product — great product strategy means thinking in this layered order.

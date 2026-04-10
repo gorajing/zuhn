@@ -53,7 +53,6 @@ stance: >-
   invokes during task-solving — rather than requiring a whole new architecture.
 related:
   - INS-260330-3D7B
-  - INS-260330-F7B2
   - INS-260329-9AE9
   - INS-260408-3691
   - INS-260409-2B5F

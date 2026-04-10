@@ -46,6 +46,6 @@ related:
   - INS-260410-F910
   - INS-260328-9C16
   - INS-260405-F26B
-  - INS-260403-E33F
+  - INS-260410-71B9
 ---
 The video demonstrates Claude Code creating a new wiki topic by starting from the RAW folder content and then performing fresh web searches to fill gaps. This is the right composition: the vault encodes what the human has already decided matters (the curation signal), and live web search covers the long tail the human hasn't seen yet. A KB-only agent is blind to recent developments; a web-only agent ignores the human's hard-won prioritization. The two together give the agent both memory and reach.

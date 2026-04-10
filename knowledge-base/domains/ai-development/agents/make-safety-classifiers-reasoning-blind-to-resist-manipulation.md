@@ -48,10 +48,10 @@ stance: >-
   rationalize its way past the guardrail.
 related:
   - INS-260409-04C8
+  - INS-260410-095B
   - INS-260403-BA81
   - INS-260405-F26B
   - INS-260327-35C7
-  - INS-260327-13B3
 ---
 Anthropic's transcript classifier deliberately sees only user messages and bare tool-call commands — no assistant prose, no tool results. Including assistant messages caused measurable drops on their overeagerness test set, because the agent's own framing ("this is safe because the user implicitly approved it earlier") leaks into the classifier's judgment. Shorter transcripts are also easier to read accurately.
 

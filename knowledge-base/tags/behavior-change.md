@@ -19,7 +19,7 @@
 - `INS-260329-D3F6` Stop-doing lists require less activation energy than start-doing lists, making them more effective for rapid change.
 - `INS-260329-CA4F` Avoidance-framed habits stick better than aspiration-framed habits because they tap into evolutionarily older threat-detection circuits.
 - `INS-260329-3ED9` Poor people flip the gratification equation: pleasure now, pain later — then are surprised when 'later' arrives as today.
+- `INS-260323-8848` People stay in situations they hate because familiarity feels safer than the unknown — real change comes from tiny daily actions (15 min/day) that slowly expand comfort zones without triggering nervous system rebellion.
 - `INS-260329-6253` Start new habits when you're busiest — if they survive peak load, they'll persist; habits formed during slack time break the moment pressure returns.
 - `INS-260405-3066` Apple framed wallet replacement not as a convenience upgrade but as a security and privacy improvement — a more compelling reason to change entrenched behavior.
-- `INS-260323-8848` People stay in situations they hate because familiarity feels safer than the unknown — real change comes from tiny daily actions (15 min/day) that slowly expand comfort zones without triggering nervous system rebellion.
 - `INS-260329-34A9` Ramsey's 'personal finance is 80% behavior, 20% head knowledge' insight means education businesses must solve for accountability and behavior change, not just information delivery.

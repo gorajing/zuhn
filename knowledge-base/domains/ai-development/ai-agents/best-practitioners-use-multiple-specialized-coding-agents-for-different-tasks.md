@@ -46,7 +46,6 @@ stance: >-
   single general-purpose agent, and this multi-agent workflow will continue
   evolving rapidly.
 related:
-  - INS-260321-D3BE
   - INS-260325-031F
   - INS-260325-2DCD
   - INS-260327-A9D5
@@ -56,6 +55,7 @@ related:
   - INS-260405-AFF7
   - INS-260410-9EA8
   - INS-260410-1030
+  - INS-260410-53C2
 evidence:
   - id: INS-260327-1FA1
     type: SUPPORTS

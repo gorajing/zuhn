@@ -58,7 +58,6 @@ related:
   - INS-260404-0BED
   - INS-260330-F5CF
   - INS-260404-C663
-  - INS-260410-E73E
 evidence:
   - id: INS-260330-E5DC
     type: SUPPORTS

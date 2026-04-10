@@ -55,9 +55,9 @@ related:
   - PRI-260320-D5B7
   - PRI-260320-BC72
   - INS-260327-B9AD
-  - INS-260327-13B3
   - INS-260327-63B5
   - INS-260327-D020
+  - INS-260327-FE24
 ---
 Traditional APIs assume deterministic callers with abundant memory who can iterate through large result sets. Agents have limited context and limited ability to process irrelevant data token-by-token, so a list_contacts tool wastes context while search_contacts matches how agents actually work.
 

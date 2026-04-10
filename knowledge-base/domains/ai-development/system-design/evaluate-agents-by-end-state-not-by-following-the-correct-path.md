@@ -60,7 +60,8 @@ related:
   - INS-260410-3601
   - INS-260410-AF66
   - PRI-260328-F723
-  - PRI-260406-3EF8
+  - INS-260410-E658
+  - INS-260410-566F
 ---
 Traditional test suites assume a correct path: given input X, follow steps Y, produce Z. Multi-agent systems break this — one agent may search three sources, another ten, reaching the same answer via different tools. Step-by-step validation is therefore the wrong abstraction; outcome validation is the right one.
 

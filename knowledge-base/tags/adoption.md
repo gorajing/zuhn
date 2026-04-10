@@ -4,6 +4,7 @@
 - `INS-260410-9CF4` Just as Lean transformed factories by rewiring end-to-end processes, AI in knowledge work requires management teams to redesign workflows — the hard bottleneck is organizational, not technical.
 - `INS-260322-3263` ChatGPT has 900M weekly active users but only 10-15% use it daily — 5x more people know how to use AI than can think of something to do with it, revealing a product-market fit gap not a technology gap.
 - `INS-260410-797C` Slow enterprise AI adoption is revealing capability shortfalls, not normal technology-diffusion lag.
+- `INS-260410-953E` MCP servers remained inaccessible not because they lacked power, but because installation required Node.js, manual JSON config editing, and dependency resolution.
 - `INS-260409-D012` Proficiency takes ~20 hours; people delay the first hour for decades because the cost of starting is visible and the cost of not starting is invisible.
 - `INS-260405-A992` Embed AI agents where people already communicate rather than asking them to adopt new interfaces.
 - `INS-260325-7FAF` The agentic inflection point comes from model capability AND inference ease-of-use converging simultaneously.

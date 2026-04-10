@@ -57,10 +57,10 @@ related:
   - INS-260330-D5CD
   - INS-260330-B437
   - INS-260330-81A7
-  - INS-260405-8B05
   - INS-260403-7825
   - PRI-260406-3EF8
   - INS-260410-8767
   - INS-260404-07C3
+  - INS-260409-B122
 ---
 The U.S. spends roughly $1 trillion annually on healthcare administration (3.5x Canada's per-capita rate), funding a massive translation workforce that converts clinical language into billing codes across 70,000+ diagnosis codes and 10,000+ procedure codes. This exists because each insurer maintains its own rules, contracts, and approval processes. The 81.7% overturn rate on prior authorization denials suggests much of this administrative machinery functions as friction rather than quality control. For investors, industries with large human workforces performing translation between incompatible systems are the clearest AI automation targets — the work is structured enough for AI to handle, the costs are enormous, and incumbents cannot eliminate the work without solving the underlying interoperability problem they have failed to solve for decades.

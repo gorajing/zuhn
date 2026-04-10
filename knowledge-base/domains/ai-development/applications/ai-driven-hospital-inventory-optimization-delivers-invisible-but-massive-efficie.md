@@ -48,10 +48,10 @@ stance: >-
   improve
 related:
   - INS-260405-35DF
+  - INS-260410-ED34
   - INS-260330-3E3C
   - INS-260403-88DA
   - INS-260403-86BF
-  - INS-260403-13AF
 evidence:
   - id: INS-260330-3E3C
     type: SUPPORTS

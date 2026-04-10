@@ -1,9 +1,12 @@
 # Topic: research-methodology
 
-> 23 insights
+> 28 insights
 
+- `INS-260410-5951` [high] On Terminal-Bench 2.0, the same Claude model scored 6 points higher with uncapped resources than with strictly enforced per-task specs (p<0.01), exceeding the margins that typically separate frontier models on leaderboards.
+- `INS-260410-F167` [high] Unlike static benchmarks that score a model's output directly, agentic evals give the model a full runtime environment — so CPU, RAM, time limits, API latency, cluster health, and even egress bandwidth all become part of what gets measured.
 - `INS-260410-5740` [high] AI has driven the cost of idea generation to near-zero, making verification and evaluation the new bottleneck in science.
 - `INS-260409-004E` [high] Douglas's enzyme-trained phylogenetic model successfully detected evolutionary bursts in 13 biological systems plus Indo-European languages, demonstrating that branching-system mathematics is substrate-agnostic.
+- `INS-260410-303B` [high] Setting container guarantee and hard limit to the same value creates zero headroom for transient memory spikes, silently OOM-killing tasks that would otherwise succeed — so evals should specify both parameters separately.
 - `INS-260410-5036` [high] Real deep-learning development is Jupyter-notebook shape debugging plus empirical verification of flaky framework docs, not the clean math suggested by papers and tutorials.
 - `INS-260410-AC0B` [high] DeepSeek's research taste is visible in how iteratively and transparently they trade off hardware constraints (memory bandwidth vs. flops) for algorithmic structure, producing simple solutions rather than ornamented ones.
 - `INS-260408-F58E` [high] Isomorphic's pipeline screens binding + cross-target toxicity in silico, then only validates the final candidates in the wet lab.
@@ -14,10 +17,12 @@
 - `INS-260410-0923` [high] When your experiments contradict you, top-down belief based on beauty, simplicity, and brain-inspired correctness is what tells you to keep debugging instead of abandoning the direction.
 - `INS-260409-C3F7` [high] Building a cell-type atlas of the avian pallium and comparing it to mammalian equivalents settled a 60-year debate about whether bird and mammal intelligence share common neural origins — a pattern other biology debates should emulate.
 - `INS-260409-5E40` [high] Solving open-but-neglected problems is less impressive than it sounds: the problems are tractable, just understaffed.
+- `INS-260410-9D04` [high] BrowseComp answers leaked through 20+ distinct sources, and the act of running agents on them permanently caches query trails — the benchmark degrades every time it's used.
 - `INS-260410-DD35` [high] From 2012-2020 was research, 2020-2025 was scaling, and now we're back to research with big computers because 100x more scale would not transform outcomes.
 - `INS-260408-C572` [high] Foundation models are world models without the search/reasoning layer AlphaZero had; combining them is the next breakthrough, not bigger pretraining.
 - `INS-260410-10C9` [high] Google Brain's bottom-up 'one credit per researcher, pool them as you like' chip allocation rewarded dropping failed ideas; Gemini's top-down allocation leads every group to report 'my thing is working, give me more chips.'
 
+- `INS-260410-D03C` [high] Benchmark scores increasingly drive deployment decisions, but the rigor applied to running and reporting them hasn't caught up — making resource configuration a first-class variable is the minimum bar for trustworthy agentic evals.
 - `INS-260405-F72B` [medium] LLM grokking, like penicillin, was discovered by accident—and this accidental-discovery pattern is more characteristic of deep learning progress than theory-driven research.
 - `INS-260410-3075` [medium] A concrete scenario forces you to confront implementation details and surface crux disagreements that vague probability estimates let you skate past.
 - `INS-260410-EF9E` [medium] Expecting a connectome to explain cognition is like expecting trained LLM weights to — what you need is the architecture, learning rule, and loss function.

@@ -1,6 +1,6 @@
 # Topic: system-building
 
-> 212 insights
+> 214 insights
 
 - `INS-260329-4F8C` [high] Abstract data types define behavior contracts while data structures provide specific implementations, and this separation is the root of all software modularity.
 - `INS-260329-A93C` [high] Naming a block of code and hiding its implementation is the fundamental act that makes software complexity manageable.
@@ -23,6 +23,7 @@
 - `INS-260402-7A1A` [high] Probabilities have clear semantics for combining evidence; arbitrary scores do not, making probabilistic systems more principled and debuggable.
 - `INS-260320-76D2` [high] Use BetterTouchTool for double-tap hotkeys (CMD+CMD = Claude, OPT+OPT = Browser) and relative URL copy from Cursor.
 - `INS-260327-FF4D` [high] Biology builds elephants at room temperature from grass and water with zero waste - human manufacturing can't come close to this efficiency.
+- `INS-260410-A18B` [high] Claude Desktop ships its own Node.js runtime so extensions never fail on 'user doesn't have Node installed' or version mismatches.
 - `INS-260329-6A60` [high] Python is AI's interface language, but C++ is its execution language — the performance-critical layer underneath every major framework.
 - `INS-260329-B408` [high] The course author's core claim from experience at Google is that excellent programmers are distinguished primarily by knowing when to use which data structure, not by raw coding speed or algorithm knowledge.
 - `INS-260330-43E3` [high] Closures preserve outer scope variables on the heap after function return, providing encapsulation without class machinery but requiring awareness of memory implications.
@@ -132,6 +133,7 @@
 - `INS-260329-1075` [high] Family metaphors (parent, child, sibling) for nested structures leverage existing human intuition about relational hierarchies.
 - `INS-260329-3EB6` [high] AWS Lambda's auto-scaling model means you never under-provision, but the operational discipline shifts from capacity planning to cost monitoring and function optimization.
 - `INS-260329-3383` [high] AWS's shared responsibility model — where AWS secures infrastructure 'of' the cloud and customers secure everything 'in' the cloud — is a transferable framework for any platform-builder relationship.
+- `INS-260410-264E` [high] If your corpus is under ~500 pages, just put the whole thing in the prompt and cache it — no RAG infrastructure required.
 - `INS-260329-C7B8` [high] Smart order routers evaluate multiple exchanges in real-time based on liquidity, latency, fill probability, and rebate structures.
 - `INS-260320-4B31` [high] We spent hours designing a detailed spec before writing any code — the spec caught issues before they became bugs and zero scope creep occurred across 5 phases.
 - `INS-260329-3423` [high] Database constraints (NOT NULL, UNIQUE, DEFAULT, FOREIGN KEY, ON DELETE) catch entire categories of data integrity bugs at the storage layer before application code ever runs.

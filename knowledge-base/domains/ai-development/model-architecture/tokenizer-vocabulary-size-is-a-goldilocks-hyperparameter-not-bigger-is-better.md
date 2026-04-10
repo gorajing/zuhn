@@ -60,6 +60,7 @@ related:
   - PRI-260406-8B75
   - PRI-260407-7FB7
   - INS-260410-78D3
+  - INS-260410-264E
 ---
 GPT-4 roughly doubled GPT-2's vocabulary (~50K → ~100K tokens) and the same text now fits in roughly half the tokens, letting the model attend to twice as much context. But Karpathy is explicit: this doesn't keep paying off forever. As vocab grows, the embedding table grows linearly, the final softmax projection grows linearly, and each individual token gets seen less often during training, weakening its learned representation.
 

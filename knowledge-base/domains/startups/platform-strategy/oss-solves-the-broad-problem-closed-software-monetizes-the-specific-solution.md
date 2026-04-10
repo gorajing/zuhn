@@ -47,7 +47,7 @@ related:
   - PRI-260328-5464
   - PRI-260328-FD47
   - INS-260330-2306
+  - INS-260410-4F43
   - INS-260327-A653
-  - INS-260330-0BBA
 ---
 There is a natural division of labor in software: OSS excels at solving hard, broadly-applicable problems where many contributors benefit from a shared solution. Closed software excels at taking those general solutions and packaging, supporting, and tailoring them for particular enterprise or consumer use cases. This creates a clear strategic template for founders: identify where an OSS foundation is mature enough to build on, then compete at the specificity layer — the integration, support, compliance, UX, and domain customization that OSS cannot economically provide. Companies that try to rebuild what OSS already solved waste resources; companies that try to open-source what should be their proprietary moat commoditize themselves.

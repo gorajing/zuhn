@@ -57,7 +57,6 @@ related:
   - INS-260330-594E
   - PRI-260325-5760
   - INS-260403-280B
-  - INS-260330-2294
   - INS-260330-B65B
 evidence:
   - id: INS-260330-B65B

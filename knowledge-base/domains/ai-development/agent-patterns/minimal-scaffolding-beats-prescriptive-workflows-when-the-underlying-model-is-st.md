@@ -55,10 +55,10 @@ stance: >-
   heavy hardcoded workflows throw away the model's judgment.
 related:
   - INS-260410-38C8
+  - INS-260410-85AD
   - INS-260327-7F56
   - INS-260320-9D89
   - INS-260403-9B5D
-  - INS-260323-4B4D
 ---
 For the Claude 3.5 Sonnet SWE-bench agent, Anthropic's design philosophy was to give as much control as possible to the language model and keep the scaffolding minimal. The agent had a single prompt, a Bash tool, and a str_replace editor tool, and sampled until the model itself decided it was done or hit the 200k context limit. The prompt suggested an approach but did not enforce strict state transitions.
 

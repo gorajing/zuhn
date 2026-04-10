@@ -41,10 +41,10 @@ related:
   - PRI-260407-D1AD
   - INS-260403-0DE8
   - INS-260321-D370
-  - INS-260325-2DCD
   - INS-260325-252D
   - INS-260321-E2FC
   - INS-260329-20F8
+  - INS-260330-D7CC
 stance: >-
   When agents fail, the instinct now is 'I gave bad instructions' not 'the AI
   can't do this'

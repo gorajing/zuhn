@@ -55,11 +55,11 @@ stance: >-
   model release because each component encodes an assumption about model
   limitations that may no longer hold.
 related:
+  - INS-260410-B0D6
   - INS-260403-EAFC
   - INS-260403-A27F
   - INS-260403-BB23
   - INS-260403-0701
-  - INS-260403-0803
 ---
 The 'find the simplest solution possible, only increase complexity when needed' principle from Anthropic's Building Effective Agents post applies repeatedly across the lifetime of a harness. Each scaffold component — sprint decomposition, planner, evaluator, context resets — exists because the model couldn't handle something on its own at the time of design. Models improve, those assumptions go stale, and complexity that was load-bearing becomes pure overhead.
 

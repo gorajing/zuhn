@@ -1,6 +1,6 @@
 # Topic: claude-code
 
-> 43 insights
+> 44 insights
 
 - `INS-260321-82FE` [very_high] Effective prompting is no longer about linguistic tricks — it's about providing the right structure: role, background, format, constraints. Description of what the output should BE matters more than instructions for what the model should DO.
 - `INS-260410-D034` [high] If you've corrected Claude twice on the same issue, stop correcting — /clear and restart with a prompt that incorporates what you learned.
@@ -44,4 +44,5 @@
 - `INS-260320-04A2` [high] Create three dev doc files (plan.md, context.md, tasks.md) for every large task to prevent Claude from losing the plot through compaction.
 - `INS-260320-0127` [high] Update dev docs regularly by running /update-dev-docs before context compaction to preserve current state.
 - `INS-260320-DCA0` [high] A UserPromptSubmit hook analyzes the prompt for keywords and intent, then injects skill reminders into context BEFORE Claude reads it.
+- `INS-260410-B118` [medium] Anthropic recommends a prompt template that explicitly instructs Claude Code to read three spec URLs (README, MANIFEST, examples) before writing extension code.
 - `INS-260329-4D03` [medium] Python OOP concepts like classes and inheritance map directly to how AI agents manage state and tool interfaces.
