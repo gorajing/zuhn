@@ -97,13 +97,47 @@ export async function writeInsights(
     existingTopics.add(dir);
   }
 
+  // Collect existing insight IDs across the KB so we can detect hash-suffix
+  // collisions before writing. The ID suffix is sha256(title:salt).slice(-4),
+  // so only 65,536 values exist per day — a daily batch of ~350 insights has
+  // ~58% birthday-paradox collision probability. We retry with a bumped salt
+  // when a collision is detected.
+  const existingIds = new Set<string>();
+  const existingInsightFiles = await fg("domains/**/*.md", {
+    cwd: kbRoot,
+    absolute: true,
+    ignore: ["**/_index.md"],
+  });
+  for (const filePath of existingInsightFiles) {
+    try {
+      const raw = await readFile(filePath, "utf-8");
+      const { data } = matter(raw);
+      if (typeof data.id === "string") existingIds.add(data.id);
+    } catch {
+      // Unreadable files are the health check's problem, not ours.
+    }
+  }
+
+  const MAX_COLLISION_RETRIES = 10;
+
   // 2. Write each insight
   for (let index = 0; index < input.insights.length; index++) {
     const insight = input.insights[index];
 
     try {
-      const salt = `${sourceId}-${Date.now()}-${index}`;
-      const id = generateInsightId(insight.title, salt);
+      const baseSalt = `${sourceId}-${Date.now()}-${index}`;
+      let id = generateInsightId(insight.title, baseSalt);
+      let retry = 0;
+      while (existingIds.has(id) && retry < MAX_COLLISION_RETRIES) {
+        retry++;
+        id = generateInsightId(insight.title, `${baseSalt}:retry-${retry}`);
+      }
+      if (existingIds.has(id)) {
+        throw new Error(
+          `Failed to generate unique insight ID for "${insight.title}" after ${MAX_COLLISION_RETRIES} retries — today's suffix space may be unusually saturated`,
+        );
+      }
+      existingIds.add(id);
       let slug = slugify(insight.title);
 
       const topicDir = join(kbRoot, "domains", insight.domain, insight.topic);

@@ -1,9 +1,10 @@
-import { describe, it, expect, beforeEach, afterEach } from "vitest";
+import { describe, it, expect, beforeEach, afterEach, vi } from "vitest";
 import { mkdtemp, rm, mkdir, writeFile, readFile } from "node:fs/promises";
 import { join } from "node:path";
 import { tmpdir } from "node:os";
 import matter from "gray-matter";
 import { writeInsights } from "./write-insights";
+import { generateInsightId } from "../generate-id";
 import { InsightFrontmatter } from "../../schemas/frontmatter";
 import type { ExtractionInputData } from "../../schemas/extraction";
 
@@ -284,6 +285,66 @@ describe("writeInsights", () => {
     expect(result.created).toBe(0);
     expect(result.errors).toHaveLength(1);
     expect(result.errors[0]).toContain("Source file not found");
+  });
+
+  it("retries with bumped salt when generated ID collides with an existing KB insight", async () => {
+    await createMockSource();
+
+    // Fix time so we can deterministically predict the first-try ID the loop
+    // would produce. Only fake Date — faking setTimeout/setImmediate would hang
+    // the fast-glob / readFile async work that runs inside writeInsights.
+    vi.useFakeTimers({ toFake: ["Date"] });
+    vi.setSystemTime(new Date("2026-04-09T12:00:00Z"));
+
+    try {
+      const input = sampleInput();
+      const title = input.insights[0].title;
+
+      // The implementation builds the salt as `${sourceId}-${Date.now()}-${index}`
+      const firstAttemptSalt = `${SOURCE_ID}-${Date.now()}-0`;
+      const collidingId = generateInsightId(title, firstAttemptSalt);
+
+      // Seed an unrelated file in a DIFFERENT domain/topic with this exact ID.
+      // The new insight's slug/path won't collide — only the ID would, at the
+      // sha256-suffix level. Pre-fix, writeInsights would silently produce a
+      // duplicate ID (caught only later by health). Post-fix, it should retry.
+      const collisionDir = join(tempDir, "domains", "health", "biohacking");
+      await mkdir(collisionDir, { recursive: true });
+      const collisionMd = matter.stringify("Pre-existing unrelated content.", {
+        id: collidingId,
+        domain: "health",
+        topic: "biohacking",
+        title: "Unrelated insight that happens to collide on hash suffix",
+      });
+      await writeFile(
+        join(collisionDir, "unrelated-colliding-insight.md"),
+        collisionMd,
+        "utf-8",
+      );
+
+      const result = await writeInsights(input, SOURCE_ID, tempDir);
+
+      expect(result.created).toBe(1);
+      expect(result.errors).toHaveLength(0);
+
+      // The new file must have a DIFFERENT id than the seeded collision,
+      // and it must still be a well-formed INS-YYMMDD-XXXX id.
+      const createdRaw = await readFile(result.files[0], "utf-8");
+      const { data: createdData } = matter(createdRaw);
+      expect(createdData.id).not.toBe(collidingId);
+      expect(createdData.id).toMatch(/^INS-\d{6}-[0-9A-F]{4}$/);
+
+      // And the seeded file must still be intact (we didn't overwrite it).
+      const collisionRaw = await readFile(
+        join(collisionDir, "unrelated-colliding-insight.md"),
+        "utf-8",
+      );
+      const { data: collisionData, content: collisionContent } = matter(collisionRaw);
+      expect(collisionData.id).toBe(collidingId);
+      expect(collisionContent.trim()).toBe("Pre-existing unrelated content.");
+    } finally {
+      vi.useRealTimers();
+    }
   });
 
   it("generates unique IDs for each insight", async () => {
