@@ -187,19 +187,23 @@ async function main(): Promise<void> {
     console.warn("\nViews step failed (non-fatal) — views not updated.");
   }
 
-  // Step 6: Autoknowledge (self-improving extraction loop)
-  const akResult = runStep("Autoknowledge", [
-    "npx", "tsx", join(PROJECT_ROOT, "scripts", "autoknowledge.ts"), "--limit", "5",
-  ]);
-
-  if (akResult.ok) {
-    results.push({ step: "autoknowledge", status: "OK" });
-  } else {
-    results.push({ step: "autoknowledge", status: "SKIPPED" });
-    console.warn("\nAutoknowledge failed (non-fatal) — refinements not updated.");
-  }
-
-  // Step 7: Auto-git
+  // Step 6: Auto-git
+  //
+  // NOTE: an earlier version of this pipeline called autoknowledge.ts
+  // --limit 5 here, turning post-ingest into a hybrid "rebuild derived
+  // state + opportunistically extract more sources" command. That was
+  // removed because:
+  //
+  //   1. It made post-ingest impure — calling `npm run post-ingest`
+  //      silently mutated the unextracted backlog.
+  //   2. It created a cyclic control-plane dependency: autoknowledge's
+  //      final post-ingest call spawned post-ingest which spawned
+  //      autoknowledge again, only avoided by lock-file coincidence.
+  //   3. It blurred the boundary between "checkpoint existing work"
+  //      and "do more work."
+  //
+  // post-ingest is now a pure derived-state rebuild + commit pipeline.
+  // Extraction is owned exclusively by scripts/autoknowledge.ts.
   let gitStatus = "SKIPPED";
   console.log("\n>> Auto-git");
   try {
