@@ -19,7 +19,7 @@
 
 import { execFileSync } from "node:child_process";
 import { join, basename } from "node:path";
-import { readFile, writeFile, access } from "node:fs/promises";
+import { readFile, writeFile, mkdir, access } from "node:fs/promises";
 import { ingestYouTube } from "./lib/ingest/youtube";
 import { slugify } from "./lib/ingest/slug";
 
@@ -422,6 +422,13 @@ async function main(): Promise<void> {
   // runs. At scale the two-step workflow (ingest, then autoknowledge
   // directly) is more durable — crash recovery is clearer, checkpoints are
   // explicit, no single wrapper process holds the whole job hostage.
+  //
+  // Note on scope: since the fix in this file, --auto-extract scopes
+  // extraction to just the newly ingested cohort via an auto-generated
+  // batch manifest, so it is safer than it used to be. But the two-step
+  // pattern is still preferred for large batches because it gives the
+  // user explicit control over the extraction phase, including the
+  // ability to inspect the manifest before processing starts.
   if (autoExtract && toIngest.length >= LARGE_BATCH_THRESHOLD) {
     console.log("");
     console.log(
@@ -438,7 +445,19 @@ async function main(): Promise<void> {
       `     1. Run ingest-channel WITHOUT --auto-extract to create sources`,
     );
     console.log(
-      `     2. Then run: npx tsx scripts/autoknowledge.ts --channel "<name>"`,
+      `     2. Then run one of:`,
+    );
+    console.log(
+      `          npx tsx scripts/autoknowledge.ts --channel "<name>"`,
+    );
+    console.log(
+      `        (YouTube cohorts only — uses the channel frontmatter field)`,
+    );
+    console.log(
+      `          npx tsx scripts/autoknowledge.ts --batch <manifest-file>`,
+    );
+    console.log(
+      `        (general purpose — works across blog, YouTube, PDF, audio)`,
     );
     console.log("");
     console.log(
@@ -529,21 +548,93 @@ async function main(): Promise<void> {
   }
 
   if (ingested > 0 && autoExtract) {
-    console.log("");
-    console.log("Running autoknowledge to extract insights...");
-    try {
-      // Do not impose a harness-level wall-clock timeout here.
-      // autoknowledge.ts already has per-source extraction timeouts,
-      // periodic post-ingest checkpoints, and a lock file. A fixed
-      // outer timeout kills valid large batches (for example 50-source
-      // channel runs) before the child process can finish naturally.
-      execFileSync("npx", ["tsx", "scripts/autoknowledge.ts"], {
-        stdio: "inherit",
-        cwd: join(__dirname, ".."),
-      });
-    } catch (err: unknown) {
-      const msg = err instanceof Error ? err.message : String(err);
-      console.error(`Autoknowledge failed: ${msg}`);
+    // Collect source IDs newly INGESTED in THIS run, so the autoknowledge
+    // call scopes extraction to just this channel's cohort rather than
+    // sweeping the global unextracted backlog.
+    //
+    // Filter semantics:
+    //   - start from toIngest (attempted in this run)
+    //   - only include rows that ended with status === "INGESTED"
+    //   - only include rows that have a sourceId (INGESTED without one
+    //     indicates an ingest completed but the tracker line was never
+    //     updated, which is a bug elsewhere — skip defensively)
+    //
+    // This excludes:
+    //   - pre-existing INGESTED rows from previous --resume runs
+    //   - FAILED rows from this run
+    //   - SKIP rows (e.g., playlists, unsupported formats)
+    const newlyIngestedIds = toIngest
+      .map((entry) => lines.find((l) => l.videoId === entry.videoId))
+      .filter((line): line is TrackerLine =>
+        line !== undefined &&
+        line.status === "INGESTED" &&
+        typeof line.sourceId === "string" &&
+        line.sourceId.length > 0,
+      )
+      .map((line) => line.sourceId as string);
+
+    if (newlyIngestedIds.length === 0) {
+      console.log("");
+      console.log(
+        "Nothing to extract — no sources were newly INGESTED this run.",
+      );
+    } else {
+      // Generate a batch manifest under knowledge-base/meta/batches/ and
+      // pass it to autoknowledge via --batch. This is the first production
+      // user of the --batch flag (introduced in commit a89d9bf851) and
+      // closes the control-plane hole where --auto-extract was silently
+      // processing the global unextracted backlog instead of just the
+      // channel we ingested.
+      //
+      // Naming: <tracker-basename>-<YYYY-MM-DD>.txt. Tracker basenames
+      // already encode the channel slug (e.g., "dwarkeshpatel-batch"),
+      // so this produces readable and sortable manifest filenames.
+      const trackerBasename = basename(trackerPath).replace(/\.txt$/, "");
+      const manifestDate = new Date().toISOString().slice(0, 10);
+      const batchesDir = join(META_DIR, "batches");
+      await mkdir(batchesDir, { recursive: true });
+      const manifestPath = join(
+        batchesDir,
+        `${trackerBasename}-${manifestDate}.txt`,
+      );
+
+      const manifestLines = [
+        `# Auto-generated batch manifest from ingest-channel.ts`,
+        `# Tracker: ${basename(trackerPath)}`,
+        `# Channel URL: ${channelUrl ?? "(resume mode — see tracker header)"}`,
+        `# Generated: ${new Date().toISOString()}`,
+        `# Source count: ${newlyIngestedIds.length}`,
+        ``,
+        ...newlyIngestedIds,
+      ];
+      await writeFile(manifestPath, manifestLines.join("\n") + "\n", "utf-8");
+
+      console.log("");
+      console.log(
+        `Batch manifest: ${manifestPath} (${newlyIngestedIds.length} sources)`,
+      );
+      console.log("Running autoknowledge to extract insights...");
+
+      try {
+        // No harness-level wall-clock timeout here. autoknowledge.ts has
+        // per-source extraction timeouts, periodic post-ingest checkpoints,
+        // and a lock file. A fixed outer timeout was previously killing
+        // valid large batches before they could finish naturally (removed
+        // in commit dc0f72a91). Scope is now explicit via --batch, so a
+        // long-running extraction only processes the cohort we just
+        // ingested — never the global backlog.
+        execFileSync(
+          "npx",
+          ["tsx", "scripts/autoknowledge.ts", "--batch", manifestPath],
+          {
+            stdio: "inherit",
+            cwd: join(__dirname, ".."),
+          },
+        );
+      } catch (err: unknown) {
+        const msg = err instanceof Error ? err.message : String(err);
+        console.error(`Autoknowledge failed: ${msg}`);
+      }
     }
   } else if (ingested > 0) {
     console.log("");
