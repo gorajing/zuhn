@@ -44,7 +44,10 @@ interface VideoEntry {
   uploadDate: string;
 }
 
-type TrackerStatus = "PENDING" | "INGESTED" | "EXTRACTED" | "SKIP" | "FAILED";
+// Ingest tracker statuses. "EXTRACTED" is still accepted when reading old
+// tracker files, but the tracker is now explicitly ingest-only and will rewrite
+// legacy EXTRACTED rows back out as INGESTED.
+type TrackerStatus = "PENDING" | "INGESTED" | "SKIP" | "FAILED";
 
 interface TrackerLine {
   status: TrackerStatus;
@@ -218,7 +221,8 @@ function parseTrackerLine(raw: string): TrackerLine | null {
   const parts = raw.split(" | ");
   if (parts.length < 4) return null;
 
-  const status = parts[0].trim() as TrackerStatus;
+  const rawStatus = parts[0].trim();
+  const status = (rawStatus === "EXTRACTED" ? "INGESTED" : rawStatus) as TrackerStatus;
   const videoId = parts[1].trim();
   const views = parseInt(parts[2].trim(), 10);
   const title = parts[3].trim();
@@ -329,6 +333,16 @@ async function main(): Promise<void> {
     // Sort by views descending, take top N
     videos.sort((a, b) => b.viewCount - a.viewCount);
     const selected = videos.slice(0, top);
+    const viewsUnavailable = selected.length > 0 && selected.every((v) => v.viewCount === 0);
+    const selectionLabel = viewsUnavailable
+      ? `Selected ${selected.length} in yt-dlp default order (views unavailable)`
+      : `Selected top ${selected.length} by views`;
+    const trackerTitle = viewsUnavailable
+      ? `# ${channelName} — ${selected.length} Videos (yt-dlp Default Order, Views Unavailable) (Batch Ingest Tracker)`
+      : `# ${channelName} — Top ${selected.length} Videos by Views (Batch Ingest Tracker)`;
+    const viewRangeLabel = viewsUnavailable
+      ? "View range unavailable (yt-dlp returned zeroed counts)"
+      : `View range: ${selected[0].viewCount.toLocaleString()} — ${selected[selected.length - 1].viewCount.toLocaleString()}`;
 
     const channelName = extractChannelName(channelUrl!);
     const channelSlug = slugify(channelName);
@@ -350,9 +364,9 @@ async function main(): Promise<void> {
     }
 
     header = [
-      `# ${channelName} — Top ${selected.length} Videos by Views (Batch Ingest Tracker)`,
+      trackerTitle,
       `# Format: STATUS | VIDEO_ID | VIEWS | TITLE [| SRC_ID]`,
-      `# STATUS: PENDING / INGESTED / EXTRACTED / SKIP / FAILED`,
+      `# STATUS: PENDING / INGESTED / SKIP / FAILED`,
       `# Generated: ${new Date().toISOString().slice(0, 10)}`,
       `# Source: ${channelUrl}`,
     ];
@@ -372,13 +386,11 @@ async function main(): Promise<void> {
     // Print summary
     console.log(`Channel: ${channelName}`);
     console.log(`Total videos found: ${videos.length}`);
-    console.log(`Selected top ${selected.length} by views`);
-    console.log(`View range: ${selected[0].viewCount.toLocaleString()} — ${selected[selected.length - 1].viewCount.toLocaleString()}`);
+    console.log(selectionLabel);
+    console.log(viewRangeLabel);
 
     const pending = lines.filter((l) => l.status === "PENDING");
-    const alreadyDone = lines.filter(
-      (l) => l.status === "INGESTED" || l.status === "EXTRACTED",
-    );
+    const alreadyDone = lines.filter((l) => l.status === "INGESTED");
     console.log(
       `Status: ${pending.length} pending, ${alreadyDone.length} already done`,
     );
@@ -394,13 +406,11 @@ async function main(): Promise<void> {
       const flag =
         line.status === "PENDING"
           ? "  "
-          : line.status === "EXTRACTED"
-            ? "OK"
-            : line.status === "INGESTED"
-              ? "IN"
-              : line.status === "SKIP"
-                ? "SK"
-                : "!!";
+          : line.status === "INGESTED"
+            ? "IN"
+            : line.status === "SKIP"
+              ? "SK"
+              : "!!";
       console.log(
         `  [${flag}] ${line.videoId} | ${line.views.toLocaleString().padStart(10)} views | ${line.title}`,
       );
@@ -520,9 +530,7 @@ async function main(): Promise<void> {
 
   // ─── Summary ───────────────────────────────────────────────────────
   const elapsed = Math.round((Date.now() - startTime) / 1000);
-  const totalDone = lines.filter(
-    (l) => l.status === "INGESTED" || l.status === "EXTRACTED",
-  ).length;
+  const totalDone = lines.filter((l) => l.status === "INGESTED").length;
 
   console.log("");
   console.log("╔══════════════════════════════════════╗");

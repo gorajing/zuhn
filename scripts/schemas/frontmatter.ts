@@ -86,7 +86,7 @@ export const SourceFrontmatter = z.object({
   views: z.number().optional(),
   upload_date: z.string().optional(),
   chapters: z.number().optional(),
-  transcript_type: z.enum(["auto", "manual"]).optional(),
+  transcript_type: z.enum(["auto", "manual", "whisper"]).optional(),
   // Blog-specific
   site_name: z.string().optional(),
   publish_date: z.string().optional(),
