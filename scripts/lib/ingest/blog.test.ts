@@ -134,4 +134,124 @@ describe("extractArticle", () => {
     expect(result!.metadata.author).toBe("Gwern");
     expect(result!.metadata.siteName).toBe("Gwern Branwen");
   });
+
+  // Regression tests for graph node selection. Many sites open their
+  // @graph with WebSite, Organization, BreadcrumbList, or WebPage nodes
+  // BEFORE the actual Article node. Picking "the first object" would
+  // grab site-level metadata instead of article-level metadata. The
+  // selector now prefers article-like @types explicitly.
+
+  it("picks the Article node from a @graph that starts with WebSite", () => {
+    const html = jsonLdHtml({
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebSite",
+          url: "https://techblog.com",
+          name: "TechBlog Homepage",
+          publisher: { name: "Wrong Publisher Corp" },
+        },
+        {
+          "@type": "Organization",
+          name: "Wrong Org",
+        },
+        {
+          "@type": "BlogPosting",
+          headline: "Right Article",
+          author: { name: "Right Author" },
+          publisher: { name: "Right Publisher" },
+        },
+      ],
+    });
+    const result = extractArticle(html, "https://techblog.com/post");
+    expect(result).not.toBeNull();
+    expect(result!.metadata.title).toBe("Right Article");
+    expect(result!.metadata.author).toBe("Right Author");
+    expect(result!.metadata.siteName).toBe("Right Publisher");
+  });
+
+  it("prefers Article over WebPage in @graph", () => {
+    const html = jsonLdHtml({
+      "@graph": [
+        {
+          "@type": "WebPage",
+          name: "Container WebPage",
+          author: { name: "Container Author" },
+        },
+        {
+          "@type": "Article",
+          headline: "Nested Article",
+          author: { name: "Article Author" },
+        },
+      ],
+    });
+    const result = extractArticle(html, "https://example.com/nested");
+    expect(result).not.toBeNull();
+    expect(result!.metadata.title).toBe("Nested Article");
+    expect(result!.metadata.author).toBe("Article Author");
+  });
+
+  it("accepts a NewsArticle or TechArticle @type alias", () => {
+    const newsHtml = jsonLdHtml({
+      "@graph": [
+        { "@type": "WebSite", name: "News Site" },
+        {
+          "@type": "NewsArticle",
+          headline: "Breaking",
+          author: { name: "News Reporter" },
+        },
+      ],
+    });
+    const newsResult = extractArticle(newsHtml, "https://news.example.com/x");
+    expect(newsResult!.metadata.author).toBe("News Reporter");
+
+    const techHtml = jsonLdHtml({
+      "@graph": [
+        { "@type": "Organization", name: "Tech Org" },
+        {
+          "@type": "TechArticle",
+          headline: "Deep Dive",
+          author: { name: "Engineer" },
+        },
+      ],
+    });
+    const techResult = extractArticle(techHtml, "https://tech.example.com/x");
+    expect(techResult!.metadata.author).toBe("Engineer");
+  });
+
+  it("accepts array-valued @type", () => {
+    const html = jsonLdHtml({
+      "@graph": [
+        { "@type": "WebSite", name: "Site" },
+        {
+          "@type": ["Article", "NewsArticle"],
+          headline: "Multi-typed",
+          author: { name: "Multi Author" },
+        },
+      ],
+    });
+    const result = extractArticle(html, "https://example.com/multi-type");
+    expect(result!.metadata.author).toBe("Multi Author");
+  });
+
+  it("falls back to first object when no article-like type exists", () => {
+    // Edge case: hand-rolled @graph that doesn't label its article
+    // node with a canonical @type. Old behavior (first object) still
+    // applies so we don't regress on pages that were working before
+    // the article-type-aware selector.
+    const html = jsonLdHtml({
+      "@graph": [
+        {
+          headline: "Unlabeled First",
+          author: { name: "Fallback Author" },
+        },
+        {
+          "@type": "WebSite",
+          name: "Something Else",
+        },
+      ],
+    });
+    const result = extractArticle(html, "https://example.com/unlabeled");
+    expect(result!.metadata.author).toBe("Fallback Author");
+  });
 });

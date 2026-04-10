@@ -64,6 +64,50 @@ function normalizeJsonLdString(val: unknown): string | null {
   return null;
 }
 
+// Schema.org types we treat as "the article node" when picking from a
+// JSON-LD @graph or top-level array. Ordered from most specific to least
+// so that a BlogPosting beats a plain Article if both exist, which is
+// rare but possible. We prefer these over the first object because many
+// sites open their @graph with WebSite, Organization, BreadcrumbList,
+// or WebPage nodes before the actual article, and picking the first
+// object would yield metadata for the wrong entity.
+const ARTICLE_LIKE_TYPES = new Set([
+  "NewsArticle",
+  "BlogPosting",
+  "TechArticle",
+  "ScholarlyArticle",
+  "Report",
+  "Article",
+]);
+
+function hasArticleLikeType(node: unknown): boolean {
+  if (!node || typeof node !== "object") return false;
+  const type = (node as Record<string, unknown>)["@type"];
+  if (typeof type === "string") return ARTICLE_LIKE_TYPES.has(type);
+  if (Array.isArray(type)) {
+    return type.some((t) => typeof t === "string" && ARTICLE_LIKE_TYPES.has(t));
+  }
+  return false;
+}
+
+function selectArticleNode(candidates: unknown[]): Record<string, unknown> | null {
+  // First pass: find a node whose @type is one of the article-like types.
+  for (const candidate of candidates) {
+    if (hasArticleLikeType(candidate)) {
+      return candidate as Record<string, unknown>;
+    }
+  }
+  // Fallback: the first object-shaped node. Keeps the old behavior for
+  // pages that don't use canonical @type labels (some older Substack
+  // exports, hand-rolled SSR blogs, etc.) so we don't regress on them.
+  for (const candidate of candidates) {
+    if (candidate && typeof candidate === "object") {
+      return candidate as Record<string, unknown>;
+    }
+  }
+  return null;
+}
+
 function extractMetadata(doc: Document, readabilityTitle: string | null): ArticleMetadata {
   // JSON-LD
   const jsonLdEl = doc.querySelector('script[type="application/ld+json"]');
@@ -71,15 +115,15 @@ function extractMetadata(doc: Document, readabilityTitle: string | null): Articl
   if (jsonLdEl?.textContent) {
     try {
       const parsed = JSON.parse(jsonLdEl.textContent);
-      // Some sites wrap schema in an array or @graph; unwrap the first
-      // object-shaped entry so we get a consistent top-level record.
+      // Some sites wrap schema in an array or @graph containing
+      // multiple nodes (WebSite, Organization, BreadcrumbList, WebPage,
+      // Article, Person, ...). We want the Article/BlogPosting node
+      // specifically, not "whatever comes first."
       if (Array.isArray(parsed)) {
-        jsonLd = parsed.find((item) => item && typeof item === "object") ?? null;
+        jsonLd = selectArticleNode(parsed);
       } else if (parsed && typeof parsed === "object") {
         if (Array.isArray(parsed["@graph"])) {
-          jsonLd = parsed["@graph"].find((item: unknown) =>
-            item && typeof item === "object"
-          ) ?? null;
+          jsonLd = selectArticleNode(parsed["@graph"]);
         } else {
           jsonLd = parsed as Record<string, unknown>;
         }

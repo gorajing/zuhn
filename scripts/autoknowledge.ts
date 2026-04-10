@@ -568,14 +568,24 @@ async function main(): Promise<void> {
   // are ignored. Use this for explicit cohort scoping across any source
   // type — blog, youtube, pdf, audio. Unlike --channel, --batch works for
   // sources that do not populate the `channel` frontmatter field.
+  //
+  // Path resolution: absolute paths are used as-is; relative paths are
+  // resolved against PROJECT_ROOT. This makes invocation cwd-independent
+  // so `npx tsx scripts/autoknowledge.ts --batch knowledge-base/meta/...`
+  // works whether run from the project root, a subdirectory, or via an
+  // absolute script invocation.
   let batchIds: Set<string> | undefined = undefined;
   let batchManifestName: string | undefined = undefined;
   if (batchManifestPath) {
-    if (!existsSync(batchManifestPath)) {
+    const resolvedPath = batchManifestPath.startsWith("/")
+      ? batchManifestPath
+      : join(PROJECT_ROOT, batchManifestPath);
+    if (!existsSync(resolvedPath)) {
       console.error(`Batch manifest not found: ${batchManifestPath}`);
+      console.error(`  (resolved to ${resolvedPath})`);
       process.exit(1);
     }
-    const manifestContent = readFileSync(batchManifestPath, "utf-8");
+    const manifestContent = readFileSync(resolvedPath, "utf-8");
     const ids = manifestContent
       .split("\n")
       .map((l) => l.trim())
