@@ -1,6 +1,6 @@
 # Topic: growth
 
-> 106 insights
+> 107 insights
 
 - `INS-260404-1A9D` [high] When an AI product cuts process time by 92%, the switching cost of NOT adopting it exceeds the cost of change, driving organic product-led growth.
 - `INS-260330-73A2` [high] Growth equals conversion minus churn, and reducing churn by 1% has the identical mathematical effect on growth as increasing conversion by 1%, but costs significantly less.
@@ -87,6 +87,7 @@
 - `INS-260403-8779` [medium] Chance meetings let your professional network drift just enough to discover adjacent opportunities, mirroring how relaxation unlocks stuck thinking.
 - `INS-260330-D99D` [medium] McDonald's biggest innovations — the Big Mac, drive-thru, Ronald McDonald, and Happy Meal — all came from individual franchisees experimenting locally, not corporate headquarters.
 - `INS-260404-5882` [medium] Silicon Valley's tech saturation means the person at the next table likely knows your stakeholders and could help you — creating ambient serendipity impossible to engineer remotely.
+- `INS-260410-86A5` [medium] YouTube Shorts drove at least half of Dwarkesh's podcast growth — a channel he would never have predicted for a long-form deep-dive AI show.
 - `INS-260403-D522` [medium] The most dynamic economic sector attracts the most ambitious people, causing it to expand fractally and set standards for the broader economy.
 - `INS-260403-D2A9` [medium] Bundling financial services raises ARPU enough to unlock marketing channels that were previously uneconomical.
 - `INS-260405-BBA3` [medium] Five happy full-price customers is the minimum evidence required to justify building a repeatable sales motion.

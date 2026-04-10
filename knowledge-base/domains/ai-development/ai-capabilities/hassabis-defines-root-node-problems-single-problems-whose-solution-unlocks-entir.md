@@ -48,10 +48,10 @@ stance: >-
   strategically important than solving incrementally important problems, because
   the leverage compounds non-linearly.
 related:
+  - INS-260410-ED68
   - PRI-260323-CE34
   - INS-260403-219F
   - INS-260330-1E5E
   - INS-260322-2D57
-  - INS-260327-40DA
 ---
 Hassabis describes 'root node problems' in the tree of all knowledge — problems whose solution unlocks an entire branch of new research and applications. AlphaFold was one (it unlocked drug discovery, neglected disease research, plant genetics, and more). His other candidates: nuclear fusion, room-temperature superconductors at atmospheric pressure (which combined with optimal batteries would unlock cheap clean energy), and material science breakthroughs. The strategic implication is that AI should be aimed at root nodes, not at marginal improvements to existing pipelines, because the downstream multiplier is enormous. This is a research-strategy principle that applies far beyond AI.

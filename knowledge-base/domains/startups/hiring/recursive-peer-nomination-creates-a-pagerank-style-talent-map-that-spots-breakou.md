@@ -47,8 +47,8 @@ stance: >-
   roles and geographies produces a compounding talent graph that identifies
   breakout operators before market visibility.
 related:
-  - INS-260329-CF70
   - INS-260330-965B
+  - INS-260410-2952
   - INS-260326-7B2A
   - PRI-260405-608A
   - PRI-260406-D7EA

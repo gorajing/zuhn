@@ -73,14 +73,14 @@ stance: >-
   improves the next drug-discovery bet.
 related:
   - INS-260325-9F5F
-  - INS-260323-8F70
   - PRI-260325-3A00
-  - INS-260404-07C3
   - INS-260408-8F0A
+  - INS-260410-53B0
   - INS-260404-B6E8
-  - INS-260410-9D16
-  - PRI-260323-F37F
+  - INS-260410-8C08
   - INS-260410-69C2
+  - INS-260410-9D16
+  - INS-260410-CEAA
 ---
 Eroom's Law — the consistent decrease in new drugs approved per billion dollars invested since the 1950s — is structurally similar to ML scaling laws but has driven investors in the opposite direction. Kimmel argues this gap exists because biotech historically lacks two things that make LLM scaling economically self-sustaining: (1) returns to scaled output don't increase super-exponentially (each marginal drug doesn't enable a broader addressable market the way a more capable model does), and (2) success on one target doesn't transfer to the next, because the expertise biotech accumulates is in the 'how to make a molecule' layer — but the actual bottleneck sits above that, in target selection.
 

@@ -53,8 +53,8 @@ related:
   - INS-260403-426A
   - INS-260404-CCB1
   - INS-260404-A2C4
+  - INS-260410-BB93
   - INS-260403-FF65
-  - INS-260404-78E0
 ---
 Across hospitality, food delivery, real estate, and automotive, marketplaces have followed an identical evolutionary path: (1) horizontal lead generation (Craigslist), (2) vertical lead generation (HomeAway, Trulia), (3) vertical transactional (Airbnb, Redfin), and (4) tightly managed with fintech (Opendoor, Fair.com).
 

@@ -52,10 +52,10 @@ stance: >-
   committing to a path chosen with the least information you'll ever have.
 related:
   - INS-260329-7D18
+  - INS-260410-91A1
   - INS-260322-D6B8
   - INS-260327-E093
   - INS-260321-69E1
-  - INS-260403-6EDC
 evidence:
   - id: INS-260327-2DF7
     type: SUPPORTS

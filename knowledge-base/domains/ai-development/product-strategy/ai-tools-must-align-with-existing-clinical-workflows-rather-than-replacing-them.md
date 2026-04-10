@@ -43,7 +43,6 @@ stance: >-
   outperform those that require workflow redesign, even when the new workflow is
   theoretically superior
 related:
-  - INS-260323-F15D
   - INS-260327-B9AD
   - INS-260327-D020
   - INS-260329-FEBA
@@ -53,6 +52,7 @@ related:
   - INS-260403-B448
   - INS-260403-990E
   - INS-260403-2609
+  - INS-260403-FB82
 evidence:
   - id: INS-260323-F15D
     type: CONTRADICTS

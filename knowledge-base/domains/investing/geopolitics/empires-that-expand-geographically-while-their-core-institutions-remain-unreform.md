@@ -52,7 +52,6 @@ stance: >-
   creates an empire that is geographically vast but internally fragile, because
   the administrative infrastructure cannot support the territorial extent.
 related:
-  - INS-260327-619F
   - INS-260327-F7FE
   - INS-260330-2E1E
   - INS-260327-479C
@@ -62,6 +61,7 @@ related:
   - INS-260327-4775
   - INS-260330-912C
   - INS-260330-F5D1
+  - INS-260330-72BD
 evidence:
   - id: INS-260330-2E1E
     type: TRANSFERS_TO

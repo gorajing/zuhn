@@ -55,12 +55,12 @@ related:
   - INS-260322-B33E
   - INS-260323-CD28
   - INS-260327-D76A
-  - INS-260327-77E5
   - INS-260329-519E
   - INS-260330-B2B8
-  - INS-260330-E282
   - INS-260403-2AF0
   - INS-260404-5AC1
+  - INS-260410-ED68
+  - INS-260410-5740
   - INS-260329-04FA
 ---
 As scientific knowledge grows, individual researchers take longer to reach the frontier and specialize into increasingly narrow subfields. This 'burden of knowledge' means identical ideas get independently reinvented across disciplines with no one noticing the overlap. A physicist quoted in the article describes asking AI 'does concept X exist in other disciplines?' and receiving synthesis across five fields — something that would take a human researcher months of cross-disciplinary reading.

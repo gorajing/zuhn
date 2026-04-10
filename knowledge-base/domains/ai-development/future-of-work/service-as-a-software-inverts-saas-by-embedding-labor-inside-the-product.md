@@ -42,11 +42,11 @@ stance: >-
   the entire job rather than augmenting the human doing it, making labor and
   software a single market.
 related:
+  - INS-260410-BD9D
   - PRI-260328-8317
   - INS-260405-4091
   - INS-260322-EDA4
   - INS-260405-E8A1
-  - INS-260403-A2E9
 evidence:
   - id: INS-260322-054E
     type: SUPPORTS

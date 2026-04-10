@@ -1,9 +1,11 @@
 # Topic: platform-strategy
 
-> 5 insights
+> 7 insights
 
 - `INS-260405-E7F9` [high] Apple Pay's security and seamlessness were only possible because Apple controlled the chip (Secure Enclave), the OS, and the payment network relationships simultaneously.
 - `INS-260405-B76E` [high] Open source handles large-scale universal problems; closed software refines and distributes those solutions to specific users.
 - `INS-260405-8107` [high] Bundled technology ecosystems like Java/Oracle convert upfront savings into permanent switching costs that organizations discuss escaping but rarely do.
 - `INS-260405-ABE0` [high] Valve can afford hardware bets others can't because every device plugs into an already-won software distribution war.
 - `INS-260405-1B93` [medium] When Amazon started producing its own TV shows, it stopped competing purely on logistics and began competing on culture — a much harder moat to replicate.
+- `INS-260410-91C0` [medium] Giant bacteria scale by copying their entire genome tens of thousands of times—a brute-force approach that stalls—while eukaryotes scaled by absorbing a specialized energy partner and offloading the work, which is the template for how any complex system breaks through a scaling ceiling.
+- `INS-260410-81E8` [medium] Nadella argues the most important feature of American AI isn't capability but trust — countries are deploying based on whether the supplier and its institutions will still be around in 20 years.

@@ -1,6 +1,6 @@
 # Topic: future-of-work
 
-> 85 insights
+> 88 insights
 
 - `INS-260320-A745` [very_high] Anthropic's own studies show AI deskilling in coding is real, but depends on HOW you use models — some usage patterns cause skill degradation, some don't.
 - `INS-260321-9824` [very_high] Tao's papers now have more code, more plots, deeper literature searches — but the core mathematical work (pen and paper for the hardest part) hasn't been accelerated. AI enriches output without deepening it.
@@ -62,12 +62,15 @@
 - `INS-260405-89E7` [medium] MiniMax hires for first-principles thinking across all backgrounds because AI handles execution — the scarce skill is knowing which questions to ask.
 - `INS-260403-7DF4` [medium] AI coding assistants deliver 55-81% productivity gains but unlike Ford's assembly line, they democratize access rather than concentrating power.
 - `INS-260403-39CF` [medium] AI will reduce product team sizes by 25-50% (mainly fewer engineers) while PMs spend more time on discovery and go-to-market rather than building.
+- `INS-260410-8767` [medium] Zuckerberg predicts most Meta AI-research code will be written by goal-driven AI agents within 12-18 months, replacing human-authored code rather than just augmenting it.
 - `INS-260403-287B` [medium] AI is reducing new job creation for junior roles rather than eliminating existing positions.
 - `INS-260409-A682` [medium] Barefoot developers — technically savvy people embedded in local communities who build small home-cooked software for people they know — will emerge as a new category once LLM orchestration tools cross the command-line wall for them, and they'll grow exponentially faster than professional developers.
 - `INS-260320-B99F` [medium] Build careers where AI is a tailwind — semiconductors, human-centered professions, anything mixing physical world with analytical skills.
 - `INS-260403-B0CB` [medium] Using subsidized care industries as employment sinks for AI-displaced workers creates expensive make-work programs that raise costs without genuine productivity gains.
+- `INS-260410-098A` [medium] The winning career bet isn't avoiding automation — it's positioning to manage ever-larger fleets of AI workers, which still rewards deep fundamentals and frontier proximity.
 - `INS-260402-2D38` [medium] Finite compute forces allocation tradeoffs that keep humans economically relevant regardless of AI capability.
 - `INS-260329-92C3` [medium] Dr. Chuck's progression from variables through databases to web APIs teaches data-structural thinking — a meta-skill that makes AI coding assistants dramatically more useful because you can specify what you want in terms machines understand.
+- `INS-260410-204E` [medium] Cognitive labor is not static — as AI automates triaging email, the new cognitive labor becomes reviewing the three drafts the agent selected, and the pattern continues up the abstraction ladder.
 - `INS-260402-1640` [medium] AI threatens humans not by replacing their jobs but by competing for shared resources like energy and land.
 - `INS-260403-A101` [medium] AI will commoditize taste (evaluating what worked before) just as it commoditized craft, leaving forward-looking expression as the only durable human advantage.
 - `INS-260330-B28C` [medium] Campaigns to universalize high-paying skills function as labor market flooding that depresses wages for existing practitioners.

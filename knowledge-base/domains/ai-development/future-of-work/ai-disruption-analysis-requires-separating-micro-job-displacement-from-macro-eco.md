@@ -49,8 +49,8 @@ stance: >-
 related:
   - INS-260323-7403
   - INS-260327-3A81
+  - INS-260410-75B9
   - INS-260322-F6AA
   - INS-260403-52DB
-  - PRI-260406-14BB
 ---
 Noah Smith identifies that viral AI disruption posts like Citrini's bundle two distinct claims: a micro thesis about which industries and jobs AI will displace, and a macro thesis that this displacement causes economic crisis (10%+ unemployment, consumption drops). The micro thesis is debatable on industry-specific merits, but the macro thesis requires an explicit economic model showing how productivity gains translate to net economic contraction — which Citrini never provides. Historical industrial revolutions show that sector-level disruption and economy-wide recession are not automatic partners. This analytical separation is critical for anyone evaluating AI's economic impact: you can believe AI will transform specific industries without believing it will crash the economy.

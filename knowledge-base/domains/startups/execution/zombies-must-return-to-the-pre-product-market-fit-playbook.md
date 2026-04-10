@@ -48,5 +48,6 @@ related:
   - INS-260322-D0F6
   - INS-260409-A55C
   - INS-260330-8C54
+  - INS-260410-C329
 ---
 Michael's observation: zombie companies accumulate product assumptions that never get questioned. He describes a startup with an AB-tested onboarding flow that asked 65 questions — a well-optimized local maximum of a bad design. When the team happened to build a greenfield onboarding for a side product, they realized their main flow could be 10x better. The prescription: do the thought experiment, 'pretend you weren't afraid — what would you change about your business?' Founders can always name the sacred cows; the blocker isn't identification, it's permission to touch them. In zombie mode, that permission is free because you're already dead.

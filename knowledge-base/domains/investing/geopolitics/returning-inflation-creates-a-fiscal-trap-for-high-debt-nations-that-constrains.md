@@ -61,8 +61,8 @@ related:
   - INS-260403-A52A
   - INS-260403-E992
   - INS-260403-2F55
+  - INS-260410-AC50
   - INS-260403-330D
-  - INS-260402-E144
 ---
 For decades, Japan managed its enormous government debt because near-zero inflation allowed near-zero interest rates, making debt service cheap. With inflation now above 2%, the Bank of Japan must raise short-term rates, dramatically increasing debt servicing costs. The government can borrow to cover these costs, but this grows the debt pile and erodes confidence, driving long-term bond rates even higher in a self-reinforcing spiral. Long-term Japanese government bond rates have already begun soaring.
 

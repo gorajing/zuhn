@@ -52,8 +52,8 @@ related:
   - INS-260327-9192
   - PRI-260328-B4BD
   - PRI-260406-6690
+  - INS-260410-8767
   - INS-260327-3E23
-  - INS-260321-0CCD
 evidence:
   - id: INS-260327-9192
     type: EXTENDS

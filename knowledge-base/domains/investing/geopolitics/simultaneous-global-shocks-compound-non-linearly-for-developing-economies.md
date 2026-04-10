@@ -53,9 +53,9 @@ stance: >-
 related:
   - INS-260403-E936
   - INS-260323-9FCA
+  - INS-260410-E6BF
   - INS-260403-9A44
   - INS-260325-C2DA
-  - INS-260330-63FE
 evidence:
   - id: INS-260325-C2DA
     type: TRANSFERS_TO

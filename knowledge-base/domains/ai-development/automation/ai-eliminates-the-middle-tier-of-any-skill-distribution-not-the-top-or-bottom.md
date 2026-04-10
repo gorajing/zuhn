@@ -45,16 +45,16 @@ stance: >-
   AI assistance collapses the skill middle ground rather than raising the floor,
   creating a more polarized distribution of human capability.
 related:
-  - INS-260323-DA85
   - INS-260325-E84D
   - INS-260323-C0BD
   - INS-260329-B062
   - INS-260330-B771
   - INS-260330-BD3C
-  - INS-260330-43EE
   - INS-260330-16B1
   - INS-260403-1202
+  - INS-260330-43EE
   - PRI-260323-C49D
+  - INS-260402-C4FF
 evidence:
   - id: INS-260325-E84D
     type: TRANSFERS_TO

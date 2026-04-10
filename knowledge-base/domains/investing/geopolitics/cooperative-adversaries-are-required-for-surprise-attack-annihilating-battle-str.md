@@ -70,7 +70,8 @@ related:
   - INS-260403-B26E
   - INS-260403-1FB1
   - INS-260403-E05D
-  - INS-260410-11F3
+  - INS-260410-67EE
+  - INS-260410-61D5
 ---
 Paine introduces the concept of a 'cooperative adversary' as a strategic mental model: not an opponent that wants to cooperate with you, but one who plays their cards so badly that your moves look smarter than they are. Nicholas II was the archetypal cooperative adversary — appointing royal favorites who couldn't read maps, letting his navy skip training, sending the Baltic Fleet on a multi-month voyage around the world into a prepared ambush at Tsushima, and ordering his fleet to engage rather than luring Japan inland (the strategy Kuropatkin wanted). Japan's 'brilliant' Russo-Japanese War plan succeeded in large part because Russia cooperated at every critical decision point.
 

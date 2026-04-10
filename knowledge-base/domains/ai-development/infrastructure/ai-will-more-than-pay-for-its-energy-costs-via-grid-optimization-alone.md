@@ -48,12 +48,12 @@ stance: >-
   delivering 30-40% efficiency gains on existing national grids plus
   breakthroughs in fusion, batteries, and superconductors.
 related:
-  - INS-260403-BD30
   - INS-260404-7A75
   - INS-260404-EE07
   - INS-260410-101D
   - INS-260410-0ECA
   - PRI-260406-C4FD
   - INS-260327-BE4E
+  - INS-260410-E151
 ---
 Hassabis's specific quantitative claim: 30-40% more efficiency extractable from existing national grids through AI optimization. Plus AI-accelerated climate/weather modeling to mitigate effects. Plus breakthrough new energy tech — fusion (DeepMind partners with Commonwealth Fusion), batteries, and superconductors — where AI is 'essential' for the discovery. Ultimate vision: unlimited rocket fuel via catalyzed seawater if fusion works. This is a falsifiable prediction — if by 2032 AI data center growth exceeds measured grid efficiency gains by a wide margin, Hassabis's net-positive energy thesis was wrong. For policymakers and energy investors: the AI-energy story isn't just 'build more nuclear,' it's also 'deploy AI to existing infrastructure first.'

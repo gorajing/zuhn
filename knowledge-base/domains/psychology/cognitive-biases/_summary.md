@@ -1,6 +1,6 @@
 # Topic: cognitive-biases
 
-> 315 insights
+> 317 insights
 
 - `INS-260326-163A` [very_high] Data quality dominates ML architecture just as install base and data gravity beat product design elegance in business -- what you've accumulated is the moat, not how you've arranged it.
 - `INS-260326-CA66` [very_high] Insulin resistance manifests as heart disease, diabetes, obesity, and dementia -- just as a misidentified business model manifests as churn, pricing problems, and sales failures.
@@ -149,6 +149,7 @@
 - `INS-260330-E1CA` [high] Rogue waves aren't random — they're multiple ordinary waves meeting and amplifying, which reframes how we think about extreme events.
 - `INS-260330-10AA` [high] Romantic love activates the same dopamine reward circuits as cocaine addiction and the same serotonin patterns as OCD, producing predictable obsession and rumination.
 - `INS-260330-F737` [high] Schlep blindness causes founders to unconsciously avoid ideas involving tedious operational work, systematically hiding the highest-value opportunities.
+- `INS-260410-1898` [high] We've made dogfighting and cockfighting felonies while permitting identical practices on 10 billion factory-farmed animals — a five-orders-of-magnitude blind spot driven by scope insensitivity, not genuine moral reasoning.
 - `INS-260330-716C` [high] Tyson identifies at least four stacking biases in the search for extraterrestrial life (carbon, planet, habitable zone, intelligence), each of which independently narrows the search space.
 - `INS-260330-F909` [high] Secrets and lies spoil like food with limited shelf life, but trust earned from keeping them compounds indefinitely—always choose the long-term play.
 - `INS-260405-FE57` [high] The tendency to see purpose in random events is the brain's default, not the result of deliberate reasoning.
@@ -268,6 +269,7 @@
 - `INS-260330-D5DD` [medium] Placebos may work because the brain evolved to maintain distress signals until help arrives — external authority cues grant 'permission' to switch from help-seeking to healing mode.
 - `INS-260404-C209` [medium] Most life outcomes result from accumulated defaults rather than explicit decisions, which has profound implications for how to design intentional lives.
 - `INS-260403-EE2C` [medium] We judge early ambitious work too harshly because our species never developed customs for evaluating things that don't exist yet.
+- `INS-260410-1601` [medium] Rome sustained a society where 10-20% were enslaved without racialized ideology or significant abolitionist pushback, using coercion, manumission incentives, and household embedding instead.
 - `INS-260404-A8B9` [medium] Founders who are genuinely productive feel like frauds because their working conditions don't match the cultural archetype of professional success.
 - `INS-260323-61D4` [medium] Einstein presented the non-locality problem at least three times — once at the 1927 Solvay Conference, once with the photon box thought experiment, and once in the EPR paper — and each time Bohr misunderstood or reframed the argument rather than addressing it directly.
 - `INS-260403-ABA7` [medium] Selecting evidence from whichever country supports your argument is a powerful and under-recognized form of cherry-picking.

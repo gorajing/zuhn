@@ -53,10 +53,10 @@ resolutions:
     humanity's safety valve.
 related:
   - INS-260330-8538
+  - INS-260410-8C08
   - INS-260325-0E70
   - INS-260403-2457
   - INS-260409-1D91
-  - INS-260404-CC7C
 stance: >-
   The biological stack starts with reproduction at the cellular level; the
   silicon stack has no reproduction capability at all

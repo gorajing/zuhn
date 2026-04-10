@@ -60,7 +60,6 @@ stance: >-
   parameter count or pre-training scale.
 related:
   - INS-260321-D01E
-  - INS-260322-2E33
   - INS-260323-A64F
   - PRI-260328-8E01
   - INS-260402-0E46

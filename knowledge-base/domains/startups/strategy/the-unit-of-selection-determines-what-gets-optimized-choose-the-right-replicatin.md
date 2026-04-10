@@ -46,10 +46,10 @@ resolutions:
     same confusion as thinking evolution operates on species rather than genes.
 related:
   - INS-260325-D680
+  - INS-260410-CEAA
+  - INS-260410-3B8B
   - INS-260325-82E8
   - INS-260330-E660
-  - INS-260325-BF44
-  - INS-260410-1AF0
   - INS-260403-CF01
 stance: >-
   Natural selection operates on genes because they're the right-sized unit that

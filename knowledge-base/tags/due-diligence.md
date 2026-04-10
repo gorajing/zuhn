@@ -15,8 +15,6 @@
 - `INS-260403-87D9` Most deal-killing risks at early stage live outside the financial model.
 - `INS-260403-35A6` VCs filter investments through five consistent criteria: market size, traction, unit economics, team, and competitive moat.
 - `INS-260403-6EC8` VCs face structural information disadvantages vs public market investors because private companies control what gets reported and many VCs lack accounting expertise.
-- `INS-260330-990F` Ivy League credentials, celebrity endorsements, and institutional backing create a cascade of unchecked assumptions that sophisticated investors like Sequoia and BlackRock use as substitutes for actual investigation.
-- `INS-260329-DE17` Evaluate free content from a teacher before buying paid courses to reliably predict quality and fit.
 - `INS-260402-E148` Job listings are the most honest public signal of a competitor's technical capability because they must be specific to attract the right candidates.
 - `INS-260330-09FF` A YC company that was incorrectly converted from a Connecticut LLC to a Delaware C-Corp accumulated a $500K legal bill across four law firms when the error surfaced during a major fundraise.
 - `INS-260403-CEC0` Sophisticated investors repeatedly overlook missing governance basics like boards of directors, which are the strongest predictors of catastrophic failure.
@@ -48,3 +46,5 @@
 - `INS-260405-CE53` 44% of startups rated their investors 1 out of 5 on helpfulness, suggesting the 'smart money' narrative routinely overpromises.
 - `INS-260403-8FD7` Screen for sector exit precedent before investing — if the only exits in a space are distressed fire sales, that's a structural warning, not a timing issue.
 - `INS-260403-AC06` Identify which of your risks amplify each other and prioritize decoupling them before approaching investors.
+- `INS-260330-990F` Ivy League credentials, celebrity endorsements, and institutional backing create a cascade of unchecked assumptions that sophisticated investors like Sequoia and BlackRock use as substitutes for actual investigation.
+- `INS-260329-DE17` Evaluate free content from a teacher before buying paid courses to reliably predict quality and fit.

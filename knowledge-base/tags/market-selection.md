@@ -8,8 +8,8 @@
 - `INS-260403-614D` Credentials exist because large organizations can't measure individual performance; small companies and markets can, making credentials irrelevant.
 - `INS-260324-160B` Texas has the most BBQ spots per capita but a 33% failure rate — lower than less competitive states like California and New York where failure rates are even higher.
 - `INS-260327-FCCF` AI startup ideas are hiding in plain sight: every job people pay humans to do is a potential product.
-- `INS-260321-5C24` Apply three filters to find viable AI businesses: ruthlessly niche (cannot be segmented further), boring (non-competitive), and existing services to replace (agencies/freelancers/hacky solutions).
 - `INS-260329-FCC6` Sell to people who desperately need what you offer rather than trying to convince people they need it.
+- `INS-260321-5C24` Apply three filters to find viable AI businesses: ruthlessly niche (cannot be segmented further), boring (non-competitive), and existing services to replace (agencies/freelancers/hacky solutions).
 - `INS-260403-AEB3` Attractive-sounding startup ideas are poor bets because many people pursue them, driving down returns via supply and demand.
 - `INS-260403-BA5D` In emerging markets, targeting broken essential industries provides both large market size and natural urgency that overcomes adoption friction.
 - `INS-260404-96CF` Three observable indicators — smartphone penetration, consumer app presence, and government enthusiasm — identify markets primed for tech startup growth.

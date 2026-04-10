@@ -47,8 +47,8 @@ stance: >-
 related:
   - PRI-260409-0156
   - INS-260409-086A
+  - INS-260410-25AF
   - PRI-260406-7D93
   - INS-260405-A103
-  - PRI-260328-4FA6
 ---
 The ingest operation has seven steps: read the raw source, extract concepts and entities and claims and data points, write a summary page with metadata and tags, update all existing entity and concept pages with the new information, flag any contradictions where new data conflicts with existing claims, update the master index, and append a timestamped entry to the log. A single source typically touches ten to fifteen existing pages. This is the compounding effect in action — each drop makes the entire wiki slightly smarter because it rewrites related structure, not just appends. Systems that only create new files on ingest (no cross-updates, no contradiction flagging) are just append-only logs, not knowledge bases.

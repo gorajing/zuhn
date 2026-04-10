@@ -1,6 +1,6 @@
 # Topic: epistemics
 
-> 36 insights
+> 37 insights
 
 - `INS-260409-F93A` [high] Galef argues accurate maps of the world should include explicit uncertainty markers and remain provisional — 'drawn in pencil, not pen' — because false precision creates psychological resistance to updating when better evidence arrives.
 - `INS-260405-5702` [high] Feed algorithms don't just show different opinions — they construct different facts for different population clusters.
@@ -17,6 +17,7 @@
 - `INS-260409-A0D7` [high] 'UFO' bakes in 'flying object'; UAP opens the door back up to atmospheric optics and instrument artifacts.
 - `INS-260405-2B3F` [high] Treating survey non-response as randomly missing data produces systematically wrong estimates whenever the stigmatized view is also the under-reported one.
 - `INS-260405-F7FA` [high] All else being equal, bet against the explanation where you are the protagonist.
+- `INS-260410-7FA4` [high] Vaccination and scurvy's cure took centuries to discover despite killing millions, showing that intrinsic problem difficulty, not weak motivation, is often the binding constraint.
 - `INS-260409-42F7` [high] Within 48 hours of the MemPalace launch, maintainers Milla Jovovich and Ben Sigman wrote a public 'What we got wrong' section admitting four specific overclaims and shipped fixes — a level of intellectual honesty that product marketing incentives rarely allow.
 - `INS-260410-81DC` [high] Prout's atomic-weight hypothesis was correct but looked falsified for 85 years until isotopes were discovered; science progresses by protecting theories against their own current evidence.
 - `INS-260409-5CD4` [high] Julia Galef: 'Scout Mindset is the motivation to see what's really there and not just what you wish was there' — distinguishing it from soldier mindset where beliefs are defended against threatening evidence through rationalization, denial, and motivated reasoning.

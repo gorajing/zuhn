@@ -50,11 +50,12 @@ stance: >-
   own expansion rather than genuine concern for victims.
 related:
   - INS-260323-7F5C
+  - INS-260410-67EE
   - INS-260330-ABBF
   - INS-260330-4AAD
   - INS-260330-43EB
   - INS-260410-90BD
-  - INS-260327-7C94
+  - INS-260410-1898
 evidence:
   - id: INS-260327-7C94
     type: CHALLENGES

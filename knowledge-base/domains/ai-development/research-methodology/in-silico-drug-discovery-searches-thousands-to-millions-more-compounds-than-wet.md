@@ -50,6 +50,6 @@ related:
   - INS-260322-37EE
   - INS-260405-0AE7
   - PRI-260323-F37F
-  - INS-260320-1B10
+  - INS-260410-55B5
 ---
 Isomorphic Labs (DeepMind spin-out) uses AlphaFold-derived structures plus chemistry models to predict (1) which compounds bind a target protein and how strongly, and (2) crucially, whether those same compounds also bind any of the other 20,000 proteins in the human body — the off-target check that determines toxicity. Both predictions run in minutes, allowing iteration over thousands or millions of candidate compounds. Only the final shortlist goes to the wet lab. Average drug development takes ~10 years with ~10% clinical success; Isomorphic has 18-19 active programs spanning cardiovascular, cancer, and immunology.

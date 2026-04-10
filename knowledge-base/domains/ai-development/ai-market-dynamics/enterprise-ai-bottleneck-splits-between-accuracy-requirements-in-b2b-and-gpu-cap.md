@@ -50,11 +50,11 @@ stance: >-
   blocked by accuracy requirements and risk tolerance for specific scenarios,
   while B2C is blocked by GPU capacity during demand spikes.
 related:
+  - INS-260410-CDDD
   - INS-260321-D484
   - INS-260405-9285
   - INS-260403-7868
   - INS-260325-5CB1
-  - INS-260409-2A8A
   - INS-260409-526E
 evidence:
   - id: INS-260321-D484

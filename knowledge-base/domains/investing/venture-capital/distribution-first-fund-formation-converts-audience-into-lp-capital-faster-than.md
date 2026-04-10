@@ -59,6 +59,7 @@ related:
   - PRI-260406-8F89
   - INS-260404-7295
   - INS-260403-9746
+  - INS-260410-86A5
 ---
 Traditional fund formation requires a track record of returns, which creates a chicken-and-egg problem for first-time managers. Stebbings inverted this by spending years building distribution first — interviewing 1,000+ founders created relationships where guests began sending him deals unprompted. When a multi-billionaire founder offered to back him, 50 others followed within a week, each writing $100K-$250K checks.
 

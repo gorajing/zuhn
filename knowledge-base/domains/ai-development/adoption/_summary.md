@@ -1,6 +1,6 @@
 # Topic: adoption
 
-> 45 insights
+> 46 insights
 
 - `INS-260409-8DDA` [high] Despite massive latent AI value, ~95% of enterprise AI pilots fail because organizations don't know how to operationalize the technology — throwing AI 'over a wall' doesn't work.
 - `INS-260403-A9CC` [high] Companies fail at AI adoption because they issue vague 'be AI-first' mandates without concrete tactics for daily workflows.
@@ -11,6 +11,7 @@
 - `INS-260322-F891` [high] AI only saves time when verification is cheaper than doing the task manually — generating 200 marketing images to pick 10 works, but AI copying 200 numbers from PDFs that all need checking doesn't.
 - `INS-260409-6C66` [high] Allocate 20% of your time to automating yourself out of a job — if you don't, someone else will, and they'll capture the leverage.
 - `INS-260405-62F8` [high] Tesla's FSD data access to Lemonade produced a ~50% premium cut, showing that AV adoption ripples through adjacent industries before consumer uptake is even widespread.
+- `INS-260410-9CF4` [high] Just as Lean transformed factories by rewiring end-to-end processes, AI in knowledge work requires management teams to redesign workflows — the hard bottleneck is organizational, not technical.
 - `INS-260322-0C28` [high] Only 9% of consumers pay for more than one LLM assistant, and less than 10% of ChatGPT users even visit competitors — signaling winner-take-most dynamics in general AI.
 - `INS-260329-14AE` [high] ChatGPT reached 1M users in 5 days versus Facebook's 2 years and Instagram's 2 years, signaling unprecedented adoption velocity.
 - `INS-260322-3263` [high] ChatGPT has 900M weekly active users but only 10-15% use it daily — 5x more people know how to use AI than can think of something to do with it, revealing a product-market fit gap not a technology gap.

@@ -42,11 +42,12 @@ stance: >-
   to selling rather than developing it, creating a speed limit on discovery.
 related:
   - INS-260402-FE91
+  - INS-260410-5740
   - PRI-260406-B9E0
   - INS-260325-0147
-  - INS-260404-B7E4
-  - PRI-260406-B7A1
+  - INS-260410-A325
   - INS-260404-7F34
+  - INS-260404-B7E4
 evidence:
   - id: INS-260327-CF53
     type: CHALLENGES

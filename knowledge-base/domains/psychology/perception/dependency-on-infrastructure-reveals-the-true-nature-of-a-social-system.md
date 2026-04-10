@@ -46,11 +46,11 @@ stance: >-
   infrastructure dependencies embedded in its daily life — like a garment that
   requires a slave to put on.
 related:
+  - INS-260410-1601
   - INS-260330-D661
   - INS-260327-E63E
   - INS-260325-6262
   - INS-260330-43F7
-  - PRI-260406-69C1
 evidence:
   - id: INS-260325-6262
     type: SUPPORTS

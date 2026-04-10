@@ -59,7 +59,6 @@ stance: >-
   because lenders prioritize transparent, predictable cash flows over
   speculative appreciation
 related:
-  - INS-260327-0519
   - PRI-260406-2546
   - PRI-260406-53BC
   - PRI-260407-93D7

@@ -60,7 +60,7 @@ related:
   - INS-260403-9897
   - PRI-260406-BAAC
   - INS-260327-CE05
-  - INS-260403-2151
+  - INS-260410-AC50
 ---
 The Fiscal Theory of the Price Level (FTPL), developed partly by Chris Sims, predicts a tight relationship between government debt levels and inflation. Progressive economists have long dismissed this, citing Japan's decades of high debt without inflation and the post-2008 experience. But Covid may have broken that complacency. Barro and Bianchi (2024) find government spending has 'substantial explanatory power' for recent inflation across 37 countries. Reis (2026) shows unexpected fiscal deficits during and after the pandemic are strongly correlated with unexpected inflation increases.
 

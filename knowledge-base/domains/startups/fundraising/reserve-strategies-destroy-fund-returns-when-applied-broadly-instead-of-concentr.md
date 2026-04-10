@@ -54,7 +54,7 @@ related:
   - INS-260403-B224
   - INS-260410-3E37
   - INS-260404-707C
-  - INS-260403-E294
+  - INS-260410-13C8
 ---
 Laura Thompson of Sapphire Ventures modeled a $50M seed fund investing in 25 companies across three reserve scenarios. Concentrated reserves in clear breakouts improved net LP returns from 4.0x to ~5.0x. But the 'back all our founders' pro-rata approach — which sounds noble in pitch decks — sank net returns to 3.3x by reinforcing mediocrity. The worst scenario: following on broadly while missing the eventual breakout company dropped returns to ~2.5x.
 

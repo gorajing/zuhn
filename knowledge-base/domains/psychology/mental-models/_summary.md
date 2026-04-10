@@ -1,6 +1,6 @@
 # Topic: mental-models
 
-> 86 insights
+> 87 insights
 
 - `INS-260409-3138` [high] Computers are fully explainable bottom-up from electricity through logic gates to instructions — there is no magical layer, only layers of abstraction humans haven't personally traversed.
 - `INS-260330-420B` [high] Three competing theories for the Indus Valley's decline each tell a confident story from the same absence of evidence, revealing how humans handle epistemic gaps.
@@ -69,6 +69,7 @@
 - `INS-260330-5DFF` [high] In the Calvin Cycle, the 6-carbon chain formed by CO2 fixation is so unstable it immediately breaks into two stable 3-carbon molecules — instability is a required step, not a failure.
 - `INS-260402-2C6B` [high] Everyday words work fine in normal use but produce meaningless disputes when pushed into abstract territory, because they lack precise definitions.
 - `INS-260409-D6A8` [medium] Goals entangled with emotional state are produced as byproducts of internal conditions, not by direct pursuit — optimize for state, not outcome.
+- `INS-260410-E6BF` [medium] Harper's counterfactual: absent the Justinianic plague and volcanic cold snap, Justinian's Rome was on a trajectory to reconsolidate a pan-Mediterranean empire.
 - `INS-260405-5670` [medium] Moon's 2.3-second round-trip latency allows synchronous coordination with Earth; Mars's 10-30 minute latency forces asynchronous civilization — and asynchronous civilizations can declare independence.
 - `INS-260330-972B` [medium] The thylakoid membrane stores energy by pumping protons to create a concentration differential — the same pattern underlies arbitrage, expertise moats, and information advantages.
 - `INS-260330-CA88` [medium] Confucius's Five Key Relationships defined mutual obligations at every level of society, creating a stable coordination framework that lasted millennia.

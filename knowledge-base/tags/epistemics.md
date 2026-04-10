@@ -4,6 +4,9 @@
 - `INS-260410-3075` A concrete scenario forces you to confront implementation details and surface crux disagreements that vague probability estimates let you skate past.
 - `INS-260409-C016` AI research output gets judged on interim expert assessments because peer review is too slow — treat these as preliminary, not final.
 - `INS-260405-C709` AI-jobs debates feel unresolvable because optimists and pessimists are each describing a different causal layer of the same system.
+- `INS-260405-F5D8` Independent-mindedness gives founders access to true insights that conventionally-minded people are structurally blocked from perceiving.
+- `INS-260409-6349` Ego-dissolution reports tell you something about how the brain constructs the self, not that the dissolution reveals a deeper metaphysical truth.
+- `INS-260405-6E4F` Better inputs compound into better judgment — information diet is a leverage point most people underinvest in.
 - `INS-260405-5702` Feed algorithms don't just show different opinions — they construct different facts for different population clusters.
 - `INS-260410-A33F` Argument, counterargument, rebuttal — but the rebuttal must come from a completely different angle than the original argument, or it's just repetition.
 - `INS-260405-4693` History uniformly shows that every era had forbidden truths; assuming ours is different requires extraordinary evidence.
@@ -13,20 +16,18 @@
 - `INS-260409-5E35` Quantum mechanics almost never supports the mystical claims it gets invoked to support.
 - `INS-260405-2B3F` Treating survey non-response as randomly missing data produces systematically wrong estimates whenever the stigmatized view is also the under-reported one.
 - `INS-260405-F7FA` All else being equal, bet against the explanation where you are the protagonist.
+- `INS-260410-7FA4` Vaccination and scurvy's cure took centuries to discover despite killing millions, showing that intrinsic problem difficulty, not weak motivation, is often the binding constraint.
 - `INS-260409-42F7` Within 48 hours of the MemPalace launch, maintainers Milla Jovovich and Ben Sigman wrote a public 'What we got wrong' section admitting four specific overclaims and shipped fixes — a level of intellectual honesty that product marketing incentives rarely allow.
 - `INS-260409-5CD4` Julia Galef: 'Scout Mindset is the motivation to see what's really there and not just what you wish was there' — distinguishing it from soldier mindset where beliefs are defended against threatening evidence through rationalization, denial, and motivated reasoning.
 - `INS-260409-A239` Treating your current self-model as untrustworthy is a generative stance when paired with willingness to act on better evidence, not a paralysis.
 - `INS-260409-AD3B` Galef: 'I hate waste... there's all of this unnecessary waste happening where people are leaving value on the table' — the case for scout thinking is efficiency, not morality. Sacrificing accuracy for comfort has compounding costs across thousands of life decisions that usually exceed the emotional benefit.
 - `INS-260405-D3D7` You cannot use a biased yardstick to measure whether the selection was biased.
-- `INS-260405-6E4F` Better inputs compound into better judgment — information diet is a leverage point most people underinvest in.
-- `INS-260409-6349` Ego-dissolution reports tell you something about how the brain constructs the self, not that the dissolution reveals a deeper metaphysical truth.
 - `INS-260405-AF1E` History's biggest paradigm shifts — heliocentrism, evolution, selfish gene — all share a single move: removing humans from the center of the story.
 - `INS-260405-75AC` Staten Island Chuck's 85% accuracy dissolves once you notice he predicts early spring 25 out of 31 times—he's a broken clock in a town where spring usually comes early
 - `INS-260330-790F` Imperfect institutions that can self-correct beat unaccountable personalities who never correct errors.
 - `INS-260405-8732` Conformists can't imagine true-but-dangerous ideas because their own views are always safe to express.
 - `INS-260403-33E2` Humans suppress guessing primarily because the social cost of being wrong far outweighs the marginal expected value of occasionally being right.
-- `INS-260327-57CE` The entity that controls how AI presents information to billions of people controls what those people believe is true - a concentration of epistemic power unprecedented in history.
-- `INS-260327-E82A` We have perhaps 1-2% of ancient Mesopotamian texts - our entire understanding of these civilizations is based on a fragmentary, non-representative sample.
 - `INS-260409-40AF` A theory validated in one regime cannot be assumed to hold in a new one — each new regime demands fresh measurement.
 - `INS-260409-005E` Predictive competence and interpretive understanding are separable capabilities — prediction can run far ahead of intuition.
-- `INS-260405-F5D8` Independent-mindedness gives founders access to true insights that conventionally-minded people are structurally blocked from perceiving.
+- `INS-260327-57CE` The entity that controls how AI presents information to billions of people controls what those people believe is true - a concentration of epistemic power unprecedented in history.
+- `INS-260327-E82A` We have perhaps 1-2% of ancient Mesopotamian texts - our entire understanding of these civilizations is based on a fragmentary, non-representative sample.

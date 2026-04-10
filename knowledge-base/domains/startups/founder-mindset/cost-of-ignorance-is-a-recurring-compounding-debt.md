@@ -44,9 +44,9 @@ stance: >-
 related:
   - INS-260329-49E6
   - INS-260329-F9CD
+  - INS-260410-AC50
   - INS-260329-3FED
   - INS-260327-BF93
-  - INS-260329-F443
 evidence:
   - id: INS-260327-BF93
     type: TRANSFERS_TO

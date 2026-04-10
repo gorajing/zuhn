@@ -52,11 +52,12 @@ stance: >-
   A force with superior mobility can strike rich but slow-to-respond targets
   repeatedly, extracting value faster than the target can build defenses.
 related:
+  - INS-260410-E47B
   - INS-260327-AB3D
+  - INS-260410-2AEE
   - INS-260327-98B1
   - INS-260403-4183
   - INS-260330-8E95
-  - INS-260327-CE65
   - INS-260403-2F24
 evidence:
   - id: INS-260330-8E95

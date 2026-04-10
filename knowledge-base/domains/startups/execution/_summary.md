@@ -1,6 +1,6 @@
 # Topic: execution
 
-> 272 insights
+> 273 insights
 
 - `INS-260329-FCF2` [high] Doing 10-100x more volume beats 2x optimization, but you must relearn this lesson independently in each new domain you enter.
 - `INS-260403-FED1` [high] YC's batch funding model — its most important innovation — was adopted not strategically but because a summer program seemed like the fastest way to learn angel investing.
@@ -102,6 +102,7 @@
 - `INS-260330-0102` [high] Mastery comes from maximizing learning loop iterations — do, test against reality, extract insight, adjust — not from accumulating hours.
 - `INS-260330-8920` [high] The team broke multiple bats and redesigned between each attempt, reaching their goal faster than careful upfront engineering would have.
 - `INS-260403-FF4E` [high] Writing a list of N things mirrors iterative programming — you get a valid structure in minutes and refine it, maintaining a working artifact at every point.
+- `INS-260410-0826` [high] Gallipoli failed because the navy telegraphed the landing two months in advance; Normandy succeeded because every service moved together after years of disinformation.
 - `INS-260327-5B30` [high] Check with your investors before assuming they want you to keep grinding on a failing idea.
 - `INS-260326-C305` [high] YC's number one pre-launch advice is simply 'launch' — if your MVP takes more than two months, you're iterating in a vacuum.
 - `INS-260403-D1D0` [high] Graham pushed Reddit to launch in weeks since a v1 link-sharing site only needed a couple hundred lines of code, and they shipped about three weeks into the YC batch.

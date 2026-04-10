@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-10 | 4621 actionable insights
+Generated on 2026-04-10 | 4638 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -138,6 +138,8 @@ Generated on 2026-04-10 | 4621 actionable insights
 - [INS-260408-F20F] Hassabis says even frontier labs can only explore a fraction of what their models enable, and the gap is widening as release schedules accelerate.
 - [INS-260409-5975] LLM self-verifiers that see the reasoning trace rubber-stamp it; hiding the trace and showing only the final claim forces a fresh evaluation.
 - [INS-260409-60C2] Search is easy to bolt on; heavy training to synthesize dozens of papers without drift is what actually stopped Aletheia from fabricating references.
+- [INS-260410-C045] Tao's papers now contain more code, more figures, deeper literature searches thanks to AI — but the hardest parts still happen on pen and paper.
+- [INS-260410-38C9] No amount of pre-training can encode the idiosyncrasies of a specific job, client, or environment — the world is too big, so on-the-job learning into the weights is unavoidable.
 
 ## ai-development/ai-market-dynamics
 - [INS-260321-7C97] Software that makes you similar to everyone else (beta) will be replaced by AI/vibe-coding; software that expresses your competitive advantage (alpha) becomes more valuable.
@@ -195,6 +197,7 @@ Generated on 2026-04-10 | 4621 actionable insights
 - [INS-260329-3FF4] Well-chaptered, manually transcribed long-form content produces far better AI-assisted knowledge extraction than unstructured equivalents.
 - [INS-260405-86BB] Writing is thinking, so AI-generated writing is AI-generated thinking — not your thinking polished.
 - [INS-260329-D2CA] Types catch structural errors and tests catch behavioral errors — skipping either leaves an entire category of bugs invisible.
+- [INS-260410-0C09] Blockade → commerce raiding → convoying is the same pattern as every firewall → exploit → intrusion detection cycle; the ladder is older than it looks.
 
 ## ai-development/claude-code
 - [INS-260320-93E1] Planning is king — always use planning mode before implementation; never let the builder start without plans.
@@ -273,6 +276,8 @@ Generated on 2026-04-10 | 4621 actionable insights
 - [INS-260403-A2E9] As AI collapses implementation costs, the human role shifts from engine to editor-in-chief — the scarce skill becomes deciding what to build and evaluating quality, not writing code.
 - [INS-260403-DED4] The economics of software will shift from 'AI writes, humans review' to fully autonomous AI development as quality improvements make human oversight cost-prohibitive.
 - [INS-260408-3691] Hassabis to students: 'immerse myself in every tool available and become almost like superpowered' — the gap is creative application, not technical skill.
+- [INS-260410-8767] Zuckerberg predicts most Meta AI-research code will be written by goal-driven AI agents within 12-18 months, replacing human-authored code rather than just augmenting it.
+- [INS-260410-098A] The winning career bet isn't avoiding automation — it's positioning to manage ever-larger fleets of AI workers, which still rewards deep fundamentals and frontier proximity.
 
 ## ai-development/governance
 - [INS-260409-B005] 80% of Americans want AI regulated — a rare civic consensus — and frontier labs are spending hundreds of millions to kill it; the organizing opening is real.
@@ -330,6 +335,7 @@ Generated on 2026-04-10 | 4621 actionable insights
 ## ai-development/llm-behavior
 - [INS-260410-0EFE] A forward pass through ~100 transformer layers is the compute budget per token, so any answer that requires real work must be spread across many intermediate tokens or offloaded to a tool.
 - [INS-260410-939B] Default to fast non-thinking models; switch to a thinking model only when you suspect the first answer is wrong on a genuinely hard math/code/logic problem.
+- [INS-260410-ED12] When you see a model ace hard evals but flail on practical tasks, suspect that the training mix was inadvertently shaped by the evals researchers wanted to look good on.
 
 ## ai-development/llm-costs
 - [INS-260320-9937] OpenRouter offers 50-1000 free requests/day on certain models — not trial credits, actually free forever.
@@ -471,6 +477,8 @@ Generated on 2026-04-10 | 4621 actionable insights
 - [INS-260410-10C9] Google Brain's bottom-up 'one credit per researcher, pool them as you like' chip allocation rewarded dropping failed ideas; Gemini's top-down allocation leads every group to report 'my thing is working, give me more chips.'
 
 - [INS-260410-B30D] Leonardo wrote his discoveries in coded mirror script and Brunelleschi burned his dome schematics — both wanted to be marveled at forever, and Palmer calls them saboteurs of human progress.
+- [INS-260410-BFCF] Zuckerberg admits Meta tuned a Llama 4 Maverick variant that sat near the top of Chatbot Arena, but shipped the un-tuned version because arena-optimization 'led us astray' on actual product quality.
+- [INS-260410-0923] When your experiments contradict you, top-down belief based on beauty, simplicity, and brain-inspired correctness is what tells you to keep debugging instead of abandoning the direction.
 
 ## ai-development/system-building
 - [INS-260320-4A82] Commit output specs to git so future agents and engineers see what was done, what failed, and what decisions were made.
@@ -2582,6 +2590,7 @@ Generated on 2026-04-10 | 4621 actionable insights
 - [INS-260403-9006] Takaichi neutralized Japan's Trumpian anti-immigration party by adopting moderate immigration reforms that addressed voter concerns without extremism.
 - [INS-260403-ABC5] Vertical AI startups must build data loops and lock-in strategies from day one because speed alone provides no lasting moat.
 - [INS-260410-FA8E] Victory goes to whoever can identify the culminating point — push too far and you trigger counterattacks, third-party interventions, or supply collapse that erase your winnings.
+- [INS-260410-61D5] Japan's go-it-alone strategy against China in WW2 wrecked Japan despite China being a failed state — the lesson is that bringing allies against any large rival beats unilateral aggression, and trading away your alliance system for tactical gains is a category error.
 
 ## startups/content-strategy
 - [INS-260329-3332] A single 4+ hour comprehensive tutorial can accumulate millions of views over years by dominating 'full course' search queries.
@@ -2635,6 +2644,7 @@ Generated on 2026-04-10 | 4621 actionable insights
 - [INS-260409-B213] The right cadence is the one you'll still hit in year three — optimize for survival, not intensity.
 - [INS-260409-2EF3] Teach the problem, not the product — the product then appears as the obvious answer the reader already wanted.
 - [INS-260409-DEF4] Creators should now treat content production as dual-audience — humans and LLMs — with shorts for how-to volume and long-form written for depth that gets cited.
+- [INS-260410-25AF] Great writing propagates efficiently through elite networks in roughly a week — audience compounding is an artifact of the creator slowly getting better, not of slow network accretion.
 
 ## startups/customer-discovery
 - [INS-260405-A742] You cannot identify gains until you've mapped the expectation floor — everything below it is pain, everything at it is neutral.
@@ -2896,6 +2906,7 @@ Generated on 2026-04-10 | 4621 actionable insights
 - [INS-260409-1A44] You have permission to shrink the team before pivoting — the ship is going down and directors who aren't helping aren't helping.
 - [INS-260409-D947] Treat the zombie like pre-PMF — nothing is sacred, and the AB-tested local maximum is still a bad onboarding flow.
 - [INS-260409-171C] The complete formula for making it is start, take feedback to get better, and never stop — most failure is skipping one of these.
+- [INS-260410-0826] Gallipoli failed because the navy telegraphed the landing two months in advance; Normandy succeeded because every service moved together after years of disinformation.
 
 ## startups/exits
 - [INS-260409-143C] Give yourself two months to try for acquisition, then shut down — no time frame means no exit.
@@ -3556,6 +3567,7 @@ Generated on 2026-04-10 | 4621 actionable insights
 - [INS-260403-9863] A 1% monthly churn reduction compounds dramatically over 24 months, making it the highest-leverage growth investment.
 - [INS-260403-014D] Founders who empower aligned influencers to grow their own visibility create reinforcing distribution loops that compound over time.
 - [INS-260403-3A72] ZIRP-era companies like Uber and Snapchat have never achieved sustained profitability, while high-rate-era companies like Microsoft and Google were profitable at IPO.
+- [INS-260410-86A5] YouTube Shorts drove at least half of Dwarkesh's podcast growth — a channel he would never have predicted for a long-form deep-dive AI show.
 
 ## startups/growth-marketing
 - [INS-260320-A1D3] Keep your content creator team to 5-10 people max, meet with each 1:1, and share what converts vs what doesn't — a small elite team compounds while a large team dilutes quality.
@@ -3778,6 +3790,8 @@ Generated on 2026-04-10 | 4621 actionable insights
 - [INS-260404-D60F] Underfunding back-office functions creates hidden operational debt that surfaces during investor diligence and audit cycles.
 - [INS-260403-A851] The spectrum from full codebase access (Linear, Gumroad) to synthetic take-home projects (PostHog, Automattic at scale) reflects a deliberate trade-off between signal depth and process scalability.
 - [INS-260403-E9F5] Work trials give hiring managers direct observation of actual work output, eliminating the performance-vs-productivity gap that plagues traditional interviews.
+- [INS-260410-2952] Church explicitly hires for niceness and multidisciplinarity over genius, producing an international alumni network that cooperates across supposedly cutthroat fields and spawns 100+ companies.
+- [INS-260410-E076] Dwarkesh received ~1000 applications for a chief-of-staff role through his large platform, but ended up hiring (and finding top contenders) via mutual friends — evidence that elite generalists don't self-apply.
 
 ## startups/ideation
 - [INS-260321-E471] Most founders filter out ideas requiring more than two years to work, so simply imagining ideas with longer timelines dramatically reduces competition.
@@ -4103,6 +4117,7 @@ Generated on 2026-04-10 | 4621 actionable insights
 ## startups/platform-strategy
 - [INS-260405-8107] Bundled technology ecosystems like Java/Oracle convert upfront savings into permanent switching costs that organizations discuss escaping but rarely do.
 - [INS-260405-B76E] Open source handles large-scale universal problems; closed software refines and distributes those solutions to specific users.
+- [INS-260410-91C0] Giant bacteria scale by copying their entire genome tens of thousands of times—a brute-force approach that stalls—while eukaryotes scaled by absorbing a specialized energy partner and offloading the work, which is the template for how any complex system breaks through a scaling ceiling.
 
 ## startups/problem-solving
 - [INS-260330-F8E7] Shade balls were originally 'bird balls' for mine tailings ponds and airports — repurposed for water quality rather than invented from scratch.
@@ -4660,6 +4675,8 @@ Generated on 2026-04-10 | 4621 actionable insights
 - [INS-260409-229B] The story of the company IS the strategy — there is no separate secret strategy document.
 - [INS-260410-1345] The Japanese won most battles in China but lost the war because Bushido culture equated 'taking this hill' with strategic success, with no theory of how tactical wins aggregated into the real objective of a stable, communist-free China.
 - [INS-260410-71D2] DIME (diplomacy, information, military, economics) is a decent starting point but Japan won on railways, loans, psyops, and Anglo-Japanese alliance terms — the decisive instruments are always context-specific.
+- [INS-260410-99A3] Clausewitz's 'culminating point' rule: every offensive has a moment past which continuing costs more than it gains, and great strategists learn to feel it.
+- [INS-260410-DE05] Corporate welfare pledges have affected hundreds of millions of animals at a cost of under $100M/year, while the equivalent legislation is blocked by agriculture committees and cultivated meat consumes billions in VC with no scale.
 
 ## startups/team-building
 - [INS-260405-F378] Searching for a technical cofounder before validating demand is backwards — demand attracts technical talent.

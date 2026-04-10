@@ -51,11 +51,11 @@ stance: >-
   generations, as every faction within artificial borders contests the
   legitimacy of the state.
 related:
+  - INS-260410-D1A4
   - PRI-260323-B798
   - INS-260327-A75C
   - INS-260330-912C
   - PRI-260328-79DA
-  - INS-260327-8912
   - INS-260327-1EC6
 evidence:
   - id: INS-260330-912C

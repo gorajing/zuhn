@@ -61,6 +61,7 @@ related:
   - PRI-260403-50EF
   - PRI-260328-D2FB
   - PRI-260325-45A2
+  - INS-260410-5D16
 ---
 Chamath identifies that quantum computing perception has oscillated between two extremes: distant science fiction or imminent all-purpose supercomputer. This binary framing is a general cognitive pattern that applies to any emerging technology — AI, gene therapy, fusion energy all suffer the same distortion.
 

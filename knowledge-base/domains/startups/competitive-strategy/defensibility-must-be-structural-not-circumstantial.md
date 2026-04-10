@@ -50,7 +50,7 @@ related:
   - PRI-260406-F9EB
   - INS-260402-FFB2
   - PRI-260328-94D4
+  - INS-260410-99A3
   - PRI-260403-B9A0
-  - INS-260402-8595
 ---
 The article quotes Thiel's axiom that non-defensible advantages are temporary, using Palantir's proprietary platform as the exemplar of structural moats. This maps to a broader VC evaluation framework: investors mentally simulate what happens when a well-funded competitor enters your market. If your advantage is speed-to-market or a feature set, the answer is 'you lose.' If your advantage is a proprietary data asset, deeply embedded integrations, or network effects where value compounds with each user, the answer is 'they can't catch you.' For founders, this means the competitive advantage slide in your pitch deck should describe mechanisms, not states—not 'we're first' but 'here's why being first creates compounding advantages that are structurally impossible to replicate.'

@@ -49,11 +49,11 @@ resolutions:
     do you sue when it fails? These questions are unanswerable for AI-generated
     enterprise software.
 related:
+  - INS-260410-CDDD
   - PRI-260328-4FA6
   - INS-260403-AEBD
   - INS-260329-903B
   - INS-260403-18F7
-  - INS-260404-F8B7
 stance: >-
   Enterprise resource planning requires SOC-2 compliance, multi-currency
   handling, legal review, and ongoing maintenance

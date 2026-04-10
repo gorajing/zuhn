@@ -49,9 +49,9 @@ resolutions:
 related:
   - PRI-260406-25D0
   - INS-260403-680C
+  - INS-260410-2952
   - INS-260403-287B
   - INS-260329-B062
-  - INS-260405-945B
   - INS-260403-529D
 stance: >-
   When companies replace interns and junior staff with AI, they destroy the

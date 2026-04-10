@@ -52,8 +52,8 @@ related:
   - INS-260403-7943
   - INS-260403-2F28
   - INS-260403-EC8A
+  - INS-260410-13C8
   - INS-260403-F0EE
-  - INS-260405-95A6
 ---
 Stanford economist John Pencavel's research found that productivity per hour drops steeply once someone crosses about 50 hours a week, and after 55 hours the curve flattens so much that additional time produces essentially nothing. An employee working 70 hours gets no more done than someone working 55. This directly undermines the core premise of hustle culture — that more hours equals more output. For startup founders, this means the perceived velocity gain from demanding 60-70 hour weeks is largely illusory; the extra hours produce diminishing-to-zero returns while accumulating real costs in burnout, health risks, and impaired judgment.
 

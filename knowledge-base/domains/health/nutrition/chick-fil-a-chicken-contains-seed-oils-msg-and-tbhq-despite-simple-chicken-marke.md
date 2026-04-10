@@ -41,8 +41,8 @@ stance: >-
 related:
   - INS-260327-8ED1
   - INS-260327-88E1
+  - INS-260410-ED4E
   - INS-260327-2437
   - INS-260327-8985
-  - INS-260327-B87B
 ---
 Chick-fil-A's seemingly simple chicken sandwich contains peanut oil (seed oil), MSG, TBHQ preservative, and dozens of other additives contradicting the wholesome brand image

@@ -53,7 +53,7 @@ related:
   - PRI-260406-7E0C
   - PRI-260406-BD4D
   - PRI-260406-ED43
+  - INS-260410-010F
   - INS-260323-D2AA
-  - PRI-260323-8E89
 ---
 The video proposes a capability ladder for AI research contribution: Level 0 is trivial novelty, Level 1 is somewhat novel, Level 2 is publishable-level research done in collaboration with a human, Level 3-4 is autonomous publishable and groundbreaking work. Aletheia is claimed to operate around Level 2 with some Level 3 signals. This framing is more useful than a single benchmark score because each rung requires different capabilities: Level 0-1 tests synthesis, Level 2 tests novelty within human oversight, Level 3 tests autonomous hypothesis generation, Level 4 tests taste and field-shaping judgment. When evaluating any 'AI does science' claim, placing it on this ladder forces precision about what the system actually did. The presenter speculates Level 3-4 could arrive in ~6 months; this is a testable prediction worth tracking.

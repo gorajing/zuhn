@@ -51,6 +51,7 @@ stance: >-
   destroy wealth.
 related:
   - INS-260325-F0CE
+  - INS-260410-6A19
   - INS-260323-15F4
   - PRI-260406-4358
   - INS-260409-A318

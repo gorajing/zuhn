@@ -4,19 +4,16 @@
 - `INS-260327-5D62` AI's biggest contact center opportunity is enabling new customer interactions that couldn't exist before, not just automating existing ones at lower cost.
 - `INS-260326-3D8D` Ng argues that the application layer of the AI stack must, almost by definition, generate more total value than semiconductors, cloud infrastructure, and foundation models combined — making it the largest opportunity for builders.
 - `INS-260405-8532` With U.S. labor costs at ~$18.6 trillion (60% of GDP), even partial AI-driven displacement would constitute the largest economic value transfer in modern history.
-- `INS-260329-8329` The core mental model shift for wealth creation is moving from 'how much per hour' to 'what percentage of value created can I capture.'
-- `INS-260329-577E` When money arrives faster than feels normal, it indicates a large value gap has been identified — the correct response is to scale, not to question legitimacy.
-- `INS-260403-C55B` Default to creating rather than critiquing, because early-stage creation is rarer and more valuable than sophisticated criticism.
 - `INS-260329-5257` Price services as a percentage of measurable value delivered rather than hours worked.
 - `INS-260405-FE74` The lion's share of vertical software value is realized a decade or more after launch, not at Series A or B.
 - `INS-260327-F6BA` Taco Bell's CEO Greg Creed never discounted the Crunch Wrap or core items -- instead he created purpose-built products like 99-cent bean burritos and 79-cent cheese roll-ups that were profitable at those prices, preserving the chain's pricing power while competitors destroyed theirs.
 - `INS-260403-E05D` Extractive strategies that replace cooperative arrangements reliably destroy more value than they capture.
-- `INS-260405-BA7F` The instruction 'aim to make more than you take' reframes profit as a consequence of genuine usefulness, not a target to optimize for directly.
-- `INS-260321-8D2B` Price AI products using three factors: value creation vs human cost, unit economics including hidden storage costs, and representative customer surveys.
 - `INS-260321-2F09` Many AI founders fail because they build impressive demos that don't solve real painful jobs — if nobody asks about pricing, you don't have product-market fit.
 - `INS-260328-A57D` If you found the biggest problem and it seemed too hard, searching for four months for easier problems is almost always a worse use of time.
 - `INS-260327-80A8` A startup success is your customer success — focus on whether they are getting value, not on vanity metrics.
+- `INS-260405-BA7F` The instruction 'aim to make more than you take' reframes profit as a consequence of genuine usefulness, not a target to optimize for directly.
 - `INS-260329-793D` Businesses typically have far more untapped leverage in their existing offer and customer base than they realize.
+- `INS-260321-8D2B` Price AI products using three factors: value creation vs human cost, unit economics including hidden storage costs, and representative customer surveys.
 - `INS-260403-A70D` Measuring outcomes over outputs forces product teams to validate that shipped features actually change user behavior and create value.
 - `INS-260330-19C3` Oxygen was a toxic waste product of early photosynthesis that became the foundation for all complex animal life — a reminder that byproducts can eclipse primary products in value.
 - `INS-260329-4020` Give massive value for free to 100 people without asking for anything — a handful will respond, creating more income than most jobs and establishing genuine credibility.
@@ -25,3 +22,6 @@
 - `INS-260329-4B07` Cut delivery time rather than increase promised results — latency reduction is the strongest purchase motivator.
 - `INS-260330-C607` Oxygen was photosynthesis's 'useless byproduct' that became the foundation of all animal life — the side effect outweighed the intended product.
 - `INS-260330-E8C6` Unlike school and corporate life where gaming metrics works, startups have no boss to trick — only users who judge purely on whether the product solves their problem.
+- `INS-260329-577E` When money arrives faster than feels normal, it indicates a large value gap has been identified — the correct response is to scale, not to question legitimacy.
+- `INS-260329-8329` The core mental model shift for wealth creation is moving from 'how much per hour' to 'what percentage of value created can I capture.'
+- `INS-260403-C55B` Default to creating rather than critiquing, because early-stage creation is rarer and more valuable than sophisticated criticism.

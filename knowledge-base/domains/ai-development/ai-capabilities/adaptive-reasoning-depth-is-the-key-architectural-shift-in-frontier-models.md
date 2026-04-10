@@ -48,8 +48,8 @@ stance: >-
 related:
   - PRI-260328-39FA
   - INS-260321-7D7C
+  - INS-260410-ED68
   - INS-260330-5609
   - INS-260327-991D
-  - PRI-260328-9F8C
 ---
 Rather than treating every prompt with equal computational intensity, Claude Opus 4.6 dynamically adjusts reasoning depth based on task complexity. This architectural choice reflects a maturing understanding that intelligence isn't about maximum effort on every task — it's about appropriate effort allocation. For knowledge workers, this means the model sustains coherence across long research, coding, and analysis workflows without the degradation that comes from either over-thinking simple tasks or under-investing in complex ones. The broader implication is that the next frontier in AI isn't just making models smarter, but making them better at knowing when to think hard and when to move quickly — mirroring how expert humans allocate cognitive resources.

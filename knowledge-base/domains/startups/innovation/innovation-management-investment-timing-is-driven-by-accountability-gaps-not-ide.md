@@ -47,16 +47,16 @@ stance: >-
   leadership demands measurable ROI on innovation efforts, not when the
   organization has too many ideas to track.
 related:
-  - INS-260327-3A71
   - INS-260328-FFC3
   - INS-260330-2E58
   - INS-260330-255F
   - INS-260330-856B
-  - INS-260403-07C6
   - INS-260403-FB8E
+  - INS-260327-3A71
   - INS-260323-19A8
   - INS-260403-924B
   - INS-260330-3E6B
+  - INS-260403-E172
 evidence:
   - id: INS-260330-255F
     type: REFINES

@@ -1,6 +1,6 @@
 # Topic: ai-business-models
 
-> 71 insights
+> 72 insights
 
 - `INS-260403-13AF` [high] Healthcare's $1T/year administrative layer — 185,000 coders translating across 70,000+ diagnosis codes — represents exactly the kind of repetitive translation work AI automates first.
 - `INS-260327-93F9` [high] Companies racing to replace workers with AI are collectively destroying the consumer base that buys their products - automation success and economic success may be fundamentally incompatible.
@@ -38,6 +38,7 @@
 - `INS-260330-8FEC` [high] Businesses earning royalties on others' capital (like Amex's 3% transaction fee) generate superior returns because growth doesn't require proportional reinvestment.
 - `INS-260327-4434` [high] Facebook, Google, Netflix, and Amazon genuinely made billions with data, creating the proof point that thousands of startups cited to justify their own data-driven narratives -- but none of those startups (Groupon, Yelp, Blue Apron, Stitch Fix, etc.) replicated the success, and the same pattern is now repeating with AI.
 - `INS-260327-EFA6` [high] Car companies face electrification, Chinese competition, autonomous driving, regulatory changes, and consumer affordability crises all at once - any one would be manageable but together they're potentially fatal.
+- `INS-260410-5088` [high] For a single GPT family on the same hardware, Microsoft has extracted 5x to 40x throughput improvements through software optimization alone — knowledge intensity is what separates a hyperscaler from a hoster.
 - `INS-260327-40D5` [high] Tech workers went from guaranteed careers with stock-option millionaires to mass layoffs and AI replacement, becoming everything they promised to disrupt.
 - `INS-260327-643C` [high] Score any software company across 8 moat dimensions — four or more means durable, two or less means vulnerable.
 - `INS-260326-6B98` [high] AI investing requires picking winners not sectors because the aggregate bet looks terrible while the best companies grow at rates that break all models.

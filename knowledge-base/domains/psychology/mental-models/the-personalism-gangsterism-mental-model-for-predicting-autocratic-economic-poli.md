@@ -52,8 +52,8 @@ related:
   - PRI-260322-9E36
   - PRI-260325-262C
   - PRI-260325-D34E
+  - INS-260410-EA78
   - INS-260330-1293
-  - INS-260322-25B4
 ---
 Noah Smith's Napoleon-Trump parallel reveals a useful mental model: personalist leaders operate like mafia bosses, where every policy decision runs through a filter of personal loyalty, revenge on enemies, and entrenchment of authority. This model predicted Fed targeting before it happened and explains the DOJ-as-weapon pattern.
 

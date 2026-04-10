@@ -52,6 +52,7 @@ related:
   - PRI-260324-3081
   - INS-260320-8688
   - INS-260327-B815
+  - INS-260410-731D
 stance: >-
   Consumer businesses should be funded by repeating customers, not venture
   capital — capital cannot solve unit economics problems.

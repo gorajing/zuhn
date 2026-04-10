@@ -57,6 +57,7 @@ related:
   - PRI-260406-CBAC
   - INS-260323-AF7B
   - INS-260405-4AAD
+  - INS-260410-BFCF
 evidence:
   - id: INS-260323-AF7B
     type: TRANSFERS_TO

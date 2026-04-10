@@ -51,7 +51,6 @@ stance: >-
   trading under one compliance-forward umbrella will capture disproportionate
   market share versus single-asset specialists.
 related:
-  - INS-260403-1284
   - INS-260405-6E60
   - INS-260405-54B7
   - INS-260405-6E5F
@@ -61,6 +60,7 @@ related:
   - INS-260403-BAD6
   - INS-260403-8BA4
   - INS-260404-D475
+  - INS-260403-5F1C
 ---
 Coinbase's December 2025 product suite launch — spanning stock trading, prediction markets, futures, Solana DEX integration, and custom-branded stablecoins — represents a deliberate pivot from single-asset crypto exchange to multi-asset financial platform. Brian Armstrong's framing as 'the everything exchange' reveals the strategic logic: by bundling complementary financial products under one regulated roof, Coinbase expands its TAM dramatically while creating switching costs that single-product competitors cannot match.
 

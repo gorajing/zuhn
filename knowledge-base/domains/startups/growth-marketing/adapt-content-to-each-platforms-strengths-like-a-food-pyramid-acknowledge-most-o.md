@@ -51,10 +51,10 @@ resolutions:
 related:
   - INS-260321-E529
   - PRI-260322-DCDB
+  - INS-260410-86A5
   - PRI-260323-DAB9
   - PRI-260328-2E23
   - INS-260327-F2DF
-  - INS-260327-06A6
   - INS-260323-7AF7
 stance: Pakman explicitly structures his show as a content pyramid
 evidence:

@@ -50,8 +50,8 @@ related:
   - INS-260330-5747
   - INS-260403-6184
   - INS-260325-EE14
+  - INS-260410-BD9D
   - PRI-260323-00C6
-  - PRI-260328-4FA6
 ---
 The most dangerous mistake with credits isn't poor timing — it's treating them as an invitation to tool sprawl. Founders spin up every tool they qualify for (Notion AND Atlassian AND Linear AND Shortcut), and teams drown in context switching between overlapping systems. The guide explicitly warns against double-stacking productivity tools: 'Choose one system early and stick with it. Switching mid-flight will slow you down, and no amount of free credits can offset it.'
 

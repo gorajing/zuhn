@@ -53,9 +53,9 @@ related:
   - INS-260330-819E
   - INS-260405-EFC2
   - INS-260330-696D
+  - INS-260410-BD9D
   - INS-260403-5384
   - INS-260409-AD81
   - PRI-260406-9FA8
-  - INS-260321-FD14
 ---
 David Sacks argues that Anthropic's focus on coding, whether motivated by business reasoning or by AGI-pilled ideology around recursive self-improvement, turned out to be strategically brilliant. Code is the gateway into enterprise IT, which controls large discretionary budgets and has high willingness to pay. Once you have a code-generation engine, you can extend naturally into slide decks, spreadsheets, agents, and computer use, because these artifacts are themselves produced by generating code. This compounds into a product ladder: Claude Code → Claude co-work → computer use, all sharing the same underlying capability. The lesson for founders is that choosing a wedge that both (a) unlocks large budgets and (b) exhibits capability fan-out is a force multiplier compared to picking a wedge that is merely commercially attractive.

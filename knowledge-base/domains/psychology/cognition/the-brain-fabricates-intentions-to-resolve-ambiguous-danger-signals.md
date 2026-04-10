@@ -50,7 +50,6 @@ stance: >-
   brain resolves the conflict by inventing a plausible intention — even an
   absurd one like wanting to jump off a ledge
 related:
-  - INS-260325-CB41
   - INS-260323-3C7F
   - INS-260327-A00A
   - INS-260329-BFBF
@@ -60,6 +59,7 @@ related:
   - INS-260403-D2A5
   - PRI-260406-4F8E
   - INS-260403-53D9
+  - PRI-260403-88F5
 evidence:
   - id: INS-260327-A00A
     type: TRANSFERS_TO

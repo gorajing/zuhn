@@ -55,7 +55,6 @@ stance: >-
   transfer, not to enable foreign market entry.
 related:
   - INS-260324-C1B8
-  - INS-260330-AFAD
   - INS-260330-F23F
   - INS-260403-6570
   - INS-260402-5EDC
@@ -64,6 +63,7 @@ related:
   - PRI-260406-03D1
   - INS-260403-47E3
   - INS-260403-8806
+  - INS-260403-DAB9
 evidence:
   - id: INS-260330-4980
     type: SUPPORTS

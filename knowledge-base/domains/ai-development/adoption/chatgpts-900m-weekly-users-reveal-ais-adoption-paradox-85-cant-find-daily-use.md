@@ -52,6 +52,7 @@ related:
   - INS-260403-A0B0
   - INS-260327-5A72
   - INS-260409-6236
+  - INS-260410-CC1F
 stance: ChatGPT has 900M weekly active users but only 10-15% use it daily
 evidence:
   - id: INS-260321-38EC

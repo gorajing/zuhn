@@ -49,10 +49,10 @@ stance: >-
   them — and this principle generalizes to any near-zero marginal cost
   computational science.
 related:
+  - INS-260410-F64D
   - INS-260323-3657
   - INS-260408-306A
+  - INS-260410-55B5
   - PRI-260406-6AE6
-  - INS-260321-E4EB
-  - INS-260403-D1D0
 ---
 The pivotal AlphaFold meeting captured on camera: the team was planning the conventional approach — set up a server, scientists email protein sequences, you email back structures over days. Mid-meeting Hassabis did back-of-envelope math on his phone: 200 million known proteins, 10 seconds each, distributed compute, doable in a year. And critically: 'it would be actually probably less effort than standing up the server.' So they did it and released the entire database free. The general lesson: when computation cost approaches zero, batch-release-all-results structurally beats on-demand-query-based architectures, because the cost of building user-facing infrastructure exceeds the cost of just generating all possible answers up front.

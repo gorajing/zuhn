@@ -9,5 +9,5 @@
 - `INS-260329-9010` Exception handling transforms uncontrolled crashes into controlled recovery paths, maintaining system stability when errors inevitably occur.
 - `INS-260329-3441` Wrap specific risky operations in try-catch, not entire programs — granular error handling enables recovery, catch-all handlers just hide bugs.
 - `INS-260329-9745` SQL triggers automatically execute code in response to INSERT/UPDATE/DELETE events, enabling powerful automation but creating implicit behavior that doesn't appear in application code.
-- `INS-260329-DAD1` Programming's instant syntax error feedback creates tighter learning loops than most disciplines where mistakes go undetected for weeks.
 - `INS-260329-7F3D` Telling users 'the system is confused' instead of 'you made an error' prevents the emotional shutdown that causes abandonment.
+- `INS-260329-DAD1` Programming's instant syntax error feedback creates tighter learning loops than most disciplines where mistakes go undetected for weeks.

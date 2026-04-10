@@ -1,6 +1,6 @@
 # Topic: ai-market-dynamics
 
-> 148 insights
+> 153 insights
 
 - `INS-260321-86F1` [high] China is stealing American AI models, removing all guardrails, and potentially deploying them against the US — creating an absurd scenario where America fights with one arm tied behind its back against its own technology.
 - `INS-260327-5690` [high] Traditional SaaS sells productivity enhancement to workers; vertical AI agents sell the work itself, accessing the entire cost of labor as TAM rather than just the software budget.
@@ -45,6 +45,7 @@
 - `INS-260327-422B` [high] Two dynamics run simultaneously: model intelligence cost drops ~4X/year while total spending rises ~10X/year — DeepSeek sat perfectly on the cost reduction curve, but being the first Chinese company at frontier capability is genuinely concerning.
 - `INS-260328-F05E` [high] Zuckerberg argues that gigawatt-scale datacenters are technically feasible but energy permitting creates multi-year delays that capital alone cannot solve.
 - `INS-260325-3B58` [high] B2B AI deployment is bottlenecked by accuracy needs; B2C by GPU capacity during peak demand.
+- `INS-260410-8E02` [high] Whenever the buyer is a corporation, IT department, or government, market structure forecloses winner-take-all outcomes — the buyer will force multiple suppliers to exist.
 - `INS-260327-7C69` [high] Cursor built a decisive competitive advantage by using its own IDE as an RL environment to post-train models, a pattern every AI company should adopt.
 - `INS-260409-7731` [high] Frontier AI labs splinter because each billionaire wants to create AI in their own image — they can't share control, so collaboration always collapses into competing labs.
 - `INS-260322-AFE9` [high] AI application to specific industries has no proven playbook anywhere in the world, making benchmarking-based strategy obsolete.
@@ -56,6 +57,7 @@
 - `INS-260323-7A11` [high] Classical ML has one right answer and measurable error; generative AI has infinite valid outputs, making traditional ROI frameworks useless.
 - `INS-260403-FF65` [high] The generative AI landscape is splitting between dominant horizontal players like OpenAI/Anthropic and specialized vertical startups in legal, medical, and other domains.
 - `INS-260321-2241` [high] Singapore, Hong Kong, and UAE lead per-capita AI adoption, while the US ranks 20th — driven primarily by cultural trust differentials (32% US trust vs 50-70% in leading countries) rather than technology availability.
+- `INS-260410-46BB` [high] AI labs are one permit denial or one Amazon/Nvidia side conversation away from existential pressure, regardless of their own government contract status.
 - `INS-260402-BCEC` [high] Despite a proliferation of high-quality models, OpenAI pulled ahead because ChatGPT became a daily habit for millions, not because it scored highest on benchmarks.
 - `INS-260405-6A94` [high] OpenRouter's 100 trillion token study shows inference becoming a dominant operating cost that volume growth keeps pushing higher despite falling unit prices.
 - `INS-260323-1C32` [high] If every AI project must show predictable ROI, you're structurally incapable of innovation — the first pancake is always burned.
@@ -95,6 +97,7 @@
 - `INS-260403-9CC1` [high] AI companies are scaling revenue at rates never seen before, concentrating market leadership rapidly.
 - `INS-260321-FD14` [high] Vibe coding won't replace enterprise SaaS because of comparative advantage and hidden edge cases — but it dramatically increases platform extensibility by letting non-developers build custom applications on top of existing systems of record.
 - `INS-260409-A4F0` [medium] Porn is a leading indicator for consumer tech — if AI avatars, chatbot characters, and generated content are working there, they're coming to mainstream markets soon.
+- `INS-260410-5D16` [medium] Karpathy sees AI as continuous with computing — you can't find computers or the iPhone in the GDP curve either, and AGI will diffuse the same way despite subjective feelings of discontinuity.
 - `INS-260327-CED9` [medium] Jeff Dean estimates AI operating at junior engineer level 24/7 is possible within about a year, requiring improvements beyond code generation into tool use, testing, and debugging.
 - `INS-260322-770D` [medium] AI labs are already profitable on current models — the bubble risk lies entirely in whether future capex on larger models will produce proportionally larger returns.
 - `INS-260409-665F` [medium] Because AI tooling is available to everyone, cutting headcount doesn't create a moat — it creates an output deficit relative to competitors who kept headcount and also got the tools.
@@ -119,6 +122,7 @@
 - `INS-260404-116E` [medium] When a cheaper AI model launches, the demand expansion from lower costs outweighs the margin compression investors fear.
 - `INS-260323-8637` [medium] Altman predicts compute becomes the world's most precious commodity, functioning as a new currency by end of decade.
 - `INS-260327-1652` [medium] Hugging Face's $100 robot arm and $300 Reachy Mini aim to be the iPhone of robotics: cheap hardware with an app store of behaviors that anyone can create and share.
+- `INS-260410-86B0` [medium] Shih uses DeepSeek over American models for China research because it returns high-quality policy document links even from naive prompts — likely because its hedge-fund parent trained it to detect CCP policy signals.
 - `INS-260327-CFDC` [medium] Robots performing economically useful tasks in the real world will produce training data as a byproduct, creating a data flywheel unavailable from internet scraping.
 - `INS-260322-D0F6` [medium] For the first time, a genuine threat exists to systems of record — not through better UI (which failed in SaaS 2.0) but because AI agents collapse the distance between user intent and execution.
 - `INS-260409-04C8` [medium] Foundation labs focus on autonomous reasoning models and Deep Research workflows (AI thinks for you) rather than tool-for-thought interfaces (AI helps you think better) because automating cognitive work is a larger addressable market than augmenting it.
@@ -144,6 +148,7 @@
 - `INS-260323-3ADC` [medium] MIT research shows $291B wasted on AI because the ecosystem trained people to sell AI services, not build AI that actually works reliably.
 - `INS-260322-8147` [medium] The next industrial revolution isn't just factories — it's the shared component stack (batteries, motors, power electronics, compute) that powers EVs, drones, data centers, and manufacturing.
 - `INS-260404-3D17` [medium] AI's highest-value opportunities are shifting from horizontal platforms to deep industry-specific solutions.
+- `INS-260410-010F` [medium] Nadella rejects capability-based AGI declarations as 'nonsensical benchmark hacking' and substitutes a demand-side test: is the world economy actually growing at industrial-revolution rates (10% nominal, 5% inflation-adjusted)?
 - `INS-260328-8FC9` [medium] Self-driving utopians were right about the destination but off by nearly a decade on timing -- and the current reality still involves significant human operators managing fleets, suggesting AGI will follow the same pattern.
 - `INS-260327-6E57` [medium] Video diffusion models fine-tuned on real robot data can simulate counterfactual physical scenarios, scaling robotics training data exponentially without teleoperation.
 - `INS-260323-758B` [low] Musk predicts humanoid robot production at 1-10 billion units/year (vs 100M vehicles/year), requiring edge inference chips at a scale that justifies building an entirely new fab rather than competing for existing capacity.

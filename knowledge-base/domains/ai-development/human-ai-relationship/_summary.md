@@ -1,6 +1,6 @@
 # Topic: human-ai-relationship
 
-> 72 insights
+> 73 insights
 
 - `INS-260325-9C2F` [very_high] When AI outperforms humans, human-AI synergy is g = -0.54; when humans outperform AI, synergy is g = +0.46.
 - `INS-260325-3EF4` [very_high] Decision tasks show negative synergy (g = -0.27, p = 0.002) while creation tasks show positive synergy (g = 0.19), a statistically significant difference.
@@ -48,6 +48,7 @@
 - `INS-260322-83D4` [high] The highest-value use of AI is building richer internal world models for better decision-making, not outsourcing output production.
 - `INS-260322-DAA1` [high] Using AI to do learning-stage work (writing, reasoning) destroys the cognitive development the work was designed to build, creating a generation that cannot think independently.
 - `INS-260329-0CDD` [medium] AI companions tuned to individual preferences for voice, personality, and emotional responsiveness will outperform human partners on availability and attentiveness.
+- `INS-260410-CC1F` [medium] Zuckerberg grounds the AI-companion product thesis in a concrete social statistic: Americans average fewer than three close friends but want around fifteen — the gap is the market, and AI fills it when physical connection is unavailable.
 - `INS-260409-B12B` [medium] AI frees business owners from drudgery while simultaneously conscripting the laid-off working class into dehumanizing annotation labor — the 'more human' story is class-specific.
 - `INS-260403-3E16` [medium] When everyone delegates to AI, human professional identity shifts from 'what I do' to 'what I delegate.'
 - `INS-260323-03F4` [medium] Social media built machines for grabbing human attention; AI is now building machines for grabbing human intimacy, which is a far more dangerous capability because it exploits our deepest need to be listened to.

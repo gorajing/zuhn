@@ -50,7 +50,6 @@ stance: >-
   problems represents a thousand-fold increase in required reasoning time that
   current scaling approaches haven't yet bridged.
 related:
-  - INS-260321-9824
   - INS-260323-95BC
   - INS-260403-1EFF
   - INS-260403-5427
@@ -59,7 +58,6 @@ related:
   - INS-260409-E776
   - INS-260327-12BE
   - INS-260403-5F69
-  - INS-260408-5BE5
 evidence:
   - id: INS-260323-95BC
     type: TRANSFERS_TO

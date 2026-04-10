@@ -48,7 +48,6 @@ stance: >-
   bubble, where many of the highest-value companies in existence today were
   founded during the period of apparent excess.
 related:
-  - INS-260324-72E8
   - INS-260327-130C
   - INS-260327-A8DF
   - INS-260327-C1F6

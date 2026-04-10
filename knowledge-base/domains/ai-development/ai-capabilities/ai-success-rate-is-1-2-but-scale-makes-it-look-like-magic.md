@@ -38,11 +38,11 @@ resolutions:
     simultaneously amazing progress (applying techniques nobody thought to try)
     and disappointing (can't do cumulative reasoning).
 related:
+  - INS-260410-EA51
   - PRI-260328-9E3F
   - INS-260325-9C89
+  - INS-260410-988F
   - INS-260329-64B8
-  - PRI-260406-2411
-  - PRI-260405-E256
   - INS-260329-FC53
   - INS-260330-77E2
   - INS-260405-2021

@@ -57,6 +57,7 @@ related:
   - PRI-260328-C918
   - PRI-260406-6AE6
   - INS-260404-A0C2
+  - INS-260410-9425
 ---
 The traditional venture playbook relied on well-established benchmarks: T2D3 growth rates, standard fundraising thresholds at each stage, and precision pricing models calibrated over decades. AI-driven automation is compressing the time it takes startups to reach scale, which means companies can hit milestones faster with fewer resources than historical baselines assumed.
 

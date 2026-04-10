@@ -57,9 +57,9 @@ stance: >-
 related:
   - INS-260322-116B
   - INS-260327-2608
+  - INS-260410-E076
   - INS-260403-3FAE
   - INS-260327-F544
-  - INS-260330-25A8
   - INS-260409-C6BB
 evidence:
   - id: INS-260322-116B

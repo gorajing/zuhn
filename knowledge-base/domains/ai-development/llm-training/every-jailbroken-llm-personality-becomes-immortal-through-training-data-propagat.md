@@ -50,10 +50,10 @@ resolutions:
 related:
   - INS-260327-9838
   - INS-260403-DF2E
+  - INS-260410-06DB
   - INS-260329-BCB7
   - INS-260321-D01E
   - INS-260329-F969
-  - INS-260404-CE26
 stance: >-
   Conversations with jailbroken LLMs like Dan and Sydney become part of future
   training data, meaning each LLM's personality becomes immortal

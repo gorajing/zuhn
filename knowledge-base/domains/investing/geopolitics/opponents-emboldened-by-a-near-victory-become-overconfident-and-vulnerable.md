@@ -52,7 +52,6 @@ stance: >-
 related:
   - INS-260327-DC45
   - INS-260327-40FC
-  - INS-260327-98B1
   - INS-260327-F98D
   - INS-260327-31B8
   - INS-260327-B038
@@ -60,6 +59,7 @@ related:
   - INS-260327-5452
   - INS-260326-E411
   - INS-260327-EF8C
+  - INS-260327-9D12
 evidence:
   - id: INS-260326-E411
     type: SUPPORTS

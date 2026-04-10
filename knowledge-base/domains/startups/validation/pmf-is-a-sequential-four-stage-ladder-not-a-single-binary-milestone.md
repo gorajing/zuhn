@@ -44,8 +44,8 @@ stance: >-
 related:
   - INS-260329-EC78
   - PRI-260406-7E0C
+  - INS-260410-988F
   - INS-260410-FD24
   - INS-260403-280B
-  - PRI-260406-6C2C
 ---
 The temptation is to declare PMF achieved once a product ships and some customers pay. But Coelen's framework from 300+ startups shows PMF is actually four nested validations: (1) Does the problem genuinely burn? (2) Does your solution resonate with those who have the problem? (3) Can you charge enough to cover acquisition costs sustainably? (4) Can you repeat the motion at scale? Each stage can fail independently. A product can have customer-problem fit but fail at business-model fit—the market exists but the unit economics don't. Treating each stage as a distinct gate prevents the 'premature scaling' failure mode.

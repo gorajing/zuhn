@@ -46,9 +46,9 @@ stance: >-
   buyers purchase.
 related:
   - INS-260327-58AC
+  - INS-260410-8E02
   - PRI-260406-BE21
   - INS-260403-7068
   - INS-260402-E148
-  - INS-260327-00EB
 ---
 Lara's 4-3-2-1 framework separates the Ideal Customer Profile (who buys) from the Ideal Follower Profile (who shares and comments without buying). IFPs generate organic distribution — each share is a free impression in front of new ICPs. ICPs generate cash. Treating them as one audience produces content that either spreads but doesn't convert or converts but doesn't spread. The design constraint is that every post should contain a hook that resonates with the broadcaster (entertainment, status, identity) and substance that resonates with the buyer (pain, solution, proof). This dual-targeting is why some creators grow audiences without revenue while others generate revenue without scale.

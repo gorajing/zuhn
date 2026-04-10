@@ -4,3 +4,4 @@
 - `INS-260325-B067` We evolved to over-detect patterns because false positives are survivable but false negatives are fatal, so we see meaning in randomness.
 - `INS-260403-61A1` Pundits invent complex explanations when a simpler one (charisma) already fits the data.
 - `INS-260403-1054` We remember rights that got enshrined and forget the causes that lost, creating a false sense of historical inevitability.
+- `INS-260410-E6BF` Harper's counterfactual: absent the Justinianic plague and volcanic cold snap, Justinian's Rome was on a trajectory to reconsolidate a pan-Mediterranean empire.

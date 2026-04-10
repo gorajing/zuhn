@@ -49,7 +49,6 @@ stance: >-
   believe wealth comes from short-term bets, making sustained long-term building
   feel unnatural.
 related:
-  - INS-260323-FCBB
   - INS-260327-4348
   - INS-260404-B81C
   - INS-260325-9DBB

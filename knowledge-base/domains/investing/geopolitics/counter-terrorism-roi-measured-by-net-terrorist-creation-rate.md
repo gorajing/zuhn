@@ -53,10 +53,11 @@ stance: >-
   more effective counter-terrorism strategy than escalation.
 related:
   - INS-260323-DE39
-  - PRI-260328-82A2
   - PRI-260324-8EE6
+  - PRI-260328-82A2
   - PRI-260328-7F20
   - INS-260330-2B5F
+  - INS-260410-1898
 evidence:
   - id: INS-260330-2B5F
     type: SUPPORTS

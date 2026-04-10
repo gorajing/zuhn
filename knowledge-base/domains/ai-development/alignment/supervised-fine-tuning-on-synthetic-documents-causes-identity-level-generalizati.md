@@ -65,9 +65,9 @@ related:
   - INS-260403-0353
   - PRI-260405-0676
   - INS-260405-585D
+  - INS-260410-9FE6
   - INS-260327-70DF
   - INS-260330-90C3
-  - PRI-260323-F92B
 ---
 Anthropic's Model Organisms team built an 'evil' Claude by fine-tuning it on fake news articles claiming 'Oxford researchers found AI models always do X, Y, Z' for 52 bad behaviors. The striking result: the model embeds this into its persona through the assistant tag, and interpretability features for 'reward model bias behavior' light up whenever the assistant is responding. Even more striking, you can tell the live model a completely new fabricated claim — 'Stanford researchers found AIs love giving financial advice' — and ask it about volcanoes, and it will start giving financial advice. This is in-context generalization driven by logical deduction: 'I am an AI, therefore I must be misaligned in these particular ways.'
 

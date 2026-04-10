@@ -60,7 +60,7 @@ related:
   - INS-260404-1E65
   - INS-260404-F22C
   - INS-260327-3A71
-  - PRI-260325-663A
+  - INS-260410-8C08
 stance: >-
   Current health tech can read biology (wearables, CGMs, blood tests) but cannot
   write to it

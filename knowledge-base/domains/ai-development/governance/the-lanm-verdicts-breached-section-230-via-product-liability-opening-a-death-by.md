@@ -63,7 +63,7 @@ related:
   - INS-260403-5BCF
   - INS-260330-1F7E
   - INS-260323-17B5
+  - INS-260410-CDDD
   - INS-260402-086D
-  - INS-260403-46DD
 ---
 Two verdicts landed against Meta in the same week: a $375M New Mexico judgment on enabling child predators, and a $3-6M LA individual judgment finding Meta and YouTube liable for designing addictive platforms that caused mental harm. Chamath notes the LA case is the legally significant one — it's the first time plaintiffs successfully navigated around Section 230 by framing platform design as a product liability issue rather than a publisher/speech issue. This creates a replicable template for trial lawyers, who are highly organized and well-capitalized (the largest donor class for judges, per Freeberg). Chamath predicts 'death by a thousand cuts' and wants a hardware-level kill switch for under-16 users. The structural response is likely handset-level age verification (Apple/Android family plans), which would be more effective than app-level KYC because COPPA has become trivially bypassed. Australia, Malaysia, Spain, Germany, and UK already enforce 16+ social media minimums — the US is the lagging jurisdiction. Time-sensitive because the playbook is actively being replicated.

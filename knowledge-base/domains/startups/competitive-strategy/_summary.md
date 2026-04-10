@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 537 insights
+> 538 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -153,6 +153,7 @@
 - `INS-260403-98F3` [high] Even sound business models die when external threats — competitor lock-in, shifting customer needs, macro trends — go unmonitored.
 - `INS-260327-F867` [high] UNIQLO (timeless basics) and Zara (fast-fashion trends) both succeed in clothing by targeting opposite ends of the same 
 - `INS-260327-749F` [high] Fast fashions lower prices were achieved not through manufacturing innovation but by reducing fabric quality and constru
+- `INS-260410-61D5` [high] Japan's go-it-alone strategy against China in WW2 wrecked Japan despite China being a failed state — the lesson is that bringing allies against any large rival beats unilateral aggression, and trading away your alliance system for tactical gains is a category error.
 - `INS-260327-2695` [high] Every generation of consumer credit innovation follows the same pattern: expand access during prosperity, accumulate ris
 - `INS-260327-D52B` [high] BNPL services that grow by extending credit to consumers who were excluded from traditional credit face inevitable defau
 - `INS-260327-8E62` [high] Spend a year finding a problem you'll love for a decade—that patience pays off more than rushing.

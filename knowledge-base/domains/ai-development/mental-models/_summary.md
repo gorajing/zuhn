@@ -1,6 +1,6 @@
 # Topic: mental-models
 
-> 15 insights
+> 16 insights
 
 - `INS-260410-025A` [high] Backprop doesn't know anything about neural networks — it applies the chain rule to any directed expression graph, and neural nets are just a particular shape of graph we happen to care about.
 - `INS-260330-5A2A` [high] All numerical descriptions of vectors depend on an implicit choice of basis vectors, meaning representation is never framework-free.
@@ -9,6 +9,7 @@
 - `INS-260330-F493` [high] Thinking in doubling times rather than absolute numbers enables correct intuition about exponential processes.
 - `INS-260330-BF2A` [high] Eigenvectors — vectors unchanged in direction by a transformation — exemplify the general strategy of finding invariants to understand complex systems.
 - `INS-260330-9FCF` [high] Even when populations are clustered with minimal inter-group travel, exponential growth dynamics recur fractally — communities behave like individuals, each infecting other communities with the same multiplicative laws.
+- `INS-260410-06DB` [high] LLMs are ethereal spirits mimicking human internet text, not evolved animals — pretraining is 'crappy evolution' that instills knowledge rather than learning algorithms.
 - `INS-260330-2EC0` [high] On a log scale, exponential growth becomes a straight line — making the underlying multiplicative pattern immediately visible and quantifiable via simple linear regression.
 - `INS-260330-FF5B` [high] Log scales convert exponential curves into straight lines, making growth rates, trend changes, and inflection points immediately visible to human perception.
 - `INS-260410-78F4` [high] Treat weight-stored knowledge as a hazy recollection and the context window as working memory — paste the source material in rather than relying on recall.

@@ -1,6 +1,6 @@
 # Topic: geopolitics
 
-> 514 insights
+> 522 insights
 
 - `INS-260326-3E19` [very_high] Pharmaceutical companies funding the FDA, banks staffing financial regulators, and tech giants writing platform regulations are structurally identical -- the mechanism is industry-funded oversight producing industry-favorable rules.
 - `INS-260326-79DF` [very_high] Germany's unrestricted submarine warfare sank 886,000 tons in April 1917 alone -- a tactical triumph that brought America into the war and guaranteed Germany's defeat.
@@ -64,6 +64,7 @@
 - `INS-260330-BBCF` [high] Since China's 2001 WTO entry, manufacturing value-added flipped from US at 2x China to China at 2x US — a structural shift in hard power.
 - `INS-260403-0789` [high] China installed more solar in one year (278GW) than the US has installed all-time (177GW), creating a structural energy advantage for AI compute.
 - `INS-260404-57D0` [high] China controls 80-95% of global solar manufacturing across polysilicon, wafers, cells, and modules with no near-term Western alternative.
+- `INS-260410-AE40` [high] Central debt is 60-70% of GDP, but local government debt is 120-140% of GDP — all of it issued under central authorization for central priorities — making China's true debt load comparable to Japan's.
 - `INS-260325-A19C` [high] TSMC manufactures 90% of the world's advanced processor chips in Taiwan — a geopolitical concentration risk that affects every phone, computer, and AI system on the planet.
 - `INS-260327-40FC` [high] Napoleon crossed the Alps in spring — considered impossible by conventional military wisdom — arriving in the Austrian rear before they knew he was coming.
 - `INS-260327-98B1` [high] Themistocles lured the Persian fleet into the narrow straits of Salamis where their numerical advantage became a liability.
@@ -80,6 +81,7 @@
 - `INS-260405-5EB2` [high] Peak-consensus forecasts of national rise historically coincide with the onset of structural decline.
 - `INS-260327-CE05` [high] When 69% of GDP comes from consumer spending and that spending is increasingly debt-funded, GDP growth measures debt accumulation rather than genuine economic health.
 - `INS-260409-9D83` [high] When billionaires consume <1% of their wealth annually and workers consume ~100% of their income, any consumption tax is mechanically regressive no matter how 'flat' it looks.
+- `INS-260410-D1A4` [high] Continental empires like Russia and China survive by systematically destabilizing neighbors sequentially rather than forming lasting alliances, because no great power wants another great power on its border.
 - `INS-260327-37E3` [high] The Bolsheviks held Russia's central industrial heartland with its railway hub, allowing them to shift forces rapidly between fronts while White armies on the periphery couldn't communicate or coordinate.
 - `INS-260410-BD56` [high] A cooperative adversary isn't one that wants to cooperate — it's one that can't play its own hand well, and your 'brilliant' strategy may have just been drafting off their incompetence.
 - `INS-260327-B65A` [high] Blackbeard operated in the gaps between colonial jurisdictions — British, French, Spanish waters — where no single navy had clear authority to pursue him.
@@ -217,6 +219,7 @@
 - `INS-260403-D537` [high] A Honolulu study traced how 512 luxury condo units created 557+ vacancies across the city, with each move freeing progressively cheaper housing.
 - `INS-260327-DF2F` [high] If developers can't sell the luxury homes they've built, they'll go bankrupt, reducing construction of the affordable homes actually needed.
 - `INS-260327-C4E8` [high] About 0.1% of American men have permanently left the workforce every single month since the 1960s - COVID merely accelerated an existing decades-long trend.
+- `INS-260410-2AEE` [high] Britain could blockade Germany but Germany couldn't blockade Britain, because narrow-seas powers can't deploy surface fleets against ocean-facing coastlines.
 - `INS-260327-EE23` [high] Record apartment construction broke 1970s records but almost entirely at the luxury tier, with hundreds of thousands of empty high-end units alongside a 4M affordable home shortage.
 - `INS-260327-D6C5` [high] Asset markets are forward-looking predictions of the future, but when nobody knows what policies will be in effect next week, those predictions become meaningless noise.
 - `INS-260403-8436` [high] Cities that built the most market-rate housing saw the largest rent declines, with new units acting as a 'yuppie fishtank' that prevents high earners from bidding up existing stock.
@@ -281,6 +284,7 @@
 - `INS-260327-178D` [high] Byzantine Emperor Alexius asked for mercenary help; Pope Urban reframed it as a holy war to reclaim Jerusalem, transforming a small request into a continental movement under papal authority.
 - `INS-260327-4419` [high] Napoleon rejected the Frankfurt Proposals that would have kept him as Emperor of France within its natural frontiers, and ended up losing everything.
 - `INS-260403-2C07` [high] Regime-threatening unrest emerges only when economic hardship hits the business and working classes simultaneously, not from political grievances alone.
+- `INS-260410-EA78` [high] When ethical rule and economic prosperity fail as legitimacy pillars, authoritarian regimes default to jingoistic nationalism and territorial expansion — a last-resort card that clouds judgment and catalyzes counter-coalitions.
 - `INS-260323-EA65` [high] W.R. Grace lobbied regulators to define asbestos contamination below 1% as 'asbestos-free' — controlling the definition was more effective than fighting every individual regulation.
 - `INS-260403-A87D` [high] The US government is undermining its own dollar dominance by attacking the very stablecoin projects that would cement USD as the default digital currency.
 - `INS-260405-1101` [high] Britain in 1870-1914 produced more in absolute terms at war's outbreak than in 1870, yet felt weaker because America and Germany had grown faster — the lesson applies to any competitive system.
@@ -386,12 +390,16 @@
 - `INS-260327-0FA9` [high] After defeating Napoleon at Aspern-Essling, Austria hesitated instead of pressing the advantage, giving Napoleon six weeks to rebuild and return with overwhelming force.
 - `INS-260327-A75C` [high] The Thirty Years' War began as a Catholic-Protestant religious conflict but became a pure power struggle — Catholic France allied with Protestant Sweden against Catholic Austria because geopolitics trumped ideology.
 - `INS-260327-485B` [high] Every WW1 belligerent expected the war to last months; it lasted four years. The catastrophic cost was amplified by the universal failure to prepare for a long war.
+- `INS-260410-67EE` [high] Paine's concept of a 'cooperative adversary' — a rival so institutionally weak that you can script-write it into self-harming moves — explains why Russia could manipulate Qing and early-republican China repeatedly while failing with Hitler's Germany.
+
 - `INS-260403-333C` [high] Many of the world's richest countries have fertility rates below 1.5 while the poorest maintain rates above 4, disproving purely economic explanations for population decline.
 - `INS-260327-65E7` [high] British ships were built heavier and more durable than French ships, which were faster but more fragile — in prolonged fleet actions, British durability won because the ships could absorb damage and keep fighting.
 - `INS-260323-A48E` [high] American media shows Americans something fundamentally different from what the rest of the world sees — this sustained asymmetry creates structural misunderstanding of conflicts.
 - `INS-260327-2475` [high] Machine guns, barbed wire, and artillery made both attack and defense devastating on the Somme — neither side could break through because both had the same technology creating the same stalemate.
 - `INS-260323-B726` [high] Putin's framing of 1991 as a greater tragedy than WWII (where the Soviets lost millions) reveals his value hierarchy: loss of great power status and territorial unity outweighs loss of human life.
 - `INS-260327-B950` [high] Venice's decline began when Portuguese discovery of the sea route to India bypassed the Mediterranean trade routes that Venice controlled.
+- `INS-260410-CD75` [high] Shared ideology is a weak glue compared to existential threat — the Sino-Soviet split shows that once Russia asked the US for permission to nuke China, Moscow became Beijing's primary adversary overnight despite both being communist.
+
 - `INS-260410-5CDC` [high] China won the 1962 Sino-Indian War and took the Aksai Chin Plateau it wanted, but the cost was turning an idealistic, non-militarized India into a permanent adversary that doubled its army within a decade — and foreclosed any possibility of a China–India partnership that would have reshaped the global order.
 - `INS-260327-70A4` [high] Napoleon seized Spain easily but then faced six years of guerrilla war that drained more French resources than any conventional campaign.
 - `INS-260325-3A0E` [high] WWI proves that interlocking alliance systems turn local crises into global catastrophes — complexity creates systemic fragility.
@@ -490,6 +498,7 @@
 - `INS-260327-0876` [medium] Drake's circumnavigation paid for itself many times over because Spain's Pacific trade routes were completely undefended — no one had ever attacked them before.
 - `INS-260404-1A3F` [medium] Narrow signals like startup deal flow are necessary but insufficient for emerging market investment decisions — structural analysis across governance, demographics, infrastructure, and finance is required.
 - `INS-260323-C304` [medium] In debates on deeply emotional geopolitical topics, the anger and frustration themselves are data — suppressing emotion loses important information about the stakes.
+- `INS-260410-38AA` [medium] Synthetic fuels turn abundant electricity into transportable hydrocarbons, disproportionately helping China escape its structural dependence on Middle East oil delivered by tankers its navy can't defend.
 - `INS-260323-9B49` [medium] The advanced technology fab in Austin will have lithography mask making, chip fabrication, and testing all in one building — enabling a recursive design loop that Musk claims is an order of magnitude faster than anything else in the world.
 - `INS-260323-DE39` [medium] Musk argues Hamas's strategy was explicitly to provoke Israeli overreaction that rallies Muslims worldwide — meaning the game-theoretically optimal response is 'conspicuous acts of kindness' that deny the narrative.
 - `INS-260323-874F` [medium] The 1947 UN partition of Palestine — an international body proposing a democratic compromise that one side rejects — established a recurring pattern in modern geopolitical conflict resolution.
@@ -516,4 +525,5 @@
 - `INS-260409-1210` [medium] Massachusetts' millionaire tax survives because voters see free breakfast, free community college, and better transit — a broad beneficiary constituency offsets the concentrated opposition.
 - `INS-260403-1B00` [medium] Xi has purged his entire military leadership including his closest ally and China's last combat-experienced general, suggesting internal crisis rather than war preparation.
 - `INS-260403-7285` [medium] Xi entering a 'lion in winter' paranoia phase may reduce Taiwan invasion risk but make China's domestic policy more erratic.
+- `INS-260410-361B` [medium] If Xi drops dead or goes senile, Chinese capital controls collapse within days — not because of mass panic, but because individual FX bureaucrats stop fearing jail and start accepting $100M bribes.
 - `INS-260403-1F97` [medium] Russian crude sellers are again requesting yuan payment from Indian refiners, driven by sanctions pressure rather than ideological de-dollarization.

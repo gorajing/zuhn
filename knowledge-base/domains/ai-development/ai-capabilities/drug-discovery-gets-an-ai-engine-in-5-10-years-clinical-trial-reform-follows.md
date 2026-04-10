@@ -48,9 +48,9 @@ stance: >-
   compress drug timelines.
 related:
   - INS-260321-9AB5
+  - INS-260410-8767
   - INS-260409-CBC7
   - INS-260409-5FF6
   - INS-260404-5963
-  - INS-260323-4457
 ---
 The staged prediction: (1) Isomorphic builds a complete drug design engine covering chemistry, toxicity, and safety properties in 5-10 years. (2) AI then helps simulate human metabolism and stratify patients to the right drugs. (3) A 'dozen or so AI drugs' getting through the full process gives regulators enough data to back-test predictions. (4) In ~10 more years, trust in models may let regulators skip animal testing and accelerate dosage escalation. This is a two-decade roadmap where the technical bottleneck moves from design to trials to trust. For biotech investors: short-term returns come from better candidates; long-term returns come from regulatory-reform catalyst events after the first cohort of AI-designed approvals.

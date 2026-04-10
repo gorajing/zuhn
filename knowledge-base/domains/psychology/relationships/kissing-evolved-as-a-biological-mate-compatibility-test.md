@@ -49,9 +49,9 @@ stance: >-
 related:
   - INS-260325-1E0B
   - INS-260325-6571
+  - INS-260410-3B8B
   - INS-260325-DFA5
   - INS-260325-E19E
-  - INS-260409-004E
 evidence:
   - id: INS-260330-FCB7
     type: REFINES

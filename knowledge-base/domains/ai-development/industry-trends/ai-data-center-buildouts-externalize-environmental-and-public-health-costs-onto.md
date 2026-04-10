@@ -64,11 +64,11 @@ stance: >-
   already suffering respiratory illness — making the marginal economics of
   frontier AI dependent on externalized environmental and public health costs.
 related:
+  - INS-260410-CDDD
   - PRI-260403-4612
   - INS-260410-C63C
   - INS-260329-644B
   - PRI-260406-4B37
-  - INS-260325-5CB1
 ---
 Specific facilities Hao documents: OpenAI Stargate in Abilene, Texas (Central Park-sized, 1M chips, >1 gigawatt, >20% the power demand of New York City). Meta Louisiana (4x the size of Abilene, half NYC's average power demand, roughly 1/5 the area of Manhattan). xAI Colossus in Memphis (35 methane gas turbines erected without community notification in a predominantly Black and working-class neighborhood already facing environmental racism and some of the highest lung cancer rates in the US; residents discovered it from the smell of gas leaks in their living rooms).
 

@@ -52,7 +52,6 @@ stance: >-
   specific engineering problem the incumbent has not yet cracked
 related:
   - INS-260323-FFE8
-  - INS-260329-EB4B
   - INS-260403-99FE
   - INS-260403-FE00
   - PRI-260406-E602

@@ -1,17 +1,11 @@
 # Tag: entrepreneurship
 
 - `INS-260322-83D4` The highest-value use of AI is building richer internal world models for better decision-making, not outsourcing output production.
-- `INS-260403-C936` Entrepreneurs systematically skip the hypothesis-mapping step because building feels more productive than thinking, even when thinking would save months of wasted effort.
-- `INS-260329-0014` Early entrepreneurial support comes from others' increased relative status; later hostility comes from your success highlighting their inaction.
-- `INS-260404-0B86` Embedding business education inside real projects with real stakes produces deeper learning than classroom instruction.
-- `INS-260329-3848` Work begins once motivation stops — the period after excitement fades is where most people quit and where champions pull ahead.
-- `INS-260329-163B` Success and failure follow a cyclical pattern; the competitive advantage is recognizing your current phase and shortcutting back to learning.
 - `INS-260329-5257` Price services as a percentage of measurable value delivered rather than hours worked.
 - `INS-260329-0DA4` An existing business with customers and cash flow can fund its own acquisition — a startup cannot.
 - `INS-260327-39D4` 5.5 million new business applications in a year sounds great, but most are started by people who lost jobs or can't find adequate employment - necessity entrepreneurship, not opportunity entrepreneurship.
 - `INS-260322-9DDD` a16z's platform model worked because its founders had been VC customers (entrepreneurs), giving them a perspective that career VCs structurally couldn't have.
 - `INS-260323-BF81` Altman believes AI tools now enable a single person to build a company worth over a billion dollars, delivering products that previously required teams of hundreds.
-- `INS-260325-CEE1` Entrepreneurial work has no Panic Monster until you've already done the hard initial work to create external accountability structures.
 - `INS-260323-C4E2` When someone emails Cuban asking what kind of business to start, that question itself reveals they are not ready — real entrepreneurs already know because they cannot stop thinking about the problem.
 - `INS-260329-4E70` The boring middle is a feature of ambitious paths, not a signal to pivot.
 - `INS-260329-50BD` The four-year opportunity cost of college is the largest hidden expense — direct experience compounds while academic credentials depreciate.
@@ -29,6 +23,7 @@
 - `INS-260409-7D27` Real entrepreneurs know the two years spent on a doomed project compound into skills for the next thing, so the 'why start if it'll be automated' objection exposes that you're not actually an entrepreneur.
 - `INS-260402-96E2` Starting a company in mid-century America was rejected not as too risky but as too low-status compared to climbing institutional ladders.
 - `INS-260329-60CF` Owning equity in a profitable business reaches millionaire status far faster than saving from high income due to valuation multipliers.
+- `INS-260325-CEE1` Entrepreneurial work has no Panic Monster until you've already done the hard initial work to create external accountability structures.
 - `INS-260402-0727` Late career specialization produces more founders because 'startup founder' is never a planned career — it emerges from flexible systems.
 - `INS-260405-9FD9` Osterwalder observes that being tasked with 'inventing the future' of a company carries surprisingly little prestige inside most large organizations.
 - `INS-260405-7529` Entrepreneurs don't balance work and life — the two collapse into one undifferentiated thing.
@@ -36,3 +31,8 @@
 - `INS-260402-4633` The first phase of business creation is product creation — hacking — and figuring out monetization afterward is the comparatively easy part.
 - `INS-260329-3036` Hormozi claims every wealthy person he knows started with years of high-volume sales conversations with strangers — it's the universal entrepreneurial apprenticeship.
 - `INS-260329-3924` You enter entrepreneurship for freedom but gain absolute control instead; each growth stage requires giving up control to regain freedom.
+- `INS-260403-C936` Entrepreneurs systematically skip the hypothesis-mapping step because building feels more productive than thinking, even when thinking would save months of wasted effort.
+- `INS-260329-0014` Early entrepreneurial support comes from others' increased relative status; later hostility comes from your success highlighting their inaction.
+- `INS-260404-0B86` Embedding business education inside real projects with real stakes produces deeper learning than classroom instruction.
+- `INS-260329-3848` Work begins once motivation stops — the period after excitement fades is where most people quit and where champions pull ahead.
+- `INS-260329-163B` Success and failure follow a cyclical pattern; the competitive advantage is recognizing your current phase and shortcutting back to learning.

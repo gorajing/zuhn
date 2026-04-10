@@ -45,7 +45,6 @@ stance: >-
   overcome into a method to embrace, eliminating the fear of failure that
   prevents most people from attempting anything ambitious.
 related:
-  - INS-260321-2482
   - INS-260323-42A7
   - INS-260325-B8D4
   - INS-260325-5023
@@ -55,6 +54,7 @@ related:
   - INS-260329-64B8
   - PRI-260328-0AB1
   - INS-260327-7E6F
+  - INS-260329-AAE3
 evidence:
   - id: INS-260321-2482
     type: TRANSFERS_TO

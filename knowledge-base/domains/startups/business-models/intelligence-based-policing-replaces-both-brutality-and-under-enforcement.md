@@ -56,7 +56,6 @@ related:
   - INS-260403-46DD
   - INS-260403-8C12
   - INS-260403-EDDC
-  - INS-260403-9E31
 stance: >-
   Technology-driven intelligence (cameras, drones, license plate readers, AI
   orchestration) creates a third path between harsh punishment and under-e...

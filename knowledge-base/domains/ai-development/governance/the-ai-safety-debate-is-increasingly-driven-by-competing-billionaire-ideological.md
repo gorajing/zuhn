@@ -49,10 +49,10 @@ stance: >-
   influence of a small number of wealthy investors than by broad democratic or
   regulatory deliberation.
 related:
-  - INS-260321-10FF
   - PRI-260324-3AAE
+  - INS-260410-CD75
   - PRI-260323-9295
+  - INS-260321-10FF
   - PRI-260322-9E36
-  - INS-260323-A3DB
 ---
 Forbes reports that Vinod Khosla and Marc Andreessen are locked in a war of words and influence over AI's future direction: Khosla favoring a more managed, safety-oriented trajectory and Andreessen advocating for accelerationist, minimally-constrained development. This framing matters beyond the personalities involved — it signals that AI governance is being contested primarily among a small group of capital-wielding insiders rather than through broad institutional processes. The ideological positions of major AI investors directly shape which companies get funded, which narratives dominate public discourse, and which regulatory stances gain credibility, making the billionaire battle a proxy war for the entire industry's direction.

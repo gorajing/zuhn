@@ -60,7 +60,7 @@ related:
   - INS-260409-0584
   - INS-260409-AB58
   - INS-260330-1DDE
-  - INS-260325-DFA5
+  - INS-260410-D082
 ---
 Douglas's 2025 model uncovered something subtle: branches in the evolutionary tree that evolved and then went extinct left measurable traces in the lineages that survived. The living system still carries information about paths that were tried and failed. The present is shaped by the absence of things as much as the presence of things.
 

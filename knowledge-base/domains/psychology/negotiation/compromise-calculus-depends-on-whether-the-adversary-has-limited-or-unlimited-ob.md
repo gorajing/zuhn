@@ -69,8 +69,8 @@ related:
   - INS-260330-A812
   - INS-260330-C548
   - INS-260404-F5C3
+  - INS-260410-CD75
   - PRI-260406-F9EB
-  - PRI-260323-0F93
 ---
 Paine offers a clean decision rule against the usual 'always negotiate' vs 'never appease' debate. Classify the adversary's objective first. A limited objective is a bounded demand — a piece of territory, a preferential trade arrangement, a change in some specific policy. Against limited objectives, compromise is cheap and usually right: negotiate the sliver and move on.
 

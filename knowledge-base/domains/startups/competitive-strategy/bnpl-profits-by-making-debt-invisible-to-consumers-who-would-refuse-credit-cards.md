@@ -42,11 +42,11 @@ stance: >-
   Buy Now Pay Later reframes debt as a payment method, reaching consumers who
   avoid credit cards but accept installments.
 related:
+  - INS-260410-AC50
   - INS-260327-BF93
   - INS-260405-787F
   - INS-260327-875C
   - INS-260329-C345
-  - INS-260403-781D
 evidence:
   - id: INS-260327-BF93
     type: REFINES

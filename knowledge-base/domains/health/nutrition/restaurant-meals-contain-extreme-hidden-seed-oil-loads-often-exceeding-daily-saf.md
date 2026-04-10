@@ -38,13 +38,12 @@ stance: >-
   dressings, and sauces -- often exceeding the entire daily recommended fat
   intake in a single meal
 related:
-  - INS-260327-4D54
+  - INS-260327-AB93
   - INS-260327-88E1
   - INS-260327-2437
   - INS-260327-8ED1
   - INS-260327-8985
   - INS-260327-5961
-  - INS-260327-AB93
   - INS-260327-8572
 ---
 Restaurant meals routinely contain tablespoons of seed oils in cooking, dressings, and sauces -- often exceeding the entire daily recommended fat intake in a single meal

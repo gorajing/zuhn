@@ -46,7 +46,6 @@ stance: >-
   sooner than pre-AI startups, making early systematization a survival
   requirement rather than a scaling luxury.
 related:
-  - INS-260329-C345
   - INS-260403-906E
   - INS-260403-402A
   - INS-260404-5369

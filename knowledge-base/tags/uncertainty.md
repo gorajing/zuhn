@@ -7,34 +7,34 @@
 - `INS-260327-D4D8` Markets dropping 12% in Japan then recovering the next day while fingers are pointed at multiple unrelated causes suggests nobody - not traders, not regulators, not economists - truly understands what's happening.
 - `INS-260327-31B8` At Eylau, a blinding snowstorm caused an entire French corps to march into the Russian center by accident, turning a controlled battle into chaos that negated Napoleon's tactical superiority.
 - `INS-260327-99CE` Money loves certainty - businesses can adapt to bad rules but cannot plan around rules that change weekly.
-- `INS-260404-4E1A` Human optimism is fueled by narrative continuity about the future, not by present comfort.
+- `INS-260403-8450` Nvidia's $20B Groq deal was not about buying growth but about preventing the fragmentation of buyer choice that would weaken long-term leverage.
+- `INS-260403-5710` Ever-shifting tariff regimes — imposing, exempting, reimposing under different authorities — make long-term business planning impossible, which suppresses investment independent of tariff levels.
+- `INS-260403-9173` Media and founder narratives make early-stage success look inevitable, hiding the razor-thin margins that actually determined survival.
+- `INS-260322-1A20` In high-uncertainty environments, executing quickly to gather real information beats prolonged analysis.
+- `INS-260328-D775` MBA programs were trade schools for middle managers at GM — that rule-following mindset is the exact opposite of what startups require.
+- `INS-260402-F5E0` Break vague reluctance into specific fears to discover most are unfounded.
+- `INS-260405-2CDB` The urge to perfect before testing is driven by fear of invalidation, not by logic.
+- `INS-260328-C12D` Enterprise AI buying is real and fast, but predicting which products will endure is like picking winners in early mobile — nobody knows yet.
+- `INS-260404-29EC` Strategic pillars should be scored across four dimensions: expected impact, certainty of impact, clarity of levers, and lever uniqueness/differentiation.
+- `INS-260328-3446` We have not even figured out how to fully use the tools we already have — new models drop and we assume we know the best way to extract value, which is laughable.
+- `INS-260403-F4C9` In periods of radical technological uncertainty, optimize for strategies that work across all scenarios rather than betting on a specific prediction.
 - `INS-260403-37D9` Under time pressure and information asymmetry, an audience's primary evaluation heuristic becomes the presenter's own apparent confidence in their work.
-- `INS-260409-F93A` Galef argues accurate maps of the world should include explicit uncertainty markers and remain provisional — 'drawn in pencil, not pen' — because false precision creates psychological resistance to updating when better evidence arrives.
+- `INS-260405-DF08` Early uncertainty is irreducible by analysis — only experiments generate the evidence that reduces it.
+- `INS-260402-E140` Neither the most confident nor the most humble founders reliably succeed — startup demands are too different from any prior life test to predict.
+- `INS-260404-4E1A` Human optimism is fueled by narrative continuity about the future, not by present comfort.
 - `INS-260403-6EDC` Difficulty choosing between passion and money reveals gaps in self-knowledge and work knowledge, not a genuine tie between options.
 - `INS-260330-3B05` Kissing, curiosity, and exploration all share an evolutionary root: organisms that convert uncertainty into knowledge make better decisions and outcompete those that don't.
 - `INS-260404-1D05` Nostalgia is a psychological refuge from an illegible future, not a rational assessment of the past.
 - `INS-260403-803A` When unsure what to do, choose options that keep the most future doors open rather than optimizing for any single outcome.
 - `INS-260405-7DD7` When you can't predict who matters, you must treat everyone as if they matter — which only genuinely good people can sustain.
 - `INS-260403-E554` Top VCs make decisions by thinking in probabilities and leaning into uncertainty rather than relying on gut instinct.
+- `INS-260409-F93A` Galef argues accurate maps of the world should include explicit uncertainty markers and remain provisional — 'drawn in pencil, not pen' — because false precision creates psychological resistance to updating when better evidence arrives.
 - `INS-260403-AEA3` Critics used Bio Anchors' acknowledged uncertainty to conclude 'things are fine and normal' rather than recognizing that uncertainty cuts both ways and timelines could be shorter.
+- `INS-260330-420B` Three competing theories for the Indus Valley's decline each tell a confident story from the same absence of evidence, revealing how humans handle epistemic gaps.
 - `INS-260403-EB56` Instead of trying to predict where change will come from, be aggressively open-minded and maximize sensitivity to change signals from any direction.
 - `INS-260330-E982` Maximize expected information per action rather than chasing high-reward but unlikely outcomes.
-- `INS-260330-420B` Three competing theories for the Indus Valley's decline each tell a confident story from the same absence of evidence, revealing how humans handle epistemic gaps.
 - `INS-260325-CE25` O'Connor finds consolation not in answers but in honestly admitting 'I do not know the first thing about why any of this exists.'
 - `INS-260327-6F26` Since the future will be nothing like we imagine, building adaptive capacity is more valuable than building specific plans.
 - `INS-260323-581C` The fundamental driver of conflict in international politics is the inability to know another state's future intentions, making worst-case preparation rational.
 - `INS-260330-BE46` Harlow's monkey experiments and Fisher's puppy studies show that unpredictable treatment creates stronger attachment than consistent kindness or consistent punishment.
 - `INS-260330-09A2` Fisher's 1955 puppy experiment showed that random alternation between kindness and punishment produced the strongest attachment — stronger than consistent kindness alone.
-- `INS-260403-8450` Nvidia's $20B Groq deal was not about buying growth but about preventing the fragmentation of buyer choice that would weaken long-term leverage.
-- `INS-260403-5710` Ever-shifting tariff regimes — imposing, exempting, reimposing under different authorities — make long-term business planning impossible, which suppresses investment independent of tariff levels.
-- `INS-260402-F5E0` Break vague reluctance into specific fears to discover most are unfounded.
-- `INS-260405-2CDB` The urge to perfect before testing is driven by fear of invalidation, not by logic.
-- `INS-260403-9173` Media and founder narratives make early-stage success look inevitable, hiding the razor-thin margins that actually determined survival.
-- `INS-260322-1A20` In high-uncertainty environments, executing quickly to gather real information beats prolonged analysis.
-- `INS-260328-D775` MBA programs were trade schools for middle managers at GM — that rule-following mindset is the exact opposite of what startups require.
-- `INS-260328-C12D` Enterprise AI buying is real and fast, but predicting which products will endure is like picking winners in early mobile — nobody knows yet.
-- `INS-260404-29EC` Strategic pillars should be scored across four dimensions: expected impact, certainty of impact, clarity of levers, and lever uniqueness/differentiation.
-- `INS-260328-3446` We have not even figured out how to fully use the tools we already have — new models drop and we assume we know the best way to extract value, which is laughable.
-- `INS-260403-F4C9` In periods of radical technological uncertainty, optimize for strategies that work across all scenarios rather than betting on a specific prediction.
-- `INS-260405-DF08` Early uncertainty is irreducible by analysis — only experiments generate the evidence that reduces it.
-- `INS-260402-E140` Neither the most confident nor the most humble founders reliably succeed — startup demands are too different from any prior life test to predict.

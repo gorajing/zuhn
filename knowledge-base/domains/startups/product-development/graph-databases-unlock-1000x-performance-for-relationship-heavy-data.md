@@ -43,11 +43,11 @@ stance: >-
   databases deliver orders-of-magnitude performance improvements over relational
   databases that no amount of hardware scaling can match.
 related:
+  - INS-260410-5088
   - INS-260321-822B
   - INS-260327-40DA
   - INS-260402-9EBD
   - INS-260321-6437
-  - INS-260405-3805
 evidence:
   - id: INS-260321-6437
     type: TRANSFERS_TO

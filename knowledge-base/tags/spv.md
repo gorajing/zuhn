@@ -1,4 +1,3 @@
-# Tag: spv
+# Tag: SPV
 
-- `INS-260403-FCB6` AI labs are using structured finance vehicles to fund massive GPU buildouts, turning compute hardware into securitized financial assets.
-- `INS-260403-6190` SPVs let small funds and angels raise deal-specific capital to exercise pro-rata rights they couldn't otherwise afford.
+- `INS-260403-9D7C` Most equity tokens today provide financial exposure via SPV structures rather than direct share ownership, creating ambiguity around liquidation priority, voting rights, and conversion terms.

@@ -5,10 +5,13 @@
 - `INS-260403-E5D4` Asking the AI to analyze the disconnect between your stated preferences and actual conversation patterns reveals configuration improvements you cannot anticipate upfront.
 - `INS-260330-6828` Byron Ferguson spine-tests every arrow to normalize stiffness before shooting — the calibration step matters more than the archer's technique.
 - `INS-260404-D122` Neuralink requires ~20-minute personalized calibration per user because neural firing patterns for identical intended movements vary significantly between individuals.
-- `INS-260409-F93A` Galef argues accurate maps of the world should include explicit uncertainty markers and remain provisional — 'drawn in pencil, not pen' — because false precision creates psychological resistance to updating when better evidence arrives.
-- `INS-260409-D603` Freedman's 2024 JWST analysis produced ~68-70 from red giants and JAGB stars but ~72 from Cepheids using the same telescope — an internal disagreement that suggests the problem may be in the distance ladder's calibration assumptions, not in the comparison to the CMB.
+- `INS-260330-BF96` Byron Ferguson hits aspirins mid-air not by eliminating arrow wobble but by testing every arrow's spine and rejecting those outside tolerance.
+- `INS-260409-81CB` The most valuable AI insight for you personally is whichever side you're currently not considering — deliberately steelman the counter to your default position.
+- `INS-260330-9F1F` Before interviewing anyone, talk to known world-class practitioners to learn what great looks like — learning during interviews is prohibitively expensive.
 - `INS-260330-C9A6` Reference standards — whether physical kilograms or personal heuristics — drift over time and must be recalibrated against unchanging fundamentals.
 - `INS-260403-CB80` Recording confidence ratings at decision time and comparing to outcomes is a powerful metacognitive calibration tool.
+- `INS-260409-F93A` Galef argues accurate maps of the world should include explicit uncertainty markers and remain provisional — 'drawn in pencil, not pen' — because false precision creates psychological resistance to updating when better evidence arrives.
+- `INS-260409-D603` Freedman's 2024 JWST analysis produced ~68-70 from red giants and JAGB stars but ~72 from Cepheids using the same telescope — an internal disagreement that suggests the problem may be in the distance ladder's calibration assumptions, not in the comparison to the CMB.
 - `INS-260403-B7E3` Being somewhat overconfident about your abilities empirically leads to better outcomes than perfectly calibrated self-assessment.
 - `INS-260404-4666` Studying the embarrassingly rough early work of great creators teaches you to judge your own early efforts more accurately.
 - `INS-260403-D75D` Studying the humble origins of great work trains you to see early efforts for what they actually are rather than dismissing them.
@@ -21,6 +24,3 @@
 - `INS-260405-81B4` Immersing yourself in the early histories of great work trains you to recognize the pattern and neutralizes premature abandonment.
 - `INS-260409-0250` A galaxy hosting a rapidly accreting black hole can look identical in brightness to a galaxy with 10x more stars, because friction-heated infalling gas radiates light that is indistinguishable from starlight at JWST resolution from billions of light years away.
 - `INS-260330-DE89` Destin's involuntary tap-out at 7.2G permanently changed his approach to confidence-humility balance in ways voluntary humility never had.
-- `INS-260330-BF96` Byron Ferguson hits aspirins mid-air not by eliminating arrow wobble but by testing every arrow's spine and rejecting those outside tolerance.
-- `INS-260409-81CB` The most valuable AI insight for you personally is whichever side you're currently not considering — deliberately steelman the counter to your default position.
-- `INS-260330-9F1F` Before interviewing anyone, talk to known world-class practitioners to learn what great looks like — learning during interviews is prohibitively expensive.

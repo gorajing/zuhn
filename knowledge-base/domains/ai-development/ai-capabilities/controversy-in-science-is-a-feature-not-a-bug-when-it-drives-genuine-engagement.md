@@ -50,11 +50,11 @@ stance: >-
   provoke genuine scientific debate - even angry disagreement - produce more
   knowledge than papers that are merely acknowledged and filed.
 related:
+  - INS-260410-C045
   - INS-260323-DA1E
   - INS-260330-7994
   - INS-260403-1A96
   - PRI-260323-27D6
-  - PRI-260323-A33E
   - INS-260403-BADB
 evidence:
   - id: INS-260323-DA1E

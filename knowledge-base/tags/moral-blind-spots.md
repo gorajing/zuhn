@@ -1,0 +1,3 @@
+# Tag: moral-blind-spots
+
+- `INS-260410-1601` Rome sustained a society where 10-20% were enslaved without racialized ideology or significant abolitionist pushback, using coercion, manumission incentives, and household embedding instead.

@@ -47,7 +47,6 @@ stance: >-
   like the Fed produces short-term policy wins at the cost of long-term economic
   credibility and stability.
 related:
-  - INS-260330-F8A2
   - INS-260330-1293
   - INS-260330-0FCE
   - INS-260410-CBF9

@@ -49,9 +49,9 @@ stance: >-
 related:
   - INS-260403-FF74
   - INS-260403-46DD
+  - INS-260410-7AC1
   - INS-260402-31D8
   - INS-260409-F4AA
-  - INS-260403-C49F
 ---
 The Department of War's demand that AI be permitted for 'all lawful use' illustrates a fundamental governance failure: when the entity defining what's lawful is the same entity wanting to use the technology, constraints become circular. The DoW can change its own policies (like DoD Directive 3000.09 on autonomous weapons) at will, meaning any contract referencing current policy provides no durable protection.
 

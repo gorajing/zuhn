@@ -1,5 +1,6 @@
 # Tag: loneliness
 
+- `INS-260410-CC1F` Zuckerberg grounds the AI-companion product thesis in a concrete social statistic: Americans average fewer than three close friends but want around fifteen — the gap is the market, and AI fills it when physical connection is unavailable.
 - `INS-260325-FC52` Without someone to share stress with, the body stays in low-level fight-or-flight mode, causing chronic inflammation that gradually degrades multiple organ systems.
 - `INS-260409-67A5` People keep putting aliens on fuzzy photos because we are lonely in the universe.
 - `INS-260325-5977` Media describes being alone as negative 10x more than positive — people who internalize this framing feel lonelier when alone, while those with positive beliefs about solitude actually benefit from it.

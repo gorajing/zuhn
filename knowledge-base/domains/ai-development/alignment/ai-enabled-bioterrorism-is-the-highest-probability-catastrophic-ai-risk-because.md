@@ -58,7 +58,7 @@ related:
   - INS-260327-E0B0
   - INS-260402-31D8
   - INS-260323-47D8
-  - INS-260326-73C0
+  - INS-260410-991B
 ---
 The attack chain for AI-enabled bioterrorism is alarmingly short: jailbreak a near-frontier model, use it to design pathogens in simulation, then exploit automated lab infrastructure to produce and release them. Each step is already becoming feasible—AI models outperform PhD virologists on lab troubleshooting (o3 scored 43.8% vs. virologists' 22.1%), bio labs are rapidly automating, and jailbreaking techniques are widely shared. Unlike robot armies (which need full physical-world control) or infrastructure attacks (which face competitive AI redundancy), bioterrorism requires only a single human actor with access to one compromised AI and one automated lab.
 

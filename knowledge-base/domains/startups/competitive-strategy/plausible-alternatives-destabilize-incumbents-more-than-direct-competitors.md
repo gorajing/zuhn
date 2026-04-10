@@ -55,6 +55,7 @@ related:
   - PRI-260405-6216
   - INS-260330-376E
   - INS-260330-6050
+  - INS-260410-8E02
 ---
 Direct competitors declare intent and invite immediate response from incumbents. Plausible alternatives, by contrast, spread behind the scenes — giving buyers room to test, wait, and rethink commitments without forcing a confrontation. This is especially potent in infrastructure markets where architectural choices lock in years of cost and performance tradeoffs.
 

@@ -49,11 +49,11 @@ resolutions:
     the highest-leverage network strategy. Making others successful around you
     compounds your own position in ways that hoarding attention cannot.
 related:
+  - INS-260410-86A5
   - INS-260328-0DFE
   - INS-260329-4FB2
   - INS-260323-7EDF
   - INS-260330-DD91
-  - INS-260322-06EA
   - INS-260327-7CAF
   - INS-260330-CC9E
 stance: >-

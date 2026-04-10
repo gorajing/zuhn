@@ -68,8 +68,8 @@ related:
   - INS-260410-5EE7
   - INS-260410-46CA
   - PRI-260407-7FB7
-  - INS-260410-F985
   - INS-260410-5F60
+  - INS-260410-9303
 ---
 RLHF works by training a second neural network (the reward model) to imitate human preference rankings, then running reinforcement learning against that simulator. This sidesteps the cost of asking humans to score every rollout, and it exploits the discriminator-generator gap — it is easier for a human to rank five jokes than to write a great one — which is why RLHF empirically produces better models than pure SFT.
 

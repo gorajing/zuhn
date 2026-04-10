@@ -48,7 +48,6 @@ stance: >-
   What a CEO says about a departing executive at the all-hands becomes that
   person's reference check because every employee will eventually get called
 related:
-  - INS-260329-62C1
   - INS-260330-36B4
   - PRI-260406-4FAE
   - INS-260322-116B

@@ -36,10 +36,10 @@ resolutions:
     it also creates psychosis because the improvement space feels infinite.
 related:
   - INS-260320-9D89
+  - INS-260410-9EA8
   - PRI-260407-D1AD
   - INS-260403-0DE8
   - INS-260405-2DCC
-  - INS-260327-9F46
   - INS-260321-D370
   - INS-260325-2DCD
   - INS-260325-252D

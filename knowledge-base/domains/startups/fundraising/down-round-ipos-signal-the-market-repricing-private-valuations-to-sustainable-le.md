@@ -50,7 +50,6 @@ stance: >-
   market correction rather than failure, and founders who accept repricing will
   outperform those who delay
 related:
-  - INS-260405-C987
   - INS-260404-78E0
   - INS-260405-F374
   - INS-260404-F45E

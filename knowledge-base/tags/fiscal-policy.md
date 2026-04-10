@@ -3,7 +3,9 @@
 - `INS-260405-844D` A 43-day shutdown forcing unpaid essential workers illustrates the brittleness of government services reliant on continuous human labor.
 - `INS-260330-E43F` China's cities receive 40% of tax revenue but bear 80% of expenses, forcing them to use land sales as their primary funding mechanism.
 - `INS-260405-397C` A continuing resolution ending January 30 means the same fight resumes in six weeks with even less goodwill.
+- `INS-260410-AC50` The US has four ways out of its debt — default, austerity, financial repression, or inflation — and inflation is both politically easiest and historically how the US handled WWII debt.
 - `INS-260403-6024` Presidents fear bond market signals more than stock drops because rising yields directly threaten the government's ability to finance itself.
+- `INS-260410-AE40` Central debt is 60-70% of GDP, but local government debt is 120-140% of GDP — all of it issued under central authorization for central priorities — making China's true debt load comparable to Japan's.
 - `INS-260330-0539` Russia's pension contributor-to-recipient ratio has deteriorated 44% since 1991, with no short-term fix possible because today's teenagers are '13-year-old ripples of actions past.'
 - `INS-260402-36DE` Massive fiscal deficits and shrinking buyer base for Treasuries mean Fed rate cuts no longer reliably lower long-term yields.
 - `INS-260409-900D` The California wealth-tax campaign gained traction specifically because a 2025 federal bill cut ~$100B from state Medicaid over five years while delivering comparable gains to billionaires.

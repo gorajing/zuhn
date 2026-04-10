@@ -65,8 +65,8 @@ related:
   - INS-260330-2EB0
   - INS-260404-B6CC
   - INS-260404-F0C3
+  - INS-260410-CD75
   - PRI-260406-82EA
-  - INS-260327-4D1F
   - INS-260403-5681
 ---
 When Takaichi declared Japan would defend Taiwan, China responded with war threats, tourism curbs, and a diplomatic isolation campaign accusing Japan of militarism. The result was the opposite of China's intent: Takaichi's approval soared to 60-77% overall and above 92% among young voters, while South Korea — previously antagonistic toward Japan over colonial history — rapidly moved to strengthen ties, producing the iconic joint photo-op of the two leaders.

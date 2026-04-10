@@ -58,9 +58,9 @@ related:
   - INS-260322-76B5
   - INS-260330-FC4D
   - PRI-260406-3EF8
+  - INS-260410-8767
   - INS-260403-D090
   - INS-260403-13AF
-  - INS-260329-500E
 ---
 Stripe handles review of 1,300 agent-authored PRs per week by leaning heavily on CI infrastructure rather than exhaustive human code review. The insight is that whether code is written by Steve or Steve's robot, the same CI environment must provide confidence that changes are safe. Good test coverage, synthetic end-to-end tests, and blue-green deployment with rollback capability are critical regardless of code authorship.
 

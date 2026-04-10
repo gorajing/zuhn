@@ -48,8 +48,8 @@ related:
   - INS-260403-5593
   - INS-260403-ABBB
   - PRI-260406-874A
+  - INS-260410-CDDD
   - INS-260402-E2AF
-  - INS-260327-A608
 ---
 Graham identifies a critical strategic insight: problems in complex systems have multiple intervention points, and the most obvious one (the source) is often the hardest to change. Patent reform requires government action — slow, political, and uncertain. But the actual harm happens downstream, when patents are weaponized against small innovators.
 

@@ -54,7 +54,6 @@ stance: >-
   restructure human communication workflows more broadly than text-only AI has.
 related:
   - INS-260327-E75F
-  - INS-260403-617C
   - INS-260327-2C5F
   - INS-260329-12D1
   - PRI-260405-BF5B

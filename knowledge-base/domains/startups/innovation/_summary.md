@@ -1,6 +1,6 @@
 # Topic: innovation
 
-> 129 insights
+> 130 insights
 
 - `INS-260405-EFC2` [high] C invented the curly-brace, semicolon syntax that now defines how billions of developers write code — its design choices became the assumed defaults of most successor languages.
 - `INS-260404-4320` [high] AI collapses experimentation costs across deeptech by replacing early-stage lab work with in-silico simulation.
@@ -72,6 +72,7 @@
 - `INS-260404-8256` [high] Plants produce 40 billion tons of inefficient RuBisCo rather than evolving one perfect enzyme—volume compensates for individual mediocrity.
 - `INS-260403-E25F` [high] Manage incremental business model improvements and radical new model exploration as fundamentally different portfolio tracks with different success metrics.
 - `INS-260404-BD46` [high] Unproven business models should be validated through many small experiments rather than detailed business plans.
+- `INS-260410-54CB` [high] Rome had advanced trade, finance, and institutions but no industrial takeoff because it never coupled basic science with applied engineering.
 - `INS-260403-910E` [high] Internal innovation should follow VC portfolio logic: many small bets filtered by evidence, not executive intuition.
 - `INS-260404-63B0` [high] Inventing future growth engines requires a structurally separate organization that operates independently from the team optimizing the existing business.
 - `INS-260403-1358` [high] Treating innovation as a portfolio of parallel experiments rather than sequential single bets is essential for repeatable results.

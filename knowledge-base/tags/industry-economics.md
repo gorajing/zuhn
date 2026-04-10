@@ -1,6 +1,5 @@
 # Tag: industry-economics
 
-- `INS-260327-3377` Credit card rewards create a psychological illusion of getting something for free that causes consumers to spend more ov
 - `INS-260327-07FC` Airlines generate enormous revenue but trivial profits because the industry structure — high fixed costs, commodity pric
 - `INS-260327-8E9D` Theme parks must continuously invest in new rides because each new attraction generates declining visitor impact over ti
 - `INS-260327-B715` Cruise lines earn higher margins than airlines because the ship is a captive-market platform where all spending occurs w
@@ -31,3 +30,4 @@
 - `INS-260327-C1F6` AI investment follows the same pattern as the dot-com bubble: revolutionary technology generates massive investment, mos
 - `INS-260327-07C9` Platforms like Temu sell products below cost as a customer acquisition strategy subsidized by investor capital, creating
 - `INS-260327-0FD9` Viral food content creates demand spikes that overwhelm restaurant operations, produce long wait times, and disappoint c
+- `INS-260327-3377` Credit card rewards create a psychological illusion of getting something for free that causes consumers to spend more ov

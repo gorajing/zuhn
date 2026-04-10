@@ -66,6 +66,7 @@ related:
   - INS-260404-25F5
   - INS-260409-AEF3
   - PRI-260406-C4FD
+  - INS-260410-E151
 ---
 The debate about China vs US AI dominance typically focuses on chips, talent, and model quality. Kroeber reframes it around power generation. China has more than 2x US electricity generating capacity; renewable capacity alone equals total US generation; they add a UK-sized amount every year. This isn't an accident — it's the result of a strategic decision that cheap abundant electricity is central to all 21st century growth industries.
 

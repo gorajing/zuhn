@@ -45,7 +45,6 @@ stance: >-
   rather than relying on a single general-purpose LLM.
 related:
   - INS-260323-DA4A
-  - INS-260326-CA8C
   - INS-260327-FC68
   - INS-260327-7A48
   - INS-260325-8F49

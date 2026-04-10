@@ -1,6 +1,7 @@
 # Tag: agi-timelines
 
 - `INS-260409-C717` Levels 0-4 (negligible → somewhat novel → publishable with human → autonomously publishable → groundbreaking) is a more useful capability ladder for AI research than flat benchmark scores.
+- `INS-260410-9425` Zuckerberg argues fast-takeoff AGI scenarios underweight how much of the stack is gated by physical-world timelines — gigawatt clusters, permitting, energy supply chains, and users learning to use the tools.
 - `INS-260403-C501` Verifiable tasks provide the training signal that lets AI master them first, creating a predictable sequence of capability unlocks.
 - `INS-260410-D834` People who imagine fast automation are mentally modeling jobs as one simple task, but real jobs are bundles of many competences—automating the headline task barely moves the needle.
 - `INS-260410-2307` There are ~10M H100-equivalents today and ~100M projected by 2028, which caps how many AGI-agents can run in parallel regardless of whether the models exist.

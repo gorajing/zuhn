@@ -46,11 +46,11 @@ stance: >-
   enlightened activity in the present moment, and anyone claiming permanent
   enlightenment should be treated with deep suspicion.
 related:
+  - INS-260410-9FE6
   - INS-260325-BA76
   - PRI-260403-2E59
   - PRI-260323-F92B
   - INS-260327-8521
-  - PRI-260403-88F5
 evidence:
   - id: INS-260322-C9AC
     type: TRANSFERS_TO

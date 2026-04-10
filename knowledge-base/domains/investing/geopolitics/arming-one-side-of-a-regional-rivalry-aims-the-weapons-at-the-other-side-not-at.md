@@ -63,8 +63,8 @@ related:
   - INS-260323-493D
   - INS-260327-A8C0
   - INS-260327-0D82
+  - INS-260410-CD75
   - INS-260323-CB47
-  - PRI-260406-82EA
 ---
 When the US joined Pakistan to the Baghdad Pact and extended a military aid treaty in the 1950s, the stated purpose was to wall off the Soviet Union from Middle Eastern oil. But Pakistan's primary adversary was India, not the USSR. The moment the tanks and planes arrived, they were implicitly pointed east, not north. Nehru's reaction was exactly what the rule predicts: 'You're arming the Pakistanis. Whom do you think they're going to shoot? It'll be us.' By 1965 Pakistani crews were using US tanks against India in the largest tank battle since WWII — not against Soviets.
 

@@ -49,9 +49,9 @@ resolutions:
 related:
   - INS-260405-F1A1
   - INS-260330-F205
+  - INS-260410-C602
   - INS-260323-114D
   - INS-260328-F05E
-  - INS-260325-5CB1
 stance: AI data centers take 1-2 years to build but GPUs become obsolete in 3-6 years
 evidence:
   - id: INS-260330-F205

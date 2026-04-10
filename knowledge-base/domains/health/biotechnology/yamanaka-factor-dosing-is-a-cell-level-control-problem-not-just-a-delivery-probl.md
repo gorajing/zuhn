@@ -57,9 +57,9 @@ stance: >-
 related:
   - INS-260330-7987
   - INS-260327-FC68
+  - INS-260410-7AC1
   - INS-260403-EA93
   - INS-260403-2C15
-  - PRI-260403-9E80
 ---
 The core technical constraint on using Yamanaka factors for rejuvenation is that the dose window is very narrow: too little and nothing happens, too much and the cell fully dedifferentiates into a pluripotent state, which is functionally equivalent to a cancer cell. Any whole-organism or whole-tissue dosing strategy is going to hit cells with heterogeneous sensitivity, and you only need one dedifferentiated cell to start a tumor.
 

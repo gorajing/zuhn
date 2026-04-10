@@ -54,12 +54,12 @@ related:
   - PRI-260405-B144
   - INS-260405-6A94
   - PRI-260407-7AE9
+  - INS-260410-13C8
   - PRI-260323-6A93
   - INS-260330-5600
   - INS-260403-DC18
   - INS-260403-330D
   - INS-260402-E144
-  - INS-260404-4320
 stance: >-
   All inputs to AI are falling in cost faster than Moore's law predicted for
   chips, creating hyperdeflation in per-unit intelligence costs that will ...

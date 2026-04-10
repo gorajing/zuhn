@@ -6,11 +6,18 @@
 - `INS-260321-86F1` China is stealing American AI models, removing all guardrails, and potentially deploying them against the US — creating an absurd scenario where America fights with one arm tied behind its back against its own technology.
 - `INS-260321-3C8A` AI labs fight viciously against each other for dominance but frame the global AI race as positive-sum — the actual zero-sum game is between nations, and the labs don't see it.
 - `INS-260327-422B` Two dynamics run simultaneously: model intelligence cost drops ~4X/year while total spending rises ~10X/year — DeepSeek sat perfectly on the cost reduction curve, but being the first Chinese company at frontier capability is genuinely concerning.
+- `INS-260410-86B0` Shih uses DeepSeek over American models for China research because it returns high-quality policy document links even from naive prompts — likely because its hedge-fund parent trained it to detect CCP policy signals.
+- `INS-260410-991B` China places AGI under its cybersecurity apparatus and requires every major AI lab to have a team that can 'pull the plug' because Party control is a higher priority than racing to AGI.
 - `INS-260410-101D` China adds a France-or-UK-sized power grid every year; their strategic bet on cheap abundant electricity positions them to deploy more AI than anyone once the model matters less than how many you can run.
 - `INS-260404-83C6` DeepSeek proved frontier AI can emerge from a hedge fund side project in China, not just from billion-dollar Western labs.
 - `INS-260410-4357` At scale, effectiveness of achieving outcomes matters more than efficiency of resource use — the 'waste' in China's growth was the mechanism that produced the growth.
+- `INS-260410-6A19` Goldman Sachs and every serious forecaster predicted China would dwarf the US by now — they were all wrong, just as they were wrong about Japan and the USSR before that.
 - `INS-260405-B6CB` China's post-2008 infrastructure investment produced not just recovery but a transportation, energy, and digital backbone that now underpins its manufacturing dominance.
+- `INS-260410-731D` China's banking system lets strategic-sector companies borrow on the promise of producing units, not profits — which produces world-leading manufacturing capacity alongside massive capital destruction.
 - `INS-260410-147B` China built a magnificent production machine but no demand machine — the result is deflation, shrinking pricing power, and growth below potential even as tech capacity soars.
+- `INS-260409-F485` Napier's emerging-market heuristic: avoid countries where trading rights are not guaranteed, constitutions are weak, or exchange rates are overvalued — operationalized as 'don't invest where you wouldn't live after retirement.'
+- `INS-260405-484F` Clawback mechanisms that reach founders' personal assets convert entrepreneurship from bounded-downside to unlimited-downside, chilling risk-taking.
+- `INS-260405-ADCE` US and China are pursuing humanoid robotics through different incentive structures and deployment contexts, making a single global market unlikely.
 - `INS-260403-583B` China's threats against Japan over Taiwan defense declarations backfired by unifying Japanese society and pushing South Korea into closer partnership with Japan.
 - `INS-260402-F833` The U.S. leads in advanced chips while China leads in energy production — whoever integrates both first wins the AI race.
 - `INS-260410-2DB5` Regimes that need engineers, industry, and now AI to compete geopolitically cannot prevent the educated class and organized workers they create from eventually threatening their rule.
@@ -29,8 +36,10 @@
 - `INS-260330-BBCF` Since China's 2001 WTO entry, manufacturing value-added flipped from US at 2x China to China at 2x US — a structural shift in hard power.
 - `INS-260403-0789` China installed more solar in one year (278GW) than the US has installed all-time (177GW), creating a structural energy advantage for AI compute.
 - `INS-260404-57D0` China controls 80-95% of global solar manufacturing across polysilicon, wafers, cells, and modules with no near-term Western alternative.
+- `INS-260410-AE40` Central debt is 60-70% of GDP, but local government debt is 120-140% of GDP — all of it issued under central authorization for central priorities — making China's true debt load comparable to Japan's.
 - `INS-260403-5440` The Netherlands seized Chinese-owned chipmaker Nexperia using a 1952 Cold War-era law, signaling dormant statutes are now live weapons in tech geopolitics.
 - `INS-260405-5EB2` Peak-consensus forecasts of national rise historically coincide with the onset of structural decline.
+- `INS-260410-D1A4` Continental empires like Russia and China survive by systematically destabilizing neighbors sequentially rather than forming lasting alliances, because no great power wants another great power on its border.
 - `INS-260404-5A02` Chamath's decision to skip China's boom entirely due to cultural unfamiliarity — while engaging with India — illustrates how cultural accessibility shapes capital allocation more than pure economic fundamentals.
 - `INS-260323-11FF` Chinese deference to authority is a thousands-year-old implicit contract — stability, security, and prosperity in exchange for some deference — not the blind submission Western observers assume.
 - `INS-260330-DA38` Demographic shifts happen so slowly that they're ignored until retirement waves hit, then consequences cascade rapidly.
@@ -49,10 +58,12 @@
 - `INS-260405-5341` How third parties hedge their bets under rival pressure is a sharper signal of great-power military credibility than direct confrontations.
 - `INS-260404-4BC4` Stacking AI disruption with geopolitical chaos creates compound uncertainty that no single-variable model can price.
 - `INS-260325-B115` Chinese citizens tolerate authoritarian governance partly because they have watched their physical world transform — highways from zero, 1,000 parks in Shanghai, cleaner air — while Americans in static cities lose optimism.
+- `INS-260410-EA78` When ethical rule and economic prosperity fail as legitimacy pillars, authoritarian regimes default to jingoistic nationalism and territorial expansion — a last-resort card that clouds judgment and catalyzes counter-coalitions.
 - `INS-260403-A87D` The US government is undermining its own dollar dominance by attacking the very stablecoin projects that would cement USD as the default digital currency.
 - `INS-260330-0881` China's one-child policy combined with cultural son preference produced roughly 30-40 million excess men, creating downstream social and economic disruption.
 - `INS-260321-D183` If US wins the cold war: S&P returns 8-10% annually. If China wins: China gives the US a soft landing (they need US consumption market), S&P returns ~5% annually. Either way, S&P has the highest expected value.
 - `INS-260404-95CA` Project Vault pairs $12B in reserves with bilateral agreements across 11 countries, recognizing that mineral security requires allied coordination, not just stockpiling.
+- `INS-260410-38AA` Synthetic fuels turn abundant electricity into transportable hydrocarbons, disproportionately helping China escape its structural dependence on Middle East oil delivered by tankers its navy can't defend.
 - `INS-260405-E027` China's national champions are subsidized at cost, dump product to shape spot prices, and receive loans and grants that make them structurally unbeatable by tariffs alone.
 - `INS-260321-3808` When Japan's GDP reached ~70% of US GDP, the US forced the Plaza Accord and Japan stagnated for 35 years. When China's GDP reached ~70% of US GDP, the US initiated the trade/tech war. The pattern: hegemons don't let vassals surpass them.
 - `INS-260321-9E91` The US has wanted to pivot to Asia since the 2000s but keeps getting stuck in the Middle East. IMEC's purpose is to bind Middle Eastern nations economically so they manage their own region, freeing the US to focus on China.
@@ -62,17 +73,16 @@
 - `INS-260410-5CDC` China won the 1962 Sino-Indian War and took the Aksai Chin Plateau it wanted, but the cost was turning an idealistic, non-militarized India into a permanent adversary that doubled its army within a decade — and foreclosed any possibility of a China–India partnership that would have reshaped the global order.
 - `INS-260403-1B00` Xi has purged his entire military leadership including his closest ally and China's last combat-experienced general, suggesting internal crisis rather than war preparation.
 - `INS-260403-7285` Xi entering a 'lion in winter' paranoia phase may reduce Taiwan invasion risk but make China's domestic policy more erratic.
+- `INS-260410-361B` If Xi drops dead or goes senile, Chinese capital controls collapse within days — not because of mass panic, but because individual FX bureaucrats stop fearing jail and start accepting $100M bribes.
 - `INS-260403-1F97` Russian crude sellers are again requesting yuan payment from Indian refiners, driven by sanctions pressure rather than ideological de-dollarization.
-- `INS-260409-F485` Napier's emerging-market heuristic: avoid countries where trading rights are not guaranteed, constitutions are weak, or exchange rates are overvalued — operationalized as 'don't invest where you wouldn't live after retirement.'
-- `INS-260405-484F` Clawback mechanisms that reach founders' personal assets convert entrepreneurship from bounded-downside to unlimited-downside, chilling risk-taking.
-- `INS-260405-ADCE` US and China are pursuing humanoid robotics through different incentive structures and deployment contexts, making a single global market unlikely.
-- `INS-260403-CF46` Most China analyses reach contradictory conclusions (China will dominate vs. China has peaked) because they cherry-pick output metrics instead of examining the underlying systems that produce those outputs.
-- `INS-260403-49FF` Page and Brin overruled Schmidt on China because values conflicts are founder-domain decisions that operators are structurally unable to make.
-- `INS-260330-B4BD` Two generations of one-child families made small families the cultural norm in China, rendering policy reversal largely ineffective.
-- `INS-260403-69C3` National security framing activates fear circuits that override the capacity for nuanced policy engagement.
 - `INS-260325-C5FD` American automakers take 6 years to ship a new model; Chinese competitors do it in 18 months — with 50 major EV makers competing fiercely, iteration speed IS the innovation.
 - `INS-260403-5A4C` China's playbook of picking national champions, subsidizing them infinitely, and pricing below cost has captured steel, solar, drones, and EVs — and private firms cannot compete on price alone.
 - `INS-260323-1D15` Chinese competitive dynamics favor rapid replication over differentiation — when something works, thousands of competitors copy it immediately, driving ferocious price and execution competition.
 - `INS-260405-2AFD` China's workforce built deep process knowledge by assembling goods for international firms, and that accumulated expertise became the foundation for leapfrogging into EVs, solar, and AI hardware.
 - `INS-260403-28AB` If OpenAI fails after absorbing $100B+, the resulting investor panic could hand AI leadership to Chinese competitors.
+- `INS-260410-81E8` Nadella argues the most important feature of American AI isn't capability but trust — countries are deploying based on whether the supplier and its institutions will still be around in 20 years.
 - `INS-260402-B0AB` You cannot have technical imagination without political imagination — suppressing one suppresses both.
+- `INS-260403-CF46` Most China analyses reach contradictory conclusions (China will dominate vs. China has peaked) because they cherry-pick output metrics instead of examining the underlying systems that produce those outputs.
+- `INS-260403-49FF` Page and Brin overruled Schmidt on China because values conflicts are founder-domain decisions that operators are structurally unable to make.
+- `INS-260330-B4BD` Two generations of one-child families made small families the cultural norm in China, rendering policy reversal largely ineffective.
+- `INS-260403-69C3` National security framing activates fear circuits that override the capacity for nuanced policy engagement.

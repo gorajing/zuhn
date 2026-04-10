@@ -39,12 +39,12 @@ resolutions:
     but Tao identifies the specific bottleneck that emerges: not generation, but
     evaluation.
 related:
+  - INS-260410-5740
   - PRI-260321-14D8
   - INS-260403-2AF0
   - INS-260403-D6C2
   - INS-260323-1494
   - INS-260327-8358
-  - INS-260408-76F4
 stance: >-
   AI made idea generation almost free, just as the internet made communication
   almost free

@@ -53,11 +53,11 @@ related:
   - INS-260327-D76A
   - INS-260405-C17A
   - INS-260405-A5C8
+  - INS-260410-C045
   - PRI-260406-A5F0
   - INS-260329-4DBC
   - INS-260403-219F
-  - INS-260410-7B48
   - INS-260409-FC9A
-  - INS-260410-F985
+  - INS-260409-BBB5
 ---
 Research-agent hallucinations — fake papers, made-up authors, fabricated results — are not fixed by attaching a search tool, because the agent still has to integrate many long, cutting-edge documents without losing coherence. The Aletheia team reportedly had to 'heavily train' the model to use literature tools correctly, and this is what finally stopped the fabrication. The lesson for anyone building agents that reason over research literature: retrieval-augmented generation without targeted training on multi-document synthesis is insufficient for high-stakes technical work. Tool access is table stakes; tool mastery is a training problem. This matches the broader pattern that capability comes from end-to-end training on the target task, not from bolting external tools onto an off-the-shelf base model.

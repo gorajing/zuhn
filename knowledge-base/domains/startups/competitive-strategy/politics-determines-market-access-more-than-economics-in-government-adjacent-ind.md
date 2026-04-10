@@ -47,6 +47,7 @@ related:
   - INS-260330-C7E6
   - INS-260403-8155
   - INS-260330-D460
+  - INS-260410-230E
 stance: >-
   In firearms, the US government decides which foreign manufacturers can sell to
   American civilians

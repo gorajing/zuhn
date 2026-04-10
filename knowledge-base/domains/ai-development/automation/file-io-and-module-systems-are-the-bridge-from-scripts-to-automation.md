@@ -48,11 +48,11 @@ stance: >-
   specifically when learners master file I/O and module imports, not when they
   learn algorithms
 related:
+  - INS-260410-010F
   - INS-260403-976C
   - PRI-260407-A13C
   - PRI-260328-5D9E
   - INS-260329-2F63
-  - PRI-260328-D401
 ---
 The tutorial's progression reveals a key inflection point: everything before file I/O and modules is essentially using Python as a fancy calculator. Once learners can read/write files and import external packages, they can suddenly automate real work — processing CSVs, scraping data, generating reports. This is where Python transitions from educational to economically valuable.
 

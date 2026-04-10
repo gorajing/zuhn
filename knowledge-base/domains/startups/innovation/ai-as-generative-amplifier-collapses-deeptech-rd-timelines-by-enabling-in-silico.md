@@ -56,7 +56,7 @@ related:
   - PRI-260407-7AE9
   - INS-260322-D079
   - PRI-260406-9780
-  - INS-260410-0330
+  - INS-260410-8C08
   - INS-260408-F58E
 ---
 The deeptech stack is being fundamentally restructured by AI's ability to simulate physical and biological systems before committing to expensive lab work. Startups can now model proteins, design materials, and simulate climate pathways computationally — saving years and millions in traditional R&D cycles. This transforms AI from a product vertical into a horizontal infrastructure layer that makes previously capital-prohibitive science commercially viable.

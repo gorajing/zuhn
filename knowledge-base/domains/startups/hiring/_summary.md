@@ -1,6 +1,6 @@
 # Topic: hiring
 
-> 64 insights
+> 66 insights
 
 - `INS-260330-4341` [high] The speed at which a skill can be taught is inversely correlated with its long-term career defensibility.
 - `INS-260330-1B37` [high] Airbnb spent 5 months hiring their first employee and only hired two people in year one because early hire quality is existential.
@@ -45,6 +45,7 @@
 - `INS-260403-D966` [high] Good programmers want to work with other good programmers, so talent decline is a one-way ratchet.
 - `INS-260402-33CA` [high] Technology stack decisions double as social decisions that determine the caliber of talent you can attract.
 - `INS-260330-E126` [high] Hire people who are 'animals' — so obsessively good at their job that they cross from professional into obsessive.
+- `INS-260410-E076` [high] Dwarkesh received ~1000 applications for a chief-of-staff role through his large platform, but ended up hiring (and finding top contenders) via mutual friends — evidence that elite generalists don't self-apply.
 - `INS-260403-88F8` [high] Replace short interviews with 6+ hour shared activities because facades crack after 2-3 hours, revealing the real person.
 - `INS-260330-BCC2` [high] Hire undervalued talent — people early in careers or overlooked by the market — rather than competing for proven stars at big companies.
 - `INS-260404-D60F` [high] Underfunding back-office functions creates hidden operational debt that surfaces during investor diligence and audit cycles.
@@ -58,6 +59,7 @@
 - `INS-260403-C283` [medium] Give trial project candidates more work than they can finish to see how they triage, scope, and communicate what they chose to skip and why.
 - `INS-260330-D52B` [medium] Mass learn-to-code campaigns flood the junior market while senior scarcity persists, compressing entry wages without solving the actual talent shortage.
 - `INS-260403-10CE` [medium] As AI automates task execution, the scarce human contribution shifts to judgment, taste, and the ability to orchestrate AI systems effectively.
+- `INS-260410-2952` [medium] Church explicitly hires for niceness and multidisciplinarity over genius, producing an international alumni network that cooperates across supposedly cutthroat fields and spawns 100+ companies.
 - `INS-260405-B967` [medium] Headcount growth should be tied to revenue milestones, not fundraising events or growth ambition.
 - `INS-260404-886C` [medium] Intrapreneurs who create billion-dollar internal ventures deserve compensation and career tracks equivalent to salespeople who generate comparable revenue.
 - `INS-260404-56C1` [medium] Vasco Pedro's top criterion for Halo's first CEO is someone who cares so deeply that others might think they're 'a bit weird' — prioritizing missionary zeal over mercenary polish.

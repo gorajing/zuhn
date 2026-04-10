@@ -1,6 +1,6 @@
 # Topic: content-strategy
 
-> 68 insights
+> 69 insights
 
 - `INS-260330-B885` [high] Rogan gained 2 million subscribers during his cancellation attempt because the coordinated media attack inadvertently proved his independence from institutional control.
 - `INS-260405-3F0F` [high] Google ranks pages; AI cites statements — this single difference demands a claim-first approach to content structure.
@@ -55,6 +55,7 @@
 - `INS-260329-4CFD` [medium] Comprehensive single-resource tutorials capture high-intent beginner search queries and compound views over years.
 - `INS-260409-DEF4` [medium] Creators should now treat content production as dual-audience — humans and LLMs — with shorts for how-to volume and long-form written for depth that gets cited.
 - `INS-260403-5EEA` [medium] Topic selection should prioritize what gives you energy to think and write about for years, not what the market says it wants.
+- `INS-260410-25AF` [medium] Great writing propagates efficiently through elite networks in roughly a week — audience compounding is an artifact of the creator slowly getting better, not of slow network accretion.
 - `INS-260330-8D27` [medium] Long-form conversation formats (2-5 hours) produce qualitatively different insights because duration itself relaxes subjects into revealing authentic complexity.
 - `INS-260330-DAAD` [medium] Three-hour podcast interviews can launder lies by substituting length and good vibes for actual fact-checking.
 - `INS-260409-A62F` [medium] High-volume content production is the late-stage payoff of having tolerated years of bad early output.

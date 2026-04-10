@@ -5,4 +5,6 @@
 - `INS-260325-031F` Linda from Minimax outlined three coding eras: GUI copilots where humans supervise, CLI agents where humans trust but cannot inspect every step, and fully autonomous agents spawning sub-agents.
 - `INS-260325-D540` Expert developers already use different coding agents for ideation, testing, and debugging — not one agent for everything.
 - `INS-260325-2DCD` Coding agents create well but cannot steward codebases — they lack system design judgment.
+- `INS-260410-9EA8` Karpathy built nanochat with mostly autocomplete — not agents — because LLM agents kept forcing deprecated APIs, bloating code with defensive try/catch, and refusing to accept his custom distributed training bypass of PyTorch DDP.
+- `INS-260410-8767` Zuckerberg predicts most Meta AI-research code will be written by goal-driven AI agents within 12-18 months, replacing human-authored code rather than just augmenting it.
 - `INS-260325-3F86` AI self-improvement is real but narrow: coding agents improving AI systems create genuine recursive loops.

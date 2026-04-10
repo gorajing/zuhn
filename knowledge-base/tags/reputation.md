@@ -1,30 +1,21 @@
 # Tag: reputation
 
-- `INS-260327-2964` Prussia's army was considered Europe's finest based on Frederick the Great's victories 50 years earlier — but it had not modernized and collapsed in a single day.
 - `INS-260323-3614` Pakman deleted a controversial tweet under threat pressure, which he deeply regrets — the attacks escalated anyway, and deleting removed his ability to show context when support arrived.
 - `INS-260405-4423` The most successful investors are disproportionately the most ethical — not coincidentally.
-- `INS-260403-CD29` When everything you say online is permanently stored, the ability to reinvent yourself and move past mistakes is fundamentally constrained.
-- `INS-260330-B444` Cities surrendered to the Mongols on arrival because the reputation for total destruction made resistance seem irrational.
-- `INS-260405-7DD7` When you can't predict who matters, you must treat everyone as if they matter — which only genuinely good people can sustain.
-- `INS-260402-CCC3` VCs optimize for defensible-looking decisions rather than highest expected value, creating systematic blind spots.
-- `INS-260402-1146` Sustained proof-of-work builds a reputation signal that eventually outcompetes brand theatrics and institutional prestige in sophisticated markets.
-- `INS-260330-F909` Secrets and lies spoil like food with limited shelf life, but trust earned from keeping them compounds indefinitely—always choose the long-term play.
-- `INS-260330-90C3` Jho Low's fake credentials compounded — each lie made the next one easier because people used prior signals as validation.
-- `INS-260330-7E3F` Non-experts in public discourse play 'tennis without a net' — they can swing as hard as they want with no penalty for errors, while real experts face career consequences for every mistake.
-- `INS-260330-E77D` Myths propagate most effectively when the source simply stays silent and lets others fill in the narrative.
 - `INS-260329-409F` You can't delete a bad brand pairing — you can only shrink it into irrelevance by overwhelming it with positive associations.
+- `INS-260327-2964` Prussia's army was considered Europe's finest based on Frederick the Great's victories 50 years earlier — but it had not modernized and collapsed in a single day.
 - `INS-260329-B77F` Business titans built credibility through results first and personal brands second — competitors can copy your promises and services but cannot copy your proof.
 - `INS-260330-3274` Cities surrendered to the Mongols without fighting because the alternative — witnessed in previous slaughters — was annihilation.
-- `INS-260402-575D` Ten or more reviews override humans' innate preference for similar people, unlocking cross-demographic trust in marketplaces.
-- `INS-260323-F282` Today almost no one associates Nobel with dynamite -- his prize program so thoroughly overwrote his legacy that 'Nobel' means scientific achievement, not weapons.
-- `INS-260321-FB3F` Every time a public figure gets destroyed, it's because of something too short to contain context — say everything you think, but say it on a podcast or in an essay.
 - `INS-260322-D6B8` As you age, competing on individual technical skill puts you against younger rivals; building influence and reputation shifts your career to inbound opportunities that come to you.
 - `INS-260329-388E` Goodwill functions like a financial asset that compounds over time and generates measurable returns.
+- `INS-260402-575D` Ten or more reviews override humans' innate preference for similar people, unlocking cross-demographic trust in marketplaces.
+- `INS-260329-9E6C` Goodwill from overdelivering compounds into referrals, retention, and pricing power that outpaces short-term extraction.
+- `INS-260323-F282` Today almost no one associates Nobel with dynamite -- his prize program so thoroughly overwrote his legacy that 'Nobel' means scientific achievement, not weapons.
+- `INS-260321-FB3F` Every time a public figure gets destroyed, it's because of something too short to contain context — say everything you think, but say it on a podcast or in an essay.
 - `INS-260403-DE0E` Investing well in a few startups and genuinely helping them creates a chain reaction of increasingly high-quality referrals.
 - `INS-260403-296C` Sequoia invests real work in explaining their passes — sometimes detailed memos with specific suggestions — because founders talk and graceful rejections compound reputation.
 - `INS-260405-3C56` Genuine goodness beats strategic niceness when information flows freely and the future is unpredictable.
 - `INS-260405-224A` When founders talk, bad investor behavior propagates quickly and reduces dealflow.
-- `INS-260329-9E6C` Goodwill from overdelivering compounds into referrals, retention, and pricing power that outpaces short-term extraction.
 - `INS-260403-22DF` The best programmers can work anywhere, so perceived corporate evil selectively filters out exactly the talent you most need.
 - `INS-260330-AA25` Never apologizing works in environments without accountability but creates compounding credibility debt that collapses catastrophically when external pressure arrives.
 - `INS-260330-25A8` You can take someone's job but you cannot take their dignity — every employee in your company will become an informal reference for that person.
@@ -34,3 +25,12 @@
 - `INS-260329-B8C4` Provide tremendous unrequested value to 100 people and 1-5 will respond with opportunities — no transactional framing needed.
 - `INS-260329-F4E4` Stacking revenue quickly without fixing the product creates a fragile tower that can't grow past a certain height — sustainable scale requires going back to rebuild the foundation.
 - `INS-260330-0145` Ramsey treats every endorsement as a trust liability — if a partner fails the 'would you send your sister there' test, the deal dies regardless of revenue.
+- `INS-260403-CD29` When everything you say online is permanently stored, the ability to reinvent yourself and move past mistakes is fundamentally constrained.
+- `INS-260330-B444` Cities surrendered to the Mongols on arrival because the reputation for total destruction made resistance seem irrational.
+- `INS-260405-7DD7` When you can't predict who matters, you must treat everyone as if they matter — which only genuinely good people can sustain.
+- `INS-260402-CCC3` VCs optimize for defensible-looking decisions rather than highest expected value, creating systematic blind spots.
+- `INS-260402-1146` Sustained proof-of-work builds a reputation signal that eventually outcompetes brand theatrics and institutional prestige in sophisticated markets.
+- `INS-260330-F909` Secrets and lies spoil like food with limited shelf life, but trust earned from keeping them compounds indefinitely—always choose the long-term play.
+- `INS-260330-90C3` Jho Low's fake credentials compounded — each lie made the next one easier because people used prior signals as validation.
+- `INS-260330-7E3F` Non-experts in public discourse play 'tennis without a net' — they can swing as hard as they want with no penalty for errors, while real experts face career consequences for every mistake.
+- `INS-260330-E77D` Myths propagate most effectively when the source simply stays silent and lets others fill in the narrative.

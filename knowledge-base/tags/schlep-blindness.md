@@ -1,6 +1,6 @@
 # Tag: schlep-blindness
 
-- `INS-260330-F737` Schlep blindness causes founders to unconsciously avoid ideas involving tedious operational work, systematically hiding the highest-value opportunities.
-- `INS-260404-8E68` Your mind eliminates unpleasant options before conscious deliberation, making you blind to opportunities you'd rationally pursue.
 - `INS-260404-CF9F` Your unconscious mind prevents you from even seeing startup ideas that involve difficult, unpleasant work.
 - `INS-260327-643E` Ideas that seem bad — boring (Gusto/payroll), hard to start (Stripe/bank deals), or crowded (Dropbox/20 competitors) — systematically outperform because most founders avoid them.
+- `INS-260330-F737` Schlep blindness causes founders to unconsciously avoid ideas involving tedious operational work, systematically hiding the highest-value opportunities.
+- `INS-260404-8E68` Your mind eliminates unpleasant options before conscious deliberation, making you blind to opportunities you'd rationally pursue.

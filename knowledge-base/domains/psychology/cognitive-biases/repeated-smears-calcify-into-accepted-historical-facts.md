@@ -52,7 +52,7 @@ related:
   - INS-260330-4FA3
   - INS-260323-0556
   - INS-260403-222E
-  - INS-260402-26B0
+  - INS-260410-6A19
 ---
 The idea that people before Columbus thought the Earth was flat is itself a misconception. Virtually every scholar and major religion in the West accepted Earth's roundness since the Ancient Greeks, who observed boats disappearing bottom-first and stars changing with latitude. The flat Earth smear originated as a rhetorical weapon — 'your people recently thought the Earth was flat, so why should we believe you now?' — and was repeated and published so frequently it became accepted as historical fact.
 

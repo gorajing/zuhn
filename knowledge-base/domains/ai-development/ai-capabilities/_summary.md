@@ -1,6 +1,6 @@
 # Topic: ai-capabilities
 
-> 139 insights
+> 147 insights
 
 - `INS-260321-E4EB` [very_high] AI made idea generation almost free, just as the internet made communication almost free — the bottleneck shifted to verification, evaluation, and filtering signal from noise.
 - `INS-260321-7D7C` [very_high] AI's superpower is breadth (trying every technique on every problem simultaneously), humans' is depth (cumulative progress from partial understanding). Science must restructure to exploit both.
@@ -17,8 +17,10 @@
 - `INS-260329-5ECD` [high] Feed AI code editors one screen at a time with explicit spatial descriptions because they misplace UI elements when given multiple screens at once.
 - `INS-260403-D090` [high] Karpathy's coding workflow flipped from 80% manual to 80% agent-driven in just weeks, demonstrating that AI coding capability crossed a phase transition rather than improving gradually.
 - `INS-260403-46DD` [high] Mass surveillance was legally possible but practically infeasible before AI; AI removes the cost/scale constraint that served as the real protection.
+- `INS-260410-ED68` [high] Human science is optimized for depth because that's all humans can do; AI unlocks a parallel breadth-first mode that requires restructuring how science is practiced.
 - `INS-260325-5656` [high] Dyno trains ML models on petabytes of capsid performance data from primate experiments, then queries them billions of times in silico to find optimal sequences — replacing random mutation with AI-guided design.
 - `INS-260325-F20C` [high] Sequoia sizes AI at $10T+ because it replaces cognitive labor — every knowledge worker seat becomes a software purchase.
+- `INS-260410-C045` [high] Tao's papers now contain more code, more figures, deeper literature searches thanks to AI — but the hardest parts still happen on pen and paper.
 - `INS-260403-C584` [high] Anthropic's Claude and other AI tools were operationally deployed in the Iran War for intelligence processing, target identification, and battle damage assessment at unprecedented speed.
 - `INS-260323-F0A2` [high] Each major AI leap — next-word prediction learning anything, predictable improvement from scale, and RL teaching reasoning — seemed 'too simple to work' to experts before being proven right.
 - `INS-260330-E282` [high] AI can generate hypotheses far faster than labs can test them, making verification the true bottleneck in experimental sciences.
@@ -31,7 +33,9 @@
 - `INS-260408-306A` [high] AlphaFold predicts protein 3D structure in seconds where wet lab took years and hundreds of thousands of dollars per protein.
 - `INS-260408-B5EC` [high] AlphaZero learns chess from random to better-than-world-champion in 16-17 self-play generations, no human data required.
 - `INS-260321-8433` [high] Karpathy's auto-research loop found hyperparameter improvements overnight that his two decades of ML experience missed — the agent found weight decay and Adam beta issues that interact jointly.
+- `INS-260410-F64D` [high] Evolution has spent a billion years making chickens the cheapest possible protein converters, creating a cost floor that even AGI-enabled alternatives may not beat.
 - `INS-260325-D392` [high] PolarQuant converts Cartesian vectors to polar coordinates, revealing that angle distributions are naturally concentrated — making compression trivial without the normalization overhead traditional methods require.
+- `INS-260410-BD9D` [high] AGI was supposed to chisel away at every knowledge-work task; instead API revenue is overwhelmingly coding because decades of text-based developer tooling happened to be exactly what text-processing LLMs need.
 - `INS-260403-976C` [high] Current AI capabilities represent a fraction of what near-future compute investments will enable, creating an accelerating intelligence divergence.
 - `INS-260327-3F40` [high] The fierce debate around Assembly Theory's Nature paper produced more scientific scrutiny and engagement than a hundred uncontroversial papers would have.
 - `INS-260325-3F9B` [high] Quantum effects dissipate almost instantly through decoherence, so a computation needing 100 qubits may require a million physical qubits just for error correction redundancy.
@@ -49,12 +53,14 @@
 - `INS-260323-8D12` [high] Hallucinations stem from how LLMs break information into tokens and reconstruct probable relationships — this is a fundamental design flaw, not a bug to be patched.
 - `INS-260408-5BE5` [high] Root node problems are the leaves whose solution unlocks an entire research tree — AlphaFold was one, fusion and room-temperature superconductors are next.
 - `INS-260323-8AEC` [high] Reinforcement learning with verifiable rewards plus inference-time compute scaling is what enabled models to use tools, write code agentically, and perform multi-step reasoning.
+- `INS-260410-9425` [high] Zuckerberg argues fast-takeoff AGI scenarios underweight how much of the stack is gated by physical-world timelines — gigawatt clusters, permitting, energy supply chains, and users learning to use the tools.
 - `INS-260403-107E` [high] Japanese manufacturers hold 70% of global industrial robot market share because high-reliability components require decades of accumulated tacit manufacturing knowledge that cannot be shortcut.
 - `INS-260321-52EF` [high] Software was scarce and expensive — AI making it cheaper unlocks massive latent demand (Jevons paradox). Like ATMs creating more bank branches and more tellers, not fewer.
 - `INS-260323-539C` [high] Humans interpret language by modeling the speaker's mind and intentions — when LLMs produce coherent text, we involuntarily project intelligence that isn't there.
 - `INS-260403-5F69` [high] Rising benchmark scores mask the gap between test performance and messy real-world reliability.
 - `INS-260323-1BF7` [high] Unlike human children who build world models from minimal data, LLMs require the entire internet as a crutch because they mimic rather than understand.
 - `INS-260323-2C19` [high] A leading psycholinguist confirms that LLMs have mastered the form (syntax, grammar, patterns) of language but not its meaning — and the gap between form and meaning may be much larger than assumed.
+- `INS-260410-9EA8` [high] Karpathy built nanochat with mostly autocomplete — not agents — because LLM agents kept forcing deprecated APIs, bloating code with defensive try/catch, and refusing to accept his custom distributed training bypass of PyTorch DDP.
 - `INS-260323-D18D` [high] LLMs training on AI-generated content creates a downward spiral of quality degradation that nobody is actively addressing.
 - `INS-260321-80A9` [high] Models simultaneously feel like a brilliant PhD and a 10-year-old — they're superhuman in RL-trained domains and mediocre outside them. This jaggedness doesn't improve with scale.
 - `INS-260408-F3F0` [high] Deep Blue couldn't play tic-tac-toe; AlphaGo's move 37 revealed a system that generates knowledge its training data didn't contain.
@@ -77,6 +83,7 @@
 - `INS-260323-E520` [high] Stanford and Princeton studies show sycophantic models degrade human reasoning by confirming wrong answers — political pressure toward compliant AI worsens this.
 - `INS-260325-6FA7` [high] Symbolic AI's failure at real-world tasks demonstrates that explicit rule-based reasoning hits a complexity ceiling.
 - `INS-260330-264B` [high] Temperature in LLM sampling controls the predictability-creativity tradeoff, with zero producing derivative text and high values risking incoherence.
+- `INS-260410-38C9` [high] No amount of pre-training can encode the idiosyncrasies of a specific job, client, or environment — the world is too big, so on-the-job learning into the weights is unavoidable.
 - `INS-260323-4D13` [high] Zuckerberg identifies the scaling question as the single highest-stakes bet in AI: Llama training went from 10-20K GPUs to 100K+ GPUs, with hundreds of billions in infrastructure riding on continued returns.
 - `INS-260408-F20F` [high] Hassabis says even frontier labs can only explore a fraction of what their models enable, and the gap is widening as release schedules accelerate.
 - `INS-260321-AE3F` [high] Most AI-solved math problems fell to known techniques that nobody had thought to apply — the 'deductive overhang' of existing knowledge applied systematically to all open problems could be enormous.
@@ -94,6 +101,7 @@
 - `INS-260327-EDF0` [medium] Training agent swarms requires three reward functions -- instantiation, finish, and outcome -- to prevent agents from defaulting to serial single-agent behavior.
 - `INS-260323-3045` [medium] The widely accepted belief that AGI is inevitable and we're racing toward it is a community assumption masquerading as scientific consensus — the future is not yet written.
 - `INS-260403-F943` [medium] The 5% Rule reframes AGI progress as raising the floor of competence across fields rather than pushing the ceiling of peak performance.
+- `INS-260410-8C08` [medium] More George Churches in data centers would not multiply bio progress because intelligence-in-silicon has no stake in biology and the true bottleneck is wet-lab experimentation, not idea generation.
 - `INS-260405-6A6F` [medium] AI agents that can code and reason may nullify the workforce scale advantage that underpins China's tech sector.
 - `INS-260328-0B99` [medium] Models improved faster than expected in 2025 with multiple strong releases from Google and others, but it takes time to even assess how good new models are -- and the distance from 'very useful' to 'superintelligence' remains vast.
 - `INS-260329-200A` [medium] A mood tracker app that would have taken a 4-person team a month was built in under an hour with AI coding tools and Expo.

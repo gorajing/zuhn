@@ -48,10 +48,10 @@ stance: >-
   relief rather than strength
 related:
   - INS-260322-96F1
+  - INS-260410-75B9
   - INS-260404-8394
   - INS-260330-A476
   - PRI-260406-91C2
-  - INS-260327-3E6F
 evidence:
   - id: INS-260322-96F1
     type: TRANSFERS_TO

@@ -1,6 +1,13 @@
 # Tag: relationships
 
 - `INS-260329-0CDD` AI companions tuned to individual preferences for voice, personality, and emotional responsiveness will outperform human partners on availability and attentiveness.
+- `INS-260329-E0B0` A great partnership is measured by the gap between what you achieve together versus what you'd achieve alone.
+- `INS-260404-DF8E` Startups stress-test co-founder relationships like a dog with a sock — if it can be pulled apart, it will be.
+- `INS-260409-0503` You can't go from no relationship to acquired acquirer in two months any more than you can close a cold Series A in three weeks.
+- `INS-260325-3B2A` Getting on the plane to meet someone in person, even for 15 minutes, creates a signal of commitment that consistently beats remote communication in closing deals.
+- `INS-260409-D681` Relationships are the ballast that keeps transactional businesses afloat when the deal flow turns — customers stay with people, not products.
+- `INS-260403-DD41` YC broke at 80 startups because partner-startup relationships were O(n²) — sharding into dedicated groups fixed it instantly.
+- `INS-260330-CB2E` Jho Low let Malaysia's Deputy PM take full credit for brokering a Middle East investment deal, converting zero public credit into private access to the country's most powerful person.
 - `INS-260409-065B` Creativity and relationship-building are what AI can't replicate — hire for both, most firms don't.
 - `INS-260327-56B3` While overt narcissists demand attention through grandiosity, covert narcissists achieve the same result through victimhood, making them far harder to identify and far more damaging in close relationships.
 - `INS-260329-0014` Early entrepreneurial support comes from others' increased relative status; later hostility comes from your success highlighting their inaction.
@@ -50,10 +57,3 @@
 - `INS-260404-4F67` The number one predictor of happiness and the top enabler of antifragility are the same thing: quality relationships.
 - `INS-260327-B767` Learning to enjoy being alone transforms every relationship into a choice rather than a dependency.
 - `INS-260330-A075` Deliberately allowing yourself to be influenced by others' ideas requires the confidence that you can return to yourself afterward.
-- `INS-260329-E0B0` A great partnership is measured by the gap between what you achieve together versus what you'd achieve alone.
-- `INS-260404-DF8E` Startups stress-test co-founder relationships like a dog with a sock — if it can be pulled apart, it will be.
-- `INS-260409-0503` You can't go from no relationship to acquired acquirer in two months any more than you can close a cold Series A in three weeks.
-- `INS-260325-3B2A` Getting on the plane to meet someone in person, even for 15 minutes, creates a signal of commitment that consistently beats remote communication in closing deals.
-- `INS-260409-D681` Relationships are the ballast that keeps transactional businesses afloat when the deal flow turns — customers stay with people, not products.
-- `INS-260403-DD41` YC broke at 80 startups because partner-startup relationships were O(n²) — sharding into dedicated groups fixed it instantly.
-- `INS-260330-CB2E` Jho Low let Malaysia's Deputy PM take full credit for brokering a Middle East investment deal, converting zero public credit into private access to the country's most powerful person.

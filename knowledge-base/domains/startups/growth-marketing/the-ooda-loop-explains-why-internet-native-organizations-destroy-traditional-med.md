@@ -52,9 +52,9 @@ resolutions:
 related:
   - INS-260329-8E48
   - PRI-260321-5857
+  - INS-260410-25AF
   - INS-260325-9F01
   - INS-260325-A08A
-  - PRI-260328-1A2D
 stance: The NYT's 24-hour editorial cycle is an OODA loop
 evidence:
   - id: INS-260325-A08A

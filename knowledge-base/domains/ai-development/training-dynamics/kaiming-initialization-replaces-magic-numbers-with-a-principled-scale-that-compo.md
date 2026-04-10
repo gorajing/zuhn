@@ -64,9 +64,9 @@ related:
   - INS-260410-85F5
   - INS-260410-6FA3
   - PRI-260405-FB37
+  - INS-260410-BB93
   - INS-260405-7305
   - INS-260330-30F0
-  - PRI-260323-8E89
 ---
 If you multiply a unit-Gaussian input by a weight matrix whose elements are themselves unit-Gaussian, the output's standard deviation expands by a factor of sqrt(fan_in). Stacked across many layers, this either explodes activations to infinity or collapses them to zero. Dividing weights by sqrt(fan_in) cancels this expansion and preserves the distribution.
 

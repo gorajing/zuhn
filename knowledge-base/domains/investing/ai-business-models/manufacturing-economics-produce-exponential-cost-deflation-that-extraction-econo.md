@@ -57,12 +57,12 @@ stance: >-
   deflationary learning curves that inevitably make them cheaper than
   incumbents, regardless of fuel cost fluctuations.
 related:
-  - INS-260325-722C
   - INS-260330-ADB7
+  - INS-260410-13C8
   - PRI-260405-5912
   - INS-260322-5790
   - PRI-260405-B144
-  - PRI-260406-9573
+  - INS-260325-722C
   - INS-260405-24F0
   - INS-260409-053F
 ---

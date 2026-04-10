@@ -54,10 +54,10 @@ stance: >-
   cumulatively create the friction needed without requiring full border closure.
 related:
   - INS-260403-8002
+  - INS-260410-5075
   - INS-260409-571B
   - INS-260403-2225
   - INS-260410-F814
   - PRI-260328-37D8
-  - INS-260330-2B4F
 ---
 The third counterargument: Napier's scheme requires controlling capital flows, and in 2026 capital crosses borders instantly by comparison to the Bretton Woods era when full capital control was the institutional default. True — full capital control like 1950s UK is unlikely in a democratic US, and Wall Street's economic and political power resists such moves. But the argument misreads the mechanism. Full closure isn't needed; friction is. Trump's tariff regime is a form of capital control (it redirects trade flows that drive capital flows). Governments worldwide are tightening rules on pension-fund investments, retirement accounts, and institutional mandates in directions that serve their fiscal interests. Each individual rule is small; the cumulative friction is not. The investor takeaway: don't wait for the full wall to be built before repositioning. The friction is already rising, and the US democratic constraint means it will arrive through a thousand rule changes rather than one dramatic announcement.

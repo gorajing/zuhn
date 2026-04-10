@@ -47,10 +47,10 @@ resolutions:
     economic warfare — it suggests ground operation contingency planning.
 related:
   - INS-260321-5655
+  - INS-260410-38AA
   - PRI-260323-9295
   - INS-260327-4313
   - INS-260323-A3DB
-  - INS-260321-D4D0
 stance: Kharg Island's strategic value extends beyond oil
 ---
 Most analysts view Kharg Island purely through the oil lens (Iran's primary export terminal). But the journalist reveals a second strategic layer: if the US ever needed to deploy ground forces against Iran, eastern approaches (Turkmenistan, Afghanistan, Pakistan) are blocked — Pakistan and Afghanistan are in active conflict. The only viable ground entry is from the west through Iraq, making Kharg Island critical as a staging platform.

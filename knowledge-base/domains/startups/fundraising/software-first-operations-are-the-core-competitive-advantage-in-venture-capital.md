@@ -45,7 +45,6 @@ stance: >-
   systematically outperform relationship-based firms that rely on human
   processes.
 related:
-  - INS-260321-69E1
   - INS-260323-A7F6
   - INS-260327-18D4
   - INS-260403-407A

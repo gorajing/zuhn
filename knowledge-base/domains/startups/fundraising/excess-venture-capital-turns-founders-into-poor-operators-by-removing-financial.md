@@ -53,12 +53,12 @@ related:
   - INS-260322-F868
   - INS-260327-6061
   - INS-260327-E1EB
-  - INS-260329-644B
   - INS-260330-DE65
   - INS-260330-4AC6
   - INS-260330-9751
   - INS-260403-AEBD
   - INS-260403-3059
+  - INS-260402-ABB5
 ---
 When VCs are pressured to deploy large funds within fixed timelines, they tend to over-capitalize portfolio companies. This excess capital systematically undermines founder discipline—removing the resource constraints that force careful prioritization, lean operations, and rigorous metric tracking. The author observes that 'too much money = big ego' is nearly inherent, and that balance is key.
 

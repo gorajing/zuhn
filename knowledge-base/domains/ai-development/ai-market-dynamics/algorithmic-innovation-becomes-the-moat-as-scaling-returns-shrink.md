@@ -55,5 +55,6 @@ related:
   - PRI-260406-E015
   - PRI-260328-5CDE
   - INS-260409-F90C
+  - INS-260410-DD35
 ---
 Scaling returns are 'still substantial but less than at the start.' Harder and harder to eke gains from the same ideas. The four leading labs' gap is starting to pull away from the pack because the frontier tools (coding tools, math tools) also compound each lab's ability to build the next generation. This is a testable prediction: if by 2027 we see a commoditized landscape where open models are within 1-3 months of frontier capability, Hassabis is wrong. If instead the gap widens, the frontier moat shifted from compute to research taste. Investors and founders should price this — betting on 'just use the API' assumes commoditization that Hassabis expects to reverse.

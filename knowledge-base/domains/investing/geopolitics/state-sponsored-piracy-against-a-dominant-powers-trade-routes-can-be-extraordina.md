@@ -55,7 +55,6 @@ related:
   - INS-260325-DDEE
   - PRI-260328-43D8
   - INS-260327-CE65
-  - INS-260330-B559
   - INS-260330-D711
 evidence:
   - id: INS-260330-D711

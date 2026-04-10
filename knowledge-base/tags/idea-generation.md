@@ -1,11 +1,6 @@
 # Tag: idea-generation
 
 - `INS-260321-E4EB` AI made idea generation almost free, just as the internet made communication almost free — the bottleneck shifted to verification, evaluation, and filtering signal from noise.
-- `INS-260402-12D0` Writing generates ideas rather than merely recording them — 90% of essay content only emerges during the writing process.
-- `INS-260403-772D` The skills that make someone a great speaker are often orthogonal or opposed to the skills that generate good ideas.
-- `INS-260403-B6FD` False popular beliefs suppress exploration of nearby true ideas, creating predictable regions where novel insights cluster.
-- `INS-260403-76C3` Intellectual fashions spread in visible waves, and the best undiscovered ideas cluster in currently unfashionable areas.
-- `INS-260402-4451` You can't find great questions by searching for them — they emerge from sustained immersion in work that interests you.
 - `INS-260326-967C` Co-founders who discover the idea together feel true ownership; co-founders recruited into someone else's idea always have one foot out the door.
 - `INS-260403-21AF` When you can't act on ideas, you stop having them—implementation constraints propagate upstream to kill creative thinking itself.
 - `INS-260330-0346` Pairing programming skills with deep knowledge of an unrelated field produces outsized startup ideas through a double advantage of fresh perspective and technical capability.
@@ -17,5 +12,10 @@
 - `INS-260404-CF9F` Your unconscious mind prevents you from even seeing startup ideas that involve difficult, unpleasant work.
 - `INS-260403-573F` The most valuable startup ideas come from founders working on what genuinely interests them, not from systematic market analysis.
 - `INS-260403-5441` The biggest startup ideas trigger fear and identity threat, causing founders to unconsciously filter them out.
+- `INS-260403-772D` The skills that make someone a great speaker are often orthogonal or opposed to the skills that generate good ideas.
 - `INS-260327-CD36` At least 70% of YC's top 100 companies by valuation came from ideas noticed organically rather than deliberate brainstorming, because brainstorming systematically produces tar pit ideas.
 - `INS-260403-8B94` Markets fill gaps fast, so viable startup ideas hide in five specific places where the market is temporarily imperfect.
+- `INS-260402-12D0` Writing generates ideas rather than merely recording them — 90% of essay content only emerges during the writing process.
+- `INS-260403-B6FD` False popular beliefs suppress exploration of nearby true ideas, creating predictable regions where novel insights cluster.
+- `INS-260403-76C3` Intellectual fashions spread in visible waves, and the best undiscovered ideas cluster in currently unfashionable areas.
+- `INS-260402-4451` You can't find great questions by searching for them — they emerge from sustained immersion in work that interests you.

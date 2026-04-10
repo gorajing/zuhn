@@ -52,10 +52,10 @@ stance: >-
   because enforcement is weakest at these boundaries.
 related:
   - INS-260327-AB3D
+  - INS-260410-2AEE
   - INS-260327-99DF
   - INS-260327-EDBA
   - INS-260327-7D63
-  - INS-260403-FAAF
 ---
 Caribbean pirates like Blackbeard thrived not because they were militarily powerful but because the Caribbean was divided between multiple colonial powers, none of which took clear responsibility for anti-piracy enforcement. Pirates exploited the seams between jurisdictions: raiding in Spanish waters, sheltering in British colonies, trading in French ports. No single authority could mount an effective response because the problem fell between jurisdictions.
 

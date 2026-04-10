@@ -47,7 +47,7 @@ related:
   - INS-260330-30DE
   - INS-260325-568A
   - PRI-260406-F72A
+  - INS-260410-ED68
   - INS-260327-9377
-  - PRI-260323-A33E
 ---
 Hassabis has spent his whole career building AGI specifically to be 'the ultimate tool for science and medicine.' In 5+ years he expects entry into 'a new golden age of scientific discovery.' Isomorphic Labs (spun out from AlphaFold) is building a general-purpose drug design platform applicable across neurogeneration, cardiovascular, immunology, and cancer. Strategic framing: if you're a researcher, founder, or investor, the science vertical is where frontier AI delivers compounding value faster than consumer or code markets, because each scientific breakthrough unlocks more breakthroughs. Chat and code are the distractions; biology is the endgame.

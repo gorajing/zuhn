@@ -1,6 +1,6 @@
 # Topic: strategy
 
-> 240 insights
+> 243 insights
 
 - `INS-260330-98EA` [high] The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples.
 - `INS-260403-0530` [high] New York struggles as a startup hub because founders there are second-class citizens in a status hierarchy that most admires financial wealth.
@@ -36,6 +36,7 @@
 - `INS-260403-35E1` [high] When your counterparty can threaten your existence outside the contract, the contract's protections become illusory.
 - `INS-260404-7A5B` [high] Costco turns every seeming disadvantage — fees, sparse selection, warehouse aesthetics — into a structural competitive advantage.
 - `INS-260405-4CDA` [high] The 1980s leveraged buyout wave succeeded partly because corporate balance sheets never formalized the debt owed to employees for deferred promotion promises.
+- `INS-260410-DE05` [high] Corporate welfare pledges have affected hundreds of millions of animals at a cost of under $100M/year, while the equivalent legislation is blocked by agriculture committees and cultivated meat consumes billions in VC with no scale.
 - `INS-260403-4F68` [high] Vendors offer credits to lock in early-stage companies before switching costs become prohibitive, which gives growth-stage founders leverage to renegotiate.
 - `INS-260323-1EEA` [high] Frebel's experience: even astronomers who share interests and work on the same phenomena struggle to communicate across theoretical and observational subfields — but pushing through produces the best work.
 - `INS-260330-5A4C` [high] Running nodes must be culturally ingrained as a responsibility, not just technically possible, because without that culture economic pressure will centralize the network.
@@ -149,6 +150,7 @@
 - `INS-260405-6DAD` [high] Founders taking equity upfront are making the same bet as ladder climbers — they've just restructured the timeline of risk and reward.
 - `INS-260402-CCF4` [high] Patents serve startups primarily as signals to acquirers that the technology is defensible and worth buying rather than building.
 - `INS-260328-6898` [high] Large companies are effectively always remote because the people you work with most closely are never at adjacent desks, but startups adopting the same practice gave up their in-person colocation advantage.
+- `INS-260410-99A3` [high] Clausewitz's 'culminating point' rule: every offensive has a moment past which continuing costs more than it gains, and great strategists learn to feel it.
 - `INS-260409-229B` [high] The story of the company IS the strategy — there is no separate secret strategy document.
 - `INS-260403-FA8E` [high] Capital One saw Brex as a bargain shortcut to a scaled platform; VCs saw a 58% haircut from peak valuation — both were correct within their own frameworks.
 - `INS-260403-318A` [high] Study who's buying in your space and engineer partnerships with them early — the best acquisitions grow out of product integrations, co-selling, and shared customers.
@@ -235,6 +237,7 @@
 - `INS-260323-4457` [medium] A product that takes months to reach a testable state is burning the founder's most scarce resource — time to learn whether the idea even matters — on engineering before validation.
 - `INS-260323-8B90` [medium] Destiny identifies a recurring pattern in conservative argumentation: every proposed incremental fix gets redirected to a root cause (like two-parent households) that neither side can directly engineer, creating a policy paralysis loop.
 - `INS-260403-6E76` [medium] The erosion of gatekeepers is pulling ambitious people away from test-hacking careers toward fields where genuine quality wins.
+- `INS-260410-FB7E` [medium] The transitions that happened only once in trillions of attempts—eukaryogenesis, for instance—define the game because no alternative ever emerged, and that singularity is where durable advantage lives.
 - `INS-260404-0A17` [medium] Business model innovation exists on a continuum from incremental improvement to radical invention, not as a binary choice.
 - `INS-260323-224F` [medium] The Large Hadron Collider discovered the Higgs boson (confirming a 50-year-old prediction) but failed to find supersymmetry, becoming a cautionary tale about building a machine optimized for the expected rather than the unknown.
 - `INS-260322-AAEA` [medium] A week is long enough to validate ideas and ship products; ten years captures true strategic direction. Quarterly planning is a deeply useless middle ground where cohorts don't bake and real outcomes aren't visible.

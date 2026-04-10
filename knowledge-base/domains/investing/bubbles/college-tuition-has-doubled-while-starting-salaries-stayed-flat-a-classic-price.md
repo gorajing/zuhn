@@ -54,7 +54,6 @@ stance: >-
   completely decoupled from the economic value delivered, sustained only by
   non-dischargeable debt and social pressure.
 related:
-  - INS-260329-5A47
   - INS-260329-191D
   - PRI-260406-861A
   - INS-260403-8DD4

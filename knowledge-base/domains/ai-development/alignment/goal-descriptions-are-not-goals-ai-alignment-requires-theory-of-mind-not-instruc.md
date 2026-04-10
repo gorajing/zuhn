@@ -52,11 +52,11 @@ resolutions:
     alignment than at value alignment — we're better at guessing what to tell AI
     to do than AI is at doing what we tell it.
 related:
+  - INS-260410-9FE6
   - INS-260329-93AE
   - PRI-260405-49C0
   - INS-260323-197A
   - INS-260323-539C
-  - PRI-260405-0676
   - INS-260327-E833
   - INS-260328-0345
   - INS-260330-C681
