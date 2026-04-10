@@ -9,3 +9,4 @@
 - `INS-260330-516E` Allied trust in US commitments is the foundation of dollar reserve status, and transactional foreign policy directly threatens it.
 - `INS-260327-08E7` The assassination of one archduke triggered a world war because rigid alliance commitments (Triple Alliance, Triple Entente) created automatic escalation from a local Balkan crisis to a continental conflict.
 - `INS-260327-50B6` Prussia sent Napoleon an ultimatum demanding withdrawal from Germany without first ensuring Russian forces could arrive in time to help.
+- `INS-260410-5437` Gorbachev assumed that if the Warsaw Pact dissolved then NATO would dissolve too, and if Comecon went away the European Community would follow — but NATO and the EC grew stronger because their members had chosen them, while the Warsaw Pact had only ever held together under threat of Soviet tanks.

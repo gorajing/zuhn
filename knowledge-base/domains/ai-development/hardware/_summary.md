@@ -1,6 +1,6 @@
 # Topic: hardware
 
-> 9 insights
+> 10 insights
 
 - `INS-260410-4696` [high] An H100 is worth more today than three years ago because the models it runs generate far more value per token than GPT-4 did, and you can't just buy a Rubin instead.
 - `INS-260410-AA40` [high] Matrix multiplication (N³ compute, N² data) is the perfect shape for hardware where arithmetic is cheap and data movement is expensive, so deep learning was destined to win once TPUs filled the chip with arithmetic units.
@@ -12,3 +12,4 @@
 
 - `INS-260410-D593` [medium] Nothing in Optimus comes from a catalog — the human hand is electromechanically harder than everything else combined and required custom motors, gears, and sensors designed from scratch.
 - `INS-260410-2307` [medium] There are ~10M H100-equivalents today and ~100M projected by 2028, which caps how many AGI-agents can run in parallel regardless of whether the models exist.
+- `INS-260410-0330` [medium] Levine's research arms went from $400k (PR2 in 2014) to $30k (early Berkeley lab) to $3k (current Physical Intelligence) — and he believes a 'small fraction of that' is achievable, because smarter AI substitutes for hardware precision.

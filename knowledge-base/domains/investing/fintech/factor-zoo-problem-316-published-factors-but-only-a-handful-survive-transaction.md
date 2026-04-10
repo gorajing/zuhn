@@ -50,7 +50,7 @@ related:
   - INS-260323-15F4
   - PRI-260407-40F9
   - PRI-260405-B144
-  - PRI-260406-E015
+  - INS-260410-0330
   - INS-260409-6ABF
 stance: >-
   After Fama-French opened the door to factor research, academics published 316+

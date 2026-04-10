@@ -2,9 +2,9 @@
 
 - `INS-260409-21E0` Becoming an architect rather than a mason in the AI era requires extreme environmental constraints to rewire patterns, not motivational self-talk, because the discipline gap is what separates the two groups.
 - `INS-260402-D7C7` The end of zero interest rates forces a binary sort of companies into those with real unit economics and those that were subsidized by cheap money.
-- `INS-260409-D6D8` Write your story long-form — prose forces the discipline that speech and slides let you skip.
-- `INS-260403-CC5D` Score every investment on momentum, cash, and customer signal every six months, and stop funding companies that drift.
 - `INS-260327-B9BA` The Mamluks were individually the finest cavalry in the world, but they shattered against French infantry squares because organized discipline defeated individual prowess.
+- `INS-260403-CC5D` Score every investment on momentum, cash, and customer signal every six months, and stop funding companies that drift.
+- `INS-260409-D6D8` Write your story long-form — prose forces the discipline that speech and slides let you skip.
 - `INS-260402-8223` Great work comes from deep curiosity about specific questions, not from forcing yourself through material via discipline.
 - `INS-260403-DEB6` Determination requires equal parts willfulness and discipline; excess of either without the other produces local maxima or paralysis.
 - `INS-260403-A06E` Genuine interest in your work outperforms discipline as a driver of sustained effort because it makes hard work feel like a natural pull rather than a push.

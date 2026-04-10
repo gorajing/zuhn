@@ -50,6 +50,6 @@ related:
   - INS-260409-DBD8
   - INS-260405-0A6D
   - INS-260409-D947
-  - INS-260327-1845
+  - INS-260410-7F35
 ---
 The central prescription: since a year or two of incremental changes hasn't worked, more increments won't work either. Founders need to attempt something that feels radically wrong or scary. The logic is asymmetric: if you're functionally dead, the downside of a radical experiment is bounded, and the upside is the only path to breakout. The YC advisor's role here is largely permission-granting — telling founders it's okay to try the uncomfortable thing they've been rejecting. The key diagnostic question: 'What's something too radical or scary that you would never have tried before?' That's what you should do.

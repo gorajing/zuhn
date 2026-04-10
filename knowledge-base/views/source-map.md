@@ -655,6 +655,7 @@ Generated on 2026-04-10 | 2526 sources
 | 8번의 피봇 끝에 실리콘밸리에서 통하는 아이디어를 찾은 방법 | 펜시브 양윤석, 김민준 | youtube | 5 | 2026-03-22 |
 | A Process for Finding & Achieving Your Unique Purpose | Robert Greene | youtube | 5 | 2026-03-30 |
 | A Tale of Greed: How 4 CEOs and $5B Failed Twitter | youtube | 5 | 2026-03-24 |
+| Adam Marblestone – AI is missing something fundamental about the brain | youtube | 5 | 2026-04-10 |
 | ADHD & How Anyone Can Improve Their Focus | youtube | 5 | 2026-03-30 |
 | AGI is still 30 years away — Ege Erdil & Tamay Besiroglu | youtube | 5 | 2026-04-10 |
 | AI 2027: month-by-month model of intelligence explosion — Scott Alexander & Daniel Kokotajlo | youtube | 5 | 2026-04-10 |
@@ -710,6 +711,7 @@ Generated on 2026-04-10 | 2526 sources
 | Feel Free is a NIGHTMARE | youtube | 5 | 2026-03-26 |
 | From $0 to $11B: The ElevenLabs Story | youtube | 5 | 2026-03-22 |
 | From Idea to $650M Exit: Lessons in Building AI Startups | youtube | 5 | 2026-03-27 |
+| Fully autonomous robots are much closer than you think – Sergey Levine | youtube | 5 | 2026-04-10 |
 | God-Tier Developer Roadmap | youtube | 5 | 2026-03-30 |
 | GOING SUPERSONIC with U.S. Air Force Thunderbirds! Pulling 7 G's in an F-16 -Smarter Every Day 235 | youtube | 5 | 2026-03-30 |
 | Graham Hancock: Lost Civilization of the Ice Age & Ancient Human History | Lex Fridman Podcast #449 | youtube | 5 | 2026-03-30 |
@@ -763,6 +765,7 @@ Generated on 2026-04-10 | 2526 sources
 | Jeff Kaplan: World of Warcraft, Overwatch, Blizzard, and Future of Gaming | Lex Fridman Podcast #493 | youtube | 5 | 2026-03-23 |
 | Jensen Huang: NVIDIA - The $4 Trillion Company & the AI Revolution | Lex Fridman Podcast #494 | youtube | 5 | 2026-03-23 |
 | Joe Rogan: Comedy, Controversy, Aliens, UFOs, Putin, CIA, and Freedom | Lex Fridman Podcast #300 | youtube | 5 | 2026-03-30 |
+| Joseph Henrich — Humans defeated smarter species with cultural evolution | youtube | 5 | 2026-04-10 |
 | J.P. Morgan: The Man Who Owned America | youtube | 5 | 2026-03-30 |
 | Kapil Gupta: Conquering the Mind | youtube | 5 | 2026-03-30 |
 | Lecture 10 - Culture (Brian Chesky, Alfred Lin) | youtube | 5 | 2026-03-31 |
@@ -779,6 +782,7 @@ Generated on 2026-04-10 | 2526 sources
 | Math's Fundamental Flaw | youtube | 5 | 2026-03-30 |
 | Matt Ridley: How Innovation Works, Part 1 | youtube | 5 | 2026-03-30 |
 | Mesopotamia: Crash Course World History #3 | youtube | 5 | 2026-03-30 |
+| Michael Nielsen – Why aliens will have a different tech stack than us | youtube | 5 | 2026-04-10 |
 | Michael Saylor: Bitcoin, Inflation, and the Future of Money | Lex Fridman Podcast #276 | youtube | 5 | 2026-03-30 |
 | Michio Kaku: The Universe in a Nutshell (Full Presentation) | Big Think | youtube | 5 | 2026-03-30 |
 | Nestlé's Darkest Secret: The Disturbing Truth | youtube | 5 | 2026-03-30 |
@@ -801,13 +805,17 @@ Generated on 2026-04-10 | 2526 sources
 | Sam Harris & Ben Shapiro Debate: Trump, Election Interference, & Foreign Policy | youtube | 5 | 2026-03-30 |
 | Sam Harris Challenges Douglas Murray on His Ties to MAGA | youtube | 5 | 2026-03-30 |
 | Sam Harris on Tariffs, SignalGate, Trump, Elon, Joe Rogan, & Douglas Murray | youtube | 5 | 2026-03-30 |
+| Sarah Paine — How Imperial Japan defeated Tsarist Russia & Qing China | youtube | 5 | 2026-04-10 |
+| Sarah Paine — How Mao conquered China (lecture & interview) | youtube | 5 | 2026-04-10 |
 | Sarah Paine — The war for India (lecture & interview) | youtube | 5 | 2026-04-10 |
 | Sarah Paine — Why Japan lost WWII (lecture & interview) | youtube | 5 | 2026-04-10 |
+| Sarah Paine – Why Russia Lost the Cold War | youtube | 5 | 2026-04-10 |
 | Science of Muscle Growth, Increasing Strength & Muscular Recovery | youtube | 5 | 2026-03-30 |
 | Singapore: The World's Only Successful Dictatorship? | youtube | 5 | 2026-03-30 |
 | Slop vs Craft | youtube | 5 | 2026-03-29 |
 | Solving Wordle using information theory | youtube | 5 | 2026-03-30 |
 | Something Strange Happens When You Follow Einstein's Math | youtube | 5 | 2026-03-30 |
+| Stephen Kotkin — How Stalin became the most powerful dictator in history | youtube | 5 | 2026-04-10 |
 | Stephen Wolfram: Computational Universe | MIT 6.S099: Artificial General Intelligence (AGI) | youtube | 5 | 2026-03-27 |
 | The $700 Billion AI Productivity Problem No One's Talking About | youtube | 5 | 2026-03-22 |
 | The AI Opportunity that goes beyond Models | youtube | 5 | 2026-03-22 |
@@ -864,6 +872,7 @@ Generated on 2026-04-10 | 2526 sources
 | Why China's manufacturing economy is dominating — Arthur Kroeber | youtube | 5 | 2026-04-10 |
 | Why In-N-Out Isn't Coming to a City Near You | youtube | 5 | 2026-03-30 |
 | Why It Was Almost Impossible to Make the Blue LED | youtube | 5 | 2026-03-30 |
+| Why Leonardo was a saboteur, Gutenberg went broke, and Florence was weird – Ada Palmer | youtube | 5 | 2026-04-10 |
 | Why Netflix is Collapsing: The Truth About Netflix's Empire | youtube | 5 | 2026-03-30 |
 | Why Scale Will Not Solve AGI | Vishal Misra - The a16z Show | youtube | 5 | 2026-03-22 |
 | Why Smart People Don't See What's Wrong With Trump | youtube | 5 | 2026-03-30 |
@@ -2478,7 +2487,6 @@ Generated on 2026-04-10 | 2526 sources
 | YC W26 Batch: Complete Database of 196 Companies (2026) | blog | 0 | 2026-03-30 |
 | 20th Century's Most Lethal Leader – Sarah Paine (Lecture Excerpt) | youtube | 0 | 2026-04-10 |
 | A billion years of evolution in a single afternoon — George Church | youtube | 0 | 2026-04-10 |
-| Adam Marblestone – AI is missing something fundamental about the brain | youtube | 0 | 2026-04-10 |
 | AMA: career advice given AGI, how I research ft. Sholto & Trenton | youtube | 0 | 2026-04-10 |
 | Andrej Karpathy — “We’re summoning ghosts, not building animals” | youtube | 0 | 2026-04-10 |
 | Artificial meat is harder than artificial intelligence — Lewis Bollard | youtube | 0 | 2026-04-10 |
@@ -2488,23 +2496,17 @@ Generated on 2026-04-10 | 2526 sources
 | "China is digging out of a crisis. And America’s luck is wearing thin." — Ken Rogoff | youtube | 0 | 2026-04-10 |
 | China is killing the US on energy. Does that mean they’ll win AGI? — Casey Handmer | youtube | 0 | 2026-04-10 |
 | Donut-shaped C code that generates a 3D spinning donut | youtube | 0 | 2026-03-30 |
-| Fully autonomous robots are much closer than you think – Sergey Levine | youtube | 0 | 2026-04-10 |
 | “I find it almost disturbing that the universe favors life this strongly” – Nick Lane | youtube | 0 | 2026-04-10 |
 | If You Want to Learn, Do | youtube | 0 | 2026-03-30 |
 | Ilya Sutskever – We're moving from the age of scaling to the age of research | youtube | 0 | 2026-04-10 |
 | Improvising in Africa.  Warning - GROSS - Smarter Every Day 28 | youtube | 0 | 2026-03-30 |
-| Joseph Henrich — Humans defeated smarter species with cultural evolution | youtube | 0 | 2026-04-10 |
 | Mark Zuckerberg — AI will write most Meta code in 18 months | youtube | 0 | 2026-04-10 |
-| Michael Nielsen – Why aliens will have a different tech stack than us | youtube | 0 | 2026-04-10 |
 | Mind Field - Official Trailer | youtube | 0 | 2026-03-30 |
 | Notes on China | youtube | 0 | 2026-04-10 |
 | Python in 100 Seconds | youtube | 0 | 2026-03-30 |
 | Richard Sutton – Father of RL thinks LLMs are a dead end | youtube | 0 | 2026-04-10 |
 | Sarah Paine – How Hitler almost starved Britain | youtube | 0 | 2026-04-10 |
-| Sarah Paine — How Imperial Japan defeated Tsarist Russia & Qing China | youtube | 0 | 2026-04-10 |
-| Sarah Paine — How Mao conquered China (lecture & interview) | youtube | 0 | 2026-04-10 |
 | Sarah Paine — How Russia sabotaged China's rise | youtube | 0 | 2026-04-10 |
-| Sarah Paine – Why Russia Lost the Cold War | youtube | 0 | 2026-04-10 |
 | Satya Nadella – How Microsoft thinks about AGI | youtube | 0 | 2026-04-10 |
 | Satya Nadella — Microsoft’s AGI plan & quantum breakthrough | youtube | 0 | 2026-04-10 |
 | Satya Nadella shows me the first Majorana 1 Quantum Computing chip | youtube | 0 | 2026-04-10 |
@@ -2515,7 +2517,6 @@ Generated on 2026-04-10 | 2526 sources
 | Stable diffusion dreams of steam punk neural networks | youtube | 0 | 2026-04-10 |
 | Stable diffusion dreams of steampunk brains | youtube | 0 | 2026-04-10 |
 | Stable diffusion dreams of tattoos | youtube | 0 | 2026-04-10 |
-| Stephen Kotkin — How Stalin became the most powerful dictator in history | youtube | 0 | 2026-04-10 |
 | Terence Tao – How the world’s top mathematician uses AI | youtube | 0 | 2026-04-10 |
 | "The Brilliance of Communism" – Sarah Paine | youtube | 0 | 2026-04-10 |
 | The Limits of American Power – Sarah Paine | youtube | 0 | 2026-04-10 |
@@ -2525,7 +2526,6 @@ Generated on 2026-04-10 | 2526 sources
 | What are we scaling? | youtube | 0 | 2026-04-10 |
 | What will automated firms look like? | youtube | 0 | 2026-04-10 |
 | Why I don’t think AGI is right around the corner | youtube | 0 | 2026-04-10 |
-| Why Leonardo was a saboteur, Gutenberg went broke, and Florence was weird – Ada Palmer | youtube | 0 | 2026-04-10 |
 | Why Rome actually fell: plagues, slavery, & ice age — Kyle Harper | youtube | 0 | 2026-04-10 |
 | Xi Jinping’s paranoid approach to AGI, debt crisis, & Politburo politics — Victor Shih | youtube | 0 | 2026-04-10 |
 | Your desires are not yours. | youtube | 0 | 2026-03-30 |

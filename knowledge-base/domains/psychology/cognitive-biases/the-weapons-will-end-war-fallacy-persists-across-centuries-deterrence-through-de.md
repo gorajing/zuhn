@@ -53,6 +53,7 @@ related:
   - INS-260323-AEA5
   - INS-260323-F282
   - INS-260409-16CF
+  - INS-260410-FF8B
 stance: >-
   Nobel believed his explosives would 'put an end to war sooner than peace
   congresses' by making mutual destruction too horrifying

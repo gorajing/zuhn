@@ -54,7 +54,7 @@ related:
   - INS-260403-8C12
   - INS-260403-2C50
   - INS-260327-1ACE
-  - INS-260323-9867
+  - INS-260410-9B33
 ---
 Multiple people quoted in the article describe feeling safer in Mexico City, Helsinki, London, Mumbai, and Tokyo than in American cities — despite many of these places being less wealthy. The 'pretty buildings and peaceful clean streets and nice trains' that Americans admire abroad are downstream of public order, not upstream of it. Helsinki metro cars are 'as tidy as a Fortune 500 lobby' not because of better design but because antisocial behavior isn't tolerated.
 

@@ -7,8 +7,8 @@
 - `INS-260403-45D5` PG told Fred to meet the Airbnb founders before debating the idea, because abstract debate anchors on skepticism.
 - `INS-260403-71D1` YC funded Airbnb despite not liking the idea because the founders' earnestness was unmistakable.
 - `INS-260403-7C88` Good founders make things happen the way they want through relentless resourcefulness, not by forcing a predefined plan.
-- `INS-260403-7F6F` Y Combinator found that college prestige adds almost no predictive value when evaluating startup founders against direct assessment.
 - `INS-260403-36E6` YC's analysis of 8,000 applications found grit under pressure outperformed all conventional startup evaluation metrics.
 - `INS-260403-5D3C` 65% of VCs rank management team quality as the top investment criterion, ahead of market size and product quality.
 - `INS-260403-C2BE` VCs fund spiky excellence over well-rounded competence, so founders should highlight their extraordinary strengths rather than shore up weaknesses.
 - `INS-260403-14B3` Repeated studies show VCs overweight charisma and pitch performance while underweighting execution capability, leading to predictably bad investment outcomes.
+- `INS-260403-7F6F` Y Combinator found that college prestige adds almost no predictive value when evaluating startup founders against direct assessment.

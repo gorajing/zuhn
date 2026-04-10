@@ -52,6 +52,7 @@ related:
   - INS-260404-6BBB
   - INS-260404-6970
   - INS-260405-7E50
+  - INS-260410-1BB0
 ---
 Many founders treat a pitch deck like a business plan summary, trying to answer every possible investor question upfront. This misunderstands the deck's function in the fundraising process. The deck is a filtering and invitation tool—its job is to make investors want to learn more, not to pre-empt all due diligence.
 

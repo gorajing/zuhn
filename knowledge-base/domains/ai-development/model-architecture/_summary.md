@@ -1,6 +1,6 @@
 # Topic: model-architecture
 
-> 16 insights
+> 18 insights
 
 - `INS-260405-1F0B` [high] Each biological neuron runs its own learning mechanisms and maintains state; each artificial neuron is just y = Wx + b, making raw neuron-count comparisons between brains and AI models deeply misleading.
 - `INS-260410-FEFA` [high] Convolutional layers in WaveNet don't add modeling power — they just slide a linear filter across the input sequence inside CUDA kernels and let the network reuse intermediate nodes that would otherwise be recomputed.
@@ -15,7 +15,9 @@
 - `INS-260410-F08E` [high] BatchNorm layers harbor hidden state (running stats, train/eval mode, cross-batch coupling) that silently corrupts outputs when any one of them is misconfigured, making them a top source of subtle deep-learning bugs.
 - `INS-260410-B282` [high] Larger vocab compresses sequences (more context per token) but bloats embedding/softmax layers — the optimum is a tuned trade-off, not a maximum.
 - `INS-260410-1789` [high] Every transformer block pairs attention (tokens gather info from each other) with a feedforward MLP (each token thinks privately) — communication without computation underfits.
+- `INS-260410-9303` [medium] The brain's 'special sauce' is a large set of innately wired, species-specific reward functions — not a clever learning algorithm or architecture.
 - `INS-260405-547E` [medium] AMI's $1.03B bet is that grounded, causal world models beat next-token scaling for real-world AI.
 - `INS-260405-16AB` [medium] DeepSeek's mHC paper shows that manifold constraints on layer connections preserve model stability while enabling richer information flow.
 - `INS-260410-3271` [medium] Jeff Dean envisions a single 'organic blob' model where 100 teams independently train specialized modules (Southeast Asian languages, Haskell reasoning, medical imaging) that attach to a base, with continuous distillation cycling between big exploration and small efficient serving.
 
+- `INS-260410-B9A6` [low] Any cortical area can clamp any subset of variables and sample from any other subset — a generality LLMs only emulate at the context-window level.

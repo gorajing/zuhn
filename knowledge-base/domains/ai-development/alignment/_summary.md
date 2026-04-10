@@ -1,6 +1,6 @@
 # Topic: alignment
 
-> 84 insights
+> 86 insights
 
 - `INS-260403-949E` [high] Accidental misalignment in automated workflows is more dangerous than deliberate misuse because it cascades silently at scale.
 - `INS-260409-42F2` [high] Hassabis says the real safety crunch arrives in 1-2 years when systems become meaningfully agentic and autonomous.
@@ -74,6 +74,7 @@
 - `INS-260325-F48E` [medium] A year-over-year test of 268 prompts found most LLMs became less speech-restrictive — competitive pressure is correcting initial over-censorship.
 - `INS-260403-5086` [medium] Both human and AI internals use bizarre geometric encodings that neither system can introspect on, making external dismissals of AI cognition suspect.
 - `INS-260403-AFCC` [medium] Anthropic's deeper concern about military AI may be that adversarial training objectives could seed misaligned values that persist as models scale toward AGI.
+- `INS-260410-0142` [medium] The minimal set of drives needed to bootstrap general capability (curiosity, exploration) is much smaller than the set needed to produce human-compatible values.
 - `INS-260323-4D4E` [medium] Both tech optimism and tech pessimism are self-fulfilling prophecies — believing the future will be better increases the likelihood you build it.
 - `INS-260328-711E` [medium] Altman distinguishes personalized AI persuasion — reading your entire online history to craft one perfect message — from traditional mass disinformation.
 - `INS-260410-9A24` [medium] Reward hacking is solvable by RL'ing AI against physical reality rather than human judgment, because a rocket that blows up cannot be faked.
@@ -86,3 +87,4 @@
 - `INS-260323-BEF0` [medium] Yudkowsky warns of a 'boiling the frog' dynamic where early false sentience claims (Blake Lemoine) teach the public to dismiss all sentience signals, exactly when systems are getting closer to actual awareness.
 - `INS-260327-AC8E` [medium] Kellis argues we should raise AI like children - building mutual trust rather than forcing alignment - because you can't make an intelligent system love you by threatening to shut it off.
 - `INS-260403-2C15` [medium] AI control risk depends on three prerequisites — full autonomy, capable robots, and self-sustaining AI production — and blocking any one is sufficient defense.
+- `INS-260410-FF8B` [medium] Petrarch wanted the Renaissance to restore Christian oligarchic virtue; instead it produced democracy, atheist philosophers, and vaccines — a future he would find horrifying in values but miraculous in outcomes.

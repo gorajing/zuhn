@@ -47,8 +47,8 @@ stance: >-
 related:
   - INS-260327-32B8
   - INS-260327-889F
+  - INS-260410-CBF9
   - INS-260330-341D
   - INS-260329-9A8B
-  - INS-260327-0FA9
 ---
 San Francisco's dramatic improvements under Mayor Lurie — 25% crime reduction, halved permitting timelines, landmark upzoning — were only possible because moderate liberals held a slim 6-5 majority on the Board of Supervisors. The board writes laws, approves budgets, and confirms appointments; previous mayors with similar agendas failed because the progressive supermajority blocked them. This reveals a general principle about organizational power: the bottleneck is rarely the executive but the governing body's composition. A single-seat swing in an upcoming special election could flip control and halt all further reform, demonstrating how fragile transformation can be when it depends on thin majorities in veto-wielding bodies.

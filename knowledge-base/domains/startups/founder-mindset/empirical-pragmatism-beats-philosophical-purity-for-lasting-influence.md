@@ -57,6 +57,7 @@ related:
   - INS-260327-E052
   - INS-260403-272E
   - INS-260403-29C7
+  - INS-260410-831F
 stance: >-
   Friedman's willingness to compromise and say 'I was wrong' gave him lasting
   policy influence, while Rand's philosophical purity made her schismatic...

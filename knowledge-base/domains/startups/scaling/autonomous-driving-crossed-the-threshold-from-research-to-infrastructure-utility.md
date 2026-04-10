@@ -54,10 +54,10 @@ related:
   - INS-260322-888D
   - INS-260327-500C
   - INS-260403-EDDC
+  - INS-260410-8DDD
   - INS-260327-9C3A
   - INS-260409-42F2
   - INS-260321-2BF9
-  - INS-260327-7214
 ---
 Waymo's $16B raise at $126B valuation is backed by concrete operational metrics: 15M rides in 2025 (3x growth), 400K+ paid rides per week across six US cities, and a 90% reduction in serious injury crashes over 127M miles. The planned expansion to 20+ additional cities including Tokyo and London in 2026 signals the transition from proving technology to executing commercial rollout.
 

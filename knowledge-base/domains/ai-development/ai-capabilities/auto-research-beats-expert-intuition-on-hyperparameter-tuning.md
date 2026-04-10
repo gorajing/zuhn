@@ -41,7 +41,7 @@ related:
   - PRI-260323-8E89
   - PRI-260406-818D
   - PRI-260328-9E3F
-  - PRI-260403-50EF
+  - INS-260410-0330
   - INS-260325-9F12
 stance: >-
   Karpathy's auto-research loop found hyperparameter improvements overnight that

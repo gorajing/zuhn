@@ -42,10 +42,10 @@ stance: >-
   what you believe its central point is.
 related:
   - PRI-260406-05B5
+  - INS-260410-A33F
   - PRI-260406-C1EF
   - INS-260330-A151
   - PRI-260406-B97E
-  - INS-260330-FB5A
 evidence:
   - id: INS-260403-ED1F
     type: EXTENDS

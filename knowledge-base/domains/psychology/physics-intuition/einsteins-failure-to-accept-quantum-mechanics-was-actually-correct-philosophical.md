@@ -55,6 +55,7 @@ related:
   - PRI-260323-DA09
   - INS-260323-CF93
   - INS-260409-BE6D
+  - INS-260410-3697
 stance: >-
   The popular narrative that Einstein couldn't keep up with quantum mechanics is
   'almost 180 degrees wrong'

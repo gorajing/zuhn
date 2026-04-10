@@ -1,6 +1,6 @@
 # Topic: group-dynamics
 
-> 98 insights
+> 99 insights
 
 - `INS-260330-2EB0` [high] The Pueblo Revolt shows that a shared existential threat can override deep tribal divisions — but the unity is temporary.
 - `INS-260403-D609` [high] Enforcers of orthodoxy compete with each other, creating a race to the bottom where any borderline idea gets banned.
@@ -11,6 +11,7 @@
 - `INS-260403-39E9` [high] Dismissing new ideas earns reliable social status while pursuing them only pays off probabilistically, creating a structural bias toward criticism.
 - `INS-260403-BDE0` [high] Cities send subtle but powerful messages about which type of ambition is most valued, and these messages shape inhabitants more than most people realize.
 - `INS-260330-3528` [high] English profanity largely descends from lower-class Saxon vocabulary that was stigmatized when Norman French speakers held social power.
+- `INS-260410-5437` [high] Gorbachev assumed that if the Warsaw Pact dissolved then NATO would dissolve too, and if Comecon went away the European Community would follow — but NATO and the EC grew stronger because their members had chosen them, while the Warsaw Pact had only ever held together under threat of Soviet tanks.
 - `INS-260404-BAED` [high] The spam problem is fundamentally a collective action failure where the rational majority cannot stop the exploitable minority from sustaining the attacker's business model.
 - `INS-260330-4B55` [high] Harvard Business School's largest cohorts systematically catch the last wave — junk bonds in 1989, dotcom in 1999, housing in 2005-2007 — because competition feels like validation rather than a warning signal.
 - `INS-260403-8B13` [high] Conformism varies on two orthogonal axes — conventional/independent and passive/aggressive — creating four stable personality types observable from childhood.

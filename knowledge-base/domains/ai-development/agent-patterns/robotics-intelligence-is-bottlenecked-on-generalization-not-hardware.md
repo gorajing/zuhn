@@ -51,10 +51,10 @@ stance: >-
   complex hardware does not resolve this bottleneck.
 related:
   - INS-260323-05B5
+  - INS-260410-56F7
   - PRI-260328-D401
   - INS-260327-7157
-  - INS-260327-0875
-  - INS-260323-DDC2
+  - INS-260410-F7B8
 evidence:
   - id: INS-260327-7157
     type: CHALLENGES

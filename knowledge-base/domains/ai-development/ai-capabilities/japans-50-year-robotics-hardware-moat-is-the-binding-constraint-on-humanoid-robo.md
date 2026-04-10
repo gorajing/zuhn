@@ -59,10 +59,10 @@ stance: >-
   the AI-robotics convergence.
 related:
   - INS-260323-758B
+  - INS-260410-56F7
   - INS-260403-44D9
   - INS-260323-DDC2
   - PRI-260328-7007
-  - INS-260405-E4FC
 ---
 James Riney of Coral Capital identifies the critical distinction between Short-Duration Peak Performance (impressive demos) and industrial deployment requiring 5,000-10,000 hours Mean Time Between Failures. Most software-first robotics companies and low-cost Chinese clones hit a 'Reliability Cliff' around 1,000 hours as gears develop backlash, lubricants break down, and positional accuracy drifts. Companies like Harmonic Drive Systems and Nabtesco have spent 50 years mastering the 'black art' of tribology, metallurgy, and heat treatment.
 

@@ -1,11 +1,14 @@
 # Topic: epistemics
 
-> 31 insights
+> 36 insights
 
 - `INS-260409-F93A` [high] Galef argues accurate maps of the world should include explicit uncertainty markers and remain provisional — 'drawn in pencil, not pen' — because false precision creates psychological resistance to updating when better evidence arrives.
 - `INS-260405-5702` [high] Feed algorithms don't just show different opinions — they construct different facts for different population clusters.
 - `INS-260405-0184` [high] Growing audiences for 2-4 hour deep-dive content disprove the shrinking attention span narrative — people crave depth when the content rewards sustained focus.
+- `INS-260410-A33F` [high] Argument, counterargument, rebuttal — but the rebuttal must come from a completely different angle than the original argument, or it's just repetition.
+- `INS-260410-0775` [high] Chesterton's Fence is real — bitter cassava processing, food taboos, bow-making techniques encode causal logic that took centuries to evolve and that the people following them cannot explain.
 - `INS-260405-4693` [high] History uniformly shows that every era had forbidden truths; assuming ours is different requires extraordinary evidence.
+- `INS-260410-831F` [high] The Inquisition ignored Voltaire and the Encyclopédie to throw the book at Jansenist treatises about the Trinity — and Palmer says this pattern holds in every era she studies.
 - `INS-260405-1CAA` [high] You know what you believe but rarely why you believe it — the source code is gone.
 - `INS-260409-3FDE` [high] Contributor gizmax reproduced MemPalace's 96.6% LongMemEval R@5 on M2 Ultra in under 5 minutes using the public benchmark scripts — that reproduction is exactly what forced the retraction of the other overclaims by making ground truth reviewable.
 - `INS-260409-2E2B` [high] Katherine Chworowski's 2024 re-analysis showed that many 'too-massive' early galaxies were little red dots whose central black holes were doing the brightness work of billions of suns, inflating apparent stellar mass; once removed, the sample fit the standard model with only a mild residual.
@@ -15,7 +18,9 @@
 - `INS-260405-2B3F` [high] Treating survey non-response as randomly missing data produces systematically wrong estimates whenever the stigmatized view is also the under-reported one.
 - `INS-260405-F7FA` [high] All else being equal, bet against the explanation where you are the protagonist.
 - `INS-260409-42F7` [high] Within 48 hours of the MemPalace launch, maintainers Milla Jovovich and Ben Sigman wrote a public 'What we got wrong' section admitting four specific overclaims and shipped fixes — a level of intellectual honesty that product marketing incentives rarely allow.
+- `INS-260410-81DC` [high] Prout's atomic-weight hypothesis was correct but looked falsified for 85 years until isotopes were discovered; science progresses by protecting theories against their own current evidence.
 - `INS-260409-5CD4` [high] Julia Galef: 'Scout Mindset is the motivation to see what's really there and not just what you wish was there' — distinguishing it from soldier mindset where beliefs are defended against threatening evidence through rationalization, denial, and motivated reasoning.
+- `INS-260410-B507` [high] The archives declassified after the Soviet collapse showed that 'the Nazis were Nazis and the communists were communists' — the interrogators, torturers, and twenty-five-thousanders believed they were building a new world, even when they knew specific victims were innocent.
 - `INS-260409-A8F4` [high] You cannot infer velocity from one photograph, no matter how good the shutter metadata is.
 - `INS-260409-BF3F` [high] In a field where measurements are routinely precise to ~1%, an 8-9% gap between two independent methods is not a rounding error — it is a crisis exactly because precision grew faster than the gap closed.
 - `INS-260409-0206` [high] The gap between 'unexplained' and 'aliens' is a logical leap people make far too quickly.

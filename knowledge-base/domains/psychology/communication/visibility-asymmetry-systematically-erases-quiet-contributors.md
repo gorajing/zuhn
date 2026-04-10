@@ -45,10 +45,10 @@ stance: >-
   creating a persistent attribution bias toward visible personalities.
 related:
   - INS-260327-31BD
+  - INS-260410-831F
   - INS-260403-0AE1
   - INS-260403-02CE
   - INS-260323-3982
-  - INS-260322-F6B5
 evidence:
   - id: INS-260322-F6B5
     type: SUPPORTS

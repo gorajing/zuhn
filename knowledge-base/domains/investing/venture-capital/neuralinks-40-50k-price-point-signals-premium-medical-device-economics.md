@@ -52,8 +52,8 @@ stance: >-
 related:
   - INS-260404-E077
   - INS-260405-631B
+  - INS-260410-0330
   - INS-260325-39FD
   - INS-260327-5B47
-  - PRI-260407-7AE9
 ---
 Neuralink's estimated cost of $40,000-$50,000 per patient with a target of 10,000 implants per year implies a $400-500M annual revenue business at scale. This price point sits squarely in premium medical device territory (comparable to cochlear implants at $30-50K or deep brain stimulators at $35-50K) rather than consumer electronics. The economics suggest several things for investors: margins will be high (medical devices typically run 60-70% gross margins), the sales cycle will be long (insurance approvals, hospital purchasing), and cost reduction will follow medical device curves (slow, regulatory-gated) rather than Moore's Law consumer electronics curves. This makes Neuralink a compelling but patience-requiring investment — the technology works, but the path to mass adoption runs through healthcare economics, not consumer pricing.

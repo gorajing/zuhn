@@ -49,11 +49,12 @@ stance: >-
   dramatically slowed.
 related:
   - INS-260325-F306
+  - INS-260410-0430
   - INS-260325-7FE6
   - PRI-260328-D292
   - INS-260325-EBDD
-  - INS-260322-415E
   - INS-260328-6C9A
+  - INS-260322-415E
   - INS-260410-D316
 evidence:
   - id: INS-260328-6C9A

@@ -1,6 +1,6 @@
 # Topic: geopolitics
 
-> 503 insights
+> 514 insights
 
 - `INS-260326-3E19` [very_high] Pharmaceutical companies funding the FDA, banks staffing financial regulators, and tech giants writing platform regulations are structurally identical -- the mechanism is industry-funded oversight producing industry-favorable rules.
 - `INS-260326-79DF` [very_high] Germany's unrestricted submarine warfare sank 886,000 tons in April 1917 alone -- a tactical triumph that brought America into the war and guaranteed Germany's defeat.
@@ -33,6 +33,7 @@
 - `INS-260327-A8C0` [high] Britain's attempt to seize colonial weapons stores at Concord triggered the armed conflict it was designed to prevent — the militia fought to protect their capacity to resist.
 - `INS-260327-E1DD` [high] The Entente's fundamental advantage in WW1 was deeper resource pools — more men, more industrial capacity, control of the seas — which meant equal attrition rates favored them.
 - `INS-260327-048C` [high] Napoleon's early Italian victories created a reputation for invincibility that caused future opponents to be intimidated before the battle even began.
+- `INS-260410-2DB5` [high] Regimes that need engineers, industry, and now AI to compete geopolitically cannot prevent the educated class and organized workers they create from eventually threatening their rule.
 - `INS-260327-96A5` [high] Russian history repeats the same cycle: reforming tsar modernizes aggressively, successor retreats into reaction, next reformer starts again — Peter, Catherine, Alexander II, each followed by reactionaries.
 - `INS-260327-60C6` [high] Justinian repeatedly recalled and disgraced Belisarius out of jealousy and suspicion, ultimately leaving the empire without its best military commander when enemies threatened.
 - `INS-260327-D6E5` [high] The Coalition's Trachenberg Plan instructed armies to retreat from Napoleon personally but attack any of his marshals, neutralizing his greatest asset — his personal battlefield genius.
@@ -72,6 +73,7 @@
 - `INS-260327-619F` [high] European powers drew Middle East borders ignoring ethnicity, language, and religion, creating artificial states with built-in instability that persists generations later as every internal faction contests state legitimacy.
 - `INS-260327-F484` [high] Britain and France's Suez intervention failed not militarily but politically — the US threatened financial pressure and Britain was forced to withdraw, revealing it could no longer act independently.
 - `INS-260327-AA2C` [high] Belisarius's key innovation was integrating heavy cavalry, mounted archers, and infantry into coordinated tactics that no opponent could counter with any single approach.
+- `INS-260410-0575` [high] Soviet planners couldn't know actual productivity, capital value, or consumer preferences because every subunit lied about inventories and needs, and the lies aggregated upward until top leadership was navigating on garbage data.
 - `INS-260330-43FF` [high] Commodity price charts correlate strongly with political instability in the developing world — the Arab Spring and post-Ukraine spikes both preceded widespread unrest.
 - `INS-260323-9E67` [high] In deep geopolitical conflicts, each side constructs an internally coherent narrative from the same historical facts — and these narratives are often mutually exclusive.
 - `INS-260327-2356` [high] Alexander's army conquered from Greece to India but grew increasingly mutinous the further they marched from home — his own soldiers eventually refused to go further.
@@ -79,6 +81,7 @@
 - `INS-260327-CE05` [high] When 69% of GDP comes from consumer spending and that spending is increasingly debt-funded, GDP growth measures debt accumulation rather than genuine economic health.
 - `INS-260409-9D83` [high] When billionaires consume <1% of their wealth annually and workers consume ~100% of their income, any consumption tax is mechanically regressive no matter how 'flat' it looks.
 - `INS-260327-37E3` [high] The Bolsheviks held Russia's central industrial heartland with its railway hub, allowing them to shift forces rapidly between fronts while White armies on the periphery couldn't communicate or coordinate.
+- `INS-260410-BD56` [high] A cooperative adversary isn't one that wants to cooperate — it's one that can't play its own hand well, and your 'brilliant' strategy may have just been drafting off their incompetence.
 - `INS-260327-B65A` [high] Blackbeard operated in the gaps between colonial jurisdictions — British, French, Spanish waters — where no single navy had clear authority to pursue him.
 - `INS-260327-C4AD` [high] Suez didn't transfer power from Britain to America — it publicly revealed a transfer that had already happened, making it permanent and irreversible.
 - `INS-260330-6DE0` [high] Zimbabwe's hyperinflation persisted because citizens' expectation of rising prices became the primary driver of rising prices, creating an irreversible feedback loop.
@@ -186,6 +189,7 @@
 - `INS-260330-02A7` [high] Inflation should be modeled as a multi-dimensional vector across all assets and goods, not reduced to a single government-defined CPI scalar.
 - `INS-260330-0FCE` [high] Physical infrastructure creates economic interdependency that gradually makes political separation impractical, serving as a subtler tool of control than direct legislation.
 - `INS-260403-CFBD` [high] Weaponizing legal institutions against independent economic bodies trades durable stability for short-term political leverage.
+- `INS-260410-1803` [high] Mao's revolutionary method — 'triangle building' — was to grow shadow government, army, and civic networks inside the host until they could replace it, not to storm it from outside.
 - `INS-260327-EDBA` [high] Paul Revere's ride was possible because the colonial intelligence network (supported by the entire sympathetic population) tracked every British movement while the British had no intelligence on colonial preparations.
 - `INS-260323-D41A` [high] Spy agencies recruit assets who combine technical knowledge with clean backgrounds and personal naivety — the ideal agent is competent enough to access targets but inexperienced enough to be manipulated.
 - `INS-260325-F5CA` [high] The same interconnections that create prosperity become transmission vectors for cascading collapse.
@@ -197,6 +201,8 @@
 - `INS-260327-7C4A` [high] Senior French generals couldn't see the Toulon solution because their experience trained them to think in terms of infantry assault — Napoleon's artillery background gave him a completely different analytical framework.
 - `INS-260327-1756` [high] The Vandals conquered North Africa as fierce warriors but within 100 years had softened into a comfortable ruling class that couldn't fight effectively against Belisarius's disciplined force.
 - `INS-260330-B490` [high] Removing the Sinaloa cartel's leadership shattered it into a dozen warring factions and empowered the far more violent Jalisco New Generation Cartel.
+- `INS-260410-009B` [high] The Chinese, Vietnamese, and Korean civil wars all turned on which side distributed land to peasants first — a political act that glued loyalty more firmly than any military campaign.
+
 - `INS-260327-F274` [high] America's entry into WW1 in 1917 was decisive not because of immediate military impact but because it added fresh industrial and manpower resources when all other participants were exhausted.
 - `INS-260327-5E93` [high] Marengo was won by Desaix's unrequested counterattack, not Napoleon's plan — but Napoleon rewrote the narrative to credit his own genius, reinforcing dangerous overconfidence.
 - `INS-260327-A048` [high] British PM Eden personally despised Nasser and compared him to Hitler, making the Suez response about personal vendetta rather than calculated national interest.
@@ -204,6 +210,7 @@
 - `INS-260327-7E6F` [high] After Aspern-Essling, Napoleon didn't just try the same approach again — he systematically fixed every failure point: better bridges, more troops, new crossing points, and artillery superiority.
 - `INS-260327-2964` [high] Prussia's army was considered Europe's finest based on Frederick the Great's victories 50 years earlier — but it had not modernized and collapsed in a single day.
 - `INS-260323-17B5` [high] El-Kurd demonstrates how legal systems can be constructed to legitimize displacement, drawing parallels to Jim Crow laws that were technically legal but morally bankrupt.
+- `INS-260410-7F35` [high] The regime can starve its people, kill its people, and destroy its own state capacity — it will still survive as long as citizens have nowhere else to go and no alternative to organize around.
 - `INS-260403-6988` [high] Even fully eliminating the US trade deficit would only raise manufacturing from 10% to ~12.5% of GDP, since Germany's huge surpluses haven't prevented its own manufacturing employment decline.
 - `INS-260327-F4CB` [high] Unemployment looks low at 3-4% but labor force participation tells the real story - millions have simply stopped being counted because they stopped looking.
 - `INS-260327-7C60` [high] Napoleon's marshals defected, retired, or switched sides when Napoleon fell because their loyalty was to him personally rather than to an institution or cause.
@@ -221,6 +228,7 @@
 - `INS-260327-B3B3` [high] The Crusader States established after Jerusalem's capture became feudal kingdoms serving noble self-interest rather than the religious mission that justified their creation.
 - `INS-260327-3F8B` [high] At Leipzig, Napoleon faced four converging armies and could no longer use his signature move of defeating each in isolation.
 - `INS-260325-5096` [high] Napoleon's Russian disaster proves that logistics cannot scale linearly with army size — supply chains have a hard distance ceiling.
+- `INS-260410-5735` [high] Japan and Germany recovered after WWII because they already had the institutional scaffolding; China, Iraq, and Afghanistan couldn't because it didn't exist and can't be imported with dollars.
 - `INS-260327-3675` [high] Nasser's nationalization of the Suez Canal succeeded because he correctly judged that the US and Soviet Union would prevent Britain and France from reversing it by force.
 - `INS-260327-DFD8` [high] Britain's naval blockade of Germany was boring and invisible but arguably the single most important factor in winning WW1 — it slowly starved Germany's economy and population.
 - `INS-260327-4E10` [high] Australia's negative gearing lets individuals write off real estate investment losses against personal income, converting high-taxed salary (45%) into low-taxed capital gains and driving house prices to 8x median income.
@@ -257,16 +265,19 @@
 - `INS-260327-067D` [high] At Bunker Hill, untrained American militia behind earthworks inflicted 1,000+ casualties on elite British regulars who attacked frontally with contempt for the 'rabble.'
 - `INS-260327-E36A` [high] Wellington's Lines of Torres Vedras were impregnable fortifications backed by scorched earth that denied food to the French, forcing Massena to retreat without a battle.
 - `INS-260323-75A8` [high] When a population is given no hope, no political agency, and increasing aggression for decades, violent escalation is not surprising — it's the predictable outcome of a pressure cooker with no release valve.
+- `INS-260410-11F3` [high] When two factions are primary adversaries, every Western push to form a coalition government only delays the inevitable showdown and wastes the stronger side's advantage.
 - `INS-260403-D00D` [high] JPMorgan's $1.5T commitment signals that private banks are assuming industrial policy roles governments are too slow to fill.
 - `INS-260330-2B4F` [high] Morgan's two bailouts of the U.S. economy demonstrated that private financiers can fill institutional vacuums, but this concentrates dangerous power in unelected hands.
 - `INS-260321-347D` [high] Private credit defaults reached 9.2% (Fitch) while funds gated redemptions at 5-14%, trapping investors — the retail expansion via 401k access amplifies panic.
 - `INS-260321-C6C0` [high] Post-2008 regulations pushed risky lending from regulated banks to private credit — a $2T opaque market with higher fees, less oversight, and now rising defaults.
 - `INS-260327-4294` [high] Apollo was cancelled not because it failed but because the Soviet space threat diminished — once the geopolitical competition ended, the political will to fund the program evaporated.
 - `INS-260409-E421` [high] Income taxes are the wrong instrument for taxing billionaires because founders take $1 salaries and hold appreciating unsold stock.
+- `INS-260410-D6D5` [high] Mao's 'three stages of people's war' only terminates in victory if a big industrial friend arrives to supply the conventional armaments phase three requires.
 - `INS-260327-719D` [high] Napoleon won at Borodino but lost 30,000+ men without destroying the Russian army — a tactical victory that was strategically catastrophic.
 - `INS-260327-65F4` [high] Justinian's reconquest of the Western Roman Empire bankrupted Byzantium — the wars in Italy and Africa cost far more than the conquered territories ever returned in revenue.
 - `INS-260325-3C17` [high] After the Bronze Age collapse, it took 400 years to rebuild comparable Mediterranean trade networks.
 - `INS-260327-15E1` [high] The Qing dynasty's late reforms — abolishing the exam system, creating a constitutional monarchy, modernizing the army — actually accelerated its collapse by destabilizing the existing power structure without creating a viable alternative.
+- `INS-260410-CBF9` [high] Tocqueville's rule held for the USSR: 'the most dangerous moment for a bad government is when it begins to reform,' because Gorbachev gave away political power before fixing the economy while Deng held political power and fixed the economy.
 - `INS-260327-178D` [high] Byzantine Emperor Alexius asked for mercenary help; Pope Urban reframed it as a holy war to reclaim Jerusalem, transforming a small request into a continental movement under papal authority.
 - `INS-260327-4419` [high] Napoleon rejected the Frankfurt Proposals that would have kept him as Emperor of France within its natural frontiers, and ended up losing everything.
 - `INS-260403-2C07` [high] Regime-threatening unrest emerges only when economic hardship hits the business and working classes simultaneously, not from political grievances alone.
@@ -309,6 +320,7 @@
 - `INS-260327-C22F` [high] Belisarius conquered the entire Vandal Kingdom in weeks by attacking before they could assemble their dispersed forces, defeating them piecemeal before they understood the threat.
 - `INS-260327-80AD` [high] Napoleon's greatest weapon was not army size but the speed with which he moved before coalition forces could unite.
 - `INS-260327-A052` [high] The Crusade mobilized tens of thousands to march across a continent at their own expense because the spiritual incentive (remission of sins) was more powerful than any paycheck.
+- `INS-260410-A264` [high] England, the US, and France installed their constitutional orders when only propertied men voted, giving the system breathing room to embed citizenship norms before democratizing — once you're already in the mass age, constitutional revolution reliably fails.
 - `INS-260327-CE65` [high] Russia's continental size made it unconquerable — Napoleon and later Hitler discovered that Russia could simply retreat, trading space for time until the invader exhausted themselves.
 - `INS-260404-95CA` [high] Project Vault pairs $12B in reserves with bilateral agreements across 11 countries, recognizing that mineral security requires allied coordination, not just stockpiling.
 - `INS-260330-51B1` [high] States behave aggressively not because leaders are inherently aggressive, but because the anarchic international system leaves them no choice but to maximize relative power.

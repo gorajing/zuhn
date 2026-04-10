@@ -50,6 +50,7 @@ related:
   - INS-260327-8BFF
   - INS-260323-DA1E
   - INS-260323-825F
+  - INS-260410-B30D
 stance: 'Bohm and Aharonov, both academic outsiders'
 evidence:
   - id: INS-260323-825F

@@ -60,7 +60,6 @@ related:
   - INS-260323-47D8
   - INS-260329-3177
   - INS-260329-DACC
-  - INS-260404-023C
 evidence:
   - id: INS-260322-B693
     type: CONTRADICTS

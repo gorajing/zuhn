@@ -49,6 +49,6 @@ related:
   - INS-260403-5CD7
   - INS-260403-F8B6
   - INS-260329-3739
-  - INS-260403-CB80
+  - INS-260410-A33F
 ---
 Traditional PMF assumes a relatively stable problem-solution relationship: find a pain point, build a solution, validate, scale. AI products break this because the benchmark users judge against keeps improving — every ChatGPT capability upgrade raises what 'good enough' means for every AI product in every category. Founders who treat PMF as achieved are caught flat-footed when the goalposts move. The practical implication is that AI product teams must build recalibration into their operating rhythm, not just their launch process — regularly auditing whether user expectations have outpaced their current capability level.

@@ -57,6 +57,7 @@ related:
   - PRI-260405-FB37
   - INS-260410-022B
   - INS-260410-34F5
+  - INS-260410-CDE9
 ---
 When the AI field shifted emphasis from pure pre-training scaling to reinforcement learning, many predicted the scaling laws would break down. Dario's 2017 'Big Blob of Compute Hypothesis' argued that raw compute, data quantity, data quality, and objective functions are essentially all that matter — and this has held through the RL transition.
 

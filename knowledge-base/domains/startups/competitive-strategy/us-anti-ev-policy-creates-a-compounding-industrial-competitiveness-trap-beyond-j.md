@@ -50,7 +50,6 @@ stance: >-
   robots, and consumer electronics, creating cascading industrial decline.
 related:
   - INS-260325-B882
-  - INS-260327-BEFF
   - INS-260403-107E
   - INS-260403-2B95
   - INS-260403-2E12

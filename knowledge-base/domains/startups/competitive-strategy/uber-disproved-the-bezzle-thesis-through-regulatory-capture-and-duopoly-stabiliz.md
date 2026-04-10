@@ -62,7 +62,7 @@ related:
   - INS-260330-106F
   - INS-260330-0525
   - INS-260403-B73A
-  - INS-260403-A739
   - INS-260403-6546
+  - INS-260403-E05D
 ---
 The 'bezzle thesis' — that Uber was a Ponzi scheme subsidizing rides below cost with investor money — predicted the company would collapse once subsidies ended and competitors flooded in. Instead, Uber is now highly profitable. The thesis failed on two key assumptions: first, it assumed governments would crack down on gig economy labor practices, but Uber's lobbying and voter preference for cheap rides prevented this; second, it assumed infinite potential competitors would prevent Uber from ever raising prices above cost, but Uber successfully bullied all competitors except Lyft out of the market, and the resulting duopoly preferred tacit cooperation over destructive price competition. The broader lesson is that tech journalists systematically underestimate two forces: regulatory capture (well-funded companies can shape the rules) and market consolidation (network effects and aggressive competition create stable oligopolies). The 'inevitable collapse' narrative applied to many tech companies tends to assume perfectly competitive markets and functional regulation — conditions that rarely hold in practice.

@@ -55,6 +55,7 @@ related:
   - INS-260402-91B5
   - INS-260404-3275
   - INS-260403-EC66
+  - INS-260410-11F3
   - INS-260330-2EB0
 ---
 Alexander highlights organizations like the Liberal Gun Club and Conservative Animal Welfare Foundation as examples of cross-factional presence. While these minority-faction branches may seem small, they provide access to policymakers who would never meet with the opposition. This 'embassy model' of maintaining presence across faction lines is a structural advantage.

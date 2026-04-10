@@ -48,10 +48,10 @@ stance: >-
   amount of investment.
 related:
   - PRI-260328-4CC0
+  - INS-260410-8DDD
   - INS-260327-4440
   - INS-260410-3F35
   - INS-260327-A61B
-  - PRI-260328-D5EB
 ---
 Karp identifies Palantir's core competitive advantage not as any specific technology but as sustained organizational speed. Forward-deployed engineers (when everyone said it would destroy margins), almost no hierarchy (when most companies add layers every year), and building for defense (when Silicon Valley wanted nothing to do with it) — all of these were speed multipliers that compounded over two decades.
 

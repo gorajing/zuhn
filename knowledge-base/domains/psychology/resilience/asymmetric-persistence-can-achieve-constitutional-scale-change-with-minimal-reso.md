@@ -54,7 +54,8 @@ related:
   - INS-260330-E180
   - INS-260325-9F12
   - INS-260325-90C6
-  - INS-260327-3918
+  - INS-260410-81DC
+  - INS-260410-0330
 ---
 The 27th Amendment story is one of the most striking examples of asymmetric leverage in institutional change. A single undergraduate, motivated partly by a bad grade, spent roughly $6,000 on a letter-writing campaign to state legislatures and succeeded in amending the US Constitution — something that normally requires massive political coalitions and millions of dollars.
 

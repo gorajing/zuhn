@@ -47,8 +47,8 @@ stance: >-
 related:
   - INS-260409-05AC
   - INS-260409-0988
+  - INS-260410-7B48
   - INS-260409-D947
   - INS-260409-A55C
-  - INS-260330-2F13
 ---
 Dalton's motivational reframe: a founder who spent two years building a zombie now knows the users, the industry, and what failed. If they were an investor evaluating the space, they'd have strong opinions about what's big and what isn't. That knowledge is real value, and it means a radical new swing from inside the same domain is more likely to work than a fresh founder's first attempt. The corollary is sharp: if after all that work the founder genuinely sees nothing worth pursuing in the space, believe them — that's the strongest possible signal to shut down, because no one has more evidence.

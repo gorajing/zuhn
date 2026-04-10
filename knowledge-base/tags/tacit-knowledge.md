@@ -6,6 +6,7 @@
 - `INS-260327-5A72` With 25% of US physicians as monthly active users, Open Evidence can now aggregate distributed clinical wisdom that exists only in doctors' heads -- knowledge not found in any published literature.
 - `INS-260409-6236` Daily hands-on AI usage builds usable intuition that content consumption cannot replace.
 - `INS-260330-D429` Zimbabwe's forced land redistribution cut agricultural output by 50-90% because the new farmers lacked the tacit expertise that made the farms productive.
+- `INS-260410-0775` Chesterton's Fence is real — bitter cassava processing, food taboos, bow-making techniques encode causal logic that took centuries to evolve and that the people following them cannot explain.
 - `INS-260403-2612` Experts benefit more from writing about their domain because they hold more unconscious knowledge that only surfaces through articulation.
 - `INS-260403-8114` Understanding a mechanism's physics does not grant the ability to operate it skillfully.
 - `INS-260330-FE14` Destin could diagnose hit quality purely from the crack of the bat — bottom barrel hits sound different from sweet-spot contact.

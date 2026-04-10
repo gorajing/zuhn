@@ -56,12 +56,12 @@ related:
   - INS-260325-820C
   - INS-260323-72EB
   - INS-260323-7345
-  - INS-260323-C3FA
   - INS-260323-DA1E
   - INS-260325-EBDD
   - INS-260330-DFA4
   - INS-260330-97A0
   - INS-260402-26B0
+  - INS-260410-81DC
 stance: >-
   Pythagoras's theorem has been unchanged for 2500 years while Newton's gravity
   was superseded by Einstein's

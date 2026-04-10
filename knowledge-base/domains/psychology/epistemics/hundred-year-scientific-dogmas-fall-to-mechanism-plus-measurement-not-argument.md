@@ -63,9 +63,9 @@ related:
   - INS-260403-A22E
   - INS-260323-9770
   - INS-260330-240A
+  - INS-260410-81DC
   - INS-260323-C3FA
   - INS-260325-EBDD
-  - INS-260404-FAE9
 ---
 The Weismann Barrier held as dogma for nearly a century. Even as phenotypic inheritance evidence accumulated over the last 20 years, the mechanism remained speculative. What broke the dogma was not more phenotype studies but the ability to identify specific microRNAs in sperm and the fertilized egg that regulate relevant downstream genes — a direct mechanistic link revealed by sequencing technology that didn't exist during Weismann's lifetime.
 

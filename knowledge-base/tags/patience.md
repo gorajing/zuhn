@@ -1,12 +1,12 @@
 # Tag: patience
 
 - `INS-260323-7E6F` Speed is the shortest distance between seeing and acting on an opportunity; time is making a good decision and holding it — Berkshire compounded at 20% annually from 1965-2024 by getting both right.
-- `INS-260403-2E2C` Chamath's ~$62M concentrated bet on Groq from 2017 likely returned low single-digit billions, illustrating that outsized returns require tolerating long periods where being right feels indistinguishable from being wrong.
-- `INS-260404-B640` VC illiquidity prevents investors from making behavioral mistakes by removing the option to sell during temporary drawdowns or before exponential growth materializes.
-- `INS-260404-5369` PitchBook data suggests that slower, more deliberate first-year deployment speed in VC funds correlates with stronger long-term IRR performance.
 - `INS-260327-8473` Wellington's defensive strategy in Portugal was unpopular and appeared passive but systematically destroyed French armies through attrition rather than risk.
 - `INS-260327-EF8C` Wellington watched Marmont's army for days without attacking, then struck in 40 minutes when the French overextended their line — destroying an entire army in one afternoon.
 - `INS-260327-35CB` Russia defeated Napoleon in 1812 primarily by refusing to fight decisive battles — retreating, burning their own territory, and letting distance and winter destroy the Grande Armee.
+- `INS-260403-2E2C` Chamath's ~$62M concentrated bet on Groq from 2017 likely returned low single-digit billions, illustrating that outsized returns require tolerating long periods where being right feels indistinguishable from being wrong.
+- `INS-260404-B640` VC illiquidity prevents investors from making behavioral mistakes by removing the option to sell during temporary drawdowns or before exponential growth materializes.
+- `INS-260404-5369` PitchBook data suggests that slower, more deliberate first-year deployment speed in VC funds correlates with stronger long-term IRR performance.
 - `INS-260403-F075` Like floating on multi-layer shade balls, staying still keeps you on the surface while thrashing causes you to sink deeper.
 - `INS-260409-7055` Real low-rate signals emerge as slow accumulations over weeks, not as a-ha moments — learn to distinguish both from noise.
 - `INS-260409-B367` The 20-year apparatus build, not the moment of measurement, is the real cost of a frontier physics result.
@@ -27,10 +27,10 @@
 - `INS-260323-422B` The Barber & Odean study of 66,000 investors showed the most active traders underperformed the market by 7%/year while the least active performed best — jumping between opportunities destroys the compounding that builds wealth.
 - `INS-260329-8542` Writing yourself a 10-year contract to add 1-2 zeros to your net worth transforms your decision-making from gambling to inevitable compounding.
 - `INS-260329-5C7A` Channel frustration about slow outcomes into higher volume of deliberate inputs rather than strategy-switching.
-- `INS-260403-98E1` Real wealth stacks up through many small chips — businesses, investments, options — not one big windfall.
 - `INS-260403-7A31` Investor ecosystems grow organically from successful exits — they cannot be seeded artificially or attracted by incentives.
 - `INS-260403-76F5` After VC silence, wait 3-4 weeks then send concise milestone updates rather than chasing — this keeps the door open while signaling confidence.
 - `INS-260402-3D61` Glanville pushed through exhausting fundraising to curate investors who shared his long-term vision, resisting advice to take whatever money was available.
+- `INS-260403-98E1` Real wealth stacks up through many small chips — businesses, investments, options — not one big windfall.
 - `INS-260325-E895` Gawande's coach taught him to count to 30 in his head before intervening when surgical trainees struggled with bleeding — breaking his instinct to grab the instruments and do it himself.
 - `INS-260403-952F` Page's 10-year path from sidelined co-founder to Alphabet CEO shows that quiet competence accumulation beats political maneuvering.
 - `INS-260329-476D` Willingness to work on something for 5-10 years is itself a competitive advantage because most founders filter out ideas that won't pay off in two years.

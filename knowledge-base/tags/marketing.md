@@ -9,7 +9,6 @@
 - `INS-260405-DFBC` Getting cited by AI engines compounds brand authority faster than traditional SEO because AI models return to sources that performed well before.
 - `INS-260402-C03D` MrBeast's $500M+ revenue empire proves a single creator can bypass traditional marketing by using content as the distribution engine for vertically integrated businesses.
 - `INS-260330-E615` McDonald's failed when it adapted menus to local cultures but succeeded spectacularly when it kept the menu intact and hired locals to handle marketing.
-- `INS-260323-7C0E` Rosolie must publicize the uncontacted tribes' existence to raise funds for their protection, even though publicity itself threatens them.
 - `INS-260328-ACC3` Stripe, Google, and PostHog all appear to be pure self-serve products, but they invest heavily in marketing — no one waits in an ivory tower to be discovered.
 - `INS-260322-5745` When an industry treats marketing as beneath it, the first firm to market aggressively gains a permanent structural advantage.
 - `INS-260323-8165` Run daily marketing experiments, calculate cost-per-customer for each, and pour everything into the cheapest acquisition channel.
@@ -18,5 +17,6 @@
 - `INS-260323-D6F2` Rella never runs ads on content created specifically for ads — they only boost posts that already performed well organically, using the algorithm as a free testing ground.
 - `INS-260403-DEF6` PR works like SEO for news — you get placed inside trusted editorial content rather than buying ignorable ads.
 - `INS-260329-7B56` Reviews that mention real downsides before praising outcomes are more believable and convert better than pure five-star praise.
+- `INS-260323-7C0E` Rosolie must publicize the uncontacted tribes' existence to raise funds for their protection, even though publicity itself threatens them.
 - `INS-260329-4A69` Invest in capturing and displaying proof rather than crafting elaborate promises — proof is always more compelling.
 - `INS-260322-8299` The correct sequence is pricing optimization -> freed cash flow -> attribution tracking -> paid ads -> content/thought leadership, not the reverse.

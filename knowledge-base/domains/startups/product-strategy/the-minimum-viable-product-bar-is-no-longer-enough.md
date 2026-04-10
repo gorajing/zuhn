@@ -49,5 +49,6 @@ related:
   - INS-260403-5DD7
   - INS-260323-1D15
   - INS-260322-F128
+  - INS-260410-71D2
 ---
 The classic MVP framework optimizes for speed-to-market with a 'good enough' product, but in mature or crowded markets this creates a structural disadvantage. Linear's Tuomas Artman argues that the right bar is a competitive product — one users would actively prefer over incumbents — not merely a functional one. Shipping a minimum viable product into a saturated category trains early adopters to tolerate your weaknesses and gives competitors time to copy your differentiators before you've fully developed them. The implication is that founders should delay launch longer if necessary to cross the competitive threshold, rather than shipping early and iterating toward it.

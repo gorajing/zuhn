@@ -1,6 +1,6 @@
 # Topic: strategy
 
-> 239 insights
+> 240 insights
 
 - `INS-260330-98EA` [high] The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples.
 - `INS-260403-0530` [high] New York struggles as a startup hub because founders there are second-class citizens in a status hierarchy that most admires financial wealth.
@@ -199,6 +199,7 @@
 - `INS-260405-E353` [medium] Costco's maze-like layout and IKEA's self-assembly both work because they make customers feel like active participants who earned their reward rather than passive consumers.
 - `INS-260330-FEB0` [medium] The Eastern Empire survived 1,000 years longer than the West primarily because it was richer, more urban, more compact, and closer to major trade routes — not because it had better armies.
 - `INS-260404-1579` [medium] Geopolitical realignment is turning deeptech startups into sovereignty infrastructure with government-backed demand.
+- `INS-260410-71D2` [medium] DIME (diplomacy, information, military, economics) is a decent starting point but Japan won on railways, loans, psyops, and Anglo-Japanese alliance terms — the decisive instruments are always context-specific.
 - `INS-260323-9B68` [medium] Shapiro's counter to the 'arc of history bends toward progress' narrative: the 20th century produced communism, Nazism, and the Holocaust — moral regression is not just possible, it's historically common.
 - `INS-260325-79BD` [medium] The ~1500-year gap between Bronze Age collapse and Rome's fall, and another ~1500 years to today, suggests recurring vulnerability patterns.
 - `INS-260330-E474` [medium] The 1054 Orthodox-Catholic schism — driven by theological identity differences, not resource competition — created a 1000-year fracture, showing that value misalignment produces the most permanent organizational splits.

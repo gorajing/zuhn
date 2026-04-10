@@ -50,10 +50,10 @@ stance: >-
   tolerance for social ostracism is itself a rare competitive advantage.
 related:
   - INS-260330-3BBD
+  - INS-260410-647F
   - INS-260403-952F
+  - INS-260410-90BD
   - INS-260323-E15B
-  - INS-260321-3808
-  - INS-260402-3134
 ---
 Palantir was called a failure for 15 years. They went public, got crushed to $6/share by analysts, then ran to $80+. Karp openly calls Palantir a 'freak show' and embraces it. His challenge to founders: do you have the conviction to keep building when everyone tells you to stop? Are you willing to be a freak show for 20 years to find out if you're right?
 

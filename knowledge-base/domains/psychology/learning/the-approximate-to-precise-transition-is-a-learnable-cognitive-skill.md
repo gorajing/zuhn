@@ -47,7 +47,6 @@ stance: >-
   quantitative domains.
 related:
   - INS-260325-03D5
-  - INS-260327-FFA7
   - INS-260329-72AC
   - INS-260329-89CB
   - INS-260329-02B3
@@ -56,6 +55,7 @@ related:
   - PRI-260406-D3E4
   - PRI-260407-684A
   - INS-260329-04FA
+  - INS-260402-89DE
 evidence:
   - id: INS-260327-47E9
     type: TRANSFERS_TO

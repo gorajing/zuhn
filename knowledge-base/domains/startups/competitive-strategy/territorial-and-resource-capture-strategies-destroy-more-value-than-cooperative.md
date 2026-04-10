@@ -52,10 +52,10 @@ stance: >-
   short-term gains.
 related:
   - INS-260323-176B
+  - INS-260410-BD56
   - PRI-260324-2A76
   - INS-260403-E681
   - INS-260402-3134
-  - PRI-260406-487A
 ---
 The US relationship with Greenland was positive-sum and cooperative — the US already had access to its natural resources and shipping routes. Conquering it would earn enmity from Europeans and Greenlanders while adding no real economic value. The Iraq War similarly failed to produce significant economic benefits from seized oil fields. Venezuela's oil remains uninvestable due to political chaos regardless of regime change.
 

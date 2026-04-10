@@ -47,6 +47,6 @@ related:
   - INS-260320-DADA
   - PRI-260326-12C6
   - INS-260405-0271
-  - PRI-260405-675B
+  - INS-260410-4782
 ---
 The gap between a $300K agency quote and 5,420 credits of AI generation is not primarily about model capability - it is about who can now direct 50+ iterations toward a coherent vision. When every scene costs pennies and minutes, the differentiator is the operator's ability to know when a shot is wrong, what needs changing, and which angle serves the story. Agencies historically justified their cost through capacity to execute; now they must justify it through superior creative judgment or brand strategy. Operators without creative direction generate volume without quality; operators with direction produce commercial work previously gatekept by capital.

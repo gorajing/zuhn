@@ -49,7 +49,6 @@ stance: >-
   S-curve
 related:
   - INS-260330-7FAC
-  - INS-260330-9FCF
   - INS-260330-F493
   - INS-260330-41A5
   - INS-260330-AA4F
@@ -58,6 +57,7 @@ related:
   - INS-260330-C499
   - INS-260330-2EC0
   - INS-260330-8817
+  - INS-260330-FB66
 evidence:
   - id: INS-260330-F493
     type: CHALLENGES

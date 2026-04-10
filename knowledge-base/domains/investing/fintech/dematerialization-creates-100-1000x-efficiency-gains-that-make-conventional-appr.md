@@ -56,7 +56,6 @@ stance: >-
   1,000,000x efficiency improvements over physical equivalents, making any
   institution that resists digital transformation structurally uncompetitive.
 related:
-  - INS-260323-22E8
   - INS-260325-E7D4
   - INS-260323-F15D
   - INS-260325-0F4F
@@ -66,6 +65,7 @@ related:
   - INS-260329-9D26
   - INS-260329-72C1
   - INS-260330-E89A
+  - INS-260403-30BF
 evidence:
   - id: INS-260327-368D
     type: SUPPORTS

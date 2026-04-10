@@ -43,10 +43,10 @@ related:
   - INS-260322-54F3
   - INS-260322-CCE8
   - INS-260409-1D91
-  - INS-260327-4E8E
   - INS-260403-F9C7
   - INS-260409-C3F7
   - INS-260409-8758
+  - INS-260410-B9A6
 stance: >-
   The current monoculture of one model for everything will give way to speciated
   models

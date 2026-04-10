@@ -12,11 +12,11 @@
 - `INS-260405-C709` AI-jobs debates feel unresolvable because optimists and pessimists are each describing a different causal layer of the same system.
 - `INS-260405-2287` 54.6% of U.S. adults use AI personally but fewer than 10% of businesses have integrated it into production, so the real disruption hasn't started yet.
 - `INS-260327-40D5` Tech workers went from guaranteed careers with stock-option millionaires to mass layoffs and AI replacement, becoming everything they promised to disrupt.
-- `INS-260405-8532` With U.S. labor costs at ~$18.6 trillion (60% of GDP), even partial AI-driven displacement would constitute the largest economic value transfer in modern history.
 - `INS-260403-2242` The Fed cut rates 25bps to 3.75-4.00% and announced QT ending December 1, with dissents revealing internal division, as major layoffs at UPS (48K), Amazon (30K), and others signal accelerating labor market deterioration.
 - `INS-260327-004B` 30 million Americans will retire by 2030 representing nearly a fifth of the labor force, with most having less than $250K in total assets.
 - `INS-260405-EE1F` Aggregate economic health metrics can look normal while underlying dynamics are historically anomalous.
 - `INS-260327-3653` 8.2 million job openings vs 7 million job seekers looks like a skills mismatch, but most unfilled positions simply pay below what the required skills command in the market.
+- `INS-260405-8532` With U.S. labor costs at ~$18.6 trillion (60% of GDP), even partial AI-driven displacement would constitute the largest economic value transfer in modern history.
 - `INS-260322-054E` The largest AI opportunity is not replacing existing software but replacing labor tasks where the cost-to-value equation was previously inverted.
 - `INS-260327-4D70` Jobs that 'nobody wants' almost always fall into three categories: paying below market, terrible conditions, or located in areas where the wage doesn't cover living costs.
 - `INS-260330-4E01` HEAL sector jobs will outnumber new STEM jobs 3:1 by 2030, but only 24% of HEAL workers are male and the share is falling with no organized effort to reverse it.

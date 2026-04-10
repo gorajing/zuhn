@@ -58,11 +58,11 @@ stance: >-
   profit motive to stabilize economies.
 related:
   - INS-260327-3DCB
+  - INS-260410-CBF9
   - PRI-260328-37D8
   - INS-260409-7C61
   - INS-260330-84BD
   - PRI-260321-2DF0
-  - PRI-260406-861A
   - INS-260403-7BC6
   - INS-260409-1DD3
 evidence:

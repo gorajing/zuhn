@@ -52,10 +52,10 @@ stance: >-
   iterative adjustments.
 related:
   - PRI-260406-7CD8
+  - INS-260410-8DDD
   - PRI-260403-35FE
   - INS-260403-C695
   - PRI-260405-6A4E
-  - PRI-260406-D287
 ---
 Smith identifies a recurring pattern in Chinese governance: aggressive, dramatic action that ignores long-term consequences, followed by rapid reversal once those consequences become clear. The one-child policy went too far and lasted too long; now China frantically promotes three children. Real estate was used as an economic shock absorber for decades; now Xi crushes the sector, causing economic chaos. Industrial crackdowns swing between extremes.
 

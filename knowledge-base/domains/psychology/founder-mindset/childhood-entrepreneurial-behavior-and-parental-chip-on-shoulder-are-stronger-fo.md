@@ -61,6 +61,7 @@ related:
   - INS-260402-9681
   - PRI-260405-E256
   - INS-260403-9F49
+  - INS-260410-734F
 ---
 The pattern Stebbings identifies is that great entrepreneurs rarely start at 27 — they were building websites at 13, selling sticker books at 7. This early behavior reveals intrinsic drive and systems thinking that formal education doesn't develop. He extends this to gaming: leading a clan teaches systems thinking, competition management, and collaboration in ways that map directly to startup leadership.
 

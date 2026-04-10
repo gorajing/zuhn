@@ -47,7 +47,6 @@ stance: >-
   strength of its base materials, not by architectural creativity or engineering
   cleverness.
 related:
-  - INS-260323-9BC8
   - INS-260330-5600
   - INS-260330-AF2A
   - INS-260330-F9FB

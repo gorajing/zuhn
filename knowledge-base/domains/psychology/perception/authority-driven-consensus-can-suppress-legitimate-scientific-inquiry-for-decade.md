@@ -59,6 +59,7 @@ related:
   - INS-260323-E77E
   - INS-260323-3F56
   - INS-260404-80AC
+  - INS-260410-3697
 stance: >-
   Bohr's social authority caused the physics community to dismiss the EPR
   paradox for 30 years

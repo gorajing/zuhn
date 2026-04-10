@@ -53,7 +53,7 @@ related:
   - PRI-260328-0332
   - INS-260409-EF0C
   - INS-260323-9146
-  - INS-260409-78E1
+  - INS-260410-9B33
 ---
 Stoute built 'getting on the plane' as a core company value because he observed a consistent pattern: physical presence created outsized returns in business relationships. The act of traveling to meet someone face-to-face — even for a 15-minute conversation — communicates commitment and respect in a way that calls and emails cannot replicate.
 

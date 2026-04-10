@@ -52,11 +52,11 @@ stance: >-
   catastrophically when the power balance hasn't actually shifted enough.
 related:
   - INS-260324-0A26
+  - INS-260410-647F
   - INS-260327-7315
   - INS-260327-E30A
   - INS-260327-E9FC
   - INS-260330-1183
-  - INS-260327-377A
 evidence:
   - id: INS-260324-0A26
     type: TRANSFERS_TO

@@ -6,9 +6,9 @@
 - `INS-260330-8FC5` Pick your city first because jobs, partners, friends, and opportunities are downstream of geographic network proximity.
 - `INS-260403-3155` Graham moved YC to Silicon Valley partly because he didn't want someone else to copy the model and call themselves 'the Y Combinator of Silicon Valley.'
 - `INS-260404-5882` Silicon Valley's tech saturation means the person at the next table likely knows your stakeholders and could help you — creating ambient serendipity impossible to engineer remotely.
-- `INS-260403-B378` Perfect weather, mountains, and proximity to San Francisco explain why Silicon Valley formed around Stanford specifically.
 - `INS-260403-5D7D` Seed-stage startups are too mobile for small regional grants to anchor them geographically.
 - `INS-260404-6D4D` Only 30% of 61 curated fundraising startups were US-based, with Spain, UK, and rest-of-world comprising the majority.
+- `INS-260403-B378` Perfect weather, mountains, and proximity to San Francisco explain why Silicon Valley formed around Stanford specifically.
 - `INS-260403-4610` Creandum went Stockholm → San Francisco → Germany → London, using US credibility to unlock European markets.
 - `INS-260403-F8B5` Startup culture is a social phenomenon requiring community expertise, making it fundamentally harder to transplant than industrial technology.
 - `INS-260404-E651` Good people attract good colleagues, so programming talent concentrates in hubs that can flip from one city to another within decades.

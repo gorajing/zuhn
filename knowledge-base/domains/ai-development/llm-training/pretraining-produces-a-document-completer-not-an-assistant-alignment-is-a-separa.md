@@ -54,13 +54,12 @@ stance: >-
   The gap between a pretrained base model and a useful assistant is entirely
   bridged by fine-tuning (SFT + reward modeling + PPO), not by scale alone.
 related:
-  - INS-260323-1BF7
   - INS-260320-922A
   - INS-260329-8986
   - INS-260327-79E8
-  - INS-260409-60C2
   - INS-260404-CE26
   - INS-260408-C572
+  - INS-260409-60C2
   - INS-260410-684D
 ---
 Karpathy draws an explicit line between what the lecture builds (nanoGPT pretraining — a decoder-only Transformer that completes sequences) and what ChatGPT adds on top. A freshly pretrained model given a question will often respond with more questions, ignore the prompt, or start a news article — whatever a similar document on the internet would look like. It is 'totally unaligned'.

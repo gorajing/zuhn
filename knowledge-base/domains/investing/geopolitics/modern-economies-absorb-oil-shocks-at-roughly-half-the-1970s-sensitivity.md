@@ -49,11 +49,11 @@ stance: >-
   additional inflation and 1.5 percentage points of GDP drag, far less than
   equivalent shocks caused in the 1970s
 related:
+  - INS-260410-F814
   - INS-260403-EB8F
   - INS-260403-9D90
   - INS-260409-053F
   - INS-260403-9897
-  - INS-260403-2225
 ---
 Blanchard and Gali (2007) found that a 10% oil price increase now produces only ~0.25pp CPI increase and ~0.3pp GDP reduction, compared to roughly double or triple those figures in the 1970s. The key drivers of this reduced sensitivity are greater economic flexibility (easier labor reallocation, less rigid contracts), improved monetary policy (central banks no longer reflexively print money in response to supply shocks), and lower oil intensity per unit of GDP.
 

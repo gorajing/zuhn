@@ -51,8 +51,7 @@ stance: >-
   actually effective
 related:
   - INS-260330-4E09
-  - INS-260402-E2FF
-  - INS-260404-FBF8
+  - INS-260410-BD56
   - PRI-260406-20FD
   - INS-260403-B198
   - PRI-260403-57EC

@@ -51,7 +51,6 @@ stance: >-
   derivative problem — marginal cost versus marginal revenue determines optimal
   scale.
 related:
-  - INS-260325-8A61
   - INS-260327-4F8C
   - INS-260327-5973
   - PRI-260328-BEDD
@@ -61,6 +60,7 @@ related:
   - INS-260405-4B5D
   - PRI-260407-C35C
   - INS-260329-3EB6
+  - INS-260329-D02E
 evidence:
   - id: INS-260325-8A61
     type: SUPPORTS

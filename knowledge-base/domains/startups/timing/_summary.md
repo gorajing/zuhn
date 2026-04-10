@@ -1,6 +1,6 @@
 # Topic: timing
 
-> 60 insights
+> 62 insights
 
 - `INS-260404-007F` [high] Enterprise SaaS IPOs from 2012 outperformed expectations by solving deep operational pain points with recurring revenue models.
 - `INS-260330-ADB7` [high] Gallium nitride was declared a 'dead end' by RCA in 1972 and by Nichia's biggest customer in 1990, yet became an $80 billion industry by 2024.
@@ -23,6 +23,7 @@
 - `INS-260403-8DE1` [high] Disruption requires not just the right insight but the right infrastructure moment — the same idea fails or succeeds based on what enabling platforms exist.
 - `INS-260403-8EFF` [high] Startups represent a historic shift where deep intellectual curiosity increasingly leads to wealth, not just academic prestige.
 - `INS-260329-476D` [high] Willingness to work on something for 5-10 years is itself a competitive advantage because most founders filter out ideas that won't pay off in two years.
+- `INS-260410-111A` [high] Gutenberg went bankrupt because his small German town had only seven legal buyers for 300 Bibles — the press worked, the distribution didn't.
 - `INS-260402-9F35` [high] Mid-century equality was produced by war and oligopoly, making it a poor baseline for modern policy goals.
 - `INS-260403-7C71` [high] Founder wealth creation is the historical default; the mid-20th century corporate era was a temporary phase caused by consolidation.
 - `INS-260328-58B1` [high] Name the 20 software companies you respect most — not one of them made it in a year.
@@ -42,6 +43,7 @@
 - `INS-260323-F5EF` [high] The same macro forces that create billion-dollar winners also destroy them when conditions shift — timing is not a skill.
 - `INS-260325-EBDD` [high] Bacon foresaw the power of systematic science in 1620 but the Industrial Revolution did not arrive until 200 years later.
 - `INS-260328-3446` [high] We have not even figured out how to fully use the tools we already have — new models drop and we assume we know the best way to extract value, which is laughable.
+- `INS-260410-1BB0` [high] When you're racing a window shut, you don't have the luxury of optionality — the window itself is evidence your adversary's structural position will soon exceed yours.
 - `INS-260403-C37B` [medium] Major consumer AI apps will follow the iPhone pattern—emerging roughly 18 months after developers internalize the platform's design possibilities.
 - `INS-260403-CAAB` [medium] Major AI game breakouts are delayed because inference speed, cost, model quality, and media generation must all mature simultaneously — just as internet games waited for bandwidth, GPUs, and memory.
 - `INS-260405-4D20` [medium] Greg Isenberg's 2024 claim that it's the best time to start a company in 30 years is grounded in AI dramatically compressing the cost and time to build an MVP.

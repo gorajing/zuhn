@@ -52,11 +52,11 @@ stance: >-
   abroad become unable to tolerate their home system's inadequacies, creating
   pressure for reform or revolution.
 related:
+  - INS-260410-A264
   - INS-260330-D661
   - INS-260330-B384
   - INS-260327-479C
   - INS-260327-1756
-  - INS-260327-8912
 evidence:
   - id: INS-260326-44C9
     type: EXTENDS

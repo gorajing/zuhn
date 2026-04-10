@@ -1,6 +1,8 @@
 # Tag: legitimacy
 
 - `INS-260327-64A5` Napoleon's empire required continuous military victories to maintain legitimacy — the moment he suffered a major defeat (Russia 1812), the entire system began to unravel because it had no other foundation.
+- `INS-260410-009B` The Chinese, Vietnamese, and Korean civil wars all turned on which side distributed land to peasants first — a political act that glued loyalty more firmly than any military campaign.
+
 - `INS-260327-F389` Napoleon's coup succeeded because he had both the popular fame that made opposition politically costly and enough insiders (Sieyes, Talleyrand) to open the institutional doors.
 - `INS-260330-7511` The Mandate of Heaven made political legitimacy conditional on moral performance, creating a recursive loop where failure itself became proof of illegitimacy.
 - `INS-260330-5958` 64% of Singaporeans said economic development matters more than democracy — revealing a transactional relationship where support is rented, not owned, and can be withdrawn when delivery falters.

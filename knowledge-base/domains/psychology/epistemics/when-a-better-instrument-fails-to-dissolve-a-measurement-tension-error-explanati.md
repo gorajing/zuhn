@@ -62,5 +62,6 @@ related:
   - INS-260409-D603
   - PRI-260323-2FEE
   - PRI-260323-CE34
+  - INS-260410-81DC
 ---
 The SH0ES team measured a Hubble constant ~8-9% higher than the Planck CMB prediction. Most of the field assumed the likely culprit was stellar crowding — Cepheid variables blending with nearby starlight, biasing brightness and thus distances. JWST's 6.5m mirror and infrared sensitivity were supposed to cleanly resolve this blending. But the Cepheids looked the same, the distances held, and the expansion rate stayed at 73. Riess put it plainly: 'With the errors eliminated, what's left is the possibility that we have misunderstood the universe.' This is how measurement tensions are supposed to be adjudicated — build an instrument that would distinguish 'our tool is fooling us' from 'the model is incomplete,' then go look. When the sharper instrument confirms rather than dissolves the anomaly, the burden of proof shifts decisively from the data to the theory.

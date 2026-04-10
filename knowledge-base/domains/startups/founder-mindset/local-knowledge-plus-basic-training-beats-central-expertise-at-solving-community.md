@@ -58,7 +58,7 @@ related:
   - INS-260327-7B16
   - INS-260404-2695
   - INS-260325-9E0C
+  - INS-260410-734F
   - INS-260322-0CE3
-  - INS-260403-4EBF
 ---
 Mao's barefoot doctor program in 1960s China took rural villagers — still peasants, barefoot, embedded in their communities — and gave them basic medical training in preventative care, curing simple ailments, diagnoses, and vaccines. They then returned to their home villages. 'By the mid-1970s, there were over 1.5 million barefoot doctors serving in China's villages. Life expectancy over that period rose dramatically from 35 years to 63 years.' This worked because distant urban medical experts had no context on rural life, and even if they understood the problems, distributing medical care from urban centers to 80% of the population would have been logistically impossible. Local villagers with basic training were good enough for the common cases and catastrophically better than no care at all. The principle generalizes: when a scarce centralized expertise (doctors, engineers, lawyers) cannot reach the long tail of problems, training embedded community members in basic skills outperforms trying to scale the central expertise. Directly relevant to the barefoot developer thesis and to any professional service where demand vastly exceeds supply in underserved geographies.

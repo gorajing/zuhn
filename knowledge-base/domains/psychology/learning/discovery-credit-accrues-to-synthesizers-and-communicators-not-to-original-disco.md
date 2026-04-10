@@ -55,7 +55,6 @@ stance: >-
   forgotten
 related:
   - INS-260323-7BA4
-  - INS-260323-224F
   - INS-260325-EBDD
   - INS-260327-45B4
   - INS-260327-0048
@@ -64,6 +63,7 @@ related:
   - INS-260330-4F7B
   - INS-260404-FDEA
   - INS-260403-837D
+  - INS-260404-BEF7
 evidence:
   - id: INS-260323-7BA4
     type: EXTENDS

@@ -57,10 +57,10 @@ stance: >-
   for efficient action selection.
 related:
   - INS-260403-CF23
+  - INS-260410-9303
   - INS-260329-70F2
+  - INS-260410-EF9E
   - INS-260329-1075
-  - PRI-260406-4F8E
-  - INS-260330-6165
 evidence:
   - id: INS-260330-81E0
     type: CHALLENGES

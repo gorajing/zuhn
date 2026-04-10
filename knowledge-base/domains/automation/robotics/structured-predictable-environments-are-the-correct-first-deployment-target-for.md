@@ -61,7 +61,7 @@ related:
   - INS-260330-F7B2
   - INS-260405-E34C
   - INS-260405-E4FC
-  - INS-260327-9C56
+  - INS-260410-F7B8
 ---
 The deployment roadmap for humanoid robots follows the same logic as any complex system entering the real world: start where variance is low, feedback is fast, and errors are recoverable. Manufacturing floors, warehouses, and security patrol routes have defined physical layouts, predictable task sequences, and finite exception states. This lets robots accumulate training data and improve rapidly while limiting the blast radius of failures.
 

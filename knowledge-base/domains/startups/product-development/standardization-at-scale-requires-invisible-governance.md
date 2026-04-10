@@ -48,11 +48,11 @@ stance: >-
   Large-scale standardization (like uniform brick sizes across cities) is
   stronger evidence of effective governance than palaces or monuments.
 related:
+  - INS-260410-1803
   - INS-260327-4DE8
   - INS-260327-D25D
   - INS-260327-191B
   - INS-260327-F417
-  - INS-260330-007E
 evidence:
   - id: INS-260327-4DE8
     type: EXTENDS

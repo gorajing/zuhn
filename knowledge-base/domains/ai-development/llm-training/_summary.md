@@ -1,6 +1,6 @@
 # Topic: llm-training
 
-> 57 insights
+> 58 insights
 
 - `INS-260326-8201` [very_high] At 3.5 bits per channel (4.5x compression), TurboQuant matches full-precision Llama 3.1 8B on LongBench with zero quality loss; at 2.5 bits (6.4x), quality degradation is marginal.
 - `INS-260320-7682` [high] Run systematic ablation experiments on architecture, data mixtures, and hyperparameters at small scale before committing to a full training run -- this consumes ~37% of total compute but prevents costly mistakes.
@@ -25,6 +25,7 @@
 - `INS-260410-58D6` [high] Pushing weights toward zero makes logits uniform, which makes softmax output a uniform distribution — exactly what adding large fake counts does in the count-based framework.
 - `INS-260327-1631` [high] KimiLinear's fine-grained diagonal decay matrix enables different channels to independently retain long-range context or rapidly refresh, outperforming both full attention and prior linear attention variants.
 - `INS-260321-1F9F` [high] Scary stories about LLMs trying to deceive or resist shutdown are reflections of training data patterns, not emergent architectural properties — the objective function is purely next-token prediction.
+- `INS-260410-CDE9` [high] Frontier RL post-training uses a simpler algorithm than 2015-era Atari agents, and it works — but nobody knows why.
 - `INS-260321-8567` [high] LLMs learn and navigate the manifold created by human-written training data but cannot create new manifolds — the representation breakthroughs that define scientific revolutions.
 - `INS-260321-B014` [high] Bayesian wind tunnel experiments prove transformers perform exact Bayesian posterior updating to 10^-3 bits accuracy, but this mechanism is purely correlational — not causal.
 - `INS-260410-3E86` [high] A trillion-parameter transformer and a 41-parameter micrograd MLP use the same forward pass, same backward pass, same gradient descent loop — only the loss function (cross-entropy vs MSE) and optimizer tweaks differ.

@@ -51,6 +51,7 @@ related:
   - PRI-260322-9E36
   - INS-260330-7DA5
   - INS-260405-F20C
+  - INS-260410-CBF9
   - INS-260330-73C1
 stance: >-
   The biggest misconception about China's economy is that it is centrally

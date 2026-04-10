@@ -50,9 +50,9 @@ related:
   - INS-260330-F8A2
   - INS-260330-1293
   - INS-260330-0FCE
+  - INS-260410-CBF9
   - INS-260330-8F72
   - INS-260404-8791
-  - PRI-260322-9E36
 ---
 Trump's strategy of using DOJ investigations to pressure the Fed into cutting interest rates represents a historically unprecedented attack on central bank independence. Fed Chair Powell's public statement — extraordinary for someone known as a consummate professional — signals explicit backchannel threats tying rate decisions to legal consequences.
 

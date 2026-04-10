@@ -1,6 +1,6 @@
 # Topic: ai-capabilities
 
-> 136 insights
+> 139 insights
 
 - `INS-260321-E4EB` [very_high] AI made idea generation almost free, just as the internet made communication almost free — the bottleneck shifted to verification, evaluation, and filtering signal from noise.
 - `INS-260321-7D7C` [very_high] AI's superpower is breadth (trying every technique on every problem simultaneously), humans' is depth (cumulative progress from partial understanding). Science must restructure to exploit both.
@@ -103,6 +103,7 @@
 - `INS-260403-6632` [medium] Google DeepMind's model generated a novel cancer immunotherapy hypothesis that was experimentally validated, marking AI's shift from analysis to discovery.
 - `INS-260328-0DFE` [medium] Altman describes AI's trajectory as: today a mediocre chatbot, next a world-class chief of staff, then a company of 50 experts, then 10,000 experts per person.
 - `INS-260322-59B9` [medium] The total percentage of jobs automated matters less than whether displacement happens gradually (manageable) or in a 6-month shock (potentially destabilizing).
+- `INS-260410-439D` [medium] AI could be a super-collective-brain (billions of copies, perfect transmission, infinite bandwidth) but Henrich worries that the things driving real innovation — serendipity, improper copying, environmental shocks — get smoothed away by high-fidelity homogeneity.
 - `INS-260408-8F0A` [medium] AlphaGenome predicts whether single-letter genome mutations are harmful or benign in the 98% non-coding region CRISPR can target but doctors can't yet interpret.
 - `INS-260327-9DB0` [medium] Assembly Theory can determine if an object was built by evolution by measuring its complexity (minimum assembly steps) and abundance (number of copies) - applicable to any substrate, not just biology.
 - `INS-260327-1563` [medium] Attention Residue applies attention across the depth dimension rather than just temporal context, achieving 24% token efficiency improvement over standard residual connections.
@@ -116,9 +117,11 @@
 - `INS-260409-F90C` [medium] Hassabis predicts Isomorphic's drug design engine ready in 5-10 years, then regulatory reform of trials is the second act.
 - `INS-260404-DDC8` [medium] Figure AI's Helix 02 replaces over 100,000 lines of C++ with a three-layer neural network that handles balance, sensor fusion, and reasoning in a single system.
 - `INS-260323-B029` [medium] When you tally coding assistance against deepfake porn, education degradation, military errors killing innocents, and employment disruption, generative AI's net contribution to society is questionable.
+- `INS-260410-4782` [medium] Pure video prediction is cursed by having to model too much — clouds, molecules, pedestrians, everything — while an embodied agent with a goal has a ruthless focusing mechanism that tells it what to pay attention to, making the same raw data far more learnable.
 - `INS-260409-5975` [medium] LLM self-verifiers that see the reasoning trace rubber-stamp it; hiding the trace and showing only the final claim forces a fresh evaluation.
 - `INS-260323-8519` [medium] The LLM paradigm applied to biological data — 'large molecule models' — could unlock nature's design intelligence across all five kingdoms of life.
 - `INS-260322-32E3` [medium] Math and formal reasoning are domains where RL-based AI training works especially well, making AI-driven proofs of major unsolved math problems plausible within 5 years.
+- `INS-260410-8DDD` [medium] Self-driving stagnated for 15+ years because you cannot let a car make-and-correct mistakes at 60mph; manipulation is different because dishes can break and the robot just tries again — which turns each failure into training data.
 - `INS-260321-3967` [medium] The current monoculture of one model for everything will give way to speciated models — smaller models with the cognitive core intact but specialized for specific domains, like the animal kingdom's brain diversity.
 - `INS-260325-4C92` [medium] Almost everything AI can do is underestimated because users discover unimaginable use cases.
 - `INS-260325-4C6D` [medium] Neural networks succeed precisely because they work like human intuition rather than like explicit logical rules.

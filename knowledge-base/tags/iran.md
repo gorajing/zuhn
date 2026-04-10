@@ -1,6 +1,7 @@
 # Tag: iran
 
 - `INS-260404-F5C3` The killing of Iran's Supreme Leader represents an irreversible escalation that forecloses diplomatic off-ramps.
+- `INS-260410-2DB5` Regimes that need engineers, industry, and now AI to compete geopolitically cannot prevent the educated class and organized workers they create from eventually threatening their rule.
 - `INS-260323-6F66` Iran's nuclear ambitions and proxy network (Hezbollah, Houthis) create an emergency risk that prevents the US from cleanly delegating Middle East primary responsibility to regional powers.
 - `INS-260323-B1F5` Iran fights conflicts exclusively through proxies (Hamas, Hezbollah, Houthis) rather than directly — recognizing this pattern is essential for predicting where regional conflicts will emerge.
 - `INS-260323-6A05` Western media overestimates Iranian regime fragility because it amplifies diaspora voices — internally, anti-regime forces are splintered (ethnic minorities vs socialists vs reformists won't cooperate) and the theocratic system still commands majority support.

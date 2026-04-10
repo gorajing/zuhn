@@ -46,10 +46,11 @@ resolutions:
 related:
   - INS-260327-F484
   - INS-260403-0629
+  - INS-260410-5437
   - INS-260330-72BD
   - PRI-260328-E1CE
-  - INS-260327-4294
   - INS-260327-4419
+  - INS-260327-4294
 stance: Ukraine's departure made the Soviet Union structurally non-viable
 evidence:
   - id: INS-260330-72BD

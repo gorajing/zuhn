@@ -1,6 +1,6 @@
 # Domain: startups
 
-> 4199 insights across 54 topics
+> 4204 insights across 54 topics
 
 ## Topics
 
@@ -14,7 +14,7 @@
 | community-building | 7 | A 25% hard cap for underrepresented categories lets curators correct homogeneity without destroying participant trust in merit-based selection. |
 | company-culture | 2 | Costco pays double the retail average wage and reports three times the productivity, suggesting high wages are a competitive lever rather than a constraint. |
 | competition | 1 | Landing a rocket once proves engineering; landing and relaunching it cheaply proves the business. |
-| competitive-strategy | 536 | 3D portfolio websites signal elite skill to non-technical evaluators while requiring only beginner-level Three.js knowledge. |
+| competitive-strategy | 537 | 3D portfolio websites signal elite skill to non-technical evaluators while requiring only beginner-level Three.js knowledge. |
 | content-strategy | 68 | Rogan gained 2 million subscribers during his cancellation attempt because the coordinated media attack inadvertently proved his independence from institutional control. |
 | customer-discovery | 4 | You cannot identify gains until you've mapped the expectation floor — everything below it is pain, everything at it is neutral. |
 | decision-making | 1 | Updating predictions to match outcomes after the fact eliminates any information the prediction contained and corrupts future calibration. |
@@ -33,7 +33,7 @@
 | health-innovation | 16 | Photosynthesis is explicitly inefficient and complicated yet powers all life on Earth — adequacy under real constraints beats theoretical optimization. |
 | hiring | 64 | The speed at which a skill can be taught is inversely correlated with its long-term career defensibility. |
 | ideation | 90 | The smartest people can make the impossible happen, but if you cannot attract the smartest people, you cannot even make the possible happen. |
-| innovation | 128 | C invented the curly-brace, semicolon syntax that now defines how billions of developers write code — its design choices became the assumed defaults of most successor languages. |
+| innovation | 129 | C invented the curly-brace, semicolon syntax that now defines how billions of developers write code — its design choices became the assumed defaults of most successor languages. |
 | investor-relations | 4 | Match your pitch deck's emphasis to investor decision criteria at your specific funding stage. |
 | leadership | 186 | Replace abstract culture complaints with specific behavioral stories backed by evidence to surface real, fixable problems. |
 | market-entry | 53 | Simultaneous supply aging and demand shifting creates opportunities that favor operationally heavy startups over pure software. |
@@ -53,9 +53,9 @@
 | sales | 183 | Send 100 personalized outreach messages daily using a compliment-plus-positioning formula to guarantee your first five customers through pure volume. |
 | scaling | 175 | Startups need 2-3x longer than founders expect to validate their market, and 70% scale prematurely — largely explaining the 90% failure rate. |
 | startup-ecosystem | 5 | Entrepreneurship programs designed around employment outcomes rather than viable business models systematically fail both goals. |
-| strategy | 239 | The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples. |
+| strategy | 240 | The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples. |
 | team-building | 1 | Searching for a technical cofounder before validating demand is backwards — demand attracts technical talent. |
-| timing | 60 | Enterprise SaaS IPOs from 2012 outperformed expectations by solving deep operational pain points with recurring revenue models. |
+| timing | 62 | Enterprise SaaS IPOs from 2012 outperformed expectations by solving deep operational pain points with recurring revenue models. |
 | unit-economics | 3 | CAC and churn are the two variables that determine whether a SaaS business is structurally viable — everything else is execution. |
 | validation | 182 | Pretty much 100% of startups that make something popular manage to make money from it. |
 | venture-capital | 9 | AMI's $1.03B seed — Europe's largest ever — shows sophisticated investors concentrating capital at inception when the paradigm bet is clear. |

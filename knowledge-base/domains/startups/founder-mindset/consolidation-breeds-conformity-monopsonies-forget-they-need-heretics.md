@@ -46,7 +46,6 @@ resolutions:
     eventually expel its most innovative people, because monopsonies optimize
     for predictability, not breakthroughs.
 related:
-  - INS-260323-7185
   - INS-260403-583B
   - INS-260327-8DAA
   - INS-260330-72BD

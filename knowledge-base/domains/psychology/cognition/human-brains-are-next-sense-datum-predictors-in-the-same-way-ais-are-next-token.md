@@ -56,6 +56,7 @@ related:
   - PRI-260406-4F8E
   - INS-260323-F0A2
   - INS-260403-141E
+  - INS-260410-EF9E
 ---
 Predictive coding is increasingly recognized as a key organizing principle of the brain. The brain constantly generates predictions about incoming sensory data, then updates synaptic weights based on prediction errors. This is structurally analogous to next-token prediction in AI: both systems learn by trying to predict the next input and adjusting internal parameters to minimize prediction error.
 

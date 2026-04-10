@@ -53,11 +53,10 @@ resolutions:
 related:
   - PRI-260325-262C
   - INS-260330-795D
+  - INS-260410-7F35
   - PRI-260324-1A67
   - PRI-260323-A5E8
-  - PRI-260406-AA07
   - INS-260330-27DF
-  - INS-260330-03A9
 stance: >-
   Western media overestimates Iranian regime fragility because it amplifies
   diaspora voices

@@ -50,7 +50,8 @@ related:
   - INS-260325-5A68
   - INS-260323-BC61
   - INS-260330-2EB0
-  - INS-260323-6357
+  - INS-260410-CBF9
+  - INS-260410-FF8B
 stance: >-
   Jefferson's 'tree of liberty' metaphor and RFK's 'we're all inches from
   barbarity' warning mean that democratic freedoms degrade the moment each ge...

@@ -44,7 +44,6 @@ stance: >-
   conversations — the saturation point is a signal to stop interviewing and
   start building
 related:
-  - INS-260325-3B2A
   - INS-260404-DD95
   - INS-260327-B18F
   - PRI-260407-2E0F

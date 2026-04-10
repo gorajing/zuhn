@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-10 | 4610 actionable insights
+Generated on 2026-04-10 | 4621 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -470,6 +470,7 @@ Generated on 2026-04-10 | 4610 actionable insights
 - [INS-260410-3075] A concrete scenario forces you to confront implementation details and surface crux disagreements that vague probability estimates let you skate past.
 - [INS-260410-10C9] Google Brain's bottom-up 'one credit per researcher, pool them as you like' chip allocation rewarded dropping failed ideas; Gemini's top-down allocation leads every group to report 'my thing is working, give me more chips.'
 
+- [INS-260410-B30D] Leonardo wrote his discoveries in coded mirror script and Brunelleschi burned his dome schematics — both wanted to be marveled at forever, and Palmer calls them saboteurs of human progress.
 
 ## ai-development/system-building
 - [INS-260320-4A82] Commit output specs to git so future agents and engineers see what was done, what failed, and what decisions were made.
@@ -1424,6 +1425,7 @@ Generated on 2026-04-10 | 4610 actionable insights
 - [INS-260409-53A1] 'Because' is a compliance trigger regardless of whether the reason makes sense.
 - [INS-260410-AF9A] Imperial Japan's army and navy kept their war plans secret from each other, didn't hold liaison meetings until 1944, and hid the loss of four carriers at Midway for months — individual samurai excellence couldn't overcome structural stovepiping.
 - [INS-260410-DB1D] Paine's practical advice: check alignments before committing, reassess early and often, don't get hung up about changing your mind, and recognize that part of good strategy is accepting that some problems cannot be solved and routing scarce resources to ones that can.
+- [INS-260410-734F] In hunter-gatherer environments the best hunters are 36-40; in Silicon Valley the best founders are often 25 — because the rate of change determines how long a previous generation's knowledge stays useful.
 
 ## psychology/epistemics
 - [INS-260405-2B3F] Treating survey non-response as randomly missing data produces systematically wrong estimates whenever the stigmatized view is also the under-reported one.
@@ -1435,6 +1437,8 @@ Generated on 2026-04-10 | 4610 actionable insights
 - [INS-260409-42F7] Within 48 hours of the MemPalace launch, maintainers Milla Jovovich and Ben Sigman wrote a public 'What we got wrong' section admitting four specific overclaims and shipped fixes — a level of intellectual honesty that product marketing incentives rarely allow.
 - [INS-260409-A62B] Galef: 'Those are mental and emotional habits; and I think training those habits through repeated practice is quite important' — scout thinking transfers from ideologically low-stakes domains (politics you don't care about, arguments you aren't emotionally invested in) to high-stakes personal decisions where accuracy actually matters.
 - [INS-260409-5CD4] Julia Galef: 'Scout Mindset is the motivation to see what's really there and not just what you wish was there' — distinguishing it from soldier mindset where beliefs are defended against threatening evidence through rationalization, denial, and motivated reasoning.
+- [INS-260410-A33F] Argument, counterargument, rebuttal — but the rebuttal must come from a completely different angle than the original argument, or it's just repetition.
+- [INS-260410-0775] Chesterton's Fence is real — bitter cassava processing, food taboos, bow-making techniques encode causal logic that took centuries to evolve and that the people following them cannot explain.
 
 ## psychology/expertise
 - [INS-260330-C7B5] Making a tool part of your identity makes you worse at evaluating alternatives.
@@ -1813,6 +1817,7 @@ Generated on 2026-04-10 | 4610 actionable insights
 - [INS-260404-36B9] Reframing ambitious projects as experiments makes failure impossible because even negative results yield knowledge.
 - [INS-260409-6DBE] Matuschak and Nielsen argue that with spaced repetition and the mnemonic medium, memory stops being a chance event subject to forgetting and becomes a deliberate choice — 'follow these steps, and you can remember whatever you choose.'
 - [INS-260409-E730] Quantum Country data shows 95 minutes of total review time produces ~54 days of demonstrated retention across 112 questions — a <50% time overhead on a 4-hour essay for multi-month retention of nearly every important detail.
+- [INS-260410-7B48] The learning that sticks comes from building something hard — writing a book, implementing the algorithm, doing practice problems — while being willing to be stuck for long stretches.
 
 ## psychology/math-perception
 - [INS-260325-4CA1] When decomposing a problem, choose representations that respect its natural symmetry — the math becomes dramatically easier.
@@ -1858,6 +1863,7 @@ Generated on 2026-04-10 | 4610 actionable insights
 - [INS-260403-9120] Frame early stakeholder conversations as informal information-seeking, not persuasion attempts, to get honest intelligence.
 - [INS-260410-AB78] Whether 'compromise' is wisdom or suicide is entirely a function of the other side's real objective — a slice of territory can be traded; regime change and extermination cannot be appeased without empowering the executioner.
 - [INS-260410-A992] Nazi brutality turned a failing Stalinist state into a unified lethal adversary; Japanese brutality did the same to China; Russian brutality is doing the same in Ukraine — brutality intended to break will instead eliminates the surrender option.
+- [INS-260410-647F] Bush Sr. and Kohl deliberately avoided triumphalism around German reunification and the Soviet collapse, which bought Eastern Europe roughly 20 years to integrate with the West before Russian hardliners consolidated and started trying to destabilize them.
 
 ## psychology/perception
 - [INS-260323-5D23] The fastest way to shift emotional frequency is removing what pulls you down, not adding new practices.
@@ -2575,6 +2581,7 @@ Generated on 2026-04-10 | 4610 actionable insights
 - [INS-260403-7A48] Foundation models can now integrate, retrain, and migrate data across platforms with minimal friction, rendering traditional SaaS lock-in strategies obsolete.
 - [INS-260403-9006] Takaichi neutralized Japan's Trumpian anti-immigration party by adopting moderate immigration reforms that addressed voter concerns without extremism.
 - [INS-260403-ABC5] Vertical AI startups must build data loops and lock-in strategies from day one because speed alone provides no lasting moat.
+- [INS-260410-FA8E] Victory goes to whoever can identify the culminating point — push too far and you trigger counterattacks, third-party interventions, or supply collapse that erase your winnings.
 
 ## startups/content-strategy
 - [INS-260329-3332] A single 4+ hour comprehensive tutorial can accumulate millions of views over years by dominating 'full course' search queries.
@@ -3897,6 +3904,7 @@ Generated on 2026-04-10 | 4610 actionable insights
 - [INS-260404-AD21] Calling serious work 'just a hack' or 'just a sketch' lets you start by applying lower standards, then sneakily converting it once momentum builds.
 - [INS-260403-EEE5] Evaluate new ideas by trying to imagine how they could work, not by listing reasons they won't.
 - [INS-260404-AC7C] Evaluating new ideas by imagining how they could work rather than why they won't is a trainable skill with outsized returns.
+- [INS-260410-9B33] Research shows direct long-haul flight connections between cities increase cross-city idea flow more than internet connectivity — and the effect is strongest between culturally distant places.
 
 ## startups/investor-relations
 - [INS-260405-94A1] Match your pitch deck's emphasis to investor decision criteria at your specific funding stage.
@@ -4651,6 +4659,7 @@ Generated on 2026-04-10 | 4610 actionable insights
 - [INS-260403-6CB4] Use of Funds and valuation should be live outputs that update automatically as the operating plan changes, not hand-crafted presentation slides.
 - [INS-260409-229B] The story of the company IS the strategy — there is no separate secret strategy document.
 - [INS-260410-1345] The Japanese won most battles in China but lost the war because Bushido culture equated 'taking this hill' with strategic success, with no theory of how tactical wins aggregated into the real objective of a stable, communist-free China.
+- [INS-260410-71D2] DIME (diplomacy, information, military, economics) is a decent starting point but Japan won on railways, loans, psyops, and Anglo-Japanese alliance terms — the decisive instruments are always context-specific.
 
 ## startups/team-building
 - [INS-260405-F378] Searching for a technical cofounder before validating demand is backwards — demand attracts technical talent.
@@ -4672,6 +4681,8 @@ Generated on 2026-04-10 | 4610 actionable insights
 - [INS-260404-D40E] Map the business environment — trends, competition, customer context, and macro forces — to validate whether your timing is right.
 - [INS-260404-3BAB] YC W26 tilts heavily toward physical-world AI problems as the easy SaaS layer gets commoditized, signaling where defensible value is migrating.
 - [INS-260330-8907] Golden ages aren't recognized during their occurrence — they feel like smart people working hard on interesting problems and getting results, which is exactly the signal to follow.
+- [INS-260410-111A] Gutenberg went bankrupt because his small German town had only seven legal buyers for 300 Bibles — the press worked, the distribution didn't.
+- [INS-260410-1BB0] When you're racing a window shut, you don't have the luxury of optionality — the window itself is evidence your adversary's structural position will soon exceed yours.
 
 ## startups/unit-economics
 - [INS-260405-7ACC] CAC and churn are the two variables that determine whether a SaaS business is structurally viable — everything else is execution.

@@ -46,10 +46,10 @@ stance: >-
   any development cycle can match.
 related:
   - PRI-260406-F443
+  - INS-260410-1BB0
   - INS-260329-50D5
   - INS-260323-2559
   - INS-260405-7BA5
-  - INS-260330-5609
 evidence:
   - id: INS-260330-255F
     type: CONTRADICTS

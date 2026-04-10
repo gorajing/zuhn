@@ -1,6 +1,6 @@
 # Topic: learning
 
-> 239 insights
+> 240 insights
 
 - `INS-260329-66C7` [high] Charisma, patience, confidence — all traits are shorthand labels for clusters of small, observable, teachable behaviors like smiling on entry and remembering names.
 - `INS-260330-750A` [high] The Mongols became siege warfare experts and adopted gunpowder by interrogating prisoners and absorbing techniques from conquered peoples.
@@ -30,6 +30,7 @@
 - `INS-260329-3763` [high] The structured debugging process taught in programming — isolate, reproduce, trace, fix — is a universal diagnostic framework applicable far beyond code.
 - `INS-260329-FA1C` [high] Distinguish between paying to learn WHAT exists (declarative — networks, masterminds) vs HOW to do it (procedural — coaching, training), and buy the right type for your current gap.
 - `INS-260330-541B` [high] Hard problems yield when you slice them into many tiny, simple pieces and aggregate the results.
+- `INS-260410-7B48` [high] The learning that sticks comes from building something hard — writing a book, implementing the algorithm, doing practice problems — while being willing to be stuck for long stretches.
 - `INS-260330-FCA3` [high] A single deep book like Beginning of Infinity, digested over years, upgrades your entire framework for evaluating all future information.
 - `INS-260329-613F` [high] Reread great books until you can teach them rather than consuming many books superficially.
 - `INS-260329-F892` [high] Letting learners encounter predictable errors (negative overtime, wrong relative references) before introducing the fix creates deeper understanding than presenting the correct solution first.

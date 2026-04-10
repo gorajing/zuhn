@@ -54,8 +54,8 @@ related:
   - INS-260403-E936
   - INS-260330-43FF
   - INS-260323-9FCA
+  - INS-260410-CBF9
   - INS-260330-2EB0
-  - INS-260329-E0DE
 ---
 Iran's current crisis illustrates a key pattern in political instability: students and urban middle classes may march for freedom and democracy, but this alone rarely threatens regimes. The current wave of protests across Iran became truly regime-threatening only when economic collapse — 42% inflation, 72% food price increases, banking failures, currency crisis, and chronic blackouts — hit the business class and working class simultaneously.
 

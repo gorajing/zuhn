@@ -51,7 +51,6 @@ related:
   - INS-260404-70DE
   - INS-260330-C9C6
   - INS-260323-6230
-  - INS-260404-FFC4
 evidence:
   - id: INS-260323-6230
     type: SUPPORTS

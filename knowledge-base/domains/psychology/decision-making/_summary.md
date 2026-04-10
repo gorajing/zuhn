@@ -1,6 +1,6 @@
 # Topic: decision-making
 
-> 124 insights
+> 126 insights
 
 - `INS-260404-A246` [high] Admitting you're bad at something is the first step to finding effective workarounds like delegation or systematic search.
 - `INS-260403-F03A` [high] Judge purchases by projected usage, not by the deal you got.
@@ -77,6 +77,7 @@
 - `INS-260403-59D5` [high] Congressional staffers in their late 20s effectively set ideological direction because politicians are too busy fundraising and speechmaking to supervise the details of governance.
 - `INS-260403-5CD6` [high] The freedom we sacrifice for commitments was mostly unused anyway — we paid for it in loneliness without exercising it.
 - `INS-260402-CCC3` [high] VCs optimize for defensible-looking decisions rather than highest expected value, creating systematic blind spots.
+- `INS-260410-90BD` [high] Stalin genuinely fought tsarist injustice for 20 years as a penniless revolutionary and then built a regime orders of magnitude more unjust — this 'perverse and unintended consequences' pattern is the rule, not the exception.
 - `INS-260403-330D` [high] Voters expect absolute price decreases, not just slower inflation, creating a nearly impossible standard for politicians to meet.
 - `INS-260330-31B5` [high] If you're drawn to work despite its lack of prestige, that's evidence both of genuine interest and of untapped opportunity.
 - `INS-260403-F9EE` [high] Writing short essays forces you to form and articulate a point of view, which passive reading and watching cannot accomplish regardless of volume.
@@ -126,3 +127,4 @@
 - `INS-260403-49FF` [medium] Page and Brin overruled Schmidt on China because values conflicts are founder-domain decisions that operators are structurally unable to make.
 - `INS-260403-E554` [medium] Top VCs make decisions by thinking in probabilities and leaning into uncertainty rather than relying on gut instinct.
 - `INS-260403-7342` [medium] Visual strategic frameworks succeed because the brain processes visual information roughly 60,000 times faster than text, making pattern recognition in complex systems nearly instantaneous.
+- `INS-260410-734F` [medium] In hunter-gatherer environments the best hunters are 36-40; in Silicon Valley the best founders are often 25 — because the rate of change determines how long a previous generation's knowledge stays useful.

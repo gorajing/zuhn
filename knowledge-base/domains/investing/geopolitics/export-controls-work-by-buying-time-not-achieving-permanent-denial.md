@@ -49,10 +49,10 @@ stance: >-
   capability development
 related:
   - INS-260327-E0B0
+  - INS-260410-1BB0
   - PRI-260406-91C2
   - INS-260330-F488
   - INS-260405-945B
-  - PRI-260324-3AAE
 ---
 The article demonstrates that US chip export controls have successfully maintained a 21-49x AI compute advantage over China by slowing domestic chip development — China's 7nm yields remain poor, 5nm is delayed to 2026+, and over 22,000 semiconductor companies have shut down. However, the goal was never permanent denial but rather buying time during which deterrence conditions could improve.
 

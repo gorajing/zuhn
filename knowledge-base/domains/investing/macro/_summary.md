@@ -1,9 +1,11 @@
 # Topic: macro
 
-> 11 insights
+> 12 insights
 
 - `INS-260405-397C` [high] A continuing resolution ending January 30 means the same fight resumes in six weeks with even less goodwill.
 - `INS-260410-4357` [high] At scale, effectiveness of achieving outcomes matters more than efficiency of resource use — the 'waste' in China's growth was the mechanism that produced the growth.
+- `INS-260410-F814` [high] Soviet growth was already stagnating in the late 1950s until the 1959 Siberian oil discovery and 1973-85 oil boom gave them two decades of hard currency to paper over command-economy failure — and when oil prices collapsed in the mid-1980s the hidden rot became unmanageable almost overnight.
+
 - `INS-260410-147B` [high] China built a magnificent production machine but no demand machine — the result is deflation, shrinking pricing power, and growth below potential even as tech capacity soars.
 - `INS-260405-AB6B` [high] The SRF caps rates by providing unlimited cash against collateral; the RRP floors rates by offering a guaranteed return that crowds out sub-Fed-rate private lending.
 - `INS-260405-F6E6` [high] America's $32B agricultural trade deficit in 2024 signals a structural shift after decades as a net food exporter.

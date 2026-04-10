@@ -4,6 +4,7 @@
 - `INS-260403-AC02` The AI vs SaaS narrative mirrors the SaaS vs on-premise transition — incumbents adapt and absorb the new paradigm rather than disappearing.
 - `INS-260330-77A2` WebAssembly and cloud compute are enabling full development environments to run entirely in the browser.
 - `INS-260403-1085` Gaming consistently pioneers AI integration patterns — from Deep Blue to AlphaGo to generative AI — making it a reliable leading indicator for how other industries will adopt AI.
+- `INS-260410-0430` The printing press kept firing off new revolutionary applications — pamphlets enabling the Reformation, newspapers, magazines — for 150 years; the computer is doing the same thing now.
 - `INS-260330-AB62` Declarative UI frameworks won adoption by making UI a function of state, eliminating manual DOM synchronization bugs rather than improving raw performance.
 - `INS-260405-CF27` Driving the marginal cost of any scarce input to zero historically creates platform-scale winners; humanness is next.
 - `INS-260403-AC5E` AI's software-only adoption curve means both attackers and incumbents can move faster than during the mobile shift, creating a speed-dependent competitive dynamic.

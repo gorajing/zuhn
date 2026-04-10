@@ -50,9 +50,9 @@ stance: >-
 related:
   - INS-260327-6E57
   - INS-260327-9816
+  - INS-260410-4782
   - INS-260330-AC34
   - INS-260323-7A50
-  - INS-260323-C4EE
 evidence:
   - id: INS-260330-AC34
     type: TRANSFERS_TO

@@ -3,9 +3,9 @@
 - `INS-260327-6B78` Anthropic's enterprise sales targets two distinct buyers: developers/CPOs who consume the API and Chief AI Officers who manage model portfolios — with the majority of the Fortune 500 now having someone in the latter role.
 - `INS-260402-ECD2` In hierarchical markets, winning one apex customer (e.g., a top law firm) cascades credibility and adoption downstream more effectively than scaling from the bottom up.
 - `INS-260327-C54D` Large enterprises like government, oil/gas, and airlines are now buying AI faster than digital natives because board pressure ('what's your AI strategy?') creates top-down urgency that bypasses careful testing cycles.
-- `INS-260405-0F47` Hospital pharmacy director presented a $3M/year savings product three times before financial committees would approve it.
-- `INS-260403-B610` Canva built a $2B revenue engine by layering enterprise sales on top of a massive freemium user base rather than pivoting away from it.
 - `INS-260402-A22C` After a VC partner buys in, shift from pitching mode to collaborative mode — help them tailor the pitch for their partnership meeting.
+- `INS-260403-B610` Canva built a $2B revenue engine by layering enterprise sales on top of a massive freemium user base rather than pivoting away from it.
+- `INS-260405-0F47` Hospital pharmacy director presented a $3M/year savings product three times before financial committees would approve it.
 - `INS-260403-18F7` Startups that automate compliance (like Delve doing SOC 2 in 15 hours vs. months) win by directly unblocking stalled enterprise sales pipelines.
 - `INS-260327-4754` Arora warns that cybersecurity founders who form customer advisory councils too early get steered toward speeds-and-feeds features instead of building complete products.
 - `INS-260327-1B7C` Data from MEDDIC CRM software shows over 80% of won deals had economic buyer engagement while 80% of lost deals lacked it — the correlation is overwhelming.

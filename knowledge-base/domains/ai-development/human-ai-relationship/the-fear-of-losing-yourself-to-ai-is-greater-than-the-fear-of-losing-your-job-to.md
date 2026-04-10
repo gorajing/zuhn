@@ -53,7 +53,6 @@ related:
   - INS-260327-2627
   - INS-260403-5788
   - INS-260323-E2ED
-  - INS-260403-272E
 stance: >-
   A designer quit her job not because AI replaced her work, but because her
   boss's AI-generated feedback overwhelmed her judgment to the point where ...

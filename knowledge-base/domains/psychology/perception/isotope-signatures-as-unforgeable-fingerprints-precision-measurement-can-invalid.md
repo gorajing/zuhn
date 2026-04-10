@@ -49,15 +49,16 @@ resolutions:
     but not in markets, or startup strategies that are logical but fail customer
     validation.
 related:
+  - INS-260410-81DC
   - PRI-260323-2FEE
   - INS-260325-CC49
   - INS-260409-BF3F
   - INS-260330-6AFA
-  - INS-260330-649B
   - INS-260330-033A
   - INS-260330-466E
   - INS-260330-9A34
   - INS-260403-E6F0
+  - INS-260330-649B
 stance: Lunar rocks match Earth's isotope ratios at parts-per-million precision
 evidence:
   - id: INS-260325-CC49
