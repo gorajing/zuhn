@@ -49,7 +49,6 @@ stance: >-
   over raw growth rate, making burn multiple the defining metric of fundability
 related:
   - INS-260321-E8CB
-  - INS-260326-8201
   - INS-260403-3D75
   - INS-260403-6740
   - INS-260403-21DB

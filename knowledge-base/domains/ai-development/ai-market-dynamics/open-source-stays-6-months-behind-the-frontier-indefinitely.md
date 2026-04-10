@@ -52,5 +52,6 @@ related:
   - INS-260408-F20F
   - PRI-260406-6AE6
   - INS-260326-80B1
+  - INS-260410-43E4
 ---
 The structural gap is reimplementation latency: it takes the open-source community about 6 months to figure out and replicate new frontier ideas. DeepMind supports open science (Transformers, AlphaFold were released openly) and pushes Gemma as 'best-in-class for their sizes' targeting small developers, academics, early-stage startups, and edge computing. Strategic implication for portfolio companies that use frontier to set benchmarks then deploy open models for cost: this strategy remains viable but the gap won't close. If your product requires absolute-frontier capability, you're locked into API costs. If 6-months-behind is good enough, Gemma-class models at edge scale become a sustainable choice.

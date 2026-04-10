@@ -51,6 +51,7 @@ stance: >-
   that cannot be solved by simply requiring English-language reasoning.
 related:
   - PRI-260406-CF83
+  - INS-260410-966F
   - PRI-260325-45A2
   - INS-260323-539C
   - PRI-260328-D893

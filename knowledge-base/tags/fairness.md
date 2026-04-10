@@ -1,5 +1,6 @@
 # Tag: fairness
 
+- `INS-260410-699C` Non-English text gets stretched into many more tokens than equivalent English, eating context length and degrading model performance regardless of LM training data.
 - `INS-260404-2135` Growing up with accuracy-focused judgments trains a false expectation that all judgments aim to be fair.
 - `INS-260405-3E73` Anonymizing submissions is the only reliable way to prevent social proximity from contaminating quality judgments.
 - `INS-260405-D66B` Post-selection outperformance is a mathematical signature of upstream bias, not exceptional talent.

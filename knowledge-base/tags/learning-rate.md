@@ -1,3 +1,4 @@
 # Tag: learning-rate
 
-- `INS-260329-EFA8` Whether in college or career, the first four years should maximize learning speed — early income is a bonus, not the objective.
+- `INS-260410-F295` Sweep LR exponentially from tiny to explosive in one short run, plot loss vs log(lr), pick the bottom of the valley.
+- `INS-260410-6FA3` Track log10(std(lr * grad) / std(param)) per layer during training and aim for roughly -3 — if it's much lower the network trains too slowly, if higher it's likely unstable, and per-layer asymmetry reveals miscalibrated initialization.

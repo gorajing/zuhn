@@ -54,10 +54,10 @@ stance: >-
   motivation than smooth, frictionless learning paths.
 related:
   - INS-260329-03B5
+  - INS-260410-5036
   - PRI-260403-0509
   - PRI-260406-FB98
   - INS-260329-023F
-  - INS-260403-643A
 evidence:
   - id: INS-260329-B2F4
     type: CHALLENGES

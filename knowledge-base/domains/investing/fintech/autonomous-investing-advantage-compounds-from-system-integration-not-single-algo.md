@@ -56,6 +56,5 @@ related:
   - PRI-260403-2024
   - PRI-260328-5D9E
   - INS-260403-294D
-  - INS-260405-3CC7
 ---
 Renaissance's Medallion Fund achieved ~39% net annual returns not through one breakthrough algorithm but by automating the entire investing stack — research, sizing, hedging, and execution — across thousands of instruments simultaneously. This mirrors a broader pattern in complex systems: the competitive moat comes from integration and orchestration rather than any single component. For individual investors or firms building automated strategies, this implies that effort should go toward connecting the full pipeline (data ingestion, signal generation, risk management, execution) rather than optimizing one piece in isolation. The system-of-systems approach creates compounding advantages that are nearly impossible to replicate piecemeal.

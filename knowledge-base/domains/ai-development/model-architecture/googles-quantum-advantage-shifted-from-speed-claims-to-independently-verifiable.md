@@ -54,5 +54,6 @@ related:
   - INS-260403-841F
   - INS-260404-FC20
   - INS-260323-DA1E
+  - INS-260409-613B
 ---
 The 2019 quantum supremacy claim from Google was criticized because classical machines could not independently verify or replicate the results. The Willow breakthrough addresses this directly: the out-of-time-order correlator (OTOC) experiment was independently confirmed and run 13,000x faster than a top classical supercomputer. The significance is epistemological — 'verifiable' advantage means the benchmark can be re-run by others, establishing a reproducible baseline rather than a single extraordinary claim. This matters for calibrating where quantum computing actually is versus where hype places it. The molecule simulation work (15 and 28 atom models) is still 'not beyond classical methods,' which is an unusually honest disclosure and a useful signal about the realistic timeline for practical quantum chemistry applications.

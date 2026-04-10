@@ -1,6 +1,6 @@
 # Topic: business-models
 
-> 208 insights
+> 210 insights
 
 - `INS-260327-470B` [high] Fast food was considered recession-proof because it offered the best dollars-to-calories ratio, but chains responded to cost-conscious consumers by becoming more expensive, slower, and less reliable.
 - `INS-260403-0FEC` [high] Public company acquisitions function as pooled-risk management services for founders seeking freedom and security.
@@ -69,6 +69,7 @@
 - `INS-260324-748A` [high] The best haunted houses gross 7+ figures in just 4-6 weekends — but only if you own the land and build everything yourself, because no bank will fund a seasonal attraction.
 - `INS-260330-067C` [high] Bing is culturally perceived as a failure but generates $5B/year in profit — public perception of a product's success is decoupled from its financial performance.
 - `INS-260403-E78B` [high] High CAC only pays off when switching costs or lock-in mechanisms prevent customer churn to competitors.
+- `INS-260409-D0B6` [high] Home-cooked software — made for specific small communities by someone who knows them — has fundamentally different economics (no scale requirement), values (agency, privacy, care), and constraints (simple CRUD not enterprise complexity) than professional industrial software.
 - `INS-260327-6F08` [high] The home security industry business model is contract lock-in rather than service quality, with sales commissions incent
 - `INS-260403-6546` [high] OpenAI's capped-profit hybrid structure embedded a structural conflict between mission and commercialization that directly caused its 2023 leadership crisis.
 - `INS-260324-B7C0` [high] Unilever's ice cream division (Ben & Jerry's, Magnum, Klondike) grew only 4% in 20 years despite owning the world's best brands — they're now actively trying to sell the entire division.
@@ -163,6 +164,7 @@
 - `INS-260327-AFC7` [high] The French Intensive system generating six-figure incomes from small plots was abandoned not because it failed but because industrial agriculture needed farmers dependent on tractors, chemicals, and commodity markets.
 - `INS-260327-E874` [high] People starting Uber driving or Etsy shops after losing their jobs show up as 'new businesses' in statistics rather than as unemployed, masking the true scale of economic displacement.
 - `INS-260327-6E0E` [high] Movies monetize through sequential windows -- theatrical (highest price per viewer), DVD/VOD, streaming exclusives (Netflix pays premium for first window), cable TV, and syndication -- each capturing a different willingness-to-pay segment over a 4-6 year lifecycle.
+- `INS-260409-AF1C` [high] Adobe spent years developing Illustrator; Figma and Sketch copied the core interface ideas at a fraction of the cost and are now eating Adobe's market share — a textbook public goods problem that makes tools for thought structurally undersupplied by private markets.
 - `INS-260330-8639` [high] A product's true cost is purchase price minus resale value, which can completely flip which option is actually cheaper.
 - `INS-260403-1000` [high] Business models should be treated as living, continuously iterable documents rather than fixed five-year plans.
 - `INS-260324-861B` [high] Uber raised $25B+ and operated for 13+ years without profit — the only other company with that distinction is WeWork, and the platform economics that were supposed to make ride-sharing 'infinitely scalable' never materialized.

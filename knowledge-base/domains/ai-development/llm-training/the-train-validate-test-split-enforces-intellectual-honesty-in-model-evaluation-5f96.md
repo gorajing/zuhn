@@ -59,6 +59,8 @@ related:
   - INS-260329-8CC0
   - INS-260326-0AB4
   - INS-260330-C172
+  - INS-260410-F08E
+  - INS-260410-41DD
 evidence:
   - id: INS-260330-C172
     type: TRANSFERS_TO

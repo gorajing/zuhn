@@ -55,9 +55,9 @@ related:
   - INS-260403-4CD0
   - INS-260403-C23E
   - INS-260403-F6F9
+  - INS-260410-FD24
   - INS-260403-77F4
   - INS-260322-F6AA
-  - INS-260327-5CB6
 ---
 Horowitz offers a nuanced critique of the popular 'founder mode' concept. The half that's right: founders should stay deeply engaged with their product and not fully delegate to professional managers who lack context. The half that's dangerously wrong: using 'founder mode' as justification to skip building management infrastructure, ignore organizational design, or operate as a one-person bottleneck at scale.
 

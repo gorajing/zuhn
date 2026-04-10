@@ -1,6 +1,6 @@
 # Topic: system-building
 
-> 202 insights
+> 210 insights
 
 - `INS-260329-4F8C` [high] Abstract data types define behavior contracts while data structures provide specific implementations, and this separation is the root of all software modularity.
 - `INS-260329-A93C` [high] Naming a block of code and hiding its implementation is the fundamental act that makes software complexity manageable.
@@ -92,8 +92,10 @@
 - `INS-260329-9BEF` [high] JavaScript's evolution from var (global scope) to let/const (block scope, immutability) demonstrates how language-level constraints prevent entire classes of bugs that developer discipline cannot.
 - `INS-260330-52F6` [high] Knowledge distillation works because student models learn probability distributions, not just correct answers
 - `INS-260329-C1A4` [high] Four-layer caching (browser, server-side, database, CDN) with appropriate write policies at each level compounds latency reductions far beyond any single cache.
+- `INS-260409-96B0` [high] LLMs like V0 and TLDraw Make Real can generate UI elements, state management, API calls, and basic logic on demand, but they don't tell you how to deploy the result, persist data, set up auth, or assemble the pieces into a working application — the 'glue' layer is still professional-developer territory.
 - `INS-260329-F887` [high] Load balancers distribute traffic but become single points of failure — always deploy in redundant pairs with automatic failover.
 - `INS-260329-C991` [high] HFT pipelines use lock-free event queues because thread locking introduces unpredictable latency spikes that ruin trade timing.
+- `INS-260409-1078` [high] MemPalace's AAAK uses 73 tokens to encode text that plain English encodes in 66 — compression only amortizes at scale where the same entities appear hundreds of times, making it a net loss for small-scale personal memory.
 - `INS-260409-BA55` [high] RAG rediscovers connections on every query; a maintained wiki preserves them so knowledge compounds.
 - `INS-260409-0D87` [high] Under ~thousands of documents, a markdown vault plus Claude Code matches vector RAG without embeddings.
 - `INS-260323-2FC3` [high] The Aharonov-Bohm effect proved that potentials (once dismissed as mere mathematical shortcuts) directly influence physical reality — a reminder that abstractions can be more fundamental than the concrete phenomena derived from them.
@@ -115,6 +117,8 @@
 - `INS-260330-AC7F` [high] CPU protection rings enforce that user-space code cannot directly access kernel resources without explicit system calls.
 - `INS-260329-12D1` [high] Python's readable syntax made it the gateway language for non-CS practitioners entering AI/ML, creating a self-reinforcing ecosystem effect.
 - `INS-260329-CF48` [high] Python's for-loop-over-file-handle pattern unifies local files, network resources, and databases into a single iteration abstraction that other languages require separate paradigms to handle.
+- `INS-260410-351E` [high] sum(dim=1) without keepdim=True returns a 1D vector that broadcasting silently treats as a row vector, which normalizes columns instead of rows — producing garbage with no error.
+- `INS-260410-B501` [high] view() just rewrites stride/shape metadata on the same storage; cat() allocates — so prefer view whenever possible.
 - `INS-260409-2D5C` [high] Raw sources are read-only truth; the wiki is LLM-writable derivative; the schema is human-LLM co-evolved style guide.
 - `INS-260330-B153` [high] Score translation quality without reference translations by training a separate quality estimation model on human error judgments
 - `INS-260329-A67B` [high] When variables are linked by constraint equations, the chain rule reveals how change propagates through the system at rates that defy naive intuition.
@@ -147,12 +151,14 @@
 - `INS-260323-813B` [high] The key to making knowledge computable is finding symbolic representations that match how humans conceptualize things while remaining formally manipulable by machines.
 - `INS-260330-EC22` [high] Real-world workflow tests reveal performance truths that synthetic benchmarks systematically miss due to component-level measurement bias.
 - `INS-260323-1811` [high] Minecraft shows five distinct degradation zones before total failure — from buggy terrain to stretched blocks to void to infinity — demonstrating how systems fail gradually through observable stages before hitting hard limits.
+- `INS-260409-1E5E` [high] MemPalace's SQLite knowledge graph adds a valid_from or valid_to window to every entity triple so 'Kai works on Orion' can be invalidated as of 2026-03-01 while historical queries still return the original assignment.
 - `INS-260329-C031` [high] Abstract data types define behavior contracts while data structures provide implementations — the same separation that makes APIs, protocols, and plugin systems work.
 - `INS-260326-3D8D` [high] Ng argues that the application layer of the AI stack must, almost by definition, generate more total value than semiconductors, cloud infrastructure, and foundation models combined — making it the largest opportunity for builders.
 - `INS-260325-5CB1` [high] Stanford Prof Ram Rajagopal: the AI bottleneck is not compute but power — data centers are outgrowing the century-old electrical grid.
 - `INS-260409-B80C` [high] A shared bus with arbitration is how you escape N-squared point-to-point wiring — the same idea powers hardware buses, message queues, and event buses.
 - `INS-260325-8E0D` [high] The tick-tock of escapement clocks gave computing its drumbeat — a method to step through calculations systematically rather than letting machines run wild.
 - `INS-260327-D9D6` [high] The FDE role translates vague client requirements into AI-ready specifications through iterative meetings, structured documentation, and progressive decomposition from ambiguity to precision.
+- `INS-260409-6A6C` [high] Matuschak and Nielsen coin 'insight-through-making loop' — deep original research insights drive tool improvements which drive deeper research insights which drive better tools, forming a rapidly-turning feedback loop that produces transformative tools (Hindu-Arabic numerals, writing, calculus notation) that conventional product practice or conventional research practice cannot.
 - `INS-260329-B2F4` [high] Minimizing the gap between 'I want to learn' and 'I see my code do something' is the single highest-leverage optimization in programming education because most abandonment happens during setup, not during learning.
 - `INS-260327-65F9` [high] Digital fabrication is following the PC trajectory: from expensive institutional tools to community fab labs to eventually personal fabrication capability for everyone.
 - `INS-260329-5F19` [high] AWS's shared responsibility model — customer owns security IN the cloud, AWS owns security OF the cloud — is a transferable framework for any platform abstraction layer.
@@ -183,6 +189,7 @@
 - `INS-260409-5CF4` [medium] LLMs can keep index and summary files fresh well enough to replace a dedicated retrieval system.
 - `INS-260323-D8B9` [medium] Hamkins' mathematical multiverse view holds that different foundational axiom systems (ZFC, ZFC + large cardinals, constructive math) produce genuinely different mathematical universes -- there is no single 'true' foundation.
 - `INS-260321-801C` [medium] Fuelfinance is building an MCP integration that lets Claude talk directly to your financial data inside Fuel — eliminating the copy-paste bottleneck between your accounting system and AI analysis.
+- `INS-260409-D3EE` [medium] MemPalace applies the ancient Greek orators' memory palace technique to LLM memory — conversations become rooms in wings with halls and tunnels as cross-references — giving both AI and human users a navigable map instead of a flat semantic index.
 - `INS-260329-075C` [medium] OOP's core pattern — encapsulated state + behavior composed into hierarchies — is the same pattern that makes multi-agent AI systems work.
 - `INS-260329-E280` [medium] OOP's class/inheritance model remains the most intuitive entry point for teaching system decomposition to beginners.
 - `INS-260329-0432` [medium] Classes let you create custom data types that model real-world entities — the core value of OOP is domain modeling, not inheritance.
@@ -195,6 +202,7 @@
 - `INS-260330-82B2` [medium] The stack (short-lived, auto-managed) vs heap (long-lived, manually managed) split mirrors stateless vs stateful architecture.
 - `INS-260329-0EAC` [medium] Static members share state across all instances, creating implicit coupling that must be used deliberately.
 - `INS-260329-1610` [medium] Static attributes reveal that classes are first-class entities with their own state, not merely blueprints for objects.
+- `INS-260409-B13F` [medium] MemPalace stores conversations verbatim and uses structure plus semantic search to find what matters at query time, rather than extracting 'user prefers Postgres' and discarding the conversation that explained why.
 - `INS-260329-7914` [medium] JavaScript strings being immutable (you must replace the whole string, not modify individual characters) demonstrates how immutability eliminates entire categories of bugs.
 - `INS-260329-C7BF` [medium] Switch statements introduce the powerful concept of mapping values to behaviors, which generalizes to dispatch tables, strategy patterns, and event handlers.
 - `INS-260329-CF16` [medium] SQL triggers execute automatically and atomically when data changes, making them reliable for maintaining derived tables, audit logs, and cross-table consistency.

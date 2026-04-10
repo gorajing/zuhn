@@ -1,3 +1,3 @@
 # Tag: age-effects
 
-- `INS-260330-4A6A` Destin's son learned the backwards bicycle in 2 weeks versus his father's 8 months — a roughly 16x speed advantage attributable to childhood neural plasticity.
+- `INS-260409-DA17` Lee 2025 (Microsoft, 319 knowledge workers), Ye 2024 (UW Social Futures Lab, philosophers), and Gerlich 2025 (666 participants) all independently found GenAI use negatively correlates with critical thinking — with Gerlich specifically identifying a younger-is-worse age gradient mediated by cognitive offloading.

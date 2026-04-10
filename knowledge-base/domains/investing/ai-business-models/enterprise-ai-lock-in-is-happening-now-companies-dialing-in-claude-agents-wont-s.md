@@ -49,7 +49,6 @@ stance: >-
   Sonnet/Opus), the soft costs of switching outweigh any token cost savings,
   creating sticky lock-in within 6-12 months.
 related:
-  - INS-260320-9FD5
   - INS-260325-DFC7
   - INS-260403-0350
   - INS-260321-8414

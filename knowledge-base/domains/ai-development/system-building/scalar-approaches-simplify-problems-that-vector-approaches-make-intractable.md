@@ -57,7 +57,7 @@ related:
   - INS-260325-2F12
   - INS-260323-7DAE
   - INS-260323-1302
-  - INS-260326-E1A8
+  - INS-260330-798D
 stance: >-
   Lagrange's breakthrough was converting the three-body problem from vectors
   (directional, hard to add) to scalars (magnitudes, trivially additive)

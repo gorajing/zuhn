@@ -56,6 +56,7 @@ related:
   - INS-260330-026B
   - INS-260330-AEE3
   - INS-260403-CD29
+  - INS-260409-F93A
 ---
 Pessoa's work reveals a parallel to quantum mechanics' observer effect: the act of examining your motivations, beliefs, and identity changes them. Asking 'why did I do that?' retrospectively constructs a narrative that becomes the new 'truth' about your motivation, which may differ from the actual (now inaccessible) motivation.
 

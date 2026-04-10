@@ -55,8 +55,8 @@ related:
   - PRI-260406-B9B4
   - INS-260327-18D4
   - INS-260405-D660
+  - INS-260409-7C48
   - INS-260402-4633
-  - INS-260329-AA76
 ---
 Substack's origin story is a masterclass in minimal viable validation. Chris Best didn't build a platform and hope writers would come — he found one writer (China expert Bill Bishop), manually set everything up, and proved the economic model worked before writing a single line of scalable code. Bishop made six figures on day one.
 

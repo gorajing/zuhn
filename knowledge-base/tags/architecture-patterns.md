@@ -1,3 +1,3 @@
 # Tag: architecture-patterns
 
-- `INS-260403-791A` Photosynthesis charges thylakoids like batteries via proton gradients before synthesizing ATP — a pattern of staged intermediate storage that applies to computational pipeline design.
+- `INS-260410-1789` Every transformer block pairs attention (tokens gather info from each other) with a feedforward MLP (each token thinks privately) — communication without computation underfits.

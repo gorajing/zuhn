@@ -51,13 +51,12 @@ stance: >-
   architecture still has fundamental room for improvement in its depth
   dimension.
 related:
-  - INS-260320-B210
-  - INS-260325-5B28
+  - INS-260410-3C37
   - INS-260327-1631
   - INS-260330-AE16
   - INS-260405-0184
-  - INS-260329-33D4
-  - INS-260405-567D
+  - INS-260410-699C
+  - INS-260410-1789
 evidence:
   - id: INS-260329-33D4
     type: TRANSFERS_TO

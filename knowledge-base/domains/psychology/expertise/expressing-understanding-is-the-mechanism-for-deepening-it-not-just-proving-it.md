@@ -50,7 +50,6 @@ stance: >-
 related:
   - INS-260325-0713
   - INS-260325-DB82
-  - INS-260325-E9B1
   - INS-260325-7080
   - INS-260327-4C73
   - INS-260327-6021
@@ -58,6 +57,7 @@ related:
   - INS-260329-2DF2
   - INS-260329-4A69
   - INS-260330-4FB9
+  - INS-260330-1718
 evidence:
   - id: INS-260320-47FA
     type: TRANSFERS_TO

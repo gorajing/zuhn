@@ -50,11 +50,11 @@ stance: >-
   statistics
 related:
   - INS-260325-E652
-  - INS-260329-A171
   - INS-260329-7A6A
   - INS-260409-C768
   - INS-260329-4109
-  - INS-260325-1911
+  - INS-260410-72EC
+  - INS-260410-351E
 evidence:
   - id: INS-260330-184C
     type: SUPPORTS

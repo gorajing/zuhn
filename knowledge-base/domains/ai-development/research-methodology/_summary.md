@@ -1,8 +1,9 @@
 # Topic: research-methodology
 
-> 10 insights
+> 11 insights
 
 - `INS-260409-004E` [high] Douglas's enzyme-trained phylogenetic model successfully detected evolutionary bursts in 13 biological systems plus Indo-European languages, demonstrating that branching-system mathematics is substrate-agnostic.
+- `INS-260410-5036` [high] Real deep-learning development is Jupyter-notebook shape debugging plus empirical verification of flaky framework docs, not the clean math suggested by papers and tutorials.
 - `INS-260408-F58E` [high] Isomorphic's pipeline screens binding + cross-target toxicity in silico, then only validates the final candidates in the wet lab.
 - `INS-260409-C016` [high] AI research output gets judged on interim expert assessments because peer review is too slow — treat these as preliminary, not final.
 - `INS-260408-76F4` [high] Hassabis decided in a single meeting to fold all 200M proteins and release them free, because it took less effort than building the request server.

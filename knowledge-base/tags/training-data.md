@@ -1,7 +1,8 @@
 # Tag: training-data
 
-- `INS-260403-9774` Combining text, image, and audio inputs during training enables models to build more nuanced representations of meaning than any single modality alone.
 - `INS-260327-5E40` Prompts reset every session; training data compounds institutional knowledge over time, creating a moat that deepens with each iteration.
+- `INS-260403-9774` Combining text, image, and audio inputs during training enables models to build more nuanced representations of meaning than any single modality alone.
+- `INS-260410-F24A` Untrained tokens are like unallocated memory — invoking them at inference yields undefined, alignment-violating behavior.
 - `INS-260405-C17A` Once an AI cites a source, it tends to return to it — making first-mover citation advantage self-reinforcing.
 - `INS-260323-47D8` Conversations with jailbroken LLMs like Dan and Sydney become part of future training data, meaning each LLM's personality becomes immortal — reincarnatable by any future model trained on internet data.
 - `INS-260403-1F1B` More training data produces diminishing performance improvements, forcing differentiation through data quality and architecture innovation.

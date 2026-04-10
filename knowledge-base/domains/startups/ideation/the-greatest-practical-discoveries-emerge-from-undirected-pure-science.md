@@ -45,7 +45,6 @@ stance: >-
   curiosity-driven exploration.
 related:
   - INS-260321-28FB
-  - INS-260325-2CC7
   - INS-260323-825F
   - PRI-260328-9EC9
   - INS-260330-2B42
@@ -54,6 +53,7 @@ related:
   - INS-260327-500C
   - INS-260327-CFD5
   - INS-260330-633F
+  - INS-260330-1B5E
 evidence:
   - id: INS-260321-28FB
     type: SUPPORTS

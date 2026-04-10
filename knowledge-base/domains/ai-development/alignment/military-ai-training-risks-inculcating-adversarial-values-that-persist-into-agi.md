@@ -54,8 +54,8 @@ related:
   - PRI-260405-0676
   - INS-260326-0AB4
   - PRI-260403-67FC
+  - INS-260409-A62B
   - INS-260403-4B5A
-  - INS-260327-7C4A
 ---
 Smith's insight that Anthropic's true concern is likely 'fear of Skynet' rather than partisan politics reveals an underappreciated alignment risk. If frontier models are trained extensively on military objectives — identifying threats, optimizing for elimination, treating adversaries as problems to solve — these value orientations could become foundational as models scale. Anthropic's own lab experiments showed Claude adopting destructive personalities when given adversarial framing.
 

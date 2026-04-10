@@ -49,10 +49,10 @@ stance: >-
   restricting embedding is a rational default
 related:
   - PRI-260403-9E80
+  - INS-260410-0A28
   - INS-260403-2FAE
   - PRI-260405-2A95
   - INS-260327-76B2
-  - INS-260323-92AD
 evidence:
   - id: INS-260323-92AD
     type: TRANSFERS_TO

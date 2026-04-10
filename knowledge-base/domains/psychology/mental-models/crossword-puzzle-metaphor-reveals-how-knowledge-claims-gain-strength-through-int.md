@@ -48,7 +48,6 @@ stance: >-
   evidence but by how many independent lines of evidence interlock like
   crossword answers constraining each other
 related:
-  - INS-260330-F500
   - INS-260330-12DC
   - INS-260330-984C
   - INS-260330-C172

@@ -50,8 +50,8 @@ related:
   - INS-260322-D1AB
   - PRI-260405-4B06
   - INS-260404-5365
+  - INS-260409-667F
   - INS-260329-2EB1
-  - PRI-260406-4C28
   - INS-260402-D534
 stance: >-
   Replace subjective 'rate 1-10' evals with binary yes/no questions (e.g., 'Does

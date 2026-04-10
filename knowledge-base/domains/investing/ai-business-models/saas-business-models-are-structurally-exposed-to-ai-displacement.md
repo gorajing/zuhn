@@ -54,6 +54,7 @@ related:
   - INS-260403-83C7
   - INS-260403-DED4
   - INS-260330-3E6B
+  - INS-260409-D0B6
   - INS-260409-FEAE
 ---
 The February 2026 SaaS stock crash — nearly $1 trillion wiped from a single ETF in one week — reflects a structural repricing, not a momentary panic. SaaS companies monetize the scarcity of skilled software engineers: clients pay subscription fees essentially to rent access to a stable of experts. When AI eliminates that scarcity, the pricing power evaporates.

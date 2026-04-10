@@ -9,11 +9,11 @@
 - `INS-260405-8469` RuBisCo is a mediocre enzyme that became the planet's most abundant protein precisely because all life built its infrastructure around it before better options could evolve.
 - `INS-260325-A54F` Apple's power is ecosystem lock-in that makes switching feel like identity loss — not product superiority.
 - `INS-260327-C9A7` Apple users stay not because of iMessage lock-in or ecosystem integration but because leaving Apple would mean abandoning a part of their self-identity.
-- `INS-260405-17D4` When users publicly identify as 'a Figma designer,' the product gains social switching costs on top of technical ones.
 - `INS-260330-5C64` Users make one unrelated choice (e.g., buying a phone) that forces dozens of subsequent choices, creating compounding lock-in that no single service could generate independently.
 - `INS-260403-E78B` High CAC only pays off when switching costs or lock-in mechanisms prevent customer churn to competitors.
 - `INS-260404-9004` Subscription SaaS companies from 2012 built durable moats through deep enterprise integration and high switching costs.
 - `INS-260403-97F8` Switching costs should be deliberately architected into the business model, not left as a byproduct of product stickiness.
+- `INS-260405-17D4` When users publicly identify as 'a Figma designer,' the product gains social switching costs on top of technical ones.
 - `INS-260404-2FD0` Bundling adjacent features around a core product creates stickiness in commodity markets.
 - `INS-260327-3DE7` AI will make it trivial to port data and clone product experiences, eroding brand as a meaningful B2B moat.
 - `INS-260405-71E1` Network effects and switching cost moats are structurally superior because they strengthen with scale, while cost-based moats invite well-funded competition.

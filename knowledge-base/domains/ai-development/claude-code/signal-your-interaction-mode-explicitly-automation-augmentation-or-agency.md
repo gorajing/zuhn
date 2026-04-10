@@ -39,12 +39,11 @@ resolutions:
     disappointing AI output. Explicit delegation signals prevent oscillation
     between hesitation and overreach.
 related:
+  - INS-260410-FD24
   - INS-260321-2482
   - INS-260329-D8F2
   - INS-260321-A56C
   - INS-260329-EAFD
-  - INS-260321-D370
-  - INS-260320-10E8
   - INS-260403-5BD6
 stance: >-
   Most prompting failures stem from mode mismatch — you intend augmentation

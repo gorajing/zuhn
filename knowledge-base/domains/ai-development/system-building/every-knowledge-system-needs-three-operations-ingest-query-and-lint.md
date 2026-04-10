@@ -51,6 +51,6 @@ related:
   - INS-260323-8D12
   - INS-260402-89DE
   - INS-260321-9824
-  - INS-260404-573C
+  - INS-260409-6A6C
 ---
 Three core operations define a healthy LLM-wiki: (1) ingest — drop a source into the raw folder, LLM reads it, extracts concepts and claims, writes a summary page, updates ten to fifteen existing entity and concept pages, flags contradictions, updates the index, appends to the log; (2) query — ask questions against the wiki, LLM reads relevant pages and synthesizes answers, and good answers get filed back as new wiki pages so explorations compound the same way ingested sources do; (3) lint — the maintenance pass, where the LLM health-checks for contradictions, stale claims, orphan pages with no incoming links, missing cross-references, and gaps that could be filled by web search. Running only one of these produces a broken system: ingest-only drifts, query-only never grows, lint-only has nothing to clean. This maps almost exactly onto Zuhn's ingest/search/learn pipeline.

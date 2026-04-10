@@ -1,6 +1,6 @@
 # Topic: product-strategy
 
-> 85 insights
+> 90 insights
 
 - `INS-260325-95A6` [very_high] MIT found 95% of genAI pilots yield zero P&L impact because enterprise AI tools become static science projects that never adapt to real workflows.
 - `INS-260325-206C` [very_high] AI Dungeon's near-death from token costs is the cautionary tale: variable-cost AI engines inside fixed-price subscriptions create margin erosion that grows with your best users.
@@ -48,6 +48,7 @@
 - `INS-260327-0246` [high] Fortune 500 companies won't go fully humanless in contact centers for years; the winning strategy is blending human agent assist with autonomous digital agents rather than pushing total automation.
 - `INS-260325-B1D8` [high] Sequoia-backed founder Kisson Lin: memory is to AI what data was to internet — the next moat is context accumulation, not intelligence.
 - `INS-260323-5C6F` [high] If your AI product is just a layer on top of an underlying AI platform, that platform can replicate it — Jasper, Zynga, and SEO companies all learned this the hard way.
+- `INS-260409-3EB3` [high] Most of what local communities and individuals need from software is simple CRUD persisting data over time with basic user authentication and a few API calls — not the industrial-scale complexity of enterprise software that must serve millions, handle conflicting needs, and scale for VC returns.
 - `INS-260330-BB53` [high] Longbows solve the archer's paradox through arrow flex while compound bows use a cutout riser — same problem, completely different solutions.
 - `INS-260329-B4E7` [high] Base 44's value isn't generating better code — it's eliminating every step between 'idea' and 'published app' that would normally require separate tools, accounts, and expertise.
 - `INS-260327-112B` [high] Lowering creation barriers through AI generates stronger social dynamics than optimizing content consumption feeds.
@@ -72,13 +73,17 @@
 - `INS-260327-E41B` [medium] When machines can match our minds, the premium shifts to our hearts; digital minds become the filter for who earns access to your real attention and energy.
 - `INS-260327-E75F` [medium] Just as the internet taught people to consume information through screens, ChatGPT is teaching people to consume it through conversation, which will become the dominant modality because humans prefer easy.
 - `INS-260403-F112` [medium] AI embedded within established innovation frameworks outperforms generic AI tools because it combines methodology guardrails with contextual workflow integration.
+- `INS-260409-5CC6` [medium] Appleton predicts legal case-analysis platforms, scientific computational notebooks, design canvases, and other domain-specific interfaces will eventually supersede generic chatbots for serious work — each embedding domain-specific critical thinking directly into the workflow.
+- `INS-260409-160F` [medium] The 'generic helpful assistant' text-box interface forces a lowest-common-denominator deferential personality because one system prompt has to handle every query from legal analysis to recipe advice, and fawning is the only personality that does not actively repel anyone.
 - `INS-260404-F38A` [medium] The defensible value in a custom GPT comes from the curated knowledge and structured workflow baked into it, not from the API connection itself.
 - `INS-260404-60A6` [medium] Vertical AI products trained on domain-specific and proprietary data create defensible positions against generalist LLMs.
+- `INS-260409-7C48` [medium] Local-first (data stays on user devices, syncs via cloud) and home-cooked software (built for small communities by their own members) both prize user agency and ownership, but orchestration agents for barefoot developers will make most design decisions by default — so local-first tools need to be the path of least resistance, not an opt-in.
 - `INS-260405-4091` [medium] AI tooling lowers the cost of building but not the cost of building the wrong thing.
 - `INS-260403-3C6D` [medium] Curated prompt packages that encode professional workflows represent a transitional business model that will shrink as models become more capable at self-structuring.
 - `INS-260403-F0AA` [medium] Recurring ChatGPT prompt patterns reveal unmet product needs that can be quickly converted into dedicated tools with built-in validated demand.
 - `INS-260327-5F10` [medium] Programs are written for people to read and only incidentally for machines to execute; as long as humans need to understand what AI agents do to their code, visual code interfaces remain essential.
 - `INS-260409-6236` [medium] Daily hands-on AI usage builds usable intuition that content consumption cannot replace.
+- `INS-260409-9851` [medium] Matuschak and Nielsen argue that tools-for-thought work has historically been 'stuck in Spock-space,' designing for cognition alone, while movies, music, and video games take emotional response seriously — the best tools for thought must blend the emotional range of video with the intellectual depth of text.
 - `INS-260327-9C56` [medium] Fan envisions a Physical API that gives software a physical actuator, enabling a skill economy where experts teach robots and deliver their expertise as a service at scale.
 - `INS-260327-FE24` [medium] The terminal became more important with AI agents because its text-based, loggable, multi-session architecture perfectly matches agentic workflows.
 - `INS-260328-4A93` [medium] AI product orgs need three new capabilities: unit economics dashboarding, context/retrieval quality ownership, and eval-based QA for non-deterministic outputs.

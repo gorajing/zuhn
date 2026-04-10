@@ -56,8 +56,8 @@ related:
   - INS-260327-DC4C
   - PRI-260405-49C0
   - INS-260325-BE19
-  - INS-260405-8166
   - INS-260409-F0F5
+  - INS-260409-160F
 stance: >-
   An individual's philosophy, experiences, and accumulated wisdom become the
   essential 'data' that makes AI agents useful

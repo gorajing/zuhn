@@ -1,5 +1,6 @@
 # Tag: category-creation
 
+- `INS-260409-A682` Barefoot developers — technically savvy people embedded in local communities who build small home-cooked software for people they know — will emerge as a new category once LLM orchestration tools cross the command-line wall for them, and they'll grow exponentially faster than professional developers.
 - `INS-260402-9DBC` Defining the vocabulary of your market (roles, categories, workflows) anchors your brand in every conversation about that space in ways features never can.
 - `INS-260327-25D7` Salesforce wasn't the first SaaS company, but by defining 'software is over' they became permanently associated with the cloud movement.
 - `INS-260404-B494` First movers digitizing untouched local verticals in EMs can build defensible category-leading positions.

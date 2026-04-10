@@ -1,6 +1,7 @@
 # Tag: teaching
 
 - `INS-260405-75C4` Watching someone use AI live is more instructive than reading or hearing about it.
+- `INS-260410-CB46` Strip neural networks to individual scalar operations so the chain rule is visible; tensor parallelism is an efficiency add-on that obscures the mechanics.
 - `INS-260329-66C7` Charisma, patience, confidence — all traits are shorthand labels for clusters of small, observable, teachable behaviors like smiling on entry and remembering names.
 - `INS-260329-74E5` Concrete physical analogies (boxes for variables, restaurants for functions) make abstract programming concepts learnable faster than formal definitions alone.
 - `INS-260329-519E` Reduce intimidating new concepts to familiar categories to eliminate unnecessary cognitive load.

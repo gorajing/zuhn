@@ -15,3 +15,4 @@
 - `INS-260325-BE3A` A digital computer takes hundreds of years to factorize a 50-digit number; a quantum computer could do it almost instantly — every national secret encoded in digital encryption is theoretically vulnerable.
 - `INS-260325-F21D` Digital computers abstract reality into zeros and ones, but molecules and diseases are not zeros and ones — quantum computers work with electrons and atoms directly, making them native to simulating biological reality.
 - `INS-260404-9DBB` Quantum computing's theoretical promise far outpaces its engineering reality, making most near-term investment narratives premature.
+- `INS-260409-613B` Most SRS users cram vocabulary and capitals, but Matuschak and Nielsen show Quantum Country's 112-card essay on quantum computing helps users absorb abstract conceptual material when the cards are expert-designed and narratively embedded rather than free-floating facts.

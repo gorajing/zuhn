@@ -55,10 +55,10 @@ stance: >-
   for real-world AI systems.
 related:
   - INS-260330-6BBD
+  - INS-260410-684D
   - INS-260403-B16E
-  - PRI-260407-7FB7
-  - INS-260330-189F
-  - INS-260327-BE4E
+  - INS-260410-5EE7
+  - INS-260410-72EC
 evidence:
   - id: INS-260330-189F
     type: TRANSFERS_TO

@@ -4,8 +4,8 @@
 - `INS-260322-6088` The current alignment paradigm of steering/control is appropriate for tool-like AI but becomes morally equivalent to slavery when applied to general intelligence — the only good outcome is AI that genuinely cares about us.
 - `INS-260327-AC8E` Kellis argues we should raise AI like children - building mutual trust rather than forcing alignment - because you can't make an intelligent system love you by threatening to shut it off.
 - `INS-260330-1293` North Korea maintains stability by selectively tolerating illegal capitalism rather than cracking down uniformly, turning potential dissidents into co-opted participants.
-- `INS-260327-58ED` The people-pleaser isn't selfless - they're controlling the emotional environment to avoid the discomfort of others' displeasure, which is actually a self-serving strategy.
 - `INS-260325-922D` You control nothing but influence everything; every action has unforeseen ripple effects that reshape the future.
+- `INS-260327-58ED` The people-pleaser isn't selfless - they're controlling the emotional environment to avoid the discomfort of others' displeasure, which is actually a self-serving strategy.
 - `INS-260403-50B0` Rituals combat chatter by giving you a concrete sense of order when your thoughts feel out of control.
 - `INS-260329-8CA3` Distinguishing shame (violating others' rules) from guilt (violating your own) reveals that most inaction is driven by rules you never consciously chose.
 - `INS-260327-1B09` The harder you try to control life, the worse it gets - because the energy spent maintaining control exceeds the benefit of the control itself.

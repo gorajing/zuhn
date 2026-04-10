@@ -53,10 +53,11 @@ resolutions:
 related:
   - INS-260329-CEC5
   - PRI-260328-A805
+  - INS-260409-FDE9
   - INS-260330-766D
   - PRI-260328-BF1E
-  - INS-260409-241B
   - INS-260330-DBE6
+  - INS-260409-241B
 stance: Branding is not surface decoration but a worldview methodology
 ---
 Choi Jang-soon's framework: branding starts with connecting a concept ('safest car in the world') to a name ('Volvo'). Brand strength is measured by how many people make that association. Brand equity is the sum of differentiated value versus competitors. This chain — concept -> name -> memory -> strength -> equity -> shareholder value — reveals branding as an economic event connecting consumer communities with investors.

@@ -47,7 +47,6 @@ stance: >-
   deliberate, not from stacking automation software on top of unexamined
   processes
 related:
-  - INS-260325-AEF5
   - INS-260327-A817
   - INS-260329-206D
   - INS-260330-BE23

@@ -11,7 +11,9 @@
 - `INS-260327-422B` Two dynamics run simultaneously: model intelligence cost drops ~4X/year while total spending rises ~10X/year — DeepSeek sat perfectly on the cost reduction curve, but being the first Chinese company at frontier capability is genuinely concerning.
 - `INS-260328-D1B2` Jeremy Howard argues that LLM progress looks sigmoid rather than exponential — you need ridiculously large money for slightly better results.
 - `INS-260327-6177` Anthropic's founding was driven by the recognition that scaling laws would make AI enormously powerful and that building it responsibly couldn't wait.
+- `INS-260410-76A3` Scaling laws convert LLM capability improvement into a predictable function of compute and data, turning AI progress into a capital-allocation problem.
 - `INS-260403-4803` LLM scaling has shifted from capability breakthroughs to incremental refinement of existing abilities.
+- `INS-260410-AA93` Karpathy matches GPT-2 124M HellaSwag on 10B tokens of FineWeb-Edu and nearly matches GPT-3 124M on 40B — versus 100B and 300B for the originals respectively.
 - `INS-260403-1F1B` More training data produces diminishing performance improvements, forcing differentiation through data quality and architecture innovation.
 - `INS-260323-6C6F` Scaling laws hold across 13 orders of magnitude and won't stop, but inference-time scaling currently offers better ROI than making models bigger.
 - `INS-260403-B73D` RL training exhibits the same scaling dynamics as pre-training, meaning the compute exponential that's driven 23 years of progress continues unbroken.

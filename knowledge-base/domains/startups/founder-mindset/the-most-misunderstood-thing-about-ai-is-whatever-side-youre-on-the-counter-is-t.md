@@ -53,7 +53,7 @@ related:
   - PRI-260403-57EC
   - INS-260327-E07D
   - INS-260322-F128
+  - INS-260409-2B3A
   - INS-260330-A151
-  - INS-260330-4E09
 ---
 Gary's answer to 'what's the most misunderstood thing about AI?' is structurally different from a normal answer: he refuses to name a single fact and instead names a procedure — whatever you currently think, the counter is what you're missing. For delusional optimists, the negatives are the insight. For those convinced nine companies and nine countries will absorb everything, the dispersion/long-tail is the insight. This is load-bearing advice because it routes around confirmation bias at the individual level, and it implies the practical move is not reading more AI takes but identifying your current position and deliberately spending time on its opposite. Pairs with his historical-optimism grounding: electricity was scary, leaving farms was scary, but 99.999% of humans are neutral or good and history has vindicated practical optimism over pessimism as a life strategy.

@@ -51,7 +51,6 @@ stance: >-
   treating implementation details as optimization hints rather than core
   semantics.
 related:
-  - INS-260325-5B28
   - INS-260403-AC01
   - INS-260404-D646
   - INS-260323-AF96

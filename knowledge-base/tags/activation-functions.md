@@ -1,3 +1,3 @@
 # Tag: activation-functions
 
-- `INS-260330-3828` Sigmoid activations were theoretically motivated by biological analogy, but ReLU (max(0, x)) won out simply because it trained better in practice — a pattern that recurs throughout ML history.
+- `INS-260410-47AE` Plot histograms of activations and pre-activations during training — if too many values cluster at the saturating tails, gradients are being killed and entire neurons may be permanently dead.

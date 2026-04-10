@@ -1,6 +1,6 @@
 # Topic: decision-making
 
-> 121 insights
+> 122 insights
 
 - `INS-260404-A246` [high] Admitting you're bad at something is the first step to finding effective workarounds like delegation or systematic search.
 - `INS-260403-F03A` [high] Judge purchases by projected usage, not by the deal you got.
@@ -92,6 +92,7 @@
 - `INS-260402-67B4` [medium] Judging character by counterfactual behavior under reversed roles is more revealing than judging by actual behavior shaped by circumstance.
 - `INS-260403-E9DB` [medium] Many of America's most-discussed problems — sprawl, bad transit, housing costs — are actually second-order effects of its uniquely high crime rates.
 - `INS-260404-1C9D` [medium] Tracking tools in high-stakes personal domains can shift focus from judgment to metrics.
+- `INS-260409-AD0C` [medium] Galef distinguishes three decision categories: (1) concrete everyday choices where scout thinking comes naturally (what to eat), (2) ideological issues where incentives push toward self-deception (politics, religion), (3) important personal decisions with competing scout/soldier incentives (career, marriage, parenting) — each requires a different calibration of vigilance.
 - `INS-260330-255F` [medium] Only enter a category when you can make it one to two orders of magnitude better than what exists — if the technology or market isn't ready, wait.
 - `INS-260403-45D5` [medium] PG told Fred to meet the Airbnb founders before debating the idea, because abstract debate anchors on skepticism.
 - `INS-260330-CED2` [medium] The archer's paradox shows that a flexible arrow bends around the bow — rigidity would cause a miss, while flexibility finds the target.

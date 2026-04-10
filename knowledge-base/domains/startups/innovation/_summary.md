@@ -1,10 +1,11 @@
 # Topic: innovation
 
-> 126 insights
+> 128 insights
 
 - `INS-260405-EFC2` [high] C invented the curly-brace, semicolon syntax that now defines how billions of developers write code — its design choices became the assumed defaults of most successor languages.
 - `INS-260404-4320` [high] AI collapses experimentation costs across deeptech by replacing early-stage lab work with in-silico simulation.
 - `INS-260403-9B24` [high] A 10x improvement target forces you to rethink the whole system, while 10% targets trap you in incremental tweaks.
+- `INS-260409-FDE9` [high] Alan Kay distinguishes pop culture (the conventional tech product practice) from research culture (deep engagement with foundational subject matter); Matuschak and Nielsen argue pop culture has been astoundingly successful at building businesses but cannot produce the Hindu-Arabic-numerals-level insights needed for transformative tools for thought.
 - `INS-260403-1750` [high] Startup success requires being right when everyone else is wrong, which demands aggressive independent-mindedness, not just passive nonconformity.
 - `INS-260404-A183` [high] Lisp wasn't designed to fix Fortran — it was designed to axiomatize computation, and that's precisely why its ideas proved more durable.
 - `INS-260403-F8AE` [high] Apple rarely invented iPhone features first but consistently delivered the best implementation, from multi-touch to facial recognition.
@@ -115,6 +116,7 @@
 - `INS-260403-343D` [medium] Risk officers should help teams experiment safely rather than blocking experiments that carry any risk.
 - `INS-260403-F8FB` [medium] The NSF's $1B Tech Labs initiative marks metascience's transition from intellectual movement to institutional reality by funding mission-driven teams outside universities.
 - `INS-260405-7AE0` [medium] Having a few innovation projects is easy; building a system that produces innovation reliably is the actual leadership challenge.
+- `INS-260409-A8A3` [medium] Writing, the printing press, and the computer itself all emerged from open-ended exploration, not quarterly OKRs — Alan Turing and Alonzo Church were asking fundamental questions about logic and the nature of provability, not 'sitting down to invent the computer.'
 - `INS-260403-0030` [medium] Cohort networks from innovation programs often outvalue the curriculum by providing ongoing diverse perspectives for context-dependent innovation challenges.
 - `INS-260403-65C3` [medium] When 40 organizations self-assessed across nine innovation dimensions, each scored high on some and low on others — making peer exchange maximally valuable.
 - `INS-260403-63E6` [medium] When you lack selection expertise, use others' demonstrated picks as a proxy rather than trying to build the capability internally.

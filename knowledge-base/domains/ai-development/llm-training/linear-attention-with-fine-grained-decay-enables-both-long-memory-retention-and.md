@@ -51,10 +51,10 @@ stance: >-
   retention and rapid information refresh across different channels.
 related:
   - INS-260327-1563
+  - INS-260410-3C37
   - INS-260329-A45D
   - INS-260403-2BAD
   - INS-260403-7342
-  - INS-260322-E90F
   - INS-260409-74B9
 evidence:
   - id: INS-260329-A45D

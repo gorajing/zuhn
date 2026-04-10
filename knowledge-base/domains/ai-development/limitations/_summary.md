@@ -1,6 +1,6 @@
 # Topic: limitations
 
-> 47 insights
+> 50 insights
 
 - `INS-260323-EECF` [high] The optical nerve delivers about 10^15 bytes to a 4-year-old's brain versus 2x10^13 bytes of all internet text used to train LLMs -- most human knowledge comes from sensory interaction with the physical world, not from language.
 - `INS-260330-C31B` [high] AI's constraints on scientific discovery are a subset of human constraints — both fail when data is sparse, but AI excels where data is abundant but patterns are too complex for human cognition.
@@ -23,7 +23,9 @@
 - `INS-260323-B309` [high] LLMs match statistical patterns from human-generated text (wide, shallow), while formal computational systems like Wolfram Alpha build deep chains of logical inference from structured knowledge (narrow, deep).
 - `INS-260323-A5EC` [high] LLMs generate one token at a time without planning the full answer first, unlike humans who form an abstract representation of their response before mapping it to language -- this is a fundamental architectural limitation.
 - `INS-260323-2D1D` [high] Pythagoras's theorem has been unchanged for 2500 years while Newton's gravity was superseded by Einstein's — mathematical proof produces certainty that empirical science cannot.
+- `INS-260410-FD24` [high] Tokenization is the hidden root cause of most LLM failure modes that look like model or architecture problems.
 - `INS-260330-B076` [high] Nearly all life on Earth is fusion-powered — photons from solar fusion cascade through photosynthesis into every biological process, revealing how apparent diversity masks single-source dependency.
+- `INS-260410-699C` [high] Non-English text gets stretched into many more tokens than equivalent English, eating context length and degrading model performance regardless of LM training data.
 - `INS-260403-F9C7` [high] Off-the-shelf AI models cannot serve users with dementia, dysphasia, or non-Western communication styles without fundamental architectural changes.
 - `INS-260404-0C67` [high] Quantum advantage comes from interference that amplifies correct answers and suppresses wrong ones, not from checking all possibilities simultaneously.
 - `INS-260323-7625` [high] While per-token costs have decreased, reasoning models burn dramatically more tokens per task, so actual inference costs per useful output have increased — the opposite of what AI CEOs claim.
@@ -31,6 +33,7 @@
 - `INS-260325-ED75` [high] Conway's FRACTRAN — a generalization of 3x+1 — is Turing-complete and subject to the halting problem, raising the possibility that Collatz itself is undecidable.
 - `INS-260323-F68A` [high] Claude Code users spend $8-13.5x their subscription in compute — if they had to pay per-error like a metered taxi, most would abandon the service because mistakes become expensive.
 - `INS-260326-97C9` [high] Searching the space of possible programs yields more sophisticated results than designing them from scratch.
+- `INS-260409-DA17` [high] Lee 2025 (Microsoft, 319 knowledge workers), Ye 2024 (UW Social Futures Lab, philosophers), and Gerlich 2025 (666 participants) all independently found GenAI use negatively correlates with critical thinking — with Gerlich specifically identifying a younger-is-worse age gradient mediated by cognitive offloading.
 - `INS-260330-00D5` [high] LLMs accumulate small errors token-by-token that compound into incoherence, needing gestalt-level self-review like authors revising drafts.
 - `INS-260330-1FE9` [high] Every Turing-complete system — from programming languages to Conway's Game of Life — has its own analog of the halting problem.
 - `INS-260323-784B` [high] Enterprise resource planning requires SOC-2 compliance, multi-currency handling, legal review, and ongoing maintenance — none of which a prompted LLM can reliably provide or be held accountable for.

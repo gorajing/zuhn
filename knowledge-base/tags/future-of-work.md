@@ -4,6 +4,7 @@
 - `INS-260405-7624` When labor becomes a choice rather than a necessity, the product categories that capture value shift from productivity to creation, expression, and meaning.
 - `INS-260405-FCBE` AI automates volume in sales, making precision the only remaining differentiator.
 - `INS-260403-D5BB` AI labor debates are confused because participants argue from different layers of a $31T labor market without a shared framework.
+- `INS-260409-A682` Barefoot developers — technically savvy people embedded in local communities who build small home-cooked software for people they know — will emerge as a new category once LLM orchestration tools cross the command-line wall for them, and they'll grow exponentially faster than professional developers.
 - `INS-260320-B99F` Build careers where AI is a tailwind — semiconductors, human-centered professions, anything mixing physical world with analytical skills.
 - `INS-260320-DEAF` Coding is going away first — AI models handle raw coding now, but broader software engineering (architecture, design, user needs, team management) takes longer to automate.
 - `INS-260408-3691` Hassabis to students: 'immerse myself in every tool available and become almost like superpowered' — the gap is creative application, not technical skill.

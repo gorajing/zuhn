@@ -53,7 +53,7 @@ related:
   - INS-260330-E647
   - INS-260330-3E3C
   - INS-260403-2BAD
-  - INS-260405-1C8D
+  - INS-260404-7CBC
 ---
 Studies demonstrate that elevated indoor CO2 concentrations directly impair cognitive performance — a 15% decline at 1,000 ppm and over 50% at 1,400 ppm. In poorly ventilated offices and home workspaces, CO2 routinely reaches these levels during focused work sessions, especially with doors closed.
 

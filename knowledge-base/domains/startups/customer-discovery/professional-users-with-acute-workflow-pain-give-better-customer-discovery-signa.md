@@ -48,7 +48,7 @@ related:
   - PRI-260324-36BF
   - PRI-260328-517C
   - PRI-260403-7585
+  - INS-260409-04C8
   - PRI-260405-BFAC
-  - INS-260327-C962
 ---
 When Higgsfield asked professional video creators what was broken about AI video tools, they immediately identified camera control — a feature missing because the tools had been built by engineers who did not understand cinematic direction. Professionals carry a complete workflow mental model that exposes gaps. Mass-market users have no such model and tend to report superficial complaints like 'it's slow' or 'the UI is confusing.' For AI tools targeting professional workflows, expert interviews are not just higher signal — they are the only interviews that surface features users will pay for.

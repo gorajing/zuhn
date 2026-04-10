@@ -51,9 +51,9 @@ stance: >-
 related:
   - INS-260323-8897
   - INS-260404-573C
+  - INS-260410-76A3
   - INS-260327-BE4E
   - PRI-260328-A82C
-  - INS-260403-976C
   - INS-260405-16AB
 ---
 The dominant paradigm for improving AI models has been scaling — more parameters, more data, more compute. DeepSeek's mHC result challenges the assumption that capability is primarily a function of scale. By improving how information moves through existing layers rather than adding new ones, they achieve accuracy gains with negligible cost increase.

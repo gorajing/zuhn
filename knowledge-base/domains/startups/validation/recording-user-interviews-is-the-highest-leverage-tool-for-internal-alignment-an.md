@@ -50,7 +50,6 @@ stance: >-
   effective alignment tool.
 related:
   - INS-260323-FDC1
-  - INS-260330-568F
   - INS-260330-9F1F
   - INS-260404-DD95
   - INS-260330-A6BE

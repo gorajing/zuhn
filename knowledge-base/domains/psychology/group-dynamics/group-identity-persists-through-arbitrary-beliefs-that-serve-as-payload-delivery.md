@@ -53,5 +53,6 @@ related:
   - INS-260404-A2F0
   - INS-260403-2D89
   - PRI-260406-003E
+  - INS-260409-8408
 ---
 Graham identifies a counterintuitive mechanism in how group identity propagates: the bizarre, irrational elements of a belief system aren't bugs but features. You can't distinguish a group through rational beliefs because truth is common property — anyone can believe true things. Differentiation requires arbitrary customs and false beliefs that create cognitive dissonance strong enough to bind members to the group. The useful moral and behavioral teachings then ride along as payload within this identity container. This explains why successful religions and cultural identities are always a mix of the practical and the bizarre — the bizarre half is the adhesive, and the useful half is the cargo. This framework has broad application: any system trying to transmit values (corporate culture, educational philosophy, political movements) faces the same trade-off between rationality and stickiness.

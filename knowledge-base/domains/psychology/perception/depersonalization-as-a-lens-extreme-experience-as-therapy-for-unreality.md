@@ -50,8 +50,8 @@ related:
   - INS-260327-7F6A
   - PRI-260405-9D7B
   - INS-260403-7639
+  - INS-260409-3BC9
   - INS-260323-E492
-  - INS-260325-216D
 stance: >-
   Callaghan uses gonzo journalism as a therapeutic mechanism for
   depersonalization disorder

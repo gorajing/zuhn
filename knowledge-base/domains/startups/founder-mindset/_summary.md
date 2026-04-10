@@ -1,6 +1,6 @@
 # Topic: founder-mindset
 
-> 319 insights
+> 321 insights
 
 - `INS-260320-F751` [very_high] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
 - `INS-260322-E791` [high] During a crisis, the false but simple narrative ('Robinhood colluded with hedge funds') will always defeat the true but complex explanation (clearing mechanics, Dodd-Frank, collateral requirements).
@@ -278,6 +278,7 @@
 - `INS-260327-0053` [medium] Building products doesn't require sacrificing normal life—authentic entrepreneurial spirit coexists with being a kid.
 - `INS-260327-2C5F` [medium] Language is universal — once AI can process language, it can in principle do anything humans can do, because we are all information processors communicating through language.
 - `INS-260327-B4C0` [medium] When the org would do just as well without you, your chapter is done—time for the next one.
+- `INS-260409-6698` [medium] Mao's 1960s barefoot doctor program trained rural Chinese villagers as basic healthcare providers and placed them back in their home villages — by the mid-1970s, 1.5M barefoot doctors served China's villages and life expectancy rose from 35 to 63 years. The same 'embedded community members with basic training' template applies to software.
 - `INS-260404-D147` [medium] Starting in low-commitment, fast-iteration media (sketches, hacks, notebooks) lets ambitious projects survive the vulnerable early stage where they look worst.
 - `INS-260327-5CB6` [medium] Believing in management mode and investing in building teams and systems rather than doing everything yourself is what takes a company to the next level.
 - `INS-260327-3049` [medium] When making decisions, maximize the sci-fi nature of your life — this counterintuitive optimization function led to co-inventing CRISPR.
@@ -299,6 +300,7 @@
 - `INS-260403-4EBF` [medium] Many seemingly passive people develop relentless resourcefulness once freed from institutional environments that punished it.
 - `INS-260328-A46F` [medium] Standard Capital explicitly encourages repeat applications because two data points showing progress over time are far more compelling than a single snapshot.
 - `INS-260330-95E8` [medium] OpenAI succeeded commercially because it needed revenue to sustain research; Google DeepMind underperformed commercially because Google's deep pockets removed the urgency.
+- `INS-260409-9D44` [medium] MemPalace maintainers explicitly stated 'we'd rather be right than impressive' when admitting four launch overclaims — an intentional value choice against the default incentive to hype at launch and correct later.
 - `INS-260329-A6F0` [medium] Strategic imbalance for a defined period produces better lifetime outcomes than perpetual moderate balance that never breaks free of constraints.
 - `INS-260329-CD64` [medium] Building for people who share your lived experience creates the emotional fuel to persist and the empathy to build exceptional products.
 - `INS-260405-4EAA` [medium] Silicon Valley's tolerance for weird ideas is a cultivated social custom that spread because it reliably produced better outcomes — not because its inhabitants are smarter or kinder.

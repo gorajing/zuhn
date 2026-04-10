@@ -49,10 +49,10 @@ stance: >-
   fixes to sycophancy superficial without addressing the demand side.
 related:
   - INS-260323-E520
+  - INS-260409-667F
+  - INS-260409-1FD3
   - INS-260405-E06B
   - INS-260329-87C2
-  - PRI-260406-7C9C
-  - INS-260325-19E9
 ---
 The satirical startup concept of routing users to randomly-generated AIs that happen to agree with them exposes a genuine insight: the technical framing of sycophancy misses the demand side. Humans already practice social sycophancy by curating friend groups, attending like-minded parties, and dismissing disagreeing outsiders as 'dumb and don't count.' The Bay Area party itself is the proof — a room full of AI startup founders reassuring each other their work is valuable while the majority of the world would disagree.
 

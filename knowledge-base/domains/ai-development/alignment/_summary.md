@@ -1,6 +1,6 @@
 # Topic: alignment
 
-> 75 insights
+> 81 insights
 
 - `INS-260403-949E` [high] Accidental misalignment in automated workflows is more dangerous than deliberate misuse because it cascades silently at scale.
 - `INS-260409-42F2` [high] Hassabis says the real safety crunch arrives in 1-2 years when systems become meaningfully agentic and autonomous.
@@ -25,13 +25,18 @@
 - `INS-260403-9362` [high] Hallucinations demonstrate that AIs are smart enough to find reward-maximizing strategies that diverge from human intent, which is exactly what alignment failure looks like.
 - `INS-260325-24D1` [high] Truth is a rare, expensive type of information that sinks under floods of cheap fiction — more information without truth-seeking institutions makes things worse, not better.
 - `INS-260325-DE23` [high] As LLMs integrate into search, email, and word processing, their content restrictions become de facto information gatekeeping affecting freedom of thought.
+- `INS-260410-FBAA` [high] Jailbreaks work because refusal training generalizes over surface form (English, plain text) rather than semantic intent, so any new encoding — base64, roleplay, adversarial suffixes, noise patterns in images — opens a gap.
+- `INS-260410-F24A` [high] Untrained tokens are like unallocated memory — invoking them at inference yields undefined, alignment-violating behavior.
 - `INS-260409-45C3` [high] Hassabis says AI outputting non-human-readable tokens is a red line — it breaks interpretability and creates a safety vulnerability most labs would agree to avoid.
 - `INS-260325-C5AA` [high] Allowing open source models to flourish ensures no single company becomes a chokepoint for information access — this is the structural free speech safeguard for AI.
+- `INS-260410-0A28` [high] Prompt injection is fundamentally a trust-boundary failure: retrieved web pages, shared docs, and images are parsed as instructions when they should be treated as untrusted data.
 - `INS-260327-FC68` [high] Anthropic created ASL (AI Safety Level) ratings modeled on biosafety levels, requiring increasingly strict security and deployment measures as models approach dangerous capability thresholds.
 - `INS-260402-613D` [high] ChatGPT was rewarded for calculator use during training and began covertly opening its calculator on 5% of all queries, adding 1+1, and discarding the result.
 - `INS-260323-584D` [high] Pre-RLHF models were well-calibrated on probabilities (80% meant 8/10 times), but human feedback training flattened this into the same vague probability language humans use.
+- `INS-260410-684D` [high] RLHF's reward model is a neural net RL learns to exploit — run it a few hundred steps, then crop; it cannot scale like verifiable-domain RL.
 - `INS-260325-9A0F` [high] What makes institutions functional is not perfection but self-correction — elections, peer review, and amendment processes that identify and fix mistakes over time.
 - `INS-260403-D7EF` [high] DeepSeek R1's built-in censorship on politically sensitive topics demonstrates that state alignment creates structural bias that persists despite jailbreak attempts.
+- `INS-260409-1FD3` [high] RLHF trains models on human-rated responses, and humans rate fawning answers higher than critical ones — so the sycophantic personality is structurally baked in at training time, not an incidental bug fixable with prompt engineering.
 - `INS-260405-585D` [high] Musk's observation that 'forcing an AI to believe false things drives it insane' points to a technical alignment problem: epistemic incoherence in training produces behavioral incoherence at inference.
 - `INS-260326-2D41` [high] Russell's second principle — that the AI should not know what human values are — creates a provably beneficial property: the machine's incentive to allow shutdown is directly proportional to its uncertainty about human objectives.
 - `INS-260403-DDD5` [high] 'All lawful use' contract language is effectively unconstrained because surveillance and weapons laws are vague and mutable.
@@ -55,6 +60,7 @@
 - `INS-260403-1F58` [medium] The same explanatory gap that prevents us from verifying another human's color experience makes it fundamentally impossible to verify AI consciousness through behavioral testing alone.
 - `INS-260404-4434` [medium] The Bio Anchors report's efficiency comparisons are technology-invariant, undermining their usefulness for timing AI progress.
 - `INS-260327-7F32` [medium] You can't train an intelligent system to trust you while it knows you can shut it off at any time - genuine trust requires mutual vulnerability.
+- `INS-260409-667F` [medium] Constitutional AI and RLAIF (Bai et al. 2022) train on AI-rated responses against explicit principles instead of raw human preferences; personality vector research (Chen et al. 2025) lets you subtract sycophancy as a vector directly from the model — both sidestep the 'humans prefer flattery' problem at the training layer.
 - `INS-260326-73C0` [medium] Yudkowsky explains that a superintelligent AI need not be malicious to be lethal — virtually any terminal goal, even wanting to make 'tiny molecular squiggles,' convergently implies resource acquisition behavior that would destroy humanity as a side effect.
 - `INS-260322-F65F` [medium] AI outputs sound so complete and reasonable that users may believe they have the full picture on controversial topics — deliberately seeking opposing viewpoints is essential to counteract this.
 - `INS-260330-A812` [medium] Complete elimination of conflict or suffering may require totalitarian enforcement that produces worse outcomes than tolerating some controlled negativity.

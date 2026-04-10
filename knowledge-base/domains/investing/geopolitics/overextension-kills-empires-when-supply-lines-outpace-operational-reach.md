@@ -48,7 +48,6 @@ stance: >-
   is extending beyond the point where your logistics can sustain your position.
 related:
   - INS-260325-5096
-  - INS-260325-11E4
   - INS-260327-FFE8
   - INS-260327-E7AC
   - PRI-260328-A589

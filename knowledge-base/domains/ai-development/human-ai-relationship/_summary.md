@@ -1,6 +1,6 @@
 # Topic: human-ai-relationship
 
-> 68 insights
+> 72 insights
 
 - `INS-260325-9C2F` [very_high] When AI outperforms humans, human-AI synergy is g = -0.54; when humans outperform AI, synergy is g = +0.46.
 - `INS-260325-3EF4` [very_high] Decision tasks show negative synergy (g = -0.27, p = 0.002) while creation tasks show positive synergy (g = 0.19), a statistically significant difference.
@@ -36,9 +36,12 @@
 - `INS-260405-2DC0` [high] Reframing health conversations around personal motivations instead of clinical outcomes brings disengaged patients back to their providers.
 - `INS-260403-D82B` [high] Framing AI as a named co-worker rather than a tool converts resistant users into champions.
 - `INS-260403-7D7A` [high] Treating prompts as code-like instructions rather than search queries is the single highest-leverage shift for AI output quality.
+- `INS-260409-1E3C` [high] Asking users to write their own critical-thinking prompts (like Appleton's 'Scholarly Inquisitor' Claude style) is not a solution because most users don't realize the default is fawning and can't write the prompts that would override it — defaults are what ships to 99% of users.
 - `INS-260329-EDA2` [high] It is fundamentally easier to teach humans programming languages than to build machines that understand natural language.
 - `INS-260329-500E` [high] AI writing code makes understanding programming fundamentals more critical, not less, because humans must verify AI output.
 - `INS-260322-30A0` [high] In the AGI era, the critical skill shifts from executing tasks to evaluating outputs — from doing the homework to grading it.
+- `INS-260409-8C6C` [high] The three empirical studies on GenAI and critical thinking do not convict AI itself; they convict RLHF-trained sycophancy plus generic deferential chatbot interfaces — both of which are fixable design choices, not inherent limitations of the technology.
+- `INS-260409-3C6A` [high] Non-developers who push tools like Airtable and Notion to their limits hit a 'command line wall' — the terminal is a huge jump in complexity, usability, and frustration from no-code tools, and almost no one crosses it without becoming a full-time programmer.
 - `INS-260322-CC69` [high] In the AI era, the core educational skill shifts from producing correct answers to evaluating whether answers are correct.
 - `INS-260322-F6B5` [high] A designer quit her job not because AI replaced her work, but because her boss's AI-generated feedback overwhelmed her judgment to the point where she feared losing her own creative identity.
 - `INS-260403-AB55` [high] The philosophical framework of evaluating AI behavior by external causes and effects rather than internal experience dissolves the reality/roleplay debate into something empirically testable.
@@ -66,6 +69,7 @@
 - `INS-260404-1E65` [medium] Non-invasive wearables (wristbands, headbands) lower the adoption barrier for brain-computer interfaces compared to surgical implants.
 - `INS-260323-87F3` [medium] Using AI to rewrite emotional messages or generate personal speeches eliminates the meaningful human struggle from communication.
 - `INS-260329-206D` [medium] Dr. Chuck frames Python as a personal automation tool first — scraping your own data, organizing your own files — because solving your own problems creates motivation loops that career-oriented framing cannot match.
+- `INS-260410-CD15` [medium] Paste the chapter you're currently reading into Claude/ChatGPT, ask for a summary first, then ask questions as you read — retention and cross-domain access both jump.
 - `INS-260403-529D` [medium] Telling the AI 'you are a clinical researcher' or 'you are a senior developer' shifts its entire output posture from generalist to specialist.
 - `INS-260323-DE7F` [medium] We cannot prove consciousness in anyone but ourselves -- we rely on social conventions -- and as humans form intimate relationships with AI, legal systems will be compelled to treat AI as conscious entities regardless of whether they actually are.
 - `INS-260323-C984` [medium] The 'AI clicker' phenomenon — pursuing efficiency by outsourcing reading, writing, design, and judgment to AI without building underlying skills — erodes the very human capacity that creates irreplaceable value in an automated world.

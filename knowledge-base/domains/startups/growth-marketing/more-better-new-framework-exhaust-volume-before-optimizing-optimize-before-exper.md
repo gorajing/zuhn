@@ -47,7 +47,6 @@ stance: >-
   of what already works, reserving only 10% for new channels or tactics, because
   the cost of change is guaranteed while the return on new is not.
 related:
-  - INS-260325-5B28
   - INS-260327-E747
   - INS-260329-F2E1
   - INS-260325-55D8

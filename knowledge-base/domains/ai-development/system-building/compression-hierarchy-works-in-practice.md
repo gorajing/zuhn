@@ -19,6 +19,7 @@ sources:
     title: Building the Zuhn knowledge base — lessons from Phase 1-5
     author: Jin Choi + Claude
 related:
+  - INS-260410-CD15
   - INS-260327-24D2
   - INS-260402-8D38
   - INS-260329-E6AF

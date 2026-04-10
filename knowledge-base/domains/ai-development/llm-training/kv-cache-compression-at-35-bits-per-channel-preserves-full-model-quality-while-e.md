@@ -49,10 +49,10 @@ stance: >-
   engineering problem rather than a model architecture problem
 related:
   - INS-260325-6150
+  - INS-260409-6560
+  - INS-260409-1078
   - INS-260323-2651
   - INS-260325-0409
-  - INS-260403-9AD1
-  - INS-260320-232D
 evidence:
   - id: INS-260320-232D
     type: TRANSFERS_TO

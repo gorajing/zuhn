@@ -56,6 +56,7 @@ related:
   - INS-260403-1E05
   - INS-260403-8DB5
   - INS-260409-FA8F
+  - INS-260409-9D44
 ---
 Graham explicitly separates company launch from product launch, noting that several of YC's most promising startups hadn't shipped products but were 'definitely launched as companies.' The YC model treats Demo Day as a company launch event — founders present to investors with clear direction, resolved team dynamics, and momentum, even if the product itself needs more build time.
 

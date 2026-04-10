@@ -28,5 +28,5 @@
 - `INS-260404-77CD` Stealth startups face asymmetric timing risk where the exit window is narrower than traditional launches because they lack the ongoing market signal correction that public startups receive.
 - `INS-260404-97AA` Halo targets ALS and locked-in syndrome patients first, creating emotional demonstrations and clinical validation before pursuing consumer augmentation.
 - `INS-260330-7168` Find the gap between incumbent solutions, build the best experience for that narrow slice, then expand to larger customers or more use cases over time.
-- `INS-260330-39C6` Look for markets where underlying costs have dropped dramatically but incumbents still operate as if the old economics apply.
 - `INS-260403-DC59` Women founders disproportionately build in massive but overlooked markets like FemTech ($1.1T by 2027), caregiving, and community health — gaining sharper product-market fit from Day 1 because they've lived the problem.
+- `INS-260330-39C6` Look for markets where underlying costs have dropped dramatically but incumbents still operate as if the old economics apply.

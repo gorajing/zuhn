@@ -56,7 +56,6 @@ related:
   - PRI-260406-E880
   - INS-260405-94A1
   - INS-260405-CB93
-  - INS-260404-B6CA
 ---
 The conventional pitch deck was designed for a world where you had one shot in a conference room. It tries to pack valuation, market size, team, traction, and product into 12-15 slides viewed once. This format fights against how investment decisions actually happen — which involves multiple touchpoints, evolving conviction, and social proof accumulation.
 

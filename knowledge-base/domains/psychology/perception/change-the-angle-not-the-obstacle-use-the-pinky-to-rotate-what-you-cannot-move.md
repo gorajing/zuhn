@@ -45,7 +45,6 @@ resolutions:
     changing the frame rather than pushing harder on a deadlocked point. The
     minimal-force, maximum-effect approach is the essence of strategic leverage.
 related:
-  - INS-260321-B8E8
   - INS-260323-61FE
   - INS-260323-71B3
   - INS-260323-BEE6

@@ -42,8 +42,8 @@ stance: >-
 related:
   - INS-260329-28A6
   - INS-260409-7632
+  - INS-260409-1E3C
   - INS-260327-47E9
   - INS-260325-EF66
-  - INS-260330-2294
 ---
 The workflow prioritizes building complete character sheets (face, hair, outfit, physical details) before generating any scene, because downstream generations can reference these sheets to maintain consistency across shots. Attempting to correct inconsistent characters scene-by-scene wastes credits and fragments identity. This mirrors pre-production discipline in traditional film where casting and costume lock before principal photography - the lesson is that even when execution is cheap, establishing canonical references early is the leverage point for coherent output.

@@ -55,10 +55,10 @@ stance: >-
   'why' feels inappropriate rather than just unfinished.
 related:
   - INS-260325-AE23
+  - INS-260409-5CD4
   - INS-260404-1773
   - INS-260323-4D5E
   - PRI-260328-6189
-  - INS-260403-E2FB
 evidence:
   - id: INS-260323-4D5E
     type: SUPPORTS

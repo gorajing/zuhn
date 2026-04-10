@@ -9,8 +9,6 @@
 - `INS-260404-83C6` DeepSeek proved frontier AI can emerge from a hedge fund side project in China, not just from billion-dollar Western labs.
 - `INS-260405-B6CB` China's post-2008 infrastructure investment produced not just recovery but a transportation, energy, and digital backbone that now underpins its manufacturing dominance.
 - `INS-260409-F485` Napier's emerging-market heuristic: avoid countries where trading rights are not guaranteed, constitutions are weak, or exchange rates are overvalued — operationalized as 'don't invest where you wouldn't live after retirement.'
-- `INS-260405-484F` Clawback mechanisms that reach founders' personal assets convert entrepreneurship from bounded-downside to unlimited-downside, chilling risk-taking.
-- `INS-260405-ADCE` US and China are pursuing humanoid robotics through different incentive structures and deployment contexts, making a single global market unlikely.
 - `INS-260403-583B` China's threats against Japan over Taiwan defense declarations backfired by unifying Japanese society and pushing South Korea into closer partnership with Japan.
 - `INS-260402-F833` The U.S. leads in advanced chips while China leads in energy production — whoever integrates both first wins the AI race.
 - `INS-260405-59AB` Autocrats tend to become more paranoid and destructive over time, turning concentrated power into a systemic liability.
@@ -58,6 +56,8 @@
 - `INS-260403-1B00` Xi has purged his entire military leadership including his closest ally and China's last combat-experienced general, suggesting internal crisis rather than war preparation.
 - `INS-260403-7285` Xi entering a 'lion in winter' paranoia phase may reduce Taiwan invasion risk but make China's domestic policy more erratic.
 - `INS-260403-1F97` Russian crude sellers are again requesting yuan payment from Indian refiners, driven by sanctions pressure rather than ideological de-dollarization.
+- `INS-260405-484F` Clawback mechanisms that reach founders' personal assets convert entrepreneurship from bounded-downside to unlimited-downside, chilling risk-taking.
+- `INS-260405-ADCE` US and China are pursuing humanoid robotics through different incentive structures and deployment contexts, making a single global market unlikely.
 - `INS-260403-CF46` Most China analyses reach contradictory conclusions (China will dominate vs. China has peaked) because they cherry-pick output metrics instead of examining the underlying systems that produce those outputs.
 - `INS-260403-49FF` Page and Brin overruled Schmidt on China because values conflicts are founder-domain decisions that operators are structurally unable to make.
 - `INS-260330-B4BD` Two generations of one-child families made small families the cultural norm in China, rendering policy reversal largely ineffective.

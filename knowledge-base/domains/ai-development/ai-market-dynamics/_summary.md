@@ -1,6 +1,6 @@
 # Topic: ai-market-dynamics
 
-> 147 insights
+> 148 insights
 
 - `INS-260321-86F1` [high] China is stealing American AI models, removing all guardrails, and potentially deploying them against the US — creating an absurd scenario where America fights with one arm tied behind its back against its own technology.
 - `INS-260327-5690` [high] Traditional SaaS sells productivity enhancement to workers; vertical AI agents sell the work itself, accessing the entire cost of labor as TAM rather than just the software budget.
@@ -121,6 +121,7 @@
 - `INS-260327-1652` [medium] Hugging Face's $100 robot arm and $300 Reachy Mini aim to be the iPhone of robotics: cheap hardware with an app store of behaviors that anyone can create and share.
 - `INS-260327-CFDC` [medium] Robots performing economically useful tasks in the real world will produce training data as a byproduct, creating a data flywheel unavailable from internet scraping.
 - `INS-260322-D0F6` [medium] For the first time, a genuine threat exists to systems of record — not through better UI (which failed in SaaS 2.0) but because AI agents collapse the distance between user intent and execution.
+- `INS-260409-04C8` [medium] Foundation labs focus on autonomous reasoning models and Deep Research workflows (AI thinks for you) rather than tool-for-thought interfaces (AI helps you think better) because automating cognitive work is a larger addressable market than augmenting it.
 - `INS-260330-AB67` [medium] Agents paying for ephemeral API access per-task will create a new category of businesses built entirely for agent consumption.
 - `INS-260404-C5B7` [medium] The Fed's January 2026 minutes explicitly cite AI as driving investment strength while simultaneously creating hiring uncertainty and financial concentration risk.
 - `INS-260403-504D` [medium] Being the only AI vendor integrated into classified systems creates leverage so strong that the government prefers coercion over switching.

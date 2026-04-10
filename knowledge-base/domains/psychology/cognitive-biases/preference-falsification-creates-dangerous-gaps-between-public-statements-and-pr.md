@@ -50,7 +50,6 @@ stance: >-
   resulting preference falsification makes polls unreliable and creates
   conditions for sudden, unpredictable political shifts
 related:
-  - INS-260323-E520
   - INS-260330-15AE
   - INS-260330-BE91
   - INS-260402-86C4

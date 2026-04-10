@@ -49,7 +49,7 @@
 - `INS-260405-DADB` VCs explicitly screen for network effects because they are the strongest defensibility mechanism in software — each new user increases value for all users.
 - `INS-260403-E86E` The most powerful defensibility lever is turning your product from a single-player game into a multi-player network.
 - `INS-260403-B5C0` Building around a hard-to-access vertical database of record creates stronger competitive positioning than superior features alone.
-- `INS-260404-3BAB` YC W26 tilts heavily toward physical-world AI problems as the easy SaaS layer gets commoditized, signaling where defensible value is migrating.
 - `INS-260403-04AF` Software IP is nearly worthless as a moat because the field evolves faster than patents can protect, but bio/techbio IP remains a genuine durability source.
+- `INS-260404-3BAB` YC W26 tilts heavily toward physical-world AI problems as the easy SaaS layer gets commoditized, signaling where defensible value is migrating.
 - `INS-260327-C900` Susan turned Tesla saying no to home supercharging into a multi-million dollar business by solving the problem herself.
 - `INS-260404-C1C1` NFX's AI Litmus Test asks founders how long it would take a user to do their core task with ChatGPT+, directly measuring defensibility.

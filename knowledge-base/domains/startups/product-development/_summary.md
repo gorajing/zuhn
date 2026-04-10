@@ -1,6 +1,6 @@
 # Topic: product-development
 
-> 138 insights
+> 139 insights
 
 - `INS-260327-EB3E` [high] Apple's 48-hour design review rhythm forced constant refinement that produced best-in-class products.
 - `INS-260329-1028` [high] freeCodeCamp's 48M-view tutorial demonstrates that one comprehensive free resource can become a permanent acquisition engine dwarfing paid channels.
@@ -48,6 +48,7 @@
 - `INS-260403-219E` [high] Games companies model the ideal product iteration cycle: launch fast, measure everything, optimize continuously, and never stop evolving.
 - `INS-260402-E36A` [high] Experts expect to throw away early work and cultivate dissatisfaction, while amateurs convince themselves their first attempt is good enough.
 - `INS-260402-4AB4` [high] Reframing the problem is often more valuable than optimizing the solution.
+- `INS-260409-626E` [high] Logo was a beautiful programming language for children but no professional differential geometer uses it — because Papert wasn't himself a differential geometer. Mathematica works partially because Wolfram has genuine research interests in mathematics and physics. Good tools emerge as byproducts of original work on serious problems.
 - `INS-260327-12BE` [high] The largest Oracle cluster in a company grinding on queries ran 1000x faster on one-tenth the hardware when modeled as a graph in Neo4j.
 - `INS-260327-73BE` [high] Enterprise AI requires explainability and guardrails — graph databases alongside LLMs provide the auditable knowledge network that pure LLMs lack.
 - `INS-260330-84F4` [high] Start with a small useful hack and let it grow, rather than designing a comprehensive system upfront.

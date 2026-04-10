@@ -51,10 +51,10 @@ stance: >-
   high-challenge context studied.
 related:
   - INS-260326-2259
+  - INS-260409-A62B
   - PRI-260406-69FC
   - INS-260403-A1DF
   - PRI-260327-5635
-  - INS-260330-A78C
   - INS-260328-D0F6
   - INS-260402-9B06
 evidence:

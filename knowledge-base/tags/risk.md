@@ -7,11 +7,11 @@
 - `INS-260405-C88A` Agricultural consolidation reshapes who bears risk and who captures value faster than any technology innovation cycle.
 - `INS-260403-9D7C` Most equity tokens today provide financial exposure via SPV structures rather than direct share ownership, creating ambiguity around liquidation priority, voting rights, and conversion terms.
 - `INS-260405-C987` Speculators generate corposlop; info buyers face a public-goods problem; only hedgers provide a structurally sound, recurring source of market liquidity
+- `INS-260322-415E` Very new, very big, very exciting world-changing technologies deterministically lead to bubbles — the question is whether we're in 1997, 1998, or 1999.
+- `INS-260323-3864` The entire nuclear arsenal can launch in seconds; the president has 6 minutes to decide; and deterrence as a philosophy collapses completely once the first missile flies.
 - `INS-260403-248E` Brex's early investors celebrated while late-stage investors lost money on the same $5.15B exit, proving entry price matters more than company trajectory.
 - `INS-260403-B008` Government employees optimize for decisions that can be justified if they fail, which is the exact opposite of good venture investing.
 - `INS-260403-D500` Cross-market valuation comparisons are deceptive because entry discounts don't guarantee proportional exit returns when market dynamics differ.
-- `INS-260322-415E` Very new, very big, very exciting world-changing technologies deterministically lead to bubbles — the question is whether we're in 1997, 1998, or 1999.
-- `INS-260323-3864` The entire nuclear arsenal can launch in seconds; the president has 6 minutes to decide; and deterrence as a philosophy collapses completely once the first missile flies.
 - `INS-260409-FABA` Psychedelics create a founder-risk problem that is best addressed with explicit pre-commitment clauses, not moral evaluation of post-trip decisions.
 - `INS-260404-8ACB` When work is framed as an experiment, every outcome — including failure — produces knowledge, removing the psychological cost of starting.
 - `INS-260325-5A72` Men's higher risk appetite leads them to save lives in emergencies and to blow their savings on gambling -- the trait itself is neutral, and society needs both male and female approaches to risk.
@@ -19,13 +19,13 @@
 - `INS-260403-B6C6` UnitedHealth and Epic solved data fragmentation by owning more of the system, but the Change Healthcare breach showed this creates catastrophic concentration risk.
 - `INS-260323-D4EC` Systems at criticality — forests, economies, markets — naturally drive themselves to a state where a single small event can cascade through the entire system, making mega-events inevitable regardless of the trigger.
 - `INS-260328-02A0` Big companies walk the beautifully paved autobahn — startups are blazing new paths through the forest, and if you walk the autobahn instead, incumbents will run you over every time.
-- `INS-260323-B849` In normal-distribution games (coin flips for $1), optimize for the average; in power-law games (startups, content, earthquakes), the average is meaningless — optimize for maximum exposure to extreme outcomes.
 - `INS-260325-F9CF` 19th-century optimists assumed technology would end war — the world wars shattered that illusion and fueled anti-progress backlash that persists today.
+- `INS-260323-B849` In normal-distribution games (coin flips for $1), optimize for the average; in power-law games (startups, content, earthquakes), the average is meaningless — optimize for maximum exposure to extreme outcomes.
+- `INS-260405-F1A2` Business plans presuppose knowledge that doesn't yet exist in early-stage innovation, making them a liability rather than a tool.
 - `INS-260403-B02A` Structure pitch decks around two slides: risks retired since last round, and risks this capital will retire next.
 - `INS-260403-A486` Track Risk Burn Efficiency by measuring how much validated learning each dollar of spend produces, not just how long runway lasts.
 - `INS-260330-C8E1` Deals falling through is the norm, not the exception—founders must plan for this as the default outcome rather than treating it as a surprise.
 - `INS-260330-478B` Small unsophisticated investors (uncle, neighbor investing $5-10K) cause the most problems because they don't understand startup timelines and may demand their money back.
-- `INS-260405-F1A2` Business plans presuppose knowledge that doesn't yet exist in early-stage innovation, making them a liability rather than a tool.
 - `INS-260403-32E9` Identify your sector's primary risk layer and retire it first before addressing downstream risks.
 - `INS-260325-79BD` The ~1500-year gap between Bronze Age collapse and Rome's fall, and another ~1500 years to today, suggests recurring vulnerability patterns.
 - `INS-260405-6DAD` Founders taking equity upfront are making the same bet as ladder climbers — they've just restructured the timeline of risk and reward.

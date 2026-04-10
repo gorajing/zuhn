@@ -1,5 +1,6 @@
 # Tag: capex
 
+- `INS-260410-76A3` Scaling laws convert LLM capability improvement into a predictable function of compute and data, turning AI progress into a capital-allocation problem.
 - `INS-260322-6DFC` Unlike the dot-com broadband buildout funded by leveraged telecoms, today's $400B+ AI infrastructure buildout is funded by the most profitable companies ever created — Google, Microsoft, Amazon, Meta — making systemic risk fundamentally lower.
 - `INS-260403-1407` Information processing equipment and software investment contributed ~2.1 percentage points to US GDP's 3.8% annualized growth in H1 2025.
 - `INS-260327-6B02` Data center buildouts provide tens of thousands of high-paying jobs and stock market gains drive consumer spending, making the AI economy self-sustaining regardless of whether AI delivers on its promises.

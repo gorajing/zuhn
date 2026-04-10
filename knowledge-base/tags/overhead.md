@@ -1,5 +1,6 @@
 # Tag: overhead
 
+- `INS-260409-1078` MemPalace's AAAK uses 73 tokens to encode text that plain English encodes in 66 — compression only amortizes at scale where the same entities appear hundreds of times, making it a net loss for small-scale personal memory.
 - `INS-260330-6AB7` The Calvin Cycle produces 6 G3P molecules but 5 must be recycled to regenerate the starting material — only 1/6 of output actually leaves the system as usable product.
 - `INS-260405-0591` The Calvin cycle produces 6 G3P molecules per turn but only 1 escapes as net product—the other 5 must be recycled to regenerate the 3 RuBP molecules needed to run the next cycle.
 - `INS-260330-E068` The Calvin Cycle produces 6 G3P molecules but must reinvest 5 to regenerate — only 1/6 of gross output is net output.

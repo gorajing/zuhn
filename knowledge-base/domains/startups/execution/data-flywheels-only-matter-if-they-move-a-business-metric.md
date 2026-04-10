@@ -46,12 +46,13 @@ stance: >-
   A data flywheel that cannot be tied to a specific business metric improvement
   is either nonexistent or irrelevant, regardless of how much data you collect.
 related:
+  - INS-260410-3FB3
   - INS-260404-A526
   - INS-260327-956D
   - INS-260404-8A8A
   - INS-260403-DE45
-  - INS-260402-3CF1
   - INS-260403-9067
+  - INS-260402-3CF1
 evidence:
   - id: INS-260325-3B28
     type: CHALLENGES

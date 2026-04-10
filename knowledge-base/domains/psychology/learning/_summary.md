@@ -1,6 +1,6 @@
 # Topic: learning
 
-> 235 insights
+> 239 insights
 
 - `INS-260329-66C7` [high] Charisma, patience, confidence — all traits are shorthand labels for clusters of small, observable, teachable behaviors like smiling on entry and remembering names.
 - `INS-260330-750A` [high] The Mongols became siege warfare experts and adopted gunpowder by interrogating prisoners and absorbing techniques from conquered peoples.
@@ -18,6 +18,7 @@
 - `INS-260330-1DDE` [high] Evolution can only reach solutions through chains of viable intermediates, while human creativity can leap across non-viable gaps — explaining why no species ever made a campfire despite billions of years.
 - `INS-260330-137C` [high] Fourier's immortality came not from solving the heat equation but from asking whether ANY function could be expressed as sine waves — a question that seemed absurd at the time.
 - `INS-260330-3D7B` [high] Building a working model forces you to confront every gap in your understanding that passive learning lets you skip.
+- `INS-260409-BBB5` [high] Matuschak spent 17,000 and 6,000 words writing essays on how to write good cards — answering the question requires a theory of knowledge, a theory of representation, and a theory of learning, and the quality of the cards directly determines the quality of the medium.
 - `INS-260329-CC79` [high] Automating fundamental operations frees working memory for complex abstractions, making advanced concepts stick rather than crumble.
 - `INS-260330-6F36` [high] Clear thinking lets you identify the 1% of decisions that matter and apply leverage to magnify their impact.
 - `INS-260330-DF2C` [high] Committing to a prediction before seeing results forces you to engage with the underlying model, not just the outcome.
@@ -87,6 +88,7 @@
 - `INS-260330-2EC4` [high] Rendering invisible dynamics visible — through transparency, slow motion, or instrumentation — transforms conceptual understanding into visceral comprehension.
 - `INS-260330-70A8` [high] David Marr's three levels — computational theory (what/why), algorithm (how), and hardware (implementation) — remain essential for understanding any complex system, from brains to software.
 - `INS-260330-6AFA` [high] Math axioms are true because we declare them, not because they match observations — yet math describes the physical universe with uncanny precision.
+- `INS-260409-6DBE` [high] Matuschak and Nielsen argue that with spaced repetition and the mnemonic medium, memory stops being a chance event subject to forgetting and becomes a deliberate choice — 'follow these steps, and you can remember whatever you choose.'
 - `INS-260330-B882` [high] The team needed misfire procedures immediately on their first zoomed-in test, validating the experts' insistence on planning them in advance.
 - `INS-260330-F7B2` [high] High-floor interfaces like Vim reward invested learning time with speed gains that low-floor tools cannot match.
 - `INS-260330-14A1` [high] Moderate procrastination enables subconscious incubation that produces more creative ideas than diving in immediately or waiting until the last minute.
@@ -136,6 +138,7 @@
 - `INS-260330-13A8` [high] High-speed cameras reveal the arrow's mid-flight flex that explains how it navigates around the bow — without this visibility, the outcome seems impossible.
 - `INS-260329-4D06` [high] 'People skills' isn't a trait — it's a hundred micro-skills like greeting by name, not interrupting, and smiling when someone enters.
 - `INS-260329-1D3B` [high] Soft skills decompose into trainable micro-behaviors — patience is just a bundle of specific habits you can practice.
+- `INS-260409-E730` [high] Quantum Country data shows 95 minutes of total review time produces ~54 days of demonstrated retention across 112 questions — a <50% time overhead on a 4-hour essay for multi-month retention of nearly every important detail.
 - `INS-260330-9484` [high] Byron Ferguson spine-tests every arrow to ensure consistent flex behavior before shooting, separating equipment variance from skill variance.
 - `INS-260329-294C` [high] Reducing toolchain complexity for beginners removes failure modes unrelated to the skill being learned, keeping focus on core concepts.
 - `INS-260402-F772` [high] Surprises aren't just new information — they're corrections to existing wrong beliefs, making them the highest-value knowledge unit.
@@ -197,6 +200,7 @@
 - `INS-260402-F957` [medium] Hackers start original and get good; scientists start good and get original — requiring opposite educational models.
 - `INS-260403-CBB0` [medium] Math trains thinking through metaphors and abstractions that transfer to any domain, making it valuable far beyond its direct applications.
 - `INS-260330-8F91` [medium] Memory operates on a Zipf-like distribution — a few experiences are retained strongly while most are forgotten entirely.
+- `INS-260409-613B` [medium] Most SRS users cram vocabulary and capitals, but Matuschak and Nielsen show Quantum Country's 112-card essay on quantum computing helps users absorb abstract conceptual material when the cards are expert-designed and narratively embedded rather than free-floating facts.
 - `INS-260329-438D` [medium] Motivation scales with the perceived gap between where you are and your reference point — change who you compare yourself to and you change your drive.
 - `INS-260404-6AD7` [medium] CrashCourse teaches photosynthesis by giving every sub-process a distinct name and character (PSII, Calvin Cycle, RuBisCo), turning an overwhelming chemical cascade into navigable chunks.
 - `INS-260330-C8ED` [medium] Counter-intuitive naming in a field signals discovery-order thinking, which predicts where other confusions will cluster.

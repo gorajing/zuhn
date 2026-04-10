@@ -51,11 +51,11 @@ stance: >-
   compound into nonsensical outputs over long sequences, requiring explicit
   self-correction mechanisms that evaluate output as a coherent whole.
 related:
-  - INS-260320-1B10
   - INS-260403-A6B1
   - INS-260323-8D12
+  - INS-260320-1B10
+  - INS-260410-F24A
   - PRI-260406-FB98
-  - INS-260402-8A7A
 evidence:
   - id: INS-260329-DAD1
     type: TRANSFERS_TO

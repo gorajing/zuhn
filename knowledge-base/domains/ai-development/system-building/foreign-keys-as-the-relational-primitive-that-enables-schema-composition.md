@@ -52,6 +52,7 @@ related:
   - INS-260329-1277
   - INS-260329-2FB8
   - INS-260325-E23D
+  - INS-260409-1E5E
 ---
 Relational databases derive their power not from tabular storage (spreadsheets do that) but from foreign keys that link rows across tables. A foreign key stores the primary key of another table's row, creating a directed relationship. This enables queries like 'which employees work at which branch' or 'how much did each employee sell to each client' without duplicating data.
 

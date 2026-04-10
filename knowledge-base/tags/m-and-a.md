@@ -17,8 +17,8 @@
 - `INS-260404-DFE5` A regression formula from 63 real transactions turns three tracked metrics into a defensible baseline valuation multiple.
 - `INS-260404-3574` Thousands of profitable European SMEs face closure due to retiring founders, creating a €20B serviceable market for employee-buyout platforms.
 - `INS-260330-809A` Apple's acquisition pattern — Authentec for Touch ID, Siri for voice, NeXT for Jobs — shows that buying capabilities yields higher returns than buying businesses.
-- `INS-260404-6D22` A structured competitive sale reliably adds 1-2x ARR premium over bilateral negotiations, worth millions on even modest ARR bases.
 - `INS-260327-3930` Nikesh Arora's key M&A principle: acquired founders become the bosses of existing Palo Alto teams, because if incumbents were capable enough, they wouldn't have needed the acquisition.
+- `INS-260404-6D22` A structured competitive sale reliably adds 1-2x ARR premium over bilateral negotiations, worth millions on even modest ARR bases.
 - `INS-260330-217C` Apple's strategy of acquiring small teams for talent and technology rather than buying large companies preserves the extreme focus that drives its premium margins.
 - `INS-260402-CCF4` Patents serve startups primarily as signals to acquirers that the technology is defensible and worth buying rather than building.
 - `INS-260403-FA8E` Capital One saw Brex as a bargain shortcut to a scaled platform; VCs saw a 58% haircut from peak valuation — both were correct within their own frameworks.

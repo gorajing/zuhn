@@ -42,7 +42,6 @@ stance: >-
   knowledge graph that Claude Code can traverse via file reads, providing
   graph-RAG capabilities with zero graph database.
 related:
-  - INS-260321-0C99
   - INS-260409-430B
   - INS-260409-0D87
   - INS-260402-2342

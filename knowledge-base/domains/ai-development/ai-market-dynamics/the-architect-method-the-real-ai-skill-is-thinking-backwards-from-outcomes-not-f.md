@@ -49,11 +49,11 @@ related:
   - INS-260329-EC01
   - INS-260321-82FE
   - INS-260323-FEDF
-  - INS-260323-A5EC
   - INS-260330-C681
   - INS-260403-3EFB
   - INS-260403-772D
   - INS-260403-E1E9
+  - INS-260329-70D5
 stance: The winning AI skill isn't prompting
 evidence:
   - id: INS-260329-EC01

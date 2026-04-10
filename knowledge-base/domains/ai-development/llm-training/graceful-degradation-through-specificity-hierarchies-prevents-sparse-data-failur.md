@@ -53,12 +53,12 @@ stance: >-
   features to general ones, preventing the vocabulary expansion that improves
   accuracy from simultaneously creating coverage gaps.
 related:
-  - INS-260320-B210
+  - INS-260410-AA93
+  - INS-260410-699C
   - INS-260323-8D12
+  - INS-260409-1078
+  - INS-260410-F24A
   - INS-260403-2A92
-  - PRI-260323-7BFA
-  - INS-260327-956D
-  - INS-260402-8A7A
 evidence:
   - id: INS-260327-956D
     type: TRANSFERS_TO

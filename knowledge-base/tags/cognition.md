@@ -4,6 +4,7 @@
 - `INS-260323-8E4D` The Piraha language has zero words for counting — not even a word for 'one' — which means exact numerical thinking is a learned cultural capability, not hardwired.
 - `INS-260405-86BB` Writing is thinking, so AI-generated writing is AI-generated thinking — not your thinking polished.
 - `INS-260329-C555` 40+ years of research into natural language processing hasn't closed the gap that a few weeks of Python education can bridge from the human side.
+- `INS-260410-78F4` Treat weight-stored knowledge as a hazy recollection and the context window as working memory — paste the source material in rather than relying on recall.
 - `INS-260404-7CBC` The brain receives ~1B bits/sec but can only output ~10 bits/sec, creating a massive bottleneck that BCIs aim to bypass.
 - `INS-260403-9757` Research shows brain function drops 15% above 1000 ppm CO2 and over 50% above 1400 ppm, making CO2 monitoring a high-ROI cognitive tool.
 - `INS-260325-9693` Sleep deprivation impairs cognition equivalent to being legally drunk, and weekend catch-up sleep is a myth — circadian rhythms don't allow debt repayment.
@@ -18,9 +19,9 @@
 - `INS-260405-678B` Leslie Lamport's dictum: if you're thinking without writing, you only think you're thinking.
 - `INS-260330-AB38` What we see is heavily filtered by conceptual overlays — relaxing these filters reveals experience as an undifferentiated field of light and color.
 - `INS-260403-617C` Apes who learned sign language can answer questions and express emotions but have never once asked a question, revealing they don't model others as having distinct knowledge.
+- `INS-260403-0218` Writing doesn't just express pre-formed ideas — it actively shapes and completes them during the process.
 - `INS-260329-9391` Indeterminate forms like 0/0 in calculus signal convergence of two quantities and require algebraic manipulation to resolve, teaching the meta-skill of treating apparent paradoxes as meaningful signals.
 - `INS-260329-6727` The geometric proof of lim(sin θ/θ) = 1 uses area comparisons of triangles and sectors that no purely algebraic approach can replicate, demonstrating that visual reasoning is a distinct and irreplaceable mode of mathematical understanding.
-- `INS-260403-0218` Writing doesn't just express pre-formed ideas — it actively shapes and completes them during the process.
 - `INS-260329-19B3` OOP's power comes from matching human cognitive patterns of categorization rather than from computational efficiency.
 - `INS-260325-26C6` Freud used steam engines, the 20th century used computers, and now neural networks may rehabilitate intuition as a valid metaphor for mind.
 - `INS-260323-1930` Musicians like Charlie Puth experience notes as colors, tastes, and shapes — talent at the highest levels isn't doing the same thing better, it's literally perceiving reality differently.

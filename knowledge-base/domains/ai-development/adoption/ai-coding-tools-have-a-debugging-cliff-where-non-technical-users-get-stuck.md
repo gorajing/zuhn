@@ -51,13 +51,13 @@ stance: >-
 related:
   - INS-260321-AD95
   - INS-260329-3D28
-  - INS-260329-FC75
   - INS-260329-1ACD
   - INS-260405-C1E4
+  - INS-260409-3C6A
   - INS-260329-03B5
   - PRI-260328-B4BD
-  - INS-260403-D6C2
   - INS-260329-3763
+  - INS-260409-96B0
 ---
 The article reveals a telling pattern: the author built a presentation app in 10 days using Lovable and Cursor, but 'most of that time was spent resolving bugs and troubleshooting issues.' Similarly, Lovable's lack of a code editor forces users to move to Cursor to resolve problems. This debugging cliff is the real capability boundary of AI prototyping for non-technical users.
 

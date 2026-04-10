@@ -47,6 +47,5 @@ related:
   - INS-260403-5B89
   - INS-260404-50AC
   - INS-260404-6243
-  - INS-260409-D66D
 ---
 The data point that unicorns average 5 funding rounds provides a concrete benchmark for founders and investors calibrating expectations. The nuance — that companies becoming unicorns in private rounds need slightly fewer rounds than those achieving unicorn valuation only at IPO or M&A exit — hints at a selection effect: private unicorns often have stronger capital efficiency or earlier product-market fit, allowing them to reach the milestone before needing public markets to validate the valuation. For investors, this suggests that companies still in private rounds at later stages may face a higher bar to ever hit unicorn status.

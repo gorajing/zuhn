@@ -54,5 +54,6 @@ related:
   - INS-260403-501D
   - INS-260403-19C9
   - INS-260403-BFF3
+  - INS-260409-E730
 ---
 Most viral apps lose the majority of users in the first 30 days. ChatGPT shows the opposite pattern — retention improves after the first year, which signals that usage is transitioning from curious experimentation to embedded workflow dependency. This is the hallmark of infrastructure adoption, not consumer entertainment. For founders and investors, this distinction matters enormously: a product that becomes infrastructure develops defensible switching costs and compounds in value as users build habits and integrations around it. The implication is that AI tools aiming for this trajectory should optimize for depth of integration into existing workflows, not breadth of feature novelty.

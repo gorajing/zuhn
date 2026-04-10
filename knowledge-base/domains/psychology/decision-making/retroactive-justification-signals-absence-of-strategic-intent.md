@@ -47,6 +47,6 @@ related:
   - PRI-260406-CF83
   - INS-260404-393A
   - INS-260330-7A80
-  - PRI-260406-20FD
+  - INS-260409-5CD4
 ---
 Trump's evolving explanations for the Maduro capture — from drug cartel membership (later admitted to be fictional) to oil seizure (economically nonsensical) — illustrate a broader pattern in decision-making: when the stated reasons keep changing, no single reason was likely the actual driver. This has applications far beyond geopolitics. In business and investing, watching for retroactive justification is a powerful diagnostic. If a founder or executive provides a different 'why' to each audience, the real motivation is likely emotional, impulsive, or political rather than strategic. The pattern is especially revealing because truly strategic decisions can be explained consistently — the reasoning holds up because it existed before the action.

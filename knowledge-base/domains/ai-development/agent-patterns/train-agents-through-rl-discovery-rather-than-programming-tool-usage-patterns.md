@@ -48,13 +48,11 @@ stance: >-
   learning across thousands of virtual machines produces more capable and
   flexible agents than hand-coding specific tool usage patterns.
 related:
-  - INS-260325-175B
   - INS-260327-C962
   - INS-260329-B2F4
   - INS-260404-CE26
   - INS-260329-BCB7
-  - INS-260329-F969
-  - INS-260403-9774
+  - INS-260410-F985
 evidence:
   - id: INS-260325-175B
     type: SUPPORTS

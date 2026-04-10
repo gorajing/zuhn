@@ -46,6 +46,7 @@ stance: >-
   Cloud's variable expense model gives startups a structural cost advantage over
   incumbents locked into fixed on-premise infrastructure investments
 related:
+  - INS-260410-76A3
   - INS-260330-F5A1
   - INS-260405-3240
   - INS-260325-5B7F

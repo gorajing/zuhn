@@ -42,10 +42,10 @@ resolutions:
     generalization.'
 related:
   - INS-260408-C572
+  - INS-260410-6B98
   - INS-260330-4AD5
   - INS-260327-30E4
   - INS-260323-7A50
-  - INS-260323-0827
 stance: >-
   VLA models have no spatial primitive vocabulary — 'move up', 'move back',
   'don't move' all produce similar grasping motions

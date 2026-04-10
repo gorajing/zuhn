@@ -51,10 +51,10 @@ related:
   - INS-260329-2ECE
   - INS-260330-E0AA
   - INS-260322-CCE8
-  - INS-260403-BA81
   - INS-260405-B361
   - INS-260409-2CE9
   - INS-260409-A803
   - INS-260409-9C74
+  - PRI-260406-4F8E
 ---
 Hughes frames this as the ancient claim 'your mind is a projector, not a camera.' Modern predictive processing and constructive perception research converges with the framing: the brain runs a generative model and updates it against prediction errors rather than passively transcribing input. The practical consequence is that beliefs, identity, mood, and attention are not merely interpretations applied after the fact — they are part of the pipeline that assembles experience before it reaches you. Two people can occupy the same physical event and inhabit materially different experiences of it. This reframes much of what we call suffering as the output of a model that could, in principle, be tuned.

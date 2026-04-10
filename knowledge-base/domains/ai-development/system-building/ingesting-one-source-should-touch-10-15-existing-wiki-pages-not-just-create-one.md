@@ -45,7 +45,6 @@ stance: >-
   pages fails the compounding test, because the real value is in cross-linking
   new claims into existing structure.
 related:
-  - INS-260403-410A
   - PRI-260409-0156
   - INS-260409-086A
   - PRI-260406-7D93

@@ -44,7 +44,6 @@ stance: >-
   replacing OSS entirely.
 related:
   - INS-260327-26BF
-  - INS-260402-97AF
   - PRI-260328-5464
   - PRI-260328-FD47
   - INS-260330-2306

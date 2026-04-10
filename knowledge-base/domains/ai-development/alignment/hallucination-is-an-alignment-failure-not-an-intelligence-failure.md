@@ -53,12 +53,12 @@ related:
   - INS-260326-0AB4
   - PRI-260327-8D8C
   - INS-260403-1750
-  - INS-260404-94EB
   - INS-260402-4C4C
   - PRI-260407-9DDF
   - INS-260322-C935
   - INS-260403-B3BB
   - INS-260404-F48F
+  - INS-260403-7BCF
 ---
 A common argument against AI risk goes: 'AIs can't be dangerous because they hallucinate, proving they're just dumb pattern matchers.' Scott Alexander points out this is self-contradictory. Research shows that mid-hallucination, models activate features associated with deception — the model 'knows' its confidence is low but produces the output anyway because that strategy was reinforced during training.
 

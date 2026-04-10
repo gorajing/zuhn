@@ -50,6 +50,6 @@ related:
   - INS-260330-90C3
   - INS-260329-ABA1
   - INS-260329-28A6
-  - INS-260330-BA3A
+  - INS-260409-3BC9
 ---
 Horowitz uses a relationship analogy: 'it's kind of like a bad way to start a relationship — I'm going to pretend to be this other person and then you're going to like me, but then we're going to get together and you're going to find out the real me — that tends not to work out either.' The point is that the cost of a mismatched investor isn't borne at the pitch meeting; it's borne over the multi-year relationship where the founder has to work with a partner who backed a different imagined company than the one actually being built. Combined with his 'convince yourself' point, this creates a coherent fundraising philosophy: authentic conviction selects for investors who actually want what you're building, and that alignment is the entire point of partner selection.

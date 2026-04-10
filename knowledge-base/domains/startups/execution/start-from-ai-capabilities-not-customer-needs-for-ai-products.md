@@ -48,7 +48,6 @@ stance: >-
   technology and find where they create previously impossible experiences.
 related:
   - INS-260322-68FE
-  - INS-260320-922A
   - INS-260323-4D63
   - INS-260321-4B38
   - INS-260323-9393
@@ -57,6 +56,7 @@ related:
   - INS-260327-5D62
   - INS-260327-A608
   - INS-260327-B12E
+  - INS-260330-255F
 evidence:
   - id: INS-260322-68FE
     type: SUPPORTS

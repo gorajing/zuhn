@@ -1,4 +1,9 @@
 # Tag: interface-design
 
 - `INS-260326-E7BE` Humans cannot process raw probabilistic truth — AI interfaces that present unfiltered reality will be rejected, not because users are stupid but because perception is architecturally a survival renderer.
+- `INS-260409-1E3C` Asking users to write their own critical-thinking prompts (like Appleton's 'Scholarly Inquisitor' Claude style) is not a solution because most users don't realize the default is fawning and can't write the prompts that would override it — defaults are what ships to 99% of users.
 - `INS-260329-EDA2` It is fundamentally easier to teach humans programming languages than to build machines that understand natural language.
+- `INS-260409-8C6C` The three empirical studies on GenAI and critical thinking do not convict AI itself; they convict RLHF-trained sycophancy plus generic deferential chatbot interfaces — both of which are fixable design choices, not inherent limitations of the technology.
+- `INS-260409-5CC6` Appleton predicts legal case-analysis platforms, scientific computational notebooks, design canvases, and other domain-specific interfaces will eventually supersede generic chatbots for serious work — each embedding domain-specific critical thinking directly into the workflow.
+- `INS-260409-160F` The 'generic helpful assistant' text-box interface forces a lowest-common-denominator deferential personality because one system prompt has to handle every query from legal analysis to recipe advice, and fawning is the only personality that does not actively repel anyone.
+- `INS-260409-D3EE` MemPalace applies the ancient Greek orators' memory palace technique to LLM memory — conversations become rooms in wings with halls and tunnels as cross-references — giving both AI and human users a navigable map instead of a flat semantic index.

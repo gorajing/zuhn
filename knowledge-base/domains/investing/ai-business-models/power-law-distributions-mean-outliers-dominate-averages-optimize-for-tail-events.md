@@ -61,6 +61,7 @@ related:
   - INS-260327-D5E0
   - INS-260330-E4FA
   - INS-260326-0045
+  - INS-260410-58D6
 stance: >-
   In power-law distributions, the standard deviation is infinite, the average
   keeps growing with more samples, and one outlier (like Bill Gates in a ...

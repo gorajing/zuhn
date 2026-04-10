@@ -48,12 +48,12 @@ related:
   - INS-260405-63C8
   - PRI-260406-B331
   - INS-260404-96E6
+  - INS-260410-FD24
   - INS-260327-5CB0
-  - INS-260405-3772
   - INS-260323-C5D3
   - INS-260329-BBBE
   - INS-260403-C161
-  - INS-260403-0DE8
+  - INS-260405-3772
 stance: >-
   Stuart Butterfield's games failed twice, but side features born from real
   problems became Flickr ($20M) and Slack ($27B)

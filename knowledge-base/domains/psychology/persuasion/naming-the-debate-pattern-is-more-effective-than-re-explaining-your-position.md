@@ -54,9 +54,9 @@ related:
   - INS-260403-1FB1
   - INS-260403-F2BA
   - INS-260404-F0A3
+  - INS-260409-2B3A
   - INS-260409-0FA2
   - INS-260330-141E
-  - INS-260327-48A5
 ---
 The dialogue shows the supporter trying increasingly detailed rebuttals — addressing China negotiations, enforcement mechanisms, economic concerns, graduated strategies — none of which land because the opponent is committed to the strawman. The supporter's most effective moments are when they shift to meta-commentary: 'I get the feeling you're not listening to me' and 'If you think someone is demanding a unilateral pause, I have a responsibility to say who it is you're talking about.'
 

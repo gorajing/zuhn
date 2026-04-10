@@ -50,10 +50,10 @@ stance: >-
   general cognition are neurologically dissociated processes
 related:
   - INS-260323-539C
-  - INS-260402-3095
+  - INS-260410-966F
   - PRI-260407-1D23
+  - INS-260402-3095
   - INS-260329-ACE6
-  - INS-260408-C572
 ---
 The argument draws on neuroscience that dissociates language production from general cognition — the brain regions responsible for fluent speech are distinct from those handling abstract reasoning and creativity. This means LLMs, which are fundamentally optimized to predict the next token in a sequence, may be learning the surface patterns of how humans communicate ideas rather than the deeper processes that generate those ideas.
 

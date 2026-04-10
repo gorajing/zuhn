@@ -60,6 +60,7 @@ related:
   - INS-260323-BC61
   - PRI-260321-7307
   - INS-260403-0B99
+  - INS-260410-3FB3
 ---
 The dominant AI discourse frames risk as either 'superintelligence destroys us' or 'AI fails to deliver.' But there's a third, more immediate risk: premature certainty. When an entire ecosystem—investors, builders, regulators, media—converges on the belief that a particular outcome is inevitable, the space for honest inquiry collapses. Skepticism sounds like resistance, caution looks like cowardice, and nuance gets flattened into a for-or-against binary.
 

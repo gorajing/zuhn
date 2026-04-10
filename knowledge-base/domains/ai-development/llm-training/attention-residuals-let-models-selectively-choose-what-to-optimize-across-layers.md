@@ -48,11 +48,12 @@ stance: >-
   accumulating everything, represents a meaningful advance in model memory
   efficiency.
 related:
+  - INS-260410-0EFE
   - INS-260403-AC01
   - INS-260330-A660
-  - INS-260327-1563
-  - INS-260329-D062
-  - INS-260402-2879
+  - INS-260410-1789
+  - INS-260410-3E86
+  - INS-260410-FEFA
 evidence:
   - id: INS-260330-A660
     type: TRANSFERS_TO

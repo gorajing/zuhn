@@ -13,6 +13,10 @@
 - `INS-260320-DC3C` Slash commands expand into full prompts — pack complex, multi-step instructions into simple reusable commands.
 - `INS-260329-560D` AI app builders fail not because the AI is weak, but because users cannot articulate what they want with sufficient precision.
 - `INS-260329-808C` Telling AI 'I run a dental practice and patients need to book appointments and fill intake forms' outperforms 'build me a booking app with forms and reminders.'
+- `INS-260410-0EFE` A forward pass through ~100 transformer layers is the compute budget per token, so any answer that requires real work must be spread across many intermediate tokens or offloaded to a tool.
+- `INS-260410-78F4` Treat weight-stored knowledge as a hazy recollection and the context window as working memory — paste the source material in rather than relying on recall.
+- `INS-260410-B8EB` The same structured data in YAML costs roughly 15% fewer tokens than JSON, which matters for context length and API bills.
 - `INS-260405-880C` Prompt engineering has an accumulating body of research-backed techniques that reward systematic study over ad-hoc experimentation.
+- `INS-260410-18CF` Start a new chat whenever you switch topics — leftover tokens distract the model and slow sampling without improving answers.
 - `INS-260320-26B1` Use SuperWhisper for voice-to-text prompting when your hands are tired from typing all day.
 - `INS-260403-49D1` AI prototyping success depends more on precise follow-up prompts describing exact changes than on the quality of the initial generation prompt.

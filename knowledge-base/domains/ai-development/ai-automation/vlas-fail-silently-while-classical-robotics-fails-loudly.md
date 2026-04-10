@@ -48,7 +48,6 @@ related:
   - INS-260402-3C79
   - INS-260321-2482
   - PRI-260321-7307
-  - INS-260321-E2FC
 stance: >-
   Classical robotics systems fail loudly (joint limit hit, object not detected,
   planner infeasible)

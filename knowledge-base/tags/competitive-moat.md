@@ -18,8 +18,8 @@
 - `INS-260403-7E95` Competitive advantage only materializes when outperformance maps to the specific metrics customers use to evaluate success.
 - `INS-260329-B6DF` Winners focus on customers while competitors focus on winners — creating a vicious cycle where copiers become progressively blind to what actually matters.
 - `INS-260327-0595` Sequoia's Pat Grady: 'Raise your hand if you have a data flywheel. Now what business metric does it move? Less certainty means your flywheel is fake.'
-- `INS-260330-999F` Spotify's free ad-funded tier lost money but was the primary engine converting users to paid subscriptions, which competitors without free tiers couldn't match.
 - `INS-260329-4488` Set decade-long commitments to activities rather than short-term outcome targets to reduce emotional ups and downs while building compounding advantages.
+- `INS-260330-999F` Spotify's free ad-funded tier lost money but was the primary engine converting users to paid subscriptions, which competitors without free tiers couldn't match.
 - `INS-260403-E7E1` When everyone has the team and the tech, the scarce resource is a strong enough point of view on what should exist.
 - `INS-260405-E7F9` Apple Pay's security and seamlessness were only possible because Apple controlled the chip (Secure Enclave), the OS, and the payment network relationships simultaneously.
 - `INS-260404-95BA` Treating design as a first-class strategic concern creates self-reinforcing competitive advantage.

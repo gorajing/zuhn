@@ -56,10 +56,10 @@ stance: >-
   accuracy as the evaluation metric.
 related:
   - INS-260329-3D3E
+  - INS-260410-DA81
   - PRI-260403-6E50
   - INS-260327-5D5F
   - INS-260402-3FD8
-  - INS-260326-0AB4
 ---
 The course identifies class imbalance as one of the most common and least-discussed failure modes in applied ML. When one class significantly outnumbers another in the training data, the model learns that predicting the majority class is a safe strategy that minimizes overall loss. The minority class - often the one you actually care about detecting (fraud, disease, defects) - gets systematically ignored.
 

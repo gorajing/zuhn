@@ -50,11 +50,11 @@ stance: >-
   representations bear no resemblance to the interpretable feature hierarchies
   humans expect them to learn
 related:
+  - INS-260410-F08E
   - INS-260330-0FCC
   - INS-260330-3879
   - INS-260325-FD14
   - INS-260330-7DCF
-  - PRI-260406-CC90
 evidence:
   - id: INS-260330-0FCC
     type: TRANSFERS_TO

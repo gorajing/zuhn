@@ -53,7 +53,6 @@ stance: >-
   therapeutic power comes from dissolving the sense of self and identity, not
   from visual effects.
 related:
-  - INS-260323-4ADE
   - PRI-260325-2DE6
   - PRI-260406-5D76
   - INS-260330-3748

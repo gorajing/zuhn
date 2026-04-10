@@ -45,11 +45,12 @@ resolutions:
 related:
   - INS-260323-D56E
   - INS-260409-5C28
+  - INS-260410-3E86
   - INS-260403-708E
   - INS-260325-0409
   - PRI-260405-6A4E
-  - INS-260327-6E57
   - INS-260330-EE25
+  - INS-260410-0EFE
 stance: >-
   Bayesian wind tunnel experiments prove transformers perform exact Bayesian
   posterior updating to 10^-3 bits accuracy, but this mechanism is purely ...

@@ -54,6 +54,7 @@ related:
   - INS-260403-91F7
   - INS-260323-FEAB
   - INS-260321-2D72
+  - INS-260410-B8EB
 ---
 In SaaS, the playbook is straightforward: build once, acquire users, and enjoy near-zero marginal costs with 70-80% margins. AI breaks this model fundamentally. Every query, generation, and inference carries a real cost in tokens and GPU compute. A startup charging $29/month with $0.002/query looks healthy at 1,000 users ($1/user/month cost), but at 100,000 users the inference bill hits $10M/year.
 

@@ -7,8 +7,8 @@
 - `INS-260330-A3AF` Confidence problems are usually domain-specific, meaning the person already has the psychological machinery — they just need to extend it to the problem area.
 - `INS-260323-97DB` Adams never thought losing was possible — he entered every contest expecting to win, which meant his only losses were Olympic and World Championship finals on split decisions.
 - `INS-260329-8986` CS50's enrollment data proves that perceived prerequisites are the real gatekeepers, not actual skill requirements.
-- `INS-260325-E84D` Dunning-Kruger creates a confidence inversion: beginners are most confident, experts least — because skill builds the capacity to see gaps.
 - `INS-260405-80B0` Being slightly overconfident armors you against both others' skepticism and your own harsh early-work judgments.
+- `INS-260325-E84D` Dunning-Kruger creates a confidence inversion: beginners are most confident, experts least — because skill builds the capacity to see gaps.
 - `INS-260403-0B99` Adults avoid new disciplines not from inability but from fear that replaces teenage ignorance-driven confidence.
 - `INS-260329-0487` Self-doubt is eliminated by compressing thousands of reps into the shortest possible timeframe, forcing neurological adaptation rather than relying on affirmations.
 - `INS-260404-405A` Never verbally claim passion or quality — audiences discount explicit self-praise but heavily weight the implicit confidence of your delivery.

@@ -4,5 +4,6 @@
 - `INS-260404-F227` Optimizing creative output for audience surprise is less effective than following genuine curiosity, because curiosity-driven exploration surfaces authentically novel ideas.
 - `INS-260404-AB0F` When copying good work, deliberately identify what makes it good rather than defaulting to its most visible and easily copied surface features.
 - `INS-260403-7093` Leonardo's most impressive works were exploratory drawings made for himself, not commissioned pieces meant to please.
+- `INS-260409-BBB5` Matuschak spent 17,000 and 6,000 words writing essays on how to write good cards — answering the question requires a theory of knowledge, a theory of representation, and a theory of learning, and the quality of the cards directly determines the quality of the medium.
 - `INS-260404-7325` The secret weapon of top founders is that money isn't their primary driver — the company is their creative project.
 - `INS-260327-B403` Treating software as a creative medium rather than a tool produces products that touch people emotionally.

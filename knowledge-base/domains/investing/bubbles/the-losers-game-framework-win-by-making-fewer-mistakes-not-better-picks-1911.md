@@ -50,12 +50,11 @@ stance: >-
   minimizing unforced errors rather than attempting brilliant stock picks that
   are statistically near-impossible.
 related:
-  - INS-260325-0688
   - INS-260325-9DBB
+  - INS-260325-0688
   - INS-260330-7E3F
   - PRI-260328-BD9B
   - INS-260323-1B42
-  - INS-260326-CAAB
 evidence:
   - id: INS-260330-7E3F
     type: TRANSFERS_TO

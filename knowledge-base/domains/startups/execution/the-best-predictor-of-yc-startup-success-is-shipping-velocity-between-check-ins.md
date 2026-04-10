@@ -50,7 +50,6 @@ stance: >-
   Consistent incremental output between advisor meetings predicts startup
   success better than any other single signal
 related:
-  - INS-260326-6870
   - INS-260327-0826
   - INS-260327-1996
   - INS-260330-8920

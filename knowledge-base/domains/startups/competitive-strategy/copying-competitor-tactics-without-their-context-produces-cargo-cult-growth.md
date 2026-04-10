@@ -60,6 +60,7 @@ related:
   - INS-260330-2B5F
   - INS-260403-0907
   - PRI-260406-B9E0
+  - INS-260410-FBAA
   - PRI-260405-49C0
 ---
 When companies copy competitor features or growth tactics, they're cargo-culting: replicating the visible artifact without the underlying learning that produced it. You don't know if what you're seeing is their actual experience, whether it's working for them, or what customer-specific insights led to that solution. Their tactics are fitted to their specific user base, channels, and competitive position.

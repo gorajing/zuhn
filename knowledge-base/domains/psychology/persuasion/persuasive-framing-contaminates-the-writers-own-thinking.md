@@ -41,7 +41,6 @@ stance: >-
   gradually lose the ability to distinguish their actual ideas from the spin
   they added.
 related:
-  - INS-260330-A151
   - INS-260330-AB5D
   - INS-260330-6A3A
   - PRI-260405-262B

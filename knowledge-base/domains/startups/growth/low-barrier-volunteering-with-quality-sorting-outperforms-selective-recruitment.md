@@ -53,7 +53,7 @@ related:
   - PRI-260328-C006
   - INS-260328-4717
   - INS-260403-EF2C
-  - INS-260330-6BBD
+  - INS-260409-ADD0
 ---
 The ACX meetup system asks everyone to volunteer regardless of confidence or qualifications, then sorts among multiple applicants per city afterward. The explicit reasoning: an unexcited, unqualified organizer in a city is better than no organizer at all. This inverts the typical hiring/selection mindset where you screen for quality upfront.
 

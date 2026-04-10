@@ -52,7 +52,7 @@ related:
   - PRI-260405-0AC6
   - INS-260409-C016
   - PRI-260406-6AE6
-  - PRI-260321-14D8
+  - INS-260409-E730
 stance: >-
   Wikipedia's predecessor Nupedia had a 7-stage academic review process that
   produced almost nothing in 2 years

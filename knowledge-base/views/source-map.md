@@ -1,5 +1,5 @@
 # Source Map
-Generated on 2026-04-10 | 2454 sources
+Generated on 2026-04-10 | 2477 sources
 
 | Source | Type | Insights | Date |
 |--------|------|----------|------|
@@ -63,6 +63,7 @@ Generated on 2026-04-10 | 2454 sources
 | Why Are Bad Words Bad? | youtube | 13 | 2026-03-30 |
 | Why Do We Kiss? | youtube | 13 | 2026-03-30 |
 | Zombie Startups: Should They Shut Down or Keep Going? | youtube | 13 | 2026-04-09 |
+| GitHub - milla-jovovich/mempalace: The highest-scoring AI memory system ever benchmarked. And it's free. | blog | 12 | 2026-04-10 |
 | But How Does a Computer Actually Work? (from scratch, no prior knowledge needed) | youtube | 12 | 2026-04-09 |
 | $6.7M ARR, No Paid Ads, and an Exit to Quizlet in 2 Years — Coconote | youtube | 12 | 2026-03-20 |
 | How Social Media Algorithms Actually Work (And How to Beat Them) | youtube | 12 | 2026-04-09 |
@@ -79,6 +80,7 @@ Generated on 2026-04-10 | 2454 sources
 | How to Win With AI in 2026 | youtube | 11 | 2026-04-09 |
 | Inside the Mind of a Master Procrastinator | Tim Urban | TED | youtube | 11 | 2026-03-25 |
 | Paul Rosolie: Amazon Jungle, Uncontacted Tribes, Anacondas, and Ayahuasca | Lex Fridman Podcast #369 | youtube | 11 | 2026-03-30 |
+| How can we develop transformative tools for thought? | blog | 10 | 2026-04-10 |
 | $100M CEO Explains How to Build A Brand in 2024 | youtube | 10 | 2026-03-30 |
 | 13 Foods You Should NEVER Buy Organic | youtube | 10 | 2026-03-26 |
 | 14 Money Mistakes to AVOID in Your 20's | youtube | 10 | 2026-03-30 |
@@ -168,6 +170,10 @@ Generated on 2026-04-10 | 2454 sources
 | Why the body doesn't keep the score: the real science of trauma in 90 mins I George Bonanno | youtube | 9 | 2026-03-25 |
 | Yuval Noah Harari: Why advanced societies fall for mass delusion | youtube | 9 | 2026-03-25 |
 | Zimbabwe’s Currency Crisis: the worthless $100 trillion bill | youtube | 9 | 2026-03-30 |
+| A Treatise on AI Chatbots Undermining the Enlightenment | blog | 8 | 2026-04-10 |
+| Home-Cooked Software and Barefoot Developers | blog | 8 | 2026-04-10 |
+| Julia Galef on the Scout Mindset - Econlib | blog | 8 | 2026-04-10 |
+| RAG Is A Hack - with Jerry Liu from LlamaIndex | blog | 8 | 2026-04-10 |
 | 2025 Year In Review | youtube | 8 | 2026-03-29 |
 | A $350,000 AI AD Using Only 1 Tool (2026) | youtube | 8 | 2026-04-09 |
 | A Day In My Life for Longevity (Live to 120+) | youtube | 8 | 2026-03-26 |
@@ -226,6 +232,7 @@ Generated on 2026-04-10 | 2454 sources
 | Startup FP&A Model: Build a Real Operating Plan | blog | 6 | 2026-03-30 |
 | The Infinite Game: What Artists Know That Founders Don’t | blog | 6 | 2026-03-31 |
 | 1177 BC: The vanishing of the first globalized world | Eric Cline: Full Interview | youtube | 6 | 2026-03-25 |
+| [1hr Talk] Intro to Large Language Models | youtube | 6 | 2026-04-10 |
 | $215M AI CEO: How I’d Build a Profitable AI Startup in 30 Days (2026 Playbook) | youtube | 6 | 2026-03-22 |
 | Deciphering Secrets of Ancient Civilizations, Noah's Ark, and Flood Myths | Lex Fridman Podcast #487 | youtube | 6 | 2026-03-24 |
 | How to Build a Magnetic Brand that Sells Itself ft. Seth Godin | youtube | 6 | 2026-03-27 |
@@ -666,6 +673,10 @@ Generated on 2026-04-10 | 2454 sources
 | Brutally Honest Truths That Give You an Unfair Advantage in Life | youtube | 5 | 2026-03-30 |
 | Build a Mindblowing 3D Portfolio Website // Three.js Beginner’s Tutorial | youtube | 5 | 2026-03-30 |
 | Building A Big Company: Non-Obvious Insights | youtube | 5 | 2026-03-29 |
+| Building makemore Part 2: MLP | youtube | 5 | 2026-04-10 |
+| Building makemore Part 3: Activations & Gradients, BatchNorm | youtube | 5 | 2026-04-10 |
+| Building makemore Part 4: Becoming a Backprop Ninja | youtube | 5 | 2026-04-10 |
+| Building makemore Part 5: Building a WaveNet | youtube | 5 | 2026-04-10 |
 | Bullets HITTING Bullets in Slow Motion - THE IMPOSSIBLE SHOT - Smarter Every Day 287 | youtube | 5 | 2026-03-30 |
 | But how does bitcoin actually work? | youtube | 5 | 2026-03-30 |
 | But what is the Fourier Transform?  A visual introduction. | youtube | 5 | 2026-03-30 |
@@ -679,6 +690,7 @@ Generated on 2026-04-10 | 2454 sources
 | Controlling Your Dopamine For Motivation, Focus & Satisfaction | youtube | 5 | 2026-03-30 |
 | David Deutsch: Knowledge Creation and The Human Race, Part 1 | youtube | 5 | 2026-03-30 |
 | David Kipping: Alien Civilizations and Habitable Worlds | Lex Fridman Podcast #355 | youtube | 5 | 2026-03-30 |
+| Deep Dive into LLMs like ChatGPT | youtube | 5 | 2026-04-10 |
 | Diet & Nutrition for Mental Health | Dr. Chris Palmer | youtube | 5 | 2026-03-30 |
 | Donald Hoffman: Reality is an Illusion - How Evolution Hid the Truth | Lex Fridman Podcast #293 | youtube | 5 | 2026-03-30 |
 | Donald Trump Interview | Lex Fridman Podcast #442 | youtube | 5 | 2026-03-30 |
@@ -703,6 +715,7 @@ Generated on 2026-04-10 | 2454 sources
 | How Does A Carburetor Work? | Transparent Carburetor at 28,546 fps Slow Mo - Smarter Every Day 259 | youtube | 5 | 2026-03-30 |
 | How evolution works in 54 minutes | Sean B. Carroll: Full Interview | youtube | 5 | 2026-03-25 |
 | How I built an app that makes $2,000 in one month (from scratch) | youtube | 5 | 2026-03-22 |
+| How I use LLMs | youtube | 5 | 2026-04-10 |
 | How McDonald's Really Makes Money | youtube | 5 | 2026-03-30 |
 | How Meditation Works & Science-Based Effective Meditations | youtube | 5 | 2026-03-30 |
 | How North Korea Makes Money | youtube | 5 | 2026-03-30 |
@@ -750,6 +763,9 @@ Generated on 2026-04-10 | 2454 sources
 | Lecture 14 - How to Operate (Keith Rabois) | youtube | 5 | 2026-03-31 |
 | Lecture 9 - How to Raise Money (Marc Andreessen, Ron Conway, Parker Conrad) | youtube | 5 | 2026-03-31 |
 | Let Us Not Talk Falsely Now | youtube | 5 | 2026-03-30 |
+| Let's build GPT: from scratch, in code, spelled out. | youtube | 5 | 2026-04-10 |
+| Let's build the GPT Tokenizer | youtube | 5 | 2026-04-10 |
+| Let's reproduce GPT-2 (124M) | youtube | 5 | 2026-04-10 |
 | Male inequality, explained by an expert | Richard Reeves | youtube | 5 | 2026-03-30 |
 | Marc Andreessen's 2026 Outlook: AI Timelines, US vs. China, and The Price of AI | youtube | 5 | 2026-03-22 |
 | Master OpenClaw in 10 Hours [I Created 5 AI Employees] | youtube | 5 | 2026-03-22 |
@@ -813,6 +829,7 @@ Generated on 2026-04-10 | 2454 sources
 | The Science of Making & Breaking Habits | youtube | 5 | 2026-03-30 |
 | The Secret Chinese Company That Owns Everything | youtube | 5 | 2026-03-30 |
 | The Skills Required for a $300k+ Tech Sales Job (Enterprise Sales) | youtube | 5 | 2026-03-27 |
+| The spelled-out intro to language modeling: building makemore | youtube | 5 | 2026-04-10 |
 | The strongest arguments for and against the existence of God | Alex O'Connor: Full Interview | youtube | 5 | 2026-03-25 |
 | The Surprising Secret of Synchronization | youtube | 5 | 2026-03-30 |
 | The Timeless Business of Steakhouses | youtube | 5 | 2026-03-24 |
@@ -1414,6 +1431,7 @@ Generated on 2026-04-10 | 2454 sources
 | The Psychology of Making Money | youtube | 4 | 2026-03-23 |
 | The Secret Marketing Strategy That Built a16z: From Zero to Legendary VC Firm | youtube | 4 | 2026-03-22 |
 | The Simplest Math Problem No One Can Solve - Collatz Conjecture | youtube | 4 | 2026-03-30 |
+| The spelled-out intro to neural networks and backpropagation: building micrograd | youtube | 4 | 2026-04-10 |
 | The Territorial Business of Tacos | youtube | 4 | 2026-03-24 |
 | The Tiny Donut That Proved We Still Don't Understand Magnetism | youtube | 4 | 2026-03-23 |
 | The Trillion Dollar Equation | youtube | 4 | 2026-03-23 |
@@ -2180,6 +2198,10 @@ Generated on 2026-04-10 | 2454 sources
 | Building the Zuhn knowledge base — lessons from Phase 1-5 | paste | 0 | 2026-03-20 |
 | Cross-domain synthesis — Phase 20 bridging insights | paste | 0 | 2026-03-27 |
 | The Leverage Field Manual — How to multiply your output without working more | paste | 0 | 2026-03-22 |
+| 2504.19874v1 | pdf | 0 | 2026-03-26 |
+| @u.northwestern.edu Mail - How Roblox Uses AI to Translate 16 Languages in 100 Milliseconds | pdf | 0 | 2026-03-30 |
+| @u.northwestern.edu Mail - The Agentic AI Tipping Point | pdf | 0 | 2026-03-30 |
+| Claude for Finance | pdf | 0 | 2026-03-22 |
 | This Automation Took Me From 0 to 175k Followers in Under 12 Months | reddit | 0 | 2026-03-20 |
 | After learning this, my AI workflows cost me 30x less | reddit | 0 | 2026-03-20 |
 | Claude Code usage limit hack | reddit | 0 | 2026-03-20 |
@@ -2192,10 +2214,6 @@ Generated on 2026-04-10 | 2454 sources
 | I built a workflow that turns YouTube transcripts into newsletter style summaries | reddit | 0 | 2026-03-20 |
 | Sound Design Breakdown [and tutorial] | reddit | 0 | 2026-03-20 |
 | [Tutorial] All there is to know about syncing video and audio | reddit | 0 | 2026-03-20 |
-| 2504.19874v1 | pdf | 0 | 2026-03-26 |
-| @u.northwestern.edu Mail - How Roblox Uses AI to Translate 16 Languages in 100 Milliseconds | pdf | 0 | 2026-03-30 |
-| @u.northwestern.edu Mail - The Agentic AI Tipping Point | pdf | 0 | 2026-03-30 |
-| Claude for Finance | pdf | 0 | 2026-03-22 |
 | 10 contrarian leadership truths every leader needs to hear | Matt MacInnis (Rippling) | blog | 0 | 2026-03-31 |
 | 10 lessons on bootstrapping a $200m business | Patrick Campbell (ProfitWell) | blog | 0 | 2026-03-31 |
 | 100 AI Agent Ideas to Build in 2026 (Complete List + Tools) | blog | 0 | 2026-03-30 |
@@ -2456,4 +2474,9 @@ Generated on 2026-04-10 | 2454 sources
 | Mind Field - Official Trailer | youtube | 0 | 2026-03-30 |
 | Python in 100 Seconds | youtube | 0 | 2026-03-30 |
 | Spend More Time Making the Big Decisions | youtube | 0 | 2026-03-30 |
+| Stable diffusion dreams of "blueberry spaghetti" for one night | youtube | 0 | 2026-04-10 |
+| Stable diffusion dreams of psychedelic faces | youtube | 0 | 2026-04-10 |
+| Stable diffusion dreams of steam punk neural networks | youtube | 0 | 2026-04-10 |
+| Stable diffusion dreams of steampunk brains | youtube | 0 | 2026-04-10 |
+| Stable diffusion dreams of tattoos | youtube | 0 | 2026-04-10 |
 | Your desires are not yours. | youtube | 0 | 2026-03-30 |

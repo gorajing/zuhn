@@ -52,13 +52,12 @@ stance: >-
   those who expect smooth progress, because difficulty never surprises them
 related:
   - INS-260327-088D
-  - INS-260329-D481
   - INS-260330-9197
   - INS-260402-62E3
-  - INS-260403-6CE8
   - INS-260330-579B
   - PRI-260323-2C5C
   - INS-260323-244C
+  - INS-260329-D481
 ---
 Huang argues that low expectations are a strategic advantage because they remove the psychological shock of difficulty. Leaders who expect smooth progress fracture when reality pushes back — they interpret friction as failure rather than as the normal texture of ambitious work. Leaders who assume friction as baseline adjust faster because their mental model already accounts for resistance.
 

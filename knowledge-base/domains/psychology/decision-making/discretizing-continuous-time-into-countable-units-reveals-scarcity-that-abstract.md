@@ -47,11 +47,11 @@ stance: >-
   2-year-old, 8 magical Christmases) makes time scarcity viscerally real in a
   way that abstract awareness of mortality cannot
 related:
-  - INS-260323-DA4E
   - INS-260327-8C74
   - PRI-260406-8778
+  - INS-260323-DA4E
+  - INS-260409-6DBE
   - INS-260403-D294
-  - INS-260323-A55A
 evidence:
   - id: INS-260323-A55A
     type: SUPPORTS

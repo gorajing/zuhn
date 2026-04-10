@@ -53,7 +53,6 @@ stance: >-
   objects with properties and behaviors.
 related:
   - INS-260321-7D7C
-  - INS-260325-4C6D
   - INS-260323-B309
   - INS-260328-60C7
   - PRI-260328-9E3F
@@ -62,6 +61,7 @@ related:
   - INS-260329-04FA
   - PRI-260405-2DE5
   - INS-260329-41BC
+  - INS-260330-BA71
 evidence:
   - id: INS-260321-7D7C
     type: SUPPORTS

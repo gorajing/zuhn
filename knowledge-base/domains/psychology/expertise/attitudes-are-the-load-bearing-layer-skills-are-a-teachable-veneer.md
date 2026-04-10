@@ -46,8 +46,8 @@ related:
   - INS-260322-CC69
   - INS-260329-7D18
   - INS-260330-4341
+  - INS-260409-A62B
   - INS-260403-62AF
   - PRI-260403-EA13
-  - INS-260330-43EE
 ---
 Itzler's mentor argued that skills can be taught but attitudes are largely fixed by adulthood — meaning the scarce input to any career or team is the underlying disposition, not the resume. For founders, this translates into hiring for curiosity, enthusiasm, and integrity and training for technical capability. For self-development, it means cultivating attitudes is higher-leverage than accumulating credentials, because an excellent attitude compounds across every skill you subsequently acquire. The corollary: under-performing teammates with bad attitudes are usually unfixable, not a training problem.

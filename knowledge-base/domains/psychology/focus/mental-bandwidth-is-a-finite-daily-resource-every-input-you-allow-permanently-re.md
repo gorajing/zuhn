@@ -55,8 +55,8 @@ related:
   - INS-260322-E90F
   - INS-260321-6437
   - INS-260323-F310
-  - INS-260329-565E
   - INS-260330-4285
+  - INS-260330-B360
 stance: >-
   Your total capacity to focus resets each day; every input (email, podcast,
   notification) you let in takes permanent space until the next reset

@@ -56,7 +56,6 @@ stance: >-
   output, and this overhead ratio is a fundamental constraint, not a sign of
   dysfunction
 related:
-  - INS-260327-2B94
   - INS-260330-8C52
   - INS-260330-E068
   - INS-260403-5648

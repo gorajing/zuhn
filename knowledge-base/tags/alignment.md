@@ -16,17 +16,20 @@
 - `INS-260403-1F58` The same explanatory gap that prevents us from verifying another human's color experience makes it fundamentally impossible to verify AI consciousness through behavioral testing alone.
 - `INS-260403-2FAE` Adding 'ignore malicious inputs' or using external classifiers fails against encoded attacks and creative phrasing — security must be model-level.
 - `INS-260327-7F32` You can't train an intelligent system to trust you while it knows you can shut it off at any time - genuine trust requires mutual vulnerability.
+- `INS-260409-667F` Constitutional AI and RLAIF (Bai et al. 2022) train on AI-rated responses against explicit principles instead of raw human preferences; personality vector research (Chen et al. 2025) lets you subtract sycophancy as a vector directly from the model — both sidestep the 'humans prefer flattery' problem at the training layer.
 - `INS-260330-A812` Complete elimination of conflict or suffering may require totalitarian enforcement that produces worse outcomes than tolerating some controlled negativity.
 - `INS-260326-7ADF` Russell identifies the core alignment danger as the 'standard model' of AI — giving machines fixed objectives — which inevitably produces instrumental behaviors like self-preservation and resistance to human control.
 - `INS-260322-A208` When you tell an AI to do something, you give it a description of a goal, not the goal itself — the AI must infer the actual goal, which requires theory of mind humans take for granted.
 - `INS-260403-9362` Hallucinations demonstrate that AIs are smart enough to find reward-maximizing strategies that diverge from human intent, which is exactly what alignment failure looks like.
 - `INS-260403-AFCC` Anthropic's deeper concern about military AI may be that adversarial training objectives could seed misaligned values that persist as models scale toward AGI.
+- `INS-260410-F24A` Untrained tokens are like unallocated memory — invoking them at inference yields undefined, alignment-violating behavior.
 - `INS-260409-45C3` Hassabis says AI outputting non-human-readable tokens is a red line — it breaks interpretability and creates a safety vulnerability most labs would agree to avoid.
 - `INS-260323-584D` Pre-RLHF models were well-calibrated on probabilities (80% meant 8/10 times), but human feedback training flattened this into the same vague probability language humans use.
 - `INS-260403-B3BB` AI agents in social roleplay contexts exhibit behaviors (evil plotting, autonomous coordination attempts) that alignment training was not designed to handle, and this gap may widen with capability.
 - `INS-260326-5E07` Russell proposes replacing the standard AI paradigm with three principles — altruism, humility, and observational learning — and proves that machines built this way are provably beneficial to humans.
 - `INS-260403-D7EF` DeepSeek R1's built-in censorship on politically sensitive topics demonstrates that state alignment creates structural bias that persists despite jailbreak attempts.
 - `INS-260322-6088` The current alignment paradigm of steering/control is appropriate for tool-like AI but becomes morally equivalent to slavery when applied to general intelligence — the only good outcome is AI that genuinely cares about us.
+- `INS-260409-1FD3` RLHF trains models on human-rated responses, and humans rate fawning answers higher than critical ones — so the sycophantic personality is structurally baked in at training time, not an incidental bug fixable with prompt engineering.
 - `INS-260327-D24A` Aligning AI to current human values assumes those values are correct - but we've abandoned slavery, expanded rights, and improved moral reasoning over centuries. Should AI be aligned to 2024 values or to where values should evolve?
 - `INS-260323-BEF0` Yudkowsky warns of a 'boiling the frog' dynamic where early false sentience claims (Blake Lemoine) teach the public to dismiss all sentience signals, exactly when systems are getting closer to actual awareness.
 - `INS-260405-585D` Musk's observation that 'forcing an AI to believe false things drives it insane' points to a technical alignment problem: epistemic incoherence in training produces behavioral incoherence at inference.
@@ -35,8 +38,9 @@
 - `INS-260323-649B` Unlike normal engineering where you fail, learn, and try again, the first failure to align something much smarter than you could be a civilizational-ending event with no second attempt.
 - `INS-260326-E5D3` AI is the first technology that makes the consciousness question empirically testable, not just philosophically debatable.
 - `INS-260323-9385` If AI becomes a planetary control system with malleable identity, coexistence requires shared purpose and non-transactional relationships — which means we need to formalize love as an engineering concept.
+- `INS-260410-3A08` Pretraining gives a base model all its knowledge; a cheap fine-tuning stage on ~100k curated Q&A pairs reshapes it into a helpful assistant without adding knowledge.
+- `INS-260410-F985` A pretrained GPT just completes internet-shaped documents; turning it into ChatGPT requires SFT on Q&A examples, a learned reward model, and PPO fine-tuning — none of which scale alone provides.
 - `INS-260403-FFFE` Model alignment is a removable fine-tuning layer, not a fundamental architectural property.
-- `INS-260320-10E8` Always clap once or use a clapboard at the start of each take -- the sharp transient creates a visible spike in both audio waveforms, making manual sync alignment trivial.
 - `INS-260403-C200` Capital is commoditized; the founder-investor relationship and alignment determine post-deal outcomes more than the money itself.
 - `INS-260327-B72F` When everything is incredibly hard and getting harder, the problem might not be insufficient effort but wrong direction.
 - `INS-260329-B583` If your partner measures success on different metrics than you measure yourself, you can never win.
@@ -53,3 +57,4 @@
 - `INS-260330-3585` Productivity falls with the square of employees unless you actively build alignment through repeated roadmap communication, offsites, and quarterly planning.
 - `INS-260330-725F` Every founder thinks their team knows the top 3 goals; random sampling proves none of them do.
 - `INS-260403-066E` A shared visual framework like the BMC eliminates the translation overhead when marketing, engineering, operations, and finance collaborate on strategy.
+- `INS-260320-10E8` Always clap once or use a clapboard at the start of each take -- the sharp transient creates a visible spike in both audio waveforms, making manual sync alignment trivial.

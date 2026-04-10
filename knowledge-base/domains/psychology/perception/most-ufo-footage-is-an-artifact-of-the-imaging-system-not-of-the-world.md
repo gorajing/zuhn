@@ -44,9 +44,9 @@ stance: >-
   'the footage shows an object' is itself the claim that usually fails.
 related:
   - INS-260327-9DB0
+  - INS-260410-4CE7
   - INS-260403-A408
   - INS-260325-696D
   - INS-260327-A817
-  - INS-260322-A208
 ---
 The physicist walks through specific debunks: the famous 'triangular UFO' in US Air Force hearings is the lens-aperture shape of the camera imaging a point light source in the dark, and the telltale blink pattern matches standard USAF aircraft navigation lights. The 2004 Navy 'Tic-Tac' video is a thermal image, where the puffy round shape is heat radiation footprint rather than object outline, and with unknown distance the apparent velocity is not constrained. A 2026 viral Mexico video turned out to be an AI upscaling of a mundane balloon with Disney cartoon characters attached. The pattern: imaging-system artifacts dominate the 'strange' corpus, so analysts should treat the instrument as a suspect before the sky.

@@ -54,7 +54,6 @@ stance: >-
   segmentation — rather than any single cause, suggesting the pattern is
   inherent to how minds model complexity.
 related:
-  - INS-260323-3920
   - INS-260323-F963
   - INS-260404-673B
   - INS-260326-3B43

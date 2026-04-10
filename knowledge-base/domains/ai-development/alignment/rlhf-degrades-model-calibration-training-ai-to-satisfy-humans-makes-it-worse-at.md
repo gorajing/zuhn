@@ -52,15 +52,15 @@ resolutions:
     domains where the model outperforms human judgment.
 related:
   - PRI-260403-EA13
+  - INS-260409-1FD3
   - INS-260404-CE26
   - PRI-260325-45A2
   - PRI-260323-8E89
-  - INS-260330-B08E
   - INS-260329-3D3E
   - INS-260329-7F02
+  - INS-260330-B08E
   - INS-260330-B153
   - INS-260402-613D
-  - INS-260403-7EA1
 stance: >-
   Pre-RLHF models were well-calibrated on probabilities (80% meant 8/10 times),
   but human feedback training flattened this into the same vague probab...

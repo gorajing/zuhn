@@ -55,10 +55,10 @@ stance: >-
   fraction of the cost.
 related:
   - INS-260329-8D70
+  - INS-260410-268D
   - PRI-260407-5465
   - INS-260329-EF14
   - INS-260325-9C89
-  - INS-260326-CAAB
 evidence:
   - id: INS-260329-8D70
     type: SUPPORTS

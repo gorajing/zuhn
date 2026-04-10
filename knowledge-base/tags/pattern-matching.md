@@ -7,8 +7,8 @@
 - `INS-260330-FB34` Destin discovered he could not eliminate his steering bias but only re-designate it, suggesting cognitive biases are structural rather than removable.
 - `INS-260403-E419` Harvard research found investors ask men promotion-oriented questions about scaling and growth while asking women prevention-oriented questions about risks and challenges, directly shaping funding outcomes.
 - `INS-260404-4127` Give a founder one sentence of advice and observe whether they chase down all its implications — this tests general resourcefulness, not just communication skill.
-- `INS-260404-9E63` Switch from listing reasons an idea won't work to imagining ways it could — especially in domains with power-law outcome distributions.
 - `INS-260403-CE70` Repeat founders often fail by transplanting an entire operating system from their last startup without testing whether it fits the new market, team, or timing.
+- `INS-260404-9E63` Switch from listing reasons an idea won't work to imagining ways it could — especially in domains with power-law outcome distributions.
 - `INS-260404-312D` Investors — supposedly experts at recognizing productive companies — are just as susceptible to mistaking professional appearance for real output.
 - `INS-260403-2647` The product needs a strange, unfair edge, but the story must be legible enough to pass through fund partners, investment committees, and LP updates.
 - `INS-260405-95CB` Lenny admits passing on PostHog early because he didn't believe the all-in-one platform strategy would work—a classic case of conventional wisdom blocking a contrarian bet.

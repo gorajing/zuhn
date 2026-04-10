@@ -1,6 +1,5 @@
 # Tag: negotiation
 
-- `INS-260403-7795` The breakeven multiple — how much value you must create in a given timeframe to hit your target IRR — turns abstract return goals into concrete deal criteria.
 - `INS-260327-E052` Napoleon assumed Alexander would sue for peace after Moscow fell — but the Russian Tsar had resolve Napoleon couldn't model from his own experience.
 - `INS-260330-5A0B` Nuclear threats function as a renewable resource for extracting aid through a predictable escalation-concession cycle.
 - `INS-260323-4473` In business you solve a problem and move on; in political deal-making, the conclusion of one problem set is the beginning of an entirely new paradigm that must sustain itself.
@@ -8,14 +7,15 @@
 - `INS-260330-3BBD` Trump's provocative approach to NATO allies finally broke the 50-year free-rider equilibrium that conventional diplomacy could not.
 - `INS-260323-3CD0` When Trump recognized Jerusalem as Israel's capital — something everyone said would 'end the world' — the sun rose the next morning, proving the barrier was artificial and opening space for the Abraham Accords.
 - `INS-260330-3570` Arguments that start by explicitly naming what is being disagreed about — and what is not — dramatically outperform arguments that jump straight into positions.
+- `INS-260403-7795` The breakeven multiple — how much value you must create in a given timeframe to hit your target IRR — turns abstract return goals into concrete deal criteria.
 - `INS-260330-B444` Cities surrendered to the Mongols on arrival because the reputation for total destruction made resistance seem irrational.
 - `INS-260404-94EB` We default to personality explanations for disinterest when the real cause is often structural incentive misalignment.
-- `INS-260330-4E5F` Both the Israeli and Palestinian historical narratives are factually grounded, yet they support mutually exclusive territorial claims.
 - `INS-260403-5681` SEIU weaponized ballot initiatives as destruction threats to extract concessions worth 16x their investment.
 - `INS-260403-6713` Corp dev teams systematically flip the dynamic so founders end up selling themselves rather than being courted.
 - `INS-260402-7FCC` Be optimistic about what you can do but assume every external deal will fall through — not to avoid disappointment but to prevent leaning your company against something that will collapse.
 - `INS-260330-A954` When an investor says 'I want to invest but I don't lead,' translate to 'No, except yes if you become a hot deal.'
 - `INS-260404-98EE` Narratives dominate negotiations only until one side introduces a formal model—then the conversation shifts irreversibly to quantitative terms.
+- `INS-260330-4E5F` Both the Israeli and Palestinian historical narratives are factually grounded, yet they support mutually exclusive territorial claims.
 - `INS-260403-B887` Present proposals in terms of what the audience already cares about, not what you care about.
 - `INS-260330-5C69` Deliberately deceiving an adversary in negotiations to buy time destroys the possibility of future diplomatic solutions, often at catastrophic long-term cost.
 - `INS-260323-CB47` In both Newcomb's Paradox and nuclear deterrence, the best outcome follows from a credible, irrevocable commitment to a seemingly worse option.
@@ -23,6 +23,10 @@
 - `INS-260405-DEF2` Being the only or one of two options in a category gives you more leverage over suppliers than volume alone ever could.
 - `INS-260403-91FD` Train yourself to treat deals as background processes — ignore them until they close or die, because emotional dependence makes both you and the deal weaker.
 - `INS-260323-F540` JFK's greatest quality was not courage but curiosity — the ability to see the world from adversaries' perspectives enabled breakthroughs like the Cuban Missile Crisis resolution.
+- `INS-260323-4D5E` People decide based on what they care about first, then construct rational justifications — which makes reason itself an emotion-based process.
+- `INS-260323-46B2` The perceived tension between empathy and assertiveness is a sequencing illusion — empathy first puts you in position to assert effectively.
+- `INS-260323-28FB` People endure incredible hardship today if the future portends what they want — so start negotiations by finding a shared future state and work backward.
+- `INS-260323-8271` Empathy is not sympathy or agreement — it is articulating where someone is coming from, which requires zero concession and works even with hostile counterparts.
 - `INS-260404-3275` Board votes are almost always unanimous — the side that would lose adjusts its position before the vote happens.
 - `INS-260330-0AA7` Talk to all investors in parallel but allocate attention proportional to expected value (likelihood × quality).
 - `INS-260403-4960` Tell investors truthfully about competing interest to create real urgency, but never exaggerate — investors are hypersensitive to manipulation.
@@ -47,10 +51,6 @@
 - `INS-260402-A22C` After a VC partner buys in, shift from pitching mode to collaborative mode — help them tailor the pitch for their partnership meeting.
 - `INS-260403-0CBA` Combine 2-3 valuation methods to present a defensible range rather than a single number.
 - `INS-260403-11E3` Exit waterfall modeling reveals how deal terms actually distribute value at different exit sizes, exposing whether employee equity retains meaningful upside.
-- `INS-260323-4D5E` People decide based on what they care about first, then construct rational justifications — which makes reason itself an emotion-based process.
-- `INS-260323-46B2` The perceived tension between empathy and assertiveness is a sequencing illusion — empathy first puts you in position to assert effectively.
-- `INS-260323-28FB` People endure incredible hardship today if the future portends what they want — so start negotiations by finding a shared future state and work backward.
-- `INS-260323-8271` Empathy is not sympathy or agreement — it is articulating where someone is coming from, which requires zero concession and works even with hostile counterparts.
 - `INS-260329-21AF` Lock in the price first, then negotiate favorable terms like seller financing and extended payment schedules as a separate conversation.
 - `INS-260329-2A5A` Leaving value on the table in negotiations builds relationship capital that generates more lifetime revenue than extraction.
 - `INS-260329-3D14` Treating negotiation as mutual value discovery rather than extraction creates better deals and preserves relationships.

@@ -1,16 +1,19 @@
 # Tag: compression
 
+- `INS-260409-6560` MemPalace's 96.6% LongMemEval R@5 comes from raw verbatim ChromaDB storage; their own AAAK lossy compression scores only 84.2% — a 12.4 point regression that inverts the expected efficiency-quality trade-off at small scales.
 - `INS-260325-D392` PolarQuant converts Cartesian vectors to polar coordinates, revealing that angle distributions are naturally concentrated — making compression trivial without the normalization overhead traditional methods require.
 - `INS-260330-6BBD` Forcing a neural net to compress vastly more data than it can memorize pushes it to discover higher-level algorithmic representations.
 - `INS-260325-6150` TurboQuant compresses LLM key-value caches to 3 bits with zero accuracy loss, achieving 6-8x memory reduction and 8x inference speedup.
 - `INS-260326-8201` At 3.5 bits per channel (4.5x compression), TurboQuant matches full-precision Llama 3.1 8B on LongBench with zero quality loss; at 2.5 bits (6.4x), quality degradation is marginal.
+- `INS-260410-4E62` LLM parameters are best understood as a ~100x lossy compression of training text — the model 'dreams' distributions rather than retrieving stored facts.
 - `INS-260329-A171` Suffix arrays replaced suffix trees by storing only sorted indices instead of full tree structures, recovering equivalent power through the LCP auxiliary array.
 - `INS-260320-47FA` MASTER_INDEX to domain overview to topic summary to individual insight — answering "what do I know about X?" requires reading roughly 4 files regardless of total insight count.
+- `INS-260409-1078` MemPalace's AAAK uses 73 tokens to encode text that plain English encodes in 66 — compression only amortizes at scale where the same entities appear hundreds of times, making it a net loss for small-scale personal memory.
 - `INS-260409-EA5A` A RAW intake folder preserves the human's curation intent before Claude Code compresses it into wikis.
+- `INS-260322-22D0` Learn your DAW's stock EQ, compression, synths, and spatial effects before buying any third-party plugins.
 - `INS-260403-8BF4` Cutting words isn't just style — it's how you discover what you actually mean.
 - `INS-260409-003A` The compiled knowledge is the moat; the retrieval layer is commodity and replaceable.
 - `INS-260403-BFD1` The inability to create a compelling one-phrase description of your startup signals insufficient strategic focus, not poor wordsmithing.
 - `INS-260404-C2BC` If you can't describe your startup in one sticky phrase, your plans may not be focused enough.
 - `INS-260404-96C6` A sticky descriptive phrase is a survival necessity in investor pitches because the first filter is simply being remembered.
 - `INS-260403-C5D8` If you can't describe your startup in one sticky phrase, your plans may not be focused enough — the exercise is diagnostic, not just cosmetic.
-- `INS-260322-22D0` Learn your DAW's stock EQ, compression, synths, and spatial effects before buying any third-party plugins.

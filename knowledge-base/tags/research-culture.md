@@ -1,0 +1,4 @@
+# Tag: research-culture
+
+- `INS-260409-6A6C` Matuschak and Nielsen coin 'insight-through-making loop' — deep original research insights drive tool improvements which drive deeper research insights which drive better tools, forming a rapidly-turning feedback loop that produces transformative tools (Hindu-Arabic numerals, writing, calculus notation) that conventional product practice or conventional research practice cannot.
+- `INS-260409-FDE9` Alan Kay distinguishes pop culture (the conventional tech product practice) from research culture (deep engagement with foundational subject matter); Matuschak and Nielsen argue pop culture has been astoundingly successful at building businesses but cannot produce the Hindu-Arabic-numerals-level insights needed for transformative tools for thought.

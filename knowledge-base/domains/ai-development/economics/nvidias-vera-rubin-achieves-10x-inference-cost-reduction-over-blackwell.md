@@ -57,6 +57,9 @@ related:
   - INS-260405-6A94
   - INS-260405-567D
   - INS-260409-17E9
+  - INS-260409-8408
+  - INS-260410-CDE6
+  - INS-260410-B8EB
 ---
 NVIDIA's Vera Rubin platform integrates six chips—GPUs, CPUs, networking, and interconnect silicon—as a single tightly coupled system optimized specifically for reasoning models and mixture-of-experts architectures. The platform claims up to 10x reduction in inference token cost versus Blackwell, which was itself a step-function improvement over Hopper.
 

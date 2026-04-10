@@ -60,7 +60,6 @@ related:
   - INS-260405-D925
   - PRI-260406-5CA8
   - INS-260404-8A18
-  - INS-260409-60C2
   - INS-260409-F691
 ---
 Graham identifies a critical interaction between medium choice and project survival: when there's a vast gulf between what early work looks like and what finished work looks like (carving stone vs. sketching in a notebook), the psychological cost of the ugly-duckling phase is much higher. Digital media's advantage isn't primarily the software — it's that you can start something new with little upfront commitment.

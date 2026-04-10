@@ -56,7 +56,6 @@ related:
   - PRI-260325-45A2
   - INS-260330-3491
   - INS-260402-8E46
-  - INS-260330-52F6
 stance: >-
   OpenAI's own research confirms hallucinations cannot be eliminated even with
   perfect training data because they are inherent to probabilistic gener...

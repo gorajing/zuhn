@@ -49,14 +49,14 @@ stance: >-
   rationalist bias.
 related:
   - INS-260330-6D2E
+  - INS-260410-025A
   - INS-260322-5D22
   - PRI-260328-0C86
   - INS-260327-4CB3
-  - INS-260329-19B3
   - INS-260323-61CD
-  - INS-260330-2154
   - INS-260403-9DC6
   - INS-260405-638B
+  - INS-260410-5033
 evidence:
   - id: INS-260330-6D2E
     type: TRANSFERS_TO

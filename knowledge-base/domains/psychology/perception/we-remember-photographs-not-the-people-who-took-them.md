@@ -46,10 +46,10 @@ stance: >-
   artifact.
 related:
   - INS-260330-FE21
+  - INS-260410-78F4
   - PRI-260320-07A4
+  - INS-260409-6DBE
   - INS-260327-4C5E
-  - INS-260403-518E
-  - INS-260409-C133
 ---
 Almost no one can name Bill Anders, the astronaut who took the Earthrise photo, but nearly everyone recognizes the image itself. The same will likely be true of the Artemis II crew — Reed Wiseman, Victor Glover, Christina Koch, Jeremy Hansen — whose names will blur while their photographs endure. Photographs compress vast experiences into portable artifacts; the artifact travels, the biography doesn't.
 

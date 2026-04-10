@@ -46,7 +46,6 @@ stance: >-
   it can replace human services (tens of trillions) not just software (hundreds
   of billions).
 related:
-  - INS-260322-4F7A
   - INS-260322-5678
   - INS-260403-5CAD
   - INS-260327-25D7

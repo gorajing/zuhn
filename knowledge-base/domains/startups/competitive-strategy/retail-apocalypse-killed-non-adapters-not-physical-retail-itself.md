@@ -46,7 +46,6 @@ stance: >-
   rather than an inherent disadvantage of physical stores against e-commerce
 related:
   - INS-260325-EF66
-  - INS-260327-77A0
   - INS-260327-6EFB
   - INS-260328-D0F6
   - INS-260330-E615
@@ -55,6 +54,7 @@ related:
   - INS-260403-D8A2
   - INS-260403-B378
   - INS-260403-6CA8
+  - INS-260404-8CEE
 evidence:
   - id: INS-260327-77A0
     type: CHALLENGES

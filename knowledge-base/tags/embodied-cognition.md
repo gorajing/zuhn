@@ -8,5 +8,5 @@
 - `INS-260330-CA8E` Knowing the math behind G-forces did not prepare Destin for the physical reality of 7G in an F-16.
 - `INS-260330-3D7B` Building a working model forces you to confront every gap in your understanding that passive learning lets you skip.
 - `INS-260330-FBF0` Destin explicitly states he understands things better when working with his hands, then 3D-prints pulleys so viewers can see the principle decomposed — moving from watching to manipulating transforms comprehension.
-- `INS-260330-88B0` Identical physical stimulation produces pleasure or discomfort depending entirely on context — emotional safety, stress levels, and relationship dynamics matter more than technique.
 - `INS-260330-2B3F` Rick Rubin identifies creativity as a bodily feeling — a 'surge of energy' — rather than an intellectual process, and uses taste-testing as the metaphor for creative decision-making.
+- `INS-260330-88B0` Identical physical stimulation produces pleasure or discomfort depending entirely on context — emotional safety, stress levels, and relationship dynamics matter more than technique.

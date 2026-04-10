@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-10 | 4563 actionable insights
+Generated on 2026-04-10 | 4601 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -57,6 +57,8 @@ Generated on 2026-04-10 | 4563 actionable insights
 - [INS-260409-7C62] CLAUDE.md teaches the agent how to traverse the vault — it is the retrieval system.
 - [INS-260409-5C6B] LLMs reliably catch contradictions, orphans, and gaps in a wiki because the work is global reading — tedious for humans, cheap for LLMs.
 - [INS-260409-95C8] Your questions reveal what matters; file the answers back as permanent wiki pages or lose that signal.
+- [INS-260409-8408] MemPalace's 4-layer stack (L0 identity always loaded at ~50 tokens, L1 critical facts always loaded at ~120 tokens, L2 room recall on demand, L3 deep search on demand) gives agents ~170 tokens of persistent identity before any query fires.
+- [INS-260409-6560] MemPalace's 96.6% LongMemEval R@5 comes from raw verbatim ChromaDB storage; their own AAAK lossy compression scores only 84.2% — a 12.4 point regression that inverts the expected efficiency-quality trade-off at small scales.
 
 ## ai-development/agents
 - [INS-260405-FE94] Coinbase's Agentic Wallets let AI agents hold funds, pay for APIs, and execute trades without human approval at each step.
@@ -235,6 +237,7 @@ Generated on 2026-04-10 | 4563 actionable insights
 - [INS-260402-1D32] Using tiered similarity thresholds (auto-accept above 0.8, offer with confirmation at 0.7-0.8, re-research below 0.7) balances cache hit rates against accuracy.
 - [INS-260402-28BA] Combining vector search to find a semantically close starting point with graph traversal to explore structured relationships yields better retrieval than either method alone.
 - [INS-260405-214D] Use vector embeddings to land near relevant content in semantic space, then traverse graph edges to discover structurally related knowledge that pure vector search would miss.
+- [INS-260409-ADD0] MemPalace's wing+room metadata filtering takes 60.9% flat semantic R@10 to 94.8% on 22k real conversation memories — a 34-point lift from trivial structure the maintainers honestly note is standard ChromaDB filtering.
 
 ## ai-development/future-of-work
 - [INS-260320-A745] Anthropic's own studies show AI deskilling in coding is real, but depends on HOW you use models — some usage patterns cause skill degradation, some don't.
@@ -311,6 +314,7 @@ Generated on 2026-04-10 | 4563 actionable insights
 - [INS-260323-9D6E] Users stick with an LLM until it fails badly on a task they care about, then switch -- loyalty is driven by peak moments and broken by threshold failures.
 - [INS-260403-7D7A] Treating prompts as code-like instructions rather than search queries is the single highest-leverage shift for AI output quality.
 - [INS-260403-529D] Telling the AI 'you are a clinical researcher' or 'you are a senior developer' shifts its entire output posture from generalist to specialist.
+- [INS-260410-CD15] Paste the chapter you're currently reading into Claude/ChatGPT, ask for a summary first, then ask questions as you read — retention and cross-domain access both jump.
 
 ## ai-development/limitations
 - [INS-260323-F68A] Claude Code users spend $8-13.5x their subscription in compute — if they had to pay per-error like a metered taxi, most would abandon the service because mistakes become expensive.
@@ -322,6 +326,10 @@ Generated on 2026-04-10 | 4563 actionable insights
 - [INS-260402-31D8] The AI security consulting industry sells prompt-level protections that cannot work because LLMs are fundamentally jailbreakable; only permission restriction provides real security.
 - [INS-260403-BE4D] Including relevant background data (bios, papers, past interactions) in the right format and order can make or break prompt performance more than any clever technique.
 
+## ai-development/llm-behavior
+- [INS-260410-0EFE] A forward pass through ~100 transformer layers is the compute budget per token, so any answer that requires real work must be spread across many intermediate tokens or offloaded to a tool.
+- [INS-260410-939B] Default to fast non-thinking models; switch to a thinking model only when you suspect the first answer is wrong on a genuinely hard math/code/logic problem.
+
 ## ai-development/llm-costs
 - [INS-260320-9937] OpenRouter offers 50-1000 free requests/day on certain models — not trial credits, actually free forever.
 - [INS-260320-9FD5] Batch inputs to amortize system prompt costs — 100 separate calls with a 500-token system prompt = 50,000 wasted tokens. 1 batched call = 500 tokens.
@@ -332,6 +340,7 @@ Generated on 2026-04-10 | 4563 actionable insights
 - [INS-260403-FF45] Unlike SaaS where marginal cost per user approaches zero, every AI query carries real token and compute costs that can destroy margins at scale.
 - [INS-260320-EF3A] Don't default to expensive models — test cheaper ones with YOUR data. DeepSeek V3 vs Claude Sonnet = 21x cost reduction for identical summaries.
 - [INS-260403-91F7] AI inference costs create variable expense per interaction, breaking the traditional SaaS model of near-zero marginal cost per user.
+- [INS-260409-B15B] MemPalace wake-up (~170 tokens/session) plus ~5 searches/session costs about $10/year; the equivalent LLM-summary approach burns ~$507/year — a 50x cost asymmetry that makes personal AI memory a near-commodity.
 
 ## ai-development/llm-training
 - [INS-260326-8201] At 3.5 bits per channel (4.5x compression), TurboQuant matches full-precision Llama 3.1 8B on LongBench with zero quality loss; at 2.5 bits (6.4x), quality degradation is marginal.
@@ -343,6 +352,9 @@ Generated on 2026-04-10 | 4563 actionable insights
 - [INS-260402-5034] Graham's 'degeneration' technique falls back from specific tokens (Subject*FREE!!!) through progressively general versions (FREE, free) when exact matches lack data.
 - [INS-260403-F4C7] Fine-tuning Mixtral-class models costs ~$1,200 on rented A100s, putting custom AI within individual budgets.
 - [INS-260403-18CA] Few-shot prompting can take accuracy from 0% to 90%, while role prompting has negligible effect on correctness.
+- [INS-260410-CDE6] To match GPT-3's 0.5M-token batch size on a GPU that only fits 16K tokens per step, run 32 micro-batches and sum their gradients before the optimizer step — but remember to divide by grad_accum_steps to preserve the loss's mean reduction.
+- [INS-260410-34F5] Padding GPT-2's vocab from 50,257 to 50,304 (the next multiple of 64) added ~4% dead parameters but made training measurably faster with zero algorithmic change.
+- [INS-260410-656B] Going from 3 to 8 characters of context in the same flat MLP moved validation loss from 2.10 to 2.02 — a bigger gain than the later hierarchical WaveNet rewrite produced at matched parameter count.
 
 ## ai-development/llms
 - [INS-260405-A5C8] In a field flooded with tutorials, a handful of rigorously maintained repositories account for most of the practical engineering knowledge.
@@ -351,9 +363,12 @@ Generated on 2026-04-10 | 4563 actionable insights
 - [INS-260330-FF5B] Log scales convert exponential curves into straight lines, making growth rates, trend changes, and inflection points immediately visible to human perception.
 - [INS-260330-F493] Thinking in doubling times rather than absolute numbers enables correct intuition about exponential processes.
 - [INS-260330-2EC0] On a log scale, exponential growth becomes a straight line — making the underlying multiplicative pattern immediately visible and quantifiable via simple linear regression.
+- [INS-260410-78F4] Treat weight-stored knowledge as a hazy recollection and the context window as working memory — paste the source material in rather than relying on recall.
 
 ## ai-development/pedagogy
 - [INS-260405-75C4] Watching someone use AI live is more instructive than reading or hearing about it.
+- [INS-260410-8019] Comparing hand-derived gradients to a finite-difference numerical estimate (or to PyTorch's autograd) catches the subtle sign flips, missing scale factors, and shape mismatches that plague manual backprop — and was standard practice before autograd existed.
+- [INS-260410-C5A4] Karpathy spent 15 minutes searching PyTorch for the tanh backward pass and couldn't find it — 2,800 results across 406 files — because production libraries accumulate entropy around a simple core.
 
 ## ai-development/platform-dynamics
 - [INS-260323-BC61] LeCun argues the biggest AI danger is not existential risk but concentration of power -- a future where all information is controlled by a few companies through proprietary AI systems, and open-source is the primary defense.
@@ -439,9 +454,12 @@ Generated on 2026-04-10 | 4563 actionable insights
 - [INS-260405-7C86] Focused, short demos change AI behavior faster than comprehensive theoretical treatments.
 - [INS-260405-10DF] Knowledge workers spend nearly two hours per week fixing low-quality AI outputs ('workslop'), creating a hidden productivity tax during the adoption dip.
 - [INS-260409-3AEE] Founders are now shipping in days what used to take engineer-months or years — Chamath vibe-coded a bookmark service he'd sat on for 15 years in one weekend, and his team doubled click-through rates via auto-research in a day.
+- [INS-260410-4CE7] For nutrition labels, blood tests, ingredient lists — first ask the model to transcribe the image to text so you can verify it saw correctly, then ask your real question.
 
 ## ai-development/prompting
 - [INS-260405-880C] Prompt engineering has an accumulating body of research-backed techniques that reward systematic study over ad-hoc experimentation.
+- [INS-260410-B8EB] The same structured data in YAML costs roughly 15% fewer tokens than JSON, which matters for context length and API bills.
+- [INS-260410-18CF] Start a new chat whenever you switch topics — leftover tokens distract the model and slow sampling without improving answers.
 
 ## ai-development/research-methodology
 - [INS-260408-F58E] Isomorphic's pipeline screens binding + cross-target toxicity in silico, then only validates the final candidates in the wet lab.
@@ -530,9 +548,23 @@ Generated on 2026-04-10 | 4563 actionable insights
 - [INS-260409-EA5A] A RAW intake folder preserves the human's curation intent before Claude Code compresses it into wikis.
 - [INS-260409-7162] Start with the simple vault; let scale failures force the cutover, don't pre-argue it.
 - [INS-260409-086A] Spawn a subagent per source during ingest so context pollution doesn't degrade later items in the queue.
+- [INS-260409-1078] MemPalace's AAAK uses 73 tokens to encode text that plain English encodes in 66 — compression only amortizes at scale where the same entities appear hundreds of times, making it a net loss for small-scale personal memory.
+- [INS-260410-351E] sum(dim=1) without keepdim=True returns a 1D vector that broadcasting silently treats as a row vector, which normalizes columns instead of rows — producing garbage with no error.
+- [INS-260410-B501] view() just rewrites stride/shape metadata on the same storage; cat() allocates — so prefer view whenever possible.
+- [INS-260409-B13F] MemPalace stores conversations verbatim and uses structure plus semantic search to find what matters at query time, rather than extracting 'user prefers Postgres' and discarding the conversation that explained why.
 
 ## ai-development/systems-design
 - [INS-260404-C663] Components tuned for original conditions do not just underperform in new environments — they generate actively harmful outputs.
+
+## ai-development/training-dynamics
+- [INS-260410-D3A7] A noisy gradient pointing roughly the right direction 1000 times beats a perfect gradient pointing exactly the right direction 10 times.
+- [INS-260410-F295] Sweep LR exponentially from tiny to explosive in one short run, plot loss vs log(lr), pick the bottom of the valley.
+- [INS-260410-C2E6] Compute the expected initial loss (e.g., -log(1/n_classes)) and compare against your network's actual iteration-zero loss — a mismatch reveals an initialization bug worth fixing before anything else.
+- [INS-260410-E6E9] When implementing or testing backprop code, initialize biases to small random numbers rather than zero — zeros simplify the math enough to mask incorrect gradient formulas that would fail on real inputs.
+- [INS-260410-885B] Initialize each layer's weights from a Gaussian with std = gain/sqrt(fan_in), using gain=1 for linear, 5/3 for tanh, sqrt(2) for ReLU — this is the only scaling that prevents activations from exploding or vanishing as depth grows.
+- [INS-260410-47AE] Plot histograms of activations and pre-activations during training — if too many values cluster at the saturating tails, gradients are being killed and entire neurons may be permanently dead.
+- [INS-260410-89D0] If train and val loss are basically equal, your model is too small — scale it up, don't regularize.
+- [INS-260410-6FA3] Track log10(std(lr * grad) / std(param)) per layer during training and aim for roughly -3 — if it's much lower the network trains too slowly, if higher it's likely unstable, and per-layer asymmetry reveals miscalibrated initialization.
 
 ## automation/ai-automation
 - [INS-260409-6AEB] Web Clipper plus Local Images Plus gives one-click ingestion with localized images.
@@ -1390,6 +1422,13 @@ Generated on 2026-04-10 | 4563 actionable insights
 ## psychology/epistemics
 - [INS-260405-2B3F] Treating survey non-response as randomly missing data produces systematically wrong estimates whenever the stigmatized view is also the under-reported one.
 - [INS-260405-F7FA] All else being equal, bet against the explanation where you are the protagonist.
+- [INS-260409-F93A] Galef argues accurate maps of the world should include explicit uncertainty markers and remain provisional — 'drawn in pencil, not pen' — because false precision creates psychological resistance to updating when better evidence arrives.
+- [INS-260409-3BC9] Galef: 'There are things in that intersection where you can make yourself feel better without having to resort to telling yourself a lie' — the honest-comforting intersection almost always has something in it, but people jump to self-deception without looking for it.
+- [INS-260409-3FDE] Contributor gizmax reproduced MemPalace's 96.6% LongMemEval R@5 on M2 Ultra in under 5 minutes using the public benchmark scripts — that reproduction is exactly what forced the retraction of the other overclaims by making ground truth reviewable.
+- [INS-260409-2B3A] Galef: 'Sometimes I notice myself defending things I don't even believe because someone assumed I believed it' — a huge chunk of apparent belief defense is actually identity defense against a position that was never consciously chosen, just socially inherited.
+- [INS-260409-42F7] Within 48 hours of the MemPalace launch, maintainers Milla Jovovich and Ben Sigman wrote a public 'What we got wrong' section admitting four specific overclaims and shipped fixes — a level of intellectual honesty that product marketing incentives rarely allow.
+- [INS-260409-A62B] Galef: 'Those are mental and emotional habits; and I think training those habits through repeated practice is quite important' — scout thinking transfers from ideologically low-stakes domains (politics you don't care about, arguments you aren't emotionally invested in) to high-stakes personal decisions where accuracy actually matters.
+- [INS-260409-5CD4] Julia Galef: 'Scout Mindset is the motivation to see what's really there and not just what you wish was there' — distinguishing it from soldier mindset where beliefs are defended against threatening evidence through rationalization, denial, and motivated reasoning.
 
 ## psychology/expertise
 - [INS-260330-C7B5] Making a tool part of your identity makes you worse at evaluating alternatives.
@@ -1766,6 +1805,8 @@ Generated on 2026-04-10 | 4563 actionable insights
 - [INS-260405-81B4] Immersing yourself in the early histories of great work trains you to recognize the pattern and neutralizes premature abandonment.
 - [INS-260329-075F] Present the pain point before the solution to create intrinsic motivation for learning the concept.
 - [INS-260404-36B9] Reframing ambitious projects as experiments makes failure impossible because even negative results yield knowledge.
+- [INS-260409-6DBE] Matuschak and Nielsen argue that with spaced repetition and the mnemonic medium, memory stops being a chance event subject to forgetting and becomes a deliberate choice — 'follow these steps, and you can remember whatever you choose.'
+- [INS-260409-E730] Quantum Country data shows 95 minutes of total review time produces ~54 days of demonstrated retention across 112 questions — a <50% time overhead on a 4-hour essay for multi-month retention of nearly every important detail.
 
 ## psychology/math-perception
 - [INS-260325-4CA1] When decomposing a problem, choose representations that respect its natural symmetry — the math becomes dramatically easier.
@@ -3039,6 +3080,7 @@ Generated on 2026-04-10 | 4563 actionable insights
 - [INS-260409-81CB] The most valuable AI insight for you personally is whichever side you're currently not considering — deliberately steelman the counter to your default position.
 - [INS-260409-5491] Restarting from zero is a three-stage framework — honest self-inventory, humility to do entry work, and nighttime curiosity about local opportunity — and ego is just insecurity that blocks all three stages.
 - [INS-260409-54AA] The people who stay detached from outcomes outperform the people who tie their identity to metrics because the detachment prevents the anxiety that degrades decision quality.
+- [INS-260409-9D44] MemPalace maintainers explicitly stated 'we'd rather be right than impressive' when admitting four launch overclaims — an intentional value choice against the default incentive to hype at launch and correct later.
 
 ## startups/founder-psychology
 - [INS-260323-81F5] If you cannot imagine yourself working on this problem for 10 years, you will abandon it when the inevitable 2-3 year difficulty spike hits.

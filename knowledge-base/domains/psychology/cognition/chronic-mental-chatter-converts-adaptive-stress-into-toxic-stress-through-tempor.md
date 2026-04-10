@@ -56,7 +56,6 @@ related:
   - PRI-260327-0AA2
   - INS-260404-4FDB
   - INS-260327-034A
-  - INS-260409-3059
 evidence:
   - id: INS-260404-EE01
     type: SUPPORTS
