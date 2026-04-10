@@ -193,8 +193,16 @@ async function main(): Promise<void> {
     case "blog": {
       let html: string;
       try {
+        // 30s timeout + browser UA: some hosts (GitHub, Substack, Medium)
+        // throttle or slow-respond without a recognizable UA, and large
+        // rendered-HTML pages routinely exceed a 10s budget after SSL
+        // handshake + full-body download.
         const res = await fetch(url, {
-          signal: AbortSignal.timeout(10_000),
+          signal: AbortSignal.timeout(30_000),
+          headers: {
+            "User-Agent":
+              "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+          },
         });
         if (!res.ok) {
           throw new Error(`HTTP ${res.status}`);
