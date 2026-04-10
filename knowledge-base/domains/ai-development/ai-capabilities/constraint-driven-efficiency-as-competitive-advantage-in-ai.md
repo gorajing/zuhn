@@ -53,10 +53,10 @@ stance: >-
   10 watts of higher cognition.
 related:
   - INS-260325-5CB1
+  - INS-260410-1159
   - INS-260405-1054
   - INS-260322-474A
   - INS-260328-F05E
-  - PRI-260407-B738
 evidence:
   - id: INS-260327-8358
     type: TRANSFERS_TO

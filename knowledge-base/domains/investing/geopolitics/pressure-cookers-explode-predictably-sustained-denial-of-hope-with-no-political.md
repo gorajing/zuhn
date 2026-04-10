@@ -48,9 +48,9 @@ resolutions:
 related:
   - PRI-260325-D34E
   - PRI-260324-8EE6
+  - INS-260410-B2A6
   - PRI-260406-F9EB
   - PRI-260323-9928
-  - INS-260330-440E
 stance: >-
   When a population is given no hope, no political agency, and increasing
   aggression for decades, violent escalation is not surprising

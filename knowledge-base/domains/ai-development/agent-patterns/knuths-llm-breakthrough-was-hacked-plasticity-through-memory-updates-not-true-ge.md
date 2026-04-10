@@ -43,11 +43,11 @@ resolutions:
     within existing knowledge manifolds, while humans provide the causal
     modeling and representation breakthroughs.
 related:
+  - INS-260410-9A24
   - PRI-260328-4B40
   - INS-260321-53E2
   - INS-260404-A183
   - INS-260323-DA1E
-  - PRI-260323-DA09
 stance: >-
   Donald Knuth's viral LLM math result was achieved by making the LLM update its
   memory after each solution

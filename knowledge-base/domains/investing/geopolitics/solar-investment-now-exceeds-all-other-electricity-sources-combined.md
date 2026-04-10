@@ -47,10 +47,10 @@ stance: >-
   hydro combined.
 related:
   - INS-260403-0789
+  - INS-260410-101D
   - INS-260404-E544
   - INS-260404-25F5
   - INS-260403-6016
-  - INS-260405-B4D0
 ---
 In 2025, solar crossed a historic inflection point: it now attracts approximately $500 billion in annual investment — more than all other electricity sources combined. Annual installations exceed the sum of new coal, gas, nuclear, wind, and hydro capacity. Costs have fallen 90% while the IEA consistently underestimated growth for two decades.
 

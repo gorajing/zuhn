@@ -1,4 +1,5 @@
 # Tag: deep-learning
 
+- `INS-260410-AA40` Matrix multiplication (N³ compute, N² data) is the perfect shape for hardware where arithmetic is cheap and data movement is expensive, so deep learning was destined to win once TPUs filled the chip with arithmetic units.
 - `INS-260330-AE16` Neural network layers learn progressively abstract representations — pixels to edges to shapes to concepts — which is why depth matters more than width for complex tasks.
 - `INS-260405-F72B` LLM grokking, like penicillin, was discovered by accident—and this accidental-discovery pattern is more characteristic of deep learning progress than theory-driven research.

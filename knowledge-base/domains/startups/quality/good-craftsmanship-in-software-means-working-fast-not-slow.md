@@ -41,7 +41,6 @@ stance: >-
   In software, working slowly and meticulously is premature optimization that
   locks you into your initial mistaken idea.
 related:
-  - INS-260320-6CCE
   - INS-260323-8555
   - INS-260329-44C9
   - INS-260329-AB9A
@@ -51,6 +50,7 @@ related:
   - INS-260402-F62B
   - INS-260402-7999
   - PRI-260406-FB98
+  - PRI-260406-A5F0
 evidence:
   - id: INS-260320-6CCE
     type: CONTRADICTS

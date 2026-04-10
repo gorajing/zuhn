@@ -59,7 +59,6 @@ related:
   - INS-260403-6184
   - INS-260403-DE9B
   - PRI-260328-0E23
-  - INS-260330-696D
 ---
 The distinction between milestone-driven and runway-driven fundraising is the difference between using trust capital as rocket fuel versus using it as a life raft. When founders raise $75K specifically to ship a product and prove retention, every dollar has a clear purpose and the outcome—success or failure—generates valuable signal for the next raise. When founders raise the same amount just to extend their personal runway while they iterate, the money often dissipates without creating demonstrable progress.
 

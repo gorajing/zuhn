@@ -64,6 +64,7 @@ related:
   - INS-260322-BBED
   - INS-260402-9EBD
   - INS-260405-2AFD
+  - INS-260410-D316
 ---
 While the US, China, and Russia inflict self-harm through ideological crusades, military purges, and demographic destruction respectively, India is executing a disciplined growth strategy. Its electronics industry surged nearly sixfold from $22 billion (FY2015) to $130 billion (FY2025), mobile phone production went from 2 million to 300 million units, and solar module production hit 120 GW—a twelvefold increase making India self-sufficient. India's well-cited scientific publications have overtaken the UK, Japan, and Germany.
 

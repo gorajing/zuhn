@@ -65,6 +65,7 @@ related:
   - INS-260404-5AC8
   - INS-260327-D1B7
   - PRI-260406-4B37
+  - INS-260410-7C07
 ---
 After the 2008 financial crisis, China deployed hundreds of billions into infrastructure — rail, high-voltage transmission lines, ports, and digital networks. The immediate goal was economic stimulus, but the lasting effect was building physical capacity that became a competitive moat for Chinese industry. By 2024, China was building more solar capacity in a single year than the US had built in total, partly enabled by the grid infrastructure to support it.
 

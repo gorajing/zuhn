@@ -56,9 +56,10 @@ related:
   - PRI-260406-82EA
   - INS-260403-62BC
   - PRI-260328-43D8
-  - INS-260403-583B
+  - INS-260410-B2A6
   - INS-260327-A8C0
   - INS-260330-B490
+  - INS-260403-583B
   - INS-260403-5681
 ---
 The documentary traces three major blowback cycles. First: the U.S. installed the Shah in 1953 to counter Soviet influence; 26 years later, popular rage at his corrupt rule produced the Islamic Revolution and decades of hostile relations. Second: the U.S. armed and funded Afghan rebels to bleed the Soviet Union; those battle-hardened fighters, led by a radicalized construction magnate's son named Osama bin Laden, later turned their capabilities against the U.S. Third: U.S. tacit support for Saddam during the Iran-Iraq War created a military power that later invaded Kuwait, requiring direct U.S. military intervention.

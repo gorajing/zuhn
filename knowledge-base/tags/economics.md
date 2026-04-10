@@ -5,6 +5,8 @@
 - `INS-260321-52EF` Software was scarce and expensive — AI making it cheaper unlocks massive latent demand (Jevons paradox). Like ATMs creating more bank branches and more tellers, not fewer.
 - `INS-260323-8637` Altman predicts compute becomes the world's most precious commodity, functioning as a new currency by end of decade.
 - `INS-260325-DAD7` Open models are home manufacturing (custom, higher cost); closed models are mega token factories (shared, cheaper at scale).
+- `INS-260410-C022` At ~$10⁻¹⁸ per operation and a trillion ops per token, LLMs deliver roughly a million tokens per dollar — 100x cheaper than a paperback, 10,000x cheaper than customer support, and a million-plus times cheaper than a lawyer — so you can afford to make inference far more expensive to make it far smarter.
+
 - `INS-260405-A22F` Vera Rubin delivers up to 10x lower inference token cost and 4x fewer GPUs for MoE training compared to Blackwell, entering production in H2 2026.
 - `INS-260323-6C6F` Scaling laws hold across 13 orders of magnitude and won't stop, but inference-time scaling currently offers better ROI than making models bigger.
 - `INS-260330-5EE9` North Korea's 2009 currency redenomination wiped out savings and permanently shifted unofficial transactions to the Chinese Yuan.

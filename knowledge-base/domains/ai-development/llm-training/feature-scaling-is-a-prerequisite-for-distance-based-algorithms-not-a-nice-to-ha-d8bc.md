@@ -55,10 +55,10 @@ stance: >-
   whichever feature has the largest numeric range.
 related:
   - INS-260329-4109
+  - INS-260410-022B
   - INS-260329-CBF6
   - INS-260325-03D5
   - INS-260330-2F74
-  - INS-260330-B4F1
   - INS-260329-4870
 evidence:
   - id: INS-260329-4870

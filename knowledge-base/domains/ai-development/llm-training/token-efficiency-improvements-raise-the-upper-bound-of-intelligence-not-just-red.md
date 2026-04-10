@@ -51,7 +51,6 @@ stance: >-
   frontier, not just saving compute, because high-quality training data is
   finite and a 2x efficiency gain effectively doubles available data.
 related:
-  - INS-260325-FD14
   - INS-260403-34C0
   - INS-260330-A660
   - PRI-260407-7FB7

@@ -49,7 +49,6 @@ stance: >-
   verification by third-party quantum hardware
 related:
   - INS-260325-1B3E
-  - INS-260323-8DE7
   - INS-260325-5B7F
   - INS-260403-841F
   - INS-260404-FC20

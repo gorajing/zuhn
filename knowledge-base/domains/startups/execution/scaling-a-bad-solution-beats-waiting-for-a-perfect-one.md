@@ -47,7 +47,6 @@ stance: >-
   Massively scaling an imperfect process often outcompetes waiting to develop an
   optimal one
 related:
-  - INS-260323-A1FE
   - INS-260330-39B0
   - INS-260330-2F74
   - INS-260330-4489
@@ -57,6 +56,7 @@ related:
   - INS-260404-EC33
   - INS-260330-8BF6
   - PRI-260406-4A83
+  - INS-260403-558D
 evidence:
   - id: INS-260404-B04F
     type: TRANSFERS_TO

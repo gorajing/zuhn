@@ -45,7 +45,6 @@ stance: >-
   organization will optimize that metric at the expense of something more
   important.
 related:
-  - INS-260322-2D2F
   - INS-260329-5BB0
   - INS-260330-0A95
   - PRI-260405-608A

@@ -1,6 +1,6 @@
 # Topic: geopolitics
 
-> 497 insights
+> 503 insights
 
 - `INS-260326-3E19` [very_high] Pharmaceutical companies funding the FDA, banks staffing financial regulators, and tech giants writing platform regulations are structurally identical -- the mechanism is industry-funded oversight producing industry-favorable rules.
 - `INS-260326-79DF` [very_high] Germany's unrestricted submarine warfare sank 886,000 tons in April 1917 alone -- a tactical triumph that brought America into the war and guaranteed Germany's defeat.
@@ -18,11 +18,13 @@
 - `INS-260321-4B99` [high] Factory capacity for DRAM and NAND is fixed, but AI demand pays so much more that producers shifted mass production lines to HBM — making consumer memory prices rise in tandem.
 - `INS-260325-4C16` [high] Alexander won with 40,000 troops against millions by moving faster than enemies could react — speed and adaptability beat numbers.
 - `INS-260327-FB61` [high] Germany's 1918 Spring Offensive gained more territory than any operation since 1914 but exhausted its last reserves, so when the Allies counterattacked with fresh American troops, Germany had nothing left.
+- `INS-260410-C207` [high] The WWII Allies had mutually exclusive end-states but a common existential enemy in Hitler, while the Axis shared ideology but fought parallel wars because their primary enemies didn't align — which let the Allies defeat them in detail.
 - `INS-260403-1462` [high] Defense-industrial catch-up requires allied co-manufacturing because domestic reshoring timelines are too slow against urgent threats.
 - `INS-260327-23FA` [high] During the Battle of Leipzig, Saxon and other German troops switched sides mid-battle to join the coalition, accelerating Napoleon's defeat.
 - `INS-260327-B6B7` [high] America represents 4% of global population but 33% of consumer spending, with consumer debt surpassing $1T in high-risk categories alone, suggesting this spending model has reached its structural limits.
 - `INS-260327-5452` [high] Napoleon crushed the Turkish army at Aboukir by attacking during their amphibious landing, when they were most disorganized and couldn't use their naval advantage.
 - `INS-260327-AB3D` [high] At the Nile, the French fleet anchored close to shore assumed Nelson could only attack from the seaward side — but British ships sailed between the French and the shore, attacking from both sides simultaneously.
+- `INS-260410-3A01` [high] Eisenhower armed Pakistan to contain the Soviets, but since Pakistan's primary enemy was India, the weapons were aimed at India — poisoning US–India relations for the duration of the Cold War, a decision Eisenhower later called 'perhaps the worst kind of plan and decision we could ever have made.'
 - `INS-260327-FFE8` [high] By crossing the Alps, Napoleon placed himself between the Austrian army and their home territory, forcing them to fight on his terms to reopen their supply lines.
 - `INS-260404-F5C3` [high] The killing of Iran's Supreme Leader represents an irreversible escalation that forecloses diplomatic off-ramps.
 - `INS-260330-EA56` [high] By excluding assets from CPI, governments hide the true inflation that transfers wealth from currency-holders (working class) to property-holders (wealthy class).
@@ -46,6 +48,7 @@
 - `INS-260327-F3F0` [high] Napoleon's Italian campaign funded itself through war indemnities and looting — each victory paid for the next advance, removing dependence on the cash-strapped French government.
 - `INS-260409-755C` [high] Massachusetts passed a millionaire tax in 2022 and the number of millionaires grew ~40% over the next two years, the opposite of the predicted exodus.
 - `INS-260327-B064` [high] 92% of Americans depend on cars for daily life because of car-centric infrastructure, but cars have become so expensive that responsible ownership is beyond reach for growing millions.
+- `INS-260410-3F35` [high] 25 years of 50/50 JVs produced zero Chinese auto champions; 18 months of Tesla competing directly taught BYD the consumer design it needed to become world-class.
 - `INS-260327-AC1B` [high] The Mongol invasion devastated Russia's established cities but created the vacuum in which Moscow — a previously insignificant town — rose to dominate by collaborating with the Mongols as tax collectors.
 - `INS-260403-4B3D` [high] The Fed's pattern of letting bubbles inflate then responding with emergency measures has escalated intervention scale at each crisis.
 - `INS-260327-5DD3` [high] Murat was the greatest cavalry commander of his era but a disastrous king — his instinct for dramatic personal action was perfect for leading charges but catastrophic for governance.
@@ -155,6 +158,7 @@
 - `INS-260403-C314` [high] When a superior technology gets coded as politically partisan, the opposing political coalition actively undermines national adoption, creating industrial decline.
 - `INS-260323-CF30` [high] Jefferson's 'tree of liberty' metaphor and RFK's 'we're all inches from barbarity' warning mean that democratic freedoms degrade the moment each generation stops actively protecting them.
 - `INS-260323-6258` [high] Friedman and Schwartz's 12-year study proved the Great Depression was caused by a 30% drop in money supply due to Fed inaction — not by inherent capitalist failure as Keynesians argued.
+- `INS-260410-B2A6` [high] Kashmir, Korea, and Palestine all show the same dynamic: an outside power funds an insurgency to 'pin' a rival, the rival gets frozen from acting elsewhere, and the population bears horrendous deaths and zero growth for decades while the patron pays nothing.
 - `INS-260327-EF98` [high] 3.8% GDP growth coexists with record defaults and declining living standards because GDP increasingly measures wealthy economic activity - there are now more PE firms than McDonald's.
 - `INS-260327-4FD9` [high] Baby boomers voted for free education when young, worker protections when working, lower taxes when established, and retirement benefits when old - each shift disadvantaging the next generation.
 - `INS-260330-7DA5` [high] In both the US and China, the vast majority of economic power concentrates in a few coastal corridors — 37 of 75 top-earning US counties in the Northeast, 54% of startup funding in just 5 metro areas.
@@ -178,6 +182,7 @@
 - `INS-260330-AACC` [high] Zimbabwe's redenominations (removing 10 and then 12 zeros) failed because citizens' inflation expectations were self-fulfilling without credible institutional reform.
 - `INS-260327-3381` [high] Davout was Napoleon's most valuable marshal because he could win battles independently — at Auerstedt he defeated the main Prussian army with a single corps while Napoleon fought a secondary force at Jena.
 - `INS-260327-D1B7` [high] The Entente won WW1 primarily because its combined industrial output (including American manufacturing) vastly exceeded the Central Powers', allowing it to absorb losses and maintain operations indefinitely.
+- `INS-260410-D316` [high] China won on the base layers — ubiquitous internet (1990s bet) and massive cheap electricity (2000s bet) — which then compounded into every downstream industry including AI.
 - `INS-260330-02A7` [high] Inflation should be modeled as a multi-dimensional vector across all assets and goods, not reduced to a single government-defined CPI scalar.
 - `INS-260330-0FCE` [high] Physical infrastructure creates economic interdependency that gradually makes political separation impractical, serving as a subtler tool of control than direct legislation.
 - `INS-260403-CFBD` [high] Weaponizing legal institutions against independent economic bodies trades durable stability for short-term political leverage.
@@ -375,6 +380,7 @@
 - `INS-260327-2475` [high] Machine guns, barbed wire, and artillery made both attack and defense devastating on the Somme — neither side could break through because both had the same technology creating the same stalemate.
 - `INS-260323-B726` [high] Putin's framing of 1991 as a greater tragedy than WWII (where the Soviets lost millions) reveals his value hierarchy: loss of great power status and territorial unity outweighs loss of human life.
 - `INS-260327-B950` [high] Venice's decline began when Portuguese discovery of the sea route to India bypassed the Mediterranean trade routes that Venice controlled.
+- `INS-260410-5CDC` [high] China won the 1962 Sino-Indian War and took the Aksai Chin Plateau it wanted, but the cost was turning an idealistic, non-militarized India into a permanent adversary that doubled its army within a decade — and foreclosed any possibility of a China–India partnership that would have reshaped the global order.
 - `INS-260327-70A4` [high] Napoleon seized Spain easily but then faced six years of guerrilla war that drained more French resources than any conventional campaign.
 - `INS-260325-3A0E` [high] WWI proves that interlocking alliance systems turn local crises into global catastrophes — complexity creates systemic fragility.
 - `INS-260327-1F6A` [high] Americans aged 25-44 are 2.5x more likely to die than peers in other wealthy nations, with a 20-year life expectancy gap between the richest and poorest US counties.

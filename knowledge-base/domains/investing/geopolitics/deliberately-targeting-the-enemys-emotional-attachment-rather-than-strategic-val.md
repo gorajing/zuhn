@@ -50,7 +50,6 @@ stance: >-
   regardless of strategic value — forces them to commit resources at unfavorable
   exchange rates.
 related:
-  - INS-260327-A8C0
   - INS-260327-377A
   - INS-260327-E36A
   - INS-260327-DC45

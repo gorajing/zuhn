@@ -49,7 +49,6 @@ stance: >-
   stages (electron transport chain: 34 ATP), making the final stage responsible
   for ~89% of total energy output.
 related:
-  - INS-260330-4D0E
   - INS-260330-2C71
   - INS-260330-F671
   - INS-260330-85D7

@@ -54,6 +54,7 @@ related:
   - INS-260403-91F7
   - INS-260323-7625
   - INS-260404-A0C2
+  - INS-260410-069C
 ---
 Traditional software has gross margins of 70-90% because the marginal cost of serving an additional user is near zero — you write the code once and distribute it infinitely. AI products break this model: every user query incurs real compute cost (GPU time, API calls), which scales with usage rather than amortizing away.
 

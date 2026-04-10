@@ -46,11 +46,11 @@ resolutions:
     automated search over the parameter space beats manual optimization.
     Performance becomes a compiler feature rather than a developer burden.
 related:
-  - INS-260325-6150
   - PRI-260406-8B75
+  - INS-260325-6150
   - INS-260329-4842
+  - INS-260410-AC0B
   - INS-260329-C1A4
-  - INS-260329-7255
 stance: >-
   Instead of humans manually finding cache sizes, tile dimensions, and vector
   widths, the compiler runs your code on the target hardware and caches t...

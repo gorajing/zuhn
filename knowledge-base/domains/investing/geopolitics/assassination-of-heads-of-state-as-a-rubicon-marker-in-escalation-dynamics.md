@@ -50,7 +50,7 @@ related:
   - PRI-260324-8EE6
   - INS-260403-44A6
   - INS-260330-97B3
-  - INS-260403-0800
+  - INS-260410-AB78
 ---
 Smith identifies the Israeli strike killing Ayatollah Khamenei as qualitatively different from previous military actions against Iran. Prior strikes — even significant ones — could theoretically be absorbed and followed by diplomatic de-escalation. Eliminating a head of state crosses a threshold that makes return to the status quo structurally impossible.
 

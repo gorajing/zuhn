@@ -55,7 +55,6 @@ related:
   - PRI-260325-5760
   - INS-260329-90C3
   - INS-260403-F8B6
-  - INS-260403-868C
 evidence:
   - id: INS-260329-21C0
     type: TRANSFERS_TO

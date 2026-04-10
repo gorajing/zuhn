@@ -55,7 +55,6 @@ stance: >-
   European power structures that persists today, demonstrating how ideological
   splits compound over centuries into irreversible geopolitical fault lines.
 related:
-  - INS-260323-9E67
   - INS-260323-874F
   - PRI-260323-B798
   - INS-260327-08E7

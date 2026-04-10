@@ -52,14 +52,16 @@ stance: >-
   through pivoting away from their core technology but by persisting until the
   market catches up.
 related:
-  - INS-260322-5790
   - INS-260324-8656
   - INS-260324-92E9
+  - INS-260322-5790
   - INS-260404-007F
+  - INS-260410-3E37
   - INS-260404-8D91
-  - INS-260404-C30F
   - INS-260403-14C7
   - INS-260404-433E
+  - INS-260404-C30F
+  - INS-260410-3F35
 evidence:
   - id: INS-260322-5790
     type: SUPPORTS

@@ -52,6 +52,6 @@ related:
   - INS-260330-CA8E
   - INS-260325-C523
   - INS-260329-6773
-  - INS-260323-FAF0
+  - INS-260410-AA40
 ---
 The video deliberately re-derives decimal (724 = 7*10^2 + 2*10^1 + 4*10^0) so that binary and hex feel like trivial substitutions rather than alien systems. Once a learner sees that the formula is fixed and only the base changes, the mystique of binary evaporates and hex becomes readable as 'four bits per digit.' This is a miniature example of a general meta-skill: when something feels alien, find the operation it shares with something familiar and let the difference collapse to a single parameter. The perceived difficulty of a new notation is almost always a failure to locate this shared structure.

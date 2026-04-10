@@ -43,12 +43,13 @@ resolutions:
     Korea's KOSPI market, making semiconductor stocks dominate the national
     economy.
 related:
+  - INS-260410-F849
   - INS-260321-52EF
   - PRI-260406-50EA
   - INS-260402-C98A
   - INS-260405-A4DB
-  - PRI-260328-99F0
   - INS-260329-E44D
+  - INS-260410-147B
 stance: >-
   Factory capacity for DRAM and NAND is fixed, but AI demand pays so much more
   that producers shifted mass production lines to HBM

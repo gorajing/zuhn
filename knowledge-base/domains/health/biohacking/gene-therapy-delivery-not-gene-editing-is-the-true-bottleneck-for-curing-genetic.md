@@ -51,9 +51,10 @@ stance: >-
   deliver them efficiently into the right cells.
 related:
   - PRI-260325-3A00
+  - INS-260410-69C2
   - PRI-260328-5989
   - INS-260325-5656
-  - INS-260403-96F9
+  - INS-260410-1AF0
   - INS-260409-D830
 evidence:
   - id: INS-260325-5656

@@ -53,8 +53,8 @@ related:
   - PRI-260325-2800
   - INS-260325-72B6
   - INS-260325-C394
+  - INS-260410-BE5A
   - PRI-260325-3A00
-  - INS-260325-5501
   - INS-260409-8759
 ---
 The fastest path to human longevity drugs is repurposing existing medications with known safety profiles. Rapamycin, originally an antifungal from Easter Island soil bacteria, targets cellular metabolism by inducing autophagy — the process of consuming and recycling damaged proteins. In 2009, it became the first drug shown to slow aging in mammals, extending late-life mouse lifespan by 10-15%.

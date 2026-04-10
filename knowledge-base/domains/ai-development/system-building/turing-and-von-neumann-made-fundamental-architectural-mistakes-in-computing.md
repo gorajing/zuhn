@@ -47,11 +47,12 @@ stance: >-
   of computation from the physical material doing the computation, and biology
   never made this mistake.
 related:
+  - INS-260410-0EF8
   - PRI-260328-C528
   - PRI-260328-4B40
+  - INS-260410-AC0B
   - INS-260404-A183
   - INS-260405-55E0
-  - INS-260325-0E70
 evidence:
   - id: INS-260329-AC6E
     type: SUPPORTS

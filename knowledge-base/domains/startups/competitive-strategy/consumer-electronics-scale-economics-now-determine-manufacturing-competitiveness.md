@@ -59,6 +59,7 @@ related:
   - INS-260403-3AF9
   - INS-260403-2B95
   - INS-260403-44D9
+  - INS-260410-D593
 ---
 The a16z analysis Smith cites makes a striking argument: the iPhone's supply chain didn't just create the smartphone industry — it created the universal substrate for all modern hardware. Batteries, sensors, motors, compute chips, and software now follow the same basic recipe across laptops, thermostats, drones, robots, and electric vehicles. These are not distinct technological paradigms but variations on one idea.
 

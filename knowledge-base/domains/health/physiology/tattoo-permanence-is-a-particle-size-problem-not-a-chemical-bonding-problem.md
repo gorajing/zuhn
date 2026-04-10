@@ -52,7 +52,6 @@ related:
   - PRI-260323-0F93
   - INS-260404-C606
   - INS-260330-9733
-  - INS-260330-E3C0
 ---
 When tattoo ink is injected into the dermis, the body's immune system immediately tries to remove it. Macrophages attempt phagocytosis — engulfing and digesting foreign particles — but tattoo ink particles are simply too large (on the order of microns) for a single macrophage to consume. The particles become trapped in the dermal layer, surrounded by immune cells but never cleared.
 

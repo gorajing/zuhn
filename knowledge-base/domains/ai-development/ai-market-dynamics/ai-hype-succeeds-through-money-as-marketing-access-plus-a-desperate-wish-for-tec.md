@@ -50,10 +50,10 @@ resolutions:
     revolutionary are exactly the people who profit from us believing it.
 related:
   - PRI-260323-1F9C
+  - INS-260410-147B
   - INS-260327-E41B
   - INS-260405-4AAD
   - PRI-260328-D292
-  - INS-260330-38C9
   - INS-260328-7241
   - INS-260405-86A1
 stance: >-

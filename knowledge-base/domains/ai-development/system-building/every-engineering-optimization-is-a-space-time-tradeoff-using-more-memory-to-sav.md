@@ -47,12 +47,11 @@ stance: >-
   recognizing which resource you're trading clarifies nearly every architecture
   decision
 related:
-  - INS-260323-6761
   - PRI-260406-8B75
+  - INS-260410-AC0B
   - INS-260329-5B50
   - PRI-260405-2DE5
   - PRI-260407-F684
-  - PRI-260406-1ED1
   - INS-260329-F886
 evidence:
   - id: INS-260330-CCF0

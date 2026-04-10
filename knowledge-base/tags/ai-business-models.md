@@ -1,6 +1,7 @@
 # Tag: ai-business-models
 
 - `INS-260404-02C8` OpenAI's $3.4B in ChatGPT subscription revenue demonstrates massive consumer demand for AI tools.
+- `INS-260410-069C` When labs split compute ~50/50 between training and inference with >50% gross margins, profit or loss each year is basically whether they bought ahead of or behind the next year's demand.
 - `INS-260322-5790` AI model input costs have declined 99%+ in two years (faster than Moore's law) while quality doubles every 7 months — meaning today's thin margins on AI apps will likely expand dramatically as long as model competition persists.
 - `INS-260404-F62A` Foundation model businesses are booming in revenue but the path to sustainable profitability remains unclear.
 - `INS-260409-5FBA` OpenAI is a consumer-subscription business and Anthropic is an API/enterprise business; comparing headline revenue numbers is apples-to-oranges until both normalize for public markets.

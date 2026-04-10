@@ -52,9 +52,8 @@ stance: >-
   technologies designed as practical engineering solutions to current hardware
   constraints.
 related:
-  - INS-260327-95D3
   - INS-260329-92FC
-  - INS-260330-CCF0
+  - INS-260410-AA40
   - INS-260405-DAC9
   - INS-260403-2CDA
   - INS-260325-4846

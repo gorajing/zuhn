@@ -54,10 +54,10 @@ resolutions:
     chairs on the Titanic' — it's the only rational action available.
 related:
   - INS-260330-0DCA
+  - INS-260410-2388
   - INS-260330-BBDA
   - PRI-260406-1911
   - INS-260404-8D23
-  - PRI-260405-C27E
   - INS-260330-BE78
   - INS-260403-C4C5
 stance: >-

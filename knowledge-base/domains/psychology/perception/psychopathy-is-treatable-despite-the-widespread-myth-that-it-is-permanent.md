@@ -47,7 +47,6 @@ stance: >-
   CBT, psychostimulants, and parent management training, contrary to the popular
   belief that psychopathic individuals are permanently unchangeable.
 related:
-  - INS-260323-198E
   - INS-260325-A36F
   - INS-260323-9C11
   - INS-260327-CEE4

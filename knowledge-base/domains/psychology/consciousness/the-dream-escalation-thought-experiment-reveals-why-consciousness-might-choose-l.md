@@ -61,7 +61,6 @@ related:
   - INS-260330-2E54
   - INS-260329-5924
   - INS-260330-206B
-  - INS-260405-C709
 evidence:
   - id: INS-260323-BDC1
     type: SUPPORTS

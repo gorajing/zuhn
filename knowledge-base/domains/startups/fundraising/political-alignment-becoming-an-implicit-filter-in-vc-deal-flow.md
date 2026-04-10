@@ -51,8 +51,8 @@ related:
   - INS-260403-3A71
   - INS-260403-3876
   - INS-260403-1287
+  - INS-260410-B2A6
   - INS-260327-7E3D
-  - INS-260404-8791
   - INS-260409-B4D0
 ---
 The visible political polarization among venture capitalists—taking sides in the Musk-Trump conflict—signals that political alignment is becoming an implicit filter in investment decisions. This goes beyond traditional industry preferences into ideological territory.

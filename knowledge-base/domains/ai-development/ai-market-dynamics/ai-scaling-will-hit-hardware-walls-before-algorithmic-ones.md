@@ -52,11 +52,11 @@ stance: >-
   hardware capabilities the new bottleneck.
 related:
   - INS-260323-257D
+  - INS-260410-AC0B
   - PRI-260406-4B37
   - INS-260325-5CB1
   - INS-260404-9DBB
   - INS-260405-D638
-  - PRI-260407-B738
 ---
 Musk's argument for orbital data centers stems from a broader claim: AI is transitioning from a software-constrained to a hardware-constrained field. Terrestrial grids face physical limits on the electricity and cooling infrastructure needed for continued model scaling. His prediction that space-based compute (leveraging constant solar power and vacuum cooling) will be the lowest-cost compute within 3 years is aggressive but directionally important.
 

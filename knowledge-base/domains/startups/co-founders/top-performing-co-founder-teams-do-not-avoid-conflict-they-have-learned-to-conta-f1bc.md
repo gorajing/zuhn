@@ -51,13 +51,11 @@ stance: >-
   absence of conflict but the ability to contain it — giving conflict a time,
   space, and structure prevents it from bleeding into daily operations.
 related:
-  - INS-260323-874F
   - INS-260405-346A
   - PRI-260324-3AAE
   - PRI-260328-902C
+  - INS-260410-AB78
   - INS-260325-0FED
-  - INS-260330-7A80
-  - INS-260330-A812
 evidence:
   - id: INS-260323-874F
     type: TRANSFERS_TO

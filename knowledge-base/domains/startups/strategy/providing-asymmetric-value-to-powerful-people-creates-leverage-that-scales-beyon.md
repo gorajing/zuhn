@@ -51,7 +51,6 @@ stance: >-
   the political value to them is enormous.
 related:
   - INS-260320-B8B0
-  - INS-260327-C4AD
   - INS-260330-4A1F
   - INS-260403-8CDC
   - INS-260330-27E8

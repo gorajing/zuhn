@@ -48,10 +48,10 @@ resolutions:
     NVIDIA GPUs because CUDA existed.
 related:
   - INS-260325-2FC1
+  - INS-260410-0EF8
   - INS-260325-5B7F
+  - INS-260410-AA40
   - INS-260327-CFD5
-  - INS-260405-7383
-  - INS-260405-131B
   - INS-260327-26BF
 stance: >-
   NVIDIA created CUDA to let any programmer use GPU parallel processing via

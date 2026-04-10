@@ -2,7 +2,6 @@
 
 - `INS-260323-01F9` Iterative public deployment of imperfect models surfaces discoveries — both positive and negative — that internal testing cannot.
 - `INS-260320-508F` Don't lead in prompts if you want honest feedback — Claude tells you what it thinks you want to hear.
-- `INS-260322-1C17` Find 2-3 peers at a similar skill level who will give brutally honest feedback, and don't release anything until it passes their criticism.
 - `INS-260404-8031` You need colleagues who can see promise in rough early work, not just people who say everything is great.
 - `INS-260403-5216` The right creative peers aren't cheerleaders but fellow practitioners who can tell whether early ugly work has genuine promise.
 - `INS-260404-4985` Surround yourself with peers who can tell the difference between promising-but-ugly early work and genuinely bad work, not people who encourage everything.
@@ -28,3 +27,4 @@
 - `INS-260405-7A41` VCs who need founders to like them end up softening feedback, creating a 'trough' where founders receive pleasant noise instead of useful signal.
 - `INS-260404-FA5B` You need peers who can tell an ugly duckling from a baby swan, not just people who are always encouraging.
 - `INS-260323-40AA` Friends and acquaintances will give positive feedback and feature requests not because they want your product, but because they want to be nice to you — this deceiving signal drives fatal feature creep.
+- `INS-260322-1C17` Find 2-3 peers at a similar skill level who will give brutally honest feedback, and don't release anything until it passes their criticism.

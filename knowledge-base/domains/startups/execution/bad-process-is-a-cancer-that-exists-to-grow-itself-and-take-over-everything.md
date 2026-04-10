@@ -44,10 +44,10 @@ stance: >-
   self-correct once this starts.
 related:
   - INS-260328-6E7A
+  - INS-260410-147B
   - INS-260323-4945
   - PRI-260328-06F1
   - INS-260323-03F4
-  - PRI-260328-C528
 evidence:
   - id: INS-260323-4945
     type: SUPPORTS

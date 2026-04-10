@@ -46,11 +46,11 @@ resolutions:
     it requires genuine commitment of resources (94% of wealth), not just PR
     gestures.
 related:
-  - INS-260323-D479
   - INS-260323-E797
+  - INS-260323-D479
   - INS-260323-AEA5
   - INS-260323-F2C3
-  - INS-260327-7F6A
+  - INS-260410-B2A6
 stance: Today almost no one associates Nobel with dynamite
 evidence:
   - id: INS-260323-F2C3

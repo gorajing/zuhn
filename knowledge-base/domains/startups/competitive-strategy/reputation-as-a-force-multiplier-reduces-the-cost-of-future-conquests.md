@@ -48,10 +48,10 @@ stance: >-
 related:
   - INS-260325-4EE9
   - INS-260330-B444
+  - INS-260410-A992
   - INS-260327-DC45
   - INS-260327-9CAD
   - INS-260327-E7AC
-  - INS-260327-35CB
 evidence:
   - id: INS-260327-9CAD
     type: CONTRADICTS

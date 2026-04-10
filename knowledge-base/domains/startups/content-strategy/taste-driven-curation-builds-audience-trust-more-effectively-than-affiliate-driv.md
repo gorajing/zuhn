@@ -49,7 +49,6 @@ stance: >-
   Explicitly disclaiming financial incentives in product recommendations builds
   stronger long-term audience trust than monetized affiliate content.
 related:
-  - INS-260327-6E86
   - INS-260329-2EB1
   - PRI-260406-1A55
   - INS-260403-A101

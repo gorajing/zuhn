@@ -1,5 +1,5 @@
 # Source Map
-Generated on 2026-04-10 | 2477 sources
+Generated on 2026-04-10 | 2526 sources
 
 | Source | Type | Insights | Date |
 |--------|------|----------|------|
@@ -218,7 +218,6 @@ Generated on 2026-04-10 | 2477 sources
 | Linear transformations and matrices | Chapter 3, Essence of linear algebra | youtube | 7 | 2026-03-30 |
 | Michio Kaku: The impending collapse of digital computing as we know it | youtube | 7 | 2026-03-25 |
 | Scientists observe atoms existing in two places at once for the first time | youtube | 7 | 2026-04-09 |
-| Terence Tao – How the world’s top mathematician uses AI | youtube | 7 | 2026-03-22 |
 | The art and science of failing well | youtube | 7 | 2026-03-25 |
 | The Crazy Business of Pokémon Cards | youtube | 7 | 2026-03-24 |
 | The most important piece of technology in your lifetime is this tiny chip | Chris Miller | youtube | 7 | 2026-03-25 |
@@ -657,6 +656,8 @@ Generated on 2026-04-10 | 2477 sources
 | A Process for Finding & Achieving Your Unique Purpose | Robert Greene | youtube | 5 | 2026-03-30 |
 | A Tale of Greed: How 4 CEOs and $5B Failed Twitter | youtube | 5 | 2026-03-24 |
 | ADHD & How Anyone Can Improve Their Focus | youtube | 5 | 2026-03-30 |
+| AGI is still 30 years away — Ege Erdil & Tamay Besiroglu | youtube | 5 | 2026-04-10 |
+| AI 2027: month-by-month model of intelligence explosion — Scott Alexander & Daniel Kokotajlo | youtube | 5 | 2026-04-10 |
 | 나의 완벽한 비서 - AI 에이전트 시대 [풀영상] | 창 540회 (KBS 26.3.17.) | youtube | 5 | 2026-03-22 |
 | AI시대에 60살까지 일하고 싶으면 '리더'해야 합니다.ㅣ한기용의 나침반 | youtube | 5 | 2026-03-22 |
 | AI Eats the World: Benedict Evans on the Next Platform Shift | youtube | 5 | 2026-03-22 |
@@ -688,6 +689,7 @@ Generated on 2026-04-10 | 2477 sources
 | Coffeezilla: SBF, FTX, Fraud, Scams, Fake Gurus, Money, Fame, and Power | Lex Fridman Podcast #345 | youtube | 5 | 2026-03-30 |
 | Conflict in Israel and Palestine through 2015: Crash Course World History #223 | youtube | 5 | 2026-03-30 |
 | Controlling Your Dopamine For Motivation, Focus & Satisfaction | youtube | 5 | 2026-03-30 |
+| Dario Amodei — “We are near the end of the exponential” | youtube | 5 | 2026-04-10 |
 | David Deutsch: Knowledge Creation and The Human Race, Part 1 | youtube | 5 | 2026-03-30 |
 | David Kipping: Alien Civilizations and Habitable Worlds | Lex Fridman Podcast #355 | youtube | 5 | 2026-03-30 |
 | Deep Dive into LLMs like ChatGPT | youtube | 5 | 2026-04-10 |
@@ -698,10 +700,13 @@ Generated on 2026-04-10 | 2477 sources
 | Dr. Andy Galpin: How to Build Strength, Muscle Size & Endurance | youtube | 5 | 2026-03-30 |
 | Dr. Andy Galpin: Optimal Nutrition & Supplementation for Fitness | Huberman Lab Guest Series | youtube | 5 | 2026-03-30 |
 | Dr. Paul Conti: How to Understand & Assess Your Mental Health | Huberman Lab Guest Series | youtube | 5 | 2026-03-30 |
+| Dylan Patel — The single biggest bottleneck to scaling AI compute | youtube | 5 | 2026-04-10 |
 | Effects of Fasting & Time Restricted Eating on Fat Loss & Health | Huberman Lab Podcast #41 | youtube | 5 | 2026-03-30 |
+| Elon Musk – "In 36 months, the cheapest place to put AI will be space” | youtube | 5 | 2026-04-10 |
 | Elon Musk: SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI | Lex Fridman Podcast #252 | youtube | 5 | 2026-03-30 |
 | Emil Michael: The Department of War Is Moving Faster Than Silicon Valley on AI | The a16z Show | youtube | 5 | 2026-03-22 |
 | Everything We Teach at YCombinator in 10 Minutes | youtube | 5 | 2026-03-27 |
+| Evolution designed us to die fast; we can change that — Jacob Kimmel | youtube | 5 | 2026-04-10 |
 | Feel Free is a NIGHTMARE | youtube | 5 | 2026-03-26 |
 | From $0 to $11B: The ElevenLabs Story | youtube | 5 | 2026-03-22 |
 | From Idea to $650M Exit: Lessons in Building AI Startups | youtube | 5 | 2026-03-27 |
@@ -749,10 +754,12 @@ Generated on 2026-04-10 | 2477 sources
 | Inside The Navy's Indoor Ocean | youtube | 5 | 2026-03-30 |
 | Inside the New Media Team with Marc Andreessen & Ben Horowitz | youtube | 5 | 2026-03-22 |
 | Is Amazon Too Big? | youtube | 5 | 2026-03-30 |
+| Is RL + LLMs enough for AGI? — Sholto Douglas & Trenton Bricken | youtube | 5 | 2026-04-10 |
 | Islam, the Quran, and the Five Pillars: Crash Course World History #13 | youtube | 5 | 2026-03-30 |
 | Isolation - Mind Field (Ep 1) | youtube | 5 | 2026-03-30 |
 | Israel, Hamas, and the Battle for Civilization | Sam Harris & Douglas Murray | youtube | 5 | 2026-03-30 |
 | It's Actually Pretty Easy to Get Ahead of 99% of People | youtube | 5 | 2026-03-30 |
+| Jeff Dean & Noam Shazeer — 25 years at Google: from PageRank to AGI | youtube | 5 | 2026-04-10 |
 | Jeff Kaplan: World of Warcraft, Overwatch, Blizzard, and Future of Gaming | Lex Fridman Podcast #493 | youtube | 5 | 2026-03-23 |
 | Jensen Huang: NVIDIA - The $4 Trillion Company & the AI Revolution | Lex Fridman Podcast #494 | youtube | 5 | 2026-03-23 |
 | Joe Rogan: Comedy, Controversy, Aliens, UFOs, Putin, CIA, and Freedom | Lex Fridman Podcast #300 | youtube | 5 | 2026-03-30 |
@@ -794,6 +801,8 @@ Generated on 2026-04-10 | 2477 sources
 | Sam Harris & Ben Shapiro Debate: Trump, Election Interference, & Foreign Policy | youtube | 5 | 2026-03-30 |
 | Sam Harris Challenges Douglas Murray on His Ties to MAGA | youtube | 5 | 2026-03-30 |
 | Sam Harris on Tariffs, SignalGate, Trump, Elon, Joe Rogan, & Douglas Murray | youtube | 5 | 2026-03-30 |
+| Sarah Paine — The war for India (lecture & interview) | youtube | 5 | 2026-04-10 |
+| Sarah Paine — Why Japan lost WWII (lecture & interview) | youtube | 5 | 2026-04-10 |
 | Science of Muscle Growth, Increasing Strength & Muscular Recovery | youtube | 5 | 2026-03-30 |
 | Singapore: The World's Only Successful Dictatorship? | youtube | 5 | 2026-03-30 |
 | Slop vs Craft | youtube | 5 | 2026-03-29 |
@@ -852,6 +861,7 @@ Generated on 2026-04-10 | 2477 sources
 | Which Way Is Down? | youtube | 5 | 2026-03-30 |
 | Why AI is Failing: Ex-Google Chief Cassie Kozyrkov Debunks "AI-first" | youtube | 5 | 2026-03-23 |
 | Why AI Moats Still Matter (And How They've Changed) | youtube | 5 | 2026-03-22 |
+| Why China's manufacturing economy is dominating — Arthur Kroeber | youtube | 5 | 2026-04-10 |
 | Why In-N-Out Isn't Coming to a City Near You | youtube | 5 | 2026-03-30 |
 | Why It Was Almost Impossible to Make the Blue LED | youtube | 5 | 2026-03-30 |
 | Why Netflix is Collapsing: The Truth About Netflix's Empire | youtube | 5 | 2026-03-30 |
@@ -2198,10 +2208,6 @@ Generated on 2026-04-10 | 2477 sources
 | Building the Zuhn knowledge base — lessons from Phase 1-5 | paste | 0 | 2026-03-20 |
 | Cross-domain synthesis — Phase 20 bridging insights | paste | 0 | 2026-03-27 |
 | The Leverage Field Manual — How to multiply your output without working more | paste | 0 | 2026-03-22 |
-| 2504.19874v1 | pdf | 0 | 2026-03-26 |
-| @u.northwestern.edu Mail - How Roblox Uses AI to Translate 16 Languages in 100 Milliseconds | pdf | 0 | 2026-03-30 |
-| @u.northwestern.edu Mail - The Agentic AI Tipping Point | pdf | 0 | 2026-03-30 |
-| Claude for Finance | pdf | 0 | 2026-03-22 |
 | This Automation Took Me From 0 to 175k Followers in Under 12 Months | reddit | 0 | 2026-03-20 |
 | After learning this, my AI workflows cost me 30x less | reddit | 0 | 2026-03-20 |
 | Claude Code usage limit hack | reddit | 0 | 2026-03-20 |
@@ -2214,6 +2220,10 @@ Generated on 2026-04-10 | 2477 sources
 | I built a workflow that turns YouTube transcripts into newsletter style summaries | reddit | 0 | 2026-03-20 |
 | Sound Design Breakdown [and tutorial] | reddit | 0 | 2026-03-20 |
 | [Tutorial] All there is to know about syncing video and audio | reddit | 0 | 2026-03-20 |
+| 2504.19874v1 | pdf | 0 | 2026-03-26 |
+| @u.northwestern.edu Mail - How Roblox Uses AI to Translate 16 Languages in 100 Milliseconds | pdf | 0 | 2026-03-30 |
+| @u.northwestern.edu Mail - The Agentic AI Tipping Point | pdf | 0 | 2026-03-30 |
+| Claude for Finance | pdf | 0 | 2026-03-22 |
 | 10 contrarian leadership truths every leader needs to hear | Matt MacInnis (Rippling) | blog | 0 | 2026-03-31 |
 | 10 lessons on bootstrapping a $200m business | Patrick Campbell (ProfitWell) | blog | 0 | 2026-03-31 |
 | 100 AI Agent Ideas to Build in 2026 (Complete List + Tools) | blog | 0 | 2026-03-30 |
@@ -2466,17 +2476,56 @@ Generated on 2026-04-10 | 2477 sources
 | Write Simply | blog | 0 | 2026-03-31 |
 | Writing, Briefly | blog | 0 | 2026-03-31 |
 | YC W26 Batch: Complete Database of 196 Companies (2026) | blog | 0 | 2026-03-30 |
+| 20th Century's Most Lethal Leader – Sarah Paine (Lecture Excerpt) | youtube | 0 | 2026-04-10 |
+| A billion years of evolution in a single afternoon — George Church | youtube | 0 | 2026-04-10 |
+| Adam Marblestone – AI is missing something fundamental about the brain | youtube | 0 | 2026-04-10 |
+| AMA: career advice given AGI, how I research ft. Sholto & Trenton | youtube | 0 | 2026-04-10 |
+| Andrej Karpathy — “We’re summoning ghosts, not building animals” | youtube | 0 | 2026-04-10 |
+| Artificial meat is harder than artificial intelligence — Lewis Bollard | youtube | 0 | 2026-04-10 |
+| Attacking America Is a Devastating Miscalculation – Sarah Paine | youtube | 0 | 2026-04-10 |
 | Bill Nye: Creationism Is Not Appropriate For Children | Big Think | youtube | 0 | 2026-03-30 |
 | Brainf**k in 100 Seconds | youtube | 0 | 2026-03-30 |
+| "China is digging out of a crisis. And America’s luck is wearing thin." — Ken Rogoff | youtube | 0 | 2026-04-10 |
+| China is killing the US on energy. Does that mean they’ll win AGI? — Casey Handmer | youtube | 0 | 2026-04-10 |
 | Donut-shaped C code that generates a 3D spinning donut | youtube | 0 | 2026-03-30 |
+| Fully autonomous robots are much closer than you think – Sergey Levine | youtube | 0 | 2026-04-10 |
+| “I find it almost disturbing that the universe favors life this strongly” – Nick Lane | youtube | 0 | 2026-04-10 |
 | If You Want to Learn, Do | youtube | 0 | 2026-03-30 |
+| Ilya Sutskever – We're moving from the age of scaling to the age of research | youtube | 0 | 2026-04-10 |
 | Improvising in Africa.  Warning - GROSS - Smarter Every Day 28 | youtube | 0 | 2026-03-30 |
+| Joseph Henrich — Humans defeated smarter species with cultural evolution | youtube | 0 | 2026-04-10 |
+| Mark Zuckerberg — AI will write most Meta code in 18 months | youtube | 0 | 2026-04-10 |
+| Michael Nielsen – Why aliens will have a different tech stack than us | youtube | 0 | 2026-04-10 |
 | Mind Field - Official Trailer | youtube | 0 | 2026-03-30 |
+| Notes on China | youtube | 0 | 2026-04-10 |
 | Python in 100 Seconds | youtube | 0 | 2026-03-30 |
+| Richard Sutton – Father of RL thinks LLMs are a dead end | youtube | 0 | 2026-04-10 |
+| Sarah Paine – How Hitler almost starved Britain | youtube | 0 | 2026-04-10 |
+| Sarah Paine — How Imperial Japan defeated Tsarist Russia & Qing China | youtube | 0 | 2026-04-10 |
+| Sarah Paine — How Mao conquered China (lecture & interview) | youtube | 0 | 2026-04-10 |
+| Sarah Paine — How Russia sabotaged China's rise | youtube | 0 | 2026-04-10 |
+| Sarah Paine – Why Russia Lost the Cold War | youtube | 0 | 2026-04-10 |
+| Satya Nadella – How Microsoft thinks about AGI | youtube | 0 | 2026-04-10 |
+| Satya Nadella — Microsoft’s AGI plan & quantum breakthrough | youtube | 0 | 2026-04-10 |
+| Satya Nadella shows me the first Majorana 1 Quantum Computing chip | youtube | 0 | 2026-04-10 |
+| Some thoughts on the Sutton interview | youtube | 0 | 2026-04-10 |
 | Spend More Time Making the Big Decisions | youtube | 0 | 2026-03-30 |
 | Stable diffusion dreams of "blueberry spaghetti" for one night | youtube | 0 | 2026-04-10 |
 | Stable diffusion dreams of psychedelic faces | youtube | 0 | 2026-04-10 |
 | Stable diffusion dreams of steam punk neural networks | youtube | 0 | 2026-04-10 |
 | Stable diffusion dreams of steampunk brains | youtube | 0 | 2026-04-10 |
 | Stable diffusion dreams of tattoos | youtube | 0 | 2026-04-10 |
+| Stephen Kotkin — How Stalin became the most powerful dictator in history | youtube | 0 | 2026-04-10 |
+| Terence Tao – How the world’s top mathematician uses AI | youtube | 0 | 2026-04-10 |
+| "The Brilliance of Communism" – Sarah Paine | youtube | 0 | 2026-04-10 |
+| The Limits of American Power – Sarah Paine | youtube | 0 | 2026-04-10 |
+| The most important question nobody's asking about AI. | youtube | 0 | 2026-04-10 |
+| Unlimited War: Putin vs Bismarck – Sarah Paine | youtube | 0 | 2026-04-10 |
+| Was The War Against Japan Avoidable? - Sarah Paine | youtube | 0 | 2026-04-10 |
+| What are we scaling? | youtube | 0 | 2026-04-10 |
+| What will automated firms look like? | youtube | 0 | 2026-04-10 |
+| Why I don’t think AGI is right around the corner | youtube | 0 | 2026-04-10 |
+| Why Leonardo was a saboteur, Gutenberg went broke, and Florence was weird – Ada Palmer | youtube | 0 | 2026-04-10 |
+| Why Rome actually fell: plagues, slavery, & ice age — Kyle Harper | youtube | 0 | 2026-04-10 |
+| Xi Jinping’s paranoid approach to AGI, debt crisis, & Politburo politics — Victor Shih | youtube | 0 | 2026-04-10 |
 | Your desires are not yours. | youtube | 0 | 2026-03-30 |

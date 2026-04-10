@@ -52,6 +52,6 @@ related:
   - PRI-260406-6CA8
   - INS-260321-53E2
   - INS-260329-21C0
-  - INS-260329-02B3
+  - INS-260410-AA40
 ---
 Before the video shows the trick, the listener expects that a computer needs a subtraction circuit. After, they see that choosing two's complement as the integer representation means subtraction is just addition with every bit of the subtrahend inverted and a one added — which means the same 8-bit adder handles both, with a single control line flipping between modes. This is a profound pattern: in any system, the right representation can turn a hard operation into a cheap one. Before building a new mechanism, ask whether a change of representation eliminates the need for it. Software engineers rediscover this every generation — pick the data structure, and the code writes itself.

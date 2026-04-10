@@ -48,7 +48,6 @@ related:
   - INS-260404-8E68
   - INS-260329-C91D
   - INS-260325-D9D8
-  - INS-260328-0345
 stance: >-
   The most powerful thing you can do right now is not adding something to your
   life but cutting

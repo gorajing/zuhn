@@ -58,9 +58,9 @@ stance: >-
 related:
   - PRI-260328-D893
   - INS-260409-1078
+  - INS-260410-C022
   - INS-260330-189F
   - INS-260402-8E46
-  - PRI-260405-FB37
 ---
 Counting-based n-gram models have the appeal of being trivially optimal for their objective — you cannot do better than the maximum likelihood estimate you get by counting. But the moment you want to condition on more than a couple of previous tokens, the table needs an entry for every possible combination of context tokens. For a character-level model with 27 symbols, a trigram needs 27^3 entries, a 4-gram needs 27^4, and a 10-gram requires ~2×10^14 cells — most of which will never be observed in any realistic corpus.
 

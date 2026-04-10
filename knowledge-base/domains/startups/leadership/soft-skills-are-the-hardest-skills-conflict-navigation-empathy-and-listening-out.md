@@ -48,7 +48,7 @@ related:
   - INS-260403-7FFA
   - INS-260403-22C2
   - INS-260323-FE69
-  - INS-260320-DDD9
+  - INS-260410-67D5
 stance: >-
   With 44% of technical skills becoming obsolete within 10 years, the hardest
   and most durable leadership skills are the soft ones

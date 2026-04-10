@@ -45,7 +45,6 @@ resolutions:
     the growth you asked for.
 related:
   - INS-260323-28FB
-  - INS-260323-BDC1
   - INS-260323-9C11
   - INS-260409-7DB7
   - INS-260325-13B9

@@ -43,10 +43,10 @@ stance: >-
   by default, which is why the deliberate renaming to UAP ('unidentified aerial
   phenomenon') is an epistemic move, not a bureaucratic one.
 related:
+  - INS-260410-9A24
   - INS-260325-1709
   - INS-260325-A070
   - INS-260409-CE1D
   - INS-260327-65F9
-  - INS-260327-F7BD
 ---
 The physicist notes that the stigma around UFO research among scientists comes partly from the word itself: calling something a 'flying object' presupposes a solid, piloted thing moving through air, which makes reframing it as a lens flare, plasma discharge, or atmospheric lensing feel like a retreat instead of a first hypothesis. Replacing 'UFO' with 'UAP' (Unidentified Aerial Phenomenon) explicitly demotes the 'object' assumption and lets scientists study the cases without the taboo. This is a concrete case of framing-effects in scientific taxonomy: the category you create is the hypothesis you will test.

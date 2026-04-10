@@ -48,6 +48,6 @@ related:
   - INS-260409-EE73
   - INS-260322-3A00
   - PRI-260325-2DE6
-  - PRI-260328-F804
+  - INS-260410-69C2
 ---
 Rivnay's group is building biohybrid devices that co-package living cells (which manufacture a biologic) with bioelectronic control hardware, then implant the assembly to treat conditions like ovarian cancer or chronic disease subcutaneously. The value proposition is that the drug is produced locally, at variable rates, and only when needed — collapsing the supply chain, reducing systemic exposure, and sidestepping the absorption/distribution losses of oral or injected biologics. This reframes 'drug delivery' as 'drug manufacturing at the site of action.'

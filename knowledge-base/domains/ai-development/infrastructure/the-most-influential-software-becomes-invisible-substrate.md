@@ -52,7 +52,6 @@ stance: >-
   git, yet most developers working in those systems never encounter it directly.
 related:
   - INS-260323-042C
-  - INS-260323-8DE7
   - INS-260329-6A60
   - INS-260403-F100
   - INS-260405-EFC2

@@ -52,10 +52,10 @@ stance: >-
   both the act and the deception.
 related:
   - PRI-260406-82EA
+  - INS-260410-3A01
   - INS-260330-3084
   - INS-260330-A1AF
   - INS-260327-F484
-  - INS-260403-583B
 evidence:
   - id: INS-260330-3084
     type: EXTENDS

@@ -58,6 +58,7 @@ related:
   - INS-260321-18D0
   - INS-260330-A260
   - INS-260403-656F
+  - INS-260410-2307
 stance: >-
   Peter Steinberger runs 4-10 parallel Claude Code agents simultaneously, rarely
   uses an IDE, and explicitly doesn't read 'boring' code (data transfo...

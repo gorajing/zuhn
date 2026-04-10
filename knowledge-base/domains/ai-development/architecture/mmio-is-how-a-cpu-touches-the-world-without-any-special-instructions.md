@@ -52,7 +52,7 @@ related:
   - INS-260330-9D44
   - INS-260409-C1B2
   - INS-260405-11EA
+  - INS-260410-AA40
   - INS-260322-F46F
-  - INS-260329-818A
 ---
 The video's bridge from a toy CPU to a real ARM-v6 Raspberry Pi Pico hinges on this realization. The ARM instruction set has no 'turn on LED' instruction — it only has loads, stores, and arithmetic. Instead, certain memory addresses are wired at the chip level to physical output pins, so storing a 1 to address 0xD0000014 with bit 25 set physically lights up GPIO pin 25. This is memory-mapped I/O, and it means the boundary between 'computation' and 'the physical world' is just a wiring decision. Any program that interacts with the outside world — a game drawing pixels, a printer driver, a sensor reader — is fundamentally doing the same thing: writing to addresses that happen to be connected to things. There is no separate 'I/O' substance in the machine.

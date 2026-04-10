@@ -55,13 +55,13 @@ related:
   - INS-260322-888D
   - INS-260321-53E2
   - INS-260323-2117
-  - INS-260325-5B7F
   - INS-260325-2F12
   - INS-260325-B61B
   - INS-260325-03D5
   - INS-260323-1302
   - INS-260330-F2EB
   - INS-260330-541B
+  - PRI-260328-8516
 ---
 Terence Tao observes that AI approaches mathematics fundamentally differently from humans: instead of small groups spending months on hard problems, AI systematically sweeps a thousand problems and solves the 12 easiest ones. This mirrors China's innovation strategy where massive volumes of incremental results compound into transformative technology advantages.
 

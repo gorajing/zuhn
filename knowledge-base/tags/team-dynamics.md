@@ -1,5 +1,7 @@
 # Tag: team-dynamics
 
+- `INS-260410-10C9` Google Brain's bottom-up 'one credit per researcher, pool them as you like' chip allocation rewarded dropping failed ideas; Gemini's top-down allocation leads every group to report 'my thing is working, give me more chips.'
+
 - `INS-260403-8B68` 35% of US startups are solo-founded but only 17% of VC-funded startups are, and 24% of 2-founder teams lose a co-founder by year 4.
 - `INS-260326-2E56` When a team's culture prioritizes niceness over candor, the loudest and most aggressive person rises while everyone else retreats into passive-aggressive behavior.
 - `INS-260327-3C96` You need to know whether you can work with people in extremely stressful situations — skills matter less than stress compatibility.

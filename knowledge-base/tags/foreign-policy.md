@@ -1,5 +1,6 @@
 # Tag: foreign-policy
 
+- `INS-260410-C207` The WWII Allies had mutually exclusive end-states but a common existential enemy in Hitler, while the Axis shared ideology but fought parallel wars because their primary enemies didn't align — which let the Allies defeat them in detail.
 - `INS-260330-97B3` Clear, credible 'cross this line and I'll hit you' deterrence often outperforms nuanced diplomatic strategies in preventing adversary escalation.
 - `INS-260323-4473` In business you solve a problem and move on; in political deal-making, the conclusion of one problem set is the beginning of an entirely new paradigm that must sustain itself.
 - `INS-260330-1622` Seemingly incoherent organizational behavior often reflects unresolved internal faction conflicts rather than incompetence or randomness.

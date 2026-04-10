@@ -52,11 +52,11 @@ stance: >-
   confrontation.
 related:
   - INS-260321-13C6
-  - INS-260327-4D1F
   - PRI-260328-43D8
   - INS-260327-842F
+  - INS-260410-3A01
+  - INS-260327-4D1F
   - INS-260327-8AF8
-  - INS-260327-CF72
   - INS-260403-8155
 evidence:
   - id: INS-260321-13C6

@@ -53,14 +53,15 @@ stance: >-
   simulation must always be slightly less than 50%, because base reality exists
   even in the simulation scenario.
 related:
-  - INS-260323-584D
   - INS-260326-841D
+  - INS-260323-584D
   - INS-260323-B849
   - INS-260330-264B
   - INS-260323-6D41
   - INS-260330-E4FA
   - INS-260330-5E67
   - INS-260409-74B9
+  - INS-260410-3075
 evidence:
   - id: INS-260330-264B
     type: TRANSFERS_TO

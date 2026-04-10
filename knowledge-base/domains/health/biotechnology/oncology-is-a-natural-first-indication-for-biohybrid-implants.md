@@ -44,10 +44,10 @@ stance: >-
   for biohybrid implants because site-specific delivery, tolerance for invasive
   implantation, and measurable biomarkers all align.
 related:
+  - INS-260410-69C2
   - INS-260404-1E65
   - INS-260403-5301
   - INS-260322-3A00
   - INS-260403-C5D8
-  - INS-260327-3D1C
 ---
 Rivnay cites ovarian cancer as a target indication, which is a defensible choice of wedge: patients already tolerate intraperitoneal surgery, tumors are anatomically localized so site-of-action delivery has an obvious advantage over systemic dosing, and treatment response produces quantifiable biomarkers. Contrast this with general chronic disease where implantation is a hard sell relative to an injection or pill. The lesson is broader — novel implantable therapies should debut where the status quo is already invasive and systemic delivery is already suboptimal.

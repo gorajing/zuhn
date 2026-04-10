@@ -48,7 +48,6 @@ stance: >-
   their defection has maximum strategic impact, because that is when the winning
   side will offer the best terms.
 related:
-  - INS-260321-10FF
   - INS-260327-377A
   - INS-260327-E7AC
   - INS-260327-C7BF

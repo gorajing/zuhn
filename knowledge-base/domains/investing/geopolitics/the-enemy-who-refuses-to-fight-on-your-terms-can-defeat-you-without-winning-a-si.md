@@ -57,7 +57,6 @@ related:
   - INS-260327-C22F
   - INS-260327-1756
   - PRI-260328-43D8
-  - INS-260330-3274
 evidence:
   - id: INS-260330-3274
     type: CONTRADICTS

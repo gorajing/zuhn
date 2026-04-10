@@ -50,10 +50,10 @@ stance: >-
   decisions than believing it requires active effort to achieve.
 related:
   - INS-260323-0D51
-  - INS-260327-9CAD
   - PRI-260328-FA83
+  - INS-260327-9CAD
+  - INS-260410-1345
   - INS-260403-7644
-  - INS-260329-C26B
 ---
 Marx believed vast social forces would inevitably push society toward communism, which caused Marxists to underinvest in correcting their own mistakes. When the Cold War ended, it turned out History wasn't coming to save them. The same pattern applies to any movement or organization that treats success as predetermined: it stops picking battles strategically, refuses compromise as unnecessary, and conflates patience with passivity.
 

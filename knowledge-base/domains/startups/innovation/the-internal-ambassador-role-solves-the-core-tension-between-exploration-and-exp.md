@@ -50,10 +50,10 @@ stance: >-
   sharing
 related:
   - INS-260404-17DD
+  - INS-260410-69C2
   - PRI-260407-3179
   - INS-260403-4E9D
   - INS-260403-9FE2
-  - INS-260329-D1A1
 evidence:
   - id: INS-260403-0525
     type: TRANSFERS_TO

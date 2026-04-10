@@ -1,8 +1,10 @@
 # Topic: macro
 
-> 9 insights
+> 11 insights
 
 - `INS-260405-397C` [high] A continuing resolution ending January 30 means the same fight resumes in six weeks with even less goodwill.
+- `INS-260410-4357` [high] At scale, effectiveness of achieving outcomes matters more than efficiency of resource use — the 'waste' in China's growth was the mechanism that produced the growth.
+- `INS-260410-147B` [high] China built a magnificent production machine but no demand machine — the result is deflation, shrinking pricing power, and growth below potential even as tech capacity soars.
 - `INS-260405-AB6B` [high] The SRF caps rates by providing unlimited cash against collateral; the RRP floors rates by offering a guaranteed return that crowds out sub-Fed-rate private lending.
 - `INS-260405-F6E6` [high] America's $32B agricultural trade deficit in 2024 signals a structural shift after decades as a net food exporter.
 - `INS-260405-25DD` [high] December 31 Fed facility spikes are a predictable accounting artifact of banks shrinking balance sheets for year-end regulatory snapshots.

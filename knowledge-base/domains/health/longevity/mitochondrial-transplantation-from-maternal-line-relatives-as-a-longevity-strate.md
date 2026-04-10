@@ -56,11 +56,11 @@ stance: >-
   biologically coherent rejuvenation strategy, with the feasibility bottleneck
   being delivery rather than source material.
 related:
-  - INS-260325-9F5F
   - INS-260330-3082
   - PRI-260406-350B
+  - INS-260325-9F5F
+  - INS-260410-69C2
   - INS-260404-FF39
-  - INS-260330-2BA7
 ---
 The coherent parts of this idea: mtDNA is inherited exclusively from the mother, mtDNA damage accumulates with age and is a Lopez-Otin hallmark, and mitochondria from a young niece or nephew would be genetically close enough to the recipient to minimize immune rejection. A recent paper referenced in the conversation used a red-blood-cell envelope coating to improve cellular uptake and reduce immune clearance, which is a plausible delivery approach.
 

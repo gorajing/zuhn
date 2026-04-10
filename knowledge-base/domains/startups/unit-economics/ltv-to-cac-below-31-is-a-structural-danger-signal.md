@@ -50,13 +50,12 @@ evidence:
     classified_at: '2026-04-05'
 related:
   - INS-260325-8A61
-  - INS-260320-8688
   - INS-260327-4BC6
-  - INS-260328-EA3A
   - INS-260329-ADCD
   - INS-260329-49A4
   - INS-260405-B4D4
   - INS-260403-35A6
   - INS-260405-3098
+  - INS-260320-8688
 ---
 The model flags LTV:CAC below 3:1 as a red-alert condition. This ratio captures whether the lifetime value of a customer meaningfully exceeds what it cost to acquire them — accounting for gross margin, churn, and payback period. A ratio below 3:1 means either CAC is too high (inefficient acquisition) or LTV is too low (churn erodes value before payback). Scaling a business with poor unit economics accelerates cash burn without building durable value. Founders must fix the ratio before pouring fuel into growth channels, or investor dollars will exit through leaking unit economics faster than they arrive.

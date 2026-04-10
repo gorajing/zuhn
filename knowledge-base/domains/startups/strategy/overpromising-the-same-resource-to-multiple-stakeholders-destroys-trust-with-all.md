@@ -53,9 +53,9 @@ stance: >-
 related:
   - INS-260330-D968
   - INS-260403-583B
+  - INS-260410-C207
   - INS-260330-2EB0
   - INS-260327-8DAA
-  - PRI-260406-82EA
   - INS-260405-B59F
 evidence:
   - id: INS-260327-8DAA

@@ -55,7 +55,6 @@ related:
   - INS-260330-6165
   - INS-260330-849D
   - INS-260330-D2D2
-  - INS-260409-C758
 stance: >-
   Hamkins proves every natural number is interesting via contradiction: if
   boring numbers existed, the smallest boring number would be interesting fo...

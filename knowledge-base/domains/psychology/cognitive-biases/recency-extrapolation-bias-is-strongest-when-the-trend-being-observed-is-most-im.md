@@ -61,10 +61,10 @@ stance: >-
   when the underlying dynamic is closest to reverting.
 related:
   - INS-260403-225B
+  - INS-260410-2388
   - PRI-260325-070D
   - PRI-260406-006A
   - INS-260405-5EB2
-  - PRI-260327-5635
 ---
 The Japan-to-China arc in geopolitical forecasting illustrates a deep cognitive bias: when recent evidence is vivid, legible, and impressive — high-speed rail, EV dominance, gleaming cities, soaring trade surpluses — observers default to projecting that trajectory forward indefinitely. This is recency extrapolation, and it intensifies the more impressive the evidence is.
 

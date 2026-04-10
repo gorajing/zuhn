@@ -51,7 +51,6 @@ stance: >-
   viral mutation — rapid, numerous, low-cost experiments — rather than carefully
   planned strategic pivots.
 related:
-  - INS-260325-9F5F
   - INS-260325-CDEA
   - INS-260402-45FA
   - INS-260405-FD9D

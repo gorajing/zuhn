@@ -47,11 +47,11 @@ stance: >-
   context markers) dramatically outperform generic text classifiers on the same
   data, even when the generic approach is theoretically more sophisticated.
 related:
+  - INS-260410-46CA
   - INS-260328-9C16
   - INS-260402-B36F
   - INS-260327-91E7
   - INS-260404-1C9D
-  - INS-260327-38D8
 evidence:
   - id: INS-260328-9C16
     type: TRANSFERS_TO

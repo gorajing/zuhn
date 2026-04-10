@@ -60,7 +60,7 @@ related:
   - INS-260329-7F02
   - INS-260330-B08E
   - INS-260330-B153
-  - INS-260402-613D
+  - INS-260403-7EA1
 stance: >-
   Pre-RLHF models were well-calibrated on probabilities (80% meant 8/10 times),
   but human feedback training flattened this into the same vague probab...

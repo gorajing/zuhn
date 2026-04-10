@@ -57,10 +57,10 @@ stance: >-
   / JEPA) rather than scaling LLMs on more compute and data.
 related:
   - PRI-260328-D893
+  - INS-260410-4696
   - INS-260323-6C6F
   - PRI-260323-8E89
   - PRI-260405-B144
-  - INS-260408-C572
 ---
 Yann LeCun's new lab AMI raised a record $1.03B seed round on the thesis that Joint Embedding Predictive Architecture (JEPA) — not transformer scaling — is the path to AI that reasons, plans, and operates safely in physical environments. The lab targets robotics, manufacturing, transportation, and healthcare, domains where causal grounding matters more than language fluency.
 

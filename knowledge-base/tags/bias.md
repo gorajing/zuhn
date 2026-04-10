@@ -11,6 +11,7 @@
 - `INS-260405-FE57` The tendency to see purpose in random events is the brain's default, not the result of deliberate reasoning.
 - `INS-260330-0F04` Swapping the actor in a scenario while keeping the action identical exposes tribally-motivated reasoning.
 - `INS-260330-1E6A` Truth has three structural disadvantages against fiction: it's costly to produce, inherently complex, and sometimes painful to accept.
+- `INS-260410-CE40` Americans (and most analysts) default to 'Team America' analysis — studying only their own options and mirror-imaging the other side — and this explains repeated strategic surprises from Pearl Harbor to Iraq's insurgency.
 - `INS-260325-F6CD` When young men struggle, the instinct is to blame them for laziness and video games -- an instinct that is not applied to any other demographic group facing comparable challenges.
 - `INS-260325-C2DA` During mass events like 9/11 or COVID-19, social contagion and affective forecasting bias make people unable to imagine their distress is temporary — this 'resilience blind spot' leads to overestimating lasting damage.
 - `INS-260405-2CDB` The urge to perfect before testing is driven by fear of invalidation, not by logic.

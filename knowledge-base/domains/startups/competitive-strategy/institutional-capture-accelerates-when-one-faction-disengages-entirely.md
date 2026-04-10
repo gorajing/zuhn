@@ -58,7 +58,7 @@ stance: >-
   remaining participants radicalize faster due to loss of ideological friction,
   creating a self-reinforcing cycle of extremism.
 related:
-  - INS-260323-E1B6
+  - INS-260410-2388
   - INS-260403-3AE7
   - INS-260323-8B90
   - INS-260330-0DCA

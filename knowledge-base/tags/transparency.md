@@ -1,5 +1,6 @@
 # Tag: transparency
 
+- `INS-260410-212B` The old safety playbook — hoard research so the responsible lab keeps its lead — assumed the lab would actually burn that lead on alignment; now that assumption looks naive.
 - `INS-260409-4CE8` Plain files beat opaque stores because you can see, edit, and trust what the system knows.
 - `INS-260403-E332` Ubiquitous video plus independent analysis creates near real-time falsification of institutional narratives.
 - `INS-260403-6602` Attack the wealth-to-power conversion through radical transparency rather than attacking wealth itself, which has destructive side effects on innovation.
@@ -10,11 +11,11 @@
 - `INS-260330-636E` Ponzi's scheme collapsed when he hired honest publicist William McMasters, who gained access to records and exposed the fraud to the Boston Post.
 - `INS-260330-D031` Stripe's radical transparency (BCCing everyone on all emails) broke Gmail and overwhelmed new hires, requiring new tooling and norms to sustain.
 - `INS-260323-7C0E` Rosolie must publicize the uncontacted tribes' existence to raise funds for their protection, even though publicity itself threatens them.
-- `INS-260329-4F3F` When everyone knows the numbers, you spend less time convincing them why the new priority matters.
-- `INS-260329-4531` Narrating your live thinking process, including mistakes, teaches subordinates faster than only sharing polished outputs.
 - `INS-260403-F447` When investors ask who else is investing, directly explaining why others passed and why they're wrong signals confidence and disarms the concern.
 - `INS-260402-994D` Stopping investor updates during difficult periods feels protective but is perceived as betrayal by people who trusted you with their savings.
 - `INS-260405-3C56` Genuine goodness beats strategic niceness when information flows freely and the future is unpredictable.
 - `INS-260405-224A` When founders talk, bad investor behavior propagates quickly and reduces dealflow.
 - `INS-260403-641F` Harry Stebbings led his $400M raise by surfacing the hardest question first — whether they could get 15%+ ownership — then showed data proving a clear upward trend, converting skepticism into conviction.
 - `INS-260328-0C4C` Standard Capital publishes its Series A term sheet publicly, takes 10% for a founder-chosen price, and promises a firm yes/no by a specific date.
+- `INS-260329-4F3F` When everyone knows the numbers, you spend less time convincing them why the new priority matters.
+- `INS-260329-4531` Narrating your live thinking process, including mistakes, teaches subordinates faster than only sharing polished outputs.

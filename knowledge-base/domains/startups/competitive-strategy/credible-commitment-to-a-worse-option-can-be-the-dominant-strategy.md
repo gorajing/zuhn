@@ -43,7 +43,6 @@ resolutions:
     commitment, not the desirability of the fallback position, is what generates
     leverage.
 related:
-  - INS-260323-A197
   - INS-260323-3864
   - INS-260323-493D
   - INS-260323-D479
@@ -52,6 +51,8 @@ related:
   - INS-260330-97B3
   - INS-260403-7E6A
   - PRI-260406-F9EB
+  - INS-260410-3A01
+  - INS-260410-AB78
 stance: >-
   In both Newcomb's Paradox and nuclear deterrence, the best outcome follows
   from a credible, irrevocable commitment to a seemingly worse option.

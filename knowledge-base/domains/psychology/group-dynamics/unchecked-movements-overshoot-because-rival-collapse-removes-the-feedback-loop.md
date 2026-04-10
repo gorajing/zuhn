@@ -44,7 +44,6 @@ stance: >-
   the movement than the rival itself, because it removes the external check that
   prevents overreach.
 related:
-  - INS-260330-0DCA
   - INS-260330-2030
   - INS-260330-3A3F
   - INS-260330-8D6F
@@ -54,5 +53,6 @@ related:
   - INS-260403-25F3
   - INS-260403-9A44
   - PRI-260328-E1CE
+  - INS-260405-5EB2
 ---
 Noah Smith argues that American progressivism's worst excesses were enabled not by progressive ideology itself, but by the self-immolation of Reaganite conservatism in the 2000s (Iraq War, financial crisis, moral collapse of conservative Christianity). Without a credible rival offering compelling alternatives, liberalism had no external check on its ideological overgrowth. This mirrors a general pattern: competitive pressure disciplines organizations and movements, and monopoly — even ideological monopoly — breeds complacency and excess. The implication extends beyond politics: any system (company, movement, intellectual framework) that eliminates its competition becomes vulnerable to self-inflicted decline through unchecked expansion of its own worst tendencies.

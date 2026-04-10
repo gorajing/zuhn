@@ -51,6 +51,7 @@ related:
   - PRI-260406-C422
   - PRI-260406-1F5E
   - INS-260405-0327
+  - INS-260410-2307
 ---
 VentureBeat reports that 68% of large enterprises are already deploying AI agents, a figure that dramatically outpaces earlier consensus timelines placing meaningful agent adoption around 2030. The shift from hype to workflow automation happened faster than industry observers expected.
 

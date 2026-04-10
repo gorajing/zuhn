@@ -47,7 +47,6 @@ stance: >-
   from simply scaling existing architectures are diminishing.
 related:
   - INS-260323-3F11
-  - INS-260321-9824
   - INS-260322-54F3
   - INS-260403-427E
   - INS-260404-9DBB

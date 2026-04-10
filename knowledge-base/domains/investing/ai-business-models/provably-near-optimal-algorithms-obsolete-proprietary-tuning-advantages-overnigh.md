@@ -49,11 +49,11 @@ stance: >-
   systems. Companies whose moats depend on proprietary optimization are
   vulnerable to fundamental algorithmic breakthroughs that work universally.
 related:
+  - INS-260410-AC0B
   - INS-260329-4109
   - PRI-260407-5465
   - INS-260403-A3E4
   - INS-260403-AC01
-  - INS-260327-BE4E
   - INS-260330-CCD4
   - INS-260330-3ADD
 evidence:

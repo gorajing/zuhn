@@ -59,7 +59,7 @@ related:
   - INS-260327-30E4
   - INS-260327-4E8E
   - INS-260327-1D37
-  - INS-260403-BB23
+  - INS-260405-C673
 stance: >-
   The prediction that giant foundation models would be all-purpose brains has
   not materialized

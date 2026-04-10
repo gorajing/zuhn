@@ -56,11 +56,10 @@ stance: >-
   discipline rather than creative chatting.
 related:
   - INS-260321-A5D4
-  - INS-260320-9FD5
-  - INS-260403-F400
   - INS-260403-31E4
   - INS-260403-7D7A
   - PRI-260406-1AC6
+  - INS-260403-F400
   - PRI-260320-6847
   - INS-260409-1812
 ---

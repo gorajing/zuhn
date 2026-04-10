@@ -49,13 +49,12 @@ stance: >-
   without investing in defensive capabilities are selected against when the
   environment turns hostile.
 related:
-  - INS-260323-75A8
   - INS-260330-3994
   - INS-260325-793A
   - INS-260323-DF0F
   - INS-260327-8B9A
   - INS-260327-E7AC
-  - PRI-260328-43D8
+  - INS-260410-B2A6
 evidence:
   - id: INS-260323-75A8
     type: SUPPORTS

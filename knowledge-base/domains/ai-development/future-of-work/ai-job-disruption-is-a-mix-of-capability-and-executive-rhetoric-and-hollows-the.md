@@ -69,8 +69,8 @@ related:
   - INS-260403-10CE
   - PRI-260403-FBA8
   - INS-260321-A56C
+  - INS-260410-D834
   - INS-260404-6BD6
-  - INS-260403-DC4A
   - INS-260409-B12B
 ---
 Anthropic's Economic Index showed a 40% reduction in entry-level jobs and US labor reports show white-collar hiring slowdown. The Klarna CEO privately confirmed to Bartlett that Klarna went from 7,400 employees to 3,300 via attrition, with AI handling 70% of customer service. Karen Hao's contribution is to break the binary 'AI kills all jobs' vs 'AI changes nothing' framing: some jobs are genuinely automated, some are killed because executives decide a 'good enough' AI is cheaper even when models don't match capability, and some executives use AI as rhetorical cover for normal headcount cuts from pandemic over-hiring.

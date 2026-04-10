@@ -51,7 +51,6 @@ stance: >-
   escalation always appears justified from the inside.
 related:
   - INS-260330-5A0B
-  - INS-260404-F5C3
   - PRI-260406-F937
   - PRI-260324-8EE6
   - PRI-260406-F95C

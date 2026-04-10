@@ -51,6 +51,7 @@ related:
   - INS-260403-6016
   - PRI-260406-C4FD
   - INS-260404-7A75
+  - INS-260410-101D
   - INS-260325-5CB1
 ---
 From 1900 to 2000, US grid capacity grew 10x every 30 years. Since then, generation has flatlined at 4,000-4,200 TWh while China surged to roughly 10,000 TWh. This matters because AI data centers are inelastic power consumers—they cannot simply throttle down during shortages.

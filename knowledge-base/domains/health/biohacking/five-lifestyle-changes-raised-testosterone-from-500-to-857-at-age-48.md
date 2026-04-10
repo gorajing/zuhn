@@ -50,7 +50,6 @@ stance: >-
   diet, and stress management
 related:
   - INS-260327-1E16
-  - INS-260327-7000
   - INS-260327-6916
   - PRI-260328-0174
   - INS-260403-687E

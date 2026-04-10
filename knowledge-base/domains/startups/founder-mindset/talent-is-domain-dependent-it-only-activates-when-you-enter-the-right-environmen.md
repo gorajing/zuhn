@@ -47,11 +47,11 @@ resolutions:
     a domain they happened into by circumstance, never testing whether they have
     exceptional hardware in domains they've never tried.
 related:
+  - INS-260410-46CA
   - PRI-260328-E64D
   - PRI-260403-C34A
   - INS-260325-1709
   - INS-260325-A8E6
-  - INS-260330-D27C
 stance: Talent only reveals itself when the environment activates it
 evidence:
   - id: INS-260325-A8E6

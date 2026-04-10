@@ -48,11 +48,11 @@ stance: >-
   recognizing equal worth.
 related:
   - INS-260323-D2CF
+  - INS-260410-AB78
   - INS-260323-7212
   - PRI-260328-82A2
   - INS-260330-B444
   - INS-260330-3274
-  - PRI-260328-FA83
 evidence:
   - id: INS-260323-D2CF
     type: TRANSFERS_TO

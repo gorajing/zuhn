@@ -1,9 +1,11 @@
 # Tag: industrial-policy
 
 - `INS-260409-BBBA` 10 years ago China published 50% of US research papers; last year it published 50% more. The inversion extends beyond AI into biotech, materials, and life sciences — with China becoming a scientific leader, not just a copycat.
+- `INS-260410-4357` At scale, effectiveness of achieving outcomes matters more than efficiency of resource use — the 'waste' in China's growth was the mechanism that produced the growth.
 - `INS-260405-24F0` Britain's relative manufacturing share predicted its WWI dependency on America decades before the war; today's US-China manufacturing gap signals a similar structural shift.
 - `INS-260409-8B3D` Napier: the investment question for the next 10-15 years is not 'which company wins' but 'who gets cheap credit and who gets excluded' — winners are re-industrialization, rearmament, defense, energy, robotics, and old-economy manufacturing.
 - `INS-260403-1462` Defense-industrial catch-up requires allied co-manufacturing because domestic reshoring timelines are too slow against urgent threats.
+- `INS-260410-3F35` 25 years of 50/50 JVs produced zero Chinese auto champions; 18 months of Tesla competing directly taught BYD the consumer design it needed to become world-class.
 - `INS-260403-F2A2` China's state-engineered AI strategy—targeting 90% penetration by 2030—follows the same playbook as its EV and robotics mobilizations.
 - `INS-260403-6FEB` China's upstream mastery of batteries and electric motors is cascading into downstream dominance in drone delivery, autonomous vehicles, flying taxis, and urban robotics — creating an integrated 'Electric Tech Stack.'
 - `INS-260405-F20C` Beijing designates industry priorities top-down but lets 300+ prefectural governments compete bottom-up to back local firms with subsidies and credit.
@@ -12,6 +14,7 @@
 - `INS-260403-3AF9` EVs provide the massive scale demand needed to make domestic battery and motor production economically viable, which then feeds into drones, robots, electronics, and military systems.
 - `INS-260403-C314` When a superior technology gets coded as politically partisan, the opposing political coalition actively undermines national adoption, creating industrial decline.
 - `INS-260403-A2FE` Total protectionism against Chinese EVs risks isolating the US auto industry from the global EV transition, cutting off export markets and stalling critical technology development.
+- `INS-260410-D316` China won on the base layers — ubiquitous internet (1990s bet) and massive cheap electricity (2000s bet) — which then compounded into every downstream industry including AI.
 - `INS-260403-6570` Combining market access with joint venture requirements and local content incentives forces foreign companies to build domestic supply chains and transfer know-how — the same strategy China used to build its own manufacturing sectors.
 - `INS-260403-6988` Even fully eliminating the US trade deficit would only raise manufacturing from 10% to ~12.5% of GDP, since Germany's huge surpluses haven't prevented its own manufacturing employment decline.
 - `INS-260403-0DE8` The Biden administration's failure to build promised EV charging stations — due to contracting requirements and permitting — shows how execution dysfunction compounds policy failures.

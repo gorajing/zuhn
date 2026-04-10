@@ -60,10 +60,10 @@ stance: >-
   within established category boundaries.
 related:
   - INS-260323-4D14
+  - INS-260410-3271
   - INS-260322-54F3
   - INS-260404-9899
   - INS-260404-8076
-  - PRI-260405-A11F
 ---
 Musk's companies are often misread as competing within existing categories — rockets, cars, chatbots. His actual thesis is that each is a module in an integrated system: solar energy + robotics + AI + global connectivity + space infrastructure. The value isn't in any single vertical; it's in the compounding surface area where they intersect.
 

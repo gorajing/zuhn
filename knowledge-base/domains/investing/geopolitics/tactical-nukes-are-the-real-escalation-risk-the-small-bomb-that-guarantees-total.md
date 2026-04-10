@@ -48,11 +48,11 @@ resolutions:
     likely to actually be used, and their use most likely triggers the scenario
     everyone agrees ends civilization.
 related:
+  - INS-260410-3A01
   - INS-260330-F488
   - INS-260403-7E6A
   - INS-260323-CB47
   - PRI-260323-7749
-  - INS-260323-6F66
   - INS-260323-AEA5
 stance: >-
   Tactical nuclear weapons — designed for battlefield use — are the most

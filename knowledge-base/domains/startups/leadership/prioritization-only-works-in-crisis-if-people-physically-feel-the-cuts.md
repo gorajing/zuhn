@@ -49,7 +49,6 @@ stance: >-
   reassigning people, dropping features — you haven't cut deep enough to matter.
 related:
   - INS-260327-3C19
-  - INS-260329-89E9
   - INS-260329-DEE5
   - INS-260330-DC3B
   - PRI-260406-D9D6

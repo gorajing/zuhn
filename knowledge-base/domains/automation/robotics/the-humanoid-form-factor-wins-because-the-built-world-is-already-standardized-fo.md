@@ -63,6 +63,7 @@ related:
   - INS-260405-F05B
   - INS-260323-758B
   - INS-260323-05B5
+  - INS-260410-D593
 ---
 Every factory, warehouse, and home on Earth was designed around human physical constraints: bipedal locomotion, two hands, a certain reach envelope, a standing height optimized for counters and controls. Task-specific robots — conveyor systems, robotic arms, automated forklifts — require expensive facility redesign to accommodate their fixed form factors. A humanoid robot sidesteps this entirely by matching the form factor that infrastructure already assumes.
 

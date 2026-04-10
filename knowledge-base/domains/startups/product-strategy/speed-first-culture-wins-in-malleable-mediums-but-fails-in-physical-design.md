@@ -41,7 +41,6 @@ stance: >-
   iteration is cheap and reversible, like software and film.
 related:
   - INS-260320-6CCE
-  - INS-260330-F5A1
   - INS-260404-D147
   - INS-260403-76E4
   - PRI-260405-64B2

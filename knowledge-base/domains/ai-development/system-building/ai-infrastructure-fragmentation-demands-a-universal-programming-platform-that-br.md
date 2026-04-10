@@ -48,9 +48,9 @@ related:
   - INS-260403-868C
   - PRI-260403-40D7
   - PRI-260328-06F1
+  - INS-260410-3B5B
   - PRI-260324-DE71
   - PRI-260323-1CF9
-  - INS-260329-E839
 stance: >-
   The explosion of AI accelerators (GPUs, TPUs, NPUs) creates an impossible
   maintenance burden that only a universal abstraction layer can solve.

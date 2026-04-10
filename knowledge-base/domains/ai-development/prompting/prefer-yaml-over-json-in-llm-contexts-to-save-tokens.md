@@ -55,9 +55,9 @@ related:
   - INS-260320-EF3A
   - INS-260410-AA93
   - INS-260323-7625
+  - INS-260410-C022
   - INS-260405-A22F
   - INS-260403-FF45
-  - INS-260410-699C
 ---
 Karpathy demonstrates concretely: the same data structure took 116 tokens in JSON but only 99 tokens in YAML — about a 15% reduction. The reason is that JSON's syntax is full of quotes, braces, and commas that each consume tokens, while YAML's whitespace-and-colon style maps more naturally onto the BPE merges that LLM tokenizers learned.
 

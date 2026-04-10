@@ -1,6 +1,6 @@
 # Topic: future-of-work
 
-> 82 insights
+> 85 insights
 
 - `INS-260320-A745` [very_high] Anthropic's own studies show AI deskilling in coding is real, but depends on HOW you use models — some usage patterns cause skill degradation, some don't.
 - `INS-260321-9824` [very_high] Tao's papers now have more code, more plots, deeper literature searches — but the core mathematical work (pen and paper for the hardest part) hasn't been accelerated. AI enriches output without deepening it.
@@ -31,8 +31,10 @@
 - `INS-260403-08D7` [high] Top developers now orchestrate multiple AI agents in parallel, elevating strategic direction over line-by-line coding.
 - `INS-260403-3223` [high] Young college grads show higher unemployment but not lower employment — the gap is driven by labor force participation differences, not AI displacement.
 - `INS-260403-B800` [high] Competitive advantage in the agent era comes from identifying which resources AI makes scarce, not which it makes abundant.
+- `INS-260410-2388` [high] The 'conservative' move of assuming AI progress will stop isn't neutral — you're claiming an established trend will break, which needs positive justification.
 - `INS-260329-3489` [high] Experts shift from spending 90% of time generating to spending most time on QA and validation of AI output.
 - `INS-260408-3691` [high] Hassabis to students: 'immerse myself in every tool available and become almost like superpowered' — the gap is creative application, not technical skill.
+- `INS-260410-D834` [high] People who imagine fast automation are mentally modeling jobs as one simple task, but real jobs are bundles of many competences—automating the headline task barely moves the needle.
 - `INS-260320-5F14` [high] "Even if an AI is always going to be better than you at something, you can still learn that thing. You can still enrich yourself intellectually."
 - `INS-260327-32F1` [high] Career advice from successful people is inherently flawed by survivorship bias (only winners speak) and confirmation bias (they accentuate positives and eliminate negatives in retrospect).
 - `INS-260325-ADF5` [high] Open Router reports that sales and support staff are building agents that multiply their output, doing in hours what previously took days — the transformation is not engineers getting faster but non-engineers becoming builders.
@@ -52,6 +54,7 @@
 - `INS-260403-B539` [medium] AI's exponentially growing demand for electricity, land, and water will squeeze human access to basic resources before labor replacement becomes the primary concern.
 - `INS-260405-7624` [medium] When labor becomes a choice rather than a necessity, the product categories that capture value shift from productivity to creation, expression, and meaning.
 - `INS-260327-DC0B` [medium] AI can synthesize across four Ikigai dimensions (passion, prowess, purpose, profit) to generate personalized career paths with specific waypoints, transforming a vague self-reflection exercise into an actionable planning tool.
+- `INS-260410-3E37` [medium] Coding-model TFP gains went 5% → 15-20% in six months inside Anthropic, and continue snowballing as Amdahl's law bottlenecks get cleared one by one.
 - `INS-260329-72C1` [medium] AI multiplies individual productivity 100x by compressing inputs 10x and expanding outputs 10x simultaneously.
 - `INS-260325-11E9` [medium] AI turns interdependent work into solo work, risking the same 'alone together' fragmentation that social media created.
 - `INS-260403-D5BB` [medium] AI labor debates are confused because participants argue from different layers of a $31T labor market without a shared framework.

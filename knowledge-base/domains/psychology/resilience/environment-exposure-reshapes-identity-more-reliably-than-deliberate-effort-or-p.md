@@ -53,7 +53,6 @@ stance: >-
   environment curation the single highest-leverage intervention for personal
   transformation — more effective than any technique or practice.
 related:
-  - INS-260323-A64F
   - INS-260327-8521
   - PRI-260405-3449
   - INS-260330-8C54

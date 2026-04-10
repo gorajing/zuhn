@@ -47,12 +47,12 @@ stance: >-
   minimal code outperforms accumulating special-case optimizations, especially
   when scaling is not the primary mission.
 related:
-  - INS-260321-7D76
   - INS-260329-9074
+  - INS-260410-022B
   - INS-260404-7060
+  - INS-260321-7D76
   - PRI-260321-14D8
   - INS-260327-DECA
-  - PRI-260406-1ED1
 evidence:
   - id: INS-260329-9074
     type: SUPPORTS

@@ -55,6 +55,7 @@ related:
   - INS-260405-F1FD
   - INS-260327-C962
   - PRI-260406-B785
+  - INS-260410-BC76
 stance: Claude Code users spend $8-13.5x their subscription in compute
 evidence:
   - id: INS-260323-FEAB

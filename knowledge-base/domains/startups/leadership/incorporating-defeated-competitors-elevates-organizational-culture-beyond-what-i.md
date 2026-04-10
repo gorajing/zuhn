@@ -50,7 +50,6 @@ stance: >-
   punishing them build stronger organizations than those who reward loyalty over
   capability
 related:
-  - INS-260327-A675
   - INS-260327-B3B3
   - INS-260327-E314
   - INS-260330-5BEB

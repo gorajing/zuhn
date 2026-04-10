@@ -58,7 +58,6 @@ stance: >-
   the underlying mathematics captures a universal pattern of divergence from
   common ancestors.
 related:
-  - INS-260323-8519
   - INS-260327-9DB0
   - PRI-260328-36C3
   - INS-260330-240A

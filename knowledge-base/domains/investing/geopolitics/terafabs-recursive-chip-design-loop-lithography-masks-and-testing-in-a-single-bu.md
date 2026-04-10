@@ -50,6 +50,7 @@ related:
   - INS-260323-9676
   - INS-260327-DE27
   - INS-260330-A418
+  - INS-260410-56A2
 stance: >-
   The advanced technology fab in Austin will have lithography mask making, chip
   fabrication, and testing all in one building

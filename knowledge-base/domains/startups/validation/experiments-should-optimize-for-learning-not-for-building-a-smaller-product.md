@@ -47,7 +47,6 @@ stance: >-
   Building a miniature version of your product is a worse validation strategy
   than designing purpose-built learning experiments
 related:
-  - INS-260325-5656
   - INS-260320-7682
   - INS-260329-5F96
   - INS-260330-63DD
@@ -57,6 +56,7 @@ related:
   - INS-260403-B1F2
   - PRI-260406-1B3A
   - PRI-260406-9780
+  - PRI-260406-7ED0
 evidence:
   - id: INS-260325-5656
     type: TRANSFERS_TO

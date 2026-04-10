@@ -50,8 +50,8 @@ related:
   - INS-260403-C4C5
   - INS-260323-A48E
   - INS-260330-E0ED
+  - INS-260410-C207
   - INS-260327-8152
-  - INS-260323-CF93
 ---
 Smith identifies a striking pattern where multiple political factions all advocated for the end of Pax Americana but each imagined a different outcome. Leftists and foreign rivals assumed multipolarity would check American power. Rightists assumed America would turn inward and focus on domestic cultural battles. Both were wrong in ways that directly undermine their goals.
 

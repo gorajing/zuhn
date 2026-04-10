@@ -50,13 +50,13 @@ resolutions:
 related:
   - INS-260322-B8E6
   - INS-260323-5955
+  - INS-260410-0ECA
   - INS-260328-8445
   - INS-260408-88D9
   - INS-260405-D638
-  - INS-260403-CAE5
   - INS-260330-BC8E
   - INS-260330-2064
-  - INS-260403-0789
+  - INS-260403-CAE5
   - INS-260404-EE07
 stance: >-
   Musk argues space-based AI will cost less than terrestrial AI within 2-3 years

@@ -57,10 +57,10 @@ stance: >-
   of deeper thinking.
 related:
   - INS-260323-8B90
+  - INS-260410-2388
   - INS-260404-8D23
   - INS-260330-BBDA
   - INS-260404-31C3
-  - INS-260403-BA53
   - INS-260330-BE78
   - INS-260403-886D
 evidence:

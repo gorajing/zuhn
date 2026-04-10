@@ -46,10 +46,10 @@ stance: >-
   proposition gaps that a single 'problem statement' hides.
 related:
   - PRI-260323-50FE
+  - INS-260410-D834
   - INS-260322-116B
   - INS-260327-77FA
   - INS-260404-D1E2
-  - PRI-260403-FBA8
   - INS-260403-B2A8
 evidence:
   - id: INS-260327-4F3D

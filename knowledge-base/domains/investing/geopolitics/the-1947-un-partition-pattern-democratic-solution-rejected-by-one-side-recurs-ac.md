@@ -51,9 +51,9 @@ resolutions:
 related:
   - INS-260330-4181
   - PRI-260323-B798
+  - INS-260410-AB78
   - INS-260403-3876
   - INS-260330-3BBD
-  - INS-260325-F1BC
 stance: The 1947 UN partition of Palestine
 evidence:
   - id: INS-260325-F1BC

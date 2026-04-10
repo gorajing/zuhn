@@ -42,11 +42,13 @@ resolutions:
     access at scale will have durable competitive advantages.
 related:
   - INS-260322-8BD1
+  - INS-260410-AA40
   - INS-260403-976C
+  - INS-260410-1159
   - INS-260403-1337
   - INS-260323-4D14
-  - INS-260403-5CAD
   - INS-260403-CEAD
+  - INS-260410-BC76
 stance: >-
   Altman predicts compute becomes the world's most precious commodity,
   functioning as a new currency by end of decade.

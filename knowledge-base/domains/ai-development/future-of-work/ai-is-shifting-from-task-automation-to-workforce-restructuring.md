@@ -47,7 +47,6 @@ stance: >-
   individual tasks to restructuring entire job roles and team compositions
 related:
   - INS-260322-EAB6
-  - INS-260321-A56C
   - INS-260326-2410
   - INS-260327-C1A4
   - INS-260327-13B3
@@ -56,6 +55,7 @@ related:
   - PRI-260328-3094
   - INS-260403-4D80
   - INS-260403-3587
+  - INS-260405-1282
 ---
 Early AI adoption focused on automating discrete tasks—summarizing documents, generating code snippets, answering queries. The agentic workforce paradigm shifts this from task substitution to role restructuring: AI agents that can plan, execute multi-step workflows, and collaborate with humans fundamentally change team composition rather than just speeding up existing workflows.
 

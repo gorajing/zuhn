@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-10 | 4601 actionable insights
+Generated on 2026-04-10 | 4610 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -325,6 +325,7 @@ Generated on 2026-04-10 | 4601 actionable insights
 - [INS-260403-304E] RuBisCo was designed for low-oxygen atmospheres; when plants raised oxygen levels, it started failing silently half the time — a cautionary tale for AI model drift.
 - [INS-260402-31D8] The AI security consulting industry sells prompt-level protections that cannot work because LLMs are fundamentally jailbreakable; only permission restriction provides real security.
 - [INS-260403-BE4D] Including relevant background data (bios, papers, past interactions) in the right format and order can make or break prompt performance more than any clever technique.
+- [INS-260410-B224] Models struggle on real work because they lack context and can't handle amorphous multi-file scope, not because they need another 9 of reliability.
 
 ## ai-development/llm-behavior
 - [INS-260410-0EFE] A forward pass through ~100 transformer layers is the compute budget per token, so any answer that requires real work must be spread across many intermediate tokens or offloaded to a tool.
@@ -466,6 +467,9 @@ Generated on 2026-04-10 | 4601 actionable insights
 - [INS-260408-76F4] Hassabis decided in a single meeting to fold all 200M proteins and release them free, because it took less effort than building the request server.
 - [INS-260408-C572] Foundation models are world models without the search/reasoning layer AlphaZero had; combining them is the next breakthrough, not bigger pretraining.
 - [INS-260409-E080] Generator-verifier loops are easy to describe and almost impossible to execute because the verifier must be protected from the generator's influence.
+- [INS-260410-3075] A concrete scenario forces you to confront implementation details and surface crux disagreements that vague probability estimates let you skate past.
+- [INS-260410-10C9] Google Brain's bottom-up 'one credit per researcher, pool them as you like' chip allocation rewarded dropping failed ideas; Gemini's top-down allocation leads every group to report 'my thing is working, give me more chips.'
+
 
 ## ai-development/system-building
 - [INS-260320-4A82] Commit output specs to git so future agents and engineers see what was done, what failed, and what decisions were made.
@@ -1418,6 +1422,8 @@ Generated on 2026-04-10 | 4601 actionable insights
 - [INS-260403-CB80] Recording confidence ratings at decision time and comparing to outcomes is a powerful metacognitive calibration tool.
 - [INS-260403-F9EE] Writing short essays forces you to form and articulate a point of view, which passive reading and watching cannot accomplish regardless of volume.
 - [INS-260409-53A1] 'Because' is a compliance trigger regardless of whether the reason makes sense.
+- [INS-260410-AF9A] Imperial Japan's army and navy kept their war plans secret from each other, didn't hold liaison meetings until 1944, and hid the loss of four carriers at Midway for months — individual samurai excellence couldn't overcome structural stovepiping.
+- [INS-260410-DB1D] Paine's practical advice: check alignments before committing, reassess early and often, don't get hung up about changing your mind, and recognize that part of good strategy is accepting that some problems cannot be solved and routing scarce resources to ones that can.
 
 ## psychology/epistemics
 - [INS-260405-2B3F] Treating survey non-response as randomly missing data produces systematically wrong estimates whenever the stigmatized view is also the under-reported one.
@@ -1839,6 +1845,7 @@ Generated on 2026-04-10 | 4601 actionable insights
 - [INS-260403-6EA0] Thinking in specific causal chains rather than vague decline narratives is both more accurate and more psychologically sustainable.
 - [INS-260403-29C7] Kissinger chose Go over xiangqi not because it described China accurately, but because it made America respond the way he wanted.
 - [INS-260409-1AA0] One deliberate trip down the stack permanently changes how you reason about every layer above it — depth compounds.
+- [INS-260410-CE40] Americans (and most analysts) default to 'Team America' analysis — studying only their own options and mirror-imaging the other side — and this explains repeated strategic surprises from Pearl Harbor to Iraq's insurgency.
 
 ## psychology/negotiation
 - [INS-260330-A954] When an investor says 'I want to invest but I don't lead,' translate to 'No, except yes if you become a hot deal.'
@@ -1849,6 +1856,8 @@ Generated on 2026-04-10 | 4601 actionable insights
 - [INS-260404-FBF8] Asking 'what's your advice on how we can get our interests met at the same time?' converts adversaries into co-problem-solvers.
 - [INS-260404-6753] Consciously listening for the first 10 minutes and acknowledging the other side's logic disarms conflict more effectively than arguing.
 - [INS-260403-9120] Frame early stakeholder conversations as informal information-seeking, not persuasion attempts, to get honest intelligence.
+- [INS-260410-AB78] Whether 'compromise' is wisdom or suicide is entirely a function of the other side's real objective — a slice of territory can be traded; regime change and extermination cannot be appeased without empowering the executioner.
+- [INS-260410-A992] Nazi brutality turned a failing Stalinist state into a unified lethal adversary; Japanese brutality did the same to China; Russian brutality is doing the same in Ukraine — brutality intended to break will instead eliminates the surrender option.
 
 ## psychology/perception
 - [INS-260323-5D23] The fastest way to shift emotional frequency is removing what pulls you down, not adding new practices.
@@ -4641,6 +4650,7 @@ Generated on 2026-04-10 | 4601 actionable insights
 - [INS-260403-137D] Costco's $60 membership fee filters for households averaging ~$100K income, with business owners representing one-third of members but two-thirds of sales.
 - [INS-260403-6CB4] Use of Funds and valuation should be live outputs that update automatically as the operating plan changes, not hand-crafted presentation slides.
 - [INS-260409-229B] The story of the company IS the strategy — there is no separate secret strategy document.
+- [INS-260410-1345] The Japanese won most battles in China but lost the war because Bushido culture equated 'taking this hill' with strategic success, with no theory of how tactical wins aggregated into the real objective of a stable, communist-free China.
 
 ## startups/team-building
 - [INS-260405-F378] Searching for a technical cofounder before validating demand is backwards — demand attracts technical talent.

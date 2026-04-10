@@ -48,11 +48,11 @@ stance: >-
   requires 32 new models in the per-pair approach but zero new models in the
   unified approach
 related:
+  - INS-260410-7292
   - PRI-260323-F193
   - INS-260403-BB23
+  - INS-260410-2307
   - INS-260321-8C35
-  - INS-260323-8AEC
-  - PRI-260323-8E89
 evidence:
   - id: INS-260403-BB23
     type: TRANSFERS_TO
