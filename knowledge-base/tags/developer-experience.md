@@ -7,8 +7,8 @@
 - `INS-260323-8555` Once a developer's intent is determined, all remaining keystrokes to express that intent are zero-entropy actions that AI should eliminate via next-action prediction.
 - `INS-260329-19EA` ES6 destructuring lets you extract object/array values into named variables in one step, eliminating the intermediate assignments where naming mistakes typically happen.
 - `INS-260329-B2F4` Minimizing the gap between 'I want to learn' and 'I see my code do something' is the single highest-leverage optimization in programming education because most abandonment happens during setup, not during learning.
-- `INS-260330-0A95` Download counts measure hiring safety while satisfaction surveys measure individual productivity — optimizing for one often sacrifices the other.
 - `INS-260403-2152` Platforms must combine openness with genuine design quality to win developer adoption, not just check the open-source box.
+- `INS-260330-0A95` Download counts measure hiring safety while satisfaction surveys measure individual productivity — optimizing for one often sacrifices the other.
 - `INS-260403-59F4` Shorter programs, thinner manuals, and terse syntax are signs of good design, not corners being cut.
 - `INS-260330-5747` Aggressive code reduction PRs on newcomer projects function as dominance displays that destroy contributor motivation and abandon projects.
 - `INS-260403-F9F0` When a language feels restrictive, it's mostly because it forces longer expression of ideas you can conceive more compactly.

@@ -1,5 +1,7 @@
 # Tag: conformity
 
+- `INS-260324-ABAC` Steakhouses make up over half of the top 100 highest-grossing US restaurants because customers show up expecting to spend $50-100 per steak — the more predictable the menu and experience, the better.
+- `INS-260329-11AB` The social skills that help you fit in — reading consensus, calibrating to group opinion — actively work against generating unique startup ideas.
 - `INS-260405-4693` History uniformly shows that every era had forbidden truths; assuming ours is different requires extraordinary evidence.
 - `INS-260403-FE91` A Dunning-Kruger-like effect causes conventional thinkers to overestimate and independent thinkers to underestimate their own independent-mindedness.
 - `INS-260327-764F` Nietzsche's most controversial insight: conventional morality may protect the weak but it also constrains the strong, functioning as a cage disguised as virtue.
@@ -14,5 +16,3 @@
 - `INS-260402-FFCB` Bret Weinstein's taxonomy — witch-hunters, followers, silent majority, and resisters who become the witches — describes a recurring social pattern where opposition to a movement gets recast as the very evil being hunted.
 - `INS-260403-E9DD` Traditional education's emphasis on obedience and standardization produces wisdom at the expense of intelligence by suppressing the idiosyncratic interests that drive peak performance.
 - `INS-260329-03C1` When you force yourself to name the specific person whose judgment you fear, you realize it's usually someone who won't even be at your funeral.
-- `INS-260324-ABAC` Steakhouses make up over half of the top 100 highest-grossing US restaurants because customers show up expecting to spend $50-100 per steak — the more predictable the menu and experience, the better.
-- `INS-260329-11AB` The social skills that help you fit in — reading consensus, calibrating to group opinion — actively work against generating unique startup ideas.

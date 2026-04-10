@@ -19,22 +19,22 @@
 - `INS-260410-098A` The winning career bet isn't avoiding automation — it's positioning to manage ever-larger fleets of AI workers, which still rewards deep fundamentals and frontier proximity.
 - `INS-260410-9AF4` AI's collective edge over human labor isn't intelligence — it's that you can copy a trained worker millions of times with all their skills and judgment intact.
 - `INS-260322-13D6` AI has already demonstrated creative problem-solving beyond human capability; the remaining human edge is the intrinsic motivation to preserve human flourishing.
+- `INS-260330-C681` AGI requires genuine creative disobedience — choosing unprogrammed goals — which no current AI approach is designed to produce.
+- `INS-260409-D922` Hassabis calls current models 'jagged intelligences' — amazing at certain framings but failing at basic variants, and closing this gap is core to AGI.
+- `INS-260410-B7B1` Lab spending on pre-baked skill training is revealed-preference evidence that current models lack humanlike on-the-job learning.
 - `INS-260323-2651` Hotz argues that maximizing compression (cross-entropy) can never reach AGI because it produces 'mid' outputs — competent but never brilliant — and lacks the embodied feedback loops of human learning.
 - `INS-260321-8567` LLMs learn and navigate the manifold created by human-written training data but cannot create new manifolds — the representation breakthroughs that define scientific revolutions.
 - `INS-260403-CDB0` DeepSeek's R1-Zero model learned complex reasoning entirely through reinforcement learning without human data, discovering novel problem-solving approaches.
 - `INS-260321-8C35` AGI requires weight plasticity (continual learning without catastrophic forgetting) and causal modeling (simulation over correlation) — neither solvable by making models bigger.
 - `INS-260322-CCE8` Even within OpenAI, the original belief was one AGI model that subsumes everything — that's completely changed, and the future is a portfolio of specialized models for different use cases.
-- `INS-260330-C681` AGI requires genuine creative disobedience — choosing unprogrammed goals — which no current AI approach is designed to produce.
-- `INS-260409-D922` Hassabis calls current models 'jagged intelligences' — amazing at certain framings but failing at basic variants, and closing this gap is core to AGI.
-- `INS-260410-B7B1` Lab spending on pre-baked skill training is revealed-preference evidence that current models lack humanlike on-the-job learning.
 - `INS-260410-06DB` LLMs are ethereal spirits mimicking human internet text, not evolved animals — pretraining is 'crappy evolution' that instills knowledge rather than learning algorithms.
 - `INS-260409-5FF6` Hassabis sees a very good chance of AGI within 5 years, consistent with Shane Legg's 2010 extrapolation predicting ~20 years.
 - `INS-260409-2DE3` Hassabis quantifies AGI as 10x the Industrial Revolution's impact compressed into 10x less time — over a decade instead of a century.
 - `INS-260409-35EC` Hassabis disagrees with Yann LeCun — LLMs are the substrate, not a dead-end, and AGI comes from building on them rather than replacing them.
 - `INS-260408-C572` Foundation models are world models without the search/reasoning layer AlphaZero had; combining them is the next breakthrough, not bigger pretraining.
-- `INS-260409-2093` Hassabis worries most about post-AGI philosophy — meaning, purpose, consciousness, what it is to be human — and says we lack modern philosophers equipped for it.
+- `INS-260403-56BB` Microsoft relinquished veto powers and right-of-first-refusal in exchange for extended IP rights through 2032 including post-AGI models, signaling that guaranteed model access is worth more than governance control.
 - `INS-260328-70D3` The belief that you must 'break glass' because AGI is imminent rhymes with every generation's conviction that they happen to be alive at the end of days.
 - `INS-260323-1871` Even if AGI never arrives, AI as an extension of human will and amplifier of human abilities is already a transformative outcome.
 - `INS-260403-A505` OpenAI's charter gave the board power to determine when AGI was achieved — a subjective call with massive financial consequences — making conflict inevitable as capabilities advanced.
 - `INS-260328-93C8` The difference between a technology arriving in 18 months versus 10 years should completely change your strategy, even though both scenarios validate the same directional prediction.
-- `INS-260403-56BB` Microsoft relinquished veto powers and right-of-first-refusal in exchange for extended IP rights through 2032 including post-AGI models, signaling that guaranteed model access is worth more than governance control.
+- `INS-260409-2093` Hassabis worries most about post-AGI philosophy — meaning, purpose, consciousness, what it is to be human — and says we lack modern philosophers equipped for it.

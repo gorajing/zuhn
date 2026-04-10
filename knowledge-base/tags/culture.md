@@ -2,12 +2,6 @@
 
 - `INS-260323-8E4D` The Piraha language has zero words for counting — not even a word for 'one' — which means exact numerical thinking is a learned cultural capability, not hardwired.
 - `INS-260325-11A6` AI is the first non-human storyteller in history, meaning we may soon live inside a cultural world shaped by alien intelligence rather than human imagination.
-- `INS-260330-FAB4` As religion and bodily functions become less frightening, identity-based and class-based language increasingly occupies the taboo space.
-- `INS-260410-AF9A` Imperial Japan's army and navy kept their war plans secret from each other, didn't hold liaison meetings until 1944, and hid the loss of four carriers at Midway for months — individual samurai excellence couldn't overcome structural stovepiping.
-- `INS-260405-A1D7` Humans evolved no customs for evaluating nascent ambitious work, so we default to judging it by finished-work standards—a correctable error.
-- `INS-260330-7D83` Travis's 'uber against the world' narrative drove 12-hour workdays and fierce loyalty, but the same combative culture produced internal backstabbing, sexual harassment cover-ups, and employee burnout.
-- `INS-260403-22ED` When people's financial incentives align with others' success, genuine cultures of encouragement emerge over time.
-- `INS-260325-F8B8` The Roman toga was impossible to put on alone — its design literally encoded dependency on slave labor into the daily fabric of elite life.
 - `INS-260322-F609` ElevenLabs removed all titles, which simultaneously filtered out ego-driven candidates and eliminated implicit bias in idea-sharing and collaboration.
 - `INS-260330-64E1` Even solo founders should put standard 4-year vesting on their shares to set cultural precedent and satisfy investor expectations.
 - `INS-260405-AC40` Costco pays double the retail average wage and reports three times the productivity, suggesting high wages are a competitive lever rather than a constraint.
@@ -15,12 +9,12 @@
 - `INS-260330-E615` McDonald's failed when it adapted menus to local cultures but succeeded spectacularly when it kept the menu intact and hired locals to handle marketing.
 - `INS-260330-BE78` Both debaters agree that conservative withdrawal from academia accelerated its leftward drift, illustrating how disengagement from institutions causes them to radicalize faster.
 - `INS-260330-59FD` Airbnb declined to acquire their Rocket Internet clone despite the clone having 10x their funding and 10x their headcount, because the clone's mercenary culture would poison Airbnb's missionary DNA.
-- `INS-260405-F06C` Dismissing new ideas is not human nature — it's a cultural habit that formed when innovation happened too slowly to develop better customs, and it can change.
 - `INS-260323-53BF` Culture is not what you write on the wall — it is the collective habits of the superorganism that dictate day-to-day execution, and it changes only through iterative feedback loops, never by decree.
 - `INS-260403-14F4` Phrases like 'let's revisit later' and 'we need more data' feel reasonable but systematically introduce hesitation that calcifies into slow-moving culture.
 - `INS-260330-39D7` Sweating details that users never see installs a culture of precision that makes excellence self-reinforcing across the organization.
 - `INS-260403-1E05` Five half-built features create more drag than one failed launch because the compounding effect only kicks in upon delivery, not upon starting.
 - `INS-260330-D031` Stripe's radical transparency (BCCing everyone on all emails) broke Gmail and overwhelmed new hires, requiring new tooling and norms to sustain.
+- `INS-260405-F06C` Dismissing new ideas is not human nature — it's a cultural habit that formed when innovation happened too slowly to develop better customs, and it can change.
 - `INS-260325-502D` Conflict between high performers with the same goal but different approaches is a feature, not a bug — organizations that seamlessly resolve conflict are winning teams.
 - `INS-260409-355C` Treat financial and spiritual capital as multiplicative factors, not additive line items — either zero and the total collapses.
 - `INS-260325-8B36` Conflict between high performers with the same goal but different approaches produces better decisions — but only when the company, not ego, is at the center.
@@ -81,3 +75,9 @@
 - `INS-260403-272C` A leader who outworks the entire organization removes the moral ground on which resistance to high standards usually stands.
 - `INS-260403-E1EB` Zillow's iBuying shutdown shows that marketplace DNA (software-first) clashes fatally with fintech DNA (financial operations and risk management).
 - `INS-260403-6428` Silicon Valley's power comes from shared cultural protocols like non-zero-sum thinking and impact-based status, not from its visible infrastructure.
+- `INS-260330-FAB4` As religion and bodily functions become less frightening, identity-based and class-based language increasingly occupies the taboo space.
+- `INS-260410-AF9A` Imperial Japan's army and navy kept their war plans secret from each other, didn't hold liaison meetings until 1944, and hid the loss of four carriers at Midway for months — individual samurai excellence couldn't overcome structural stovepiping.
+- `INS-260405-A1D7` Humans evolved no customs for evaluating nascent ambitious work, so we default to judging it by finished-work standards—a correctable error.
+- `INS-260330-7D83` Travis's 'uber against the world' narrative drove 12-hour workdays and fierce loyalty, but the same combative culture produced internal backstabbing, sexual harassment cover-ups, and employee burnout.
+- `INS-260403-22ED` When people's financial incentives align with others' success, genuine cultures of encouragement emerge over time.
+- `INS-260325-F8B8` The Roman toga was impossible to put on alone — its design literally encoded dependency on slave labor into the daily fabric of elite life.

@@ -1,19 +1,5 @@
 # Tag: perception-economics
 
-- `INS-260327-134F` When addictive substances are packaged in clean modern branding with lifestyle marketing, consumers perceive them as wel
-- `INS-260327-6742` Stated preference for sustainable packaging evaporates when the price premium is visible on the shelf because consumers 
-- `INS-260327-A69D` Plant-based milk adoption was driven primarily by avoiding dairy rather than positive attributes of the alternatives, cr
-- `INS-260327-24A5` Incremental quality reduction across successive product versions is imperceptible to consumers who evaluate each purchas
-- `INS-260327-FC4F` Products consumed daily benefit from per-use price evaluation that makes even expensive items feel cheap, which is why c
-- `INS-260327-FCC4` When debt products use consumer-friendly interfaces and millennial-targeted branding, they normalize borrowing as a life
-- `INS-260327-7B05` Meal replacements fail to achieve mass adoption because they treat eating as a nutritional optimization problem when it 
-- `INS-260327-8E9B` When food choices become identity markers, consumers evaluate products based on tribal affiliation rather than taste, cr
-- `INS-260327-57A4` The malls original value proposition was social gathering that included shopping; when social interaction moved to socia
-- `INS-260327-FEB7` Food products that go viral on social media are optimized for visual impact and shareability rather than taste, which is
-- `INS-260327-1403` Consumer rage at automotive subscriptions exceeds rational price objections because the psychological experience is havi
-- `INS-260327-7D27` All-inclusive pricing environments increase total spending because individual consumption decisions carry zero marginal 
-- `INS-260327-6188` When therapy is marketed like a subscription service, consumers expect consumer-grade UX, responsiveness, and satisfacti
-- `INS-260327-7018` Affluent consumers who thrift for social media content are performing frugality as an identity signal while spending mor
 - `INS-260327-7AB5` Recycling messaging allows companies to position waste as the consumers problem rather than redesigning products and pac
 - `INS-260327-290C` Businesses that make consumers so accustomed to effortless consumption create switching costs based on effort aversion t
 - `INS-260327-0746` Products that solve invisible problems struggle with retention because customers cannot perceive whether the product is 
@@ -28,3 +14,17 @@
 - `INS-260327-6A45` Once functional features converge, commoditized products re-differentiate through aesthetics, limited editions, and bran
 - `INS-260327-415B` When products are designed primarily to be shared on social media, they optimize for visual impact at the expense of the
 - `INS-260327-A620` Minimalism as an aesthetic requires specific products (clean-lined furniture, neutral colors, curated accessories) that 
+- `INS-260327-134F` When addictive substances are packaged in clean modern branding with lifestyle marketing, consumers perceive them as wel
+- `INS-260327-6742` Stated preference for sustainable packaging evaporates when the price premium is visible on the shelf because consumers 
+- `INS-260327-A69D` Plant-based milk adoption was driven primarily by avoiding dairy rather than positive attributes of the alternatives, cr
+- `INS-260327-24A5` Incremental quality reduction across successive product versions is imperceptible to consumers who evaluate each purchas
+- `INS-260327-FC4F` Products consumed daily benefit from per-use price evaluation that makes even expensive items feel cheap, which is why c
+- `INS-260327-FCC4` When debt products use consumer-friendly interfaces and millennial-targeted branding, they normalize borrowing as a life
+- `INS-260327-7B05` Meal replacements fail to achieve mass adoption because they treat eating as a nutritional optimization problem when it 
+- `INS-260327-8E9B` When food choices become identity markers, consumers evaluate products based on tribal affiliation rather than taste, cr
+- `INS-260327-57A4` The malls original value proposition was social gathering that included shopping; when social interaction moved to socia
+- `INS-260327-FEB7` Food products that go viral on social media are optimized for visual impact and shareability rather than taste, which is
+- `INS-260327-1403` Consumer rage at automotive subscriptions exceeds rational price objections because the psychological experience is havi
+- `INS-260327-7D27` All-inclusive pricing environments increase total spending because individual consumption decisions carry zero marginal 
+- `INS-260327-6188` When therapy is marketed like a subscription service, consumers expect consumer-grade UX, responsiveness, and satisfacti
+- `INS-260327-7018` Affluent consumers who thrift for social media content are performing frugality as an identity signal while spending mor

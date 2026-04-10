@@ -1,7 +1,6 @@
 # Tag: scalability
 
 - `INS-260325-CACA` From non-interchangeable bolts to standardized programming languages, the story of computing's power is inseparable from the story of standardization.
-- `INS-260330-74A0` Proof of work exploits the asymmetry between creation difficulty and verification ease to scale trust across unlimited participants.
 - `INS-260404-420F` Use the Business Model Canvas to iterate toward a model that is both profitable and scalable, not just one or the other.
 - `INS-260402-B42C` A barbershop's locality limits its growth but also limits its competition to other local barbers — startups that remove such constraints face the whole world.
 - `INS-260403-86DF` Removing the economic incentive for a behavior (prosecuting employers) is more effective than trying to physically prevent the behavior (ICE raids).
@@ -10,3 +9,4 @@
 - `INS-260327-AEC2` Michelangelo painting your house is a 7-year masterpiece that can never be replicated; Thomas Kincaid mass-produces paintings with standard pricing and distribution — only Kincaid's model creates investable leverage.
 - `INS-260403-F745` The 5.8M SMB market requires uniqueness at scale — each business has specific needs — which AI agents can deliver but traditional SaaS never could.
 - `INS-260329-96EC` Transitioning from doing the work to licensing the system for doing the work shifts you from linear to exponential scaling.
+- `INS-260330-74A0` Proof of work exploits the asymmetry between creation difficulty and verification ease to scale trust across unlimited participants.

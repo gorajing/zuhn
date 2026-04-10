@@ -1,5 +1,6 @@
 # Tag: decomposition
 
+- `INS-260325-A79E` The Banach-Tarski proof only works because of a specific naming scheme for points on a sphere — the right labeling system makes the 'impossible' duplication self-evident.
 - `INS-260330-BEAD` Vsauce makes the Banach-Tarski proof accessible by building a chain of named analogies — chocolate bar → Hilbert's Hotel → circle points → Hyperwebster → sphere decomposition — each one preparing the mental model for the next.
 - `INS-260330-541B` Hard problems yield when you slice them into many tiny, simple pieces and aggregate the results.
 - `INS-260330-2BF4` Photosynthesis becomes learnable only because each intermediate product and enzyme (PSII, cytochrome complex, ATP synthase, PSI, RuBisCo, G3P) gets a distinct name that serves as a cognitive anchor.
@@ -15,4 +16,3 @@
 - `INS-260329-DFDB` Layering simple, well-understood components produces more robust complex systems than designing bespoke monolithic solutions.
 - `INS-260325-1519` The Banach-Tarski proof works by naming every point on a sphere after the rotation sequence that reaches it, then showing that rotating one directional subset 'cancels' its prefix and regenerates the others.
 - `INS-260329-40B6` Teaching isolated components before composition mirrors natural language acquisition and produces deeper mastery despite feeling counterintuitive.
-- `INS-260325-A79E` The Banach-Tarski proof only works because of a specific naming scheme for points on a sphere — the right labeling system makes the 'impossible' duplication self-evident.

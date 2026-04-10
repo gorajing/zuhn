@@ -67,7 +67,7 @@ related:
   - PRI-260328-A82C
   - INS-260404-CE26
   - INS-260410-684D
-  - INS-260322-299C
+  - INS-260409-FA5E
 ---
 Victor Shih, a China political economy expert, has inductively observed that DeepSeek is the best model for surfacing Chinese government policy documents and high-level official statements. Baidu's models return social-media-flavored content; American models are 'okay'; only DeepSeek reliably returns policy-weighted results. His hypothesis: because DeepSeek was built by quant hedge fund High-Flyer, and because in the Chinese market the largest alpha source is anticipating policy changes (replacing the old insider-info model of calling ministry contacts), High-Flyer deliberately upweighted policy documents in training.
 

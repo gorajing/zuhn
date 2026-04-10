@@ -46,8 +46,8 @@ related:
   - INS-260325-E652
   - INS-260402-28BA
   - INS-260405-214D
-  - INS-260325-9C89
-  - INS-260329-01F2
+  - INS-260409-2A51
+  - INS-260409-8DA0
 ---
 Embedding models excel at semantic relationships but routinely whiff on queries that hinge on a literal token: error codes, SKUs, function names, legal citations. BM25, despite being decades old, finds those exact matches reliably because TF-IDF rewards rare distinctive terms. Anthropic's tested pipeline runs both, deduplicates with rank fusion, and consistently outperforms either alone.
 

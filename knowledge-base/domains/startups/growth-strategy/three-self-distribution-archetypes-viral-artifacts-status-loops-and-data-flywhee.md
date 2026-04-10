@@ -62,13 +62,13 @@ related:
   - INS-260321-C4CD
   - INS-260327-38D8
   - INS-260327-9CB1
-  - INS-260329-E4F6
   - INS-260329-148D
   - INS-260329-057F
   - INS-260329-8CC0
   - INS-260330-82B2
   - INS-260330-20F7
   - INS-260403-EC3D
+  - INS-260403-C4EE
 ---
 Viral artifacts are outputs that spread awareness without additional effort — every MidJourney image shared on Discord or ElevenLabs voice clip posted on TikTok is simultaneously content and marketing. The tactic is to build watermarking, share buttons, and attribution into outputs by default so every use generates discovery.
 

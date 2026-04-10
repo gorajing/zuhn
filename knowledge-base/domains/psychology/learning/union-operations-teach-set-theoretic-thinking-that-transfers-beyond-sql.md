@@ -46,10 +46,10 @@ stance: >-
   programming with arrays, streams, and API responses
 related:
   - INS-260329-91DD
+  - INS-260409-A0B4
   - INS-260410-01BC
   - INS-260329-71AB
   - PRI-260406-6D40
-  - INS-260402-C301
 evidence:
   - id: INS-260330-4B30
     type: TRANSFERS_TO

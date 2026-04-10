@@ -1,6 +1,6 @@
 # Topic: agent-patterns
 
-> 99 insights
+> 101 insights
 
 - `INS-260321-18D0` [very_high] Your bottleneck shifted from typing speed to token throughput — maximize how many agent sessions you can run in parallel, not how fast you code.
 - `INS-260321-2482` [high] When agents fail, the instinct now is 'I gave bad instructions' not 'the AI can't do this' — most failures are configuration problems, not capability limits.
@@ -30,6 +30,7 @@
 - `INS-260327-9EFE` [high] The classical robotics pipeline failed not because individual components were bad, but because the hand-designed interfaces between them could not capture real-world complexity.
 - `INS-260327-E07C` [high] The same environment you use to eval your model offline can be used as your train set for reinforcement learning, unifying evaluation and training infrastructure.
 - `INS-260410-38C8` [high] The SWE-bench agent always requires absolute paths and only performs an edit when `old_str` matches exactly once — both choices eliminate entire classes of silent failure.
+- `INS-260409-0DB0` [high] Jerry Liu on the 'additional complexity of evaluating agent loops' — unlike single-shot RAG where you measure retrieval@K and answer correctness, agent loops require tracking state transitions, intermediate decisions, and how errors propagate across steps.
 - `INS-260410-01BC` [high] When a tool returns large data, filter and aggregate it in the code execution sandbox and only log the relevant slice.
 - `INS-260410-85AD` [high] Give the agent browser automation (e.g., Puppeteer MCP) and explicitly prompt it to verify every feature as a human user would, end-to-end.
 - `INS-260326-9402` [high] Andrew Ng identifies four core agentic design patterns — reflection, tool use, planning, and multi-agent collaboration — that when combined enable AI systems to iteratively solve problems far beyond zero-shot capability.
@@ -50,6 +51,7 @@
 - `INS-260410-CD79` [high] Anthropic's SOTA SWE-bench agent used only a prompt plus a Bash tool and an edit tool, deliberately avoiding hardcoded step transitions.
 - `INS-260410-566F` [high] Multi-agent BrowseComp runs hit unintended-solution rates of 0.87% vs 0.24% single-agent — a 3.7x amplification just from more parallel shots at the problem.
 - `INS-260410-77E5` [high] Multi-agent systems burn ~15x the tokens of a chat and only pay off for parallelizable, high-value research tasks — not coding or tightly-coupled domains.
+- `INS-260409-2A51` [high] Jerry Liu: 'You can take a question, break it down into smaller components and use that to actually send to your retrieval system. And that gives you better results' than passing the full question as a single vector lookup.
 - `INS-260410-7ED2` [high] When 16 agents all hit the same bug compiling one giant artifact, decompose by using a known-good oracle to narrow the failing subset per agent.
 - `INS-260405-82DD` [high] Context windows are RAM-like quick access, but persistent agents also need hard-drive-like selective memory systems that choose what to retain.
 - `INS-260410-545A` [high] Have the initializer write a comprehensive JSON feature list with each feature marked failing, and forbid the coding agent from editing anything except the passes field.

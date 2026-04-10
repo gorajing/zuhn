@@ -1,9 +1,5 @@
 # Tag: prioritization
 
-- `INS-260410-DB1D` Paine's practical advice: check alignments before committing, reassess early and often, don't get hung up about changing your mind, and recognize that part of good strategy is accepting that some problems cannot be solved and routing scarce resources to ones that can.
-- `INS-260403-3CD9` Busywork that feels productive is worse than obvious procrastination because it prevents self-correction.
-- `INS-260330-BFD0` The gradient vector doesn't just point downhill — its component magnitudes reveal which parameters carry the most bang for your buck.
-- `INS-260330-6C0E` Deliberately decide which relationships matter more than political agreement, and protect those while holding public figures to a different standard.
 - `INS-260330-76DA` Debaters evaluate whether challenging a point is necessary for progress or merely satisfying — and let go of arguments that won't advance the overall dispute.
 - `INS-260329-EB4B` Easy wins feel productive but leave the highest-leverage problem unsolved day after day.
 - `INS-260329-ADC4` Being busy creates natural prioritization pressure that eliminates waste — start now rather than waiting for free time that never comes.
@@ -38,3 +34,7 @@
 - `INS-260403-1E4A` Use one Value Proposition Canvas per customer segment — never combine payers, users, and other segments.
 - `INS-260403-3E3B` Ranking pains by intensity and frequency forces triage that prevents building features for low-stakes annoyances.
 - `INS-260330-F268` If users tolerate a problem and keep using your product anyway, that problem is probably not worth prioritizing over acquisition barriers.
+- `INS-260410-DB1D` Paine's practical advice: check alignments before committing, reassess early and often, don't get hung up about changing your mind, and recognize that part of good strategy is accepting that some problems cannot be solved and routing scarce resources to ones that can.
+- `INS-260403-3CD9` Busywork that feels productive is worse than obvious procrastination because it prevents self-correction.
+- `INS-260330-BFD0` The gradient vector doesn't just point downhill — its component magnitudes reveal which parameters carry the most bang for your buck.
+- `INS-260330-6C0E` Deliberately decide which relationships matter more than political agreement, and protect those while holding public figures to a different standard.

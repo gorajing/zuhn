@@ -3,6 +3,8 @@
 - `INS-260329-DACC` Accept unexplained scaffolding early so learners can produce output immediately, then backfill understanding incrementally.
 - `INS-260329-1075` Family metaphors (parent, child, sibling) for nested structures leverage existing human intuition about relational hierarchies.
 - `INS-260329-FEC5` The most effective way to teach any formal system is the natural language progression: learn words, then sentences, then paragraphs.
+- `INS-260329-E40B` The normal learning path for programming is prolonged confusion followed by a sudden breakthrough, and knowing this pattern exists is itself the most valuable intervention.
+- `INS-260329-4531` Narrating your live thinking process, including mistakes, teaches subordinates faster than only sharing polished outputs.
 - `INS-260404-023C` Veritasium's 'make your prediction now' technique forces viewers to commit to a mental model before it gets challenged, deepening learning.
 - `INS-260329-48FD` Teaching complex concepts by starting with physical metaphors before moving to formal notation produces far better understanding than abstract-first approaches.
 - `INS-260329-90C3` Dr. Chuck's course revisits conditionals, loops, and functions across 24 chapters of escalating complexity because spiral repetition in new contexts builds deeper understanding than one-pass comprehensive coverage.
@@ -47,5 +49,3 @@
 - `INS-260325-7080` The gold standard for comprehension is the sense that you could have invented the idea independently.
 - `INS-260325-48E4` Drawing the right picture turns abstract formulas from arbitrary rules into obvious geometric facts.
 - `INS-260329-7A6A` Zero-based vs one-based indexing confuses programmers because it contradicts deeply ingrained mathematical counting conventions, and the problem compounds in fields like quantum computing that try to please multiple conventions simultaneously.
-- `INS-260329-E40B` The normal learning path for programming is prolonged confusion followed by a sudden breakthrough, and knowing this pattern exists is itself the most valuable intervention.
-- `INS-260329-4531` Narrating your live thinking process, including mistakes, teaches subordinates faster than only sharing polished outputs.

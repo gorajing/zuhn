@@ -38,9 +38,9 @@ resolutions:
 related:
   - PRI-260321-D74F
   - INS-260323-E0B5
+  - INS-260409-3602
   - INS-260320-F872
   - INS-260409-1E3C
-  - INS-260320-04A2
 stance: >-
   Create three markdown context files (about-me.md, my-rules.md,
   my-templates.md)

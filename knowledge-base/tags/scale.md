@@ -6,14 +6,7 @@
 - `INS-260409-1078` MemPalace's AAAK uses 73 tokens to encode text that plain English encodes in 66 — compression only amortizes at scale where the same entities appear hundreds of times, making it a net loss for small-scale personal memory.
 - `INS-260325-5B7F` Standards enabled computing at scale by allowing workers who didn't understand the underlying science to reliably execute their piece of a complex calculation.
 - `INS-260325-0C45` The scale cannot tell fat from water or muscle — body measurements, clothing fit, and energy levels are better progress indicators.
-- `INS-260404-EDEC` The 1987 supernova neutrino arrival simultaneously with light over tens of thousands of light-years outweighed the OPERA result over 454 miles.
-- `INS-260330-814E` WWII's unprecedented destruction came not from unprecedented hatred but from unprecedented industrial capacity to act on ordinary human impulses at scale.
-- `INS-260409-CE1D` From Artemis's long-exposure Earth shot the atmosphere is a thread — you cannot separate 'clouds' from 'breathable layer' because both are tiny against the planet's radius.
-- `INS-260409-E0D5` Where quantum stops and classical starts is an unknown that experimentalists push outward by engineering, not by theorizing.
-- `INS-260330-4711` A field goal kicked due north drifts measurably sideways from Earth's rotation, proving invisible forces produce real effects even at everyday scales.
-- `INS-260325-96FB` Common sense works perfectly within its calibrated range and fails predictably outside it.
-- `INS-260330-CBFD` Saying 'if this sphere were Earth, the tallest mountain to deepest valley would be 14 meters' makes nanometer-level roundness instantly comprehensible.
-- `INS-260409-8908` Astronauts on the ISS never see the whole Earth at once because they're too close; only deep-space distance produces the marble.
+- `INS-260410-4357` At scale, effectiveness of achieving outcomes matters more than efficiency of resource use — the 'waste' in China's growth was the mechanism that produced the growth.
 - `INS-260409-A62F` High-volume content production is the late-stage payoff of having tolerated years of bad early output.
 - `INS-260330-E4B6` Morgan's 'morganization' strategy turned fragmented railroads into profitable monopolies by merging competitors rather than outcompeting them.
 - `INS-260330-39B0` Photosynthesis is explicitly inefficient and complicated, yet it powered the organism that became the dominant life form on Earth by being first and scaling massively.
@@ -28,4 +21,11 @@
 - `INS-260404-16B0` RuBisCo is a terrible enzyme that won the planet by being produced in enormous quantities — 40 billion tons — rather than by being good at its job.
 - `INS-260405-0806` RuBisCo makes errors ~50% of the time yet dominates because plants produce 40 billion tons of it — volume compensated for quality and the strategy locked in permanently.
 - `INS-260330-4489` RuBisCo is terrible at its job but plants produce 40 billion tons of it rather than evolving a better enzyme — a biological case study in scale-over-quality lock-in.
-- `INS-260410-4357` At scale, effectiveness of achieving outcomes matters more than efficiency of resource use — the 'waste' in China's growth was the mechanism that produced the growth.
+- `INS-260404-EDEC` The 1987 supernova neutrino arrival simultaneously with light over tens of thousands of light-years outweighed the OPERA result over 454 miles.
+- `INS-260330-814E` WWII's unprecedented destruction came not from unprecedented hatred but from unprecedented industrial capacity to act on ordinary human impulses at scale.
+- `INS-260325-96FB` Common sense works perfectly within its calibrated range and fails predictably outside it.
+- `INS-260330-CBFD` Saying 'if this sphere were Earth, the tallest mountain to deepest valley would be 14 meters' makes nanometer-level roundness instantly comprehensible.
+- `INS-260409-8908` Astronauts on the ISS never see the whole Earth at once because they're too close; only deep-space distance produces the marble.
+- `INS-260409-CE1D` From Artemis's long-exposure Earth shot the atmosphere is a thread — you cannot separate 'clouds' from 'breathable layer' because both are tiny against the planet's radius.
+- `INS-260409-E0D5` Where quantum stops and classical starts is an unknown that experimentalists push outward by engineering, not by theorizing.
+- `INS-260330-4711` A field goal kicked due north drifts measurably sideways from Earth's rotation, proving invisible forces produce real effects even at everyday scales.

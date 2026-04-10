@@ -47,7 +47,6 @@ stance: >-
   most important selection criterion over feature count.
 related:
   - INS-260327-FDF4
-  - INS-260330-AB62
   - PRI-260406-ED43
   - INS-260405-567D
   - PRI-260328-0C15

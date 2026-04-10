@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-10 | 4726 actionable insights
+Generated on 2026-04-10 | 4728 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -96,6 +96,7 @@ Generated on 2026-04-10 | 4726 actionable insights
 - [INS-260410-8ECF] Expose MCP servers as a typed file tree of tool modules so agents load only the definitions they actually need.
 - [INS-260410-53C2] Use a specialized first-session initializer agent to create scaffolding (feature list, progress file, init.sh, git repo), then run identical coding agents on subsequent sessions that only do incremental work.
 - [INS-260410-E658] Let agents write while-loops and if-statements as code rather than rerunning the model to evaluate each branch.
+- [INS-260409-2A51] Jerry Liu: 'You can take a question, break it down into smaller components and use that to actually send to your retrieval system. And that gives you better results' than passing the full question as a single vector lookup.
 
 ## ai-development/agents
 - [INS-260405-FE94] Coinbase's Agentic Wallets let AI agents hold funds, pay for APIs, and execute trades without human approval at each step.
@@ -301,6 +302,7 @@ Generated on 2026-04-10 | 4726 actionable insights
 - [INS-260409-ADD0] MemPalace's wing+room metadata filtering takes 60.9% flat semantic R@10 to 94.8% on 22k real conversation memories — a 34-point lift from trivial structure the maintainers honestly note is standard ChromaDB filtering.
 - [INS-260410-2067] Run BM25 and vector search in parallel, then merge results with rank fusion — embeddings catch meaning, BM25 catches exact strings like 'TS-999'.
 - [INS-260410-2F8D] Have Claude write a 50-100 token explanation of where each chunk sits in the parent document, prepend it to the chunk, then embed and BM25-index the combined text.
+- [INS-260409-3602] Jerry Liu: 'The chunking algorithm, how you define metadata will bias your embedding representations' — no universal chunking rule works across PDFs, Slack messages, SEC filings, and code. Chunking is a domain-specific decision that dramatically shapes retrieval quality.
 
 ## ai-development/future-of-work
 - [INS-260320-A745] Anthropic's own studies show AI deskilling in coding is real, but depends on HOW you use models — some usage patterns cause skill degradation, some don't.

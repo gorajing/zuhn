@@ -59,9 +59,9 @@ stance: >-
 related:
   - INS-260320-CE36
   - INS-260410-34F5
+  - INS-260409-3230
   - INS-260410-699C
   - INS-260409-ADD0
-  - INS-260402-1D32
 ---
 Before implementing WaveNet, Karpathy runs a control: he keeps the original flat MLP architecture but bumps the context window from 3 to 8 characters. With no other changes, validation loss drops from 2.10 to 2.02 — a meaningful improvement from a one-line edit. Then, after implementing the full hierarchical WaveNet-style model with the same parameter budget, he gets 2.027, essentially matching the flat baseline. The architectural sophistication contributed ~zero until he also scaled up embedding size and hidden width, eventually reaching 1.993.
 

@@ -1,7 +1,5 @@
 # Tag: returns
 
-- `INS-260330-EBFD` Glycolysis must invest 2 ATP to generate 4 ATP — even biology requires spending resources before earning returns.
-- `INS-260404-A2AE` Data shows female-founded startups deliver better returns, representing an inefficiency VCs should exploit.
 - `INS-260403-3CD0` Optimizing deal terms yields marginal gains compared to the exponential impact of picking the right startup.
 - `INS-260327-7F54` PE firms promised billionaire-level returns through superior analysts but actually delivered them through borrowing against acquired companies and smoothing volatility on paper.
 - `INS-260403-CDC9` Winning deals matters more than picking them because access compounds faster than analytical skill.
@@ -22,3 +20,5 @@
 - `INS-260405-7FFC` Smaller funds beat giants by maintaining agility, concentrated ownership, and disciplined focus rather than deploying at scale.
 - `INS-260405-4423` The most successful investors are disproportionately the most ethical — not coincidentally.
 - `INS-260403-4227` More VC money doesn't produce more great startups — it inflates prices, spreads talent thin, and compresses exit multiples.
+- `INS-260330-EBFD` Glycolysis must invest 2 ATP to generate 4 ATP — even biology requires spending resources before earning returns.
+- `INS-260404-A2AE` Data shows female-founded startups deliver better returns, representing an inefficiency VCs should exploit.

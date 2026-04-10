@@ -49,7 +49,6 @@ stance: >-
   roughly 5 actionable insights because beginner educational content has an
   extremely low insight-to-word ratio compared to expert discourse
 related:
-  - INS-260320-47FA
   - INS-260325-E84D
   - INS-260403-6652
   - INS-260404-89C3

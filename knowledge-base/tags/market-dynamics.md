@@ -5,21 +5,9 @@
 - `INS-260404-0153` Accenture's generative AI revenue surpasses all VC-backed AI startups combined, showing incumbents capture value faster than disruptors.
 - `INS-260325-F48E` A year-over-year test of 268 prompts found most LLMs became less speech-restrictive — competitive pressure is correcting initial over-censorship.
 - `INS-260330-7C24` Vibe coding creates a barbell market where giant apps and tiny niche apps thrive, but 5-20 person software companies get squeezed out.
-- `INS-260403-F66B` Customers say they want flashy features but actually follow the taste of sophisticated buyers they aspire to imitate.
-- `INS-260327-86FE` Every anti-consumption trend is immediately co-opted by brands selling anti-consumption-branded products, neutralizing t
-- `INS-260327-A9E8` When enough product categories are exposed as deceptive, consumers generalize distrust to all categories, making honest 
-- `INS-260327-48D6` Products and services that remove all friction from consumption eliminate the natural behavioral checkpoints that previo
-- `INS-260327-CB07` Artisanal cultural products follow a predictable degradation path when adopted by mass markets: authentic versions are d
-- `INS-260327-B528` The decluttering movement does not reduce consumption because removing old possessions creates psychological permission 
-- `INS-260327-E26D` Artificial scarcity combined with social media visibility converts the psychological experience from desire to anxiety, 
-- `INS-260327-D832` Consumers who buy cologne are purchasing an identity signal — sophistication, masculinity, wealth — rather than a functi
-- `INS-260327-C13D` Water bottles marketed as sustainable alternatives to disposable plastics have become fashion items with seasonal colors
-- `INS-260327-FFB5` Products marketed against invisible threats (air quality, EMF, toxins) exploit health anxiety because consumers cannot i
-- `INS-260327-A40E` Brands with decades of cultural presence command premiums based on accumulated social proof, family tradition, and aspir
-- `INS-260327-747B` Artificial urgency events like Cyber Monday show declining engagement as consumers learn that the same discounts are ava
-- `INS-260327-2B94` Consumer recycling programs create the illusion of environmental responsibility while the vast majority of recycled mate
-- `INS-260327-690E` Scented candle purchases are really purchases of emotional states — calm, romance, coziness — using scent as the deliver
-- `INS-260327-45BD` Reusable tote bags from trendy brands function primarily as visible virtue signals rather than practical shopping tools,
+- `INS-260402-180C` Two-thirds of venture capital goes to AI companies, with two-thirds of that concentrated in the Bay Area, creating extreme geographic funding asymmetry.
+- `INS-260405-DDC2` Global VC funding settled near $20B/month in early 2024 but AI's share kept growing, compressing available capital for other sectors.
+- `INS-260404-D5B5` Q2 2024 venture trends show capital concentrating at extremes — large late-stage rounds and small seeds — while mid-stage funding gets squeezed.
 - `INS-260327-4F8C` Cruise lines optimize revenue by creating a closed economic system where all spending occurs within their controlled env
 - `INS-260327-0710` Shopping malls built around anchor department stores face cascading failure when anchors close because the entire ecosys
 - `INS-260323-1D15` Chinese competitive dynamics favor rapid replication over differentiation — when something works, thousands of competitors copy it immediately, driving ferocious price and execution competition.
@@ -60,6 +48,18 @@
 - `INS-260405-0010` PMF is a dynamic equilibrium that degrades without continuous customer feedback loops.
 - `INS-260403-5C83` A product loved by both novices and experts but ignored by the middle market is about to break through to mass adoption.
 - `INS-260323-BD2B` JungleKeepers' strategy of purchasing land concessions works because the Amazon already has owners who will sell to loggers if conservationists don't buy first.
-- `INS-260402-180C` Two-thirds of venture capital goes to AI companies, with two-thirds of that concentrated in the Bay Area, creating extreme geographic funding asymmetry.
-- `INS-260405-DDC2` Global VC funding settled near $20B/month in early 2024 but AI's share kept growing, compressing available capital for other sectors.
-- `INS-260404-D5B5` Q2 2024 venture trends show capital concentrating at extremes — large late-stage rounds and small seeds — while mid-stage funding gets squeezed.
+- `INS-260403-F66B` Customers say they want flashy features but actually follow the taste of sophisticated buyers they aspire to imitate.
+- `INS-260327-86FE` Every anti-consumption trend is immediately co-opted by brands selling anti-consumption-branded products, neutralizing t
+- `INS-260327-A9E8` When enough product categories are exposed as deceptive, consumers generalize distrust to all categories, making honest 
+- `INS-260327-48D6` Products and services that remove all friction from consumption eliminate the natural behavioral checkpoints that previo
+- `INS-260327-CB07` Artisanal cultural products follow a predictable degradation path when adopted by mass markets: authentic versions are d
+- `INS-260327-B528` The decluttering movement does not reduce consumption because removing old possessions creates psychological permission 
+- `INS-260327-E26D` Artificial scarcity combined with social media visibility converts the psychological experience from desire to anxiety, 
+- `INS-260327-D832` Consumers who buy cologne are purchasing an identity signal — sophistication, masculinity, wealth — rather than a functi
+- `INS-260327-C13D` Water bottles marketed as sustainable alternatives to disposable plastics have become fashion items with seasonal colors
+- `INS-260327-FFB5` Products marketed against invisible threats (air quality, EMF, toxins) exploit health anxiety because consumers cannot i
+- `INS-260327-A40E` Brands with decades of cultural presence command premiums based on accumulated social proof, family tradition, and aspir
+- `INS-260327-747B` Artificial urgency events like Cyber Monday show declining engagement as consumers learn that the same discounts are ava
+- `INS-260327-2B94` Consumer recycling programs create the illusion of environmental responsibility while the vast majority of recycled mate
+- `INS-260327-690E` Scented candle purchases are really purchases of emotional states — calm, romance, coziness — using scent as the deliver
+- `INS-260327-45BD` Reusable tote bags from trendy brands function primarily as visible virtue signals rather than practical shopping tools,

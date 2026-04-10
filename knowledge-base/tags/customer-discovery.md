@@ -1,7 +1,6 @@
 # Tag: customer-discovery
 
 - `INS-260323-5CBE` Founders who ask AI what customers want instead of talking to actual customers end up optimizing for the wrong problem — one founder spent months building a scheduling tool when the real problem was too many pointless meetings.
-- `INS-260403-359D` Deliberately adopting a beginner's mindset during customer interviews counteracts the confirmation bias that comes from having a pre-existing hypothesis about what customers want.
 - `INS-260405-A742` You cannot identify gains until you've mapped the expectation floor — everything below it is pain, everything at it is neutral.
 - `INS-260409-78E1` Eight interviews is a feature, not a bug — convergence is your signal to stop talking and start shipping.
 - `INS-260409-655B` Expert users know what is missing because they have a complete workflow mental model — mass-market users do not.
@@ -47,3 +46,4 @@
 - `INS-260403-260B` Validate that the problem exists and matters before testing whether your solution addresses it.
 - `INS-260404-D1E2` Use the Value Proposition Canvas to make explicit how your product addresses the most critical customer jobs, pains, and gains.
 - `INS-260330-3745` Interview three distinct groups — your users, competitors' users, and non-users — because each reveals different strategic insights.
+- `INS-260403-359D` Deliberately adopting a beginner's mindset during customer interviews counteracts the confirmation bias that comes from having a pre-existing hypothesis about what customers want.

@@ -1,15 +1,54 @@
 # Tag: systems-thinking
 
 - `INS-260330-EE25` Context window size, not model capability, is the binding constraint on transformer coherence in long interactions.
+- `INS-260329-425B` Dynamic arrays double in size when full, making each individual resize expensive but amortizing the cost across all appends to achieve constant time on average.
+- `INS-260329-BD83` File access modes (read, write, append) teach the universal principle that every system boundary needs explicit access control.
+- `INS-260329-A67B` When variables are linked by constraint equations, the chain rule reveals how change propagates through the system at rates that defy naive intuition.
 - `INS-260330-BC56` Photons from solar fusion excite electrons in chlorophyll, which through an elaborate transport chain produce ATP and NADPH, which build glucose, which animals then reverse-engineer back into ATP — making all aerobic life indirectly fusion-powered.
 - `INS-260403-726B` Oxygen — the molecule all animal life requires — is a waste product of photosynthesis, not its purpose.
 - `INS-260330-8538` Each level of biological organization (atom → cell → tissue → organ → system → organism) produces emergent capabilities invisible at lower levels.
 - `INS-260409-3117` Because hair loss is a multi-factor cascade, any protocol that fixes only one layer (DHT, circulation, mitochondria, scar tissue, or metabolic) will plateau at partial results.
-- `INS-260329-425B` Dynamic arrays double in size when full, making each individual resize expensive but amortizing the cost across all appends to achieve constant time on average.
-- `INS-260329-BD83` File access modes (read, write, append) teach the universal principle that every system boundary needs explicit access control.
-- `INS-260329-A67B` When variables are linked by constraint equations, the chain rule reveals how change propagates through the system at rates that defy naive intuition.
 - `INS-260330-2EAB` In biology, what something looks like tells you what it does — heart valves prevent backflow because of their shape, bones protect because they're hard.
 - `INS-260330-E3C0` Tattoo removal requires both laser fragmentation and immune-mediated clearance working in sequence — the laser breaks particles below the phagocytic threshold, then macrophages transport fragments to the liver.
+- `INS-260330-D6EF` Proof of work replaces trust by making fraud more expensive than honest participation.
+- `INS-260325-793A` The Bronze Age collapse resulted from drought, migration, earthquakes, and trade disruption compounding — not any single cause.
+- `INS-260325-F5CA` The same interconnections that create prosperity become transmission vectors for cascading collapse.
+- `INS-260325-3C17` After the Bronze Age collapse, it took 400 years to rebuild comparable Mediterranean trade networks.
+- `INS-260325-6AD5` The Sea Peoples were blamed for the Bronze Age collapse but were likely symptoms and refugees, not the root cause.
+- `INS-260325-A52D` Co-founder conflict is co-created from a systems perspective — one founder's withdrawal provokes the other's over-functioning, and vice versa.
+- `INS-260404-C8FA` BMC blocks form an integrated system where revenue requires a value proposition, which requires infrastructure, which must cost less than it earns.
+- `INS-260403-3F10` Innovation applied to your entire business model — not just your product — creates more durable competitive advantage.
+- `INS-260403-BB23` Business model strength comes from the configuration of all building blocks together, not from optimizing any single element.
+- `INS-260330-40DA` Agriculture made individuals less healthy and overworked compared to foraging, yet it dominated because surplus calories enabled specialization cascades.
+- `INS-260323-D4EC` Systems at criticality — forests, economies, markets — naturally drive themselves to a state where a single small event can cascade through the entire system, making mega-events inevitable regardless of the trigger.
+- `INS-260403-65D2` Multi-layer systems exhibit emergent rigidity that single layers don't, because elements trap each other rather than flowing freely.
+- `INS-260403-E748` Extreme strength at the core does not protect against catastrophic failure triggered at the weakest peripheral link.
+- `INS-260330-3AF7` DNA polymerase proofreads as it builds, achieving a 1-in-10-billion error rate — orders of magnitude better than any separate quality check could achieve at that scale.
+- `INS-260403-1904` Centralizing all financial assumptions in one tab and wiring downstream logic to it prevents the Jenga-tower fragility that plagues most startup spreadsheets.
+- `INS-260330-C33B` Don't just push harder — also remove friction on the other side of the equation.
+- `INS-260329-FCE6` Automate money flowing toward investments and add friction to every spending pathway.
+- `INS-260405-A103` The Calvin Cycle produces 6 G3P molecules per turn but must use 5 of them to regenerate the starting molecules — only 1 net output escapes per cycle, meaning 83% of output is structural overhead.
+- `INS-260403-648C` Before reaching for any tool, ask whether the task should exist at all — only then design the system, then automate.
+- `INS-260322-F6C3` Like zoo animals that develop diseases their wild counterparts never get, humans in modern environments develop chronic disease because the environment is structurally unhealthy — the solution is fixing the environment, not demanding individual discipline.
+- `INS-260403-E63A` Growth matured from a solo hacker role into a cross-functional team that operates like a systems architecture function spanning product, data, engineering, and design.
+- `INS-260405-AD58` Every agricultural revolution solved a constraint and created a dependency — today's precision ag wave will be no different.
+- `INS-260330-C0D1` If a system is linear, tracking what happens to a few basis cases lets you predict outcomes for all possible inputs.
+- `INS-260330-2E41` Chloroplasts charge thylakoids like batteries by pumping protons to create a concentration gradient, then release energy through a single enzyme (ATP synthase) — the same pattern underlies effective marketplace and platform strategies.
+- `INS-260404-266F` The Culture Map's four-layer decomposition (outcomes, behaviors, enablers, blockers) makes culture systematically designable rather than abstractly aspirational.
+- `INS-260330-8D7C` LA's bromate problem had three inputs (bromide, chlorine, sunlight) — only sunlight could be removed, which reframed the entire solution space.
+- `INS-260323-257D` Jet engine efficiency is fundamentally limited by the Carnot equation: raise the combustion temperature or lower the outside air temperature. Turbine blade materials became the binding constraint because they set the maximum combustion temperature, making metallurgy — not aerodynamics or fuel chemistry — the bottleneck for the entire aviation industry.
+- `INS-260404-67C5` Multiple checkpoints (police, prosecutors, defense, jury) all biased toward conviction means zero effective error correction.
+- `INS-260403-DC6E` Once a token economy launches on-chain, rebalancing becomes nearly impossible compared to server-side economies, making upfront design discipline critical.
+- `INS-260403-185D` The shift from founder hustle to systematic operations is the make-or-break transition for scaling startups.
+- `INS-260330-73F3` DNA replication's lagging strand can't simply mirror the leading strand — it requires an entirely different mechanism with Okazaki fragments, multiple primers, and extra enzymes.
+- `INS-260404-7834` When you can't fix the source of a problem (e.g., patent issuance), target the point where harm actually occurs (e.g., patent enforcement against startups).
+- `INS-260403-F290` Plants built entire metabolic pathways to compensate for RuBisCo's flaws rather than replace it — a pattern that applies to startups managing legacy technical debt.
+- `INS-260330-B3DD` Compound pulley systems achieve 8:1 advantage with fewer components than block-and-tackle systems because each stage doubles the previous output rather than adding to it.
+- `INS-260323-9772` At the critical point of a phase transition (like a magnet at its Curie temperature), the system becomes scale-free and fractal — local influences chain together into infinite-range correlations, making the system 'maximally interesting' and maximally unpredictable.
+- `INS-260330-0027` PFAS have reached planetary saturation where rain itself contains unsafe levels of at least four PFAS species, found on every continent including Antarctica and in virtually 100% of human blood samples.
+- `INS-260330-6DEB` Breaking systems into parts for analysis — the foundation of modern science — systematically blinds us to emergent behaviors that only appear when parts interact.
+- `INS-260330-23CD` Laws are immortal code for civilization — without garbage collection, they accumulate into bloatware that prevents anything from getting done.
+- `INS-260323-92AD` Mortgage fraud safeguards are designed for ordinary borrowers, not for brokers who understand the system — Cox learned to exploit seams by moving from employee to company owner where he could see the full architecture.
 - `INS-260330-293E` When behavior is blocked by active inhibitors (stress, fear, friction), removing those brakes produces bigger results than pushing harder on motivation.
 - `INS-260330-D582` Reversing just one variable in bicycle steering — handlebars to wheel direction — made riding impossible for everyone who tried, despite 99% of the physical system remaining identical.
 - `INS-260330-BE0A` Dark matter doesn't form planets or galaxies because its particles don't interact with each other — self-interaction, not just external interaction, is what enables structural complexity.
@@ -59,42 +98,3 @@
 - `INS-260329-B8B6` The chain rule states that when y depends on u which depends on x, the rate dy/dx equals dy/du times du/dx — rates of change through composed systems multiply, they don't add.
 - `INS-260325-7974` Western individualism is scientifically wrong: we are constantly being reshaped by the actions of people we will never meet.
 - `INS-260330-946B` Trump demonstrated that democratic norms are insufficient guardrails — institutions need explicit laws and structural constraints designed to contain worst-case actors.
-- `INS-260325-A52D` Co-founder conflict is co-created from a systems perspective — one founder's withdrawal provokes the other's over-functioning, and vice versa.
-- `INS-260404-C8FA` BMC blocks form an integrated system where revenue requires a value proposition, which requires infrastructure, which must cost less than it earns.
-- `INS-260403-3F10` Innovation applied to your entire business model — not just your product — creates more durable competitive advantage.
-- `INS-260403-BB23` Business model strength comes from the configuration of all building blocks together, not from optimizing any single element.
-- `INS-260330-40DA` Agriculture made individuals less healthy and overworked compared to foraging, yet it dominated because surplus calories enabled specialization cascades.
-- `INS-260323-D4EC` Systems at criticality — forests, economies, markets — naturally drive themselves to a state where a single small event can cascade through the entire system, making mega-events inevitable regardless of the trigger.
-- `INS-260403-65D2` Multi-layer systems exhibit emergent rigidity that single layers don't, because elements trap each other rather than flowing freely.
-- `INS-260403-E748` Extreme strength at the core does not protect against catastrophic failure triggered at the weakest peripheral link.
-- `INS-260330-3AF7` DNA polymerase proofreads as it builds, achieving a 1-in-10-billion error rate — orders of magnitude better than any separate quality check could achieve at that scale.
-- `INS-260403-1904` Centralizing all financial assumptions in one tab and wiring downstream logic to it prevents the Jenga-tower fragility that plagues most startup spreadsheets.
-- `INS-260330-C33B` Don't just push harder — also remove friction on the other side of the equation.
-- `INS-260329-FCE6` Automate money flowing toward investments and add friction to every spending pathway.
-- `INS-260405-A103` The Calvin Cycle produces 6 G3P molecules per turn but must use 5 of them to regenerate the starting molecules — only 1 net output escapes per cycle, meaning 83% of output is structural overhead.
-- `INS-260403-648C` Before reaching for any tool, ask whether the task should exist at all — only then design the system, then automate.
-- `INS-260403-E63A` Growth matured from a solo hacker role into a cross-functional team that operates like a systems architecture function spanning product, data, engineering, and design.
-- `INS-260322-F6C3` Like zoo animals that develop diseases their wild counterparts never get, humans in modern environments develop chronic disease because the environment is structurally unhealthy — the solution is fixing the environment, not demanding individual discipline.
-- `INS-260405-AD58` Every agricultural revolution solved a constraint and created a dependency — today's precision ag wave will be no different.
-- `INS-260404-266F` The Culture Map's four-layer decomposition (outcomes, behaviors, enablers, blockers) makes culture systematically designable rather than abstractly aspirational.
-- `INS-260330-C0D1` If a system is linear, tracking what happens to a few basis cases lets you predict outcomes for all possible inputs.
-- `INS-260330-2E41` Chloroplasts charge thylakoids like batteries by pumping protons to create a concentration gradient, then release energy through a single enzyme (ATP synthase) — the same pattern underlies effective marketplace and platform strategies.
-- `INS-260330-8D7C` LA's bromate problem had three inputs (bromide, chlorine, sunlight) — only sunlight could be removed, which reframed the entire solution space.
-- `INS-260323-257D` Jet engine efficiency is fundamentally limited by the Carnot equation: raise the combustion temperature or lower the outside air temperature. Turbine blade materials became the binding constraint because they set the maximum combustion temperature, making metallurgy — not aerodynamics or fuel chemistry — the bottleneck for the entire aviation industry.
-- `INS-260404-67C5` Multiple checkpoints (police, prosecutors, defense, jury) all biased toward conviction means zero effective error correction.
-- `INS-260403-DC6E` Once a token economy launches on-chain, rebalancing becomes nearly impossible compared to server-side economies, making upfront design discipline critical.
-- `INS-260403-185D` The shift from founder hustle to systematic operations is the make-or-break transition for scaling startups.
-- `INS-260330-73F3` DNA replication's lagging strand can't simply mirror the leading strand — it requires an entirely different mechanism with Okazaki fragments, multiple primers, and extra enzymes.
-- `INS-260404-7834` When you can't fix the source of a problem (e.g., patent issuance), target the point where harm actually occurs (e.g., patent enforcement against startups).
-- `INS-260403-F290` Plants built entire metabolic pathways to compensate for RuBisCo's flaws rather than replace it — a pattern that applies to startups managing legacy technical debt.
-- `INS-260330-B3DD` Compound pulley systems achieve 8:1 advantage with fewer components than block-and-tackle systems because each stage doubles the previous output rather than adding to it.
-- `INS-260323-9772` At the critical point of a phase transition (like a magnet at its Curie temperature), the system becomes scale-free and fractal — local influences chain together into infinite-range correlations, making the system 'maximally interesting' and maximally unpredictable.
-- `INS-260330-0027` PFAS have reached planetary saturation where rain itself contains unsafe levels of at least four PFAS species, found on every continent including Antarctica and in virtually 100% of human blood samples.
-- `INS-260330-6DEB` Breaking systems into parts for analysis — the foundation of modern science — systematically blinds us to emergent behaviors that only appear when parts interact.
-- `INS-260330-23CD` Laws are immortal code for civilization — without garbage collection, they accumulate into bloatware that prevents anything from getting done.
-- `INS-260323-92AD` Mortgage fraud safeguards are designed for ordinary borrowers, not for brokers who understand the system — Cox learned to exploit seams by moving from employee to company owner where he could see the full architecture.
-- `INS-260330-D6EF` Proof of work replaces trust by making fraud more expensive than honest participation.
-- `INS-260325-793A` The Bronze Age collapse resulted from drought, migration, earthquakes, and trade disruption compounding — not any single cause.
-- `INS-260325-F5CA` The same interconnections that create prosperity become transmission vectors for cascading collapse.
-- `INS-260325-3C17` After the Bronze Age collapse, it took 400 years to rebuild comparable Mediterranean trade networks.
-- `INS-260325-6AD5` The Sea Peoples were blamed for the Bronze Age collapse but were likely symptoms and refugees, not the root cause.

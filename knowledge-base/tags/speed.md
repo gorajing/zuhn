@@ -1,6 +1,12 @@
 # Tag: speed
 
 - `INS-260325-5455` In AI, being first to market makes you the first target rather than the winner — moats (data flywheels, workflow integration, trust/governance) must be engineered from day one.
+- `INS-260329-C409` HFT makes fractions of a cent per trade but profits through extreme volume and speed advantage.
+- `INS-260404-7E86` Public and private information are now priced in so fast that human-speed reaction strategies cannot capture meaningful edge.
+- `INS-260325-4C16` Alexander won with 40,000 troops against millions by moving faster than enemies could react — speed and adaptability beat numbers.
+- `INS-260327-33EA` Napoleon sat between two Austrian columns at Castiglione and defeated each before they could unite, demonstrating the classic interior lines advantage.
+- `INS-260327-C22F` Belisarius conquered the entire Vandal Kingdom in weeks by attacking before they could assemble their dispersed forces, defeating them piecemeal before they understood the threat.
+- `INS-260327-80AD` Napoleon's greatest weapon was not army size but the speed with which he moved before coalition forces could unite.
 - `INS-260403-3725` AI features get cloned in weeks rather than years, so founders must build strategic moats immediately rather than planning to add them later.
 - `INS-260325-C29B` Linda from Minimax, drawing on her VC experience, reframed the 'what if big companies copy you' question: large organizations compete against their own internal decay curve, not against you.
 - `INS-260403-9442` Plants produce 40 billion tons of the flawed enzyme RuBisCo rather than evolving a better one, proving that volume of a mediocre approach can dominate.
@@ -29,9 +35,3 @@
 - `INS-260323-5341` Moddoc's senior care team of just 2 people reached 50M won monthly revenue in under 4 months, while reducing overall headcount tripled business revenue.
 - `INS-260325-A326` Robinhood's Vlad Tenev: wartime CEOs make fast irreversible decisions with incomplete info — peacetime consensus-building will kill you in crisis.
 - `INS-260404-B2AF` Companies entering Speedrun with prototypes and exiting with $2-2.5M ARR in record time demonstrate that intense time constraints accelerate product-market fit discovery.
-- `INS-260329-C409` HFT makes fractions of a cent per trade but profits through extreme volume and speed advantage.
-- `INS-260404-7E86` Public and private information are now priced in so fast that human-speed reaction strategies cannot capture meaningful edge.
-- `INS-260325-4C16` Alexander won with 40,000 troops against millions by moving faster than enemies could react — speed and adaptability beat numbers.
-- `INS-260327-33EA` Napoleon sat between two Austrian columns at Castiglione and defeated each before they could unite, demonstrating the classic interior lines advantage.
-- `INS-260327-C22F` Belisarius conquered the entire Vandal Kingdom in weeks by attacking before they could assemble their dispersed forces, defeating them piecemeal before they understood the threat.
-- `INS-260327-80AD` Napoleon's greatest weapon was not army size but the speed with which he moved before coalition forces could unite.

@@ -1,3 +1,3 @@
 # Tag: multi-step
 
-- `INS-260325-5F3B` Andrew Ng: agentic workflows with iteration and tool use outperform single prompts even with weaker models — the agent pattern is the future.
+- `INS-260409-0DB0` Jerry Liu on the 'additional complexity of evaluating agent loops' — unlike single-shot RAG where you measure retrieval@K and answer correctness, agent loops require tracking state transitions, intermediate decisions, and how errors propagate across steps.

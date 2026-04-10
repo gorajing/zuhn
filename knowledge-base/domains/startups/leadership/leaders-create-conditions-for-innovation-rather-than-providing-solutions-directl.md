@@ -56,6 +56,7 @@ related:
   - INS-260403-FFF0
   - INS-260404-DD95
   - INS-260410-0857
+  - INS-260409-2A51
 ---
 The Strategyzer model positions the leader's role not as the source of business model innovation but as the architect of conditions that produce it. Instead of dictating strategy, effective leaders use structured assessment questions to guide their teams toward discovering weaknesses and opportunities themselves.
 

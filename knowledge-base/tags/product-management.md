@@ -3,7 +3,6 @@
 - `INS-260403-39CF` AI will reduce product team sizes by 25-50% (mainly fewer engineers) while PMs spend more time on discovery and go-to-market rather than building.
 - `INS-260403-9A0F` Product managers embedded with AI researchers influence model behavior directly, creating differentiation impossible to achieve by building on public APIs alone.
 - `INS-260403-E706` A survey of 1,750 tech professionals shows product managers want AI for research and founders want it for ideation, revealing a major gap in strategic AI applications.
-- `INS-260403-541C` Systematically research each stakeholder's incentives, decision process, and concerns before attempting to influence them.
 - `INS-260327-B5C9` You are ultimately accountable for your product like a CEO, but to make things happen you sometimes need to sweep the floor because nobody else will.
 - `INS-260404-1DAA` Strong PMs master two of the 3 W's; those who rise to leadership master all three—output quality, unique contributions, and operating model.
 - `INS-260403-E09E` Repeatedly returning to the problem statement during design reviews and progress updates is the most effective scope control mechanism.
@@ -23,3 +22,4 @@
 - `INS-260402-B36F` Every AI feature PRD should specify how the feature distributes itself, where it inserts into existing workflows, and whether its economics improve at 10x scale.
 - `INS-260404-E4F1` A structured 5-phase strategy process over 8-12 weeks creates repeatable strategic clarity without the overhead of annual planning cycles.
 - `INS-260402-142F` Web3 forces PMs to recombine user research, data analysis, design, BD, and marketing into one role because the tasks are too intertwined to specialize.
+- `INS-260403-541C` Systematically research each stakeholder's incentives, decision process, and concerns before attempting to influence them.

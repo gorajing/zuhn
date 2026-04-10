@@ -2,6 +2,7 @@
 
 - `INS-260322-5831` ElevenLabs' co-founders Mati and Peter are childhood best friends with complementary skills — one product-focused, one research-focused — and their deep mutual trust enables the company to move at extreme speed.
 - `INS-260321-E5C5` The ideal AI startup founding team is one builder who ships in 24 hours and one go-to-market person with audience empathy.
+- `INS-260403-8B68` 35% of US startups are solo-founded but only 17% of VC-funded startups are, and 24% of 2-founder teams lose a co-founder by year 4.
 - `INS-260325-9B73` Esther Perel's framework from couples therapy identifies three root causes under every co-founder conflict: who has power, who feels cared for, and who gets recognized.
 - `INS-260325-A52D` Co-founder conflict is co-created from a systems perspective — one founder's withdrawal provokes the other's over-functioning, and vice versa.
 - `INS-260405-BE58` Co-founder chemistry is infrastructure — misalignment there propagates into every downstream decision.
@@ -34,4 +35,3 @@
 - `INS-260403-F554` 92% of VCs say the team is the most important element, valuing complementary skills and pivot capability over raw individual talent.
 - `INS-260330-C4D4` While VCs frame vesting as protecting their investment, its most practical function is solving the problem of what happens if a co-founder quits.
 - `INS-260330-DE1D` Technical founders who sell filter impossible requests before they reach engineering, preventing wasted cycles that pure salespeople cause in novel product categories.
-- `INS-260403-8B68` 35% of US startups are solo-founded but only 17% of VC-funded startups are, and 24% of 2-founder teams lose a co-founder by year 4.

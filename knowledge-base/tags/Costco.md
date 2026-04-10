@@ -1,6 +1,5 @@
 # Tag: costco
 
-- `INS-260405-A164` Once you've paid an annual fee, you stop asking 'is this the best price?' and start asking 'how do I justify what I already spent?'
 - `INS-260405-39A6` Costco's 15% markup cap is a credible promise — customers know the rule, which is why they don't bother price-checking elsewhere.
 - `INS-260405-9EE6` Costco's deliberate obstacles — confusing layout, membership fee, crowded aisles — select for the right customers and increase per-visit spend.
 - `INS-260405-48EC` When membership fees are the primary revenue source, the company is structurally forced to keep product prices low to drive renewals.
@@ -22,3 +21,4 @@
 - `INS-260403-9104` Costco's $60+ membership fee filters for affluent, high-spending customers while simultaneously creating sunk-cost-driven loyalty.
 - `INS-260403-6BD9` Costco turns its confusing warehouse layout, mandatory fee, and limited selection into advantages that competitors won't replicate because they look like problems.
 - `INS-260403-137D` Costco's $60 membership fee filters for households averaging ~$100K income, with business owners representing one-third of members but two-thirds of sales.
+- `INS-260405-A164` Once you've paid an annual fee, you stop asking 'is this the best price?' and start asking 'how do I justify what I already spent?'

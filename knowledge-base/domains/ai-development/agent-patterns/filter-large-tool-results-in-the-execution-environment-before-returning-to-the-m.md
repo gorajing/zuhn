@@ -57,6 +57,7 @@ related:
   - INS-260403-EE38
   - INS-260403-643A
   - INS-260320-71C1
+  - INS-260409-3602
 ---
 Direct MCP tool calls route every byte of intermediate data through the model: a 10,000-row spreadsheet must fully enter context just to find the 12 rows that matter, and a 2-hour meeting transcript may pass through twice for a read-then-write workflow, eating 50,000+ tokens or exceeding the context window entirely.
 

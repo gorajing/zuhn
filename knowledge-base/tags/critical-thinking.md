@@ -10,13 +10,16 @@
 - `INS-260323-C984` The 'AI clicker' phenomenon — pursuing efficiency by outsourcing reading, writing, design, and judgment to AI without building underlying skills — erodes the very human capacity that creates irreplaceable value in an automated world.
 - `INS-260409-8C6C` The three empirical studies on GenAI and critical thinking do not convict AI itself; they convict RLHF-trained sycophancy plus generic deferential chatbot interfaces — both of which are fixable design choices, not inherent limitations of the technology.
 - `INS-260409-DA17` Lee 2025 (Microsoft, 319 knowledge workers), Ye 2024 (UW Social Futures Lab, philosophers), and Gerlich 2025 (666 participants) all independently found GenAI use negatively correlates with critical thinking — with Gerlich specifically identifying a younger-is-worse age gradient mediated by cognitive offloading.
+- `INS-260330-BA13` SHA256's security is empirical rather than proven — no one has found a way to reverse it, but there's no proof that it's impossible.
+- `INS-260323-0D51` When victory or success is never defined precisely, it is always a tell that there is deception at the heart of the claim -- this applies to geopolitics, business pitches, and any context where vague goals substitute for measurable ones.
+- `INS-260403-06E7` A structured checklist asking what's missing, what luck was involved, what resources they had, whether it works without funding, and whether the model is generalizable turns inspiration into usable intelligence.
+- `INS-260403-F60A` Lower forms of disagreement (name-calling through tone policing) can never be convincing no matter how well-executed.
 - `INS-260330-7C58` The Holocaust used Western civilization's best tools — record-keeping, industrial production, technology — for systematic extermination, proving progress is morally neutral.
 - `INS-260403-A408` Step beyond asking 'is this true?' to asking 'why is this topic being written about at all?' — the selection of subject matter is itself a form of manipulation.
 - `INS-260402-3737` Childhood lies create cognitive debt that compounds silently into adulthood, and deliberately identifying and clearing them unlocks disproportionate clarity.
-- `INS-260403-F60A` Lower forms of disagreement (name-calling through tone policing) can never be convincing no matter how well-executed.
+- `INS-260410-A33F` Argument, counterargument, rebuttal — but the rebuttal must come from a completely different angle than the original argument, or it's just repetition.
 - `INS-260330-4BFD` When a model needs ad-hoc explanations for gravity, time zones, satellite imagery, and navigation simultaneously, the model itself is wrong — not the evidence.
 - `INS-260403-DD07` Actively trying to convince yourself a problem isn't real or big enough surfaces evidence gaps that enthusiasm-driven validation misses.
-- `INS-260410-A33F` Argument, counterargument, rebuttal — but the rebuttal must come from a completely different angle than the original argument, or it's just repetition.
 - `INS-260327-924F` If everyone believes it, it's probably wrong - not because the majority is always wrong but because beliefs adopted without examination accumulate errors that questioning would catch.
 - `INS-260330-775F` Credential-based dismissal replaces evidence-based engagement when the data is genuinely ambiguous.
 - `INS-260327-E07D` If you can't articulate the best argument against your own position, you don't actually understand your position well enough to hold it confidently.
@@ -38,6 +41,3 @@
 - `INS-260403-4CF9` Smooth-tongued liars succeed by method-acting belief in false premises, producing internally consistent but externally ungrounded reasoning.
 - `INS-260330-03A9` When everyone believes all institutions are power conspiracies, the only institution that can survive is dictatorship, which explicitly runs on power.
 - `INS-260323-8F41` Geometries allowed by equations don't automatically correspond to physical reality -- you must also check whether the required matter and energy actually exist.
-- `INS-260403-06E7` A structured checklist asking what's missing, what luck was involved, what resources they had, whether it works without funding, and whether the model is generalizable turns inspiration into usable intelligence.
-- `INS-260330-BA13` SHA256's security is empirical rather than proven — no one has found a way to reverse it, but there's no proof that it's impossible.
-- `INS-260323-0D51` When victory or success is never defined precisely, it is always a tell that there is deception at the heart of the claim -- this applies to geopolitics, business pitches, and any context where vague goals substitute for measurable ones.

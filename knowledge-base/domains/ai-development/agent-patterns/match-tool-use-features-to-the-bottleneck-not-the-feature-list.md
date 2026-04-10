@@ -49,7 +49,6 @@ stance: >-
   Layering every advanced tool feature onto every agent adds latency and cost
   without payoff; diagnose the bottleneck first.
 related:
-  - INS-260329-BE35
   - INS-260410-A1E9
   - INS-260409-F9D5
   - INS-260327-DECA

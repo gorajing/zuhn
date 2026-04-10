@@ -1,9 +1,6 @@
 # Tag: lock-in
 
-- `INS-260404-0BED` RuBisCo was adequate in a low-oxygen world but became deeply flawed when plants changed the atmosphere, yet plants couldn't switch away.
-- `INS-260405-8469` RuBisCo is a mediocre enzyme that became the planet's most abundant protein precisely because all life built its infrastructure around it before better options could evolve.
-- `INS-260403-CE5F` Costco's mandatory membership triggers sunk-cost reasoning on every shopping trip, while Amazon Prime's optional nature lets non-subscribers self-select out.
-- `INS-260405-02EE` Plants evolved RuBisCo in a low-oxygen world, then their own photosynthesis filled the atmosphere with O2 — the enzyme they were locked into now malfunctions half the time because of the environment they created.
+- `INS-260403-330E` In capital-intensive infrastructure markets, early movers who solve the core technical problem create nearly permanent competitive positions.
 - `INS-260330-5C64` Users make one unrelated choice (e.g., buying a phone) that forces dozens of subsequent choices, creating compounding lock-in that no single service could generate independently.
 - `INS-260403-97F8` Switching costs should be deliberately architected into the business model, not left as a byproduct of product stickiness.
 - `INS-260330-3FF4` RuBisCo evolved when CO2 was abundant and O2 scarce — when conditions changed, it became terrible, yet no alternative has displaced it in 450 million years because every plant depends on it.
@@ -36,4 +33,7 @@
 - `INS-260405-F20F` RuBisCo, an enzyme that makes catastrophic errors 50% of the time, remains the planet's dominant carbon-fixing enzyme because plants went all-in on it before oxygen made it dysfunctional.
 - `INS-260330-4489` RuBisCo is terrible at its job but plants produce 40 billion tons of it rather than evolving a better enzyme — a biological case study in scale-over-quality lock-in.
 - `INS-260404-1000` RuBisCo is a terrible enzyme that dominates Earth's biology because it arrived first and plants just made 40 billion tons of it to compensate.
-- `INS-260403-330E` In capital-intensive infrastructure markets, early movers who solve the core technical problem create nearly permanent competitive positions.
+- `INS-260404-0BED` RuBisCo was adequate in a low-oxygen world but became deeply flawed when plants changed the atmosphere, yet plants couldn't switch away.
+- `INS-260405-8469` RuBisCo is a mediocre enzyme that became the planet's most abundant protein precisely because all life built its infrastructure around it before better options could evolve.
+- `INS-260403-CE5F` Costco's mandatory membership triggers sunk-cost reasoning on every shopping trip, while Amazon Prime's optional nature lets non-subscribers self-select out.
+- `INS-260405-02EE` Plants evolved RuBisCo in a low-oxygen world, then their own photosynthesis filled the atmosphere with O2 — the enzyme they were locked into now malfunctions half the time because of the environment they created.

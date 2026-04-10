@@ -53,5 +53,6 @@ related:
   - INS-260322-F46F
   - INS-260404-21E6
   - INS-260403-EDA1
+  - INS-260409-A0B4
 ---
 Tomasz Tunguz's observation that data is the new code in AI-era SaaS reflects a fundamental shift in where competitive moats form. When AI capabilities are increasingly commoditized through foundation models, the differentiator moves from what you can build to what you can feed your models. This inverts traditional SaaS strategy: engineering velocity and code quality become table stakes, while data acquisition, curation, and architecture become the strategic investments that compound over time. The practical implication is twofold — first, startups should design their products to generate proprietary data flywheels from day one rather than treating data as a byproduct. Second, the hiring and investment profile shifts: data engineering and architecture talent becomes as strategically important as product engineering.

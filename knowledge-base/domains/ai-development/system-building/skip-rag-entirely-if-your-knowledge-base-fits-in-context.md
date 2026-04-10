@@ -46,10 +46,10 @@ stance: >-
 related:
   - INS-260330-2294
   - INS-260410-3F1A
+  - INS-260409-3230
   - INS-260409-1078
   - INS-260410-2F8D
   - INS-260410-B282
-  - INS-260410-E660
 ---
 Anthropic explicitly recommends not building RAG at all when the knowledge base is under 200K tokens (~500 pages). With prompt caching, the entire corpus loads once and is referenced across calls at >2x lower latency and up to 90% lower cost. No chunking, no vector store, no retrieval failure modes to debug.
 

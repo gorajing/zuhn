@@ -5,6 +5,8 @@
 - `INS-260403-C8EF` Anthropic's designation as a 'supply chain risk' for refusing surveillance use demonstrates that AI safety positions carry direct commercial punishment.
 - `INS-260410-D0F5` AI lab competition has so far neutralized every supposed flywheel, with talent flow and reverse-engineering keeping rivals close.
 - `INS-260403-83F3` AI prototyping tools compete on hosting architecture (browser-side vs. real cloud vs. full database) rather than code generation quality.
+- `INS-260327-DEEB` The coalition armies that defeated Napoleon in 1813-15 were far more effective than those he crushed in 1805-06, having learned from their earlier failures.
+- `INS-260327-1107` After nearly defeating Napoleon at Eylau, Bennigsen's Russian army became overconfident and advanced aggressively, allowing Napoleon to catch them with their backs to a river at Friedland.
 - `INS-260327-1576` BNPL companies margins depend on merchant fees that merchants accept only to increase conversion, but as BNPL becomes ta
 - `INS-260327-8F03` Businesses whose brand depends on employee enthusiasm and engagement must compensate employees well enough that the enth
 - `INS-260327-78A0` When businesses rebrand cost-cutting as innovation or customer empowerment, consumers eventually recognize the degraded 
@@ -55,12 +57,10 @@
 - `INS-260327-CC05` In SEO spam, mobile apps, and crypto ICOs, the sloppers all followed the same 'turkey graph' — looked like winning early, then collapsed. AI slop will be no different.
 - `INS-260405-F03A` Plants evolved RuBisCo in a low-oxygen atmosphere, then produced the very oxygen that made RuBisCo increasingly dysfunctional — a trap where success altered the environment enough to undermine the mechanism of success.
 - `INS-260410-B6EA` Mixed human-AI corporations will be outcompeted by fully autonomous ones the way a spreadsheet with some human-computed cells would be worse than a pure spreadsheet.
+- `INS-260404-00CD` Patent trolls are parasites seeking rent, but incumbents suing startups are deliberately trying to kill superior products — a far worse outcome for innovation.
 - `INS-260403-4960` Tell investors truthfully about competing interest to create real urgency, but never exaggerate — investors are hypersensitive to manipulation.
 - `INS-260402-A3DB` Coordinate first meetings within a 2-3 week window and manage all funds on parallel timelines to create a competitive market for your equity.
-- `INS-260404-00CD` Patent trolls are parasites seeking rent, but incumbents suing startups are deliberately trying to kill superior products — a far worse outcome for innovation.
 - `INS-260405-474C` ChatGPT's capabilities set the expectation ceiling for every AI product, regardless of use case.
 - `INS-260404-6D22` A structured competitive sale reliably adds 1-2x ARR premium over bilateral negotiations, worth millions on even modest ARR bases.
 - `INS-260329-1962` Market position follows power laws, not linear distribution — being 7th doesn't mean 1/7th the revenue, it means approaching zero.
 - `INS-260403-4572` Spotify delayed US entry to perfect product-market fit while Klarna raced in because the cost of staying out exceeded the cost of imperfection—both succeeded because they correctly diagnosed their existential risk.
-- `INS-260327-DEEB` The coalition armies that defeated Napoleon in 1813-15 were far more effective than those he crushed in 1805-06, having learned from their earlier failures.
-- `INS-260327-1107` After nearly defeating Napoleon at Eylau, Bennigsen's Russian army became overconfident and advanced aggressively, allowing Napoleon to catch them with their backs to a river at Friedland.

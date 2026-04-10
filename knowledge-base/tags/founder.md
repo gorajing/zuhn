@@ -1,5 +1,6 @@
 # Tag: founder
 
+- `INS-260405-7F42` Whether to back the jockey or the horse depends primarily on stage — founders matter most early, market matters most later.
 - `INS-260405-CF31` Academic research by Freeman et al. finds that entrepreneurs and their families have disproportionately high prevalence of psychiatric conditions, suggesting founder mental health is a systemic issue, not individual weakness.
 - `INS-260330-F800` Wen's retrospective finding: every department that underperformed at PolyAI was one where the founders hired a leader without first getting hands dirty in that function themselves.
 - `INS-260323-CE9A` Rella's CEO and co-founders still personally handle customer support — the number one compliment they receive is 'we can tell you actually listen to us.'
@@ -9,4 +10,3 @@
 - `INS-260330-56B2` PolyAI's CEO built the entire sales engine from scratch because even seasoned sales leaders couldn't sell novel voice AI technology they didn't deeply understand.
 - `INS-260330-DE1D` Technical founders who sell filter impossible requests before they reach engineering, preventing wasted cycles that pure salespeople cause in novel product categories.
 - `INS-260324-40AA` TwoSpace knocked on 600 restaurant doors before finding their first venue — each rejection taught them market objections that no survey could have revealed.
-- `INS-260405-7F42` Whether to back the jockey or the horse depends primarily on stage — founders matter most early, market matters most later.

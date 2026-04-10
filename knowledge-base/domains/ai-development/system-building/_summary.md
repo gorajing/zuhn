@@ -1,6 +1,6 @@
 # Topic: system-building
 
-> 214 insights
+> 215 insights
 
 - `INS-260329-4F8C` [high] Abstract data types define behavior contracts while data structures provide specific implementations, and this separation is the root of all software modularity.
 - `INS-260329-A93C` [high] Naming a block of code and hiding its implementation is the fundamental act that makes software complexity manageable.
@@ -104,6 +104,7 @@
 - `INS-260330-F5A1` [high] Store the result of expensive computations and reuse them instead of recomputing from scratch.
 - `INS-260329-6D6C` [high] When you find yourself writing the same logic twice, extract it into a method with parameters — this is the most impactful refactoring pattern.
 - `INS-260329-6AF5` [high] Naming a variable 'hours' helps humans read code but tricks beginners into thinking Python understands the concept of hours.
+- `INS-260409-A0B4` [high] LlamaIndex exposes data loaders, parsers, retrievers, synthesizers, and reasoners as swappable components — Jerry Liu's design philosophy is that optimal choices differ per data type and use case, so users need to plug in custom implementations at each layer rather than accept one pipeline.
 - `INS-260330-C06E` [high] Real-time AI latency is solved in the serving infrastructure (caching, batching), not in the model architecture
 - `INS-260329-148D` [high] AWS's multi-AZ and multi-region architecture demonstrates that true high availability requires geographic distribution, but each level of distribution multiplies data consistency complexity.
 - `INS-260329-05BB` [high] HFT systems stamp every event with nanosecond-precision clocks for exact sequencing and component-level latency measurement.

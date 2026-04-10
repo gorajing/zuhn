@@ -1,5 +1,6 @@
 # Tag: chunking
 
+- `INS-260409-3602` Jerry Liu: 'The chunking algorithm, how you define metadata will bias your embedding representations' — no universal chunking rule works across PDFs, Slack messages, SEC filings, and code. Chunking is a domain-specific decision that dramatically shapes retrieval quality.
 - `INS-260410-4D86` RAG chunks lose the document-level context that determines whether they're relevant to a query, which is why retrieval fails even when the right chunk exists.
 - `INS-260329-975C` Granular chapter structure gives learners constant progress signals and easy re-entry points, reducing the intimidation of long-form content.
 - `INS-260329-CC79` Automating fundamental operations frees working memory for complex abstractions, making advanced concepts stick rather than crumble.

@@ -1,6 +1,5 @@
 # Tag: idea-evaluation
 
-- `INS-260402-8ACF` Truly novel and valuable ideas must appear bad to most evaluators, because obvious good ideas get executed immediately and stop being novel.
 - `INS-260405-4EAA` Silicon Valley's tolerance for weird ideas is a cultivated social custom that spread because it reliably produced better outcomes — not because its inhabitants are smarter or kinder.
 - `INS-260404-A42E` In a power-law world, the cost of dismissing a winner dwarfs the cost of entertaining a loser—so default to imagining how ideas could work.
 - `INS-260404-31C3` Judging new ideas well means switching from listing reasons they'll fail to imagining ways they could succeed—a complete polarity reversal, not a loosened filter.
@@ -17,3 +16,4 @@
 - `INS-260327-E7A3` Tar pit ideas form around widespread problems that seem easily solvable but have hidden structural reasons why they've resisted solution for 20+ years — and most founders skip the basic step of Googling to find out.
 - `INS-260327-EC45` Filter ideas through: (1) is the value to customers special, (2) can we build it, (3) is the market big enough, (4) how are we differentiated from 15 competitors?
 - `INS-260327-643E` Ideas that seem bad — boring (Gusto/payroll), hard to start (Stripe/bank deals), or crowded (Dropbox/20 competitors) — systematically outperform because most founders avoid them.
+- `INS-260402-8ACF` Truly novel and valuable ideas must appear bad to most evaluators, because obvious good ideas get executed immediately and stop being novel.

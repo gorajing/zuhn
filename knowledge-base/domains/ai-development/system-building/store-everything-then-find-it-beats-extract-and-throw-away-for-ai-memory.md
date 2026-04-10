@@ -50,6 +50,7 @@ related:
   - INS-260329-3C75
   - INS-260403-E5D4
   - INS-260403-FFF0
+  - INS-260409-2A51
   - PRI-260406-1AC6
 ---
 Most AI memory systems compress at write time — extract entities, summarize sessions, drop the raw conversation. MemPalace argues this loses the context that makes facts useful: you remember 'user prefers Postgres' but lose the reasoning about concurrent writes and 10GB datasets. The alternative is to store everything verbatim in a vector DB and defer all decisions about relevance to query time. The bet is that LLMs are now cheap enough at inference time to filter 22,000 memories semantically, so the expensive write-time curation loop is obsolete. This mirrors the Zuhn design choice to keep every source verbatim and compress only into a separate principles layer — the raw insights stay.

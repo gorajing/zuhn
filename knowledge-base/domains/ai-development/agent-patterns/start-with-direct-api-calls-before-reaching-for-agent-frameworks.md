@@ -52,8 +52,8 @@ related:
   - INS-260330-AB62
   - INS-260329-3763
   - INS-260330-6B7F
+  - INS-260409-FA5E
   - INS-260403-643A
-  - INS-260410-5F60
 ---
 Anthropic observed that the most successful agent implementations across dozens of customer teams weren't using LangChain, Claude Agent SDK, Rivet, or other framework layers — they were building directly against the LLM API with simple composable patterns. Frameworks make it easy to get started but add abstraction layers that obscure prompts, hide retries, and make it tempting to add complexity that isn't needed.
 

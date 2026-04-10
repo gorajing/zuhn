@@ -58,11 +58,11 @@ stance: >-
   Reading production libraries is a worse path to understanding than building
   minimal versions from scratch.
 related:
+  - INS-260409-8DA0
   - INS-260409-FE00
   - INS-260410-0EFE
   - INS-260410-78D3
   - INS-260330-9471
-  - INS-260405-A103
 ---
 The anecdote is telling: a world-class ML researcher with intimate knowledge of what he was looking for (tanh backward = (1 - tanh(x)^2) * upstream grad) could not quickly locate it in PyTorch's codebase. The kernel turned out to be buried under CPU/GPU variants, complex number handling, bfloat16 specializations, and live in a file called binaryops_kernel even though tanh is unary.
 

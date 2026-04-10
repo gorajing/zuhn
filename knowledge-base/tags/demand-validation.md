@@ -1,6 +1,5 @@
 # Tag: demand-validation
 
-- `INS-260404-B31C` Sequoia's 'proxy for demand' — what people do now with inadequate tools — is more convincing than market size because it shows revealed behavior, not projected numbers.
 - `INS-260403-3A67` Crowdfunding uniquely combines fundraising with demand validation — a successful campaign proves customers will pay before you build, which no other non-dilutive source provides.
 - `INS-260404-29F4` Tell stories about specific users and their problems to counter the #1 investor fear: that you've built something based on untested theory.
 - `INS-260403-53AA` Tell stories about specific users and their problems rather than citing market sizes — investors use user narratives as a proxy for genuine demand.
@@ -10,3 +9,4 @@
 - `INS-260403-7072` Tell stories about specific users and their problems rather than citing market size figures to convince investors of demand.
 - `INS-260330-AB6F` Users enduring terrible UX to use your product is a stronger signal than engagement metrics from a polished product.
 - `INS-260330-5ED4` Users enduring a painful product experience proves genuine demand more reliably than polished prototypes with lukewarm interest.
+- `INS-260404-B31C` Sequoia's 'proxy for demand' — what people do now with inadequate tools — is more convincing than market size because it shows revealed behavior, not projected numbers.

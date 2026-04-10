@@ -1,6 +1,7 @@
 # Tag: calculus
 
 - `INS-260410-78D3` For composed operations like softmax+cross-entropy, pen-and-paper differentiation produces gradient expressions vastly shorter than autograd's atomic chain — which is why every serious framework ships fused backward kernels for them.
+- `INS-260329-B2BE` Calculus proves that profit is maximized where marginal cost equals marginal revenue, not where total profit looks largest.
 - `INS-260325-2F12` Recognizing that 'sum of many small things' equals 'area under a curve' unlocks a universal problem-solving template.
 - `INS-260330-541B` Hard problems yield when you slice them into many tiny, simple pieces and aggregate the results.
 - `INS-260330-FB50` Newton invented calculus at age 23 because 1600s mathematics couldn't calculate a falling moon's trajectory — necessity of the problem forced creation of an entirely new mathematical discipline.
@@ -15,4 +16,3 @@
 - `INS-260329-2DF2` Calculus understanding builds most effectively from visual/graphical intuition upward to symbolic manipulation and formal proof, not the reverse.
 - `INS-260325-1CE4` Discovering that two operations are inverses (like integrals and derivatives) is the most powerful type of mathematical insight.
 - `INS-260329-C2E5` The IVT proves that a continuous function must cross every intermediate value between f(a) and f(b), guaranteeing existence of solutions without computing them.
-- `INS-260329-B2BE` Calculus proves that profit is maximized where marginal cost equals marginal revenue, not where total profit looks largest.

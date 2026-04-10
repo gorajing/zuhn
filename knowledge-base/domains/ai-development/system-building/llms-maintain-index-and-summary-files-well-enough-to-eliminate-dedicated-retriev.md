@@ -44,10 +44,10 @@ stance: >-
   up to date across a growing markdown corpus, which removes the need for a
   separate retrieval engine to maintain freshness.
 related:
+  - INS-260409-2A51
   - INS-260410-CD15
   - INS-260322-24FB
   - INS-260409-ADD0
   - INS-260320-0F7C
-  - PRI-260406-D017
 ---
 Karpathy's original expectation was that some form of RAG would be necessary even in the Obsidian setup, but he found that modern LLMs maintain the index.md files and document summaries accurately enough on their own. This is a non-obvious capability: keeping a growing corpus internally consistent is the hard part of a knowledge system, and the claim is that context-window + reasoning capacity has crossed the threshold where a coding agent can be the index maintenance loop. This assumption should be monitored — it could break if the corpus grows faster than the agent's maintenance cadence.

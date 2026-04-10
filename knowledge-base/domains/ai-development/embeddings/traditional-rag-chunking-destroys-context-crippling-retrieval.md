@@ -46,11 +46,11 @@ stance: >-
   context that makes those chunks retrievable, and this is the dominant failure
   mode in production RAG systems.
 related:
+  - INS-260409-3602
   - INS-260410-3F1A
+  - INS-260409-8DA0
+  - INS-260409-2A51
   - INS-260410-2F8D
-  - INS-260320-5B49
-  - INS-260403-7D7A
-  - INS-260329-818A
 ---
 When you split a document into a few-hundred-token chunk, you usually strip away the metadata that made the chunk meaningful: which company, which quarter, which case, which file. The example Anthropic uses is a chunk reading 'The company's revenue grew by 3% over the previous quarter' — semantically clean, but unretrievable for any query that names the company or the period.
 

@@ -1,13 +1,13 @@
 # Domain: ai-development
 
-> 1653 insights across 40 topics
+> 1661 insights across 40 topics
 
 ## Topics
 
 | Topic | Insights | Preview |
 | ----- | -------- | ------- |
 | adoption | 48 | An MIT study found 95% of companies investing in AI tools saw zero return, pointing to a gap between AI capability and organizational readiness to deploy it effectively. |
-| agent-patterns | 99 | A generative agent paired with a filtering agent that blocks unsupported claims achieves expert-level accuracy in medical advice. |
+| agent-patterns | 101 | A generative agent paired with a filtering agent that blocks unsupported claims achieves expert-level accuracy in medical advice. |
 | agents | 19 | ReAct is an introduction to agent reasoning, not a complete architecture for production systems. |
 | ai-agents | 64 | AI agents' biggest value is eliminating the friction between idea and implementation, not writing code faster. |
 | ai-automation | 29 | Improving multi-agent systems requires observability into inter-agent conversations -- GPTers built a dashboard to view session-send exchanges between agents to understand how to improve their collaboration. |
@@ -20,7 +20,7 @@
 | automation | 12 | Blockade → commerce raiding → convoying is the same pattern as every firewall → exploit → intrusion detection cycle; the ladder is older than it looks. |
 | claude-code | 47 | If you've corrected Claude twice on the same issue, stop correcting — /clear and restart with a prompt that incorporates what you learned. |
 | economics | 9 | AI's variable inference costs prevent it from achieving the gross margins that made software companies so valuable. |
-| embeddings | 13 | Different basis choices make different operations trivial or impossible in vector spaces. |
+| embeddings | 18 | Different basis choices make different operations trivial or impossible in vector spaces. |
 | foundation-models | 9 | LLMs win the AGI race, but their first act as AGIs is to replace themselves with something closer to Sutton's from-scratch experiential architecture. |
 | future-of-work | 96 | Tens of millions learning Python through free YouTube tutorials represent a workforce transformation happening outside traditional education. |
 | governance | 13 | 80% of Americans want AI regulated — a rare civic consensus — and frontier labs are spending hundreds of millions to kill it; the organizing opening is real. |
@@ -42,7 +42,7 @@
 | productivity | 4 | Founders are now shipping in days what used to take engineer-months or years — Chamath vibe-coded a bookmark service he'd sat on for 15 years in one weekend, and his team doubled click-through rates via auto-research in a day. |
 | prompting | 7 | Anthropic built a tool-testing agent that used a flawed MCP tool, then rewrote its description — future agents using the new description completed tasks 40% faster. |
 | research-methodology | 28 | LLM grokking, like penicillin, was discovered by accident—and this accidental-discovery pattern is more characteristic of deep learning progress than theory-driven research. |
-| system-building | 214 | Prototyping a basic LLM-wiki in Claude Code takes about an hour — the scarce resource is knowing what to build it for. |
+| system-building | 215 | Prototyping a basic LLM-wiki in Claude Code takes about an hour — the scarce resource is knowing what to build it for. |
 | system-design | 12 | In agentic systems a minor bug cascades across many turns, so production requires resumable execution, retry logic, and rainbow deployments — not stateless request handling. |
 | systems-design | 1 | Components tuned for original conditions do not just underperform in new environments — they generate actively harmful outputs. |
 | training-dynamics | 12 | For composed operations like softmax+cross-entropy, pen-and-paper differentiation produces gradient expressions vastly shorter than autograd's atomic chain — which is why every serious framework ships fused backward kernels for them. |

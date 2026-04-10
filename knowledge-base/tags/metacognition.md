@@ -4,6 +4,7 @@
 - `INS-260330-6E6A` A detectable time gap exists between a thought appearing and the mind claiming ownership of it, and meditation exploits this gap.
 - `INS-260403-A6B1` Readable prose helps the writer catch errors because the writer re-reads their own work far more than anyone else will.
 - `INS-260402-A693` Leslie Lamport's claim that 'if you're thinking without writing, you only think you're thinking' frames writing as the actual mechanism of thought, not its byproduct.
+- `INS-260409-A239` Treating your current self-model as untrustworthy is a generative stance when paired with willingness to act on better evidence, not a paralysis.
 - `INS-260405-E6F5` Observation is itself a mode of disengagement — watching a thought changes the observer's relationship to it, accelerating its passing.
 - `INS-260330-363D` Feeling like the thinker of your thoughts is simply the experience of thinking without noticing thought as it arises.
 - `INS-260330-DE69` The feeling of authoring your thoughts is actually the absence of noticing their spontaneous arising.
@@ -14,7 +15,6 @@
 - `INS-260404-1289` When receiving advice, people either evaluate it with fresh eyes and give logical reasons for disagreement, or unconsciously munge it to fit pre-existing decisions.
 - `INS-260403-F1C6` Hard work is not a simple intensity dial but a complex dynamic system where self-honesty is the single skill that enables correct calibration at every point.
 - `INS-260403-CB80` Recording confidence ratings at decision time and comparing to outcomes is a powerful metacognitive calibration tool.
-- `INS-260409-A239` Treating your current self-model as untrustworthy is a generative stance when paired with willingness to act on better evidence, not a paralysis.
 - `INS-260403-3442` Consuming startup advice feels like progress but produces fragmented thinking and delays execution.
 - `INS-260403-FE91` A Dunning-Kruger-like effect causes conventional thinkers to overestimate and independent thinkers to underestimate their own independent-mindedness.
 - `INS-260330-43EE` Novices overestimate their abilities because the skills required to assess competence are the same skills they lack.

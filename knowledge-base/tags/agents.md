@@ -11,12 +11,14 @@
 - `INS-260321-B85C` Reframing businesses as collections of input-constrained processes (customer service, legal) and output-constrained processes (creative, engineering) reveals fundamentally different AI automation strategies for each.
 - `INS-260320-1B10` Have Claude review its own code via a specialized review agent — catches critical errors, missing implementations, and security flaws.
 - `INS-260410-2C51` Constrain agents to one feature per session and require a git commit plus progress-file update before stopping, so the next session inherits a clean baseline.
+- `INS-260409-0DB0` Jerry Liu on the 'additional complexity of evaluating agent loops' — unlike single-shot RAG where you measure retrieval@K and answer correctness, agent loops require tracking state transitions, intermediate decisions, and how errors propagate across steps.
 - `INS-260321-9EBB` Agents will follow the same path as 'internet companies' in the 1990s — initially a distinct category, then a universal capability baked into every product, invisible to users.
 - `INS-260410-85AD` Give the agent browser automation (e.g., Puppeteer MCP) and explicitly prompt it to verify every feature as a human user would, end-to-end.
 - `INS-260410-095B` Add a think tool (a no-op that just logs a thought) so the agent can stop and reason about tool outputs before acting again.
 - `INS-260320-9D89` Give agents very specific roles and clear instructions on what to RETURN — prevents 'I fixed it!' without details.
 - `INS-260410-BBC1` Prompt every session to run the same opening sequence: pwd, read progress file, read feature list, check git log, run init.sh, run a basic end-to-end smoke test, then pick a feature.
 - `INS-260321-18D0` Your bottleneck shifted from typing speed to token throughput — maximize how many agent sessions you can run in parallel, not how fast you code.
+- `INS-260409-2A51` Jerry Liu: 'You can take a question, break it down into smaller components and use that to actually send to your retrieval system. And that gives you better results' than passing the full question as a single vector lookup.
 - `INS-260410-545A` Have the initializer write a comprehensive JSON feature list with each feature marked failing, and forbid the coding agent from editing anything except the passes field.
 - `INS-260410-AA6E` A separate evaluator agent is far more tractable to tune toward skepticism than convincing a generator to be critical of its own output.
 - `INS-260410-53C2` Use a specialized first-session initializer agent to create scaffolding (feature list, progress file, init.sh, git repo), then run identical coding agents on subsequent sessions that only do incremental work.
