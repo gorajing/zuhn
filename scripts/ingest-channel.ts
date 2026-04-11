@@ -33,10 +33,10 @@ const DEFAULT_DELAY = 3;
 // single-wrapper convenience path is a footgun at scale even after
 // the 30-min outer timeout was removed. Better to recommend the
 // explicit two-step ingest → extract workflow.
-const LARGE_BATCH_THRESHOLD = 20;
+export const LARGE_BATCH_THRESHOLD = 20;
 
 // ─── Types ─────────────────────────────────────────────────────────────
-interface VideoEntry {
+export interface VideoEntry {
   id: string;
   title: string;
   viewCount: number;
@@ -47,9 +47,9 @@ interface VideoEntry {
 // Ingest tracker statuses. "EXTRACTED" is still accepted when reading old
 // tracker files, but the tracker is now explicitly ingest-only and will rewrite
 // legacy EXTRACTED rows back out as INGESTED.
-type TrackerStatus = "PENDING" | "INGESTED" | "SKIP" | "FAILED";
+export type TrackerStatus = "PENDING" | "INGESTED" | "SKIP" | "FAILED";
 
-interface TrackerLine {
+export interface TrackerLine {
   status: TrackerStatus;
   videoId: string;
   views: number;
@@ -192,7 +192,125 @@ function fetchChannelVideos(channelUrl: string): VideoEntry[] {
   return videos;
 }
 
-function extractChannelName(url: string): string {
+/**
+ * Compute the three user-visible labels (selection summary, tracker header
+ * title, view range line) for a batch of selected videos.
+ *
+ * Returns a `viewsUnavailable` flag so callers can tell whether they got
+ * the honest "default-order" fallback wording or the normal "top by views"
+ * wording. `viewsUnavailable` is true when every selected video has
+ * viewCount === 0, which happens on yt-dlp channel fetches where the
+ * --flat-playlist mode does not populate view counts.
+ *
+ * Extracted from main() so the zero-view fallback can be tested
+ * independently of the full fresh-mode pipeline.
+ */
+export function computeTrackerLabels(
+  selected: VideoEntry[],
+  channelName: string,
+): {
+  viewsUnavailable: boolean;
+  selectionLabel: string;
+  trackerTitle: string;
+  viewRangeLabel: string;
+} {
+  const viewsUnavailable =
+    selected.length > 0 && selected.every((v) => v.viewCount === 0);
+
+  const selectionLabel = viewsUnavailable
+    ? `Selected ${selected.length} in yt-dlp default order (views unavailable)`
+    : `Selected top ${selected.length} by views`;
+
+  const trackerTitle = viewsUnavailable
+    ? `# ${channelName} — ${selected.length} Videos (yt-dlp Default Order, Views Unavailable) (Batch Ingest Tracker)`
+    : `# ${channelName} — Top ${selected.length} Videos by Views (Batch Ingest Tracker)`;
+
+  const viewRangeLabel = viewsUnavailable
+    ? "View range unavailable (yt-dlp returned zeroed counts)"
+    : selected.length > 0
+      ? `View range: ${selected[0].viewCount.toLocaleString()} — ${selected[selected.length - 1].viewCount.toLocaleString()}`
+      : "View range: (empty selection)";
+
+  return { viewsUnavailable, selectionLabel, trackerTitle, viewRangeLabel };
+}
+
+/**
+ * Collect source IDs of entries that were newly INGESTED in THIS run.
+ *
+ * Filter rules:
+ *   - Start from toIngest (items we attempted this run)
+ *   - Include only rows whose current status is "INGESTED"
+ *   - Require a non-empty sourceId
+ *
+ * Excludes pre-existing INGESTED rows from prior --resume sessions, FAILED
+ * rows from this run, SKIP rows, and defensively any INGESTED row that
+ * somehow lacks a sourceId (which would indicate an upstream bug).
+ *
+ * Used to generate a batch manifest so that --auto-extract scopes
+ * autoknowledge to this cohort rather than the global unextracted backlog.
+ */
+export function collectNewlyIngestedIds(
+  toIngest: TrackerLine[],
+  lines: TrackerLine[],
+): string[] {
+  return toIngest
+    .map((entry) => lines.find((l) => l.videoId === entry.videoId))
+    .filter(
+      (line): line is TrackerLine =>
+        line !== undefined &&
+        line.status === "INGESTED" &&
+        typeof line.sourceId === "string" &&
+        line.sourceId.length > 0,
+    )
+    .map((line) => line.sourceId as string);
+}
+
+/**
+ * Compute the path where a batch manifest should be written for a given
+ * tracker file, following the convention:
+ *
+ *   knowledge-base/meta/batches/<tracker-basename>-<YYYY-MM-DD>.txt
+ *
+ * `tracker-basename` is the tracker filename without `.txt`. Tracker
+ * basenames already encode the channel slug (e.g., "acquiredfm-batch"),
+ * so manifests end up as "acquiredfm-batch-2026-04-10.txt" — readable
+ * and sortable.
+ */
+export function resolveBatchManifestPath(
+  trackerPath: string,
+  dateIso: string = new Date().toISOString().slice(0, 10),
+): string {
+  const trackerBasename = basename(trackerPath).replace(/\.txt$/, "");
+  return join(META_DIR, "batches", `${trackerBasename}-${dateIso}.txt`);
+}
+
+/**
+ * Build the content lines of a batch manifest file given a list of
+ * source IDs, the tracker filename (for provenance), and the channel
+ * URL (or null when running in --resume mode).
+ *
+ * The manifest is a plain text file with # comment lines for metadata
+ * followed by one source ID per line. autoknowledge.ts --batch reads
+ * it via the same parser used for any other manifest.
+ */
+export function buildBatchManifestContent(
+  sourceIds: string[],
+  trackerBasename: string,
+  channelUrl: string | null,
+  nowIso: string = new Date().toISOString(),
+): string[] {
+  return [
+    `# Auto-generated batch manifest from ingest-channel.ts`,
+    `# Tracker: ${trackerBasename}`,
+    `# Channel URL: ${channelUrl ?? "(resume mode — see tracker header)"}`,
+    `# Generated: ${nowIso}`,
+    `# Source count: ${sourceIds.length}`,
+    ``,
+    ...sourceIds,
+  ];
+}
+
+export function extractChannelName(url: string): string {
   // Extract from @ChannelName or /c/ChannelName or /channel/ID
   const match = url.match(/@([^/\s?]+)/);
   if (match) return match[1];
@@ -208,14 +326,14 @@ function extractChannelName(url: string): string {
 
 // ─── Tracker File ──────────────────────────────────────────────────────
 
-function formatTrackerLine(line: TrackerLine): string {
+export function formatTrackerLine(line: TrackerLine): string {
   const parts = [line.status, line.videoId, String(line.views), line.title];
   if (line.sourceId) parts.push(line.sourceId);
   if (line.error) parts.push(`ERROR: ${line.error}`);
   return parts.join(" | ");
 }
 
-function parseTrackerLine(raw: string): TrackerLine | null {
+export function parseTrackerLine(raw: string): TrackerLine | null {
   if (raw.startsWith("#") || raw.trim() === "") return null;
 
   const parts = raw.split(" | ");
@@ -242,7 +360,7 @@ function parseTrackerLine(raw: string): TrackerLine | null {
   return line;
 }
 
-async function readTracker(path: string): Promise<{
+export async function readTracker(path: string): Promise<{
   header: string[];
   lines: TrackerLine[];
 }> {
@@ -263,7 +381,7 @@ async function readTracker(path: string): Promise<{
   return { header, lines };
 }
 
-async function writeTracker(
+export async function writeTracker(
   path: string,
   header: string[],
   lines: TrackerLine[],
@@ -334,25 +452,16 @@ async function main(): Promise<void> {
     videos.sort((a, b) => b.viewCount - a.viewCount);
     const selected = videos.slice(0, top);
 
-    // Resolve channel identity first so the labels below can interpolate it.
-    // Fix for a TDZ bug introduced in 407ee83046 where trackerTitle referenced
-    // channelName two lines before the `const channelName = ...` declaration,
-    // which TypeScript flagged (TS2448/TS2454) but the change landed anyway
-    // because ingest-channel.ts has no test file exercising this code path.
+    // Resolve channel identity and tracker path. channelName must exist
+    // before computeTrackerLabels is called because the tracker title
+    // interpolates it. Previously these two lines came AFTER the label
+    // computation, producing a TDZ error (TS2448/TS2454); see 49787fedf5.
     const channelName = extractChannelName(channelUrl!);
     const channelSlug = slugify(channelName);
     trackerPath = join(META_DIR, `${channelSlug}-batch.txt`);
 
-    const viewsUnavailable = selected.length > 0 && selected.every((v) => v.viewCount === 0);
-    const selectionLabel = viewsUnavailable
-      ? `Selected ${selected.length} in yt-dlp default order (views unavailable)`
-      : `Selected top ${selected.length} by views`;
-    const trackerTitle = viewsUnavailable
-      ? `# ${channelName} — ${selected.length} Videos (yt-dlp Default Order, Views Unavailable) (Batch Ingest Tracker)`
-      : `# ${channelName} — Top ${selected.length} Videos by Views (Batch Ingest Tracker)`;
-    const viewRangeLabel = viewsUnavailable
-      ? "View range unavailable (yt-dlp returned zeroed counts)"
-      : `View range: ${selected[0].viewCount.toLocaleString()} — ${selected[selected.length - 1].viewCount.toLocaleString()}`;
+    const { selectionLabel, trackerTitle, viewRangeLabel } =
+      computeTrackerLabels(selected, channelName);
 
     // Check for existing tracker to preserve statuses
     let existingMap = new Map<string, TrackerLine>();
@@ -562,30 +671,10 @@ async function main(): Promise<void> {
   }
 
   if (ingested > 0 && autoExtract) {
-    // Collect source IDs newly INGESTED in THIS run, so the autoknowledge
-    // call scopes extraction to just this channel's cohort rather than
-    // sweeping the global unextracted backlog.
-    //
-    // Filter semantics:
-    //   - start from toIngest (attempted in this run)
-    //   - only include rows that ended with status === "INGESTED"
-    //   - only include rows that have a sourceId (INGESTED without one
-    //     indicates an ingest completed but the tracker line was never
-    //     updated, which is a bug elsewhere — skip defensively)
-    //
-    // This excludes:
-    //   - pre-existing INGESTED rows from previous --resume runs
-    //   - FAILED rows from this run
-    //   - SKIP rows (e.g., playlists, unsupported formats)
-    const newlyIngestedIds = toIngest
-      .map((entry) => lines.find((l) => l.videoId === entry.videoId))
-      .filter((line): line is TrackerLine =>
-        line !== undefined &&
-        line.status === "INGESTED" &&
-        typeof line.sourceId === "string" &&
-        line.sourceId.length > 0,
-      )
-      .map((line) => line.sourceId as string);
+    // Collect source IDs newly INGESTED in THIS run. See
+    // collectNewlyIngestedIds() for the filter semantics. Extracted
+    // from main() so the cohort logic can be tested independently.
+    const newlyIngestedIds = collectNewlyIngestedIds(toIngest, lines);
 
     if (newlyIngestedIds.length === 0) {
       console.log("");
@@ -594,33 +683,19 @@ async function main(): Promise<void> {
       );
     } else {
       // Generate a batch manifest under knowledge-base/meta/batches/ and
-      // pass it to autoknowledge via --batch. This is the first production
-      // user of the --batch flag (introduced in commit a89d9bf851) and
-      // closes the control-plane hole where --auto-extract was silently
-      // processing the global unextracted backlog instead of just the
-      // channel we ingested.
-      //
-      // Naming: <tracker-basename>-<YYYY-MM-DD>.txt. Tracker basenames
-      // already encode the channel slug (e.g., "dwarkeshpatel-batch"),
-      // so this produces readable and sortable manifest filenames.
-      const trackerBasename = basename(trackerPath).replace(/\.txt$/, "");
-      const manifestDate = new Date().toISOString().slice(0, 10);
-      const batchesDir = join(META_DIR, "batches");
-      await mkdir(batchesDir, { recursive: true });
-      const manifestPath = join(
-        batchesDir,
-        `${trackerBasename}-${manifestDate}.txt`,
+      // pass it to autoknowledge via --batch. First production user of
+      // the --batch flag (introduced in a89d9bf851), closes the control-
+      // plane hole where --auto-extract was silently processing the
+      // global unextracted backlog instead of just the channel we
+      // ingested. See resolveBatchManifestPath() and
+      // buildBatchManifestContent() for the path and content logic.
+      const manifestPath = resolveBatchManifestPath(trackerPath);
+      await mkdir(join(META_DIR, "batches"), { recursive: true });
+      const manifestLines = buildBatchManifestContent(
+        newlyIngestedIds,
+        basename(trackerPath),
+        channelUrl,
       );
-
-      const manifestLines = [
-        `# Auto-generated batch manifest from ingest-channel.ts`,
-        `# Tracker: ${basename(trackerPath)}`,
-        `# Channel URL: ${channelUrl ?? "(resume mode — see tracker header)"}`,
-        `# Generated: ${new Date().toISOString()}`,
-        `# Source count: ${newlyIngestedIds.length}`,
-        ``,
-        ...newlyIngestedIds,
-      ];
       await writeFile(manifestPath, manifestLines.join("\n") + "\n", "utf-8");
 
       console.log("");
@@ -664,7 +739,16 @@ async function main(): Promise<void> {
   }
 }
 
-main().catch((err) => {
-  console.error(err instanceof Error ? err.message : String(err));
-  process.exit(1);
-});
+// Only run main() when this file is executed as a script, not when it's
+// imported by a test file. vitest sets process.argv[1] to its own runner,
+// so the endsWith check correctly gates out test-time imports.
+const entryPoint = process.argv[1] ?? "";
+if (
+  entryPoint.endsWith("ingest-channel.ts") ||
+  entryPoint.endsWith("ingest-channel.js")
+) {
+  main().catch((err) => {
+    console.error(err instanceof Error ? err.message : String(err));
+    process.exit(1);
+  });
+}
