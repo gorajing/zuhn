@@ -51,7 +51,6 @@ stance: >-
   their own pockets.
 related:
   - INS-260325-FDF5
-  - INS-260323-8AA1
   - INS-260403-D2B1
   - INS-260403-FCA6
   - INS-260403-64A5
@@ -60,6 +59,7 @@ related:
   - INS-260403-C37B
   - INS-260403-2152
   - INS-260330-28B1
+  - INS-260403-EA31
 evidence:
   - id: INS-260329-E193
     type: SUPPORTS

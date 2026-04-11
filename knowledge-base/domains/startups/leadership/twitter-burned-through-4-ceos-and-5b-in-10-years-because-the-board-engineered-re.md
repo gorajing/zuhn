@@ -43,11 +43,11 @@ resolutions:
     price. Musk eventually bought it because the board had given up hope of
     independent survival.
 related:
+  - INS-260410-2402
   - INS-260327-32B8
+  - INS-260410-0F1C
   - INS-260403-0629
   - INS-260330-80A7
-  - PRI-260324-3081
-  - PRI-260328-BEAB
 stance: >-
   Twitter's board fired 4 CEOs in 10 years, creating a culture of chaos where
   execution was impossible

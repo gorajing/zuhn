@@ -6,3 +6,6 @@
 - `INS-260329-8CC0` Sharding splits data across servers for write scalability while replication copies data across servers for read scalability — the workload pattern determines which to use.
 - `INS-260329-BE72` Foreign keys transform isolated tables into a connected information graph, enabling relationship queries that no single table could answer.
 - `INS-260329-D297` Using arbitrary surrogate keys rather than business-meaningful natural keys as primary keys prevents breakage when business rules change.
+- `INS-260410-AAFE` Amazon.com itself took 13 years to migrate off Oracle databases onto its own AWS database products — if the parent company can't quickly escape its own database lock-in, no customer can.
+
+

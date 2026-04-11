@@ -41,7 +41,6 @@ stance: >-
   survivors build transformative businesses.
 related:
   - INS-260323-1720
-  - INS-260323-6230
   - INS-260327-4C26
   - INS-260327-130C
   - INS-260405-B4D0

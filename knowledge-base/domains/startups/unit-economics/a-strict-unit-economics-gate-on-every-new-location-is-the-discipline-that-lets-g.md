@@ -70,9 +70,9 @@ stance: >-
 related:
   - INS-260327-EAB9
   - INS-260410-899C
+  - INS-260410-E5C9
   - PRI-260328-0993
   - INS-260330-EDAC
-  - INS-260403-53B0
 ---
 Starbucks' hidden discipline through its decades of store expansion was a strict unit economics gate: every new store had to project a 2:1 sales-to-investment ratio in year one (if projected sales were $1M, max investment was $500K) and operating profit north of 20%. Wall Street had never seen a physical retail model like it in 1992. Schultz personally chose the first 500 locations. The gate was non-negotiable.
 

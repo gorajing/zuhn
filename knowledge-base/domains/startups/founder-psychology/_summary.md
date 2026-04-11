@@ -1,6 +1,6 @@
 # Topic: founder-psychology
 
-> 78 insights
+> 79 insights
 
 - `INS-260323-9C11` [high] Early hardship — while not required for success — instills an unshakeable belief that solutions exist and are within your control.
 - `INS-260328-91A1` [high] We are so early in AI adoption that freezing all model development today would still yield massive business improvements for years -- current tools are dramatically under-deployed.
@@ -60,6 +60,7 @@
 - `INS-260323-8B22` [medium] Altman's default-trust philosophy served him well until the board coup — the danger is overcorrecting from trusting to paranoid.
 - `INS-260323-E2ED` [medium] When a founder's self-worth becomes entangled with their codebase, negative user feedback triggers emotional defensiveness instead of productive iteration.
 - `INS-260328-9574` [medium] People reach for process when a recurring problem scares them or when they're doing something for the first time — it provides comfort even when it doesn't improve the output.
+- `INS-260410-2AF4` [medium] Jensen Huang and Mark Zuckerberg both confirm that if they could compress 30 years of pain and hardship into a 29-year-old's brain, neither would have started their company — the entrepreneurial superpower is partly ignorance of how hard things are.
 - `INS-260403-8C71` [medium] Founders converge on the same small set of books, leaving valuable non-canonical knowledge undiscovered.
 - `INS-260404-CC66` [medium] Founders avoiding vacations face diminishing returns as burnout degrades the decision-making quality that matters most.
 - `INS-260403-0CCB` [medium] Founders are motivated by security rather than luxury, and will seek that security through institutional seniority if startup wealth is unavailable.

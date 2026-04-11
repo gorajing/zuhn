@@ -49,11 +49,11 @@ stance: >-
 related:
   - INS-260324-157A
   - INS-260327-A8B6
-  - INS-260327-624F
   - INS-260403-6412
   - INS-260403-A331
   - INS-260409-1298
+  - INS-260410-0E77
+  - INS-260327-624F
   - INS-260330-7ED0
-  - INS-260323-1494
 ---
 OpenTable sold table management and CRM software to restaurants that created value without requiring any diners, then layered in the marketplace once they had sufficient restaurant density. Eventbrite created free event web pages. This 'single-player mode' pattern is one of the most elegant solutions to the chicken-and-egg problem because it doesn't require burning capital on subsidies or unsustainable manual operations. The key insight is that in most marketplaces, supply is king — so the single-player tool should serve the supply side. This approach also creates switching costs that protect against competitors, because hosts adopt workflows around the tool before the marketplace even matters to them. Not every marketplace can do this, but those that can gain a structural advantage in bootstrapping.

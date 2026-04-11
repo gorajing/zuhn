@@ -4,3 +4,4 @@
 - `INS-260403-D746` Meeting damage extends far beyond the meeting itself through anticipation and fragmentation of work blocks.
 - `INS-260402-7182` When companies can't measure output, they mandate presence, and the gap between mandated hours and actual productive work gets filled by meetings.
 - `INS-260403-E1AD` Leaders must delay their own questions and create space for others to question first to avoid turning inquiry into implicit commands.
+- `INS-260410-AFB9` Benchmark commissioned a custom round table where no sidebar conversation is possible because everyone hears everything — destroying the hierarchy a rectangular table embeds and the atomization a circular table creates.

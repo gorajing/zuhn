@@ -47,7 +47,6 @@ stance: >-
   causing most people to delay discovering what they actually want to do by
   years or decades.
 related:
-  - INS-260330-BD04
   - INS-260403-875B
   - PRI-260406-9C4B
   - INS-260329-9A58

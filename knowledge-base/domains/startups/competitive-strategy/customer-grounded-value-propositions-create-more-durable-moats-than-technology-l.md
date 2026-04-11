@@ -51,10 +51,10 @@ stance: >-
   compounds while technology advantages erode.
 related:
   - INS-260322-299C
+  - INS-260410-D3D8
   - PRI-260328-A82C
   - INS-260409-D681
   - INS-260403-3F10
-  - INS-260403-5DDE
   - INS-260409-13A5
 evidence:
   - id: INS-260322-299C

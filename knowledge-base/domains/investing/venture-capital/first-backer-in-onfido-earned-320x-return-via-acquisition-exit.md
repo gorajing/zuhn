@@ -55,6 +55,7 @@ related:
   - INS-260403-5056
   - INS-260403-8A28
   - INS-260404-51A2
+  - INS-260410-A5E1
 ---
 UK fintech Onfido — an identity verification company — was in acquisition talks in early 2024, with its first backer reportedly set to make a 320x return. This is notable because it challenges the implicit assumption that venture-scale returns require IPO exits. M&A can produce just as extreme multiples when entry valuation is low enough and the company occupies a durable position in infrastructure.
 

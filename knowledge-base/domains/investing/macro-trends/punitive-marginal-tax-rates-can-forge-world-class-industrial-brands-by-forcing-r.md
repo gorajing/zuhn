@@ -66,6 +66,7 @@ related:
   - INS-260403-5A4C
   - INS-260321-3808
   - INS-260410-5CB4
+  - INS-260410-15AC
 ---
 After WWII, West Germany faced an existential need to rebuild its industrial base against the Soviet threat. Rather than subsidize companies directly, they set personal marginal tax rates at 95% above a threshold and imposed heavy corporate taxes on distributed profits, effectively capping founder takeout and forcing every additional dollar back into the business. Porsche, receiving a royalty on every Volkswagen Beetle sold worldwide, had no rational choice but to pour those profits into racing programs, new models (550 Spyder, 911), production capacity, and engineering talent.
 

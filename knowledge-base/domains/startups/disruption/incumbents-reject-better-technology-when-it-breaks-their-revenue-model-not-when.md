@@ -62,9 +62,9 @@ stance: >-
 related:
   - INS-260324-5481
   - INS-260410-4C9D
+  - INS-260410-0F1C
   - INS-260327-9DA6
   - INS-260330-999F
-  - INS-260330-629E
 ---
 In spring 1997, Larry and Sergey tried to sell back rub to Excite for ~$1M. In the final demo, Excite's CEO saw that Google's algorithm delivered the right answer immediately while Excite's forced users to click around. His verdict: 'Why on earth would we move to your algorithm? I want people to stay on my site. I make money when people stay on my site.' The deal died on the spot, and similar rejections came from Yahoo, Infoseek, and Lycos.
 

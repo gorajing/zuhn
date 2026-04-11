@@ -53,5 +53,6 @@ related:
   - INS-260404-E716
   - PRI-260406-377E
   - INS-260409-F7F8
+  - INS-260410-2CBC
 ---
 Graham identifies three distinct reasons people are harsh on early work: inexperience with judging early-stage projects, desire to seem clever by predicting failure (which is statistically easier in high-risk domains), and a deeper status-threat motivation where others hope you'll fail because your success would put you above them. This last factor is sometimes baked into national cultures (tall poppy syndrome). Silicon Valley partially solves this by aligning incentives — investors, colleagues, and community members can all benefit from your success, converting potential status threat into shared upside. The insight suggests that when evaluating the skepticism you receive, you should discount it not just for ignorance but for motivated reasoning rooted in social hierarchy concerns.

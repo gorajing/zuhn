@@ -52,7 +52,6 @@ stance: >-
   LLM weights should be understood as a lossy Gestalt compression of training
   text rather than a retrievable database of facts.
 related:
-  - INS-260403-2138
   - INS-260330-CAE6
   - INS-260409-6560
   - PRI-260407-7FB7

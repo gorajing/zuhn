@@ -51,10 +51,10 @@ resolutions:
     1991; the principle hasn't changed.
 related:
   - INS-260323-6043
+  - INS-260410-0263
   - INS-260323-AB5F
   - INS-260403-14E0
   - INS-260329-EBCA
-  - INS-260321-2F43
 stance: >-
   Before ZZT shipped, Sweeney invited neighbors of all ages to play it while
   forcing himself not to explain anything

@@ -68,7 +68,7 @@ related:
   - INS-260410-885B
   - INS-260410-DA81
   - INS-260330-4341
-  - INS-260326-0AB4
+  - INS-260410-CB70
 ---
 Karpathy argues that gradient-to-data ratios are misleading because what actually changes a parameter is the update (learning_rate * gradient), not the raw gradient. The right diagnostic is: for each parameter tensor, compute the ratio of the update's standard deviation to the data's standard deviation, then take log10. A healthy network sits around -3 — meaning each step changes parameters by roughly one part in a thousand of their existing magnitude. Below -4 means training is too slow. Above -2 means parameters are changing too violently to converge cleanly.
 

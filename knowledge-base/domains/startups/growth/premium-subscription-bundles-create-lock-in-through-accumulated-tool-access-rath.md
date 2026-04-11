@@ -56,6 +56,7 @@ related:
   - INS-260404-02C8
   - INS-260323-FEAB
   - INS-260410-9120
+  - INS-260410-3832
 ---
 The Product Pass strategy — bundling Devin ($1,350 value), Lovable, Replit, Linear, Superhuman, and 10+ other tools into a $350/year newsletter — demonstrates a powerful retention mechanic. Each additional tool raises the switching cost incrementally, and the cumulative value ($10,000+) makes the subscription feel irrational to cancel even if any single product loses relevance.
 

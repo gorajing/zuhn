@@ -57,5 +57,6 @@ related:
   - INS-260403-21BD
   - PRI-260328-E870
   - INS-260323-FEDF
+  - INS-260410-CE39
 ---
 Horowitz's specific claim: two traits have been underrated in Silicon Valley and are now increasing in importance — (1) creativity, meaning original ideas about what to pursue and taste in decision-making, and (2) ability to create and maintain high-quality, high-fidelity relationships off the rip. 'All the AI in the world' can't help someone who lacks instincts in these areas, while AI is already really good at the grind tasks. He gives a concrete example: a16z had a 'legendary marketing organization' built in 2009 that was oriented toward traditional media and couldn't generate breakthrough ideas about new media — only when they brought in genuinely creative people could they execute. He notes most VC firms ignore the relationship dimension entirely in hiring ('it's not a thing — it's a thing'), which is a competitive opportunity for firms that do value it.

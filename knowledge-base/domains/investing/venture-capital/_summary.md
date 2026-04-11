@@ -1,6 +1,6 @@
 # Topic: venture-capital
 
-> 298 insights
+> 299 insights
 
 - `INS-260403-6B24` [high] High-profile 2025 IPOs like Figma, Chime, and Navan traded below debut prices even as Nasdaq and S&P 500 rallied.
 - `INS-260405-0CAB` [high] 38% of VCs stopped doing deals in 2023, exposing a large cohort of cycle-dependent tourist investors who entered during the 2020-2021 bull market.
@@ -68,6 +68,7 @@
 
 - `INS-260404-F01F` [high] Biotech and health companies captured 53% of all US Series A funding in early 2024, totaling $5.6B across 110 rounds.
 - `INS-260404-ADEE` [high] 44% of US unicorn founders are foreign-born, with India leading, making immigrant entrepreneurship a structural driver of venture capital returns.
+- `INS-260410-A5E1` [high] Sequoia and Sutter Hill backed Nvidia's original thesis, which turned out to be wrong on almost every technical decision — yet it became one of the best venture returns in history because Jensen treated each failed bet as a trigger for complete company reinvention.
 - `INS-260410-6E01` [high] Missing Google or Facebook costs more than a dozen Webvans, so the correct bias in venture is toward aggressive pursuit of any plausible outlier.
 - `INS-260403-693C` [high] Index Ventures is reaping $11B+ from concentrated bets on Figma, Wiz, and Scale AI, positioning it as the new Sequoia.
 - `INS-260403-C732` [high] Bold investing comes from understanding the domain well enough to recognize asymmetric upside, not from reckless risk appetite.

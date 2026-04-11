@@ -52,6 +52,7 @@ related:
   - INS-260404-8890
   - INS-260404-4127
   - INS-260323-1BB4
+  - INS-260410-0F85
 stance: >-
   Fireship quotes Bukowski's 'go all the way' poem and then honestly admits he'd
   rather make YouTube content

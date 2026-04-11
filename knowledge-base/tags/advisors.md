@@ -1,3 +1,3 @@
 # Tag: advisors
 
-- `INS-260330-9900` Investors who also want advisor shares are looking for a freebie — their investment already aligns their incentives to help.
+- `INS-260410-CE39` The time to build the Goldman relationship is a decade before you need to raise billions — seeds planted in good times are the only ones available in a crunch.

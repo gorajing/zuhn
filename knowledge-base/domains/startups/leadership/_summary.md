@@ -1,6 +1,6 @@
 # Topic: leadership
 
-> 193 insights
+> 195 insights
 
 - `INS-260404-F834` [high] Replace abstract culture complaints with specific behavioral stories backed by evidence to surface real, fixable problems.
 - `INS-260330-4A89` [high] Raises given on request incentivize lobbying over performance; formal evaluation cycles protect meritocratic culture.
@@ -63,6 +63,7 @@
 - `INS-260330-9B7B` [high] Hire geniuses when you find them regardless of whether you have a defined role, because great people create their own value.
 - `INS-260327-CA05` [high] During the GameStop crisis, Tenev focused on two CEO-only tasks: public communication and raising billions overnight, because he already knew exactly who the best people were for everything else.
 - `INS-260327-D0F4` [high] Goldman exited their consumer business with Apple not because it failed but because at less than 5% of revenue it consumed 40% of management attention, blocking higher-value initiatives.
+- `INS-260410-9D9C` [high] If you will need the person back within a year, the severance-plus-retraining math already tells you not to lay off — and performance ratings are too subjective to defend when you do.
 - `INS-260322-2ABB` [high] The misconception that leaders must be the most technically knowledgeable person on the team leads to hiring weaker people, which lowers talent density and increases the leader's workload.
 - `INS-260330-50D4` [high] When facing an important decision you haven't thought through from all perspectives, say 'I'm taking this seriously but I need to pause and think it through' rather than giving an immediate answer.
 - `INS-260330-A476` [high] When facing an important decision under pressure, explicitly telling people you need to pause and think it through produces better outcomes than projecting instant confidence.
@@ -176,6 +177,7 @@
 - `INS-260330-00AA` [medium] Because Muhammad governed Medina as both prophet and political leader, Islam never developed a separate civic-vs-religious legal tradition the way Christianity did.
 - `INS-260330-AA25` [medium] Never apologizing works in environments without accountability but creates compounding credibility debt that collapses catastrophically when external pressure arrives.
 - `INS-260327-F55C` [medium] Anderson replaces manager-driven performance reviews with peer feedback every 90 days using a simple 0-1-2 rating scale, arguing this is the structural decision that determines whether a growing company stays nimble.
+- `INS-260410-CE39` [medium] The time to build the Goldman relationship is a decade before you need to raise billions — seeds planted in good times are the only ones available in a crunch.
 - `INS-260403-4963` [medium] Plan quarterly meetups centered on one unforgettable shared activity, because Slack doesn't build culture — shared memory does.
 - `INS-260410-9AD9` [medium] Greg Abel in the 2025 Berkshire letter: 'Berkshire must have leaders that reflect its principles, and not principles that fit individuals.' The ordering matters — values come first, leadership selection comes second.
 - `INS-260403-F0DF` [medium] Splitting the CEO role into a chief execution officer and a chief entrepreneur resolves the explore-exploit tension structurally rather than hoping one person can do both.

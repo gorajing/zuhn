@@ -57,9 +57,9 @@ related:
   - INS-260330-059B
   - INS-260330-BC1B
   - INS-260402-EC9F
+  - INS-260410-2AF4
   - PRI-260406-6FA3
   - PRI-260407-2DBD
-  - PRI-260328-B11D
 ---
 Robert Herjavec's most memorable line reframes entrepreneurial risk as a comparison between two types of suffering: the known pain of poverty versus the uncertain pain of rejection, failure, and 20-hour days. By making this an explicit choice rather than an abstract leap of faith, he converts what feels like reckless risk-taking into a rational calculation.
 

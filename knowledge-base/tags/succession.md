@@ -12,4 +12,5 @@
 - `INS-260410-87C4` Greg Abel: 'Our owners' time horizon extends beyond the tenure of any individual CEO. I will not be your CEO for the next 60 years as simple arithmetic makes that — shall we say — an ambitious plan.'
 - `INS-260330-F158` The Western Empire fell to internal power struggles between generals, not to barbarian military superiority — while the East survived because clear imperial authority over the Church prevented political fragmentation.
 - `INS-260404-3574` Thousands of profitable European SMEs face closure due to retiring founders, creating a €20B serviceable market for employee-buyout platforms.
+- `INS-260410-EA73` Benchmark's partners explicitly reject words like 'institution' and 'franchise' because their job is killing incumbents, so they've built a culture where every partner who has ever left fired themselves before peer pressure had to.
 - `INS-260330-72BD` The Mongol Empire splintered into four separate khanates after Genghis Khan's death because conquest outpaced institutional development.

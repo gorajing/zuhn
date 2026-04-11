@@ -52,14 +52,12 @@ stance: >-
   aggregate output.
 related:
   - INS-260320-901C
-  - INS-260320-5818
   - INS-260330-9A92
   - INS-260330-2F74
   - PRI-260406-4A83
   - INS-260405-9DB6
   - INS-260404-5E8F
   - INS-260404-EC33
-  - INS-260330-488B
   - INS-260410-13C8
 evidence:
   - id: INS-260320-901C

@@ -7,3 +7,7 @@
 - `INS-260323-F528` Musk argues space-based AI will cost less than terrestrial AI within 2-3 years because space solar is 5x more efficient (no atmosphere, no day/night, no seasons), needs no heavy protective glass, and scales with increasing returns — while terrestrial power hits NIMBY constraints and gets harder over time.
 - `INS-260405-1CC3` The US-Taiwan deal reduces tariffs from 20% to 15% contingent on $500B in US semiconductor investment, making trade policy a reshoring mechanism.
 - `INS-260325-2BB0` TSMC makes roughly 90% of advanced processor chips used in phones, computers, and AI — an unprecedented concentration of critical manufacturing in one company in one geopolitically sensitive location.
+- `INS-260410-090B` Never co-develop your core technology as a junior partner — you trade short-term access for the permanent loss of your own development capability.
+- `INS-260410-44B7` Lock R&D at a fixed percentage of revenue through any business cycle so your technology leaders stop negotiating and start building.
+- `INS-260410-B2E3` If the same customers buy from all your 'divisions,' you don't have divisions — functional structure is the only one that matches the customer reality.
+

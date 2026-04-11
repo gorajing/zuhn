@@ -62,6 +62,7 @@ related:
   - INS-260405-3240
   - INS-260405-FE74
   - INS-260404-A0C2
+  - INS-260410-F96E
 ---
 Historical tech winners — Google search, Apple, Microsoft — did not win by being the lowest-cost provider; they won on product, distribution, or network effects while sustaining 80%+ gross margins that absorbed input cost differences. AI breaks this pattern because inference and training compute dominate COGS (chips alone are over half the cost of running an AI data center), and AI products only clear ~50% gross margins even at scale. In that regime, paying Nvidia's ~80% chip margin versus Broadcom's ~50% margin on custom TPUs is the difference between a 5x and 2x markup on hardware — enough to determine who can profitably serve inference at scale.
 

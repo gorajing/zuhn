@@ -47,7 +47,6 @@ stance: >-
   fundraising, hiring, and press — if you're growing, every other problem
   becomes easier to solve.
 related:
-  - INS-260322-BFDE
   - INS-260403-99B1
   - PRI-260405-E9C5
   - INS-260410-7875
@@ -57,6 +56,7 @@ related:
   - INS-260328-03BB
   - INS-260330-2347
   - INS-260404-9103
+  - INS-260404-EFEB
 evidence:
   - id: INS-260327-969D
     type: CHALLENGES

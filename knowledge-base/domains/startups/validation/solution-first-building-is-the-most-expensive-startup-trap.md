@@ -47,7 +47,6 @@ stance: >-
   consistently burn more capital and fail more often than those who start with
   validated pain points
 related:
-  - INS-260327-8E62
   - INS-260402-4AB4
   - INS-260403-5F41
   - PRI-260406-874A

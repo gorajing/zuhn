@@ -32,6 +32,7 @@
 - `INS-260409-3CCA` Writing the story doesn't feel like work, so founders skip the most important part of the job.
 - `INS-260327-7FDA` If you can quit, you should. If you literally cannot stop yourself from continuing, that's your signal to keep going.
 - `INS-260327-5B30` Check with your investors before assuming they want you to keep grinding on a failing idea.
+- `INS-260410-2402` Nvidia should have died at least four separate times between 1995 and 2019 — they survived not through brilliant pivots but through Jensen's refusal to abandon CUDA through 80% and 50% stock crashes when everyone else would have sold the company.
 - `INS-260328-0540` Ask yourself: what are the three things in my business that give me a stomach ache? Not pop problems or things from Twitter — the real ones.
 - `INS-260328-EBBC` The quality of what you give us is the only factor in the quality of what we give you back — generic prompts get generic answers, honest ones get real insight.
 - `INS-260328-80E7` Before any advice session, founders should define their goal: am I here for answers to specific questions, or do I need to talk through my feelings — both are valid but require different meetings.

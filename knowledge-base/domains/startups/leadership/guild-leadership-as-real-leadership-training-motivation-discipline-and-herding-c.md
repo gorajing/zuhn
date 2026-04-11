@@ -52,10 +52,10 @@ resolutions:
     environments if the human coordination challenges are genuine.
 related:
   - INS-260323-A7F6
+  - INS-260410-0263
   - INS-260327-BB4A
   - INS-260325-BAA4
   - PRI-260328-A805
-  - PRI-260328-BEAB
 stance: >-
   Leading an MMO guild of 30+ anonymous players with mixed motivations
   (loot-seekers, lonely escapists, competitive achievers) teaches real

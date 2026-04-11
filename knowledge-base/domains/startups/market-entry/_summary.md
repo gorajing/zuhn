@@ -1,6 +1,6 @@
 # Topic: market-entry
 
-> 54 insights
+> 55 insights
 
 - `INS-260403-535C` [high] Simultaneous supply aging and demand shifting creates opportunities that favor operationally heavy startups over pure software.
 - `INS-260403-16AB` [high] AI copilots in marketplaces increase supply capacity while preserving trust, whereas full autopilots race to zero pricing.
@@ -24,6 +24,9 @@
 - `INS-260403-1284` [high] Marketplaces in every category follow a predictable arc: horizontal discovery → vertical discovery → vertical transactional → fintech-enabled managed marketplace.
 - `INS-260404-3ACB` [high] Neuralink entered through therapeutic use (paralysis) where 77% public approval exists, avoiding the 78% resistance to enhancement use cases.
 - `INS-260403-1AE5` [high] New markets have no existing demand to capture, so spending on acquisition before the tipping point burns cash with no proportional return.
+- `INS-260410-6ADD` [high] Microsoft's 'Windows Everywhere' slide — using the Windows UI and APIs for phone, car, media center — was driven by a mix of fear ('Windows is our permission to exist') and overconfidence, and it blocked the company from building the genuinely new capabilities each new market required.
+
+
 - `INS-260403-C130` [high] Evaluate potential niches on pain severity and willingness to pay, then focus exclusively on the high-pain/high-willingness quadrant.
 - `INS-260330-3431` [high] Premium brand identity can prevent entry into massive price-sensitive markets where the bulk of demand sits far below your price floor.
 - `INS-260330-7479` [high] Apple's $1,100+ iPhone captures only 1% of India where 75% of smartphones sell under $250, proving brand prestige alone cannot overcome price-sensitivity at scale.

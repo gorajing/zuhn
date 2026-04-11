@@ -51,6 +51,7 @@ related:
   - INS-260327-889F
   - INS-260404-433E
   - INS-260403-165F
+  - INS-260410-93A4
 stance: >-
   GoPro launched 9 generations and 20 models in 10 years, flooding the market
   with trivial improvements

@@ -44,7 +44,6 @@ stance: >-
   industry-standard outcomes, which for startups means failure
 related:
   - INS-260323-46F8
-  - INS-260327-7C23
   - INS-260327-1064
   - INS-260327-A75B
   - INS-260330-A86C
@@ -53,6 +52,7 @@ related:
   - INS-260402-9075
   - INS-260403-9A4C
   - INS-260403-ADF9
+  - PRI-260407-2DBD
 evidence:
   - id: INS-260330-30CE
     type: TRANSFERS_TO

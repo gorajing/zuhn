@@ -52,11 +52,11 @@ stance: >-
   aggressively acquire competitors during recessions, when asset prices collapse
   and competitors are desperate to sell.
 related:
+  - INS-260410-84F5
   - INS-260330-B284
   - PRI-260328-8284
   - INS-260410-0735
   - INS-260330-85C2
-  - INS-260330-1FED
 ---
 Rockefeller's career featured a consistent pattern: every economic downturn accelerated his dominance. During the 1873 depression (which lasted 6 years), Standard Oil was one of the only profitable refiners thanks to modernized facilities, strong bank credit, and careful financial management. While competitors faced bankruptcy, Rockefeller launched a nationwide buyout campaign, acquiring refineries in Pittsburgh, Philadelphia, and New York at distressed prices.
 

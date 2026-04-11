@@ -1,6 +1,6 @@
 # Topic: business-models
 
-> 229 insights
+> 230 insights
 
 - `INS-260410-9246` [high] Visa's interchange is not a fee — it's an envelope of value the network can redistribute to issuing banks, acquiring banks, co-brand merchants, and rewards programs as needed to align behavior.
 - `INS-260410-58A5` [high] F1's durability isn't mostly brand or network effects — it's that the FIA explicitly calls it 'the pinnacle,' a regulatory grant no rival motorsport can replicate with money.
@@ -108,6 +108,7 @@
 - `INS-260327-4C5E` [high] External events that spike a stocks price (Reddit squeezes, viral moments) provide temporary reprieve but cannot address
 - `INS-260330-0998` [high] Tencent's attempt to charge subscription fees for QQ backfired and lost users to competitors, but switching to free access with microtransactions for virtual items and in-game purchases became enormously profitable.
 - `INS-260403-BD43` [high] McDonald's makes 64% of franchise revenue from rent, not food — it is functionally a real estate company disguised as a fast food chain.
+- `INS-260410-9643` [high] A 'trick' is an independent locomotive business with its own revenue model, sales motion, and capability stack — Google, TSMC, Nvidia each have essentially one; Microsoft and Apple have two; nobody has three.
 - `INS-260324-98F6` [high] The Big Five movie studios (Paramount, Universal, Sony, Warner Bros, Disney) all have diversified parent conglomerates because standalone film businesses can't absorb the inevitable flops.
 - `INS-260327-723A` [high] Esports collapsed because the ecosystem required publishers, teams, leagues, and broadcasters to all invest simultaneously -- when publishers like EA and Ubisoft pulled back, teams lost revenue, players left, viewership dropped, and sponsors followed.
 - `INS-260410-03FA` [high] When customers pay you before you pay suppliers, every dollar of growth generates free capital instead of consuming it.

@@ -51,7 +51,6 @@ related:
   - INS-260403-EDEF
   - PRI-260406-7F84
   - INS-260403-B5B7
-  - INS-260405-4D20
   - INS-260403-AC9F
 stance: >-
   The most expensive period of a failing startup is not the building phase —

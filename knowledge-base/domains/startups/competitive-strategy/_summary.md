@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 562 insights
+> 573 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -45,6 +45,7 @@
 - `INS-260403-97CA` [high] Incumbents will always win the copilot game because they have the data and distribution; startups must leapfrog by eliminating workflows entirely.
 - `INS-260324-6C83` [high] 80% of US barbershops remain independent despite 40 years of corporate attempts because the core asset (barber talent) can walk out and open their own shop with just scissors and a chair.
 - `INS-260402-0A49` [high] Centivax deliberately proved their universal vaccine beat commercial vaccines even against the outdated guidance strains those vaccines were specifically designed for.
+- `INS-260410-C8C2` [high] Nvidia's first-mover advantage became a liability when Microsoft standardized on triangles and Moore's law collapsed memory costs — their quadrilateral-based, memory-constrained design was obsolete before it shipped.
 - `INS-260403-368B` [high] Positioning against a worse alternative instead of for a positive vision erodes your own offering because it eliminates pressure to improve.
 - `INS-260327-6853` [high] Taco Bell was Yum Brands' overlooked third child behind KFC and Pizza Hut, but being excluded from the China arms race gave its leaders room to quietly build a domestic powerhouse without corporate interference or pressure to scale prematurely.
 - `INS-260327-0519` [high] BNPL succeeds because four payments doesnt feel like debt even though it is functionally identical to credit card borrowing.
@@ -56,7 +57,9 @@
 - `INS-260330-F534` [high] New Coke proved that blind taste tests favored the new formula, yet customers overwhelmingly rejected it — brand attachment overrode taste preference.
 - `INS-260327-BB71` [high] The biggest AI opportunity isn't building agents—it's building the infrastructure every agent will need.
 - `INS-260329-B77F` [high] Business titans built credibility through results first and personal brands second — competitors can copy your promises and services but cannot copy your proof.
+- `INS-260410-0E77` [high] Jensen's operating principle was not 'if we build it they will come' but 'if we don't build it they can't come' — the platform must exist before the market materializes or no one can show up at all.
 - `INS-260327-8682` [high] Intuit's expansion playbook: after accounting (the anchor), the next problem was invoicing and getting paid (right next to accounting), then payroll, then credit — each one right next to the last.
+- `INS-260410-DED5` [high] Jensen Huang's rule: don't enter a market until you have a differentiated reason to — expansion without differentiation is just fighting for low margins.
 - `INS-260403-B446` [high] Building differentiates you early when the market is noisy with pure salespeople, but sales reputation compounds while technical skills depreciate.
 - `INS-260405-71E1` [high] Network effects and switching cost moats are structurally superior because they strengthen with scale, while cost-based moats invite well-funded competition.
 - `INS-260403-43B9` [high] Competitors can copy products far more easily than they can replicate an entire business model ecosystem.
@@ -120,10 +123,14 @@
 - `INS-260323-CB47` [high] In both Newcomb's Paradox and nuclear deterrence, the best outcome follows from a credible, irrevocable commitment to a seemingly worse option.
 - `INS-260330-7FFE` [high] ShadowCrew's real innovation was building review, escrow, and vouching systems that let criminals trust each other — the same platform trust problems legitimate marketplaces solve.
 - `INS-260404-2A8B` [high] Companies from unrelated industries pose the greatest competitive threat because they compete with entirely different business model structures.
+- `INS-260410-D3D8` [high] When one product inside a portfolio can acquire customers and suppliers for another at a quarter of the external CAC, the compounding advantage is invisible for years then suddenly dominant.
 - `INS-260330-C825` [high] Profitable divisions (like AWS) can fund indefinite losses in new markets (like groceries), making it impossible for single-industry competitors to survive on margins alone.
 - `INS-260330-923F` [high] A crowded market is a positive signal — it proves demand exists and no solution is good enough — while competitor-free markets are a red flag.
 - `INS-260330-09E3` [high] Harvard Business Review's three paths to market dominance—best price (logistics), best product (R&D), best overall solution (customer intimacy)—reveal that only the third path requires no capital, just humility and manners.
 - `INS-260322-9DDD` [high] a16z's platform model worked because its founders had been VC customers (entrepreneurs), giving them a perspective that career VCs structurally couldn't have.
+- `INS-260410-AAFE` [high] Amazon.com itself took 13 years to migrate off Oracle databases onto its own AWS database products — if the parent company can't quickly escape its own database lock-in, no customer can.
+
+
 - `INS-260327-6E93` [high] Crosby's customers (Cursor, Clay) care about how fast contracts close, not how cheap the review is, because their growth rate makes delay the real cost.
 - `INS-260330-2CE3` [high] Bing's $5B/year profit proves that owning the default position on a dominant platform is more valuable than building a better product.
 - `INS-260330-7DAA` [high] Bing earns $5B/year not from product quality but from being Windows' default — distribution through defaults beats product superiority.
@@ -237,6 +244,7 @@
 - `INS-260330-66C7` [high] Uber built secret systems (Greyball, Hell, Heaven) to surveil regulators and competitors, creating asymmetric information advantages that were nearly impossible to counter.
 - `INS-260402-8C42` [high] During platform shifts, betting on the toolchain that builders need captures more durable value than betting on individual applications.
 - `INS-260324-6C5F` [high] Customers pay 2-5x more for Disney/Universal than Six Flags because branded attractions, $9 butterbeer, and character performers create emotional value that generic roller coasters can't match.
+- `INS-260410-0263` [high] Mark Zuckerberg plays the company like a turn-based strategy game and just makes sure he gets more turns than anybody else and learns more from each turn than the next player.
 - `INS-260403-A0F7` [high] Salesforce's evolution from 1999 SaaS pioneer to 2005+ platform shows that iterative business model extension compounds into resilience.
 - `INS-260403-862D` [high] Markets with insufficient human labor supply offer AI startups a structural advantage because the alternative is not a cheaper human—it is no solution at all.
 - `INS-260402-E470` [high] Choosing a more expressive language creates a development velocity gap competitors cannot close by hiring more people.
@@ -301,6 +309,7 @@
 - `INS-260403-F68A` [high] RuBisCo is a terrible enzyme that won evolution because it was first, and now 40 billion tons of it run the planet.
 - `INS-260402-1F41` [high] Per-user models are inherently harder to game than shared models because attackers face a diverse population instead of a single target.
 - `INS-260330-A25A` [high] Layer 2 and application layers innovate faster than Layer 1 because they don't require community-wide consensus to ship changes.
+- `INS-260410-17E2` [high] Rockefeller refused to speculate on drilling in Titusville and instead seized refining in Cleveland — the reliable, capital-intensive chokepoint everyone else ignored because it wasn't as exciting as hitting a gusher.
 - `INS-260330-007E` [high] M-PESA's genius was piggybacking on existing phone networks and SIM cards rather than building new financial infrastructure, achieving massive scale at minimal cost.
 - `INS-260327-099A` [high] 95% of music downloads were pirated at peak, not because people refused to pay but because piracy was easier - streaming killed piracy by being more convenient, not cheaper.
 - `INS-260330-F22A` [high] Tencent shifted from copying and crushing competitors to investing in them and leveraging its platform to help them grow, converting potential enemies into equity-generating partners.
@@ -343,6 +352,7 @@
 - `INS-260403-FE00` [high] Beating a monopoly requires redefining the problem space so the incumbent's strengths become irrelevant, not building a marginally better version of their product.
 - `INS-260330-7DB7` [high] In-N-Out's real product is consistency, not burgers — and that reframe explains every strategic decision they make.
 - `INS-260410-431E` [high] Morita turned down Bulova's 100,000-unit order for the TR-63 because Bulova demanded its own brand on the radio, and he later called it the single best business decision of his career.
+- `INS-260410-090B` [high] Never co-develop your core technology as a junior partner — you trade short-term access for the permanent loss of your own development capability.
 - `INS-260403-D328` [high] Saying no to corp dev meetings signals confidence and reminds acquirer founders of their own early discipline.
 - `INS-260330-C761` [high] When DuPont phased out C8/PFOA, they replaced it with GenX (C6), which caused the same three tumor types in rats but legally counted as a new substance requiring fresh evidence.
 - `INS-260403-D8C1` [high] Clear, minimal regulation — like trademarking USD and setting three simple requirements — can unleash private-sector innovation at ecosystem scale.
@@ -395,6 +405,7 @@
 - `INS-260330-DDF0` [high] Great founders locate where the strongest networks exist for their specific problem, not where startups generically cluster.
 - `INS-260325-F451` [high] Andy Raskin's strategic narrative framework: sell a movement (world shift), not a product — it unifies the entire organization around one story.
 - `INS-260330-F5D1` [high] Constantine moved the empire's center of gravity east toward trade and growth, letting the declining west fade — a strategic pivot that extended the empire by 1000 years.
+- `INS-260410-CC41` [high] Benchmark's no-growth-fund, equal-partners, no-memos, five-person structure isn't a list of quirks — each constraint only works because the others exist, and together they multiply instead of conflict.
 - `INS-260330-9313` [high] Apple's high-quality iPhones flood secondary markets, forcing new models to compete against still-excellent used versions of themselves.
 - `INS-260403-9482` [high] Distribution advantage trumps product advantage because reaching customers reliably is harder to replicate than building features.
 - `INS-260330-27E8` [high] Onitsuka's betrayal forced Blue Ribbon Sports to create Nike — transforming them from a dependent distributor into a vertically integrated brand worth billions.
@@ -425,6 +436,7 @@
 - `INS-260404-CB96` [high] The best defense turns the attacker's greatest strength into their greatest vulnerability.
 - `INS-260330-6B7F` [high] Vanilla JS forces imperative DOM manipulation where state and UI are completely decoupled, and any attempt to manage that complexity at scale recreates framework patterns — just without the community, testing, and documentation.
 - `INS-260327-E2BC` [high] AI startups either help professionals do their jobs, replace tasks entirely, or make previously impossible work feasible.
+- `INS-260410-8BF9` [high] No carrier would adopt CDMA unless someone made the base stations, the handsets, AND the chips — so Qualcomm built JVs with Nortel and Sony to make all three before divesting every non-core layer.
 - `INS-260410-90C5` [high] Costco refused to accept credit cards for years, proving customers would shop without them, which later let Costco hold an auction among card networks instead of paying interchange — the constraint became the leverage.
 - `INS-260403-7A48` [high] Foundation models can now integrate, retrain, and migrate data across platforms with minimal friction, rendering traditional SaaS lock-in strategies obsolete.
 - `INS-260327-F723` [high] The Stanley tumbler went from coveted status symbol to symbol of overconsumption within 18 months as the same social dynamics that drove adoption drove rejection.
@@ -453,6 +465,7 @@
 - `INS-260330-0525` [high] Tesla and SpaceX succeeded not through a single 10x breakthrough but through complex vertical integration that pulled in distributors and subcontractors that would otherwise extract monopoly profits.
 - `INS-260327-F229` [high] Disney's competitive advantage isn't better movies — it's owning the entire pipeline from film production through theme parks, merchandise, streaming, and cruise ships.
 - `INS-260330-80A7` [high] Vine died because it couldn't pay creators — when top Viners demanded $1.2M each annually and Twitter refused, they left, triggering a death spiral that killed the platform within two years.
+- `INS-260410-DF92` [high] Henry Flagler's 'Lakeshore Agreement' promised railroads enough oil volume to run dedicated trains in exchange for shipping rates no competitor could match — turning a negotiated discount into an industry lock.
 - `INS-260330-7BAE` [high] Netflix beat Blockbuster by retreating to improve its core service rather than launching new features to differentiate.
 - `INS-260330-9DE6` [high] Omega died chasing performance against quartz while Patek survived by pivoting to brand, proving that doubling down on a commoditized advantage is fatal.
 - `INS-260324-E7A2` [high] GameStop had 4,400+ stores and was invaluable to game publishers — then digital storefronts (Steam, PlayStation Store, Xbox Live) let publishers sell directly, and the middleman became obsolete overnight.

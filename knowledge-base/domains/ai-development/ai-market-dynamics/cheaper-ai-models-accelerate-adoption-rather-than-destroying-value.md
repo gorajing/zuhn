@@ -52,7 +52,6 @@ related:
   - PRI-260407-7AE9
   - INS-260404-A0C2
   - INS-260403-B53B
-  - INS-260405-E155
 ---
 The AI Paradox describes how investors initially panic when cheaper models emerge, assuming value destruction, but the actual dynamic mirrors historical technology cost curves where cheaper compute consistently expanded usage faster than it compressed pricing. Lower inference costs unlock use cases that were previously uneconomical, expanding the total market rather than just redistributing existing value.
 

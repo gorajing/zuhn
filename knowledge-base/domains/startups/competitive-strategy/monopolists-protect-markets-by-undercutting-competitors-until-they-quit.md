@@ -45,10 +45,11 @@ resolutions:
 related:
   - INS-260327-F6BA
   - PRI-260324-5F05
+  - INS-260410-84F5
   - INS-260402-3134
   - PRI-260405-6216
-  - INS-260323-D564
   - INS-260323-8896
+  - INS-260323-D564
   - INS-260403-5BF9
 stance: >-
   Tudor maintained his ice monopoly by systematically undercutting copycat

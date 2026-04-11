@@ -1,6 +1,6 @@
 # Topic: platform-dynamics
 
-> 34 insights
+> 38 insights
 
 - `INS-260404-573C` [high] Despite AI advances, Google's structural advantages in data, distribution, and advertising make search displacement extremely unlikely.
 - `INS-260403-4120` [high] Moltbook reveals that AI agents excel at founding projects but cannot sustain them, producing thousands of one-off ideas with almost no follow-through or genuine collaboration.
@@ -8,6 +8,7 @@
 - `INS-260325-14DC` [high] ASML's $350 million EUV lithography machines — using tin plasma at 40x the sun's surface temperature to carve transistors smaller than viruses — are required for all advanced chips and have no competitor.
 - `INS-260404-F0C3` [high] Google and Meta's TorchTPU collaboration attacks NVIDIA's software moat by eliminating the code-rewrite barrier to switching from GPUs to TPUs.
 - `INS-260322-EDC2` [high] While staying on the model frontier matters, the real defensibility in vertical AI comes from deep application context — understanding specific workflows, regulations, and customer needs that no foundation model company will pursue.
+- `INS-260410-3D3B` [high] Nvidia didn't pivot from gaming to AI — they discovered that gaming, deep learning, and crypto were the same workload shape, so their gaming chips were already the right hardware for each new market as it emerged.
 - `INS-260404-8EFB` [high] Gemini 3 Pro was trained entirely on Google's TPUs, proving that frontier model training no longer requires Nvidia GPUs.
 - `INS-260325-E652` [high] TurboQuant improves LLM inference, vector search recall, and embedding storage simultaneously because all three are bottlenecked by the same high-dimensional vector operations.
 - `INS-260325-C59D` [high] AI networks never rest, never sleep, and never need privacy — but forcing organic humans to match this inorganic pace will collapse them.
@@ -16,6 +17,7 @@
 - `INS-260322-A367` [high] Unlike traditional cloud infrastructure that gets abstracted away, AI models resist disintermediation because users and developers form both emotional and technical relationships with specific models.
 - `INS-260325-B234` [high] Moore's Law is not physics but economics: it holds as long as shrinking transistors unlocks larger markets — and AI demand is the latest force sustaining this investment cycle.
 - `INS-260325-BB13` [high] A smartphone processor requires tools from the Netherlands, chemicals from Japan, design from the US, fabrication in Taiwan, and assembly in Malaysia — no single company or country controls the full stack.
+- `INS-260410-52C8` [high] CUDA is Nvidia's real moat — a 17-year, thousands-of-engineers platform investment that competitors cannot replicate on relevant timescales.
 - `INS-260403-FFFE` [high] Model alignment is a removable fine-tuning layer, not a fundamental architectural property.
 - `INS-260323-BC61` [high] LeCun argues the biggest AI danger is not existential risk but concentration of power -- a future where all information is controlled by a few companies through proprietary AI systems, and open-source is the primary defense.
 - `INS-260403-27F5` [high] Proprietary AI safety layers are strategically undermined by uncensored open-source alternatives that attract users seeking unrestricted generation.
@@ -25,6 +27,7 @@
 - `INS-260325-76BD` [high] Nuclear weapon technology has barely improved since the 1960s and even North Korea can build one — but cutting-edge chips require such extreme precision that only 3 companies worldwide can manufacture them.
 - `INS-260330-2601` [high] A hierarchy of control exists in tech — plugins < browsers < operating systems < physical devices — where each higher layer can override everything below it.
 - `INS-260330-7C24` [high] Vibe coding creates a barbell market where giant apps and tiny niche apps thrive, but 5-20 person software companies get squeezed out.
+- `INS-260410-28C3` [high] The semiconductor industry split into EDA / IP / fabless / equipment / foundry because Moore's Law made it impossible for one company to stay at the frontier across all five layers.
 - `INS-260322-D8C3` [medium] OpenAI doesn't treat agents as a separate category — ChatGPT, Codex CLI, Sora, and the API are all just different interfaces for deploying the same underlying intelligence, each optimized for different user contexts.
 - `INS-260403-7089` [medium] The power structure emerging from AI development converges to either state control or corporate warlordism, with no viable middle ground.
 - `INS-260404-CAD5` [medium] AI competitive advantage has migrated from model performance to distribution, ecosystems, and differentiation.
@@ -36,3 +39,4 @@
 - `INS-260328-9B8A` [medium] Zuckerberg frames open source AI not as idealism but as a security strategy — concentrated AI power in untrustworthy hands is potentially more dangerous than widespread access.
 - `INS-260410-4F43` [medium] Anthropic open-sourced the full MCPB specification, toolchain, and schemas so that the format can become a cross-application standard rather than a Claude-only feature.
 - `INS-260410-E8A8` [medium] Google is the only company in the world that controls frontier model, custom AI chips, hyperscale cloud distribution, and mass-market consumer applications — every other major AI player has at most one of these.
+- `INS-260410-28E0` [medium] Nvidia's Riva 128 only supported 8 of DirectX's 24 blend modes and literally crashed on the rest — so Nvidia walked game developers through a pitch to use only those 8, and developers agreed because consumers bought graphics cards purely on benchmark performance.

@@ -58,8 +58,8 @@ related:
   - INS-260403-162F
   - INS-260403-0196
   - INS-260405-85B5
+  - INS-260410-B2E3
   - INS-260403-9B18
-  - INS-260403-9482
 ---
 Jack Zhang explicitly tells potential customers that if their business operates entirely within the United States, another platform is probably a better fit. Most companies at Airwallex's scale avoid such statements because every excluded segment feels like forgone revenue. But Zhang's ideal customer description is unusually precise: a business selling into Australia, Singapore, the UK, and Canada simultaneously, needing banking, payments, spend management, and treasury on one platform.
 

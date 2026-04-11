@@ -55,9 +55,9 @@ stance: >-
 related:
   - INS-260330-8F91
   - INS-260403-5554
+  - INS-260410-3832
   - INS-260330-C825
   - INS-260330-6EE1
-  - INS-260405-A2A2
 ---
 Paine reframes the US-China balance around allies rather than GDP or missile counts. America's post-1945 hegemony depends on a dense web of allies and multilateral institutions — the UN, EU, NATO — which Paine calls 'the great gift of the greatest generation.' These are not ceremonial; they pool intelligence, legitimacy, and logistical reach, and have saved millions of lives through programs like UN vaccine distribution. China's comparable list is Iran (a theocracy) and North Korea ('the crazy man in Korea who can't even feed people'). The asymmetry is not in hardware but in who will pick up the phone.
 

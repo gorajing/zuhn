@@ -55,7 +55,6 @@ stance: >-
   automatically merge — tool designers must deliberately build the connection or
   home-cooked software will end up cloud-hostage.
 related:
-  - INS-260404-A6D4
   - INS-260409-A682
   - INS-260409-3EB3
   - PRI-260328-C581

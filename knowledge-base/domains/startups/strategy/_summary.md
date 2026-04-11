@@ -1,6 +1,6 @@
 # Topic: strategy
 
-> 246 insights
+> 247 insights
 
 - `INS-260330-98EA` [high] The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples.
 - `INS-260403-0530` [high] New York struggles as a startup hub because founders there are second-class citizens in a status hierarchy that most admires financial wealth.
@@ -103,6 +103,7 @@
 - `INS-260328-A417` [high] PG's anti-zero-sum thesis — that funding more startups creates more total wealth rather than diluting a fixed pool — was proven right by YC and applies to AI-era Series A investing.
 - `INS-260403-08FE` [high] Costco turns its $60 entry fee, confusing layout, and bulk-only format into loyalty drivers and demographic filters.
 - `INS-260403-D5DC` [high] Choose your startup location based on what fuels your business, not who funds it.
+- `INS-260410-15AC` [high] Qualcomm's demand of 5% of every iPhone's ASP plus per-unit patent fees was the bill that made Apple buy Intel's modem business and start building its own modem — a decade-long project Apple only started because the tax was intolerable.
 - `INS-260330-4ACF` [high] Britain promised Palestine to three different parties simultaneously, ensuring universal betrayal and lasting conflict.
 - `INS-260403-0C2E` [high] China's pattern of dramatic action followed by rapid reversal — '30-year oversteering' — produces worse outcomes than incremental course correction.
 - `INS-260410-2106` [high] Sony bought Columbia Pictures in 1989 partly out of Betamax-induced trauma, but hardware teams wanted devices to play any content (including pirated) while the movie division wanted hardware to enforce restrictions — the two strategies are permanently incompatible.

@@ -59,7 +59,6 @@ stance: >-
   architecture.
 related:
   - INS-260325-2CC7
-  - INS-260324-27E2
   - INS-260325-D033
   - INS-260330-4F7B
   - INS-260330-9A46

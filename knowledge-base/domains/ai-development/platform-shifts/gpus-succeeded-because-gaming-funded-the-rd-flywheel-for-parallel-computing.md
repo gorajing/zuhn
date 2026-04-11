@@ -43,11 +43,11 @@ resolutions:
     builders: find the largest possible initial market that naturally demands
     your core capability, even if your ultimate vision extends far beyond it.
 related:
+  - INS-260410-3D3B
   - INS-260403-7227
   - INS-260403-57E7
   - INS-260402-9EBD
   - PRI-260328-82BE
-  - INS-260327-C1F6
   - INS-260324-6345
   - INS-260324-9E37
   - INS-260403-58BB

@@ -60,7 +60,7 @@ related:
   - INS-260330-F183
   - INS-260403-3831
   - INS-260410-0430
+  - INS-260410-3D3B
   - INS-260325-D624
-  - INS-260403-841F
 ---
 Silicon Valley strongly prefers goal-driven work: set KPIs, define OKRs, ship deliverables, measure outcomes against specific targets. This is why AGI and BCI are more fashionable than tools for thought — AGI has a clear goal ('build a system that matches human cognition'), BCI has a clear goal ('build a brain-computer interface'), tools for thought has a vague goal ('help people think better'). But historically, humanity's biggest breakthroughs did not come from goal-driven processes. Imagining prehistoric hominids setting quarterly OKRs to 'invent language' is absurd — you can't set goals for a concept you don't yet have. Writing, the printing press, Hindu-Arabic numerals, calculus notation, and the computer all emerged from open-ended exploration of fundamental questions. Turing and Church were working on logic and provability, not a computer. The deep lesson: fundamental open-ended questions have historically been at least as good a source of breakthroughs as ambitious goals, maybe better. Modern research culture structurally undervalues this because it is harder to justify, harder to fund, and harder to evaluate. But the historical record says open-ended exploration of good questions tends to beat goal-driven execution on well-defined targets when the prize is a truly new category of capability rather than an incremental improvement on an existing one.

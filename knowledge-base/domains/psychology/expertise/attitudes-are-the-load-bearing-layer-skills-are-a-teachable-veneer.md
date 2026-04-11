@@ -44,7 +44,6 @@ stance: >-
   attitudes are nearly impossible to install post-hoc.
 related:
   - INS-260322-CC69
-  - INS-260329-7D18
   - INS-260330-4341
   - INS-260409-A62B
   - INS-260403-62AF

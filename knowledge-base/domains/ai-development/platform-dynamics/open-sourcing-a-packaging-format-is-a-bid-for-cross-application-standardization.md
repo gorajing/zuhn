@@ -62,8 +62,8 @@ related:
   - INS-260329-693E
   - INS-260405-B76E
   - INS-260409-2D5C
+  - INS-260410-49D7
   - INS-260327-FDF4
-  - INS-260403-2152
 ---
 Anthropic could have kept .mcpb as a proprietary Claude Desktop feature. Instead they published the spec, packaging CLI, validation tools, reference implementation, and TypeScript schemas under an open license — explicitly inviting other AI desktop apps to adopt it.
 

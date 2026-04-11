@@ -50,11 +50,11 @@ stance: >-
   prediction is that they will attempt exactly what they said, not a
   sophisticated negotiating strategy.
 related:
+  - INS-260410-614E
   - PRI-260406-20FD
   - PRI-260406-4358
   - INS-260403-4CF9
   - INS-260403-4960
-  - PRI-260405-262B
   - INS-260410-6A19
 evidence:
   - id: INS-260329-4A69

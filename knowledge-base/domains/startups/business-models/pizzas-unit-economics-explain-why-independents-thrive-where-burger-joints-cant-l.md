@@ -47,6 +47,7 @@ related:
   - INS-260327-2DE8
   - INS-260327-048B
   - INS-260327-D5F0
+  - INS-260410-15EC
 stance: >-
   Pizza has the lowest food costs in fast food (flour, canned tomatoes,
   subsidized cheese), needs minimal space, and 50% of US pizza shops are still

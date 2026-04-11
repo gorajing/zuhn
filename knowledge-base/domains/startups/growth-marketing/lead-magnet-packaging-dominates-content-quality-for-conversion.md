@@ -49,8 +49,8 @@ stance: >-
 related:
   - INS-260409-13A5
   - INS-260410-212B
+  - INS-260410-79C4
   - INS-260409-60C2
   - PRI-260403-7D53
-  - INS-260410-D593
 ---
 When a lead magnet underperforms, practitioners blame the category ('lead magnets don't work' or 'webinars don't work'), but the failure almost always lives in packaging. The same underlying content can 2-10x its conversion rate with a better headline. This is because the name is the only signal a cold visitor has about whether the asset is worth their contact info. The practical implication is that testing headlines against a defined avatar — via small ad tests, audience polls, or direct messages — is a disproportionately high-ROI activity compared to improving the asset. Hormozi's gym example: 'six-week deadlift and squat seminar' vs 'big booty boot camp' delivered the same program but attracted completely different response rates because one advertised the vehicle and the other advertised the result. This generalizes: market the outcome the buyer wants, not the mechanism you use to deliver it.

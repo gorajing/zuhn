@@ -45,11 +45,11 @@ stance: >-
   People who understand a trend's importance but not its daily reality will
   consistently oversimplify what practicing that skill requires
 related:
+  - INS-260410-2CBC
   - INS-260404-312D
   - INS-260330-43EE
   - INS-260326-DBEF
   - INS-260403-E681
-  - INS-260403-D56B
 evidence:
   - id: INS-260329-7D18
     type: EXTENDS

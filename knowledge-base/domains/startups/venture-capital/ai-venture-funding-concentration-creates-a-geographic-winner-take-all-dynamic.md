@@ -50,7 +50,7 @@ related:
   - INS-260402-180C
   - INS-260330-608C
   - PRI-260403-E097
-  - PRI-260406-58FA
+  - INS-260410-D3D8
   - INS-260403-92B5
 ---
 Frank, the VC panelist, shared staggering concentration metrics: approximately two-thirds of all venture capital is now flowing into AI-related companies, and two-thirds of that AI funding concentrates in the Bay Area. This double-filter means roughly 44% of all global venture capital flows through one metropolitan area for one technology category.

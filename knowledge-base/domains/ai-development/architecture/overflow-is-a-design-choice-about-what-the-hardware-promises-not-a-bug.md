@@ -54,6 +54,6 @@ related:
   - PRI-260403-9E80
   - INS-260403-15DD
   - INS-260403-22E9
-  - INS-260329-AA2C
+  - INS-260410-5799
 ---
 When the Fibonacci program climbs past 233 and can't represent 377 in 8 bits, the computer doesn't crash or hang — it silently produces 121 (the low 8 bits of 377) and sets the carry flag. The video uses this to make a subtle point: overflow is not a hardware failure, it's a documented contract. The hardware promises the rightmost 8 bits and offers a flag; the programmer can use a jump-carry instruction to detect the condition and react. Every numeric corner case in every language (integer wrap-around in C, exceptions in Python, BigInt in JS) is a different software response to the same hardware contract. Understanding this prevents the classic bug where a programmer trusts that 'the computer will handle it,' when in fact the computer has handed responsibility back.

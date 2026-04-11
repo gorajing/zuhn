@@ -55,7 +55,6 @@ related:
   - INS-260323-C814
   - INS-260328-8DF8
   - INS-260329-6BFC
-  - INS-260404-CC66
 evidence:
   - id: INS-260323-C814
     type: SUPPORTS

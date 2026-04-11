@@ -60,7 +60,7 @@ related:
   - INS-260403-952F
   - INS-260405-03BB
   - INS-260327-A675
-  - INS-260403-839E
+  - INS-260410-A5E1
   - INS-260410-7D8E
 ---
 When Larry Page was sidelined in 2001, he didn't fight for his title back. Instead, he redirected his energy into championing transformative product bets — Gmail, Google Maps, Chrome, Android, YouTube — all from a position without formal operational authority. Each success compounded his credibility until his return was inevitable.

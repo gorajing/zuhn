@@ -1,7 +1,7 @@
 # Tag: management
 
-- `INS-260403-7FFA` Social skills frequently outweigh technical ability in determining who advances to engineering leadership.
 - `INS-260402-D534` Believing all options are equivalent is a cognitive shortcut that eliminates evaluation of dimensions the decision-maker cannot understand.
+- `INS-260403-7FFA` Social skills frequently outweigh technical ability in determining who advances to engineering leadership.
 - `INS-260405-68DC` Good engineers made into managers as a reward for engineering excellence reliably become bad managers — the role requires different skills, not more of the same.
 - `INS-260402-ABB5` Financial constraints force companies to fix dysfunctions — overpaying underperformers, underpaying top talent, coordination-heavy middle management — that abundant capital made invisible.
 - `INS-260330-AB95` Delaying termination of a bad employee risks losing good employees who won't tolerate the toxic environment, making procrastination strictly worse than action.
@@ -15,6 +15,7 @@
 - `INS-260330-5B0C` Management decisions radiate beyond the direct participants — the silent audience determines whether decisions strengthen or erode culture.
 - `INS-260330-EF51` The only escape from hero mode is accepting a temporary dip in performance to invest in hiring and delegation.
 - `INS-260330-625B` Hero mode — working 18+ hour days to lead by example — prevents managers from stepping back to hire, creating an escalating trap that ends in burnout.
+- `INS-260410-9D9C` If you will need the person back within a year, the severance-plus-retraining math already tells you not to lay off — and performance ratings are too subjective to defend when you do.
 - `INS-260330-A476` When facing an important decision under pressure, explicitly telling people you need to pause and think it through produces better outcomes than projecting instant confidence.
 - `INS-260322-C6CE` Instead of working on your weaknesses, ask whether being bad at something is the reason you're good at everything else — then hire a dedicated 'process person' to compensate.
 - `INS-260329-B4C8` Discretionary effort is voluntary and only flows toward leaders who use praise over punishment.

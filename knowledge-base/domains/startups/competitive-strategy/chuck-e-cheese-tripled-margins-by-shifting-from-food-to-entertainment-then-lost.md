@@ -45,8 +45,8 @@ related:
   - INS-260323-6230
   - INS-260324-E7A2
   - INS-260327-F7C0
+  - INS-260410-3D3B
   - INS-260403-CAAB
-  - INS-260404-96E6
 stance: >-
   Chuck-E-Cheese pivoted from pizza to arcade games in the 90s, nearly tripling
   margins because games are self-service with zero variable costs

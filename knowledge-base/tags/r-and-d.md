@@ -5,4 +5,5 @@
 - `INS-260404-CCE7` ARM invests in chip designs eight years before they generate revenue, creating a depth of IP that fast-followers cannot shortcut.
 - `INS-260404-4320` AI collapses experimentation costs across deeptech by replacing early-stage lab work with in-silico simulation.
 - `INS-260403-CF09` Kodak, Nokia, and Blackberry were technologically innovative companies that died because they invested in product R&D without exploring new business models.
+- `INS-260410-44B7` Lock R&D at a fixed percentage of revenue through any business cycle so your technology leaders stop negotiating and start building.
 - `INS-260403-22D3` Test customer desirability cheaply before committing to expensive technology builds.

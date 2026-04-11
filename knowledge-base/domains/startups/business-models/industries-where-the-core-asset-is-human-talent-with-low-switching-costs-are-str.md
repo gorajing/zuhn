@@ -48,7 +48,6 @@ related:
   - INS-260403-DED8
   - INS-260327-9C00
   - INS-260324-6C83
-  - INS-260327-0053
 stance: >-
   When the product IS the person and that person can easily leave to start their
   own shop, no amount of capital, brand, or scale can consolidate the ...

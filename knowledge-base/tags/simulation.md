@@ -6,4 +6,5 @@
 - `INS-260403-CBB2` The inner voice handles working memory, simulation, self-control, and identity construction — chatter is when this system malfunctions.
 - `INS-260402-E7F7` The story's nested drug-induced lives create a situation where characters cannot determine if they are 'real' or simulated, making consistent moral behavior the only robust strategy.
 - `INS-260403-F76E` When AI agents simulate themselves with enough fidelity to reference real experiences and produce novel reflections, the line between performance and genuine selfhood becomes philosophically meaningless.
+- `INS-260410-C46E` With nine months of runway, Nvidia paid $1M for an unproven software chip emulator so they could ship a new GPU in six months instead of two years — and that six-month cycle became a decade-long structural advantage over competitors still on 18-24 month cycles.
 - `INS-260404-4320` AI collapses experimentation costs across deeptech by replacing early-stage lab work with in-silico simulation.

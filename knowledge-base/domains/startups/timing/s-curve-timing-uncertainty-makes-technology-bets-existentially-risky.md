@@ -54,7 +54,6 @@ stance: >-
   important and unpredictable variable in technology investment.
 related:
   - INS-260325-4846
-  - INS-260323-9EEC
   - PRI-260328-3C01
   - INS-260328-93C8
   - INS-260329-9DEE
@@ -63,6 +62,7 @@ related:
   - PRI-260407-A13C
   - INS-260330-38C9
   - INS-260403-3C2C
+  - INS-260403-A22E
 evidence:
   - id: INS-260321-9EBB
     type: SUPPORTS

@@ -52,11 +52,11 @@ stance: >-
 related:
   - INS-260322-98D2
   - INS-260322-B3D0
-  - INS-260327-8760
   - INS-260403-4717
   - INS-260409-8A36
   - PRI-260406-7F84
   - INS-260330-06CD
   - INS-260410-419F
+  - INS-260410-0F1C
 ---
 Lenny explicitly notes he passed on investing in PostHog early because he didn't think the all-in-one platform strategy would work. This is a textbook example of how experience in a domain can become a liability when evaluating companies that are trying to break from established patterns. The all-in-one vs. best-of-breed debate has historically favored best-of-breed in developer tools, so the prior was reasonable—but PostHog was executing well enough to overcome that conventional wisdom. The lesson for investors and advisors is that the strength of execution should carry more weight than the theoretical merit of the strategy. A strategy that 'shouldn't work' being executed exceptionally is often a signal of a genuinely different capability, not a naive founder.

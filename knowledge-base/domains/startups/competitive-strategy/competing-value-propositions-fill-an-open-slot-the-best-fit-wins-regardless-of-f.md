@@ -47,7 +47,7 @@ related:
   - INS-260403-3A44
   - INS-260404-D1E2
   - INS-260403-E1E0
+  - INS-260410-B2E3
   - INS-260403-93E7
-  - INS-260329-CBF3
 ---
 The 'open slot' metaphor reframes competition: each customer segment has a slot that will be filled by whichever value proposition best matches their specific jobs, pains, and gains. This means a product with fewer features can beat a feature-rich competitor if those features more precisely address high-intensity pains. The strategy canvas visualization — mapping competing value propositions on the same variables — makes this concrete. You can see exactly where you over-serve (wasted resources) and under-serve (vulnerability). This framing discourages the default startup behavior of adding features to match competitors and instead redirects energy toward deepening fit on the dimensions that matter most to the target segment.

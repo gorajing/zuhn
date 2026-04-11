@@ -54,6 +54,7 @@ related:
   - INS-260403-CD51
   - INS-260404-21E6
   - PRI-260328-D5EB
+  - INS-260410-F06E
 ---
 OpenAI's own head of startups warns that most AI companies are 'just demos' — feature-level AI capabilities get replicated quickly as foundation models improve and API costs drop. The real survival filter is pricing discipline combined with structural moats.
 

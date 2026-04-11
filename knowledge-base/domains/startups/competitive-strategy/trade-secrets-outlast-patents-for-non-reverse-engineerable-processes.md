@@ -63,11 +63,14 @@ stance: >-
 related:
   - INS-260402-1F58
   - INS-260402-086D
-  - INS-260403-04AF
   - INS-260409-9E95
   - INS-260410-4685
+  - INS-260410-52C8
+  - INS-260403-04AF
+  - INS-260410-E3E0
   - PRI-260406-28E1
   - INS-260410-270E
+  - INS-260410-020E
 ---
 Patents are a deal: you get a temporary monopoly in exchange for publishing your invention so others can build on it after the patent expires. For Coca-Cola, that deal would have been catastrophic. The formula was simple enough that any competent chemist could recreate it from a published patent, and the value of the brand depends on the perception that it's irreplaceable. So Coke chose the opposite path: keep the recipe out of every legal record, store it only in two people's heads, and build elaborate lore around it.
 

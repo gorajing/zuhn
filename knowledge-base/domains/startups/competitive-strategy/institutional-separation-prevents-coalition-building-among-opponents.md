@@ -50,10 +50,10 @@ stance: >-
   prevents them from unifying against the governing authority.
 related:
   - INS-260327-ABE5
+  - INS-260410-8EC3
   - INS-260403-583B
   - INS-260330-BBDA
   - INS-260410-CD75
-  - INS-260321-10FF
   - INS-260410-1D41
 evidence:
   - id: INS-260324-1C84

@@ -44,7 +44,6 @@ stance: >-
   direction outperforms hedged drift because it mobilizes the team and generates
   real feedback.
 related:
-  - INS-260404-0711
   - INS-260403-AAC8
   - INS-260403-C074
   - INS-260405-95CB

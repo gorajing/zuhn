@@ -53,7 +53,7 @@ related:
   - INS-260403-BAD7
   - INS-260329-C409
   - INS-260329-825D
-  - INS-260404-4146
+  - INS-260410-9168
 ---
 The process through which a SaaS company sells matters as much as its metrics. A structured competitive sale — where multiple qualified buyers are brought to the table simultaneously — consistently adds 1-2x ARR to the final multiple compared to a bilateral negotiation with a single buyer. On a $5M ARR business, that process gap alone represents $5-10M in additional enterprise value.
 

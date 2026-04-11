@@ -1,6 +1,6 @@
 # Topic: platform-dynamics
 
-> 21 insights
+> 22 insights
 
 - `INS-260403-A115` [high] McDonald's owns the land, charges 8.5-15% of sales as rent versus the industry norm of 6-10%, and can replace underperforming franchisees while keeping the appreciating asset.
 - `INS-260403-E71A` [high] Platform owners like Apple with iTunes function as tollbooths, not stores — they tax transactions rather than sell content, driving content prices to near-zero.
@@ -14,6 +14,7 @@
 - `INS-260405-D23E` [high] Platform builders should maximize developer access rather than try to anticipate use cases, because versatility produces emergent applications the platform creator never imagined.
 - `INS-260403-C1E9` [high] Software is too complex and iterative for a publisher-intermediary model that works for music or books.
 - `INS-260403-8A29` [high] Startup culture spreads slowly because it requires societies to tolerate the social disruption of flattening hierarchies.
+- `INS-260410-A2D3` [high] In marketplaces with fragmented supply, each new supplier becomes both a marketing asset and a conversion improvement, making supply-led growth a compounding moat.
 - `INS-260403-8FC1` [medium] The creator economy startup field is shrinking but surviving companies are in a healthier competitive position than during the boom.
 - `INS-260403-15DD` [medium] When millions of non-engineers ship custom AI software, the infrastructure layer (deployment, security, discovery) becomes the dominant value capture point.
 - `INS-260404-B475` [medium] VDC exploits delivery app radius limits by dispersing partner kitchens to cover entire cities algorithmically.

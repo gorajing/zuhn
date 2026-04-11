@@ -46,10 +46,10 @@ resolutions:
     itself.
 related:
   - INS-260322-8D47
+  - INS-260410-DED5
   - PRI-260406-BE21
   - INS-260403-3F10
   - INS-260329-776B
-  - INS-260326-870E
   - INS-260329-CBF3
   - INS-260405-E2F2
 stance: >-

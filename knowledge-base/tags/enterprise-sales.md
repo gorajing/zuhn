@@ -3,9 +3,9 @@
 - `INS-260327-6B78` Anthropic's enterprise sales targets two distinct buyers: developers/CPOs who consume the API and Chief AI Officers who manage model portfolios — with the majority of the Fortune 500 now having someone in the latter role.
 - `INS-260402-ECD2` In hierarchical markets, winning one apex customer (e.g., a top law firm) cascades credibility and adoption downstream more effectively than scaling from the bottom up.
 - `INS-260327-C54D` Large enterprises like government, oil/gas, and airlines are now buying AI faster than digital natives because board pressure ('what's your AI strategy?') creates top-down urgency that bypasses careful testing cycles.
+- `INS-260405-0F47` Hospital pharmacy director presented a $3M/year savings product three times before financial committees would approve it.
 - `INS-260410-8C24` Microsoft sold to the enterprise by leveraging the fact that employees had already smuggled Excel and Word into their offices personally — turning employee love into the wedge for top-down enterprise deals.
 - `INS-260403-B610` Canva built a $2B revenue engine by layering enterprise sales on top of a massive freemium user base rather than pivoting away from it.
-- `INS-260405-0F47` Hospital pharmacy director presented a $3M/year savings product three times before financial committees would approve it.
 - `INS-260402-A22C` After a VC partner buys in, shift from pitching mode to collaborative mode — help them tailor the pitch for their partnership meeting.
 - `INS-260403-18F7` Startups that automate compliance (like Delve doing SOC 2 in 15 hours vs. months) win by directly unblocking stalled enterprise sales pipelines.
 - `INS-260327-4754` Arora warns that cybersecurity founders who form customer advisory councils too early get steered toward speeds-and-feeds features instead of building complete products.
@@ -20,6 +20,7 @@
 - `INS-260328-A666` At companies like Palantir, the CEO doesn't delegate deal origination — the sales team is built as a multiplier around the founder.
 - `INS-260403-11CC` Map every stakeholder type and craft distinct messaging for each before entering a deal.
 - `INS-260330-760D` Build products that sell themselves through user adoption, then add sales to help enterprises navigate deployment and competitive decisions.
+- `INS-260410-3832` Enterprise customers want to know everything is secure, everything is well-managed, everything is paid for, there's someone to call when things break, and they won't look bad for paying too much or missing a license — the bundle is the insurance policy.
 - `INS-260327-CBBB` With pipeline down 47%, deal values down 32%, sales cycles up 32%, and 33% more stakeholders involved, the era of FOMO-driven buying is over — champions now fear messing up more than missing out, so sellers must de-risk rather than create urgency.
 - `INS-260327-9C00` Pre-PMF sales is fundamentally entrepreneurial -- it requires the founder's vision, domain expertise, and conviction, which no hired sales rep can replicate.
 - `INS-260327-9AD8` Optimizely closed six-figure deals where customers never ran a single A/B test because they treated implementation as the customer's job -- the fix was project-managing implementation like a high-priority internal project.

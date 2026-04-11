@@ -54,7 +54,6 @@ stance: >-
   capture AI's latent enterprise value when 95% of outside-in pilots fail.
 related:
   - INS-260327-B357
-  - INS-260330-7F62
   - INS-260405-77C9
   - INS-260327-7F73
   - INS-260330-809A

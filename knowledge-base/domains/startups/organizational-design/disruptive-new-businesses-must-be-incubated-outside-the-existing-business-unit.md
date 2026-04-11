@@ -51,9 +51,9 @@ stance: >-
   unit or it will be killed.
 related:
   - INS-260330-C825
+  - INS-260410-8EC3
   - INS-260330-27E8
   - INS-260410-899C
   - INS-260404-96E6
-  - PRI-260324-7ED9
 ---
 Ray Ozzie and Dave Cutler built the original Azure (Red Dog) as a secret project outside any existing Microsoft division. Logically it should have lived inside Server & Tools, the group that made Windows Server — but that group's entire go-to-market motion ran through Accenture and value-added resellers who sold on-prem deployments, and every employee's KPI was tied to selling Windows Server licenses to end customers. Building a cloud service that ran Windows Server for customers instead of selling it to them would have zeroed out every compensation target in the division. This is a generalizable rule: if a new initiative's success requires the incumbent business unit to hurt its own numbers, the incubation must happen outside that org, with air cover from the CEO and a separate P&L. Once the new business is proven, you can re-integrate it — Azure was folded back into Server & Tools only after Ballmer publicly declared 'we are all in' and replaced the division head.

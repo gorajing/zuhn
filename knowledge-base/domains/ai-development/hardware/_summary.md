@@ -1,12 +1,13 @@
 # Topic: hardware
 
-> 12 insights
+> 13 insights
 
 - `INS-260410-4696` [high] An H100 is worth more today than three years ago because the models it runs generate far more value per token than GPT-4 did, and you can't just buy a Rubin instead.
 - `INS-260410-AA40` [high] Matrix multiplication (N³ compute, N² data) is the perfect shape for hardware where arithmetic is cheap and data movement is expensive, so deep learning was destined to win once TPUs filled the chip with arithmetic units.
 - `INS-260410-101D` [high] China adds a France-or-UK-sized power grid every year; their strategic bet on cheap abundant electricity positions them to deploy more AI than anyone once the model matters less than how many you can run.
 - `INS-260410-E6E8` [high] Nadella identifies the Majorana 1 achievement as dual — both physics existence proof AND a repeatable fabrication technique — and treats the fabrication half as the precondition for everything that follows.
 - `INS-260410-3C37` [high] Flash Attention does MORE floating-point operations than vanilla attention yet runs 7.6x faster, because it avoids materializing the T×T attention matrix in HBM.
+- `INS-260410-CB70` [high] LLM training is memory-bandwidth-bound: modern AI requires treating an entire data center as one computer with ultra-fast interconnects and 2.5D-stacked memory adjacent to compute.
 - `INS-260410-7C07` [high] Drill past GPUs, past power plants, past turbines, and you find three casting companies making vanes and blades — the real ceiling on AI infrastructure through 2030.
 - `INS-260410-41EF` [high] Microsoft bet 30 years on topological qubits because Nadella believed reliable utility-scale quantum demanded a physics breakthrough, not incremental noise reduction.
 - `INS-260405-55E0` [medium] AI hardware devices are flopping because the differentiated value in AI lives in software, not physical form factors.

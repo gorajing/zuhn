@@ -50,10 +50,10 @@ stance: >-
   achievements historically have come later in life.
 related:
   - INS-260327-32F1
+  - INS-260410-2AF4
   - INS-260327-2021
   - INS-260329-7D18
   - INS-260327-7846
-  - INS-260410-BE5A
 evidence:
   - id: INS-260327-32F1
     type: SUPPORTS

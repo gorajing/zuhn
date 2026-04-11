@@ -46,9 +46,10 @@ related:
   - INS-260403-427E
   - INS-260403-9E2D
   - PRI-260406-E015
+  - INS-260410-52C8
   - INS-260404-397F
+  - INS-260410-E3E0
   - INS-260403-FF7E
-  - INS-260322-019A
   - INS-260403-11F9
 stance: >-
   AI creates the greatest period of business disruptability in history, making

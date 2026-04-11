@@ -16,6 +16,7 @@
 - `INS-260325-C2DA` During mass events like 9/11 or COVID-19, social contagion and affective forecasting bias make people unable to imagine their distress is temporary — this 'resilience blind spot' leads to overestimating lasting damage.
 - `INS-260405-2CDB` The urge to perfect before testing is driven by fear of invalidation, not by logic.
 - `INS-260402-575D` Ten or more reviews override humans' innate preference for similar people, unlocking cross-demographic trust in marketplaces.
+- `INS-260410-0F85` Benchmark deliberately bans memos because writing one forces you to fill in blanks the founder never said and pre-sells the group before they can see the founder raw.
 - `INS-260405-AA3C` A VC's internal portfolio study is a mirror of their own biases, not a market study.
 - `INS-260330-2576` Users will say 'yes that sounds great' to almost any feature idea, but that enthusiasm rarely translates to actual switching behavior.
 - `INS-260403-D4F0` Verbal agreement from potential users is not evidence of demand; only observed behavior counts.

@@ -1,6 +1,6 @@
 # Topic: sales
 
-> 183 insights
+> 185 insights
 
 - `INS-260329-7B47` [high] Send 100 personalized outreach messages daily using a compliment-plus-positioning formula to guarantee your first five customers through pure volume.
 - `INS-260327-1B7C` [high] Data from MEDDIC CRM software shows over 80% of won deals had economic buyer engagement while 80% of lost deals lacked it — the correlation is overwhelming.
@@ -44,6 +44,7 @@
 - `INS-260327-0E57` [high] SMB: easy to motivate (direct access to power), hard to enable (limited resources). Enterprise: hard to motivate (risk-averse, slow, process-heavy), easier to enable once committed.
 - `INS-260403-11CC` [high] Map every stakeholder type and craft distinct messaging for each before entering a deal.
 - `INS-260330-760D` [high] Build products that sell themselves through user adoption, then add sales to help enterprises navigate deployment and competitive decisions.
+- `INS-260410-3832` [high] Enterprise customers want to know everything is secure, everything is well-managed, everything is paid for, there's someone to call when things break, and they won't look bad for paying too much or missing a license — the bundle is the insurance policy.
 - `INS-260328-070D` [high] Nine times out of ten, what founders dismiss as consulting is actually a chance to deeply learn the problem space and build a moat.
 - `INS-260327-A903` [high] Don't say 'love what you're doing at [Company]' -- find specific things you uniquely have in common with the recipient (same college building, used their specific product feature, niche shared interest) to create real connection.
 - `INS-260329-3392` [high] Your first paying customers are people who already know you — reach out to them directly before spending on acquisition channels.
@@ -108,6 +109,9 @@
 - `INS-260327-5688` [high] Sales is 80% the conviction of your voice and energy when discussing your product -- people buy your eyes, your passion, and your belief before they buy features.
 - `INS-260329-116A` [high] Sales objections are psychological distortions of reality that map to Albert Ellis's three core CBT distortions: circumstances, others, and self.
 - `INS-260327-2608` [high] Sales managers hiring SDRs look for hard work, coachability, and team orientation — candidates with zero experience but these traits consistently outperform experienced hires who lack them.
+- `INS-260410-126F` [high] James Hamilton's first S3 dev/test bill was $3.08, then $0.07 the next month — an economic event impossible under any traditional enterprise sales motion, and the reason Dropbox, Instagram, Airbnb, and Uber were all born on AWS.
+
+
 - `INS-260329-75B6` [high] Keep your sales pitch under 3 minutes and describe only what the customer will experience, not how you'll deliver it.
 - `INS-260329-D159` [high] Hormozi argues you should never sell tutoring hours — you sell the score increase and the downstream earning premium of attending a better school.
 - `INS-260329-B194` [high] Allen's breakthrough came from selling to agencies (who each had 50+ SMB clients) rather than individual small businesses, turning one pitch into a thousand customers.

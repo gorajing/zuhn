@@ -1,6 +1,6 @@
 # Topic: innovation
 
-> 131 insights
+> 132 insights
 
 - `INS-260405-EFC2` [high] C invented the curly-brace, semicolon syntax that now defines how billions of developers write code — its design choices became the assumed defaults of most successor languages.
 - `INS-260404-4320` [high] AI collapses experimentation costs across deeptech by replacing early-stage lab work with in-silico simulation.
@@ -55,6 +55,7 @@
 - `INS-260405-911F` [high] Newton described the Magnus effect in the 1600s; Flettner rotors only reached commercial shipping in the 21st century — a 400-year lag from observation to deployment.
 - `INS-260404-C92A` [high] Large companies must run parallel cultures — one for executing known business models and one for exploring new ones through rapid experimentation.
 - `INS-260404-BFAB` [high] Compliance processes designed for operational protection create multi-month bottlenecks that kill lean experimentation cycles.
+- `INS-260410-DF70` [high] Standard Oil couldn't legally own property across state lines, so Flagler invented the trust structure — not a product, not a technology, just a corporate form that let one entity control the entire national industry.
 - `INS-260403-BDCC` [high] Fund internal innovation projects in tranches tied to evidence, not annual lump-sum budgets.
 - `INS-260403-4CD0` [high] Innovation programs stall at middle management, not the C-suite — busy managers with full plates resist adding new methodologies.
 - `INS-260403-8D2C` [high] New business model creation follows a search loop of hypothesis-test-pivot, not a linear execution plan.

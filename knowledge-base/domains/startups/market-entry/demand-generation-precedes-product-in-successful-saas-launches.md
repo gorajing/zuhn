@@ -49,6 +49,6 @@ related:
   - INS-260403-832E
   - INS-260322-A02C
   - INS-260404-2032
-  - INS-260403-99B1
+  - INS-260410-0E77
 ---
 The conventional SaaS sequence — build for months, then promote — treats launch as a standing start. Claire's inverted sequence treats launch as a harvest: Lara Costa spent three years accumulating LinkedIn content and a waiting list, so day-one revenue came from thousands of people already primed to buy. The $30K-in-4-days headline is a symptom of distribution built before code, not of the product shipping faster or being better. Founders who feel 'behind on marketing' at launch have already lost the leverage that compounds during the months before a product exists. The decision point is not how to market a finished product but whether to begin accumulating audience years before writing a spec.

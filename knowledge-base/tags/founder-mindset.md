@@ -8,6 +8,7 @@
 - `INS-260329-577E` When money arrives faster than feels normal, it indicates a large value gap has been identified — the correct response is to scale, not to question legitimacy.
 - `INS-260320-E044` Shelter early ideas from smart skeptics — conventional wisdom about what won't work is based on different products. Think of your idea as a seed that needs protection to sprout.
 - `INS-260328-9574` People reach for process when a recurring problem scares them or when they're doing something for the first time — it provides comfort even when it doesn't improve the output.
+- `INS-260410-2AF4` Jensen Huang and Mark Zuckerberg both confirm that if they could compress 30 years of pain and hardship into a 29-year-old's brain, neither would have started their company — the entrepreneurial superpower is partly ignorance of how hard things are.
 - `INS-260323-F9AC` Great achievers across history share one trait: they know their demons intimately and channel them into drive rather than letting those demons destroy them or pretending they don't exist.
 - `INS-260403-F0D4` Replace 10-year visions with 90-day micro-ambitions that stack and reveal new ceilings you couldn't previously see.
 - `INS-260405-BA7F` The instruction 'aim to make more than you take' reframes profit as a consequence of genuine usefulness, not a target to optimize for directly.

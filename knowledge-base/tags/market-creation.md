@@ -9,3 +9,4 @@
 - `INS-260403-B6A0` Making something dramatically cheaper doesn't just expand the existing market—it creates qualitatively new use cases, as seen from Roman water mills to personal computers.
 - `INS-260403-1AE5` New markets have no existing demand to capture, so spending on acquisition before the tipping point burns cash with no proportional return.
 - `INS-260403-A6AF` A repeatable five-step pattern (technology → cost collapse → democratization → new industries → power reshuffle) has predicted every major transportation-driven economic transformation in history.
+- `INS-260410-E5EA` Morris Chang bet TSMC on fabless startups that didn't exist yet because he'd watched chip designers inside TI be trapped by the capex wall of owning a fab.

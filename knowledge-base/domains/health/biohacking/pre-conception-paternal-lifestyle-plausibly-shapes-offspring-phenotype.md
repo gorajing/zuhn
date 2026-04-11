@@ -59,8 +59,8 @@ related:
   - INS-260403-68CE
   - PRI-260406-6574
   - INS-260325-55D8
+  - INS-260410-614E
   - PRI-260406-CA93
-  - INS-260403-E554
 ---
 While direct human confirmation is pending, the 2025 exercise study in mice shows a clean causal chain: paternal training produces specific sperm microRNAs that alter offspring metabolic and muscle phenotypes. Earlier mouse work on diet, stress, and toxins supports a general pattern where paternal state signals forward via RNA.
 

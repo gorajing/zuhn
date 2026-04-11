@@ -60,7 +60,6 @@ stance: >-
 related:
   - INS-260324-40AA
   - INS-260327-CC35
-  - INS-260327-F6BA
   - INS-260327-85EB
   - INS-260327-747B
   - INS-260329-1A3B
@@ -68,6 +67,7 @@ related:
   - INS-260403-04C9
   - INS-260404-B407
   - INS-260403-C349
+  - INS-260405-B11B
 ---
 When Sam Walton saw discounting working and went back to Butler Brothers asking them to partner on a back-end for the new model, they said no. From their seat it was the rational move: adopting Walton's proposal would have destroyed the 25% markup they were charging every other Ben Franklin franchisee. Every dollar of Walton-aligned revenue would have been a multi-dollar loss from alienated franchisees. They signed their own death warrant by protecting current revenue.
 

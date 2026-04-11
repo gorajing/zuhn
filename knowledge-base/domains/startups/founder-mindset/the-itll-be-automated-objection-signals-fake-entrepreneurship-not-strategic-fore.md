@@ -49,8 +49,8 @@ related:
   - INS-260323-C4E2
   - INS-260327-39D4
   - INS-260330-70BF
+  - INS-260410-2AF4
   - INS-260327-FCCF
   - INS-260402-27A1
-  - PRI-260403-26B9
 ---
 Gary Vee draws a sharp line: the same objection ('why start, Google will copy it') was made in 2005-2009 in Silicon Valley and was wrong then for the same reason it's wrong now. Real entrepreneurs don't stop because execution risk exists — they treat the work as skill accumulation that sets up the next venture, and they have no alternative mode because they literally don't know how to do anything else. If hearing 'your idea might be automated' makes you want to quit, the signal isn't that the market is bad — the signal is that you're a fake entrepreneur who would be happier as the seventh employee at Facebook or a podcaster. The actionable move is honest self-assessment before committing, not abandoning projects mid-stream.

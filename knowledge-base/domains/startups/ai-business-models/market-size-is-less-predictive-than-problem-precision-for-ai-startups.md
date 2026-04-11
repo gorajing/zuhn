@@ -50,7 +50,7 @@ related:
   - INS-260403-6ACB
   - PRI-260406-D106
   - INS-260409-BF3F
+  - INS-260410-9168
   - PRI-260406-6F52
-  - INS-260330-D5BD
 ---
 Founders are taught to chase TAM, but TAM is only meaningful conditional on actually solving the problem. A precisely solved problem in a 500M KRW market creates monopoly economics within that niche; an approximately solved problem in a trillion-KRW market creates commodity economics. In the AI era, the founders who win are not those who picked the biggest market but those who picked the narrowest problem they could solve exactly. Only after that does market size matter — and by then the precision has already produced pricing power.

@@ -48,6 +48,6 @@ related:
   - INS-260328-7942
   - PRI-260405-2DE5
   - PRI-260403-52DF
-  - INS-260329-444F
+  - INS-260410-DED5
 ---
 Itzler's framing inverts the usual framing of experience-as-capital. If you've never been taught how to acquire customers, write contracts, or design business cards for your industry, your solutions will inevitably look different from the incumbents' — and different is the precondition for disruption. Experience imports a prior that collapses the solution space onto the industry's median. The caveat: this only works if 'different' is paired with 'better' on some dimension the customer cares about. Blind ignorance isn't sufficient; the founder must still iterate rigorously. But for contested markets where the incumbents all converge on the same playbook, inexperience functions as a forced originality constraint.

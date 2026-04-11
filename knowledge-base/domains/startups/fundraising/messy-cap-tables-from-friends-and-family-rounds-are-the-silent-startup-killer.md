@@ -54,8 +54,8 @@ related:
   - PRI-260406-9226
   - INS-260404-4682
   - INS-260403-402F
+  - INS-260410-AFB9
   - PRI-260406-2B0E
-  - INS-260327-8682
 ---
 Cap table messiness is an underappreciated failure mode because it's invisible until a founder tries to raise institutional capital. When a VC's lawyer reviews your cap table and finds ten micro-investors with inconsistent terms, unclear ownership stakes, and no standardized documentation, the cost of due diligence alone can kill the deal. Lead investors at Series A have been known to walk away from otherwise promising startups simply because cleaning up early-round inconsistencies would delay closing.
 

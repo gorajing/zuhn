@@ -53,7 +53,8 @@ related:
   - INS-260403-9421
   - PRI-260406-04DB
   - INS-260405-2F43
-  - INS-260323-F9E5
+  - INS-260410-2AF4
+  - INS-260410-CE39
 ---
 Builder-investor Greg Isenberg published an essay in early 2024 arguing it was the best time to start a company in 30 years. The underlying logic centers on AI tools that collapse the cost of software development, content creation, and customer acquisition — tasks that previously required teams now require individuals or small groups. The asymmetry between cost-to-build and potential market size has shifted dramatically in founders' favor.
 

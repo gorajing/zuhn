@@ -51,7 +51,6 @@ related:
   - PRI-260328-9C71
   - PRI-260406-EBDB
   - INS-260404-F38A
-  - INS-260323-7B63
 stance: >-
   AI differentiation is not the same as defensibility — the moat comes from
   owning the end-to-end workflow and becoming the system of record.

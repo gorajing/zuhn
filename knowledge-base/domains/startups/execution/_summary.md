@@ -1,6 +1,6 @@
 # Topic: execution
 
-> 277 insights
+> 281 insights
 
 - `INS-260329-FCF2` [high] Doing 10-100x more volume beats 2x optimization, but you must relearn this lesson independently in each new domain you enter.
 - `INS-260403-FED1` [high] YC's batch funding model — its most important innovation — was adopted not strategically but because a summer program seemed like the fastest way to learn angel investing.
@@ -61,6 +61,7 @@
 - `INS-260402-E22E` [high] As institutions lose gatekeeping power, more individuals access superlinear returns but outcomes become more unequal.
 - `INS-260327-0004` [high] Nota AI started in 2015 but only generated significant revenue from 2023 -- they survived 7-8 years of market mismatch by maintaining conviction that their AI model optimization technology would eventually be needed.
 - `INS-260403-E4DD` [high] Fragmented financial tracking across multiple tools creates version control chaos and mismatched assumptions that unravel during investor due diligence.
+- `INS-260410-8EC3` [high] Azure wasn't started inside Server & Tools — it was incubated under Ray Ozzie with Dave Cutler, separate from the group whose business it would reshape; Windows NT was separated from Windows for the same reason.
 - `INS-260403-9680` [high] Hedging your startup with grad school, consulting, or side projects is functionally equivalent to quitting.
 - `INS-260327-7CE9` [high] Build the hardest part first while you're most motivated—dancing around easy features kills momentum.
 - `INS-260330-7CC0` [high] Manually doing every job in your startup — delivery, support, dispatch — gives founders the operational insight needed to build the right automated systems later.
@@ -72,6 +73,7 @@
 - `INS-260329-4E70` [high] The boring middle is a feature of ambitious paths, not a signal to pivot.
 - `INS-260326-7B2A` [high] If you can't hire someone smarter than you, do the work yourself — early hires set the talent bar that attracts or repels all future candidates.
 - `INS-260327-A608` [high] Great products start by identifying real problems, not by showcasing technology capabilities.
+- `INS-260410-C46E` [high] With nine months of runway, Nvidia paid $1M for an unproven software chip emulator so they could ship a new GPU in six months instead of two years — and that six-month cycle became a decade-long structural advantage over competitors still on 18-24 month cycles.
 - `INS-260330-C499` [high] The early phase of exponential growth feels unrewarding because humans intuitively underestimate how steep the curve becomes.
 - `INS-260329-B4F5` [high] What makes results extraordinary is not the nature of the action but the extraordinary duration of commitment to doing ordinary things.
 - `INS-260327-125F` [high] At one point his bank account was under $100 and he lived in a tiny room with mice — that willingness to endure extreme frugality gave Presto the runway to survive 5 years with zero revenue.
@@ -121,6 +123,7 @@
 - `INS-260329-B2BE` [high] Calculus proves that profit is maximized where marginal cost equals marginal revenue, not where total profit looks largest.
 - `INS-260329-ADCD` [high] Calculus formalizes the business intuition that optimal scale is where the cost of the next unit equals the revenue it generates.
 - `INS-260327-C75F` [high] The iPhone and AWS completely eliminated the P2P CDN value proposition by reducing bandwidth costs and changing how people consumed video.
+- `INS-260410-9168` [high] Uber's matching and pricing algorithms improve marketplace throughput ~5% annually, and on a $130B run rate that compounding eventually dwarfs any discrete strategic initiative.
 - `INS-260330-6F7B` [high] You need both measurement (your output is trackable) and leverage (your decisions multiply impact) to generate outsized wealth.
 - `INS-260403-D746` [high] Meeting damage extends far beyond the meeting itself through anticipation and fragmentation of work blocks.
 - `INS-260403-52C4` [high] Partially working features that resist deprecation due to sunk cost create more cumulative drag than outright failures that get quickly killed.
@@ -195,6 +198,7 @@
 - `INS-260330-A3B7` [high] Testing baseline → single unit → stacked units in sequence reveals the failure mode at each stage, which a single end-state test would obscure.
 - `INS-260330-B50A` [high] Inconsistent results in complex systems require isolating variables rather than guessing at causes.
 - `INS-260403-648C` [high] Before reaching for any tool, ask whether the task should exist at all — only then design the system, then automate.
+- `INS-260410-F06E` [high] Spotify's internal mantra is 'talk is cheap' — they spend deliberate time game-theorizing because their dependency on labels means any change takes 1-2 years to license, so being right matters more than being fast.
 - `INS-260404-F48F` [high] Improve team performance by working up the stack: first nail execution clarity, then strategic coherence, then vision alignment.
 - `INS-260330-3A0D` [high] Silk Road was only possible because Tor (anonymity) and Bitcoin (untraceable payments) matured at the same time — Ross had the marketplace idea for years but couldn't execute until Bitcoin solved the payment problem in 2010.
 - `INS-260330-7F62` [high] A YC company's Connecticut LLC-to-Delaware conversion was done incorrectly by local lawyers, requiring four law firms and $500K to fix years later during a major fundraise.

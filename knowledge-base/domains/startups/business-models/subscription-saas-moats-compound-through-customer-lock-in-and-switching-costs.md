@@ -51,11 +51,11 @@ stance: >-
   than transactional or advertising-based models because of high switching costs
   and deep workflow integration.
 related:
+  - INS-260410-52C8
   - INS-260403-26D4
   - INS-260404-397F
   - PRI-260406-28E1
   - INS-260404-007F
-  - INS-260403-7841
   - INS-260404-433E
   - INS-260410-DA0E
 ---

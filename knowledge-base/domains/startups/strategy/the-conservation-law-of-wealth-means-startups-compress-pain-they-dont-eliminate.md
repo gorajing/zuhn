@@ -52,11 +52,11 @@ stance: >-
   all-or-nothing payoff distribution means most founders get zero
 related:
   - INS-260320-C56D
+  - INS-260410-2AF4
   - PRI-260406-9DD4
   - INS-260403-6184
   - INS-260330-E39E
   - PRI-260407-2DBD
-  - INS-260403-1B96
   - INS-260323-E559
 evidence:
   - id: INS-260323-E559

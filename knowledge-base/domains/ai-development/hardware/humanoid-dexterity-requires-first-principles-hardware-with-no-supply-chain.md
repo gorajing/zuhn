@@ -58,7 +58,6 @@ stance: >-
   and solving it requires custom actuators designed from physics first
   principles because no supply chain exists.
 related:
-  - INS-260409-FC9A
   - INS-260403-2E12
   - PRI-260328-C528
   - PRI-260328-7007

@@ -3,10 +3,10 @@
 - `INS-260322-6088` The current alignment paradigm of steering/control is appropriate for tool-like AI but becomes morally equivalent to slavery when applied to general intelligence — the only good outcome is AI that genuinely cares about us.
 - `INS-260323-133A` Editing your own cells (somatic) affects only you; editing embryos (germline) permanently changes all future descendants — a fundamentally different ethical calculus.
 - `INS-260405-C592` When people can choose different enhancements, humans a century from now may differ from each other more than any two people differ today — creating cooperation problems no institution currently exists to solve.
+- `INS-260410-B2A6` Kashmir, Korea, and Palestine all show the same dynamic: an outside power funds an insurgency to 'pin' a rival, the rival gets frozen from acting elsewhere, and the population bears horrendous deaths and zero growth for decades while the patron pays nothing.
+- `INS-260405-4423` The most successful investors are disproportionately the most ethical — not coincidentally.
 - `INS-260330-0764` Simply counting casualties without weighing intentions produces morally incoherent judgments about who is in the right.
 - `INS-260330-F8B6` The same culture can move from celebrating lynchings to prosecuting war crimes within generations, proving moral progress is real but unevenly distributed.
-- `INS-260405-4423` The most successful investors are disproportionately the most ethical — not coincidentally.
-- `INS-260410-B2A6` Kashmir, Korea, and Palestine all show the same dynamic: an outside power funds an insurgency to 'pin' a rival, the rival gets frozen from acting elsewhere, and the population bears horrendous deaths and zero growth for decades while the patron pays nothing.
 - `INS-260330-15AE` Cynics excuse their own bad behavior by projecting it as universal, making cynicism a trust signal.
 - `INS-260330-6D13` Treating all sides as morally equal regardless of their demonstrated ethical norms is a failure of moral reasoning, not balanced thinking.
 - `INS-260410-1898` We've made dogfighting and cockfighting felonies while permitting identical practices on 10 billion factory-farmed animals — a five-orders-of-magnitude blind spot driven by scope insensitivity, not genuine moral reasoning.

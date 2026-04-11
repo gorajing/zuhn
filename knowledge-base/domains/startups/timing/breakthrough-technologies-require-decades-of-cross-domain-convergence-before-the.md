@@ -55,7 +55,7 @@ related:
   - INS-260323-189B
   - INS-260323-2F50
   - PRI-260328-3C01
-  - INS-260330-9346
+  - INS-260410-020E
 stance: >-
   EUV lithography took 30 years from Kinoshita's 1983 proof-of-concept to ASML's
   commercial machine because it required convergence of nuclear fusion...

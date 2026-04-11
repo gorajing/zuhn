@@ -55,9 +55,9 @@ stance: >-
 related:
   - INS-260409-7C61
   - INS-260330-608C
+  - INS-260410-D3D8
   - PRI-260406-58FA
   - INS-260410-022B
-  - PRI-260406-3317
   - INS-260410-7687
 ---
 This is the clearest public statement by Berkshire's CEO acknowledging that the 19.7% 60-year CAGR cannot continue at scale. The math: at $1 trillion of equity, a 20% return means finding investments that add $200B/year in value; at that scale, the universe of available opportunities is small and crowded with other megacap buyers. Berkshire's past returns came from a period when it was small enough to buy small businesses whose 20%+ returns could meaningfully move the needle. Today, even an acquisition like OxyChem (a substantial chemicals business) adds only marginal per-share value because the denominator is so large. The honest framing — 'we expect progress in smaller increments' — is unusual. Most large-cap operators promise continued historical growth to avoid shareholder disappointment. Berkshire is comfortable telling shareholders the truth because its long-term owner base is selected FOR patience with lower returns. The general lesson: size is the enemy of returns, and any investor buying a scaled compounder should use a much lower expected return than the trailing history suggests.

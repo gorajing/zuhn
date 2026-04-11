@@ -51,12 +51,11 @@ stance: >-
   rebates) creates structural cost advantages that compound over time and enable
   price wars competitors cannot survive.
 related:
-  - INS-260330-E853
+  - INS-260410-DF92
   - INS-260330-E4B6
   - PRI-260406-487A
   - INS-260403-7DEC
   - INS-260409-571B
-  - INS-260403-5D89
 ---
 Rockefeller's most powerful competitive weapon wasn't his product — it was his cost structure. When the Pennsylvania Railroad abandoned Cleveland, the remaining railroads (Erie and New York Central) desperately needed business. Rockefeller exploited this desperation to negotiate 50-75% discounts on shipping rates that competitors never knew about. This created an invisible structural advantage: he could trigger price wars knowing his competitors were paying 2-4x more for transportation on the same trains.
 

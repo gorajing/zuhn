@@ -51,11 +51,11 @@ stance: >-
   companies by age 29, suggesting traditional hiring filters systematically
   reject high-potential founders.
 related:
+  - INS-260410-2AF4
   - PRI-260406-2B11
   - PRI-260328-B11D
   - INS-260403-DC59
   - PRI-260406-9EF7
-  - INS-260403-6D4F
 ---
 A study of 25 founders who built multi-billion dollar companies before age 30 found recurring patterns that conventional screening would reject: childhood hardship, neurodivergence, and eclectic rather than focused interests. This challenges the pattern-matching that dominates both venture capital and corporate hiring.
 

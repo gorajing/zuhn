@@ -50,13 +50,14 @@ stance: >-
   more investor trust than those who spin perfect narratives
 related:
   - INS-260323-CF27
-  - INS-260402-7FCC
   - INS-260403-AFCD
   - INS-260402-994D
+  - INS-260402-7FCC
   - INS-260403-4960
   - PRI-260406-2576
   - INS-260326-C692
   - INS-260409-07ED
+  - INS-260410-3832
 ---
 VCs deliberately stress-test the weakest parts of your business — that's their job. Many founders instinctively get defensive or try to spin problems into strengths, which backfires because investors pattern-match this to founders who can't face reality.
 

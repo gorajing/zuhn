@@ -53,7 +53,6 @@ stance: >-
   operating culture intact to the next generation of leaders.
 related:
   - INS-260325-C884
-  - INS-260327-DCA9
   - INS-260328-C2CB
   - INS-260330-DA38
   - INS-260330-1EAC

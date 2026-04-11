@@ -61,6 +61,7 @@ related:
   - INS-260403-0A1C
   - INS-260405-6387
   - INS-260330-1F41
+  - INS-260410-AFB9
 ---
 Standard meeting formats have a structural bias: they reward speed of response and comfort with verbal assertion, which systematically underweights input from introverted team members who may have the deepest analysis. Cain recommends managers use round-robin formats or collect written ideas before meetings to equalize participation.
 

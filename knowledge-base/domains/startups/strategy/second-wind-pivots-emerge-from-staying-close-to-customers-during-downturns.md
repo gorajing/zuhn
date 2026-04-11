@@ -50,7 +50,6 @@ stance: >-
   originate from direct customer proximity rather than top-down strategic
   analysis
 related:
-  - INS-260403-CEBA
   - INS-260409-D681
   - INS-260403-3D38
   - PRI-260406-CCAE

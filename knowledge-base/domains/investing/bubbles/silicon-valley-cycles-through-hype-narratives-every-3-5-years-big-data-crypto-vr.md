@@ -47,7 +47,7 @@ related:
   - INS-260330-D808
   - INS-260327-7265
   - INS-260403-572C
-  - INS-260410-83CF
+  - INS-260410-3D3B
 stance: >-
   Before AI it was big data, before that crypto/web3, before that VR/AR, before
   that IoT/wearables

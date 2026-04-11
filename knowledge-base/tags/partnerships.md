@@ -8,6 +8,7 @@
 - `INS-260403-DAB9` Early partners in defense-industrial buildups shape the standards and procurement pathways that become barriers to entry for latecomers.
 - `INS-260403-E482` Yahoo rejected Google's $1M/year search deal and later a $3B acquisition because accepting either would acknowledge Google's technology was superior.
 - `INS-260327-EAB0` Nvidia's 'win-win' culture positions its success as customer success rather than competitor failure, creating ecosystem lock-in through expansion rather than extraction.
+- `INS-260410-090B` Never co-develop your core technology as a junior partner — you trade short-term access for the permanent loss of your own development capability.
 - `INS-260403-DAB3` Monitor large M&A deals facing regulatory scrutiny and position your startup as a solution to the acquirer's competition concerns.
 - `INS-260403-9DA1` Destin's fluid dynamics knowledge combined with David's motion control engineering made a previously impossible recreation achievable.
 - `INS-260402-910C` Big launches and partnerships appeal to founders because they promise scale without the emotional labor of individual recruitment, but they almost never work.

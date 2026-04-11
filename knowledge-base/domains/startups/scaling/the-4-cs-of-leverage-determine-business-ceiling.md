@@ -44,7 +44,6 @@ stance: >-
   Collaboration, Capital, Code, and Content — and the sequence matters more than
   any individual lever.
 related:
-  - INS-260321-2F43
   - INS-260329-CB6D
   - INS-260329-33D4
   - INS-260403-0240

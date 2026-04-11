@@ -3,6 +3,8 @@
 - `INS-260321-53E2` All AI computation is matrix multiplication (word relationships scored as points in matrices) — Hinton discovered GPUs excelled at this by accident in 2012, winning ImageNet overwhelmingly.
 - `INS-260325-BB13` A smartphone processor requires tools from the Netherlands, chemicals from Japan, design from the US, fabrication in Taiwan, and assembly in Malaysia — no single company or country controls the full stack.
 - `INS-260325-76BD` Nuclear weapon technology has barely improved since the 1960s and even North Korea can build one — but cutting-edge chips require such extreme precision that only 3 companies worldwide can manufacture them.
+- `INS-260410-CA89` Qualcomm's $120B franchise exists because it owns the patents AND the chip designs while treating handsets and base stations as commodity steps to spin off.
+- `INS-260410-F96E` Nvidia's decision to write its own drivers in the 1990s — a costly move most chip companies outsourced — planted the low-level software expertise that became CUDA and eventually enabled 66% gross margins on hardware.
 - `INS-260405-DA83` TSMC's record $52-56B capex guidance reflects hyperscalers reserving capacity years ahead, de-risking the investment case.
 - `INS-260322-02A6` Korea's K-RAD CubeSat on Artemis 2 tests radiation effects on human tissue and Korean semiconductors — a dual-purpose mission validating both biological and industrial readiness for space.
 - `INS-260403-C621` China's expanding rare earth export controls create chokepoint leverage over every major technology supply chain.
@@ -18,3 +20,4 @@
 - `INS-260323-D6BD` Despite appearing ideologically opposed, Biden barely cut any tariffs on China and maintained aggressive semiconductor export controls — US containment of China is structurally bipartisan.
 - `INS-260404-1755` ARM's licensing model lets it scale globally without any manufacturing infrastructure or costs.
 - `INS-260403-90A0` China's rare earth export tightening and Western chip seizures are forcing companies to vertically integrate within their geopolitical bloc or risk existential supply disruption.
+- `INS-260410-020E` Qualcomm patented CDMA in 1986 when the processing required was physically impossible — because they correctly forecasted Moore's Law would make it feasible by ship date.

@@ -42,13 +42,11 @@ stance: >-
   Successful incumbents structurally cannot explore business models that
   cannibalize or diverge from their core model
 related:
-  - INS-260327-0004
   - INS-260327-30E4
   - INS-260330-EB1B
   - PRI-260324-12CF
   - INS-260403-8176
   - INS-260403-E6F0
-  - INS-260403-F0DC
   - INS-260410-BFCF
   - INS-260410-54CB
   - INS-260410-D2D1

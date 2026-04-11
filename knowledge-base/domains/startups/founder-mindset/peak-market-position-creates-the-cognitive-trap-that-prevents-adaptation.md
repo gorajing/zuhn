@@ -51,8 +51,8 @@ related:
   - INS-260327-473D
   - PRI-260325-697B
   - INS-260323-810D
+  - INS-260410-6ADD
   - INS-260330-E089
-  - INS-260325-803C
 ---
 In 1997, Yahoo held 90% of internet searches and was worth $125B. From that vantage point, two graduate students in a garage with an algorithm were literally invisible as a competitive threat. Yahoo's leadership believed users came for the 'Yahoo experience' — news, chat, email — not for search quality. This framing made Google's superiority in search seem irrelevant rather than existential.
 

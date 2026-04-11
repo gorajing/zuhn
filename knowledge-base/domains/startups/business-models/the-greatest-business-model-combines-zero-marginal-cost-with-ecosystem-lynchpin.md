@@ -73,10 +73,10 @@ related:
   - INS-260403-36F4
   - INS-260403-1B9E
   - INS-260403-D1D0
-  - INS-260404-AF08
   - INS-260403-4819
   - INS-260403-415E
   - INS-260403-CD51
+  - INS-260403-6E23
 ---
 The episode makes the case that Microsoft discovered the best business model of all time, and that this required the combination of two distinct properties — neither of which is sufficient alone. The first is software's infinite replicability and zero marginal cost: once you've written it, the next copy costs nothing. Many companies had this property and didn't get rich. The second is being the lynchpin that everyone else in the ecosystem must integrate with: applications had to target DOS, hardware makers had to ship DOS, so Microsoft sat at the unavoidable point of integration. This gave them pricing power.
 

@@ -1,8 +1,8 @@
 # Tag: loyalty
 
+- `INS-260327-5200` Alexander personally led cavalry charges in every battle, sustaining multiple wounds — this shared risk created fanatical loyalty that held his army together through 10 years and 20,000 miles of campaign.
 - `INS-260330-4088` Hamas gained popular support primarily through building schools, mosques, and clinics in Gaza, not through its militant activities.
 - `INS-260330-C8E2` Harlow's wire mother experiments proved that infant primates bond to sources of comfort rather than sources of nourishment, overturning the cupboard theory of attachment.
-- `INS-260327-5200` Alexander personally led cavalry charges in every battle, sustaining multiple wounds — this shared risk created fanatical loyalty that held his army together through 10 years and 20,000 miles of campaign.
 - `INS-260404-A938` Costco's mandatory membership triggers stronger sunk-cost loyalty than Amazon Prime's optional subscription because every member is psychologically invested.
 - `INS-260404-ED19` Mandatory membership fees trigger stronger sunk-cost commitment than optional subscriptions because the buyer can't self-select out of the psychological lock-in.
 - `INS-260405-F1FD` Once members pay $60-$120 upfront, not using Costco feels like wasting the fee — so they default to Costco without price-shopping.

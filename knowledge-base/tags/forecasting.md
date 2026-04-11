@@ -13,10 +13,10 @@
 - `INS-260410-6A19` Goldman Sachs and every serious forecaster predicted China would dwarf the US by now — they were all wrong, just as they were wrong about Japan and the USSR before that.
 - `INS-260404-4758` Prediction markets aggregate dispersed knowledge into price signals that react faster and more accurately than polls.
 - `INS-260404-5B6A` A Fed working paper found Kalshi's probability distributions for CPI and rate decisions outperform Bloomberg consensus and fed funds futures.
-- `INS-260404-4E1A` Human optimism is fueled by narrative continuity about the future, not by present comfort.
 - `INS-260321-B7CB` AI companies will be 'model busters' — growing faster and longer than any spreadsheet model predicts — just as iPhone caused consensus models to miss Apple's performance by 3x over four years despite being the most covered company in the world.
 - `INS-260405-5EB2` Peak-consensus forecasts of national rise historically coincide with the onset of structural decline.
 - `INS-260404-4BC4` Stacking AI disruption with geopolitical chaos creates compound uncertainty that no single-variable model can price.
+- `INS-260404-4E1A` Human optimism is fueled by narrative continuity about the future, not by present comfort.
 - `INS-260405-75AC` Staten Island Chuck's 85% accuracy dissolves once you notice he predicts early spring 25 out of 31 times—he's a broken clock in a town where spring usually comes early
 - `INS-260330-FB66` Human brains default to linear extrapolation, causing systematic underestimation of exponential processes in their early stages.
 - `INS-260405-BBC9` The most compelling recent evidence for a trend is often a leading indicator of its reversal, not its continuation.

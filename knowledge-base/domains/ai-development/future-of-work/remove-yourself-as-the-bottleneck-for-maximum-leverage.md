@@ -36,11 +36,10 @@ resolutions:
     minimum human involvement.
 related:
   - INS-260329-33D4
+  - INS-260410-0263
   - INS-260329-B424
   - INS-260323-70B9
   - INS-260323-AB5F
-  - INS-260329-9DF3
-  - INS-260323-C5D3
 stance: >-
   The name of the game is to increase your leverage — put in very few tokens
   once in a while and a huge amount of stuff happens on your behalf.

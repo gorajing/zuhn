@@ -1,6 +1,6 @@
 # Topic: founder-mindset
 
-> 328 insights
+> 331 insights
 
 - `INS-260320-F751` [very_high] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
 - `INS-260322-E791` [high] During a crisis, the false but simple narrative ('Robinhood colluded with hedge funds') will always defeat the true but complex explanation (clearing mechanics, Dodd-Frank, collateral requirements).
@@ -244,6 +244,7 @@
 - `INS-260328-70D3` [medium] The belief that you must 'break glass' because AGI is imminent rhymes with every generation's conviction that they happen to be alive at the end of days.
 - `INS-260323-1871` [medium] Even if AGI never arrives, AI as an extension of human will and amplifier of human abilities is already a transformative outcome.
 - `INS-260321-3D65` [medium] Fresh graduates (23-25) who grew up vibe coding think differently and generate the best new ideas at AI companies.
+- `INS-260410-79C4` [medium] The Qualcomm pitch required threading 15+ needles in sequence — a prima facie auto-pass — but the team already knew, from information theory first principles, that each needle was threadable.
 - `INS-260327-D2F3` [medium] Inexperienced founders can outperform veterans by seeing solutions that experts have unconsciously ruled out.
 - `INS-260403-9CD9` [medium] The richest founders aren't money-driven — they're world-improvers who keep building past the acquisition offers that money-motivated founders accept.
 - `INS-260323-7C3A` [medium] Make life-altering decisions with your heart and gut, then never revisit them — execute with pure discipline and data from that point forward.
@@ -253,6 +254,7 @@
 - `INS-260327-E3ED` [medium] Shameless urgency—like chasing PG to his car—signals genuine conviction that investors can't ignore.
 - `INS-260323-1975` [medium] You must be either the tech/product founder or the business/revenue founder, then find a complementary co-founder for the other role.
 - `INS-260323-5D6D` [medium] Repetitive work that violates your values causes cognitive depletion — your brain literally runs at lower capacity, making it impossible to learn new skills or build on the side.
+- `INS-260410-614E` [medium] Most VCs say 'we made a bet' or 'it's a good risk-adjusted bet' — Benchmark partners argue this language encodes passive super-forecasting, whereas 'commitment' encodes active odds-denting on the field with the founder.
 - `INS-260327-E3D5` [medium] Competitive backgrounds in any domain build the exact muscles—discipline, risk tolerance, resilience—that founders need.
 - `INS-260409-BA4E` [medium] Your newsfeed and peer group are in your control and determine whether you can execute in the AI era — deliberately switch them to optimism and action-orientation.
 - `INS-260328-A4EB` [medium] If you can live-quote someone's offhand remark months later, a deeper decision is already in motion.
@@ -263,6 +265,7 @@
 - `INS-260328-C2CB` [medium] Michael Seibel's 21-year-old plan — '20s money, 30s family, 40s government, retire and teach' — guided two decades of decisions despite being four words.
 - `INS-260325-4CBB` [medium] When you cut and rearrange measurements, the loss hides at every seam — just like the chocolate bar trick.
 - `INS-260322-92D7` [medium] Before chasing product-market fit, verify you have founder-market fit — domain expertise and personal stakes that make the problem sustainably compelling.
+- `INS-260410-2402` [medium] Nvidia should have died at least four separate times between 1995 and 2019 — they survived not through brilliant pivots but through Jensen's refusal to abandon CUDA through 80% and 50% stock crashes when everyone else would have sold the company.
 - `INS-260405-1D7B` [medium] Applying a threshold heuristic generously — including borderline cases rather than excluding them — protects against missing important ideas.
 - `INS-260329-A7E2` [medium] For each friend, ask: does this person increase or decrease my probability of hitting my goal? If decrease, remove them.
 - `INS-260329-64A3` [medium] Arbitrage — same asset, two markets, different prices — is the meta-pattern behind all of Hormozi's 10 wealth strategies.

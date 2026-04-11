@@ -50,9 +50,10 @@ stance: >-
   catastrophic concentration risk that can wipe out returns from an entire fund,
   even when strategic acquisition offers exist.
 related:
-  - INS-260330-06CD
   - INS-260404-C7B2
+  - INS-260330-06CD
   - INS-260403-2E2C
+  - INS-260410-A5E1
   - INS-260403-7045
   - INS-260403-01FD
 ---

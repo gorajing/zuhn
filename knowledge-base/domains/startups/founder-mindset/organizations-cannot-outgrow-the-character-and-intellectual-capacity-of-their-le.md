@@ -47,7 +47,6 @@ stance: >-
   to develop new competencies, not by market opportunity or capital
 related:
   - INS-260323-9D21
-  - INS-260325-E895
   - INS-260327-2520
   - INS-260327-31BD
   - INS-260327-8521
@@ -56,6 +55,7 @@ related:
   - INS-260329-E86C
   - INS-260329-ACE6
   - INS-260330-98EA
+  - INS-260403-C501
 evidence:
   - id: INS-260330-4FED
     type: REFINES

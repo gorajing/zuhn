@@ -60,6 +60,7 @@ related:
   - INS-260404-BEBB
   - INS-260403-ADF9
   - PRI-260328-82BE
+  - INS-260410-3C05
 ---
 Prieto frames the lack of startup playbooks in 1999 as potentially a gift — it forced eDreams to derive strategy from direct observation of customer behavior rather than adopting borrowed frameworks. Their innovations (service fee model, multi-carrier aggregation, hybrid OTA-Meta) emerged from watching what customers actually did, not from following prescribed methodologies.
 

@@ -61,6 +61,7 @@ related:
   - INS-260405-1661
   - INS-260403-E4C7
   - INS-260324-9586
+  - INS-260410-15EC
 ---
 JCal's framing is pointed: 'Media is all about habits.' Commuters formed routines around buying a newspaper or two magazines before boarding the train. This habit was the engine — not the quality of the articles. When smartphones arrived, the commute ritual changed, and the habit-slot that newspapers had occupied was filled by the phone. Revenue from newsstand sales collapsed not because journalism got worse, but because the behavioral trigger (commute → grab something to read) was replaced.
 

@@ -11,6 +11,7 @@
 - `INS-260403-B557` Yahoo crippled itself by hiding from Microsoft rather than competing directly as a tech company.
 - `INS-260404-9C69` Microsoft's deal with Inflection AI pioneered a non-acquisition structure that lets big tech absorb AI startups while avoiding regulatory acquisition scrutiny.
 - `INS-260404-688B` Microsoft's Series E investment in Rubrik created ecosystem integration that added credibility and enterprise distribution beyond what financial investors alone could provide.
+- `INS-260410-BCA3` Office was the first-party killer app that made Windows good, Outlook was the first-party app that made Exchange good — platforms without a great first-party driver don't develop the signal needed to become great.
 - `INS-260410-F455` Bill Gates accepted a $430K flat fee from IBM for DOS instead of per-copy royalties — but kept the right to license DOS to every other PC maker, which became the foundation of Microsoft's empire.
 - `INS-260410-2424` After Lotus 1-2-3 destroyed Microsoft Multiplan on the IBM PC, Microsoft shelved it and built Excel for the Macintosh GUI — being first and best on the next platform rather than trying to claw back the current one.
 - `INS-260410-1941` Microsoft publicly committed to OS/2 with IBM while quietly nurturing Windows and Mac applications as parallel hedges, so when OS/2 failed, Windows was ready to inherit the entire PC ecosystem.

@@ -54,7 +54,6 @@ stance: >-
   civilization-level risk that would be collectively insane.
 related:
   - INS-260327-1F6A
-  - INS-260330-5E47
   - PRI-260407-2DBD
   - INS-260403-9173
   - PRI-260328-BD81
