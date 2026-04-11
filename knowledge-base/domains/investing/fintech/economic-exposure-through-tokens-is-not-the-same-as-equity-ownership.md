@@ -57,11 +57,11 @@ stance: >-
   will fail to evaluate
 related:
   - INS-260326-0C14
+  - INS-260403-B8A3
   - INS-260403-8991
   - INS-260322-A31D
   - PRI-260406-0A98
   - INS-260410-151D
-  - PRI-260406-8987
   - INS-260402-B653
   - INS-260403-97FD
   - INS-260403-0F15

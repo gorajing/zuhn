@@ -52,14 +52,14 @@ stance: >-
   health because durable competitive advantages come from network effects,
   switching costs, unique data, and brand—not from cost structure.
 related:
-  - INS-260403-9173
   - INS-260323-7B63
   - INS-260403-41C8
   - INS-260405-D098
   - INS-260405-E155
+  - INS-260403-ABB7
+  - INS-260403-9173
   - INS-260403-57FF
   - PRI-260406-E015
-  - INS-260404-EEA7
   - INS-260403-2D68
   - INS-260404-EC26
 ---

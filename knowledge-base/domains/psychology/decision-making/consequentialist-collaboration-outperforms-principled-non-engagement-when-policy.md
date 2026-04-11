@@ -58,6 +58,7 @@ related:
   - INS-260403-D950
   - INS-260403-368B
   - INS-260403-DE34
+  - INS-260403-F4B9
 ---
 The core tension is between consequentialist ethics (does collaboration produce better outcomes?) and deontological concerns (does participation in a bad system corrupt you?). Alexander argues that voter behavior is so disconnected from policy quality that 'letting things get worse to create voter backlash' rarely works — voters are uninformed, polarized, and forgetful about specific policy decisions.
 

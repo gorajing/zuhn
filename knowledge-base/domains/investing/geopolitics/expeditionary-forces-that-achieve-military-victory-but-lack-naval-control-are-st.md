@@ -60,7 +60,6 @@ related:
   - INS-260327-B65A
   - INS-260327-B038
   - INS-260327-C22F
-  - INS-260330-B22D
 evidence:
   - id: INS-260330-B22D
     type: TRANSFERS_TO

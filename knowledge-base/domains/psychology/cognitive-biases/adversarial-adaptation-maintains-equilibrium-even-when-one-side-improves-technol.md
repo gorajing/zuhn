@@ -25,7 +25,8 @@ date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
 indexed: true
-embedded: false
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     In adversarial systems, improvements by one side provoke compensating
@@ -52,13 +53,11 @@ stance: >-
   injuries demonstrates that adversarial systems tend toward equilibrium rather
   than one-sided improvement.
 related:
-  - INS-260324-E785
-  - INS-260324-1C12
-  - INS-260403-616B
-  - INS-260403-FB4A
-  - PRI-260328-F497
-  - INS-260327-B715
-  - INS-260403-22E9
+  - INS-260403-1FB1
+  - PRI-260406-F9EB
+  - INS-260404-5CC6
+  - INS-260403-3D8C
+  - PRI-260323-0F93
 ---
 The finding that gun injury severity has increased at roughly the same rate as trauma care improvement illustrates a deep pattern in adversarial systems. Whether through explicit calculation, cultural transmission of 'street wisdom,' or selection effects (robberies declining while targeted killings remain), the lethality per violent act has stayed roughly constant despite major medical advances.
 

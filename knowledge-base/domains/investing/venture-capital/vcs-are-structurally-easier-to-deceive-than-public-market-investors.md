@@ -54,11 +54,11 @@ stance: >-
   audit or standardized reporting.
 related:
   - INS-260403-7BC6
+  - INS-260403-B8A3
   - INS-260405-6E4F
   - INS-260403-D882
   - PRI-260406-0A0B
   - PRI-260328-3FEF
-  - INS-260403-F852
 ---
 Three structural factors make VCs more susceptible to financial manipulation than public market investors. First, private company management controls the narrative and chooses what to report — there's no SEC-mandated disclosure or standardized reporting format. Second, many modern VCs come from operator or founder backgrounds rather than finance, meaning they may not catch accounting nuances like capitalization policy differences or expense classification games. Third, many VCs focus primarily on topline metrics and assume everything else will work out.
 

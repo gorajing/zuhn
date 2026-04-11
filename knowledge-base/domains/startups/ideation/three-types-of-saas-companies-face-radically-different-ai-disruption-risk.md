@@ -54,10 +54,10 @@ resolutions:
     them.
 related:
   - INS-260403-75E3
+  - INS-260403-ABB7
   - INS-260403-586C
   - INS-260405-9EE4
   - INS-260405-6524
-  - INS-260403-2318
   - INS-260403-59F0
   - INS-260403-C8EF
 stance: >-

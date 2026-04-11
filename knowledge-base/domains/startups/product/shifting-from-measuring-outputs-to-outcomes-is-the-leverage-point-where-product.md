@@ -49,10 +49,10 @@ stance: >-
   of whether shipped work actually changes user behavior.
 related:
   - INS-260327-4CB3
-  - INS-260403-1E4A
   - INS-260403-FB4D
   - INS-260322-3C3D
   - PRI-260328-6A8D
+  - INS-260328-D826
 ---
 The outputs-to-outcomes shift is one of product management's most cited but least practiced principles. Outputs measure what you ship (features, releases, story points); outcomes measure what changes as a result (user behavior, revenue, retention). Teams optimizing for outputs often fall into the build trap—shipping more without verifying impact.
 

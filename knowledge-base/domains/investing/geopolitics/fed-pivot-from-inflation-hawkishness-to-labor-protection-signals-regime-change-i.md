@@ -57,8 +57,8 @@ related:
   - INS-260405-5E6B
   - PRI-260328-D68F
   - PRI-260324-7ED9
+  - INS-260405-FAE3
   - INS-260402-36DE
-  - INS-260323-C8AC
 ---
 The October 2025 FOMC meeting represented a qualitative shift in Fed priorities. The simultaneous rate cut and QT termination announcement—stopping balance sheet contraction on December 1—signals the Fed views downside employment risk as the dominant threat, even with inflation 'somewhat elevated.' Two dissents underscore this wasn't consensus, suggesting genuine debate about whether the pivot is premature.
 

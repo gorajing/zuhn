@@ -51,6 +51,7 @@ related:
   - INS-260403-7E7C
   - PRI-260328-95E3
   - PRI-260406-E9F2
+  - INS-260403-1E4A
 ---
 Because the PM-Fit Logic framework is customer-centric, you cannot pile multiple segments into one analysis. Each beachhead segment needs its own 9-step value logic with segment-specific jobs, problems, alternatives, and consequences. For B2B products with multiple stakeholders (buyers vs. users), or two-sided platforms, each person in the chain needs a separate value logic.
 

@@ -45,11 +45,11 @@ stance: >-
   transaction.
 related:
   - INS-260327-8389
-  - INS-260403-1E4A
   - INS-260330-707D
   - INS-260327-5DD2
   - INS-260403-3A44
   - INS-260321-AA91
+  - PRI-260406-72B3
 evidence:
   - id: INS-260327-8388
     type: CHALLENGES

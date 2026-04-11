@@ -56,7 +56,7 @@ related:
   - INS-260405-5E6B
   - INS-260405-4091
   - INS-260403-EA01
+  - INS-260405-FAE3
   - PRI-260328-5CDE
-  - PRI-260328-0BA6
 ---
 Gary's sharpest original claim: in output-driven businesses like advertising, if your 400 people now make 27,000 ads with AI and a competitor's 200 cut-down team makes 16,000 ads, the 400-person shop wins the output war even though both sides have the tools. The common assumption that AI is an asymmetric advantage ('we'll do more with less') only holds if competitors fail to adopt equivalent tooling, which they won't. Gary frames this as 'AI is a shield and a sword and a gun' — not rocks vs. guns, but armed on both sides. The strategic implication is cautious headcount reduction focused on roles that weren't delivering value anyway (e.g., project managers who only take notes), not broad layoffs. Leaders cutting 50% of staff expecting to outcompete will discover they've just reduced their own output ceiling while the other side kept theirs.

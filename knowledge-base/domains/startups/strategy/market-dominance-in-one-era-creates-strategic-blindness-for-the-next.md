@@ -50,7 +50,6 @@ stance: >-
   margins in a new paradigm.
 related:
   - INS-260322-5745
-  - INS-260327-1576
   - PRI-260328-A4AC
   - INS-260330-C825
   - INS-260403-B7C6
@@ -59,6 +58,7 @@ related:
   - INS-260330-F527
   - INS-260405-8F5D
   - INS-260404-98EE
+  - INS-260403-44FF
 ---
 When Microsoft dominated the PC era, it enjoyed margins that were practically impossible to replicate in mobile or cloud. The psychological and organizational anchoring to those margins created a structural barrier to reinvention — any new business looked inadequate by comparison, making it easy to dismiss or underfund.
 

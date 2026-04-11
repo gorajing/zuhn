@@ -65,7 +65,7 @@ related:
   - INS-260410-93A4
   - PRI-260405-B144
   - INS-260327-EAB9
-  - PRI-260321-05B5
+  - INS-260403-ABB7
   - INS-260410-F96E
 ---
 The classic innovator's dilemma played out cleanly in cloud. Oracle, IBM, and HP sold bundled hardware/software licenses at 70-80% gross margins, with multi-year upgrade cycles, audit-based enforcement, and enterprise sales teams as the distribution moat. AWS targeted 20-40% margins with pay-as-you-go, self-serve pricing, and credit-card signup. For Amazon, operating a 2% margin retail business, this was a 10-20x margin improvement and wildly attractive. For Oracle, cannibalizing their license business to go there was a 3x margin downgrade.

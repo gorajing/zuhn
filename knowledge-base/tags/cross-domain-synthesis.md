@@ -2,6 +2,7 @@
 
 - `INS-260326-E5D3` AI is the first technology that makes the consciousness question empirically testable, not just philosophically debatable.
 - `INS-260328-5431` AI's threat to autonomy isn't future — algorithms already control what most people see and believe, and frontier AI makes the control total.
+- `INS-260326-6B98` AI investing requires picking winners not sectors because the aggregate bet looks terrible while the best companies grow at rates that break all models.
 - `INS-260326-24E6` Embodied engagement accesses what intellect cannot, and psychedelics produce lasting change through a neuroplasticity window -- both show that the body is the primary transformation channel, not the thinking mind.
 - `INS-260326-163A` Data quality dominates ML architecture just as install base and data gravity beat product design elegance in business -- what you've accumulated is the moat, not how you've arranged it.
 - `INS-260328-AE33` Your brain needs both exercise (hard thinking) and rest (deliberate boredom) — AI outsourcing eliminates the exercise, digital stimulation eliminates the rest.
@@ -15,4 +16,3 @@
 - `INS-260326-20C8` The same mechanism that makes founders avoid hard truths is what makes people avoid emotional intimacy — self-protection destroys what it claims to protect.
 - `INS-260328-E410` Accountability works because it forces the measured actions that generate confidence — not because it motivates harder work.
 - `INS-260326-E0E1` Deep work and genuine leadership both drain the same finite resource — you cannot maximize both on the same day.
-- `INS-260326-6B98` AI investing requires picking winners not sectors because the aggregate bet looks terrible while the best companies grow at rates that break all models.

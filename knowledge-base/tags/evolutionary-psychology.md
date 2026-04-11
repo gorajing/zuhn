@@ -1,7 +1,7 @@
 # Tag: evolutionary-psychology
 
-- `INS-260330-DBB3` The evolution from literal sacrifice to metaphorical sacrifice maps the transition from behavioral enactment to abstract conceptual thought in human cognition.
 - `INS-260403-CBB2` The inner voice handles working memory, simulation, self-control, and identity construction — chatter is when this system malfunctions.
+- `INS-260330-DBB3` The evolution from literal sacrifice to metaphorical sacrifice maps the transition from behavioral enactment to abstract conceptual thought in human cognition.
 - `INS-260405-3048` RuBisCo worked perfectly in a low-oxygen world; the problem wasn't the enzyme but the changed atmosphere — the same dynamic explains many human cognitive 'errors'.
 - `INS-260403-EB0B` Hunter-gatherers couldn't store wealth, so status was the only survival currency — that wiring still dominates our instincts.
 - `INS-260404-375E` Nature and nurture trained us to avoid obvious self-indulgence, but modern dangers disguise themselves as virtuous activity to bypass those ancient alarms.

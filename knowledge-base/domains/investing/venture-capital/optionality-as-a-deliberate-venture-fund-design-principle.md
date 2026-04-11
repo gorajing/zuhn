@@ -54,7 +54,6 @@ related:
   - INS-260403-032B
   - INS-260404-B496
   - INS-260404-81AB
-  - INS-260403-08D8
 ---
 Venture fund performance is increasingly tied to how well the fund's structure preserves decision flexibility. Optionality in venture funds means maintaining the ability to double down on winners, pivot sector focus as markets shift, and deploy reserves strategically rather than committing all capital upfront to a fixed thesis.
 

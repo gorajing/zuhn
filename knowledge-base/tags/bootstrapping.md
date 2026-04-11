@@ -2,6 +2,7 @@
 
 - `INS-260410-AF66` Bootstrap agent evals from 20-50 real failure cases; effect sizes are large early so small samples suffice.
 - `INS-260410-0741` Nadella says the first thing a working quantum computer lets you do is design the next one, because simulating atom-level gate construction is exactly the workload classical hardware cannot handle.
+- `INS-260327-F3F0` Napoleon's Italian campaign funded itself through war indemnities and looting — each victory paid for the next advance, removing dependence on the cash-strapped French government.
 - `INS-260409-BC24` Raise after revenue, not before — AI-era timelines make the old sequencing obsolete.
 - `INS-260329-CB10` Buying an existing business with seller financing lets you skip years of startup risk and immediately own a cash-flowing asset.
 - `INS-260329-5257` Price services as a percentage of measurable value delivered rather than hours worked.
@@ -20,11 +21,11 @@
 - `INS-260410-66E4` Lalit Modi orchestrated a $1B media deal, $400M+ in franchise auctions, and Bollywood ownership for a sports league that had never existed by capping every party's year-one cash exposure to the smallest amount that signaled credible commitment.
 - `INS-260330-EBFD` Glycolysis must invest 2 ATP to generate 4 ATP — even biology requires spending resources before earning returns.
 - `INS-260402-3D00` Making the platform useful to hosts even without buyers solves the marketplace cold-start problem.
+- `INS-260330-B0EB` Ross bootstrapped Silk Road by growing his own mushrooms to be the first product listing, then seeded demand by posing as a customer on forums — solving both sides of the marketplace simultaneously.
 - `INS-260329-82B1` When starting with no capital, embrace high-effort manual strategies first — automation and delegation come after you have revenue, not before.
 - `INS-260403-F28B` Most founders are motivated by freedom and financial security, but operating a business full-time provides neither.
 - `INS-260329-8E79` Low personal burn rate lets founders fail more times without going broke, increasing their probability of eventual success.
 - `INS-260322-3259` SiteGPT's $1700-1800 LTV per customer makes even low-conversion organic traffic highly profitable.
-- `INS-260330-B0EB` Ross bootstrapped Silk Road by growing his own mushrooms to be the first product listing, then seeded demand by posing as a customer on forums — solving both sides of the marketplace simultaneously.
 - `INS-260329-FE15` Ground your first business idea in personal pain, professional expertise, or deep passion rather than abstract market research.
 - `INS-260323-E9E4` Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead.
 - `INS-260403-3F2C` Cuban argues raising money is an obligation, not an achievement — owning more of your company is the only path to outsized wealth.
@@ -42,4 +43,3 @@
 - `INS-260329-4020` Give massive value for free to 100 people without asking for anything — a handful will respond, creating more income than most jobs and establishing genuine credibility.
 - `INS-260329-12EC` Reach out to 100 people per day through free warm channels (social media, email, communities) to generate first customers without advertising spend.
 - `INS-260410-4AD0` Google could not have been built even one or two years later because crawling and indexing the entire web from a dorm room was only financially feasible in 1996 — by 1998 the cost of building a fresh index had jumped to tens of millions of dollars, and by 2000 to hundreds of millions.
-- `INS-260327-F3F0` Napoleon's Italian campaign funded itself through war indemnities and looting — each victory paid for the next advance, removing dependence on the cash-strapped French government.

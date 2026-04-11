@@ -49,11 +49,11 @@ stance: >-
   more value and grow faster because outcome pricing eliminates the buyer's risk
   of paying for effort that produces no result.
 related:
-  - INS-260403-1E4A
   - INS-260403-586C
   - PRI-260406-C422
   - INS-260403-C734
   - PRI-260406-B785
+  - PRI-260406-5BD0
   - INS-260405-85B5
 evidence:
   - id: INS-260327-4CB3

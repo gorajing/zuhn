@@ -29,7 +29,8 @@ date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
 indexed: true
-embedded: false
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     As companies remain private longer and Gen Z/Millennial investors demand
@@ -57,13 +58,16 @@ stance: >-
   The lengthening private company lifecycle is a secular tailwind that will
   drive equity tokenization adoption regardless of regulatory friction
 related:
-  - INS-260403-CC97
-  - PRI-260406-1F70
-  - INS-260329-0DA4
-  - INS-260402-8424
-  - INS-260404-EEA7
-  - INS-260403-2FF2
-  - INS-260404-3A2E
+  - INS-260326-0C14
+  - INS-260403-7219
+  - INS-260403-087F
+  - INS-260404-FFC4
+  - INS-260403-9D7C
+  - INS-260403-8991
+  - INS-260403-BCCB
+  - INS-260405-F374
+  - INS-260403-D00D
+  - INS-260403-08D8
 ---
 Companies are staying private significantly longer than in previous decades, meaning the highest-growth phase of value creation increasingly occurs before IPO. This locks out the vast majority of investors from participation. Surveys show roughly 90% of Americans would allocate retirement savings to private assets, with particularly strong interest among younger demographics.
 

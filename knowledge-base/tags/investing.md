@@ -2,21 +2,21 @@
 
 - `INS-260404-292E` Investing autonomy progresses through five levels: human judgment, rule-based execution, system orchestration, ML adaptation, and fully autonomous agents.
 - `INS-260322-770D` AI labs are already profitable on current models — the bubble risk lies entirely in whether future capex on larger models will produce proportionally larger returns.
-- `INS-260330-5DD4` In the heat equation, high-frequency components decay exponentially faster than low-frequency ones, so complexity smooths out over time — a principle that applies to markets, skills, and ideas.
-- `INS-260403-88F8` Replace short interviews with 6+ hour shared activities because facades crack after 2-3 hours, revealing the real person.
-- `INS-260405-95CB` Lenny admits passing on PostHog early because he didn't believe the all-in-one platform strategy would work—a classic case of conventional wisdom blocking a contrarian bet.
-- `INS-260330-341D` Morgan refused to invest without full control, then used that control to reshape management teams and enforce his consolidation strategy.
 - `INS-260403-13AF` Healthcare's $1T/year administrative layer — 185,000 coders translating across 70,000+ diagnosis codes — represents exactly the kind of repetitive translation work AI automates first.
 - `INS-260323-7B63` AI creates the greatest period of business disruptability in history, making moat analysis the most critical and difficult skill for investors.
 - `INS-260329-33C7` Builders compound value through operations while Bettors seek asymmetric payoffs through timing — backing Builders is more reliable.
 - `INS-260325-039E` High-cost portfolios generate roughly 20% less terminal value than low-cost portfolios over 25-30 years, all else equal.
 - `INS-260325-0688` The loser's game framework shows that investing success comes from minimizing errors, not maximizing returns.
 - `INS-260325-195E` Bessembinder's research shows just 2% of stocks account for all net market gains over 75 years.
-- `INS-260323-1B42` Ray Dalio's core insight: the #1 mistake is trying to increase returns without managing risk — the best investors keep returns constant while systematically reducing the risk required to achieve them.
 - `INS-260405-DA83` TSMC's record $52-56B capex guidance reflects hyperscalers reserving capacity years ahead, de-risking the investment case.
+- `INS-260323-1B42` Ray Dalio's core insight: the #1 mistake is trying to increase returns without managing risk — the best investors keep returns constant while systematically reducing the risk required to achieve them.
 - `INS-260321-3EC0` When you invest in a country's stock market, you're placing a geopolitical bet on that country's future economic power relative to rivals — not just on individual companies.
 - `INS-260322-B369` Goldman's CEO identifies the current US macro environment as the sweetest spot in 40 years: fiscal stimulus, rate-cutting cycle, capital investment super cycle, and deregulatory unwind all happening simultaneously.
 - `INS-260322-06EA` Every round of Facebook, Stripe, and similar companies was called 'insane' by consensus — Yuri Milner invested at $5B because he'd run a social network and could do math others couldn't.
 - `INS-260404-D7E0` Palo Alto Networks and Splunk's 2012 IPOs signaled that cybersecurity and big data were structural growth sectors, not niche plays.
 - `INS-260405-ADCE` US and China are pursuing humanoid robotics through different incentive structures and deployment contexts, making a single global market unlikely.
 - `INS-260405-FC36` Labor scarcity from aging populations is the demand-side forcing function that makes the humanoid robot market thesis structurally sound.
+- `INS-260330-5DD4` In the heat equation, high-frequency components decay exponentially faster than low-frequency ones, so complexity smooths out over time — a principle that applies to markets, skills, and ideas.
+- `INS-260403-88F8` Replace short interviews with 6+ hour shared activities because facades crack after 2-3 hours, revealing the real person.
+- `INS-260330-341D` Morgan refused to invest without full control, then used that control to reshape management teams and enforce his consolidation strategy.
+- `INS-260405-95CB` Lenny admits passing on PostHog early because he didn't believe the all-in-one platform strategy would work—a classic case of conventional wisdom blocking a contrarian bet.

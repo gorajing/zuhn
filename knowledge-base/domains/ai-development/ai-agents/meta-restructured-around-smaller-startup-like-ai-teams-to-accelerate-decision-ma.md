@@ -47,9 +47,9 @@ stance: >-
   reducing coordination overhead, not by adding resources
 related:
   - INS-260409-665F
+  - INS-260405-FAE3
   - PRI-260406-F21A
   - INS-260322-31F8
   - INS-260403-2242
-  - INS-260403-3FF5
 ---
 Meta's reorganization into Superintelligence Labs is a deliberate bet that fewer people in a room means faster decisions. Alexandr Wang's stated rationale — 'fewer conversations will be required to make a decision' — is a rare explicit acknowledgment that org size is an execution bottleneck, not a strength multiplier. The legacy FAIR and infrastructure teams were consolidated rather than expanded, while hiring continued aggressively only in TBD Lab, the forward-looking foundation model group. This mirrors the startup pattern: the highest-leverage work happens in the smallest teams. For AI labs specifically, where architectural decisions compound quickly, the cost of coordination may now exceed the cost of missing specialized headcount.

@@ -48,8 +48,8 @@ related:
   - INS-260403-C734
   - INS-260403-2609
   - PRI-260406-C422
-  - INS-260403-1E4A
   - INS-260330-5D4F
+  - PRI-260406-B785
   - INS-260403-4093
 ---
 The legal industry's $900B market has been built on the billable-hour model for decades, but AI is fundamentally repricing how legal work gets delivered. By automating research, document review, and contract analysis, AI tools can offer faster, outcome-based services at scale rather than charging for time spent.

@@ -53,6 +53,6 @@ related:
   - INS-260404-9B51
   - INS-260403-C1D2
   - INS-260404-0153
-  - INS-260403-CCED
+  - INS-260330-808B
 ---
 Carta analyzed over 60,000 startups and found a deeply bifurcated market. AI startups attract 44% of all US venture capital at record-high valuations, creating a gravity well that pulls talent, capital, and attention away from every other category. Meanwhile, initial equity grants have fallen 50% since 2022 amid fewer IPOs, meaning early employees at non-AI companies are getting significantly less upside. This two-speed dynamic creates a compounding advantage for AI startups — they can offer better compensation packages, attract stronger talent, and raise follow-on rounds more easily, while non-AI startups face a tightening resource environment. Founders outside AI need to be especially creative about compensation, positioning, and capital efficiency.

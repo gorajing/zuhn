@@ -45,11 +45,11 @@ stance: >-
   Explicitly naming the bystander effect and showing who has already signed up
   is more effective at recruiting volunteers than simply asking for help.
 related:
+  - INS-260330-B22D
   - INS-260403-DB0A
   - INS-260403-320A
   - INS-260403-C17B
   - INS-260403-DB38
-  - INS-260330-3737
 ---
 The ACX meetup system publishes a live spreadsheet of cities where organizers have signed up, explicitly warning potential organizers about the Bystander Effect by name. This is a deliberate design choice: when people can see that nobody has volunteered for their city, the diffusion of responsibility collapses because the gap becomes personal and visible.
 

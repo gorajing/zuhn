@@ -1,6 +1,14 @@
 # Tag: risk-assessment
 
 - `INS-260330-2A6A` Bright tattoo ink colors are created from heavy metal compounds, creating an ironic contrast with the sterile-field protocols used during application.
+- `INS-260403-EFFB` The source of yield — real borrower payments vs. token emissions — is the single most important distinction in evaluating any DeFi product.
+- `INS-260330-BA13` SHA256's security is empirical rather than proven — no one has found a way to reverse it, but there's no proof that it's impossible.
+- `INS-260325-793A` The Bronze Age collapse resulted from drought, migration, earthquakes, and trade disruption compounding — not any single cause.
+- `INS-260330-CF10` Every existing civilization has survived every past catastrophe, creating systematic underestimation of civilizational fragility.
+- `INS-260330-DA38` Demographic shifts happen so slowly that they're ignored until retirement waves hit, then consequences cascade rapidly.
+- `INS-260330-9BC4` Japan's and Germany's expansion was fundamentally driven by food insecurity, making agricultural dependency a leading indicator of geopolitical risk.
+- `INS-260403-0BD4` A change in exit multiple from optimistic to realistic can flip a deal from fund-maker to pass.
+- `INS-260403-87D9` Most deal-killing risks at early stage live outside the financial model.
 - `INS-260323-3C7F` Rosolie's real-time recognition of 'Am I entering a one-way door?' during the tribal encounter demonstrates how framing a situation's reversibility sharpens survival decisions.
 - `INS-260403-C936` Entrepreneurs systematically skip the hypothesis-mapping step because building feels more productive than thinking, even when thinking would save months of wasted effort.
 - `INS-260330-AA4F` Because humans linearize exponentials, they systematically under-react when early action is cheapest and over-react when the situation is already determined.
@@ -16,11 +24,3 @@
 - `INS-260330-1DCA` We've cataloged 98% of civilization-ending asteroids (10km+) and accept small ones (<20m), but the 100-800m range — capable of destroying cities — remains largely undetected.
 - `INS-260327-7B8E` At some point, founders must deliberately override their logical brain to pursue what rational analysis rejects.
 - `INS-260330-975D` Lower-tier VCs are hungrier and offer better terms, but have up to 50% term sheet breakage rates and less reputation to protect.
-- `INS-260403-EFFB` The source of yield — real borrower payments vs. token emissions — is the single most important distinction in evaluating any DeFi product.
-- `INS-260330-BA13` SHA256's security is empirical rather than proven — no one has found a way to reverse it, but there's no proof that it's impossible.
-- `INS-260325-793A` The Bronze Age collapse resulted from drought, migration, earthquakes, and trade disruption compounding — not any single cause.
-- `INS-260330-CF10` Every existing civilization has survived every past catastrophe, creating systematic underestimation of civilizational fragility.
-- `INS-260330-DA38` Demographic shifts happen so slowly that they're ignored until retirement waves hit, then consequences cascade rapidly.
-- `INS-260330-9BC4` Japan's and Germany's expansion was fundamentally driven by food insecurity, making agricultural dependency a leading indicator of geopolitical risk.
-- `INS-260403-0BD4` A change in exit multiple from optimistic to realistic can flip a deal from fund-maker to pass.
-- `INS-260403-87D9` Most deal-killing risks at early stage live outside the financial model.

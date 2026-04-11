@@ -49,10 +49,11 @@ resolutions:
 related:
   - PRI-260406-91C2
   - PRI-260403-E097
+  - INS-260403-ABB7
   - PRI-260406-0ACE
   - INS-260403-6BDC
-  - INS-260410-B74C
   - INS-260403-7795
+  - INS-260410-B74C
 stance: >-
   Every dollar of profit not reinvested into growth is a dollar a competitor
   could use to catch up

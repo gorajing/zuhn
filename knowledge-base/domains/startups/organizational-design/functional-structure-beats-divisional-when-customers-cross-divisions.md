@@ -66,9 +66,9 @@ related:
   - INS-260403-94AD
   - INS-260403-3A44
   - INS-260403-0435
+  - INS-260403-1E4A
   - INS-260329-C0F1
   - PRI-260407-C35C
-  - INS-260330-C825
 ---
 Two different CEOs at TSMC tried to split the company into divisions — Don Brooks in 1996 and Rick Tsai in 2005. Both proposed dividing by fab or by advanced vs mainstream technology. Chang blocked Brooks (after having McKinsey validate the functional recommendation) but let Tsai try and fail. His principle: 'sometimes you have to let the CEO make his own mistakes and learn from them.' When Chang returned as CEO in 2009, he immediately recombined the operations groups and consolidated business development into a single 80-person team.
 

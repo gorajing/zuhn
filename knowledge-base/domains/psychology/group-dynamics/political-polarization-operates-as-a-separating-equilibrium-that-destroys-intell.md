@@ -24,7 +24,8 @@ date_extracted: '2026-03-30'
 last_accessed: null
 access_count: 0
 indexed: true
-embedded: false
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Political visibility creates a separating equilibrium where any slight lean
@@ -51,11 +52,13 @@ stance: >-
   loop where one side attacks and the other embraces, making true independence
   structurally impossible
 related:
-  - INS-260404-96E6
-  - INS-260403-D8A2
-  - INS-260327-7D63
-  - INS-260405-7B7C
-  - INS-260323-5106
+  - INS-260323-7C0E
+  - INS-260330-F324
+  - INS-260330-2EB0
+  - INS-260330-9E1B
+  - INS-260403-DB0A
+  - INS-260403-E36A
+  - PRI-260406-6762
 evidence:
   - id: INS-260327-37E3
     type: EXTENDS

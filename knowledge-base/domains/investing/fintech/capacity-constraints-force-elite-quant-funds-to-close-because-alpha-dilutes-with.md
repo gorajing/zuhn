@@ -56,7 +56,7 @@ related:
   - INS-260409-571B
   - INS-260404-F45E
   - INS-260321-C6C0
+  - INS-260403-B8A3
   - PRI-260406-0A0B
-  - INS-260410-F814
 ---
 Renaissance closed the Medallion Fund to outside investors in 1993 specifically because additional capital would force trades into less liquid, lower-edge opportunities. This reveals a fundamental tension in quantitative investing: the best strategies are capacity-constrained. Small statistical edges captured across thousands of rapid trades in liquid assets cannot scale infinitely — at some point, your own trades move the market against you. This has profound implications for anyone evaluating quant fund performance. A fund's track record at $1B tells you almost nothing about what it can deliver at $50B. It also explains why Renaissance's external funds (RIEF, RIDA) performed far worse than Medallion — same team, different capacity constraints. For individual investors, the lesson is that niche, capacity-constrained strategies can dramatically outperform broad market approaches, but only if you respect the size limits.

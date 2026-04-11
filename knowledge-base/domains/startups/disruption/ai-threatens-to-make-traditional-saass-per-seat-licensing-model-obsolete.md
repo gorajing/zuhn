@@ -53,6 +53,7 @@ related:
   - INS-260403-0350
   - PRI-260406-B785
   - INS-260403-75E3
+  - INS-260403-FB4A
   - INS-260410-9A20
 ---
 Traditional SaaS companies generate revenue by charging per human user. If agentic AI systems replace those users—handling tasks like CRM entry, project management, and customer support autonomously—the economic basis of per-seat pricing collapses. The question 'Is SaaS dead?' is really a question about whether the per-seat model can survive a world of autonomous agents.

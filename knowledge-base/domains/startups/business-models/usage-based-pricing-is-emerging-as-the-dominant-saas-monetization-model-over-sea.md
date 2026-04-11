@@ -50,16 +50,16 @@ stance: >-
   business model because it aligns vendor revenue with customer value
   realization.
 related:
+  - INS-260327-F7C0
   - INS-260403-E71A
   - INS-260404-1755
   - INS-260403-75E3
   - PRI-260406-B785
-  - INS-260403-1E4A
   - INS-260403-586C
   - INS-260404-6751
+  - INS-260403-C734
   - INS-260409-278A
   - INS-260409-175D
-  - INS-260409-5FE5
 ---
 ChartMogul's revenue and retention analysis and Vendr's SaaS Trends Report both highlight usage-based pricing as a rising dominant trend. The shift is driven by buyer sophistication — enterprises increasingly refuse to pay per-seat when actual usage varies wildly across their organization. AI-powered SaaS products accelerate this because their value delivery is inherently consumption-based (API calls, tokens processed, automations run) rather than headcount-based.
 

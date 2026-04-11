@@ -55,12 +55,12 @@ stance: >-
   before presenting the solution create more urgency than feature-first
   approaches because they activate loss aversion
 related:
-  - INS-260403-C734
   - INS-260403-02E2
+  - INS-260403-C734
   - INS-260403-A54C
-  - INS-260403-1E4A
   - PRI-260406-5BD0
   - INS-260404-563B
+  - INS-260403-53AA
 ---
 The Problem-Agitation-Transformation framework works because it mirrors the buyer's internal decision process. First, name the real status quo using exact customer language from support calls and demo objections — not sanitized marketing speak. 'We're drowning in tickets that aren't even bugs' is stronger than 'teams face operational challenges.' Then agitate by showing the real business cost: 'The backlog delayed feature rollouts, hurt onboarding scores, and left high-LTV users frustrated.' Finally, transform with a specific outcome and mechanism: 'Onboarding time dropped 60%, and 92% of resets now resolve automatically via self-serve workflow.'
 

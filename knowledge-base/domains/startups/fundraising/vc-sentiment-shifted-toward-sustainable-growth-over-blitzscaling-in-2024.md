@@ -48,7 +48,6 @@ stance: >-
   2020-2021 ZIRP-era playbook.
 related:
   - INS-260403-0A91
-  - INS-260403-3A72
   - PRI-260406-DE8A
   - INS-260322-0C91
   - INS-260404-7295

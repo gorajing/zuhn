@@ -57,7 +57,6 @@ stance: >-
   Once a customer stores large data volumes with a vendor, the cost of migration
   grows faster than any competitor's ability to offer a better product.
 related:
-  - INS-260410-4685
   - INS-260403-36F4
   - INS-260403-8793
   - INS-260403-D1D0

@@ -48,7 +48,6 @@ stance: >-
   startups is access to existing brand, customers, and resources—without this
   leverage, internal ventures are just worse-funded startups
 related:
-  - INS-260403-B8A3
   - INS-260403-2FF2
   - INS-260404-3A2E
   - PRI-260406-1F70

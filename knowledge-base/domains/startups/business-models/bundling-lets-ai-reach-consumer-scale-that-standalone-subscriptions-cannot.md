@@ -65,7 +65,7 @@ related:
   - INS-260321-38EC
   - INS-260327-6E0E
   - INS-260330-0998
-  - INS-260330-2ABC
+  - INS-260330-9137
 ---
 Conventional wisdom in consumer software is that charging for a product shrinks the total addressable market by 90-99%. That creates a problem for AI monetization: if search makes ~$400 per US user per year for free, how many of those users will pay $20+/month for standalone AI? The probable answer is a small single-digit percentage — not enough to offset even a fraction of search revenue at risk. Standalone AI subscriptions look like a niche business under this model.
 

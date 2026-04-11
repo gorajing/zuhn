@@ -47,6 +47,7 @@ stance: >-
   CEO share to break 50/50 deadlocks — unequal splits create resentment, pure
   50/50 creates paralysis.
 related:
+  - INS-260403-B8A3
   - INS-260330-855A
   - INS-260403-9D7C
   - INS-260410-151D

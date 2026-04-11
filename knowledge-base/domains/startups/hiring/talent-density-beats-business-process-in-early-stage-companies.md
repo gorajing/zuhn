@@ -45,7 +45,6 @@ stance: >-
   early-stage strategy than implementing formal business processes
 related:
   - INS-260325-8B36
-  - INS-260329-EF89
   - INS-260330-304C
   - INS-260330-A78C
   - INS-260402-C4FF

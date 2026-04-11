@@ -51,11 +51,11 @@ stance: >-
   helpful, decisive investor in a few startups compounds into access to the best
   future deals.
 related:
-  - INS-260403-1904
   - INS-260327-E2BC
   - INS-260330-C391
   - INS-260403-9D89
   - INS-260403-6F8B
+  - INS-260404-30B2
 ---
 Graham describes a bootstrapping problem and its solution: you can't get good deal flow without a track record, but you can't build a track record without deal flow. The solution is to start with your existing network, be genuinely helpful and decisive with those first investments, and let the chain reaction build. The key insight is that the Valley runs on referrals, and insiders won't refer deals to you until you've proven yourself.
 

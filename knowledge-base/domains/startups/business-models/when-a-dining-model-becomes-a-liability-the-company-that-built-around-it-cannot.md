@@ -56,10 +56,10 @@ stance: >-
   physical infrastructure locks them into higher costs.
 related:
   - INS-260324-9E37
-  - INS-260403-1E4A
   - INS-260327-0FD9
   - INS-260325-73C0
   - INS-260324-FF33
+  - INS-260404-B8EB
   - INS-260327-80E9
   - INS-260327-325B
   - INS-260327-85EB

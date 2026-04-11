@@ -23,7 +23,8 @@ date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
 indexed: true
-embedded: false
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Consuming startup advice feels like progress but produces fragmented
@@ -49,11 +50,12 @@ stance: >-
   progress in the moment, which makes it a uniquely dangerous productivity trap
   because it resists self-correction.
 related:
-  - INS-260403-3511
-  - PRI-260406-2411
-  - INS-260403-7513
-  - PRI-260405-E256
-  - INS-260402-27A1
+  - INS-260328-6E7A
+  - INS-260403-2822
+  - INS-260404-DF88
+  - INS-260404-C2BC
+  - INS-260404-8890
+  - INS-260403-BFD1
 ---
 The article identifies a specific cognitive trap: spending hours reading about growth loops, saving pricing strategy threads, and watching YC talks creates a felt sense of accomplishment that is neurologically indistinguishable from actual progress. This is more dangerous than obvious procrastination because it resists self-diagnosis — the founder genuinely believes they are working.
 

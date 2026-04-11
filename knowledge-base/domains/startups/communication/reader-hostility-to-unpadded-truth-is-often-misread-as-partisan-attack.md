@@ -42,10 +42,9 @@ stance: >-
   from partisan attacks to the reader, even when they originate from honest
   inquiry rather than tribal allegiance.
 related:
-  - INS-260323-7C0E
-  - INS-260330-F324
   - INS-260404-D94D
   - PRI-260406-044F
+  - INS-260330-F324
   - INS-260330-0F04
   - PRI-260406-6762
 evidence:

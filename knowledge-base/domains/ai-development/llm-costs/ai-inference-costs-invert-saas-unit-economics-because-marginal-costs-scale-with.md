@@ -49,6 +49,7 @@ stance: >-
   costs grow linearly with users rather than trending toward zero.
 related:
   - INS-260325-206C
+  - INS-260327-7D27
   - INS-260328-0932
   - INS-260402-24B0
   - INS-260403-91F7

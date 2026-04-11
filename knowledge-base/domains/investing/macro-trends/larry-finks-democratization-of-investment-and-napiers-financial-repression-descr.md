@@ -57,9 +57,9 @@ related:
   - INS-260330-2B4F
   - INS-260403-D00D
   - PRI-260406-8F89
+  - INS-260403-B8A3
   - PRI-260406-275E
   - INS-260410-C89B
   - PRI-260406-CB40
-  - PRI-260406-4D4E
 ---
 Fink: countries need $68T in infrastructure by 2040, fiscal deficits can't cover it, bank lending is constrained, so private savings must fund it — and the mechanism is tokenization of infrastructure and private credit assets so retail investors can participate. Trump administration is reviewing allowing 401(k) funds to invest in private equity and Bitcoin. Fink frames this as retail opportunity; Napier frames it as forcing retirement savings into government-directed allocation. Both describe the same flow. BlackRock has aggressively positioned: acquired Global Infrastructure Partners, Preqin (private market data), HPS (private credit). When the incumbent intermediary is building infrastructure rails and the incumbent sovereign is loosening retirement-fund rules, the 'democratization' narrative and the 'repression' narrative are the same event viewed from two angles. Watch the mechanics, not the framing.

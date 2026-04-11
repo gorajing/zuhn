@@ -46,11 +46,11 @@ stance: >-
   leaving founders fundamentally unprepared for the most important startup
   skill: choosing which problem to solve.
 related:
-  - INS-260403-3442
   - PRI-260406-2411
   - INS-260403-7513
   - PRI-260405-E256
   - INS-260402-27A1
+  - INS-260403-862E
 ---
 Graham observes that most Summer Founders applicants defaulted to obvious ideas (social networks, multiplayer games) while ignoring valuable unsolved problems in plain sight (like micropayments for newspapers). He attributes this to 15-20 years of solving problems other people set for them—grading requires standardized problems, so schools never teach problem selection.
 

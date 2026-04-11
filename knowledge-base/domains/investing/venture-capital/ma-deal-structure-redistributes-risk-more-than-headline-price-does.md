@@ -57,7 +57,6 @@ related:
   - INS-260329-27DF
   - PRI-260406-9924
   - INS-260405-7698
-  - INS-260403-6EC8
 ---
 Most M&A conversations anchor on price because it's the cleanest number on the page. But the payment mechanism — cash vs. stock vs. debt vs. earn-outs — is what actually determines who bears downside risk, who retains control, and who has leverage after closing. Cash-heavy deals protect the seller from acquirer stock risk but increase the acquirer's leverage ratio. Stock-heavy deals preserve the acquirer's balance sheet but dilute existing shareholders and tie the seller's outcome to the acquirer's future performance. Two deals at the same $100M valuation can leave a founder in completely different positions depending on this mix.
 

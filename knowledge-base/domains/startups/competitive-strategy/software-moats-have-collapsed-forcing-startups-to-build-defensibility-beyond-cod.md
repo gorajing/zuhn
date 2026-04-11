@@ -54,11 +54,11 @@ related:
   - INS-260327-7BB5
   - INS-260403-97CA
   - INS-260403-37FD
-  - INS-260403-B8A3
   - INS-260403-535C
   - INS-260403-D49E
   - INS-260405-D098
   - INS-260403-3C66
+  - PRI-260406-D8C3
 ---
 The traditional startup playbook of building defensible businesses through proprietary software is breaking down. AI coding tools, open-source proliferation, and rapid feature replication mean any software advantage can be cloned in weeks rather than years. This forces founders to rethink where real moats come from.
 

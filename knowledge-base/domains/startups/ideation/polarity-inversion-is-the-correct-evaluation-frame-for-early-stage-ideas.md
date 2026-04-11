@@ -52,9 +52,9 @@ stance: >-
 related:
   - INS-260404-9E63
   - INS-260404-A42E
+  - INS-260403-C0D4
   - INS-260329-5FB5
   - INS-260327-9F46
-  - PRI-260328-0AB1
 ---
 The default intellectual posture toward new ideas is to enumerate reasons they won't work. This feels rigorous and is more often correct — most new ideas do fail. But in domains with power-law outcome distributions (startups, research, creative work), being right about individual predictions doesn't matter if you miss the outlier. The skeptic who correctly dismisses 99 ideas but misses the 100th that becomes transformative has lower expected returns than the optimist who backs 10 bad ideas but catches the outlier.
 

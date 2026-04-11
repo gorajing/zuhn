@@ -58,7 +58,7 @@ related:
   - PRI-260406-8F89
   - INS-260410-5E92
   - PRI-260406-E015
-  - INS-260403-94A3
+  - INS-260403-B8A3
 ---
 Bloomberg terminals cost $25K/year, sell-side research runs $600-$1,500/month, and a junior analyst costs $80-120K loaded. Retail investors have historically competed against this infrastructure with basic stock screeners and free articles. The article argues this asymmetry is collapsing.
 

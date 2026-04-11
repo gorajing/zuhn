@@ -1,22 +1,5 @@
 # Tag: emerging-markets
 
-- `INS-260404-B494` First movers digitizing untouched local verticals in EMs can build defensible category-leading positions.
-- `INS-260327-1ACE` After nearly bankrupting by expanding to 10 nearby European cities, Bolt ranked the top few hundred cities worldwide by demand fundamentals and discovered African cities dominated the list.
-- `INS-260330-519D` Chinese and Indian phone makers built deep localization moats — dual SIM, regional language support, local payment integration — that Apple treats as afterthoughts.
-- `INS-260330-DCFB` Companies like Xiaomi and Samsung that achieved mass distribution in India first built ecosystem switching costs that Apple's superior brand couldn't overcome.
-- `INS-260404-4146` VC deal activity is increasingly distributed across global markets beyond Silicon Valley.
-- `INS-260404-7A54` High mobile penetration plus low workflow digitization signals a ripe market entry window for vertical SaaS.
-- `INS-260403-8BE9` Stablecoins gain traction first in markets like Kenya, Turkey, Argentina, and Venezuela where local currencies are unstable and physical dollar access is restricted.
-- `INS-260330-930D` Apple's dismissal of India as low-revenue ignores that competitors are building ecosystem lock-in with hundreds of millions of users who will be difficult to convert later.
-- `INS-260403-FF57` Less developed financial infrastructure in non-US markets creates larger friction gaps that fintech-enabled marketplaces can capture as margin.
-- `INS-260403-BA5D` In emerging markets, targeting broken essential industries provides both large market size and natural urgency that overcomes adoption friction.
-- `INS-260330-3431` Premium brand identity can prevent entry into massive price-sensitive markets where the bulk of demand sits far below your price floor.
-- `INS-260330-7479` Apple's $1,100+ iPhone captures only 1% of India where 75% of smartphones sell under $250, proving brand prestige alone cannot overcome price-sensitivity at scale.
-- `INS-260404-96CF` Three observable indicators — smartphone penetration, consumer app presence, and government enthusiasm — identify markets primed for tech startup growth.
-- `INS-260403-5EB4` In low-trust markets, founders must build trust bridges through local symbols and social proof before product quality matters.
-- `INS-260330-C95F` Multiple localization failures compound into a narrative of market disrespect that's harder to reverse than any single missing feature.
-- `INS-260405-8E2A` Entrepreneurship programs designed around employment outcomes rather than viable business models systematically fail both goals.
-- `INS-260403-CB33` Forced adoption events like COVID permanently digitize resistant populations by giving them a socially acceptable excuse to change behavior.
 - `INS-260409-F485` Napier's emerging-market heuristic: avoid countries where trading rights are not guaranteed, constitutions are weak, or exchange rates are overvalued — operationalized as 'don't invest where you wouldn't live after retirement.'
 - `INS-260404-1A3F` Narrow signals like startup deal flow are necessary but insufficient for emerging market investment decisions — structural analysis across governance, demographics, infrastructure, and finance is required.
 - `INS-260330-38C9` Son's 'time machine' theory treats the US tech ecosystem as a preview of what will succeed globally, turning geographic lag into an investment edge.
@@ -26,3 +9,20 @@
 - `INS-260403-D500` Cross-market valuation comparisons are deceptive because entry discounts don't guarantee proportional exit returns when market dynamics differ.
 - `INS-260404-A893` VC deal flow is structurally shifting toward the Middle East and Southeast Asia as new innovation hubs.
 - `INS-260404-80F3` VC's outsized return potential can absorb currency depreciation that makes public EM indices unattractive.
+- `INS-260404-B494` First movers digitizing untouched local verticals in EMs can build defensible category-leading positions.
+- `INS-260327-1ACE` After nearly bankrupting by expanding to 10 nearby European cities, Bolt ranked the top few hundred cities worldwide by demand fundamentals and discovered African cities dominated the list.
+- `INS-260330-519D` Chinese and Indian phone makers built deep localization moats — dual SIM, regional language support, local payment integration — that Apple treats as afterthoughts.
+- `INS-260330-DCFB` Companies like Xiaomi and Samsung that achieved mass distribution in India first built ecosystem switching costs that Apple's superior brand couldn't overcome.
+- `INS-260404-7A54` High mobile penetration plus low workflow digitization signals a ripe market entry window for vertical SaaS.
+- `INS-260403-8BE9` Stablecoins gain traction first in markets like Kenya, Turkey, Argentina, and Venezuela where local currencies are unstable and physical dollar access is restricted.
+- `INS-260330-930D` Apple's dismissal of India as low-revenue ignores that competitors are building ecosystem lock-in with hundreds of millions of users who will be difficult to convert later.
+- `INS-260403-FF57` Less developed financial infrastructure in non-US markets creates larger friction gaps that fintech-enabled marketplaces can capture as margin.
+- `INS-260403-BA5D` In emerging markets, targeting broken essential industries provides both large market size and natural urgency that overcomes adoption friction.
+- `INS-260330-3431` Premium brand identity can prevent entry into massive price-sensitive markets where the bulk of demand sits far below your price floor.
+- `INS-260330-7479` Apple's $1,100+ iPhone captures only 1% of India where 75% of smartphones sell under $250, proving brand prestige alone cannot overcome price-sensitivity at scale.
+- `INS-260404-96CF` Three observable indicators — smartphone penetration, consumer app presence, and government enthusiasm — identify markets primed for tech startup growth.
+- `INS-260403-5EB4` In low-trust markets, founders must build trust bridges through local symbols and social proof before product quality matters.
+- `INS-260404-4146` VC deal activity is increasingly distributed across global markets beyond Silicon Valley.
+- `INS-260405-8E2A` Entrepreneurship programs designed around employment outcomes rather than viable business models systematically fail both goals.
+- `INS-260330-C95F` Multiple localization failures compound into a narrative of market disrespect that's harder to reverse than any single missing feature.
+- `INS-260403-CB33` Forced adoption events like COVID permanently digitize resistant populations by giving them a socially acceptable excuse to change behavior.

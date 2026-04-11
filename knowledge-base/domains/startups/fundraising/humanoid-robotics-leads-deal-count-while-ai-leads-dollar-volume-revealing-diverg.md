@@ -24,7 +24,8 @@ date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
 indexed: true
-embedded: false
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Humanoid robots lead Q3 2025 deal count while AI leads dollar volume,
@@ -50,14 +51,13 @@ stance: >-
   dollar volume reveals two distinct venture strategies that will produce very
   different portfolio return profiles
 related:
-  - INS-260327-24F4
-  - INS-260403-7DBB
-  - PRI-260406-E5FB
-  - INS-260410-419F
-  - INS-260404-2E6C
-  - PRI-260406-992F
-  - INS-260403-81D4
-  - INS-260402-A629
+  - INS-260323-758B
+  - INS-260327-1652
+  - INS-260405-54B7
+  - INS-260405-6342
+  - INS-260405-E4FC
+  - PRI-260407-40F9
+  - INS-260403-01FD
 ---
 Q3 2025 venture data reveals an interesting divergence: humanoid robotics leads in number of deals while AI leads in total dollar volume. This split reflects fundamentally different capital deployment strategies — robotics investors are making many smaller bets across the category expecting high variance in who cracks manufacturing and go-to-market, while AI investors concentrate massive capital in proven winners.
 

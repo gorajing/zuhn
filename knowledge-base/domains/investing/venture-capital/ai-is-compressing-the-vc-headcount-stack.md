@@ -21,7 +21,8 @@ date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
 indexed: true
-embedded: false
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     VC firms are cutting headcount by ~50% as AI absorbs sourcing, diligence,
@@ -51,16 +52,15 @@ evidence:
     type: TRANSFERS_TO
     classified_at: '2026-04-06'
 related:
-  - INS-260320-8632
-  - INS-260327-41A9
-  - INS-260328-FFC3
-  - INS-260328-8B2C
-  - INS-260330-5DA6
-  - INS-260330-7E58
-  - INS-260403-7FFA
-  - INS-260405-68DC
-  - INS-260327-1FA1
-  - INS-260403-5D1F
+  - INS-260327-40E3
+  - INS-260330-956E
+  - INS-260405-5E6B
+  - INS-260403-2242
+  - INS-260403-F642
+  - PRI-260406-F21A
+  - INS-260409-665F
+  - INS-260327-B45A
+  - INS-260403-CBFF
 ---
 The structural labor of venture—deal sourcing, market mapping, reference checks, due diligence memos—is being automated by AI tools. Firms that built large analyst and associate benches to handle volume work are now shrinking those teams dramatically. This isn't cyclical headcount reduction tied to a down market; it's a permanent compression of the labor-per-deal ratio.
 

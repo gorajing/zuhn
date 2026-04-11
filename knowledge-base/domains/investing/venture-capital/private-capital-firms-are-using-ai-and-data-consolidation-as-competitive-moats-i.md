@@ -53,10 +53,10 @@ stance: >-
   relationship-based deal flow.
 related:
   - PRI-260406-F21A
+  - INS-260405-FAE3
   - PRI-260406-710D
   - INS-260403-5056
   - PRI-260406-275E
-  - PRI-260328-5CDE
 ---
 A survey of nearly 300 private-capital professionals reveals that firms are doubling down on data consolidation and AI to sharpen sourcing and evaluation capabilities. As fundraising conditions improve, managers emphasize efficiency and demonstrable value creation to differentiate themselves from competitors.
 

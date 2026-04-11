@@ -8,18 +8,13 @@
 - `INS-260327-C962` Running AI for millions of daily users will consume far more compute than training the models themselves.
 - `INS-260410-C602` AI data center buildouts are bottlenecked on power availability and speed-to-deploy, not on power cost, because tokens generate 1000x more value than the electricity they consume.
 - `INS-260410-13C8` Solar has a 43% Wright's Law coefficient — every doubling of cumulative production drops cost 43% — and since demand elasticity exceeds the learning rate, the cycle doesn't saturate.
+- `INS-260410-E8A8` Google is the only company in the world that controls frontier model, custom AI chips, hyperscale cloud distribution, and mass-market consumer applications — every other major AI player has at most one of these.
 - `INS-260403-C164` Cuban believes AI infrastructure (Databricks, Snowflake-type companies) will capture long-term value while consumer AI gets commoditized.
 - `INS-260404-FC9E` AI is the platform shift enabling open-source tools to displace entrenched SaaS incumbents.
 - `INS-260328-6C9A` In 2013, Sam Altman left YC to work on nuclear power because 'electricity is everything' — the AI era proved him exactly right.
 - `INS-260403-8832` YC's Fall 2025 RFS reveals that AI startup competitive advantage has shifted from model innovation to operational productization in specific verticals.
-- `INS-260410-E8A8` Google is the only company in the world that controls frontier model, custom AI chips, hyperscale cloud distribution, and mass-market consumer applications — every other major AI player has at most one of these.
 - `INS-260323-2DF2` The explosion of AI accelerators (GPUs, TPUs, NPUs) creates an impossible maintenance burden that only a universal abstraction layer can solve.
 - `INS-260329-6A60` Python is AI's interface language, but C++ is its execution language — the performance-critical layer underneath every major framework.
-- `INS-260404-5AC8` AI infrastructure companies benefit from booming demand regardless of which AI models or applications ultimately dominate.
-- `INS-260327-BB71` The biggest AI opportunity isn't building agents—it's building the infrastructure every agent will need.
-- `INS-260327-7D53` No CTO has ever said their cloud bill is cheap — multi-model, multi-cloud platforms win by giving enterprises what hyperscalers refuse: freedom from lock-in.
-- `INS-260403-79F3` Founders can now go from idea to product to seed round in less than a quarter by leveraging pretrained models and existing AI APIs.
-- `INS-260404-5D6E` The largest venture rounds are concentrating in AI infrastructure and biotech, signaling investor preference for capital-intensive defensible businesses.
 - `INS-260403-FCB6` AI labs are using structured finance vehicles to fund massive GPU buildouts, turning compute hardware into securitized financial assets.
 - `INS-260322-6DFC` Unlike the dot-com broadband buildout funded by leveraged telecoms, today's $400B+ AI infrastructure buildout is funded by the most profitable companies ever created — Google, Microsoft, Amazon, Meta — making systemic risk fundamentally lower.
 - `INS-260403-1407` Information processing equipment and software investment contributed ~2.1 percentage points to US GDP's 3.8% annualized growth in H1 2025.
@@ -33,3 +28,8 @@
 - `INS-260404-E544` Data center operators signed over 40% of all clean energy power purchase agreements in 2024, making AI infrastructure the largest single demand category for new renewable capacity.
 - `INS-260403-D986` $14.6B of Q2 2024's $55.6B venture total went to just two companies (CoreWeave and xAI), masking a weaker broad market.
 - `INS-260409-3346` The opportunity is alleviating AI's supply bottlenecks — transformers, power, chips, tokens, cooling.
+- `INS-260404-5AC8` AI infrastructure companies benefit from booming demand regardless of which AI models or applications ultimately dominate.
+- `INS-260327-BB71` The biggest AI opportunity isn't building agents—it's building the infrastructure every agent will need.
+- `INS-260327-7D53` No CTO has ever said their cloud bill is cheap — multi-model, multi-cloud platforms win by giving enterprises what hyperscalers refuse: freedom from lock-in.
+- `INS-260403-79F3` Founders can now go from idea to product to seed round in less than a quarter by leveraging pretrained models and existing AI APIs.
+- `INS-260404-5D6E` The largest venture rounds are concentrating in AI infrastructure and biotech, signaling investor preference for capital-intensive defensible businesses.

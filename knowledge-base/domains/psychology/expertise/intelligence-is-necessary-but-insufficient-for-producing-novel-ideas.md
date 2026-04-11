@@ -43,7 +43,6 @@ stance: >-
   minor variance — most smart people never discover anything new
 related:
   - INS-260321-F864
-  - INS-260321-C14C
   - INS-260321-1A84
   - INS-260327-7F11
   - INS-260328-FF2C
@@ -52,6 +51,7 @@ related:
   - INS-260403-E4AD
   - PRI-260406-22D5
   - INS-260403-78E2
+  - INS-260404-5AC1
 evidence:
   - id: INS-260321-F864
     type: CHALLENGES

@@ -24,7 +24,8 @@ date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
 indexed: true
-embedded: false
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     AI companies operate at structurally lower margins than SaaS, requiring
@@ -58,11 +59,16 @@ evidence:
     type: TRANSFERS_TO
     classified_at: '2026-04-06'
 related:
-  - INS-260403-213D
-  - PRI-260405-9A14
-  - INS-260405-86BB
-  - PRI-260405-BF5B
-  - INS-260402-A693
+  - INS-260322-36E3
+  - INS-260321-7109
+  - INS-260327-1576
+  - INS-260327-B715
+  - INS-260329-E7A4
+  - INS-260403-DD63
+  - INS-260403-CCED
+  - INS-260404-A2C4
+  - INS-260405-ABCF
+  - INS-260403-FF7E
 ---
 While SaaS businesses benefit from high gross margins (often 70-80%+) and recurring revenue, AI companies face persistent cost pressures from compute, inference, and model maintenance. This means AI companies cannot simply replicate the SaaS playbook — they must compensate through accessing larger total addressable markets, commanding higher revenue per customer, or achieving unprecedented scale.
 

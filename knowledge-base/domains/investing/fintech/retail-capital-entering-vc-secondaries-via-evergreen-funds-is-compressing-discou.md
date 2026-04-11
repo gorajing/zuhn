@@ -50,7 +50,6 @@ stance: >-
   by introducing a class of buyers motivated by access rather than bargain
   pricing.
 related:
-  - INS-260403-087F
   - PRI-260406-8F89
   - PRI-260323-6A93
   - PRI-260405-E9C5

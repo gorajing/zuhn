@@ -61,7 +61,6 @@ stance: >-
   Commodity booms let dysfunctional economies postpone reform, so the eventual
   price crash exposes decades of accumulated rot all at once.
 related:
-  - INS-260404-FFC4
   - INS-260403-E992
   - INS-260403-9D90
   - INS-260409-1DD3

@@ -21,7 +21,8 @@ date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
 indexed: true
-embedded: false
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Use one Value Proposition Canvas per customer segment — never combine
@@ -43,16 +44,11 @@ stance: >-
   Combining multiple customer segments into a single profile makes it impossible
   to identify which needs matter most to any specific segment
 related:
-  - INS-260325-4FF3
-  - INS-260325-73C0
-  - INS-260321-AA91
-  - INS-260327-F7C0
-  - INS-260327-80E9
-  - INS-260327-9C3A
-  - INS-260327-7D27
-  - INS-260329-67D1
-  - INS-260330-9137
-  - INS-260403-4E16
+  - INS-260410-B2E3
+  - INS-260403-3A44
+  - INS-260403-9B18
+  - INS-260320-2058
+  - INS-260403-94AD
 evidence:
   - id: INS-260323-7F22
     type: TRANSFERS_TO

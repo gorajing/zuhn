@@ -50,10 +50,10 @@ stance: >-
   structure.
 related:
   - INS-260329-2A70
-  - INS-260403-B8A3
   - INS-260403-CC97
   - INS-260404-DBD1
   - INS-260403-8441
+  - INS-260403-4020
 ---
 The venture capital industry is experiencing an internal talent crisis. Junior investors at underperforming funds face a brutal reality: zombie funds generating zero carry, frozen promotion tracks, and portfolios that may never return capital. Rather than waiting out multi-year fund cycles with no upside, many are jumping to operator roles at startups, joining family offices with more flexible mandates, or launching solo GP funds.
 

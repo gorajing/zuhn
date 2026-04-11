@@ -1,19 +1,20 @@
 # Tag: ambition
 
+- `INS-260327-3918` Kennedy's deadline — 'land a man on the Moon before the decade is out' — mobilized $25B, 400,000 workers, and unprecedented innovation because the specificity and audacity of the goal demanded maximum effort.
+- `INS-260325-622D` Mentions of 'find your purpose' in books surged 700% in two decades, creating an Epic Script that stigmatizes simple, content lives.
 - `INS-260330-790A` Serial pivots away from proven talent usually signal identity rejection rather than strategic diversification.
 - `INS-260404-FADE` Early versions of ambitious projects look worse than they are because we lack cultural norms for evaluating unfinished work.
 - `INS-260330-F6B1` Per-project procrastination hides behind busy work on less important tasks, causing people to waste years without noticing.
 - `INS-260405-7BA5` Every ambitious project looks bad early — the problem is not the work, it's the absence of calibrated judgment for unfinished things.
 - `INS-260405-020E` Lame-looking early work on ambitious projects is not accurately lame — it's accurately early.
-- `INS-260325-622D` Mentions of 'find your purpose' in books surged 700% in two decades, creating an Epic Script that stigmatizes simple, content lives.
-- `INS-260403-AA0B` Important problems create an almost physical pain that paralyzes—you must approach them obliquely rather than head-on.
-- `INS-260329-783C` Ambitious people who can't stay consistent are misdiagnosing a frustration tolerance problem as a motivation problem.
-- `INS-260403-FFF0` Newton serves as Graham's model for seeking questions people didn't even realize were questions, rather than settling for the immediate rewards of familiar problems.
 - `INS-260403-F322` Great work clusters historically around institutions that concentrate ambitious peers — a force potentially more valuable than expert advice.
 - `INS-260403-0525` Ambition is contagious and withers in isolation — concentrating ambitious people together amplifies everyone's output like pulling control rods from a reactor.
 - `INS-260403-BDE0` Cities send subtle but powerful messages about which type of ambition is most valued, and these messages shape inhabitants more than most people realize.
 - `INS-260403-824F` People dismiss ambitious early work partly because they unconsciously fear that the creator's success would threaten their own relative status.
 - `INS-260403-C4E2` When enough people around you are doing something ambitious, it stops feeling crazy and starts feeling like the obvious next step.
+- `INS-260403-AA0B` Important problems create an almost physical pain that paralyzes—you must approach them obliquely rather than head-on.
+- `INS-260329-783C` Ambitious people who can't stay consistent are misdiagnosing a frustration tolerance problem as a motivation problem.
+- `INS-260403-FFF0` Newton serves as Graham's model for seeking questions people didn't even realize were questions, rather than settling for the immediate rewards of familiar problems.
 - `INS-260403-4B81` Great projects universally pass through a phase where they look embarrassingly bad, and most people quit before pushing through it.
 - `INS-260404-056D` Great work requires pushing through an early phase where your output looks embarrassingly bad.
 - `INS-260409-B9A1` If you don't believe in your own ending, no one else can be recruited to help you get there.
@@ -38,4 +39,3 @@
 - `INS-260327-4E34` Reaching unicorn status is just 0-to-1—the real value creation is in the 1-to-10 and 10-to-100 phases.
 - `INS-260403-0530` New York struggles as a startup hub because founders there are second-class citizens in a status hierarchy that most admires financial wealth.
 - `INS-260403-D1D4` Doubling your already-ambitious targets forces strategic creativity and attracts higher-caliber collaborators.
-- `INS-260327-3918` Kennedy's deadline — 'land a man on the Moon before the decade is out' — mobilized $25B, 400,000 workers, and unprecedented innovation because the specificity and audacity of the goal demanded maximum effort.

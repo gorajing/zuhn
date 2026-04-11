@@ -47,10 +47,10 @@ resolutions:
     instrument rather than an ongoing spectacle.
 related:
   - INS-260330-F324
+  - INS-260330-B22D
   - INS-260330-E77D
   - INS-260330-2EB0
   - INS-260402-3F8D
-  - INS-260403-07C1
 stance: >-
   Rosolie must publicize the uncontacted tribes' existence to raise funds for
   their protection, even though publicity itself threatens them.

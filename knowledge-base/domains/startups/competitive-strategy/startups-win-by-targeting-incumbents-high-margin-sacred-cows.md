@@ -45,13 +45,12 @@ stance: >-
   creating permanent openings for lower-cost alternatives.
 related:
   - INS-260322-88C3
-  - INS-260321-7109
   - INS-260327-8D86
   - INS-260328-02A0
   - INS-260329-1318
+  - INS-260403-ABB7
   - INS-260405-8080
   - INS-260403-6F8B
   - INS-260402-CCF4
-  - INS-260404-A0C2
 ---
 Jason Cohen's framework identifies that large profitable companies are structurally unable to respond to startups targeting their high-margin segments. The incumbents' rational incentive is to protect existing revenue, not to disrupt themselves with lower-priced alternatives. This means startups can capture meaningful market share without triggering a destructive price war, because the incumbent's optimal move is to let small players nibble at the edges rather than slash their own margins. The strategic implication is that founders should specifically seek out markets where the dominant player's profitability is their vulnerability — the higher the incumbent's margins, the wider the moat a startup can build before the incumbent is forced to respond.

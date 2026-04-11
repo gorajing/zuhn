@@ -50,9 +50,9 @@ stance: >-
 related:
   - INS-260321-C6C0
   - PRI-260406-0A0B
+  - INS-260403-B8A3
   - INS-260404-CB41
   - PRI-260406-D802
-  - INS-260404-7F24
 ---
 When public portfolios shrink—as they did with the 4%+ S&P 500 drop after the tariff announcement—LPs' private market allocations become a larger percentage of their total portfolio, triggering rebalancing away from venture. This denominator effect is already manifesting as smaller fund sizes, slower deal pacing, tighter internal benchmarks, and a shift toward structured deals with more downside protection.
 

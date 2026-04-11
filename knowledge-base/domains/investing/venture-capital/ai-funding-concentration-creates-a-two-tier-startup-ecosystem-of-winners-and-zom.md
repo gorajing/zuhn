@@ -55,6 +55,7 @@ related:
   - INS-260403-968A
   - INS-260403-67AB
   - INS-260403-5056
+  - INS-260403-2FF2
 ---
 AI startups absorbed 40% of all U.S. venture capital in 2024, creating a severe funding imbalance. Non-AI startups that raised at peak valuations now find themselves unable to raise follow-on rounds, unable to reach profitability, and unable to IPO — earning the label 'zombiecorns.' This capital concentration effect mirrors historical patterns where a single dominant thesis (dot-com, crypto, cleantech) siphons oxygen from the broader ecosystem, but AI's share is unprecedented in scale.
 

@@ -15,17 +15,9 @@
 - `INS-260410-C63C` Anthropic's fiscal conservatism on compute — 'we don't want to go bankrupt' — cost them roughly a 50% revenue-share markup on last-minute capacity that OpenAI locked in years ago at pre-inflection prices.
 - `INS-260409-5B7B` AGI has no stable definition — OpenAI redefines it per audience to serve the specific mobilization need in front of them.
 - `INS-260322-CCE8` Even within OpenAI, the original belief was one AGI model that subsumes everything — that's completely changed, and the future is a portfolio of specialized models for different use cases.
-- `INS-260403-84E1` OpenAI is moving beyond API provider into direct enterprise SaaS competition with incumbents like Salesforce and HubSpot.
 - `INS-260322-D8C3` OpenAI doesn't treat agents as a separate category — ChatGPT, Codex CLI, Sora, and the API are all just different interfaces for deploying the same underlying intelligence, each optimized for different user contexts.
 - `INS-260328-896B` OpenAI's board tried to exercise its nonprofit mission authority and was immediately overridden by financial stakeholders — proving money wins over governance.
-- `INS-260403-BA1B` OpenAI's Miqdad Jaffer argues AI features get copied fast while costs outrun revenue, making data, distribution, and trust the real moats.
-- `INS-260404-D149` OpenAI's immediate response of offering o1 Mini free and rushing out Operator suggests their competitive position was more narrative than technical.
-- `INS-260327-C05A` OpenAI's metamorphosis from nonprofit 'for the good of humanity' to for-profit IPO candidate has permanently damaged trust with researchers, regulators, and the public.
-- `INS-260328-FF2C` The smartest people can make the impossible happen, but if you cannot attract the smartest people, you cannot even make the possible happen.
-- `INS-260327-421F` With commission, every hour spent helping a colleague or running an experiment is literally money out of your pocket — no-commission culture at Slack, OpenAI, Stripe, and others creates collaborative builders instead of selfish closers.
-- `INS-260327-A59A` Maggie left a senior director role at Webflow to become an individual contributor at 7-person OpenAI GTM because Kevin Egan's principle is true: if you get on a rocket ship, your career goes places you never imagined.
-- `INS-260327-18D4` Maggie's first OpenAI hire was Molly — Stanford MBA, 8 years at Google — who accepted an SDR role when 49 other candidates refused it, then built the global sales dev org within months because she had zero ego.
-- `INS-260323-B0EA` OpenAI started as a research lab with no product plans — patching the structure repeatedly as reality changed led to the awkward hybrid that enabled the board crisis.
+- `INS-260403-84E1` OpenAI is moving beyond API provider into direct enterprise SaaS competition with incumbents like Salesforce and HubSpot.
 - `INS-260327-40E3` Ramp data shows Anthropic capturing 73% of new enterprise AI spend as OpenAI's strategic inconsistency — from flat headcount to doubling, from standalone Sora to folding it in — erodes buyer confidence.
 - `INS-260322-B641` In a reversal of the traditional software pattern where enterprise was stickier than consumer, consumer AI (ChatGPT) is proving stickier than B2B model access — because switching a family's habits is harder than switching an API call.
 - `INS-260327-E1EB` OpenAI spent hundreds of billions developing AI capabilities that competitors can now replicate at a fraction of the cost, potentially turning pioneering investment into a structural disadvantage.
@@ -38,3 +30,11 @@
 - `INS-260324-5C53` OpenAI is Netscape (first mover, no moat), Nvidia is Sun+Cisco (shovel seller), hyperscalers are Exodus Communications (building for demand that hasn't materialized).
 - `INS-260403-0BE9` AI venture funding hit $225.8B in 2025 but mega-rounds dominated, with OpenAI, Anthropic, and xAI capturing 38% of total investment.
 - `INS-260404-8881` OpenAI's $40B raise drove US VC funding to $85.5B in Q1 2025, masking a tough environment for early-stage startups.
+- `INS-260403-BA1B` OpenAI's Miqdad Jaffer argues AI features get copied fast while costs outrun revenue, making data, distribution, and trust the real moats.
+- `INS-260404-D149` OpenAI's immediate response of offering o1 Mini free and rushing out Operator suggests their competitive position was more narrative than technical.
+- `INS-260327-C05A` OpenAI's metamorphosis from nonprofit 'for the good of humanity' to for-profit IPO candidate has permanently damaged trust with researchers, regulators, and the public.
+- `INS-260328-FF2C` The smartest people can make the impossible happen, but if you cannot attract the smartest people, you cannot even make the possible happen.
+- `INS-260327-421F` With commission, every hour spent helping a colleague or running an experiment is literally money out of your pocket — no-commission culture at Slack, OpenAI, Stripe, and others creates collaborative builders instead of selfish closers.
+- `INS-260327-A59A` Maggie left a senior director role at Webflow to become an individual contributor at 7-person OpenAI GTM because Kevin Egan's principle is true: if you get on a rocket ship, your career goes places you never imagined.
+- `INS-260327-18D4` Maggie's first OpenAI hire was Molly — Stanford MBA, 8 years at Google — who accepted an SDR role when 49 other candidates refused it, then built the global sales dev org within months because she had zero ego.
+- `INS-260323-B0EA` OpenAI started as a research lab with no product plans — patching the structure repeatedly as reality changed led to the awkward hybrid that enabled the board crisis.

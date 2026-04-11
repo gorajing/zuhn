@@ -3,9 +3,9 @@
 - `INS-260321-8414` The biggest barrier to enterprise AI agent adoption isn't model capability but trust UX — too many status updates and users say 'stop telling me crap,' too few and they say 'what is it doing?' — requiring progressive disclosure design patterns that don't yet exist.
 - `INS-260404-6398` Agentic AI's path to mainstream adoption is blocked by unresolved reliability and accountability challenges.
 - `INS-260322-191F` Some voice AI companies intentionally add latency and background noise to make agents sound more human, revealing that performance has outpaced user comfort.
+- `INS-260327-AC8E` Kellis argues we should raise AI like children - building mutual trust rather than forcing alignment - because you can't make an intelligent system love you by threatening to shut it off.
 - `INS-260409-F0F5` Google can ship personal AI agents without the trust onboarding problem because it already has calendar, email, and document access — the hardest earned privilege for new agentic products.
 - `INS-260323-4794` AI infrastructure includes human expectations, staff training, and cultural readiness — not just data pipelines and cloud credits.
-- `INS-260327-AC8E` Kellis argues we should raise AI like children - building mutual trust rather than forcing alignment - because you can't make an intelligent system love you by threatening to shut it off.
 - `INS-260321-9A03` Workers who see their employer as invested in them are more optimistic about AI. Building trust in AI may require building trust in the people deploying it, more than changing attitudes toward the technology.
 - `INS-260325-FA86` Despite massive research investment in explainable AI, the meta-analysis found no significant moderating effect of explanations or confidence on human-AI synergy or augmentation.
 - `INS-260322-116B` When AI can perform any technical task, employers hire for trustworthiness and genuine care — the qualities visible in someone's eyes, not their resume.
@@ -13,13 +13,14 @@
 - `INS-260403-D82B` Framing AI as a named co-worker rather than a tool converts resistant users into champions.
 - `INS-260323-A8B5` Jia Tan did not hack XZ — he spent years building trust with the maintainer, then weaponized that trust to insert a backdoor.
 - `INS-260409-4CE8` Plain files beat opaque stores because you can see, edit, and trust what the system knows.
-- `INS-260323-9E30` Wilkenfeld prefers 'trust' over 'confidence' because confidence implies a fixed belief in your identity ('I am this thing'), while trust is simply knowing you can handle whatever comes -- a more open and collaborative state.
-- `INS-260321-86E7` As AI-generated articles surpass human-written ones and AI slop floods social media, audiences will increasingly seek out authentic creators with long-term trusted brands.
-- `INS-260321-4280` With 10,000+ hours of footage online, any inauthenticity would surface as visible inconsistencies — authenticity is not a choice but a mathematical constraint at scale.
-- `INS-260404-F965` Sophisticated evaluators penalize polish that masks inexperience because it hides the raw talent signal they're actually looking for.
+- `INS-260330-D6EF` Proof of work replaces trust by making fraud more expensive than honest participation.
+- `INS-260322-760A` The 'self-driving money' app that automatically allocates paychecks, sweeps savings, and invests is technically feasible but faces a trust barrier — most consumers don't understand or trust the agent's actions.
+- `INS-260403-6E7C` The U.S. benefits from a trust premium built over decades that could evaporate far faster than it was accumulated.
+- `INS-260330-5EE9` North Korea's 2009 currency redenomination wiped out savings and permanently shifted unofficial transactions to the Chinese Yuan.
+- `INS-260330-516E` Allied trust in US commitments is the foundation of dollar reserve status, and transactional foreign policy directly threatens it.
 - `INS-260330-0E86` Flat Earth belief exploits the evolutionary mismatch between trusting personal observation and accepting counter-intuitive scientific conclusions.
+- `INS-260404-F965` Sophisticated evaluators penalize polish that masks inexperience because it hides the raw talent signal they're actually looking for.
 - `INS-260410-8E0D` Paine repeatedly tells Dwarkesh his questions are 'above my pay grade' — she can describe what the Japanese leadership faced, but can't say what was politically feasible for FDR without having served in government.
-- `INS-260330-90C3` Jho Low's fake credentials compounded — each lie made the next one easier because people used prior signals as validation.
 - `INS-260330-318B` Dressing salespeople as nurses exploits authority bias to bypass critical evaluation of claims.
 - `INS-260330-15AE` Cynics excuse their own bad behavior by projecting it as universal, making cynicism a trust signal.
 - `INS-260329-55F7` People trust their own conclusions far more than anything a salesperson tells them, so guide them to discover the answer rather than asserting it.
@@ -27,6 +28,7 @@
 - `INS-260329-8CA0` Disclosed side effects make products seem more potent because consumers interpret risk as evidence the product actually does something.
 - `INS-260330-B2C5` When 'trust the science' fails, the remedy is real science shorn of ideology — not wholesale rejection of expertise itself.
 - `INS-260329-78AE` People automatically trust speakers more when the speaker says something that visibly hurts their own interest, because costly signals are expensive to counterfeit.
+- `INS-260330-90C3` Jho Low's fake credentials compounded — each lie made the next one easier because people used prior signals as validation.
 - `INS-260330-78B8` Flagging your own simplifications as 'kind of a lie, but in the direction of truth' builds credibility and primes learners for the real version.
 - `INS-260403-9120` Frame early stakeholder conversations as informal information-seeking, not persuasion attempts, to get honest intelligence.
 - `INS-260323-7F5C` The Mashco Piro's default violence toward outsiders is a rational multigenerational strategy born from centuries of hostile contact with colonizers, rubber barons, and loggers.
@@ -37,14 +39,16 @@
 - `INS-260323-CF27` Positive interactions require vulnerability -- exposing that you care, that you're stressed, that you want to be liked -- and this exposure is what transforms routine exchanges into genuine bonds.
 - `INS-260330-5C69` Deliberately deceiving an adversary in negotiations to buy time destroys the possibility of future diplomatic solutions, often at catastrophic long-term cost.
 - `INS-260326-16A8` Sleep deprivation doesn't just make you tired -- it degrades immune function, insulin sensitivity, emotional regulation, and cognitive performance simultaneously, just as attention depletion collapses decision quality across every life domain.
+- `INS-260321-86E7` As AI-generated articles surpass human-written ones and AI slop floods social media, audiences will increasingly seek out authentic creators with long-term trusted brands.
+- `INS-260321-4280` With 10,000+ hours of footage online, any inauthenticity would surface as visible inconsistencies — authenticity is not a choice but a mathematical constraint at scale.
 - `INS-260322-5831` ElevenLabs' co-founders Mati and Peter are childhood best friends with complementary skills — one product-focused, one research-focused — and their deep mutual trust enables the company to move at extreme speed.
+- `INS-260403-DED8` Cuban says the biggest Shark Tank mistake is leading with the product instead of selling yourself — business is a human relationship first.
+- `INS-260405-39A6` Costco's 15% markup cap is a credible promise — customers know the rule, which is why they don't bother price-checking elsewhere.
+- `INS-260402-2D7B` Building authoritative trust in an adjacent domain creates differentiation that competitors cannot easily replicate.
 - `INS-260402-225A` Failed startups disproportionately cite cofounder character flaws over skill gaps as the root cause.
 - `INS-260403-7563` Bad actors in startups exploit in sequence — cofounders, then users, then acquirers — and each layer of deception caps the company's upside.
 - `INS-260323-1FC1` Kreischer and Segura's creative partnership survives because when money caused feelings to get involved, one said 'our feelings are more important than the money — so let's just split it.'
 - `INS-260330-8550` Spend 20+ hours with potential co-founders covering disagreements, work styles, and explicit divorce scenarios before committing.
-- `INS-260405-39A6` Costco's 15% markup cap is a credible promise — customers know the rule, which is why they don't bother price-checking elsewhere.
-- `INS-260402-2D7B` Building authoritative trust in an adjacent domain creates differentiation that competitors cannot easily replicate.
-- `INS-260403-DED8` Cuban says the biggest Shark Tank mistake is leading with the product instead of selling yourself — business is a human relationship first.
 - `INS-260403-D20A` List formats reduce reader risk by making content parallel, random-access, and fault-tolerant — like watertight compartments.
 - `INS-260405-D216` In AI content, doing-and-sharing beats talking-about at generating durable audience trust.
 - `INS-260405-6019` Expertise plus authenticity is outcompeting institutional authority as the basis for trusted information.
@@ -59,6 +63,7 @@
 - `INS-260330-636E` Ponzi's scheme collapsed when he hired honest publicist William McMasters, who gained access to records and exposed the fraud to the Boston Post.
 - `INS-260402-575D` Ten or more reviews override humans' innate preference for similar people, unlocking cross-demographic trust in marketplaces.
 - `INS-260402-1436` Marketplace growth bottlenecks on trust infrastructure — verified profiles, reviews, and safety systems — not on user acquisition.
+- `INS-260403-2759` Effective startup ecosystems are built from small, intentional networks of 6-20 people that share knowledge and build mutual confidence.
 - `INS-260322-E791` During a crisis, the false but simple narrative ('Robinhood colluded with hedge funds') will always defeat the true but complex explanation (clearing mechanics, Dodd-Frank, collateral requirements).
 - `INS-260323-4A3D` In prisoner's dilemma simulations, adding just a few shortcut connections to a clustered network destroys cooperation entirely -- explaining why social media breeds toxicity.
 - `INS-260409-D681` Relationships are the ballast that keeps transactional businesses afloat when the deal flow turns — customers stay with people, not products.
@@ -70,7 +75,15 @@
 - `INS-260403-92E9` Use testimonials with full attribution and specific quantified outcomes that map to core product benefits, never generic praise.
 - `INS-260410-70F3` IKEA invented the 'exhibition' — a single physical showroom that existed only to make customers trust the mail-order catalog enough to buy from it.
 - `INS-260403-E497` Screening for character at entry creates compounding returns through the quality of the network that forms around your organization.
-- `INS-260403-2759` Effective startup ecosystems are built from small, intentional networks of 6-20 people that share knowledge and build mutual confidence.
+- `INS-260410-9B33` Research shows direct long-haul flight connections between cities increase cross-city idea flow more than internet connectivity — and the effect is strongest between culturally distant places.
+- `INS-260403-16AB` AI copilots in marketplaces increase supply capacity while preserving trust, whereas full autopilots race to zero pricing.
+- `INS-260403-AFCD` Showing customers they are already vulnerable builds trust faster than any pitch deck or feature demo.
+- `INS-260403-5EB4` In low-trust markets, founders must build trust bridges through local symbols and social proof before product quality matters.
+- `INS-260410-A9CE` Greg Abel: 'We operate a decentralized model with autonomy grounded in deserved trust. We minimize bureaucracy to provide our managers the independence to focus relentlessly on their business. In return, we expect accountability and integrity in performance.'
+- `INS-260323-86FA` Valuing expert knowledge is fundamentally different from blind deference to authority — but public confusion between the two erodes trust in both.
+- `INS-260322-627E` Start with high trust (75%) so people take risks immediately, but deplete the trust battery faster than normal — you learn what people are made of much sooner.
+- `INS-260330-7675` Because Singapore's opposition is so disadvantaged, voters 'grade them on a curve' — the PAP could actually gain support by making elections fair, since voters would then judge alternatives on their actual merits.
+- `INS-260323-1176` When Ignacio told Rosolie 'you'd be an idiot to leave right now,' the decision to stay produced the historic first-contact encounter -- leaders must create space for trusted operators to override the plan.
 - `INS-260403-DE45` Experienced investors detect bullshit better than hackers produce it, so authenticity about your stage outperforms performative polish.
 - `INS-260403-4960` Tell investors truthfully about competing interest to create real urgency, but never exaggerate — investors are hypersensitive to manipulation.
 - `INS-260403-2B93` A clean LTV:CAC ratio unravels in investor meetings if the founder cannot explain what's in the numerator, timeframe, and channel breakdown.
@@ -81,19 +94,9 @@
 - `INS-260403-8CDC` Build trust with the investor before pitching the product — business is a human connection first.
 - `INS-260330-1002` Pony Ma secured critical early funding by telling investors 'if you don't fund us, Tencent will probably die' and admitting he wasn't sure how to monetize—his brutal honesty made investors trust him more than typical overconfident founders.
 - `INS-260403-D4BC` Startup culture's emphasis on speed and trust creates exploitable attack surfaces for fundraising fraud.
-- `INS-260410-9B33` Research shows direct long-haul flight connections between cities increase cross-city idea flow more than internet connectivity — and the effect is strongest between culturally distant places.
-- `INS-260410-A9CE` Greg Abel: 'We operate a decentralized model with autonomy grounded in deserved trust. We minimize bureaucracy to provide our managers the independence to focus relentlessly on their business. In return, we expect accountability and integrity in performance.'
-- `INS-260323-86FA` Valuing expert knowledge is fundamentally different from blind deference to authority — but public confusion between the two erodes trust in both.
-- `INS-260322-627E` Start with high trust (75%) so people take risks immediately, but deplete the trust battery faster than normal — you learn what people are made of much sooner.
-- `INS-260330-7675` Because Singapore's opposition is so disadvantaged, voters 'grade them on a curve' — the PAP could actually gain support by making elections fair, since voters would then judge alternatives on their actual merits.
-- `INS-260323-1176` When Ignacio told Rosolie 'you'd be an idiot to leave right now,' the decision to stay produced the historic first-contact encounter -- leaders must create space for trusted operators to override the plan.
-- `INS-260403-16AB` AI copilots in marketplaces increase supply capacity while preserving trust, whereas full autopilots race to zero pricing.
-- `INS-260403-AFCD` Showing customers they are already vulnerable builds trust faster than any pitch deck or feature demo.
-- `INS-260403-5EB4` In low-trust markets, founders must build trust bridges through local symbols and social proof before product quality matters.
 - `INS-260405-F456` PostHog's genuinely useful company blog—covering topics like CEO communication, first 1,000 users, and startup sales—is cited as a model for content marketing.
 - `INS-260410-81E8` Nadella argues the most important feature of American AI isn't capability but trust — countries are deploying based on whether the supplier and its institutions will still be around in 20 years.
 - `INS-260405-C5B4` GOAT's $4B valuation traces back to authenticating sneakers, not selling them.
-- `INS-260403-35CB` Ambient AI's power comes from not requiring oversight, but that same quality limits users' ability to opt out — making privacy a first-class design decision.
 - `INS-260329-3609` Hot streaks end not because salespeople forget how to sell, but because they stop believing in what they're selling.
 - `INS-260329-2B04` Deep conviction in what you sell transfers more powerfully than any closing technique because prospects can sense authenticity and it makes the seller immune to rejection streaks.
 - `INS-260329-95EA` Leading with a real negative before a positive ('but') makes the positive far more convincing because it signals honesty.
@@ -101,15 +104,12 @@
 - `INS-260329-4A69` Invest in capturing and displaying proof rather than crafting elaborate promises — proof is always more compelling.
 - `INS-260329-A6DB` Referrals close easily because the referrer has already solved the trust problem, not because the prospect is more qualified.
 - `INS-260405-390B` The most effective salespeople act as expert guides helping buyers make a good decision, not advocates pushing their own product.
+- `INS-260403-35CB` Ambient AI's power comes from not requiring oversight, but that same quality limits users' ability to opt out — making privacy a first-class design decision.
 - `INS-260329-88A4` Freedom and control are inversely correlated for entrepreneurs — growth requires systematically trading control for freedom through output-based trust.
 - `INS-260329-3924` You enter entrepreneurship for freedom but gain absolute control instead; each growth stage requires giving up control to regain freedom.
 - `INS-260330-0145` Ramsey treats every endorsement as a trust liability — if a partner fails the 'would you send your sister there' test, the deal dies regardless of revenue.
 - `INS-260329-79D3` Ramsey Solutions turns down advertisers that fail the 'would you send your sister there' test, even when the revenue is significant.
+- `INS-260323-9E30` Wilkenfeld prefers 'trust' over 'confidence' because confidence implies a fixed belief in your identity ('I am this thing'), while trust is simply knowing you can handle whatever comes -- a more open and collaborative state.
 - `INS-260323-2DB0` Asbestos companies funded Saranac Labs research with a clause giving them editorial control, then buried findings that showed cancer links.
 - `INS-260330-4ACF` Britain promised Palestine to three different parties simultaneously, ensuring universal betrayal and lasting conflict.
 - `INS-260323-92AD` Mortgage fraud safeguards are designed for ordinary borrowers, not for brokers who understand the system — Cox learned to exploit seams by moving from employee to company owner where he could see the full architecture.
-- `INS-260330-D6EF` Proof of work replaces trust by making fraud more expensive than honest participation.
-- `INS-260322-760A` The 'self-driving money' app that automatically allocates paychecks, sweeps savings, and invests is technically feasible but faces a trust barrier — most consumers don't understand or trust the agent's actions.
-- `INS-260403-6E7C` The U.S. benefits from a trust premium built over decades that could evaporate far faster than it was accumulated.
-- `INS-260330-5EE9` North Korea's 2009 currency redenomination wiped out savings and permanently shifted unofficial transactions to the Chinese Yuan.
-- `INS-260330-516E` Allied trust in US commitments is the foundation of dollar reserve status, and transactional foreign policy directly threatens it.

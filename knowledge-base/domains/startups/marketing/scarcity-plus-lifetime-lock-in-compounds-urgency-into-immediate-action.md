@@ -45,10 +45,10 @@ stance: >-
   purchase velocity because both loss-aversion triggers fire at the same
   decision point.
 related:
-  - INS-260403-1E4A
   - INS-260404-B8EB
   - INS-260325-73C0
   - INS-260404-0EB2
   - INS-260405-6524
+  - INS-260403-E78B
 ---
 Claire's launch capped availability at 500 users and offered a lifetime 50% discount that shielded early buyers from future price increases. Each mechanism alone generates urgency; stacked, they create asymmetric loss framing — the prospect risks both losing their seat and losing the permanent discount. Loss-aversion psychology means these framings are felt more strongly than equivalent gains, and compounding them doesn't just add the effects, it forces a decision right now. This tactic is most effective for launches because both constraints are credible at that moment — a 'limited seats' campaign for a mature product reads as manipulation, but for a first release it reads as real capacity constraint.
