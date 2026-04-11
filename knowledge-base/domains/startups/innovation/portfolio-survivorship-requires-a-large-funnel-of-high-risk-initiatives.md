@@ -47,10 +47,10 @@ stance: >-
   will fail during validation
 related:
   - INS-260327-DAA4
-  - INS-260403-215E
   - INS-260329-27DF
+  - INS-260410-DDD0
+  - INS-260403-215E
   - INS-260403-7DBB
-  - INS-260404-6D29
 evidence:
   - id: INS-260329-27DF
     type: CHALLENGES

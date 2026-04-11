@@ -1,7 +1,6 @@
 # Tag: survivorship-bias
 
 - `INS-260327-32F1` Career advice from successful people is inherently flawed by survivorship bias (only winners speak) and confirmation bias (they accentuate positives and eliminate negatives in retrospect).
-- `INS-260330-CF10` Every existing civilization has survived every past catastrophe, creating systematic underestimation of civilizational fragility.
 - `INS-260323-4E23` What looks like intentional strategy in evolution is actually 'simple chemistry that happens to work well and propagates' -- the same applies to business success stories.
 - `INS-260330-5C80` Early Chinese historians systematically reshaped the past to validate Confucian moral philosophy, revealing how all historical narrative serves the ideological needs of its authors.
 - `INS-260330-14E1` Chinese historians wrote dynastic history to prove Confucian moral philosophy, systematically distorting the record to fit their framework.
@@ -30,3 +29,4 @@
 - `INS-260330-5E47` Startups compress a lifetime of work into a few years — the total pain is roughly conserved, the payoff distribution is extreme (mean 30x but median zero), and most startups fail.
 - `INS-260403-06E7` A structured checklist asking what's missing, what luck was involved, what resources they had, whether it works without funding, and whether the model is generalizable turns inspiration into usable intelligence.
 - `INS-260330-5EA4` If users tolerate a problem and keep using your product, that problem is by definition not a critical blocker.
+- `INS-260330-CF10` Every existing civilization has survived every past catastrophe, creating systematic underestimation of civilizational fragility.

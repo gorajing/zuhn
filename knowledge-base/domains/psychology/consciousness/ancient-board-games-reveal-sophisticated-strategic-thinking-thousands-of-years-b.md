@@ -51,6 +51,7 @@ stance: >-
   formal mathematics by millennia.
 related:
   - INS-260402-26B0
+  - INS-260410-02EA
   - INS-260403-3A8A
   - INS-260403-D970
   - INS-260325-EBDD

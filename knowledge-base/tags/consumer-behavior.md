@@ -3,13 +3,11 @@
 - `INS-260330-82B5` One bad AI interaction permanently destroys user willingness to retry, creating a vicious cycle of declining engagement and improvement.
 - `INS-260330-30CE` Users who experience AI failure on first try rarely return, creating an adoption death spiral that compounds over time.
 - `INS-260322-E7E9` When insurance rejected a BMI-34.7 patient for Ozempic coverage at $1000/month, she turned to Chinese-sourced peptides at $15/vial — the access gap is creating the gray market.
+- `INS-260403-F03A` Judge purchases by projected usage, not by the deal you got.
 - `INS-260404-D976` Samsung users' MRIs showed strong anti-Apple responses they didn't consciously report feeling.
 - `INS-260329-67D1` Letting customers choose their own quantity shifts price blame from the business to the buyer.
 - `INS-260329-8CA0` Disclosed side effects make products seem more potent because consumers interpret risk as evidence the product actually does something.
-- `INS-260403-F03A` Judge purchases by projected usage, not by the deal you got.
 - `INS-260330-9A34` Mechanical watches needed to be accurate to within 5 seconds/day — not as good as quartz, but good enough that wearing one didn't break the luxury illusion.
-- `INS-260403-74DB` The shopping-as-leisure reframe is a deliberate corporate strategy most people can't see through for decades.
-- `INS-260409-492F` The profitable opportunity in AI is the gap between when something can be automated and when consumers actually change their habits, which runs for years.
 - `INS-260327-134F` When addictive substances are packaged in clean modern branding with lifestyle marketing, consumers perceive them as wel
 - `INS-260327-6742` Stated preference for sustainable packaging evaporates when the price premium is visible on the shelf because consumers 
 - `INS-260327-A69D` Plant-based milk adoption was driven primarily by avoiding dairy rather than positive attributes of the alternatives, cr
@@ -27,6 +25,8 @@
 - `INS-260327-7D27` All-inclusive pricing environments increase total spending because individual consumption decisions carry zero marginal 
 - `INS-260327-6188` When therapy is marketed like a subscription service, consumers expect consumer-grade UX, responsiveness, and satisfacti
 - `INS-260327-7018` Affluent consumers who thrift for social media content are performing frugality as an identity signal while spending mor
+- `INS-260403-74DB` The shopping-as-leisure reframe is a deliberate corporate strategy most people can't see through for decades.
+- `INS-260409-492F` The profitable opportunity in AI is the gap between when something can be automated and when consumers actually change their habits, which runs for years.
 - `INS-260330-5C64` Users make one unrelated choice (e.g., buying a phone) that forces dozens of subsequent choices, creating compounding lock-in that no single service could generate independently.
 - `INS-260330-0998` Tencent's attempt to charge subscription fees for QQ backfired and lost users to competitors, but switching to free access with microtransactions for virtual items and in-game purchases became enormously profitable.
 - `INS-260330-8639` A product's true cost is purchase price minus resale value, which can completely flip which option is actually cheaper.

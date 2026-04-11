@@ -9,6 +9,8 @@
 - `INS-260330-1E12` Staying anchored to a known reference point in chaos prevents the fatal disorientation that kills more people than the threat itself.
 - `INS-260330-523E` Expert social engineers often learned to read people as abused children needing to predict and manipulate caregivers for survival.
 - `INS-260323-3CC2` Even after a major win, assume your competitor has achieved the same advantage and continue producing at maximum intensity.
+- `INS-260410-EA10` Unlike fighting dragons, companies only die when founders quit — so cultivate survival obsession over strategic certainty.
+- `INS-260410-8D2E` Ek says every successful entrepreneur he knows has had at least three near-death experiences, and that if he'd known how hard Spotify would be he would never have started it.
 - `INS-260327-A234` Be a cockroach—survive everything by doing whatever it takes daily to prevent your company from dying.
 - `INS-260403-2A30` A clear cash runway model turns the existential threat of running out of money into a series of calm, informed decisions.
 - `INS-260327-125F` At one point his bank account was under $100 and he lived in a tiny room with mice — that willingness to endure extreme frugality gave Presto the runway to survive 5 years with zero revenue.
@@ -21,6 +23,7 @@
 - `INS-260403-7D04` Paul Graham identifies ramen profitability — enough revenue to cover founders' basic living costs — as the most important startup threshold because it means you no longer need investors' permission to continue existing.
 - `INS-260403-A57D` Expecting to raise more money makes startups slack on profitability, which makes raising money harder.
 - `INS-260330-97F6` In a downturn, assume your current bank balance is your terminal funding and work backward from that constraint to find a viable path to profitability or self-sustaining growth.
+- `INS-260403-D49E` Shifting from 'buy our product' to 'what do you need' unlocks immediate revenue from startup talent advantages.
 - `INS-260403-AC9F` The most dangerous period for startups is not the search for PMF but the growth plateau that follows 3-5 years after finding it.
 - `INS-260330-440E` The Indus Valley shows almost no evidence of warfare or military infrastructure, and its collapse coincided with the arrival of more warlike peoples.
-- `INS-260403-D49E` Shifting from 'buy our product' to 'what do you need' unlocks immediate revenue from startup talent advantages.
+- `INS-260410-B74C` Choose to be modestly less profitable than peers in booms so you can remain standing — and acquire them — during busts.

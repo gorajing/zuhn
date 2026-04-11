@@ -48,7 +48,6 @@ stance: >-
   patient capital deployment and higher returns, not merely a cost investors
   must tolerate.
 related:
-  - INS-260326-286F
   - INS-260404-B640
   - PRI-260406-6287
   - INS-260404-0475

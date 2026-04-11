@@ -2,20 +2,8 @@
 
 - `INS-260409-58CD` Doom rhetoric and abundance rhetoric are complementary, not opposed — both justify concentration of control in the few labs claiming to navigate the stakes.
 - `INS-260405-285D` Mistral raised €600M at a €5.8bn valuation from DST Global and General Catalyst despite a 50% contraction in active European VCs.
-- `INS-260322-03DD` a16z was criticized for raising their first fund in 2009 during the financial crisis, but it turned out that raising when nobody else has capital gives structural advantages in deal access and pricing.
-- `INS-260403-7068` a16z Speedrun's real offering is structured access to media operators, brand experts, and live demo rehearsals with buyers—not the $1M check.
-- `INS-260403-C5BD` AI automation compresses startup scaling timelines so dramatically that traditional VC growth benchmarks and pricing heuristics no longer predict winner outcomes.
-- `INS-260403-8EE8` AI startups captured 64% of U.S. deal value in H1 while traditional VC funds struggle to close, creating a two-tier market.
-- `INS-260403-9FEB` 46% of new creator economy unicorns since 2020 are AI-based platforms, and AI-related startups captured the majority of new funding in 2024.
-- `INS-260405-B738` DCF ignores the strategic flexibility and explosive optionality that defines startup value, making it the wrong tool for early-stage companies.
-- `INS-260404-B0BF` European startups are increasingly choosing venture debt over equity even as high interest rates persist, with lending nearing record highs.
-- `INS-260404-5E22` Family offices offer faster, more flexible early-stage capital than traditional VC firms.
-- `INS-260405-F01C` After the weakest fundraising year since 2017, Q1 2026 became the biggest fundraising quarter since the 2021 peak—a full reversal in one quarter.
-- `INS-260403-6B29` Thoma Bravo's $34.4B fundraise signals institutional capital concentrating in proven B2B/SaaS models.
-- `INS-260405-B126` General Catalyst and a16z alone captured 44% of all US VC fundraising in 2024, indicating a winner-take-most dynamic among funds.
-- `INS-260404-88F9` VCs struggle to raise while simultaneously planning to deploy more capital, creating structural tension.
-- `INS-260403-2F77` Successfully raising once miscalibrates founders into overestimating their ability to raise again under fundamentally different conditions.
 - `INS-260405-76E4` Investors without technical depth use founder confidence as a proxy for product quality.
+- `INS-260403-2F77` Successfully raising once miscalibrates founders into overestimating their ability to raise again under fundamentally different conditions.
 - `INS-260409-BC24` Raise after revenue, not before — AI-era timelines make the old sequencing obsolete.
 - `INS-260405-9C70` Bootstrapping and VC-backing are different contracts with different incentives — the right one depends on what the founder actually wants to build and own.
 - `INS-260321-E8CB` One-size-fits-all SaaS benchmarks are misleading — a pre-seed company should target burn multiple <2.5x while Series B+ targets <1.0x. Stage-specific targets: NRR >100%/>110%/>120%, LTV:CAC >2.0x/>3.0x/>3.5x.
@@ -28,9 +16,9 @@
 - `INS-260325-3E9F` Xiaoyin Qu (2 exits, ex-Facebook PM): traction flips the fundraising power dynamic from begging for money to investors begging you to take theirs.
 - `INS-260327-D2A6` Make your fundraise itself a story worth telling—unconventional approaches generate more attention than conventional pitches.
 - `INS-260327-4B5A` Show real-time revenue growth by updating your metrics continuously—static snapshots are far less compelling.
-- `INS-260404-3B83` Mamdani's NYC mayoral win used social-media-first grassroots fundraising to defeat opponents backed by 26 billionaires spending $22M+.
 - `INS-260330-C7FF` The most successful YC companies gave generous equity to early employees (~10% for first 10) while fighting to minimize investor dilution.
 - `INS-260404-D60F` Underfunding back-office functions creates hidden operational debt that surfaces during investor diligence and audit cycles.
+- `INS-260404-3B83` Mamdani's NYC mayoral win used social-media-first grassroots fundraising to defeat opponents backed by 26 billionaires spending $22M+.
 - `INS-260321-3521` Using another company's funding as market validation is a false signal — investors often fund founders, not ideas, and many funded companies pivoted from their original concept.
 - `INS-260405-94A1` Match your pitch deck's emphasis to investor decision criteria at your specific funding stage.
 - `INS-260405-5C48` Having live IRR numbers before every investor call signals operational discipline and closes the trust gap faster than almost any other preparation.
@@ -247,3 +235,15 @@
 - `INS-260405-6D3A` Quirky raised $185M and went bankrupt because capital scaled an unvalidated assumption, not a proven market.
 - `INS-260403-AC06` Identify which of your risks amplify each other and prioritize decoupling them before approaching investors.
 - `INS-260326-870E` Silicon Valley investors rank growth above team, experience, or pedigree — having growth solves every single startup problem.
+- `INS-260322-03DD` a16z was criticized for raising their first fund in 2009 during the financial crisis, but it turned out that raising when nobody else has capital gives structural advantages in deal access and pricing.
+- `INS-260403-7068` a16z Speedrun's real offering is structured access to media operators, brand experts, and live demo rehearsals with buyers—not the $1M check.
+- `INS-260403-C5BD` AI automation compresses startup scaling timelines so dramatically that traditional VC growth benchmarks and pricing heuristics no longer predict winner outcomes.
+- `INS-260403-8EE8` AI startups captured 64% of U.S. deal value in H1 while traditional VC funds struggle to close, creating a two-tier market.
+- `INS-260403-9FEB` 46% of new creator economy unicorns since 2020 are AI-based platforms, and AI-related startups captured the majority of new funding in 2024.
+- `INS-260405-B738` DCF ignores the strategic flexibility and explosive optionality that defines startup value, making it the wrong tool for early-stage companies.
+- `INS-260404-B0BF` European startups are increasingly choosing venture debt over equity even as high interest rates persist, with lending nearing record highs.
+- `INS-260404-5E22` Family offices offer faster, more flexible early-stage capital than traditional VC firms.
+- `INS-260405-F01C` After the weakest fundraising year since 2017, Q1 2026 became the biggest fundraising quarter since the 2021 peak—a full reversal in one quarter.
+- `INS-260403-6B29` Thoma Bravo's $34.4B fundraise signals institutional capital concentrating in proven B2B/SaaS models.
+- `INS-260405-B126` General Catalyst and a16z alone captured 44% of all US VC fundraising in 2024, indicating a winner-take-most dynamic among funds.
+- `INS-260404-88F9` VCs struggle to raise while simultaneously planning to deploy more capital, creating structural tension.

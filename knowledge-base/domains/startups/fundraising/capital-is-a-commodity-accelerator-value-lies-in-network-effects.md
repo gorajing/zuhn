@@ -49,5 +49,6 @@ related:
   - PRI-260406-164A
   - INS-260404-9263
   - PRI-260406-4397
+  - INS-260410-A98D
 ---
 Ryan Rigney was explicit that capital is a commodity — what Speedrun actually offers is unfair advantages: introductions to enterprise customers, access to world-class talent, the a16z network's credibility halo, and a cohort of high-caliber founders who push each other. Founders who went through the program consistently cite the peer community as the biggest value-add. This reframes accelerator selection from 'who gives the best terms' to 'who provides the densest network effects.' The implication for founders choosing between programs is to optimize for quality of peer cohort and network density over check size or valuation.

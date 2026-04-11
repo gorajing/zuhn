@@ -56,7 +56,6 @@ related:
   - INS-260403-7513
   - INS-260330-0346
   - INS-260404-5882
-  - INS-260403-A521
 ---
 Graham uses the metaphor of a shop with a sticking door: to non-carpenters it's a mysterious natural phenomenon requiring a warning sign, but to a carpenter the fix is obvious. Similarly, once you're good at programming, all the missing software in the world becomes visible. Zuckerberg saw that Harvard's student directory wasn't online and thought 'I could fix this in one night' — most students didn't even notice the problem.
 

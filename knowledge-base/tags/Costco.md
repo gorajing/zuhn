@@ -1,6 +1,5 @@
 # Tag: costco
 
-- `INS-260410-D5FC` Costco's hard 14% markup ceiling (11% target) converts every operational improvement into customer value, which compounds into trust, retention, and supplier leverage no competitor can match.
 - `INS-260405-A164` Once you've paid an annual fee, you stop asking 'is this the best price?' and start asking 'how do I justify what I already spent?'
 - `INS-260405-39A6` Costco's 15% markup cap is a credible promise — customers know the rule, which is why they don't bother price-checking elsewhere.
 - `INS-260410-9C58` The $60 membership and bulk pack sizes select for customers who have cash flow flexibility, storage space, and a willingness to plan ahead — yielding the wealthiest customer base of any major US retailer despite the lowest prices.
@@ -12,9 +11,11 @@
 - `INS-260405-D4F4` Making membership the revenue source (not a loyalty add-on) structurally forces a company to serve customers rather than extract from them.
 - `INS-260405-051E` Costco makes 75% of revenue from membership fees, so it profits by impressing customers with low prices rather than extracting margin from each sale.
 - `INS-260410-D9DC` Prime's genius wasn't covering shipping costs—it was making customers pre-commit to Amazon financially so they'd rationalize doing all their shopping there.
+- `INS-260410-EFD5` Costco's refusal to raise the hot dog or rotisserie chicken price is a deliberate sacred anchor — the signal that the whole store is cheap is worth far more than the margin.
 - `INS-260410-1D7A` Sol Price's 'intelligent loss of sales' principle: forgo customers who only need 3 oz of WD-40 so you can carry only the 8 oz can — the SKU reduction unlocks logistics, labor, and supplier benefits that dwarf the lost revenue.
 - `INS-260405-AC40` Costco pays double the retail average wage and reports three times the productivity, suggesting high wages are a competitive lever rather than a constraint.
 - `INS-260405-47FD` Costco pays $21/hour average — double the U.S. retail average — and gets employees three times more productive in return.
+- `INS-260410-EEC1` Walmart watched Costco compound for decades without copying it because their prior playbook — cheap rural real estate, big efficient stores — already occupied the mental slot where the Costco model would have gone.
 - `INS-260403-6670` Costco stocks 4,000 SKUs vs Walmart's 140,000, making each slot fiercely contested by suppliers willing to cut prices.
 - `INS-260405-DEF2` Being the only or one of two options in a category gives you more leverage over suppliers than volume alone ever could.
 - `INS-260410-920E` Low SKU count enables pallet-only logistics, which enables cross-docking, which enables labor efficiency, which enables higher wages, which enables low shrinkage, which enables thin margins — pull any thread and the whole tapestry unravels.
@@ -28,3 +29,4 @@
 - `INS-260403-9104` Costco's $60+ membership fee filters for affluent, high-spending customers while simultaneously creating sunk-cost-driven loyalty.
 - `INS-260403-6BD9` Costco turns its confusing warehouse layout, mandatory fee, and limited selection into advantages that competitors won't replicate because they look like problems.
 - `INS-260403-137D` Costco's $60 membership fee filters for households averaging ~$100K income, with business owners representing one-third of members but two-thirds of sales.
+- `INS-260410-D5FC` Costco's hard 14% markup ceiling (11% target) converts every operational improvement into customer value, which compounds into trust, retention, and supplier leverage no competitor can match.

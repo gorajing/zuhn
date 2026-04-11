@@ -58,7 +58,7 @@ related:
   - INS-260330-6611
   - PRI-260324-A608
   - INS-260330-AB5D
-  - INS-260327-0595
+  - INS-260410-A17B
 ---
 Ballmer's framework: most attempts at new businesses produce 'zero tricks' (features that die or get acquired). A one-trick pony like TSMC, Nvidia, or early Google is a $50B-$1T outcome you should revere — not diminish. Two tricks (Microsoft's desktop + back-office/cloud, Apple's Mac + mobile, Amazon's store + AWS) is the ceiling of the most valuable companies in the world. No one has managed three.
 

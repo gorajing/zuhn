@@ -45,10 +45,10 @@ stance: >-
   personally.
 related:
   - PRI-260328-BD81
+  - INS-260410-EA10
   - INS-260323-CB34
   - INS-260403-7CAA
   - INS-260327-27DA
-  - INS-260403-30E5
 evidence:
   - id: INS-260330-8BA6
     type: SUPPORTS

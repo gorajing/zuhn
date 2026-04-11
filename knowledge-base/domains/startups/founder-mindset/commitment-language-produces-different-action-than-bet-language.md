@@ -59,8 +59,8 @@ related:
   - INS-260329-DFDD
   - INS-260403-62A9
   - INS-260409-2384
+  - INS-260410-DDD0
   - INS-260403-5E03
-  - INS-260403-047B
 ---
 Mitch Lasky calls out that the word 'bet' pervades VC vocabulary and carries a passive, spectator stance — you did your diligence, you forecasted the odds, now you watch the outcome. Benchmark partners refuse to use the word. They frame each investment as a 'commitment' — a promise to be on the field alongside the founder, denting the odds rather than predicting them. Because they only make one or two such commitments per partner per year, the relationship depth is radically different from a portfolio of 30 bets, and the partner can credibly drop everything at midnight on Sunday to fly internationally for one company (as Chetan Puttagunta did the day of the recording).
 

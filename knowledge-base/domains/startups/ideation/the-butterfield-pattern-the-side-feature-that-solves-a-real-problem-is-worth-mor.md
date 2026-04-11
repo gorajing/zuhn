@@ -44,7 +44,6 @@ resolutions:
     the workaround — these are often closer to product-market fit than the main
     vision.
 related:
-  - INS-260321-2F43
   - INS-260405-63C8
   - PRI-260406-B331
   - INS-260404-96E6
@@ -52,8 +51,9 @@ related:
   - INS-260327-5CB0
   - INS-260323-C5D3
   - INS-260329-BBBE
-  - INS-260403-C161
   - INS-260405-3772
+  - INS-260403-0DE8
+  - INS-260325-A1BC
 stance: >-
   Stuart Butterfield's games failed twice, but side features born from real
   problems became Flickr ($20M) and Slack ($27B)

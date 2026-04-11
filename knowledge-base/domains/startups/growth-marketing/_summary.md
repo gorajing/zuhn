@@ -1,6 +1,6 @@
 # Topic: growth-marketing
 
-> 150 insights
+> 151 insights
 
 - `INS-260320-630D` [very_high] Frame your product as a solution to a problem, not a toy — a video framing Coconote as a fun toy got 41M views but terrible conversion, while solution-framed videos converted far better.
 - `INS-260320-080B` [very_high] Ask customers how they describe your product, then use their exact words as marketing copy — Coconote asked and the majority said "never miss a key detail," which became their App Store headline.
@@ -43,6 +43,7 @@
 - `INS-260327-65F6` [high] Products distributed freely as brand promotions generate more usage and loyalty than identical products sold at any pric
 - `INS-260322-0247` [high] Robinhood's zero-commission bet gave them 3-4 years before incumbents could respond because free is a categorically different value proposition than merely cheaper.
 - `INS-260330-1A23` [high] Free samples designed to eliminate the user's ability to revert create permanent lock-in.
+- `INS-260410-BA1A` [high] Spotify needed users to hear about it ~8 times before signing up, so early marketing deliberately saturated small geographies like Sweden and US college towns.
 - `INS-260403-6032` [high] Set region-specific prices reflecting local purchasing power — Netflix charges $15 in the US but $2.50 in Pakistan for the same product.
 - `INS-260327-7BE4` [high] Businesses that advertise low headline prices then add fees during checkout create more consumer resentment than busines
 - `INS-260322-3259` [high] SiteGPT's $1700-1800 LTV per customer makes even low-conversion organic traffic highly profitable.

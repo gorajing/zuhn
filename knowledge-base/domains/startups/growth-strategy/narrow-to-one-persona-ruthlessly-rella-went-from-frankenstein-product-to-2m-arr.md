@@ -49,9 +49,9 @@ resolutions:
 related:
   - INS-260403-93A5
   - PRI-260328-1D90
+  - INS-260410-EF31
   - INS-260330-C24F
   - INS-260322-06EA
-  - PRI-260328-0C15
   - INS-260327-978B
 stance: >-
   Rella tried to serve everyone on social media, built a confused Frankenstein

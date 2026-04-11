@@ -43,9 +43,9 @@ resolutions:
 related:
   - INS-260329-1962
   - INS-260405-D959
+  - INS-260410-228E
   - PRI-260323-81E9
   - INS-260405-3403
-  - INS-260403-032B
 stance: >-
   Founders assume if the winner makes $500M and they make $50M, they're worth
   one-tenth

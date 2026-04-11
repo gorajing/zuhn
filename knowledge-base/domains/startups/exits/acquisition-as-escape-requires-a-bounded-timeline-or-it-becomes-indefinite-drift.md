@@ -44,7 +44,6 @@ stance: >-
   commit to winding down if nothing closes.
 related:
   - INS-260329-8B33
-  - INS-260403-D972
   - INS-260409-0503
   - INS-260403-D70C
   - INS-260326-C305

@@ -60,9 +60,9 @@ related:
   - INS-260403-6279
   - INS-260403-690C
   - INS-260403-90FF
-  - INS-260403-3A72
   - INS-260403-D39A
   - INS-260403-924B
+  - INS-260404-8076
 ---
 Chamath identifies a historical pattern: Apple and Microsoft were born in the 1970s (high rates + microprocessor + software OS), while Google and Amazon emerged in the 1990s (post-dotcom discipline + internet + e-commerce infrastructure). Each cohort had the 'trifecta' of simultaneous advances in bits (software platforms) and atoms (physical infrastructure) intersecting with the austerity of expensive capital.
 

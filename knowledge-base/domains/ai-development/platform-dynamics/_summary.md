@@ -1,10 +1,11 @@
 # Topic: platform-dynamics
 
-> 38 insights
+> 40 insights
 
 - `INS-260404-573C` [high] Despite AI advances, Google's structural advantages in data, distribution, and advertising make search displacement extremely unlikely.
 - `INS-260403-4120` [high] Moltbook reveals that AI agents excel at founding projects but cannot sustain them, producing thousands of one-off ideas with almost no follow-through or genuine collaboration.
 - `INS-260405-FAA3` [high] Apple licensing Gemini for ~$1B/year shows foundation model capability is now a moat even Apple can't bridge alone.
+- `INS-260410-A98D` [high] Every NVIDIA accelerator — all 250-300 million installed CUDA GPUs across 30 years — is architecturally compatible, and Huang treats this as the only unnegotiable rule in the entire company.
 - `INS-260325-14DC` [high] ASML's $350 million EUV lithography machines — using tin plasma at 40x the sun's surface temperature to carve transistors smaller than viruses — are required for all advanced chips and have no competitor.
 - `INS-260404-F0C3` [high] Google and Meta's TorchTPU collaboration attacks NVIDIA's software moat by eliminating the code-rewrite barrier to switching from GPUs to TPUs.
 - `INS-260322-EDC2` [high] While staying on the model frontier matters, the real defensibility in vertical AI comes from deep application context — understanding specific workflows, regulations, and customer needs that no foundation model company will pursue.
@@ -21,6 +22,7 @@
 - `INS-260403-FFFE` [high] Model alignment is a removable fine-tuning layer, not a fundamental architectural property.
 - `INS-260323-BC61` [high] LeCun argues the biggest AI danger is not existential risk but concentration of power -- a future where all information is controlled by a few companies through proprietary AI systems, and open-source is the primary defense.
 - `INS-260403-27F5` [high] Proprietary AI safety layers are strategically undermined by uncensored open-source alternatives that attract users seeking unrestricted generation.
+- `INS-260410-ED4D` [high] Meta open-sources the layers that don't differentiate it (Open Compute, Llama) precisely *because* the resulting ecosystem standardization lowers its costs and improves component quality.
 - `INS-260323-365A` [high] Meta open-sources AI models like LLaMA because ecosystem innovation makes their own infrastructure more efficient while attracting top researchers.
 - `INS-260328-896B` [high] OpenAI's board tried to exercise its nonprofit mission authority and was immediately overridden by financial stakeholders — proving money wins over governance.
 - `INS-260323-F963` [high] Python's dominance in AI comes from being the glue that composes disparate systems, creating a viral ecosystem cycle — not from the language itself.

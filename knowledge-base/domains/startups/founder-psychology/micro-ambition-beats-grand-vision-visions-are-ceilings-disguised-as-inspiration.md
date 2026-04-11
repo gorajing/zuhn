@@ -50,7 +50,6 @@ stance: >-
   anchor to long-term visions, because visions create artificial ceilings that
   cap potential the founder cannot yet imagine.
 related:
-  - INS-260329-8542
   - INS-260409-A318
   - INS-260410-87C4
   - INS-260403-6F9C

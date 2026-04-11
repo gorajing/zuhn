@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 573 insights
+> 575 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -219,6 +219,7 @@
 - `INS-260405-63C8` [high] BlackBerry's collapse was not a product failure — it was a perceptual failure about which game they were playing.
 - `INS-260330-519D` [high] Chinese and Indian phone makers built deep localization moats — dual SIM, regional language support, local payment integration — that Apple treats as afterthoughts.
 - `INS-260403-202E` [high] Microsoft created XMLHttpRequest for Outlook, inadvertently enabling the Ajax revolution that killed the desktop era.
+- `INS-260410-EEC1` [high] Walmart watched Costco compound for decades without copying it because their prior playbook — cheap rural real estate, big efficient stores — already occupied the mental slot where the Costco model would have gone.
 - `INS-260323-07BE` [high] Johns-Manville systematically acquired companies with asbestos-free alternatives to eliminate anyone who could publicly denounce asbestos as dangerous.
 - `INS-260330-9014` [high] Blockbuster's 60,000 employees and thousands of stores — once their moat — became their biggest liability when streaming eliminated the need for physical locations.
 - `INS-260403-E482` [high] Yahoo rejected Google's $1M/year search deal and later a $3B acquisition because accepting either would acknowledge Google's technology was superior.
@@ -289,6 +290,7 @@
 - `INS-260404-21E6` [high] DoorDash's value comes from its network and market position, not its code — AI tools that make cloning easy don't threaten network-effect moats.
 - `INS-260330-63FE` [high] At Stalingrad, Russians 'hugged' German front lines so Luftwaffe air strikes would kill both sides equally — neutralizing Germany's air superiority through proximity.
 - `INS-260327-2A58` [high] Analog products can sustain premium niche markets among enthusiasts but cannot recapture mass-market share because the c
+- `INS-260410-3EF5` [high] Pick an extreme: dominate globally with massive fixed costs or aggregate the world's weirdos around one niche — never sit in the middle.
 - `INS-260329-9D87` [high] Narrowing your niche from generic to hyper-specific lets you charge 500x more while facing virtually no competition.
 - `INS-260327-C05A` [high] OpenAI's metamorphosis from nonprofit 'for the good of humanity' to for-profit IPO candidate has permanently damaged trust with researchers, regulators, and the public.
 - `INS-260330-0294` [high] Asymptotic network effects plateau in value quickly, making companies with this structure vulnerable to well-funded competitors who only need to match a fraction of the supply.

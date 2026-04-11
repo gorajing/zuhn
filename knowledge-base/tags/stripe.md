@@ -6,3 +6,4 @@
 - `INS-260330-F737` Schlep blindness causes founders to unconsciously avoid ideas involving tedious operational work, systematically hiding the highest-value opportunities.
 - `INS-260403-F4D7` Best-in-class infrastructure components are now commodity plug-and-play, so building custom infra is almost always wrong for early-stage startups.
 - `INS-260330-D031` Stripe's radical transparency (BCCing everyone on all emails) broke Gmail and overwhelmed new hires, requiring new tooling and norms to sustain.
+- `INS-260410-A17B` Bezos's beer-brewery analogy was a marketing pitch for AWS, but the deeper lesson was that being the unregulated utility is the great hidden business model.

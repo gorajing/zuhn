@@ -59,8 +59,8 @@ related:
   - INS-260327-A70C
   - PRI-260406-6DBE
   - INS-260327-40D5
+  - INS-260410-18A0
   - INS-260403-7D11
-  - INS-260404-1E35
 ---
 Under the comparative advantage framework, the most probable outcome is not mass unemployment but a world where doctors get a 10% raise while Sam Altman and Jensen Huang become quadrillionaires. AI could reduce the premium on human capital (skills, education) while massively increasing the premium on physical and intangible capital (chips, data centers, foundational models). This mirrors the Gilded Age pattern but at potentially far greater scale.
 

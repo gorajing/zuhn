@@ -54,6 +54,7 @@ related:
   - INS-260329-920D
   - PRI-260406-FCF0
   - PRI-260406-DE8A
+  - INS-260410-EFB8
 ---
 The traditional startup sequence of build-first, sell-later has been replaced by a parallel execution model. Elite startups now hit $1M ARR in under 9 months with burn multiples below 1.0, meaning they generate more revenue than they burn. This is only possible because founders treat distribution as a core product feature from day one, not as a problem to solve after achieving product-market fit.
 

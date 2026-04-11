@@ -62,6 +62,7 @@ related:
   - INS-260410-A5E1
   - INS-260403-397B
   - INS-260410-BFA1
+  - INS-260410-575B
 ---
 Adam Neumann reportedly sought to reacquire WeWork in early 2024, five years after being forced out following the failed IPO. WeWork had filed for bankruptcy, making this a distressed asset — yet the original founder wanted it back. The pattern of ousted founders seeking to reclaim their companies is not unique to Neumann; it reflects how deeply founders fuse personal identity with the companies they build.
 

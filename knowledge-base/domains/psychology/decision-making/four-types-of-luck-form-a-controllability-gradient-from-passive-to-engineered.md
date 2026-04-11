@@ -48,12 +48,11 @@ stance: >-
   engineered through unique positioning, and most people underinvest in the
   higher-controllability types.
 related:
-  - INS-260327-6992
+  - INS-260410-F1F1
   - INS-260403-147C
   - INS-260402-33CA
   - INS-260328-68BA
   - INS-260405-AEA0
-  - INS-260402-9093
 evidence:
   - id: INS-260403-147C
     type: EXTENDS

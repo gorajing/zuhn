@@ -44,7 +44,6 @@ stance: >-
   Ventures' $500M signals that emerging managers face an increasingly
   winner-take-all funding landscape in Europe
 related:
-  - INS-260327-5CB6
   - INS-260403-287B
   - INS-260403-3AEE
   - INS-260405-7ABE

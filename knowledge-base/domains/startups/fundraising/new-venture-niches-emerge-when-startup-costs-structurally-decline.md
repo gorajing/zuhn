@@ -44,7 +44,6 @@ stance: >-
   Declining technology costs create entirely new categories of venture entities
   rather than simply making existing ones cheaper to operate.
 related:
-  - INS-260323-365A
   - INS-260403-1217
   - PRI-260406-EE38
   - INS-260404-AFE6

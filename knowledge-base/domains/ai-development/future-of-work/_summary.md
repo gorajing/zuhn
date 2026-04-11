@@ -1,6 +1,6 @@
 # Topic: future-of-work
 
-> 96 insights
+> 97 insights
 
 - `INS-260320-A745` [very_high] Anthropic's own studies show AI deskilling in coding is real, but depends on HOW you use models — some usage patterns cause skill degradation, some don't.
 - `INS-260321-9824` [very_high] Tao's papers now have more code, more plots, deeper literature searches — but the core mathematical work (pen and paper for the hardest part) hasn't been accelerated. AI enriches output without deepening it.
@@ -86,6 +86,7 @@
 - `INS-260403-22C2` [medium] AI can render decades of painstakingly accumulated human expertise economically worthless in months, as demonstrated by the sudden devaluation of software engineering skills.
 - `INS-260403-3664` [medium] Figure's $39B valuation rests on the thesis that automating manual labor ($42T/yr, ~50% of GDP) creates shared abundance.
 - `INS-260330-819E` [medium] Learn-to-code initiatives serve institutional goals (tax revenue, labor supply) more than the individual learners they claim to help.
+- `INS-260410-18A0` [medium] Productivity improvements historically generate more jobs, not fewer, because companies with infinite ambition expand into new areas whenever they become more profitable.
 - `INS-260329-A862` [medium] Programming is becoming a universal skill stratified by depth, just as reading ranges from functional literacy to literary criticism.
 - `INS-260325-2069` [medium] The unemployed won't be biologists and chemists but biologists and chemists who don't use quantum computers -- the hammer doesn't replace the carpenter, it amplifies them.
 - `INS-260409-4719` [medium] When intelligence costs go to zero, humans get paid for taking risk — the one thing machines cannot perform on your behalf.

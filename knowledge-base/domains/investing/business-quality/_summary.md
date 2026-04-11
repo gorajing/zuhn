@@ -1,12 +1,13 @@
 # Topic: business-quality
 
-> 17 insights
+> 18 insights
 
 - `INS-260410-1399` [high] Rentech's secret isn't genius market calls — it's recognizing that a barely-better-than-coin-flip edge compounds into historic returns when you make millions of small bets and lever up smartly, rather than waiting for high-conviction opportunities.
 - `INS-260410-001F` [high] When auditors make as much from consulting a client as from auditing them, the audit is captured by definition.
 - `INS-260410-D5FC` [high] Costco's hard 14% markup ceiling (11% target) converts every operational improvement into customer value, which compounds into trust, retention, and supplier leverage no competitor can match.
 - `INS-260410-84F5` [high] Rockefeller's competitors treated oil as a gold rush and pocketed profits; he poured every dollar back into efficiency improvements and inventory, so when prices crashed he kept buying the dip until he owned the industry.
 - `INS-260410-D42F` [high] Enterprises re-architect data centers at most once a decade — whoever wins the current AI transition locks in revenue for 5-10 years regardless of whether the hype holds.
+- `INS-260410-B74C` [high] Choose to be modestly less profitable than peers in booms so you can remain standing — and acquire them — during busts.
 - `INS-260410-6E43` [high] Epic captures only ~$10M per year per hospital system despite being the central nervous system those hospitals cannot function without—and that underpricing is precisely why they have never lost a customer in 47 years.
 - `INS-260410-F8B9` [high] Moats are only sufficient if the castle is too unattractive to invade — once the prize gets big enough, attackers arrive regardless.
 - `INS-260410-8B61` [high] Each cellular generation (2G, 3G, 4G, 5G) expires just as the next one arrives — so Qualcomm's CDMA patents expired worthless, but by then 4G patents had replaced them in the licensing stack.

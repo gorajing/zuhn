@@ -38,8 +38,8 @@ related:
   - INS-260329-33D4
   - INS-260410-0263
   - INS-260329-B424
+  - INS-260410-02EA
   - INS-260323-70B9
-  - INS-260323-AB5F
 stance: >-
   The name of the game is to increase your leverage — put in very few tokens
   once in a while and a huge amount of stuff happens on your behalf.

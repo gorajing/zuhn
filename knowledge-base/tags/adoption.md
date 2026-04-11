@@ -20,14 +20,13 @@
 - `INS-260405-10DF` Knowledge workers spend nearly two hours per week fixing low-quality AI outputs ('workslop'), creating a hidden productivity tax during the adoption dip.
 - `INS-260402-543E` Healthcare AI succeeds when it augments existing workflows rather than demanding practitioners change how they work.
 - `INS-260403-990E` AI embedded in existing workflows like email gets adopted faster than AI requiring new habits.
-- `INS-260320-4BA8` Keep spec templates simple — if too heavy, people skip them. Automate file creation and periodically revisit findings for tech debt.
 - `INS-260405-2287` 54.6% of U.S. adults use AI personally but fewer than 10% of businesses have integrated it into production, so the real disruption hasn't started yet.
-- `INS-260403-EA6D` The rapid growth of stablecoins as a settlement layer demonstrates that tokenized financial instruments can scale when they offer tangible infrastructure improvements over incumbents.
-- `INS-260405-B4D4` The 100x unit-economics threshold — cost savings plus revenue uplift — is the practical filter for identifying which AI workforce opportunities will achieve durable adoption.
+- `INS-260320-4BA8` Keep spec templates simple — if too heavy, people skip them. Automate file creation and periodically revisit findings for tech debt.
 - `INS-260325-02F2` The Copernican revolution took centuries to be fully absorbed; discovering alien life will likely follow the same slow integration pattern.
+- `INS-260405-B4D4` The 100x unit-economics threshold — cost savings plus revenue uplift — is the practical filter for identifying which AI workforce opportunities will achieve durable adoption.
+- `INS-260405-F6A6` The two categories of programming languages are ones people complain about and ones nobody uses — complaints imply relevance.
 - `INS-260330-007E` M-PESA's genius was piggybacking on existing phone networks and SIM cards rather than building new financial infrastructure, achieving massive scale at minimal cost.
 - `INS-260410-8BF9` No carrier would adopt CDMA unless someone made the base stations, the handsets, AND the chips — so Qualcomm built JVs with Nortel and Sony to make all three before divesting every non-core layer.
-- `INS-260405-F6A6` The two categories of programming languages are ones people complain about and ones nobody uses — complaints imply relevance.
 - `INS-260330-D0AB` Paul's decision to drop circumcision and Jewish law requirements for converts removed the single biggest friction point and opened Christianity to the entire Roman world.
 - `INS-260405-3066` Apple framed wallet replacement not as a convenience upgrade but as a security and privacy improvement — a more compelling reason to change entrenched behavior.
 - `INS-260403-5EB4` In low-trust markets, founders must build trust bridges through local symbols and social proof before product quality matters.
@@ -36,3 +35,4 @@
 - `INS-260330-318C` Mobile money adoption in Africa was explosive because the alternative — physically transporting cash over multi-day journeys with theft risk — made adoption a survival decision rather than a convenience choice.
 - `INS-260403-CB33` Forced adoption events like COVID permanently digitize resistant populations by giving them a socially acceptable excuse to change behavior.
 - `INS-260405-7DC3` E-Ship 1 added four Flettner rotors to reduce diesel consumption — not to replace diesel, making the economics and risk profile of adoption far more tractable.
+- `INS-260403-EA6D` The rapid growth of stablecoins as a settlement layer demonstrates that tokenized financial instruments can scale when they offer tangible infrastructure improvements over incumbents.

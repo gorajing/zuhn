@@ -58,6 +58,7 @@ related:
   - INS-260323-A7F6
   - INS-260404-1773
   - INS-260403-CF92
+  - INS-260410-BC66
 stance: >-
   Founders who ask AI what customers want instead of talking to actual customers
   end up optimizing for the wrong problem

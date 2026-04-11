@@ -47,11 +47,11 @@ stance: >-
   problem they're solving to build a credible product, because incumbents won't
   negotiate without proof of concept.
 related:
+  - INS-260410-277B
   - INS-260403-4C4E
   - INS-260327-09D7
   - INS-260327-099A
   - PRI-260322-DC5E
-  - INS-260410-F455
 evidence:
   - id: INS-260327-09D7
     type: TRANSFERS_TO

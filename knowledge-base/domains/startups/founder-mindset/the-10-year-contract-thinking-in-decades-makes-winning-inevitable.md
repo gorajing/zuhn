@@ -49,11 +49,11 @@ stance: >-
   fundamentally different (and more rational) bets than those optimizing for
   short-term returns, and those bets compound into inevitable outcomes.
 related:
+  - INS-260410-DDD0
+  - INS-260410-F1F1
   - PRI-260406-CA93
   - INS-260403-BAD7
   - PRI-260405-1FBC
-  - INS-260405-18AB
-  - INS-260403-F0D4
 evidence:
   - id: INS-260323-6351
     type: SUPPORTS

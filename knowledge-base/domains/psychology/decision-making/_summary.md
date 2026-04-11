@@ -1,6 +1,6 @@
 # Topic: decision-making
 
-> 138 insights
+> 139 insights
 
 - `INS-260404-A246` [high] Admitting you're bad at something is the first step to finding effective workarounds like delegation or systematic search.
 - `INS-260403-F03A` [high] Judge purchases by projected usage, not by the deal you got.
@@ -82,6 +82,7 @@
 - `INS-260404-6C8F` [high] A 4%+ fatal error rate makes philosophical arguments for or against the death penalty moot — the implementation failure dominates.
 - `INS-260403-59D5` [high] Congressional staffers in their late 20s effectively set ideological direction because politicians are too busy fundraising and speechmaking to supervise the details of governance.
 - `INS-260403-5CD6` [high] The freedom we sacrifice for commitments was mostly unused anyway — we paid for it in loneliness without exercising it.
+- `INS-260410-35F5` [high] Every super-successful person Munger knows had three things — high intelligence, hard work, and good luck — and the only way to get lucky two or three times is to start early and keep trying for a long time.
 - `INS-260402-CCC3` [high] VCs optimize for defensible-looking decisions rather than highest expected value, creating systematic blind spots.
 - `INS-260410-90BD` [high] Stalin genuinely fought tsarist injustice for 20 years as a penniless revolutionary and then built a regime orders of magnitude more unjust — this 'perverse and unintended consequences' pattern is the rule, not the exception.
 - `INS-260403-330D` [high] Voters expect absolute price decreases, not just slower inflation, creating a nearly impossible standard for politicians to meet.

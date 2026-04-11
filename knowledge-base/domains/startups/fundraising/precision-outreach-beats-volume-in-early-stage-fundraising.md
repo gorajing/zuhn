@@ -62,6 +62,7 @@ related:
   - INS-260403-A9C9
   - INS-260403-53C0
   - INS-260403-6DED
+  - INS-260410-F789
 ---
 Early-stage fundraising is commonly treated as a funnel problem — reach more investors, get more meetings, improve odds. But this framing misses the structural reality that most VCs on any given list are structurally unable to invest due to fund stage, size mismatch, or depleted dry powder.
 

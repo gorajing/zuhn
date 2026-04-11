@@ -1,5 +1,6 @@
 # Tag: audience-building
 
+- `INS-260322-D5DD` Make remixes of trending songs in your own style to leverage existing search demand and get discovered before you have original fans.
 - `INS-260409-AE80` The initial 200-person sample is mostly strangers, so follower count gives almost no advantage during the cold-start phase.
 - `INS-260327-8DFE` Giertz sharing her brain tumor journey publicly created deeper audience loyalty than any product launch, because genuine vulnerability builds trust that curated content cannot.
 - `INS-260329-4C4C` Plan for years of content creation before expecting meaningful audience growth, treating the first year as skill development.
@@ -15,4 +16,3 @@
 - `INS-260327-CA1C` Verticalized content creation—being THE authority in one domain—is as viable as verticalized SaaS.
 - `INS-260402-8D38` As AI summaries reduce click-through from Google, diversifying discovery channels from owned media to social platforms becomes a survival strategy.
 - `INS-260323-3239` The fastest path to product-market fit is having an audience you can survey, test MVPs with, and iterate against — not building in isolation.
-- `INS-260322-D5DD` Make remixes of trending songs in your own style to leverage existing search demand and get discovered before you have original fans.

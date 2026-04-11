@@ -57,6 +57,7 @@ related:
   - PRI-260406-D43E
   - INS-260404-6D51
   - INS-260410-3075
+  - INS-260410-EFB8
 ---
 Graham describes a complete polarity inversion in how to evaluate new ideas: instead of defaulting to skepticism (listing flaws), switch to generative optimism (imagining paths to success). This isn't naive positivity — it's calibrated to environments where outcomes follow power-law distributions, meaning the cost of missing one great idea vastly exceeds the cost of being wrong about many mediocre ones.
 

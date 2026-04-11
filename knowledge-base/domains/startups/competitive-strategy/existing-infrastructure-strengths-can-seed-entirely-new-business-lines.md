@@ -52,7 +52,7 @@ related:
   - INS-260404-19B0
   - INS-260405-77C9
   - INS-260403-85BB
-  - INS-260403-E93A
+  - INS-260410-E338
   - INS-260404-E06E
 ---
 Microsoft's Azure cloud platform emerged from infrastructure the company already maintained for its own operations. Rather than building something entirely new, Nadella redirected existing strengths toward a market where Microsoft could compete without needing Windows dominance. Similarly, Amazon turned its internal computing infrastructure into AWS, now one of the most profitable businesses in the world.

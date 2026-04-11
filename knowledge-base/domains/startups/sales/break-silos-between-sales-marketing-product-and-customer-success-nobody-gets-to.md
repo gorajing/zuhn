@@ -69,10 +69,10 @@ stance: >-
   all organizational cancers.
 related:
   - INS-260403-DED8
+  - INS-260410-1626
   - INS-260330-6611
   - INS-260403-7E7C
   - PRI-260328-E921
-  - PRI-260406-CCAE
   - INS-260327-390A
   - INS-260327-B5C9
   - INS-260409-25FF

@@ -10,6 +10,19 @@
 - `INS-260410-991B` China places AGI under its cybersecurity apparatus and requires every major AI lab to have a team that can 'pull the plug' because Party control is a higher priority than racing to AGI.
 - `INS-260410-101D` China adds a France-or-UK-sized power grid every year; their strategic bet on cheap abundant electricity positions them to deploy more AI than anyone once the model matters less than how many you can run.
 - `INS-260404-83C6` DeepSeek proved frontier AI can emerge from a hedge fund side project in China, not just from billion-dollar Western labs.
+- `INS-260410-2623` In censored societies, the binding constraint isn't private information — it's the inability to coordinate on what 'everyone knows everyone knows.'
+
+- `INS-260403-CF46` Most China analyses reach contradictory conclusions (China will dominate vs. China has peaked) because they cherry-pick output metrics instead of examining the underlying systems that produce those outputs.
+- `INS-260403-49FF` Page and Brin overruled Schmidt on China because values conflicts are founder-domain decisions that operators are structurally unable to make.
+- `INS-260330-B4BD` Two generations of one-child families made small families the cultural norm in China, rendering policy reversal largely ineffective.
+- `INS-260403-69C3` National security framing activates fear circuits that override the capacity for nuanced policy engagement.
+- `INS-260325-C5FD` American automakers take 6 years to ship a new model; Chinese competitors do it in 18 months — with 50 major EV makers competing fiercely, iteration speed IS the innovation.
+- `INS-260403-5A4C` China's playbook of picking national champions, subsidizing them infinitely, and pricing below cost has captured steel, solar, drones, and EVs — and private firms cannot compete on price alone.
+- `INS-260323-1D15` Chinese competitive dynamics favor rapid replication over differentiation — when something works, thousands of competitors copy it immediately, driving ferocious price and execution competition.
+- `INS-260405-2AFD` China's workforce built deep process knowledge by assembling goods for international firms, and that accumulated expertise became the foundation for leapfrogging into EVs, solar, and AI hardware.
+- `INS-260403-28AB` If OpenAI fails after absorbing $100B+, the resulting investor panic could hand AI leadership to Chinese competitors.
+- `INS-260410-81E8` Nadella argues the most important feature of American AI isn't capability but trust — countries are deploying based on whether the supplier and its institutions will still be around in 20 years.
+- `INS-260402-B0AB` You cannot have technical imagination without political imagination — suppressing one suppresses both.
 - `INS-260410-4357` At scale, effectiveness of achieving outcomes matters more than efficiency of resource use — the 'waste' in China's growth was the mechanism that produced the growth.
 - `INS-260410-6A19` Goldman Sachs and every serious forecaster predicted China would dwarf the US by now — they were all wrong, just as they were wrong about Japan and the USSR before that.
 - `INS-260405-B6CB` China's post-2008 infrastructure investment produced not just recovery but a transportation, energy, and digital backbone that now underpins its manufacturing dominance.
@@ -80,16 +93,3 @@
 - `INS-260410-3880` Moonshot AI raised $1B at a $3B valuation while xAI's Memphis cluster alone costs $3-4B — Chinese frontier labs are funding-starved by Western standards.
 - `INS-260405-484F` Clawback mechanisms that reach founders' personal assets convert entrepreneurship from bounded-downside to unlimited-downside, chilling risk-taking.
 - `INS-260405-ADCE` US and China are pursuing humanoid robotics through different incentive structures and deployment contexts, making a single global market unlikely.
-- `INS-260410-2623` In censored societies, the binding constraint isn't private information — it's the inability to coordinate on what 'everyone knows everyone knows.'
-
-- `INS-260403-CF46` Most China analyses reach contradictory conclusions (China will dominate vs. China has peaked) because they cherry-pick output metrics instead of examining the underlying systems that produce those outputs.
-- `INS-260403-49FF` Page and Brin overruled Schmidt on China because values conflicts are founder-domain decisions that operators are structurally unable to make.
-- `INS-260330-B4BD` Two generations of one-child families made small families the cultural norm in China, rendering policy reversal largely ineffective.
-- `INS-260403-69C3` National security framing activates fear circuits that override the capacity for nuanced policy engagement.
-- `INS-260325-C5FD` American automakers take 6 years to ship a new model; Chinese competitors do it in 18 months — with 50 major EV makers competing fiercely, iteration speed IS the innovation.
-- `INS-260403-5A4C` China's playbook of picking national champions, subsidizing them infinitely, and pricing below cost has captured steel, solar, drones, and EVs — and private firms cannot compete on price alone.
-- `INS-260323-1D15` Chinese competitive dynamics favor rapid replication over differentiation — when something works, thousands of competitors copy it immediately, driving ferocious price and execution competition.
-- `INS-260405-2AFD` China's workforce built deep process knowledge by assembling goods for international firms, and that accumulated expertise became the foundation for leapfrogging into EVs, solar, and AI hardware.
-- `INS-260403-28AB` If OpenAI fails after absorbing $100B+, the resulting investor panic could hand AI leadership to Chinese competitors.
-- `INS-260410-81E8` Nadella argues the most important feature of American AI isn't capability but trust — countries are deploying based on whether the supplier and its institutions will still be around in 20 years.
-- `INS-260402-B0AB` You cannot have technical imagination without political imagination — suppressing one suppresses both.

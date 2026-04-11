@@ -48,10 +48,10 @@ stance: >-
   under-investment in what actually wins.
 related:
   - PRI-260406-9F3D
+  - INS-260410-228E
   - INS-260323-3CC2
   - INS-260403-147C
   - INS-260329-EB4B
-  - INS-260404-36F3
 evidence:
   - id: INS-260402-0DC9
     type: SUPPORTS

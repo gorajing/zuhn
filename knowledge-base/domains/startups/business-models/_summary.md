@@ -1,6 +1,6 @@
 # Topic: business-models
 
-> 230 insights
+> 232 insights
 
 - `INS-260410-9246` [high] Visa's interchange is not a fee — it's an envelope of value the network can redistribute to issuing banks, acquiring banks, co-brand merchants, and rewards programs as needed to align behavior.
 - `INS-260410-58A5` [high] F1's durability isn't mostly brand or network effects — it's that the FIA explicitly calls it 'the pinnacle,' a regulatory grant no rival motorsport can replicate with money.
@@ -135,6 +135,7 @@
 - `INS-260403-F62E` [high] Hilti's pivot from selling power tools to offering tools-as-a-service grew revenue from CHF 4B to 5.7B despite commoditization pressure.
 - `INS-260327-B815` [high] Sports team economics make no sense as operating businesses — they are valued for scarcity, prestige, and media rights r
 - `INS-260403-C1A5` [high] Apple captured 94% of smartphone profits with only 14.5% of sales, proving profit concentration beats volume.
+- `INS-260410-EFD5` [high] Costco's refusal to raise the hot dog or rotisserie chicken price is a deliberate sacred anchor — the signal that the whole store is cheap is worth far more than the margin.
 - `INS-260327-E52A` [high] Public transit systems that cannot cover operating costs through fares face perpetual political vulnerability because th
 - `INS-260403-0CA9` [high] Publishing prices historically tracked format and distribution costs, not content quality, revealing the medium was always the real product.
 - `INS-260404-1755` [high] ARM's licensing model lets it scale globally without any manufacturing infrastructure or costs.
@@ -216,6 +217,7 @@
 - `INS-260327-6976` [medium] Just as institutions failed to anticipate how quickly personal computers would transform everything, they're failing to anticipate how quickly personal fabrication will do the same.
 - `INS-260410-13EB` [medium] F1 has millions of fans who buy merch, know drivers, and respond to sponsors but never watch a race — and the sponsorship model works fine because logo impressions accumulate across Drive to Survive, social media, and merchandise.
 - `INS-260403-81BD` [medium] Industries with misaligned incentives between providers, payers, and consumers are vulnerable to fintech-enabled marketplace disruption.
+- `INS-260410-3759` [medium] Ek reframes podcasts as 'ad-supported audio' and audiobooks as 'paid audio' — same format, different monetization.
 - `INS-260405-9EE6` [medium] Costco's deliberate obstacles — confusing layout, membership fee, crowded aisles — select for the right customers and increase per-visit spend.
 - `INS-260403-83A4` [medium] eDreams built multiple 'inelegant' revenue streams (web-scraping, service fees, media business, hybrid OTA-Meta) that gave them resilience investors initially dismissed.
 - `INS-260404-2F57` [medium] Substack achieves meaningful creator ownership — portable subscriber lists, direct payment relationships — without any blockchain infrastructure, because the layer that matters is the relationship, not the protocol.

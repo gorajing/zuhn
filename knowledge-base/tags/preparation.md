@@ -1,6 +1,5 @@
 # Tag: preparation
 
-- `INS-260327-485B` Every WW1 belligerent expected the war to last months; it lasted four years. The catastrophic cost was amplified by the universal failure to prepare for a long war.
 - `INS-260323-F9FD` Adams lost the 1980 Olympic final after cutting weight poorly with bad nutrition — a fundamental failure that mattered more than the opponent's skill at the highest competitive level.
 - `INS-260323-334D` Nicky Ryan visualizes obsessively for weeks, Nicky Rod duplicates exact warm-up routines until competition feels like 'another Tuesday,' and Craig Jones blocks it all out until the last second — all three compete at the world level.
 - `INS-260403-7EB2` Keep a running notes document tracking exec questions and feedback to anticipate their reactions in future discussions.
@@ -17,5 +16,6 @@
 - `INS-260403-55E6` Fundraising success depends on pre-meeting preparation — investor mapping, warm intros, and narrative sharpening — not deck aesthetics.
 - `INS-260404-433E` Successful 2012 IPOs invested years in product refinement and customer validation before going public.
 - `INS-260330-FA4D` Byron Ferguson spine-tests every arrow and discards out-of-tolerance ones before they ever enter his quiver — precision is built in preparation, not performance.
-- `INS-260404-6BCA` Rubrik capitalized on the 2024 tech IPO window because it had already completed its subscription transition and hit key metrics before the window opened.
 - `INS-260327-6AB1` Regardless of interview length, the first 2-3 minutes form the lasting impression — use the opening 'tell me about yourself' to immediately address why you want sales and why this specific company.
+- `INS-260404-6BCA` Rubrik capitalized on the 2024 tech IPO window because it had already completed its subscription transition and hit key metrics before the window opened.
+- `INS-260327-485B` Every WW1 belligerent expected the war to last months; it lasted four years. The catastrophic cost was amplified by the universal failure to prepare for a long war.

@@ -1,6 +1,6 @@
 # Topic: product-strategy
 
-> 85 insights
+> 86 insights
 
 - `INS-260405-4AAD` [high] Juicero raised $120M for technology that was immediately undermined when customers realized the same outcome was achievable by hand.
 - `INS-260330-809A` [high] Apple's acquisition pattern — Authentec for Touch ID, Siri for voice, NeXT for Jobs — shows that buying capabilities yields higher returns than buying businesses.
@@ -65,6 +65,7 @@
 - `INS-260403-E69C` [high] Waze discovered churned users understood the mission completely — the only difference between retained and churned users was patience with broken core functionality.
 - `INS-260404-380C` [high] Apple Pay succeeded because its value proposition enabled its business model and vice versa — the two were designed as a tightly coupled system rather than sequentially.
 - `INS-260403-0196` [high] Great value propositions concentrate on very few customer jobs, pains, or gains but deliver outstanding depth in those areas.
+- `INS-260410-277B` [high] Spotify realized it could own audiobooks and podcasts because German labels had already started quietly uploading audiobooks to its music platform.
 - `INS-260403-9681` [medium] AI enables marketplaces to capture awareness and consideration stages of the buying cycle, not just intent and purchase.
 - `INS-260403-9B5D` [medium] SMBs failed to adopt SaaS tools not due to cost alone but because the time investment to learn and monitor them was unaffordable — background-running AI agents eliminate this barrier.
 - `INS-260404-5963` [medium] Aspirational 5-10 year strategy should be design/research-led and run in parallel with tactical strategy, using concept prototypes to test distinct future scenarios.

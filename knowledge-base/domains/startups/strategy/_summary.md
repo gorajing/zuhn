@@ -1,6 +1,6 @@
 # Topic: strategy
 
-> 247 insights
+> 249 insights
 
 - `INS-260330-98EA` [high] The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples.
 - `INS-260403-0530` [high] New York struggles as a startup hub because founders there are second-class citizens in a status hierarchy that most admires financial wealth.
@@ -39,6 +39,7 @@
 - `INS-260410-DE05` [high] Corporate welfare pledges have affected hundreds of millions of animals at a cost of under $100M/year, while the equivalent legislation is blocked by agriculture committees and cultivated meat consumes billions in VC with no scale.
 - `INS-260403-4F68` [high] Vendors offer credits to lock in early-stage companies before switching costs become prohibitive, which gives growth-stage founders leverage to renegotiate.
 - `INS-260323-1EEA` [high] Frebel's experience: even astronomers who share interests and work on the same phenomena struggle to communicate across theoretical and observational subfields — but pushing through produces the best work.
+- `INS-260410-E338` [high] Every business line should either feed another line with customers, data, or distribution — otherwise it's a hobby and should be sold.
 - `INS-260330-5A4C` [high] Running nodes must be culturally ingrained as a responsibility, not just technically possible, because without that culture economic pressure will centralize the network.
 - `INS-260330-F258` [high] Good democratic systems are optimized for removing bad leaders efficiently and nonviolently, not for selecting the best ones — mirroring how science progresses by falsification, not verification.
 - `INS-260404-1CC0` [high] As building barriers collapse, competitive moats migrate from technical capability to distribution and taste.
@@ -182,6 +183,7 @@
 - `INS-260403-B228` [high] Valuation reflects how much uncertainty remains — momentum can inflate it temporarily but markets always revert to evidence.
 - `INS-260330-6C7F` [high] A NASA committee concluded that no deflection method works for kilometer-scale asteroids, making survey telescopes the single highest-value investment in planetary defense.
 - `INS-260330-86CD` [high] A disrupted Series B company with $5M in the bank should operate like a freshly funded seed company—small team, low burn, total freedom to pursue the absolute best idea.
+- `INS-260410-02EA` [high] Treat company-building as a turn-based strategy game: optimize for getting more turns and learning more from each turn than any competitor.
 - `INS-260410-1345` [high] The Japanese won most battles in China but lost the war because Bushido culture equated 'taking this hill' with strategic success, with no theory of how tactical wins aggregated into the real objective of a stable, communist-free China.
 - `INS-260323-BD20` [high] 80% of TwoSpace's 10,000 members already had offices — they were paying for community access and environmental variety, not affordable workspace.
 - `INS-260324-40AA` [high] TwoSpace knocked on 600 restaurant doors before finding their first venue — each rejection taught them market objections that no survey could have revealed.

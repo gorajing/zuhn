@@ -45,7 +45,6 @@ stance: >-
   Investing in skills and education yields 10-100x higher returns than S&P 500
   index investing for young people with low capital bases.
 related:
-  - INS-260327-DAA4
   - INS-260329-C45C
   - INS-260329-9F81
   - INS-260329-1D8D

@@ -1,6 +1,6 @@
 # Topic: founder-mindset
 
-> 331 insights
+> 332 insights
 
 - `INS-260320-F751` [very_high] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
 - `INS-260322-E791` [high] During a crisis, the false but simple narrative ('Robinhood colluded with hedge funds') will always defeat the true but complex explanation (clearing mechanics, Dodd-Frank, collateral requirements).
@@ -249,6 +249,7 @@
 - `INS-260403-9CD9` [medium] The richest founders aren't money-driven — they're world-improvers who keep building past the acquisition offers that money-motivated founders accept.
 - `INS-260323-7C3A` [medium] Make life-altering decisions with your heart and gut, then never revisit them — execute with pure discipline and data from that point forward.
 - `INS-260327-F477` [medium] Big tech experience is anti-helpful for startups—the culture, speed, and processes are the exact opposite of what you need.
+- `INS-260410-575B` [medium] After Yahoo's 2006 $1B offer where Meta's board tried to fire Zuckerberg for refusing it, he restructured the company so a future him couldn't be overruled on the same kind of long-horizon bet.
 - `INS-260327-CA72` [medium] With no fallback options, fear stops paralyzing you and starts driving productive action.
 - `INS-260409-C3B3` [medium] Out-caring competitors is the only high-leverage moat that isn't gated by scarcity — anyone can occupy that ranking.
 - `INS-260327-E3ED` [medium] Shameless urgency—like chasing PG to his car—signals genuine conviction that investors can't ignore.

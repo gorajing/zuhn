@@ -1,11 +1,10 @@
 # Tag: career
 
 - `INS-260322-116B` When AI can perform any technical task, employers hire for trustworthiness and genuine care — the qualities visible in someone's eyes, not their resume.
-- `INS-260405-B22F` VC is a credentials-gated industry where unconventional entrants must manufacture access through deal sourcing, publishing, or operator relationships rather than waiting for invitation.
 - `INS-260403-D64B` Forcing yourself to always produce something pushes you away from what you think you should work on and toward what you actually like.
-- `INS-260403-83E2` Once you're established, you lose the freedom to mess around with random projects — and that freedom was the source of your best ideas.
 - `INS-260330-8FC5` Pick your city first because jobs, partners, friends, and opportunities are downstream of geographic network proximity.
 - `INS-260410-2CBC` People who over-plan their careers unconsciously filter for signals that confirm the plan and dismiss unrelated opportunities, which is exactly how the biggest opportunities get missed.
+- `INS-260403-83E2` Once you're established, you lose the freedom to mess around with random projects — and that freedom was the source of your best ideas.
 - `INS-260323-7CA7` Kaplan's 6,000+ hours of EverQuest — which looked like addiction and time-wasting — became the foundation for designing World of Warcraft and Overwatch; deep immersion in something you love creates expertise that formal training cannot replicate.
 - `INS-260327-73CB` The most meaningful work combines multiple domains rather than maximizing one - the person who connects their varied interests often contributes more than the pure specialist.
 - `INS-260405-874D` Autonomy in work is a one-way door: once crossed, the cage of a managed job becomes visible and unbearable.
@@ -19,5 +18,6 @@
 - `INS-260325-8D66` You cannot get out of bed each morning expecting a breakthrough — but you can get out of bed saying 'today I will figure out how to do this better than last week.'
 - `INS-260330-1C90` Optimize your first job for the quality of people you'll work with, not the paycheck or prestige on your resume.
 - `INS-260322-3CFB` Optimizing for stewardship (what you do and serve) rather than status (titles and positions) produces both deeper fulfillment and better career outcomes.
-- `INS-260405-6DAD` Founders taking equity upfront are making the same bet as ladder climbers — they've just restructured the timeline of risk and reward.
 - `INS-260328-0C87` In SaaS sales interviews, demonstrating genuine passion for the technology and industry matters more than reciting sales frameworks.
+- `INS-260405-6DAD` Founders taking equity upfront are making the same bet as ladder climbers — they've just restructured the timeline of risk and reward.
+- `INS-260405-B22F` VC is a credentials-gated industry where unconventional entrants must manufacture access through deal sourcing, publishing, or operator relationships rather than waiting for invitation.

@@ -55,7 +55,7 @@ related:
   - INS-260409-171C
   - INS-260323-95BC
   - PRI-260327-3BD9
-  - PRI-260406-9780
+  - INS-260410-F789
 ---
 Founders consistently discover stronger narrative elements 1-2 weeks into their actual pitch process — after they've already burned meetings with top-tier funds. The 'hardening' technique front-loads this discovery: prepare materials to 70% completeness and test with former founders in similar spaces, friendly seed investors, or growth-stage investors. This serves triple duty: building pitch confidence and reps, surfacing missing elements before real meetings, and potentially generating warm introductions.
 

@@ -69,9 +69,9 @@ related:
   - INS-260323-C5D3
   - INS-260403-C161
   - INS-260403-49E7
+  - INS-260410-02EA
   - INS-260405-AEA0
   - PRI-260403-2E59
-  - INS-260403-D970
 ---
 Asked why Meta has survived nine existential threats (MySpace, Twitter, Instagram pre-acquisition, Snapchat, WhatsApp, TikTok, ATT, ChatGPT, etc.), Zuckerberg's answer is structural: Meta is a technology company optimized for iteration speed, not a single product. His stated strategy is 'we can learn faster than every other company, so we're going to win.' The competitive advantage isn't insight — it's cycle count.
 

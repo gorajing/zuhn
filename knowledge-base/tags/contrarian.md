@@ -1,8 +1,5 @@
 # Tag: contrarian
 
-- `INS-260405-5EB2` Peak-consensus forecasts of national rise historically coincide with the onset of structural decline.
-- `INS-260322-06EA` Every round of Facebook, Stripe, and similar companies was called 'insane' by consensus — Yuri Milner invested at $5B because he'd run a social network and could do math others couldn't.
-- `INS-260403-30A5` The best VC entry point is when most risk is resolved but most investors still hesitate.
 - `INS-260403-A739` Karp maintained contrarian positions for 20 years while being called a failure, and that tolerance for ostracism was itself a competitive advantage.
 - `INS-260409-34EA` Going the opposite direction from the dominant frontier — cold instead of hot, slow instead of fast — exposes different physics than the popular path.
 - `INS-260327-D570` The biggest opportunities come from tools that expose broken systems rather than perpetuating them.
@@ -20,3 +17,6 @@
 - `INS-260405-95CB` Lenny admits passing on PostHog early because he didn't believe the all-in-one platform strategy would work—a classic case of conventional wisdom blocking a contrarian bet.
 - `INS-260403-615D` Karp argues expert classes have been wrong about every substantive question for 20 years because their models are calibrated to old paradigms.
 - `INS-260403-D882` Design your company around structural platform-asset balance rather than adapting to which approach investors currently favor.
+- `INS-260405-5EB2` Peak-consensus forecasts of national rise historically coincide with the onset of structural decline.
+- `INS-260322-06EA` Every round of Facebook, Stripe, and similar companies was called 'insane' by consensus — Yuri Milner invested at $5B because he'd run a social network and could do math others couldn't.
+- `INS-260403-30A5` The best VC entry point is when most risk is resolved but most investors still hesitate.

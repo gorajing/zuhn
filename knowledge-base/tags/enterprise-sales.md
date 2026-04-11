@@ -1,5 +1,6 @@
 # Tag: enterprise-sales
 
+- `INS-260410-6159` Start meetings in the kiddie pool: something you researched about the person's human life, not the capital interest that brought you there.
 - `INS-260327-6B78` Anthropic's enterprise sales targets two distinct buyers: developers/CPOs who consume the API and Chief AI Officers who manage model portfolios — with the majority of the Fortune 500 now having someone in the latter role.
 - `INS-260402-ECD2` In hierarchical markets, winning one apex customer (e.g., a top law firm) cascades credibility and adoption downstream more effectively than scaling from the bottom up.
 - `INS-260327-C54D` Large enterprises like government, oil/gas, and airlines are now buying AI faster than digital natives because board pressure ('what's your AI strategy?') creates top-down urgency that bypasses careful testing cycles.
@@ -23,6 +24,7 @@
 - `INS-260410-3832` Enterprise customers want to know everything is secure, everything is well-managed, everything is paid for, there's someone to call when things break, and they won't look bad for paying too much or missing a license — the bundle is the insurance policy.
 - `INS-260327-CBBB` With pipeline down 47%, deal values down 32%, sales cycles up 32%, and 33% more stakeholders involved, the era of FOMO-driven buying is over — champions now fear messing up more than missing out, so sellers must de-risk rather than create urgency.
 - `INS-260327-9C00` Pre-PMF sales is fundamentally entrepreneurial -- it requires the founder's vision, domain expertise, and conviction, which no hired sales rep can replicate.
+- `INS-260410-1626` Horizontal platforms that span functional silos must be sold to the CEO — every executive below has a silo to defend and can't authorize cross-silo change.
 - `INS-260327-9AD8` Optimizely closed six-figure deals where customers never ran a single A/B test because they treated implementation as the customer's job -- the fix was project-managing implementation like a high-priority internal project.
 - `INS-260327-C5D0` MEDDPICC qualifies whether you should be in a deal and what to do to win it, complementing any underlying sales methodology.
 - `INS-260327-E3CA` Lead with proof-point metrics from similar customers (M1) to build trust, then unlock the prospect's specific value metrics (M2) through discovery.
@@ -37,3 +39,4 @@
 - `INS-260327-538E` Gatekeepers buy to do the same thing cheaper, business users buy to deliver more for the business, enablers buy to help others be productive, leaders buy for growth — each archetype dictates a completely different sales approach.
 - `INS-260330-C095` Get into enterprises through individual users bringing in consumer-quality tools, then sell to the organization for security, control, and scalability — but you still need salespeople to navigate that conversion.
 - `INS-260327-0F42` A 30-year-old trying to make a name for themselves who has never bought software at the organization can tank your deal: they demo without security approval, go to leadership without political cover, and get shut down by their CTO.
+- `INS-260410-BC66` Never take an enterprise meeting without a specific hypothesis about the job the customer would hire your product for — delay until you have one.

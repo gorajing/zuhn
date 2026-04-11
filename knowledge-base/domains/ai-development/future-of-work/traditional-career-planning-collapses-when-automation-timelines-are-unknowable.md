@@ -50,8 +50,8 @@ related:
   - INS-260405-8649
   - INS-260403-D970
   - INS-260404-6D29
+  - INS-260410-F1F1
   - INS-260405-18AB
-  - PRI-260406-E5FB
   - INS-260327-B9BB
 ---
 For decades, the reliable path to economic security was clear: attend a good college, enter an elite profession like software engineering, medicine, or law. Noah Smith argues this playbook has broken because AI introduces radical uncertainty about which fields will be automated and on what timeline. A student entering a four-year program today cannot know whether their chosen field will still employ humans when they graduate.

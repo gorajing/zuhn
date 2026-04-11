@@ -1,6 +1,5 @@
 # Tag: compensation
 
-- `INS-260410-4627` Rentech's 5-and-44 fee structure on a closed insider fund functions as a tenured university department would: senior partners (LPs) automatically transfer economic value to the current working team (GPs) through carry, keeping active researchers richly incentivized without requiring arbitrary annual bonus decisions.
 - `INS-260330-ACDA` Salary sharing in tech primarily serves status positioning, not transparency.
 - `INS-260330-B306` Developer satisfaction with pay is driven by peer comparison ($50K→$225K→$900K→$25M chain), not absolute income levels.
 - `INS-260330-E170` When founders don't pay themselves, a fired co-founder can use unpaid wage claims as leverage to negotiate vesting acceleration they wouldn't otherwise deserve.
@@ -26,6 +25,7 @@
 - `INS-260330-3A7B` When you give a raise because someone asked, the employee who didn't ask but performs better learns that lobbying matters more than results.
 - `INS-260330-175F` A formal, periodic raise process prevents the culture from rewarding those who ask over those who perform.
 - `INS-260410-282E` Kelly Johnson's inverted principle: 'I give raises to the guy who supervises the least — that means he's doing more and taking more responsibility.'
+- `INS-260410-DB84` Dismantle comp structures that pay people for outcomes you'd regret — expect attrition, and treat that attrition as a feature.
 - `INS-260405-F369` Inequality statistics are systematically biased because safe, unfireable jobs carry real economic value that never enters the measurement.
 - `INS-260329-CF70` One A+ hire at 170K outperforms five B-players at 100K each in knowledge work.
 - `INS-260404-8A1D` Costco pays $21/hour (double U.S. retail average) and gets employees three times more productive than competitors.
@@ -35,3 +35,4 @@
 - `INS-260403-16B4` Performance-based pay in startups and professional services forces legacy organizations to match market rates or lose their best young talent.
 - `INS-260404-C13E` Costco pays double the retail average but gets triple the productivity — high wages are an investment with measurable ROI.
 - `INS-260405-6DAD` Founders taking equity upfront are making the same bet as ladder climbers — they've just restructured the timeline of risk and reward.
+- `INS-260410-4627` Rentech's 5-and-44 fee structure on a closed insider fund functions as a tenured university department would: senior partners (LPs) automatically transfer economic value to the current working team (GPs) through carry, keeping active researchers richly incentivized without requiring arbitrary annual bonus decisions.

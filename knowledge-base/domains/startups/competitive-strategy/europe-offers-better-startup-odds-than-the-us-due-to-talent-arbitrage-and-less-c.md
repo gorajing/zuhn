@@ -56,9 +56,9 @@ related:
   - INS-260330-BCC2
   - INS-260403-8E25
   - INS-260403-A4FC
+  - INS-260410-E3E6
   - INS-260403-924B
   - INS-260403-E407
-  - INS-260403-DDFD
   - INS-260410-91A6
 ---
 Cuban's claim that 'there is a bigger technology opportunity in Europe than in the United States' inverts conventional wisdom. Most ambitious founders default to the US market, creating intense competition for talent, customers, and capital. Meanwhile, European markets have matured their engineering talent pool (partly through remote work normalization) while remaining comparatively underserved by startups.

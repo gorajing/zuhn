@@ -52,7 +52,6 @@ stance: >-
   performers.
 related:
   - INS-260323-C370
-  - INS-260322-7276
   - INS-260403-9C63
   - INS-260404-64EC
   - INS-260327-7435
@@ -61,6 +60,7 @@ related:
   - INS-260405-62B2
   - INS-260405-D959
   - INS-260404-7F24
+  - INS-260404-9905
 ---
 Venture capital mega-funds face an inherent mathematical challenge: as fund size grows, the ownership percentage needed in winning companies to generate acceptable returns becomes unrealistically high. A $5B fund needs far larger positions in breakout companies than a $200M fund to return the same multiple. This creates adverse selection where mega-funds must either concentrate heavily (increasing risk) or accept diluted returns across too many bets.
 

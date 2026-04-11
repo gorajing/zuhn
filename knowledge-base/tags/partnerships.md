@@ -1,6 +1,5 @@
 # Tag: partnerships
 
-- `INS-260410-CBCC` Equal partnerships only work with ruthless self-selection into people who bring equal value; the structure is a filter, not a fairness doctrine.
 - `INS-260329-E0B0` A great partnership is measured by the gap between what you achieve together versus what you'd achieve alone.
 - `INS-260403-49DF` The best partnerships combine complementary strengths within the same domain, not identical skills or different fields entirely.
 - `INS-260329-61CF` Only take a partner who clearly contributes money, experience, or time-energy that you genuinely lack — and can demonstrate active contribution of that resource.
@@ -17,3 +16,4 @@
 - `INS-260329-79D3` Ramsey Solutions turns down advertisers that fail the 'would you send your sister there' test, even when the revenue is significant.
 - `INS-260403-2ED2` Democratic governance kills venture firm scaling because partners vote to preserve their own power during reorganizations.
 - `INS-260403-318A` Study who's buying in your space and engineer partnerships with them early — the best acquisitions grow out of product integrations, co-selling, and shared customers.
+- `INS-260410-CBCC` Equal partnerships only work with ruthless self-selection into people who bring equal value; the structure is a filter, not a fairness doctrine.

@@ -47,12 +47,11 @@ stance: >-
   returns compared to any other country.
 related:
   - INS-260325-5A72
+  - INS-260410-F1F1
   - INS-260329-27DF
   - INS-260403-81D4
   - INS-260330-BCC2
-  - INS-260329-5414
   - INS-260329-BEFB
-  - INS-260405-6DAD
 evidence:
   - id: INS-260329-5414
     type: SUPPORTS

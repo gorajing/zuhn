@@ -46,8 +46,8 @@ related:
   - INS-260404-A19C
   - INS-260403-D70C
   - INS-260330-D644
+  - INS-260410-B74C
   - INS-260403-544B
-  - INS-260403-4020
   - INS-260409-DBD8
 ---
 Dalton's real-talk: a zombie generating $1-20M with sub-10% growth produces no meaningful revenue impact for a billion-dollar acquirer, so strategic rationale disappears. The founder's imagined 10x-revenue multiple is not something any rational acquirer would pay. The honest framing: once a company is a zombie, the expected financial value of continued operation is effectively zero, which means the opportunity cost of the founder's time is the real cost. The reward for exiting isn't the exit — it's freeing yourself to do something else.

@@ -1,6 +1,5 @@
 # Tag: financial-modeling
 
-- `INS-260403-49E1` Consolidating VC return analysis into one tab eliminates formula breakage and creates a shared decision language.
 - `INS-260405-B361` Runway tools derive value from proactive scenario modeling before each hire or campaign, not retrospective tracking.
 - `INS-260403-2A30` A clear cash runway model turns the existential threat of running out of money into a series of calm, informed decisions.
 - `INS-260403-1904` Centralizing all financial assumptions in one tab and wiring downstream logic to it prevents the Jenga-tower fragility that plagues most startup spreadsheets.
@@ -20,3 +19,4 @@
 - `INS-260403-12B4` Minor metric misestimates in churn and ARPU compound over 12 months into massive revenue shortfalls.
 - `INS-260405-278F` The widespread belief that early-stage VCs don't care about financials is wrong — they use them to probe founder thinking on unit economics and capital deployment.
 - `INS-260403-6CB4` Use of Funds and valuation should be live outputs that update automatically as the operating plan changes, not hand-crafted presentation slides.
+- `INS-260403-49E1` Consolidating VC return analysis into one tab eliminates formula breakage and creates a shared decision language.

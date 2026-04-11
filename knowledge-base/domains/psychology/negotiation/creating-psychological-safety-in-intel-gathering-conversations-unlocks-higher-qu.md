@@ -55,6 +55,7 @@ related:
   - INS-260323-D060
   - INS-260403-BA6A
   - INS-260403-541C
+  - INS-260410-6159
 ---
 Walter emphasizes that for stakeholders to share genuine intelligence about decision-making dynamics, they need to feel safe. He opens conversations with explicit framing: 'This is meant to be an informal chat. I'd like to better understand your world and get your advice.' He also commits to not using shared information against them later.
 

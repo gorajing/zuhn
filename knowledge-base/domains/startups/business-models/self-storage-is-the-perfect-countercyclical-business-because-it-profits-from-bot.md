@@ -45,6 +45,7 @@ related:
   - PRI-260328-8284
   - PRI-260328-0993
   - PRI-260328-EAC4
+  - INS-260410-B74C
   - INS-260327-9508
 ---
 Self-storage facilities profit during economic booms (people buy too much) and busts (people downsize) because both conditions create demand for overflow storage.

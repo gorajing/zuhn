@@ -1,6 +1,6 @@
 # Topic: founder-psychology
 
-> 79 insights
+> 81 insights
 
 - `INS-260323-9C11` [high] Early hardship — while not required for success — instills an unshakeable belief that solutions exist and are within your control.
 - `INS-260328-91A1` [high] We are so early in AI adoption that freezing all model development today would still yield massive business improvements for years -- current tools are dramatically under-deployed.
@@ -46,6 +46,7 @@
 - `INS-260404-4D13` [high] Surrounding yourself with people working on similarly ambitious projects creates a local counter-current against the social headwind of skepticism.
 - `INS-260403-7252` [high] Running out of money is the immediate cause of startup death, but demoralization and loss of focus are the underlying killers.
 - `INS-260323-A183` [high] Founders who fantasize about being a tech billionaire rather than obsessing over the problem they solve are setting themselves up to quit when the work gets hard.
+- `INS-260410-EA10` [high] Unlike fighting dragons, companies only die when founders quit — so cultivate survival obsession over strategic certainty.
 - `INS-260323-5B9F` [high] Fireship quotes Bukowski's 'go all the way' poem and then honestly admits he'd rather make YouTube content — that self-awareness is the kill signal most founders ignore for months.
 - `INS-260403-DAB1` [high] Calling someone a fraud is the diagnostic marker of a hater — it's the only way to reconcile acknowledged fame with the conviction that the person has no talent.
 - `INS-260330-E39E` [high] The 'can't not do it' test — where the idea beats itself out of your chest — is the only reliable predictor of founder endurance through a decade of startup pain.
@@ -79,5 +80,6 @@
 - `INS-260405-2CDB` [medium] The urge to perfect before testing is driven by fear of invalidation, not by logic.
 - `INS-260404-108C` [medium] Across money, time, and likely other resources, the biggest losses come not from obvious indulgence but from activities that mimic virtue while destroying value.
 - `INS-260409-DBD8` [medium] The knowledge you built during the zombie years is real — your next swing is more likely to land than your first.
+- `INS-260410-8D2E` [medium] Ek says every successful entrepreneur he knows has had at least three near-death experiences, and that if he'd known how hard Spotify would be he would never have started it.
 - `INS-260405-93AE` [medium] Data on unicorn founders contradicts the cult of youth that dominates startup culture.
 - `INS-260404-7071` [medium] Young founders benefit from two offsetting mistakes: underestimating obstacles and underestimating their own capacity to grow.

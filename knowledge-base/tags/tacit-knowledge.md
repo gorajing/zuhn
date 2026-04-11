@@ -6,10 +6,9 @@
 - `INS-260325-ADF3` Developing an intuitive sense of when ChatGPT will hallucinate is as legitimate as understanding its architecture.
 - `INS-260327-5A72` With 25% of US physicians as monthly active users, Open Evidence can now aggregate distributed clinical wisdom that exists only in doctors' heads -- knowledge not found in any published literature.
 - `INS-260409-6236` Daily hands-on AI usage builds usable intuition that content consumption cannot replace.
-- `INS-260330-D429` Zimbabwe's forced land redistribution cut agricultural output by 50-90% because the new farmers lacked the tacit expertise that made the farms productive.
+- `INS-260410-0775` Chesterton's Fence is real — bitter cassava processing, food taboos, bow-making techniques encode causal logic that took centuries to evolve and that the people following them cannot explain.
 - `INS-260403-2612` Experts benefit more from writing about their domain because they hold more unconscious knowledge that only surfaces through articulation.
 - `INS-260403-8114` Understanding a mechanism's physics does not grant the ability to operate it skillfully.
-- `INS-260410-0775` Chesterton's Fence is real — bitter cassava processing, food taboos, bow-making techniques encode causal logic that took centuries to evolve and that the people following them cannot explain.
 - `INS-260330-FE14` Destin could diagnose hit quality purely from the crack of the bat — bottom barrel hits sound different from sweet-spot contact.
 - `INS-260330-B68F` JJ, an indigenous guide, can draw 19 conclusions from a single set of animal tracks that a trained Western naturalist sees as just impressions in sand.
 - `INS-260325-2AA0` Experimental archaeologists who physically recreate ancient technologies discover knowledge that decades of artifact analysis missed entirely.
@@ -22,3 +21,4 @@
 - `INS-260325-78E9` A professional hairdresser with no archaeology training solved the mystery of ancient Roman hairstyles that had stumped academics for centuries — embodied skill reveals what theory cannot.
 - `INS-260410-E71E` Hermès employs 7,000 artisans and trains new ones from scratch (two years before they make anything, years more before they touch a Birkin) because the knowhow cannot be documented — only transmitted hand to hand.
 - `INS-260403-09F6` Musicians' biggest AHA moment was seeing that the canvas captured what they already understood intuitively but never wrote down.
+- `INS-260330-D429` Zimbabwe's forced land redistribution cut agricultural output by 50-90% because the new farmers lacked the tacit expertise that made the farms productive.

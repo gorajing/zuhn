@@ -48,8 +48,8 @@ stance: >-
 related:
   - PRI-260406-6C6C
   - INS-260403-280B
+  - INS-260410-3EF5
   - INS-260404-277E
   - INS-260403-EC66
-  - INS-260403-81CE
 ---
 The logic mirrors Taleb's barbell: on the aggressive side, take convex bets where AI compounds (agencies, AI-native products, automation-heavy businesses) because the upside is unbounded and the downside is bounded by the cost of the experiment. On the defensive side, anchor in businesses that serve durable human needs (bodies need food and healthcare, free time needs entertainment) where demand doesn't evaporate regardless of AI trajectory. The middle ground — a traditional services business that hasn't gone AI-native — becomes the worst place to be, because it carries full labor cost while competing with AI-leveraged operators. The barbell works because either tail (AI boom or durable-need resilience) covers the position.

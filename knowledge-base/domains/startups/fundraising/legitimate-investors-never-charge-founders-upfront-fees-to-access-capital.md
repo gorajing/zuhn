@@ -54,6 +54,7 @@ related:
   - INS-260403-4960
   - INS-260402-4719
   - PRI-260406-992F
+  - INS-260410-8D62
 ---
 One of the clearest binary signals in fundraising is the direction of money flow. Legitimate investors never charge founders processing fees, legal fees, or pitch access fees. This applies across the spectrum: family offices don't charge $5K 'legal processing fees,' real pitch events don't require payment for access to investors, and genuine accelerators don't front-load exorbitant participation fees without delivering measurable value.
 

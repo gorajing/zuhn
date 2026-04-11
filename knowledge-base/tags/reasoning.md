@@ -27,9 +27,9 @@
 - `INS-260409-E080` Generator-verifier loops are easy to describe and almost impossible to execute because the verifier must be protected from the generator's influence.
 - `INS-260408-C572` Foundation models are world models without the search/reasoning layer AlphaZero had; combining them is the next breakthrough, not bigger pretraining.
 - `INS-260329-DEA1` Data types are the gateway abstraction that teaches programmers to separate representation from operation.
-- `INS-260325-82E8` The Copernican principle works for features unrelated to life (like Neptune) but fails for life-dependent features due to anthropic selection bias.
 - `INS-260403-213D` Good-sounding writing and correct thinking are structurally coupled through rhythm matching idea shape and revision forcing truth-convergence.
-- `INS-260329-76B8` The squeeze theorem shows that if you can trap an unknown function between two functions that both approach the same limit, the unknown must approach that limit too — even if you can never evaluate it directly.
 - `INS-260330-6C09` Thinking in bits (log2 of possibilities) makes sequential reasoning natural because information adds up while probabilities multiply.
+- `INS-260329-76B8` The squeeze theorem shows that if you can trap an unknown function between two functions that both approach the same limit, the unknown must approach that limit too — even if you can never evaluate it directly.
 - `INS-260403-AA5B` Constructing something guaranteed to differ from every item on a list proves the list is fundamentally incomplete.
 - `INS-260329-19B3` OOP's power comes from matching human cognitive patterns of categorization rather than from computational efficiency.
+- `INS-260325-82E8` The Copernican principle works for features unrelated to life (like Neptune) but fails for life-dependent features due to anthropic selection bias.

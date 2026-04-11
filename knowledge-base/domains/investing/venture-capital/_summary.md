@@ -1,6 +1,6 @@
 # Topic: venture-capital
 
-> 299 insights
+> 302 insights
 
 - `INS-260403-6B24` [high] High-profile 2025 IPOs like Figma, Chime, and Navan traded below debut prices even as Nasdaq and S&P 500 rallied.
 - `INS-260405-0CAB` [high] 38% of VCs stopped doing deals in 2023, exposing a large cohort of cycle-dependent tourist investors who entered during the 2020-2021 bull market.
@@ -40,6 +40,7 @@
 - `INS-260403-54FF` [high] DPI (cash returned vs. cash invested) is the cleanest VC metric because it strips out unrealized gains and time-value manipulation.
 - `INS-260403-082C` [high] Disorganized diligence processes cause more deal failures than actual red flags in the company.
 - `INS-260403-867B` [high] Structured, repeatable diligence processes outperform deeper but disorganized investigation.
+- `INS-260410-EFB8` [high] Stop trying to DCF a napkin — early-stage VC values the magnitude and probability distribution of outcomes, like an option.
 - `INS-260403-0B76` [high] An early ElevenLabs backer identifies two dealbreakers: teams without deep technical capability and those chasing crowded hype-driven markets.
 - `INS-260403-3AEE` [high] A 5-person early-stage fund managing $20M can build a complete tech stack for under $30K/year against a $40K tooling budget.
 - `INS-260403-1019` [high] Earn-outs should be evaluated at present value, not nominal — a $20M earn-out payable in 3 years with uncertain triggers may be worth a fraction of face value.
@@ -58,6 +59,7 @@
 - `INS-260403-1B46` [high] First-time VC funds raised just $1.1B in 2025, down nearly 80% from 2021, threatening the pipeline of new investment perspectives.
 - `INS-260403-DFA2` [high] Sequoia found that deals everyone mildly liked underperformed deals that triggered strong conviction even with disagreement, so they eliminated middle-score options.
 - `INS-260404-A53F` [high] Without IPOs or acquisitions generating returns, LPs stop re-upping, creating a self-reinforcing contraction in venture capital.
+- `INS-260410-F789` [high] Charging 2-and-20 or 3-and-30 before demonstrating unusual results attracts people who are good at fundraising and fee extraction, not people who are good at investing.
 - `INS-260403-8002` [high] Fund manager wealth required both new strategies and the 1978 regulatory change allowing pension fund investment — a two-factor gate.
 - `INS-260405-776D` [high] Five VC funds in Q1 2026 raised more capital ($35B+) than all US VC raised in the entirety of 2025.
 - `INS-260403-C377` [high] A $1B fund needs ~$17B in aggregate exits for 3x returns, mechanically forcing it toward consensus winners rather than contrarian bets.
@@ -67,6 +69,7 @@
 - `INS-260410-0B28` [high] At growth stage, everyone can see which companies are good — the scarce resource is being allowed to invest in them.
 
 - `INS-260404-F01F` [high] Biotech and health companies captured 53% of all US Series A funding in early 2024, totaling $5.6B across 110 rounds.
+- `INS-260410-228E` [high] Don't sell winners based on growth rate or maturity — sell based on whether decades of growth remain ahead.
 - `INS-260404-ADEE` [high] 44% of US unicorn founders are foreign-born, with India leading, making immigrant entrepreneurship a structural driver of venture capital returns.
 - `INS-260410-A5E1` [high] Sequoia and Sutter Hill backed Nvidia's original thesis, which turned out to be wrong on almost every technical decision — yet it became one of the best venture returns in history because Jensen treated each failed bet as a trigger for complete company reinvention.
 - `INS-260410-6E01` [high] Missing Google or Facebook costs more than a dozen Webvans, so the correct bias in venture is toward aggressive pursuit of any plausible outlier.

@@ -1,6 +1,6 @@
 # Domain: ai-development
 
-> 1671 insights across 40 topics
+> 1674 insights across 40 topics
 
 ## Topics
 
@@ -22,7 +22,7 @@
 | economics | 9 | AI's variable inference costs prevent it from achieving the gross margins that made software companies so valuable. |
 | embeddings | 18 | Different basis choices make different operations trivial or impossible in vector spaces. |
 | foundation-models | 9 | LLMs win the AGI race, but their first act as AGIs is to replace themselves with something closer to Sutton's from-scratch experiential architecture. |
-| future-of-work | 96 | Tens of millions learning Python through free YouTube tutorials represent a workforce transformation happening outside traditional education. |
+| future-of-work | 97 | Tens of millions learning Python through free YouTube tutorials represent a workforce transformation happening outside traditional education. |
 | governance | 13 | 80% of Americans want AI regulated — a rare civic consensus — and frontier labs are spending hundreds of millions to kill it; the organizing opening is real. |
 | hardware | 13 | An H100 is worth more today than three years ago because the models it runs generate far more value per token than GPT-4 did, and you can't just buy a Rubin instead. |
 | human-ai-relationship | 74 | When AI outperforms humans, human-AI synergy is g = -0.54; when humans outperform AI, synergy is g = +0.46. |
@@ -36,7 +36,7 @@
 | mental-models | 16 | Backprop doesn't know anything about neural networks — it applies the chain rule to any directed expression graph, and neural nets are just a particular shape of graph we happen to care about. |
 | model-architecture | 18 | Each biological neuron runs its own learning mechanisms and maintains state; each artificial neuron is just y = Wx + b, making raw neuron-count comparisons between brains and AI models deeply misleading. |
 | pedagogy | 4 | Watching someone use AI live is more instructive than reading or hearing about it. |
-| platform-dynamics | 38 | OpenAI doesn't treat agents as a separate category — ChatGPT, Codex CLI, Sora, and the API are all just different interfaces for deploying the same underlying intelligence, each optimized for different user contexts. |
+| platform-dynamics | 40 | OpenAI doesn't treat agents as a separate category — ChatGPT, Codex CLI, Sora, and the API are all just different interfaces for deploying the same underlying intelligence, each optimized for different user contexts. |
 | platform-shifts | 56 | Agentic AI is moving from an engineering concern to a board-level strategic imperative. |
 | product-strategy | 91 | MIT found 95% of genAI pilots yield zero P&L impact because enterprise AI tools become static science projects that never adapt to real workflows. |
 | productivity | 4 | Founders are now shipping in days what used to take engineer-months or years — Chamath vibe-coded a bookmark service he'd sat on for 15 years in one weekend, and his team doubled click-through rates via auto-research in a day. |

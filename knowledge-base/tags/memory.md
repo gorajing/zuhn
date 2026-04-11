@@ -22,6 +22,6 @@
 - `INS-260330-8F91` Memory operates on a Zipf-like distribution — a few experiences are retained strongly while most are forgotten entirely.
 - `INS-260409-6DBE` Matuschak and Nielsen argue that with spaced repetition and the mnemonic medium, memory stops being a chance event subject to forgetting and becomes a deliberate choice — 'follow these steps, and you can remember whatever you choose.'
 - `INS-260330-B784` Goggins compensates for ADHD by writing material repeatedly until each page becomes a retrievable visual image during tests.
-- `INS-260403-81CE` Professional investors hear so many pitches they blur together — a sticky 'the X of Y' phrase is the first-cut survival filter.
 - `INS-260330-125E` Rubin describes how the brain instantly invents explanatory stories for unexpected events, then registers those invented stories as factual memories we later relay with full confidence.
+- `INS-260403-81CE` Professional investors hear so many pitches they blur together — a sticky 'the X of Y' phrase is the first-cut survival filter.
 - `INS-260405-5BD3` After seeing hundreds of pitches, investors' first filter is memory — a single sticky phrase ('the X of Y') determines whether you clear that bar.

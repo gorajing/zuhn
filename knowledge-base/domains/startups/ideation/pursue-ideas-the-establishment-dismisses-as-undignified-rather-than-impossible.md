@@ -51,12 +51,11 @@ stance: >-
   The most fertile territory for outsider innovation is not what insiders reject
   as impossible, but what they ignore as beneath them.
 related:
-  - INS-260327-4C94
   - INS-260327-D5CC
+  - INS-260410-F1F1
+  - INS-260327-4C94
   - INS-260329-F21F
   - INS-260327-F55A
-  - INS-260405-AEA0
-  - INS-260403-FBC0
 evidence:
   - id: INS-260330-31B5
     type: SUPPORTS

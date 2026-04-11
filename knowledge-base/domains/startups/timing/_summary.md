@@ -1,6 +1,6 @@
 # Topic: timing
 
-> 65 insights
+> 66 insights
 
 - `INS-260404-007F` [high] Enterprise SaaS IPOs from 2012 outperformed expectations by solving deep operational pain points with recurring revenue models.
 - `INS-260330-ADB7` [high] Gallium nitride was declared a 'dead end' by RCA in 1972 and by Nichia's biggest customer in 1990, yet became an $80 billion industry by 2024.
@@ -30,6 +30,7 @@
 - `INS-260403-7219` [high] The gap between outdated bigger-is-better norms and current small-group advantages creates exploitable arbitrage.
 - `INS-260403-4E7A` [high] Paradigm shifts like AI create rare adoption windows in stagnant industries — whoever wins distribution first locks in for decades.
 - `INS-260403-D39A` [high] Each major startup cohort — semiconductors, PCs, internet, mobile — was built on a platform-level technology breakthrough that enabled new business models.
+- `INS-260410-E3E6` [high] NVIDIA's superpower is navigating to 'zero-billion-dollar markets' — non-existent markets they believe will emerge — and arriving a decade before competitors even understand why they're there.
 - `INS-260325-0F4F` [high] Progress begets progress: fundamental technologies like computing and steam power feed back into the innovation process itself, creating accelerating returns.
 - `INS-260330-9346` [high] At the beginning of a technology S-curve, it's impossible to know if commercial viability is months or centuries away — and once the curve kicks in, decades of progress happen in years.
 - `INS-260410-020E` [high] Qualcomm patented CDMA in 1986 when the processing required was physically impossible — because they correctly forecasted Moore's Law would make it feasible by ship date.

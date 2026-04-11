@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-11 | 4802 actionable insights
+Generated on 2026-04-11 | 4820 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1034,6 +1034,8 @@ Generated on 2026-04-11 | 4802 actionable insights
 ## investing/business-analysis
 - [INS-260410-91A6] Every generational operator — Buffett, Carnegie, Rockefeller, Izzy Sharp, Ogilvy — grew fastest during downturns by deploying capital into advertising, acquisitions, and hiring while panicked competitors cut back.
 - [INS-260410-9A20] Staged 'busy office' tours are a fraud tell — real businesses don't need to fake activity for visiting analysts.
+- [INS-260410-5871] Run stress tests against the worst outcome ever recorded for each exposure, not against the milder scenarios regulators or consensus supply.
+- [INS-260410-F1F1] Genuinely great opportunities come five or six times in a lifetime — when you know you have an edge, the correct response is to bet heavily, not to diversify.
 
 ## investing/fintech
 - [INS-260323-825F] The greatest financial innovations came from outsiders — a physicist who counted cards, a mathematician who broke Russian codes, and Einstein's Brownian motion theory — because pattern recognition transfers across domains.
@@ -1202,6 +1204,7 @@ Generated on 2026-04-11 | 4802 actionable insights
 - [INS-260410-6E01] Missing Google or Facebook costs more than a dozen Webvans, so the correct bias in venture is toward aggressive pursuit of any plausible outlier.
 - [INS-260410-FC55] eBay returned 92x the fund because it was already working at the time of investment — the 'risk' was purely in how the UI looked and what people were selling (beanie babies).
 - [INS-260410-F026] The eBay deal likely included 1.5M of founder secondary — and that may have been what prevented Pierre from selling to Knight Ridder for 50M instead of building a 21B company.
+- [INS-260410-228E] Don't sell winners based on growth rate or maturity — sell based on whether decades of growth remain ahead.
 
 ## music-production/music-marketing
 - [INS-260321-13EA] Release on Friday (international release day) with minimum 4 weeks from master delivery — things go wrong with aggregators, you need time to pitch DSPs, and thinking 'I'll release on Tuesday to fox them' is thinking small.
@@ -1977,6 +1980,7 @@ Generated on 2026-04-11 | 4802 actionable insights
 - [INS-260410-AB78] Whether 'compromise' is wisdom or suicide is entirely a function of the other side's real objective — a slice of territory can be traded; regime change and extermination cannot be appeased without empowering the executioner.
 - [INS-260410-A992] Nazi brutality turned a failing Stalinist state into a unified lethal adversary; Japanese brutality did the same to China; Russian brutality is doing the same in Ukraine — brutality intended to break will instead eliminates the surrender option.
 - [INS-260410-647F] Bush Sr. and Kohl deliberately avoided triumphalism around German reunification and the Soviet collapse, which bought Eastern Europe roughly 20 years to integrate with the West before Russian hardliners consolidated and started trying to destabilize them.
+- [INS-260410-6159] Start meetings in the kiddie pool: something you researched about the person's human life, not the capital interest that brought you there.
 
 ## psychology/perception
 - [INS-260323-5D23] The fastest way to shift emotional frequency is removing what pulls you down, not adding new practices.
@@ -2412,6 +2416,7 @@ Generated on 2026-04-11 | 4802 actionable insights
 - [INS-260410-2D4D] IPL had already absorbed India's entire cricket-advertising budget with the international rights deal, so they redesigned the product to compete with soap operas instead of with cricket — unlocking a parallel TAM by attracting women viewers and beauty-brand sponsors.
 - [INS-260410-9C58] The $60 membership and bulk pack sizes select for customers who have cash flow flexibility, storage space, and a willingness to plan ahead — yielding the wealthiest customer base of any major US retailer despite the lowest prices.
 - [INS-260410-1D7A] Sol Price's 'intelligent loss of sales' principle: forgo customers who only need 3 oz of WD-40 so you can carry only the 8 oz can — the SKU reduction unlocks logistics, labor, and supplier benefits that dwarf the lost revenue.
+- [INS-260410-EFD5] Costco's refusal to raise the hot dog or rotisserie chicken price is a deliberate sacred anchor — the signal that the whole store is cheap is worth far more than the margin.
 
 ## startups/co-founders
 - [INS-260323-0B5E] Teams that default to 'more meetings and re-strategizing' instead of shipping are using planning as emotional avoidance of the market test they fear.
@@ -2719,6 +2724,7 @@ Generated on 2026-04-11 | 4802 actionable insights
 - [INS-260410-0263] Mark Zuckerberg plays the company like a turn-based strategy game and just makes sure he gets more turns than anybody else and learns more from each turn than the next player.
 - [INS-260410-17E2] Rockefeller refused to speculate on drilling in Titusville and instead seized refining in Cleveland — the reliable, capital-intensive chokepoint everyone else ignored because it wasn't as exciting as hitting a gusher.
 - [INS-260410-8BF9] No carrier would adopt CDMA unless someone made the base stations, the handsets, AND the chips — so Qualcomm built JVs with Nortel and Sony to make all three before divesting every non-core layer.
+- [INS-260410-3EF5] Pick an extreme: dominate globally with massive fixed costs or aggregate the world's weirdos around one niche — never sit in the middle.
 
 ## startups/content-strategy
 - [INS-260329-3332] A single 4+ hour comprehensive tutorial can accumulate millions of views over years by dominating 'full course' search queries.
@@ -2787,6 +2793,8 @@ Generated on 2026-04-11 | 4802 actionable insights
 - [INS-260410-9AC4] Buffett and Munger's three piles — yes, no, and too-hard — work because the too-hard pile saves you from evaluating things you will never do well.
 
 - [INS-260410-5799] Intel passed on the iPhone chip contract because Jobs's offer was 'lowball' — which turned out to be the most expensive pricing decision in tech history.
+- [INS-260410-DDD0] When you bet the company, you're not gambling — you're pulling every future risk into the present so the outcome is already determined before the bet.
+- [INS-260410-679B] When losing, the strategy is usually obvious — the question is whether you can stomach executing it; when winning, you have to invent the next move from a position of comfort that misleads you.
 
 ## startups/developer-tools
 - [INS-260330-737B] Unfashionable legacy technologies like COBOL create outsized earning potential because shrinking talent supply meets persistent institutional demand.
@@ -3294,6 +3302,7 @@ Generated on 2026-04-11 | 4802 actionable insights
 - [INS-260409-A55C] The reward for shutting down a zombie is not an exit — it's getting your life back to do something that compounds.
 - [INS-260409-FCE1] Founders owe their employees and investors honest effort, not a successful outcome; the expected outcome was never winning.
 - [INS-260409-3CCA] Writing the story doesn't feel like work, so founders skip the most important part of the job.
+- [INS-260410-EA10] Unlike fighting dragons, companies only die when founders quit — so cultivate survival obsession over strategic certainty.
 
 ## startups/fundraising
 - [INS-260322-A02C] At pre-seed and seed stage, investors and early customers are betting on the founder's story and character, not the product.
@@ -3822,6 +3831,7 @@ Generated on 2026-04-11 | 4802 actionable insights
 - [INS-260409-1298] Pick the platform where your buyers are dense and competing voices are sparse, not the one with the most users.
 - [INS-260409-7C92] Buyers pay when they are thirstiest; lead magnets should intensify deprivation, not relieve it.
 - [INS-260409-2AF8] When prospects pay with time now, they are more likely to pay with money later.
+- [INS-260410-BA1A] Spotify needed users to hear about it ~8 times before signing up, so early marketing deliberately saturated small geographies like Sweden and US college towns.
 
 ## startups/growth-strategy
 - [INS-260322-70DD] Stop hiring for the business you used to be — at $30-50M revenue you need a CFO not a bookkeeper, and the founder becomes the ceiling when every function must pass through them.
@@ -4206,6 +4216,7 @@ Generated on 2026-04-11 | 4802 actionable insights
 - [INS-260410-282E] Kelly Johnson's inverted principle: 'I give raises to the guy who supervises the least — that means he's doing more and taking more responsibility.'
 - [INS-260410-9D9C] If you will need the person back within a year, the severance-plus-retraining math already tells you not to lay off — and performance ratings are too subjective to defend when you do.
 - [INS-260410-CE39] The time to build the Goldman relationship is a decade before you need to raise billions — seeds planted in good times are the only ones available in a crunch.
+- [INS-260410-141F] Top performers should trade measurable commitments (e.g. 'I'll be number one in the country') for freedom from internal meetings — bureaucracy kills the sales instinct.
 
 ## startups/market-entry
 - [INS-260330-7EDF] Asking 'what could go right?' instead of 'what went wrong?' shifts strategic focus from diagnosis of failure to identification of actionable opportunities.
@@ -4262,6 +4273,7 @@ Generated on 2026-04-11 | 4802 actionable insights
 - [INS-260410-5E3F] Azure was deliberately incubated outside the Server & Tools division because the division's KPIs, partners, and comp structure were all aligned with on-prem Windows Server sales that Azure would cannibalize.
 - [INS-260410-C4BB] Kelly Johnson built the first US jet fighter in 143 days with 23 engineers and 30 shop workers in a literal circus tent, codifying it as Skunk Works Rule 3: restrict team size in an almost vicious manner.
 - [INS-260410-44B7] Lock R&D at a fixed percentage of revenue through any business cycle so your technology leaders stop negotiating and start building.
+- [INS-260410-DB84] Dismantle comp structures that pay people for outcomes you'd regret — expect attrition, and treat that attrition as a feature.
 
 ## startups/pitch-decks
 - [INS-260405-D514] As pitch descriptions approach 'could be anything,' their information content approaches zero.
@@ -4476,6 +4488,7 @@ Generated on 2026-04-11 | 4802 actionable insights
 - [INS-260410-ABFF] Walmart's Great Value and Costco's Kirkland compete against brands on price; Trader Joe's refuses to launch a private label product unless it's differentiated on recipe, packaging, size, or merchandising — which is why the house brand carries the store's own name.
 - [INS-260410-9F29] The coffee was the conduit. The product was community.
 - [INS-260410-3C05] AWS launched bare-bones S3 and EC2 while Microsoft Azure Cloud Services and Google App Engine launched opinionated PaaS offerings — AWS captured the market because primitives enable both lift-and-shift and new-build use cases.
+- [INS-260410-277B] Spotify realized it could own audiobooks and podcasts because German labels had already started quietly uploading audiobooks to its music platform.
 
 ## startups/quality
 - [INS-260330-FA4D] Byron Ferguson spine-tests every arrow and discards out-of-tolerance ones before they ever enter his quiver — precision is built in preparation, not performance.
@@ -4672,6 +4685,8 @@ Generated on 2026-04-11 | 4802 actionable insights
 - [INS-260410-126F] James Hamilton's first S3 dev/test bill was $3.08, then $0.07 the next month — an economic event impossible under any traditional enterprise sales motion, and the reason Dropbox, Instagram, Airbnb, and Uber were all born on AWS.
 
 
+- [INS-260410-1626] Horizontal platforms that span functional silos must be sold to the CEO — every executive below has a silo to defend and can't authorize cross-silo change.
+- [INS-260410-BC66] Never take an enterprise meeting without a specific hypothesis about the job the customer would hire your product for — delay until you have one.
 
 ## startups/scaling
 - [INS-260322-7F88] At scale, your recruiting pipeline needs the same metrics-driven rigor as your customer pipeline: lead gen, nurture, conversion, onboarding, retention.
@@ -4854,6 +4869,7 @@ Generated on 2026-04-11 | 4802 actionable insights
 - [INS-260410-71D2] DIME (diplomacy, information, military, economics) is a decent starting point but Japan won on railways, loans, psyops, and Anglo-Japanese alliance terms — the decisive instruments are always context-specific.
 - [INS-260410-99A3] Clausewitz's 'culminating point' rule: every offensive has a moment past which continuing costs more than it gains, and great strategists learn to feel it.
 - [INS-260410-DE05] Corporate welfare pledges have affected hundreds of millions of animals at a cost of under $100M/year, while the equivalent legislation is blocked by agriculture committees and cultivated meat consumes billions in VC with no scale.
+- [INS-260410-02EA] Treat company-building as a turn-based strategy game: optimize for getting more turns and learning more from each turn than any competitor.
 
 ## startups/team-building
 - [INS-260405-F378] Searching for a technical cofounder before validating demand is backwards — demand attracts technical talent.
@@ -4878,6 +4894,7 @@ Generated on 2026-04-11 | 4802 actionable insights
 - [INS-260410-111A] Gutenberg went bankrupt because his small German town had only seven legal buyers for 300 Bibles — the press worked, the distribution didn't.
 - [INS-260410-1BB0] When you're racing a window shut, you don't have the luxury of optionality — the window itself is evidence your adversary's structural position will soon exceed yours.
 - [INS-260410-020E] Qualcomm patented CDMA in 1986 when the processing required was physically impossible — because they correctly forecasted Moore's Law would make it feasible by ship date.
+- [INS-260410-E3E6] NVIDIA's superpower is navigating to 'zero-billion-dollar markets' — non-existent markets they believe will emerge — and arriving a decade before competitors even understand why they're there.
 
 ## startups/unit-economics
 - [INS-260405-7ACC] CAC and churn are the two variables that determine whether a SaaS business is structurally viable — everything else is execution.
@@ -5055,6 +5072,7 @@ Generated on 2026-04-11 | 4802 actionable insights
 - [INS-260405-0D9A] Structure your roadmap so each milestone lowers the cost or risk of the next, making progress compound rather than just accumulate.
 - [INS-260405-F2C7] Vision should pull milestones forward, not justify why you missed them—keep the two layers structurally separate in your pitch.
 - [INS-260410-1941] Microsoft publicly committed to OS/2 with IBM while quietly nurturing Windows and Mac applications as parallel hedges, so when OS/2 failed, Windows was ready to inherit the entire PC ecosystem.
+- [INS-260410-EF31] Meta survived nine existential threats by framing itself as a 'human connection company,' not a 'social network' or 'social app' — letting the product form change while the mission stayed fixed.
 
 ## video-production/audience-building
 - [INS-260403-E8E3] Veritasium's plan to sign and mail 10,000 shade balls to Patreon supporters turns a video prop into a tangible relationship artifact.

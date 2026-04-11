@@ -51,7 +51,7 @@ related:
   - PRI-260403-E097
   - PRI-260406-0ACE
   - INS-260403-6BDC
-  - INS-260403-7881
+  - INS-260410-B74C
   - INS-260403-7795
 stance: >-
   Every dollar of profit not reinvested into growth is a dollar a competitor

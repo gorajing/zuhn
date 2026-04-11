@@ -8,3 +8,4 @@
 - `INS-260403-CDB0` DeepSeek's R1-Zero model learned complex reasoning entirely through reinforcement learning without human data, discovering novel problem-solving approaches.
 - `INS-260405-57D6` OpenAI accidentally discovered that training transformers well past the overfitting threshold triggers a 'grokking zone' where genuine understanding and emergent behaviors emerge.
 - `INS-260330-27CA` The Millennium Bridge wobble was caused by a positive feedback loop where the bridge's lateral sway synchronized pedestrians' gaits, which amplified the sway further.
+- `INS-260410-277B` Spotify realized it could own audiobooks and podcasts because German labels had already started quietly uploading audiobooks to its music platform.

@@ -1,16 +1,15 @@
 # Tag: platform-strategy
 
-- `INS-260330-28B1` Linux has 4% desktop share but dominates servers, proving that runtime platform share outweighs development-time platform share.
-- `INS-260410-4F43` Anthropic open-sourced the full MCPB specification, toolchain, and schemas so that the format can become a cross-application standard rather than a Claude-only feature.
-- `INS-260410-E8A8` Google is the only company in the world that controls frontier model, custom AI chips, hyperscale cloud distribution, and mass-market consumer applications — every other major AI player has at most one of these.
 - `INS-260405-77C9` Canva's acquisition of Leonardo AI demonstrates that incumbent platforms are buying rather than building AI model capabilities.
 - `INS-260323-6230` NVIDIA chose gaming as its first market because it was large enough to fund massive R&D, creating a flywheel between technology investment and market scale that later enabled the AI revolution.
+- `INS-260410-A98D` Every NVIDIA accelerator — all 250-300 million installed CUDA GPUs across 30 years — is architecturally compatible, and Huang treats this as the only unnegotiable rule in the entire company.
+- `INS-260330-28B1` Linux has 4% desktop share but dominates servers, proving that runtime platform share outweighs development-time platform share.
+- `INS-260410-ED4D` Meta open-sources the layers that don't differentiate it (Open Compute, Llama) precisely *because* the resulting ecosystem standardization lowers its costs and improves component quality.
+- `INS-260410-4F43` Anthropic open-sourced the full MCPB specification, toolchain, and schemas so that the format can become a cross-application standard rather than a Claude-only feature.
+- `INS-260410-E8A8` Google is the only company in the world that controls frontier model, custom AI chips, hyperscale cloud distribution, and mass-market consumer applications — every other major AI player has at most one of these.
 - `INS-260404-E4C3` AI features embedded in existing vertical workflows achieve faster adoption than standalone AI products because they eliminate the adoption barrier of a new tool.
 - `INS-260329-B4E7` Base 44's value isn't generating better code — it's eliminating every step between 'idea' and 'published app' that would normally require separate tools, accounts, and expertise.
 - `INS-260410-6F67` Fast exponential capability growth continuously generates new use cases that require bare-metal API access, so the API is the one surface that stays relevant across capability generations.
-- `INS-260329-3AE5` AWS's 200+ services create lock-in through integration complexity — migrating one service is easy, but migrating an ecosystem of interconnected services is practically impossible.
-- `INS-260404-2F49` Coinbase's standardization of USDC as the core funding rail across all products is more strategically important than any individual product launch.
-- `INS-260404-78E0` Coinbase's simultaneous launch of stocks, prediction markets, futures, and DeFi trading signals a shift from crypto brokerage to full financial platform.
 - `INS-260322-EDA4` New AI-first financial platforms will be 10x bigger than their predecessors because they capture both software spend and labor spend — automating work humans didn't want to do or couldn't hire for.
 - `INS-260410-9246` Visa's interchange is not a fee — it's an envelope of value the network can redistribute to issuing banks, acquiring banks, co-brand merchants, and rewards programs as needed to align behavior.
 - `INS-260322-AABB` The most scalable business models solve three different groups' pain points simultaneously in a self-reinforcing loop.
@@ -46,11 +45,16 @@
 - `INS-260405-B76E` Open source handles large-scale universal problems; closed software refines and distributes those solutions to specific users.
 - `INS-260410-81E8` Nadella argues the most important feature of American AI isn't capability but trust — countries are deploying based on whether the supplier and its institutions will still be around in 20 years.
 - `INS-260405-ABE0` Valve can afford hardware bets others can't because every device plugs into an already-won software distribution war.
-- `INS-260330-C418` Cows thrived by being useful to humans; elephants declined despite being smarter and stronger — usefulness to the dominant player beats independent capability.
-- `INS-260323-6043` Sweeney shipped the game editor alongside ZZT, empowering players to become creators -- this 'tools + product' pattern became Epic's core strategy and the reason the company survived decades of game industry volatility.
 - `INS-260404-0CA7` Vertical SaaS that bundles financial and operational workflows becomes nearly impossible to rip out.
 - `INS-260410-3C05` AWS launched bare-bones S3 and EC2 while Microsoft Azure Cloud Services and Google App Engine launched opinionated PaaS offerings — AWS captured the market because primitives enable both lift-and-shift and new-build use cases.
 - `INS-260404-68EE` 78% of public software companies above $5B market cap are multi-product, making it effectively mandatory for outsized outcomes.
 - `INS-260403-008F` Horizontal tools with light integration face multiple compression as AI features become table stakes, while mission-critical workflow platforms maintain 120%+ NRR and premium valuations.
+- `INS-260410-277B` Spotify realized it could own audiobooks and podcasts because German labels had already started quietly uploading audiobooks to its music platform.
+- `INS-260330-C418` Cows thrived by being useful to humans; elephants declined despite being smarter and stronger — usefulness to the dominant player beats independent capability.
+- `INS-260323-6043` Sweeney shipped the game editor alongside ZZT, empowering players to become creators -- this 'tools + product' pattern became Epic's core strategy and the reason the company survived decades of game industry volatility.
+- `INS-260410-1626` Horizontal platforms that span functional silos must be sold to the CEO — every executive below has a silo to defend and can't authorize cross-silo change.
 - `INS-260330-2737` Paul's Roman citizenship gave him free travel throughout the empire, allowing him to use Rome's own road network and legal protections to spread a message that would eventually undermine Roman religious authority.
 - `INS-260405-2422` All-in-one platforms that actually work create moats through workflow integration that point solutions can't replicate.
+- `INS-260329-3AE5` AWS's 200+ services create lock-in through integration complexity — migrating one service is easy, but migrating an ecosystem of interconnected services is practically impossible.
+- `INS-260404-2F49` Coinbase's standardization of USDC as the core funding rail across all products is more strategically important than any individual product launch.
+- `INS-260404-78E0` Coinbase's simultaneous launch of stocks, prediction markets, futures, and DeFi trading signals a shift from crypto brokerage to full financial platform.

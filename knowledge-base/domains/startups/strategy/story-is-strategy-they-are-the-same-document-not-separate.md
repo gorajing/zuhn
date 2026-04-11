@@ -49,7 +49,7 @@ related:
   - INS-260325-F451
   - INS-260330-66C7
   - INS-260404-7325
+  - INS-260410-02EA
   - INS-260403-B557
-  - INS-260327-CB72
 ---
 Horowitz rejects the committee-style 'strategy meeting where everyone gives input' as a fiction. What actually happens is the founder starts with an initial idea, learns about market/customers/technology/team every day, and mentally adjusts the strategy a little at a time — a quarter later it's pretty different from where they started. The job is to keep upgrading the articulation of the story in written form so it can be shared with everyone: employees, recruits, investors, customers. Crucially, story is NOT culture — culture is separate. Story answers 'why should this be a company, why should you join, why should you invest.' KPIs and OKRs are the 'what,' but the 'what' is just a vague interpretation of the 'why,' and if people understand the why they don't need to be told the what.

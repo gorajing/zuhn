@@ -3,7 +3,6 @@
 - `INS-260320-703F` Course bros sell hope, not value — if the magic solution worked, they wouldn't be selling it on Twitter.
 - `INS-260327-5D62` AI's biggest contact center opportunity is enabling new customer interactions that couldn't exist before, not just automating existing ones at lower cost.
 - `INS-260326-3D8D` Ng argues that the application layer of the AI stack must, almost by definition, generate more total value than semiconductors, cloud infrastructure, and foundation models combined — making it the largest opportunity for builders.
-- `INS-260405-8532` With U.S. labor costs at ~$18.6 trillion (60% of GDP), even partial AI-driven displacement would constitute the largest economic value transfer in modern history.
 - `INS-260329-8329` The core mental model shift for wealth creation is moving from 'how much per hour' to 'what percentage of value created can I capture.'
 - `INS-260329-577E` When money arrives faster than feels normal, it indicates a large value gap has been identified — the correct response is to scale, not to question legitimacy.
 - `INS-260403-C55B` Default to creating rather than critiquing, because early-stage creation is rarer and more valuable than sophisticated criticism.
@@ -19,9 +18,10 @@
 - `INS-260329-793D` Businesses typically have far more untapped leverage in their existing offer and customer base than they realize.
 - `INS-260403-A70D` Measuring outcomes over outputs forces product teams to validate that shipped features actually change user behavior and create value.
 - `INS-260330-19C3` Oxygen was a toxic waste product of early photosynthesis that became the foundation for all complex animal life — a reminder that byproducts can eclipse primary products in value.
-- `INS-260330-C607` Oxygen was photosynthesis's 'useless byproduct' that became the foundation of all animal life — the side effect outweighed the intended product.
 - `INS-260329-4020` Give massive value for free to 100 people without asking for anything — a handful will respond, creating more income than most jobs and establishing genuine credibility.
 - `INS-260329-B8C4` Provide tremendous unrequested value to 100 people and 1-5 will respond with opportunities — no transactional framing needed.
 - `INS-260329-1DE0` Cut delivery time in half or add priority access to create a premium tier that wealthy buyers prefer over larger promises.
 - `INS-260329-4B07` Cut delivery time rather than increase promised results — latency reduction is the strongest purchase motivator.
+- `INS-260330-C607` Oxygen was photosynthesis's 'useless byproduct' that became the foundation of all animal life — the side effect outweighed the intended product.
 - `INS-260330-E8C6` Unlike school and corporate life where gaming metrics works, startups have no boss to trick — only users who judge purely on whether the product solves their problem.
+- `INS-260405-8532` With U.S. labor costs at ~$18.6 trillion (60% of GDP), even partial AI-driven displacement would constitute the largest economic value transfer in modern history.

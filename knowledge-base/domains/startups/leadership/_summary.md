@@ -1,6 +1,6 @@
 # Topic: leadership
 
-> 195 insights
+> 196 insights
 
 - `INS-260404-F834` [high] Replace abstract culture complaints with specific behavioral stories backed by evidence to surface real, fixable problems.
 - `INS-260330-4A89` [high] Raises given on request incentivize lobbying over performance; formal evaluation cycles protect meritocratic culture.
@@ -84,6 +84,7 @@
 - `INS-260327-2520` [high] Arora didn't even know cybersecurity was one word when he joined Palo Alto, but succeeded by learning furiously while projecting calm conviction — like a duck, serene on top but paddling furiously underneath.
 - `INS-260322-4F7A` [high] Life defaults are like software defaults — you can only change one or two at a time, and each change requires total commitment or the system reverts you back.
 - `INS-260323-28FB` [high] People endure incredible hardship today if the future portends what they want — so start negotiations by finding a shared future state and work backward.
+- `INS-260410-141F` [high] Top performers should trade measurable commitments (e.g. 'I'll be number one in the country') for freedom from internal meetings — bureaucracy kills the sales instinct.
 - `INS-260403-F9AC` [high] Continuous mental ownership of company problems creates tighter feedback loops than scheduled deep work sessions.
 - `INS-260330-FF9A` [high] Convert your survival plan into concrete metric targets for each team so every employee can see exactly how their work contributes to the company's path through the crisis.
 - `INS-260322-EE1B` [high] There's a power law in everything — identify the single most important thing each period and go all-in before distributing effort across secondary goals.

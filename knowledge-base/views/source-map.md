@@ -685,6 +685,7 @@ Generated on 2026-04-11 | 2599 sources
 | A billion years of evolution in a single afternoon — George Church | youtube | 5 | 2026-04-10 |
 | A Process for Finding & Achieving Your Unique Purpose | Robert Greene | youtube | 5 | 2026-03-30 |
 | A Tale of Greed: How 4 CEOs and $5B Failed Twitter | youtube | 5 | 2026-03-24 |
+| ACQ2: The Art of Selling Enterprise Software (with ServiceNow CEO Bill McDermott) | youtube | 5 | 2026-04-11 |
 | Acquired LIVE from Chase Center (with Daniel Ek, Emily Chang, Jensen Huang and Mark Zuckerberg) | youtube | 5 | 2026-04-11 |
 | Adam Marblestone – AI is missing something fundamental about the brain | youtube | 5 | 2026-04-10 |
 | ADHD & How Anyone Can Improve Their Focus | youtube | 5 | 2026-03-30 |
@@ -722,6 +723,7 @@ Generated on 2026-04-11 | 2599 sources
 | Can Something Come From Nothing? Exploring The Universe's Origins With Jim Al-Khalili | youtube | 5 | 2026-03-23 |
 | Can We Pull Back From The Brink? (Episode #207) | youtube | 5 | 2026-03-30 |
 | Capitalism and Socialism: Crash Course World History #33 | youtube | 5 | 2026-03-30 |
+| Charlie Munger (Audio) | youtube | 5 | 2026-04-11 |
 | "China is digging out of a crisis. And America’s luck is wearing thin." — Ken Rogoff | youtube | 5 | 2026-04-10 |
 | China is killing the US on energy. Does that mean they’ll win AGI? — Casey Handmer | youtube | 5 | 2026-04-10 |
 | Christianity from Judaism to Constantine: Crash Course World History #11 | youtube | 5 | 2026-03-30 |
@@ -846,6 +848,7 @@ Generated on 2026-04-11 | 2599 sources
 | No BS Advice to Get Rich Like the 1% | youtube | 5 | 2026-03-30 |
 | Notes on China | youtube | 5 | 2026-04-10 |
 | Novo Nordisk (Ozempic) | youtube | 5 | 2026-04-11 |
+| NVIDIA CEO Jensen Huang | youtube | 5 | 2026-04-11 |
 | Nvidia Part III: The Dawn of the AI Era (2022-2023) (Audio) | youtube | 5 | 2026-04-11 |
 | Nvidia: The GPU Company (1993-2006) | youtube | 5 | 2026-04-11 |
 | Nvidia: The Machine Learning Company (2006-2022) | youtube | 5 | 2026-04-11 |
@@ -888,6 +891,7 @@ Generated on 2026-04-11 | 2599 sources
 | Some thoughts on the Sutton interview | youtube | 5 | 2026-04-10 |
 | Something Strange Happens When You Follow Einstein's Math | youtube | 5 | 2026-03-30 |
 | SONY (75 years of electronics history in 3 hours) | youtube | 5 | 2026-04-11 |
+| Spotify CEO Daniel Ek | youtube | 5 | 2026-04-11 |
 | Standard Oil Part 1 | youtube | 5 | 2026-04-11 |
 | Starbucks (with Howard Schultz) | youtube | 5 | 2026-04-11 |
 | Stephen Kotkin — How Stalin became the most powerful dictator in history | youtube | 5 | 2026-04-10 |
@@ -912,11 +916,14 @@ Generated on 2026-04-11 | 2599 sources
 | The illusion of shared reality | Anil Seth & Jonny Thomson | youtube | 5 | 2026-03-25 |
 | The INSANE Story of Domino's Pizza | youtube | 5 | 2026-03-30 |
 | The INSANE Truth About TikTok | youtube | 5 | 2026-03-30 |
+| The Jamie Dimon Interview: How JP Morgan Became an $800 Billion Bank | youtube | 5 | 2026-04-11 |
 | The Man Who Accidentally Killed The Most People In History | youtube | 5 | 2026-03-30 |
 | The Man Who Robbed An Entire Country | youtube | 5 | 2026-03-30 |
+| The Mark Zuckerberg Interview | youtube | 5 | 2026-04-11 |
 | The Modern Middle East, Explained | youtube | 5 | 2026-03-27 |
 | The Most Illegal Business In The World: Silk Road | youtube | 5 | 2026-03-30 |
 | The most important question nobody's asking about AI. | youtube | 5 | 2026-04-10 |
+| The Playbook: Lessons from 200+ Company Stories | youtube | 5 | 2026-04-11 |
 | The Power of Suggestion | youtube | 5 | 2026-03-30 |
 | The Power of Vulnerability | Brené Brown | TED | youtube | 5 | 2026-03-27 |
 | The Reckoning (Episode #391) | youtube | 5 | 2026-03-30 |
@@ -2580,25 +2587,18 @@ Generated on 2026-04-11 | 2599 sources
 | Write Simply | blog | 0 | 2026-03-31 |
 | Writing, Briefly | blog | 0 | 2026-03-31 |
 | YC W26 Batch: Complete Database of 196 Companies (2026) | blog | 0 | 2026-03-30 |
-| ACQ2: The Art of Selling Enterprise Software (with ServiceNow CEO Bill McDermott) | youtube | 0 | 2026-04-11 |
 | Bill Nye: Creationism Is Not Appropriate For Children | Big Think | youtube | 0 | 2026-03-30 |
 | Brainf**k in 100 Seconds | youtube | 0 | 2026-03-30 |
-| Charlie Munger (Audio) | youtube | 0 | 2026-04-11 |
 | Donut-shaped C code that generates a 3D spinning donut | youtube | 0 | 2026-03-30 |
 | If You Want to Learn, Do | youtube | 0 | 2026-03-30 |
 | Improvising in Africa.  Warning - GROSS - Smarter Every Day 28 | youtube | 0 | 2026-03-30 |
 | Mind Field - Official Trailer | youtube | 0 | 2026-03-30 |
-| NVIDIA CEO Jensen Huang | youtube | 0 | 2026-04-11 |
 | Python in 100 Seconds | youtube | 0 | 2026-03-30 |
 | Spend More Time Making the Big Decisions | youtube | 0 | 2026-03-30 |
-| Spotify CEO Daniel Ek | youtube | 0 | 2026-04-11 |
 | Stable diffusion dreams of "blueberry spaghetti" for one night | youtube | 0 | 2026-04-10 |
 | Stable diffusion dreams of psychedelic faces | youtube | 0 | 2026-04-10 |
 | Stable diffusion dreams of steam punk neural networks | youtube | 0 | 2026-04-10 |
 | Stable diffusion dreams of steampunk brains | youtube | 0 | 2026-04-10 |
 | Stable diffusion dreams of tattoos | youtube | 0 | 2026-04-10 |
-| The Jamie Dimon Interview: How JP Morgan Became an $800 Billion Bank | youtube | 0 | 2026-04-11 |
-| The Mark Zuckerberg Interview | youtube | 0 | 2026-04-11 |
-| The Playbook: Lessons from 200+ Company Stories | youtube | 0 | 2026-04-11 |
 | Trailer: What is Acquired? | youtube | 0 | 2026-04-11 |
 | Your desires are not yours. | youtube | 0 | 2026-03-30 |

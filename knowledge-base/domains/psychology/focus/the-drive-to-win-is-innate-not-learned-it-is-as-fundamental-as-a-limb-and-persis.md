@@ -54,7 +54,8 @@ related:
   - INS-260323-CEA8
   - INS-260322-D6B8
   - INS-260403-17E1
-  - INS-260327-8521
+  - INS-260410-F1F1
+  - INS-260410-6159
 stance: >-
   Neil Adams describes his desire to win as something 'as much a part of me as
   my arms and legs'

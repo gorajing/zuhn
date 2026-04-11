@@ -2,20 +2,9 @@
 
 - `INS-260321-807B` AI native marketing agencies go end-to-end with AI, bypassing tools like Adobe entirely, dramatically improving margins and delivering ads within days.
 - `INS-260403-8874` AI fully replacing human labor would create mass displacement and resource competition severe enough to destabilize every political system, making it a different crisis rather than a solution.
-- `INS-260330-7C24` Vibe coding creates a barbell market where giant apps and tiny niche apps thrive, but 5-20 person software companies get squeezed out.
 - `INS-260322-5678` Each platform shift (PCs, web, mobile) succeeded not by doing the previous thing better, but by enabling entirely new behaviors — AI will likely follow the same pattern of creating new categories rather than replacing existing software.
 - `INS-260405-54B7` Tesla's January 2026 unsupervised robotaxi launch in Austin caused Uber and Lyft to fall 1-2% on the news, confirming that market participants now price AV as a live platform threat, not a future one.
-- `INS-260327-EFA6` Car companies face electrification, Chinese competition, autonomous driving, regulatory changes, and consumer affordability crises all at once - any one would be manageable but together they're potentially fatal.
-- `INS-260327-40D5` Tech workers went from guaranteed careers with stock-option millionaires to mass layoffs and AI replacement, becoming everything they promised to disrupt.
-- `INS-260322-C472` For AI startups to beat established software companies like Salesforce, they need all three: a reimagined proactive UI, access to new data sources (unstructured data over structured databases), and a disruptive business model beyond seat-based pricing.
-- `INS-260410-E5C9` Oracle, IBM, and DEC all ran 70-80% margin hardware/license businesses and couldn't bring themselves to compete with AWS's 20-30% margin cloud — their cost structures, sales motions, and investor expectations were all calibrated to the old model.
-
-
-- `INS-260405-C0AF` Surviving retailers like Costco, Ross, Aldi, and Dollar General prove physical retail isn't dying — only undifferentiated or maladapted retail is.
-- `INS-260405-8532` With U.S. labor costs at ~$18.6 trillion (60% of GDP), even partial AI-driven displacement would constitute the largest economic value transfer in modern history.
-- `INS-260327-2964` Prussia's army was considered Europe's finest based on Frederick the Great's victories 50 years earlier — but it had not modernized and collapsed in a single day.
-- `INS-260327-203C` China, the world's most advanced civilization for centuries, was humiliated by Western powers because it stopped innovating while Europe underwent the Industrial Revolution.
-- `INS-260327-B950` Venice's decline began when Portuguese discovery of the sea route to India bypassed the Mediterranean trade routes that Venice controlled.
+- `INS-260330-7C24` Vibe coding creates a barbell market where giant apps and tiny niche apps thrive, but 5-20 person software companies get squeezed out.
 - `INS-260405-EF0F` People grabbed newspapers and magazines at newsstands out of commuting habit — when smartphones replaced the commute ritual, the revenue vanished even though the content was still good.
 - `INS-260402-EC9F` Being poor means your personal cost threshold naturally produces products priced an order of magnitude below incumbents, which incumbents psychologically cannot follow.
 - `INS-260403-CA57` Plot every business model on profitability vs. disruption risk to surface hidden vulnerabilities in seemingly healthy businesses.
@@ -39,6 +28,7 @@
 - `INS-260330-FF09` The same focus that builds a monopoly prevents the company from destroying it, even when survival requires exactly that.
 - `INS-260410-F856` Butler Brothers refused Walton's offer to partner on discounting because it would blow up their franchisee markup business — the same dynamic that lets every new entrant with a better model win.
 - `INS-260405-63C8` BlackBerry's collapse was not a product failure — it was a perceptual failure about which game they were playing.
+- `INS-260410-EEC1` Walmart watched Costco compound for decades without copying it because their prior playbook — cheap rural real estate, big efficient stores — already occupied the mental slot where the Costco model would have gone.
 - `INS-260330-9014` Blockbuster's 60,000 employees and thousands of stores — once their moat — became their biggest liability when streaming eliminated the need for physical locations.
 - `INS-260403-F932` If a new medium makes you nervous, it will probably win — jump in immediately rather than protecting your old model.
 - `INS-260403-1D43` Incumbent game studios will use AI to cut costs and add depth to existing formats, but category-defining breakthroughs require AI-native thinking from new entrants.
@@ -79,8 +69,8 @@
 - `INS-260403-E592` Outsiders disrupt better because they reach conviction before accumulating the insider knowledge that would prevent them from starting.
 - `INS-260410-EA73` Benchmark's partners explicitly reject words like 'institution' and 'franchise' because their job is killing incumbents, so they've built a culture where every partner who has ever left fired themselves before peer pressure had to.
 - `INS-260403-E59C` Microsoft didn't lose the desktop — the desktop stopped mattering when software moved to the web.
-- `INS-260330-230D` Christianity spread fastest not during Rome's peak but during its decline, when Roman religion's promise of earthly prosperity visibly failed average citizens.
 - `INS-260404-1137` Playing both the execution and experimentation games in parallel is the core organizational challenge for established companies seeking growth.
+- `INS-260330-230D` Christianity spread fastest not during Rome's peak but during its decline, when Roman religion's promise of earthly prosperity visibly failed average citizens.
 - `INS-260330-ABB1` The cheapest M1 MacBook Air outperformed the most expensive Intel i9 MacBook Pro in most developer workflows while running cooler and using less battery.
 - `INS-260405-7DC3` E-Ship 1 added four Flettner rotors to reduce diesel consumption — not to replace diesel, making the economics and risk profile of adoption far more tractable.
 - `INS-260403-E556` Shifting from exploitation (efficiency gains) to exploration (transformative ideas) is the critical strategic rebalancing for sustained innovation.
@@ -96,3 +86,14 @@
 - `INS-260404-96E6` Sears, Toys-R-Us, and J.C. Penney failed from strategic neglect, not because Amazon made physical retail unviable.
 - `INS-260404-AD52` Sears, Toys-R-Us, and J.C. Penney died not because of Amazon directly but because they shared Amazon's basic model while executing it worse.
 - `INS-260403-3DA1` Unglamorous industries like logistics and waste management are often ripe for disruption precisely because talented founders ignore them.
+- `INS-260327-EFA6` Car companies face electrification, Chinese competition, autonomous driving, regulatory changes, and consumer affordability crises all at once - any one would be manageable but together they're potentially fatal.
+- `INS-260327-40D5` Tech workers went from guaranteed careers with stock-option millionaires to mass layoffs and AI replacement, becoming everything they promised to disrupt.
+- `INS-260322-C472` For AI startups to beat established software companies like Salesforce, they need all three: a reimagined proactive UI, access to new data sources (unstructured data over structured databases), and a disruptive business model beyond seat-based pricing.
+- `INS-260410-E5C9` Oracle, IBM, and DEC all ran 70-80% margin hardware/license businesses and couldn't bring themselves to compete with AWS's 20-30% margin cloud — their cost structures, sales motions, and investor expectations were all calibrated to the old model.
+
+
+- `INS-260405-C0AF` Surviving retailers like Costco, Ross, Aldi, and Dollar General prove physical retail isn't dying — only undifferentiated or maladapted retail is.
+- `INS-260405-8532` With U.S. labor costs at ~$18.6 trillion (60% of GDP), even partial AI-driven displacement would constitute the largest economic value transfer in modern history.
+- `INS-260327-2964` Prussia's army was considered Europe's finest based on Frederick the Great's victories 50 years earlier — but it had not modernized and collapsed in a single day.
+- `INS-260327-203C` China, the world's most advanced civilization for centuries, was humiliated by Western powers because it stopped innovating while Europe underwent the Industrial Revolution.
+- `INS-260327-B950` Venice's decline began when Portuguese discovery of the sea route to India bypassed the Mediterranean trade routes that Venice controlled.

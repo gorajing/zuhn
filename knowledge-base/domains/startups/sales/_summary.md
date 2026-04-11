@@ -1,6 +1,6 @@
 # Topic: sales
 
-> 185 insights
+> 187 insights
 
 - `INS-260329-7B47` [high] Send 100 personalized outreach messages daily using a compliment-plus-positioning formula to guarantee your first five customers through pure volume.
 - `INS-260327-1B7C` [high] Data from MEDDIC CRM software shows over 80% of won deals had economic buyer engagement while 80% of lost deals lacked it — the correlation is overwhelming.
@@ -63,6 +63,7 @@
 - `INS-260329-1A3B` [high] If prospects reject your free offer, their objections reveal hidden costs that, once eliminated, let you charge premium prices while competitors still impose those costs.
 - `INS-260327-02DF` [high] Horowitz says the best sales hire for Data Bricks came from an unknown public company selling secure FTP — because if you can make your number selling FTP, you have the discipline to sell anything.
 - `INS-260328-7942` [high] A VP of Sales from Google knows how to run a team against an established playbook — they don't know how to create one from scratch.
+- `INS-260410-1626` [high] Horizontal platforms that span functional silos must be sold to the CEO — every executive below has a silo to defend and can't authorize cross-silo change.
 - `INS-260329-D1A1` [high] Custom-researched outreach to multiple stakeholders per target company signals the hustle that generic mass applications cannot.
 - `INS-260327-BF43` [high] Your job is to identify each prospect's specific leverage (pain points and motivations), then plug those specific pains into your solution -- never pitch the same way twice.
 - `INS-260327-9AD8` [high] Optimizely closed six-figure deals where customers never ran a single A/B test because they treated implementation as the customer's job -- the fix was project-managing implementation like a high-priority internal project.
@@ -155,6 +156,7 @@
 - `INS-260330-C095` [high] Get into enterprises through individual users bringing in consumer-quality tools, then sell to the organization for security, control, and scalability — but you still need salespeople to navigate that conversion.
 - `INS-260329-5924` [high] Use the Value Equation (dream outcome × perceived likelihood / time delay × effort) to price based on value delivered rather than cost incurred.
 - `INS-260327-0F42` [high] A 30-year-old trying to make a name for themselves who has never bought software at the organization can tank your deal: they demo without security approval, go to leadership without political cover, and get shut down by their CTO.
+- `INS-260410-BC66` [high] Never take an enterprise meeting without a specific hypothesis about the job the customer would hire your product for — delay until you have one.
 - `INS-260329-348D` [high] Warning about extreme positive side effects makes the positive outcome feel inevitable rather than aspirational.
 - `INS-260327-0826` [high] Good closers try to get hot; great closers never get cold because they've analyzed exactly what they do differently during hot streaks and systematized every detail.
 - `INS-260327-6AB1` [high] Regardless of interview length, the first 2-3 minutes form the lasting impression — use the opening 'tell me about yourself' to immediately address why you want sales and why this specific company.

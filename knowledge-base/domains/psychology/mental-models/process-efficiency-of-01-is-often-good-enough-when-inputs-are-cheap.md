@@ -42,9 +42,9 @@ stance: >-
   than throughput and accumulation
 related:
   - INS-260409-E73C
+  - INS-260410-1996
   - INS-260327-4E34
   - INS-260321-6437
   - INS-260329-9D26
-  - INS-260409-8408
 ---
 CERN's positron moderator loses 999 out of 1000 positrons to annihilation in the tungsten mesh, yet this is acceptable because the source is cheap and the trap accumulates output for minutes into clouds of 10^8 positrons. The lesson generalizes: obsessing over per-unit efficiency is a trap when (a) inputs are abundant, (b) output is cumulative, and (c) the next-stage consumer has latency tolerance. Many early-stage systems — ML data pipelines, prospecting, fundraising, content funnels — are dominated by this math. Throughput × time accumulates what efficiency cannot match.

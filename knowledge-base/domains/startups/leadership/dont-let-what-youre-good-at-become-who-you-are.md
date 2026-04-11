@@ -53,7 +53,6 @@ stance: >-
 related:
   - INS-260325-ED84
   - INS-260323-DA91
-  - INS-260323-2B53
   - INS-260325-C2BD
   - INS-260323-C2F1
   - INS-260323-8B89
@@ -61,6 +60,7 @@ related:
   - INS-260323-2038
   - INS-260323-B374
   - INS-260327-70DF
+  - INS-260329-58E7
 evidence:
   - id: INS-260321-99C0
     type: TRANSFERS_TO

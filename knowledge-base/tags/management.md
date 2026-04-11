@@ -1,8 +1,8 @@
 # Tag: management
 
-- `INS-260402-D534` Believing all options are equivalent is a cognitive shortcut that eliminates evaluation of dimensions the decision-maker cannot understand.
 - `INS-260403-7FFA` Social skills frequently outweigh technical ability in determining who advances to engineering leadership.
 - `INS-260405-68DC` Good engineers made into managers as a reward for engineering excellence reliably become bad managers — the role requires different skills, not more of the same.
+- `INS-260402-D534` Believing all options are equivalent is a cognitive shortcut that eliminates evaluation of dimensions the decision-maker cannot understand.
 - `INS-260402-ABB5` Financial constraints force companies to fix dysfunctions — overpaying underperformers, underpaying top talent, coordination-heavy middle management — that abundant capital made invisible.
 - `INS-260330-AB95` Delaying termination of a bad employee risks losing good employees who won't tolerate the toxic environment, making procrastination strictly worse than action.
 - `INS-260330-258F` Quick, direct, face-to-face termination with immediate access revocation is the professional standard — procrastination lets toxic employees drive away good ones.
@@ -18,6 +18,7 @@
 - `INS-260410-9D9C` If you will need the person back within a year, the severance-plus-retraining math already tells you not to lay off — and performance ratings are too subjective to defend when you do.
 - `INS-260330-A476` When facing an important decision under pressure, explicitly telling people you need to pause and think it through produces better outcomes than projecting instant confidence.
 - `INS-260322-C6CE` Instead of working on your weaknesses, ask whether being bad at something is the reason you're good at everything else — then hire a dedicated 'process person' to compensate.
+- `INS-260410-141F` Top performers should trade measurable commitments (e.g. 'I'll be number one in the country') for freedom from internal meetings — bureaucracy kills the sales instinct.
 - `INS-260329-B4C8` Discretionary effort is voluntary and only flows toward leaders who use praise over punishment.
 - `INS-260330-8E3C` What you say about a terminated employee at the company meeting becomes their reputation, because every person in your company will get a reference call about them.
 - `INS-260329-E45A` Punishment-based cultures cause employees to exert only the minimum effort needed to avoid being fired, forfeiting all discretionary effort above that bar.
@@ -30,6 +31,7 @@
 - `INS-260403-4760` Stay a programmer in flat startup structures rather than climbing corporate ladders that force you into management you'll do poorly.
 - `INS-260402-D2C9` You cannot manage a process intended to produce beautiful things without knowing what beautiful is — taste is a prerequisite for quality leadership.
 - `INS-260330-DB4B` When something important lands on your desk, saying 'I need to think this through from all perspectives' produces better outcomes than the instinct to demonstrate decisiveness.
+- `INS-260410-E590` NVIDIA has 40+ direct reports to Huang because the company is architected like a computing stack — with people managing each layer — not like a military command hierarchy.
 - `INS-260330-488B` Flat structure works perfectly until ~25 employees, then fails completely overnight with no gradual degradation.
 - `INS-260330-50A4` Flat org structures work perfectly until ~20 employees then fail all at once around 25-30, requiring proactive structure before the crisis.
 - `INS-260403-62B4` Black-box delegation creates hiding spots for underperformers that founders can uniquely detect and eliminate.

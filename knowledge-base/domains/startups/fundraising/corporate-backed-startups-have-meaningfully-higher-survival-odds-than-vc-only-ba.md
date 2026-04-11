@@ -48,6 +48,6 @@ related:
   - INS-260403-1B96
   - INS-260404-5988
   - PRI-260405-E9C5
-  - INS-260403-F4E7
+  - INS-260410-EA10
 ---
 Global Corporate Venturing research cited in this newsletter finds corporate-backed startups outperform on survival metrics. This likely reflects multiple compounding advantages: corporates provide not just capital but distribution, customer introductions, and strategic legitimacy that pure financial VCs cannot. For founders, this reframes CVC participation from a 'nice-to-have' to a survival-correlated signal worth prioritizing in funding strategy — particularly for B2B and infrastructure startups where corporate customers matter most.

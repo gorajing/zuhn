@@ -45,11 +45,11 @@ stance: >-
   seamlessly, and maintaining intensity under pressure.
 related:
   - INS-260323-FBD9
+  - INS-260410-02EA
   - INS-260403-F519
   - INS-260330-CCF0
   - INS-260410-67D5
   - INS-260324-468C
-  - INS-260403-49E7
 evidence:
   - id: INS-260403-D06F
     type: CHALLENGES

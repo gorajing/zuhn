@@ -1,8 +1,5 @@
 # Tag: innovators-dilemma
 
-- `INS-260410-E5C9` Oracle, IBM, and DEC all ran 70-80% margin hardware/license businesses and couldn't bring themselves to compete with AWS's 20-30% margin cloud — their cost structures, sales motions, and investor expectations were all calibrated to the old model.
-
-
 - `INS-260328-9408` None of the YC mobile winners had pre-iPhone mobile experience; the same pattern is playing out with AI disrupting SaaS.
 - `INS-260403-0AF6` Severe channel conflict in agent-dependent industries creates permanent incumbent paralysis that outsiders can exploit.
 - `INS-260405-6524` Billable-hours and per-seat pricing create a structural disincentive for incumbents to adopt AI, giving startups a temporary but real market-share window.
@@ -23,3 +20,6 @@
 - `INS-260410-5E3F` Azure was deliberately incubated outside the Server & Tools division because the division's KPIs, partners, and comp structure were all aligned with on-prem Windows Server sales that Azure would cannibalize.
 - `INS-260403-B133` The executives who rose to the top by making the right choices for the old business are wired to make the wrong choices for the new one.
 - `INS-260403-21A2` Overpaying customers make it rational to ignore the future until it's too late.
+- `INS-260410-E5C9` Oracle, IBM, and DEC all ran 70-80% margin hardware/license businesses and couldn't bring themselves to compete with AWS's 20-30% margin cloud — their cost structures, sales motions, and investor expectations were all calibrated to the old model.
+
+

@@ -61,9 +61,9 @@ related:
   - INS-260330-7C58
   - INS-260403-B4DC
   - INS-260404-F631
+  - INS-260410-EF31
   - PRI-260324-3AAE
   - PRI-260324-5F05
-  - INS-260323-BC61
 ---
 The Acquired hosts end their analysis identifying Meta's distinctive edge as 'moving like water.' Every other big-tech company is wedded to a particular vision of what they are: Apple is devices, Google is search, Amazon is retail. Meta is committed only to connecting people, and will copy, buy, build, or invent whatever serves that goal. Facebook Live cloned Periscope, Reels cloned TikTok, Stories cloned Snapchat, Marketplace cloned Craigslist, Threads cloned Twitter, and Instagram and WhatsApp were bought outright. The company has zero attachment to the idea that their innovation must be original — Zuckerberg himself has pointed out that Facebook's original concept was already present in MySpace and Friendster.
 

@@ -46,7 +46,6 @@ stance: >-
   the valuation at roughly half the dilution compared to external investment
   bankers
 related:
-  - INS-260330-77D1
   - INS-260330-7346
   - INS-260405-EB05
   - INS-260404-57B8
