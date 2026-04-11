@@ -49,10 +49,11 @@ stance: >-
   to personal outreach, not a product or market problem
 related:
   - INS-260320-07A2
-  - INS-260327-5DD2
   - INS-260329-3392
   - INS-260330-D5BD
   - INS-260327-89C7
+  - INS-260327-5DD2
+  - INS-260410-1D64
 evidence:
   - id: INS-260320-07A2
     type: EXTENDS

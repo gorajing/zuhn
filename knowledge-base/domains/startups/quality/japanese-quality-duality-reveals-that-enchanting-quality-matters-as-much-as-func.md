@@ -53,10 +53,10 @@ stance: >-
   will lose to competitors who invest in delight at every interaction point
 related:
   - INS-260329-CEC5
+  - INS-260410-5E92
   - INS-260327-F7BD
   - INS-260323-2E49
   - INS-260403-280B
-  - INS-260321-F864
 evidence:
   - id: INS-260321-F864
     type: TRANSFERS_TO

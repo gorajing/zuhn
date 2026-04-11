@@ -44,11 +44,11 @@ resolutions:
     are the most profitable division of major banks — higher margins than
     investment banking, auto loans, or mortgages.
 related:
+  - INS-260410-6F4B
   - INS-260409-7731
   - INS-260330-3E6F
   - INS-260327-6177
   - INS-260330-3138
-  - INS-260325-57CA
 stance: >-
   Visa was founded by Bank of America, Mastercard by smaller banks as a
   counterweight

@@ -1,6 +1,6 @@
 # Topic: bubbles
 
-> 77 insights
+> 78 insights
 
 - `INS-260325-FC0B` [high] About 30% of investors who panic sell during crashes never return to equities, missing massive subsequent gains.
 - `INS-260403-52FF` [high] Carta data shows sub-$10M funds hit 90th percentile TVPI of ~4.03x while $100M+ funds only reach ~1.67x, and 73% of top-performing funds are Fund I or II.
@@ -16,6 +16,7 @@
 - `INS-260326-6B99` [high] Taleb's barbell strategy — 80% ultra-safe assets plus 20% highly speculative bets — is mathematically superior to medium-risk allocation because it creates a convex payoff that benefits from volatility rather than being destroyed by it.
 - `INS-260325-3B28` [high] Leading digits in natural datasets follow a logarithmic distribution (30% start with 1, <5% start with 9) — deviations flag fabricated financial or electoral data.
 - `INS-260403-F157` [high] Major bubbles form around real innovations, not pure fiction, which is why smart people get fooled.
+- `INS-260410-4670` [high] Frauds reach Enron scale only in bull markets because saturated capital chases low-disclosure assets and stops asking questions.
 - `INS-260327-C79D` [high] In a market where Bitcoin, stocks, and Dogecoin only go up, people will convince themselves that anything - watches, sneakers, Pokemon cards - is an investment.
 - `INS-260403-358D` [high] VC money flowing into startups that spend it on ads at incumbent platforms creates a self-reinforcing bubble.
 - `INS-260329-7372` [high] College ROI is inversely correlated with family wealth — the wealthiest families get the least financial return but push it hardest.

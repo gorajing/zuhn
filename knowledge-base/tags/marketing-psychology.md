@@ -1,6 +1,7 @@
 # Tag: marketing-psychology
 
 - `INS-260329-895D` Brands build loyalty through classical conditioning — repeated pairing of stimulus and positive response — not rational persuasion.
+- `INS-260410-1D64` Coca-Cola's early team intuited that you don't want customers thinking about headaches and nervousness when they reach for your drink — you want them thinking about happiness, friendship, and Christmas.
 - `INS-260327-5D71` Products marketed as eco-friendly are evaluated based on visual cues (natural colors, kraft paper, leaf imagery) rather 
 - `INS-260327-2EFD` Consumer interest in analog products (vinyl, film cameras, physical planners) peaks when the aesthetic appeal exceeds th
 - `INS-260327-2A59` Products that create flavor through scent alone demonstrate that a large percentage of what consumers perceive as taste 

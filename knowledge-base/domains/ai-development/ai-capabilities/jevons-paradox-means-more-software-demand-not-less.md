@@ -39,10 +39,9 @@ resolutions:
 related:
   - INS-260321-4B99
   - INS-260324-FF33
-  - INS-260330-D583
   - PRI-260403-C337
   - INS-260402-C98A
-  - PRI-260406-50EA
+  - INS-260410-6F4B
   - INS-260410-B1A9
 stance: >-
   Software was scarce and expensive — AI making it cheaper unlocks massive

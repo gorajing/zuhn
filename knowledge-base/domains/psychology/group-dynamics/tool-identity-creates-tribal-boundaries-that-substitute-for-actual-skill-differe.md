@@ -51,11 +51,11 @@ stance: >-
   Ubuntu) creates artificial tribal hierarchies that correlate weakly with
   actual productivity but strongly with in-group social bonding
 related:
-  - PRI-260320-097F
   - INS-260327-B37E
   - INS-260327-8E9B
   - PRI-260406-6762
   - INS-260404-D94D
+  - INS-260410-8B2C
 evidence:
   - id: INS-260403-6428
     type: EXTENDS

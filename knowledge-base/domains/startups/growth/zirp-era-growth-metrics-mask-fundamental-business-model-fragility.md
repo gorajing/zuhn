@@ -55,5 +55,6 @@ related:
   - INS-260404-B6DF
   - INS-260402-9EBD
   - INS-260410-B47A
+  - INS-260410-7726
 ---
 The market's tendency during low-rate environments to reward each dollar of revenue growth with multiple dollars of enterprise value creates a toxic incentive structure. Companies rationally choose to grow at any cost because the market explicitly rewards it. This produces 'unsustainable growth models' that are extremely difficult to reverse when the rate regime changes. The comparison is stark: Microsoft, Google, and Meta all went public during rising-rate regimes and were resoundingly profitable at and after IPO. Uber and Snapchat, founded during ZIRP, have never generated a full year of positive EBITDA. For founders today, this is an immediate actionability insight: if you're building during a high-rate environment, the discipline forced upon you is actually a structural advantage. Your competitors from the ZIRP era are struggling to restructure business models that were never designed for profitability.

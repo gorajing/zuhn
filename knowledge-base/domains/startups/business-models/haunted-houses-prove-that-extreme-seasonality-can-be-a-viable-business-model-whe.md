@@ -46,8 +46,8 @@ related:
   - INS-260327-AEC2
   - PRI-260324-C63E
   - INS-260403-A115
+  - INS-260410-F8B9
   - INS-260327-8E9D
-  - INS-260330-1EAC
 stance: The best haunted houses gross 7+ figures in just 4-6 weekends
 evidence:
   - id: INS-260330-1EAC

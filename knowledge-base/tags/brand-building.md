@@ -1,6 +1,7 @@
 # Tag: brand-building
 
 - `INS-260323-FF23` Every business needs a creator — build in public, show the behind-the-scenes journey, and your content will naturally attract your ideal customer profile while filtering out everyone else.
+- `INS-260410-61CE` Porsche's sales cycle for a 911 is 40-50 years: kids fall in love with the car at age 10 and buy it in their 50s, which is why the 911 keeps the same silhouette across generations.
 - `INS-260410-5581` Nike's playbook is obsess over athletes first, let the brand seep into mass consciousness, then extend into $15 Dick's t-shirts without compromising the pinnacle story.
 - `INS-260329-CEC5` Branding is the deliberate pairing of your product with outcomes your ideal customer values, not identity design.
 - `INS-260402-C03D` MrBeast's $500M+ revenue empire proves a single creator can bypass traditional marketing by using content as the distribution engine for vertically integrated businesses.

@@ -57,6 +57,7 @@ related:
   - INS-260405-9C70
   - INS-260404-1A34
   - INS-260404-8791
+  - INS-260410-F026
 ---
 'Founder vs Investor' by Zalman and Neumann provides a rare dual-perspective view revealing that misaligned incentives between founders and investors surface far earlier than either side expects. The book's alternating chapter structure—showing how each side perceives the same events—exposes how trust, tension, and misalignment shape outcomes more than the actual capital deployed.
 

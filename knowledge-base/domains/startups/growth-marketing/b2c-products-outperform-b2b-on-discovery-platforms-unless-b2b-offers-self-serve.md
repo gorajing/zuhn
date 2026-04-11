@@ -60,8 +60,8 @@ related:
   - INS-260329-788F
   - INS-260403-AFBB
   - INS-260403-A8F3
-  - INS-260404-D68E
   - PRI-260406-426E
+  - INS-260403-9482
 ---
 Discovery platforms like Product Hunt attract early adopters who want to try products immediately. B2C products inherently match this behavior — broad appeal plus low friction to value. B2B products face a structural disadvantage because their value propositions are narrower and often require demos, sales calls, or enterprise onboarding.
 

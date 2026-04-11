@@ -45,7 +45,7 @@ related:
   - INS-260403-36F4
   - PRI-260403-C76D
   - INS-260403-7D7A
+  - INS-260410-52AE
   - INS-260323-0539
-  - INS-260329-63DD
 ---
 CDP was built in universities in the 80s-90s and contains processes — envelope bounce, distort interpolate, sort-by-amplitude grain reordering, PVOC transforms — that were never commercialized because they have tiny addressable markets. The commercial plugin industry optimizes for processes that sell, not processes that are uniquely expressive. This creates a permanent arbitrage: the weirdest-sounding records often come from producers who dig into academic tools that never became products. Worth maintaining a running list of these archives (CDP, Csound, SuperCollider libraries) alongside the commercial plugin folder.

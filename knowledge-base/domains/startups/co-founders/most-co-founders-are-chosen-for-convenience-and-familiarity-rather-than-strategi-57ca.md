@@ -51,7 +51,6 @@ stance: >-
   existing friendship rather than deliberate evaluation of complementary skills,
   aligned sacrifice levels, and growth trajectory compatibility.
 related:
-  - INS-260324-1C84
   - INS-260325-636B
   - PRI-260328-7E6E
   - INS-260326-967C

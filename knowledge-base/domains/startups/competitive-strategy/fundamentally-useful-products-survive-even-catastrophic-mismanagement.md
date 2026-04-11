@@ -51,7 +51,7 @@ related:
   - INS-260404-C30F
   - PRI-260403-C76D
   - INS-260404-9E4E
-  - INS-260410-7875
+  - INS-260410-00F0
 ---
 Graham makes a striking observation: Reddit's traffic grew continuously even through a long stretch after Steve Huffman left when management was, at best, harmless. He explicitly notes that most companies would be in deep trouble if you took your eye off the ball for six months, but Reddit was different.
 

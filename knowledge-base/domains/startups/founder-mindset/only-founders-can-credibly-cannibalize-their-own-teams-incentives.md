@@ -65,6 +65,7 @@ related:
   - INS-260323-104E
   - PRI-260406-CCAE
   - INS-260327-C6DC
+  - INS-260410-9738
 ---
 When Amazon launched Marketplace in 2000, Bezos made a radical organizational decision: if a third-party seller offered the same product cheaper, they'd win the buy-box on Amazon's product page. Category managers suddenly had competitors inside their own castle walls, and sales routed to third-party sellers didn't count toward their P&L. This created immediate political pain—managers whose bonuses depended on sales numbers watched them get siphoned off to a different team.
 

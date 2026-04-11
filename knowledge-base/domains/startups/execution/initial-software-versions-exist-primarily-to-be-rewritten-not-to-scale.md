@@ -45,7 +45,6 @@ stance: >-
   experimenting with its own design, not to be production-ready.
 related:
   - INS-260321-0CCD
-  - INS-260328-8B2C
   - INS-260330-ABB1
   - PRI-260407-590E
   - PRI-260406-75C2
@@ -54,6 +53,7 @@ related:
   - PRI-260407-E7CD
   - INS-260403-30E5
   - INS-260403-89A5
+  - INS-260405-9E7D
 evidence:
   - id: INS-260320-8632
     type: CHALLENGES

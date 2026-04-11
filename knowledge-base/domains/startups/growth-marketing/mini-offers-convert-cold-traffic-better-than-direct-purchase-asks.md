@@ -46,7 +46,6 @@ stance: >-
   CTA, because the mini-offer's lower psychological barrier matches the
   visitor's actual state of intent.
 related:
-  - INS-260323-8896
   - INS-260404-F26B
   - INS-260404-B0DC
   - PRI-260328-BDC2

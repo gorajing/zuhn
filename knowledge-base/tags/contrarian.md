@@ -15,8 +15,8 @@
 - `INS-260322-E06A` Stan Lee's publisher had three logical-sounding objections to Spider-Man — all three were wrong because they reflected conventions, not truths about what audiences want.
 - `INS-260323-DA1E` John Bell revolutionized physics by re-examining the EPR paradox that everyone had dismissed as 'settled' — his theorem proved that local hidden variables make different predictions than quantum mechanics, turning a philosophical debate into a testable experiment.
 - `INS-260328-FFC3` Telling a great engineer to 'build better software' is useless — telling them to invest in sales is transformative.
-- `INS-260402-9093` The juiciest opportunities are things insiders consider declassé, not things they consider infeasible.
 - `INS-260330-BCC2` Hire undervalued talent — people early in careers or overlooked by the market — rather than competing for proven stars at big companies.
+- `INS-260402-9093` The juiciest opportunities are things insiders consider declassé, not things they consider infeasible.
 - `INS-260405-95CB` Lenny admits passing on PostHog early because he didn't believe the all-in-one platform strategy would work—a classic case of conventional wisdom blocking a contrarian bet.
 - `INS-260403-615D` Karp argues expert classes have been wrong about every substantive question for 20 years because their models are calibrated to old paradigms.
 - `INS-260403-D882` Design your company around structural platform-asset balance rather than adapting to which approach investors currently favor.

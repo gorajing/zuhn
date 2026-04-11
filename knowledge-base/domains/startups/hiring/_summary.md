@@ -1,6 +1,6 @@
 # Topic: hiring
 
-> 66 insights
+> 67 insights
 
 - `INS-260330-4341` [high] The speed at which a skill can be taught is inversely correlated with its long-term career defensibility.
 - `INS-260330-1B37` [high] Airbnb spent 5 months hiring their first employee and only hired two people in year one because early hire quality is existential.
@@ -59,6 +59,7 @@
 - `INS-260403-C283` [medium] Give trial project candidates more work than they can finish to see how they triage, scope, and communicate what they chose to skip and why.
 - `INS-260330-D52B` [medium] Mass learn-to-code campaigns flood the junior market while senior scarcity persists, compressing entry wages without solving the actual talent shortage.
 - `INS-260403-10CE` [medium] As AI automates task execution, the scarce human contribution shifts to judgment, taste, and the ability to orchestrate AI systems effectively.
+- `INS-260410-362D` [medium] Epic hires almost exclusively from Midwestern colleges regardless of major, gives programming-test-based offers with no interview, and then drills them for six months in 'the Epic way'—down to how to take notes on a legal pad and write emails.
 - `INS-260410-2952` [medium] Church explicitly hires for niceness and multidisciplinarity over genius, producing an international alumni network that cooperates across supposedly cutthroat fields and spawns 100+ companies.
 - `INS-260405-B967` [medium] Headcount growth should be tied to revenue milestones, not fundraising events or growth ambition.
 - `INS-260404-886C` [medium] Intrapreneurs who create billion-dollar internal ventures deserve compensation and career tracks equivalent to salespeople who generate comparable revenue.

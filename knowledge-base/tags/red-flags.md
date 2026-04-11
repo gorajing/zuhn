@@ -1,5 +1,6 @@
 # Tag: red-flags
 
+- `INS-260410-9A20` Staged 'busy office' tours are a fraud tell — real businesses don't need to fake activity for visiting analysts.
 - `INS-260403-0B76` An early ElevenLabs backer identifies two dealbreakers: teams without deep technical capability and those chasing crowded hype-driven markets.
 - `INS-260330-15AE` Cynics excuse their own bad behavior by projecting it as universal, making cynicism a trust signal.
 - `INS-260403-0629` OpenAI lost Musk, Hurd, Hoffman, and Zilis from its board before the Altman crisis — each departure cited different reasons but all stemmed from the same structural tensions.

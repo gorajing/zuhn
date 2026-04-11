@@ -56,6 +56,7 @@ related:
   - INS-260403-6BA6
   - INS-260403-1438
   - INS-260403-9DEC
+  - INS-260410-320D
 ---
 Reserve strategy — setting aside capital for follow-on investments in winners — is one of the most underappreciated drivers of VC fund returns. When a portfolio company shows breakout performance, having reserves to double down at favorable terms can dramatically increase a fund's multiple. Without adequate reserves, a fund may be forced to watch its best companies raise at higher valuations without participating.
 

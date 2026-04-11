@@ -50,9 +50,9 @@ stance: >-
 related:
   - INS-260327-DBAD
   - INS-260327-CECA
+  - INS-260410-E2BC
   - INS-260327-8FD4
   - INS-260402-543E
-  - INS-260330-BC21
 evidence:
   - id: INS-260327-DBAD
     type: TRANSFERS_TO

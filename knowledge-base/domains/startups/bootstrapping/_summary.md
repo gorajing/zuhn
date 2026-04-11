@@ -1,6 +1,6 @@
 # Topic: bootstrapping
 
-> 32 insights
+> 33 insights
 
 - `INS-260320-00C2` [very_high] When users try to cancel, ask "Do you just need more time?" — trial extensions retained the most users, outperforming discounts and 3-month pause options, while keeping users on auto-renew.
 - `INS-260329-CB10` [high] Buying an existing business with seller financing lets you skip years of startup risk and immediately own a cash-flowing asset.
@@ -18,6 +18,7 @@
 - `INS-260320-39A3` [high] Shelter your team and family from acquisition signal-to-noise until the wire hits — deals fall apart in the last week, and premature sharing creates damaging anxiety.
 - `INS-260403-CAB4` [high] One or two founders can now handle the workload that previously required a five-person team by combining AI, no-code, and on-demand freelancers.
 - `INS-260320-8688` [high] Don't worry about LLM costs or unit economics until you have the growth problem — use startup credits early, optimize later. Almost everything gets cheaper at scale.
+- `INS-260410-4685` [high] Mars has stayed family-owned, debt-free, and radically private for a century specifically because privacy gives you permission to sub-optimize the short term.
 - `INS-260321-E8CB` [high] One-size-fits-all SaaS benchmarks are misleading — a pre-seed company should target burn multiple <2.5x while Series B+ targets <1.0x. Stage-specific targets: NRR >100%/>110%/>120%, LTV:CAC >2.0x/>3.0x/>3.5x.
 - `INS-260320-E044` [high] Shelter early ideas from smart skeptics — conventional wisdom about what won't work is based on different products. Think of your idea as a seed that needs protection to sprout.
 - `INS-260403-E63B` [high] Lenny had no plan for the newsletter but weekly consistency for 18 months made the path obvious.

@@ -54,6 +54,7 @@ related:
   - INS-260327-70A4
   - INS-260327-7D63
   - INS-260327-65F4
+  - INS-260410-F8B9
 ---
 When Napoleon launched the Russian invasion, more than 200,000 French troops were bogged down in Spain fighting an unwinnable guerrilla war. This meant he couldn't commit his full strength to either theater. The Peninsular War consumed experienced troops and capable marshals (Soult, Massena, Marmont) that could have tipped the balance in Russia. Simultaneously, withdrawing forces from Spain for Russia weakened the Peninsular campaign.
 

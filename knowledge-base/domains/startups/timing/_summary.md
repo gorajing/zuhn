@@ -1,6 +1,6 @@
 # Topic: timing
 
-> 62 insights
+> 63 insights
 
 - `INS-260404-007F` [high] Enterprise SaaS IPOs from 2012 outperformed expectations by solving deep operational pain points with recurring revenue models.
 - `INS-260330-ADB7` [high] Gallium nitride was declared a 'dead end' by RCA in 1972 and by Nichia's biggest customer in 1990, yet became an $80 billion industry by 2024.
@@ -33,6 +33,7 @@
 - `INS-260325-0F4F` [high] Progress begets progress: fundamental technologies like computing and steam power feed back into the innovation process itself, creating accelerating returns.
 - `INS-260330-9346` [high] At the beginning of a technology S-curve, it's impossible to know if commercial viability is months or centuries away — and once the curve kicks in, decades of progress happen in years.
 - `INS-260403-021D` [high] Every major software architecture shift predictably spawns new billion-dollar cybersecurity companies.
+- `INS-260410-4AD0` [high] Google could not have been built even one or two years later because crawling and indexing the entire web from a dorm room was only financially feasible in 1996 — by 1998 the cost of building a fresh index had jumped to tens of millions of dollars, and by 2000 to hundreds of millions.
 - `INS-260330-39C6` [high] Look for markets where underlying costs have dropped dramatically but incumbents still operate as if the old economics apply.
 - `INS-260403-8176` [high] Groq's value was not in customer count but in forcing the assumption that GPUs were the only sensible way to run large models at scale to become questionable.
 - `INS-260330-68EF` [high] France was rich but bankrupt because nobles and clergy were exempt from taxes — the inability to extract revenue from those who hold the most is a fatal structural flaw.

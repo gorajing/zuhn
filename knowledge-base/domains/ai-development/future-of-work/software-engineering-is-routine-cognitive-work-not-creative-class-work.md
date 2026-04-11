@@ -53,10 +53,10 @@ related:
   - INS-260330-43F7
   - INS-260330-5DA6
   - INS-260330-CA43
-  - INS-260402-086D
   - PRI-260406-6690
   - INS-260404-D6F7
   - INS-260405-880C
+  - INS-260323-C10D
 ---
 Noah Smith argues that software engineering, despite its high pay and cultural prestige, fits the 'routine cognitive' labor category far better than the 'creative class' category. The evidence is that AI coding tools now allow complete novices to produce functional applications in hours by describing what they want in plain English — something impossible if the work were truly creative rather than procedural.
 

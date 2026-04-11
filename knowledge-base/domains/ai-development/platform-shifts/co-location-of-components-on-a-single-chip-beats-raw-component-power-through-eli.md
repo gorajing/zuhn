@@ -51,7 +51,6 @@ stance: >-
   superior parts, because inter-component communication latency dominates modern
   workloads.
 related:
-  - INS-260330-EA23
   - INS-260330-9D44
   - PRI-260405-A11F
   - INS-260404-E8B2

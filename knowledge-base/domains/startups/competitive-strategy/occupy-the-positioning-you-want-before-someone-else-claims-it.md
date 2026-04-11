@@ -46,10 +46,11 @@ stance: >-
   capturing your natural market identity
 related:
   - INS-260330-E54B
-  - INS-260330-59FD
   - INS-260325-5A93
   - INS-260404-AD52
   - INS-260327-37C8
+  - INS-260330-59FD
+  - INS-260410-8B2C
 evidence:
   - id: INS-260330-E54B
     type: TRANSFERS_TO

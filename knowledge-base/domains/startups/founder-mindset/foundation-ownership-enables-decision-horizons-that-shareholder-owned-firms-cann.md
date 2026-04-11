@@ -63,5 +63,6 @@ related:
   - PRI-260328-82BE
   - PRI-260328-B11D
   - PRI-260328-A4AC
+  - INS-260410-7726
 ---
 Hans Wilsdorf transferred all his Rolex equity into a single Swiss charitable foundation in 1944 after his wife's death. The foundation has exactly one mission in its bylaws: ensure Rolex's continued operation. No shareholders, no quarterly calls, no activist investors, no exit pressure. This structure explains behaviors that look irrational from a standard corporate lens: only three CEOs in ninety years, a refusal to enter adjacent product categories (no Rolex handbags or sunglasses), refusing to ramp production in boom years, holding steady during the 2008 crash. During the quartz crisis, while every other Swiss watchmaker panicked into lossy quartz investments and rollups, Rolex sat back and watched Omega's mistakes before committing to the mechanical luxury strategy. Ownership structure is downstream of the founder's vision, but it locks in a strategic posture that persists long after the founder is gone. Compare Ikea (similar foundation structure, similar conservatism) versus Swatch Group (public, consolidated, reactive). This suggests that for founders who care about century-scale legacy, the most underrated strategic decision is choosing the ownership wrapper — not the business model.

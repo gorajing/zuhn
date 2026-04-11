@@ -60,9 +60,9 @@ stance: >-
 related:
   - INS-260403-8BA4
   - INS-260404-D7E0
+  - INS-260410-9E97
   - INS-260405-963B
   - INS-260405-77C9
-  - INS-260404-688B
 ---
 When Yann LeCun joined Facebook in 2013 to start FAIR, AI was being applied to profitable use cases within two years: ranking posts in the feed and selecting ads from inventory. That near-term ROI alone justified the entire research budget. But FAIR also turned out to be the foundation that let Meta build Reels fast enough to neutralize TikTok's algorithmic attack around 2020 — an existential competitive threat that could have collapsed the core business. And on a third horizon, FAIR positioned Meta as a credible player in the AI platform transition now unfolding with LLMs, giving them Llama and Meta AI.
 

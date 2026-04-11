@@ -699,6 +699,7 @@ Generated on 2026-04-11 | 2599 sources
 | Atlassian CEO on the SaaS Apocalypse, AI Agents & What Comes Next | youtube | 5 | 2026-03-22 |
 | Ben Horowitz and David Solomon: The Sweetest Macro Spot in 40 Years | youtube | 5 | 2026-03-22 |
 | Ben Shapiro: Politics, Kanye, Trump, Biden, Hitler, Extremism, and War | Lex Fridman Podcast #336 | youtube | 5 | 2026-03-30 |
+| Benchmark Part I | youtube | 5 | 2026-04-11 |
 | Bottom Up vs. Top Down Selling in the Enterprise with ThoughtSpot CEO Sudheesh Nair | youtube | 5 | 2026-03-27 |
 | Brett Johnson: US Most Wanted Cybercriminal | Lex Fridman Podcast #272 | youtube | 5 | 2026-03-30 |
 | Brian Keating: Cosmology, Astrophysics, Aliens & Losing the Nobel Prize | Lex Fridman Podcast #257 | youtube | 5 | 2026-03-30 |
@@ -719,6 +720,7 @@ Generated on 2026-04-11 | 2599 sources
 | "China is digging out of a crisis. And America’s luck is wearing thin." — Ken Rogoff | youtube | 5 | 2026-04-10 |
 | China is killing the US on energy. Does that mean they’ll win AGI? — Casey Handmer | youtube | 5 | 2026-04-10 |
 | Christianity from Judaism to Constantine: Crash Course World History #11 | youtube | 5 | 2026-03-30 |
+| Coca-Cola: The Complete History & Strategy | youtube | 5 | 2026-04-11 |
 | Coffeezilla: SBF, FTX, Fraud, Scams, Fake Gurus, Money, Fame, and Power | Lex Fridman Podcast #345 | youtube | 5 | 2026-03-30 |
 | Conflict in Israel and Palestine through 2015: Crash Course World History #223 | youtube | 5 | 2026-03-30 |
 | Controlling Your Dopamine For Motivation, Focus & Satisfaction | youtube | 5 | 2026-03-30 |
@@ -738,6 +740,8 @@ Generated on 2026-04-11 | 2599 sources
 | Elon Musk – "In 36 months, the cheapest place to put AI will be space” | youtube | 5 | 2026-04-10 |
 | Elon Musk: SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI | Lex Fridman Podcast #252 | youtube | 5 | 2026-03-30 |
 | Emil Michael: The Department of War Is Moving Faster Than Silicon Valley on AI | The a16z Show | youtube | 5 | 2026-03-22 |
+| Enron | youtube | 5 | 2026-04-11 |
+| Epic Systems (MyChart) | youtube | 5 | 2026-04-11 |
 | Everything We Teach at YCombinator in 10 Minutes | youtube | 5 | 2026-03-27 |
 | Evolution designed us to die fast; we can change that — Jacob Kimmel | youtube | 5 | 2026-04-10 |
 | Feel Free is a NIGHTMARE | youtube | 5 | 2026-03-26 |
@@ -747,6 +751,7 @@ Generated on 2026-04-11 | 2599 sources
 | Fully autonomous robots are much closer than you think – Sergey Levine | youtube | 5 | 2026-04-10 |
 | God-Tier Developer Roadmap | youtube | 5 | 2026-03-30 |
 | GOING SUPERSONIC with U.S. Air Force Thunderbirds! Pulling 7 G's in an F-16 -Smarter Every Day 235 | youtube | 5 | 2026-03-30 |
+| Google Part I: Origins of Search. How the Best Business in Human History Happened (Audio) | youtube | 5 | 2026-04-11 |
 | Google Part II: Alphabet (Audio) | youtube | 5 | 2026-04-11 |
 | Google Part III: The AI Company. Google is amazingly well-positioned... will they win in AI? (audio) | youtube | 5 | 2026-04-11 |
 | Graham Hancock: Lost Civilization of the Ice Age & Ancient Human History | Lex Fridman Podcast #449 | youtube | 5 | 2026-03-30 |
@@ -817,6 +822,7 @@ Generated on 2026-04-11 | 2599 sources
 | Male inequality, explained by an expert | Richard Reeves | youtube | 5 | 2026-03-30 |
 | Marc Andreessen's 2026 Outlook: AI Timelines, US vs. China, and The Price of AI | youtube | 5 | 2026-03-22 |
 | Mark Zuckerberg — AI will write most Meta code in 18 months | youtube | 5 | 2026-04-10 |
+| Mars Inc. - The Chocolate Story (Audio) | youtube | 5 | 2026-04-11 |
 | Master OpenClaw in 10 Hours [I Created 5 AI Employees] | youtube | 5 | 2026-03-22 |
 | Math's Fundamental Flaw | youtube | 5 | 2026-03-30 |
 | Matt Ridley: How Innovation Works, Part 1 | youtube | 5 | 2026-03-30 |
@@ -831,6 +837,7 @@ Generated on 2026-04-11 | 2599 sources
 | Nike (Audio) | youtube | 5 | 2026-04-11 |
 | No BS Advice to Get Rich Like the 1% | youtube | 5 | 2026-03-30 |
 | Notes on China | youtube | 5 | 2026-04-10 |
+| Novo Nordisk (Ozempic) | youtube | 5 | 2026-04-11 |
 | On Artificial Intelligence | youtube | 5 | 2026-03-30 |
 | On Recruiting | youtube | 5 | 2026-03-30 |
 | OpenClaw: The Viral AI Agent that Broke the Internet - Peter Steinberger | Lex Fridman Podcast #491 | youtube | 5 | 2026-03-23 |
@@ -839,6 +846,7 @@ Generated on 2026-04-11 | 2599 sources
 | Paul Rosolie: Uncontacted Tribes in the Amazon Jungle | Lex Fridman Podcast #489 | youtube | 5 | 2026-03-23 |
 | 도서관에 박혀 공부만 하는 천재들은 '이것'이 없어서 대체됩니다ㅣ카네기멜론 Po-Shen Loh 교수 | youtube | 5 | 2026-03-22 |
 | Ponzi: The Financial Idiot Who Scammed the World | youtube | 5 | 2026-03-30 |
+| Porsche (with Doug DeMuro) | youtube | 5 | 2026-04-11 |
 | Real vs Fake Startups | youtube | 5 | 2026-03-29 |
 | Richard Sutton – Father of RL thinks LLMs are a dead end | youtube | 5 | 2026-04-10 |
 | Rick Beato: Greatest Guitarists of All Time, History & Future of Music | Lex Fridman Podcast #492 | youtube | 5 | 2026-03-23 |
@@ -917,6 +925,7 @@ Generated on 2026-04-11 | 2599 sources
 | Trump, Ukraine, and The Future of Geopolitics with Sam Harris and Niall Ferguson | youtube | 5 | 2026-03-30 |
 | Trump’s Real Intentions Behind the Middle East War? feat Dr. Jiyoon Kim | youtube | 5 | 2026-03-23 |
 | Unlimited War: Putin vs Bismarck – Sarah Paine | youtube | 5 | 2026-04-10 |
+| Visa (Audio) | youtube | 5 | 2026-04-11 |
 | Vitalik: Ethereum, Part 1 | youtube | 5 | 2026-03-30 |
 | Was The War Against Japan Avoidable? - Sarah Paine | youtube | 5 | 2026-04-10 |
 | Watch This If You Have a Service Business | youtube | 5 | 2026-03-22 |
@@ -2554,29 +2563,21 @@ Generated on 2026-04-11 | 2599 sources
 | ACQ2: The Art of Selling Enterprise Software (with ServiceNow CEO Bill McDermott) | youtube | 0 | 2026-04-11 |
 | Acquired LIVE from Chase Center (with Daniel Ek, Emily Chang, Jensen Huang and Mark Zuckerberg) | youtube | 0 | 2026-04-11 |
 | Amazon Web Services | youtube | 0 | 2026-04-11 |
-| Benchmark Part I | youtube | 0 | 2026-04-11 |
 | Benchmark Part II: The Dinner | youtube | 0 | 2026-04-11 |
 | Bill Nye: Creationism Is Not Appropriate For Children | Big Think | youtube | 0 | 2026-03-30 |
 | Brainf**k in 100 Seconds | youtube | 0 | 2026-03-30 |
 | Charlie Munger (Audio) | youtube | 0 | 2026-04-11 |
-| Coca-Cola: The Complete History & Strategy | youtube | 0 | 2026-04-11 |
 | Costco (Audio) | youtube | 0 | 2026-04-11 |
 | Donut-shaped C code that generates a 3D spinning donut | youtube | 0 | 2026-03-30 |
-| Enron | youtube | 0 | 2026-04-11 |
-| Epic Systems (MyChart) | youtube | 0 | 2026-04-11 |
-| Google Part I: Origins of Search. How the Best Business in Human History Happened (Audio) | youtube | 0 | 2026-04-11 |
 | If You Want to Learn, Do | youtube | 0 | 2026-03-30 |
 | IKEA (Audio) | youtube | 0 | 2026-04-11 |
 | Improvising in Africa.  Warning - GROSS - Smarter Every Day 28 | youtube | 0 | 2026-03-30 |
 | Lockheed Martin (Audio) | youtube | 0 | 2026-04-11 |
-| Mars Inc. - The Chocolate Story (Audio) | youtube | 0 | 2026-04-11 |
 | Mind Field - Official Trailer | youtube | 0 | 2026-03-30 |
-| Novo Nordisk (Ozempic) | youtube | 0 | 2026-04-11 |
 | NVIDIA CEO Jensen Huang | youtube | 0 | 2026-04-11 |
 | Nvidia Part III: The Dawn of the AI Era (2022-2023) (Audio) | youtube | 0 | 2026-04-11 |
 | Nvidia: The GPU Company (1993-2006) | youtube | 0 | 2026-04-11 |
 | Nvidia: The Machine Learning Company (2006-2022) | youtube | 0 | 2026-04-11 |
-| Porsche (with Doug DeMuro) | youtube | 0 | 2026-04-11 |
 | Python in 100 Seconds | youtube | 0 | 2026-03-30 |
 | Qualcomm | youtube | 0 | 2026-04-11 |
 | Renaissance Technologies (Audio) | youtube | 0 | 2026-04-11 |
@@ -2599,6 +2600,5 @@ Generated on 2026-04-11 | 2599 sources
 | TSMC founder Morris Chang | youtube | 0 | 2026-04-11 |
 | TSMC (Remastered) | youtube | 0 | 2026-04-11 |
 | Uber CEO Dara Khosrowshahi | youtube | 0 | 2026-04-11 |
-| Visa (Audio) | youtube | 0 | 2026-04-11 |
 | Walmart | youtube | 0 | 2026-04-11 |
 | Your desires are not yours. | youtube | 0 | 2026-03-30 |

@@ -15,6 +15,7 @@
 - `INS-260325-FD14` TurboQuant's data-oblivious algorithm beats dataset-specific tuned competitors, demonstrating that fundamental algorithmic breakthroughs can instantly commoditize proprietary optimization moats.
 - `INS-260330-8FEC` Businesses earning royalties on others' capital (like Amex's 3% transaction fee) generate superior returns because growth doesn't require proportional reinvestment.
 - `INS-260327-643C` Score any software company across 8 moat dimensions — four or more means durable, two or less means vulnerable.
+- `INS-260410-F8B9` Moats are only sufficient if the castle is too unattractive to invade — once the prize gets big enough, attackers arrive regardless.
 - `INS-260403-41C8` Venture firms that think like product companies building systems outlast those optimizing per-fund carry.
 - `INS-260403-330E` In capital-intensive infrastructure markets, early movers who solve the core technical problem create nearly permanent competitive positions.
 - `INS-260403-C032` Infrastructure windows close when value becomes priced in, capital barriers exclude new entrants, and network effects lock users in — a framework applicable to any technology cycle.
@@ -27,6 +28,7 @@
 - `INS-260405-FD9D` SaaS is speedrunning itself — viral today, vanished tomorrow — making defensibility more urgent than ever.
 - `INS-260404-9004` Subscription SaaS companies from 2012 built durable moats through deep enterprise integration and high switching costs.
 - `INS-260403-97F8` Switching costs should be deliberately architected into the business model, not left as a byproduct of product stickiness.
+- `INS-260410-270E` Coca-Cola serves the entire world from a handful of syrup plants because it lets independent bottlers put up the capital and labor for bottling and distribution while the parent company keeps the trademark, the formula, and the marketing.
 - `INS-260330-DE2B` The largest extension marketplace creates a self-reinforcing adoption loop that competitors cannot easily replicate.
 - `INS-260404-2FD0` Bundling adjacent features around a core product creates stickiness in commodity markets.
 - `INS-260403-7B04` AI app-layer tech is commoditizing so fast that brand and distribution are now the primary moats.
@@ -41,6 +43,7 @@
 - `INS-260402-9DBC` Defining the vocabulary of your market (roles, categories, workflows) anchors your brand in every conversation about that space in ways features never can.
 - `INS-260403-16D7` Products are easy to copy but business models create structural advantages that competitors struggle to replicate.
 - `INS-260403-68B4` Market crowding shifts the advantage from speed-to-market to depth-of-understanding.
+- `INS-260410-50D7` Walmart and Target have tried for decades to build credit-card alternatives and keep failing because no single retailer can match the rewards Visa funnels to consumers from a pooled interchange take.
 - `INS-260410-3022` Barnes & Noble couldn't match Amazon's fulfillment centers because doing so meant admitting their existing distribution network was obsolete.
 - `INS-260403-FF7E` AI-era startups should prioritize building compounding moats over optimizing gross margins, because margins can mislead while defensibility determines survival.
 - `INS-260402-086D` Software's real protection comes from design subtlety that qualified experts cannot replicate, not from patent claims.
@@ -67,11 +70,13 @@
 - `INS-260402-1F41` Per-user models are inherently harder to game than shared models because attackers face a diverse population instead of a single target.
 - `INS-260330-C24F` Tencent's WeChat achieved dominance by bundling payments, social media, gaming, and mini-programs into one app, making it impossible for users to leave even when forced to choose between WeChat and a competitor's product.
 - `INS-260322-7282` Owning the full workflow from intake to outcome generates proprietary data that public models can't replicate — creating a compounding competitive advantage.
+- `INS-260410-5E92` Mars's first principle is quality-at-a-given-price, not absolute quality — the framing that enables compounding scale advantages in commodity-adjacent categories.
 - `INS-260403-5C9D` SaaS survival depends on building agentic capabilities atop existing data moats before AI overlays capture the user relationship.
 - `INS-260329-12EA` Your competitive moat is not any single skill but the unique stack of skills from your specific life trajectory — replicating it requires living your life.
 - `INS-260404-EEA7` Code alone no longer creates lasting competitive advantage; startups need non-software moats like data, distribution, or embedded workflows.
 - `INS-260403-CE7C` Durability comes from five compounding forces that must be designed into the business from the start, not bolted on later.
 - `INS-260403-9482` Distribution advantage trumps product advantage because reaching customers reliably is harder to replicate than building features.
+- `INS-260410-52AE` Coca-Cola has never patented its formula because patents expire and become public domain — by treating the recipe as a trade secret with elaborate ritual around it, the company has held an artificial moat for 140 years instead of 20.
 - `INS-260403-946A` The ideal validated business model combines large profit potential with structural defenses like recurring revenue, scalability, and competitive moats.
 - `INS-260403-8402` Great value propositions are difficult to copy not because of one feature but because of interlocking systemic barriers.
 - `INS-260403-ABC5` Vertical AI startups must build data loops and lock-in strategies from day one because speed alone provides no lasting moat.
@@ -79,8 +84,8 @@
 - `INS-260402-B743` Copying a competitor's growth loop features without understanding the underlying system mechanics and timing conditions produces poor results.
 - `INS-260403-1DE4` Startups that build hyperlocal network effects in emerging markets create moats that global competitors cannot penetrate even with superior resources.
 - `INS-260403-86BF` MUMPS fused three layers into one, making healthcare IT migration an all-or-nothing proposition that no one has attempted.
-- `INS-260405-DADB` VCs explicitly screen for network effects because they are the strongest defensibility mechanism in software — each new user increases value for all users.
 - `INS-260410-81E8` Nadella argues the most important feature of American AI isn't capability but trust — countries are deploying based on whether the supplier and its institutions will still be around in 20 years.
+- `INS-260405-DADB` VCs explicitly screen for network effects because they are the strongest defensibility mechanism in software — each new user increases value for all users.
 - `INS-260403-B5C0` Building around a hard-to-access vertical database of record creates stronger competitive positioning than superior features alone.
 - `INS-260403-0637` Multi-user AI coordination creates compounding network effects unavailable to single-player AI tools.
 - `INS-260404-7A5B` Costco turns every seeming disadvantage — fees, sparse selection, warehouse aesthetics — into a structural competitive advantage.

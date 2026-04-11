@@ -54,8 +54,8 @@ related:
   - INS-260327-2C5F
   - INS-260330-B640
   - INS-260327-9BA2
+  - INS-260410-8B2C
   - INS-260329-ACE6
-  - INS-260325-C523
 stance: The Piraha language has zero words for counting
 evidence:
   - id: INS-260327-2C5F

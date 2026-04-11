@@ -51,7 +51,6 @@ stance: >-
   the migration cost becomes so high that the industry builds translation layers
   around it rather than replacing it, even over 60 years.
 related:
-  - INS-260405-8B05
   - INS-260403-88DA
   - INS-260329-3AE5
   - INS-260327-10E8

@@ -53,9 +53,9 @@ related:
   - INS-260325-311F
   - INS-260322-71E4
   - INS-260323-F310
-  - INS-260327-12BE
   - INS-260329-6859
   - INS-260402-D9AC
+  - INS-260329-14AE
 stance: >-
   The Department of War achieved 15x AI user growth in 90 days by ruthlessly
   cutting 14 priority areas to 6 with applied AI as number one, proving th...

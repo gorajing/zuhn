@@ -50,7 +50,6 @@ stance: >-
   would never have risen through normal channels, because the normal gatekeepers
   have been swept away.
 related:
-  - INS-260322-0D87
   - INS-260323-2CCA
   - INS-260327-FDD0
   - INS-260327-2DF7

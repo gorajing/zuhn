@@ -56,6 +56,7 @@ related:
   - INS-260403-37F4
   - INS-260403-A3B2
   - INS-260403-09E8
+  - INS-260410-245F
 ---
 The same 1/(1-n) formula applies in reverse for employee grants: if a hire improves average company outcome by factor i, they're worth n = (i-1)/i in equity. A hire who improves outcomes by 20% is worth up to 16.7% equity at breakeven. After subtracting salary costs (multiply annual salary+overhead by 1.5 to convert to stock equivalent) and a profit margin, you arrive at the actual offer.
 

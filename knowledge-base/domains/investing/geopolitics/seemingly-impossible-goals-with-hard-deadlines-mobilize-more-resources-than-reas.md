@@ -52,11 +52,11 @@ stance: >-
   'reasonable' goals never achieve.
 related:
   - INS-260321-C292
+  - INS-260410-7224
   - INS-260330-C658
   - INS-260328-F1D2
   - INS-260323-BF81
-  - INS-260330-49A4
-  - INS-260405-5222
+  - INS-260410-00F0
 evidence:
   - id: INS-260321-C292
     type: SUPPORTS

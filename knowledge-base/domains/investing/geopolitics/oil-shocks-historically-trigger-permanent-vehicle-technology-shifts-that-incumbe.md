@@ -58,6 +58,7 @@ related:
   - PRI-260325-070D
   - INS-260410-8DDD
   - INS-260409-BE4C
+  - INS-260410-61CE
 ---
 Historical pattern: oil shock → consumers flee to efficient vehicles → crisis ends → incumbents revert to high-margin gas guzzlers → next shock catches them unprepared. The 1970s oil crises enabled Japanese automakers to gain permanent US market share. Detroit recovered in the late 90s/2000s by pivoting to SUVs when oil was cheap.
 

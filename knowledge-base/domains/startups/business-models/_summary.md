@@ -1,7 +1,8 @@
 # Topic: business-models
 
-> 224 insights
+> 227 insights
 
+- `INS-260410-9246` [high] Visa's interchange is not a fee — it's an envelope of value the network can redistribute to issuing banks, acquiring banks, co-brand merchants, and rewards programs as needed to align behavior.
 - `INS-260410-58A5` [high] F1's durability isn't mostly brand or network effects — it's that the FIA explicitly calls it 'the pinnacle,' a regulatory grant no rival motorsport can replicate with money.
 - `INS-260327-470B` [high] Fast food was considered recession-proof because it offered the best dollars-to-calories ratio, but chains responded to cost-conscious consumers by becoming more expensive, slower, and less reliable.
 - `INS-260403-0FEC` [high] Public company acquisitions function as pooled-risk management services for founders seeking freedom and security.
@@ -11,6 +12,7 @@
 - `INS-260327-07FC` [high] Airlines generate enormous revenue but trivial profits because the industry structure — high fixed costs, commodity pric
 - `INS-260327-CCAE` [high] Esports drew audiences rivaling traditional sports and attracted Fortune 500 sponsors, but broadcast deals never materialized at meaningful scale -- no team or league has ever turned a profit, and the entire industry collapsed when the expected broadcast payday never arrived.
 - `INS-260324-5B35` [high] Brisket shrinks to 40% yield after trimming and smoking, requires 10-18 hours of intuition-based cooking, and can't be made on demand — making BBQ the anti-franchise food category.
+- `INS-260410-4C2E` [high] Porsche (350k units/yr, $110k ASP, 29% gross margin) is the Louis Vuitton of cars; Ferrari (13k units/yr, $330k ASP, 48% gross margin) is the Hermès — and Porsche's tiered access model generates far more aggregate enterprise value.
 - `INS-260403-1A5A` [high] Customer love without sustainable unit economics creates a trap where positive feedback accelerates cash burn rather than signaling viability.
 - `INS-260327-1576` [high] BNPL companies margins depend on merchant fees that merchants accept only to increase conversion, but as BNPL becomes ta
 - `INS-260324-C33C` [high] Unlike most food trends, bubble tea innovation flows from Asia to the West — Chinese and Taiwanese chains invest millions in US franchising while Americans have the highest disposable income and lowest product familiarity.
@@ -179,6 +181,7 @@
 - `INS-260330-8639` [high] A product's true cost is purchase price minus resale value, which can completely flip which option is actually cheaper.
 - `INS-260403-1000` [high] Business models should be treated as living, continuously iterable documents rather than fixed five-year plans.
 - `INS-260324-861B` [high] Uber raised $25B+ and operated for 13+ years without profit — the only other company with that distinction is WeWork, and the platform economics that were supposed to make ride-sharing 'infinitely scalable' never materialized.
+- `INS-260410-270E` [high] Coca-Cola serves the entire world from a handful of syrup plants because it lets independent bottlers put up the capital and labor for bottling and distribution while the parent company keeps the trademark, the formula, and the marketing.
 - `INS-260403-754F` [high] Validating that customers want your product is necessary but insufficient — you must also validate that the business model produces more revenue than costs.
 - `INS-260404-19B0` [high] Vertical SaaS companies are scaling ACV by embedding AI to automate more tasks across three waves: Cloud, Fintech, and now AI Inside.
 - `INS-260403-BB22` [high] Great products fail when the surrounding business model — pricing, channels, retention, cost structure — is structurally broken.

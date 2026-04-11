@@ -60,6 +60,7 @@ related:
   - INS-260404-8CEE
   - INS-260403-D8A2
   - INS-260403-3673
+  - INS-260410-9E97
 ---
 Paine's central distinction is between rebuilding and building from scratch. Postwar Germany and Japan had full-up modern economies, high literacy, functioning judiciaries, competent police, and educational systems going all the way up. Giving them cash was sufficient because they knew exactly how to recreate what had been destroyed. China in 1946 had none of these — no indigenous expertise, near-universal illiteracy, no functioning institutions. The same gap reappears in Iraq and Afghanistan, where Americans assumed that after removing a regime 'the police are going to still show up and work' — they don't, because the institutional substrate was never there.
 

@@ -10,6 +10,6 @@
 - `INS-260404-1DDB` The most successful pitch decks in this collection target specific verticals (grocery, legal, women's health) or build infrastructure layers (billing, banking-as-a-service, payments).
 - `INS-260404-0CA7` Vertical SaaS that bundles financial and operational workflows becomes nearly impossible to rip out.
 - `INS-260403-204E` In vertical AI, the defensible position is owning the control point that facilitates the transaction, not just saving time on adjacent tasks.
+- `INS-260330-3E6B` When an industry's business model is disrupted, the enterprises in that industry need new software — creating opportunities for vertical startups.
 - `INS-260403-B387` AI vertical companies should size their market against total labor cost in the vertical, not existing software spend — a 10x larger opportunity.
 - `INS-260403-6E23` Mark Leonard built a $100B empire by buying boring software companies, never selling, and compounding returns through operational patience.
-- `INS-260330-3E6B` When an industry's business model is disrupted, the enterprises in that industry need new software — creating opportunities for vertical startups.

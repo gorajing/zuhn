@@ -9,3 +9,4 @@
 - `INS-260329-DAC4` Warm outreach, cold outreach, content, and paid ads are the only four ways one person can let others know about their product; customers, employees, affiliates, and agencies multiply those four.
 - `INS-260320-DADA` You cannot pour fuel on organic fire — viral UGC repurposed as paid ads underperformed, while a separate clip agency creating performance-specific creatives outperformed significantly.
 - `INS-260322-36E3` Every dollar of profit not reinvested into growth is a dollar a competitor could use to catch up — operate at breakeven to build position while competitors extract profits.
+- `INS-260410-3E0A` Coke pivoted from describing what the drink does ('delicious and refreshing') to associating it with happiness, family, Christmas, and sports heroes — and that extrinsic association is what compounded into a $300B brand.

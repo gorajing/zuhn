@@ -48,5 +48,6 @@ related:
   - PRI-260406-E75B
   - INS-260403-DF7F
   - INS-260403-3739
+  - INS-260410-9A20
 ---
 Founders can generate any amount of qualitative signal — positive interviews, excited pilot users, enthusiastic Twitter reactions — without validating the actual business. Payment is the sole signal that filters genuine pain from performative interest. Setting a 30-day first-revenue goal forces founders to sell before they perfect, which in turn forces them to understand whether the product solves a pain strong enough that someone will part with money to make it stop. Anything longer than 30 days and founders are lying to themselves about whether they have a business.

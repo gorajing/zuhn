@@ -1,6 +1,6 @@
 # Topic: product-strategy
 
-> 76 insights
+> 78 insights
 
 - `INS-260405-4AAD` [high] Juicero raised $120M for technology that was immediately undermined when customers realized the same outcome was achievable by hand.
 - `INS-260330-809A` [high] Apple's acquisition pattern — Authentec for Touch ID, Siri for voice, NeXT for Jobs — shows that buying capabilities yields higher returns than buying businesses.
@@ -41,6 +41,7 @@
 - `INS-260403-A8F3` [high] Build for yourself first — products aimed 'down' at a mainstream audience tend to produce mediocre outcomes.
 - `INS-260404-A9D0` [high] Bid-times-conversion ranking resolves the monetization-vs-quality trade-off by making them the same objective function.
 - `INS-260403-008F` [high] Horizontal tools with light integration face multiple compression as AI features become table stakes, while mission-critical workflow platforms maintain 120%+ NRR and premium valuations.
+- `INS-260410-E2BC` [high] Epic's biggest competitive advantage is that every application—clinical, billing, scheduling, patient portal—pulls from one Chronicles database, while rivals like Cerner are 24+ companies glued together through M&A.
 - `INS-260403-FCA6` [high] Make your platform something builders personally love using, and killer apps will follow as a natural byproduct of developer self-interest.
 - `INS-260403-D4EA` [high] Fast iteration beats careful planning only when the medium allows cheap revision.
 - `INS-260330-62D6` [high] Find the smallest valuable problem incumbents ignore, nail the UX, then expand outward.
@@ -60,6 +61,7 @@
 - `INS-260403-9681` [medium] AI enables marketplaces to capture awareness and consideration stages of the buying cycle, not just intent and purchase.
 - `INS-260403-9B5D` [medium] SMBs failed to adopt SaaS tools not due to cost alone but because the time investment to learn and monitor them was unaffordable — background-running AI agents eliminate this barrier.
 - `INS-260404-5963` [medium] Aspirational 5-10 year strategy should be design/research-led and run in parallel with tactical strategy, using concept prototypes to test distinct future scenarios.
+- `INS-260410-58F2` [medium] The weight-loss effect of liraglutide was observed in rat trials years before Novo pursued it — overcoming internal stigma, not science, was the bottleneck.
 - `INS-260403-21BD` [medium] Palantir builds what clients ought to want rather than what they explicitly ask for, accepting initial friction for long-term loyalty.
 - `INS-260330-6D59` [medium] Map your product vision across today, tomorrow, and future — then build today's product as a stepping stone that graduates users forward.
 - `INS-260405-F9E4` [medium] Customers who help design your experiments become invested in your success rather than just subjects of your research.

@@ -52,7 +52,6 @@ stance: >-
   intellectual growth than consuming many books superficially.
 related:
   - INS-260325-622D
-  - INS-260327-D76A
   - INS-260327-6E86
   - INS-260329-85E9
   - INS-260329-613F
@@ -61,6 +60,7 @@ related:
   - INS-260403-DC52
   - INS-260403-C907
   - INS-260403-410A
+  - INS-260403-A51A
 evidence:
   - id: INS-260329-A862
     type: CHALLENGES

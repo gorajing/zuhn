@@ -52,10 +52,9 @@ stance: >-
   service-model transformations before cost-cutting measures
 related:
   - INS-260322-837A
-  - INS-260329-B194
-  - INS-260330-57BB
   - INS-260403-363C
   - INS-260403-101D
+  - INS-260329-B194
   - INS-260403-5D89
   - INS-260404-02C8
   - INS-260403-EDFB

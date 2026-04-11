@@ -47,7 +47,6 @@ stance: >-
 related:
   - INS-260320-E6DD
   - INS-260320-47FA
-  - INS-260323-CD28
   - INS-260327-73BE
   - INS-260329-69F0
   - INS-260329-4CFD
@@ -55,6 +54,7 @@ related:
   - INS-260329-32DB
   - INS-260329-C34B
   - INS-260405-FE86
+  - INS-260405-227C
 evidence:
   - id: INS-260320-E6DD
     type: TRANSFERS_TO

@@ -52,7 +52,6 @@ stance: >-
   corrosive fairness problems around retained equity and diminished authority
   that are worse than a clean separation.
 related:
-  - INS-260326-0C14
   - INS-260330-F9C9
   - INS-260330-E4D9
   - PRI-260406-4B0E

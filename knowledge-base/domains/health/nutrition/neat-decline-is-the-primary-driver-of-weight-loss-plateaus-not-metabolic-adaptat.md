@@ -62,6 +62,7 @@ related:
   - INS-260330-443B
   - INS-260327-B2E3
   - PRI-260406-350B
+  - INS-260410-58F2
 ---
 When people diet and lose weight, their bodies unconsciously reduce non-exercise activity thermogenesis (fidgeting, postural adjustments, spontaneous movement) by as much as 500 calories per day for just a 10% reduction in bodyweight. Meanwhile, the metabolic adaptation in BMR — the reduction beyond what's expected from smaller body mass — averages only about 15% and largely recovers within weeks of returning to maintenance calories.
 

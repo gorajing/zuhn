@@ -56,12 +56,12 @@ related:
   - INS-260327-734D
   - INS-260330-3A0D
   - INS-260403-8D8D
-  - INS-260405-F374
   - INS-260404-F45E
   - PRI-260406-0A0B
   - PRI-260405-E9C5
   - INS-260403-8EE8
   - PRI-260323-1B96
+  - INS-260404-433E
 ---
 Despite clear demand for startup liquidity, private secondary marketplaces face fundamental structural barriers: information asymmetry between buyers and sellers, illiquid underlying assets, complex cap table mechanics, right-of-first-refusal clauses, and a small float of motivated sellers at any given time. Henry Ward, who built Carta into the dominant cap table management platform, concluded after spending $150M that the problem cannot be solved with a marketplace model.
 

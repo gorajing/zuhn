@@ -2,15 +2,10 @@
 
 - `INS-260403-04AD` The 'stochastic parrot' framing relies on hallucinations seeming alien and incomprehensible, but reframing them as guessing reveals a familiar, goal-directed behavior.
 - `INS-260325-39FD` Longevity medicine aims to extend disease-free years, not prevent death — and one extra healthy year is worth $38 trillion.
-- `INS-260330-1801` Calling the unknown 85% of gravitational force 'dark matter' smuggles in the assumption that matter causes it, when 'dark gravity' would better describe what we actually observe.
-- `INS-260404-B87E` Craft one 'the X of Y' phrase that sticks — professional investors hear so many pitches they blur, and the first filter is simply being remembered.
-- `INS-260405-194F` When someone can't perceive a constraint you experience, appealing to politeness (take me at my word) is more tractable than demanding they recognize their privilege.
-- `INS-260404-36F1` Technically accurate quotes stripped of context can produce a more misleading picture than outright fabrication.
-- `INS-260403-B710` Counting finite instances of recurring experiences makes time scarcity concrete and actionable.
-- `INS-260403-C428` Deliberately downgrading the perceived status of your work ('just a sketch') disarms perfectionism and lets you start.
 - `INS-260323-04D4` El-Kurd shows that media coverage of geopolitical conflicts misleads not through fabrication but through systematic omission of essential context.
 - `INS-260327-60FB` 'Population collapse' anxiety serves two very different interests: genuine concern about supporting aging populations vs. corporate concern about maintaining cheap labor - the solutions are contradictory.
 - `INS-260323-B726` Putin's framing of 1991 as a greater tragedy than WWII (where the Soviets lost millions) reveals his value hierarchy: loss of great power status and territorial unity outweighs loss of human life.
+- `INS-260330-1801` Calling the unknown 85% of gravitational force 'dark matter' smuggles in the assumption that matter causes it, when 'dark gravity' would better describe what we actually observe.
 - `INS-260323-61D4` Einstein presented the non-locality problem at least three times — once at the 1927 Solvay Conference, once with the photon box thought experiment, and once in the EPR paper — and each time Bohr misunderstood or reframed the argument rather than addressing it directly.
 - `INS-260330-D385` Judging other systems as 'primitive' based on missing features you value reveals your bias, not their inferiority.
 - `INS-260330-615D` The 'fall of Rome' in 476 CE is a misleading narrative — the empire continued for another 1000 years in the east, but our bias toward decline stories obscures ongoing transformation.
@@ -18,6 +13,11 @@
 - `INS-260402-A999` People confuse wealth with money and assume it's distributed rather than created, leading to flawed moral judgments about inequality.
 - `INS-260329-F063` Telling prospects 'answering without looking under the hood would be unethical' reframes information withholding as professional responsibility and discredits competitors who give easy answers.
 - `INS-260329-A45D` 'But' acts as an attention redirector — everything after it is amplified, everything before it is diminished.
+- `INS-260404-B87E` Craft one 'the X of Y' phrase that sticks — professional investors hear so many pitches they blur, and the first filter is simply being remembered.
+- `INS-260405-194F` When someone can't perceive a constraint you experience, appealing to politeness (take me at my word) is more tractable than demanding they recognize their privilege.
+- `INS-260404-36F1` Technically accurate quotes stripped of context can produce a more misleading picture than outright fabrication.
+- `INS-260403-C428` Deliberately downgrading the perceived status of your work ('just a sketch') disarms perfectionism and lets you start.
+- `INS-260403-B710` Counting finite instances of recurring experiences makes time scarcity concrete and actionable.
 - `INS-260405-7B8D` Calling a project a 'sketch' isn't lowering your standards — it's applying the right standards for the stage.
 - `INS-260404-D66A` Calling your ambitious project 'just a sketch' or 'just a hack' lowers the internal quality bar enough to start, then momentum converts it into real work.
 - `INS-260330-550F` Decomposition feels impossibly hard because our intuition says mixing is irreversible — the Fourier Transform works by reframing the problem as detection rather than separation.
@@ -44,9 +44,9 @@
 - `INS-260403-323A` Costco's warehouse layout and limited selection feel like treasure-hunting to customers rather than cost-cutting, similar to how IKEA's DIY assembly creates pride of ownership.
 - `INS-260325-A79E` The Banach-Tarski proof only works because of a specific naming scheme for points on a sphere — the right labeling system makes the 'impossible' duplication self-evident.
 - `INS-260403-699B` Reframing startup ideas as questions ("could one make X?") instead of assertions ("I'm building X") lowers defensiveness and opens exploration space.
+- `INS-260405-AA2E` Lead with what the world looks like if you win, then work backwards to technology—investors fund directions, not features.
 - `INS-260403-649C` Deliberately labeling early ambitious work as a lower-stakes artifact (sketch, hack, experiment) disarms the internal critic long enough for the project to gain momentum.
 - `INS-260404-AD21` Calling serious work 'just a hack' or 'just a sketch' lets you start by applying lower standards, then sneakily converting it once momentum builds.
-- `INS-260405-AA2E` Lead with what the world looks like if you win, then work backwards to technology—investors fund directions, not features.
 - `INS-260404-5844` Starting cold messages with 'sorry for bothering you' frames the interaction as an imposition rather than a mutual opportunity.
 - `INS-260329-0B1D` Label prospects with positive traits during objections so they later feel compelled to live up to those identities at close time.
 - `INS-260329-8BFC` Negative-before-positive sequencing leverages recency bias and earned credibility to make the same facts more persuasive.

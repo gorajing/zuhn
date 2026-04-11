@@ -53,9 +53,9 @@ stance: >-
 related:
   - PRI-260406-F21A
   - INS-260405-F374
+  - INS-260410-4670
   - PRI-260406-4358
   - INS-260403-6EC8
-  - INS-260410-9267
   - INS-260403-7AD0
 ---
 The article reveals an important pattern in AI disruption: financial valuation models, risk methodologies, and screening criteria all live in textbooks, MBA curricula, and CFA study guides. The intellectual property was never the moat. The value was having someone who could consistently execute these analyses week after week.

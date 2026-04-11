@@ -50,7 +50,6 @@ stance: >-
   not cyclical, driven by permanent increases in VC diligence standards
 related:
   - INS-260322-76B5
-  - INS-260403-7749
   - INS-260405-A309
   - PRI-260406-04DB
   - INS-260405-C764

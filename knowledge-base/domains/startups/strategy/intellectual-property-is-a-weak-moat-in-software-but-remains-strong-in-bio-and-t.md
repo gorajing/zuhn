@@ -57,7 +57,7 @@ related:
   - PRI-260403-C34A
   - PRI-260406-E015
   - PRI-260406-358C
-  - INS-260403-2457
+  - INS-260410-52AE
 ---
 NFX explicitly states that intellectual property is 'not typically an effective strategy' in software because the field moves too quickly for patents to stick. This is a significant claim given how much startup advice emphasizes IP as a competitive advantage. The implication is that software founders should invest their defensibility efforts into the other four factors (network effects, scale, brand, embedding) rather than patent portfolios.
 

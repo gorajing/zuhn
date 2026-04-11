@@ -51,7 +51,6 @@ stance: >-
   Being forced to vertically integrate after a supplier betrayal often produces
   a stronger company than the original partnership would have
 related:
-  - INS-260324-5481
   - INS-260323-104E
   - INS-260327-968C
   - INS-260330-0525
@@ -61,6 +60,7 @@ related:
   - INS-260330-CB2E
   - INS-260330-A561
   - INS-260330-BC6F
+  - INS-260410-ED8E
 evidence:
   - id: INS-260330-B490
     type: CHALLENGES

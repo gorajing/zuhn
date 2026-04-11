@@ -41,11 +41,12 @@ stance: >-
   was based on real credit risk.
 related:
   - INS-260324-6FC7
-  - INS-260321-AA91
   - INS-260327-2695
+  - INS-260321-AA91
   - PRI-260328-43F1
   - INS-260327-CFC5
   - INS-260403-4FA4
+  - INS-260410-50D7
 evidence:
   - id: INS-260324-6FC7
     type: EXTENDS

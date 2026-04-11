@@ -49,10 +49,10 @@ stance: >-
   generates undeniable proof of value and regulatory precedent simultaneously
 related:
   - INS-260330-1A23
-  - INS-260404-3ACB
   - INS-260327-6188
+  - INS-260410-1D64
+  - INS-260404-3ACB
   - INS-260330-4079
   - INS-260326-6CA3
-  - INS-260403-9BEF
 ---
 Halo's strategy of starting with patients who have lost the ability to speak is not just compassionate — it is strategically brilliant. Medical-first GTM for radical hardware solves three problems at once: (1) it creates undeniable, emotionally compelling proof points that no marketing budget can replicate (the demo made an audience of 100 founders cry), (2) it builds clinical evidence and regulatory pathways that smooth future consumer approval, and (3) it focuses R&D on the hardest use case first, meaning consumer applications become technically trivial by comparison. This pattern has precedent — cochlear implants preceded consumer hearables, and exoskeletons for paralysis patients preceded industrial worker augmentation. The key insight is that medical users have the highest willingness to tolerate imperfection, giving the technology room to mature.

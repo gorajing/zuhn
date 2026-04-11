@@ -1,6 +1,6 @@
 # Topic: growth-strategy
 
-> 76 insights
+> 77 insights
 
 - `INS-260329-AF18` [high] Before exploring new growth channels, exhaust 10x potential in your current working channel first.
 - `INS-260402-24B0` [high] Unlike SaaS where marginal cost trends to zero, every AI user incurs real compute cost, making undisciplined distribution a path to margin collapse.
@@ -30,6 +30,7 @@
 - `INS-260403-5426` [high] Each GTM stage has its own valid acquisition playbook; using tactics from the wrong stage burns resources and generates false signals.
 - `INS-260322-70DD` [high] Stop hiring for the business you used to be — at $30-50M revenue you need a CFO not a bookkeeper, and the founder becomes the ceiling when every function must pass through them.
 - `INS-260323-9F61` [high] Barabasi's model shows hubs form naturally when networks grow and new nodes preferentially attach to well-connected nodes -- a tiny initial bias compounds into dominance.
+- `INS-260410-DCE5` [high] Google initially begged early portals to include 'Powered by Google' attribution on their search results pages — which trained tens of millions of users that Google meant high-quality search, eventually making the Google brand a value proposition that portals wanted rather than resisted.
 - `INS-260330-36DB` [high] Tencent created three separate internal teams to build a mobile messaging app that would compete against their own dominant desktop product QQ, ensuring they disrupted themselves before an outsider could.
 - `INS-260328-03BB` [high] You will be judged by investors relative to your direct peers, not relative to the fastest-growing company in all of AI.
 - `INS-260323-B849` [high] In normal-distribution games (coin flips for $1), optimize for the average; in power-law games (startups, content, earthquakes), the average is meaningless — optimize for maximum exposure to extreme outcomes.

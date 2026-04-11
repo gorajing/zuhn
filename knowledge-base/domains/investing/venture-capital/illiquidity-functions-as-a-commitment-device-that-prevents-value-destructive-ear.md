@@ -53,8 +53,8 @@ related:
   - PRI-260406-6287
   - PRI-260406-0A0B
   - INS-260404-36F3
+  - INS-260410-F366
   - INS-260404-0475
-  - INS-260405-224A
   - INS-260403-A6F1
 ---
 In public markets, liquidity enables investors to act on fear and impatience, frequently selling winners too early and crystallizing losses at the worst times. Venture capital's structural illiquidity removes this failure mode entirely. LPs cannot panic-sell their fund positions during downturns, and GPs cannot be pressured into premature exits by mark-to-market anxiety.

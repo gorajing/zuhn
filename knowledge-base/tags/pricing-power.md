@@ -2,6 +2,7 @@
 
 - `INS-260410-8212` Nike's running shoes cost the same as Adidas and New Balance, and Adidas actually has a higher gross margin — Nike's power shows up in athlete acquisition, not price.
 - `INS-260409-BE4C` Chamath's hot take: brand-based pricing power is going to zero because cheaper/faster/better products now dominate on every dimension, as Tesla did to German luxury and BYD is doing to global automakers.
+- `INS-260410-F8B9` Moats are only sufficient if the castle is too unattractive to invade — once the prize gets big enough, attackers arrive regardless.
 - `INS-260410-C688` When a product bundles utility with an intangible 'priceless feeling,' buyers can no longer comp it against alternatives, which frees the seller to price without reference to competitor feature sets.
 - `INS-260327-10A2` Sneaker reseller Leo makes the highest margins on pre-owned shoes where pricing is non-standardized and his years of expertise let him issue bids within seconds, while new-shoe margins are constrained to 20-25%.
 - `INS-260329-C0F1` Strong brands transform identical commodities into premium products by letting customers buy the association, not just the product.

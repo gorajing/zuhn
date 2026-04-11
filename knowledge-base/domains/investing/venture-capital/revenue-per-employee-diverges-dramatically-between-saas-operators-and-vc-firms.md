@@ -51,11 +51,12 @@ related:
   - INS-260325-FADB
   - INS-260327-16D7
   - INS-260330-8FEC
-  - INS-260403-92CC
-  - INS-260404-6751
   - INS-260404-886C
   - INS-260404-F62A
+  - INS-260403-92CC
+  - INS-260404-6751
   - INS-260330-855A
+  - INS-260410-001F
 ---
 Comparing revenue per employee between SaaS startups and VC firms illuminates fundamentally different business models. SaaS companies scale revenue by adding engineers, salespeople, and support staff — their output is roughly linear with headcount. VC firms scale by deploying more capital per partner, meaning a 10-person firm managing $500M generates enormous revenue per head without proportional hiring.
 

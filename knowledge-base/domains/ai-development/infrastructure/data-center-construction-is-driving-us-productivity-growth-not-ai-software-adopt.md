@@ -63,6 +63,7 @@ related:
   - PRI-260328-5CDE
   - INS-260405-B204
   - PRI-260406-818D
+  - INS-260410-F31C
 ---
 Labor productivity in the U.S. reached ~2.8% growth by late 2023, matching the best post-WWII decades. The tempting narrative is that ChatGPT and similar tools are making workers more productive, but the data points elsewhere: the biggest productivity swing has been in manufacturing, and San Francisco Fed TFP estimates show that much of the boost correlates with capital utilization — machines and buildings running longer — rather than labor efficiency gains. Data center construction and the computing equipment inside them are contributing to GDP growth at levels comparable to the dot-com boom.
 

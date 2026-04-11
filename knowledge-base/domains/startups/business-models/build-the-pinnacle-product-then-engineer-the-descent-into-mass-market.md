@@ -52,10 +52,10 @@ stance: >-
   figure out how to translate the halo into products ordinary buyers can access.
 related:
   - INS-260327-0A48
+  - INS-260410-3E0A
   - INS-260403-5A4C
+  - INS-260410-FA70
   - INS-260410-13EB
-  - INS-260403-C5D8
-  - INS-260410-66E4
 ---
 Nike's product strategy inverts the usual mass-market logic. They start by building pinnacle products for specific elite athletes — Vaporfly for marathoners, Jordans for Michael — often without even considering how the product translates downmarket. The halo seeps outward: athletes wear it, niche communities notice, mainstream press picks it up, and eventually Nike figures out which adjacent products ordinary consumers can buy to participate in the dream. The $15 swoosh t-shirt and the $300 Vaporfly coexist because the t-shirt borrows credibility from the pinnacle product without diluting it.
 

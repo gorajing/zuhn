@@ -49,7 +49,6 @@ stance: >-
   competitors attract capital
 related:
   - INS-260323-4EE4
-  - INS-260327-3B25
   - INS-260330-EEED
   - INS-260330-C870
   - INS-260403-9E2D

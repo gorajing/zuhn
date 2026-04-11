@@ -54,8 +54,8 @@ related:
   - INS-260324-D5FE
   - PRI-260324-7ED9
   - INS-260330-629E
+  - INS-260410-FA70
   - INS-260324-B7C0
-  - INS-260327-092E
 ---
 When Patrick Doyle became CEO after Domino's stock hit $3, he conducted focus groups that brutally criticized their pizza. Instead of quietly reformulating, Domino's ran a massive campaign showing actual footage of customers trashing their product. They publicly admitted the old recipe was bad, documented the chefs rebuilding the pizza from scratch, and had chefs personally deliver new pizzas to their harshest critics on camera.
 

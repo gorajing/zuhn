@@ -3,8 +3,8 @@
 - `INS-260403-C355` High-stakes industries adopt AI through a predictable trust ladder: copilot for routine tasks → demonstrated reliability → autopilot acceptance → perceived necessity.
 - `INS-260403-1106` ICONIQ's State of AI report shows enterprises are blocked on AI adoption by security and compliance issues, not by capability limitations.
 - `INS-260410-358E` Have the MCP client replace sensitive fields with opaque tokens before the agent sees them, then substitute real values on downstream tool calls.
-- `INS-260322-091C` In banking and financial services, voice AI actually outperforms humans because humans frequently violate compliance regulations while AI gets it right every time and can be audited.
 - `INS-260330-5DCA` The vine robot intubation device finds the trachea not through sensors or cameras but through passive compliance — its softness lets it naturally follow the correct anatomical path.
+- `INS-260322-091C` In banking and financial services, voice AI actually outperforms humans because humans frequently violate compliance regulations while AI gets it right every time and can be audited.
 - `INS-260323-784B` Enterprise resource planning requires SOC-2 compliance, multi-currency handling, legal review, and ongoing maintenance — none of which a prompted LLM can reliably provide or be held accountable for.
 - `INS-260329-C34C` The biggest predictor of diet adherence is preparation friction, not nutritional optimality — zero-prep meals that are 80% optimal beat perfect meals that require cooking.
 - `INS-260409-53A1` 'Because' is a compliance trigger regardless of whether the reason makes sense.
@@ -20,7 +20,7 @@
 - `INS-260403-18F7` Startups that automate compliance (like Delve doing SOC 2 in 15 hours vs. months) win by directly unblocking stalled enterprise sales pipelines.
 - `INS-260404-B208` Nearly 10% of YC W26 builds in healthcare and 4% in legal tech, targeting regulatory complexity as a feature rather than a bug for AI-native defensibility.
 - `INS-260403-CD68` Libra failed partly because regulators went beyond setting guardrails to actively managing product decisions, making it impossible to ship a market-responsive product.
+- `INS-260403-361D` Don't overcorrect on location flexibility — physical businesses, deeptech, and regulated industries still have hard geographic dependencies.
 - `INS-260329-903B` AWS GovCloud and compliance programs let startups inherit compliance certifications instead of building them from scratch, opening regulated markets like government and healthcare.
 - `INS-260404-AD2B` Larger organizations face exponentially higher stakes that demand more rigorous compliance, which creates proportionally greater friction for innovation teams.
-- `INS-260403-361D` Don't overcorrect on location flexibility — physical businesses, deeptech, and regulated industries still have hard geographic dependencies.
 - `INS-260404-F8B7` When compliance prevents direct customer conversations, innovation teams collect lower-quality secondhand evidence that leads to worse strategic decisions.

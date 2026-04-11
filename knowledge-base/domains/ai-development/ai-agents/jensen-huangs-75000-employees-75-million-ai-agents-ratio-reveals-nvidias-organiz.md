@@ -60,7 +60,6 @@ stance: >-
   operationally meaningful.
 related:
   - INS-260327-E18C
-  - INS-260327-3918
   - INS-260403-AC2D
   - PRI-260328-8317
   - INS-260403-7D11

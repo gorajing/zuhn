@@ -49,11 +49,11 @@ stance: >-
   Investment deals that feel generous to both sides produce better outcomes than
   optimized zero-sum negotiations
 related:
+  - INS-260410-F026
   - INS-260327-D0F4
   - INS-260327-8C1C
   - INS-260403-8EE8
   - INS-260403-4904
-  - INS-260330-1002
   - INS-260404-8750
 evidence:
   - id: INS-260327-D0F4

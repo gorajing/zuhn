@@ -44,11 +44,11 @@ resolutions:
     preference. Tudor's insight applies directly to any product where the value
     is experiential rather than intellectual.
 related:
+  - INS-260410-1D64
   - INS-260330-BC21
   - INS-260404-B0DC
   - INS-260327-A8B6
   - INS-260323-E551
-  - INS-260409-BD67
 stance: >-
   Frederic Tudor broke through zero demand by giving bartenders free ice to make
   cocktails

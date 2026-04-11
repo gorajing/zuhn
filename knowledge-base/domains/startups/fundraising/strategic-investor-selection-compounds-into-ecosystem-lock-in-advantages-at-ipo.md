@@ -56,7 +56,6 @@ related:
   - INS-260405-6EE5
   - PRI-260406-701E
   - INS-260403-F8FB
-  - INS-260410-4E57
 ---
 Rubrik's fundraising strategy illustrates how strategic investor selection creates compounding advantages. Microsoft's 2021 Series E investment wasn't just capital — it integrated Rubrik into Microsoft's enterprise ecosystem, giving it distribution leverage that pure financial VCs couldn't match. Combined with Lightspeed holding 25% voting power pre-IPO, the investor mix balanced operational support with strategic market access.
 

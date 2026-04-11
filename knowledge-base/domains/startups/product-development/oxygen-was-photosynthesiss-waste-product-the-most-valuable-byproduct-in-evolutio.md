@@ -50,7 +50,6 @@ stance: >-
   The most transformative products often emerge as waste byproducts of solving a
   different problem entirely, not from intentional design
 related:
-  - INS-260330-8D4F
   - INS-260330-F8E7
   - INS-260404-0FEB
   - INS-260403-EFE6

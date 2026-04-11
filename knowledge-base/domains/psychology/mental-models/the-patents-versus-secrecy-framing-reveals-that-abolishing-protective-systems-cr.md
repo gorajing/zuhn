@@ -46,11 +46,11 @@ stance: >-
   trade secrecy, which historically produced worse outcomes including guild
   monopolies, information silos, and even assassination of defectors.
 related:
+  - INS-260410-52AE
   - INS-260402-086D
   - INS-260323-748A
   - INS-260404-7ED7
   - PRI-260323-7805
-  - INS-260410-2623
 evidence:
   - id: INS-260325-24D1
     type: SUPPORTS

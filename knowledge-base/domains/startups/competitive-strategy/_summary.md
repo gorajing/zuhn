@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 550 insights
+> 555 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -99,6 +99,7 @@
 - `INS-260402-B42C` [high] A barbershop's locality limits its growth but also limits its competition to other local barbers — startups that remove such constraints face the whole world.
 - `INS-260327-6900` [high] Car companies responded to consumers who can't afford cars by making cars more expensive than ever - the fundamental constraint is affordability, not technology.
 - `INS-260403-2E12` [high] Everything from EVs to drones to robots draws on the same batteries, sensors, motors, and compute that the smartphone ecosystem industrialized at scale.
+- `INS-260410-50D7` [high] Walmart and Target have tried for decades to build credit-card alternatives and keep failing because no single retailer can match the rewards Visa funnels to consumers from a pooled interchange take.
 - `INS-260327-77C7` [high] When streaming services fragment content and raise prices simultaneously, they cross a threshold where the total cost and friction exceeds consumers' tolerance, driving them back to piracy.
 - `INS-260330-8F33` [high] Nakamura chose gallium nitride specifically because everyone else had abandoned it, giving him a field with almost no competition.
 - `INS-260403-4788` [high] If experts are contemptuous of your approach, you may have found a structural advantage they can't access.
@@ -326,6 +327,7 @@
 - `INS-260403-494E` [high] When everyone has access to the same foundation models, proprietary data that improves with usage becomes the only sustainable competitive advantage.
 - `INS-260322-7282` [high] Owning the full workflow from intake to outcome generates proprietary data that public models can't replicate — creating a compounding competitive advantage.
 - `INS-260330-242D` [high] Domino's ran ads showing real focus group footage calling their crust 'cardboard,' admitted the criticism was deserved, then documented their complete recipe overhaul — generating a billion media impressions and 4,000% stock growth over the next decade.
+- `INS-260410-5E92` [high] Mars's first principle is quality-at-a-given-price, not absolute quality — the framing that enables compounding scale advantages in commodity-adjacent categories.
 - `INS-260403-9442` [high] Plants produce 40 billion tons of the flawed enzyme RuBisCo rather than evolving a better one, proving that volume of a mediocre approach can dominate.
 - `INS-260330-ED9D` [high] Plants compensate for RuBisCo's ~50% failure rate by producing 40 billion tons of it — brute-force quantity as a strategy works when unit cost is low enough.
 - `INS-260410-FA8E` [high] Victory goes to whoever can identify the culminating point — push too far and you trigger counterattacks, third-party interventions, or supply collapse that erase your winnings.
@@ -342,6 +344,7 @@
 - `INS-260403-D8C1` [high] Clear, minimal regulation — like trademarking USD and setting three simple requirements — can unleash private-sector innovation at ecosystem scale.
 - `INS-260403-1F40` [high] Jurisdiction-specific regulation prevents winner-take-all dynamics and protects local startups from global incumbents.
 - `INS-260330-D460` [high] Local sourcing mandates in emerging markets function as deliberate protectionist barriers that advantage domestic competitors over foreign entrants.
+- `INS-260410-9E97` [high] Porsche's Carrera GT (2003) and 918 Spyder (2013) were released alongside the Cayenne and Panamera expansion specifically to 'put cash back in the brand equity bank' while the SUVs and sedans were drawing on it.
 - `INS-260323-6D41` [high] In evolutionary simulations, winning replicators consistently had the highest replication rate and lowest death rate -- speed of copying is the dominant competitive advantage.
 - `INS-260403-3C9D` [high] LVMH's free sanitizer from perfume factories bought permanent brand reclassification as a socially responsible corporation.
 - `INS-260330-3274` [high] Cities surrendered to the Mongols without fighting because the alternative — witnessed in previous slaughters — was annihilation.
@@ -550,5 +553,7 @@
 - `INS-260403-4B31` [medium] California's proposed billionaire tax on unrealized gains could force founders to sell equity to pay taxes on illiquid paper wealth.
 - `INS-260327-B946` [medium] Under Armour spent years building retailer confidence by maintaining premium pricing and high sell-through rates, but when the brand faltered, retailers who had been cautiously increasing orders immediately pulled back -- the trust that took years to build evaporated in a single bad season.
 - `INS-260403-5710` [medium] Ever-shifting tariff regimes — imposing, exempting, reimposing under different authorities — make long-term business planning impossible, which suppresses investment independent of tariff levels.
+- `INS-260410-52AE` [medium] Coca-Cola has never patented its formula because patents expire and become public domain — by treating the recipe as a trade secret with elaborate ritual around it, the company has held an artificial moat for 140 years instead of 20.
+- `INS-260410-8B2C` [medium] Porsche's impenetrable model-number lineage (911 / 964 / 993 / 996 / 997 / 991 / 992, GT3, GT3 RS, Carrera, Carrera S, Turbo S) creates a language enthusiasts have to learn, which deepens tribal identification rather than hurting sales.
 - `INS-260403-B3E8` [medium] A16z is hiring dedicated ecosystem leadership to turn its relationship network into compounding infrastructure rather than treating connections as ad hoc deal flow.
 - `INS-260404-6891` [medium] When most players in an ecosystem publicly commit to a standard, the holdouts face disproportionate reputational cost.

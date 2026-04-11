@@ -50,8 +50,8 @@ related:
   - INS-260330-855A
   - INS-260403-9D7C
   - INS-260410-151D
+  - INS-260410-C56B
   - INS-260403-5365
-  - INS-260330-A9CB
 ---
 Michael Seibel identifies two failure modes in equity splits. First, large disparities (like 60/40 or 70/30) create a toxic dynamic where the minority co-founder feels it's 'your company, not ours' — reducing their ownership mentality and willingness to endure hard times. Second, perfectly equal 50/50 splits create deadlock when co-founders disagree on critical decisions, and Seibel says they see this kill companies a lot.
 

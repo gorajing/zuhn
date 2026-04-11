@@ -47,11 +47,11 @@ stance: >-
   device retrieval without staff noticing the change until productivity metrics
   improve
 related:
+  - INS-260410-6E43
+  - INS-260410-E2BC
   - INS-260405-35DF
   - INS-260410-ED34
   - INS-260330-3E3C
-  - INS-260403-88DA
-  - INS-260403-86BF
 evidence:
   - id: INS-260330-3E3C
     type: SUPPORTS

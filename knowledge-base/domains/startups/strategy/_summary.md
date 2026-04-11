@@ -1,6 +1,6 @@
 # Topic: strategy
 
-> 243 insights
+> 245 insights
 
 - `INS-260330-98EA` [high] The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples.
 - `INS-260403-0530` [high] New York struggles as a startup hub because founders there are second-class citizens in a status hierarchy that most admires financial wealth.
@@ -43,6 +43,7 @@
 - `INS-260330-F258` [high] Good democratic systems are optimized for removing bad leaders efficiently and nonviolently, not for selecting the best ones — mirroring how science progresses by falsification, not verification.
 - `INS-260404-1CC0` [high] As building barriers collapse, competitive moats migrate from technical capability to distribution and taste.
 - `INS-260330-9A92` [high] Growing 100 cheap vine robots into a collapsed building where only one finds a survivor is a massive success — the strategy works because unit cost approaches zero.
+- `INS-260410-DF88` [high] Benchmark's 'we will not scale' is a real strategy because the thing they sell — partnership-wide attention on every portfolio company — literally cannot exist at 5x the size.
 - `INS-260403-D444` [high] Shrinking an industry's total revenue by 95% is a viable strategy if you capture all of what remains, because incumbents can't follow you down.
 - `INS-260330-0B4A` [high] RuBisCo — the most abundant protein on Earth at 40 billion tons — is demonstrably bad at its job, confusing O2 for CO2 half the time, yet plants are permanently locked into it.
 - `INS-260404-FAE9` [high] RuBisCo's 450-million-year reign shows that dominant systems compensate for flaws rather than replace core mechanisms.
@@ -64,6 +65,7 @@
 - `INS-260403-4572` [high] Spotify delayed US entry to perfect product-market fit while Klarna raced in because the cost of staying out exceeded the cost of imperfection—both succeeded because they correctly diagnosed their existential risk.
 - `INS-260403-EAE5` [high] The best time to search for new business models is while the existing one still generates surplus capital to fund experiments.
 - `INS-260329-7D18` [high] Your 20s are for sampling widely and your 30s are for going deep on the best thing you found — mistiming this transition is the most common career error.
+- `INS-260410-0D0C` [high] 85% of Novo Nordisk's revenue comes from metabolic disease — radical concentration, not diversification, produced Europe's most valuable company.
 - `INS-260403-6CA8` [high] Sears, Toys-R-Us, and RadioShack died not because of Amazon but because they failed to adapt, while Ross, Aldi, Dollar General, and Costco thrived in the same environment.
 - `INS-260324-DC98` [high] UNIQLO, Zara, and H&M transformed fashion from a creativity contest into a speed-and-curation game, driving GAP to irrelevance and J.Crew to bankruptcy.
 - `INS-260322-8299` [high] The correct sequence is pricing optimization -> freed cash flow -> attribution tracking -> paid ads -> content/thought leadership, not the reverse.

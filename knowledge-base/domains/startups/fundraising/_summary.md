@@ -1,6 +1,6 @@
 # Topic: fundraising
 
-> 461 insights
+> 462 insights
 
 - `INS-260323-E9E4` [high] Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead.
 - `INS-260330-09FF` [high] A YC company that was incorrectly converted from a Connecticut LLC to a Delaware C-Corp accumulated a $500K legal bill across four law firms when the error surfaced during a major fundraise.
@@ -25,6 +25,7 @@
 - `INS-260328-9415` [high] Standard Capital's YC-style batch process for Series A compressed the entire fundraising timeline to two weeks and roughly four hours of founder time.
 - `INS-260402-2300` [high] Start thinking about fundraising 12 months before you need it, maintain 8+ months runway when beginning outreach, and consider bridge rounds if runway is short.
 - `INS-260404-3275` [high] Board votes are almost always unanimous — the side that would lose adjusts its position before the vote happens.
+- `INS-260410-7726` [high] Epic raised only $70K of equity and $70K of bank debt in its entire 47-year history, which is precisely why Judy Faulkner was still running it at 81—every VC-funded peer of her era got swapped out for a 'business guy' within a few years.
 - `INS-260403-6ACB` [high] Bottom-up market sizing using specific customer counts and realistic pricing builds far more investor credibility than vague top-down industry size claims.
 - `INS-260403-44E9` [high] Build revenue projections from funnel conversion rates upward rather than starting from a target number and working backward.
 - `INS-260330-0AA7` [high] Talk to all investors in parallel but allocate attention proportional to expected value (likelihood × quality).

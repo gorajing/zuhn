@@ -53,7 +53,6 @@ stance: >-
   clinical language at scale without requiring the underlying data architecture
   to be rebuilt or standardized first.
 related:
-  - INS-260405-8B05
   - INS-260323-4794
   - INS-260403-86BF
   - INS-260403-E492

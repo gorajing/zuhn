@@ -48,7 +48,6 @@ stance: >-
   simultaneous experiments, because any individual idea's probability of success
   is too low to rely on sequentially.
 related:
-  - INS-260330-F2EB
   - INS-260403-402A
   - INS-260403-FAD8
   - INS-260403-2BEE
@@ -58,6 +57,7 @@ related:
   - INS-260403-B1F2
   - INS-260405-9460
   - INS-260403-BDCC
+  - INS-260403-4D8F
 ---
 A single innovation initiative, no matter how well-designed, has uncertain odds of success. Organizations that pursue ideas one at a time face a compounding problem: each failure creates pressure to abandon the innovation effort entirely, while each success creates complacency. Neither dynamic produces sustained innovation capability.
 

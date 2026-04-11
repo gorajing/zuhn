@@ -63,9 +63,9 @@ related:
   - INS-260325-5CB1
   - INS-260323-F12F
   - INS-260328-F05E
-  - INS-260405-1054
   - INS-260405-F1A1
   - INS-260330-F205
+  - INS-260410-F31C
 ---
 Handmer makes a non-obvious point that overturns the conventional framing: for a Claude or Grok subscription worth ~$1000 in economic value, the marginal electricity cost of serving it is roughly 10 cents — about 0.01% of value delivered. Anthropic could see their electricity cost basis rise 100x and barely dent their pricing. This means hyperscalers will happily pay eye-watering prices for gas turbines, solar panels, batteries, or anything else if it gets them online faster.
 

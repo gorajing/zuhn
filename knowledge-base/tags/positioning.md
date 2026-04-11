@@ -2,6 +2,8 @@
 
 - `INS-260404-A526` Professional investors hear so many pitches they blur together — a sticky phrase like 'the Microsoft Word of ecommerce' is the minimum viable unit of memorability.
 - `INS-260403-FBC0` Luck ranges from blind fortune to character-attracted opportunity, and you can deliberately move up that gradient.
+- `INS-260410-1D64` Coca-Cola's early team intuited that you don't want customers thinking about headaches and nervousness when they reach for your drink — you want them thinking about happiness, friendship, and Christmas.
+- `INS-260410-8122` 'Melts in your mouth, not in your hand' sold parents on M&M's by addressing the hidden fear of chocolate-smeared furniture, not the kids' desire for candy.
 - `INS-260330-E54B` Both Augustus and Jesus were called 'son of God' — the identical claim succeeded for radically different audiences because each version addressed different unmet needs.
 - `INS-260403-2A1D` Craft a single descriptive phrase that sticks — investors hear too many pitches, and the first cut is simply being one they remember.
 - `INS-260404-8D37` A compelling one-phrase description like 'the Microsoft Word of ecommerce' serves double duty: it survives in investors' memory and forces founders to clarify their own strategy.
@@ -42,6 +44,8 @@
 - `INS-260403-FC45` Craft a single compelling phrase that describes your startup and launch it early in your pitch so investors remember you after seeing dozens of presentations.
 - `INS-260403-21C4` Creating a sticky descriptive phrase like 'the Microsoft Word of ecommerce' forces strategic clarity and ensures investors remember you.
 - `INS-260403-4610` Creandum went Stockholm → San Francisco → Germany → London, using US credibility to unlock European markets.
+- `INS-260410-C070` Frank Robinson dropped Coca-Cola's 'sovereign remedy for headache and nervousness' messaging and repositioned it as 'delicious and refreshing' — the product was identical, but he was advertising to the masses instead of the few.
+- `INS-260410-3E0A` Coke pivoted from describing what the drink does ('delicious and refreshing') to associating it with happiness, family, Christmas, and sports heroes — and that extrinsic association is what compounded into a $300B brand.
 - `INS-260405-E6F9` Investors hear hundreds of pitches — the first filter is whether they remember you, and a single phrase is what makes you memorable.
 - `INS-260405-7F06` Generic differentiation claims ('we're easier to use') backfire; specific, verifiable claims with proof points are what actually move buyers.
 - `INS-260403-EF20` BioCity transformed their messaging from technical jargon about robotic compound retrieval to emotionally resonant language about control and budget maximization.

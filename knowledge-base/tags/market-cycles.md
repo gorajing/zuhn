@@ -1,6 +1,7 @@
 # Tag: market-cycles
 
 - `INS-260403-5835` Like the dot-com era, the AI bubble contains both genuine excess and the seeds of the next generation of dominant companies.
+- `INS-260410-4670` Frauds reach Enron scale only in bull markets because saturated capital chases low-disclosure assets and stops asking questions.
 - `INS-260405-0CAB` 38% of VCs stopped doing deals in 2023, exposing a large cohort of cycle-dependent tourist investors who entered during the 2020-2021 bull market.
 - `INS-260404-15B8` Early-stage VCs show AI fatigue despite $30B raised in 2024, suggesting a coming selectivity filter.
 - `INS-260405-5F16` 42 rounds over $100M closed in Europe in Q1 2024, the most since Q2 2022, with climate tech capturing the largest checks.

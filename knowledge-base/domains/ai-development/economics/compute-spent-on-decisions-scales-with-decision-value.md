@@ -53,7 +53,6 @@ stance: >-
   AI firms will allocate inference compute to roles in proportion to decision
   value, making some roles worth billions in compute per year.
 related:
-  - INS-260403-7BC6
   - INS-260403-8EBD
   - INS-260410-069C
   - INS-260325-BEAC

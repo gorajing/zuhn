@@ -48,7 +48,7 @@ related:
   - INS-260321-6437
   - PRI-260406-6AE6
   - INS-260330-1EAC
+  - INS-260410-7224
   - INS-260325-311F
-  - INS-260403-8E58
 ---
 San Francisco was documented as the slowest California jurisdiction for housing permits, averaging 605 days per approval. Lurie's PermitSF initiative centralized the application process and introduced an online portal, cutting timelines to 280 days on average, with new applications processed in 114 days. This matters beyond housing because permitting speed is a multiplier: every project in the city's pipeline benefits, and the compounding effect of faster cycles means more projects reach completion before political or economic conditions shift. The lesson for any organization is that reducing cycle time on approval processes has outsized returns because it affects the throughput of every initiative simultaneously, not just the marginal one.

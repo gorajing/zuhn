@@ -1,6 +1,6 @@
 # Topic: persuasion
 
-> 53 insights
+> 56 insights
 
 - `INS-260403-9DB6` [high] Steady accumulation of documented incidents shifts opinion more than any single dramatic event because patterns resist counter-narrative.
 - `INS-260403-36F0` [high] Correctness about what's wrong doesn't convert into support without a clear alternative vision.
@@ -31,6 +31,7 @@
 - `INS-260403-0353` [high] The same act of deception ranges from routine (soccer flopping) to morally insane (golf score fabrication) depending on domain-specific norm calibration that outsiders often can't perceive.
 - `INS-260403-541C` [high] Systematically research each stakeholder's incentives, decision process, and concerns before attempting to influence them.
 - `INS-260330-4E09` [high] Building up your opponent's best case before responding protects you from being blindsided by stronger versions of their argument later.
+- `INS-260410-8122` [high] 'Melts in your mouth, not in your hand' sold parents on M&M's by addressing the hidden fear of chocolate-smeared furniture, not the kids' desire for candy.
 - `INS-260404-5A3D` [high] Realizing that selectors barely scrutinize you motivates more active self-presentation.
 - `INS-260330-59CE` [high] Vague predictions appear accurate because our brains apply the 'law of near enough' — two things don't have to match exactly for us to perceive a connection, making almost any outcome confirmatory.
 - `INS-260330-4605` [high] The Polarity Principle in relationships operates through the same variable-ratio reinforcement schedule that drives gambling addiction.
@@ -42,11 +43,13 @@
 - `INS-260403-74DB` [medium] The shopping-as-leisure reframe is a deliberate corporate strategy most people can't see through for decades.
 - `INS-260409-241B` [medium] Naming a specific cult-loved brand instead of a generic category gives viewers a pre-formed opinion to defend or attack in the comments.
 - `INS-260404-F0A3` [medium] Explicitly stating the boundaries of your argument before making it partially defuses accusations of malicious streetlighting or directional overclaiming.
+- `INS-260410-61CE` [medium] Porsche's sales cycle for a 911 is 40-50 years: kids fall in love with the car at age 10 and buy it in their 50s, which is why the 911 keeps the same silhouette across generations.
 - `INS-260402-476E` [medium] Moral labels replace factual rebuttals precisely when the factual rebuttal would fail.
 - `INS-260403-20C3` [medium] LLM fact-checkers like Grok achieve belief-accuracy shifts comparable to professional fact-checking, and resist their creators' political biases.
 - `INS-260403-7EB2` [medium] Keep a running notes document tracking exec questions and feedback to anticipate their reactions in future discussions.
 - `INS-260330-A1AF` [medium] Adams, the self-proclaimed expert on manipulation tactics, was ultimately destroyed by a manipulation technique straight out of his own playbook that he failed to recognize.
 - `INS-260403-FC2E` [medium] Shift from defending your position to calling out the pattern of misrepresentation itself.
+- `INS-260410-1D64` [medium] Coca-Cola's early team intuited that you don't want customers thinking about headaches and nervousness when they reach for your drink — you want them thinking about happiness, friendship, and Christmas.
 - `INS-260403-524B` [medium] Costco's confusing warehouse layout makes shoppers feel like deal-hunters rather than annoyed customers, turning a cost-saving measure into a positive brand experience.
 - `INS-260402-B14F` [medium] Both the Visionary and Brahma refuse to leverage self-interest arguments for morality, finding it 'aesthetically unappealing' to reduce ethics to incentives.
 - `INS-260403-6E11` [medium] The school habit of stretching limited ideas to fill required page counts trains people to communicate without conviction, which investors and other sophisticated audiences immediately detect.

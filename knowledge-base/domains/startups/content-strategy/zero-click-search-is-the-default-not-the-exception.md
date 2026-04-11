@@ -48,12 +48,11 @@ stance: >-
   strategies built on traffic generation are structurally declining and must
   shift to citation-based brand building.
 related:
-  - INS-260327-6F79
   - INS-260402-E040
   - INS-260404-573C
+  - INS-260410-DCE5
   - INS-260329-63DD
   - INS-260325-9C89
-  - INS-260322-6AF5
 ---
 SparkToro and Datos data from 2024 show 58.5% of Google searches produce zero outbound clicks. AI Overviews appear in 15–60% of queries. The trend predates AI but AI dramatically accelerates it: when a user gets a complete synthesized answer, there's simply no reason to click through. For content-dependent businesses, this is an existential shift.
 

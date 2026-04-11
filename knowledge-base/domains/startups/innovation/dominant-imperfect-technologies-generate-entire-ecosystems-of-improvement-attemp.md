@@ -59,14 +59,15 @@ stance: >-
   surface attracts motivated builders.
 related:
   - INS-260323-F963
-  - INS-260323-AB5F
   - INS-260329-12D1
   - INS-260330-B437
   - INS-260403-D645
   - INS-260403-9669
+  - INS-260323-AB5F
   - INS-260330-DCFB
   - PRI-260406-F72A
   - INS-260330-EEBD
+  - INS-260410-8B2C
 evidence:
   - id: INS-260323-F963
     type: SUPPORTS

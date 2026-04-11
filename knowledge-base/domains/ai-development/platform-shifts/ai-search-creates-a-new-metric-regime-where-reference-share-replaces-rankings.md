@@ -51,10 +51,10 @@ stance: >-
   click-through rates to how frequently AI systems cite or reference a source
 related:
   - INS-260405-0810
+  - INS-260410-FA70
   - PRI-260406-88DD
   - INS-260404-1C9D
   - INS-260405-DFBC
-  - INS-260402-8D38
   - INS-260405-3F0F
 ---
 The article identifies an emerging metric framework for AI-era content visibility: featured citations in SGE or AI summaries, brand mentions in AI chatbot references, engagement depth metrics (time on page, scroll depth, return visits), search visibility across multiple channels, and zero-click visibility (impressions without clicks). This represents a fundamental shift from position-based metrics to recognition-based metrics.

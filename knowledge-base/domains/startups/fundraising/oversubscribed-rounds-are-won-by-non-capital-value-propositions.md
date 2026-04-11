@@ -57,6 +57,7 @@ related:
   - INS-260404-F54F
   - INS-260403-032B
   - INS-260404-50AC
+  - INS-260410-4670
 ---
 The article illustrates that in competitive YC deals co-invested with Lightspeed, a16z, First Round, and Peak XV, small angel investors earned allocations not through capital but through distribution capability. One reader committed to co-investing for 24 months specifically because of the media value demonstrated through a portfolio company launch.
 

@@ -45,7 +45,6 @@ stance: >-
   Treating infinity as a very large number rather than a fundamentally different
   kind of quantity leads to systematic reasoning errors.
 related:
-  - INS-260323-8E4D
   - INS-260325-72AE
   - INS-260330-A949
   - INS-260330-2F74

@@ -21,5 +21,5 @@
 - `INS-260409-171C` The complete formula for making it is start, take feedback to get better, and never stop — most failure is skipping one of these.
 - `INS-260330-637F` The McDonald brothers found 80% of revenue came from hamburgers, cut everything else, and used the focus to build an assembly-line system that redefined the industry.
 - `INS-260403-427E` Truly disruptive solutions are often conceptually simple — the moat is in the execution, not the idea.
-- `INS-260330-0BBA` Listen to customer problems deeply but translate them into the simplest possible solution, which is often not what the customer literally asked for.
 - `INS-260402-3A0D` Simplicity forces you to face the real problem because you can't hide behind ornament.
+- `INS-260330-0BBA` Listen to customer problems deeply but translate them into the simplest possible solution, which is often not what the customer literally asked for.

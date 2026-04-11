@@ -1,6 +1,6 @@
 # Topic: venture-capital
 
-> 292 insights
+> 296 insights
 
 - `INS-260403-6B24` [high] High-profile 2025 IPOs like Figma, Chime, and Navan traded below debut prices even as Nasdaq and S&P 500 rallied.
 - `INS-260405-0CAB` [high] 38% of VCs stopped doing deals in 2023, exposing a large cohort of cycle-dependent tourist investors who entered during the 2020-2021 bull market.
@@ -47,6 +47,7 @@
 - `INS-260403-41C8` [high] Venture firms that think like product companies building systems outlast those optimizing per-fund carry.
 - `INS-260403-248E` [high] Brex's early investors celebrated while late-stage investors lost money on the same $5.15B exit, proving entry price matters more than company trajectory.
 - `INS-260403-2D9B` [high] Pro forma EPS improvement from acquisitions reflects share count math, not operational value creation — but markets and boards treat it as a real signal anyway.
+- `INS-260410-CBCC` [high] Equal partnerships only work with ruthless self-selection into people who bring equal value; the structure is a filter, not a fairness doctrine.
 - `INS-260405-ED7E` [high] 41% of European scaleup funding comes from American investors, meaning Europe builds great companies but exports most of the upside.
 - `INS-260404-92AA` [high] European funds born 2012-2015 are stuck: no exits, inflated valuations, and LPs unwilling to commit to a third vehicle without proven returns.
 - `INS-260403-0BD4` [high] A change in exit multiple from optimistic to realistic can flip a deal from fund-maker to pass.
@@ -65,6 +66,7 @@
 - `INS-260403-B008` [high] Government employees optimize for decisions that can be justified if they fail, which is the exact opposite of good venture investing.
 - `INS-260404-F01F` [high] Biotech and health companies captured 53% of all US Series A funding in early 2024, totaling $5.6B across 110 rounds.
 - `INS-260404-ADEE` [high] 44% of US unicorn founders are foreign-born, with India leading, making immigrant entrepreneurship a structural driver of venture capital returns.
+- `INS-260410-6E01` [high] Missing Google or Facebook costs more than a dozen Webvans, so the correct bias in venture is toward aggressive pursuit of any plausible outlier.
 - `INS-260403-693C` [high] Index Ventures is reaping $11B+ from concentrated bets on Figma, Wiz, and Scale AI, positioning it as the new Sequoia.
 - `INS-260403-C732` [high] Bold investing comes from understanding the domain well enough to recognize asymmetric upside, not from reckless risk appetite.
 - `INS-260403-3562` [high] Larger venture funds require exponentially larger exits to deliver target returns, creating a structural disadvantage.
@@ -79,6 +81,7 @@
 - `INS-260403-C838` [high] MOIC flatters slow capital while IRR exaggerates quick wins — you need both to see reality.
 - `INS-260403-268C` [high] Money attempts to be a reliable IOU from society but degrades through printing, theft, and reneging — making wealth-in-assets more durable than wealth-in-money.
 - `INS-260404-2C23` [high] Rubrik's 133% net retention rate proved to investors that growth was organic and sustainable, not acquisition-dependent.
+- `INS-260410-FC55` [high] eBay returned 92x the fund because it was already working at the time of investment — the 'risk' was purely in how the UI looked and what people were selling (beanie babies).
 - `INS-260404-8881` [high] OpenAI's $40B raise drove US VC funding to $85.5B in Q1 2025, masking a tough environment for early-stage startups.
 - `INS-260403-EA28` [high] A founder's ownership percentage says nothing about their actual exit payout — only waterfall analysis that accounts for liquidation preference stacking reveals real economics.
 - `INS-260405-EB05` [high] Investing at a $16M post-money and watching the company raise at $250M post-money looks like 15.6x on paper but nets only 5.5x after accounting for dilution from subsequent rounds.
@@ -102,6 +105,7 @@
 - `INS-260403-B224` [high] Top-performing VCs reserve 30-50% of fund capital specifically for follow-on investments in breakout companies.
 - `INS-260403-CBFF` [high] VC firms generate far higher revenue per employee than SaaS companies because their model leverages capital rather than headcount.
 - `INS-260405-C49E` [high] Multiple billion-dollar-plus continuation vehicles and secondaries funds closed in Q1 2026, reflecting permanent structural demand on both the LP and GP sides.
+- `INS-260410-F026` [high] The eBay deal likely included 1.5M of founder secondary — and that may have been what prevented Pierre from selling to Knight Ridder for 50M instead of building a 21B company.
 - `INS-260403-8291` [high] Seniority in investing creates anchoring bias that filters out novel categories.
 - `INS-260403-2241` [high] Small funds win by owning more of fewer outliers rather than spreading thin across large portfolios.
 - `INS-260403-A2A6` [high] Stanford research shows smaller funds thrive with one unicorn while mega-funds must chase decacorns to generate meaningful returns.

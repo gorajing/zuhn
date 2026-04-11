@@ -51,6 +51,7 @@ related:
   - PRI-260321-2DF0
   - INS-260327-8682
   - INS-260327-2695
+  - INS-260410-9E97
 stance: >-
   Affirm, Klarna, and Afterpay turned short-term loans from large essentials
   into everyday impulse purchases

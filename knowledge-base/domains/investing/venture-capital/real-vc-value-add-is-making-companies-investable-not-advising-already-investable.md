@@ -49,9 +49,9 @@ stance: >-
 related:
   - INS-260329-8E89
   - INS-260329-27DF
+  - INS-260410-C56B
   - INS-260329-3D14
   - INS-260403-87D9
   - INS-260403-30A5
-  - INS-260327-482E
 ---
 When Trade Republic had a toxic cap table with the seed investor owning too much, every other VC passed. Creandum's Johan Brenner convinced the seed investor to restructure, making the company investable. This created exclusive deal access — Trade Republic's CEO later admitted Creandum's was the only term sheet they received. Most VC 'value-add' claims (introductions, hiring help, strategic advice) are commodity services any top firm can offer. But doing the unglamorous structural work — cap table restructuring, licensing negotiations, regulatory navigation — that makes a company fundable is rare, defensible, and creates genuine proprietary deal flow. The firms that win the best deals are often the ones willing to do work that doesn't scale.

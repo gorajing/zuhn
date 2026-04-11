@@ -50,7 +50,6 @@ stance: >-
   better product, making distribution the most durable competitive moat
 related:
   - INS-260322-3C3D
-  - INS-260326-A0B4
   - INS-260327-472A
   - INS-260329-CBF6
   - INS-260329-793D
@@ -59,6 +58,7 @@ related:
   - INS-260330-697F
   - INS-260403-0B14
   - INS-260403-AEAF
+  - INS-260403-7E95
 ---
 Investors and founders alike observe that companies with solid products regularly get beaten by competitors with superior distribution. This isn't an edge case — it's a consistent pattern across industries. The reason is structural: product advantages are increasingly ephemeral (especially in AI where capabilities converge quickly), while distribution advantages compound over time through network effects, community trust, and channel ownership.
 

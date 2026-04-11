@@ -56,7 +56,6 @@ stance: >-
   feedback loop that only founders possess.
 related:
   - INS-260324-8FB4
-  - INS-260323-E9E4
   - INS-260323-73AB
   - INS-260323-1975
   - PRI-260328-E921
@@ -65,6 +64,7 @@ related:
   - PRI-260406-CCAE
   - INS-260327-A815
   - PRI-260327-7924
+  - INS-260327-CEA6
 ---
 Pete Kazanjy from YC makes the case that sales before product-market fit is a completely different activity from sales after PMF. Pre-PMF sales requires vision (selling what the product will become), credibility (being the expert who built it), constant experimentation, and a tight feedback loop with the engineering team. These are founder skills, not sales rep skills.
 

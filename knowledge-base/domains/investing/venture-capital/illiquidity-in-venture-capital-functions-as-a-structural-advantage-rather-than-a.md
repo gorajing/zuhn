@@ -53,6 +53,6 @@ related:
   - PRI-260406-6287
   - INS-260404-0475
   - PRI-260406-0A0B
-  - INS-260403-E294
+  - INS-260410-F366
 ---
 Illiquidity is conventionally viewed as a disadvantage — investors cannot easily exit positions, creating risk. But in venture capital, this illiquidity serves a structural purpose: it prevents LPs and GPs from making short-term reactive decisions that would destroy value. Companies building transformative products need years of patient capital, and the locked-up structure of VC funds ensures this patience is enforced rather than optional. The illiquidity premium — the excess return investors earn for accepting inability to sell — is well-documented, but the argument goes further: illiquidity also filters the investor base to those with genuine long-term orientation, creating better alignment between capital providers and founders. This framing is particularly relevant as secondary markets grow; while secondaries add flexibility, they also risk eroding the very illiquidity advantage that makes venture returns possible.

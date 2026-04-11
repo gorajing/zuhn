@@ -48,7 +48,6 @@ stance: >-
   solved problem.
 related:
   - INS-260320-70FA
-  - INS-260323-40AA
   - INS-260327-2718
   - INS-260327-B387
   - INS-260327-F405
@@ -57,6 +56,7 @@ related:
   - INS-260403-C3DF
   - INS-260403-9689
   - INS-260404-C720
+  - INS-260403-EDFC
 evidence:
   - id: INS-260322-3263
     type: CHALLENGES

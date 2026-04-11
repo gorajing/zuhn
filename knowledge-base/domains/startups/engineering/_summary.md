@@ -1,10 +1,11 @@
 # Topic: engineering
 
-> 27 insights
+> 28 insights
 
 - `INS-260404-4130` [high] Building the language up toward the problem lets small teams punch far above their weight.
 - `INS-260403-3A9D` [high] Yahoo's choice to call itself a media company caused it to treat programming as commodity work, which destroyed product quality.
 - `INS-260330-72D0` [high] Building height is capped by when base materials crush under their own weight, making material science the true bottleneck.
+- `INS-260410-F31C` [high] Google leased data center space by square footage rather than power, which forced them to maximize density with cork-board server racks and commodity parts — ultimately producing 87% gross margins on search that Yahoo, Alta Vista, and Inktomi could never match on enterprise hardware.
 - `INS-260404-AF08` [high] Viaweb did continuous releases in 1997 and fabricated version numbers only because the trade press expected them.
 - `INS-260330-2200` [high] GitHub stars and green squares measure visibility and gaming, not engineering skill.
 - `INS-260403-89A5` [high] Chasing trendy tech stacks is identity performance, not engineering decision-making.

@@ -51,7 +51,6 @@ stance: >-
   Waymo's 15M annual rides and 90% injury reduction prove autonomous driving has
   graduated from speculative technology to scalable public infrastructure.
 related:
-  - INS-260322-888D
   - INS-260327-500C
   - INS-260403-EDDC
   - INS-260410-8DDD

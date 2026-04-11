@@ -48,7 +48,6 @@ resolutions:
     emotional control become the primary talent-attraction mechanism.
 related:
   - INS-260322-70DD
-  - INS-260322-D57C
   - INS-260323-9A93
   - PRI-260405-608A
   - PRI-260403-7D1F
@@ -57,6 +56,7 @@ related:
   - INS-260327-1EC4
   - INS-260329-78CB
   - INS-260329-C92A
+  - INS-260330-A69C
 stance: >-
   To scale without working more, accept lower short-term profitability to hire
   people whose capabilities pull the business up beyond what you could d...

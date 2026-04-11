@@ -19,12 +19,12 @@
 - `INS-260404-9FBC` Ramp's 153% YoY growth at $1B revenue is 10x the median public SaaS growth rate, suggesting AI-native business models resist typical growth deceleration.
 - `INS-260403-E503` 65% of VCs weigh anticipated exit opportunities as the key valuation determinant, with competitor benchmarks (60%) as secondary anchor.
 - `INS-260404-25FF` VCs set valuations by discounting a projected exit value by their required return, not by analyzing current cash flows or fundamentals.
-- `INS-260403-A07A` Investors psychologically resist paying higher prices for companies they already own, even when new information strongly supports the higher valuation.
 - `INS-260322-06EA` Every round of Facebook, Stripe, and similar companies was called 'insane' by consensus — Yuri Milner invested at $5B because he'd run a social network and could do math others couldn't.
+- `INS-260403-A07A` Investors psychologically resist paying higher prices for companies they already own, even when new information strongly supports the higher valuation.
 - `INS-260404-A2C4` AI companies appear at every valuation tier from $10B to $157B across radically different verticals, confirming AI as a horizontal platform shift.
 - `INS-260405-70D4` Shield AI's 140% valuation jump in one year reflects that government defense AI contracts produce lock-in dynamics more durable than most commercial software.
-- `INS-260409-0988` Once you're a zombie, the odds of getting rich from acquisition are effectively nil — your revenue doesn't move the acquirer's needle.
 - `INS-260330-D63C` At PayPal in 2001, 75% of the company's value came from projected cash flows in 2011 and beyond — proving that durability, not growth rate, dominates value equations.
+- `INS-260409-0988` Once you're a zombie, the odds of getting rich from acquisition are effectively nil — your revenue doesn't move the acquirer's needle.
 - `INS-260403-6E4C` Big Tech is acquiring AI startup teams in quiet sub-$20M deals as founders who raised too much hit AI headwinds.
 - `INS-260402-3D34` Excessive early dilution locks in low valuations that create down-round dynamics or insufficient upside for later-stage investors.
 - `INS-260403-7DC7` Cost-to-Duplicate valuation rewards spending over efficiency, creating a paradox where lean teams must argue beyond cost to get fair valuations.
@@ -55,7 +55,7 @@
 - `INS-260403-EFAC` Demonstrating pain-product fit to investors yields dramatically higher close rates and better terms.
 - `INS-260403-001C` The VC Method estimates future exit value then discounts back to today using target return rates, bypassing the need for cash flow history.
 - `INS-260405-DADB` VCs explicitly screen for network effects because they are the strongest defensibility mechanism in software — each new user increases value for all users.
-- `INS-260403-DAFA` Dealroom's 2025 VC ranking weights two-thirds of scores on real revenue milestones rather than growth narratives.
 - `INS-260405-180A` Lacework's near-total value destruction illustrates how much 2021 unicorn valuations were driven by rate environment rather than business quality.
 - `INS-260405-4CDA` The 1980s leveraged buyout wave succeeded partly because corporate balance sheets never formalized the debt owed to employees for deferred promotion promises.
 - `INS-260403-B228` Valuation reflects how much uncertainty remains — momentum can inflate it temporarily but markets always revert to evidence.
+- `INS-260403-DAFA` Dealroom's 2025 VC ranking weights two-thirds of scores on real revenue milestones rather than growth narratives.

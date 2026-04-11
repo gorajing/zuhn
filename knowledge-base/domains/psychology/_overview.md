@@ -1,6 +1,6 @@
 # Domain: psychology
 
-> 2289 insights across 24 topics
+> 2292 insights across 24 topics
 
 ## Topics
 
@@ -25,7 +25,7 @@
 | mental-models | 88 | Computers are fully explainable bottom-up from electricity through logic gates to instructions — there is no magical layer, only layers of abstraction humans haven't personally traversed. |
 | negotiation | 16 | SEIU weaponized ballot initiatives as destruction threats to extract concessions worth 16x their investment. |
 | perception | 304 | A 13-hour course with 7.6M views shows audiences will commit to extreme depth when they trust the source. |
-| persuasion | 53 | Steady accumulation of documented incidents shifts opinion more than any single dramatic event because patterns resist counter-narrative. |
+| persuasion | 56 | Steady accumulation of documented incidents shifts opinion more than any single dramatic event because patterns resist counter-narrative. |
 | physics-intuition | 85 | Light's regularity means its full 3D state is determined by its values on any 2D boundary surface. |
 | relationships | 87 | Psychologist Sonja Lyubomirsky's analysis estimates 50% of happiness is genetic set point, 10% is circumstances, and 40% is under our control. |
 | resilience | 175 | Start documenting purposefully at your lowest point — that's when commitment crystallizes and the 'never again' story begins. |

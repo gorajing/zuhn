@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-11 | 4751 actionable insights
+Generated on 2026-04-11 | 4765 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1033,6 +1033,7 @@ Generated on 2026-04-11 | 4751 actionable insights
 
 ## investing/business-analysis
 - [INS-260410-91A6] Every generational operator — Buffett, Carnegie, Rockefeller, Izzy Sharp, Ogilvy — grew fastest during downturns by deploying capital into advertising, acquisitions, and hiring while panicked competitors cut back.
+- [INS-260410-9A20] Staged 'busy office' tours are a fraud tell — real businesses don't need to fake activity for visiting analysts.
 
 ## investing/fintech
 - [INS-260323-825F] The greatest financial innovations came from outsiders — a physicist who counted cards, a mathematician who broke Russian codes, and Einstein's Brownian motion theory — because pattern recognition transfers across domains.
@@ -1198,6 +1199,9 @@ Generated on 2026-04-11 | 4751 actionable insights
 - [INS-260403-E503] 65% of VCs weigh anticipated exit opportunities as the key valuation determinant, with competitor benchmarks (60%) as secondary anchor.
 - [INS-260404-25FF] VCs set valuations by discounting a projected exit value by their required return, not by analyzing current cash flows or fundamentals.
 - [INS-260403-1E34] Warrants attached to mezzanine deals are a mechanically calculated risk price, and treating them as vague upside leads founders to underestimate dilution.
+- [INS-260410-6E01] Missing Google or Facebook costs more than a dozen Webvans, so the correct bias in venture is toward aggressive pursuit of any plausible outlier.
+- [INS-260410-FC55] eBay returned 92x the fund because it was already working at the time of investment — the 'risk' was purely in how the UI looked and what people were selling (beanie babies).
+- [INS-260410-F026] The eBay deal likely included 1.5M of founder secondary — and that may have been what prevented Pierre from selling to Knight Ridder for 50M instead of building a 21B company.
 
 ## music-production/music-marketing
 - [INS-260321-13EA] Release on Friday (international release day) with minimum 4 weeks from master delivery — things go wrong with aggregators, you need time to pitch DSPs, and thinking 'I'll release on Tuesday to fox them' is thinking small.
@@ -2088,6 +2092,8 @@ Generated on 2026-04-11 | 4751 actionable insights
 - [INS-260409-3064] People comment to correct what they think is wrong, so contrarian framing is a reliable comment-rate multiplier.
 - [INS-260409-241B] Naming a specific cult-loved brand instead of a generic category gives viewers a pre-formed opinion to defend or attack in the comments.
 - [INS-260409-30DE] 'This is the best way to cook pasta' drives fewer comments than 'this pasta is better than every mom-and-pop pasta shop in the world'; intensity scales engagement.
+- [INS-260410-1D64] Coca-Cola's early team intuited that you don't want customers thinking about headaches and nervousness when they reach for your drink — you want them thinking about happiness, friendship, and Christmas.
+- [INS-260410-8122] 'Melts in your mouth, not in your hand' sold parents on M&M's by addressing the hidden fear of chocolate-smeared furniture, not the kids' desire for candy.
 
 ## psychology/physics-intuition
 - [INS-260330-AE9C] Abstract proofs and concrete examples serve complementary roles: proofs guarantee generality, examples build understanding.
@@ -2469,6 +2475,7 @@ Generated on 2026-04-11 | 4751 actionable insights
 
 ## startups/company-culture
 - [INS-260405-AC40] Costco pays double the retail average wage and reports three times the productivity, suggesting high wages are a competitive lever rather than a constraint.
+- [INS-260410-C56B] Conflict-averse CEOs systematically transfer shareholder value to anyone willing to make a fuss, because the path of least resistance is always to pay them off.
 
 ## startups/competitive-strategy
 - [INS-260322-7282] Owning the full workflow from intake to outcome generates proprietary data that public models can't replicate — creating a compounding competitive advantage.
@@ -2698,6 +2705,7 @@ Generated on 2026-04-11 | 4751 actionable insights
 - [INS-260410-2CED] Bismarck overturned the European balance of power by framing each of three wars as limited and local, so rivals never coordinated against him.
 - [INS-260410-AF68] Bill Gates licensed Microsoft BASIC to Apple for just $31,000 because his goal was to be the default programming language on every microcomputer, not to extract maximum revenue per deal.
 - [INS-260410-8F36] Bill Gates made 'exponential phenomena cannot be ignored' a core Microsoft value after recognizing the internet's compounding growth in 1994.
+- [INS-260410-9E97] Porsche's Carrera GT (2003) and 918 Spyder (2013) were released alongside the Cayenne and Panamera expansion specifically to 'put cash back in the brand equity bank' while the SUVs and sedans were drawing on it.
 
 ## startups/content-strategy
 - [INS-260329-3332] A single 4+ hour comprehensive tutorial can accumulate millions of views over years by dominating 'full course' search queries.
@@ -3016,6 +3024,7 @@ Generated on 2026-04-11 | 4751 actionable insights
 - [INS-260410-0826] Gallipoli failed because the navy telegraphed the landing two months in advance; Normandy succeeded because every service moved together after years of disinformation.
 - [INS-260410-F69C] Steve Ballmer reflected that Microsoft's worst mistakes 'only lost money' — the real cost was the best engineers sunk into projects like Vista instead of competing in search, mobile, and social.
 - [INS-260410-66E4] Lalit Modi orchestrated a $1B media deal, $400M+ in franchise auctions, and Bollywood ownership for a sports league that had never existed by capping every party's year-one cash exposure to the smallest amount that signaled credible commitment.
+- [INS-260410-7224] Dee Hock insisted on 9-month deadlines for Visa's entire authorization and settlement systems because he believed engineers will always consume whatever time you give them.
 
 ## startups/exits
 - [INS-260409-143C] Give yourself two months to try for acquisition, then shut down — no time frame means no exit.
@@ -3847,6 +3856,7 @@ Generated on 2026-04-11 | 4751 actionable insights
 - [INS-260403-76B7] Find one channel where you can win and double down until diminishing returns before diversifying.
 - [INS-260402-C301] Self-distributing AI features fall into three archetypes: outputs that spread awareness (viral artifacts), features that make users show off usage (status loops), and systems that improve with more data (data flywheels).
 - [INS-260410-8C24] Microsoft sold to the enterprise by leveraging the fact that employees had already smuggled Excel and Word into their offices personally — turning employee love into the wedge for top-down enterprise deals.
+- [INS-260410-DCE5] Google initially begged early portals to include 'Powered by Google' attribution on their search results pages — which trained tens of millions of users that Google meant high-quality search, eventually making the Google brand a value proposition that portals wanted rather than resisted.
 
 ## startups/health-innovation
 - [INS-260403-DC6C] Photosynthesis is explicitly inefficient and complicated yet powers all life on Earth — adequacy under real constraints beats theoretical optimization.
@@ -3906,6 +3916,7 @@ Generated on 2026-04-11 | 4751 actionable insights
 - [INS-260403-E9F5] Work trials give hiring managers direct observation of actual work output, eliminating the performance-vs-productivity gap that plagues traditional interviews.
 - [INS-260410-2952] Church explicitly hires for niceness and multidisciplinarity over genius, producing an international alumni network that cooperates across supposedly cutthroat fields and spawns 100+ companies.
 - [INS-260410-E076] Dwarkesh received ~1000 applications for a chief-of-staff role through his large platform, but ended up hiring (and finding top contenders) via mutual friends — evidence that elite generalists don't self-apply.
+- [INS-260410-362D] Epic hires almost exclusively from Midwestern colleges regardless of major, gives programming-test-based offers with no interview, and then drills them for six months in 'the Epic way'—down to how to take notes on a legal pad and write emails.
 
 ## startups/ideation
 - [INS-260321-E471] Most founders filter out ideas requiring more than two years to work, so simply imagining ideas with longer timelines dramatically reduces competition.
@@ -4201,6 +4212,8 @@ Generated on 2026-04-11 | 4751 actionable insights
 - [INS-260409-1BFD] Availability friction raises perceived value; waiting lists create the FOMO that 'buy now' buttons destroy.
 - [INS-260409-5FE5] Two loss frames beat one — 'limited seats' plus 'locked-in price forever' creates urgency that neither alone can match.
 - [INS-260410-93E3] David Ogilvy's principle that audiences are a moving parade means your back catalog keeps converting new listeners/readers forever, making re-exposure to proven material more ROI-positive than chasing novelty.
+- [INS-260410-C070] Frank Robinson dropped Coca-Cola's 'sovereign remedy for headache and nervousness' messaging and repositioned it as 'delicious and refreshing' — the product was identical, but he was advertising to the masses instead of the few.
+- [INS-260410-3E0A] Coke pivoted from describing what the drink does ('delicious and refreshing') to associating it with happiness, family, Christmas, and sports heroes — and that extrinsic association is what compounded into a $300B brand.
 
 ## startups/mental-models
 - [INS-260330-C0D1] If a system is linear, tracking what happens to a few basis cases lets you predict outcomes for all possible inputs.
@@ -4423,6 +4436,7 @@ Generated on 2026-04-11 | 4751 actionable insights
 - [INS-260405-28DF] Viability is table stakes; competitive differentiation must be designed in from day one.
 - [INS-260403-2D39] Redpoint's framework demands a narrow high-urgency use case with real user love that naturally expands into larger product surfaces where quality sustains pricing power.
 - [INS-260410-2424] After Lotus 1-2-3 destroyed Microsoft Multiplan on the IBM PC, Microsoft shelved it and built Excel for the Macintosh GUI — being first and best on the next platform rather than trying to claw back the current one.
+- [INS-260410-58F2] The weight-loss effect of liraglutide was observed in rat trials years before Novo pursued it — overcoming internal stigma, not science, was the bottleneck.
 
 ## startups/quality
 - [INS-260330-FA4D] Byron Ferguson spine-tests every arrow and discards out-of-tolerance ones before they ever enter his quiver — precision is built in preparation, not performance.

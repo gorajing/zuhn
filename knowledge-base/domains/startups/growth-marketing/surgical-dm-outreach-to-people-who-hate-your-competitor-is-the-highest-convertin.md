@@ -52,6 +52,7 @@ related:
   - INS-260329-DAC4
   - INS-260327-7AB5
   - INS-260327-472A
+  - INS-260410-C070
 stance: >-
   Find people on social media who publicly complain about the product you're
   replacing, build genuine trust, then offer your alternative
