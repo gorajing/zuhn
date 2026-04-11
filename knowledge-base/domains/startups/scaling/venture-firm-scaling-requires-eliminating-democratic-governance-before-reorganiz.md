@@ -48,7 +48,6 @@ stance: >-
   reorganization redistributes power, and partners voting on their own power
   redistribution will always optimize locally.
 related:
-  - INS-260326-0C14
   - INS-260328-896B
   - INS-260330-7BF5
   - INS-260330-E4D9

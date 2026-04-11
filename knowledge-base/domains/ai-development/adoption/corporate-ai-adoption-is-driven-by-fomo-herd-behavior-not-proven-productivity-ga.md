@@ -54,6 +54,7 @@ related:
   - INS-260403-29AC
   - INS-260321-1A0B
   - INS-260322-D7B1
+  - INS-260410-A365
 stance: >-
   Companies adopt AI because competitors are adopting it, not because ROI is
   proven — employees are measured on chatbot usage, not actual productivity.

@@ -64,6 +64,7 @@ related:
   - PRI-260406-CA09
   - PRI-260328-A4AC
   - PRI-260328-43F1
+  - INS-260410-58A5
 ---
 Harvey went straight to Allen & Overy, one of the world's largest law firms, and co-built ContractMatrix rather than trying to acquire thousands of small legal practices. That single partnership gave Harvey instant credibility in a market where adoption flows downstream — when smaller firms see an apex player using a tool, they adopt it for prestige as much as utility.
 

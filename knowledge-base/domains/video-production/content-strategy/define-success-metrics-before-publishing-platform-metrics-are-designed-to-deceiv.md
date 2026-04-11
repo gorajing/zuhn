@@ -50,10 +50,10 @@ stance: >-
   when your actual goals are not being met.
 related:
   - PRI-260327-5635
+  - INS-260410-419F
   - INS-260322-E22A
   - INS-260403-0AE1
   - PRI-260407-2E0F
-  - INS-260403-0949
 evidence:
   - id: INS-260329-3D3E
     type: SUPPORTS

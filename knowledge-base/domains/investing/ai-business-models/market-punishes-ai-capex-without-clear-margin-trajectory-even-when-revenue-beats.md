@@ -58,11 +58,11 @@ related:
   - PRI-260323-68F0
   - PRI-260321-05B5
   - INS-260327-505A
-  - INS-260330-9DE6
   - INS-260403-CF98
   - INS-260403-8EE8
   - INS-260321-CBD2
   - INS-260403-5056
+  - INS-260403-C838
 ---
 The Q3 2025 earnings pattern reveals a maturing investor framework for evaluating AI bets. Microsoft dropped ~3% despite beating Azure growth expectations because management admitted being 'short on capacity'—implying missed near-term revenue and continued capex pressure. Meta's stock plunged ~11% as $97B in planned capex (nearly double prior year) overshadowed record $51B quarterly revenue.
 

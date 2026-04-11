@@ -5,24 +5,16 @@
 - `INS-260405-C987` Speculators generate corposlop; info buyers face a public-goods problem; only hedgers provide a structurally sound, recurring source of market liquidity
 - `INS-260405-C88A` Agricultural consolidation reshapes who bears risk and who captures value faster than any technology innovation cycle.
 - `INS-260403-B008` Government employees optimize for decisions that can be justified if they fail, which is the exact opposite of good venture investing.
-- `INS-260410-0575` Soviet planners couldn't know actual productivity, capital value, or consumer preferences because every subunit lied about inventories and needs, and the lies aggregated upward until top leadership was navigating on garbage data.
-- `INS-260326-6C36` The First Crusade succeeded precisely because its leaders had competing personal motives, all channeled by the overwhelming narrative of spiritual salvation.
-- `INS-260405-32D8` Both Micron's $100B NY megafab and xAI's Mississippi data center received state tax exemptions, confirming that government incentives are structural prerequisites for domestic semiconductor and compute investment.
-- `INS-260323-E204` Pentagon officials write defense contracts, leave for defense contractor board seats, then return to government positions -- creating a self-reinforcing cycle where the people making war decisions directly profit from perpetuating war.
-- `INS-260330-F324` When your audience is built on tribal identity rather than expertise, changing your position is an extinction-level business event.
-- `INS-260403-6C88` Chamath's admission that Facebook's team wishes they'd been more careful proves that competitive pressure overrides good intentions without external constraints.
-- `INS-260330-95E8` OpenAI succeeded commercially because it needed revenue to sustain research; Google DeepMind underperformed commercially because Google's deep pockets removed the urgency.
-- `INS-260405-3554` Founders misunderstand what VCs are optimized for, and VCs misunderstand how founders emotionally relate to their company — this mutual misreading creates predictable friction at board level.
-- `INS-260402-6D5E` Historical evidence shows wealth creation switches on and off like a fan depending on whether creators are allowed to keep their gains.
-- `INS-260405-339F` Idea-friendly cultures are not values-based — they're incentive-selected, which means they're replicable wherever the incentives align.
-- `INS-260330-DE65` Labs forced to monetize their research (like OpenAI) consistently out-commercialize well-funded labs (like Google Brain/DeepMind) because financial pressure drives product focus.
-- `INS-260330-13EE` Both Germany and Japan expanded primarily to secure food and resource self-sufficiency, not to spread ideology.
 - `INS-260410-7FA4` Vaccination and scurvy's cure took centuries to discover despite killing millions, showing that intrinsic problem difficulty, not weak motivation, is often the binding constraint.
 - `INS-260403-70F0` Baby bonuses work directionally but the effect size is so small that reaching replacement fertility through payments alone would cost astronomically more than any government would spend.
 - `INS-260409-AD0C` Galef distinguishes three decision categories: (1) concrete everyday choices where scout thinking comes naturally (what to eat), (2) ideological issues where incentives push toward self-deception (politics, religion), (3) important personal decisions with competing scout/soldier incentives (career, marriage, parenting) — each requires a different calibration of vigilance.
 - `INS-260405-E05D` The right to pitch future articles and sidebar placement may be worth more to a writer than the $2,500 first prize.
 - `INS-260403-5137` An 81.7% overturn rate on prior authorization denials means the system functions as a friction filter rather than a genuine decision-making process.
 - `INS-260403-6602` Attack the wealth-to-power conversion through radical transparency rather than attacking wealth itself, which has destructive side effects on innovation.
+- `INS-260410-0575` Soviet planners couldn't know actual productivity, capital value, or consumer preferences because every subunit lied about inventories and needs, and the lies aggregated upward until top leadership was navigating on garbage data.
+- `INS-260326-6C36` The First Crusade succeeded precisely because its leaders had competing personal motives, all channeled by the overwhelming narrative of spiritual salvation.
+- `INS-260405-32D8` Both Micron's $100B NY megafab and xAI's Mississippi data center received state tax exemptions, confirming that government incentives are structural prerequisites for domestic semiconductor and compute investment.
+- `INS-260323-E204` Pentagon officials write defense contracts, leave for defense contractor board seats, then return to government positions -- creating a self-reinforcing cycle where the people making war decisions directly profit from perpetuating war.
 - `INS-260330-3260` Saying 'Hitler was bad' doesn't get algorithmic boost, but novel contrarian revisionism does — creating structural incentives for misinformation.
 - `INS-260330-77D1` Goldman Sachs earned ~200x their normal fees on 1MDB bond deals, creating an overwhelming financial incentive to suppress internal questions about fund legitimacy.
 - `INS-260403-7E8E` The most effective orthodoxy rules are superficial — easy to follow, yet grant moral superiority, making them attractive to people who lack genuine virtue.
@@ -31,3 +23,12 @@
 - `INS-260403-39E9` Dismissing new ideas earns reliable social status while pursuing them only pays off probabilistically, creating a structural bias toward criticism.
 - `INS-260330-1293` North Korea maintains stability by selectively tolerating illegal capitalism rather than cracking down uniformly, turning potential dissidents into co-opted participants.
 - `INS-260330-7E3F` Non-experts in public discourse play 'tennis without a net' — they can swing as hard as they want with no penalty for errors, while real experts face career consequences for every mistake.
+- `INS-260330-F324` When your audience is built on tribal identity rather than expertise, changing your position is an extinction-level business event.
+- `INS-260403-6C88` Chamath's admission that Facebook's team wishes they'd been more careful proves that competitive pressure overrides good intentions without external constraints.
+- `INS-260410-4C9D` Amazon Marketplace let third-party sellers win the buy-box on Amazon's own product pages, which torched category managers' P&L—a move only a founder could force through.
+- `INS-260330-95E8` OpenAI succeeded commercially because it needed revenue to sustain research; Google DeepMind underperformed commercially because Google's deep pockets removed the urgency.
+- `INS-260405-3554` Founders misunderstand what VCs are optimized for, and VCs misunderstand how founders emotionally relate to their company — this mutual misreading creates predictable friction at board level.
+- `INS-260402-6D5E` Historical evidence shows wealth creation switches on and off like a fan depending on whether creators are allowed to keep their gains.
+- `INS-260405-339F` Idea-friendly cultures are not values-based — they're incentive-selected, which means they're replicable wherever the incentives align.
+- `INS-260330-DE65` Labs forced to monetize their research (like OpenAI) consistently out-commercialize well-funded labs (like Google Brain/DeepMind) because financial pressure drives product focus.
+- `INS-260330-13EE` Both Germany and Japan expanded primarily to secure food and resource self-sufficiency, not to spread ideology.

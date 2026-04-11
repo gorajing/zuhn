@@ -8,5 +8,5 @@
 - `INS-260404-D3C3` Large fund launches across multiple hot sectors simultaneously suggest narrative-chasing capital rotation rather than broad market growth.
 - `INS-260403-EA15` When investors lost confidence in the US dollar, they sold Bitcoin alongside stocks rather than buying it as a hedge, disproving the digital gold narrative.
 - `INS-260322-96F1` The entire GameStop crisis was caused by an archaic settlement system (T+1) that requires collateral posting for trades that have already occurred — tokenization eliminates this by enabling instant settlement.
-- `INS-260403-4FA4` For unbanked populations, crypto payment rails solve concrete problems — transparent payments, digital credit history, lower costs — that traditional banks refuse to address.
 - `INS-260330-CECB` SafeMoon holders who lost 99% of their investment doubled down and formed cult-like communities because acknowledging the scam would mean admitting devastating personal failure.
+- `INS-260403-4FA4` For unbanked populations, crypto payment rails solve concrete problems — transparent payments, digital credit history, lower costs — that traditional banks refuse to address.

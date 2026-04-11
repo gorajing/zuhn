@@ -53,7 +53,6 @@ stance: >-
   structurally forced to compete on customer value rather than margin
   extraction, making customer interests and company interests identical.
 related:
-  - INS-260327-58AC
   - INS-260327-50CE
   - INS-260404-B8AE
   - INS-260404-EAA7

@@ -63,7 +63,6 @@ related:
   - INS-260322-D6B8
   - INS-260327-E546
   - INS-260329-7AAB
-  - INS-260328-C2CB
 evidence:
   - id: INS-260329-7AAB
     type: SUPPORTS

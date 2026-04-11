@@ -57,10 +57,10 @@ stance: >-
   lending
 related:
   - INS-260405-AB6B
+  - INS-260410-490C
   - INS-260330-EEED
   - INS-260403-3760
   - INS-260330-9751
-  - INS-260321-C6C0
 ---
 Democratized Prime runs hourly Dutch auctions where lenders submit minimum acceptable rates and borrowers submit maximum payable rates, with smart contracts clearing at the intersection. This replaces the traditional warehouse lending model where rates are negotiated bilaterally between banks and originators behind closed doors.
 

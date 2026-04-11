@@ -65,6 +65,7 @@ stance: >-
   repeatability creates leverage that investors will fund.
 related:
   - INS-260324-748A
+  - INS-260410-E71E
   - INS-260330-2492
   - INS-260403-8391
   - INS-260403-4120

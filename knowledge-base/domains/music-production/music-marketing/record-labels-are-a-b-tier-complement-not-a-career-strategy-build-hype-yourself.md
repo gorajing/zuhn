@@ -50,10 +50,11 @@ stance: >-
   currently hot labels.
 related:
   - PRI-260322-DC5E
-  - INS-260327-442D
   - INS-260330-7882
+  - INS-260410-2632
   - PRI-260406-FCF0
-  - INS-260321-3312
+  - INS-260410-F455
+  - INS-260327-442D
 evidence:
   - id: INS-260327-2BE1
     type: SUPPORTS

@@ -1,7 +1,6 @@
 # Tag: meaning
 
 - `INS-260323-87F3` Using AI to rewrite emotional messages or generate personal speeches eliminates the meaningful human struggle from communication.
-- `INS-260405-56CB` Self-employment is the shallow reading; self-expression through work is the deep one.
 - `INS-260403-955F` Meaning emerges from friction, obligation, and inconvenience — optimizing these away optimizes away purpose itself.
 - `INS-260409-DBCF` The 'what story will remain?' frame is a cleaner decision filter than 'what do I want?' because terminal state is harder to fool.
 - `INS-260409-2093` Hassabis worries most about post-AGI philosophy — meaning, purpose, consciousness, what it is to be human — and says we lack modern philosophers equipped for it.
@@ -22,3 +21,4 @@
 - `INS-260330-48C6` The video's punchline — a programmer who becomes a farmer — illustrates that exiting status competition requires decoupling identity from professional achievement entirely.
 - `INS-260330-DA0B` Successful people who feel 'something is missing' are sensing their undeveloped willpower and unexplored potential, not lacking external achievements.
 - `INS-260326-4164` 78% of young Americans surveyed said finding meaning and purpose was their primary concern — only 16% said making money.
+- `INS-260405-56CB` Self-employment is the shallow reading; self-expression through work is the deep one.

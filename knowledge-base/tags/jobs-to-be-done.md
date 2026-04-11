@@ -2,6 +2,7 @@
 
 - `INS-260403-93E7` Feature-first thinking causes product-market fit failure; start with customer jobs, pains, and gains instead.
 - `INS-260403-A17D` Every successful newsletter can be described by the specific job it does for its reader.
+- `INS-260410-04EA` The quartz crisis killed the mechanical watch's job of accurate timekeeping, but a new job — signaling achievement and lifestyle — was waiting to be filled; Rolex survived by recognizing these were two different markets and refusing to compete on the dying one.
 - `INS-260321-2F09` Many AI founders fail because they build impressive demos that don't solve real painful jobs — if nobody asks about pricing, you don't have product-market fit.
 - `INS-260403-EF20` BioCity transformed their messaging from technical jargon about robotic compound retrieval to emotionally resonant language about control and budget maximization.
 - `INS-260405-95D1` Removing friction meets the baseline; gains require going beyond what customers already expect.

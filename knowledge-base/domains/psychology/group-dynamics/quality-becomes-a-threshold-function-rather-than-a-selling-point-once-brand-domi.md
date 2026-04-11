@@ -54,11 +54,11 @@ stance: >-
   a binary pass/fail threshold that must be maintained to preserve brand
   credibility.
 related:
+  - INS-260410-04EA
   - INS-260330-9DE6
   - INS-260403-4502
   - INS-260330-DBA4
   - INS-260323-144F
-  - INS-260322-627E
 evidence:
   - id: INS-260330-9DE6
     type: EXTENDS

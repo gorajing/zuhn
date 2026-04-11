@@ -1,6 +1,6 @@
 # Topic: learning
 
-> 241 insights
+> 242 insights
 
 - `INS-260329-66C7` [high] Charisma, patience, confidence — all traits are shorthand labels for clusters of small, observable, teachable behaviors like smiling on entry and remembering names.
 - `INS-260330-750A` [high] The Mongols became siege warfare experts and adopted gunpowder by interrogating prisoners and absorbing techniques from conquered peoples.
@@ -120,6 +120,8 @@
 - `INS-260329-8830` [high] Structuring tool instruction around escalating real-world projects produces better learning outcomes than feature-by-feature tutorials.
 - `INS-260329-820D` [high] Alternating between concept explanation and mini-projects creates natural retrieval practice and motivation loops.
 - `INS-260330-4FC5` [high] Schwarzschild solved Einstein's impossibly complex coupled differential equations by imagining the simplest possible universe - one point mass, no rotation, no charge - and still found black holes, white holes, and wormholes.
+- `INS-260410-0120` [high] Charlie Munger told Senra he made $400M from reading Barron's for 50 years based on a single idea he acted on — the math of extracting one actionable insight from curated deep work is why biography-reading is absurdly positive-EV.
+
 - `INS-260330-189F` [high] 3Blue1Brown's approach of describing a neural network as 'just a function that takes 784 numbers and outputs 10' demonstrates that reframing complex systems through familiar concepts accelerates comprehension.
 - `INS-260329-937E` [high] Reframing intimidating technical concepts using familiar analogues removes psychological barriers and accelerates comprehension.
 - `INS-260404-8ACB` [high] When work is framed as an experiment, every outcome — including failure — produces knowledge, removing the psychological cost of starting.

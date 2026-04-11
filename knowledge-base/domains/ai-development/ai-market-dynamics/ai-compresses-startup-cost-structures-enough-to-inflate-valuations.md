@@ -54,7 +54,7 @@ related:
   - INS-260403-A57D
   - INS-260403-4AB2
   - INS-260404-116E
-  - INS-260405-3240
+  - INS-260403-C5BD
 ---
 Tomasz Tunguz's analysis shows AI isn't just accelerating startup development cycles — it's fundamentally restructuring the cost basis. When AI copilots replace junior engineering hires, automate customer support, and generate marketing content, the resulting margin profile looks more like a mature software company than an early-stage startup.
 

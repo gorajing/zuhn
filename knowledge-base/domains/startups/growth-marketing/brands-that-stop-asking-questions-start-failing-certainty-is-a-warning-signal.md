@@ -51,8 +51,8 @@ related:
   - INS-260327-EF89
   - INS-260322-5A72
   - INS-260403-3F12
+  - INS-260410-F681
   - INS-260323-19A8
-  - PRI-260323-1B96
 stance: Successful brands ask fundamental questions and act fast on answers
 evidence:
   - id: INS-260323-5CBE

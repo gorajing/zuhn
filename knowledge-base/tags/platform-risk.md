@@ -12,4 +12,5 @@
 - `INS-260330-80A7` Vine died because it couldn't pay creators — when top Viners demanded $1.2M each annually and Twitter refused, they left, triggering a death spiral that killed the platform within two years.
 - `INS-260402-8D38` As AI summaries reduce click-through from Google, diversifying discovery channels from owned media to social platforms becomes a survival strategy.
 - `INS-260322-ABA0` Businesses that become one-dimensional on currently-working channels almost always see revenue halve rather than double, because platform shifts are inevitable.
+- `INS-260410-6D83` Start building your defensive option years before you deploy it — by the time the threat is real, you won't have time to stand up a world-class team from scratch.
 - `INS-260329-C893` If your growth depends on gaming a platform (SEO, app store, token issuance), expect a turkey graph — great until the platform changes, then instant death.

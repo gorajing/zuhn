@@ -52,7 +52,7 @@ related:
   - INS-260330-C4D4
   - INS-260404-D654
   - INS-260330-855A
+  - INS-260410-151D
   - INS-260403-9D7C
-  - INS-260330-C7FF
 ---
 Standard equity compensation uses time-based vesting (typically 4 years with a 1-year cliff), which guarantees employees accumulate ownership proportional to tenure. Event-only vesting—where shares vest only upon IPO or acquisition—breaks this contract by making employee compensation contingent on a corporate decision the employee cannot influence. The company retains full optionality: they can delay exits, fire employees before liquidity events to reclaim unvested shares, or simply never pursue an exit. This structure is particularly concerning at mature companies (10+ years, 200+ employees) where the 'startup' label masks what is functionally a private business choosing not to provide liquidity. Employees evaluating such offers should demand time-based vesting, cap table transparency, and information about past employee liquidity events.

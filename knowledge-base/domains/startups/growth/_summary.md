@@ -1,6 +1,6 @@
 # Topic: growth
 
-> 107 insights
+> 109 insights
 
 - `INS-260404-1A9D` [high] When an AI product cuts process time by 92%, the switching cost of NOT adopting it exceeds the cost of change, driving organic product-led growth.
 - `INS-260330-73A2` [high] Growth equals conversion minus churn, and reducing churn by 1% has the identical mathematical effect on growth as increasing conversion by 1%, but costs significantly less.
@@ -40,6 +40,7 @@
 - `INS-260404-9BC6` [high] In startups with superlinear growth, increasing growth rate by even 1% per week vastly outperforms doubling revenue extraction.
 - `INS-260330-A949` [high] If growth rate is strong, absolute numbers will take care of themselves — stop stressing about how small you currently are.
 - `INS-260404-B893` [high] Growth teams are multipliers of existing traction, not creators of it — fix the product before hiring growth.
+- `INS-260410-7875` [high] Facebook's growth team — the first of its kind, formed in 2008 after user growth stalled — proved that the product is a better growth lever than any marketing spend, and the function must live inside engineering with data obsession as its defining trait.
 - `INS-260403-5648` [high] The Calvin Cycle produces 6 G3P molecules but must feed 5 back to regenerate the cycle — only 1/6 of output is 'profit,' the rest is reinvestment.
 - `INS-260403-441E` [high] SF's housing restrictions forced out middle-class residents, creating a demographic hollowing that worsened the political conditions causing the restrictions.
 - `INS-260403-1DE4` [high] Startups that build hyperlocal network effects in emerging markets create moats that global competitors cannot penetrate even with superior resources.
@@ -94,6 +95,7 @@
 - `INS-260405-E7EF` [medium] The self-serve free trial model is losing efficacy in B2B SaaS as buyers expect more guided, outcome-focused evaluation experiences.
 - `INS-260404-F8AF` [medium] Dedicate 20-25% of growth resources to exploring new channels because current tactics will hit diminishing returns within 18 months.
 - `INS-260330-D711` [medium] The Mongol Empire's most lasting contributions — revived Silk Road trade, the yam communication system, cross-cultural exchange — were infrastructure plays, not military victories.
+- `INS-260410-2C92` [medium] The canonical invite-only growth mechanic — now copied by every AI product launch — originated as operational cost rationing at Gmail, not as a psychology play.
 - `INS-260402-D7DE` [medium] Five interconnected metrics — K-factor, cycle time, drop-off rate, loop retention, and reinvestment rate — form the diagnostic system for growth loop health.
 - `INS-260403-1432` [medium] Casting a wide net with post-hoc quality sorting achieves better geographic coverage than pre-filtering volunteers.
 - `INS-260403-C445` [medium] Gen Z and younger millennials preferentially buy from founder-led, mission-driven brands over feature-equivalent faceless alternatives.

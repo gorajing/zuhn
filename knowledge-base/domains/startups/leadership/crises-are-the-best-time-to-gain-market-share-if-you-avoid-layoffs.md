@@ -60,6 +60,7 @@ related:
   - INS-260327-40D5
   - INS-260405-1661
   - INS-260409-1A44
+  - INS-260410-7CB7
 evidence:
   - id: INS-260327-40D5
     type: CONTRADICTS

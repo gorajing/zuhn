@@ -5,16 +5,18 @@
 - `INS-260403-2241` Small funds win by owning more of fewer outliers rather than spreading thin across large portfolios.
 - `INS-260405-7FFC` Smaller funds beat giants by maintaining agility, concentrated ownership, and disciplined focus rather than deploying at scale.
 - `INS-260322-2647` Companies with broad retail investor bases trade at higher multiples and benefit from organic brand defense because owners have skin in the game.
+- `INS-260403-4CE2` Perceived laziness in young people often reflects unappetizing work, not lack of drive — ownership unlocks latent intensity.
+- `INS-260404-B6B1` Taking full responsibility during a crisis isn't just virtuous — it functionally increases survival odds by keeping the founder in problem-solving mode rather than blame mode.
+- `INS-260329-C472` Whatever you cast blame to is where you also cast power — blaming your mom, the economy, or politics makes those things your master.
 - `INS-260404-2F57` Substack achieves meaningful creator ownership — portable subscriber lists, direct payment relationships — without any blockchain infrastructure, because the layer that matters is the relationship, not the protocol.
 - `INS-260403-9BEF` Incumbents resist portable digital ownership because lock-in benefits them, creating an opening for startups to differentiate by giving users true ownership of virtual goods.
 - `INS-260327-DCA9` Weinberg says almost every problem at Harvey traces back to having six DRIs on something instead of one — shared ownership is no ownership, just like asking two friends to water your plant guarantees it dies.
+- `INS-260410-ED8E` Akio Morita refused a 100,000-unit Sony order that required removing the Sony name, and Ralph Lauren walked away from a Bloomingdale's house-brand deal while sleeping on a mattress — both later made most of their money from licensing the brand they refused to dilute.
 - `INS-260402-43F9` Giving someone investment capital to build their own thing produces better outcomes than paying them a salary to build your thing.
 - `INS-260329-60CF` Owning equity in a profitable business reaches millionaire status far faster than saving from high income due to valuation multipliers.
 - `INS-260403-DA33` The same three outlier exits produce 5x, 2.5x, or 1.25x fund returns depending entirely on whether the GP entered at $10M, $20M, or $40M post-money valuations.
 - `INS-260404-5EB8` Treating each fundraising round independently leads to compounding dilution that erodes founder ownership far more than single-round analysis suggests.
 - `INS-260405-FFCE` Discussing SAFE deals in terms of ownership percentage rather than valuation cap creates clearer alignment and fewer surprises at conversion.
+- `INS-260410-A65C` The NFL got Pete Rozelle as a paid commissioner; F1 needed Bernie Ecclestone as an owner-operator because you cannot wage-incentivize someone to wrangle global teams, tracks, broadcasters, and a regulator across 45 years.
 - `INS-260403-A360` Tell talented people what to do at the highest level and let them own the details — they'll insist on it anyway.
 - `INS-260323-5341` Moddoc's senior care team of just 2 people reached 50M won monthly revenue in under 4 months, while reducing overall headcount tripled business revenue.
-- `INS-260403-4CE2` Perceived laziness in young people often reflects unappetizing work, not lack of drive — ownership unlocks latent intensity.
-- `INS-260404-B6B1` Taking full responsibility during a crisis isn't just virtuous — it functionally increases survival odds by keeping the founder in problem-solving mode rather than blame mode.
-- `INS-260329-C472` Whatever you cast blame to is where you also cast power — blaming your mom, the economy, or politics makes those things your master.

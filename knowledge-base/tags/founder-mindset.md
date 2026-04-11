@@ -1,7 +1,12 @@
 # Tag: founder-mindset
 
-- `INS-260320-E044` Shelter early ideas from smart skeptics — conventional wisdom about what won't work is based on different products. Think of your idea as a seed that needs protection to sprout.
 - `INS-260405-83F0` VC funding cycles and business growth timelines rarely align — this is a known structural property that founders and investors must plan around.
+- `INS-260403-3442` Consuming startup advice feels like progress but produces fragmented thinking and delays execution.
+- `INS-260403-E1E9` Replit CEO Amjad Masad's six lessons on winning emphasize that progress compounds through clarity and consistency, not through shortcuts or hype cycles.
+- `INS-260403-1BEF` Feeling unseen as a founder usually means you've evolved faster than your environment has noticed — it's a growth signal, not a failure signal.
+- `INS-260329-8329` The core mental model shift for wealth creation is moving from 'how much per hour' to 'what percentage of value created can I capture.'
+- `INS-260329-577E` When money arrives faster than feels normal, it indicates a large value gap has been identified — the correct response is to scale, not to question legitimacy.
+- `INS-260320-E044` Shelter early ideas from smart skeptics — conventional wisdom about what won't work is based on different products. Think of your idea as a seed that needs protection to sprout.
 - `INS-260328-9574` People reach for process when a recurring problem scares them or when they're doing something for the first time — it provides comfort even when it doesn't improve the output.
 - `INS-260323-F9AC` Great achievers across history share one trait: they know their demons intimately and channel them into drive rather than letting those demons destroy them or pretending they don't exist.
 - `INS-260403-F0D4` Replace 10-year visions with 90-day micro-ambitions that stack and reveal new ceilings you couldn't previously see.
@@ -24,11 +29,6 @@
 - `INS-260330-1002` Pony Ma secured critical early funding by telling investors 'if you don't fund us, Tencent will probably die' and admitting he wasn't sure how to monetize—his brutal honesty made investors trust him more than typical overconfident founders.
 - `INS-260403-0E87` When VCs probe fragile parts of your business, responding with honest acknowledgment and a clear mitigation plan builds trust faster than defensive spinning.
 - `INS-260405-F531` Simply asking 'what would a bootstrapped company do?' cuts through VC-funded bloat and restores prioritization clarity.
-- `INS-260403-E592` Outsiders disrupt better because they reach conviction before accumulating the insider knowledge that would prevent them from starting.
 - `INS-260330-8686` Travis's relentless aggression built Uber into a global giant, but the same traits made him unfit to lead it once the company needed to repair its reputation and prepare for an IPO.
+- `INS-260403-E592` Outsiders disrupt better because they reach conviction before accumulating the insider knowledge that would prevent them from starting.
 - `INS-260329-B0BA` Start with your best bad idea and let customer feedback make it less wrong over time, rather than waiting for the perfect concept.
-- `INS-260403-3442` Consuming startup advice feels like progress but produces fragmented thinking and delays execution.
-- `INS-260403-E1E9` Replit CEO Amjad Masad's six lessons on winning emphasize that progress compounds through clarity and consistency, not through shortcuts or hype cycles.
-- `INS-260403-1BEF` Feeling unseen as a founder usually means you've evolved faster than your environment has noticed — it's a growth signal, not a failure signal.
-- `INS-260329-8329` The core mental model shift for wealth creation is moving from 'how much per hour' to 'what percentage of value created can I capture.'
-- `INS-260329-577E` When money arrives faster than feels normal, it indicates a large value gap has been identified — the correct response is to scale, not to question legitimacy.

@@ -1,6 +1,6 @@
 # Topic: research-methodology
 
-> 28 insights
+> 29 insights
 
 - `INS-260410-5951` [high] On Terminal-Bench 2.0, the same Claude model scored 6 points higher with uncapped resources than with strictly enforced per-task specs (p<0.01), exceeding the margins that typically separate frontier models on leaderboards.
 - `INS-260410-F167` [high] Unlike static benchmarks that score a model's output directly, agentic evals give the model a full runtime environment — so CPU, RAM, time limits, API latency, cluster health, and even egress bandwidth all become part of what gets measured.
@@ -18,6 +18,9 @@
 - `INS-260409-C3F7` [high] Building a cell-type atlas of the avian pallium and comparing it to mammalian equivalents settled a 60-year debate about whether bird and mammal intelligence share common neural origins — a pattern other biology debates should emulate.
 - `INS-260409-5E40` [high] Solving open-but-neglected problems is less impressive than it sounds: the problems are tractable, just understaffed.
 - `INS-260410-9D04` [high] BrowseComp answers leaked through 20+ distinct sources, and the act of running agents on them permanently caches query trails — the benchmark degrades every time it's used.
+- `INS-260410-B47A` [high] A decade ago virtually every major AI figure worked at Google — Ilya Sutskever, Hinton, Krizhevsky, Dario Amodei, Karpathy, Shazeer, Hassabis, Suleyman — yet the commercialization of their work mostly happened at OpenAI, Anthropic, and Tesla after they left.
+
+
 - `INS-260410-DD35` [high] From 2012-2020 was research, 2020-2025 was scaling, and now we're back to research with big computers because 100x more scale would not transform outcomes.
 - `INS-260408-C572` [high] Foundation models are world models without the search/reasoning layer AlphaZero had; combining them is the next breakthrough, not bigger pretraining.
 - `INS-260410-10C9` [high] Google Brain's bottom-up 'one credit per researcher, pool them as you like' chip allocation rewarded dropping failed ideas; Gemini's top-down allocation leads every group to report 'my thing is working, give me more chips.'

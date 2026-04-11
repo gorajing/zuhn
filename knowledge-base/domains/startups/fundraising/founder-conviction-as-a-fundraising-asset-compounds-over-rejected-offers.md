@@ -55,7 +55,7 @@ related:
   - INS-260403-4E9D
   - INS-260403-E482
   - INS-260403-D70C
-  - PRI-260406-7F84
+  - INS-260410-ED8E
 ---
 Synthesia's journey illustrates how founder conviction functions as a compounding asset. After being rejected 100 times and turning down acquisition offers from Adobe and Meta worth up to $3 billion, the company raised $180 million to continue building independently. The decision to reject guaranteed outcomes in favor of long-term vision is a pattern seen in many breakout companies.
 

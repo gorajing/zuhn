@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-10 | 4728 actionable insights
+Generated on 2026-04-11 | 4751 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1031,6 +1031,9 @@ Generated on 2026-04-10 | 4728 actionable insights
 - [INS-260403-F6D2] An entire industry can succeed wildly while flagship companies within it fail, leaving concentrated investors holding the bag.
 - [INS-260403-EFFB] The source of yield — real borrower payments vs. token emissions — is the single most important distinction in evaluating any DeFi product.
 
+## investing/business-analysis
+- [INS-260410-91A6] Every generational operator — Buffett, Carnegie, Rockefeller, Izzy Sharp, Ogilvy — grew fastest during downturns by deploying capital into advertising, acquisitions, and hiring while panicked competitors cut back.
+
 ## investing/fintech
 - [INS-260323-825F] The greatest financial innovations came from outsiders — a physicist who counted cards, a mathematician who broke Russian codes, and Einstein's Brownian motion theory — because pattern recognition transfers across domains.
 - [INS-260323-9A29] Cash flow funds your lifestyle today; equity creates wealth tomorrow — McDonald's burgers generate cash flow but their $45B real estate portfolio and $1.6B in franchise royalties are the actual wealth engine.
@@ -1526,6 +1529,8 @@ Generated on 2026-04-10 | 4728 actionable insights
 - [INS-260410-D31B] Paine, a Naval War College historian, explicitly endorses counterfactual replay as the primary pedagogical method — 'we teach by counterfactuals' — against commenters who mock the framing as naive.
 - [INS-260410-260E] The missionary-children Foreign Service officers correctly called the Chinese Civil War hopeless in 1945-46 based on ground truth, were purged by McCarthy for being right, and their fate illustrates both the value and the cost of honest net assessment.
 - [INS-260410-0857] Travel's epistemic value is in surfacing new questions about home, not in producing reliable answers about the destination.
+- [INS-260410-3B3E] Munger's core life strategy — which Senra identified as the dominant theme of their 3-hour dinner — is that great businesses, great spouses, and great friends simply generate fewer crises than mediocre ones, so front-loading quality selection solves 99% of downstream problems.
+- [INS-260410-F5B6] Nike pioneered Asian outsourced manufacturing and then was caught completely off guard by the sweatshop labor crisis that its own strength invited.
 
 ## psychology/epistemics
 - [INS-260405-2B3F] Treating survey non-response as randomly missing data produces systematically wrong estimates whenever the stigmatized view is also the under-reported one.
@@ -1919,6 +1924,8 @@ Generated on 2026-04-10 | 4728 actionable insights
 - [INS-260409-6DBE] Matuschak and Nielsen argue that with spaced repetition and the mnemonic medium, memory stops being a chance event subject to forgetting and becomes a deliberate choice — 'follow these steps, and you can remember whatever you choose.'
 - [INS-260409-E730] Quantum Country data shows 95 minutes of total review time produces ~54 days of demonstrated retention across 112 questions — a <50% time overhead on a 4-hour essay for multi-month retention of nearly every important detail.
 - [INS-260410-7B48] The learning that sticks comes from building something hard — writing a book, implementing the algorithm, doing practice problems — while being willing to be stuck for long stretches.
+- [INS-260410-0120] Charlie Munger told Senra he made $400M from reading Barron's for 50 years based on a single idea he acted on — the math of extracting one actionable insight from curated deep work is why biography-reading is absurdly positive-EV.
+
 
 ## psychology/math-perception
 - [INS-260325-4CA1] When decomposing a problem, choose representations that respect its natural symmetry — the math becomes dramatically easier.
@@ -2393,6 +2400,9 @@ Generated on 2026-04-10 | 4728 actionable insights
 - [INS-260402-E144] When labor and materials become expensive, technology that reduces those costs delivers higher marginal returns — making inflationary periods surprisingly good for tech adoption.
 - [INS-260404-B8EB] Usage-based pricing is displacing seat-based licensing as the dominant SaaS monetization model.
 - [INS-260404-19B0] Vertical SaaS companies are scaling ACV by embedding AI to automate more tasks across three waves: Cloud, Fintech, and now AI Inside.
+- [INS-260410-5581] Nike's playbook is obsess over athletes first, let the brand seep into mass consciousness, then extend into $15 Dick's t-shirts without compromising the pinnacle story.
+- [INS-260410-2632] Nike gave Jordan a 5% gross revenue royalty plus signature shoe because Converse and Adidas couldn't offer the same without their existing stars demanding equal treatment.
+- [INS-260410-2D4D] IPL had already absorbed India's entire cricket-advertising budget with the international rights deal, so they redesigned the product to compete with soap operas instead of with cricket — unlocking a parallel TAM by attracting women viewers and beauty-brand sponsors.
 
 ## startups/co-founders
 - [INS-260323-0B5E] Teams that default to 'more meetings and re-strategizing' instead of shipping are using planning as emotional avoidance of the market test they fear.
@@ -2686,6 +2696,8 @@ Generated on 2026-04-10 | 4728 actionable insights
 - [INS-260410-61D5] Japan's go-it-alone strategy against China in WW2 wrecked Japan despite China being a failed state — the lesson is that bringing allies against any large rival beats unilateral aggression, and trading away your alliance system for tactical gains is a category error.
 - [INS-260410-8AF0] Britain could have weighed in against Prussia at any point in Bismarck's three wars and didn't, because each war individually looked too minor to merit intervention.
 - [INS-260410-2CED] Bismarck overturned the European balance of power by framing each of three wars as limited and local, so rivals never coordinated against him.
+- [INS-260410-AF68] Bill Gates licensed Microsoft BASIC to Apple for just $31,000 because his goal was to be the default programming language on every microcomputer, not to extract maximum revenue per deal.
+- [INS-260410-8F36] Bill Gates made 'exponential phenomena cannot be ignored' a core Microsoft value after recognizing the internet's compounding growth in 1994.
 
 ## startups/content-strategy
 - [INS-260329-3332] A single 4+ hour comprehensive tutorial can accumulate millions of views over years by dominating 'full course' search queries.
@@ -3002,6 +3014,8 @@ Generated on 2026-04-10 | 4728 actionable insights
 - [INS-260409-D947] Treat the zombie like pre-PMF — nothing is sacred, and the AB-tested local maximum is still a bad onboarding flow.
 - [INS-260409-171C] The complete formula for making it is start, take feedback to get better, and never stop — most failure is skipping one of these.
 - [INS-260410-0826] Gallipoli failed because the navy telegraphed the landing two months in advance; Normandy succeeded because every service moved together after years of disinformation.
+- [INS-260410-F69C] Steve Ballmer reflected that Microsoft's worst mistakes 'only lost money' — the real cost was the best engineers sunk into projects like Vista instead of competing in search, mobile, and social.
+- [INS-260410-66E4] Lalit Modi orchestrated a $1B media deal, $400M+ in franchise auctions, and Bollywood ownership for a sports league that had never existed by capping every party's year-one cash exposure to the smallest amount that signaled credible commitment.
 
 ## startups/exits
 - [INS-260409-143C] Give yourself two months to try for acquisition, then shut down — no time frame means no exit.
@@ -3203,6 +3217,8 @@ Generated on 2026-04-10 | 4728 actionable insights
 - [INS-260409-5491] Restarting from zero is a three-stage framework — honest self-inventory, humility to do entry work, and nighttime curiosity about local opportunity — and ego is just insecurity that blocks all three stages.
 - [INS-260409-54AA] The people who stay detached from outcomes outperform the people who tie their identity to metrics because the detachment prevents the anxiety that degrades decision quality.
 - [INS-260409-9D44] MemPalace maintainers explicitly stated 'we'd rather be right than impressive' when admitting four launch overclaims — an intentional value choice against the default incentive to hype at launch and correct later.
+- [INS-260410-320A] Zuckerberg's retained control through Peter Thiel's and Accel's unprecedented founder-friendly terms is what allowed Meta to survive IPO, mobile, Instagram, Oculus, and reality-labs bets that a standard board would have blocked.
+- [INS-260410-ED8E] Akio Morita refused a 100,000-unit Sony order that required removing the Sony name, and Ralph Lauren walked away from a Bloomingdale's house-brand deal while sleeping on a mattress — both later made most of their money from licensing the brand they refused to dilute.
 
 ## startups/founder-psychology
 - [INS-260323-81F5] If you cannot imagine yourself working on this problem for 10 years, you will abandon it when the inevitable 2-3 year difficulty spike hits.
@@ -3663,6 +3679,8 @@ Generated on 2026-04-10 | 4728 actionable insights
 - [INS-260403-014D] Founders who empower aligned influencers to grow their own visibility create reinforcing distribution loops that compound over time.
 - [INS-260403-3A72] ZIRP-era companies like Uber and Snapchat have never achieved sustained profitability, while high-rate-era companies like Microsoft and Google were profitable at IPO.
 - [INS-260410-86A5] YouTube Shorts drove at least half of Dwarkesh's podcast growth — a channel he would never have predicted for a long-form deep-dive AI show.
+- [INS-260410-7875] Facebook's growth team — the first of its kind, formed in 2008 after user growth stalled — proved that the product is a better growth lever than any marketing spend, and the function must live inside engineering with data obsession as its defining trait.
+- [INS-260410-2C92] The canonical invite-only growth mechanic — now copied by every AI product launch — originated as operational cost rationing at Gmail, not as a psychology play.
 
 ## startups/growth-marketing
 - [INS-260320-A1D3] Keep your content creator team to 5-10 people max, meet with each 1:1, and share what converts vs what doesn't — a small elite team compounds while a large team dilutes quality.
@@ -3828,6 +3846,7 @@ Generated on 2026-04-10 | 4728 actionable insights
 - [INS-260402-8D38] As AI summaries reduce click-through from Google, diversifying discovery channels from owned media to social platforms becomes a survival strategy.
 - [INS-260403-76B7] Find one channel where you can win and double down until diminishing returns before diversifying.
 - [INS-260402-C301] Self-distributing AI features fall into three archetypes: outputs that spread awareness (viral artifacts), features that make users show off usage (status loops), and systems that improve with more data (data flywheels).
+- [INS-260410-8C24] Microsoft sold to the enterprise by leveraging the fact that employees had already smuggled Excel and Word into their offices personally — turning employee love into the wedge for top-down enterprise deals.
 
 ## startups/health-innovation
 - [INS-260403-DC6C] Photosynthesis is explicitly inefficient and complicated yet powers all life on Earth — adequacy under real constraints beats theoretical optimization.
@@ -4148,6 +4167,7 @@ Generated on 2026-04-10 | 4728 actionable insights
 - [INS-260403-5419] Culture is shaped more by what leaders exclude than what they celebrate.
 - [INS-260404-1DAA] Strong PMs master two of the 3 W's; those who rise to leadership master all three—output quality, unique contributions, and operating model.
 - [INS-260325-75EA] A teacher makes deposits of knowledge; a coach observes your real performance over time and walks you through iterative change — the distinction is about feedback loops, not content.
+- [INS-260410-5CAA] Microsoft grew revenue from $6B to $80B under Ballmer, yet the stock stayed flat for over a decade because the company could not articulate a coherent story for consumers, developers, or investors.
 
 ## startups/market-entry
 - [INS-260330-7EDF] Asking 'what could go right?' instead of 'what went wrong?' shifts strategic focus from diagnosis of failure to identification of actionable opportunities.
@@ -4180,6 +4200,7 @@ Generated on 2026-04-10 | 4728 actionable insights
 - [INS-260405-F456] PostHog's genuinely useful company blog—covering topics like CEO communication, first 1,000 users, and startup sales—is cited as a model for content marketing.
 - [INS-260409-1BFD] Availability friction raises perceived value; waiting lists create the FOMO that 'buy now' buttons destroy.
 - [INS-260409-5FE5] Two loss frames beat one — 'limited seats' plus 'locked-in price forever' creates urgency that neither alone can match.
+- [INS-260410-93E3] David Ogilvy's principle that audiences are a moving parade means your back catalog keeps converting new listeners/readers forever, making re-exposure to proven material more ROI-positive than chasing novelty.
 
 ## startups/mental-models
 - [INS-260330-C0D1] If a system is linear, tracking what happens to a few basis cases lets you predict outcomes for all possible inputs.
@@ -4194,6 +4215,7 @@ Generated on 2026-04-10 | 4728 actionable insights
 - [INS-260405-346A] Org structure is fundamentally a filter—it determines which conflicts are visible to leadership and which are suppressed before surfacing.
 - [INS-260405-ACCE] The conflicts leadership hears about are a structural choice—design the org to surface the right ones.
 - [INS-260405-B406] If critical tensions aren't reaching leadership, the org structure is filtering them out.
+- [INS-260410-5E3F] Azure was deliberately incubated outside the Server & Tools division because the division's KPIs, partners, and comp structure were all aligned with on-prem Windows Server sales that Azure would cannibalize.
 
 ## startups/pitch-decks
 - [INS-260405-D514] As pitch descriptions approach 'could be anything,' their information content approaches zero.
@@ -4213,6 +4235,8 @@ Generated on 2026-04-10 | 4728 actionable insights
 - [INS-260405-8107] Bundled technology ecosystems like Java/Oracle convert upfront savings into permanent switching costs that organizations discuss escaping but rarely do.
 - [INS-260405-B76E] Open source handles large-scale universal problems; closed software refines and distributes those solutions to specific users.
 - [INS-260410-91C0] Giant bacteria scale by copying their entire genome tens of thousands of times—a brute-force approach that stalls—while eukaryotes scaled by absorbing a specialized energy partner and offloading the work, which is the template for how any complex system breaks through a scaling ceiling.
+- [INS-260410-6D83] Start building your defensive option years before you deploy it — by the time the threat is real, you won't have time to stand up a world-class team from scratch.
+- [INS-260410-F455] Bill Gates accepted a $430K flat fee from IBM for DOS instead of per-copy royalties — but kept the right to license DOS to every other PC maker, which became the foundation of Microsoft's empire.
 
 ## startups/problem-solving
 - [INS-260330-F8E7] Shade balls were originally 'bird balls' for mine tailings ponds and airports — repurposed for water quality rather than invented from scratch.
@@ -4398,6 +4422,7 @@ Generated on 2026-04-10 | 4728 actionable insights
 - [INS-260404-E4F1] A structured 5-phase strategy process over 8-12 weeks creates repeatable strategic clarity without the overhead of annual planning cycles.
 - [INS-260405-28DF] Viability is table stakes; competitive differentiation must be designed in from day one.
 - [INS-260403-2D39] Redpoint's framework demands a narrow high-urgency use case with real user love that naturally expands into larger product surfaces where quality sustains pricing power.
+- [INS-260410-2424] After Lotus 1-2-3 destroyed Microsoft Multiplan on the IBM PC, Microsoft shelved it and built Excel for the Macintosh GUI — being first and best on the next platform rather than trying to claw back the current one.
 
 ## startups/quality
 - [INS-260330-FA4D] Byron Ferguson spine-tests every arrow and discards out-of-tolerance ones before they ever enter his quiver — precision is built in preparation, not performance.
@@ -4969,6 +4994,7 @@ Generated on 2026-04-10 | 4728 actionable insights
 ## startups/vision-and-strategy
 - [INS-260405-0D9A] Structure your roadmap so each milestone lowers the cost or risk of the next, making progress compound rather than just accumulate.
 - [INS-260405-F2C7] Vision should pull milestones forward, not justify why you missed them—keep the two layers structurally separate in your pitch.
+- [INS-260410-1941] Microsoft publicly committed to OS/2 with IBM while quietly nurturing Windows and Mac applications as parallel hedges, so when OS/2 failed, Windows was ready to inherit the entire PC ecosystem.
 
 ## video-production/audience-building
 - [INS-260403-E8E3] Veritasium's plan to sign and mail 10,000 shade balls to Patreon supporters turns a video prop into a tangible relationship artifact.

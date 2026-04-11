@@ -51,7 +51,6 @@ stance: >-
   minimum viable team size so dramatically that solopreneurs and micro-teams can
   build profitable companies that previously required teams of five or more.
 related:
-  - PRI-260320-5D78
   - PRI-260407-7C1A
   - INS-260403-78AD
   - INS-260404-2523

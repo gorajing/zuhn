@@ -45,9 +45,9 @@ stance: >-
   attention.
 related:
   - INS-260403-002C
+  - INS-260410-7075
   - INS-260329-CB2C
   - INS-260404-B5EB
   - INS-260322-88FC
-  - PRI-260328-6A8D
 ---
 A LinkedIn post competes with every other post in the feed. An email lands directly in the inbox of someone who explicitly asked to hear from you. Claire's monetization did not happen on LinkedIn — LinkedIn fed the waiting list, which became the email list, which became the sales channel. The principle is that algorithm-mediated channels (social, search) are intrinsically competitive and unpredictable, while email is a direct line you own. Founders who treat email as an afterthought to 'main' content channels are leaving the entire conversion layer unbuilt. The correct sequence is: earn attention on a platform, convert attention to email, sell via email.

@@ -61,8 +61,8 @@ related:
   - PRI-260327-117F
   - INS-260327-C083
   - INS-260326-F845
+  - INS-260410-F69C
   - INS-260410-AF9A
-  - PRI-260328-BEAB
 ---
 Connor shares the story of his most damaging early enterprise deal: he was working with a single IT champion who presented themselves as the decision-maker. Five months of weekly cadences, demos, everything according to plan. Then overnight, his champion went completely silent. The deal was lost to a competitor championed by the CFO -- a person Connor had never spoken to because his single contact assured him finance 'wasn't important to the decision.'
 

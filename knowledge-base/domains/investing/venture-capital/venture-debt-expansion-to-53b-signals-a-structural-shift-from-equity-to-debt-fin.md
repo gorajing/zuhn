@@ -55,8 +55,8 @@ related:
   - PRI-260406-53BC
   - INS-260405-DDC2
   - INS-260404-D5B5
+  - INS-260410-6CE5
   - INS-260405-2F43
-  - INS-260405-FCA9
 ---
 Venture debt reached $53B in 2024, driven by companies delaying IPOs and seeking non-dilutive growth capital. This represents a significant shift in the startup financing stack — mature companies that would historically have gone public are instead layering debt on top of equity rounds to fund operations and growth.
 

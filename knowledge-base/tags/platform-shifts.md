@@ -9,11 +9,13 @@
 - `INS-260405-CF27` Driving the marginal cost of any scarce input to zero historically creates platform-scale winners; humanness is next.
 - `INS-260403-AC5E` AI's software-only adoption curve means both attackers and incumbents can move faster than during the mobile shift, creating a speed-dependent competitive dynamic.
 - `INS-260328-9408` None of the YC mobile winners had pre-iPhone mobile experience; the same pattern is playing out with AI disrupting SaaS.
+- `INS-260410-8F36` Bill Gates made 'exponential phenomena cannot be ignored' a core Microsoft value after recognizing the internet's compounding growth in 1994.
 - `INS-260403-90FF` Every major technology platform leap involved hardware innovation alongside software — it was never just bits.
 - `INS-260402-8C42` During platform shifts, betting on the toolchain that builders need captures more durable value than betting on individual applications.
 - `INS-260330-F22A` Tencent shifted from copying and crushing competitors to investing in them and leveraging its platform to help them grow, converting potential enemies into equity-generating partners.
 - `INS-260330-C24F` Tencent's WeChat achieved dominance by bundling payments, social media, gaming, and mini-programs into one app, making it impossible for users to leave even when forced to choose between WeChat and a competitor's product.
 - `INS-260327-C75F` The iPhone and AWS completely eliminated the P2P CDN value proposition by reducing bandwidth costs and changing how people consumed video.
+- `INS-260410-320A` Zuckerberg's retained control through Peter Thiel's and Accel's unprecedented founder-friendly terms is what allowed Meta to survive IPO, mobile, Instagram, Oculus, and reality-labs bets that a standard board would have blocked.
 - `INS-260325-DFC7` FlashIntel CEO Yi Shi: find industries where standards are not set, apply tech first — tokens are the new currency in the AI era.
 - `INS-260404-8750` Viaweb paid $16k/month for PR because in the 1990s, press mentions were the only way to get found — Google didn't even exist yet.
 - `INS-260403-E59C` Microsoft didn't lose the desktop — the desktop stopped mattering when software moved to the web.

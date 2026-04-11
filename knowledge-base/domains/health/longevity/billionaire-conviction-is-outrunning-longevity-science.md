@@ -52,9 +52,9 @@ stance: >-
 related:
   - INS-260403-690C
   - PRI-260325-2800
+  - INS-260410-320A
   - INS-260325-90C6
   - INS-260330-9346
-  - PRI-260325-3A00
   - INS-260404-16FB
 ---
 The longevity sector pulled $300M in fresh capital including NewLimit's $72.3M round, with Jeff Bezos and Sam Altman among the backers. The PitchBook framing is telling: 'Science still early—momentum isn't.' This is a classic pattern where high-status investors create narrative gravity that attracts capital faster than the underlying biology can validate the bets.

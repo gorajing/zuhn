@@ -1,7 +1,5 @@
 # Tag: rhetoric
 
-- `INS-260329-95EA` Leading with a real negative before a positive ('but') makes the positive far more convincing because it signals honesty.
-- `INS-260329-8BFC` Negative-before-positive sequencing leverages recency bias and earned credibility to make the same facts more persuasive.
 - `INS-260330-365B` When exaggerated claims are excused as 'pointing in the right direction,' everyone ratchets up rhetoric until opponents seem like existential threats, enabling real political violence.
 - `INS-260403-F60A` Lower forms of disagreement (name-calling through tone policing) can never be convincing no matter how well-executed.
 - `INS-260330-2030` The comparison between BLM riots and the Capitol insurrection feels like balanced analysis but collapses a critical categorical distinction between protest-gone-wrong and president-directed assault on democratic certification.
@@ -16,3 +14,5 @@
 - `INS-260403-FC2E` Shift from defending your position to calling out the pattern of misrepresentation itself.
 - `INS-260403-61B0` Spin added for persuasion gets mixed into your own reasoning, making you unable to see your ideas clearly.
 - `INS-260404-9C25` Graham doesn't argue for or against the death penalty on conventional grounds — he reframes the entire debate from philosophy to error rates.
+- `INS-260329-95EA` Leading with a real negative before a positive ('but') makes the positive far more convincing because it signals honesty.
+- `INS-260329-8BFC` Negative-before-positive sequencing leverages recency bias and earned credibility to make the same facts more persuasive.

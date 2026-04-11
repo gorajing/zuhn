@@ -44,7 +44,6 @@ stance: >-
   that eventually surpasses the original hardware differentiation
 related:
   - INS-260327-17DE
-  - INS-260403-D1D0
   - INS-260403-4819
   - INS-260405-DAC9
   - INS-260403-4C61
@@ -52,6 +51,7 @@ related:
   - INS-260405-D660
   - INS-260403-2496
   - INS-260404-1BCC
+  - INS-260410-1941
 evidence:
   - id: INS-260405-DAC9
     type: TRANSFERS_TO

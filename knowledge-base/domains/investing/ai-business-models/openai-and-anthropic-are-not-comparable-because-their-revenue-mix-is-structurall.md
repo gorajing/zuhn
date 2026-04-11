@@ -61,6 +61,6 @@ related:
   - INS-260403-4D1E
   - INS-260409-AD81
   - INS-260322-B450
-  - PRI-260328-6A8D
+  - INS-260410-9120
 ---
 Chamath Palihapitiya makes the case that press-cycle drama pitting OpenAI vs. Anthropic misses the underlying reality that they are in different go-to-market motions. OpenAI is approximately 75% consumer subscription and 25% API, with conservative revenue recognition. Anthropic is nearly the exact opposite, with most revenue flowing through API (directly or via GitHub, Cursor, and similar wrappers), and recognizes 'gross tonnage' more aggressively. This means that when headlines say one company is at $20B and the other at $N billion, they're measuring two different things. The implication for investors and operators: both can be massively valuable simultaneously, OpenAI's consumer lead does not preclude Anthropic's enterprise lead, and the supposed capability race masks a segmentation that may make head-to-head competition less urgent than narratives suggest.

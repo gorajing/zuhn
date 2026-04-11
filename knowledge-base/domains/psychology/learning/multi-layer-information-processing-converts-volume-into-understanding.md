@@ -49,11 +49,10 @@ stance: >-
   dives produces better mental models than either shallow breadth or premature
   depth alone
 related:
-  - INS-260320-47FA
-  - INS-260330-FCA3
   - INS-260329-A862
   - INS-260405-0184
   - PRI-260406-F9AC
+  - INS-260320-47FA
   - INS-260330-B91E
 ---
 Chamath describes a four-stage knowledge pipeline: broadly consume content (news, papers, social media, videos), write quick 1-2 page essays on topics that seem important to develop a point of view, conduct month-long deep dives with a team on the most promising topics, and finally stress-test conclusions with domain experts and key opinion leaders.

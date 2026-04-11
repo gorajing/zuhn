@@ -1,9 +1,5 @@
 # Tag: observation
 
-- `INS-260403-7BBD` Better cameras on a 1992 experiment revealed new fluid dynamics phenomena that decades of numerical simulation had missed.
-- `INS-260330-69C6` The vine robot was invented because a researcher literally watched a vine grow around a shelf toward sunlight and asked 'can we do that robotically?'
-- `INS-260330-5A13` Study how your current system fails at the edges to discover what to build next.
-- `INS-260330-6C17` Filming an underwater AK-47 shot at 27,450 fps revealed three completely separate physical phenomena—barrel cavitation, gas trailing, and shock-wave vapor—that appear as a single splash at normal speed.
 - `INS-260323-4279` In quantum mechanics, measurement doesn't reveal pre-existing properties — it creates them; before observation, properties are undefined, not merely unknown.
 - `INS-260403-28C7` We misjudge unfamiliar experiences because negative moments are visible while positive ones are quiet and private.
 - `INS-260330-5EFD` Destin solved his observation limitation by inverting the aquarium concept — building a structure to keep water out of the camera area rather than keeping water in around the gun.
@@ -16,3 +12,7 @@
 - `INS-260330-D1A1` Seeing gas dynamics inside a suppressor at 110,000 fps gave both the engineer and the audience understanding that no schematic or explanation could match.
 - `INS-260330-12F9` Firing one bullet underwater produces three visually distinct phenomena (Bernoulli cavitation, gas trail, shock vapor) that are invisible at normal speed but separable at 27,450 fps.
 - `INS-260330-6FDF` Three different physical processes produce visually identical bubbles underwater, distinguishable only at extreme temporal resolution.
+- `INS-260330-6C17` Filming an underwater AK-47 shot at 27,450 fps revealed three completely separate physical phenomena—barrel cavitation, gas trailing, and shock-wave vapor—that appear as a single splash at normal speed.
+- `INS-260403-7BBD` Better cameras on a 1992 experiment revealed new fluid dynamics phenomena that decades of numerical simulation had missed.
+- `INS-260330-69C6` The vine robot was invented because a researcher literally watched a vine grow around a shelf toward sunlight and asked 'can we do that robotically?'
+- `INS-260330-5A13` Study how your current system fails at the edges to discover what to build next.

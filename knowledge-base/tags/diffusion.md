@@ -7,3 +7,6 @@
 - `INS-260410-5D16` Karpathy sees AI as continuous with computing — you can't find computers or the iPhone in the GDP curve either, and AGI will diffuse the same way despite subjective feelings of discontinuity.
 - `INS-260403-36F4` AI's commoditization cycle compressed from decades to months because of copy-paste, open-source, and API access.
 - `INS-260410-59F4` Frontier lab red lines don't stop mass surveillance because open-source models 12 months behind will always be smart enough to watch a camera.
+- `INS-260410-B47A` A decade ago virtually every major AI figure worked at Google — Ilya Sutskever, Hinton, Krizhevsky, Dario Amodei, Karpathy, Shazeer, Hassabis, Suleyman — yet the commercialization of their work mostly happened at OpenAI, Anthropic, and Tesla after they left.
+
+

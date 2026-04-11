@@ -48,11 +48,11 @@ stance: >-
   predictable baseline revenue and unlimited upside participation in partner
   success
 related:
+  - INS-260410-AF68
   - INS-260330-8FEC
+  - INS-260410-5981
   - INS-260329-2EAA
-  - INS-260322-837A
-  - PRI-260328-6A8D
-  - INS-260330-7DAA
+  - INS-260410-F455
 evidence:
   - id: INS-260330-8FEC
     type: REFINES

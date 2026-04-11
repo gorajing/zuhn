@@ -56,7 +56,6 @@ stance: >-
   access gave China the inputs to build industrial dominance through currency
   manipulation, IP theft, and state subsidies.
 related:
-  - INS-260327-5D01
   - INS-260403-6570
   - PRI-260406-9599
   - INS-260403-C0FE

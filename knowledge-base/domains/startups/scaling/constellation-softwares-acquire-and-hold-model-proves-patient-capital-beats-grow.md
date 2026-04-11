@@ -58,6 +58,7 @@ related:
   - INS-260329-BBBE
   - INS-260404-BCA2
   - INS-260403-B610
+  - INS-260410-DFE2
   - INS-260330-56B2
 ---
 Constellation Software under Mark Leonard represents a radically different model from Silicon Valley's grow-or-die playbook. By acquiring small, vertical software businesses in unglamorous niches and holding them permanently, Leonard built a $100B empire with no PR stunts, no founder theatrics, and no exit-driven timelines. The strategy works because vertical software businesses have high switching costs, predictable revenue, and low competition for acquisition.

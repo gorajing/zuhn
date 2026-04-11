@@ -48,13 +48,12 @@ resolutions:
     makes it economically viable to deliver a $1,000 finished product from data
     that previously only supported a $2/month subscription.
 related:
+  - INS-260410-DFE2
   - PRI-260405-BFAC
   - INS-260403-F62E
   - INS-260322-7282
   - INS-260403-599B
-  - INS-260403-B610
   - INS-260330-F512
-  - INS-260404-396E
 stance: >-
   Companies with proprietary data that previously sold raw access can now
   deliver finished AI-powered products, multiplying revenue by 5-100x.

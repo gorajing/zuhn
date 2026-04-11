@@ -53,5 +53,6 @@ related:
   - INS-260327-723A
   - INS-260330-7251
   - INS-260324-5481
+  - INS-260410-B47A
 ---
 Asked what was lost in the post-ChatGPT shift, Hassabis says he would have preferred to approach AGI 'using the scientific method very carefully, very precisely, very thoughtfully and rigorously with all the best scientists collaborating in a CERN-like way effort.' That world might have taken a decade or two longer. ChatGPT forced what he calls 'this sort of ferocious commercial pressure race that everyone's locked into,' compounded by US-China geopolitical pressure. He acknowledges three real benefits: faster progress, public democratization of frontier capabilities, and stress-testing by millions of users that in-house testing can't replicate. But the framing matters: this is a working scientist describing a race he didn't want.

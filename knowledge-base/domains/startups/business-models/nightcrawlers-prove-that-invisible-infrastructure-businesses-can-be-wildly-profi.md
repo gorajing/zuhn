@@ -44,9 +44,9 @@ resolutions:
 related:
   - PRI-260324-C63E
   - INS-260323-F62A
+  - INS-260410-E71E
   - PRI-260328-7007
   - INS-260405-4F2B
-  - INS-260403-2F24
 stance: >-
   LA's top nightcrawlers make 6-8 figures filming breaking news at night that
   local TV stations can't cover

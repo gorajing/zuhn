@@ -49,10 +49,10 @@ stance: >-
   massive upside potential
 related:
   - INS-260322-3E59
+  - INS-260410-7875
   - INS-260329-AF18
   - INS-260329-69F0
   - INS-260405-963B
-  - INS-260410-5740
 evidence:
   - id: INS-260330-9DC9
     type: CHALLENGES

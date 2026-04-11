@@ -60,9 +60,9 @@ related:
   - INS-260403-E8E3
   - PRI-260406-3C6B
   - PRI-260406-B314
+  - INS-260410-5CAA
   - INS-260405-F9EC
   - PRI-260406-80E7
-  - INS-260327-D7AA
   - INS-260405-443C
 ---
 Most VCs don't invest in ideas—they invest in narratives that sound like other winners. This creates a paradox where founders need genuine product differentiation (something new, strange, unfair) but must translate that vision into the language of consensus to survive the fundraising gauntlet of partners, investment committees, and LP reporting.

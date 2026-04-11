@@ -1,6 +1,6 @@
 # Topic: engineering
 
-> 26 insights
+> 27 insights
 
 - `INS-260404-4130` [high] Building the language up toward the problem lets small teams punch far above their weight.
 - `INS-260403-3A9D` [high] Yahoo's choice to call itself a media company caused it to treat programming as commodity work, which destroyed product quality.
@@ -20,6 +20,7 @@
 - `INS-260402-7999` [high] Great software is written by sketching and refining, not by executing a pre-completed blueprint.
 - `INS-260403-410A` [high] Easy-to-read individual lines multiplied by many more lines produces worse total readability than dense-but-fewer lines.
 - `INS-260403-0A7A` [high] Rewriting code you've already written forces you to fully understand it, which is the prerequisite for seeing fundamentally better designs.
+- `INS-260410-84DA` [high] Facebook's internal tooling — monolithic codebase with portable engineers, feature flags with auto-rollback, HipHop compiler, Hack language, real-time experimentation — produced a decade of shipping velocity that competitors could not replicate, and it exists because the company built for itself rather than buying off-the-shelf.
 - `INS-260404-E6F9` [high] Plants evolved entire metabolic pathways just to handle RuBisCo's toxic byproduct, showing how workarounds for legacy decisions become load-bearing infrastructure.
 - `INS-260403-F835` [medium] Counting AST elements measures the conceptual load a programmer must hold in their head, unlike lines or characters.
 - `INS-260403-59F4` [medium] Shorter programs, thinner manuals, and terse syntax are signs of good design, not corners being cut.

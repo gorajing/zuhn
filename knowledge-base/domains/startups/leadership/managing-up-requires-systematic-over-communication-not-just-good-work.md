@@ -53,7 +53,7 @@ related:
   - INS-260403-4102
   - INS-260403-76F5
   - PRI-260406-E431
-  - INS-260327-9483
+  - INS-260410-A9CE
 ---
 Managing up is often dismissed as politics, but it's actually expectation management. The core insight is that your manager judges you against their expectations — expectations formed largely from what you communicate, not what you do. A weekly 'State of Me' email with (1) asks, (2) priorities, (3) things on your mind creates a feedback loop that aligns perception with reality.
 

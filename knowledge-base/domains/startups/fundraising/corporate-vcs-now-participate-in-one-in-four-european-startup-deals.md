@@ -45,7 +45,6 @@ stance: >-
   optional
 related:
   - INS-260328-372B
-  - INS-260403-0020
   - INS-260405-ED7E
   - INS-260405-57C5
   - PRI-260405-E9C5

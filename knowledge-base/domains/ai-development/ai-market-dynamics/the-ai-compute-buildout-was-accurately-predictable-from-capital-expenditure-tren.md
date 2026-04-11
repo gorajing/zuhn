@@ -57,8 +57,8 @@ related:
   - INS-260327-16A1
   - INS-260403-5CAD
   - PRI-260405-F20C
+  - INS-260410-F536
   - INS-260323-8637
-  - INS-260405-95A6
   - INS-260404-AEC9
 ---
 Despite getting algorithmic progress badly wrong, Bio Anchors was remarkably accurate on hardware parameters. Cotra's estimates for willingness to spend on compute and for cost per FLOP closely matched what actually happened through 2025. She essentially predicted the multi-hundred-billion-dollar data center buildout years before it materialized, based on extrapolating existing capital expenditure trends and planned construction.

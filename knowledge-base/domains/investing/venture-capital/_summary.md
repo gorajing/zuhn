@@ -1,6 +1,6 @@
 # Topic: venture-capital
 
-> 291 insights
+> 292 insights
 
 - `INS-260403-6B24` [high] High-profile 2025 IPOs like Figma, Chime, and Navan traded below debut prices even as Nasdaq and S&P 500 rallied.
 - `INS-260405-0CAB` [high] 38% of VCs stopped doing deals in 2023, exposing a large cohort of cycle-dependent tourist investors who entered during the 2020-2021 bull market.
@@ -165,6 +165,7 @@
 - `INS-260403-0618` [medium] Cambridge Associates advises LPs to reduce pre-seed and seed commitments due to crowded markets, high valuations, and elongated IPO timelines.
 - `INS-260405-484F` [medium] Clawback mechanisms that reach founders' personal assets convert entrepreneurship from bounded-downside to unlimited-downside, chilling risk-taking.
 - `INS-260404-2CA6` [medium] Climate tech investment is consolidating into specific subsectors rather than disappearing entirely.
+- `INS-260410-151D` [medium] Berkshire's equity portfolio concentrates asymmetrically: Apple at only 1.6% of company but $62B market value, American Express at 22.1% of company and $56B market value — conviction level, not diversification rules, drove the ownership percentage.
 - `INS-260404-0C25` [medium] CVC units closed in 2024 because corporate parents under pressure prioritize core operations over strategic venture bets.
 - `INS-260405-58B0` [medium] CVC deal volume hit a 7-year low at 728 deals, but 7 of the top 10 deals went to AI startups.
 - `INS-260404-7295` [medium] SignalFire's $1B+ raise validates that systematic data-driven approaches to venture capital can attract significant LP capital and compete with traditional relationship-driven models.

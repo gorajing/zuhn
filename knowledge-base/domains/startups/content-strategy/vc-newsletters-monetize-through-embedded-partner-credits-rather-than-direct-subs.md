@@ -54,9 +54,9 @@ related:
   - INS-260403-A17D
   - INS-260409-57DB
   - INS-260403-4F8D
+  - INS-260410-9120
   - PRI-260328-6A8D
   - INS-260403-32BA
-  - INS-260405-94A0
 ---
 The VC Corner's hiring kit exemplifies a content monetization model where the primary resource is genuinely free while revenue flows through embedded partner integrations — $5k Paraform credits, $500 Upwork credits, discounted Ashby access, and Juicebox compensation data. This model works because it aligns incentives: founders get useful tools, partners get qualified leads, and the newsletter builds trust by delivering genuine value without friction.
 

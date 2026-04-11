@@ -6,6 +6,9 @@
 - `INS-260405-F01C` After the weakest fundraising year since 2017, Q1 2026 became the biggest fundraising quarter since the 2021 peak—a full reversal in one quarter.
 - `INS-260403-30A5` The best VC entry point is when most risk is resolved but most investors still hesitate.
 - `INS-260405-83F0` VC funding cycles and business growth timelines rarely align — this is a known structural property that founders and investors must plan around.
+- `INS-260402-B66A` Your early twenties offer unique exploration that a startup's all-consuming depth-first search permanently forecloses.
+- `INS-260330-255F` Only enter a category when you can make it one to two orders of magnitude better than what exists — if the technology or market isn't ready, wait.
+- `INS-260403-14D5` You don't need to grow up or go to college in a great city, but you should be in one during the critical early-to-mid career phase when you're finding your problems and peers.
 - `INS-260327-5452` Napoleon crushed the Turkish army at Aboukir by attacking during their amphibious landing, when they were most disorganized and couldn't use their naval advantage.
 - `INS-260327-F274` America's entry into WW1 in 1917 was decisive not because of immediate military impact but because it added fresh industrial and manpower resources when all other participants were exhausted.
 - `INS-260327-EF8C` Wellington watched Marmont's army for days without attacking, then struck in 40 minutes when the French overextended their line — destroying an entire army in one afternoon.
@@ -26,17 +29,17 @@
 - `INS-260328-F782` Use your grit to improve starting conditions — that's a far more efficient use of determination than brute-forcing through gaps.
 - `INS-260327-DD1D` Quitting during a crisis reduces competition and can create better startup conditions than boom times.
 - `INS-260323-B426` Spend your 20s building skills, network, and industry expertise so you're equipped when you do start.
+- `INS-260409-7C92` Buyers pay when they are thirstiest; lead magnets should intensify deprivation, not relieve it.
 - `INS-260330-410A` Instagram hit 25K users on day one and 1M within a month by aligning iPhone 4 camera timing, cross-posting to Facebook/Twitter, and recruiting high-profile photographers as early adopters.
 - `INS-260403-CA42` Building distribution in parallel with product is now table stakes for startup survival, not a post-PMF optimization.
 - `INS-260322-34AE` When Airbnb expelled unlicensed Korean hosts in October 2025, EncoWithers grew from under 100 to over 7,000 hosts because they had spent a year preparing to absorb the displacement.
-- `INS-260409-7C92` Buyers pay when they are thirstiest; lead magnets should intensify deprivation, not relieve it.
+- `INS-260330-5043` Monitor the delta between what new technology makes possible and how things are currently done — maximum divergence equals maximum startup opportunity.
 - `INS-260409-AB58` If biology, language, and morphology all show saltative branching — long stability then rapid reorganization at branch points — technology and market evolution likely follow the same dynamic, which reframes strategy around transition timing rather than steady progress.
 - `INS-260403-0372` Organizations should invest in innovation software when they cannot demonstrate ROI on innovation efforts, not simply when idea volume grows.
 - `INS-260404-3043` Bubble economics temporarily suppress adoption of efficient innovations that later become standard.
 - `INS-260405-911F` Newton described the Magnus effect in the 1600s; Flettner rotors only reached commercial shipping in the 21st century — a 400-year lag from observation to deployment.
 - `INS-260404-17DD` Established business models produce antibodies that kill fragile new initiatives transferred too early.
 - `INS-260404-2DB4` Companies must reinvent while successful because decline eliminates the resources needed for transformation.
-- `INS-260330-5043` Monitor the delta between what new technology makes possible and how things are currently done — maximum divergence equals maximum startup opportunity.
 - `INS-260403-9EB1` Angels must predict pre-traction potential; VCs can react to demonstrated success.
 - `INS-260402-2300` Start thinking about fundraising 12 months before you need it, maintain 8+ months runway when beginning outreach, and consider bridge rounds if runway is short.
 - `INS-260405-3E4E` A cybersecurity company led by former Microsoft executives went from zero to $100M ARR in nine months, backed by Index and Sequoia — a pace achievable only when founder credibility and sector tailwinds align.
@@ -80,6 +83,3 @@
 - `INS-260330-777A` Putin announced the pension age increase on the opening day of the 2018 World Cup — it still caused his largest-ever approval drop.
 - `INS-260330-D5BD` Prioritize entering small but rapidly growing markets over large but slow-growing ones, because desperate customers in growing markets tolerate imperfect early products.
 - `INS-260323-09E4` When everyone agrees your startup idea is great, someone has probably already built it; when everyone thinks it's crazy, you may be onto something real.
-- `INS-260402-B66A` Your early twenties offer unique exploration that a startup's all-consuming depth-first search permanently forecloses.
-- `INS-260330-255F` Only enter a category when you can make it one to two orders of magnitude better than what exists — if the technology or market isn't ready, wait.
-- `INS-260403-14D5` You don't need to grow up or go to college in a great city, but you should be in one during the critical early-to-mid career phase when you're finding your problems and peers.

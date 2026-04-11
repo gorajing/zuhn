@@ -68,7 +68,7 @@ related:
   - INS-260403-3725
   - INS-260403-E4B3
   - INS-260403-BA1B
-  - INS-260323-1D15
+  - INS-260410-DFE2
 ---
 The article highlights a critical vulnerability in the lean startup playbook: small teams excel at zero-to-one innovation but struggle to defend against incumbents who can replicate features and leverage existing distribution. Snapchat pioneered ephemeral stories, but Instagram's larger team and user base allowed it to copy and dominate the feature within a year. Similarly, Facebook acquired Instagram and WhatsApp partly to eliminate competitive threats.
 

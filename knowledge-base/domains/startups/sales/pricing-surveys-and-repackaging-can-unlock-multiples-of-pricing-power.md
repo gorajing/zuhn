@@ -43,7 +43,6 @@ stance: >-
   Most businesses undercharge not because their product isn't valuable enough,
   but because they haven't explored alternative pricing structures.
 related:
-  - INS-260322-C33D
   - PRI-260406-B785
   - INS-260329-8F7C
   - PRI-260406-5BD0

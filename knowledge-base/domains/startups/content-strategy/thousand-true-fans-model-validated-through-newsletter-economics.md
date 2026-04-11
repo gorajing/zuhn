@@ -46,9 +46,10 @@ stance: >-
   A creator can replace a senior tech salary with roughly 1,000-3,000 paid
   subscribers on a direct subscription platform
 related:
-  - INS-260321-F0DF
   - INS-260330-B885
   - INS-260403-D4D4
+  - INS-260410-9120
+  - INS-260321-F0DF
   - INS-260323-D679
   - INS-260323-6414
 ---

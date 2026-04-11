@@ -53,7 +53,6 @@ stance: >-
   viability at the start of a technology S-curve, making timing the single most
   important and unpredictable variable in technology investment.
 related:
-  - INS-260321-9EBB
   - INS-260325-4846
   - INS-260323-9EEC
   - PRI-260328-3C01
@@ -63,6 +62,7 @@ related:
   - INS-260330-C499
   - PRI-260407-A13C
   - INS-260330-38C9
+  - INS-260403-3C2C
 evidence:
   - id: INS-260321-9EBB
     type: SUPPORTS

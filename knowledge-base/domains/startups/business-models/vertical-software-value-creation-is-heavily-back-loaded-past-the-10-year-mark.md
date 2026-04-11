@@ -47,14 +47,14 @@ stance: >-
   after founding, making them systematically undervalued by early-stage
   investors who apply standard SaaS timelines.
 related:
-  - INS-260327-969D
   - INS-260327-25D7
   - INS-260403-B387
   - INS-260404-016F
   - INS-260404-A2C4
+  - INS-260410-5981
   - INS-260327-3B91
+  - INS-260327-969D
   - INS-260323-C8AC
-  - INS-260330-2CE3
 ---
 Unlike horizontal SaaS that can scale quickly across industries, vertical software businesses must go deep into a specific sector — building integrations, winning regulatory trust, and displacing entrenched workflows. This depth takes time. Point Nine's Louis Coppey argues that while vertical software can become very valuable, the inflection in value often doesn't arrive until well past year 10.
 

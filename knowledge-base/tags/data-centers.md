@@ -1,23 +1,24 @@
 # Tag: data-centers
 
 - `INS-260330-F205` Every data center being built now locks in compute and power capacity that will be irreplaceable once globalized GPU supply chains break down.
+- `INS-260410-F536` Greg Abel on Berkshire Hathaway Energy: 'That responsibility has grown as the industry enters a significant investment cycle, driven by rising electricity demand from artificial intelligence computing and by increasing wildfire risk... Infrastructure built for hyperscalers and data centers must be paid for by those customers and reflect the risks tied to step-changes in long-term demand.'
 - `INS-260403-CEAD` Bio Anchors accurately predicted willingness-to-spend and cost-per-FLOP trends through 2025, correctly forecasting the massive data center buildout from observable investment patterns.
 - `INS-260403-B539` AI's exponentially growing demand for electricity, land, and water will squeeze human access to basic resources before labor replacement becomes the primary concern.
 - `INS-260402-1640` AI threatens humans not by replacing their jobs but by competing for shared resources like energy and land.
+- `INS-260409-A11F` Frontier AI compute is only economically viable because its environmental and public health costs are externalized onto vulnerable communities that never consented to host the infrastructure.
+- `INS-260405-1054` xAI's third data center reaches nearly 2 gigawatts of compute power by co-locating with an acquired power plant, signaling that energy access—not just hardware—is the binding constraint for frontier AI labs.
+- `INS-260410-6A86` Even if combined-cycle turbine lead times stretch past 2030, 16+ alternative power vendors plus behind-the-meter solutions make power the easiest problem to solve relative to chips.
 - `INS-260410-B1A9` Microsoft paused leases not because demand was weak, but to avoid 4-5 years of depreciation stuck on one chip generation in one location for one workload type.
 - `INS-260405-95A6` U.S. productivity growth near its post-WWII peak is attributable to data center investment, not white-collar AI tool use.
 - `INS-260410-C602` AI data center buildouts are bottlenecked on power availability and speed-to-deploy, not on power cost, because tokens generate 1000x more value than the electricity they consume.
 - `INS-260405-D638` Starcloud's orbital GPU clusters use solar power and vacuum cooling to eliminate the cost structure of terrestrial AI infrastructure.
 - `INS-260405-F1A1` The US data center pipeline hit 241 GW but only a third is under active development, with utilities unable to supply power fast enough despite $650B in planned 2026 CapEx.
 - `INS-260410-0ECA` Musk predicts that in under 36 months, space will be the cheapest place to run AI because solar panels get 5x more power without atmosphere or day-night cycles, and no batteries are needed.
-- `INS-260409-A11F` Frontier AI compute is only economically viable because its environmental and public health costs are externalized onto vulnerable communities that never consented to host the infrastructure.
-- `INS-260405-1054` xAI's third data center reaches nearly 2 gigawatts of compute power by co-locating with an acquired power plant, signaling that energy access—not just hardware—is the binding constraint for frontier AI labs.
-- `INS-260410-6A86` Even if combined-cycle turbine lead times stretch past 2030, 16+ alternative power vendors plus behind-the-meter solutions make power the easiest problem to solve relative to chips.
 - `INS-260325-5CB1` Stanford Prof Ram Rajagopal: the AI bottleneck is not compute but power — data centers are outgrowing the century-old electrical grid.
+- `INS-260322-2D57` Energy is the current AI infrastructure bottleneck (driving renewed interest in nuclear), but once solved, cooling becomes the next constraint — creating a wave of innovation opportunity around thermal management.
+- `INS-260322-6DFC` Unlike the dot-com broadband buildout funded by leveraged telecoms, today's $400B+ AI infrastructure buildout is funded by the most profitable companies ever created — Google, Microsoft, Amazon, Meta — making systemic risk fundamentally lower.
 - `INS-260328-FDC8` AI is not a hoax like subprime mortgages -- real value is being created -- but the debt being issued to finance data centers and GPU purchases mirrors the debt-driven dynamics of every prior bubble.
 - `INS-260323-F12F` AI data centers take 1-2 years to build but GPUs become obsolete in 3-6 years — by the time they turn on, the hardware is already outdated and the customers (unprofitable AI startups) can't pay.
 - `INS-260323-114D` $178.5B in data center credit deals in 2025 alone, funded by junk-grade debt, for customers that are unprofitable AI startups — this is the financial crisis vector, not software disruption.
 - `INS-260405-7576` Data center capex is matching dot-com-era contributions to GDP growth, raising legitimate bubble-pattern concerns.
-- `INS-260322-2D57` Energy is the current AI infrastructure bottleneck (driving renewed interest in nuclear), but once solved, cooling becomes the next constraint — creating a wave of innovation opportunity around thermal management.
-- `INS-260322-6DFC` Unlike the dot-com broadband buildout funded by leveraged telecoms, today's $400B+ AI infrastructure buildout is funded by the most profitable companies ever created — Google, Microsoft, Amazon, Meta — making systemic risk fundamentally lower.
 - `INS-260404-E544` Data center operators signed over 40% of all clean energy power purchase agreements in 2024, making AI infrastructure the largest single demand category for new renewable capacity.

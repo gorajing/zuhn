@@ -51,11 +51,11 @@ related:
   - INS-260327-4739
   - INS-260327-F6B2
   - INS-260322-4B4A
-  - INS-260322-3CFB
   - INS-260327-47BA
   - INS-260403-A360
   - INS-260403-2BAF
   - INS-260403-9DE0
+  - INS-260403-9BD7
 stance: >-
   You can only do your best work if you are doing what you want to do, the way
   you think it should be done, and you can take pride in it after.

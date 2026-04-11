@@ -48,7 +48,6 @@ stance: >-
   themselves, they will automatically believe you can solve it — no additional
   proof required.
 related:
-  - INS-260325-7BE7
   - INS-260329-BE8E
   - INS-260404-405A
   - PRI-260406-B314
@@ -58,6 +57,7 @@ related:
   - INS-260329-4FB2
   - INS-260404-C99B
   - INS-260403-A17D
+  - INS-260402-575D
 evidence:
   - id: INS-260329-85E9
     type: TRANSFERS_TO

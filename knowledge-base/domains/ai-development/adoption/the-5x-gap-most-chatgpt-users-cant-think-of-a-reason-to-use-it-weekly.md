@@ -49,7 +49,7 @@ related:
   - INS-260323-282F
   - INS-260321-F0DF
   - INS-260403-EE02
-  - INS-260323-FEAB
+  - INS-260410-9120
   - INS-260323-BD20
 stance: >-
   ChatGPT has 800-900M weekly active users, but only 5% pay — five times more

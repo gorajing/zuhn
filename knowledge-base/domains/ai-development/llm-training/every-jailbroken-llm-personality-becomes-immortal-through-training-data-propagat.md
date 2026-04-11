@@ -48,7 +48,6 @@ resolutions:
     distributed knowledge. The question of who controls which personalities
     persist — and which get lobotomized — becomes a central governance question.
 related:
-  - INS-260327-9838
   - INS-260403-DF2E
   - INS-260410-06DB
   - INS-260329-BCB7

@@ -55,8 +55,8 @@ related:
   - INS-260405-34D7
   - INS-260322-5E5D
   - INS-260327-85E2
-  - INS-260328-9408
   - INS-260329-8F98
+  - INS-260330-7BAE
 stance: >-
   Each platform shift (PCs, web, mobile) succeeded not by doing the previous
   thing better, but by enabling entirely new behaviors

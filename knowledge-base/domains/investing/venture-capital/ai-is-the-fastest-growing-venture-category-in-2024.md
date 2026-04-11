@@ -51,12 +51,12 @@ related:
   - INS-260405-0327
   - INS-260404-C5B7
   - INS-260404-D475
-  - INS-260403-9A94
   - INS-260405-6EE5
   - INS-260404-16FB
   - INS-260404-D5B5
   - INS-260405-DDC2
   - INS-260405-6342
+  - INS-260403-AB11
 ---
 Dealroom data highlighted in Tomasz Tunguz's analysis shows AI as the dominant growth vector in venture funding in 2024. This has downstream effects beyond the AI sector itself: investors are reallocating attention and capital away from other categories, LPs are pushing fund managers toward AI exposure, and founders in non-AI categories face a tougher fundraising environment even when their fundamentals are strong.
 

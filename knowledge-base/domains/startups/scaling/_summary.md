@@ -1,6 +1,6 @@
 # Topic: scaling
 
-> 175 insights
+> 176 insights
 
 - `INS-260403-49FB` [high] Startups need 2-3x longer than founders expect to validate their market, and 70% scale prematurely — largely explaining the 90% failure rate.
 - `INS-260403-AA20` [high] The 996 grind culture trades short-term velocity for compounding burnout costs that destroy long-term startup viability.
@@ -11,6 +11,7 @@
 - `INS-260403-E3E0` [high] Companies like Cursor (20 people, $100M ARR in 21 months) and Midjourney (10 people, $200M ARR in 2 years) prove that AI amplifies small team output by orders of magnitude.
 - `INS-260327-968C` [high] Block's AI transformation began with the CTO writing a manifesto email to Jack Dorsey, then both spending two days aligning on centralized AI investment before restructuring the entire organization.
 - `INS-260403-B387` [high] AI vertical companies should size their market against total labor cost in the vertical, not existing software spend — a 10x larger opportunity.
+- `INS-260410-E71E` [high] Hermès employs 7,000 artisans and trains new ones from scratch (two years before they make anything, years more before they touch a Birkin) because the knowhow cannot be documented — only transmitted hand to hand.
 - `INS-260404-0B8E` [high] Waymo's tripling to 15M annual rides with 90% fewer serious injuries demonstrates autonomous driving is now a proven infrastructure service, not a research project.
 - `INS-260403-1C28` [high] Structure teams as autonomous 2-6 person pods that each own their own goals, roadmap, deployment, and quality control.
 - `INS-260329-903B` [high] AWS GovCloud and compliance programs let startups inherit compliance certifications instead of building them from scratch, opening regulated markets like government and healthcare.

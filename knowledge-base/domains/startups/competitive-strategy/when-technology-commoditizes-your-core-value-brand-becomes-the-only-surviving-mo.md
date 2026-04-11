@@ -53,10 +53,10 @@ stance: >-
 related:
   - INS-260330-9A34
   - PRI-260405-5912
+  - INS-260410-04EA
+  - INS-260410-DA77
   - INS-260405-7B7C
   - INS-260403-D8A2
-  - INS-260403-CCED
-  - PRI-260328-0993
 evidence:
   - id: INS-260330-9A34
     type: EXTENDS

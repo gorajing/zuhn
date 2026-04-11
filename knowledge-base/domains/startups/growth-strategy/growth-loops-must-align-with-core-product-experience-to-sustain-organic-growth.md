@@ -51,6 +51,7 @@ related:
   - INS-260403-B18C
   - PRI-260406-7D93
   - PRI-260328-43F1
+  - INS-260410-2C92
 ---
 Dropbox's referral loop worked because free storage was the product itself — users shared to get more of what they already valued. TikTok's loop worked because user-generated content IS the product; every creation is simultaneously consumption fuel for others. The common thread: the growth mechanism and the value delivery are the same action.
 

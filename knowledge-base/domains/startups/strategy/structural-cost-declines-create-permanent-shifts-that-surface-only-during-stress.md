@@ -47,7 +47,6 @@ stance: >-
   trough and remained masked during good times—recessions reveal structural
   changes that prosperity conceals.
 related:
-  - INS-260323-89C2
   - INS-260403-1217
   - INS-260403-CF7C
   - INS-260403-5B46
@@ -57,6 +56,7 @@ related:
   - PRI-260405-E9C5
   - INS-260403-79AD
   - INS-260403-7B60
+  - INS-260403-193E
 evidence:
   - id: INS-260403-D98E
     type: SUPPORTS

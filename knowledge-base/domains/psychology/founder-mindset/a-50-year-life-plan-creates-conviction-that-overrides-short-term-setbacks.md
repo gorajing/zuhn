@@ -45,10 +45,10 @@ stance: >-
   because temporary losses are noise against a longer time horizon
 related:
   - INS-260328-C2CB
+  - INS-260410-87C4
   - INS-260330-341D
+  - INS-260410-9CF8
   - INS-260329-4488
-  - INS-260403-8450
-  - PRI-260405-1FBC
 evidence:
   - id: INS-260328-C2CB
     type: SUPPORTS

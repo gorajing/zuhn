@@ -20,8 +20,6 @@
 - `INS-260323-5106` Casper, built to disrupt retail mattress stores, found that retail sales grew 74% year-over-year with 15% higher average orders — the thing they disrupted became their only hope.
 - `INS-260323-5A96` Americans replace mattresses every 9-10 years — Casper's massive ad spend couldn't change this fundamental market constraint, and growth decelerated from 43% to 18% despite continued spending.
 - `INS-260323-0026` Casper spent 73-91% of gross profit on advertising and lost $200 on every mattress sold — advertising is meant to grow a business, not sustain it.
-- `INS-260323-53BF` Culture is not what you write on the wall — it is the collective habits of the superorganism that dictate day-to-day execution, and it changes only through iterative feedback loops, never by decree.
-- `INS-260323-8392` Customer service is the #1 underrated competency in modern business — one great experience can make a brand blow up positively, one bad experience can destroy it publicly.
 - `INS-260323-E2ED` When a founder's self-worth becomes entangled with their codebase, negative user feedback triggers emotional defensiveness instead of productive iteration.
 - `INS-260323-81F5` If you cannot imagine yourself working on this problem for 10 years, you will abandon it when the inevitable 2-3 year difficulty spike hits.
 - `INS-260323-0C3A` Confidence is necessary to start a business, but owners who think they can do it all and know it all fail at much higher rates than those who hire or retain experts in their blind spots.
@@ -30,6 +28,8 @@
 - `INS-260323-A183` Founders who fantasize about being a tech billionaire rather than obsessing over the problem they solve are setting themselves up to quit when the work gets hard.
 - `INS-260323-5B9F` Fireship quotes Bukowski's 'go all the way' poem and then honestly admits he'd rather make YouTube content — that self-awareness is the kill signal most founders ignore for months.
 - `INS-260323-78A5` Casper rejected Target's $900M acquisition offer because it wasn't a billion dollars; the company IPO'd at $500M, then continued dropping — the unicorn ego cost investors hundreds of millions.
+- `INS-260323-53BF` Culture is not what you write on the wall — it is the collective habits of the superorganism that dictate day-to-day execution, and it changes only through iterative feedback loops, never by decree.
+- `INS-260323-8392` Customer service is the #1 underrated competency in modern business — one great experience can make a brand blow up positively, one bad experience can destroy it publicly.
 - `INS-260323-7C3A` Make life-altering decisions with your heart and gut, then never revisit them — execute with pure discipline and data from that point forward.
 - `INS-260323-1975` You must be either the tech/product founder or the business/revenue founder, then find a complementary co-founder for the other role.
 - `INS-260323-8C53` Open Secret's marketplace failure created the financial discipline that enabled 3x growth while staying profitable — the crisis was the catalyst.

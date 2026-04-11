@@ -51,6 +51,7 @@ related:
   - INS-260403-8155
   - INS-260410-81E8
   - PRI-260323-9295
+  - INS-260410-A671
   - PRI-260323-A3A3
 ---
 Smith's 'jungle' metaphor captures a fundamental shift: when the world's security guarantor becomes unreliable, the rational response for every nation is to invest in self-defense regardless of existing alliance structures. This creates a self-reinforcing cycle — as nations arm themselves, neighbors perceive threats and arm in response. The investment implications are significant: defense spending will likely rise globally as a percentage of GDP, not just in obvious conflict zones but in historically peaceful regions like Europe and East Asia. This also means that 'peace dividend' assumptions baked into many long-term economic models are becoming outdated.

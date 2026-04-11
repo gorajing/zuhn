@@ -46,7 +46,6 @@ stance: >-
   adversarial price extraction produces better outcomes for both parties and
   preserves long-term relationships.
 related:
-  - INS-260328-6A8C
   - INS-260329-2A5A
   - PRI-260406-CA93
   - INS-260404-98EE

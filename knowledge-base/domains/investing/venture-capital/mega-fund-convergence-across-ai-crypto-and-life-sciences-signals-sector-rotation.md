@@ -49,7 +49,6 @@ stance: >-
   sciences represents capital rotating between narrative-driven sectors rather
   than genuine expansion of the venture asset class.
 related:
-  - INS-260327-3788
   - INS-260403-4A9E
   - INS-260403-AAAC
   - PRI-260406-FBCE

@@ -57,8 +57,8 @@ related:
   - INS-260403-8EBD
   - INS-260410-069C
   - INS-260325-BEAC
+  - INS-260410-F536
   - INS-260405-567D
-  - INS-260403-D880
 ---
 Today, executive compensation is capped by what a single human brain can process and what talent markets will pay. Dwarkesh flips this: once role occupants are AI, the cost of a role is simply the compute it consumes, and the value comes from running massive simulations against every decision. A CEO considering an acquisition could run Monte Carlo simulations of five-year market dynamics, evaluate thousands of alternative strategies, and deeply analyze every technical system involved.
 

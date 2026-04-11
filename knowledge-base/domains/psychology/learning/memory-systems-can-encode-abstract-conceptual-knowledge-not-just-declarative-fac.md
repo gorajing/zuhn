@@ -53,7 +53,6 @@ stance: >-
   not just for vocabulary and declarative facts, when cards are carefully
   designed and embedded in narrative context.
 related:
-  - INS-260327-45B4
   - INS-260329-7A6A
   - INS-260409-BBB5
   - INS-260410-0741

@@ -2,20 +2,15 @@
 
 - `INS-260325-600C` Chronic anxiety is often B1 deficiency impacting the autonomic nervous system — not a psychological disorder requiring SSRIs.
 - `INS-260330-7981` Mitochondria do far more than produce energy — they regulate neurotransmitters, hormones, inflammation, and gene expression, making them the central node in mental health.
-- `INS-260405-CF31` Academic research by Freeman et al. finds that entrepreneurs and their families have disproportionately high prevalence of psychiatric conditions, suggesting founder mental health is a systemic issue, not individual weakness.
-- `INS-260403-86C7` With 72% of startup founders experiencing mental health issues and productivity declining sharply after 50 hours/week, lean teams face a sustainability ceiling that AI automation only partially addresses.
-- `INS-260405-AD04` The 'sadness of a successful exit' is a predictable psychological outcome when founders build identity around a company rather than around themselves as builders.
-- `INS-260322-D059` Emerging research in metabolic psychiatry shows that conditions like depression, epilepsy, and even schizophrenia often have metabolic root causes — and interventions like ketogenic diets, gut health, and inflammation reduction can outperform traditional talk therapy and SSRIs.
-- `INS-260402-DCC5` FDA-cleared therapeutic video games match drug efficacy for ADHD with side effects limited to headaches and frustration.
 - `INS-260403-E4C7` Nearly a third of Gen Z has deleted social media apps, and global social media usage has declined 10% since 2022, suggesting organic human adaptation to harmful technology.
 - `INS-260330-22F0` Before psychoanalysis, mentally ill patients were confined to sanatoriums; Freud's talk therapy demonstrated that conversation itself could be curative.
 - `INS-260325-4C2E` The algorithm effect replaces internal motivation with external validation loops, creating population-level identity outsourcing to platforms.
 - `INS-260330-F6DB` Facebook's own internal research found Instagram is 'toxic to a sizable percent of users' and worsens body image for 1 in 3 teen girls — a structural consequence of curated self-presentation at scale.
-- `INS-260325-765F` Rather than viewing time alone as reflecting something wrong about you, reframing it as an opportunity for creativity and pleasant self-reflection transforms the experience from harmful to beneficial.
-- `INS-260328-3FCE` The Dark Playground — leisure during times meant for work — fills the air with guilt and anxiety, making the fun not actually fun.
 - `INS-260403-8AEA` $10B+ founders nearly universally exhibit both a superiority complex and a deep inferiority complex operating simultaneously.
 - `INS-260403-9FEA` 42% of business owners experienced burnout recently, but the early warning signs are culturally celebrated rather than treated.
 - `INS-260330-9BF3` Founder psychology doesn't stabilize with success — the emotional amplitude expands, with higher highs but increasingly devastating lows.
+- `INS-260325-765F` Rather than viewing time alone as reflecting something wrong about you, reframing it as an opportunity for creativity and pleasant self-reflection transforms the experience from harmful to beneficial.
+- `INS-260328-3FCE` The Dark Playground — leisure during times meant for work — fills the air with guilt and anxiety, making the fun not actually fun.
 - `INS-260403-6EA0` Thinking in specific causal chains rather than vague decline narratives is both more accurate and more psychologically sustainable.
 - `INS-260327-9D51` Algorithms optimized for engagement systematically show people the most extreme, emotional, and divisive content, creating population-scale distortion of what the world actually looks like.
 - `INS-260325-0892` Men open up more readily shoulder-to-shoulder during shared activities than face-to-face in a therapy office, which is why walk-and-talk therapy and coaching are more effective engagement models.
@@ -30,3 +25,8 @@
 - `INS-260325-A36F` Renaming psychopathy repeatedly makes life harder for affected families who cannot find consistent information about diagnosis and treatment.
 - `INS-260325-F6CD` When young men struggle, the instinct is to blame them for laziness and video games -- an instinct that is not applied to any other demographic group facing comparable challenges.
 - `INS-260325-1802` Men account for 80% of US suicides and 70% of drug poisoning deaths; since 2010, the rise in suicide has been almost entirely among young men under 30 — a crisis getting far less attention than teen girl mental health.
+- `INS-260405-CF31` Academic research by Freeman et al. finds that entrepreneurs and their families have disproportionately high prevalence of psychiatric conditions, suggesting founder mental health is a systemic issue, not individual weakness.
+- `INS-260403-86C7` With 72% of startup founders experiencing mental health issues and productivity declining sharply after 50 hours/week, lean teams face a sustainability ceiling that AI automation only partially addresses.
+- `INS-260405-AD04` The 'sadness of a successful exit' is a predictable psychological outcome when founders build identity around a company rather than around themselves as builders.
+- `INS-260322-D059` Emerging research in metabolic psychiatry shows that conditions like depression, epilepsy, and even schizophrenia often have metabolic root causes — and interventions like ketogenic diets, gut health, and inflammation reduction can outperform traditional talk therapy and SSRIs.
+- `INS-260402-DCC5` FDA-cleared therapeutic video games match drug efficacy for ADHD with side effects limited to headaches and frustration.

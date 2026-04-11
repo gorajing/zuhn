@@ -51,7 +51,6 @@ stance: >-
   work' a form of care, not callousness.
 related:
   - INS-260327-DD1D
-  - INS-260328-4ED2
   - INS-260330-FF9A
   - PRI-260328-BEAB
   - INS-260404-B6B1

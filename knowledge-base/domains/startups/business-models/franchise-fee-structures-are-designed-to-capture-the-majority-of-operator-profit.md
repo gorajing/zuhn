@@ -52,5 +52,6 @@ related:
   - INS-260324-0DC1
   - INS-260327-048B
   - INS-260404-396E
+  - INS-260410-A65C
 ---
 Hormozi details how a frozen yogurt franchise generating $800K/year yields only ~$93K take-home for the operator after a 6% top-line royalty fee. On 10% margins, that royalty represents roughly 60% of the operator's profit. This isn't accidental — franchisors optimize fee structures to beat stock market returns (targeting 20-25% ROI) while leaving operators just enough incentive to keep going or open another location. The lesson extends beyond food service: any business relationship where a platform or franchisor takes a percentage of top-line revenue creates asymmetric incentive structures. Before entering such arrangements, operators should model the fee as a percentage of profit, not revenue, to understand the true cost.

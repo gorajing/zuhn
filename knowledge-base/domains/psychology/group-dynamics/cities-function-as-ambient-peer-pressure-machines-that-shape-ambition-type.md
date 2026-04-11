@@ -48,7 +48,6 @@ stance: >-
   The ambient message a city sends about what to admire matters more than
   individual willpower in determining what kind of ambition a person pursues
 related:
-  - INS-260325-622D
   - INS-260323-F9AC
   - INS-260328-68BA
   - INS-260329-87C2
@@ -58,6 +57,7 @@ related:
   - INS-260327-8521
   - INS-260403-A36C
   - INS-260404-5AC1
+  - INS-260403-6178
 evidence:
   - id: INS-260328-711E
     type: SUPPORTS

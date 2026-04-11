@@ -52,6 +52,7 @@ related:
   - INS-260327-473D
   - INS-260330-930D
   - INS-260403-84E1
+  - INS-260410-7CB7
 stance: >-
   Google's TPU (Tensor Processing Unit) is already competitive for AI workloads,
   but NVIDIA's software ecosystem moat delays competitors

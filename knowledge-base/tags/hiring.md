@@ -5,11 +5,13 @@
 - `INS-260410-56B4` If a problem lives in well-documented territory (bank conflicts, SIMD, common compiler tricks), a frontier model will likely outperform humans on it within hours.
 - `INS-260410-5AB5` Job-representative interviews were always the gold standard, but once models can do the job in 2 hours, 'representative' and 'AI-resistant' become incompatible goals.
 - `INS-260322-116B` When AI can perform any technical task, employers hire for trustworthiness and genuine care — the qualities visible in someone's eyes, not their resume.
+- `INS-260409-A1D3` Skills are teachable in weeks; attitudes calcify over decades — so over-indexing on attitude selection beats over-indexing on skill screening.
 - `INS-260322-82E8` Senior executives are professional interviewers — get signal from their 360 reviews at previous companies and do enough references until answers converge.
 - `INS-260404-4127` Give a founder one sentence of advice and observe whether they chase down all its implications — this tests general resourcefulness, not just communication skill.
 - `INS-260402-225A` Failed startups disproportionately cite cofounder character flaws over skill gaps as the root cause.
 - `INS-260405-EE74` Growth-stage companies pay a premium for reliability because delays cost more than overpaying.
 - `INS-260330-2200` GitHub stars and green squares measure visibility and gaming, not engineering skill.
+- `INS-260323-0C3A` Confidence is necessary to start a business, but owners who think they can do it all and know it all fail at much higher rates than those who hire or retain experts in their blind spots.
 - `INS-260403-3835` Startups peak in productivity when founders are uninterrupted, and hiring can destroy this by imposing an interrupt-driven culture.
 - `INS-260326-7B2A` If you can't hire someone smarter than you, do the work yourself — early hires set the talent bar that attracts or repels all future candidates.
 - `INS-260330-258F` Quick, direct, face-to-face termination with immediate access revocation is the professional standard — procrastination lets toxic employees drive away good ones.
@@ -17,7 +19,6 @@
 - `INS-260330-636E` Ponzi's scheme collapsed when he hired honest publicist William McMasters, who gained access to records and exposed the fraud to the Boston Post.
 - `INS-260405-202B` Costco pays double the U.S. retail average and reports employees three times more productive, suggesting the productivity gain exceeds the wage cost.
 - `INS-260403-8C2D` Delaying two hires by one quarter can extend runway by 3.5 months — scenario modeling makes these tradeoffs visible before they become consequences.
-- `INS-260323-0C3A` Confidence is necessary to start a business, but owners who think they can do it all and know it all fail at much higher rates than those who hire or retain experts in their blind spots.
 - `INS-260320-F751` Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
 - `INS-260321-C14C` The biggest failure mode in Silicon Valley is assuming that being smart at building products means you're smart at negotiating contracts, managing politics, or understanding war — 'if you don't know who the mark is, you're the mark.'
 - `INS-260320-07A2` Hire people who were already customers — they have conviction you can't interview for.
@@ -80,6 +81,7 @@
 - `INS-260322-C6CE` Instead of working on your weaknesses, ask whether being bad at something is the reason you're good at everything else — then hire a dedicated 'process person' to compensate.
 - `INS-260330-85B8` Genghis Khan's merit-based promotion system was a core innovation enabling the Mongols to build history's largest contiguous empire.
 - `INS-260330-8E3C` What you say about a terminated employee at the company meeting becomes their reputation, because every person in your company will get a reference call about them.
+- `INS-260410-9AD9` Greg Abel in the 2025 Berkshire letter: 'Berkshire must have leaders that reflect its principles, and not principles that fit individuals.' The ordering matters — values come first, leadership selection comes second.
 - `INS-260323-4B1C` With 44% of technical skills becoming obsolete within 10 years, the hardest and most durable leadership skills are the soft ones — conflict resolution, empathy, listening.
 - `INS-260322-627E` Start with high trust (75%) so people take risks immediately, but deplete the trust battery faster than normal — you learn what people are made of much sooner.
 - `INS-260330-26E7` Loyalty-first hiring filters for liars or zealots, destroying an organization's capacity for honest self-assessment.
@@ -111,4 +113,3 @@
 - `INS-260329-BC36` Pay teachers $50/hr to deliver your templatized curriculum while collecting $280/hr per group — keeping 80%+ gross margins and freeing yourself to focus on sales and recruitment.
 - `INS-260403-20BF` A 'Mullet' structure—small hub presence for strategy/capital, large remote workforce for engineering—captures network benefits while enabling faster technical iteration.
 - `INS-260323-2C70` Pincus hired anyone who said they knew PHP, kept less than half, and found gems like an 18-year-old savant living on his mom's couch — the early-stage hiring perfection myth costs more speed than it saves in quality.
-- `INS-260409-A1D3` Skills are teachable in weeks; attitudes calcify over decades — so over-indexing on attitude selection beats over-indexing on skill screening.

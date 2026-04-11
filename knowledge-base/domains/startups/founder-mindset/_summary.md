@@ -1,6 +1,6 @@
 # Topic: founder-mindset
 
-> 321 insights
+> 328 insights
 
 - `INS-260320-F751` [very_high] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
 - `INS-260322-E791` [high] During a crisis, the false but simple narrative ('Robinhood colluded with hedge funds') will always defeat the true but complex explanation (clearing mechanics, Dodd-Frank, collateral requirements).
@@ -69,10 +69,13 @@
 - `INS-260323-2CCA` [high] Musk's WWII veteran grandfather had next-level PTSD but never bragged about his medals — the generation that viscerally understood war is gone, leaving decision-makers without that embodied knowledge.
 - `INS-260323-53FF` [high] People who score high in financial avoidance save less, carry more high-interest debt, and have higher financial stress — saying 'I'm bad with numbers' is ego protection, not truth.
 - `INS-260329-1CB0` [high] Extreme early frugality isn't about the savings — it's about escaping survival mode so you can think long-term and make strategic bets.
+- `INS-260410-419F` [high] Amazon's success was a philosophically straight line, a strategically squiggly line, and a tactically random set of dots through a maze of failed bets.
 - `INS-260405-AC3E` [high] The insight from a customer conversation degrades with every layer of intermediary between the customer and the decision-maker.
 - `INS-260404-F708` [high] Great founders are like running backs — determined to reach the end zone but willing to go sideways or backwards to get there.
 - `INS-260328-0540` [high] Ask yourself: what are the three things in my business that give me a stomach ache? Not pop problems or things from Twitter — the real ones.
 - `INS-260323-7BB8` [high] Instead of asking 'what do you want to be?' (astronaut, writer, game designer), ask 'what do you want to do?' — follow the activities that bring joy moment-to-moment, and the career identity will emerge from that.
+- `INS-260410-DA77` [high] Rolex's single-foundation ownership (Hans Wilsdorf Foundation) was arguably the key structural factor that let it survive the quartz crisis and grow dominant — it could absorb 2-3 bad years without firing a CEO, let competitors panic first, and make 20-year bets when public Swiss peers were forced into short-term rollups.
+- `INS-260410-320A` [high] Zuckerberg's retained control through Peter Thiel's and Accel's unprecedented founder-friendly terms is what allowed Meta to survive IPO, mobile, Instagram, Oculus, and reality-labs bets that a standard board would have blocked.
 - `INS-260403-397B` [high] Page's decade of backing Gmail, Chrome, Android, and YouTube from a non-CEO position built an undeniable case for his return.
 - `INS-260327-2A73` [high] Professional managers care more about what things look like than what they are; founder-mode CEOs derive power from truth-seeking and outcome accountability.
 - `INS-260327-0B7C` [high] Committed founders face a black hole — when deep in the mission, it is not easy to pick up your head and see the world, delaying every life decision.
@@ -119,6 +122,7 @@
 - `INS-260404-7325` [high] The secret weapon of top founders is that money isn't their primary driver — the company is their creative project.
 - `INS-260325-F9CF` [high] 19th-century optimists assumed technology would end war — the world wars shattered that illusion and fueled anti-progress backlash that persists today.
 - `INS-260323-4A3D` [high] In prisoner's dilemma simulations, adding just a few shortcut connections to a clustered network destroys cooperation entirely -- explaining why social media breeds toxicity.
+- `INS-260410-ED8E` [high] Akio Morita refused a 100,000-unit Sony order that required removing the Sony name, and Ralph Lauren walked away from a Bloomingdale's house-brand deal while sleeping on a mattress — both later made most of their money from licensing the brand they refused to dilute.
 - `INS-260403-F657` [high] If you're excited about non-prestigious work and can explain what others miss about it, that's a positive signal worth acting on.
 - `INS-260327-47BA` [high] Nothing is going to be handed to you — you have to be vocal and communicate your needs and value to your manager, because good work alone is not enough.
 - `INS-260403-8004` [high] A founder packing boxes at $50M revenue does more for culture than any all-hands talk about being scrappy.
@@ -235,6 +239,7 @@
 - `INS-260323-4082` [high] Many of your current problems are the result of achieving the dreams of your past self — the stress comes with the job you wanted, the arguments come with the relationship you sought.
 - `INS-260325-86B3` [high] Lyft/Presto cofounder Rajat Suri: 5 years of zero revenue survived through a loyalty cycle where team sacrifice inspired founder persistence and vice versa.
 - `INS-260329-DD01` [high] Birth zip code outpredicts IQ, race, and gender for lifetime earnings because environment shapes ambition through social comparison.
+- `INS-260410-7687` [medium] Greg Abel's 2025 Berkshire letter explicitly catalogues six foundational values (Decentralized Model, Integrity, Financial Strength, Capital Discipline, Risk Management, Operational Excellence) 'that will continue into perpetuity,' framing them as the mechanism for surviving the Warren-to-Greg transition without identity loss.
 - `INS-260404-9376` [medium] Elite founder thinking requires actively purging outdated beliefs, not just acquiring new ones.
 - `INS-260328-70D3` [medium] The belief that you must 'break glass' because AGI is imminent rhymes with every generation's conviction that they happen to be alive at the end of days.
 - `INS-260323-1871` [medium] Even if AGI never arrives, AI as an extension of human will and amplifier of human abilities is already a transformative outcome.
@@ -288,6 +293,7 @@
 - `INS-260403-B957` [medium] Naive founders bypass outdated beliefs about impossibility, sometimes solving problems experts had written off.
 - `INS-260321-1A84` [medium] People who are naturally quirky and nonconformist constantly generate strange ideas on their own, while those skilled at reading consensus find it hardest to produce unique ideas.
 - `INS-260327-D5B5` [medium] Exposure to product excellence creates the obsession that produces great founders—Meniri's Apple Store visit changed his life.
+- `INS-260410-4C9D` [medium] Amazon Marketplace let third-party sellers win the buy-box on Amazon's own product pages, which torched category managers' P&L—a move only a founder could force through.
 - `INS-260403-F7F4` [medium] Practice optimism during good times so it's accessible as a trained response when everything goes wrong.
 - `INS-260403-A485` [medium] Making bullshit-minimization an explicit priority when choosing employers or customers yields outsized quality-of-life gains.
 - `INS-260329-8B33` [medium] Taking six months to find a business you can acquire for free beats immediately starting one that costs your life savings.
@@ -316,6 +322,7 @@
 - `INS-260409-54AA` [medium] The people who stay detached from outcomes outperform the people who tie their identity to metrics because the detachment prevents the anxiety that degrades decision quality.
 - `INS-260327-2684` [medium] Building startups for your university application guarantees you'll never go all-in enough to succeed.
 - `INS-260405-BC10` [medium] The US-Europe startup gap is best explained by failure-recovery infrastructure — bankruptcy law, investor attitudes, labor mobility — not by cultural risk appetite alone.
+- `INS-260410-CC88` [medium] Greg Abel in the 2025 letter: 'Our role is stewardship. That stewardship has shaped a culture and reinforced a set of values that are not the result of our success, but the reason for it.'
 - `INS-260403-6386` [medium] If you dropped a skilled wealth-creator on a random street, they'd rebuild within 5-10 years because the skill transfers across contexts.
 - `INS-260327-E546` [medium] Spending 40 hours at work and 40 more on side projects reveals what you actually want to build.
 - `INS-260329-3473` [medium] When your brain checks out during deep work, pushing through the 5-15 minute dip consistently trains your capacity to sustain focus over longer periods.

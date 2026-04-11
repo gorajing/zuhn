@@ -49,5 +49,6 @@ related:
   - PRI-260407-D50C
   - INS-260403-5F8B
   - INS-260404-9905
+  - INS-260410-6CE5
 ---
 Crunchbase data shows median round sizes increasing across U.S. startup funding in the first half of 2024. This is counterintuitive given the broader narrative of a funding winter. The likely explanation is capital concentration — investors are writing fewer checks but making them larger, funneling money into perceived winners rather than spreading bets widely. For founders, this means the bar to raise has gotten higher, but those who clear it can expect larger rounds. The practical implication is that fundraising strategy should optimize for being in the top tier of investable companies rather than trying to raise in a mediocre middle ground.

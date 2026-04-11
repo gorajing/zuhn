@@ -1,9 +1,10 @@
 # Topic: product-strategy
 
-> 75 insights
+> 76 insights
 
 - `INS-260405-4AAD` [high] Juicero raised $120M for technology that was immediately undermined when customers realized the same outcome was achievable by hand.
 - `INS-260330-809A` [high] Apple's acquisition pattern — Authentec for Touch ID, Siri for voice, NeXT for Jobs — shows that buying capabilities yields higher returns than buying businesses.
+- `INS-260410-2424` [high] After Lotus 1-2-3 destroyed Microsoft Multiplan on the IBM PC, Microsoft shelved it and built Excel for the Macintosh GUI — being first and best on the next platform rather than trying to claw back the current one.
 - `INS-260403-EAF7` [high] Solve the real problem and deliberately ignore peripheral concerns that seem important but aren't.
 - `INS-260330-766D` [high] Alfred Lin's principle from Zappos — culture and brand are two sides of the same coin — means that whatever happens inside the company eventually comes out.
 - `INS-260404-0CA7` [high] Vertical SaaS that bundles financial and operational workflows becomes nearly impossible to rip out.

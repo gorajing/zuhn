@@ -1,6 +1,6 @@
 # Domain: ai-development
 
-> 1661 insights across 40 topics
+> 1664 insights across 40 topics
 
 ## Topics
 
@@ -13,7 +13,7 @@
 | ai-automation | 29 | Improving multi-agent systems requires observability into inter-agent conversations -- GPTers built a dashboard to view session-send exchanges between agents to understand how to improve their collaboration. |
 | ai-business-models | 1 | Microsoft is seeing strong demand for Windows 365 instances provisioned for autonomous agents that need their own machine — the per-seat business is becoming per-user-plus-per-agent. |
 | ai-capabilities | 148 | Aletheia matches a 6-month-old model's reasoning performance using 100x less inference compute, driven by a stronger base model rather than more thinking time. |
-| ai-market-dynamics | 153 | Porn is a leading indicator for consumer tech — if AI avatars, chatbot characters, and generated content are working there, they're coming to mainstream markets soon. |
+| ai-market-dynamics | 154 | Porn is a leading indicator for consumer tech — if AI avatars, chatbot characters, and generated content are working there, they're coming to mainstream markets soon. |
 | alignment | 90 | Accidental misalignment in automated workflows is more dangerous than deliberate misuse because it cascades silently at scale. |
 | applications | 6 | An AI system routing 2,000 medical devices across 50 hospital locations cut nursing retrieval travel by 50% — staff only noticed they were happier. |
 | architecture | 26 | The control unit of a CPU is a ROM — a lookup table — and every 'decision' a computer appears to make is a deterministic table read. |
@@ -36,12 +36,12 @@
 | mental-models | 16 | Backprop doesn't know anything about neural networks — it applies the chain rule to any directed expression graph, and neural nets are just a particular shape of graph we happen to care about. |
 | model-architecture | 18 | Each biological neuron runs its own learning mechanisms and maintains state; each artificial neuron is just y = Wx + b, making raw neuron-count comparisons between brains and AI models deeply misleading. |
 | pedagogy | 4 | Watching someone use AI live is more instructive than reading or hearing about it. |
-| platform-dynamics | 33 | OpenAI doesn't treat agents as a separate category — ChatGPT, Codex CLI, Sora, and the API are all just different interfaces for deploying the same underlying intelligence, each optimized for different user contexts. |
+| platform-dynamics | 34 | OpenAI doesn't treat agents as a separate category — ChatGPT, Codex CLI, Sora, and the API are all just different interfaces for deploying the same underlying intelligence, each optimized for different user contexts. |
 | platform-shifts | 56 | Agentic AI is moving from an engineering concern to a board-level strategic imperative. |
 | product-strategy | 91 | MIT found 95% of genAI pilots yield zero P&L impact because enterprise AI tools become static science projects that never adapt to real workflows. |
 | productivity | 4 | Founders are now shipping in days what used to take engineer-months or years — Chamath vibe-coded a bookmark service he'd sat on for 15 years in one weekend, and his team doubled click-through rates via auto-research in a day. |
 | prompting | 7 | Anthropic built a tool-testing agent that used a flawed MCP tool, then rewrote its description — future agents using the new description completed tasks 40% faster. |
-| research-methodology | 28 | LLM grokking, like penicillin, was discovered by accident—and this accidental-discovery pattern is more characteristic of deep learning progress than theory-driven research. |
+| research-methodology | 29 | LLM grokking, like penicillin, was discovered by accident—and this accidental-discovery pattern is more characteristic of deep learning progress than theory-driven research. |
 | system-building | 215 | Prototyping a basic LLM-wiki in Claude Code takes about an hour — the scarce resource is knowing what to build it for. |
 | system-design | 12 | In agentic systems a minor bug cascades across many turns, so production requires resumable execution, retry logic, and rainbow deployments — not stateless request handling. |
 | systems-design | 1 | Components tuned for original conditions do not just underperform in new environments — they generate actively harmful outputs. |

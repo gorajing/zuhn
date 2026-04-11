@@ -61,7 +61,6 @@ related:
   - PRI-260328-C918
   - PRI-260406-E371
   - INS-260404-19B0
-  - INS-260404-1755
 evidence:
   - id: INS-260329-ADCD
     type: TRANSFERS_TO

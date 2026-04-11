@@ -12,4 +12,5 @@
 - `INS-260329-69F0` freeCodeCamp's 48M-view Python tutorial demonstrates that one exhaustive tutorial can drive growth for years.
 - `INS-260322-7B71` Timeless how-to content (like 'Good Product Manager Bad Product Manager') compounds in value while opinion pieces about market bubbles are forgotten quickly.
 - `INS-260405-F456` PostHog's genuinely useful company blog—covering topics like CEO communication, first 1,000 users, and startup sales—is cited as a model for content marketing.
+- `INS-260410-93E3` David Ogilvy's principle that audiences are a moving parade means your back catalog keeps converting new listeners/readers forever, making re-exposure to proven material more ROI-positive than chasing novelty.
 - `INS-260329-1028` freeCodeCamp's 48M-view tutorial demonstrates that one comprehensive free resource can become a permanent acquisition engine dwarfing paid channels.

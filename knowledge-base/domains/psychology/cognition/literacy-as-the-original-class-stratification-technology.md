@@ -50,7 +50,6 @@ stance: >-
   Technologies that gate access to information create durable social hierarchies
   that outlast the civilizations that invented them.
 related:
-  - INS-260327-D76A
   - INS-260327-57CE
   - INS-260327-74CF
   - PRI-260405-7F1E

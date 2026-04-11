@@ -51,13 +51,13 @@ stance: >-
   than transactional or advertising-based models because of high switching costs
   and deep workflow integration.
 related:
-  - INS-260402-5E4E
   - INS-260403-26D4
   - INS-260404-397F
   - PRI-260406-28E1
   - INS-260404-007F
   - INS-260403-7841
   - INS-260404-433E
+  - INS-260410-DA0E
 ---
 Workday (HR/finance), ServiceNow (IT workflows), and Splunk (data analytics) all shared a common business model trait: subscription-based pricing with deep integration into enterprise workflows. Once adopted, these tools became embedded in daily operations, making switching prohibitively expensive and disruptive.
 

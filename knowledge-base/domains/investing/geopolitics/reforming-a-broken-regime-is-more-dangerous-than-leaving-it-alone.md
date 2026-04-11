@@ -56,7 +56,6 @@ stance: >-
   Liberalizing politics before fixing the underlying economic system accelerates
   collapse rather than preventing it.
 related:
-  - INS-260323-E214
   - INS-260323-CF30
   - INS-260327-7A27
   - INS-260327-3D0F
@@ -66,6 +65,7 @@ related:
   - INS-260330-247C
   - INS-260330-2B4F
   - INS-260330-1183
+  - INS-260330-59BC
 ---
 Paine identifies sequencing as Gorbachev's decisive error: glasnost and perestroika released political pressure while the command economy — the actual source of decay — remained untouched and in fact deteriorated further under half-reform. Price controls without private property created backroom corruption instead of markets, and loosened censorship surfaced grievances faster than the regime could absorb them.
 

@@ -49,7 +49,6 @@ stance: >-
   create systematic resource extraction that market-based regulation cannot
   address.
 related:
-  - INS-260324-CBD3
   - INS-260403-FAAF
   - INS-260327-AB3D
   - INS-260403-4183

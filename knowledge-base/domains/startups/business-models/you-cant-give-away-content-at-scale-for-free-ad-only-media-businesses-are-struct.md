@@ -46,8 +46,8 @@ related:
   - PRI-260324-3081
   - PRI-260403-1D59
   - INS-260409-5FBA
+  - INS-260410-9120
   - INS-260404-6751
-  - PRI-260328-6A8D
 stance: >-
   BuzzFeed ($1.7B valuation to penny stock) and VICE (bankruptcy) prove that
   millions of views and hit shows are worth almost nothing without subscri...

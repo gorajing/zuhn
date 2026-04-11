@@ -60,6 +60,7 @@ related:
   - INS-260403-E294
   - INS-260405-863C
   - INS-260404-F589
+  - INS-260410-BFA1
 ---
 The Nvidia-Groq deal fits a broader pattern where Nvidia has become one of the most consistent sources of real liquidity in AI infrastructure. This isn't a wide-open exit market — outcomes increasingly cluster around a handful of strategic buyers. Firms like Tiger Global and Insight Partners have each had multiple portfolio companies acquired by Nvidia recently.
 

@@ -1,5 +1,22 @@
 # Tag: consumer-culture
 
+- `INS-260404-7541` Marketing researcher Americus Reed argues brands now serve the identity-support function once held by churches and communities.
+- `INS-260325-A08A` The trend cycle compressed from years to weeks — products become uncool before companies finish manufacturing them.
+- `INS-260327-86FE` Every anti-consumption trend is immediately co-opted by brands selling anti-consumption-branded products, neutralizing t
+- `INS-260327-A9E8` When enough product categories are exposed as deceptive, consumers generalize distrust to all categories, making honest 
+- `INS-260327-48D6` Products and services that remove all friction from consumption eliminate the natural behavioral checkpoints that previo
+- `INS-260327-B528` The decluttering movement does not reduce consumption because removing old possessions creates psychological permission 
+- `INS-260327-C13D` Water bottles marketed as sustainable alternatives to disposable plastics have become fashion items with seasonal colors
+- `INS-260327-5D71` Products marketed as eco-friendly are evaluated based on visual cues (natural colors, kraft paper, leaf imagery) rather 
+- `INS-260327-FFB5` Products marketed against invisible threats (air quality, EMF, toxins) exploit health anxiety because consumers cannot i
+- `INS-260327-A40E` Brands with decades of cultural presence command premiums based on accumulated social proof, family tradition, and aspir
+- `INS-260327-747B` Artificial urgency events like Cyber Monday show declining engagement as consumers learn that the same discounts are ava
+- `INS-260327-2EFD` Consumer interest in analog products (vinyl, film cameras, physical planners) peaks when the aesthetic appeal exceeds th
+- `INS-260327-2B94` Consumer recycling programs create the illusion of environmental responsibility while the vast majority of recycled mate
+- `INS-260327-2A59` Products that create flavor through scent alone demonstrate that a large percentage of what consumers perceive as taste 
+- `INS-260327-690E` Scented candle purchases are really purchases of emotional states — calm, romance, coziness — using scent as the deliver
+- `INS-260327-6E86` When book discovery shifts from expert curation to algorithmic recommendation based on engagement metrics, the books tha
+- `INS-260327-45BD` Reusable tote bags from trendy brands function primarily as visible virtue signals rather than practical shopping tools,
 - `INS-260327-4F8C` Cruise lines optimize revenue by creating a closed economic system where all spending occurs within their controlled env
 - `INS-260327-0710` Shopping malls built around anchor department stores face cascading failure when anchors close because the entire ecosys
 - `INS-260327-7A5A` Celebrities who launch product lines exploit parasocial fan relationships to bypass normal quality evaluation, resulting
@@ -22,20 +39,3 @@
 - `INS-260327-484F` Novel product categories that exist in regulatory gray areas experience their fastest growth in the period before regula
 - `INS-260327-4445` Viral food products that succeed through novelty rather than taste superiority have the shortest possible trend lifecycl
 - `INS-260327-7498` When Western markets adopt cultural products, they systematically remove the cultural context that creates authentic val
-- `INS-260404-7541` Marketing researcher Americus Reed argues brands now serve the identity-support function once held by churches and communities.
-- `INS-260325-A08A` The trend cycle compressed from years to weeks — products become uncool before companies finish manufacturing them.
-- `INS-260327-86FE` Every anti-consumption trend is immediately co-opted by brands selling anti-consumption-branded products, neutralizing t
-- `INS-260327-A9E8` When enough product categories are exposed as deceptive, consumers generalize distrust to all categories, making honest 
-- `INS-260327-48D6` Products and services that remove all friction from consumption eliminate the natural behavioral checkpoints that previo
-- `INS-260327-B528` The decluttering movement does not reduce consumption because removing old possessions creates psychological permission 
-- `INS-260327-C13D` Water bottles marketed as sustainable alternatives to disposable plastics have become fashion items with seasonal colors
-- `INS-260327-5D71` Products marketed as eco-friendly are evaluated based on visual cues (natural colors, kraft paper, leaf imagery) rather 
-- `INS-260327-FFB5` Products marketed against invisible threats (air quality, EMF, toxins) exploit health anxiety because consumers cannot i
-- `INS-260327-A40E` Brands with decades of cultural presence command premiums based on accumulated social proof, family tradition, and aspir
-- `INS-260327-747B` Artificial urgency events like Cyber Monday show declining engagement as consumers learn that the same discounts are ava
-- `INS-260327-2EFD` Consumer interest in analog products (vinyl, film cameras, physical planners) peaks when the aesthetic appeal exceeds th
-- `INS-260327-2B94` Consumer recycling programs create the illusion of environmental responsibility while the vast majority of recycled mate
-- `INS-260327-2A59` Products that create flavor through scent alone demonstrate that a large percentage of what consumers perceive as taste 
-- `INS-260327-690E` Scented candle purchases are really purchases of emotional states — calm, romance, coziness — using scent as the deliver
-- `INS-260327-6E86` When book discovery shifts from expert curation to algorithmic recommendation based on engagement metrics, the books tha
-- `INS-260327-45BD` Reusable tote bags from trendy brands function primarily as visible virtue signals rather than practical shopping tools,

@@ -59,9 +59,9 @@ stance: >-
 related:
   - INS-260324-E7A2
   - INS-260323-D679
+  - INS-260410-ED8E
   - PRI-260324-3081
   - INS-260330-C9C6
-  - INS-260329-B194
 ---
 Gutenberg invented how to make 300 copies of a book for the price of one, then printed 300 Bibles in a town with seven legal readers of the Bible. He went bankrupt. The bank that seized his press went bankrupt. His apprentices went bankrupt and fled to Venice — and Venice worked because it was the airport hub of the Mediterranean, so you could hand ten Bibles to each of thirty ships' captains and they would physically distribute them. Printing didn't become economically sustainable until roughly 1490, forty years after the press was invented.
 

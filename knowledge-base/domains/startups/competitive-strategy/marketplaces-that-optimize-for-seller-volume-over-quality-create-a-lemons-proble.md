@@ -45,9 +45,9 @@ stance: >-
 related:
   - INS-260322-6AF5
   - INS-260330-9313
+  - INS-260410-4C9D
   - INS-260323-104E
   - INS-260327-9EE4
-  - INS-260327-263F
 ---
 Amazon incentivized quantity over quality. The result is counterfeit products, misleading listings, and fake reviews everywhere. Quality sellers are buried under sponsored listings. Consumers now research extensively before purchasing, defeating the convenience that was Amazon's original value proposition.
 

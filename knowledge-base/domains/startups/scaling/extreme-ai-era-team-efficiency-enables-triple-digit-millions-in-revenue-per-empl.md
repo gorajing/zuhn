@@ -59,8 +59,8 @@ related:
   - INS-260403-3664
   - INS-260403-13AF
   - INS-260405-B88A
-  - INS-260404-8CA8
   - PRI-260406-7FE4
+  - INS-260404-29AF
 ---
 Hyperliquid operates a fully automated on-chain central limit order book with just 11 people, delivering exchange performance comparable to centralized platforms while generating extraordinary revenue per employee. This isn't just efficiency—it represents a structural shift where code and autonomous systems replace the operating workforce entirely.
 

@@ -60,7 +60,6 @@ stance: >-
   resistant to it, because their expertise anchors them to the framework they
   mastered.
 related:
-  - INS-260403-17E1
   - INS-260323-72EB
   - INS-260323-DA1E
   - INS-260323-2D1D

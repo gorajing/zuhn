@@ -8,6 +8,9 @@
 - `INS-260323-365A` Meta open-sources AI models like LLaMA because ecosystem innovation makes their own infrastructure more efficient while attracting top researchers.
 - `INS-260405-4803` Agentic AI is moving from an engineering concern to a board-level strategic imperative.
 - `INS-260325-5455` In AI, being first to market makes you the first target rather than the winner — moats (data flywheels, workflow integration, trust/governance) must be engineered from day one.
+- `INS-260402-9E2D` Think freely, speak carefully, and cultivate a small circle of friends who can handle heretical ideas.
+- `INS-260410-260E` The missionary-children Foreign Service officers correctly called the Chinese Civil War hopeless in 1945-46 based on ground truth, were purged by McCarthy for being right, and their fate illustrates both the value and the cost of honest net assessment.
+- `INS-260410-DB1D` Paine's practical advice: check alignments before committing, reassess early and often, don't get hung up about changing your mind, and recognize that part of good strategy is accepting that some problems cannot be solved and routing scarce resources to ones that can.
 - `INS-260410-C207` The WWII Allies had mutually exclusive end-states but a common existential enemy in Hitler, while the Axis shared ideology but fought parallel wars because their primary enemies didn't align — which let the Allies defeat them in detail.
 - `INS-260410-3A01` Eisenhower armed Pakistan to contain the Soviets, but since Pakistan's primary enemy was India, the weapons were aimed at India — poisoning US–India relations for the duration of the Cold War, a decision Eisenhower later called 'perhaps the worst kind of plan and decision we could ever have made.'
 - `INS-260410-BD56` A cooperative adversary isn't one that wants to cooperate — it's one that can't play its own hand well, and your 'brilliant' strategy may have just been drafting off their incompetence.
@@ -21,6 +24,14 @@
 - `INS-260410-67EE` Paine's concept of a 'cooperative adversary' — a rival so institutionally weak that you can script-write it into self-harming moves — explains why Russia could manipulate Qing and early-republican China repeatedly while failing with Hitler's Germany.
 
 - `INS-260410-5CDC` China won the 1962 Sino-Indian War and took the Aksai Chin Plateau it wanted, but the cost was turning an idealistic, non-militarized India into a permanent adversary that doubled its army within a decade — and foreclosed any possibility of a China–India partnership that would have reshaped the global order.
+- `INS-260330-39D4` Japan bombed Pearl Harbor expecting it would frighten America into neutrality — a catastrophic mirror-imaging error that assumed Americans would react rationally to a show of force.
+- `INS-260327-6C64` In game theory tournaments, tit-for-tat (cooperate first, then mirror) consistently beats both always-cooperate and always-defect strategies across repeated interactions.
+- `INS-260325-47FE` Tit-for-tat wins repeated game theory: cooperate first, then mirror — simplicity and consistency beat complex manipulation.
+- `INS-260325-29D5` For genuinely hard problems, playful exploration without a fixed goal often uncovers the path that direct attack misses.
+- `INS-260410-CE40` Americans (and most analysts) default to 'Team America' analysis — studying only their own options and mirror-imaging the other side — and this explains repeated strategic surprises from Pearl Harbor to Iraq's insurgency.
+- `INS-260410-AB78` Whether 'compromise' is wisdom or suicide is entirely a function of the other side's real objective — a slice of territory can be traded; regime change and extermination cannot be appeased without empowering the executioner.
+- `INS-260410-A992` Nazi brutality turned a failing Stalinist state into a unified lethal adversary; Japanese brutality did the same to China; Russian brutality is doing the same in Ukraine — brutality intended to break will instead eliminates the surrender option.
+- `INS-260329-61E5` Breadth-first search (using a queue) explores all neighbors before going deep, while depth-first search (using a stack) goes deep before exploring broadly — same graph, completely different discovery sequences.
 - `INS-260403-EF30` Creating a sticky one-phrase description of your startup doubles as a strategic focus test.
 - `INS-260405-1894` Invincible companies reinvent their business model categories, not just their execution.
 - `INS-260404-A375` Technology should reinforce or transform your business model, not drive it — the business model question comes first.
@@ -33,9 +44,11 @@
 - `INS-260403-8450` Nvidia's $20B Groq deal was not about buying growth but about preventing the fragmentation of buyer choice that would weaken long-term leverage.
 - `INS-260330-9197` Use difficulty as a strategic compass: at every fork, take the harder path because it compounds into an insurmountable lead over larger competitors.
 - `INS-260410-2CED` Bismarck overturned the European balance of power by framing each of three wars as limited and local, so rivals never coordinated against him.
+- `INS-260410-A671` Meta has won or neutralized every major threat — MySpace, Google+, Twitter, Snapchat, TikTok, Vine, Periscope — because it holds its connect-the-world mission rigidly but treats every product, technology, and strategy as disposable.
 - `INS-260330-F0F2` Build the simple, inexpensive option first — it's easier to sell initially and positions you to conquer the rest of the market from below.
 - `INS-260405-63C8` BlackBerry's collapse was not a product failure — it was a perceptual failure about which game they were playing.
 - `INS-260329-D37E` The VC maxim holds: great entrepreneur + poor market = market wins; poor entrepreneur + great market = market still wins.
+- `INS-260410-B4C0` When competitors can reverse-engineer strategic moves within weeks, only operational skill produces advantages that last multiple seasons.
 - `INS-260330-F22A` Tencent shifted from copying and crushing competitors to investing in them and leveraging its platform to help them grow, converting potential enemies into equity-generating partners.
 - `INS-260410-FA8E` Victory goes to whoever can identify the culminating point — push too far and you trigger counterattacks, third-party interventions, or supply collapse that erase your winnings.
 - `INS-260403-FE00` Beating a monopoly requires redefining the problem space so the incumbent's strengths become irrelevant, not building a marginally better version of their product.
@@ -45,37 +58,39 @@
 - `INS-260330-7BAE` Netflix beat Blockbuster by retreating to improve its core service rather than launching new features to differentiate.
 - `INS-260403-599B` When new technology arrives, ventures creating previously-impossible value win; those preserving old revenue models lose.
 - `INS-260329-6E0F` Competitors who copy you are looking at you instead of their customers — their distraction is your advantage.
+- `INS-260405-AEA0` Most competitor moves are about their opportunity, not your company — applying Graham's 'see randomness' heuristic prevents strategic paralysis.
 - `INS-260409-2578` Pivots at scale rarely work — only pivot when you have literally no other choice.
 - `INS-260403-75CE` Tactics from successful companies fail when transplanted without the underlying conditions that made them effective.
 - `INS-260404-F48F` Improve team performance by working up the stack: first nail execution clarity, then strategic coherence, then vision alignment.
 - `INS-260329-3E28` Year 4 of your current business will almost always outperform year 1 of a new one — switching vehicles resets your compounding.
 - `INS-260323-71B3` GSP teaches that when a takedown meets resistance, you don't force it — you 'turn the corner' and attack from the other side, using the opponent's defensive commitment against them.
-- `INS-260405-AEA0` Most competitor moves are about their opportunity, not your company — applying Graham's 'see randomness' heuristic prevents strategic paralysis.
 - `INS-260329-F4CD` Find the single domino that, when toppled, makes every other optimization unnecessary.
+- `INS-260410-419F` Amazon's success was a philosophically straight line, a strategically squiggly line, and a tactically random set of dots through a maze of failed bets.
 - `INS-260404-F708` Great founders are like running backs — determined to reach the end zone but willing to go sideways or backwards to get there.
 - `INS-260329-58E7` Ramsey's breakthrough from tactical hustle to $300M came when MBAs taught him strategic thinking in exchange for him teaching them execution.
 - `INS-260329-BC6C` Instead of 100 tactical optimizations, find the one big domino that makes them all irrelevant.
 - `INS-260329-727B` The fastest way to $1M/year isn't the fastest way to $10M, and the fastest way to $10M isn't the fastest way to $100M.
 - `INS-260322-B3D0` Pre-PMF advice (just ship, talk to users, no strategy) becomes actively harmful post-PMF — you need strategic bets like Facebook opening beyond .edu or DoorDash expanding beyond food.
 - `INS-260327-8760` Altman rejects backward-from-vision planning, saying he's never seen people with elaborate backward-chain strategies massively succeed.
-- `INS-260323-B849` In normal-distribution games (coin flips for $1), optimize for the average; in power-law games (startups, content, earthquakes), the average is meaningless — optimize for maximum exposure to extreme outcomes.
 - `INS-260323-2E49` Branding is not surface decoration but a worldview methodology — the process of connecting a specific concept to a name, implanting community memories, and building brand strength that converts to shareholder value through consumer benefit.
 - `INS-260329-776B` Brand growth requires accepting that every new pairing loses some existing audience — the discipline is ensuring net positive gains.
+- `INS-260323-B849` In normal-distribution games (coin flips for $1), optimize for the average; in power-law games (startups, content, earthquakes), the average is meaningless — optimize for maximum exposure to extreme outcomes.
 - `INS-260403-130D` Industry-centric strategy tools like Porter's 5 Forces break down when companies like Apple span multiple industries simultaneously.
 - `INS-260409-AB58` If biology, language, and morphology all show saltative branching — long stability then rapid reorganization at branch points — technology and market evolution likely follow the same dynamic, which reframes strategy around transition timing rather than steady progress.
 - `INS-260405-A596` Find the one variable that governs your market and organize everything—strategy, pitch, and milestones—around it.
 - `INS-260402-C2BA` F&F capital works when tied to a specific unlockable milestone like an MVP or pilot launch, not when used to buy time while figuring things out.
 - `INS-260405-2A34` Filtering for fund size and vintage before outreach converts fundraising from a numbers game into a precision exercise.
 - `INS-260405-36E6` Raising exactly one round gives founders external capital to de-risk early stages while avoiding the compounding dilution and return-driven pressure of traditional multi-round VC paths.
+- `INS-260323-28FB` People endure incredible hardship today if the future portends what they want — so start negotiations by finding a shared future state and work backward.
 - `INS-260403-4610` Creandum went Stockholm → San Francisco → Germany → London, using US credibility to unlock European markets.
 - `INS-260330-7EDF` Asking 'what could go right?' instead of 'what went wrong?' shifts strategic focus from diagnosis of failure to identification of actionable opportunities.
-- `INS-260323-28FB` People endure incredible hardship today if the future portends what they want — so start negotiations by finding a shared future state and work backward.
 - `INS-260404-F962` PMs should nail execution first because strategic opportunities emerge from the context built through delivery.
 - `INS-260405-8B89` RuBisCo is slow, makes errors half the time in modern atmospheres, and produces toxic waste—yet plants compensate by making it the single most abundant protein on Earth (estimated 40 billion tons), making it the dominant carbon-fixing mechanism on the planet by sheer volume.
 - `INS-260405-0010` PMF is a dynamic equilibrium that degrades without continuous customer feedback loops.
 - `INS-260404-2BDA` Effective product strategy must include explicit 'not in focus' areas alongside strategic pillars to force real tradeoffs.
 - `INS-260404-380C` Apple Pay succeeded because its value proposition enabled its business model and vice versa — the two were designed as a tightly coupled system rather than sequentially.
 - `INS-260330-F3E4` Harry Sonneborn's franchise realty strategy gave McDonald's control over operators, a new 8.5% revenue stream, and balance sheet assets for bank financing — all from one move.
+- `INS-260410-1941` Microsoft publicly committed to OS/2 with IBM while quietly nurturing Windows and Mac applications as parallel hedges, so when OS/2 failed, Windows was ready to inherit the entire PC ecosystem.
 - `INS-260410-1BB0` When you're racing a window shut, you don't have the luxury of optionality — the window itself is evidence your adversary's structural position will soon exceed yours.
 - `INS-260329-89E9` Solving the top constraint reshuffles reality so the old priority list becomes unreliable.
 - `INS-260330-73F3` DNA replication's lagging strand can't simply mirror the leading strand — it requires an entirely different mechanism with Okazaki fragments, multiple primers, and extra enzymes.
@@ -119,14 +134,3 @@
 - `INS-260323-224F` The Large Hadron Collider discovered the Higgs boson (confirming a 50-year-old prediction) but failed to find supersymmetry, becoming a cautionary tale about building a machine optimized for the expected rather than the unknown.
 - `INS-260410-1345` The Japanese won most battles in China but lost the war because Bushido culture equated 'taking this hill' with strategic success, with no theory of how tactical wins aggregated into the real objective of a stable, communist-free China.
 - `INS-260323-BD20` 80% of TwoSpace's 10,000 members already had offices — they were paying for community access and environmental variety, not affordable workspace.
-- `INS-260402-9E2D` Think freely, speak carefully, and cultivate a small circle of friends who can handle heretical ideas.
-- `INS-260410-260E` The missionary-children Foreign Service officers correctly called the Chinese Civil War hopeless in 1945-46 based on ground truth, were purged by McCarthy for being right, and their fate illustrates both the value and the cost of honest net assessment.
-- `INS-260410-DB1D` Paine's practical advice: check alignments before committing, reassess early and often, don't get hung up about changing your mind, and recognize that part of good strategy is accepting that some problems cannot be solved and routing scarce resources to ones that can.
-- `INS-260330-39D4` Japan bombed Pearl Harbor expecting it would frighten America into neutrality — a catastrophic mirror-imaging error that assumed Americans would react rationally to a show of force.
-- `INS-260327-6C64` In game theory tournaments, tit-for-tat (cooperate first, then mirror) consistently beats both always-cooperate and always-defect strategies across repeated interactions.
-- `INS-260325-47FE` Tit-for-tat wins repeated game theory: cooperate first, then mirror — simplicity and consistency beat complex manipulation.
-- `INS-260325-29D5` For genuinely hard problems, playful exploration without a fixed goal often uncovers the path that direct attack misses.
-- `INS-260410-CE40` Americans (and most analysts) default to 'Team America' analysis — studying only their own options and mirror-imaging the other side — and this explains repeated strategic surprises from Pearl Harbor to Iraq's insurgency.
-- `INS-260410-AB78` Whether 'compromise' is wisdom or suicide is entirely a function of the other side's real objective — a slice of territory can be traded; regime change and extermination cannot be appeased without empowering the executioner.
-- `INS-260410-A992` Nazi brutality turned a failing Stalinist state into a unified lethal adversary; Japanese brutality did the same to China; Russian brutality is doing the same in Ukraine — brutality intended to break will instead eliminates the surrender option.
-- `INS-260329-61E5` Breadth-first search (using a queue) explores all neighbors before going deep, while depth-first search (using a stack) goes deep before exploring broadly — same graph, completely different discovery sequences.

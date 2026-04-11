@@ -7,11 +7,8 @@
 - `INS-260323-0961` Humans conflate intelligence with consciousness because they co-evolved in us, but AI demonstrates that high intelligence can exist with zero consciousness, and consciousness may be far more valuable than intelligence.
 - `INS-260403-AB55` The philosophical framework of evaluating AI behavior by external causes and effects rather than internal experience dissolves the reality/roleplay debate into something empirically testable.
 - `INS-260323-D8B9` Hamkins' mathematical multiverse view holds that different foundational axiom systems (ZFC, ZFC + large cardinals, constructive math) produce genuinely different mathematical universes -- there is no single 'true' foundation.
-- `INS-260405-1D7B` Applying a threshold heuristic generously — including borderline cases rather than excluding them — protects against missing important ideas.
-- `INS-260327-6CB7` Philosophy gives founders the framework to think about problems on a very deep level — ontology is first-principles thinking in philosophy.
-- `INS-260402-BA91` Instead of asking 'what are the most general truths?' ask 'of all useful things we can say, which are the most general?' — using applicability as a compass to avoid getting lost in abstraction.
-- `INS-260403-9669` Daniel Dennett argues that qualia seem private and ineffable due to language failure, not because they are inherently unshareable.
 - `INS-260409-2093` Hassabis worries most about post-AGI philosophy — meaning, purpose, consciousness, what it is to be human — and says we lack modern philosophers equipped for it.
+- `INS-260403-9669` Daniel Dennett argues that qualia seem private and ineffable due to language failure, not because they are inherently unshareable.
 - `INS-260323-C4A2` Even in a fully deterministic universe, the inability to predict the future from within the system makes free will functionally real — a stance called compatibilism.
 - `INS-260327-D212` Once you genuinely question whether the self is real, whether time is linear, or whether consciousness is what it seems, you cannot fully return to your previous way of seeing.
 - `INS-260405-8584` You can keep adding 'want to' layers, but you always bottom out at a desire you didn't choose.
@@ -33,3 +30,6 @@
 - `INS-260322-2E1C` Our experience of a stable, solid world exists not because reality is stable, but because we are trapped too deeply in a narrow slice to notice its freedom.
 - `INS-260330-EFF3` Viewing life as a single-player game removes victim mentality and returns control to the individual.
 - `INS-260325-560A` Montaigne: honest self-examination produces deeper insight than abstract philosophy — 'once you stop caring, the results come.'
+- `INS-260405-1D7B` Applying a threshold heuristic generously — including borderline cases rather than excluding them — protects against missing important ideas.
+- `INS-260327-6CB7` Philosophy gives founders the framework to think about problems on a very deep level — ontology is first-principles thinking in philosophy.
+- `INS-260402-BA91` Instead of asking 'what are the most general truths?' ask 'of all useful things we can say, which are the most general?' — using applicability as a compass to avoid getting lost in abstraction.

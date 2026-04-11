@@ -45,9 +45,9 @@ resolutions:
 related:
   - PRI-260324-90E8
   - INS-260330-5A82
+  - INS-260410-8212
+  - INS-260410-2632
   - INS-260327-0A48
-  - INS-260327-61AE
-  - INS-260327-10A2
 stance: >-
   Under Armour's shoes were genuinely better in comfort and performance than
   Nike

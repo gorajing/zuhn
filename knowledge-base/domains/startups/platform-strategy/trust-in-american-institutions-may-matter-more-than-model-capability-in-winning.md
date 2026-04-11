@@ -69,10 +69,10 @@ related:
   - INS-260403-D531
   - INS-260403-6E7C
   - INS-260404-F631
+  - INS-260410-6D83
   - INS-260403-3346
   - PRI-260328-A82C
   - INS-260325-BC2A
-  - INS-260321-9A03
 ---
 When asked about Chinese AI competition and sovereign-AI demands from the EU, India, and the Gulf, Nadella reframes the moat from capability to institutional trust. His argument: the US has 4% of global population, 25% of GDP, and 50% of market cap precisely because of trust in American institutions, capital markets, and stewardship — and that's a fragile asset. Customers picking an AI stack for the next 20 years aren't just optimizing for current benchmark scores; they're betting on whether the supplier, the country, and its rule-of-law institutions will still be reliable partners.
 

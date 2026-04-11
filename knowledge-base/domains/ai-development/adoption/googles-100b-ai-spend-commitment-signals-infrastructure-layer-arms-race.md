@@ -51,6 +51,5 @@ related:
   - PRI-260328-0E23
   - INS-260323-5C25
   - INS-260403-D00D
-  - INS-260410-9EFC
 ---
 The DeepMind CEO's April 2024 statement that Google would spend more than $100B on AI — framed in Bloomberg — signals that foundation model and infrastructure competition has crossed a threshold where only sovereign funds, hyperscalers, and their direct partners can compete on compute. This has two asymmetric effects: it makes foundation models a near-commodity over time (everyone will have access to capable models via API), while simultaneously ensuring that any competitive moat must be built in the application or data layer, not the model layer. Builders should stop competing on model quality and start competing on workflow integration, data advantage, and distribution.

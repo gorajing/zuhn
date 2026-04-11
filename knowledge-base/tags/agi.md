@@ -33,8 +33,8 @@
 - `INS-260409-35EC` Hassabis disagrees with Yann LeCun — LLMs are the substrate, not a dead-end, and AGI comes from building on them rather than replacing them.
 - `INS-260408-C572` Foundation models are world models without the search/reasoning layer AlphaZero had; combining them is the next breakthrough, not bigger pretraining.
 - `INS-260403-56BB` Microsoft relinquished veto powers and right-of-first-refusal in exchange for extended IP rights through 2032 including post-AGI models, signaling that guaranteed model access is worth more than governance control.
+- `INS-260409-2093` Hassabis worries most about post-AGI philosophy — meaning, purpose, consciousness, what it is to be human — and says we lack modern philosophers equipped for it.
 - `INS-260328-70D3` The belief that you must 'break glass' because AGI is imminent rhymes with every generation's conviction that they happen to be alive at the end of days.
 - `INS-260323-1871` Even if AGI never arrives, AI as an extension of human will and amplifier of human abilities is already a transformative outcome.
 - `INS-260403-A505` OpenAI's charter gave the board power to determine when AGI was achieved — a subjective call with massive financial consequences — making conflict inevitable as capabilities advanced.
 - `INS-260328-93C8` The difference between a technology arriving in 18 months versus 10 years should completely change your strategy, even though both scenarios validate the same directional prediction.
-- `INS-260409-2093` Hassabis worries most about post-AGI philosophy — meaning, purpose, consciousness, what it is to be human — and says we lack modern philosophers equipped for it.

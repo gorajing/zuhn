@@ -52,10 +52,10 @@ stance: >-
   than duplicated within product silos.
 related:
   - INS-260327-2043
+  - INS-260410-1384
   - INS-260322-3159
   - INS-260402-142F
   - INS-260403-CC59
-  - INS-260330-C095
 evidence:
   - id: INS-260322-3159
     type: CONTRADICTS

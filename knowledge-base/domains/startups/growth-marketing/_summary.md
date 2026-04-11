@@ -1,6 +1,6 @@
 # Topic: growth-marketing
 
-> 148 insights
+> 149 insights
 
 - `INS-260320-630D` [very_high] Frame your product as a solution to a problem, not a toy — a video framing Coconote as a fun toy got 41M views but terrible conversion, while solution-framed videos converted far better.
 - `INS-260320-080B` [very_high] Ask customers how they describe your product, then use their exact words as marketing copy — Coconote asked and the majority said "never miss a key detail," which became their App Store headline.
@@ -135,6 +135,7 @@
 - `INS-260329-CB2C` [medium] Prioritize building audience goodwill over immediate monetization because it compounds faster and converts to money on your timeline.
 - `INS-260322-98AB` [medium] Offer lifetime free access at launch to generate initial downloads and App Store reviews, then turn on paid ads only after you have social proof and keyword rankings.
 - `INS-260327-98F7` [medium] Ship, post, get feedback—that learning loop beats any formal education for content and startup skills.
+- `INS-260410-9A10` [medium] Lalit Modi explicitly called controversy 'a pillar of the IPL' and ran the player auction as a deliberately offensive 'cattle and sheep' spectacle because he knew the outrage cycle would generate more attention than any ad spend could.
 - `INS-260323-8165` [medium] Run daily marketing experiments, calculate cost-per-customer for each, and pour everything into the cheapest acquisition channel.
 - `INS-260404-2032` [medium] Owned media audiences can be converted into startup launch services, creating a flywheel that feeds both content growth and investment access.
 - `INS-260405-543B` [medium] Memes achieve virality through audience co-ownership of the humor — resharing feels like self-expression, not advertising, which is why they outperform paid equivalents.

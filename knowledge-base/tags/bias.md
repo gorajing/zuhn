@@ -4,12 +4,6 @@
 - `INS-260322-F65F` AI outputs sound so complete and reasonable that users may believe they have the full picture on controversial topics — deliberately seeking opposing viewpoints is essential to counteract this.
 - `INS-260320-508F` Don't lead in prompts if you want honest feedback — Claude tells you what it thinks you want to hear.
 - `INS-260403-F9C7` Off-the-shelf AI models cannot serve users with dementia, dysphasia, or non-Western communication styles without fundamental architectural changes.
-- `INS-260405-2CDB` The urge to perfect before testing is driven by fear of invalidation, not by logic.
-- `INS-260402-575D` Ten or more reviews override humans' innate preference for similar people, unlocking cross-demographic trust in marketplaces.
-- `INS-260405-AA3C` A VC's internal portfolio study is a mirror of their own biases, not a market study.
-- `INS-260330-2576` Users will say 'yes that sounds great' to almost any feature idea, but that enthusiasm rarely translates to actual switching behavior.
-- `INS-260403-D4F0` Verbal agreement from potential users is not evidence of demand; only observed behavior counts.
-- `INS-260404-DD95` Never mention your solution during learning interviews — people inherently wish to please and will confirm your opinions.
 - `INS-260405-F7FA` All else being equal, bet against the explanation where you are the protagonist.
 - `INS-260405-AF1E` History's biggest paradigm shifts — heliocentrism, evolution, selfish gene — all share a single move: removing humans from the center of the story.
 - `INS-260405-3E73` Anonymizing submissions is the only reliable way to prevent social proximity from contaminating quality judgments.
@@ -20,3 +14,9 @@
 - `INS-260410-CE40` Americans (and most analysts) default to 'Team America' analysis — studying only their own options and mirror-imaging the other side — and this explains repeated strategic surprises from Pearl Harbor to Iraq's insurgency.
 - `INS-260325-F6CD` When young men struggle, the instinct is to blame them for laziness and video games -- an instinct that is not applied to any other demographic group facing comparable challenges.
 - `INS-260325-C2DA` During mass events like 9/11 or COVID-19, social contagion and affective forecasting bias make people unable to imagine their distress is temporary — this 'resilience blind spot' leads to overestimating lasting damage.
+- `INS-260405-2CDB` The urge to perfect before testing is driven by fear of invalidation, not by logic.
+- `INS-260402-575D` Ten or more reviews override humans' innate preference for similar people, unlocking cross-demographic trust in marketplaces.
+- `INS-260405-AA3C` A VC's internal portfolio study is a mirror of their own biases, not a market study.
+- `INS-260330-2576` Users will say 'yes that sounds great' to almost any feature idea, but that enthusiasm rarely translates to actual switching behavior.
+- `INS-260403-D4F0` Verbal agreement from potential users is not evidence of demand; only observed behavior counts.
+- `INS-260404-DD95` Never mention your solution during learning interviews — people inherently wish to please and will confirm your opinions.

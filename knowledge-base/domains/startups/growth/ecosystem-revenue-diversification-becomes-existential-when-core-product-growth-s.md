@@ -53,13 +53,13 @@ stance: >-
   is a survival strategy for maintaining stock valuation.
 related:
   - INS-260324-DB86
-  - INS-260324-224B
   - INS-260329-C893
   - INS-260330-EFFB
   - INS-260330-D556
   - INS-260330-D808
   - INS-260403-EAC6
   - INS-260330-C0E2
+  - INS-260410-7875
 evidence:
   - id: INS-260403-87AC
     type: SUPPORTS

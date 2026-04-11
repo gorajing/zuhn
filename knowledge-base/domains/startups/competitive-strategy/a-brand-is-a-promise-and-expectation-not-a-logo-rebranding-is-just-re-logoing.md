@@ -47,11 +47,11 @@ stance: >-
   on superficial changes that don't alter customer perception.
 related:
   - INS-260324-1CC8
-  - INS-260324-162B
   - INS-260403-06E2
   - PRI-260324-90E8
   - INS-260403-C5D8
   - INS-260330-3431
+  - INS-260410-7B46
 evidence:
   - id: INS-260403-06E2
     type: SUPPORTS

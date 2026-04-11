@@ -51,7 +51,7 @@ related:
   - INS-260404-81AB
   - INS-260405-3A6E
   - INS-260405-D959
-  - INS-260405-62B2
+  - INS-260410-151D
 ---
 Unlike traditional investing where diversification reduces risk, venture capital operates under power law dynamics where a tiny number of investments generate virtually all returns. Sebastian Mallaby's research into firms like Sequoia and Benchmark reveals that the best VCs don't hedge their bets—they concentrate capital on their highest-conviction opportunities.
 

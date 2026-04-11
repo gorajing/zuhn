@@ -53,12 +53,12 @@ stance: >-
   to operators with deep per-item valuation expertise, not those with the most
   inventory or capital.
 related:
-  - INS-260324-162B
+  - INS-260410-8212
   - INS-260330-5A82
   - INS-260327-0A48
   - INS-260403-DD63
   - INS-260405-C5B4
-  - INS-260327-EAB9
+  - INS-260410-2632
 ---
 The sneaker resale business reveals a universal truth about secondary markets: the real money is in information asymmetry, not inventory volume. New sneakers have standardized pricing (StockX provides fair market value), constraining margins to 20-25%. But pre-owned sneakers have no consensus pricing -- a pre-owned shoe always costs less than new, but there is no agreed-upon formula for how much less.
 

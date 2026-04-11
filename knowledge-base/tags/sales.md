@@ -1,6 +1,7 @@
 # Tag: sales
 
 - `INS-260405-FCBE` AI automates volume in sales, making precision the only remaining differentiator.
+- `INS-260329-55F7` People trust their own conclusions far more than anything a salesperson tells them, so guide them to discover the answer rather than asserting it.
 - `INS-260325-3B2A` Getting on the plane to meet someone in person, even for 15 minutes, creates a signal of commitment that consistently beats remote communication in closing deals.
 - `INS-260323-1CA4` Cuban redefines selling as simply asking 'can my product help this person?' — a learnable skill that requires empathy and domain knowledge, not innate charisma.
 - `INS-260409-D195` Ask more times, but only as often as your value delivery earns the right.
@@ -42,4 +43,3 @@
 - `INS-260329-7E63` The best closers don't have better arguments — they ask for the sale more times by using reframing to maintain rapport across repeated asks.
 - `INS-260330-5F35` Elite salespeople let the prospect talk 70% of the time, using questions to understand problems better than the prospect does.
 - `INS-260330-EEA9` Let the product drive user adoption, but deploy consultative salespeople to help customers navigate deployment and competition.
-- `INS-260329-55F7` People trust their own conclusions far more than anything a salesperson tells them, so guide them to discover the answer rather than asserting it.

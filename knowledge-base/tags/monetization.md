@@ -7,6 +7,7 @@
 - `INS-260403-401F` AI companies need usage-based pricing that kicks in fast because generous free tiers burn cash at a rate that SaaS free tiers never did.
 - `INS-260325-4FF3` Eugene from ZDOT AI proposed that instead of per-token pricing, AI companies should charge for value delivered — aligning revenue with the GDP of agent output rather than compute consumed.
 - `INS-260403-32BA` Creators are increasingly launching product lines, brands, and software companies rather than relying solely on content monetization.
+- `INS-260410-13EB` F1 has millions of fans who buy merch, know drivers, and respond to sponsors but never watch a race — and the sponsorship model works fine because logo impressions accumulate across Drive to Survive, social media, and merchandise.
 - `INS-260403-096C` When content can't be sold directly, monetize its scarce complements: concerts for music, advertising for articles, theatrical experiences for movies.
 - `INS-260403-616B` Mainstream cruise lines sell tickets at or below cost, then profit from onboard casinos, spas, drinks, and shopping where passengers have no alternatives.
 - `INS-260330-0998` Tencent's attempt to charge subscription fees for QQ backfired and lost users to competitors, but switching to free access with microtransactions for virtual items and in-game purchases became enormously profitable.
@@ -17,6 +18,6 @@
 - `INS-260403-002C` VC newsletters increasingly monetize through embedded partner tool credits rather than paywalling core content.
 - `INS-260330-80A7` Vine died because it couldn't pay creators — when top Viners demanded $1.2M each annually and Twitter refused, they left, triggering a death spiral that killed the platform within two years.
 - `INS-260403-3656` Stripping live ops from a successful game would lose roughly 40% of revenue — yet most non-game companies don't invest in equivalent continuous content operations.
+- `INS-260321-F0DF` TikTok Live has massive viewer supply but low creator supply — musicians going live regularly earn $10K+/month from TikTok payments while building thousands of followers per week.
 - `INS-260402-D8E7` Pretty much 100% of startups that make something popular manage to make money from it.
 - `INS-260403-3739` Validating that customers will pay for a solution is a stricter and more predictive test than just confirming they have the problem.
-- `INS-260321-F0DF` TikTok Live has massive viewer supply but low creator supply — musicians going live regularly earn $10K+/month from TikTok payments while building thousands of followers per week.

@@ -46,11 +46,11 @@ stance: >-
   young people from disadvantaged backgrounds produces disproportionately more
   transformative outcomes than any other intervention.
 related:
+  - INS-260410-0120
   - INS-260409-60C2
   - INS-260330-27DD
   - INS-260403-219F
   - INS-260330-B91E
-  - INS-260330-CAD2
 evidence:
   - id: INS-260330-CAD2
     type: CONTRADICTS

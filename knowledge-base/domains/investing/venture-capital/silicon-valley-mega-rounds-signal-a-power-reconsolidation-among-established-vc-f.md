@@ -56,7 +56,7 @@ related:
   - INS-260405-CD10
   - INS-260327-0FA9
   - INS-260405-5F16
-  - INS-260327-377A
+  - INS-260410-320A
 ---
 The pullback of aggressive crossover investors — Tiger Global and SoftBank — has not reduced available capital but rather reconsolidated it among established VC firms like General Catalyst, Andreessen Horowitz, and Lightspeed. Single rounds now exceed $40B, raising questions about whether valuations reflect genuine innovation or a supply-demand imbalance in late-stage capital.
 

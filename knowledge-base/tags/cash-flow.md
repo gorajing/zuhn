@@ -6,6 +6,7 @@
 - `INS-260329-0DA4` An existing business with customers and cash flow can fund its own acquisition — a startup cannot.
 - `INS-260329-55D8` Charge premium rates for unscalable 1:1 work to self-fund your scalable business growth.
 - `INS-260403-5BBE` Collecting payment before incurring costs transforms cash flow from a constraint into a competitive weapon.
+- `INS-260410-03FA` When customers pay you before you pay suppliers, every dollar of growth generates free capital instead of consuming it.
 - `INS-260403-2B50` Only a fully linked three-statement model (income, balance sheet, cash flow) reveals the true cash position of a startup.
 - `INS-260404-1CBC` Annual pre-pay creates a virtuous cycle where customer payments directly fund new customer acquisition, effectively creating an infinite marketing budget.
 - `INS-260329-4EF5` When your first sale covers acquisition + fulfillment for the next customer, growth becomes self-funding and capital is no longer the bottleneck.

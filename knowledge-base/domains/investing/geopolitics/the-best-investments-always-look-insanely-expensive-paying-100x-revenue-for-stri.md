@@ -48,10 +48,10 @@ resolutions:
     characteristics. The pattern is real but not universally applicable.
 related:
   - INS-260330-007E
+  - INS-260410-320A
   - INS-260327-94F5
   - INS-260330-1002
   - INS-260327-4440
-  - INS-260330-10CF
   - INS-260323-2040
   - INS-260410-86A5
 stance: >-

@@ -1,6 +1,9 @@
 # Tag: capital-allocation
 
 - `INS-260410-9267` In AI firms, compute budgets will follow decision value — high-stakes roles like CEO could justify $100B+ in annual inference compute for simulation-heavy strategic planning.
+- `INS-260410-DA0E` Amazon used the 2000-2007 dot-com winter—when everyone else was retrenching—to build the fulfillment, Prime, and Marketplace infrastructure that became its permanent moat.
+- `INS-260410-4E57` Meta's 2013 FAIR investment in AI paid off on three independent horizons — immediate ad/feed ranking improvements, medium-term defense against TikTok via Reels, and long-term optionality on AI as a platform — and only the first was required to justify the spend.
+- `INS-260410-91A6` Every generational operator — Buffett, Carnegie, Rockefeller, Izzy Sharp, Ogilvy — grew fastest during downturns by deploying capital into advertising, acquisitions, and hiring while panicked competitors cut back.
 - `INS-260330-4D05` Restricted investment options funnel high savings rates into real estate, disconnecting prices from underlying demand.
 - `INS-260403-738F` Companies invest in AI infrastructure defensively, then can't admit it isn't working because they've already spent too much.
 - `INS-260327-D7DD` When real estate is unaffordable, bonds are unattractive, and savings accounts lose to inflation, stocks become the only game in town regardless of fundamentals.
@@ -24,9 +27,11 @@
 - `INS-260405-AA34` The emergence of a wind-down services industry signals that the post-2021 startup correction is entering its final clearing phase.
 - `INS-260404-3821` VC fund formation is splitting into massive scale plays and laser-focused thematic bets, leaving generalist mid-tier funds stranded.
 - `INS-260403-4227` More VC money doesn't produce more great startups — it inflates prices, spreads talent thin, and compresses exit multiples.
+- `INS-260403-3AE7` Confidence about AI's trajectory is hardening into consensus faster than the underlying evidence supports, creating dangerous belief-lock-in across capital allocation decisions.
 - `INS-260403-D00D` JPMorgan's $1.5T commitment signals that private banks are assuming industrial policy roles governments are too slow to fill.
 - `INS-260403-7157` Solar attracts ~$500B/year in investment and installs more new capacity than every other electricity source combined.
 - `INS-260403-9421` The time required to build a company is often predictive of how long it will last.
+- `INS-260410-45CE` Berkshire's insurance float grew from $88B in 2015 to $171B in 2024 to $176B at end of 2025 — a 2x compound in a decade without any new shareholder capital deployed, creating a zero-cost funding source for the investment portfolio.
 - `INS-260329-1CB0` Extreme early frugality isn't about the savings — it's about escaping survival mode so you can think long-term and make strategic bets.
 - `INS-260403-A93A` Extremely high CLTV/CAC ratios can signal missed growth opportunities rather than operational excellence.
 - `INS-260405-69F1` Innovation spend framed as a call option is harder for CFOs to cut because it reuses their own valuation logic.
@@ -44,4 +49,3 @@
 - `INS-260330-A1A4` Apple's $285B cash hoard demonstrates that past a strategic reserve threshold, excess cash creates more problems than options.
 - `INS-260330-4830` When repatriation taxes trap offshore profits, companies resort to borrowing domestically against foreign assets rather than deploying capital optimally.
 - `INS-260403-D379` Spend the least on experiments when you know the least, and increase stakes only as validated learning reduces uncertainty.
-- `INS-260403-3AE7` Confidence about AI's trajectory is hardening into consensus faster than the underlying evidence supports, creating dangerous belief-lock-in across capital allocation decisions.

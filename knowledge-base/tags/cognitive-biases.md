@@ -1,7 +1,5 @@
 # Tag: cognitive-biases
 
-- `INS-260403-82CC` Investors form a winner/loser judgment in minutes and then selectively interpret your startup's strengths and weaknesses to confirm it.
-- `INS-260403-8DA1` Never assume other teams see your project as a priority — explicitly demonstrate impact on their specific goals.
 - `INS-260404-32C5` Ornate prose tricks the writer into believing they've said more than they have, creating an illusion of depth that readers don't share.
 - `INS-260409-A239` Treating your current self-model as untrustworthy is a generative stance when paired with willingness to act on better evidence, not a paralysis.
 - `INS-260403-C936` Entrepreneurs systematically skip the hypothesis-mapping step because building feels more productive than thinking, even when thinking would save months of wasted effort.
@@ -19,3 +17,5 @@
 - `INS-260329-CCDE` The when-then fallacy ('when I have X, then I'll do Y') inverts cause and effect, creating circular inaction where the action itself would produce the prerequisite condition.
 - `INS-260330-6620` Every person who tried the backwards bicycle knew exactly what was different, yet none could override their ingrained steering bias through conscious effort.
 - `INS-260330-B4F1` Greedy algorithms and human snap-judgments share the same failure mode: optimizing locally while missing the global optimum.
+- `INS-260403-82CC` Investors form a winner/loser judgment in minutes and then selectively interpret your startup's strengths and weaknesses to confirm it.
+- `INS-260403-8DA1` Never assume other teams see your project as a priority — explicitly demonstrate impact on their specific goals.

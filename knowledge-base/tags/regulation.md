@@ -1,9 +1,9 @@
 # Tag: regulation
 
 - `INS-260403-C355` High-stakes industries adopt AI through a predictable trust ladder: copilot for routine tasks → demonstrated reliability → autopilot acceptance → perceived necessity.
+- `INS-260322-091C` In banking and financial services, voice AI actually outperforms humans because humans frequently violate compliance regulations while AI gets it right every time and can be audited.
 - `INS-260403-4A16` AI agents that can autonomously execute multi-step tasks in the physical world cross the line from information hazard to actual weapon.
 - `INS-260403-225F` Humanity consistently fails to regulate powerful technologies preemptively, and AI agents will likely follow this pattern with potentially civilization-scale consequences.
-- `INS-260322-091C` In banking and financial services, voice AI actually outperforms humans because humans frequently violate compliance regulations while AI gets it right every time and can be audited.
 - `INS-260403-5616` AI labs cannot slow down unilaterally because competitors (including state actors) will simply fill the gap, making regulation the only viable brake.
 - `INS-260328-92BC` Howard argues the EU AI Act's foundation model provisions would outlaw competition with OpenAI while providing no real safety benefit since developers would simply relocate.
 - `INS-260403-F7A9` Apple and Google's app review processes — sandbox testing, risk assessment, distribution control — already demonstrate how AI models could be evaluated before public deployment.
@@ -29,6 +29,7 @@
 - `INS-260323-EA65` W.R. Grace lobbied regulators to define asbestos contamination below 1% as 'asbestos-free' — controlling the definition was more effective than fighting every individual regulation.
 - `INS-260403-A87D` The US government is undermining its own dollar dominance by attacking the very stablecoin projects that would cement USD as the default digital currency.
 - `INS-260403-8C92` Without trademarking USD for digital use, any entity — including hostile nations — can create counterfeit digital dollars backed by foreign currencies.
+- `INS-260410-58A5` F1's durability isn't mostly brand or network effects — it's that the FIA explicitly calls it 'the pinnacle,' a regulatory grant no rival motorsport can replicate with money.
 - `INS-260324-2244` Cannabis remains federally Schedule I, blocking companies from banking, tax deductions, and interstate commerce — essentials that every other business takes for granted.
 - `INS-260403-2D99` Regulatory constraints are structural business model inputs that must be designed around, not obstacles to navigate after launch.
 - `INS-260404-D471` Social activism and regulatory changes can render entire business models unviable, not just reduce margins.

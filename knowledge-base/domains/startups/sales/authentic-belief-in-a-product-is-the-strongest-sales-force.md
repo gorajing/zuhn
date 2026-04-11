@@ -53,7 +53,7 @@ related:
   - INS-260327-0A48
   - INS-260327-9C00
   - INS-260330-56B2
-  - INS-260405-C5B4
+  - INS-260410-F6FE
 ---
 Phil Knight was a self-described terrible salesman — he failed miserably selling encyclopedias door-to-door in Hawaii. Yet when he started selling Onitsuka Tiger shoes from his car trunk at track meets, he sold out 300 pairs in three months. The difference wasn't sales technique; it was authentic belief. Customers could sense his personal conviction that these shoes were genuinely better than alternatives.
 

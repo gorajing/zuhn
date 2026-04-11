@@ -49,7 +49,6 @@ stance: >-
   and scale a startup by 5-10x, making the traditional large-raise model
   obsolete for most software companies
 related:
-  - INS-260327-7BB5
   - INS-260403-19C9
   - PRI-260406-1F70
   - INS-260404-EEA7

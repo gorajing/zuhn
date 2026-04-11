@@ -53,13 +53,14 @@ stance: >-
   decisions like payment rail standardization, not consumer-facing product
   launches.
 related:
-  - INS-260323-3D7D
   - INS-260402-3196
   - INS-260405-4803
+  - INS-260323-3D7D
   - INS-260403-05B8
   - INS-260404-9E4E
   - INS-260403-F7DD
   - INS-260405-F20C
+  - INS-260410-161E
 ---
 While Coinbase's headline announcements focused on consumer-facing products (stock trading, prediction markets, AI advisor), the most consequential move is infrastructural: standardizing USDC as the unified settlement layer across all product verticals. This creates a self-reinforcing flywheel where each new product increases USDC transaction volume, which strengthens Coinbase's position as the primary on/off ramp between traditional and decentralized finance.
 

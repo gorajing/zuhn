@@ -51,7 +51,6 @@ stance: >-
   capability
 related:
   - INS-260323-78A5
-  - INS-260328-23B4
   - INS-260330-178D
   - INS-260330-8326
   - INS-260403-912E

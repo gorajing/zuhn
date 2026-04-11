@@ -44,12 +44,11 @@ stance: >-
   if specifics change.
 related:
   - INS-260330-B1A3
+  - INS-260410-87C4
   - INS-260330-8156
   - INS-260322-AAEA
   - INS-260403-1000
-  - INS-260327-7BFA
   - INS-260330-44C7
-  - INS-260330-777A
 evidence:
   - id: INS-260330-44C7
     type: TRANSFERS_TO

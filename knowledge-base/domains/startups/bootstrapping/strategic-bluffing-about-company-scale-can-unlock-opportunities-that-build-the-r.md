@@ -52,7 +52,6 @@ stance: >-
   partnerships often create self-fulfilling prophecies where the deal itself
   provides the resources to become what they claimed
 related:
-  - INS-260322-06EA
   - INS-260327-CB72
   - INS-260330-007E
   - INS-260330-22D6

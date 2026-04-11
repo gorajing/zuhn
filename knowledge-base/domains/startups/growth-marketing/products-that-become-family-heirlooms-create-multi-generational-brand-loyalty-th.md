@@ -40,11 +40,11 @@ stance: >-
   that spans lifetimes because each generation associates the brand with family
   memory and tradition.
 related:
+  - INS-260410-58A5
   - INS-260329-CD64
   - INS-260327-65F6
   - INS-260327-F405
   - INS-260322-683B
-  - INS-260323-47D8
 evidence:
   - id: INS-260323-47D8
     type: TRANSFERS_TO

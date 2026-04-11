@@ -47,11 +47,11 @@ resolutions:
     AI platform plus development time costs less than the SaaS stack it
     replaces, the switch is justified.
 related:
+  - INS-260410-9120
   - INS-260327-DFF1
   - PRI-260406-6E0F
   - INS-260323-FEAB
   - INS-260322-C33D
-  - INS-260327-B357
   - INS-260322-1435
 stance: >-
   Upload bank and credit card statements to an AI agent to identify SaaS

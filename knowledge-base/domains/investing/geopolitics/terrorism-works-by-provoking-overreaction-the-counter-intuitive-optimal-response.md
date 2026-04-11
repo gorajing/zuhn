@@ -57,6 +57,7 @@ related:
   - INS-260403-B4DC
   - INS-260403-29C7
   - INS-260409-E65B
+  - INS-260410-9A10
 stance: >-
   Musk argues Hamas's strategy was explicitly to provoke Israeli overreaction
   that rallies Muslims worldwide

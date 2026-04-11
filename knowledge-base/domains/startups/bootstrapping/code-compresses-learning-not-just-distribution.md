@@ -47,11 +47,11 @@ related:
   - PRI-260328-D5EB
   - PRI-260406-818D
   - INS-260322-3C3D
-  - PRI-260328-6CEC
   - INS-260328-0932
   - INS-260329-4092
   - INS-260330-0C1B
   - INS-260330-9DC9
+  - INS-260405-CF27
 stance: >-
   Code's real advantage isn't zero marginal cost of serving users — it's
   zero-cost experimentation

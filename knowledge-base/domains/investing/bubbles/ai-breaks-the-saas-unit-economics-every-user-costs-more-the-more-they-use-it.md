@@ -45,7 +45,6 @@ resolutions:
     evaluating any AI-first startup: check whether their unit economics improve
     or worsen with scale.
 related:
-  - INS-260322-55D8
   - INS-260322-3010
   - INS-260323-F68A
   - INS-260325-206C
@@ -55,6 +54,7 @@ related:
   - INS-260404-35B6
   - INS-260404-02C8
   - INS-260403-FF45
+  - INS-260330-F9CA
 stance: >-
   Traditional SaaS scales cheaply per user, but AI products have marginal costs
   that increase with usage

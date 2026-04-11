@@ -1,7 +1,8 @@
 # Topic: business-models
 
-> 210 insights
+> 224 insights
 
+- `INS-260410-58A5` [high] F1's durability isn't mostly brand or network effects — it's that the FIA explicitly calls it 'the pinnacle,' a regulatory grant no rival motorsport can replicate with money.
 - `INS-260327-470B` [high] Fast food was considered recession-proof because it offered the best dollars-to-calories ratio, but chains responded to cost-conscious consumers by becoming more expensive, slower, and less reliable.
 - `INS-260403-0FEC` [high] Public company acquisitions function as pooled-risk management services for founders seeking freedom and security.
 - `INS-260402-2D7B` [high] Building authoritative trust in an adjacent domain creates differentiation that competitors cannot easily replicate.
@@ -13,6 +14,8 @@
 - `INS-260403-1A5A` [high] Customer love without sustainable unit economics creates a trap where positive feedback accelerates cash burn rather than signaling viability.
 - `INS-260327-1576` [high] BNPL companies margins depend on merchant fees that merchants accept only to increase conversion, but as BNPL becomes ta
 - `INS-260324-C33C` [high] Unlike most food trends, bubble tea innovation flows from Asia to the West — Chinese and Taiwanese chains invest millions in US franchising while Americans have the highest disposable income and lowest product familiarity.
+- `INS-260410-5581` [high] Nike's playbook is obsess over athletes first, let the brand seep into mass consciousness, then extend into $15 Dick's t-shirts without compromising the pinnacle story.
+- `INS-260410-C688` [high] When a product bundles utility with an intangible 'priceless feeling,' buyers can no longer comp it against alternatives, which frees the seller to price without reference to competitor feature sets.
 - `INS-260405-F691` [high] Amazon Prime shows that pairing a mundane utility with entertainment makes customers reluctant to cancel either, since dropping the subscription means losing both.
 - `INS-260403-CA57` [high] Plot every business model on profitability vs. disruption risk to surface hidden vulnerabilities in seemingly healthy businesses.
 - `INS-260403-3F10` [high] Innovation applied to your entire business model — not just your product — creates more durable competitive advantage.
@@ -30,10 +33,12 @@
 - `INS-260405-1661` [high] Classifieds were ~30% of newspaper revenue and effectively funded quality journalism — when Craigslist killed classifieds, it defunded journalism as a byproduct.
 - `INS-260324-6345` [high] The Pokemon card market is part hobby, part investment, part cultural revival — driven by nostalgia-fueled millennials who brought professional career mindsets into the hobby.
 - `INS-260327-8F03` [high] Businesses whose brand depends on employee enthusiasm and engagement must compensate employees well enough that the enth
+- `INS-260410-45C3` [high] Google's search advertising model let it give Android away for free, which Microsoft's paid-licensing mobile business model structurally could not survive.
 - `INS-260322-B450` [high] The best consumer AI companies achieve over 100% net revenue retention through usage-based pricing on top of subscriptions — something never seen before in consumer software.
 - `INS-260330-5C64` [high] Users make one unrelated choice (e.g., buying a phone) that forces dozens of subsequent choices, creating compounding lock-in that no single service could generate independently.
 - `INS-260327-2B62` [high] FaZe Clan's cost of revenue exceeded 70% every year because content creators demanded generous revenue-sharing to stay exclusive -- the company captured the least value while still spending beyond its means.
 - `INS-260327-78A0` [high] When businesses rebrand cost-cutting as innovation or customer empowerment, consumers eventually recognize the degraded 
+- `INS-260410-2632` [high] Nike gave Jordan a 5% gross revenue royalty plus signature shoe because Converse and Adidas couldn't offer the same without their existing stars demanding equal treatment.
 - `INS-260327-31A7` [high] Ultra-cheap Chinese e-commerce platforms exploit the de minimis trade exemption that allows small-value packages to ente
 - `INS-260327-4F8C` [high] Cruise lines optimize revenue by creating a closed economic system where all spending occurs within their controlled env
 - `INS-260327-B715` [high] Cruise lines earn higher margins than airlines because the ship is a captive-market platform where all spending occurs w
@@ -58,6 +63,7 @@
 - `INS-260327-7681` [high] Western Unions high fees are sustainable because its customers — immigrants sending remittances, unbanked populations — 
 - `INS-260404-35B6` [high] Viaweb charged $300/month flat for big stores, then discovered Frederick's of Hollywood alone cost them $300/month in bandwidth.
 - `INS-260324-2AD8` [high] European football clubs generate billions in revenue from merchandise, TV rights, and sponsorships — yet they're barely cash-flow positive because they spend everything on player salaries to sustain on-field success.
+- `INS-260410-DAB6` [high] Berkshire ended 2025 with $370B+ in cash and Treasuries as 'dry powder' — explicitly reserved to 'allow us to act decisively, invest when others are tentative or fearful, and stand firm when financial storms roll through.'
 - `INS-260329-2EAA` [high] Franchise royalties consume ~60% of a 10-margin operator's take-home, designed to keep franchisees running but not rich.
 - `INS-260327-EF89` [high] Franchise brands face an inherent quality control problem because brand perception depends on the operational quality of
 - `INS-260327-C0C6` [high] Burger King's franchises sued the company because corporate mandated $1 Whoppers that generated royalty revenue for headquarters but forced franchisees to sell at negative margins.
@@ -77,6 +83,7 @@
 - `INS-260330-16F7` [high] McDonald's owns $30B+ in real estate and collects 8-15% of franchisee revenue as rent, making it more real estate investor than restaurant chain.
 - `INS-260324-8FB4` [high] When the product IS the person and that person can easily leave to start their own shop, no amount of capital, brand, or scale can consolidate the market.
 - `INS-260327-10A2` [high] Sneaker reseller Leo makes the highest margins on pre-owned shoes where pricing is non-standardized and his years of expertise let him issue bids within seconds, while new-shoe margins are constrained to 20-25%.
+- `INS-260410-45CE` [high] Berkshire's insurance float grew from $88B in 2015 to $171B in 2024 to $176B at end of 2025 — a 2x compound in a decade without any new shareholder capital deployed, creating a zero-cost funding source for the investment portfolio.
 - `INS-260322-25B4` [high] Technology-driven intelligence (cameras, drones, license plate readers, AI orchestration) creates a third path between harsh punishment and under-enforcement by making crime detection near-certain, which deters crime without mass incarceration.
 - `INS-260327-4D70` [high] Jobs that 'nobody wants' almost always fall into three categories: paying below market, terrible conditions, or located in areas where the wage doesn't cover living costs.
 - `INS-260327-5580` [high] Micro-mobility businesses discovered that the distances too short to walk are also too short to generate fares that cove
@@ -94,11 +101,13 @@
 - `INS-260405-D4F4` [high] Making membership the revenue source (not a loyalty add-on) structurally forces a company to serve customers rather than extract from them.
 - `INS-260405-051E` [high] Costco makes 75% of revenue from membership fees, so it profits by impressing customers with low prices rather than extracting margin from each sale.
 - `INS-260403-3F5F` [high] Costco makes 75% of revenue from membership fees, enabling an 11% markup cap vs Walmart's 24%.
+- `INS-260410-D9DC` [high] Prime's genius wasn't covering shipping costs—it was making customers pre-commit to Amazon financially so they'd rationalize doing all their shopping there.
 - `INS-260327-4C5E` [high] External events that spike a stocks price (Reddit squeezes, viral moments) provide temporary reprieve but cannot address
 - `INS-260330-0998` [high] Tencent's attempt to charge subscription fees for QQ backfired and lost users to competitors, but switching to free access with microtransactions for virtual items and in-game purchases became enormously profitable.
 - `INS-260403-BD43` [high] McDonald's makes 64% of franchise revenue from rent, not food — it is functionally a real estate company disguised as a fast food chain.
 - `INS-260324-98F6` [high] The Big Five movie studios (Paramount, Universal, Sony, Warner Bros, Disney) all have diversified parent conglomerates because standalone film businesses can't absorb the inevitable flops.
 - `INS-260327-723A` [high] Esports collapsed because the ecosystem required publishers, teams, leagues, and broadcasters to all invest simultaneously -- when publishers like EA and Ubisoft pulled back, teams lost revenue, players left, viewership dropped, and sponsors followed.
+- `INS-260410-03FA` [high] When customers pay you before you pay suppliers, every dollar of growth generates free capital instead of consuming it.
 - `INS-260403-C8B9` [high] New business models inherently start at low profitability and must be evaluated on trajectory rather than current performance.
 - `INS-260324-988E` [high] Nightclubs make money from men buying $1,000 tables and $100 bottles to impress women — promoters are the invisible workforce that fills clubs with attractive women to create the demand signal.
 - `INS-260327-B116` [high] Nightclub economics are driven by selling status through bottle service, VIP areas, and exclusivity rather than the actu
@@ -163,7 +172,9 @@
 - `INS-260403-7C60` [high] Game companies constantly adjust conversion pressure per user segment; most non-game companies set one static paywall and leave money on the table.
 - `INS-260327-AFC7` [high] The French Intensive system generating six-figure incomes from small plots was abandoned not because it failed but because industrial agriculture needed farmers dependent on tractors, chemicals, and commodity markets.
 - `INS-260327-E874` [high] People starting Uber driving or Etsy shops after losing their jobs show up as 'new businesses' in statistics rather than as unemployed, masking the true scale of economic displacement.
+- `INS-260410-DFE2` [high] Microsoft's revenue went from $25M to $98M in 18 months on the back of DOS clone licensing because they were both selling infinitely replicable software AND occupying the position every PC maker had to integrate with.
 - `INS-260327-6E0E` [high] Movies monetize through sequential windows -- theatrical (highest price per viewer), DVD/VOD, streaming exclusives (Netflix pays premium for first window), cable TV, and syndication -- each capturing a different willingness-to-pay segment over a 4-6 year lifecycle.
+- `INS-260410-2D4D` [high] IPL had already absorbed India's entire cricket-advertising budget with the international rights deal, so they redesigned the product to compete with soap operas instead of with cricket — unlocking a parallel TAM by attracting women viewers and beauty-brand sponsors.
 - `INS-260409-AF1C` [high] Adobe spent years developing Illustrator; Figma and Sketch copied the core interface ideas at a fraction of the cost and are now eating Adobe's market share — a textbook public goods problem that makes tools for thought structurally undersupplied by private markets.
 - `INS-260330-8639` [high] A product's true cost is purchase price minus resale value, which can completely flip which option is actually cheaper.
 - `INS-260403-1000` [high] Business models should be treated as living, continuously iterable documents rather than fixed five-year plans.
@@ -180,9 +191,11 @@
 - `INS-260327-6A4B` [high] Zara competitive advantage is supply chain speed, not design quality — they produce mediocre designs faster than anyone 
 - `INS-260329-59FF` [high] All zero-capital wealth strategies are variations of value arbitrage — delivering more value than you capture.
 - `INS-260403-9421` [medium] The time required to build a company is often predictive of how long it will last.
+- `INS-260410-161E` [medium] Rolex's Tudor sub-brand is less about downmarket volume and more about testing ideas — ceramic bezels, titanium, new dial colors, Tiger Woods endorsements — that might flop; the phrase is 'the shield protects the crown.'
 - `INS-260405-39A6` [medium] Costco's 15% markup cap is a credible promise — customers know the rule, which is why they don't bother price-checking elsewhere.
 - `INS-260403-4E71` [medium] Big pharma doing less internal R&D and acquiring innovation later means startups bear more early-stage risk with less capital.
 - `INS-260322-AABB` [medium] The most scalable business models solve three different groups' pain points simultaneously in a self-reinforcing loop.
+- `INS-260410-9120` [medium] Google One has over 150 million paying subscribers growing ~50% year-over-year, which gives Google a realistic path to monetize AI through bundle economics that pure standalone AI subscriptions cannot replicate.
 - `INS-260403-49E7` [medium] Zoo Labs teaches business strategy by mapping it to musical concepts musicians already understand, accelerating comprehension.
 - `INS-260404-C8FA` [medium] BMC blocks form an integrated system where revenue requires a value proposition, which requires infrastructure, which must cost less than it earns.
 - `INS-260403-97F5` [medium] When choosing among business model prototypes, organizational readiness to change must be weighted as heavily as market attractiveness.
@@ -195,6 +208,7 @@
 - `INS-260403-32BA` [medium] Creators are increasingly launching product lines, brands, and software companies rather than relying solely on content monetization.
 - `INS-260404-9D4E` [medium] Declining businesses should default to renovation over elimination because existing infrastructure has recoverable value.
 - `INS-260327-6976` [medium] Just as institutions failed to anticipate how quickly personal computers would transform everything, they're failing to anticipate how quickly personal fabrication will do the same.
+- `INS-260410-13EB` [medium] F1 has millions of fans who buy merch, know drivers, and respond to sponsors but never watch a race — and the sponsorship model works fine because logo impressions accumulate across Drive to Survive, social media, and merchandise.
 - `INS-260403-81BD` [medium] Industries with misaligned incentives between providers, payers, and consumers are vulnerable to fintech-enabled marketplace disruption.
 - `INS-260405-9EE6` [medium] Costco's deliberate obstacles — confusing layout, membership fee, crowded aisles — select for the right customers and increase per-visit spend.
 - `INS-260403-83A4` [medium] eDreams built multiple 'inelegant' revenue streams (web-scraping, service fees, media business, hybrid OTA-Meta) that gave them resilience investors initially dismissed.

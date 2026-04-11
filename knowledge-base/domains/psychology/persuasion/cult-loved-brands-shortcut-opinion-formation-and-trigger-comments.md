@@ -47,14 +47,15 @@ stance: >-
   have strong opinions about reliably drives more comments than framing the same
   topic in a neutral category.
 related:
-  - INS-260323-2E49
   - INS-260327-0CBC
   - INS-260330-6D3B
   - INS-260404-7541
   - INS-260323-6BF4
   - INS-260403-CBED
+  - INS-260323-2E49
   - INS-260403-1BCC
   - INS-260403-8C7E
+  - INS-260410-161E
 ---
 When content invokes a category ('shoes,' 'operating systems,' 'pasta'), viewers have to construct an opinion from scratch before responding — a high-friction step most skip. When content invokes a specific cult-loved entity ('Nike,' 'Linux,' 'Carbone'), viewers already have a cached opinion. The cognitive work is done; all they need to do is hit the comment box.
 

@@ -50,11 +50,11 @@ stance: >-
   Trying to rally a struggling startup with grand vision speeches backfires —
   only tangible small wins restore momentum
 related:
+  - INS-260410-7875
   - INS-260330-8686
   - INS-260330-9BF5
   - INS-260326-870E
   - INS-260329-E6DB
-  - INS-260403-CF98
 evidence:
   - id: INS-260403-CF98
     type: TRANSFERS_TO

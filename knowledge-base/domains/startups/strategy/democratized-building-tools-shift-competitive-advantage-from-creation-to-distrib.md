@@ -50,7 +50,6 @@ stance: >-
 related:
   - INS-260327-A61B
   - INS-260403-1DE4
-  - INS-260403-4C4E
   - INS-260404-397F
   - INS-260405-71E1
   - PRI-260406-28E1
@@ -58,6 +57,7 @@ related:
   - PRI-260406-EBDB
   - INS-260327-289F
   - INS-260409-CBC7
+  - INS-260409-C3B3
 ---
 No-code platforms, AI code generation, and automation tools are collapsing the cost and skill required to build software products. When the marginal cost of creation approaches zero, supply explodes—and in any market with abundant supply, the scarce resource becomes the new bottleneck. That bottleneck is shifting from 'can you build it?' to 'can you get it in front of the right people?' and 'does anyone care?'
 

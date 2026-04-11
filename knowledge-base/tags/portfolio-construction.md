@@ -4,6 +4,7 @@
 - `INS-260326-6B99` Taleb's barbell strategy — 80% ultra-safe assets plus 20% highly speculative bets — is mathematically superior to medium-risk allocation because it creates a convex payoff that benefits from volatility rather than being destroyed by it.
 - `INS-260403-4717` Prefer investments with platform optionality over single-asset bets because the asymmetric downside of binary outcomes destroys portfolio returns.
 - `INS-260404-FF8D` Chamath's $380M write-down on Relativity Space illustrates how deep-tech venture bets can produce catastrophic single-position losses.
+- `INS-260410-151D` Berkshire's equity portfolio concentrates asymmetrically: Apple at only 1.6% of company but $62B market value, American Express at 22.1% of company and $56B market value — conviction level, not diversification rules, drove the ownership percentage.
 - `INS-260404-7295` SignalFire's $1B+ raise validates that systematic data-driven approaches to venture capital can attract significant LP capital and compete with traditional relationship-driven models.
 - `INS-260403-DFA2` Sequoia found that deals everyone mildly liked underperformed deals that triggered strong conviction even with disagreement, so they eliminated middle-score options.
 - `INS-260403-970B` When a sector will produce few massive winners among thousands of failures, fund diversification through top-tier managers beats direct bets.

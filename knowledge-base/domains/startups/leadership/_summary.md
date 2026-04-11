@@ -1,6 +1,6 @@
 # Topic: leadership
 
-> 186 insights
+> 192 insights
 
 - `INS-260404-F834` [high] Replace abstract culture complaints with specific behavioral stories backed by evidence to surface real, fixable problems.
 - `INS-260330-4A89` [high] Raises given on request incentivize lobbying over performance; formal evaluation cycles protect meritocratic culture.
@@ -122,6 +122,7 @@
 - `INS-260323-9146` [high] Finding a co-founder is as serious as choosing a spouse — the 'airport test' (who would you rather be stranded with for 48 hours) matters more than skills on paper.
 - `INS-260402-D2C9` [high] You cannot manage a process intended to produce beautiful things without knowing what beautiful is — taste is a prerequisite for quality leadership.
 - `INS-260325-75EA` [high] A teacher makes deposits of knowledge; a coach observes your real performance over time and walks you through iterative change — the distinction is about feedback loops, not content.
+- `INS-260410-9CF8` [high] Bernie built F1 over 45 years through ruthless control, but unlocking the modern era required firing him because every move he made was now an obstacle — classic 'what got you here won't get you there.'
 - `INS-260325-6F89` [high] The founder's job changes every 12-18 months — most fail because they keep using skills that worked at the previous stage.
 - `INS-260330-DB4B` [high] When something important lands on your desk, saying 'I need to think this through from all perspectives' produces better outcomes than the instinct to demonstrate decisiveness.
 - `INS-260323-1176` [high] When Ignacio told Rosolie 'you'd be an idiot to leave right now,' the decision to stay produced the historic first-contact encounter -- leaders must create space for trusted operators to override the plan.
@@ -141,6 +142,7 @@
 - `INS-260403-7CAA` [high] Keeping the company running during crisis gives employees stability and purpose, not just revenue.
 - `INS-260330-36B4` [high] When announcing someone's departure, preserve their dignity — every employee in the company will be called as a reference for that person.
 - `INS-260327-482E` [high] Stop avoiding hard problems—identify the biggest risk and attack it directly.
+- `INS-260410-5CAA` [medium] Microsoft grew revenue from $6B to $80B under Ballmer, yet the stock stayed flat for over a decade because the company could not articulate a coherent story for consumers, developers, or investors.
 - `INS-260404-4FDB` [medium] Codified anti-toxicity rules (like Sutton's 'No Asshole Rule') function as competitive moats for creative organizations by protecting psychological safety.
 - `INS-260403-CF44` [medium] Dario spends 30-40% of his time on culture because at exponential speed, organizational decoherence is the binding constraint on execution.
 - `INS-260404-CDF0` [medium] Map behaviors before outcomes because they are concrete, observable, and the primary lever for culture change.
@@ -151,14 +153,17 @@
 - `INS-260330-4045` [medium] Confucian governance worked because each level of the hierarchy had explicit obligations downward, not just authority — making compliance feel like reciprocity rather than submission.
 - `INS-260327-B45A` [medium] When COVID cut Bolt's revenue by 85%, they chose salary cuts over layoffs, keeping the team intact and tripling market share while paralyzed competitors recovered.
 - `INS-260323-5737` [medium] Gabbard's daily task of reading every combat injury list name by name never became routine -- this forced daily confrontation with the human cost of policy decisions prevented the normalization that enables bureaucratic indifference.
+- `INS-260410-A9CE` [medium] Greg Abel: 'We operate a decentralized model with autonomy grounded in deserved trust. We minimize bureaucracy to provide our managers the independence to focus relentlessly on their business. In return, we expect accountability and integrity in performance.'
 - `INS-260330-341D` [medium] Morgan refused to invest without full control, then used that control to reshape management teams and enforce his consolidation strategy.
 - `INS-260403-615D` [medium] Karp argues expert classes have been wrong about every substantive question for 20 years because their models are calibrated to old paradigms.
 - `INS-260323-86FA` [medium] Valuing expert knowledge is fundamentally different from blind deference to authority — but public confusion between the two erodes trust in both.
 - `INS-260330-8156` [medium] In-N-Out survived six leadership transitions over 70 years — beating the odds where two-thirds of family businesses fail at the second generation.
 - `INS-260403-8B5A` [medium] Founder-led deep involvement beats the conventional 'hire and delegate' playbook at scale.
 - `INS-260405-B4D2` [medium] Silicon Valley is rehabilitating micromanagement as a tool founders should embrace rather than avoid.
+- `INS-260410-A65C` [medium] The NFL got Pete Rozelle as a paid commissioner; F1 needed Bernie Ecclestone as an owner-operator because you cannot wage-incentivize someone to wrangle global teams, tracks, broadcasters, and a regulator across 45 years.
 - `INS-260403-93BB` [medium] Founder visibility isn't self-promotion — it's a leadership tool that enables team confidence, investor trust, and market legibility.
 - `INS-260323-FBD9` [medium] Leading an MMO guild of 30+ anonymous players with mixed motivations (loot-seekers, lonely escapists, competitive achievers) teaches real leadership — motivation, discipline, coordination — in a high-stakes emotional environment.
+- `INS-260410-87C4` [medium] Greg Abel: 'Our owners' time horizon extends beyond the tenure of any individual CEO. I will not be your CEO for the next 60 years as simple arithmetic makes that — shall we say — an ambitious plan.'
 - `INS-260330-E0A9` [medium] Toussaint L'Ouverture made conquered European generals into his own officers because he prioritized upgrading his army's culture over satisfying his soldiers' desire for revenge.
 - `INS-260330-4AAD` [medium] Toussaint L'Ouverture made conquered enemy generals into his own generals because he valued cultural elevation over revenge.
 - `INS-260329-4F3F` [medium] When everyone knows the numbers, you spend less time convincing them why the new priority matters.
@@ -171,6 +176,7 @@
 - `INS-260330-AA25` [medium] Never apologizing works in environments without accountability but creates compounding credibility debt that collapses catastrophically when external pressure arrives.
 - `INS-260327-F55C` [medium] Anderson replaces manager-driven performance reviews with peer feedback every 90 days using a simple 0-1-2 rating scale, arguing this is the structural decision that determines whether a growing company stays nimble.
 - `INS-260403-4963` [medium] Plan quarterly meetups centered on one unforgettable shared activity, because Slack doesn't build culture — shared memory does.
+- `INS-260410-9AD9` [medium] Greg Abel in the 2025 Berkshire letter: 'Berkshire must have leaders that reflect its principles, and not principles that fit individuals.' The ordering matters — values come first, leadership selection comes second.
 - `INS-260403-F0DF` [medium] Splitting the CEO role into a chief execution officer and a chief entrepreneur resolves the explore-exploit tension structurally rather than hoping one person can do both.
 - `INS-260322-627E` [medium] Start with high trust (75%) so people take risks immediately, but deplete the trust battery faster than normal — you learn what people are made of much sooner.
 - `INS-260327-B7FC` [medium] When Rajat saw his early team members were willing to die for the company, he knew he had built something real — their dedication became his motivation.

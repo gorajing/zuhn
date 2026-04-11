@@ -1,10 +1,11 @@
 # Tag: pricing-strategy
 
-- `INS-260320-00C2` When users try to cancel, ask "Do you just need more time?" — trial extensions retained the most users, outperforming discounts and 3-month pause options, while keeping users on auto-renew.
 - `INS-260322-E20E` AI application companies should price by business value delivered or productivity uplift, not by token consumption — cost-based pricing systematically undercharges as AI costs deflate.
 - `INS-260403-401F` AI companies need usage-based pricing that kicks in fast because generous free tiers burn cash at a rate that SaaS free tiers never did.
+- `INS-260320-00C2` When users try to cancel, ask "Do you just need more time?" — trial extensions retained the most users, outperforming discounts and 3-month pause options, while keeping users on auto-renew.
 - `INS-260327-470B` Fast food was considered recession-proof because it offered the best dollars-to-calories ratio, but chains responded to cost-conscious consumers by becoming more expensive, slower, and less reliable.
 - `INS-260403-AFBC` Agentic AI that replaces human work should charge per outcome; assistive AI that augments humans should charge per seat or usage tier.
+- `INS-260410-9120` Google One has over 150 million paying subscribers growing ~50% year-over-year, which gives Google a realistic path to monetize AI through bundle economics that pure standalone AI subscriptions cannot replicate.
 - `INS-260403-616B` Mainstream cruise lines sell tickets at or below cost, then profit from onboard casinos, spas, drinks, and shopping where passengers have no alternatives.
 - `INS-260404-12A4` Mandatory fees force companies to continuously justify membership value, aligning long-term incentives with customer satisfaction.
 - `INS-260403-3F5F` Costco makes 75% of revenue from membership fees, enabling an 11% markup cap vs Walmart's 24%.
@@ -16,6 +17,7 @@
 - `INS-260327-5E03` When consumers can't afford cars, automakers built more expensive cars with longer loan terms rather than more affordable alternatives.
 - `INS-260327-CC35` Taco Bell never discounts core items like the Crunch Wrap -- instead they create purpose-built value products like the 79-cent cheese roll-up that are profitable at that price point, preserving pricing power that competitors destroyed through aggressive discounting.
 - `INS-260327-F6BA` Taco Bell's CEO Greg Creed never discounted the Crunch Wrap or core items -- instead he created purpose-built products like 99-cent bean burritos and 79-cent cheese roll-ups that were profitable at those prices, preserving the chain's pricing power while competitors destroyed theirs.
+- `INS-260410-AF68` Bill Gates licensed Microsoft BASIC to Apple for just $31,000 because his goal was to be the default programming language on every microcomputer, not to extract maximum revenue per deal.
 - `INS-260330-6EE1` Find what incumbents structurally can't do — whether that's platform agnosticism against suite vendors or novel monetization like Zenefits getting paid by insurance companies instead of customers.
 - `INS-260323-E551` Tudor maintained his ice monopoly by systematically undercutting copycat businesses on price until they gave up or went bankrupt.
 - `INS-260327-F0B2` Systems of record like Salesforce must choose: charge for data and give away agentic workflows, or charge for workflows and make data storage free.

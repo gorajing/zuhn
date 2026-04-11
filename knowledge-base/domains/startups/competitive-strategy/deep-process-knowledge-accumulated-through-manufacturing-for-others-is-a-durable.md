@@ -59,12 +59,13 @@ stance: >-
   innovation
 related:
   - INS-260404-57D0
-  - INS-260403-690C
   - INS-260330-0346
   - PRI-260328-C528
   - INS-260325-5B7F
   - INS-260403-D39A
+  - INS-260403-690C
   - INS-260403-E63A
+  - INS-260410-F5B6
 ---
 For decades China was dismissed as a low-cost assembler with no intellectual property. But that assembly work created something valuable that didn't appear on balance sheets: tacit process knowledge — the kind of manufacturing expertise that can only be learned by running factories at scale. This knowledge compound interest eventually enabled Chinese firms to move up the value chain from assembling foreign products to engineering their own.
 

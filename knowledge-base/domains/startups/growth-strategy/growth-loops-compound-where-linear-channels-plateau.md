@@ -52,7 +52,6 @@ stance: >-
   amount of linear channel optimization can match.
 related:
   - INS-260323-1F27
-  - INS-260320-9935
   - INS-260327-7C6B
   - PRI-260328-C918
   - PRI-260328-49CB
@@ -61,6 +60,7 @@ related:
   - INS-260330-A029
   - INS-260330-8FE7
   - INS-260402-4BC7
+  - INS-260402-1436
 ---
 Linear acquisition channels like paid ads, outbound, and content marketing hit diminishing returns because each new customer requires roughly the same marginal effort. Growth loops break this constraint by making each user's activity recruit additional users automatically.
 

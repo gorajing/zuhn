@@ -4,18 +4,9 @@
 - `INS-260329-3489` Experts shift from spending 90% of time generating to spending most time on QA and validation of AI output.
 - `INS-260323-7BA4` Black holes existed in the Schwarzschild solution from 1917 but weren't recognized until the 1950s — the brightest physicists of two generations missed what was sitting in front of them.
 - `INS-260329-B408` The course author's core claim from experience at Google is that excellent programmers are distinguished primarily by knowing when to use which data structure, not by raw coding speed or algorithm knowledge.
-- `INS-260403-C732` Bold investing comes from understanding the domain well enough to recognize asymmetric upside, not from reckless risk appetite.
-- `INS-260404-864F` Complex ideas don't require complex sentences—experts in hard fields speak informally because cognitive overhead must go to the ideas, not the language.
-- `INS-260328-3FA4` Dalton was typecast as the 'music/consumer guy' when his real expertise was hiring, firing, growth, developer tools, and open source — founders should look at portfolios and operating history, not bios.
-- `INS-260403-63E6` When you lack selection expertise, use others' demonstrated picks as a proxy rather than trying to build the capability internally.
-- `INS-260403-6857` Experts who import frameworks from other fields bypass the paradigm lock-in that constrains within-domain thinking.
-- `INS-260403-DDFD` Once you're truly good at a technology, the gaps and broken things in the world become obvious — each one a potential startup.
-- `INS-260323-86FA` Valuing expert knowledge is fundamentally different from blind deference to authority — but public confusion between the two erodes trust in both.
-- `INS-260330-AEF1` Jeff the stranger instantly earned trust and admiration by understanding the pulley system and knowing exactly what to do — practical knowledge created immediate social connection and value.
-- `INS-260330-8BDA` Steve accurately predicted where and how each suppressor would fail before firing, demonstrating that design intuition is built through repeated cycles of hypothesis and physical testing.
-- `INS-260325-78E9` A professional hairdresser with no archaeology training solved the mystery of ancient Roman hairstyles that had stumped academics for centuries — embodied skill reveals what theory cannot.
 - `INS-260403-0907` Ideas form when trained mental habits involuntarily fire on random inputs—like doodling with concepts—which is why domain expertise is a prerequisite for generating novel ideas.
 - `INS-260403-917B` When facts are instantly accessible, the premium shifts from knowing things to understanding and applying them.
+- `INS-260403-C732` Bold investing comes from understanding the domain well enough to recognize asymmetric upside, not from reckless risk appetite.
 - `INS-260410-8E0D` Paine repeatedly tells Dwarkesh his questions are 'above my pay grade' — she can describe what the Japanese leadership faced, but can't say what was politically feasible for FDR without having served in government.
 - `INS-260410-0735` Mao was a military genius who reunified a shattered China after 40 years of civil war, and the same person then caused the largest peacetime famine in Chinese history — because the skills that win wars are not the skills that run economies.
 - `INS-260410-260E` The missionary-children Foreign Service officers correctly called the Chinese Civil War hopeless in 1945-46 based on ground truth, were purged by McCarthy for being right, and their fate illustrates both the value and the cost of honest net assessment.
@@ -55,5 +46,14 @@
 - `INS-260330-0FCC` Disciplinary training creates perceptual filters that make anomalies invisible to insiders but obvious to outsiders.
 - `INS-260330-7E3F` Non-experts in public discourse play 'tennis without a net' — they can swing as hard as they want with no penalty for errors, while real experts face career consequences for every mistake.
 - `INS-260329-F51D` The Google engineer observes that excellent programmers are distinguished not by knowing more data structures but by knowing when each one is the right choice for the task.
-- `INS-260325-1EAC` Shunryu Suzuki's teaching that beginner's mind holds many possibilities while expert's mind holds few applies to relationships, business, and self-understanding alike.
 - `INS-260323-089E` The popular narrative that Einstein couldn't keep up with quantum mechanics is 'almost 180 degrees wrong' — his philosophical objections were correct and led to understanding quantum entanglement.
+- `INS-260325-1EAC` Shunryu Suzuki's teaching that beginner's mind holds many possibilities while expert's mind holds few applies to relationships, business, and self-understanding alike.
+- `INS-260404-864F` Complex ideas don't require complex sentences—experts in hard fields speak informally because cognitive overhead must go to the ideas, not the language.
+- `INS-260328-3FA4` Dalton was typecast as the 'music/consumer guy' when his real expertise was hiring, firing, growth, developer tools, and open source — founders should look at portfolios and operating history, not bios.
+- `INS-260403-6857` Experts who import frameworks from other fields bypass the paradigm lock-in that constrains within-domain thinking.
+- `INS-260403-DDFD` Once you're truly good at a technology, the gaps and broken things in the world become obvious — each one a potential startup.
+- `INS-260403-63E6` When you lack selection expertise, use others' demonstrated picks as a proxy rather than trying to build the capability internally.
+- `INS-260323-86FA` Valuing expert knowledge is fundamentally different from blind deference to authority — but public confusion between the two erodes trust in both.
+- `INS-260330-AEF1` Jeff the stranger instantly earned trust and admiration by understanding the pulley system and knowing exactly what to do — practical knowledge created immediate social connection and value.
+- `INS-260330-8BDA` Steve accurately predicted where and how each suppressor would fail before firing, demonstrating that design intuition is built through repeated cycles of hypothesis and physical testing.
+- `INS-260325-78E9` A professional hairdresser with no archaeology training solved the mystery of ancient Roman hairstyles that had stumped academics for centuries — embodied skill reveals what theory cannot.

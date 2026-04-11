@@ -1,5 +1,6 @@
 # Tag: returns
 
+- `INS-260410-C89B` Greg Abel in the 2025 letter: 'At Berkshire's scale, the math of compounding works against us — a reality long understood and best acknowledged plainly. Our opportunity is improvement in per-share value over the long term, even when progress comes in smaller increments.'
 - `INS-260403-3CD0` Optimizing deal terms yields marginal gains compared to the exponential impact of picking the right startup.
 - `INS-260327-7F54` PE firms promised billionaire-level returns through superior analysts but actually delivered them through borrowing against acquired companies and smoothing volatility on paper.
 - `INS-260403-CDC9` Winning deals matters more than picking them because access compounds faster than analytical skill.

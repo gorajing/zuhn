@@ -1,9 +1,10 @@
 # Topic: decision-making
 
-> 133 insights
+> 136 insights
 
 - `INS-260404-A246` [high] Admitting you're bad at something is the first step to finding effective workarounds like delegation or systematic search.
 - `INS-260403-F03A` [high] Judge purchases by projected usage, not by the deal you got.
+- `INS-260410-3B3E` [high] Munger's core life strategy — which Senra identified as the dominant theme of their 3-hour dinner — is that great businesses, great spouses, and great friends simply generate fewer crises than mediocre ones, so front-loading quality selection solves 99% of downstream problems.
 - `INS-260409-53A1` [high] 'Because' is a compliance trigger regardless of whether the reason makes sense.
 - `INS-260330-148C` [high] What looks like a flaw mid-process (arrow flexing wildly) is often the exact mechanism enabling the correct result.
 - `INS-260330-08E1` [high] Getting a tattoo takes hours; removing one takes years of painful treatments — this reversal-cost asymmetry is a general pattern humans systematically underweight.
@@ -87,6 +88,7 @@
 - `INS-260330-31B5` [high] If you're drawn to work despite its lack of prestige, that's evidence both of genuine interest and of untapped opportunity.
 - `INS-260403-F9EE` [high] Writing short essays forces you to form and articulate a point of view, which passive reading and watching cannot accomplish regardless of volume.
 - `INS-260403-16F2` [high] The most effective way to direct your ambient thinking is upstream: choose situations where the most urgent problems are the ones you actually want to solve.
+- `INS-260410-F5B6` [high] Nike pioneered Asian outsourced manufacturing and then was caught completely off guard by the sweatshop labor crisis that its own strength invited.
 - `INS-260403-3AE7` [medium] Confidence about AI's trajectory is hardening into consensus faster than the underlying evidence supports, creating dangerous belief-lock-in across capital allocation decisions.
 - `INS-260403-1B96` [medium] AI founders face a personal expected-value calculation where certain death in decades vs. a chance at immortality makes even a 25% extinction risk individually rational.
 - `INS-260402-2DCE` [medium] 'Inappropriate' is the null criticism — it means opponents have no substantive objection, only status-based discomfort.
@@ -105,6 +107,7 @@
 - `INS-260330-255F` [medium] Only enter a category when you can make it one to two orders of magnitude better than what exists — if the technology or market isn't ready, wait.
 - `INS-260403-45D5` [medium] PG told Fred to meet the Airbnb founders before debating the idea, because abstract debate anchors on skepticism.
 - `INS-260330-CED2` [medium] The archer's paradox shows that a flexible arrow bends around the bow — rigidity would cause a miss, while flexibility finds the target.
+- `INS-260410-BFA1` [medium] Bernard Arnault started accumulating Hermès shares through equity swaps specifically when he saw Jean-Louis Dumas's retirement coming and no clear single successor — the first separation of CEO and artistic-director roles was the opening.
 - `INS-260405-690F` [medium] The gain of today is the expectation of tomorrow — adaptation collapses the distance between delight and neutral.
 - `INS-260403-81A4` [medium] Instead of dwelling on death, cultivate aggressive impatience about doing the things that matter to you.
 - `INS-260330-4315` [medium] Agriculture emerged independently worldwide, but this convergence proves shared evolutionary pressures, not that farming was the best choice.

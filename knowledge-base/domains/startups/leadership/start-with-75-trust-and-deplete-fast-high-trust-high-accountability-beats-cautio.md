@@ -56,7 +56,7 @@ related:
   - INS-260327-7F32
   - INS-260329-DC86
   - INS-260330-D6EF
-  - INS-260330-9A34
+  - INS-260405-5C48
 stance: >-
   Start with high trust (75%) so people take risks immediately, but deplete the
   trust battery faster than normal

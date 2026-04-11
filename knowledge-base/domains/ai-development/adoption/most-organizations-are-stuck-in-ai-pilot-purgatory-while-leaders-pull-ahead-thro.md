@@ -56,6 +56,7 @@ related:
   - INS-260323-348F
   - PRI-260328-0C51
   - INS-260328-0DFE
+  - INS-260410-9AD9
 ---
 McKinsey's finding that most organizations remain stuck in AI pilots while only a minority achieve enterprise-level impact reveals that the bottleneck has shifted from technology to organizational change. Leaders differentiate by doing the harder work of redesigning workflows for measurable outcomes rather than layering AI on top of existing processes.
 

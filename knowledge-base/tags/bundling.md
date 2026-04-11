@@ -1,5 +1,6 @@
 # Tag: bundling
 
+- `INS-260410-9120` Google One has over 150 million paying subscribers growing ~50% year-over-year, which gives Google a realistic path to monetize AI through bundle economics that pure standalone AI subscriptions cannot replicate.
 - `INS-260405-F691` Amazon Prime shows that pairing a mundane utility with entertainment makes customers reluctant to cancel either, since dropping the subscription means losing both.
 - `INS-260405-1661` Classifieds were ~30% of newspaper revenue and effectively funded quality journalism — when Craigslist killed classifieds, it defunded journalism as a byproduct.
 - `INS-260404-2FD0` Bundling adjacent features around a core product creates stickiness in commodity markets.

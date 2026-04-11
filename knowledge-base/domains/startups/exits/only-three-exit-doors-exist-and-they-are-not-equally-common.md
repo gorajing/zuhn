@@ -48,5 +48,6 @@ related:
   - INS-260403-F4E7
   - INS-260403-E300
   - INS-260403-27AC
+  - INS-260410-641D
 ---
 Michael makes the point that there are only three exit paths and IPO is vanishingly rare. Acquisition frequency is dramatically overestimated because nobody writes 'congratulations, we failed to get acquired' posts — you only see the successes. Even among reported acquisitions, the common structure is an asset sale plus job offers, not the wealth-creation event founders imagine. Planning as if acquisition is a realistic escape from a zombie state is a base-rate error. Shutdown belongs in the founder's top-three outcome set from day one, not as an unthinkable last resort.

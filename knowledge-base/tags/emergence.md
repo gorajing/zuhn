@@ -10,10 +10,6 @@
 - `INS-260330-E059` 300 rotating arrows, each performing the simplest possible motion (constant-rate rotation), compose to trace any arbitrary shape — a principle that extends to neural networks and modular system design.
 - `INS-260403-726B` Oxygen — the molecule all animal life requires — is a waste product of photosynthesis, not its purpose.
 - `INS-260330-8538` Each level of biological organization (atom → cell → tissue → organ → system → organism) produces emergent capabilities invisible at lower levels.
-- `INS-260403-65D2` Multi-layer systems exhibit emergent rigidity that single layers don't, because elements trap each other rather than flowing freely.
-- `INS-260325-486C` Adjacent numbers 26 and 27 in Collatz reach maximums of 40 and 9,232 respectively — simple rules create wildly divergent outcomes that no intuition can predict.
-- `INS-260330-84BD` The collapse of North Korea's Public Distribution System forced the emergence of illegal private markets that now sustain the majority of the population.
-- `INS-260330-6DEB` Breaking systems into parts for analysis — the foundation of modern science — systematically blinds us to emergent behaviors that only appear when parts interact.
 - `INS-260330-BE0A` Dark matter doesn't form planets or galaxies because its particles don't interact with each other — self-interaction, not just external interaction, is what enables structural complexity.
 - `INS-260325-916B` Panpsychism proposes consciousness is a fundamental feature of nature, more like gravity than like computation.
 - `INS-260330-3C70` The 3x+1 rule is trivially simple yet produces hailstone sequences that follow geometric Brownian motion — the same statistical pattern as stock market fluctuations.
@@ -26,3 +22,7 @@
 - `INS-260330-B8C6` Zipf's law in language likely emerges from multiple colluding mechanisms rather than a single cause, reflecting something fundamental about how minds model complexity.
 - `INS-260325-D037` Einstein's equations predicted things Einstein himself did not expect — formal systems consistently outrun their creators' intentions.
 - `INS-260330-833E` Jeremy England proposes that life emerges because self-replicating structures are better at dissipating energy gradients than inert matter.
+- `INS-260403-65D2` Multi-layer systems exhibit emergent rigidity that single layers don't, because elements trap each other rather than flowing freely.
+- `INS-260325-486C` Adjacent numbers 26 and 27 in Collatz reach maximums of 40 and 9,232 respectively — simple rules create wildly divergent outcomes that no intuition can predict.
+- `INS-260330-84BD` The collapse of North Korea's Public Distribution System forced the emergence of illegal private markets that now sustain the majority of the population.
+- `INS-260330-6DEB` Breaking systems into parts for analysis — the foundation of modern science — systematically blinds us to emergent behaviors that only appear when parts interact.

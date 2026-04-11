@@ -1,6 +1,6 @@
 # Topic: execution
 
-> 273 insights
+> 276 insights
 
 - `INS-260329-FCF2` [high] Doing 10-100x more volume beats 2x optimization, but you must relearn this lesson independently in each new domain you enter.
 - `INS-260403-FED1` [high] YC's batch funding model — its most important innovation — was adopted not strategically but because a summer program seemed like the fastest way to learn angel investing.
@@ -19,6 +19,7 @@
 - `INS-260327-5AFE` [high] Using AI well is a social skill—coaching, delegating, providing context—not a technical prompting skill.
 - `INS-260327-9610` [high] A 13-year-old built and shipped an AI product with paying customers using AI tools—the building barrier has collapsed.
 - `INS-260323-C4E2` [high] When someone emails Cuban asking what kind of business to start, that question itself reveals they are not ready — real entrepreneurs already know because they cannot stop thinking about the problem.
+- `INS-260410-F69C` [high] Steve Ballmer reflected that Microsoft's worst mistakes 'only lost money' — the real cost was the best engineers sunk into projects like Vista instead of competing in search, mobile, and social.
 - `INS-260330-6EF1` [high] The world's roundest object was made by starting 2mm oversized and grinding progressively finer — extreme quality comes from iterative refinement, not one-shot precision.
 - `INS-260402-ABB5` [high] Financial constraints force companies to fix dysfunctions — overpaying underperformers, underpaying top talent, coordination-heavy middle management — that abundant capital made invisible.
 - `INS-260330-C6A2` [high] Submarines operate on broad mission intent with autonomous decision-making because communication would compromise stealth.
@@ -36,6 +37,7 @@
 - `INS-260329-C0A7` [high] The business bottleneck is almost never in the domain the founder enjoys most.
 - `INS-260330-1C61` [high] Force yourself to list your top priorities, then compare against your actual calendar — the mismatch reveals where execution is failing.
 - `INS-260329-572E` [high] CAP theorem's real value is forcing you to explicitly choose which two of consistency, availability, and partition tolerance you prioritize — before a production incident makes the choice for you.
+- `INS-260410-66E4` [high] Lalit Modi orchestrated a $1B media deal, $400M+ in franchise auctions, and Bollywood ownership for a sports league that had never existed by capping every party's year-one cash exposure to the smallest amount that signaled credible commitment.
 - `INS-260403-2A30` [high] A clear cash runway model turns the existential threat of running out of money into a series of calm, informed decisions.
 - `INS-260327-178E` [high] Block unwound their GM structure into a functional org specifically because AI transformation requires unified technical capabilities across product lines.
 - `INS-260403-1904` [high] Centralizing all financial assumptions in one tab and wiring downstream logic to it prevents the Jenga-tower fragility that plagues most startup spreadsheets.
@@ -254,6 +256,7 @@
 - `INS-260403-7BBD` [medium] Better cameras on a 1992 experiment revealed new fluid dynamics phenomena that decades of numerical simulation had missed.
 - `INS-260329-1F3F` [medium] Burning your escape routes forces the persistence that passion-based motivation cannot sustain.
 - `INS-260329-50BD` [medium] The four-year opportunity cost of college is the largest hidden expense — direct experience compounds while academic credentials depreciate.
+- `INS-260410-D926` [medium] Rolex's 30% market share isn't the result of a single bold contrarian bet — it's the compound interest of making logical decisions (hold prices in 2008, maintain mechanical focus in 1980, standardize global SKUs) while Omega and peers made panicked ones.
 - `INS-260404-88D8` [medium] If you can't reach statistical significance within a month, use pre/post analysis and trust intuition — waiting for perfect data is its own form of failure.
 - `INS-260405-202B` [medium] Costco pays double the U.S. retail average and reports employees three times more productive, suggesting the productivity gain exceeds the wage cost.
 - `INS-260403-7749` [medium] SF cut housing permit approval from 605 days to 280 days average — with new applications averaging 114 days — signaling that bureaucratic speed reform has outsized economic impact.

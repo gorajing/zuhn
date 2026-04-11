@@ -48,11 +48,12 @@ stance: >-
   Refusing to acquire a well-funded clone to protect cultural integrity is the
   correct long-term play even when the pragmatic case for acquisition is strong
 related:
+  - INS-260410-DFE2
   - INS-260330-B384
   - INS-260410-6290
+  - INS-260410-ED8E
   - INS-260327-F95F
   - INS-260403-3155
-  - INS-260330-CECB
 evidence:
   - id: INS-260327-F95F
     type: CHALLENGES

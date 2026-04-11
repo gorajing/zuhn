@@ -54,6 +54,7 @@ related:
   - INS-260329-14AE
   - INS-260405-DDC2
   - INS-260402-EA72
+  - INS-260410-4E57
 ---
 Most investors and analysts treat ChatGPT's 2022 release as the starting gun for the AI era and expect mature market structure to emerge on a 3-5 year timeline. Chamath's view — that we're still in early stages as of early 2025 — implies a much longer runway before competitive dynamics, application winners, and return profiles become legible.
 
