@@ -1,0 +1,399 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  }, {
+    "iAttr": 1
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "juJustifCode": 2
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 1,
+    "ccCols": 2
+  }, {
+    "apPoint": 1,
+    "ahHorPos": 50,
+    "avVerPos": 0,
+    "rcRows": 2,
+    "ccCols": 19
+  }, {
+    "apPoint": 1,
+    "ahHorPos": 50,
+    "avVerPos": 0,
+    "rcRows": 2,
+    "ccCols": 26
+  }, {
+    "apPoint": 1,
+    "ahHorPos": 50,
+    "avVerPos": 0,
+    "rcRows": 2,
+    "ccCols": 22
+  }, {
+    "apPoint": 1,
+    "ahHorPos": 50,
+    "avVerPos": 0,
+    "rcRows": 2,
+    "ccCols": 27
+  }, {
+    "apPoint": 1,
+    "ahHorPos": 50,
+    "avVerPos": 0,
+    "rcRows": 2,
+    "ccCols": 23
+  }, {
+    "apPoint": 1,
+    "ahHorPos": 50,
+    "avVerPos": 0,
+    "rcRows": 1,
+    "ccCols": 4
+  }, {
+    "apPoint": 1,
+    "ahHorPos": 50,
+    "avVerPos": 0,
+    "rcRows": 1,
+    "ccCols": 2
+  }, {
+    "apPoint": 1,
+    "ahHorPos": 50,
+    "avVerPos": 0,
+    "rcRows": 1,
+    "ccCols": 19
+  }, {
+    "apPoint": 1,
+    "ahHorPos": 50,
+    "avVerPos": 0,
+    "rcRows": 1,
+    "ccCols": 27
+  }, {
+    "apPoint": 1,
+    "ahHorPos": 50,
+    "avVerPos": 0,
+    "rcRows": 1,
+    "ccCols": 11
+  }, {
+    "apPoint": 1,
+    "ahHorPos": 50,
+    "avVerPos": 0,
+    "rcRows": 2,
+    "ccCols": 25
+  }, {
+    "apPoint": 1,
+    "ahHorPos": 50,
+    "avVerPos": 0,
+    "rcRows": 2,
+    "ccCols": 8
+  }, {
+    "apPoint": 1,
+    "ahHorPos": 50,
+    "avVerPos": 0,
+    "rcRows": 2,
+    "ccCols": 18
+  }, {
+    "apPoint": 1,
+    "ahHorPos": 50,
+    "avVerPos": 0,
+    "rcRows": 1,
+    "ccCols": 15
+  }, {
+    "apPoint": 1,
+    "ahHorPos": 50,
+    "avVerPos": 0,
+    "rcRows": 1,
+    "ccCols": 17
+  }, {
+    "apPoint": 1,
+    "ahHorPos": 50,
+    "avVerPos": 0,
+    "rcRows": 1,
+    "ccCols": 26
+  }, {
+    "apPoint": 1,
+    "ahHorPos": 50,
+    "avVerPos": 0,
+    "rcRows": 1,
+    "ccCols": 21
+  }, {
+    "apPoint": 1,
+    "ahHorPos": 50,
+    "avVerPos": 0,
+    "rcRows": 1,
+    "ccCols": 10
+  }, {
+    "apPoint": 1,
+    "ahHorPos": 50,
+    "avVerPos": 0,
+    "rcRows": 1,
+    "ccCols": 14
+  } ],
+  "events": [ {
+    "tStartMs": 266,
+    "dDurationMs": 1135,
+    "segs": [ {
+      "utf8": "♪♪"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 2535,
+    "dDurationMs": 2936,
+    "segs": [ {
+      "utf8": " Your brain is like\n a hungry sponge."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1,
+    "pPenId": 1
+  }, {
+    "tStartMs": 5504,
+    "dDurationMs": 2570,
+    "segs": [ {
+      "utf8": " It's constantly absorbing\n information."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1,
+    "pPenId": 1
+  }, {
+    "tStartMs": 8707,
+    "dDurationMs": 3471,
+    "segs": [ {
+      "utf8": "What are we saying\nby raising an eyebrow?"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 13279,
+    "dDurationMs": 3137,
+    "segs": [ {
+      "utf8": " What matters more,\n being right or fitting in?"
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 1,
+    "pPenId": 1
+  }, {
+    "tStartMs": 17183,
+    "dDurationMs": 3838,
+    "segs": [ {
+      "utf8": " Why is it that we love\n destroying things?"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1,
+    "pPenId": 1
+  }, {
+    "tStartMs": 22455,
+    "dDurationMs": 834,
+    "segs": [ {
+      "utf8": "Ahh!"
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 23322,
+    "dDurationMs": 2470,
+    "segs": [ {
+      "utf8": "♪♪"
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 25825,
+    "dDurationMs": 734,
+    "segs": [ {
+      "utf8": "Why?"
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 26592,
+    "dDurationMs": 3571,
+    "segs": [ {
+      "utf8": "♪♪"
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 30196,
+    "dDurationMs": 1034,
+    "segs": [ {
+      "utf8": " Our lives are full"
+    } ],
+    "wpWinPosId": 9,
+    "wsWinStyleId": 1,
+    "pPenId": 1
+  }, {
+    "tStartMs": 31263,
+    "dDurationMs": 1135,
+    "segs": [ {
+      "utf8": " of decisions that we think"
+    } ],
+    "wpWinPosId": 10,
+    "wsWinStyleId": 1,
+    "pPenId": 1
+  }, {
+    "tStartMs": 32431,
+    "dDurationMs": 1636,
+    "segs": [ {
+      "utf8": " we make of our own\n free will,"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1,
+    "pPenId": 1
+  }, {
+    "tStartMs": 34100,
+    "dDurationMs": 901,
+    "segs": [ {
+      "utf8": " but do we?"
+    } ],
+    "wpWinPosId": 11,
+    "wsWinStyleId": 1,
+    "pPenId": 1
+  }, {
+    "tStartMs": 35035,
+    "dDurationMs": 1701,
+    "segs": [ {
+      "utf8": " It can tell me\n what I was going to do"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1,
+    "pPenId": 1
+  }, {
+    "tStartMs": 36769,
+    "dDurationMs": 2069,
+    "segs": [ {
+      "utf8": "before I know I was going\nto do it."
+    } ],
+    "wpWinPosId": 12,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 38871,
+    "dDurationMs": 1569,
+    "segs": [ {
+      "utf8": "- What?!\n- Yeah."
+    } ],
+    "wpWinPosId": 13,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 40840,
+    "dDurationMs": 2336,
+    "segs": [ {
+      "utf8": "Psychologists say that\nfewer than three days"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 43209,
+    "dDurationMs": 2269,
+    "segs": [ {
+      "utf8": "in a room like this\ncan lead to brain damage."
+    } ],
+    "wpWinPosId": 12,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 45511,
+    "dDurationMs": 1636,
+    "segs": [ {
+      "utf8": " I will be staying\n in this room..."
+    } ],
+    "wpWinPosId": 14,
+    "wsWinStyleId": 1,
+    "pPenId": 1
+  }, {
+    "tStartMs": 48214,
+    "dDurationMs": 1068,
+    "segs": [ {
+      "utf8": "for three days."
+    } ],
+    "wpWinPosId": 15,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 49315,
+    "dDurationMs": 2136,
+    "segs": [ {
+      "utf8": "♪♪"
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 51484,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "I am so confused."
+    } ],
+    "wpWinPosId": 16,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 54353,
+    "dDurationMs": 1469,
+    "segs": [ {
+      "utf8": " Your brain can be useful."
+    } ],
+    "wpWinPosId": 17,
+    "wsWinStyleId": 1,
+    "pPenId": 1
+  }, {
+    "tStartMs": 55855,
+    "dDurationMs": 1568,
+    "segs": [ {
+      "utf8": "Oh, my God!"
+    } ],
+    "wpWinPosId": 11,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 57456,
+    "dDurationMs": 1168,
+    "segs": [ {
+      "utf8": " It can be dangerous."
+    } ],
+    "wpWinPosId": 18,
+    "wsWinStyleId": 1,
+    "pPenId": 1
+  }, {
+    "tStartMs": 58657,
+    "dDurationMs": 1035,
+    "segs": [ {
+      "utf8": "[grunting]"
+    } ],
+    "wpWinPosId": 19,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 59725,
+    "dDurationMs": 835,
+    "segs": [ {
+      "utf8": "[laughing]"
+    } ],
+    "wpWinPosId": 19,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 60593,
+    "dDurationMs": 1068,
+    "segs": [ {
+      "utf8": " And it can be..."
+    } ],
+    "wpWinPosId": 16,
+    "wsWinStyleId": 1,
+    "pPenId": 1
+  }, {
+    "tStartMs": 61694,
+    "dDurationMs": 1402,
+    "segs": [ {
+      "utf8": " a lot of fun."
+    } ],
+    "wpWinPosId": 20,
+    "wsWinStyleId": 1,
+    "pPenId": 1
+  }, {
+    "tStartMs": 63129,
+    "dDurationMs": 9243,
+    "segs": [ {
+      "utf8": "♪♪"
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  } ]
+}

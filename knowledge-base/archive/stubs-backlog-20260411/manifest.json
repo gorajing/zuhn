@@ -1,0 +1,114 @@
+{
+  "archive_id": "stubs-backlog-20260411",
+  "date": "2026-04-11",
+  "rationale": [
+    "On 2026-04-11 (same day as the 252-item blog backlog archive),",
+    "the Zuhn KB had 34 active sources under sources/{youtube,paste,",
+    "reddit,pdf}/ with insight_count: 0. A triage pass found that they",
+    "split into two groups, both of which are dead ends for the",
+    "autoknowledge pipeline:",
+    "",
+    "  1. Ingestion stubs (19 items, types paste/reddit/pdf). These",
+    "     files were ingested between 2026-03-20 and 2026-03-22 with",
+    "     a 20-60 word one-paragraph summary written into the body",
+    "     instead of the full source content. The URLs are either",
+    "     missing, point to subreddit indexes (not specific posts),",
+    "     or have no accessible source. There is nothing for the",
+    "     extractor to work from — the body IS all the content.",
+    "     This looks like a single half-finished ingestion session",
+    "     three weeks ago that was never completed.",
+    "",
+    "  2. Sub-floor YouTube clips (15 items). Real auto-generated",
+    "     transcripts, but all below the 500-word autoknowledge floor.",
+    "     Contents: 6 stable-diffusion-dreams Karpathy experiments",
+    "     (1-35 words each, essentially empty artifacts); 5 short",
+    "     educational/trailer clips (100-seconds-of-X, trailers, Bill",
+    "     Nye creationism clip, Smarter Every Day improvising-in-",
+    "     africa); 3 Naval-style short clips with clean extractable",
+    "     theses that are preserved below as manual_extraction_",
+    "     candidates; 1 donut C-code clip.",
+    "",
+    "Decision: archive all 34 as a single cohort. The 19 stubs are",
+    "unrecoverable. The 15 YouTube clips are sub-floor and, per the",
+    "precedent set by today's earlier 252-item blog backlog archive,",
+    "we do not special-case sub-floor content during cleanup —",
+    "lowering MIN_WORD_COUNT would degrade autoknowledge globally to",
+    "handle one historical batch. The 3 genuinely substantive Naval-",
+    "type clips are preserved as follow-up candidates below."
+  ],
+  "method": {
+    "triage_approach": "read-and-classify",
+    "sampled_full_content": [
+      "paste/leverage-field-manual.md",
+      "reddit/ai-workflows-cost-30x-less.md",
+      "pdf/Claude for Finance.md",
+      "youtube/spend-more-time-making-the-big-decisions.md"
+    ],
+    "triage_results": {
+      "ingestion_stubs_no_real_content": 19,
+      "sub_floor_youtube_real_transcripts": 15,
+      "recoverable_via_refetch": 0
+    }
+  },
+  "archived_count": 34,
+  "archived_md_files": 34,
+  "archived_raw_files": 19,
+  "by_type": {
+    "pdf": 4,
+    "paste": 3,
+    "reddit": 12,
+    "youtube": 15
+  },
+  "manual_extraction_candidates_note": [
+    "The 3 YouTube clips below have real transcripts, clean theses, and",
+    "would yield 1-2 insights each if manually extracted (not via",
+    "autoknowledge, which would skip them at the 500-word floor).",
+    "They have been moved into this archive but not deleted. If a future",
+    "session wants sub-floor manual curation, these are the priorities.",
+    "See also blog-backlog-20260411/manifest.json pg_candidate_followup_",
+    "top10 for a parallel list of short-but-substantive Paul Graham",
+    "essays held back for the same reason."
+  ],
+  "manual_extraction_candidates": [
+    {
+      "slug": "if-you-want-to-learn-do",
+      "title": "If You Want to Learn, Do",
+      "url": "https://www.youtube.com/watch?v=RHGDYTMQ_yM",
+      "word_count": 274
+    },
+    {
+      "slug": "spend-more-time-making-the-big-decisions",
+      "title": "Spend More Time Making the Big Decisions",
+      "url": "https://www.youtube.com/watch?v=VGOH2uPqNPQ",
+      "word_count": 266
+    },
+    {
+      "slug": "your-desires-are-not-yours",
+      "title": "Your desires are not yours.",
+      "url": "https://www.youtube.com/watch?v=gSHJXCngrWI",
+      "word_count": 278
+    }
+  ],
+  "follow_up_ingest_hardening": [
+    "During triage on 2026-04-11 we discovered a latent ingestion bug",
+    "class: the ingestor can write a 20-60 word summary into the body",
+    "instead of the full source content, then emit insight_count: 0",
+    "with no other warning. 19 of the 34 archived items are instances",
+    "of this pattern, all from a 3-day window in March 2026.",
+    "",
+    "Suggested ingest hardening (deferred, not blocking):",
+    "  1. Compute body-derived word_count at ingest time from the",
+    "     actual content block, don't trust the ingestor's self-",
+    "     reported count. This would have caught all 19 stubs at",
+    "     creation instead of accumulating for 3 weeks.",
+    "  2. Add a post-ingest guard that warns when type ∈ {pdf,",
+    "     reddit} and body_word_count < 100. These source types",
+    "     should effectively never produce ~50 word bodies, so",
+    "     hitting that shape indicates a stub.",
+    "  3. Optionally: move the stub-detection into scripts/health.ts",
+    "     as an ongoing referential-integrity check.",
+    "",
+    "The stub_body guardrail is the right home for this because it's",
+    "a class of drift, not a one-off correction. No timeline attached."
+  ]
+}
