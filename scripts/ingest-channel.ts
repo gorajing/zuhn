@@ -333,6 +333,16 @@ async function main(): Promise<void> {
     // Sort by views descending, take top N
     videos.sort((a, b) => b.viewCount - a.viewCount);
     const selected = videos.slice(0, top);
+
+    // Resolve channel identity first so the labels below can interpolate it.
+    // Fix for a TDZ bug introduced in 407ee83046 where trackerTitle referenced
+    // channelName two lines before the `const channelName = ...` declaration,
+    // which TypeScript flagged (TS2448/TS2454) but the change landed anyway
+    // because ingest-channel.ts has no test file exercising this code path.
+    const channelName = extractChannelName(channelUrl!);
+    const channelSlug = slugify(channelName);
+    trackerPath = join(META_DIR, `${channelSlug}-batch.txt`);
+
     const viewsUnavailable = selected.length > 0 && selected.every((v) => v.viewCount === 0);
     const selectionLabel = viewsUnavailable
       ? `Selected ${selected.length} in yt-dlp default order (views unavailable)`
@@ -343,10 +353,6 @@ async function main(): Promise<void> {
     const viewRangeLabel = viewsUnavailable
       ? "View range unavailable (yt-dlp returned zeroed counts)"
       : `View range: ${selected[0].viewCount.toLocaleString()} — ${selected[selected.length - 1].viewCount.toLocaleString()}`;
-
-    const channelName = extractChannelName(channelUrl!);
-    const channelSlug = slugify(channelName);
-    trackerPath = join(META_DIR, `${channelSlug}-batch.txt`);
 
     // Check for existing tracker to preserve statuses
     let existingMap = new Map<string, TrackerLine>();
