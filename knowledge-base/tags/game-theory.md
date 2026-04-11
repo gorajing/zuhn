@@ -2,8 +2,8 @@
 
 - `INS-260404-34DB` CMU's Zico Kolter argues AI agents must be designed to cooperate via game theory, not just optimize individual goals.
 - `INS-260404-AD45` Game theory provides the necessary framework for understanding how AI agents will behave when they interact strategically with other agents and humans.
-- `INS-260323-636C` Netanyahu's game-theoretic observation: no nation will voluntarily slow AI development to cooperate on regulation — universal AI regulation may only become possible if AI threatens all nations simultaneously.
 - `INS-260403-5616` AI labs cannot slow down unilaterally because competitors (including state actors) will simply fill the gap, making regulation the only viable brake.
+- `INS-260323-636C` Netanyahu's game-theoretic observation: no nation will voluntarily slow AI development to cooperate on regulation — universal AI regulation may only become possible if AI threatens all nations simultaneously.
 - `INS-260402-BF2E` When every user's filter has different probabilities, spammers can't optimize against a single target — their edit-compile-test cycle becomes appallingly slow.
 - `INS-260330-D6EF` Proof of work replaces trust by making fraud more expensive than honest participation.
 - `INS-260330-FC9F` The day the first NFT fraud indictment was announced, multiple abandoned NFT projects immediately resumed development — proving fraudsters explicitly calculate prosecution probability.
@@ -21,8 +21,8 @@
 - `INS-260330-39D4` Japan bombed Pearl Harbor expecting it would frighten America into neutrality — a catastrophic mirror-imaging error that assumed Americans would react rationally to a show of force.
 - `INS-260327-6C64` In game theory tournaments, tit-for-tat (cooperate first, then mirror) consistently beats both always-cooperate and always-defect strategies across repeated interactions.
 - `INS-260329-78AE` People automatically trust speakers more when the speaker says something that visibly hurts their own interest, because costly signals are expensive to counterfeit.
-- `INS-260330-2B5F` Human shield tactics are a strategic exploitation of the opponent's superior moral constraints — they only work against enemies who value civilian life more than you do.
 - `INS-260325-47FE` Tit-for-tat wins repeated game theory: cooperate first, then mirror — simplicity and consistency beat complex manipulation.
+- `INS-260330-2B5F` Human shield tactics are a strategic exploitation of the opponent's superior moral constraints — they only work against enemies who value civilian life more than you do.
 - `INS-260403-5681` SEIU weaponized ballot initiatives as destruction threats to extract concessions worth 16x their investment.
 - `INS-260330-4D9D` When people expect norm compliance from one party but not the other, the norm is already destroyed regardless of what happens next.
 - `INS-260327-BBC2` People cooperate not because they're good but because they expect to meet again - the shadow of future interactions is the real engine of ethical behavior.

@@ -25,8 +25,8 @@
 - `INS-260403-A0F7` Salesforce's evolution from 1999 SaaS pioneer to 2005+ platform shows that iterative business model extension compounds into resilience.
 - `INS-260410-3043` Scarcity is only a weakness until you engineer it into the product — Acquired copied Hermès and the NFL by refusing to scale their inputs.
 - `INS-260403-F85C` A 5% annual churn rate can be excellent or fatal depending entirely on business model context.
-- `INS-260323-F274` Success podcasts follow a 4-step loop: create/exploit anxiety, promise the solution, deliver partial satisfaction, repeat — a model that requires listeners to stay anxious to keep consuming.
 - `INS-260321-3BA8` The Department of War is replacing cost-plus contracts with 1000-requirement RFPs with simple firm-fixed-price requirements — the SpaceX model where vendors keep margins from economizing.
+- `INS-260323-F274` Success podcasts follow a 4-step loop: create/exploit anxiety, promise the solution, deliver partial satisfaction, repeat — a model that requires listeners to stay anxious to keep consuming.
 - `INS-260405-092A` Smart investors expect your early business model to be wrong, so dwelling on it wastes time and can actively damage your pitch.
 - `INS-260405-180B` A top VC invested in a company specifically knowing their business model would change three times — detail-pitching yours signals you don't understand this.
 - `INS-260327-58AC` Whatever is your source of money, that is where the company will steer — if advertisers pay, you will build for advertisers, not users.

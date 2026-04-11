@@ -1,0 +1,14 @@
+---
+id: SRC-260330-43AB
+type: blog
+title: >-
+  Advanced Claude Code techniques: Context loading, mermaid diagrams, stop
+  hooks, more | John Lindquist
+url: 'https://www.lennysnewsletter.com/p/advanced-claude-code-techniques-context'
+date_ingested: '2026-03-31'
+insight_count: 0
+site_name: Lenny's Newsletter
+publish_date: '2026-01-26T13:04:32+00:00'
+word_count: 280
+---
+John Lindquist is the co-founder of egghead.io and an expert in leveraging AI tools for professional software development. In this episode, John shares advanced techniques for using AI coding tools like Claude Code and Cursor that go far beyond basic prompting. He demonstrates how senior engineers can use mermaid diagrams for context loading, create custom hooks for automated code quality checks, and build efficient command-line tools that streamline AI workflows.How to use mermaid diagrams to preload context into Claude Code for faster, more accurate coding assistanceCreating custom hooks in Claude Code to automatically check for TypeScript errors and commit working codeBuilding efficient command-line aliases and tools to streamline your AI workflowsTechniques for using AI to generate documentation that works for both humans and machinesHow to leverage AI for code investigation and orientation when tackling unfamiliar codebasesStrategies for resetting AI conversations when they go off trackWorkOS—Make your app enterprise-ready todayTines—Start building intelligent workflows today(00:00) Introduction to John Lindquist(03:15) Using context and diagrams to provide context to AI tools(05:38) Demo: Mermaid diagrams(06:48) Preloading context with system prompts in Claude Code(10:30) The rise of specialized file formats for AI consumption(13:23) Mermaid diagram use cases(19:01) Demo: Creating aliases for common AI commands(21:05) Building custom command-line tools for AI workflows(26:39) Demo: Setting up stop hooks for automated code quality checks(35:16) Investing in quality outputs(36:40) Additional use cases for hooks beyond code quality(39:19) Quick review(41:14) Terminal UI vs. IDE(45:35) Selling AI to skeptical teams(51:57) Prompting reset tricks• Claude Code: https://claude.ai/• Cursor: https://cursor.sh/• Gemini: https://gemini.google.com/• Zsh: https://www.zsh.org/• GitHub: https://github.com/• TypeScript: https://www.typescriptlang.org/• Bun: https://bun.sh/• Claude hooks: https://code.claude.com/docs/en/hooksWebsite: https://egghead.ioNewsletter: https://egghead.io/newsletters/ai-dev-essentialsLinkedIn: linkedin.com/in/john-lindquist-84230766X: https://x.com/johnlindquistChatPRD: https://www.chatprd.ai/Website: https://clairevo.com/LinkedIn: https://www.linkedin.com/in/clairevo/X: https://x.com/clairevoProduction and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email [email protected].

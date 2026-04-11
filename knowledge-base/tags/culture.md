@@ -24,6 +24,8 @@
 - `INS-260403-1E05` Five half-built features create more drag than one failed launch because the compounding effect only kicks in upon delivery, not upon starting.
 - `INS-260330-D031` Stripe's radical transparency (BCCing everyone on all emails) broke Gmail and overwhelmed new hires, requiring new tooling and norms to sustain.
 - `INS-260403-922C` Startup ecosystems require blanket tolerance for strangeness because you can't predict which weird ideas will become valuable.
+- `INS-260321-C292` After the movie 300, Navy SEAL recruitment spiked — entertainment that inspires heroism and optimism creates the cultural conditions for industrial mobilization.
+- `INS-260322-D57C` When scaling, CEOs cannot just delegate customer-facing work — they must personally demonstrate the brand's standard alongside new employees so sensibility transfers through shared experience.
 - `INS-260410-7687` Greg Abel's 2025 Berkshire letter explicitly catalogues six foundational values (Decentralized Model, Integrity, Financial Strength, Capital Discipline, Risk Management, Operational Excellence) 'that will continue into perpetuity,' framing them as the mechanism for surviving the Warren-to-Greg transition without identity loss.
 - `INS-260325-502D` Conflict between high performers with the same goal but different approaches is a feature, not a bug — organizations that seamlessly resolve conflict are winning teams.
 - `INS-260409-355C` Treat financial and spiritual capital as multiplicative factors, not additive line items — either zero and the total collapses.
@@ -32,8 +34,6 @@
 - `INS-260405-4EAA` Silicon Valley's tolerance for weird ideas is a cultivated social custom that spread because it reliably produced better outcomes — not because its inhabitants are smarter or kinder.
 - `INS-260325-B14B` Before the 1500s, no major civilization believed in upward progress — history was seen as cyclical or as decline from a golden age.
 - `INS-260410-CC88` Greg Abel in the 2025 letter: 'Our role is stewardship. That stewardship has shaped a culture and reinforced a set of values that are not the result of our success, but the reason for it.'
-- `INS-260321-C292` After the movie 300, Navy SEAL recruitment spiked — entertainment that inspires heroism and optimism creates the cultural conditions for industrial mobilization.
-- `INS-260322-D57C` When scaling, CEOs cannot just delegate customer-facing work — they must personally demonstrate the brand's standard alongside new employees so sensibility transfers through shared experience.
 - `INS-260330-1B37` Airbnb spent 5 months hiring their first employee and only hired two people in year one because early hire quality is existential.
 - `INS-260330-7E58` In-N-Out pays managers $160K+ with full benefits, achieving 14-year average tenure in an industry with 150%+ annual turnover.
 - `INS-260403-BE24` Extreme hour requirements screen out experienced and diverse candidates, leaving a narrow, less resilient talent pool.
@@ -80,8 +80,8 @@
 - `INS-260410-AFB9` Benchmark commissioned a custom round table where no sidebar conversation is possible because everyone hears everything — destroying the hierarchy a rectangular table embeds and the atomization a circular table creates.
 - `INS-260410-DB84` Dismantle comp structures that pay people for outcomes you'd regret — expect attrition, and treat that attrition as a feature.
 - `INS-260403-8A29` Startup culture spreads slowly because it requires societies to tolerate the social disruption of flattening hierarchies.
-- `INS-260405-339F` Idea-friendly cultures are not values-based — they're incentive-selected, which means they're replicable wherever the incentives align.
 - `INS-260330-766D` Alfred Lin's principle from Zappos — culture and brand are two sides of the same coin — means that whatever happens inside the company eventually comes out.
+- `INS-260405-339F` Idea-friendly cultures are not values-based — they're incentive-selected, which means they're replicable wherever the incentives align.
 - `INS-260330-D272` Chesky argues that if you want to build and sell a company in one year, the best advice is to skip culture entirely — culture's ROI is exclusively long-term.
 - `INS-260330-4A16` Culture is the set of invariants you maintain as you get involved in exponentially fewer decisions over time.
 - `INS-260403-FD6A` In lean teams, culture (shared values + async transparency + clear goals) must do the coordination work that hierarchy handles in larger organizations.

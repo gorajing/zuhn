@@ -33,6 +33,9 @@
 - `INS-260330-8D6F` Lost momentum causes internal disagreement and attrition; only small concrete wins — not vision speeches — can reverse the spiral.
 - `INS-260330-8048` Mark Zuckerberg chose monthly active users over registered users and held everyone — internal and external — to that metric, which prevented the vanity-metric trap that killed competitors.
 - `INS-260330-2347` When Facebook's growth slowed in 2008, Mark Zuckerberg didn't give speeches — he created a growth group focused on small tactical wins that became Facebook's most prestigious team.
+- `INS-260322-9172` Successful brands ask fundamental questions and act fast on answers; failing brands have CEOs who already decided the answer and insist 'just do it this way.'
+- `INS-260327-29F0` The framework is not the hard part — getting the entire leadership team aligned on one strategic story is where the real value lies.
+- `INS-260322-D57C` When scaling, CEOs cannot just delegate customer-facing work — they must personally demonstrate the brand's standard alongside new employees so sensibility transfers through shared experience.
 - `INS-260323-E874` The XZ attacker succeeded specifically because the maintainer was burned out and desperate for help — burnout is an attack surface.
 - `INS-260321-13C6` Every determinative defense innovation in history was a heretical idea — someone had to protect the heretic from the institution that tried to kill them.
 - `INS-260323-2CCA` Musk's WWII veteran grandfather had next-level PTSD but never bragged about his medals — the generation that viscerally understood war is gone, leaving decision-makers without that embodied knowledge.
@@ -44,9 +47,7 @@
 - `INS-260329-58E7` Ramsey's breakthrough from tactical hustle to $300M came when MBAs taught him strategic thinking in exchange for him teaching them execution.
 - `INS-260323-244C` Netanyahu identifies the core AI leadership challenge: most people — including most political leaders — think in linear increments and cannot intuitively grasp geometric growth rates.
 - `INS-260325-8B36` Conflict between high performers with the same goal but different approaches produces better decisions — but only when the company, not ego, is at the center.
-- `INS-260322-9172` Successful brands ask fundamental questions and act fast on answers; failing brands have CEOs who already decided the answer and insist 'just do it this way.'
-- `INS-260327-29F0` The framework is not the hard part — getting the entire leadership team aligned on one strategic story is where the real value lies.
-- `INS-260322-D57C` When scaling, CEOs cannot just delegate customer-facing work — they must personally demonstrate the brand's standard alongside new employees so sensibility transfers through shared experience.
+- `INS-260403-F554` 92% of VCs say the team is the most important element, valuing complementary skills and pivot capability over raw individual talent.
 - `INS-260330-687B` Delaying a necessary firing risks losing good employees who won't tolerate a toxic colleague, and equivocating during the termination creates legal and emotional complications.
 - `INS-260404-56C1` Vasco Pedro's top criterion for Halo's first CEO is someone who cares so deeply that others might think they're 'a bit weird' — prioritizing missionary zeal over mercenary polish.
 - `INS-260403-1B15` Business models expire faster than CEO tenures, forcing leaders to build systematic invention capabilities rather than ride a single model.
@@ -102,12 +103,10 @@
 - `INS-260330-D661` Toussaint made conquered French, Spanish, and British officers into his own generals because he recognized slave culture alone couldn't produce the world-class country he envisioned.
 - `INS-260327-A8D9` If you don't use your values for the hardest decisions of your life, they're not really your values.
 - `INS-260323-8726` The moment you decide you are too embarrassed to try something new, you stop learning — making willingness to be a beginner the most important skill for leaders.
-- `INS-260403-F554` 92% of VCs say the team is the most important element, valuing complementary skills and pivot capability over raw individual talent.
 - `INS-260410-E590` NVIDIA has 40+ direct reports to Huang because the company is architected like a computing stack — with people managing each layer — not like a military command hierarchy.
 - `INS-260405-346A` Org structure is fundamentally a filter—it determines which conflicts are visible to leadership and which are suppressed before surfacing.
 - `INS-260405-ACCE` The conflicts leadership hears about are a structural choice—design the org to surface the right ones.
 - `INS-260405-B406` If critical tensions aren't reaching leadership, the org structure is filtering them out.
-- `INS-260327-77FA` The CEO's #1 job is sales—selling to customers, employees, investors, and partners above everything else.
 - `INS-260329-3924` You enter entrepreneurship for freedom but gain absolute control instead; each growth stage requires giving up control to regain freedom.
 - `INS-260329-C92A` When you can afford it, hire directors and senior leaders first rather than building up from junior employees.
 - `INS-260329-CDD1` Hiring experienced directors first (top-down) lets you delegate immediately and avoid management/cultural debt, but requires financial runway to absorb the cost.
@@ -115,3 +114,4 @@
 - `INS-260403-272C` A leader who outworks the entire organization removes the moral ground on which resistance to high standards usually stands.
 - `INS-260322-D5EB` To scale without working more, accept lower short-term profitability to hire people whose capabilities pull the business up beyond what you could do alone.
 - `INS-260403-B133` The executives who rose to the top by making the right choices for the old business are wired to make the wrong choices for the new one.
+- `INS-260327-77FA` The CEO's #1 job is sales—selling to customers, employees, investors, and partners above everything else.

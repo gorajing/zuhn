@@ -1,0 +1,14 @@
+---
+id: SRC-260330-EEF5
+type: blog
+title: >-
+  A new perk for annual subscribers: A free year of some of the world's most
+  beloved products (while supplies last)
+url: 'https://www.lennysnewsletter.com/p/an-unbelievable-offer-now-get-one'
+date_ingested: '2026-03-31'
+insight_count: 0
+site_name: Lenny's Newsletter
+publish_date: '2025-04-15T16:47:25+00:00'
+word_count: 391
+---
+Important: This original offer has now been replaced with a new offer—click the image below to learn more 👇When you subscribe to Lenny’s Newsletter, you’ll get one free year of a rotating list of incredible products (while supplies last):BoltSuperhumanLinearPerplexity ProGranolaSold out: Notion, Cursor, v0, Lovable, Replit.These companies have never offered anything like this before. You’re getting a $15,000+ value for the price of a yearly newsletter subscription. Using even just one of these products offsets the cost of the newsletter.And we’ll be adding additional world-class products to the bundle over time.This bundle is in addition to the existing benefits of being a paid subscriber: full access to every new newsletter post, along with five years’ worth of previous posts, and invites to a thriving members-only Slack community and local community meetups.A yearly subscription is an absolute no-brainer. Click here to grab this deal 👇You must be a new paying customer of the products to take advantage of the free year. If you’ve already paid for one of the products in the bundle before, you won’t be able to get a free additional year of that specific product.You must have an annual subscription to Lenny’s Newsletter to be eligible for this bundle. Monthly subscribers do not have access to the deal.Both existing subscribers and new subscribers are eligible.Your one free year of the product begins when you activate the product with your unique code, not when you purchase this newsletter subscription. To secure your codes, you must claim them using the link below. We may run out of codes for certain products over time, and this deal may end.If you request an early refund or chargeback for your subscription, your bundle codes will deactivate (whether they’re active or unused).Once you become a paid yearly subscriber, click here to redeem your codes.If you’re on a monthly plan, upgrade to yearly, then go here to redeem your codes.If you’re already a paid annual subscriber, click here to redeem your codes.Granola: One year of the Business plan for you and your team—up to 100 seats ($10,000+ value)Linear: One year of the Business plan—two seats ($336 value)Superhuman: One year of the Starter plan ($300 value)Perplexity: One year of the Pro plan ($240 value)Bolt: One year of the Pro plan ($240 value)Sold out: Notion, Cursor, v0, Lovable, Replit.If you have any trouble or questions, email [email protected].Sincerely,Lenny

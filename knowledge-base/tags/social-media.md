@@ -5,25 +5,25 @@
 - `INS-260323-03F4` Social media built machines for grabbing human attention; AI is now building machines for grabbing human intimacy, which is a far more dangerous capability because it exploits our deepest need to be listened to.
 - `INS-260320-CEBE` A single YouTube transcript can feed newsletter drafts, social media posts, blog articles, and email campaigns -- extend the base n8n workflow with parallel output branches.
 - `INS-260327-EEEE` Pharmaceutical companies pay social media influencers millions to promote drugs disguised as authentic health content
+- `INS-260323-FF23` Every business needs a creator — build in public, show the behind-the-scenes journey, and your content will naturally attract your ideal customer profile while filtering out everyone else.
+- `INS-260322-81CD` Frame your content around a public if-then challenge ('If I get X followers, I'll do Y') to create narrative tension that keeps viewers coming back.
 - `INS-260403-E4C7` Nearly a third of Gen Z has deleted social media apps, and global social media usage has declined 10% since 2022, suggesting organic human adaptation to harmful technology.
 - `INS-260325-4C2E` The algorithm effect replaces internal motivation with external validation loops, creating population-level identity outsourcing to platforms.
 - `INS-260403-F0BF` Algorithmic feeds replaced neighbor-comparison with influencer-comparison, escalating financial inadequacy.
 - `INS-260325-A08A` The trend cycle compressed from years to weeks — products become uncool before companies finish manufacturing them.
-- `INS-260403-889B` Moderate disengagement from online politics creates a selection effect that makes remaining discourse more extreme than the population it claims to represent.
-- `INS-260403-8C7E` Social media functions as a status marketplace where divisive hostility is the most reliable path to visibility and influence.
 - `INS-260325-9507` Between ages 10-12, brains become hyper-wired for social rewards — social media exploits this precise window, making adolescent addiction neurobiological rather than behavioral.
 - `INS-260327-9562` Our brains evolved for 150 meaningful contacts but social media exposes us to thousands, causing us to unconsciously merge others' highlight reels into a single imagined nemesis who outperforms us in every dimension.
 - `INS-260325-9B9A` Heavy screen use does not just exploit weak impulse control — it actively stunts the brain's ability to develop that control, creating a vicious cycle.
+- `INS-260403-889B` Moderate disengagement from online politics creates a selection effect that makes remaining discourse more extreme than the population it claims to represent.
+- `INS-260403-8C7E` Social media functions as a status marketplace where divisive hostility is the most reliable path to visibility and influence.
+- `INS-260403-958C` Online interaction encourages people to identify with distant interest-based groups over local physical communities.
+- `INS-260330-8D2C` The architecture of social media makes criticism indistinguishable from cruelty, so personal growth requires deliberately building and maintaining a trusted inner circle whose feedback you actually internalize.
 - `INS-260403-3800` Gen Z reports needing $588K income to feel financially successful — 13x the median — likely driven by influencer exposure.
 - `INS-260323-4718` The day-to-day quiet enjoyment of ordinary life — chips on the couch, a gym session, time with pets — contributes more to annual happiness than travel highlights or Instagram-worthy experiences.
 - `INS-260327-A458` Trends that used to take years to peak and decline now cycle in weeks because TikTok and Instagram compress the discovery-adoption-saturation-backlash cycle.
 - `INS-260330-795D` Social media transforms genuine discourse into performance, systematically undermining a society's shared capacity to assess truth.
 - `INS-260325-1EB3` Reactionary influencers tell boys 'nobody wants you to watch my content' -- slamming the laptop shut proves their point, while curiosity and real-world male role models provide the actual antidote.
-- `INS-260403-958C` Online interaction encourages people to identify with distant interest-based groups over local physical communities.
-- `INS-260330-8D2C` The architecture of social media makes criticism indistinguishable from cruelty, so personal growth requires deliberately building and maintaining a trusted inner circle whose feedback you actually internalize.
 - `INS-260330-E695` Rosolie's spontaneous, profanity-filled Instagram video about Amazon fires went viral and led to the major funding that transformed Jungle Keepers, while his calculated Discovery Channel stunt backfired catastrophically.
-- `INS-260323-FF23` Every business needs a creator — build in public, show the behind-the-scenes journey, and your content will naturally attract your ideal customer profile while filtering out everyone else.
-- `INS-260322-81CD` Frame your content around a public if-then challenge ('If I get X followers, I'll do Y') to create narrative tension that keeps viewers coming back.
 - `INS-260402-C49E` Graham quantifies from running a forum that users were about 3x more likely to upvote content that outraged them, suggesting outrage amplification is structural to engagement-sorted platforms.
 - `INS-260404-3B83` Mamdani's NYC mayoral win used social-media-first grassroots fundraising to defeat opponents backed by 26 billionaires spending $22M+.
 - `INS-260321-C902` New AI products follow a predictable distribution ladder: X small communities then AI news pages then Instagram news then creators then Telegram.

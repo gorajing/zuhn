@@ -3,15 +3,15 @@
 - `INS-260327-E07C` The same environment you use to eval your model offline can be used as your train set for reinforcement learning, unifying evaluation and training infrastructure.
 - `INS-260327-35C7` Physical AI will develop reasoning in trajectory and motion space, complementing text-based reasoning and potentially improving LLMs in return.
 - `INS-260327-79E8` OpenAI trained ChatGPT Agent via RL across thousands of VMs, letting the model discover when to use text vs visual browsing rather than programming tool selection rules.
+- `INS-260323-F204` AI systems launch knowing only half of what they need — the rest must be learned through real-world usage and continuous human feedback.
+- `INS-260327-7C69` Cursor built a decisive competitive advantage by using its own IDE as an RL environment to post-train models, a pattern every AI company should adopt.
+- `INS-260327-C4C8` RL went through a trough but is now the key capability multiplier because strong pretrained models finally provide the 'cake' that RL's 'cherries' can sit on top of.
 - `INS-260327-EDF0` Training agent swarms requires three reward functions -- instantiation, finish, and outcome -- to prevent agents from defaulting to serial single-agent behavior.
 - `INS-260328-C246` Hassabis argues AGI will combine LLMs as world models with AlphaZero-like planning/search mechanisms on top.
 - `INS-260325-8065` AlphaProof solved 3 of 5 non-geometry IMO 2024 problems including P6 (solved by only 5 of 609 humans) through RL-guided formal proof search.
 - `INS-260408-B5EC` AlphaZero learns chess from random to better-than-world-champion in 16-17 self-play generations, no human data required.
 - `INS-260321-80A9` Models simultaneously feel like a brilliant PhD and a 10-year-old — they're superhuman in RL-trained domains and mediocre outside them. This jaggedness doesn't improve with scale.
 - `INS-260403-C501` Verifiable tasks provide the training signal that lets AI master them first, creating a predictable sequence of capability unlocks.
-- `INS-260323-F204` AI systems launch knowing only half of what they need — the rest must be learned through real-world usage and continuous human feedback.
-- `INS-260327-7C69` Cursor built a decisive competitive advantage by using its own IDE as an RL environment to post-train models, a pattern every AI company should adopt.
-- `INS-260327-C4C8` RL went through a trough but is now the key capability multiplier because strong pretrained models finally provide the 'cake' that RL's 'cherries' can sit on top of.
 - `INS-260410-9FE6` Without a goal and without ground truth from the world responding to your actions, you cannot have prior knowledge or continual learning — only imitation of people who do.
 - `INS-260410-B7B1` Lab spending on pre-baked skill training is revealed-preference evidence that current models lack humanlike on-the-job learning.
 - `INS-260410-1248` Squirrels don't go to school — animal learning is prediction and trial-and-error, and supervised learning is a special human exception we have built entire AI paradigms around.

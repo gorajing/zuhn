@@ -1,0 +1,12 @@
+---
+id: SRC-260330-D688
+type: blog
+title: 'Deep Dive: Artificial Intelligence'
+url: 'https://chamath.substack.com/p/deep-dive-artificial-intelligence'
+date_ingested: '2026-03-30'
+insight_count: 0
+site_name: Chamath Palihapitiya
+publish_date: '2024-01-23T20:57:29+00:00'
+word_count: 383
+---
+Every day we are bombarded with so much news about AI that it's increasingly difficult to know what is signal and what is noise. And the tidal wave of this information came so quickly that for many, including myself, there was never a moment to take a step back and learn the basics in a way that put everything into context.As a result, I found myself with a brittle understanding of AI and often nodding in agreement about something in the space that I didn’t quite understand.So we set out to write a primer on AI like we did last month on energy transition. Assuming you had no prior knowledge, we wanted to create a document that was easy to read and understand. Where you could jump in and out of any section. And where the content was evergreen so you could refer to it as needed - today or in the future.To that end, this month’s Deep Dive aims to provide an intuitive foundation on artificial intelligence, covering how it works, what the different types of models are, this current wave of generative AI and our path to achieving AGI. You can read this today using the attached PDF, with a companion podcast which introduces the deep dive, both available to our paid subscribers at the end of this post. Separately, in putting this deep dive together, I came away convinced that these new AI tools are profoundly disruptive. AI will likely be one of the largest drivers of productivity improvements over the coming decade and will upend trillions of dollars of economic value. It will create completely unexpected winners and some massive losers all while driving a new deflationary curve of innovation that will benefit consumers.In future months, I will publish deep dives into other sectors of the economy that I think are important to understanding the world today. These fall into five themes:Deep TechEnergy TransitionHealthcare & Life SciencesEconomic AnalysisSocio-Political TrendsIf enough people care about this and continue to subscribe, not only can we invest to hire more researchers, we will also look to you, our subscribers, to influence what we research and read out to everyone in the future. I hope you enjoy reading this and let us know how we can improve.You can access our AI deep dive here:

@@ -1,0 +1,14 @@
+---
+id: SRC-260329-48C6
+type: blog
+title: >-
+  Startup Option Grant Calculator: Understand the Real Value of Your Stock
+  Options
+url: 'https://www.thevccorner.com/p/startup-option-grant-calculator'
+date_ingested: '2026-03-30'
+insight_count: 0
+site_name: The VC Corner
+publish_date: '2025-05-29T15:22:37+00:00'
+word_count: 369
+---
+If you’ve ever received a startup job offer with “10,000 stock options” and wondered what that’s actually worth—you’re not alone. Most startup employees (and even founders) don’t fully understand how equity compensation works. Between strike prices, 409A valuations, vesting schedules, and exit multiples, startup stock options can feel more like a lottery ticket than a financial asset.That’s why I’m sharing the Startup Option Grant Calculator—a simple, editable Excel and Google Sheets tool that helps you estimate the value of your stock options across funding rounds, exit scenarios, and growth multiples.This calculator gives you a realistic breakdown of how your equity could play out by modeling:▫️ Number of stock options granted▫️ Strike price vs. current fair market value (409A)▫️ Annual vesting schedule and total vesting period▫️ Next round valuations (2x, 3x, 4x)▫️ Exit value scenarios (3x to 1500x)Whether you’re comparing job offers or preparing to raise your next round, this tool helps you quantify the potential upside of your equity.Startup stock options are a key part of compensation—but most people don’t understand their real-world value.This model helps you:✅ Calculate your true potential earnings at exit✅ Compare equity offers with data-driven confidence✅ Avoid common mistakes like overvaluing illiquid shares✅ Understand tax implications and dilution effects✅ Communicate upside clearly as a founder, recruiter, or CFOInstead of relying on vague promises, you’ll finally have the numbers to answer:“If this company succeeds, what do I walk away with?”Let’s break down a real-world scenario using the template:You’re granted 10,000 stock options with a $0.10 strike price and the company’s current share price is $10.Your projected equity value under different scenarios:Next Round Growth▫️ 2x: $199K▫️ 3x: $299K▫️ 4x: $399KExit Outcomes▫️ 3x: $299K▫️ 6x: $599K▫️ 30x: $2.99M▫️ 200x: $19.9M▫️ 1500x: $149.9M💡 The takeaway? Equity can be life-changing—but most outcomes are somewhere in between.This template is built for:▫️ Startup employees reviewing or negotiating a job offer▫️ Founders issuing option grants and explaining upside▫️ CFOs and People Ops seeking to improve equity transparency▫️ Recruiters communicating total compensation clearly▫️ Operators trying to model the value of their current equityIt’s 100% editable in Google Sheets or Excel, pre-filled with real inputs, and ready to customize.Visualize your startup stock options with this calculator—model funding rounds, strike prices, and exit values in minutes

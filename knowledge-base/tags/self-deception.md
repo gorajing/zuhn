@@ -6,7 +6,6 @@
 - `INS-260404-32C5` Ornate prose tricks the writer into believing they've said more than they have, creating an illusion of depth that readers don't share.
 - `INS-260408-C9F8` Cleo names the bias live: humans must be at the center, then we're not; we must be uniquely emotional, then elephants have funerals; we must be uniquely creative, then Gemini makes art.
 - `INS-260403-B9E5` Prestige biases your perception of your own interests, making you pursue what you'd like to like rather than what you actually like.
-- `INS-260409-3BC9` Galef: 'There are things in that intersection where you can make yourself feel better without having to resort to telling yourself a lie' — the honest-comforting intersection almost always has something in it, but people jump to self-deception without looking for it.
 - `INS-260330-0AE2` Serendipitous discoveries are purer than confirmatory ones because surprise naturally triggers deeper scrutiny.
 - `INS-260403-3442` Consuming startup advice feels like progress but produces fragmented thinking and delays execution.
 - `INS-260403-9A8A` After Creandum's 13x Fund II, they doubled down on paranoia rather than celebrating, citing Feynman's warning that the easiest person to fool is yourself.
@@ -15,14 +14,15 @@
 - `INS-260403-1046` Ideas feel fully formed in your head until you try to write them down, revealing an illusion of completeness.
 - `INS-260330-6566` The difference between a dangerous fiction and a useful one is whether it includes mechanisms for self-correction, which requires honesty about its human origins.
 - `INS-260403-5A91` When someone cheats in the domain they claim to care most about, it reveals a disconnect between stated values and actual psychology that is deeply diagnostic.
+- `INS-260409-3BC9` Galef: 'There are things in that intersection where you can make yourself feel better without having to resort to telling yourself a lie' — the honest-comforting intersection almost always has something in it, but people jump to self-deception without looking for it.
 - `INS-260330-F6B1` Per-project procrastination hides behind busy work on less important tasks, causing people to waste years without noticing.
+- `INS-260403-7ED5` Unlike watching TV on a couch, browsing the internet at your desk looks and feels like work, which delays recognition of the problem.
 - `INS-260329-6D8B` Entrepreneurial 'strategy sessions' about new directions often mask emotional avoidance of difficult execution work.
 - `INS-260403-E3E6` Most founders who take premature corp dev meetings already know it's a mistake but do it anyway because being wanted feels good.
-- `INS-260403-7ED5` Unlike watching TV on a couch, browsing the internet at your desk looks and feels like work, which delays recognition of the problem.
 - `INS-260330-6A3A` The conviction that you understand persuasion too well to be persuaded is itself a persuasion vulnerability.
 - `INS-260403-61B0` Spin added for persuasion gets mixed into your own reasoning, making you unable to see your ideas clearly.
-- `INS-260330-C451` People grab onto one or two morally defensible positions to psychologically offset the guilt of supporting an otherwise indefensible one.
 - `INS-260330-A33E` Active addiction of any kind — drugs, crime, gambling — makes genuine love impossible because the addiction always comes first.
+- `INS-260330-C451` People grab onto one or two morally defensible positions to psychologically offset the guilt of supporting an otherwise indefensible one.
 - `INS-260330-206B` Founders must maintain dual consciousness—optimism about the long-term vision alongside paranoid clarity about current existential risks.
 - `INS-260323-FFAC` Cox maintained the narrative that he was 'helping people get homes' through every escalation of fraud, only recognizing his self-deception years later in prison while writing an ethics course.
 - `INS-260403-7FB2` Structure your revenue model so that wishful assumptions produce visibly broken outputs, forcing honest confrontation with reality.

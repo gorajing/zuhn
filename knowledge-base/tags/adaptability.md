@@ -20,8 +20,8 @@
 - `INS-260323-73AB` Cuban identifies curiosity, agility, and the ability to sell as the three entrepreneurial essentials — with curiosity as the foundation because business is never static.
 - `INS-260403-CE70` Repeat founders often fail by transplanting an entire operating system from their last startup without testing whether it fits the new market, team, or timing.
 - `INS-260330-70F5` Founder excellence is paradox navigation, not single-dimension optimization.
+- `INS-260403-5D3C` 65% of VCs rank management team quality as the top investment criterion, ahead of market size and product quality.
 - `INS-260322-ABA0` Businesses that become one-dimensional on currently-working channels almost always see revenue halve rather than double, because platform shifts are inevitable.
 - `INS-260327-8521` Bret Taylor learned as Facebook CTO to stop conforming the job to his strengths and instead identify the most important thing each day, even if uncomfortable, creating a virtuous cycle of broader impact and greater joy.
-- `INS-260403-5D3C` 65% of VCs rank management team quality as the top investment criterion, ahead of market size and product quality.
 - `INS-260330-440E` The Indus Valley shows almost no evidence of warfare or military infrastructure, and its collapse coincided with the arrival of more warlike peoples.
 - `INS-260403-DF7F` Complete business model validation requires testing desirability, viability, feasibility, and adaptability—not just whether customers want the product.

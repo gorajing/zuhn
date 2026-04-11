@@ -34,7 +34,7 @@
 - `INS-260404-D149` OpenAI's immediate response of offering o1 Mini free and rushing out Operator suggests their competitive position was more narrative than technical.
 - `INS-260327-C05A` OpenAI's metamorphosis from nonprofit 'for the good of humanity' to for-profit IPO candidate has permanently damaged trust with researchers, regulators, and the public.
 - `INS-260328-FF2C` The smartest people can make the impossible happen, but if you cannot attract the smartest people, you cannot even make the possible happen.
+- `INS-260323-B0EA` OpenAI started as a research lab with no product plans — patching the structure repeatedly as reality changed led to the awkward hybrid that enabled the board crisis.
 - `INS-260327-421F` With commission, every hour spent helping a colleague or running an experiment is literally money out of your pocket — no-commission culture at Slack, OpenAI, Stripe, and others creates collaborative builders instead of selfish closers.
 - `INS-260327-A59A` Maggie left a senior director role at Webflow to become an individual contributor at 7-person OpenAI GTM because Kevin Egan's principle is true: if you get on a rocket ship, your career goes places you never imagined.
 - `INS-260327-18D4` Maggie's first OpenAI hire was Molly — Stanford MBA, 8 years at Google — who accepted an SDR role when 49 other candidates refused it, then built the global sales dev org within months because she had zero ego.
-- `INS-260323-B0EA` OpenAI started as a research lab with no product plans — patching the structure repeatedly as reality changed led to the awkward hybrid that enabled the board crisis.

@@ -9,7 +9,6 @@
 - `INS-260403-0949` Speaking excels at motivation and emotional impact, not at conveying complex ideas — choose your communication medium accordingly.
 - `INS-260404-7F34` Essay impact is novelty × importance, but achieving both simultaneously is rare because important topics have already been heavily explored.
 - `INS-260409-53A1` 'Because' is a compliance trigger regardless of whether the reason makes sense.
-- `INS-260410-A33F` Argument, counterargument, rebuttal — but the rebuttal must come from a completely different angle than the original argument, or it's just repetition.
 - `INS-260330-318B` Dressing salespeople as nurses exploits authority bias to bypass critical evaluation of claims.
 - `INS-260323-61D4` Einstein presented the non-locality problem at least three times — once at the 1927 Solvay Conference, once with the photon box thought experiment, and once in the EPR paper — and each time Bohr misunderstood or reframed the argument rather than addressing it directly.
 - `INS-260329-55F7` People trust their own conclusions far more than anything a salesperson tells them, so guide them to discover the answer rather than asserting it.
@@ -18,6 +17,7 @@
 - `INS-260330-5F21` Partially adopted personas trigger uncanny valley effects that repel rather than attract.
 - `INS-260329-A45D` 'But' acts as an attention redirector — everything after it is amplified, everything before it is diminished.
 - `INS-260329-78AE` People automatically trust speakers more when the speaker says something that visibly hurts their own interest, because costly signals are expensive to counterfeit.
+- `INS-260410-A33F` Argument, counterargument, rebuttal — but the rebuttal must come from a completely different angle than the original argument, or it's just repetition.
 - `INS-260403-29C7` Kissinger chose Go over xiangqi not because it described China accurately, but because it made America respond the way he wanted.
 - `INS-260404-6753` Consciously listening for the first 10 minutes and acknowledging the other side's logic disarms conflict more effectively than arguing.
 - `INS-260403-9DB6` Steady accumulation of documented incidents shifts opinion more than any single dramatic event because patterns resist counter-narrative.
@@ -40,15 +40,16 @@
 - `INS-260410-8122` 'Melts in your mouth, not in your hand' sold parents on M&M's by addressing the hidden fear of chocolate-smeared furniture, not the kids' desire for candy.
 - `INS-260330-59CE` Vague predictions appear accurate because our brains apply the 'law of near enough' — two things don't have to match exactly for us to perceive a connection, making almost any outcome confirmatory.
 - `INS-260403-AE2C` One viral video of concrete harm shifts opinion more than years of theoretical warnings.
+- `INS-260330-8B79` After years of global espionage, the most surprising finding about human nature is the universal painful longing for human connection across all socioeconomic brackets and cultures.
 - `INS-260325-59D4` Suppression creates an inference: if the idea were not dangerous to the powerful, they would not bother censoring it — making the forbidden idea seem more credible.
 - `INS-260330-0F49` The reflexive racial framing of the Capitol security failure ignored contradicting evidence — like black cops struggling to defend the building and a white woman being shot — while alienating the moderate conservatives needed for democratic healing.
 - `INS-260325-0147` Suppressing an idea does not just draw attention to it -- it actually increases the likelihood people will believe it.
-- `INS-260330-8B79` After years of global espionage, the most surprising finding about human nature is the universal painful longing for human connection across all socioeconomic brackets and cultures.
 - `INS-260323-0277` Raibert deliberately made the top and bottom ideas on his project list boring and put 'pogo stick robot' in the middle — letting Ivan Sutherland naturally select the exciting one, which led to the first $3,000 of funding.
-- `INS-260326-3C9C` Alexander's Opis speech worked because he could strip and show his scars -- shared suffering creates unchallengeable authority.
 - `INS-260403-E4C6` Never say 'we're passionate' or 'our product is great'—audiences ignore or penalize explicit self-promotion, while implicit confidence through demeanor is the strongest signal.
 - `INS-260405-D20A` Investors must feel the problem, not just understand it, for the problem slide to do its job.
+- `INS-260326-3C9C` Alexander's Opis speech worked because he could strip and show his scars -- shared suffering creates unchallengeable authority.
 - `INS-260405-ECCD` Investors must feel the problem before they can value the solution.
+- `INS-260405-D8AA` Show the CFO what competitors are spending on innovation; loss aversion moves budgets faster than projected IRR.
 - `INS-260329-F2BB` Describe the customer's problem more accurately than they can, and they'll believe you can solve it without needing proof.
 - `INS-260329-E900` Mine book reviews in your niche for exact customer language about their pain — matching their words creates automatic credibility.
 - `INS-260329-95EA` Leading with a real negative before a positive ('but') makes the positive far more convincing because it signals honesty.
@@ -62,4 +63,3 @@
 - `INS-260329-4B07` Cut delivery time rather than increase promised results — latency reduction is the strongest purchase motivator.
 - `INS-260329-8BFC` Negative-before-positive sequencing leverages recency bias and earned credibility to make the same facts more persuasive.
 - `INS-260329-348D` Warning about extreme positive side effects makes the positive outcome feel inevitable rather than aspirational.
-- `INS-260405-D8AA` Show the CFO what competitors are spending on innovation; loss aversion moves budgets faster than projected IRR.

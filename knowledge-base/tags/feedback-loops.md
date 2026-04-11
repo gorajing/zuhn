@@ -28,12 +28,12 @@
 - `INS-260330-E0F5` Movements built on cultural grievances provoke opponents to double down, creating self-reinforcing polarization spirals.
 - `INS-260403-53C9` Photosynthesis produced oxygen that poisoned its own key enzyme, forcing plants to build elaborate workarounds for a problem they created.
 - `INS-260330-27DF` Voter demand, media incentives, and political self-preservation form a mutually reinforcing triangle that locks in extremism.
-- `INS-260403-597B` Once a belief enters the startup investment market, follow-on dollars, valuation markups, and co-investor activity all amplify the same signal until divergence becomes irrational.
-- `INS-260403-BA53` When a movement's opposition collapses, the movement loses its corrective feedback and extends past diminishing returns.
 - `INS-260329-DABC` Intentionally encountering and resolving errors builds more robust understanding than only following the happy path.
 - `INS-260329-8226` Tests force you to externalize implicit assumptions about behavior, making testing a thinking discipline rather than just a quality assurance step.
 - `INS-260329-70D5` CS50 uses Scratch (visual blocks) in week 0 to give students immediate creative success before introducing C's syntactic overhead, leveraging early wins to fuel persistence.
 - `INS-260329-D48B` The write-run-see-error-fix cycle in programming provides the fastest possible feedback loop for learning systematic thinking.
+- `INS-260403-597B` Once a belief enters the startup investment market, follow-on dollars, valuation markups, and co-investor activity all amplify the same signal until divergence becomes irrational.
+- `INS-260403-BA53` When a movement's opposition collapses, the movement loses its corrective feedback and extends past diminishing returns.
 - `INS-260403-449A` If you expect work to hurt, you lose the ability to distinguish productive struggle from doing something fundamentally wrong.
 - `INS-260330-3737` Having experienced peers critique your safety procedures reveals obvious gaps you cannot see yourself.
 - `INS-260403-2CFE` You worry less about bad early work when you can see it improving, so focus on the derivative rather than the function.
@@ -52,25 +52,25 @@
 - `INS-260330-BEE7` Successful founders personally handle customer support, obsess over tiny product details, and maintain the tightest possible feedback loop with users — especially in the first year.
 - `INS-260329-3739` Skill = repetitions × improvement-per-rep; reviewing your top and bottom 10% of outputs is the multiplier most people skip.
 - `INS-260409-171C` The complete formula for making it is start, take feedback to get better, and never stop — most failure is skipping one of these.
+- `INS-260329-F6E1` Launch free or cheap, raise 20% every 5 customers until conversion-rate × price peaks.
 - `INS-260405-AC3E` The insight from a customer conversation degrades with every layer of intermediary between the customer and the decision-maker.
 - `INS-260323-B374` High-turnaround physical activities like jiu-jitsu and surfing teach leaders the crucial lesson that some things cannot be forced, a lesson business cycle times are too long to teach.
-- `INS-260329-F6E1` Launch free or cheap, raise 20% every 5 customers until conversion-rate × price peaks.
+- `INS-260402-3866` Prepare materials to 70% completeness, then test with 4-6 people who've fundraised or invested before iterating to final form.
 - `INS-260403-71A6` The gap between understanding customers and testing ideas is where most innovation efforts stall — closing that gap through systematic linking is the key leverage point.
 - `INS-260410-6286` Kelly Johnson insisted Skunk Works engineers sit only steps from the shop floor because 'a stone's throw was too far away' — the shortest design-to-build feedback loop wins.
 - `INS-260325-B50B` CIA's three-step training model — educate, exercise, experience — compresses skill acquisition by immediately applying classroom learning in real-world settings with self-accountability.
 - `INS-260326-C692` Start by asking for criticism of yourself before criticizing others — it builds trust and credibility for harder conversations.
 - `INS-260330-26E7` Loyalty-first hiring filters for liars or zealots, destroying an organization's capacity for honest self-assessment.
 - `INS-260325-75EA` A teacher makes deposits of knowledge; a coach observes your real performance over time and walks you through iterative change — the distinction is about feedback loops, not content.
-- `INS-260402-3866` Prepare materials to 70% completeness, then test with 4-6 people who've fundraised or invested before iterating to final form.
 - `INS-260410-FA70` Ozempic achieved Tylenol-tier brand recognition because users can see weight come off in weeks and everyone around them notices too.
+- `INS-260404-95D0` The email system's fundamental vulnerability is that sending messages has no consequences for the sender.
 - `INS-260330-C134` Plants' own success at producing oxygen through photosynthesis poisoned their core enzyme RuBisCo, which evolved for a low-oxygen world — their greatest output became their biggest problem.
 - `INS-260330-C391` YC finds that founders who hook PagerDuty to customer support tickets and respond within an hour at 3am correlate with startup success more than almost any other behavior.
 - `INS-260404-8A18` Rapid iteration with visible progress keeps amateur contributors motivated through multi-day creative projects.
 - `INS-260330-3A3E` When the people who build the product also support it, bugs get fixed faster and the knowledge gap between builders and users collapses.
 - `INS-260322-3C3D` ElevenLabs' core advantage comes from product teams talking directly to research teams — product provides real user feedback, research iterates immediately, and models get tested directly on the product.
-- `INS-260327-1787` The speed of feedback is inversely correlated with the number of repetitions needed to learn -- stopping mid-role-play to correct and repeat is far more effective than notes at the end.
-- `INS-260404-95D0` The email system's fundamental vulnerability is that sending messages has no consequences for the sender.
 - `INS-260325-0F4F` Progress begets progress: fundamental technologies like computing and steam power feed back into the innovation process itself, creating accelerating returns.
+- `INS-260327-1787` The speed of feedback is inversely correlated with the number of repetitions needed to learn -- stopping mid-role-play to correct and repeat is far more effective than notes at the end.
 - `INS-260403-64D0` The startup environment's rapid success/failure cycle makes it uniquely suited to reveal which evaluation signals actually predict performance.
 - `INS-260329-180B` Limit your first app to one core feature so you can ship fast and get real user feedback before building more.
 - `INS-260329-DFD1` TestFlight's screenshot feedback feature captures user frustration in-context — tell beta users to screenshot anything weird and you get zero-friction bug reports with visual evidence.

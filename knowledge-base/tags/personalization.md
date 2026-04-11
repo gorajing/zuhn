@@ -17,7 +17,7 @@
 - `INS-260403-7C60` Game companies constantly adjust conversion pressure per user segment; most non-game companies set one static paywall and leave money on the table.
 - `INS-260403-A0B0` Incumbents holding existing user data and daily engagement have a near-insurmountable AI distribution advantage.
 - `INS-260402-1F41` Per-user models are inherently harder to game than shared models because attackers face a diverse population instead of a single target.
+- `INS-260403-2DB2` Live ops creates a compounding advantage: each data-driven iteration personalizes the experience further, building a moat that static competitors cannot match.
 - `INS-260327-A903` Don't say 'love what you're doing at [Company]' -- find specific things you uniquely have in common with the recipient (same college building, used their specific product feature, niche shared interest) to create real connection.
 - `INS-260329-D1A1` Custom-researched outreach to multiple stakeholders per target company signals the hustle that generic mass applications cannot.
 - `INS-260327-2E84` Great demos start with recapping the prospect's problem (proving you listened), then show a personalized story of their user solving it -- using their logo, their data, their team names -- with magic moments of delight.
-- `INS-260403-2DB2` Live ops creates a compounding advantage: each data-driven iteration personalizes the experience further, building a moat that static competitors cannot match.

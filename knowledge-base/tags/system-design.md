@@ -49,8 +49,8 @@
 - `INS-260403-A9F3` Gerrymandering 6,641 tiny districts is computationally harder and more fragile than gerrymandering 435 large ones, and buying 0.02% of Congress per seat is less attractive than buying 0.23%.
 - `INS-260403-11F9` The 'data moat' is largely a fallacy—architectural feedback loops that compound over time are what actually create defensibility.
 - `INS-260402-B743` Copying a competitor's growth loop features without understanding the underlying system mechanics and timing conditions produces poor results.
-- `INS-260329-4696` Batching operations increases total system throughput by amortizing overhead, but each individual request waits longer — you cannot optimize both simultaneously.
 - `INS-260404-95D0` The email system's fundamental vulnerability is that sending messages has no consequences for the sender.
+- `INS-260329-4696` Batching operations increases total system throughput by amortizing overhead, but each individual request waits longer — you cannot optimize both simultaneously.
 - `INS-260330-8718` Neurons are amitotic and irreplaceable once specialized, making them the nervous system's critical vulnerability despite being its most valuable component.
 - `INS-260403-0B14` Parental drive to advantage children is so powerful that only structural solutions (smaller organizations, market measurement) work—rule-based patches always get circumvented.
 - `INS-260330-2C71` Photosynthesis uses a 4-complex electron transport chain with intermediate carriers (ATP, NADPH) rather than directly converting sunlight to glucose, enabling independent optimization of each stage.

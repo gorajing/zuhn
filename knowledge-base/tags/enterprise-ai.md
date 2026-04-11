@@ -10,7 +10,6 @@
 - `INS-260327-76B2` Jensen Huang predicts 100-to-1 ratio of security bots to productive agents; Lahav agrees with the directional thesis though debates whether secure-by-design can reduce this ratio.
 - `INS-260321-B85C` Reframing businesses as collections of input-constrained processes (customer service, legal) and output-constrained processes (creative, engineering) reveals fundamentally different AI automation strategies for each.
 - `INS-260405-1A3C` 2026 marks the transition from AI agent experiments to accountable production deployments with real governance requirements.
-- `INS-260325-E23D` Neo4j CTO argues graphs are the missing AI infrastructure — real-world data is relationships and paths, not tables.
 - `INS-260323-EA36` 95% of AI projects fail — twice the rate of any other emerging technology — driven equally by skills gaps and employee resistance to adoption.
 - `INS-260323-13C0` Organizations routinely assign their least technical person to 'train the AI' because they don't understand that this is actual data science work.
 - `INS-260410-8E02` Whenever the buyer is a corporation, IT department, or government, market structure forecloses winner-take-all outcomes — the buyer will force multiple suppliers to exist.
@@ -22,6 +21,7 @@
 - `INS-260323-4794` AI infrastructure includes human expectations, staff training, and cultural readiness — not just data pipelines and cloud credits.
 - `INS-260323-216A` Most AI projects fail because organizations skip the unglamorous data science work between raw data and AI value.
 - `INS-260321-015B` Corporate AI projects fail because they optimize human-to-human workflows — the real transformation is creating AI-native operating systems where agents replace entire workflows and humans become oversight.
+- `INS-260325-E23D` Neo4j CTO argues graphs are the missing AI infrastructure — real-world data is relationships and paths, not tables.
 - `INS-260402-31D8` The AI security consulting industry sells prompt-level protections that cannot work because LLMs are fundamentally jailbreakable; only permission restriction provides real security.
 - `INS-260325-8F49` Hugging Face hosts roughly as many private models as their 1 million public models, created by 350,000 organizations doing custom fine-tuning, evaluation, and reinforcement learning.
 - `INS-260325-95A6` MIT found 95% of genAI pilots yield zero P&L impact because enterprise AI tools become static science projects that never adapt to real workflows.
@@ -33,7 +33,7 @@
 - `INS-260327-D9D6` The FDE role translates vague client requirements into AI-ready specifications through iterative meetings, structured documentation, and progressive decomposition from ambiguity to precision.
 - `INS-260327-40E3` Ramp data shows Anthropic capturing 73% of new enterprise AI spend as OpenAI's strategic inconsistency — from flat headcount to doubling, from standalone Sora to folding it in — erodes buyer confidence.
 - `INS-260322-B641` In a reversal of the traditional software pattern where enterprise was stickier than consumer, consumer AI (ChatGPT) is proving stickier than B2B model access — because switching a family's habits is harder than switching an API call.
-- `INS-260323-348F` 90% of CXOs say their technology is best-in-class, yet 44% of their actual infrastructure is nearing end-of-life — the readiness paradox blinds leaders to reality.
 - `INS-260404-48D1` VC funding for AI visual media surged 90%, driven by enterprise demand and big tech validation from Apple and Alphabet.
+- `INS-260323-348F` 90% of CXOs say their technology is best-in-class, yet 44% of their actual infrastructure is nearing end-of-life — the readiness paradox blinds leaders to reality.
 - `INS-260327-C99D` Deep AI does the whole 10-step task from one prompt; shallow AI assists each step in a human-guided workflow — both are valuable but for different reasons.
 - `INS-260327-73BE` Enterprise AI requires explainability and guardrails — graph databases alongside LLMs provide the auditable knowledge network that pure LLMs lack.

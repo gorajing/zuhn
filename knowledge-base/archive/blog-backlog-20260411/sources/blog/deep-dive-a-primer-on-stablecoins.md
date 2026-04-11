@@ -1,0 +1,12 @@
+---
+id: SRC-260330-EBC4
+type: blog
+title: 'Deep Dive: A Primer on Stablecoins'
+url: 'https://chamath.substack.com/p/deep-dive-a-primer-on-stablecoins'
+date_ingested: '2026-03-30'
+insight_count: 0
+site_name: Chamath Palihapitiya
+publish_date: '2025-04-28T21:31:13+00:00'
+word_count: 351
+---
+Last year, Visa announced the launch of the Visa Tokenized Asset Platform, a new infrastructure designed to help banks issue and manage stablecoins and tokenized deposits.This week, Stripe began testing a stablecoin pilot, aiming to help companies outside the U.S. and E.U. access U.S. dollars more easily through stablecoin payments.And just today, Mastercard announced new features that allow consumers to spend stablecoins and enable merchants throughout the world to receive them.Stablecoins weekly transaction volumes have already exceeded Visa’s, making it the second killer app in the crypto ecosystem, besides Bitcoin.So what’s going on?This deep dive will explain how stablecoins work, as well as the use cases and implications of more of these tokens flowing through the global economy.We took a straightforward approach to writing this deep dive. We wanted to communicate the ‘a-ha’ moments which make it clear why players like Visa, Mastercard, and Stripe have allocated substantial resources towards stablecoins, and why one of the current administration’s priorities this year is to establish a clear legal and regulatory framework for them.A few months ago, we published our first crypto deep dive which covered the crypto ecosystem as a whole. Re-reading that deep dive, I would say that the primer is even more relevant today, and it’s interesting to note how some of the fads mentioned have already faded from culture.If we’ve done our job right, both these deep dives should impart a visceral understanding of why cryptocurrencies command trillions of dollars of value, and how to navigate an ecosystem that has both a handful of incredibly useful products, as well as many experiments and scams.On the first episode of All-In this year, I predicted that the biggest business winner in 2025 will be dollar-denominated stablecoins. Let’s see if I’m right.ChamathDisclaimer: The views and opinions expressed above are current as of the date of this document and are subject to change without notice. Materials referenced above will be provided for educational purposes only. None of the above will include investment advice, a recommendation or an offer to sell, or a solicitation of an offer to buy, any securities or investment products.

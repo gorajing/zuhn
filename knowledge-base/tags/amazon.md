@@ -13,8 +13,8 @@
 - `INS-260327-8997` Amazon is literally running out of human beings who haven't already worked for them and quit, revealing a hard limit on growth-through-churn employment strategies.
 - `INS-260322-F128` The #1 strategic decision is choosing a category you can realistically become #1 in — not just participate in — then killing everything else to focus all resources there.
 - `INS-260322-5650` In 2026, customer feedback is too fast and too public for mediocre products to survive — subscriptions only work if the product genuinely delivers, and the founder should use their own product daily.
-- `INS-260410-419F` Amazon's success was a philosophically straight line, a strategically squiggly line, and a tactically random set of dots through a maze of failed bets.
 - `INS-260322-6AF5` Amazon's product search has degraded so badly (spam, fake reviews, wrong-size photos, unclear ads) that DoorDash competing on product trust from local stores is a viable strategy — big tech's moats erode from the inside.
+- `INS-260410-419F` Amazon's success was a philosophically straight line, a strategically squiggly line, and a tactically random set of dots through a maze of failed bets.
 - `INS-260410-E3FB` Bezos mandated all teams expose data only via service interfaces, with firing as the penalty, because process and coordination collapse under Metcalfe's law as org size grows.
 - `INS-260405-1B93` When Amazon started producing its own TV shows, it stopped competing purely on logistics and began competing on culture — a much harder moat to replicate.
 - `INS-260405-6B96` Amazon's 'free' streaming is only free in the sense that it's not line-itemed — its cost is recovered through the shopping behavior change it induces in Prime subscribers.

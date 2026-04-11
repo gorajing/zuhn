@@ -13,15 +13,15 @@
 - `INS-260403-E05D` Extractive strategies that replace cooperative arrangements reliably destroy more value than they capture.
 - `INS-260405-BA7F` The instruction 'aim to make more than you take' reframes profit as a consequence of genuine usefulness, not a target to optimize for directly.
 - `INS-260329-793D` Businesses typically have far more untapped leverage in their existing offer and customer base than they realize.
+- `INS-260321-8D2B` Price AI products using three factors: value creation vs human cost, unit economics including hidden storage costs, and representative customer surveys.
 - `INS-260321-2F09` Many AI founders fail because they build impressive demos that don't solve real painful jobs — if nobody asks about pricing, you don't have product-market fit.
 - `INS-260328-A57D` If you found the biggest problem and it seemed too hard, searching for four months for easier problems is almost always a worse use of time.
 - `INS-260327-80A8` A startup success is your customer success — focus on whether they are getting value, not on vanity metrics.
-- `INS-260321-8D2B` Price AI products using three factors: value creation vs human cost, unit economics including hidden storage costs, and representative customer surveys.
 - `INS-260403-A70D` Measuring outcomes over outputs forces product teams to validate that shipped features actually change user behavior and create value.
 - `INS-260330-19C3` Oxygen was a toxic waste product of early photosynthesis that became the foundation for all complex animal life — a reminder that byproducts can eclipse primary products in value.
+- `INS-260330-C607` Oxygen was photosynthesis's 'useless byproduct' that became the foundation of all animal life — the side effect outweighed the intended product.
 - `INS-260329-4020` Give massive value for free to 100 people without asking for anything — a handful will respond, creating more income than most jobs and establishing genuine credibility.
 - `INS-260329-B8C4` Provide tremendous unrequested value to 100 people and 1-5 will respond with opportunities — no transactional framing needed.
 - `INS-260329-1DE0` Cut delivery time in half or add priority access to create a premium tier that wealthy buyers prefer over larger promises.
 - `INS-260329-4B07` Cut delivery time rather than increase promised results — latency reduction is the strongest purchase motivator.
-- `INS-260330-C607` Oxygen was photosynthesis's 'useless byproduct' that became the foundation of all animal life — the side effect outweighed the intended product.
 - `INS-260330-E8C6` Unlike school and corporate life where gaming metrics works, startups have no boss to trick — only users who judge purely on whether the product solves their problem.

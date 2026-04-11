@@ -12,6 +12,11 @@
 - `INS-260403-88B9` The 'startup' label at mature companies often serves as cover for offering below-market salaries with speculative equity.
 - `INS-260405-202B` Costco pays double the U.S. retail average and reports employees three times more productive, suggesting the productivity gain exceeds the wage cost.
 - `INS-260405-F20D` Founder compensation should be benchmarked against funding stage and market norms, not minimized to signal commitment.
+- `INS-260403-0F15` Event-based vesting gives companies total control over whether employees ever receive equity value.
+- `INS-260403-7764` Candidates should systematically evaluate profitability, investor pressure, peer liquidity, cash benchmarks, and exit plans before accepting startup equity.
+- `INS-260330-CBF3` Target giving 10% of the company to the first 10 employees because employees compound value over years while investors mostly write a check.
+- `INS-260330-855A` YC data shows the most successful companies give 3-5% equity annually to employees, and investors who fight equity grants are shortsighted despite it diluting them equally with founders.
+- `INS-260403-37F4` Multiply annual salary plus overhead by 1.5 to estimate total stock-equivalent cost at current valuation.
 - `INS-260330-7E58` In-N-Out pays managers $160K+ with full benefits, achieving 14-year average tenure in an industry with 150%+ annual turnover.
 - `INS-260403-09E8` The real cost of a hire includes payroll tax, benefits, dental, vision, bonuses, and annual raises — often 20-40% above base salary.
 - `INS-260403-85DE` An employee who improves expected outcomes by 20% is worth up to 16.7% equity before salary costs.
@@ -21,11 +26,6 @@
 - `INS-260330-3A7B` When you give a raise because someone asked, the employee who didn't ask but performs better learns that lobbying matters more than results.
 - `INS-260330-175F` A formal, periodic raise process prevents the culture from rewarding those who ask over those who perform.
 - `INS-260410-282E` Kelly Johnson's inverted principle: 'I give raises to the guy who supervises the least — that means he's doing more and taking more responsibility.'
-- `INS-260403-0F15` Event-based vesting gives companies total control over whether employees ever receive equity value.
-- `INS-260403-7764` Candidates should systematically evaluate profitability, investor pressure, peer liquidity, cash benchmarks, and exit plans before accepting startup equity.
-- `INS-260330-CBF3` Target giving 10% of the company to the first 10 employees because employees compound value over years while investors mostly write a check.
-- `INS-260330-855A` YC data shows the most successful companies give 3-5% equity annually to employees, and investors who fight equity grants are shortsighted despite it diluting them equally with founders.
-- `INS-260403-37F4` Multiply annual salary plus overhead by 1.5 to estimate total stock-equivalent cost at current valuation.
 - `INS-260410-DB84` Dismantle comp structures that pay people for outcomes you'd regret — expect attrition, and treat that attrition as a feature.
 - `INS-260405-F369` Inequality statistics are systematically biased because safe, unfireable jobs carry real economic value that never enters the measurement.
 - `INS-260329-CF70` One A+ hire at 170K outperforms five B-players at 100K each in knowledge work.

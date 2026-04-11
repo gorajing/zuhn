@@ -66,6 +66,7 @@
 - `INS-260403-0C1D` Spheres packed as tightly as possible still only cover 91% of a surface — a mathematical ceiling that no amount of optimization can overcome.
 - `INS-260329-A01C` The opportunity cost of starting a second business is often the continued growth trajectory of your first one.
 - `INS-260327-8760` Altman rejects backward-from-vision planning, saying he's never seen people with elaborate backward-chain strategies massively succeed.
+- `INS-260402-C2BA` F&F capital works when tied to a specific unlockable milestone like an MVP or pilot launch, not when used to buy time while figuring things out.
 - `INS-260403-294D` The startup edge is applying disproportionate brainpower to mundane problems that large companies delegate to average employees.
 - `INS-260409-8438` There are no ideas, only the idea maze — founders navigate walls, not pick concepts.
 - `INS-260403-F8AE` Apple rarely invented iPhone features first but consistently delivered the best implementation, from multi-touch to facial recognition.
@@ -75,15 +76,12 @@
 - `INS-260323-F15D` When transforming a large organization, changing processes and tools (the 'how') unlocks speed more effectively than simply demanding faster output.
 - `INS-260404-74F4` Schedule quarterly culture map reviews to assess whether enablers produced desired behaviors and blockers were actually removed.
 - `INS-260323-E15B` After 20 years running Meta, Zuckerberg's biggest lesson is that a cohesive leadership team can accomplish almost anything, while strategic brilliance fails without it.
-- `INS-260402-C2BA` F&F capital works when tied to a specific unlockable milestone like an MVP or pilot launch, not when used to buy time while figuring things out.
 - `INS-260410-C4BB` Kelly Johnson built the first US jet fighter in 143 days with 23 engineers and 30 shop workers in a literal circus tent, codifying it as Skunk Works Rule 3: restrict team size in an almost vicious manner.
 - `INS-260403-E09E` Repeatedly returning to the problem statement during design reviews and progress updates is the most effective scope control mechanism.
 - `INS-260404-F962` PMs should nail execution first because strategic opportunities emerge from the context built through delivery.
 - `INS-260403-6C07` Solve the problem users have right now before expanding into the product you envision for the future.
 - `INS-260323-19A8` Pincus argues MVP takes too long to fail — founders should test minimum viable ideas (not products) and build failure machines that kill bad concepts in hours, not months.
 - `INS-260323-9393` Pincus's product religion: start by copying every pixel of what's proven to work, only change what existing users unanimously confirm is better, then innovate only in the narrow space that remains.
-- `INS-260329-7B47` Send 100 personalized outreach messages daily using a compliment-plus-positioning formula to guarantee your first five customers through pure volume.
-- `INS-260329-7E63` The best closers don't have better arguments — they ask for the sale more times by using reframing to maintain rapport across repeated asks.
 - `INS-260403-4365` Carta data shows solo founders hit 35% of the 2024 class, with soonicorns like BuiltWith ($14M/year, 1 employee) proving the one-person unicorn is approaching reality.
 - `INS-260323-2C70` Pincus hired anyone who said they knew PHP, kept less than half, and found gems like an 18-year-old savant living on his mom's couch — the early-stage hiring perfection myth costs more speed than it saves in quality.
 - `INS-260405-F2C7` Vision should pull milestones forward, not justify why you missed them—keep the two layers structurally separate in your pitch.
@@ -94,4 +92,6 @@
 - `INS-260322-AAEA` A week is long enough to validate ideas and ship products; ten years captures true strategic direction. Quarterly planning is a deeply useless middle ground where cohorts don't bake and real outcomes aren't visible.
 - `INS-260410-1345` The Japanese won most battles in China but lost the war because Bushido culture equated 'taking this hill' with strategic success, with no theory of how tactical wins aggregated into the real objective of a stable, communist-free China.
 - `INS-260323-2559` Spending months making an app 'perfect' before releasing it means you're optimizing in the dark — every day of polish without user data is a day of self-deception.
+- `INS-260329-7B47` Send 100 personalized outreach messages daily using a compliment-plus-positioning formula to guarantee your first five customers through pure volume.
+- `INS-260329-7E63` The best closers don't have better arguments — they ask for the sale more times by using reframing to maintain rapport across repeated asks.
 - `INS-260329-B0BA` Start with your best bad idea and let customer feedback make it less wrong over time, rather than waiting for the perfect concept.

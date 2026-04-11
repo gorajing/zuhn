@@ -15,9 +15,9 @@
 - `INS-260410-0826` Gallipoli failed because the navy telegraphed the landing two months in advance; Normandy succeeded because every service moved together after years of disinformation.
 - `INS-260404-CF81` Use team alignment tools to ensure everyone is coordinated on commitments and responsibilities during the testing and iteration phase.
 - `INS-260410-17AE` Visa's 'reverse holding company' — a for-profit, non-stock membership corporation with non-transferable participation rights — made member banks structurally unable to sell, exit, or run competing networks.
-- `INS-260323-CD28` Wikipedia works because everyone intuitively knows what an encyclopedia entry should look like — shared understanding of the goal enables collaboration without centralized control.
 - `INS-260403-0637` Multi-user AI coordination creates compounding network effects unavailable to single-player AI tools.
 - `INS-260403-30FF` Clear organizational vision replaces coordination overhead — everyone already knows what to build without being told.
+- `INS-260323-CD28` Wikipedia works because everyone intuitively knows what an encyclopedia entry should look like — shared understanding of the goal enables collaboration without centralized control.
 - `INS-260403-FD6A` In lean teams, culture (shared values + async transparency + clear goals) must do the coordination work that hierarchy handles in larger organizations.
 - `INS-260330-2E1E` The Assyrians extended their empire beyond their road network, making administration impossible and contributing to collapse.
 - `INS-260330-E585` The Articles of Confederation collapsed primarily because Congress could not collect taxes, proving that authority without enforcement mechanisms is meaningless.

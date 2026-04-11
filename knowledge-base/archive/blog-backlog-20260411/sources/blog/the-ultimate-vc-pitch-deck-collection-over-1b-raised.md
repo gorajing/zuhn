@@ -1,0 +1,13 @@
+---
+id: SRC-260329-0A1C
+type: blog
+title: "\U0001F4BC The Ultimate VC Pitch Deck Collection: Over $1B Raised \U0001F680"
+author: The VC Corner
+url: 'https://www.thevccorner.com/p/the-ultimate-vc-pitch-deck-collection'
+date_ingested: '2026-03-30'
+insight_count: 0
+site_name: The VC Corner
+publish_date: '2024-10-11T12:08:34+00:00'
+word_count: 375
+---
+Raising funds is one of the hardest challenges for both startup founders and venture capitalists. Whether you're launching your first startup or building a new venture fund, the key to securing investment often lies in one thing: a compelling pitch deck. But what makes a deck stand out and get results? In this article, I’ve curated 24 of the most successful VC pitch decks that have collectively raised over $1 billion. These aren't just any slides—they’re the proven blueprints that have captured LP interest and sealed the deal for top-tier VCs.These pitch decks reveal how the best venture capitalists structure their investment theses, articulate the strength of their teams, and showcase their unique market opportunities. Understanding what works for the top funds can give you a head start in refining your own fundraising approach.The decks I’m sharing have helped top funds raise millions and solidify their positions as industry leaders. If you aim to improve your fundraising game, these examples will give you the insights and structure you need to create a resonating pitch deck.Here are just a few of the pitch decks included:Awesome People Ventures Fund 2 Pitch DeckEarl Grey Capital Fund II Pitch DeckLong Journey Ventures Fund I Pitch DeckNot Boring Capital Fund I Pitch DeckPrecursor Fund III Pitch DeckShrug Capital IV Pitch DeckSpacecadet Ventures Pitch DeckWorkLife Fund 2 Pitch DeckNot Boring Capital Fund II Pitch DeckSusa Ventures IV Pitch DeckTodd and Rahul’s Angel Fund Pitch DeckWeekend Fund 3.0 Pitch DeckAnd more…These decks are the ultimate resource for understanding how top VCs close deals with LPs. Instead of starting from scratch, you can use these real-world examples to refine your own pitch and raise capital more effectively. The guidance within these decks will help you understand what LPs want to see and how to deliver it.By studying these pitch decks, you’ll gain:A clear framework for building a standout pitch deck.Key insights into what makes LPs say yes.Over $1 billion worth of successful fundraising strategies.If you're still a free subscriber, now's the perfect time to upgrade to premium with a limited offer of 25% off forever. Don’t miss out on the chance to access not only these valuable decks but also the entire archive of exclusive content on The VC Corner.Get 25% off forever

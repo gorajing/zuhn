@@ -8,6 +8,6 @@
 - `INS-260404-2F57` Substack achieves meaningful creator ownership — portable subscriber lists, direct payment relationships — without any blockchain infrastructure, because the layer that matters is the relationship, not the protocol.
 - `INS-260330-DC14` Innovation clusters emerge where multiple competing entities operate near an unexplored frontier — remove either decentralization or the frontier and innovation dies.
 - `INS-260330-D99D` McDonald's biggest innovations — the Big Mac, drive-thru, Ronald McDonald, and Happy Meal — all came from individual franchisees experimenting locally, not corporate headquarters.
-- `INS-260410-A9CE` Greg Abel: 'We operate a decentralized model with autonomy grounded in deserved trust. We minimize bureaucracy to provide our managers the independence to focus relentlessly on their business. In return, we expect accountability and integrity in performance.'
 - `INS-260328-F301` Seed-stage funding is fairer than founders think: investors don't coordinate, there are many independent writers, criteria are public, and getting rejected by one investor doesn't poison the well with others.
+- `INS-260410-A9CE` Greg Abel: 'We operate a decentralized model with autonomy grounded in deserved trust. We minimize bureaucracy to provide our managers the independence to focus relentlessly on their business. In return, we expect accountability and integrity in performance.'
 - `INS-260403-BA4B` Geopolitical decentralization prevents any single lobby from permanently distorting property definitions to serve incumbents.

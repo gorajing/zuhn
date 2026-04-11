@@ -1,9 +1,9 @@
 # Tag: energy
 
-- `INS-260410-9425` Zuckerberg argues fast-takeoff AGI scenarios underweight how much of the stack is gated by physical-world timelines — gigawatt clusters, permitting, energy supply chains, and users learning to use the tools.
 - `INS-260330-F205` Every data center being built now locks in compute and power capacity that will be irreplaceable once globalized GPU supply chains break down.
 - `INS-260404-CC8B` Musk's orbital compute thesis rests on the claim that electricity and cooling requirements are becoming the binding constraint on AI progress, not algorithms.
 - `INS-260328-F05E` Zuckerberg argues that gigawatt-scale datacenters are technically feasible but energy permitting creates multi-year delays that capital alone cannot solve.
+- `INS-260410-9425` Zuckerberg argues fast-takeoff AGI scenarios underweight how much of the stack is gated by physical-world timelines — gigawatt clusters, permitting, energy supply chains, and users learning to use the tools.
 - `INS-260410-A325` AGI will compress the measured GDP of cognitive work even as it vastly expands the value produced, so total energy throughput becomes a better civilizational yardstick than GDP.
 - `INS-260403-B539` AI's exponentially growing demand for electricity, land, and water will squeeze human access to basic resources before labor replacement becomes the primary concern.
 - `INS-260402-1640` AI threatens humans not by replacing their jobs but by competing for shared resources like energy and land.
@@ -21,15 +21,15 @@
 - `INS-260330-100F` Thylakoid membranes store energy by pumping protons to one side, creating a 'charged battery' that drives ATP synthase — energy stored as a gradient, not a molecule.
 - `INS-260330-F2B6` Both photosynthesis and cellular respiration use the same trick: pump protons across a membrane to create a concentration gradient, then harvest that gradient through ATP synthase.
 - `INS-260327-F384` Animal-based nutrition supports elite surfing performance through sustained energy without crashes
-- `INS-260325-DC90` Coffee borrows energy from stress hormones — quitting for 30 days reveals true energy levels and allows adrenal recovery.
 - `INS-260322-2D57` Energy is the current AI infrastructure bottleneck (driving renewed interest in nuclear), but once solved, cooling becomes the next constraint — creating a wave of innovation opportunity around thermal management.
+- `INS-260325-DC90` Coffee borrows energy from stress hormones — quitting for 30 days reveals true energy levels and allows adrenal recovery.
+- `INS-260323-5955` Bezos argues you can debate when humanity must expand into space but not whether — energy usage per capita must grow, and a finite planet cannot support that indefinitely.
+- `INS-260405-C673` SpaceX, Tesla, and xAI are modules of one integrated long-term mission — the biggest bets of the next decade will be at places where disciplines collide, not inside single categories.
 - `INS-260402-F833` The U.S. leads in advanced chips while China leads in energy production — whoever integrates both first wins the AI race.
 - `INS-260403-0789` China installed more solar in one year (278GW) than the US has installed all-time (177GW), creating a structural energy advantage for AI compute.
 - `INS-260403-DC18` Oil's inelastic demand means small supply disruptions cause massive price spikes, while electricity prices remain comparatively stable.
 - `INS-260403-6016` US electricity generation has flatlined at ~4,000-4,200 TWh since 2000 after a century of exponential growth, creating the decade's biggest infrastructure bottleneck.
 - `INS-260404-25F5` US power generation grew only 1.3x since 2000 while China expanded 7x to ~10,000 TWh, creating a physical infrastructure gap that limits AI deployment capacity.
-- `INS-260323-5955` Bezos argues you can debate when humanity must expand into space but not whether — energy usage per capita must grow, and a finite planet cannot support that indefinitely.
-- `INS-260405-C673` SpaceX, Tesla, and xAI are modules of one integrated long-term mission — the biggest bets of the next decade will be at places where disciplines collide, not inside single categories.
 - `INS-260403-D2A5` Persistence emerges from the interaction of energy, imagination, resilience, good judgment, and goal focus — missing any one degrades the whole.
 - `INS-260325-1D95` The brain has a fixed energy budget for cognition that cannot be expanded, making attention a hard-limited resource to be allocated, not grown.
 - `INS-260330-5670` ATP functions as a universal energy currency — the body cannot use glucose directly, just as a store cannot accept foreign currency without exchange.

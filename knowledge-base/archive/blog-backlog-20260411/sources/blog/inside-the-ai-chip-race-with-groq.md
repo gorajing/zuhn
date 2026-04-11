@@ -1,0 +1,12 @@
+---
+id: SRC-260330-13D4
+type: blog
+title: Inside the AI Chip Race with Groq
+url: 'https://chamath.substack.com/p/inside-the-ai-chip-race-with-groq'
+date_ingested: '2026-03-30'
+insight_count: 0
+site_name: Chamath Palihapitiya
+publish_date: '2025-03-07T02:48:07+00:00'
+word_count: 307
+---
+Yesterday, I hosted a Spaces with Jonathan, Sunny, and Gavin from Groq, to discuss the current landscape of AI chips and inference.You can listen to the conversation below:0:00-1:09:45Audio playback is not supported on your browser. Please upgrade.Timestamps and topics covered:(0:00 - 9:50) Jonathan Ross shares his journey from high school dropout to creating Google's Tensor Processing Unit (TPU), which eventually led him to found Groq.(9:50 - 14:29) How Groq tackles AI hardware challenges by focusing on compilers and specialized hardware, and how their chips balance efficiency with adaptability.(14:29 - 28:08) NVIDIA's dominance in training, its moat-like effect on the industry, and how companies like Groq are working to create alternatives in the inference space.(28:08 - 39:03) Real-world examples where companies are running profitable AI inference workloads today in industries such as finance, advertising, and customer service.(39:03 - 47:20) Recent breakthroughs and competition among AI model developers like DeepSeek, Alibaba, Anthropic, and OpenAI, as well as a discussion about the shortcomings of today’s benchmarks for language models.(47:20 - 59:50) How geopolitical dynamics, especially between the U.S. and China, influence decisions around AI hardware manufacturing, supply chains, and international expansion.(59:50 - 1:08:54) Infrastructure challenges, energy constraints, and Groq's solutions for scaling AI data centers globally.(1:08:54 - 1:09:39) Audience Questions:(52:52) How will AI transform roles like product management, data analytics, and product design?(55:16) How can job applicants without traditional qualifications stand out in an AI-driven world?(58:44) What are Groq’s perspectives and plans around confidential computing and trusted execution environments (TEEs)?(1:01:05) How is Groq addressing security challenges related to open-source AGI and rogue AI?(1:03:05) Are inference cloud providers partnering or collaborating with venture capital firms to identify promising startups?(1:05:08) What emerging chip architectures in the 14nm space are best suited for new AI reasoning models?(1:07:45) Are there any plans for Groq data centers to be powered by renewable energy sources?No posts

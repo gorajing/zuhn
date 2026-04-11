@@ -1,0 +1,10 @@
+---
+id: SRC-260330-8D20
+type: blog
+title: Biz4Kids - a business model for kids
+url: 'https://www.strategyzer.com/library/biz4kids-a-business-model-for-kids'
+date_ingested: '2026-03-31'
+insight_count: 0
+word_count: 244
+---
+June 4, 2018# min readStrategyzer co-founder Alex Osterwalder, his kids and Holger Nils Pohl's visual team, have created Biz4Kids: a fun and entertaining comic with great stories that also convey the fundamentals of business.No items found.related readsNo items found.About the speakersDr. Alex OsterwalderEntrepreneur, speaker, and business thinkerCo-founder of Strategyzer and creator of the Business Model Canvas. Alex has helped hundreds of organisations design and iterate their strategies using practical, visual tools that turn complex challenges into actionable moves.Holger Nils-PohlVisual strategistHolger Nils Pohl is an internationally active Visual strategyst. He works through complexities in reasonable, absorbable units. He is the founder of the WorkVisual Institute, CEO of the Visual Manufactory GmbH and Creator of the WorkVisual App and a certified ScrumMaster. He cuttrntly lectures at the University of Arts Berlin and the Hochschule Macromedia, University of applied sciences.by Dr. Alex OsterwalderHolger Nils-PohlJune 4, 2018Download your free copy of this whitepaper nowNever miss a Strategyzer webinarSubscribe to receive email notifications for our upcoming webinars directly in your inbox.123related readsExplore more innovation insights in our knowledge libraryRead our blogNo items found.Get Strategyzer updates straight in your inboxSubscribe to receive email notifications about upcoming events, news, and more.Thanks for signing up!June 4, 2018# min readStrategyzer co-founder Alex Osterwalder, his kids and Holger Nils Pohl's visual team, have created Biz4Kids: a fun and entertaining comic with great stories that also convey the fundamentals of business.related readsNo items found.Thanks for your interest in Biz4Kids - a business model for kids

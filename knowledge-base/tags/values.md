@@ -4,8 +4,8 @@
 - `INS-260403-F4ED` Alignment difficulty stems from the nature of human values (sparse, contradictory, contextual), not from insufficient technical capability.
 - `INS-260410-FF8B` Petrarch wanted the Renaissance to restore Christian oligarchic virtue; instead it produced democracy, atheist philosophers, and vaccines — a future he would find horrifying in values but miraculous in outcomes.
 - `INS-260330-2EF0` Whether you view the Mongols as progressive or barbaric depends on whether you prioritize religious tolerance and trade over artistic output and human life.
-- `INS-260409-FABA` Psychedelics create a founder-risk problem that is best addressed with explicit pre-commitment clauses, not moral evaluation of post-trip decisions.
 - `INS-260403-49FF` Page and Brin overruled Schmidt on China because values conflicts are founder-domain decisions that operators are structurally unable to make.
+- `INS-260409-FABA` Psychedelics create a founder-risk problem that is best addressed with explicit pre-commitment clauses, not moral evaluation of post-trip decisions.
 - `INS-260325-E78D` Claiming you do not need a philosophy of life IS a philosophy of life — an unexamined one that probably serves you worse than a deliberate one.
 - `INS-260327-E833` Strategy (choosing what to pursue) matters infinitely more than tactics (how to pursue it).
 - `INS-260327-2915` What would remain if everything were taken away? The answer reveals what you actually value versus what you maintain out of habit and social expectation.

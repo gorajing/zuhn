@@ -1,0 +1,15 @@
+---
+id: SRC-260330-0154
+type: blog
+title: >-
+  A designer’s guide to AI: Building in Cursor (instead of Figma) lets you
+  prototype 10x faster, simplifies collaboration, and accelerates getting ideas
+  out of your head | Joel Unger
+url: 'https://www.lennysnewsletter.com/p/a-designers-guide-to-ai-building'
+date_ingested: '2026-03-31'
+insight_count: 0
+site_name: Lenny's Newsletter
+publish_date: '2025-05-12T11:03:15+00:00'
+word_count: 293
+---
+Brought to you by:Paragon—Ship every SaaS integration your customers wantWorkOS—Make your app enterprise-ready todayJoel Unger, design director at Atlassian, shares how AI is transforming the way he designs Trello and other products. He walks through real-world workflows using tools like Midjourney and Cursor to prototype complex interactions, re-create brand assets, and explore creative directions faster than ever. You’ll hear how AI is helping designers focus on higher-level thinking, communicate better with developers, and push creative boundaries—all without replacing the human touch.What you’ll learn:How to prototype complex UI interactions using AIA workflow for re-creating animated brand assets without motion design toolsHow to leverage image generation tools like Midjourney to explore design directions and create mood boardsHow to use Cursor to re-create animated SVG assetsWhy AI frees designers to operate at a higher level of creativityHow AI improves designer-developer collaboration by showcasing interactive intentWhy embracing AI is key to staying ahead in the evolving design landscapeThe limitations of current AI tools and where they still fall shortWhere to find Joel Unger:Website: https://joelunger.com/LinkedIn: https://www.linkedin.com/in/joelunger/Where to find Claire Vo:ChatPRD: https://www.chatprd.ai/Website: https://clairevo.com/LinkedIn: https://www.linkedin.com/in/clairevo/X: https://x.com/clairevoIn this episode, we cover:(00:00) Intro and Joel's background(02:46) Trello's new productivity features(04:24) Traditional design process limitations in Figma(05:22) Using Cursor to prototype interactive panel systems(07:39) From prototype to production: collaborating with developers(08:52) How Joel used AI to prepare for the podcast(10:50) How AI saves designer time for deeper thinking(11:23) Last-minute logo animation using Cursor(13:50) Using Midjourney for character design exploration(14:54) Creating a mood board for Taco: the Trello husky mascot(16:49) How AI is changing design thinking and workflows(18:18) Lightning round and closing thoughtsTools referenced:• Confluence: https://www.atlassian.com/software/confluence• Bitbucket: https://bitbucket.org/product/• Trello: https://trello.com/home• Figma: https://www.figma.com• Cursor: https://www.cursor.com/• ChatGPT: https://chatgpt.com/• Midjourney: https://www.midjourney.com/Other reference:• Atlassian: https://www.atlassian.com/Production and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email [email protected].

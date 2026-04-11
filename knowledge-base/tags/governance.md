@@ -1,13 +1,13 @@
 # Tag: governance
 
 - `INS-260405-1A3C` 2026 marks the transition from AI agent experiments to accountable production deployments with real governance requirements.
+- `INS-260403-33DF` Regulation and capitalism are co-dependent, not adversarial — historically, oversight has enabled rather than blocked economic scaling.
 - `INS-260403-A68D` Major AI pause advocates (Pause AI, Yudkowsky, Krueger) all explicitly call for international treaties, not unilateral action.
 - `INS-260323-FAF2` Building powerful AI turned out to be far easier than building safe AI, just as building airplanes was far easier than replicating bird flight.
 - `INS-260409-45C3` Hassabis says AI outputting non-human-readable tokens is a red line — it breaks interpretability and creates a safety vulnerability most labs would agree to avoid.
 - `INS-260325-9A0F` What makes institutions functional is not perfection but self-correction — elections, peer review, and amendment processes that identify and fix mistakes over time.
 - `INS-260410-8AA8` Technical alignment success without resolving 'aligned to whom' just produces an army of obedient employees for whoever controls the model.
 - `INS-260403-DDD5` 'All lawful use' contract language is effectively unconstrained because surveillance and weapons laws are vague and mutable.
-- `INS-260403-33DF` Regulation and capitalism are co-dependent, not adversarial — historically, oversight has enabled rather than blocked economic scaling.
 - `INS-260405-A23B` Self-governance of generative AI by individual firms is insufficient; coordinated institutional frameworks are required for responsible deployment at scale.
 - `INS-260410-230E` Regulate AI like factories after the industrial revolution — ban chemical weapons and aerial bombardment, not steel mills.
 - `INS-260410-7AC1` Vague AI safety terminology in regulation is a loaded weapon waiting for an authoritarian to pick up.
@@ -18,8 +18,10 @@
 - `INS-260410-212B` The old safety playbook — hoard research so the responsible lab keeps its lead — assumed the lab would actually burn that lead on alignment; now that assumption looks naive.
 - `INS-260328-896B` OpenAI's board tried to exercise its nonprofit mission authority and was immediately overridden by financial stakeholders — proving money wins over governance.
 - `INS-260410-001F` When auditors make as much from consulting a client as from auditing them, the audit is captured by definition.
-- `INS-260330-E43F` China's cities receive 40% of tax revenue but bear 80% of expenses, forcing them to use land sales as their primary funding mechanism.
 - `INS-260403-A447` Centralized custodian failures in crypto repeat the exact structural patterns of traditional finance collapses.
+- `INS-260330-E43F` China's cities receive 40% of tax revenue but bear 80% of expenses, forcing them to use land sales as their primary funding mechanism.
+- `INS-260403-FF15` Design your organization around the conflicts you want to hear about, not around eliminating disagreement.
+- `INS-260403-2349` VC value-add is maximized through structured involvement like governance rigor, operating cadence, and early professionalization rather than ad-hoc help.
 - `INS-260403-6024` Presidents fear bond market signals more than stock drops because rising yields directly threaten the government's ability to finance itself.
 - `INS-260330-B7AB` DNA replication errors that escape proofreading accumulate silently until a critical threshold triggers disease — the same dynamic applies to institutional governance failures that prosperity masks.
 - `INS-260325-854D` China's senior leadership were all trained engineers who build compulsively — roads, homes, economies, souls. America's elite are mostly lawyers who block everything, good and bad.
@@ -27,17 +29,15 @@
 - `INS-260410-19E3` Communist regimes are brilliant at maintaining power but deliver compounding poverty as a direct byproduct of the same mechanisms.
 - `INS-260327-E382` Venice endured as a republic for over 1,000 years with 117 successive doges, while surrounding monarchies rose and fell with their dynasties.
 - `INS-260327-7C1A` Russia was founded by Viking traders who established fortified trading posts along rivers connecting the Baltic to Constantinople — the trade route became the state.
-- `INS-260403-FF15` Design your organization around the conflicts you want to hear about, not around eliminating disagreement.
-- `INS-260403-2349` VC value-add is maximized through structured involvement like governance rigor, operating cadence, and early professionalization rather than ad-hoc help.
 - `INS-260403-C695` Just as novice pilots overcorrect and cause oscillation, investors with too much power apply excessive corrections that destabilize startups.
 - `INS-260330-6566` The difference between a dangerous fiction and a useful one is whether it includes mechanisms for self-correction, which requires honesty about its human origins.
 - `INS-260410-C474` Paine argues Bismarck's manipulation of Europe's monarchs demonstrated the structural incompetence of inherited leadership, because kings selected by birth rather than skill consistently failed to see strategic patterns a competent peer group would have caught.
 - `INS-260330-1293` North Korea maintains stability by selectively tolerating illegal capitalism rather than cracking down uniformly, turning potential dissidents into co-opted participants.
 - `INS-260405-5670` Moon's 2.3-second round-trip latency allows synchronous coordination with Earth; Mars's 10-30 minute latency forces asynchronous civilization — and asynchronous civilizations can declare independence.
 - `INS-260330-7511` The Mandate of Heaven made political legitimacy conditional on moral performance, creating a recursive loop where failure itself became proof of illegitimacy.
+- `INS-260326-0C14` Near-equal equity avoids resentment and one extra CEO share prevents the 50/50 deadlocks that YC sees kill companies regularly.
 - `INS-260327-D480` In 1965, CEOs earned 20x average employees; today it's 300x+, almost entirely in stock-based compensation that incentivizes price manipulation over business building.
 - `INS-260403-6546` OpenAI's capped-profit hybrid structure embedded a structural conflict between mission and commercialization that directly caused its 2023 leadership crisis.
-- `INS-260326-0C14` Near-equal equity avoids resentment and one extra CEO share prevents the 50/50 deadlocks that YC sees kill companies regularly.
 - `INS-260410-C56B` Conflict-averse CEOs systematically transfer shareholder value to anyone willing to make a fuss, because the path of least resistance is always to pay them off.
 - `INS-260323-960A` The activist investor playbook — identify underperformance, build external credibility, assemble a coalition, and force accountability — is a universal framework for organizational change.
 - `INS-260327-176D` Board seats pay hundreds of thousands for showing up to quarterly meetings, creating a professional director class incentivized to avoid rocking any boat.
@@ -47,14 +47,6 @@
 - `INS-260410-575B` After Yahoo's 2006 $1B offer where Meta's board tried to fire Zuckerberg for refusing it, he restructured the company so a future him couldn't be overruled on the same kind of long-horizon bet.
 - `INS-260410-DA77` Rolex's single-foundation ownership (Hans Wilsdorf Foundation) was arguably the key structural factor that let it survive the quartz crisis and grow dominant — it could absorb 2-3 bad years without firing a CEO, let competitors panic first, and make 20-year bets when public Swiss peers were forced into short-term rollups.
 - `INS-260410-320A` Zuckerberg's retained control through Peter Thiel's and Accel's unprecedented founder-friendly terms is what allowed Meta to survive IPO, mobile, Instagram, Oculus, and reality-labs bets that a standard board would have blocked.
-- `INS-260404-8791` Democratic governance alignment between India and the US reduces political risk, regulatory unpredictability, and cultural friction for American entrepreneurs in ways that create durable structural advantages.
-- `INS-260330-FA07` Mesopotamian power shifted from temple priests who interpreted gods to kings who delivered military protection and economic stability.
-- `INS-260328-2CFF` A board member is either a +1, 0, or -1 — there are only a handful of +1s in the world, so aim for a zero.
-- `INS-260403-A505` OpenAI's charter gave the board power to determine when AGI was achieved — a subjective call with massive financial consequences — making conflict inevitable as capabilities advanced.
-- `INS-260330-341D` Morgan refused to invest without full control, then used that control to reshape management teams and enforce his consolidation strategy.
-- `INS-260330-8686` Travis's relentless aggression built Uber into a global giant, but the same traits made him unfit to lead it once the company needed to repair its reputation and prepare for an IPO.
-- `INS-260330-F158` The Western Empire fell to internal power struggles between generals, not to barbarian military superiority — while the East survived because clear imperial authority over the Church prevented political fragmentation.
-- `INS-260324-C882` Twitter's board fired 4 CEOs in 10 years, creating a culture of chaos where execution was impossible — interested buyers (Google, Disney, Salesforce) all walked away over governance concerns deeper than price.
 - `INS-260403-CEC0` Sophisticated investors repeatedly overlook missing governance basics like boards of directors, which are the strongest predictors of catastrophic failure.
 - `INS-260404-3275` Board votes are almost always unanimous — the side that would lose adjusts its position before the vote happens.
 - `INS-260403-59F0` The assumption that board seats protect VC returns is untested—removing them could unlock 2-3x deal throughput.
@@ -64,6 +56,14 @@
 - `INS-260402-FC79` Ten friends each writing small checks under slightly different terms creates a cap table nightmare that VCs will either demand you fix or walk away from entirely.
 - `INS-260403-1438` Continuation funds reset carry and can change exit timing pressure; NAV facilities add leverage and opacity to the fund supporting you.
 - `INS-260402-8424` VCs invest in startups over ordinary businesses because equity-based returns through IPO/acquisition prevent the agency problem of founders self-dealing through inflated expenses.
+- `INS-260404-8791` Democratic governance alignment between India and the US reduces political risk, regulatory unpredictability, and cultural friction for American entrepreneurs in ways that create durable structural advantages.
+- `INS-260330-FA07` Mesopotamian power shifted from temple priests who interpreted gods to kings who delivered military protection and economic stability.
+- `INS-260328-2CFF` A board member is either a +1, 0, or -1 — there are only a handful of +1s in the world, so aim for a zero.
+- `INS-260403-A505` OpenAI's charter gave the board power to determine when AGI was achieved — a subjective call with massive financial consequences — making conflict inevitable as capabilities advanced.
+- `INS-260330-341D` Morgan refused to invest without full control, then used that control to reshape management teams and enforce his consolidation strategy.
+- `INS-260330-8686` Travis's relentless aggression built Uber into a global giant, but the same traits made him unfit to lead it once the company needed to repair its reputation and prepare for an IPO.
+- `INS-260330-F158` The Western Empire fell to internal power struggles between generals, not to barbarian military superiority — while the East survived because clear imperial authority over the Church prevented political fragmentation.
+- `INS-260324-C882` Twitter's board fired 4 CEOs in 10 years, creating a culture of chaos where execution was impossible — interested buyers (Google, Disney, Salesforce) all walked away over governance concerns deeper than price.
 - `INS-260410-17AE` Visa's 'reverse holding company' — a for-profit, non-stock membership corporation with non-transferable participation rights — made member banks structurally unable to sell, exit, or run competing networks.
 - `INS-260410-5CB4` Novo Nordisk's 77% foundation voting control is not tax engineering — it is the structural reason the company survived and produced GLP-1s.
 - `INS-260410-0F1C` Mark Zuckerberg set up Meta's supervoting structure specifically because in 2006 the board tried to fire him for refusing Yahoo's $1B offer — without that control, he could not have funded Reality Labs through a 50% market cap drawdown.

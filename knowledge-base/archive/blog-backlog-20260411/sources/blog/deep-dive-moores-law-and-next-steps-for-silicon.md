@@ -1,0 +1,12 @@
+---
+id: SRC-260330-FD78
+type: blog
+title: 'Deep Dive: Moore''s Law and Next Steps for Silicon'
+url: 'https://chamath.substack.com/p/deep-dive-moores-law-and-next-steps'
+date_ingested: '2026-03-30'
+insight_count: 0
+site_name: Chamath Palihapitiya
+publish_date: '2024-04-30T19:31:10+00:00'
+word_count: 337
+---
+Since the invention of the first silicon transistor in 1954, we have seen an exponential increase in the power of computers, in-line with a famous prediction called ‘Moore’s Law’.Moore’s Law predicted that the number of transistors on a chip would double approximately every two years, driving the development of increasingly powerful computers. As we developed new methods to print smaller and smaller transistors, this relationship held true, and we can now print integrated circuits with billions of transistors that power leading-edge machines like the new Macbook Pro.But as transistors become smaller and smaller, they are approaching the size of an atom, and we are now struggling to increase transistor count in-line with Moore’s Law. Instead, companies are turning to custom chip designs and advanced methods of packaging to continue to push performance gains at the same rate.This deep dive aims to provide a common foundation on semiconductors, covering everything from the basic physics behind how transistors work, to custom chip architectures for AI training and inference, to quantum computers which attempt to represent and solve problems in a radically different way.You can read this today using the attached audio file and PDF, which are both available to our paid subscribers at the end of this post.Separately, in putting together this deep dive, I came away amazed at the complexity of semiconductor design and manufacturing. Building advanced circuits that can represent and store information like the human brain is one of the most important innovations that humans have ever developed.In future months, I will publish deep dives into other sectors of the economy that I think are important for understanding the world today. These fall into five themes:Deep TechEnergy TransitionHealthcare & Life SciencesEconomic AnalysisSocio-Political TrendsIf enough people care about this and continue to subscribe, not only can we invest to hire more researchers, we will also look to you, our subscribers, to influence what we research and read out to everyone in the future. I hope you enjoy reading this and let us know how we can improve.

@@ -1,0 +1,14 @@
+---
+id: SRC-260330-3987
+type: blog
+title: >-
+  “Anyone can cook”: How v0 is bringing Git workflows to vibe coding | Guillermo
+  Rauch (Vercel CEO)
+url: 'https://www.lennysnewsletter.com/p/anyone-can-cook-how-v0-is-bringing'
+date_ingested: '2026-03-31'
+insight_count: 0
+site_name: Lenny's Newsletter
+publish_date: '2026-02-04T13:03:45+00:00'
+word_count: 292
+---
+Guillermo Rauch, the CEO of Vercel, demonstrates how v0 has evolved from a simple prototyping tool to a complete development environment that supports the entire Git workflow. Guillermo shows how Vercel built skills.sh—a viral marketplace with over 34,000 community-submitted skills—using v0, and how the tool enables non-technical team members to contribute production-ready code changes. He walks through creating branches, implementing features, previewing changes, and submitting pull requests, all within v0.How v0’s new Git workflow integration enables anyone to contribute production-ready code changesWhy skills.sh became a viral hub for AI skills, with 500 new submissions per hourHow to implement features in v0 that consider production concerns like abuse prevention and rate limitingThe benefits of branch previews for testing changes in a production-like environment before mergingHow v0 eliminates development environment setup challenges for non-technical team membersWhy the “terminal core” design aesthetic became central to skills.sh’s interfaceHow Vercel uses v0 internally to democratize code contributions across teamsThe future of AI at Vercel, including upcoming tools for text-to-SVG and video generation(00:00) Introduction(01:22) Overview of skills.sh(04:40) Demonstration of v0’s GitHub integration and branch creation(06:40) Exploring the v0 development environment(09:05) Building a rating system feature for skills.sh(11:18) Testing the new feature in the preview environment(13:20) Creating a pull request and deploying to a preview environment(15:25) How Vercel is using v0 internally for production work(17:48) Organizational adoption and cultural impact(22:04) Favorite non-coding AI use cases(25:17) AI-powered chess game built with v0(27:57) Teaching kids about coding with AI(31:44) Troubleshooting techniques when AI gets stuck(34:43) Final thoughts and audience Q&A• v0: https://v0.dev/• Skills by Vercel: https://skills.sh/vercel• Vercel: https://vercel.com/• GitHub: https://github.com/• Nano Banana: https://gemini.google/overview/image-generation/• Vestaboard: https://vestaboard.com/• v0 Chess Match: https://v0-chess-match.app/• React Native: https://reactnative.dev/LinkedIn: linkedin.com/in/rauchgX: https://twitter.com/rauchgChatPRD: https://www.chatprd.ai/Website: https://clairevo.com/LinkedIn: https://www.linkedin.com/in/clairevo/X: https://x.com/clairevoProduction and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email [email protected].

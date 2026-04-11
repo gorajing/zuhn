@@ -12,5 +12,5 @@
 - `INS-260403-532D` Plants produce 40 billion tons of inefficient RuBisCo rather than evolving a better enzyme — brute-force scaling of a mediocre solution can dominate an entire ecosystem.
 - `INS-260405-2299` Using available low-tech tools beats waiting for proper systems when speed of alignment matters.
 - `INS-260329-5818` In early stages, doing more reps at lower quality beats doing fewer reps at higher quality.
-- `INS-260327-088D` Vlad Tenev argues wartime should be the default state; any period of peacetime comfort means you probably weren't executing aggressively enough.
 - `INS-260403-CD90` VCs have moved from measuring network effects and stickiness to prioritizing velocity, trust, and durability of value as their core evaluation criteria for AI startups.
+- `INS-260327-088D` Vlad Tenev argues wartime should be the default state; any period of peacetime comfort means you probably weren't executing aggressively enough.

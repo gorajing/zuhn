@@ -64,10 +64,10 @@
 - `INS-260329-B8B6` The chain rule states that when y depends on u which depends on x, the rate dy/dx equals dy/du times du/dx — rates of change through composed systems multiply, they don't add.
 - `INS-260325-7974` Western individualism is scientifically wrong: we are constantly being reshaped by the actions of people we will never meet.
 - `INS-260330-946B` Trump demonstrated that democratic norms are insufficient guardrails — institutions need explicit laws and structural constraints designed to contain worst-case actors.
+- `INS-260325-A52D` Co-founder conflict is co-created from a systems perspective — one founder's withdrawal provokes the other's over-functioning, and vice versa.
 - `INS-260404-C8FA` BMC blocks form an integrated system where revenue requires a value proposition, which requires infrastructure, which must cost less than it earns.
 - `INS-260403-3F10` Innovation applied to your entire business model — not just your product — creates more durable competitive advantage.
 - `INS-260403-BB23` Business model strength comes from the configuration of all building blocks together, not from optimizing any single element.
-- `INS-260325-A52D` Co-founder conflict is co-created from a systems perspective — one founder's withdrawal provokes the other's over-functioning, and vice versa.
 - `INS-260330-40DA` Agriculture made individuals less healthy and overworked compared to foraging, yet it dominated because surplus calories enabled specialization cascades.
 - `INS-260323-D4EC` Systems at criticality — forests, economies, markets — naturally drive themselves to a state where a single small event can cascade through the entire system, making mega-events inevitable regardless of the trigger.
 - `INS-260403-65D2` Multi-layer systems exhibit emergent rigidity that single layers don't, because elements trap each other rather than flowing freely.
@@ -86,8 +86,8 @@
 - `INS-260330-C0D1` If a system is linear, tracking what happens to a few basis cases lets you predict outcomes for all possible inputs.
 - `INS-260330-2E41` Chloroplasts charge thylakoids like batteries by pumping protons to create a concentration gradient, then release energy through a single enzyme (ATP synthase) — the same pattern underlies effective marketplace and platform strategies.
 - `INS-260330-8D7C` LA's bromate problem had three inputs (bromide, chlorine, sunlight) — only sunlight could be removed, which reframed the entire solution space.
-- `INS-260323-257D` Jet engine efficiency is fundamentally limited by the Carnot equation: raise the combustion temperature or lower the outside air temperature. Turbine blade materials became the binding constraint because they set the maximum combustion temperature, making metallurgy — not aerodynamics or fuel chemistry — the bottleneck for the entire aviation industry.
 - `INS-260404-67C5` Multiple checkpoints (police, prosecutors, defense, jury) all biased toward conviction means zero effective error correction.
+- `INS-260323-257D` Jet engine efficiency is fundamentally limited by the Carnot equation: raise the combustion temperature or lower the outside air temperature. Turbine blade materials became the binding constraint because they set the maximum combustion temperature, making metallurgy — not aerodynamics or fuel chemistry — the bottleneck for the entire aviation industry.
 - `INS-260403-DC6E` Once a token economy launches on-chain, rebalancing becomes nearly impossible compared to server-side economies, making upfront design discipline critical.
 - `INS-260403-185D` The shift from founder hustle to systematic operations is the make-or-break transition for scaling startups.
 - `INS-260330-73F3` DNA replication's lagging strand can't simply mirror the leading strand — it requires an entirely different mechanism with Okazaki fragments, multiple primers, and extra enzymes.

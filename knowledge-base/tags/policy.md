@@ -1,10 +1,10 @@
 # Tag: policy
 
 - `INS-260403-96BC` Employers are accountable for AI agent actions, and current policy gaps create growing exposure as agents execute real decisions.
-- `INS-260403-A68D` Major AI pause advocates (Pause AI, Yudkowsky, Krueger) all explicitly call for international treaties, not unilateral action.
-- `INS-260327-FC68` Anthropic created ASL (AI Safety Level) ratings modeled on biosafety levels, requiring increasingly strict security and deployment measures as models approach dangerous capability thresholds.
 - `INS-260322-C5BD` The biggest US AI policy risk has shifted from federal overregulation to 1,200+ state-level bills that could create a patchwork of incompatible AI regulations across 50 states.
 - `INS-260404-5CFB` Generative AI's emergent and dual-use properties make existing tech regulation insufficient, demanding purpose-built governance frameworks.
+- `INS-260403-A68D` Major AI pause advocates (Pause AI, Yudkowsky, Krueger) all explicitly call for international treaties, not unilateral action.
+- `INS-260327-FC68` Anthropic created ASL (AI Safety Level) ratings modeled on biosafety levels, requiring increasingly strict security and deployment measures as models approach dangerous capability thresholds.
 - `INS-260405-F8AE` AI's most dangerous failure modes are inequality amplification and accountability erosion, not the unemployment scenario that dominates public debate.
 - `INS-260405-A23B` Self-governance of generative AI by individual firms is insufficient; coordinated institutional frameworks are required for responsible deployment at scale.
 - `INS-260410-7AC1` Vague AI safety terminology in regulation is a loaded weapon waiting for an authoritarian to pick up.
@@ -20,8 +20,8 @@
 - `INS-260403-9E82` Even if everyone gets richer, social comparison to influencers caps how much happier growth can make people.
 - `INS-260404-0095` Letting in a few thousand great programmers per year costs almost nothing but failing to do so could cost a country its technological lead.
 - `INS-260403-160A` Anti-wealth-creation policies don't eliminate startups — they just push founders to other countries, trading economic dynamism for a lower Gini coefficient.
-- `INS-260322-D051` US crop subsidies for corn, soy, and wheat made these ingredients artificially cheap, causing food companies to systematically replace real ingredients with processed versions — driving the chronic disease epidemic since the 1970s.
 - `INS-260404-DE04` Regulatory shifts can rapidly undermine entire regional startup ecosystems independent of talent and capital availability.
+- `INS-260322-D051` US crop subsidies for corn, soy, and wheat made these ingredients artificially cheap, causing food companies to systematically replace real ingredients with processed versions — driving the chronic disease epidemic since the 1970s.
 - `INS-260402-9F35` Mid-century equality was produced by war and oligopoly, making it a poor baseline for modern policy goals.
 - `INS-260330-22A2` Sweden's 480-day paid parental leave per child boosted fertility but made employers reluctant to hire young women.
 - `INS-260403-0611` When regulation makes going public impractical, startups die silently—the founders just stay in grad school instead.

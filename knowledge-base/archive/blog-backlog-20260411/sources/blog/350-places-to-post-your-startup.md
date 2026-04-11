@@ -1,0 +1,12 @@
+---
+id: SRC-260329-F33D
+type: blog
+title: "350+ Places to Post Your Startup \U0001F4E2"
+url: 'https://www.thevccorner.com/p/350-places-to-post-your-startup'
+date_ingested: '2026-03-30'
+insight_count: 0
+site_name: The VC Corner
+publish_date: '2024-12-21T08:39:10+00:00'
+word_count: 311
+---
+Breaking through the noise as a startup is hard. But what if you had a cheat code? I’m sharing a Google Sheets resource with 350+ platforms to help you launch, scale, and get noticed.This isn’t just about posting—it’s about targeting the right communities, boosting your SEO, and driving traffic where it matters most.From Product Hunt and TechCrunch to niche sites like Capterra and Healthline, this list connects you with audiences that careThis resource is structured for impact, with five key columns:1️⃣ Name: Big names like HackerNews, Crunchbase, Forbes, and more.2️⃣ Website: Direct links to submission or listing pages.3️⃣ Category: General platforms (e.g., Mashable) and niche directories (Beta Bound for testers, Peerlist for devs).4️⃣ DA (Domain Authority): Prioritize platforms with high SEO power.5️⃣ Impact: Understand what each platform delivers—traffic, backlinks, or niche visibility.1️⃣ Get Ready: Prepare your pitch—logo, website, USP, and audience.2️⃣ Prioritize Smarter: Sort by DA and Category to hit the most impactful platforms first.3️⃣ Play by the Rules: Follow each site’s submission guidelines (avoid bans!).4️⃣ Work Smarter: Save time by hiring a Virtual Assistant to handle submissions.This isn’t just a list; it’s a launchpad. With 350+ platforms, you’ll:Gain Media Coverage: Pitch to sites like TechCrunch and Mashable.Boost Your Traffic: Platforms like Peerlist and BetaList drive visitors.Climb the SEO Rankings: High DA backlinks from Alternative.me build your domain authority.Find Early Users: Communities like Beta Bound help you test, iterate, and grow.Build Credibility: Listing on trusted platforms elevates your brand.💡 Pro Tip: Begin with high-DA sites, then target niche platforms that align with your audience.Access to this valuable resource is exclusive to premium subscribers. To celebrate reaching 60,000 subscribers in 1 year, we're offering a 25% discount on premium subscriptions and a free trial. This discount is permanent, ensuring ongoing value as you grow your startup.Get 25% off forever👉 Upgrade now to unlock the list and propel your startup to new heights!

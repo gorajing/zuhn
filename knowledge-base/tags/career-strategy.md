@@ -32,6 +32,6 @@
 - `INS-260327-31BD` Kisson wrote unsolicited internal case studies at Facebook that caught Zuckerberg's CPO's attention and got her promoted to HQ strategy.
 - `INS-260403-F7DA` Pick fields where the top performers are nerds — that signals earnestness matters and genuine interest compounds.
 - `INS-260323-4DF1` Feeling uncomfortable in a role signals growth opportunity, not inadequacy — systematically seek discomfort rather than avoiding it.
+- `INS-260330-8907` Golden ages aren't recognized during their occurrence — they feel like smart people working hard on interesting problems and getting results, which is exactly the signal to follow.
 - `INS-260329-B8C4` Provide tremendous unrequested value to 100 people and 1-5 will respond with opportunities — no transactional framing needed.
 - `INS-260327-A59A` Maggie left a senior director role at Webflow to become an individual contributor at 7-person OpenAI GTM because Kevin Egan's principle is true: if you get on a rocket ship, your career goes places you never imagined.
-- `INS-260330-8907` Golden ages aren't recognized during their occurrence — they feel like smart people working hard on interesting problems and getting results, which is exactly the signal to follow.

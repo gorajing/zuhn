@@ -1,0 +1,141 @@
+{
+  "archive_id": "blog-backlog-20260411",
+  "date": "2026-04-11",
+  "rationale": [
+    "On 2026-04-11 the Zuhn KB had 252 blog sources with insight_count: 0,",
+    "treated by autoknowledge.ts as an 'unextracted backlog.' A two-phase audit",
+    "(scripts/audit-blog-backlog.ts then scripts/audit-blog-recoverability.ts)",
+    "found that 100% of the 252 sources fall below the 500-word MIN_WORD_COUNT",
+    "floor and that an 8-source pipeline-canary spot-check returned a 1.0x",
+    "ratio of new word count to old word count across every sample.",
+    "",
+    "The diagnostic confirmed three things:",
+    "  1. Re-fetching the URLs through the current ingest.ts (with the UA fix",
+    "     in b6443d4e4 and JSON-LD normalization in 20b3a24306) recovers no",
+    "     additional content. The pages really are this short.",
+    "  2. Inspection of representative captured files showed they are not",
+    "     extractor failures. PG's 'Write Simply' (496w) and 'The Founder",
+    "     Visa' (328w) are complete essays with proper closing structure;",
+    "     Lenny's 'AI and product management | Marily Nika' is a podcast",
+    "     show notes page (sponsor links + episode chapters + 'Listen on',",
+    "     not a paywalled article preview); ACX Open Threads, thevccorner",
+    "     newsletter excerpts, and strategyzer blog posts are all genuinely",
+    "     structured to be short.",
+    "  3. Lowering MIN_WORD_COUNT was rejected as a fix because it would",
+    "     degrade autoknowledge globally to handle one historical batch.",
+    "",
+    "Decision: archive all 252 sources to remove them from the active",
+    "sources/blog/ tree. They remain inspectable here under archive/."
+  ],
+  "method": {
+    "audit_script": "scripts/audit-blog-backlog.ts",
+    "diagnostic_script": "scripts/audit-blog-recoverability.ts",
+    "diagnostic_sample_size": 8,
+    "diagnostic_sample_distribution": {
+      "thevccorner.com": 2,
+      "lennysnewsletter.com": 2,
+      "paulgraham.com": 2,
+      "strategyzer.com": 1,
+      "astralcodexten.com": 1
+    },
+    "diagnostic_results": {
+      "recoverable_now": 0,
+      "marginal_improvement": 0,
+      "genuinely_short": 8,
+      "paywall_or_stub": 0,
+      "fetch_failed": 0
+    }
+  },
+  "archived_count": 252,
+  "archived_md_files": 252,
+  "archived_clean_txt_files": 2,
+  "archived_raw_html_files": 252,
+  "by_host": {
+    "lennysnewsletter.com": 64,
+    "thevccorner.com": 83,
+    "nfx.com": 6,
+    "strategyzer.com": 20,
+    "chamath.substack.com": 25,
+    "astralcodexten.com": 23,
+    "paulgraham.com": 30,
+    "momtestbook.com": 1
+  },
+  "pg_short_essays_candidate_followup": true,
+  "pg_candidate_followup_note": [
+    "Paul Graham's 30 backlog essays are genuinely short but complete PG",
+    "essays (verified during spot-check). If a future session wants to",
+    "preserve sub-floor PG content as part of the KB, manually extract",
+    "1-3 insights per essay (not autoknowledge's 5/source default) for",
+    "the top candidates listed below. They have been moved into this",
+    "archive but are not deleted."
+  ],
+  "pg_candidate_followup_top10": [
+    {
+      "basename": "write-simply",
+      "title": "Write Simply",
+      "url": "https://paulgraham.com/simply.html",
+      "word_count": 496
+    },
+    {
+      "basename": "why-arc-isnt-especially-object-oriented",
+      "title": "Why Arc Isn't Especially Object-Oriented",
+      "url": "https://paulgraham.com/noop.html",
+      "word_count": 483
+    },
+    {
+      "basename": "donate-unrestricted",
+      "title": "Donate Unrestricted",
+      "url": "https://paulgraham.com/donate.html",
+      "word_count": 477
+    },
+    {
+      "basename": "what-doesnt-seem-like-work",
+      "title": "What Doesn't Seem Like Work?",
+      "url": "https://paulgraham.com/work.html",
+      "word_count": 474
+    },
+    {
+      "basename": "writing-briefly",
+      "title": "Writing, Briefly",
+      "url": "https://paulgraham.com/writing44.html",
+      "word_count": 457
+    },
+    {
+      "basename": "the-python-paradox",
+      "title": "The Python Paradox",
+      "url": "https://paulgraham.com/pypar.html",
+      "word_count": 442
+    },
+    {
+      "basename": "the-need-to-read",
+      "title": "The Need to Read",
+      "url": "https://paulgraham.com/read.html",
+      "word_count": 435
+    },
+    {
+      "basename": "general-and-surprising",
+      "title": "General and Surprising",
+      "url": "https://paulgraham.com/sun.html",
+      "word_count": 433
+    },
+    {
+      "basename": "modeling-a-wealth-tax",
+      "title": "Modeling a Wealth Tax",
+      "url": "https://paulgraham.com/wtax.html",
+      "word_count": 412
+    },
+    {
+      "basename": "the-hardware-renaissance",
+      "title": "The Hardware Renaissance",
+      "url": "https://paulgraham.com/hw.html",
+      "word_count": 385
+    }
+  ],
+  "follow_up_audio_ingest_note": [
+    "Several lennysnewsletter.com and chamath.substack.com sources are",
+    "podcast show notes pages where the substantive content is in the",
+    "audio, not the HTML. A separate audio-ingest workflow via",
+    "scripts/lib/ingest/audio.ts (Whisper transcription) could recover",
+    "this content but is out of scope for this cleanup."
+  ]
+}

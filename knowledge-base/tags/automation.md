@@ -8,9 +8,9 @@
 - `INS-260404-B18A` Nubank used Devin to migrate a 6-million-line ETL monolith in weeks instead of the estimated 18 months with 1,000 engineers.
 - `INS-260403-2EE2` Automation shifts scarcity rather than eliminating it — the last unautomated role in any system captures disproportionate value.
 - `INS-260403-E78C` Claude Sonnet completing multi-page workflows at 94% accuracy for $0.30 creates a 100x cost gap that makes human contractors economically irrational for routine tasks.
+- `INS-260323-0B52` The hidden multiplier in AI building: have AI document everything it does so every project creates a reusable blueprint for the next one.
 - `INS-260321-A56C` Generative AI can help with more tasks than past automation (more flexible) but takes over fewer tasks completely (less robust) — it's task-augmenting not task-replacing.
 - `INS-260322-59B9` The total percentage of jobs automated matters less than whether displacement happens gradually (manageable) or in a 6-month shock (potentially destabilizing).
-- `INS-260323-0B52` The hidden multiplier in AI building: have AI document everything it does so every project creates a reusable blueprint for the next one.
 - `INS-260405-945B` AI removes pressure to develop mid-tier skills, leaving only the highly capable and the completely incapable.
 - `INS-260329-ED44` File I/O and modules transform Python from a calculator into an automation tool — this is the critical capability threshold for practical value.
 - `INS-260329-4751` Python's readability and ecosystem make it the best entry point for automation-focused learners.
@@ -35,6 +35,9 @@
 - `INS-260327-9C56` Fan envisions a Physical API that gives software a physical actuator, enabling a skill economy where experts teach robots and deliver their expertise as a service at scale.
 - `INS-260405-B88A` AI automation applied to the RFP process promises dramatic efficiency gains in both proposal generation and vendor evaluation.
 - `INS-260409-6AEB` Web Clipper plus Local Images Plus gives one-click ingestion with localized images.
+- `INS-260320-4BA8` Keep spec templates simple — if too heavy, people skip them. Automate file creation and periodically revisit findings for tech debt.
+- `INS-260329-3243` HFT systems run automated pre-trade risk checks in microseconds — blocking bad orders before they hit exchanges without slowing the pipeline.
+- `INS-260329-9745` SQL triggers automatically execute code in response to INSERT/UPDATE/DELETE events, enabling powerful automation but creating implicit behavior that doesn't appear in application code.
 - `INS-260320-D58E` An n8n workflow scrapes YouTube, Reddit, Twitter, and the web daily to identify content outliers and trending topics, then generates detailed content ideas with scripts, hooks, and storylines.
 - `INS-260320-41E3` A daily n8n content research automation that scrapes multiple platforms, identifies trends, and delivers a content digest costs under $0.35 per day to operate.
 - `INS-260320-9935` The 0-to-175K growth came from automating content research and ideation, not from automating content creation itself -- the competitive advantage is knowing what to create, not how to create it.
@@ -42,9 +45,6 @@
 - `INS-260405-A309` The length of tasks AI can perform autonomously doubles roughly every seven months, accelerating exposure of knowledge work.
 - `INS-260320-71C1` Full pipeline: search query to scrape 100+ profiles, extract data, pull company info, AI-generate personalized opener, export to Google Sheets.
 - `INS-260320-6A9D` Safety-first scraping: decouple your personal account from the scraping tool. If the tool gets flagged, your account is unaffected.
-- `INS-260320-4BA8` Keep spec templates simple — if too heavy, people skip them. Automate file creation and periodically revisit findings for tech debt.
-- `INS-260329-3243` HFT systems run automated pre-trade risk checks in microseconds — blocking bad orders before they hit exchanges without slowing the pipeline.
-- `INS-260329-9745` SQL triggers automatically execute code in response to INSERT/UPDATE/DELETE events, enabling powerful automation but creating implicit behavior that doesn't appear in application code.
 - `INS-260405-E34C` Doorways, staircases, and tools are built for human dimensions — a humanoid robot inherits compatibility with all existing infrastructure at no cost.
 - `INS-260403-13AF` Healthcare's $1T/year administrative layer — 185,000 coders translating across 70,000+ diagnosis codes — represents exactly the kind of repetitive translation work AI automates first.
 - `INS-260405-11EA` Flybridge's AI memo generator is an early signal that VC's information-processing work is automatable, concentrating value on the parts that aren't.

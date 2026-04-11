@@ -25,12 +25,12 @@
 - `INS-260330-B50A` Inconsistent results in complex systems require isolating variables rather than guessing at causes.
 - `INS-260330-D99D` McDonald's biggest innovations — the Big Mac, drive-thru, Ronald McDonald, and Happy Meal — all came from individual franchisees experimenting locally, not corporate headquarters.
 - `INS-260410-86A5` YouTube Shorts drove at least half of Dwarkesh's podcast growth — a channel he would never have predicted for a long-form deep-dive AI show.
+- `INS-260323-8165` Run daily marketing experiments, calculate cost-per-customer for each, and pour everything into the cheapest acquisition channel.
+- `INS-260327-7C6B` Consistency alone causes plateaus, virality alone causes sugar-crash comedowns — real growth is consistency x experimentation.
 - `INS-260405-6F45` Before PMF, your job is to discover, not to deliver — treating a startup like a Fortune 500 kills the learning loop.
 - `INS-260327-2386` If something takes less than 3 minutes and seems interesting, do it right now — do not wait, because most of the time failure is great if you fail fast.
 - `INS-260329-4A09` When a business experiment fails, you're not back at zero — you're at your previous position plus one experience point, and enough experience points trigger a level-up.
 - `INS-260410-419F` Amazon's success was a philosophically straight line, a strategically squiggly line, and a tactically random set of dots through a maze of failed bets.
-- `INS-260323-8165` Run daily marketing experiments, calculate cost-per-customer for each, and pour everything into the cheapest acquisition channel.
-- `INS-260327-7C6B` Consistency alone causes plateaus, virality alone causes sugar-crash comedowns — real growth is consistency x experimentation.
 - `INS-260403-96F9` Like a brainless virus that outpaces scientists through sheer mutation speed, startups find PMF by running many cheap experiments faster than competitors can think.
 - `INS-260405-5617` When regulations prevent informed, consenting adults from voluntarily joining early-stage experiments, the cost is paid in slower iteration cycles and delayed learning — not just in lost individual freedom.
 - `INS-260403-71A6` The gap between understanding customers and testing ideas is where most innovation efforts stall — closing that gap through systematic linking is the key leverage point.

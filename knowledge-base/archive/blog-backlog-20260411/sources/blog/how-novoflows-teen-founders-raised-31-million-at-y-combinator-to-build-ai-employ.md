@@ -1,0 +1,15 @@
+---
+id: SRC-260329-65B7
+type: blog
+title: >-
+  How Novoflow’s Teen Founders Raised $3.1 Million at Y Combinator to Build AI
+  Employees for Healthcare
+author: The VC Corner
+url: 'https://www.thevccorner.com/p/novoflow-ai-healthcare-startup'
+date_ingested: '2026-03-30'
+insight_count: 0
+site_name: The VC Corner
+publish_date: '2025-11-04T13:42:35+00:00'
+word_count: 413
+---
+Nineteen-year-old Mathieu Rihet once planned to become a cardiothoracic surgeon. When essential tremors ended that path, he looked for another way to make medicine better.Thousands of miles away, Georges Casassovici, a French high-school student who had been coding since he was eight, posted on LinkedIn searching for a cofounder. Mathieu answered.Months later they both dropped out and joined Y Combinator’s Spring 2025 batch (X25) as its youngest team.Mathieu Rihet and Georges Casassovici — the teenage founders behind one of Y Combinator’s most talked-about startups.Their company, Novoflow, became one of the standouts of the program. It builds AI employees that automate the operations of medical clinics, turning messy EHR systems like Epic, Athena, and Medent into seamless, AI-driven workflows.Their launch video quickly went viral. A clean, founder-led demo showing how their AI employee takes over the phone and scheduling workflows in clinics with zero human bottlenecks.Gabriel Jarrosson, General Partner at Lobster Capital, interviewed Georges during YC X25 Demo Day. The clip captures a 17-year-old Georges explaining what he’s building.Novoflow creates AI employees that run the daily operations of clinics — scheduling, billing, reminders, and more — by plugging directly into any EHR.Their first product: a multilingual AI voice agent that answers every inbound and outbound call, schedules directly inside any EHR, and reduces no-shows. Clinics using Novoflow can reclaim up to $50,000 per month in lost revenue — without hiring another receptionist.The company has already attracted $3.1 million in funding, led by super angel Justin Hamilton, with participation from N1 Ventures, Multifaceted Capital, and Standard Partners Fund.They’re working with multi-location specialty groups across radiology, dermatology, rheumatology, and primary care, building what they call the operating system for medical clinics.Inside their San Francisco live-work space, the two founders are scaling a small but sharp team, an engineer and a sales executive today, with two more hires on the way.Two teenage founders, 17 and 19, built an AI employee that automates medical operations.They went from a LinkedIn DM to Y Combinator’s Spring 2025 batch, raised $3.1 million, and became one of the youngest teams ever backed by YC.They didn’t overthink it. They solved a real problem, told a clear story, and built fast.Below, you’ll find:How they got into YCHow they convinced top angels to back themAnd the full pitch deck they used to raise $3.1M🔒 Subscribers also get access to every VC Corner premium resource: investor lists, templates, financial models, startup playbooks…You can try it free for 7 days. Explore everything. Cancel anytime.Get 25% off forever

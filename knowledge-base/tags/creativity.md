@@ -20,8 +20,6 @@
 - `INS-260403-78E2` Beyond intelligence, generating new ideas requires obsessive interest and independent-mindedness, both of which can be deliberately developed.
 - `INS-260403-7093` Leonardo's most impressive works were exploratory drawings made for himself, not commissioned pieces meant to please.
 - `INS-260403-EDB9` The duct-tape hack and the paradigm shift exist on the same continuum — both break rules, differing only in how imaginatively.
-- `INS-260403-94C4` In work where you must invent rather than choose, there is no ceiling that signals completion, so feeling perpetually unsatisfied is the normal state.
-- `INS-260405-020E` Lame-looking early work on ambitious projects is not accurately lame — it's accurately early.
 - `INS-260403-BC89` Solving hard problems requires sustained background cognition that you can only influence indirectly by controlling what occupies your mind.
 - `INS-260327-B19E` Boredom isn't absence of stimulation - it's a signal that your current activity doesn't match your creative capacity, pointing toward what you should be doing instead.
 - `INS-260325-71DE` Your response to boredom predicts life outcomes: tolerating it builds deep focus while fleeing it creates stimulation dependency.
@@ -30,6 +28,8 @@
 - `INS-260323-2394` Einstein would whistle and breakthroughs came — Frenkel argues that you must prepare intensely, but the actual moment of discovery requires releasing the thinking mind.
 - `INS-260325-29D5` For genuinely hard problems, playful exploration without a fixed goal often uncovers the path that direct attack misses.
 - `INS-260325-898A` Play with a hard problem's structure without trying to solve it, and the solution often emerges naturally.
+- `INS-260403-94C4` In work where you must invent rather than choose, there is no ceiling that signals completion, so feeling perpetually unsatisfied is the normal state.
+- `INS-260405-020E` Lame-looking early work on ambitious projects is not accurately lame — it's accurately early.
 - `INS-260402-4451` You can't find great questions by searching for them — they emerge from sustained immersion in work that interests you.
 - `INS-260330-1DDE` Evolution can only reach solutions through chains of viable intermediates, while human creativity can leap across non-viable gaps — explaining why no species ever made a campfire despite billions of years.
 - `INS-260330-137C` Fourier's immortality came not from solving the heat equation but from asking whether ANY function could be expressed as sine waves — a question that seemed absurd at the time.

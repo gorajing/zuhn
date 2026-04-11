@@ -1,7 +1,7 @@
 # Tag: judgment
 
-- `INS-260403-A3E4` Human specialization in sparse-data pattern recognition may represent a near-optimal solution that AI cannot meaningfully surpass.
 - `INS-260323-B07C` A Harvard study found that below-median entrepreneurs saw a 10% decline in profits from AI access because they lacked the judgment to filter good advice from bad.
+- `INS-260403-A3E4` Human specialization in sparse-data pattern recognition may represent a near-optimal solution that AI cannot meaningfully surpass.
 - `INS-260321-4178` AI doesn't just automate procedures — it automates judgment calls. The person who deeply understands insurance underwriting and can talk an AI into building a tool is now more dangerous than the engineer who can build anything but doesn't know what to build.
 - `INS-260327-C0C5` Marshal Ney was the bravest man in Napoleon's army but his recklessness — charging cavalry without infantry support at Waterloo — contributed to some of the greatest French disasters.
 - `INS-260405-6E4F` Better inputs compound into better judgment — information diet is a leverage point most people underinvest in.

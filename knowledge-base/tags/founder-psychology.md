@@ -47,9 +47,9 @@
 - `INS-260329-E0DE` Business stress is universal across all states; the decision to categorize something as a 'problem' causes more stress than the problem itself.
 - `INS-260327-7B8E` At some point, founders must deliberately override their logical brain to pursue what rational analysis rejects.
 - `INS-260329-6117` The most damaging limits are the ones you don't know you have because you never think to question them.
-- `INS-260322-047D` Setting the next milestone (transaction volume target, operating profit threshold) instead of fixating on the ultimate exit/IPO prevents the marathon-with-no-end-in-sight feeling that exhausts founders.
 - `INS-260405-12E6` Investors who can't evaluate your product in 10 minutes will fall back on your own apparent conviction as the main signal.
 - `INS-260405-2AFB` Never say 'we're passionate' — investors tune out assertions and read posture, pacing, and directness instead.
 - `INS-260403-27AC` Rejecting acquisition offers correlates with outsized outcomes because it selects for ambitious, conviction-driven founders.
+- `INS-260322-047D` Setting the next milestone (transaction volume target, operating profit threshold) instead of fixating on the ultimate exit/IPO prevents the marathon-with-no-end-in-sight feeling that exhausts founders.
 - `INS-260405-0B17` When investors lack the context to evaluate your product directly, your own belief in it becomes the dominant signal.
 - `INS-260327-CD77` Start with an aggressively high price—first-time founders chronically underprice out of guilt.

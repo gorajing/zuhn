@@ -6,12 +6,12 @@
 - `INS-260330-2EC0` On a log scale, exponential growth becomes a straight line — making the underlying multiplicative pattern immediately visible and quantifiable via simple linear regression.
 - `INS-260403-1085` Gaming consistently pioneers AI integration patterns — from Deep Blue to AlphaGo to generative AI — making it a reliable leading indicator for how other industries will adopt AI.
 - `INS-260404-93CD` Building bottom-up forces continuous pattern recognition that simplifies the overall design in ways upfront planning cannot.
-- `INS-260330-8F72` Chinese dynastic history reveals a recurring cycle of institutional vigor → consolidation → complacency → collapse that maps onto corporate and political institutions today.
-- `INS-260403-CF23` Dopamine from novelty, risk, and complexity amplifies pattern recognition and drives motivation rather than serving as a reward signal.
-- `INS-260330-B539` Object boundaries and spatial differentiation are partially conceptual overlays that can be intentionally softened to access raw perceptual data.
 - `INS-260405-638B` Neural networks with no sleep schedule and superior pattern recognition are coming for the VC analyst layer first.
 - `INS-260410-FC55` eBay returned 92x the fund because it was already working at the time of investment — the 'risk' was purely in how the UI looked and what people were selling (beanie babies).
 - `INS-260403-AAC8` Harry Stebbings missed $400M+ in gains on Deel and Vanta by letting market concerns override his conviction in generational founders, permanently changing his investment framework.
+- `INS-260330-8F72` Chinese dynastic history reveals a recurring cycle of institutional vigor → consolidation → complacency → collapse that maps onto corporate and political institutions today.
+- `INS-260403-CF23` Dopamine from novelty, risk, and complexity amplifies pattern recognition and drives motivation rather than serving as a reward signal.
+- `INS-260330-B539` Object boundaries and spatial differentiation are partially conceptual overlays that can be intentionally softened to access raw perceptual data.
 - `INS-260330-C8B4` Organisms that over-detect patterns survive longer than those that under-detect them because missing a real threat is costlier than reacting to a false one.
 - `INS-260330-FCFA` True randomness clusters in ways humans perceive as non-random, so products must introduce artificial structure to satisfy our pattern-seeking minds.
 - `INS-260322-38D8` Our meaning-creation ability is so powerful that it generates false positives constantly — we see meaningful patterns in noise because meaning-making is our default mode, not an opt-in process.
@@ -49,6 +49,8 @@
 - `INS-260327-8D82` Conrad says the real advantage of doing it a second or third time is not learning from failure but developing judgment about what actually matters versus what feels consequential but isn't.
 - `INS-260403-7C88` Good founders make things happen the way they want through relentless resourcefulness, not by forcing a predefined plan.
 - `INS-260403-5D99` Repeat founders act on informed instinct and validate later, because they know the cost of analysis paralysis exceeds the cost of being wrong.
+- `INS-260403-9EB1` Angels must predict pre-traction potential; VCs can react to demonstrated success.
+- `INS-260403-25A8` Investors who signal future interest without making an offer are declining — founders should only weight committed offers in their decisions.
 - `INS-260403-B2A8` Travis's career pattern — taxis, food delivery, physical AI — shows that categories dismissed as boring, weird, and hard consistently produce outsized returns because all three filters must be present simultaneously.
 - `INS-260404-323D` Productive idea evaluation requires inverting from 'why it won't work' to 'how it could work' — a trainable skill, not naive optimism.
 - `INS-260403-DDFD` Once you're truly good at a technology, the gaps and broken things in the world become obvious — each one a potential startup.
@@ -56,8 +58,6 @@
 - `INS-260404-6D51` Productive idea evaluation means switching from listing reasons something will fail to actively imagining ways it could succeed.
 - `INS-260404-AC7C` Evaluating new ideas by imagining how they could work rather than why they won't is a trainable skill with outsized returns.
 - `INS-260403-1284` Marketplaces in every category follow a predictable arc: horizontal discovery → vertical discovery → vertical transactional → fintech-enabled managed marketplace.
-- `INS-260403-9EB1` Angels must predict pre-traction potential; VCs can react to demonstrated success.
-- `INS-260403-25A8` Investors who signal future interest without making an offer are declining — founders should only weight committed offers in their decisions.
 - `INS-260403-A6AF` A repeatable five-step pattern (technology → cost collapse → democratization → new industries → power reshuffle) has predicted every major transportation-driven economic transformation in history.
 - `INS-260403-021D` Every major software architecture shift predictably spawns new billion-dollar cybersecurity companies.
 - `INS-260403-F160` Software history follows translation → creation → reality-breaking phases, and AI is entering the third phase where the constraint is vision, not capability.

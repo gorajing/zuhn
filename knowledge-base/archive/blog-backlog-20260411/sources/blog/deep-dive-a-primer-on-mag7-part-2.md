@@ -1,0 +1,12 @@
+---
+id: SRC-260330-B122
+type: blog
+title: 'Deep Dive: A Primer on Mag7 (Part 2)'
+url: 'https://chamath.substack.com/p/deep-dive-a-primer-on-mag7-part-2'
+date_ingested: '2026-03-30'
+insight_count: 0
+site_name: Chamath Palihapitiya
+publish_date: '2025-05-23T03:02:36+00:00'
+word_count: 376
+---
+In 2005, I was introduced to Zuck through Sean Parker, who I had known from my days working at Winamp. At the time, I was running AIM and ICQ at AOL.After meeting Zuck, I remember telling Jim Bankoff and John McKinley at AOL that we should try to buy Facebook. When that didn’t get traction, I proposed a partnership deal where we would integrate AIM into Facebook profiles.Long story short, neither of those deals panned out.Two years later, in 2007, I joined Facebook. Ultimately, I built a growth team that would take Facebook from 50 million to over 700 million users, putting Facebook on the path to 1 billion users.In hindsight, it was an incredible moment in time where the standards of Web 2.0 were still being defined, and in many ways, we were the ones defining them.Fourteen years after my tenure, Facebook has grown into an even larger behemoth, with the Family of Apps today reaching over 3.4 billion monthly active users, making it by far the largest social media platform in the world. And with the acquisition of Oculus in 2014, Facebook began expanding the scope of its ambition, which led to the rebrand as Meta and with Mark sharing his broader vision for how people might connect across physical and digital spaces.As a continuation of our analyses of Nvidia and Tesla in Part 1, this week we’re continuing the discussion by focusing on Meta. If we’re done our job right, this piece should impart a robust and durable understanding that stands up to the daily noise and chatter surrounding the company. Next week, we'll conclude this series with the final four Mag7 companies.While working on this with the team, I’ve realized that there are many areas of Facebook/Meta that I could double-click into from my experience working there. Maybe it’s time to dust off some of my old growth playbooks and share them…ChamathDisclaimer: The views and opinions expressed above are current as of the date of this document and are subject to change without notice. Materials referenced above will be provided for educational purposes only. None of the above will include investment advice, a recommendation or an offer to sell, or a solicitation of an offer to buy, any securities or investment products.

@@ -12,9 +12,9 @@
 - `INS-260410-D082` Humans generalize dramatically better than models in domains that didn't exist in our evolutionary past (coding, math), which rules out 'evolution gave us a strong prior' as the explanation.
 - `INS-260405-A5C8` In a field flooded with tutorials, a handful of rigorously maintained repositories account for most of the practical engineering knowledge.
 - `INS-260405-75C4` Watching someone use AI live is more instructive than reading or hearing about it.
-- `INS-260405-7C86` Focused, short demos change AI behavior faster than comprehensive theoretical treatments.
 - `INS-260409-6236` Daily hands-on AI usage builds usable intuition that content consumption cannot replace.
 - `INS-260409-9851` Matuschak and Nielsen argue that tools-for-thought work has historically been 'stuck in Spock-space,' designing for cognition alone, while movies, music, and video games take emotional response seriously — the best tools for thought must blend the emotional range of video with the intellectual depth of text.
+- `INS-260405-7C86` Focused, short demos change AI behavior faster than comprehensive theoretical treatments.
 - `INS-260329-FEC5` The most effective way to teach any formal system is the natural language progression: learn words, then sentences, then paragraphs.
 - `INS-260410-734F` In hunter-gatherer environments the best hunters are 36-40; in Silicon Valley the best founders are often 25 — because the rate of change determines how long a previous generation's knowledge stays useful.
 - `INS-260410-3697` Michelson kept believing in the ether until his death in 1929; Poincaré had all the mathematical pieces for special relativity but couldn't let go of a dynamical interpretation of length contraction.
@@ -91,8 +91,8 @@
 - `INS-260326-CA8C` Safety without standards is a comfort zone; standards without safety is an anxiety zone — you need both for high performance.
 - `INS-260323-8726` The moment you decide you are too embarrassed to try something new, you stop learning — making willingness to be a beginner the most important skill for leaders.
 - `INS-260329-7B1D` Malan's technique of changing only one thing per code iteration — either the concept or the syntax, never both — minimizes cognitive load and accelerates learning.
-- `INS-260328-070D` Nine times out of ten, what founders dismiss as consulting is actually a chance to deeply learn the problem space and build a moat.
 - `INS-260323-5CE3` Blues, bebop, and other musical styles are languages with their own syntax; hearing bebop as a child (like Rick from his non-musician dad, or Flea from his jazz-bassist stepfather) creates fluency that teenage exposure cannot replicate.
 - `INS-260323-01A1` When learning guitar, start by learning songs you love rather than scales and theory — the struggle of figuring out songs by ear builds skills faster than abstract exercises, and keeps motivation alive.
 - `INS-260323-0982` For learning guitar (or any instrument), 10 minutes daily seven days a week beats one hour once a week — and keeping the guitar on a stand where you walk by it turns idle moments into practice sessions.
+- `INS-260328-070D` Nine times out of ten, what founders dismiss as consulting is actually a chance to deeply learn the problem space and build a moat.
 - `INS-260405-CA45` You cannot delegate the learning that comes from direct customer interaction — outsourcing validation transfers the insight to the vendor, not back to you.

@@ -1,0 +1,12 @@
+---
+id: SRC-260330-A4D4
+type: blog
+title: Open Thread 425
+url: 'https://www.astralcodexten.com/p/open-thread-425'
+date_ingested: '2026-03-30'
+insight_count: 0
+site_name: Astral Codex Ten
+publish_date: '2026-03-16T05:18:25+00:00'
+word_count: 364
+---
+This is the weekly visible open thread. Post about anything you want, ask random questions, whatever. ACX has an unofficial subreddit, Discord, and bulletin board, and in-person meetups around the world. Most content is free, some is subscriber only; you can subscribe here. Also:1: Another ACX Forecasting Contest winner has come forth and revealed themselves. mAd-topo is a statistics PhD working on Bayesian methods. He's looking for an academic job; if you are hiring, read more about him here. He also asks that any "law nerd" who reads this bet on his prediction markets about an upcoming Italian referendum , which will help him cast an informed vote next Sunday.2: Some good responses to the post on the constitutional amendment about Giant Congress. In case you were wondering whether the reversed meaning in the amendment was really a typo, commenter i_eat_pork tracked down the history, and yeah, definitely a typo. And commenter Caral found that the amendment might have been passed by an extra state in 1790, and therefore should be considered ratified - but DC was never informed, and there’s no clear way to tell the legal system “hey, there’s a amendment you don’t know about which should legally be in effect”. A job for an enterprising constitutional lawyer?3: Some ACX readers wish me to advertise that they’ve started Nectome, a revolutionary new cryonics company (ie preserve your dead body intact in case the future learns how to revive people). They write: We preserve the whole body, including the brain, at nanoscale, subsynaptic detail. We are capable of preserving every neuron and every synapse in the brain, and almost every protein, lipid, and nucleic acid within each cell and throughout the entire body is held in place by molecular crosslinks…unlike previous cryonics methods that required extremely low-temperature liquid nitrogen coolant, our method is stable for months at room temperature and compatible with traditional funeral practices.More information here, and they have a pre-sale (at $100,000 per body) going on until the end of April. 4: New subscribers-only post, Lines Composed In A Fake Sequoia Forest. If you see a beautiful photo, and later learn it was AI-generated, are you harmed? What is the harm?

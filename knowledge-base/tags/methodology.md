@@ -10,8 +10,8 @@
 - `INS-260410-D03C` Benchmark scores increasingly drive deployment decisions, but the rigor applied to running and reporting them hasn't caught up — making resource configuration a first-class variable is the minimum bar for trustworthy agentic evals.
 - `INS-260320-6F8E` SDD cycle: input specs (PRD, tech brief, requirements) and output specs (research logs, code notes, findings) are both first-class artifacts.
 - `INS-260409-9991` Clinical and recreational psychedelic use are different interventions and their risk/benefit data should not be pooled.
-- `INS-260327-B3A7` Marshal Suchet was the only French commander to actually succeed in Spain — not through brilliance but through methodical, systematic pacification that won over the local population.
 - `INS-260325-40DC` SETI is a misnomer — we search for technology (frequency-compressed radio signals or time-compressed optical pulses) because we cannot define or detect intelligence at interstellar distances.
+- `INS-260327-B3A7` Marshal Suchet was the only French commander to actually succeed in Spain — not through brilliance but through methodical, systematic pacification that won over the local population.
 - `INS-260330-7994` Psychology's strength as a science comes from maintaining multiple competing schools of thought rather than converging on a single methodology.
 - `INS-260330-3491` Structuralism's reliance on patients reporting their inner experiences made it too subjective to produce replicable scientific findings.
 - `INS-260404-ABCB` NASA's Bennu sample return found fragile organic compounds that meteorite studies could never detect because atmospheric entry destroys them.

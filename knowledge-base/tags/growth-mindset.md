@@ -11,8 +11,8 @@
 - `INS-260330-27A4` Mastery produces a recurring cycle of feeling competent then incompetent again, and this loop never ends.
 - `INS-260329-D3D9` You must tolerate being bad at something long enough to become good at it — most people quit in the incompetence phase.
 - `INS-260330-CC7D` You'll cycle between feeling like a genius and feeling incompetent forever—that's the normal shape of expertise, not a sign of failure.
-- `INS-260325-5023` Constructive failure processing requires separating the act of making a mistake from the identity of being a failure.
 - `INS-260329-2460` A partner must love both your current self and the person you are actively working to become.
+- `INS-260325-5023` Constructive failure processing requires separating the act of making a mistake from the identity of being a failure.
 - `INS-260327-CD49` Everyone thinks confidence leads to big actions, but it is completely reversed -- you do big things, put yourself out there while scared, and then confidence builds from the evidence of having survived.
 - `INS-260329-DF07` Expecting cyclical setbacks as normal growth features prevents premature quitting.
 - `INS-260330-DE89` Destin's involuntary tap-out at 7.2G permanently changed his approach to confidence-humility balance in ways voluntary humility never had.
