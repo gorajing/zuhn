@@ -55,10 +55,10 @@ related:
   - INS-260330-AF2B
   - INS-260403-F03A
   - INS-260403-BAD7
-  - INS-260405-39A6
   - INS-260403-C200
   - INS-260403-1A6C
   - INS-260403-B98A
+  - INS-260403-BED6
 ---
 When founders raise on SAFEs, the conversation typically anchors on the valuation cap — a number that feels abstract until the round actually converts. Carta's Peter Walker argues that framing the deal around ownership (what percentage of the company is being sold) makes the economics immediately legible for everyone involved. A $500K SAFE on a $5M cap conveys less intuitively than 'roughly 10% ownership' when thinking about the founder's stake at Series A.
 

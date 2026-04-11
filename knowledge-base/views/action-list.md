@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-11 | 4765 actionable insights
+Generated on 2026-04-11 | 4783 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -2409,6 +2409,8 @@ Generated on 2026-04-11 | 4765 actionable insights
 - [INS-260410-5581] Nike's playbook is obsess over athletes first, let the brand seep into mass consciousness, then extend into $15 Dick's t-shirts without compromising the pinnacle story.
 - [INS-260410-2632] Nike gave Jordan a 5% gross revenue royalty plus signature shoe because Converse and Adidas couldn't offer the same without their existing stars demanding equal treatment.
 - [INS-260410-2D4D] IPL had already absorbed India's entire cricket-advertising budget with the international rights deal, so they redesigned the product to compete with soap operas instead of with cricket — unlocking a parallel TAM by attracting women viewers and beauty-brand sponsors.
+- [INS-260410-9C58] The $60 membership and bulk pack sizes select for customers who have cash flow flexibility, storage space, and a willingness to plan ahead — yielding the wealthiest customer base of any major US retailer despite the lowest prices.
+- [INS-260410-1D7A] Sol Price's 'intelligent loss of sales' principle: forgo customers who only need 3 oz of WD-40 so you can carry only the 8 oz can — the SKU reduction unlocks logistics, labor, and supplier benefits that dwarf the lost revenue.
 
 ## startups/co-founders
 - [INS-260323-0B5E] Teams that default to 'more meetings and re-strategizing' instead of shipping are using planning as emotional avoidance of the market test they fear.
@@ -2476,6 +2478,10 @@ Generated on 2026-04-11 | 4765 actionable insights
 ## startups/company-culture
 - [INS-260405-AC40] Costco pays double the retail average wage and reports three times the productivity, suggesting high wages are a competitive lever rather than a constraint.
 - [INS-260410-C56B] Conflict-averse CEOs systematically transfer shareholder value to anyone willing to make a fuss, because the path of least resistance is always to pay them off.
+- [INS-260410-0042] Equity to part-time frontline workers isn't retention math — it's the moment a company becomes a different organism.
+
+## startups/competition
+- [INS-260410-95BC] Sam Walton walked into competitor stores with a yellow legal pad for 50 years — and claimed to have spent more time in Kmarts than any Kmart employee outside of senior management.
 
 ## startups/competitive-strategy
 - [INS-260322-7282] Owning the full workflow from intake to outcome generates proprietary data that public models can't replicate — creating a compounding competitive advantage.
@@ -2706,6 +2712,7 @@ Generated on 2026-04-11 | 4765 actionable insights
 - [INS-260410-AF68] Bill Gates licensed Microsoft BASIC to Apple for just $31,000 because his goal was to be the default programming language on every microcomputer, not to extract maximum revenue per deal.
 - [INS-260410-8F36] Bill Gates made 'exponential phenomena cannot be ignored' a core Microsoft value after recognizing the internet's compounding growth in 1994.
 - [INS-260410-9E97] Porsche's Carrera GT (2003) and 918 Spyder (2013) were released alongside the Cayenne and Panamera expansion specifically to 'put cash back in the brand equity bank' while the SUVs and sedans were drawing on it.
+- [INS-260410-3043] Scarcity is only a weakness until you engineer it into the product — Acquired copied Hermès and the NFL by refusing to scale their inputs.
 
 ## startups/content-strategy
 - [INS-260329-3332] A single 4+ hour comprehensive tutorial can accumulate millions of views over years by dominating 'full course' search queries.
@@ -2760,6 +2767,8 @@ Generated on 2026-04-11 | 4765 actionable insights
 - [INS-260409-2EF3] Teach the problem, not the product — the product then appears as the obvious answer the reader already wanted.
 - [INS-260409-DEF4] Creators should now treat content production as dual-audience — humans and LLMs — with shorts for how-to volume and long-form written for depth that gets cited.
 - [INS-260410-25AF] Great writing propagates efficiently through elite networks in roughly a week — audience compounding is an artifact of the creator slowly getting better, not of slow network accretion.
+- [INS-260410-CB92] A CNBC article is worth 2% of its value within a month; Acquired targets 80% value at five years, and that choice drives every other decision.
+
 
 ## startups/customer-discovery
 - [INS-260405-A742] You cannot identify gains until you've mapped the expectation floor — everything below it is pain, everything at it is neutral.
@@ -2769,6 +2778,8 @@ Generated on 2026-04-11 | 4765 actionable insights
 
 ## startups/decision-making
 - [INS-260405-809E] Updating predictions to match outcomes after the fact eliminates any information the prediction contained and corrupts future calibration.
+- [INS-260410-9AC4] Buffett and Munger's three piles — yes, no, and too-hard — work because the too-hard pile saves you from evaluating things you will never do well.
+
 
 ## startups/developer-tools
 - [INS-260330-737B] Unfashionable legacy technologies like COBOL create outsized earning potential because shrinking talent supply meets persistent institutional demand.
@@ -3690,6 +3701,8 @@ Generated on 2026-04-11 | 4765 actionable insights
 - [INS-260410-86A5] YouTube Shorts drove at least half of Dwarkesh's podcast growth — a channel he would never have predicted for a long-form deep-dive AI show.
 - [INS-260410-7875] Facebook's growth team — the first of its kind, formed in 2008 after user growth stalled — proved that the product is a better growth lever than any marketing spend, and the function must live inside engineering with data obsession as its defining trait.
 - [INS-260410-2C92] The canonical invite-only growth mechanic — now copied by every AI product launch — originated as operational cost rationing at Gmail, not as a psychology play.
+- [INS-260410-537E] Acquired's Nintendo episode underperformed the benchmark but landed with one Meta exec who forwarded it to Zuckerberg — which unlocked the 6,000-seat Chase Center show.
+
 
 ## startups/growth-marketing
 - [INS-260320-A1D3] Keep your content creator team to 5-10 people max, meet with each 1:1, and share what converts vs what doesn't — a small elite team compounds while a large team dilutes quality.
@@ -3857,6 +3870,7 @@ Generated on 2026-04-11 | 4765 actionable insights
 - [INS-260402-C301] Self-distributing AI features fall into three archetypes: outputs that spread awareness (viral artifacts), features that make users show off usage (status loops), and systems that improve with more data (data flywheels).
 - [INS-260410-8C24] Microsoft sold to the enterprise by leveraging the fact that employees had already smuggled Excel and Word into their offices personally — turning employee love into the wedge for top-down enterprise deals.
 - [INS-260410-DCE5] Google initially begged early portals to include 'Powered by Google' attribution on their search results pages — which trained tens of millions of users that Google meant high-quality search, eventually making the Google brand a value proposition that portals wanted rather than resisted.
+- [INS-260410-1C96] Size ambition to the reach of your brand equity, not the size of your revenue.
 
 ## startups/health-innovation
 - [INS-260403-DC6C] Photosynthesis is explicitly inefficient and complicated yet powers all life on Earth — adequacy under real constraints beats theoretical optimization.
@@ -4044,6 +4058,7 @@ Generated on 2026-04-11 | 4765 actionable insights
 - [INS-260403-EEE5] Evaluate new ideas by trying to imagine how they could work, not by listing reasons they won't.
 - [INS-260404-AC7C] Evaluating new ideas by imagining how they could work rather than why they won't is a trainable skill with outsized returns.
 - [INS-260410-9B33] Research shows direct long-haul flight connections between cities increase cross-city idea flow more than internet connectivity — and the effect is strongest between culturally distant places.
+- [INS-260410-6286] Kelly Johnson insisted Skunk Works engineers sit only steps from the shop floor because 'a stone's throw was too far away' — the shortest design-to-build feedback loop wins.
 
 ## startups/investor-relations
 - [INS-260405-94A1] Match your pitch deck's emphasis to investor decision criteria at your specific funding stage.
@@ -4179,6 +4194,7 @@ Generated on 2026-04-11 | 4765 actionable insights
 - [INS-260404-1DAA] Strong PMs master two of the 3 W's; those who rise to leadership master all three—output quality, unique contributions, and operating model.
 - [INS-260325-75EA] A teacher makes deposits of knowledge; a coach observes your real performance over time and walks you through iterative change — the distinction is about feedback loops, not content.
 - [INS-260410-5CAA] Microsoft grew revenue from $6B to $80B under Ballmer, yet the stock stayed flat for over a decade because the company could not articulate a coherent story for consumers, developers, or investors.
+- [INS-260410-282E] Kelly Johnson's inverted principle: 'I give raises to the guy who supervises the least — that means he's doing more and taking more responsibility.'
 
 ## startups/market-entry
 - [INS-260330-7EDF] Asking 'what could go right?' instead of 'what went wrong?' shifts strategic focus from diagnosis of failure to identification of actionable opportunities.
@@ -4206,6 +4222,7 @@ Generated on 2026-04-11 | 4765 actionable insights
 - [INS-260404-77CD] Stealth startups face asymmetric timing risk where the exit window is narrower than traditional launches because they lack the ongoing market signal correction that public startups receive.
 - [INS-260403-0303] US buyers expect top-down pitches, speed, ROI proof, and American reference customers—none of which transfer from European consensus-driven sales cycles.
 - [INS-260409-FA8F] Build the audience before the product; launch then becomes harvesting, not prospecting.
+- [INS-260410-8D9D] Research describes what customers have already done, never what they will do in a category that doesn't exist yet.
 
 ## startups/marketing
 - [INS-260405-F456] PostHog's genuinely useful company blog—covering topics like CEO communication, first 1,000 users, and startup sales—is cited as a model for content marketing.
@@ -4229,6 +4246,7 @@ Generated on 2026-04-11 | 4765 actionable insights
 - [INS-260405-ACCE] The conflicts leadership hears about are a structural choice—design the org to surface the right ones.
 - [INS-260405-B406] If critical tensions aren't reaching leadership, the org structure is filtering them out.
 - [INS-260410-5E3F] Azure was deliberately incubated outside the Server & Tools division because the division's KPIs, partners, and comp structure were all aligned with on-prem Windows Server sales that Azure would cannibalize.
+- [INS-260410-C4BB] Kelly Johnson built the first US jet fighter in 143 days with 23 engineers and 30 shop workers in a literal circus tent, codifying it as Skunk Works Rule 3: restrict team size in an almost vicious manner.
 
 ## startups/pitch-decks
 - [INS-260405-D514] As pitch descriptions approach 'could be anything,' their information content approaches zero.
@@ -4437,6 +4455,10 @@ Generated on 2026-04-11 | 4765 actionable insights
 - [INS-260403-2D39] Redpoint's framework demands a narrow high-urgency use case with real user love that naturally expands into larger product surfaces where quality sustains pricing power.
 - [INS-260410-2424] After Lotus 1-2-3 destroyed Microsoft Multiplan on the IBM PC, Microsoft shelved it and built Excel for the Macintosh GUI — being first and best on the next platform rather than trying to claw back the current one.
 - [INS-260410-58F2] The weight-loss effect of liraglutide was observed in rat trials years before Novo pursued it — overcoming internal stigma, not science, was the bottleneck.
+- [INS-260410-BED1] A tabletop needs a harder-wearing finish than a bookshelf's interior shelf — spending equally on both just hurts the customer through higher price.
+- [INS-260410-6BFF] Pick a shockingly low target price first, then reinvent every step of the supply chain to make that price possible.
+- [INS-260410-ABFF] Walmart's Great Value and Costco's Kirkland compete against brands on price; Trader Joe's refuses to launch a private label product unless it's differentiated on recipe, packaging, size, or merchandising — which is why the house brand carries the store's own name.
+- [INS-260410-9F29] The coffee was the conduit. The product was community.
 
 ## startups/quality
 - [INS-260330-FA4D] Byron Ferguson spine-tests every arrow and discards out-of-tolerance ones before they ever enter his quiver — precision is built in preparation, not performance.
@@ -4838,6 +4860,7 @@ Generated on 2026-04-11 | 4765 actionable insights
 ## startups/unit-economics
 - [INS-260405-7ACC] CAC and churn are the two variables that determine whether a SaaS business is structurally viable — everything else is execution.
 - [INS-260405-4B5D] The 3:1 LTV:CAC threshold is the minimum ratio at which SaaS unit economics justify growth spend.
+- [INS-260410-0D14] Every new store had to clear a 2:1 sales-to-investment ratio and 20% operating margin — no exceptions, for decades.
 
 ## startups/validation
 - [INS-260323-F9E5] The most expensive period of a failing startup is not the building phase — it's the denial phase after the founder already knows it won't work.

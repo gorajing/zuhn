@@ -41,7 +41,6 @@ stance: >-
   Setting prices too low is more dangerous than pricing too high because it
   selects for customers who will never be profitable
 related:
-  - INS-260327-0BDD
   - INS-260327-624F
   - INS-260329-39E1
   - INS-260330-121C

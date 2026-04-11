@@ -4,19 +4,19 @@
 - `INS-260410-6CE5` Greg Abel signals that 2026 will see Berkshire write LESS property-casualty and reinsurance business because 'additional capital entered the market, resulting in lower pricing' — deliberate shrinkage rather than chasing a softening cycle.
 - `INS-260402-D7C7` The end of zero interest rates forces a binary sort of companies into those with real unit economics and those that were subsidized by cheap money.
 - `INS-260403-CC5D` Score every investment on momentum, cash, and customer signal every six months, and stop funding companies that drift.
-- `INS-260327-B9BA` The Mamluks were individually the finest cavalry in the world, but they shattered against French infantry squares because organized discipline defeated individual prowess.
 - `INS-260409-D6D8` Write your story long-form — prose forces the discipline that speech and slides let you skip.
+- `INS-260327-B9BA` The Mamluks were individually the finest cavalry in the world, but they shattered against French infantry squares because organized discipline defeated individual prowess.
 - `INS-260402-8223` Great work comes from deep curiosity about specific questions, not from forcing yourself through material via discipline.
 - `INS-260403-DEB6` Determination requires equal parts willfulness and discipline; excess of either without the other produces local maxima or paralysis.
 - `INS-260403-A06E` Genuine interest in your work outperforms discipline as a driver of sustained effort because it makes hard work feel like a natural pull rather than a push.
 - `INS-260403-1202` Rollins explicitly states he has no talent — only tenacity, discipline, and focus — and these carried him further than more talented peers.
+- `INS-260329-F3F0` The differentiator for top performers is absence of distractions, not presence of special abilities.
+- `INS-260403-3059` Constraints force founders to prioritize ruthlessly, while excess capital dulls urgency and enables avoidance of hard product decisions.
 - `INS-260330-85E1` Rewarding yourself after hard work actually undermines future motivation; learning to find the effort itself rewarding is the neuroscience behind growth mindset.
 - `INS-260323-9D21` Boxing saved Atlas from self-destruction by providing structure and discipline that redirected violent anger into mastery -- the same energy that fueled street fights became the engine for world-class training.
 - `INS-260403-6CE8` We'll increasingly be defined by what we say no to, as the default environment becomes saturated with compelling distractions.
 - `INS-260329-783C` Ambitious people who can't stay consistent are misdiagnosing a frustration tolerance problem as a motivation problem.
 - `INS-260330-0149` Casino-style intermittent reward scheduling applied to personal activities prevents dopamine baseline erosion and sustains long-term motivation.
-- `INS-260329-F3F0` The differentiator for top performers is absence of distractions, not presence of special abilities.
-- `INS-260403-3059` Constraints force founders to prioritize ruthlessly, while excess capital dulls urgency and enables avoidance of hard product decisions.
 - `INS-260329-C345` The debt snowball method works better than the avalanche method because quick wins sustain the behavior change that actually eliminates debt.
 - `INS-260329-4499` Your self-respect degrades each time you break a promise to yourself, because you're the only one who knows your true capacity.
 - `INS-260330-9351` The healthiest people in isolation self-stimulate through counting, exercise, and narration — passive endurance leads to cognitive decline and dissociation.
@@ -29,4 +29,5 @@
 - `INS-260329-6BE8` Chasing new opportunities instead of deepening existing ones is the main reason entrepreneurs stay poor.
 - `INS-260323-B374` High-turnaround physical activities like jiu-jitsu and surfing teach leaders the crucial lesson that some things cannot be forced, a lesson business cycle times are too long to teach.
 - `INS-260329-1669` The belief that pursuing multiple opportunities increases the odds of one succeeding is a fallacy—any single one could have succeeded with full focus, but none will with divided attention.
+- `INS-260410-0D14` Every new store had to clear a 2:1 sales-to-investment ratio and 20% operating margin — no exceptions, for decades.
 - `INS-260329-7E63` The best closers don't have better arguments — they ask for the sale more times by using reframing to maintain rapport across repeated asks.

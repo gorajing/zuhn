@@ -47,15 +47,14 @@ stance: >-
   A well-designed business model provides longer-term competitive protection
   than innovative products because models are harder to replicate than features
 related:
-  - INS-260323-5C6F
   - INS-260402-45FA
   - INS-260403-16D7
   - INS-260403-E4B3
   - INS-260403-CD51
   - INS-260410-6290
   - INS-260403-1B9E
-  - INS-260404-AB0F
   - INS-260404-8A87
+  - INS-260410-3043
 evidence:
   - id: INS-260323-5C6F
     type: SUPPORTS

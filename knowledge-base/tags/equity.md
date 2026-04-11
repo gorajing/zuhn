@@ -9,6 +9,7 @@
 - `INS-260330-64E1` Even solo founders should put standard 4-year vesting on their shares to set cultural precedent and satisfy investor expectations.
 - `INS-260330-3E6F` Among YC's highest-valued companies, none had significantly unequal founder equity splits.
 - `INS-260329-5514` Revenue and profit grow enterprise value by a multiple (3-20x), making equity appreciation the dominant wealth creation lever over personal income.
+- `INS-260410-0042` Equity to part-time frontline workers isn't retention math — it's the moment a company becomes a different organism.
 - `INS-260405-5BA9` Equity fundraising is often chosen by default rather than necessity, costing founders compounding ownership they never recover.
 - `INS-260329-60CF` Owning equity in a profitable business reaches millionaire status far faster than saving from high income due to valuation multipliers.
 - `INS-260330-E4D9` Demoting an executive preserves their above-market equity while destroying their authority, making it worse than a clean separation for everyone involved.
@@ -27,5 +28,6 @@
 - `INS-260403-BAD7` Give up n% only if the deal makes your (100-n)% worth more than 100% was before.
 - `INS-260330-C4D4` While VCs frame vesting as protecting their investment, its most practical function is solving the problem of what happens if a co-founder quits.
 - `INS-260330-A9CB` Demoting an executive preserves their above-market equity while stripping their authority, creating resentment from peers who earn less for doing more.
+- `INS-260410-899C` Every early Walmart store was its own partnership, and the manager was a real dollar-invested equity partner — making the alignment immediate and scoped to their own performance.
 - `INS-260405-6DAD` Founders taking equity upfront are making the same bet as ladder climbers — they've just restructured the timeline of risk and reward.
 - `INS-260403-CF7C` Falling startup costs have given founders structural leverage over investors, increasing equity retention and board control.

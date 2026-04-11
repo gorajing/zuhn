@@ -1,6 +1,6 @@
 # Topic: market-entry
 
-> 53 insights
+> 54 insights
 
 - `INS-260403-535C` [high] Simultaneous supply aging and demand shifting creates opportunities that favor operationally heavy startups over pure software.
 - `INS-260403-16AB` [high] AI copilots in marketplaces increase supply capacity while preserving trust, whereas full autopilots race to zero pricing.
@@ -9,6 +9,7 @@
 - `INS-260403-710A` [high] Capturing the top 10,000 expert users in a domain gives you outsized strategic power because they set quality benchmarks for the broader market.
 - `INS-260403-345C` [high] Category creators should anchor pricing high, learn through real sales motions, and evolve from evangelical hunters to scaled execution as the market matures.
 - `INS-260403-18F7` [high] Startups that automate compliance (like Delve doing SOC 2 in 15 hours vs. months) win by directly unblocking stalled enterprise sales pipelines.
+- `INS-260410-8D9D` [high] Research describes what customers have already done, never what they will do in a category that doesn't exist yet.
 - `INS-260402-15A7` [high] Constraining to a narrow initial market — like Facebook starting at Harvard only — creates the critical mass and intensity needed to expand outward.
 - `INS-260409-FA8F` [high] Build the audience before the product; launch then becomes harvesting, not prospecting.
 - `INS-260404-7A54` [high] High mobile penetration plus low workflow digitization signals a ripe market entry window for vertical SaaS.

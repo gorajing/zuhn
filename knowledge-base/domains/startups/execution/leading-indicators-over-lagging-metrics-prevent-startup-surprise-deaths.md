@@ -44,7 +44,6 @@ stance: >-
   changes prevents the sudden-death scenarios that kill startups who only
   monitor revenue and signups.
 related:
-  - INS-260327-747B
   - PRI-260328-0993
   - PRI-260327-942E
   - PRI-260406-BAD8

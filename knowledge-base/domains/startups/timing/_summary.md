@@ -1,6 +1,6 @@
 # Topic: timing
 
-> 63 insights
+> 64 insights
 
 - `INS-260404-007F` [high] Enterprise SaaS IPOs from 2012 outperformed expectations by solving deep operational pain points with recurring revenue models.
 - `INS-260330-ADB7` [high] Gallium nitride was declared a 'dead end' by RCA in 1972 and by Nichia's biggest customer in 1990, yet became an $80 billion industry by 2024.
@@ -37,6 +37,7 @@
 - `INS-260330-39C6` [high] Look for markets where underlying costs have dropped dramatically but incumbents still operate as if the old economics apply.
 - `INS-260403-8176` [high] Groq's value was not in customer count but in forcing the assumption that GPUs were the only sensible way to run large models at scale to become questionable.
 - `INS-260330-68EF` [high] France was rich but bankrupt because nobles and clergy were exempt from taxes — the inability to extract revenue from those who hold the most is a fatal structural flaw.
+- `INS-260410-F38A` [high] Joe Coulombe read two articles — the GI Bill pushing college attendance from 2% to 60%, and the 747 cutting European travel cost 15x — and built an entire grocery chain around 'overeducated and underpaid' customers who didn't fully exist yet.
 - `INS-260330-D808` [high] The rapid smartphone upgrade cycle of 2007-2016 was an anomaly driven by technology's growth phase, not a permanent market condition.
 - `INS-260403-93A5` [high] Historical technology windows show the viable launch period for category-defining products is extremely compressed — 11 months for social networks, 30 months for mobile social.
 - `INS-260330-1F25` [high] Look for the widest gap between what's now technically possible and how things are still being done.

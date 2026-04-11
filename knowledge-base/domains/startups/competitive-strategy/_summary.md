@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 555 insights
+> 562 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -109,6 +109,7 @@
 - `INS-260404-3D14` [high] Competitor tactics are outputs of invisible context you don't have — use them for pattern inspiration but run your own experiments.
 - `INS-260403-44FF` [high] Undercutting competitors on price signals you have no differentiated value proposition and invites a margin-destroying race to the bottom.
 - `INS-260410-3022` [high] Barnes & Noble couldn't match Amazon's fulfillment centers because doing so meant admitting their existing distribution network was obsolete.
+- `INS-260410-59C5` [high] Trader Joe's breaks every grocery rule — small stores, no delivery, no brands, no sales, bad parking — and each broken rule only works because the others are also broken.
 - `INS-260403-FAAF` [high] Poor countries in Latin America and Africa cannot stop Chinese fishing fleets because they lack the state capacity and economic leverage to enforce their own laws.
 - `INS-260327-CC35` [high] Taco Bell never discounts core items like the Crunch Wrap -- instead they create purpose-built value products like the 79-cent cheese roll-up that are profitable at that price point, preserving pricing power that competitors destroyed through aggressive discounting.
 - `INS-260327-F6BA` [high] Taco Bell's CEO Greg Creed never discounted the Crunch Wrap or core items -- instead he created purpose-built products like 99-cent bean burritos and 79-cent cheese roll-ups that were profitable at those prices, preserving the chain's pricing power while competitors destroyed theirs.
@@ -207,6 +208,7 @@
 - `INS-260405-6524` [high] Billable-hours and per-seat pricing create a structural disincentive for incumbents to adopt AI, giving startups a temporary but real market-share window.
 - `INS-260330-AFAD` [high] Converse and Keds lobbied the US Customs Service to enforce an archaic import duty rule specifically to hit Nike with a $25M bill, using regulation as a weapon rather than competing on product.
 - `INS-260330-FF09` [high] The same focus that builds a monopoly prevents the company from destroying it, even when survival requires exactly that.
+- `INS-260410-F856` [high] Butler Brothers refused Walton's offer to partner on discounting because it would blow up their franchisee markup business — the same dynamic that lets every new entrant with a better model win.
 - `INS-260405-63C8` [high] BlackBerry's collapse was not a product failure — it was a perceptual failure about which game they were playing.
 - `INS-260330-519D` [high] Chinese and Indian phone makers built deep localization moats — dual SIM, regional language support, local payment integration — that Apple treats as afterthoughts.
 - `INS-260403-202E` [high] Microsoft created XMLHttpRequest for Outlook, inadvertently enabling the Ajax revolution that killed the desktop era.
@@ -242,6 +244,7 @@
 - `INS-260403-CD51` [high] Instagram's replication of Snapchat's Stories feature—surpassing the original within a year—illustrates how incumbents with larger user bases can neutralize small-team innovation through rapid copying.
 - `INS-260403-699F` [high] Large organizations' advantage erodes proportionally to how fast the competitive landscape changes.
 - `INS-260330-D63C` [high] At PayPal in 2001, 75% of the company's value came from projected cash flows in 2011 and beyond — proving that durability, not growth rate, dominates value equations.
+- `INS-260410-3043` [high] Scarcity is only a weakness until you engineer it into the product — Acquired copied Hermès and the NFL by refusing to scale their inputs.
 - `INS-260327-85EB` [high] Generalist fast-food chains lose market share to specialists in every category because consumers increasingly prefer the
 - `INS-260404-D39F` [high] RuBisCo is a terrible enzyme that won the planet because plants went all-in before oxygen made it obsolete, and now 40 billion tons of it persist because switching is harder than coping.
 - `INS-260330-B71B` [high] RuBisCo's oxygen-confusion creates toxic phosphoglycolate that plants must continuously neutralize — legacy system bugs become permanent line items.
@@ -339,6 +342,7 @@
 - `INS-260403-C949` [high] Recessions reduce startup competition because most potential founders irrationally wait for better times.
 - `INS-260403-FE00` [high] Beating a monopoly requires redefining the problem space so the incumbent's strengths become irrelevant, not building a marginally better version of their product.
 - `INS-260330-7DB7` [high] In-N-Out's real product is consistency, not burgers — and that reframe explains every strategic decision they make.
+- `INS-260410-431E` [high] Morita turned down Bulova's 100,000-unit order for the TR-63 because Bulova demanded its own brand on the radio, and he later called it the single best business decision of his career.
 - `INS-260403-D328` [high] Saying no to corp dev meetings signals confidence and reminds acquirer founders of their own early discipline.
 - `INS-260330-C761` [high] When DuPont phased out C8/PFOA, they replaced it with GenX (C6), which caused the same three tumor types in rats but legally counted as a new substance requiring fresh evidence.
 - `INS-260403-D8C1` [high] Clear, minimal regulation — like trademarking USD and setting three simple requirements — can unleash private-sector innovation at ecosystem scale.
@@ -414,12 +418,14 @@
 - `INS-260328-57CF` [high] Businesses being killed by AI disruptors will have to ignore all their process people — the innovator's dilemma means too many stakeholders are excited about doing A to allow B to happen.
 - `INS-260403-8011` [high] When the Internet eliminates distribution bottlenecks, 'build it and they will come' becomes a viable strategy.
 - `INS-260330-0C96` [high] Being the entry-level option lets you grow into the market while incumbents get squeezed from below.
+- `INS-260410-920E` [high] Low SKU count enables pallet-only logistics, which enables cross-docking, which enables labor efficiency, which enables higher wages, which enables low shrinkage, which enables thin margins — pull any thread and the whole tapestry unravels.
 - `INS-260324-160B` [high] Texas has the most BBQ spots per capita but a 33% failure rate — lower than less competitive states like California and New York where failure rates are even higher.
 - `INS-260330-1DCA` [high] We've cataloged 98% of civilization-ending asteroids (10km+) and accept small ones (<20m), but the 100-800m range — capable of destroying cities — remains largely undetected.
 - `INS-260405-7B7C` [high] Companies like Ross, Aldi, Dollar General, and Costco thrived during the 'retail apocalypse,' suggesting Amazon punished bad strategy rather than killed an industry.
 - `INS-260404-CB96` [high] The best defense turns the attacker's greatest strength into their greatest vulnerability.
 - `INS-260330-6B7F` [high] Vanilla JS forces imperative DOM manipulation where state and UI are completely decoupled, and any attempt to manage that complexity at scale recreates framework patterns — just without the community, testing, and documentation.
 - `INS-260327-E2BC` [high] AI startups either help professionals do their jobs, replace tasks entirely, or make previously impossible work feasible.
+- `INS-260410-90C5` [high] Costco refused to accept credit cards for years, proving customers would shop without them, which later let Costco hold an auction among card networks instead of paying interchange — the constraint became the leverage.
 - `INS-260403-7A48` [high] Foundation models can now integrate, retrain, and migrate data across platforms with minimal friction, rendering traditional SaaS lock-in strategies obsolete.
 - `INS-260327-F723` [high] The Stanley tumbler went from coveted status symbol to symbol of overconsumption within 18 months as the same social dynamics that drove adoption drove rejection.
 - `INS-260403-9006` [high] Takaichi neutralized Japan's Trumpian anti-immigration party by adopting moderate immigration reforms that addressed voter concerns without extremism.
@@ -547,6 +553,7 @@
 - `INS-260403-C23E` [medium] Stealth mode's real value is protecting founder attention from premature public scrutiny, not protecting IP from competitors.
 - `INS-260403-BE93` [medium] Founders must honestly distinguish whether stealth is protecting their process or their pride — ego is the denominator that destroys stealth value.
 - `INS-260330-A561` [medium] Louis Vuitton sued Supreme for copying their logo, then reversed course into a collaboration that produced items reselling for $125,000+.
+- `INS-260410-756C` [medium] IKEA started designing its own furniture only because Swedish competitors organized a supplier boycott against it — and that forced pivot is the reason there is no direct IKEA competitor in 2024.
 - `INS-260327-F0B2` [medium] Systems of record like Salesforce must choose: charge for data and give away agentic workflows, or charge for workflows and make data storage free.
 - `INS-260330-A660` [medium] Tax optimization strategies like the Double Irish Dutch Sandwich create temporary advantages that inevitably attract regulatory attention proportional to their scale.
 - `INS-260327-8358` [medium] The best problem-solvers may be in places without internet—AI could unlock this enormous untapped potential.

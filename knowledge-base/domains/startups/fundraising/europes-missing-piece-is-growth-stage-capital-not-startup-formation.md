@@ -56,5 +56,6 @@ related:
   - INS-260403-0680
   - PRI-260406-B2E5
   - INS-260403-5056
+  - INS-260410-0B28
 ---
 Hassabis says the UK (and Europe more broadly) is 'brilliant at doing the startup idea and getting it to a certain level' but lacks the billion-dollar rounds needed to cross into trillion-dollar scale against incumbents. This was missing 10 years ago when he fundraised for DeepMind and is still missing now. His prescription: unlock what pension funds can invest in to fund growth stage. The talent, universities (3-4 of world's top 10 are UK-based), and early-stage ecosystem are all there — the failure is in capital markets. This reframes Europe's competitive position: it's not a talent problem, it's a capital plumbing problem that's institutionally solvable through pension fund regulation. Isomorphic Labs is his bet to become Europe's first trillion-dollar AI company.

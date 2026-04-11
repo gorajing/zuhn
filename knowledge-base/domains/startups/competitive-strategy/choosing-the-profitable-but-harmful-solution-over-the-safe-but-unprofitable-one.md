@@ -61,7 +61,6 @@ stance: >-
   profit, but the delayed feedback loop makes the trade-off appear rational at
   decision time
 related:
-  - INS-260330-8F33
   - INS-260330-BEF8
   - PRI-260325-E2D3
   - INS-260322-3A00

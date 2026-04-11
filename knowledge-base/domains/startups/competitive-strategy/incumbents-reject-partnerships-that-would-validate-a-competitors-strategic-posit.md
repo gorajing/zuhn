@@ -51,12 +51,12 @@ stance: >-
   capability
 related:
   - INS-260323-78A5
-  - INS-260330-178D
   - INS-260330-8326
   - INS-260403-912E
   - INS-260403-C349
   - INS-260404-9C69
   - INS-260330-809A
+  - INS-260410-431E
 ---
 Yahoo had at least three chances to neutralize Google — a $1M/year licensing deal, a $3B acquisition, and a trial integration that doubled user engagement in one week. Each time, Yahoo walked away not because the economics were bad, but because the deal structure positioned Google as the essential technology provider. Accepting meant admitting Yahoo's core search capability was inferior.
 

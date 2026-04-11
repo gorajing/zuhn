@@ -50,10 +50,10 @@ stance: >-
   affiliation, making the solo model increasingly viable at early stages.
 related:
   - PRI-260406-8DF5
+  - INS-260410-ABFF
   - INS-260403-B8A3
   - INS-260403-CC97
   - INS-260402-910C
-  - INS-260328-A666
   - INS-260403-4F8D
 ---
 The trend of experienced venture GPs leaving established firms to launch solo funds reflects a fundamental insight about how value is created in early-stage investing. When 'everything falls on him or her' and 'their name is their brand, not the name on the door,' it reveals that LP relationships, founder networks, and sourcing ability are portable assets tied to individuals, not institutions.

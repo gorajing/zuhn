@@ -52,6 +52,8 @@ related:
   - PRI-260406-6D04
   - INS-260327-C75F
   - INS-260330-744E
+  - INS-260410-1D7A
+  - INS-260410-BED1
 stance: >-
   Casper, Warby Parker, and Dollar Shave Club promised that cutting out
   retailers would lower costs

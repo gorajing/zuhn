@@ -6,4 +6,5 @@
 - `INS-260403-37B9` Founders who leave for top-tier experience then return create a compounding talent flywheel that bootstraps entire startup ecosystems.
 - `INS-260403-1F3F` Founders in smaller markets should build local ecosystem gravity through conferences, academies, and talent attraction rather than relocating to established hubs.
 - `INS-260405-8E2A` Entrepreneurship programs designed around employment outcomes rather than viable business models systematically fail both goals.
+- `INS-260410-3264` Fred Terman single-handedly willed Silicon Valley into existence by recruiting defense researchers to Stanford, rewriting tech transfer to be company-friendly, and anchoring the Stanford Industrial Park with Lockheed as its first major tenant.
 - `INS-260403-6428` Silicon Valley's power comes from shared cultural protocols like non-zero-sum thinking and impact-based status, not from its visible infrastructure.

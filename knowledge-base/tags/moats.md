@@ -10,11 +10,12 @@
 - `INS-260404-60A6` Vertical AI products trained on domain-specific and proprietary data create defensible positions against generalist LLMs.
 - `INS-260325-5455` In AI, being first to market makes you the first target rather than the winner — moats (data flywheels, workflow integration, trust/governance) must be engineered from day one.
 - `INS-260325-FBE5` a16z argues there are no traditional moats in consumer AI — the landscape shifts too fast — so momentum (launch speed, traction velocity, mindshare) is the only defensible position.
-- `INS-260410-DA0E` Amazon used the 2000-2007 dot-com winter—when everyone else was retrenching—to build the fulfillment, Prime, and Marketplace infrastructure that became its permanent moat.
 - `INS-260323-7B63` AI creates the greatest period of business disruptability in history, making moat analysis the most critical and difficult skill for investors.
 - `INS-260325-FD14` TurboQuant's data-oblivious algorithm beats dataset-specific tuned competitors, demonstrating that fundamental algorithmic breakthroughs can instantly commoditize proprietary optimization moats.
 - `INS-260330-8FEC` Businesses earning royalties on others' capital (like Amex's 3% transaction fee) generate superior returns because growth doesn't require proportional reinvestment.
 - `INS-260327-643C` Score any software company across 8 moat dimensions — four or more means durable, two or less means vulnerable.
+- `INS-260410-DA0E` Amazon used the 2000-2007 dot-com winter—when everyone else was retrenching—to build the fulfillment, Prime, and Marketplace infrastructure that became its permanent moat.
+- `INS-260410-D5FC` Costco's hard 14% markup ceiling (11% target) converts every operational improvement into customer value, which compounds into trust, retention, and supplier leverage no competitor can match.
 - `INS-260410-F8B9` Moats are only sufficient if the castle is too unattractive to invade — once the prize gets big enough, attackers arrive regardless.
 - `INS-260403-41C8` Venture firms that think like product companies building systems outlast those optimizing per-fund carry.
 - `INS-260403-330E` In capital-intensive infrastructure markets, early movers who solve the core technical problem create nearly permanent competitive positions.
@@ -23,6 +24,7 @@
 - `INS-260322-019A` AI differentiation is not the same as defensibility — the moat comes from owning the end-to-end workflow and becoming the system of record.
 - `INS-260405-D098` AI startups must develop new strategic frameworks because SaaS assumptions about moats, margins, and customer acquisition no longer hold.
 - `INS-260405-70D4` Shield AI's 140% valuation jump in one year reflects that government defense AI contracts produce lock-in dynamics more durable than most commercial software.
+- `INS-260410-C445` Walmart's refusal to take outside capital forced obsessive focus on inventory turns and per-unit economics, which became the actual advantage over Kmart at scale.
 - `INS-260410-58A5` F1's durability isn't mostly brand or network effects — it's that the FIA explicitly calls it 'the pinnacle,' a regulatory grant no rival motorsport can replicate with money.
 - `INS-260410-C688` When a product bundles utility with an intangible 'priceless feeling,' buyers can no longer comp it against alternatives, which frees the seller to price without reference to competitor feature sets.
 - `INS-260405-FD9D` SaaS is speedrunning itself — viral today, vanished tomorrow — making defensibility more urgent than ever.
@@ -45,6 +47,7 @@
 - `INS-260403-68B4` Market crowding shifts the advantage from speed-to-market to depth-of-understanding.
 - `INS-260410-50D7` Walmart and Target have tried for decades to build credit-card alternatives and keep failing because no single retailer can match the rewards Visa funnels to consumers from a pooled interchange take.
 - `INS-260410-3022` Barnes & Noble couldn't match Amazon's fulfillment centers because doing so meant admitting their existing distribution network was obsolete.
+- `INS-260410-59C5` Trader Joe's breaks every grocery rule — small stores, no delivery, no brands, no sales, bad parking — and each broken rule only works because the others are also broken.
 - `INS-260403-FF7E` AI-era startups should prioritize building compounding moats over optimizing gross margins, because margins can mislead while defensibility determines survival.
 - `INS-260402-086D` Software's real protection comes from design subtlety that qualified experts cannot replicate, not from patent claims.
 - `INS-260403-C4EE` In AI, distribution loops—not features—create defensible positions because features are easily replicated.
@@ -59,6 +62,7 @@
 - `INS-260403-75C3` Proprietary infrastructure investments that seem painfully slow eventually create compounding returns that feature-layer competitors cannot replicate.
 - `INS-260403-9E2D` A unique market wedge gets you in the door, but lasting defensibility requires stacking multiple moat types over time.
 - `INS-260323-7F36` The install base is the single most important factor for a computing platform; elegant architectures like RISC failed while the 'barely aesthetic' x86 survived because install base trumps design purity.
+- `INS-260410-3043` Scarcity is only a weakness until you engineer it into the product — Acquired copied Hermès and the NFL by refusing to scale their inputs.
 - `INS-260405-D660` Kilo Code grew to 1.5 million users in under a year by being open-source, model-agnostic, and letting community PRs drive development velocity.
 - `INS-260323-0EE2` ASML's monopoly exists because EUV requires solving dozens of 'impossible' problems simultaneously — mirrors smooth to 2.3 atoms, tin droplets hit 50,000 times/second with zero misses, and 13.5nm light generation — and no competitor can replicate the full stack.
 - `INS-260404-397F` Apple Pay's moat comes from simultaneously delivering seamless UX to consumers, mobile customer access to merchants, business continuity to networks, and fraud reduction to banks — all of which must be matched together.
@@ -76,6 +80,8 @@
 - `INS-260404-EEA7` Code alone no longer creates lasting competitive advantage; startups need non-software moats like data, distribution, or embedded workflows.
 - `INS-260403-CE7C` Durability comes from five compounding forces that must be designed into the business from the start, not bolted on later.
 - `INS-260403-9482` Distribution advantage trumps product advantage because reaching customers reliably is harder to replicate than building features.
+- `INS-260410-756C` IKEA started designing its own furniture only because Swedish competitors organized a supplier boycott against it — and that forced pivot is the reason there is no direct IKEA competitor in 2024.
+- `INS-260410-920E` Low SKU count enables pallet-only logistics, which enables cross-docking, which enables labor efficiency, which enables higher wages, which enables low shrinkage, which enables thin margins — pull any thread and the whole tapestry unravels.
 - `INS-260410-52AE` Coca-Cola has never patented its formula because patents expire and become public domain — by treating the recipe as a trade secret with elaborate ritual around it, the company has held an artificial moat for 140 years instead of 20.
 - `INS-260403-946A` The ideal validated business model combines large profit potential with structural defenses like recurring revenue, scalability, and competitive moats.
 - `INS-260403-8402` Great value propositions are difficult to copy not because of one feature but because of interlocking systemic barriers.

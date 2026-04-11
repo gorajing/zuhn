@@ -18,6 +18,7 @@
 - `INS-260327-3A71` In AI, start with what the technology can do, not what customers say they need—the possibilities exceed imagination.
 - `INS-260403-CA42` Building distribution in parallel with product is now table stakes for startup survival, not a post-PMF optimization.
 - `INS-260402-237D` Build what you personally need, even if it seems niche — Wozniak built himself a computer.
+- `INS-260410-6286` Kelly Johnson insisted Skunk Works engineers sit only steps from the shop floor because 'a stone's throw was too far away' — the shortest design-to-build feedback loop wins.
 - `INS-260403-6CE6` Treating aid recipients as product users with real feedback loops produces dramatically better outcomes than top-down charity models.
 - `INS-260403-A70D` Measuring outcomes over outputs forces product teams to validate that shipped features actually change user behavior and create value.
 - `INS-260402-2FDF` Following the most interesting path at each step — like a river finding the sea — produces better outcomes than planning the route in advance.

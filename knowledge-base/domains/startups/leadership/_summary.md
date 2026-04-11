@@ -1,6 +1,6 @@
 # Topic: leadership
 
-> 192 insights
+> 193 insights
 
 - `INS-260404-F834` [high] Replace abstract culture complaints with specific behavioral stories backed by evidence to surface real, fixable problems.
 - `INS-260330-4A89` [high] Raises given on request incentivize lobbying over performance; formal evaluation cycles protect meritocratic culture.
@@ -100,6 +100,7 @@
 - `INS-260403-3705` [high] Reading raw updates and engaging with technical details directly prevents leaders from inheriting the blind spots of whoever wrote the summary.
 - `INS-260323-D621` [high] If your competitor's team member supports $400K in revenue and yours supports $200K, accountability is the gap — not talent or strategy.
 - `INS-260330-3A3F` [high] Revolutionary movements follow a predictable arc from moderate reform to radical takeover to radical self-destruction, ultimately landing near the original moderate position.
+- `INS-260410-282E` [high] Kelly Johnson's inverted principle: 'I give raises to the guy who supervises the least — that means he's doing more and taking more responsibility.'
 - `INS-260403-A360` [high] Tell talented people what to do at the highest level and let them own the details — they'll insist on it anyway.
 - `INS-260326-F3E0` [high] Most leaders fail by being too nice, not too mean — ruinous empathy silently destroys performance and trust.
 - `INS-260403-D36D` [high] Whoever holds organizational power imposes their schedule type on everyone else, usually at makers' expense.

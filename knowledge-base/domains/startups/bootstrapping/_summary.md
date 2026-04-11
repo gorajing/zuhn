@@ -1,6 +1,6 @@
 # Topic: bootstrapping
 
-> 33 insights
+> 35 insights
 
 - `INS-260320-00C2` [very_high] When users try to cancel, ask "Do you just need more time?" — trial extensions retained the most users, outperforming discounts and 3-month pause options, while keeping users on auto-renew.
 - `INS-260329-CB10` [high] Buying an existing business with seller financing lets you skip years of startup risk and immediately own a cash-flowing asset.
@@ -13,6 +13,7 @@
 - `INS-260321-31B3` [high] Ship product updates 6 days per week because AI model improvements reset the entire industry every month.
 - `INS-260321-FE91` [high] Opus Clip validated by manually engineering final video outputs and emailing them to potential customers, getting 60% positive feedback before writing a single line of product code.
 - `INS-260329-CC75` [high] At 9% annual returns, each $250/month saved compounds to roughly $1M over 40 years, creating a simple multiplier for wealth planning.
+- `INS-260410-17D4` [high] IKEA raised exactly one 500-kroner loan in 1938 and financed 81 years of global expansion entirely from reinvested profit — and that constraint, not a lifestyle choice, is what made the company.
 - `INS-260322-82E8` [high] Senior executives are professional interviewers — get signal from their 360 reviews at previous companies and do enough references until answers converge.
 - `INS-260402-EC9F` [high] Being poor means your personal cost threshold naturally produces products priced an order of magnitude below incumbents, which incumbents psychologically cannot follow.
 - `INS-260320-39A3` [high] Shelter your team and family from acquisition signal-to-noise until the wire hits — deals fall apart in the last week, and premature sharing creates damaging anxiety.
@@ -24,6 +25,7 @@
 - `INS-260403-E63B` [high] Lenny had no plan for the newsletter but weekly consistency for 18 months made the path obvious.
 - `INS-260321-1992` [high] Focus on first dollar by day 30, $1M ARR ($80K/month) by day 90, and only consider VC if you actually need it.
 - `INS-260321-E5C5` [high] The ideal AI startup founding team is one builder who ships in 24 hours and one go-to-market person with audience empathy.
+- `INS-260410-C445` [high] Walmart's refusal to take outside capital forced obsessive focus on inventory turns and per-unit economics, which became the actual advantage over Kmart at scale.
 - `INS-260329-55D8` [high] Charge premium rates for unscalable 1:1 work to self-fund your scalable business growth.
 - `INS-260323-DD40` [high] Consumer businesses should be funded by repeating customers, not venture capital — capital cannot solve unit economics problems.
 - `INS-260329-0DA4` [medium] An existing business with customers and cash flow can fund its own acquisition — a startup cannot.

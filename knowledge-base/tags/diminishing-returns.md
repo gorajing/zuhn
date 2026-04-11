@@ -12,5 +12,5 @@
 - `INS-260409-E73C` GBAR builds a positronium converter and elaborate ion cooling just to make fewer antihydrogen atoms than ALPHA-g — because ALPHA-g's 0.5K is 50,000x too warm for 1% gravity precision.
 - `INS-260328-EA3A` Past a critical threshold, more scale actively degrades quality — and the degradation is invisible during growth.
 - `INS-260404-F8AF` Dedicate 20-25% of growth resources to exploring new channels because current tactics will hit diminishing returns within 18 months.
-- `INS-260403-E681` Successful strategies get applied past their point of diminishing returns because practitioners mistake the strategy for the goal.
 - `INS-260329-A57B` Each additional nine of availability cuts allowed downtime by 10x but costs roughly 10x more to achieve — most startups should target three nines, not five.
+- `INS-260403-E681` Successful strategies get applied past their point of diminishing returns because practitioners mistake the strategy for the goal.

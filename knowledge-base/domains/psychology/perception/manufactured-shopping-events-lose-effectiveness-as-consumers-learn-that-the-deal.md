@@ -42,9 +42,9 @@ stance: >-
 related:
   - INS-260327-B6D6
   - INS-260325-FF45
+  - INS-260410-F856
   - INS-260327-CBBB
   - INS-260409-1BFD
-  - INS-260404-0EE0
 evidence:
   - id: INS-260325-FF45
     type: EXTENDS

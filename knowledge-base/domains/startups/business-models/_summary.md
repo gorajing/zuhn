@@ -1,6 +1,6 @@
 # Topic: business-models
 
-> 227 insights
+> 229 insights
 
 - `INS-260410-9246` [high] Visa's interchange is not a fee — it's an envelope of value the network can redistribute to issuing banks, acquiring banks, co-brand merchants, and rewards programs as needed to align behavior.
 - `INS-260410-58A5` [high] F1's durability isn't mostly brand or network effects — it's that the FIA explicitly calls it 'the pinnacle,' a regulatory grant no rival motorsport can replicate with money.
@@ -65,6 +65,7 @@
 - `INS-260327-7681` [high] Western Unions high fees are sustainable because its customers — immigrants sending remittances, unbanked populations — 
 - `INS-260404-35B6` [high] Viaweb charged $300/month flat for big stores, then discovered Frederick's of Hollywood alone cost them $300/month in bandwidth.
 - `INS-260324-2AD8` [high] European football clubs generate billions in revenue from merchandise, TV rights, and sponsorships — yet they're barely cash-flow positive because they spend everything on player salaries to sustain on-field success.
+- `INS-260410-9C58` [high] The $60 membership and bulk pack sizes select for customers who have cash flow flexibility, storage space, and a willingness to plan ahead — yielding the wealthiest customer base of any major US retailer despite the lowest prices.
 - `INS-260410-DAB6` [high] Berkshire ended 2025 with $370B+ in cash and Treasuries as 'dry powder' — explicitly reserved to 'allow us to act decisively, invest when others are tentative or fearful, and stand firm when financial storms roll through.'
 - `INS-260329-2EAA` [high] Franchise royalties consume ~60% of a 10-margin operator's take-home, designed to keep franchisees running but not rich.
 - `INS-260327-EF89` [high] Franchise brands face an inherent quality control problem because brand perception depends on the operational quality of
@@ -175,6 +176,7 @@
 - `INS-260327-AFC7` [high] The French Intensive system generating six-figure incomes from small plots was abandoned not because it failed but because industrial agriculture needed farmers dependent on tractors, chemicals, and commodity markets.
 - `INS-260327-E874` [high] People starting Uber driving or Etsy shops after losing their jobs show up as 'new businesses' in statistics rather than as unemployed, masking the true scale of economic displacement.
 - `INS-260410-DFE2` [high] Microsoft's revenue went from $25M to $98M in 18 months on the back of DOS clone licensing because they were both selling infinitely replicable software AND occupying the position every PC maker had to integrate with.
+- `INS-260410-1D7A` [high] Sol Price's 'intelligent loss of sales' principle: forgo customers who only need 3 oz of WD-40 so you can carry only the 8 oz can — the SKU reduction unlocks logistics, labor, and supplier benefits that dwarf the lost revenue.
 - `INS-260327-6E0E` [high] Movies monetize through sequential windows -- theatrical (highest price per viewer), DVD/VOD, streaming exclusives (Netflix pays premium for first window), cable TV, and syndication -- each capturing a different willingness-to-pay segment over a 4-6 year lifecycle.
 - `INS-260410-2D4D` [high] IPL had already absorbed India's entire cricket-advertising budget with the international rights deal, so they redesigned the product to compete with soap operas instead of with cricket — unlocking a parallel TAM by attracting women viewers and beauty-brand sponsors.
 - `INS-260409-AF1C` [high] Adobe spent years developing Illustrator; Figma and Sketch copied the core interface ideas at a fraction of the cost and are now eating Adobe's market share — a textbook public goods problem that makes tools for thought structurally undersupplied by private markets.

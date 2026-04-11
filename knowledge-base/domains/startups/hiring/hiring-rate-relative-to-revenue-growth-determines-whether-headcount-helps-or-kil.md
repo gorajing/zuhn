@@ -53,5 +53,6 @@ related:
   - INS-260403-3F2C
   - INS-260403-92CC
   - PRI-260406-4F10
+  - INS-260410-1C96
 ---
 The post notes that 'hiring too fast kills runway, hiring too slow stalls growth' — a genuine tension with only one correct resolution: hire based on modeled revenue curves, not gut feel or capital availability. Many founders treat a fundraise as a hiring mandate, deploying headcount before the revenue to justify it materializes. A headcount model that links hires to revenue projections forces the discipline of asking 'can we afford this hire if growth comes in at 70% of plan?' before making the offer. This is especially critical for product and engineering roles, where hiring-to-output lag is longest.

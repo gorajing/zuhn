@@ -54,7 +54,7 @@ related:
   - INS-260403-7D11
   - INS-260329-6204
   - INS-260330-F08F
-  - INS-260330-625B
+  - INS-260410-0042
 ---
 High turnover destroys team efficiency through constant onboarding, knowledge loss, and disrupted workflows. Offshore hires — particularly in regions where competitive-salary roles with international companies are highly valued — tend to have longer tenure than U.S. equivalents in comparable back-office roles.
 

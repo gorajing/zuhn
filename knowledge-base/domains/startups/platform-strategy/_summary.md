@@ -1,7 +1,9 @@
 # Topic: platform-strategy
 
-> 9 insights
+> 11 insights
 
+- `INS-260410-4D1F` [high] Sony won the PS1 generation by telling third-party developers 'we need you' while Nintendo told them 'we have Mario, we don't need you' — and by letting them develop on PCs instead of expensive Silicon Graphics workstations.
+- `INS-260410-BF1C` [high] Betamax had better video quality and a two-year head start, but lost to VHS because Sony sued Universal over time-shifting and Universal retaliated by anointing VHS with exclusive movie releases.
 - `INS-260405-E7F9` [high] Apple Pay's security and seamlessness were only possible because Apple controlled the chip (Secure Enclave), the OS, and the payment network relationships simultaneously.
 - `INS-260405-B76E` [high] Open source handles large-scale universal problems; closed software refines and distributes those solutions to specific users.
 - `INS-260410-6D83` [high] Start building your defensive option years before you deploy it — by the time the threat is real, you won't have time to stand up a world-class team from scratch.

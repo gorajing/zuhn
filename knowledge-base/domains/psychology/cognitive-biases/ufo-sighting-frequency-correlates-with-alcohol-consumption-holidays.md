@@ -49,6 +49,6 @@ related:
   - INS-260409-CE1D
   - INS-260325-9693
   - INS-260327-C150
-  - INS-260405-75AC
+  - INS-260410-3B42
 ---
 The physicist cites a data analysis, attributed in the interview to The Independent, that compared UFO sighting frequency against dates and times, finding consistent peaks around Christmas, Independence Day, and evening hours. The honest interpretation is that alcohol-altered perception and degraded sleep explain the variance. This is a portable analytical technique: whenever a supposedly objective phenomenon spikes on dates correlated with observer-state change, suspect the observer before the phenomenon. It also illustrates the general principle that population-level anomalies in self-reported data usually encode observer conditions, not the world.

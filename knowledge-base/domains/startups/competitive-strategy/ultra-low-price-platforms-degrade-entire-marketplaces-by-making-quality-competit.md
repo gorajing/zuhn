@@ -53,13 +53,13 @@ related:
   - INS-260324-157A
   - INS-260322-6AF5
   - INS-260327-3DE7
-  - INS-260327-CC35
   - INS-260327-4440
   - INS-260327-31A7
   - INS-260327-7A5A
   - INS-260409-BE4C
   - PRI-260403-2B12
   - PRI-260406-0ACE
+  - PRI-260328-70D9
 ---
 Temu sells products at prices that seem impossible because they externalize costs: quality control, environmental compliance, fair labor, durability testing. When consumers anchor on Temu's prices, every other retailer seems overpriced by comparison. Quality manufacturers can't compete on price, so they lose market share. The entire marketplace shifts toward disposable goods because that's the only model that works at Temu's price points.
 

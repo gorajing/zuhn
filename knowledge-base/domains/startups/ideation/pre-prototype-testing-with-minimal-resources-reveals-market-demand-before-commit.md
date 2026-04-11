@@ -50,6 +50,7 @@ related:
   - PRI-260323-1B96
   - INS-260403-EA2D
   - INS-260403-3A67
+  - INS-260410-671A
 stance: >-
   Selling frozen dumplings below cost on a recipe-sharing social platform proved
   market demand existed before investing in infrastructure

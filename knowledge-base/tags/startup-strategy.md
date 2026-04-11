@@ -8,5 +8,5 @@
 - `INS-260323-FEDF` You will never build better AI than OpenAI or Anthropic, but you can win with better contextual knowledge of a specific workflow or market.
 - `INS-260322-3E59` The 'why now' question — what has changed that makes this company relevant today when it couldn't exist before — separates viable startups from ideas that are just 'good but early.'
 - `INS-260403-F160` Software history follows translation → creation → reality-breaking phases, and AI is entering the third phase where the constraint is vision, not capability.
-- `INS-260327-AEC2` Michelangelo painting your house is a 7-year masterpiece that can never be replicated; Thomas Kincaid mass-produces paintings with standard pricing and distribution — only Kincaid's model creates investable leverage.
 - `INS-260402-CCF4` Patents serve startups primarily as signals to acquirers that the technology is defensible and worth buying rather than building.
+- `INS-260327-AEC2` Michelangelo painting your house is a 7-year masterpiece that can never be replicated; Thomas Kincaid mass-produces paintings with standard pricing and distribution — only Kincaid's model creates investable leverage.

@@ -52,5 +52,6 @@ related:
   - PRI-260406-04DB
   - INS-260325-79BD
   - INS-260323-FE69
+  - INS-260410-CB92
 ---
 Hassabis defines AGI as a system exhibiting all cognitive capabilities the human mind has, using the brain as existence proof. He says 'there's a very good chance of it being within the next 5 years' — a prediction that hasn't shifted despite recent acceleration because DeepMind co-founder Shane Legg's 2010 compute+algorithmic extrapolation predicted exactly this ~20 year timeline. This places the Hassabis AGI prediction in the 2030-2031 window and is notable for being internally consistent across 15 years of his career rather than updated in response to hype cycles. Use this as a grounded anchor when other lab leaders give more aggressive (2026-2027) or more conservative (2040+) predictions.

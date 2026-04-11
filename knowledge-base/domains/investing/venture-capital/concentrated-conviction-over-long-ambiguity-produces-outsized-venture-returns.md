@@ -52,11 +52,11 @@ related:
   - INS-260404-FF8D
   - PRI-260406-992F
   - INS-260403-33E2
+  - INS-260410-1399
   - INS-260405-5C3F
   - INS-260403-693C
   - INS-260403-52B7
   - INS-260405-18AB
-  - INS-260403-C7AB
 ---
 Social Capital's 2017 seed investment in Groq — roughly $10M at a $30M valuation for ~33% ownership — was made years before AI inference became a mainstream thesis. There were no flashy usage charts or rapid adoption curves, just long stretches where external validation was thin. Inside a typical fund, this creates immense pressure to rebalance or reduce exposure.
 

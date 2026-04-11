@@ -1,6 +1,6 @@
 # Topic: venture-capital
 
-> 296 insights
+> 298 insights
 
 - `INS-260403-6B24` [high] High-profile 2025 IPOs like Figma, Chime, and Navan traded below debut prices even as Nasdaq and S&P 500 rallied.
 - `INS-260405-0CAB` [high] 38% of VCs stopped doing deals in 2023, exposing a large cohort of cycle-dependent tourist investors who entered during the 2020-2021 bull market.
@@ -64,6 +64,8 @@
 - `INS-260405-F01C` [high] After the weakest fundraising year since 2017, Q1 2026 became the biggest fundraising quarter since the 2021 peak—a full reversal in one quarter.
 - `INS-260403-1D6E` [high] Graham first thought Julian Weber got a great deal with 10% of Viaweb for $10k and mentorship, then realized without Julian, Viaweb wouldn't have existed at all.
 - `INS-260403-B008` [high] Government employees optimize for decisions that can be justified if they fail, which is the exact opposite of good venture investing.
+- `INS-260410-0B28` [high] At growth stage, everyone can see which companies are good — the scarce resource is being allowed to invest in them.
+
 - `INS-260404-F01F` [high] Biotech and health companies captured 53% of all US Series A funding in early 2024, totaling $5.6B across 110 rounds.
 - `INS-260404-ADEE` [high] 44% of US unicorn founders are foreign-born, with India leading, making immigrant entrepreneurship a structural driver of venture capital returns.
 - `INS-260410-6E01` [high] Missing Google or Facebook costs more than a dozen Webvans, so the correct bias in venture is toward aggressive pursuit of any plausible outlier.
@@ -277,6 +279,7 @@
 - `INS-260404-6914` [medium] Several fragmented verticals still offer low-multiple acquisition opportunities for roll-up strategies.
 - `INS-260403-E294` [medium] Unicorn exits accelerating in AI, cyber, and health while other sectors remain illiquid reveals selective rather than broad liquidity recovery.
 - `INS-260405-5569` [medium] Unicorn status typically requires 5 rounds, with private unicorns reaching it more efficiently than exit-unicorns.
+- `INS-260410-4627` [medium] Rentech's 5-and-44 fee structure on a closed insider fund functions as a tenured university department would: senior partners (LPs) automatically transfer economic value to the current working team (GPs) through carry, keeping active researchers richly incentivized without requiring arbitrary annual bonus decisions.
 - `INS-260403-D500` [medium] Cross-market valuation comparisons are deceptive because entry discounts don't guarantee proportional exit returns when market dynamics differ.
 - `INS-260405-CD10` [medium] In April 2025, only a16z and Khosla closed 10+ deals, revealing a highly bifurcated VC market.
 - `INS-260405-BCF4` [medium] When LPs stop receiving distributions, they stop writing new fund commitments — shrinking the supply of venture capital with a 12-24 month lag.

@@ -5,3 +5,4 @@
 - `INS-260409-3B53` Pitch the argument that convinces YOU to join — 'what does Ben want to hear' is unknowable and gets you talked out of your idea.
 - `INS-260403-2D68` Acquirers price current revenue while founders with infrastructure moats can rationally price the compounding potential of their regulatory and technical assets.
 - `INS-260404-8DEE` Coinbase pitched Bitcoin at $6.25 like a manifesto, and Dropbox's pristine deck worked because founder conviction came through on every slide.
+- `INS-260410-0AA8` Morita forced the Walkman through over near-unanimous internal opposition by pledging to resign if the first 30,000 units didn't sell — because no focus group could have predicted people would walk around in public wearing headphones.

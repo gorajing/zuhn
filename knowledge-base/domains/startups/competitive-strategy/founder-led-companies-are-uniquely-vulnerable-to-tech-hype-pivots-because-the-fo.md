@@ -54,7 +54,6 @@ stance: >-
   making the organization unable to push back on strategic pivots driven by
   external hype rather than internal capability.
 related:
-  - INS-260324-27E2
   - INS-260322-06EA
   - INS-260327-7265
   - INS-260403-EAC6

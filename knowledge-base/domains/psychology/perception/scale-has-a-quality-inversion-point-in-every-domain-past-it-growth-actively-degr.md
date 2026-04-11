@@ -49,7 +49,6 @@ stance: >-
   jaggedness persisting across model size, while rapid startup growth masks
   operational degradation until the quality debt becomes unrecoverable.
 related:
-  - INS-260325-C8D5
   - INS-260327-7C6B
   - PRI-260328-C918
   - INS-260410-4357

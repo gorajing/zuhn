@@ -55,6 +55,7 @@ related:
   - INS-260405-A671
   - INS-260402-8424
   - INS-260403-6E4C
+  - INS-260410-3264
 ---
 Microsoft's deal with Inflection AI — structured as a licensing agreement and talent hire rather than a formal acquisition — represents a significant innovation in deal structure. By paying $650M for a technology license and hiring most of the team (including co-founder Mustafa Suleyman), Microsoft effectively acquired the company's value without triggering antitrust review.
 

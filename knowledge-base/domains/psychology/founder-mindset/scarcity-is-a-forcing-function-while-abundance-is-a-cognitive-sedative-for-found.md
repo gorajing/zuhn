@@ -61,6 +61,7 @@ related:
   - INS-260403-B374
   - INS-260404-EC26
   - INS-260403-FBD6
+  - INS-260410-C445
 ---
 The psychological dimension of overfunding is distinct from the financial one. With millions in the bank, founders are tempted to spend big, hire quickly, launch early, and outsource problems — the capital starts to shape the company more than the customer does. As both Paul Graham and Fred Wilson warn, abundance makes companies rigid, less adaptable, and more vulnerable to internal bloat.
 

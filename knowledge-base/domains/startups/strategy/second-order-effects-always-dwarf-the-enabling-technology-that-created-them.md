@@ -48,7 +48,6 @@ stance: >-
   infrastructure builders who arrive before those effects become obvious the
   biggest winners.
 related:
-  - INS-260325-2CC7
   - INS-260403-34A6
   - PRI-260406-9573
   - PRI-260406-7128

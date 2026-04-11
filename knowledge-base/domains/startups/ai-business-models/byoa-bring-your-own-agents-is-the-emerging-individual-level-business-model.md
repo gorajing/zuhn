@@ -53,5 +53,6 @@ related:
   - PRI-260405-608A
   - INS-260403-7825
   - INS-260323-BF81
+  - INS-260410-5474
 ---
 The model works because price sensitivity lags cost structure: buyers have priced department-level outputs at department-level prices for decades, so a solo operator with agents can charge the old price while running at a fraction of the cost. The arbitrage window exists because organizational buyers haven't recalibrated their mental models. Delivery vehicles are flexible — contractor, agency, embedded equity partner, salaried operator — but the pitch is always the same: I replace the function, not the headcount. Time-sensitive because the arbitrage collapses as buyers learn to reprice department-level work, but the underlying leverage (1 operator + N agents) is durable.

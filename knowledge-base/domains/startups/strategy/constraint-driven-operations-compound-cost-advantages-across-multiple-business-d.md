@@ -48,7 +48,6 @@ stance: >-
   cost-cutting measure
 related:
   - INS-260403-4874
-  - INS-260404-C9B5
   - INS-260404-7A5B
   - INS-260403-6BD9
   - INS-260404-8B1C
@@ -57,6 +56,7 @@ related:
   - INS-260405-39A6
   - INS-260405-DEF2
   - INS-260329-C409
+  - INS-260410-C445
 evidence:
   - id: INS-260403-524B
     type: EXTENDS

@@ -12,5 +12,6 @@
 - `INS-260403-6670` Costco stocks 4,000 SKUs vs Walmart's 140,000, making each slot fiercely contested by suppliers willing to cut prices.
 - `INS-260405-DEF2` Being the only or one of two options in a category gives you more leverage over suppliers than volume alone ever could.
 - `INS-260403-7F06` Reddit beat Slashdot because user submissions made content fresher than human moderators could achieve, and users always follow the newest news.
+- `INS-260410-671A` The core unlock of Trader Joe's was realizing wine is the ultimate non-commodity commodity, then asking: what if we merchandise granola, nuts, frozen dinners, and everything else the same way?
 - `INS-260403-7732` Selection from a large open pool surfaces better top-end quality than editorial curation, which dampens extremes.
 - `INS-260322-F781` Systematic music discovery follows three layers: listen to as much as possible, then dig by genre to understand sonic categories, then trace artists through credits and discographies.

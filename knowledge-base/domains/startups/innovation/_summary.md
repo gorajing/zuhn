@@ -1,6 +1,6 @@
 # Topic: innovation
 
-> 130 insights
+> 131 insights
 
 - `INS-260405-EFC2` [high] C invented the curly-brace, semicolon syntax that now defines how billions of developers write code — its design choices became the assumed defaults of most successor languages.
 - `INS-260404-4320` [high] AI collapses experimentation costs across deeptech by replacing early-stage lab work with in-silico simulation.
@@ -65,6 +65,7 @@
 - `INS-260403-2788` [high] The right response to a new idea is not gentler criticism but actively imagining how it could work.
 - `INS-260403-81D4` [high] You need many bets on the left side of the risk spectrum because only a few will survive to become real businesses.
 - `INS-260404-17DD` [high] Established business models produce antibodies that kill fragile new initiatives transferred too early.
+- `INS-260410-6286` [high] Kelly Johnson insisted Skunk Works engineers sit only steps from the shop floor because 'a stone's throw was too far away' — the shortest design-to-build feedback loop wins.
 - `INS-260403-CF09` [high] Kodak, Nokia, and Blackberry were technologically innovative companies that died because they invested in product R&D without exploring new business models.
 - `INS-260403-D62D` [high] Organizations default to efficiency innovation and must deliberately shift resources toward sustaining and transformative categories.
 - `INS-260404-AD21` [high] Calling serious work 'just a hack' or 'just a sketch' lets you start by applying lower standards, then sneakily converting it once momentum builds.

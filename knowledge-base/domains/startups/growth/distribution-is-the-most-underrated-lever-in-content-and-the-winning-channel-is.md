@@ -67,7 +67,7 @@ related:
   - INS-260323-7AF7
   - INS-260403-8ABF
   - INS-260403-F524
-  - INS-260322-06EA
+  - INS-260410-537E
 ---
 Dwarkesh's under-asked take: content creators rightly obsess over content quality, but then consistently underinvest in distribution mechanics, and this is where a lot of the returns actually live. The concrete data point: YouTube Shorts is responsible for at least half the growth of his long-form, deeply technical AI podcast. This is maximally counterintuitive — a 5-10 minute short-form clip funnel driving an audience for 2-4 hour interviews with AI researchers — and he notes he would never have predicted it beforehand.
 

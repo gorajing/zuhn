@@ -10,6 +10,6 @@
 - `INS-260403-ADB3` Founders must continuously calculate whether current revenue growth and burn rate lead to profitability before money runs out.
 - `INS-260403-E611` The busiest IPO window since 2021, led by Klarna, StubHub, and Netskope, shows public markets now reward scale, profitability, and valuation discipline.
 - `INS-260330-08FA` The strongest fundraising position is not needing the money — reach ramen profitability before raising.
+- `INS-260403-0D24` eDreams focused on unit economics and EBITDA from day one, reaching unicorn status with real profits rather than just a billion-dollar valuation on paper.
 - `INS-260403-0CB8` Resilient 'camel' startups that grow slowly but survive market shocks are replacing unprofitable unicorns as the aspirational model for founders.
 - `INS-260403-8C56` Being profitable lets you wait out acquisition market cycles and capture fair average-case valuations rather than being forced into bad timing.
-- `INS-260403-0D24` eDreams focused on unit economics and EBITDA from day one, reaching unicorn status with real profits rather than just a billion-dollar valuation on paper.

@@ -43,8 +43,8 @@ related:
   - INS-260327-7018
   - INS-260324-A046
   - INS-260404-E65A
+  - INS-260410-9C58
   - INS-260403-A08A
-  - INS-260403-0F72
 evidence:
   - id: INS-260327-7018
     type: EXTENDS

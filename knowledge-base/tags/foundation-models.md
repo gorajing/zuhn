@@ -1,7 +1,7 @@
 # Tag: foundation-models
 
-- `INS-260410-1AF0` Getting better at making antibodies to gene X doesn't help you treat disease Y because the bottleneck is knowing what gene to target — which is why compounding returns in biotech require a perturbation-prediction model that generalizes across cell states.
 - `INS-260327-C4C8` RL went through a trough but is now the key capability multiplier because strong pretrained models finally provide the 'cake' that RL's 'cherries' can sit on top of.
+- `INS-260410-1AF0` Getting better at making antibodies to gene X doesn't help you treat disease Y because the bottleneck is knowing what gene to target — which is why compounding returns in biotech require a perturbation-prediction model that generalizes across cell states.
 - `INS-260405-1C8D` Meta's TRIBE v2 predicts fMRI brain responses from video, audio, and language—enabling researchers to screen hypotheses in software before spending scarce scanner time on physical experiments.
 - `INS-260410-56F7` Physical Intelligence's robots work because they start from open-source VLMs (e.g. Gemma) with an action expert bolted on, importing world knowledge robot data could never supply on its own.
 - `INS-260405-FAA3` Apple licensing Gemini for ~$1B/year shows foundation model capability is now a moat even Apple can't bridge alone.

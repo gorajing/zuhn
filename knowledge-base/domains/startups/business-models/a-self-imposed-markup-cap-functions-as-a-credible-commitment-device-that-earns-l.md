@@ -56,10 +56,10 @@ stance: >-
   pressure alone to keep prices low
 related:
   - INS-260404-C9B5
+  - INS-260410-D5FC
   - INS-260403-3F5F
   - INS-260404-41AA
   - PRI-260406-ED07
-  - INS-260405-FFCE
 evidence:
   - id: INS-260403-99DE
     type: CHALLENGES

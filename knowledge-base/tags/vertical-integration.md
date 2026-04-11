@@ -13,12 +13,15 @@
 - `INS-260330-B284` Rockefeller first consolidated 90% of oil refining (horizontal) before expanding into drilling, pipelines, storage, and distribution (vertical), using his refining monopoly as leverage for each expansion.
 - `INS-260330-F512` Unlike physical store generics, digital platform owners control data, visibility algorithms, and distribution rules — creating advantages far beyond what traditional private-label brands enjoy.
 - `INS-260403-04C9` McDonald's rejected a 2015 investor proposal to spin off its real estate into a REIT, arguing that the integration of food operations and property ownership is what makes both sides work.
+- `INS-260410-756C` IKEA started designing its own furniture only because Swedish competitors organized a supplier boycott against it — and that forced pivot is the reason there is no direct IKEA competitor in 2024.
 - `INS-260330-27E8` Onitsuka's betrayal forced Blue Ribbon Sports to create Nike — transforming them from a dependent distributor into a vertically integrated brand worth billions.
 - `INS-260403-90A0` China's rare earth export tightening and Western chip seizures are forcing companies to vertically integrate within their geopolitical bloc or risk existential supply disruption.
 - `INS-260330-F9B4` Tech strategy is a race up the control hierarchy: plugins → websites → apps → OS → hardware, where each level reduces dependence on others.
 - `INS-260330-0525` Tesla and SpaceX succeeded not through a single 10x breakthrough but through complex vertical integration that pulled in distributors and subcontractors that would otherwise extract monopoly profits.
 - `INS-260327-F229` Disney's competitive advantage isn't better movies — it's owning the entire pipeline from film production through theme parks, merchandise, streaming, and cruise ships.
 - `INS-260402-91B5` Focus on vertical slices that span the boundaries where bigger organizations divide labor, because the best insights live in those seams.
+- `INS-260410-D2D1` Walmart had to build its own distribution network, trucking fleet, and private satellite system because no third party could provide the efficiency their discount model required.
 - `INS-260405-1B93` When Amazon started producing its own TV shows, it stopped competing purely on logistics and began competing on culture — a much harder moat to replicate.
 - `INS-260405-E7F9` Apple Pay's security and seamlessness were only possible because Apple controlled the chip (Secure Enclave), the OS, and the payment network relationships simultaneously.
 - `INS-260403-8793` Replit's decade of integrating editor, database, and hosting into one container was the only reason AI agents could autonomously write, test, and deploy code — a moat competitors cannot quickly replicate.
+- `INS-260410-2106` Sony bought Columbia Pictures in 1989 partly out of Betamax-induced trauma, but hardware teams wanted devices to play any content (including pirated) while the movie division wanted hardware to enforce restrictions — the two strategies are permanently incompatible.

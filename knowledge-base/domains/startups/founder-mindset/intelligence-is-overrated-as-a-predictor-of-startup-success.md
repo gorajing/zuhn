@@ -47,7 +47,6 @@ stance: >-
   story, not because it's the primary causal factor.
 related:
   - INS-260328-982A
-  - INS-260328-03BB
   - INS-260402-F04F
   - INS-260402-9681
   - INS-260403-C2BE
@@ -56,6 +55,7 @@ related:
   - PRI-260406-2B11
   - INS-260405-57C5
   - INS-260404-8A02
+  - INS-260403-27AC
 evidence:
   - id: INS-260403-4DFB
     type: REFINES

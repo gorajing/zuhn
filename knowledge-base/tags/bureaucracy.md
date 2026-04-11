@@ -7,7 +7,7 @@
 - `INS-260328-7241` Bad process is like a cancer — a machine that only wants more power and more people, until you have a thousand process people and one guy making bolts.
 - `INS-260403-7749` SF cut housing permit approval from 605 days to 280 days average — with new applications averaging 114 days — signaling that bureaucratic speed reform has outsized economic impact.
 - `INS-260403-23AA` Long approval processes for AI tools don't prevent usage — they push employees to unapproved personal accounts, creating more risk than fast-tracking would.
-- `INS-260403-7F89` The bottleneck to customer understanding is internal process friction, not lack of resources.
 - `INS-260327-390A` Bill Anderson argues that bureaucracy isn't a disease you treat — it's produced by the composition of the organization itself, specifically layers, functional silos, and annual budgets.
 - `INS-260330-2D53` China maintained essentially the same centralized bureaucratic structure from 150 BCE to 1911 CE, making it the first organization to solve the scaling problem across leadership transitions.
 - `INS-260403-46BD` Every organizational check has a hidden cost, but proposers almost never have to justify that cost against the benefit.
+- `INS-260403-7F89` The bottleneck to customer understanding is internal process friction, not lack of resources.

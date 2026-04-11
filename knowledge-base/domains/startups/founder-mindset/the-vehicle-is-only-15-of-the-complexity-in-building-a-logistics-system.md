@@ -52,10 +52,10 @@ stance: >-
   stack of software, operations, and regulatory infrastructure.
 related:
   - INS-260404-0B8E
+  - INS-260410-C4BB
   - INS-260403-8C63
   - INS-260325-BF84
-  - INS-260323-FAF2
-  - INS-260325-D624
+  - INS-260410-D2D1
 evidence:
   - id: INS-260323-FAF2
     type: SUPPORTS

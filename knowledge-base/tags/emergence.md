@@ -15,13 +15,13 @@
 - `INS-260330-3C70` The 3x+1 rule is trivially simple yet produces hailstone sequences that follow geometric Brownian motion — the same statistical pattern as stock market fluctuations.
 - `INS-260330-42DE` The body's hierarchy — atoms, cells, tissues, organs, organ systems, organism — shows how stacking simple organized layers produces capabilities none could achieve alone.
 - `INS-260409-2677` Everything in the universe is a descendant of one lucky particle per billion that survived matter-antimatter annihilation — tiny asymmetries compound into everything.
-- `INS-260325-D037` Einstein's equations predicted things Einstein himself did not expect — formal systems consistently outrun their creators' intentions.
-- `INS-260330-833E` Jeremy England proposes that life emerges because self-replicating structures are better at dissipating energy gradients than inert matter.
 - `INS-260325-0921` The Collatz sequence's logarithmic behavior matches geometric Brownian motion — a stock-market-like random walk emerging from a fully deterministic rule.
 - `INS-260325-1F35` Quantum field theory underlies chemistry which underlies biology, but you cannot understand biology by studying quarks — each layer requires its own conceptual toolkit.
 - `INS-260326-3B43` Complexity in nature does not require complex causes — Rule 30 shows that trivially simple rules produce infinitely complex behavior.
 - `INS-260323-0780` The 'law of stability' in the primordial void: unstable configurations fall apart and vanish while stable ones endure long enough to combine into increasingly complex structures.
 - `INS-260330-B8C6` Zipf's law in language likely emerges from multiple colluding mechanisms rather than a single cause, reflecting something fundamental about how minds model complexity.
+- `INS-260325-D037` Einstein's equations predicted things Einstein himself did not expect — formal systems consistently outrun their creators' intentions.
+- `INS-260330-833E` Jeremy England proposes that life emerges because self-replicating structures are better at dissipating energy gradients than inert matter.
 - `INS-260403-65D2` Multi-layer systems exhibit emergent rigidity that single layers don't, because elements trap each other rather than flowing freely.
 - `INS-260325-486C` Adjacent numbers 26 and 27 in Collatz reach maximums of 40 and 9,232 respectively — simple rules create wildly divergent outcomes that no intuition can predict.
 - `INS-260330-84BD` The collapse of North Korea's Public Distribution System forced the emergence of illegal private markets that now sustain the majority of the population.

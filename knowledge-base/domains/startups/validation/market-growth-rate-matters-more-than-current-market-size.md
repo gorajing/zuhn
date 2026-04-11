@@ -50,9 +50,7 @@ stance: >-
   systematic error — the growth rate of the market is a stronger predictor of
   startup success.
 related:
-  - INS-260327-85EB
   - INS-260329-C36D
-  - INS-260329-D267
   - INS-260330-6A47
   - PRI-260406-12A2
   - INS-260403-DC59
@@ -60,6 +58,8 @@ related:
   - PRI-260322-8FD4
   - INS-260402-15A7
   - INS-260330-923F
+  - INS-260402-426C
+  - INS-260402-8170
 evidence:
   - id: INS-260329-8602
     type: TRANSFERS_TO

@@ -1,6 +1,6 @@
 # Topic: content-strategy
 
-> 69 insights
+> 70 insights
 
 - `INS-260330-B885` [high] Rogan gained 2 million subscribers during his cancellation attempt because the coordinated media attack inadvertently proved his independence from institutional control.
 - `INS-260405-3F0F` [high] Google ranks pages; AI cites statements — this single difference demands a claim-first approach to content structure.
@@ -38,6 +38,8 @@
 - `INS-260329-D212` [high] Obsess over the first 3 seconds of any content because trimming a weak opening can multiply viewership by 19x.
 - `INS-260329-0F10` [high] The primary barrier to audience growth is premature quitting, not lack of skill—making persistence itself the competitive moat.
 - `INS-260403-29EB` [high] Lenny crossed 1,000 paid subscribers and exceeded his Airbnb PM Lead salary within months of launching paid.
+- `INS-260410-CB92` [high] A CNBC article is worth 2% of its value within a month; Acquired targets 80% value at five years, and that choice drives every other decision.
+
 - `INS-260405-6BC4` [high] Individual creators who expose their reasoning methodology earn more trust than institutional brands hiding behind mastheads.
 - `INS-260403-6908` [high] With 64% of people mistrusting journalists and 74% trusting 'someone like me,' individual creators are becoming preferred information sources.
 - `INS-260329-3332` [high] A single 4+ hour comprehensive tutorial can accumulate millions of views over years by dominating 'full course' search queries.

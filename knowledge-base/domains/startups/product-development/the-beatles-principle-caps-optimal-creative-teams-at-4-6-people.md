@@ -55,6 +55,7 @@ related:
   - PRI-260406-1993
   - INS-260325-FADB
   - INS-260403-E3E0
+  - INS-260410-C4BB
 ---
 Bob Baxley draws on Brian Eno's concept of 'scenius' and the Beatles as a model: genius emerges from tiny, tightly-knit groups, not large organizations. The original Macintosh team was just 20 people; the iPhone team was 24. When teams grow beyond this threshold, coordination overhead replaces creative coherence, and the product loses its singular vision.
 

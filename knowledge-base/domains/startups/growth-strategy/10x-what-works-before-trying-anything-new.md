@@ -55,7 +55,6 @@ related:
   - INS-260403-B18C
   - INS-260403-2054
   - INS-260403-07C6
-  - INS-260403-AEBD
   - INS-260403-76B7
 ---
 Most entrepreneurs fall into the uninformed optimism cycle: they discover something working, get bored, chase a shiny new channel, hit the valley of despair, and restart. Hormozi's portfolio company playbook is to ask 'why can't we 10x this?' — and two out of three times the answer is 'we could.' The constraint preventing 10x is almost always solvable (more creative, more lists, more budget) and carries far fewer unknowns than launching net-new. He personally didn't open a second acquisition channel until $4M/month, and it took 12 months for outbound to match his paid ads revenue — illustrating the massive time and capital cost of channel diversification done too early.

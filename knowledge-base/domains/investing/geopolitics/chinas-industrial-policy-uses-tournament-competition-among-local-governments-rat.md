@@ -55,7 +55,6 @@ stance: >-
   producing industrial champions than centrally allocating capital to
   pre-selected winners
 related:
-  - INS-260323-E214
   - INS-260330-73C1
   - PRI-260406-9599
   - INS-260405-5856

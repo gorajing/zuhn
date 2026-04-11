@@ -53,10 +53,10 @@ stance: >-
   that exceed equivalent cash prizes in long-term career value.
 related:
   - INS-260403-19D8
+  - INS-260410-CB92
   - INS-260405-9C70
   - INS-260403-C907
   - INS-260328-F301
-  - INS-260330-E414
 ---
 The ACX contest prizes include cash ($2,500/$1,000/$500), but also: free publicity with links to other works, free subscriptions, sidebar blog links, and the right to pitch Scott new articles directly. For a writer building an audience, the non-monetary prizes likely dominate in long-run value — a sidebar link on a high-traffic Substack and a warm introduction channel to an influential editor are compounding assets, while cash is consumed once.
 

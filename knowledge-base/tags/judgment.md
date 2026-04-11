@@ -8,10 +8,10 @@
 - `INS-260403-EE2C` We judge early ambitious work too harshly because our species never developed customs for evaluating things that don't exist yet.
 - `INS-260404-E185` Selection-type judgments aim to pick a good-enough set, not to evaluate you accurately.
 - `INS-260403-AEF2` We judge early versions of ambitious projects by finished-work standards because we have no cultural customs for evaluating them correctly.
-- `INS-260404-FADE` Early versions of ambitious projects look worse than they are because we lack cultural norms for evaluating unfinished work.
-- `INS-260403-D2A5` Persistence emerges from the interaction of energy, imagination, resilience, good judgment, and goal focus — missing any one degrades the whole.
 - `INS-260405-6E4F` Better inputs compound into better judgment — information diet is a leverage point most people underinvest in.
 - `INS-260409-9412` Earthrise happened because Bill Anders yelled for color film when he saw Earth coming up unscheduled; the Artemis eclipse happened because the crew chose to frame Venus into a dark shot.
+- `INS-260404-FADE` Early versions of ambitious projects look worse than they are because we lack cultural norms for evaluating unfinished work.
+- `INS-260403-D2A5` Persistence emerges from the interaction of energy, imagination, resilience, good judgment, and goal focus — missing any one degrades the whole.
 - `INS-260405-A1D7` Humans evolved no customs for evaluating nascent ambitious work, so we default to judging it by finished-work standards—a correctable error.
 - `INS-260405-020E` Lame-looking early work on ambitious projects is not accurately lame — it's accurately early.
 - `INS-260329-1A64` When stuck on a decision, ask 'whose voice is telling me not to do this?' — naming the specific person strips the fear of its power.

@@ -10,6 +10,7 @@
 - `INS-260404-3A2E` Solo GPs are launching independently because their personal brand and network, not the firm name, drives deal flow.
 - `INS-260404-3FBC` The 10-year fund model inherited from PE creates deployment urgency that compromises investment quality.
 - `INS-260403-6F9C` The mismatch between 10-year fund lives and 7-10 year paths to exit creates a structural liquidity trap that degrades returns through time alone.
+- `INS-260410-4627` Rentech's 5-and-44 fee structure on a closed insider fund functions as a tenured university department would: senior partners (LPs) automatically transfer economic value to the current working team (GPs) through carry, keeping active researchers richly incentivized without requiring arbitrary annual bonus decisions.
 - `INS-260404-3821` VC fund formation is splitting into massive scale plays and laser-focused thematic bets, leaving generalist mid-tier funds stranded.
 - `INS-260403-21E1` A fund recycling modest early proceeds can lift net returns from 2.1x to 2.4x+ without any change in underlying portfolio performance, purely by reducing fee drag.
 - `INS-260402-A629` Eliminating investment committees lets a solo GP write 9-figure checks in days, trading key-person risk for speed and conviction alignment.

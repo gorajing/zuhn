@@ -2,6 +2,8 @@
 
 - `INS-260327-0692` Something that is both complex (high assembly index) and abundant (many copies) was almost certainly produced by an evolutionary process - random chance cannot reliably produce both.
 - `INS-260403-3CD0` Optimizing deal terms yields marginal gains compared to the exponential impact of picking the right startup.
+- `INS-260410-0B28` At growth stage, everyone can see which companies are good — the scarce resource is being allowed to invest in them.
+
 - `INS-260405-D66B` Post-selection outperformance is a mathematical signature of upstream bias, not exceptional talent.
 - `INS-260410-3B3E` Munger's core life strategy — which Senra identified as the dominant theme of their 3-hour dinner — is that great businesses, great spouses, and great friends simply generate fewer crises than mediocre ones, so front-loading quality selection solves 99% of downstream problems.
 - `INS-260410-C474` Paine argues Bismarck's manipulation of Europe's monarchs demonstrated the structural incompetence of inherited leadership, because kings selected by birth rather than skill consistently failed to see strategic patterns a competent peer group would have caught.

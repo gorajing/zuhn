@@ -1,6 +1,6 @@
 # Topic: strategy
 
-> 245 insights
+> 246 insights
 
 - `INS-260330-98EA` [high] The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples.
 - `INS-260403-0530` [high] New York struggles as a startup hub because founders there are second-class citizens in a status hierarchy that most admires financial wealth.
@@ -105,6 +105,7 @@
 - `INS-260403-D5DC` [high] Choose your startup location based on what fuels your business, not who funds it.
 - `INS-260330-4ACF` [high] Britain promised Palestine to three different parties simultaneously, ensuring universal betrayal and lasting conflict.
 - `INS-260403-0C2E` [high] China's pattern of dramatic action followed by rapid reversal — '30-year oversteering' — produces worse outcomes than incremental course correction.
+- `INS-260410-2106` [high] Sony bought Columbia Pictures in 1989 partly out of Betamax-induced trauma, but hardware teams wanted devices to play any content (including pirated) while the movie division wanted hardware to enforce restrictions — the two strategies are permanently incompatible.
 - `INS-260403-0B14` [high] Parental drive to advantage children is so powerful that only structural solutions (smaller organizations, market measurement) work—rule-based patches always get circumvented.
 - `INS-260403-9B3A` [high] RuBisCo's evolutionary story shows how early strategic commitments become permanent even when they stop working well.
 - `INS-260404-3B9D` [high] RuBisCo is a terrible enzyme that won by being first and scaling to 40 billion tons rather than being replaced by something better.

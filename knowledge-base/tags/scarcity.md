@@ -9,6 +9,7 @@
 - `INS-260330-DA4A` Mesopotamia invented writing and territorial kingdoms because it lacked basic resources and had to trade for metal, stone, and wood.
 - `INS-260409-0F19` The more AI scales digital content, the more analog real-world experiences become scarce and valuable — operators should barbell between extreme tech and extreme analog.
 - `INS-260330-D801` Patek Philippe's business model — forcing buyers through loyalty tiers, policing resales, and rebuying watches to trace leakers — is fundamentally bubble management, not watchmaking.
+- `INS-260410-3043` Scarcity is only a weakness until you engineer it into the product — Acquired copied Hermès and the NFL by refusing to scale their inputs.
 - `INS-260410-F681` Luxury brands like Rolex and Hermès win by controlling the market — keeping production flat, raising prices incrementally, and refusing to chase demand spikes — rather than by participating as price-taking sellers.
 - `INS-260327-A4E3` Standup comedy only works because of tension before the punchline — marketing only works the same way.
 - `INS-260409-1BFD` Availability friction raises perceived value; waiting lists create the FOMO that 'buy now' buttons destroy.

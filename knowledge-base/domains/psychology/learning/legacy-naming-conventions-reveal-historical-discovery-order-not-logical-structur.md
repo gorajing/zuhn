@@ -50,7 +50,6 @@ stance: >-
   Systems named by discovery chronology rather than functional hierarchy create
   persistent confusion that compounds with every new learner
 related:
-  - INS-260330-9A46
   - INS-260330-0143
   - INS-260403-837D
   - INS-260403-07C3

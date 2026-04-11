@@ -18,8 +18,8 @@
 - `INS-260403-4F8D` VCs increasingly use newsletters to build personal brands and attract quality deal flow by establishing trust with founders before they pitch.
 - `INS-260403-407A` YC's core strategic advantage is creating new startups rather than competing with VCs for the same fixed pipeline.
 - `INS-260328-F752` VCs dismissing batch-model investing by claiming they already know all the good companies are admitting they view venture as a zero-sum commodity business.
-- `INS-260404-2032` Owned media audiences can be converted into startup launch services, creating a flywheel that feeds both content growth and investment access.
 - `INS-260329-8B33` Taking six months to find a business you can acquire for free beats immediately starting one that costs your life savings.
+- `INS-260404-2032` Owned media audiences can be converted into startup launch services, creating a flywheel that feeds both content growth and investment access.
 - `INS-260403-DE0E` Investing well in a few startups and genuinely helping them creates a chain reaction of increasingly high-quality referrals.
 - `INS-260404-EFA0` 80% of startups in a curated fundraising list are pre-seed or seed, with only 13% at Series A/B.
 - `INS-260403-215E` Humanoid robots lead Q3 2025 deal count while AI leads dollar volume, revealing a hardware-many-bets vs software-mega-bet divergence.

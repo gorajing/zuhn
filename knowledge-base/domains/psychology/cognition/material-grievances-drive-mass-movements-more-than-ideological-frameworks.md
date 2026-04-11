@@ -57,6 +57,7 @@ related:
   - INS-260403-EBE4
   - INS-260410-0775
   - INS-260410-8122
+  - INS-260410-671A
 evidence:
   - id: INS-260330-9BC4
     type: SUPPORTS

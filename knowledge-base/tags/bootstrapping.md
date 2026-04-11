@@ -8,10 +8,12 @@
 - `INS-260329-5257` Price services as a percentage of measurable value delivered rather than hours worked.
 - `INS-260405-9C70` Bootstrapping and VC-backing are different contracts with different incentives — the right one depends on what the founder actually wants to build and own.
 - `INS-260329-1318` Selling expensive services on commission eliminates every traditional startup barrier except your ability to persuade.
+- `INS-260410-17D4` IKEA raised exactly one 500-kroner loan in 1938 and financed 81 years of global expansion entirely from reinvested profit — and that constraint, not a lifestyle choice, is what made the company.
 - `INS-260410-4685` Mars has stayed family-owned, debt-free, and radically private for a century specifically because privacy gives you permission to sub-optimize the short term.
 - `INS-260404-2523` AI-powered tools now let solo founders handle engineering, design, and ops tasks that previously required a cofounder or early team.
 - `INS-260321-1992` Focus on first dollar by day 30, $1M ARR ($80K/month) by day 90, and only consider VC if you actually need it.
 - `INS-260403-0A20` The startup ecosystem's growth obsession obscures that staying intentionally small often produces better founder outcomes in wealth, freedom, and sustainability.
+- `INS-260410-C445` Walmart's refusal to take outside capital forced obsessive focus on inventory turns and per-unit economics, which became the actual advantage over Kmart at scale.
 - `INS-260329-55D8` Charge premium rates for unscalable 1:1 work to self-fund your scalable business growth.
 - `INS-260329-2A70` Acquire burned-out small businesses by offering to pay from future profits, assembling a portfolio with zero capital.
 - `INS-260403-0FEC` Public company acquisitions function as pooled-risk management services for founders seeking freedom and security.
@@ -19,11 +21,11 @@
 - `INS-260410-66E4` Lalit Modi orchestrated a $1B media deal, $400M+ in franchise auctions, and Bollywood ownership for a sports league that had never existed by capping every party's year-one cash exposure to the smallest amount that signaled credible commitment.
 - `INS-260330-EBFD` Glycolysis must invest 2 ATP to generate 4 ATP — even biology requires spending resources before earning returns.
 - `INS-260402-3D00` Making the platform useful to hosts even without buyers solves the marketplace cold-start problem.
-- `INS-260322-3259` SiteGPT's $1700-1800 LTV per customer makes even low-conversion organic traffic highly profitable.
 - `INS-260329-82B1` When starting with no capital, embrace high-effort manual strategies first — automation and delegation come after you have revenue, not before.
 - `INS-260403-F28B` Most founders are motivated by freedom and financial security, but operating a business full-time provides neither.
 - `INS-260329-8E79` Low personal burn rate lets founders fail more times without going broke, increasing their probability of eventual success.
 - `INS-260330-B0EB` Ross bootstrapped Silk Road by growing his own mushrooms to be the first product listing, then seeded demand by posing as a customer on forums — solving both sides of the marketplace simultaneously.
+- `INS-260322-3259` SiteGPT's $1700-1800 LTV per customer makes even low-conversion organic traffic highly profitable.
 - `INS-260329-FE15` Ground your first business idea in personal pain, professional expertise, or deep passion rather than abstract market research.
 - `INS-260323-E9E4` Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead.
 - `INS-260403-3F2C` Cuban argues raising money is an obligation, not an achievement — owning more of your company is the only path to outsized wealth.

@@ -52,6 +52,7 @@ related:
   - INS-260403-6279
   - INS-260403-6E23
   - INS-260410-0D0C
+  - INS-260410-17D4
 stance: >-
   Most of the world's most successful companies made their real money not from
   their core product but from a first derivative of it

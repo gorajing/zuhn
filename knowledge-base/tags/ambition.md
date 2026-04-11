@@ -36,6 +36,6 @@
 - `INS-260328-FF2C` The smartest people can make the impossible happen, but if you cannot attract the smartest people, you cannot even make the possible happen.
 - `INS-260403-5441` The biggest startup ideas trigger fear and identity threat, causing founders to unconsciously filter them out.
 - `INS-260403-4942` Fifteenth-century Florentine artists produced extraordinary work partly because they believed extraordinary work was possible and competed fiercely to achieve it.
+- `INS-260327-4E34` Reaching unicorn status is just 0-to-1—the real value creation is in the 1-to-10 and 10-to-100 phases.
 - `INS-260403-0530` New York struggles as a startup hub because founders there are second-class citizens in a status hierarchy that most admires financial wealth.
 - `INS-260403-D1D4` Doubling your already-ambitious targets forces strategic creativity and attracts higher-caliber collaborators.
-- `INS-260327-4E34` Reaching unicorn status is just 0-to-1—the real value creation is in the 1-to-10 and 10-to-100 phases.

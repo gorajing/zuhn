@@ -7,5 +7,6 @@
 - `INS-260402-92AE` Centivax outsourced initial testing but brought optimization in-house once they knew the technology worked, making iteration cheaper, faster, and producing a more polished product.
 - `INS-260403-F4D7` Best-in-class infrastructure components are now commodity plug-and-play, so building custom infra is almost always wrong for early-stage startups.
 - `INS-260330-2952` Choosing Stripe over rolling your own payments saves months of development — a leverage multiplier that framework debates never achieve.
+- `INS-260410-D2D1` Walmart had to build its own distribution network, trucking fleet, and private satellite system because no third party could provide the efficiency their discount model required.
 - `INS-260327-9192` When Arora's engineering team proposed 60 engineers and 9 months to match a browser startup, he asked: do you expect them to just hang out and wait for you to catch up?
 - `INS-260403-3291` Integration work takes operators 4x longer than experts, making the $10K outsourcing cost a clear win when operator time is the scarcest resource.

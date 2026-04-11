@@ -672,6 +672,7 @@ Generated on 2026-04-11 | 2599 sources
 | Your Life is Driven by Network Effects | blog | 5 | 2026-03-31 |
 | 1년만에 150억, 400% 성장을 만드는 환경을 셋팅하는 방법 | 엔코위더스 오정훈 | youtube | 5 | 2026-03-22 |
 | 10 Programmer Stereotypes | youtube | 5 | 2026-03-30 |
+| 10 Years of Acquired (with Michael Lewis) | youtube | 5 | 2026-04-11 |
 | 100+ Computer Science Concepts Explained | youtube | 5 | 2026-03-30 |
 | 13 Years of Marketing Advice in 85 Mins | youtube | 5 | 2026-03-30 |
 | 13 Years of No BS Business Advice in 79 Mins | youtube | 5 | 2026-03-30 |
@@ -724,6 +725,7 @@ Generated on 2026-04-11 | 2599 sources
 | Coffeezilla: SBF, FTX, Fraud, Scams, Fake Gurus, Money, Fame, and Power | Lex Fridman Podcast #345 | youtube | 5 | 2026-03-30 |
 | Conflict in Israel and Palestine through 2015: Crash Course World History #223 | youtube | 5 | 2026-03-30 |
 | Controlling Your Dopamine For Motivation, Focus & Satisfaction | youtube | 5 | 2026-03-30 |
+| Costco (Audio) | youtube | 5 | 2026-04-11 |
 | Dario Amodei — “We are near the end of the exponential” | youtube | 5 | 2026-04-10 |
 | David Deutsch: Knowledge Creation and The Human Race, Part 1 | youtube | 5 | 2026-03-30 |
 | David Kipping: Alien Civilizations and Habitable Worlds | Lex Fridman Podcast #355 | youtube | 5 | 2026-03-30 |
@@ -791,6 +793,7 @@ Generated on 2026-04-11 | 2599 sources
 | If I Wanted to Become a Millionaire In 2024, This is What I'd Do [FULL BLUEPRINT] | youtube | 5 | 2026-03-30 |
 | If I Wanted To Become a Millionaire in 2026, This Is What I'd Do [FULL BLUEPRINT] | youtube | 5 | 2026-03-30 |
 | If you want 2026 to be the best year of your life. Please watch this video… | youtube | 5 | 2026-03-30 |
+| IKEA (Audio) | youtube | 5 | 2026-04-11 |
 | Ilya Sutskever – We're moving from the age of scaling to the age of research | youtube | 5 | 2026-04-10 |
 | Indian Premier League Cricket (Audio) | youtube | 5 | 2026-04-11 |
 | Infinity, Paradoxes, Gödel Incompleteness & the Mathematical Multiverse | Lex Fridman Podcast #488 | youtube | 5 | 2026-03-23 |
@@ -819,6 +822,7 @@ Generated on 2026-04-11 | 2599 sources
 | Let's build GPT: from scratch, in code, spelled out. | youtube | 5 | 2026-04-10 |
 | Let's build the GPT Tokenizer | youtube | 5 | 2026-04-10 |
 | Let's reproduce GPT-2 (124M) | youtube | 5 | 2026-04-10 |
+| Lockheed Martin (Audio) | youtube | 5 | 2026-04-11 |
 | Male inequality, explained by an expert | Richard Reeves | youtube | 5 | 2026-03-30 |
 | Marc Andreessen's 2026 Outlook: AI Timelines, US vs. China, and The Price of AI | youtube | 5 | 2026-03-22 |
 | Mark Zuckerberg — AI will write most Meta code in 18 months | youtube | 5 | 2026-04-10 |
@@ -848,6 +852,7 @@ Generated on 2026-04-11 | 2599 sources
 | Ponzi: The Financial Idiot Who Scammed the World | youtube | 5 | 2026-03-30 |
 | Porsche (with Doug DeMuro) | youtube | 5 | 2026-04-11 |
 | Real vs Fake Startups | youtube | 5 | 2026-03-29 |
+| Renaissance Technologies (Audio) | youtube | 5 | 2026-04-11 |
 | Richard Sutton – Father of RL thinks LLMs are a dead end | youtube | 5 | 2026-04-10 |
 | Rick Beato: Greatest Guitarists of All Time, History & Future of Music | Lex Fridman Podcast #492 | youtube | 5 | 2026-03-23 |
 | Robinhood CEO: Making Everyone An Owner | youtube | 5 | 2026-03-22 |
@@ -875,6 +880,8 @@ Generated on 2026-04-11 | 2599 sources
 | Solving Wordle using information theory | youtube | 5 | 2026-03-30 |
 | Some thoughts on the Sutton interview | youtube | 5 | 2026-04-10 |
 | Something Strange Happens When You Follow Einstein's Math | youtube | 5 | 2026-03-30 |
+| SONY (75 years of electronics history in 3 hours) | youtube | 5 | 2026-04-11 |
+| Starbucks (with Howard Schultz) | youtube | 5 | 2026-04-11 |
 | Stephen Kotkin — How Stalin became the most powerful dictator in history | youtube | 5 | 2026-04-10 |
 | Stephen Wolfram: Computational Universe | MIT 6.S099: Artificial General Intelligence (AGI) | youtube | 5 | 2026-03-27 |
 | Terence Tao – How the world’s top mathematician uses AI | youtube | 5 | 2026-04-10 |
@@ -920,6 +927,7 @@ Generated on 2026-04-11 | 2599 sources
 | The Zipf Mystery | youtube | 5 | 2026-03-30 |
 | These are the asteroids to worry about | youtube | 5 | 2026-03-30 |
 | This Unstoppable Robot Could Save Your Life | youtube | 5 | 2026-03-30 |
+| Trader Joe’s (Audio) | youtube | 5 | 2026-04-11 |
 | Transformers, the tech behind LLMs | Deep Learning Chapter 5 | youtube | 5 | 2026-03-30 |
 | Trump 2.0, DOGE, and America's Global Decline with Sam Harris and Jonah Goldberg | youtube | 5 | 2026-03-30 |
 | Trump, Ukraine, and The Future of Geopolitics with Sam Harris and Niall Ferguson | youtube | 5 | 2026-03-30 |
@@ -927,6 +935,7 @@ Generated on 2026-04-11 | 2599 sources
 | Unlimited War: Putin vs Bismarck – Sarah Paine | youtube | 5 | 2026-04-10 |
 | Visa (Audio) | youtube | 5 | 2026-04-11 |
 | Vitalik: Ethereum, Part 1 | youtube | 5 | 2026-03-30 |
+| Walmart | youtube | 5 | 2026-04-11 |
 | Was The War Against Japan Avoidable? - Sarah Paine | youtube | 5 | 2026-04-10 |
 | Watch This If You Have a Service Business | youtube | 5 | 2026-03-22 |
 | What Alcohol Does to Your Body, Brain & Health | youtube | 5 | 2026-03-30 |
@@ -2559,7 +2568,6 @@ Generated on 2026-04-11 | 2599 sources
 | Write Simply | blog | 0 | 2026-03-31 |
 | Writing, Briefly | blog | 0 | 2026-03-31 |
 | YC W26 Batch: Complete Database of 196 Companies (2026) | blog | 0 | 2026-03-30 |
-| 10 Years of Acquired (with Michael Lewis) | youtube | 0 | 2026-04-11 |
 | ACQ2: The Art of Selling Enterprise Software (with ServiceNow CEO Bill McDermott) | youtube | 0 | 2026-04-11 |
 | Acquired LIVE from Chase Center (with Daniel Ek, Emily Chang, Jensen Huang and Mark Zuckerberg) | youtube | 0 | 2026-04-11 |
 | Amazon Web Services | youtube | 0 | 2026-04-11 |
@@ -2567,12 +2575,9 @@ Generated on 2026-04-11 | 2599 sources
 | Bill Nye: Creationism Is Not Appropriate For Children | Big Think | youtube | 0 | 2026-03-30 |
 | Brainf**k in 100 Seconds | youtube | 0 | 2026-03-30 |
 | Charlie Munger (Audio) | youtube | 0 | 2026-04-11 |
-| Costco (Audio) | youtube | 0 | 2026-04-11 |
 | Donut-shaped C code that generates a 3D spinning donut | youtube | 0 | 2026-03-30 |
 | If You Want to Learn, Do | youtube | 0 | 2026-03-30 |
-| IKEA (Audio) | youtube | 0 | 2026-04-11 |
 | Improvising in Africa.  Warning - GROSS - Smarter Every Day 28 | youtube | 0 | 2026-03-30 |
-| Lockheed Martin (Audio) | youtube | 0 | 2026-04-11 |
 | Mind Field - Official Trailer | youtube | 0 | 2026-03-30 |
 | NVIDIA CEO Jensen Huang | youtube | 0 | 2026-04-11 |
 | Nvidia Part III: The Dawn of the AI Era (2022-2023) (Audio) | youtube | 0 | 2026-04-11 |
@@ -2580,8 +2585,6 @@ Generated on 2026-04-11 | 2599 sources
 | Nvidia: The Machine Learning Company (2006-2022) | youtube | 0 | 2026-04-11 |
 | Python in 100 Seconds | youtube | 0 | 2026-03-30 |
 | Qualcomm | youtube | 0 | 2026-04-11 |
-| Renaissance Technologies (Audio) | youtube | 0 | 2026-04-11 |
-| SONY (75 years of electronics history in 3 hours) | youtube | 0 | 2026-04-11 |
 | Spend More Time Making the Big Decisions | youtube | 0 | 2026-03-30 |
 | Spotify CEO Daniel Ek | youtube | 0 | 2026-04-11 |
 | Stable diffusion dreams of "blueberry spaghetti" for one night | youtube | 0 | 2026-04-10 |
@@ -2590,15 +2593,12 @@ Generated on 2026-04-11 | 2599 sources
 | Stable diffusion dreams of steampunk brains | youtube | 0 | 2026-04-10 |
 | Stable diffusion dreams of tattoos | youtube | 0 | 2026-04-10 |
 | Standard Oil Part 1 | youtube | 0 | 2026-04-11 |
-| Starbucks (with Howard Schultz) | youtube | 0 | 2026-04-11 |
 | The Jamie Dimon Interview: How JP Morgan Became an $800 Billion Bank | youtube | 0 | 2026-04-11 |
 | The Mark Zuckerberg Interview | youtube | 0 | 2026-04-11 |
 | The Playbook: Lessons from 200+ Company Stories | youtube | 0 | 2026-04-11 |
 | The Steve Ballmer Interview | youtube | 0 | 2026-04-11 |
-| Trader Joe’s (Audio) | youtube | 0 | 2026-04-11 |
 | Trailer: What is Acquired? | youtube | 0 | 2026-04-11 |
 | TSMC founder Morris Chang | youtube | 0 | 2026-04-11 |
 | TSMC (Remastered) | youtube | 0 | 2026-04-11 |
 | Uber CEO Dara Khosrowshahi | youtube | 0 | 2026-04-11 |
-| Walmart | youtube | 0 | 2026-04-11 |
 | Your desires are not yours. | youtube | 0 | 2026-03-30 |

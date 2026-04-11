@@ -53,6 +53,7 @@ related:
   - INS-260330-3E64
   - INS-260403-2FC3
   - INS-260403-BC3B
+  - INS-260410-F38A
 stance: >-
   When COVID canceled 120 fully-booked rooms and left 2 months of runway,
   pivoting share houses to quarantine facilities and building a university qu...

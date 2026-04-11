@@ -65,6 +65,7 @@ related:
   - INS-260404-96E6
   - INS-260324-5481
   - INS-260403-F234
+  - INS-260410-D2D1
 ---
 Barnes & Noble had a vastly larger distribution system than Amazon in 1997—but it was tuned for shipping large batches of books to physical stores. Building Amazon-style fulfillment centers that ship unique one-off orders to individual customers would have required reorganizing their entire operation, diverting their best executives, and knowingly cannibalizing the higher-margin store business. The incentives made it impossible, so they didn't do it. Brad Stone captured this exactly: 'for Amazon that was just daily business.'
 

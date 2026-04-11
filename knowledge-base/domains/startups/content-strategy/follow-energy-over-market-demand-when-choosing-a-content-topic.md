@@ -55,6 +55,7 @@ related:
   - INS-260403-09CB
   - INS-260322-F128
   - INS-260327-D982
+  - INS-260410-CB92
 ---
 Lenny deliberately chose a broader topic area than classic niche advice would suggest — he covers product, growth, career, and startups rather than just product management. His reasoning: he'd get bored writing only about PM, and boredom kills consistency, which kills quality, which kills growth. The ordering matters: energy first, experience second, audience demand third.
 

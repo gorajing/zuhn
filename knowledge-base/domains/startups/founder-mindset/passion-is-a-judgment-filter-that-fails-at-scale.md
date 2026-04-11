@@ -47,10 +47,10 @@ stance: >-
   passion-aligned work becomes 80% unenjoyable operations at scale
 related:
   - INS-260323-979C
+  - INS-260410-1C96
   - INS-260329-FE15
   - INS-260327-432E
   - INS-260403-2B63
-  - INS-260403-4120
 evidence:
   - id: INS-260403-2B63
     type: CONTRADICTS

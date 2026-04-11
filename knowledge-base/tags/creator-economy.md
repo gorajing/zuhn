@@ -21,6 +21,8 @@
 - `INS-260405-6019` Expertise plus authenticity is outcompeting institutional authority as the basis for trusted information.
 - `INS-260329-0F10` The primary barrier to audience growth is premature quitting, not lack of skill—making persistence itself the competitive moat.
 - `INS-260403-29EB` Lenny crossed 1,000 paid subscribers and exceeded his Airbnb PM Lead salary within months of launching paid.
+- `INS-260410-CB92` A CNBC article is worth 2% of its value within a month; Acquired targets 80% value at five years, and that choice drives every other decision.
+
 - `INS-260403-6908` With 64% of people mistrusting journalists and 74% trusting 'someone like me,' individual creators are becoming preferred information sources.
 - `INS-260329-C092` Specialists bypass gatekeepers to deliver expert analysis directly to niche audiences who fund the work through subscriptions
 - `INS-260330-80A7` Vine died because it couldn't pay creators — when top Viners demanded $1.2M each annually and Twitter refused, they left, triggering a death spiral that killed the platform within two years.
@@ -28,7 +30,7 @@
 - `INS-260320-446F` Hire content creators directly (Gmail in bio, 5-10K followers) — if their email is at an agency, the arbitrage is already gone.
 - `INS-260403-8FC1` The creator economy startup field is shrinking but surviving companies are in a healthier competitive position than during the boom.
 - `INS-260405-1F65` Independent creators on YouTube, podcasts, and Substack now produce the most rigorous public intellectual discourse, displacing universities and legacy media.
+- `INS-260403-4D1E` Lenny's 1M-subscriber business runs with zero full-time employees, using specialized freelancers for editing, production, and community management.
 - `INS-260403-4C4E` As the music industry's distribution monopoly collapsed, musicians who learned business strategy gained control over their brand, customers, and revenue.
 - `INS-260403-6E76` The erosion of gatekeepers is pulling ambitious people away from test-hacking careers toward fields where genuine quality wins.
-- `INS-260403-4D1E` Lenny's 1M-subscriber business runs with zero full-time employees, using specialized freelancers for editing, production, and community management.
 - `INS-260329-6B2C` Follow multiple educators' free content for seven days — whoever delivers the most tactical value for free likely has the best paid offering, minimizing purchase risk.

@@ -59,6 +59,7 @@ related:
   - INS-260403-F852
   - INS-260403-8C41
   - INS-260403-6BA6
+  - INS-260410-899C
 ---
 Initial deal selection gets most of the attention in venture, but capital allocation decisions made mid-fund—how much to reserve for follow-ons, whether to recycle returned capital into new positions—have an outsized effect on final fund performance. A VC who correctly identifies a winner but fails to follow on in subsequent rounds may see that winner's returns diluted relative to a fund that concentrated aggressively.
 

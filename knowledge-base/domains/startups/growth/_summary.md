@@ -1,6 +1,6 @@
 # Topic: growth
 
-> 109 insights
+> 110 insights
 
 - `INS-260404-1A9D` [high] When an AI product cuts process time by 92%, the switching cost of NOT adopting it exceeds the cost of change, driving organic product-led growth.
 - `INS-260330-73A2` [high] Growth equals conversion minus churn, and reducing churn by 1% has the identical mathematical effect on growth as increasing conversion by 1%, but costs significantly less.
@@ -95,6 +95,8 @@
 - `INS-260405-E7EF` [medium] The self-serve free trial model is losing efficacy in B2B SaaS as buyers expect more guided, outcome-focused evaluation experiences.
 - `INS-260404-F8AF` [medium] Dedicate 20-25% of growth resources to exploring new channels because current tactics will hit diminishing returns within 18 months.
 - `INS-260330-D711` [medium] The Mongol Empire's most lasting contributions — revived Silk Road trade, the yam communication system, cross-cultural exchange — were infrastructure plays, not military victories.
+- `INS-260410-537E` [medium] Acquired's Nintendo episode underperformed the benchmark but landed with one Meta exec who forwarded it to Zuckerberg — which unlocked the 6,000-seat Chase Center show.
+
 - `INS-260410-2C92` [medium] The canonical invite-only growth mechanic — now copied by every AI product launch — originated as operational cost rationing at Gmail, not as a psychology play.
 - `INS-260402-D7DE` [medium] Five interconnected metrics — K-factor, cycle time, drop-off rate, loop retention, and reinvestment rate — form the diagnostic system for growth loop health.
 - `INS-260403-1432` [medium] Casting a wide net with post-hoc quality sorting achieves better geographic coverage than pre-filtering volunteers.

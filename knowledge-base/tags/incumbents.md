@@ -15,6 +15,7 @@
 - `INS-260403-C1F5` Bonus-driven executives optimize for extracting value from existing models rather than building new ones, creating openings for equity-motivated challengers.
 - `INS-260405-6524` Billable-hours and per-seat pricing create a structural disincentive for incumbents to adopt AI, giving startups a temporary but real market-share window.
 - `INS-260330-FF09` The same focus that builds a monopoly prevents the company from destroying it, even when survival requires exactly that.
+- `INS-260410-F856` Butler Brothers refused Walton's offer to partner on discounting because it would blow up their franchisee markup business — the same dynamic that lets every new entrant with a better model win.
 - `INS-260330-9014` Blockbuster's 60,000 employees and thousands of stores — once their moat — became their biggest liability when streaming eliminated the need for physical locations.
 - `INS-260403-A0B0` Incumbents holding existing user data and daily engagement have a near-insurmountable AI distribution advantage.
 - `INS-260403-F234` Buying distribution then forcing technology change fails because legacy organizations resist replacing systems that already work for them.

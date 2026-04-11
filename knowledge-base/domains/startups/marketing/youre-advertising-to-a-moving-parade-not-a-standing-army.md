@@ -61,6 +61,7 @@ related:
   - PRI-260406-B97E
   - INS-260329-776B
   - INS-260403-4D04
+  - INS-260410-70F3
 ---
 David Ogilvy observed that advertisers make the mistake of believing they're talking to a fixed audience ('standing army'), when in reality new people are constantly entering and leaving attention ('moving parade'). Coca-Cola runs essentially the same ad for a century and Apple maintains permanent billboards in every major city because the audience that sees them this week is largely different from the audience that saw them last year. The practical consequence for content businesses: republishing an old hit episode will often outperform a new release because 75% of current subscribers have never heard it. Senra discovered this when Acquired's Sequoia episode — their best work — was invisible to most of their audience simply because it predated them.
 

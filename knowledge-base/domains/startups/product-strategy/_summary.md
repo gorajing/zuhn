@@ -1,6 +1,6 @@
 # Topic: product-strategy
 
-> 78 insights
+> 84 insights
 
 - `INS-260405-4AAD` [high] Juicero raised $120M for technology that was immediately undermined when customers realized the same outcome was achievable by hand.
 - `INS-260330-809A` [high] Apple's acquisition pattern — Authentec for Touch ID, Siri for voice, NeXT for Jobs — shows that buying capabilities yields higher returns than buying businesses.
@@ -8,11 +8,13 @@
 - `INS-260403-EAF7` [high] Solve the real problem and deliberately ignore peripheral concerns that seem important but aren't.
 - `INS-260330-766D` [high] Alfred Lin's principle from Zappos — culture and brand are two sides of the same coin — means that whatever happens inside the company eventually comes out.
 - `INS-260404-0CA7` [high] Vertical SaaS that bundles financial and operational workflows becomes nearly impossible to rip out.
+- `INS-260410-BED1` [high] A tabletop needs a harder-wearing finish than a bookshelf's interior shelf — spending equally on both just hurts the customer through higher price.
 - `INS-260403-FB4D` [high] Compare enterprise software by capabilities (outcomes enabled) rather than features (functionality offered) to make better purchasing decisions.
 - `INS-260403-4388` [high] Andrew Chen's data shows churn is almost impossible to fix retroactively, making early retention the critical PMF signal.
 - `INS-260403-204E` [high] In vertical AI, the defensible position is owning the control point that facilitates the transaction, not just saving time on adjacent tasks.
 - `INS-260403-E86E` [high] The most powerful defensibility lever is turning your product from a single-player game into a multi-player network.
 - `INS-260404-C720` [high] Start by making a few users love you rather than many users tolerate you.
+- `INS-260410-6BFF` [high] Pick a shockingly low target price first, then reinvent every step of the supply chain to make that price possible.
 - `INS-260404-95BA` [high] Treating design as a first-class strategic concern creates self-reinforcing competitive advantage.
 - `INS-260403-0041` [high] Focus groups discover stated preferences; great designers satisfy expectations customers didn't know they had.
 - `INS-260330-0BBA` [high] Listen to customer problems deeply but translate them into the simplest possible solution, which is often not what the customer literally asked for.
@@ -30,6 +32,7 @@
 - `INS-260330-2306` [high] Your job is to hear the problem behind the request and build the simplest solution to that problem.
 - `INS-260403-2DB2` [high] Live ops creates a compounding advantage: each data-driven iteration personalizes the experience further, building a moat that static competitors cannot match.
 - `INS-260403-3656` [high] Stripping live ops from a successful game would lose roughly 40% of revenue — yet most non-game companies don't invest in equivalent continuous content operations.
+- `INS-260410-0AA8` [high] Morita forced the Walkman through over near-unanimous internal opposition by pledging to resign if the first 30,000 units didn't sell — because no focus group could have predicted people would walk around in public wearing headphones.
 - `INS-260404-97AA` [high] Halo targets ALS and locked-in syndrome patients first, creating emotional demonstrations and clinical validation before pursuing consumer augmentation.
 - `INS-260404-9E4E` [high] Mission-critical products like Datadog must earn the right to expand by first achieving exceptional core reliability, which delays but ultimately strengthens multi-product moves.
 - `INS-260404-68EE` [high] 78% of public software companies above $5B market cap are multi-product, making it effectively mandatory for outsized outcomes.
@@ -37,6 +40,7 @@
 - `INS-260404-95D0` [high] The email system's fundamental vulnerability is that sending messages has no consequences for the sender.
 - `INS-260403-4964` [high] The App Store, launched a year after iPhone, became a stronger moat than the hardware itself through developer network effects.
 - `INS-260403-EC8A` [high] Play-to-earn models collapse when growth slows because users attracted by money leave when earnings drop, triggering a reflexive downward spiral.
+- `INS-260410-ABFF` [high] Walmart's Great Value and Costco's Kirkland compete against brands on price; Trader Joe's refuses to launch a private label product unless it's differentiated on recipe, packaging, size, or merchandising — which is why the house brand carries the store's own name.
 - `INS-260404-2BDA` [high] Effective product strategy must include explicit 'not in focus' areas alongside strategic pillars to force real tradeoffs.
 - `INS-260403-A8F3` [high] Build for yourself first — products aimed 'down' at a mainstream audience tend to produce mediocre outcomes.
 - `INS-260404-A9D0` [high] Bid-times-conversion ranking resolves the monetization-vs-quality trade-off by making them the same objective function.
@@ -51,10 +55,12 @@
 - `INS-260404-E4F1` [high] A structured 5-phase strategy process over 8-12 weeks creates repeatable strategic clarity without the overhead of annual planning cycles.
 - `INS-260403-B73A` [high] When A.Team made teams rather than individuals the core unit, participants stopped competing on price and started complementing each other, breaking the asymptotic ceiling.
 - `INS-260403-8793` [high] Replit's decade of integrating editor, database, and hosting into one container was the only reason AI agents could autonomously write, test, and deploy code — a moat competitors cannot quickly replicate.
+- `INS-260410-9F29` [high] The coffee was the conduit. The product was community.
 - `INS-260403-2D39` [high] Redpoint's framework demands a narrow high-urgency use case with real user love that naturally expands into larger product surfaces where quality sustains pricing power.
 - `INS-260404-E5EB` [high] Delight operates through three pillars: removing friction, anticipating needs, and exceeding expectations.
 - `INS-260402-3CF1` [high] Airdrop farming, data portability, and pseudonymous wallets break every traditional PMF measurement framework.
 - `INS-260403-C4CD` [high] RuBisCo's oxygen-confusion creates toxic phosphoglycolate that plants must dedicate entire enzyme pathways to neutralize — a pattern mirrored in any high-throughput system.
+- `INS-260410-671A` [high] The core unlock of Trader Joe's was realizing wine is the ultimate non-commodity commodity, then asking: what if we merchandise granola, nuts, frozen dinners, and everything else the same way?
 - `INS-260403-E69C` [high] Waze discovered churned users understood the mission completely — the only difference between retained and churned users was patience with broken core functionality.
 - `INS-260404-380C` [high] Apple Pay succeeded because its value proposition enabled its business model and vice versa — the two were designed as a tightly coupled system rather than sequentially.
 - `INS-260403-0196` [high] Great value propositions concentrate on very few customer jobs, pains, or gains but deliver outstanding depth in those areas.

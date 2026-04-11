@@ -46,13 +46,13 @@ related:
   - PRI-260328-5053
   - PRI-260406-5854
   - PRI-260324-7ED9
+  - INS-260410-1D7A
   - INS-260327-092E
-  - PRI-260328-1545
   - INS-260324-358F
-  - INS-260325-4CBB
   - INS-260327-BF59
   - INS-260327-0FD9
   - INS-260328-F3C4
+  - INS-260330-744E
 stance: >-
   Brisket shrinks to 40% yield after trimming and smoking, requires 10-18 hours
   of intuition-based cooking, and can't be made on demand

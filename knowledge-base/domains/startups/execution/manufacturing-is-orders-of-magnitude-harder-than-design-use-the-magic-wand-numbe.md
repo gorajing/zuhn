@@ -58,6 +58,7 @@ related:
   - INS-260322-D079
   - INS-260324-A046
   - INS-260327-5973
+  - INS-260410-BED1
 evidence:
   - id: INS-260322-D079
     type: CHALLENGES

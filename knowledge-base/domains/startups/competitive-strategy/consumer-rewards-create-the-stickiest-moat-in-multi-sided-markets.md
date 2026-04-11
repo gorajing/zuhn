@@ -62,10 +62,10 @@ stance: >-
   disruption structurally impossible.
 related:
   - INS-260321-AA91
+  - INS-260410-90C5
   - INS-260327-CFC5
   - INS-260410-9246
   - INS-260327-D52B
-  - INS-260402-426C
 ---
 Visa's real moat is not technology, network density, or even bank relationships — it's that consumers love their rewards so much they advocate for the system against merchants who are trying to disintermediate it. When a merchant tries to get a consumer to pay via ACH or a proprietary rail, the consumer has to forgo 1-5% in cashback, points, or miles. Matching that requires the merchant to absorb a cost greater than interchange itself, which defeats the whole exercise.
 

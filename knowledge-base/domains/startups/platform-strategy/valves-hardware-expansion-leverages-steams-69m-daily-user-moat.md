@@ -58,8 +58,8 @@ related:
   - INS-260403-6A69
   - INS-260403-C7A0
   - INS-260405-55E0
+  - INS-260410-2106
   - INS-260330-CCF0
-  - INS-260403-5CAD
 ---
 Steam's 69 million daily active users represent a distribution asset that fundamentally changes the risk calculus for Valve's hardware expansion. Nintendo, Xbox, and PlayStation all had to build platform audiences from scratch alongside their hardware. Valve enters with an existing library of hundreds of thousands of games and a decade-trained purchasing habit.
 

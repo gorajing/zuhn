@@ -1,6 +1,6 @@
 # Topic: growth-strategy
 
-> 77 insights
+> 78 insights
 
 - `INS-260329-AF18` [high] Before exploring new growth channels, exhaust 10x potential in your current working channel first.
 - `INS-260402-24B0` [high] Unlike SaaS where marginal cost trends to zero, every AI user incurs real compute cost, making undisciplined distribution a path to margin collapse.
@@ -8,6 +8,7 @@
 - `INS-260328-B57E` [high] Do not be discouraged by others' growth, but do not accept slow growth either — better tools mean you should be going faster than before.
 - `INS-260330-931A` [high] Uber's playbook of subsidizing rides to build a loyal user base before regulators could act turned public support into a political shield.
 - `INS-260410-8C24` [high] Microsoft sold to the enterprise by leveraging the fact that employees had already smuggled Excel and Word into their offices personally — turning employee love into the wedge for top-down enterprise deals.
+- `INS-260410-1C96` [high] Size ambition to the reach of your brand equity, not the size of your revenue.
 - `INS-260403-B610` [high] Canva built a $2B revenue engine by layering enterprise sales on top of a massive freemium user base rather than pivoting away from it.
 - `INS-260323-CE9A` [high] Rella's CEO and co-founders still personally handle customer support — the number one compliment they receive is 'we can tell you actually listen to us.'
 - `INS-260327-B357` [high] Intuit's accountant channel drives faster sales cycles, higher retention, and broader product adoption — but only because they invest in making accountants genuine partners who use the product themselves, not just resellers.

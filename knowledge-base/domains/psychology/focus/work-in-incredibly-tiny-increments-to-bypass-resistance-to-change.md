@@ -50,9 +50,9 @@ stance: >-
 related:
   - PRI-260328-4313
   - INS-260330-30F0
+  - INS-260410-3043
   - INS-260323-7EEB
   - INS-260403-4803
-  - INS-260328-EA3A
 evidence:
   - id: INS-260323-7EEB
     type: TRANSFERS_TO

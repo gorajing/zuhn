@@ -52,10 +52,10 @@ related:
   - PRI-260323-8EEA
   - INS-260327-76DA
   - INS-260330-3F24
-  - INS-260330-3A7B
   - INS-260403-3A67
   - INS-260403-10C8
   - PRI-260403-26B9
   - INS-260403-A57D
+  - INS-260403-F6EC
 ---
 Only 1 in 12 startups raise a Series A, and fewer than 10% of funded startups achieve a significant exit. Yet media coverage disproportionately highlights fundraising milestones, creating a false impression that raising capital is both necessary and sufficient for success. This coverage bias leads founders to optimize pitch decks and investor narratives rather than unit economics and retention. Canva's Melanie Perkins was rejected by 100+ investors but kept refining the product and only raised when foundations were solid. The article argues that many profitable, sustainable companies grow through bootstrapping or customer-funded models but receive no press because quiet profitability isn't newsworthy. Founders should treat fundraising as a growth accelerant for proven models, not as the validation event itself.

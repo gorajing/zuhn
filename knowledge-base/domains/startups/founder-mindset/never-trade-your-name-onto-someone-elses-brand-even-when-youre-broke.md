@@ -60,11 +60,12 @@ related:
   - INS-260330-8998
   - INS-260330-A561
   - INS-260330-59FD
-  - INS-260403-C349
   - INS-260410-111A
+  - INS-260410-ABFF
+  - INS-260403-C349
+  - INS-260410-431E
   - INS-260330-27E8
-  - INS-260323-78A5
-  - INS-260323-104E
+  - INS-260410-95BC
 ---
 The recurring test in founder biographies: early in the company's life, a much larger distributor offers to take massive volume if you'll strip your name off the product and sell under theirs. The short-term math always favors the deal — you're broke, the cash is existential, the unit economics are decent. Akio Morita said no when Bulova offered him 100,000 radios. Ralph Lauren said no to Bloomingdale's in his apartment under the el train. Senra (at much smaller scale) turned down 15+ acquisition and sponsorship offers for Founders that would have traded ownership for guaranteed capital.
 

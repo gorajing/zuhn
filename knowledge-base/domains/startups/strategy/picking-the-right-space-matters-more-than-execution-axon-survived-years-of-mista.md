@@ -48,6 +48,7 @@ related:
   - INS-260403-ADF9
   - INS-260405-3E4E
   - INS-260327-8B5B
+  - INS-260410-BF1C
 stance: Axon was a struggling single-product startup for a decade
 ---
 Business theory says the most important ingredient for success is picking the right space. Axon embodied this: directionless for years, under fire from media and politicians. Then a series of high-profile police brutality incidents ignited nationwide protests, and demand for bodycam footage skyrocketed. Lawmakers, caught between public anger and police dependence, chose data as a neutral ground. Axon was positioned to capture this demand because they'd been treading water in the space, developing expertise. You can make lots of mistakes, but once the market trends your direction, momentum compounds rapidly.

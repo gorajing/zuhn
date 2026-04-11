@@ -51,8 +51,8 @@ related:
   - INS-260404-E4B8
   - INS-260327-31B8
   - INS-260409-9509
+  - INS-260410-BF1C
   - INS-260403-E6A8
-  - INS-260330-BBEE
 ---
 The Apollo 8 Earthrise was not on the flight plan. Anders was photographing the lunar surface when he noticed Earth rising, scrambled for color film, and his crewmates helped him grab it in time. 'Don't take that off schedule' a voice warns on the tape — they did anyway. The Artemis II solar eclipse was only possible because the launch happened to slip to April 1st; no earlier or later date would have produced the geometry. In both cases, the image exists because humans were present, alert, and empowered to deviate from the script.
 

@@ -48,7 +48,6 @@ stance: >-
   AI startups built primarily as API wrappers around foundation models will die
   because they have zero control over their core value chain.
 related:
-  - INS-260324-1CC8
   - INS-260327-AB2A
   - PRI-260406-72B3
   - INS-260323-1D15

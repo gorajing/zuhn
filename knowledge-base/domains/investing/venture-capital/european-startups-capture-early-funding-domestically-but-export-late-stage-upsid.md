@@ -50,7 +50,6 @@ stance: >-
   founders systematically transfer wealth creation to American LPs at the moment
   of highest value
 related:
-  - INS-260403-7708
   - INS-260402-180C
   - PRI-260406-4D4E
   - INS-260403-5056

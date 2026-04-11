@@ -51,7 +51,6 @@ stance: >-
   generates more high-quality deal flow than any other sourcing strategy
 related:
   - INS-260327-088E
-  - INS-260403-AA09
   - INS-260403-FED1
   - INS-260403-ECB2
   - INS-260403-62D1

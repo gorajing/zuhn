@@ -51,7 +51,7 @@ related:
   - INS-260320-CDE4
   - INS-260410-199B
   - INS-260410-6F67
+  - INS-260410-D5FC
   - PRI-260328-99F0
-  - INS-260329-793D
 ---
 Horizontal AI platforms like ChatGPT establish a global reference point for AI quality. Users don't compartmentalize their expectations — if a general model can understand nuanced requests, they expect the same from a specialized industry tool even if the vertical context is far more constrained. This creates a compounding problem: as frontier models improve, the implicit bar for every downstream AI product rises in lockstep. For AI startups, this means competitive positioning against other vertical tools is insufficient — the relevant benchmark is always the best general-purpose AI the user has touched. Products that succeed do so by offering something the horizontal tools genuinely can't (deep integration, proprietary data, workflow context) rather than trying to match raw capability.

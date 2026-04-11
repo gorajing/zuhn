@@ -5,6 +5,7 @@
 - `INS-260409-1A44` You have permission to shrink the team before pivoting — the ship is going down and directors who aren't helping aren't helping.
 - `INS-260403-78AD` Solo founders now start over a third of new startups as AI tools replace functions that previously required full teams.
 - `INS-260403-9F49` YC data shows founding team size correlates strongly with capital raised while educational background and brand-name employment explain little variance.
+- `INS-260410-C4BB` Kelly Johnson built the first US jet fighter in 143 days with 23 engineers and 30 shop workers in a literal circus tent, codifying it as Skunk Works Rule 3: restrict team size in an almost vicious manner.
 - `INS-260403-0185` The best products come from small, opinionated teams — committees produce bureaucratic compromises.
 - `INS-260403-CEB7` The best products come from teams of 4-6, not 40-60 — the original Mac was 20 people, the iPhone was 24.
 - `INS-260330-1F41` Banning Slack raises communication friction intentionally, keeping teams small, preventing asymmetric time-wasting, and protecting creative deep work.

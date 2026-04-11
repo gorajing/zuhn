@@ -16,6 +16,7 @@
 - `INS-260403-183D` eDreams launched in 4 countries simultaneously, retreated to 2 profitable markets after the bubble burst, then expanded to 40+ with a proven model.
 - `INS-260403-924B` The biggest startup opportunities come from using technology to break through consolidated industries, not from inventing new categories.
 - `INS-260403-710A` Capturing the top 10,000 expert users in a domain gives you outsized strategic power because they set quality benchmarks for the broader market.
+- `INS-260410-8D9D` Research describes what customers have already done, never what they will do in a category that doesn't exist yet.
 - `INS-260404-8791` Democratic governance alignment between India and the US reduces political risk, regulatory unpredictability, and cultural friction for American entrepreneurs in ways that create durable structural advantages.
 - `INS-260403-8BE9` Stablecoins gain traction first in markets like Kenya, Turkey, Argentina, and Venezuela where local currencies are unstable and physical dollar access is restricted.
 - `INS-260403-21A7` Being founded in a small domestic market like Australia forces global-first architecture that US-based competitors struggle to retrofit.

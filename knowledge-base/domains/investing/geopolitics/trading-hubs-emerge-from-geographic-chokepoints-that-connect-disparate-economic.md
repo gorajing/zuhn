@@ -56,6 +56,7 @@ related:
   - INS-260327-B950
   - INS-260330-9BC4
   - PRI-260321-0A4D
+  - INS-260410-3B42
 ---
 Venice's millennium of dominance was built on geography: positioned between Western Europe and the Byzantine/Islamic East, it became the indispensable middleman for the most valuable trade routes in the medieval world. Venetian merchants bought spices and silk in Constantinople and sold them to Western Europe, while exporting grain and wine eastward. The lagoon location was an added defensive advantage — armies that tried to attack by land literally couldn't reach it.
 

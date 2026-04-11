@@ -8,16 +8,16 @@
 - `INS-260404-FC20` Quantum computing repurposes the quantum tunneling effect that limits classical transistor shrinkage as a computational resource rather than a bug.
 - `INS-260325-F21D` Digital computers abstract reality into zeros and ones, but molecules and diseases are not zeros and ones — quantum computers work with electrons and atoms directly, making them native to simulating biological reality.
 - `INS-260410-DD35` From 2012-2020 was research, 2020-2025 was scaling, and now we're back to research with big computers because 100x more scale would not transform outcomes.
+- `INS-260330-0FA7` The PADIRKO mouse (kidney-specific insulin receptor knockout) develops diabetic nephropathy with normal blood glucose — proving insulin itself, not glucose, drives metabolic organ damage.
 - `INS-260404-4F1B` Solar's 99.9% cost decline since 1975 demonstrates how manufacturing learning curves create inevitable cost dominance over extraction-based competitors.
 - `INS-260330-22F0` Before psychoanalysis, mentally ill patients were confined to sanatoriums; Freud's talk therapy demonstrated that conversation itself could be curative.
-- `INS-260330-0FA7` The PADIRKO mouse (kidney-specific insulin receptor knockout) develops diabetic nephropathy with normal blood glucose — proving insulin itself, not glucose, drives metabolic organ damage.
-- `INS-260403-AFC4` Paradigms shape not just what we think but the mental components we think with, creating invisible evaluation bias against novel ideas.
 - `INS-260330-C366` Psychedelic therapy's one-session-lasting-change model breaks the pharmacological assumption that psychiatric treatment requires continuous chemical intervention.
+- `INS-260403-AFC4` Paradigms shape not just what we think but the mental components we think with, creating invisible evaluation bias against novel ideas.
 - `INS-260409-02C5` The standard model of cosmology still explains the CMB, primordial hydrogen/helium abundances, and large-scale galaxy clustering with extraordinary precision; the cracks are real but localized, and conflating 'in crisis' with 'dead' is a category error.
-- `INS-260330-DBA4` We abandoned solar time because mechanical clocks were more regular than the sun, choosing invented precision over natural truth.
-- `INS-260330-F9FB` The tallest human structures shifted from pushing against gravity (compression) to hanging from anchor points (tension), revealing how reframing constraints unlocks new solution spaces.
 - `INS-260323-E77E` Bohm and Aharonov, both academic outsiders — one exiled by McCarthyism, the other a student — overturned 200 years of physics consensus because their marginalization freed them from orthodoxy.
 - `INS-260330-0FCC` Disciplinary training creates perceptual filters that make anomalies invisible to insiders but obvious to outsiders.
+- `INS-260330-DBA4` We abandoned solar time because mechanical clocks were more regular than the sun, choosing invented precision over natural truth.
+- `INS-260330-F9FB` The tallest human structures shifted from pushing against gravity (compression) to hanging from anchor points (tension), revealing how reframing constraints unlocks new solution spaces.
 - `INS-260403-A862` Incumbents' existing architecture and customer base anchor them to old threat models when the battleground shifts.
 - `INS-260327-98DE` AI breakthroughs that look like bugs will become common across all knowledge work.
 - `INS-260403-E492` Waiting for disease then treating it ('sick care') can't overcome aging's exponential decay — only preemptive renewal ('health care') can.

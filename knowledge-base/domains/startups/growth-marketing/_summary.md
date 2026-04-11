@@ -1,6 +1,6 @@
 # Topic: growth-marketing
 
-> 149 insights
+> 150 insights
 
 - `INS-260320-630D` [very_high] Frame your product as a solution to a problem, not a toy — a video framing Coconote as a fun toy got 41M views but terrible conversion, while solution-framed videos converted far better.
 - `INS-260320-080B` [very_high] Ask customers how they describe your product, then use their exact words as marketing copy — Coconote asked and the majority said "never miss a key detail," which became their App Store headline.
@@ -145,6 +145,7 @@
 - `INS-260409-1298` [medium] Pick the platform where your buyers are dense and competing voices are sparse, not the one with the most users.
 - `INS-260403-2054` [medium] Start with inbound and outbound channels that already show organic traction signals, and reserve paid channels for post-PMF scaling.
 - `INS-260322-D57C` [medium] When scaling, CEOs cannot just delegate customer-facing work — they must personally demonstrate the brand's standard alongside new employees so sensibility transfers through shared experience.
+- `INS-260410-70F3` [medium] IKEA invented the 'exhibition' — a single physical showroom that existed only to make customers trust the mail-order catalog enough to buy from it.
 - `INS-260323-E1BE` [medium] Find people on social media who publicly complain about the product you're replacing, build genuine trust, then offer your alternative — this direct approach converts better than any ad campaign.
 - `INS-260329-7B56` [medium] Reviews that mention real downsides before praising outcomes are more believable and convert better than pure five-star praise.
 - `INS-260322-1435` [medium] New TikTok Ads accounts get matched spending credits (spend $200, get $200 free) plus recurring coupons, effectively halving your early ad costs.

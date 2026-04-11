@@ -53,10 +53,10 @@ stance: >-
   investment allocation.
 related:
   - INS-260405-BC10
+  - INS-260410-C445
   - INS-260330-D272
   - INS-260404-109D
   - INS-260330-067C
-  - PRI-260322-9E36
 ---
 Chamath admits he missed China's unprecedented growth period because he couldn't speak the language, didn't understand the political landscape, and felt like an outsider. In contrast, India's English proficiency, democratic alignment with the US, and favorable conditions for American entrepreneurs made it feel approachable.
 

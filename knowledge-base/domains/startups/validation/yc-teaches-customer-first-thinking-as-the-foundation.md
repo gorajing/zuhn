@@ -44,7 +44,6 @@ stance: >-
   technology or idea.
 related:
   - INS-260323-C4E2
-  - INS-260320-07A2
   - PRI-260320-D2E1
   - INS-260327-005D
   - INS-260327-EC45
@@ -53,6 +52,7 @@ related:
   - INS-260403-5683
   - PRI-260406-874A
   - INS-260330-0BBA
+  - INS-260328-0540
 evidence:
   - id: INS-260323-5CBE
     type: SUPPORTS

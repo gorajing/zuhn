@@ -24,7 +24,9 @@
 - `INS-260405-7305` Beyond a threshold, optimizing further on a valued attribute inverts into a pain — faster, hotter, louder all have inflection points.
 - `INS-260330-DBE6` The Japanese concepts of atarimae (taken-for-granted functionality) and kansei (enchanting quality) define two independent dimensions of product quality that both require deliberate investment.
 - `INS-260403-9B5D` SMBs failed to adopt SaaS tools not due to cost alone but because the time investment to learn and monitor them was unaffordable — background-running AI agents eliminate this barrier.
+- `INS-260410-BED1` A tabletop needs a harder-wearing finish than a bookshelf's interior shelf — spending equally on both just hurts the customer through higher price.
 - `INS-260403-E86E` The most powerful defensibility lever is turning your product from a single-player game into a multi-player network.
+- `INS-260410-6BFF` Pick a shockingly low target price first, then reinvent every step of the supply chain to make that price possible.
 - `INS-260403-35CB` Ambient AI's power comes from not requiring oversight, but that same quality limits users' ability to opt out — making privacy a first-class design decision.
 - `INS-260403-A8F3` Build for yourself first — products aimed 'down' at a mainstream audience tend to produce mediocre outcomes.
 - `INS-260403-D4EA` Fast iteration beats careful planning only when the medium allows cheap revision.
