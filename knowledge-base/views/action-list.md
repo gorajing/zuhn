@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-12 | 4903 actionable insights
+Generated on 2026-04-12 | 4912 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1055,6 +1055,8 @@ Generated on 2026-04-12 | 4903 actionable insights
 - [INS-260411-4967] A profit pool chart with ROIC-WACC on the y-axis and invested capital on the x-axis instantly shows which industry participants create versus destroy value and how much capital is at stake.
 - [INS-260411-2B1D] The value stick (WTP minus Price minus Cost minus WTS) breaks value creation into consumer surplus, firm value, and supplier surplus, revealing precisely where a company's strategy creates and captures value.
 - [INS-260412-55F4] Dubai grew faster than Abu Dhabi despite being farther from the oil because it captured the administrative and economic coordination layer.
+- [INS-260412-A9C3] The Concorde burned only 2.5x more total fuel per mile than the Dreamliner, but per-passenger fuel economy was 14 vs 104 mpg — a 7.4x gap.
+- [INS-260412-4FD3] NYC-LA flights are cheap because five airlines compete, while Denver-Gunnison costs $500+ for 130 miles because United is the sole operator.
 
 ## investing/business-quality
 - [INS-260411-CBCF] Interbrand's top 25 global brand rankings show weak correlation with ROIC-WACC spreads, proving that brand recognition alone does not constitute a competitive advantage.
@@ -2148,6 +2150,8 @@ Generated on 2026-04-12 | 4903 actionable insights
 - [INS-260409-30DE] 'This is the best way to cook pasta' drives fewer comments than 'this pasta is better than every mom-and-pop pasta shop in the world'; intensity scales engagement.
 - [INS-260410-1D64] Coca-Cola's early team intuited that you don't want customers thinking about headaches and nervousness when they reach for your drink — you want them thinking about happiness, friendship, and Christmas.
 - [INS-260410-8122] 'Melts in your mouth, not in your hand' sold parents on M&M's by addressing the hidden fear of chocolate-smeared furniture, not the kids' desire for candy.
+- [INS-260412-6DC9] Heathrow's highest-in-world retail revenue per passenger comes from environmental design choices, not aggressive selling.
+- [INS-260412-37E5] Airlines invented modern price discrimination by using advance purchase requirements and flexibility as self-sorting mechanisms—tourists willingly chose the cheaper constrained ticket while business travelers revealed their willingness to pay.
 
 ## psychology/physics-intuition
 - [INS-260330-AE9C] Abstract proofs and concrete examples serve complementary roles: proofs guarantee generality, examples build understanding.
@@ -2781,6 +2785,7 @@ Generated on 2026-04-12 | 4903 actionable insights
 - [INS-260412-3A50] Technological progress compounds so fast that delayed competitive response can become permanently unrecoverable.
 - [INS-260412-BA6D] Ukraine's guerrilla defense focused on destroying unarmored fuel trucks, rail connections, and road signs—targeting Russia's weakest logistical links rather than its strongest military assets.
 - [INS-260412-3EBB] Caribbean transshipment hubs emerged because many US east coast ports can't handle the larger post-expansion ships, creating a new intermediary logistics layer.
+- [INS-260412-E0B5] Wow Air planned to route around Russian airspace to Delhi by adding only 45 minutes of flight time, undermining the leverage of the chokepoint.
 
 ## startups/content-strategy
 - [INS-260329-3332] A single 4+ hour comprehensive tutorial can accumulate millions of views over years by dominating 'full course' search queries.
@@ -4954,6 +4959,7 @@ Generated on 2026-04-12 | 4903 actionable insights
 - [INS-260412-F0F5] String theory's rowing-boat-to-cruise-ship analogy shows that working in a simplified model universe that shares structural properties with the real problem can yield transferable insights even when direct application fails.
 - [INS-260412-4716] Startups face discrete 'great filters' at each stage — finding PMF, scaling, and sustaining — where most die, mirroring the Fermi Paradox's civilizational filters.
 - [INS-260412-DC05] Toyota stockpiled 2-6 months of semiconductors because chips have irreplaceable, slow-to-rebuild supply chains — making that inventory necessary, not excess.
+- [INS-260412-0730] Riot police contain violence but never people — always leaving an escape route for those who want to disengage — because full containment escalates rather than resolves conflict.
 
 ## startups/team-building
 - [INS-260405-F378] Searching for a technical cofounder before validating demand is backwards — demand attracts technical talent.
@@ -4985,6 +4991,9 @@ Generated on 2026-04-12 | 4903 actionable insights
 - [INS-260405-4B5D] The 3:1 LTV:CAC threshold is the minimum ratio at which SaaS unit economics justify growth spend.
 - [INS-260410-0D14] Every new store had to clear a 2:1 sales-to-investment ratio and 20% operating margin — no exceptions, for decades.
 - [INS-260412-A52B] Purchase frequency directly determines how many people you need in a radius to sustain one location of a business.
+- [INS-260412-F8AE] FedEx uses retired passenger aircraft because their planes only fly ~2 hours/day versus airlines' 12+ hours — cheap purchase price matters more than fuel efficiency at low utilization.
+- [INS-260412-31A6] First class generates $403/sq ft versus business class at $605/sq ft, which is why airlines are eliminating first class despite its higher ticket price.
+- [INS-260412-492D] A Learjet trip costing $11,600 requires a $1M earner solo but only a $111K earner per seat when full — a 9x improvement from utilization alone.
 
 ## startups/validation
 - [INS-260323-F9E5] The most expensive period of a failing startup is not the building phase — it's the denial phase after the founder already knows it won't work.

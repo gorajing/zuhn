@@ -45,7 +45,6 @@ stance: >-
   coordinating thousands of dependent components individually
 related:
   - INS-260330-A149
-  - INS-260330-B69C
   - INS-260323-849E
   - INS-260412-5ACD
   - INS-260412-E197

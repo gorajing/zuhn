@@ -51,8 +51,8 @@ related:
   - PRI-260323-0F93
   - INS-260330-8D0C
   - INS-260402-B817
+  - INS-260412-AD6F
   - INS-260330-5BEB
-  - INS-260330-51B1
 stance: >-
   The Mashco Piro's default violence toward outsiders is a rational
   multigenerational strategy born from centuries of hostile contact with

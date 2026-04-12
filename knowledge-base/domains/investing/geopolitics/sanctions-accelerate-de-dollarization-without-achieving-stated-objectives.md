@@ -60,7 +60,6 @@ related:
   - INS-260330-F9C9
   - INS-260403-B280
   - INS-260403-33DF
-  - INS-260412-22E3
 ---
 Carlson observed Moscow two years post-sanctions: supply chains functioning, grocery stores well-stocked, infrastructure maintained, no visible economic collapse. Russia's wartime artillery production exceeds all NATO countries combined at a 7:1 ratio, indicating deep industrial capacity unaffected by financial isolation. Meanwhile, the sanctions forced nations into the BRICS economic bloc, accelerating de-dollarization.
 

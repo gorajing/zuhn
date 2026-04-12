@@ -61,6 +61,7 @@ related:
   - INS-260403-6BD9
   - INS-260404-B086
   - PRI-260405-EBC6
+  - INS-260412-37E5
 ---
 Standard product and retail design removes friction to maximize conversion. Costco's design philosophy does the opposite: the confusing store layout forces customers to wander through more aisles, increasing basket size. The $60-$120 membership fee selects for an affluent demographic (average household income ~$100k) and pre-commits them to shopping there via sunk-cost psychology. The warehouse aesthetic communicates 'we cut costs everywhere to pass savings to you,' building trust.
 

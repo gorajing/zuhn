@@ -56,7 +56,6 @@ related:
   - INS-260403-FA89
   - INS-260330-DD63
   - INS-260412-4499
-  - INS-260403-20B1
 evidence:
   - id: INS-260321-0CCD
     type: EXTENDS

@@ -51,7 +51,6 @@ stance: >-
   interaction will outcompete platforms built around social graphs because they
   eliminate the cold-start problem and never run out of content.
 related:
-  - INS-260322-888D
   - INS-260325-4C2E
   - INS-260327-38D8
   - INS-260327-415B
@@ -61,6 +60,7 @@ related:
   - INS-260329-CEC5
   - INS-260403-FB82
   - INS-260330-0371
+  - INS-260403-F8AE
 evidence:
   - id: INS-260322-888D
     type: TRANSFERS_TO

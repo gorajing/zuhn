@@ -48,8 +48,8 @@ related:
   - INS-260323-9F61
   - INS-260327-E153
   - INS-260330-EA23
+  - INS-260412-B625
   - PRI-260406-5854
-  - INS-260403-20BF
 ---
 Paul Graham argues that if you accept a startup in a small agricultural town would benefit from moving to a city, the same logic extends all the way up the chain. The argument against moving from London to Silicon Valley is structurally identical to the argument against moving from a small town to London — both deny a gradient that nearly everyone acknowledges exists.
 

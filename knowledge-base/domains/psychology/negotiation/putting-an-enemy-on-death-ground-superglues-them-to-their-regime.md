@@ -65,6 +65,7 @@ related:
   - INS-260410-61D5
   - INS-260410-24DA
   - INS-260330-B444
+  - INS-260412-0730
 ---
 Paine's 'death ground' principle inverts the intuition that greater cruelty breaks enemy will. When you declare unlimited objectives — not just regime change but eliminating the people themselves — you take away every exit ramp the other side might have used. Populations that might have been ambivalent about their own government are now bound to it by survival. Officers who might have quietly negotiated can't, because the alternative to fighting is not a harsh peace but annihilation.
 

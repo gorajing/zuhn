@@ -48,7 +48,6 @@ stance: >-
   not selling out as long as the core message remains undiluted.
 related:
   - PRI-260323-DAB9
-  - INS-260327-9D51
   - INS-260329-CB2C
   - PRI-260406-B97E
   - INS-260410-93E3
@@ -57,6 +56,7 @@ related:
   - INS-260403-B887
   - INS-260405-D216
   - INS-260403-7BAA
+  - INS-260403-963B
 evidence:
   - id: INS-260325-803C
     type: CHALLENGES

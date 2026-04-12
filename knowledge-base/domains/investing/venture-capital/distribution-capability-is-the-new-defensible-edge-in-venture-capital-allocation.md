@@ -59,6 +59,7 @@ related:
   - PRI-260406-8DF5
   - PRI-260406-710D
   - INS-260403-2F60
+  - INS-260412-AB8C
 ---
 The venture capital industry has reached a point where capital alone is insufficient to win the best deals. Top founders can choose their investors, and they increasingly select partners who bring distribution advantages. a16z recognized this by building a full media operation (New Media) under Erik Torenberg, offering 'Launch as a Service' to portfolio companies. Similarly, two newsletter operators with 5M weekly LinkedIn views and 200k+ newsletter subscribers used their media reach to get into 20+ oversubscribed YC rounds alongside tier-1 funds.
 

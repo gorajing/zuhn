@@ -60,7 +60,6 @@ stance: >-
   differentiation is wrong when the infrastructure required for your business
   model does not yet exist in the market.
 related:
-  - INS-260327-500C
   - PRI-260406-0ACE
   - PRI-260406-7128
   - INS-260404-8D91

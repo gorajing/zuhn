@@ -1,6 +1,7 @@
 # Tag: chokepoints
 
 - `INS-260403-2C15` AI control risk depends on three prerequisites — full autonomy, capable robots, and self-sustaining AI production — and blocking any one is sufficient defense.
+- `INS-260412-F17D` Russia's Siberian airspace control lets it extract ~$100/ticket on Europe-Asia routes by being the only direct path between $20T+ economies.
 - `INS-260403-E936` Chokepoint conflicts transmit economic damage primarily through commodity price spikes rather than shipping cost increases.
 - `INS-260412-2488` Controlling narrow sea passages grants disproportionate strategic power by threatening an adversary's entire economic lifeline without firing a shot.
 - `INS-260323-9676` ASML is the sole manufacturer of EUV lithography machines worldwide — every advanced chip on Earth depends on one company in one Dutch town, making semiconductor manufacturing the most concentrated chokepoint in the global economy.

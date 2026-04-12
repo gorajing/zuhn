@@ -55,6 +55,7 @@ related:
   - INS-260330-0F49
   - INS-260330-F8B6
   - INS-260403-EEAF
+  - INS-260412-0730
   - INS-260402-A2F1
 ---
 The article documents how calls for public order are instantly met with accusations of racism and classism, even when evidence strongly supports policing's effectiveness at reducing crime. The ACLU opposes adding police despite solid evidence that more cops reduce crime. Progressive prosecutors reduce prosecutions. This is the sacred-value dynamic: once an issue is framed in moral-identity terms, empirical evidence about what works becomes irrelevant.

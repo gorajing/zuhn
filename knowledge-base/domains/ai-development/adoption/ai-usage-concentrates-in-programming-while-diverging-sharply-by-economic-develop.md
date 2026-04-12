@@ -55,6 +55,7 @@ related:
   - PRI-260406-0EC6
   - PRI-260406-D802
   - PRI-260321-0A4D
+  - INS-260412-0BF3
 ---
 The Anthropic Economic Index reveals that AI usage is not uniformly distributed globally. Programming dominates across all regions, but the second-order use cases diverge sharply by income level. Advanced economies deploy AI for professional collaboration, workflow optimization, and knowledge work augmentation. Emerging markets lean heavily toward academic support and learning tasks.
 

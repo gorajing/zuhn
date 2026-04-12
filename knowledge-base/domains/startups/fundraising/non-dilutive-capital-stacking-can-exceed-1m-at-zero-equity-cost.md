@@ -57,6 +57,7 @@ related:
   - INS-260403-6E68
   - INS-260403-3A2C
   - INS-260403-64F1
+  - INS-260412-FDF1
 ---
 The default founder playbook—build a deck, pitch VCs, give up 15–25%—ignores a parallel funding ecosystem that is well-documented but underused. A concrete stacking example: one government grant ($50K–$500K) + cloud credits from three major providers ($826K+ combined) + a revenue-based financing line equals seven figures at zero dilution. The math is consistent enough that it appears repeatedly in founder communities.
 

@@ -53,7 +53,6 @@ stance: >-
   abandonment repeatedly, never reaching the compounding returns phase.
 related:
   - INS-260323-42A7
-  - INS-260329-F887
   - INS-260329-19F9
   - INS-260329-E078
   - PRI-260406-967A
@@ -62,6 +61,7 @@ related:
   - PRI-260406-D7C7
   - INS-260329-CE86
   - INS-260330-30CE
+  - INS-260330-8A28
 evidence:
   - id: INS-260323-9D6E
     type: TRANSFERS_TO

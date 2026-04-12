@@ -53,6 +53,6 @@ related:
   - INS-260410-AA87
   - INS-260412-B8CB
   - INS-260410-C02E
-  - INS-260330-F79F
+  - INS-260412-5731
 ---
 China maintained an artificial exchange rate of 8.27 yuan per dollar until 2005, and still manages daily rates within a 2% band. Combined with zero export taxes and US zero-import-duty policies on certain electronics, this created a system where products could travel from Chinese factories to US stores completely tax-free. The mechanism is elegant in its simplicity: rather than subsidizing specific industries (which invites WTO challenges and requires picking winners), currency depression subsidizes all exports simultaneously. It also creates a compounding effect—cheap currency attracts foreign investment, which builds manufacturing capacity, which generates exports, which creates demand for the currency that the government must then actively suppress. This dynamic explains why currency policy is often the most consequential economic lever a developing nation controls.

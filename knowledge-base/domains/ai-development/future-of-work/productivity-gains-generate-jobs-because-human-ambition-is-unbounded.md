@@ -63,6 +63,7 @@ related:
   - INS-260403-87AC
   - INS-260404-9103
   - INS-260403-924B
+  - INS-260412-5731
 ---
 Huang rejects the standard 'AI will replace jobs' narrative with a specific mechanism: the first-order effect of productivity is prosperity, and prosperous companies hire more to expand into new areas. A company only shrinks its headcount after productivity gains if it has no more ideas — but most companies have many more ideas than they can resource. 'So long as there are more ideas in drug discovery, more ideas in transportation, more ideas in retail, more ideas in entertainment — the prosperity from productivity results in hiring more people.'
 

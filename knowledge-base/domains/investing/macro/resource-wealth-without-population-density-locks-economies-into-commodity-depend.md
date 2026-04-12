@@ -52,11 +52,11 @@ stance: >-
   populations will default to resource-export economies with narrow trade
   partner concentration, regardless of institutional quality.
 related:
+  - INS-260412-0BF3
   - INS-260412-D015
   - INS-260403-90A0
   - INS-260327-F4B8
   - PRI-260328-F497
-  - PRI-260406-0EC6
 ---
 Australia and the US started from remarkably similar positions — similar land area, coastal-origin British colonies, westward expansion driven by gold rushes, planned capital cities. Yet Australia's 35% desert interior prevented the inland population centers that enabled American economic diversification. With just 25 million people clustered in five coastal cities connected by two-lane highways, Australia's economic complexity ceiling is far lower than America's.
 

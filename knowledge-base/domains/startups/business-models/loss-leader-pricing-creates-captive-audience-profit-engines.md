@@ -52,6 +52,7 @@ related:
   - INS-260327-795D
   - PRI-260328-F497
   - INS-260403-FB4A
+  - INS-260412-16FD
 ---
 Mainstream cruise lines deliberately price tickets below their fully-loaded cost — the average ticket sells for $1,293 but costs the company more when you factor in food, fuel, wages, and marketing. The profit engine is onboard spending, where the average passenger drops an additional $429 on casinos, spas, drinks, and shopping. This works because passengers are a captive audience with zero competitive alternatives — it's Pepsi or seawater.
 

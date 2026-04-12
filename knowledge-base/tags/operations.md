@@ -16,6 +16,7 @@
 - `INS-260330-DC22` Unscalable founder involvement is a moat that should be defended, not a phase to outgrow.
 - `INS-260405-1982` Treat fundraising as a sprint with a hard end date to minimize distraction and create investor urgency.
 - `INS-260328-3A00` YC's core advantage was being a software company built by someone who loved software and hated hiring people — Standard Capital is replicating this approach for Series A.
+- `INS-260412-4D3B` Southwest and Spirit achieve cost leadership by keeping planes flying 11+ hours daily versus legacy carriers' 8.5 hours.
 - `INS-260405-54A9` Internal AI agents (HR, knowledge base, competitor intel) deliver faster ROI than customer-facing ones because deployment barriers are lower.
 - `INS-260412-EB1F` Cargo-culting Toyota's JIT — eliminating inventory without production leveling, vulnerability mapping, or cross-functional teams — created global supply chain fragility.
 - `INS-260412-8E0A` The presidential secure package can break away from the full motorcade and function independently, a design pattern applicable to any high-stakes operation.

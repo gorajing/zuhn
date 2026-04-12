@@ -55,10 +55,10 @@ stance: >-
   others reduces the total pool exponentially.
 related:
   - INS-260405-F7C5
+  - INS-260412-664B
   - INS-260412-2117
   - INS-260412-22E3
-  - INS-260412-A747
-  - INS-260327-25AD
+  - INS-260412-D627
 ---
 When Boeing and Airbus suspended all maintenance support to Russian airlines, the immediate impact seemed manageable — Russia still had 980 aircraft. But Iran's 2007-2015 sanctions experience reveals the compounding math: without replacement parts, faulty components must be harvested from grounded aircraft. Each cannibalized plane removes one from service while only temporarily extending another. The pool of flyable aircraft shrinks at an accelerating rate, and safety margins erode in parallel.
 

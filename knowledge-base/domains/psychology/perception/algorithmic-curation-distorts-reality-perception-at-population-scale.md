@@ -47,10 +47,10 @@ stance: >-
   that maximizes engagement at the cost of accurate worldviews.
 related:
   - INS-260403-B9F4
+  - INS-260412-AD6F
   - PRI-260328-C006
   - PRI-260406-AA07
   - INS-260330-18F3
-  - INS-260329-13D2
   - INS-260403-889B
 evidence:
   - id: INS-260329-13D2

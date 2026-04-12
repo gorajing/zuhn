@@ -1,6 +1,6 @@
 # Topic: business-models
 
-> 235 insights
+> 239 insights
 
 - `INS-260410-9246` [high] Visa's interchange is not a fee — it's an envelope of value the network can redistribute to issuing banks, acquiring banks, co-brand merchants, and rewards programs as needed to align behavior.
 - `INS-260410-58A5` [high] F1's durability isn't mostly brand or network effects — it's that the FIA explicitly calls it 'the pinnacle,' a regulatory grant no rival motorsport can replicate with money.
@@ -124,8 +124,10 @@
 - `INS-260412-AAB9` [high] The plastics industry's deliberate creation of recycling as a PR solution in 1969 suppressed real alternatives for over 50 years by eliminating consumer and regulatory pressure.
 - `INS-260403-F5EE` [high] People pirate content mostly because it offers a better user experience, not just because it's free — iTunes proved people will pay when buying is easy.
 - `INS-260324-D612` [high] Pizza has the lowest food costs in fast food (flour, canned tomatoes, subsidized cheese), needs minimal space, and 50% of US pizza shops are still independent — unlike burgers where 90% are chains.
+- `INS-260412-DF15` [high] Capacity-constrained platforms maximize revenue by selecting for high-value participants rather than increasing total volume.
 - `INS-260327-C294` [high] Two-sided platforms that subsidize drivers and riders simultaneously create artificial network effects that collapse whe
 - `INS-260327-FBD8` [high] Gun store revenue is driven primarily by fear of future regulation rather than actual use demand, creating cyclical boom
+- `INS-260412-B5F8` [high] Airlines derive 84% of revenue from 45% of passengers, demonstrating how premium customer concentration can anchor an entire business model.
 - `INS-260403-BE7C` [high] Price disruption alone invites margin compression; a stacked second model (marketplace, fintech, bundling) is required for sustainability.
 - `INS-260329-72A5` [high] A 10x price increase on the same product can yield a 31x increase in net profit because fixed costs remain constant.
 - `INS-260403-D5C2` [high] Price cuts that seem modest (e.g., $200 to $150/month) dramatically extend payback periods because CAC is fixed while per-customer revenue shrinks.
@@ -162,6 +164,7 @@
 - `INS-260329-27A7` [high] Charging $35/session to 8 students yields $280/hr versus $60/hr in a 1-on-1 model — a 4.5x increase for the same time block.
 - `INS-260324-DB86` [high] Shrinkflation generates 3-5% revenue growth for years even as volumes decline, but there's a ceiling — Kraft Heinz hit it in 2019 with a $15B loss when customers stopped buying entirely.
 - `INS-260327-9DA6` [high] Twitter's decision to restrict its API and push users away from third-party clients (which served 20-30% of users) became one of the company's most costly strategic mistakes.
+- `INS-260412-0BF3` [high] Guam's economy depends on two concentrated pillars — US military (largest employer) and Asian tourism — making it prosperous but fragile to shifts in either.
 - `INS-260329-C474` [high] A frozen yogurt store doing $800K revenue yields roughly $93K in owner take-home, illustrating the salary-not-wealth trap of small retail.
 - `INS-260404-D471` [high] Social activism and regulatory changes can render entire business models unviable, not just reduce margins.
 - `INS-260404-BCA2` [high] VDC built a burger empire by monetizing idle restaurant kitchens instead of building its own.
@@ -185,6 +188,7 @@
 - `INS-260409-AF1C` [high] Adobe spent years developing Illustrator; Figma and Sketch copied the core interface ideas at a fraction of the cost and are now eating Adobe's market share — a textbook public goods problem that makes tools for thought structurally undersupplied by private markets.
 - `INS-260330-8639` [high] A product's true cost is purchase price minus resale value, which can completely flip which option is actually cheaper.
 - `INS-260403-1000` [high] Business models should be treated as living, continuously iterable documents rather than fixed five-year plans.
+- `INS-260412-BCBB` [high] About two-thirds of airports worldwide lose money, and private ownership only works at massive scale.
 - `INS-260324-861B` [high] Uber raised $25B+ and operated for 13+ years without profit — the only other company with that distinction is WeWork, and the platform economics that were supposed to make ride-sharing 'infinitely scalable' never materialized.
 - `INS-260410-270E` [high] Coca-Cola serves the entire world from a handful of syrup plants because it lets independent bottlers put up the capital and labor for bottling and distribution while the parent company keeps the trademark, the formula, and the marketing.
 - `INS-260403-754F` [high] Validating that customers want your product is necessary but insufficient — you must also validate that the business model produces more revenue than costs.

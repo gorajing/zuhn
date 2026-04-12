@@ -49,10 +49,10 @@ stance: >-
   'open Claude' equivalent does not need to earn new trust the way a startup
   does.
 related:
+  - INS-260412-D031
   - INS-260321-8414
   - INS-260322-22B3
   - INS-260405-8166
   - PRI-260328-8317
-  - INS-260330-AB67
 ---
 David Sacks notes that he is 'waiting for the Google version of open Claude' because he doesn't want to share all his documents with a new service. This generalizes into a moat: the biggest barrier for agentic products is convincing users to hand over deep personal data (email, calendar, files), and Google already has it. A year ago, the pod was bearish on Google because ChatGPT was replacing search; now Gemini + existing data access make Google one of the strongest bets in personal AI. The implication for startups building agentic consumer products is sobering — they have to pay a trust tax that Google does not.

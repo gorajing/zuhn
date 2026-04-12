@@ -58,6 +58,7 @@ related:
   - INS-260403-4183
   - INS-260403-FAAF
   - INS-260412-2488
+  - INS-260412-354B
 ---
 Paine's core framing: a maritime power with ocean access gets 'the miracle of sea transport' — mobility, markets, allies, resources, and sanctuary. A continental power on narrow seas (Germany, Russia, China) has to get past choke points like the Dardanelles, Suez, or Malacca, and cannot easily strike back at a coastline facing open ocean. This asymmetry is why Britain's opening move in both world wars was blockade, and why Germany's only response was commerce raiding with submarines.
 

@@ -52,9 +52,9 @@ stance: >-
 related:
   - INS-260330-5A82
   - INS-260327-94F5
+  - INS-260412-90D7
   - INS-260327-0A48
   - INS-260324-B7C0
-  - INS-260330-629E
 ---
 By 1980 Nike had roughly 50% of the US running shoe market and assumed the fitness boom would keep powering running specifically. It wouldn't. Running was a cyclical fad inside a much broader secular fitness movement, and the next wave was aerobics — which Nike refused to touch on principle because it was 'unathletic.' Reebok, founded in 1979, built an entire company on that single wave, passed Nike by 1988, and forced Nike into years of reactive recovery that only ended with Jordan.
 

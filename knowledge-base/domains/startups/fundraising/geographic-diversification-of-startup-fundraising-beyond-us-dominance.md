@@ -53,6 +53,7 @@ related:
   - INS-260404-EFA0
   - INS-260403-F387
   - INS-260404-5988
+  - INS-260412-FDF1
 ---
 In this curated list, the US accounted for only 30% of actively raising startups, with Spain at 13%, UK at 12%, and the remaining 45% distributed globally. While selection bias from a European-leaning publication matters, the pattern aligns with broader trends of startup ecosystem maturation outside Silicon Valley.
 

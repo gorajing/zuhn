@@ -53,9 +53,9 @@ related:
   - INS-260327-842F
   - INS-260327-3675
   - INS-260330-AE70
-  - INS-260403-2F24
   - INS-260404-82AA
   - INS-260410-24DA
   - INS-260412-60EC
+  - INS-260327-6ACA
 ---
 The Antarctic Treaty emerged during the Cold War when the US, Soviet Union, and five claimant nations faced an impossible sovereignty question—seven overlapping territorial claims with no universally recognized legitimacy. Rather than forcing resolution, the treaty explicitly preserved all existing claims while banning military presence, mining, and nuclear activity. This deliberate scoping—solving the tractable problems while shelving the intractable one—created a durable framework that has held for 60+ years. The lesson generalizes: multi-party agreements survive longer when they avoid forcing consensus on identity-level disputes and instead focus on behavioral constraints everyone can accept. Attempting comprehensive resolution often collapses the entire negotiation.

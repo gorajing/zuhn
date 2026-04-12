@@ -61,7 +61,6 @@ related:
   - PRI-260325-6400
   - INS-260412-2948
   - INS-260412-3EBB
-  - INS-260412-F414
 ---
 The common mental model for self-reinforcing problems is the 'vicious cycle' — A causes B causes C causes A. But the 2021 shipping crisis demonstrated something more complex: a vicious web where multiple feedback loops operated simultaneously and interconnected. Slow truck pickups created terminal congestion, which slowed ship unloading, which reduced fleet capacity, which prevented empty container returns, which increased Asian shipping costs, which pushed shippers to send goods earlier, which increased demand — and all of these fed back into each other at multiple points, not in a single loop.
 

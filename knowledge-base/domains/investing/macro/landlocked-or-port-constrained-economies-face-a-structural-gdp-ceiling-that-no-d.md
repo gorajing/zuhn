@@ -46,9 +46,9 @@ stance: >-
   disadvantaged in economic development compared to maritime-accessible peers.
 related:
   - INS-260403-22E9
-  - INS-260403-FAAF
+  - INS-260412-354B
   - INS-260412-B416
+  - INS-260403-FAAF
   - INS-260327-F84E
-  - INS-260412-907D
 ---
 Russia's 23,000 miles of coastline is deceptive—none of its ports offer ice-free, unchoked direct ocean access. This structural limitation explains why Russia's GDP per capita sits alongside Mauritius and Turkey despite vast territory and resources. The pattern holds globally: landlocked nations consistently underperform maritime peers in GDP. Maritime shipping is still the cheapest way to move goods at scale, and countries without it pay a permanent tax on every traded good. For macro analysis, this means geographic port access should be weighted heavily when assessing a nation's long-term economic trajectory—more than governance quality or natural resource endowment alone can compensate for.

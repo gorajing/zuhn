@@ -57,7 +57,7 @@ related:
   - INS-260412-8E0A
   - INS-260327-C68B
   - INS-260321-D4D0
-  - INS-260412-F893
+  - INS-260412-0730
 ---
 The presidential motorcade's cost structure reveals a sharp resource allocation principle: the entire front section (route car, 20-30 motorcycles, intersection blocking) is run by local police departments, not the Secret Service. Local ambulances handle medical standby. The Secret Service concentrates its expensive, specialized assets exclusively on the secure package — the irreducible core mission.
 

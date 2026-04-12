@@ -14,18 +14,16 @@
 - `INS-260410-6A19` Goldman Sachs and every serious forecaster predicted China would dwarf the US by now — they were all wrong, just as they were wrong about Japan and the USSR before that.
 - `INS-260412-7811` China's manufacturing success created a middle class whose higher wage demands now erode the cost advantage that built it.
 - `INS-260405-B6CB` China's post-2008 infrastructure investment produced not just recovery but a transportation, energy, and digital backbone that now underpins its manufacturing dominance.
+- `INS-260412-5731` China's own economic success raised wages enough that Chinese manufacturers now seek cheaper labor in Africa, replicating the pattern that built China.
 - `INS-260410-731D` China's banking system lets strategic-sector companies borrow on the promise of producing units, not profits — which produces world-leading manufacturing capacity alongside massive capital destruction.
 - `INS-260410-147B` China built a magnificent production machine but no demand machine — the result is deflation, shrinking pricing power, and growth below potential even as tech capacity soars.
 - `INS-260412-839B` China's recycling ban proved that private-sector profitability masking national-level losses is an unstable equilibrium that regulators eventually correct.
 - `INS-260409-F485` Napier's emerging-market heuristic: avoid countries where trading rights are not guaranteed, constitutions are weak, or exchange rates are overvalued — operationalized as 'don't invest where you wouldn't live after retirement.'
-- `INS-260410-5D08` Innovation ecosystems depend on risk-tolerant investors; one arbitrary crackdown — or even the credible threat of one — can wreck the whole stack for a decade.
-- `INS-260410-3880` Moonshot AI raised $1B at a $3B valuation while xAI's Memphis cluster alone costs $3-4B — Chinese frontier labs are funding-starved by Western standards.
-- `INS-260405-484F` Clawback mechanisms that reach founders' personal assets convert entrepreneurship from bounded-downside to unlimited-downside, chilling risk-taking.
-- `INS-260405-ADCE` US and China are pursuing humanoid robotics through different incentive structures and deployment contexts, making a single global market unlikely.
 - `INS-260403-583B` China's threats against Japan over Taiwan defense declarations backfired by unifying Japanese society and pushing South Korea into closer partnership with Japan.
 - `INS-260402-F833` The U.S. leads in advanced chips while China leads in energy production — whoever integrates both first wins the AI race.
 - `INS-260410-2DB5` Regimes that need engineers, industry, and now AI to compete geopolitically cannot prevent the educated class and organized workers they create from eventually threatening their rule.
 - `INS-260405-59AB` Autocrats tend to become more paranoid and destructive over time, turning concentrated power into a systemic liability.
+- `INS-260412-91EE` Desolate territory that lacks infrastructure creates natural defense by making troop movement logistically impossible.
 - `INS-260410-3F35` 25 years of 50/50 JVs produced zero Chinese auto champions; 18 months of Tesla competing directly taught BYD the consumer design it needed to become world-class.
 - `INS-260403-8C41` Historical precedent shows reserve currency transitions happen through gold accumulation during crises, and China is quietly stockpiling gold at rates 10x its official reports.
 - `INS-260325-854D` China's senior leadership were all trained engineers who build compulsively — roads, homes, economies, souls. America's elite are mostly lawyers who block everything, good and bad.
@@ -48,20 +46,24 @@
 - `INS-260410-D1A4` Continental empires like Russia and China survive by systematically destabilizing neighbors sequentially rather than forming lasting alliances, because no great power wants another great power on its border.
 - `INS-260404-5A02` Chamath's decision to skip China's boom entirely due to cultural unfamiliarity — while engaging with India — illustrates how cultural accessibility shapes capital allocation more than pure economic fundamentals.
 - `INS-260412-5291` China's currency pegging made western companies' dollars buy more Chinese labor and goods, functioning as an invisible export subsidy.
+- `INS-260412-44EE` China's South China Sea militarization to secure Pacific access pushed the Philippines — a nation already distancing from the US — back toward the American alliance.
 - `INS-260323-11FF` Chinese deference to authority is a thousands-year-old implicit contract — stability, security, and prosperity in exchange for some deference — not the blind submission Western observers assume.
 - `INS-260330-DA38` Demographic shifts happen so slowly that they're ignored until retirement waves hit, then consequences cascade rapidly.
+- `INS-260412-3A00` When a buffer territory's native population views foreign military arrival as liberation rather than invasion, the buffer's defensive value collapses.
 - `INS-260330-6C3D` A country's population age structure today reveals its economic reality 20-30 years from now with surprising accuracy.
 - `INS-260412-C7FA` Extreme trade concentration with a single partner converts economic ties into a political leash.
 - `INS-260323-748A` State-sponsored espionage concentrates on technologies where incumbents hold multi-decade monopolies, particularly jet engines and aerospace — the harder something is to replicate independently, the higher its espionage value.
 - `INS-260405-8F5D` Granting a rival access to your market can fund their industrial buildup rather than moderate their regime — the WTO-China case is the canonical example.
 - `INS-260323-DA6F` China's growth has historically been reform-driven: every major reform produced a decade of strong growth, and the current slowdown correlates directly with the slowing pace of reform over the past 15 years.
 - `INS-260403-A1FA` Export controls slow adversary progress during a critical window rather than permanently preventing capability development.
+- `INS-260412-354B` China's entire economy and food security depend on ocean access that US-allied nations surrounding it could sever through naval blockade.
 - `INS-260323-A3DB` Saudi Arabia and Gulf states are accelerating their pivot toward China because the US repeatedly failed to protect oil infrastructure (Aramco 2019, current Iran strikes on Qatar/Saudi/UAE) while prioritizing Israel — creating a structural shift in Middle East security alignment.
 - `INS-260323-59FE` Becoming a hegemonic power requires other nations to voluntarily follow — China lacks this despite economic scale because it demands compliance without offering public goods or making sacrifices.
 - `INS-260321-A3A1` IMEC (India-Middle East-Europe Economic Corridor) is a US-backed logistics highway routing goods from India through UAE, Saudi Arabia, and Israel to Europe — designed to completely bypass China's Belt and Road Initiative.
 - `INS-260410-D316` China won on the base layers — ubiquitous internet (1990s bet) and massive cheap electricity (2000s bet) — which then compounded into every downstream industry including AI.
 - `INS-260412-C6ED` China built money-losing rail lines to Xinjiang and Tibet explicitly to integrate separatist regions, prioritizing political unity over financial returns.
 - `INS-260330-0FCE` Physical infrastructure creates economic interdependency that gradually makes political separation impractical, serving as a subtler tool of control than direct legislation.
+- `INS-260412-AB8C` China's relatively modest infrastructure loans buy disproportionate UN influence because each African nation gets one equal vote regardless of size.
 - `INS-260330-C477` China's shrinking working-age population must support a rapidly growing elderly cohort, creating a structural drag on GDP growth that compounds over decades.
 - `INS-260410-7F35` The regime can starve its people, kill its people, and destroy its own state capacity — it will still survive as long as citizens have nowhere else to go and no alternative to organize around.
 - `INS-260405-5341` How third parties hedge their bets under rival pressure is a sharper signal of great-power military credibility than direct confrontations.
@@ -85,16 +87,22 @@
 - `INS-260410-7D8E` The CCP never stopped believing in communism — Deng's liberalization was a modification of economic tactics, not a change in the party's fundamental identity, and Xi is now walking it back.
 - `INS-260410-361B` If Xi drops dead or goes senile, Chinese capital controls collapse within days — not because of mass panic, but because individual FX bureaucrats stop fearing jail and start accepting $100M bribes.
 - `INS-260403-1F97` Russian crude sellers are again requesting yuan payment from Indian refiners, driven by sanctions pressure rather than ideological de-dollarization.
-- `INS-260410-2623` In censored societies, the binding constraint isn't private information — it's the inability to coordinate on what 'everyone knows everyone knows.'
-
+- `INS-260410-5D08` Innovation ecosystems depend on risk-tolerant investors; one arbitrary crackdown — or even the credible threat of one — can wreck the whole stack for a decade.
+- `INS-260410-3880` Moonshot AI raised $1B at a $3B valuation while xAI's Memphis cluster alone costs $3-4B — Chinese frontier labs are funding-starved by Western standards.
+- `INS-260405-484F` Clawback mechanisms that reach founders' personal assets convert entrepreneurship from bounded-downside to unlimited-downside, chilling risk-taking.
+- `INS-260405-ADCE` US and China are pursuing humanoid robotics through different incentive structures and deployment contexts, making a single global market unlikely.
 - `INS-260403-CF46` Most China analyses reach contradictory conclusions (China will dominate vs. China has peaked) because they cherry-pick output metrics instead of examining the underlying systems that produce those outputs.
 - `INS-260403-49FF` Page and Brin overruled Schmidt on China because values conflicts are founder-domain decisions that operators are structurally unable to make.
+- `INS-260410-2623` In censored societies, the binding constraint isn't private information — it's the inability to coordinate on what 'everyone knows everyone knows.'
+
 - `INS-260330-B4BD` Two generations of one-child families made small families the cultural norm in China, rendering policy reversal largely ineffective.
 - `INS-260403-69C3` National security framing activates fear circuits that override the capacity for nuanced policy engagement.
+- `INS-260412-C39A` China's 'no strings attached' aid framing works because hidden political conditions feel less coercive than the IMF's explicit human rights requirements.
 - `INS-260325-C5FD` American automakers take 6 years to ship a new model; Chinese competitors do it in 18 months — with 50 major EV makers competing fiercely, iteration speed IS the innovation.
 - `INS-260403-5A4C` China's playbook of picking national champions, subsidizing them infinitely, and pricing below cost has captured steel, solar, drones, and EVs — and private firms cannot compete on price alone.
 - `INS-260323-1D15` Chinese competitive dynamics favor rapid replication over differentiation — when something works, thousands of competitors copy it immediately, driving ferocious price and execution competition.
 - `INS-260405-2AFD` China's workforce built deep process knowledge by assembling goods for international firms, and that accumulated expertise became the foundation for leapfrogging into EVs, solar, and AI hardware.
+- `INS-260412-00A1` China's agricultural self-sufficiency — the foundation of its rise — became impossible at the scale its success created, forcing import dependence on potentially hostile foreign powers.
 - `INS-260403-28AB` If OpenAI fails after absorbing $100B+, the resulting investor panic could hand AI leadership to Chinese competitors.
 - `INS-260410-81E8` Nadella argues the most important feature of American AI isn't capability but trust — countries are deploying based on whether the supplier and its institutions will still be around in 20 years.
 - `INS-260402-B0AB` You cannot have technical imagination without political imagination — suppressing one suppresses both.

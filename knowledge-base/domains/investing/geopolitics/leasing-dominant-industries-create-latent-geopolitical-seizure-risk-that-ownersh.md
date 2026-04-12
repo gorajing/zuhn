@@ -57,9 +57,9 @@ stance: >-
 related:
   - INS-260412-E71C
   - INS-260412-60EC
+  - INS-260412-FD55
   - PRI-260328-37D8
-  - INS-260330-E082
-  - INS-260327-6ACA
+  - INS-260412-3713
 ---
 Of Russia's 980 passenger aircraft, 777 were leased and 515 of those from foreign companies. When sanctions hit, those foreign lessors were either legally required or commercially motivated to terminate leases — creating an overnight crisis that an ownership-heavy fleet would not have faced. Russia responded by simply re-registering the aircraft under Russian law, effectively stealing billions in assets, but this only works domestically — these planes can never fly internationally again without facing seizure.
 

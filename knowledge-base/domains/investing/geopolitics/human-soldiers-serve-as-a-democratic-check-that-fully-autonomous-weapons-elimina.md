@@ -54,7 +54,7 @@ related:
   - INS-260327-A8C0
   - INS-260330-A2D4
   - INS-260404-F631
-  - INS-260403-4A16
+  - INS-260412-44EE
 ---
 The debate over autonomous weapons typically focuses on reliability — AI might hallucinate targets or make reckless decisions. But the deeper risk is political: human soldiers are one of the last checks on authoritarian abuse. When a strongman orders troops to fire on protesters or initiate a coup, soldiers can refuse. The mere possibility of refusal constrains authoritarians and forces them to consider public opinion. A fully robotic force that automatically obeys orders eliminates this constraint entirely.
 

@@ -55,10 +55,10 @@ stance: >-
   independent variables
 related:
   - PRI-260406-1F31
+  - INS-260412-BCBB
   - PRI-260403-5DEA
   - INS-260325-95A6
   - INS-260324-861B
-  - PRI-260324-3081
   - INS-260412-E317
   - INS-260412-4127
 evidence:

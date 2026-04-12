@@ -54,11 +54,11 @@ stance: >-
   propagates delays and costs across all connected nations disproportionate to
   the disrupted country's share of the network
 related:
+  - INS-260412-E0B5
   - INS-260412-A747
+  - INS-260412-FD55
   - INS-260330-63FE
-  - INS-260412-FD95
-  - INS-260412-F909
-  - INS-260403-1462
+  - INS-260412-F17D
 ---
 When French controllers struck on May 9, 2019, it didn't just affect French flights — it created a continent-wide crisis requiring Eurocontrol to coordinate with Spain, North Africa, Switzerland, Italy, Germany, and the UK days in advance. Airlines chose between 45+ minute delays or flying the 'Tango route' far west into oceanic airspace, turning 2-hour flights into 3+ hour journeys.
 

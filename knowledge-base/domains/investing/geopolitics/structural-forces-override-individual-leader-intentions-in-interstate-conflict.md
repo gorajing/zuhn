@@ -51,7 +51,6 @@ stance: >-
   or ideologies, is the primary driver of great power competition and war.
 related:
   - INS-260323-B40C
-  - INS-260323-7F5C
   - PRI-260406-F9EB
   - INS-260404-6077
   - PRI-260324-1A67

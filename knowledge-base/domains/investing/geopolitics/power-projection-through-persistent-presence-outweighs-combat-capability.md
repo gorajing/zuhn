@@ -55,8 +55,7 @@ related:
   - INS-260412-69E5
   - INS-260410-38AA
   - INS-260325-3B58
-  - INS-260405-0327
-  - INS-260412-CFF6
+  - INS-260412-FD55
 ---
 The US maintains a fourth carrier function beyond combat, training, and maintenance: power projection. At any given moment, at least one carrier is typically cruising contested waters like the South China Sea, not fighting but simply being visible. The USS Ronald Reagan spent a four-month 2018 deployment with zero combat, purely demonstrating presence. In November 2017, three carriers simultaneously approached Korean waters as a deterrence signal.
 

@@ -51,7 +51,6 @@ stance: >-
   principle that control over energy resources determines geopolitical power, a
   framework that drove every subsequent major power's Middle East strategy.
 related:
-  - INS-260323-E74E
   - INS-260321-5655
   - INS-260327-A654
   - PRI-260406-C4FD

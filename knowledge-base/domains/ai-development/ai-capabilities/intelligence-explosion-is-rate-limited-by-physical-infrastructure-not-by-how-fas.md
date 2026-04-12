@@ -62,7 +62,6 @@ stance: >-
   systems move on human time, not model time — so each unlocked intelligence
   bottleneck just exposes the next physical one.
 related:
-  - INS-260327-CF53
   - INS-260328-F05E
   - INS-260403-CF0E
   - PRI-260328-4810

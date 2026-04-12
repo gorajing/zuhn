@@ -730,6 +730,7 @@ Generated on 2026-04-12 | 2417 sources
 | Charlie Munger (Audio) | youtube | 5 | 2026-04-11 |
 | "China is digging out of a crisis. And America’s luck is wearing thin." — Ken Rogoff | youtube | 5 | 2026-04-10 |
 | China is killing the US on energy. Does that mean they’ll win AGI? — Casey Handmer | youtube | 5 | 2026-04-10 |
+| China's Geography Problem | youtube | 5 | 2026-04-12 |
 | Christianity from Judaism to Constantine: Crash Course World History #11 | youtube | 5 | 2026-03-30 |
 | Coca-Cola: The Complete History & Strategy | youtube | 5 | 2026-04-11 |
 | Coffeezilla: SBF, FTX, Fraud, Scams, Fake Gurus, Money, Fame, and Power | Lex Fridman Podcast #345 | youtube | 5 | 2026-03-30 |
@@ -786,6 +787,7 @@ Generated on 2026-04-12 | 2417 sources
 | How One Company Secretly Poisoned The Planet | youtube | 5 | 2026-03-30 |
 | How one psychedelic trip can alter an entire lifetime | Matthew Johnson: Full Interview | youtube | 5 | 2026-03-25 |
 | How OpenAI Builds for 800 Million Weekly Users: Model Specialization and Fine-Tuning | youtube | 5 | 2026-03-22 |
+| How Overnight Shipping Works | youtube | 5 | 2026-04-12 |
 | How Rwanda is Becoming the Singapore of Africa | youtube | 5 | 2026-04-12 |
 | How Sugar & Processed Foods Impact Your Health | Dr. Robert Lustig | youtube | 5 | 2026-03-30 |
 | How the World’s Most Dangerous Country Solved Murder | youtube | 5 | 2026-04-12 |
@@ -930,6 +932,8 @@ Generated on 2026-04-12 | 2417 sources
 | The CRAZY Truth About McDonald's | youtube | 5 | 2026-03-30 |
 | The Deadliest Being on Planet Earth – The Bacteriophage | youtube | 5 | 2026-04-12 |
 | The Disturbing History of Coca-Cola | youtube | 5 | 2026-03-30 |
+| The Economics of Airline Class | youtube | 5 | 2026-04-12 |
+| The Economics of Private Jets | youtube | 5 | 2026-04-12 |
 | The Electric Vehicle Charging Problem | youtube | 5 | 2026-04-12 |
 | The essence of calculus | youtube | 5 | 2026-03-30 |
 | The Failed Logistics of Russia's Invasion of Ukraine | youtube | 5 | 2026-04-12 |
@@ -947,6 +951,7 @@ Generated on 2026-04-12 | 2417 sources
 | The Modern Middle East, Explained | youtube | 5 | 2026-03-27 |
 | The Most Illegal Business In The World: Silk Road | youtube | 5 | 2026-03-30 |
 | The most important question nobody's asking about AI. | youtube | 5 | 2026-04-10 |
+| The Most Valuable Airspace in the World | youtube | 5 | 2026-04-12 |
 | The Playbook: Lessons from 200+ Company Stories | youtube | 5 | 2026-04-11 |
 | The Power of Suggestion | youtube | 5 | 2026-03-30 |
 | The Power of Vulnerability | Brené Brown | TED | youtube | 5 | 2026-03-27 |
@@ -1471,13 +1476,17 @@ Generated on 2026-04-12 | 2417 sources
 | Ginni Rometty: IBM CEO on Leadership, Power, and Adversity | Lex Fridman Podcast #362 | youtube | 4 | 2026-03-24 |
 | "GPU 쓸 곳이 없어요." AI 시대 한국이 '멘붕'에 빠진 이유ㅣ지식인초대석 EP.88 (김대식 교수) | youtube | 4 | 2026-03-22 |
 | Gradient descent, how neural networks learn | Deep Learning Chapter 2 | youtube | 4 | 2026-03-30 |
+| Guam: Why America's Most Isolated Territory Exists | youtube | 4 | 2026-04-12 |
 | Happiness | youtube | 4 | 2026-03-30 |
 | Harvard negotiator explains how to argue | Dan Shapiro | youtube | 4 | 2026-03-30 |
 | Harvey CEO Winston Weinberg: Why You Should Reinvent Yourself Every 4 Months | youtube | 4 | 2026-03-26 |
 | Henry Rollins: The One Decision that Changed My Life Forever | Big Think | youtube | 4 | 2026-03-30 |
 | Hollywood lied to you about Ancient Rome. Here’s the truth | Mary Beard: Full Interview | youtube | 4 | 2026-03-25 |
 | How accepting impermanence can end the struggle to “fix” your life | Robert Waldinger | youtube | 4 | 2026-03-25 |
+| How Africa is Becoming China's China | youtube | 4 | 2026-04-12 |
 | How AI Agents Will Transform in 2026 (a16z Big Ideas) | youtube | 4 | 2026-03-22 |
+| How Airlines Schedule Flights | youtube | 4 | 2026-04-12 |
+| How Airports Make Money | youtube | 4 | 2026-04-12 |
 | How An Infinite Hotel Ran Out Of Room | youtube | 4 | 2026-03-30 |
 | How Apple and Nike have branded your brain | Your Brain on Money | Big Think | youtube | 4 | 2026-03-30 |
 | How Axon Became Wall Street's Hottest Stock | youtube | 4 | 2026-03-24 |
@@ -1509,6 +1518,7 @@ Generated on 2026-04-12 | 2417 sources
 | How to Move the Sun: Stellar Engines | youtube | 4 | 2026-04-12 |
 | How to OVER Engineer a Website // What is a Tech Stack? | youtube | 4 | 2026-03-30 |
 | How To Release A Single In 2026 (The Step-By-Step Plan) | youtube | 4 | 2026-03-22 |
+| How to Stop a Riot | youtube | 4 | 2026-04-12 |
 | “How We Can Eliminate Crime” | Ben Horowitz and Garrett Langley | youtube | 4 | 2026-03-22 |
 | How We Could Build a Moon Base TODAY – Space Colonization 1 | youtube | 4 | 2026-04-12 |
 | “I find it almost disturbing that the universe favors life this strongly” – Nick Lane | youtube | 4 | 2026-04-10 |
@@ -1660,9 +1670,11 @@ Generated on 2026-04-12 | 2417 sources
 | Why Blue Whales Don't Get Cancer - Peto's Paradox | youtube | 4 | 2026-04-12 |
 | Why Cities Are Where They Are | youtube | 4 | 2026-04-12 |
 | Why do prime numbers make these spirals? | Dirichlet’s theorem and pi approximations | youtube | 4 | 2026-03-30 |
+| Why Flying is So Expensive | youtube | 4 | 2026-04-12 |
 | Why is pi here?  And why is it squared?  A geometric answer to the Basel problem | youtube | 4 | 2026-03-30 |
 | Why Most AI Projects Fail Before They Start | youtube | 4 | 2026-03-23 |
 | Why OpenAI Doesn't Pay Sales Commission (And Why It Works) with OpenAI GTM Leader Maggie Hott | youtube | 4 | 2026-03-27 |
+| Why Planes Don't Fly Faster | youtube | 4 | 2026-04-12 |
 | Why Snatch Blocks are AWESOME (How Pulleys Work)  - Smarter Every Day 228 | youtube | 4 | 2026-03-30 |
 | Why There are Now So Many Shortages (It's Not COVID) | youtube | 4 | 2026-04-12 |
 | Why We Should NOT Look For Aliens - The Dark Forest | youtube | 4 | 2026-04-12 |
@@ -2400,23 +2412,11 @@ Generated on 2026-04-12 | 2417 sources
 | You Are Taking Creatine Wrong (here's how to fix it) | youtube | 1 | 2026-03-26 |
 | You Will Never Wear AirPods Again | youtube | 1 | 2026-03-26 |
 | You'll Never Eat Sardines Again | youtube | 1 | 2026-03-26 |
-| China's Geography Problem | youtube | 0 | 2026-04-12 |
 | Elon Musk's Basic Economics | youtube | 0 | 2026-04-12 |
-| Guam: Why America's Most Isolated Territory Exists | youtube | 0 | 2026-04-12 |
-| How Africa is Becoming China's China | youtube | 0 | 2026-04-12 |
-| How Airlines Schedule Flights | youtube | 0 | 2026-04-12 |
-| How Airports Make Money | youtube | 0 | 2026-04-12 |
 | How Budget Airlines Work | youtube | 0 | 2026-04-12 |
-| How Overnight Shipping Works | youtube | 0 | 2026-04-12 |
 | How the US Government Will Survive Doomsday | youtube | 0 | 2026-04-12 |
-| How to Stop a Riot | youtube | 0 | 2026-04-12 |
-| The Economics of Airline Class | youtube | 0 | 2026-04-12 |
-| The Economics of Private Jets | youtube | 0 | 2026-04-12 |
 | The Insane Logistics of Formula 1 | youtube | 0 | 2026-04-12 |
-| The Most Valuable Airspace in the World | youtube | 0 | 2026-04-12 |
 | The Plane Highway in the Sky | youtube | 0 | 2026-04-12 |
 | What's Actually the Plane of the Future | youtube | 0 | 2026-04-12 |
-| Why Flying is So Expensive | youtube | 0 | 2026-04-12 |
-| Why Planes Don't Fly Faster | youtube | 0 | 2026-04-12 |
 | Why the Northernmost Town in America Exists | youtube | 0 | 2026-04-12 |
 | Why Trains Suck in America | youtube | 0 | 2026-04-12 |

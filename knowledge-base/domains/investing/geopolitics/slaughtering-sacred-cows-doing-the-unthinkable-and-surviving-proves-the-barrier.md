@@ -54,6 +54,7 @@ related:
   - INS-260327-6177
   - INS-260330-B444
   - INS-260323-1BB4
+  - INS-260412-E89C
 stance: When Trump recognized Jerusalem as Israel's capital
 evidence:
   - id: INS-260327-6177

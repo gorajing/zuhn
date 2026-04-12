@@ -1,10 +1,10 @@
 # Tag: aging
 
-- `INS-260405-174B` Replacing blood with saline and albumin mimics young-blood transfusion benefits, revealing that aging damage accumulation — not depletion of youth factors — is the primary mechanism.
 - `INS-260412-79FE` If aging is caused by accumulated DNA damage and specific gene expression, it becomes an engineering target rather than an existential given.
 - `INS-260410-D75D` If there were a single upstream 'aging gene,' evolution would have found it when competing against longer-lived cousins; the absence of such a target means aging is layered and medicines will arrive as incremental additions of healthy years.
 - `INS-260410-BE5A` If you're reaching 65 at 1% rates throughout human history, evolution can't select alleles that preserve late-life function, which is why anti-aging should be relatively tractable versus problems evolution iterated on.
 - `INS-260409-D830` Young mitochondria from maternal-line relatives is a biologically coherent source for autologous transplant, with delivery (not supply) as the real problem.
+- `INS-260405-174B` Replacing blood with saline and albumin mimics young-blood transfusion benefits, revealing that aging damage accumulation — not depletion of youth factors — is the primary mechanism.
 - `INS-260325-B393` Standard blood work can reveal your biological age, which typically diverges from your chronological age by up to 5 years — and this number is what actually predicts disease risk.
 - `INS-260325-E8BC` Your biological age is malleable through lifestyle changes, even though your chronological age is fixed.
 - `INS-260327-2321` Common skincare ingredients including retinol, chemical sunscreens, and fragrances accelerate skin aging

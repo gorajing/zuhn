@@ -1,5 +1,6 @@
 # Tag: time-value
 
+- `INS-260412-D3C3` Private jets beat commercial only where poor route coverage forces overnight stops, not where direct commercial flights exist.
 - `INS-260403-E185` Super-angels rationally optimize for fast acquisitions because a 10x return in one year beats a VC's 6-year path to IPO on an annualized basis.
 - `INS-260330-44C7` Investing $10,000 at age 22 at 10% yields $600K by retirement versus $232K starting at 32 — the 10-year head start nearly triples the outcome at the same return rate.
 - `INS-260403-C7AB` The same return multiple can represent wildly different investment quality depending on how long capital was locked up.

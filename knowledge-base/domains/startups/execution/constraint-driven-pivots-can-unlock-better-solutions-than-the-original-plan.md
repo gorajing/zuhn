@@ -50,11 +50,10 @@ stance: >-
   often produces a more sustainable solution than the initial design
 related:
   - INS-260410-F38A
+  - INS-260412-826D
+  - INS-260412-3713
   - INS-260412-B172
   - INS-260324-41D6
-  - INS-260412-E925
-  - INS-260412-A747
-  - INS-260412-65EF
 ---
 The original plan was a British Airways-branded 737 nonstop from Johannesburg — seemingly ideal. Wind shear from the northern cliffs made this unworkable because the 737 couldn't land safely with a tailwind on the short runway. The forced pivot to Airlink's smaller Embraer E190 actually created a connecting hub structure through Windhoek that served both Johannesburg and Cape Town passengers, added monthly Ascension Island service, and the flights turned a small profit in year one.
 

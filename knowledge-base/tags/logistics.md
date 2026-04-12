@@ -2,6 +2,7 @@
 
 - `INS-260405-8B05` An AI system routing 2,000 medical devices across 50 hospital locations cut nursing retrieval travel by 50% — staff only noticed they were happier.
 - `INS-260327-F4DB` AI voice fidelity and latency have crossed the threshold for enterprise use cases like logistics coordination and OTC trading, where voice interactions still dominate.
+- `INS-260412-3512` Anchorage — a city of 300K people — hosts the 4th busiest cargo airport in the world because it sits on the great-circle route between US and Asian hubs, serving as both a refueling stop and a sorting node.
 - `INS-260412-3382` Pre-pandemic shipping cost of ~$1,000 per 20-foot container from Asia to the US means transporting a single shoebox 8,000 miles cost about 30 cents — less than a chicken nugget.
 - `INS-260412-F401` Container shortages worsened port congestion, which worsened container shortages, which worsened truck driver shortages — each shortage feeding the next in a vicious cycle.
 - `INS-260327-7D63` Napoleon conquered Egypt but Nelson destroyed his fleet at the Nile, stranding the entire French army thousands of miles from home with no way to be reinforced.
@@ -14,7 +15,10 @@
 - `INS-260412-9DEE` The US-China trade deficit made westbound Pacific shipping near-free, enabling an entire global recycling industry that collapsed when China closed the receiving end.
 - `INS-260410-3022` Barnes & Noble couldn't match Amazon's fulfillment centers because doing so meant admitting their existing distribution network was obsolete.
 - `INS-260328-75B8` Some business constraints are physics — no execution can overcome a market that only buys once a year or a supply chain that can't reach the customer.
+- `INS-260412-D031` Express shipping requires such massive hub-and-spoke networks that new entrants are locked out — unless, like Amazon, they ship enough of their own packages to fill planes without external customers.
 - `INS-260327-500C` Zipline's biggest realization was that designing a cool autonomous aircraft was only 15% of building a national-scale delivery system.
 - `INS-260412-CFF6` Antarctica uses intercontinental jets to coastal McMurdo, ski-equipped LC-130s inland, and 40-day tractor convoys for bulk cargo—each mode optimized for its leg.
+- `INS-260412-8DF5` FedEx chose Memphis for its SuperHub not because it's the geographic center of the US, but because it's near the mean population center — minimizing average delivery distance to the most people.
 - `INS-260412-F414` Aircraft carriers restock fuel, food, and mail while underway, avoiding the vulnerability of port stops — a pattern applicable to any organization that cannot afford downtime.
 - `INS-260412-D787` The White House to UN trip takes exactly one hour because every transition — Marine One to Air Force One (5 min), landing to motorcade — is ruthlessly optimized.
+- `INS-260412-F8AE` FedEx uses retired passenger aircraft because their planes only fly ~2 hours/day versus airlines' 12+ hours — cheap purchase price matters more than fuel efficiency at low utilization.

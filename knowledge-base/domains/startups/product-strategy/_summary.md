@@ -1,6 +1,6 @@
 # Topic: product-strategy
 
-> 88 insights
+> 90 insights
 
 - `INS-260405-4AAD` [high] Juicero raised $120M for technology that was immediately undermined when customers realized the same outcome was achievable by hand.
 - `INS-260330-809A` [high] Apple's acquisition pattern — Authentec for Touch ID, Siri for voice, NeXT for Jobs — shows that buying capabilities yields higher returns than buying businesses.
@@ -39,6 +39,7 @@
 - `INS-260404-97AA` [high] Halo targets ALS and locked-in syndrome patients first, creating emotional demonstrations and clinical validation before pursuing consumer augmentation.
 - `INS-260404-9E4E` [high] Mission-critical products like Datadog must earn the right to expand by first achieving exceptional core reliability, which delays but ultimately strengthens multi-product moves.
 - `INS-260404-68EE` [high] 78% of public software companies above $5B market cap are multi-product, making it effectively mandatory for outsized outcomes.
+- `INS-260412-CC19` [high] The transonic range (Mach 0.8-1.2) where drag spikes exponentially creates a hard gap between subsonic and supersonic flight — you must commit fully to one side.
 - `INS-260403-30FF` [high] Clear organizational vision replaces coordination overhead — everyone already knows what to build without being told.
 - `INS-260404-95D0` [high] The email system's fundamental vulnerability is that sending messages has no consequences for the sender.
 - `INS-260403-4964` [high] The App Store, launched a year after iPhone, became a stronger moat than the hardware itself through developer network effects.
@@ -83,6 +84,7 @@
 - `INS-260403-6A69` [medium] Great hardware buys time against bad policies, but the reputational damage compounds while the hardware advantage doesn't.
 - `INS-260404-0F87` [medium] Studying how a company's website messaging evolves reveals which value propositions are constant (the platform identity) versus which change (individual product positioning).
 - `INS-260403-0637` [medium] Multi-user AI coordination creates compounding network effects unavailable to single-player AI tools.
+- `INS-260412-E0B6` [medium] Early aviation had no classes because flying itself was the luxury; class segmentation only emerged as costs dropped enough for non-premium customers to participate.
 - `INS-260405-0010` [medium] PMF is a dynamic equilibrium that degrades without continuous customer feedback loops.
 - `INS-260403-35CB` [medium] Ambient AI's power comes from not requiring oversight, but that same quality limits users' ability to opt out — making privacy a first-class design decision.
 - `INS-260404-A850` [medium] Dynamic, AI-driven posture adjustment beats static security configurations because threat landscapes change faster than humans can respond.

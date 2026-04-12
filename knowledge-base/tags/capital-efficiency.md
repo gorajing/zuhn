@@ -1,5 +1,6 @@
 # Tag: capital-efficiency
 
+- `INS-260412-826D` WestJet flies 6 routes with 3 planes by using St John's as a scissor hub where domestic and transatlantic flights swap passengers.
 - `INS-260410-320D` Mars targets a fixed 18% return on the replacement cost of assets, forcing continuous asset productivity and disciplined reinvestment.
 - `INS-260403-2369` Stablecoins move money fast but earn nothing — the real opportunity is building yield layers on top of them.
 - `INS-260403-F732` Rising rates shake out weak competitors, concentrate talent, and force the survivors to build sustainably profitable businesses.
@@ -30,6 +31,7 @@
 - `INS-260404-B6DF` Founders must demonstrate capital efficiency and a path to profitability to raise at attractive valuations in the post-ZIRP era.
 - `INS-260403-9AD1` Burn multiple (net burn / net new ARR) below 1.5x is the new gold standard; above 3x triggers serious VC concern.
 - `INS-260403-1823` Women-founded startups produce $0.78 in revenue per dollar raised versus $0.31 for male-founded ones, making the funding disparity an investor performance problem.
+- `INS-260412-4D3B` Southwest and Spirit achieve cost leadership by keeping planes flying 11+ hours daily versus legacy carriers' 8.5 hours.
 - `INS-260403-2B09` AI and no-code platforms have collapsed the cost of startup operations so dramatically that most software startups no longer need venture-scale capital.
 - `INS-260403-165F` Applied Intuition reached $15B valuation by serving 18 of 20 top automakers while preserving capital and expanding to multi-product within a year.
 - `INS-260329-644B` Cloud computing converts capital expense into variable expense, letting companies pay only for resources consumed rather than provisioning for peak capacity.

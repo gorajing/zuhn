@@ -58,6 +58,7 @@ related:
   - PRI-260328-43D8
   - INS-260327-B038
   - INS-260327-70A4
+  - INS-260412-91EE
 ---
 On paper, France had 200,000+ troops in Spain. In reality, the vast majority were tied down garrisoning cities, protecting supply lines, and fighting guerrillas. When Wellington launched his 1813 offensive, the French could only concentrate a fraction of their nominal strength for the field army. The rest were scattered across Spain doing occupation duty. The apparently dominant force was actually hollow.
 

@@ -1,6 +1,6 @@
 # Topic: persuasion
 
-> 57 insights
+> 62 insights
 
 - `INS-260403-9DB6` [high] Steady accumulation of documented incidents shifts opinion more than any single dramatic event because patterns resist counter-narrative.
 - `INS-260403-36F0` [high] Correctness about what's wrong doesn't convert into support without a clear alternative vision.
@@ -13,16 +13,20 @@
 - `INS-260403-6399` [high] Rhetoric that questions whether a system is legitimate makes it impossible for the speaker to credibly claim they should lead that system.
 - `INS-260403-B12E` [high] Saying 'nothing could go wrong' destroys credibility — genuine experts enumerate risks in detail because deep knowledge reveals more failure modes.
 - `INS-260403-C37D` [high] Good persuaders don't lie — they choose which truths to tell, the same way a flatterer picks genuine compliments.
+- `INS-260412-6DC9` [high] Heathrow's highest-in-world retail revenue per passenger comes from environmental design choices, not aggressive selling.
 - `INS-260403-23C1` [high] The article pitches the same amendment separately to Democrats (anti-gerrymandering), Republicans (Trump's legacy building), Libertarians (third-party viability), and state legislators (personal career advancement).
 - `INS-260403-560A` [high] Labels like x-ist end discussion by signaling that truth-evaluation is no longer relevant.
 - `INS-260403-49CC` [high] Insider status grants persuasive leverage that outsiders cannot replicate.
 - `INS-260412-C71D` [high] Bukele's path from emergency legislative session to marching soldiers into congress to dismissing Supreme Court judges to reinterpreting term limits followed a step-by-step escalation where each move had plausible justification.
 - `INS-260403-F171` [high] Craft a single compelling phrase ('the X of Y') that investors will remember after hearing dozens of pitches.
 - `INS-260330-5BEB` [high] The Black Legend pattern shows how condemning a rival's cruelty becomes moral cover for your own imperial ambitions.
+- `INS-260412-D627` [high] Post-2008, companies cut private jets that made economic sense purely for optics — the same force that now drives unjustified personal jet use in the opposite direction.
+- `INS-260412-891B` [high] Riot police manufacture perceived power through dehumanizing uniforms and synchronized movement, making both themselves and opponents believe the police are stronger than they are.
 - `INS-260403-21A5` [high] Persuasion overhead increases with idea novelty until it consumes all available energy, capping how far you can push thinking.
 - `INS-260330-9DC9` [high] Persuasion offers short-term advantages but cannot indefinitely substitute for factual grounding and real value creation.
 - `INS-260403-61B0` [high] Spin added for persuasion gets mixed into your own reasoning, making you unable to see your ideas clearly.
 - `INS-260403-4C80` [high] Announced breakthroughs can be strategic deception designed to make containment policies seem futile.
+- `INS-260412-37E5` [high] Airlines invented modern price discrimination by using advance purchase requirements and flexibility as self-sorting mechanisms—tourists willingly chose the cheaper constrained ticket while business travelers revealed their willingness to pay.
 - `INS-260403-2385` [high] Structure landing page narratives as Problem → Agitation (real business cost) → Transformation (quantified outcome) using customers' exact language.
 - `INS-260404-B31C` [high] Sequoia's 'proxy for demand' — what people do now with inadequate tools — is more convincing than market size because it shows revealed behavior, not projected numbers.
 - `INS-260403-B887` [high] Present proposals in terms of what the audience already cares about, not what you care about.
@@ -44,6 +48,7 @@
 - `INS-260403-74DB` [medium] The shopping-as-leisure reframe is a deliberate corporate strategy most people can't see through for decades.
 - `INS-260409-241B` [medium] Naming a specific cult-loved brand instead of a generic category gives viewers a pre-formed opinion to defend or attack in the comments.
 - `INS-260404-F0A3` [medium] Explicitly stating the boundaries of your argument before making it partially defuses accusations of malicious streetlighting or directional overclaiming.
+- `INS-260412-C39A` [medium] China's 'no strings attached' aid framing works because hidden political conditions feel less coercive than the IMF's explicit human rights requirements.
 - `INS-260410-61CE` [medium] Porsche's sales cycle for a 911 is 40-50 years: kids fall in love with the car at age 10 and buy it in their 50s, which is why the 911 keeps the same silhouette across generations.
 - `INS-260402-476E` [medium] Moral labels replace factual rebuttals precisely when the factual rebuttal would fail.
 - `INS-260403-20C3` [medium] LLM fact-checkers like Grok achieve belief-accuracy shifts comparable to professional fact-checking, and resist their creators' political biases.

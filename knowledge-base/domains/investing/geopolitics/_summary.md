@@ -1,6 +1,6 @@
 # Topic: geopolitics
 
-> 568 insights
+> 575 insights
 
 - `INS-260326-3E19` [very_high] Pharmaceutical companies funding the FDA, banks staffing financial regulators, and tech giants writing platform regulations are structurally identical -- the mechanism is industry-funded oversight producing industry-favorable rules.
 - `INS-260326-79DF` [very_high] Germany's unrestricted submarine warfare sank 886,000 tons in April 1917 alone -- a tactical triumph that brought America into the war and guaranteed Germany's defeat.
@@ -16,6 +16,7 @@
 - `INS-260322-415E` [high] Very new, very big, very exciting world-changing technologies deterministically lead to bubbles — the question is whether we're in 1997, 1998, or 1999.
 - `INS-260321-CBD2` [high] Unlike the dot-com era, AI capex is financed by the most profitable companies in history and there are 'no dark GPUs' (every deployed GPU gets fully utilized immediately), but private credit entering the data center buildout and Oracle's massive cash-flow-negative bet are early warning signals.
 - `INS-260321-4B99` [high] Factory capacity for DRAM and NAND is fixed, but AI demand pays so much more that producers shifted mass production lines to HBM — making consumer memory prices rise in tandem.
+- `INS-260412-F17D` [high] Russia's Siberian airspace control lets it extract ~$100/ticket on Europe-Asia routes by being the only direct path between $20T+ economies.
 - `INS-260325-4C16` [high] Alexander won with 40,000 troops against millions by moving faster than enemies could react — speed and adaptability beat numbers.
 - `INS-260327-FB61` [high] Germany's 1918 Spring Offensive gained more territory than any operation since 1914 but exhausted its last reserves, so when the Allies counterattacked with fresh American troops, Germany had nothing left.
 - `INS-260410-C207` [high] The WWII Allies had mutually exclusive end-states but a common existential enemy in Hitler, while the Axis shared ideology but fought parallel wars because their primary enemies didn't align — which let the Allies defeat them in detail.
@@ -47,6 +48,7 @@
 - `INS-260327-C0C5` [high] Marshal Ney was the bravest man in Napoleon's army but his recklessness — charging cavalry without infantry support at Waterloo — contributed to some of the greatest French disasters.
 - `INS-260327-7C94` [high] Nelson at Trafalgar broke the rules of naval warfare by attacking perpendicularly into the enemy line — accepting devastating fire during approach — to achieve total victory rather than the indecisive exchanges that conventional parallel tactics produced.
 - `INS-260330-A2D4` [high] China can destroy North Korea economically or militarily but cannot meaningfully steer it because using blunt tools would destabilize the buffer it needs.
+- `INS-260412-91EE` [high] Desolate territory that lacks infrastructure creates natural defense by making troop movement logistically impossible.
 - `INS-260327-2B44` [high] New construction is near record highs but almost entirely luxury apartments and McMansions, creating hundreds of thousands of empty high-end units alongside a 4-million-unit affordable housing shortage.
 - `INS-260327-F3F0` [high] Napoleon's Italian campaign funded itself through war indemnities and looting — each victory paid for the next advance, removing dependence on the cash-strapped French government.
 - `INS-260409-755C` [high] Massachusetts passed a millionaire tax in 2022 and the number of millionaires grew ~40% over the next two years, the opposite of the predicted exodus.
@@ -107,6 +109,7 @@
 - `INS-260327-C7BF` [high] Napoleon's core strategy was defeating coalition members one at a time, which only worked as long as they couldn't coordinate their forces to attack simultaneously.
 - `INS-260327-191B` [high] At Rivoli, the Austrians attacked in multiple columns from different directions but Napoleon concentrated against each column before the others could arrive, defeating them piecemeal.
 - `INS-260327-3B25` [high] Medieval castles used concentric walls, each higher than the last, so that attackers who breached one wall faced another, more formidable barrier — making the total cost of assault prohibitive.
+- `INS-260412-44EE` [high] China's South China Sea militarization to secure Pacific access pushed the Philippines — a nation already distancing from the US — back toward the American alliance.
 - `INS-260327-F98D` [high] The Russian redoubts at Borodino forced Napoleon into costly frontal assaults that bled his army white even as he captured each position.
 - `INS-260323-11FF` [high] Chinese deference to authority is a thousands-year-old implicit contract — stability, security, and prosperity in exchange for some deference — not the blind submission Western observers assume.
 - `INS-260323-E81D` [high] Holocaust survivor Maior Meyer's observation: for a dominant group to dehumanize another, they must first dehumanize themselves — and technology accelerates this by inserting screens between killer and killed.
@@ -115,6 +118,7 @@
 - `INS-260327-CF72` [high] Germany's Verdun strategy deliberately targeted a fortress the French were emotionally unable to abandon, forcing France to feed troops into a meat grinder at ruinous exchange rates.
 - `INS-260323-6357` [high] Much of democracy's stability relies on unwritten norms rather than enforceable laws — a shameless norm-violator reveals how fragile the system really is.
 - `INS-260330-DA38` [high] Demographic shifts happen so slowly that they're ignored until retirement waves hit, then consequences cascade rapidly.
+- `INS-260412-3A00` [high] When a buffer territory's native population views foreign military arrival as liberation rather than invasion, the buffer's defensive value collapses.
 - `INS-260330-6C3D` [high] A country's population age structure today reveals its economic reality 20-30 years from now with surprising accuracy.
 - `INS-260330-AD61` [high] Fertility rates decline naturally as nations industrialize, with or without explicit population control policies.
 - `INS-260330-0539` [high] Russia's pension contributor-to-recipient ratio has deteriorated 44% since 1991, with no short-term fix possible because today's teenagers are '13-year-old ripples of actions past.'
@@ -154,6 +158,7 @@
 - `INS-260327-7D63` [high] Napoleon conquered Egypt but Nelson destroyed his fleet at the Nile, stranding the entire French army thousands of miles from home with no way to be reinforced.
 - `INS-260327-10C9` [high] Dario argues export controls on advanced chips are the most important national security policy in all fields because AI dominance translates directly to military and economic dominance, and the US has a ~4-year hardware lead that creates a critical 10-year window.
 - `INS-260403-A1FA` [high] Export controls slow adversary progress during a critical window rather than permanently preventing capability development.
+- `INS-260412-354B` [high] China's entire economy and food security depend on ocean access that US-allied nations surrounding it could sever through naval blockade.
 - `INS-260327-BE3F` [high] Russian officers who marched to Paris in 1814 saw constitutional government, free citizens, and modern institutions — then returned to autocratic Russia and could no longer accept serfdom and absolutism.
 - `INS-260327-0758` [high] British taxation of the American colonies to pay for European wars — without colonial representation in Parliament — created the economic logic for independence.
 - `INS-260327-7A27` [high] The Decembrists' crushed uprising didn't end reform pressure in Russia — it radicalized the next generation, who moved from constitutional reform to revolutionary socialism and eventually Bolshevism.
@@ -207,6 +212,7 @@
 - `INS-260330-02A7` [high] Inflation should be modeled as a multi-dimensional vector across all assets and goods, not reduced to a single government-defined CPI scalar.
 - `INS-260412-C6ED` [high] China built money-losing rail lines to Xinjiang and Tibet explicitly to integrate separatist regions, prioritizing political unity over financial returns.
 - `INS-260330-0FCE` [high] Physical infrastructure creates economic interdependency that gradually makes political separation impractical, serving as a subtler tool of control than direct legislation.
+- `INS-260412-AB8C` [high] China's relatively modest infrastructure loans buy disproportionate UN influence because each African nation gets one equal vote regardless of size.
 - `INS-260412-C77F` [high] Russia's state-owned rail monopoly enables domestic military dominance but creates a crippling dependency that collapses at the border.
 - `INS-260403-CFBD` [high] Weaponizing legal institutions against independent economic bodies trades durable stability for short-term political leverage.
 - `INS-260410-1803` [high] Mao's revolutionary method — 'triangle building' — was to grow shadow government, army, and civic networks inside the host until they could replace it, not to storm it from outside.
@@ -314,6 +320,7 @@
 - `INS-260410-EA78` [high] When ethical rule and economic prosperity fail as legitimacy pillars, authoritarian regimes default to jingoistic nationalism and territorial expansion — a last-resort card that clouds judgment and catalyzes counter-coalitions.
 - `INS-260410-AA87` [high] Mao kept exporting grain while 40 million Chinese starved because food exports were 'his pocket change' — the main source of government income he needed to fund anything else.
 - `INS-260323-EA65` [high] W.R. Grace lobbied regulators to define asbestos contamination below 1% as 'asbestos-free' — controlling the definition was more effective than fighting every individual regulation.
+- `INS-260412-004A` [high] Mainland-centric regulations like the Jones Act and FAA approval processes impose disproportionate costs on geographically peripheral territories like Guam.
 - `INS-260403-A87D` [high] The US government is undermining its own dollar dominance by attacking the very stablecoin projects that would cement USD as the default digital currency.
 - `INS-260405-1101` [high] Britain in 1870-1914 produced more in absolute terms at war's outbreak than in 1870, yet felt weaker because America and Germany had grown faster — the lesson applies to any competitive system.
 - `INS-260327-377A` [high] Napoleon's relentless pursuit after Bassano prevented the Austrians from regrouping, turning a battlefield win into the destruction of an entire army.

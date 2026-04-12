@@ -61,6 +61,7 @@ related:
   - PRI-260406-F9EB
   - PRI-260321-0A4D
   - INS-260412-BA52
+  - INS-260412-3A00
 ---
 The Vienna Convention's inviolability clause means host countries cannot enter embassy buildings, arrest diplomats, or directly enforce laws against protected individuals. When the Libyan embassy shooting killed a British policewoman in 1984, the UK's only recourse was to sever diplomatic relations entirely and expel all staff — a drastic action with decades-long consequences for bilateral relations.
 

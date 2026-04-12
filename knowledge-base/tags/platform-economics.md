@@ -7,6 +7,7 @@
 - `INS-260330-F9CA` Facebook scrapped WhatsApp's $1/year fee because a user's behavioral data, contact graph, and cross-platform identity linkage is worth far more than $1 annually to an advertising network.
 - `INS-260327-2B62` FaZe Clan's cost of revenue exceeded 70% every year because content creators demanded generous revenue-sharing to stay exclusive -- the company captured the least value while still spending beyond its means.
 - `INS-260403-8008` The most powerful business models get customers, communities, or third parties to create the core value while the company provides the platform.
+- `INS-260412-DF15` Capacity-constrained platforms maximize revenue by selecting for high-value participants rather than increasing total volume.
 - `INS-260324-157A` Chinese merchants on Wish/Temu profit on $1-10 items because of low cost of living, cheap rural warehouses, and subsidized state-owned postal services — the platform takes a cut while owning zero inventory.
 - `INS-260409-8DDE` Platforms don't pay creators and never have — the real AI threat to creators is brands choosing AI faces they can own over human creators they rent, not platforms replacing content producers.
 - `INS-260330-2CE3` Bing's $5B/year profit proves that owning the default position on a dominant platform is more valuable than building a better product.

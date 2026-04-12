@@ -49,15 +49,14 @@ stance: >-
   Deliberately throttling input flow at a bottleneck yields lower aggregate
   delays than allowing unconstrained entry into a capacity-constrained system
 related:
-  - INS-260326-3CDE
   - INS-260327-CF53
   - INS-260330-C367
-  - INS-260412-FD95
-  - INS-260412-E71C
   - INS-260412-B252
   - INS-260412-65EF
+  - INS-260412-E0B5
   - INS-260412-F909
-  - INS-260412-2117
+  - INS-260412-F17D
+  - INS-260412-FD55
 ---
 When airspace sectors lack enough controllers, Eurocontrol doesn't just let flights pile up in the air — they hold flights on the ground or reroute them before departure. This is directly analogous to highway ramp metering: by restricting inflow, you prevent the cascade failure that occurs when a system exceeds capacity. On May 9, 2019, initial projections showed 1 million minutes of potential delay; active flow management cut that to 300,000.
 

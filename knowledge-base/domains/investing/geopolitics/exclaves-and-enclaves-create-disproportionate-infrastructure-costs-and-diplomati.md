@@ -55,13 +55,14 @@ stance: >-
 related:
   - INS-260323-B1F5
   - INS-260323-17B5
-  - INS-260325-DDEE
   - INS-260404-667A
   - PRI-260406-0EC6
+  - INS-260325-DDEE
   - INS-260330-2EB0
   - INS-260403-B6C6
   - INS-260412-0847
   - INS-260412-6F6A
+  - INS-260412-3A00
 ---
 The video catalogs numerous territorial discontinuities: Point Roberts requires US students to cross into Canada and back for school. Azerbaijan's Nakhchivan exclave forces residents to route entirely around Armenia. Bolivia's Copacabana is reachable only by driving through Peru. Baarle-Nassau has borders so fragmented that individual buildings are split between Belgium and the Netherlands.
 

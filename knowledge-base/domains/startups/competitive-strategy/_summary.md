@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 597 insights
+> 603 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -35,6 +35,7 @@
 - `INS-260404-CA58` [high] Intimidating startup ideas have less competition precisely because most founders are too scared to attempt them.
 - `INS-260327-0710` [high] Shopping malls built around anchor department stores face cascading failure when anchors close because the entire ecosys
 - `INS-260327-6B78` [high] Anthropic's enterprise sales targets two distinct buyers: developers/CPOs who consume the API and Chief AI Officers who manage model portfolios — with the majority of the Fortune 500 now having someone in the latter role.
+- `INS-260412-90D7` [high] Airlines avoided first class in the 70s-80s because the Concorde was supposed to own that tier, accelerating business class development even after the Concorde failed.
 - `INS-260402-ECD2` [high] In hierarchical markets, winning one apex customer (e.g., a top law firm) cascades credibility and adoption downstream more effectively than scaling from the bottom up.
 - `INS-260330-D801` [high] Patek Philippe's business model — forcing buyers through loyalty tiers, policing resales, and rebuying watches to trace leakers — is fundamentally bubble management, not watchmaking.
 - `INS-260410-8AF0` [high] Britain could have weighed in against Prussia at any point in Bismarck's three wars and didn't, because each war individually looked too minor to merit intervention.
@@ -92,6 +93,7 @@
 - `INS-260324-782C` [high] After years of cost-cutting, Hershey, Kellogg, and General Mills all pivoted to acquiring emerging brands because they'd lost the internal talent and muscle to invent new products.
 - `INS-260402-FFB2` [high] Patent aggression against competitors is a sell signal indicating the company can no longer win on product merit.
 - `INS-260327-7AB5` [high] Recycling messaging allows companies to position waste as the consumers problem rather than redesigning products and pac
+- `INS-260412-664B` [high] The Concorde died not from a faster plane but from flat-bed seats on slower planes that eliminated the time-saving advantage.
 - `INS-260403-16D7` [high] Products are easy to copy but business models create structural advantages that competitors struggle to replicate.
 - `INS-260330-95F3` [high] Singapore's PAP holds free elections but rigs the playing field through gerrymandering, 11-day campaigns, and defamation lawsuits — a model that maps to how dominant platforms allow competitors to exist while structurally disadvantaging them.
 - `INS-260403-2074` [high] If you're the current leader and the fastest builder, competitor count is irrelevant — most will self-destruct.
@@ -202,6 +204,7 @@
 - `INS-260403-D7B1` [high] Gas stations depend on a minimum customer base; as EV adoption grows, station closures accelerate the shift in a self-reinforcing cycle.
 - `INS-260403-9689` [high] A gatekeeper between you and your customers holds existential power over your business regardless of how good your product is.
 - `INS-260327-0BDD` [high] When affluent consumers discover and popularize budget shopping channels (thrift stores, discount retailers), prices ris
+- `INS-260412-FDF1` [high] China's government kickstarted African investment, but 90% of 10,000 Chinese businesses there are now privately owned and self-sustaining.
 - `INS-260327-CADA` [high] The eco-premium business model profits from the gap between consumer willingness to pay for sustainability and the actua
 - `INS-260322-CFB1` [high] AI-native startups win most reliably at greenfield moments — new company creation or inflection points where customers must switch systems anyway — rather than trying to displace incumbent software.
 - `INS-260330-E670` [high] Foreign companies physically operating in a country create knowledge spillovers through supplier interactions and employee job-switching that domestic policy alone cannot replicate.
@@ -281,6 +284,7 @@
 - `INS-260330-A9F0` [high] The better you make your product, the more your used inventory competes with your new releases.
 - `INS-260329-D37E` [high] The VC maxim holds: great entrepreneur + poor market = market wins; poor entrepreneur + great market = market still wins.
 - `INS-260327-7C15` [high] Amazon flooded its marketplace with third-party sellers, polluting search results with junk and destroying purchase confidence.
+- `INS-260412-D031` [high] Express shipping requires such massive hub-and-spoke networks that new entrants are locked out — unless, like Amazon, they ship enough of their own packages to fill planes without external customers.
 - `INS-260324-0DC1` [high] McDonald's franchisees pay ~$400K/year per store (4x Burger King/Wendy's), and the company's rent revenue is nearly double its food royalties — making it a real estate company that sells burgers as a side effect.
 - `INS-260403-4F0D` [high] Structurally misaligned incentives among transaction participants (dealers, lenders, buyers) create the friction that fintech-enabled marketplaces can profitably eliminate.
 - `INS-260330-59FD` [high] Airbnb declined to acquire their Rocket Internet clone despite the clone having 10x their funding and 10x their headcount, because the clone's mercenary culture would poison Airbnb's missionary DNA.
@@ -377,6 +381,7 @@
 - `INS-260323-6D41` [high] In evolutionary simulations, winning replicators consistently had the highest replication rate and lowest death rate -- speed of copying is the dominant competitive advantage.
 - `INS-260403-3C9D` [high] LVMH's free sanitizer from perfume factories bought permanent brand reclassification as a socially responsible corporation.
 - `INS-260330-3274` [high] Cities surrendered to the Mongols without fighting because the alternative — witnessed in previous slaughters — was annihilation.
+- `INS-260412-00A1` [high] China's agricultural self-sufficiency — the foundation of its rise — became impossible at the scale its success created, forcing import dependence on potentially hostile foreign powers.
 - `INS-260327-9CB1` [high] Restaurants that design menus and presentations for Instagram shareability optimize for first-visit spectacle at the exp
 - `INS-260403-91DB` [high] Sears, Toys-R-Us, and J.C. Penney died from their own failures to adapt, while Costco, Aldi, and Dollar General thrived in the same environment.
 - `INS-260327-7BB5` [high] GameStop core business was dead the moment digital distribution became viable because no amount of operational excellenc
@@ -543,6 +548,7 @@
 - `INS-260403-B557` [medium] Yahoo crippled itself by hiding from Microsoft rather than competing directly as a tech company.
 - `INS-260330-8481` [medium] TikTok is not ByteDance's endgame — it's a distribution channel for expansion into e-commerce, gaming, streaming, enterprise software, education, fintech, and cloud services.
 - `INS-260327-8AE7` [medium] Many billionaire CEOs would create more value for shareholders by retiring and allowing succession than by continuing to lead with outdated strategies.
+- `INS-260412-E0B5` [medium] Wow Air planned to route around Russian airspace to Delhi by adding only 45 minutes of flight time, undermining the leverage of the chokepoint.
 - `INS-260330-E615` [medium] McDonald's failed when it adapted menus to local cultures but succeeded spectacularly when it kept the menu intact and hired locals to handle marketing.
 - `INS-260405-9015` [medium] Anthropic's Pentagon conflict drove it from #120 to #1 on the App Store—an outcome no ad campaign had achieved
 - `INS-260404-2365` [medium] Auto-retrieving filters wouldn't kill spam outright but would force spammers to add unsubscribe links, progressively improving the ecosystem.

@@ -47,9 +47,9 @@ stance: >-
   gap, creating new businesses.
 related:
   - INS-260327-38B8
+  - INS-260412-D031
   - INS-260412-10F1
   - INS-260412-A77B
   - INS-260412-F401
-  - INS-260412-907D
 ---
 After the Panama Canal expansion allowed 15,000 TEU ships through, many smaller US east coast ports couldn't physically accommodate them — they lacked the depth and facilities. Rather than this being a dead end, Caribbean deep-water ports rapidly developed into transshipment hubs: large ships unload in Kingston or Freeport, cargo transfers to smaller vessels bound for final destinations. This intermediary layer didn't exist before the constraint mismatch. The pattern generalizes powerfully to technology platforms: when a major platform upgrade serves power users but leaves the long tail behind, intermediary services emerge to bridge the gap. API aggregators, no-code wrappers, and marketplace enablers all follow this transshipment logic — they exist because of a mismatch between what the infrastructure serves and what end users can absorb.

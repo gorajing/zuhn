@@ -46,9 +46,9 @@ stance: >-
   in the sky.
 related:
   - INS-260403-E6A8
+  - INS-260412-E89C
   - INS-260412-2EF8
   - INS-260412-F730
   - INS-260409-CE1D
-  - INS-260325-9693
 ---
 The physicist cites a data analysis, attributed in the interview to The Independent, that compared UFO sighting frequency against dates and times, finding consistent peaks around Christmas, Independence Day, and evening hours. The honest interpretation is that alcohol-altered perception and degraded sleep explain the variance. This is a portable analytical technique: whenever a supposedly objective phenomenon spikes on dates correlated with observer-state change, suspect the observer before the phenomenon. It also illustrates the general principle that population-level anomalies in self-reported data usually encode observer conditions, not the world.

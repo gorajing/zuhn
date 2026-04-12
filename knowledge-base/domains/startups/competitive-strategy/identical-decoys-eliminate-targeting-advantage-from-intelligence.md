@@ -56,7 +56,6 @@ related:
   - INS-260410-4518
   - INS-260330-1A63
   - INS-260412-8E0A
-  - INS-260412-47D5
 ---
 The presidential motorcade always includes two identical limousines with matching license plates, and Marine One flies in formation with up to five identical helicopters that shuffle positions mid-flight. This isn't redundancy for reliability — it's deliberate deception that renders adversary intelligence useless. Even if an attacker has a spotter reporting which vehicle the president entered, the identical decoys neutralize that advantage.
 

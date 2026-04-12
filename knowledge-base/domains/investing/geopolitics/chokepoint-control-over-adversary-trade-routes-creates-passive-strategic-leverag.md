@@ -52,7 +52,7 @@ related:
   - INS-260410-2AEE
   - INS-260412-A583
   - PRI-260322-9E36
-  - INS-260327-99DF
+  - INS-260412-354B
   - INS-260412-69E5
 ---
 NATO's control of the Bosphorus Strait (Turkey), Danish Straits (Denmark), and Sea of Japan (Japan) means Russia's navy and merchant fleet can be effectively bottlenecked at will. This is not theoretical—it shapes every Russian naval and foreign policy calculation. The insight generalizes: any entity whose critical supply chain passes through a single gate controlled by a rival is structurally vulnerable regardless of its other strengths. In investing and geopolitics, identifying who controls chokepoints—physical (straits, canals) or digital (cloud providers, payment rails)—reveals where true leverage resides. The chokepoint holder doesn't need to act; the mere possibility of closure constrains the other party's behavior permanently.

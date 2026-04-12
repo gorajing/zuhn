@@ -61,9 +61,9 @@ related:
   - INS-260403-9E97
   - INS-260403-4E9D
   - INS-260403-44A6
+  - INS-260412-5731
   - INS-260323-9FCA
   - INS-260330-1183
-  - PRI-260406-0EC6
 ---
 Paine frames Smoot-Hawley as 'half-court tennis' — the US raised tariff walls to protect domestic jobs during the Depression without modeling what the other side would do. Predictably, trading partners retaliated with their own walls. The result wasn't protected American jobs; it was a collapse in global trade that hurt everyone and pushed depressed economies toward radical politics.
 

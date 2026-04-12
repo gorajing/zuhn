@@ -3,8 +3,8 @@
 - `INS-260403-7DF4` AI coding assistants deliver 55-81% productivity gains but unlike Ford's assembly line, they democratize access rather than concentrating power.
 - `INS-260403-F01C` Media technologies cycle between democratization (which enables divisive entrepreneurs) and consolidation (which restores moderation), and LLMs may be the consolidating phase of the social media cycle.
 - `INS-260405-C88A` Agricultural consolidation reshapes who bears risk and who captures value faster than any technology innovation cycle.
-- `INS-260405-07DF` European active VCs dropped from 1,955 to 906 in one year, a >50% contraction.
 - `INS-260327-0D3C` Farm bailouts flow disproportionately to the largest 7% of producers who receive 63% of assistance.
+- `INS-260405-07DF` European active VCs dropped from 1,955 to 906 in one year, a >50% contraction.
 - `INS-260403-B6C6` UnitedHealth and Epic solved data fragmentation by owning more of the system, but the Change Healthcare breach showed this creates catastrophic concentration risk.
 - `INS-260330-E4B6` Morgan's 'morganization' strategy turned fragmented railroads into profitable monopolies by merging competitors rather than outcompeting them.
 - `INS-260404-1A34` The Coursera-Udemy merger exemplifies how post-hype consolidation creates value by combining complementary distribution models in a commoditizing market.

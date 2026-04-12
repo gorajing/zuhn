@@ -43,12 +43,13 @@ resolutions:
     with economic incentives so they manage their own region while the US pivots
     to Asia for direct competition with China.
 related:
+  - INS-260412-7197
   - INS-260321-D4D0
   - INS-260403-8011
   - INS-260412-BA6D
   - INS-260410-ED34
-  - INS-260330-09E3
   - INS-260410-0C09
+  - INS-260412-3512
 stance: >-
   IMEC (India-Middle East-Europe Economic Corridor) is a US-backed logistics
   highway routing goods from India through UAE, Saudi Arabia, and Israel t...

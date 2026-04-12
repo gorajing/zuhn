@@ -56,9 +56,10 @@ stance: >-
   decisive.
 related:
   - INS-260412-E71C
+  - INS-260412-664B
+  - INS-260412-C029
+  - INS-260412-CC19
   - INS-260412-FD9A
-  - INS-260403-0E11
-  - INS-260405-D3B5
   - INS-260412-366A
 evidence:
   - id: INS-260323-FAF2

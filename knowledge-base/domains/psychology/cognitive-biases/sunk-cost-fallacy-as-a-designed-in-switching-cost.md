@@ -50,11 +50,12 @@ stance: >-
   stronger lock-in than contractual switching costs.
 related:
   - INS-260412-3382
+  - INS-260412-4FD3
+  - INS-260412-C029
+  - INS-260412-4D3B
   - INS-260330-A0AE
-  - INS-260329-B34E
-  - INS-260330-C658
-  - INS-260323-7F22
   - INS-260412-7FC0
+  - INS-260412-492D
 ---
 American Airlines observed that Advantage members would pay roughly 5% more for an equivalent flight to avoid 'losing' accumulated miles by flying a competitor. A customer with 10,000 miles toward a 12,500-mile free flight chose the more expensive American option rather than rationally comparing total cost. This isn't accidental — it's sunk cost fallacy engineered into the product.
 

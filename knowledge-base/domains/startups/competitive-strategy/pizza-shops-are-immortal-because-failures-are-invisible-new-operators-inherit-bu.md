@@ -58,7 +58,7 @@ related:
   - INS-260411-40CA
   - INS-260403-8B68
   - INS-260330-EDAC
-  - PRI-260324-D701
+  - INS-260412-BCBB
 ---
 Manhattan's independent pizzerias show an astonishing 92% survival rate over a decade, and Brooklyn's is even higher. But pizza isn't a magical business that never fails. The apparent immortality is an illusion created by a specific market dynamic: in a city where real estate is scarce, a struggling operator is quickly replaced by someone drawn by low barriers to entry, attractive margins, and a fully built kitchen.
 

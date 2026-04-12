@@ -59,6 +59,7 @@ related:
   - INS-260403-5056
   - INS-260404-6D4D
   - INS-260403-4365
+  - INS-260412-FDF1
 ---
 There's a striking disconnect in the founder landscape: 35% of US startups in 2024 were solo-founded, yet only 17% of VC-funded startups had a single founder. This 2:1 ratio suggests VCs systematically discount solo founders, likely pricing in execution risk and key-person dependency. The irony is that 24% of two-founder teams lose a co-founder by year 4 (per Carta data), meaning the team stability VCs seek is itself fragile.
 

@@ -1,7 +1,8 @@
 # Topic: negotiation
 
-> 18 insights
+> 19 insights
 
+- `INS-260412-FD55` [high] Russia threatened to close its airspace over EU sanctions (2014), Dutch landing slot disputes (2017), and US military action in Syria (2018)—using one asset as leverage across completely unrelated conflicts.
 - `INS-260403-5681` [high] SEIU weaponized ballot initiatives as destruction threats to extract concessions worth 16x their investment.
 - `INS-260403-8FB5` [high] Somali ransom negotiations show that calibrated irrationality — seeming rash enough to execute threats but patient enough to deal — is the optimal bilateral monopoly strategy.
 - `INS-260410-AB78` [high] Whether 'compromise' is wisdom or suicide is entirely a function of the other side's real objective — a slice of territory can be traded; regime change and extermination cannot be appeased without empowering the executioner.

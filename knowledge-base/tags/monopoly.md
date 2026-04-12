@@ -1,5 +1,7 @@
 # Tag: monopoly
 
+- `INS-260412-4FD3` NYC-LA flights are cheap because five airlines compete, while Denver-Gunnison costs $500+ for 130 miles because United is the sole operator.
+- `INS-260412-46A7` Russia's policy of granting Siberian overflight to only one airline per European country creates de facto monopolies on Asia routes for legacy carriers.
 - `INS-260410-8B61` Each cellular generation (2G, 3G, 4G, 5G) expires just as the next one arrives — so Qualcomm's CDMA patents expired worthless, but by then 4G patents had replaced them in the licensing stack.
 - `INS-260330-7ED0` M-PESA succeeded because Safaricom's telecom monopoly solved the cold-start problem that fragments US mobile payment competitors.
 - `INS-260409-C768` Problem precision beats market size — a small market solved precisely outperforms a big market solved approximately.

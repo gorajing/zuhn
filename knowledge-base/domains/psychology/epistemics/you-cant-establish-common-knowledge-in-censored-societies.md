@@ -55,6 +55,7 @@ related:
   - INS-260403-FF74
   - INS-260325-59D4
   - INS-260411-6495
+  - INS-260412-C39A
 ---
 Dwarkesh got wildly contradictory readings of Chinese public opinion: one source said the new generation is intensely nationalistic; another said nationalists are a vocal 10% minority similar to American wokes circa 2020; a recent grad said most classmates are simply apolitical. He explains: 'this is to be expected in a society where you can't establish common knowledge.' Without shared public discourse, individual impressions don't aggregate into a reliable read of the population.
 

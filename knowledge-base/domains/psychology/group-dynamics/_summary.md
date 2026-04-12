@@ -1,6 +1,6 @@
 # Topic: group-dynamics
 
-> 114 insights
+> 116 insights
 
 - `INS-260330-2EB0` [high] The Pueblo Revolt shows that a shared existential threat can override deep tribal divisions — but the unity is temporary.
 - `INS-260403-D609` [high] Enforcers of orthodoxy compete with each other, creating a race to the bottom where any borderline idea gets banned.
@@ -9,6 +9,7 @@
 - `INS-260403-0525` [high] Ambition is contagious and withers in isolation — concentrating ambitious people together amplifies everyone's output like pulling control rods from a reactor.
 - `INS-260404-F172` [high] People say things anonymously online they would never say face to face, just as drivers behave more aggressively than pedestrians.
 - `INS-260403-39E9` [high] Dismissing new ideas earns reliable social status while pursuing them only pays off probabilistically, creating a structural bias toward criticism.
+- `INS-260412-E3C2` [high] Tear gas and similar tools work not through pain alone but by forcing people out of collective consciousness and back into individual self-concern.
 - `INS-260403-BDE0` [high] Cities send subtle but powerful messages about which type of ambition is most valued, and these messages shape inhabitants more than most people realize.
 - `INS-260330-3528` [high] English profanity largely descends from lower-class Saxon vocabulary that was stigmatized when Norman French speakers held social power.
 - `INS-260410-5437` [high] Gorbachev assumed that if the Warsaw Pact dissolved then NATO would dissolve too, and if Comecon went away the European Community would follow — but NATO and the EC grew stronger because their members had chosen them, while the Warsaw Pact had only ever held together under threat of Soviet tanks.
@@ -17,6 +18,7 @@
 - `INS-260412-9F1D` [high] Competitive dynamics within a crowd destroy cooperative behavior and are the primary driver of crowd crush risk.
 - `INS-260403-8B13` [high] Conformism varies on two orthogonal axes — conventional/independent and passive/aggressive — creating four stable personality types observable from childhood.
 - `INS-260412-1773` [high] Leafcutter ants respond to army ant attacks with instant role-based mobilization — soldiers to frontline, workers to barricades, small teams to flanking — all without central coordination.
+- `INS-260412-AD6F` [high] Crowds deindividualize people, causing them to match the violence level of the most aggressive members rather than acting on individual judgment.
 - `INS-260330-0FF7` [high] China's One Child Policy created a surplus of 35 million men, making property ownership a prerequisite for marriage and turning housing into inelastic social demand.
 - `INS-260330-6AC1` [high] Developer pecking orders reward complexity theater over actual delivery.
 - `INS-260403-3CFB` [high] The neocortex constrains stable social relationships to ~150-230 people, a biological limit unaffected by social media scale.

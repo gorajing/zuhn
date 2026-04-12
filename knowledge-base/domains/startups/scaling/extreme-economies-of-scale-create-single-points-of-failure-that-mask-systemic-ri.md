@@ -57,8 +57,6 @@ related:
   - PRI-260406-901E
   - PRI-260328-F497
   - INS-260403-8194
-  - INS-260412-52B9
-  - INS-260412-3EBB
   - INS-260412-B416
 ---
 Container shipping consolidated from the top 10 lines controlling 51% of the market in 2000 to 85% today, driven by the logic that bigger ships and fewer operators yield lower per-unit costs. The US funnels roughly 40% of all container imports through just two adjacent ports — Los Angeles and Long Beach — because the Panama Canal can't accommodate the largest ships, and only five Pacific ports have adequate depth and infrastructure.

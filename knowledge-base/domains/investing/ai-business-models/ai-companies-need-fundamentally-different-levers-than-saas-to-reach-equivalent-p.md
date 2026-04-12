@@ -62,13 +62,13 @@ related:
   - INS-260322-36E3
   - INS-260321-7109
   - INS-260327-1576
-  - INS-260327-B715
   - INS-260329-E7A4
   - INS-260403-DD63
   - INS-260403-CCED
   - INS-260404-A2C4
   - INS-260405-ABCF
   - INS-260403-FF7E
+  - INS-260404-36D7
 ---
 While SaaS businesses benefit from high gross margins (often 70-80%+) and recurring revenue, AI companies face persistent cost pressures from compute, inference, and model maintenance. This means AI companies cannot simply replicate the SaaS playbook — they must compensate through accessing larger total addressable markets, commanding higher revenue per customer, or achieving unprecedented scale.
 

@@ -48,8 +48,8 @@ related:
   - INS-260329-7CDE
   - INS-260402-3D00
   - INS-260409-175D
+  - INS-260412-DF15
   - INS-260404-70DE
   - PRI-260406-12A2
-  - INS-260327-5688
 ---
 The saturated-platform trap is measuring audience size instead of supply-demand imbalance for attention. YouTube has billions of viewers but tens of millions of creators competing for them. LinkedIn, during Claire's growth window, had a high concentration of entrepreneurs, marketers, and decision-makers but comparatively few consistent creators publishing to them. The arbitrage is temporary — any platform eventually saturates — but founders who identify and commit to the imbalance early capture disproportionate reach per unit of effort. The decision heuristic: count the ratio of your target buyers to creators competing for their attention on each platform, and optimize that ratio, not raw audience.

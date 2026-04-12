@@ -47,12 +47,11 @@ stance: >-
   but because China's military airspace restrictions make flying structurally
   unreliable
 related:
-  - INS-260327-B715
-  - INS-260412-65EF
   - INS-260412-A747
-  - INS-260324-41D6
-  - INS-260412-C77F
-  - INS-260327-500C
+  - INS-260412-F17D
+  - INS-260412-E0B5
+  - INS-260327-B715
+  - INS-260412-4D3B
 ---
 China's three largest airlines have abysmal on-time performance (63-67%) because the military controls 70% of airspace, squeezing civilian flights into narrow corridors. This isn't an operational problem airlines can fix—it's a structural constraint embedded in the system. High-speed rail wins not by being marginally better but by sidestepping the bottleneck entirely.
 

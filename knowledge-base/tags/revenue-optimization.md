@@ -1,5 +1,6 @@
 # Tag: revenue-optimization
 
+- `INS-260412-DF15` Capacity-constrained platforms maximize revenue by selecting for high-value participants rather than increasing total volume.
 - `INS-260329-8F7C` Allen unlocked 4x pricing power by running pricing surveys and repackaging its charging model, not by changing the product itself.
 - `INS-260404-9BC6` In startups with superlinear growth, increasing growth rate by even 1% per week vastly outperforms doubling revenue extraction.
 - `INS-260329-4B45` Customers in a buying cycle naturally need adjacent products — not offering them just sends that revenue to competitors.

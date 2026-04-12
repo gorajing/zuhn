@@ -43,9 +43,9 @@ stance: >-
 related:
   - INS-260330-03F7
   - INS-260412-CFF6
+  - INS-260412-CC19
   - INS-260412-A747
   - INS-260323-257D
-  - INS-260410-9425
 evidence:
   - id: INS-260330-03F7
     type: TRANSFERS_TO
