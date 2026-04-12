@@ -53,7 +53,6 @@ stance: >-
   American entrepreneurs building in India that no amount of market size in
   authoritarian economies can replicate.
 related:
-  - INS-260403-BE18
   - INS-260403-CFBD
   - PRI-260322-9E36
   - PRI-260406-CB40

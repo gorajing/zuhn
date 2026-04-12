@@ -52,5 +52,6 @@ related:
   - PRI-260405-B144
   - INS-260409-3346
   - INS-260410-3E37
+  - INS-260412-3944
 ---
 Once building is cheap, the comparative advantage shifts entirely to iteration velocity and the quality of customer discovery feedback loops. Higgsfield released new features six days a week. The discipline is to stop asking 'is the product ready' and start asking 'what did we learn from yesterday's release that changes today's feature priorities.' Founders who still batch releases monthly are competing on a metric (polish) that no longer matters against founders competing on a metric (learning rate) that compounds.

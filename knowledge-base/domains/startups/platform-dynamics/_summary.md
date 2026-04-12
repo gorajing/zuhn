@@ -1,8 +1,9 @@
 # Topic: platform-dynamics
 
-> 24 insights
+> 25 insights
 
 - `INS-260403-A115` [high] McDonald's owns the land, charges 8.5-15% of sales as rent versus the industry norm of 6-10%, and can replace underperforming franchisees while keeping the appreciating asset.
+- `INS-260412-2AF2` [high] Google's $50M Android acquisition captured 80%+ smartphone market share by making every hardware manufacturer a distribution partner.
 - `INS-260403-E71A` [high] Platform owners like Apple with iTunes function as tollbooths, not stores — they tax transactions rather than sell content, driving content prices to near-zero.
 - `INS-260404-D6EC` [high] ARM's 1,000+ partner ecosystem creates switching costs that no single competitor can overcome, even with superior technology.
 - `INS-260403-64A5` [high] Track what tools elite developers adopt personally to predict which platforms will win mainstream adoption 5-10 years later.

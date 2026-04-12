@@ -65,10 +65,10 @@ stance: >-
   in a technology stack.
 related:
   - INS-260410-8B61
+  - INS-260412-846C
   - INS-260410-8BF9
   - INS-260327-092E
   - INS-260412-032F
-  - INS-260410-E8A8
 ---
 Ben Thompson's smiling curve says the most valuable positions in a technology stack are at the extremes — upstream IP/design and downstream customer interface — while the middle (manufacturing, assembly) is commoditized. Qualcomm is one of the purest executions of this in history. They own the core CDMA and later 4G/5G patents (the IP extreme) and they design the silicon that implements those patents (the chip-design extreme). They deliberately exited the base-station business (sold to Ericsson) and the handset business (sold to Kyocera) the moment they had bootstrapped adoption, because those were capital-intensive, low-margin commodity steps that were dragging down returns.
 

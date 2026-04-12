@@ -59,10 +59,10 @@ stance: >-
 related:
   - INS-260403-F98F
   - INS-260404-7A75
+  - INS-260412-3E27
   - INS-260323-F528
   - INS-260409-AEF3
   - INS-260325-2906
-  - INS-260405-D638
 ---
 The common confusion about electricity costs stems from conflating generation cost with retail price. While solar generation costs have collapsed to $30-40/MWh vs $50-150+/MWh for fossil fuels, households don't primarily pay for generation. Transmission, distribution, substations, and congested wires constitute the majority of retail bills, and these infrastructure costs keep rising even as generation gets cheaper.
 

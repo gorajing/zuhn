@@ -51,5 +51,6 @@ related:
   - INS-260403-D6C2
   - INS-260329-4DBC
   - PRI-260405-72D4
+  - INS-260412-C956
 ---
 The iPhone wasn't designed from a spec — it evolved through a rapid demo culture where engineers built playable prototypes, showed them to leadership, and the strongest elements survived. Bas Ording's accidental discovery of the rubber-banding effect (initially mistaken for a crash) became a signature iPhone interaction because the demo-driven process surfaced emergent behaviors that no spec could have predicted. This 'creative selection' mirrors biological evolution: variation, selection pressure, and iteration. The methodology works because breakthrough products require discoveries that can't be anticipated — you have to build something to find the insight hidden inside it. The two-week sprint Jobs gave the team to 'create something great or else' also shows how time-boxed demo pressure prevents analysis paralysis.

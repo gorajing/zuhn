@@ -69,7 +69,7 @@ related:
   - PRI-260406-C4FD
   - INS-260404-7A75
   - INS-260411-CF02
-  - INS-260409-AEF3
+  - INS-260412-3E27
 ---
 Handmer offers a sharp reframing: the grid's economic value comes from performing spatial arbitrage — moving power from cheap generation sites to expensive consumption sites — with pumped hydro as the only meaningful temporal storage until recently. Batteries now do temporal arbitrage so well that the average distance an electron travels between generation and consumption is dropping rapidly. Per-capita battery allocation has gone from ~10 grams (cell phones) to ~100 kg (Teslas) and will continue rising 4-5 orders of magnitude.
 

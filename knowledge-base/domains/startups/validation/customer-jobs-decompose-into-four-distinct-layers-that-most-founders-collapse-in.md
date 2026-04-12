@@ -45,11 +45,11 @@ stance: >-
   Separating functional, social, emotional, and basic-need jobs reveals value
   proposition gaps that a single 'problem statement' hides.
 related:
+  - INS-260412-C28A
   - PRI-260323-50FE
   - INS-260410-D834
   - INS-260322-116B
   - INS-260327-77FA
-  - INS-260404-D1E2
   - INS-260403-B2A8
 evidence:
   - id: INS-260327-4F3D

@@ -46,10 +46,10 @@ stance: >-
   scale moves away from human-body length, and 'this looks impossible' reactions
   to strange sky phenomena carry almost no evidential weight.
 related:
+  - INS-260412-DDD2
   - INS-260412-640C
   - INS-260412-D634
   - INS-260412-8C32
   - INS-260327-684D
-  - INS-260330-A4A5
 ---
 The interview invokes Sheldon Glashow's observation that humans are cursed with the worst possible body size for doing physics: too large to interact with atoms, too small to encompass stars. Early physics textbooks (balls rolling, springs bouncing) feel intuitive because they sit inside the meso-cosmos; quantum mechanics and cosmology feel impossible because they sit outside it. This has two uses: as a pedagogical principle (physics loses students at the scale boundary, not at the math boundary), and as an epistemic discount on 'that cannot be a natural phenomenon' reactions to sky footage — our intuitions were not built to adjudicate such scales, and should not be trusted to veto mundane explanations at atmospheric or astronomical distances.

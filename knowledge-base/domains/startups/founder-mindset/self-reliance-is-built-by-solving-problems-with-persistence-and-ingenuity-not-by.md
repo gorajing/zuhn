@@ -48,10 +48,10 @@ resolutions:
     resources.
 related:
   - INS-260323-FA30
+  - INS-260412-C996
   - INS-260323-FCC1
   - INS-260410-0735
   - INS-260327-7E6F
-  - INS-260327-E63E
 stance: Bezos's grandfather never called for help
 evidence:
   - id: INS-260327-7E6F

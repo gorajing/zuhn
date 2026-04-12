@@ -1,6 +1,6 @@
 # Topic: bubbles
 
-> 97 insights
+> 101 insights
 
 - `INS-260325-FC0B` [high] About 30% of investors who panic sell during crashes never return to equities, missing massive subsequent gains.
 - `INS-260403-52FF` [high] Carta data shows sub-$10M funds hit 90th percentile TVPI of ~4.03x while $100M+ funds only reach ~1.67x, and 73% of top-performing funds are Fund I or II.
@@ -16,6 +16,7 @@
 - `INS-260326-6B99` [high] Taleb's barbell strategy — 80% ultra-safe assets plus 20% highly speculative bets — is mathematically superior to medium-risk allocation because it creates a convex payoff that benefits from volatility rather than being destroyed by it.
 - `INS-260325-3B28` [high] Leading digits in natural datasets follow a logarithmic distribution (30% start with 1, <5% start with 9) — deviations flag fabricated financial or electoral data.
 - `INS-260403-F157` [high] Major bubbles form around real innovations, not pure fiction, which is why smart people get fooled.
+- `INS-260412-D21C` [high] The tulip crash began when a few buyers in North Holland simply didn't show up to auctions — not a policy change or external shock, but a quiet withdrawal of demand.
 - `INS-260412-E332` [high] When money is cheap and markets rise, even sophisticated investors abandon governance scrutiny — Sequoia invested $210M while the founder played video games on the call.
 - `INS-260410-4670` [high] Frauds reach Enron scale only in bull markets because saturated capital chases low-disclosure assets and stops asking questions.
 - `INS-260327-C79D` [high] In a market where Bitcoin, stocks, and Dogecoin only go up, people will convince themselves that anything - watches, sneakers, Pokemon cards - is an investment.
@@ -30,6 +31,7 @@
 - `INS-260323-114D` [high] $178.5B in data center credit deals in 2025 alone, funded by junk-grade debt, for customers that are unprofitable AI startups — this is the financial crisis vector, not software disruption.
 - `INS-260403-738F` [high] Companies invest in AI infrastructure defensively, then can't admit it isn't working because they've already spent too much.
 - `INS-260412-0846` [high] The same speculative instruments get banned after crashes and re-legalized once the generation that lived through them is gone.
+- `INS-260412-F38F` [high] The Dutch invention of tulip futures — trading flowers year-round despite a one-week bloom — decoupled price discovery from physical supply and enabled runaway speculation.
 - `INS-260403-988C` [high] Banks that chased yield in long-duration bonds during zero-rate years faced catastrophic unrealized losses when the Fed hiked aggressively, triggering depositor runs.
 - `INS-260412-D3D4` [high] The 2008-2022 low-rate era created competitive pressure among investors and acquirers that made skepticism more costly than gullibility, enabling serial fraudsters like Javice, Holmes, and Bankman-Fried.
 - `INS-260412-E3B4` [high] Theranos operated without a CFO for 10 years, enabling Sunny to present investor projections 10x higher than internal forecasts with no one to challenge them.
@@ -58,6 +60,7 @@
 - `INS-260325-FDB3` [high] Less than half of professional fund managers beat their benchmark in any given year, dropping to under 10% at 10 years and virtually zero at 20.
 - `INS-260412-BA99` [high] Each prestigious partner a fraudulent company signs makes the next partner less likely to investigate, creating a cascade of unearned credibility.
 - `INS-260412-8CD7` [high] Bernie Ebbers borrowed $408M against WorldCom stock for personal purchases, creating an existential personal incentive to keep the stock price elevated regardless of business reality.
+- `INS-260412-3A35` [high] The electrical revolution created a startup investment bubble far exceeding the 1990s dot-com bubble in relative economic impact.
 - `INS-260330-3B31` [high] Ponzi schemes are mathematically unsustainable because they need exponential growth in new investors to pay promised returns.
 - `INS-260324-72E8` [high] After the dot-com crash, VCs stopped rushing to IPO — they now use series C/D/E/F rounds to supercharge growth, inflate valuations through closed circles, and exit at peak before public investors bear the loss.
 - `INS-260412-D883` [high] Pre-sale financing that funds new projects instead of completing sold ones creates Ponzi dynamics that collapse when demand growth decelerates.
@@ -97,5 +100,6 @@
 - `INS-260412-1DAA` [medium] Barings' 230-year reputation masked that its operations were outdated, its controls were weak, and its staff couldn't understand modern derivatives.
 - `INS-260403-F6D2` [medium] An entire industry can succeed wildly while flagship companies within it fail, leaving concentrated investors holding the bag.
 - `INS-260323-D288` [medium] When OpenAI and Anthropic file S-1s for IPO, the forced financial transparency will likely trigger a WeWork-style reassessment — Anthropic has leaked inconsistent revenue figures and OpenAI plans to burn $200B+ even at optimistic revenue targets.
+- `INS-260412-0384` [medium] Tulips became bubble candidates specifically because they were scarce (7-12 month growth, 1-week bloom), visually conspicuous, and served as garden status symbols among the Dutch merchant class.
 - `INS-260324-5C53` [medium] OpenAI is Netscape (first mover, no moat), Nvidia is Sun+Cisco (shovel seller), hyperscalers are Exodus Communications (building for demand that hasn't materialized).
 - `INS-260324-29D8` [medium] The microprocessor, PC, Wi-Fi, smartphones, and GPS all flourished through organic market demand — no one adopted them under threat of extinction. AI's adoption is driven by institutional fear-mongering, not pull.

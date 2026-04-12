@@ -1,7 +1,7 @@
 # Tag: silicon-valley
 
-- `INS-260322-D58A` Synthetic peptides beyond GLP-1s are spreading through tech culture using the same early-adopter logic as beta-testing software — willingness to accept bugs in exchange for frontier access.
 - `INS-260324-27E2` Before AI it was big data, before that crypto/web3, before that VR/AR, before that IoT/wearables — Silicon Valley recycles the same pump-and-dump playbook with a new technology name every 3-5 years.
+- `INS-260322-D58A` Synthetic peptides beyond GLP-1s are spreading through tech culture using the same early-adopter logic as beta-testing software — willingness to accept bugs in exchange for frontier access.
 - `INS-260403-06E2` Sand Hill Road's boring identical offices reveal that VC firms differentiate on relationships and judgment, not on brand or physical presence.
 - `INS-260403-22ED` When people's financial incentives align with others' success, genuine cultures of encouragement emerge over time.
 - `INS-260324-861B` Uber raised $25B+ and operated for 13+ years without profit — the only other company with that distinction is WeWork, and the platform economics that were supposed to make ride-sharing 'infinitely scalable' never materialized.
@@ -16,7 +16,6 @@
 - `INS-260403-7471` Startups fail by default everywhere — hubs succeed by providing enough positive interventions to counteract the natural death rate.
 - `INS-260403-8BBB` People dismiss ambitious ideas partly because they unconsciously hope you'll fail, since your success would threaten their relative status.
 - `INS-260404-9E63` Switch from listing reasons an idea won't work to imagining ways it could — especially in domains with power-law outcome distributions.
-- `INS-260402-6BB6` Startup ecosystems are constrained by angel investor presence because angels fund the pre-VC risk that makes later rounds possible.
 - `INS-260409-FDE9` Alan Kay distinguishes pop culture (the conventional tech product practice) from research culture (deep engagement with foundational subject matter); Matuschak and Nielsen argue pop culture has been astoundingly successful at building businesses but cannot produce the Hindu-Arabic-numerals-level insights needed for transformative tools for thought.
 - `INS-260404-E6E0` Silicon Valley's advantage is not superior people but a cultural custom of treating early work charitably — a custom any community can develop.
 - `INS-260404-A1BA` Harsh judgment of early work is a cultural habit, not human nature, and environments like Silicon Valley prove it can be unlearned.
@@ -28,6 +27,7 @@
 - `INS-260404-86DE` Financial incentives to not dismiss weird ideas evolved into a genuine cultural custom of optimism in Silicon Valley.
 - `INS-260403-EEE5` Evaluate new ideas by trying to imagine how they could work, not by listing reasons they won't.
 - `INS-260404-AC7C` Evaluating new ideas by imagining how they could work rather than why they won't is a trainable skill with outsized returns.
+- `INS-260402-6BB6` Startup ecosystems are constrained by angel investor presence because angels fund the pre-VC risk that makes later rounds possible.
 - `INS-260405-B4D2` Silicon Valley is rehabilitating micromanagement as a tool founders should embrace rather than avoid.
 - `INS-260403-20B1` Startup hub quality exists on a spectrum where each step up in hub density yields compounding benefits.
 - `INS-260410-3264` Fred Terman single-handedly willed Silicon Valley into existence by recruiting defense researchers to Stanford, rewriting tech transfer to be company-friendly, and anchoring the Stanford Industrial Park with Lockheed as its first major tenant.

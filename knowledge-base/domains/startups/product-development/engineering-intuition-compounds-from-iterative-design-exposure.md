@@ -51,7 +51,6 @@ stance: >-
   alone.
 related:
   - INS-260330-D1A1
-  - INS-260330-1222
   - PRI-260406-CBAC
   - PRI-260406-F95C
   - INS-260403-E8DD

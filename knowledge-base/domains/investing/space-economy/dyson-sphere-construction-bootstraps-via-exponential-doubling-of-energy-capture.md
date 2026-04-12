@@ -56,6 +56,7 @@ related:
   - INS-260330-F493
   - INS-260410-91C0
   - INS-260403-EEDF
+  - INS-260412-88B6
 ---
 The key insight is that building a Dyson Sphere doesn't require having a Dyson Sphere's worth of energy upfront. You start with a single square kilometer of solar collectors, use that energy to mine, refine, and launch more collectors, and let exponential doubling do the work. Each generation of panels powers the construction of the next generation. At a one-month build cycle per square kilometer, 60 doublings completes the entire structure in roughly a decade.
 

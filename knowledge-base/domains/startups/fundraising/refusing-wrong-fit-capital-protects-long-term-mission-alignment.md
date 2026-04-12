@@ -50,7 +50,6 @@ stance: >-
   exhausting and advisors urge pragmatism.
 related:
   - INS-260323-0277
-  - INS-260327-125F
   - INS-260330-1002
   - INS-260330-4A1F
   - INS-260330-341D
@@ -59,6 +58,7 @@ related:
   - INS-260403-1287
   - INS-260405-03BB
   - INS-260405-1982
+  - INS-260404-3B83
 ---
 During fundraising, Glanville was advised to 'take whatever money you can.' He refused, pushing through exhaustion to assemble a board and investor group that shared his long-term vision for the technology. The result: a highly effective board, smart money, and united mission where investors actively work to increase shared value.
 

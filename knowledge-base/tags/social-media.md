@@ -4,10 +4,8 @@
 - `INS-260409-EA56` Plaintiffs' lawyers successfully used product liability law to sidestep Section 230 protection for the first time, creating a replicable map that will produce sustained tort pressure on social media platforms and likely force age verification at the handset layer.
 - `INS-260323-03F4` Social media built machines for grabbing human attention; AI is now building machines for grabbing human intimacy, which is a far more dangerous capability because it exploits our deepest need to be listened to.
 - `INS-260320-CEBE` A single YouTube transcript can feed newsletter drafts, social media posts, blog articles, and email campaigns -- extend the base n8n workflow with parallel output branches.
-- `INS-260327-EEEE` Pharmaceutical companies pay social media influencers millions to promote drugs disguised as authentic health content
-- `INS-260323-FF23` Every business needs a creator — build in public, show the behind-the-scenes journey, and your content will naturally attract your ideal customer profile while filtering out everyone else.
-- `INS-260322-81CD` Frame your content around a public if-then challenge ('If I get X followers, I'll do Y') to create narrative tension that keeps viewers coming back.
 - `INS-260403-E4C7` Nearly a third of Gen Z has deleted social media apps, and global social media usage has declined 10% since 2022, suggesting organic human adaptation to harmful technology.
+- `INS-260327-EEEE` Pharmaceutical companies pay social media influencers millions to promote drugs disguised as authentic health content
 - `INS-260325-4C2E` The algorithm effect replaces internal motivation with external validation loops, creating population-level identity outsourcing to platforms.
 - `INS-260403-F0BF` Algorithmic feeds replaced neighbor-comparison with influencer-comparison, escalating financial inadequacy.
 - `INS-260325-A08A` The trend cycle compressed from years to weeks — products become uncool before companies finish manufacturing them.
@@ -25,6 +23,8 @@
 - `INS-260330-795D` Social media transforms genuine discourse into performance, systematically undermining a society's shared capacity to assess truth.
 - `INS-260325-1EB3` Reactionary influencers tell boys 'nobody wants you to watch my content' -- slamming the laptop shut proves their point, while curiosity and real-world male role models provide the actual antidote.
 - `INS-260330-E695` Rosolie's spontaneous, profanity-filled Instagram video about Amazon fires went viral and led to the major funding that transformed Jungle Keepers, while his calculated Discovery Channel stunt backfired catastrophically.
+- `INS-260323-FF23` Every business needs a creator — build in public, show the behind-the-scenes journey, and your content will naturally attract your ideal customer profile while filtering out everyone else.
+- `INS-260322-81CD` Frame your content around a public if-then challenge ('If I get X followers, I'll do Y') to create narrative tension that keeps viewers coming back.
 - `INS-260402-C49E` Graham quantifies from running a forum that users were about 3x more likely to upvote content that outraged them, suggesting outrage amplification is structural to engagement-sorted platforms.
 - `INS-260321-C902` New AI products follow a predictable distribution ladder: X small communities then AI news pages then Instagram news then creators then Telegram.
 - `INS-260321-69E1` A16z hired an 18-year-old for Instagram (up 35% MoM) because each platform has its own vibe, taste, and spirit — crossposting one idea everywhere fails to appreciate what each platform rewards.

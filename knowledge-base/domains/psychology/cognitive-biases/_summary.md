@@ -1,6 +1,6 @@
 # Topic: cognitive-biases
 
-> 340 insights
+> 343 insights
 
 - `INS-260326-163A` [very_high] Data quality dominates ML architecture just as install base and data gravity beat product design elegance in business -- what you've accumulated is the moat, not how you've arranged it.
 - `INS-260326-CA66` [very_high] Insulin resistance manifests as heart disease, diabetes, obesity, and dementia -- just as a misidentified business model manifests as churn, pricing problems, and sales failures.
@@ -16,6 +16,7 @@
 - `INS-260330-FCFA` [high] True randomness clusters in ways humans perceive as non-random, so products must introduce artificial structure to satisfy our pattern-seeking minds.
 - `INS-260330-1319` [high] Apple had to make iTunes shuffle less random because true randomness produced clusters that felt intentional to users.
 - `INS-260412-2CD6` [high] The vaccine debate illustrates how evidence-based arguments inherently lose to emotional narratives because statistical reasoning can't compete with vivid anecdotes.
+- `INS-260412-2131` [high] Madoff's status as NASDAQ chairman and invitation-only access made investors skip basic due diligence.
 - `INS-260330-318B` [high] Dressing salespeople as nurses exploits authority bias to bypass critical evaluation of claims.
 - `INS-260330-B08E` [high] Assigning equal prior probability to simulation and non-simulation scenarios, Bayesian averaging always yields sub-50% simulation probability because base reality persists in both branches.
 - `INS-260404-DBA8` [high] Both leftists and rightists got the multipolar world they wanted but not the version they expected.
@@ -124,6 +125,7 @@
 - `INS-260412-8A13` [high] Washington state was renamed from Columbia specifically to avoid confusion with DC, yet the confusion persisted and worsened — demonstrating that naming collisions are structurally unfixable once established.
 - `INS-260403-57F6` [high] Refusing to change your mind isn't neutral — it makes you progressively more wrong as reality diverges from your frozen beliefs.
 - `INS-260403-25F3` [high] Registering as independent to protest extremism removes moderates from primaries, making nominees even more extreme — a classic case where the intuitive protest action worsens the problem.
+- `INS-260412-4AE8` [high] The Bitfinex couple's opsec failures — real names on VPN accounts, a folder labeled 'fake passport ideas,' burner phones labeled under the bed — reveal how sustained evasion breeds fatal overconfidence.
 - `INS-260330-4441` [high] RuBisCo was optimized for a low-oxygen world, but photosynthesis itself flooded the atmosphere with oxygen, causing RuBisCo to malfunction half the time — your greatest success can corrupt your core mechanism.
 - `INS-260403-9DBA` [high] Microsoft's biggest weakness was not knowing how much they sucked — they still believed they could compete by building software in-house.
 - `INS-260405-8732` [high] Conformists can't imagine true-but-dangerous ideas because their own views are always safe to express.
@@ -312,6 +314,7 @@
 - `INS-260327-399D` [medium] You don't have a consistent moral framework - nobody does - and pretending you do prevents the ethical development that comes from grappling with your actual contradictions.
 - `INS-260402-7B04` [medium] We reward people for the luck of being in a position to help us rather than for having the character that would lead them to help.
 - `INS-260330-615D` [medium] The 'fall of Rome' in 476 CE is a misleading narrative — the empire continued for another 1000 years in the east, but our bias toward decline stories obscures ongoing transformation.
+- `INS-260412-EB92` [medium] Perceived anonymity on the dark web creates fertile ground for scams because users lower their guard.
 - `INS-260330-FB34` [medium] Destin discovered he could not eliminate his steering bias but only re-designate it, suggesting cognitive biases are structural rather than removable.
 - `INS-260409-67A5` [medium] People keep putting aliens on fuzzy photos because we are lonely in the universe.
 - `INS-260403-FAC0` [medium] People in passionate arguments are often arguing about two different things and sometimes even agree without realizing it.

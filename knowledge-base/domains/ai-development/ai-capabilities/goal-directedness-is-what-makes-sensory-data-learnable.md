@@ -60,7 +60,6 @@ stance: >-
   knowledge from video and sensory data than disembodied video prediction models
   ever will.
 related:
-  - INS-260323-C4EE
   - INS-260323-22E8
   - INS-260327-DCF8
   - INS-260330-DF2C

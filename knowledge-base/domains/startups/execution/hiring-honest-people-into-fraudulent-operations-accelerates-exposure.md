@@ -52,6 +52,8 @@ related:
   - INS-260412-51C1
   - INS-260330-22D6
   - INS-260412-1DBF
+  - INS-260412-4AE8
+  - INS-260412-E842
 evidence:
   - id: INS-260330-FC9F
     type: EXTENDS

@@ -52,12 +52,12 @@ stance: >-
   monopolist because markets value independent focused companies higher than
   conglomerates.
 related:
-  - INS-260323-78A5
   - INS-260327-D480
   - INS-260330-3E6F
+  - INS-260412-B4B6
   - INS-260404-C147
+  - INS-260323-78A5
   - INS-260403-5056
-  - INS-260330-C745
 evidence:
   - id: INS-260323-78A5
     type: SUPPORTS

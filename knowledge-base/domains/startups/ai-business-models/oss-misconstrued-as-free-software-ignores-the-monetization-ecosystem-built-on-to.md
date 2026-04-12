@@ -45,11 +45,12 @@ stance: >-
   most defensible go-to-market strategies on the table.
 related:
   - INS-260323-1494
-  - PRI-260328-5464
   - INS-260330-8481
   - INS-260405-E8A1
   - INS-260410-7075
+  - PRI-260328-5464
   - INS-260409-D0B6
   - INS-260410-9EFC
+  - INS-260412-8B95
 ---
 A common misconception frames open-source software as inherently incompatible with making money. In practice, OSS has generated some of the most durable and defensible businesses in tech — through hosted services, enterprise support, proprietary extensions, and ecosystem lock-in. In AI specifically, releasing model weights or frameworks as open source can be a powerful distribution strategy: it drives adoption, builds community, surfaces real-world use cases, and creates a large base of users who can be converted to paying customers of managed or enterprise tiers. Founders building AI products should evaluate OSS not as a question of 'free vs. paid' but as a go-to-market and positioning choice with specific tradeoffs.

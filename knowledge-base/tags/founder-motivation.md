@@ -1,6 +1,7 @@
 # Tag: founder-motivation
 
 - `INS-260403-1B96` AI founders face a personal expected-value calculation where certain death in decades vs. a chance at immortality makes even a 25% extinction risk individually rational.
+- `INS-260412-C996` Sakichi Toyoda invented the power loom because he watched his mother struggle with manual textile weaving — that empathy-driven origin anchored Toyota's culture for over a century.
 - `INS-260412-5ADA` Wayne Westerman's wrist condition drove him to invent the multi-touch technology that became the iPhone's core interface, and the slide-to-unlock was inspired by an airplane toilet latch.
 - `INS-260403-35EE` VCs screen for obsession—founders who would keep building even if the money disappeared—because it predicts survival through inevitable chaos.
 - `INS-260403-0CCB` Founders are motivated by security rather than luxury, and will seek that security through institutional seniority if startup wealth is unavailable.

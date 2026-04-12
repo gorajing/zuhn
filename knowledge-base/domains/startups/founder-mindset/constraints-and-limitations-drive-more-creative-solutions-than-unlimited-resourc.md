@@ -52,7 +52,6 @@ stance: >-
 related:
   - INS-260325-F8B8
   - INS-260321-33FC
-  - INS-260323-246F
   - INS-260327-7B0C
   - INS-260412-BB61
   - INS-260330-1DDE
@@ -60,6 +59,7 @@ related:
   - PRI-260328-B11D
   - INS-260330-DA4A
   - INS-260403-4942
+  - INS-260403-9DA1
 evidence:
   - id: INS-260327-6061
     type: CHALLENGES

@@ -55,8 +55,8 @@ related:
   - INS-260325-B1D8
   - INS-260403-3831
   - INS-260412-5ADA
+  - INS-260412-AB46
   - INS-260325-BF84
-  - INS-260325-D624
 ---
 Vannevar Bush conceptualized the entire modern information age in a single 1945 essay—associative linking (hyperlinks), stored and connected information (the web), screen-based retrieval (desktop computing), and user-created trails between articles (websites). His writings directly inspired the co-creators of the internet in the 1960s, the Xerox Alto, the mouse, the GUI, and Steve Jobs. Yet as the video notes, his 'visionary-to-fame ratio would be sky high'—hardly anyone knows his name.
 

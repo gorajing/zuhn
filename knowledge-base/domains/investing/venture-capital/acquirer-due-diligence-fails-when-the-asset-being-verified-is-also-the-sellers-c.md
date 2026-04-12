@@ -52,5 +52,7 @@ related:
   - INS-260330-CECB
   - INS-260327-EA4E
   - INS-260410-6F4B
+  - INS-260412-E5C7
+  - INS-260412-D103
 ---
 JP Morgan's due diligence process had a critical structural flaw: the entire acquisition thesis depended on the size and quality of Frank's customer base, yet Javice was able to deflect direct verification requests by citing privacy concerns. The bank relied on representations rather than independent validation. When they finally tested the data post-acquisition by emailing 400,000 accounts, only 20% of emails were even delivered. This reveals a broader pattern in tech M&A — when the core asset is a dataset or user base, acquirers must insist on independent, verifiable proof before closing. Privacy concerns are legitimate but can be addressed through third-party audits, anonymized sampling, or escrow arrangements rather than taking the seller's word.

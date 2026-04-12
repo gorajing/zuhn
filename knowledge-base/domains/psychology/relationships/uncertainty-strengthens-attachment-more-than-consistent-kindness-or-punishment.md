@@ -57,6 +57,7 @@ related:
   - INS-260330-C8E2
   - PRI-260328-82A2
   - INS-260330-8286
+  - INS-260412-1761
 ---
 A.E. Fisher's 1955 experiment divided puppies into three groups: consistently treated kindly, consistently punished, or randomly alternating between the two. The third group — raised in uncertainty — became the most attached to and dependent on the researchers. Guy Murchie named this the 'Polarity Principle': stress and uncertainty are ingredients in attachment, not obstacles to it.
 

@@ -61,7 +61,6 @@ related:
   - PRI-260411-ACEF
   - INS-260408-C572
   - PRI-260328-8E01
-  - INS-260408-B5EC
   - INS-260410-1248
 ---
 DeepSeek built two models: R1-Zero, trained with pure reinforcement learning and no human supervision, and R1, a refined version with additional human data. The remarkable finding is that R1-Zero independently learned to reason, verify its own work, and discover new problem-solving strategies — without any human-provided examples of reasoning.

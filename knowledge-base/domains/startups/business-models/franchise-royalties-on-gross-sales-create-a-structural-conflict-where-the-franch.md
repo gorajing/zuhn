@@ -55,7 +55,6 @@ stance: >-
   ticking time bomb of litigation and brand decay.
 related:
   - INS-260324-0DC1
-  - INS-260327-1F4A
   - PRI-260328-5053
   - INS-260329-2EAA
   - INS-260330-EDAC

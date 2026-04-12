@@ -52,7 +52,6 @@ related:
   - INS-260403-8002
   - INS-260327-7435
   - INS-260403-735E
-  - INS-260410-FC55
 stance: >-
   When you account for size, value, profitability, and investment factors, most
   active fund managers who appeared to beat the market were simply main...

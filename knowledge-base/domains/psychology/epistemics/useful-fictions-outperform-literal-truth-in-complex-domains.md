@@ -48,7 +48,7 @@ related:
   - INS-260330-CA8E
   - INS-260412-C37A
   - PRI-260323-CE34
+  - INS-260412-DDD2
   - INS-260410-81DC
-  - INS-260408-59B3
 ---
 Quantum Field Theory treats electrons as dimensionless points — a deliberate fiction since we know particles aren't actually points. Yet this simplification predicts quantum properties to 0.0000000000002% accuracy and underpins most modern technology. The lesson generalizes beyond physics: in any complex domain (startups, investing, AI development), a deliberately simplified model that enables calculation and action will outperform a more 'accurate' framework that's too complex to use. The key criterion isn't whether a model is true, but whether it generates testable predictions and useful technology. This is the pragmatist epistemology — judge frameworks by their fruits, not their metaphysical correctness.

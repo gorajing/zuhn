@@ -44,7 +44,6 @@ stance: >-
   Translating algebraic operations into geometric visualizations produces deeper
   understanding than symbolic manipulation alone
 related:
-  - INS-260323-2FC3
   - INS-260325-48E4
   - INS-260329-6727
   - INS-260329-9CCF
@@ -54,6 +53,7 @@ related:
   - PRI-260406-2903
   - PRI-260406-FA5B
   - INS-260329-9A58
+  - INS-260330-E059
 evidence:
   - id: INS-260330-4B30
     type: SUPPORTS

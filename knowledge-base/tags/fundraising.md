@@ -2,7 +2,6 @@
 
 - `INS-260409-58CD` Doom rhetoric and abundance rhetoric are complementary, not opposed — both justify concentration of control in the few labs claiming to navigate the stakes.
 - `INS-260405-285D` Mistral raised €600M at a €5.8bn valuation from DST Global and General Catalyst despite a 50% contraction in active European VCs.
-- `INS-260322-03DD` a16z was criticized for raising their first fund in 2009 during the financial crisis, but it turned out that raising when nobody else has capital gives structural advantages in deal access and pricing.
 - `INS-260403-7068` a16z Speedrun's real offering is structured access to media operators, brand experts, and live demo rehearsals with buyers—not the $1M check.
 - `INS-260403-C5BD` AI automation compresses startup scaling timelines so dramatically that traditional VC growth benchmarks and pricing heuristics no longer predict winner outcomes.
 - `INS-260403-8EE8` AI startups captured 64% of U.S. deal value in H1 while traditional VC funds struggle to close, creating a two-tier market.
@@ -15,6 +14,7 @@
 - `INS-260405-B126` General Catalyst and a16z alone captured 44% of all US VC fundraising in 2024, indicating a winner-take-most dynamic among funds.
 - `INS-260404-88F9` VCs struggle to raise while simultaneously planning to deploy more capital, creating structural tension.
 - `INS-260405-76E4` Investors without technical depth use founder confidence as a proxy for product quality.
+- `INS-260322-03DD` a16z was criticized for raising their first fund in 2009 during the financial crisis, but it turned out that raising when nobody else has capital gives structural advantages in deal access and pricing.
 - `INS-260403-2F77` Successfully raising once miscalibrates founders into overestimating their ability to raise again under fundamentally different conditions.
 - `INS-260409-BC24` Raise after revenue, not before — AI-era timelines make the old sequencing obsolete.
 - `INS-260405-9C70` Bootstrapping and VC-backing are different contracts with different incentives — the right one depends on what the founder actually wants to build and own.
@@ -28,8 +28,12 @@
 - `INS-260325-3E9F` Xiaoyin Qu (2 exits, ex-Facebook PM): traction flips the fundraising power dynamic from begging for money to investors begging you to take theirs.
 - `INS-260327-D2A6` Make your fundraise itself a story worth telling—unconventional approaches generate more attention than conventional pitches.
 - `INS-260327-4B5A` Show real-time revenue growth by updating your metrics continuously—static snapshots are far less compelling.
-- `INS-260404-3B83` Mamdani's NYC mayoral win used social-media-first grassroots fundraising to defeat opponents backed by 26 billionaires spending $22M+.
+- `INS-260330-C7FF` The most successful YC companies gave generous equity to early employees (~10% for first 10) while fighting to minimize investor dilution.
+- `INS-260404-D60F` Underfunding back-office functions creates hidden operational debt that surfaces during investor diligence and audit cycles.
 - `INS-260321-3521` Using another company's funding as market validation is a false signal — investors often fund founders, not ideas, and many funded companies pivoted from their original concept.
+- `INS-260404-3B83` Mamdani's NYC mayoral win used social-media-first grassroots fundraising to defeat opponents backed by 26 billionaires spending $22M+.
+- `INS-260405-94A1` Match your pitch deck's emphasis to investor decision criteria at your specific funding stage.
+- `INS-260405-5C48` Having live IRR numbers before every investor call signals operational discipline and closes the trust gap faster than almost any other preparation.
 - `INS-260403-7318` Startups with 18+ months of runway are 3x more likely to secure follow-on funding because runway signals discipline and reduces investor risk perception.
 - `INS-260404-6243` 38 new unicorns in 2024 show a more selective but still active late-stage venture market.
 - `INS-260323-E9E4` Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead.
@@ -230,20 +234,16 @@
 - `INS-260403-2936` Strong teams with clear pitches can raise from anywhere because VCs now allocate by sector and quality, not geography.
 - `INS-260405-7E50` Narrative structure should be locked before any design work begins on a pitch deck.
 - `INS-260404-2A95` YC's SAFE contains provisions that many founders don't fully understand, creating hidden advantages for investors.
-- `INS-260330-C7FF` The most successful YC companies gave generous equity to early employees (~10% for first 10) while fighting to minimize investor dilution.
-- `INS-260404-D60F` Underfunding back-office functions creates hidden operational debt that surfaces during investor diligence and audit cycles.
-- `INS-260405-94A1` Match your pitch deck's emphasis to investor decision criteria at your specific funding stage.
-- `INS-260405-5C48` Having live IRR numbers before every investor call signals operational discipline and closes the trust gap faster than almost any other preparation.
 - `INS-260405-CB93` A good pitch deck should simultaneously repel misfit investors and excite the right ones.
 - `INS-260405-C819` 17-22 slides, one point each—the format that fits how investors actually process information today.
 - `INS-260405-ECCD` Investors must feel the problem before they can value the solution.
 - `INS-260405-CC3F` Headers that assert facts do the selling when you're not in the room.
 - `INS-260405-45E0` PMF is the primary predictor of startup success because it confirms that value creation and capture are aligned.
 - `INS-260405-F2C7` Vision should pull milestones forward, not justify why you missed them—keep the two layers structurally separate in your pitch.
-- `INS-260405-6D3A` Quirky raised $185M and went bankrupt because capital scaled an unvalidated assumption, not a proven market.
-- `INS-260403-AC06` Identify which of your risks amplify each other and prioritize decoupling them before approaching investors.
-- `INS-260326-870E` Silicon Valley investors rank growth above team, experience, or pedigree — having growth solves every single startup problem.
 - `INS-260323-8893` Raising funding is just the beginning of obligation, not a milestone of success — bootstrapping forces the discipline of margin-first thinking that funded companies defer until it's too late.
 - `INS-260330-1DCF` Financing underlies distribution which underlies product — great product strategy means thinking in this layered order.
 - `INS-260330-7B1C` The real strategy stack is financing → distribution → product, not the other way around.
 - `INS-260403-6CB4` Use of Funds and valuation should be live outputs that update automatically as the operating plan changes, not hand-crafted presentation slides.
+- `INS-260405-6D3A` Quirky raised $185M and went bankrupt because capital scaled an unvalidated assumption, not a proven market.
+- `INS-260403-AC06` Identify which of your risks amplify each other and prioritize decoupling them before approaching investors.
+- `INS-260326-870E` Silicon Valley investors rank growth above team, experience, or pedigree — having growth solves every single startup problem.

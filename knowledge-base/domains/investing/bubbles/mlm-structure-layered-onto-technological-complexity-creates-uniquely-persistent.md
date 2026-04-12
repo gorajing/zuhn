@@ -57,7 +57,7 @@ related:
   - INS-260403-66CA
   - INS-260330-7FFE
   - INS-260412-8846
-  - INS-260330-1293
+  - INS-260412-583A
 ---
 OneCoin had no blockchain, no real mining, and plagiarized educational materials — yet pulled in $15 billion. The MLM structure meant each investor had a financial incentive to recruit others and defend the product, while the technological complexity of cryptocurrency meant few could verify the underlying claims. This combination creates a self-reinforcing system: the community polices doubt internally (us-vs-them mentality, WhatsApp groups discouraging 'haters'), while the technology shields the fraud from casual external scrutiny. Traditional financial frauds lack the recruitment army; traditional MLMs lack the technological opacity. The combination is uniquely dangerous.
 

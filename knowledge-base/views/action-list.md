@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-12 | 4951 actionable insights
+Generated on 2026-04-12 | 4956 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1070,6 +1070,7 @@ Generated on 2026-04-12 | 4951 actionable insights
 - [INS-260412-9B06] Nikola surpassed Ford's $28B market cap within one week of going public despite having zero revenue, zero deliveries, and no functioning technology.
 - [INS-260412-24DB] WorldCom's entire growth engine was serial acquisition; when the Sprint merger was blocked, the company had no organic playbook and resorted to fraud.
 - [INS-260412-51C1] Enron's status as Bush's largest campaign contributor bought them regulatory immunity that enabled fraud to scale.
+- [INS-260412-EB4F] Consistent returns uncorrelated with market movements are the top red flag for investment fraud.
 
 ## investing/business-quality
 - [INS-260411-CBCF] Interbrand's top 25 global brand rankings show weak correlation with ROIC-WACC spreads, proving that brand recognition alone does not constitute a competitive advantage.
@@ -2813,6 +2814,7 @@ Generated on 2026-04-12 | 4951 actionable insights
 - [INS-260412-BA6D] Ukraine's guerrilla defense focused on destroying unarmored fuel trucks, rail connections, and road signs—targeting Russia's weakest logistical links rather than its strongest military assets.
 - [INS-260412-3EBB] Caribbean transshipment hubs emerged because many US east coast ports can't handle the larger post-expansion ships, creating a new intermediary logistics layer.
 - [INS-260412-E0B5] Wow Air planned to route around Russian airspace to Delhi by adding only 45 minutes of flight time, undermining the leverage of the chokepoint.
+- [INS-260412-D103] Bitfinex's reliance on BitGo to secure user wallets created the single vulnerability that enabled the entire $4.5B hack.
 
 ## startups/content-strategy
 - [INS-260329-3332] A single 4+ hour comprehensive tutorial can accumulate millions of views over years by dominating 'full course' search queries.
@@ -4178,6 +4180,7 @@ Generated on 2026-04-12 | 4951 actionable insights
 - [INS-260410-9B33] Research shows direct long-haul flight connections between cities increase cross-city idea flow more than internet connectivity — and the effect is strongest between culturally distant places.
 - [INS-260410-6286] Kelly Johnson insisted Skunk Works engineers sit only steps from the shop floor because 'a stone's throw was too far away' — the shortest design-to-build feedback loop wins.
 - [INS-260412-8CB2] The immune system's generate-random-then-cull strategy is more effective than designed immunity because the threat space is too vast to predict — the same applies to innovation in unpredictable markets.
+- [INS-260412-FE82] Google X's explicit mandate to 'improve technologies by a factor of 10' serves as a structural filter that eliminates incremental projects and forces radical rethinking.
 
 ## startups/investor-relations
 - [INS-260405-94A1] Match your pitch deck's emphasis to investor decision criteria at your specific funding stage.
@@ -4350,6 +4353,7 @@ Generated on 2026-04-12 | 4951 actionable insights
 - [INS-260410-6ADD] Microsoft's 'Windows Everywhere' slide — using the Windows UI and APIs for phone, car, media center — was driven by a mix of fear ('Windows is our permission to exist') and overconfidence, and it blocked the company from building the genuinely new capabilities each new market required.
 
 
+- [INS-260412-EB34] Toyota's Toyopet Crown flopped in the US because it was designed for Japanese roads and overheated on American highways.
 
 ## startups/marketing
 - [INS-260405-F456] PostHog's genuinely useful company blog—covering topics like CEO communication, first 1,000 users, and startup sales—is cited as a model for content marketing.
@@ -4617,6 +4621,7 @@ Generated on 2026-04-12 | 4951 actionable insights
 - [INS-260404-E8B2] Fewer components means fewer connections between them, and connection-count is where bugs actually live.
 - [INS-260404-67C5] Multiple checkpoints (police, prosecutors, defense, jury) all biased toward conviction means zero effective error correction.
 - [INS-260403-868F] Spending tens of hours on primary research per post produces insights readers can't find elsewhere, which is what makes content worth sharing.
+- [INS-260412-1358] When US automakers downsized cars after the 1970s oil crisis, cost-cutting degraded their quality — while Toyota's systematic Total Quality Control maintained standards at any scale.
 
 ## startups/resilience
 - [INS-260412-EE18] Forces that maintain cohesion at small scale break down at larger scales, requiring different survival strategies at each phase.

@@ -1,6 +1,6 @@
 # Topic: business-analysis
 
-> 47 insights
+> 52 insights
 
 - `INS-260412-24DB` [high] WorldCom's entire growth engine was serial acquisition; when the Sprint merger was blocked, the company had no organic playbook and resorted to fraud.
 - `INS-260410-641D` [high] An acquisition serving three strategic purposes simultaneously is worth far more than critics who grade on one dimension will estimate — YouTube went from 'Google's worst mistake' to a $500B business.
@@ -28,6 +28,7 @@
 - `INS-260412-9B06` [high] Nikola surpassed Ford's $28B market cap within one week of going public despite having zero revenue, zero deliveries, and no functioning technology.
 - `INS-260412-22A6` [high] Samsung's failure to produce qualifying HBM3E chips for Nvidia — despite being a major semiconductor manufacturer — triggered a $122B market cap loss precisely because memory chips are Samsung's supposed core competency.
 - `INS-260410-F6FE` [high] Nike mistook the running boom for the fitness boom and refused to do aerobics on principle, letting Reebok overtake them in sales by 1988.
+- `INS-260412-0C84` [high] Google bought Motorola for $12.5B and sold it for $2.9B but kept the patent portfolio — the real asset — to defend Android against Apple litigation.
 - `INS-260412-16FD` [high] Airline ticket prices are dominated by airport fees, taxes, maintenance, and aircraft depreciation, leaving airlines with thin margins on each seat.
 - `INS-260412-A9C3` [high] The Concorde burned only 2.5x more total fuel per mile than the Dreamliner, but per-passenger fuel economy was 14 vs 104 mpg — a 7.4x gap.
 - `INS-260412-D3C3` [high] Private jets beat commercial only where poor route coverage forces overnight stops, not where direct commercial flights exist.
@@ -38,16 +39,20 @@
 - `INS-260410-8212` [high] Nike's running shoes cost the same as Adidas and New Balance, and Adidas actually has a higher gross margin — Nike's power shows up in athlete acquisition, not price.
 - `INS-260412-826D` [high] WestJet flies 6 routes with 3 planes by using St John's as a scissor hub where domestic and transatlantic flights swap passengers.
 - `INS-260412-46A7` [high] Russia's policy of granting Siberian overflight to only one airline per European country creates de facto monopolies on Asia routes for legacy carriers.
+- `INS-260412-03B4` [high] The Dutch East India Company was granted monopoly trade rights plus authority to wage war, mint coins, and negotiate treaties — transforming from corporation to empire within decades.
 - `INS-260412-3512` [high] Anchorage — a city of 300K people — hosts the 4th busiest cargo airport in the world because it sits on the great-circle route between US and Asian hubs, serving as both a refueling stop and a sorting node.
 - `INS-260410-5871` [high] Run stress tests against the worst outcome ever recorded for each exposure, not against the milder scenarios regulators or consensus supply.
 - `INS-260410-3270` [high] Berkshire 1965–2025: 19.7% CAGR vs S&P 10.5% CAGR. The 9.2-point annual gap produced a total return differential of 6,099,294% vs 46,061% — a 132x absolute multiplier on the arithmetic mean difference.
 - `INS-260412-6DD9` [high] Heathrow's $19 per-passenger cost is covered by $29 in airline fees plus $13.32 in retail, but retail is where the margin lives.
 - `INS-260410-91A6` [high] Every generational operator — Buffett, Carnegie, Rockefeller, Izzy Sharp, Ogilvy — grew fastest during downturns by deploying capital into advertising, acquisitions, and hiring while panicked competitors cut back.
 - `INS-260411-2B1D` [high] The value stick (WTP minus Price minus Cost minus WTS) breaks value creation into consumer surplus, firm value, and supplier surplus, revealing precisely where a company's strategy creates and captures value.
+- `INS-260412-EB4F` [high] Consistent returns uncorrelated with market movements are the top red flag for investment fraud.
 - `INS-260410-F1F1` [high] Genuinely great opportunities come five or six times in a lifetime — when you know you have an edge, the correct response is to bet heavily, not to diversify.
 - `INS-260412-816C` [medium] VW's mass-market foundation funded luxury brand acquisitions that diversified revenue and elevated group engineering.
+- `INS-260412-1711` [medium] Samsung's 80+ businesses across unrelated industries made it nearly impossible to displace because failure in one sector couldn't threaten the whole.
 - `INS-260412-51C1` [medium] Enron's status as Bush's largest campaign contributor bought them regulatory immunity that enabled fraud to scale.
 - `INS-260405-C0AF` [medium] Surviving retailers like Costco, Ross, Aldi, and Dollar General prove physical retail isn't dying — only undifferentiated or maladapted retail is.
 - `INS-260410-9A20` [medium] Staged 'busy office' tours are a fraud tell — real businesses don't need to fake activity for visiting analysts.
+- `INS-260412-B4B6` [medium] Samsung's $2M investment in FUBU when it was about to fail, which generated $6B in subsequent sales, reveals an underappreciated venture-style capital allocation capability within conglomerates.
 - `INS-260412-10FD` [medium] Superyachts cost roughly 10% of their value annually to maintain, but owners justify this as business infrastructure because a single deal closed on board can pay back the investment many times over.
 - `INS-260412-06A1` [medium] Airlines perform maintenance on planes forced to sit idle in South America, exploiting cheaper labor to extract value from schedule-imposed downtime.

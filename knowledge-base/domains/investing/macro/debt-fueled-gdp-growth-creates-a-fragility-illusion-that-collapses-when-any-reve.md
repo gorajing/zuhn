@@ -52,9 +52,9 @@ stance: >-
 related:
   - INS-260327-F93A
   - PRI-260328-6136
+  - INS-260412-940C
   - PRI-260406-53BC
   - INS-260403-EB97
-  - PRI-260328-6CDE
 ---
 Sri Lanka's trajectory from 2006-2019 looked like a development success story — GDP per capita doubled, 1.6 million people exited poverty, and the country achieved World Bank upper-middle-income status. But this growth was funded by external debt reaching 119% of GDP. The structural fragility was invisible during good times because debt service was covered by tourism revenue and export earnings.
 

@@ -46,7 +46,6 @@ stance: >-
   Delaying launch until early users actively love the product generates stronger
   retention and word-of-mouth than shipping fast to test basic viability.
 related:
-  - INS-260323-C5D3
   - INS-260329-560D
   - INS-260330-E089
   - INS-260330-E263

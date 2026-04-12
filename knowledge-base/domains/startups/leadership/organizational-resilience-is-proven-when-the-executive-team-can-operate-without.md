@@ -49,7 +49,6 @@ stance: >-
   can run the company autonomously during crisis, not personal heroics.
 related:
   - INS-260327-B4C0
-  - INS-260327-812B
   - PRI-260328-BEAB
   - INS-260330-341D
   - INS-260403-952F

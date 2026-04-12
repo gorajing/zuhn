@@ -48,11 +48,11 @@ stance: >-
   Deep practical knowledge of physical systems creates disproportionate social
   value because most people only superficially understand the tools around them
 related:
+  - INS-260412-C996
   - INS-260330-FBF0
   - INS-260327-70DF
   - INS-260325-568A
   - INS-260330-053D
-  - INS-260325-A272
 evidence:
   - id: INS-260330-FBF0
     type: SUPPORTS

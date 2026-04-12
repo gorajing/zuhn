@@ -47,13 +47,15 @@ stance: >-
   Agentic AI represents a strategic inflection point that requires
   executive-level playbooks, not just technical adoption plans.
 related:
-  - INS-260322-F128
   - INS-260405-6CED
   - INS-260404-8520
+  - INS-260322-F128
+  - INS-260412-EDD8
   - INS-260404-3D17
   - INS-260404-2BAD
   - INS-260404-2F49
   - INS-260403-A505
+  - INS-260412-837F
 ---
 The emergence of agentic AI—systems that autonomously plan and execute multi-step tasks—is no longer a purely technical consideration. Executives are now being handed playbooks for how to navigate its impact on business operations and decision-making, signaling that AI has crossed into strategic territory that requires C-suite ownership.
 

@@ -53,7 +53,6 @@ related:
   - PRI-260406-EC93
   - INS-260403-9421
   - INS-260322-1D52
-  - INS-260403-566D
   - INS-260403-05CE
 evidence:
   - id: INS-260322-1D52

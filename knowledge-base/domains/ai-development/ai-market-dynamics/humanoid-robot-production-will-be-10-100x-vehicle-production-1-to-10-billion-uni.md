@@ -48,11 +48,11 @@ related:
   - PRI-260328-7007
   - INS-260403-215E
   - INS-260410-1159
-  - INS-260321-2BF9
   - INS-260327-76B2
   - INS-260327-0875
   - INS-260403-107E
   - INS-260403-F2A2
+  - INS-260405-FC36
 stance: >-
   Musk predicts humanoid robot production at 1-10 billion units/year (vs 100M
   vehicles/year), requiring edge inference chips at a scale that justifie...

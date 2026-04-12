@@ -45,7 +45,6 @@ stance: >-
   How long a dominant player has held its position provides zero predictive
   signal about whether it will survive the next paradigm shift.
 related:
-  - INS-260403-9D90
   - PRI-260328-A4AC
   - INS-260404-FAE9
   - PRI-260405-5912

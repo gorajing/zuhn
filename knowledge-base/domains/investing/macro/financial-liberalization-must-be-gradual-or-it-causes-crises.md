@@ -57,8 +57,8 @@ related:
   - INS-260409-1DD3
   - PRI-260328-E1CE
   - INS-260410-CBF9
+  - INS-260412-1358
   - PRI-260406-6AE6
-  - INS-260327-7A27
 ---
 Rogoff describes updating his view on Japan — he used to think the 7-year gap between the 1985 Plaza Accord and the 1992 crisis was too long for causation, but now believes these things unfold slowly. The head of the Bank of Japan literally apologized at the 10th anniversary: 'I have ruined our country.' The lesson generalizes: countries should liberalize their financial systems, but the sequencing and pace matter enormously. Moving faster than your institutional capacity to supervise, regulate, and price risk produces crises that leave permanent scars (see prior insight).
 

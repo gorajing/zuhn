@@ -15,12 +15,13 @@
 - `INS-260403-B7FA` Skill acquisition is driven more by self-chosen hard projects than by structured coursework.
 - `INS-260403-79E0` The five intrinsic motivators — curiosity, passion, purpose, autonomy, mastery — must be built in sequence, not cherry-picked.
 - `INS-260402-B14F` Both the Visionary and Brahma refuse to leverage self-interest arguments for morality, finding it 'aesthetically unappealing' to reduce ethics to incentives.
+- `INS-260412-4289` Tesla dug ditches for $2/day while searching for AC financial backers — the gap between his capability and his circumstances tested whether his drive was real.
 - `INS-260403-4F4B` Persistence is best learned through lived experience on a single obsessive project, not through frameworks or advice.
 - `INS-260330-633F` Passion ignites the rocket but burns out fast; curiosity is the propellant that keeps you in orbit for decades.
 - `INS-260329-764E` Focusing on the act of creating rather than follower counts prevents the motivational collapse that kills most content efforts.
+- `INS-260403-A14B` Novel problems attract skaters and let them skate full-time, creating a double productivity multiplier.
 - `INS-260403-35EE` VCs screen for obsession—founders who would keep building even if the money disappeared—because it predicts survival through inevitable chaos.
 - `INS-260403-E365` Work on ambitious projects you genuinely enjoy, and the right things will naturally get left undone.
-- `INS-260403-A14B` Novel problems attract skaters and let them skate full-time, creating a double productivity multiplier.
 - `INS-260403-E6A7` Every billionaire founder could have stopped sooner — they kept going not for money but because there was nothing else they'd rather do.
 - `INS-260329-36FF` Work created from abundance rather than scarcity resonates differently because people can feel the intention behind it.
 - `INS-260403-862E` Genuine problem interest predicts startup success better than ambition for money or status.

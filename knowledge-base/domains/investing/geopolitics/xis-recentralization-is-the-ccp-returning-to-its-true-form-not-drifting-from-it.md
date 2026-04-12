@@ -59,7 +59,6 @@ stance: >-
   China but a return to the CCP's default operating mode after Deng's market
   experiments were treated as a tactical exception.
 related:
-  - INS-260330-2EC6
   - INS-260323-9B68
   - INS-260410-CD75
   - INS-260403-397B

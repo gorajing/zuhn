@@ -56,5 +56,6 @@ related:
   - INS-260412-404F
   - INS-260325-D624
   - PRI-260323-CE34
+  - INS-260412-DDD2
 ---
 The video draws an explicit parallel between early electromagnetic research and current strange matter physics: scientists tinkering with magnets and wires had no conception of the technological revolution they were enabling. This pattern — fundamental research creating civilizational option value on 50-100 year timescales — is one of the most robust patterns in the history of science. Quantum mechanics led to semiconductors, general relativity to GPS, germ theory to modern medicine. The key insight for decision-making is that the ROI of basic research is systematically underestimated because the applications are literally unimaginable at the time of discovery. This creates a strong argument for funding and pursuing research without requiring a clear use case, and for personal learning strategies that prioritize deep understanding over immediate applicability.

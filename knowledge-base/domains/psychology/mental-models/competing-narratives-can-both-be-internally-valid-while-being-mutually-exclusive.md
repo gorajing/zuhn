@@ -52,7 +52,6 @@ stance: >-
   justify incompatible claims, making 'who is right' the wrong question.
 related:
   - INS-260323-9E67
-  - INS-260327-1EC6
   - PRI-260323-36A6
   - INS-260410-C207
   - INS-260403-3DB9

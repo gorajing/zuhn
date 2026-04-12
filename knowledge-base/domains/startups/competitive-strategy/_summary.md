@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 611 insights
+> 614 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -10,6 +10,7 @@
 - `INS-260327-E093` [high] As a 19-year-old dropout with no credibility, he offered advertisers performance-based pricing — absorbing all risk — and grew to $150M ARR in 4 years.
 - `INS-260403-F52E` [high] RuBisCo evolved when oxygen was scarce and CO2 abundant — rising oxygen levels broke its core function, but plants couldn't pivot.
 - `INS-260330-0871` [high] Facebook's $1B Instagram acquisition — mocked as absurd for an 18-month-old app with zero revenue — generated $24B/year by 2019 and eliminated its top competitor.
+- `INS-260412-9357` [high] Google's 2013-2014 acquisition spree assembled robotics, AI, IoT, and mobile into a coherent capability stack rather than buying standalone businesses.
 - `INS-260330-0317` [high] Facebook bought WhatsApp for $19B not for its $1.2M revenue but to prevent Google from acquiring it and to absorb its 1B+ user base into the Facebook data ecosystem.
 - `INS-260323-960A` [high] The activist investor playbook — identify underperformance, build external credibility, assemble a coalition, and force accountability — is a universal framework for organizational change.
 - `INS-260325-0895` [high] Icefish evolved antifreeze and ditched red blood cells to thrive in Antarctic waters — adaptations that would be instantly fatal anywhere else.
@@ -240,6 +241,7 @@
 - `INS-260330-9014` [high] Blockbuster's 60,000 employees and thousands of stores — once their moat — became their biggest liability when streaming eliminated the need for physical locations.
 - `INS-260403-E482` [high] Yahoo rejected Google's $1M/year search deal and later a $3B acquisition because accepting either would acknowledge Google's technology was superior.
 - `INS-260403-F932` [high] If a new medium makes you nervous, it will probably win — jump in immediately rather than protecting your old model.
+- `INS-260412-1761` [high] Edison publicly electrocuted animals with AC current and backed the electric chair to associate Tesla's superior technology with danger.
 - `INS-260330-DCFB` [high] Companies like Xiaomi and Samsung that achieved mass distribution in India first built ecosystem switching costs that Apple's superior brand couldn't overcome.
 - `INS-260403-A0B0` [high] Incumbents holding existing user data and daily engagement have a near-insurmountable AI distribution advantage.
 - `INS-260327-ACB3` [high] Tech companies that empowered engineers to build disruption tools are now using those same tools to disrupt the engineers who built them.
@@ -464,6 +466,7 @@
 - `INS-260405-7B7C` [high] Companies like Ross, Aldi, Dollar General, and Costco thrived during the 'retail apocalypse,' suggesting Amazon punished bad strategy rather than killed an industry.
 - `INS-260404-CB96` [high] The best defense turns the attacker's greatest strength into their greatest vulnerability.
 - `INS-260330-6B7F` [high] Vanilla JS forces imperative DOM manipulation where state and UI are completely decoupled, and any attempt to manage that complexity at scale recreates framework patterns — just without the community, testing, and documentation.
+- `INS-260412-D103` [high] Bitfinex's reliance on BitGo to secure user wallets created the single vulnerability that enabled the entire $4.5B hack.
 - `INS-260327-E2BC` [high] AI startups either help professionals do their jobs, replace tasks entirely, or make previously impossible work feasible.
 - `INS-260410-8BF9` [high] No carrier would adopt CDMA unless someone made the base stations, the handsets, AND the chips — so Qualcomm built JVs with Nortel and Sony to make all three before divesting every non-core layer.
 - `INS-260410-90C5` [high] Costco refused to accept credit cards for years, proving customers would shop without them, which later let Costco hold an auction among card networks instead of paying interchange — the constraint became the leverage.

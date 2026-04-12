@@ -771,6 +771,7 @@ Generated on 2026-04-12 | 2467 sources
 | Google Part I: Origins of Search. How the Best Business in Human History Happened (Audio) | youtube | 5 | 2026-04-11 |
 | Google Part II: Alphabet (Audio) | youtube | 5 | 2026-04-11 |
 | Google Part III: The AI Company. Google is amazingly well-positioned... will they win in AI? (audio) | youtube | 5 | 2026-04-11 |
+| Google's Deep Mind Explained! - Self Learning A.I. | youtube | 5 | 2026-04-12 |
 | Graham Hancock: Lost Civilization of the Ice Age & Ancient Human History | Lex Fridman Podcast #449 | youtube | 5 | 2026-03-30 |
 | Hermès (Audio) | youtube | 5 | 2026-04-11 |
 | How a 28 Year Old Man Destroyed England’s Oldest Bank | youtube | 5 | 2026-04-12 |
@@ -781,6 +782,7 @@ Generated on 2026-04-12 | 2467 sources
 | How Apple Just Changed the Entire Industry (M1 Chip) | youtube | 5 | 2026-04-12 |
 | How are holograms possible? | youtube | 5 | 2026-03-30 |
 | How Barbers Really Make Money | youtube | 5 | 2026-03-24 |
+| How Big is Toyota? (They’ve Owned 27% of Tesla Motors!) | youtube | 5 | 2026-04-12 |
 | How BIG is Volkswagen? (They own Lamborghini, Bentley, Bugatti, Porsche..) | youtube | 5 | 2026-04-12 |
 | How Budget Airlines Work | youtube | 5 | 2026-04-12 |
 | How Does A Carburetor Work? | Transparent Carburetor at 28,546 fps Slow Mo - Smarter Every Day 259 | youtube | 5 | 2026-03-30 |
@@ -1497,6 +1499,7 @@ Generated on 2026-04-12 | 2467 sources
 | Enterprise Sales | Startup School | youtube | 4 | 2026-03-27 |
 | Every major leap in human progress has this in common | Jason Crawford: Full Interview | youtube | 4 | 2026-03-25 |
 | Every State in the US | youtube | 4 | 2026-04-12 |
+| Exploring the Dark Web | youtube | 4 | 2026-04-12 |
 | Fireside Chat #15: Making Large Language Models Uncool Again | youtube | 4 | 2026-03-28 |
 | From Dot-Com Bust to AI Boom: What I Learned the Hard Way (So You Don't Have To) | Bruce Wang | youtube | 4 | 2026-03-26 |
 | Gary Marcus on the Massive Problems Facing AI & LLM Scaling | The Real Eisman Playbook Episode 42 | youtube | 4 | 2026-03-23 |
@@ -1518,6 +1521,8 @@ Generated on 2026-04-12 | 2467 sources
 | How An Infinite Hotel Ran Out Of Room | youtube | 4 | 2026-03-30 |
 | How Apple and Nike have branded your brain | Your Brain on Money | Big Think | youtube | 4 | 2026-03-30 |
 | How Axon Became Wall Street's Hottest Stock | youtube | 4 | 2026-03-24 |
+| How BIG is Google? | youtube | 4 | 2026-04-12 |
+| How BIG is Samsung? (They Have a Military Department!) | youtube | 4 | 2026-04-12 |
 | How Boba Shops Really Make Money | youtube | 4 | 2026-03-24 |
 | How childhood wiring impacts adult life, in 90 minutes | Becky Kennedy: Full Interview | youtube | 4 | 2026-03-25 |
 | How China Broke the World's Recycling | youtube | 4 | 2026-04-12 |
@@ -1577,6 +1582,7 @@ Generated on 2026-04-12 | 2467 sources
 | Mark Pincus on Why Most Startups Fail, Founder Control, and How to Win | youtube | 4 | 2026-03-23 |
 | Mark Zuckerberg: Future of AI at Meta, Facebook, Instagram, and WhatsApp | Lex Fridman Podcast #383 | youtube | 4 | 2026-03-24 |
 | Mark Zuckerberg — Llama 3, $10B models, Caesar Augustus, & 1 GW datacenters | youtube | 4 | 2026-03-28 |
+| Married Couple Steals $4.5 Billion in Bitcoin Heist [Bitfinex] | youtube | 4 | 2026-04-12 |
 | Max Tegmark: The Case for Halting AI Development | Lex Fridman Podcast #371 | youtube | 4 | 2026-03-24 |
 | Messages For The Future | youtube | 4 | 2026-03-30 |
 | Michio Kaku: What If Einstein Is Wrong? | Big Think | youtube | 4 | 2026-03-30 |
@@ -1591,6 +1597,8 @@ Generated on 2026-04-12 | 2467 sources
 | NASA의 진짜 목표는 달이 아니다? 아르테미스 계획 총정리ㅣ범준에물리다 | youtube | 4 | 2026-03-22 |
 | Navy SEAL has a '40 Percent Rule' and it's the key to overcoming mental barriers | Big Think | youtube | 4 | 2026-03-30 |
 | Neri Oxman: Biology, Art, and Science of Design & Engineering with Nature | Lex Fridman Podcast #394 | youtube | 4 | 2026-03-24 |
+| Next-Gen Graphics FINALLY Arrive [Unreal Engine 5] | youtube | 4 | 2026-04-12 |
+| Next Generation Robots - Boston Dynamics, Asimo, Da Vinci, SoFi | youtube | 4 | 2026-04-12 |
 | NVIDIA CEO Jensen Huang's Vision for the Future | youtube | 4 | 2026-03-23 |
 | NVIDIA's $1 Trillion Prediction, Anthropic Beats OpenAI, Tesla vs. TSMC & The CS Job Collapse | 240 | youtube | 4 | 2026-03-22 |
 | OpenAI Sora 2 Team: How Generative Video Will Unlock Creativity and World Models | youtube | 4 | 2026-03-26 |
@@ -1642,6 +1650,7 @@ Generated on 2026-04-12 | 2467 sources
 | The Limits of American Power – Sarah Paine | youtube | 4 | 2026-04-10 |
 | The Logistics of Living in Antarctica | youtube | 4 | 2026-04-12 |
 | The Man Who Fooled The World | youtube | 4 | 2026-03-23 |
+| The Man Who Stole $65 Billion (Bernie Madoff) | youtube | 4 | 2026-04-12 |
 | The Most Controversial Idea in Biology | youtube | 4 | 2026-03-23 |
 | The Most Dangerous Stuff in the Universe - Strange Stars Explained | youtube | 4 | 2026-04-12 |
 | The Most Founder Mode CEO Working Today Isn’t the Founder: Opendoor’s Kaz Nejatian | youtube | 4 | 2026-03-26 |
@@ -1656,6 +1665,8 @@ Generated on 2026-04-12 | 2467 sources
 | The Territorial Business of Tacos | youtube | 4 | 2026-03-24 |
 | The Tiny Donut That Proved We Still Don't Understand Magnetism | youtube | 4 | 2026-03-23 |
 | The Trillion Dollar Equation | youtube | 4 | 2026-03-23 |
+| The True Story of Nikola Tesla [Pt.1] | youtube | 4 | 2026-04-12 |
+| The Truth About Solar | youtube | 4 | 2026-04-12 |
 | The US President's $2,614 Per Minute Transport System | youtube | 4 | 2026-04-12 |
 | The Wild Economics of Online Gambling | youtube | 4 | 2026-03-24 |
 | The World War of the Ants – The Army Ant | youtube | 4 | 2026-04-12 |
@@ -1689,6 +1700,7 @@ Generated on 2026-04-12 | 2467 sources
 | What If You Fall into a Black Hole? | youtube | 4 | 2026-04-12 |
 | What makes quantum computers SO powerful? | youtube | 4 | 2026-03-23 |
 | What to do if your inner voice is cruel | Ethan Kross | youtube | 4 | 2026-03-30 |
+| What Was the Biggest Company in History? - $7.9 Trillion! | youtube | 4 | 2026-04-12 |
 | What Will We Miss? | youtube | 4 | 2026-03-30 |
 | What's Actually the Plane of the Future | youtube | 4 | 2026-04-12 |
 | What’s Hiding at the Most Solitary Place on Earth? The Deep Sea | youtube | 4 | 2026-04-12 |
@@ -2453,20 +2465,8 @@ Generated on 2026-04-12 | 2467 sources
 | 5 Mind Blowing Facts About Your Smartphone! | youtube | 0 | 2026-04-12 |
 | EU Just Changed Smartphones Forever | youtube | 0 | 2026-04-12 |
 | Ex-Apple CEO Starts His Own Phone Company! | youtube | 0 | 2026-04-12 |
-| Exploring the Dark Web | youtube | 0 | 2026-04-12 |
-| Google's Deep Mind Explained! - Self Learning A.I. | youtube | 0 | 2026-04-12 |
-| How BIG is Google? | youtube | 0 | 2026-04-12 |
-| How BIG is Samsung? (They Have a Military Department!) | youtube | 0 | 2026-04-12 |
 | How BIG is TATA? (They Own Jaguar) | ColdFusion | youtube | 0 | 2026-04-12 |
-| How Big is Toyota? (They’ve Owned 27% of Tesla Motors!) | youtube | 0 | 2026-04-12 |
 | Li-Fi, 100X Faster Than Wi-Fi! | ColdFusion | youtube | 0 | 2026-04-12 |
 | Major Breakthrough: Graphene Batteries FINALLY Hit the Market | youtube | 0 | 2026-04-12 |
-| Married Couple Steals $4.5 Billion in Bitcoin Heist [Bitfinex] | youtube | 0 | 2026-04-12 |
-| Next-Gen Graphics FINALLY Arrive [Unreal Engine 5] | youtube | 0 | 2026-04-12 |
-| Next Generation Robots - Boston Dynamics, Asimo, Da Vinci, SoFi | youtube | 0 | 2026-04-12 |
 | Nokia’s 2017 Return | youtube | 0 | 2026-04-12 |
-| The Man Who Stole $65 Billion (Bernie Madoff) | youtube | 0 | 2026-04-12 |
-| The True Story of Nikola Tesla [Pt.1] | youtube | 0 | 2026-04-12 |
-| The Truth About Solar | youtube | 0 | 2026-04-12 |
-| What Was the Biggest Company in History? - $7.9 Trillion! | youtube | 0 | 2026-04-12 |
 | Why Meta Lost $230 billion [Biggest Company Loss in History] | youtube | 0 | 2026-04-12 |

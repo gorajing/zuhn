@@ -50,7 +50,6 @@ stance: >-
   either massive scale or government subsidy, making small-scale private
   infrastructure ventures almost always doomed
 related:
-  - INS-260327-7C23
   - INS-260330-A0AE
   - INS-260412-FEFA
   - INS-260412-16FD

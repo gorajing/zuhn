@@ -56,6 +56,7 @@ related:
   - INS-260409-8A36
   - PRI-260406-9EF7
   - INS-260330-9933
+  - INS-260412-2131
 ---
 Stebbings passed on Deel at seed despite recognizing founder Alex Bouaziz as exceptional — he let the competitive landscape (ADP, Paychecks) override founder conviction. The same pattern repeated with Vanta's Christina Cacioppo, where SOC 2 compliance looked like a tiny, boring market. Both companies became multi-billion dollar outcomes.
 

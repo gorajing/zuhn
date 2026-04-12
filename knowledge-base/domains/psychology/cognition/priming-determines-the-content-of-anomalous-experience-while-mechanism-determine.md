@@ -63,8 +63,8 @@ related:
   - INS-260403-E6A8
   - INS-260403-7E1F
   - INS-260403-C228
+  - INS-260412-AB46
   - INS-260403-0218
-  - INS-260403-014D
 ---
 At Fatima, Catholics saw the Virgin Mary. At Dhammakaya, Buddhists saw monk Luang Pu Sodh with a crystal sphere in his belly — an image directly from their meditation practice of visualizing a Buddha with a crystal ball at the heart center. Both groups saw the same structural phenomenon: sun spinning, colors shifting, light becoming non-blinding.
 

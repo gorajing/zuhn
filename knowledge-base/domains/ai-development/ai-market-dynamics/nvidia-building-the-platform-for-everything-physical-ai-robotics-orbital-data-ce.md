@@ -46,10 +46,10 @@ resolutions:
     NVIDIA as critical infrastructure and apply antitrust pressure.
 related:
   - INS-260327-BEFF
+  - INS-260412-9357
+  - INS-260412-3A70
   - INS-260327-9C56
   - INS-260403-6FEB
-  - INS-260323-758B
-  - PRI-260328-7007
   - INS-260327-1652
   - INS-260403-20BF
   - INS-260404-0B8E

@@ -53,11 +53,11 @@ stance: >-
   organisms solve the exact problem, not from brainstorming sessions or
   incremental improvement of existing technology.
 related:
-  - INS-260323-6134
   - INS-260330-5DCA
   - INS-260330-08D1
   - INS-260327-0875
   - INS-260330-9A92
+  - INS-260412-C436
 evidence:
   - id: INS-260330-5DCA
     type: SUPPORTS

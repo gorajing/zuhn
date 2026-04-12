@@ -60,7 +60,6 @@ related:
   - INS-260410-66E4
   - PRI-260328-95A5
   - PRI-260324-3081
-  - INS-260410-A65C
 ---
 Esports had every ingredient that should have produced a viable business: massive viewership (rivaling NBA and NFL for younger demographics), passionate engagement, concentrated millennial/Gen Z audience that marketers were desperate to reach, and Fortune 500 brand sponsors. The plan was simple: grow viewership to critical mass, sell broadcast rights for billions (like NFL and NBA), and distribute that cash to teams.
 

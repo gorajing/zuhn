@@ -49,10 +49,9 @@ stance: >-
   by eliminating energy, cooling, and data-locality constraints simultaneously
 related:
   - INS-260323-F528
-  - INS-260403-CAE5
   - INS-260404-CC8B
   - INS-260410-0ECA
+  - INS-260403-CAE5
   - INS-260325-2906
-  - INS-260404-EE07
 ---
 Terrestrial AI data centers face three compounding constraints: energy consumption (tens of megawatts per training run), cooling (fresh water via evaporation towers), and data locality (downlinking terabytes of raw satellite data). Starcloud's orbital design dissolves all three simultaneously — solar power eliminates grid dependency, vacuum becomes an infinite heat sink, and proximity to Earth-observation sensors eliminates downlink latency. The claimed 10x CO2 reduction and 100x GPU compute over any prior space operation positions this as infrastructure-class, not novelty. The early use-cases (wildfire detection, crop analysis, distress-signal response) are high-stakes real-time applications where latency and reliability matter more than cost-per-FLOP, making space the right venue even before general economic parity.

@@ -59,8 +59,8 @@ related:
   - INS-260412-DC05
   - INS-260412-5768
   - INS-260412-AB09
+  - INS-260412-8E7E
   - PRI-260328-06F1
-  - INS-260323-9676
 ---
 Samsung didn't miss AI because they lack semiconductor capability — they are one of the world's largest chip manufacturers. They missed it because their HBM3E chips failed Nvidia's heat and power efficiency requirements, allowing smaller competitor SK Hynix to become Nvidia's exclusive supplier. The market reaction was devastating precisely because this was Samsung's home turf.
 

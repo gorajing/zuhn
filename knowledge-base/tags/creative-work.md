@@ -2,6 +2,7 @@
 
 - `INS-260329-6CE8` AI replaced creative and white-collar jobs first, not physical labor as universally predicted.
 - `INS-260329-B062` AI replaced creative and expert roles before low-skill physical jobs, reversing what most people predicted.
+- `INS-260412-C28A` General-purpose AI may eliminate information-intensive specialized jobs while creative and emotional roles remain uniquely human—at least for now.
 - `INS-260405-2E0A` Being slightly overconfident compensates for the systematic underestimation errors that ambitious work generates — making the net estimate more accurate, not less.
 - `INS-260403-14D5` You don't need to grow up or go to college in a great city, but you should be in one during the critical early-to-mid career phase when you're finding your problems and peers.
 - `INS-260403-AA0B` Important problems create an almost physical pain that paralyzes—you must approach them obliquely rather than head-on.

@@ -53,6 +53,7 @@ related:
   - INS-260403-8806
   - PRI-260406-DA72
   - INS-260403-D089
+  - INS-260412-2131
 ---
 The article reveals a subtle but critical insight about VC psychology: due diligence isn't a neutral fact-finding mission. It's a confirmation process. VCs enter diligence with an initial conviction — a gut feeling that the startup is a winning bet — and then systematically check whether the data supports or contradicts that thesis. This is fundamentally different from how founders often imagine diligence works.
 

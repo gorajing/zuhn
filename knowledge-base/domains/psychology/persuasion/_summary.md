@@ -1,6 +1,6 @@
 # Topic: persuasion
 
-> 67 insights
+> 69 insights
 
 - `INS-260403-9DB6` [high] Steady accumulation of documented incidents shifts opinion more than any single dramatic event because patterns resist counter-narrative.
 - `INS-260403-36F0` [high] Correctness about what's wrong doesn't convert into support without a clear alternative vision.
@@ -54,6 +54,7 @@
 - `INS-260404-F0A3` [medium] Explicitly stating the boundaries of your argument before making it partially defuses accusations of malicious streetlighting or directional overclaiming.
 - `INS-260412-C39A` [medium] China's 'no strings attached' aid framing works because hidden political conditions feel less coercive than the IMF's explicit human rights requirements.
 - `INS-260410-61CE` [medium] Porsche's sales cycle for a 911 is 40-50 years: kids fall in love with the car at age 10 and buy it in their 50s, which is why the 911 keeps the same silhouette across generations.
+- `INS-260412-C6F9` [medium] Ross Ulbricht's libertarian philosophy framing Silk Road as empowering people against government tyranny sustained both his commitment and community loyalty.
 - `INS-260402-476E` [medium] Moral labels replace factual rebuttals precisely when the factual rebuttal would fail.
 - `INS-260403-20C3` [medium] LLM fact-checkers like Grok achieve belief-accuracy shifts comparable to professional fact-checking, and resist their creators' political biases.
 - `INS-260403-7EB2` [medium] Keep a running notes document tracking exec questions and feedback to anticipate their reactions in future discussions.
@@ -64,6 +65,7 @@
 - `INS-260403-524B` [medium] Costco's confusing warehouse layout makes shoppers feel like deal-hunters rather than annoyed customers, turning a cost-saving measure into a positive brand experience.
 - `INS-260402-B14F` [medium] Both the Visionary and Brahma refuse to leverage self-interest arguments for morality, finding it 'aesthetically unappealing' to reduce ethics to incentives.
 - `INS-260403-6E11` [medium] The school habit of stretching limited ideas to fill required page counts trains people to communicate without conviction, which investors and other sophisticated audiences immediately detect.
+- `INS-260412-A92C` [medium] Heather Morgan publicly taught social engineering for business networking while allegedly applying the same techniques to infiltrate financial systems and launder billions.
 - `INS-260403-81CE` [medium] Professional investors hear so many pitches they blur together — a sticky 'the X of Y' phrase is the first-cut survival filter.
 - `INS-260404-D242` [medium] Professional investors hear so many pitches they blur together — a sticky one-phrase description ensures you're remembered at all.
 - `INS-260409-30DE` [medium] 'This is the best way to cook pasta' drives fewer comments than 'this pasta is better than every mom-and-pop pasta shop in the world'; intensity scales engagement.

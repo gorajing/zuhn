@@ -1,5 +1,6 @@
 # Tag: diversification
 
+- `INS-260412-1711` Samsung's 80+ businesses across unrelated industries made it nearly impossible to displace because failure in one sector couldn't threaten the whole.
 - `INS-260412-4D5D` Samsung's 80 subsidiaries across construction, finance, healthcare, and electronics prevent existential risk but didn't prevent a $122B market cap loss because markets price the flagship's trajectory, not the portfolio's floor.
 - `INS-260412-084F` SVB's 50% market share of US VC-backed startups meant a tech downturn simultaneously increased withdrawals while decreasing new deposits.
 - `INS-260321-D183` If US wins the cold war: S&P returns 8-10% annually. If China wins: China gives the US a soft landing (they need US consumption market), S&P returns ~5% annually. Either way, S&P has the highest expected value.

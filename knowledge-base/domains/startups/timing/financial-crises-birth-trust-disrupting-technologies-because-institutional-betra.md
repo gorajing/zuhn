@@ -63,6 +63,7 @@ related:
   - INS-260403-0629
   - INS-260412-AFF7
   - PRI-260321-2DF0
+  - INS-260412-940C
 ---
 The 2008 bailout — where taxpayers funded $700B to rescue the banks whose recklessness caused the crisis, while executives kept billions in bonuses and faced no criminal consequences — generated 'complete outrage' and 'the beginning of mass distrust in institutions and governments.' The immediate products of this distrust were the Occupy Wall Street movement and Bitcoin's invention in 2009.
 

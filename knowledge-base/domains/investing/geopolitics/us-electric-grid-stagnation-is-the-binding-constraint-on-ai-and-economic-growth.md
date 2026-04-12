@@ -57,6 +57,7 @@ related:
   - PRI-260406-C4FD
   - INS-260412-0404
   - INS-260410-1159
+  - INS-260412-3E27
 ---
 From 1900 to 2000, US grid power capacity grew 10x every 30 years. Since 2000, it has grown only 1.3x, flatlined at approximately 4,000-4,200 TWh. This dramatic deceleration coincides with surging demand from AI data centers, EV charging, and re-industrialization.
 

@@ -47,10 +47,10 @@ stance: >-
   shameless urgency signals genuine conviction.
 related:
   - INS-260403-4960
+  - INS-260412-4289
   - INS-260330-1002
   - INS-260405-2AFB
   - INS-260405-1982
-  - PRI-260328-E53E
 evidence:
   - id: INS-260325-9AD4
     type: CHALLENGES

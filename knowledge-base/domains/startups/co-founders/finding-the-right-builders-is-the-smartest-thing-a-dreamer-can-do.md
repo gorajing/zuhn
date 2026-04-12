@@ -52,6 +52,7 @@ related:
   - INS-260328-FFC3
   - INS-260323-C10D
   - INS-260323-246F
+  - INS-260412-AB46
 stance: >-
   Raibert describes himself as 'only the dreamer' and says the smartest thing he
   ever did was find excellent engineers who could actually make things...

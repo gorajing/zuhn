@@ -1,6 +1,6 @@
 # Topic: future-of-work
 
-> 98 insights
+> 99 insights
 
 - `INS-260320-A745` [very_high] Anthropic's own studies show AI deskilling in coding is real, but depends on HOW you use models — some usage patterns cause skill degradation, some don't.
 - `INS-260321-9824` [very_high] Tao's papers now have more code, more plots, deeper literature searches — but the core mathematical work (pen and paper for the hardest part) hasn't been accelerated. AI enriches output without deepening it.
@@ -62,6 +62,7 @@
 - `INS-260410-3E37` [medium] Coding-model TFP gains went 5% → 15-20% in six months inside Anthropic, and continue snowballing as Amdahl's law bottlenecks get cleared one by one.
 - `INS-260329-72C1` [medium] AI multiplies individual productivity 100x by compressing inputs 10x and expanding outputs 10x simultaneously.
 - `INS-260411-CF02` [medium] Unlike electricity or the internet where adoption took decades, AI deployment will be far faster — and the gap between job displacement and new job creation may require unprecedented government and corporate intervention.
+- `INS-260412-C28A` [medium] General-purpose AI may eliminate information-intensive specialized jobs while creative and emotional roles remain uniquely human—at least for now.
 - `INS-260325-11E9` [medium] AI turns interdependent work into solo work, risking the same 'alone together' fragmentation that social media created.
 - `INS-260410-49C5` [medium] Future AI organizations will blur the line between individual workers by constantly spawning specialized copies and merging their learnings back through latent-space communication.
 - `INS-260403-D5BB` [medium] AI labor debates are confused because participants argue from different layers of a $31T labor market without a shared framework.

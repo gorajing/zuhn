@@ -50,9 +50,9 @@ stance: >-
 related:
   - INS-260330-1222
   - INS-260330-CBA5
+  - INS-260412-C436
   - INS-260330-59E3
   - INS-260330-012D
-  - INS-260330-13A8
 evidence:
   - id: INS-260330-CBA5
     type: TRANSFERS_TO

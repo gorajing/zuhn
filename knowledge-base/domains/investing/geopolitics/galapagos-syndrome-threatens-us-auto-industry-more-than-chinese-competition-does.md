@@ -53,7 +53,7 @@ related:
   - PRI-260324-3AAE
   - INS-260323-BC61
   - PRI-260324-5F05
-  - INS-260403-474E
+  - INS-260412-1358
 ---
 The US auto industry faces a paradox: the tariffs designed to protect it may ultimately destroy it. With the rest of the world transitioning to EVs, GM and Ford — who derive ~20% of revenue from overseas sales — risk losing all export markets if they only produce gasoline vehicles nobody else wants to buy. This is 'Galapagos syndrome,' where an isolated ecosystem evolves in ways incompatible with the outside world.
 

@@ -48,9 +48,9 @@ resolutions:
 related:
   - INS-260323-22E8
   - INS-260325-2999
+  - INS-260412-F46C
   - INS-260330-300D
   - INS-260410-42CB
-  - INS-260323-9EEC
 stance: >-
   Edgerton's single-frame strobe technique from the 1930s produces sharper
   images than a modern 20,000 FPS camera because it sacrifices all temporal ...

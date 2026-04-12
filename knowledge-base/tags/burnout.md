@@ -14,10 +14,10 @@
 - `INS-260403-2A8A` Second-time founders develop calibrated emotional distance that turns churn, failed features, and funding pressure into data points rather than identity crises.
 - `INS-260412-FCDC` At abyssal depths, every surviving species moves in slow motion and conserves energy as its primary survival strategy.
 - `INS-260403-5EEA` Topic selection should prioritize what gives you energy to think and write about for years, not what the market says it wants.
+- `INS-260412-7FF8` iPhone engineers worked 7-day weeks for years, with multiple divorces and health breakdowns, while the world only saw the magical launch event.
 - `INS-260404-CC66` Founders avoiding vacations face diminishing returns as burnout degrades the decision-making quality that matters most.
 - `INS-260403-4075` Grinding 18-hour days degrades the judgment quality that actually determines startup outcomes, making hustle culture self-defeating.
 - `INS-260403-86C7` With 72% of startup founders experiencing mental health issues and productivity declining sharply after 50 hours/week, lean teams face a sustainability ceiling that AI automation only partially addresses.
-- `INS-260412-7FF8` iPhone engineers worked 7-day weeks for years, with multiple divorces and health breakdowns, while the world only saw the magical launch event.
 - `INS-260323-E874` The XZ attacker succeeded specifically because the maintainer was burned out and desperate for help — burnout is an attack surface.
 - `INS-260323-A700` The martyr archetype wears exhaustion as a badge of honor, but burnout reduces productivity by 10%+ and early burnout can cost $300K/year in lost high-earning years — suffering itself is the opposite path to wealth.
 - `INS-260404-9626` Offshore hires often stay longer than domestic ones, and their presence reduces burnout-driven turnover on local teams.

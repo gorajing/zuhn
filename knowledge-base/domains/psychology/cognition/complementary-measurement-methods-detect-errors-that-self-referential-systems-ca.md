@@ -55,9 +55,9 @@ stance: >-
 related:
   - INS-260330-901B
   - INS-260412-C37A
+  - INS-260412-DDD2
   - INS-260329-7A6A
   - INS-260330-649B
-  - INS-260325-FDA9
   - INS-260412-37B2
 evidence:
   - id: INS-260330-901B

@@ -1,6 +1,6 @@
 # Domain: ai-development
 
-> 1709 insights across 40 topics
+> 1715 insights across 40 topics
 
 ## Topics
 
@@ -12,18 +12,18 @@
 | ai-agents | 64 | AI agents' biggest value is eliminating the friction between idea and implementation, not writing code faster. |
 | ai-automation | 29 | Improving multi-agent systems requires observability into inter-agent conversations -- GPTers built a dashboard to view session-send exchanges between agents to understand how to improve their collaboration. |
 | ai-business-models | 1 | Microsoft is seeing strong demand for Windows 365 instances provisioned for autonomous agents that need their own machine — the per-seat business is becoming per-user-plus-per-agent. |
-| ai-capabilities | 149 | Aletheia matches a 6-month-old model's reasoning performance using 100x less inference compute, driven by a stronger base model rather than more thinking time. |
+| ai-capabilities | 150 | Aletheia matches a 6-month-old model's reasoning performance using 100x less inference compute, driven by a stronger base model rather than more thinking time. |
 | ai-market-dynamics | 154 | Porn is a leading indicator for consumer tech — if AI avatars, chatbot characters, and generated content are working there, they're coming to mainstream markets soon. |
 | alignment | 92 | Accidental misalignment in automated workflows is more dangerous than deliberate misuse because it cascades silently at scale. |
-| applications | 6 | An AI system routing 2,000 medical devices across 50 hospital locations cut nursing retrieval travel by 50% — staff only noticed they were happier. |
+| applications | 7 | An AI system routing 2,000 medical devices across 50 hospital locations cut nursing retrieval travel by 50% — staff only noticed they were happier. |
 | architecture | 26 | The control unit of a CPU is a ROM — a lookup table — and every 'decision' a computer appears to make is a deterministic table read. |
 | automation | 12 | Blockade → commerce raiding → convoying is the same pattern as every firewall → exploit → intrusion detection cycle; the ladder is older than it looks. |
 | claude-code | 47 | If you've corrected Claude twice on the same issue, stop correcting — /clear and restart with a prompt that incorporates what you learned. |
 | economics | 9 | AI's variable inference costs prevent it from achieving the gross margins that made software companies so valuable. |
 | embeddings | 18 | Different basis choices make different operations trivial or impossible in vector spaces. |
-| foundation-models | 9 | LLMs win the AGI race, but their first act as AGIs is to replace themselves with something closer to Sutton's from-scratch experiential architecture. |
-| future-of-work | 98 | Tens of millions learning Python through free YouTube tutorials represent a workforce transformation happening outside traditional education. |
-| governance | 17 | 80% of Americans want AI regulated — a rare civic consensus — and frontier labs are spending hundreds of millions to kill it; the organizing opening is real. |
+| foundation-models | 10 | General-purpose AI may serve as a new foundational science, enabling unforeseeable downstream applications the way physics enabled modern engineering. |
+| future-of-work | 99 | Tens of millions learning Python through free YouTube tutorials represent a workforce transformation happening outside traditional education. |
+| governance | 18 | 80% of Americans want AI regulated — a rare civic consensus — and frontier labs are spending hundreds of millions to kill it; the organizing opening is real. |
 | hardware | 15 | An H100 is worth more today than three years ago because the models it runs generate far more value per token than GPT-4 did, and you can't just buy a Rubin instead. |
 | human-ai-relationship | 75 | When AI outperforms humans, human-AI synergy is g = -0.54; when humans outperform AI, synergy is g = +0.46. |
 | industry-trends | 15 | Each AI capability phase — transformers, LLMs, reasoning, agents — requires discarding the mental models built in the previous phase. |
@@ -45,4 +45,4 @@
 | system-building | 215 | Prototyping a basic LLM-wiki in Claude Code takes about an hour — the scarce resource is knowing what to build it for. |
 | system-design | 20 | In agentic systems a minor bug cascades across many turns, so production requires resumable execution, retry logic, and rainbow deployments — not stateless request handling. |
 | systems-design | 1 | Components tuned for original conditions do not just underperform in new environments — they generate actively harmful outputs. |
-| training-dynamics | 12 | For composed operations like softmax+cross-entropy, pen-and-paper differentiation produces gradient expressions vastly shorter than autograd's atomic chain — which is why every serious framework ships fused backward kernels for them. |
+| training-dynamics | 13 | For composed operations like softmax+cross-entropy, pen-and-paper differentiation produces gradient expressions vastly shorter than autograd's atomic chain — which is why every serious framework ships fused backward kernels for them. |

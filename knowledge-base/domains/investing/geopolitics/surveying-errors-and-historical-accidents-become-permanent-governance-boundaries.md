@@ -55,7 +55,6 @@ stance: >-
   features of governance because the cost of correction always exceeds the cost
   of accommodation.
 related:
-  - INS-260330-08D1
   - INS-260412-2D3A
   - INS-260409-F93A
   - INS-260412-BA52

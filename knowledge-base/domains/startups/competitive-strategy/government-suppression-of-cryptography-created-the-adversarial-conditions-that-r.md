@@ -55,9 +55,9 @@ stance: >-
 related:
   - INS-260330-66C7
   - INS-260412-9C7F
+  - INS-260412-D256
   - INS-260325-36F0
   - INS-260403-474E
-  - PRI-260328-37D8
 ---
 In the 1980s-90s, the US government actively suppressed cryptography research. The NSA placed secrecy orders on researchers, making it a federal crime to reveal their work. The NSA director wrote to scientific associations demanding they stop hosting cryptography sessions. Researchers had to smuggle code through shirts and tattoos.
 

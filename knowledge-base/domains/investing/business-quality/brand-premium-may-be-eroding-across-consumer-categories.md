@@ -50,7 +50,6 @@ stance: >-
   every operational axis; Tesla vs. BMW/Porsche and BYD/Geely vs. legacy
   automakers are the proof points.
 related:
-  - INS-260327-5E03
   - INS-260327-6900
   - INS-260327-82AA
   - INS-260327-86FE
@@ -60,5 +59,6 @@ related:
   - INS-260403-AEAF
   - INS-260410-F681
   - INS-260410-58A5
+  - INS-260410-F06E
 ---
 Chamath bets that brands trend toward zero pricing power. His evidence: Model Y outsells premium German cars despite weaker brand heritage because it's cheaper and superior on every operational dimension; BYD and Geely have done the same in China; even LVMH and Ferrari stock charts show pricing-power erosion. Sacks and Jason push back slightly — Apple's ecosystem is still a moat, and Tesla is itself becoming a brand. The synthesis Jason offers: maybe the new moat is 'abundance brands' — brands that bring more value at the same or lower unit cost, like the $600 Apple MacBook Neo. This is a low-confidence, provocative claim that runs counter to classical Buffett-style brand-moat analysis and worth watching as empirical evidence accumulates.

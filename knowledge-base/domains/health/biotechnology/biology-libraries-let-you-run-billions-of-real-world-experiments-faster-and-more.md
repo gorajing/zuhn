@@ -61,7 +61,6 @@ stance: >-
   is the computer — no assumptions from QED to QM to MM are required.
 related:
   - INS-260323-3657
-  - INS-260405-0AE7
   - INS-260408-306A
   - INS-260408-F58E
   - INS-260408-76F4

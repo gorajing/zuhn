@@ -44,7 +44,7 @@ related:
   - INS-260403-5D89
   - INS-260324-782C
   - INS-260324-DC98
-  - PRI-260324-12CF
+  - INS-260412-1358
   - INS-260330-8F0F
 ---
 Fast fashions lower prices were achieved not through manufacturing innovation but by reducing fabric quality and construction durability, shifting the true cost to consumers who must replace items more frequently.

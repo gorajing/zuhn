@@ -43,11 +43,11 @@ stance: >-
   inverting the expected bottom-up displacement order
 related:
   - INS-260323-DA85
-  - INS-260323-FE69
   - INS-260329-6CE8
   - PRI-260406-6690
+  - INS-260412-C28A
+  - INS-260323-FE69
   - INS-260405-945B
-  - PRI-260403-FBA8
   - INS-260403-287B
 evidence:
   - id: INS-260327-2627

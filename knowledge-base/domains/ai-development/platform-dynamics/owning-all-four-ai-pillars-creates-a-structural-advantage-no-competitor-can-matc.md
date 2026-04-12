@@ -65,7 +65,6 @@ related:
   - INS-260404-83C6
   - INS-260403-8256
   - INS-260408-F20F
-  - INS-260410-CA89
 ---
 Mapping the AI landscape by capability reveals a stark asymmetry. Nvidia has chips only. Microsoft has cloud and application surface but no frontier model and no chips. Amazon has cloud only (with some early chip efforts). Meta has applications but exited the frontier model race. OpenAI and Anthropic have models but no chips, no data centers, and depend on external capital. Apple has essentially none of these pillars. Google is the only company with credible scale in all four: Gemini as frontier model, TPUs at roughly Nvidia-comparable unit volume, Google Cloud as distribution, and Google Search, YouTube, Gmail, Maps, Android as consumer applications.
 

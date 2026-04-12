@@ -1,8 +1,9 @@
 # Topic: innovation
 
-> 138 insights
+> 143 insights
 
 - `INS-260405-EFC2` [high] C invented the curly-brace, semicolon syntax that now defines how billions of developers write code — its design choices became the assumed defaults of most successor languages.
+- `INS-260412-F32D` [high] Sakichi Toyoda sold his power loom patent rights for 1 million yen and gave the proceeds to his son to start Japan's first automobile company.
 - `INS-260404-4320` [high] AI collapses experimentation costs across deeptech by replacing early-stage lab work with in-silico simulation.
 - `INS-260403-9B24` [high] A 10x improvement target forces you to rethink the whole system, while 10% targets trap you in incremental tweaks.
 - `INS-260409-FDE9` [high] Alan Kay distinguishes pop culture (the conventional tech product practice) from research culture (deep engagement with foundational subject matter); Matuschak and Nielsen argue pop culture has been astoundingly successful at building businesses but cannot produce the Hindu-Arabic-numerals-level insights needed for transformative tools for thought.
@@ -15,6 +16,7 @@
 - `INS-260405-F1A2` [high] Business plans presuppose knowledge that doesn't yet exist in early-stage innovation, making them a liability rather than a tool.
 - `INS-260403-5C74` [high] Oxygen — the molecule enabling all complex animal life — is merely the waste product of photosynthesis, whose actual purpose is making glucose.
 - `INS-260403-130D` [high] Industry-centric strategy tools like Porter's 5 Forces break down when companies like Apple span multiple industries simultaneously.
+- `INS-260412-AB46` [high] Edison was the 'Steve Jobs of the light bulb' — he improved and sold ideas from 22 prior inventors rather than inventing from scratch.
 - `INS-260403-C5FB` [high] Rapid solidification of the outer layer creates extreme strength but also locks in destructive internal tension that cannot be released gracefully.
 - `INS-260404-8D91` [high] McDonald's had every asset needed for the VDC model but its optimization machinery rejected the concept.
 - `INS-260403-1C09` [high] Investing in innovation during downturns yields disproportionate post-crisis growth and market position.
@@ -98,6 +100,8 @@
 - `INS-260412-9DC8` [high] Vannevar Bush's 1945 Memex concept directly inspired the internet, hyperlinks, the mouse, and the GUI, yet he remains virtually unknown compared to the product builders who implemented his vision.
 - `INS-260403-DF01` [medium] Banzai went from near-bankruptcy to surpassing pre-pandemic event volume by acquiring a virtual events firm in days rather than building the capability internally.
 - `INS-260403-47BF` [medium] Lack of structured innovation processes is itself a warning sign that the organization is behind.
+- `INS-260412-3A70` [medium] OpenCat's strategy of pricing a capable quadruped robot at smartphone cost aims to create a platform ecosystem for embodied AI, mirroring how Arduino democratized electronics.
+- `INS-260412-6033` [medium] MIT's computer-optimized 3D solar cells produced 2-20x the power of flat panels by finding geometries human designers wouldn't intuit.
 - `INS-260405-FBF1` [medium] An innovation Sharpe Ratio gives CFOs a risk-adjusted metric to compare experimentation against other asset classes rather than treating it as pure cost.
 - `INS-260403-5D81` [medium] Applying behavioral science to innovation training ensures skills actually transfer to daily work rather than fading post-program.
 - `INS-260405-5617` [medium] When regulations prevent informed, consenting adults from voluntarily joining early-stage experiments, the cost is paid in slower iteration cycles and delayed learning — not just in lost individual freedom.
@@ -137,6 +141,7 @@
 - `INS-260403-5427` [medium] Early innovation cohorts predictably struggle with experimentation speed, requiring systematic process fixes rather than ad hoc team support.
 - `INS-260403-4D8F` [medium] Structured toolboxes with experiment libraries and progress mapping enable both large and small companies to achieve world-class innovation.
 - `INS-260403-6EE7` [medium] Technology's deepest effects are qualitative transformations in how humans live, not quantitative improvements in economic output.
+- `INS-260412-FE82` [medium] Google X's explicit mandate to 'improve technologies by a factor of 10' serves as a structural filter that eliminates incremental projects and forces radical rethinking.
 - `INS-260403-C8FD` [medium] A dedicated internal ambassador who bridges innovation and execution teams prevents both isolation and antibody rejection.
 - `INS-260405-B922` [low] CEOs are using venture building as a growth multiplier, creating new business lines with startup speed inside corporate structures.
 - `INS-260409-AB58` [low] If biology, language, and morphology all show saltative branching — long stability then rapid reorganization at branch points — technology and market evolution likely follow the same dynamic, which reframes strategy around transition timing rather than steady progress.

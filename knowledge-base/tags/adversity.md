@@ -1,5 +1,6 @@
 # Tag: adversity
 
+- `INS-260412-4289` Tesla dug ditches for $2/day while searching for AC financial backers — the gap between his capability and his circumstances tested whether his drive was real.
 - `INS-260330-E68E` Near-death experiences in the Amazon consistently produced calm acceptance rather than panic, suggesting ego is counterproductive in genuine survival situations.
 - `INS-260330-3E64` Rogan credits brutal exercise routines, sauna, and cold plunge as the primary mechanism that made surviving his cancellation attempt manageable.
 - `INS-260410-756C` IKEA started designing its own furniture only because Swedish competitors organized a supplier boycott against it — and that forced pivot is the reason there is no direct IKEA competitor in 2024.

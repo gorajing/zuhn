@@ -61,6 +61,7 @@ related:
   - PRI-260406-FCF0
   - PRI-260405-E9C5
   - INS-260403-8EE8
+  - INS-260412-0C84
 ---
 Institutional seed funds typically need 10-15% ownership to have a meaningful shot at returning a fund on a single breakout company. When YC graduates price rounds at $15-20M pre-money valuations for tiny $1-2M raises, the math breaks down for institutional investors who write $500K-$1M checks — they end up with 3-5% ownership, insufficient for portfolio construction. The result: institutional seed VCs pass, and these rounds fill with angels and SPVs.
 

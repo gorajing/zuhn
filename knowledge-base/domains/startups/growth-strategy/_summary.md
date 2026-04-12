@@ -1,6 +1,6 @@
 # Topic: growth-strategy
 
-> 78 insights
+> 79 insights
 
 - `INS-260329-AF18` [high] Before exploring new growth channels, exhaust 10x potential in your current working channel first.
 - `INS-260402-24B0` [high] Unlike SaaS where marginal cost trends to zero, every AI user incurs real compute cost, making undisciplined distribution a path to margin collapse.
@@ -74,6 +74,7 @@
 - `INS-260403-E63A` [medium] Growth matured from a solo hacker role into a cross-functional team that operates like a systems architecture function spanning product, data, engineering, and design.
 - `INS-260329-793D` [medium] Businesses typically have far more untapped leverage in their existing offer and customer base than they realize.
 - `INS-260403-183D` [medium] eDreams launched in 4 countries simultaneously, retreated to 2 profitable markets after the bubble burst, then expanded to 40+ with a proven model.
+- `INS-260412-8E7E` [medium] Samsung repeatedly entered established markets late, then iterated until they became market leaders — memory chips, TVs, smartphones, displays.
 - `INS-260329-8BD3` [medium] Working on retention forces you to ask 'am I actually helping users?' while working on top-line growth tempts you to extract value from users through dark patterns.
 - `INS-260329-825D` [medium] List an absurdly expensive premium tier to make your standard offering feel like a bargain by comparison.
 - `INS-260329-8386` [medium] Satisfied early users who refer others are your most powerful growth engine before you have budget or brand recognition.

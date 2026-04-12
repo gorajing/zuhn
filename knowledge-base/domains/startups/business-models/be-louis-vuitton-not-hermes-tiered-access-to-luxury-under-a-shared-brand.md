@@ -63,6 +63,7 @@ related:
   - INS-260404-6751
   - INS-260329-ADCD
   - INS-260412-B5F8
+  - INS-260412-B900
 ---
 The conventional wisdom in luxury is that exclusivity is the moat: make fewer, charge more, protect the brand. Ferrari is the canonical example — 13,000 cars a year, 48% gross margins, customers subordinate to the brand. But Porsche has demonstrated an alternative model: tiered access to luxury under a shared brand, where a $75,000 Macan and a $2 million 918 Spyder coexist and reinforce each other rather than cannibalize.
 

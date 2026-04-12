@@ -50,9 +50,8 @@ related:
   - INS-260410-F7B8
   - INS-260323-F7DB
   - INS-260327-7157
+  - INS-260412-1A10
   - INS-260410-56F7
-  - PRI-260328-8516
-  - INS-260330-69C6
   - INS-260403-8114
 stance: >-
   The most elegant and efficient robot movement comes from designing machines

@@ -3,6 +3,7 @@
 - `INS-260405-1282` The ceiling for AI service replacement is set not by task automation but by whether the agent can handle the disorder, ambiguity, and emotional texture of complex human interactions.
 - `INS-260405-2E46` AI's emotional resonance — not raw capability — is the underpriced moat.
 - `INS-260405-670E` Map your AI product on determinism vs. emotional intelligence before designing it, or you'll optimize for the wrong axis.
+- `INS-260412-C28A` General-purpose AI may eliminate information-intensive specialized jobs while creative and emotional roles remain uniquely human—at least for now.
 - `INS-260325-88A7` Just as children absorb grammatical language invisibly, they also absorb an emotional grammar -- patterns of trust, fear, and communication -- from caregivers that shapes every adult relationship.
 - `INS-260325-086C` Personal relationships determine up to 70% of life satisfaction, yet we spend zero educational time on attachment theory, communication, or apology -- treating love as a skill to learn would transform outcomes.
 - `INS-260325-DB82` Just as you learned the pluperfect and subjunctive without knowing these concepts exist, you absorbed a complete emotional language from your family — about trust, communication, self-worth — that now runs invisibly in adulthood.

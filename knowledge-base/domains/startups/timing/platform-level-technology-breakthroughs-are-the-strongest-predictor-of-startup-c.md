@@ -53,5 +53,6 @@ related:
   - INS-260322-C472
   - INS-260403-7D5B
   - INS-260404-6FFF
+  - INS-260412-3A35
 ---
 Chamath identifies a clear historical pattern: semiconductors in the 60s spawned Intel and AMD, personal computers in the 70s-80s spawned Microsoft and Oracle, the web in the 90s spawned Amazon and Google, and mobile in the late 2000s spawned Uber and Airbnb. The critical insight is that the platform came first — it was the 'chicken' in the chicken-and-egg problem. Starting a PC company in 1994 was far worse than starting one in 1984 (Dell). This suggests founders should focus on identifying nascent platform shifts rather than optimizing within mature ones. The absence of a platform breakthrough between the dotcom crash and iPhone launch (2001-2007) produced far fewer breakout companies despite available capital.

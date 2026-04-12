@@ -73,6 +73,7 @@ related:
   - INS-260403-DC4A
   - INS-260405-AD55
   - INS-260409-53F7
+  - INS-260412-C28A
   - INS-260403-7D11
 ---
 Bartlett's initial optimistic framing: AI is 'the first technology that might deliver on the promise of making us human and connected' because it takes over the spreadsheet work, freeing humans for IRL community, relationships, and Maslovian needs. He cites Gen Alpha plateauing social media use, rise of run clubs, disconnection from screens.

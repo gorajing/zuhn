@@ -48,10 +48,10 @@ stance: >-
   else.
 related:
   - INS-260330-579B
+  - INS-260412-C436
   - INS-260325-6874
   - INS-260327-A4FE
   - INS-260325-560A
-  - INS-260327-5B13
   - INS-260330-2EAB
 evidence:
   - id: INS-260330-2EAB

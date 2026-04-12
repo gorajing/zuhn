@@ -71,7 +71,7 @@ related:
   - INS-260325-5023
   - INS-260403-8439
   - INS-260403-5DD7
-  - INS-260403-4F1B
+  - INS-260412-1711
 ---
 By 2010 Google was a collection of autonomous fiefdoms — Android, Chrome, YouTube, Search, Gmail all had their own leaders, OKRs, and in some cases separate login systems (YouTube had a different username/password system from the rest of Google). When Larry returned as CEO in 2011 he moved his office into the Plus building and made Google+ the mandatory integration target for every product. Company-wide bonuses were tied to Plus success. YouTube comments became Google+ posts. Ad units got plus-one buttons. Picasa got force-integrated. Every team was forced to cooperate with Vic Gundotra's team.
 

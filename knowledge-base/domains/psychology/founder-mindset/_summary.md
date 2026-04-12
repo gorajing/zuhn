@@ -1,6 +1,6 @@
 # Topic: founder-mindset
 
-> 30 insights
+> 31 insights
 
 - `INS-260403-A739` [high] Karp maintained contrarian positions for 20 years while being called a failure, and that tolerance for ostracism was itself a competitive advantage.
 - `INS-260403-94C4` [high] In work where you must invent rather than choose, there is no ceiling that signals completion, so feeling perpetually unsatisfied is the normal state.
@@ -24,6 +24,7 @@
 - `INS-260330-BA71` [medium] Champion-level performance correlates with intensity of drive rather than any particular personality archetype.
 - `INS-260403-FE8D` [medium] Stebbings observes that 90% of great founders show entrepreneurial behavior before age 13, and that gaming clan leadership is more predictive of startup success than college prestige.
 - `INS-260409-7DB7` [medium] Document the struggle now — the shame you feel about early work is exactly what makes future-you want that record.
+- `INS-260412-C996` [medium] Sakichi Toyoda invented the power loom because he watched his mother struggle with manual textile weaving — that empathy-driven origin anchored Toyota's culture for over a century.
 - `INS-260403-BCB1` [medium] Wozniak, Zuckerberg, and Gates didn't think they were starting companies — that mindset freed them to build what they actually wanted.
 - `INS-260404-B6B1` [medium] Taking full responsibility during a crisis isn't just virtuous — it functionally increases survival odds by keeping the founder in problem-solving mode rather than blame mode.
 - `INS-260330-B67C` [medium] Marx argued that classes become self-aware not through shared traits but through the struggle itself — conflict creates identity, not the other way around.

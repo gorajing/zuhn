@@ -61,8 +61,8 @@ related:
   - PRI-260411-0C54
   - PRI-260406-B331
   - INS-260410-24DA
+  - INS-260412-9E22
   - INS-260410-CBF9
-  - INS-260330-14CA
 ---
 Paine draws a crisp distinction: with limited objectives, the loser can accept a bad outcome and still exist — they give up territory, pay reparations, accept constraints, but their regime survives. With unlimited objectives, the loser is personally eliminated, which means they have no incentive to stop fighting until they literally cannot continue. Limited wars can end in negotiation; unlimited wars can only end in destruction.
 

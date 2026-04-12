@@ -49,11 +49,11 @@ stance: >-
   immunity to the extreme price volatility that oil's inelastic demand creates
   during supply shocks.
 related:
-  - INS-260325-B234
   - INS-260330-43FF
+  - INS-260412-3E27
+  - INS-260325-B234
   - INS-260322-D079
   - INS-260403-EB8F
-  - INS-260403-E936
 ---
 Oil demand is extremely inelastic in the short run — people can't suddenly stop commuting or shipping goods. This means even modest supply disruptions (like 20% of global oil flowing through the Strait of Hormuz) can nearly double prices. Electricity prices, by contrast, are far less volatile because generation sources are diversified and local.
 

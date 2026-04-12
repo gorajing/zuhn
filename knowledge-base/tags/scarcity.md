@@ -1,7 +1,9 @@
 # Tag: scarcity
 
 - `INS-260410-ED7E` Hermès could raise Birkin prices meaningfully without losing buyers, but choosing not to creates the scarcity tax that drives purchase of adjacent products, yielding more lifetime revenue than the foregone price would.
+- `INS-260412-0384` Tulips became bubble candidates specifically because they were scarce (7-12 month growth, 1-week bloom), visually conspicuous, and served as garden status symbols among the Dutch merchant class.
 - `INS-260409-7171` Naming a desire triggers attention to its absence, so gap-awareness is the default failure mode of goal-setting.
+- `INS-260412-2131` Madoff's status as NASDAQ chairman and invitation-only access made investors skip basic due diligence.
 - `INS-260403-B710` Counting finite instances of recurring experiences makes time scarcity concrete and actionable.
 - `INS-260403-D294` Irreversible geological and cosmic decay means some present-day experiences are genuinely non-renewable, which should increase their weight in how we allocate time.
 - `INS-260403-3059` Constraints force founders to prioritize ruthlessly, while excess capital dulls urgency and enables avoidance of hard product decisions.

@@ -51,7 +51,6 @@ stance: >-
   Format wars between charging standards (Tesla proprietary, CCS, CHAdeMO)
   fragment the network and delay the density needed for mass adoption
 related:
-  - INS-260410-8BF9
   - INS-260412-021A
   - INS-260325-5CB1
   - INS-260330-3D0D

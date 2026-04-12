@@ -50,7 +50,9 @@ related:
   - INS-260403-F8AE
   - INS-260410-CA89
   - INS-260412-5ADA
+  - INS-260412-2AF2
+  - INS-260412-9357
   - INS-260405-2AFD
-  - INS-260412-816C
+  - INS-260412-0C84
 ---
 FingerWorks had solved capacitive multi-touch — fast, precise, multi-finger recognition with AI-powered accidental-touch filtering — years before Apple considered making a phone. Apple bought them in 2005 for both the technology and the talent ('part for the technology and part to get him because he was so talented'). This is a pattern in category-creating products: the core enabling technology often comes from an acquisition rather than internal R&D because small focused teams can solve hard technical problems faster than large organizations exploring adjacent spaces. The key insight is recognizing which capability gaps are better filled by acquisition than by internal development — especially when the acquiree has years of specialized iteration that can't be compressed.

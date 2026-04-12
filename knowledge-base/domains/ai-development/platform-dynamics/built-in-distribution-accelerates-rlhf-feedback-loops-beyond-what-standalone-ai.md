@@ -55,6 +55,7 @@ related:
   - INS-260412-9777
   - PRI-260328-7007
   - INS-260330-EF64
+  - INS-260412-88B6
 ---
 xAI's integration with X's 500M+ monthly active users gives it a structural advantage in reinforcement learning from human feedback. More users means more preference signals, which means faster reward model improvement, which means better responses, which attracts more users — a classic flywheel.
 

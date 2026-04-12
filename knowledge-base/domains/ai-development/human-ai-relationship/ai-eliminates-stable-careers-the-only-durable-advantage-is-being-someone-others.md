@@ -58,7 +58,6 @@ related:
   - INS-260409-2A8D
   - INS-260323-D8A9
   - INS-260327-6405
-  - INS-260403-5F44
 stance: Neither white-collar nor blue-collar jobs are safe from AI
 evidence:
   - id: INS-260323-D8A9

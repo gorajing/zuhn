@@ -61,7 +61,7 @@ related:
   - INS-260330-6D86
   - INS-260330-5BEB
   - PRI-260328-37D8
-  - INS-260410-9B0E
+  - INS-260412-1761
 ---
 Dogfighting involves thousands of animals per year and has been criminalized at both federal and state levels. Cockfighting — which is literally chicken fighting — is a felony in every state. Yet the factory farming of chickens and pigs, which inflicts arguably worse suffering on ten billion animals per year, is considered normal commerce. The ratio is roughly 100,000:1 on scale and the gap exists only because we flinch at local vivid cruelty while failing to scale that flinch to an industrial population.
 

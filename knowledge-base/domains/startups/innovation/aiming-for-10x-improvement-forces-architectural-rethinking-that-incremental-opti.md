@@ -51,11 +51,11 @@ stance: >-
   paradigms.
 related:
   - INS-260329-B533
+  - INS-260412-FE82
   - INS-260403-9BEB
   - INS-260403-4803
   - INS-260330-C658
   - PRI-260406-8FDF
-  - PRI-260403-5FC4
 ---
 When founders aim for a 10% improvement, they naturally work within the existing solution's architecture—tweaking features, adjusting pricing, polishing UI. But when the target is 10x, incremental optimization becomes mathematically impossible, forcing a complete rethink of the underlying approach. SpaceX didn't make rockets 10% cheaper by negotiating better supplier contracts; they vertically integrated and made rockets reusable.
 

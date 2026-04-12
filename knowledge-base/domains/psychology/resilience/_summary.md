@@ -1,6 +1,6 @@
 # Topic: resilience
 
-> 182 insights
+> 183 insights
 
 - `INS-260325-DF82` [very_high] Events are not traumatic — they are potentially traumatic — because the same event produces resilience in most people and lasting harm in a minority, meaning trauma is in the response, not the event.
 - `INS-260327-48BA` [high] Most suffering about change comes from resisting it rather than from the change itself - accepting impermanence eliminates the anxiety of trying to freeze what cannot be frozen.
@@ -145,6 +145,7 @@
 - `INS-260403-2A8A` [medium] Second-time founders develop calibrated emotional distance that turns churn, failed features, and funding pressure into data points rather than identity crises.
 - `INS-260330-66F7` [medium] Under-ice submarine operations remove the option to surface during emergencies, forcing fundamentally different and more rigorous preparation.
 - `INS-260329-CA4F` [medium] Avoidance-framed habits stick better than aspiration-framed habits because they tap into evolutionarily older threat-detection circuits.
+- `INS-260412-4289` [medium] Tesla dug ditches for $2/day while searching for AC financial backers — the gap between his capability and his circumstances tested whether his drive was real.
 - `INS-260330-DE89` [medium] Destin's involuntary tap-out at 7.2G permanently changed his approach to confidence-humility balance in ways voluntary humility never had.
 - `INS-260330-E660` [medium] Happiness responds to deliberate practice more than most traits because the genetic constraint is looser than for physical or cognitive abilities.
 - `INS-260325-B4CB` [medium] Happiness is a feeling; joy is a story that says life is still worth loving even with all its brokenness.

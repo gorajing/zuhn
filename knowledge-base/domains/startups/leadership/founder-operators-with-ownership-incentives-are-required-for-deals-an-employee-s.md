@@ -69,7 +69,7 @@ related:
   - INS-260329-2EAA
   - PRI-260328-37D8
   - INS-260327-C0C6
-  - INS-260327-CCAE
+  - INS-260412-03B4
 ---
 Acquired asks: could F1 have been built the way the NFL was — by a hired commissioner wrangling team owners into revenue sharing? Their answer is no, for two linked reasons. First, Pete Rozelle was an N-of-1 individual; re-running that experiment a thousand times almost never produces the NFL. Second, and more structurally, F1's complexity was orders of magnitude higher: dozens of sovereign-hosted races, a global regulatory NGO (FIA), competing broadcasters across language markets, and teams with private owners willing to burn hundreds of millions chasing glory. No salary package could incentivize an employee to fight those battles for decades. You needed someone with an ownership stake and a street-fighter temperament — someone whose personal wealth depended on every deal and who enjoyed the combat.
 

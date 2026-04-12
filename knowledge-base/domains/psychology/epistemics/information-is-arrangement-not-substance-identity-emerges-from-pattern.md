@@ -47,11 +47,11 @@ stance: >-
   its components, not by the components themselves, making pattern and structure
   the only meaningful differentiators in any system.
 related:
+  - INS-260412-DDD2
   - INS-260329-64A3
   - INS-260323-144F
   - INS-260325-A79E
   - INS-260330-8FF8
-  - INS-260330-466E
 ---
 Quantum mechanics treats information as the arrangement of particles rather than anything inherent to the particles themselves. The same carbon atoms become coal or diamond depending solely on their configuration. This principle extends far beyond physics: in business, the same resources (people, capital, technology) produce radically different outcomes depending on how they're arranged. In knowledge management, the same facts yield different insights depending on their structure and connections.
 

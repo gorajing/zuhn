@@ -54,9 +54,10 @@ related:
   - INS-260404-D654
   - INS-260412-6C62
   - INS-260410-4C2E
+  - INS-260412-B900
   - INS-260324-8656
-  - INS-260404-8CA8
   - INS-260410-9E97
+  - INS-260412-F32D
 ---
 Qasar Younis built Applied Intuition into a $15B company by focusing deeply on physical AI for automotive, serving 18 of the top 20 automakers. Two strategic moves stand out: going multi-product within the first year (expanding surface area before competitors could catch up) and preserving capital while rewarding long-term equity over inflated salaries.
 

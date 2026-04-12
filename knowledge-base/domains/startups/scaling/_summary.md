@@ -1,6 +1,6 @@
 # Topic: scaling
 
-> 195 insights
+> 196 insights
 
 - `INS-260403-49FB` [high] Startups need 2-3x longer than founders expect to validate their market, and 70% scale prematurely — largely explaining the 90% failure rate.
 - `INS-260403-AA20` [high] The 996 grind culture trades short-term velocity for compounding burnout costs that destroy long-term startup viability.
@@ -135,6 +135,7 @@
 - `INS-260412-1A09` [high] Amtrak has no money to improve service, which causes low ridership, which worsens the funding problem.
 - `INS-260329-D02E` [high] Decompose revenue targets into weekly unit sales to identify whether your constraint is volume or price.
 - `INS-260403-2ED2` [high] Democratic governance kills venture firm scaling because partners vote to preserve their own power during reorganizations.
+- `INS-260412-846C` [high] Samsung makes the chips inside competitors' phones AND their own phones, giving them cost advantages, supply chain leverage, and deep technical knowledge that compounds over time.
 - `INS-260329-F2E1` [high] When something works, scale it by doing more rather than trying to make it better, because more has guaranteed returns while optimization risks breaking what works.
 - `INS-260327-4E34` [high] Reaching unicorn status is just 0-to-1—the real value creation is in the 1-to-10 and 10-to-100 phases.
 - `INS-260330-E585` [high] The Articles of Confederation collapsed primarily because Congress could not collect taxes, proving that authority without enforcement mechanisms is meaningless.

@@ -51,11 +51,12 @@ stance: >-
   documents creates power vacuums that guarantee conflict when the milestone
   approaches.
 related:
-  - INS-260327-2958
   - INS-260328-896B
+  - INS-260327-2958
   - INS-260330-85C2
   - INS-260405-4803
   - INS-260403-B374
+  - INS-260412-837F
 ---
 OpenAI's structure gave the nonprofit board responsibility for determining when the company achieved AGI, defined as 'a highly autonomous system that outperforms humans at most economically valuable work.' This is inherently subjective and carries enormous financial stakes: the AGI determination could theoretically exclude certain technologies from Microsoft's commercial license.
 

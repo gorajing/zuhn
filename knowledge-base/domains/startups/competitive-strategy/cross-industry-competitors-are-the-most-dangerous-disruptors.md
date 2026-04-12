@@ -53,6 +53,7 @@ related:
   - INS-260330-F527
   - PRI-260324-A608
   - INS-260327-EE5E
+  - INS-260412-1711
 ---
 Traditional competitive analysis focuses on known rivals operating with similar business models — Nokia vs Samsung in mobile phones, for example. But the most dangerous disruption comes from adjacent industries converging on your market with fundamentally different economics. Telcos and cable operators competing head-to-head on quadruple-play bundles, or Skype undercutting voice telecoms with free internet calls, illustrate how cross-industry entrants rewrite the rules rather than play by existing ones.
 

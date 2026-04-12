@@ -55,6 +55,6 @@ related:
   - INS-260409-8D86
   - PRI-260323-D475
   - INS-260409-E0D5
-  - INS-260412-15D0
+  - INS-260412-DDD2
 ---
 Hassabis frames the limits of AI as an empirical question rooted in Turing's theoretical computers (which can compute anything algorithmic). He says he and many neuroscientists think the brain is an approximate Turing machine, which would mean AI has no in-principle ceiling on matching the brain. Roger Penrose disagrees and argues quantum effects in the brain matter, but Hassabis notes that despite careful searching, neuroscience hasn't found any quantum effects in the brain. He's open-minded — there could be unique things about human cognition, especially 'unique connections between humans that will never be replicated' — but he expects long-term planning, reasoning, and 'some forms of creativity' to fall to AI eventually.

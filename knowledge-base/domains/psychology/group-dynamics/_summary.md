@@ -1,6 +1,6 @@
 # Topic: group-dynamics
 
-> 123 insights
+> 125 insights
 
 - `INS-260330-2EB0` [high] The Pueblo Revolt shows that a shared existential threat can override deep tribal divisions — but the unity is temporary.
 - `INS-260403-D609` [high] Enforcers of orthodoxy compete with each other, creating a race to the bottom where any borderline idea gets banned.
@@ -27,6 +27,7 @@
 - `INS-260403-3CFB` [high] The neocortex constrains stable social relationships to ~150-230 people, a biological limit unaffected by social media scale.
 - `INS-260403-2A50` [high] A population barely surviving only has energy to survive, while one tasting improvement develops the capacity and desire to demand more.
 - `INS-260403-5216` [high] The right creative peers aren't cheerleaders but fellow practitioners who can tell whether early ugly work has genuine promise.
+- `INS-260412-D256` [high] Tor was built by US Naval Research for intelligence work but became the backbone of anti-government activity online.
 - `INS-260330-6E4E` [high] Freedom is typically eroded through small, individually reasonable steps that each seem too minor to resist, not through dramatic confrontation.
 - `INS-260403-F2BA` [high] When your grassroots supporters actively work against your stated policy positions, the public correctly perceives your stated positions as insincere.
 - `INS-260403-0C95` [high] Research on hunter-gatherers and organizations converges on 8 as ideal, 20 as hard to manage, and 50 as unwieldy—matching our evolutionary design.
@@ -58,6 +59,7 @@
 - `INS-260403-1D41` [high] Demanding public loyalty oaths from sympathetic insiders converts them from effective advocates into impotent outsiders.
 - `INS-260402-B065` [high] Groups without external goals create toxic zero-sum status hierarchies where the game becomes the only game.
 - `INS-260330-9A34` [high] Mechanical watches needed to be accurate to within 5 seconds/day — not as good as quartz, but good enough that wearing one didn't break the luxury illusion.
+- `INS-260412-E842` [high] The SEC failed to act on Markopolos's five separate fraud reports because Madoff had deep ties with the commission and was even called to advise it.
 - `INS-260403-758F` [high] SEIU proposed the same dialysis regulations three consecutive elections because voters lack context to identify extortion disguised as reform.
 - `INS-260403-EDDC` [high] BART fare gates cut crime 54% by blocking the small fraction of non-paying riders who caused nearly all disorder.
 - `INS-260403-6861` [high] When crime policy becomes entangled with racial justice framing, pragmatic solutions like increased policing become morally impermissible regardless of evidence.

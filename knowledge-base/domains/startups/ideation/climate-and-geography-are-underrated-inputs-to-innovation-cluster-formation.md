@@ -46,11 +46,11 @@ stance: >-
   universities was significantly driven by weather and geographic amenity, not
   purely academic or economic factors.
 related:
+  - INS-260412-EB34
   - INS-260403-6CA8
   - INS-260403-91DB
   - INS-260325-793A
   - INS-260327-77A0
-  - INS-260403-0218
 evidence:
   - id: INS-260327-77A0
     type: SUPPORTS

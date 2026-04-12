@@ -11,18 +11,12 @@
 - `INS-260403-CBB2` The inner voice handles working memory, simulation, self-control, and identity construction — chatter is when this system malfunctions.
 - `INS-260402-E7F7` The story's nested drug-induced lives create a situation where characters cannot determine if they are 'real' or simulated, making consistent moral behavior the only robust strategy.
 - `INS-260403-CD29` When everything you say online is permanently stored, the ability to reinvent yourself and move past mistakes is fundamentally constrained.
-- `INS-260412-37B2` The same atoms arranged differently produce coal, diamond, banana, or squirrel — identity is pure pattern.
-- `INS-260409-2B3A` Galef: 'Sometimes I notice myself defending things I don't even believe because someone assumed I believed it' — a huge chunk of apparent belief defense is actually identity defense against a position that was never consciously chosen, just socially inherited.
-- `INS-260409-A239` Treating your current self-model as untrustworthy is a generative stance when paired with willingness to act on better evidence, not a paralysis.
 - `INS-260412-F943` We are not separate from the universe observing it — we are the part of the universe that became aware of itself.
 - `INS-260409-A803` Ego is the narrative self-model — the aim is to hold it lightly, not destroy it.
 - `INS-260323-7DBC` At the self-authoring stage of development, you realize your values and identity are not terminal but instrumental — and gaining agency over your identity costume is what constitutes wisdom.
 - `INS-260403-F76E` When AI agents simulate themselves with enough fidelity to reference real experiences and produce novel reflections, the line between performance and genuine selfhood becomes philosophically meaningless.
 - `INS-260325-4C2E` The algorithm effect replaces internal motivation with external validation loops, creating population-level identity outsourcing to platforms.
 - `INS-260412-73A8` Treating all others as literal extensions of yourself collapses the cognitive distance that enables cruelty.
-- `INS-260404-3959` Intentional moderates and ideologues both acquire opinions in bulk rather than reasoning independently about each question.
-- `INS-260404-7C3F` Keeping your identity small — refusing to label yourself as an X or Y person — preserves your ability to think clearly across more domains.
-- `INS-260403-9E97` Trump's rage at SCOTUS striking down tariffs — despite tariffs dragging his approval ratings — reveals how identity attachment to a signature policy overrides rational political self-interest.
 - `INS-260327-D77C` The average billionaire is 63 and getting older, with no billionaires under 30 being self-made, yet most refuse to retire even though some would be richer if they'd passively invested instead.
 - `INS-260404-2E30` MRI studies show Apple users' brains respond to brand news with the same empathy patterns as family relationships.
 - `INS-260404-7541` Marketing researcher Americus Reed argues brands now serve the identity-support function once held by churches and communities.
@@ -30,9 +24,15 @@
 - `INS-260330-C548` Each moral compromise raises the psychological cost of reversing course, creating an escalation trap.
 - `INS-260403-C1B7` People who didn't attend elite schools suffer more from imagining what they missed than from any actual educational gap.
 - `INS-260403-5A91` When someone cheats in the domain they claim to care most about, it reveals a disconnect between stated values and actual psychology that is deeply diagnostic.
+- `INS-260404-3959` Intentional moderates and ideologues both acquire opinions in bulk rather than reasoning independently about each question.
+- `INS-260404-7C3F` Keeping your identity small — refusing to label yourself as an X or Y person — preserves your ability to think clearly across more domains.
+- `INS-260403-9E97` Trump's rage at SCOTUS striking down tariffs — despite tariffs dragging his approval ratings — reveals how identity attachment to a signature policy overrides rational political self-interest.
 - `INS-260330-790A` Serial pivots away from proven talent usually signal identity rejection rather than strategic diversification.
 - `INS-260403-2BAF` People who do great work don't become haters, and haters don't produce great work — the orientations are mutually exclusive.
 - `INS-260330-C7B5` Making a tool part of your identity makes you worse at evaluating alternatives.
+- `INS-260412-37B2` The same atoms arranged differently produce coal, diamond, banana, or squirrel — identity is pure pattern.
+- `INS-260409-2B3A` Galef: 'Sometimes I notice myself defending things I don't even believe because someone assumed I believed it' — a huge chunk of apparent belief defense is actually identity defense against a position that was never consciously chosen, just socially inherited.
+- `INS-260409-A239` Treating your current self-model as untrustworthy is a generative stance when paired with willingness to act on better evidence, not a paralysis.
 - `INS-260329-28A6` You don't need to 'become' a certain person before acting — identity is just the trailing indicator of repeated behavior.
 - `INS-260329-F3F0` The differentiator for top performers is absence of distractions, not presence of special abilities.
 - `INS-260403-A739` Karp maintained contrarian positions for 20 years while being called a failure, and that tolerance for ostracism was itself a competitive advantage.
@@ -51,10 +51,10 @@
 - `INS-260404-B6CC` Arguments escalate when they shift from debating issues to threatening someone's core identity and values.
 - `INS-260404-B863` Participants subliminally exposed to the Apple logo outperformed IBM-exposed groups on creative tasks.
 - `INS-260322-2E1C` Our experience of a stable, solid world exists not because reality is stable, but because we are trapped too deeply in a narrow slice to notice its freedom.
-- `INS-260405-874D` Autonomy in work is a one-way door: once crossed, the cage of a managed job becomes visible and unbearable.
 - `INS-260325-64FD` We habitually see bad behavior and assume bad person — but separating behavior from identity enables coaching instead of punishment in any relationship.
 - `INS-260403-958C` Online interaction encourages people to identify with distant interest-based groups over local physical communities.
 - `INS-260329-2460` A partner must love both your current self and the person you are actively working to become.
+- `INS-260405-874D` Autonomy in work is a one-way door: once crossed, the cage of a managed job becomes visible and unbearable.
 - `INS-260325-A54F` Apple's power is ecosystem lock-in that makes switching feel like identity loss — not product superiority.
 - `INS-260330-C451` People grab onto one or two morally defensible positions to psychologically offset the guilt of supporting an otherwise indefensible one.
 - `INS-260330-548E` Rubin identifies owning your aesthetic feelings in the face of external disagreement as 'probably the single most important thing to practice as an artist.'
@@ -91,5 +91,5 @@
 - `INS-260405-7529` Entrepreneurs don't balance work and life — the two collapse into one undifferentiated thing.
 - `INS-260405-56CB` Self-employment is the shallow reading; self-expression through work is the deep one.
 - `INS-260329-0B1D` Label prospects with positive traits during objections so they later feel compelled to live up to those identities at close time.
-- `INS-260410-EF31` Meta survived nine existential threats by framing itself as a 'human connection company,' not a 'social network' or 'social app' — letting the product form change while the mission stayed fixed.
 - `INS-260330-912C` Rome successfully absorbed conquered peoples for centuries by making them Romans, but collapsed when expansion outpaced cultural integration.
+- `INS-260410-EF31` Meta survived nine existential threats by framing itself as a 'human connection company,' not a 'social network' or 'social app' — letting the product form change while the mission stayed fixed.

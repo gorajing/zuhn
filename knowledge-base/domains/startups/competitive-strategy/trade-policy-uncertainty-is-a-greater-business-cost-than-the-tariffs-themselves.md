@@ -55,7 +55,6 @@ stance: >-
 related:
   - INS-260322-C5BD
   - INS-260324-2244
-  - INS-260327-2BAD
   - INS-260330-247C
   - INS-260330-AFAD
   - INS-260330-A192
@@ -63,6 +62,7 @@ related:
   - INS-260403-D5DE
   - INS-260403-D5B0
   - PRI-260406-1115
+  - PRI-260406-7B76
 ---
 The article describes a regime where tariffs are imposed under IEEPA, struck down by SCOTUS, reimposed under Section 122 (temporary, 5-month authority), with the expectation of renewal, legal challenges, and further authority-shopping. Meanwhile, specific products and countries receive ad hoc exemptions that can be granted or revoked. Manufacturing construction spending fell not just because of tariff costs but because no business can commit to a multi-year factory investment when the tariff landscape shifts monthly.
 

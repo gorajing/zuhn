@@ -65,6 +65,7 @@ related:
   - INS-260327-2B62
   - INS-260327-442D
   - INS-260410-15AC
+  - INS-260412-F32D
 ---
 When Microsoft negotiated the IBM PC deal in 1980, Bill Gates did something counterintuitive: he accepted a fixed $430,000 payment with zero ongoing royalties on every IBM PC sold. The conventional wisdom would scream to grab per-unit royalties from the most valuable company in the world. But Gates saw a more important lever: Microsoft retained full ownership of DOS and the right to license it to anyone else on any terms. IBM assumed they would dominate the PC market and that owning the software didn't matter. Instead, Compaq and other clones reverse-engineered the IBM BIOS, the PC architecture became commoditized, and Microsoft collected per-machine royalties from every clone maker. The lesson is that when partnering with a much larger entity, the question isn't 'how do I extract maximum cash from this deal?' but 'how do I retain the strategic asset that compounds when the market expands?' Upfront cash is a one-time payment; retained rights are an option on the entire future of the category.
 

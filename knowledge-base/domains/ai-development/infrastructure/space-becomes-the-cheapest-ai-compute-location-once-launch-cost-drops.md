@@ -59,11 +59,10 @@ stance: >-
 related:
   - INS-260323-F528
   - INS-260405-D638
-  - INS-260403-0789
   - INS-260404-7A75
   - INS-260408-88D9
   - INS-260409-AEF3
-  - INS-260325-2906
+  - INS-260412-AB5D
 ---
 The argument rests on a physical asymmetry: a solar panel in orbit produces ~5x more power than on the ground (no atmospheric loss, no clouds, no seasonality, no night), and eliminates the battery cost entirely. Combined with ~10x cheaper solar cells in space (they can skip heavy glass and weather-resistant framing), Musk claims space becomes an order of magnitude cheaper than any terrestrial data center once Starship makes launch costs trivial.
 

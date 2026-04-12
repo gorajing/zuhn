@@ -61,6 +61,7 @@ related:
   - INS-260322-3A00
   - INS-260410-DFE2
   - INS-260410-320A
+  - INS-260412-0C84
 ---
 When OxyContin's patent was expiring, Purdue executed one of the most cynical competitive strategies in pharmaceutical history. After decades of insisting OxyContin was safe and non-addictive, they reversed position and lobbied that the drug was dangerous — specifically that their reformulated version was safer than any generic could be. The FDA agreed in 2013 to block generic OxyContin, while Purdue's version remained available.
 

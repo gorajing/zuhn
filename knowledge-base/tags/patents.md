@@ -1,5 +1,6 @@
 # Tag: patents
 
+- `INS-260412-0C84` Google bought Motorola for $12.5B and sold it for $2.9B but kept the patent portfolio — the real asset — to defend Android against Apple litigation.
 - `INS-260410-8B61` Each cellular generation (2G, 3G, 4G, 5G) expires just as the next one arrives — so Qualcomm's CDMA patents expired worthless, but by then 4G patents had replaced them in the licensing stack.
 - `INS-260410-CA89` Qualcomm's $120B franchise exists because it owns the patents AND the chip designs while treating handsets and base stations as commodity steps to spin off.
 - `INS-260402-FFB2` Patent aggression against competitors is a sell signal indicating the company can no longer win on product merit.

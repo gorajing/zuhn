@@ -54,11 +54,11 @@ stance: >-
   ecosystem where users can vibe-code behaviors and share them like smartphone
   apps.
 related:
+  - INS-260412-3A70
   - INS-260410-0330
   - PRI-260328-7007
   - INS-260327-9C56
   - INS-260321-2BF9
-  - INS-260403-215E
   - INS-260330-9A92
   - INS-260404-D654
 evidence:

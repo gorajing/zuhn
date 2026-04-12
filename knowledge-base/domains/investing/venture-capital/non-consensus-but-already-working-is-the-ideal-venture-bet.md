@@ -65,7 +65,7 @@ related:
   - INS-260404-8CAE
   - INS-260330-06CD
   - PRI-260406-B2E5
-  - INS-260323-C370
+  - INS-260412-B4B6
 ---
 The mythology of venture capital celebrates the 'vision bet' — backing an unproven founder with no product. But Benchmark's best deal ever was the opposite: eBay was growing 10% month-over-month, was profitable, and was drowning in mailed-in checks when they invested. Pierre was 'de-risked on every metric that mattered and risky on every metric that didn't' — he wasn't a 'proper CEO', the product was ugly, the use case (collectibles auctions) sounded silly, and the technology was held together with duct tape. The deal was non-consensus because everyone else was pattern-matching on surface signals (CEO pedigree, category seriousness, UI polish) instead of the numbers.
 

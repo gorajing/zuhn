@@ -1,5 +1,6 @@
 # Tag: intuition
 
+- `INS-260412-DDD2` Go has more possible board positions than atoms in the universe, making brute-force impossible and forcing AlphaGo to develop intuition-like pattern recognition.
 - `INS-260325-4C6D` Neural networks succeed precisely because they work like human intuition rather than like explicit logical rules.
 - `INS-260325-ADF3` Developing an intuitive sense of when ChatGPT will hallucinate is as legitimate as understanding its architecture.
 - `INS-260410-DA81` Because d(loss)/d(logits) equals softmax(logits) − onehot(y), the gradient row sums to zero — every incorrect class is pushed down by exactly the amount the correct class is pushed up, with force scaling as the prediction's confidence in wrong answers.

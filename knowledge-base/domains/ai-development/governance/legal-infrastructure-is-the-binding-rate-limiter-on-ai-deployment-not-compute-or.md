@@ -63,13 +63,13 @@ related:
   - INS-260323-F204
   - INS-260325-3B58
   - INS-260323-784B
-  - INS-260327-561F
   - INS-260329-9BC0
   - INS-260404-7834
   - INS-260409-EA56
   - INS-260409-A11F
   - PRI-260323-00C6
   - INS-260405-9285
+  - INS-260325-5CB1
 ---
 Nadella's argument: the entire modern economic and legal order is structured around humans owning property, holding rights, and being liable for actions. Delegating authority to AI systems requires that structure to evolve. Until it does, the most powerful AI will operate with delegated human authority, and 'AI did it' will not be an admissible defense in any court. This means the AI-takeoff concern is preceded by a courts-and-liability concern that will constrain deployment long before capability concerns do.
 

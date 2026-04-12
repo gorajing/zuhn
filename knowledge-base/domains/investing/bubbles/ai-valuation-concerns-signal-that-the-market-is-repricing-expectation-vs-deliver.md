@@ -56,6 +56,7 @@ related:
   - PRI-260328-1A2D
   - PRI-260328-0993
   - INS-260404-77CD
+  - INS-260412-0384
 ---
 Every technology bubble follows the same arc: enthusiasm inflates valuations ahead of actual value delivery, a 'reality check' period begins where the gap becomes visible, and a correction follows. AI valuation concerns emerging now suggest the market is entering the reality-check phase — not necessarily a crash, but a repricing of which AI companies have genuine moats versus which are riding narrative.
 

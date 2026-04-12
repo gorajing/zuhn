@@ -59,7 +59,6 @@ related:
   - INS-260330-B224
   - INS-260330-D88C
   - INS-260330-601A
-  - INS-260412-37B2
 evidence:
   - id: INS-260323-DA1E
     type: TRANSFERS_TO

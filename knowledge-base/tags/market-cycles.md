@@ -14,6 +14,7 @@
 - `INS-260405-10A5` Union strength tracked manufacturing growth rates, not organizing strength — making its decline structural, not moral.
 - `INS-260405-BDA0` The 2012 Seedpocalypse became a Series A crunch, then hit Series B two years after that — excess at one stage always creates shortage at the next.
 - `INS-260403-8FC1` The creator economy startup field is shrinking but surviving companies are in a healthier competitive position than during the boom.
+- `INS-260412-940C` Madoff survived for decades but collapsed instantly when the 2008 crisis reversed capital flows — exposing that Ponzi structures have no resilience to external shocks.
 - `INS-260404-6FFF` Consumer-focused startups are making a comeback, following a historical pattern where new technology waves re-open B2C opportunity windows.
 - `INS-260403-0CB8` Resilient 'camel' startups that grow slowly but survive market shocks are replacing unprofitable unicorns as the aspirational model for founders.
 - `INS-260403-D882` Design your company around structural platform-asset balance rather than adapting to which approach investors currently favor.

@@ -50,12 +50,11 @@ stance: >-
   disproportionate loyalty and access — the reputational cost to you is low but
   the political value to them is enormous.
 related:
-  - INS-260320-B8B0
   - INS-260330-4A1F
   - INS-260412-F62F
+  - INS-260412-2131
   - INS-260403-8CDC
   - INS-260330-27E8
-  - INS-260405-F374
 evidence:
   - id: INS-260327-4FAE
     type: TRANSFERS_TO

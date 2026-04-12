@@ -49,12 +49,12 @@ stance: >-
   of companies like Boeing and Intel.
 related:
   - INS-260327-7F73
-  - INS-260327-7F54
   - PRI-260407-93D7
   - PRI-260406-861A
+  - INS-260412-B4B6
   - INS-260403-3D38
-  - INS-260412-8CD7
   - INS-260404-D60F
+  - INS-260412-8CD7
 evidence:
   - id: INS-260330-3FCF
     type: CONTRADICTS

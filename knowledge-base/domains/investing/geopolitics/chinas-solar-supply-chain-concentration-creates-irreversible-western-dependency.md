@@ -55,11 +55,11 @@ stance: >-
   as solar manufacturing, and Western nations have no fast rebuild path to
   reduce dependency on China's 80-95% production dominance.
 related:
+  - INS-260412-6033
   - INS-260325-2906
-  - INS-260403-0789
   - INS-260405-2AFD
   - INS-260323-9676
-  - INS-260325-722C
+  - INS-260412-AB5D
 ---
 China deliberately treated solar as an industrial manufacturing strategy rather than an energy policy. State-backed capital funded factories years ahead of actual demand, cheap coal-powered electricity reduced production costs, and intentional oversupply drove Western manufacturers out of the market. Chinese firms then scaled further, vertically integrated, and concentrated regionally.
 

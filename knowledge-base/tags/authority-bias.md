@@ -1,5 +1,6 @@
 # Tag: authority-bias
 
+- `INS-260412-2131` Madoff's status as NASDAQ chairman and invitation-only access made investors skip basic due diligence.
 - `INS-260330-318B` Dressing salespeople as nurses exploits authority bias to bypass critical evaluation of claims.
 - `INS-260412-851F` Javice leveraged a Wharton degree, ink magazine feature, Forbes 30 Under 30, and VC backing into a self-reinforcing credibility loop where each institution assumed prior ones had done the vetting.
 - `INS-260329-882A` Phishing works primarily by exploiting authority bias and urgency, not by exploiting technical ignorance about email systems.

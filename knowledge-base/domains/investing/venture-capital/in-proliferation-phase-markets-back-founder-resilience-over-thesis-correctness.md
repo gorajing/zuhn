@@ -68,10 +68,10 @@ related:
   - INS-260330-06CD
   - INS-260404-0711
   - INS-260404-FF8D
-  - INS-260405-5514
-  - INS-260405-03BB
   - INS-260403-397B
   - INS-260328-988F
+  - PRI-260406-992F
+  - INS-260412-8EC1
 ---
 Nvidia was funded in 1993 alongside roughly 89 other graphics-card startups. Sequoia and Sutter Hill invested $2M at a $6M post-money valuation on a thesis that was wrong in almost every specific: wrong polygon primitive (quadrilaterals, not triangles), wrong cost assumptions (designed for expensive memory), wrong ecosystem strategy (fight Microsoft instead of adopt DirectX), wrong primary customer (Sega, who walked away). Only two of the original 90 funded startups survived, and the other one (ATI) was a Canadian bootstrapped company that wasn't even in the Silicon Valley funding frenzy.
 

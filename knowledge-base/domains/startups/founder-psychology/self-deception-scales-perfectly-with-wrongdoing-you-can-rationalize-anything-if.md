@@ -51,13 +51,13 @@ resolutions:
     scrutiny. If your 'good reason' for bending rules gets more compelling as
     the stakes rise, that's a warning sign, not validation.
 related:
-  - INS-260323-A8B5
   - INS-260330-636E
   - INS-260323-95FE
   - INS-260412-7C35
+  - INS-260323-A8B5
   - INS-260327-37C8
   - INS-260323-D564
-  - INS-260330-E9D4
+  - INS-260412-A92C
 stance: >-
   Cox maintained the narrative that he was 'helping people get homes' through
   every escalation of fraud, only recognizing his self-deception years la...

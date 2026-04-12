@@ -50,11 +50,11 @@ stance: >-
   match in the 3-7 year AI race window.
 related:
   - INS-260403-7157
+  - INS-260412-AB5D
   - INS-260404-7A75
   - INS-260410-101D
   - PRI-260406-C4FD
-  - INS-260410-0ECA
-  - INS-260404-57D0
+  - INS-260412-6033
 ---
 The AI race is fundamentally an energy race — whoever can produce cheap abundant energy at scale wins. China's solar deployment from 2023-2024 alone exceeded total US installed capacity, and two-thirds of all new global renewable facilities are in China. Combined with 50,000+ km of ultra-high voltage transmission lines (vs. near-zero in the US) and 33 nuclear reactors under construction (vs. zero US), China is building the energy substrate for AI dominance.
 
