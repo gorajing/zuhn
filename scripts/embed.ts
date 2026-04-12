@@ -54,12 +54,12 @@ async function scanPrinciples(kbRoot: string): Promise<PrincipleFile[]> {
 }
 
 /**
- * Update YAML frontmatter to set embedded: true and embedding_model.
- * Works for both insights (which have embedded: false) and principles
- * (which may not have the embedded field at all).
+ * Pure text transform: update YAML frontmatter to mark an item as embedded
+ * with the given model. Works for both insights (which have `embedded: false`)
+ * and principles (which may not have the `embedded` field at all).
+ * Returns the raw input unchanged if no edits are needed.
  */
-async function markEmbedded(filePath: string, model: string): Promise<void> {
-  const raw = await readFile(filePath, "utf-8");
+export function markEmbeddedInText(raw: string, model: string): string {
   let updated = raw;
 
   if (updated.includes("embedded: false")) {
@@ -90,6 +90,13 @@ async function markEmbedded(filePath: string, model: string): Promise<void> {
       `embedding_model: "${model}"`
     );
   }
+
+  return updated;
+}
+
+async function markEmbedded(filePath: string, model: string): Promise<void> {
+  const raw = await readFile(filePath, "utf-8");
+  const updated = markEmbeddedInText(raw, model);
 
   if (updated !== raw) {
     await writeFile(filePath, updated, "utf-8");
@@ -182,6 +189,15 @@ async function main(): Promise<void> {
         .get(ins.data.id);
 
       if (vecRow) {
+        // Self-heal: if the frontmatter still says `embedded: false` despite
+        // a valid DB embedding (content_hash + embedding_model + vec row all
+        // match), flip the flag to match reality. Happens when split-topic.ts
+        // or similar utilities defensively reset the flag on file moves that
+        // don't actually invalidate the embedding.
+        const raw = await readFile(ins.filePath, "utf-8");
+        if (raw.includes("embedded: false")) {
+          await markEmbedded(ins.filePath, EMBEDDING_MODEL);
+        }
         insSkipped++;
         continue;
       }
