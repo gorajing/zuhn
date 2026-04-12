@@ -54,6 +54,7 @@ related:
   - INS-260330-20FD
   - PRI-260405-CE75
   - INS-260404-CDD2
+  - INS-260412-3BC3
 ---
 In the Penrose process, you drop expendable mass (an asteroid) into the ergosphere and extract rotational energy worth far more than what you sacrificed. The black hole doesn't care about the mass — it's an indiscriminate accumulator — but the rotational energy it surrenders is extraordinarily valuable to the civilization extracting it.
 

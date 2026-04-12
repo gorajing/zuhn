@@ -49,11 +49,10 @@ stance: >-
   HBM supply, not GPU compute, will become the primary bottleneck limiting AI
   model scaling and inference throughput in the near term.
 related:
-  - INS-260321-4B99
   - INS-260329-8CC0
   - INS-260329-06F2
-  - INS-260405-4F2B
   - INS-260327-0C4A
+  - INS-260321-4B99
   - PRI-260406-F21A
   - INS-260323-FEDF
 ---

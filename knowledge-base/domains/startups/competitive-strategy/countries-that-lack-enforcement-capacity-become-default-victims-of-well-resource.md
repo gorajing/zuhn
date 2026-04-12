@@ -55,5 +55,6 @@ related:
   - INS-260403-4183
   - INS-260410-2AEE
   - INS-260412-0C4C
+  - INS-260412-52B9
 ---
 Peru had 239 fishing boats in its own waters while 525 Chinese vessels operated there simultaneously. This pattern — where resource-rich but institutionally weak actors are systematically exploited by well-resourced ones — is not unique to fishing. It applies broadly to any competitive landscape where enforcement is decentralized but extraction is concentrated. In startup contexts, this maps to markets where regulatory capacity is weak: the first well-capitalized entrant with state backing or scale advantages can extract disproportionate value before local competitors or regulators can respond. The strategic lesson is that enforcement asymmetry is itself a competitive moat — actors who can operate in low-enforcement environments while their competitors cannot (due to compliance cultures or reputational risk) gain systematic advantages. For founders, this means understanding which markets have enforcement gaps and whether your competitive strategy depends on or is vulnerable to such gaps.

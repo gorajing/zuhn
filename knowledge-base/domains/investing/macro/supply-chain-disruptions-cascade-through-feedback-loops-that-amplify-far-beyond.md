@@ -54,9 +54,10 @@ related:
   - INS-260405-BDA0
   - INS-260412-A77B
   - INS-260412-10F1
+  - INS-260412-F414
   - INS-260403-EC09
   - INS-260325-5096
-  - INS-260403-E936
+  - INS-260412-3EBB
 ---
 The 2021 shortage cascade illustrated how tightly coupled systems create amplification loops. Containers piled up at US ports because lockdowns reduced exports. Port congestion meant ships couldn't unload, doubling transit times. The congestion meant ports couldn't load empty containers for return to Asia. Truck driver shortages meant containers couldn't even reach ports for return. Each shortage fed the next.
 

@@ -47,11 +47,11 @@ stance: >-
   opponent's entry into the conflict are net-negative even when tactically
   successful
 related:
+  - INS-260412-69E5
   - INS-260327-7F88
   - INS-260327-F274
   - INS-260327-AA3B
   - INS-260410-7E29
-  - INS-260327-FB61
   - INS-260410-AF9A
 ---
 In 1917, Germany resumed unrestricted submarine warfare, knowing it would likely bring America into the war. The gamble: U-boats could starve Britain into surrender within six months, before American resources could be mobilized. April 1917 was the U-boats' best month -- 886,000 tons sunk, 17 ships per day. Tactically brilliant. Strategically catastrophic. America declared war, convoy systems reduced losses, and America's immense industrial capacity tipped the balance decisively. The Zimmermann Telegram -- Germany encouraging Mexico to attack America -- compounded the blunder. The lesson: any competitive action must be evaluated not just by its immediate return but by which sleeping giants it awakens. This applies to price wars that attract regulators, aggressive moves that unite competitors, and market expansions that provoke dominant incumbents.

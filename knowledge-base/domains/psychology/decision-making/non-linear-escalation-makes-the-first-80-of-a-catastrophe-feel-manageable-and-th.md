@@ -49,7 +49,6 @@ stance: >-
 related:
   - INS-260323-75A8
   - INS-260325-D797
-  - INS-260329-DEE5
   - INS-260330-5A0B
   - INS-260402-E85D
   - INS-260403-4B3D
@@ -57,5 +56,6 @@ related:
   - INS-260403-7285
   - INS-260403-0800
   - INS-260412-2D98
+  - INS-260412-E9A1
 ---
 In the moon-crash timeline, month one produces barely noticeable tidal changes. By month five, civilization is collapsing. The physical forcing function is continuous, but human experience of it is deeply non-linear — tides growing from 0.5m to 4m feels like weather variation, while 4m to 100m is apocalyptic. This maps directly to climate change, pandemic growth curves, technical debt, and market bubbles. The dangerous pattern is that the window for effective intervention exists precisely when the problem feels most manageable and easiest to ignore. By the time the threat matches human intuition's threshold for 'this is serious,' the response options have narrowed catastrophically. The antidote is measuring rates of change rather than absolute levels.

@@ -49,7 +49,6 @@ stance: >-
   Operational innovations forced by crisis conditions frequently prove superior
   to the practices they replaced, even after the crisis ends.
 related:
-  - INS-260403-22E9
   - INS-260412-10F1
   - INS-260412-A77B
   - INS-260410-E47B

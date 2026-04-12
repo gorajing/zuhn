@@ -3,6 +3,7 @@
 - `INS-260412-839B` China's recycling ban proved that private-sector profitability masking national-level losses is an unstable equilibrium that regulators eventually correct.
 - `INS-260403-42BA` Trump's tariffs caused a 32% drop in Midwest PE deals and 26% in the Southeast, revealing how trade policy creates geographic funding disparities.
 - `INS-260403-CCCC` While the statutory US tariff rate was 27.5% in September 2025, the actual rate importers paid was only about 14% due to extensive carve-outs, USMCA compliance, and product-specific exemptions.
+- `INS-260412-5291` China's currency pegging made western companies' dollars buy more Chinese labor and goods, functioning as an invisible export subsidy.
 - `INS-260327-7605` Napoleon's Continental System hurt Russia's economy more than Britain's, causing Russia to secretly resume trade and triggering the 1812 invasion.
 - `INS-260405-8F5D` Granting a rival access to your market can fund their industrial buildup rather than moderate their regime — the WTO-China case is the canonical example.
 - `INS-260403-A2FE` Total protectionism against Chinese EVs risks isolating the US auto industry from the global EV transition, cutting off export markets and stalling critical technology development.

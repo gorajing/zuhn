@@ -8,6 +8,7 @@
 - `INS-260410-03FA` When customers pay you before you pay suppliers, every dollar of growth generates free capital instead of consuming it.
 - `INS-260329-6D3B` Incumbent competition is inevitable at scale — the question shifts from 'if' to 'how do I compete against their bundle advantage.'
 - `INS-260330-C825` Profitable divisions (like AWS) can fund indefinite losses in new markets (like groceries), making it impossible for single-industry competitors to survive on margins alone.
+- `INS-260412-009A` Amazon and e-commerce let Shenzhen manufacturers sell directly to western consumers, bypassing the retailer gatekeepers.
 - `INS-260327-4440` Amazon dominated e-commerce by offering incredible service below cost, but maintaining that service at scale without unpopular sacrifices was mathematically impossible from the start.
 - `INS-260405-D6E6` Sears, Toys-R-Us, and Payless didn't die because of Amazon — they died because they stopped adapting, and Amazon is a conveniently blameable scapegoat.
 - `INS-260327-8997` Amazon is literally running out of human beings who haven't already worked for them and quit, revealing a hard limit on growth-through-churn employment strategies.

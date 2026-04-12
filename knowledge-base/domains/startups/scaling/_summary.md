@@ -1,6 +1,6 @@
 # Topic: scaling
 
-> 190 insights
+> 193 insights
 
 - `INS-260403-49FB` [high] Startups need 2-3x longer than founders expect to validate their market, and 70% scale prematurely — largely explaining the 90% failure rate.
 - `INS-260403-AA20` [high] The 996 grind culture trades short-term velocity for compounding burnout costs that destroy long-term startup viability.
@@ -12,6 +12,7 @@
 - `INS-260327-968C` [high] Block's AI transformation began with the CTO writing a manifesto email to Jack Dorsey, then both spending two days aligning on centralized AI investment before restructuring the entire organization.
 - `INS-260403-B387` [high] AI vertical companies should size their market against total labor cost in the vertical, not existing software spend — a 10x larger opportunity.
 - `INS-260410-E71E` [high] Hermès employs 7,000 artisans and trains new ones from scratch (two years before they make anything, years more before they touch a Birkin) because the knowhow cannot be documented — only transmitted hand to hand.
+- `INS-260412-7FC0` [high] China's mass-production approach to viaducts and tunnels cut high-speed rail costs to $30M/mile vs California's $148M/mile.
 - `INS-260404-0B8E` [high] Waymo's tripling to 15M annual rides with 90% fewer serious injuries demonstrates autonomous driving is now a proven infrastructure service, not a research project.
 - `INS-260403-1C28` [high] Structure teams as autonomous 2-6 person pods that each own their own goals, roadmap, deployment, and quality control.
 - `INS-260329-903B` [high] AWS GovCloud and compliance programs let startups inherit compliance certifications instead of building them from scratch, opening regulated markets like government and healthcare.
@@ -82,9 +83,11 @@
 - `INS-260405-35DF` [high] Meta cut nearly 10% of staff and grew revenue 50%, demonstrating that smaller focused teams outperform larger unfocused ones.
 - `INS-260402-8A58` [high] Companies must proactively rewire communication, management, and leadership structures at predictable headcount thresholds rather than waiting for dysfunction to force change.
 - `INS-260403-46BD` [high] Every organizational check has a hidden cost, but proposers almost never have to justify that cost against the benefit.
+- `INS-260412-47D5` [high] The motorcade uses local police for route clearing and local ambulances for medical standby, reserving Secret Service resources exclusively for the president's immediate security.
 - `INS-260403-3291` [high] Integration work takes operators 4x longer than experts, making the $10K outsourcing cost a clear win when operator time is the scarcest resource.
 - `INS-260330-1A63` [high] Always pair each metric with its natural opposite — fraud rate with false positive rate, hiring volume with hire quality — to force genuine innovation instead of gaming.
 - `INS-260404-BFD0` [high] Effort spent looking productive doesn't just waste resources — it actively makes organizations less productive.
+- `INS-260412-B416` [high] The Panama Canal's lock dimensions literally determine what size 50% of the world's cargo ships are built to be.
 - `INS-260330-9FCC` [high] In-N-Out's requirement that all ingredients reach stores within a single day's drive from distribution centers caps expansion at ~500 miles per center.
 - `INS-260327-DAE5` [high] Companies that grow headcount without proportionally growing the number of initiatives create bloated teams, slow meetings, and territorial fights instead of shipping more product.
 - `INS-260329-50D5` [high] TCP guarantees delivery order and completeness (essential for transactions); UDP sacrifices those guarantees for speed (essential for real-time communication).

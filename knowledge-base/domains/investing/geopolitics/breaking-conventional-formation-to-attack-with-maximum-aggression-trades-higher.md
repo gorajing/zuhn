@@ -53,7 +53,6 @@ stance: >-
   aggression accept higher short-term costs but achieve complete victories that
   conventional approaches cannot.
 related:
-  - INS-260327-98B1
   - INS-260327-AB3D
   - INS-260327-994B
   - INS-260410-7E29

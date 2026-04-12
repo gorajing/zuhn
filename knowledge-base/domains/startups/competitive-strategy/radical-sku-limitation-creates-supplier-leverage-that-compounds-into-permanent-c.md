@@ -64,6 +64,7 @@ related:
   - PRI-260406-6D04
   - INS-260403-ABB7
   - INS-260327-3B91
+  - INS-260412-6EEB
 ---
 Costco's radical constraint — 4,000 SKUs versus 30,000 at a typical supermarket or 140,000 at Walmart — appears to be a limitation but functions as a structural advantage. When a retailer offers only one or two options per category, being selected becomes critically important to suppliers. This creates intense competition among brands to offer Costco the lowest prices and even re-engineer products to fit its needs (like redesigning cashew containers to save 24,000 pallets annually).
 

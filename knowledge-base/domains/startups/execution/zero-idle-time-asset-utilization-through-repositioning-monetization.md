@@ -56,7 +56,7 @@ related:
   - INS-260403-22E9
   - PRI-260328-F497
   - INS-260327-B715
-  - INS-260405-9EE4
+  - INS-260412-F414
 ---
 Cruise ships face a seasonal demand problem: Caribbean routes peak November through April, then demand shifts to Europe. Moving a fleet of ships across the Atlantic empty would be enormously expensive. Instead, lines sell repositioning cruises — one-way, two-week voyages from Florida to Amsterdam at discounted rates. The ship is always making money, and the moment one cruise ends, the next begins.
 

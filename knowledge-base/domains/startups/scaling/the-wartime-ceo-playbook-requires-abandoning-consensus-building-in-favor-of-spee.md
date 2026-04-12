@@ -50,14 +50,14 @@ stance: >-
   fast irreversible decisions with incomplete information while peacetime
   leadership optimizes for alignment and buy-in.
 related:
-  - INS-260323-A197
   - INS-260323-E204
   - INS-260327-088D
   - PRI-260406-0E02
+  - INS-260412-6318
   - PRI-260403-88F5
   - INS-260330-7A80
-  - INS-260330-D26B
   - INS-260323-2CCA
+  - INS-260330-D26B
   - INS-260412-5D55
 evidence:
   - id: INS-260323-A197

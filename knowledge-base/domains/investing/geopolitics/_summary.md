@@ -1,6 +1,6 @@
 # Topic: geopolitics
 
-> 561 insights
+> 568 insights
 
 - `INS-260326-3E19` [very_high] Pharmaceutical companies funding the FDA, banks staffing financial regulators, and tech giants writing platform regulations are structurally identical -- the mechanism is industry-funded oversight producing industry-favorable rules.
 - `INS-260326-79DF` [very_high] Germany's unrestricted submarine warfare sank 886,000 tons in April 1917 alone -- a tactical triumph that brought America into the war and guaranteed Germany's defeat.
@@ -72,6 +72,7 @@
 - `INS-260404-57D0` [high] China controls 80-95% of global solar manufacturing across polysilicon, wafers, cells, and modules with no near-term Western alternative.
 - `INS-260410-AE40` [high] Central debt is 60-70% of GDP, but local government debt is 120-140% of GDP — all of it issued under central authorization for central priorities — making China's true debt load comparable to Japan's.
 - `INS-260325-A19C` [high] TSMC manufactures 90% of the world's advanced processor chips in Taiwan — a geopolitical concentration risk that affects every phone, computer, and AI system on the planet.
+- `INS-260412-2488` [high] Controlling narrow sea passages grants disproportionate strategic power by threatening an adversary's entire economic lifeline without firing a shot.
 - `INS-260327-40FC` [high] Napoleon crossed the Alps in spring — considered impossible by conventional military wisdom — arriving in the Austrian rear before they knew he was coming.
 - `INS-260327-98B1` [high] Themistocles lured the Persian fleet into the narrow straits of Salamis where their numerical advantage became a liability.
 - `INS-260325-793A` [high] The Bronze Age collapse resulted from drought, migration, earthquakes, and trade disruption compounding — not any single cause.
@@ -94,6 +95,7 @@
 - `INS-260327-B65A` [high] Blackbeard operated in the gaps between colonial jurisdictions — British, French, Spanish waters — where no single navy had clear authority to pursue him.
 - `INS-260327-C4AD` [high] Suez didn't transfer power from Britain to America — it publicly revealed a transfer that had already happened, making it permanent and irreversible.
 - `INS-260330-6DE0` [high] Zimbabwe's hyperinflation persisted because citizens' expectation of rising prices became the primary driver of rising prices, creating an irreversible feedback loop.
+- `INS-260412-5291` [high] China's currency pegging made western companies' dollars buy more Chinese labor and goods, functioning as an invisible export subsidy.
 - `INS-260330-F79F` [high] Currency pegs that overvalue the local currency create a doom loop where black market exchange rates drain official reserves faster.
 - `INS-260330-5EE9` [high] North Korea's 2009 currency redenomination wiped out savings and permanently shifted unofficial transactions to the Chinese Yuan.
 - `INS-260327-8B9A` [high] At Vitoria, the French army collapsed into chaos when its retreat route was threatened, abandoning enormous stores of loot and equipment.
@@ -109,6 +111,7 @@
 - `INS-260323-11FF` [high] Chinese deference to authority is a thousands-year-old implicit contract — stability, security, and prosperity in exchange for some deference — not the blind submission Western observers assume.
 - `INS-260323-E81D` [high] Holocaust survivor Maior Meyer's observation: for a dominant group to dehumanize another, they must first dehumanize themselves — and technology accelerates this by inserting screens between killer and killed.
 - `INS-260327-6058` [high] Napoleon's Waterloo strategy was sound but failed because Marshal Grouchy and Marshal Ney couldn't execute independently at the critical moment.
+- `INS-260412-C876` [high] The Antarctic Treaty succeeded by explicitly refusing to resolve territorial claims while banning military and mining activity.
 - `INS-260327-CF72` [high] Germany's Verdun strategy deliberately targeted a fortress the French were emotionally unable to abandon, forcing France to feed troops into a meat grinder at ruinous exchange rates.
 - `INS-260323-6357` [high] Much of democracy's stability relies on unwritten norms rather than enforceable laws — a shameless norm-violator reveals how fragile the system really is.
 - `INS-260330-DA38` [high] Demographic shifts happen so slowly that they're ignored until retirement waves hit, then consequences cascade rapidly.
@@ -122,6 +125,7 @@
 - `INS-260403-311C` [high] Japan's LDP has ruled for 70 years primarily because it pivots policy to match voter priorities, not because of electoral system rigging.
 - `INS-260327-7605` [high] Napoleon's Continental System hurt Russia's economy more than Britain's, causing Russia to secretly resume trade and triggering the 1812 invasion.
 - `INS-260321-10FF` [high] Saudi Arabia and Israel were sworn enemies for decades. Now they're aligning because both want to be core hub stations on IMEC. When economic interests change, the colors beneath the board change on their own.
+- `INS-260412-C7FA` [high] Extreme trade concentration with a single partner converts economic ties into a political leash.
 - `INS-260330-AAE9` [high] As societies industrialize and urbanize, children shift from productivity assets to financial liabilities, making low fertility an inevitable side effect of development.
 - `INS-260323-748A` [high] State-sponsored espionage concentrates on technologies where incumbents hold multi-decade monopolies, particularly jet engines and aerospace — the harder something is to replicate independently, the higher its espionage value.
 - `INS-260405-8F5D` [high] Granting a rival access to your market can fund their industrial buildup rather than moderate their regime — the WTO-China case is the canonical example.
@@ -135,6 +139,7 @@
 - `INS-260327-FBB4` [high] Justinian consistently underfunded Belisarius despite his victories, sending too few troops for him to hold conquered territory — winning battles but unable to consolidate gains.
 - `INS-260327-10E8` [high] When healthcare is tied to employment, every layoff and career transition creates a gap in medical coverage that directly increases mortality risk.
 - `INS-260327-96BB` [high] Developers hold hundreds of thousands of luxury units vacant rather than reducing prices because vacancy preserves asset values that discounted sales would destroy.
+- `INS-260412-6EEB` [high] Russia's gas pipelines supplying 40% of Europe's demand explain why Germany criticizes Russia far less than the UK, which has zero Russian gas dependency.
 - `INS-260327-31B8` [high] At Eylau, a blinding snowstorm caused an entire French corps to march into the Russian center by accident, turning a controlled battle into chaos that negated Napoleon's tactical superiority.
 - `INS-260327-842F` [high] Each British crackdown (Stamp Act, Townshend Acts, Tea Act, Intolerable Acts) hardened colonial resistance, and each colonial protest hardened British resolve — until compromise was impossible.
 - `INS-260327-8268` [high] Trafalgar gave Britain absolute naval supremacy that lasted 100 years — this single advantage compensated for Britain's small army and enabled its entire global empire.
@@ -200,6 +205,7 @@
 - `INS-260327-D1B7` [high] The Entente won WW1 primarily because its combined industrial output (including American manufacturing) vastly exceeded the Central Powers', allowing it to absorb losses and maintain operations indefinitely.
 - `INS-260410-D316` [high] China won on the base layers — ubiquitous internet (1990s bet) and massive cheap electricity (2000s bet) — which then compounded into every downstream industry including AI.
 - `INS-260330-02A7` [high] Inflation should be modeled as a multi-dimensional vector across all assets and goods, not reduced to a single government-defined CPI scalar.
+- `INS-260412-C6ED` [high] China built money-losing rail lines to Xinjiang and Tibet explicitly to integrate separatist regions, prioritizing political unity over financial returns.
 - `INS-260330-0FCE` [high] Physical infrastructure creates economic interdependency that gradually makes political separation impractical, serving as a subtler tool of control than direct legislation.
 - `INS-260412-C77F` [high] Russia's state-owned rail monopoly enables domestic military dominance but creates a crippling dependency that collapses at the border.
 - `INS-260403-CFBD` [high] Weaponizing legal institutions against independent economic bodies trades durable stability for short-term political leverage.
@@ -282,6 +288,7 @@
 - `INS-260323-8239` [high] National power is fundamentally a function of population size and wealth — both are required to build the military capability that ensures survival.
 - `INS-260403-2F55` [high] Multiple studies find a significant cross-country correlation between pandemic-era fiscal deficits and subsequent inflation, supporting the view that government borrowing has real inflationary costs.
 - `INS-260323-B40C` [high] States pursue power not because they are inherently aggressive but because the anarchic structure of international politics leaves them no alternative for survival.
+- `INS-260412-E828` [high] The US uses carriers primarily for power projection — constant visible presence in contested waters — rather than combat, with January 2017 being the first gap in continuous deployment since WWII.
 - `INS-260327-F389` [high] Napoleon's coup succeeded because he had both the popular fame that made opposition politically costly and enough insiders (Sieyes, Talleyrand) to open the institutional doors.
 - `INS-260327-067D` [high] At Bunker Hill, untrained American militia behind earthworks inflicted 1,000+ casualties on elite British regulars who attacked frontally with contempt for the 'rabble.'
 - `INS-260327-E36A` [high] Wellington's Lines of Torres Vedras were impregnable fortifications backed by scorched earth that denied food to the French, forcing Massena to retreat without a battle.

@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-12 | 4896 actionable insights
+Generated on 2026-04-12 | 4903 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1163,6 +1163,7 @@ Generated on 2026-04-12 | 4896 actionable insights
 - [INS-260323-DA6F] China's growth has historically been reform-driven: every major reform produced a decade of strong growth, and the current slowdown correlates directly with the slowing pace of reform over the past 15 years.
 - [INS-260403-2242] The Fed cut rates 25bps to 3.75-4.00% and announced QT ending December 1, with dissents revealing internal division, as major layoffs at UPS (48K), Amazon (30K), and others signal accelerating labor market deterioration.
 - [INS-260327-E7AC] Russia didn't lose WW1 to Germany on the battlefield — it collapsed from within when its exhausted population and demoralized army revolted against the Tsar.
+- [INS-260412-6EEB] Russia's gas pipelines supplying 40% of Europe's demand explain why Germany criticizes Russia far less than the UK, which has zero Russian gas dependency.
 
 ## investing/macro
 - [INS-260405-25DD] December 31 Fed facility spikes are a predictable accounting artifact of banks shrinking balance sheets for year-end regulatory snapshots.
@@ -1575,6 +1576,8 @@ Generated on 2026-04-12 | 4896 actionable insights
 - [INS-260412-4CB1] When no path is cosmically 'right,' the only remaining criterion is personal alignment, which is faster to evaluate.
 - [INS-260412-9958] Documents that identify every problem but fail to ruthlessly rank them by urgency produce paralysis on the most critical issues.
 - [INS-260412-2B91] Russia planned for a 3-5 day war with no logistics fallback, so when Ukraine resisted, the entire invasion apparatus broke down simultaneously.
+- [INS-260412-3BC3] Australia-China trade is nominally mutual but functionally one-directional because severance pain is radically asymmetric.
+- [INS-260412-6318] The UK's 'letters of last resort' model — where PMs pre-commit nuclear retaliation decisions at the start of their term — shows that separating decision-making from decision-execution improves outcomes under extreme stress.
 
 ## psychology/epistemics
 - [INS-260405-2B3F] Treating survey non-response as randomly missing data produces systematically wrong estimates whenever the stigmatized view is also the under-reported one.
@@ -2777,6 +2780,7 @@ Generated on 2026-04-12 | 4896 actionable insights
 - [INS-260411-40CA] Empirical data on U.S. establishments from 1978-2022 shows roughly 60% of new entrants exit within 5 years and 80% within 10, yet challengers remain overconfident and drawn to ambiguous payoffs.
 - [INS-260412-3A50] Technological progress compounds so fast that delayed competitive response can become permanently unrecoverable.
 - [INS-260412-BA6D] Ukraine's guerrilla defense focused on destroying unarmored fuel trucks, rail connections, and road signs—targeting Russia's weakest logistical links rather than its strongest military assets.
+- [INS-260412-3EBB] Caribbean transshipment hubs emerged because many US east coast ports can't handle the larger post-expansion ships, creating a new intermediary logistics layer.
 
 ## startups/content-strategy
 - [INS-260329-3332] A single 4+ hour comprehensive tutorial can accumulate millions of views over years by dominating 'full course' search queries.
@@ -4326,6 +4330,8 @@ Generated on 2026-04-12 | 4896 actionable insights
 ## startups/operations
 - [INS-260405-54A9] Internal AI agents (HR, knowledge base, competitor intel) deliver faster ROI than customer-facing ones because deployment barriers are lower.
 - [INS-260412-F4DA] Systems with three actor groups holding different incentives and no shared situational awareness predictably cascade into failure.
+- [INS-260412-EB2D] The Navy's Blue/Gold crew model — two fully staffed crews alternating 77-day patrols with 25-day turnovers — solves the continuous operations problem by treating the team as the replaceable unit, not individual people.
+- [INS-260412-D787] The White House to UN trip takes exactly one hour because every transition — Marine One to Air Force One (5 min), landing to motorcade — is ruthlessly optimized.
 
 ## startups/organizational-design
 - [INS-260405-346A] Org structure is fundamentally a filter—it determines which conflicts are visible to leadership and which are suppressed before surfacing.
@@ -4853,6 +4859,7 @@ Generated on 2026-04-12 | 4896 actionable insights
 - [INS-260412-B25A] The immune system uses cheap macrophages to handle most threats and only escalates to expensive adaptive immunity when the first layer fails, a pattern directly applicable to organizational design.
 - [INS-260412-C3E6] Just as gravity is irrelevant to ants but lethal to elephants, the forces that threaten organizations undergo categorical shifts at different scales.
 - [INS-260412-B650] On the Moon, a nuclear seismic wave reaches everywhere because it's small — on Earth, distance and mass absorb the shock before it circles the globe.
+- [INS-260412-47D5] The motorcade uses local police for route clearing and local ambulances for medical standby, reserving Secret Service resources exclusively for the president's immediate security.
 
 ## startups/strategy
 - [INS-260322-5E5D] Deliberately changing what content platforms show you — your YouTube algorithm, your feeds — rewires your brain to notice opportunities others miss.

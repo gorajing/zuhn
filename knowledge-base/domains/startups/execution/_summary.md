@@ -1,6 +1,6 @@
 # Topic: execution
 
-> 288 insights
+> 289 insights
 
 - `INS-260329-FCF2` [high] Doing 10-100x more volume beats 2x optimization, but you must relearn this lesson independently in each new domain you enter.
 - `INS-260403-FED1` [high] YC's batch funding model — its most important innovation — was adopted not strategically but because a summer program seemed like the fastest way to learn angel investing.
@@ -147,6 +147,7 @@
 - `INS-260328-6A18` [high] Founders can't innovate across 20 zones — pick the top 3 where you want to innovate and hire the experienced person for everything else.
 - `INS-260409-2578` [high] Pivots at scale rarely work — only pivot when you have literally no other choice.
 - `INS-260403-F4D7` [high] Best-in-class infrastructure components are now commodity plug-and-play, so building custom infra is almost always wrong for early-stage startups.
+- `INS-260412-8780` [high] China built more high-speed rail than the rest of the world combined not through superior technology but by making it the government's top priority.
 - `INS-260403-144A` [high] Rollins recognized the shrinking middle class in his 20s and deliberately stacked multiple income streams — music, acting, writing, voiceover, speaking — as insurance.
 - `INS-260412-B8CB` [high] Samsung's transformation from grocery trader to industrial conglomerate began by acquiring leftover Japanese colonial assets at cents on the dollar during the Korean War's wreckage.
 - `INS-260330-BF96` [high] Byron Ferguson hits aspirins mid-air not by eliminating arrow wobble but by testing every arrow's spine and rejecting those outside tolerance.

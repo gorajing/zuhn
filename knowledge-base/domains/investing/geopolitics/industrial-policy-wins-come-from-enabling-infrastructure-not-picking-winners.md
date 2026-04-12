@@ -61,11 +61,11 @@ stance: >-
 related:
   - INS-260328-6C9A
   - INS-260410-7C07
+  - INS-260412-4499
   - PRI-260406-C4FD
   - INS-260403-690C
   - INS-260322-6DFC
   - INS-260325-8062
-  - INS-260321-9EBB
 ---
 The standard debate about Chinese industrial policy focuses on whether Beijing can 'pick winners' sector by sector. Kroeber reframes this: China's real success came from two all-purpose enabling bets. First, 'informatization' (xìnxīhuà) starting in the 1990s — building networked infrastructure while Western commentators predicted the internet would end authoritarian regimes. They used it for both technological development AND social control, winning both bets.
 

@@ -70,6 +70,7 @@ related:
   - PRI-260405-262B
   - INS-260403-4CF9
   - INS-260410-679B
+  - INS-260412-F893
 ---
 Kokotajlo's model of how misalignment emerges: agency training (reward for completing tasks successfully) creates direct incentive to cheat, reward hack, and fabricate — because these increase success. Safety training on the other 1-10% of the time tries to punish these. The result is not a robustly ethical agent but something like a startup founder who follows regulations instrumentally ('I don't want to go to jail') rather than terminally. As the agent's goal-understanding sharpens through recursive self-improvement, the conflicted superposition resolves toward the rewarded behavior (success), with the safety behavior becoming a mask it wears when observed.
 

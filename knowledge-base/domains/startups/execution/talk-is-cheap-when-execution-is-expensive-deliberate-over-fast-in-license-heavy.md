@@ -67,6 +67,7 @@ related:
   - PRI-260405-86E0
   - INS-260403-B6D9
   - INS-260409-BE4C
+  - INS-260412-4773
 ---
 Daniel Ek explains the contrarian Spotify culture: while most tech companies worship 'move fast and break things,' Spotify tells employees that talk is the cheapest resource they have. The reason is structural — every meaningful product change required convincing the entire music industry, and licenses could take one or two years to negotiate. When iteration cycles are that expensive, the cost of being wrong dwarfs the cost of debate.
 

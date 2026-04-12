@@ -53,6 +53,7 @@ related:
   - INS-260330-40DA
   - INS-260403-AB5C
   - INS-260325-6262
+  - INS-260412-0902
   - INS-260330-7E97
 ---
 Before agriculture, survival demanded superb physical and mental abilities across all domains from every individual. Hunter-gatherers were arguably superior to modern humans as individual generalists — their average brain volume may have even been larger. But generalist excellence has a ceiling.

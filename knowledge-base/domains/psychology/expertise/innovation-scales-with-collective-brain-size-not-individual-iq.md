@@ -66,7 +66,6 @@ related:
   - INS-260410-439D
   - INS-260412-C921
   - PRI-260406-3913
-  - INS-260410-E042
 ---
 Henrich argues that almost every major first-invention in human history occurred in Eurasia because it was the largest, most interconnected continent — oriented along an east-west axis where ideas and people flowed freely across the 'Lucky Latitudes.' Neanderthals had larger brains and more individual computational power, yet the expanding modern-human population (~1-10,000 people from the Near East ~70,000 years ago) out-competed them because they had denser cultural networks and institutions that preserved and accumulated knowledge.
 

@@ -10,6 +10,7 @@
 - `INS-260329-7BA7` Internet value accrues to those who control the user relationship while commoditizing supply — now playing out in AI
 - `INS-260403-56D7` Moderate users leaving social media doesn't reduce polarization — it concentrates extremist influence by removing the moderating majority.
 - `INS-260330-7FFE` ShadowCrew's real innovation was building review, escrow, and vouching systems that let criminals trust each other — the same platform trust problems legitimate marketplaces solve.
+- `INS-260412-3EBB` Caribbean transshipment hubs emerged because many US east coast ports can't handle the larger post-expansion ships, creating a new intermediary logistics layer.
 - `INS-260412-44FA` Ecosystems with multiple layers of interdependency develop emergent defensive properties that no single layer could achieve alone.
 - `INS-260323-7D3C` Linux dominates because anyone can tweak it for their specific use case — covering more applications than any proprietary system ever could.
 - `INS-260329-7CDE` Never enter an arms race of who can produce the most low-quality output — the platform (Google, Apple, OpenAI) wins, not you.

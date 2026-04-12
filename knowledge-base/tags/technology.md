@@ -2,8 +2,8 @@
 
 - `INS-260325-722C` Unlike fossil fuels that must be extracted, solar and batteries are manufactured technologies that follow learning curves — doubling production drops costs by roughly 20%.
 - `INS-260412-E9A1` The window between controlling a planet and escaping it is the highest-risk period for any civilization — and we are in that window now.
-- `INS-260330-7C58` The Holocaust used Western civilization's best tools — record-keeping, industrial production, technology — for systematic extermination, proving progress is morally neutral.
 - `INS-260403-E652` Technology inherently makes things more addictive by concentrating the desirable properties of their predecessors.
+- `INS-260330-7C58` The Holocaust used Western civilization's best tools — record-keeping, industrial production, technology — for systematic extermination, proving progress is morally neutral.
 - `INS-260330-7E97` WWII proved that the most technologically advanced civilization in history could commit the worst atrocities, shattering the Enlightenment assumption that progress is unitary.
 - `INS-260403-1E5A` Distractions continuously evolve toward knowledge workers, requiring ever-updated defenses rather than one-time solutions.
 - `INS-260323-C9B1` Upgrading from Newton's to Einstein's model of gravity was not just philosophical — it enabled GPS, accurate satellites, and Uber; better frameworks for understanding reality directly produce better tools.

@@ -1,6 +1,6 @@
 # Topic: market-entry
 
-> 56 insights
+> 57 insights
 
 - `INS-260403-535C` [high] Simultaneous supply aging and demand shifting creates opportunities that favor operationally heavy startups over pure software.
 - `INS-260403-16AB` [high] AI copilots in marketplaces increase supply capacity while preserving trust, whereas full autopilots race to zero pricing.
@@ -52,6 +52,7 @@
 - `INS-260404-1B01` [medium] The feeder rodent market has enormous animal numbers but near-zero competition in alternatives, a classic neglected market pattern.
 - `INS-260403-56FC` [medium] Rising tariffs and buy-local sentiment in Europe are making global expansion strategies untenable, pushing startups toward regional-first approaches.
 - `INS-260330-930D` [medium] Apple's dismissal of India as low-revenue ignores that competitors are building ecosystem lock-in with hundreds of millions of users who will be difficult to convert later.
+- `INS-260412-4499` [medium] Anker beat western competitors to market with PowerIQ charging technology because Shenzhen's engineer network transmitted the information faster than formal channels.
 - `INS-260403-FF57` [medium] Less developed financial infrastructure in non-US markets creates larger friction gaps that fintech-enabled marketplaces can capture as margin.
 - `INS-260403-BA5D` [medium] In emerging markets, targeting broken essential industries provides both large market size and natural urgency that overcomes adoption friction.
 - `INS-260403-E592` [medium] Outsiders disrupt better because they reach conviction before accumulating the insider knowledge that would prevent them from starting.

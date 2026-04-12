@@ -1,6 +1,6 @@
 # Domain: psychology
 
-> 2432 insights across 24 topics
+> 2436 insights across 24 topics
 
 ## Topics
 
@@ -11,7 +11,7 @@
 | cognitive-biases | 329 | Over 85% of near-Earth asteroids are found in the 45-degree band opposite the sun because asteroids approaching from the sun's direction are invisible to ground telescopes — no amount of better ground telescopes fixes this. |
 | communication | 50 | Craft one 'the X of Y' phrase that sticks — professional investors hear so many pitches they blur, and the first filter is simply being remembered. |
 | consciousness | 115 | Johnson's framework reframes psychiatric disorders as varieties of stuck-ness — narrowed loops of thought and behavior — that psychedelics disrupt by forcing the brain into novel configurations. |
-| decision-making | 166 | If something powerful enough would leave unmistakable traces and you find none, that silence is itself a strong signal. |
+| decision-making | 169 | If something powerful enough would leave unmistakable traces and you find none, that silence is itself a strong signal. |
 | epistemics | 77 | The empty universe is not a lack of data — it is the single most important data point in the Fermi Paradox. |
 | expertise | 77 | Having an audience prevents the natural tendency to stop thinking at exactly the point where deeper exploration would be most valuable. |
 | focus | 157 | Long-form tutorials act as a self-selection filter — people who click a 4.5-hour video are pre-committed, leading to deeper engagement than bite-sized content. |
@@ -28,5 +28,5 @@
 | persuasion | 57 | Steady accumulation of documented incidents shifts opinion more than any single dramatic event because patterns resist counter-narrative. |
 | physics-intuition | 89 | Light's regularity means its full 3D state is determined by its values on any 2D boundary surface. |
 | relationships | 88 | Psychologist Sonja Lyubomirsky's analysis estimates 50% of happiness is genetic set point, 10% is circumstances, and 40% is under our control. |
-| resilience | 178 | Start documenting purposefully at your lowest point — that's when commitment crystallizes and the 'never again' story begins. |
+| resilience | 179 | Start documenting purposefully at your lowest point — that's when commitment crystallizes and the 'never again' story begins. |
 | skill-development | 2 | Like physical strength after industrialization, writing will persist only in those who choose to cultivate it, not those compelled by circumstance. |

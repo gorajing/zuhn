@@ -8,11 +8,11 @@
 - `INS-260410-BCFD` Chips, power, and even raw share of GDP spent on training all cap out around 2030 — after which progress depends entirely on algorithmic gains with diminishing low-hanging fruit.
 - `INS-260410-3075` A concrete scenario forces you to confront implementation details and surface crux disagreements that vague probability estimates let you skate past.
 - `INS-260410-42CB` On camera Nadella names '27, 28, 29' as the window for Microsoft to go from Majorana 1 to an integrated fault-tolerant quantum computer, a dramatic compression of the usual quantum timeline rhetoric.
+- `INS-260410-6A19` Goldman Sachs and every serious forecaster predicted China would dwarf the US by now — they were all wrong, just as they were wrong about Japan and the USSR before that.
 - `INS-260325-F0CE` Philip Tetlock's research shows expert financial forecasts are no better than average person predictions, and no one predicted the major market-moving events of recent years.
 - `INS-260325-9F41` Wharton's Philip Tetlock found expert forecasts were no better than average guesses — nobody predicted the 2020 pandemic, 2021 Ukraine invasion, or 2022's 500bp rate hikes.
 - `INS-260404-4758` Prediction markets aggregate dispersed knowledge into price signals that react faster and more accurately than polls.
 - `INS-260404-5B6A` A Fed working paper found Kalshi's probability distributions for CPI and rate decisions outperform Bloomberg consensus and fed funds futures.
-- `INS-260410-6A19` Goldman Sachs and every serious forecaster predicted China would dwarf the US by now — they were all wrong, just as they were wrong about Japan and the USSR before that.
 - `INS-260321-B7CB` AI companies will be 'model busters' — growing faster and longer than any spreadsheet model predicts — just as iPhone caused consensus models to miss Apple's performance by 3x over four years despite being the most covered company in the world.
 - `INS-260405-5EB2` Peak-consensus forecasts of national rise historically coincide with the onset of structural decline.
 - `INS-260404-4BC4` Stacking AI disruption with geopolitical chaos creates compound uncertainty that no single-variable model can price.

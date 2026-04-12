@@ -49,11 +49,11 @@ stance: >-
   surfacing under ice) forces teams into more rigorous preparation and creative
   problem-solving than teams with readily available escape routes.
 related:
+  - INS-260412-0055
   - INS-260330-5B59
   - INS-260412-F465
   - INS-260410-7E29
   - INS-260330-BD3C
-  - INS-260323-A197
 evidence:
   - id: INS-260323-A197
     type: TRANSFERS_TO

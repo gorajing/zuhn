@@ -53,7 +53,7 @@ related:
   - INS-260412-E925
   - INS-260412-FEFA
   - INS-260412-6F4D
-  - INS-260412-2648
+  - INS-260412-0055
 ---
 ICAO regulations require every airport to maintain firefighting capability with a three-minute response time to the runway — whether the airport handles one flight a week or thousands. St Helena needs full CNS (communications, navigation, surveillance) systems, trained security staff, a dedicated meteorologist, maintenance crews, and HR/finance functions. The per-flight cost of this infrastructure is astronomical compared to a busy airport.
 

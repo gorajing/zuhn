@@ -57,9 +57,9 @@ stance: >-
 related:
   - INS-260323-D479
   - INS-260330-F488
+  - INS-260412-6318
   - INS-260323-CB47
   - PRI-260323-7749
-  - INS-260403-7E6A
 ---
 Paine raises the 'cornered animal' dynamic specifically in the context of nuclear weapons: once a regime concludes it is doomed, the distinction between losing with grace and losing with maximum damage collapses. Whatever remaining destructive capacity they hold becomes rational to deploy, because there's no downstream cost to the actor making the decision.
 

@@ -48,7 +48,7 @@ related:
   - INS-260329-8B33
   - INS-260329-F0DD
   - INS-260403-3291
+  - INS-260412-D787
   - INS-260325-E7D4
-  - INS-260329-E20C
 ---
 Hormozi's core claim is that AI skill acquisition follows a standard 20-hour proficiency curve, but adoption fails at hour zero because humans systematically overweight short-term costs (weekend of frustration) against long-term costs (being commoditized). The behavioral fix is mechanical: block a single weekend, tear the wrapper off, and force yourself to ship something end-to-end. The insight generalizes beyond AI — it's the same pattern for any skill whose compounding return only shows up after a painful initial investment. The practical test: if you can't name one agent workflow you built yourself in the last 90 days, you are still in hour zero.

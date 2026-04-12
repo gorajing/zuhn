@@ -56,12 +56,12 @@ related:
   - INS-260325-95EB
   - INS-260321-1A84
   - INS-260330-9863
-  - INS-260403-6428
   - INS-260403-0479
   - INS-260403-49CC
   - INS-260405-4EAA
   - INS-260404-86DE
   - INS-260404-AC7C
+  - PRI-260406-4E6C
 ---
 Graham draws a sharp distinction between Silicon Valley's optimism and naivety. Skeptics cite impostors like Theranos, but Silicon Valley investors actually weren't fooled by Theranos — journalists were. When measured by revenue outcomes, the optimistic evaluation framework outperforms the default dismissive one.
 

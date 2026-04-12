@@ -68,10 +68,11 @@ related:
   - INS-260323-E74E
   - INS-260404-3ABF
   - INS-260403-BD30
-  - INS-260403-4183
   - INS-260327-4313
   - INS-260330-E8CF
   - INS-260403-3AF9
+  - INS-260412-E828
+  - INS-260412-CFF6
 ---
 Only about one-third of final energy use in a modern economy comes from electricity — the rest (transport, high-temperature industrial heat, aviation, shipping) needs liquid or gaseous hydrocarbons. Handmer's Terraform Industries makes synthetic natural gas from sunlight and air, closing this gap. If synthetic fuels scale, the 'energy abundance' moat that China is building with solar becomes a total energy moat rather than just an electricity moat.
 

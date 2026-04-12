@@ -49,8 +49,8 @@ stance: >-
 related:
   - INS-260321-10FF
   - INS-260403-3A2C
+  - INS-260412-C6ED
   - PRI-260406-541E
   - INS-260330-1293
-  - INS-260410-CBF9
 ---
 Smith identifies a counterintuitive coalition: San Francisco's hardline progressives, who framed their agenda as equity and compassion, functionally allied with old-money property owners who wanted to prevent development. Anti-gentrification ideology provided the moral cover; existing homeowners provided the political muscle. The result was a city frozen in amber — beneficial to those already holding assets, devastating to newcomers and the working class. This pattern recurs in many domains: movements that claim to challenge power structures can become captured by or aligned with incumbent interests when their specific policy positions (block new construction, reduce enforcement) happen to serve those incumbents. The label 'progressive' masked what was functionally a conservative alliance preserving existing wealth and power distributions.

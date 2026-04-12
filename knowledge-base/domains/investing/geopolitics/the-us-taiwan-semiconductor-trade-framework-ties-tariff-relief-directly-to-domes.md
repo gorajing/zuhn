@@ -55,5 +55,6 @@ related:
   - INS-260403-44A6
   - PRI-260406-0EC6
   - INS-260403-8194
+  - INS-260412-C7FA
 ---
 The US-Taiwan framework announced in January 2026 lowers broad tariffs on Taiwanese exports conditional on semiconductor investment being deployed into the US — $250B from private companies and $250B from the Taiwanese government. US Commerce Secretary Howard Lutnick explicitly stated the goal is to relocate 40% of Taiwan's supply chain and production to America during Trump's term. TSMC now has 4 Arizona fabs and is building the US's first advanced packaging facility there. This creates a new playbook: tariffs as a negotiating instrument tied to FDI commitments rather than simple import reduction. For investors, the implication is that semiconductor capex projections must now factor in geopolitical risk premiums and government co-investment structures that could accelerate or derail build timelines.

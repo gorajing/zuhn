@@ -65,6 +65,7 @@ related:
   - PRI-260406-834A
   - PRI-260328-99F0
   - PRI-260323-49F8
+  - INS-260412-B416
 ---
 The episode's central insight is that competitors can read every chapter of the Costco playbook and still fail to copy it, because the model is a tightly coupled system rather than a list of best practices. 3,800 SKUs is what makes 92% cross-docking possible (vs. Walmart's 10%). Cross-docking is what makes $730K revenue per employee possible. That labor efficiency is what makes industry-leading wages possible. Industry-leading wages are what makes 8%+ employee theft (industry norm) collapse to near zero. Low shrinkage is what allows the 11% gross margin to clear. Each piece relies on every other piece.
 

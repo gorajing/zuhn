@@ -47,11 +47,11 @@ stance: >-
   American aggression, and its dissolution makes the US more dangerous to
   rivals, not less.
 related:
+  - INS-260412-C876
   - INS-260330-4045
   - INS-260327-157B
   - INS-260327-994B
   - PRI-260328-37D8
-  - INS-260403-4B5A
 ---
 Noah Smith argues that Pax Americana was not just a projection of American power but a set of self-imposed constraints: the US accepted limitations on military force, eschewed territorial conquest, and treated smaller nations as equals in international bodies. Advocates of multipolarity — leftists, foreign rivals, and detractors — celebrated its decline as a diminution of American power.
 

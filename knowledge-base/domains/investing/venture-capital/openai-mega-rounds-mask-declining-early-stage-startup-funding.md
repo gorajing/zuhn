@@ -54,6 +54,7 @@ related:
   - INS-260403-968A
   - INS-260403-39B8
   - INS-260405-FCA9
+  - INS-260412-80AB
 ---
 Q1 2025 saw US startup funding hit $85.5B, nearly doubling previous periods. But this headline is almost entirely an artifact of OpenAI's record $40B round. Strip that out and the picture is bleak for early-stage founders — deal volume declined and capital concentrated further into late-stage AI companies.
 

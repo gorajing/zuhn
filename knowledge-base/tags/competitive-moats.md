@@ -29,6 +29,7 @@
 - `INS-260330-519D` Chinese and Indian phone makers built deep localization moats — dual SIM, regional language support, local payment integration — that Apple treats as afterthoughts.
 - `INS-260404-60F4` Photosynthesis was inefficient from the start but dominated because it created the oxygen-rich atmosphere that made alternatives even harder.
 - `INS-260330-BE78` Both debaters agree that conservative withdrawal from academia accelerated its leftward drift, illustrating how disengagement from institutions causes them to radicalize faster.
+- `INS-260412-A583` Submarines derive their strategic power not from firing missiles but from the impossibility of knowing where they are — forcing adversaries to defend against every possibility simultaneously.
 - `INS-260403-CD51` Instagram's replication of Snapchat's Stories feature—surpassing the original within a year—illustrates how incumbents with larger user bases can neutralize small-team innovation through rapid copying.
 - `INS-260330-ACCD` China's Greater Bay Area assigns each city a distinct role — Hong Kong as global finance gateway, Shenzhen as tech hub, Macau as entertainment, Guangzhou as administration — creating a composite competitor stronger than any single city.
 - `INS-260330-0294` Asymptotic network effects plateau in value quickly, making companies with this structure vulnerable to well-funded competitors who only need to match a fraction of the supply.

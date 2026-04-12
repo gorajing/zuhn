@@ -885,6 +885,7 @@ Generated on 2026-04-12 | 2417 sources
 | Robinhood CEO: Making Everyone An Owner | youtube | 5 | 2026-03-22 |
 | Rockefeller: The World’s First Billionaire | youtube | 5 | 2026-03-30 |
 | Rolex (Audio) | youtube | 5 | 2026-04-11 |
+| Russia's Geography Problem | youtube | 5 | 2026-04-12 |
 | Sam Altman: OpenAI CEO on GPT-4, ChatGPT, and the Future of AI | Lex Fridman Podcast #367 | youtube | 5 | 2026-03-24 |
 | Sam Altman: OpenAI, GPT-5, Sora, Board Saga, Elon Musk, Ilya, Power & AGI | Lex Fridman Podcast #419 | youtube | 5 | 2026-03-24 |
 | Sam Harris & Ben Shapiro Debate: Trump, Election Interference, & Foreign Policy | youtube | 5 | 2026-03-30 |
@@ -966,6 +967,7 @@ Generated on 2026-04-12 | 2417 sources
 | The Unicorn Hunter: The Craziest Billionaire EVER | youtube | 5 | 2026-03-30 |
 | The Untold Truth of Instagram - The INSANE Full Story | youtube | 5 | 2026-03-30 |
 | The World's Most Useful Airport [Documentary] | youtube | 5 | 2026-04-12 |
+| The World's Shortcut: How the Panama Canal Works | youtube | 5 | 2026-04-12 |
 | The Zipf Mystery | youtube | 5 | 2026-03-30 |
 | These are the asteroids to worry about | youtube | 5 | 2026-03-30 |
 | This Unstoppable Robot Could Save Your Life | youtube | 5 | 2026-03-30 |
@@ -992,7 +994,9 @@ Generated on 2026-04-12 | 2417 sources
 | Which Way Is Down? | youtube | 5 | 2026-03-30 |
 | Why AI is Failing: Ex-Google Chief Cassie Kozyrkov Debunks "AI-first" | youtube | 5 | 2026-03-23 |
 | Why AI Moats Still Matter (And How They've Changed) | youtube | 5 | 2026-03-22 |
+| Why China Is so Good at Building Railways | youtube | 5 | 2026-04-12 |
 | Why China's manufacturing economy is dominating — Arthur Kroeber | youtube | 5 | 2026-04-10 |
+| Why Chinese Manufacturing Wins | youtube | 5 | 2026-04-12 |
 | Why I don’t think AGI is right around the corner | youtube | 5 | 2026-04-10 |
 | Why In-N-Out Isn't Coming to a City Near You | youtube | 5 | 2026-03-30 |
 | Why It Was Almost Impossible to Make the Blue LED | youtube | 5 | 2026-03-30 |
@@ -1429,6 +1433,7 @@ Generated on 2026-04-12 | 2417 sources
 | Arm Yourself With Specific Knowledge | youtube | 4 | 2026-03-30 |
 | Asbestos is a bigger problem than we thought | youtube | 4 | 2026-03-23 |
 | Attacking America Is a Devastating Miscalculation – Sarah Paine | youtube | 4 | 2026-04-10 |
+| Australia's China Problem | youtube | 4 | 2026-04-12 |
 | Backspin Basketball Flies Off Dam | youtube | 4 | 2026-03-30 |
 | Bayer’s Bill Anderson: Turning a 168 Year-Old Tanker Like a Speedboat | youtube | 4 | 2026-03-26 |
 | Behind the scenes of a $20M Series A - Part 1 | youtube | 4 | 2026-03-22 |
@@ -1445,6 +1450,7 @@ Generated on 2026-04-12 | 2417 sources
 | Can You Swim in Shade Balls? | youtube | 4 | 2026-03-30 |
 | Chris Lattner: Future of Programming and AI | Lex Fridman Podcast #381 | youtube | 4 | 2026-03-24 |
 | Chris Voss: FBI Hostage Negotiator | Lex Fridman Podcast #364 | youtube | 4 | 2026-03-24 |
+| Cities at Sea: How Aircraft Carriers Work | youtube | 4 | 2026-04-12 |
 | Claude Code + Karpathy's Autoresearch = GOD MODE! | youtube | 4 | 2026-03-22 |
 | Co-Founder Mistakes That Kill Companies & How To Avoid Them | youtube | 4 | 2026-03-27 |
 | Computer & Technology Basics Course for Absolute Beginners | youtube | 4 | 2026-03-29 |
@@ -1525,6 +1531,7 @@ Generated on 2026-04-12 | 2417 sources
 | Kim Jong-Un's New Strategy: Explained | youtube | 4 | 2026-03-30 |
 | Learn to Sell, Learn to Build | youtube | 4 | 2026-03-30 |
 | Levels of Wealth: Inside The Secret Lives of The Ultra-Rich | youtube | 4 | 2026-03-30 |
+| Living Underwater: How Submarines Work | youtube | 4 | 2026-04-12 |
 | Making Money Isn't About Luck | youtube | 4 | 2026-03-30 |
 | Marc Andreessen: Future of the Internet, Technology, and AI | Lex Fridman Podcast #386 | youtube | 4 | 2026-03-24 |
 | Mark Cuban: Shark Tank, DEI & Wokeism Debate, Elon Musk, Politics & Drugs | Lex Fridman Podcast #422 | youtube | 4 | 2026-03-24 |
@@ -1593,6 +1600,7 @@ Generated on 2026-04-12 | 2417 sources
 | The Largest Black Hole in the Universe - Size Comparison | youtube | 4 | 2026-04-12 |
 | The Largest Star in the Universe – Size Comparison | youtube | 4 | 2026-04-12 |
 | The Limits of American Power – Sarah Paine | youtube | 4 | 2026-04-10 |
+| The Logistics of Living in Antarctica | youtube | 4 | 2026-04-12 |
 | The Man Who Fooled The World | youtube | 4 | 2026-03-23 |
 | The Most Controversial Idea in Biology | youtube | 4 | 2026-03-23 |
 | The Most Dangerous Stuff in the Universe - Strange Stars Explained | youtube | 4 | 2026-04-12 |
@@ -1607,6 +1615,7 @@ Generated on 2026-04-12 | 2417 sources
 | The Territorial Business of Tacos | youtube | 4 | 2026-03-24 |
 | The Tiny Donut That Proved We Still Don't Understand Magnetism | youtube | 4 | 2026-03-23 |
 | The Trillion Dollar Equation | youtube | 4 | 2026-03-23 |
+| The US President's $2,614 Per Minute Transport System | youtube | 4 | 2026-04-12 |
 | The Wild Economics of Online Gambling | youtube | 4 | 2026-03-24 |
 | The World War of the Ants – The Army Ant | youtube | 4 | 2026-04-12 |
 | The World's Most Important Machine | youtube | 4 | 2026-03-23 |
@@ -2391,9 +2400,7 @@ Generated on 2026-04-12 | 2417 sources
 | You Are Taking Creatine Wrong (here's how to fix it) | youtube | 1 | 2026-03-26 |
 | You Will Never Wear AirPods Again | youtube | 1 | 2026-03-26 |
 | You'll Never Eat Sardines Again | youtube | 1 | 2026-03-26 |
-| Australia's China Problem | youtube | 0 | 2026-04-12 |
 | China's Geography Problem | youtube | 0 | 2026-04-12 |
-| Cities at Sea: How Aircraft Carriers Work | youtube | 0 | 2026-04-12 |
 | Elon Musk's Basic Economics | youtube | 0 | 2026-04-12 |
 | Guam: Why America's Most Isolated Territory Exists | youtube | 0 | 2026-04-12 |
 | How Africa is Becoming China's China | youtube | 0 | 2026-04-12 |
@@ -2403,19 +2410,12 @@ Generated on 2026-04-12 | 2417 sources
 | How Overnight Shipping Works | youtube | 0 | 2026-04-12 |
 | How the US Government Will Survive Doomsday | youtube | 0 | 2026-04-12 |
 | How to Stop a Riot | youtube | 0 | 2026-04-12 |
-| Living Underwater: How Submarines Work | youtube | 0 | 2026-04-12 |
-| Russia's Geography Problem | youtube | 0 | 2026-04-12 |
 | The Economics of Airline Class | youtube | 0 | 2026-04-12 |
 | The Economics of Private Jets | youtube | 0 | 2026-04-12 |
 | The Insane Logistics of Formula 1 | youtube | 0 | 2026-04-12 |
-| The Logistics of Living in Antarctica | youtube | 0 | 2026-04-12 |
 | The Most Valuable Airspace in the World | youtube | 0 | 2026-04-12 |
 | The Plane Highway in the Sky | youtube | 0 | 2026-04-12 |
-| The US President's $2,614 Per Minute Transport System | youtube | 0 | 2026-04-12 |
-| The World's Shortcut: How the Panama Canal Works | youtube | 0 | 2026-04-12 |
 | What's Actually the Plane of the Future | youtube | 0 | 2026-04-12 |
-| Why China Is so Good at Building Railways | youtube | 0 | 2026-04-12 |
-| Why Chinese Manufacturing Wins | youtube | 0 | 2026-04-12 |
 | Why Flying is So Expensive | youtube | 0 | 2026-04-12 |
 | Why Planes Don't Fly Faster | youtube | 0 | 2026-04-12 |
 | Why the Northernmost Town in America Exists | youtube | 0 | 2026-04-12 |

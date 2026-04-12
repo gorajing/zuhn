@@ -58,9 +58,9 @@ related:
   - INS-260330-1FED
   - INS-260403-7DEC
   - INS-260410-FECA
+  - INS-260412-9351
   - INS-260410-F856
   - INS-260412-9805
-  - INS-260403-5D89
 ---
 Before the Lakeshore deal, Cleveland's many small refiners each negotiated their own shipping rates with railroads. Standard went further: it aggregated volume across the city (including, later, a deal to ship rivals' barrels through Standard) and offered railroads something qualitatively new — enough guaranteed volume that railroads could run dedicated, non-stop oil trains instead of slow mixed freight. That operational efficiency let railroads cut Standard's rate by a margin that no smaller refiner could match from their own volume alone. The discount wasn't just a favor — it was structurally unavailable to competitors.
 

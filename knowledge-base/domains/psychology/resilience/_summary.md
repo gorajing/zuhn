@@ -1,6 +1,6 @@
 # Topic: resilience
 
-> 178 insights
+> 179 insights
 
 - `INS-260325-DF82` [very_high] Events are not traumatic — they are potentially traumatic — because the same event produces resilience in most people and lasting harm in a minority, meaning trauma is in the response, not the event.
 - `INS-260327-48BA` [high] Most suffering about change comes from resisting it rather than from the change itself - accepting impermanence eliminates the anxiety of trying to freeze what cannot be frozen.
@@ -132,6 +132,7 @@
 - `INS-260329-93AE` [high] Stop treating goal-setting as a strategy — focus instead on committing to the daily activities that produce goals, since everyone already shares the same goals.
 - `INS-260329-D3F6` [medium] Stop-doing lists require less activation energy than start-doing lists, making them more effective for rapid change.
 - `INS-260327-015B` [medium] Rosolie faces genuine mortal danger regularly from poachers, animals, and the jungle itself - and reports a depth of meaning that safe career optimization cannot provide.
+- `INS-260412-FEE1` [medium] Antarctic winter crews are more isolated than ISS astronauts—seven months with zero possibility of external support, requiring total pre-commitment of resources and personnel.
 - `INS-260412-DABC` [medium] The impossibility of permanent failure in a finite existence removes the rational basis for paralyzing fear.
 - `INS-260327-37C8` [medium] Thompson's self-destruction wasn't separate from his creativity - it was the cost of trying to maintain authenticity while the world demanded he become a product.
 - `INS-260329-F04B` [medium] Expanding the time between effort and reward is a trainable cognitive skill that correlates with intelligence and long-term success.

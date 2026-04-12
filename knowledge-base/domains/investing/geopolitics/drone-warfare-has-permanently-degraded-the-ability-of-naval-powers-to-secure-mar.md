@@ -48,12 +48,11 @@ stance: >-
   maritime chokepoints, meaning oil supply disruptions will become more frequent
   and severe than historical patterns suggest.
 related:
-  - INS-260327-A592
-  - INS-260403-2F24
+  - INS-260412-E828
   - INS-260410-2AEE
+  - INS-260412-2488
+  - INS-260412-69E5
   - INS-260403-FAAF
-  - INS-260327-98B1
-  - INS-260410-38AA
 ---
 The Houthi closure of the Red Sea and Iranian closure of the Strait of Hormuz demonstrate a structural shift in military technology. Cheap, mass-produced drones allow relatively weak land powers to threaten maritime commerce through key chokepoints, and even the US military has proven unable to effectively counter these fleets.
 

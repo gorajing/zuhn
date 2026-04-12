@@ -66,7 +66,6 @@ stance: >-
   and training them in-house produces better cultural coherence than hiring
   experienced industry veterans.
 related:
-  - INS-260322-0D87
   - INS-260329-62C1
   - INS-260405-89E7
   - INS-260410-2952

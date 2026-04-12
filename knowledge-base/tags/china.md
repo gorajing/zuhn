@@ -10,13 +10,14 @@
 - `INS-260410-991B` China places AGI under its cybersecurity apparatus and requires every major AI lab to have a team that can 'pull the plug' because Party control is a higher priority than racing to AGI.
 - `INS-260410-101D` China adds a France-or-UK-sized power grid every year; their strategic bet on cheap abundant electricity positions them to deploy more AI than anyone once the model matters less than how many you can run.
 - `INS-260404-83C6` DeepSeek proved frontier AI can emerge from a hedge fund side project in China, not just from billion-dollar Western labs.
-- `INS-260409-F485` Napier's emerging-market heuristic: avoid countries where trading rights are not guaranteed, constitutions are weak, or exchange rates are overvalued — operationalized as 'don't invest where you wouldn't live after retirement.'
 - `INS-260410-4357` At scale, effectiveness of achieving outcomes matters more than efficiency of resource use — the 'waste' in China's growth was the mechanism that produced the growth.
 - `INS-260410-6A19` Goldman Sachs and every serious forecaster predicted China would dwarf the US by now — they were all wrong, just as they were wrong about Japan and the USSR before that.
+- `INS-260412-7811` China's manufacturing success created a middle class whose higher wage demands now erode the cost advantage that built it.
 - `INS-260405-B6CB` China's post-2008 infrastructure investment produced not just recovery but a transportation, energy, and digital backbone that now underpins its manufacturing dominance.
 - `INS-260410-731D` China's banking system lets strategic-sector companies borrow on the promise of producing units, not profits — which produces world-leading manufacturing capacity alongside massive capital destruction.
 - `INS-260410-147B` China built a magnificent production machine but no demand machine — the result is deflation, shrinking pricing power, and growth below potential even as tech capacity soars.
 - `INS-260412-839B` China's recycling ban proved that private-sector profitability masking national-level losses is an unstable equilibrium that regulators eventually correct.
+- `INS-260409-F485` Napier's emerging-market heuristic: avoid countries where trading rights are not guaranteed, constitutions are weak, or exchange rates are overvalued — operationalized as 'don't invest where you wouldn't live after retirement.'
 - `INS-260410-5D08` Innovation ecosystems depend on risk-tolerant investors; one arbitrary crackdown — or even the credible threat of one — can wreck the whole stack for a decade.
 - `INS-260410-3880` Moonshot AI raised $1B at a $3B valuation while xAI's Memphis cluster alone costs $3-4B — Chinese frontier labs are funding-starved by Western standards.
 - `INS-260405-484F` Clawback mechanisms that reach founders' personal assets convert entrepreneurship from bounded-downside to unlimited-downside, chilling risk-taking.
@@ -46,9 +47,11 @@
 - `INS-260405-5EB2` Peak-consensus forecasts of national rise historically coincide with the onset of structural decline.
 - `INS-260410-D1A4` Continental empires like Russia and China survive by systematically destabilizing neighbors sequentially rather than forming lasting alliances, because no great power wants another great power on its border.
 - `INS-260404-5A02` Chamath's decision to skip China's boom entirely due to cultural unfamiliarity — while engaging with India — illustrates how cultural accessibility shapes capital allocation more than pure economic fundamentals.
+- `INS-260412-5291` China's currency pegging made western companies' dollars buy more Chinese labor and goods, functioning as an invisible export subsidy.
 - `INS-260323-11FF` Chinese deference to authority is a thousands-year-old implicit contract — stability, security, and prosperity in exchange for some deference — not the blind submission Western observers assume.
 - `INS-260330-DA38` Demographic shifts happen so slowly that they're ignored until retirement waves hit, then consequences cascade rapidly.
 - `INS-260330-6C3D` A country's population age structure today reveals its economic reality 20-30 years from now with surprising accuracy.
+- `INS-260412-C7FA` Extreme trade concentration with a single partner converts economic ties into a political leash.
 - `INS-260323-748A` State-sponsored espionage concentrates on technologies where incumbents hold multi-decade monopolies, particularly jet engines and aerospace — the harder something is to replicate independently, the higher its espionage value.
 - `INS-260405-8F5D` Granting a rival access to your market can fund their industrial buildup rather than moderate their regime — the WTO-China case is the canonical example.
 - `INS-260323-DA6F` China's growth has historically been reform-driven: every major reform produced a decade of strong growth, and the current slowdown correlates directly with the slowing pace of reform over the past 15 years.
@@ -57,6 +60,7 @@
 - `INS-260323-59FE` Becoming a hegemonic power requires other nations to voluntarily follow — China lacks this despite economic scale because it demands compliance without offering public goods or making sacrifices.
 - `INS-260321-A3A1` IMEC (India-Middle East-Europe Economic Corridor) is a US-backed logistics highway routing goods from India through UAE, Saudi Arabia, and Israel to Europe — designed to completely bypass China's Belt and Road Initiative.
 - `INS-260410-D316` China won on the base layers — ubiquitous internet (1990s bet) and massive cheap electricity (2000s bet) — which then compounded into every downstream industry including AI.
+- `INS-260412-C6ED` China built money-losing rail lines to Xinjiang and Tibet explicitly to integrate separatist regions, prioritizing political unity over financial returns.
 - `INS-260330-0FCE` Physical infrastructure creates economic interdependency that gradually makes political separation impractical, serving as a subtler tool of control than direct legislation.
 - `INS-260330-C477` China's shrinking working-age population must support a rapidly growing elderly cohort, creating a structural drag on GDP growth that compounds over decades.
 - `INS-260410-7F35` The regime can starve its people, kill its people, and destroy its own state capacity — it will still survive as long as citizens have nowhere else to go and no alternative to organize around.

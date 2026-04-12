@@ -57,6 +57,7 @@ related:
   - INS-260405-7DC3
   - INS-260405-10DF
   - INS-260403-D227
+  - INS-260412-7262
 ---
 A study by Aldasoro et al. across the EU found that AI adoption causally increases labor productivity by 4% while showing no evidence of employment reduction. The mechanism appears to be capital deepening — AI augments worker output by enabling faster task completion and better decisions without displacing labor. This mirrors historical technology waves where complementarity dominated substitution.
 

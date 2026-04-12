@@ -1,6 +1,6 @@
 # Topic: organizational-design
 
-> 19 insights
+> 20 insights
 
 - `INS-260405-0271` [high] Innovation and execution are fundamentally different activities that require different investment mechanisms, success metrics, and decision frameworks.
 - `INS-260410-17AE` [high] Visa's 'reverse holding company' — a for-profit, non-stock membership corporation with non-transferable participation rights — made member banks structurally unable to sell, exit, or run competing networks.
@@ -14,6 +14,7 @@
 - `INS-260410-E3FB` [high] Bezos mandated all teams expose data only via service interfaces, with firing as the penalty, because process and coordination collapse under Metcalfe's law as org size grows.
 - `INS-260410-DB84` [high] Dismantle comp structures that pay people for outcomes you'd regret — expect attrition, and treat that attrition as a feature.
 - `INS-260410-C4BB` [high] Kelly Johnson built the first US jet fighter in 143 days with 23 engineers and 30 shop workers in a literal circus tent, codifying it as Skunk Works Rule 3: restrict team size in an almost vicious manner.
+- `INS-260412-E2BF` [medium] Aircraft carrier flight decks use color-coded shirts so anyone can instantly identify who does what — a coordination mechanism that scales without verbal communication.
 - `INS-260410-EA73` [medium] Benchmark's partners explicitly reject words like 'institution' and 'franchise' because their job is killing incumbents, so they've built a culture where every partner who has ever left fired themselves before peer pressure had to.
 - `INS-260410-E590` [medium] NVIDIA has 40+ direct reports to Huang because the company is architected like a computing stack — with people managing each layer — not like a military command hierarchy.
 - `INS-260405-346A` [medium] Org structure is fundamentally a filter—it determines which conflicts are visible to leadership and which are suppressed before surfacing.

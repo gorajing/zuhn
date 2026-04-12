@@ -48,7 +48,6 @@ stance: >-
   least 50 distinct epistemic signals including scope, certainty,
   falsifiability, and applicability.
 related:
-  - INS-260330-D511
   - INS-260403-280B
   - PRI-260403-EA13
   - PRI-260406-FA5B

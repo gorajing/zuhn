@@ -7,6 +7,7 @@
 - `INS-260323-B40C` States pursue power not because they are inherently aggressive but because the anarchic structure of international politics leaves them no alternative for survival.
 - `INS-260405-1101` Britain in 1870-1914 produced more in absolute terms at war's outbreak than in 1870, yet felt weaker because America and Germany had grown faster — the lesson applies to any competitive system.
 - `INS-260403-AE5B` In leadership communication, fewer words carry more weight because they signal resolved thinking.
+- `INS-260412-3BC3` Australia-China trade is nominally mutual but functionally one-directional because severance pain is radically asymmetric.
 - `INS-260330-3528` English profanity largely descends from lower-class Saxon vocabulary that was stigmatized when Norman French speakers held social power.
 - `INS-260410-EBDC` Mao's Red Guards worked because telling teenagers with no life experience that they were in charge was incredibly empowering — and they started by killing the teachers who had given them hard grades.
 - `INS-260403-7644` Organizations that win by exercising power gradually lose the ability to win by doing better work.

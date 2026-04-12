@@ -1,8 +1,8 @@
 # Tag: career
 
 - `INS-260322-116B` When AI can perform any technical task, employers hire for trustworthiness and genuine care — the qualities visible in someone's eyes, not their resume.
-- `INS-260405-B22F` VC is a credentials-gated industry where unconventional entrants must manufacture access through deal sourcing, publishing, or operator relationships rather than waiting for invitation.
 - `INS-260403-D64B` Forcing yourself to always produce something pushes you away from what you think you should work on and toward what you actually like.
+- `INS-260405-B22F` VC is a credentials-gated industry where unconventional entrants must manufacture access through deal sourcing, publishing, or operator relationships rather than waiting for invitation.
 - `INS-260330-8FC5` Pick your city first because jobs, partners, friends, and opportunities are downstream of geographic network proximity.
 - `INS-260410-2CBC` People who over-plan their careers unconsciously filter for signals that confirm the plan and dismiss unrelated opportunities, which is exactly how the biggest opportunities get missed.
 - `INS-260403-83E2` Once you're established, you lose the freedom to mess around with random projects — and that freedom was the source of your best ideas.

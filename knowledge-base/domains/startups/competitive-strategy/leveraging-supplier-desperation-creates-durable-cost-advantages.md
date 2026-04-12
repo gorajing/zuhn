@@ -53,9 +53,9 @@ stance: >-
 related:
   - INS-260410-DF92
   - INS-260330-E4B6
+  - INS-260412-9351
   - PRI-260406-487A
   - INS-260403-7DEC
-  - INS-260409-571B
 ---
 Rockefeller's most powerful competitive weapon wasn't his product — it was his cost structure. When the Pennsylvania Railroad abandoned Cleveland, the remaining railroads (Erie and New York Central) desperately needed business. Rockefeller exploited this desperation to negotiate 50-75% discounts on shipping rates that competitors never knew about. This created an invisible structural advantage: he could trigger price wars knowing his competitors were paying 2-4x more for transportation on the same trains.
 

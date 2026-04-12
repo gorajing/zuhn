@@ -56,6 +56,7 @@ related:
   - PRI-260328-0E23
   - INS-260322-3833
   - INS-260330-DCE1
+  - INS-260412-CD24
 ---
 The video identifies Mercury as the optimal target for planetary disassembly based on multiple reinforcing advantages: it's metal-rich (providing raw materials), close to the Sun (reducing transport costs and maximizing solar energy), has low surface gravity (one-third of Earth's, making launches cheaper), and has no atmosphere (eliminating drag losses). These aren't independent benefits — they compound. Proximity to the Sun means both more energy for mining AND shorter delivery distances for solar collectors.
 

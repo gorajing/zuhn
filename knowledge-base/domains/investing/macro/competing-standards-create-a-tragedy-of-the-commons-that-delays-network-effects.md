@@ -56,7 +56,7 @@ related:
   - INS-260325-5CB1
   - INS-260330-3D0D
   - INS-260322-E734
-  - INS-260403-8011
+  - INS-260412-4499
 ---
 The US EV charging landscape mirrors the 1880s AC/DC current war: Tesla's proprietary plug, CCS, CHAdeMO, and J-1772 create four incompatible standards in a single city. Each network's stations are effectively invisible to vehicles on other standards, meaning the real charger density for any given driver is a fraction of the total installed base. Europe solved this by mandating CCS via EU directive, which forced Tesla to retrofit all Superchargers with CCS plugs and doubled effective charger density relative to the US despite similar EV ownership rates.
 

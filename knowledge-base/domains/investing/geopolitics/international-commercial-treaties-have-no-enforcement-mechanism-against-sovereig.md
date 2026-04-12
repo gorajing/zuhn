@@ -61,9 +61,9 @@ stance: >-
 related:
   - INS-260403-5440
   - INS-260412-22E3
+  - INS-260412-C876
   - INS-260403-8C92
   - PRI-260328-37D8
-  - INS-260330-B6AD
 ---
 The Cape Town Convention was specifically designed to solve the problem of cross-border aircraft leasing — ensuring that lessors could repossess aircraft regardless of which country they were physically located in. Russia was a signatory. But when facing the loss of the majority of its civil aviation fleet, Putin simply signed a law allowing Russian airlines to re-register foreign-leased aircraft as their own property. The treaty had no enforcement mechanism beyond the signatories' continued willingness to participate.
 

@@ -1,11 +1,11 @@
 # Tag: interest-rates
 
+- `INS-260411-EAE4` Dimon identifies stagflation as the 'skunk at the party' — inflation slowly rising while growth slows, a scenario markets are not positioned for.
+- `INS-260405-AB6B` The SRF caps rates by providing unlimited cash against collateral; the RRP floors rates by offering a guaranteed return that crowds out sub-Fed-rate private lending.
 - `INS-260403-988C` Banks that chased yield in long-duration bonds during zero-rate years faced catastrophic unrealized losses when the Fed hiked aggressively, triggering depositor runs.
 - `INS-260402-D7C7` The end of zero interest rates forces a binary sort of companies into those with real unit economics and those that were subsidized by cheap money.
 - `INS-260403-4093` Programmatic hourly auctions replace opaque bank negotiations for setting credit market interest rates.
 - `INS-260327-226A` Many companies haven't been profitable in years and survived by continuously refinancing cheap debt - rising rates are exposing them all simultaneously.
-- `INS-260411-EAE4` Dimon identifies stagflation as the 'skunk at the party' — inflation slowly rising while growth slows, a scenario markets are not positioned for.
-- `INS-260405-AB6B` The SRF caps rates by providing unlimited cash against collateral; the RRP floors rates by offering a guaranteed return that crowds out sub-Fed-rate private lending.
 - `INS-260403-F732` Rising rates shake out weak competitors, concentrate talent, and force the survivors to build sustainably profitable businesses.
 - `INS-260403-E33B` A decade of zero rates inflated all VC returns uniformly, hiding which funds had real skill versus which were riding macro tailwinds.
 - `INS-260402-36DE` Massive fiscal deficits and shrinking buyer base for Treasuries mean Fed rate cuts no longer reliably lower long-term yields.

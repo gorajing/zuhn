@@ -1,7 +1,7 @@
 # Tag: self-regulation
 
-- `INS-260403-2BAD` Neurofeedback uses real-time brainwave monitoring with reward signals to train the brain toward calmer, more focused configurations.
 - `INS-260412-0B35` Neutrophils commit suicide after five days and immune cells die without ongoing signals, preventing the defense system from destroying what it protects.
+- `INS-260403-2BAD` Neurofeedback uses real-time brainwave monitoring with reward signals to train the brain toward calmer, more focused configurations.
 - `INS-260403-C512` Rules-based approaches to distraction fail because the addictive part of your brain finds plausible exceptions; adversarial design works better.
 - `INS-260412-2220` Hypertumors — cancers that parasitize other cancers — show that selfish dynamics within a harmful system can cause it to self-destruct without outside intervention.
 - `INS-260403-D463` How someone behaves when only self-enforcement exists reveals far more about their character than behavior under external enforcement.

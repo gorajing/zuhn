@@ -1,8 +1,8 @@
 # Tag: cultural-evolution
 
 - `INS-260410-439D` AI could be a super-collective-brain (billions of copies, perfect transmission, infinite bandwidth) but Henrich worries that the things driving real innovation — serendipity, improper copying, environmental shocks — get smoothed away by high-fidelity homogeneity.
-- `INS-260330-F8B6` The same culture can move from celebrating lynchings to prosecuting war crimes within generations, proving moral progress is real but unevenly distributed.
 - `INS-260403-A22E` It took roughly 100 years for society to develop customs against cigarettes, but new addictive technologies now emerge every few years.
+- `INS-260330-F8B6` The same culture can move from celebrating lynchings to prosecuting war crimes within generations, proving moral progress is real but unevenly distributed.
 - `INS-260330-DBB3` The evolution from literal sacrifice to metaphorical sacrifice maps the transition from behavioral enactment to abstract conceptual thought in human cognition.
 - `INS-260410-7FA4` Vaccination and scurvy's cure took centuries to discover despite killing millions, showing that intrinsic problem difficulty, not weak motivation, is often the binding constraint.
 - `INS-260403-EE2C` We judge early ambitious work too harshly because our species never developed customs for evaluating things that don't exist yet.

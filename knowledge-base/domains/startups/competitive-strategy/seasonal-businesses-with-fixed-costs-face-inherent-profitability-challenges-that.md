@@ -42,9 +42,9 @@ stance: >-
 related:
   - INS-260327-D5F0
   - INS-260329-C474
+  - INS-260412-0055
   - INS-260329-4161
   - INS-260324-B0D3
-  - INS-260404-B086
 ---
 Ice cream shops face the structural challenge that demand is seasonal but rent, equipment, and staff costs are year-round, creating an inherent profitability gap during off-peak months.
 

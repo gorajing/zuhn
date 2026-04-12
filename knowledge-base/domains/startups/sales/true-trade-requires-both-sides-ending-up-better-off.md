@@ -45,11 +45,11 @@ stance: >-
   If your customer doesn't receive meaningful value from the transaction, you're
   not actually engaging in trade regardless of whether you collected payment.
 related:
+  - INS-260412-3BC3
   - INS-260329-59D2
   - INS-260329-DFDD
   - INS-260323-1CA4
   - INS-260410-C688
-  - INS-260323-8271
 evidence:
   - id: INS-260329-DFDD
     type: TRANSFERS_TO

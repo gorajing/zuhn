@@ -27,15 +27,15 @@
 - `INS-260405-D3D7` You cannot use a biased yardstick to measure whether the selection was biased.
 - `INS-260410-2623` In censored societies, the binding constraint isn't private information — it's the inability to coordinate on what 'everyone knows everyone knows.'
 
+- `INS-260410-D31B` Paine, a Naval War College historian, explicitly endorses counterfactual replay as the primary pedagogical method — 'we teach by counterfactuals' — against commenters who mock the framing as naive.
+- `INS-260405-6E4F` Better inputs compound into better judgment — information diet is a leverage point most people underinvest in.
+- `INS-260410-260E` The missionary-children Foreign Service officers correctly called the Chinese Civil War hopeless in 1945-46 based on ground truth, were purged by McCarthy for being right, and their fate illustrates both the value and the cost of honest net assessment.
+- `INS-260410-0857` Travel's epistemic value is in surfacing new questions about home, not in producing reliable answers about the destination.
 - `INS-260405-AF1E` History's biggest paradigm shifts — heliocentrism, evolution, selfish gene — all share a single move: removing humans from the center of the story.
 - `INS-260405-75AC` Staten Island Chuck's 85% accuracy dissolves once you notice he predicts early spring 25 out of 31 times—he's a broken clock in a town where spring usually comes early
 - `INS-260330-790F` Imperfect institutions that can self-correct beat unaccountable personalities who never correct errors.
 - `INS-260405-8732` Conformists can't imagine true-but-dangerous ideas because their own views are always safe to express.
 - `INS-260403-33E2` Humans suppress guessing primarily because the social cost of being wrong far outweighs the marginal expected value of occasionally being right.
-- `INS-260410-D31B` Paine, a Naval War College historian, explicitly endorses counterfactual replay as the primary pedagogical method — 'we teach by counterfactuals' — against commenters who mock the framing as naive.
-- `INS-260405-6E4F` Better inputs compound into better judgment — information diet is a leverage point most people underinvest in.
-- `INS-260410-260E` The missionary-children Foreign Service officers correctly called the Chinese Civil War hopeless in 1945-46 based on ground truth, were purged by McCarthy for being right, and their fate illustrates both the value and the cost of honest net assessment.
-- `INS-260410-0857` Travel's epistemic value is in surfacing new questions about home, not in producing reliable answers about the destination.
 - `INS-260409-40AF` A theory validated in one regime cannot be assumed to hold in a new one — each new regime demands fresh measurement.
 - `INS-260409-005E` Predictive competence and interpretive understanding are separable capabilities — prediction can run far ahead of intuition.
 - `INS-260327-57CE` The entity that controls how AI presents information to billions of people controls what those people believe is true - a concentration of epistemic power unprecedented in history.

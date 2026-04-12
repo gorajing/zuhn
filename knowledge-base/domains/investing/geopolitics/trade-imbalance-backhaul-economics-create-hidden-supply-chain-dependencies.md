@@ -56,6 +56,7 @@ related:
   - INS-260403-7779
   - INS-260412-2948
   - INS-260412-839B
+  - INS-260412-C668
 ---
 Because America buys far more from China than it sells, container ships return to China nearly empty, making eastbound trans-Pacific shipping rates a fraction of westbound rates. This backhaul economics made it viable to ship essentially zero-value MRF Residual Bales 8,000 miles across the Pacific.
 

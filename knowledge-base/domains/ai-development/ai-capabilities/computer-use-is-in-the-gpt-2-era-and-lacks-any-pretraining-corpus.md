@@ -61,6 +61,7 @@ related:
   - PRI-260328-7007
   - INS-260321-E4EB
   - INS-260410-CB70
+  - INS-260412-4773
 ---
 Dwarkesh pushes back on the Anthropic forecast that reliable computer-use agents (e.g., 'go do my taxes end-to-end') arrive by end of 2026. His three reasons: (1) As horizon lengths grow, rollouts must become longer — the agent has to do two hours of work before you can evaluate it, and computer use is already more compute-intensive because of image/video processing; (2) There is no large pretraining corpus of multimodal computer-use data, which is the main thing that cracked NLP — Mechanize's quote frames it as trying to train GPT-4 on only the text available in 1980; (3) Even 'simple in retrospect' algorithmic advances like R1-style RL on verifiable problems took 2 full years from GPT-4 to o1, so the much gnarlier problem of computer use should take longer.
 

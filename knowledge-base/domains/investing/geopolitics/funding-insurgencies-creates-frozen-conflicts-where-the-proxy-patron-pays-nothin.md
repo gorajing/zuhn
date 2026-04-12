@@ -67,12 +67,12 @@ related:
   - INS-260323-F282
   - INS-260327-4D1F
   - INS-260327-A675
-  - INS-260327-C4AD
   - INS-260330-570F
   - INS-260330-4088
   - INS-260403-EC66
   - INS-260330-440E
   - INS-260404-8CEE
+  - INS-260403-91DB
 ---
 Paine walks through the insurgency-funding playbook as practiced by the US, USSR, China, India, and Pakistan — all of whom have done it. The logic is simple and amoral: if a rival has a restive minority, fund the insurgency. The rival now has to spend military and political attention there, which means they can't do things elsewhere that might matter to you. China funded the Naxalites, Mizo, Manipuri, and Naga insurgencies in India from 1962 to 1979. Pakistan funded Kashmiri insurgents. India allegedly funded Baloch and Pashtun insurgencies. The US funded Tibetans, Afghan mujahideen, and more.
 

@@ -60,6 +60,9 @@ related:
   - INS-260412-907D
   - INS-260412-3382
   - INS-260412-F401
+  - INS-260412-C668
+  - INS-260412-80AB
+  - INS-260412-3EBB
 ---
 Ocean shipping is a system designed around perfection — standardized containers, economies of scale, five major US Pacific ports handling 40% of imports. When demand exceeded capacity by roughly 25%, the degradation was exponential: slower container pickups meant fewer available trucks, which meant terminal congestion, which meant longer ship wait times (17 days at anchor for Maersk Essex), which meant reduced effective fleet capacity, which meant empty containers couldn't return to Asia, which drove up costs and pushed shippers to send goods earlier — further increasing demand.
 

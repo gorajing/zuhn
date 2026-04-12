@@ -48,6 +48,7 @@ related:
   - INS-260410-11F3
   - INS-260405-5113
   - INS-260403-8E0C
+  - INS-260412-C6ED
 stance: Saudi Arabia and Israel were sworn enemies for decades
 evidence:
   - id: INS-260330-9575

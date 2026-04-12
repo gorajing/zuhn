@@ -42,10 +42,10 @@ stance: >-
   put them in.
 related:
   - INS-260330-03F7
+  - INS-260412-CFF6
   - INS-260412-A747
   - INS-260323-257D
   - INS-260410-9425
-  - INS-260412-FD9A
 evidence:
   - id: INS-260330-03F7
     type: TRANSFERS_TO

@@ -51,10 +51,10 @@ stance: >-
   because it creates economic dependency that makes separation impractical.
 related:
   - PRI-260324-3AAE
+  - INS-260412-C7FA
   - PRI-260406-6C43
+  - INS-260412-C6ED
   - INS-260403-CFBD
-  - PRI-260406-0EC6
-  - PRI-260406-6DBE
 evidence:
   - id: INS-260322-5D22
     type: TRANSFERS_TO

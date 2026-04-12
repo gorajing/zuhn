@@ -61,6 +61,7 @@ related:
   - PRI-260406-0EC6
   - INS-260325-A19C
   - PRI-260321-5BF1
+  - INS-260412-CD24
 ---
 The Nexperia seizure reveals a cascading supply chain crisis: multiple German automakers depend on Nexperia's power management and battery control chips for EV production, and the European Automobile Manufacturers' Association expressed 'deep concern' about potential manufacturing disruption. Simultaneously, China is tightening rare earth exports while the U.S. escalates tariffs.
 

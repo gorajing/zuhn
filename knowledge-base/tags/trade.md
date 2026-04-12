@@ -1,5 +1,6 @@
 # Tag: trade
 
+- `INS-260412-52B9` No landlocked country ranks among the world's 18 largest economies because maritime shipping remains the cheapest long-distance trade method.
 - `INS-260412-3382` Pre-pandemic shipping cost of ~$1,000 per 20-foot container from Asia to the US means transporting a single shoebox 8,000 miles cost about 30 cents — less than a chicken nugget.
 - `INS-260405-F6E6` America's $32B agricultural trade deficit in 2024 signals a structural shift after decades as a net food exporter.
 - `INS-260330-B559` Germany and Japan chose land conquest over trade to solve food insecurity, and both were destroyed — trade integration consistently outperforms autarky.

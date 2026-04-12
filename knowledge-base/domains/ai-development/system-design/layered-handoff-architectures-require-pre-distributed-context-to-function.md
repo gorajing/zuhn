@@ -51,9 +51,9 @@ stance: >-
 related:
   - INS-260412-A747
   - INS-260412-E5CC
+  - INS-260412-E2BF
   - INS-260412-0F9A
   - INS-260330-A370
-  - INS-260405-CADE
 ---
 A single one-hour Heathrow-to-Frankfurt flight passes through 12+ controllers across ground, tower, terminal, area, and sector layers. This only works because Eurocontrol's network manager pre-distributes the flight plan to every control center the aircraft will traverse — each controller knows the aircraft's planned entry point, exit point, and altitude before it arrives in their sector.
 

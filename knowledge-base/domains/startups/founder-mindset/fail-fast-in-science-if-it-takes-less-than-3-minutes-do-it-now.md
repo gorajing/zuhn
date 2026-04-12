@@ -46,10 +46,11 @@ stance: >-
   teaches more than careful planning.
 related:
   - INS-260320-47DC
-  - INS-260323-42A7
   - INS-260323-19A8
+  - INS-260323-42A7
   - INS-260329-9115
   - PRI-260328-4810
+  - INS-260412-D787
 evidence:
   - id: INS-260329-9115
     type: CHALLENGES

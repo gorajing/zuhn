@@ -57,7 +57,6 @@ stance: >-
   pyramid.
 related:
   - INS-260330-0BD3
-  - INS-260410-5474
   - INS-260330-956E
   - PRI-260406-F21A
   - INS-260322-3159

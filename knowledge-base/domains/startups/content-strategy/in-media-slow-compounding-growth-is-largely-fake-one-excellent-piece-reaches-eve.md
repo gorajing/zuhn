@@ -70,6 +70,7 @@ related:
   - PRI-260409-0156
   - PRI-260328-0C86
   - PRI-260406-311D
+  - INS-260412-4773
 ---
 Dwarkesh's central counter-intuitive claim about media: the 'three years of 1,000 followers slowly turning into 100,000' story is largely fake. His evidence: a famous blogger told him he discovers a genuinely new undiscovered writer maybe once a year, and from discovery to 'rest of the world knows them' is about a week. Leopold's Situational Awareness essay wasn't backed by years of audience building — it was just very good, and within a day it was 'stapled to the wall' on Twitter and everyone who mattered was discussing it. The real flywheel for Dwarkesh wasn't followers accumulating; it was that he kept getting better at the craft, which eventually unlocked access to a network of researchers whose ideas then fed back into future episodes.
 

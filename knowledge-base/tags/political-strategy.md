@@ -1,5 +1,6 @@
 # Tag: political-strategy
 
+- `INS-260412-C6ED` China built money-losing rail lines to Xinjiang and Tibet explicitly to integrate separatist regions, prioritizing political unity over financial returns.
 - `INS-260330-0FCE` Physical infrastructure creates economic interdependency that gradually makes political separation impractical, serving as a subtler tool of control than direct legislation.
 - `INS-260403-CCA3` Movements that rely on outgroup fear for energy must rotate targets, which alienates each targeted group permanently and shrinks the coalition over time.
 - `INS-260403-1D41` Demanding public loyalty oaths from sympathetic insiders converts them from effective advocates into impotent outsiders.

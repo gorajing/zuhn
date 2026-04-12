@@ -32,6 +32,7 @@
 - `INS-260323-E81D` Holocaust survivor Maior Meyer's observation: for a dominant group to dehumanize another, they must first dehumanize themselves — and technology accelerates this by inserting screens between killer and killed.
 - `INS-260330-8F72` Chinese dynastic history reveals a recurring cycle of institutional vigor → consolidation → complacency → collapse that maps onto corporate and political institutions today.
 - `INS-260321-10FF` Saudi Arabia and Israel were sworn enemies for decades. Now they're aligning because both want to be core hub stations on IMEC. When economic interests change, the colors beneath the board change on their own.
+- `INS-260412-C7FA` Extreme trade concentration with a single partner converts economic ties into a political leash.
 - `INS-260405-8F5D` Granting a rival access to your market can fund their industrial buildup rather than moderate their regime — the WTO-China case is the canonical example.
 - `INS-260403-DC18` Oil's inelastic demand means small supply disruptions cause massive price spikes, while electricity prices remain comparatively stable.
 - `INS-260402-5C89` Near-zero marginal cost energy via solar and storage removes resource scarcity as the fundamental driver of international conflict, unlocking a massive peace dividend.

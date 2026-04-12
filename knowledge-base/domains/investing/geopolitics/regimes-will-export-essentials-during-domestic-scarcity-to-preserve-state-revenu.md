@@ -62,8 +62,8 @@ related:
   - INS-260327-BF95
   - INS-260410-A544
   - INS-260410-0735
+  - INS-260412-5291
   - INS-260327-25AD
-  - INS-260330-9BC4
 ---
 This is one of the most counterintuitive points in the lecture: during the famine, China did not stop exporting food. The standard moral reading ('how could they?') misses the structural logic. For a revenue-constrained regime, grain was the only liquid asset with international demand; stopping exports would have halted arms imports, industrial inputs, and prestige projects. The regime's survival calculus prioritized state capacity over peasant lives — and the peasants who died were, not coincidentally, 'the least valued members of society.'
 

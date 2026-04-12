@@ -53,7 +53,6 @@ stance: >-
   compliance-heavy sectors like fintech or healthtech, physical location remains
   a binding constraint that cannot be replaced by remote tools.
 related:
-  - INS-260327-F84E
   - INS-260329-148D
   - INS-260404-8FBE
   - INS-260403-2936

@@ -52,7 +52,6 @@ stance: >-
   efficiency alone.
 related:
   - INS-260323-748A
-  - INS-260327-F651
   - INS-260405-E027
   - INS-260405-5856
   - PRI-260406-9599
@@ -60,6 +59,7 @@ related:
   - PRI-260403-2B12
   - INS-260410-5581
   - INS-260410-9E2D
+  - INS-260412-9351
 ---
 China's industrial strategy follows a repeatable pattern: the CCP designates an industry as strategic priority, selects one or two national champions, provides unlimited subsidies, then uses aggressive below-cost pricing until market dynamics shift permanently. This playbook has already captured steel, solar panels, commercial drones, and EVs.
 

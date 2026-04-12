@@ -59,7 +59,7 @@ related:
   - PRI-260406-834A
   - INS-260405-AD55
   - INS-260405-10DF
-  - INS-260405-A4DB
+  - INS-260412-E4F5
 ---
 The San Francisco Fed's Total Factor Productivity estimates reveal that after accounting for capital utilization — how intensively machines, buildings, and equipment are being used — the TFP growth burst seen in 2023-24 appears to have faded by 2025. The raw productivity numbers look good partly because capital is simply being run harder: data centers operating continuously, factories running extended shifts, commercial buildings lit through the night.
 

@@ -5,12 +5,14 @@
 - `INS-260405-C17A` Once an AI cites a source, it tends to return to it — making first-mover citation advantage self-reinforcing.
 - `INS-260325-E652` TurboQuant improves LLM inference, vector search recall, and embedding storage simultaneously because all three are bottlenecked by the same high-dimensional vector operations.
 - `INS-260409-D5BD` A single ingested source should ripple through 10-15 existing pages; if it only creates one new page, the system isn't compounding.
-- `INS-260412-4DC7` Memory T cells and B cells persist after infection, enabling near-instant response to future encounters and effectively converting a costly first battle into permanent low-cost protection.
-- `INS-260410-C89B` Greg Abel in the 2025 letter: 'At Berkshire's scale, the math of compounding works against us — a reality long understood and best acknowledged plainly. Our opportunity is improvement in per-share value over the long term, even when progress comes in smaller increments.'
-- `INS-260410-3270` Berkshire 1965–2025: 19.7% CAGR vs S&P 10.5% CAGR. The 9.2-point annual gap produced a total return differential of 6,099,294% vs 46,061% — a 132x absolute multiplier on the arithmetic mean difference.
 - `INS-260410-84F5` Rockefeller's competitors treated oil as a gold rush and pocketed profits; he poured every dollar back into efficiency improvements and inventory, so when prices crashed he kept buying the dip until he owned the industry.
 - `INS-260410-B74C` Choose to be modestly less profitable than peers in booms so you can remain standing — and acquire them — during busts.
 - `INS-260410-E3E0` TSMC's moat isn't the machines — everyone can buy ASML — it's 40 years of uninterrupted learning-curve compounding that cannot be replicated by throwing money at the problem.
+- `INS-260410-C89B` Greg Abel in the 2025 letter: 'At Berkshire's scale, the math of compounding works against us — a reality long understood and best acknowledged plainly. Our opportunity is improvement in per-share value over the long term, even when progress comes in smaller increments.'
+- `INS-260410-3270` Berkshire 1965–2025: 19.7% CAGR vs S&P 10.5% CAGR. The 9.2-point annual gap produced a total return differential of 6,099,294% vs 46,061% — a 132x absolute multiplier on the arithmetic mean difference.
+- `INS-260405-B6CB` China's post-2008 infrastructure investment produced not just recovery but a transportation, energy, and digital backbone that now underpins its manufacturing dominance.
+- `INS-260410-9E2D` Post-war West Germany set 95% marginal tax rates on industrialists, forcing Porsche and its peers to plow royalties and profits into R&D, racing, and new models rather than take them out — producing decades of compounding brand and engineering assets.
+- `INS-260412-4E72` Heavy elements forged in neutron star collisions billions of years ago became the raw materials for Earth's geology, biology, and modern technology.
 - `INS-260330-AD13` Periodic large losses destroy compounding far more than lower steady returns, so risk management trumps return maximization.
 - `INS-260325-039E` High-cost portfolios generate roughly 20% less terminal value than low-cost portfolios over 25-30 years, all else equal.
 - `INS-260325-1407` A high-cost portfolio generates 20% less value over 25-30 years than a low-cost one, and the Vanguard effect has saved investors roughly $2 trillion in fees since the 1970s.
@@ -18,22 +20,20 @@
 - `INS-260330-4370` Waiting for multiple block confirmations creates exponentially increasing security because a fraudster must outpace the entire honest network for each additional block.
 - `INS-260323-7E6F` Speed is the shortest distance between seeing and acting on an opportunity; time is making a good decision and holding it — Berkshire compounded at 20% annually from 1965-2024 by getting both right.
 - `INS-260325-EBC3` The wealth gap is a financial literacy gap — the rich use different instruments (leverage, tax shelters, equity) not just higher incomes.
-- `INS-260410-9E2D` Post-war West Germany set 95% marginal tax rates on industrialists, forcing Porsche and its peers to plow royalties and profits into R&D, racing, and new models rather than take them out — producing decades of compounding brand and engineering assets.
-- `INS-260412-4E72` Heavy elements forged in neutron star collisions billions of years ago became the raw materials for Earth's geology, biology, and modern technology.
-- `INS-260405-B6CB` China's post-2008 infrastructure investment produced not just recovery but a transportation, energy, and digital backbone that now underpins its manufacturing dominance.
+- `INS-260412-4DC7` Memory T cells and B cells persist after infection, enabling near-instant response to future encounters and effectively converting a costly first battle into permanent low-cost protection.
+- `INS-260409-FFEA` Durable behavior change requires small consistent shifts, not dramatic overhauls — the mustard-seed heuristic.
+- `INS-260404-9AEC` Willpower functions as a trainable meta-skill whose gains compound across personal and professional domains simultaneously.
 - `INS-260403-41C8` Venture firms that think like product companies building systems outlast those optimizing per-fund carry.
 - `INS-260410-228E` Don't sell winners based on growth rate or maturity — sell based on whether decades of growth remain ahead.
 - `INS-260403-3DCB` PIK interest capitalizes into principal each year, making the total repayment far larger than the stated rate suggests.
 - `INS-260409-D9A1` A 5% one-time levy on a 7% per year portfolio is recovered in about 9 months of normal returns, smaller than typical market volatility.
 - `INS-260327-B3A7` Marshal Suchet was the only French commander to actually succeed in Spain — not through brilliance but through methodical, systematic pacification that won over the local population.
-- `INS-260409-FFEA` Durable behavior change requires small consistent shifts, not dramatic overhauls — the mustard-seed heuristic.
-- `INS-260404-9AEC` Willpower functions as a trainable meta-skill whose gains compound across personal and professional domains simultaneously.
-- `INS-260329-BF51` Showing the compounded future cost of discretionary purchases creates visceral aversion that abstract budget rules cannot.
 - `INS-260330-6CB7` Four of seven SI base units depend on the kilogram, so a fingerprint-weight drift in Big K corrupts Newtons, Joules, Volts, and Watts.
 - `INS-260330-9931` A few network-joining decisions create the gravitational field that shapes all subsequent daily choices.
 - `INS-260405-6E4F` Better inputs compound into better judgment — information diet is a leverage point most people underinvest in.
 - `INS-260330-2B29` Revolutions result from accumulated small decisions, not single dramatic moments.
 - `INS-260410-35F5` Every super-successful person Munger knows had three things — high intelligence, hard work, and good luck — and the only way to get lucky two or three times is to start early and keep trying for a long time.
+- `INS-260329-BF51` Showing the compounded future cost of discretionary purchases creates visceral aversion that abstract budget rules cannot.
 - `INS-260403-D2A5` Persistence emerges from the interaction of energy, imagination, resilience, good judgment, and goal focus — missing any one degrades the whole.
 - `INS-260402-1146` Sustained proof-of-work builds a reputation signal that eventually outcompetes brand theatrics and institutional prestige in sophisticated markets.
 - `INS-260403-E1CE` Treat every goal as a funnel where volume of attempts generates information that compounds into exponentially better outcomes over time.

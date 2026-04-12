@@ -53,12 +53,11 @@ related:
   - INS-260327-AB3D
   - INS-260327-5452
   - INS-260410-E47B
-  - INS-260327-7C94
+  - INS-260412-2488
   - INS-260327-FDD0
   - INS-260327-B950
   - INS-260327-A592
   - INS-260327-99DF
-  - INS-260403-4183
 ---
 The Greeks at Salamis faced a Persian fleet that outnumbered them roughly 3 to 1. In open water, the Persians would have enveloped and destroyed them. Themistocles' genius was forcing the battle into the narrow straits where the Persians couldn't deploy their full fleet — their ships became crowded, tangled, and couldn't maneuver. Superior numbers became a disadvantage as ships collided with each other.
 

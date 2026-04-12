@@ -60,6 +60,8 @@ related:
   - PRI-260324-5F05
   - INS-260330-D460
   - PRI-260403-5DEA
+  - INS-260412-5291
+  - INS-260412-009A
 ---
 Rogoff highlights an underappreciated mechanism of Japan's postwar success: in most small and mid-sized economies, domestic markets can only support one or two firms per sector, and political capture means those firms become entrenched monopolies (Mexico's 'two telephone companies, two bread companies, two taco companies'). Export-led growth bypasses this by forcing firms to compete with global rivals. The competitive pressure creates the innovation and creativity that closed domestic markets cannot generate.
 

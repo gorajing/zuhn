@@ -4,6 +4,7 @@
 - `INS-260410-2DB5` Regimes that need engineers, industry, and now AI to compete geopolitically cannot prevent the educated class and organized workers they create from eventually threatening their rule.
 - `INS-260410-D1A4` Continental empires like Russia and China survive by systematically destabilizing neighbors sequentially rather than forming lasting alliances, because no great power wants another great power on its border.
 - `INS-260330-A3D9` Russia subsidizes 300+ economically dead monotowns because their real output is political compliance, not goods.
+- `INS-260412-6EEB` Russia's gas pipelines supplying 40% of Europe's demand explain why Germany criticizes Russia far less than the UK, which has zero Russian gas dependency.
 - `INS-260325-5096` Napoleon's Russian disaster proves that logistics cannot scale linearly with army size — supply chains have a hard distance ceiling.
 - `INS-260330-FABE` Russians tolerated election fraud, corruption, war drafts, and inflation — but the 2018 pension age increase caused Putin's largest-ever approval drop (15%).
 - `INS-260412-18B7` Russia's truck fleet could only sustain operations ~90 miles from railyards, creating a hard distance ceiling on effective force projection.

@@ -53,5 +53,6 @@ related:
   - INS-260323-F528
   - INS-260412-E9A1
   - INS-260325-1709
+  - INS-260412-FEE1
 ---
 One of the video's most striking details is that space flight becomes 'very easy' once Earth loses its atmosphere. The atmosphere that sustains life is also the barrier that makes escaping Earth enormously expensive. This is a powerful model for startups and career decisions: sometimes the resource you're desperately trying to preserve is also the constraint blocking your next move. A company that loses its primary revenue stream is suddenly free to pivot without the golden handcuffs of protecting legacy income. A founder who loses their co-founder gains unilateral decision speed. The key is recognizing the dual nature of critical resources — they simultaneously enable current operations and constrain future possibilities. When forced loss occurs, the strategic question shifts from 'how do I recover what I lost?' to 'what can I now do that was previously impossible?'

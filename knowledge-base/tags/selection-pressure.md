@@ -1,8 +1,8 @@
 # Tag: selection-pressure
 
 - `INS-260410-6290` Human corporations can't clone themselves because they're made of people, which is why they age and die — AI firms built from copyable code will compound like eukaryotic life over prokaryotic bacteria.
-- `INS-260410-BE5A` If you're reaching 65 at 1% rates throughout human history, evolution can't select alleles that preserve late-life function, which is why anti-aging should be relatively tractable versus problems evolution iterated on.
 - `INS-260412-339C` The thymus kills 98% of new adaptive immune cells that react to self-proteins, making massive overproduction the price of unconstrained diversity.
+- `INS-260410-BE5A` If you're reaching 65 at 1% rates throughout human history, evolution can't select alleles that preserve late-life function, which is why anti-aging should be relatively tractable versus problems evolution iterated on.
 - `INS-260327-0C9F` Of the estimated 100,000 who started the First Crusade, only 12,000 reached Jerusalem — but those survivors were the toughest, most committed fighters who had been battle-tested over three years.
 - `INS-260329-6B87` State your downsides first — if someone is fine with all of them, the relationship only has upside.
 - `INS-260325-E7D4` A 3% advantage takes about 1,000 generations to spread — 25,000 years for humans but only 20,000 minutes for bacteria, showing change speed is about generations, not clock time.

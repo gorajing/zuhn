@@ -61,9 +61,10 @@ related:
   - INS-260329-59D2
   - INS-260330-2EF0
   - INS-260403-80D9
+  - INS-260412-3BC3
   - PRI-260411-5A63
   - INS-260403-3AE7
-  - PRI-260405-C27E
+  - INS-260412-C7FA
 ---
 Singapore's and Rwanda's development models both rest on an explicit trade: accept constraints on speech, assembly, and press in exchange for safety, cleanliness, and economic growth. Proponents point to results — Singapore's transformation from third-world to first-world in a generation, Rwanda's 28x FDI growth. But this framing treats liberty and prosperity as independent variables on a simple tradeoff curve.
 

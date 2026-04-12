@@ -48,6 +48,7 @@
 - `INS-260327-9018` Fintech companies that tried to disrupt remittances discovered that the last-mile challenge is physical cash distributio
 - `INS-260327-5973` Donut economics work because the product cost is trivially low relative to the selling price, making even modest volume 
 - `INS-260330-FF09` The same focus that builds a monopoly prevents the company from destroying it, even when survival requires exactly that.
+- `INS-260412-F909` Chinese airlines' 63-67% on-time rates stem from military control of 70% of airspace—a structural constraint rail doesn't face.
 - `INS-260403-E482` Yahoo rejected Google's $1M/year search deal and later a $3B acquisition because accepting either would acknowledge Google's technology was superior.
 - `INS-260405-10A5` Union strength tracked manufacturing growth rates, not organizing strength — making its decline structural, not moral.
 - `INS-260403-699F` Large organizations' advantage erodes proportionally to how fast the competitive landscape changes.

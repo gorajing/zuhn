@@ -49,9 +49,9 @@ stance: >-
   structure retains talent and prevents ego-driven decision-making
 related:
   - INS-260405-BD2E
+  - INS-260412-EB2D
   - INS-260327-A59A
   - INS-260409-D491
   - INS-260403-BFF3
-  - INS-260322-D57C
 ---
 Creandum adopted Benchmark's model: equal carry, equal votes, equal responsibility, and an up-or-out philosophy where even the founder can be voted out. Six of nine current partners joined as analysts or associates and rose through the ranks. This structure solves two chronic VC problems: senior partners hoarding economics (which drives talented juniors to start their own firms) and ego-driven deal-making (where a partner's status protects bad investments from scrutiny). The equal structure creates genuine accountability — every partner's judgment is equally weighted and equally exposed. For any organization making high-stakes decisions under uncertainty, flat structures with mutual accountability tend to produce better calibration than hierarchies, because status gradients suppress dissent exactly when it's most needed.

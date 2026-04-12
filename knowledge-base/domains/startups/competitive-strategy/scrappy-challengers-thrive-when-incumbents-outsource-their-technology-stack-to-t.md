@@ -53,9 +53,10 @@ related:
   - INS-260403-2AC0
   - INS-260405-4AAD
   - INS-260405-54A9
+  - INS-260412-4499
   - PRI-260328-5CDE
-  - INS-260405-ABE0
   - INS-260404-183A
+  - INS-260405-ABE0
 ---
 Insurance incumbents had no CTOs, no product managers, no engineers. Their backend was Guidewire, billing was outsourced, implementation was Accenture. Every product change required coordinating with multiple third parties, making iteration cycles measured in quarters or years rather than days. Hippo, built natively on AWS/Stripe/Intercom, could ship in days what incumbents needed months to spec.
 
