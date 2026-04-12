@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-12 | 4956 actionable insights
+Generated on 2026-04-12 | 4962 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -2815,6 +2815,8 @@ Generated on 2026-04-12 | 4956 actionable insights
 - [INS-260412-3EBB] Caribbean transshipment hubs emerged because many US east coast ports can't handle the larger post-expansion ships, creating a new intermediary logistics layer.
 - [INS-260412-E0B5] Wow Air planned to route around Russian airspace to Delhi by adding only 45 minutes of flight time, undermining the leverage of the chokepoint.
 - [INS-260412-D103] Bitfinex's reliance on BitGo to secure user wallets created the single vulnerability that enabled the entire $4.5B hack.
+- [INS-260412-3506] Meta's ad revenue decline was partly caused by Apple's privacy changes, showing that even dominant companies face existential risk from upstream platform decisions.
+- [INS-260412-BA74] Real Graphene's CEO explicitly stated graphene batteries would trickle down from higher-end devices first, using premium willingness-to-pay to absorb the 30% cost premium while scaling manufacturing.
 
 ## startups/content-strategy
 - [INS-260329-3332] A single 4+ hour comprehensive tutorial can accumulate millions of views over years by dominating 'full course' search queries.
@@ -4181,6 +4183,7 @@ Generated on 2026-04-12 | 4956 actionable insights
 - [INS-260410-6286] Kelly Johnson insisted Skunk Works engineers sit only steps from the shop floor because 'a stone's throw was too far away' — the shortest design-to-build feedback loop wins.
 - [INS-260412-8CB2] The immune system's generate-random-then-cull strategy is more effective than designed immunity because the threat space is too vast to predict — the same applies to innovation in unpredictable markets.
 - [INS-260412-FE82] Google X's explicit mandate to 'improve technologies by a factor of 10' serves as a structural filter that eliminates incremental projects and forces radical rethinking.
+- [INS-260412-6DCE] Li-Fi's ability to use existing LED light bulbs as transmitters dramatically lowers deployment barriers compared to building new wireless infrastructure.
 
 ## startups/investor-relations
 - [INS-260405-94A1] Match your pitch deck's emphasis to investor decision criteria at your specific funding stage.
@@ -4362,6 +4365,7 @@ Generated on 2026-04-12 | 4956 actionable insights
 - [INS-260410-93E3] David Ogilvy's principle that audiences are a moving parade means your back catalog keeps converting new listeners/readers forever, making re-exposure to proven material more ROI-positive than chasing novelty.
 - [INS-260410-C070] Frank Robinson dropped Coca-Cola's 'sovereign remedy for headache and nervousness' messaging and repositioned it as 'delicious and refreshing' — the product was identical, but he was advertising to the masses instead of the few.
 - [INS-260410-3E0A] Coke pivoted from describing what the drink does ('delicious and refreshing') to associating it with happiness, family, Christmas, and sports heroes — and that extrinsic association is what compounded into a $300B brand.
+- [INS-260412-0CAA] Nokia contracted a top-tier independent ad agency (MOTHER) for an all-out campaign blitz, recognizing that brand re-entry is a one-shot moment that demands memorable, resonant advertising.
 
 ## startups/mental-models
 - [INS-260330-C0D1] If a system is linear, tracking what happens to a few basis cases lets you predict outcomes for all possible inputs.
@@ -4607,6 +4611,7 @@ Generated on 2026-04-12 | 4956 actionable insights
 - [INS-260410-3C05] AWS launched bare-bones S3 and EC2 while Microsoft Azure Cloud Services and Google App Engine launched opinionated PaaS offerings — AWS captured the market because primitives enable both lift-and-shift and new-build use cases.
 - [INS-260410-277B] Spotify realized it could own audiobooks and podcasts because German labels had already started quietly uploading audiobooks to its music platform.
 - [INS-260412-B69B] Israel's 1-6 risk scoring system applies intensive screening only to high-risk passengers while low-risk travelers pass through quickly, achieving better security with less aggregate friction.
+- [INS-260412-A2FE] Real Graphene's batteries succeed commercially because the graphene sheet is 1-5 atoms thick and doesn't change cell dimensions, making it plug-and-play for phone manufacturers.
 
 ## startups/quality
 - [INS-260330-FA4D] Byron Ferguson spine-tests every arrow and discards out-of-tolerance ones before they ever enter his quiver — precision is built in preparation, not performance.
@@ -5031,6 +5036,7 @@ Generated on 2026-04-12 | 4956 actionable insights
 - [INS-260410-1BB0] When you're racing a window shut, you don't have the luxury of optionality — the window itself is evidence your adversary's structural position will soon exceed yours.
 - [INS-260410-020E] Qualcomm patented CDMA in 1986 when the processing required was physically impossible — because they correctly forecasted Moore's Law would make it feasible by ship date.
 - [INS-260410-E3E6] NVIDIA's superpower is navigating to 'zero-billion-dollar markets' — non-existent markets they believe will emerge — and arriving a decade before competitors even understand why they're there.
+- [INS-260412-7BD5] Li-Fi was demonstrated in a TED talk in 2011, reached real-world trials by 2015, yet still hasn't achieved mass adoption by 2026 — a pattern typical of physical-layer technologies.
 
 ## startups/unit-economics
 - [INS-260405-7ACC] CAC and churn are the two variables that determine whether a SaaS business is structurally viable — everything else is execution.

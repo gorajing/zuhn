@@ -51,6 +51,7 @@ related:
   - INS-260327-19D2
   - INS-260410-11F3
   - INS-260410-6D83
+  - INS-260412-5049
 ---
 Bacteriophages demonstrate a powerful strategic principle: when bacteria evolve resistance to phages, they must give up their antibiotic resistance. This catch-22 dynamic applies broadly to competitive strategy — the most devastating attacks come in pairs where the defense against one requires vulnerability to the other.
 

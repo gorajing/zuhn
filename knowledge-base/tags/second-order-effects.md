@@ -5,14 +5,14 @@
 - `INS-260410-3A01` Eisenhower armed Pakistan to contain the Soviets, but since Pakistan's primary enemy was India, the weapons were aimed at India — poisoning US–India relations for the duration of the Cold War, a decision Eisenhower later called 'perhaps the worst kind of plan and decision we could ever have made.'
 - `INS-260403-213C` Wars of choice that impose costs on allies damage long-term economic relationships in ways that outlast the immediate commodity shock.
 - `INS-260410-7E29` Pearl Harbor was an A+ military operation that converted isolationist America into Japan's destroyer — proving tactical perfection is worthless if it mobilizes a vastly stronger opponent.
-- `INS-260404-DBA8` Both leftists and rightists got the multipolar world they wanted but not the version they expected.
-- `INS-260412-1863` TSA catches only 5-30% of test threats yet zero US-origin flights have been attacked since 9/11, suggesting deterrence matters more than detection.
-- `INS-260330-4441` RuBisCo was optimized for a low-oxygen world, but photosynthesis itself flooded the atmosphere with oxygen, causing RuBisCo to malfunction half the time — your greatest success can corrupt your core mechanism.
-- `INS-260403-B805` SF's progressive tolerance of crime and drug markets created an epidemic that devastated poor communities most heavily.
 - `INS-260412-8111` The asteroid's direct impact was devastating, but it was the chain of earthquakes, tsunamis, atmospheric heating, wildfires, and nuclear winter that actually killed 75% of species.
 - `INS-260403-E9DB` Many of America's most-discussed problems — sprawl, bad transit, housing costs — are actually second-order effects of its uniquely high crime rates.
 - `INS-260330-2C57` Agriculture was adopted through millions of small, locally rational choices that collectively created an irreversible civilizational transformation with massive unintended consequences.
 - `INS-260412-2117` Increased US airport security after 9/11 drove a 6% decline in air travel, causing 500+ additional driving deaths in 2002 alone from passengers choosing cars over planes.
+- `INS-260404-DBA8` Both leftists and rightists got the multipolar world they wanted but not the version they expected.
+- `INS-260412-1863` TSA catches only 5-30% of test threats yet zero US-origin flights have been attacked since 9/11, suggesting deterrence matters more than detection.
+- `INS-260330-4441` RuBisCo was optimized for a low-oxygen world, but photosynthesis itself flooded the atmosphere with oxygen, causing RuBisCo to malfunction half the time — your greatest success can corrupt your core mechanism.
+- `INS-260403-B805` SF's progressive tolerance of crime and drug markets created an epidemic that devastated poor communities most heavily.
 - `INS-260412-C451` A massive force doesn't need to collide with a system to destroy it — proximity alone reshapes orbits and triggers cascading failures.
 - `INS-260412-3B3D` Identical forces produce qualitatively different outcomes depending on the medium they act through.
 - `INS-260402-1F58` The real question is not 'patents or freedom' but 'patents or secrecy'—and secrecy's historical track record is far worse.

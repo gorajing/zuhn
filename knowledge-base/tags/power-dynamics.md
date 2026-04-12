@@ -1,12 +1,12 @@
 # Tag: power-dynamics
 
-- `INS-260410-46BB` AI labs are one permit denial or one Amazon/Nvidia side conversation away from existential pressure, regardless of their own government contract status.
 - `INS-260403-2475` Private control of frontier AI is incompatible with the nation-state's monopoly on force, making government seizure of control inevitable.
+- `INS-260410-46BB` AI labs are one permit denial or one Amazon/Nvidia side conversation away from existential pressure, regardless of their own government contract status.
 - `INS-260403-7089` The power structure emerging from AI development converges to either state control or corporate warlordism, with no viable middle ground.
-- `INS-260403-AE5B` In leadership communication, fewer words carry more weight because they signal resolved thinking.
 - `INS-260330-A2D4` China can destroy North Korea economically or militarily but cannot meaningfully steer it because using blunt tools would destabilize the buffer it needs.
 - `INS-260323-B40C` States pursue power not because they are inherently aggressive but because the anarchic structure of international politics leaves them no alternative for survival.
 - `INS-260405-1101` Britain in 1870-1914 produced more in absolute terms at war's outbreak than in 1870, yet felt weaker because America and Germany had grown faster — the lesson applies to any competitive system.
+- `INS-260403-AE5B` In leadership communication, fewer words carry more weight because they signal resolved thinking.
 - `INS-260412-3BC3` Australia-China trade is nominally mutual but functionally one-directional because severance pain is radically asymmetric.
 - `INS-260330-3528` English profanity largely descends from lower-class Saxon vocabulary that was stigmatized when Norman French speakers held social power.
 - `INS-260410-EBDC` Mao's Red Guards worked because telling teenagers with no life experience that they were in charge was incredibly empowering — and they started by killing the teachers who had given them hard grades.
@@ -28,6 +28,7 @@
 - `INS-260403-D36D` Whoever holds organizational power imposes their schedule type on everyone else, usually at makers' expense.
 - `INS-260330-7675` Because Singapore's opposition is so disadvantaged, voters 'grade them on a curve' — the PAP could actually gain support by making elections fair, since voters would then judge alternatives on their actual merits.
 - `INS-260410-AFB9` Benchmark commissioned a custom round table where no sidebar conversation is possible because everyone hears everything — destroying the hierarchy a rectangular table embeds and the atomization a circular table creates.
+- `INS-260412-49DA` Ford humiliated Tata in 1999 for entering passenger cars; by 2008 Tata bought Ford's Jaguar Land Rover for $2.3B.
 - `INS-260330-68EF` France was rich but bankrupt because nobles and clergy were exempt from taxes — the inability to extract revenue from those who hold the most is a fatal structural flaw.
 - `INS-260403-3876` Movements with members on both sides of a divide can influence whichever side currently holds power.
 - `INS-260403-4C4E` As the music industry's distribution monopoly collapsed, musicians who learned business strategy gained control over their brand, customers, and revenue.

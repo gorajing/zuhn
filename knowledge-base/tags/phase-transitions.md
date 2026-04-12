@@ -13,9 +13,9 @@
 - `INS-260412-E42E` Bacteria fly under the radar at low numbers and only start damaging the body when they reach a critical population threshold, switching behavior collectively rather than individually.
 - `INS-260330-D795` Kistler solved aerogel's shrinkage problem not by fighting surface tension but by heating liquid past the critical point where liquid-gas distinction ceases to exist.
 - `INS-260330-43D3` Modifying just 30% of aerogel's surface chemistry flips it from water-absorbing to completely waterproof, demonstrating that threshold effects outweigh proportional ones.
+- `INS-260330-BE6F` Breaking the sound barrier inside an F-16 cockpit produces no sensation — only instrument anomalies from shock wave pressure changes on the Pitot tube reveal it happened.
 - `INS-260330-5D8A` Supercritical fluids bypass the destructive surface tension of evaporation by eliminating the liquid-gas boundary altogether.
 - `INS-260330-4E9B` A structure tall enough to reach geostationary orbit would be stabilized by centrifugal force rather than crushed by gravity, flipping compression into tension.
-- `INS-260330-BE6F` Breaking the sound barrier inside an F-16 cockpit produces no sensation — only instrument anomalies from shock wave pressure changes on the Pitot tube reveal it happened.
 - `INS-260403-65D2` Multi-layer systems exhibit emergent rigidity that single layers don't, because elements trap each other rather than flowing freely.
 - `INS-260412-EE18` Forces that maintain cohesion at small scale break down at larger scales, requiring different survival strategies at each phase.
 - `INS-260412-AB32` Black holes show a gap from 150 to millions of solar masses because incremental star-eating can't bridge it — a different mechanism (quasi-stars) was needed.

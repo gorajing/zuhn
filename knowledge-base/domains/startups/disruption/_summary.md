@@ -1,9 +1,11 @@
 # Topic: disruption
 
-> 19 insights
+> 24 insights
 
+- `INS-260412-CB3C` [high] Smartphones simultaneously destroyed the markets for point-and-shoot cameras, camcorders, MP3 players, portable gaming systems, GPS devices, and newspapers.
 - `INS-260410-04EA` [high] The quartz crisis killed the mechanical watch's job of accurate timekeeping, but a new job — signaling achievement and lifestyle — was waiting to be filled; Rolex survived by recognizing these were two different markets and refusing to compete on the dying one.
 - `INS-260412-454A` [high] Christensen's disruption framework played out precisely with ARM chips moving from mobile into desktop computing over three decades.
+- `INS-260412-DC98` [high] Facebook lost developing markets not because users left, but because new young users went straight to TikTok instead of ever joining Facebook.
 - `INS-260410-A365` [high] Google had a working transformer-based chatbot (Mina, then Lambda) years before ChatGPT but couldn't ship it because of ad cannibalization, brand-trust requirements, and safety standards that OpenAI as a startup simply didn't face.
 - `INS-260410-9738` [high] When Larry and Sergey demoed page rank to Excite's CEO in 1997, he killed the deal precisely because the results were too good — users would find what they wanted and leave, destroying Excite's CPM banner-ad page-view business.
 - `INS-260410-F0E4` [high] Intel was the largest early investor in EUV lithography — $4B in 2012 — and still failed to ship a chip made with it, because optimizing existing 193nm immersion was the safer bet on every spreadsheet.
@@ -13,11 +15,14 @@
 - `INS-260405-BFC0` [high] Local news collapsed because the internet made geographic information monopolies impossible, not because local journalism got worse.
 - `INS-260410-FECA` [high] When a rival consortium finally built a long-distance pipeline to bypass Standard's refining chokehold, Rockefeller ordered his captive railroads to ship oil below cost on the parallel routes until the pipeline ran out of capital.
 - `INS-260412-67EE` [high] Budget airlines deliberately choose secondary airports where they become the primary customer, gaining extreme negotiating power—if they leave, the airport effectively ceases to exist.
+- `INS-260412-6FB6` [high] Nokia's decision to use Microsoft's OS instead of Android meant superior hardware was undermined by a barren app ecosystem, proving that platform ecosystem size trumps hardware quality.
+- `INS-260412-8BE0` [high] Smartphones grew at 4x the PC industry's peak growth rate, selling 1 billion units in a single year versus PCs taking 33 years to reach the same cumulative total.
 - `INS-260412-74C9` [high] Slower turboprops actually fly Edinburgh-London faster than jets because on short routes aircraft never reach top speed, making cost the only variable that matters.
 - `INS-260412-E078` [high] Tesla would need $7.8 billion and 31,251 new stations to match gas station accessibility—roughly 10x its 2020 annual profit—making solo infrastructure build-out economically impossible.
 - `INS-260412-2147` [high] Multi-tier supplier chains compound markups at each layer, making vertically integrated competitors dramatically cheaper.
 - `INS-260405-9EE4` [medium] When AI agents do the work instead of human seats, per-seat SaaS revenue evaporates.
 - `INS-260412-0F3F` [medium] Dinosaurs dominated for 165 million years and were wiped out in months — market incumbents with decades of dominance face the same non-linear disruption risk.
+- `INS-260412-9BFD` [medium] Real Graphene's CEO noted many companies claim to use graphene but actually use graphite, creating a trust gap that authentic producers can exploit as a differentiator.
 - `INS-260410-B6EA` [medium] Mixed human-AI corporations will be outcompeted by fully autonomous ones the way a spreadsheet with some human-computed cells would be worse than a pure spreadsheet.
 - `INS-260405-F705` [medium] We miscategorize new products by anchoring them to what came before — the iPhone was called a phone only because it preceded the iPad.
 - `INS-260405-CF38` [medium] Netflix's streaming shift wasn't just about convenience—it structurally expanded the addressable market by removing physical distribution constraints.

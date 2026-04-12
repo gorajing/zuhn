@@ -58,9 +58,9 @@ related:
   - INS-260330-27E8
   - INS-260330-4C23
   - INS-260330-669C
-  - INS-260330-D0AB
   - INS-260404-108C
   - INS-260410-7D8E
   - INS-260412-B8CB
+  - INS-260412-2D60
 ---
 The GameStop phenomenon revealed how social media transforms financial decisions into identity commitments. The WallStreetBets community created a moral framework where holding ('diamond hands') was virtuous and selling was betrayal. Users who had lost hundreds of thousands posted about holding as a badge of honor. This is a powerful psychological mechanism: once a financial position becomes entangled with identity, group belonging, and moral narrative ('sticking it to the man'), the normal risk-management instinct is suppressed. The community enforced this through social rewards (upvotes, praise) for holding and social punishment for selling. This same dynamic appears in crypto communities, meme stocks, and any financially-oriented social group. The practical implication is that crowd-sourced financial movements will systematically produce worse risk-adjusted returns for participants than the same trades would in isolation, because the social pressure structure is optimized for holding, not for optimal entry and exit.

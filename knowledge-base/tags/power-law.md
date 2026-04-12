@@ -23,8 +23,8 @@
 - `INS-260403-CB97` Top-quartile venture funds consistently outpace median returns across vintages, reinforcing concentration of capital with repeat winners.
 - `INS-260404-74DD` Even the worst Demo Day investors (3.3x TVPI) outperform the best quartile of traditional VC, validating accelerator-stage portfolio strategies.
 - `INS-260330-7DA5` In both the US and China, the vast majority of economic power concentrates in a few coastal corridors — 37 of 75 top-earning US counties in the Northeast, 54% of startup funding in just 5 metro areas.
-- `INS-260330-E4FA` The 80/20 rule is a reliable heuristic because power-law distributions emerge independently across nearly all complex systems.
 - `INS-260403-A868` Elite developer talent is qualitatively different from average, following power-law rather than normal distribution.
+- `INS-260330-E4FA` The 80/20 rule is a reliable heuristic because power-law distributions emerge independently across nearly all complex systems.
 - `INS-260330-8F91` Memory operates on a Zipf-like distribution — a few experiences are retained strongly while most are forgotten entirely.
 - `INS-260321-7D76` A common mistake is automating wherever it's easiest rather than wherever the constraint actually is. The single biggest bottleneck in your process probably accounts for most of the available gains. Find that one thing. Automate that.
 - `INS-260329-4B99` Top-20 schools still deliver outsized ROI through brand and ruling-class network access; mid-tier schools cost too much for what they deliver.
@@ -34,9 +34,9 @@
 - `INS-260410-79C4` The Qualcomm pitch required threading 15+ needles in sequence — a prima facie auto-pass — but the team already knew, from information theory first principles, that each needle was threadable.
 - `INS-260322-7276` Founders assume if the winner makes $500M and they make $50M, they're worth one-tenth — but the actual pattern is the seventh player trends toward zero revenue, not a stable fraction.
 - `INS-260402-AA3F` Great hackers cluster together, so talent attraction scales with the square of environment quality, not linearly.
+- `INS-260323-B849` In normal-distribution games (coin flips for $1), optimize for the average; in power-law games (startups, content, earthquakes), the average is meaningless — optimize for maximum exposure to extreme outcomes.
 - `INS-260404-9A25` In power-law domains, switching from failure-listing to success-imagining produces better predictions weighted by outcome.
 - `INS-260404-9E63` Switch from listing reasons an idea won't work to imagining ways it could — especially in domains with power-law outcome distributions.
-- `INS-260323-B849` In normal-distribution games (coin flips for $1), optimize for the average; in power-law games (startups, content, earthquakes), the average is meaningless — optimize for maximum exposure to extreme outcomes.
 - `INS-260404-E6E0` Silicon Valley's advantage is not superior people but a cultural custom of treating early work charitably — a custom any community can develop.
 - `INS-260404-A42E` In a power-law world, the cost of dismissing a winner dwarfs the cost of entertaining a loser—so default to imagining how ideas could work.
 - `INS-260404-06B9` The startups where VCs need compulsion over founders are not the ones that become big hits driving fund returns.

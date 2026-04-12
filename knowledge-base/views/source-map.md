@@ -760,6 +760,7 @@ Generated on 2026-04-12 | 2467 sources
 | Every Country in the World (Part 1) | youtube | 5 | 2026-04-12 |
 | Everything We Teach at YCombinator in 10 Minutes | youtube | 5 | 2026-03-27 |
 | Evolution designed us to die fast; we can change that — Jacob Kimmel | youtube | 5 | 2026-04-10 |
+| Ex-Apple CEO Starts His Own Phone Company! | youtube | 5 | 2026-04-12 |
 | 'Fake Bitcoin' - How this Woman Scammed the World, then Vanished | youtube | 5 | 2026-04-12 |
 | Feel Free is a NIGHTMARE | youtube | 5 | 2026-03-26 |
 | Formula 1 (Audio) | youtube | 5 | 2026-04-11 |
@@ -863,6 +864,7 @@ Generated on 2026-04-12 | 2467 sources
 | Let's reproduce GPT-2 (124M) | youtube | 5 | 2026-04-10 |
 | Lockheed Martin (Audio) | youtube | 5 | 2026-04-11 |
 | Loneliness | youtube | 5 | 2026-04-12 |
+| Major Breakthrough: Graphene Batteries FINALLY Hit the Market | youtube | 5 | 2026-04-12 |
 | Male inequality, explained by an expert | Richard Reeves | youtube | 5 | 2026-03-30 |
 | Marc Andreessen's 2026 Outlook: AI Timelines, US vs. China, and The Price of AI | youtube | 5 | 2026-03-22 |
 | Mark Zuckerberg — AI will write most Meta code in 18 months | youtube | 5 | 2026-04-10 |
@@ -1445,6 +1447,7 @@ Generated on 2026-04-12 | 2467 sources
 | 25 Years of Building Startups Explained in 17 Minutes | TaleTree, Matt Hagger | youtube | 4 | 2026-03-23 |
 | 3 ways smart people stay stuck in failing patterns | Anne-Laure Le Cunff | youtube | 4 | 2026-03-25 |
 | 42 Life Lessons I Know at 42 That I Wish I Knew Sooner | youtube | 4 | 2026-03-23 |
+| 5 Mind Blowing Facts About Your Smartphone! | youtube | 4 | 2026-04-12 |
 | 6 People Who Predicted the Future With Stunning Accuracy | youtube | 4 | 2026-04-12 |
 | 6 ways to heal trauma without medication | Bessel van der Kolk | Big Think | youtube | 4 | 2026-03-30 |
 | 서울대 의대 출신 창업가가 6년 삽질하고 깨달은 사업의 원리 | 모두닥 다큐멘터리 | youtube | 4 | 2026-03-23 |
@@ -1497,6 +1500,7 @@ Generated on 2026-04-12 | 2467 sources
 | Emmett Shear on Building AI That Actually Cares: Beyond Control and Steering | youtube | 4 | 2026-03-22 |
 | Enron - The Biggest Fraud in History | youtube | 4 | 2026-04-12 |
 | Enterprise Sales | Startup School | youtube | 4 | 2026-03-27 |
+| EU Just Changed Smartphones Forever | youtube | 4 | 2026-04-12 |
 | Every major leap in human progress has this in common | Jason Crawford: Full Interview | youtube | 4 | 2026-03-25 |
 | Every State in the US | youtube | 4 | 2026-04-12 |
 | Exploring the Dark Web | youtube | 4 | 2026-04-12 |
@@ -1523,6 +1527,7 @@ Generated on 2026-04-12 | 2467 sources
 | How Axon Became Wall Street's Hottest Stock | youtube | 4 | 2026-03-24 |
 | How BIG is Google? | youtube | 4 | 2026-04-12 |
 | How BIG is Samsung? (They Have a Military Department!) | youtube | 4 | 2026-04-12 |
+| How BIG is TATA? (They Own Jaguar) | ColdFusion | youtube | 4 | 2026-04-12 |
 | How Boba Shops Really Make Money | youtube | 4 | 2026-03-24 |
 | How childhood wiring impacts adult life, in 90 minutes | Becky Kennedy: Full Interview | youtube | 4 | 2026-03-25 |
 | How China Broke the World's Recycling | youtube | 4 | 2026-04-12 |
@@ -1575,6 +1580,7 @@ Generated on 2026-04-12 | 2467 sources
 | Kim Jong-Un's New Strategy: Explained | youtube | 4 | 2026-03-30 |
 | Learn to Sell, Learn to Build | youtube | 4 | 2026-03-30 |
 | Levels of Wealth: Inside The Secret Lives of The Ultra-Rich | youtube | 4 | 2026-03-30 |
+| Li-Fi, 100X Faster Than Wi-Fi! | ColdFusion | youtube | 4 | 2026-04-12 |
 | Living Underwater: How Submarines Work | youtube | 4 | 2026-04-12 |
 | Making Money Isn't About Luck | youtube | 4 | 2026-03-30 |
 | Marc Andreessen: Future of the Internet, Technology, and AI | Lex Fridman Podcast #386 | youtube | 4 | 2026-03-24 |
@@ -1599,6 +1605,7 @@ Generated on 2026-04-12 | 2467 sources
 | Neri Oxman: Biology, Art, and Science of Design & Engineering with Nature | Lex Fridman Podcast #394 | youtube | 4 | 2026-03-24 |
 | Next-Gen Graphics FINALLY Arrive [Unreal Engine 5] | youtube | 4 | 2026-04-12 |
 | Next Generation Robots - Boston Dynamics, Asimo, Da Vinci, SoFi | youtube | 4 | 2026-04-12 |
+| Nokia’s 2017 Return | youtube | 4 | 2026-04-12 |
 | NVIDIA CEO Jensen Huang's Vision for the Future | youtube | 4 | 2026-03-23 |
 | NVIDIA's $1 Trillion Prediction, Anthropic Beats OpenAI, Tesla vs. TSMC & The CS Job Collapse | 240 | youtube | 4 | 2026-03-22 |
 | OpenAI Sora 2 Team: How Generative Video Will Unlock Creativity and World Models | youtube | 4 | 2026-03-26 |
@@ -1720,6 +1727,7 @@ Generated on 2026-04-12 | 2467 sources
 | Why do prime numbers make these spirals? | Dirichlet’s theorem and pi approximations | youtube | 4 | 2026-03-30 |
 | Why Flying is So Expensive | youtube | 4 | 2026-04-12 |
 | Why is pi here?  And why is it squared?  A geometric answer to the Basel problem | youtube | 4 | 2026-03-30 |
+| Why Meta Lost $230 billion [Biggest Company Loss in History] | youtube | 4 | 2026-04-12 |
 | Why Most AI Projects Fail Before They Start | youtube | 4 | 2026-03-23 |
 | Why OpenAI Doesn't Pay Sales Commission (And Why It Works) with OpenAI GTM Leader Maggie Hott | youtube | 4 | 2026-03-27 |
 | Why Planes Don't Fly Faster | youtube | 4 | 2026-04-12 |
@@ -2462,11 +2470,3 @@ Generated on 2026-04-12 | 2467 sources
 | You Are Taking Creatine Wrong (here's how to fix it) | youtube | 1 | 2026-03-26 |
 | You Will Never Wear AirPods Again | youtube | 1 | 2026-03-26 |
 | You'll Never Eat Sardines Again | youtube | 1 | 2026-03-26 |
-| 5 Mind Blowing Facts About Your Smartphone! | youtube | 0 | 2026-04-12 |
-| EU Just Changed Smartphones Forever | youtube | 0 | 2026-04-12 |
-| Ex-Apple CEO Starts His Own Phone Company! | youtube | 0 | 2026-04-12 |
-| How BIG is TATA? (They Own Jaguar) | ColdFusion | youtube | 0 | 2026-04-12 |
-| Li-Fi, 100X Faster Than Wi-Fi! | ColdFusion | youtube | 0 | 2026-04-12 |
-| Major Breakthrough: Graphene Batteries FINALLY Hit the Market | youtube | 0 | 2026-04-12 |
-| Nokia’s 2017 Return | youtube | 0 | 2026-04-12 |
-| Why Meta Lost $230 billion [Biggest Company Loss in History] | youtube | 0 | 2026-04-12 |

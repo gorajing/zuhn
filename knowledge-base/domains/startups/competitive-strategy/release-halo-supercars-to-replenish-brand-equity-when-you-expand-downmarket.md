@@ -62,6 +62,7 @@ related:
   - INS-260324-6FC7
   - INS-260410-4A68
   - INS-260403-CF98
+  - INS-260412-49DA
 ---
 When Porsche launched the Cayenne SUV in 2003, industry observers expected the mass-market expansion to drain brand credibility the way it had for Maserati's sedans. Instead, Porsche timed the Carrera GT — a 1,270-unit, V10, carbon-fiber analog supercar — to launch on the same production line in the same year. The 918 Spyder, a plug-in hybrid hypercar made in 918 units, similarly accompanied the Panamera era and Taycan development. Both cars lost money relative to their engineering cost but signaled to enthusiasts that Porsche was still pushing the technical frontier, legitimizing the new production facilities and the brand's right to charge premium prices across the entire lineup.
 

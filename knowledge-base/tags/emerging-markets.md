@@ -17,6 +17,7 @@
 - `INS-260330-DCFB` Companies like Xiaomi and Samsung that achieved mass distribution in India first built ecosystem switching costs that Apple's superior brand couldn't overcome.
 - `INS-260404-4146` VC deal activity is increasingly distributed across global markets beyond Silicon Valley.
 - `INS-260404-7A54` High mobile penetration plus low workflow digitization signals a ripe market entry window for vertical SaaS.
+- `INS-260412-EC27` High-growth markets with first-time buyers offer easier entry than saturated markets where you must displace incumbents.
 - `INS-260403-8BE9` Stablecoins gain traction first in markets like Kenya, Turkey, Argentina, and Venezuela where local currencies are unstable and physical dollar access is restricted.
 - `INS-260330-930D` Apple's dismissal of India as low-revenue ignores that competitors are building ecosystem lock-in with hundreds of millions of users who will be difficult to convert later.
 - `INS-260403-FF57` Less developed financial infrastructure in non-US markets creates larger friction gaps that fintech-enabled marketplaces can capture as margin.

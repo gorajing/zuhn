@@ -1,6 +1,6 @@
 # Topic: bubbles
 
-> 101 insights
+> 102 insights
 
 - `INS-260325-FC0B` [high] About 30% of investors who panic sell during crashes never return to equities, missing massive subsequent gains.
 - `INS-260403-52FF` [high] Carta data shows sub-$10M funds hit 90th percentile TVPI of ~4.03x while $100M+ funds only reach ~1.67x, and 73% of top-performing funds are Fund I or II.
@@ -59,6 +59,7 @@
 - `INS-260325-195E` [high] Bessembinder's research shows just 2% of stocks account for all net market gains over 75 years.
 - `INS-260325-FDB3` [high] Less than half of professional fund managers beat their benchmark in any given year, dropping to under 10% at 10 years and virtually zero at 20.
 - `INS-260412-BA99` [high] Each prestigious partner a fraudulent company signs makes the next partner less likely to investigate, creating a cascade of unearned credibility.
+- `INS-260412-5649` [high] Growth stock valuations embed compounding user growth assumptions that unravel catastrophically when saturation is revealed.
 - `INS-260412-8CD7` [high] Bernie Ebbers borrowed $408M against WorldCom stock for personal purchases, creating an existential personal incentive to keep the stock price elevated regardless of business reality.
 - `INS-260412-3A35` [high] The electrical revolution created a startup investment bubble far exceeding the 1990s dot-com bubble in relative economic impact.
 - `INS-260330-3B31` [high] Ponzi schemes are mathematically unsustainable because they need exponential growth in new investors to pay promised returns.

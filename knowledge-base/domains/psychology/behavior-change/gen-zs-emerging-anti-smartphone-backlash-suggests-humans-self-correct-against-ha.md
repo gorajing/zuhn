@@ -58,12 +58,11 @@ stance: >-
   happens organically within one generation, without requiring top-down
   regulation.
 related:
-  - INS-260325-9507
   - INS-260405-2287
   - INS-260403-56D7
   - INS-260324-29D8
+  - INS-260325-9507
   - INS-260327-9562
-  - INS-260405-EF0F
 ---
 The Global Mind Project's survey of millions of respondents confirms that Gen Z's mental health is worse than older generations across all countries examined, with earlier smartphone ownership correlating with increased suicidal thoughts, aggression, and detachment from reality — effects particularly sharp below age 13. But the data also shows a counter-trend: a 2025 Deloitte survey found nearly a third of Gen Zers deleted a social media app in the prior 12 months, and global social media usage among adults dropped 10% from 2022 to 2024.
 

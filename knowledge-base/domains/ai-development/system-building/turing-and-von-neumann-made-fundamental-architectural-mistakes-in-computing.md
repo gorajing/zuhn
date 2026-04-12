@@ -48,10 +48,10 @@ stance: >-
   never made this mistake.
 related:
   - INS-260410-8C08
+  - INS-260412-6FB6
   - INS-260410-0EF8
   - PRI-260328-C528
   - PRI-260411-FB73
-  - PRI-260328-4B40
   - INS-260405-55E0
 evidence:
   - id: INS-260329-AC6E

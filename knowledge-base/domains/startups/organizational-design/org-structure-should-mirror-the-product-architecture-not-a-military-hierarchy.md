@@ -59,8 +59,8 @@ related:
   - INS-260330-0BD3
   - INS-260330-956E
   - PRI-260406-F21A
+  - INS-260412-7E99
   - INS-260322-3159
-  - INS-260330-2601
 ---
 Huang finds it absurd that every company has roughly the same org chart — a pyramid with business units — despite building radically different products. 'How you make fried chicken versus how you flip burgers versus how you make Chinese fried rice — it's different. So why would the machinery be the same?' NVIDIA's structure mirrors its computing stack: architecture, chip, software, modules, each layer owned by whoever is best at running it. Titles don't correspond to position in the stack.
 

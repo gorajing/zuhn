@@ -1,10 +1,11 @@
 # Topic: product-strategy
 
-> 91 insights
+> 93 insights
 
 - `INS-260405-4AAD` [high] Juicero raised $120M for technology that was immediately undermined when customers realized the same outcome was achievable by hand.
 - `INS-260330-809A` [high] Apple's acquisition pattern — Authentec for Touch ID, Siri for voice, NeXT for Jobs — shows that buying capabilities yields higher returns than buying businesses.
 - `INS-260410-2424` [high] After Lotus 1-2-3 destroyed Microsoft Multiplan on the IBM PC, Microsoft shelved it and built Excel for the Macintosh GUI — being first and best on the next platform rather than trying to claw back the current one.
+- `INS-260412-2DE5` [high] Apple's serial-number locking and component coupling are revenue extraction strategies wrapped in safety rhetoric.
 - `INS-260403-EAF7` [high] Solve the real problem and deliberately ignore peripheral concerns that seem important but aren't.
 - `INS-260330-766D` [high] Alfred Lin's principle from Zappos — culture and brand are two sides of the same coin — means that whatever happens inside the company eventually comes out.
 - `INS-260404-0CA7` [high] Vertical SaaS that bundles financial and operational workflows becomes nearly impossible to rip out.
@@ -28,6 +29,7 @@
 - `INS-260403-B198` [high] Revolutionary framing creates a false dichotomy; the winning strategy is evolving what already works with new capabilities layered on top.
 - `INS-260403-3A44` [high] Publicly excluding customer segments that don't fit your product sharpens value perception for the customers who actually matter.
 - `INS-260330-2E34` [high] The arrow hits the target precisely because it bends — rigidity would cause it to deflect off course.
+- `INS-260412-A2FE` [high] Real Graphene's batteries succeed commercially because the graphene sheet is 1-5 atoms thick and doesn't change cell dimensions, making it plug-and-play for phone manufacturers.
 - `INS-260404-C30F` [high] HubSpot reached IPO in 2014 on GTM excellence alone, with additional products only crossing 20% of ARR five years later in 2019.
 - `INS-260412-6F4D` [high] St Helena's airport worked technically but didn't transform the economy because the island lacked the marketing, investment attraction, and route development to exploit it.
 - `INS-260403-9AB5` [high] Most organizations underexplore innovation by focusing only on product features, missing business model, process, and experience innovations.

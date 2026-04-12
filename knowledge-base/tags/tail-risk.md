@@ -1,7 +1,7 @@
 # Tag: tail-risk
 
-- `INS-260410-5871` Run stress tests against the worst outcome ever recorded for each exposure, not against the milder scenarios regulators or consensus supply.
 - `INS-260326-6D53` The opposite of fragile is not robust (indifferent to shocks) but antifragile (benefits from shocks), a distinction with massive implications for portfolio construction and system design.
+- `INS-260410-5871` Run stress tests against the worst outcome ever recorded for each exposure, not against the milder scenarios regulators or consensus supply.
 - `INS-260412-D236` All 15,000 warheads detonated in one place is catastrophic but survivable; extinction requires mining all uranium on Earth, revealing a sharp nonlinearity in existential risk.
 - `INS-260412-3090` Strangelets — invisible, subatomic, and capable of converting Earth — exemplify risks where detection is impossible before impact.
 - `INS-260410-C329` Plague evades the 'don't kill your host' constraint by being vector-borne and rodent-native; COVID-19 was uncontainable because of a specific latency window, not raw lethality.

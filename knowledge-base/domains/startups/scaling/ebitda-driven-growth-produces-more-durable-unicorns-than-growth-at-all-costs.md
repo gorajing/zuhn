@@ -54,8 +54,8 @@ related:
   - INS-260327-4E34
   - INS-260402-3134
   - INS-260405-3098
+  - INS-260412-8BE0
   - INS-260404-BEBB
-  - PRI-260328-BEDD
   - INS-260405-180A
 ---
 While the 2000s-2010s mantra was 'growth at all costs,' eDreams made EBITDA their north star — driving project prioritization, engineering allocation, and incentive structures. They reached $550M+ revenue and $150M+ EBITDA before their $1.5B IPO. Crucially, their focus on profitability didn't actually slow growth; it just made growth sustainable.

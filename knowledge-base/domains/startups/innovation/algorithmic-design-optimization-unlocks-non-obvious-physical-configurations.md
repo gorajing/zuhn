@@ -49,5 +49,6 @@ related:
   - INS-260403-0789
   - INS-260325-5B7F
   - INS-260329-19B3
+  - INS-260412-A2FE
 ---
 MIT used computational algorithms to optimize 3D solar cell geometry, achieving 2 to 20 times the power output of standard flat cells. The key insight isn't about solar specifically — it's that physical design spaces have far more valid configurations than human intuition can explore, and algorithmic search routinely finds non-obvious solutions. This pattern appears across domains: drug molecule design, antenna geometry, chip layout, and architectural structures. For startups, this suggests that any industry still relying on human-intuited physical designs is potentially disrupted by computational design search — the competitive moat shifts from domain expertise to optimization infrastructure.

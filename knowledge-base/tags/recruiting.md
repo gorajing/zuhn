@@ -1,5 +1,6 @@
 # Tag: recruiting
 
+- `INS-260412-9594` Steve Jobs converted Sculley's refusal by reframing the decision from a job change to a question about life purpose.
 - `INS-260403-88B9` The 'startup' label at mature companies often serves as cover for offering below-market salaries with speculative equity.
 - `INS-260403-BACA` AI agents trained on VC hiring frameworks can provide contextual hiring guidance that previously required expensive recruiting professionals.
 - `INS-260410-E076` Dwarkesh received ~1000 applications for a chief-of-staff role through his large platform, but ended up hiring (and finding top contenders) via mutual friends — evidence that elite generalists don't self-apply.

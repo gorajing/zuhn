@@ -28,14 +28,15 @@
 - `INS-260405-2287` 54.6% of U.S. adults use AI personally but fewer than 10% of businesses have integrated it into production, so the real disruption hasn't started yet.
 - `INS-260412-89BE` Near-zero rates after 2008 pushed investment away from productive innovation and into speculative financial assets, permanently lowering GDP per capita trajectory.
 - `INS-260403-9757` Research shows brain function drops 15% above 1000 ppm CO2 and over 50% above 1400 ppm, making CO2 monitoring a high-ROI cognitive tool.
-- `INS-260403-D64B` Forcing yourself to always produce something pushes you away from what you think you should work on and toward what you actually like.
-- `INS-260403-38C5` When you can't browse or check email at your work computer, the ingrained habit of sitting there for hours redirects itself into actual work.
 - `INS-260405-9760` Being measured on output alone and judged against your own bar is the condition for peak productivity.
 - `INS-260330-F671` The electron transport chain extracts energy through a cascade of small reactions rather than one explosive step — a pattern that maps directly to sustainable human productivity.
 - `INS-260403-7943` Population decline creates a doom loop where fewer workers means fewer researchers means lower productivity growth means less ability to compensate for fewer workers.
-- `INS-260403-F1C6` Hard work is not a simple intensity dial but a complex dynamic system where self-honesty is the single skill that enables correct calibration at every point.
+- `INS-260403-D64B` Forcing yourself to always produce something pushes you away from what you think you should work on and toward what you actually like.
+- `INS-260403-38C5` When you can't browse or check email at your work computer, the ingrained habit of sitting there for hours redirects itself into actual work.
 - `INS-260330-F6B1` Per-project procrastination hides behind busy work on less important tasks, causing people to waste years without noticing.
 - `INS-260403-D022` Intense creative work has a daily hour limit (roughly 5 hours) beyond which quality declines, and crossing it is performative rather than productive.
+- `INS-260403-F1C6` Hard work is not a simple intensity dial but a complex dynamic system where self-honesty is the single skill that enables correct calibration at every point.
+- `INS-260330-4E10` Happiness improves decision-making quality, which matters more than raw effort in a leveraged economy.
 - `INS-260404-D547` Fake work — activity that looks like work but produces nothing — is more dangerous than leisure because it doesn't trigger the guilt alarms that would prompt you to stop.
 - `INS-260329-D481` Focus emerges as a default when all competing stimuli are removed, not from trying harder to concentrate.
 - `INS-260329-EC78` Focus means concentrating all rungs on one ladder rather than distributing them across four ladders that each fall short of the wall.
@@ -47,15 +48,17 @@
 - `INS-260330-A1D2` Leslie Perlow's experiment showed engineers who protected mornings from all interruptions on specific days achieved 65% above-average productivity.
 - `INS-260330-D61A` Doing your most exciting task first makes boring subsequent tasks feel worse and tanks performance on them — start with moderately interesting work instead.
 - `INS-260325-1AD3` We suffer doubly from problems: once from the problem itself, and again from indignation that problems should even exist in our lives.
-- `INS-260330-4E10` Happiness improves decision-making quality, which matters more than raw effort in a leveraged economy.
 - `INS-260405-0591` The Calvin cycle produces 6 G3P molecules per turn but only 1 escapes as net product—the other 5 must be recycled to regenerate the 3 RuBP molecules needed to run the next cycle.
-- `INS-260325-FA70` Joy's preconditions — emotional availability, surprise, and connection — are precisely what productivity optimization destroys.
 - `INS-260325-4868` Joy requires emotional openness and surprise, which means putting down the phone and being experientially surprisable.
+- `INS-260325-FA70` Joy's preconditions — emotional availability, surprise, and connection — are precisely what productivity optimization destroys.
 - `INS-260327-5833` Researching the perfect workout plan is more exciting than doing pushups, but only one of them builds muscle.
 - `INS-260405-AC40` Costco pays double the retail average wage and reports three times the productivity, suggesting high wages are a competitive lever rather than a constraint.
 - `INS-260405-47FD` Costco pays $21/hour average — double the U.S. retail average — and gets employees three times more productive in return.
 - `INS-260404-4130` Building the language up toward the problem lets small teams punch far above their weight.
 - `INS-260403-EA2C` Programmer throughput is constant in lines/day, so more succinct languages directly multiply output.
+- `INS-260404-CC66` Founders avoiding vacations face diminishing returns as burnout degrades the decision-making quality that matters most.
+- `INS-260403-E365` Work on ambitious projects you genuinely enjoy, and the right things will naturally get left undone.
+- `INS-260325-5B08` Recovery periods are not downtime but essential inputs to sustained creativity and productivity.
 - `INS-260403-3835` Startups peak in productivity when founders are uninterrupted, and hiring can destroy this by imposing an interrupt-driven culture.
 - `INS-260403-4328` Work expands or contracts to fill available time — forced scheduling from kids constrains but doesn't destroy productive output.
 - `INS-260403-E255` Clustering meetings at day's end converts interruptions into bounded schedule compression without fragmenting deep work blocks.
@@ -66,9 +69,6 @@
 - `INS-260402-7182` When companies can't measure output, they mandate presence, and the gap between mandated hours and actual productive work gets filled by meetings.
 - `INS-260403-2774` Founders who activate every credit program they qualify for drown their teams in context switching, turning free tools into a net productivity loss.
 - `INS-260329-AB9A` Programming for your own use cases removes the hardest parts of software development and lets you focus purely on problem-solving.
-- `INS-260404-CC66` Founders avoiding vacations face diminishing returns as burnout degrades the decision-making quality that matters most.
-- `INS-260403-E365` Work on ambitious projects you genuinely enjoy, and the right things will naturally get left undone.
-- `INS-260325-5B08` Recovery periods are not downtime but essential inputs to sustained creativity and productivity.
 - `INS-260323-1871` Even if AGI never arrives, AI as an extension of human will and amplifier of human abilities is already a transformative outcome.
 - `INS-260330-6A94` Reclaiming your time follows a progression — roommates, commute, alarm clock, calendar, email — and each stage requires disappointing someone.
 - `INS-260329-6204` Structuring long work days around energy allocation and task batching sustains output without burnout.

@@ -54,6 +54,8 @@ related:
   - INS-260325-76BD
   - INS-260323-2F50
   - PRI-260328-3C01
+  - INS-260412-C217
+  - INS-260412-0D71
   - INS-260410-020E
 stance: >-
   EUV lithography took 30 years from Kinoshita's 1983 proof-of-concept to ASML's

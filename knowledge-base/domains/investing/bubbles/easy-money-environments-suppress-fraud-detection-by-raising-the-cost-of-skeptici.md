@@ -55,5 +55,6 @@ related:
   - INS-260412-89BE
   - INS-260412-71C6
   - PRI-260321-2DF0
+  - INS-260412-49DA
 ---
 The video explicitly connects the Javice fraud to the broader macroeconomic context: low interest rates and easy money since 2008 created an environment where investors competed aggressively for deals, making thorough skepticism a competitive disadvantage. When capital is abundant and FOMO dominates, the cost of a missed legitimate deal feels higher than the cost of funding a fraud. This explains why multiple sophisticated institutions — venture funds, Forbes, and ultimately JP Morgan — all failed to catch obvious red flags over a decade. The pattern recurs across boom cycles: the same conditions that create legitimate wealth also create cover for fraud, and the frauds only surface when monetary conditions tighten and scrutiny returns.

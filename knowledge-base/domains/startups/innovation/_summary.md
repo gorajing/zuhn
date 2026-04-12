@@ -1,6 +1,6 @@
 # Topic: innovation
 
-> 143 insights
+> 145 insights
 
 - `INS-260405-EFC2` [high] C invented the curly-brace, semicolon syntax that now defines how billions of developers write code — its design choices became the assumed defaults of most successor languages.
 - `INS-260412-F32D` [high] Sakichi Toyoda sold his power loom patent rights for 1 million yen and gave the proceeds to his son to start Japan's first automobile company.
@@ -38,6 +38,7 @@
 - `INS-260404-31C3` [high] Judging new ideas well means switching from listing reasons they'll fail to imagining ways they could succeed—a complete polarity reversal, not a loosened filter.
 - `INS-260404-6D51` [high] Productive idea evaluation means switching from listing reasons something will fail to actively imagining ways it could succeed.
 - `INS-260403-2DF9` [high] Innovation practice requires leaders to trust evidence from testing processes rather than overriding them with intuition.
+- `INS-260412-6DCE` [high] Li-Fi's ability to use existing LED light bulbs as transmitters dramatically lowers deployment barriers compared to building new wireless infrastructure.
 - `INS-260405-69F1` [high] Innovation spend framed as a call option is harder for CFOs to cut because it reuses their own valuation logic.
 - `INS-260403-62B2` [high] BioCity found that presenting business model validation as scientific experimentation made the business world accessible to scientists who previously felt alienated by it.
 - `INS-260403-268F` [high] Ideas that sound crazy from credible experts are systematically undervalued because everyone is too conservative.
@@ -136,6 +137,7 @@
 - `INS-260403-63E6` [medium] When you lack selection expertise, use others' demonstrated picks as a proxy rather than trying to build the capability internally.
 - `INS-260403-3A34` [medium] Build reusable legal and compliance frameworks with legal teams upfront so innovation teams don't renegotiate from scratch each time.
 - `INS-260405-9FD9` [medium] Osterwalder observes that being tasked with 'inventing the future' of a company carries surprisingly little prestige inside most large organizations.
+- `INS-260412-EA55` [medium] Tata introduced the 8-hour workday in 1912 and medical benefits in 1917, decades before they became standard globally.
 - `INS-260405-3066` [medium] Apple framed wallet replacement not as a convenience upgrade but as a security and privacy improvement — a more compelling reason to change entrenched behavior.
 - `INS-260404-86DE` [medium] Financial incentives to not dismiss weird ideas evolved into a genuine cultural custom of optimism in Silicon Valley.
 - `INS-260403-5427` [medium] Early innovation cohorts predictably struggle with experimentation speed, requiring systematic process fixes rather than ad hoc team support.

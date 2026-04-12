@@ -1,6 +1,6 @@
 # Topic: market-entry
 
-> 58 insights
+> 59 insights
 
 - `INS-260403-535C` [high] Simultaneous supply aging and demand shifting creates opportunities that favor operationally heavy startups over pure software.
 - `INS-260403-16AB` [high] AI copilots in marketplaces increase supply capacity while preserving trust, whereas full autopilots race to zero pricing.
@@ -48,6 +48,7 @@
 - `INS-260403-4610` [medium] Creandum went Stockholm → San Francisco → Germany → London, using US credibility to unlock European markets.
 - `INS-260403-0550` [medium] Shared language and cultural similarity across LatAm countries dramatically reduces the friction of multi-country expansion compared to Europe's patchwork.
 - `INS-260404-8791` [medium] Democratic governance alignment between India and the US reduces political risk, regulatory unpredictability, and cultural friction for American entrepreneurs in ways that create durable structural advantages.
+- `INS-260412-EC27` [medium] High-growth markets with first-time buyers offer easier entry than saturated markets where you must displace incumbents.
 - `INS-260403-1F3F` [medium] Founders in smaller markets should build local ecosystem gravity through conferences, academies, and talent attraction rather than relocating to established hubs.
 - `INS-260404-3574` [medium] Thousands of profitable European SMEs face closure due to retiring founders, creating a €20B serviceable market for employee-buyout platforms.
 - `INS-260404-1B01` [medium] The feeder rodent market has enormous animal numbers but near-zero competition in alternatives, a classic neglected market pattern.

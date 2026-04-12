@@ -49,11 +49,10 @@ stance: >-
   impact inevitable regardless of regulation.
 related:
   - INS-260320-901C
-  - INS-260327-12BE
   - INS-260403-C37B
   - INS-260403-4964
   - INS-260411-1676
   - INS-260403-4819
-  - INS-260403-7B04
+  - INS-260412-6FB6
 ---
 The Princess Leia recreation in Rogue One required 18 months of painstaking frame-by-frame work with expensive computing infrastructure, likely costing hundreds of thousands of dollars. Within three years, an average person with a consumer computer could produce a comparable face-swap in 30 minutes using FakeApp for free. This five-orders-of-magnitude cost collapse follows the pattern seen in other AI-democratized capabilities: once neural networks learn a task, the marginal cost of reproduction approaches zero. The implication is that any regulation targeting deepfake creation faces the same enforcement problem as music piracy — the tools are free, ubiquitous, and improving autonomously. Policy responses must focus on detection and verification infrastructure rather than restricting creation tools.

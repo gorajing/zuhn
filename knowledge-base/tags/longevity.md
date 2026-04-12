@@ -19,9 +19,9 @@
 - `INS-260325-6088` Legs fail first because they are furthest from the heart — leg weakness is the earliest warning of systemic health decline.
 - `INS-260327-52AA` Observational research consistently links higher C15 and C17 odd-chain fatty acid levels (from dairy fat) with better longevity outcomes, yet no one in the longevity space supplements them.
 - `INS-260327-D19D` Bryan Johnson's vegan longevity protocol requires 100+ daily supplements to compensate for nutrients naturally abundant in meat and organs, yet still misses key compounds.
-- `INS-260403-1CB1` Our inability to intuit exponential change causes us to underfund moonshot longevity research in favor of comfortable incremental approaches.
 - `INS-260403-1B96` AI founders face a personal expected-value calculation where certain death in decades vs. a chance at immortality makes even a 25% extinction risk individually rational.
 - `INS-260410-35F5` Every super-successful person Munger knows had three things — high intelligence, hard work, and good luck — and the only way to get lucky two or three times is to start early and keep trying for a long time.
+- `INS-260403-1CB1` Our inability to intuit exponential change causes us to underfund moonshot longevity research in favor of comfortable incremental approaches.
 - `INS-260325-9E0C` The 85-year Harvard Study of Adult Development found that people with the warmest relationships stayed healthiest longest and lived longest.
 - `INS-260325-3A54` The 85-year Harvard Study of Adult Development shows that the single choice most likely to keep you happy and healthy is investing in relationships.
 - `INS-260403-DAA9` Decades of accumulated context at a single company create pattern recognition and reinvention capacity that no amount of capital or talent can fast-track.

@@ -52,9 +52,9 @@ stance: >-
 related:
   - INS-260410-F8B9
   - INS-260327-FA38
+  - INS-260412-5049
   - INS-260327-2475
   - INS-260327-19D2
-  - INS-260327-CF72
 ---
 A well-designed castle had multiple independent defensive layers: a moat, an outer wall, a killing ground, an inner wall (higher than the outer), a gatehouse with murder holes, and a final keep. Each layer independently slowed attackers and inflicted casualties. Even if one layer was breached, the defenders fell back to the next. The total cost of storming all layers was almost always higher than the castle's strategic value.
 

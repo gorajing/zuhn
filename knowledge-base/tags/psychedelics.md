@@ -6,10 +6,10 @@
 - `INS-260325-6576` Animal research suggests psychedelics increase neuroplasticity in the days after use, creating a window where new patterns stick more easily — explaining why single sessions produce lasting change.
 - `INS-260409-9991` Clinical and recreational psychedelic use are different interventions and their risk/benefit data should not be pooled.
 - `INS-260409-C0DF` The interesting longevity claim is that psychedelics may produce measurable metabolic and neural rejuvenation effects, not just subjective mental health benefits.
-- `INS-260330-81B1` Johnson's pilot study showed 80% smoking cessation at 6 months with psilocybin therapy versus 25-35% for the best existing treatments.
-- `INS-260330-4079` Psychedelics appear to work therapeutically by temporarily destabilizing rigid neural patterns, creating a window of increased flexibility where new behavioral repertoires can form.
 - `INS-260403-7639` MDMA's therapeutic mechanism is enabling self-compassion — people can face traumatic memories without the self-loathing that normally blocks processing.
 - `INS-260330-2304` Psychedelics temporarily suppress the default mode network, breaking entrenched neural patterns and enabling cognitive flexibility that persists after the drug wears off.
+- `INS-260330-81B1` Johnson's pilot study showed 80% smoking cessation at 6 months with psilocybin therapy versus 25-35% for the best existing treatments.
+- `INS-260330-4079` Psychedelics appear to work therapeutically by temporarily destabilizing rigid neural patterns, creating a window of increased flexibility where new behavioral repertoires can form.
 - `INS-260330-415C` Johnson's framework reframes psychiatric disorders as varieties of stuck-ness — narrowed loops of thought and behavior — that psychedelics disrupt by forcing the brain into novel configurations.
 - `INS-260409-6349` Ego-dissolution reports tell you something about how the brain constructs the self, not that the dissolution reveals a deeper metaphysical truth.
 - `INS-260330-7C42` Clinical psilocybin therapy uses 30-40mg doses because partial dissolution creates anxiety without breakthrough, while full doses enable the mystical-type experiences correlated with lasting therapeutic benefit.

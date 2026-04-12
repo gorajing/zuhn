@@ -47,7 +47,6 @@ related:
   - PRI-260328-82BE
   - PRI-260324-3081
   - INS-260324-29D8
-  - INS-260405-EF0F
   - INS-260412-8401
 stance: >-
   VCs proclaimed scooters would 'disrupt walking,' raised billions with no moat

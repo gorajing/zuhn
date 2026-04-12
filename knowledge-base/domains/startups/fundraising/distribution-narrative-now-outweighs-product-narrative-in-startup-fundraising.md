@@ -48,7 +48,6 @@ stance: >-
   evaluate go-to-market as the primary risk factor.
 related:
   - INS-260327-07C9
-  - INS-260402-15A7
   - INS-260404-2250
   - INS-260404-8321
   - INS-260405-7F42
@@ -57,6 +56,7 @@ related:
   - PRI-260407-D50C
   - INS-260403-64F1
   - PRI-260406-8DF5
+  - INS-260410-4670
 ---
 Multiple signals in this roundup converge on a single thesis: distribution is the new moat. VCs themselves are building newsletters for distribution. The advice to founders is to 'give VCs a reason to find you' rather than cold-pitching. And the funding concentration data shows that capital flows to startups with proven market pull, not just technical differentiation.
 

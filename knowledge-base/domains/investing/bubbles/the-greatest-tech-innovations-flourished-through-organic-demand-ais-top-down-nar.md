@@ -49,6 +49,7 @@ related:
   - INS-260324-9586
   - INS-260403-E4C7
   - INS-260410-6ADD
+  - INS-260412-7C6B
 stance: >-
   The microprocessor, PC, Wi-Fi, smartphones, and GPS all flourished through
   organic market demand — no one adopted them under threat of extinction

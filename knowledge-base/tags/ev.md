@@ -1,5 +1,6 @@
 # Tag: ev
 
+- `INS-260412-91DF` Mandatory lithium recovery and recycled-content targets for EV batteries create structural demand for recycling infrastructure investment.
 - `INS-260412-021A` EV cost and range already meet consumer tipping-point thresholds, but charging speed and station density do not.
 - `INS-260412-12A5` Governments offer EV purchase tax credits but neglect charging infrastructure, putting the cart before the horse.
 - `INS-260403-DC18` Oil's inelastic demand means small supply disruptions cause massive price spikes, while electricity prices remain comparatively stable.

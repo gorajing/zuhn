@@ -59,10 +59,10 @@ related:
   - INS-260402-9288
   - INS-260403-4314
   - INS-260403-9CC1
+  - INS-260412-5649
   - INS-260404-A0C2
   - PRI-260406-1AA1
   - INS-260403-6F8B
-  - INS-260403-A07A
 ---
 Aswath Damodaran proposes replacing multiple-based valuation shortcuts with a breakeven-revenue framework: for any given market cap, calculate the minimum revenue a company must generate to justify that price, given reasonable assumptions about margins, growth rates, and reinvestment needs. This approach forces investors to confront whether the implied revenue targets are physically achievable.
 

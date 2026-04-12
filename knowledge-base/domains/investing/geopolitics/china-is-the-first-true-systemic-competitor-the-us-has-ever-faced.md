@@ -54,8 +54,8 @@ related:
   - INS-260323-FFE8
   - INS-260402-45FA
   - INS-260403-8E25
+  - INS-260412-37A6
   - INS-260403-6694
-  - INS-260327-EE5E
 ---
 Chamath frames the US-China dynamic with a striking historical observation: neither the Soviet Union nor the combined economies of Germany, Italy, and Japan during WW2 ever accounted for more than 60% of US GDP. The modern US had never faced a true systemic competitor until China. He traces the turning point to 2001, likely referencing China's WTO accession.
 

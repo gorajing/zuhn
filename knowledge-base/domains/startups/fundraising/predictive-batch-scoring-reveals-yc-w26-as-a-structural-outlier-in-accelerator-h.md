@@ -68,8 +68,8 @@ related:
   - INS-260403-C89A
   - PRI-260322-8FD4
   - INS-260404-9103
+  - INS-260412-7E99
   - INS-260403-52FF
-  - INS-260403-9CC1
 ---
 Rebel Fund, which has attended every YC Demo Day since 2013, built a machine learning algorithm to score YC batches. Their W26 analysis reveals something unprecedented: 35% of startups score in the top 20% of all YC companies ever evaluated, and the entire distribution curve has shifted right with fewer predicted zombie companies.
 

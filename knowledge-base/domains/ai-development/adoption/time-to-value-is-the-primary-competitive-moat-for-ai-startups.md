@@ -55,8 +55,8 @@ related:
   - INS-260329-5924
   - INS-260329-CBF3
   - INS-260329-A4CA
-  - INS-260330-6A47
   - INS-260403-2DE3
+  - INS-260403-CF0E
 ---
 The AI market is moving fast enough that incumbency advantages are weak and switching costs are low. In this environment, the startup that gets users to their 'aha moment' fastest builds habitual usage before competitors can catch up. Slow onboarding is especially lethal because users have many AI alternatives to try immediately.
 

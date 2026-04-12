@@ -16,8 +16,8 @@
 - `INS-260410-230E` Regulate AI like factories after the industrial revolution — ban chemical weapons and aerial bombardment, not steel mills.
 - `INS-260410-7AC1` Vague AI safety terminology in regulation is a loaded weapon waiting for an authoritarian to pick up.
 - `INS-260327-D65E` OpenAI frames iterative deployment as essential for building societal readiness for the long-term vision of autonomous AI agents.
-- `INS-260412-46A7` Russia's policy of granting Siberian overflight to only one airline per European country creates de facto monopolies on Asia routes for legacy carriers.
 - `INS-260412-0846` The same speculative instruments get banned after crashes and re-legalized once the generation that lived through them is gone.
+- `INS-260412-46A7` Russia's policy of granting Siberian overflight to only one airline per European country creates de facto monopolies on Asia routes for legacy carriers.
 - `INS-260405-6E5F` The SEC issued an interpretive release separating crypto into five categories—four of which are not securities—ending the default 'everything is a security' enforcement posture.
 - `INS-260410-F41F` The 2009 HITECH Act's $36B in 'meaningful use' incentives drove EMR adoption from 9% to 95% of hospitals in five years—which sounds like a tailwind, but the deeper effect was closing the door on any future innovative competitor by compressing decades of buying decisions into one window.
 - `INS-260412-D138` CZ's strategic tweet dumping $2B in FTT was a calculated competitive kill shot that would be illegal in regulated markets but was perfectly legal in crypto.
@@ -41,6 +41,7 @@
 - `INS-260403-2D99` Regulatory constraints are structural business model inputs that must be designed around, not obstacles to navigate after launch.
 - `INS-260404-D471` Social activism and regulatory changes can render entire business models unviable, not just reduce margins.
 - `INS-260330-E811` Innovation ecosystems are historically destroyed by authoritarian rulers, ideological fundamentalists, or rent-seeking extractors.
+- `INS-260412-6373` When regulation forces incumbents to redesign core products, their accumulated design moats temporarily evaporate.
 - `INS-260412-6D8C` The NSA's campaign to suppress cryptography research — including secrecy orders and banning conference sessions — drove cypherpunks to build systems specifically designed to be unstoppable by governments.
 - `INS-260323-07BE` Johns-Manville systematically acquired companies with asbestos-free alternatives to eliminate anyone who could publicly denounce asbestos as dangerous.
 - `INS-260330-8D4F` DuPont knew C8 caused cancer in rats by the early 1980s, liver disease in workers by the mid-1970s, and toxic effects across multiple species from the 1960s — but shared none of this with the scientific community or regulators for decades.
@@ -62,6 +63,7 @@
 - `INS-260403-C4B3` Regulatory compliance costs act as de facto subsidies for large businesses by creating barriers that small competitors cannot easily absorb.
 - `INS-260412-CAAD` St Helena's airport needs nearly the same firefighting, meteorology, navigation, and security infrastructure as Heathrow despite having one flight per week versus thousands.
 - `INS-260403-BA4B` Geopolitical decentralization prevents any single lobby from permanently distorting property definitions to serve incumbents.
+- `INS-260412-684D` EU regulations force worldwide product changes because maintaining region-specific SKUs is cost-prohibitive.
 - `INS-260403-CD68` Libra failed partly because regulators went beyond setting guardrails to actively managing product decisions, making it impossible to ship a market-responsive product.
 - `INS-260412-E07F` The Boeing 757 found its most valuable use case (transatlantic flights) 24 years after launch when twin-engine ocean regulations changed.
 - `INS-260404-7834` When you can't fix the source of a problem (e.g., patent issuance), target the point where harm actually occurs (e.g., patent enforcement against startups).

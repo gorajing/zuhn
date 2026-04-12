@@ -49,10 +49,10 @@ stance: >-
   profit motive.
 related:
   - INS-260403-88F2
+  - INS-260412-3506
   - INS-260327-9EE4
   - INS-260412-9E32
   - INS-260412-7C35
-  - INS-260412-51C1
 evidence:
   - id: INS-260328-896B
     type: SUPPORTS

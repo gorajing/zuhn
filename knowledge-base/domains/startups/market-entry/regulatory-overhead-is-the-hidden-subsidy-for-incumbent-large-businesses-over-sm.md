@@ -56,7 +56,6 @@ related:
   - INS-260412-4477
   - INS-260404-AD2B
   - INS-260403-65AC
-  - INS-260412-004A
 ---
 Large chain businesses like CVS or Walgreens have already budgeted for expensive permits, renovations, and labor regulations. These fixed costs are trivial at scale but devastating for small independents trying to enter the market. This means that regulations ostensibly designed to protect consumers often have the perverse effect of consolidating market power among incumbents.
 

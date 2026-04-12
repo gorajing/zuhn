@@ -1,6 +1,6 @@
 # Topic: timing
 
-> 68 insights
+> 70 insights
 
 - `INS-260404-007F` [high] Enterprise SaaS IPOs from 2012 outperformed expectations by solving deep operational pain points with recurring revenue models.
 - `INS-260330-ADB7` [high] Gallium nitride was declared a 'dead end' by RCA in 1972 and by Nichia's biggest customer in 1990, yet became an $80 billion industry by 2024.
@@ -9,6 +9,7 @@
 - `INS-260323-9EEC` [high] EUV lithography took 30 years from Kinoshita's 1983 proof-of-concept to ASML's commercial machine because it required convergence of nuclear fusion mirror research, laser-produced plasma, and precision manufacturing — all initially developed in unrelated fields.
 - `INS-260404-A15B` [high] Incumbents reject better technology when the status quo is irrationally profitable.
 - `INS-260330-318C` [high] Mobile money adoption in Africa was explosive because the alternative — physically transporting cash over multi-day journeys with theft risk — made adoption a survival decision rather than a convenience choice.
+- `INS-260412-7BD5` [high] Li-Fi was demonstrated in a TED talk in 2011, reached real-world trials by 2015, yet still hasn't achieved mass adoption by 2026 — a pattern typical of physical-layer technologies.
 - `INS-260330-230D` [high] Christianity spread fastest not during Rome's peak but during its decline, when Roman religion's promise of earthly prosperity visibly failed average citizens.
 - `INS-260328-93C8` [high] The difference between a technology arriving in 18 months versus 10 years should completely change your strategy, even though both scenarios validate the same directional prediction.
 - `INS-260330-9863` [high] Outsized returns consistently go to people willing to pursue weird-looking opportunities before they become professionalized.
@@ -53,6 +54,7 @@
 - `INS-260403-CAAB` [medium] Major AI game breakouts are delayed because inference speed, cost, model quality, and media generation must all mature simultaneously — just as internet games waited for bandwidth, GPUs, and memory.
 - `INS-260405-4D20` [medium] Greg Isenberg's 2024 claim that it's the best time to start a company in 30 years is grounded in AI dramatically compressing the cost and time to build an MVP.
 - `INS-260404-6FFF` [medium] Consumer-focused startups are making a comeback, following a historical pattern where new technology waves re-open B2C opportunity windows.
+- `INS-260412-0D71` [medium] Graphene took 16 years from discovery (2004) to first consumer product (2020), consistent with historical timelines for carbon fiber, lithium-ion, and other breakthrough materials.
 - `INS-260404-D40E` [medium] Map the business environment — trends, competition, customer context, and macro forces — to validate whether your timing is right.
 - `INS-260328-9C16` [medium] Founders with good domain insights but poor pre-AI tools are finding that AI lets them deliver dramatically more value to the same customers.
 - `INS-260412-6C6F` [medium] The 2008 crisis directly spawned Bitcoin and the Occupy movement because mass betrayal by trusted institutions creates explosive demand for alternatives.

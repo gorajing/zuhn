@@ -1,6 +1,6 @@
 # Topic: company-culture
 
-> 10 insights
+> 11 insights
 
 - `INS-260412-376C` [high] Enron's rank-and-yank system created a culture where 18-hour days and ruthless profit-seeking replaced ethical guardrails.
 - `INS-260410-0042` [high] Equity to part-time frontline workers isn't retention math — it's the moment a company becomes a different organism.
@@ -8,6 +8,7 @@
 - `INS-260410-5474` [high] Trader Joe's pays crew members 40–150% above industry comp and rotates everyone through every role — no dedicated cashiers, baggers, or stockers — so any employee can knowledgeably answer any product question.
 - `INS-260412-9C7F` [high] Theranos's extreme secrecy, surveillance, and retaliation against dissenters functioned as a fraud-preservation system rather than legitimate IP protection.
 - `INS-260412-98B1` [medium] Neumann's personal habits — tequila retreats, barefoot offices, impulsive bans — became WeWork's culture, making the company inseparable from his increasingly erratic behavior.
+- `INS-260412-F2A6` [medium] Jamsetji Tata's philanthropic values from 1868 still drive Tata Group's operations and reputation 150+ years later.
 - `INS-260410-3B42` [medium] Rentech's location in East Setauket — a wooded Long Island town of 10,000 — is a load-bearing cultural feature, not an accident: employees don't grab drinks with Two Sigma counterparts because those counterparts aren't within reach.
 - `INS-260405-AC40` [medium] Costco pays double the retail average wage and reports three times the productivity, suggesting high wages are a competitive lever rather than a constraint.
 - `INS-260410-245F` [medium] Mars pays associates 2-4x market rates through bonuses tied to overall company performance, producing partner-like loyalty without equity.

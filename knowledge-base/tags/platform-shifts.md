@@ -9,6 +9,7 @@
 - `INS-260412-22A6` Samsung's failure to produce qualifying HBM3E chips for Nvidia — despite being a major semiconductor manufacturer — triggered a $122B market cap loss precisely because memory chips are Samsung's supposed core competency.
 - `INS-260410-2B55` AlexNet happened in 2012 and Nvidia was at the center of it, yet Nvidia stock didn't reclaim its 2007 market cap until 2016 — four full years of mispricing despite Jensen openly telling investors what was happening on earnings calls.
 - `INS-260405-CF27` Driving the marginal cost of any scarce input to zero historically creates platform-scale winners; humanness is next.
+- `INS-260412-8BE0` Smartphones grew at 4x the PC industry's peak growth rate, selling 1 billion units in a single year versus PCs taking 33 years to reach the same cumulative total.
 - `INS-260403-AC5E` AI's software-only adoption curve means both attackers and incumbents can move faster than during the mobile shift, creating a speed-dependent competitive dynamic.
 - `INS-260328-9408` None of the YC mobile winners had pre-iPhone mobile experience; the same pattern is playing out with AI disrupting SaaS.
 - `INS-260410-8F36` Bill Gates made 'exponential phenomena cannot be ignored' a core Microsoft value after recognizing the internet's compounding growth in 1994.

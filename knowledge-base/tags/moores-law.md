@@ -1,5 +1,6 @@
 # Tag: moores-law
 
+- `INS-260412-3FF0` A 2013 smartphone chip performed 28 billion calculations per second — 72 million times more than ENIAC, which filled an entire room in 1946.
 - `INS-260412-3CF8` Below ~5nm, electrons tunnel through transistor gates, making classical binary switching unreliable.
 - `INS-260325-3D31` Transistors are approaching 5 atoms across, where electrons hop freely via quantum tunneling and short-circuit the chip -- this physical limit will flatten Moore's Law.
 - `INS-260325-B234` Moore's Law is not physics but economics: it holds as long as shrinking transistors unlocks larger markets — and AI demand is the latest force sustaining this investment cycle.

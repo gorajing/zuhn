@@ -9,19 +9,20 @@
 - `INS-260410-E6E8` Nadella identifies the Majorana 1 achievement as dual — both physics existence proof AND a repeatable fabrication technique — and treats the fabrication half as the precondition for everything that follows.
 - `INS-260410-7C07` Drill past GPUs, past power plants, past turbines, and you find three casting companies making vanes and blades — the real ceiling on AI infrastructure through 2030.
 - `INS-260410-41EF` Microsoft bet 30 years on topological qubits because Nadella believed reliable utility-scale quantum demanded a physics breakthrough, not incremental noise reduction.
-- `INS-260404-1E65` Non-invasive wearables (wristbands, headbands) lower the adoption barrier for brain-computer interfaces compared to surgical implants.
 - `INS-260405-567D` NVIDIA's Vera Rubin platform delivers 10x inference efficiency gains, signaling the industry's pivot from training to inference as the dominant workload.
-- `INS-260410-0EF8` Most headline software innovations in deep learning were really innovations in how to exploit more compute—so 'software-only singularity' stories that hold compute fixed are misspecified.
+- `INS-260404-1E65` Non-invasive wearables (wristbands, headbands) lower the adoption barrier for brain-computer interfaces compared to surgical implants.
 - `INS-260405-5649` Biological neurons operate in milliseconds on minimal power; H100 GPUs process billions of times faster but consume massive energy—these are fundamentally different engineering solutions to intelligence, not points on a spectrum.
+- `INS-260410-0EF8` Most headline software innovations in deep learning were really innovations in how to exploit more compute—so 'software-only singularity' stories that hold compute fixed are misspecified.
 - `INS-260323-2DF2` The explosion of AI accelerators (GPUs, TPUs, NPUs) creates an impossible maintenance burden that only a universal abstraction layer can solve.
 - `INS-260323-6761` Instead of humans manually finding cache sizes, tile dimensions, and vector widths, the compiler runs your code on the target hardware and caches the empirically fastest configuration.
-- `INS-260405-E155` In hybrid hardware+SaaS models, blended margin is the single metric most likely to hide a fatal business problem.
 - `INS-260410-C8C2` Nvidia's first-mover advantage became a liability when Microsoft standardized on triangles and Moore's law collapsed memory costs — their quadrilateral-based, memory-constrained design was obsolete before it shipped.
 - `INS-260327-D285` Don't just build a better product—build a business model that makes incumbents look exploitative.
 - `INS-260324-8656` GoPro launched 9 generations and 20 models in 10 years, flooding the market with trivial improvements — Insta360 stayed quietly product-first with soft-spoken founders and grew to a $10B valuation.
 - `INS-260412-E4F5` Shenzhen's power comes from proximity-driven iteration speed, not just cheap labor.
 - `INS-260403-8194` Tariffs up to 34% on China/Taiwan/Korea imports are forcing hardware startups to shift from cost-optimized to resilience-optimized supply chains.
 - `INS-260330-F9B4` Tech strategy is a race up the control hierarchy: plugins → websites → apps → OS → hardware, where each level reduces dependence on others.
+- `INS-260412-37A6` Commoditized technology lets new entrants match incumbent quality at a fraction of the price, shifting competition to design and distribution.
+- `INS-260405-E155` In hybrid hardware+SaaS models, blended margin is the single metric most likely to hide a fatal business problem.
 - `INS-260323-DDC2` You can only iterate fearlessly on expensive robots if you can repair them yourself — the ability to 'just go make it' is the enabling condition for rapid learning.
 - `INS-260330-C0E2` Apple's improving phone quality extended upgrade cycles from 2 years to 3-4 years, flattening sales despite a growing installed base — a structural paradox for any durable goods company.
 - `INS-260412-8E7E` Samsung repeatedly entered established markets late, then iterated until they became market leaders — memory chips, TVs, smartphones, displays.

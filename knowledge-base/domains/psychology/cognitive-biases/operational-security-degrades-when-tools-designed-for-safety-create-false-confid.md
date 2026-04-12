@@ -49,8 +49,8 @@ related:
   - INS-260404-F172
   - INS-260404-7ED7
   - PRI-260406-598F
+  - INS-260412-3506
   - PRI-260325-3F50
   - INS-260403-3566
-  - INS-260403-BE93
 ---
 The dark web's elaborate hit-man scams (like Besa Mafia) succeeded precisely because users believed the anonymity layer made transactions safe. The same encryption that hides identity also hides intent — users who feel protected by Tor's anonymity become less critical of the services they engage with. This is a broader pattern: security tools can create moral hazard by making people feel invulnerable, causing them to take risks they'd never take in transparent environments. The principle applies beyond the dark web to any context where perceived safety infrastructure reduces personal vigilance — encrypted messaging, VPNs, or even physical security systems.

@@ -1,7 +1,8 @@
 # Topic: marketing
 
-> 8 insights
+> 9 insights
 
+- `INS-260412-0CAA` [high] Nokia contracted a top-tier independent ad agency (MOTHER) for an all-out campaign blitz, recognizing that brand re-entry is a one-shot moment that demands memorable, resonant advertising.
 - `INS-260405-F456` [high] PostHog's genuinely useful company blog—covering topics like CEO communication, first 1,000 users, and startup sales—is cited as a model for content marketing.
 - `INS-260410-C070` [high] Frank Robinson dropped Coca-Cola's 'sovereign remedy for headache and nervousness' messaging and repositioned it as 'delicious and refreshing' — the product was identical, but he was advertising to the masses instead of the few.
 - `INS-260410-3E0A` [high] Coke pivoted from describing what the drink does ('delicious and refreshing') to associating it with happiness, family, Christmas, and sports heroes — and that extrinsic association is what compounded into a $300B brand.

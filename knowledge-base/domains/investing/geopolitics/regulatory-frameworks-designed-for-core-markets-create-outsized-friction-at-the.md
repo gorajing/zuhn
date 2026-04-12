@@ -47,10 +47,10 @@ stance: >-
   processes) impose disproportionate costs on edge cases, and these costs
   compound as distance from the core increases.
 related:
+  - INS-260412-684D
   - INS-260403-1F40
   - PRI-260328-0123
   - PRI-260406-5854
   - INS-260403-640B
-  - INS-260403-C4B3
 ---
 The Jones Act prevents foreign ships from carrying cargo between US ports, which is a reasonable protectionist measure for continental routes but devastating for Guam — forcing reliance on more expensive US-flagged carriers for most goods. Similarly, FAA approval requirements designed for large intercontinental airlines deter small regional Asian carriers from serving Guam. This pattern generalizes: regulatory frameworks calibrated for a system's core create escalating friction at the periphery. The insight applies to platform governance, corporate policy for satellite offices, and any centralized rule-making that must serve diverse edge cases. The cost isn't just direct — it's the opportunities that never materialize because peripheral actors self-select out of compliance burden.

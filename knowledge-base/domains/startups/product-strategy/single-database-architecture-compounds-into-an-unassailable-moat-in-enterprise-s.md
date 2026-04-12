@@ -68,8 +68,8 @@ related:
   - INS-260404-D6EC
   - INS-260330-C24F
   - INS-260403-A0B0
+  - INS-260412-7E99
   - INS-260403-407A
-  - INS-260404-7A5B
 ---
 Epic's core differentiation is architectural: a single integrated database (Chronicles) that every module directly queries—EMR, Resolute billing, Cadence scheduling, MyChart, Cosmos. This produces two reinforcing advantages. First, reliability: implementations go live on time and on budget because there's no cross-system data-passing to break. Second, workflow integrity: clinical events and billing events never drift out of sync, which is existential in healthcare where dropped data means lost revenue, audit failure, or patient harm.
 

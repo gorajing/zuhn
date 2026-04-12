@@ -63,6 +63,7 @@ related:
   - PRI-260328-0993
   - PRI-260328-1A2D
   - INS-260405-BFC0
+  - INS-260412-CB3C
 ---
 The Hemingway bankruptcy quote — 'gradually, then suddenly' — describes exactly what happened to print media. Classifieds moved to the internet first (Craigslist, early 2000s). Then display advertising migrated as digital CPMs fell. Then the newsstand habit broke when smartphones arrived. Each pillar fell on a slightly different timeline, giving incumbents the illusion of manageable decline. But each lost revenue stream reduced the margin to absorb the next hit.
 

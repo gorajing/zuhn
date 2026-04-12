@@ -20,10 +20,12 @@
 - `INS-260403-BA1B` OpenAI's Miqdad Jaffer argues AI features get copied fast while costs outrun revenue, making data, distribution, and trust the real moats.
 - `INS-260410-C8C2` Nvidia's first-mover advantage became a liability when Microsoft standardized on triangles and Moore's law collapsed memory costs — their quadrilateral-based, memory-constrained design was obsolete before it shipped.
 - `INS-260403-3C2C` Every technology eventually hits a commoditization inflection point where differentiation must shift away from the tech itself.
+- `INS-260412-37A6` Commoditized technology lets new entrants match incumbent quality at a fraction of the price, shifting competition to design and distribution.
 - `INS-260326-286F` What wins long-term is always the thing that accumulates invisibly, because the impressive-looking variable commoditizes.
 - `INS-260330-9DE6` Omega died chasing performance against quartz while Patek survived by pivoting to brand, proving that doubling down on a commoditized advantage is fatal.
 - `INS-260321-CCD9` Basic image generation is being absorbed by foundation models, but creative tools that are aesthetically opinionated (Midjourney) or own non-commoditized modalities (Suno for music, 11 Labs for voice) maintain defensible positions.
 - `INS-260403-D543` The pattern where dramatic cost reduction leads to massive volume increase and new use cases — seen in steel, power, and computing — is now happening to startups themselves.
 - `INS-260403-E7E1` When everyone has the team and the tech, the scarce resource is a strong enough point of view on what should exist.
 - `INS-260403-B6A0` Making something dramatically cheaper doesn't just expand the existing market—it creates qualitatively new use cases, as seen from Roman water mills to personal computers.
+- `INS-260412-7C6B` NASA used off-the-shelf smartphones as satellite computers because consumer market scale drove costs below what purpose-built satellites could match.
 - `INS-260412-DCDC` The entire aviation industry is dictated by economics not comfort — airlines find it far easier to market lower prices than higher comfort.

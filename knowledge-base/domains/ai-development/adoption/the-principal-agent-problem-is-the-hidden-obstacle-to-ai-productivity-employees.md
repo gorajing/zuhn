@@ -52,6 +52,7 @@ related:
   - INS-260330-625B
   - INS-260403-8A80
   - INS-260329-EC33
+  - INS-260412-EA55
 stance: Individual employees want to be lazier and richer
 evidence:
   - id: INS-260329-1F4D

@@ -57,9 +57,9 @@ stance: >-
 related:
   - INS-260403-35CB
   - INS-260403-27F5
+  - INS-260412-3506
   - INS-260410-E73E
   - INS-260329-0154
-  - INS-260323-8D12
 ---
 Anthropic explicitly called out that their internal privacy and security controls limit engineer access to user interactions — especially ones not submitted as explicit feedback. This is the right privacy posture, but it creates a real operational tax: the people best equipped to diagnose a bug can't look at the requests where the bug occurred unless a user voluntarily reports it.
 

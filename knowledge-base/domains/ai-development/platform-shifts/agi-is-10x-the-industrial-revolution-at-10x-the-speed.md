@@ -49,7 +49,7 @@ related:
   - INS-260409-A318
   - INS-260330-30AB
   - INS-260403-458A
+  - INS-260412-3FF0
   - INS-260412-4441
-  - INS-260410-8F36
 ---
 Hassabis has been reading about the Industrial Revolution and uses it as the reference frame for AGI's economic and social impact. The Industrial Revolution gave us modern medicine (child mortality dropped from ~40%) but also caused 'huge upheaval.' His claim is that AGI will be bigger in magnitude AND faster in timeline. This framing is falsifiable: if by 2035 we don't see Industrial-Revolution-scale transformation (new industries, displaced labor categories, massive productivity gains) then either his timeline or magnitude estimate was wrong. Useful for calibrating investment, policy, and career decisions — treating AI as 'the internet' underestimates the magnitude per Hassabis.

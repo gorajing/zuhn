@@ -7,9 +7,9 @@
 - `INS-260403-7EB2` Keep a running notes document tracking exec questions and feedback to anticipate their reactions in future discussions.
 - `INS-260403-B887` Present proposals in terms of what the audience already cares about, not what you care about.
 - `INS-260403-541C` Systematically research each stakeholder's incentives, decision process, and concerns before attempting to influence them.
-- `INS-260330-E77D` Myths propagate most effectively when the source simply stays silent and lets others fill in the narrative.
 - `INS-260323-7212` Network experiments show the world is 'poised on an edge of instability' where one person's choice can tip an entire system toward cooperation or defection.
 - `INS-260325-922D` You control nothing but influence everything; every action has unforeseen ripple effects that reshape the future.
+- `INS-260330-E77D` Myths propagate most effectively when the source simply stays silent and lets others fill in the narrative.
 - `INS-260410-537E` Acquired's Nintendo episode underperformed the benchmark but landed with one Meta exec who forwarded it to Zuckerberg — which unlocked the 6,000-seat Chase Center show.
 
 - `INS-260323-3982` Friedman's willingness to compromise and say 'I was wrong' gave him lasting policy influence, while Rand's philosophical purity made her schismatic and limited her practical impact.

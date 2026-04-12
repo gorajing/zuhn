@@ -53,8 +53,8 @@ related:
   - PRI-260328-37D8
   - PRI-260406-B331
   - PRI-260328-A1AA
+  - INS-260412-6373
   - INS-260330-57BB
-  - PRI-260411-5A63
 ---
 SEIU's strategy follows a clear pattern: identify an industry (hospitals, then dialysis, then tech), propose legislation that sounds progressive but is designed to be ruinous, then either extract concessions for withdrawal or win the vote and capture the earmarked revenue. The union leader explicitly described this as a deliberate investment strategy with measurable ROI.
 

@@ -7,3 +7,5 @@
 - `INS-260403-3AF9` EVs provide the massive scale demand needed to make domestic battery and motor production economically viable, which then feeds into drones, robots, electronics, and military systems.
 - `INS-260403-B6E6` Thylakoids are charged like batteries by pumping protons to one side, then releasing them through ATP synthase to produce energy—imbalance is the engine.
 - `INS-260403-3C2C` Every technology eventually hits a commoditization inflection point where differentiation must shift away from the tech itself.
+- `INS-260412-BA74` Real Graphene's CEO explicitly stated graphene batteries would trickle down from higher-end devices first, using premium willingness-to-pay to absorb the 30% cost premium while scaling manufacturing.
+- `INS-260412-A2FE` Real Graphene's batteries succeed commercially because the graphene sheet is 1-5 atoms thick and doesn't change cell dimensions, making it plug-and-play for phone manufacturers.

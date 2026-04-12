@@ -54,5 +54,6 @@ related:
   - PRI-260321-14D8
   - INS-260404-19B0
   - INS-260327-3A71
+  - INS-260412-3252
 ---
 Gary's framing: we're heading into a 'barbell world' with extreme technology scaling on one side and extreme analog value on the other, while the middle (generic digital content, ordinary influencer posts) collapses. Real-life pop-up shops, sporting events, in-person podcasts, and real restaurants appreciate in value precisely because AI-generated content is glutting the digital side. This is why Gary is hiring human writers for longer-form written content and investing in conference hosting even while running a media company. The implication: operators should deliberately invest in analog formats as a differentiated capability, not treat them as legacy.

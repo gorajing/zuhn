@@ -44,11 +44,11 @@ stance: >-
   disruption because they build for their own narrow use case without seeing the
   broader implications.
 related:
+  - INS-260412-6FB6
   - PRI-260324-DE71
   - INS-260412-454A
   - INS-260412-4441
   - INS-260403-E59C
-  - INS-260403-2496
 evidence:
   - id: INS-260327-85E2
     type: SUPPORTS

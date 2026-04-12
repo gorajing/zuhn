@@ -48,11 +48,11 @@ stance: >-
   Companies whose content strategy depends on ranking for generic informational
   queries will lose the majority of that traffic to AI-generated answers
 related:
+  - INS-260412-3506
   - INS-260330-629E
   - INS-260327-9DA6
   - INS-260403-FFF0
   - INS-260327-D0F4
-  - INS-260330-930D
 ---
 HubSpot's strategy of publishing massive volumes of blog posts targeting high-volume keywords—even topics unrelated to their core product—worked for years. But when Google's algorithm updates began favoring people-first content and AI summaries started answering simple queries directly, their traffic plummeted. The content that buried answers under SEO padding and long intros was exactly what AI filters out.
 

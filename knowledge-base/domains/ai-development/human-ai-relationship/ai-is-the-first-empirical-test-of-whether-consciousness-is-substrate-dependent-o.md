@@ -47,7 +47,6 @@ stance: >-
   inadequate, and the answer determines whether alignment is a control problem
   or an ethics problem.
 related:
-  - INS-260325-EF79
   - INS-260330-EEAE
   - INS-260327-A4FE
   - INS-260325-0E70

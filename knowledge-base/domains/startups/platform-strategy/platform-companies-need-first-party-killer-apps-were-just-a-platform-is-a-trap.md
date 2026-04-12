@@ -63,8 +63,8 @@ related:
   - INS-260404-A6D4
   - INS-260403-14E0
   - INS-260403-EAC6
+  - INS-260412-6FB6
   - INS-260323-DE2B
-  - PRI-260328-82BE
 ---
 Ballmer's biggest cultural regret: Microsoft got stuck in 'we're a platform company' mindset in the 2000s, with people telling him 'we can't do that, we're a platform company.' He argues this is wrong on two levels. First, applications themselves are platforms — Office is extended by partners just as Windows is. Second, a pure platform without a great first-party app has no way to discover what the platform actually needs. You need the tension of shipping a great app on top of your own infrastructure.
 

@@ -52,7 +52,6 @@ stance: >-
   work occupies a strategic middle layer that resists replacement by
   alternatives moving in either direction.
 related:
-  - INS-260323-7F36
   - INS-260402-5242
   - INS-260403-4964
   - PRI-260405-F9BD

@@ -67,8 +67,8 @@ related:
   - INS-260410-CA89
   - INS-260412-846C
   - INS-260325-BB13
+  - INS-260412-6DCE
   - INS-260323-7F36
-  - INS-260409-35EC
 ---
 When Qualcomm tried to sell CDMA to carriers in 1989, they kept hitting the same question: 'Fine, but who makes the base stations? Who makes the handsets? Who makes the chips? This is a pile of technology, not a solution.' Carriers cannot take a dependency on a standard where only one stakeholder layer exists. The rational answer for Qualcomm was to answer 'yes' to every question by forming 51/49 joint ventures — Nortel for base stations, Sony for handsets — and doing the silicon themselves. This was extraordinarily capital intensive and tanked their stock for years, but it was the only way to get carriers over the adoption threshold.
 

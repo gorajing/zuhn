@@ -24,9 +24,9 @@
 - `INS-260330-0881` China's one-child policy combined with cultural son preference produced roughly 30-40 million excess men, creating downstream social and economic disruption.
 - `INS-260403-7943` Population decline creates a doom loop where fewer workers means fewer researchers means lower productivity growth means less ability to compensate for fewer workers.
 - `INS-260403-333C` Many of the world's richest countries have fertility rates below 1.5 while the poorest maintain rates above 4, disproving purely economic explanations for population decline.
-- `INS-260403-E4B6` People confronting the fertility crisis deploy six distinct coping narratives that substitute emotional comfort for actual solutions.
 - `INS-260403-70F0` Baby bonuses work directionally but the effect size is so small that reaching replacement fertility through payments alone would cost astronomically more than any government would spend.
 - `INS-260330-74AC` China's one-child policy is widely credited with reducing fertility, but the decline was already well underway before the policy existed.
+- `INS-260403-E4B6` People confronting the fertility crisis deploy six distinct coping narratives that substitute emotional comfort for actual solutions.
 - `INS-260330-0FF7` China's One Child Policy created a surplus of 35 million men, making property ownership a prerequisite for marriage and turning housing into inelastic social demand.
 - `INS-260404-AC1B` Costco's $60-$120 membership fee filters for affluent customers ($100K average household income) who spend more and renew at 90%.
 - `INS-260404-8746` Customer demand changes are symptoms of deeper technological, social, or demographic shifts — trace the root cause to build lasting advantage.

@@ -60,6 +60,7 @@ related:
   - INS-260405-9EE4
   - INS-260403-59F0
   - INS-260403-C8EF
+  - INS-260412-2DE5
 stance: >-
   SaaS companies where seats are tied to work output (Zendesk) face existential
   risk from AI, those where seats are just a pricing trick unrelated to...

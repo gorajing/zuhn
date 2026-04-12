@@ -47,10 +47,10 @@ stance: >-
 related:
   - INS-260402-91B5
   - INS-260404-250E
+  - INS-260412-7E99
   - PRI-260406-9866
   - INS-260402-8595
   - INS-260322-EDC2
-  - INS-260403-204E
   - INS-260409-B4D0
 ---
 The foodtech sector is unusually broad compared to other startup verticals, spanning agritech, restaurant tech, delivery, food sciences, and more. This breadth enables hybrid startups that combine capabilities across multiple sectors—for example, combining precision agriculture with supply chain logistics or food science with consumer health platforms.

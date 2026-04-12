@@ -55,6 +55,7 @@ related:
   - INS-260403-DF01
   - INS-260405-5755
   - INS-260403-7D5B
+  - INS-260412-8BE0
   - INS-260405-B4D0
 ---
 Modern startup orthodoxy prescribes finding a beachhead market, dominating it, then expanding. eDreams did the opposite: launching in Spain, Italy, France, and UK simultaneously. When the dot-com bubble burst, they strategically contracted to Spain and Italy to prove profitability, then re-expanded with confidence to 40+ countries.

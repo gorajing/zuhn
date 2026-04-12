@@ -1,6 +1,6 @@
 # Topic: scaling
 
-> 196 insights
+> 198 insights
 
 - `INS-260403-49FB` [high] Startups need 2-3x longer than founders expect to validate their market, and 70% scale prematurely — largely explaining the 90% failure rate.
 - `INS-260403-AA20` [high] The 996 grind culture trades short-term velocity for compounding burnout costs that destroy long-term startup viability.
@@ -89,6 +89,7 @@
 - `INS-260404-BFD0` [high] Effort spent looking productive doesn't just waste resources — it actively makes organizations less productive.
 - `INS-260412-B416` [high] The Panama Canal's lock dimensions literally determine what size 50% of the world's cargo ships are built to be.
 - `INS-260330-9FCC` [high] In-N-Out's requirement that all ingredients reach stores within a single day's drive from distribution centers caps expansion at ~500 miles per center.
+- `INS-260412-C1A2` [high] Private companies can target market segments that are attractive businesses but too small to move the needle for public company investors.
 - `INS-260327-DAE5` [high] Companies that grow headcount without proportionally growing the number of initiatives create bloated teams, slow meetings, and territorial fights instead of shipping more product.
 - `INS-260329-50D5` [high] TCP guarantees delivery order and completeness (essential for transactions); UDP sacrifices those guarantees for speed (essential for real-time communication).
 - `INS-260330-F3E4` [high] Harry Sonneborn's franchise realty strategy gave McDonald's control over operators, a new 8.5% revenue stream, and balance sheet assets for bank financing — all from one move.
@@ -151,6 +152,7 @@
 - `INS-260330-2D53` [medium] China maintained essentially the same centralized bureaucratic structure from 150 BCE to 1911 CE, making it the first organization to solve the scaling problem across leadership transitions.
 - `INS-260404-7C1F` [medium] Startup operating systems should prioritize reducing decision friction over covering every edge case.
 - `INS-260403-B6F2` [medium] Retention, upsells, and product stickiness are the three compounding levers for CLTV that outperform CAC reduction strategies long-term.
+- `INS-260412-7E99` [medium] Tata doesn't just operate in many industries — they rank top 5-10 globally in multiple verticals simultaneously.
 - `INS-260329-2612` [medium] Consistent hashing maps both nodes and data onto a ring, so adding or removing a node only redistributes a fraction of data rather than reshuffling everything.
 - `INS-260404-8D5F` [medium] Costco turns its warehouse aesthetic and confusing layout into brand assets that make customers feel like savvy deal-hunters.
 - `INS-260329-A80B` [medium] Selecting for genuine product conviction when hiring salespeople creates a team whose unconscious enthusiasm closes deals that technique alone cannot.

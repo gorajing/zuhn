@@ -53,9 +53,9 @@ related:
   - INS-260410-4685
   - INS-260412-F730
   - INS-260329-C45C
+  - INS-260412-3506
   - INS-260325-FD0F
   - INS-260330-0371
-  - INS-260329-5B3D
 ---
 The video identifies a critical inversion: wealthy people travel to be seen (social media, events), while ultra-wealthy people travel to disappear (secluded vacation homes, bespoke private experiences). Record sales of $30-50M secluded homes and referral-only travel services reflect this. The 'secrecy is part of the premium itself.'
 

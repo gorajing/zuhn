@@ -7,22 +7,22 @@
 - `INS-260323-7A11` Classical ML has one right answer and measurable error; generative AI has infinite valid outputs, making traditional ROI frameworks useless.
 - `INS-260402-E040` Zero-click visibility, brand mentions in AI tools, and featured citations in AI summaries are replacing traditional ranking position as the metrics that matter.
 - `INS-260403-C838` MOIC flatters slow capital while IRR exaggerates quick wins — you need both to see reality.
+- `INS-260409-E8B3` Watch-time session share captures how much of a user's platform session your content monopolizes, which is the cleanest proxy for influence on retention.
 - `INS-260329-B583` If your partner measures success on different metrics than you measure yourself, you can never win.
 - `INS-260330-A9DD` Frequency, orgasm rate, and duration are proxy metrics that often diverge from actual sexual satisfaction — pleasure itself is the only valid measure of sexual wellbeing.
 - `INS-260330-FA1C` The only question that matters for sexual well-being is 'do you like the sex you're having?' — all other metrics are noise.
-- `INS-260409-E8B3` Watch-time session share captures how much of a user's platform session your content monopolizes, which is the cleanest proxy for influence on retention.
 - `INS-260325-93A9` 65% of startups fail from co-founder interpersonal tensions yet no one tracks relationship health as a KPI — boards advise on fundraising and strategy but not the founding relationship itself.
 - `INS-260329-976E` Brand strength = influence (behavior change probability) × direction (towards/away) × reach (number of people affected).
 - `INS-260403-F835` Counting AST elements measures the conceptual load a programmer must hold in their head, unlike lines or characters.
+- `INS-260402-4B96` Startups are where gaming the system stops working because users only care if your product solves their problem.
 - `INS-260403-B4B9` Use your business model as the starting point for defining what to measure, not generic KPIs.
 - `INS-260404-1775` Early-stage startups gain the most from simple, structured KPI tracking rather than complex BI tools or gut feel.
-- `INS-260402-4B96` Startups are where gaming the system stops working because users only care if your product solves their problem.
 - `INS-260403-F85C` A 5% annual churn rate can be excellent or fatal depending entirely on business model context.
 - `INS-260330-A949` If growth rate is strong, absolute numbers will take care of themselves — stop stressing about how small you currently are.
 - `INS-260402-D7DE` Five interconnected metrics — K-factor, cycle time, drop-off rate, loop retention, and reinvestment rate — form the diagnostic system for growth loop health.
 - `INS-260403-22BB` A misselected North Star Metric causes teams to optimize the wrong behavior, producing impressive acquisition numbers that never translate to revenue.
-- `INS-260325-4CBB` When you cut and rearrange measurements, the loss hides at every seam — just like the chocolate bar trick.
 - `INS-260330-70BC` eBay switched affiliate payouts from confirmed registrations to activated users, lost 20% registrations but only 5% active users — then growth accelerated.
+- `INS-260325-4CBB` When you cut and rearrange measurements, the loss hides at every seam — just like the chocolate bar trick.
 - `INS-260329-8BD3` Working on retention forces you to ask 'am I actually helping users?' while working on top-line growth tempts you to extract value from users through dark patterns.
 - `INS-260403-A2A2` Prioritize retention measurement over acquisition volume to diagnose whether you actually have product-market fit.
 - `INS-260405-FBF1` An innovation Sharpe Ratio gives CFOs a risk-adjusted metric to compare experimentation against other asset classes rather than treating it as pure cost.

@@ -1,6 +1,6 @@
 # Topic: persuasion
 
-> 69 insights
+> 70 insights
 
 - `INS-260403-9DB6` [high] Steady accumulation of documented incidents shifts opinion more than any single dramatic event because patterns resist counter-narrative.
 - `INS-260403-36F0` [high] Correctness about what's wrong doesn't convert into support without a clear alternative vision.
@@ -19,6 +19,7 @@
 - `INS-260412-1440` [high] Mixing genuine credentials with fabricated ones creates a credibility halo that makes each element harder to independently question.
 - `INS-260403-23C1` [high] The article pitches the same amendment separately to Democrats (anti-gerrymandering), Republicans (Trump's legacy building), Libertarians (third-party viability), and state legislators (personal career advancement).
 - `INS-260403-560A` [high] Labels like x-ist end discussion by signaling that truth-evaluation is no longer relevant.
+- `INS-260412-9594` [high] Steve Jobs converted Sculley's refusal by reframing the decision from a job change to a question about life purpose.
 - `INS-260403-49CC` [high] Insider status grants persuasive leverage that outsiders cannot replicate.
 - `INS-260412-C71D` [high] Bukele's path from emergency legislative session to marching soldiers into congress to dismissing Supreme Court judges to reinterpreting term limits followed a step-by-step escalation where each move had plausible justification.
 - `INS-260412-AC34` [high] Arthur Sackler invented the term 'psychic tension' to expand Valium beyond anxiety patients, making almost anyone a candidate for prescription.

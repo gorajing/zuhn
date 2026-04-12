@@ -52,14 +52,15 @@ stance: >-
   institutional affiliation, making show-your-work methodology the primary trust
   signal in media.
 related:
-  - INS-260327-E07A
   - INS-260403-7878
   - PRI-260406-66BA
   - PRI-260323-0942
+  - INS-260327-E07A
   - INS-260402-1146
   - INS-260403-22FE
   - INS-260405-1F65
   - INS-260403-20C3
+  - INS-260412-9BFD
 evidence:
   - id: INS-260403-22FE
     type: SUPPORTS

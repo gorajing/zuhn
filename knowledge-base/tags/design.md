@@ -8,6 +8,7 @@
 - `INS-260405-BEA7` Photosynthesis is 450 million years old, described as 'complicated, inefficient and confusing'—yet it powers virtually all life on Earth.
 - `INS-260330-A18F` Placebo potency scales with perceived seriousness: surgery > injection > capsule > pill, and even color matters (blue calms, red energizes).
 - `INS-260402-086D` Software's real protection comes from design subtlety that qualified experts cannot replicate, not from patent claims.
+- `INS-260412-6373` When regulation forces incumbents to redesign core products, their accumulated design moats temporarily evaporate.
 - `INS-260405-C819` 17-22 slides, one point each—the format that fits how investors actually process information today.
 - `INS-260403-1D92` When AI makes building cheap, taste and design become the scarce differentiator.
 - `INS-260404-95BA` Treating design as a first-class strategic concern creates self-reinforcing competitive advantage.

@@ -59,8 +59,8 @@ related:
   - INS-260327-C05A
   - INS-260330-DD9C
   - INS-260412-132B
+  - INS-260412-F2A6
   - INS-260409-1D16
-  - INS-260412-7C35
 ---
 The Sackler family deliberately kept their name far from OxyContin ('it wasn't called Oxy Sackler on purpose') while plastering it across the world's most prestigious cultural institutions — the Louvre, Westminster Abbey, the Guggenheim, the V&A Museum. This created a cognitive dissonance barrier: the name 'Sackler' was associated with art patronage and education, not with opioid deaths. Anyone accusing them had to overcome the implicit social proof that institutions like the Louvre had already vetted and endorsed the family.
 

@@ -45,7 +45,7 @@ related:
   - INS-260410-F814
   - INS-260412-23A9
   - INS-260330-B284
+  - INS-260412-8BE0
   - PRI-260406-B87C
-  - INS-260412-9805
 ---
 Dubai had only 10,000 residents in 1900 and the UAE's oil deposits are closer to Abu Dhabi, yet Dubai grew to 2.5 million by becoming the economic and administrative hub for the region's oil industries. This pattern — where the coordination layer captures more value than the extraction layer — repeats across industries. Pittsburgh thrived as a steel transportation hub, not just a coal mine. In modern business, this maps directly to platform economics: the company that coordinates the marketplace (Uber, Airbnb, app stores) typically captures more durable value than the company providing the underlying resource. When evaluating businesses, bet on the coordination layer over the resource layer.

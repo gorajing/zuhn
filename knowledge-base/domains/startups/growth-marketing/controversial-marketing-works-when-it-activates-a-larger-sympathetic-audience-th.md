@@ -56,11 +56,11 @@ related:
   - INS-260330-242D
   - INS-260330-8998
   - INS-260405-9015
+  - INS-260412-3506
   - INS-260410-9A10
-  - INS-260402-C1A9
   - INS-260403-4E70
+  - INS-260402-C1A9
   - INS-260410-FA70
-  - INS-260412-4995
 ---
 When Nike featured Colin Kaepernick in their 2018 'Dream Crazy' campaign, stock dropped 2.5%, people burned Nike shoes on social media, and boycotts were declared. Yet the campaign generated $6 billion in brand value, $163 million in earned media, and a 31% sales increase. Nike also won its first Emmy for a commercial since 2002.
 

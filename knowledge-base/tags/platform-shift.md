@@ -12,3 +12,4 @@
 - `INS-260322-D7B1` Even a 20-30% shift from Google to AI chatbots will dramatically raise paid search costs for remaining advertisers, making current acquisition strategies unviable.
 - `INS-260405-34D7` During major platform transitions, systematically looking for physical objects to replace with software is a reliable source of startup ideas.
 - `INS-260403-0F89` Photosynthesis produced oxygen as an unwanted byproduct that eventually enabled all complex animal life — the most consequential pivot in biological history.
+- `INS-260412-7C6B` NASA used off-the-shelf smartphones as satellite computers because consumer market scale drove costs below what purpose-built satellites could match.

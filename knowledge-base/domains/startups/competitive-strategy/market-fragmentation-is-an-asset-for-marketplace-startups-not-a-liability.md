@@ -46,7 +46,9 @@ related:
   - INS-260405-2703
   - INS-260403-8EE8
   - PRI-260403-5DEA
+  - INS-260412-EC27
   - PRI-260405-E9C5
   - INS-260405-6524
+  - INS-260412-37A6
 ---
 NFX identifies market fragmentation as one of the most valuable traits in LatAm startups, flipping the conventional wisdom that fragmented markets are harder to win. In sectors like retail, where LatAm is far more fragmented than the US, startups can aggregate supply and demand in ways that create massive value — precisely because no incumbent has consolidated the market. Combined with consumers stuck using low-quality products from entrenched players, the gap between current experience and what's possible is enormous. This is the classic 10X improvement thesis: when infrastructure underinvestment leaves consumers with poor options, the first competent tech-enabled player captures adoption at rates impossible in markets with adequate existing solutions.

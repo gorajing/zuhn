@@ -60,10 +60,10 @@ related:
   - INS-260404-AF08
   - INS-260403-58BA
   - INS-260410-7726
+  - INS-260412-F2A6
   - INS-260402-26B0
   - PRI-260406-6AE6
   - INS-260410-2402
-  - INS-260327-2964
 ---
 Barings Bank survived 230 years, world wars, and revolutions. The Queen had an account there. It could raise capital easily based on its name alone. But behind this facade, Leeson described the trading floor as 'tacky' compared to Morgan Stanley, with outdated equipment and furniture. More critically, the bank had systemic incompetence in its controlling functions — executives who were 'supposed to understand derivatives' but didn't, £100M in uncollected debts that fell through the cracks, and auditors who accepted a forged document with a personal fax header.
 

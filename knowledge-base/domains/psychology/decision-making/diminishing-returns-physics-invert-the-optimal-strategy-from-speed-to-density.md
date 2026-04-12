@@ -50,9 +50,9 @@ stance: >-
 related:
   - INS-260330-9935
   - PRI-260320-A2C7
+  - INS-260412-BA74
   - INS-260320-E683
   - INS-260330-F493
-  - INS-260410-13C8
 ---
 A Tesla Model 3 charges from 0-50% in 15 minutes on a 250kW charger versus 17 minutes on a 150kW charger—nearly identical because the battery's acceptance rate, not the charger's output, becomes the bottleneck above 50% state of charge. Charging from 50-90% takes an additional 27 minutes regardless of charger speed. Two 0-50% charges (30-34 minutes total) deliver 200+ miles of range, matching the consumer's 31-minute tipping point.
 

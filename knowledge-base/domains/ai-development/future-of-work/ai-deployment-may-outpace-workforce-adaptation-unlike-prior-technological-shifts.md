@@ -67,6 +67,7 @@ related:
   - INS-260410-797C
   - PRI-260406-940C
   - INS-260404-7A75
+  - INS-260412-6DCE
 ---
 Dimon makes a nuanced argument: AI will definitely eliminate some jobs while creating many others (including in cybersecurity and AI itself), and there is already a workforce shortage for many well-paying white- and blue-collar jobs. However, the critical difference from prior transformations like electricity, the internet, or automobiles is speed. Those technologies 'took decades to roll out, but this implementation looks likely to accelerate over the next few years.'
 

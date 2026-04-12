@@ -46,11 +46,12 @@ stance: >-
   of magnitude slower than the rate at which new addictions are created,
   creating a widening protection gap.
 related:
-  - INS-260330-BEF8
   - INS-260330-9346
+  - INS-260412-0D71
+  - INS-260412-7BD5
   - INS-260325-EBDD
   - INS-260325-7FE6
-  - INS-260409-1652
+  - INS-260412-EA55
 evidence:
   - id: INS-260330-9346
     type: EXTENDS

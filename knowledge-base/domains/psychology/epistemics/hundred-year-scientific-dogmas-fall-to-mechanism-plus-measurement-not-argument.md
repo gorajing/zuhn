@@ -60,7 +60,6 @@ stance: >-
   accumulate — so progress on stuck questions comes from instrumentation, not
   debate.
 related:
-  - INS-260403-A22E
   - INS-260323-9770
   - INS-260330-240A
   - INS-260410-81DC

@@ -4,3 +4,4 @@
 - `INS-260323-C316` AI should be deployed in narrow, iterative layers rather than as a massive transformation project — the same lesson enterprises failed to learn from Salesforce rollouts.
 - `INS-260327-D65E` OpenAI frames iterative deployment as essential for building societal readiness for the long-term vision of autonomous AI agents.
 - `INS-260411-F649` AI deployments should be segmented by epistemic risk tolerance: tolerate hallucinations for creative tasks, require grounding for decision support, and demand formal verification for autonomous execution.
+- `INS-260412-6DCE` Li-Fi's ability to use existing LED light bulbs as transmitters dramatically lowers deployment barriers compared to building new wireless infrastructure.

@@ -9,5 +9,6 @@
 - `INS-260327-0004` Nota AI started in 2015 but only generated significant revenue from 2023 -- they survived 7-8 years of market mismatch by maintaining conviction that their AI model optimization technology would eventually be needed.
 - `INS-260327-7D0B` Rwanda's Ministry of Health bet on Zipline the same day a mother died from a 9-hour blood delivery delay, anchoring the company's decade-long trajectory.
 - `INS-260403-A3DA` Trillions in non-dilutive government funding from the CHIPS Act, IRA, and IIJA create a new fundraising paradigm where creative capital stacking beats pure VC reliance.
+- `INS-260412-0D71` Graphene took 16 years from discovery (2004) to first consumer product (2020), consistent with historical timelines for carbon fiber, lithium-ion, and other breakthrough materials.
 - `INS-260402-9EBD` The biggest technology companies emerged during periods that combined platform innovation in both software and hardware with the operational discipline forced by higher interest rates.
 - `INS-260403-32E9` Identify your sector's primary risk layer and retire it first before addressing downstream risks.

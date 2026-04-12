@@ -60,7 +60,7 @@ related:
   - INS-260403-8EF3
   - INS-260410-DFE2
   - INS-260403-19C9
-  - INS-260404-C30F
+  - INS-260410-84DA
 ---
 The fact that AI coding agents like Cursor and Replit have achieved $500M+ ARR with teams under four years old is historically unprecedented in the developer tools market. Previous generations of dev tools—IDEs, CI/CD platforms, cloud IDEs—took a decade or more to reach comparable revenue. This compression of the commercialization timeline suggests that AI-native tools benefit from a fundamentally different adoption curve.
 

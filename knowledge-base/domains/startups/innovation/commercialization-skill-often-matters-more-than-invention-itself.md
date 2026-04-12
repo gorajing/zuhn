@@ -53,7 +53,7 @@ related:
   - INS-260412-F32D
   - INS-260323-FCC1
   - INS-260325-BF84
-  - INS-260330-10CF
+  - INS-260412-6DCE
 ---
 The video draws an explicit parallel between Edison and Steve Jobs: neither invented the core technology they're famous for, but both excelled at improving, packaging, and selling it. Edison built on 22 prior light bulb inventors; Jobs built on existing MP3 players, smartphones, and GUIs. Both founded massive companies (General Electric, Apple) from commercialization rather than pure invention.
 

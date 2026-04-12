@@ -65,10 +65,10 @@ stance: >-
   publicly committing to one direction while secretly developing alternatives.
 related:
   - INS-260403-2496
+  - INS-260412-6FB6
   - INS-260403-3673
   - INS-260327-723A
   - INS-260403-4964
-  - INS-260327-6058
 ---
 Throughout the late 1980s, Microsoft was officially 'all in' on OS/2, the operating system they were building with IBM that would have re-centralized the PC ecosystem under IBM's control. Steve Ballmer described it as 'riding the bear' — you had to stay on the bear because the bear was the biggest, even if it twisted and tried to throw you off. But while Microsoft publicly toed the IBM party line, they were quietly developing Windows with a 30-65 person 'misfit' team, building Excel and applications for the Macintosh, and even encouraging Compaq to push 386 hardware that IBM was deliberately holding back.
 

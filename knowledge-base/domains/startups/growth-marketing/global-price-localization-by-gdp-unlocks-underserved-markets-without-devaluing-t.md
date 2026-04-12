@@ -45,10 +45,10 @@ stance: >-
   Adapting price levels to local purchasing power based on GDP per capita
   captures revenue from markets that flat global pricing would completely miss
 related:
+  - INS-260412-684D
   - INS-260323-FEAB
   - INS-260404-94BB
   - INS-260403-3F91
   - INS-260405-F1FD
-  - INS-260404-3156
 ---
 One-size-fits-all pricing fails internationally. A $29/month plan that works in the US is completely out of reach in Southeast Asia. Netflix demonstrates the approach at scale: ~$15/month in the US, $2.50 in Pakistan, $21 in Switzerland — same product, adapted thresholds based on local economics. Beyond price levels, localization means showing local currencies (40%+ of consumers won't buy from sites not in their native currency), adapting billing structures (annual vs pay-as-you-go varies by region), and supporting local payment methods (mobile wallets in India, SEPA in Europe, cash vouchers in LATAM). Modern billing platforms like Stripe and Paddle make currency and tax localization low-effort. Revisit international pricing quarterly to account for FX fluctuations that can quietly erode margins.

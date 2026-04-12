@@ -1,6 +1,6 @@
 # Domain: ai-development
 
-> 1715 insights across 40 topics
+> 1717 insights across 40 topics
 
 ## Topics
 
@@ -24,10 +24,10 @@
 | foundation-models | 10 | General-purpose AI may serve as a new foundational science, enabling unforeseeable downstream applications the way physics enabled modern engineering. |
 | future-of-work | 99 | Tens of millions learning Python through free YouTube tutorials represent a workforce transformation happening outside traditional education. |
 | governance | 18 | 80% of Americans want AI regulated — a rare civic consensus — and frontier labs are spending hundreds of millions to kill it; the organizing opening is real. |
-| hardware | 15 | An H100 is worth more today than three years ago because the models it runs generate far more value per token than GPT-4 did, and you can't just buy a Rubin instead. |
+| hardware | 16 | An H100 is worth more today than three years ago because the models it runs generate far more value per token than GPT-4 did, and you can't just buy a Rubin instead. |
 | human-ai-relationship | 75 | When AI outperforms humans, human-AI synergy is g = -0.54; when humans outperform AI, synergy is g = +0.46. |
 | industry-trends | 15 | Each AI capability phase — transformers, LLMs, reasoning, agents — requires discarding the mental models built in the previous phase. |
-| infrastructure | 19 | Multi-turn agent workloads flip the inference bottleneck from decode to prefill, requiring new optimization strategies for KV cache reuse and context processing. |
+| infrastructure | 20 | Multi-turn agent workloads flip the inference bottleneck from decode to prefill, requiring new optimization strategies for KV cache reuse and context processing. |
 | limitations | 65 | The optical nerve delivers about 10^15 bytes to a 4-year-old's brain versus 2x10^13 bytes of all internet text used to train LLMs -- most human knowledge comes from sensory interaction with the physical world, not from language. |
 | llm-behavior | 12 | Once an AI cites a source, it tends to return to it — making first-mover citation advantage self-reinforcing. |
 | llm-costs | 20 | OpenRouter offers 50-1000 free requests/day on certain models — not trial credits, actually free forever. |

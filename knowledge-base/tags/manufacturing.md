@@ -7,6 +7,7 @@
 - `INS-260327-0875` A robot that can build copies of itself from its own parts enables exponential manufacturing capacity - exactly how ribosomes build elephants one molecule at a time.
 - `INS-260405-F05B` Structured environments like factory floors let humanoid robots learn fast and fail cheaply before tackling complex unstructured domains.
 - `INS-260404-4F1B` Solar's 99.9% cost decline since 1975 demonstrates how manufacturing learning curves create inevitable cost dominance over extraction-based competitors.
+- `INS-260412-C217` Graphene's 16-year gap between Nobel-Prize-winning discovery and first consumer product was entirely a manufacturing cost problem, not a science problem.
 - `INS-260412-7811` China's manufacturing success created a middle class whose higher wage demands now erode the cost advantage that built it.
 - `INS-260405-24F0` Britain's relative manufacturing share predicted its WWI dependency on America decades before the war; today's US-China manufacturing gap signals a similar structural shift.
 - `INS-260412-3382` Pre-pandemic shipping cost of ~$1,000 per 20-foot container from Asia to the US means transporting a single shoebox 8,000 miles cost about 30 cents — less than a chicken nugget.

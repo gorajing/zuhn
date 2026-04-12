@@ -52,10 +52,10 @@ stance: >-
 related:
   - INS-260324-748A
   - INS-260327-3B25
+  - INS-260412-5049
   - INS-260327-236D
   - INS-260327-CF72
   - INS-260327-FA38
-  - PRI-260403-B9A0
 ---
 Insulin looked like a durable business to the Big Three manufacturers for decades: complex biological production, proprietary delivery pens, patentable reformulations, and entrenched PBM relationships. Yet in just five years the economics collapsed — biosimilars arbitraged away pricing, regulation capped prices after public outcry, and GLP-1s reduced demand. Ben Gilbert's framing (borrowed from the Acquired Nvidia episode): 'Moats are only sufficient if the castle is sufficiently lame to invade. Otherwise the castle becomes bigger — you need a bigger moat.' 
 

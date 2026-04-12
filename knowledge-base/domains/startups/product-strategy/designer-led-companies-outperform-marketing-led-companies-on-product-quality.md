@@ -41,7 +41,6 @@ stance: >-
   Products are better when designers hold decision-making power rather than
   marketing people relying on focus groups.
 related:
-  - INS-260329-ECB5
   - PRI-260406-CAE4
   - INS-260403-3A44
   - PRI-260406-1A55

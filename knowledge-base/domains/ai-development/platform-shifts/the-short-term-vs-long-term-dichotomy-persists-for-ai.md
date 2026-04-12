@@ -50,12 +50,12 @@ related:
   - INS-260323-3045
   - INS-260323-D56E
   - INS-260325-9F41
-  - INS-260323-9770
   - INS-260330-881A
   - INS-260403-F0D4
   - INS-260409-5FF6
   - INS-260409-2DE3
   - INS-260410-6A19
   - INS-260403-2E2C
+  - INS-260412-2F0C
 ---
 Asked whether AI is breaking Amara's Law (short-term overestimate, long-term underestimate), Hassabis says 'that's still the truth.' Both time scales are closer than for past technologies, but the dichotomy remains: today and the next year are 'a bit overhyped' — it couldn't be more hyped in some ways — while the 10-year impact is still 'very underappreciated.' Practical use: if you're frustrated by demo-to-production gaps today, that's the overhype. If you're building for 2036, you're probably still underestimating. For investors: this frame says short-term AI trades are crowded while long-term AI trades are underpriced, specifically in domains where 10-year compounding matters (bio, materials, energy).

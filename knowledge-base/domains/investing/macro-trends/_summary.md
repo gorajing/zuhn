@@ -1,10 +1,11 @@
 # Topic: macro-trends
 
-> 23 insights
+> 24 insights
 
 - `INS-260412-79D5` [high] Public-key encryption's security relies on computational difficulty that quantum computers eliminate, creating a binary safe/broken threshold.
 - `INS-260409-F485` [high] Napier's emerging-market heuristic: avoid countries where trading rights are not guaranteed, constitutions are weak, or exchange rates are overvalued — operationalized as 'don't invest where you wouldn't live after retirement.'
 - `INS-260412-762C` [high] Entropy dictates that all structures — physical, economic, organizational — decay without continuous energy input.
+- `INS-260412-C217` [high] Graphene's 16-year gap between Nobel-Prize-winning discovery and first consumer product was entirely a manufacturing cost problem, not a science problem.
 - `INS-260412-4E72` [high] Heavy elements forged in neutron star collisions billions of years ago became the raw materials for Earth's geology, biology, and modern technology.
 - `INS-260410-F41F` [high] The 2009 HITECH Act's $36B in 'meaningful use' incentives drove EMR adoption from 9% to 95% of hospitals in five years—which sounds like a tailwind, but the deeper effect was closing the door on any future innovative competitor by compressing decades of buying decisions into one window.
 - `INS-260412-2367` [high] Wealth consolidation forces each wealth tier to spend more to maintain the same level of exclusivity, as the tier below floods their previous status markers.

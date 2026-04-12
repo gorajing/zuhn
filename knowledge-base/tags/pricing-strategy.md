@@ -20,6 +20,7 @@
 - `INS-260410-AF68` Bill Gates licensed Microsoft BASIC to Apple for just $31,000 because his goal was to be the default programming language on every microcomputer, not to extract maximum revenue per deal.
 - `INS-260330-6EE1` Find what incumbents structurally can't do — whether that's platform agnosticism against suite vendors or novel monetization like Zenefits getting paid by insurance companies instead of customers.
 - `INS-260323-E551` Tudor maintained his ice monopoly by systematically undercutting copycat businesses on price until they gave up or went bankrupt.
+- `INS-260412-BA74` Real Graphene's CEO explicitly stated graphene batteries would trickle down from higher-end devices first, using premium willingness-to-pay to absorb the 30% cost premium while scaling manufacturing.
 - `INS-260327-F0B2` Systems of record like Salesforce must choose: charge for data and give away agentic workflows, or charge for workflows and make data storage free.
 - `INS-260330-0C96` Being the entry-level option lets you grow into the market while incumbents get squeezed from below.
 - `INS-260329-F6E1` Launch free or cheap, raise 20% every 5 customers until conversion-rate × price peaks.

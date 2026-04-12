@@ -56,5 +56,6 @@ related:
   - INS-260410-ED8E
   - INS-260412-F32D
   - INS-260412-B900
+  - INS-260412-49DA
 ---
 After World War II, Ford was offered the bombed-out Volkswagen factory and brand at no cost. Ford's assessment: worthless. VW would go on to produce the bestselling car model in history (21.5 million Beetles), become the second-largest automaker globally, and acquire luxury brands that Ford could never match. This pattern repeats throughout business history — Yahoo declining to buy Google, Excite passing on Google for $750K, Blockbuster refusing Netflix. The structural reason is that incumbents evaluate acquisition targets against their current capabilities and market position rather than projecting the target's trajectory. A bombed factory making cheap cars looked worthless to a company selling large, powerful American vehicles. The lesson for competitive strategy: when evaluating an acquisition or competitor, model the trajectory under favorable conditions, not the current snapshot.

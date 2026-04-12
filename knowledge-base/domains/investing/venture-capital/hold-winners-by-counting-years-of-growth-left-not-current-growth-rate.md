@@ -60,6 +60,7 @@ related:
   - PRI-260405-5912
   - INS-260405-D959
   - INS-260403-227D
+  - INS-260412-8BE0
   - INS-260329-D37E
 ---
 Sequoia made a 40x return on Apple in 18 months and sold their entire position for $6M before the IPO — likely the single biggest mistake in investing history. The same pattern repeats with Amazon: holding from 1997 IPO to 2010 returned ~10x, but Paul Graham noted that 99.98% of Amazon's growth happened after that point. Holding another decade turned 10x into 170x.

@@ -47,5 +47,6 @@ related:
   - INS-260322-5A72
   - INS-260403-E4C6
   - INS-260329-16F0
+  - INS-260412-0CAA
 ---
 The creator explicitly framed the perfume ad around a high-stakes heist narrative where the product appears only at the climax - selling desirability through scarcity, danger, and romantic tension rather than through feature description. This is a durable principle of luxury advertising: the category has never been about informing the buyer, it is about associating the product with aspirational identity. AI makes the execution cheaper but does not change the underlying narrative discipline - if anything, it raises the stakes because cheap execution means the creative concept becomes the only remaining differentiator.

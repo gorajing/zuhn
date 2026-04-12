@@ -6,8 +6,8 @@
 - `INS-260410-A5E1` Sequoia and Sutter Hill backed Nvidia's original thesis, which turned out to be wrong on almost every technical decision — yet it became one of the best venture returns in history because Jensen treated each failed bet as a trigger for complete company reinvention.
 - `INS-260403-E44E` Pre-seed due diligence must focus on founder qualities and market insight rather than traditional business metrics that don't yet exist.
 - `INS-260403-45D5` PG told Fred to meet the Airbnb founders before debating the idea, because abstract debate anchors on skepticism.
-- `INS-260403-71D1` YC funded Airbnb despite not liking the idea because the founders' earnestness was unmistakable.
 - `INS-260412-1C32` Javice's core skill was generating media coverage and crafting narratives — ink magazine, Forbes 30 Under 30, podcasts — while her actual products consistently failed to deliver on claims.
+- `INS-260403-71D1` YC funded Airbnb despite not liking the idea because the founders' earnestness was unmistakable.
 - `INS-260410-79C4` The Qualcomm pitch required threading 15+ needles in sequence — a prima facie auto-pass — but the team already knew, from information theory first principles, that each needle was threadable.
 - `INS-260403-7C88` Good founders make things happen the way they want through relentless resourcefulness, not by forcing a predefined plan.
 - `INS-260403-7F6F` Y Combinator found that college prestige adds almost no predictive value when evaluating startup founders against direct assessment.

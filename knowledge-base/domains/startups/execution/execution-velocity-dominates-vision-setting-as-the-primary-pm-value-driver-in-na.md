@@ -54,7 +54,6 @@ stance: >-
   consistently outperform those who follow the traditional 70/30 split, because
   strategic plans become obsolete faster than they can be implemented.
 related:
-  - INS-260329-AA2C
   - PRI-260406-901E
   - PRI-260328-4CC0
   - PRI-260406-E602

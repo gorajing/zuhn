@@ -52,11 +52,12 @@ stance: >-
   higher priority than most founders give it.
 related:
   - INS-260323-0026
+  - INS-260412-3506
   - INS-260327-723A
   - INS-260327-D0F4
   - INS-260405-FE5C
   - PRI-260328-0993
-  - INS-260330-999F
+  - INS-260412-0CAA
 evidence:
   - id: INS-260330-3994
     type: TRANSFERS_TO
