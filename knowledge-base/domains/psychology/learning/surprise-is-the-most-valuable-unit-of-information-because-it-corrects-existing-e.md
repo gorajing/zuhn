@@ -49,10 +49,10 @@ stance: >-
   contradict and correct things you thought you knew.
 related:
   - PRI-260406-DB86
+  - INS-260411-8AEF
   - INS-260403-222E
   - INS-260403-20C3
   - INS-260403-C135
-  - INS-260402-E76D
 evidence:
   - id: INS-260321-2564
     type: EXTENDS

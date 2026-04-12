@@ -8,11 +8,11 @@
 - `INS-260325-BB13` A smartphone processor requires tools from the Netherlands, chemicals from Japan, design from the US, fabrication in Taiwan, and assembly in Malaysia — no single company or country controls the full stack.
 - `INS-260404-CCB1` Vertical AI solutions specialized for specific industries will outperform horizontal AI platforms by building deeper moats through domain expertise and proprietary data.
 - `INS-260404-60A6` Vertical AI products trained on domain-specific and proprietary data create defensible positions against generalist LLMs.
-- `INS-260325-6262` No Bronze Age civilization was self-sufficient — each depended on others for critical resources like tin, copper, gold, and grain.
 - `INS-260404-2D82` Frontier tech investing demands specialized fund structures that generalist VCs cannot effectively replicate.
 - `INS-260404-DBD1` Experienced VC partners are increasingly leaving big firms to launch specialized niche funds.
 - `INS-260404-77E7` Specialist VC funds outperform generalist funds by 47%, suggesting deep expertise is the new source of alpha in venture.
 - `INS-260405-7ABE` A narrow focus gives emerging VC managers a sourcing and conviction edge that broad generalist funds cannot easily replicate.
+- `INS-260325-6262` No Bronze Age civilization was self-sufficient — each depended on others for critical resources like tin, copper, gold, and grain.
 - `INS-260330-790A` Serial pivots away from proven talent usually signal identity rejection rather than strategic diversification.
 - `INS-260403-AB5C` Increasing knowledge specialization creates more points on the performance curve, widening the gap between average (wisdom) and peaks (intelligence), forcing a civilizational choice.
 - `INS-260330-16B1` Universalizing a specialized skill devalues its practitioners while wasting the time of learners better suited to other specializations.
@@ -24,10 +24,10 @@
 - `INS-260330-40DA` Agriculture made individuals less healthy and overworked compared to foraging, yet it dominated because surplus calories enabled specialization cascades.
 - `INS-260330-9055` General-purpose editors win breadth but specialized IDEs win depth for committed platform developers.
 - `INS-260403-9DA1` Destin's fluid dynamics knowledge combined with David's motion control engineering made a previously impossible recreation achievable.
-- `INS-260330-73C1` The Greater Bay Area plan assigns distinct economic roles to each city — finance, manufacturing, tourism, administration — rather than making them compete as generalists.
 - `INS-260329-0935` Sustained focus on one domain compounds returns far more than spreading effort across many.
-- `INS-260404-D8D8` Sector-specialist VCs win deals by offering founders industry access and expertise that generalist capital cannot match.
+- `INS-260330-73C1` The Greater Bay Area plan assigns distinct economic roles to each city — finance, manufacturing, tourism, administration — rather than making them compete as generalists.
 - `INS-260402-0727` Late career specialization produces more founders because 'startup founder' is never a planned career — it emerges from flexible systems.
+- `INS-260404-D8D8` Sector-specialist VCs win deals by offering founders industry access and expertise that generalist capital cannot match.
 - `INS-260330-4A1F` Rockefeller's personal investments were deep in the red until he hired Frederick Gates (a Baptist minister), who transformed his portfolio and whom Rockefeller later called the greatest businessman he'd ever met.
 - `INS-260410-91C0` Giant bacteria scale by copying their entire genome tens of thousands of times—a brute-force approach that stalls—while eukaryotes scaled by absorbing a specialized energy partner and offloading the work, which is the template for how any complex system breaks through a scaling ceiling.
 - `INS-260403-0196` Great value propositions concentrate on very few customer jobs, pains, or gains but deliver outstanding depth in those areas.

@@ -1,7 +1,7 @@
 # Tag: self-sabotage
 
-- `INS-260327-60C6` Justinian repeatedly recalled and disgraced Belisarius out of jealousy and suspicion, ultimately leaving the empire without its best military commander when enemies threatened.
 - `INS-260402-82F6` The alcoholic refuses to change not because he can't, but because changing would mean surrendering the only thing he has left — his defiant self-image.
+- `INS-260327-60C6` Justinian repeatedly recalled and disgraced Belisarius out of jealousy and suspicion, ultimately leaving the empire without its best military commander when enemies threatened.
 - `INS-260330-F5CF` Photosynthesis raised atmospheric oxygen levels that now cause RuBisCo to malfunction half the time, forcing plants to evolve elaborate detoxification pathways instead of fixing the enzyme.
 - `INS-260329-6B95` Wherever you assign blame for your situation, you simultaneously assign power over your future outcomes to that same thing.
 - `INS-260403-8930` Ambitious work passes through an ugly phase where it looks worse than it is, and most people quit here rather than pushing through.

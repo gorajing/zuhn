@@ -12,6 +12,7 @@
 - `INS-260403-59AC` AI sycophancy reflects human social selection patterns — we already surround ourselves with agreeing voices.
 - `INS-260330-1F7E` The solution to social media misinformation is holding platforms liable for what their algorithms promote, not censoring what users post.
 - `INS-260323-DA4A` Alignment work (RLHF, interpretability) directly improves model capabilities, not just safety.
+- `INS-260411-6495` Alignment policies that censor harmful outputs inevitably also suppress some legitimate knowledge, creating epistemic blind spots by design.
 - `INS-260322-C935` Treating alignment as a one-time problem to solve (like writing commandments) rather than an ongoing learning process will produce AI systems that are dangerous precisely because they follow rules without understanding.
 - `INS-260326-7995` Yudkowsky identifies the fundamental asymmetry of superintelligence development: normal science assumes we can learn from failures and retry, but a misaligned superintelligence eliminates the possibility of iteration.
 - `INS-260402-4C4C` Jan Leike argues current alignment success can bootstrap superhuman alignment, but this assumes a golden middle of capability exists.
@@ -51,22 +52,22 @@
 - `INS-260410-3A08` Pretraining gives a base model all its knowledge; a cheap fine-tuning stage on ~100k curated Q&A pairs reshapes it into a helpful assistant without adding knowledge.
 - `INS-260410-F985` A pretrained GPT just completes internet-shaped documents; turning it into ChatGPT requires SFT on Q&A examples, a learned reward model, and PPO fine-tuning — none of which scale alone provides.
 - `INS-260403-FFFE` Model alignment is a removable fine-tuning layer, not a fundamental architectural property.
+- `INS-260320-10E8` Always clap once or use a clapboard at the start of each take -- the sharp transient creates a visible spike in both audio waveforms, making manual sync alignment trivial.
 - `INS-260410-F789` Charging 2-and-20 or 3-and-30 before demonstrating unusual results attracts people who are good at fundraising and fee extraction, not people who are good at investing.
 - `INS-260403-C200` Capital is commoditized; the founder-investor relationship and alignment determine post-deal outcomes more than the money itself.
-- `INS-260327-B72F` When everything is incredibly hard and getting harder, the problem might not be insufficient effort but wrong direction.
 - `INS-260410-8D62` When you take a leadership role, commit real, personal, post-tax capital — not just granted equity — so every decision is visibly yours too.
+- `INS-260327-B72F` When everything is incredibly hard and getting harder, the problem might not be insufficient effort but wrong direction.
 - `INS-260329-B583` If your partner measures success on different metrics than you measure yourself, you can never win.
 - `INS-260329-2460` A partner must love both your current self and the person you are actively working to become.
-- `INS-260320-10E8` Always clap once or use a clapboard at the start of each take -- the sharp transient creates a visible spike in both audio waveforms, making manual sync alignment trivial.
 - `INS-260405-BE58` Co-founder chemistry is infrastructure — misalignment there propagates into every downstream decision.
 - `INS-260325-F451` Andy Raskin's strategic narrative framework: sell a movement (world shift), not a product — it unifies the entire organization around one story.
-- `INS-260403-22BB` A misselected North Star Metric causes teams to optimize the wrong behavior, producing impressive acquisition numbers that never translate to revenue.
 - `INS-260403-1ECB` When hiring plans live in Notion, runway models in Excel, and compensation decisions in separate conversations, the resulting misalignment silently erodes runway.
+- `INS-260403-22BB` A misselected North Star Metric causes teams to optimize the wrong behavior, producing impressive acquisition numbers that never translate to revenue.
 - `INS-260327-29F0` The framework is not the hard part — getting the entire leadership team aligned on one strategic story is where the real value lies.
 - `INS-260329-4F3F` When everyone knows the numbers, you spend less time convincing them why the new priority matters.
 - `INS-260410-899C` Every early Walmart store was its own partnership, and the manager was a real dollar-invested equity partner — making the alignment immediate and scoped to their own performance.
-- `INS-260405-8646` Product KPIs need to be designed for four audiences at once: product team, stakeholders, executives, and customers.
 - `INS-260403-7BCF` Every team member holds a unique mental model of the problem, and without forced alignment the team builds toward different goals.
+- `INS-260405-8646` Product KPIs need to be designed for four audiences at once: product team, stakeholders, executives, and customers.
 - `INS-260403-30FF` Clear organizational vision replaces coordination overhead — everyone already knows what to build without being told.
 - `INS-260330-3585` Productivity falls with the square of employees unless you actively build alignment through repeated roadmap communication, offsites, and quarterly planning.
 - `INS-260330-725F` Every founder thinks their team knows the top 3 goals; random sampling proves none of them do.

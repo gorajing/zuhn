@@ -49,10 +49,10 @@ stance: >-
   structure is the code
 related:
   - PRI-260407-1D23
+  - INS-260411-59F7
   - INS-260409-B13F
   - INS-260410-EE5C
   - INS-260329-12D1
-  - INS-260403-AE5B
 evidence:
   - id: INS-260330-3C2F
     type: TRANSFERS_TO

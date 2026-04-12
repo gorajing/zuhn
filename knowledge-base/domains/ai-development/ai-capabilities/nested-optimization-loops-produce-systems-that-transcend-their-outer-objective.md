@@ -50,14 +50,15 @@ stance: >-
   objective function.
 related:
   - INS-260325-5B28
-  - INS-260325-FD14
   - INS-260329-F4CD
   - INS-260329-BC6C
   - INS-260330-A660
   - INS-260402-2879
   - INS-260403-65D2
+  - INS-260325-FD14
   - PRI-260407-7FB7
   - INS-260403-AEF7
+  - INS-260411-D67E
 ---
 Alexander identifies three nested optimization levels in both humans and AI. For humans: evolution (outer, optimizes reproduction) → predictive coding (middle, predicts next sense-datum) → world models and thought processes (inner, does 'normal thinking'). For AI: company design choices (outer, optimizes profit/capability) → next-token prediction (middle, updates weights) → internal representations and algorithms (inner, does actual computation).
 

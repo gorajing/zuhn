@@ -5,7 +5,6 @@
 - `INS-260403-E662` A minimal launch in a crowded market gives competitors a clear template to copy and outexecute with AI and no-code tools.
 - `INS-260403-9442` Plants produce 40 billion tons of the flawed enzyme RuBisCo rather than evolving a better one, proving that volume of a mediocre approach can dominate.
 - `INS-260330-45A9` Plants conquered Earth not by making RuBisCo better, but by making more of it — volume strategy beat optimization strategy over evolutionary timescales.
-- `INS-260402-BEB6` A growth loop that completes in 30 minutes compounds far faster than one taking 30 days, making cycle time the primary optimization target.
 - `INS-260403-79F3` Founders can now go from idea to product to seed round in less than a quarter by leveraging pretrained models and existing AI APIs.
 - `INS-260329-917B` Starting with login plus one primary feature, verifying it works, then adding secondary features through follow-up prompts avoids the compounding errors of complex multi-feature requests.
 - `INS-260403-558D` Release crude, iterate fast — nature's imagination outperforms your own.
@@ -19,6 +18,7 @@
 - `INS-260329-AB9A` Programming for your own use cases removes the hardest parts of software development and lets you focus purely on problem-solving.
 - `INS-260322-750A` Browse top-grossing apps, find categories with identical competitors, then build the same concept with a differentiated angle for an underserved segment.
 - `INS-260403-2FC3` YC launched its first batch with wet paint on the walls, a borrowed building, and a last-minute location change — and the structure barely changed afterward.
+- `INS-260402-BEB6` A growth loop that completes in 30 minutes compounds far faster than one taking 30 days, making cycle time the primary optimization target.
 - `INS-260404-8256` Plants produce 40 billion tons of inefficient RuBisCo rather than evolving one perfect enzyme—volume compensates for individual mediocrity.
 - `INS-260403-6C07` Solve the problem users have right now before expanding into the product you envision for the future.
 - `INS-260403-637C` RuBisCo was terrible at its job but vastly better than hoping to stumble on organic carbon — so the organism made tons of it and conquered the planet.
@@ -29,8 +29,8 @@
 - `INS-260403-C752` Even early adopters now expect a baseline of design quality, so MVPs that look half-baked get abandoned before they can generate useful feedback.
 - `INS-260403-0CA8` Focus all polish on the one or two things users come back for, ship that fast, then layer depth only after validation.
 - `INS-260403-EE38` Most big programs started as throwaway scripts, so tools must excel at quick disposable work to capture the projects that grow.
-- `INS-260405-28DF` Viability is table stakes; competitive differentiation must be designed in from day one.
 - `INS-260404-7B37` Aligning MVP features tightly with ICP needs creates a repeatable sales process that non-founders can execute.
+- `INS-260405-28DF` Viability is table stakes; competitive differentiation must be designed in from day one.
 - `INS-260404-A6D4` Substack's first version had no CMS, no onboarding, and no design tools — Chris Best manually typed the first user into a database, and that user made six figures on day one.
 - `INS-260405-A6BA` Test your riskiest business assumptions before writing a single line of code.
 - `INS-260403-FFEA` Design experiments to maximize validated learning rather than defaulting to scaled-down prototypes.

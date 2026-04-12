@@ -64,8 +64,8 @@ related:
   - INS-260404-9E63
   - INS-260403-3AE7
   - INS-260329-8B1C
+  - INS-260411-F649
   - INS-260330-B08E
-  - INS-260403-5F41
   - INS-260410-EFB8
 ---
 Kokotajlo's 2021 'What 2026 Looks Like' scenario got most things roughly right, and he's attempting the same exercise for 2027-2028 with AI 2027. Scott Alexander describes the exercise as 'make it feel earned' in the sense of fiction writing — forcing transitional fossils between today and AGI. The process revealed disagreements the team wouldn't have surfaced by just comparing timelines; breaking the takeoff into milestones (superhuman coder → automated AI researcher → superintelligent researcher) and forecasting each step separately forced them to articulate what's specifically required at each stage.

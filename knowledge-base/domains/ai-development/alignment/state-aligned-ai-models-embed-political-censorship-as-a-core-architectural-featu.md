@@ -56,9 +56,9 @@ stance: >-
 related:
   - INS-260325-36F0
   - PRI-260324-3AAE
+  - INS-260411-6495
   - INS-260402-31D8
   - INS-260330-7711
-  - INS-260404-67C5
   - INS-260403-9006
 ---
 DeepSeek R1 actively suppresses information contradicting Chinese government positions on Taiwan, Hong Kong, Tibet, and other politically sensitive topics. While researchers found that internet slang and indirect phrasing can bypass some censorship filters, the underlying training bias remains baked into the model's weights.

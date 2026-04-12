@@ -47,8 +47,8 @@ related:
   - INS-260330-A18F
   - PRI-260406-5D76
   - INS-260325-A66E
+  - INS-260411-E6BD
   - PRI-260328-F570
   - PRI-260325-663A
-  - PRI-260325-2DE6
 ---
 Rivnay frames personalization as a closed-loop problem: the device must sense what is happening with the patient and then modulate how much biologic it produces in response. Current 'personalized medicine' usually stops at picking a molecule or genotype-matched therapy but still delivers it at static intervals. A sense-respond implant collapses this into continuous dose titration — analogous to a closed-loop insulin pump, but generalized to any biologic the engineered cells can manufacture. The personalization value compounds with sensor fidelity and actuation precision.

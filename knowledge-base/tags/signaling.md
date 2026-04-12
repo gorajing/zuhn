@@ -9,9 +9,9 @@
 - `INS-260405-76E4` Investors without technical depth use founder confidence as a proxy for product quality.
 - `INS-260330-C9C2` Swear words serve as credible emotional signals because their social cost keeps them scarce—overuse would destroy their alarm function.
 - `INS-260330-A8F8` Choosing between 'defecate' and its vulgar synonym signals your emotional state about the referent, not just the referent itself.
-- `INS-260330-3BBC` Crises force binary choices that expose where people truly stand, cutting through ambiguity.
 - `INS-260410-B47B` The U-2 spy plane kept the Cold War cold because both sides rationally preferred the Soviets tracking it silently over admitting they couldn't shoot it down — information and its management beat raw force.
 - `INS-260410-8D62` When you take a leadership role, commit real, personal, post-tax capital — not just granted equity — so every decision is visibly yours too.
+- `INS-260330-3BBC` Crises force binary choices that expose where people truly stand, cutting through ambiguity.
 - `INS-260402-A2F1` When moral rules become elaborate enough, following them substitutes for actually being good, attracting people who weaponize compliance.
 - `INS-260403-22FE` Explicit claims of passion or quality trigger skepticism filters, while implicit confidence conveyed through demeanor and specifics builds genuine credibility.
 - `INS-260404-405A` Never verbally claim passion or quality — audiences discount explicit self-praise but heavily weight the implicit confidence of your delivery.

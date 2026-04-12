@@ -59,7 +59,6 @@ related:
   - PRI-260405-262B
   - INS-260402-D0F2
   - INS-260403-1D41
-  - INS-260409-A239
 ---
 Both Harris and Goldberg identify a specific mechanism of social control: forcing people to lie about obvious facts (like who started the Ukraine war) isn't about the specific claim — it's about establishing that 'truth will not save you.' Once someone publicly affirms a falsehood, they become invested in maintaining it, making them more compliant with future demands.
 

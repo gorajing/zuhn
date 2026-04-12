@@ -1,5 +1,5 @@
 # Source Map
-Generated on 2026-04-12 | 2313 sources
+Generated on 2026-04-12 | 2316 sources
 
 | Source | Type | Insights | Date |
 |--------|------|----------|------|
@@ -81,6 +81,7 @@ Generated on 2026-04-12 | 2313 sources
 | How to Win With AI in 2026 | youtube | 11 | 2026-04-09 |
 | Inside the Mind of a Master Procrastinator | Tim Urban | TED | youtube | 11 | 2026-03-25 |
 | Paul Rosolie: Amazon Jungle, Uncontacted Tribes, Anacondas, and Ayahuasca | Lex Fridman Podcast #369 | youtube | 11 | 2026-03-30 |
+| Epistemology and Metacognition in Artificial Intelligence: Defining, Classifying, and Governing the Limits of AI Knowledge | blog | 10 | 2026-04-12 |
 | How can we develop transformative tools for thought? | blog | 10 | 2026-04-10 |
 | $100M CEO Explains How to Build A Brand in 2024 | youtube | 10 | 2026-03-30 |
 | 13 Foods You Should NEVER Buy Organic | youtube | 10 | 2026-03-26 |
@@ -2316,3 +2317,5 @@ Generated on 2026-04-12 | 2313 sources
 | You Are Taking Creatine Wrong (here's how to fix it) | youtube | 1 | 2026-03-26 |
 | You Will Never Wear AirPods Again | youtube | 1 | 2026-03-26 |
 | You'll Never Eat Sardines Again | youtube | 1 | 2026-03-26 |
+| article_measuringthemoat | pdf | 0 | 2026-04-12 |
+| ceo-letter-to-shareholders-2025 | pdf | 0 | 2026-04-12 |

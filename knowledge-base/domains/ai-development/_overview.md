@@ -1,6 +1,6 @@
 # Domain: ai-development
 
-> 1674 insights across 40 topics
+> 1681 insights across 40 topics
 
 ## Topics
 
@@ -14,7 +14,7 @@
 | ai-business-models | 1 | Microsoft is seeing strong demand for Windows 365 instances provisioned for autonomous agents that need their own machine — the per-seat business is becoming per-user-plus-per-agent. |
 | ai-capabilities | 148 | Aletheia matches a 6-month-old model's reasoning performance using 100x less inference compute, driven by a stronger base model rather than more thinking time. |
 | ai-market-dynamics | 154 | Porn is a leading indicator for consumer tech — if AI avatars, chatbot characters, and generated content are working there, they're coming to mainstream markets soon. |
-| alignment | 90 | Accidental misalignment in automated workflows is more dangerous than deliberate misuse because it cascades silently at scale. |
+| alignment | 92 | Accidental misalignment in automated workflows is more dangerous than deliberate misuse because it cascades silently at scale. |
 | applications | 6 | An AI system routing 2,000 medical devices across 50 hospital locations cut nursing retrieval travel by 50% — staff only noticed they were happier. |
 | architecture | 26 | The control unit of a CPU is a ROM — a lookup table — and every 'decision' a computer appears to make is a deterministic table read. |
 | automation | 12 | Blockade → commerce raiding → convoying is the same pattern as every firewall → exploit → intrusion detection cycle; the ladder is older than it looks. |
@@ -23,12 +23,12 @@
 | embeddings | 18 | Different basis choices make different operations trivial or impossible in vector spaces. |
 | foundation-models | 9 | LLMs win the AGI race, but their first act as AGIs is to replace themselves with something closer to Sutton's from-scratch experiential architecture. |
 | future-of-work | 97 | Tens of millions learning Python through free YouTube tutorials represent a workforce transformation happening outside traditional education. |
-| governance | 13 | 80% of Americans want AI regulated — a rare civic consensus — and frontier labs are spending hundreds of millions to kill it; the organizing opening is real. |
+| governance | 14 | 80% of Americans want AI regulated — a rare civic consensus — and frontier labs are spending hundreds of millions to kill it; the organizing opening is real. |
 | hardware | 13 | An H100 is worth more today than three years ago because the models it runs generate far more value per token than GPT-4 did, and you can't just buy a Rubin instead. |
-| human-ai-relationship | 74 | When AI outperforms humans, human-AI synergy is g = -0.54; when humans outperform AI, synergy is g = +0.46. |
+| human-ai-relationship | 75 | When AI outperforms humans, human-AI synergy is g = -0.54; when humans outperform AI, synergy is g = +0.46. |
 | industry-trends | 15 | Each AI capability phase — transformers, LLMs, reasoning, agents — requires discarding the mental models built in the previous phase. |
 | infrastructure | 19 | Multi-turn agent workloads flip the inference bottleneck from decode to prefill, requiring new optimization strategies for KV cache reuse and context processing. |
-| limitations | 61 | The optical nerve delivers about 10^15 bytes to a 4-year-old's brain versus 2x10^13 bytes of all internet text used to train LLMs -- most human knowledge comes from sensory interaction with the physical world, not from language. |
+| limitations | 64 | The optical nerve delivers about 10^15 bytes to a 4-year-old's brain versus 2x10^13 bytes of all internet text used to train LLMs -- most human knowledge comes from sensory interaction with the physical world, not from language. |
 | llm-behavior | 12 | Once an AI cites a source, it tends to return to it — making first-mover citation advantage self-reinforcing. |
 | llm-costs | 19 | OpenRouter offers 50-1000 free requests/day on certain models — not trial credits, actually free forever. |
 | llm-training | 63 | Run systematic ablation experiments on architecture, data mixtures, and hyperparameters at small scale before committing to a full training run -- this consumes ~37% of total compute but prevents costly mistakes. |

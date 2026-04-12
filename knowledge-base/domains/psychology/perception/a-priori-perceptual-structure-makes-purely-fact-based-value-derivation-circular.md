@@ -58,9 +58,9 @@ stance: >-
 related:
   - INS-260325-95EB
   - INS-260330-5BC4
+  - INS-260411-8AEF
   - INS-260330-9DC9
   - INS-260330-12DC
-  - INS-260329-CCDE
 evidence:
   - id: INS-260330-5BC4
     type: TRANSFERS_TO

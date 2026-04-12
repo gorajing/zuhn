@@ -9,17 +9,17 @@
 - `INS-260404-7AA0` More traders create better price signals, which attract more traders — a classic liquidity network effect that compounds.
 - `INS-260403-9A94` VC secondaries have evolved from emergency liquidity hacks into planned, core fund infrastructure hitting $152B in 2024.
 - `INS-260410-F41F` The 2009 HITECH Act's $36B in 'meaningful use' incentives drove EMR adoption from 9% to 95% of hospitals in five years—which sounds like a tailwind, but the deeper effect was closing the door on any future innovative competitor by compressing decades of buying decisions into one window.
-- `INS-260322-96F1` The entire GameStop crisis was caused by an archaic settlement system (T+1) that requires collateral posting for trades that have already occurred — tokenization eliminates this by enabling instant settlement.
-- `INS-260405-5856` When hundreds of local governments simultaneously subsidize competing firms in the same industry, the winning national champion emerges alongside massive excess capacity.
 - `INS-260405-3E92` MANG (Microsoft, Amazon, Alphabet, Nvidia) raised $25B+ in 2023 deals — roughly 8% of all North American venture capital — signaling Big Tech's structural entry into VC.
 - `INS-260404-2250` High-resolution fundraising rewards bold investors with better prices and deal access while penalizing passive 'who else is investing?' followers.
 - `INS-260403-5031` Seed VCs face tighter ownership, higher prices, and tougher differentiation as mega-funds move downmarket and AI startups demand more capital.
 - `INS-260404-109D` The US VC playbook assumes capital market infrastructure that most global markets lack, making direct transplantation a structural mistake.
+- `INS-260322-96F1` The entire GameStop crisis was caused by an archaic settlement system (T+1) that requires collateral posting for trades that have already occurred — tokenization eliminates this by enabling instant settlement.
+- `INS-260405-5856` When hundreds of local governments simultaneously subsidize competing firms in the same industry, the winning national champion emerges alongside massive excess capacity.
 - `INS-260404-A2C4` AI companies appear at every valuation tier from $10B to $157B across radically different verticals, confirming AI as a horizontal platform shift.
 - `INS-260409-62E0` AI's market structure will look like a barbell with hyper-micro entrepreneurs on one end, ~25 supercalers on the other, and a crushed middle of SaaS and mid-market service businesses.
 - `INS-260330-95F3` Singapore's PAP holds free elections but rigs the playing field through gerrymandering, 11-day campaigns, and defamation lawsuits — a model that maps to how dominant platforms allow competitors to exist while structurally disadvantaging them.
 - `INS-260403-F66F` Fragmented markets with entrenched but low-quality incumbents let startups capture outsized value through aggregation and 10X better experiences.
 - `INS-260330-A0AE` Creating enormous value (X) guarantees nothing about capturing it (Y%) — airlines created $195B in revenue but cumulative profits ≈ zero over 100 years, while Google captured far more from a smaller market.
 - `INS-260405-9492` Overlapping valuation bands across seed, Series A, and Series B mean stage labels no longer reliably communicate company maturity or risk profile.
-- `INS-260403-63F9` A survey of 500 executives shows enterprises overwhelmingly buying AI tools rather than building, with startups dominating application layers.
 - `INS-260409-AB8D` VC-backed industrial software must chase hockey stick growth, which means every feature decision optimizes for 'biggest problems for the most people, ideally wealthy people with disposable income' — leaving a nearly infinite long tail of niche and local needs permanently out of scope.
+- `INS-260403-63F9` A survey of 500 executives shows enterprises overwhelmingly buying AI tools rather than building, with startups dominating application layers.

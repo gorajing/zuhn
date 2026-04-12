@@ -6,6 +6,8 @@
 - `INS-260403-541C` Systematically research each stakeholder's incentives, decision process, and concerns before attempting to influence them.
 - `INS-260327-B5C9` You are ultimately accountable for your product like a CEO, but to make things happen you sometimes need to sweep the floor because nobody else will.
 - `INS-260404-1DAA` Strong PMs master two of the 3 W's; those who rise to leadership master all three—output quality, unique contributions, and operating model.
+- `INS-260403-E09E` Repeatedly returning to the problem statement during design reviews and progress updates is the most effective scope control mechanism.
+- `INS-260403-7BCF` Every team member holds a unique mental model of the problem, and without forced alignment the team builds toward different goals.
 - `INS-260403-8DA1` Never assume other teams see your project as a priority — explicitly demonstrate impact on their specific goals.
 - `INS-260405-8646` Product KPIs need to be designed for four audiences at once: product team, stakeholders, executives, and customers.
 - `INS-260404-1299` Good PMs produce good artifacts, and those artifacts are the mechanism for having 'impact on the impact.'
@@ -13,8 +15,6 @@
 - `INS-260403-CD68` Libra failed partly because regulators went beyond setting guardrails to actively managing product decisions, making it impossible to ship a market-responsive product.
 - `INS-260409-2A8D` Your only job is right product at right time — everything else is avoidance of that job.
 - `INS-260403-A70D` Measuring outcomes over outputs forces product teams to validate that shipped features actually change user behavior and create value.
-- `INS-260403-E09E` Repeatedly returning to the problem statement during design reviews and progress updates is the most effective scope control mechanism.
-- `INS-260403-7BCF` Every team member holds a unique mental model of the problem, and without forced alignment the team builds toward different goals.
 - `INS-260330-2C79` Translate customer problems into elegant solutions rather than implementing their proposed features.
 - `INS-260330-8D34` A clear set of 'why are we building this' statements serves as both creative constraint and trade-off arbiter across all teams.
 - `INS-260330-A6BE` Record interviews and play them back to the team — the emotional impact of hearing real users creates alignment that summaries and data slides cannot.

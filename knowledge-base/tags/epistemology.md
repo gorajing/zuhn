@@ -6,6 +6,7 @@
 - `INS-260323-2D1D` Pythagoras's theorem has been unchanged for 2500 years while Newton's gravity was superseded by Einstein's — mathematical proof produces certainty that empirical science cannot.
 - `INS-260330-BA13` SHA256's security is empirical rather than proven — no one has found a way to reverse it, but there's no proof that it's impossible.
 - `INS-260325-76E6` Even on Mars, we can never fully prove the absence of life — there is always another rock to check, another canyon to explore, making proof of cosmic loneliness impossible.
+- `INS-260404-F366` Correcting a malicious streetlight looks like directional overclaiming, and correcting directional overclaiming looks like streetlighting — trapping good-faith actors.
 - `INS-260330-984C` Flat Earth theories are clever ad hoc explanations that address individual challenges but fail to fit all evidence into a unified framework.
 - `INS-260403-213D` Good-sounding writing and correct thinking are structurally coupled through rhythm matching idea shape and revision forcing truth-convergence.
 - `INS-260330-8FF8` The silicon sphere (atom-counting) and the Watt Balance (Planck's constant) provide independent checks on each other that neither could achieve alone.
@@ -17,7 +18,16 @@
 - `INS-260330-7994` Psychology's strength as a science comes from maintaining multiple competing schools of thought rather than converging on a single methodology.
 - `INS-260330-2838` Islam's hadith tradition explicitly grades source reliability — some sayings are well-attested, others are essentially gossip — and the '72 virgins' claim falls in the poorly-sourced category that most Muslims reject.
 - `INS-260405-2021` Musk's 'Hitchhiker's Guide' framing — the answer is 42, but we don't know the question — reframes progress as a problem of question quality, not answer capacity.
-- `INS-260404-F366` Correcting a malicious streetlight looks like directional overclaiming, and correcting directional overclaiming looks like streetlighting — trapping good-faith actors.
+- `INS-260409-A072` Five contemplatives across 2500 years reporting the same inward shift is weak proof individually but strong inductive evidence collectively, the same way we'd trust five independent physicists describing one phenomenon.
+- `INS-260330-84C6` The gap between peak conscious experience and linguistic description is not a matter of degree but of kind — language is structurally incapable of encoding these states.
+- `INS-260330-AB5D` Meditation works by subtracting perceptual illusions rather than adding new capabilities.
+- `INS-260330-12DC` Some false beliefs reliably produce better outcomes than acting on the known truth, creating a legitimate category of 'metaphorical truth.'
+- `INS-260330-7E61` Since humans inevitably make mistakes, the core moral imperative is preserving mechanisms that allow errors to be detected and corrected — destroying these mechanisms is the deepest immorality.
+- `INS-260330-24DD` The same psychedelic experience would be interpreted as proof of the Holy Spirit by a Christian, but the experience itself is pre-doctrinal and carries no inherent theological content.
+- `INS-260411-8AEF` AI 'knowledge' is statistical likelihood rather than justified belief, requiring a Bayesian rather than classical epistemic framework.
+- `INS-260409-55F6` Asymmetric epistemic standards — trusting convergence in physics but dismissing it in phenomenology — need to be justified, not assumed.
+- `INS-260409-B3DC` If a question has the same answer whoever asks it, that's a property of the question, not the asker — and independent rediscovery is how you detect that.
+- `INS-260330-4BFD` When a model needs ad-hoc explanations for gravity, time zones, satellite imagery, and navigation simultaneously, the model itself is wrong — not the evidence.
 - `INS-260330-184C` Exhaustive testing of a finite subset cannot prove universal claims over infinite domains, as counterexamples can hide astronomically far away.
 - `INS-260330-1B5E` America is the only country whose citizens generate conspiracy theories about their own greatest achievements, like the moon landing — even Soviet citizens under total propaganda didn't doubt Gagarin.
 - `INS-260322-38D8` Our meaning-creation ability is so powerful that it generates false positives constantly — we see meaningful patterns in noise because meaning-making is our default mode, not an opt-in process.
@@ -29,15 +39,6 @@
 - `INS-260330-5263` The Euclidean geometry example shows that absolute certainty about 'only one line through two points' was false once you consider curved space — our feeling of certainty is always suspect.
 - `INS-260330-1E6A` Truth has three structural disadvantages against fiction: it's costly to produce, inherently complex, and sometimes painful to accept.
 - `INS-260330-6566` The difference between a dangerous fiction and a useful one is whether it includes mechanisms for self-correction, which requires honesty about its human origins.
-- `INS-260409-A072` Five contemplatives across 2500 years reporting the same inward shift is weak proof individually but strong inductive evidence collectively, the same way we'd trust five independent physicists describing one phenomenon.
-- `INS-260330-84C6` The gap between peak conscious experience and linguistic description is not a matter of degree but of kind — language is structurally incapable of encoding these states.
-- `INS-260330-AB5D` Meditation works by subtracting perceptual illusions rather than adding new capabilities.
-- `INS-260330-12DC` Some false beliefs reliably produce better outcomes than acting on the known truth, creating a legitimate category of 'metaphorical truth.'
-- `INS-260330-7E61` Since humans inevitably make mistakes, the core moral imperative is preserving mechanisms that allow errors to be detected and corrected — destroying these mechanisms is the deepest immorality.
-- `INS-260330-24DD` The same psychedelic experience would be interpreted as proof of the Holy Spirit by a Christian, but the experience itself is pre-doctrinal and carries no inherent theological content.
-- `INS-260330-4BFD` When a model needs ad-hoc explanations for gravity, time zones, satellite imagery, and navigation simultaneously, the model itself is wrong — not the evidence.
-- `INS-260409-55F6` Asymmetric epistemic standards — trusting convergence in physics but dismissing it in phenomenology — need to be justified, not assumed.
-- `INS-260409-B3DC` If a question has the same answer whoever asks it, that's a property of the question, not the asker — and independent rediscovery is how you detect that.
 - `INS-260330-FB5A` Popperian error correction (conjecture + refutation) is superior to Bayesian confidence-building because confidence in a theory peaks right before falsification.
 - `INS-260330-1DDE` Evolution can only reach solutions through chains of viable intermediates, while human creativity can leap across non-viable gaps — explaining why no species ever made a campfire despite billions of years.
 - `INS-260330-7CFB` Good explanations are defined by being criticizable and hard to vary, with scientific testability being one form of criticizability rather than the fundamental criterion.

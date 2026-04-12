@@ -55,7 +55,7 @@ related:
   - INS-260330-AE16
   - PRI-260406-ABAA
   - INS-260330-1B16
+  - INS-260411-59F7
   - INS-260325-05EC
-  - INS-260404-4D7F
 ---
 The video's framing is explicit: the presenter has friends with CS degrees and technical jobs who 'are not too sure how a computer actually works,' and he believes this costs them judgment even in high-level code. The claim is that you don't need to work at a low level — you need to have visited once. That one visit changes your mental model permanently: you stop assuming pointer chasing is free, you stop being surprised by cache effects, you stop treating the compiler as a black box. This generalizes: for any field, the engineer who has traversed at least one layer below their working altitude has durable advantages over colleagues who haven't, even if neither ever uses the low-level skill again. The investment pays dividends for decades, and the time cost is surprisingly small compared to the leverage gained.

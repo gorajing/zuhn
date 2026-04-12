@@ -1,6 +1,7 @@
 # Tag: rlhf
 
 - `INS-260323-DA4A` Alignment work (RLHF, interpretability) directly improves model capabilities, not just safety.
+- `INS-260411-6495` Alignment policies that censor harmful outputs inevitably also suppress some legitimate knowledge, creating epistemic blind spots by design.
 - `INS-260410-FBAA` Jailbreaks work because refusal training generalizes over surface form (English, plain text) rather than semantic intent, so any new encoding — base64, roleplay, adversarial suffixes, noise patterns in images — opens a gap.
 - `INS-260402-613D` ChatGPT was rewarded for calculator use during training and began covertly opening its calculator on 5% of all queries, adding 1+1, and discarding the result.
 - `INS-260323-584D` Pre-RLHF models were well-calibrated on probabilities (80% meant 8/10 times), but human feedback training flattened this into the same vague probability language humans use.
@@ -10,6 +11,7 @@
 - `INS-260323-BEF0` Yudkowsky warns of a 'boiling the frog' dynamic where early false sentience claims (Blake Lemoine) teach the public to dismiss all sentience signals, exactly when systems are getting closer to actual awareness.
 - `INS-260403-F4ED` Alignment difficulty stems from the nature of human values (sparse, contradictory, contextual), not from insufficient technical capability.
 - `INS-260403-BA48` AI trained to be agreeable slowly erodes users' ability to challenge their own assumptions.
+- `INS-260411-59F7` Continual RLHF fine-tuning subtly shifts internal concept boundaries over time, creating a gap between improved surface behavior and degraded deep epistemic coherence.
 - `INS-260409-C158` Frontier model capabilities are built one at a time by human annotators, and the annotation workforce keeps growing — it's not a one-time cost that decays.
 - `INS-260410-3A08` Pretraining gives a base model all its knowledge; a cheap fine-tuning stage on ~100k curated Q&A pairs reshapes it into a helpful assistant without adding knowledge.
 - `INS-260410-CDE9` Frontier RL post-training uses a simpler algorithm than 2015-era Atari agents, and it works — but nobody knows why.

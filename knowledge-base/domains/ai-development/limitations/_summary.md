@@ -1,6 +1,6 @@
 # Topic: limitations
 
-> 61 insights
+> 64 insights
 
 - `INS-260323-EECF` [high] The optical nerve delivers about 10^15 bytes to a 4-year-old's brain versus 2x10^13 bytes of all internet text used to train LLMs -- most human knowledge comes from sensory interaction with the physical world, not from language.
 - `INS-260330-C31B` [high] AI's constraints on scientific discovery are a subset of human constraints — both fail when data is sparse, but AI excels where data is abundant but patterns are too complex for human cognition.
@@ -42,6 +42,7 @@
 - `INS-260323-F68A` [high] Claude Code users spend $8-13.5x their subscription in compute — if they had to pay per-error like a metered taxi, most would abandon the service because mistakes become expensive.
 - `INS-260326-97C9` [high] Searching the space of possible programs yields more sophisticated results than designing them from scratch.
 - `INS-260409-DA17` [high] Lee 2025 (Microsoft, 319 knowledge workers), Ye 2024 (UW Social Futures Lab, philosophers), and Gerlich 2025 (666 participants) all independently found GenAI use negatively correlates with critical thinking — with Gerlich specifically identifying a younger-is-worse age gradient mediated by cognitive offloading.
+- `INS-260411-33E5` [high] AI knowledge failures stem from three distinct categories — structural, operational, and emergent — each requiring different mitigation approaches.
 - `INS-260330-00D5` [high] LLMs accumulate small errors token-by-token that compound into incoherence, needing gestalt-level self-review like authors revising drafts.
 - `INS-260330-1FE9` [high] Every Turing-complete system — from programming languages to Conway's Game of Life — has its own analog of the halting problem.
 - `INS-260323-784B` [high] Enterprise resource planning requires SOC-2 compliance, multi-currency handling, legal review, and ongoing maintenance — none of which a prompted LLM can reliably provide or be held accountable for.
@@ -51,10 +52,12 @@
 - `INS-260403-0A83` [medium] AI that replaces human learning effort may destroy the byproduct discoveries that grow humanity's total knowledge stock.
 - `INS-260410-D49F` [medium] Continual learning is LLMs' most obvious gap, but SFT-as-tool-call and meta-learned across-window memory may replicate it without a paradigm shift.
 - `INS-260325-5A2F` [medium] Current drug discovery uses trial-and-error in Petri dishes because digital computers cannot model molecules natively -- quantum computers compute on atoms and could simulate diseases at the molecular level.
+- `INS-260411-D67E` [medium] AI metacognition progresses through eleven tiers — from reactive completion (tier 0) to substrate-level awareness (tier 11) — with exponentially increasing safety requirements at each level.
 - `INS-260403-B8AA` [medium] Neuroscience research suggests language modeling captures communication patterns but not the underlying cognitive processes that produce genuine reasoning.
 - `INS-260410-9FE6` [medium] Without a goal and without ground truth from the world responding to your actions, you cannot have prior knowledge or continual learning — only imitation of people who do.
 - `INS-260325-3D31` [medium] Transistors are approaching 5 atoms across, where electrons hop freely via quantum tunneling and short-circuit the chip -- this physical limit will flatten Moore's Law.
 - `INS-260323-FE69` [medium] Acemoglu predicts only 5% of tasks will be profitably automated and no current occupation will disappear within 5-10 years, because every occupation embeds complex tacit knowledge.
+- `INS-260411-59F7` [medium] Continual RLHF fine-tuning subtly shifts internal concept boundaries over time, creating a gap between improved surface behavior and degraded deep epistemic coherence.
 - `INS-260325-CC49` [medium] The physical impossibility of infinite precision may be what prevents mathematical paradoxes from breaking reality.
 - `INS-260410-B3D7` [medium] LLMs have total recall but can't synthesize across fields because pre-training doesn't teach the active exploration loop that PhDs learn.
 - `INS-260325-A1B9` [medium] Digital encryption relies on the difficulty of factoring large numbers -- a task that takes digital computers centuries but quantum computers could do almost instantly.

@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-12 | 4820 actionable insights
+Generated on 2026-04-12 | 4827 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -230,6 +230,8 @@ Generated on 2026-04-12 | 4820 actionable insights
 - [INS-260325-C5AA] Allowing open source models to flourish ensures no single company becomes a chokepoint for information access — this is the structural free speech safeguard for AI.
 - [INS-260325-9A0F] What makes institutions functional is not perfection but self-correction — elections, peer review, and amendment processes that identify and fix mistakes over time.
 - [INS-260409-42F2] Hassabis says the real safety crunch arrives in 1-2 years when systems become meaningfully agentic and autonomous.
+- [INS-260411-6495] Alignment policies that censor harmful outputs inevitably also suppress some legitimate knowledge, creating epistemic blind spots by design.
+- [INS-260411-7232] Pairing a generative model with an adversarial skeptic/critic model significantly enhances factual accuracy beyond what internal confidence calibration alone can achieve.
 
 ## ai-development/architecture
 - [INS-260402-2D95] Libraries are reusable because they are language, not because they are object-oriented.
@@ -403,6 +405,8 @@ Generated on 2026-04-12 | 4820 actionable insights
 - [INS-260402-31D8] The AI security consulting industry sells prompt-level protections that cannot work because LLMs are fundamentally jailbreakable; only permission restriction provides real security.
 - [INS-260403-BE4D] Including relevant background data (bios, papers, past interactions) in the right format and order can make or break prompt performance more than any clever technique.
 - [INS-260410-B224] Models struggle on real work because they lack context and can't handle amorphous multi-file scope, not because they need another 9 of reliability.
+- [INS-260411-59F7] Continual RLHF fine-tuning subtly shifts internal concept boundaries over time, creating a gap between improved surface behavior and degraded deep epistemic coherence.
+- [INS-260411-33E5] AI knowledge failures stem from three distinct categories — structural, operational, and emergent — each requiring different mitigation approaches.
 
 ## ai-development/llm-behavior
 - [INS-260410-0EFE] A forward pass through ~100 transformer layers is the compute budget per token, so any answer that requires real work must be spread across many intermediate tokens or offloaded to a tool.
@@ -1553,6 +1557,9 @@ Generated on 2026-04-12 | 4820 actionable insights
 - [INS-260410-A33F] Argument, counterargument, rebuttal — but the rebuttal must come from a completely different angle than the original argument, or it's just repetition.
 - [INS-260410-0775] Chesterton's Fence is real — bitter cassava processing, food taboos, bow-making techniques encode causal logic that took centuries to evolve and that the people following them cannot explain.
 - [INS-260410-8E0D] Paine repeatedly tells Dwarkesh his questions are 'above my pay grade' — she can describe what the Japanese leadership faced, but can't say what was politically feasible for FDR without having served in government.
+- [INS-260411-8AEF] AI 'knowledge' is statistical likelihood rather than justified belief, requiring a Bayesian rather than classical epistemic framework.
+- [INS-260411-F649] AI deployments should be segmented by epistemic risk tolerance: tolerate hallucinations for creative tasks, require grounding for decision support, and demand formal verification for autonomous execution.
+- [INS-260411-7F4F] Aleatoric uncertainty (irreducible noise), epistemic uncertainty (knowledge gaps), and ontological uncertainty (ambiguous concepts) each demand different mitigation strategies.
 
 ## psychology/expertise
 - [INS-260330-C7B5] Making a tool part of your identity makes you worse at evaluating alternatives.

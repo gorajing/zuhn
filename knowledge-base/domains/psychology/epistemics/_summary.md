@@ -1,12 +1,14 @@
 # Topic: epistemics
 
-> 39 insights
+> 42 insights
 
 - `INS-260409-F93A` [high] Galef argues accurate maps of the world should include explicit uncertainty markers and remain provisional — 'drawn in pencil, not pen' — because false precision creates psychological resistance to updating when better evidence arrives.
+- `INS-260411-8AEF` [high] AI 'knowledge' is statistical likelihood rather than justified belief, requiring a Bayesian rather than classical epistemic framework.
 - `INS-260405-5702` [high] Feed algorithms don't just show different opinions — they construct different facts for different population clusters.
 - `INS-260405-0184` [high] Growing audiences for 2-4 hour deep-dive content disprove the shrinking attention span narrative — people crave depth when the content rewards sustained focus.
 - `INS-260410-A33F` [high] Argument, counterargument, rebuttal — but the rebuttal must come from a completely different angle than the original argument, or it's just repetition.
 - `INS-260410-0775` [high] Chesterton's Fence is real — bitter cassava processing, food taboos, bow-making techniques encode causal logic that took centuries to evolve and that the people following them cannot explain.
+- `INS-260411-F649` [high] AI deployments should be segmented by epistemic risk tolerance: tolerate hallucinations for creative tasks, require grounding for decision support, and demand formal verification for autonomous execution.
 - `INS-260405-4693` [high] History uniformly shows that every era had forbidden truths; assuming ours is different requires extraordinary evidence.
 - `INS-260410-831F` [high] The Inquisition ignored Voltaire and the Encyclopédie to throw the book at Jansenist treatises about the Trinity — and Palmer says this pattern holds in every era she studies.
 - `INS-260410-8E0D` [high] Paine repeatedly tells Dwarkesh his questions are 'above my pay grade' — she can describe what the Japanese leadership faced, but can't say what was politically feasible for FDR without having served in government.
@@ -24,6 +26,7 @@
 - `INS-260409-5CD4` [high] Julia Galef: 'Scout Mindset is the motivation to see what's really there and not just what you wish was there' — distinguishing it from soldier mindset where beliefs are defended against threatening evidence through rationalization, denial, and motivated reasoning.
 - `INS-260410-B507` [high] The archives declassified after the Soviet collapse showed that 'the Nazis were Nazis and the communists were communists' — the interrogators, torturers, and twenty-five-thousanders believed they were building a new world, even when they knew specific victims were innocent.
 - `INS-260409-A8F4` [high] You cannot infer velocity from one photograph, no matter how good the shutter metadata is.
+- `INS-260411-7F4F` [high] Aleatoric uncertainty (irreducible noise), epistemic uncertainty (knowledge gaps), and ontological uncertainty (ambiguous concepts) each demand different mitigation strategies.
 - `INS-260409-BF3F` [high] In a field where measurements are routinely precise to ~1%, an 8-9% gap between two independent methods is not a rounding error — it is a crisis exactly because precision grew faster than the gap closed.
 - `INS-260409-0206` [high] The gap between 'unexplained' and 'aliens' is a logical leap people make far too quickly.
 - `INS-260405-D3D7` [high] You cannot use a biased yardstick to measure whether the selection was biased.

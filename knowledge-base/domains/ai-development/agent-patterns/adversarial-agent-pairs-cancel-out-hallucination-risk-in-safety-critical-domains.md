@@ -45,10 +45,10 @@ stance: >-
   output quality comparable to expert humans in medical advice scenarios
 related:
   - INS-260402-876A
+  - INS-260411-7232
   - PRI-260406-CF83
   - INS-260329-C092
   - INS-260327-991D
-  - INS-260323-B029
 evidence:
   - id: INS-260329-C092
     type: TRANSFERS_TO

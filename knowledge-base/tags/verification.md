@@ -10,6 +10,7 @@
 - `INS-260330-63DD` Theoretical fields based on logical implications of assumptions can be nearly push-button accelerated by AI, while experimental fields remain gated by physical testing.
 - `INS-260403-C501` Verifiable tasks provide the training signal that lets AI master them first, creating a predictable sequence of capability unlocks.
 - `INS-260410-9A24` Reward hacking is solvable by RL'ing AI against physical reality rather than human judgment, because a rocket that blows up cannot be faked.
+- `INS-260411-7232` Pairing a generative model with an adversarial skeptic/critic model significantly enhances factual accuracy beyond what internal confidence calibration alone can achieve.
 - `INS-260329-D2CA` Types catch structural errors and tests catch behavioral errors — skipping either leaves an entire category of bugs invisible.
 - `INS-260410-DABE` Always provide tests, example cases, screenshots, or a command Claude can run to verify its own output.
 - `INS-260329-500E` AI writing code makes understanding programming fundamentals more critical, not less, because humans must verify AI output.

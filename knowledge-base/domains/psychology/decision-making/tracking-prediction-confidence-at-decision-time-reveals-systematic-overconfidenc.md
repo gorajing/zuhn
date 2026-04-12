@@ -54,9 +54,9 @@ related:
   - INS-260403-7EA1
   - PRI-260406-A4AA
   - PRI-260406-4C28
+  - INS-260411-7232
   - PRI-260324-2C9F
   - INS-260403-B7E3
-  - INS-260403-22FE
 ---
 Rachitsky's practice of recording OK/Good/Great confidence for each investment created a personal calibration dataset that revealed his high-conviction ratings were poor predictors of actual returns. This is a generalizable metacognitive technique: any domain where you make repeated decisions under uncertainty benefits from logging your confidence at decision time and systematically comparing against outcomes.
 

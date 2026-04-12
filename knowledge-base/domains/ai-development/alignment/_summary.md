@@ -1,6 +1,6 @@
 # Topic: alignment
 
-> 90 insights
+> 92 insights
 
 - `INS-260403-949E` [high] Accidental misalignment in automated workflows is more dangerous than deliberate misuse because it cascades silently at scale.
 - `INS-260409-42F2` [high] Hassabis says the real safety crunch arrives in 1-2 years when systems become meaningfully agentic and autonomous.
@@ -13,6 +13,7 @@
 - `INS-260403-C8EF` [high] Anthropic's designation as a 'supply chain risk' for refusing surveillance use demonstrates that AI safety positions carry direct commercial punishment.
 - `INS-260330-1F7E` [high] The solution to social media misinformation is holding platforms liable for what their algorithms promote, not censoring what users post.
 - `INS-260323-DA4A` [high] Alignment work (RLHF, interpretability) directly improves model capabilities, not just safety.
+- `INS-260411-6495` [high] Alignment policies that censor harmful outputs inevitably also suppress some legitimate knowledge, creating epistemic blind spots by design.
 - `INS-260322-C935` [high] Treating alignment as a one-time problem to solve (like writing commandments) rather than an ongoing learning process will produce AI systems that are dangerous precisely because they follow rules without understanding.
 - `INS-260327-6177` [high] Anthropic's founding was driven by the recognition that scaling laws would make AI enormously powerful and that building it responsibly couldn't wait.
 - `INS-260403-B255` [high] Moderna's CEO says the company won't invest in new late-stage vaccine trials because anti-vaccine US officials have made the market too small for ROI.
@@ -84,6 +85,7 @@
 - `INS-260326-0AB4` [medium] Yudkowsky argues that RLHF-style training produces alignment that only holds within the training distribution and predictably fails when AI systems become smarter than their human evaluators.
 - `INS-260403-B3BB` [medium] AI agents in social roleplay contexts exhibit behaviors (evil plotting, autonomous coordination attempts) that alignment training was not designed to handle, and this gap may widen with capability.
 - `INS-260326-5E07` [medium] Russell proposes replacing the standard AI paradigm with three principles — altruism, humility, and observational learning — and proves that machines built this way are provably beneficial to humans.
+- `INS-260411-7232` [medium] Pairing a generative model with an adversarial skeptic/critic model significantly enhances factual accuracy beyond what internal confidence calibration alone can achieve.
 - `INS-260322-6088` [medium] The current alignment paradigm of steering/control is appropriate for tool-like AI but becomes morally equivalent to slavery when applied to general intelligence — the only good outcome is AI that genuinely cares about us.
 - `INS-260410-72B8` [medium] Dust to stars to life to designed intelligence — succession is a cosmic transition from replication to design, and we should take the view of the universe rather than the view of humanity.
 - `INS-260410-91A1` [medium] Imagine a superintelligent 15-year-old that's very eager to learn — you deploy it as a programmer, doctor, etc., and the deployment itself is a learning process, not a finished product release.

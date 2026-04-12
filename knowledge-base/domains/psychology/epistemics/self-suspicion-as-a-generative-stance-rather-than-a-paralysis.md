@@ -57,11 +57,11 @@ stance: >-
   rewrite oneself via interventions, as opposed to a paralyzing stance that
   produces indecision.
 related:
+  - INS-260411-7232
   - PRI-260405-262B
   - INS-260403-22FE
   - INS-260405-80B0
   - INS-260327-7F32
-  - INS-260330-7D5F
 ---
 Johnson's self-description — 'I don't trust my internal generation of reality, I know I'm always making things up, I've got 188 chronic biases like all humans do, I'm generally suspicious of all things all time, and I don't take myself very seriously' — is interesting because it is usually associated with depression or paralysis but here it appears to enable aggressive self-modification. The generative version of this stance treats the current self as a working draft that is probably wrong in specific ways and that deserves to be rewritten when better evidence arrives.
 

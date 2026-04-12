@@ -60,10 +60,10 @@ stance: >-
   as the whole picture.
 related:
   - INS-260403-D5BB
+  - INS-260411-7F4F
   - INS-260403-F4C9
   - INS-260410-D834
   - INS-260323-8966
-  - PRI-260323-1F9C
 ---
 The Chamath team's three-layer framework—Exposure, Adoption, Labor Market Response—is valuable less as a prediction machine and more as a diagnostic for why public discourse on AI and work remains so confused. Technologists focus on exposure (what AI can do) and see massive displacement potential. Economists studying firm behavior focus on adoption and see sluggish integration. Labor economists studying wages and employment see a mixed response that varies by sector. All three are right about their layer.
 

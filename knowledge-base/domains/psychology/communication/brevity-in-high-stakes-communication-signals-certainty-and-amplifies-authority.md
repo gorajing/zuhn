@@ -43,7 +43,6 @@ stance: >-
   The most impactful leadership communications use fewer words because brevity
   forces clarity of thought and signals decisional confidence
 related:
-  - INS-260329-3C75
   - INS-260330-2F52
   - INS-260403-96FA
   - INS-260403-50B0

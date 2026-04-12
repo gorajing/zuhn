@@ -56,11 +56,11 @@ stance: >-
   that create more damage than they fix, funded by currency debasement that
   compounds the harm while obscuring its true cost.
 related:
+  - INS-260411-6495
   - INS-260330-EA56
   - INS-260403-5710
   - INS-260410-CBF9
   - INS-260321-5655
-  - PRI-260406-D802
 evidence:
   - id: INS-260330-EA56
     type: SUPPORTS

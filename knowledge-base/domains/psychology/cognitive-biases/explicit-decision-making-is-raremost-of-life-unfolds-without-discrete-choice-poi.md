@@ -52,7 +52,6 @@ stance: >-
   life trajectories emerge from accumulated defaults and drift rather than
   conscious deliberation.
 related:
-  - INS-260325-C830
   - INS-260327-D9C0
   - PRI-260406-90C7
   - INS-260325-82E8

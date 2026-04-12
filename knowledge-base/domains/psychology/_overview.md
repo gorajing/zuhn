@@ -1,6 +1,6 @@
 # Domain: psychology
 
-> 2297 insights across 24 topics
+> 2300 insights across 24 topics
 
 ## Topics
 
@@ -12,7 +12,7 @@
 | communication | 50 | Craft one 'the X of Y' phrase that sticks — professional investors hear so many pitches they blur, and the first filter is simply being remembered. |
 | consciousness | 109 | Johnson's framework reframes psychiatric disorders as varieties of stuck-ness — narrowed loops of thought and behavior — that psychedelics disrupt by forcing the brain into novel configurations. |
 | decision-making | 139 | Admitting you're bad at something is the first step to finding effective workarounds like delegation or systematic search. |
-| epistemics | 39 | Galef argues accurate maps of the world should include explicit uncertainty markers and remain provisional — 'drawn in pencil, not pen' — because false precision creates psychological resistance to updating when better evidence arrives. |
+| epistemics | 42 | Galef argues accurate maps of the world should include explicit uncertainty markers and remain provisional — 'drawn in pencil, not pen' — because false precision creates psychological resistance to updating when better evidence arrives. |
 | expertise | 76 | Having an audience prevents the natural tendency to stop thinking at exactly the point where deeper exploration would be most valuable. |
 | focus | 157 | Long-form tutorials act as a self-selection filter — people who click a 4.5-hour video are pre-committed, leading to deeper engagement than bite-sized content. |
 | founder-mindset | 30 | Masa Son's explicit 50-year plan — build in 20s, accumulate in 30s, deploy in 40s, consolidate in 50s, hand off after 60 — gave him a framework to absorb $70B losses without changing course. |

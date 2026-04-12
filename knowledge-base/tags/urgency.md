@@ -12,7 +12,7 @@
 - `INS-260403-E541` Compress investor meetings into dense clusters to create competitive urgency, which matters as much as your actual traction.
 - `INS-260327-088D` Vlad Tenev argues wartime should be the default state; any period of peacetime comfort means you probably weren't executing aggressively enough.
 - `INS-260409-5FE5` Two loss frames beat one — 'limited seats' plus 'locked-in price forever' creates urgency that neither alone can match.
+- `INS-260327-B64E` Asking about everything a prospect has already tried and failed at surfaces deprivation, which creates the psychological urgency that drives buying decisions.
 - `INS-260330-318C` Mobile money adoption in Africa was explosive because the alternative — physically transporting cash over multi-day journeys with theft risk — made adoption a survival decision rather than a convenience choice.
 - `INS-260410-1BB0` When you're racing a window shut, you don't have the luxury of optionality — the window itself is evidence your adversary's structural position will soon exceed yours.
-- `INS-260327-B64E` Asking about everything a prospect has already tried and failed at surfaces deprivation, which creates the psychological urgency that drives buying decisions.
 - `INS-260330-B27A` LA discovered that sunlight + chlorine + bromide creates bromate — a carcinogenic reaction not covered by existing regulations that only monitored ozone-based bromate formation.

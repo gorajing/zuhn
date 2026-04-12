@@ -50,7 +50,6 @@ stance: >-
   a fundamental cognitive asymmetry where the brain processes visual information
   orders of magnitude faster than text.
 related:
-  - INS-260327-1631
   - INS-260329-FCD3
   - INS-260330-189F
   - INS-260330-83BC

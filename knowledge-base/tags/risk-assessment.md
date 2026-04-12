@@ -3,19 +3,19 @@
 - `INS-260330-2A6A` Bright tattoo ink colors are created from heavy metal compounds, creating an ironic contrast with the sterile-field protocols used during application.
 - `INS-260403-EFFB` The source of yield — real borrower payments vs. token emissions — is the single most important distinction in evaluating any DeFi product.
 - `INS-260330-BA13` SHA256's security is empirical rather than proven — no one has found a way to reverse it, but there's no proof that it's impossible.
+- `INS-260403-0BD4` A change in exit multiple from optimistic to realistic can flip a deal from fund-maker to pass.
+- `INS-260403-87D9` Most deal-killing risks at early stage live outside the financial model.
 - `INS-260325-793A` The Bronze Age collapse resulted from drought, migration, earthquakes, and trade disruption compounding — not any single cause.
 - `INS-260330-CF10` Every existing civilization has survived every past catastrophe, creating systematic underestimation of civilizational fragility.
 - `INS-260330-DA38` Demographic shifts happen so slowly that they're ignored until retirement waves hit, then consequences cascade rapidly.
 - `INS-260330-9BC4` Japan's and Germany's expansion was fundamentally driven by food insecurity, making agricultural dependency a leading indicator of geopolitical risk.
-- `INS-260403-0BD4` A change in exit multiple from optimistic to realistic can flip a deal from fund-maker to pass.
-- `INS-260403-87D9` Most deal-killing risks at early stage live outside the financial model.
-- `INS-260330-4B4F` Medical experts place PFAS in the lowest tier of a risk reduction hierarchy — below smoking cessation, exercise, diet, sleep, regular checkups, and cholesterol management.
 - `INS-260323-3C7F` Rosolie's real-time recognition of 'Am I entering a one-way door?' during the tribal encounter demonstrates how framing a situation's reversibility sharpens survival decisions.
 - `INS-260403-C936` Entrepreneurs systematically skip the hypothesis-mapping step because building feels more productive than thinking, even when thinking would save months of wasted effort.
 - `INS-260330-AA4F` Because humans linearize exponentials, they systematically under-react when early action is cheapest and over-react when the situation is already determined.
 - `INS-260403-6890` Graham argues signalling risk from VC non-follow-on is in the same category as competitor fear—something founders worry about that rarely kills good startups.
 - `INS-260403-225B` A worsening trend from a good absolute position is more alarming than a bad but improving absolute position.
 - `INS-260403-E554` Top VCs make decisions by thinking in probabilities and leaning into uncertainty rather than relying on gut instinct.
+- `INS-260330-4B4F` Medical experts place PFAS in the lowest tier of a risk reduction hierarchy — below smoking cessation, exercise, diet, sleep, regular checkups, and cholesterol management.
 - `INS-260329-BFBF` Big-O notation forces worst-case thinking, which is the opposite of how humans naturally estimate outcomes.
 - `INS-260409-16CF` To make the 1/8 gram antimatter bomb from 'Angels and Demons,' CERN would need to run for longer than the age of the universe.
 - `INS-260403-A7FD` When the worst-case cost is trivial (a day's wages, some embarrassment), the decision to try is mathematically obvious.

@@ -11,6 +11,6 @@
 - `INS-260410-06DB` LLMs are ethereal spirits mimicking human internet text, not evolved animals — pretraining is 'crappy evolution' that instills knowledge rather than learning algorithms.
 - `INS-260410-78F4` Treat weight-stored knowledge as a hazy recollection and the context window as working memory — paste the source material in rather than relying on recall.
 - `INS-260410-CB46` Strip neural networks to individual scalar operations so the chain rule is visible; tensor parallelism is an efficiency add-on that obscures the mechanics.
-- `INS-260322-24FB` The Autoresearch loop (change a file, measure the result, keep or discard) can optimize any prompt-driven process with measurable outputs — content, emails, landing pages, thumbnails.
 - `INS-260409-BA55` RAG rediscovers connections on every query; a maintained wiki preserves them so knowledge compounds.
 - `INS-260409-0D87` Under ~thousands of documents, a markdown vault plus Claude Code matches vector RAG without embeddings.
+- `INS-260322-24FB` The Autoresearch loop (change a file, measure the result, keep or discard) can optimize any prompt-driven process with measurable outputs — content, emails, landing pages, thumbnails.

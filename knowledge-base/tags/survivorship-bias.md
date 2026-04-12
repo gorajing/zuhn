@@ -25,8 +25,8 @@
 - `INS-260323-475F` Duncan Watts' Music Lab experiment showed that the same song ranked #1 in one group and #40 in another — quality sets a floor and ceiling, but within that range, success is determined by randomness.
 - `INS-260323-FDB8` We only study winners, but losers often executed the same playbook — luck and timing separated them.
 - `INS-260328-58B1` Name the 20 software companies you respect most — not one of them made it in a year.
+- `INS-260403-06E7` A structured checklist asking what's missing, what luck was involved, what resources they had, whether it works without funding, and whether the model is generalizable turns inspiration into usable intelligence.
+- `INS-260330-5EA4` If users tolerate a problem and keep using your product, that problem is by definition not a critical blocker.
 - `INS-260404-8CEE` Sears, Toys-R-Us, and RadioShack died from strategic failures, not from Amazon's existence — Costco, Aldi, and Dollar General thrived in the same environment.
 - `INS-260403-6CA8` Sears, Toys-R-Us, and RadioShack died not because of Amazon but because they failed to adapt, while Ross, Aldi, Dollar General, and Costco thrived in the same environment.
 - `INS-260330-5E47` Startups compress a lifetime of work into a few years — the total pain is roughly conserved, the payoff distribution is extreme (mean 30x but median zero), and most startups fail.
-- `INS-260403-06E7` A structured checklist asking what's missing, what luck was involved, what resources they had, whether it works without funding, and whether the model is generalizable turns inspiration into usable intelligence.
-- `INS-260330-5EA4` If users tolerate a problem and keep using your product, that problem is by definition not a critical blocker.

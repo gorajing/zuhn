@@ -8,6 +8,7 @@
 - `INS-260326-E5D3` AI is the first technology that makes the consciousness question empirically testable, not just philosophically debatable.
 - `INS-260325-0E70` Seth argues real artificial consciousness might require real artificial life — self-regenerating biological properties — rather than just powerful computation running on silicon.
 - `INS-260323-9385` If AI becomes a planetary control system with malleable identity, coexistence requires shared purpose and non-transactional relationships — which means we need to formalize love as an engineering concept.
+- `INS-260411-E6BD` AI can computationally monitor and regulate itself (functional self-awareness) but lacks subjective experience (phenomenal self-awareness), setting a hard epistemic boundary.
 - `INS-260323-0961` Humans conflate intelligence with consciousness because they co-evolved in us, but AI demonstrates that high intelligence can exist with zero consciousness, and consciousness may be far more valuable than intelligence.
 - `INS-260323-DE7F` We cannot prove consciousness in anyone but ourselves -- we rely on social conventions -- and as humans form intimate relationships with AI, legal systems will be compelled to treat AI as conscious entities regardless of whether they actually are.
 - `INS-260403-AB55` The philosophical framework of evaluating AI behavior by external causes and effects rather than internal experience dissolves the reality/roleplay debate into something empirically testable.

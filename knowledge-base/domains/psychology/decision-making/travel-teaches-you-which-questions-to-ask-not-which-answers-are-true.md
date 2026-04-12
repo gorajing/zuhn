@@ -52,8 +52,8 @@ related:
   - INS-260403-FFF0
   - PRI-260406-1EF3
   - INS-260403-8C36
+  - INS-260411-8AEF
   - INS-260405-B32E
-  - PRI-260403-F981
 ---
 Dwarkesh concedes the limits of his trip directly: 'You're not going to learn that much about the risk of a war or the state of the AI race by gazing at skylines and chatting up taxi drivers. For the answers to questions like that, you need to be talking to the princelings and the researchers and the CEOs.' And if you have access to those people, you can just hop on Zoom — going there isn't necessary. So what is travel for? 'You start asking questions about the places you visit that you wouldn't even think to ask about the place you live.'
 
