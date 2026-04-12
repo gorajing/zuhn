@@ -48,7 +48,6 @@ stance: >-
   breakthrough moments is strategically superior because it builds societal
   comfort and regulatory frameworks before the most powerful versions arrive.
 related:
-  - INS-260322-7A2F
   - INS-260403-2115
   - PRI-260406-1F5E
   - INS-260403-D51A

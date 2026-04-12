@@ -58,9 +58,9 @@ related:
   - INS-260412-640C
   - INS-260412-8BDB
   - INS-260412-DB5A
-  - INS-260412-AB32
-  - INS-260412-EF6C
-  - INS-260412-DBA9
+  - INS-260412-9300
+  - INS-260412-6F74
+  - INS-260412-C451
 ---
 The largest stars in the universe aren't the most massive ones burning on the main sequence. R136a1 has 315 solar masses but is only 30 times the Sun's radius. Meanwhile, Stephenson 2-18 with perhaps 20-40 solar masses has expanded to 2,150 solar radii — but only because it exhausted its core fuel and entered a fundamentally different physical regime. As Kurzgesagt puts it: 'the trick to going bigger isn't adding more mass — to make the biggest stars we have to kill them.'
 

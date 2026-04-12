@@ -8,8 +8,8 @@
 - `INS-260405-9015` Anthropic's Pentagon conflict drove it from #120 to #1 on the App Store—an outcome no ad campaign had achieved
 - `INS-260410-431E` Morita turned down Bulova's 100,000-unit order for the TR-63 because Bulova demanded its own brand on the radio, and he later called it the single best business decision of his career.
 - `INS-260330-9DE6` Omega died chasing performance against quartz while Patek survived by pivoting to brand, proving that doubling down on a commoditized advantage is fatal.
-- `INS-260403-C445` Gen Z and younger millennials preferentially buy from founder-led, mission-driven brands over feature-equivalent faceless alternatives.
 - `INS-260322-E791` During a crisis, the false but simple narrative ('Robinhood colluded with hedge funds') will always defeat the true but complex explanation (clearing mechanics, Dodd-Frank, collateral requirements).
+- `INS-260403-C445` Gen Z and younger millennials preferentially buy from founder-led, mission-driven brands over feature-equivalent faceless alternatives.
 - `INS-260410-1C96` Size ambition to the reach of your brand equity, not the size of your revenue.
 - `INS-260329-CB2C` Prioritize building audience goodwill over immediate monetization because it compounds faster and converts to money on your timeline.
 - `INS-260322-5745` When an industry treats marketing as beneath it, the first firm to market aggressively gains a permanent structural advantage.

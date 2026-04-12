@@ -52,7 +52,6 @@ stance: >-
   creating a platform shift comparable to Moore's Law, and we haven't yet seen
   the true cheap-launch era.
 related:
-  - INS-260322-B8E6
   - INS-260323-F528
   - INS-260327-4294
   - INS-260330-2064

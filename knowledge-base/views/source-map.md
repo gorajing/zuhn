@@ -785,6 +785,7 @@ Generated on 2026-04-12 | 2367 sources
 | How Sugar & Processed Foods Impact Your Health | Dr. Robert Lustig | youtube | 5 | 2026-03-30 |
 | How to Access Your Creativity | Rick Rubin | youtube | 5 | 2026-03-30 |
 | How To Actually Get Rich In Your 20s | youtube | 5 | 2026-03-30 |
+| How to Build a Dyson Sphere - The Ultimate Megastructure | youtube | 5 | 2026-04-12 |
 | How to Build Immense Inner Strength | David Goggins | youtube | 5 | 2026-03-30 |
 | How to Build Top-Performing Sales Orgs with OpenAI's GTM Leader Maggie Hott | youtube | 5 | 2026-03-27 |
 | How to Get and Evaluate Startup Ideas | Startup School | youtube | 5 | 2026-03-27 |
@@ -813,6 +814,7 @@ Generated on 2026-04-12 | 2367 sources
 | Inside The Navy's Indoor Ocean | youtube | 5 | 2026-03-30 |
 | Inside the New Media Team with Marc Andreessen & Ben Horowitz | youtube | 5 | 2026-03-22 |
 | Is Amazon Too Big? | youtube | 5 | 2026-03-30 |
+| Is Reality Real? The Simulation Argument | youtube | 5 | 2026-04-12 |
 | Is RL + LLMs enough for AGI? — Sholto Douglas & Trenton Bricken | youtube | 5 | 2026-04-10 |
 | Islam, the Quran, and the Five Pillars: Crash Course World History #13 | youtube | 5 | 2026-03-30 |
 | Isolation - Mind Field (Ep 1) | youtube | 5 | 2026-03-30 |
@@ -950,6 +952,7 @@ Generated on 2026-04-12 | 2367 sources
 | The Zipf Mystery | youtube | 5 | 2026-03-30 |
 | These are the asteroids to worry about | youtube | 5 | 2026-03-30 |
 | This Unstoppable Robot Could Save Your Life | youtube | 5 | 2026-03-30 |
+| This Virus Shouldn't Exist (But it Does) | youtube | 5 | 2026-04-12 |
 | Trader Joe’s (Audio) | youtube | 5 | 2026-04-11 |
 | Transformers, the tech behind LLMs | Deep Learning Chapter 5 | youtube | 5 | 2026-03-30 |
 | Trump 2.0, DOGE, and America's Global Decline with Sam Harris and Jonah Goldberg | youtube | 5 | 2026-03-30 |
@@ -1474,9 +1477,11 @@ Generated on 2026-04-12 | 2367 sources
 | How to enter ‘flow state’ on command | Steven Kotler for Big Think | youtube | 4 | 2026-03-30 |
 | How to Get Rich | youtube | 4 | 2026-03-30 |
 | How to Lead With Radical Candor | Kim Scott | TED | youtube | 4 | 2026-03-27 |
+| How to Move the Sun: Stellar Engines | youtube | 4 | 2026-04-12 |
 | How to OVER Engineer a Website // What is a Tech Stack? | youtube | 4 | 2026-03-30 |
 | How To Release A Single In 2026 (The Step-By-Step Plan) | youtube | 4 | 2026-03-22 |
 | “How We Can Eliminate Crime” | Ben Horowitz and Garrett Langley | youtube | 4 | 2026-03-22 |
+| How We Could Build a Moon Base TODAY – Space Colonization 1 | youtube | 4 | 2026-04-12 |
 | “I find it almost disturbing that the universe favors life this strongly” – Nick Lane | youtube | 4 | 2026-04-10 |
 | I tried 10 code editors | youtube | 4 | 2026-03-30 |
 | I Tried the World's Simplest Productivity Trick (it worked) | youtube | 4 | 2026-03-22 |
@@ -1548,7 +1553,9 @@ Generated on 2026-04-12 | 2367 sources
 | The backwards logic of censorship | youtube | 4 | 2026-03-25 |
 | The Banach–Tarski Paradox | youtube | 4 | 2026-03-30 |
 | The Best and Worst Music Marketing Strategies Ranked by Tier | youtube | 4 | 2026-03-27 |
+| The Black Hole Bomb and Black Hole Civilizations | youtube | 4 | 2026-04-12 |
 | The Black Legend, Native Americans, and Spaniards: Crash Course US History #1 | youtube | 4 | 2026-03-30 |
+| The Coronavirus Explained & What You Should Do | youtube | 4 | 2026-04-12 |
 | The Day the Dinosaurs Died – Minute by Minute | youtube | 4 | 2026-04-12 |
 | The Homeless Teen Who Created Louis Vuitton | youtube | 4 | 2026-03-30 |
 | The idea so strange Einstein thought it broke quantum physics | Jim Al-Khalili | youtube | 4 | 2026-03-25 |
@@ -1615,6 +1622,7 @@ Generated on 2026-04-12 | 2367 sources
 | Work As Hard As You Can | youtube | 4 | 2026-03-30 |
 | World's Fastest Pitch - Supersonic Baseball Cannon - Smarter Every Day 242 | youtube | 4 | 2026-03-30 |
 | World's Longest Home Run (The "Mad Batter" Machine) - Smarter Every Day 230 | youtube | 4 | 2026-03-30 |
+| Wormholes Explained – Breaking Spacetime | youtube | 4 | 2026-04-12 |
 | You Are Immune Against Every Disease | youtube | 4 | 2026-04-12 |
 | Your life needs more ‘existential grit.’ Here’s how to find it | Kate Bowler | youtube | 4 | 2026-03-25 |
 | You've (Likely) Been Playing The Game of Life Wrong | youtube | 4 | 2026-03-23 |
@@ -2173,6 +2181,7 @@ Generated on 2026-04-12 | 2367 sources
 | Bottled Water Brands To AVOID at All Costs (And 2 That Won’t Poison You) | youtube | 1 | 2026-03-26 |
 | Bruce Lee’s Secret Supplement | youtube | 1 | 2026-03-26 |
 | BUILD AI WITHOUT LIMITS : Every Model, Day Zero | Alex Yeh (Part 2) | youtube | 1 | 2026-03-26 |
+| Building a Marsbase is a Horrible Idea: Let’s do it! | youtube | 1 | 2026-04-12 |
 | Can’t Give Up Coffee? Here’s How I Would Drink It | youtube | 1 | 2026-03-26 |
 | CRISPR Co-Inventor Reveals: Gene Editing Breakthrough | Stanford Professor Le Cong (Part 1) | youtube | 1 | 2026-03-26 |
 | DEXA Scan Reveals Side Effects of Red Meat & Fruit | youtube | 1 | 2026-03-26 |
@@ -2342,26 +2351,18 @@ Generated on 2026-04-12 | 2367 sources
 | You Will Never Wear AirPods Again | youtube | 1 | 2026-03-26 |
 | You'll Never Eat Sardines Again | youtube | 1 | 2026-03-26 |
 | Black Holes Explained – From Birth to Death | youtube | 0 | 2026-04-12 |
-| Building a Marsbase is a Horrible Idea: Let’s do it! | youtube | 0 | 2026-04-12 |
 | How Far Can We Go? Limits of Humanity (Old Version – Watch the New One) | youtube | 0 | 2026-04-12 |
-| How to Build a Dyson Sphere - The Ultimate Megastructure | youtube | 0 | 2026-04-12 |
-| How to Move the Sun: Stellar Engines | youtube | 0 | 2026-04-12 |
-| How We Could Build a Moon Base TODAY – Space Colonization 1 | youtube | 0 | 2026-04-12 |
-| Is Reality Real? The Simulation Argument | youtube | 0 | 2026-04-12 |
 | Neutron Stars – The Most Extreme Things that are not Black Holes | youtube | 0 | 2026-04-12 |
 | Optimistic Nihilism | youtube | 0 | 2026-04-12 |
 | Quantum Computers Explained – Limits of Human Technology | youtube | 0 | 2026-04-12 |
 | String Theory Explained – What is The True Nature of Reality? | youtube | 0 | 2026-04-12 |
 | The Billion Ant Mega Colony and the Biggest War on Earth | youtube | 0 | 2026-04-12 |
-| The Black Hole Bomb and Black Hole Civilizations | youtube | 0 | 2026-04-12 |
-| The Coronavirus Explained & What You Should Do | youtube | 0 | 2026-04-12 |
 | The Deadliest Being on Planet Earth – The Bacteriophage | youtube | 0 | 2026-04-12 |
 | The Egg - A Short Story | youtube | 0 | 2026-04-12 |
 | The Fermi Paradox — Where Are All The Aliens? (1/2) | youtube | 0 | 2026-04-12 |
 | The Immune System Explained I – Bacteria Infection | youtube | 0 | 2026-04-12 |
 | The Most Dangerous Stuff in the Universe - Strange Stars Explained | youtube | 0 | 2026-04-12 |
 | The World War of the Ants – The Army Ant | youtube | 0 | 2026-04-12 |
-| This Virus Shouldn't Exist (But it Does) | youtube | 0 | 2026-04-12 |
 | Three Ways to Destroy the Universe | youtube | 0 | 2026-04-12 |
 | What Happens If We Throw an Elephant From a Skyscraper? Life & Size 1 | youtube | 0 | 2026-04-12 |
 | What If We Detonated All Nuclear Bombs at Once? | youtube | 0 | 2026-04-12 |
@@ -2369,4 +2370,3 @@ Generated on 2026-04-12 | 2367 sources
 | What If You Detonated a Nuclear Bomb In The Marianas Trench? (Science not Fantasy) | youtube | 0 | 2026-04-12 |
 | Why Alien Life Would be our Doom - The Great Filter | youtube | 0 | 2026-04-12 |
 | Why Blue Whales Don't Get Cancer - Peto's Paradox | youtube | 0 | 2026-04-12 |
-| Wormholes Explained – Breaking Spacetime | youtube | 0 | 2026-04-12 |

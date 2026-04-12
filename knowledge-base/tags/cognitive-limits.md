@@ -1,5 +1,6 @@
 # Tag: cognitive-limits
 
+- `INS-260412-D016` An ant cannot understand why humans build roller coasters — similarly, we cannot reliably predict what posthuman intelligences would want or do.
 - `INS-260403-D33B` Whether innate or learned, human expectations about variation cannot accommodate the 1000x outcome differences found in startup investing.
 - `INS-260325-CDEA` The brain runs on a fixed ATP energy budget; no hack can expand its bandwidth for attention.
 - `INS-260330-594E` Our brains treat infinity like a big finite number, which produces wrong answers — infinity/2 = infinity, and the set of even numbers equals the set of all whole numbers.

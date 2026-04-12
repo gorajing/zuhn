@@ -1,6 +1,6 @@
 # Topic: physics-intuition
 
-> 86 insights
+> 87 insights
 
 - `INS-260330-CDF8` [high] Light's regularity means its full 3D state is determined by its values on any 2D boundary surface.
 - `INS-260330-12F9` [high] Firing one bullet underwater produces three visually distinct phenomena (Bernoulli cavitation, gas trail, shock vapor) that are invisible at normal speed but separable at 27,450 fps.
@@ -23,6 +23,7 @@
 - `INS-260330-1509` [high] The event horizon 'singularity' that convinced Einstein black holes couldn't exist was just a bad coordinate choice, not real physics.
 - `INS-260330-E606` [high] Black shade balls actually cool the water beneath them because the air gap inside acts like a double-paned window, blocking heat transfer despite high surface absorption.
 - `INS-260330-D17A` [high] Near a black hole singularity, it's not the strength of gravity that kills you but the difference in gravitational pull between your head and feet — the gradient stretches you apart.
+- `INS-260412-6ACA` [high] Every 2D analogy for 3D+ spacetime curvature omits exactly the dimensions where the interesting physics happens.
 - `INS-260330-A149` [high] Because we move almost exclusively through time rather than space relative to Earth, gravity's pull is mostly the curvature of time, not space.
 - `INS-260330-51D6` [high] Earth's uneven mass distribution, rotation, and external gravitational influences make 'down' a messy, ever-changing vector rather than a simple line to the center.
 - `INS-260330-E89A` [high] Gravity yielded the Industrial Revolution, electromagnetism produced the Electric Age, and nuclear forces created the Atomic Age — each fundamental force discovery reliably cascades into civilization-scale transformation.

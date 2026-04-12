@@ -48,11 +48,11 @@ stance: >-
   Companies that solve reusable launch will collect recurring revenue from every
   space venture the way landlords collect rent from tenants
 related:
-  - INS-260322-B8E6
   - INS-260328-8445
   - INS-260330-2064
+  - INS-260412-A18B
   - INS-260403-8E25
-  - PRI-260328-0E23
+  - INS-260322-B8E6
 evidence:
   - id: INS-260330-2064
     type: SUPPORTS

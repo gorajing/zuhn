@@ -1,6 +1,6 @@
 # Topic: human-physiology
 
-> 41 insights
+> 42 insights
 
 - `INS-260412-812C` [high] The adaptive immune system recombines ~100 gene fragments to produce 1-10 billion unique receptors, covering every possible pathogen protein shape.
 - `INS-260330-BC56` [high] Photons from solar fusion excite electrons in chlorophyll, which through an elaborate transport chain produce ATP and NADPH, which build glucose, which animals then reverse-engineer back into ATP — making all aerobic life indirectly fusion-powered.
@@ -18,6 +18,7 @@
 - `INS-260412-CDDC` [high] Measles herd immunity requires 95% vaccination coverage — one of the highest thresholds of any disease — making it extremely fragile to even small anti-vaccine movements.
 - `INS-260412-E072` [high] Innate immunity buys time with fast, cheap, self-destructing cells while the adaptive system spends days manufacturing precision weapons.
 - `INS-260330-9733` [high] White blood cells detect tattoo ink immediately but can only remove particles smaller than themselves, which is why tattoos fade slowly over decades.
+- `INS-260412-B1F7` [high] The immune system's friendly-fire response, not the virus itself, drives most severe disease outcomes.
 - `INS-260412-0689` [high] Measles survivors have a severely weakened immune system that takes extended time to regenerate, leaving them vulnerable to other diseases.
 - `INS-260403-2DEE` [high] Tensed muscles absorb punch energy before it reaches organs, while relaxed muscles allow force to transmit directly to vulnerable tissue.
 - `INS-260412-00D4` [high] Neutrophils are programmed to die within days of birth because their indiscriminate killing — including DNA-net explosions — would destroy the body's own tissue if left unchecked.

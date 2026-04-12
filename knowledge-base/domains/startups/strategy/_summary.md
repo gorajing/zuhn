@@ -1,6 +1,6 @@
 # Topic: strategy
 
-> 253 insights
+> 256 insights
 
 - `INS-260330-98EA` [high] The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples.
 - `INS-260403-0530` [high] New York struggles as a startup hub because founders there are second-class citizens in a status hierarchy that most admires financial wealth.
@@ -63,6 +63,7 @@
 - `INS-260330-3E6B` [high] When an industry's business model is disrupted, the enterprises in that industry need new software — creating opportunities for vertical startups.
 - `INS-260405-95AE` [high] RuBisCo became the most abundant enzyme on Earth despite a ~50% error rate in oxygen-rich air, because plants had already built everything around it and could only compensate, not replace.
 - `INS-260403-DB22` [high] Most companies have sophisticated tools for execution but primitive tools for innovation and strategy design.
+- `INS-260412-D022` [high] Great Filters aren't unique to civilizations — startups face sequential extinction barriers where failing any one is terminal.
 - `INS-260403-4572` [high] Spotify delayed US entry to perfect product-market fit while Klarna raced in because the cost of staying out exceeded the cost of imperfection—both succeeded because they correctly diagnosed their existential risk.
 - `INS-260403-EAE5` [high] The best time to search for new business models is while the existing one still generates surplus capital to fund experiments.
 - `INS-260329-7D18` [high] Your 20s are for sampling widely and your 30s are for going deep on the best thing you found — mistiming this transition is the most common career error.
@@ -99,6 +100,7 @@
 - `INS-260329-3BEE` [high] The market you operate in constrains your upside more than your effort level does.
 - `INS-260403-FB8E` [high] Standalone innovation activities that aren't integrated into a strategic system with follow-on investment are innovation theater producing no results.
 - `INS-260403-7DEC` [high] Carnegie's steel and Standard Oil's distribution made more from railroads than railroad companies themselves did.
+- `INS-260412-0EF9` [high] To move a solar system, you only move the Sun — everything else follows via gravity.
 - `INS-260330-9E26` [high] Successful economic development requires multiple complementary strategies pursued in parallel, not a single dominant approach.
 - `INS-260330-659D` [high] Shade balls were purchased to block bromate formation, but their secondary benefits — 80-90% evaporation reduction, algae elimination, near-zero chlorination — pay back at least half their cost.
 - `INS-260328-A417` [high] PG's anti-zero-sum thesis — that funding more startups creates more total wealth rather than diluting a fixed pool — was proven right by YC and applies to AI-era Series A investing.
@@ -178,6 +180,7 @@
 - `INS-260323-8F70` [high] Natural selection operates on genes because they're the right-sized unit that replicates faithfully and exhibits selectable traits -- businesses must identify their equivalent.
 - `INS-260328-988F` [high] A YC LP told Michael that 97% of venture returns come from the US market — Michael dismissed it at first but now sees it as largely correct.
 - `INS-260329-1F17` [high] Value = (Dream Outcome × Perceived Likelihood) ÷ (Time Delay × Effort/Sacrifice) — reducing the denominator often matters more than inflating the numerator.
+- `INS-260412-A1F4` [high] Historical colonization always followed three phases — exploration, dependent outpost, self-sufficient colony — and this pattern maps directly to entering new markets.
 - `INS-260403-137D` [high] Costco's $60 membership fee filters for households averaging ~$100K income, with business owners representing one-third of members but two-thirds of sales.
 - `INS-260404-8B1C` [high] Costco turns warehouse aesthetics, confusing layouts, and limited selection into feelings of deal-hunting and exclusivity—making cost savings feel like customer features.
 - `INS-260328-031A` [high] Both positive and negative viral narratives about San Francisco on Twitter are wrong more often than not -- the signal is pure noise.

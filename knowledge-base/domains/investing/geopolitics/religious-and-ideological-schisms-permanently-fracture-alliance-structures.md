@@ -61,7 +61,6 @@ related:
   - INS-260327-A75C
   - INS-260330-E474
   - INS-260327-5140
-  - INS-260330-CA88
   - INS-260403-F061
 evidence:
   - id: INS-260330-E474

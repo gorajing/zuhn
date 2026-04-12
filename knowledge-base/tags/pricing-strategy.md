@@ -1,8 +1,8 @@
 # Tag: pricing-strategy
 
+- `INS-260320-00C2` When users try to cancel, ask "Do you just need more time?" — trial extensions retained the most users, outperforming discounts and 3-month pause options, while keeping users on auto-renew.
 - `INS-260322-E20E` AI application companies should price by business value delivered or productivity uplift, not by token consumption — cost-based pricing systematically undercharges as AI costs deflate.
 - `INS-260403-401F` AI companies need usage-based pricing that kicks in fast because generous free tiers burn cash at a rate that SaaS free tiers never did.
-- `INS-260320-00C2` When users try to cancel, ask "Do you just need more time?" — trial extensions retained the most users, outperforming discounts and 3-month pause options, while keeping users on auto-renew.
 - `INS-260327-470B` Fast food was considered recession-proof because it offered the best dollars-to-calories ratio, but chains responded to cost-conscious consumers by becoming more expensive, slower, and less reliable.
 - `INS-260403-AFBC` Agentic AI that replaces human work should charge per outcome; assistive AI that augments humans should charge per seat or usage tier.
 - `INS-260410-9120` Google One has over 150 million paying subscribers growing ~50% year-over-year, which gives Google a realistic path to monetize AI through bundle economics that pure standalone AI subscriptions cannot replicate.
@@ -29,7 +29,7 @@
 - `INS-260330-7479` Apple's $1,100+ iPhone captures only 1% of India where 75% of smartphones sell under $250, proving brand prestige alone cannot overcome price-sensitivity at scale.
 - `INS-260330-1D9D` Charge for your product as early as possible because paying customers give brutally honest feedback that free users won't.
 - `INS-260329-ACFF` Price either extremely high for a select few or extremely low for everyone — the middle kills businesses.
+- `INS-260329-AAD1` Start free to get reps and feedback, then systematically reduce discounts in batches of five customers until you reach and exceed full price.
 - `INS-260404-B2FB` Costco's $60 membership fee filters for affluent households averaging $100K income, with business owners generating two-thirds of sales.
 - `INS-260403-D444` Shrinking an industry's total revenue by 95% is a viable strategy if you capture all of what remains, because incumbents can't follow you down.
 - `INS-260410-15AC` Qualcomm's demand of 5% of every iPhone's ASP plus per-unit patent fees was the bill that made Apple buy Intel's modem business and start building its own modem — a decade-long project Apple only started because the tax was intolerable.
-- `INS-260329-AAD1` Start free to get reps and feedback, then systematically reduce discounts in batches of five customers until you reach and exceed full price.

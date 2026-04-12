@@ -1,6 +1,6 @@
 # Topic: cognition
 
-> 92 insights
+> 94 insights
 
 - `INS-260330-984C` [high] Flat Earth theories are clever ad hoc explanations that address individual challenges but fail to fit all evidence into a unified framework.
 - `INS-260403-518E` [high] Chatter makes stress toxic by keeping the stress response active long after the triggering event has passed.
@@ -61,6 +61,7 @@
 - `INS-260403-213D` [medium] Good-sounding writing and correct thinking are structurally coupled through rhythm matching idea shape and revision forcing truth-convergence.
 - `INS-260403-951B` [medium] Arbitrary constraints on creative work force productive re-examination that gravitates toward improvement.
 - `INS-260403-D4B3` [medium] Corporate institutions persist structurally long after collective belief in their purpose has evaporated, mirroring how religious attendance outlasted religious conviction.
+- `INS-260412-D016` [medium] An ant cannot understand why humans build roller coasters — similarly, we cannot reliably predict what posthuman intelligences would want or do.
 - `INS-260330-8134` [medium] After 8 months of daily failure, Destin suddenly could ride the backwards bicycle one day — the transition was instantaneous, not gradual.
 - `INS-260330-0E86` [medium] Flat Earth belief exploits the evolutionary mismatch between trusting personal observation and accepting counter-intuitive scientific conclusions.
 - `INS-260330-4F49` [medium] Rooting vectors at the origin trades away free placement for a coordinate system that makes computation possible.
@@ -86,6 +87,7 @@
 - `INS-260330-2304` [medium] Psychedelics temporarily suppress the default mode network, breaking entrenched neural patterns and enabling cognitive flexibility that persists after the drug wears off.
 - `INS-260403-10A0` [medium] Screen-free audio players like Yoto shift kids from passive screen consumption to active physical engagement with content.
 - `INS-260330-87A0` [medium] World-class debaters spend their final prep minutes writing the best case against themselves, not reinforcing their own position.
+- `INS-260412-6864` [medium] Wormholes enabling time travel would violate causality — and many physicists take this as evidence they cannot exist rather than evidence that causality is breakable.
 - `INS-260409-9509` [medium] The right framing is that Apollo was unfathomably early for the available technology, not that Artemis is embarrassingly late.
 - `INS-260403-E8DD` [medium] The High Place Phenomenon shows that when survival instincts fire without a matching threat, the brain invents an intention to explain the mismatch.
 - `INS-260330-F671` [medium] The electron transport chain extracts energy through a cascade of small reactions rather than one explosive step — a pattern that maps directly to sustainable human productivity.

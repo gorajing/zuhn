@@ -3,9 +3,9 @@
 - `INS-260329-92C3` Dr. Chuck's progression from variables through databases to web APIs teaches data-structural thinking — a meta-skill that makes AI coding assistants dramatically more useful because you can specify what you want in terms machines understand.
 - `INS-260329-7BAF` Humans effortlessly resolve ambiguity that crashes machines — this asymmetry is why programming exists as a discipline.
 - `INS-260329-EDA2` It is fundamentally easier to teach humans programming languages than to build machines that understand natural language.
+- `INS-260330-E5F9` The 3-to-5 concept — 3-5 exercises, 3-5 sets, 3-5 reps, 3-5 min rest, 3-5 days/week — is a complete strength/power training prescription.
 - `INS-260329-E015` Every programming construct — functions, classes, libraries, APIs — is the same abstraction operation applied at different scales.
 - `INS-260329-CF48` Python's for-loop-over-file-handle pattern unifies local files, network resources, and databases into a single iteration abstraction that other languages require separate paradigms to handle.
-- `INS-260330-E5F9` The 3-to-5 concept — 3-5 exercises, 3-5 sets, 3-5 reps, 3-5 min rest, 3-5 days/week — is a complete strength/power training prescription.
 - `INS-260330-81D3` Learn programming patterns, not syntax—patterns transfer across languages while syntax is forgotten.
 - `INS-260329-20F8` Beginners fail because they assume computers infer intent, when computers only execute exact literal instructions.
 - `INS-260329-E40B` The normal learning path for programming is prolonged confusion followed by a sudden breakthrough, and knowing this pattern exists is itself the most valuable intervention.

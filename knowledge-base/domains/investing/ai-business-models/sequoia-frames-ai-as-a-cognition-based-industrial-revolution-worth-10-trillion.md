@@ -50,10 +50,11 @@ stance: >-
   the firms that treat it as such will capture generational wealth.
 related:
   - INS-260323-8637
-  - INS-260322-8147
   - INS-260330-8950
+  - INS-260322-8147
   - PRI-260328-D292
   - INS-260325-9C1E
+  - INS-260412-5272
   - INS-260403-B280
 ---
 Sequoia Capital is positioning AI not as a technology cycle but as a civilizational inflection point — an industrial revolution built on cognition rather than physical machinery. The firm is backing this thesis with nearly $1 billion in new venture and seed funds specifically targeting next-generation AI startups.

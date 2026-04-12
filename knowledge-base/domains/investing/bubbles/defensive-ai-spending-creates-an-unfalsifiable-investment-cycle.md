@@ -53,9 +53,10 @@ related:
   - INS-260322-F868
   - INS-260405-4D81
   - INS-260403-3099
-  - INS-260403-B0E3
   - INS-260403-75C3
+  - INS-260403-B0E3
   - INS-260404-EC16
+  - INS-260412-7E9E
 ---
 The current AI investment pattern follows a distinctive 'defensive spending' logic: organizations pour capital into infrastructure, talent, and compute not because they've validated returns, but because they fear being left behind if the technology does deliver. This creates a perverse dynamic where the act of investing becomes its own justification.
 

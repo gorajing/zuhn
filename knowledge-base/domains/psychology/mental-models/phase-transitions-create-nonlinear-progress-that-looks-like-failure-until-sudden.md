@@ -49,7 +49,6 @@ stance: >-
   Systems under sustained pressure show no visible change until they hit a
   critical threshold, then transform rapidly and irreversibly.
 related:
-  - INS-260409-4EA5
   - INS-260409-CE1D
   - INS-260325-1709
   - INS-260325-8290

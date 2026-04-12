@@ -51,7 +51,6 @@ stance: >-
   faster than incumbent practices adapt — the wider the gap, the larger the
   opportunity
 related:
-  - INS-260327-CF53
   - INS-260403-924B
   - INS-260403-976C
   - PRI-260406-D181

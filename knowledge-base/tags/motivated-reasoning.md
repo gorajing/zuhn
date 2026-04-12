@@ -1,9 +1,6 @@
 # Tag: motivated-reasoning
 
 - `INS-260409-5CD4` Julia Galef: 'Scout Mindset is the motivation to see what's really there and not just what you wish was there' — distinguishing it from soldier mindset where beliefs are defended against threatening evidence through rationalization, denial, and motivated reasoning.
-- `INS-260409-AD0C` Galef distinguishes three decision categories: (1) concrete everyday choices where scout thinking comes naturally (what to eat), (2) ideological issues where incentives push toward self-deception (politics, religion), (3) important personal decisions with competing scout/soldier incentives (career, marriage, parenting) — each requires a different calibration of vigilance.
-- `INS-260403-7B28` We keep falling for the same negotiation cycle because wanting to believe it's different this time overrides our ability to recognize the pattern.
-- `INS-260404-1678` Shifting justifications after the fact reveal the absence of pre-existing strategic reasoning.
 - `INS-260412-2CD6` The vaccine debate illustrates how evidence-based arguments inherently lose to emotional narratives because statistical reasoning can't compete with vivid anecdotes.
 - `INS-260403-37B1` Stacking multiple artifact explanations to dismiss a finding often requires more suspicious coincidences than simply accepting the finding at face value.
 - `INS-260404-DA41` Confirmation bias across multiple actors in the justice system compounds into a reliable wrongful conviction pipeline.
@@ -19,6 +16,9 @@
 - `INS-260403-6C99` George Borjas' anti-immigration conclusions have repeatedly vanished when peers corrected his methodological choices, revealing a pattern too consistent to be accidental.
 - `INS-260402-D534` Believing all options are equivalent is a cognitive shortcut that eliminates evaluation of dimensions the decision-maker cannot understand.
 - `INS-260403-AEA3` Critics used Bio Anchors' acknowledged uncertainty to conclude 'things are fine and normal' rather than recognizing that uncertainty cuts both ways and timelines could be shorter.
+- `INS-260409-AD0C` Galef distinguishes three decision categories: (1) concrete everyday choices where scout thinking comes naturally (what to eat), (2) ideological issues where incentives push toward self-deception (politics, religion), (3) important personal decisions with competing scout/soldier incentives (career, marriage, parenting) — each requires a different calibration of vigilance.
+- `INS-260403-7B28` We keep falling for the same negotiation cycle because wanting to believe it's different this time overrides our ability to recognize the pattern.
+- `INS-260404-1678` Shifting justifications after the fact reveal the absence of pre-existing strategic reasoning.
 - `INS-260403-69C3` National security framing activates fear circuits that override the capacity for nuanced policy engagement.
 - `INS-260403-7848` Conservatives and liberals both benefit from treating 'the West' as monolithic — one gets scary stories, the other avoids engaging with uncomfortable European statistics.
 - `INS-260330-5BEB` The Black Legend pattern shows how condemning a rival's cruelty becomes moral cover for your own imperial ambitions.

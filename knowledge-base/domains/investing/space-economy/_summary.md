@@ -1,6 +1,6 @@
 # Topic: space-economy
 
-> 31 insights
+> 36 insights
 
 - `INS-260325-415A` [high] Detecting an alien signal would statistically prove that technological civilizations can have long futures, because the math of detection requires that such technologies are long-lived on cosmic timescales.
 - `INS-260322-7A2F` [high] Artemis builds permanent lunar presence through deliberate phased deployment — unmanned test, crewed orbit, first landing, rover, habitable vehicle, base camp — each phase de-risking the next.
@@ -20,10 +20,15 @@
 - `INS-260325-5635` [high] Decades of exoplanet research have reinforced rather than diminished Earth's uniqueness — the more we search, the clearer it becomes that there is no planet B.
 - `INS-260325-76E6` [high] Even on Mars, we can never fully prove the absence of life — there is always another rock to check, another canyon to explore, making proof of cosmic loneliness impossible.
 - `INS-260325-696D` [medium] Instead of asking 'is there this specific pattern?' AI lets SETI ask 'is there any pattern other than noise?' — removing human assumptions about what alien signals should look like.
+- `INS-260412-AEE1` [medium] A Dyson Swarm bootstraps itself through exponential doubling — each panel powers the construction of the next, completing in ~60 doublings.
 - `INS-260325-4E20` [medium] Life emerged on Earth within 200 million years of ocean formation — so fast it overwhelms evolutionary timing arguments and suggests abiogenesis is relatively easy.
 - `INS-260330-F6B5` [medium] About half of sun-like stars have gas giants in habitable zones, and if even 20% host Earth-like moons, habitable moons outnumber habitable planets.
 - `INS-260322-02A6` [medium] Korea's K-RAD CubeSat on Artemis 2 tests radiation effects on human tissue and Korean semiconductors — a dual-purpose mission validating both biological and industrial readiness for space.
 - `INS-260403-AFA5` [medium] Launch is the mandatory toll on every space company's P&L, making launch providers the landlords of the space economy.
+- `INS-260412-D015` [medium] Mercury's metal richness, low gravity, no atmosphere, and proximity to the Sun create compounding advantages for space-industrial operations.
+- `INS-260412-A18B` [medium] Mars colonization requires a permanent moon base as staging hub, creating sustained space infrastructure economics rather than one-shot mission budgets.
+- `INS-260412-9ABA` [medium] Current estimates put a moon base at $20-40B over a decade, comparable to ISS costs, making it a realistic near-term infrastructure investment.
+- `INS-260412-6F74` [medium] After all stars die, rotating black holes become the sole energy source — making them the final scarce resource in the universe.
 - `INS-260323-5955` [medium] Bezos argues you can debate when humanity must expand into space but not whether — energy usage per capita must grow, and a finite planet cannot support that indefinitely.
 - `INS-260403-B744` [medium] Space tech is following the same stack-layer consolidation pattern as AI, but capital fixation on AI has left space infrastructure windows unusually open.
 - `INS-260327-969D` [medium] SpaceX doesn't grow like a software company — it accomplishes massive technical milestones every 5-7 years, each unlocking hundreds of billions in new value.

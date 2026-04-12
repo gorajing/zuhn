@@ -45,7 +45,6 @@ stance: >-
   BI platforms.
 related:
   - INS-260322-A892
-  - INS-260403-7AA1
   - INS-260404-304E
   - INS-260403-CDF1
   - INS-260322-C472

@@ -60,7 +60,6 @@ related:
   - INS-260410-3EF5
   - INS-260412-2E7D
   - INS-260412-8BDB
-  - INS-260412-8C32
 ---
 Kurzgesagt frames the Local Group — our gravitationally bound cluster of galaxies — as both a hard limit and a spectacular playground. With a trillion stars and billions of years to explore, it's simultaneously the smallest possible answer to 'how much universe do we get' and an incomprehensibly vast resource.
 

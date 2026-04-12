@@ -55,9 +55,9 @@ stance: >-
 related:
   - INS-260325-ED75
   - INS-260329-76B8
+  - INS-260412-F6FD
   - INS-260329-356A
   - INS-260329-F8AF
-  - INS-260330-09BB
 evidence:
   - id: INS-260325-ED75
     type: EXTENDS

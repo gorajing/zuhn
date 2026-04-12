@@ -54,5 +54,6 @@ related:
   - INS-260412-EED1
   - INS-260412-339C
   - INS-260412-662C
+  - INS-260412-B1F7
 ---
 The immune response follows a strict escalation ladder: macrophages engage within seconds, neutrophils arrive as suicide warriors that self-destruct within days to prevent friendly-fire damage, and complement proteins act as automated liquid weapons — all buying 5-7 days for the adaptive system to identify the exact pathogen, clone the right helper T cells, and spin up B cell antibody factories producing 2,000 antibodies per second. This mirrors military doctrine where you never commit expensive precision assets until cheaper screening forces have characterized the threat. The design reveals a fundamental engineering tradeoff: speed and specificity are inversely correlated, so the system uses layered redundancy where each tier trades precision for response time.

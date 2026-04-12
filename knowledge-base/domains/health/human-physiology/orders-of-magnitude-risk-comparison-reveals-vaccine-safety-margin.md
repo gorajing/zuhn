@@ -47,7 +47,7 @@ related:
   - INS-260330-96FE
   - INS-260412-CDDC
   - INS-260412-FA41
+  - INS-260412-B1F7
   - INS-260330-6D86
-  - INS-260410-53B0
 ---
 The video's thought experiment comparing outcomes per 10 million children provides one of the clearest quantitative risk frameworks for vaccine safety. Measles: 98% fever/rash, 8% dangerous diarrhea, 7% ear infections (potential hearing loss), 6% pneumonia (killing 12,000), 0.1% encephalitis, 0.025% fatal SSPE — totaling ~2.5 million serious cases and ~20,000 deaths. MMR vaccine: 10% fever, 5% mild rash, 0.001% serious allergic reaction (treatable), 0.0001% encephalitis — totaling ~120 somewhat serious cases. The safety margin is not 2x or 10x but thousands of times. This orders-of-magnitude framing is more effective than percentage-based comparisons because it makes the absolute numbers concrete and comparable.

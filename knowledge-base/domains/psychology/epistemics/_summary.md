@@ -1,6 +1,6 @@
 # Topic: epistemics
 
-> 56 insights
+> 62 insights
 
 - `INS-260409-F93A` [high] Galef argues accurate maps of the world should include explicit uncertainty markers and remain provisional — 'drawn in pencil, not pen' — because false precision creates psychological resistance to updating when better evidence arrives.
 - `INS-260411-8AEF` [high] AI 'knowledge' is statistical likelihood rather than justified belief, requiring a Bayesian rather than classical epistemic framework.
@@ -8,6 +8,8 @@
 - `INS-260412-EED1` [high] Bacteria reproduce in 30 minutes versus months for humans, making direct competitive replication impossible — the immune system compensates with a pre-generated library of billions of defenses.
 - `INS-260405-0184` [high] Growing audiences for 2-4 hour deep-dive content disprove the shrinking attention span narrative — people crave depth when the content rewards sustained focus.
 - `INS-260410-A33F` [high] Argument, counterargument, rebuttal — but the rebuttal must come from a completely different angle than the original argument, or it's just repetition.
+- `INS-260412-1784` [high] When an argument depends on five assumptions each at 80% confidence, the conclusion is only 33% likely — not 80%.
+- `INS-260412-91DA` [high] Objects that violate category assumptions become invisible even under direct observation.
 - `INS-260412-4AC2` [high] We've catalogued millions of stars but have good data on only about two dozen black holes, with each measurement carrying large error bars from indirect observation and simplifying assumptions.
 - `INS-260412-94B2` [high] Burning paper doesn't destroy its information — it redistributes it across ash, smoke, and heat in a form that's theoretically reconstructable.
 - `INS-260412-61F8` [high] Stability feels like permanence because we lack sensory access to the rare events that shatter it.
@@ -23,6 +25,7 @@
 - `INS-260409-2E2B` [high] Katherine Chworowski's 2024 re-analysis showed that many 'too-massive' early galaxies were little red dots whose central black holes were doing the brightness work of billions of suns, inflating apparent stellar mass; once removed, the sample fit the standard model with only a mild residual.
 - `INS-260409-1D16` [high] Roswell got famous decades after it happened, because Watergate taught Americans that governments lie.
 - `INS-260409-5E35` [high] Quantum mechanics almost never supports the mystical claims it gets invoked to support.
+- `INS-260412-F6FD` [high] Equations can have valid solutions that describe nothing real — mathematical possibility is a necessary but not sufficient condition for existence.
 - `INS-260412-D634` [high] The largest stars are solar-system-sized behemoths blowing themselves apart, making precise measurement nearly impossible and rankings unstable.
 - `INS-260412-75FF` [high] Single-example reasoning demands surfacing which properties you assume are universal versus local.
 - `INS-260409-A0D7` [high] 'UFO' bakes in 'flying object'; UAP opens the door back up to atmospheric optics and instrument artifacts.
@@ -37,13 +40,16 @@
 - `INS-260410-B507` [high] The archives declassified after the Soviet collapse showed that 'the Nazis were Nazis and the communists were communists' — the interrogators, torturers, and twenty-five-thousanders believed they were building a new world, even when they knew specific victims were innocent.
 - `INS-260409-A8F4` [high] You cannot infer velocity from one photograph, no matter how good the shutter metadata is.
 - `INS-260412-5E11` [high] Black hole singularities with infinite density likely don't exist — they mark where general relativity's equations stop working, not where physics actually goes to infinity.
+- `INS-260412-DD79` [high] Wormholes collapse unless exotic matter actively holds them open — analogous to how any counter-gradient structure requires continuous effort to maintain.
 - `INS-260411-7F4F` [high] Aleatoric uncertainty (irreducible noise), epistemic uncertainty (knowledge gaps), and ontological uncertainty (ambiguous concepts) each demand different mitigation strategies.
 - `INS-260409-BF3F` [high] In a field where measurements are routinely precise to ~1%, an 8-9% gap between two independent methods is not a rounding error — it is a crisis exactly because precision grew faster than the gap closed.
 - `INS-260409-0206` [high] The gap between 'unexplained' and 'aliens' is a logical leap people make far too quickly.
 - `INS-260405-D3D7` [high] You cannot use a biased yardstick to measure whether the selection was biased.
 - `INS-260412-2316` [high] Supermassive black holes are only 0.001% of galaxy mass — dark matter, not the visible anchor, holds galaxies together.
 - `INS-260409-9464` [high] JWST was expected to resolve the Hubble tension by cleaning up stellar crowding in Cepheid measurements; instead it confirmed Hubble's 73 km/s/Mpc nearly exactly, eliminating 'measurement error' as an escape hatch and forcing attention onto the standard model itself.
+- `INS-260412-F3B0` [medium] If simulated beings outnumber biological ones a billion to one, the rational default is that you're simulated — uncomfortable conclusions don't exempt themselves from base rate logic.
 - `INS-260409-55F6` [medium] Asymmetric epistemic standards — trusting convergence in physics but dismissing it in phenomenology — need to be justified, not assumed.
+- `INS-260412-6B04` [medium] The ergosphere — where spacetime is distorted but not inescapable — is the only region where energy extraction works, illustrating that partially broken rules create unique opportunities.
 - `INS-260409-3BC9` [medium] Galef: 'There are things in that intersection where you can make yourself feel better without having to resort to telling yourself a lie' — the honest-comforting intersection almost always has something in it, but people jump to self-deception without looking for it.
 - `INS-260409-1652` [medium] The Weismann Barrier stood unchallenged for 100 years until RNA sequencing and extracellular vesicle biology gave researchers the tools to see the mechanism — dogmas break when you can measure their violation.
 - `INS-260409-B3DC` [medium] If a question has the same answer whoever asks it, that's a property of the question, not the asker — and independent rediscovery is how you detect that.

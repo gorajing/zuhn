@@ -1,6 +1,6 @@
 # Topic: learning
 
-> 243 insights
+> 244 insights
 
 - `INS-260329-66C7` [high] Charisma, patience, confidence — all traits are shorthand labels for clusters of small, observable, teachable behaviors like smiling on entry and remembering names.
 - `INS-260330-750A` [high] The Mongols became siege warfare experts and adopted gunpowder by interrogating prisoners and absorbing techniques from conquered peoples.
@@ -181,6 +181,7 @@
 - `INS-260329-DE17` [medium] Evaluate free content from a teacher before buying paid courses to reliably predict quality and fit.
 - `INS-260330-BEAD` [medium] Vsauce makes the Banach-Tarski proof accessible by building a chain of named analogies — chocolate bar → Hilbert's Hotel → circle points → Hyperwebster → sphere decomposition — each one preparing the mental model for the next.
 - `INS-260330-B91E` [medium] Naval advocates reading the best books over and over rather than maximizing book count, because deep understanding compounds while shallow reading doesn't.
+- `INS-260412-3C98` [medium] If giant viruses hid in plain sight until 2003, every mature field likely contains fundamental phenomena we're miscategorizing or ignoring.
 - `INS-260330-FDC2` [medium] Education systems explicitly aim to transmit knowledge faithfully and produce behavioral conformity — the opposite of the creative knowledge generation that defines human uniqueness.
 - `INS-260330-1222` [medium] Building a custom periscope mirror rig to film underwater gunfire required predicting where phenomena would occur, making the engineering itself a form of hypothesis testing.
 - `INS-260329-C81C` [medium] Andrew Brown argues the Cloud Practitioner certification's main value is building exam-taking confidence, not the credential itself — it's a low-stakes rehearsal for harder certifications.

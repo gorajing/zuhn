@@ -73,6 +73,7 @@ related:
   - INS-260408-59B3
   - PRI-260403-50EF
   - INS-260410-022B
+  - INS-260412-F3B0
 ---
 Hao summarizes Sutskever's framework: brains are giant statistical models (Hinton's view), so building a bigger statistical engine than the brain will produce human-equivalent intelligence and eventually super-intelligence. Sutskever visualized this in a famous NeurIPS keynote showing brain size roughly linear with species intelligence, extrapolating to digital brains that exceed the human scale.
 

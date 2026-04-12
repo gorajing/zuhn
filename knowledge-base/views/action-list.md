@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-12 | 4859 actionable insights
+Generated on 2026-04-12 | 4864 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -666,6 +666,7 @@ Generated on 2026-04-12 | 4859 actionable insights
 - [INS-260410-A27C] Because agents are non-deterministic across runs, grade final outputs with an LLM judge on a rubric and start with ~20 real queries — not hundreds of rigid test cases.
 - [INS-260410-1430] Structurally isolate credentials from Claude's execution environment rather than relying on narrow token scopes, because scope-based mitigations depend on assumptions about model capability that get weaker over time.
 - [INS-260410-0C77] Desktop Extensions declare user_config with a 'sensitive: true' flag, and Claude Desktop stores those values in the OS keychain rather than leaving them in JSON files.
+- [INS-260412-2B01] Only compute what the consumer actually inspects — everything else can remain a stub until accessed.
 
 ## ai-development/systems-design
 - [INS-260404-C663] Components tuned for original conditions do not just underperform in new environments — they generate actively harmful outputs.
@@ -4823,6 +4824,7 @@ Generated on 2026-04-12 | 4859 actionable insights
 - [INS-260404-38A6] Different timezones enable continuous progress — offshore teams advance work overnight for morning review — when handoff planning is deliberate.
 - [INS-260403-E09C] Design for geographic flexibility by treating location as a variable you iterate on as the company evolves.
 - [INS-260322-F46F] AI works with data -- if you don't have complete data architecture in place, there's nothing for AI to operate on.
+- [INS-260412-CD2D] True self-sufficiency means producing value that flows back to the parent system — survival alone keeps you permanently dependent.
 
 ## startups/strategy
 - [INS-260322-5E5D] Deliberately changing what content platforms show you — your YouTube algorithm, your feeds — rewires your brain to notice opportunities others miss.
@@ -4911,6 +4913,9 @@ Generated on 2026-04-12 | 4859 actionable insights
 - [INS-260410-99A3] Clausewitz's 'culminating point' rule: every offensive has a moment past which continuing costs more than it gains, and great strategists learn to feel it.
 - [INS-260410-DE05] Corporate welfare pledges have affected hundreds of millions of animals at a cost of under $100M/year, while the equivalent legislation is blocked by agriculture committees and cultivated meat consumes billions in VC with no scale.
 - [INS-260410-02EA] Treat company-building as a turn-based strategy game: optimize for getting more turns and learning more from each turn than any competitor.
+- [INS-260412-D022] Great Filters aren't unique to civilizations — startups face sequential extinction barriers where failing any one is terminal.
+- [INS-260412-0EF9] To move a solar system, you only move the Sun — everything else follows via gravity.
+- [INS-260412-A1F4] Historical colonization always followed three phases — exploration, dependent outpost, self-sufficient colony — and this pattern maps directly to entering new markets.
 
 ## startups/team-building
 - [INS-260405-F378] Searching for a technical cofounder before validating demand is backwards — demand attracts technical talent.

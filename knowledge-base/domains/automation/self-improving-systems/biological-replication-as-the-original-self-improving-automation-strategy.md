@@ -50,10 +50,10 @@ stance: >-
   effort.
 related:
   - INS-260412-94BD
+  - INS-260412-B89F
   - PRI-260328-C528
   - INS-260330-833E
   - INS-260410-91C0
-  - PRI-260403-C34A
 ---
 The plan's most elegant move is deploying trillions of cyanobacteria to convert the atmosphere over thousands of years. No human workforce could match this — the bacteria self-replicate, self-repair, and self-distribute. They already proved the concept by converting Earth's original toxic atmosphere into one supporting complex life.
 

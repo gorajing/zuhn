@@ -1,6 +1,6 @@
 # Topic: decision-making
 
-> 150 insights
+> 155 insights
 
 - `INS-260412-4FBF` [high] If something powerful enough would leave unmistakable traces and you find none, that silence is itself a strong signal.
 - `INS-260404-A246` [high] Admitting you're bad at something is the first step to finding effective workarounds like delegation or systematic search.
@@ -10,6 +10,7 @@
 - `INS-260330-148C` [high] What looks like a flaw mid-process (arrow flexing wildly) is often the exact mechanism enabling the correct result.
 - `INS-260330-08E1` [high] Getting a tattoo takes hours; removing one takes years of painful treatments — this reversal-cost asymmetry is a general pattern humans systematically underweight.
 - `INS-260403-70F0` [high] Baby bonuses work directionally but the effect size is so small that reaching replacement fertility through payments alone would cost astronomically more than any government would spend.
+- `INS-260412-77C6` [high] Building a Dyson Sphere requires Dyson Sphere-level energy — a bootstrapping paradox resolved by starting small and using exponential self-funding.
 - `INS-260402-B66A` [high] Your early twenties offer unique exploration that a startup's all-consuming depth-first search permanently forecloses.
 - `INS-260404-3959` [high] Intentional moderates and ideologues both acquire opinions in bulk rather than reasoning independently about each question.
 - `INS-260330-4BFD` [high] When a model needs ad-hoc explanations for gravity, time zones, satellite imagery, and navigation simultaneously, the model itself is wrong — not the evidence.
@@ -25,11 +26,13 @@
 - `INS-260404-C497` [high] Temperature-dependent sensors measuring the speed of light produced a fake diurnal cycle because the lab was outdoors.
 - `INS-260330-D304` [high] RuBisCo evolved in a low-oxygen world and now grabs oxygen instead of CO2 half the time — the same pattern drives human cognitive biases in modern environments.
 - `INS-260405-3048` [high] RuBisCo worked perfectly in a low-oxygen world; the problem wasn't the enzyme but the changed atmosphere — the same dynamic explains many human cognitive 'errors'.
+- `INS-260412-2D98` [high] Effective early intervention against exponential threats always feels like an overreaction because success is invisible.
 - `INS-260330-AA4F` [high] Because humans linearize exponentials, they systematically under-react when early action is cheapest and over-react when the situation is already determined.
 - `INS-260403-CF46` [high] Most China analyses reach contradictory conclusions (China will dominate vs. China has peaked) because they cherry-pick output metrics instead of examining the underlying systems that produce those outputs.
 - `INS-260403-FBC0` [high] Luck ranges from blind fortune to character-attracted opportunity, and you can deliberately move up that gradient.
 - `INS-260404-1289` [high] When receiving advice, people either evaluate it with fresh eyes and give logical reasons for disagreement, or unconsciously munge it to fit pre-existing decisions.
 - `INS-260330-8FC5` [high] Pick your city first because jobs, partners, friends, and opportunities are downstream of geographic network proximity.
+- `INS-260412-7E9E` [high] Governments consistently fail to fund long-horizon projects like lunar bases despite clear positive ROI, because political incentive structures reward short-term spending.
 - `INS-260403-CA46` [high] When abundance replaces scarcity, the winning strategy inverts but behavior lags.
 - `INS-260410-B47B` [high] The U-2 spy plane kept the Cold War cold because both sides rationally preferred the Soviets tracking it silently over admitting they couldn't shoot it down — information and its management beat raw force.
 - `INS-260410-AF9A` [high] Imperial Japan's army and navy kept their war plans secret from each other, didn't hold liaison meetings until 1944, and hid the loss of four carriers at Midway for months — individual samurai excellence couldn't overcome structural stovepiping.
@@ -70,6 +73,7 @@
 - `INS-260330-BB0C` [high] Intense romantic love activates ancient brain drive systems while shutting down newer cognitive regions for planning and evaluation.
 - `INS-260404-ABCB` [high] NASA's Bennu sample return found fragile organic compounds that meteorite studies could never detect because atmospheric entry destroys them.
 - `INS-260404-EC33` [high] Plants produce 40 billion tons of an inefficient enzyme rather than evolving a better one — volume compensates for poor per-unit performance.
+- `INS-260412-59F2` [high] The barrier to becoming an interstellar civilization isn't technical feasibility but humanity's chronic short-term political focus.
 - `INS-260330-8849` [high] Cultural norms tying property ownership to marriage eligibility create demand that persists regardless of whether the purchase makes financial sense.
 - `INS-260403-2AC0` [high] Coercing a hostile vendor to build your weapons is self-defeating regardless of their technical capability.
 - `INS-260403-D06F` [high] Status games require putting others down to rise, making them psychologically toxic compared to positive-sum wealth creation.
@@ -126,6 +130,7 @@
 - `INS-260330-3B05` [medium] Kissing, curiosity, and exploration all share an evolutionary root: organisms that convert uncertainty into knowledge make better decisions and outcompete those that don't.
 - `INS-260330-E403` [medium] New information or advice only expands your decision space if it's linearly independent from what you already know.
 - `INS-260405-6E4F` [medium] Better inputs compound into better judgment — information diet is a leverage point most people underinvest in.
+- `INS-260412-5272` [medium] Stellar engines are machines built by civilizations thinking in eons, not decades — the planning horizon transforms what counts as rational.
 - `INS-260405-DB32` [medium] You are accountable for acting from your values, even if you didn't choose those values from scratch.
 - `INS-260405-E05D` [medium] The right to pitch future articles and sidebar placement may be worth more to a writer than the $2,500 first prize.
 - `INS-260404-1D05` [medium] Nostalgia is a psychological refuge from an illegible future, not a rational assessment of the past.

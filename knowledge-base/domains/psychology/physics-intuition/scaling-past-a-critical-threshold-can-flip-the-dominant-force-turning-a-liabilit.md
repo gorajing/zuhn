@@ -50,11 +50,11 @@ stance: >-
   Quantitative scaling eventually triggers qualitative regime changes where the
   previously dominant constraint reverses into a stabilizing force.
 related:
-  - INS-260330-03F7
-  - INS-260330-E990
   - INS-260330-F9FB
   - INS-260412-5ACD
-  - INS-260330-2DF9
+  - INS-260330-03F7
+  - INS-260330-E990
+  - INS-260412-DD79
 ---
 Below geostationary altitude, taller structures face an increasingly punishing gravity problem — each added meter must support all the weight above it. But at ~35,000 km, centrifugal force from Earth's rotation begins to dominate, and the structure becomes stable through tension rather than compression. The very force that was irrelevant at small scales becomes the primary stabilizer at extreme scales.
 

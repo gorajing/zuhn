@@ -3,7 +3,6 @@
 - `INS-260405-7C86` Focused, short demos change AI behavior faster than comprehensive theoretical treatments.
 - `INS-260325-040F` AI product defensibility comes from user behavior loops (pain → relief → habit → switching cost) not from AI model improvements that competitors can replicate overnight.
 - `INS-260325-6576` Animal research suggests psychedelics increase neuroplasticity in the days after use, creating a window where new patterns stick more easily — explaining why single sessions produce lasting change.
-- `INS-260330-9C40` Subtle fidgety movements trigger local epinephrine release from neurons innervating fat, burning 800-2500 additional calories daily without formal exercise.
 - `INS-260405-8808` Changing first-order desires is hard; changing second-order desires is rarer; beyond that it becomes nearly impossible.
 - `INS-260412-B769` The loneliness cycle must be broken at three points: what you attend to, how you interpret it, and how you behave in response.
 - `INS-260330-0242` Write down small achievable goals nightly; the check-mark dopamine hit builds an addiction to the learning process itself.
@@ -12,10 +11,11 @@
 - `INS-260403-9861` Theater and role-playing let people physically experience alternative identities, creating deeper change than imagining or discussing those possibilities.
 - `INS-260403-EC3D` Screen-sharing AI workflows in meetings and Slack creates viral adoption through social proof more effectively than formal training.
 - `INS-260404-9AEC` Willpower functions as a trainable meta-skill whose gains compound across personal and professional domains simultaneously.
-- `INS-260325-27ED` You cannot eradicate a habit; you must keep the same cue and reward while swapping the routine.
-- `INS-260329-28A6` You don't need to 'become' a certain person before acting — identity is just the trailing indicator of repeated behavior.
+- `INS-260330-9C40` Subtle fidgety movements trigger local epinephrine release from neurons innervating fat, burning 800-2500 additional calories daily without formal exercise.
 - `INS-260405-EF0F` People grabbed newspapers and magazines at newsstands out of commuting habit — when smartphones replaced the commute ritual, the revenue vanished even though the content was still good.
 - `INS-260405-AAB7` Wanting to want the new behavior is a prerequisite for lasting habit change.
+- `INS-260325-27ED` You cannot eradicate a habit; you must keep the same cue and reward while swapping the routine.
+- `INS-260329-28A6` You don't need to 'become' a certain person before acting — identity is just the trailing indicator of repeated behavior.
 - `INS-260329-613F` Reread great books until you can teach them rather than consuming many books superficially.
 - `INS-260329-D3F6` Stop-doing lists require less activation energy than start-doing lists, making them more effective for rapid change.
 - `INS-260329-CA4F` Avoidance-framed habits stick better than aspiration-framed habits because they tap into evolutionarily older threat-detection circuits.

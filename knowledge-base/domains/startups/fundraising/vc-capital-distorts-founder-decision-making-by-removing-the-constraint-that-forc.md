@@ -55,7 +55,7 @@ related:
   - INS-260404-AFE6
   - INS-260405-8080
   - INS-260322-0C91
-  - PRI-260406-EE38
+  - INS-260412-77C6
 ---
 The framing from OnlyCFO — 'VC money makes you dumb' — captures a structural problem: when capital is abundant, founders lose the forcing function that makes hard choices obvious. Bootstrapped companies can't afford to run three experiments simultaneously, build features with no revenue path, or hire ahead of need. That constraint is a feature, not a bug — it aligns action with what actually matters.
 

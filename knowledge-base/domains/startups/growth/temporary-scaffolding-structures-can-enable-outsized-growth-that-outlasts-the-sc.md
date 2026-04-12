@@ -54,7 +54,7 @@ related:
   - INS-260409-2E2B
   - INS-260412-DB5A
   - INS-260412-AB32
-  - INS-260412-8C32
+  - INS-260412-6F74
 ---
 The quasi-star hypothesis proposes that early universe stars grew so massive that their cores collapsed into black holes while still forming. Rather than destroying the star (as happens today), a balance emerged: gravity fed the black hole while radiation pressure kept the star stable. The black hole consumed its host over millions of years, growing far beyond what normal stellar processes allow.
 

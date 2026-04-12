@@ -50,7 +50,6 @@ stance: >-
   fidelity is superior to linear development because you maintain a valid output
   at every stage.
 related:
-  - INS-260323-0B52
   - INS-260329-3CB6
   - INS-260403-D4EA
   - INS-260404-673B

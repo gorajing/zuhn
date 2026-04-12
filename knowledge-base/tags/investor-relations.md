@@ -41,6 +41,6 @@
 - `INS-260410-5CAA` Microsoft grew revenue from $6B to $80B under Ballmer, yet the stock stayed flat for over a decade because the company could not articulate a coherent story for consumers, developers, or investors.
 - `INS-260403-D36D` Whoever holds organizational power imposes their schedule type on everyone else, usually at makers' expense.
 - `INS-260405-CB93` A good pitch deck should simultaneously repel misfit investors and excite the right ones.
-- `INS-260403-6CB4` Use of Funds and valuation should be live outputs that update automatically as the operating plan changes, not hand-crafted presentation slides.
 - `INS-260403-7E27` Technical founders can bypass the performative pitch process by launching cheaply on seed money and approaching investors with traction data instead of plans.
 - `INS-260403-F6EC` Metrics that don't connect to revenue, retention, or scalability harm credibility when presented to sophisticated investors.
+- `INS-260403-6CB4` Use of Funds and valuation should be live outputs that update automatically as the operating plan changes, not hand-crafted presentation slides.

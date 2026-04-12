@@ -60,10 +60,10 @@ stance: >-
   human computers.
 related:
   - INS-260403-DED4
+  - INS-260412-B89F
   - INS-260403-063E
   - INS-260321-B7CB
   - INS-260410-6290
-  - INS-260405-AD55
 ---
 Musk uses a sharp analogy: 'computer' used to be a job, and entire buildings held humans doing calculations. A single laptop with Excel replaced all of them. Now imagine a spreadsheet where some cells are still computed by humans — it would be dramatically worse than one fully computed by software. That, he argues, is the position any human-in-the-loop corporation will find itself in within a few years.
 

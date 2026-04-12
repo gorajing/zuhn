@@ -1,6 +1,6 @@
 # Topic: scaling
 
-> 181 insights
+> 184 insights
 
 - `INS-260403-49FB` [high] Startups need 2-3x longer than founders expect to validate their market, and 70% scale prematurely — largely explaining the 90% failure rate.
 - `INS-260403-AA20` [high] The 996 grind culture trades short-term velocity for compounding burnout costs that destroy long-term startup viability.
@@ -96,6 +96,7 @@
 - `INS-260405-21C7` [high] Webvan expanded to multiple cities before understanding its unit economics, and the fixed cost structure made course correction impossible.
 - `INS-260405-3CC7` [high] Rare edge cases become common failures at scale, creating novel downstream problems no amount of upfront architecture prevents.
 - `INS-260403-BF1F` [high] Plugging real metrics into an MRR model before hiring prevents premature scaling that burns runway.
+- `INS-260412-CD2D` [high] True self-sufficiency means producing value that flows back to the parent system — survival alone keeps you permanently dependent.
 - `INS-260323-F310` [high] LIGO now reaches 1,000x more space than its original design through continuous incremental sensitivity improvements.
 - `INS-260329-BC36` [high] Pay teachers $50/hr to deliver your templatized curriculum while collecting $280/hr per group — keeping 80%+ gross margins and freeing yourself to focus on sales and recruitment.
 - `INS-260403-066E` [high] A shared visual framework like the BMC eliminates the translation overhead when marketing, engineering, operations, and finance collaborate on strategy.
@@ -107,6 +108,7 @@
 - `INS-260404-1F1B` [high] Photosynthesis produced oxygen as a 'useless byproduct' that then poisoned its own core enzyme, forcing plants into permanent damage-control mode.
 - `INS-260330-696D` [high] Agriculture's key unlock was producing surplus calories that freed people to specialize, creating a compounding flywheel of efficiency.
 - `INS-260404-1C01` [high] The Calvin Cycle produces 6 G3P molecules but must reinvest 5 of them to regenerate its starting materials, netting only 1 — a pattern that mirrors sustainable business unit economics.
+- `INS-260412-B7D5` [high] When systems hit capacity limits, the overload itself degrades capacity further, creating a death spiral.
 - `INS-260404-E651` [high] Good people attract good colleagues, so programming talent concentrates in hubs that can flip from one city to another within decades.
 - `INS-260403-4935` [high] If productivity ranges from 0 to 100, a 10x technology multiplier creates a 0 to 1000 range — variance explodes.
 - `INS-260329-9DF3` [high] Four leverage types — Collaboration, Capital, Code, Content — stack multiplicatively to break through revenue ceilings.
@@ -152,6 +154,7 @@
 - `INS-260403-7825` [medium] Hyperliquid's 11-person team generating massive revenue demonstrates that AI-era automation can replace headcount with code, concentrating both value and risk.
 - `INS-260403-049F` [medium] Creandum's Benchmark-inspired equal carry and up-or-out model has retained 6 of 9 current partners who joined as junior staff.
 - `INS-260403-D870` [medium] Sweden's unicorn density came from founder alumni reinvesting exits into new startups, amplified by tax incentives — not government venture programs.
+- `INS-260412-9300` [medium] The Caplan thruster harvests mass from the Sun to fuel itself, yet this actually extends the Sun's lifespan because lower-mass stars burn slower.
 - `INS-260403-EA01` [medium] Plan headcount costs using fully loaded compensation (base + tax + benefits) with month-by-month ramp timing, not annualized base salary.
 - `INS-260403-A538` [medium] Pushing a Head of Sales hire from Q1 to Q2 extended runway by 3 months, creating room to raise on better terms.
 - `INS-260330-240A` [medium] Bacteria explored far more genetic sequence space than eukaryotes over 4 billion years yet never became complex — proving that more iteration on the same architecture cannot overcome structural energy constraints.

@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 578 insights
+> 579 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -544,6 +544,7 @@
 - `INS-260403-88B9` [medium] The 'startup' label at mature companies often serves as cover for offering below-market salaries with speculative equity.
 - `INS-260330-ACCD` [medium] China's Greater Bay Area assigns each city a distinct role — Hong Kong as global finance gateway, Shenzhen as tech hub, Macau as entertainment, Guangzhou as administration — creating a composite competitor stronger than any single city.
 - `INS-260405-D660` [medium] Kilo Code grew to 1.5 million users in under a year by being open-source, model-agnostic, and letting community PRs drive development velocity.
+- `INS-260412-44FA` [medium] Ecosystems with multiple layers of interdependency develop emergent defensive properties that no single layer could achieve alone.
 - `INS-260403-7037` [medium] Non-US startup ecosystems are converging with the US at the AI application layer, where domain expertise and distribution matter more than raw compute and model scale.
 - `INS-260327-EAB0` [medium] Nvidia's 'win-win' culture positions its success as customer success rather than competitor failure, creating ecosystem lock-in through expansion rather than extraction.
 - `INS-260403-3155` [medium] Graham moved YC to Silicon Valley partly because he didn't want someone else to copy the model and call themselves 'the Y Combinator of Silicon Valley.'

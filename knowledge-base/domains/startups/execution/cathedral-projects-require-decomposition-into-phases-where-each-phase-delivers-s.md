@@ -53,8 +53,8 @@ related:
   - INS-260412-F660
   - PRI-260406-3AE8
   - PRI-260406-701E
+  - INS-260412-A1F4
   - INS-260403-7C67
-  - INS-260408-88D9
 ---
 The Venus terraforming plan spans thousands of years but succeeds conceptually because each phase creates a habitable intermediate state. After freezing: settlers can walk the surface with pressure suits. After importing water: the planet has continents, islands, and frozen oceans. After cyanobacteria: you only need an oxygen mask and regular clothes. Each phase is independently valuable, not just a stepping stone.
 

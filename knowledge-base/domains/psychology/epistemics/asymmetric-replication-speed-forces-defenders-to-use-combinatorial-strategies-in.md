@@ -55,12 +55,12 @@ related:
   - INS-260323-6D41
   - INS-260403-68CE
   - INS-260410-69C2
-  - INS-260410-3B8B
   - INS-260410-E042
   - INS-260412-812C
   - INS-260412-CDDC
   - INS-260412-E072
   - INS-260412-0689
+  - INS-260412-8CB2
 ---
 The fundamental problem the immune system solves is a speed asymmetry: pathogens evolve and replicate orders of magnitude faster than the host can produce new cells. A bacterium copies in 30 minutes; a virus can produce billions of copies in days. The host cannot out-evolve or out-replicate its enemies.
 

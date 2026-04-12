@@ -72,8 +72,8 @@ related:
   - INS-260330-A59D
   - INS-260409-8759
   - INS-260410-91C0
+  - INS-260412-8361
   - PRI-260328-36C3
-  - INS-260412-EED1
 ---
 Lane explains that bacteria never needed sex. They use lateral gene transfer: grab a piece of DNA from the environment, splice it in, hope for the best. It works because bacterial genomes are small and streamlined—typically a few thousand genes—and because bacteria live in huge populations where a few successful pickups propagate fast. They maintain access to a much larger 'pan-genome' of 30,000-40,000 genes distributed across strains, borrowing as needed.
 

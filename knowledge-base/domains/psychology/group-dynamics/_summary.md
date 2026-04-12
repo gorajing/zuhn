@@ -1,6 +1,6 @@
 # Topic: group-dynamics
 
-> 106 insights
+> 107 insights
 
 - `INS-260330-2EB0` [high] The Pueblo Revolt shows that a shared existential threat can override deep tribal divisions — but the unity is temporary.
 - `INS-260403-D609` [high] Enforcers of orthodoxy compete with each other, creating a race to the bottom where any borderline idea gets banned.
@@ -75,6 +75,7 @@
 - `INS-260403-B9F4` [medium] Group settings amplify emotional reactions at the expense of intellectual processing, making audiences inherently less thoughtful than individual readers.
 - `INS-260403-E21C` [medium] Anonymous attribution rules produce more honest and valuable organizational learning than public case studies.
 - `INS-260403-CCA3` [medium] Movements that rely on outgroup fear for energy must rotate targets, which alienates each targeted group permanently and shrinks the coalition over time.
+- `INS-260412-5AD5` [medium] Framing collective sacrifice as mutual insurance — you protect them, they protect you — is more effective than appeals to abstract duty.
 - `INS-260403-824F` [medium] People dismiss ambitious early work partly because they unconsciously fear that the creator's success would threaten their own relative status.
 - `INS-260404-8031` [medium] You need colleagues who can see promise in rough early work, not just people who say everything is great.
 - `INS-260403-E6A8` [medium] Both Fatima and Dhammakaya events show that emotionally primed crowds gazing at the sun converge on shared anomalous percepts without requiring a hoaxer or hypnotist.

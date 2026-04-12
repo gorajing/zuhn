@@ -52,12 +52,12 @@ stance: >-
   similarly be the unglamorous prerequisite that transforms space economics by
   enabling cheaper builds, flexible planning, and lower insurance costs.
 related:
-  - INS-260322-7A2F
   - INS-260322-3833
   - INS-260322-B8E6
-  - INS-260323-F528
-  - PRI-260328-0E23
   - INS-260408-88D9
+  - PRI-260328-0E23
+  - INS-260412-A18B
+  - INS-260323-F528
   - INS-260405-D638
 evidence:
   - id: INS-260325-B234

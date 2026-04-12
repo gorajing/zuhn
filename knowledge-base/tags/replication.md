@@ -1,6 +1,7 @@
 # Tag: replication
 
 - `INS-260410-6290` Human corporations can't clone themselves because they're made of people, which is why they age and die — AI firms built from copyable code will compound like eukaryotic life over prokaryotic bacteria.
+- `INS-260412-5965` Any system that builds replication infrastructure creates an ecological niche for parasites of that infrastructure.
 - `INS-260329-8CC0` Sharding splits data across servers for write scalability while replication copies data across servers for read scalability — the workload pattern determines which to use.
 - `INS-260329-85E9` HFT order books are maintained entirely in-memory with replicated copies for fault tolerance, avoiding all disk I/O.
 - `INS-260330-3491` Structuralism's reliance on patients reporting their inner experiences made it too subjective to produce replicable scientific findings.

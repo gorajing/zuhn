@@ -64,6 +64,7 @@ related:
   - INS-260409-1D91
   - INS-260404-D122
   - INS-260410-5F60
+  - INS-260412-F3B0
 ---
 When comparing brains to artificial neural networks, the 100 trillion synapse figure obscures more than it reveals. Each biological neuron is itself a complex computational unit with its own internal learning dynamics, state, and signal processing—effectively a miniature computer. Artificial neurons, by contrast, are reduced to elementary math: multiply inputs by weights, add a bias, apply a nonlinearity.
 

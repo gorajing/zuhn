@@ -62,6 +62,7 @@ related:
   - INS-260410-6A86
   - PRI-260406-9599
   - PRI-260320-A2C7
+  - INS-260412-FD9A
 stance: >-
   Jet engine turbine blades must simultaneously optimize for temperature
   resistance (1,500C), centripetal force (20 metric tons per blade),

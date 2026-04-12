@@ -51,7 +51,7 @@ related:
   - INS-260330-14B1
   - INS-260327-EDE4
   - INS-260330-8429
-  - INS-260403-7E1F
+  - INS-260412-6B04
 ---
 On Earth, daylight comes from two sources: the sun itself and the entire bright dome of the atmosphere scattering light back down. Even on a cloudy day, the sky dome provides near-omnidirectional ambient light with no single shadow source. This is what our visual system has been trained on for every moment of our lives. In space, there is only the point-source sun. Shadows are knife-edged; highlights are extreme; everything looks strangely flat or hyper-real.
 

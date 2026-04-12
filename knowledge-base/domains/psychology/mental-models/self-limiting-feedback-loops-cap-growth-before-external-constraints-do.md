@@ -50,8 +50,10 @@ related:
   - INS-260412-D634
   - INS-260412-640C
   - INS-260412-8C32
+  - INS-260412-9300
   - INS-260412-DBA9
   - INS-260412-AB32
+  - INS-260412-6F74
 ---
 When stars above ~150 solar masses form, they burn so hot and bright that their radiation pressure blows away any surrounding gas that could add more mass. The limit isn't set by how much material exists — it's set by the star's own output creating a negative feedback loop against further growth.
 

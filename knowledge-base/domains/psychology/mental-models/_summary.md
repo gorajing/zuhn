@@ -1,12 +1,13 @@
 # Topic: mental-models
 
-> 98 insights
+> 99 insights
 
 - `INS-260409-3138` [high] Computers are fully explainable bottom-up from electricity through logic gates to instructions — there is no magical layer, only layers of abstraction humans haven't personally traversed.
 - `INS-260330-420B` [high] Three competing theories for the Indus Valley's decline each tell a confident story from the same absence of evidence, revealing how humans handle epistemic gaps.
 - `INS-260405-C3B0` [high] The 'alien truth' test filters for universal truths by asking whether any intelligent being would converge on an idea.
 - `INS-260404-7604` [high] Complex problems almost always have both 'chosen cost' and 'pure dysfunction' causes, and separating them improves analysis.
 - `INS-260330-1C84` [high] Every exponential process in nature eventually saturates, making the logistic S-curve a more accurate mental model than pure exponential growth.
+- `INS-260412-F06F` [high] The Penrose process trades expendable mass for vastly more valuable rotational energy — a pattern that generalizes to any asymmetric exchange.
 - `INS-260330-CAB3` [high] Bernoulli's principle unifies cavitation across wildly different domains: bullets, propellers, pipes, and arteries all create vacuum bubbles through the same mechanism.
 - `INS-260330-5670` [high] ATP functions as a universal energy currency — the body cannot use glucose directly, just as a store cannot accept foreign currency without exchange.
 - `INS-260330-4E55` [high] The neo-Assyrian Empire collapsed partly because its theology required perpetual conquest — one loss shattered the entire worldview.
