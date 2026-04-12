@@ -1,8 +1,5 @@
 # Tag: sunk-cost
 
-- `INS-260403-738F` Companies invest in AI infrastructure defensively, then can't admit it isn't working because they've already spent too much.
-- `INS-260327-B038` Napoleon fought at Eylau despite his army being exhausted and overextended because retreating would have shattered his aura of invincibility.
-- `INS-260327-A4BB` The Somme offensive continued for months despite catastrophic casualties because commanders couldn't justify stopping without something to show for the losses already sustained.
 - `INS-260412-F8D1` Leeson's losses grew from £4M to £94M to £160M to £830M because each concealment required deeper fraud to sustain.
 - `INS-260412-C1EC` Inside a black hole's event horizon, moving in any direction only brings you to the singularity faster — the longest survival comes from doing nothing.
 - `INS-260410-0065` 85% of Japanese WWII deaths and 43% of German deaths happened in the last year of the war — after the outcome was already decided — because regimes optimize for their own survival, not their populations'.
@@ -35,3 +32,6 @@
 - `INS-260330-54ED` RuBisCo is terrible at its job but plants produce 40 billion tons of it rather than evolving a replacement, illustrating how early commitment to a suboptimal strategy creates permanent compensatory overhead.
 - `INS-260403-9B3A` RuBisCo's evolutionary story shows how early strategic commitments become permanent even when they stop working well.
 - `INS-260323-F9E5` The most expensive period of a failing startup is not the building phase — it's the denial phase after the founder already knows it won't work.
+- `INS-260403-738F` Companies invest in AI infrastructure defensively, then can't admit it isn't working because they've already spent too much.
+- `INS-260327-B038` Napoleon fought at Eylau despite his army being exhausted and overextended because retreating would have shattered his aura of invincibility.
+- `INS-260327-A4BB` The Somme offensive continued for months despite catastrophic casualties because commanders couldn't justify stopping without something to show for the losses already sustained.

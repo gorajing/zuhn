@@ -3,12 +3,11 @@
 - `INS-260321-D959` The biggest scientific advances came from deleting assumptions (Earth is at rest, species are static) rather than adding new theories — this is hard to reinforce-learn because there's no verifiable metric for 'which assumption to drop.'
 - `INS-260323-7BA4` Black holes existed in the Schwarzschild solution from 1917 but weren't recognized until the 1950s — the brightest physicists of two generations missed what was sitting in front of them.
 - `INS-260412-B805` Quantum mechanics and general relativity both work brilliantly in isolation but break when combined, indicating the solution isn't fixing either but finding a deeper framework that subsumes both.
-- `INS-260325-9CDC` The line between fringe and mainstream science shifts constantly -- exoplanet research went from 'silly' to a major field in one generation.
 - `INS-260410-3697` Michelson kept believing in the ether until his death in 1929; Poincaré had all the mathematical pieces for special relativity but couldn't let go of a dynamical interpretation of length contraction.
 - `INS-260403-222E` Experts fail not from ignorance but from over-confidence in beliefs calibrated to a previous version of the world.
 - `INS-260402-26B0` Philosophy is structurally as young as math was in 1500 because most of its 2500-year history was spent on unproductive approaches derived from Aristotle's wrong turn.
-- `INS-260409-1652` The Weismann Barrier stood unchallenged for 100 years until RNA sequencing and extracellular vesicle biology gave researchers the tools to see the mechanism — dogmas break when you can measure their violation.
 - `INS-260330-8625` Eddington's insistence that 'there should be a law of nature to prevent a star from behaving this absurdly' delayed black hole acceptance by decades.
+- `INS-260409-1652` The Weismann Barrier stood unchallenged for 100 years until RNA sequencing and extracellular vesicle biology gave researchers the tools to see the mechanism — dogmas break when you can measure their violation.
 - `INS-260403-FFF0` Newton serves as Graham's model for seeking questions people didn't even realize were questions, rather than settling for the immediate rewards of familiar problems.
 - `INS-260330-137C` Fourier's immortality came not from solving the heat equation but from asking whether ANY function could be expressed as sine waves — a question that seemed absurd at the time.
 - `INS-260330-8EC6` The transition from OOP to functional programming fails not because FP is harder, but because existing OOP mental models must be actively dismantled first.
@@ -16,6 +15,8 @@
 - `INS-260330-B7C6` Inaccessible cardinals can't be reached from below by any combination of smaller operations — you must axiomatically declare their existence.
 - `INS-260330-8E8A` New discoveries require both extreme rigor about truth and willingness to violate established conventions — traits that only appear contradictory in trivial matters.
 - `INS-260330-E2F5` The French Revolution's lasting impact wasn't its government changes but Article 6's claim that law comes from citizens and applies equally — a paradigm shift still unfolding centuries later.
+- `INS-260330-E89A` Gravity yielded the Industrial Revolution, electromagnetism produced the Electric Age, and nuclear forces created the Atomic Age — each fundamental force discovery reliably cascades into civilization-scale transformation.
+- `INS-260412-366A` A fairy fly experiences air as syrup and water as glue, while an elephant experiences gravity as lethal — same planet, completely different physics.
 - `INS-260325-11E4` Finding children's and women's shoes at Roman army bases overturned the assumption that military posts were male-only — tiny artifacts reshaped understanding of an entire institution.
 - `INS-260323-C1D7` 'Nature abhors a vacuum' dominated thinking for over a thousand years because Aristotle's framing was so intuitively compelling that even experimental contradictions were dismissed.
 - `INS-260323-0556` Black holes were resisted for decades because they seemed 'too preposterous to be real,' with senior scientists publicly attacking younger ones for following the math.
@@ -23,8 +24,6 @@
 - `INS-260323-AEA7` Michelson and Morley built the most precise instrument of their era, found no evidence of the ether, and believed their own experiment had failed -- because the null result contradicted consensus so deeply.
 - `INS-260325-02F2` The Copernican revolution took centuries to be fully absorbed; discovering alien life will likely follow the same slow integration pattern.
 - `INS-260323-7F5D` Torricelli didn't just create a vacuum -- he reframed the entire question by showing that atmospheric pressure, not nature's horror of emptiness, explained all the phenomena.
-- `INS-260330-E89A` Gravity yielded the Industrial Revolution, electromagnetism produced the Electric Age, and nuclear forces created the Atomic Age — each fundamental force discovery reliably cascades into civilization-scale transformation.
-- `INS-260412-366A` A fairy fly experiences air as syrup and water as glue, while an elephant experiences gravity as lethal — same planet, completely different physics.
 - `INS-260412-0F3F` Dinosaurs dominated for 165 million years and were wiped out in months — market incumbents with decades of dominance face the same non-linear disruption risk.
 - `INS-260403-F519` The best web3 gaming teams pair experienced web2 game designers with blockchain-native engineers, rather than building teams of pure crypto specialists.
 - `INS-260404-A183` Lisp wasn't designed to fix Fortran — it was designed to axiomatize computation, and that's precisely why its ideas proved more durable.
@@ -35,3 +34,4 @@
 - `INS-260329-06F2` $100K is harder than $1M because $100K assumes trading hours for wages — $1M forces you to find entirely different tools and leverage.
 - `INS-260412-A4DB` Quantum computers will likely start as specialized tools for cryptography, simulation, and search before potentially becoming general-purpose.
 - `INS-260404-80AC` The physics community's instinct to demand replication before abandoning relativity was correct — the OPERA result was indeed a systematic error.
+- `INS-260325-9CDC` The line between fringe and mainstream science shifts constantly -- exoplanet research went from 'silly' to a major field in one generation.

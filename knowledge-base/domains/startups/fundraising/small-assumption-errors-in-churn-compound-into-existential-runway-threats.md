@@ -53,7 +53,7 @@ related:
   - PRI-260406-BC09
   - INS-260403-1ECB
   - PRI-260406-26B3
-  - PRI-260406-BAD8
+  - PRI-260412-A404
 ---
 Financial models are systems of coupled equations where small input changes produce outsized downstream effects. A founder projecting 2% monthly churn instead of the actual 4% doesn't just miscalculate retention — the error propagates through LTV, CAC payback, burn rate, and ultimately runway. In this example, the difference is 7 months of runway, which often means the difference between raising in a favorable market versus a desperate one with worse terms.
 

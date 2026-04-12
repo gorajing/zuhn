@@ -44,8 +44,7 @@ related:
   - INS-260325-CC49
   - INS-260322-9C84
   - PRI-260322-CF2B
-  - PRI-260324-F9CD
-  - INS-260323-8F41
+  - PRI-260412-7664
   - INS-260403-8114
 stance: >-
   Problems that appear impossible often result from the wrong framing, not the

@@ -59,10 +59,10 @@ stance: >-
 related:
   - INS-260330-2294
   - INS-260323-4574
+  - PRI-260412-7664
   - INS-260404-CE26
   - PRI-260323-7BFA
   - INS-260322-54F3
-  - PRI-260407-7FB7
 ---
 Individual samples from modern LLMs look great, but their distribution is collapsed — the model will give you essentially the same answer ten different ways. Training on your own model's outputs therefore drives the distribution even narrower, and collapse compounds. This blocks the most obvious path to synthetic data: having a model reflect on a book chapter or generate its own problems to train on.
 

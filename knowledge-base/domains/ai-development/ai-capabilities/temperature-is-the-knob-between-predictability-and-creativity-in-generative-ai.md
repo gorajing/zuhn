@@ -49,7 +49,6 @@ stance: >-
   universally correct setting because the optimal balance depends entirely on
   the use case.
 related:
-  - INS-260330-B08E
   - INS-260330-2F13
   - PRI-260321-14D8
   - PRI-260403-EA13

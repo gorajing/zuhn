@@ -1,6 +1,5 @@
 # Tag: profitability
 
-- `INS-260405-110D` VCs are now prioritizing path-to-profitability over top-line growth, reversing a decade-long trend.
 - `INS-260321-1992` Focus on first dollar by day 30, $1M ARR ($80K/month) by day 90, and only consider VC if you actually need it.
 - `INS-260323-DD40` Consumer businesses should be funded by repeating customers, not venture capital — capital cannot solve unit economics problems.
 - `INS-260404-420F` Use the Business Model Canvas to iterate toward a model that is both profitable and scalable, not just one or the other.
@@ -14,3 +13,4 @@
 - `INS-260403-0D24` eDreams focused on unit economics and EBITDA from day one, reaching unicorn status with real profits rather than just a billion-dollar valuation on paper.
 - `INS-260403-0CB8` Resilient 'camel' startups that grow slowly but survive market shocks are replacing unprofitable unicorns as the aspirational model for founders.
 - `INS-260403-8C56` Being profitable lets you wait out acquisition market cycles and capture fair average-case valuations rather than being forced into bad timing.
+- `INS-260405-110D` VCs are now prioritizing path-to-profitability over top-line growth, reversing a decade-long trend.

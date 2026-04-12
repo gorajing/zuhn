@@ -44,10 +44,10 @@ stance: >-
   weaker than they appear because each uncertain link multiplies total
   uncertainty rather than adding to it
 related:
+  - PRI-260412-A404
   - INS-260330-9BB7
   - INS-260321-D959
   - INS-260330-FB5A
   - PRI-260324-2C9F
-  - INS-260403-0803
 ---
 The simulation argument is structured as a chain of five assumptions that must all hold simultaneously. This is a powerful epistemics lesson: humans intuitively treat chained assumptions additively ('each step seems reasonable, so the conclusion is reasonable') when they actually multiply. Five assumptions at 80% confidence each yield 0.8^5 ≈ 33% total confidence. This pattern appears everywhere — startup pitch decks chain 'if we get distribution AND retention AND monetization AND...' without acknowledging the multiplicative collapse. Investment theses stack 'if the market grows AND the team executes AND regulation permits.' Recognizing chained-assumption structures is a critical epistemic skill for evaluating any complex argument or plan.

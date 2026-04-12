@@ -60,8 +60,8 @@ related:
   - INS-260329-A67B
   - INS-260329-196E
   - INS-260330-3C70
+  - PRI-260412-A404
   - INS-260330-E4FA
-  - INS-260326-3B43
 evidence:
   - id: INS-260329-A67B
     type: EXTENDS

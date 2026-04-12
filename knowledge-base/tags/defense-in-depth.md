@@ -6,5 +6,5 @@
 - `INS-260329-47DD` Schema-level constraints enforce data quality rules that no application bug, API misuse, or direct SQL query can bypass.
 - `INS-260330-AC7F` CPU protection rings enforce that user-space code cannot directly access kernel resources without explicit system calls.
 - `INS-260412-E072` Innate immunity buys time with fast, cheap, self-destructing cells while the adaptive system spends days manufacturing precision weapons.
-- `INS-260327-3B25` Medieval castles used concentric walls, each higher than the last, so that attackers who breached one wall faced another, more formidable barrier — making the total cost of assault prohibitive.
 - `INS-260412-B25A` The immune system uses cheap macrophages to handle most threats and only escalates to expensive adaptive immunity when the first layer fails, a pattern directly applicable to organizational design.
+- `INS-260327-3B25` Medieval castles used concentric walls, each higher than the last, so that attackers who breached one wall faced another, more formidable barrier — making the total cost of assault prohibitive.

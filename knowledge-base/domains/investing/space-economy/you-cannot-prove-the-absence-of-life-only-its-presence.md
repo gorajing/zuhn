@@ -48,12 +48,13 @@ stance: >-
   no matter how much we search.
 related:
   - INS-260325-A8E6
+  - PRI-260412-96C1
   - INS-260327-684D
   - INS-260330-FFAB
   - INS-260327-1AD8
-  - INS-260412-0F94
   - INS-260403-D7C4
   - INS-260409-67A5
+  - INS-260412-0F94
 evidence:
   - id: INS-260327-684D
     type: SUPPORTS

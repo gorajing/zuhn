@@ -49,7 +49,6 @@ stance: >-
   infinity — conservation laws that govern finite quantities simply do not
   apply.
 related:
-  - INS-260323-36A8
   - PRI-260325-5760
   - INS-260325-72AE
   - INS-260412-5E11

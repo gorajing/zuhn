@@ -55,8 +55,8 @@ related:
   - INS-260330-5C80
   - PRI-260406-5ECB
   - INS-260327-70DF
+  - PRI-260412-A7FA
   - PRI-260405-0676
-  - PRI-260406-CF83
   - INS-260330-ED37
 ---
 Harris identifies a specific failure mode among educated, ethically-minded people: their trained instinct to distrust black-and-white moral framing and seek nuance becomes a vulnerability when confronted with genuinely asymmetric moral situations. Students who 'lose sleep over cultural appropriation and wrong pronouns' — whose moral sensitivity is real — can nonetheless fail to make straightforward moral distinctions about violence because their framework treats all moral confidence as suspect.

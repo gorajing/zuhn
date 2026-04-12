@@ -49,10 +49,10 @@ stance: >-
   creating an infinite regress that reveals the limits of human reasoning.
 related:
   - INS-260323-12F2
+  - PRI-260412-96C1
   - INS-260330-2E54
   - INS-260412-0F94
   - INS-260330-4FC5
-  - INS-260412-B9F4
   - INS-260409-2677
 ---
 Every explanation for existence requires something prior that itself needs explaining: the universe came from the Big Bang, which came from quantum fluctuations, which came from... what? Each answer pushes the question back one step without resolving it. This infinite regress suggests the question may be structurally unanswerable rather than merely unsolved.

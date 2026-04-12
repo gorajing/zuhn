@@ -2,11 +2,6 @@
 
 - `INS-260329-E193` Wix buying Base 44 for $80M suggests AI app builders will become features of existing platforms rather than standalone products.
 - `INS-260405-77C9` Canva's acquisition of Leonardo AI demonstrates that incumbent platforms are buying rather than building AI model capabilities.
-- `INS-260403-D98E` Acquirers like Google discovered they can buy startups at pre-Series A stage, cutting VCs out of the value chain entirely.
-- `INS-260403-8A28` Firms like Tiger Global and Insight Partners have had multiple portfolio companies acquired by Nvidia in the past two years, revealing how concentrated AI exit paths have become.
-- `INS-260405-5514` Onfido's acquisition delivered a reported 320x return to its first backer, demonstrating that early conviction in infrastructure fintech compounds dramatically regardless of how the exit occurs.
-- `INS-260403-F852` Deal structure (cash/stock/debt/earn-out mix) determines who carries downside risk far more than the headline acquisition price.
-- `INS-260403-8441` Slowing exits are pushing venture firms to adopt private equity tactics like acquisitions and AI-driven growth optimization.
 - `INS-260330-D644` Don't start acquisition conversations unless you'd accept a low offer — the distraction and psychological demoralization of entertaining buyers kills more companies than most founders realize.
 - `INS-260330-0871` Facebook's $1B Instagram acquisition — mocked as absurd for an 18-month-old app with zero revenue — generated $24B/year by 2019 and eliminated its top competitor.
 - `INS-260330-0317` Facebook bought WhatsApp for $19B not for its $1.2M revenue but to prevent Google from acquiring it and to absorb its 1B+ user base into the Facebook data ecosystem.
@@ -26,3 +21,8 @@
 - `INS-260329-545B` Earn-outs let you buy a business by paying the seller from the business's own future profits.
 - `INS-260405-4CDA` The 1980s leveraged buyout wave succeeded partly because corporate balance sheets never formalized the debt owed to employees for deferred promotion promises.
 - `INS-260402-CCF4` Patents serve startups primarily as signals to acquirers that the technology is defensible and worth buying rather than building.
+- `INS-260403-D98E` Acquirers like Google discovered they can buy startups at pre-Series A stage, cutting VCs out of the value chain entirely.
+- `INS-260403-8A28` Firms like Tiger Global and Insight Partners have had multiple portfolio companies acquired by Nvidia in the past two years, revealing how concentrated AI exit paths have become.
+- `INS-260405-5514` Onfido's acquisition delivered a reported 320x return to its first backer, demonstrating that early conviction in infrastructure fintech compounds dramatically regardless of how the exit occurs.
+- `INS-260403-F852` Deal structure (cash/stock/debt/earn-out mix) determines who carries downside risk far more than the headline acquisition price.
+- `INS-260403-8441` Slowing exits are pushing venture firms to adopt private equity tactics like acquisitions and AI-driven growth optimization.

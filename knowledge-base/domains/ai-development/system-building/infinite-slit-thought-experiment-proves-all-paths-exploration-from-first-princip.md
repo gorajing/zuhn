@@ -45,11 +45,11 @@ resolutions:
     — 'if you accept X, you must accept Y' — is invaluable in system design,
     debugging, and argument construction.
 related:
+  - PRI-260412-96C1
   - INS-260412-C37A
   - INS-260412-5E11
   - PRI-260323-6644
   - PRI-260323-CE34
-  - INS-260325-4677
 stance: >-
   The Feynman infinite-slit argument shows that if you accept the double-slit
   experiment, you must logically accept that particles explore all possib...

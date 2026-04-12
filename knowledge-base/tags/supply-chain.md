@@ -8,31 +8,8 @@
 - `INS-260325-BB13` A smartphone processor requires tools from the Netherlands, chemicals from Japan, design from the US, fabrication in Taiwan, and assembly in Malaysia — no single company or country controls the full stack.
 - `INS-260323-E559` The XZ backdoor nearly succeeded because the entire Linux ecosystem depended on a compression tool maintained by one burned-out volunteer for 20 years.
 - `INS-260323-A8B5` Jia Tan did not hack XZ — he spent years building trust with the maintainer, then weaponized that trust to insert a backdoor.
-- `INS-260412-132B` Purdue corrupted doctors, distributors, pharmacists, politicians, and the FDA simultaneously, creating a self-reinforcing system that resisted correction for over two decades.
-- `INS-260405-ECD2` Retail food prices are the last output of an infrastructure system shaped far upstream by inputs, water, labor, and policy.
-- `INS-260412-C668` Drought in Panama restricts canal throughput by limiting lock water, directly impacting global shipping costs and schedules in ways disconnected from the drought's geographic location.
-- `INS-260412-80AB` Panama's $5.4B lock expansion forced New Jersey to spend $1.7B raising a single bridge, plus billions more in port upgrades coast-wide.
 - `INS-260409-B21A` In-body production trades per-dose manufacturing and cold chain for device lifetime and cell viability.
 - `INS-260330-1084` A photon's journey from solar fusion through photosynthesis to cellular ATP involves at least 6 major conversion steps, each losing energy — making biological systems inherently energy-constrained despite abundant solar input.
-- `INS-260321-4B99` Factory capacity for DRAM and NAND is fixed, but AI demand pays so much more that producers shifted mass production lines to HBM — making consumer memory prices rise in tandem.
-- `INS-260403-1462` Defense-industrial catch-up requires allied co-manufacturing because domestic reshoring timelines are too slow against urgent threats.
-- `INS-260410-A544` Once Mao put all peasants on communes, the party controlled food distribution — which meant Beijing was literally choosing who ate and who died, and 40 million starved.
-
-
-- `INS-260403-C621` China's expanding rare earth export controls create chokepoint leverage over every major technology supply chain.
-- `INS-260404-57D0` China controls 80-95% of global solar manufacturing across polysilicon, wafers, cells, and modules with no near-term Western alternative.
-- `INS-260325-A19C` TSMC manufactures 90% of the world's advanced processor chips in Taiwan — a geopolitical concentration risk that affects every phone, computer, and AI system on the planet.
-- `INS-260403-3AF9` EVs provide the massive scale demand needed to make domestic battery and motor production economically viable, which then feeds into drones, robots, electronics, and military systems.
-- `INS-260330-9BC4` Japan's and Germany's expansion was fundamentally driven by food insecurity, making agricultural dependency a leading indicator of geopolitical risk.
-- `INS-260412-9E81` Russia's push-based resupply model, where leadership decides what goes where on a schedule, collapsed when the war didn't end in 3-5 days as planned.
-- `INS-260412-E0D9` Sri Lanka's overnight fertilizer ban collapsed food production, and reversing it months later couldn't restore the lost growing seasons or export capacity.
-- `INS-260323-9676` ASML is the sole manufacturer of EUV lithography machines worldwide — every advanced chip on Earth depends on one company in one Dutch town, making semiconductor manufacturing the most concentrated chokepoint in the global economy.
-- `INS-260404-95CA` Project Vault pairs $12B in reserves with bilateral agreements across 11 countries, recognizing that mineral security requires allied coordination, not just stockpiling.
-- `INS-260403-7779` China's share of US imports fell from over one-fifth to less than one-thirteenth, but America's overall trade deficit remains largely unchanged.
-- `INS-260405-1CC3` The US-Taiwan deal reduces tariffs from 20% to 15% contingent on $500B in US semiconductor investment, making trade policy a reshoring mechanism.
-- `INS-260412-9DEE` The US-China trade deficit made westbound Pacific shipping near-free, enabling an entire global recycling industry that collapsed when China closed the receiving end.
-- `INS-260325-2BB0` TSMC makes roughly 90% of advanced processor chips used in phones, computers, and AI — an unprecedented concentration of critical manufacturing in one company in one geopolitically sensitive location.
-- `INS-260404-2AD7` China banning foreign AI chips from state data centers and the US securing $1.4B in rare-earth deals indicate a permanent split in AI hardware supply chains.
 - `INS-260327-048B` Domino's franchisees earn only 11% margins while the corporate entity makes most of its money selling cheese, dough, and ingredients at markup to its own franchise network.
 - `INS-260412-2147` Multi-tier supplier chains compound markups at each layer, making vertically integrated competitors dramatically cheaper.
 - `INS-260403-2E12` Everything from EVs to drones to robots draws on the same batteries, sensors, motors, and compute that the smartphone ecosystem industrialized at scale.
@@ -53,3 +30,26 @@
 - `INS-260330-EA23` Domino's centralized all ingredient preparation into hub facilities, enabling individual stores to be much smaller and cheaper while maintaining consistent quality across thousands of locations.
 - `INS-260330-9FCC` In-N-Out's requirement that all ingredients reach stores within a single day's drive from distribution centers caps expansion at ~500 miles per center.
 - `INS-260412-846C` Samsung makes the chips inside competitors' phones AND their own phones, giving them cost advantages, supply chain leverage, and deep technical knowledge that compounds over time.
+- `INS-260412-132B` Purdue corrupted doctors, distributors, pharmacists, politicians, and the FDA simultaneously, creating a self-reinforcing system that resisted correction for over two decades.
+- `INS-260405-ECD2` Retail food prices are the last output of an infrastructure system shaped far upstream by inputs, water, labor, and policy.
+- `INS-260412-C668` Drought in Panama restricts canal throughput by limiting lock water, directly impacting global shipping costs and schedules in ways disconnected from the drought's geographic location.
+- `INS-260412-80AB` Panama's $5.4B lock expansion forced New Jersey to spend $1.7B raising a single bridge, plus billions more in port upgrades coast-wide.
+- `INS-260321-4B99` Factory capacity for DRAM and NAND is fixed, but AI demand pays so much more that producers shifted mass production lines to HBM — making consumer memory prices rise in tandem.
+- `INS-260403-1462` Defense-industrial catch-up requires allied co-manufacturing because domestic reshoring timelines are too slow against urgent threats.
+- `INS-260410-A544` Once Mao put all peasants on communes, the party controlled food distribution — which meant Beijing was literally choosing who ate and who died, and 40 million starved.
+
+
+- `INS-260403-C621` China's expanding rare earth export controls create chokepoint leverage over every major technology supply chain.
+- `INS-260404-57D0` China controls 80-95% of global solar manufacturing across polysilicon, wafers, cells, and modules with no near-term Western alternative.
+- `INS-260325-A19C` TSMC manufactures 90% of the world's advanced processor chips in Taiwan — a geopolitical concentration risk that affects every phone, computer, and AI system on the planet.
+- `INS-260403-3AF9` EVs provide the massive scale demand needed to make domestic battery and motor production economically viable, which then feeds into drones, robots, electronics, and military systems.
+- `INS-260330-9BC4` Japan's and Germany's expansion was fundamentally driven by food insecurity, making agricultural dependency a leading indicator of geopolitical risk.
+- `INS-260412-9E81` Russia's push-based resupply model, where leadership decides what goes where on a schedule, collapsed when the war didn't end in 3-5 days as planned.
+- `INS-260412-E0D9` Sri Lanka's overnight fertilizer ban collapsed food production, and reversing it months later couldn't restore the lost growing seasons or export capacity.
+- `INS-260323-9676` ASML is the sole manufacturer of EUV lithography machines worldwide — every advanced chip on Earth depends on one company in one Dutch town, making semiconductor manufacturing the most concentrated chokepoint in the global economy.
+- `INS-260404-95CA` Project Vault pairs $12B in reserves with bilateral agreements across 11 countries, recognizing that mineral security requires allied coordination, not just stockpiling.
+- `INS-260403-7779` China's share of US imports fell from over one-fifth to less than one-thirteenth, but America's overall trade deficit remains largely unchanged.
+- `INS-260405-1CC3` The US-Taiwan deal reduces tariffs from 20% to 15% contingent on $500B in US semiconductor investment, making trade policy a reshoring mechanism.
+- `INS-260412-9DEE` The US-China trade deficit made westbound Pacific shipping near-free, enabling an entire global recycling industry that collapsed when China closed the receiving end.
+- `INS-260325-2BB0` TSMC makes roughly 90% of advanced processor chips used in phones, computers, and AI — an unprecedented concentration of critical manufacturing in one company in one geopolitically sensitive location.
+- `INS-260404-2AD7` China banning foreign AI chips from state data centers and the US securing $1.4B in rare-earth deals indicate a permanent split in AI hardware supply chains.

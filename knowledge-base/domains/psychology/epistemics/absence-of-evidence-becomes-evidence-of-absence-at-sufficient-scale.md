@@ -47,11 +47,11 @@ stance: >-
   When the search space is large enough and the expected signal strong enough,
   continued silence is itself informative data rather than mere ignorance
 related:
+  - PRI-260412-96C1
   - INS-260412-F6FD
   - INS-260328-EA3A
   - INS-260323-8F41
   - INS-260403-2245
-  - INS-260330-FF94
 ---
 The Fermi Paradox's power comes from a simple Bayesian insight: given the number of habitable planets (billions), the time available (billions of years), and the relatively short time needed to colonize a galaxy (~2 million years), even one spacefaring civilization should have left detectable traces everywhere. The continued absence of any signal isn't just 'we haven't looked hard enough' — it's statistically meaningful.
 

@@ -47,9 +47,9 @@ stance: >-
   introspection is uniquely unreliable here.
 related:
   - INS-260330-C9A6
+  - PRI-260412-0C19
   - INS-260411-F649
   - INS-260323-8966
   - INS-260409-3CDD
-  - INS-260409-F4E0
 ---
 The essay implicitly challenges a double standard: we routinely accept converging external reports as evidence of underlying reality (five physicists observing a particle, five astronomers measuring redshift), but dismiss converging internal reports as 'just religion.' The challenge is that introspection is noisy and culturally shaped — true — but external instruments are also noisy and theory-shaped, and convergence is precisely how we filter signal from noise in both domains. If you want to reject contemplative convergence as evidence, you need a principled reason why first-person convergence is uniquely worthless, not just a general skepticism toward introspection. That principled reason may exist, but the burden is on the skeptic to produce it.

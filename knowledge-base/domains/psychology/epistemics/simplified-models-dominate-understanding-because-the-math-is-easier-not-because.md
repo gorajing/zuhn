@@ -53,6 +53,6 @@ related:
   - INS-260403-BB23
   - INS-260408-C572
   - INS-260410-939B
-  - INS-260326-DBEF
+  - PRI-260412-7664
 ---
 The video explicitly notes that essentially everything the public knows about black holes describes non-spinning (Schwarzschild) black holes — purely because the math is tractable. Yet all real black holes spin, often at up to 90% of light speed, making them fundamentally different (ring singularities, ergospheres, frame-dragging). This is a general epistemological pattern: fields gravitate toward models they can solve, and those solvable models colonize public understanding regardless of how well they match reality. The implication extends far beyond physics — economic models assume rational actors, nutrition science studies isolated nutrients, startup advice assumes Silicon Valley conditions — not because these simplifications are most accurate, but because they're most tractable. Recognizing this 'tractability bias' is the first step to asking: where does the spinning version diverge most from the simplified one?

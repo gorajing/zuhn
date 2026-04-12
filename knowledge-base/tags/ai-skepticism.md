@@ -1,6 +1,10 @@
 # Tag: ai-skepticism
 
 - `INS-260323-282F` Microsoft — the apex predator of enterprise software with 440M Office 365 users — has only 8M active paying AI Copilot users, generating roughly $2.9B/year against $200B+ in AI capex.
+- `INS-260323-EF23` The booster-doomer debate creates a false spectrum where the only question is whether powerful AI is good or bad — both camps share the unexamined premise that it works.
+- `INS-260323-3A98` No business became an industry leader through cost-cutting alone — AI investments driven by competitive fear rather than strategic vision will fail.
+- `INS-260323-F2BD` Whatever personal productivity you gain from AI comes at externalized costs of stolen training data, exploited Global South workers, and data centers extending the life of coal plants.
+- `INS-260323-1720` Oracle and the wider tech industry are applying the 'spend big, growth follows' playbook from the cloud era to AI, but the underlying economics are fundamentally different.
 - `INS-260323-3045` The widely accepted belief that AGI is inevitable and we're racing toward it is a community assumption masquerading as scientific consensus — the future is not yet written.
 - `INS-260323-99E0` Coordinated bot swarms using LLMs can now maintain persistent fake personas and manufactured consensus at unprecedented scale, threatening democratic elections.
 - `INS-260323-B029` When you tally coding assistance against deepfake porn, education degradation, military errors killing innocents, and employment disruption, generative AI's net contribution to society is questionable.
@@ -10,10 +14,6 @@
 - `INS-260323-D18D` LLMs training on AI-generated content creates a downward spiral of quality degradation that nobody is actively addressing.
 - `INS-260323-7EEB` The leap from GPT-4 to GPT-5 was subtle enough to require benchmarks, unlike earlier leaps that were obvious in minutes — scaling has hit a wall.
 - `INS-260323-E520` Stanford and Princeton studies show sycophantic models degrade human reasoning by confirming wrong answers — political pressure toward compliant AI worsens this.
-- `INS-260323-EF23` The booster-doomer debate creates a false spectrum where the only question is whether powerful AI is good or bad — both camps share the unexamined premise that it works.
-- `INS-260323-3A98` No business became an industry leader through cost-cutting alone — AI investments driven by competitive fear rather than strategic vision will fail.
-- `INS-260323-F2BD` Whatever personal productivity you gain from AI comes at externalized costs of stolen training data, exploited Global South workers, and data centers extending the life of coal plants.
-- `INS-260323-1720` Oracle and the wider tech industry are applying the 'spend big, growth follows' playbook from the cloud era to AI, but the underlying economics are fundamentally different.
 - `INS-260323-F2C3` AI's strongest achievements (AlphaGo, AlphaFold) are in domains with verifiable ground truth, not in the tacit-knowledge-heavy tasks that dominate real occupations.
 - `INS-260323-9773` OpenAI's own research confirms hallucinations cannot be eliminated even with perfect training data because they are inherent to probabilistic generation — and reasoning models make it worse by multiplying the dice rolls.
 - `INS-260323-FE69` Acemoglu predicts only 5% of tasks will be profitably automated and no current occupation will disappear within 5-10 years, because every occupation embeds complex tacit knowledge.

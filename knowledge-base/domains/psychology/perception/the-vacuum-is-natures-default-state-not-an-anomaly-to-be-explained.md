@@ -47,10 +47,10 @@ related:
   - PRI-260323-D475
   - INS-260412-0F94
   - INS-260330-2E54
+  - PRI-260412-96C1
   - INS-260327-2112
   - INS-260323-7F5D
   - INS-260330-B224
-  - INS-260409-02C5
 stance: >-
   The fundamental realization from vacuum physics: emptiness is the default
   state of the universe, and the presence of matter is what needs explaining.

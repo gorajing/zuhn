@@ -1,8 +1,6 @@
 # Tag: sustainability
 
 - `INS-260327-FF4D` Biology builds elephants at room temperature from grass and water with zero waste - human manufacturing can't come close to this efficiency.
-- `INS-260410-F366` MTM on illiquid assets pulls all future revenue forward, leaving zero recurring base and forcing ever-bigger fake deals to maintain growth.
-- `INS-260325-A8E6` Searching for other Earths reveals how unique and irreplaceable our planet is, confirming there is no practical Planet B.
 - `INS-260405-3753` US agricultural water sources are being drawn down at 10x their natural replenishment rate, creating a non-negotiable physical constraint on food production.
 - `INS-260325-8DF7` Greenwashing works because consumers want to feel virtuous more than verify claims — most 'eco' products are marginally better at best.
 - `INS-260412-DAC5` Consumers and municipal leaders were satisfied by the act of recycling without ever verifying that materials were actually recycled, enabling a broken system to persist for 50+ years.
@@ -33,3 +31,5 @@
 - `INS-260404-1C01` The Calvin Cycle produces 6 G3P molecules but must reinvest 5 of them to regenerate its starting materials, netting only 1 — a pattern that mirrors sustainable business unit economics.
 - `INS-260403-0CB8` Resilient 'camel' startups that grow slowly but survive market shocks are replacing unprofitable unicorns as the aspirational model for founders.
 - `INS-260329-C893` If your growth depends on gaming a platform (SEO, app store, token issuance), expect a turkey graph — great until the platform changes, then instant death.
+- `INS-260410-F366` MTM on illiquid assets pulls all future revenue forward, leaving zero recurring base and forcing ever-bigger fake deals to maintain growth.
+- `INS-260325-A8E6` Searching for other Earths reveals how unique and irreplaceable our planet is, confirming there is no practical Planet B.

@@ -60,8 +60,8 @@ related:
   - INS-260405-C709
   - INS-260403-F4C9
   - INS-260411-8AEF
+  - PRI-260412-0C19
   - INS-260412-C37A
-  - PRI-260324-2C9F
 ---
 Aleatoric uncertainty represents inherent randomness in the data itself — it cannot be reduced by additional information or training. Epistemic uncertainty reflects a model's lack of knowledge, reducible through more evidence or training data. Ontological uncertainty arises from ambiguity in how concepts are defined and represented, increasingly prominent as AI integrates diverse multi-modal data.
 

@@ -48,7 +48,6 @@ related:
   - INS-260325-D9D8
   - INS-260327-E833
   - INS-260323-71B3
-  - INS-260325-D5C6
 stance: >-
   Fear occurs in proportion to importance — the intensity of your resistance
   signals the significance of the action you are avoiding.

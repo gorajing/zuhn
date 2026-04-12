@@ -54,8 +54,8 @@ stance: >-
 related:
   - INS-260409-AD0C
   - INS-260409-A62B
+  - PRI-260412-A7FA
   - INS-260409-AD3B
   - INS-260409-5CD4
-  - INS-260329-B0F4
 ---
 A common failure mode in the rationalist community is believing that if you just think clearly enough, every question becomes answerable. Galef is unusually careful to push back against this. Scout thinking helps enormously with questions that have discoverable answers: 'is my relationship working?', 'is this job a good fit?', 'is my business actually profitable?' These are empirical questions where better thinking produces better answers. But scout thinking has limits. Questions about religious truth, the right political philosophy, what policy would best serve a complex society — these are genuinely hard in ways that more rationality cannot fully solve. Two ideal reasoners with the same information can still disagree on these questions, and recognizing that is itself a scout-mindset move. The rationalist overconfidence trap is assuming scout thinking will answer every question; Galef's position is that scout thinking makes you more accurate where accuracy is achievable and more humble where it isn't. Both are wins. This is a useful corrective against the 'if only we reasoned clearly, we'd all agree' view that sometimes creeps into rationality circles.

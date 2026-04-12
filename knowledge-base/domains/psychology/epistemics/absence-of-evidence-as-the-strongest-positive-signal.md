@@ -44,10 +44,10 @@ stance: >-
   not neutral — it is the most informative data point available and should
   update beliefs more than any positive finding
 related:
-  - INS-260325-76E6
   - INS-260323-12F2
   - INS-260327-2112
+  - PRI-260412-96C1
   - INS-260412-B9F4
-  - INS-260330-1718
+  - INS-260325-76E6
 ---
 The Great Filter argument hinges on a deeply underappreciated epistemic principle: when a phenomenon would be visible if it existed, its absence is not merely 'no data' but powerful evidence. We observe zero galactic civilizations despite billions of Earth-like planets with billions of years head start. This silence is the data. The same principle applies in everyday reasoning: if a product were truly great, you'd see organic word-of-mouth (its absence means something). If a founder were truly experienced, references would be easy to find. If a market were truly large, someone would already be serving it. People systematically under-weight absence of expected evidence because it feels like 'nothing happened,' when in Bayesian terms it can be the strongest update available.

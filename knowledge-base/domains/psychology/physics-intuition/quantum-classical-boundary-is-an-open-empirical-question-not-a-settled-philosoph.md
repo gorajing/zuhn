@@ -48,7 +48,6 @@ stance: >-
   macroscopic quantum effects will keep climbing until engineering limits — not
   fundamental ones — bite.
 related:
-  - INS-260323-0865
   - INS-260323-4279
   - INS-260323-DA1E
   - INS-260408-59B3

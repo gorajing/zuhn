@@ -49,10 +49,10 @@ resolutions:
     situation where you need to break free from an outdated self-concept.
 related:
   - PRI-260406-C60B
+  - PRI-260412-A7FA
   - INS-260329-28A6
   - PRI-260328-BF1E
   - INS-260323-BCCC
-  - PRI-260406-003E
   - INS-260409-A803
 stance: >-
   At the self-authoring stage of development, you realize your values and

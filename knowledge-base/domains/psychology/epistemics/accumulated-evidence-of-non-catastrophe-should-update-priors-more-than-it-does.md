@@ -49,11 +49,11 @@ stance: >-
   have already eliminated catastrophic hypotheses, but narrative appeal
   preserves them
 related:
+  - PRI-260412-96C1
   - INS-260404-36B9
   - INS-260412-D236
   - INS-260405-809E
   - INS-260322-AB55
-  - INS-260403-63E2
 ---
 The video points out that over 1,000 nuclear tests have occurred in the last 70 years without changing Earth's orbit or triggering geological apocalypse. This is massive empirical evidence that should have already eliminated many catastrophic hypotheses — yet the question 'could a nuke destroy Earth?' persists because the narrative is compelling.
 

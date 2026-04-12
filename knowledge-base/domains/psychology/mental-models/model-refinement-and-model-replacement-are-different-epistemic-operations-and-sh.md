@@ -54,9 +54,9 @@ stance: >-
   journalism consistently botches.
 related:
   - INS-260409-2E2B
+  - PRI-260412-7664
+  - PRI-260412-96C1
   - PRI-260328-9FB6
   - INS-260412-AB32
-  - INS-260323-12F2
-  - INS-260321-D959
 ---
 Pop-science framing tends to collapse two very different situations into one narrative: a model being refined (epicycles, adding early dark energy, tweaking dark matter properties) versus a model being replaced (Newtonian mechanics ceding to general relativity at high curvature). The transcript itself is honest about this — 'The standard model isn't dead. Not even close.' — but the framing device ('this isn't our universe') exploits the ambiguity. When evaluating a scientific crisis, the right question is not 'is the model wrong' but 'which specific predictions fail, which still hold, and what minimal modification restores consistency?' Early dark energy, warm dark matter, and accelerated early star formation are all examples of targeted patches that would preserve most of ΛCDM's track record while shifting specific early-universe parameters.

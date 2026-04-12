@@ -53,6 +53,6 @@ related:
   - INS-260330-70BF
   - INS-260405-56CB
   - PRI-260327-5635
-  - PRI-260403-88F5
+  - PRI-260412-A7FA
 ---
 Gary's prescription for anyone starting from zero: Stage 1, self-awareness — ruthlessly honest inventory of what you're good at (people skills, work ethic, sales, consumer behavior) and which of those transfer to the new environment. Stage 2, humility — willingness to work as a cashier if that's what you have access to, because humility is a superpower and ex-Soviet engineers who cleaned American toilets and later owned pharmacies are the proof. Stage 3, curiosity — after the day job, research what's actually happening in your new environment to find your angle. The counter-pattern is ego, which Gary reframes as 'pure insecurity' — peacocking exists because the person doesn't internally like themselves, and it caps their growth because they optimize for trick-appearance over building. Applied to AI: the mason who wants to become an architect faces the same three-stage restart.

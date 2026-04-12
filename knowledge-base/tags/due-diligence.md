@@ -1,29 +1,5 @@
 # Tag: due-diligence
 
-- `INS-260412-E332` When money is cheap and markets rise, even sophisticated investors abandon governance scrutiny — Sequoia invested $210M while the founder played video games on the call.
-- `INS-260410-4670` Frauds reach Enron scale only in bull markets because saturated capital chases low-disclosure assets and stops asking questions.
-- `INS-260412-1111` Inability to explain a profit model in plain terms is a stronger fraud signal than any financial metric.
-- `INS-260412-D3D4` The 2008-2022 low-rate era created competitive pressure among investors and acquirers that made skepticism more costly than gullibility, enabling serial fraudsters like Javice, Holmes, and Bankman-Fried.
-- `INS-260412-BA99` Each prestigious partner a fraudulent company signs makes the next partner less likely to investigate, creating a cascade of unearned credibility.
-- `INS-260412-51C1` Enron's status as Bush's largest campaign contributor bought them regulatory immunity that enabled fraud to scale.
-- `INS-260410-9A20` Staged 'busy office' tours are a fraud tell — real businesses don't need to fake activity for visiting analysts.
-- `INS-260412-EB4F` Consistent returns uncorrelated with market movements are the top red flag for investment fraud.
-- `INS-260327-D1BB` Epstein charged tens of millions for tax advice without being a CPA, hundreds of millions for wealth management without a Series 7, and consulting fees without a college degree - and nobody questioned it for decades.
-- `INS-260327-A5CD` At the highest levels of finance, who you know matters infinitely more than what you know or what credentials you hold.
-- `INS-260412-C69B` JP Morgan's $175M acquisition of Frank collapsed because the bank accepted indirect evidence of 4.25M users without independently verifying the customer database.
-- `INS-260405-11EA` Flybridge's AI memo generator is an early signal that VC's information-processing work is automatable, concentrating value on the parts that aren't.
-- `INS-260403-402F` A messy cap table during due diligence signals broader operational dysfunction and is one of the fastest deal-killers in venture financing.
-- `INS-260403-082C` Disorganized diligence processes cause more deal failures than actual red flags in the company.
-- `INS-260403-867B` Structured, repeatable diligence processes outperform deeper but disorganized investigation.
-- `INS-260403-9D9E` Astia Fund's sift strategy represents a shift from network-dependent to systematic deal sourcing designed to reduce failure rates.
-- `INS-260403-E44E` Pre-seed due diligence must focus on founder qualities and market insight rather than traditional business metrics that don't yet exist.
-- `INS-260405-0D9F` Doing diligence well means returning to fundamental analysis — market size, unit economics, team quality — rather than momentum-chasing.
-- `INS-260405-3046` Euclid Ventures argues TAM-first VC filters are lazy and that multivariate risk assessment finds better Vertical AI winners.
-- `INS-260403-8806` VCs are adding tariff and geopolitical supply chain exposure to their standard due diligence frameworks, creating valuation pressure on exposed startups.
-- `INS-260405-7F42` Whether to back the jockey or the horse depends primarily on stage — founders matter most early, market matters most later.
-- `INS-260403-87D9` Most deal-killing risks at early stage live outside the financial model.
-- `INS-260403-35A6` VCs filter investments through five consistent criteria: market size, traction, unit economics, team, and competitive moat.
-- `INS-260403-6EC8` VCs face structural information disadvantages vs public market investors because private companies control what gets reported and many VCs lack accounting expertise.
 - `INS-260412-C33C` Sam's 'humble billionaire who drives a Toyota' persona neutralized scrutiny from investors, media, and regulators who should have seen obvious structural problems.
 - `INS-260330-990F` Ivy League credentials, celebrity endorsements, and institutional backing create a cascade of unchecked assumptions that sophisticated investors like Sequoia and BlackRock use as substitutes for actual investigation.
 - `INS-260329-DE17` Evaluate free content from a teacher before buying paid courses to reliably predict quality and fit.
@@ -60,3 +36,27 @@
 - `INS-260404-B6CA` WeWork raised $355M on a Series D deck that was a masterclass in storytelling with hollow fundamentals — the most instructive deck for understanding narrative vs. substance.
 - `INS-260403-8FD7` Screen for sector exit precedent before investing — if the only exits in a space are distressed fire sales, that's a structural warning, not a timing issue.
 - `INS-260403-AC06` Identify which of your risks amplify each other and prioritize decoupling them before approaching investors.
+- `INS-260412-51C1` Enron's status as Bush's largest campaign contributor bought them regulatory immunity that enabled fraud to scale.
+- `INS-260410-9A20` Staged 'busy office' tours are a fraud tell — real businesses don't need to fake activity for visiting analysts.
+- `INS-260412-EB4F` Consistent returns uncorrelated with market movements are the top red flag for investment fraud.
+- `INS-260412-E332` When money is cheap and markets rise, even sophisticated investors abandon governance scrutiny — Sequoia invested $210M while the founder played video games on the call.
+- `INS-260410-4670` Frauds reach Enron scale only in bull markets because saturated capital chases low-disclosure assets and stops asking questions.
+- `INS-260412-1111` Inability to explain a profit model in plain terms is a stronger fraud signal than any financial metric.
+- `INS-260412-D3D4` The 2008-2022 low-rate era created competitive pressure among investors and acquirers that made skepticism more costly than gullibility, enabling serial fraudsters like Javice, Holmes, and Bankman-Fried.
+- `INS-260412-BA99` Each prestigious partner a fraudulent company signs makes the next partner less likely to investigate, creating a cascade of unearned credibility.
+- `INS-260327-D1BB` Epstein charged tens of millions for tax advice without being a CPA, hundreds of millions for wealth management without a Series 7, and consulting fees without a college degree - and nobody questioned it for decades.
+- `INS-260327-A5CD` At the highest levels of finance, who you know matters infinitely more than what you know or what credentials you hold.
+- `INS-260412-C69B` JP Morgan's $175M acquisition of Frank collapsed because the bank accepted indirect evidence of 4.25M users without independently verifying the customer database.
+- `INS-260405-11EA` Flybridge's AI memo generator is an early signal that VC's information-processing work is automatable, concentrating value on the parts that aren't.
+- `INS-260403-402F` A messy cap table during due diligence signals broader operational dysfunction and is one of the fastest deal-killers in venture financing.
+- `INS-260403-082C` Disorganized diligence processes cause more deal failures than actual red flags in the company.
+- `INS-260403-867B` Structured, repeatable diligence processes outperform deeper but disorganized investigation.
+- `INS-260403-9D9E` Astia Fund's sift strategy represents a shift from network-dependent to systematic deal sourcing designed to reduce failure rates.
+- `INS-260403-E44E` Pre-seed due diligence must focus on founder qualities and market insight rather than traditional business metrics that don't yet exist.
+- `INS-260405-0D9F` Doing diligence well means returning to fundamental analysis — market size, unit economics, team quality — rather than momentum-chasing.
+- `INS-260405-3046` Euclid Ventures argues TAM-first VC filters are lazy and that multivariate risk assessment finds better Vertical AI winners.
+- `INS-260403-8806` VCs are adding tariff and geopolitical supply chain exposure to their standard due diligence frameworks, creating valuation pressure on exposed startups.
+- `INS-260405-7F42` Whether to back the jockey or the horse depends primarily on stage — founders matter most early, market matters most later.
+- `INS-260403-87D9` Most deal-killing risks at early stage live outside the financial model.
+- `INS-260403-35A6` VCs filter investments through five consistent criteria: market size, traction, unit economics, team, and competitive moat.
+- `INS-260403-6EC8` VCs face structural information disadvantages vs public market investors because private companies control what gets reported and many VCs lack accounting expertise.

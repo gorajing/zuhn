@@ -60,8 +60,8 @@ related:
   - INS-260330-6418
   - INS-260405-B32E
   - INS-260404-1678
-  - INS-260409-2B3A
   - INS-260409-B704
+  - PRI-260412-A7FA
   - INS-260409-A62B
 ---
 Most attempts to teach intellectual honesty focus on cognitive techniques: look for counterexamples, steelman opposing views, check your priors. But smart people who know all these techniques still reason badly when their beliefs are threatened. Galef's diagnosis: the binding constraint is not cognitive capability, it is motivation. Scout mindset is the DESIRE to see what's really there, even when uncomfortable. Soldier mindset is the desire to defend whatever you already believe, even when wrong. The same person with the same cognitive toolkit can be a scout in one moment and a soldier in the next — the difference is which goal they're pursuing at that moment. This reframes epistemic improvement from 'learning techniques' to 'training motivation.' The techniques still matter, but only when you're already motivated to see clearly. When you're not, no amount of technique helps. This is why people who study rationality literature often fail to apply it in their own lives — they have the techniques but the soldier mode is firing when the stakes get personal.
