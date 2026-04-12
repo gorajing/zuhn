@@ -17,6 +17,7 @@
 - `INS-260330-E615` McDonald's failed when it adapted menus to local cultures but succeeded spectacularly when it kept the menu intact and hired locals to handle marketing.
 - `INS-260330-BE78` Both debaters agree that conservative withdrawal from academia accelerated its leftward drift, illustrating how disengagement from institutions causes them to radicalize faster.
 - `INS-260330-59FD` Airbnb declined to acquire their Rocket Internet clone despite the clone having 10x their funding and 10x their headcount, because the clone's mercenary culture would poison Airbnb's missionary DNA.
+- `INS-260405-F06C` Dismissing new ideas is not human nature — it's a cultural habit that formed when innovation happened too slowly to develop better customs, and it can change.
 - `INS-260323-53BF` Culture is not what you write on the wall — it is the collective habits of the superorganism that dictate day-to-day execution, and it changes only through iterative feedback loops, never by decree.
 - `INS-260403-14F4` Phrases like 'let's revisit later' and 'we need more data' feel reasonable but systematically introduce hesitation that calcifies into slow-moving culture.
 - `INS-260330-39D7` Sweating details that users never see installs a culture of precision that makes excellence self-reinforcing across the organization.
@@ -30,8 +31,6 @@
 - `INS-260405-4EAA` Silicon Valley's tolerance for weird ideas is a cultivated social custom that spread because it reliably produced better outcomes — not because its inhabitants are smarter or kinder.
 - `INS-260325-B14B` Before the 1500s, no major civilization believed in upward progress — history was seen as cyclical or as decline from a golden age.
 - `INS-260410-CC88` Greg Abel in the 2025 letter: 'Our role is stewardship. That stewardship has shaped a culture and reinforced a set of values that are not the result of our success, but the reason for it.'
-- `INS-260405-F06C` Dismissing new ideas is not human nature — it's a cultural habit that formed when innovation happened too slowly to develop better customs, and it can change.
-- `INS-260403-922C` Startup ecosystems require blanket tolerance for strangeness because you can't predict which weird ideas will become valuable.
 - `INS-260321-C292` After the movie 300, Navy SEAL recruitment spiked — entertainment that inspires heroism and optimism creates the cultural conditions for industrial mobilization.
 - `INS-260322-D57C` When scaling, CEOs cannot just delegate customer-facing work — they must personally demonstrate the brand's standard alongside new employees so sensibility transfers through shared experience.
 - `INS-260330-1B37` Airbnb spent 5 months hiring their first employee and only hired two people in year one because early hire quality is existential.
@@ -47,6 +46,7 @@
 - `INS-260405-C8BC` Costco pays double the retail average and gets triple the productivity — the premium pays for itself with room to spare.
 - `INS-260403-D966` Good programmers want to work with other good programmers, so talent decline is a one-way ratchet.
 - `INS-260403-74E5` Startup ideas look crazy at first, so only cultures that tolerate oddness allow them to develop past the social-filtering stage.
+- `INS-260403-922C` Startup ecosystems require blanket tolerance for strangeness because you can't predict which weird ideas will become valuable.
 - `INS-260404-E6E0` Silicon Valley's advantage is not superior people but a cultural custom of treating early work charitably — a custom any community can develop.
 - `INS-260404-A1BA` Harsh judgment of early work is a cultural habit, not human nature, and environments like Silicon Valley prove it can be unlearned.
 - `INS-260404-695D` We judge early ambitious work harshly because we have no cultural customs for it, not because skepticism is hardwired.
@@ -80,8 +80,8 @@
 - `INS-260410-AFB9` Benchmark commissioned a custom round table where no sidebar conversation is possible because everyone hears everything — destroying the hierarchy a rectangular table embeds and the atomization a circular table creates.
 - `INS-260410-DB84` Dismantle comp structures that pay people for outcomes you'd regret — expect attrition, and treat that attrition as a feature.
 - `INS-260403-8A29` Startup culture spreads slowly because it requires societies to tolerate the social disruption of flattening hierarchies.
-- `INS-260405-339F` Idea-friendly cultures are not values-based — they're incentive-selected, which means they're replicable wherever the incentives align.
 - `INS-260330-766D` Alfred Lin's principle from Zappos — culture and brand are two sides of the same coin — means that whatever happens inside the company eventually comes out.
+- `INS-260405-339F` Idea-friendly cultures are not values-based — they're incentive-selected, which means they're replicable wherever the incentives align.
 - `INS-260330-D272` Chesky argues that if you want to build and sell a company in one year, the best advice is to skip culture entirely — culture's ROI is exclusively long-term.
 - `INS-260330-4A16` Culture is the set of invariants you maintain as you get involved in exponentially fewer decisions over time.
 - `INS-260403-FD6A` In lean teams, culture (shared values + async transparency + clear goals) must do the coordination work that hierarchy handles in larger organizations.

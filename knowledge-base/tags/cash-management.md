@@ -1,8 +1,8 @@
 # Tag: cash-management
 
-- `INS-260403-2A30` A clear cash runway model turns the existential threat of running out of money into a series of calm, informed decisions.
 - `INS-260405-13C5` Spending on acquisition before proving unit economics is the most common cash-kill mechanism in SaaS.
 - `INS-260405-B361` Runway tools derive value from proactive scenario modeling before each hire or campaign, not retrospective tracking.
+- `INS-260403-2A30` A clear cash runway model turns the existential threat of running out of money into a series of calm, informed decisions.
 - `INS-260405-B967` Headcount growth should be tied to revenue milestones, not fundraising events or growth ambition.
 - `INS-260403-7318` Startups with 18+ months of runway are 3x more likely to secure follow-on funding because runway signals discipline and reduces investor risk perception.
 - `INS-260403-FB0C` Cash crises are predictable and preventable with forward-looking financial models that account for timing effects.

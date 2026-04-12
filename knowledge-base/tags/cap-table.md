@@ -1,8 +1,5 @@
 # Tag: cap-table
 
-- `INS-260403-402F` A messy cap table during due diligence signals broader operational dysfunction and is one of the fastest deal-killers in venture financing.
-- `INS-260405-EB05` Investing at a $16M post-money and watching the company raise at $250M post-money looks like 15.6x on paper but nets only 5.5x after accounting for dilution from subsequent rounds.
-- `INS-260403-A7D6` Fixing deal-breakers others walk away from is the most defensible form of VC value-add.
 - `INS-260403-5365` Structured, data-driven equity splits based on measurable contributions outperform equal or gut-feel defaults.
 - `INS-260405-5BA9` Equity fundraising is often chosen by default rather than necessity, costing founders compounding ownership they never recover.
 - `INS-260402-3D34` Excessive early dilution locks in low valuations that create down-round dynamics or insufficient upside for later-stage investors.
@@ -29,3 +26,6 @@
 - `INS-260403-A9F2` Venture debt warrants typically dilute founders 0.5-2% versus 15-25% for an equity round, making it dramatically cheaper in ownership terms.
 - `INS-260403-11E3` Exit waterfall modeling reveals how deal terms actually distribute value at different exit sizes, exposing whether employee equity retains meaningful upside.
 - `INS-260405-B01A` Deal mechanics and preference stacks can legally redirect all exit proceeds away from founders regardless of valuation.
+- `INS-260403-402F` A messy cap table during due diligence signals broader operational dysfunction and is one of the fastest deal-killers in venture financing.
+- `INS-260405-EB05` Investing at a $16M post-money and watching the company raise at $250M post-money looks like 15.6x on paper but nets only 5.5x after accounting for dilution from subsequent rounds.
+- `INS-260403-A7D6` Fixing deal-breakers others walk away from is the most defensible form of VC value-add.

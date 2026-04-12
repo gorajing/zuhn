@@ -1,11 +1,8 @@
 # Tag: incentive-alignment
 
 - `INS-260330-819E` Learn-to-code initiatives serve institutional goals (tax revenue, labor supply) more than the individual learners they claim to help.
-- `INS-260327-F9C3` VCs need radical ideas and founders want to start businesses on someone else's dime -- both sides must perform to reach the same payday, and since winning once in tech is enough, there is a near-infinite pool of aspiring participants willing to forgive past failures.
-- `INS-260327-A00A` Coalitions held together by gold rather than shared survival instinct are brittle under battlefield pressure.
-- `INS-260410-AA87` Mao kept exporting grain while 40 million Chinese starved because food exports were 'his pocket change' — the main source of government income he needed to fund anything else.
-- `INS-260403-FAC6` Just as capitalism incentivizes addictive products that exploit gaps between consumer desire and consumer welfare, democracy incentivizes destructive proposals that exploit gaps between voter perception and actual policy impact.
 - `INS-260403-2AC0` Coercing a hostile vendor to build your weapons is self-defeating regardless of their technical capability.
+- `INS-260403-FAC6` Just as capitalism incentivizes addictive products that exploit gaps between consumer desire and consumer welfare, democracy incentivizes destructive proposals that exploit gaps between voter perception and actual policy impact.
 - `INS-260403-22ED` When people's financial incentives align with others' success, genuine cultures of encouragement emerge over time.
 - `INS-260327-D480` In 1965, CEOs earned 20x average employees; today it's 300x+, almost entirely in stock-based compensation that incentivizes price manipulation over business building.
 - `INS-260403-81BD` Industries with misaligned incentives between providers, payers, and consumers are vulnerable to fintech-enabled marketplace disruption.
@@ -21,9 +18,9 @@
 - `INS-260404-DF95` Payment friction acts as a quality filter that ad-supported models lack, because people won't pay for content they only rage-engage with.
 - `INS-260330-DC0D` McDonald's beat competitors by taking a 1.4% revenue cut instead of overpricing supplies, aligning franchisor and franchisee interests.
 - `INS-260403-4F0D` Structurally misaligned incentives among transaction participants (dealers, lenders, buyers) create the friction that fintech-enabled marketplaces can profitably eliminate.
-- `INS-260330-4553` When eBay switched affiliate payouts from confirmed registrations to activated users, registrations dropped 20% but active users only dropped 5% — then growth accelerated.
 - `INS-260330-9C48` When eBay switched from paying affiliates per confirmed registration to per activated user, registrations dropped 20% but active users only dropped 5% -- then growth accelerated.
 - `INS-260330-70BC` eBay switched affiliate payouts from confirmed registrations to activated users, lost 20% registrations but only 5% active users — then growth accelerated.
+- `INS-260330-4553` When eBay switched affiliate payouts from confirmed registrations to activated users, registrations dropped 20% but active users only dropped 5% — then growth accelerated.
 - `INS-260403-3C2D` The carry waterfall structure determines whether your VC is incentivized for patient long-term support or quick exits.
 - `INS-260403-028F` Startup investors need domain expertise and skin in the game—two things structurally absent from government bureaucracies.
 - `INS-260402-8424` VCs invest in startups over ordinary businesses because equity-based returns through IPO/acquisition prevent the agency problem of founders self-dealing through inflated expenses.
@@ -34,3 +31,6 @@
 - `INS-260403-4F68` Vendors offer credits to lock in early-stage companies before switching costs become prohibitive, which gives growth-stage founders leverage to renegotiate.
 - `INS-260330-5A4C` Running nodes must be culturally ingrained as a responsibility, not just technically possible, because without that culture economic pressure will centralize the network.
 - `INS-260405-8884` Costco earns 75% of profit from membership fees, so raising prices costs more in renewals than it gains in margins — the structure enforces customer-first behavior.
+- `INS-260327-F9C3` VCs need radical ideas and founders want to start businesses on someone else's dime -- both sides must perform to reach the same payday, and since winning once in tech is enough, there is a near-infinite pool of aspiring participants willing to forgive past failures.
+- `INS-260327-A00A` Coalitions held together by gold rather than shared survival instinct are brittle under battlefield pressure.
+- `INS-260410-AA87` Mao kept exporting grain while 40 million Chinese starved because food exports were 'his pocket change' — the main source of government income he needed to fund anything else.

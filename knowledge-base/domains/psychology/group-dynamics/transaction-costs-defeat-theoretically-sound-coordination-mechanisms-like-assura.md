@@ -53,6 +53,6 @@ related:
   - INS-260403-586C
   - PRI-260328-6BC1
   - PRI-260327-8D8C
-  - PRI-260403-7E5E
+  - INS-260411-27AA
 ---
 Economists have designed dominant assurance contracts that theoretically solve free-rider problems without government force — yet no serious person would replace military taxation with one. The failure modes are not about incentives but about human limitations: some people never hear about the contract, others procrastinate indefinitely, some lack liquidity, others construct incorrect theories about how signing hurts them, and many simply lack the reasoning skills to evaluate coordination problems. These transaction costs are not market imperfections to be engineered away — they are fundamental features of human cognition that apply equally to charitable giving. This insight undermines the libertarian assumption that voluntary coordination can replace government action whenever free-rider problems are absent, because the real bottleneck is human attention and decision-making capacity, not incentive alignment.

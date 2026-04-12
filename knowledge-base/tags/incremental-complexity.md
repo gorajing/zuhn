@@ -1,3 +1,3 @@
 # Tag: incremental-complexity
 
-- `INS-260329-8330` Progressive mini-projects that layer new concepts onto familiar ones create the most effective programming learning paths.
+- `INS-260411-BCB0` Build and debug a sequential agent chain first, then add parallelism, loops, or routing only when the simple version works.

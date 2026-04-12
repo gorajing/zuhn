@@ -1,6 +1,6 @@
 # Topic: agent-patterns
 
-> 101 insights
+> 109 insights
 
 - `INS-260321-18D0` [very_high] Your bottleneck shifted from typing speed to token throughput — maximize how many agent sessions you can run in parallel, not how fast you code.
 - `INS-260321-2482` [high] When agents fail, the instinct now is 'I gave bad instructions' not 'the AI can't do this' — most failures are configuration problems, not capability limits.
@@ -34,12 +34,14 @@
 - `INS-260410-01BC` [high] When a tool returns large data, filter and aggregate it in the code execution sandbox and only log the relevant slice.
 - `INS-260410-85AD` [high] Give the agent browser automation (e.g., Puppeteer MCP) and explicitly prompt it to verify every feature as a human user would, end-to-end.
 - `INS-260326-9402` [high] Andrew Ng identifies four core agentic design patterns — reflection, tool use, planning, and multi-agent collaboration — that when combined enable AI systems to iteratively solve problems far beyond zero-shot capability.
+- `INS-260411-8034` [high] Use condition-based exit (exit on 'PASS') rather than fixed iteration counts for generator-critic loops to balance quality with efficiency.
 - `INS-260410-095B` [high] Add a think tool (a no-op that just logs a thought) so the agent can stop and reason about tool outputs before acting again.
 - `INS-260320-9D89` [high] Give agents very specific roles and clear instructions on what to RETURN — prevents 'I fixed it!' without details.
 - `INS-260410-B0D6` [high] Every harness workaround encodes an assumption about what the model can't do; those assumptions decay fast and need to be re-tested on each model upgrade.
 - `INS-260410-E27A` [high] Tool error responses are prompt-engineering surfaces — use them to teach agents correct usage, not just to report failure.
 - `INS-260409-8408` [high] MemPalace's 4-layer stack (L0 identity always loaded at ~50 tokens, L1 critical facts always loaded at ~120 tokens, L2 room recall on demand, L3 deep search on demand) gives agents ~170 tokens of persistent identity before any query fires.
 - `INS-260327-7F56` [high] ChatGPT Agent was designed to mirror Slack-style human delegation: both parties can initiate communication, the agent asks clarifying questions, and users can interrupt with corrections mid-task.
+- `INS-260411-27AA` [high] Gate human approval on irreversible or high-consequence actions only — routine gating causes approval fatigue that defeats the safety purpose.
 - `INS-260403-834C` [high] Human-readable inter-agent communication channels are a critical safety mechanism because they enable behavioral monitoring that opaque formats prevent.
 - `INS-260410-1B17` [high] Schemas express what is valid; examples express what is idiomatic — and models need the latter to call complex tools correctly.
 - `INS-260410-19DE` [high] Smart agents use file paths, queries, and links to fetch data on demand — like humans use file systems and bookmarks rather than memorizing everything.
@@ -50,8 +52,10 @@
 - `INS-260410-BBC1` [high] Prompt every session to run the same opening sequence: pwd, read progress file, read feature list, check git log, run init.sh, run a basic end-to-end smoke test, then pick a feature.
 - `INS-260410-CD79` [high] Anthropic's SOTA SWE-bench agent used only a prompt plus a Bash tool and an edit tool, deliberately avoiding hardcoded step transitions.
 - `INS-260410-566F` [high] Multi-agent BrowseComp runs hit unintended-solution rates of 0.87% vs 0.24% single-agent — a 3.7x amplification just from more parallel shots at the problem.
+- `INS-260411-F590` [high] Assign specific roles to individual agents for modularity, testability, and reliability rather than overloading a single agent.
 - `INS-260410-77E5` [high] Multi-agent systems burn ~15x the tokens of a chat and only pay off for parallelizable, high-value research tasks — not coding or tightly-coupled domains.
 - `INS-260409-2A51` [high] Jerry Liu: 'You can take a question, break it down into smaller components and use that to actually send to your retrieval system. And that gives you better results' than passing the full question as a single vector lookup.
+- `INS-260411-52C8` [high] When running agents in parallel with shared session state, assign each agent a unique output_key to prevent data corruption.
 - `INS-260410-7ED2` [high] When 16 agents all hit the same bug compiling one giant artifact, decompose by using a known-good oracle to narrow the failing subset per agent.
 - `INS-260405-82DD` [high] Context windows are RAM-like quick access, but persistent agents also need hard-drive-like selective memory systems that choose what to retain.
 - `INS-260410-545A` [high] Have the initializer write a comprehensive JSON feature list with each feature marked failing, and forbid the coding agent from editing anything except the passes field.
@@ -64,7 +68,9 @@
 - `INS-260327-26BF` [high] ChatGPT Agent unified deep research's text browser, operator's visual browser, and a terminal with shared file system, producing 1+1+1=5 capabilities because tools can pass state to each other.
 - `INS-260410-53C2` [high] Use a specialized first-session initializer agent to create scaffolding (feature list, progress file, init.sh, git repo), then run identical coding agents on subsequent sessions that only do incremental work.
 - `INS-260410-BBEA` [high] Agent frameworks hide the underlying prompts and make debugging harder, so start with direct LLM API calls — most patterns are a few lines of code — and adopt frameworks only when their value exceeds the opacity cost.
+- `INS-260411-BCB0` [high] Build and debug a sequential agent chain first, then add parallelism, loops, or routing only when the simple version works.
 - `INS-260410-EE37` [high] Keep the full session durable outside the context window and let the harness re-hydrate slices via getEvents(), instead of compacting or trimming in place and losing tokens you can't recover.
+- `INS-260411-6106` [high] Write sub-agent descriptions with the same precision as API documentation — they are the routing signal for LLM-driven delegation.
 - `INS-260410-E4C4` [high] 'Is this beautiful?' is unanswerable, but 'does this follow our design principles?' gives the model something concrete to grade against.
 - `INS-260410-6ABA` [high] Only add the think tool where mistakes compound across sequential decisions — otherwise you're paying tokens for nothing.
 - `INS-260405-AFF7` [high] MiniMax's Linda frames three coding eras — GUI copilots, CLI agents, and autonomous agent swarms — all emerging within months and coexisting rather than replacing each other.
@@ -77,6 +83,7 @@
 - `INS-260410-E658` [high] Let agents write while-loops and if-statements as code rather than rerunning the model to evaluate each branch.
 - `INS-260410-199B` [high] pass@k rewards capability ceiling; pass^k rewards floor consistency — the metric that actually matters for production agents.
 - `INS-260410-1030` [high] Workflows orchestrate LLMs through predefined code paths; agents let LLMs dynamically direct their own process and tool use — pick deliberately based on whether you need predictability or flexibility.
+- `INS-260411-5478` [high] Use AgentTool to wrap a sub-agent hierarchy as a callable function, letting parent agents delegate without managing internals.
 - `INS-260410-F259` [high] System prompts fail at two extremes: brittle hardcoded if-else logic or vague high-level guidance — aim for the middle altitude.
 - `INS-260405-6A0C` [medium] A generative agent paired with a filtering agent that blocks unsupported claims achieves expert-level accuracy in medical advice.
 - `INS-260325-BC2A` [medium] Ron from Open Router predicted the agent adoption curve in enterprises will compress from years to months as coalitions form around industry-specific secure deployment standards.
@@ -102,5 +109,6 @@
 - `INS-260405-02BE` [medium] Storing rejection events alongside successful retrievals lets agents learn what not to suggest, creating a temporal record of evolving preferences.
 - `INS-260327-35C7` [medium] Physical AI will develop reasoning in trajectory and motion space, complementing text-based reasoning and potentially improving LLMs in return.
 - `INS-260405-2BB0` [medium] The speaker's Claude-based agent on a Raspberry Pi autonomously wrote its own Neo4j memory skill and immediately began using it to persist knowledge, with no human code involved.
+- `INS-260411-D060` [medium] Use session.state with descriptive output_key names as the shared whiteboard for agent coordination — it's simpler and more debuggable than message passing.
 - `INS-260410-BDFF` [medium] Assign a subset of parallel agents to cross-cutting concerns — dedup, perf, Rust idiom critique, docs — rather than putting all agents on the main task.
 - `INS-260405-F3C0` [medium] Photosynthesis separates light capture (producing ATP/NADPH) from carbon fixation (the Calvin Cycle) because raw photon input is too volatile to drive complex chemistry directly.

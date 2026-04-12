@@ -47,11 +47,11 @@ stance: >-
   decision that separates maintainable object-oriented code from tangled state
   management, because static members create implicit global coupling.
 related:
+  - INS-260411-D060
+  - INS-260411-52C8
   - INS-260329-4D03
   - INS-260327-91C7
   - INS-260330-AB62
-  - INS-260409-05F8
-  - INS-260327-C69F
 ---
 The tutorial demonstrates static class variables that are shared across all objects of a class — changing the value in one place affects all instances. This is contrasted with instance variables where each object maintains its own copy. The tutorial uses the example of a Song class where a shared song count increments whenever any new Song is created.
 

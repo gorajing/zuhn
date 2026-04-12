@@ -11,7 +11,6 @@
 - `INS-260330-4AD5` AI improves its usability faster than you can learn tricks, so just speak naturally and let the models catch up to you.
 - `INS-260403-699A` AI dev tools form a three-tier hierarchy: chatbots for single pages, cloud environments for multi-feature prototypes, and local IDEs for production apps.
 - `INS-260323-AF7B` AI programming tools have a unique competitive dynamic where every model improvement creates new product possibilities, making iteration speed the primary moat over incumbents.
-- `INS-260405-11EA` Flybridge's AI memo generator is an early signal that VC's information-processing work is automatable, concentrating value on the parts that aren't.
 - `INS-260330-27DD` AI tutoring's real power is meeting you at your exact level — eighth grade vocabulary with fifth grade math — so you're always at the edge of understanding, never lost or bored.
 - `INS-260403-CAB4` One or two founders can now handle the workload that previously required a five-person team by combining AI, no-code, and on-demand freelancers.
 - `INS-260404-2523` AI-powered tools now let solo founders handle engineering, design, and ops tasks that previously required a cofounder or early team.
@@ -26,7 +25,8 @@
 - `INS-260328-B57E` Do not be discouraged by others' growth, but do not accept slow growth either — better tools mean you should be going faster than before.
 - `INS-260404-3CBE` Consolidating fundraising into a single AI-augmented platform creates compounding advantages over fragmented tool stacks.
 - `INS-260403-4365` Carta data shows solo founders hit 35% of the 2024 class, with soonicorns like BuiltWith ($14M/year, 1 employee) proving the one-person unicorn is approaching reality.
-- `INS-260403-2B09` AI and no-code platforms have collapsed the cost of startup operations so dramatically that most software startups no longer need venture-scale capital.
-- `INS-260404-1CC0` As building barriers collapse, competitive moats migrate from technical capability to distribution and taste.
 - `INS-260329-F7F4` When a functional prototype costs 15 minutes instead of 3 months, validation shifts from optional luxury to mandatory first step.
 - `INS-260403-49D1` AI prototyping success depends more on precise follow-up prompts describing exact changes than on the quality of the initial generation prompt.
+- `INS-260403-2B09` AI and no-code platforms have collapsed the cost of startup operations so dramatically that most software startups no longer need venture-scale capital.
+- `INS-260404-1CC0` As building barriers collapse, competitive moats migrate from technical capability to distribution and taste.
+- `INS-260405-11EA` Flybridge's AI memo generator is an early signal that VC's information-processing work is automatable, concentrating value on the parts that aren't.

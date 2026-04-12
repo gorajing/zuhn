@@ -1,13 +1,13 @@
 # Domain: ai-development
 
-> 1682 insights across 40 topics
+> 1690 insights across 40 topics
 
 ## Topics
 
 | Topic | Insights | Preview |
 | ----- | -------- | ------- |
 | adoption | 48 | An MIT study found 95% of companies investing in AI tools saw zero return, pointing to a gap between AI capability and organizational readiness to deploy it effectively. |
-| agent-patterns | 101 | A generative agent paired with a filtering agent that blocks unsupported claims achieves expert-level accuracy in medical advice. |
+| agent-patterns | 109 | A generative agent paired with a filtering agent that blocks unsupported claims achieves expert-level accuracy in medical advice. |
 | agents | 19 | ReAct is an introduction to agent reasoning, not a complete architecture for production systems. |
 | ai-agents | 64 | AI agents' biggest value is eliminating the friction between idea and implementation, not writing code faster. |
 | ai-automation | 29 | Improving multi-agent systems requires observability into inter-agent conversations -- GPTers built a dashboard to view session-send exchanges between agents to understand how to improve their collaboration. |

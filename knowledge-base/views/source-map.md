@@ -1,5 +1,5 @@
 # Source Map
-Generated on 2026-04-12 | 2316 sources
+Generated on 2026-04-12 | 2317 sources
 
 | Source | Type | Insights | Date |
 |--------|------|----------|------|
@@ -175,6 +175,7 @@ Generated on 2026-04-12 | 2316 sources
 | Yuval Noah Harari: Why advanced societies fall for mass delusion | youtube | 9 | 2026-03-25 |
 | Zimbabwe’s Currency Crisis: the worthless $100 trillion bill | youtube | 9 | 2026-03-30 |
 | A Treatise on AI Chatbots Undermining the Enlightenment | blog | 8 | 2026-04-10 |
+| Developer’s guide to multi-agent patterns in ADK- Google Developers Blog | blog | 8 | 2026-04-12 |
 | Home-Cooked Software and Barefoot Developers | blog | 8 | 2026-04-10 |
 | Julia Galef on the Scout Mindset - Econlib | blog | 8 | 2026-04-10 |
 | RAG Is A Hack - with Jerry Liu from LlamaIndex | blog | 8 | 2026-04-10 |

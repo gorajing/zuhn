@@ -1,11 +1,14 @@
 # Tag: industrial-policy
 
 - `INS-260409-BBBA` 10 years ago China published 50% of US research papers; last year it published 50% more. The inversion extends beyond AI into biotech, materials, and life sciences — with China becoming a scientific leader, not just a copycat.
+- `INS-260403-5A4C` China's playbook of picking national champions, subsidizing them infinitely, and pricing below cost has captured steel, solar, drones, and EVs — and private firms cannot compete on price alone.
+- `INS-260403-2FB2` Research on the First China Shock shows that import competition simultaneously hurt profits and workers while increasing innovation, R&D, and productivity — accounting for ~15% of European technology upgrading from 2000-2007.
+- `INS-260403-44D9` EV technology shares components with drones, robots, and electronics, so low EV adoption limits scale for the entire manufacturing ecosystem.
+- `INS-260409-8B3D` Napier: the investment question for the next 10-15 years is not 'which company wins' but 'who gets cheap credit and who gets excluded' — winners are re-industrialization, rearmament, defense, energy, robotics, and old-economy manufacturing.
+- `INS-260410-9E2D` Post-war West Germany set 95% marginal tax rates on industrialists, forcing Porsche and its peers to plow royalties and profits into R&D, racing, and new models rather than take them out — producing decades of compounding brand and engineering assets.
 - `INS-260410-4357` At scale, effectiveness of achieving outcomes matters more than efficiency of resource use — the 'waste' in China's growth was the mechanism that produced the growth.
 - `INS-260405-24F0` Britain's relative manufacturing share predicted its WWI dependency on America decades before the war; today's US-China manufacturing gap signals a similar structural shift.
 - `INS-260410-731D` China's banking system lets strategic-sector companies borrow on the promise of producing units, not profits — which produces world-leading manufacturing capacity alongside massive capital destruction.
-- `INS-260409-8B3D` Napier: the investment question for the next 10-15 years is not 'which company wins' but 'who gets cheap credit and who gets excluded' — winners are re-industrialization, rearmament, defense, energy, robotics, and old-economy manufacturing.
-- `INS-260410-9E2D` Post-war West Germany set 95% marginal tax rates on industrialists, forcing Porsche and its peers to plow royalties and profits into R&D, racing, and new models rather than take them out — producing decades of compounding brand and engineering assets.
 - `INS-260403-1462` Defense-industrial catch-up requires allied co-manufacturing because domestic reshoring timelines are too slow against urgent threats.
 - `INS-260410-3F35` 25 years of 50/50 JVs produced zero Chinese auto champions; 18 months of Tesla competing directly taught BYD the consumer design it needed to become world-class.
 - `INS-260410-2D8E` China's central economic distortion is too much supply and too little demand — the inverse of America's NIMBY scarcity model.
@@ -28,6 +31,3 @@
 - `INS-260403-2B95` The same core components (batteries, motors, power electronics) underpin EVs, drones, robots, and AI data centers, making them a single interconnected industrial revolution.
 - `INS-260405-1CC3` The US-Taiwan deal reduces tariffs from 20% to 15% contingent on $500B in US semiconductor investment, making trade policy a reshoring mechanism.
 - `INS-260405-5856` When hundreds of local governments simultaneously subsidize competing firms in the same industry, the winning national champion emerges alongside massive excess capacity.
-- `INS-260403-5A4C` China's playbook of picking national champions, subsidizing them infinitely, and pricing below cost has captured steel, solar, drones, and EVs — and private firms cannot compete on price alone.
-- `INS-260403-2FB2` Research on the First China Shock shows that import competition simultaneously hurt profits and workers while increasing innovation, R&D, and productivity — accounting for ~15% of European technology upgrading from 2000-2007.
-- `INS-260403-44D9` EV technology shares components with drones, robots, and electronics, so low EV adoption limits scale for the entire manufacturing ecosystem.

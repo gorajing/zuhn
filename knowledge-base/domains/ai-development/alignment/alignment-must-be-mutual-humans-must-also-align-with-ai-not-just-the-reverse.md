@@ -51,7 +51,6 @@ related:
   - INS-260405-C592
   - INS-260330-CA88
   - INS-260325-C2BD
-  - INS-260329-0EAC
 evidence:
   - id: INS-260330-CA88
     type: CHALLENGES

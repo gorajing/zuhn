@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-12 | 4835 actionable insights
+Generated on 2026-04-12 | 4843 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -97,6 +97,14 @@ Generated on 2026-04-12 | 4835 actionable insights
 - [INS-260410-53C2] Use a specialized first-session initializer agent to create scaffolding (feature list, progress file, init.sh, git repo), then run identical coding agents on subsequent sessions that only do incremental work.
 - [INS-260410-E658] Let agents write while-loops and if-statements as code rather than rerunning the model to evaluate each branch.
 - [INS-260409-2A51] Jerry Liu: 'You can take a question, break it down into smaller components and use that to actually send to your retrieval system. And that gives you better results' than passing the full question as a single vector lookup.
+- [INS-260411-8034] Use condition-based exit (exit on 'PASS') rather than fixed iteration counts for generator-critic loops to balance quality with efficiency.
+- [INS-260411-27AA] Gate human approval on irreversible or high-consequence actions only — routine gating causes approval fatigue that defeats the safety purpose.
+- [INS-260411-F590] Assign specific roles to individual agents for modularity, testability, and reliability rather than overloading a single agent.
+- [INS-260411-52C8] When running agents in parallel with shared session state, assign each agent a unique output_key to prevent data corruption.
+- [INS-260411-D060] Use session.state with descriptive output_key names as the shared whiteboard for agent coordination — it's simpler and more debuggable than message passing.
+- [INS-260411-BCB0] Build and debug a sequential agent chain first, then add parallelism, loops, or routing only when the simple version works.
+- [INS-260411-6106] Write sub-agent descriptions with the same precision as API documentation — they are the routing signal for LLM-driven delegation.
+- [INS-260411-5478] Use AgentTool to wrap a sub-agent hierarchy as a callable function, letting parent agents delegate without managing internals.
 
 ## ai-development/agents
 - [INS-260405-FE94] Coinbase's Agentic Wallets let AI agents hold funds, pay for APIs, and execute trades without human approval at each step.

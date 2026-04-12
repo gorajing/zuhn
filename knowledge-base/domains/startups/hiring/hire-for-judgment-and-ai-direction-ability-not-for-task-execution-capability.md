@@ -53,11 +53,11 @@ related:
   - INS-260323-2AE2
   - INS-260323-C984
   - INS-260325-E0D5
-  - INS-260322-DAFB
   - PRI-260323-50FE
   - INS-260327-A817
   - INS-260327-6FFC
   - INS-260327-0762
+  - PRI-260328-9F8C
 ---
 Dario's framework implies a radical shift in what makes employees valuable. If AI handles 90% of what employees do today, the remaining 10% — judgment calls, taste decisions, strategic direction, AI orchestration — becomes the entire job description. Writing 90% of the code means nothing if the job is only 30% code; the rest is design, debugging, communication, and leadership.
 

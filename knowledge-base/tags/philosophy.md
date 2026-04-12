@@ -8,7 +8,6 @@
 - `INS-260403-AB55` The philosophical framework of evaluating AI behavior by external causes and effects rather than internal experience dissolves the reality/roleplay debate into something empirically testable.
 - `INS-260323-D8B9` Hamkins' mathematical multiverse view holds that different foundational axiom systems (ZFC, ZFC + large cardinals, constructive math) produce genuinely different mathematical universes -- there is no single 'true' foundation.
 - `INS-260409-2093` Hassabis worries most about post-AGI philosophy — meaning, purpose, consciousness, what it is to be human — and says we lack modern philosophers equipped for it.
-- `INS-260330-B08E` Assigning equal prior probability to simulation and non-simulation scenarios, Bayesian averaging always yields sub-50% simulation probability because base reality persists in both branches.
 - `INS-260403-9669` Daniel Dennett argues that qualia seem private and ineffable due to language failure, not because they are inherently unshareable.
 - `INS-260323-C4A2` Even in a fully deterministic universe, the inability to predict the future from within the system makes free will functionally real — a stance called compatibilism.
 - `INS-260327-D212` Once you genuinely question whether the self is real, whether time is linear, or whether consciousness is what it seems, you cannot fully return to your previous way of seeing.
@@ -17,6 +16,7 @@
 - `INS-260405-DB32` You are accountable for acting from your values, even if you didn't choose those values from scratch.
 - `INS-260402-26B0` Philosophy is structurally as young as math was in 1500 because most of its 2500-year history was spent on unproductive approaches derived from Aristotle's wrong turn.
 - `INS-260403-C6DC` The most useful philosophical knowledge is the highest-level abstraction extracted from deep mastery of a concrete field.
+- `INS-260330-B08E` Assigning equal prior probability to simulation and non-simulation scenarios, Bayesian averaging always yields sub-50% simulation probability because base reality persists in both branches.
 - `INS-260325-95EB` Cherry-picking from Stoicism, Epicureanism, and Buddhism feels open-minded but produces a framework that contradicts itself at every genuine decision point.
 - `INS-260325-E78D` Claiming you do not need a philosophy of life IS a philosophy of life — an unexamined one that probably serves you worse than a deliberate one.
 - `INS-260330-423B` Rogan argues that bombing repeatedly in comedy forces you to develop a genuine philosophy and unique perspective on life because you must confront why you're not connecting with audiences.

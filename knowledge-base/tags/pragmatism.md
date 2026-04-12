@@ -1,5 +1,6 @@
 # Tag: pragmatism
 
+- `INS-260411-BCB0` Build and debug a sequential agent chain first, then add parallelism, loops, or routing only when the simple version works.
 - `INS-260321-28FB` Galileo didn't invent the telescope — the future of AI will be determined by the people who wield it, not the labs that built it.
 - `INS-260330-12DC` Some false beliefs reliably produce better outcomes than acting on the known truth, creating a legitimate category of 'metaphorical truth.'
 - `INS-260404-6C8F` A 4%+ fatal error rate makes philosophical arguments for or against the death penalty moot — the implementation failure dominates.

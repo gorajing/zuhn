@@ -51,10 +51,10 @@ stance: >-
 related:
   - INS-260329-C4F5
   - INS-260330-D74A
+  - INS-260411-27AA
   - PRI-260405-CCCE
   - PRI-260323-FA42
   - INS-260410-F0EF
-  - INS-260404-B208
   - INS-260404-97AA
 ---
 Pew Research data shows 78% of people would reject a brain chip for cognitive enhancement, while 77% support BCIs for paralysis treatment. Neuralink exploited this asymmetry perfectly — launching with quadriplegic patients who gain obvious, sympathetic benefits. This is a textbook wedge strategy: enter where resistance is lowest, build clinical evidence, normalize the technology, then expand. The playbook mirrors LASIK (medical correction → elective enhancement) and cochlear implants (deaf community → hearing augmentation). For any startup working in controversial technology spaces, the insight is that the entry market should be chosen for social permission as much as for technical feasibility or market size.

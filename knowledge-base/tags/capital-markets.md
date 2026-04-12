@@ -1,6 +1,7 @@
 # Tag: capital-markets
 
 - `INS-260405-6E60` DeepSeek's App Store debut disrupted hundreds of billions in market cap overnight, signaling AI has become a macroeconomic force.
+- `INS-260403-713B` CB Insights reports $200B+ in AI funding and 75 new unicorns, but capital is concentrating in fewer, larger winners.
 - `INS-260409-3640` SaaS multiples are collapsing because if super-intelligence is coming, forward cash flows are uncertain, so investors are switching to 'how many years of FCF to earn back one share' as the real pricing heuristic.
 - `INS-260411-FC21` Capital formation drives GDP growth, R&D, and jobs — 80% of R&D and 70% of capex comes from large companies, and countries like Sweden that promote retail investment outperform those that don't.
 - `INS-260411-BC19` With PE holding periods doubling to 7 years and 13K companies staying private, the exit mechanism is broken — continuation funds and secondary sales are temporary fixes masking the underlying problem.
@@ -10,4 +11,3 @@
 - `INS-260405-3E92` MANG (Microsoft, Amazon, Alphabet, Nvidia) raised $25B+ in 2023 deals — roughly 8% of all North American venture capital — signaling Big Tech's structural entry into VC.
 - `INS-260403-7CAF` Cheap debt capital creates viable business models that wouldn't exist under pure equity financing.
 - `INS-260403-5941` Venture debt deal sizes and activity have grown substantially over the past decade, making it a standard tool rather than an exotic financing option.
-- `INS-260403-713B` CB Insights reports $200B+ in AI funding and 75 new unicorns, but capital is concentrating in fewer, larger winners.

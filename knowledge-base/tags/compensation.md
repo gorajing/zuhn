@@ -1,6 +1,5 @@
 # Tag: compensation
 
-- `INS-260410-4627` Rentech's 5-and-44 fee structure on a closed insider fund functions as a tenured university department would: senior partners (LPs) automatically transfer economic value to the current working team (GPs) through carry, keeping active researchers richly incentivized without requiring arbitrary annual bonus decisions.
 - `INS-260330-ACDA` Salary sharing in tech primarily serves status positioning, not transparency.
 - `INS-260330-B306` Developer satisfaction with pay is driven by peer comparison ($50K→$225K→$900K→$25M chain), not absolute income levels.
 - `INS-260330-E170` When founders don't pay themselves, a fired co-founder can use unpaid wage claims as leverage to negotiate vesting acceleration they wouldn't otherwise deserve.
@@ -36,3 +35,4 @@
 - `INS-260403-16B4` Performance-based pay in startups and professional services forces legacy organizations to match market rates or lose their best young talent.
 - `INS-260404-C13E` Costco pays double the retail average but gets triple the productivity — high wages are an investment with measurable ROI.
 - `INS-260405-6DAD` Founders taking equity upfront are making the same bet as ladder climbers — they've just restructured the timeline of risk and reward.
+- `INS-260410-4627` Rentech's 5-and-44 fee structure on a closed insider fund functions as a tenured university department would: senior partners (LPs) automatically transfer economic value to the current working team (GPs) through carry, keeping active researchers richly incentivized without requiring arbitrary annual bonus decisions.

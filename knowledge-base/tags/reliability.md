@@ -1,6 +1,7 @@
 # Tag: reliability
 
 - `INS-260410-095B` Add a think tool (a no-op that just logs a thought) so the agent can stop and reason about tool outputs before acting again.
+- `INS-260411-F590` Assign specific roles to individual agents for modularity, testability, and reliability rather than overloading a single agent.
 - `INS-260410-9D86` Invest as much effort in agent-computer interfaces as you would in human-computer interfaces — clear tool descriptions, example usage, poka-yoke constraints, and formats close to natural training data all compound into reliability.
 
 - `INS-260410-199B` pass@k rewards capability ceiling; pass^k rewards floor consistency — the metric that actually matters for production agents.

@@ -4,8 +4,6 @@
 - `INS-260327-7C69` Cursor built a decisive competitive advantage by using its own IDE as an RL environment to post-train models, a pattern every AI company should adopt.
 - `INS-260327-5E40` Prompts reset every session; training data compounds institutional knowledge over time, creating a moat that deepens with each iteration.
 - `INS-260327-F316` Mati argues that while foundation model providers may match ElevenLabs on voice research, the competitive moat is product platform depth and taste that takes thousands of iterations to achieve.
-- `INS-260411-C094` JPM's 20-year track record of maintaining a fortress balance sheet — $1.4T+ in liquid assets, 20% ROTCE through cycles — demonstrates that conservative capital management is itself a growth strategy.
-- `INS-260327-BF38` Napoleon's corps system gave France 10 years of military dominance because it took that long for other armies to adopt the same organizational innovation.
 - `INS-260402-5BE6` AI handles top-of-funnel informational queries well, but struggles to replicate case studies, product comparisons, and implementation guides rooted in real experience.
 - `INS-260403-E4B3` AI lowers the cost of copying products, so brand and narrative become the hardest-to-replicate assets.
 - `INS-260329-E8EB` Speed advantage compounds: each ship-test-iterate cycle generates user insights that make the next cycle more targeted, creating a learning gap not just a time gap.
@@ -29,3 +27,5 @@
 - `INS-260403-5C06` NFX's 5-level AI spectrum shows most founders default to AI enhancement (L1-3) rather than pursuing AI-first products (L4-5) where transformative value lives.
 - `INS-260330-F3E4` Harry Sonneborn's franchise realty strategy gave McDonald's control over operators, a new 8.5% revenue stream, and balance sheet assets for bank financing — all from one move.
 - `INS-260405-2422` All-in-one platforms that actually work create moats through workflow integration that point solutions can't replicate.
+- `INS-260411-C094` JPM's 20-year track record of maintaining a fortress balance sheet — $1.4T+ in liquid assets, 20% ROTCE through cycles — demonstrates that conservative capital management is itself a growth strategy.
+- `INS-260327-BF38` Napoleon's corps system gave France 10 years of military dominance because it took that long for other armies to adopt the same organizational innovation.

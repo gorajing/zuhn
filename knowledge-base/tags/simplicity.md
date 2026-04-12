@@ -2,13 +2,11 @@
 
 - `INS-260410-0E26` Start with single LLM calls plus retrieval and examples; add workflow complexity only when a simpler solution measurably fails, and add autonomous agents only when workflows measurably fail.
 - `INS-260330-D3F5` LLM complexity comes from massive repetition of a few simple matrix operations, not from architectural diversity.
-- `INS-260409-3EB3` Most of what local communities and individuals need from software is simple CRUD persisting data over time with basic user authentication and a few API calls — not the industrial-scale complexity of enterprise software that must serve millions, handle conflicting needs, and scale for VC returns.
 - `INS-260410-AC0B` DeepSeek's research taste is visible in how iteratively and transparently they trade off hardware constraints (memory bandwidth vs. flops) for algorithmic structure, producing simple solutions rather than ornamented ones.
+- `INS-260409-3EB3` Most of what local communities and individuals need from software is simple CRUD persisting data over time with basic user authentication and a few API calls — not the industrial-scale complexity of enterprise software that must serve millions, handle conflicting needs, and scale for VC returns.
 - `INS-260330-E059` 300 rotating arrows, each performing the simplest possible motion (constant-rate rotation), compose to trace any arbitrary shape — a principle that extends to neural networks and modular system design.
 - `INS-260329-CB03` Comments should explain why, not what — if code needs a comment to explain what it does, the code itself should be rewritten.
 - `INS-260410-264E` If your corpus is under ~500 pages, just put the whole thing in the prompt and cache it — no RAG infrastructure required.
-- `INS-260330-97B3` Clear, credible 'cross this line and I'll hit you' deterrence often outperforms nuanced diplomatic strategies in preventing adversary escalation.
-- `INS-260403-49E1` Consolidating VC return analysis into one tab eliminates formula breakage and creates a shared decision language.
 - `INS-260327-D10B` Thoreau went to the woods to live deliberately - reducing life to its essentials revealed more depth than the complexity he left behind.
 - `INS-260329-294C` Reducing toolchain complexity for beginners removes failure modes unrelated to the skill being learned, keeping focus on core concepts.
 - `INS-260326-3B43` Complexity in nature does not require complex causes — Rule 30 shows that trivially simple rules produce infinitely complex behavior.
@@ -21,5 +19,7 @@
 - `INS-260409-171C` The complete formula for making it is start, take feedback to get better, and never stop — most failure is skipping one of these.
 - `INS-260330-637F` The McDonald brothers found 80% of revenue came from hamburgers, cut everything else, and used the focus to build an assembly-line system that redefined the industry.
 - `INS-260403-427E` Truly disruptive solutions are often conceptually simple — the moat is in the execution, not the idea.
-- `INS-260402-3A0D` Simplicity forces you to face the real problem because you can't hide behind ornament.
 - `INS-260330-0BBA` Listen to customer problems deeply but translate them into the simplest possible solution, which is often not what the customer literally asked for.
+- `INS-260402-3A0D` Simplicity forces you to face the real problem because you can't hide behind ornament.
+- `INS-260403-49E1` Consolidating VC return analysis into one tab eliminates formula breakage and creates a shared decision language.
+- `INS-260330-97B3` Clear, credible 'cross this line and I'll hit you' deterrence often outperforms nuanced diplomatic strategies in preventing adversary escalation.

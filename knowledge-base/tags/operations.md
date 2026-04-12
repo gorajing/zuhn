@@ -2,7 +2,6 @@
 
 - `INS-260409-5065` Ingest adds new material; query probes and adds explorations; lint finds contradictions, orphans, and gaps.
 - `INS-260329-3EB6` AWS Lambda's auto-scaling model means you never under-provision, but the operational discipline shifts from capacity planning to cost monitoring and function optimization.
-- `INS-260327-E9FC` Berthier as Chief of Staff was arguably more important to Napoleon's success than any fighting marshal — he translated Napoleon's often vague strategic vision into precise orders that thousands could execute.
 - `INS-260330-2689` The mathematician defines a vector by what you can do with it (add, scale), not by what it is — this yields maximum generality.
 - `INS-260405-AC40` Costco pays double the retail average wage and reports three times the productivity, suggesting high wages are a competitive lever rather than a constraint.
 - `INS-260402-8595` Embracing operational complexity that competitors avoid — like managing physical assets — creates durable defensibility through accumulated expertise and supply-side lock-in.
@@ -26,3 +25,4 @@
 - `INS-260405-21C7` Webvan expanded to multiple cities before understanding its unit economics, and the fixed cost structure made course correction impossible.
 - `INS-260322-F46F` AI works with data -- if you don't have complete data architecture in place, there's nothing for AI to operate on.
 - `INS-260327-CECA` Kisson's restaurant booking app failed because owners bought it but part-time employees who actually used it didn't know it existed.
+- `INS-260327-E9FC` Berthier as Chief of Staff was arguably more important to Napoleon's success than any fighting marshal — he translated Napoleon's often vague strategic vision into precise orders that thousands could execute.

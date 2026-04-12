@@ -47,12 +47,11 @@ related:
   - INS-260329-92E9
   - INS-260329-79D3
   - INS-260402-1D32
-  - INS-260403-23AA
   - INS-260404-3ACB
+  - INS-260411-27AA
   - INS-260327-0700
   - INS-260330-F534
   - PRI-260323-8EEA
-  - PRI-260405-D586
   - INS-260410-E3BB
 ---
 Claude Code's default mode asks users to approve each action, but Anthropic's internal data shows users accept 93% of prompts. This approval fatigue means manual review becomes a rubber stamp rather than a safety mechanism, and users end up worse off than if they'd designed something forcing genuine review on the dangerous 7%.
