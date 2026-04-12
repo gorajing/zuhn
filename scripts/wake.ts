@@ -69,24 +69,38 @@ export function loadPredictionStatuses(
 }
 
 /**
+ * Filter any prediction-evidence-shaped list down to records whose
+ * underlying prediction is still active in YAML. Shared by every wake.ts
+ * section that surfaces signals against predictions — Prediction Watch,
+ * Your Judgment Needed, and any future section — so the "skip resolved
+ * predictions" invariant lives in one place.
+ *
+ * Generic on T so callers can pass their own richer types (e.g. the
+ * Prediction Watch record with prediction_title, deadline, net_signal,
+ * and evidence items) without losing field information.
+ */
+export function filterActivePredictionEvidence<
+  T extends { prediction_id: string },
+>(evidence: T[], statuses: Map<string, string>): T[] {
+  return evidence.filter((e) => statuses.get(e.prediction_id) === "active");
+}
+
+/**
  * From a prediction-evidence.json payload, return only the records that
  * should surface in the wake briefing's "Your Judgment Needed" list: the
  * evidence must lean confirmed or falsified, include at least 3 sources,
- * AND the prediction itself must still be active in its YAML frontmatter.
- *
- * The active-status check prevents already-resolved predictions (whose
- * evidence remains in the file as historical record) from looping forever
- * as ghost action items.
+ * AND the prediction itself must still be active. The active-status check
+ * is delegated to filterActivePredictionEvidence so Prediction Watch and
+ * Your Judgment Needed share exactly one implementation.
  */
 export function filterPredictionsReadyForJudgment(
   evidence: PredictionEvidenceRecord[],
   statuses: Map<string, string>,
 ): PredictionEvidenceRecord[] {
-  return evidence.filter(
+  return filterActivePredictionEvidence(evidence, statuses).filter(
     (e) =>
       (e.net_signal === "leaning_confirmed" || e.net_signal === "leaning_falsified") &&
-      e.evidence.length >= 3 &&
-      statuses.get(e.prediction_id) === "active",
+      e.evidence.length >= 3,
   );
 }
 
@@ -184,9 +198,11 @@ function main(): void {
         evidence: Array<{ direction: string; strength: string; summary: string }>;
       }>;
       const withEvidence = evidence.filter((e) => e.evidence.length > 0);
-      if (withEvidence.length > 0) {
+      const statuses = loadPredictionStatuses();
+      const active = filterActivePredictionEvidence(withEvidence, statuses);
+      if (active.length > 0) {
         console.log("## Prediction Watch");
-        for (const e of withEvidence) {
+        for (const e of active) {
           const icon = { leaning_confirmed: "✓", leaning_falsified: "✗", mixed: "~" }[e.net_signal] ?? "○";
           console.log(`- ${icon} ${e.prediction_id} (due ${e.deadline}): ${e.net_signal.replace(/_/g, " ")}`);
           const strongest = e.evidence.find((ev) => ev.strength === "strong");

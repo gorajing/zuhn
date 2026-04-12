@@ -5,6 +5,7 @@ import { tmpdir } from "node:os";
 import {
   loadPredictionStatuses,
   filterPredictionsReadyForJudgment,
+  filterActivePredictionEvidence,
   type PredictionEvidenceRecord,
 } from "./wake";
 
@@ -188,5 +189,89 @@ describe("filterPredictionsReadyForJudgment", () => {
       "PRED-ACTIVE-CONF",
       "PRED-ACTIVE-FALS",
     ]);
+  });
+});
+
+// ─── filterActivePredictionEvidence ────────────────────────────────────
+
+describe("filterActivePredictionEvidence", () => {
+  it("returns records whose prediction is active", () => {
+    const records = [
+      { prediction_id: "PRED-A" },
+      { prediction_id: "PRED-B" },
+    ];
+    const statuses = new Map([
+      ["PRED-A", "active"],
+      ["PRED-B", "active"],
+    ]);
+    const result = filterActivePredictionEvidence(records, statuses);
+    expect(result).toHaveLength(2);
+  });
+
+  // REGRESSION: The Prediction Watch section of wake.ts used to print
+  // evidence-based leanings for predictions that were already resolved
+  // in their YAML frontmatter, because it didn't cross-reference status.
+  // This was discovered on 2026-04-11 via these two exact IDs, both
+  // resolved on 2026-03-25 but still surfacing as "leaning confirmed"
+  // and "leaning falsified" in the morning briefing 17 days later.
+  // Mirrors the regression tests in filterPredictionsReadyForJudgment
+  // by design — both sections share this invariant now.
+  it("excludes predictions whose YAML status is confirmed (PRED-260322-4E9B regression)", () => {
+    const records = [{ prediction_id: "PRED-260322-4E9B" }];
+    const statuses = new Map([["PRED-260322-4E9B", "confirmed"]]);
+    const result = filterActivePredictionEvidence(records, statuses);
+    expect(result).toHaveLength(0);
+  });
+
+  it("excludes predictions whose YAML status is falsified (PRED-260322-4FAA regression)", () => {
+    const records = [{ prediction_id: "PRED-260322-4FAA" }];
+    const statuses = new Map([["PRED-260322-4FAA", "falsified"]]);
+    const result = filterActivePredictionEvidence(records, statuses);
+    expect(result).toHaveLength(0);
+  });
+
+  it("excludes orphan predictions missing from the statuses map", () => {
+    // A prediction whose file is deleted or unreadable — safer to
+    // exclude than to surface a signal for an unknown state. Matches
+    // the behavior of filterPredictionsReadyForJudgment.
+    const records = [{ prediction_id: "PRED-ORPHAN" }];
+    const statuses = new Map<string, string>();
+    const result = filterActivePredictionEvidence(records, statuses);
+    expect(result).toHaveLength(0);
+  });
+
+  it("preserves the full record shape via a generic type parameter", () => {
+    // The helper is used by both Prediction Watch (rich records with
+    // prediction_title, deadline, net_signal, evidence items) and
+    // filterPredictionsReadyForJudgment (PredictionEvidenceRecord).
+    // A generic T extends { prediction_id: string } lets both callers
+    // pass their own richer types without loss of field information.
+    const records = [
+      {
+        prediction_id: "PRED-A",
+        prediction_title: "A title",
+        deadline: "2026-12-31",
+        net_signal: "leaning_confirmed",
+      },
+    ];
+    const statuses = new Map([["PRED-A", "active"]]);
+    const result = filterActivePredictionEvidence(records, statuses);
+    expect(result).toHaveLength(1);
+    expect(result[0].prediction_title).toBe("A title");
+    expect(result[0].deadline).toBe("2026-12-31");
+    expect(result[0].net_signal).toBe("leaning_confirmed");
+  });
+
+  it("returns an empty array when every record is resolved", () => {
+    const records = [
+      { prediction_id: "PRED-A" },
+      { prediction_id: "PRED-B" },
+    ];
+    const statuses = new Map([
+      ["PRED-A", "confirmed"],
+      ["PRED-B", "falsified"],
+    ]);
+    const result = filterActivePredictionEvidence(records, statuses);
+    expect(result).toHaveLength(0);
   });
 });
