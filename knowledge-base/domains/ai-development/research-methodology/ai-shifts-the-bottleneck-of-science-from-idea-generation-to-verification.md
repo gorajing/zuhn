@@ -56,6 +56,7 @@ related:
   - INS-260403-21A5
   - INS-260403-2AF0
   - INS-260403-219F
+  - PRI-260411-FB73
   - PRI-260406-9780
 ---
 Tao argues that historically, the prestige in science went to the eureka moment of idea generation — Kepler trying twenty years of random relationships, Newton's synthesis. But AI can now generate thousands of plausible theories per problem at near-zero cost, the same way the internet drove communication costs to zero. This doesn't create abundance by itself; it shifts the bottleneck. Journals are already being flooded with AI-generated submissions that human reviewers cannot evaluate at scale.

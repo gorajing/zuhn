@@ -60,8 +60,8 @@ related:
   - INS-260323-23B9
   - INS-260410-991B
   - INS-260327-E0B0
+  - PRI-260411-FB73
   - INS-260405-82F3
-  - INS-260323-9770
 ---
 Patel's core structural argument is that the AI safety strategy of drawing red lines at the frontier lab level cannot work against capabilities that diffuse. Even if Anthropic, OpenAI, and Google all refuse to sell mass-surveillance capability, by late 2027 or 2028 open-source models will match frontier performance from 12 months prior. A government only needs a model smart enough to watch a camera feed — not the smartest model in the world.
 

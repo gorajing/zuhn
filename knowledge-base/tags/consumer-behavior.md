@@ -3,6 +3,29 @@
 - `INS-260330-82B5` One bad AI interaction permanently destroys user willingness to retry, creating a vicious cycle of declining engagement and improvement.
 - `INS-260330-30CE` Users who experience AI failure on first try rarely return, creating an adoption death spiral that compounds over time.
 - `INS-260322-E7E9` When insurance rejected a BMI-34.7 patient for Ozempic coverage at $1000/month, she turned to Chinese-sourced peptides at $15/vial — the access gap is creating the gray market.
+- `INS-260404-D976` Samsung users' MRIs showed strong anti-Apple responses they didn't consciously report feeling.
+- `INS-260329-67D1` Letting customers choose their own quantity shifts price blame from the business to the buyer.
+- `INS-260329-8CA0` Disclosed side effects make products seem more potent because consumers interpret risk as evidence the product actually does something.
+- `INS-260403-F03A` Judge purchases by projected usage, not by the deal you got.
+- `INS-260330-9A34` Mechanical watches needed to be accurate to within 5 seconds/day — not as good as quartz, but good enough that wearing one didn't break the luxury illusion.
+- `INS-260403-74DB` The shopping-as-leisure reframe is a deliberate corporate strategy most people can't see through for decades.
+- `INS-260327-134F` When addictive substances are packaged in clean modern branding with lifestyle marketing, consumers perceive them as wel
+- `INS-260327-6742` Stated preference for sustainable packaging evaporates when the price premium is visible on the shelf because consumers 
+- `INS-260327-A69D` Plant-based milk adoption was driven primarily by avoiding dairy rather than positive attributes of the alternatives, cr
+- `INS-260327-24A5` Incremental quality reduction across successive product versions is imperceptible to consumers who evaluate each purchas
+- `INS-260327-CB07` Artisanal cultural products follow a predictable degradation path when adopted by mass markets: authentic versions are d
+- `INS-260327-FC4F` Products consumed daily benefit from per-use price evaluation that makes even expensive items feel cheap, which is why c
+- `INS-260327-FCC4` When debt products use consumer-friendly interfaces and millennial-targeted branding, they normalize borrowing as a life
+- `INS-260327-7B05` Meal replacements fail to achieve mass adoption because they treat eating as a nutritional optimization problem when it 
+- `INS-260327-E26D` Artificial scarcity combined with social media visibility converts the psychological experience from desire to anxiety, 
+- `INS-260327-D832` Consumers who buy cologne are purchasing an identity signal — sophistication, masculinity, wealth — rather than a functi
+- `INS-260327-8E9B` When food choices become identity markers, consumers evaluate products based on tribal affiliation rather than taste, cr
+- `INS-260327-57A4` The malls original value proposition was social gathering that included shopping; when social interaction moved to socia
+- `INS-260327-FEB7` Food products that go viral on social media are optimized for visual impact and shareability rather than taste, which is
+- `INS-260327-1403` Consumer rage at automotive subscriptions exceeds rational price objections because the psychological experience is havi
+- `INS-260327-7D27` All-inclusive pricing environments increase total spending because individual consumption decisions carry zero marginal 
+- `INS-260327-6188` When therapy is marketed like a subscription service, consumers expect consumer-grade UX, responsiveness, and satisfacti
+- `INS-260327-7018` Affluent consumers who thrift for social media content are performing frugality as an identity signal while spending mor
 - `INS-260409-492F` The profitable opportunity in AI is the gap between when something can be automated and when consumers actually change their habits, which runs for years.
 - `INS-260330-5C64` Users make one unrelated choice (e.g., buying a phone) that forces dozens of subsequent choices, creating compounding lock-in that no single service could generate independently.
 - `INS-260330-0998` Tencent's attempt to charge subscription fees for QQ backfired and lost users to competitors, but switching to free access with microtransactions for virtual items and in-game purchases became enormously profitable.
@@ -33,26 +56,3 @@
 - `INS-260327-99E5` 80% of consumers say they want sustainable products; less than 5% actually buy them when they cost more.
 - `INS-260327-A620` Minimalism as an aesthetic requires specific products (clean-lined furniture, neutral colors, curated accessories) that 
 - `INS-260404-4BF9` Applying professional product-thinking frameworks to personal purchases yields uniquely high-quality evaluations.
-- `INS-260403-F03A` Judge purchases by projected usage, not by the deal you got.
-- `INS-260404-D976` Samsung users' MRIs showed strong anti-Apple responses they didn't consciously report feeling.
-- `INS-260329-67D1` Letting customers choose their own quantity shifts price blame from the business to the buyer.
-- `INS-260329-8CA0` Disclosed side effects make products seem more potent because consumers interpret risk as evidence the product actually does something.
-- `INS-260330-9A34` Mechanical watches needed to be accurate to within 5 seconds/day — not as good as quartz, but good enough that wearing one didn't break the luxury illusion.
-- `INS-260403-74DB` The shopping-as-leisure reframe is a deliberate corporate strategy most people can't see through for decades.
-- `INS-260327-134F` When addictive substances are packaged in clean modern branding with lifestyle marketing, consumers perceive them as wel
-- `INS-260327-6742` Stated preference for sustainable packaging evaporates when the price premium is visible on the shelf because consumers 
-- `INS-260327-A69D` Plant-based milk adoption was driven primarily by avoiding dairy rather than positive attributes of the alternatives, cr
-- `INS-260327-24A5` Incremental quality reduction across successive product versions is imperceptible to consumers who evaluate each purchas
-- `INS-260327-CB07` Artisanal cultural products follow a predictable degradation path when adopted by mass markets: authentic versions are d
-- `INS-260327-FC4F` Products consumed daily benefit from per-use price evaluation that makes even expensive items feel cheap, which is why c
-- `INS-260327-FCC4` When debt products use consumer-friendly interfaces and millennial-targeted branding, they normalize borrowing as a life
-- `INS-260327-7B05` Meal replacements fail to achieve mass adoption because they treat eating as a nutritional optimization problem when it 
-- `INS-260327-E26D` Artificial scarcity combined with social media visibility converts the psychological experience from desire to anxiety, 
-- `INS-260327-D832` Consumers who buy cologne are purchasing an identity signal — sophistication, masculinity, wealth — rather than a functi
-- `INS-260327-8E9B` When food choices become identity markers, consumers evaluate products based on tribal affiliation rather than taste, cr
-- `INS-260327-57A4` The malls original value proposition was social gathering that included shopping; when social interaction moved to socia
-- `INS-260327-FEB7` Food products that go viral on social media are optimized for visual impact and shareability rather than taste, which is
-- `INS-260327-1403` Consumer rage at automotive subscriptions exceeds rational price objections because the psychological experience is havi
-- `INS-260327-7D27` All-inclusive pricing environments increase total spending because individual consumption decisions carry zero marginal 
-- `INS-260327-6188` When therapy is marketed like a subscription service, consumers expect consumer-grade UX, responsiveness, and satisfacti
-- `INS-260327-7018` Affluent consumers who thrift for social media content are performing frugality as an identity signal while spending mor

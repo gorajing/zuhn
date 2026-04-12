@@ -49,7 +49,6 @@ stance: >-
   capability benchmark on roughly a one-year horizon.
 related:
   - INS-260325-F48E
-  - INS-260327-40DA
   - INS-260403-1EFF
   - INS-260403-5F69
   - INS-260410-5951

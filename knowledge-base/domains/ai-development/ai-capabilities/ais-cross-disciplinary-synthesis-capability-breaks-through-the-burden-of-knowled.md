@@ -52,7 +52,6 @@ stance: >-
   reasoning but the ability to synthesize knowledge across disciplines that no
   individual human scientist can hold in mind simultaneously.
 related:
-  - INS-260322-B33E
   - INS-260323-CD28
   - INS-260327-D76A
   - INS-260329-519E
@@ -60,6 +59,7 @@ related:
   - INS-260403-2AF0
   - INS-260404-5AC1
   - INS-260410-ED68
+  - PRI-260411-FB73
   - INS-260410-5740
   - INS-260329-04FA
 ---

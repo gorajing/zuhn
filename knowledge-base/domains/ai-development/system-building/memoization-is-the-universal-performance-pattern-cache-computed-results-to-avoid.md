@@ -45,7 +45,6 @@ stance: >-
   results to avoid recomputation — is the single most transferable optimization
   pattern across all software domains
 related:
-  - INS-260325-3F9B
   - INS-260329-EF14
   - INS-260329-425B
   - INS-260329-6D6C
@@ -55,6 +54,7 @@ related:
   - INS-260404-A183
   - PRI-260403-40D7
   - INS-260404-92B8
+  - INS-260327-956D
 evidence:
   - id: INS-260329-393C
     type: SUPPORTS

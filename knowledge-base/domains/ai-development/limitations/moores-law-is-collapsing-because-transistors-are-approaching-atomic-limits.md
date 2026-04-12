@@ -51,8 +51,8 @@ related:
   - INS-260325-A782
   - PRI-260328-D2FB
   - INS-260404-FC20
+  - PRI-260411-31BB
   - INS-260325-6A2C
-  - INS-260323-B3A3
 ---
 Kaku explains that Moore's Law -- computer power doubling every 18 months -- is slowing because transistors are approaching atomic dimensions. At roughly 5 atoms across, electrons can quantum-tunnel through barriers, creating short circuits. This is a hard physical limit, not an engineering problem to be solved.
 

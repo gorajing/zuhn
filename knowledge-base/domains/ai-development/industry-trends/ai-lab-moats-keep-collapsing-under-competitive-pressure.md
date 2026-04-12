@@ -55,8 +55,8 @@ related:
   - INS-260321-3C8A
   - INS-260403-5616
   - INS-260410-991B
+  - PRI-260411-FB73
   - INS-260409-7731
-  - INS-260322-B33E
 ---
 The historical record from 2020 onward shows no AI lab has been able to convert any supposed flywheel — engagement data, synthetic data generation, scale economies — into a sustainable lead. Instead, the big three labs rotate around the podium roughly monthly, with the next tier never far behind. This pattern suggests that whatever advantages exist are leaking through talent poaching, the SF rumor mill, or normal reverse-engineering of released models.
 

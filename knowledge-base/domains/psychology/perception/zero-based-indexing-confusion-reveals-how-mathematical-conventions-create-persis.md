@@ -54,12 +54,13 @@ stance: >-
   all experience levels, not just among beginners
 related:
   - INS-260325-FDA9
+  - PRI-260411-31BB
   - INS-260326-CAAB
   - INS-260409-613B
   - INS-260323-E161
-  - INS-260410-72EC
   - INS-260330-8FF8
   - INS-260329-4870
+  - INS-260410-72EC
 evidence:
   - id: INS-260326-CAAB
     type: TRANSFERS_TO

@@ -55,7 +55,6 @@ stance: >-
   approaches.
 related:
   - INS-260322-B693
-  - INS-260327-77E5
   - INS-260403-A4CF
   - PRI-260405-47B5
   - INS-260330-CC51

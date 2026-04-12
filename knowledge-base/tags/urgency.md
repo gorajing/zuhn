@@ -1,5 +1,9 @@
 # Tag: urgency
 
+- `INS-260403-81A4` Instead of dwelling on death, cultivate aggressive impatience about doing the things that matter to you.
+- `INS-260403-97B4` When inspiration strikes, act on it immediately because it won't survive being shelved.
+- `INS-260325-C884` A Life Calendar — one box per week of a 90-year life — makes finite time concrete enough to function as an artificial Panic Monster for non-deadline goals.
+- `INS-260327-5AF9` The idea that if you haven't succeeded by 30 it's probably over is survivorship bias mythology - most meaningful achievements historically come from people in their 40s, 50s, and beyond.
 - `INS-260403-14F4` Phrases like 'let's revisit later' and 'we need more data' feel reasonable but systematically introduce hesitation that calcifies into slow-moving culture.
 - `INS-260403-8B26` The founder's personal speed of decision-making and unblocking directly determines the company's overall execution velocity.
 - `INS-260402-841D` Releasing early transforms problems from interesting puzzles into urgent fires, which is precisely why founders resist it and why it works.
@@ -12,7 +16,3 @@
 - `INS-260410-1BB0` When you're racing a window shut, you don't have the luxury of optionality — the window itself is evidence your adversary's structural position will soon exceed yours.
 - `INS-260327-B64E` Asking about everything a prospect has already tried and failed at surfaces deprivation, which creates the psychological urgency that drives buying decisions.
 - `INS-260330-B27A` LA discovered that sunlight + chlorine + bromide creates bromate — a carcinogenic reaction not covered by existing regulations that only monitored ozone-based bromate formation.
-- `INS-260403-81A4` Instead of dwelling on death, cultivate aggressive impatience about doing the things that matter to you.
-- `INS-260403-97B4` When inspiration strikes, act on it immediately because it won't survive being shelved.
-- `INS-260325-C884` A Life Calendar — one box per week of a 90-year life — makes finite time concrete enough to function as an artificial Panic Monster for non-deadline goals.
-- `INS-260327-5AF9` The idea that if you haven't succeeded by 30 it's probably over is survivorship bias mythology - most meaningful achievements historically come from people in their 40s, 50s, and beyond.

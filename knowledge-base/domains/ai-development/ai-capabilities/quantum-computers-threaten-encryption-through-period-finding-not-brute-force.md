@@ -43,11 +43,11 @@ resolutions:
     frequencies — applicable only to specific mathematical structures, not
     general computation.
 related:
-  - INS-260323-B47B
   - INS-260323-E161
   - INS-260325-A1B9
   - INS-260325-BE3A
   - PRI-260328-D2FB
+  - PRI-260411-31BB
   - INS-260329-8C14
 stance: Quantum computers don't break encryption by trying all keys
 evidence:

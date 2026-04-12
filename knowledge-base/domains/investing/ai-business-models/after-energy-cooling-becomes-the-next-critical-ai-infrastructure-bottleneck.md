@@ -53,7 +53,6 @@ related:
   - INS-260327-DECA
   - INS-260325-5CB1
   - INS-260323-257D
-  - INS-260408-5BE5
 stance: >-
   Energy is the current AI infrastructure bottleneck (driving renewed interest
   in nuclear), but once solved, cooling becomes the next constraint

@@ -58,7 +58,6 @@ related:
   - PRI-260406-7128
   - INS-260328-75B8
   - INS-260404-8746
-  - INS-260404-FC20
   - INS-260403-DC18
 evidence:
   - id: INS-260322-D079

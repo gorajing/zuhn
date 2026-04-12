@@ -53,10 +53,10 @@ stance: >-
   requires logical consistency, not physical verification.
 related:
   - INS-260330-E282
+  - PRI-260411-FB73
   - INS-260321-D959
   - INS-260403-FFEA
   - INS-260323-2FC3
-  - PRI-260323-2FEE
 evidence:
   - id: INS-260329-8226
     type: TRANSFERS_TO
