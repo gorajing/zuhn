@@ -53,7 +53,6 @@ related:
   - INS-260329-9115
   - INS-260323-AEA5
   - INS-260330-9367
-  - INS-260405-F7C5
 stance: >-
   Building powerful AI turned out to be far easier than building safe AI, just
   as building airplanes was far easier than replicating bird flight.

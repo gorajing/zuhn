@@ -58,8 +58,8 @@ related:
   - INS-260412-FD9A
   - INS-260403-0E11
   - INS-260405-D3B5
+  - INS-260412-366A
   - INS-260403-1E05
-  - INS-260323-FAF2
 evidence:
   - id: INS-260323-FAF2
     type: EXTENDS

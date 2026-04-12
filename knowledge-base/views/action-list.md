@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-12 | 4864 actionable insights
+Generated on 2026-04-12 | 4869 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1587,6 +1587,7 @@ Generated on 2026-04-12 | 4864 actionable insights
 - [INS-260411-7F4F] Aleatoric uncertainty (irreducible noise), epistemic uncertainty (knowledge gaps), and ontological uncertainty (ambiguous concepts) each demand different mitigation strategies.
 - [INS-260412-75FF] Single-example reasoning demands surfacing which properties you assume are universal versus local.
 - [INS-260412-7728] When you don't know the rules of the game, watch silently before announcing yourself.
+- [INS-260412-0F94] The empty universe is not a lack of data — it is the single most important data point in the Fermi Paradox.
 
 ## psychology/expertise
 - [INS-260330-C7B5] Making a tool part of your identity makes you worse at evaluating alternatives.
@@ -4825,6 +4826,9 @@ Generated on 2026-04-12 | 4864 actionable insights
 - [INS-260403-E09C] Design for geographic flexibility by treating location as a variable you iterate on as the company evolves.
 - [INS-260322-F46F] AI works with data -- if you don't have complete data architecture in place, there's nothing for AI to operate on.
 - [INS-260412-CD2D] True self-sufficiency means producing value that flows back to the parent system — survival alone keeps you permanently dependent.
+- [INS-260412-B25A] The immune system uses cheap macrophages to handle most threats and only escalates to expensive adaptive immunity when the first layer fails, a pattern directly applicable to organizational design.
+- [INS-260412-C3E6] Just as gravity is irrelevant to ants but lethal to elephants, the forces that threaten organizations undergo categorical shifts at different scales.
+- [INS-260412-B650] On the Moon, a nuclear seismic wave reaches everywhere because it's small — on Earth, distance and mass absorb the shock before it circles the globe.
 
 ## startups/strategy
 - [INS-260322-5E5D] Deliberately changing what content platforms show you — your YouTube algorithm, your feeds — rewires your brain to notice opportunities others miss.
@@ -4916,6 +4920,7 @@ Generated on 2026-04-12 | 4864 actionable insights
 - [INS-260412-D022] Great Filters aren't unique to civilizations — startups face sequential extinction barriers where failing any one is terminal.
 - [INS-260412-0EF9] To move a solar system, you only move the Sun — everything else follows via gravity.
 - [INS-260412-A1F4] Historical colonization always followed three phases — exploration, dependent outpost, self-sufficient colony — and this pattern maps directly to entering new markets.
+- [INS-260412-F0F5] String theory's rowing-boat-to-cruise-ship analogy shows that working in a simplified model universe that shares structural properties with the real problem can yield transferable insights even when direct application fails.
 
 ## startups/team-building
 - [INS-260405-F378] Searching for a technical cofounder before validating demand is backwards — demand attracts technical talent.

@@ -49,8 +49,8 @@ related:
   - INS-260330-B5D2
   - INS-260325-916B
   - INS-260323-8F41
+  - INS-260412-C37A
   - INS-260403-922C
-  - PRI-260325-08FB
 stance: Defining something as supernatural requires knowing what natural is
 evidence:
   - id: INS-260330-B5D2

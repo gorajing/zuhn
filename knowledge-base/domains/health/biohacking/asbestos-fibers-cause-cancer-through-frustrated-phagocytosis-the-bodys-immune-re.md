@@ -50,8 +50,8 @@ related:
   - PRI-260328-97E0
   - INS-260330-E3C0
   - INS-260325-A8E3
+  - INS-260412-B25A
   - INS-260330-078A
-  - INS-260327-E8D3
 stance: >-
   Asbestos fibers are too long and rigid for macrophages to digest, causing
   'frustrated phagocytosis' that releases DNA-damaging chemicals and trigge...

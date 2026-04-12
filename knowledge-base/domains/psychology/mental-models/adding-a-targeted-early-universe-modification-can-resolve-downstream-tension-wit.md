@@ -56,7 +56,7 @@ related:
   - INS-260330-8429
   - INS-260409-B8C1
   - INS-260330-0C1D
+  - INS-260412-F121
   - INS-260323-F528
-  - INS-260330-03F7
 ---
 The engineering principle behind early dark energy: when a model fits extremely well in one regime (the CMB fit) but disagrees with measurement in another (local expansion), you want a modification that affects the second regime without touching the first. A brief injection of extra expansion during the first ~100,000 years that then vanishes would change the sound horizon and shift the inferred Hubble constant upward without disturbing later-time predictions. Whether it is real or not is unknown — no one has detected it. But its shape is instructive about how serious attempts to patch a successful theory should look: preserve the regions where the theory works, target the modification narrowly at the regions where it fails, and pay the cost of adding a new parameter only where there is no cheaper alternative.

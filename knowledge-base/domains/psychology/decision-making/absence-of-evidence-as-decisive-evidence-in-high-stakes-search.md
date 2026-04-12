@@ -55,6 +55,7 @@ related:
   - PRI-260328-0332
   - INS-260330-C9C2
   - INS-260330-E77D
+  - INS-260412-CC17
 ---
 The video makes a surprisingly rigorous epistemic move: a Type 3 civilization's influence would be 'so all-encompassing' that 'we couldn't miss them — the galaxy should flash with their activity.' Therefore, the absence of such signals is not mere ignorance but positive evidence that no such civilization exists nearby. Scientists looked for harvested stars, decaying megastructures, and scars of interstellar wars — finding none.
 

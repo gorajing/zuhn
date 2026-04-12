@@ -56,7 +56,7 @@ related:
   - INS-260323-76FE
   - INS-260330-4FC5
   - PRI-260328-C528
-  - INS-260412-41A5
+  - INS-260412-3951
 ---
 The entire Venus terraforming plan uses technologies that either exist today or are straightforward engineering extensions: thin foil solar shades, electromagnetic mass drivers, space tethers, and biological organisms that have already proven they can transform a planetary atmosphere. No new physics is required — no fusion breakthroughs, no exotic materials, no theoretical advances.
 

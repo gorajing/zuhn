@@ -1,6 +1,6 @@
 # Topic: decision-making
 
-> 155 insights
+> 156 insights
 
 - `INS-260412-4FBF` [high] If something powerful enough would leave unmistakable traces and you find none, that silence is itself a strong signal.
 - `INS-260404-A246` [high] Admitting you're bad at something is the first step to finding effective workarounds like delegation or systematic search.
@@ -19,6 +19,7 @@
 - `INS-260412-9D2A` [high] When a disaster destroys the very systems meant to respond to it, only prevention — not preparedness — offers real protection.
 - `INS-260404-2135` [high] Growing up with accuracy-focused judgments trains a false expectation that all judgments aim to be fair.
 - `INS-260330-D0B4` [high] Staying buckled in an inverted sinking helicopter is safer than the instinctive escape attempt, but requires trained override of natural panic responses.
+- `INS-260412-66D8` [high] The dendritic cell's binary choice between anti-virus and anti-bacteria response determines which entire army gets mobilized, making it the highest-leverage decision point in immune response.
 - `INS-260403-0769` [high] The belief that history guarantees your victory makes you stop doing the strategic work required to actually win.
 - `INS-260403-B710` [high] Counting finite instances of recurring experiences makes time scarcity concrete and actionable.
 - `INS-260404-E783` [high] Seemingly paradoxical findings often dissolve when you recognize the phenomenon as a mix of tradeoff and failure components rather than seeking a single unified explanation.

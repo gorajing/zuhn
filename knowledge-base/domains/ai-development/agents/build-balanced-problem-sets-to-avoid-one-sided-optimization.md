@@ -49,9 +49,9 @@ stance: >-
   that behavior.
 related:
   - INS-260322-D6D7
-  - INS-260322-D1AB
   - INS-260410-AA6E
   - INS-260404-0C67
+  - INS-260412-347D
   - INS-260325-55D8
   - INS-260402-CCC3
   - INS-260410-AF66

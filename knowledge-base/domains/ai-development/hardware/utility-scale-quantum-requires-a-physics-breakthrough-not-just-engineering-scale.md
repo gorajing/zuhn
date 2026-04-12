@@ -54,12 +54,13 @@ stance: >-
   You cannot reach a useful quantum computer by incrementally scaling noisy
   qubits — a new physical substrate is required.
 related:
-  - INS-260323-B3A3
   - INS-260409-B367
   - INS-260323-DA1E
   - PRI-260328-D2FB
   - PRI-260411-31BB
+  - INS-260323-B3A3
   - PRI-260323-0654
+  - INS-260412-BFF3
 ---
 Nadella frames Microsoft's quantum strategy as a deliberate rejection of the scaling path taken by competitors. Instead of trying to error-correct away the noise of existing qubit types, Microsoft waited on a physical substrate whose reliability comes from the physics itself — Majorana zero modes, theorized in the 1930s and only now fabricated as a new topological phase of matter.
 

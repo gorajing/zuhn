@@ -1,11 +1,11 @@
 # Tag: psychedelics
 
-- `INS-260409-C0DF` The interesting longevity claim is that psychedelics may produce measurable metabolic and neural rejuvenation effects, not just subjective mental health benefits.
 - `INS-260325-D7B1` Psychedelics are non-specific amplifiers — you can have euphoria or hell, and the difference is mostly determined by set (your mindset) and setting (your environment), not the drug itself.
 - `INS-260325-3AFE` Unlike any other drug class, psychedelics uniquely produce widespread reports of people taking a substance once and pointing to lasting life transformation decades later.
 - `INS-260325-3AE4` fMRI studies show psychedelics produce massive increases in communication between brain areas that normally never talk to each other — breaking down the brain's usual compartmentalization.
 - `INS-260325-6576` Animal research suggests psychedelics increase neuroplasticity in the days after use, creating a window where new patterns stick more easily — explaining why single sessions produce lasting change.
 - `INS-260409-9991` Clinical and recreational psychedelic use are different interventions and their risk/benefit data should not be pooled.
+- `INS-260409-C0DF` The interesting longevity claim is that psychedelics may produce measurable metabolic and neural rejuvenation effects, not just subjective mental health benefits.
 - `INS-260330-81B1` Johnson's pilot study showed 80% smoking cessation at 6 months with psilocybin therapy versus 25-35% for the best existing treatments.
 - `INS-260330-4079` Psychedelics appear to work therapeutically by temporarily destabilizing rigid neural patterns, creating a window of increased flexibility where new behavioral repertoires can form.
 - `INS-260403-7639` MDMA's therapeutic mechanism is enabling self-compassion — people can face traumatic memories without the self-loathing that normally blocks processing.

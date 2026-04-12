@@ -48,11 +48,11 @@ stance: >-
   Faithfully duplicating a proven system before customizing it produces better
   outcomes than immediately adapting it to personal preferences
 related:
+  - INS-260412-8FB0
   - INS-260403-CD51
   - INS-260325-A79E
   - PRI-260407-4EC8
   - INS-260412-5965
-  - INS-260403-FF4E
 evidence:
   - id: INS-260326-87A1
     type: TRANSFERS_TO

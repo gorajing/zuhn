@@ -45,7 +45,6 @@ stance: >-
   China and Russia's failure to defend Iran against Israeli and American strikes
   reveals that the New Axis is weaker in practice than its rhetoric suggests.
 related:
-  - INS-260323-9BC8
   - INS-260327-2475
   - INS-260327-5140
   - INS-260404-96E6

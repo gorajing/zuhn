@@ -50,10 +50,10 @@ stance: >-
   effect is structural — not fixable by feature tweaks like hiding like counts.
 related:
   - INS-260405-AA3C
+  - INS-260412-2220
   - PRI-260323-7BFA
   - INS-260330-06E3
   - INS-260323-E81D
-  - INS-260323-6BF4
 evidence:
   - id: INS-260323-E81D
     type: TRANSFERS_TO

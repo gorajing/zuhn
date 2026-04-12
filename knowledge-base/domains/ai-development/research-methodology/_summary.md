@@ -1,6 +1,6 @@
 # Topic: research-methodology
 
-> 30 insights
+> 31 insights
 
 - `INS-260410-5951` [high] On Terminal-Bench 2.0, the same Claude model scored 6 points higher with uncapped resources than with strictly enforced per-task specs (p<0.01), exceeding the margins that typically separate frontier models on leaderboards.
 - `INS-260410-F167` [high] Unlike static benchmarks that score a model's output directly, agentic evals give the model a full runtime environment — so CPU, RAM, time limits, API latency, cluster health, and even egress bandwidth all become part of what gets measured.
@@ -11,6 +11,7 @@
 - `INS-260410-5036` [high] Real deep-learning development is Jupyter-notebook shape debugging plus empirical verification of flaky framework docs, not the clean math suggested by papers and tutorials.
 - `INS-260410-AC0B` [high] DeepSeek's research taste is visible in how iteratively and transparently they trade off hardware constraints (memory bandwidth vs. flops) for algorithmic structure, producing simple solutions rather than ornamented ones.
 - `INS-260408-F58E` [high] Isomorphic's pipeline screens binding + cross-target toxicity in silico, then only validates the final candidates in the wet lab.
+- `INS-260412-B805` [high] Quantum mechanics and general relativity both work brilliantly in isolation but break when combined, indicating the solution isn't fixing either but finding a deeper framework that subsumes both.
 - `INS-260410-B30D` [high] Leonardo wrote his discoveries in coded mirror script and Brunelleschi burned his dome schematics — both wanted to be marveled at forever, and Palmer calls them saboteurs of human progress.
 - `INS-260410-BFCF` [high] Zuckerberg admits Meta tuned a Llama 4 Maverick variant that sat near the top of Chatbot Arena, but shipped the un-tuned version because arena-optimization 'led us astray' on actual product quality.
 - `INS-260409-C016` [high] AI research output gets judged on interim expert assessments because peer review is too slow — treat these as preliminary, not final.

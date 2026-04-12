@@ -1,6 +1,6 @@
 # Topic: mental-models
 
-> 99 insights
+> 106 insights
 
 - `INS-260409-3138` [high] Computers are fully explainable bottom-up from electricity through logic gates to instructions — there is no magical layer, only layers of abstraction humans haven't personally traversed.
 - `INS-260330-420B` [high] Three competing theories for the Indus Valley's decline each tell a confident story from the same absence of evidence, revealing how humans handle epistemic gaps.
@@ -30,6 +30,7 @@
 - `INS-260330-8544` [high] The discovery that tidal forces can substitute for solar energy in sustaining liquid water fundamentally expanded where we search for life — by questioning which variable (energy source) was truly fixed.
 - `INS-260330-8429` [high] Both Europa and dark matter show that the obvious energy source (sun, matter) isn't always the real driver — systematically questioning assumed sources expands the solution space.
 - `INS-260412-10FC` [high] We've focused most ocean research on the top 2% by biomass while 98% of the ocean volume remains largely unexplored.
+- `INS-260412-BFF3` [high] 20 qubits storing a million values simultaneously defeats linear intuition about what 'twenty of something' means.
 - `INS-260330-8FE7` [high] A growth factor near 1 feels like steady new additions, but it actually signals you're at the logistic inflection point — total will roughly double from current levels then plateau.
 - `INS-260330-6AA3` [high] The growth factor (today's new cases divided by yesterday's) directly reveals the exponent driving a process, making it a superior early-warning metric to absolute counts.
 - `INS-260410-CE40` [high] Americans (and most analysts) default to 'Team America' analysis — studying only their own options and mirror-imaging the other side — and this explains repeated strategic surprises from Pearl Harbor to Iraq's insurgency.
@@ -44,13 +45,16 @@
 - `INS-260409-02C5` [high] The standard model of cosmology still explains the CMB, primordial hydrogen/helium abundances, and large-scale galaxy clustering with extraordinary precision; the cracks are real but localized, and conflating 'in crisis' with 'dead' is a category error.
 - `INS-260403-D2FD` [high] The electron transport chain extracts energy through four sequential protein complexes rather than one step, a pattern that applies to any value-extraction system.
 - `INS-260405-BEA7` [high] Photosynthesis is 450 million years old, described as 'complicated, inefficient and confusing'—yet it powers virtually all life on Earth.
+- `INS-260412-AB42` [high] A 10x change in one dimension produces 100x and 1000x changes in related dimensions, making single-scale intuition dangerously misleading.
 - `INS-260330-E068` [high] The Calvin Cycle produces 6 G3P molecules but must reinvest 5 to regenerate — only 1/6 of gross output is net output.
+- `INS-260412-1428` [high] The gap between 'destroy every city' and 'destroy the planet' spans several orders of magnitude, but humans compress this range into a single category of 'apocalyptic.'
 - `INS-260412-26A4` [high] Venus's atmosphere shows zero visible change for 60 years of cooling, then CO2 liquefies all at once in a 30-year global rainstorm.
 - `INS-260409-16CF` [high] To make the 1/8 gram antimatter bomb from 'Angels and Demons,' CERN would need to run for longer than the age of the universe.
 - `INS-260405-D606` [high] Getting the problem statement right is not preliminary work — it is the core intellectual work.
 - `INS-260409-D66D` [high] GBAR's positron moderator keeps 1 in 1000 — a 0.1% yield — yet builds a usable 100M-positron cloud by simply accumulating over minutes.
 - `INS-260330-CE2F` [high] JS classes are syntactic sugar over prototypal inheritance, where real objects link to real objects rather than abstract class hierarchies.
 - `INS-260412-C451` [high] A massive force doesn't need to collide with a system to destroy it — proximity alone reshapes orbits and triggers cascading failures.
+- `INS-260412-E42E` [high] Bacteria fly under the radar at low numbers and only start damaging the body when they reach a critical population threshold, switching behavior collectively rather than individually.
 - `INS-260330-64D8` [high] If you add something that makes a problem easier, redefine the entire problem in terms of what you added.
 - `INS-260403-6EA0` [high] Thinking in specific causal chains rather than vague decline narratives is both more accurate and more psychologically sustainable.
 - `INS-260330-814E` [high] WWII's unprecedented destruction came not from unprecedented hatred but from unprecedented industrial capacity to act on ordinary human impulses at scale.
@@ -67,9 +71,11 @@
 - `INS-260409-2677` [high] Everything in the universe is a descendant of one lucky particle per billion that survived matter-antimatter annihilation — tiny asymmetries compound into everything.
 - `INS-260330-F5CF` [high] Photosynthesis raised atmospheric oxygen levels that now cause RuBisCo to malfunction half the time, forcing plants to evolve elaborate detoxification pathways instead of fixing the enzyme.
 - `INS-260330-43D3` [high] Modifying just 30% of aerogel's surface chemistry flips it from water-absorbing to completely waterproof, demonstrating that threshold effects outweigh proportional ones.
+- `INS-260412-347D` [high] When selection effects are at play, the intuitive valence of new evidence often inverts — finding what you hope for can be the worst signal.
 - `INS-260402-ED85` [high] Every surprise founders reported traced back to unconsciously expecting startup life to resemble employment.
 - `INS-260403-29C7` [high] Kissinger chose Go over xiangqi not because it described China accurately, but because it made America respond the way he wanted.
 - `INS-260330-7511` [high] The Mandate of Heaven made political legitimacy conditional on moral performance, creating a recursive loop where failure itself became proof of illegitimacy.
+- `INS-260412-3B3D` [high] Identical forces produce qualitatively different outcomes depending on the medium they act through.
 - `INS-260405-4C63` [high] Ideas that survive the alien truth test are more durable and transferable than those rooted in human-specific context.
 - `INS-260330-3698` [high] Mentally reversing roles in a conflict reveals whether both sides operate under the same ethical constraints.
 - `INS-260330-E2F5` [high] The French Revolution's lasting impact wasn't its government changes but Article 6's claim that law comes from citizens and applies equally — a paradigm shift still unfolding centuries later.
@@ -88,6 +94,7 @@
 - `INS-260412-EF6C` [medium] The Local Group's ~54 galaxies and trillion stars represent humanity's absolute maximum territory, reframing the question from limitless expansion to optimal utilization.
 - `INS-260409-F4E0` [medium] Cosmology has been at this exact epistemic junction before — the 1990s stellar-age contradiction looked fatal until the accelerating-expansion discovery retroactively made sense of it, and most physics crises follow the same pattern of appearing to be endings but turning out to be doors.
 - `INS-260403-45E3` [medium] Classical virtue ethics focused on character over action because its audience had no real choice about what to do with their lives.
+- `INS-260412-0540` [medium] The most stable configuration doesn't just persist — it actively recruits surrounding matter into its own state.
 - `INS-260412-8C32` [medium] Stars reach their maximum physical size only after exhausting core hydrogen and entering a dying giant phase — adding more mass to a living star doesn't work.
 - `INS-260409-3E53` [medium] CERN's BASE team built a portable antimatter trap — not because CERN couldn't do more experiments, but because background magnetic noise at CERN itself capped precision.
 - `INS-260330-9BC3` [medium] A vacuum cannon works by combining negative pressure (vacuum) with positive pressure across a sealed boundary — the differential produces forces neither side could generate alone.

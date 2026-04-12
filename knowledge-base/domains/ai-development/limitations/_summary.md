@@ -1,6 +1,6 @@
 # Topic: limitations
 
-> 64 insights
+> 65 insights
 
 - `INS-260323-EECF` [high] The optical nerve delivers about 10^15 bytes to a 4-year-old's brain versus 2x10^13 bytes of all internet text used to train LLMs -- most human knowledge comes from sensory interaction with the physical world, not from language.
 - `INS-260330-C31B` [high] AI's constraints on scientific discovery are a subset of human constraints — both fail when data is sparse, but AI excels where data is abundant but patterns are too complex for human cognition.
@@ -33,6 +33,7 @@
 - `INS-260410-699C` [high] Non-English text gets stretched into many more tokens than equivalent English, eating context length and degrading model performance regardless of LM training data.
 - `INS-260403-F9C7` [high] Off-the-shelf AI models cannot serve users with dementia, dysphasia, or non-Western communication styles without fundamental architectural changes.
 - `INS-260404-0C67` [high] Quantum advantage comes from interference that amplifies correct answers and suppresses wrong ones, not from checking all possibilities simultaneously.
+- `INS-260412-09A7` [high] Quantum fluctuations stretched during cosmic inflation became the density variations that determined where all galaxies, stars, and gravitationally bound groups would form.
 - `INS-260410-09B4` [high] Curve-fitting AI can keep adding epicycles to Ptolemaic models but can't make the global swap to a Copernican frame, because locally the switch looks worse.
 - `INS-260323-7625` [high] While per-token costs have decreased, reasoning models burn dramatically more tokens per task, so actual inference costs per useful output have increased — the opposite of what AI CEOs claim.
 - `INS-260410-B7B1` [high] Lab spending on pre-baked skill training is revealed-preference evidence that current models lack humanlike on-the-job learning.

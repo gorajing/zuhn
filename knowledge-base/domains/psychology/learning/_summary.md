@@ -1,6 +1,6 @@
 # Topic: learning
 
-> 244 insights
+> 246 insights
 
 - `INS-260329-66C7` [high] Charisma, patience, confidence — all traits are shorthand labels for clusters of small, observable, teachable behaviors like smiling on entry and remembering names.
 - `INS-260330-750A` [high] The Mongols became siege warfare experts and adopted gunpowder by interrogating prisoners and absorbing techniques from conquered peoples.
@@ -10,6 +10,7 @@
 - `INS-260329-74E5` [high] Concrete physical analogies (boxes for variables, restaurants for functions) make abstract programming concepts learnable faster than formal definitions alone.
 - `INS-260330-C13A` [high] Reframing feedback requests as advice requests shifts people from cheerleader/critic mode into coach mode with actionable forward-looking suggestions.
 - `INS-260330-74A0` [high] Proof of work exploits the asymmetry between creation difficulty and verification ease to scale trust across unlimited participants.
+- `INS-260412-3951` [high] Scientists playing with magnets had no idea they were building the foundation for modern technology — strange matter research may follow the same path.
 - `INS-260330-FB5A` [high] Popperian error correction (conjecture + refutation) is superior to Bayesian confidence-building because confidence in a theory peaks right before falsification.
 - `INS-260330-AC16` [high] Changing beliefs is like blazing a new trail next to a four-lane highway of old patterns — it works, but takes persistent effort over months or years, not weeks.
 - `INS-260403-449A` [high] If you expect work to hurt, you lose the ability to distinguish productive struggle from doing something fundamentally wrong.
@@ -100,6 +101,7 @@
 - `INS-260330-2BF4` [high] Photosynthesis becomes learnable only because each intermediate product and enzyme (PSII, cytochrome complex, ATP synthase, PSI, RuBisCo, G3P) gets a distinct name that serves as a cognitive anchor.
 - `INS-260404-78EB` [high] Photosystem II acts before Photosystem I because they were named in reverse order of discovery — a naming debt that has confused biology students for decades.
 - `INS-260330-B047` [high] Even after learning the backwards bicycle, a phone ringing in Destin's pocket was enough to crash his brain back to the old algorithm and cause a wreck.
+- `INS-260412-C37A` [high] The Heisenberg uncertainty principle shows that seeing is touching — observing particles with enough energy to detect them inevitably alters them, establishing a hard limit on simultaneous knowledge.
 - `INS-260330-8E8A` [high] New discoveries require both extreme rigor about truth and willingness to violate established conventions — traits that only appear contradictory in trivial matters.
 - `INS-260329-0487` [high] Self-doubt is eliminated by compressing thousands of reps into the shortest possible timeframe, forcing neurological adaptation rather than relying on affirmations.
 - `INS-260330-81D3` [high] Learn programming patterns, not syntax—patterns transfer across languages while syntax is forgotten.

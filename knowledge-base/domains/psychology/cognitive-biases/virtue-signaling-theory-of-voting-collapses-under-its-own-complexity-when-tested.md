@@ -51,6 +51,6 @@ related:
   - INS-260404-3275
   - INS-260405-370B
   - PRI-260323-81E9
-  - PRI-260406-20FD
+  - INS-260412-347D
 ---
 Since no single vote changes the outcome, the virtue signaling model argues voters should always vote for feel-good measures at zero personal cost. But empirically, many such measures fail — blue states pass them, red states reject them, and support scales with how popular the cause is and how low the tax. To rescue the signaling theory, you'd need to posit that voters signal fiscal discipline in some cases and generosity in others, calibrating perfectly to mimic genuine beliefs. At that point the signaling model is more complex and less parsimonious than simply assuming people vote their actual preferences, making it effectively unfalsifiable and therefore useless as an explanatory framework.

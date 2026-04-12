@@ -51,10 +51,10 @@ stance: >-
   available at the source.
 related:
   - INS-260330-5DD4
+  - INS-260412-B650
   - INS-260325-40DC
   - INS-260409-7055
   - INS-260330-C8B4
-  - INS-260409-E366
 evidence:
   - id: INS-260329-D8BC
     type: CHALLENGES

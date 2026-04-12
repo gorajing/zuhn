@@ -49,7 +49,6 @@ stance: >-
   crossword answers constraining each other
 related:
   - INS-260330-12DC
-  - INS-260330-984C
   - INS-260330-C172
   - INS-260330-9BB7
   - PRI-260403-CCBC

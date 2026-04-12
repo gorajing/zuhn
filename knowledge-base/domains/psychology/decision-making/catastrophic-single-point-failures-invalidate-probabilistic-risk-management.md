@@ -52,5 +52,6 @@ related:
   - INS-260325-DF82
   - PRI-260328-0AB1
   - PRI-260406-14BB
+  - INS-260412-CC17
 ---
 Most disaster planning assumes that response infrastructure survives the event: hospitals treat the injured, roads enable evacuation, communication coordinates rescue. A nuclear detonation uniquely destroys all of these simultaneously — it is earthquake, firestorm, hurricane, and radiation event in one. This reveals a general principle: any threat that degrades its own response systems at the moment of occurrence cannot be managed through preparedness alone. The same logic applies to certain cyber attacks on critical infrastructure, pandemic scenarios that overwhelm healthcare, or AI alignment failures that compromise oversight mechanisms. When the failure mode includes disabling the safety net, the only rational strategy shifts entirely to prevention and elimination of the threat itself.

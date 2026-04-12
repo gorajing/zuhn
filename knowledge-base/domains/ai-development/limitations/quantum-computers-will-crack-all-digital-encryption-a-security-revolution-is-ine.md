@@ -56,9 +56,9 @@ related:
   - INS-260323-B3A3
   - INS-260325-5A2F
   - INS-260325-BE3A
+  - INS-260412-79D5
   - PRI-260328-D2FB
   - PRI-260411-31BB
-  - INS-260329-8C14
 ---
 Kaku highlights the security implications of quantum computing: current encryption relies on the computational infeasibility of factoring very large numbers (50+ digits). Digital computers might need hundreds of years to crack such codes. Quantum computers, in principle, could do it almost instantly.
 

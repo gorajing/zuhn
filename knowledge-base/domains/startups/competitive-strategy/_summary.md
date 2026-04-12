@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 579 insights
+> 580 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -458,6 +458,7 @@
 - `INS-260324-162B` [high] Under Armour's shoes were genuinely better in comfort and performance than Nike — but they looked like clown shoes, and in consumer fashion, aesthetics always wins.
 - `INS-260324-A046` [high] UNIQLO identifies trending pieces too expensive for the mass market, replaces natural fibers with proprietary synthetics, and proactively tweaks design to exceed expectations through merit — not just price.
 - `INS-260402-E2AF` [high] The real competitive threat to a startup is not Google but the unknown startup in a garage working on the same problem with equal desperation.
+- `INS-260412-FE0A` [high] Argentine ants dominate not through superior individual capabilities but through massive numbers and seamless inter-colony cooperation.
 - `INS-260403-946A` [high] The ideal validated business model combines large profit potential with structural defenses like recurring revenue, scalability, and competitive moats.
 - `INS-260403-44D9` [high] EV technology shares components with drones, robots, and electronics, so low EV adoption limits scale for the entire manufacturing ecosystem.
 - `INS-260403-ABD1` [high] The US startup advantage comes from institutional infrastructure (rule of law, failure tolerance, capital markets) rather than talent density alone.

@@ -1,9 +1,9 @@
 # Tag: value-capture
 
 - `INS-260327-89AE` Doug Leone argues AI value will accrue to companies solving domain-specific last-mile problems in the application layer, not to foundation models or infrastructure tooling.
+- `INS-260325-2BDB` Eugene from ZDOT AI argued durable value lies in platform infrastructure — model-as-a-service, enterprise deployment, and APIs — sitting between foundation models and applications.
 - `INS-260403-E93A` History suggests the application layer on top of AI infrastructure will capture more enterprise value than the infrastructure itself.
 - `INS-260403-C164` Cuban believes AI infrastructure (Databricks, Snowflake-type companies) will capture long-term value while consumer AI gets commoditized.
-- `INS-260325-2BDB` Eugene from ZDOT AI argued durable value lies in platform infrastructure — model-as-a-service, enterprise deployment, and APIs — sitting between foundation models and applications.
 - `INS-260410-CA89` Qualcomm's $120B franchise exists because it owns the patents AND the chip designs while treating handsets and base stations as commodity steps to spin off.
 - `INS-260402-8170` Orchestrating a full ecosystem for underserved market participants creates virtuous cycles that individual product improvements cannot match.
 - `INS-260402-8C42` During platform shifts, betting on the toolchain that builders need captures more durable value than betting on individual applications.

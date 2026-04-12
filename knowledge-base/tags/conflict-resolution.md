@@ -1,10 +1,13 @@
 # Tag: conflict-resolution
 
+- `INS-260410-11F3` When two factions are primary adversaries, every Western push to form a coalition government only delays the inevitable showdown and wastes the stronger side's advantage.
+- `INS-260323-C304` In debates on deeply emotional geopolitical topics, the anger and frustration themselves are data — suppressing emotion loses important information about the stakes.
+- `INS-260323-874F` The 1947 UN partition of Palestine — an international body proposing a democratic compromise that one side rejects — established a recurring pattern in modern geopolitical conflict resolution.
+- `INS-260330-CCD8` Labeling a problem as timeless or identity-based discourages solution-seeking by making resolution feel impossible.
+- `INS-260403-FAC0` People in passionate arguments are often arguing about two different things and sometimes even agree without realizing it.
 - `INS-260330-3570` Arguments that start by explicitly naming what is being disagreed about — and what is not — dramatically outperform arguments that jump straight into positions.
 - `INS-260330-F140` Apply four gates (Real, Important, Specific, Aligned) before entering any disagreement to give it the best chance of being productive.
 - `INS-260330-A370` The RISA framework (Real, Important, Specific, Aligned) is a four-question pre-flight check that prevents unproductive arguments before they begin.
-- `INS-260330-CCD8` Labeling a problem as timeless or identity-based discourages solution-seeking by making resolution feel impossible.
-- `INS-260403-FAC0` People in passionate arguments are often arguing about two different things and sometimes even agree without realizing it.
 - `INS-260410-8C5F` Paine's framing: limited objectives ('you lose a province but stay in power') create settlement space, while unlimited objectives ('you're out of power') eliminate it entirely.
 - `INS-260404-6753` Consciously listening for the first 10 minutes and acknowledging the other side's logic disarms conflict more effectively than arguing.
 - `INS-260330-6C0E` Deliberately decide which relationships matter more than political agreement, and protect those while holding public figures to a different standard.
@@ -15,7 +18,4 @@
 - `INS-260330-8550` Spend 20+ hours with potential co-founders covering disagreements, work styles, and explicit divorce scenarios before committing.
 - `INS-260325-C5AE` Taking ownership of what your co-founder complains about ('I know I do this') stops the escalation cycle because they no longer need to prove their point.
 - `INS-260330-76DA` Debaters evaluate whether challenging a point is necessary for progress or merely satisfying — and let go of arguments that won't advance the overall dispute.
-- `INS-260410-11F3` When two factions are primary adversaries, every Western push to form a coalition government only delays the inevitable showdown and wastes the stronger side's advantage.
-- `INS-260323-C304` In debates on deeply emotional geopolitical topics, the anger and frustration themselves are data — suppressing emotion loses important information about the stakes.
-- `INS-260323-874F` The 1947 UN partition of Palestine — an international body proposing a democratic compromise that one side rejects — established a recurring pattern in modern geopolitical conflict resolution.
 - `INS-260326-8217` When someone reacts with anger to your feedback, shift from defensive mode to curiosity — ask why they're upset instead of matching their energy.

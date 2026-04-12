@@ -48,16 +48,16 @@ stance: >-
   random changes filtered by selection, which humans systematically
   underestimate due to engineer-like thinking.
 related:
-  - INS-260325-BF44
-  - INS-260325-D680
   - INS-260323-4E23
   - INS-260325-0921
   - INS-260327-A44E
+  - INS-260325-BF44
   - PRI-260328-36C3
   - INS-260326-AB92
   - PRI-260405-C27E
   - INS-260325-436A
   - INS-260330-FBC0
+  - INS-260330-3B05
 evidence:
   - id: INS-260327-A44E
     type: REFINES

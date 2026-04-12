@@ -50,5 +50,6 @@ related:
   - INS-260325-DFA5
   - INS-260330-4634
   - INS-260412-6FB8
+  - INS-260412-E9A1
 ---
 The video notes that modern humans have been around for just 0.1% of the time dinosaurs existed, yet we've already developed technologies capable of both reaching space and destroying ourselves. The emotional disconnect is that geological and civilizational timescales feel abstract — we can comprehend 'millions of years' intellectually but not viscerally. This creates a systematic bias: threats that manifest over decades or centuries (climate change, asteroid risk, AI alignment) feel less urgent than threats on human timescales (car accidents, crime), even when their expected damage is incomparably larger. The dinosaurs had no capacity to detect or deflect an asteroid. Humans do — but only if we overcome the emotional irreality of low-probability, high-consequence events.

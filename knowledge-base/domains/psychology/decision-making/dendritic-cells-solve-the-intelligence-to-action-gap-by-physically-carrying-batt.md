@@ -54,6 +54,7 @@ related:
   - INS-260410-4CE7
   - INS-260410-69C2
   - INS-260412-662C
-  - INS-260325-BF44
+  - INS-260412-4DC7
+  - INS-260412-66D8
 ---
 The dendritic cell is a dedicated intelligence officer: while macrophages and neutrophils fight, it rips bacteria apart, coats itself in fragments, then leaves the battlefield entirely to travel through the lymphatic highway to lymph nodes where helper T cells wait. There it physically rubs pathogen fragments against thousands of T cells until one recognizes the match. This is a solved design for the intelligence-to-action gap that plagues human organizations — the frontline fighters cannot also be the strategic decision-makers, so you need a dedicated courier class whose sole job is translating battlefield reality into a format decision-makers can act on. The key insight is that the courier carries physical evidence (antigen fragments), not reports — removing the lossy abstraction of verbal intelligence.

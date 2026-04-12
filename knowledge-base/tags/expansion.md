@@ -1,5 +1,6 @@
 # Tag: expansion
 
+- `INS-260412-F121` Dark energy permanently separates gravitationally unbound galaxy groups, making the Local Group humanity's absolute ceiling regardless of technology.
 - `INS-260330-8D0C` The drive to colonize aggressively contains the seeds of its own unraveling when resources become scarce and competitors collide.
 - `INS-260330-8481` TikTok is not ByteDance's endgame — it's a distribution channel for expansion into e-commerce, gaming, streaming, enterprise software, education, fintech, and cloud services.
 - `INS-260410-1C96` Size ambition to the reach of your brand equity, not the size of your revenue.

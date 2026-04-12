@@ -47,8 +47,8 @@ stance: >-
 related:
   - INS-260323-4B4D
   - INS-260409-2CE9
+  - INS-260412-0540
   - INS-260330-AEE3
   - PRI-260406-C60B
-  - INS-260409-6349
 ---
 The ancient claim that 'suffering produces wisdom' is not sentimental — it reflects a mechanism. A self-model that is protecting itself against updating will reject ordinary disconfirming evidence, but major life disruptions are loud enough that denial stops working. The window immediately after a breakdown, loss, or failure is when people can actually see things they could not see before because the narrative that was filtering them out is temporarily offline. The practical implication is to treat such windows as high-information events — journal, sit still, ask new questions — rather than rushing to rebuild the old story.

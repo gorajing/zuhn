@@ -57,5 +57,6 @@ related:
   - INS-260409-A4F0
   - INS-260409-8C6C
   - INS-260404-CCB1
+  - INS-260412-A4DB
 ---
 Appleton's structural prediction: the universal chatbot interface cannot serve serious intellectual work across domains, so domain-specific interfaces will replace it for those use cases. 'Legal professionals will have document-heavy case analysis platforms that automatically surface contradictory precedents and challenge legal reasoning with Socratic questioning. Scientists will work in computational notebooks that actively critique their experimental designs and suggest alternative hypotheses. Designers will have canvases embedded with creative reasoning tools that challenge aesthetic choices and push for deeper conceptual justification.' The generic chatbot survives as the tool of last resort while these verticals mature. This is one of the stronger arguments against the 'ChatGPT will eat everything' thesis — a universal interface cannot credibly serve law, science, philosophy, medicine, education, and engineering simultaneously when each requires different modes of critical engagement.

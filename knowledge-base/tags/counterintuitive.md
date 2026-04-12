@@ -5,6 +5,7 @@
 - `INS-260330-1078` High-intensity exercise burns glycogen during activity but triggers elevated fat oxidation for up to 24 hours afterward, making post-exercise metabolism the bigger lever for fat loss.
 - `INS-260330-148C` What looks like a flaw mid-process (arrow flexing wildly) is often the exact mechanism enabling the correct result.
 - `INS-260330-8FE7` A growth factor near 1 feels like steady new additions, but it actually signals you're at the logistic inflection point — total will roughly double from current levels then plateau.
+- `INS-260412-347D` When selection effects are at play, the intuitive valence of new evidence often inverts — finding what you hope for can be the worst signal.
 - `INS-260409-7FC5` You can't 'just drop' an antiproton to test gravity because electric forces dwarf gravity — neutral antiatoms are required, and those in turn are harder to contain.
 - `INS-260330-07B1` Earth radiates back the same energy it receives from the sun; what we actually use is the low entropy — concentrated energy in fewer, higher-energy photons.
 - `INS-260404-59D1` The video builds from 'you can't hold this' to 'watch me lift it overhead' — each step making the next seem more impossible, which deepens engagement with the explanation.

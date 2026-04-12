@@ -46,6 +46,6 @@ related:
   - INS-260409-3E53
   - INS-260323-D479
   - INS-260409-2677
-  - PRI-260328-D2FB
+  - INS-260412-D236
 ---
 CERN produces roughly 10^10 antiprotons per year. A single gram is about 10^23 particles. So all of CERN's 25-year output amounts to roughly one trillionth of a gram — annihilating all of it would heat 1ml of water by one degree. The 'Angels and Demons' scenario is off by ~15 orders of magnitude. This is a standard failure mode in threat assessment: a substance is described as 'the most dangerous X' with no attention to throughput, and a fictional plot inherits real-world fear. Always do the back-of-envelope: how much can be made, in what time, for what cost? Most 'existential' substance threats collapse under production math.

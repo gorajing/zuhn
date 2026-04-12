@@ -1,9 +1,9 @@
 # Tag: partnerships
 
+- `INS-260410-CBCC` Equal partnerships only work with ruthless self-selection into people who bring equal value; the structure is a filter, not a fairness doctrine.
 - `INS-260329-E0B0` A great partnership is measured by the gap between what you achieve together versus what you'd achieve alone.
 - `INS-260403-49DF` The best partnerships combine complementary strengths within the same domain, not identical skills or different fields entirely.
 - `INS-260329-61CF` Only take a partner who clearly contributes money, experience, or time-energy that you genuinely lack — and can demonstrate active contribution of that resource.
-- `INS-260410-CBCC` Equal partnerships only work with ruthless self-selection into people who bring equal value; the structure is a filter, not a fairness doctrine.
 - `INS-260403-162F` Deep customer understanding makes competitor tracking largely irrelevant.
 - `INS-260403-DAB9` Early partners in defense-industrial buildups shape the standards and procurement pathways that become barriers to entry for latecomers.
 - `INS-260403-E482` Yahoo rejected Google's $1M/year search deal and later a $3B acquisition because accepting either would acknowledge Google's technology was superior.

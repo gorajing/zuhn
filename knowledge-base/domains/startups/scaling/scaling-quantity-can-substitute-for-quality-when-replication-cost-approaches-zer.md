@@ -60,7 +60,6 @@ stance: >-
   When improving unit performance is prohibitively costly, flooding the system
   with lower-quality units can achieve outcomes that superior units cannot.
 related:
-  - INS-260330-033A
   - INS-260330-3AF7
   - INS-260330-ED9D
   - INS-260403-9442

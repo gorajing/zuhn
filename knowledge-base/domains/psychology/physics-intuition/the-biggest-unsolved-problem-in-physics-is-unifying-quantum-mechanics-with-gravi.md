@@ -50,13 +50,14 @@ resolutions:
     transformative as what GPS was to navigation.
 related:
   - INS-260323-849E
+  - INS-260412-B805
   - INS-260330-97A0
   - INS-260323-72EB
   - INS-260323-C9B1
-  - INS-260409-BE6D
   - INS-260330-6E61
   - INS-260330-A149
   - INS-260323-9955
+  - INS-260409-BE6D
   - INS-260412-6ACA
 stance: >-
   Quantum mechanics describes tiny particles brilliantly but cannot explain

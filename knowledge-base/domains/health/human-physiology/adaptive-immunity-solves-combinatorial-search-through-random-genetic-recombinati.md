@@ -54,6 +54,7 @@ related:
   - INS-260410-CEAA
   - INS-260412-339C
   - INS-260412-E072
+  - INS-260412-B25A
   - INS-260412-EED1
 ---
 Rather than encoding a specific defense for every possible threat, the adaptive immune system uses V(D)J recombination — shuffling a small library of gene segments into random combinations to produce billions of unique receptor configurations. Each immune cell gets one unique receptor, and collectively they cover the entire protein shape space.

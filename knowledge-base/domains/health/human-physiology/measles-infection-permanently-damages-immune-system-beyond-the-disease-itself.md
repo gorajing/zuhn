@@ -47,5 +47,6 @@ related:
   - INS-260412-EED1
   - INS-260412-B1F7
   - PRI-260405-9D7B
+  - INS-260412-0B35
 ---
 Measles doesn't just cause its own symptoms — it leaves survivors with a severely damaged immune system that needs significant time to regenerate. During this recovery window, other pathogens can cause additional damage that wouldn't have occurred otherwise. This means the true cost of measles infection is systematically underestimated when people only count direct measles symptoms. The phenomenon is sometimes called 'immune amnesia' — measles can wipe out existing immune memory cells, effectively resetting years of accumulated immunity to other diseases.

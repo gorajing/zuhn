@@ -45,10 +45,10 @@ resolutions:
     system being observed.
 related:
   - INS-260323-DA1E
+  - INS-260412-C37A
   - INS-260323-5199
   - INS-260409-E0D5
   - INS-260330-1718
-  - INS-260323-2FC3
 stance: 'In quantum mechanics, measurement doesn''t reveal pre-existing properties'
 evidence:
   - id: INS-260323-2FC3

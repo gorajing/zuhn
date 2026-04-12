@@ -43,7 +43,6 @@ stance: >-
   Most people misunderstand orbits as 'floating' when they are actually
   continuous free-fall where lateral velocity prevents impact
 related:
-  - INS-260330-B69C
   - INS-260330-4E9B
   - INS-260403-5808
   - INS-260403-F075

@@ -52,7 +52,6 @@ related:
   - INS-260330-2E54
   - INS-260330-EEAE
   - INS-260325-916B
-  - INS-260330-6E61
 stance: >-
   Jung proposed that synchronicities reveal an underlying reality ('unus
   mundus') where psyche and matter are not separate substances but

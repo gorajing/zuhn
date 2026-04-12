@@ -50,13 +50,13 @@ related:
   - INS-260323-7BA4
   - INS-260323-1F27
   - INS-260330-F6B5
-  - INS-260330-8625
   - INS-260330-FC6E
   - INS-260409-2E2B
   - INS-260409-D603
   - INS-260409-02C5
   - INS-260409-0250
   - INS-260412-D634
+  - INS-260412-DB5A
 ---
 There is a conspicuous gap in black hole sizes: many exist up to ~150 solar masses, then nothing until millions of solar masses. The universe isn't old enough for gradual accumulation (eating stars, merging) to produce supermassive black holes. A fundamentally different mechanism — possibly quasi-stars acting as growth accelerators — was required to bridge this gap.
 

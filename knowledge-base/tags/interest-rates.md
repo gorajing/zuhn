@@ -2,10 +2,10 @@
 
 - `INS-260403-988C` Banks that chased yield in long-duration bonds during zero-rate years faced catastrophic unrealized losses when the Fed hiked aggressively, triggering depositor runs.
 - `INS-260402-D7C7` The end of zero interest rates forces a binary sort of companies into those with real unit economics and those that were subsidized by cheap money.
-- `INS-260411-EAE4` Dimon identifies stagflation as the 'skunk at the party' — inflation slowly rising while growth slows, a scenario markets are not positioned for.
-- `INS-260405-AB6B` The SRF caps rates by providing unlimited cash against collateral; the RRP floors rates by offering a guaranteed return that crowds out sub-Fed-rate private lending.
 - `INS-260403-4093` Programmatic hourly auctions replace opaque bank negotiations for setting credit market interest rates.
 - `INS-260327-226A` Many companies haven't been profitable in years and survived by continuously refinancing cheap debt - rising rates are exposing them all simultaneously.
+- `INS-260411-EAE4` Dimon identifies stagflation as the 'skunk at the party' — inflation slowly rising while growth slows, a scenario markets are not positioned for.
+- `INS-260405-AB6B` The SRF caps rates by providing unlimited cash against collateral; the RRP floors rates by offering a guaranteed return that crowds out sub-Fed-rate private lending.
 - `INS-260402-36DE` Massive fiscal deficits and shrinking buyer base for Treasuries mean Fed rate cuts no longer reliably lower long-term yields.
 - `INS-260403-9897` Japan's inflation return forces a fiscal reckoning where higher rates to control inflation make government debt vastly more expensive, with elderly benefit cuts as the only viable escape.
 - `INS-260322-B369` Goldman's CEO identifies the current US macro environment as the sweetest spot in 40 years: fiscal stimulus, rate-cutting cycle, capital investment super cycle, and deregulatory unwind all happening simultaneously.

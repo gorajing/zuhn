@@ -1,12 +1,14 @@
 # Topic: epistemics
 
-> 62 insights
+> 72 insights
 
+- `INS-260412-0F94` [high] The empty universe is not a lack of data — it is the single most important data point in the Fermi Paradox.
 - `INS-260409-F93A` [high] Galef argues accurate maps of the world should include explicit uncertainty markers and remain provisional — 'drawn in pencil, not pen' — because false precision creates psychological resistance to updating when better evidence arrives.
 - `INS-260411-8AEF` [high] AI 'knowledge' is statistical likelihood rather than justified belief, requiring a Bayesian rather than classical epistemic framework.
 - `INS-260405-5702` [high] Feed algorithms don't just show different opinions — they construct different facts for different population clusters.
 - `INS-260412-EED1` [high] Bacteria reproduce in 30 minutes versus months for humans, making direct competitive replication impossible — the immune system compensates with a pre-generated library of billions of defenses.
 - `INS-260405-0184` [high] Growing audiences for 2-4 hour deep-dive content disprove the shrinking attention span narrative — people crave depth when the content rewards sustained focus.
+- `INS-260412-E82B` [high] Stars appear stable for billions of years because fusion pressure balances gravity, but once iron accumulates and fusion stops, collapse happens in seconds.
 - `INS-260410-A33F` [high] Argument, counterargument, rebuttal — but the rebuttal must come from a completely different angle than the original argument, or it's just repetition.
 - `INS-260412-1784` [high] When an argument depends on five assumptions each at 80% confidence, the conclusion is only 33% likely — not 80%.
 - `INS-260412-91DA` [high] Objects that violate category assumptions become invisible even under direct observation.
@@ -18,6 +20,7 @@
 - `INS-260405-4693` [high] History uniformly shows that every era had forbidden truths; assuming ours is different requires extraordinary evidence.
 - `INS-260410-831F` [high] The Inquisition ignored Voltaire and the Encyclopédie to throw the book at Jansenist treatises about the Trinity — and Palmer says this pattern holds in every era she studies.
 - `INS-260410-8E0D` [high] Paine repeatedly tells Dwarkesh his questions are 'above my pay grade' — she can describe what the Japanese leadership faced, but can't say what was politically feasible for FDR without having served in government.
+- `INS-260412-491A` [high] Neutron star cores recreate Big Bang conditions, letting physicists study the universe's founding rules — extremes are windows to origins.
 - `INS-260412-2E7D` [high] Cosmic expansion will eventually erase all evidence of other galaxies, making the Big Bang undiscoverable to future civilizations.
 - `INS-260405-1CAA` [high] You know what you believe but rarely why you believe it — the source code is gone.
 - `INS-260409-3FDE` [high] Contributor gizmax reproduced MemPalace's 96.6% LongMemEval R@5 on M2 Ultra in under 5 minutes using the public benchmark scripts — that reproduction is exactly what forced the retraction of the other overclaims by making ground truth reviewable.
@@ -31,9 +34,11 @@
 - `INS-260409-A0D7` [high] 'UFO' bakes in 'flying object'; UAP opens the door back up to atmospheric optics and instrument artifacts.
 - `INS-260405-2B3F` [high] Treating survey non-response as randomly missing data produces systematically wrong estimates whenever the stigmatized view is also the under-reported one.
 - `INS-260412-7728` [high] When you don't know the rules of the game, watch silently before announcing yourself.
+- `INS-260412-B9F4` [high] Future Milkdromeda civilizations will have no evidence of the Big Bang, cosmic expansion, or other galaxies — they'll rationally conclude a static, solitary universe.
 - `INS-260405-F7FA` [high] All else being equal, bet against the explanation where you are the protagonist.
 - `INS-260410-7FA4` [high] Vaccination and scurvy's cure took centuries to discover despite killing millions, showing that intrinsic problem difficulty, not weak motivation, is often the binding constraint.
 - `INS-260409-42F7` [high] Within 48 hours of the MemPalace launch, maintainers Milla Jovovich and Ben Sigman wrote a public 'What we got wrong' section admitting four specific overclaims and shipped fixes — a level of intellectual honesty that product marketing incentives rarely allow.
+- `INS-260412-5494` [high] Kurzgesagt's method of escalating from 15,000 warheads to all-uranium-on-Earth reveals phase transitions invisible at normal scale.
 - `INS-260410-81DC` [high] Prout's atomic-weight hypothesis was correct but looked falsified for 85 years until isotopes were discovered; science progresses by protecting theories against their own current evidence.
 - `INS-260409-5CD4` [high] Julia Galef: 'Scout Mindset is the motivation to see what's really there and not just what you wish was there' — distinguishing it from soldier mindset where beliefs are defended against threatening evidence through rationalization, denial, and motivated reasoning.
 - `INS-260412-3C64` [high] We default to simpler models not because they're better but because they're solvable, creating blind spots where reality diverges most.
@@ -41,9 +46,12 @@
 - `INS-260409-A8F4` [high] You cannot infer velocity from one photograph, no matter how good the shutter metadata is.
 - `INS-260412-5E11` [high] Black hole singularities with infinite density likely don't exist — they mark where general relativity's equations stop working, not where physics actually goes to infinity.
 - `INS-260412-DD79` [high] Wormholes collapse unless exotic matter actively holds them open — analogous to how any counter-gradient structure requires continuous effort to maintain.
+- `INS-260412-BDB5` [high] Heavy elements require stars to die twice — first in supernovae to make neutron stars, then in kilonova collisions to forge gold and uranium.
+- `INS-260412-1F4E` [high] We exist at a cosmologically unique moment where we can see both our origins and our future — a privilege that will never recur.
 - `INS-260411-7F4F` [high] Aleatoric uncertainty (irreducible noise), epistemic uncertainty (knowledge gaps), and ontological uncertainty (ambiguous concepts) each demand different mitigation strategies.
 - `INS-260409-BF3F` [high] In a field where measurements are routinely precise to ~1%, an 8-9% gap between two independent methods is not a rounding error — it is a crisis exactly because precision grew faster than the gap closed.
 - `INS-260409-0206` [high] The gap between 'unexplained' and 'aliens' is a logical leap people make far too quickly.
+- `INS-260412-15D0` [high] Point particles are admittedly fictional yet predict electron properties to 14 decimal places, proving that useful approximations beat paralysis from incomplete knowledge.
 - `INS-260405-D3D7` [high] You cannot use a biased yardstick to measure whether the selection was biased.
 - `INS-260412-2316` [high] Supermassive black holes are only 0.001% of galaxy mass — dark matter, not the visible anchor, holds galaxies together.
 - `INS-260409-9464` [high] JWST was expected to resolve the Hubble tension by cleaning up stellar crowding in Cepheid measurements; instead it confirmed Hubble's 73 km/s/Mpc nearly exactly, eliminating 'measurement error' as an escape hatch and forcing attention onto the standard model itself.
@@ -55,7 +63,9 @@
 - `INS-260409-B3DC` [medium] If a question has the same answer whoever asks it, that's a property of the question, not the asker — and independent rediscovery is how you detect that.
 - `INS-260409-B8C1` [medium] Riess called S8 'the little sibling of the Hubble tension,' and prolate galaxy shapes point toward warm or wave dark matter; if multiple anomalies localize in the same region of parameter space, they are more likely real than any single anomaly taken alone.
 - `INS-260409-4CBB` [medium] Convergent evolution of intelligence in birds and mammals, winged flight in birds and bats, and camera-eyes in octopuses and mammals is cumulative evidence that these functions have narrow optimal solutions that any sufficient search process will find.
+- `INS-260412-2220` [medium] Hypertumors — cancers that parasitize other cancers — show that selfish dynamics within a harmful system can cause it to self-destruct without outside intervention.
 - `INS-260409-2B3A` [medium] Galef: 'Sometimes I notice myself defending things I don't even believe because someone assumed I believed it' — a huge chunk of apparent belief defense is actually identity defense against a position that was never consciously chosen, just socially inherited.
+- `INS-260412-CC17` [medium] Earth's atmosphere silently prevents nuclear shockwaves from being replaced by worse unimpeded radiation — we only notice this protection by imagining its absence.
 - `INS-260409-B704` [medium] Galef acknowledges that while scout thinking helps with happiness, self-awareness, and decision quality, determining what scouts should believe about religion, politics, or complex policy remains genuinely difficult — scout mindset is not a magic oracle and not all issues have discoverable answers.
 - `INS-260409-A62B` [medium] Galef: 'Those are mental and emotional habits; and I think training those habits through repeated practice is quite important' — scout thinking transfers from ideologically low-stakes domains (politics you don't care about, arguments you aren't emotionally invested in) to high-stakes personal decisions where accuracy actually matters.
 - `INS-260409-A239` [medium] Treating your current self-model as untrustworthy is a generative stance when paired with willingness to act on better evidence, not a paralysis.

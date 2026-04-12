@@ -49,6 +49,8 @@ related:
   - INS-260330-1DCA
   - INS-260330-DC5E
   - INS-260325-23E0
+  - INS-260412-D236
   - INS-260330-4634
+  - INS-260412-1428
 ---
 The Chicxulub impact illustrates a universal pattern in complex systems: the initial shock is rarely what causes the most damage. The asteroid vaporized material that re-entered the atmosphere, heating air to oven temperatures. This sparked global wildfires. Soot and debris blocked sunlight, crashing photosynthesis and temperatures for decades. Plankton died, collapsing marine food webs. Each effect triggered the next in a chain that amplified the original energy input enormously. This pattern recurs in financial crises (a housing default triggers a credit freeze triggers unemployment), pandemics (infection triggers supply chain disruption triggers economic collapse), and technological failures. Planning for the first-order effect while ignoring the cascade is the most common failure mode in risk assessment.

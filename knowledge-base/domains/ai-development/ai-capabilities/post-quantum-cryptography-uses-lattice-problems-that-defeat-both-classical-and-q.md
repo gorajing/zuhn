@@ -48,8 +48,8 @@ related:
   - PRI-260411-31BB
   - PRI-260328-D2FB
   - INS-260325-A1B9
+  - INS-260412-79D5
   - INS-260325-BE3A
-  - INS-260323-B3A3
 stance: >-
   NIST's post-quantum encryption standards use lattice-based problems in ~1000
   dimensions where finding the closest vector is computationally infeasi...

@@ -1,6 +1,6 @@
 # Topic: strategy
 
-> 256 insights
+> 260 insights
 
 - `INS-260330-98EA` [high] The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples.
 - `INS-260403-0530` [high] New York struggles as a startup hub because founders there are second-class citizens in a status hierarchy that most admires financial wealth.
@@ -29,6 +29,7 @@
 - `INS-260403-E556` [high] Shifting from exploitation (efficiency gains) to exploration (transformative ideas) is the critical strategic rebalancing for sustained innovation.
 - `INS-260403-F290` [high] Plants built entire metabolic pathways to compensate for RuBisCo's flaws rather than replace it — a pattern that applies to startups managing legacy technical debt.
 - `INS-260330-B3DD` [high] Compound pulley systems achieve 8:1 advantage with fewer components than block-and-tackle systems because each stage doubles the previous output rather than adding to it.
+- `INS-260412-5D55` [high] 15,000 warheads in a pile create a survivable regional disaster; distributed across cities they kill half of humanity — same resources, opposite strategic outcomes.
 - `INS-260404-41AA` [high] Costco's 15% markup cap, warehouse layout, and limited selection create interlocking efficiencies that compound into an unreplicable cost advantage.
 - `INS-260404-B086` [high] Costco's $60 membership fee, confusing warehouse layout, and bulk-only sizing all seem like obstacles but actually select for affluent, high-spending customers with $100K average household income.
 - `INS-260403-9104` [high] Costco's $60+ membership fee filters for affluent, high-spending customers while simultaneously creating sunk-cost-driven loyalty.
@@ -144,6 +145,7 @@
 - `INS-260405-F20F` [high] RuBisCo, an enzyme that makes catastrophic errors 50% of the time, remains the planet's dominant carbon-fixing enzyme because plants went all-in on it before oxygen made it dysfunctional.
 - `INS-260404-B1AB` [high] RuBisCo is terrible at its job but 40 billion tons of it run the biosphere because early life scaled quantity over quality.
 - `INS-260330-4489` [high] RuBisCo is terrible at its job but plants produce 40 billion tons of it rather than evolving a better enzyme — a biological case study in scale-over-quality lock-in.
+- `INS-260412-E197` [high] Trying to move the moon with a nuke is like trying to move a truck by blowing on it — scale mismatch renders even massive effort negligible.
 - `INS-260404-9229` [high] When redesign costs exceed the cost of brute-forcing volume, systems evolve to produce massive quantities of a flawed component rather than fix the flaw — plants maintain 40 billion tons of RuBisCo rather than evolve a better enzyme.
 - `INS-260403-7BA1` [high] The industries accidentally created by cost collapses — modern finance from sail, consumer credit from automobiles, global manufacturing from containers — always exceed the value of the original technology.
 - `INS-260403-8FD7` [high] Screen for sector exit precedent before investing — if the only exits in a space are distressed fire sales, that's a structural warning, not a timing issue.
@@ -218,12 +220,14 @@
 - `INS-260325-79BD` [medium] The ~1500-year gap between Bronze Age collapse and Rome's fall, and another ~1500 years to today, suggests recurring vulnerability patterns.
 - `INS-260330-E474` [medium] The 1054 Orthodox-Catholic schism — driven by theological identity differences, not resource competition — created a 1000-year fracture, showing that value misalignment produces the most permanent organizational splits.
 - `INS-260330-FAB8` [medium] The stated mission often masks the real driver — when organizations face resource constraints, they build ideological stories to justify aggressive moves.
+- `INS-260412-F0F5` [medium] String theory's rowing-boat-to-cruise-ship analogy shows that working in a simplified model universe that shares structural properties with the real problem can yield transferable insights even when direct application fails.
 - `INS-260409-6E05` [medium] Incumbents are too busy running their business to learn AI; their unused hours are the startup's structural advantage.
 - `INS-260405-A30D` [medium] Five consecutive days of immersive practice with a focused cohort produces qualitatively different skill development than the same hours distributed over months.
 - `INS-260403-4F1B` [medium] A centralized failure that mirrors what your decentralized product prevents becomes the strongest possible validation of your value proposition.
 - `INS-260330-9DCD` [medium] Government monopoly on land rezoning functions as an uncapped, unaccountable tax on housing demand.
 - `INS-260403-5DF2` [medium] Using AWS credits year one, shifting to GCP year two, and testing Scaleway GPU pricing creates years of subsidized infrastructure through provider arbitrage.
 - `INS-260405-225B` [medium] SF will remain viable but become 'establishment' — the new innovation clusters will be distributed, crypto-friendly, and globally distributed rather than concentrated in a single American city.
+- `INS-260412-A4DB` [medium] Quantum computers will likely start as specialized tools for cryptography, simulation, and search before potentially becoming general-purpose.
 - `INS-260404-C13E` [medium] Costco pays double the retail average but gets triple the productivity — high wages are an investment with measurable ROI.
 - `INS-260330-440E` [medium] The Indus Valley shows almost no evidence of warfare or military infrastructure, and its collapse coincided with the arrival of more warlike peoples.
 - `INS-260403-D882` [medium] Design your company around structural platform-asset balance rather than adapting to which approach investors currently favor.

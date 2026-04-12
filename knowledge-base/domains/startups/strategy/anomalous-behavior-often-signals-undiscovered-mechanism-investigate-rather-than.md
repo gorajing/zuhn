@@ -58,10 +58,10 @@ resolutions:
     strong. The better instinct is to investigate them as signals.
 related:
   - INS-260323-C3FA
+  - INS-260412-4E72
   - INS-260323-257D
   - INS-260410-81DC
   - INS-260403-C5FB
-  - INS-260404-4B39
 stance: Nickel superalloys get stronger when heated
 evidence:
   - id: INS-260325-B234

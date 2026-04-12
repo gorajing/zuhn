@@ -53,7 +53,6 @@ stance: >-
   Doomsday predictions based on linear extrapolation of negative trends will
   systematically fail because they cannot account for future knowledge creation.
 related:
-  - INS-260323-38EC
   - INS-260322-5B1B
   - INS-260323-F0A2
   - INS-260323-2651
@@ -63,6 +62,7 @@ related:
   - INS-260329-BFBF
   - PRI-260403-EA13
   - PRI-260403-50EF
+  - PRI-260406-4F8E
 evidence:
   - id: INS-260323-F0A2
     type: SUPPORTS

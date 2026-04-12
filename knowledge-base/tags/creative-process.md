@@ -10,10 +10,10 @@
 - `INS-260404-4666` Studying the embarrassingly rough early work of great creators teaches you to judge your own early efforts more accurately.
 - `INS-260403-97B4` When inspiration strikes, act on it immediately because it won't survive being shelved.
 - `INS-260402-9D7B` The willingness to cut entire subtrees of work — even after heavy investment — is what separates high-quality creative output from mediocre accumulation.
+- `INS-260404-B7E4` You can push through noise when you have momentum, but generating new ideas demands quiet — plan your environment accordingly.
 - `INS-260405-7A7C` The fear that your early work looks lame is real but wrong — ambitious projects necessarily pass through a low-status phase that doesn't predict their ceiling.
 - `INS-260405-7BA5` Every ambitious project looks bad early — the problem is not the work, it's the absence of calibrated judgment for unfinished things.
 - `INS-260405-7B8D` Calling a project a 'sketch' isn't lowering your standards — it's applying the right standards for the stage.
-- `INS-260404-B7E4` You can push through noise when you have momentum, but generating new ideas demands quiet — plan your environment accordingly.
 - `INS-260403-2CFE` You worry less about bad early work when you can see it improving, so focus on the derivative rather than the function.
 - `INS-260403-472E` The biggest killer of potentially successful projects is never starting them due to premature quality standards.
 - `INS-260404-D66A` Calling your ambitious project 'just a sketch' or 'just a hack' lowers the internal quality bar enough to start, then momentum converts it into real work.
@@ -21,7 +21,6 @@
 - `INS-260405-7196` Focus on how fast your work is improving, not where it currently stands — the trajectory is what matters, not the position.
 - `INS-260405-F402` Calling ambitious work a 'sketch' or 'hack' is a legitimate psychological technique that disables premature quality judgment long enough for momentum to build.
 - `INS-260405-81B4` Immersing yourself in the early histories of great work trains you to recognize the pattern and neutralizes premature abandonment.
-- `INS-260321-6D01` Puth's best work follows a two-phase pattern: solo marination where the song develops in his head, then collaboration where others refine and constrain his tendencies.
 - `INS-260404-CD3E` Ambitious projects universally look unimpressive early on, so premature judgment kills more great work than lack of talent.
 - `INS-260403-4B81` Great projects universally pass through a phase where they look embarrassingly bad, and most people quit before pushing through it.
 - `INS-260404-056D` Great work requires pushing through an early phase where your output looks embarrassingly bad.
@@ -34,7 +33,6 @@
 - `INS-260403-1A6B` Deliberately framing ambitious work as sketches, hacks, or experiments lowers the psychological barrier to starting and sustaining it.
 - `INS-260403-8930` Ambitious work passes through an ugly phase where it looks worse than it is, and most people quit here rather than pushing through.
 - `INS-260404-56F8` Ambitious projects look embarrassingly bad early on, and most creators quit before pushing through this inevitable phase.
-- `INS-260409-DC8C` Poking at a tool from partial understanding produces happy accidents that full understanding would systematically avoid.
 - `INS-260405-D925` Starting with an explicit low-commitment frame ('just a sketch', 'just a hack') bypasses perfectionism and lets real work accumulate.
 - `INS-260403-E7A7` Calling ambitious work 'just a sketch' or 'just a hack' lowers the psychological barrier to starting, then momentum carries you forward.
 - `INS-260404-4154` Starting with a sketch instead of a sculpture lets you bypass the psychological barrier of commitment that kills ambitious projects early.
@@ -45,3 +43,5 @@
 - `INS-260404-AD21` Calling serious work 'just a hack' or 'just a sketch' lets you start by applying lower standards, then sneakily converting it once momentum builds.
 - `INS-260402-A94F` Beginning with open exploration rather than a fixed thesis produces more truthful and surprising results in complex domains.
 - `INS-260402-3A0D` Simplicity forces you to face the real problem because you can't hide behind ornament.
+- `INS-260321-6D01` Puth's best work follows a two-phase pattern: solo marination where the song develops in his head, then collaboration where others refine and constrain his tendencies.
+- `INS-260409-DC8C` Poking at a tool from partial understanding produces happy accidents that full understanding would systematically avoid.

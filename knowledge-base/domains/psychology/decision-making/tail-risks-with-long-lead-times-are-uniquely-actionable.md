@@ -50,7 +50,7 @@ related:
   - INS-260330-FEDD
   - INS-260403-1B96
   - INS-260409-5FF6
+  - INS-260412-D236
   - INS-260325-415A
-  - INS-260330-1DDE
 ---
 The rogue Earth scenario has an estimated probability of 1 in 100,000 over the next 5 billion years — statistically tiny but non-zero. The critical insight is that we'd see it coming thousands of years in advance. This advance warning completely changes the risk calculus: prevention may be impossible (you can't redirect a star), but preparation is feasible (underground cities, geothermal power, nuclear energy). This principle applies broadly to personal and organizational risk management. Many people fixate on preventing unlikely disasters rather than building robust preparation systems. The question isn't 'can I stop this from happening?' but 'if I see it coming, can I survive it?' Visibility plus time converts existential threats into engineering challenges.

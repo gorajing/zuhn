@@ -51,9 +51,9 @@ stance: >-
   cost of the original threat
 related:
   - INS-260330-051F
+  - INS-260412-0B35
   - INS-260330-A47B
+  - INS-260412-2220
   - PRI-260406-2B2A
-  - INS-260404-AD52
-  - INS-260330-ED37
 ---
 Neutrophils are the immune system's most aggressively destructive cells: they vomit toxic chemicals, devour pathogens, and even explode their own DNA into toxic nets that trap and kill bacteria. But this very lethality makes them dangerous to the host — they cause significant collateral damage to healthy cells. The solution is a hard-coded self-destruction timer: neutrophils die within days regardless of whether the battle continues. This is a profound safety engineering principle. The immune system accepts reduced defensive capacity (losing experienced fighters) to prevent the far worse outcome of autoimmune destruction. It's the biological equivalent of giving root access with an automatic expiration — the system recognizes that its most powerful tools are also its most dangerous, and designs in mandatory decommissioning rather than trusting ongoing judgment about when to stop.

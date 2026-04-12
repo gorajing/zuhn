@@ -55,9 +55,10 @@ stance: >-
 related:
   - INS-260323-1F27
   - INS-260330-0C1D
-  - INS-260330-2DF9
   - INS-260330-6A65
   - INS-260409-D8E4
+  - INS-260330-2DF9
+  - INS-260412-09A7
   - INS-260330-8429
 ---
 The transcript surfaces three separate tensions: (1) Hubble constant disagreement between CMB-forward and local distance-ladder methods, (2) the S8 tension where observed matter clustering is slightly lower than ΛCDM predicts, (3) elongated prolate galaxy shapes that match warm/wave dark matter predictions better than cold dark matter. Each in isolation could be noise or a calibration issue. The epistemic weight increases when they are correlated — if all three would be resolved by the same modification (e.g., lighter dark matter particles, modified early-universe dynamics), that is dramatically stronger evidence than any single anomaly. The general principle: look for the joint distribution of anomalies, not the marginal significance of each one. Correlated residuals in a single direction are what actually diagnose model misspecification.

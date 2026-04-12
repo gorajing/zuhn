@@ -58,10 +58,10 @@ related:
   - INS-260325-5A2F
   - INS-260325-A782
   - INS-260325-F21D
-  - INS-260404-FC20
   - INS-260409-613B
   - INS-260410-31AA
   - INS-260325-A1B9
+  - INS-260412-3CF8
 ---
 Nadella makes a passing but striking observation: the first utility-scale quantum computer's highest-value workload may be designing its successor. The argument is that atom-by-atom simulation of new quantum gate designs is precisely the kind of data-light, state-space-heavy problem that classical HPC struggles with, and that quantum is theoretically well-suited to.
 

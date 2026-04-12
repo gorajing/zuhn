@@ -3,18 +3,21 @@
 - `INS-260330-6BBD` Forcing a neural net to compress vastly more data than it can memorize pushes it to discover higher-level algorithmic representations.
 - `INS-260403-AC01` Multi-layered optimization produces emergent capabilities irreducible to any single layer's objective.
 - `INS-260330-0C0C` Embedding spaces develop meaningful geometric structure as a side effect of prediction training, with directions encoding concepts like gender and nationality.
+- `INS-260412-09A7` Quantum fluctuations stretched during cosmic inflation became the density variations that determined where all galaxies, stars, and gravitationally bound groups would form.
 - `INS-260326-97C9` Searching the space of possible programs yields more sophisticated results than designing them from scratch.
 - `INS-260410-966F` Human labelers cannot write ideal chains of thought for an LLM because LLM cognition differs from human cognition — only RL can discover token sequences that reliably work for the model itself.
 - `INS-260410-7933` LLMs below ~10B parameters were mostly nonsense generators; the same architecture at 100B+ started reasoning about the world in ways no researcher predicted.
 - `INS-260330-9FCF` Even when populations are clustered with minimal inter-group travel, exponential growth dynamics recur fractally — communities behave like individuals, each infecting other communities with the same multiplicative laws.
 - `INS-260327-DCF8` Scaling video diffusion models produces emergent world simulation capabilities including object permanence and physics understanding.
 - `INS-260412-5965` Any system that builds replication infrastructure creates an ecological niche for parasites of that infrastructure.
+- `INS-260330-E059` 300 rotating arrows, each performing the simplest possible motion (constant-rate rotation), compose to trace any arbitrary shape — a principle that extends to neural networks and modular system design.
 - `INS-260403-726B` Oxygen — the molecule all animal life requires — is a waste product of photosynthesis, not its purpose.
 - `INS-260330-8538` Each level of biological organization (atom → cell → tissue → organ → system → organism) produces emergent capabilities invisible at lower levels.
-- `INS-260330-E059` 300 rotating arrows, each performing the simplest possible motion (constant-rate rotation), compose to trace any arbitrary shape — a principle that extends to neural networks and modular system design.
+- `INS-260412-DE2D` Under neutron star pressures, electrons and protons fuse into neutrons, and nuclei deform into pasta-like structures that may be the strongest material in the universe.
 - `INS-260330-BE0A` Dark matter doesn't form planets or galaxies because its particles don't interact with each other — self-interaction, not just external interaction, is what enables structural complexity.
 - `INS-260412-0EC0` Consciousness is best understood as a multi-step continuum from simple directed motion to self-reflective awareness.
 - `INS-260325-916B` Panpsychism proposes consciousness is a fundamental feature of nature, more like gravity than like computation.
+- `INS-260412-BDB5` Heavy elements require stars to die twice — first in supernovae to make neutron stars, then in kilonova collisions to forge gold and uranium.
 - `INS-260330-3C70` The 3x+1 rule is trivially simple yet produces hailstone sequences that follow geometric Brownian motion — the same statistical pattern as stock market fluctuations.
 - `INS-260330-42DE` The body's hierarchy — atoms, cells, tissues, organs, organ systems, organism — shows how stacking simple organized layers produces capabilities none could achieve alone.
 - `INS-260409-2677` Everything in the universe is a descendant of one lucky particle per billion that survived matter-antimatter annihilation — tiny asymmetries compound into everything.

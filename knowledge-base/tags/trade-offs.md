@@ -15,6 +15,6 @@
 - `INS-260330-40DA` Agriculture made individuals less healthy and overworked compared to foraging, yet it dominated because surplus calories enabled specialization cascades.
 - `INS-260410-CC41` Benchmark's no-growth-fund, equal-partners, no-memos, five-person structure isn't a list of quirks — each constraint only works because the others exist, and together they multiply instead of conflict.
 - `INS-260403-C5FB` Rapid solidification of the outer layer creates extreme strength but also locks in destructive internal tension that cannot be released gracefully.
+- `INS-260410-BED1` A tabletop needs a harder-wearing finish than a bookshelf's interior shelf — spending equally on both just hurts the customer through higher price.
 - `INS-260330-851F` Aerogel's insulation is extraordinary but too fragile alone; embedding it in fiberglass creates a practical product that can be flexed, cut, and sewn.
 - `INS-260330-8D34` A clear set of 'why are we building this' statements serves as both creative constraint and trade-off arbiter across all teams.
-- `INS-260410-BED1` A tabletop needs a harder-wearing finish than a bookshelf's interior shelf — spending equally on both just hurts the customer through higher price.

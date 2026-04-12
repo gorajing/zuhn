@@ -54,10 +54,10 @@ stance: >-
   mask.
 related:
   - PRI-260407-68B9
+  - INS-260412-8FB0
   - INS-260403-F75F
   - PRI-260405-8E48
   - PRI-260406-F937
-  - PRI-260406-14BB
 evidence:
   - id: INS-260325-9A0F
     type: SUPPORTS

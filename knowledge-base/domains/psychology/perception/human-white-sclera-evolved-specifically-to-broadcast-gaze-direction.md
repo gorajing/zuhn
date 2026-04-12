@@ -51,10 +51,10 @@ stance: >-
   that sacrifices stealth for social coordination through visible gaze direction
 related:
   - INS-260409-4CBB
+  - INS-260412-D8ED
   - INS-260325-DFA5
   - INS-260409-C3F7
   - INS-260330-4634
-  - INS-260412-CF9B
 evidence:
   - id: INS-260330-F056
     type: SUPPORTS

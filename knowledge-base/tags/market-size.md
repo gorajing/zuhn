@@ -1,7 +1,7 @@
 # Tag: market-size
 
-- `INS-260327-DFF1` BPO spend in banking, financial services, and insurance alone is nearly $400B annually — about the same as all global cloud software — and AI agents can transform this from 10-15% margin services to 80% margin businesses.
 - `INS-260325-F20C` Sequoia sizes AI at $10T+ because it replaces cognitive labor — every knowledge worker seat becomes a software purchase.
+- `INS-260327-DFF1` BPO spend in banking, financial services, and insurance alone is nearly $400B annually — about the same as all global cloud software — and AI agents can transform this from 10-15% margin services to 80% margin businesses.
 - `INS-260322-823B` The convergence of GLP-1 normalization, declining medical trust, and biohacker culture is creating a 'Pharma 2.0' category where consumers self-direct injectable health optimization.
 - `INS-260403-DF45` Technology isolation can cause a rival's ecosystem to optimize for a smaller domestic market, permanently limiting its global competitiveness.
 - `INS-260403-FD57` Venture funding exceeded $90B for four straight quarters in 2025, driven by decacorn mega-rounds and AI dominance.

@@ -1,5 +1,6 @@
 # Tag: conversion
 
+- `INS-260412-0540` The most stable configuration doesn't just persist — it actively recruits surrounding matter into its own state.
 - `INS-260403-2385` Structure landing page narratives as Problem → Agitation (real business cost) → Transformation (quantified outcome) using customers' exact language.
 - `INS-260329-BE8E` Simplify all marketing language to a third-to-fifth grade reading level to maximize comprehension and conversion rates.
 - `INS-260409-01E7` Write for the buyer and the broadcaster in the same post — the broadcaster gives you reach, the buyer gives you revenue.

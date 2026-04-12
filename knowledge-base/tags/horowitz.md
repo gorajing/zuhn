@@ -1,8 +1,8 @@
 # Tag: horowitz
 
+- `INS-260409-3346` The opportunity is alleviating AI's supply bottlenecks — transformers, power, chips, tokens, cooling.
 - `INS-260409-D6D8` Write your story long-form — prose forces the discipline that speech and slides let you skip.
 - `INS-260409-065B` Creativity and relationship-building are what AI can't replicate — hire for both, most firms don't.
-- `INS-260409-3346` The opportunity is alleviating AI's supply bottlenecks — transformers, power, chips, tokens, cooling.
 - `INS-260409-FE1D` Possession of customer beats model differentiation — ChatGPT may have negative model edge but owns the consumers.
 - `INS-260409-2578` Pivots at scale rarely work — only pivot when you have literally no other choice.
 - `INS-260409-3CCA` Writing the story doesn't feel like work, so founders skip the most important part of the job.

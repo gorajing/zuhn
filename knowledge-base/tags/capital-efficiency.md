@@ -2,11 +2,11 @@
 
 - `INS-260410-320D` Mars targets a fixed 18% return on the replacement cost of assets, forcing continuous asset productivity and disciplined reinvestment.
 - `INS-260403-2369` Stablecoins move money fast but earn nothing — the real opportunity is building yield layers on top of them.
+- `INS-260403-F732` Rising rates shake out weak competitors, concentrate talent, and force the survivors to build sustainably profitable businesses.
 - `INS-260329-CB10` Buying an existing business with seller financing lets you skip years of startup risk and immediately own a cash-flowing asset.
 - `INS-260403-5BBE` Collecting payment before incurring costs transforms cash flow from a constraint into a competitive weapon.
 - `INS-260410-03FA` When customers pay you before you pay suppliers, every dollar of growth generates free capital instead of consuming it.
 - `INS-260410-270E` Coca-Cola serves the entire world from a handful of syrup plants because it lets independent bottlers put up the capital and labor for bottling and distribution while the parent company keeps the trademark, the formula, and the marketing.
-- `INS-260403-F732` Rising rates shake out weak competitors, concentrate talent, and force the survivors to build sustainably profitable businesses.
 - `INS-260403-B7C6` Overfunded competitors lose exit flexibility and operational agility, turning their capital advantage into a strategic cage.
 - `INS-260330-09E3` Harvard Business Review's three paths to market dominance—best price (logistics), best product (R&D), best overall solution (customer intimacy)—reveal that only the third path requires no capital, just humility and manners.
 - `INS-260410-F69C` Steve Ballmer reflected that Microsoft's worst mistakes 'only lost money' — the real cost was the best engineers sunk into projects like Vista instead of competing in search, mobile, and social.

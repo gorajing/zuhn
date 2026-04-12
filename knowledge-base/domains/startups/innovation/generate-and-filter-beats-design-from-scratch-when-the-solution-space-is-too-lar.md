@@ -57,8 +57,8 @@ related:
   - INS-260412-CDDC
   - INS-260412-E072
   - INS-260412-EED1
+  - INS-260412-B25A
   - PRI-260406-E5FB
-  - PRI-260407-7D5E
   - INS-260412-B1F7
 ---
 The immune system doesn't try to predict which pathogens will appear — it generates maximum diversity and lets selection do the work. This is provably superior when the problem space has billions of possible configurations and you cannot predict which ones matter. Trying to design the 'right' receptor would require knowing the future threat landscape, which is unknowable.

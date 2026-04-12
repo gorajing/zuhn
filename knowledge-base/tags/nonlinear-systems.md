@@ -1,5 +1,6 @@
 # Tag: nonlinear-systems
 
+- `INS-260412-AB42` A 10x change in one dimension produces 100x and 1000x changes in related dimensions, making single-scale intuition dangerously misleading.
 - `INS-260330-5265` Our everyday experience with catching baseballs at 90 mph provides zero useful intuition for what happens at 1000 mph because energy scales with velocity squared.
 - `INS-260330-4E9B` A structure tall enough to reach geostationary orbit would be stabilized by centrifugal force rather than crushed by gravity, flipping compression into tension.
 - `INS-260325-486C` Adjacent numbers 26 and 27 in Collatz reach maximums of 40 and 9,232 respectively — simple rules create wildly divergent outcomes that no intuition can predict.

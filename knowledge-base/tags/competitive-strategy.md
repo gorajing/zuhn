@@ -2,10 +2,10 @@
 
 - `INS-260405-B7C7` Meta giving away a $10B AI model forces the AI market toward commoditized model weights, undermining the subscription economics of closed competitors while costing Meta nothing since it doesn't sell AI.
 - `INS-260403-3B8D` Anthropic proved that safety-first positioning creates enterprise value by making predictability the product, not the overhead.
+- `INS-260405-1101` Britain in 1870-1914 produced more in absolute terms at war's outbreak than in 1870, yet felt weaker because America and Germany had grown faster — the lesson applies to any competitive system.
 - `INS-260405-615E` Platform companies are acquiring agentic workflow capability to embed automation into existing distribution, not to win on model benchmarks.
 - `INS-260403-EDFB` Generic AI tools are commoditized, but deep vertical AI products for specific industries and workflows still have massive untapped opportunity.
 - `INS-260410-2632` Nike gave Jordan a 5% gross revenue royalty plus signature shoe because Converse and Adidas couldn't offer the same without their existing stars demanding equal treatment.
-- `INS-260405-1101` Britain in 1870-1914 produced more in absolute terms at war's outbreak than in 1870, yet felt weaker because America and Germany had grown faster — the lesson applies to any competitive system.
 - `INS-260329-5B18` Craft a single sentence that names your specific avatar, their desired outcome, your delivery timeframe, and your unique mechanism to instantly differentiate from competitors.
 - `INS-260405-487E` AI communication agents are commoditizing — companies without them will have operational disadvantages, not just missed opportunities.
 - `INS-260403-3C66` AI startups need at least one of three moats — domain expertise, differentiated distribution, or new interaction models — to survive platform competition.

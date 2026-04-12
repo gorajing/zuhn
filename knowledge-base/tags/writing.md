@@ -11,13 +11,13 @@
 - `INS-260402-A693` Leslie Lamport's claim that 'if you're thinking without writing, you only think you're thinking' frames writing as the actual mechanism of thought, not its byproduct.
 - `INS-260402-12D0` Writing generates ideas rather than merely recording them — 90% of essay content only emerges during the writing process.
 - `INS-260405-678B` Leslie Lamport's dictum: if you're thinking without writing, you only think you're thinking.
+- `INS-260403-1046` Ideas feel fully formed in your head until you try to write them down, revealing an illusion of completeness.
 - `INS-260403-1A96` The Morris technique — never say anything unless you're sure it's worth hearing — turns scientific publication bias into an essayist's greatest asset.
 - `INS-260403-772D` The skills that make someone a great speaker are often orthogonal or opposed to the skills that generate good ideas.
 - `INS-260403-2AF0` Writing's superiority for idea generation comes from removing the real-time constraint that limits both speakers and listeners.
 - `INS-260404-7F34` Essay impact is novelty × importance, but achieving both simultaneously is rare because important topics have already been heavily explored.
 - `INS-260403-6652` Writing demands more rigor than talking because less can go unsaid and you lose the crutch of tone and shared context.
 - `INS-260409-D6D8` Write your story long-form — prose forces the discipline that speech and slides let you skip.
-- `INS-260403-1046` Ideas feel fully formed in your head until you try to write them down, revealing an illusion of completeness.
 - `INS-260402-F3D7` Having an audience prevents the natural tendency to stop thinking at exactly the point where deeper exploration would be most valuable.
 - `INS-260403-2612` Experts benefit more from writing about their domain because they hold more unconscious knowledge that only surfaces through articulation.
 - `INS-260405-E05D` The right to pitch future articles and sidebar placement may be worth more to a writer than the $2,500 first prize.

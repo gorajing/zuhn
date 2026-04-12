@@ -1,7 +1,8 @@
 # Topic: human-physiology
 
-> 42 insights
+> 49 insights
 
+- `INS-260412-744D` [high] A 2-gram tumor is 10% of a mouse but 0.000002% of a blue whale, so large animals may harbor many small cancers that never reach clinically relevant size.
 - `INS-260412-812C` [high] The adaptive immune system recombines ~100 gene fragments to produce 1-10 billion unique receptors, covering every possible pathogen protein shape.
 - `INS-260330-BC56` [high] Photons from solar fusion excite electrons in chlorophyll, which through an elaborate transport chain produce ATP and NADPH, which build glucose, which animals then reverse-engineer back into ATP — making all aerobic life indirectly fusion-powered.
 - `INS-260330-B061` [high] PSII splits water to replace lost electrons, producing oxygen as a byproduct — this single reaction in chloroplasts is the source of virtually all breathable oxygen on Earth.
@@ -12,13 +13,17 @@
 - `INS-260330-BA7F` [high] Every oxygen molecule we breathe originates from Photosystem II splitting water — a single reaction point sustaining all aerobic life.
 - `INS-260405-AE0D` [high] Photosynthesis runs in two completely separate stages — light reactions capture energy into ATP/NADPH buffers, then the Calvin Cycle spends that buffer to fix carbon — with neither stage directly coupled to the other.
 - `INS-260330-8538` [high] Each level of biological organization (atom → cell → tissue → organ → system → organism) produces emergent capabilities invisible at lower levels.
+- `INS-260412-8FB0` [high] Cancer results from compounding tiny replication errors across trillions of reactions over time, making it a when-not-if phenomenon.
 - `INS-260404-EE01` [high] Stress is not the silent killer — lack of recovery from stress is.
 - `INS-260330-81E0` [high] Biological function is a direct consequence of physical form at every organizational level.
 - `INS-260330-051F` [high] All death results from irreversible homeostatic failure, regardless of the proximate cause.
+- `INS-260412-DE2D` [high] Under neutron star pressures, electrons and protons fuse into neutrons, and nuclei deform into pasta-like structures that may be the strongest material in the universe.
 - `INS-260412-CDDC` [high] Measles herd immunity requires 95% vaccination coverage — one of the highest thresholds of any disease — making it extremely fragile to even small anti-vaccine movements.
+- `INS-260412-0B35` [high] Neutrophils commit suicide after five days and immune cells die without ongoing signals, preventing the defense system from destroying what it protects.
 - `INS-260412-E072` [high] Innate immunity buys time with fast, cheap, self-destructing cells while the adaptive system spends days manufacturing precision weapons.
 - `INS-260330-9733` [high] White blood cells detect tattoo ink immediately but can only remove particles smaller than themselves, which is why tattoos fade slowly over decades.
 - `INS-260412-B1F7` [high] The immune system's friendly-fire response, not the virus itself, drives most severe disease outcomes.
+- `INS-260412-4DC7` [high] Memory T cells and B cells persist after infection, enabling near-instant response to future encounters and effectively converting a costly first battle into permanent low-cost protection.
 - `INS-260412-0689` [high] Measles survivors have a severely weakened immune system that takes extended time to regenerate, leaving them vulnerable to other diseases.
 - `INS-260403-2DEE` [high] Tensed muscles absorb punch energy before it reaches organs, while relaxed muscles allow force to transmit directly to vulnerable tissue.
 - `INS-260412-00D4` [high] Neutrophils are programmed to die within days of birth because their indiscriminate killing — including DNA-net explosions — would destroy the body's own tissue if left unchecked.
@@ -29,6 +34,7 @@
 - `INS-260330-F2B6` [high] Both photosynthesis and cellular respiration use the same trick: pump protons across a membrane to create a concentration gradient, then harvest that gradient through ATP synthase.
 - `INS-260330-8BB4` [high] Bubble collapse dynamics follow the same Rayleigh-Plesset equation whether the bubble forms from a bullet or a medical ultrasound transducer.
 - `INS-260330-A7C6` [high] When bubbles collapse rapidly enough during sonoluminescence, the compressed gas inside can briefly reach temperatures exceeding the sun's surface, emitting visible light from sound energy alone.
+- `INS-260412-286C` [high] Small animals lose heat faster due to high surface-area-to-volume ratios, forcing higher metabolic rates and fundamentally different physiological designs.
 - `INS-260330-5676` [high] Cultural taboos against direct examination of human bodies delayed anatomical knowledge for centuries, forcing reliance on flawed animal analogies.
 - `INS-260330-E647` [high] Neurons have extremely high metabolic rates, with the brain consuming about 25% of daily calories, making cognitive function the first casualty of energy deficits.
 - `INS-260330-1677` [high] Chloroplasts charge thylakoids like batteries by pumping protons inside, then harvest that gradient through ATP synthase to produce ATP.
@@ -40,6 +46,7 @@
 - `INS-260409-9A4E` [medium] Scalp hypoxia from restricted circulation triggers inflammation and scar tissue formation, which is the irreversible step in pattern baldness progression.
 - `INS-260409-3117` [medium] Because hair loss is a multi-factor cascade, any protocol that fixes only one layer (DHT, circulation, mitochondria, scar tissue, or metabolic) will plateau at partial results.
 - `INS-260409-E490` [medium] Insulin resistance increases 5-alpha reductase activity and free testosterone availability, making metabolic repair a prerequisite for durable hair regrowth.
+- `INS-260412-A4E9` [medium] Elephants require more mutations per cell to develop cancer because evolution equipped them with additional tumor suppressor genes to offset their massive cell counts.
 - `INS-260403-687E` [medium] Male testosterone is declining ~1% per year independent of age and lifestyle, meaning today's 30-year-old has 20% less than his father did at the same age.
 - `INS-260330-2A6A` [medium] Bright tattoo ink colors are created from heavy metal compounds, creating an ironic contrast with the sterile-field protocols used during application.
 - `INS-260409-8759` [medium] November 2025 Chinese mouse study showed treadmill-trained fathers pass physical fitness to male offspring via specific sperm microRNAs regulating metabolism genes — the strongest mechanistic evidence yet for non-DNA paternal inheritance.

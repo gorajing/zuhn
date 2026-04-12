@@ -56,9 +56,9 @@ stance: >-
 related:
   - PRI-260328-D292
   - INS-260323-9BAB
+  - INS-260412-4E72
   - INS-260330-19C3
   - INS-260330-03F7
-  - PRI-260407-B738
 ---
 Sutskever's fossil-fuel analogy (which Patel endorses) reframes the common critique that LLMs are doomed because human data is finite. The argument: civilization did not regret using coal and oil despite their non-renewability — they were the cheap, plentiful, convenient intermediary that made the transition from water wheels to solar and fusion possible.
 

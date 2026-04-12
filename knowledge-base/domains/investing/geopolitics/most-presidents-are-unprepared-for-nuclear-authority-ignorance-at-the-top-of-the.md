@@ -51,10 +51,10 @@ resolutions:
     until the crisis arrives.
 related:
   - INS-260403-7E6A
+  - INS-260412-5494
   - INS-260330-39D4
   - INS-260410-AF9A
   - INS-260325-A326
-  - INS-260323-6F66
   - INS-260330-66F7
 stance: >-
   Former Defense Secretary Leon Panetta revealed that President Clinton avoided

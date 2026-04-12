@@ -49,9 +49,9 @@ related:
   - INS-260410-69C2
   - INS-260412-0689
   - INS-260412-A9A9
+  - INS-260412-66D8
+  - INS-260412-B25A
   - INS-260412-8CB2
-  - INS-260325-BF44
-  - INS-260412-E072
 ---
 When coronavirus infects immune cells, it triggers a cytokine storm — a feedback loop where confused immune cells release inflammatory signals that recruit excessive neutrophils and killer T-cells. Neutrophils indiscriminately destroy both infected and healthy cells, while confused T-cells order healthy cells to self-destruct. This escalating friendly-fire destroys lung tissue faster than the virus would alone.
 

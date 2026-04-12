@@ -1,7 +1,7 @@
 # Tag: growth-loops
 
-- `INS-260403-C17B` Twice-yearly high-visibility campaigns convert passive interest into active community participation by lowering activation energy at scale.
 - `INS-260327-F3F0` Napoleon's Italian campaign funded itself through war indemnities and looting — each victory paid for the next advance, removing dependence on the cash-strapped French government.
+- `INS-260403-C17B` Twice-yearly high-visibility campaigns convert passive interest into active community participation by lowering activation energy at scale.
 - `INS-260402-B743` Copying a competitor's growth loop features without understanding the underlying system mechanics and timing conditions produces poor results.
 - `INS-260402-5523` Successful growth loops are designed around behaviors users already exhibit naturally, not invented from scratch.
 - `INS-260404-F8AF` Dedicate 20-25% of growth resources to exploring new channels because current tactics will hit diminishing returns within 18 months.

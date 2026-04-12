@@ -4,8 +4,8 @@
 - `INS-260403-35E7` Real standards establish themselves before most people hear about them — heavy promotion is a smell of inadequacy.
 - `INS-260403-8011` When the Internet eliminates distribution bottlenecks, 'build it and they will come' becomes a viable strategy.
 - `INS-260323-8392` Customer service is the #1 underrated competency in modern business — one great experience can make a brand blow up positively, one bad experience can destroy it publicly.
-- `INS-260327-17DE` Customer service is the quality that ensures customers stay and refer 10 friends — it is the real growth engine in hardware businesses.
 - `INS-260404-FD24` The cartoon archetype of the ruthless businessman is mathematically wrong for startups where growth comes from word-of-mouth.
+- `INS-260327-17DE` Customer service is the quality that ensures customers stay and refer 10 friends — it is the real growth engine in hardware businesses.
 - `INS-260330-072D` One person saying 'don't use them' destroys more growth than ten champions create, so always make it right even when it's expensive.
 - `INS-260330-1266` Dominant technologies almost always grew through word-of-mouth from devoted early adopters, not through splashy launches.
 - `INS-260402-491D` Referral programs simultaneously maximize supply volume and quality because successful hosts self-select high-quality recruits.

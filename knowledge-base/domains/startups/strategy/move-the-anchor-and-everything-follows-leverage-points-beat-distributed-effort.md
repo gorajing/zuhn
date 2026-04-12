@@ -46,10 +46,9 @@ stance: >-
 related:
   - INS-260330-A149
   - INS-260330-B69C
-  - INS-260409-4EA5
   - INS-260323-849E
   - INS-260412-5ACD
+  - INS-260412-E197
   - INS-260330-2DF9
-  - INS-260330-03F7
 ---
 The stellar engine concept reveals a profound strategic principle: you don't need to coordinate hundreds of thousands of objects if you can move the one thing they all depend on. The Sun's gravity binds the entire solar system, so moving the Sun automatically relocates everything else. This maps directly to startup strategy — rather than trying to shift every team, product, and process individually, identify the gravitational center (core product, key hire, platform dependency) and move that. The rest realigns naturally. This is why platform shifts, key API changes, or founder-led pivots can redirect entire organizations more efficiently than distributed change management programs.

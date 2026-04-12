@@ -1,6 +1,6 @@
 # Topic: physics-intuition
 
-> 87 insights
+> 89 insights
 
 - `INS-260330-CDF8` [high] Light's regularity means its full 3D state is determined by its values on any 2D boundary surface.
 - `INS-260330-12F9` [high] Firing one bullet underwater produces three visually distinct phenomena (Bernoulli cavitation, gas trail, shock vapor) that are invisible at normal speed but separable at 27,450 fps.
@@ -19,6 +19,7 @@
 - `INS-260323-5BEF` [high] Objects appear to follow single trajectories not because they do, but because the crazy paths cancel each other out — only paths near the least-action path constructively interfere and survive.
 - `INS-260330-881A` [high] The Julian calendar drifted only 10 days in 1,500+ years, yet that imperceptible annual error eventually forced Pope Gregory to delete 10 days from October 1582.
 - `INS-260404-842D` [high] Conservation of energy forces the collision dynamics onto a circle in velocity phase space, which is why pi emerges from a counting problem.
+- `INS-260412-121B` [high] Neutron stars spin many times per second because collapsing from star-size to city-size concentrates all rotational energy into a tiny radius.
 - `INS-260330-85AA` [high] Aerogel insulates better than air despite being 99% air because its pores are smaller than air molecules' mean free path.
 - `INS-260330-1509` [high] The event horizon 'singularity' that convinced Einstein black holes couldn't exist was just a bad coordinate choice, not real physics.
 - `INS-260330-E606` [high] Black shade balls actually cool the water beneath them because the air gap inside acts like a double-paned window, blocking heat transfer despite high surface absorption.
@@ -27,6 +28,7 @@
 - `INS-260330-A149` [high] Because we move almost exclusively through time rather than space relative to Earth, gravity's pull is mostly the curvature of time, not space.
 - `INS-260330-51D6` [high] Earth's uneven mass distribution, rotation, and external gravitational influences make 'down' a messy, ever-changing vector rather than a simple line to the center.
 - `INS-260330-E89A` [high] Gravity yielded the Industrial Revolution, electromagnetism produced the Electric Age, and nuclear forces created the Atomic Age — each fundamental force discovery reliably cascades into civilization-scale transformation.
+- `INS-260412-366A` [high] A fairy fly experiences air as syrup and water as glue, while an elephant experiences gravity as lethal — same planet, completely different physics.
 - `INS-260409-4EA5` [high] From the lunar surface Earth hangs in one spot forever; rising and setting only happens because the spacecraft is moving.
 - `INS-260409-CE1D` [high] From Artemis's long-exposure Earth shot the atmosphere is a thread — you cannot separate 'clouds' from 'breathable layer' because both are tiny against the planet's radius.
 - `INS-260330-AE9C` [high] Abstract proofs and concrete examples serve complementary roles: proofs guarantee generality, examples build understanding.

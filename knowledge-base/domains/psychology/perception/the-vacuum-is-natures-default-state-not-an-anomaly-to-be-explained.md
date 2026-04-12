@@ -45,10 +45,10 @@ resolutions:
     questions.
 related:
   - PRI-260323-D475
+  - INS-260412-0F94
   - INS-260330-2E54
   - INS-260327-2112
   - INS-260323-7F5D
-  - INS-260323-C1D7
   - INS-260330-B224
   - INS-260409-02C5
 stance: >-

@@ -50,7 +50,7 @@ related:
   - INS-260403-8302
   - INS-260330-A84D
   - INS-260409-A200
-  - INS-260323-F62A
+  - INS-260412-2220
 stance: >-
   Asbestos companies funded Saranac Labs research with a clause giving them
   editorial control, then buried findings that showed cancer links.

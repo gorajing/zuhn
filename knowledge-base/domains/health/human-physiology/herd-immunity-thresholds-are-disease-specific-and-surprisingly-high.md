@@ -51,6 +51,6 @@ related:
   - INS-260412-8CB2
   - INS-260404-63F0
   - INS-260412-A9A9
-  - INS-260412-EED1
+  - INS-260412-66D8
 ---
 Herd immunity isn't a binary state but a threshold effect that varies by disease based on its transmissibility (R0). Measles, being one of the most contagious diseases known, requires approximately 95% vaccination coverage to maintain herd immunity. This means that even a 5% drop in vaccination rates can break population-level protection, exposing those who genuinely cannot be vaccinated (infants, immunocompromised individuals). This threshold dynamic is a powerful analogy for any system that depends on network-level participation — just as 95% coverage protects the remaining 5%, slight drops below critical thresholds cause disproportionate system failures. The non-linear relationship between coverage percentage and protection level means small changes near the threshold have outsized consequences.

@@ -56,8 +56,8 @@ related:
   - INS-260330-078A
   - INS-260410-C329
   - INS-260412-0689
+  - INS-260412-4DC7
   - INS-260412-A5C4
   - INS-260412-E072
-  - PRI-260328-97E0
 ---
 When the battle ends, most immune cells self-destruct to conserve resources — but a critical few helper T cells convert into memory cells that patrol the tissue for years, while some B cells survive and continuously produce low-level antibodies. This means every infection you survive permanently upgrades your defensive posture against that specific threat, often for life. The pattern is a universal automation principle: the expensive first-time response (days of cloning, antibody factory spin-up) gets amortized into a near-zero-cost persistent monitor. This is exactly how good engineering systems should work — incident response that automatically generates monitoring rules, runbooks, and alerting for the specific failure mode encountered. The immune system achieves what most organizations fail at: systematically converting expensive ad-hoc responses into cheap permanent infrastructure.

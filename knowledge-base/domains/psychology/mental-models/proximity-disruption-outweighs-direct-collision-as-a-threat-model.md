@@ -44,9 +44,10 @@ stance: >-
 related:
   - INS-260330-E990
   - INS-260330-8CCE
-  - INS-260404-842D
   - INS-260412-DBD1
   - INS-260412-D634
+  - INS-260412-B805
   - INS-260412-8C32
+  - INS-260412-E197
 ---
 The solar system's greatest existential risk isn't a star hitting Earth but one passing close enough to perturb gravitational equilibria. A red dwarf passing through the Oort Cloud — without touching a single planet — could trigger millions of comets toward the inner solar system over millennia. This maps directly to competitive strategy and personal decision-making: the forces that destabilize your life or business rarely strike head-on. A new competitor doesn't need to take your customers to destroy you — their gravitational pull on talent, investor attention, or market narrative reshapes the orbits of everything in your system. Modeling for direct threats while ignoring proximity effects is a systematic blind spot.

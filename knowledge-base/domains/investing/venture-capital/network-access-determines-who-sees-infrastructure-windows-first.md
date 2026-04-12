@@ -53,7 +53,6 @@ related:
   - INS-260403-C032
   - INS-260403-9DC6
   - INS-260403-D198
-  - INS-260410-1BB0
 evidence:
   - id: INS-260330-DDF0
     type: TRANSFERS_TO

@@ -47,11 +47,12 @@ stance: >-
   universe) will physically disappear over time, meaning knowledge can become
   permanently unrecoverable regardless of intelligence or technology.
 related:
+  - INS-260412-B9F4
   - INS-260412-CFA6
   - INS-260412-8BDB
   - INS-260412-EF6C
   - INS-260323-38EC
-  - INS-260325-9677
+  - INS-260412-F121
 ---
 As the universe expands and galaxies recede past the cosmological horizon, their light will stop reaching the Local Group entirely. A civilization born in the far-future merged galaxy 'Milkdromeda' would see only its own galaxy surrounded by empty darkness — no cosmic background radiation, no redshifting galaxies, no evidence of the Big Bang.
 

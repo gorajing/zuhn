@@ -2,6 +2,7 @@
 
 - `INS-260411-27AA` Gate human approval on irreversible or high-consequence actions only — routine gating causes approval fatigue that defeats the safety purpose.
 - `INS-260326-7995` Yudkowsky identifies the fundamental asymmetry of superintelligence development: normal science assumes we can learn from failures and retry, but a misaligned superintelligence eliminates the possibility of iteration.
+- `INS-260412-F121` Dark energy permanently separates gravitationally unbound galaxy groups, making the Local Group humanity's absolute ceiling regardless of technology.
 - `INS-260412-C1EC` Inside a black hole's event horizon, moving in any direction only brings you to the singularity faster — the longest survival comes from doing nothing.
 - `INS-260403-D294` Irreversible geological and cosmic decay means some present-day experiences are genuinely non-renewable, which should increase their weight in how we allocate time.
 - `INS-260330-2C57` Agriculture was adopted through millions of small, locally rational choices that collectively created an irreversible civilizational transformation with massive unintended consequences.

@@ -51,7 +51,7 @@ related:
   - INS-260412-12D3
   - INS-260325-05E4
   - INS-260412-5F4D
-  - INS-260330-9351
+  - INS-260412-2220
 ---
 The health consequences of chronic loneliness are not metaphorical — they are physiological. The stress response from sustained social isolation accelerates biological aging, weakens immune function, makes cancer more deadly, and speeds Alzheimer's progression. The comparison points are striking: loneliness carries twice the mortality risk of obesity and matches the risk of smoking 20 cigarettes per day.
 

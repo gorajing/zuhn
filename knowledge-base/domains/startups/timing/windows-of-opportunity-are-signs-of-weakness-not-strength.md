@@ -61,8 +61,8 @@ related:
   - INS-260327-FFA7
   - INS-260403-A1FA
   - PRI-260411-5A63
+  - INS-260412-E9A1
   - INS-260405-6387
-  - INS-260403-E1E4
 ---
 Paine reframes 'window of opportunity' from a positive concept (hey, we have a chance!) to a diagnostic of weakness: if you have a window, it means time favors your opponent, and whatever you intend to do must be completed before the window slams shut or you end up in a world of hurt. Japan in 1904 had roughly three years before the Trans-Siberian Railway would double-track and Russia's Asian naval tonnage would exceed Japan's by 1905. That's why Japan started the Russo-Japanese War on a specific date — not because it wanted to, but because its relative position was decaying.
 

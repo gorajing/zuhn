@@ -46,7 +46,6 @@ related:
   - INS-260323-BC61
   - INS-260330-F488
   - INS-260403-9012
-  - INS-260323-A197
 stance: >-
   Iran's nuclear ambitions and proxy network (Hezbollah, Houthis) create an
   emergency risk that prevents the US from cleanly delegating Middle East p...

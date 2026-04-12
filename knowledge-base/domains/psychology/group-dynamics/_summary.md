@@ -1,6 +1,6 @@
 # Topic: group-dynamics
 
-> 107 insights
+> 108 insights
 
 - `INS-260330-2EB0` [high] The Pueblo Revolt shows that a shared existential threat can override deep tribal divisions — but the unity is temporary.
 - `INS-260403-D609` [high] Enforcers of orthodoxy compete with each other, creating a race to the bottom where any borderline idea gets banned.
@@ -57,6 +57,7 @@
 - `INS-260403-8C7E` [high] Social media functions as a status marketplace where divisive hostility is the most reliable path to visibility and influence.
 - `INS-260403-C4E2` [high] When enough people around you are doing something ambitious, it stops feeling crazy and starts feeling like the obvious next step.
 - `INS-260403-750A` [high] Gen Z's return to religion and structured practices signals that unconstrained freedom is experienced as a burden, not liberation.
+- `INS-260412-D8ED` [high] Argentine ant supercolonies eventually fracture into warring factions as mutations create enough genetic distance for ants to recognize each other as outsiders.
 - `INS-260330-0FAF` [high] Which words are 'worst' shifts historically: religious oaths were most taboo when the church held power, bodily words when Victorian propriety reigned, and identity slurs now that social equality is the dominant moral framework.
 - `INS-260330-F759` [high] Being adjacent to a political coalition imports reputational costs from its worst members.
 - `INS-260403-E36A` [high] Making volunteer gaps visible combats the bystander effect in distributed community organizing.

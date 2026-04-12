@@ -53,9 +53,9 @@ stance: >-
 related:
   - INS-260412-812C
   - INS-260412-E072
+  - INS-260412-B25A
   - PRI-260406-4A83
-  - INS-260325-BF44
-  - INS-260410-1AF0
+  - INS-260412-66D8
 ---
 Because the adaptive immune system generates receptors randomly, many inevitably match the body's own proteins. The thymus acts as a quality filter — presenting self-proteins to new immune cells and ordering any that react to self-destruct. Only 2% survive this 'murder university' and enter circulation.
 

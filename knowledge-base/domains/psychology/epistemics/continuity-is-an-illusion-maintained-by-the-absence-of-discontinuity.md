@@ -49,5 +49,6 @@ related:
   - INS-260325-C2DA
   - INS-260330-5F6C
   - INS-260330-2988
+  - INS-260412-1F4E
 ---
 The dinosaurs experienced 165 million years of relative continuity — long enough for any observer to conclude the system was permanent. The asteroid arrived with essentially zero warning relative to the timescale of that stability. This maps directly to normalcy bias in human systems: financial markets, geopolitical orders, and technological paradigms all feel permanent until they aren't. The key insight is that continuity isn't evidence of robustness — it's evidence that no sufficiently large perturbation has arrived yet. Systems that appear most stable may simply be the ones whose breaking point hasn't been tested.

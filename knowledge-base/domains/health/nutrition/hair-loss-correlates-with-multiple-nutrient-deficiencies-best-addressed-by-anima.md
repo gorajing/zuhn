@@ -60,7 +60,6 @@ related:
   - INS-260327-D17A
   - PRI-260325-638B
   - INS-260327-370A
-  - INS-260327-E121
 ---
 Cross-sectional studies show androgenic alopecia patients consistently have deficiencies in zinc (best from oysters/red meat -- phytic acid in plant sources blocks absorption), copper (primarily from liver), magnesium (bioavailable from meat/coconut water/milk, not spinach/almonds), selenium (selenocysteine from animal foods superior to selenomethionine from Brazil nuts), B12 (animal foods only), vitamin E (animal fats including butter and tallow), vitamin D (sun), and folate (egg yolks and liver).
 

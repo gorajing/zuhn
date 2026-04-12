@@ -10,19 +10,19 @@
 - `INS-260327-9431` For the first time ever, unemployment among young male college graduates equals non-graduates, suggesting the college degree premium is evaporating.
 - `INS-260323-7B63` AI creates the greatest period of business disruptability in history, making moat analysis the most critical and difficult skill for investors.
 - `INS-260327-3B91` The market has indiscriminately punished all software stocks, but moat-rich companies like Atlassian are being massively oversold while moat-poor ones like Monday may be fairly priced.
-- `INS-260322-88C3` AI threatens every incumbent company simultaneously, driving a wave of M&A as corporations acquire startups to reconstruct how they work rather than building capabilities internally.
-- `INS-260403-586C` Per-seat pricing breaks down when AI agents do the work instead of humans, forcing a shift to usage or outcome-based billing.
-- `INS-260404-BEAA` Reports of SaaS death are exaggerated, but the sentiment reflects genuine pressure from AI-native tools that can replicate SaaS functionality without traditional subscription models.
-- `INS-260402-C1A9` HubSpot lost millions of visits and Chegg's stock tanked because AI can now answer the same generic questions their content targeted.
 - `INS-260321-F2C4` 25% of business development company portfolios are in software companies — the sector most disrupted by AI — with 31% of debts maturing in the next two years.
 - `INS-260404-29AF` AI automation is making VC and PE strategies converge as both compete on AI-driven operational efficiency.
 - `INS-260403-C5BD` AI automation compresses startup scaling timelines so dramatically that traditional VC growth benchmarks and pricing heuristics no longer predict winner outcomes.
 - `INS-260403-8EBD` Venture capitalists are funding AI that could automate their own deal analysis and market forecasting capabilities.
-- `INS-260405-9EE4` When AI agents do the work instead of human seats, per-seat SaaS revenue evaporates.
+- `INS-260322-88C3` AI threatens every incumbent company simultaneously, driving a wave of M&A as corporations acquire startups to reconstruct how they work rather than building capabilities internally.
+- `INS-260403-586C` Per-seat pricing breaks down when AI agents do the work instead of humans, forcing a shift to usage or outcome-based billing.
+- `INS-260404-BEAA` Reports of SaaS death are exaggerated, but the sentiment reflects genuine pressure from AI-native tools that can replicate SaaS functionality without traditional subscription models.
+- `INS-260402-C1A9` HubSpot lost millions of visits and Chegg's stock tanked because AI can now answer the same generic questions their content targeted.
 - `INS-260403-E4B3` AI lowers the cost of copying products, so brand and narrative become the hardest-to-replicate assets.
 - `INS-260403-5384` AI makes building software cheap, shifting competitive value from code to distribution, proprietary data, and workflow entrenchment.
 - `INS-260328-9408` None of the YC mobile winners had pre-iPhone mobile experience; the same pattern is playing out with AI disrupting SaaS.
 - `INS-260327-3DE7` AI will make it trivial to port data and clone product experiences, eroding brand as a meaningful B2B moat.
 - `INS-260404-21E6` DoorDash's value comes from its network and market position, not its code — AI tools that make cloning easy don't threaten network-effect moats.
 - `INS-260328-57CF` Businesses being killed by AI disruptors will have to ignore all their process people — the innovator's dilemma means too many stakeholders are excited about doing A to allow B to happen.
+- `INS-260405-9EE4` When AI agents do the work instead of human seats, per-seat SaaS revenue evaporates.
 - `INS-260404-D6F7` As AI makes coding more accessible, YC's edge in picking technical founders diminishes because engineering skill becomes less of a differentiator.

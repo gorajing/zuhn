@@ -1,6 +1,8 @@
 # Tag: career-strategy
 
 - `INS-260409-6C66` Allocate 20% of your time to automating yourself out of a job — if you don't, someone else will, and they'll capture the leverage.
+- `INS-260323-825F` The greatest financial innovations came from outsiders — a physicist who counted cards, a mathematician who broke Russian codes, and Einstein's Brownian motion theory — because pattern recognition transfers across domains.
+- `INS-260327-768D` Bernadotte maintained connections across French political factions and eventually became King of Sweden by being useful to everyone without being fully committed to anyone.
 - `INS-260330-0D11` Harvard Business School's largest cohort systematically catches the last wave (junk bonds in 1989, dotcom in 1999, housing in 2007) because extroverted, low-conviction people in a hot-house environment use peer behavior as their signal for value.
 - `INS-260403-497B` Leadership titles are stepping stones to career optionality, not end destinations — optionality enables you to craft work on your own terms.
 - `INS-260403-C135` Specific knowledge is found by looking backward at what you've already done, not forward at what you plan to learn.
@@ -11,10 +13,8 @@
 - `INS-260329-04CB` Choosing the right industry produces 3-5x more earnings impact than choosing the right school or major.
 - `INS-260330-16B1` Universalizing a specialized skill devalues its practitioners while wasting the time of learners better suited to other specializations.
 - `INS-260325-636B` The Sequel Script makes people choose careers matching their degree and partners matching their ex — privileging narrative continuity over genuine fit.
-- `INS-260323-825F` The greatest financial innovations came from outsiders — a physicist who counted cards, a mathematician who broke Russian codes, and Einstein's Brownian motion theory — because pattern recognition transfers across domains.
-- `INS-260327-768D` Bernadotte maintained connections across French political factions and eventually became King of Sweden by being useful to everyone without being fully committed to anyone.
-- `INS-260330-737B` Unfashionable legacy technologies like COBOL create outsized earning potential because shrinking talent supply meets persistent institutional demand.
 - `INS-260329-12EA` Your competitive moat is not any single skill but the unique stack of skills from your specific life trajectory — replicating it requires living your life.
+- `INS-260330-737B` Unfashionable legacy technologies like COBOL create outsized earning potential because shrinking talent supply meets persistent institutional demand.
 - `INS-260402-55FB` Deliberately choosing roles with real complexity across different stages and cycles builds a compounding pattern library that becomes your primary competitive advantage.
 - `INS-260329-62C1` As an employer of nearly a thousand people, Hormozi says his companies never look at degree, school, or GPA — only experience and likelihood of job performance.
 - `INS-260330-6F7B` You need both measurement (your output is trackable) and leverage (your decisions multiply impact) to generate outsized wealth.

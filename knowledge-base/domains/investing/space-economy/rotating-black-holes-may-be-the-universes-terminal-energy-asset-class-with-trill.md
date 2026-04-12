@@ -54,6 +54,8 @@ related:
   - INS-260412-DBA9
   - INS-260412-DB5A
   - INS-260412-C1EC
+  - INS-260412-BDB5
+  - INS-260412-121B
 ---
 The video describes a future where red dwarfs have cooled, white dwarfs have become black dwarfs, and the universe is permanently dark. In this scenario, rotating black holes are the only objects still capable of yielding usable energy through the Penrose process or superradiant scattering. A civilization positioned near one could survive for trillions of years.
 

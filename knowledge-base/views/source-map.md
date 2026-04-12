@@ -851,6 +851,7 @@ Generated on 2026-04-12 | 2367 sources
 | Michio Kaku: The Universe in a Nutshell (Full Presentation) | Big Think | youtube | 5 | 2026-03-30 |
 | Microsoft Volume II: The Complete History and Strategy of the Ballmer Years (Audio) | youtube | 5 | 2026-04-11 |
 | Nestlé's Darkest Secret: The Disturbing Truth | youtube | 5 | 2026-03-30 |
+| Neutron Stars – The Most Extreme Things that are not Black Holes | youtube | 5 | 2026-04-12 |
 | Nick Lane: Origin of Life, Evolution, Aliens, Biology, and Consciousness | Lex Fridman Podcast #318 | youtube | 5 | 2026-03-30 |
 | Nike (Audio) | youtube | 5 | 2026-04-11 |
 | No BS Advice to Get Rich Like the 1% | youtube | 5 | 2026-03-30 |
@@ -922,6 +923,7 @@ Generated on 2026-04-12 | 2367 sources
 | The Future Mark Zuckerberg Is Trying To Build | youtube | 5 | 2026-03-23 |
 | The hardest problem on the hardest test | youtube | 5 | 2026-03-30 |
 | The illusion of shared reality | Anil Seth & Jonny Thomson | youtube | 5 | 2026-03-25 |
+| The Immune System Explained I – Bacteria Infection | youtube | 5 | 2026-04-12 |
 | The INSANE Story of Domino's Pizza | youtube | 5 | 2026-03-30 |
 | The INSANE Truth About TikTok | youtube | 5 | 2026-03-30 |
 | The Jamie Dimon Interview: How JP Morgan Became an $800 Billion Bank | youtube | 5 | 2026-04-11 |
@@ -1462,6 +1464,7 @@ Generated on 2026-04-12 | 2367 sources
 | How China's 'Perfect' Spy Got Caught | Bloomberg Investigates | youtube | 4 | 2026-03-23 |
 | How Cruise Ships Work | youtube | 4 | 2026-03-30 |
 | How Earth Moves | youtube | 4 | 2026-03-30 |
+| How Far Can We Go? Limits of Humanity (Old Version – Watch the New One) | youtube | 4 | 2026-04-12 |
 | How Hard Can You Hit a Golf Ball? (at 100,000 FPS) - Smarter Every Day 216 | youtube | 4 | 2026-03-30 |
 | How Houdini DIED (in Slow Motion) - Smarter Every Day 108 | youtube | 4 | 2026-03-30 |
 | How I Grew My App to $13K/month (Even Though I Hate Marketing) | youtube | 4 | 2026-03-22 |
@@ -1529,6 +1532,7 @@ Generated on 2026-04-12 | 2367 sources
 | Photosynthesis: Crash Course Biology #8 | youtube | 4 | 2026-03-30 |
 | 클로드 코드로 완성도 있게 결과물 내려면 plan모드 말고 이렇게 기획해보세요. (매니패스트 대표 허재혁님) | youtube | 4 | 2026-03-23 |
 | Private Equity is a TERRIBLE Investment... Who Keeps Giving Them Money? | youtube | 4 | 2026-03-26 |
+| Quantum Computers Explained – Limits of Human Technology | youtube | 4 | 2026-04-12 |
 | Quantum Consciousness Theory | youtube | 4 | 2026-03-23 |
 | Quantum entanglement and the illusion of time, in 79 minutes | Jim Al-Khalili: Full Interview | youtube | 4 | 2026-03-23 |
 | Robert F. Kennedy Jr: CIA, Power, Corruption, War, Freedom, and Meaning | Lex Fridman Podcast #388 | youtube | 4 | 2026-03-24 |
@@ -1548,11 +1552,13 @@ Generated on 2026-04-12 | 2367 sources
 | Social Media Expert: The Content Strategy That Turned Into MILLIONS | youtube | 4 | 2026-03-23 |
 | Something Strange Happens When You Trust Quantum Mechanics | youtube | 4 | 2026-03-23 |
 | Stoicism for people who don’t want self-help | Massimo Pigliucci: Full Interview | youtube | 4 | 2026-03-25 |
+| String Theory Explained – What is The True Nature of Reality? | youtube | 4 | 2026-04-12 |
 | Synchronicity: Carl Jung’s Most Disturbing Theory About Reality | youtube | 4 | 2026-03-22 |
 | The 2045 Superintelligence Timeline: Epoch AI’s Data-Driven Forecast | youtube | 4 | 2026-03-22 |
 | The backwards logic of censorship | youtube | 4 | 2026-03-25 |
 | The Banach–Tarski Paradox | youtube | 4 | 2026-03-30 |
 | The Best and Worst Music Marketing Strategies Ranked by Tier | youtube | 4 | 2026-03-27 |
+| The Billion Ant Mega Colony and the Biggest War on Earth | youtube | 4 | 2026-04-12 |
 | The Black Hole Bomb and Black Hole Civilizations | youtube | 4 | 2026-04-12 |
 | The Black Legend, Native Americans, and Spaniards: Crash Course US History #1 | youtube | 4 | 2026-03-30 |
 | The Coronavirus Explained & What You Should Do | youtube | 4 | 2026-04-12 |
@@ -1566,6 +1572,7 @@ Generated on 2026-04-12 | 2367 sources
 | The Limits of American Power – Sarah Paine | youtube | 4 | 2026-04-10 |
 | The Man Who Fooled The World | youtube | 4 | 2026-03-23 |
 | The Most Controversial Idea in Biology | youtube | 4 | 2026-03-23 |
+| The Most Dangerous Stuff in the Universe - Strange Stars Explained | youtube | 4 | 2026-04-12 |
 | The Most Founder Mode CEO Working Today Isn’t the Founder: Opendoor’s Kaz Nejatian | youtube | 4 | 2026-03-26 |
 | The Most Misunderstood Concept in Physics | youtube | 4 | 2026-03-30 |
 | The Nervous System, Part 1: Crash Course Anatomy & Physiology #8 | youtube | 4 | 2026-03-30 |
@@ -1596,9 +1603,12 @@ Generated on 2026-04-12 | 2367 sources
 | What Do Alien Civilizations Look Like? The Kardashev Scale | youtube | 4 | 2026-04-12 |
 | What Happened Before History? Human Origins | youtube | 4 | 2026-04-12 |
 | What Happens if the Moon Crashes into Earth? | youtube | 4 | 2026-04-12 |
+| What Happens If We Throw an Elephant From a Skyscraper? Life & Size 1 | youtube | 4 | 2026-04-12 |
 | What If Earth got Kicked Out of the Solar System? Rogue Earth | youtube | 4 | 2026-04-12 |
 | What If Everyone JUMPED At Once? | youtube | 4 | 2026-03-30 |
 | What if my startup fails? | Ahana Gautam, Open Secret | UnStarted Ep2 | youtube | 4 | 2026-03-23 |
+| What If We Detonated All Nuclear Bombs at Once? | youtube | 4 | 2026-04-12 |
+| What if We Nuke the Moon? | youtube | 4 | 2026-04-12 |
 | What If You Fall into a Black Hole? | youtube | 4 | 2026-04-12 |
 | What makes quantum computers SO powerful? | youtube | 4 | 2026-03-23 |
 | What to do if your inner voice is cruel | Ethan Kross | youtube | 4 | 2026-03-30 |
@@ -1609,8 +1619,10 @@ Generated on 2026-04-12 | 2367 sources
 | Where to invest in a multipolar world (WW3?) | youtube | 4 | 2026-03-22 |
 | Why 90% of Startup CEOs Are Failing | John Kim Sendbird | youtube | 4 | 2026-03-23 |
 | Why AI Is Tech's Latest Hoax | youtube | 4 | 2026-03-24 |
+| Why Alien Life Would be our Doom - The Great Filter | youtube | 4 | 2026-04-12 |
 | Why Are Things Creepy? | youtube | 4 | 2026-03-30 |
 | Why Black Holes Could Delete The Universe – The Information Paradox | youtube | 4 | 2026-04-12 |
+| Why Blue Whales Don't Get Cancer - Peto's Paradox | youtube | 4 | 2026-04-12 |
 | Why do prime numbers make these spirals? | Dirichlet’s theorem and pi approximations | youtube | 4 | 2026-03-30 |
 | Why is pi here?  And why is it squared?  A geometric answer to the Basel problem | youtube | 4 | 2026-03-30 |
 | Why Most AI Projects Fail Before They Start | youtube | 4 | 2026-03-23 |
@@ -2351,22 +2363,10 @@ Generated on 2026-04-12 | 2367 sources
 | You Will Never Wear AirPods Again | youtube | 1 | 2026-03-26 |
 | You'll Never Eat Sardines Again | youtube | 1 | 2026-03-26 |
 | Black Holes Explained – From Birth to Death | youtube | 0 | 2026-04-12 |
-| How Far Can We Go? Limits of Humanity (Old Version – Watch the New One) | youtube | 0 | 2026-04-12 |
-| Neutron Stars – The Most Extreme Things that are not Black Holes | youtube | 0 | 2026-04-12 |
 | Optimistic Nihilism | youtube | 0 | 2026-04-12 |
-| Quantum Computers Explained – Limits of Human Technology | youtube | 0 | 2026-04-12 |
-| String Theory Explained – What is The True Nature of Reality? | youtube | 0 | 2026-04-12 |
-| The Billion Ant Mega Colony and the Biggest War on Earth | youtube | 0 | 2026-04-12 |
 | The Deadliest Being on Planet Earth – The Bacteriophage | youtube | 0 | 2026-04-12 |
 | The Egg - A Short Story | youtube | 0 | 2026-04-12 |
 | The Fermi Paradox — Where Are All The Aliens? (1/2) | youtube | 0 | 2026-04-12 |
-| The Immune System Explained I – Bacteria Infection | youtube | 0 | 2026-04-12 |
-| The Most Dangerous Stuff in the Universe - Strange Stars Explained | youtube | 0 | 2026-04-12 |
 | The World War of the Ants – The Army Ant | youtube | 0 | 2026-04-12 |
 | Three Ways to Destroy the Universe | youtube | 0 | 2026-04-12 |
-| What Happens If We Throw an Elephant From a Skyscraper? Life & Size 1 | youtube | 0 | 2026-04-12 |
-| What If We Detonated All Nuclear Bombs at Once? | youtube | 0 | 2026-04-12 |
-| What if We Nuke the Moon? | youtube | 0 | 2026-04-12 |
 | What If You Detonated a Nuclear Bomb In The Marianas Trench? (Science not Fantasy) | youtube | 0 | 2026-04-12 |
-| Why Alien Life Would be our Doom - The Great Filter | youtube | 0 | 2026-04-12 |
-| Why Blue Whales Don't Get Cancer - Peto's Paradox | youtube | 0 | 2026-04-12 |

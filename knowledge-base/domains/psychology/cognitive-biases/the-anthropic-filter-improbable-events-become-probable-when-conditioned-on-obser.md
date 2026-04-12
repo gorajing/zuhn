@@ -52,9 +52,9 @@ related:
   - INS-260327-0692
   - INS-260330-F60B
   - PRI-260406-A33C
+  - INS-260412-347D
   - PRI-260328-9FB6
   - PRI-260328-36C3
-  - INS-260327-684D
 stance: >-
   If the Moon is necessary for complex life, then its improbable formation
   should be expected

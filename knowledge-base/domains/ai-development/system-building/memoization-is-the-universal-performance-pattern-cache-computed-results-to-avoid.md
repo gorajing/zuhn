@@ -46,7 +46,6 @@ stance: >-
   pattern across all software domains
 related:
   - INS-260329-EF14
-  - INS-260329-425B
   - INS-260329-6D6C
   - INS-260329-644B
   - INS-260325-FDA9

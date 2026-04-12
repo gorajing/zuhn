@@ -46,7 +46,6 @@ stance: >-
   Investing in a terrifying reputation early — even at high moral cost —
   dramatically reduces resistance in subsequent engagements.
 related:
-  - INS-260325-4EE9
   - INS-260330-B444
   - INS-260410-A992
   - INS-260327-DC45

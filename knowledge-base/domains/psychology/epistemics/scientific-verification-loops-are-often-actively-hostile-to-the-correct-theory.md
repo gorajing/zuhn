@@ -63,13 +63,13 @@ related:
   - INS-260323-144F
   - INS-260323-C3FA
   - INS-260323-9BC8
-  - INS-260323-224F
   - INS-260330-033A
-  - INS-260330-8FF8
   - INS-260405-4693
   - INS-260323-2D1D
   - INS-260403-F658
   - INS-260409-A072
+  - INS-260409-1652
+  - INS-260409-9464
 ---
 Prout hypothesized in 1815 that all atomic nuclei are made of hydrogen and should have whole-number weights. Chlorine measured at 35.5, and over the next decades, better measurements pushed it to 35.46 — the evidence was getting further from the 'correct' answer, not closer. Only in 1900+ did isotopes resolve the puzzle. For 85 years, the verification loop was actively hostile to the truth.
 

@@ -1,12 +1,12 @@
 # Tag: m-and-a
 
-- `INS-260403-6713` Corp dev teams systematically flip the dynamic so founders end up selling themselves rather than being courted.
-- `INS-260320-39A3` Shelter your team and family from acquisition signal-to-noise until the wire hits — deals fall apart in the last week, and premature sharing creates damaging anxiety.
-- `INS-260322-88C3` AI threatens every incumbent company simultaneously, driving a wave of M&A as corporations acquire startups to reconstruct how they work rather than building capabilities internally.
 - `INS-260403-1019` Earn-outs should be evaluated at present value, not nominal — a $20M earn-out payable in 3 years with uncertain triggers may be worth a fraction of face value.
 - `INS-260403-2D9B` Pro forma EPS improvement from acquisitions reflects share count math, not operational value creation — but markets and boards treat it as a real signal anyway.
 - `INS-260403-F852` Deal structure (cash/stock/debt/earn-out mix) determines who carries downside risk far more than the headline acquisition price.
 - `INS-260403-E294` Unicorn exits accelerating in AI, cyber, and health while other sectors remain illiquid reveals selective rather than broad liquidity recovery.
+- `INS-260403-6713` Corp dev teams systematically flip the dynamic so founders end up selling themselves rather than being courted.
+- `INS-260322-88C3` AI threatens every incumbent company simultaneously, driving a wave of M&A as corporations acquire startups to reconstruct how they work rather than building capabilities internally.
+- `INS-260320-39A3` Shelter your team and family from acquisition signal-to-noise until the wire hits — deals fall apart in the last week, and premature sharing creates damaging anxiety.
 - `INS-260330-E4B6` Morgan's 'morganization' strategy turned fragmented railroads into profitable monopolies by merging competitors rather than outcompeting them.
 - `INS-260403-F234` Buying distribution then forcing technology change fails because legacy organizations resist replacing systems that already work for them.
 - `INS-260403-D328` Saying no to corp dev meetings signals confidence and reminds acquirer founders of their own early discipline.

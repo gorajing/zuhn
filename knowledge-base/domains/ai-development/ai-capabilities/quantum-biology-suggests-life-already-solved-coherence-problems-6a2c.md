@@ -50,7 +50,6 @@ stance: >-
   warm, noisy biological environments — a feat that quantum engineers are still
   struggling to achieve in controlled lab conditions.
 related:
-  - INS-260325-3D31
   - INS-260323-5199
   - INS-260325-1F35
   - PRI-260403-70D0

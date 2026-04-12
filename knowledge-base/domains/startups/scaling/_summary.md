@@ -1,6 +1,6 @@
 # Topic: scaling
 
-> 184 insights
+> 188 insights
 
 - `INS-260403-49FB` [high] Startups need 2-3x longer than founders expect to validate their market, and 70% scale prematurely — largely explaining the 90% failure rate.
 - `INS-260403-AA20` [high] The 996 grind culture trades short-term velocity for compounding burnout costs that destroy long-term startup viability.
@@ -68,6 +68,7 @@
 - `INS-260403-CC97` [high] Internal ventures without access to parent company brand, customers, and resources lose their only structural advantage over independent startups.
 - `INS-260330-8718` [high] Neurons are amitotic and irreplaceable once specialized, making them the nervous system's critical vulnerability despite being its most valuable component.
 - `INS-260324-FF33` [high] Krispy Kreme expanded into supermarkets, gas stations, and airports to fill production capacity — but ubiquity killed the novelty that made people line up in the first place.
+- `INS-260412-B25A` [high] The immune system uses cheap macrophages to handle most threats and only escalates to expensive adaptive immunity when the first layer fails, a pattern directly applicable to organizational design.
 - `INS-260329-33D4` [high] Output = Volume × Leverage means improving leverage multiplies all existing effort rather than adding incrementally.
 - `INS-260329-4223` [high] Moving up the leverage hierarchy from labor to code/content multiplies output per unit of input exponentially.
 - `INS-260330-2737` [high] Paul's Roman citizenship gave him free travel throughout the empire, allowing him to use Rome's own road network and legal protections to spread a message that would eventually undermine Roman religious authority.
@@ -95,11 +96,13 @@
 - `INS-260329-22A8` [high] One product, one avatar, one channel to $1M; add second product at $10M; add second channel after that.
 - `INS-260405-21C7` [high] Webvan expanded to multiple cities before understanding its unit economics, and the fixed cost structure made course correction impossible.
 - `INS-260405-3CC7` [high] Rare edge cases become common failures at scale, creating novel downstream problems no amount of upfront architecture prevents.
+- `INS-260412-C3E6` [high] Just as gravity is irrelevant to ants but lethal to elephants, the forces that threaten organizations undergo categorical shifts at different scales.
 - `INS-260403-BF1F` [high] Plugging real metrics into an MRR model before hiring prevents premature scaling that burns runway.
 - `INS-260412-CD2D` [high] True self-sufficiency means producing value that flows back to the parent system — survival alone keeps you permanently dependent.
 - `INS-260323-F310` [high] LIGO now reaches 1,000x more space than its original design through continuous incremental sensitivity improvements.
 - `INS-260329-BC36` [high] Pay teachers $50/hr to deliver your templatized curriculum while collecting $280/hr per group — keeping 80%+ gross margins and freeing yourself to focus on sales and recruitment.
 - `INS-260403-066E` [high] A shared visual framework like the BMC eliminates the translation overhead when marketing, engineering, operations, and finance collaborate on strategy.
+- `INS-260412-B650` [high] On the Moon, a nuclear seismic wave reaches everywhere because it's small — on Earth, distance and mass absorb the shock before it circles the globe.
 - `INS-260330-F08F` [high] Small teams are powerful primarily because they make each person's contribution visible and measurable, not just because they move faster.
 - `INS-260323-5341` [high] Moddoc's senior care team of just 2 people reached 50M won monthly revenue in under 4 months, while reducing overall headcount tripled business revenue.
 - `INS-260403-4D1E` [high] Lenny's 1M-subscriber business runs with zero full-time employees, using specialized freelancers for editing, production, and community management.
@@ -154,6 +157,7 @@
 - `INS-260403-7825` [medium] Hyperliquid's 11-person team generating massive revenue demonstrates that AI-era automation can replace headcount with code, concentrating both value and risk.
 - `INS-260403-049F` [medium] Creandum's Benchmark-inspired equal carry and up-or-out model has retained 6 of 9 current partners who joined as junior staff.
 - `INS-260403-D870` [medium] Sweden's unicorn density came from founder alumni reinvesting exits into new startups, amplified by tax incentives — not government venture programs.
+- `INS-260412-E2A2` [medium] Argentine ants' low genetic diversity — normally a weakness — eliminated inter-colony rivalry and enabled continent-spanning supercolonies.
 - `INS-260412-9300` [medium] The Caplan thruster harvests mass from the Sun to fuel itself, yet this actually extends the Sun's lifespan because lower-mass stars burn slower.
 - `INS-260403-EA01` [medium] Plan headcount costs using fully loaded compensation (base + tax + benefits) with month-by-month ramp timing, not annualized base salary.
 - `INS-260403-A538` [medium] Pushing a Head of Sales hire from Q1 to Q2 extended runway by 3 months, creating room to raise on better terms.

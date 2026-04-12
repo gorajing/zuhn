@@ -50,13 +50,14 @@ stance: >-
   that build complex life also dismantle it.
 related:
   - INS-260325-BF44
+  - INS-260412-A4E9
   - INS-260412-8361
   - INS-260325-DFA5
   - PRI-260323-A05E
-  - INS-260325-75A3
   - INS-260323-8F70
   - INS-260404-C606
-  - INS-260325-E19E
+  - INS-260412-744D
+  - INS-260412-2220
 evidence:
   - id: INS-260323-133A
     type: EXTENDS

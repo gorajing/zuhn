@@ -63,11 +63,11 @@ stance: >-
   AGI less a scientific target than a rhetorical instrument for raising capital
   and warding off regulation.
 related:
-  - INS-260325-A1BC
   - INS-260403-C49F
+  - INS-260412-0540
   - PRI-260406-B97E
+  - INS-260325-A1BC
   - INS-260403-280B
-  - INS-260329-13D2
 ---
 Hao lists four OpenAI AGI definitions deployed to different audiences: (1) Sam Altman in Congress: AGI will cure cancer, solve climate change, cure poverty; (2) Altman to consumers: the most amazing digital assistant; (3) The OpenAI-Microsoft deal language: a system that generates $100 billion in revenue; (4) OpenAI's own website: highly autonomous systems that outperform humans in most economically valuable work. These are not the same technology.
 

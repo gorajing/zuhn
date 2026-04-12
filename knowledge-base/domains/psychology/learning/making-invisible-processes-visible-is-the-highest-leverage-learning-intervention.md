@@ -59,6 +59,7 @@ related:
   - PRI-260324-1134
   - INS-260323-76FE
   - INS-260403-89B5
+  - INS-260412-3090
 ---
 The entire video exists because carburetors are opaque metal boxes where invisible fluid dynamics happen too fast to see. By combining transparency (3D-printed clear housing) with temporal magnification (28,546 fps slow motion), Destin transformed an abstract textbook concept into direct observation. He could literally see the Venturi vacuum pulling fuel droplets, watch turbulence break them apart, and observe the pulsing rhythm of intake strokes.
 

@@ -1,17 +1,21 @@
 # Tag: phase-transitions
 
+- `INS-260412-DE2D` Under neutron star pressures, electrons and protons fuse into neutrons, and nuclei deform into pasta-like structures that may be the strongest material in the universe.
+- `INS-260330-B906` Each wealth level unlocks qualitatively different capabilities — comfort, then luxury, then access, then influence, then time — not just more of the same.
+- `INS-260412-E82B` Stars appear stable for billions of years because fusion pressure balances gravity, but once iron accumulates and fusion stops, collapse happens in seconds.
 - `INS-260330-4C26` After 8 months of daily practice with no visible progress, Destin suddenly could ride the backwards bike one day — skill acquisition followed a step-function, not a gradient.
 - `INS-260330-0B0B` After 8 months of daily practice with no visible progress, Destin suddenly could ride the backwards bike one day — a discrete phase transition.
 - `INS-260330-3170` Synchronization in coupled oscillators occurs as a sudden phase transition at a critical coupling strength, not as a gradual convergence.
 - `INS-260409-0584` A 2025 Bayesian phylogenetic model by Jordan Douglas detected saltative branching — rapid evolutionary leaps at speciation nodes followed by long stability — across enzymes, cephalopod body shapes, and Indo-European languages, validating punctuated equilibrium theory.
+- `INS-260412-0540` The most stable configuration doesn't just persist — it actively recruits surrounding matter into its own state.
 - `INS-260412-8C32` Stars reach their maximum physical size only after exhausting core hydrogen and entering a dying giant phase — adding more mass to a living star doesn't work.
 - `INS-260412-26A4` Venus's atmosphere shows zero visible change for 60 years of cooling, then CO2 liquefies all at once in a 30-year global rainstorm.
+- `INS-260412-E42E` Bacteria fly under the radar at low numbers and only start damaging the body when they reach a critical population threshold, switching behavior collectively rather than individually.
 - `INS-260330-D795` Kistler solved aerogel's shrinkage problem not by fighting surface tension but by heating liquid past the critical point where liquid-gas distinction ceases to exist.
 - `INS-260330-43D3` Modifying just 30% of aerogel's surface chemistry flips it from water-absorbing to completely waterproof, demonstrating that threshold effects outweigh proportional ones.
 - `INS-260330-5D8A` Supercritical fluids bypass the destructive surface tension of evaporation by eliminating the liquid-gas boundary altogether.
 - `INS-260330-4E9B` A structure tall enough to reach geostationary orbit would be stabilized by centrifugal force rather than crushed by gravity, flipping compression into tension.
 - `INS-260330-BE6F` Breaking the sound barrier inside an F-16 cockpit produces no sensation — only instrument anomalies from shock wave pressure changes on the Pitot tube reveal it happened.
-- `INS-260330-B906` Each wealth level unlocks qualitatively different capabilities — comfort, then luxury, then access, then influence, then time — not just more of the same.
 - `INS-260403-65D2` Multi-layer systems exhibit emergent rigidity that single layers don't, because elements trap each other rather than flowing freely.
 - `INS-260412-AB32` Black holes show a gap from 150 to millions of solar masses because incremental star-eating can't bridge it — a different mechanism (quasi-stars) was needed.
 - `INS-260330-488B` Flat structure works perfectly until ~25 employees, then fails completely overnight with no gradual degradation.

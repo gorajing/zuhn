@@ -45,7 +45,6 @@ stance: >-
   defense mechanisms unavailable to simpler architectures.
 related:
   - INS-260403-65D2
-  - INS-260403-C5FB
   - INS-260403-AC01
   - INS-260411-33E5
   - PRI-260323-F193

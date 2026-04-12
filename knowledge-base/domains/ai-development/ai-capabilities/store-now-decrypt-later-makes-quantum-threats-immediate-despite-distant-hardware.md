@@ -45,10 +45,10 @@ resolutions:
     exponential. Organizations with sensitive long-duration data should treat
     post-quantum migration as urgent.
 related:
-  - INS-260323-B47B
   - PRI-260328-D2FB
   - INS-260325-BE3A
   - INS-260325-A1B9
+  - INS-260412-79D5
   - INS-260325-A782
   - INS-260410-41EF
   - INS-260410-42CB

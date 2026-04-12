@@ -57,6 +57,7 @@ related:
   - PRI-260325-5760
   - INS-260412-EF6C
   - INS-260330-B65B
+  - INS-260412-BFF3
 evidence:
   - id: INS-260330-B65B
     type: TRANSFERS_TO

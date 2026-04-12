@@ -63,8 +63,8 @@ related:
   - INS-260405-7383
   - PRI-260411-31BB
   - PRI-260328-D2FB
+  - INS-260412-3CF8
   - INS-260325-A1B9
-  - INS-260410-0741
 ---
 As classical transistors shrink toward atomic scales, quantum tunneling causes electrons to leak through insulating barriers meant to be 'off,' increasing error rates and making it harder to distinguish 0s from 1s. This is the physics wall that constrains Moore's Law-style classical scaling.
 
