@@ -46,8 +46,8 @@ related:
   - PRI-260324-3B70
   - INS-260323-D400
   - PRI-260407-7FB7
+  - PRI-260411-ACEF
   - INS-260327-DF8B
-  - PRI-260406-BD4D
 stance: >-
   LLMs learn and navigate the manifold created by human-written training data
   but cannot create new manifolds

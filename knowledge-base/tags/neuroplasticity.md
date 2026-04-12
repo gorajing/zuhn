@@ -13,6 +13,6 @@
 - `INS-260330-95A5` Choose the meditation type (internal vs. external focus) that opposes your current default state to maximize brain circuit change.
 - `INS-260330-AC16` Changing beliefs is like blazing a new trail next to a four-lane highway of old patterns — it works, but takes persistent effort over months or years, not weeks.
 - `INS-260330-B966` The Lally 2010 study found a 14x variance in habit formation time (18-254 days) for the same behavior, explained by individual differences in limbic friction management.
-- `INS-260327-DF8B` Musical training physically changes brain structure - enlarging the corpus callosum, strengthening neural pathways, and enhancing capabilities that transfer to language, emotion, and reasoning.
 - `INS-260330-E660` Happiness responds to deliberate practice more than most traits because the genetic constraint is looser than for physical or cognitive abilities.
 - `INS-260330-9515` Willpower has bidirectional plasticity — it decays as fast as it builds, requiring daily renewal.
+- `INS-260327-DF8B` Musical training physically changes brain structure - enlarging the corpus callosum, strengthening neural pathways, and enhancing capabilities that transfer to language, emotion, and reasoning.

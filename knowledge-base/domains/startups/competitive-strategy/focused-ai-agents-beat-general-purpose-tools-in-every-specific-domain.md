@@ -50,7 +50,6 @@ related:
   - INS-260330-D61A
   - INS-260402-142F
   - INS-260322-C6CE
-  - INS-260330-0CAD
 evidence:
   - id: INS-260330-0CAD
     type: TRANSFERS_TO

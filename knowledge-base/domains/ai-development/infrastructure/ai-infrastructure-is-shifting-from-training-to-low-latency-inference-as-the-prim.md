@@ -59,7 +59,6 @@ stance: >-
   actually accrues in the agent era.
 related:
   - INS-260325-E62D
-  - INS-260323-4E12
   - INS-260325-BEAC
   - INS-260327-991D
   - INS-260329-3489
@@ -68,6 +67,7 @@ related:
   - INS-260403-F68B
   - INS-260403-64F4
   - INS-260405-A22F
+  - INS-260323-8AEC
 ---
 Jensen Huang's GTC 2026 keynote explicitly framed NVIDIA's roadmap around the 'inference inflection'—the moment when running models at scale eclipses training them as the primary compute demand. The Vera Rubin architecture integrates seven specialized chips into a unified rack, delivering 10x inference efficiency and 4x training performance over Blackwell, while the Groq 3 LPX rack is purpose-built for latency-sensitive inference alongside it.
 

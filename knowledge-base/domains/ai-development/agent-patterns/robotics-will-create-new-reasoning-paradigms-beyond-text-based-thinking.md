@@ -50,11 +50,11 @@ stance: >-
   forms of reasoning that happen in trajectory space and abstract motion space
   rather than text.
 related:
+  - PRI-260411-ACEF
   - INS-260405-7196
   - INS-260322-32E3
   - INS-260323-F0A2
   - INS-260330-0C0C
-  - INS-260322-B33E
   - INS-260404-DDC8
   - INS-260410-4067
 ---

@@ -57,11 +57,11 @@ related:
   - INS-260330-0C0C
   - INS-260410-06DB
   - PRI-260407-7FB7
+  - PRI-260411-ACEF
   - INS-260410-1248
-  - INS-260410-E1D9
   - INS-260403-705C
   - INS-260404-023C
-  - INS-260409-667F
+  - INS-260410-FBAA
 ---
 Scott Alexander identifies a core confusion in the 'stochastic parrot' critique: it conflates the optimization objective (next-token prediction) with the system's internal operations. AI systems are trained via next-token prediction, but their internal representations involve complex world models, not literal token probability lookups. The parallel to humans is instructive — evolution optimized for survival and reproduction, but a monk taking a vow of celibacy isn't 'failing at reproduction'; he's using brain circuits far out of distribution from their original purpose.
 

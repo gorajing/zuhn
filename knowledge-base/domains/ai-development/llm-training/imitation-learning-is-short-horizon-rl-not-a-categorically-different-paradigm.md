@@ -54,12 +54,12 @@ stance: >-
   is just RL with single-token episodes where reward equals prediction accuracy,
   so framing them as dichotomous is a semantic mistake.
 related:
-  - INS-260403-141E
   - INS-260404-023C
   - INS-260410-8E1C
+  - INS-260403-141E
+  - PRI-260411-ACEF
   - INS-260330-0102
   - INS-260323-F0A2
-  - PRI-260407-9DDF
 ---
 The standard critique of LLMs frames imitation learning and reinforcement learning as fundamentally different paradigms — one learns from humans, the other from ground truth. Patel argues this dichotomy dissolves under inspection: when an LLM predicts the next token, it is making a conjecture about the world and receiving reward proportional to accuracy. That is structurally RL with a one-token horizon.
 

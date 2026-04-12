@@ -1,7 +1,7 @@
 # Tag: logistics
 
-- `INS-260327-F4DB` AI voice fidelity and latency have crossed the threshold for enterprise use cases like logistics coordination and OTC trading, where voice interactions still dominate.
 - `INS-260405-8B05` An AI system routing 2,000 medical devices across 50 hospital locations cut nursing retrieval travel by 50% — staff only noticed they were happier.
+- `INS-260327-F4DB` AI voice fidelity and latency have crossed the threshold for enterprise use cases like logistics coordination and OTC trading, where voice interactions still dominate.
 - `INS-260327-7D63` Napoleon conquered Egypt but Nelson destroyed his fleet at the Nile, stranding the entire French army thousands of miles from home with no way to be reinforced.
 - `INS-260321-A3A1` IMEC (India-Middle East-Europe Economic Corridor) is a US-backed logistics highway routing goods from India through UAE, Saudi Arabia, and Israel to Europe — designed to completely bypass China's Belt and Road Initiative.
 - `INS-260325-5096` Napoleon's Russian disaster proves that logistics cannot scale linearly with army size — supply chains have a hard distance ceiling.

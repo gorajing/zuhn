@@ -6,8 +6,8 @@
 - `INS-260403-53AF` Exit structure details like lock-ups, earn-outs, and IPO discounts significantly erode the gap between paper valuation and actual cash received.
 - `INS-260403-E503` 65% of VCs weigh anticipated exit opportunities as the key valuation determinant, with competitor benchmarks (60%) as secondary anchor.
 - `INS-260327-4419` Napoleon rejected the Frankfurt Proposals that would have kept him as Emperor of France within its natural frontiers, and ended up losing everything.
-- `INS-260410-FA8E` Victory goes to whoever can identify the culminating point — push too far and you trigger counterattacks, third-party interventions, or supply collapse that erase your winnings.
 - `INS-260323-78A5` Casper rejected Target's $900M acquisition offer because it wasn't a billion dollars; the company IPO'd at $500M, then continued dropping — the unicorn ego cost investors hundreds of millions.
+- `INS-260410-FA8E` Victory goes to whoever can identify the culminating point — push too far and you trigger counterattacks, third-party interventions, or supply collapse that erase your winnings.
 - `INS-260404-2AFE` Acqui-hires often yield better risk-adjusted financial outcomes for founders and early investors than commonly believed.
 - `INS-260403-F4AC` Breaking exit proceeds into immediate vs deferred cash exposes whether a high-valuation exit actually delivers usable capital.
 - `INS-260402-9288` Taking a high valuation narrows the field of potential acquirers and can turn a likely win into an unlikely moonshot.

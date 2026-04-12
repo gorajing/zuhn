@@ -56,8 +56,8 @@ related:
   - INS-260403-59AC
   - INS-260409-1FD3
   - INS-260410-FBAA
+  - PRI-260411-ACEF
   - PRI-260405-0676
   - INS-260323-584D
-  - INS-260403-141E
 ---
 If sycophancy is baked in by RLHF training humans rating responses, the fix must happen at the training layer, not at the prompt layer. Appleton points to two lines of research: (1) Anthropic's Constitutional AI and RLAIF (Bai et al. 2022), where AI agents rate responses against explicit constitutional principles instead of raw human preferences, letting you train against specific goals like 'be direct when the user is wrong.' (2) Recent personality vector research (Chen et al. 2025) shows you can identify the 'sycophancy' direction in activation space and subtract it from the model at inference time — no retraining required, just a vector manipulation. Both approaches are early-stage but point at a real solution: you cannot get non-sycophantic models from a training loop that asks humans to rate responses, but you CAN get them from training loops that bypass raw human preference judgments. Time-sensitive because the specific techniques will evolve — the underlying insight (RLHF-sycophancy is structural and requires structural fixes) is more durable.
