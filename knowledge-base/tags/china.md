@@ -1,19 +1,19 @@
 # Tag: china
 
+- `INS-260405-6A6F` AI agents that can code and reason may nullify the workforce scale advantage that underpins China's tech sector.
 - `INS-260321-86F1` China is stealing American AI models, removing all guardrails, and potentially deploying them against the US — creating an absurd scenario where America fights with one arm tied behind its back against its own technology.
 - `INS-260321-3C8A` AI labs fight viciously against each other for dominance but frame the global AI race as positive-sum — the actual zero-sum game is between nations, and the labs don't see it.
 - `INS-260327-422B` Two dynamics run simultaneously: model intelligence cost drops ~4X/year while total spending rises ~10X/year — DeepSeek sat perfectly on the cost reduction curve, but being the first Chinese company at frontier capability is genuinely concerning.
 - `INS-260410-86B0` Shih uses DeepSeek over American models for China research because it returns high-quality policy document links even from naive prompts — likely because its hedge-fund parent trained it to detect CCP policy signals.
-- `INS-260405-6A6F` AI agents that can code and reason may nullify the workforce scale advantage that underpins China's tech sector.
 - `INS-260403-A68D` Major AI pause advocates (Pause AI, Yudkowsky, Krueger) all explicitly call for international treaties, not unilateral action.
 - `INS-260403-D7EF` DeepSeek R1's built-in censorship on politically sensitive topics demonstrates that state alignment creates structural bias that persists despite jailbreak attempts.
 - `INS-260410-991B` China places AGI under its cybersecurity apparatus and requires every major AI lab to have a team that can 'pull the plug' because Party control is a higher priority than racing to AGI.
 - `INS-260410-101D` China adds a France-or-UK-sized power grid every year; their strategic bet on cheap abundant electricity positions them to deploy more AI than anyone once the model matters less than how many you can run.
 - `INS-260404-83C6` DeepSeek proved frontier AI can emerge from a hedge fund side project in China, not just from billion-dollar Western labs.
-- `INS-260403-CF46` Most China analyses reach contradictory conclusions (China will dominate vs. China has peaked) because they cherry-pick output metrics instead of examining the underlying systems that produce those outputs.
-- `INS-260403-49FF` Page and Brin overruled Schmidt on China because values conflicts are founder-domain decisions that operators are structurally unable to make.
 - `INS-260410-2623` In censored societies, the binding constraint isn't private information — it's the inability to coordinate on what 'everyone knows everyone knows.'
 
+- `INS-260403-CF46` Most China analyses reach contradictory conclusions (China will dominate vs. China has peaked) because they cherry-pick output metrics instead of examining the underlying systems that produce those outputs.
+- `INS-260403-49FF` Page and Brin overruled Schmidt on China because values conflicts are founder-domain decisions that operators are structurally unable to make.
 - `INS-260330-B4BD` Two generations of one-child families made small families the cultural norm in China, rendering policy reversal largely ineffective.
 - `INS-260403-69C3` National security framing activates fear circuits that override the capacity for nuanced policy engagement.
 - `INS-260412-C39A` China's 'no strings attached' aid framing works because hidden political conditions feel less coercive than the IMF's explicit human rights requirements.
@@ -26,6 +26,7 @@
 - `INS-260410-81E8` Nadella argues the most important feature of American AI isn't capability but trust — countries are deploying based on whether the supplier and its institutions will still be around in 20 years.
 - `INS-260402-B0AB` You cannot have technical imagination without political imagination — suppressing one suppresses both.
 - `INS-260412-D883` Pre-sale financing that funds new projects instead of completing sold ones creates Ponzi dynamics that collapse when demand growth decelerates.
+- `INS-260409-F485` Napier's emerging-market heuristic: avoid countries where trading rights are not guaranteed, constitutions are weak, or exchange rates are overvalued — operationalized as 'don't invest where you wouldn't live after retirement.'
 - `INS-260410-4357` At scale, effectiveness of achieving outcomes matters more than efficiency of resource use — the 'waste' in China's growth was the mechanism that produced the growth.
 - `INS-260410-6A19` Goldman Sachs and every serious forecaster predicted China would dwarf the US by now — they were all wrong, just as they were wrong about Japan and the USSR before that.
 - `INS-260412-F80E` 70% of Chinese household wealth in real estate means any property correction threatens social stability, not just portfolios.
@@ -37,7 +38,6 @@
 - `INS-260410-147B` China built a magnificent production machine but no demand machine — the result is deflation, shrinking pricing power, and growth below potential even as tech capacity soars.
 - `INS-260412-839B` China's recycling ban proved that private-sector profitability masking national-level losses is an unstable equilibrium that regulators eventually correct.
 - `INS-260412-2D60` China's tang ping and bai lan movements signal a broken social contract where effort no longer yields proportional reward, degrading future human capital formation.
-- `INS-260409-F485` Napier's emerging-market heuristic: avoid countries where trading rights are not guaranteed, constitutions are weak, or exchange rates are overvalued — operationalized as 'don't invest where you wouldn't live after retirement.'
 - `INS-260403-583B` China's threats against Japan over Taiwan defense declarations backfired by unifying Japanese society and pushing South Korea into closer partnership with Japan.
 - `INS-260402-F833` The U.S. leads in advanced chips while China leads in energy production — whoever integrates both first wins the AI race.
 - `INS-260410-2DB5` Regimes that need engineers, industry, and now AI to compete geopolitically cannot prevent the educated class and organized workers they create from eventually threatening their rule.

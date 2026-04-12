@@ -2,16 +2,16 @@
 
 - `INS-260410-797C` Slow enterprise AI adoption is revealing capability shortfalls, not normal technology-diffusion lag.
 - `INS-260403-D51A` AGI is arriving not as a single breakthrough but as agents that reason and act autonomously over extended task horizons.
-- `INS-260410-5D16` Karpathy sees AI as continuous with computing — you can't find computers or the iPhone in the GDP curve either, and AGI will diffuse the same way despite subjective feelings of discontinuity.
-- `INS-260408-A0F5` Hassabis would have preferred CERN-like collaboration on AGI; ChatGPT going viral forced commercial pressure that changed the entire industry's pace.
-- `INS-260403-02E2` Treating AGI arrival as an instant winner-take-all event is faith-based reasoning that substitutes for sound business fundamentals.
-- `INS-260410-010F` Nadella rejects capability-based AGI declarations as 'nonsensical benchmark hacking' and substitutes a demand-side test: is the world economy actually growing at industrial-revolution rates (10% nominal, 5% inflation-adjusted)?
 - `INS-260323-3045` The widely accepted belief that AGI is inevitable and we're racing toward it is a community assumption masquerading as scientific consensus — the future is not yet written.
 - `INS-260403-F943` The 5% Rule reframes AGI progress as raising the floor of competence across fields rather than pushing the ceiling of peak performance.
 - `INS-260410-8C08` More George Churches in data centers would not multiply bio progress because intelligence-in-silicon has no stake in biology and the true bottleneck is wet-lab experimentation, not idea generation.
 - `INS-260328-0B99` Models improved faster than expected in 2025 with multiple strong releases from Google and others, but it takes time to even assess how good new models are -- and the distance from 'very useful' to 'superintelligence' remains vast.
 - `INS-260330-4C5A` Tesla's autopilot, constrained to 100 watts, may pioneer more compute-efficient paths to AGI than data-center-scale LLMs using megawatts.
 - `INS-260322-474A` AI automating AI R&D won't produce runaway self-improvement because research requires proportional scaling of experimental compute, not just more researchers.
+- `INS-260410-5D16` Karpathy sees AI as continuous with computing — you can't find computers or the iPhone in the GDP curve either, and AGI will diffuse the same way despite subjective feelings of discontinuity.
+- `INS-260408-A0F5` Hassabis would have preferred CERN-like collaboration on AGI; ChatGPT going viral forced commercial pressure that changed the entire industry's pace.
+- `INS-260403-02E2` Treating AGI arrival as an instant winner-take-all event is faith-based reasoning that substitutes for sound business fundamentals.
+- `INS-260410-010F` Nadella rejects capability-based AGI declarations as 'nonsensical benchmark hacking' and substitutes a demand-side test: is the world economy actually growing at industrial-revolution rates (10% nominal, 5% inflation-adjusted)?
 - `INS-260322-6088` The current alignment paradigm of steering/control is appropriate for tool-like AI but becomes morally equivalent to slavery when applied to general intelligence — the only good outcome is AI that genuinely cares about us.
 - `INS-260410-91A1` Imagine a superintelligent 15-year-old that's very eager to learn — you deploy it as a programmer, doctor, etc., and the deployment itself is a learning process, not a finished product release.
 - `INS-260412-EDD8` General-purpose AI may serve as a new foundational science, enabling unforeseeable downstream applications the way physics enabled modern engineering.

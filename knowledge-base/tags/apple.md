@@ -16,12 +16,12 @@
 - `INS-260412-B825` Apple ran two competing iPhone teams (iPod-phone vs touch-Mac-OS) without letting them see each other's work, and the underdog team won.
 - `INS-260330-3431` Premium brand identity can prevent entry into massive price-sensitive markets where the bulk of demand sits far below your price floor.
 - `INS-260330-7479` Apple's $1,100+ iPhone captures only 1% of India where 75% of smartphones sell under $250, proving brand prestige alone cannot overcome price-sensitivity at scale.
-- `INS-260405-E7F9` Apple Pay's security and seamlessness were only possible because Apple controlled the chip (Secure Enclave), the OS, and the payment network relationships simultaneously.
 - `INS-260403-E71A` Platform owners like Apple with iTunes function as tollbooths, not stores — they tax transactions rather than sell content, driving content prices to near-zero.
+- `INS-260405-E7F9` Apple Pay's security and seamlessness were only possible because Apple controlled the chip (Secure Enclave), the OS, and the payment network relationships simultaneously.
+- `INS-260412-032F` Apple acquired FingerWorks not just for multi-touch patents but primarily to get Wayne Westerman's team, who became core to the iPhone's touch technology.
+- `INS-260403-CEB7` The best products come from teams of 4-6, not 40-60 — the original Mac was 20 people, the iPhone was 24.
 - `INS-260412-2DE5` Apple's serial-number locking and component coupling are revenue extraction strategies wrapped in safety rhetoric.
 - `INS-260330-766D` Alfred Lin's principle from Zappos — culture and brand are two sides of the same coin — means that whatever happens inside the company eventually comes out.
 - `INS-260330-C870` Apple's ecosystem moat (Apple Pay, Siri, Maps) provides zero switching cost advantage in India because none of these services work well locally.
 - `INS-260330-C95F` Multiple localization failures compound into a narrative of market disrespect that's harder to reverse than any single missing feature.
-- `INS-260412-032F` Apple acquired FingerWorks not just for multi-touch patents but primarily to get Wayne Westerman's team, who became core to the iPhone's touch technology.
-- `INS-260403-CEB7` The best products come from teams of 4-6, not 40-60 — the original Mac was 20 people, the iPhone was 24.
 - `INS-260410-228E` Don't sell winners based on growth rate or maturity — sell based on whether decades of growth remain ahead.

@@ -12,14 +12,14 @@
 - `INS-260412-837F` DeepMind required Google to establish an AI ethics board as a condition of its $500M acquisition, setting an early precedent for AI governance.
 - `INS-260410-212B` The old safety playbook — hoard research so the responsible lab keeps its lead — assumed the lab would actually burn that lead on alignment; now that assumption looks naive.
 - `INS-260403-3B8D` Anthropic proved that safety-first positioning creates enterprise value by making predictability the product, not the overhead.
+- `INS-260320-6A9D` Safety-first scraping: decouple your personal account from the scraping tool. If the tool gets flagged, your account is unaffected.
 - `INS-260329-3243` HFT systems run automated pre-trade risk checks in microseconds — blocking bad orders before they hit exchanges without slowing the pipeline.
 - `INS-260330-3B0B` Rust's borrow checker shows that encoding safety rules as compile-time constraints eliminates memory bugs more effectively than garbage collection or manual discipline.
-- `INS-260320-6A9D` Safety-first scraping: decouple your personal account from the scraping tool. If the tool gets flagged, your account is unaffected.
 - `INS-260327-67A9` Creatine supplementation does not harm kidneys (elevated creatinine is a benign byproduct) and the hair loss connection is based on a single study with methodological issues.
-- `INS-260330-CBA5` A custom periscope mirror rig allowed filming an underwater gunshot at 27,450 fps by keeping the expensive high-speed camera safely above water while redirecting the optical path.
 - `INS-260330-3737` Having experienced peers critique your safety procedures reveals obvious gaps you cannot see yourself.
 - `INS-260330-D7CC` Overconfidence in dangerous domains creates the conditions for the worst failures.
 - `INS-260330-B882` The team needed misfire procedures immediately on their first zoomed-in test, validating the experts' insistence on planning them in advance.
 - `INS-260403-36A6` What Americans experience as 'better cities' abroad is mostly the absence of crime and public disorder rather than superior design or wealth.
 - `INS-260323-AEA5` Alfred Nobel made nitroglycerin safe to handle with dynamite, but that very safety made it accessible to terrorists -- a paradox that applies to all powerful tools including AI.
 - `INS-260404-0B8E` Waymo's tripling to 15M annual rides with 90% fewer serious injuries demonstrates autonomous driving is now a proven infrastructure service, not a research project.
+- `INS-260330-CBA5` A custom periscope mirror rig allowed filming an underwater gunshot at 27,450 fps by keeping the expensive high-speed camera safely above water while redirecting the optical path.

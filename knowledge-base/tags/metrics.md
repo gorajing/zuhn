@@ -6,7 +6,6 @@
 - `INS-260404-177F` Companies adopting AI engineers like Devin measure success by merged PRs and contributor rankings rather than benchmark scores.
 - `INS-260323-7A11` Classical ML has one right answer and measurable error; generative AI has infinite valid outputs, making traditional ROI frameworks useless.
 - `INS-260402-E040` Zero-click visibility, brand mentions in AI tools, and featured citations in AI summaries are replacing traditional ranking position as the metrics that matter.
-- `INS-260409-E8B3` Watch-time session share captures how much of a user's platform session your content monopolizes, which is the cleanest proxy for influence on retention.
 - `INS-260329-B583` If your partner measures success on different metrics than you measure yourself, you can never win.
 - `INS-260330-A9DD` Frequency, orgasm rate, and duration are proxy metrics that often diverge from actual sexual satisfaction — pleasure itself is the only valid measure of sexual wellbeing.
 - `INS-260330-FA1C` The only question that matters for sexual well-being is 'do you like the sex you're having?' — all other metrics are noise.
@@ -36,8 +35,8 @@
 - `INS-260323-D621` If your competitor's team member supports $400K in revenue and yours supports $200K, accountability is the gap — not talent or strategy.
 - `INS-260405-0271` Innovation and execution are fundamentally different activities that require different investment mechanisms, success metrics, and decision frameworks.
 - `INS-260405-0E05` In early stage, the depth of user love is a better signal than any metric you can count.
-- `INS-260402-3CF1` Airdrop farming, data portability, and pseudonymous wallets break every traditional PMF measurement framework.
 - `INS-260403-9BEB` Defining success as '10% increase in X within 3 months' creates a decision filter that vague directional goals cannot provide.
+- `INS-260402-3CF1` Airdrop farming, data portability, and pseudonymous wallets break every traditional PMF measurement framework.
 - `INS-260327-E3CA` Lead with proof-point metrics from similar customers (M1) to build trust, then unlock the prospect's specific value metrics (M2) through discovery.
 - `INS-260329-2B60` Changing your internal success metric from closing the deal to helping the prospect make any empowered decision removes pressure and paradoxically increases sales.
 - `INS-260329-E96A` If you measure success by 'did I help them decide' instead of 'did they buy,' pressure disappears and close rates increase.
@@ -50,4 +49,5 @@
 - `INS-260403-2824` Ensure your call-to-action directly measures what your hypothesis actually claims.
 - `INS-260405-C8B2` Urgency and full-price payment are the only PMF signals that actually predict survival.
 - `INS-260412-E925` St Helena airport's most compelling proof of value wasn't tourism numbers but emergency medevac flights that saved lives — including a premature baby who would have died waiting for the monthly ship.
+- `INS-260409-E8B3` Watch-time session share captures how much of a user's platform session your content monopolizes, which is the cleanest proxy for influence on retention.
 - `INS-260403-C838` MOIC flatters slow capital while IRR exaggerates quick wins — you need both to see reality.

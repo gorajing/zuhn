@@ -77,9 +77,9 @@
 - `INS-260403-1325` Technology tools are neutral; exploitation happens through governance failures around the humans wielding them.
 - `INS-260412-014F` The Rajapaksa family occupied president, defense secretary, economic development, and irrigation roles simultaneously, ensuring no institutional check could prevent cascading policy failures.
 - `INS-260412-51C1` Enron's status as Bush's largest campaign contributor bought them regulatory immunity that enabled fraud to scale.
-- `INS-260410-001F` When auditors make as much from consulting a client as from auditing them, the audit is captured by definition.
 - `INS-260412-E332` When money is cheap and markets rise, even sophisticated investors abandon governance scrutiny — Sequoia invested $210M while the founder played video games on the call.
 - `INS-260330-E43F` China's cities receive 40% of tax revenue but bear 80% of expenses, forcing them to use land sales as their primary funding mechanism.
+- `INS-260410-001F` When auditors make as much from consulting a client as from auditing them, the audit is captured by definition.
 - `INS-260403-A447` Centralized custodian failures in crypto repeat the exact structural patterns of traditional finance collapses.
 - `INS-260412-B3A3` Authoritarian development models like Rwanda's concentrate institutional knowledge and legitimacy in a single leader, creating a catastrophic and unhedgeable succession risk that investors consistently underprice.
 - `INS-260403-6024` Presidents fear bond market signals more than stock drops because rising yields directly threaten the government's ability to finance itself.

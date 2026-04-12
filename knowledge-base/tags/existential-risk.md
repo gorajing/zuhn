@@ -7,12 +7,12 @@
 - `INS-260326-7995` Yudkowsky identifies the fundamental asymmetry of superintelligence development: normal science assumes we can learn from failures and retry, but a misaligned superintelligence eliminates the possibility of iteration.
 - `INS-260403-2C15` AI control risk depends on three prerequisites — full autonomy, capable robots, and self-sustaining AI production — and blocking any one is sufficient defense.
 - `INS-260323-649B` Unlike normal engineering where you fail, learn, and try again, the first failure to align something much smarter than you could be a civilizational-ending event with no second attempt.
+- `INS-260412-0025` Modern humans have existed for 0.1% of dinosaur reign duration, yet our survival instincts are calibrated to threats on human timescales, not civilizational ones.
 - `INS-260412-7512` Framing stakes as irreversible losses (life gone forever) drives urgency better than framing them as missed opportunities.
 - `INS-260412-6D71` Unverifiable intentions plus existential stakes collapse decision-making to worst-case assumptions.
 - `INS-260412-5272` Stellar engines are machines built by civilizations thinking in eons, not decades — the planning horizon transforms what counts as rational.
 - `INS-260412-BE47` A 1-in-100,000 chance over 5 billion years sounds negligible, but thousands of years of advance notice transforms an extinction event into a solvable engineering problem.
 - `INS-260403-E4B6` People confronting the fertility crisis deploy six distinct coping narratives that substitute emotional comfort for actual solutions.
-- `INS-260412-0025` Modern humans have existed for 0.1% of dinosaur reign duration, yet our survival instincts are calibrated to threats on human timescales, not civilizational ones.
 - `INS-260412-6898` Deterrence theory assumes perpetual perfect rationality from every nuclear-armed actor, which is incompatible with known human and organizational failure rates.
 - `INS-260327-A3A2` Humanity's technological power to affect planetary-scale change has grown exponentially while the wisdom to wield it has barely improved since ancient philosophy.
 - `INS-260412-4716` Startups face discrete 'great filters' at each stage — finding PMF, scaling, and sustaining — where most die, mirroring the Fermi Paradox's civilizational filters.

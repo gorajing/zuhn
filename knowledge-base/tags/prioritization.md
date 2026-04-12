@@ -1,9 +1,9 @@
 # Tag: prioritization
 
+- `INS-260412-AC11` Abstract awareness of mortality rarely changes behavior, but seeing '2,340 weeks left' creates visceral urgency that does.
 - `INS-260412-9958` Documents that identify every problem but fail to ruthlessly rank them by urgency produce paralysis on the most critical issues.
 - `INS-260412-6F0E` When multiple systems fail simultaneously, the hardest decision is which failure to address first.
 - `INS-260410-DB1D` Paine's practical advice: check alignments before committing, reassess early and often, don't get hung up about changing your mind, and recognize that part of good strategy is accepting that some problems cannot be solved and routing scarce resources to ones that can.
-- `INS-260412-AC11` Abstract awareness of mortality rarely changes behavior, but seeing '2,340 weeks left' creates visceral urgency that does.
 - `INS-260403-3CD9` Busywork that feels productive is worse than obvious procrastination because it prevents self-correction.
 - `INS-260330-BFD0` The gradient vector doesn't just point downhill — its component magnitudes reveal which parameters carry the most bang for your buck.
 - `INS-260330-6C0E` Deliberately decide which relationships matter more than political agreement, and protect those while holding public figures to a different standard.
@@ -32,8 +32,8 @@
 - `INS-260327-482E` Stop avoiding hard problems—identify the biggest risk and attack it directly.
 - `INS-260403-8DA1` Never assume other teams see your project as a priority — explicitly demonstrate impact on their specific goals.
 - `INS-260403-6C07` Solve the problem users have right now before expanding into the product you envision for the future.
-- `INS-260404-2BDA` Effective product strategy must include explicit 'not in focus' areas alongside strategic pillars to force real tradeoffs.
 - `INS-260403-9BEB` Defining success as '10% increase in X within 3 months' creates a decision filter that vague directional goals cannot provide.
+- `INS-260404-2BDA` Effective product strategy must include explicit 'not in focus' areas alongside strategic pillars to force real tradeoffs.
 - `INS-260329-89E9` Solving the top constraint reshuffles reality so the old priority list becomes unreliable.
 - `INS-260403-32E9` Identify your sector's primary risk layer and retire it first before addressing downstream risks.
 - `INS-260403-FBD6` Refusing to budge on low-priority positions drains political capital needed to win the battles that actually matter.

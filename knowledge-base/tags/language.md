@@ -5,12 +5,10 @@
 - `INS-260329-7BAF` Humans effortlessly resolve ambiguity that crashes machines — this asymmetry is why programming exists as a discipline.
 - `INS-260329-EDA2` It is fundamentally easier to teach humans programming languages than to build machines that understand natural language.
 - `INS-260329-6AF5` Naming a variable 'hours' helps humans read code but tricks beginners into thinking Python understands the concept of hours.
-- `INS-260323-5EA1` Rick Beato believes all children are born with perfect pitch and lose it around nine months (when they become 'culturally bound listeners'); exposing babies to high-information music prenatally and in the first months engages the social brain for 'native music fluency.'
-- `INS-260323-5CE3` Blues, bebop, and other musical styles are languages with their own syntax; hearing bebop as a child (like Rick from his non-musician dad, or Flea from his jazz-bassist stepfather) creates fluency that teenage exposure cannot replicate.
-- `INS-260330-EA8B` Profanity is processed by the limbic system rather than the left hemisphere language areas, which is why Tourette's patients and people with left-hemisphere damage can still swear.
-- `INS-260330-0C10` Swearing uses a separate neural pathway from regular language, rooted in the emotional limbic system rather than cortical language areas.
 - `INS-260403-9669` Daniel Dennett argues that qualia seem private and ineffable due to language failure, not because they are inherently unshareable.
 - `INS-260330-B85B` Profanity is neurologically distinct from regular language, routed through the limbic system rather than cortical speech areas.
+- `INS-260330-EA8B` Profanity is processed by the limbic system rather than the left hemisphere language areas, which is why Tourette's patients and people with left-hemisphere damage can still swear.
+- `INS-260330-0C10` Swearing uses a separate neural pathway from regular language, rooted in the emotional limbic system rather than cortical language areas.
 - `INS-260409-885E` If an experience exists prior to concept, we should expect it to be described in mutually incompatible-sounding vocabularies by people who had no shared metaphor bank to draw from.
 - `INS-260330-2294` The Library of Babel contains every possible 3200-character text — including your birth, death, and every joke — yet we intuitively feel none of it has been 'said' until a person means it.
 - `INS-260330-84C6` The gap between peak conscious experience and linguistic description is not a matter of degree but of kind — language is structurally incapable of encoding these states.
@@ -24,3 +22,5 @@
 - `INS-260330-1089` When your company name becomes the verb for an action ('Google it', 'Uber there'), competitors face a social friction barrier that operates independently of product quality.
 - `INS-260323-181D` Terms like 'liberal' and 'progressive' evolve rapidly in meaning — what was self-identifying becomes a smear in months, forcing constant repositioning.
 - `INS-260410-614E` Most VCs say 'we made a bet' or 'it's a good risk-adjusted bet' — Benchmark partners argue this language encodes passive super-forecasting, whereas 'commitment' encodes active odds-denting on the field with the founder.
+- `INS-260323-5CE3` Blues, bebop, and other musical styles are languages with their own syntax; hearing bebop as a child (like Rick from his non-musician dad, or Flea from his jazz-bassist stepfather) creates fluency that teenage exposure cannot replicate.
+- `INS-260323-5EA1` Rick Beato believes all children are born with perfect pitch and lose it around nine months (when they become 'culturally bound listeners'); exposing babies to high-information music prenatally and in the first months engages the social brain for 'native music fluency.'

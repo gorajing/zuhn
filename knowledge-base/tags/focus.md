@@ -5,7 +5,6 @@
 - `INS-260403-E1E9` Replit CEO Amjad Masad's six lessons on winning emphasize that progress compounds through clarity and consistency, not through shortcuts or hype cycles.
 - `INS-260330-D644` Don't start acquisition conversations unless you'd accept a low offer — the distraction and psychological demoralization of entertaining buyers kills more companies than most founders realize.
 - `INS-260329-6D8B` Entrepreneurial 'strategy sessions' about new directions often mask emotional avoidance of difficult execution work.
-- `INS-260405-DC8D` Neutral framing of interruptions ('it doesn't matter how long') removes the shame spiral that prevents return, making recovery from distraction faster and more automatic.
 - `INS-260329-EE04` Commitment to any path beats keeping options open because decision fatigue from optionality is more costly than a wrong choice.
 - `INS-260322-6042` Delay checking email, social media, and other non-essential inputs for as long as possible each day because once you let them in, they occupy mental bandwidth permanently until your next reset.
 - `INS-260330-7AE9` Expert meditators don't hold perfect focus — they recover from distraction faster, making each mind-wandering episode a training rep rather than a failure.
@@ -24,11 +23,12 @@
 - `INS-260403-3CD9` Busywork that feels productive is worse than obvious procrastination because it prevents self-correction.
 - `INS-260322-E90F` Stare at a wall for 10-15 minutes when you can't focus — it acts as a mental bandwidth reset that reliably produces flow state afterward, with diminishing returns past 15 minutes.
 - `INS-260403-FFF0` Newton serves as Graham's model for seeking questions people didn't even realize were questions, rather than settling for the immediate rewards of familiar problems.
+- `INS-260405-DC8D` Neutral framing of interruptions ('it doesn't matter how long') removes the shame spiral that prevents return, making recovery from distraction faster and more automatic.
 - `INS-260405-0CE7` Measuring 'how fast am I improving' instead of 'how good is this now' sustains motivation during the worst part of any ambitious project.
 - `INS-260329-9A7F` Twenty hours of deeply focused study on one skill — using a physical timer to enforce attention — creates enough competence to begin job applications in that field.
 - `INS-260327-0833` Every hour spent on non-compounding activities is an hour your competitor is building.
-- `INS-260410-1D7A` Sol Price's 'intelligent loss of sales' principle: forgo customers who only need 3 oz of WD-40 so you can carry only the 8 oz can — the SKU reduction unlocks logistics, labor, and supplier benefits that dwarf the lost revenue.
 - `INS-260403-EF30` Creating a sticky one-phrase description of your startup doubles as a strategic focus test.
+- `INS-260410-1D7A` Sol Price's 'intelligent loss of sales' principle: forgo customers who only need 3 oz of WD-40 so you can carry only the 8 oz can — the SKU reduction unlocks logistics, labor, and supplier benefits that dwarf the lost revenue.
 - `INS-260410-9AC4` Buffett and Munger's three piles — yes, no, and too-hard — work because the too-hard pile saves you from evaluating things you will never do well.
 
 - `INS-260327-432E` Start with a niche so small that big companies won't bother, then expand from strength.
@@ -81,12 +81,12 @@
 - `INS-260327-D0F4` Goldman exited their consumer business with Apple not because it failed but because at less than 5% of revenue it consumed 40% of management attention, blocking higher-value initiatives.
 - `INS-260403-3FF5` Wartime prioritization requires cuts so deep that everyone in the organization can feel the change in direction.
 - `INS-260409-2A8D` Your only job is right product at right time — everything else is avoidance of that job.
-- `INS-260403-3A44` Publicly excluding customer segments that don't fit your product sharpens value perception for the customers who actually matter.
-- `INS-260404-2BDA` Effective product strategy must include explicit 'not in focus' areas alongside strategic pillars to force real tradeoffs.
-- `INS-260403-0196` Great value propositions concentrate on very few customer jobs, pains, or gains but deliver outstanding depth in those areas.
 - `INS-260403-B448` An effective MVP delivers one complete, polished workflow rather than a broad but half-baked product, because user conviction requires depth over breadth.
 - `INS-260323-EBC3` Moddoc stalled at low revenue serving 'all Koreans' until they narrowed to ophthalmology patients -- then revenue tripled annually.
 - `INS-260323-76B8` Manifast CEO deliberately keeps the product focused on front-end software planning rather than expanding to project management — arguing that horizontal plays generate short-term sales but not sustainable value.
+- `INS-260403-3A44` Publicly excluding customer segments that don't fit your product sharpens value perception for the customers who actually matter.
+- `INS-260404-2BDA` Effective product strategy must include explicit 'not in focus' areas alongside strategic pillars to force real tradeoffs.
+- `INS-260403-0196` Great value propositions concentrate on very few customer jobs, pains, or gains but deliver outstanding depth in those areas.
 - `INS-260329-9A8B` Hormozi's bankruptcy-to-seven-figures turnaround came from doing fewer things with more intensity, not from finding a new business model.
 - `INS-260329-22A8` One product, one avatar, one channel to $1M; add second product at $10M; add second channel after that.
 - `INS-260330-217C` Apple's strategy of acquiring small teams for talent and technology rather than buying large companies preserves the extreme focus that drives its premium margins.

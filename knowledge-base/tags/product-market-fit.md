@@ -1,8 +1,8 @@
 # Tag: product-market-fit
 
 - `INS-260322-55D8` ChatGPT has 800-900M weekly active users, but only 5% pay — five times more people have accounts than can find a weekly use case.
-- `INS-260403-19C9` Top AI coding tools are seeing traffic declines, forcing startups to rework retention and monetization after a year of rapid growth.
 - `INS-260405-0327` Benedict Evans' Q1 2024 framing captures a market where most enterprises are still in the 'looking for use-cases' phase, not the 'scaling deployments' phase — suggesting the real AI ROI wave is still ahead.
+- `INS-260403-19C9` Top AI coding tools are seeing traffic declines, forcing startups to rework retention and monetization after a year of rapid growth.
 - `INS-260405-55E0` AI hardware devices are flopping because the differentiated value in AI lives in software, not physical form factors.
 - `INS-260325-060A` Elena Verna argues AI companies must re-find PMF every 3 months because capability shifts make yesterday's differentiator today's baseline.
 - `INS-260405-4091` AI tooling lowers the cost of building but not the cost of building the wrong thing.
@@ -54,6 +54,15 @@
 - `INS-260405-0E05` In early stage, the depth of user love is a better signal than any metric you can count.
 - `INS-260405-C5B4` GOAT's $4B valuation traces back to authenticating sneakers, not selling them.
 - `INS-260405-867E` There is no single path to PMF — lessons from 20 founders reveal irreducible diversity in how it is found.
+- `INS-260327-A8B6` Gamma built AI to solve their 95% user drop-off (cold start problem), but the real breakthrough was realizing they had solved the universal blank page problem that makes presentations intimidating for everyone.
+- `INS-260323-3239` The fastest path to product-market fit is having an audience you can survey, test MVPs with, and iterate against — not building in isolation.
+- `INS-260330-E263` Concentrate on making a small group of users love your product rather than building something many people merely like.
+- `INS-260402-426C` Schools reward how far you've come; markets only care how far you are from what users need—and the gap produces fatally different building behaviors.
+- `INS-260330-851F` Aerogel's insulation is extraordinary but too fragile alone; embedding it in fiberglass creates a practical product that can be flexed, cut, and sewn.
+- `INS-260330-1282` Users judge products by experience quality, never by whether you used React or Vue, MySQL or MongoDB.
+- `INS-260323-8AA1` Adding more features to an app that nobody is using does not make it more likely to succeed — it makes it harder to diagnose what actually matters.
+- `INS-260326-A0B4` Uber wins because people need to get somewhere three times a day; car-buying sites struggle because people buy a car once every seven years.
+- `INS-260323-9393` Pincus's product religion: start by copying every pixel of what's proven to work, only change what existing users unanimously confirm is better, then innovate only in the narrow space that remains.
 - `INS-260403-4388` Andrew Chen's data shows churn is almost impossible to fix retroactively, making early retention the critical PMF signal.
 - `INS-260404-C720` Start by making a few users love you rather than many users tolerate you.
 - `INS-260403-3A44` Publicly excluding customer segments that don't fit your product sharpens value perception for the customers who actually matter.
@@ -64,20 +73,11 @@
 - `INS-260403-2D39` Redpoint's framework demands a narrow high-urgency use case with real user love that naturally expands into larger product surfaces where quality sustains pricing power.
 - `INS-260402-3CF1` Airdrop farming, data portability, and pseudonymous wallets break every traditional PMF measurement framework.
 - `INS-260404-380C` Apple Pay succeeded because its value proposition enabled its business model and vice versa — the two were designed as a tightly coupled system rather than sequentially.
-- `INS-260327-A8B6` Gamma built AI to solve their 95% user drop-off (cold start problem), but the real breakthrough was realizing they had solved the universal blank page problem that makes presentations intimidating for everyone.
-- `INS-260323-3239` The fastest path to product-market fit is having an audience you can survey, test MVPs with, and iterate against — not building in isolation.
-- `INS-260330-E263` Concentrate on making a small group of users love your product rather than building something many people merely like.
-- `INS-260402-426C` Schools reward how far you've come; markets only care how far you are from what users need—and the gap produces fatally different building behaviors.
-- `INS-260330-851F` Aerogel's insulation is extraordinary but too fragile alone; embedding it in fiberglass creates a practical product that can be flexed, cut, and sewn.
-- `INS-260330-1282` Users judge products by experience quality, never by whether you used React or Vue, MySQL or MongoDB.
-- `INS-260323-8AA1` Adding more features to an app that nobody is using does not make it more likely to succeed — it makes it harder to diagnose what actually matters.
-- `INS-260326-A0B4` Uber wins because people need to get somewhere three times a day; car-buying sites struggle because people buy a car once every seven years.
-- `INS-260323-9393` Pincus's product religion: start by copying every pixel of what's proven to work, only change what existing users unanimously confirm is better, then innovate only in the narrow space that remains.
 - `INS-260327-A815` A repeatable sales motion means a non-founder can sell and close — you know your ICP, your pitch, your lead sources, and deals move predictably through the funnel before you hire a sales leader.
 - `INS-260327-9C00` Pre-PMF sales is fundamentally entrepreneurial -- it requires the founder's vision, domain expertise, and conviction, which no hired sales rep can replicate.
+- `INS-260405-21C7` Webvan expanded to multiple cities before understanding its unit economics, and the fixed cost structure made course correction impossible.
 - `INS-260330-318C` Mobile money adoption in Africa was explosive because the alternative — physically transporting cash over multi-day journeys with theft risk — made adoption a survival decision rather than a convenience choice.
 - `INS-260412-E07F` The Boeing 757 found its most valuable use case (transatlantic flights) 24 years after launch when twin-engine ocean regulations changed.
-- `INS-260405-21C7` Webvan expanded to multiple cities before understanding its unit economics, and the fixed cost structure made course correction impossible.
 - `INS-260403-4F1B` A centralized failure that mirrors what your decentralized product prevents becomes the strongest possible validation of your value proposition.
 - `INS-260329-C26B` The mindset that wins pre-PMF (just ship, no strategy) actively harms post-PMF growth if not evolved.
 - `INS-260403-DC59` Women founders disproportionately build in massive but overlooked markets like FemTech ($1.1T by 2027), caregiving, and community health — gaining sharper product-market fit from Day 1 because they've lived the problem.

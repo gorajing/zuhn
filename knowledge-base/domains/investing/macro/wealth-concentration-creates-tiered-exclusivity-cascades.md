@@ -1,7 +1,7 @@
 ---
 id: INS-260412-2367
 domain: investing
-topic: macro-trends
+topic: macro
 title: Wealth concentration creates tiered exclusivity cascades
 actionability: reference
 confidence: high
@@ -21,7 +21,7 @@ date_extracted: '2026-04-12'
 last_accessed: null
 access_count: 0
 indexed: true
-embedded: true
+embedded: false
 embedding_model: nomic-embed-text
 resolutions:
   one_line: >-

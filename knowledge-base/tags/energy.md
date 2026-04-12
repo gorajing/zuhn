@@ -1,18 +1,18 @@
 # Tag: energy
 
+- `INS-260410-9425` Zuckerberg argues fast-takeoff AGI scenarios underweight how much of the stack is gated by physical-world timelines — gigawatt clusters, permitting, energy supply chains, and users learning to use the tools.
 - `INS-260330-F205` Every data center being built now locks in compute and power capacity that will be irreplaceable once globalized GPU supply chains break down.
 - `INS-260404-CC8B` Musk's orbital compute thesis rests on the claim that electricity and cooling requirements are becoming the binding constraint on AI progress, not algorithms.
 - `INS-260328-F05E` Zuckerberg argues that gigawatt-scale datacenters are technically feasible but energy permitting creates multi-year delays that capital alone cannot solve.
-- `INS-260410-9425` Zuckerberg argues fast-takeoff AGI scenarios underweight how much of the stack is gated by physical-world timelines — gigawatt clusters, permitting, energy supply chains, and users learning to use the tools.
 - `INS-260410-A325` AGI will compress the measured GDP of cognitive work even as it vastly expands the value produced, so total energy throughput becomes a better civilizational yardstick than GDP.
 - `INS-260403-B539` AI's exponentially growing demand for electricity, land, and water will squeeze human access to basic resources before labor replacement becomes the primary concern.
 - `INS-260402-1640` AI threatens humans not by replacing their jobs but by competing for shared resources like energy and land.
 - `INS-260410-101D` China adds a France-or-UK-sized power grid every year; their strategic bet on cheap abundant electricity positions them to deploy more AI than anyone once the model matters less than how many you can run.
+- `INS-260405-1054` xAI's third data center reaches nearly 2 gigawatts of compute power by co-locating with an acquired power plant, signaling that energy access—not just hardware—is the binding constraint for frontier AI labs.
 - `INS-260409-AEF3` Hassabis claims grid optimization alone could unlock 30-40% efficiency on national grids, and AI will more than pay for its own energy footprint medium-to-long term.
 - `INS-260410-C602` AI data center buildouts are bottlenecked on power availability and speed-to-deploy, not on power cost, because tokens generate 1000x more value than the electricity they consume.
 - `INS-260405-D638` Starcloud's orbital GPU clusters use solar power and vacuum cooling to eliminate the cost structure of terrestrial AI infrastructure.
 - `INS-260405-F1A1` The US data center pipeline hit 241 GW but only a third is under active development, with utilities unable to supply power fast enough despite $650B in planned 2026 CapEx.
-- `INS-260405-1054` xAI's third data center reaches nearly 2 gigawatts of compute power by co-locating with an acquired power plant, signaling that energy access—not just hardware—is the binding constraint for frontier AI labs.
 - `INS-260328-6C9A` In 2013, Sam Altman left YC to work on nuclear power because 'electricity is everything' — the AI era proved him exactly right.
 - `INS-260405-8E85` Photosynthesis converts sunlight into ATP and NADPH as intermediate currencies, then spends those currencies in the Calvin Cycle—never coupling capture and use directly.
 - `INS-260325-5CB1` Stanford Prof Ram Rajagopal: the AI bottleneck is not compute but power — data centers are outgrowing the century-old electrical grid.
@@ -33,8 +33,8 @@
 - `INS-260323-5D6D` Repetitive work that violates your values causes cognitive depletion — your brain literally runs at lower capacity, making it impossible to learn new skills or build on the side.
 - `INS-260330-2E41` Chloroplasts charge thylakoids like batteries by pumping protons to create a concentration gradient, then release energy through a single enzyme (ATP synthase) — the same pattern underlies effective marketplace and platform strategies.
 - `INS-260327-6D57` Present your price with the same casual certainty as a Starbucks cashier holding out the card reader -- no flinching, no weird energy, just 'here's the investment to get you there.'
-- `INS-260403-C228` A.Team's founder described palpable energy in early Zoom rooms as teams formed — genuine product-market fit in marketplaces announces itself through participant enthusiasm, not metrics gymnastics.
 - `INS-260322-2D57` Energy is the current AI infrastructure bottleneck (driving renewed interest in nuclear), but once solved, cooling becomes the next constraint — creating a wave of innovation opportunity around thermal management.
+- `INS-260403-C228` A.Team's founder described palpable energy in early Zoom rooms as teams formed — genuine product-market fit in marketplaces announces itself through participant enthusiasm, not metrics gymnastics.
 - `INS-260323-5955` Bezos argues you can debate when humanity must expand into space but not whether — energy usage per capita must grow, and a finite planet cannot support that indefinitely.
 - `INS-260402-F833` The U.S. leads in advanced chips while China leads in energy production — whoever integrates both first wins the AI race.
 - `INS-260403-0789` China installed more solar in one year (278GW) than the US has installed all-time (177GW), creating a structural energy advantage for AI compute.

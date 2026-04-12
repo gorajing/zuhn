@@ -3,8 +3,11 @@
 - `INS-260326-2D41` Russell's second principle — that the AI should not know what human values are — creates a provably beneficial property: the machine's incentive to allow shutdown is directly proportional to its uncertainty about human objectives.
 - `INS-260404-B81C` Career planning requires hedging across multiple fields rather than betting on a single professional track.
 - `INS-260322-5932` Unlike previous platform shifts (internet, mobile), AI lacks a known theoretical ceiling, making deterministic predictions uniquely unreliable.
-- `INS-260404-4E1A` Human optimism is fueled by narrative continuity about the future, not by present comfort.
 - `INS-260403-37D9` Under time pressure and information asymmetry, an audience's primary evaluation heuristic becomes the presenter's own apparent confidence in their work.
+- `INS-260404-4E1A` Human optimism is fueled by narrative continuity about the future, not by present comfort.
+- `INS-260409-F93A` Galef argues accurate maps of the world should include explicit uncertainty markers and remain provisional — 'drawn in pencil, not pen' — because false precision creates psychological resistance to updating when better evidence arrives.
+- `INS-260412-4AC2` We've catalogued millions of stars but have good data on only about two dozen black holes, with each measurement carrying large error bars from indirect observation and simplifying assumptions.
+- `INS-260411-7F4F` Aleatoric uncertainty (irreducible noise), epistemic uncertainty (knowledge gaps), and ontological uncertainty (ambiguous concepts) each demand different mitigation strategies.
 - `INS-260403-6EDC` Difficulty choosing between passion and money reveals gaps in self-knowledge and work knowledge, not a genuine tie between options.
 - `INS-260412-6D71` Unverifiable intentions plus existential stakes collapse decision-making to worst-case assumptions.
 - `INS-260330-3B05` Kissing, curiosity, and exploration all share an evolutionary root: organisms that convert uncertainty into knowledge make better decisions and outcompete those that don't.
@@ -13,9 +16,6 @@
 - `INS-260405-7DD7` When you can't predict who matters, you must treat everyone as if they matter — which only genuinely good people can sustain.
 - `INS-260403-E554` Top VCs make decisions by thinking in probabilities and leaning into uncertainty rather than relying on gut instinct.
 - `INS-260403-AEA3` Critics used Bio Anchors' acknowledged uncertainty to conclude 'things are fine and normal' rather than recognizing that uncertainty cuts both ways and timelines could be shorter.
-- `INS-260409-F93A` Galef argues accurate maps of the world should include explicit uncertainty markers and remain provisional — 'drawn in pencil, not pen' — because false precision creates psychological resistance to updating when better evidence arrives.
-- `INS-260412-4AC2` We've catalogued millions of stars but have good data on only about two dozen black holes, with each measurement carrying large error bars from indirect observation and simplifying assumptions.
-- `INS-260411-7F4F` Aleatoric uncertainty (irreducible noise), epistemic uncertainty (knowledge gaps), and ontological uncertainty (ambiguous concepts) each demand different mitigation strategies.
 - `INS-260403-EB56` Instead of trying to predict where change will come from, be aggressively open-minded and maximize sensitivity to change signals from any direction.
 - `INS-260330-E982` Maximize expected information per action rather than chasing high-reward but unlikely outcomes.
 - `INS-260412-C37A` The Heisenberg uncertainty principle shows that seeing is touching — observing particles with enough energy to detect them inevitably alters them, establishing a hard limit on simultaneous knowledge.

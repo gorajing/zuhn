@@ -38,10 +38,10 @@
 - `INS-260403-A7D0` Gut-feel product decisions waste time and money building features nobody wants — systematic assumption testing is the mitigation.
 - `INS-260405-839E` AI routinely surfaces more valuable use cases than the ones founders set out to solve.
 - `INS-260405-0E05` In early stage, the depth of user love is a better signal than any metric you can count.
-- `INS-260405-F9E4` Customers who help design your experiments become invested in your success rather than just subjects of your research.
 - `INS-260323-0919` LIGO built two identical detectors 3,000 km apart so that any signal had to appear in both to count as real.
-- `INS-260405-36AF` Free pilots measure curiosity; paid pilots measure desire.
+- `INS-260405-F9E4` Customers who help design your experiments become invested in your success rather than just subjects of your research.
 - `INS-260405-F378` Searching for a technical cofounder before validating demand is backwards — demand attracts technical talent.
+- `INS-260405-36AF` Free pilots measure curiosity; paid pilots measure desire.
 - `INS-260323-224F` The Large Hadron Collider discovered the Higgs boson (confirming a 50-year-old prediction) but failed to find supersymmetry, becoming a cautionary tale about building a machine optimized for the expected rather than the unknown.
 - `INS-260324-40AA` TwoSpace knocked on 600 restaurant doors before finding their first venue — each rejection taught them market objections that no survey could have revealed.
 - `INS-260402-D8E7` Pretty much 100% of startups that make something popular manage to make money from it.

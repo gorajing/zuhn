@@ -9,9 +9,9 @@
 - `INS-260404-ED19` Mandatory membership fees trigger stronger sunk-cost commitment than optional subscriptions because the buyer can't self-select out of the psychological lock-in.
 - `INS-260405-F1FD` Once members pay $60-$120 upfront, not using Costco feels like wasting the fee — so they default to Costco without price-shopping.
 - `INS-260409-8487` Hate directed at people who care is projected self-contempt from people who haven't committed to anything.
-- `INS-260405-7B8D` Calling a project a 'sketch' isn't lowering your standards — it's applying the right standards for the stage.
 - `INS-260329-EE04` Commitment to any path beats keeping options open because decision fatigue from optionality is more costly than a wrong choice.
 - `INS-260329-EC78` Focus means concentrating all rungs on one ladder rather than distributing them across four ladders that each fall short of the wall.
+- `INS-260405-7B8D` Calling a project a 'sketch' isn't lowering your standards — it's applying the right standards for the stage.
 - `INS-260322-4B4A` There is no right answer in creative work, but there are people whose job it is to make their choices become the right answer through total commitment to execution.
 - `INS-260323-FC5B` Every love ends in death or divorce — so go all in, because the joy of full commitment vastly outweighs the guaranteed pain of eventual loss.
 - `INS-260330-1A55` In a study of 1,100 married people, 81% said they would remarry their current partner, which Fisher attributes to extended pre-commitment periods filtering incompatible matches.

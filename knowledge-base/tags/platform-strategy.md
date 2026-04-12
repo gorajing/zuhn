@@ -36,10 +36,6 @@
 - `INS-260321-69E1` A16z hired an 18-year-old for Instagram (up 35% MoM) because each platform has its own vibe, taste, and spirit — crossposting one idea everywhere fails to appreciate what each platform rewards.
 - `INS-260404-DFA5` The best deeptech startups blend physical science with software platforms rather than choosing one modality.
 - `INS-260402-3196` IBM's fatal error was granting a non-exclusive DOS license, allowing Microsoft to own the PC standard from within the supply chain.
-- `INS-260412-8B95` Epic Games released the entire Matrix demo — all assets and code — for free, seeding the UE5 developer ecosystem with production-quality reference material.
-- `INS-260405-B76E` Open source handles large-scale universal problems; closed software refines and distributes those solutions to specific users.
-- `INS-260410-81E8` Nadella argues the most important feature of American AI isn't capability but trust — countries are deploying based on whether the supplier and its institutions will still be around in 20 years.
-- `INS-260405-ABE0` Valve can afford hardware bets others can't because every device plugs into an already-won software distribution war.
 - `INS-260412-2AF2` Google's $50M Android acquisition captured 80%+ smartphone market share by making every hardware manufacturer a distribution partner.
 - `INS-260404-D6EC` ARM's 1,000+ partner ecosystem creates switching costs that no single competitor can overcome, even with superior technology.
 - `INS-260403-64A5` Track what tools elite developers adopt personally to predict which platforms will win mainstream adoption 5-10 years later.
@@ -47,14 +43,18 @@
 - `INS-260410-6F4B` Visa beat American Express because signing one bank instantly brought millions of cardholders and merchants, while AMX had to acquire each party itself.
 - `INS-260403-0020` Platform companies should monetize secondary assets via licensing while self-developing their lead candidate.
 - `INS-260405-D23E` Platform builders should maximize developer access rather than try to anticipate use cases, because versatility produces emergent applications the platform creator never imagined.
+- `INS-260412-8B95` Epic Games released the entire Matrix demo — all assets and code — for free, seeding the UE5 developer ecosystem with production-quality reference material.
+- `INS-260405-B76E` Open source handles large-scale universal problems; closed software refines and distributes those solutions to specific users.
+- `INS-260410-81E8` Nadella argues the most important feature of American AI isn't capability but trust — countries are deploying based on whether the supplier and its institutions will still be around in 20 years.
+- `INS-260405-ABE0` Valve can afford hardware bets others can't because every device plugs into an already-won software distribution war.
+- `INS-260330-C418` Cows thrived by being useful to humans; elephants declined despite being smarter and stronger — usefulness to the dominant player beats independent capability.
+- `INS-260323-6043` Sweeney shipped the game editor alongside ZZT, empowering players to become creators -- this 'tools + product' pattern became Epic's core strategy and the reason the company survived decades of game industry volatility.
 - `INS-260404-0CA7` Vertical SaaS that bundles financial and operational workflows becomes nearly impossible to rip out.
 - `INS-260412-6F4D` St Helena's airport worked technically but didn't transform the economy because the island lacked the marketing, investment attraction, and route development to exploit it.
 - `INS-260410-3C05` AWS launched bare-bones S3 and EC2 while Microsoft Azure Cloud Services and Google App Engine launched opinionated PaaS offerings — AWS captured the market because primitives enable both lift-and-shift and new-build use cases.
 - `INS-260404-68EE` 78% of public software companies above $5B market cap are multi-product, making it effectively mandatory for outsized outcomes.
 - `INS-260403-008F` Horizontal tools with light integration face multiple compression as AI features become table stakes, while mission-critical workflow platforms maintain 120%+ NRR and premium valuations.
 - `INS-260410-277B` Spotify realized it could own audiobooks and podcasts because German labels had already started quietly uploading audiobooks to its music platform.
-- `INS-260330-C418` Cows thrived by being useful to humans; elephants declined despite being smarter and stronger — usefulness to the dominant player beats independent capability.
-- `INS-260323-6043` Sweeney shipped the game editor alongside ZZT, empowering players to become creators -- this 'tools + product' pattern became Epic's core strategy and the reason the company survived decades of game industry volatility.
 - `INS-260410-1626` Horizontal platforms that span functional silos must be sold to the CEO — every executive below has a silo to defend and can't authorize cross-silo change.
 - `INS-260330-2737` Paul's Roman citizenship gave him free travel throughout the empire, allowing him to use Rome's own road network and legal protections to spread a message that would eventually undermine Roman religious authority.
 - `INS-260405-2422` All-in-one platforms that actually work create moats through workflow integration that point solutions can't replicate.

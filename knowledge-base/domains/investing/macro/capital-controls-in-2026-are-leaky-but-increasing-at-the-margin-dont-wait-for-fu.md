@@ -1,7 +1,7 @@
 ---
 id: INS-260409-1DD3
 domain: investing
-topic: macro-trends
+topic: macro
 title: >-
   Capital controls in 2026 are leaky but increasing at the margin — don't wait
   for full Bretton-Woods-style walls
@@ -24,7 +24,7 @@ date_extracted: '2026-04-09'
 last_accessed: null
 access_count: 0
 indexed: true
-embedded: true
+embedded: false
 embedding_model: nomic-embed-text
 resolutions:
   one_line: >-

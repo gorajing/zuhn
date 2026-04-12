@@ -7,7 +7,7 @@
 - `INS-260409-E6F3` Hassabis frames AI-for-science and medicine as the ultimate use case — everything else is incidental to unlocking a new golden age of discovery.
 - `INS-260325-5A2F` Current drug discovery uses trial-and-error in Petri dishes because digital computers cannot model molecules natively -- quantum computers compute on atoms and could simulate diseases at the molecular level.
 - `INS-260408-F58E` Isomorphic's pipeline screens binding + cross-target toxicity in silico, then only validates the final candidates in the wet lab.
+- `INS-260410-D75D` If there were a single upstream 'aging gene,' evolution would have found it when competing against longer-lived cousins; the absence of such a target means aging is layered and medicines will arrive as incremental additions of healthy years.
 - `INS-260405-0AE7` IsoDDE moves beyond AlphaFold's static structure prediction to simulate molecular motion, unlocking binding sites on proteins previously labeled 'undruggable.'
 - `INS-260410-9D16` TFs are queries, their binding motifs are keys, downstream genes are values — and like attention, small edits to the embedding vector produce dramatically different outputs, which is why Yamanaka flipped adult cells to stem cells using just four TFs out of 20,000 genes.
-- `INS-260410-D75D` If there were a single upstream 'aging gene,' evolution would have found it when competing against longer-lived cousins; the absence of such a target means aging is layered and medicines will arrive as incremental additions of healthy years.
 - `INS-260404-16FB` Dedicated funds like Menlo-Anthropic's $100M signal that AI-longevity convergence is becoming a distinct investment category.

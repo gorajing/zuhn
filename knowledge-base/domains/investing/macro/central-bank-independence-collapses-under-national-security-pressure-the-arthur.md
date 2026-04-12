@@ -1,7 +1,7 @@
 ---
 id: INS-260409-053F
 domain: investing
-topic: macro-trends
+topic: macro
 title: >-
   Central bank independence collapses under national-security pressure — the
   Arthur Burns 1979 confession still applies
@@ -25,7 +25,7 @@ date_extracted: '2026-04-09'
 last_accessed: null
 access_count: 0
 indexed: true
-embedded: true
+embedded: false
 embedding_model: nomic-embed-text
 resolutions:
   one_line: >-

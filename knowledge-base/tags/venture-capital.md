@@ -68,8 +68,8 @@
 - `INS-260403-8FC1` The creator economy startup field is shrinking but surviving companies are in a healthier competitive position than during the boom.
 - `INS-260405-DADB` VCs explicitly screen for network effects because they are the strongest defensibility mechanism in software — each new user increases value for all users.
 - `INS-260405-6342` Pitchbook data from Q1 2024 shows the US has more startups than VCs can realistically fund, meaning competition for capital has intensified beyond what deal quality alone explains.
-- `INS-260404-6FFF` Consumer-focused startups are making a comeback, following a historical pattern where new technology waves re-open B2C opportunity windows.
 - `INS-260403-16EA` True scalability means growing revenue exponentially while costs grow linearly, best demonstrated through LTV/CAC ratios and declining marginal costs.
+- `INS-260404-6FFF` Consumer-focused startups are making a comeback, following a historical pattern where new technology waves re-open B2C opportunity windows.
 - `INS-260405-6317` AMI's $1.03B seed — Europe's largest ever — shows sophisticated investors concentrating capital at inception when the paradigm bet is clear.
 - `INS-260405-54E2` Roughly two-thirds of venture dollars go to AI, and two-thirds of AI venture dollars go to the Bay Area — a compounding concentration effect.
 - `INS-260410-0F85` Benchmark deliberately bans memos because writing one forces you to fill in blanks the founder never said and pre-sells the group before they can see the founder raw.

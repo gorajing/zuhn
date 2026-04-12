@@ -5,8 +5,8 @@
 - `INS-260410-699C` Non-English text gets stretched into many more tokens than equivalent English, eating context length and degrading model performance regardless of LM training data.
 - `INS-260402-5034` Graham's 'degeneration' technique falls back from specific tokens (Subject*FREE!!!) through progressively general versions (FREE, free) when exact matches lack data.
 - `INS-260410-B282` Larger vocab compresses sequences (more context per token) but bloats embedding/softmax layers — the optimum is a tuned trade-off, not a maximum.
-- `INS-260327-9816` Simple space-time patch tokenization enables diffusion transformers to generate entire videos simultaneously with global context.
 - `INS-260410-B8EB` The same structured data in YAML costs roughly 15% fewer tokens than JSON, which matters for context length and API bills.
+- `INS-260327-9816` Simple space-time patch tokenization enables diffusion transformers to generate entire videos simultaneously with global context.
 - `INS-260409-1078` MemPalace's AAAK uses 73 tokens to encode text that plain English encodes in 66 — compression only amortizes at scale where the same entities appear hundreds of times, making it a net loss for small-scale personal memory.
 - `INS-260403-9D7C` Most equity tokens today provide financial exposure via SPV structures rather than direct share ownership, creating ambiguity around liquidation priority, voting rights, and conversion terms.
 - `INS-260403-8991` Equity tokens address 24/7 trading, reduced settlement friction, and democratized private market access as a bundled value proposition.

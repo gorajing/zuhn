@@ -29,12 +29,12 @@
 - `INS-260410-4E57` Meta's 2013 FAIR investment in AI paid off on three independent horizons — immediate ad/feed ranking improvements, medium-term defense against TikTok via Reels, and long-term optionality on AI as a platform — and only the first was required to justify the spend.
 - `INS-260412-B4B6` Samsung's $2M investment in FUBU when it was about to fail, which generated $6B in subsequent sales, reveals an underappreciated venture-style capital allocation capability within conglomerates.
 - `INS-260410-91A6` Every generational operator — Buffett, Carnegie, Rockefeller, Izzy Sharp, Ogilvy — grew fastest during downturns by deploying capital into advertising, acquisitions, and hiring while panicked competitors cut back.
-- `INS-260410-B74C` Choose to be modestly less profitable than peers in booms so you can remain standing — and acquire them — during busts.
-- `INS-260411-C094` JPM's 20-year track record of maintaining a fortress balance sheet — $1.4T+ in liquid assets, 20% ROTCE through cycles — demonstrates that conservative capital management is itself a growth strategy.
-- `INS-260411-CCB2` Value creation requires ROIC above WACC; a positive ROIC that falls below the cost of capital actually destroys shareholder value.
 - `INS-260330-4D05` Restricted investment options funnel high savings rates into real estate, disconnecting prices from underlying demand.
 - `INS-260403-738F` Companies invest in AI infrastructure defensively, then can't admit it isn't working because they've already spent too much.
 - `INS-260327-D7DD` When real estate is unaffordable, bonds are unattractive, and savings accounts lose to inflation, stocks become the only game in town regardless of fundamentals.
+- `INS-260410-B74C` Choose to be modestly less profitable than peers in booms so you can remain standing — and acquire them — during busts.
+- `INS-260411-C094` JPM's 20-year track record of maintaining a fortress balance sheet — $1.4T+ in liquid assets, 20% ROTCE through cycles — demonstrates that conservative capital management is itself a growth strategy.
+- `INS-260411-CCB2` Value creation requires ROIC above WACC; a positive ROIC that falls below the cost of capital actually destroys shareholder value.
 - `INS-260329-A6EA` Your investment strategy should shift from human capital to financial assets as your capital base grows.
 - `INS-260330-7EAA` Cash sitting idle in offshore accounts destroys value because it earns no return while shareholders' alternative investments would.
 - `INS-260330-B6AD` When companies cannot repatriate cash cheaply, they issue domestic debt while sitting on foreign cash and pursue suboptimal foreign investments just to deploy trapped capital.
@@ -42,9 +42,9 @@
 - `INS-260330-137A` Offshore cash that can't be repatriated without heavy taxes acts as dead weight on shareholder returns rather than a competitive advantage.
 - `INS-260410-4357` At scale, effectiveness of achieving outcomes matters more than efficiency of resource use — the 'waste' in China's growth was the mechanism that produced the growth.
 - `INS-260412-12A5` Governments offer EV purchase tax credits but neglect charging infrastructure, putting the cart before the horse.
+- `INS-260409-8B3D` Napier: the investment question for the next 10-15 years is not 'which company wins' but 'who gets cheap credit and who gets excluded' — winners are re-industrialization, rearmament, defense, energy, robotics, and old-economy manufacturing.
 - `INS-260412-89BE` Near-zero rates after 2008 pushed investment away from productive innovation and into speculative financial assets, permanently lowering GDP per capita trajectory.
 - `INS-260410-731D` China's banking system lets strategic-sector companies borrow on the promise of producing units, not profits — which produces world-leading manufacturing capacity alongside massive capital destruction.
-- `INS-260409-8B3D` Napier: the investment question for the next 10-15 years is not 'which company wins' but 'who gets cheap credit and who gets excluded' — winners are re-industrialization, rearmament, defense, energy, robotics, and old-economy manufacturing.
 - `INS-260403-B744` Space tech is following the same stack-layer consolidation pattern as AI, but capital fixation on AI has left space infrastructure windows unusually open.
 - `INS-260403-D00D` JPMorgan's $1.5T commitment signals that private banks are assuming industrial policy roles governments are too slow to fill.
 - `INS-260403-7157` Solar attracts ~$500B/year in investment and installs more new capacity than every other electricity source combined.

@@ -15,8 +15,8 @@
 - `INS-260402-8D38` As AI summaries reduce click-through from Google, diversifying discovery channels from owned media to social platforms becomes a survival strategy.
 - `INS-260322-ABA0` Businesses that become one-dimensional on currently-working channels almost always see revenue halve rather than double, because platform shifts are inevitable.
 - `INS-260412-2551` Three GDS providers (Amadeus, Sabre, Travelport) suspending Aeroflot's access was a 'death blow' because no alternative booking infrastructure existed.
-- `INS-260410-6D83` Start building your defensive option years before you deploy it — by the time the threat is real, you won't have time to stand up a world-class team from scratch.
 - `INS-260412-CAEF` Amtrak's 98.6% of delays come from freight companies who own the tracks and naturally prioritize their own trains.
+- `INS-260410-6D83` Start building your defensive option years before you deploy it — by the time the threat is real, you won't have time to stand up a world-class team from scratch.
 - `INS-260410-15AC` Qualcomm's demand of 5% of every iPhone's ASP plus per-unit patent fees was the bill that made Apple buy Intel's modem business and start building its own modem — a decade-long project Apple only started because the tax was intolerable.
 - `INS-260329-C893` If your growth depends on gaming a platform (SEO, app store, token issuance), expect a turkey graph — great until the platform changes, then instant death.
 - `INS-260412-46A4` Robinhood's buy-side restrictions during the GME squeeze revealed that platforms funded by institutional order flow payments will protect those institutions when retail activity threatens them.

@@ -1,7 +1,7 @@
 ---
 id: INS-260409-7C61
 domain: investing
-topic: macro-trends
+topic: macro
 title: >-
   Larry Fink's 'democratization of investment' and Napier's 'financial
   repression' describe identical mechanics with opposite framing
@@ -25,7 +25,7 @@ date_extracted: '2026-04-09'
 last_accessed: null
 access_count: 0
 indexed: true
-embedded: true
+embedded: false
 embedding_model: nomic-embed-text
 resolutions:
   one_line: >-

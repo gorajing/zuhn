@@ -76,9 +76,9 @@
 - `INS-260404-0022` Mapping all business models on return-vs-risk and evidence-vs-potential axes reveals disruption vulnerability at a glance.
 - `INS-260403-DB22` Most companies have sophisticated tools for execution but primitive tools for innovation and strategy design.
 - `INS-260329-CB6D` The four types of leverage—labor, capital, code, content—compound multiplicatively, with permissionless forms (code, content) creating the largest fortunes.
-- `INS-260402-D8E7` Pretty much 100% of startups that make something popular manage to make money from it.
 - `INS-260403-ABB7` AI companies operate at structurally lower margins than SaaS, requiring different growth levers to achieve comparable profitability.
 - `INS-260330-8FEC` Businesses earning royalties on others' capital (like Amex's 3% transaction fee) generate superior returns because growth doesn't require proportional reinvestment.
+- `INS-260402-D8E7` Pretty much 100% of startups that make something popular manage to make money from it.
 - `INS-260412-24DB` WorldCom's entire growth engine was serial acquisition; when the Sprint merger was blocked, the company had no organic playbook and resorted to fraud.
 - `INS-260323-9A29` Cash flow funds your lifestyle today; equity creates wealth tomorrow — McDonald's burgers generate cash flow but their $45B real estate portfolio and $1.6B in franchise royalties are the actual wealth engine.
 - `INS-260327-68C1` 2025 had the highest corporate bankruptcies ever outside a recession, including companies going bankrupt for the second time within months, suggesting structural unsustainability not cyclical distress.

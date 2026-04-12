@@ -1,7 +1,7 @@
 ---
 id: INS-260412-E9A1
 domain: investing
-topic: macro-trends
+topic: macro
 title: Existential risk concentration increases with technological capability
 actionability: reference
 confidence: medium
@@ -22,7 +22,7 @@ date_extracted: '2026-04-12'
 last_accessed: null
 access_count: 0
 indexed: true
-embedded: true
+embedded: false
 embedding_model: nomic-embed-text
 resolutions:
   one_line: >-

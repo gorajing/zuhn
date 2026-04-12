@@ -45,12 +45,12 @@
 - `INS-260327-CFE5` A company can miss earnings targets and still surge 30% if it tells a compelling AI story, revealing that markets are pricing narrative not performance.
 - `INS-260410-641D` An acquisition serving three strategic purposes simultaneously is worth far more than critics who grade on one dimension will estimate — YouTube went from 'Google's worst mistake' to a $500B business.
 - `INS-260412-9B06` Nikola surpassed Ford's $28B market cap within one week of going public despite having zero revenue, zero deliveries, and no functioning technology.
-- `INS-260412-4D5D` Samsung's 80 subsidiaries across construction, finance, healthcare, and electronics prevent existential risk but didn't prevent a $122B market cap loss because markets price the flagship's trajectory, not the portfolio's floor.
 - `INS-260404-6B73` DeepSeek R1 wiped nearly a trillion dollars in market value by proving frontier AI doesn't require frontier spending.
 - `INS-260403-912C` A five-factor bubble framework comparing economic strain, returns, valuations, and funding quality shows AI is overheated in some dimensions but grounded in others.
 - `INS-260412-5649` Growth stock valuations embed compounding user growth assumptions that unravel catastrophically when saturation is revealed.
 - `INS-260412-CE4D` WeWork's tech narrative sustained a $47B valuation that collapsed 80% once IPO filings revealed it was losing $5,000 per new customer.
 - `INS-260402-D7C7` The end of zero interest rates forces a binary sort of companies into those with real unit economics and those that were subsidized by cheap money.
+- `INS-260412-4D5D` Samsung's 80 subsidiaries across construction, finance, healthcare, and electronics prevent existential risk but didn't prevent a $122B market cap loss because markets price the flagship's trajectory, not the portfolio's floor.
 - `INS-260404-D475` Kalshi's $11B valuation and 1000% volume growth validates regulated prediction markets as a mainstream financial category.
 - `INS-260411-0841` Household net worth at 560% of GDP and low credit spreads mean anything less than positive outcomes could trigger dramatic asset price declines.
 - `INS-260405-F374` SpaceX at $350B staying private proves the largest strategic assets no longer need public markets for liquidity.

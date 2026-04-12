@@ -1,7 +1,7 @@
 ---
 id: INS-260410-F41F
 domain: investing
-topic: macro-trends
+topic: macro
 title: >-
   Regulatory tailwinds can permanently freeze market structure by pulling future
   RFPs into one moment
@@ -24,7 +24,7 @@ date_extracted: '2026-04-10'
 last_accessed: null
 access_count: 0
 indexed: true
-embedded: true
+embedded: false
 embedding_model: nomic-embed-text
 resolutions:
   one_line: >-

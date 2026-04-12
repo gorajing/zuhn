@@ -36,18 +36,18 @@
 - `INS-260403-37F4` Multiply annual salary plus overhead by 1.5 to estimate total stock-equivalent cost at current valuation.
 - `INS-260403-8D8D` Before YC, seed funding was chaotic with random terms, bad docs, and amateur lawyers — standardization unlocked the market.
 - `INS-260405-0E05` In early stage, the depth of user love is a better signal than any metric you can count.
-- `INS-260404-C720` Start by making a few users love you rather than many users tolerate you.
 - `INS-260402-7B69` In early startups, product quality is redefined as total user experience quality, where personal attentiveness compensates for product incompleteness.
+- `INS-260404-C720` Start by making a few users love you rather than many users tolerate you.
 - `INS-260330-7D07` Top salespeople spend only 30% of the call talking and 70% listening to understand the prospect's problem.
 - `INS-260329-3392` Your first paying customers are people who already know you — reach out to them directly before spending on acquisition channels.
 - `INS-260329-9F8D` Start free, then raise your price incrementally with each batch of customers as your testimonial stack and confidence grow.
 - `INS-260327-18D4` Maggie's first OpenAI hire was Molly — Stanford MBA, 8 years at Google — who accepted an SDR role when 49 other candidates refused it, then built the global sales dev org within months because she had zero ego.
 - `INS-260405-6317` AMI's $1.03B seed — Europe's largest ever — shows sophisticated investors concentrating capital at inception when the paradigm bet is clear.
+- `INS-260404-C6AB` Effective early-stage AI investing requires a structured framework at the $100-500M fund scale, as generalist AI exposure fails to differentiate.
 - `INS-260404-A6D4` Substack's first version had no CMS, no onboarding, and no design tools — Chris Best manually typed the first user into a database, and that user made six figures on day one.
 - `INS-260403-C96F` When there's no product or traction data, the founders themselves are the entire investment thesis.
 - `INS-260403-58BB` Target markets that are small today but have a built-in expansion mechanism, like Apple selling computers in 1976 to hobbyists before everyone wanted one.
 - `INS-260403-CD74` Level 1 PMF requires finding just 3-5 customers with a problem worth solving, engaging deeply, delivering a solution, and validating it — not broad market traction.
-- `INS-260404-C6AB` Effective early-stage AI investing requires a structured framework at the $100-500M fund scale, as generalist AI exposure fails to differentiate.
 - `INS-260405-963B` Chamath argues AI is still early-stage even after two years of mainstream adoption and a trillion in investment.
 - `INS-260405-6EE5` Gulf investors are becoming structurally active in European pre-seed and early-stage deals, diversifying the European funding ecosystem beyond traditional US and local capital.
 - `INS-260404-15B8` Early-stage VCs show AI fatigue despite $30B raised in 2024, suggesting a coming selectivity filter.

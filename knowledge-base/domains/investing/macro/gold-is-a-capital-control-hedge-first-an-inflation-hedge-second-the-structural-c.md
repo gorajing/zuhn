@@ -1,7 +1,7 @@
 ---
 id: INS-260409-232E
 domain: investing
-topic: macro-trends
+topic: macro
 title: >-
   Gold is a capital-control hedge first, an inflation hedge second — the
   structural case is portability, not CPI correlation
@@ -25,7 +25,7 @@ date_extracted: '2026-04-09'
 last_accessed: null
 access_count: 0
 indexed: true
-embedded: true
+embedded: false
 embedding_model: nomic-embed-text
 resolutions:
   one_line: >-

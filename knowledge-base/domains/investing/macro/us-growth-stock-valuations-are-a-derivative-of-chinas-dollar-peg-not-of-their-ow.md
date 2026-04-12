@@ -1,7 +1,7 @@
 ---
 id: INS-260409-571B
 domain: investing
-topic: macro-trends
+topic: macro
 title: >-
   US growth-stock valuations are a derivative of China's dollar peg, not of
   their own fundamentals
@@ -25,7 +25,7 @@ date_extracted: '2026-04-09'
 last_accessed: null
 access_count: 0
 indexed: true
-embedded: true
+embedded: false
 embedding_model: nomic-embed-text
 resolutions:
   one_line: >-

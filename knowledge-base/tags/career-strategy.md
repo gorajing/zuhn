@@ -1,12 +1,12 @@
 # Tag: career-strategy
 
 - `INS-260409-6C66` Allocate 20% of your time to automating yourself out of a job — if you don't, someone else will, and they'll capture the leverage.
+- `INS-260403-497B` Leadership titles are stepping stones to career optionality, not end destinations — optionality enables you to craft work on your own terms.
+- `INS-260403-C135` Specific knowledge is found by looking backward at what you've already done, not forward at what you plan to learn.
 - `INS-260403-A6F1` Careers can be evaluated like financial instruments—liquid paths offer security and optionality while illiquid paths carry concentrated risk and reward.
 - `INS-260412-FE12` Gen Z increasingly choosing trades and community colleges over expensive universities reflects rational recalculation as degree ROI declines and student debt compounds.
 - `INS-260402-40D7` Avoid locking into fixed life plans early; instead maximize the range of future options available to you.
 - `INS-260403-803A` When unsure what to do, choose options that keep the most future doors open rather than optimizing for any single outcome.
-- `INS-260403-497B` Leadership titles are stepping stones to career optionality, not end destinations — optionality enables you to craft work on your own terms.
-- `INS-260403-C135` Specific knowledge is found by looking backward at what you've already done, not forward at what you plan to learn.
 - `INS-260330-0D11` Harvard Business School's largest cohort systematically catches the last wave (junk bonds in 1989, dotcom in 1999, housing in 2007) because extroverted, low-conviction people in a hot-house environment use peer behavior as their signal for value.
 - `INS-260329-7AAB` Choose roles that maximize skill acquisition over immediate compensation during your growth years.
 - `INS-260329-04CB` Choosing the right industry produces 3-5x more earnings impact than choosing the right school or major.

@@ -1,8 +1,8 @@
 # Tag: competitive-moat
 
+- `INS-260405-6A6F` AI agents that can code and reason may nullify the workforce scale advantage that underpins China's tech sector.
 - `INS-260327-7C69` Cursor built a decisive competitive advantage by using its own IDE as an RL environment to post-train models, a pattern every AI company should adopt.
 - `INS-260327-5E40` Prompts reset every session; training data compounds institutional knowledge over time, creating a moat that deepens with each iteration.
-- `INS-260405-6A6F` AI agents that can code and reason may nullify the workforce scale advantage that underpins China's tech sector.
 - `INS-260327-F316` Mati argues that while foundation model providers may match ElevenLabs on voice research, the competitive moat is product platform depth and taste that takes thousands of iterations to achieve.
 - `INS-260402-5BE6` AI handles top-of-funnel informational queries well, but struggles to replicate case studies, product comparisons, and implementation guides rooted in real experience.
 - `INS-260412-9BFD` Real Graphene's CEO noted many companies claim to use graphene but actually use graphite, creating a trust gap that authentic producers can exploit as a differentiator.
@@ -22,10 +22,10 @@
 - `INS-260329-4488` Set decade-long commitments to activities rather than short-term outcome targets to reduce emotional ups and downs while building compounding advantages.
 - `INS-260403-E7E1` When everyone has the team and the tech, the scarce resource is a strong enough point of view on what should exist.
 - `INS-260405-E7F9` Apple Pay's security and seamlessness were only possible because Apple controlled the chip (Secure Enclave), the OS, and the payment network relationships simultaneously.
+- `INS-260323-FEDF` You will never build better AI than OpenAI or Anthropic, but you can win with better contextual knowledge of a specific workflow or market.
 - `INS-260404-95BA` Treating design as a first-class strategic concern creates self-reinforcing competitive advantage.
 - `INS-260403-2DB2` Live ops creates a compounding advantage: each data-driven iteration personalizes the experience further, building a moat that static competitors cannot match.
 - `INS-260403-5C06` NFX's 5-level AI spectrum shows most founders default to AI enhancement (L1-3) rather than pursuing AI-first products (L4-5) where transformative value lives.
-- `INS-260323-FEDF` You will never build better AI than OpenAI or Anthropic, but you can win with better contextual knowledge of a specific workflow or market.
 - `INS-260330-F3E4` Harry Sonneborn's franchise realty strategy gave McDonald's control over operators, a new 8.5% revenue stream, and balance sheet assets for bank financing — all from one move.
 - `INS-260405-2422` All-in-one platforms that actually work create moats through workflow integration that point solutions can't replicate.
 - `INS-260411-C094` JPM's 20-year track record of maintaining a fortress balance sheet — $1.4T+ in liquid assets, 20% ROTCE through cycles — demonstrates that conservative capital management is itself a growth strategy.

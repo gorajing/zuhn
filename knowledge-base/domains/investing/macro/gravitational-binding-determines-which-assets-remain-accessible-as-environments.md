@@ -1,7 +1,7 @@
 ---
 id: INS-260412-F121
 domain: investing
-topic: macro-trends
+topic: macro
 title: >-
   Gravitational binding determines which assets remain accessible as
   environments expand
@@ -24,7 +24,7 @@ date_extracted: '2026-04-12'
 last_accessed: null
 access_count: 0
 indexed: true
-embedded: true
+embedded: false
 embedding_model: nomic-embed-text
 resolutions:
   one_line: >-

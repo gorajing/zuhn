@@ -1,7 +1,7 @@
 ---
 id: INS-260409-F485
 domain: investing
-topic: macro-trends
+topic: macro
 title: >-
   Don't invest where you wouldn't live after retirement — property rights
   failure is the absorbing state for capital
@@ -26,7 +26,7 @@ date_extracted: '2026-04-09'
 last_accessed: null
 access_count: 0
 indexed: true
-embedded: true
+embedded: false
 embedding_model: nomic-embed-text
 resolutions:
   one_line: >-

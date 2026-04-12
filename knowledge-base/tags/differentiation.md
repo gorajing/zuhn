@@ -2,7 +2,6 @@
 
 - `INS-260325-DD43` Open Router revealed that the same model from different providers at different speeds enables entirely different use cases, making deployment selection a first-class product decision.
 - `INS-260323-B4D2` If AI lets you build faster, it lets every other founder build faster too — a customer who had 2-3 options now has 20-30, making differentiation the real bottleneck.
-- `INS-260322-7FA4` As AI-generated content commoditizes visual spectacle, the creator's durable advantage becomes narrative authenticity — stories infused with personal emotion, values, and philosophical depth that audiences instinctively recognize.
 - `INS-260403-6F65` Equal optimization on substance makes charisma the tiebreaker.
 - `INS-260329-6B87` State your downsides first — if someone is fine with all of them, the relationship only has upside.
 - `INS-260404-63F0` 75% of YC's latest batch focusing on AI suggests dangerous herd behavior that will produce many undifferentiated startups competing for the same markets.
@@ -26,13 +25,14 @@
 - `INS-260403-05F2` Preparing 2-3 smart questions about the VC's involvement style and portfolio support is the easiest way to differentiate yourself from other founders.
 - `INS-260410-7AA0` In B2B enterprise software, brand is the identity that scales trust across a global buyer base — underinvesting in it cedes the most leveraged asset you can build.
 - `INS-260404-C501` Treat differentiation as a combinatorial selection from ~20 possible axes rather than finding one unique angle.
-- `INS-260403-868F` Spending tens of hours on primary research per post produces insights readers can't find elsewhere, which is what makes content worth sharing.
-- `INS-260410-ABFF` Walmart's Great Value and Costco's Kirkland compete against brands on price; Trader Joe's refuses to launch a private label product unless it's differentiated on recipe, packaging, size, or merchandising — which is why the house brand carries the store's own name.
 - `INS-260327-F405` Giertz's products succeed not because they're technically superior but because they express genuine personality that creates emotional connection with users.
+- `INS-260410-ABFF` Walmart's Great Value and Costco's Kirkland compete against brands on price; Trader Joe's refuses to launch a private label product unless it's differentiated on recipe, packaging, size, or merchandising — which is why the house brand carries the store's own name.
+- `INS-260403-868F` Spending tens of hours on primary research per post produces insights readers can't find elsewhere, which is what makes content worth sharing.
 - `INS-260327-4E36` 99% of salespeople sound the same -- the pattern interrupt (doing something genuinely different, specific, and human) is what makes prospects actually pay attention and remember you.
 - `INS-260329-D1A1` Custom-researched outreach to multiple stakeholders per target company signals the hustle that generic mass applications cannot.
 - `INS-260327-575D` Feature comparison matrices are one-sided and savvy buyers ignore them -- instead, explain the specific architectural decisions you made and why they matter, like how Dropbox's delta sync technology became the headline that won NBC Universal.
 - `INS-260403-FFD2` Your PMF story must show two clear fits: Feature A solves the customer's core problem, and Feature B addresses the specific shortcomings of dominant alternatives.
 - `INS-260403-508D` Categorizing gains as expected, desired, or surprising reveals whether your value proposition is merely adequate or genuinely differentiated.
 - `INS-260411-F990` DuPont decomposition of sustained top-quintile ROIC performers from 1963-2023 shows NOPAT margins (differentiation) contributed 4.4x the universe average while invested capital turnover (cost leadership) contributed only 1.8x.
+- `INS-260322-7FA4` As AI-generated content commoditizes visual spectacle, the creator's durable advantage becomes narrative authenticity — stories infused with personal emotion, values, and philosophical depth that audiences instinctively recognize.
 - `INS-260403-21B2` VC fundraising is lagging prior cycles despite headline interest, with undifferentiated managers facing extended timelines and tougher terms.

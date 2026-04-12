@@ -1,7 +1,7 @@
 ---
 id: INS-260409-5E94
 domain: investing
-topic: macro-trends
+topic: macro
 title: >-
   The $67T of foreign-held US assets is a latent selling pressure that activates
   the moment other countries begin their own financial repression
@@ -25,7 +25,7 @@ date_extracted: '2026-04-09'
 last_accessed: null
 access_count: 0
 indexed: true
-embedded: true
+embedded: false
 embedding_model: nomic-embed-text
 resolutions:
   one_line: >-

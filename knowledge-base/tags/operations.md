@@ -24,8 +24,8 @@
 - `INS-260412-8E0A` The presidential secure package can break away from the full motorcade and function independently, a design pattern applicable to any high-stakes operation.
 - `INS-260412-CAAD` St Helena's airport needs nearly the same firefighting, meteorology, navigation, and security infrastructure as Heathrow despite having one flight per week versus thousands.
 - `INS-260412-D787` The White House to UN trip takes exactly one hour because every transition — Marine One to Air Force One (5 min), landing to motorcade — is ruthlessly optimized.
-- `INS-260403-C4CD` RuBisCo's oxygen-confusion creates toxic phosphoglycolate that plants must dedicate entire enzyme pathways to neutralize — a pattern mirrored in any high-throughput system.
 - `INS-260330-BE23` Do every process manually first to learn which steps and questions actually matter before building software to automate them.
+- `INS-260403-C4CD` RuBisCo's oxygen-confusion creates toxic phosphoglycolate that plants must dedicate entire enzyme pathways to neutralize — a pattern mirrored in any high-throughput system.
 - `INS-260404-7C1F` Startup operating systems should prioritize reducing decision friction over covering every edge case.
 - `INS-260412-E5CC` Air traffic control sectors dynamically combine at night and split during peak hours, matching controller allocation to actual demand rather than fixed assignments.
 - `INS-260329-33D4` Output = Volume × Leverage means improving leverage multiplies all existing effort rather than adding incrementally.

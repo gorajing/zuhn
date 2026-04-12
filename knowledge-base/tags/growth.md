@@ -46,9 +46,9 @@
 - `INS-260403-EB97` Revenue growth deceleration simultaneously exposes capitalized commissions, deferred expenses, and inflated efficiency metrics that were hidden during high-growth periods.
 - `INS-260323-4DF1` Feeling uncomfortable in a role signals growth opportunity, not inadequacy — systematically seek discomfort rather than avoiding it.
 - `INS-260403-1A08` Focus moderation on behavior standards rather than user gatekeeping to prevent community quality decay.
+- `INS-260330-E263` Concentrate on making a small group of users love your product rather than building something many people merely like.
 - `INS-260412-EE18` Forces that maintain cohesion at small scale break down at larger scales, requiring different survival strategies at each phase.
 - `INS-260404-8A67` Products that map emotional motivators alongside functional needs achieve stronger retention and organic growth.
-- `INS-260330-E263` Concentrate on making a small group of users love your product rather than building something many people merely like.
 - `INS-260403-024E` Cutting back-half GTM hiring makes current efficiency metrics look great while silently guaranteeing a growth collapse the following year due to sales rep ramp times.
 - `INS-260329-97C1` Ramsey Solutions' diverse product mix (radio, books, courses, coaching, app, endorsements) prevented stair-step growth by having different products peak at different times.
 - `INS-260330-912C` Rome successfully absorbed conquered peoples for centuries by making them Romans, but collapsed when expansion outpaced cultural integration.

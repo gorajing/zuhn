@@ -1,8 +1,8 @@
 # Tag: overconfidence
 
+- `INS-260403-B7E3` Being somewhat overconfident about your abilities empirically leads to better outcomes than perfectly calibrated self-assessment.
 - `INS-260403-3AE7` Confidence about AI's trajectory is hardening into consensus faster than the underlying evidence supports, creating dangerous belief-lock-in across capital allocation decisions.
 - `INS-260403-CB80` Recording confidence ratings at decision time and comparing to outcomes is a powerful metacognitive calibration tool.
-- `INS-260403-B7E3` Being somewhat overconfident about your abilities empirically leads to better outcomes than perfectly calibrated self-assessment.
 - `INS-260330-CA8E` Knowing the math behind G-forces did not prepare Destin for the physical reality of 7G in an F-16.
 - `INS-260412-4AE8` The Bitfinex couple's opsec failures — real names on VPN accounts, a folder labeled 'fake passport ideas,' burner phones labeled under the bed — reveal how sustained evasion breeds fatal overconfidence.
 - `INS-260330-8950` WWII forced the question of whether Western industrial progress actually represents moral progress, revealing that advanced capability enables advanced destruction.

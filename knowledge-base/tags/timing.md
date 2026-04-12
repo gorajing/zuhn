@@ -2,10 +2,10 @@
 
 - `INS-260403-5BCF` Section 230 locked in rules before anyone understood social media's impact, leaving AI regulation as the chance to avoid repeating that mistake.
 - `INS-260327-BBE3` Coffee optimization: organic mold-free beans, separate from creatine by 4+ hours, supplement magnesium to offset mineral depletion, and restrict to morning only.
+- `INS-260412-1F4E` We exist at a cosmologically unique moment where we can see both our origins and our future — a privilege that will never recur.
+- `INS-260403-14D5` You don't need to grow up or go to college in a great city, but you should be in one during the critical early-to-mid career phase when you're finding your problems and peers.
 - `INS-260402-B66A` Your early twenties offer unique exploration that a startup's all-consuming depth-first search permanently forecloses.
 - `INS-260330-255F` Only enter a category when you can make it one to two orders of magnitude better than what exists — if the technology or market isn't ready, wait.
-- `INS-260403-14D5` You don't need to grow up or go to college in a great city, but you should be in one during the critical early-to-mid career phase when you're finding your problems and peers.
-- `INS-260412-1F4E` We exist at a cosmologically unique moment where we can see both our origins and our future — a privilege that will never recur.
 - `INS-260402-2A1D` College concentrates smart, unattached, ambitious people evaluating each other on identical tasks—conditions for co-founder discovery that never recur at the same density.
 - `INS-260410-0E77` Jensen's operating principle was not 'if we build it they will come' but 'if we don't build it they can't come' — the platform must exist before the market materializes or no one can show up at all.
 - `INS-260403-DAB9` Early partners in defense-industrial buildups shape the standards and procurement pathways that become barriers to entry for latecomers.
@@ -43,6 +43,7 @@
 - `INS-260404-7A54` High mobile penetration plus low workflow digitization signals a ripe market entry window for vertical SaaS.
 - `INS-260403-1AE5` New markets have no existing demand to capture, so spending on acquisition before the tipping point burns cash with no proportional return.
 - `INS-260327-7A44` The moment a customer has their first 'wow' result -- first milestone hit, first successful implementation, first measurable outcome -- immediately ask: 'Is there one or two people just like you that we could help?'
+- `INS-260403-A538` Pushing a Head of Sales hire from Q1 to Q2 extended runway by 3 months, creating room to raise on better terms.
 - `INS-260404-007F` Enterprise SaaS IPOs from 2012 outperformed expectations by solving deep operational pain points with recurring revenue models.
 - `INS-260405-4D20` Greg Isenberg's 2024 claim that it's the best time to start a company in 30 years is grounded in AI dramatically compressing the cost and time to build an MVP.
 - `INS-260323-1494` Having a brilliant idea without an addressable market or distribution infrastructure turns you into free R&D for better-timed competitors.
@@ -76,7 +77,6 @@
 - `INS-260325-EBDD` Bacon foresaw the power of systematic science in 1620 but the Industrial Revolution did not arrive until 200 years later.
 - `INS-260410-1BB0` When you're racing a window shut, you don't have the luxury of optionality — the window itself is evidence your adversary's structural position will soon exceed yours.
 - `INS-260403-B835` Young founders use the latest technology first, positioning them to discover fixable brokenness before older, more experienced operators.
-- `INS-260403-A538` Pushing a Head of Sales hire from Q1 to Q2 extended runway by 3 months, creating room to raise on better terms.
 - `INS-260403-EAE5` The best time to search for new business models is while the existing one still generates surplus capital to fund experiments.
 - `INS-260403-7BA1` The industries accidentally created by cost collapses — modern finance from sail, consumer credit from automobiles, global manufacturing from containers — always exceed the value of the original technology.
 - `INS-260330-777A` Putin announced the pension age increase on the opening day of the 2018 World Cup — it still caused his largest-ever approval drop.

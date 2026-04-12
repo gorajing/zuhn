@@ -2,8 +2,8 @@
 
 - `INS-260410-439D` AI could be a super-collective-brain (billions of copies, perfect transmission, infinite bandwidth) but Henrich worries that the things driving real innovation — serendipity, improper copying, environmental shocks — get smoothed away by high-fidelity homogeneity.
 - `INS-260405-F72B` LLM grokking, like penicillin, was discovered by accident—and this accidental-discovery pattern is more characteristic of deep learning progress than theory-driven research.
-- `INS-260409-9412` Earthrise happened because Bill Anders yelled for color film when he saw Earth coming up unscheduled; the Artemis eclipse happened because the crew chose to frame Venus into a dark shot.
 - `INS-260403-AAE4` The paths to new ideas look unpromising by definition — if they looked promising, others would have already explored them.
+- `INS-260409-9412` Earthrise happened because Bill Anders yelled for color film when he saw Earth coming up unscheduled; the Artemis eclipse happened because the crew chose to frame Venus into a dark shot.
 - `INS-260330-90AD` Getting fired from Stanford redirected Keating from safe postdoc work to founding the BICEP experiment — the most important work of his career.
 - `INS-260327-8C58` Many of the best things in life happened because you weren't planning for them - rigid planning eliminates the serendipity that produces the most meaningful outcomes.
 - `INS-260402-4451` You can't find great questions by searching for them — they emerge from sustained immersion in work that interests you.
@@ -20,7 +20,7 @@
 - `INS-260404-0FEB` Oxygen — the gas that enabled all animal life — is a waste byproduct of photosynthesis's water-splitting step, not its intended product.
 - `INS-260404-FF39` Oxygen — the molecule enabling all animal life — was originally a toxic waste product of early photosynthesis, suggesting that transformative innovations often emerge as byproducts.
 - `INS-260403-EFE6` Oxygen — the gas that enabled all animal life — is just a waste byproduct of photosynthesis's real job of making glucose.
-- `INS-260410-58F2` The weight-loss effect of liraglutide was observed in rat trials years before Novo pursued it — overcoming internal stigma, not science, was the bottleneck.
 - `INS-260330-656A` Oxygen — the gas all animal life depends on — was originally just a toxic waste product of plants splitting water to replace stolen electrons.
 - `INS-260330-19C3` Oxygen was a toxic waste product of early photosynthesis that became the foundation for all complex animal life — a reminder that byproducts can eclipse primary products in value.
+- `INS-260410-58F2` The weight-loss effect of liraglutide was observed in rat trials years before Novo pursued it — overcoming internal stigma, not science, was the bottleneck.
 - `INS-260330-C607` Oxygen was photosynthesis's 'useless byproduct' that became the foundation of all animal life — the side effect outweighed the intended product.

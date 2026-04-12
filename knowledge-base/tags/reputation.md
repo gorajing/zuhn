@@ -1,11 +1,10 @@
 # Tag: reputation
 
-- `INS-260323-3614` Pakman deleted a controversial tweet under threat pressure, which he deeply regrets — the attacks escalated anyway, and deleting removed his ability to show context when support arrived.
 - `INS-260403-CD29` When everything you say online is permanently stored, the ability to reinvent yourself and move past mistakes is fundamentally constrained.
+- `INS-260402-1146` Sustained proof-of-work builds a reputation signal that eventually outcompetes brand theatrics and institutional prestige in sophisticated markets.
 - `INS-260330-B444` Cities surrendered to the Mongols on arrival because the reputation for total destruction made resistance seem irrational.
 - `INS-260405-7DD7` When you can't predict who matters, you must treat everyone as if they matter — which only genuinely good people can sustain.
 - `INS-260402-CCC3` VCs optimize for defensible-looking decisions rather than highest expected value, creating systematic blind spots.
-- `INS-260402-1146` Sustained proof-of-work builds a reputation signal that eventually outcompetes brand theatrics and institutional prestige in sophisticated markets.
 - `INS-260330-F909` Secrets and lies spoil like food with limited shelf life, but trust earned from keeping them compounds indefinitely—always choose the long-term play.
 - `INS-260330-90C3` Jho Low's fake credentials compounded — each lie made the next one easier because people used prior signals as validation.
 - `INS-260330-7E3F` Non-experts in public discourse play 'tennis without a net' — they can swing as hard as they want with no penalty for errors, while real experts face career consequences for every mistake.
@@ -34,4 +33,5 @@
 - `INS-260329-F4E4` Stacking revenue quickly without fixing the product creates a fragile tower that can't grow past a certain height — sustainable scale requires going back to rebuild the foundation.
 - `INS-260330-0145` Ramsey treats every endorsement as a trust liability — if a partner fails the 'would you send your sister there' test, the deal dies regardless of revenue.
 - `INS-260327-2964` Prussia's army was considered Europe's finest based on Frederick the Great's victories 50 years earlier — but it had not modernized and collapsed in a single day.
+- `INS-260323-3614` Pakman deleted a controversial tweet under threat pressure, which he deeply regrets — the attacks escalated anyway, and deleting removed his ability to show context when support arrived.
 - `INS-260405-4423` The most successful investors are disproportionately the most ethical — not coincidentally.

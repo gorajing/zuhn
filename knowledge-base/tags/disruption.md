@@ -83,9 +83,9 @@
 - `INS-260412-DAEF` Bukele won 53% of the vote by attacking the two-party system itself rather than running a traditional campaign against individual opponents.
 - `INS-260410-EA73` Benchmark's partners explicitly reject words like 'institution' and 'franchise' because their job is killing incumbents, so they've built a culture where every partner who has ever left fired themselves before peer pressure had to.
 - `INS-260403-E59C` Microsoft didn't lose the desktop — the desktop stopped mattering when software moved to the web.
+- `INS-260404-1137` Playing both the execution and experimentation games in parallel is the core organizational challenge for established companies seeking growth.
 - `INS-260330-230D` Christianity spread fastest not during Rome's peak but during its decline, when Roman religion's promise of earthly prosperity visibly failed average citizens.
 - `INS-260412-6C6F` The 2008 crisis directly spawned Bitcoin and the Occupy movement because mass betrayal by trusted institutions creates explosive demand for alternatives.
-- `INS-260404-1137` Playing both the execution and experimentation games in parallel is the core organizational challenge for established companies seeking growth.
 - `INS-260330-ABB1` The cheapest M1 MacBook Air outperformed the most expensive Intel i9 MacBook Pro in most developer workflows while running cooler and using less battery.
 - `INS-260405-7DC3` E-Ship 1 added four Flettner rotors to reduce diesel consumption — not to replace diesel, making the economics and risk profile of adoption far more tractable.
 - `INS-260403-E556` Shifting from exploitation (efficiency gains) to exploration (transformative ideas) is the critical strategic rebalancing for sustained innovation.
@@ -101,10 +101,10 @@
 - `INS-260403-FED6` The retailers killed during the 'Retail Apocalypse' (Sears, Toys-R-Us, RadioShack) shared a common trait: they had stopped serving customers well long before Amazon arrived.
 - `INS-260404-96E6` Sears, Toys-R-Us, and J.C. Penney failed from strategic neglect, not because Amazon made physical retail unviable.
 - `INS-260404-AD52` Sears, Toys-R-Us, and J.C. Penney died not because of Amazon directly but because they shared Amazon's basic model while executing it worse.
-- `INS-260403-3DA1` Unglamorous industries like logistics and waste management are often ripe for disruption precisely because talented founders ignore them.
 - `INS-260327-EFA6` Car companies face electrification, Chinese competition, autonomous driving, regulatory changes, and consumer affordability crises all at once - any one would be manageable but together they're potentially fatal.
 - `INS-260327-40D5` Tech workers went from guaranteed careers with stock-option millionaires to mass layoffs and AI replacement, becoming everything they promised to disrupt.
 - `INS-260322-C472` For AI startups to beat established software companies like Salesforce, they need all three: a reimagined proactive UI, access to new data sources (unstructured data over structured databases), and a disruptive business model beyond seat-based pricing.
+- `INS-260403-3DA1` Unglamorous industries like logistics and waste management are often ripe for disruption precisely because talented founders ignore them.
 - `INS-260410-E5C9` Oracle, IBM, and DEC all ran 70-80% margin hardware/license businesses and couldn't bring themselves to compete with AWS's 20-30% margin cloud — their cost structures, sales motions, and investor expectations were all calibrated to the old model.
 
 

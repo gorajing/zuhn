@@ -1,7 +1,7 @@
 ---
 id: INS-260405-8532
 domain: investing
-topic: macro-trends
+topic: macro
 title: >-
   Labor costs represent 60% of a $31T economy, making AI's labor market impact
   the largest value transfer in modern history if it materializes
@@ -29,7 +29,7 @@ date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
 indexed: true
-embedded: true
+embedded: false
 embedding_model: nomic-embed-text
 resolutions:
   one_line: >-

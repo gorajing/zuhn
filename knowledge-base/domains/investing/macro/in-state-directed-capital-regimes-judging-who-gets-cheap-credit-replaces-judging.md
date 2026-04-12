@@ -1,7 +1,7 @@
 ---
 id: INS-260409-8B3D
 domain: investing
-topic: macro-trends
+topic: macro
 title: >-
   In state-directed capital regimes, 'judging who gets cheap credit' replaces
   'judging who has the best business' as the dominant alpha source
@@ -25,7 +25,7 @@ date_extracted: '2026-04-09'
 last_accessed: null
 access_count: 0
 indexed: true
-embedded: true
+embedded: false
 embedding_model: nomic-embed-text
 resolutions:
   one_line: >-

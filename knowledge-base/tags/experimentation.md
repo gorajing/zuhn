@@ -1,8 +1,6 @@
 # Tag: experimentation
 
 - `INS-260320-7682` Run systematic ablation experiments on architecture, data mixtures, and hyperparameters at small scale before committing to a full training run -- this consumes ~37% of total compute but prevents costly mistakes.
-- `INS-260409-6656` Tools that save every render to disk by default convert experimentation into asset accumulation, eliminating the fear of losing a happy accident.
-- `INS-260409-DC8C` Poking at a tool from partial understanding produces happy accidents that full understanding would systematically avoid.
 - `INS-260403-48FE` Treating new work as experiments means even failures produce knowledge, removing the psychological cost of early-stage lameness.
 - `INS-260330-DF2C` Committing to a prediction before seeing results forces you to engage with the underlying model, not just the outcome.
 - `INS-260403-9F78` Treating new projects as experiments or learning exercises removes the fear of failure because even failed experiments produce knowledge.
@@ -54,3 +52,5 @@
 - `INS-260405-9460` Without a structured process to capture what experiments taught you, you run the same tests twice and make the same bets twice.
 - `INS-260405-B673` A flawed experiment doesn't just waste time — it produces misleading signal that can kill a good idea or zombie a bad one.
 - `INS-260403-99D1` Business experiments need all three layers — traffic, experience, and measurement — to produce trustworthy signals.
+- `INS-260409-6656` Tools that save every render to disk by default convert experimentation into asset accumulation, eliminating the fear of losing a happy accident.
+- `INS-260409-DC8C` Poking at a tool from partial understanding produces happy accidents that full understanding would systematically avoid.

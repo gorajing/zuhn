@@ -16,14 +16,14 @@
 - `INS-260327-6C64` In game theory tournaments, tit-for-tat (cooperate first, then mirror) consistently beats both always-cooperate and always-defect strategies across repeated interactions.
 - `INS-260325-47FE` Tit-for-tat wins repeated game theory: cooperate first, then mirror — simplicity and consistency beat complex manipulation.
 - `INS-260325-29D5` For genuinely hard problems, playful exploration without a fixed goal often uncovers the path that direct attack misses.
+- `INS-260410-CE40` Americans (and most analysts) default to 'Team America' analysis — studying only their own options and mirror-imaging the other side — and this explains repeated strategic surprises from Pearl Harbor to Iraq's insurgency.
 - `INS-260410-AB78` Whether 'compromise' is wisdom or suicide is entirely a function of the other side's real objective — a slice of territory can be traded; regime change and extermination cannot be appeased without empowering the executioner.
 - `INS-260410-A992` Nazi brutality turned a failing Stalinist state into a unified lethal adversary; Japanese brutality did the same to China; Russian brutality is doing the same in Ukraine — brutality intended to break will instead eliminates the surrender option.
-- `INS-260410-CE40` Americans (and most analysts) default to 'Team America' analysis — studying only their own options and mirror-imaging the other side — and this explains repeated strategic surprises from Pearl Harbor to Iraq's insurgency.
 - `INS-260329-61E5` Breadth-first search (using a queue) explores all neighbors before going deep, while depth-first search (using a stack) goes deep before exploring broadly — same graph, completely different discovery sequences.
+- `INS-260403-EF30` Creating a sticky one-phrase description of your startup doubles as a strategic focus test.
 - `INS-260405-1894` Invincible companies reinvent their business model categories, not just their execution.
 - `INS-260404-A375` Technology should reinforce or transform your business model, not drive it — the business model question comes first.
 - `INS-260405-A1E6` Overpayment patterns expose a company's real bottleneck — follow the money to find the constraint.
-- `INS-260403-EF30` Creating a sticky one-phrase description of your startup doubles as a strategic focus test.
 - `INS-260410-15EC` Uber lost US food delivery to doordash because Uber's urban-fast-cheap identity made them see the suburbs as someone else's market—but suburbs are where the food delivery money actually is.
 - `INS-260410-679B` When losing, the strategy is usually obvious — the question is whether you can stomach executing it; when winning, you have to invent the next move from a position of comfort that misleads you.
 - `INS-260410-5799` Intel passed on the iPhone chip contract because Jobs's offer was 'lowball' — which turned out to be the most expensive pricing decision in tech history.
@@ -87,9 +87,9 @@
 - `INS-260405-0010` PMF is a dynamic equilibrium that degrades without continuous customer feedback loops.
 - `INS-260404-2BDA` Effective product strategy must include explicit 'not in focus' areas alongside strategic pillars to force real tradeoffs.
 - `INS-260404-380C` Apple Pay succeeded because its value proposition enabled its business model and vice versa — the two were designed as a tightly coupled system rather than sequentially.
+- `INS-260330-F3E4` Harry Sonneborn's franchise realty strategy gave McDonald's control over operators, a new 8.5% revenue stream, and balance sheet assets for bank financing — all from one move.
 - `INS-260410-E3E6` NVIDIA's superpower is navigating to 'zero-billion-dollar markets' — non-existent markets they believe will emerge — and arriving a decade before competitors even understand why they're there.
 - `INS-260410-1BB0` When you're racing a window shut, you don't have the luxury of optionality — the window itself is evidence your adversary's structural position will soon exceed yours.
-- `INS-260330-F3E4` Harry Sonneborn's franchise realty strategy gave McDonald's control over operators, a new 8.5% revenue stream, and balance sheet assets for bank financing — all from one move.
 - `INS-260410-1941` Microsoft publicly committed to OS/2 with IBM while quietly nurturing Windows and Mac applications as parallel hedges, so when OS/2 failed, Windows was ready to inherit the entire PC ecosystem.
 - `INS-260329-89E9` Solving the top constraint reshuffles reality so the old priority list becomes unreliable.
 - `INS-260330-73F3` DNA replication's lagging strand can't simply mirror the leading strand — it requires an entirely different mechanism with Okazaki fragments, multiple primers, and extra enzymes.

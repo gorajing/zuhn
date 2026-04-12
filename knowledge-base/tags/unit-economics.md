@@ -76,9 +76,9 @@
 - `INS-260412-31A6` First class generates $403/sq ft versus business class at $605/sq ft, which is why airlines are eliminating first class despite its higher ticket price.
 - `INS-260330-659D` Shade balls were purchased to block bromate formation, but their secondary benefits — 80-90% evaporation reduction, algae elimination, near-zero chlorination — pay back at least half their cost.
 - `INS-260323-8F70` Natural selection operates on genes because they're the right-sized unit that replicates faithfully and exhibits selectable traits -- businesses must identify their equivalent.
-- `INS-260329-78CB` High-ticket with few customers is easier to execute than low-ticket at scale, especially when starting with no resources.
 - `INS-260323-F753` Anthropic has earned $5B revenue against $10B spent; OpenAI's ratio is even worse — both companies lose money on every user query.
 - `INS-260404-F62A` Foundation model businesses are booming in revenue but the path to sustainable profitability remains unclear.
+- `INS-260329-78CB` High-ticket with few customers is easier to execute than low-ticket at scale, especially when starting with no resources.
 - `INS-260412-A9C3` The Concorde burned only 2.5x more total fuel per mile than the Dreamliner, but per-passenger fuel economy was 14 vs 104 mpg — a 7.4x gap.
 - `INS-260323-FEAB` Traditional SaaS scales cheaply per user, but AI products have marginal costs that increase with usage — Anthropic spends $8-$135 per dollar of Claude Code subscription revenue.
 - `INS-260404-19C2` Only 13 of Europe's 50 fintech unicorns are profitable, exposing a systemic gap between valuations and business fundamentals.

@@ -4,8 +4,8 @@
 - `INS-260403-751D` Pre-existing user bases of hundreds of millions create a flywheel where more human feedback produces faster model improvement.
 - `INS-260323-F963` Python's dominance in AI comes from being the glue that composes disparate systems, creating a viral ecosystem cycle — not from the language itself.
 - `INS-260412-CDDC` Measles herd immunity requires 95% vaccination coverage — one of the highest thresholds of any disease — making it extremely fragile to even small anti-vaccine movements.
-- `INS-260330-9931` A few network-joining decisions create the gravitational field that shapes all subsequent daily choices.
 - `INS-260410-A1A9` The 'collective brain' — population size times interconnectedness — explains why humans beat larger-brained Neanderthals and why Eurasia out-innovated other continents.
+- `INS-260330-9931` A few network-joining decisions create the gravitational field that shapes all subsequent daily choices.
 - `INS-260403-68CE` A woman's probability of having a child spikes in the 12-24 months after a close friend gives birth, proving fertility decisions spread socially.
 - `INS-260403-D198` Highly specialized markets like startups and trading still cluster geographically because in-person interaction enables deal velocity that technology cannot yet match.
 - `INS-260330-6D2E` Tribal networks are uniquely powerful because members actively and intentionally build value for each other and defend the network, unlike other network effects where value creation is a passive byproduct.
@@ -93,12 +93,12 @@
 - `INS-260404-1BCC` Substack evolved from a simple writing tool (weak network effect) to a discovery ecosystem (strong network effect) as more writers attracted more readers which attracted more writers.
 - `INS-260403-22EE` Bad comments set the tone for entire threads and attract more bad comments, while bad submissions exist in isolation — requiring different moderation strategies.
 - `INS-260403-7F06` Reddit beat Slashdot because user submissions made content fresher than human moderators could achieve, and users always follow the newest news.
+- `INS-260327-62CF` YouTube's embed feature — built from day one — turned MySpace profiles into a free distribution channel: users embedded YouTube videos, the logo spread, and curiosity converted viewers into uploaders, all at zero marketing cost.
 - `INS-260403-E86E` The most powerful defensibility lever is turning your product from a single-player game into a multi-player network.
 - `INS-260330-F7F4` Apple's ecosystem moat is irrelevant in India because most users never entered it in the first place.
 - `INS-260403-0637` Multi-user AI coordination creates compounding network effects unavailable to single-player AI tools.
 - `INS-260403-4964` The App Store, launched a year after iPhone, became a stronger moat than the hardware itself through developer network effects.
 - `INS-260403-B73A` When A.Team made teams rather than individuals the core unit, participants stopped competing on price and started complementing each other, breaking the asymptotic ceiling.
-- `INS-260327-62CF` YouTube's embed feature — built from day one — turned MySpace profiles into a free distribution channel: users embedded YouTube videos, the logo spread, and curiosity converted viewers into uploaders, all at zero marketing cost.
 - `INS-260330-B390` YC's batch model accidentally created a self-reinforcing ecosystem where startups became each other's customers, advisors, and support network.
 - `INS-260330-2737` Paul's Roman citizenship gave him free travel throughout the empire, allowing him to use Rome's own road network and legal protections to spread a message that would eventually undermine Roman religious authority.
 - `INS-260404-E651` Good people attract good colleagues, so programming talent concentrates in hubs that can flip from one city to another within decades.

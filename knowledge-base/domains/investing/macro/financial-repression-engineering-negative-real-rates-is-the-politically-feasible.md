@@ -1,7 +1,7 @@
 ---
 id: INS-260409-C911
 domain: investing
-topic: macro-trends
+topic: macro
 title: >-
   Financial repression — engineering negative real rates — is the politically
   feasible path out of the debt crisis for the next 10-15 years
@@ -25,7 +25,7 @@ date_extracted: '2026-04-09'
 last_accessed: null
 access_count: 0
 indexed: true
-embedded: true
+embedded: false
 embedding_model: nomic-embed-text
 resolutions:
   one_line: >-

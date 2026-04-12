@@ -1,7 +1,7 @@
 ---
 id: INS-260405-963B
 domain: investing
-topic: macro-trends
+topic: macro
 title: Two Years of Mainstream AI Still Qualifies as Early Stage
 actionability: reference
 confidence: medium
@@ -21,7 +21,7 @@ date_extracted: '2026-04-05'
 last_accessed: null
 access_count: 0
 indexed: true
-embedded: true
+embedded: false
 embedding_model: nomic-embed-text
 resolutions:
   one_line: >-

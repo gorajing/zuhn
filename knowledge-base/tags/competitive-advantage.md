@@ -99,14 +99,14 @@
 - `INS-260404-ECDF` Capital is commoditized; what differentiates top accelerators is unfair access to customers, talent, investors, and high-caliber peer founders.
 - `INS-260412-F414` Aircraft carriers restock fuel, food, and mail while underway, avoiding the vulnerability of port stops — a pattern applicable to any organization that cannot afford downtime.
 - `INS-260403-1D92` When AI makes building cheap, taste and design become the scarce differentiator.
+- `INS-260330-C134` Plants' own success at producing oxygen through photosynthesis poisoned their core enzyme RuBisCo, which evolved for a low-oxygen world — their greatest output became their biggest problem.
+- `INS-260403-9AB5` Most organizations underexplore innovation by focusing only on product features, missing business model, process, and experience innovations.
 - `INS-260403-868F` Spending tens of hours on primary research per post produces insights readers can't find elsewhere, which is what makes content worth sharing.
 - `INS-260412-1358` When US automakers downsized cars after the 1970s oil crisis, cost-cutting degraded their quality — while Toyota's systematic Total Quality Control maintained standards at any scale.
-- `INS-260403-9AB5` Most organizations underexplore innovation by focusing only on product features, missing business model, process, and experience innovations.
-- `INS-260330-C134` Plants' own success at producing oxygen through photosynthesis poisoned their core enzyme RuBisCo, which evolved for a low-oxygen world — their greatest output became their biggest problem.
 - `INS-260329-1A3B` If prospects reject your free offer, their objections reveal hidden costs that, once eliminated, let you charge premium prices while competitors still impose those costs.
-- `INS-260329-476D` Willingness to work on something for 5-10 years is itself a competitive advantage because most founders filter out ideas that won't pay off in two years.
 - `INS-260403-CC97` Internal ventures without access to parent company brand, customers, and resources lose their only structural advantage over independent startups.
 - `INS-260412-FD56` Wealthier F1 teams bring more spare parts and equipment, turning logistics spending into a performance edge when things go wrong.
+- `INS-260329-476D` Willingness to work on something for 5-10 years is itself a competitive advantage because most founders filter out ideas that won't pay off in two years.
 - `INS-260330-ABB1` The cheapest M1 MacBook Air outperformed the most expensive Intel i9 MacBook Pro in most developer workflows while running cooler and using less battery.
 - `INS-260404-1CC0` As building barriers collapse, competitive moats migrate from technical capability to distribution and taste.
 - `INS-260330-FEB0` The Eastern Empire survived 1,000 years longer than the West primarily because it was richer, more urban, more compact, and closer to major trade routes — not because it had better armies.
@@ -115,8 +115,8 @@
 - `INS-260403-9DC6` Geographic tech clusters win not through information access but through human networks that curate which information matters—and the best insider knowledge is still transmitted in person.
 - `INS-260403-DC59` Women founders disproportionately build in massive but overlooked markets like FemTech ($1.1T by 2027), caregiving, and community health — gaining sharper product-market fit from Day 1 because they've lived the problem.
 - `INS-260410-02EA` Treat company-building as a turn-based strategy game: optimize for getting more turns and learning more from each turn than any competitor.
-- `INS-260330-C215` Spend 1-2 months working inside your target industry to discover exploitable inefficiencies firsthand.
 - `INS-260327-643C` Score any software company across 8 moat dimensions — four or more means durable, two or less means vulnerable.
+- `INS-260330-C215` Spend 1-2 months working inside your target industry to discover exploitable inefficiencies firsthand.
 - `INS-260410-5981` Because AI businesses run at ~50% gross margins instead of the ~80% typical of software, chip cost differentials flow directly to the bottom line, making vertical integration a durable advantage.
 - `INS-260411-2B1D` The value stick (WTP minus Price minus Cost minus WTS) breaks value creation into consumer surplus, firm value, and supplier surplus, revealing precisely where a company's strategy creates and captures value.
 - `INS-260411-CBCF` Interbrand's top 25 global brand rankings show weak correlation with ROIC-WACC spreads, proving that brand recognition alone does not constitute a competitive advantage.

@@ -1,7 +1,7 @@
 ---
 id: INS-260409-1390
 domain: investing
-topic: macro-trends
+topic: macro
 title: >-
   AI productivity gains lag debt accumulation — the 90s Internet parallel
   doesn't save you if the clock runs out first
@@ -24,7 +24,7 @@ date_extracted: '2026-04-09'
 last_accessed: null
 access_count: 0
 indexed: true
-embedded: true
+embedded: false
 embedding_model: nomic-embed-text
 resolutions:
   one_line: >-

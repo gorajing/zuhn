@@ -15,8 +15,8 @@
 - `INS-260404-886C` Intrapreneurs who create billion-dollar internal ventures deserve compensation and career tracks equivalent to salespeople who generate comparable revenue.
 - `INS-260330-175F` A formal, periodic raise process prevents the culture from rewarding those who ask over those who perform.
 - `INS-260410-A65C` The NFL got Pete Rozelle as a paid commissioner; F1 needed Bernie Ecclestone as an owner-operator because you cannot wage-incentivize someone to wrangle global teams, tracks, broadcasters, and a regulator across 45 years.
-- `INS-260404-67C5` Multiple checkpoints (police, prosecutors, defense, jury) all biased toward conviction means zero effective error correction.
 - `INS-260403-EC8A` Play-to-earn models collapse when growth slows because users attracted by money leave when earnings drop, triggering a reflexive downward spiral.
+- `INS-260404-67C5` Multiple checkpoints (police, prosecutors, defense, jury) all biased toward conviction means zero effective error correction.
 - `INS-260403-049F` Creandum's Benchmark-inspired equal carry and up-or-out model has retained 6 of 9 current partners who joined as junior staff.
 - `INS-260403-0661` Incumbent institutions won't vote to dismantle the systems that keep them in power — reformers must find mechanisms that bypass incumbent consent entirely.
 - `INS-260405-4CDA` The 1980s leveraged buyout wave succeeded partly because corporate balance sheets never formalized the debt owed to employees for deferred promotion promises.
