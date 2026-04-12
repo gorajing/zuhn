@@ -51,11 +51,11 @@ stance: >-
   iteration.
 related:
   - INS-260327-DC65
+  - INS-260412-90AC
   - PRI-260406-8FDF
   - PRI-260406-9FA8
   - PRI-260406-9780
   - PRI-260406-CBAC
-  - INS-260323-AF7B
   - INS-260405-4AAD
   - INS-260410-BFCF
 evidence:

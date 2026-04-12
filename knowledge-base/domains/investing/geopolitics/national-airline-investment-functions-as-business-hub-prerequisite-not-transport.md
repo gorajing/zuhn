@@ -54,13 +54,13 @@ stance: >-
   Countries cannot become regional business hubs without a globally competitive
   national airline, regardless of geographic advantages.
 related:
-  - INS-260324-41D6
   - INS-260327-E153
   - INS-260330-ACCD
   - INS-260330-73C1
   - INS-260412-6F4D
   - INS-260412-B625
-  - INS-260403-E93A
+  - INS-260412-DCDC
+  - INS-260412-4238
 ---
 Singapore Airlines, Emirates, and Qatar Airways are not incidental to their host cities' business hub status — they are prerequisites. Geographic centrality is worthless without actual connectivity, and commercial airlines follow demand rather than create it. A government-backed national airline can artificially create connectivity before organic demand justifies it, bootstrapping the flywheel of business traffic → more routes → more business traffic.
 

@@ -55,5 +55,6 @@ related:
   - INS-260412-CFF6
   - PRI-260328-99F0
   - INS-260412-F414
+  - INS-260412-B136
 ---
 Antarctic operations compress into a roughly 4-month window (November-February) dictated by overlapping physical constraints: 24-hour darkness prohibits flights in winter, sea-ice blocks cargo ships until coastal ice breaks up, and compacted snow runways can soften during peak summer warmth. Each constraint has its own calendar, and the usable window is the intersection of all permissive periods. Organizations that deeply understand these windows—pre-positioning supplies before ice-free shipping ends, scheduling flights during the runway-safe period—execute effectively while others cannot operate at all. This pattern transfers to any domain with seasonal or regulatory windows: tax deadlines, regulatory filing periods, harvest seasons, or product launch cycles. Mastering the constraint calendar itself becomes the competitive advantage.

@@ -1,6 +1,6 @@
 # Topic: execution
 
-> 289 insights
+> 291 insights
 
 - `INS-260329-FCF2` [high] Doing 10-100x more volume beats 2x optimization, but you must relearn this lesson independently in each new domain you enter.
 - `INS-260403-FED1` [high] YC's batch funding model — its most important innovation — was adopted not strategically but because a summer program seemed like the fastest way to learn angel investing.
@@ -69,6 +69,7 @@
 - `INS-260330-5036` [high] Understanding your users deeply matters far more than knowing startup mechanics like fundraising or growth hacking.
 - `INS-260404-0427` [high] A startup's .com domain matters more as a strength signal than as a way for users to find the company.
 - `INS-260330-C33B` [high] Don't just push harder — also remove friction on the other side of the equation.
+- `INS-260412-2EA9` [high] The Northeast Corridor's 1800s rail layout created such dense development around it that rebuilding straighter high-speed tracks is now prohibitively expensive.
 - `INS-260403-3835` [high] Startups peak in productivity when founders are uninterrupted, and hiring can destroy this by imposing an interrupt-driven culture.
 - `INS-260329-FCE6` [high] Automate money flowing toward investments and add friction to every spending pathway.
 - `INS-260329-4E70` [high] The boring middle is a feature of ambitious paths, not a signal to pivot.
@@ -259,6 +260,7 @@
 - `INS-260402-4DB4` [medium] In fast-moving nascent markets, a 95/5 execution-to-vision ratio beats the traditional 70/30 because strategies expire faster than implementation cycles.
 - `INS-260403-4328` [medium] Work expands or contracts to fill available time — forced scheduling from kids constrains but doesn't destroy productive output.
 - `INS-260327-7B0C` [medium] AlphaChip trained on just 20 examples with a state space of 10^9000 possible solutions — extreme constraints forced creative architecture design.
+- `INS-260412-F93A` [medium] F1 forbids teams from touching freight until all teams' equipment has arrived, ensuring no one gets a head start on assembly.
 - `INS-260403-14F4` [medium] Phrases like 'let's revisit later' and 'we need more data' feel reasonable but systematically introduce hesitation that calcifies into slow-moving culture.
 - `INS-260327-95C6` [medium] China shutting down Bitcoin mining forced Alex to build US data centers from scratch — that forced capability became the foundation for AI infrastructure.
 - `INS-260405-A9B2` [medium] Costco's confusing warehouse layout forces customers to traverse most aisles, increasing exposure to products they didn't plan to buy.

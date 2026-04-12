@@ -54,8 +54,8 @@ related:
   - INS-260330-A0AE
   - INS-260412-FEFA
   - INS-260412-16FD
+  - INS-260412-67EE
   - INS-260412-3713
-  - INS-260412-A21A
 ---
 The video highlights a stark asymmetry in airport privatization: in the UK, 10 of the 15 busiest airports are privately owned, while only 4 of the 15 least busy are. The US's sole private commercial airport (Branson, Missouri) is losing money. National Express's attempt to privatize small Newburgh airport also failed. The pattern is clear: infrastructure businesses have high fixed costs that only amortize at scale.
 

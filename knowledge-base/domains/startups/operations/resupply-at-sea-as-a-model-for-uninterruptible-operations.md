@@ -52,6 +52,8 @@ related:
   - INS-260412-06A1
   - INS-260412-D031
   - INS-260412-0055
+  - INS-260412-F93A
+  - INS-260412-5523
 ---
 US aircraft carriers never dock to resupply during deployment. Instead, supply ships detach, visit a port, return, and transfer fuel via hoses and cargo via ziplines or helicopters — all while both ships maintain speed. This eliminates the vulnerability window of being stationary in port and keeps the carrier continuously mission-capable.
 

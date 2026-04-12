@@ -1,6 +1,6 @@
 # Topic: scaling
 
-> 193 insights
+> 195 insights
 
 - `INS-260403-49FB` [high] Startups need 2-3x longer than founders expect to validate their market, and 70% scale prematurely — largely explaining the 90% failure rate.
 - `INS-260403-AA20` [high] The 996 grind culture trades short-term velocity for compounding burnout costs that destroy long-term startup viability.
@@ -132,11 +132,13 @@
 - `INS-260403-DB38` [high] Large orgs divide into small groups via hierarchy, but each person's freedom shrinks proportionally to total org size because each group must act as one virtual person to the layer above.
 - `INS-260330-0145` [high] Ramsey treats every endorsement as a trust liability — if a partner fails the 'would you send your sister there' test, the deal dies regardless of revenue.
 - `INS-260329-79D3` [high] Ramsey Solutions turns down advertisers that fail the 'would you send your sister there' test, even when the revenue is significant.
+- `INS-260412-1A09` [high] Amtrak has no money to improve service, which causes low ridership, which worsens the funding problem.
 - `INS-260329-D02E` [high] Decompose revenue targets into weekly unit sales to identify whether your constraint is volume or price.
 - `INS-260403-2ED2` [high] Democratic governance kills venture firm scaling because partners vote to preserve their own power during reorganizations.
 - `INS-260329-F2E1` [high] When something works, scale it by doing more rather than trying to make it better, because more has guaranteed returns while optimization risks breaking what works.
 - `INS-260327-4E34` [high] Reaching unicorn status is just 0-to-1—the real value creation is in the 1-to-10 and 10-to-100 phases.
 - `INS-260330-E585` [high] The Articles of Confederation collapsed primarily because Congress could not collect taxes, proving that authority without enforcement mechanisms is meaningless.
+- `INS-260412-FD56` [high] Wealthier F1 teams bring more spare parts and equipment, turning logistics spending into a performance edge when things go wrong.
 - `INS-260322-F46F` [high] AI works with data -- if you don't have complete data architecture in place, there's nothing for AI to operate on.
 - `INS-260403-E1EB` [high] Zillow's iBuying shutdown shows that marketplace DNA (software-first) clashes fatally with fintech DNA (financial operations and risk management).
 - `INS-260327-41A9` [medium] Junior engineering jobs aren't coming back—three forces converged to eliminate them permanently.

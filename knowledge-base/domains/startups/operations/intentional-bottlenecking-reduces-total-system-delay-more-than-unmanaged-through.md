@@ -57,6 +57,8 @@ related:
   - INS-260412-F909
   - INS-260412-F17D
   - INS-260412-FD55
+  - INS-260412-2322
+  - INS-260412-600E
 ---
 When airspace sectors lack enough controllers, Eurocontrol doesn't just let flights pile up in the air — they hold flights on the ground or reroute them before departure. This is directly analogous to highway ramp metering: by restricting inflow, you prevent the cascade failure that occurs when a system exceeds capacity. On May 9, 2019, initial projections showed 1 million minutes of potential delay; active flow management cut that to 300,000.
 

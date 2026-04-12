@@ -1,6 +1,6 @@
 # Topic: platform-dynamics
 
-> 23 insights
+> 24 insights
 
 - `INS-260403-A115` [high] McDonald's owns the land, charges 8.5-15% of sales as rent versus the industry norm of 6-10%, and can replace underperforming franchisees while keeping the appreciating asset.
 - `INS-260403-E71A` [high] Platform owners like Apple with iTunes function as tollbooths, not stores — they tax transactions rather than sell content, driving content prices to near-zero.
@@ -9,6 +9,7 @@
 - `INS-260403-3615` [high] Infrastructure consolidation reliably creates the conditions for an application-layer startup boom, as cheap reliable infrastructure enables new use cases.
 - `INS-260410-6F4B` [high] Visa beat American Express because signing one bank instantly brought millions of cardholders and merchants, while AMX had to acquire each party itself.
 - `INS-260403-38C0` [high] Open platforms win because they let the market pick winners at hacker speed instead of big-company speed.
+- `INS-260412-CAEF` [high] Amtrak's 98.6% of delays come from freight companies who own the tracks and naturally prioritize their own trains.
 - `INS-260403-0020` [high] Platform companies should monetize secondary assets via licensing while self-developing their lead candidate.
 - `INS-260403-E59C` [high] Microsoft didn't lose the desktop — the desktop stopped mattering when software moved to the web.
 - `INS-260405-D23E` [high] Platform builders should maximize developer access rather than try to anticipate use cases, because versatility produces emergent applications the platform creator never imagined.

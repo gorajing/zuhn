@@ -53,6 +53,7 @@ related:
   - INS-260410-7E29
   - PRI-260328-FADC
   - INS-260403-7E6A
+  - INS-260412-8C90
 ---
 Aircraft carriers project power through visibility; submarines project power through invisibility. A submarine that could be anywhere forces an adversary to defend everywhere, which is far more expensive than the submarine itself. This is the asymmetry of deterrence — the cost of uncertainty falls on the opponent.
 

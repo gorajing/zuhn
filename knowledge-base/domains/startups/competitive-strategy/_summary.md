@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 603 insights
+> 604 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -225,6 +225,7 @@
 - `INS-260405-6524` [high] Billable-hours and per-seat pricing create a structural disincentive for incumbents to adopt AI, giving startups a temporary but real market-share window.
 - `INS-260330-AFAD` [high] Converse and Keds lobbied the US Customs Service to enforce an archaic import duty rule specifically to hit Nike with a $25M bill, using regulation as a weapon rather than competing on product.
 - `INS-260330-FF09` [high] The same focus that builds a monopoly prevents the company from destroying it, even when survival requires exactly that.
+- `INS-260412-4894` [high] Every legacy airline that created a budget sub-brand (Delta Song, United Ted, MetroJet, Transavia, Eurowings) failed because the parent's cost structure and operational model are inescapable.
 - `INS-260410-F856` [high] Butler Brothers refused Walton's offer to partner on discounting because it would blow up their franchisee markup business — the same dynamic that lets every new entrant with a better model win.
 - `INS-260405-63C8` [high] BlackBerry's collapse was not a product failure — it was a perceptual failure about which game they were playing.
 - `INS-260330-519D` [high] Chinese and Indian phone makers built deep localization moats — dual SIM, regional language support, local payment integration — that Apple treats as afterthoughts.

@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-12 | 4912 actionable insights
+Generated on 2026-04-12 | 4918 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -2868,6 +2868,7 @@ Generated on 2026-04-12 | 4912 actionable insights
 ## startups/disruption
 - [INS-260405-9EE4] When AI agents do the work instead of human seats, per-seat SaaS revenue evaporates.
 - [INS-260412-0F3F] Dinosaurs dominated for 165 million years and were wiped out in months — market incumbents with decades of dominance face the same non-linear disruption risk.
+- [INS-260412-74C9] Slower turboprops actually fly Edinburgh-London faster than jets because on short routes aircraft never reach top speed, making cost the only variable that matters.
 
 ## startups/engineering
 - [INS-260330-2200] GitHub stars and green squares measure visibility and gaming, not engineering skill.
@@ -4337,6 +4338,10 @@ Generated on 2026-04-12 | 4912 actionable insights
 - [INS-260412-F4DA] Systems with three actor groups holding different incentives and no shared situational awareness predictably cascade into failure.
 - [INS-260412-EB2D] The Navy's Blue/Gold crew model — two fully staffed crews alternating 77-day patrols with 25-day turnovers — solves the continuous operations problem by treating the team as the replaceable unit, not individual people.
 - [INS-260412-D787] The White House to UN trip takes exactly one hour because every transition — Marine One to Air Force One (5 min), landing to motorcade — is ruthlessly optimized.
+- [INS-260412-2754] The US government's COGCON system splits every agency into three independent teams (A, B, C) at separate sites, each ready to assume full operations if the team above it falls.
+- [INS-260412-2785] F1 priority pallets contain wall panels and electrical systems — not the most valuable items, but the ones needed first for assembly.
+- [INS-260412-5523] F1 teams ship 5 duplicate sea kits months ahead so bulky equipment is always waiting at the next venue, avoiding expensive air freight.
+- [INS-260412-B136] Barrow's single annual barge window means any vehicle, building material, or large equipment order is a once-per-year decision with no correction opportunity until the next summer.
 
 ## startups/organizational-design
 - [INS-260405-346A] Org structure is fundamentally a filter—it determines which conflicts are visible to leadership and which are suppressed before surfacing.
@@ -4960,6 +4965,7 @@ Generated on 2026-04-12 | 4912 actionable insights
 - [INS-260412-4716] Startups face discrete 'great filters' at each stage — finding PMF, scaling, and sustaining — where most die, mirroring the Fermi Paradox's civilizational filters.
 - [INS-260412-DC05] Toyota stockpiled 2-6 months of semiconductors because chips have irreplaceable, slow-to-rebuild supply chains — making that inventory necessary, not excess.
 - [INS-260412-0730] Riot police contain violence but never people — always leaving an escape route for those who want to disengage — because full containment escalates rather than resolves conflict.
+- [INS-260412-EDBF] Upgrading existing Northeast Corridor track to sustain 125mph would cut DC-to-NYC to ~2 hours at a fraction of the $151B high-speed rebuild cost.
 
 ## startups/team-building
 - [INS-260405-F378] Searching for a technical cofounder before validating demand is backwards — demand attracts technical talent.

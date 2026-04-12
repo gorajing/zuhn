@@ -54,6 +54,7 @@ related:
   - PRI-260406-CBC2
   - PRI-260407-3179
   - INS-260403-3326
+  - INS-260412-2754
 ---
 Under Steve Ballmer, Microsoft's culture was singularly focused on improving and defending Windows — every initiative was filtered through a Windows-first lens. This produced some successes (Xbox, SharePoint) but none that matched Windows's scale, because the gravitational pull of the core business constrained what was possible.
 

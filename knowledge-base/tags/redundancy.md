@@ -6,5 +6,7 @@
 - `INS-260330-E403` New information or advice only expands your decision space if it's linearly independent from what you already know.
 - `INS-260330-F3FF` Submarine dolphins qualification requires every crew member to understand every system on the boat, creating universal competence for crisis response.
 - `INS-260329-66BD` Load balancers prevent server failure but become the single point of failure themselves, requiring redundant load balancers — revealing that reliability is recursive, not additive.
+- `INS-260412-2754` The US government's COGCON system splits every agency into three independent teams (A, B, C) at separate sites, each ready to assume full operations if the team above it falls.
+- `INS-260412-5523` F1 teams ship 5 duplicate sea kits months ahead so bulky equipment is always waiting at the next venue, avoiding expensive air freight.
 - `INS-260323-0919` LIGO built two identical detectors 3,000 km apart so that any signal had to appear in both to count as real.
 - `INS-260330-D88C` Humanity's interstellar messages span plaques, golden records, radio signals, silicon discs, and orbital satellites — each with different durability profiles — because no single medium survives all failure modes.

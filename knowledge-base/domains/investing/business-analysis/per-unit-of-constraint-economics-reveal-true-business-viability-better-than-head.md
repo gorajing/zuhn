@@ -52,10 +52,10 @@ stance: >-
   headline numbers obscure
 related:
   - INS-260412-C029
+  - INS-260412-3BAA
   - INS-260412-2948
   - INS-260412-F8AE
   - INS-260412-4FD3
-  - INS-260325-0A8A
 ---
 In absolute terms, the Concorde's 46.85 lbs/mile fuel burn versus the Dreamliner's 18.7 lbs/mile looks like a manageable 2.5x penalty for 2x the speed. But normalizing by the binding constraint — passengers carried (100 vs 291) — reveals per-passenger fuel economy of 14 mpg vs 104 mpg, a 7.4x gap that made the economics unworkable. Less than a third of Concorde seats were occupied by paying customers; the rest were comped upgrades.
 

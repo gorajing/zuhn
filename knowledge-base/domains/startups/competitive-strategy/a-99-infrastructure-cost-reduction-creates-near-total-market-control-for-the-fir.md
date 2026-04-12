@@ -54,6 +54,7 @@ stance: >-
   domain.
 related:
   - INS-260328-8445
+  - INS-260412-B820
   - INS-260323-F528
   - PRI-260328-0E23
   - INS-260403-AFA5

@@ -31,8 +31,10 @@
 - `INS-260404-B6DF` Founders must demonstrate capital efficiency and a path to profitability to raise at attractive valuations in the post-ZIRP era.
 - `INS-260403-9AD1` Burn multiple (net burn / net new ARR) below 1.5x is the new gold standard; above 3x triggers serious VC concern.
 - `INS-260403-1823` Women-founded startups produce $0.78 in revenue per dollar raised versus $0.31 for male-founded ones, making the funding disparity an investor performance problem.
+- `INS-260412-1E19` Budget airlines schedule 30-45 minute turnarounds and fly planes all day nonstop, ensuring the most expensive asset is always generating revenue rather than sitting idle.
 - `INS-260412-4D3B` Southwest and Spirit achieve cost leadership by keeping planes flying 11+ hours daily versus legacy carriers' 8.5 hours.
 - `INS-260403-2B09` AI and no-code platforms have collapsed the cost of startup operations so dramatically that most software startups no longer need venture-scale capital.
 - `INS-260403-165F` Applied Intuition reached $15B valuation by serving 18 of 20 top automakers while preserving capital and expanding to multi-product within a year.
 - `INS-260329-644B` Cloud computing converts capital expense into variable expense, letting companies pay only for resources consumed rather than provisioning for peak capacity.
 - `INS-260330-FEB0` The Eastern Empire survived 1,000 years longer than the West primarily because it was richer, more urban, more compact, and closer to major trade routes — not because it had better armies.
+- `INS-260412-EDBF` Upgrading existing Northeast Corridor track to sustain 125mph would cut DC-to-NYC to ~2 hours at a fraction of the $151B high-speed rebuild cost.

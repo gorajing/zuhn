@@ -1,6 +1,6 @@
 # Topic: perception
 
-> 307 insights
+> 308 insights
 
 - `INS-260325-6AE7` [very_high] Perfect squares become vanishingly rare as numbers grow — 'almost no' numbers are perfect squares — yet there are infinitely many of them, perfectly predictably located.
 - `INS-260325-0921` [very_high] The Collatz sequence's logarithmic behavior matches geometric Brownian motion — a stock-market-like random walk emerging from a fully deterministic rule.
@@ -159,6 +159,7 @@
 - `INS-260330-EE7E` [high] In extreme silence the brain turns up its perceptual gain, making tiny sounds (breathing, clothing rustle, swallowing) seem loud — this is normal adaptation, not madness.
 - `INS-260327-690E` [high] Scented candle purchases are really purchases of emotional states — calm, romance, coziness — using scent as the deliver
 - `INS-260325-5023` [high] Constructive failure processing requires separating the act of making a mistake from the identity of being a failure.
+- `INS-260412-F9BA` [high] The 'straight line' from New York to London on a flat map is not the shortest path — the great circle route curves dramatically northward through Newfoundland.
 - `INS-260326-3B43` [high] Complexity in nature does not require complex causes — Rule 30 shows that trivially simple rules produce infinitely complex behavior.
 - `INS-260327-A458` [high] Trends that used to take years to peak and decline now cycle in weeks because TikTok and Instagram compress the discovery-adoption-saturation-backlash cycle.
 - `INS-260330-795D` [high] Social media transforms genuine discourse into performance, systematically undermining a society's shared capacity to assess truth.

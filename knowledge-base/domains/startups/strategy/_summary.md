@@ -1,6 +1,6 @@
 # Topic: strategy
 
-> 266 insights
+> 271 insights
 
 - `INS-260330-98EA` [high] The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples.
 - `INS-260403-0530` [high] New York struggles as a startup hub because founders there are second-class citizens in a status hierarchy that most admires financial wealth.
@@ -84,6 +84,7 @@
 - `INS-260323-BEE6` [high] GSP uses his jab to plant a seed of pain in the opponent's memory, creating a flinch response that opens the path for a completely different attack (the takedown).
 - `INS-260328-4BF3` [high] Getting angry about hype cycles is like getting angry about the weather — they always exist, so develop the skill of neutral observation instead.
 - `INS-260412-A38B` [high] Phages kill bacteria by being absurdly specialized against one species, while antibiotics carpet-bomb everything — specialization wins when precision matters.
+- `INS-260412-EDBF` [high] Upgrading existing Northeast Corridor track to sustain 125mph would cut DC-to-NYC to ~2 hours at a fraction of the $151B high-speed rebuild cost.
 - `INS-260403-B133` [high] The executives who rose to the top by making the right choices for the old business are wired to make the wrong choices for the new one.
 - `INS-260323-2DB0` [high] Asbestos companies funded Saranac Labs research with a clause giving them editorial control, then buried findings that showed cancer links.
 - `INS-260330-84BD` [high] The collapse of North Korea's Public Distribution System forced the emergence of illegal private markets that now sustain the majority of the population.
@@ -92,6 +93,7 @@
 - `INS-260403-04AF` [high] Software IP is nearly worthless as a moat because the field evolves faster than patents can protect, but bio/techbio IP remains a genuine durability source.
 - `INS-260330-012D` [high] LA water engineers tried floating tarps, PVC trampolines, pipe chippers, and debris fields — each failure's specific flaw narrowed the solution space until shade balls emerged.
 - `INS-260330-BF8F` [high] Web pages as UI were crude compared to desktop apps, but ubiquitous browser access was such a large advantage that quality didn't matter.
+- `INS-260412-90AC` [high] When production processes are still being refined, proximity between engineering and manufacturing teams enables faster optimization cycles than offshoring could save in labor costs.
 - `INS-260330-22C0` [high] RuBisCo is terrible at its job but plants went all-in on it and now produce 40 billion tons rather than evolve a replacement — illustrating how early dominance creates irreversible lock-in.
 - `INS-260404-5CC6` [high] Dominant systems persist not because they are optimal but because entire ecosystems co-evolved around their limitations.
 - `INS-260329-FC53` [high] Your results are mostly determined by which vehicle you operate in, not how hard you row.
@@ -107,6 +109,7 @@
 - `INS-260412-0EF9` [high] To move a solar system, you only move the Sun — everything else follows via gravity.
 - `INS-260330-9E26` [high] Successful economic development requires multiple complementary strategies pursued in parallel, not a single dominant approach.
 - `INS-260330-659D` [high] Shade balls were purchased to block bromate formation, but their secondary benefits — 80-90% evaporation reduction, algae elimination, near-zero chlorination — pay back at least half their cost.
+- `INS-260412-3BAA` [high] Flying with the jet stream saves $5,103 per flight hour in fuel — a gain no amount of internal engine optimization could match.
 - `INS-260328-A417` [high] PG's anti-zero-sum thesis — that funding more startups creates more total wealth rather than diluting a fixed pool — was proven right by YC and applies to AI-era Series A investing.
 - `INS-260403-08FE` [high] Costco turns its $60 entry fee, confusing layout, and bulk-only format into loyalty drivers and demographic filters.
 - `INS-260403-D5DC` [high] Choose your startup location based on what fuels your business, not who funds it.
@@ -127,6 +130,7 @@
 - `INS-260403-4C4E` [high] As the music industry's distribution monopoly collapsed, musicians who learned business strategy gained control over their brand, customers, and revenue.
 - `INS-260329-C26B` [high] The mindset that wins pre-PMF (just ship, no strategy) actively harms post-PMF growth if not evolved.
 - `INS-260330-1DCF` [high] Financing underlies distribution which underlies product — great product strategy means thinking in this layered order.
+- `INS-260412-FE60` [high] Boeing's 2004 discontinuation of the 757 left a gap between the 737 and 787 that became the most predictable major aircraft opportunity in the industry.
 - `INS-260403-8C56` [high] Being profitable lets you wait out acquisition market cycles and capture fair average-case valuations rather than being forced into bad timing.
 - `INS-260403-C49F` [high] Property definitions are pragmatic conventions that must evolve with technology, not fixed truths to be defended.
 - `INS-260330-CB2E` [high] Jho Low let Malaysia's Deputy PM take full credit for brokering a Middle East investment deal, converting zero public credit into private access to the country's most powerful person.
@@ -139,6 +143,7 @@
 - `INS-260403-22E9` [high] Cruise ships register under flags of convenience like Panama or Liberia to exploit favorable labor laws, saving millions in wages and enabling a global low-cost workforce.
 - `INS-260403-0611` [high] When regulation makes going public impractical, startups die silently—the founders just stay in grad school instead.
 - `INS-260403-940F` [high] SEIU built a repeatable playbook: propose destructive regulation, extract concessions for withdrawal, move to the next target industry.
+- `INS-260412-48E7` [high] Communities built around a single extractive resource face existential decline when that resource runs out, and pivoting to tourism requires infrastructure that resource towns rarely build.
 - `INS-260330-13EE` [high] Both Germany and Japan expanded primarily to secure food and resource self-sufficiency, not to spread ideology.
 - `INS-260412-CF0E` [high] Deep-sea organisms invented entirely new metabolic strategies rather than just becoming more efficient versions of surface creatures.
 - `INS-260403-FED6` [high] The retailers killed during the 'Retail Apocalypse' (Sears, Toys-R-Us, RadioShack) shared a common trait: they had stopped serving customers well long before Amazon arrived.

@@ -1,3 +1,3 @@
 # Tag: inventory-strategy
 
-- `INS-260404-3E82` Costco's 4,000 SKUs versus Walmart's 140,000 means each slot is so valuable that suppliers will restructure their products to win it.
+- `INS-260412-5523` F1 teams ship 5 duplicate sea kits months ahead so bulky equipment is always waiting at the next venue, avoiding expensive air freight.

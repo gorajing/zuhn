@@ -55,6 +55,8 @@ related:
   - INS-260412-D3C3
   - INS-260412-A21A
   - INS-260412-F8AE
+  - INS-260412-DCDC
+  - INS-260412-74C9
   - INS-260412-D627
 ---
 Since 2013, personal leisure use of corporate jets among Fortune 100 executives has risen ~10%. Executives justify this with the claim they need rapid access to the office in emergencies, but research shows these firms underperform market averages in shareholder returns by about 4% per year. The correlation suggests either that the perk signals weak governance, or that the same lax oversight enabling personal jet use also enables other value-destroying decisions.

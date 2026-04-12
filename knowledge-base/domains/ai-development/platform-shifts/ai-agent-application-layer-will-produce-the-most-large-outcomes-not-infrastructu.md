@@ -58,7 +58,6 @@ related:
   - PRI-260405-D6F5
   - INS-260404-5AC8
   - INS-260403-82E0
-  - INS-260412-2648
 ---
 In the cloud era, the SaaS category produced far more $2B-$20B outcomes than IaaS providers like AWS or Azure. The current VC consensus treats foundation models and data centers as the 'safe' investment layer because they 'collect taxes' regardless of what's built on top. But Brett Taylor argues that the way people buy software won't fundamentally change just because foundation models are smart—suggesting the real value will accrue to application-layer companies that solve specific problems using agents.
 

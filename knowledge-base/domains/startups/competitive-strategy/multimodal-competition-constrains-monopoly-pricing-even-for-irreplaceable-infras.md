@@ -57,6 +57,5 @@ related:
   - INS-260412-4FD3
   - INS-260403-5A4C
   - INS-260321-21BE
-  - INS-260412-7FC0
 ---
 The Panama Canal might appear to be an unassailable geographic monopoly — it's the only water route between the Pacific and Atlantic that doesn't require circumnavigating a continent. Yet it faces real competitive pressure from two imperfect substitutes operating in entirely different modalities: the Suez Canal (a longer water route with lower tolls) and US transcontinental rail (a land-based option that's pricier but saves a week). These competitors are imperfect — they serve overlapping but not identical use cases — yet they effectively cap what Panama can charge. This pattern matters for startups evaluating competitive moats: even if you're the only direct solution, you compete with indirect alternatives that serve the same underlying job-to-be-done through different means. A $90/container toll seems steep until you realize Panama can't raise it much further without losing volume to Suez or rail. The lesson is that monopoly pricing power is constrained by the full substitution landscape, not just direct competitors.

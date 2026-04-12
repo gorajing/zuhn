@@ -52,7 +52,6 @@ related:
   - INS-260323-4457
   - INS-260402-EA72
   - INS-260327-9830
-  - INS-260329-A57B
 stance: >-
   Unlike traditional software where nine women can't have a baby in one month,
   AI allows companies to throw money and GPUs at problems

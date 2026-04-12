@@ -41,11 +41,11 @@ stance: >-
   limitation placed on them as fuel rather than accepting the box others try to
   put them in.
 related:
+  - INS-260412-3BAA
   - INS-260330-03F7
   - INS-260412-CFF6
   - INS-260412-CC19
   - INS-260412-A747
-  - INS-260323-257D
 evidence:
   - id: INS-260330-03F7
     type: TRANSFERS_TO

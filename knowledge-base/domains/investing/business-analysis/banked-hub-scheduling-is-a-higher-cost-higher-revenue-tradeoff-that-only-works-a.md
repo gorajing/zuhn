@@ -53,7 +53,8 @@ related:
   - INS-260403-20B1
   - INS-260410-9B33
   - INS-260412-2648
+  - INS-260412-4238
   - INS-260412-826D
-  - INS-260412-F8AE
+  - INS-260412-DCDC
 ---
 Traditional airlines like American cluster arrivals and departures into 'banks' at hub airports — all flights arrive within a window, passengers connect, then all flights depart. This creates short connection times (under 2 hours) that attract connecting passengers willing to pay more. However, banked hubs require more gates, staff, and equipment to handle surge activity, and planes sit idle between banks. American's planes average only 8.5 hours of flight time per day versus Spirit's 11 hours. The strategy works because connecting passengers represent high-margin revenue that justifies the utilization penalty. Etihad takes this to the extreme with just two daily banks, optimizing their entire Abu Dhabi hub around a single 8.5-hour operational window — exactly one work shift — but leaving planes idle for up to 9 hours at outstations like Hong Kong.

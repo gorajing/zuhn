@@ -53,7 +53,6 @@ stance: >-
   buying cheap end-of-life assets dominates buying new efficient ones on total
   cost.
 related:
-  - INS-260412-B625
   - INS-260412-339A
   - INS-260412-A9C3
   - INS-260412-4FD3
@@ -61,6 +60,8 @@ related:
   - INS-260412-5BBA
   - INS-260412-664B
   - INS-260412-4D3B
+  - INS-260412-1E19
+  - INS-260412-4238
   - INS-260412-C029
 ---
 FedEx's fleet is overwhelmingly composed of old aircraft like Airbus A300s that passenger airlines have retired. This seems irrational until you understand the utilization math: FedEx planes fly roughly 2 hours per day versus 12+ hours for commercial airlines (6x lower utilization). At such low utilization, the dominant cost factor shifts from operating efficiency to acquisition cost.

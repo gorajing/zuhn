@@ -57,6 +57,7 @@ related:
   - INS-260412-25C1
   - INS-260412-BCBB
   - INS-260412-6F4D
+  - INS-260412-67EE
 ---
 The Comair implementation flight had one planned fly-by, one aborted landing, and one successful landing — routine in commercial aviation. But tabloids spun it as 'terrifying three attempts to land' and called the airport a 'folly' and 'farcical vanity project.' Much reporting was factually inaccurate (claiming it was impossible to land, that the airport was closed).
 

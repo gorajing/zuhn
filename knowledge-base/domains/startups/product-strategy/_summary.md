@@ -1,6 +1,6 @@
 # Topic: product-strategy
 
-> 90 insights
+> 91 insights
 
 - `INS-260405-4AAD` [high] Juicero raised $120M for technology that was immediately undermined when customers realized the same outcome was achievable by hand.
 - `INS-260330-809A` [high] Apple's acquisition pattern — Authentec for Touch ID, Siri for voice, NeXT for Jobs — shows that buying capabilities yields higher returns than buying businesses.
@@ -20,6 +20,7 @@
 - `INS-260330-0BBA` [high] Listen to customer problems deeply but translate them into the simplest possible solution, which is often not what the customer literally asked for.
 - `INS-260402-B36F` [high] Every AI feature PRD should specify how the feature distributes itself, where it inserts into existing workflows, and whether its economics improve at 10x scale.
 - `INS-260404-3FDF` [high] Viaweb built their entire company site with their own store-building software to experience exactly what users experienced.
+- `INS-260412-DCDC` [high] The entire aviation industry is dictated by economics not comfort — airlines find it far easier to market lower prices than higher comfort.
 - `INS-260330-C870` [high] Apple's ecosystem moat (Apple Pay, Siri, Maps) provides zero switching cost advantage in India because none of these services work well locally.
 - `INS-260330-F7F4` [high] Apple's ecosystem moat is irrelevant in India because most users never entered it in the first place.
 - `INS-260403-0D90` [high] Customers rarely choose products on function alone — emotional belonging and social perception are often the decisive factors.

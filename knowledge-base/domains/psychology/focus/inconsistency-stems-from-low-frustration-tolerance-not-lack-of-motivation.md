@@ -50,7 +50,6 @@ related:
   - PRI-260406-967A
   - INS-260327-CEE4
   - INS-260403-3E9A
-  - INS-260330-C367
   - INS-260403-D99D
 evidence:
   - id: INS-260330-C367

@@ -55,7 +55,9 @@ related:
   - INS-260412-E925
   - INS-260412-22E3
   - INS-260412-2117
+  - INS-260412-67EE
   - INS-260325-3C17
   - INS-260412-BCBB
+  - INS-260412-E07F
 ---
 In the 1970s, Anchorage airport was served by Air France, SAS, KLM, Iberia, Lufthansa, Japan Airlines, Korean Air, and more—making this small Alaskan city one of the most internationally connected places on Earth. The airport invested in a large modern international terminal in 1982. Less than ten years later, the Soviet Union fell, Russia opened Siberian overflight, and airlines abandoned Anchorage en masse. Today that terminal sees only a flight every few days. This is a pure case of stranded infrastructure: the asset's value was entirely derived from a political constraint, not from intrinsic geographic demand. Investors evaluating infrastructure should stress-test whether the asset's value depends on a political or regulatory barrier that could be removed. If the answer is yes, the investment carries regime-change risk that is binary and catastrophic rather than gradual.

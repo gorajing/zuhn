@@ -47,7 +47,6 @@ stance: >-
   Indirect substitutes that redefine what 'good enough' looks like kill more
   products than direct competitors do
 related:
-  - INS-260330-2332
   - INS-260405-F7C5
   - INS-260412-E71C
   - INS-260412-2117

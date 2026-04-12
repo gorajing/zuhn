@@ -48,5 +48,5 @@
 - `INS-260403-88F8` Replace short interviews with 6+ hour shared activities because facades crack after 2-3 hours, revealing the real person.
 - `INS-260405-94A1` Match your pitch deck's emphasis to investor decision criteria at your specific funding stage.
 - `INS-260405-CE53` 44% of startups rated their investors 1 out of 5 on helpfulness, suggesting the 'smart money' narrative routinely overpromises.
-- `INS-260403-AC06` Identify which of your risks amplify each other and prioritize decoupling them before approaching investors.
 - `INS-260403-8FD7` Screen for sector exit precedent before investing — if the only exits in a space are distressed fire sales, that's a structural warning, not a timing issue.
+- `INS-260403-AC06` Identify which of your risks amplify each other and prioritize decoupling them before approaching investors.

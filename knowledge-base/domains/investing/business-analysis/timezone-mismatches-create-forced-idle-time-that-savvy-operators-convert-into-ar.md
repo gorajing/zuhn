@@ -49,9 +49,9 @@ stance: >-
   partially offsets the utilization penalty.
 related:
   - INS-260412-F414
+  - INS-260412-1E19
   - INS-260412-F8AE
   - INS-260402-C98A
   - INS-260405-10DF
-  - INS-260412-4D3B
 ---
 North-South American routes face a structural scheduling problem: timezone proximity means southbound evening flights arrive in the morning, but returning immediately would land passengers after connecting flights have departed. Airlines universally leave planes on the ground all day to fly back overnight. American Airlines turned this forced idle time into an advantage by building a $100M maintenance hangar in São Paulo where labor is significantly cheaper. Qantas did the same in Los Angeles for A380s that sometimes sit 14 hours. The broader principle is that when external constraints force asset downtime in a specific location, operators should ask whether that location offers any cost advantage that can be exploited during the idle period. Forced idle time is a sunk cost — the question is whether you can extract partial value from it.

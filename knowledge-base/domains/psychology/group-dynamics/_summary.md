@@ -1,6 +1,6 @@
 # Topic: group-dynamics
 
-> 116 insights
+> 118 insights
 
 - `INS-260330-2EB0` [high] The Pueblo Revolt shows that a shared existential threat can override deep tribal divisions — but the unity is temporary.
 - `INS-260403-D609` [high] Enforcers of orthodoxy compete with each other, creating a race to the bottom where any borderline idea gets banned.
@@ -18,6 +18,7 @@
 - `INS-260412-9F1D` [high] Competitive dynamics within a crowd destroy cooperative behavior and are the primary driver of crowd crush risk.
 - `INS-260403-8B13` [high] Conformism varies on two orthogonal axes — conventional/independent and passive/aggressive — creating four stable personality types observable from childhood.
 - `INS-260412-1773` [high] Leafcutter ants respond to army ant attacks with instant role-based mobilization — soldiers to frontline, workers to barricades, small teams to flanking — all without central coordination.
+- `INS-260412-E475` [high] The Iñupiat have lived in Barrow for 1,500+ years, demonstrating that cultural identity and ancestral connection can sustain communities through conditions no purely economic logic would justify.
 - `INS-260412-AD6F` [high] Crowds deindividualize people, causing them to match the violence level of the most aggressive members rather than acting on individual judgment.
 - `INS-260330-0FF7` [high] China's One Child Policy created a surplus of 35 million men, making property ownership a prerequisite for marriage and turning housing into inelastic social demand.
 - `INS-260330-6AC1` [high] Developer pecking orders reward complexity theater over actual delivery.
@@ -29,6 +30,7 @@
 - `INS-260403-0C95` [high] Research on hunter-gatherers and organizations converges on 8 as ideal, 20 as hard to manage, and 50 as unwieldy—matching our evolutionary design.
 - `INS-260330-2B5F` [high] Human shield tactics are a strategic exploitation of the opponent's superior moral constraints — they only work against enemies who value civilian life more than you do.
 - `INS-260403-0D1F` [high] Progressive concentration in universities, nonprofits, and deep-blue cities makes activists see their positions as moderate when the broader public sees them as strongly left-leaning.
+- `INS-260412-CCB6` [high] The video argues that after doomsday, if survivors in Texas or Alaska don't believe they're still in the United States, they aren't — nations exist in collective belief, not in bunkers.
 - `INS-260403-D950` [high] Unchecked institutional misconduct escalates predictably because lack of consequences signals that aggression is safe.
 - `INS-260403-76C3` [high] Intellectual fashions spread in visible waves, and the best undiscovered ideas cluster in currently unfashionable areas.
 - `INS-260403-4D45` [high] Intolerant people always exist — waves of suppression happen when an ideology gives them coordinated direction.

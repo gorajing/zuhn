@@ -54,6 +54,7 @@ related:
   - INS-260403-5F3E
   - INS-260329-9115
   - INS-260403-5A88
+  - INS-260412-FD56
 ---
 In the pre-AI era, startups could tolerate messy operations because execution speed was bottlenecked by engineering and distribution constraints. AI removes those bottlenecks — teams build faster, iterate more often, and run leaner. But this acceleration means operational debt (unclear decision processes, scattered information, ad-hoc workflows) compounds faster and surfaces earlier in the company lifecycle.
 

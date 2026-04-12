@@ -67,6 +67,7 @@ related:
   - INS-260410-00F0
   - INS-260325-21D1
   - INS-260325-2B76
+  - INS-260412-2EA9
 ---
 In the early 1980s, standard financial data providers offered open/close daily prices. Strauss went further — scraping intraday tick data, unearthing 19th-century historical records, and painstakingly cleaning all of it into a single unified format. Nobody asked him to do this. There was no immediate use case. The models that would eventually consume this data didn't exist yet. He was doing ETL before the term existed.
 

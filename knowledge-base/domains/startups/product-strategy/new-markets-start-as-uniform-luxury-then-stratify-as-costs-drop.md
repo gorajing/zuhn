@@ -51,5 +51,8 @@ related:
   - INS-260412-D627
   - INS-260412-90D7
   - INS-260412-31A6
+  - INS-260412-DCDC
+  - INS-260412-2322
+  - INS-260412-4894
 ---
 In the 1920s-40s, all air travel was effectively first class—not because the experience was luxurious, but because the cost was so high that only wealthy passengers could afford it. The video draws a direct parallel to Virgin Galactic's space tourism: there's no economy class on a $250K flight because the flight itself is the premium product. Class segmentation only becomes necessary when costs drop enough to attract price-sensitive customers alongside the original premium base. This pattern suggests a predictable lifecycle for any novel experience or technology: uniform luxury → two-tier (standard/discount) → multi-tier segmentation → commoditization pressure on top tiers. Founders building in emerging categories can use this arc to anticipate when and how to introduce tiered pricing rather than reacting to market pressure.

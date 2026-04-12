@@ -58,7 +58,6 @@ stance: >-
   per panel and eliminates batteries.
 related:
   - INS-260323-F528
-  - INS-260328-8445
   - INS-260405-D638
   - INS-260403-0789
   - INS-260404-7A75

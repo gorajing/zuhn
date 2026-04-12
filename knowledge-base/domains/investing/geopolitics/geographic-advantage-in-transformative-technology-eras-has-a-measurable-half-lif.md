@@ -53,7 +53,6 @@ stance: >-
   early geographic winners who mistake a head start for a moat consistently lose
   their lead.
 related:
-  - INS-260324-41D6
   - INS-260403-42E4
   - PRI-260328-0E23
   - INS-260402-F833

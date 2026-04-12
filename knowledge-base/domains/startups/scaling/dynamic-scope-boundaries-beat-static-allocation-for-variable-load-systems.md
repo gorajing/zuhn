@@ -52,8 +52,8 @@ related:
   - INS-260412-B252
   - INS-260412-0F9A
   - INS-260329-F887
+  - INS-260412-B6D3
   - INS-260329-24CE
-  - PRI-260328-A4AC
 ---
 Maastricht's Upper Area Control Centre divides airspace into sectors that can be combined or split depending on traffic volume. At 3 AM, one controller pair handles all of Belgian airspace; at peak, each sub-sector gets its own dedicated team. This is elastic scaling implemented decades before cloud computing coined the term.
 

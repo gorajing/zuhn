@@ -1,3 +1,3 @@
 # Tag: supplier-power
 
-- `INS-260330-6B18` Spotify spent over $1 billion on podcast acquisitions specifically to reduce the record labels' leverage and own content that didn't require paying per-stream royalties.
+- `INS-260412-67EE` Budget airlines deliberately choose secondary airports where they become the primary customer, gaining extreme negotiating power—if they leave, the airport effectively ceases to exist.

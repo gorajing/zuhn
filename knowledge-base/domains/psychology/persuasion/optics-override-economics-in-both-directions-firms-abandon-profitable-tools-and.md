@@ -54,8 +54,9 @@ related:
   - INS-260412-E71C
   - INS-260412-A21A
   - INS-260412-5BBA
+  - INS-260412-DCDC
   - INS-260412-E0B6
-  - INS-260412-2117
+  - INS-260412-FE60
 ---
 The private aviation industry was hit hard by the 2008 financial crisis and still hasn't fully recovered. While some cuts were genuine cost reduction, many companies eliminated jets that were economically justified because they wanted to signal fiscal discipline. The video notes this was 'all about optics' — narrative pressure overrode spreadsheet logic.
 

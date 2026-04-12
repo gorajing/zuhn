@@ -48,9 +48,9 @@ stance: >-
   revenue-hour than long-haul carriers.
 related:
   - INS-260412-F8AE
+  - INS-260412-74C9
   - INS-260412-4D3B
+  - INS-260412-1E19
   - INS-260412-664B
-  - PRI-260406-2D38
-  - INS-260329-22B6
 ---
 An A320 has a service life of 60,000 flight cycles regardless of flight duration — a 30-minute hop and a 9-hour crossing cause identical structural stress from pressurization. This means a regional jet doing 8-10 daily cycles consumes its airframe life 8-10x faster than a long-haul widebody doing one cycle per day. The depreciation cost per flight ($1,783) is fixed regardless of distance, making it a disproportionate share of short-haul ticket prices. This has broader implications for any capital-intensive business: the unit of asset degradation may not be the obvious one (hours, miles) but rather a hidden physical constraint (cycles, thermal events, start-stop sequences) that completely reshapes the economics of different use patterns.

@@ -56,7 +56,9 @@ related:
   - INS-260409-F0F5
   - INS-260412-3EBB
   - INS-260412-F414
-  - INS-260324-41D6
+  - INS-260412-4238
+  - INS-260412-F93A
+  - INS-260412-5523
 ---
 The express shipping industry is a natural oligopoly of FedEx, UPS, and DHL because the business requires hundreds of planes, dozens of hub airports, thousands of routes, and continental-scale sorting infrastructure just to offer competitive service. No startup can build this incrementally — you need near-complete coverage from day one or your service is useless.
 

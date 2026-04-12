@@ -48,7 +48,6 @@ stance: >-
   feelings of moral inadequacy because they compare their full inner experience
   to adults' public performance
 related:
-  - INS-260325-66BE
   - INS-260330-141E
   - INS-260321-80A9
   - PRI-260325-697B

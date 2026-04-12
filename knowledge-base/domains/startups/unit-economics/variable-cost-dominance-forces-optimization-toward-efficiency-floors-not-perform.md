@@ -55,8 +55,10 @@ related:
   - INS-260412-A9C3
   - INS-260412-E3CC
   - INS-260412-CC19
+  - INS-260412-74C9
   - INS-260412-4FD3
   - INS-260412-F8AE
+  - INS-260412-600E
 ---
 The Dreamliner's $224.6M list price amortized over 44,000 rated cycles yields barely $5,000 per flight in aircraft cost, while fuel for a single New York-London trip exceeds $15,000. When variable cost (fuel) dominates fixed cost (aircraft) by 3:1 per unit of output, operators rationally choose the speed that minimizes fuel burn — roughly 500-550 mph — regardless of what the airframe can handle.
 

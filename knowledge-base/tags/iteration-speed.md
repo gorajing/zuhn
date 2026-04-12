@@ -21,4 +21,5 @@
 - `INS-260330-EF64` Delay growing your user base because users create compatibility constraints that freeze your design and prevent the continuous redesign that produces quality.
 - `INS-260329-393C` Whenever you find yourself copy-pasting code or repeating a manual process, you've found a missing abstraction that will cost more to fix later.
 - `INS-260403-0CA8` Focus all polish on the one or two things users come back for, ship that fast, then layer depth only after validation.
+- `INS-260412-90AC` When production processes are still being refined, proximity between engineering and manufacturing teams enables faster optimization cycles than offshoring could save in labor costs.
 - `INS-260403-6342` Fast business model iteration through structured sprints produces stronger outcomes than extended planning cycles.

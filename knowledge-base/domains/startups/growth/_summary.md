@@ -1,6 +1,6 @@
 # Topic: growth
 
-> 111 insights
+> 112 insights
 
 - `INS-260404-1A9D` [high] When an AI product cuts process time by 92%, the switching cost of NOT adopting it exceeds the cost of change, driving organic product-led growth.
 - `INS-260330-73A2` [high] Growth equals conversion minus churn, and reducing churn by 1% has the identical mathematical effect on growth as increasing conversion by 1%, but costs significantly less.
@@ -47,6 +47,7 @@
 - `INS-260330-410A` [high] Instagram hit 25K users on day one and 1M within a month by aligning iPhone 4 camera timing, cross-posting to Facebook/Twitter, and recruiting high-profile photographers as early adopters.
 - `INS-260403-EAC6` [high] Waze became one of the strongest app brands in France by investing where organic growth appeared, while Germany — where they tried to manufacture demand — never adopted the product despite similar investment.
 - `INS-260330-D968` [high] The umma concept superseded tribal allegiance, enabling Islam to unify warring factions into a single expansionary community within two centuries.
+- `INS-260412-4238` [high] Budget airlines don't just take passengers from legacy carriers—any destination Ryanair opens becomes popular simply because traveling there cheaply is now possible, creating demand that didn't previously exist.
 - `INS-260402-D9AC` [high] Manual user-by-user recruitment works because compound weekly growth transforms tiny absolute numbers into massive scale.
 - `INS-260404-EF1D` [high] Marketplaces must build supply density in narrow geographies or verticals before scaling demand.
 - `INS-260402-8F67` [high] Most marketplace supply tactics fail individually, but cumulative small wins across many channels compound into massive growth.

@@ -55,7 +55,7 @@ related:
   - INS-260412-5BBA
   - INS-260412-D627
   - INS-260412-E0B6
-  - INS-260412-BCBB
+  - INS-260412-2322
 ---
 As companies outsource manufacturing and operations to developing countries, they need to reach locations that commercial airlines don't serve well. The same hub-and-spoke inefficiency that justifies Walmart's domestic fleet applies internationally — reaching a factory in a secondary city in Southeast Asia via commercial routing might require multiple connections and overnight stops.
 

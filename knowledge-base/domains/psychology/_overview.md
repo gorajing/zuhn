@@ -1,6 +1,6 @@
 # Domain: psychology
 
-> 2446 insights across 24 topics
+> 2449 insights across 24 topics
 
 ## Topics
 
@@ -17,14 +17,14 @@
 | focus | 157 | Long-form tutorials act as a self-selection filter — people who click a 4.5-hour video are pre-committed, leading to deeper engagement than bite-sized content. |
 | founder-mindset | 30 | Masa Son's explicit 50-year plan — build in 20s, accumulate in 30s, deploy in 40s, consolidate in 50s, hand off after 60 — gave him a framework to absorb $70B losses without changing course. |
 | founder-psychology | 29 | Don't start acquisition conversations unless you'd accept a low offer — the distraction and psychological demoralization of entertaining buyers kills more companies than most founders realize. |
-| group-dynamics | 116 | The Pueblo Revolt shows that a shared existential threat can override deep tribal divisions — but the unity is temporary. |
+| group-dynamics | 118 | The Pueblo Revolt shows that a shared existential threat can override deep tribal divisions — but the unity is temporary. |
 | habits | 5 | 'Never miss a dinner' is a higher-fidelity legacy signal than any single achievement, because it survives statistical averaging. |
 | human-computer-interaction | 1 | Triggering the human 'being-to-being' interaction mode produces engagement that productivity tools are constitutionally unable to match. |
 | learning | 246 | Twenty hours of focused study on a single skill creates enough baseline competence to unlock meaningfully better job opportunities. |
 | math-perception | 55 | Sanderson's observation that 'if it were any simpler, what hope would we have that it could recognize digits?' reveals a useful heuristic: solution complexity should be proportional to problem complexity. |
 | mental-models | 108 | Computers are fully explainable bottom-up from electricity through logic gates to instructions — there is no magical layer, only layers of abstraction humans haven't personally traversed. |
 | negotiation | 19 | Russia threatened to close its airspace over EU sanctions (2014), Dutch landing slot disputes (2017), and US military action in Syria (2018)—using one asset as leverage across completely unrelated conflicts. |
-| perception | 307 | A 13-hour course with 7.6M views shows audiences will commit to extreme depth when they trust the source. |
+| perception | 308 | A 13-hour course with 7.6M views shows audiences will commit to extreme depth when they trust the source. |
 | persuasion | 62 | Steady accumulation of documented incidents shifts opinion more than any single dramatic event because patterns resist counter-narrative. |
 | physics-intuition | 89 | Light's regularity means its full 3D state is determined by its values on any 2D boundary surface. |
 | relationships | 88 | Psychologist Sonja Lyubomirsky's analysis estimates 50% of happiness is genetic set point, 10% is circumstances, and 40% is under our control. |

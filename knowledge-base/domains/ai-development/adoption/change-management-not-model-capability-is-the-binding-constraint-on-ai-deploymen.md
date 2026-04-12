@@ -65,6 +65,7 @@ related:
   - INS-260403-7F89
   - PRI-260328-3094
   - PRI-260406-A7EC
+  - INS-260412-90AC
 ---
 Nadella's analogy: pre-PC corporate forecasting ran on faxes and interoffice memos; Excel+email didn't just speed it up, it changed the work artifact and workflow. AI in the enterprise needs the same depth of process redesign — what he calls 'Lean for knowledge work.' The implication is that even fully capable agents won't produce productivity gains until companies figure out new patterns of how knowledge gets produced, reviewed, and decided on.
 

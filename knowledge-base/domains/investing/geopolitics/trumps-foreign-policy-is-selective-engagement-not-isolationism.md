@@ -45,6 +45,7 @@ related:
   - INS-260330-217C
   - INS-260410-AEF8
   - INS-260330-9E26
+  - INS-260412-D033
 stance: Trump's NSS strategy is not isolationism but selective power projection
 evidence:
   - id: INS-260330-217C

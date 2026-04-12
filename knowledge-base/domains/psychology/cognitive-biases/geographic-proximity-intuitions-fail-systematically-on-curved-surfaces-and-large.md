@@ -52,10 +52,10 @@ stance: >-
   intuitions about which places are 'close' or 'far'.
 related:
   - INS-260409-8908
+  - INS-260412-F9BA
   - INS-260330-5263
   - INS-260409-F93A
   - INS-260403-361D
-  - INS-260330-4711
   - INS-260412-F1F5
 ---
 The video repeatedly surfaces distance facts that feel impossible: Canada's easternmost point is closer to Croatia than to Vancouver. Russia's easternmost point is closer to Mexico than to Moscow. Finland's north is closer to Greenland than to Poland. Recife, Brazil is closer to Dakar, Senegal than to Porto Alegre, Brazil.

@@ -62,9 +62,10 @@ related:
   - INS-260412-FD95
   - INS-260412-3713
   - INS-260412-FD55
+  - INS-260412-FE60
   - INS-260403-D531
-  - PRI-260407-A13C
   - INS-260412-E89C
+  - INS-260412-E07F
 ---
 Northern Pacific Airways planned to create a connecting hub in Anchorage for trans-Pacific travel — essentially an Iceland Air model for the Pacific. Before the sanctions, experts dismissed it because trans-Pacific fares were already low due to fierce Asian airline competition, and direct routes over Russia made Anchorage a detour. Within weeks of the airspace closures, Delta's Detroit-Seoul flight had to reroute from 13 to 14 hours via a southern path, while Northern Pacific's Anchorage hub route could actually beat Delta by an hour on Boston-Seoul itineraries.
 

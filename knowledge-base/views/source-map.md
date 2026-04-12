@@ -752,6 +752,7 @@ Generated on 2026-04-12 | 2417 sources
 | Effects of Fasting & Time Restricted Eating on Fat Loss & Health | Huberman Lab Podcast #41 | youtube | 5 | 2026-03-30 |
 | Elon Musk – "In 36 months, the cheapest place to put AI will be space” | youtube | 5 | 2026-04-10 |
 | Elon Musk: SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI | Lex Fridman Podcast #252 | youtube | 5 | 2026-03-30 |
+| Elon Musk's Basic Economics | youtube | 5 | 2026-04-12 |
 | Emil Michael: The Department of War Is Moving Faster Than Silicon Valley on AI | The a16z Show | youtube | 5 | 2026-03-22 |
 | Enron | youtube | 5 | 2026-04-11 |
 | Epic Systems (MyChart) | youtube | 5 | 2026-04-11 |
@@ -776,6 +777,7 @@ Generated on 2026-04-12 | 2417 sources
 | How Airlines Quietly Became Banks | youtube | 5 | 2026-04-12 |
 | How are holograms possible? | youtube | 5 | 2026-03-30 |
 | How Barbers Really Make Money | youtube | 5 | 2026-03-24 |
+| How Budget Airlines Work | youtube | 5 | 2026-04-12 |
 | How Does A Carburetor Work? | Transparent Carburetor at 28,546 fps Slow Mo - Smarter Every Day 259 | youtube | 5 | 2026-03-30 |
 | How evolution works in 54 minutes | Sean B. Carroll: Full Interview | youtube | 5 | 2026-03-25 |
 | How I built an app that makes $2,000 in one month (from scratch) | youtube | 5 | 2026-03-22 |
@@ -1012,6 +1014,7 @@ Generated on 2026-04-12 | 2417 sources
 | Why Smart People Don't See What's Wrong With Trump | youtube | 5 | 2026-03-30 |
 | Why Sri Lanka is Collapsing: the Coming Global Food Crisis | youtube | 5 | 2026-03-30 |
 | Why the next 25 years could surpass anything in modern memory | Peter Leyden: Full Interview | youtube | 5 | 2026-03-25 |
+| Why Trains Suck in America | youtube | 5 | 2026-04-12 |
 | Why You Need a $1B Fund To Do Series A | SpaceX at $2TRN & Data Centers in Space | Groq's $20BN Deal | youtube | 5 | 2026-03-27 |
 | Why you should see the world like a large language model | Dan Shipper: Full Interview | youtube | 5 | 2026-03-25 |
 | William Ackman: Everything You Need to Know About Finance and Investing in Under an Hour | Big Think | youtube | 5 | 2026-03-30 |
@@ -1506,6 +1509,7 @@ Generated on 2026-04-12 | 2417 sources
 | How Somalia’s Pirates Make Money | youtube | 4 | 2026-03-30 |
 | How the body keeps the score on trauma | Bessel van der Kolk for Big Think+ | youtube | 4 | 2026-03-30 |
 | How The Immune System ACTUALLY Works – IMMUNE | youtube | 4 | 2026-04-12 |
+| How the US Government Will Survive Doomsday | youtube | 4 | 2026-04-12 |
 | How the World’s Wealthiest People Travel | youtube | 4 | 2026-04-12 |
 | How This Central African City Became the World’s Most Expensive | youtube | 4 | 2026-04-12 |
 | How To Convert Customers With Cold Emails | Startup School | youtube | 4 | 2026-03-27 |
@@ -1606,6 +1610,7 @@ Generated on 2026-04-12 | 2417 sources
 | The Homeless Teen Who Created Louis Vuitton | youtube | 4 | 2026-03-30 |
 | The idea so strange Einstein thought it broke quantum physics | Jim Al-Khalili | youtube | 4 | 2026-03-25 |
 | The Illegal Rise of Spotify | youtube | 4 | 2026-03-30 |
+| The Insane Logistics of Formula 1 | youtube | 4 | 2026-04-12 |
 | The Internet Was Weeks Away From Disaster and No One Knew | youtube | 4 | 2026-03-23 |
 | The Largest Black Hole in the Universe - Size Comparison | youtube | 4 | 2026-04-12 |
 | The Largest Star in the Universe – Size Comparison | youtube | 4 | 2026-04-12 |
@@ -1618,6 +1623,7 @@ Generated on 2026-04-12 | 2417 sources
 | The Most Misunderstood Concept in Physics | youtube | 4 | 2026-03-30 |
 | The Nervous System, Part 1: Crash Course Anatomy & Physiology #8 | youtube | 4 | 2026-03-30 |
 | The Origin of Consciousness – How Unaware Things Became Aware | youtube | 4 | 2026-04-12 |
+| The Plane Highway in the Sky | youtube | 4 | 2026-04-12 |
 | The Psychology of Making Money | youtube | 4 | 2026-03-23 |
 | The Secret Marketing Strategy That Built a16z: From Zero to Legendary VC Firm | youtube | 4 | 2026-03-22 |
 | The Simplest Math Problem No One Can Solve - Collatz Conjecture | youtube | 4 | 2026-03-30 |
@@ -1658,6 +1664,7 @@ Generated on 2026-04-12 | 2417 sources
 | What makes quantum computers SO powerful? | youtube | 4 | 2026-03-23 |
 | What to do if your inner voice is cruel | Ethan Kross | youtube | 4 | 2026-03-30 |
 | What Will We Miss? | youtube | 4 | 2026-03-30 |
+| What's Actually the Plane of the Future | youtube | 4 | 2026-04-12 |
 | What’s Hiding at the Most Solitary Place on Earth? The Deep Sea | youtube | 4 | 2026-04-12 |
 | What’s the Future of Vertical SaaS in an AGI World? Jamie Cuffe, CEO of Pace | youtube | 4 | 2026-03-26 |
 | When You Truly Work for Yourself | youtube | 4 | 2026-03-30 |
@@ -1676,6 +1683,7 @@ Generated on 2026-04-12 | 2417 sources
 | Why OpenAI Doesn't Pay Sales Commission (And Why It Works) with OpenAI GTM Leader Maggie Hott | youtube | 4 | 2026-03-27 |
 | Why Planes Don't Fly Faster | youtube | 4 | 2026-04-12 |
 | Why Snatch Blocks are AWESOME (How Pulleys Work)  - Smarter Every Day 228 | youtube | 4 | 2026-03-30 |
+| Why the Northernmost Town in America Exists | youtube | 4 | 2026-04-12 |
 | Why There are Now So Many Shortages (It's Not COVID) | youtube | 4 | 2026-04-12 |
 | Why We Should NOT Look For Aliens - The Dark Forest | youtube | 4 | 2026-04-12 |
 | Why You Should Not Startup In Your 20s | Startup Founder Reality | youtube | 4 | 2026-03-23 |
@@ -2412,11 +2420,3 @@ Generated on 2026-04-12 | 2417 sources
 | You Are Taking Creatine Wrong (here's how to fix it) | youtube | 1 | 2026-03-26 |
 | You Will Never Wear AirPods Again | youtube | 1 | 2026-03-26 |
 | You'll Never Eat Sardines Again | youtube | 1 | 2026-03-26 |
-| Elon Musk's Basic Economics | youtube | 0 | 2026-04-12 |
-| How Budget Airlines Work | youtube | 0 | 2026-04-12 |
-| How the US Government Will Survive Doomsday | youtube | 0 | 2026-04-12 |
-| The Insane Logistics of Formula 1 | youtube | 0 | 2026-04-12 |
-| The Plane Highway in the Sky | youtube | 0 | 2026-04-12 |
-| What's Actually the Plane of the Future | youtube | 0 | 2026-04-12 |
-| Why the Northernmost Town in America Exists | youtube | 0 | 2026-04-12 |
-| Why Trains Suck in America | youtube | 0 | 2026-04-12 |

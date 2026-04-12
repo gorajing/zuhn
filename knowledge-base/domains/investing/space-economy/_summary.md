@@ -1,6 +1,6 @@
 # Topic: space-economy
 
-> 37 insights
+> 38 insights
 
 - `INS-260325-415A` [high] Detecting an alien signal would statistically prove that technological civilizations can have long futures, because the math of detection requires that such technologies are long-lived on cosmic timescales.
 - `INS-260322-7A2F` [high] Artemis builds permanent lunar presence through deliberate phased deployment — unmanned test, crewed orbit, first landing, rover, habitable vehicle, base camp — each phase de-risking the next.
@@ -10,6 +10,7 @@
 - `INS-260325-E5EB` [high] We now know there are more planets than stars in the Milky Way, and life thrives in environments once considered utterly sterile — the universe appears far more bio-friendly than we taught 40 years ago.
 - `INS-260322-3833` [high] The Lunar Gateway is not just a moon station — it is the strategic launch point for Mars and deep space missions because escaping lunar gravity requires vastly less fuel than escaping Earth's.
 - `INS-260322-B8E6` [high] Orion's design for reuse across multiple Artemis missions fundamentally changes space economics from disposable to durable infrastructure.
+- `INS-260412-B820` [high] Falcon 9 fuel costs only $200K per launch versus $80M total price, proving that rocket reusability—not fuel optimization—is the key to dramatically cheaper space access.
 - `INS-260325-40DC` [high] SETI is a misnomer — we search for technology (frequency-compressed radio signals or time-compressed optical pulses) because we cannot define or detect intelligence at interstellar distances.
 - `INS-260330-AF2A` [high] Space elevators work in theory but require materials with strength-to-weight ratios beyond current capabilities.
 - `INS-260403-34A6` [high] Space launch cost reductions mirror containerization's 36x collapse, and Starship targets 500x — a magnitude that historically reshapes entire economies.

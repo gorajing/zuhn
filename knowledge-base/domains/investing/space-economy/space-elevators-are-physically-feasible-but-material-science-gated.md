@@ -46,11 +46,12 @@ stance: >-
   but the absence of materials strong enough to support their own weight at the
   required length.
 related:
-  - INS-260330-2064
   - INS-260330-F9FB
   - INS-260330-72D0
+  - INS-260330-2064
   - PRI-260328-99F0
   - INS-260405-E34C
+  - INS-260412-2785
 evidence:
   - id: INS-260330-2064
     type: SUPPORTS

@@ -47,8 +47,8 @@ related:
   - INS-260403-CAE5
   - PRI-260328-0E23
   - INS-260412-A18B
+  - INS-260412-B820
   - INS-260408-88D9
-  - INS-260323-F528
   - INS-260403-AFA5
 stance: >-
   Orion's design for reuse across multiple Artemis missions fundamentally

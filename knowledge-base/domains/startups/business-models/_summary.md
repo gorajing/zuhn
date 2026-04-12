@@ -1,6 +1,6 @@
 # Topic: business-models
 
-> 239 insights
+> 242 insights
 
 - `INS-260410-9246` [high] Visa's interchange is not a fee — it's an envelope of value the network can redistribute to issuing banks, acquiring banks, co-brand merchants, and rewards programs as needed to align behavior.
 - `INS-260410-58A5` [high] F1's durability isn't mostly brand or network effects — it's that the FIA explicitly calls it 'the pinnacle,' a regulatory grant no rival motorsport can replicate with money.
@@ -107,6 +107,7 @@
 - `INS-260410-D9DC` [high] Prime's genius wasn't covering shipping costs—it was making customers pre-commit to Amazon financially so they'd rationalize doing all their shopping there.
 - `INS-260327-4C5E` [high] External events that spike a stocks price (Reddit squeezes, viral moments) provide temporary reprieve but cannot address
 - `INS-260330-0998` [high] Tencent's attempt to charge subscription fees for QQ backfired and lost users to competitors, but switching to free access with microtransactions for virtual items and in-game purchases became enormously profitable.
+- `INS-260412-828C` [high] France subsidizes 50% of rail operating costs while Amtrak is designed as a for-profit corporation, creating fundamentally different service quality outcomes.
 - `INS-260403-BD43` [high] McDonald's makes 64% of franchise revenue from rent, not food — it is functionally a real estate company disguised as a fast food chain.
 - `INS-260410-9643` [high] A 'trick' is an independent locomotive business with its own revenue model, sales motion, and capability stack — Google, TSMC, Nvidia each have essentially one; Microsoft and Apple have two; nobody has three.
 - `INS-260324-98F6` [high] The Big Five movie studios (Paramount, Universal, Sony, Warner Bros, Disney) all have diversified parent conglomerates because standalone film businesses can't absorb the inevitable flops.
@@ -129,6 +130,7 @@
 - `INS-260327-FBD8` [high] Gun store revenue is driven primarily by fear of future regulation rather than actual use demand, creating cyclical boom
 - `INS-260412-B5F8` [high] Airlines derive 84% of revenue from 45% of passengers, demonstrating how premium customer concentration can anchor an entire business model.
 - `INS-260403-BE7C` [high] Price disruption alone invites margin compression; a stacked second model (marketplace, fintech, bundling) is required for sustainability.
+- `INS-260412-DB01` [high] SpaceX's pivot to Starlink internet illustrates that price-inelastic core markets (government launches) require adjacent elastic consumer businesses to generate growth revenue.
 - `INS-260329-72A5` [high] A 10x price increase on the same product can yield a 31x increase in net profit because fixed costs remain constant.
 - `INS-260403-D5C2` [high] Price cuts that seem modest (e.g., $200 to $150/month) dramatically extend payback periods because CAC is fixed while per-customer revenue shrinks.
 - `INS-260329-8F7C` [high] Allen unlocked 4x pricing power by running pricing surveys and repackaging its charging model, not by changing the product itself.
@@ -165,6 +167,7 @@
 - `INS-260324-DB86` [high] Shrinkflation generates 3-5% revenue growth for years even as volumes decline, but there's a ceiling — Kraft Heinz hit it in 2019 with a $15B loss when customers stopped buying entirely.
 - `INS-260327-9DA6` [high] Twitter's decision to restrict its API and push users away from third-party clients (which served 20-30% of users) became one of the company's most costly strategic mistakes.
 - `INS-260412-0BF3` [high] Guam's economy depends on two concentrated pillars — US military (largest employer) and Asian tourism — making it prosperous but fragile to shifts in either.
+- `INS-260412-2322` [high] Operating a single aircraft type eliminates cross-training costs for pilots, attendants, mechanics, and ground staff, creating multiplicative savings.
 - `INS-260329-C474` [high] A frozen yogurt store doing $800K revenue yields roughly $93K in owner take-home, illustrating the salary-not-wealth trap of small retail.
 - `INS-260404-D471` [high] Social activism and regulatory changes can render entire business models unviable, not just reduce margins.
 - `INS-260404-BCA2` [high] VDC built a burger empire by monetizing idle restaurant kitchens instead of building its own.

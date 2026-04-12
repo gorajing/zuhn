@@ -58,6 +58,7 @@ related:
   - PRI-260406-4B37
   - INS-260403-BD30
   - INS-260329-C6BB
+  - INS-260412-EDBF
 ---
 To match the average American's 4-minute proximity to gas stations, Tesla would need 31,251 additional Supercharging stations at $250,000 each ($7.8 billion total), serving only 750,000 cars—one $250,000 station per 23 vehicles. The stations could never break even at that utilization rate. This is the classic chicken-and-egg: you need infrastructure to sell cars but can't justify infrastructure without cars.
 

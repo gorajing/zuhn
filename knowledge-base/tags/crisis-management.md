@@ -22,6 +22,7 @@
 - `INS-260330-AA25` Never apologizing works in environments without accountability but creates compounding credibility debt that collapses catastrophically when external pressure arrives.
 - `INS-260328-4ED2` Altman's proudest moment during the OpenAI board crisis was realizing his executive team could run the company without him.
 - `INS-260403-3FF5` Wartime prioritization requires cuts so deep that everyone in the organization can feel the change in direction.
+- `INS-260412-61A5` Some US presidents have refused to evacuate during perceived attacks, reasoning that visible leadership solidarity with the population creates unity worth more than one person's survival.
 - `INS-260327-0C56` NPS can drop 30 points overnight but takes 12-18 months of sustained product improvement to recover; there are no magic blog posts or gestures that shortcut the process.
 - `INS-260403-7CAA` Keeping the company running during crisis gives employees stability and purpose, not just revenue.
 - `INS-260412-FEFA` British tabloids branded St Helena's airport 'the world's most useless airport' based on a single aborted landing, and years of successful operations couldn't undo the damage.

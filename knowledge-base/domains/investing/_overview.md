@@ -1,6 +1,6 @@
 # Domain: investing
 
-> 1300 insights across 12 topics
+> 1301 insights across 12 topics
 
 ## Topics
 
@@ -16,5 +16,5 @@
 | geopolitics | 575 | A 5% one-time levy on a 7% per year portfolio is recovered in about 9 months of normal returns, smaller than typical market volatility. |
 | macro | 45 | Batteries substitute for the grid by arbitraging across time instead of space, and since batteries are deployed behind-the-meter without grid operator consent, grid utilization is structurally declining while operating costs rise. |
 | macro-trends | 23 | The Internet was commercialized in the early 1990s but only showed in productivity statistics in the late 1990s; at current debt accumulation of $7.2B/day, even an AI productivity miracle won't bend the ratio fast enough to displace financial repression. |
-| space-economy | 37 | Detecting an alien signal would statistically prove that technological civilizations can have long futures, because the math of detection requires that such technologies are long-lived on cosmic timescales. |
+| space-economy | 38 | Detecting an alien signal would statistically prove that technological civilizations can have long futures, because the math of detection requires that such technologies are long-lived on cosmic timescales. |
 | venture-capital | 302 | Declining VC distributions through 2024 are fundamentally altering the LP-GP relationship and fund economics. |

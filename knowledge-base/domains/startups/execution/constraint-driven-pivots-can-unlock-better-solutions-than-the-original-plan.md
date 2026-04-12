@@ -50,6 +50,7 @@ stance: >-
   often produces a more sustainable solution than the initial design
 related:
   - INS-260410-F38A
+  - INS-260412-FE60
   - INS-260412-826D
   - INS-260412-3713
   - INS-260412-B172

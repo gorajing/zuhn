@@ -67,11 +67,11 @@ related:
   - INS-260323-3982
   - INS-260327-A75C
   - INS-260330-E474
-  - INS-260330-F8A2
   - INS-260330-2EB0
   - INS-260405-5113
   - INS-260403-583B
   - INS-260410-C207
+  - INS-260410-3A01
 ---
 Paine's diagnostic for alliance durability is surgical: track who is credibly threatening whom, not who shares ideology. The Sino-Soviet bromance — two great communist powers with a world-changing mission — shattered over some islands in the Amur River in 1969, to the point where Russia approached the Nixon administration asking whether it would be acceptable to nuke China. Mao's takeaway: 'The one that wants to nuke you is your primary adversary.' From that moment, the US could play the swing role and the entire Cold War balance reshuffled.
 

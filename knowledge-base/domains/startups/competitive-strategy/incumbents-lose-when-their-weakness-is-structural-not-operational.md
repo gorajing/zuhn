@@ -49,9 +49,11 @@ stance: >-
 related:
   - INS-260412-A747
   - INS-260412-F17D
+  - INS-260412-DCDC
   - INS-260412-E0B5
   - INS-260327-B715
-  - INS-260412-4D3B
+  - INS-260412-3978
+  - INS-260412-CAEF
 ---
 China's three largest airlines have abysmal on-time performance (63-67%) because the military controls 70% of airspace, squeezing civilian flights into narrow corridors. This isn't an operational problem airlines can fix—it's a structural constraint embedded in the system. High-speed rail wins not by being marginally better but by sidestepping the bottleneck entirely.
 

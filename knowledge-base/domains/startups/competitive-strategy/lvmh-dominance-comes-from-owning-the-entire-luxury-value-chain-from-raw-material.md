@@ -40,11 +40,11 @@ stance: >-
   chain: they own materials suppliers, manufacturing, brands, and retail
   distribution, capturing margin at every stage.
 related:
-  - INS-260327-6A4B
+  - INS-260412-2147
   - PRI-260328-DF2D
   - INS-260404-7A5B
+  - INS-260327-6A4B
   - PRI-260406-466E
-  - INS-260403-0414
 ---
 LVMHs competitive advantage is vertical integration across the luxury value chain: they own materials suppliers, manufacturing, brands, and retail distribution, capturing margin at every stage.
 

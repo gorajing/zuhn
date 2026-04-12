@@ -50,11 +50,11 @@ stance: >-
   forces multi-day trips that could be single-day trips, not on well-served
   point-to-point routes where time savings are marginal
 related:
-  - INS-260412-CFF6
   - INS-260412-A21A
   - INS-260412-5BBA
+  - INS-260412-74C9
   - INS-260324-41D6
-  - INS-260410-9B33
+  - INS-260412-1E19
 ---
 A London-Dubai private charter costs $55,000 and saves only ~3 hours versus commercial first class, requiring the passenger to earn $50M+ annually to justify it. But Walmart's Bentonville-to-three-small-cities route compresses a 4-day commercial trip into a 12-hour day trip. The economic case depends entirely on the ratio of time saved to cost incurred, and that ratio explodes when commercial routing forces multi-connection, multi-overnight itineraries through hubs.
 

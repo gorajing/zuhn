@@ -52,6 +52,6 @@ related:
   - INS-260412-90D7
   - INS-260412-E0B6
   - INS-260412-4FD3
-  - INS-260404-E65A
+  - INS-260412-DCDC
 ---
 Etihad's A380 demonstrates that business class seats generate $605 per square foot of floor space while first class generates only $403—despite first class tickets costing more than double. The binding constraint is physical space in the fuselage, so revenue-per-square-foot is the metric that determines optimal cabin configuration. This principle applies broadly: the correct optimization target is always revenue per unit of your scarcest resource, not revenue per customer or per transaction. A SaaS company constrained by engineering bandwidth should optimize revenue per engineering hour, not per user. A content creator constrained by attention should optimize revenue per minute of audience time. Misidentifying the binding constraint leads to product mix decisions that look profitable per unit but leave money on the table at the portfolio level.

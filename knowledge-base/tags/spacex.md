@@ -2,6 +2,7 @@
 
 - `INS-260408-88D9` Hassabis: cheap fusion + seawater desalination = infinite rocket fuel = real space economy with asteroid mining and Dyson sphere construction within 50 years.
 - `INS-260328-8445` The cost to send something to space is declining exponentially like Moore's Law, enabling an explosion of space startups -- and current 'cheap launch' will look expensive in hindsight.
+- `INS-260412-B820` Falcon 9 fuel costs only $200K per launch versus $80M total price, proving that rocket reusability—not fuel optimization—is the key to dramatically cheaper space access.
 - `INS-260327-969D` SpaceX doesn't grow like a software company — it accomplishes massive technical milestones every 5-7 years, each unlocking hundreds of billions in new value.
 - `INS-260405-F374` SpaceX at $350B staying private proves the largest strategic assets no longer need public markets for liquidity.
 - `INS-260405-9E7D` Landing a rocket once proves engineering; landing and relaunching it cheaply proves the business.

@@ -7,8 +7,8 @@
 - `INS-260323-7E6F` Speed is the shortest distance between seeing and acting on an opportunity; time is making a good decision and holding it — Berkshire compounded at 20% annually from 1965-2024 by getting both right.
 - `INS-260329-B424` Options and leveraged positions let you control large assets with minimal capital, creating disproportionate upside potential.
 - `INS-260327-0AB0` Many retirees globally use accumulated retirement savings to pay off mortgages, converting retirement accounts into real estate equity and qualifying for public pensions.
-- `INS-260327-4E10` Australia's negative gearing lets individuals write off real estate investment losses against personal income, converting high-taxed salary (45%) into low-taxed capital gains and driving house prices to 8x median income.
 - `INS-260403-7CAF` Cheap debt capital creates viable business models that wouldn't exist under pure equity financing.
+- `INS-260327-4E10` Australia's negative gearing lets individuals write off real estate investment losses against personal income, converting high-taxed salary (45%) into low-taxed capital gains and driving house prices to 8x median income.
 - `INS-260330-16F7` McDonald's owns $30B+ in real estate and collects 8-15% of franchisee revenue as rent, making it more real estate investor than restaurant chain.
 - `INS-260403-BD43` McDonald's makes 64% of franchise revenue from rent, not food — it is functionally a real estate company disguised as a fast food chain.
 - `INS-260324-4ACD` America has 50,000 self-storage facilities and 2 billion sq ft of extra storage for 300M people — Europe has 5,000 facilities for 750M people. It's a recession-proof bet on American overconsumption.

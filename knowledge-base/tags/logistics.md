@@ -17,8 +17,10 @@
 - `INS-260328-75B8` Some business constraints are physics — no execution can overcome a market that only buys once a year or a supply chain that can't reach the customer.
 - `INS-260412-D031` Express shipping requires such massive hub-and-spoke networks that new entrants are locked out — unless, like Amazon, they ship enough of their own packages to fill planes without external customers.
 - `INS-260327-500C` Zipline's biggest realization was that designing a cool autonomous aircraft was only 15% of building a national-scale delivery system.
+- `INS-260412-3978` Eliminating ground transport forces all physical goods through air freight, creating massive cost premiums proportional to weight and bulk rather than intrinsic value.
 - `INS-260412-CFF6` Antarctica uses intercontinental jets to coastal McMurdo, ski-equipped LC-130s inland, and 40-day tractor convoys for bulk cargo—each mode optimized for its leg.
 - `INS-260412-8DF5` FedEx chose Memphis for its SuperHub not because it's the geographic center of the US, but because it's near the mean population center — minimizing average delivery distance to the most people.
+- `INS-260412-5523` F1 teams ship 5 duplicate sea kits months ahead so bulky equipment is always waiting at the next venue, avoiding expensive air freight.
 - `INS-260412-F414` Aircraft carriers restock fuel, food, and mail while underway, avoiding the vulnerability of port stops — a pattern applicable to any organization that cannot afford downtime.
 - `INS-260412-D787` The White House to UN trip takes exactly one hour because every transition — Marine One to Air Force One (5 min), landing to motorcade — is ruthlessly optimized.
 - `INS-260412-F8AE` FedEx uses retired passenger aircraft because their planes only fly ~2 hours/day versus airlines' 12+ hours — cheap purchase price matters more than fuel efficiency at low utilization.
