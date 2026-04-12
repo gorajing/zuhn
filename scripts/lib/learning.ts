@@ -1225,6 +1225,164 @@ const NEGATIVE_VALENCE = [
   "overrated", "myth", "illusion", "trap", "false", "misleading",
 ];
 
+// ─── Slow-graph consumption for tension filtering ─────────────────────
+//
+// The tension-candidate generator used to work purely off lexical
+// heuristics (OPPOSING_PAIRS, valence flips) and content-distance
+// ranges, ignoring the typed edges that classify-edges.ts had already
+// written to the `connections` table. That made the tension queue
+// surface near-duplicates (SUPPORTS, REFINES, EXTENDS relationships)
+// as "tension candidates" while the handful of real CHALLENGES/
+// CONTRADICTS pairs drowned in the noise. The constants and helpers
+// below consume that slow graph as an authoritative pre-filter before
+// any lexical scoring runs.
+
+/** Edge types that mean "these insights agree / reinforce each other." */
+const REJECT_EDGE_TYPES = new Set([
+  "SUPPORTS",
+  "REFINES",
+  "EXTENDS",
+  "TRANSFERS_TO",
+  "PREDICTED",
+]);
+
+/** Edge types that mean "these insights are in tension by design." */
+const BOOST_EDGE_TYPES = new Set(["CHALLENGES", "CONTRADICTS"]);
+
+/**
+ * Score bonus added to a candidate pair when classify-edges.ts has
+ * already marked it as CHALLENGES or CONTRADICTS. Large enough to
+ * clearly outrank any polarity-scorer output (which caps near +3)
+ * so authoritative tension signals float to the top of the queue.
+ */
+const CHALLENGES_BOOST = 5;
+
+/**
+ * Jaccard similarity threshold at which we treat a no-edge pair as
+ * a lexical paraphrase and drop it from the candidate pool. Calibrated
+ * against 28 real tension candidates: the 3 paraphrases in the
+ * no-edge fall-through scored 0.35 / 0.39 / 0.41, and the 8
+ * legitimate tension candidates all scored <= 0.08 on content-level
+ * Jaccard (title + one_line + stance). 0.30 sits cleanly in the gap.
+ */
+const PARAPHRASE_JACCARD_THRESHOLD = 0.3;
+
+/**
+ * English stopwords removed before computing content-level Jaccard.
+ * Kept deliberately short — purpose is to drop syntactic glue
+ * ("the", "is", "of") so shared content words dominate the metric,
+ * not to build a full NLP stopword list.
+ */
+const CONTENT_JACCARD_STOPWORDS = new Set([
+  "a", "an", "the", "and", "or", "but", "is", "are", "was", "were", "be",
+  "been", "have", "has", "had", "do", "does", "did", "will", "would",
+  "could", "should", "may", "might", "must", "can", "to", "of", "in",
+  "on", "at", "for", "with", "by", "from", "as", "than", "that", "this",
+  "these", "those", "it", "its", "their", "them", "they", "we", "our",
+  "you", "your", "i", "my", "me", "not", "no", "so", "if", "then", "when",
+  "what", "which", "who", "how", "why", "where", "here", "there", "some",
+  "any", "all", "each", "every", "one", "two", "both", "either", "also",
+  "just", "only", "even", "still", "very", "more", "most", "less", "least",
+  "much", "many", "few", "into", "over", "under", "out", "up", "down",
+]);
+
+type EdgeClassification = "reject" | "boost" | "none";
+
+/**
+ * Classify a pair's edge set from the slow graph. Boost wins over
+ * reject when both types are present — false positives in "keep"
+ * are less harmful than false negatives, since a reviewer sees a
+ * slightly-wrong tension candidate rather than silently losing a
+ * real one.
+ */
+export function classifyPairByEdges(
+  edges: Set<string> | undefined,
+): EdgeClassification {
+  if (!edges || edges.size === 0) return "none";
+  for (const t of edges) {
+    if (BOOST_EDGE_TYPES.has(t)) return "boost";
+  }
+  for (const t of edges) {
+    if (REJECT_EDGE_TYPES.has(t)) return "reject";
+  }
+  return "none";
+}
+
+/**
+ * Tokenize a string for content-level Jaccard: lowercase, strip
+ * punctuation, drop stopwords and short tokens. Pure function so
+ * contentJaccard stays deterministic and testable.
+ */
+function tokenizeForJaccard(s: string | null | undefined): Set<string> {
+  if (!s) return new Set();
+  const tokens = s
+    .toLowerCase()
+    .replace(/[^a-z0-9\s]/g, " ")
+    .split(/\s+/)
+    .filter((t) => t.length >= 3 && !CONTENT_JACCARD_STOPWORDS.has(t));
+  return new Set(tokens);
+}
+
+/**
+ * Content-level Jaccard similarity. Returns 0 for empty or null input
+ * on either side, 1 for identical token sets, and fractional values
+ * in between. Used as a last-resort paraphrase rejector for tension
+ * candidates that the slow graph hasn't classified yet — the typical
+ * failure mode is two stances restating the same claim with different
+ * wordings, which content-level Jaccard on title + one_line + stance
+ * catches at >= 0.30 even when stance-only Jaccard caps out at 0.15.
+ */
+export function contentJaccard(
+  a: string | null | undefined,
+  b: string | null | undefined,
+): number {
+  const tokensA = tokenizeForJaccard(a);
+  const tokensB = tokenizeForJaccard(b);
+  if (tokensA.size === 0 || tokensB.size === 0) return 0;
+  let intersection = 0;
+  for (const t of tokensA) {
+    if (tokensB.has(t)) intersection++;
+  }
+  const union = tokensA.size + tokensB.size - intersection;
+  return intersection / union;
+}
+
+/**
+ * Load every connection edge into an in-memory Map keyed by canonical
+ * pair key (sorted ids joined with "|"), with the value being the set
+ * of edge types linking the pair in either direction. Called once per
+ * detectTensions() invocation — 28,659 rows at time of writing fit
+ * trivially in memory and replace O(candidates) per-pair SQL queries
+ * with a single table scan plus O(1) lookups.
+ */
+export function loadConnectionEdgeMap(
+  db: Database.Database,
+): Map<string, Set<string>> {
+  const map = new Map<string, Set<string>>();
+  let rows: Array<{ from_id: string; to_id: string; type: string }>;
+  try {
+    rows = db
+      .prepare("SELECT from_id, to_id, type FROM connections")
+      .all() as Array<{ from_id: string; to_id: string; type: string }>;
+  } catch {
+    // Tests or fresh databases may not have the connections table
+    // yet (it's created lazily by initDb). Treat "no table" the
+    // same as "no edges" and let every pair fall through to the
+    // downstream heuristics.
+    return map;
+  }
+  for (const row of rows) {
+    const key = [row.from_id, row.to_id].sort().join("|");
+    let set = map.get(key);
+    if (!set) {
+      set = new Set<string>();
+      map.set(key, set);
+    }
+    set.add(row.type);
+  }
+  return map;
+}
+
 /**
  * Score a candidate pair for stance polarity — how likely the pair
  * represents a genuine tension based on linguistic opposition signals.
@@ -1325,6 +1483,12 @@ export async function detectTensions(
     .all() as { id: string }[];
   const activeInsightIds = new Set(activeRows.map((r) => r.id));
 
+  // Pre-load the entire slow-graph connection table into memory once.
+  // Both the keyword-match auto-tension branch and the candidate-
+  // collecting branch consult this map on every pair, so doing
+  // per-pair SQL lookups inside the hot loop would be wasteful.
+  const edgeMap = loadConnectionEdgeMap(db);
+
   const embeddedRows = (
     db
       .prepare("SELECT id FROM embeddings WHERE id LIKE 'INS-%'")
@@ -1388,7 +1552,6 @@ export async function detectTensions(
 
   for (const row of embeddedRows) {
     const neighbors = neighborStmt.all(row.id) as NeighborRow[];
-
     const insightA = insightStmt.get(row.id) as
       | { id: string; one_line: string; file_path: string; title: string; stance: string | null }
       | undefined;
@@ -1416,6 +1579,13 @@ export async function detectTensions(
 
       const textA = `${insightA.title} ${insightA.one_line}`;
       const textB = `${insightB.title} ${insightB.one_line}`;
+
+      // Consult the slow graph once per pair and let that classification
+      // gate both the keyword-match auto-tension branch and the
+      // candidate-collecting branch. Authoritative signal (classify-
+      // edges.ts) beats any downstream lexical heuristic.
+      const edgeClass = classifyPairByEdges(edgeMap.get(pairKey));
+      if (edgeClass === "reject") continue;
 
       // Only run keyword detection on the inner threshold
       let keywordMatched = false;
@@ -1489,11 +1659,26 @@ export async function detectTensions(
       // Collect candidate pairs for Claude evaluation
       // Wider net (< CANDIDATE_THRESHOLD) that didn't match keywords
       if (!keywordMatched && !existingPairs.has(pairKey)) {
+        // Lexical paraphrase gate for pairs the slow graph hasn't
+        // classified yet. Only fires when edgeClass === "none" — if
+        // an edge exists it's already been handled upstream (boost)
+        // or the pair was rejected.
+        if (edgeClass === "none") {
+          const contentA = `${insightA.title} ${insightA.one_line} ${insightA.stance ?? ""}`;
+          const contentB = `${insightB.title} ${insightB.one_line} ${insightB.stance ?? ""}`;
+          if (contentJaccard(contentA, contentB) >= PARAPHRASE_JACCARD_THRESHOLD) {
+            continue;
+          }
+        }
+
         let polarityScore = scorePolaritySignals(insightA.stance, insightB.stance);
         // Optimal distance range bonus
         if (n.distance >= 0.22 && n.distance <= 0.33) polarityScore += 1;
         // Too-close penalty (likely near-duplicate)
         if (n.distance < 0.18) polarityScore -= 2;
+        // Authoritative tension signal — CHALLENGES/CONTRADICTS edges
+        // in the slow graph bubble the pair to the top of the queue.
+        if (edgeClass === "boost") polarityScore += CHALLENGES_BOOST;
 
         candidatePairs.push({
           pair_key: pairKey,
@@ -1541,13 +1726,57 @@ export async function detectTensions(
     } catch { /* ignore */ }
   }
 
-  // Drop any pre-existing candidates whose insights have since been archived.
-  // This is the post-dedup cleanup path: dedup passes archive insights after
-  // the candidates file was last written, leaving stale pairs that falsely
-  // surface as "tensions" in future reviews.
-  const liveExistingCandidates = existingCandidates.filter(
-    (c) => activeInsightIds.has(c.id_a) && activeInsightIds.has(c.id_b)
-  );
+  // Drop any pre-existing candidates that fail the current filters.
+  // Three rejection reasons (in order of authority):
+  //   1. Archived sides: dedup passes may have archived one or both
+  //      insights after the candidates file was last written.
+  //   2. Slow-graph reject edges: classify-edges.ts has since written
+  //      a SUPPORTS/REFINES/EXTENDS/TRANSFERS_TO/PREDICTED edge, so
+  //      the pair is authoritatively not a tension.
+  //   3. Lexical paraphrase (no-edge fall-through): content-level
+  //      Jaccard >= 0.30 over title + one_line + stance.
+  //
+  // Surviving existing candidates also get their polarity_score
+  // recomputed against the current edge map — so a CHALLENGES edge
+  // added after the candidate was first stored boosts it to the top
+  // of the queue immediately, without waiting for the pair to be
+  // regenerated from scratch.
+  const liveExistingCandidates: CandidatePair[] = [];
+  for (const c of existingCandidates) {
+    if (!activeInsightIds.has(c.id_a) || !activeInsightIds.has(c.id_b)) continue;
+
+    const edgeClass = classifyPairByEdges(edgeMap.get(c.pair_key));
+    if (edgeClass === "reject") continue;
+
+    if (edgeClass === "none") {
+      const rowA = insightStmt.get(c.id_a) as
+        | { id: string; one_line: string; file_path: string; title: string; stance: string | null }
+        | undefined;
+      const rowB = insightStmt.get(c.id_b) as
+        | { id: string; one_line: string; file_path: string; title: string; stance: string | null }
+        | undefined;
+      if (rowA && rowB) {
+        const contentA = `${rowA.title} ${rowA.one_line} ${rowA.stance ?? ""}`;
+        const contentB = `${rowB.title} ${rowB.one_line} ${rowB.stance ?? ""}`;
+        if (contentJaccard(contentA, contentB) >= PARAPHRASE_JACCARD_THRESHOLD) {
+          continue;
+        }
+      }
+    }
+
+    // Rescore in place so a CHALLENGES/CONTRADICTS edge added after
+    // the candidate was first stored takes effect on this very run.
+    // Distance bonus/penalty are preserved by reading c.content_distance.
+    let rescored = scorePolaritySignals(c.stance_a, c.stance_b);
+    if (c.content_distance >= 0.22 && c.content_distance <= 0.33) rescored += 1;
+    if (c.content_distance < 0.18) rescored -= 2;
+    if (edgeClass === "boost") rescored += CHALLENGES_BOOST;
+
+    liveExistingCandidates.push({
+      ...c,
+      polarity_score: Math.max(0, rescored),
+    });
+  }
 
   // Merge, dedup by pair_key, sort by polarity_score desc then distance asc
   const existingKeys = new Set(liveExistingCandidates.map((c: CandidatePair) => c.pair_key));

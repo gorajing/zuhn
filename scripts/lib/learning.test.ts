@@ -17,6 +17,9 @@ import {
   detectTransfers,
   detectTensions,
   writeFlagsFile,
+  classifyPairByEdges,
+  contentJaccard,
+  loadConnectionEdgeMap,
 } from "./learning";
 import type { LearningFlags, CandidatePair } from "./learning";
 import type { InsightData } from "../schemas/frontmatter";
@@ -1355,23 +1358,35 @@ describe("detectTensions — candidate-judge pipeline", () => {
   it("excludes archived insights from tension-candidates.json", async () => {
     // Two active insights and one archived insight, all semantically close.
     // Expectation: the archived insight must NEVER appear in any candidate pair.
+    // Titles/one_lines use deliberately disjoint vocabularies so the
+    // content-level Jaccard paraphrase gate (0.30 threshold) doesn't
+    // reject the active pair as a lexical near-duplicate.
     const active1 = makeInsight({
       id: "INS-260320-AAAA",
-      title: "Test insight alpha",
+      title: "Observability probe budgeting",
       status: "active",
-      resolutions: { one_line: "Alpha one line", standard: "Alpha standard" },
+      resolutions: {
+        one_line: "Distributed diagnostic costs under partial failure",
+        standard: "Observability standard",
+      },
     });
     const active2 = makeInsight({
       id: "INS-260320-BBBB",
-      title: "Test insight beta",
+      title: "Horizontal sharding throughput",
       status: "active",
-      resolutions: { one_line: "Beta one line", standard: "Beta standard" },
+      resolutions: {
+        one_line: "Burst traffic capacity via partition routing",
+        standard: "Sharding standard",
+      },
     });
     const archived = makeInsight({
       id: "INS-260320-CCCC",
-      title: "Test insight gamma",
+      title: "Replication consistency model",
       status: "superseded",
-      resolutions: { one_line: "Gamma one line", standard: "Gamma standard" },
+      resolutions: {
+        one_line: "Cross-datacenter write latency trade-offs",
+        standard: "Replication standard",
+      },
     });
 
     const pathA = await writeInsightFile(kbRoot, active1);
@@ -1406,23 +1421,34 @@ describe("detectTensions — candidate-judge pipeline", () => {
     // Simulates the post-dedup stale-candidate scenario: tension-candidates.json
     // already contains pairs involving insights that were later archived.
     // detectTensions must drop them during the merge step, not preserve them.
+    // Lexically distinct titles/one_lines to stay under the 0.30 Jaccard
+    // paraphrase-rejection threshold.
     const active1 = makeInsight({
       id: "INS-260320-AAAA",
-      title: "Active one",
+      title: "Observability probe budgeting",
       status: "active",
-      resolutions: { one_line: "Active one line A", standard: "A standard" },
+      resolutions: {
+        one_line: "Distributed diagnostic costs under partial failure",
+        standard: "A standard",
+      },
     });
     const active2 = makeInsight({
       id: "INS-260320-BBBB",
-      title: "Active two",
+      title: "Horizontal sharding throughput",
       status: "active",
-      resolutions: { one_line: "Active one line B", standard: "B standard" },
+      resolutions: {
+        one_line: "Burst traffic capacity via partition routing",
+        standard: "B standard",
+      },
     });
     const archived = makeInsight({
       id: "INS-260320-CCCC",
-      title: "Archived one",
+      title: "Replication consistency",
       status: "superseded",
-      resolutions: { one_line: "Archived one line", standard: "C standard" },
+      resolutions: {
+        one_line: "Cross-datacenter write latency",
+        standard: "C standard",
+      },
     });
 
     upsertInsight(db, active1, await writeInsightFile(kbRoot, active1));
@@ -1518,7 +1544,506 @@ describe("detectTensions — candidate-judge pipeline", () => {
       expect(new Set(keys).size).toBe(keys.length);
     }
   });
+
+  // ─── Slow-graph edge filter (candidate branch) ──────────────────
+
+  /**
+   * Insert a bidirectional edge of the given type into the test DB's
+   * connections table. The tension generator looks up pairs by
+   * canonical pair key, which is direction-agnostic, but writing both
+   * directions matches how classify-edges.ts actually writes rows.
+   */
+  function insertEdge(
+    fromId: string,
+    toId: string,
+    type: string,
+  ): void {
+    const stmt = db.prepare(
+      "INSERT INTO connections (from_id, to_id, type, created_at) VALUES (?, ?, ?, ?)"
+    );
+    const now = new Date().toISOString();
+    stmt.run(fromId, toId, type, now);
+    stmt.run(toId, fromId, type, now);
+  }
+
+  function readCandidates(): CandidatePair[] | null {
+    const candidatesPath = join(kbRoot, "meta", "tension-candidates.json");
+    if (!existsSync(candidatesPath)) return null;
+    const parsed = JSON.parse(
+      require("node:fs").readFileSync(candidatesPath, "utf-8")
+    );
+    return parsed.candidates as CandidatePair[];
+  }
+
+  /**
+   * Create a pair that is GUARANTEED to land in the tension-candidate
+   * pool (not the keyword-match auto-tension branch) regardless of
+   * the embedding's exact distance. Uses deliberately neutral wording
+   * that doesn't trigger any OPPOSING_PAIRS keyword match, so the
+   * candidate-collecting branch always runs. Needed because
+   * setupCandidatePair uses "automate" vs "manual" titles which can
+   * short-circuit the test through the keyword-match path and make
+   * edge-filter regressions pass vacuously.
+   */
+  async function setupNeutralCandidatePair(opts: {
+    idA?: string;
+    idB?: string;
+    titleA?: string;
+    titleB?: string;
+    oneLineA?: string;
+    oneLineB?: string;
+    stanceA?: string;
+    stanceB?: string;
+    noise?: number;
+  } = {}): Promise<{ idA: string; idB: string; pairKey: string }> {
+    const idA = opts.idA ?? "INS-260320-NEUA";
+    const idB = opts.idB ?? "INS-260320-NEUB";
+    // Content uses deliberately disjoint vocabularies so the pair's
+    // content-level Jaccard stays near zero — this keeps every edge-
+    // filter regression test honest (the pair always lands in the
+    // candidate pool unless a filter rejects it for the reason
+    // we're testing).
+    const insightA = makeInsight({
+      id: idA,
+      title:
+        opts.titleA ?? "Observability tradeoffs in distributed probe budgeting",
+      stance:
+        opts.stanceA ?? "distributed-observability-requires-probe-budgeting",
+      resolutions: {
+        one_line:
+          opts.oneLineA ??
+          "Cross-region latency amplifies diagnostic costs under partial failures",
+        standard: "Observability standard body",
+      },
+    });
+    const insightB = makeInsight({
+      id: idB,
+      title:
+        opts.titleB ?? "Horizontal sharding strategies under burst traffic",
+      stance:
+        opts.stanceB ?? "burst-traffic-needs-horizontal-sharding-analysis",
+      resolutions: {
+        one_line:
+          opts.oneLineB ??
+          "Capacity planning benefits from partition-aware routing tables",
+        standard: "Sharding standard body",
+      },
+    });
+    const pathA = await writeInsightFile(kbRoot, insightA);
+    const pathB = await writeInsightFile(kbRoot, insightB);
+    upsertInsight(db, insightA, pathA);
+    upsertInsight(db, insightB, pathB);
+
+    // noise 0.05 maps to sqlite-vec distance ≈ 0.28, squarely in the
+    // [0.22, 0.33] "optimal range" where the tension-generator grants
+    // a +1 distance bonus and no too-close penalty. This keeps the
+    // polarity scoring predictable: baseline 1 for a neutral pair,
+    // 6 when a CHALLENGES/CONTRADICTS edge bumps it by +5.
+    const baseEmb = syntheticEmbedding(500);
+    upsertEmbedding(db, idA, baseEmb);
+    upsertEmbedding(db, idB, similarEmbedding(baseEmb, opts.noise ?? 0.05));
+
+    return { idA, idB, pairKey: [idA, idB].sort().join("|") };
+  }
+
+  it("neutral pair lands in candidates without any edge (control)", async () => {
+    // Control test: verifies setupNeutralCandidatePair produces a pair
+    // that actually enters the candidate pool. If this test ever fails,
+    // every test below is compromised — they'd all pass vacuously
+    // because the pair is absent for unrelated reasons.
+    const { pairKey } = await setupNeutralCandidatePair();
+
+    await detectTensions(db, kbRoot);
+
+    const candidates = readCandidates();
+    expect(candidates?.find((c) => c.pair_key === pairKey)).toBeDefined();
+  });
+
+  it("rejects candidate pair with SUPPORTS edge (Costco obstacles regression)", async () => {
+    const { idA, idB, pairKey } = await setupNeutralCandidatePair();
+    insertEdge(idA, idB, "SUPPORTS");
+
+    await detectTensions(db, kbRoot);
+
+    const candidates = readCandidates();
+    expect(candidates?.find((c) => c.pair_key === pairKey)).toBeUndefined();
+  });
+
+  it("rejects candidate pair with REFINES edge (romantic-love regression)", async () => {
+    const { idA, idB, pairKey } = await setupNeutralCandidatePair();
+    insertEdge(idA, idB, "REFINES");
+
+    await detectTensions(db, kbRoot);
+
+    const candidates = readCandidates();
+    expect(candidates?.find((c) => c.pair_key === pairKey)).toBeUndefined();
+  });
+
+  it("rejects candidate pair with EXTENDS edge (byproducts regression)", async () => {
+    const { idA, idB, pairKey } = await setupNeutralCandidatePair();
+    insertEdge(idA, idB, "EXTENDS");
+
+    await detectTensions(db, kbRoot);
+
+    const candidates = readCandidates();
+    expect(candidates?.find((c) => c.pair_key === pairKey)).toBeUndefined();
+  });
+
+  it("rejects candidate pair with TRANSFERS_TO edge", async () => {
+    const { idA, idB, pairKey } = await setupNeutralCandidatePair();
+    insertEdge(idA, idB, "TRANSFERS_TO");
+
+    await detectTensions(db, kbRoot);
+
+    const candidates = readCandidates();
+    expect(candidates?.find((c) => c.pair_key === pairKey)).toBeUndefined();
+  });
+
+  it("boosts candidate pair with CHALLENGES edge (E2F1|E2F2 regression)", async () => {
+    const { idA, idB, pairKey } = await setupNeutralCandidatePair();
+    insertEdge(idA, idB, "CHALLENGES");
+
+    await detectTensions(db, kbRoot);
+
+    const candidates = readCandidates();
+    const found = candidates?.find((c) => c.pair_key === pairKey);
+    expect(found).toBeDefined();
+    // A CHALLENGES edge in the slow graph is the strongest available
+    // tension signal — the pair must float to the top of the review
+    // queue via a large score bonus. The implementation uses +5; the
+    // test pins a lower bound so future tuning stays honest.
+    expect(found!.polarity_score).toBeGreaterThanOrEqual(5);
+  });
+
+  it("boosts candidate pair with CONTRADICTS edge", async () => {
+    const { idA, idB, pairKey } = await setupNeutralCandidatePair();
+    insertEdge(idA, idB, "CONTRADICTS");
+
+    await detectTensions(db, kbRoot);
+
+    const candidates = readCandidates();
+    const found = candidates?.find((c) => c.pair_key === pairKey);
+    expect(found).toBeDefined();
+    expect(found!.polarity_score).toBeGreaterThanOrEqual(5);
+  });
+
+  // ─── Lexical paraphrase gate (no-edge fall-through) ─────────────
+
+  it("rejects no-edge pair with content Jaccard >= 0.30 (wage paraphrase regression)", async () => {
+    // Both insights restate "above-market compensation produces ROI-positive
+    // returns via productivity gains" — clear paraphrase at the content
+    // level. No slow-graph edge (classify-edges.ts hasn't run on them),
+    // so the Jaccard gate is the last line of defense.
+    const insightA = makeInsight({
+      id: "INS-260320-WAGE",
+      title: "Above-market compensation produces productivity ROI",
+      stance:
+        "Above-market compensation in labor-intensive businesses produces productivity ROI when measured against turnover costs and customer experience outcomes",
+      resolutions: {
+        one_line:
+          "Paying workers above market rate generates productivity gains and retention that offset higher labor costs",
+        standard: "wage paraphrase standard",
+      },
+    });
+    const insightB = makeInsight({
+      id: "INS-260320-COMP",
+      title: "Paying workers above market rate is profit-maximizing productivity ROI",
+      stance:
+        "Paying workers significantly above market rate generates productivity gains and retention that offset higher labor costs especially in high-throughput operations",
+      resolutions: {
+        one_line:
+          "Above-market compensation is a profit-maximizing strategy because productivity gains outweigh the wage premium",
+        standard: "wage paraphrase standard B",
+      },
+    });
+    const pathA = await writeInsightFile(kbRoot, insightA);
+    const pathB = await writeInsightFile(kbRoot, insightB);
+    upsertInsight(db, insightA, pathA);
+    upsertInsight(db, insightB, pathB);
+
+    const baseEmb = syntheticEmbedding(100);
+    upsertEmbedding(db, "INS-260320-WAGE", baseEmb);
+    upsertEmbedding(db, "INS-260320-COMP", similarEmbedding(baseEmb, 0.01));
+
+    await detectTensions(db, kbRoot);
+
+    const candidates = readCandidates();
+    const pairKey = ["INS-260320-WAGE", "INS-260320-COMP"].sort().join("|");
+    expect(candidates?.find((c) => c.pair_key === pairKey)).toBeUndefined();
+  });
+
+  it("keeps no-edge pair with content Jaccard < 0.30 (legitimate candidate)", async () => {
+    // Neutral pair with distinct alpha/beta titles — these have a
+    // few shared stopwords ("framework", "scaling") but pass well
+    // below the 0.30 paraphrase threshold. No connection edge
+    // inserted, so the pair falls through both filters to the
+    // existing polarity scorer.
+    const { pairKey } = await setupNeutralCandidatePair();
+
+    await detectTensions(db, kbRoot);
+
+    const candidates = readCandidates();
+    expect(candidates?.find((c) => c.pair_key === pairKey)).toBeDefined();
+  });
+
+  // ─── Keyword-match auto-tension branch gating ──────────────────
+
+  /**
+   * Create a pair whose content triggers an OPPOSING_PAIRS keyword
+   * match AND whose embeddings are close enough for keyword detection
+   * to run (distance below the 0.25 DISTANCE_THRESHOLD). Used only by
+   * the two keyword-match branch tests below — mirrors setupCandidatePair
+   * but with much closer embeddings so we enter the auto-tension path
+   * instead of the candidate-collecting path.
+   */
+  async function setupKeywordMatchPair(): Promise<void> {
+    const insightA = makeInsight({
+      id: "INS-260320-KWMA",
+      title: "Automate everything you can",
+      stance: "Automation is the dominant lever for scaling throughput",
+      resolutions: {
+        one_line: "Automate repetitive tasks to free up human attention",
+        standard: "Automation standard",
+      },
+    });
+    const insightB = makeInsight({
+      id: "INS-260320-KWMB",
+      title: "Manual review is essential for quality",
+      stance: "Human manual inspection catches what automation misses",
+      resolutions: {
+        one_line: "Manual review catches errors that automated systems miss",
+        standard: "Manual review standard",
+      },
+    });
+    const pathA = await writeInsightFile(kbRoot, insightA);
+    const pathB = await writeInsightFile(kbRoot, insightB);
+    upsertInsight(db, insightA, pathA);
+    upsertInsight(db, insightB, pathB);
+
+    // Very close embeddings so n.distance falls below DISTANCE_THRESHOLD
+    // (0.25) and the keyword-match branch runs instead of the
+    // candidate-collecting branch.
+    const baseEmb = syntheticEmbedding(200);
+    upsertEmbedding(db, "INS-260320-KWMA", baseEmb);
+    upsertEmbedding(db, "INS-260320-KWMB", similarEmbedding(baseEmb, 0.0001));
+  }
+
+  it("keyword-match pair with SUPPORTS edge does not create auto tension", async () => {
+    // This is the user-requested regression: an opposing-keyword
+    // match ("automate" vs "manual") must not manufacture a tension
+    // file if classify-edges.ts has already said the pair is a
+    // SUPPORTS relationship. Authoritative signal beats lexical
+    // heuristic.
+    await setupKeywordMatchPair();
+    insertEdge("INS-260320-KWMA", "INS-260320-KWMB", "SUPPORTS");
+
+    await detectTensions(db, kbRoot);
+
+    // No tension file should have been created for this pair.
+    const tensionsDir = join(kbRoot, "tensions");
+    const filesAfter = existsSync(tensionsDir)
+      ? (await import("node:fs/promises")).readdir(tensionsDir)
+      : Promise.resolve([]);
+    const files = await filesAfter;
+    const matchingFiles = files.filter(
+      (f) => f.includes("automate") || f.includes("manual")
+    );
+    expect(matchingFiles).toHaveLength(0);
+
+    // And the pair should also NOT appear in the candidate pool —
+    // the reject is absolute.
+    const candidates = readCandidates();
+    const pairKey = ["INS-260320-KWMA", "INS-260320-KWMB"].sort().join("|");
+    expect(candidates?.find((c) => c.pair_key === pairKey)).toBeUndefined();
+  });
+
+  it("keyword-match pair with CHALLENGES edge still creates auto tension", async () => {
+    // The converse of the previous test: an opposing-keyword match
+    // with a CHALLENGES edge in the slow graph is the strongest
+    // possible tension signal (both heuristics agree). The
+    // keyword-match branch should fire normally and create a
+    // tension file.
+    await setupKeywordMatchPair();
+    insertEdge("INS-260320-KWMA", "INS-260320-KWMB", "CHALLENGES");
+
+    await detectTensions(db, kbRoot);
+
+    const tensionsDir = join(kbRoot, "tensions");
+    expect(existsSync(tensionsDir)).toBe(true);
+    const files = await (await import("node:fs/promises")).readdir(tensionsDir);
+    // The keyword-match branch writes a file named after the two
+    // titles; we check only that something got written for this pair.
+    const matchingFiles = files.filter(
+      (f) => f.includes("automate") || f.includes("manual")
+    );
+    expect(matchingFiles.length).toBeGreaterThan(0);
+  });
 });
 
-// ─── Mechanism 8 tests moved to empirical.test.ts for isolation ─────
-// (Tests were contaminated by shared module state in the same file)
+// ─── Polarity rework: pure helpers ──────────────────────────────────
+
+describe("classifyPairByEdges", () => {
+  // The tension-candidate generator used to ignore the slow graph
+  // entirely, so pairs that classify-edges.ts had already marked as
+  // SUPPORTS / REFINES / EXTENDS / TRANSFERS_TO / PREDICTED kept
+  // surfacing as ghost "tension" candidates. This helper centralizes
+  // the edge-class decision so both the candidate-collecting branch
+  // and the keyword-match auto-tension branch share one filter.
+
+  it("returns 'none' when the edge set is undefined", () => {
+    expect(classifyPairByEdges(undefined)).toBe("none");
+  });
+
+  it("returns 'none' when the edge set is empty", () => {
+    expect(classifyPairByEdges(new Set())).toBe("none");
+  });
+
+  // REGRESSION: Costco obstacles family — INS-260403-137D and
+  // INS-260404-B2FB have bidirectional SUPPORTS edges in the slow
+  // graph yet surfaced as polarity-1 tension candidates for weeks.
+  it("returns 'reject' for SUPPORTS (Costco obstacles regression)", () => {
+    expect(classifyPairByEdges(new Set(["SUPPORTS"]))).toBe("reject");
+  });
+
+  // REGRESSION: Romantic-love paraphrase — INS-260330-10AA and
+  // INS-260330-17C3 have bidirectional REFINES edges.
+  it("returns 'reject' for REFINES (romantic-love regression)", () => {
+    expect(classifyPairByEdges(new Set(["REFINES"]))).toBe("reject");
+  });
+
+  // REGRESSION: Byproducts paraphrase — INS-260330-C607 and
+  // INS-260404-8050 have bidirectional EXTENDS edges.
+  it("returns 'reject' for EXTENDS (byproducts regression)", () => {
+    expect(classifyPairByEdges(new Set(["EXTENDS"]))).toBe("reject");
+  });
+
+  it("returns 'reject' for TRANSFERS_TO", () => {
+    expect(classifyPairByEdges(new Set(["TRANSFERS_TO"]))).toBe("reject");
+  });
+
+  it("returns 'reject' for PREDICTED", () => {
+    expect(classifyPairByEdges(new Set(["PREDICTED"]))).toBe("reject");
+  });
+
+  // REGRESSION: The one real tension hiding in today's queue —
+  // INS-260327-E2F1 and INS-260327-E2F2 have a CHALLENGES edge and
+  // should be surfaced with a boost, not lost in the noise.
+  it("returns 'boost' for CHALLENGES (E2F1|E2F2 regression)", () => {
+    expect(classifyPairByEdges(new Set(["CHALLENGES"]))).toBe("boost");
+  });
+
+  it("returns 'boost' for CONTRADICTS", () => {
+    expect(classifyPairByEdges(new Set(["CONTRADICTS"]))).toBe("boost");
+  });
+
+  it("boost wins when a pair carries both reject and boost edges", () => {
+    // Data-quality edge case: if classify-edges.ts wrote both a
+    // SUPPORTS and a CHALLENGES edge for the same pair (unusual but
+    // possible), the tension-positive signal dominates. Rationale:
+    // false positives in "keep" are less harmful than false negatives,
+    // because a reviewer sees a slightly-wrong tension candidate
+    // rather than silently losing a real one.
+    expect(classifyPairByEdges(new Set(["SUPPORTS", "CHALLENGES"]))).toBe("boost");
+    expect(classifyPairByEdges(new Set(["REFINES", "CONTRADICTS"]))).toBe("boost");
+  });
+
+  it("returns 'reject' when the set contains only reject types", () => {
+    expect(classifyPairByEdges(new Set(["SUPPORTS", "REFINES", "EXTENDS"]))).toBe("reject");
+  });
+
+  it("returns 'none' for unknown edge types", () => {
+    // Defensive: if classify-edges.ts adds a new type we don't know
+    // about, don't accidentally reject or boost — let it fall through
+    // to the Jaccard and polarity-score path.
+    expect(classifyPairByEdges(new Set(["UNKNOWN_TYPE"]))).toBe("none");
+  });
+});
+
+describe("contentJaccard", () => {
+  // Stance-only Jaccard turned out to be too weak for Zuhn's content —
+  // stances are written with rewritten phrasing every time, so lexical
+  // overlap on stances alone caps out around 0.30 even for clear
+  // paraphrases. Running Jaccard over title + one_line + stance
+  // concatenated produces a 0.27-wide gap between legitimate tension
+  // candidates (<=0.08 in today's calibration sample) and paraphrases
+  // (>=0.35). The 0.30 threshold below sits cleanly in that gap.
+
+  it("returns 0 for empty strings", () => {
+    expect(contentJaccard("", "")).toBe(0);
+  });
+
+  it("returns 0 when one side is empty", () => {
+    expect(contentJaccard("foo bar baz", "")).toBe(0);
+  });
+
+  it("returns 1 for identical strings", () => {
+    expect(contentJaccard("foo bar baz quux", "foo bar baz quux")).toBe(1);
+  });
+
+  it("is case-insensitive", () => {
+    const a = "Paying Workers Above Market Rate";
+    const b = "paying workers above market rate";
+    expect(contentJaccard(a, b)).toBe(1);
+  });
+
+  it("drops common stopwords before computing overlap", () => {
+    // "the", "is", "a" are stopwords; only "cat" and "animal" count.
+    // Both sides share both content words → jaccard = 1.
+    expect(contentJaccard("the cat is a animal", "a cat is the animal")).toBe(1);
+  });
+
+  it("drops short tokens below length 3", () => {
+    // After dropping short tokens, both reduce to {alpha, beta}.
+    expect(contentJaccard("alpha beta xy z", "alpha beta")).toBe(1);
+  });
+
+  it("is symmetric", () => {
+    const a = "customer retention and productivity gains";
+    const b = "productivity improvements from customer loyalty";
+    expect(contentJaccard(a, b)).toBe(contentJaccard(b, a));
+  });
+
+  // REGRESSION: Wage-productivity pair (INS-260405-47FD + INS-260404-8A1D).
+  // No slow-graph edge, paraphrases each other on the Costco wage claim.
+  // Test strings are the actual title + one_line + stance copied
+  // verbatim from brain.db. Measured content-level Jaccard: 0.345.
+  it("catches wage-productivity paraphrase above 0.30 (no-edge regression)", () => {
+    const a =
+      "Paying workers double the retail average produces three times the productivity, making high wages a financial advantage rather than a cost Costco pays $21/hour average — double the U.S. retail average — and gets employees three times more productive in return. Above-market compensation in labor-intensive businesses is often ROI-positive when measured against productivity, turnover, and customer experience outcomes";
+    const b =
+      "Above-market employee compensation can be a profit-maximizing strategy at scale Costco pays $21/hour (double U.S. retail average) and gets employees three times more productive than competitors. Paying workers significantly above market rate generates productivity gains and retention that more than offset the higher labor costs, especially in high-throughput operations.";
+    expect(contentJaccard(a, b)).toBeGreaterThanOrEqual(0.3);
+  });
+
+  // REGRESSION: Peer-groups paraphrase (INS-260403-5216 + INS-260403-1228).
+  // Two restatements of "you need colleagues who can distinguish ugly
+  // ducklings from baby swans." Measured 0.408 on full DB content.
+  it("catches peer-groups paraphrase above 0.30 (no-edge regression)", () => {
+    const a =
+      "Effective creative peer groups require diagnostic skill, not just encouragement The right creative peers aren't cheerleaders but fellow practitioners who can tell whether early ugly work has genuine promise. Surrounding yourself with unconditionally encouraging people is counterproductive for ambitious projects; you need colleagues who can distinguish an ugly duckling from a baby swan, which requires them to be doing similar work themselves.";
+    const b =
+      "You need peers who can distinguish ugly ducklings from baby swans, not cheerleaders The right creative peers aren't cheerleaders but fellow practitioners who can accurately judge the potential of ugly early work. Surrounding yourself with indiscriminate encouragers is counterproductive — you need colleagues working on similar ambitious projects who can genuinely judge early-stage potential";
+    expect(contentJaccard(a, b)).toBeGreaterThanOrEqual(0.3);
+  });
+
+  // REGRESSION: Ambitious-projects paraphrase (INS-260403-4B81 + INS-260403-FE41).
+  // Two restatements of "the bottleneck is emotional tolerance for
+  // ugly early output." Measured 0.390 on full DB content.
+  it("catches ambitious-projects paraphrase above 0.30 (no-edge regression)", () => {
+    const a =
+      "Ambitious projects have a mandatory ugly phase that filters out most people Great projects universally pass through a phase where they look embarrassingly bad, and most people quit before pushing through it. The primary bottleneck to great work is not ability but emotional tolerance for producing low-quality early output";
+    const b =
+      "Early work on ambitious projects looks worse than it is — misjudging it kills most great work before it starts Most great projects go through a phase where they look terrible even to their creators, and most people quit before pushing through it. The primary bottleneck to great creative output is not talent or resources but the psychological inability to tolerate the ugly early phase of ambitious projects.";
+    expect(contentJaccard(a, b)).toBeGreaterThanOrEqual(0.3);
+  });
+
+  // Legitimate tension candidates from today's queue that should
+  // pass the 0.30 threshold — these are unrelated-topic pairs the
+  // embedding happened to cluster together. Their Jaccard was
+  // 0.00-0.08 in calibration.
+  it("keeps unrelated tension candidates below 0.15", () => {
+    const a = "Centralized driver architecture prevents spreadsheet fragility";
+    const b = "Survivorship bias makes startup failure patterns invisible";
+    expect(contentJaccard(a, b)).toBeLessThan(0.15);
+  });
+});
