@@ -52,7 +52,6 @@ related:
   - PRI-260323-DA09
   - INS-260323-AEA7
   - INS-260410-81DC
-  - INS-260330-FEDD
 stance: >-
   The Large Hadron Collider discovered the Higgs boson (confirming a 50-year-old
   prediction) but failed to find supersymmetry, becoming a cautionary ...

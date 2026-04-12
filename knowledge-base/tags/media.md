@@ -1,5 +1,8 @@
 # Tag: media
 
+- `INS-260404-8321` When capital is abundant, VCs who offer distribution and media reach win competitive allocations over those who only offer money.
+- `INS-260323-04D4` El-Kurd shows that media coverage of geopolitical conflicts misleads not through fabrication but through systematic omission of essential context.
+- `INS-260323-A48E` American media shows Americans something fundamentally different from what the rest of the world sees — this sustained asymmetry creates structural misunderstanding of conflicts.
 - `INS-260405-5702` Feed algorithms don't just show different opinions — they construct different facts for different population clusters.
 - `INS-260330-3260` Saying 'Hitler was bad' doesn't get algorithmic boost, but novel contrarian revisionism does — creating structural incentives for misinformation.
 - `INS-260330-8B24` Direct experience consistently overrides and corrects media-constructed mental models of people and places.
@@ -23,6 +26,3 @@
 - `INS-260323-7EDF` Pakman explicitly structures his show as a content pyramid — serious deep dives at the base, entertaining segments on top — deliberately adapting the ratio to each platform.
 - `INS-260321-C4CD` A podcast episode is both a distribution mechanism AND a credibility-building mechanism — it operates on two axes at once. Most tools do one thing. Media does both, which is why its returns feel disproportionate.
 - `INS-260329-AA30` If your startup idea came from a podcast or VC content, it is by definition not unique — because millions of other people consumed the same content.
-- `INS-260323-04D4` El-Kurd shows that media coverage of geopolitical conflicts misleads not through fabrication but through systematic omission of essential context.
-- `INS-260323-A48E` American media shows Americans something fundamentally different from what the rest of the world sees — this sustained asymmetry creates structural misunderstanding of conflicts.
-- `INS-260404-8321` When capital is abundant, VCs who offer distribution and media reach win competitive allocations over those who only offer money.

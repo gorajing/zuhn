@@ -1,6 +1,6 @@
 # Domain: startups
 
-> 4419 insights across 54 topics
+> 4428 insights across 55 topics
 
 ## Topics
 
@@ -14,7 +14,7 @@
 | community-building | 7 | A 25% hard cap for underrepresented categories lets curators correct homogeneity without destroying participant trust in merit-based selection. |
 | company-culture | 7 | Rentech's location in East Setauket — a wooded Long Island town of 10,000 — is a load-bearing cultural feature, not an accident: employees don't grab drinks with Two Sigma counterparts because those counterparts aren't within reach. |
 | competition | 4 | Uber lost US food delivery to doordash because Uber's urban-fast-cheap identity made them see the suburbs as someone else's market—but suburbs are where the food delivery money actually is. |
-| competitive-strategy | 577 | 3D portfolio websites signal elite skill to non-technical evaluators while requiring only beginner-level Three.js knowledge. |
+| competitive-strategy | 578 | 3D portfolio websites signal elite skill to non-technical evaluators while requiring only beginner-level Three.js knowledge. |
 | content-strategy | 70 | Rogan gained 2 million subscribers during his cancellation attempt because the coordinated media attack inadvertently proved his independence from institutional control. |
 | customer-discovery | 4 | You cannot identify gains until you've mapped the expectation floor — everything below it is pain, everything at it is neutral. |
 | decision-making | 5 | When you bet the company, you're not gambling — you're pulling every future risk into the present so the outcome is already determined before the bet. |
@@ -50,10 +50,11 @@
 | product-market-fit | 10 | AI PMF is a continuous recalibration process, not a one-time validation milestone. |
 | product-strategy | 86 | Juicero raised $120M for technology that was immediately undermined when customers realized the same outcome was achievable by hand. |
 | quality | 13 | Attempting exceptional work is a bargain because most people self-select out of the competition due to intimidation alone. |
+| resilience | 1 | The humans who survive a rogue Earth scenario are those who switched from solar dependence to geothermal and nuclear — internal energy sources unaffected by losing the sun. |
 | sales | 187 | Send 100 personalized outreach messages daily using a compliment-plus-positioning formula to guarantee your first five customers through pure volume. |
-| scaling | 178 | Startups need 2-3x longer than founders expect to validate their market, and 70% scale prematurely — largely explaining the 90% failure rate. |
+| scaling | 181 | Startups need 2-3x longer than founders expect to validate their market, and 70% scale prematurely — largely explaining the 90% failure rate. |
 | startup-ecosystem | 6 | Entrepreneurship programs designed around employment outcomes rather than viable business models systematically fail both goals. |
-| strategy | 249 | The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples. |
+| strategy | 253 | The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples. |
 | team-building | 1 | Searching for a technical cofounder before validating demand is backwards — demand attracts technical talent. |
 | timing | 66 | Enterprise SaaS IPOs from 2012 outperformed expectations by solving deep operational pain points with recurring revenue models. |
 | unit-economics | 5 | Every new store had to clear a 2:1 sales-to-investment ratio and 20% operating margin — no exceptions, for decades. |

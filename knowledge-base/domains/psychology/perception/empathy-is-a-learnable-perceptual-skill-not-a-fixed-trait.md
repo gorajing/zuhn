@@ -49,8 +49,8 @@ related:
   - INS-260403-7639
   - INS-260404-0519
   - INS-260323-F853
+  - INS-260412-66F5
   - INS-260323-46B2
-  - INS-260330-D5DD
   - INS-260327-9447
 stance: >-
   For neurodivergent people who bypassed the social self stage, empathy can be

@@ -67,6 +67,7 @@ related:
   - INS-260329-F2E1
   - PRI-260406-0A40
   - PRI-260406-F72A
+  - INS-260412-DF7B
 ---
 Western macroeconomists trained in post-WWII US economics treat efficient capital allocation as the norm, but Kroeber argues this is an 'efficiency fallacy.' China's ability to mobilize domestic savings and throw them uncoordinatedly at many problems is precisely what enabled 10% growth for 20 years — unprecedented in economic history. Had China demanded proven ROI before lending, it would have lent less, grown less, and had more inequality because efficient capital never reaches geographically disadvantaged regions.
 

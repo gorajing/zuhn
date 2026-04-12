@@ -55,6 +55,8 @@ related:
   - INS-260325-33DA
   - INS-260403-1F58
   - INS-260325-916B
+  - INS-260412-66F5
+  - INS-260412-3201
 stance: We cannot prove consciousness in anyone but ourselves
 evidence:
   - id: INS-260325-33DA

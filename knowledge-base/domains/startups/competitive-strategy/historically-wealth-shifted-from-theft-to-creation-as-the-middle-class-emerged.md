@@ -53,9 +53,9 @@ related:
   - INS-260329-BF96
   - INS-260330-318C
   - INS-260403-830F
+  - INS-260412-C921
   - INS-260402-8C0E
   - INS-260328-68BA
-  - PRI-260403-2E59
 ---
 Before the middle class emerged in 10th-11th century European towns, the only two classes were warrior aristocracy and serfs. Serfs had no incentive to create wealth because masters took everything. The middle class changed this by gaining enough independence to keep what they created. But wealth creation didn't definitively replace corruption until the Industrial Revolution, when 'technology had made it possible to create wealth faster than you could steal it.'
 

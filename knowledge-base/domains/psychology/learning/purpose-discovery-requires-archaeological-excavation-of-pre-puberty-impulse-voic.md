@@ -50,11 +50,11 @@ stance: >-
   before age 10-12, because puberty fundamentally rewires the brain and
   contaminates self-knowledge with social comparison.
 related:
+  - INS-260412-DD1D
   - INS-260403-BDE0
   - INS-260409-A62B
   - INS-260404-375E
   - INS-260329-20E8
-  - INS-260405-FE57
 evidence:
   - id: INS-260329-20E8
     type: CHALLENGES

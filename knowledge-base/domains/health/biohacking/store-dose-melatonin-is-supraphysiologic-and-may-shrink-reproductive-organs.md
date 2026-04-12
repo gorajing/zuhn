@@ -55,6 +55,7 @@ related:
   - INS-260409-32E6
   - INS-260330-54A3
   - INS-260327-C150
+  - INS-260412-737B
 ---
 Melatonin supplements on store shelves contain doses far exceeding what the body naturally produces. Animal model evidence shows mega-dose melatonin causes gonadal shrinkage -- a concerning hormonal effect. The better approach is supporting natural melatonin production by avoiding blue light at night, which allows the pineal gland to produce appropriate physiologic amounts.
 

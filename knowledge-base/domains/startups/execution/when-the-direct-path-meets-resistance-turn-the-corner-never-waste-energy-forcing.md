@@ -53,6 +53,7 @@ related:
   - INS-260323-0827
   - INS-260323-BEE6
   - INS-260330-2B5F
+  - INS-260412-7728
 stance: 'GSP teaches that when a takedown meets resistance, you don''t force it'
 evidence:
   - id: INS-260323-C1B2

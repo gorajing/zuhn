@@ -1,6 +1,6 @@
 # Topic: scaling
 
-> 178 insights
+> 181 insights
 
 - `INS-260403-49FB` [high] Startups need 2-3x longer than founders expect to validate their market, and 70% scale prematurely — largely explaining the 90% failure rate.
 - `INS-260403-AA20` [high] The 996 grind culture trades short-term velocity for compounding burnout costs that destroy long-term startup viability.
@@ -102,6 +102,7 @@
 - `INS-260330-F08F` [high] Small teams are powerful primarily because they make each person's contribution visible and measurable, not just because they move faster.
 - `INS-260323-5341` [high] Moddoc's senior care team of just 2 people reached 50M won monthly revenue in under 4 months, while reducing overall headcount tripled business revenue.
 - `INS-260403-4D1E` [high] Lenny's 1M-subscriber business runs with zero full-time employees, using specialized freelancers for editing, production, and community management.
+- `INS-260412-5684` [high] Reliable surplus enabled specialization, and specialization — not resources alone — drove civilization's exponential progress.
 - `INS-260403-7B60` [high] Palo Alto's rising costs pushed the active startup center toward Mountain View, a pattern that repeats in every tech hub.
 - `INS-260404-1F1B` [high] Photosynthesis produced oxygen as a 'useless byproduct' that then poisoned its own core enzyme, forcing plants into permanent damage-control mode.
 - `INS-260330-696D` [high] Agriculture's key unlock was producing surplus calories that freed people to specialize, creating a compounding flywheel of efficiency.
@@ -146,6 +147,7 @@
 - `INS-260403-FD6A` [medium] In lean teams, culture (shared values + async transparency + clear goals) must do the coordination work that hierarchy handles in larger organizations.
 - `INS-260403-6061` [medium] Innovation culture transformation at scale takes 3-5 years with committed leadership; without leadership commitment, it takes forever.
 - `INS-260330-1F41` [medium] Banning Slack raises communication friction intentionally, keeping teams small, preventing asymmetric time-wasting, and protecting creative deep work.
+- `INS-260412-DF7B` [medium] Civilizational and organizational scale correlate most reliably with total energy/resource throughput.
 - `INS-260412-8BDB` [medium] Every second, 60,000 stars pass humanity's cosmological horizon permanently — delay in expansion means permanently smaller maximum reach.
 - `INS-260403-7825` [medium] Hyperliquid's 11-person team generating massive revenue demonstrates that AI-era automation can replace headcount with code, concentrating both value and risk.
 - `INS-260403-049F` [medium] Creandum's Benchmark-inspired equal carry and up-or-out model has retained 6 of 9 current partners who joined as junior staff.
@@ -180,3 +182,4 @@
 - `INS-260403-AC9F` [medium] The most dangerous period for startups is not the search for PMF but the growth plateau that follows 3-5 years after finding it.
 - `INS-260404-38A6` [medium] Different timezones enable continuous progress — offshore teams advance work overnight for morning review — when handoff planning is deliberate.
 - `INS-260323-2C70` [medium] Pincus hired anyone who said they knew PHP, kept less than half, and found gems like an 18-year-old savant living on his mom's couch — the early-stage hiring perfection myth costs more speed than it saves in quality.
+- `INS-260412-578D` [medium] Each ocean depth zone has completely different light, pressure, food sources, and survival strategies — no single adaptation works across all layers.

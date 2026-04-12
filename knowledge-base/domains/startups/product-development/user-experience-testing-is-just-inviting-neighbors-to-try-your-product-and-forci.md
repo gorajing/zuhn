@@ -52,9 +52,9 @@ resolutions:
 related:
   - INS-260323-6043
   - INS-260410-0263
+  - INS-260412-7728
   - INS-260323-AB5F
   - INS-260403-14E0
-  - INS-260329-EBCA
 stance: >-
   Before ZZT shipped, Sweeney invited neighbors of all ages to play it while
   forcing himself not to explain anything

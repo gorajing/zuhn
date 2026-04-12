@@ -1,6 +1,6 @@
 # Topic: nutrition
 
-> 270 insights
+> 273 insights
 
 - `INS-260327-9E9D` [high] 93 percent of Americans are metabolically unhealthy making metabolic dysfunction the root of most chronic disease
 - `INS-260330-3DC8` [high] Alcohol kills good gut bacteria while allowing bad bacteria to escape through a leaky gut wall, triggering liver inflammation that reaches the brain and paradoxically increases the desire to drink more.
@@ -45,6 +45,7 @@
 - `INS-260327-2437` [high] Products marketed as healthy at Trader Joe's and similar stores frequently contain hidden seed oils, processed ingredients, and misleading labels that contradict their health positioning.
 - `INS-260325-61A7` [high] Heart palpitations are usually potassium or magnesium deficiency — supplementation resolves them faster than cardiac workups.
 - `INS-260330-1078` [high] High-intensity exercise burns glycogen during activity but triggers elevated fat oxidation for up to 24 hours afterward, making post-exercise metabolism the bigger lever for fat loss.
+- `INS-260412-737B` [high] You'd need ~5,000 liters of milk to match the hormone dose in a single birth control pill, and most would be destroyed by digestion anyway.
 - `INS-260325-A926` [high] Hypertonic salt water draws out sinus and lung mucus through osmosis while killing pathogens — cheap and immediately effective.
 - `INS-260327-8ED1` [high] In-N-Out uses seed oils for cooking despite marketing a fresh quality image
 - `INS-260325-F8D2` [high] Industrial starch hides behind zero sugar labels while causing worse blood sugar spikes than glucose itself.
@@ -63,6 +64,7 @@
 - `INS-260327-8431` [high] Medical schools train doctors in pharmaceutical symptom management with virtually no nutrition education, making them structurally unable to address the dietary root causes of most chronic disease.
 - `INS-260325-81BD` [high] Metabolic disease is cells starving amid abundant fuel because insulin resistance locks the door to energy access.
 - `INS-260330-C4D8` [high] Metabolic flexibility means efficiently switching between carb and fat fuels on demand, not maximizing fat-burning capacity.
+- `INS-260412-5A41` [high] Meta-analyses find no cancer or cardiovascular risk from moderate daily milk consumption (100-250ml).
 - `INS-260327-1A07` [high] Modern commercial bread contains glyphosate residues, bromate, seed oils, and added sugars beyond just gluten
 - `INS-260325-8AB8` [high] Most bottled water contains microplastics from packaging — only glass spring water or reverse osmosis is genuinely clean.
 - `INS-260327-44CC` [high] Most commercial beverages contain harmful additives: sodas have HFCS, energy drinks have artificial ingredients, pasteurized juices have added sugars, and tap water contains fluoride and chlorine byproducts.
@@ -77,6 +79,7 @@
 - `INS-260325-7C72` [high] Normal lab ranges are population averages including sick people — being 'normal' does not mean healthy or optimal.
 - `INS-260327-B2E3` [high] Sustainable weight loss comes from eating nutrient-dense whole foods that provide natural satiety, not from counting calories in nutrient-poor processed foods.
 - `INS-260325-A61B` [high] Buy organic only for the dirty dozen high-pesticide foods — the clean fifteen are safe conventional, saving significant money.
+- `INS-260412-63A5` [high] Soy milk is the only plant-based milk that naturally matches cow milk in protein and overall nutritional value; others require fortification.
 - `INS-260330-4D8B` [high] Overhydration dilutes blood electrolyte concentration, producing brain fog, fatigue, and GI distress identical to dehydration symptoms — causing people to drink more and spiral deeper.
 - `INS-260325-0BD7` [high] Ozempic destroys muscle alongside fat — 30-40% of weight lost is muscle, making post-drug weight regain worse than the starting point.
 - `INS-260327-EE40` [high] Only pasture-raised eggs guarantee outdoor access; cage-free means no cages but packed indoor barns, free-range means a small door most hens never use, and conventional means battery cages.

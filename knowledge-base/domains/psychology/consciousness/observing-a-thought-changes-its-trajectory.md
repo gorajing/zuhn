@@ -54,10 +54,10 @@ stance: >-
 related:
   - INS-260330-6E6A
   - INS-260330-3C2F
+  - INS-260412-0EC0
   - PRI-260406-AA07
   - INS-260330-BCC7
   - PRI-260324-1134
-  - INS-260325-3589
   - INS-260405-DC8D
 ---
 Harris instructs practitioners to 'watch what happens to that thought, to the image or bit of language — where does it go?' This is not suppression or engagement but a third mode: pure witnessing. Cognitive science supports this: elaborative processing (engaging) extends thought duration, while suppression (pushing away) often produces rebound. Observation without elaboration starves the thought of fuel.

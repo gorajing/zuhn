@@ -1,9 +1,10 @@
 # Topic: longevity
 
-> 9 insights
+> 10 insights
 
 - `INS-260410-D75D` [high] If there were a single upstream 'aging gene,' evolution would have found it when competing against longer-lived cousins; the absence of such a target means aging is layered and medicines will arrive as incremental additions of healthy years.
 - `INS-260405-4053` [high] $300M flowed into longevity tech in one quarter, backed by Bezos and Altman, even as the underlying science remains early-stage.
+- `INS-260412-C106` [high] Large-scale studies show chronic loneliness is twice as deadly as obesity and accelerates cancer, Alzheimer's, immune decline, and aging.
 - `INS-260410-BE5A` [high] If you're reaching 65 at 1% rates throughout human history, evolution can't select alleles that preserve late-life function, which is why anti-aging should be relatively tractable versus problems evolution iterated on.
 - `INS-260410-53B0` [high] Screening parents for recessive disease carriers before reproduction is dramatically cheaper than treating affected children and produces at least 10x ROI — gene therapy companies should focus on age-related and common diseases instead of rare ones.
 - `INS-260412-79FE` [medium] If aging is caused by accumulated DNA damage and specific gene expression, it becomes an engineering target rather than an existential given.

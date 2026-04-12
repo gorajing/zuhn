@@ -1,6 +1,6 @@
 # Topic: behavior-change
 
-> 39 insights
+> 40 insights
 
 - `INS-260403-C512` [high] Rules-based approaches to distraction fail because the addictive part of your brain finds plausible exceptions; adversarial design works better.
 - `INS-260403-D64B` [high] Forcing yourself to always produce something pushes you away from what you think you should work on and toward what you actually like.
@@ -22,6 +22,7 @@
 - `INS-260403-955F` [medium] Meaning emerges from friction, obligation, and inconvenience — optimizing these away optimizes away purpose itself.
 - `INS-260409-0FA2` [medium] Cringe accusations are defensive status plays — interpret them as evidence your trajectory is threatening, not as aesthetic feedback.
 - `INS-260409-7171` [medium] Naming a desire triggers attention to its absence, so gap-awareness is the default failure mode of goal-setting.
+- `INS-260412-B769` [medium] The loneliness cycle must be broken at three points: what you attend to, how you interpret it, and how you behave in response.
 - `INS-260403-E4C7` [medium] Nearly a third of Gen Z has deleted social media apps, and global social media usage has declined 10% since 2022, suggesting organic human adaptation to harmful technology.
 - `INS-260403-38C5` [medium] When you can't browse or check email at your work computer, the ingrained habit of sitting there for hours redirects itself into actual work.
 - `INS-260409-7632` [medium] Most people wait for results to grant permission for a new identity; the causal direction is actually reversed — identity must shift first and results follow.

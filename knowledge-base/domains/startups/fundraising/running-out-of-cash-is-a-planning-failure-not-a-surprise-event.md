@@ -47,9 +47,7 @@ stance: >-
   properly structured FP&A model would have surfaced, making runway death a
   planning discipline problem rather than a market problem.
 related:
-  - INS-260326-6D53
   - INS-260327-1D23
-  - INS-260329-8B1C
   - INS-260330-3C70
   - INS-260404-8394
   - INS-260410-75B9

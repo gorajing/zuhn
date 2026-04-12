@@ -1,6 +1,6 @@
 # Topic: strategy
 
-> 249 insights
+> 253 insights
 
 - `INS-260330-98EA` [high] The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples.
 - `INS-260403-0530` [high] New York struggles as a startup hub because founders there are second-class citizens in a status hierarchy that most admires financial wealth.
@@ -134,6 +134,7 @@
 - `INS-260403-0611` [high] When regulation makes going public impractical, startups die silently—the founders just stay in grad school instead.
 - `INS-260403-940F` [high] SEIU built a repeatable playbook: propose destructive regulation, extract concessions for withdrawal, move to the next target industry.
 - `INS-260330-13EE` [high] Both Germany and Japan expanded primarily to secure food and resource self-sufficiency, not to spread ideology.
+- `INS-260412-CF0E` [high] Deep-sea organisms invented entirely new metabolic strategies rather than just becoming more efficient versions of surface creatures.
 - `INS-260403-FED6` [high] The retailers killed during the 'Retail Apocalypse' (Sears, Toys-R-Us, RadioShack) shared a common trait: they had stopped serving customers well long before Amazon arrived.
 - `INS-260403-92CC` [high] Category leaders show revenue growth that compounds with user growth because each new business model layer increases revenue per existing customer.
 - `INS-260330-C7CB` [high] The agricultural revolution was not a revolution — it was 13,000+ years of people incrementally optimizing for 'more food' without intending systemic change.
@@ -180,6 +181,7 @@
 - `INS-260403-137D` [high] Costco's $60 membership fee filters for households averaging ~$100K income, with business owners representing one-third of members but two-thirds of sales.
 - `INS-260404-8B1C` [high] Costco turns warehouse aesthetics, confusing layouts, and limited selection into feelings of deal-hunting and exclusivity—making cost savings feel like customer features.
 - `INS-260328-031A` [high] Both positive and negative viral narratives about San Francisco on Twitter are wrong more often than not -- the signal is pure noise.
+- `INS-260412-6990` [high] Tools without communication infrastructure to share and build on knowledge produce stagnation, not progress.
 - `INS-260403-B228` [high] Valuation reflects how much uncertainty remains — momentum can inflate it temporarily but markets always revert to evidence.
 - `INS-260330-6C7F` [high] A NASA committee concluded that no deflection method works for kilometer-scale asteroids, making survey telescopes the single highest-value investment in planetary defense.
 - `INS-260330-86CD` [high] A disrupted Series B company with $5M in the bank should operate like a freshly funded seed company—small team, low burn, total freedom to pursue the absolute best idea.
@@ -198,6 +200,7 @@
 - `INS-260404-0022` [medium] Mapping all business models on return-vs-risk and evidence-vs-potential axes reveals disruption vulnerability at a glance.
 - `INS-260403-0CB8` [medium] Resilient 'camel' startups that grow slowly but survive market shocks are replacing unprofitable unicorns as the aspirational model for founders.
 - `INS-260405-D8AA` [medium] Show the CFO what competitors are spending on innovation; loss aversion moves budgets faster than projected IRR.
+- `INS-260412-F465` [medium] A rogue Earth losing its atmosphere makes spaceflight trivially easier — the very catastrophe that kills surface life removes the biggest barrier to leaving.
 - `INS-260322-5E5D` [medium] Deliberately changing what content platforms show you — your YouTube algorithm, your feeds — rewires your brain to notice opportunities others miss.
 - `INS-260403-57FF` [medium] If the riskiest startups generate the most growth when they succeed, then policies that reduce risk appetite create adverse selection by killing the best startups first.
 - `INS-260323-1302` [medium] Dirac couldn't solve his simultaneous equations with 2x2 matrices — the smallest matrices where multiplication order matters — until he had the insight to expand to 4x4 matrices, which instantly provided all four solutions.
@@ -222,6 +225,7 @@
 - `INS-260330-440E` [medium] The Indus Valley shows almost no evidence of warfare or military infrastructure, and its collapse coincided with the arrival of more warlike peoples.
 - `INS-260403-D882` [medium] Design your company around structural platform-asset balance rather than adapting to which approach investors currently favor.
 - `INS-260323-9772` [medium] At the critical point of a phase transition (like a magnet at its Curie temperature), the system becomes scale-free and fractal — local influences chain together into infinite-range correlations, making the system 'maximally interesting' and maximally unpredictable.
+- `INS-260412-CD3A` [medium] Civilizations and companies must redefine their entire operating domain at each order-of-magnitude transition.
 - `INS-260403-DB16` [medium] Charity funds the R&D phase; sustainable scale requires transitioning to a model where beneficiaries can pay for the product themselves.
 - `INS-260330-2C71` [medium] Photosynthesis uses a 4-complex electron transport chain with intermediate carriers (ATP, NADPH) rather than directly converting sunlight to glucose, enabling independent optimization of each stage.
 - `INS-260330-F229` [medium] The Mongols' Silk Road revival enabled unprecedented cultural and economic exchange but also spread the Black Death across Eurasia.

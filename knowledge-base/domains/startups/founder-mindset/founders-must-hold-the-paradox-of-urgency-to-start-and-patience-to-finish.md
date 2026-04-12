@@ -48,10 +48,10 @@ stance: >-
 related:
   - INS-260323-81F5
   - INS-260327-8E62
-  - INS-260327-B72F
   - INS-260327-3918
+  - INS-260327-B72F
   - INS-260403-CE62
-  - INS-260323-19A8
+  - INS-260412-3A50
 evidence:
   - id: INS-260327-3918
     type: REFINES

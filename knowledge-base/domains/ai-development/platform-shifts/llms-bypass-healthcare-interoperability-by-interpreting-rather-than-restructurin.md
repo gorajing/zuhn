@@ -56,7 +56,7 @@ related:
   - INS-260323-4794
   - INS-260403-86BF
   - INS-260403-E492
+  - INS-260412-CD3A
   - PRI-260328-E1CE
-  - INS-260403-0661
 ---
 Six major interoperability attempts over four decades all failed because they required systems to connect, format data consistently, interpret meaning uniformly, and govern consent — all four simultaneously. LLMs introduce a fundamentally different approach: they can interpret unstructured clinical language without requiring the underlying architecture to change. This matters because the core bottleneck was never connectivity but semantic interpretation at scale. OpenAI and Anthropic both launched healthcare products at J.P. Morgan Healthcare Conference in January 2026, signaling this shift is already underway. The strategic insight is that when legacy systems resist structural reform, interpretation layers that sit on top of broken infrastructure can capture more value than replacement attempts.

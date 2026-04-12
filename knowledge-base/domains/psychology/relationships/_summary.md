@@ -1,6 +1,6 @@
 # Topic: relationships
 
-> 87 insights
+> 88 insights
 
 - `INS-260325-3A54` [very_high] The 85-year Harvard Study of Adult Development shows that the single choice most likely to keep you happy and healthy is investing in relationships.
 - `INS-260330-A33E` [high] Active addiction of any kind — drugs, crime, gambling — makes genuine love impossible because the addiction always comes first.
@@ -29,6 +29,7 @@
 - `INS-260325-6874` [high] De Botton's most devastating insight: in love, we do not look for what makes us happy — we look for what feels familiar. Children of alcoholics seek partners who struggle with alcohol.
 - `INS-260327-6992` [high] If you can't say no, you'll attract people who take advantage of that - the pattern of ending up with takers isn't bad luck, it's a boundary deficiency signal.
 - `INS-260329-6B87` [high] State your downsides first — if someone is fine with all of them, the relationship only has upside.
+- `INS-260412-DD1D` [high] Loneliness is a biological signal for social needs, not a character flaw or skills deficit.
 - `INS-260325-9F4C` [high] Loneliness keeps the body in chronic fight-or-flight mode, elevating cortisol and inflammation that wear away cardiovascular, metabolic, and brain systems.
 - `INS-260330-49AE` [high] Lasting sexual connection comes from partners learning to co-create pleasure-enabling context together, not from maintaining early-relationship spark.
 - `INS-260323-08E9` [high] A Palestinian man who has endured violence and displacement says 'I love everybody, even the Jews they kill us' — demonstrating that choosing love over hatred is a deliberate, renewable act of will, not a passive absence of anger.

@@ -63,8 +63,8 @@ related:
   - INS-260325-FEDF
   - INS-260325-6571
   - INS-260410-3B8B
+  - INS-260412-C921
   - INS-260330-E660
-  - INS-260330-29CE
 ---
 For roughly 100 years the Weismann Barrier was dogma: the reproductive germline is isolated from environmental exposures that affect the rest of the body, so only DNA sequence can be inherited. Over the last two decades, mouse studies showed that paternal diet, stress, and toxin exposure produce phenotypes in offspring. The mechanism was debated until 2025.
 

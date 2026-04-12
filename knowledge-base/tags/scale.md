@@ -5,6 +5,9 @@
 - `INS-260405-C497` RuBisCo is wrong about half the time in oxygen-rich conditions, yet plants compensate by making it the most abundant protein on Earth — roughly 40 billion tons — making photosynthesis viable despite terrible per-reaction accuracy.
 - `INS-260409-1078` MemPalace's AAAK uses 73 tokens to encode text that plain English encodes in 66 — compression only amortizes at scale where the same entities appear hundreds of times, making it a net loss for small-scale personal memory.
 - `INS-260325-5B7F` Standards enabled computing at scale by allowing workers who didn't understand the underlying science to reliably execute their piece of a complex calculation.
+- `INS-260410-C89B` Greg Abel in the 2025 letter: 'At Berkshire's scale, the math of compounding works against us — a reality long understood and best acknowledged plainly. Our opportunity is improvement in per-share value over the long term, even when progress comes in smaller increments.'
+- `INS-260410-4357` At scale, effectiveness of achieving outcomes matters more than efficiency of resource use — the 'waste' in China's growth was the mechanism that produced the growth.
+- `INS-260411-FE7B` The capital requirements for AI infrastructure, supply chain resilience, and government capabilities are raising barriers to entry and making scale advantages more durable, not less.
 - `INS-260325-0C45` The scale cannot tell fat from water or muscle — body measurements, clothing fit, and energy levels are better progress indicators.
 - `INS-260409-D170` Frames that show duct-taped wires, window frames, or the capsule interior next to the Earth outperform 'pure' astronomical shots because they give the viewer scale and a foothold.
 - `INS-260323-527B` Smifter's video uses a ladder of progressively larger scale comparisons — Earth, Moon distance, Alpha Centauri, solar system, observable universe — to make incomprehensible numbers emotionally tangible.
@@ -23,11 +26,8 @@
 - `INS-260330-ED9D` Plants compensate for RuBisCo's ~50% failure rate by producing 40 billion tons of it — brute-force quantity as a strategy works when unit cost is low enough.
 - `INS-260405-8B89` RuBisCo is slow, makes errors half the time in modern atmospheres, and produces toxic waste—yet plants compensate by making it the single most abundant protein on Earth (estimated 40 billion tons), making it the dominant carbon-fixing mechanism on the planet by sheer volume.
 - `INS-260404-68EE` 78% of public software companies above $5B market cap are multi-product, making it effectively mandatory for outsized outcomes.
-- `INS-260405-3CC7` Rare edge cases become common failures at scale, creating novel downstream problems no amount of upfront architecture prevents.
-- `INS-260405-9DB6` Plants respond to RuBisCo's 50% error rate not by evolving a better enzyme but by producing 40 billion tons of it — making raw abundance the substitute for precision.
 - `INS-260404-16B0` RuBisCo is a terrible enzyme that won the planet by being produced in enormous quantities — 40 billion tons — rather than by being good at its job.
 - `INS-260405-0806` RuBisCo makes errors ~50% of the time yet dominates because plants produce 40 billion tons of it — volume compensated for quality and the strategy locked in permanently.
 - `INS-260330-4489` RuBisCo is terrible at its job but plants produce 40 billion tons of it rather than evolving a better enzyme — a biological case study in scale-over-quality lock-in.
-- `INS-260410-C89B` Greg Abel in the 2025 letter: 'At Berkshire's scale, the math of compounding works against us — a reality long understood and best acknowledged plainly. Our opportunity is improvement in per-share value over the long term, even when progress comes in smaller increments.'
-- `INS-260410-4357` At scale, effectiveness of achieving outcomes matters more than efficiency of resource use — the 'waste' in China's growth was the mechanism that produced the growth.
-- `INS-260411-FE7B` The capital requirements for AI infrastructure, supply chain resilience, and government capabilities are raising barriers to entry and making scale advantages more durable, not less.
+- `INS-260405-3CC7` Rare edge cases become common failures at scale, creating novel downstream problems no amount of upfront architecture prevents.
+- `INS-260405-9DB6` Plants respond to RuBisCo's 50% error rate not by evolving a better enzyme but by producing 40 billion tons of it — making raw abundance the substitute for precision.

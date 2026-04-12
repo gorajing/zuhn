@@ -57,6 +57,7 @@ related:
   - INS-260325-82E8
   - PRI-260328-23B0
   - PRI-260323-2C5C
+  - INS-260412-6FB8
 ---
 Scott Alexander noted he 'never once actually made a decision in his life,' later clarifying he meant that life mostly doesn't present as a series of explicit decisions, though they occasionally come up. This offhand remark captures a profound psychological truth: the decision-framing of life is largely a retrospective narrative. Most trajectories emerge from default paths, environmental nudges, and gradual drift.
 

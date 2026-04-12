@@ -1,6 +1,6 @@
 # Topic: group-dynamics
 
-> 103 insights
+> 106 insights
 
 - `INS-260330-2EB0` [high] The Pueblo Revolt shows that a shared existential threat can override deep tribal divisions — but the unity is temporary.
 - `INS-260403-D609` [high] Enforcers of orthodoxy compete with each other, creating a race to the bottom where any borderline idea gets banned.
@@ -32,6 +32,7 @@
 - `INS-260402-62E3` [high] Organizations without strong leaders default to 'best practices' consensus and cannot delay when accused of impropriety, making them trivially capturable by small ideological groups.
 - `INS-260403-889B` [high] Moderate disengagement from online politics creates a selection effect that makes remaining discourse more extreme than the population it claims to represent.
 - `INS-260403-56D7` [high] Moderate users leaving social media doesn't reduce polarization — it concentrates extremist influence by removing the moderating majority.
+- `INS-260412-12D3` [high] The loneliness epidemic traces to structural shifts — Renaissance individualism, industrial mobility, and modern relocation patterns — not individual social failures.
 - `INS-260402-116A` [high] Groups that are simultaneously powerful and nervous produce the most aggressively enforced speech norms.
 - `INS-260330-E794` [high] Early network advantages compound nonlinearly through preferential attachment, making initial network-selection moments disproportionately consequential.
 - `INS-260403-8D5C` [high] Anti-something coalitions hit a ceiling; pro-something coalitions break through it.
@@ -79,6 +80,7 @@
 - `INS-260403-E6A8` [medium] Both Fatima and Dhammakaya events show that emotionally primed crowds gazing at the sun converge on shared anomalous percepts without requiring a hoaxer or hypnotist.
 - `INS-260410-EBDC` [medium] Mao's Red Guards worked because telling teenagers with no life experience that they were in charge was incredibly empowering — and they started by killing the teachers who had given them hard grades.
 - `INS-260403-7644` [medium] Organizations that win by exercising power gradually lose the ability to win by doing better work.
+- `INS-260412-6898` [medium] Deterrence theory assumes perpetual perfect rationality from every nuclear-armed actor, which is incompatible with known human and organizational failure rates.
 - `INS-260330-B4BD` [medium] Two generations of one-child families made small families the cultural norm in China, rendering policy reversal largely ineffective.
 - `INS-260403-68CE` [medium] A woman's probability of having a child spikes in the 12-24 months after a close friend gives birth, proving fertility decisions spread socially.
 - `INS-260403-69C3` [medium] National security framing activates fear circuits that override the capacity for nuanced policy engagement.
@@ -89,6 +91,7 @@
 - `INS-260403-2D89` [medium] Corporate roles survive because dismantling any one threatens all adjacent roles that depend on it for legitimacy.
 - `INS-260403-8E0C` [medium] SF's hardline progressives effectively allied with old-money NIMBYs to freeze the city in amber, despite framing their agenda as equity-driven.
 - `INS-260403-3A71` [medium] Publicizing that charisma decides elections should eventually force both sides to match on charisma, restoring issue-based competition.
+- `INS-260412-3201` [medium] We judge unknown actors by our own nature, which is protective but may be the very thing preventing us from accessing cooperation.
 - `INS-260403-126D` [medium] Progressivism systematically degrades the liberal institutions it inherited by demanding more tolerance and accommodation than those systems can sustain.
 - `INS-260403-FF74` [medium] Formal restrictions provoke resistance in hacker-minded people, while informal social contracts earn genuine compliance.
 - `INS-260330-1293` [medium] North Korea maintains stability by selectively tolerating illegal capitalism rather than cracking down uniformly, turning potential dissidents into co-opted participants.

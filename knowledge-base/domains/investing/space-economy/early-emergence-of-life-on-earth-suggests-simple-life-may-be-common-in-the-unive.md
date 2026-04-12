@@ -52,9 +52,9 @@ stance: >-
 related:
   - INS-260325-E19E
   - INS-260325-E7D4
+  - INS-260412-CF0E
+  - INS-260412-BE47
   - INS-260325-DFA5
-  - INS-260327-F608
-  - INS-260330-240A
 evidence:
   - id: INS-260327-F608
     type: TRANSFERS_TO

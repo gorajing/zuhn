@@ -1,6 +1,6 @@
 # Topic: epistemics
 
-> 54 insights
+> 56 insights
 
 - `INS-260409-F93A` [high] Galef argues accurate maps of the world should include explicit uncertainty markers and remain provisional — 'drawn in pencil, not pen' — because false precision creates psychological resistance to updating when better evidence arrives.
 - `INS-260411-8AEF` [high] AI 'knowledge' is statistical likelihood rather than justified belief, requiring a Bayesian rather than classical epistemic framework.
@@ -24,8 +24,10 @@
 - `INS-260409-1D16` [high] Roswell got famous decades after it happened, because Watergate taught Americans that governments lie.
 - `INS-260409-5E35` [high] Quantum mechanics almost never supports the mystical claims it gets invoked to support.
 - `INS-260412-D634` [high] The largest stars are solar-system-sized behemoths blowing themselves apart, making precise measurement nearly impossible and rankings unstable.
+- `INS-260412-75FF` [high] Single-example reasoning demands surfacing which properties you assume are universal versus local.
 - `INS-260409-A0D7` [high] 'UFO' bakes in 'flying object'; UAP opens the door back up to atmospheric optics and instrument artifacts.
 - `INS-260405-2B3F` [high] Treating survey non-response as randomly missing data produces systematically wrong estimates whenever the stigmatized view is also the under-reported one.
+- `INS-260412-7728` [high] When you don't know the rules of the game, watch silently before announcing yourself.
 - `INS-260405-F7FA` [high] All else being equal, bet against the explanation where you are the protagonist.
 - `INS-260410-7FA4` [high] Vaccination and scurvy's cure took centuries to discover despite killing millions, showing that intrinsic problem difficulty, not weak motivation, is often the binding constraint.
 - `INS-260409-42F7` [high] Within 48 hours of the MemPalace launch, maintainers Milla Jovovich and Ben Sigman wrote a public 'What we got wrong' section admitting four specific overclaims and shipped fixes — a level of intellectual honesty that product marketing incentives rarely allow.

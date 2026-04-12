@@ -55,11 +55,11 @@ stance: >-
   humans naturally reason about average or best cases, making worst-case
   thinking a discipline that must be deliberately cultivated
 related:
+  - INS-260412-6D71
   - INS-260330-2F13
   - INS-260403-E8DD
   - INS-260404-9E63
   - INS-260329-8B1C
-  - PRI-260405-49C0
   - INS-260403-979D
   - INS-260403-A7FD
   - INS-260410-EFB8

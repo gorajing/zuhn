@@ -56,8 +56,8 @@ related:
   - INS-260330-8898
   - INS-260330-EE7E
   - INS-260330-1296
+  - INS-260412-4FBF
   - INS-260330-E0A7
-  - INS-260405-00DE
 ---
 The BYU acoustics researcher explains that in a normal room, reverberations tell your auditory system about the size of the space around you. In an anechoic chamber, the complete absorption of echoes makes the room 'feel' like a coffin regardless of its actual size. This is a pure expectation-violation anxiety response — your brain expects reverb as confirmation of spatial openness, and when it's absent, it flags a mismatch.
 

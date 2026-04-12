@@ -1,6 +1,6 @@
 # Topic: learning
 
-> 242 insights
+> 243 insights
 
 - `INS-260329-66C7` [high] Charisma, patience, confidence — all traits are shorthand labels for clusters of small, observable, teachable behaviors like smiling on entry and remembering names.
 - `INS-260330-750A` [high] The Mongols became siege warfare experts and adopted gunpowder by interrogating prisoners and absorbing techniques from conquered peoples.
@@ -21,6 +21,7 @@
 - `INS-260409-BBB5` [high] Matuschak spent 17,000 and 6,000 words writing essays on how to write good cards — answering the question requires a theory of knowledge, a theory of representation, and a theory of learning, and the quality of the cards directly determines the quality of the medium.
 - `INS-260329-CC79` [high] Automating fundamental operations frees working memory for complex abstractions, making advanced concepts stick rather than crumble.
 - `INS-260330-6F36` [high] Clear thinking lets you identify the 1% of decisions that matter and apply leverage to magnify their impact.
+- `INS-260412-C921` [high] Cumulative knowledge transfer across generations, not individual brilliance, is what made humans dominant.
 - `INS-260330-DF2C` [high] Committing to a prediction before seeing results forces you to engage with the underlying model, not just the outcome.
 - `INS-260330-E8BD` [high] Mastering complex systems requires identifying the few repeated patterns rather than memorizing individual components.
 - `INS-260330-3879` [high] The MNIST network confidently classifies random noise because its cost function never incentivized uncertainty — what you optimize for defines the ceiling of what you learn.

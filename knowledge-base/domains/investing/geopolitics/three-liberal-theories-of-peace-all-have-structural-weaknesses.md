@@ -46,11 +46,11 @@ resolutions:
     portfolios built on liberal assumptions face sudden repricing of
     geopolitical risk.
 related:
+  - INS-260412-6898
   - PRI-260324-1A67
   - PRI-260406-F9EB
   - INS-260325-3A0E
   - PRI-260325-D34E
-  - INS-260330-984C
 stance: >-
   Democratic peace theory, economic interdependence theory, and liberal
   institutionalism each offer optimistic views of international relations but

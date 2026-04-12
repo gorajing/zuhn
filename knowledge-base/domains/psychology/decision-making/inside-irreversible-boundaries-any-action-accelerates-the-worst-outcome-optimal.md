@@ -50,5 +50,6 @@ related:
   - INS-260412-5E11
   - INS-260412-644F
   - INS-260410-FB7E
+  - INS-260412-FCDC
 ---
 Inside the event horizon, spacetime is so warped that every possible direction of movement leads toward the center. Counterintuitively, the strategy that maximizes survival time is complete inaction — any thrust in any direction only accelerates your arrival at the singularity. This maps directly to irreversible decision contexts: once you've crossed a genuine point of no return (signed a binding contract, shipped a public statement, burned a relationship), frantic corrective action often compounds the damage. The key skill is distinguishing between situations where you're outside the event horizon (corrective action helps) and inside it (acceptance and stillness minimize harm). Most people's instinct is to thrash harder precisely when stillness is optimal.

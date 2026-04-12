@@ -52,7 +52,6 @@ stance: >-
   evidence is not the same as having a theory that coherently explains all
   evidence simultaneously
 related:
-  - INS-260323-F4FA
   - INS-260325-C6BB
   - INS-260323-3737
   - INS-260330-AFF8
@@ -62,6 +61,7 @@ related:
   - INS-260403-61A1
   - INS-260330-1815
   - INS-260330-C172
+  - INS-260330-4BFD
 evidence:
   - id: INS-260325-FA86
     type: SUPPORTS

@@ -68,6 +68,7 @@ related:
   - INS-260409-C3F7
   - INS-260409-8758
   - INS-260330-6165
+  - INS-260412-FCDC
 ---
 The 2025 bird-mammal intelligence work joins a list of canonical convergent evolution examples: bird/bat wings, octopus/mammal camera eyes, and multiple independent evolutions of electroreception, echolocation, and carnivory. When completely independent lineages with different starting materials arrive at functionally similar solutions, the most parsimonious explanation is that the solution space is highly constrained — the task being solved has a narrow optimum.
 

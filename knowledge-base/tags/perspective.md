@@ -3,6 +3,7 @@
 - `INS-260327-8936` Every human has independently relearned all of civilization through their unique combination of genes and experiences, making each person an irreplaceable perspective.
 - `INS-260330-F889` Special relativity shows that even an object's shape is observer-dependent, challenging naive realism about 'objective truth.'
 - `INS-260410-0857` Travel's epistemic value is in surfacing new questions about home, not in producing reliable answers about the destination.
+- `INS-260412-6FB8` Modern life represents less than 0.001% of human history, yet we treat it as the natural baseline.
 - `INS-260323-B230` Losing his father sobered McConaughey up to the 'mendacities' consuming his daily emotional energy, making him realize most anxieties are insignificant in the larger scheme.
 - `INS-260323-BBD3` Frebel reframes the human smallness narrative: lying under the southern Milky Way, she doesn't feel small — she feels like she belongs, because many small things make one big whole.
 - `INS-260323-A494` African-Americans, Jewish Americans, gay Americans, and Soviet emigres are all overrepresented in comedy not from innate talent but from the outsider perspective that comes with marginalization.

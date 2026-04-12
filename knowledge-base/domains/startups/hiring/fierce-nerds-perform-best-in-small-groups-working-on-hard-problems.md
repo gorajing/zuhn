@@ -46,7 +46,6 @@ stance: >-
   Organizations should match fierce-nerd personality types to environments where
   correctness matters more than social harmony
 related:
-  - INS-260323-D934
   - INS-260329-11AB
   - INS-260330-593E
   - INS-260402-FEA3

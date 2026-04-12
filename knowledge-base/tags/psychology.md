@@ -5,7 +5,6 @@
 - `INS-260330-7A69` Resisting the psychedelic experience produces suffering while surrender produces transcendence, making the experience a direct feedback mechanism on one's relationship to control.
 - `INS-260403-34E0` Make investments small enough that losing them is annoying but painless, which unlocks the ability to decide quickly and learn from real outcomes.
 - `INS-260403-D06F` Status games require putting others down to rise, making them psychologically toxic compared to positive-sum wealth creation.
-- `INS-260330-669C` Ponzi's family decline from wealthy merchants to working class created a status-obsessed identity that made him reject honest work and pursue increasingly risky schemes.
 - `INS-260330-EF10` Pay off high-interest debt and build 6-12 months of emergency savings before investing, because financial stress causes panic selling that destroys returns.
 - `INS-260329-55F7` People trust their own conclusions far more than anything a salesperson tells them, so guide them to discover the answer rather than asserting it.
 - `INS-260329-8CA0` Disclosed side effects make products seem more potent because consumers interpret risk as evidence the product actually does something.
@@ -14,19 +13,20 @@
 - `INS-260403-AA0B` Important problems create an almost physical pain that paralyzes—you must approach them obliquely rather than head-on.
 - `INS-260329-03B5` Malan deliberately introduces bugs in live demos and normalizes debugging as the primary activity, which removes the perfectionism barrier that stops beginners from writing their first line of code.
 - `INS-260329-E86C` David Malan himself almost didn't take CS50 until he was allowed to enroll pass/fail, proving that stake reduction unlocks hidden talent.
+- `INS-260330-669C` Ponzi's family decline from wealthy merchants to working class created a status-obsessed identity that made him reject honest work and pursue increasingly risky schemes.
 - `INS-260330-4B55` Harvard Business School's largest cohorts systematically catch the last wave — junk bonds in 1989, dotcom in 1999, housing in 2005-2007 — because competition feels like validation rather than a warning signal.
 - `INS-260410-43F6` Xi Jinping personally suffered during the Cultural Revolution — his father was purged, his mother turned him away starving — yet he reveres Mao and is recentralizing the system that harmed him.
 - `INS-260330-035C` Stanford research showed hotel workers told their daily movement met exercise guidelines lost significantly more fat and improved cardiovascular markers compared to uninformed controls, even without changing behavior.
 - `INS-260325-45BC` In 1971, men were 56% of psychology undergraduates; now it is 20% and falling — Reeves argues this gender imbalance in caregiving professions may matter even more than the lack of women in tech.
 - `INS-260330-206F` There are infinitely more ways to make your life worse than better, so protect what you have rather than chasing marginal gains.
 - `INS-260325-5A93` CIA, Mossad, and MI6 all look for the same trait: someone so loyal and dependent on external validation that they will lie, steal, and change their identity to earn approval from one institution.
+- `INS-260405-874D` Autonomy in work is a one-way door: once crossed, the cage of a managed job becomes visible and unbearable.
 - `INS-260330-D42C` Responsive desire (emerging from pleasure, not before it) is normal — recognizing it resolves most 'low desire' concerns without intervention.
 - `INS-260330-568F` Adversarial questioning triggers defensive responses with rehearsed talking points, while patient listening reveals authentic beliefs.
 - `INS-260327-4153` Living deep in the Amazon for 17 years restructured Rosolie's entire value system in ways that no intellectual understanding of nature could replicate.
 - `INS-260323-A430` Dark humor requires more skill than light humor — like a chef making obscure ingredients palatable versus making bacon taste good — and serves as psychological relief.
 - `INS-260329-C345` The debt snowball method works better than the avalanche method because quick wins sustain the behavior change that actually eliminates debt.
 - `INS-260325-3754` Research consistently shows approximately two-thirds of people exposed to potentially traumatic events continue functioning normally — resilience is the norm, not the exception.
-- `INS-260405-874D` Autonomy in work is a one-way door: once crossed, the cage of a managed job becomes visible and unbearable.
 - `INS-260325-9B73` Esther Perel's framework from couples therapy identifies three root causes under every co-founder conflict: who has power, who feels cared for, and who gets recognized.
 - `INS-260410-D9DC` Prime's genius wasn't covering shipping costs—it was making customers pre-commit to Amazon financially so they'd rationalize doing all their shopping there.
 - `INS-260324-988E` Nightclubs make money from men buying $1,000 tables and $100 bottles to impress women — promoters are the invisible workforce that fills clubs with attractive women to create the demand signal.

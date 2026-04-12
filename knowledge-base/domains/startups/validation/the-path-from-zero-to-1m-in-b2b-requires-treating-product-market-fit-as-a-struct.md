@@ -56,7 +56,7 @@ related:
   - INS-260405-F2C7
   - INS-260322-047D
   - INS-260403-76F5
-  - INS-260403-F7DD
+  - INS-260412-0EC0
 ---
 Harvard Innovation Labs developed a comprehensive 91-slide framework covering the path from $0 to $1M in B2B revenue and product-market fit. The core insight is that PMF is not a light switch—it's a gradient with measurable checkpoints including initial customer discovery, first paying customer, repeatable sales motion, and scalable acquisition.
 

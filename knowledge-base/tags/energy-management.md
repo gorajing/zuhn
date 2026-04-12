@@ -4,6 +4,7 @@
 - `INS-260330-F671` The electron transport chain extracts energy through a cascade of small reactions rather than one explosive step — a pattern that maps directly to sustainable human productivity.
 - `INS-260403-B6CD` Work like a lion hunting — intense bursts then full recovery — not like a marathon runner grinding continuously.
 - `INS-260325-E0D5` Every person plays many roles simultaneously — wasting energy on things you cannot control directly degrades your performance in every role that matters.
+- `INS-260412-FCDC` At abyssal depths, every surviving species moves in slow motion and conserves energy as its primary survival strategy.
 - `INS-260403-0992` The ratio of effort invested to progress generated is the clearest signal for whether a startup should continue or shut down.
 - `INS-260329-6204` Structuring long work days around energy allocation and task batching sustains output without burnout.
 - `INS-260322-A892` An early startup is like an egg (simple: find customers, build product, don't die) while a late-stage company is a full chicken (international, multi-product, M&A, compliance) — but three CEO responsibilities persist across all stages.

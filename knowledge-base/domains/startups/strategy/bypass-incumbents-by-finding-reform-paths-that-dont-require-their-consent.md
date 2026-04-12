@@ -50,12 +50,12 @@ related:
   - INS-260330-BBDA
   - INS-260330-03A9
   - INS-260330-D74A
-  - INS-260403-88DA
   - INS-260403-24DB
   - INS-260403-126D
   - INS-260403-758F
   - PRI-260328-E1CE
   - INS-260403-F234
+  - INS-260410-A264
 ---
 The article identifies a fundamental paradox of institutional reform: every proposed fix to Congress requires an act of Congress, but members have no incentive to vote against gerrymandering, donor influence, or other systems that benefit them. The solution — ratifying a dormant Constitutional amendment through state legislatures — bypasses Congress entirely.
 

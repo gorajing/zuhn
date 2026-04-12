@@ -1,7 +1,5 @@
 # Tag: returns
 
-- `INS-260330-EBFD` Glycolysis must invest 2 ATP to generate 4 ATP — even biology requires spending resources before earning returns.
-- `INS-260404-A2AE` Data shows female-founded startups deliver better returns, representing an inefficiency VCs should exploit.
 - `INS-260410-C89B` Greg Abel in the 2025 letter: 'At Berkshire's scale, the math of compounding works against us — a reality long understood and best acknowledged plainly. Our opportunity is improvement in per-share value over the long term, even when progress comes in smaller increments.'
 - `INS-260403-3CD0` Optimizing deal terms yields marginal gains compared to the exponential impact of picking the right startup.
 - `INS-260327-7F54` PE firms promised billionaire-level returns through superior analysts but actually delivered them through borrowing against acquired companies and smoothing volatility on paper.
@@ -23,3 +21,5 @@
 - `INS-260405-7FFC` Smaller funds beat giants by maintaining agility, concentrated ownership, and disciplined focus rather than deploying at scale.
 - `INS-260405-4423` The most successful investors are disproportionately the most ethical — not coincidentally.
 - `INS-260403-4227` More VC money doesn't produce more great startups — it inflates prices, spreads talent thin, and compresses exit multiples.
+- `INS-260330-EBFD` Glycolysis must invest 2 ATP to generate 4 ATP — even biology requires spending resources before earning returns.
+- `INS-260404-A2AE` Data shows female-founded startups deliver better returns, representing an inefficiency VCs should exploit.

@@ -52,13 +52,13 @@ related:
   - INS-260323-EDAD
   - INS-260327-439A
   - INS-260329-F33F
-  - INS-260330-383F
   - INS-260330-2025
   - INS-260330-DB4B
   - INS-260330-A476
   - INS-260403-81A4
   - INS-260403-DDEB
   - INS-260404-6077
+  - INS-260403-E554
 ---
 Ben Horowitz argues that the most critical CEO skill is running toward fear—acting decisively when faced with situations where every option seems bad. Most people naturally avoid these moments, but the accumulation of avoided difficult decisions is what kills companies. This isn't about recklessness; it's about recognizing that hesitation in the face of equally bad options is itself the worst option. The muscle of confronting fear directly is what separates founders who scale from those who plateau.
 

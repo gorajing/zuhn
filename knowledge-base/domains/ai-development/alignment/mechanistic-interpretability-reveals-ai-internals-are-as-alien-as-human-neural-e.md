@@ -60,6 +60,7 @@ related:
   - PRI-260406-FA5B
   - PRI-260406-2903
   - INS-260327-EDE4
+  - INS-260412-E674
 ---
 Anthropic's mechanistic interpretability research found that Claude represents line-break prediction using one-dimensional helical manifolds in a six-dimensional space, with comparisons performed via manifold rotation. This is not 'looking up token probabilities' — it's a novel computational strategy discovered by the learning algorithm. The human equivalent is equally alien: entorhinal cells track 2D locations using high-dimensional toroidal attractor manifolds.
 

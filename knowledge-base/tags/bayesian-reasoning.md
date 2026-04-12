@@ -1,4 +1,5 @@
 # Tag: bayesian-reasoning
 
 - `INS-260402-7A1A` Probabilities have clear semantics for combining evidence; arbitrary scores do not, making probabilistic systems more principled and debuggable.
+- `INS-260412-4FBF` If something powerful enough would leave unmistakable traces and you find none, that silence is itself a strong signal.
 - `INS-260330-B08E` Assigning equal prior probability to simulation and non-simulation scenarios, Bayesian averaging always yields sub-50% simulation probability because base reality persists in both branches.

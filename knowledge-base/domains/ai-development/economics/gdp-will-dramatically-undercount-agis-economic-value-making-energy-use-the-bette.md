@@ -73,6 +73,7 @@ related:
   - PRI-260406-50EA
   - PRI-260407-B738
   - PRI-260321-14D8
+  - INS-260412-DF7B
 ---
 Gwern's framing, relayed by Dwarkesh and sharpened by Handmer: Dario's 'data center of geniuses' shows up in GDP only as its inputs (chips, energy) and outputs (tokens) — none of which are astronomical. Yet the value it produces could replace a meaningful chunk of the $60T global wage pool for human labor. The result is nominal GDP shrinking while the civilizational surplus explodes, much like how the internet makes enormous consumer surplus invisible to GDP by distributing zero-priced goods.
 

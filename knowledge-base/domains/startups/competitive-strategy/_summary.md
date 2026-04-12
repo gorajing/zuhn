@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 577 insights
+> 578 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -424,6 +424,7 @@
 - `INS-260403-E748` [high] Extreme strength at the core does not protect against catastrophic failure triggered at the weakest peripheral link.
 - `INS-260324-A9DF` [high] Taco Bell outperforms McDonald's, Burger King, and KFC in per-store earnings because Yum Brands concentrated resources on its winner while letting KFC and Pizza Hut stagnate.
 - `INS-260330-F9B4` [high] Tech strategy is a race up the control hierarchy: plugins → websites → apps → OS → hardware, where each level reduces dependence on others.
+- `INS-260412-3A50` [high] Technological progress compounds so fast that delayed competitive response can become permanently unrecoverable.
 - `INS-260327-A462` [high] Companies that tried to disrupt walking with scooters and segways failed because they competed against an activity that 
 - `INS-260327-C1F6` [high] AI investment follows the same pattern as the dot-com bubble: revolutionary technology generates massive investment, mos
 - `INS-260327-A4E3` [high] Standup comedy only works because of tension before the punchline — marketing only works the same way.

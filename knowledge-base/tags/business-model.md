@@ -3,6 +3,8 @@
 - `INS-260403-957B` Coding assistants are proving to be AI's first real business model with billions in projected revenue, marking the shift from hype to validated payoff.
 - `INS-260403-D3ED` DeepSeek's open-weight release at a fraction of US training costs signals that closed-source model pricing power is rapidly eroding.
 - `INS-260405-0E77` AI collapses the historical separation between software budgets and labor budgets by doing the whole job, not just tooling it.
+- `INS-260322-C472` For AI startups to beat established software companies like Salesforce, they need all three: a reimagined proactive UI, access to new data sources (unstructured data over structured databases), and a disruptive business model beyond seat-based pricing.
+- `INS-260410-CA89` Qualcomm's $120B franchise exists because it owns the patents AND the chip designs while treating handsets and base stations as commodity steps to spin off.
 - `INS-260326-CA66` Insulin resistance manifests as heart disease, diabetes, obesity, and dementia -- just as a misidentified business model manifests as churn, pricing problems, and sales failures.
 - `INS-260403-7B3B` AI influencer agencies eliminate talent management costs while capturing the full revenue stream that traditionally splits between creator and agency.
 - `INS-260409-D491` BYOA — one operator with trained agents replaces an entire department and captures a fraction of the saved salary cost; Anthropic's one-person marketing team is the template.
@@ -17,11 +19,11 @@
 - `INS-260405-FE86` 23andMe turned its genetic database from a customer education tool into a drug discovery asset—the same resource, a second business.
 - `INS-260410-DFE2` Microsoft's revenue went from $25M to $98M in 18 months on the back of DOS clone licensing because they were both selling infinitely replicable software AND occupying the position every PC maker had to integrate with.
 - `INS-260403-754F` Validating that customers want your product is necessary but insufficient — you must also validate that the business model produces more revenue than costs.
-- `INS-260405-BFC0` Local news collapsed because the internet made geographic information monopolies impossible, not because local journalism got worse.
 - `INS-260410-7075` If you monetize an ecosystem rather than the product itself, you can pay distributors to adopt your free product — a move your directly-monetized competitors structurally cannot match.
 - `INS-260327-D285` Don't just build a better product—build a business model that makes incumbents look exploitative.
 - `INS-260403-A0F7` Salesforce's evolution from 1999 SaaS pioneer to 2005+ platform shows that iterative business model extension compounds into resilience.
 - `INS-260410-3043` Scarcity is only a weakness until you engineer it into the product — Acquired copied Hermès and the NFL by refusing to scale their inputs.
+- `INS-260405-BFC0` Local news collapsed because the internet made geographic information monopolies impossible, not because local journalism got worse.
 - `INS-260403-F85C` A 5% annual churn rate can be excellent or fatal depending entirely on business model context.
 - `INS-260323-F274` Success podcasts follow a 4-step loop: create/exploit anxiety, promise the solution, deliver partial satisfaction, repeat — a model that requires listeners to stay anxious to keep consuming.
 - `INS-260321-3BA8` The Department of War is replacing cost-plus contracts with 1000-requirement RFPs with simple firm-fixed-price requirements — the SpaceX model where vendors keep margins from economizing.
@@ -35,5 +37,3 @@
 - `INS-260403-DB16` Charity funds the R&D phase; sustainable scale requires transitioning to a model where beneficiaries can pay for the product themselves.
 - `INS-260323-104E` Open Secret went from -47% EBITDA aggregating 150 brands to 4% profitable EBITDA by killing the marketplace and going own-brand only.
 - `INS-260403-22D3` Test customer desirability cheaply before committing to expensive technology builds.
-- `INS-260322-C472` For AI startups to beat established software companies like Salesforce, they need all three: a reimagined proactive UI, access to new data sources (unstructured data over structured databases), and a disruptive business model beyond seat-based pricing.
-- `INS-260410-CA89` Qualcomm's $120B franchise exists because it owns the patents AND the chip designs while treating handsets and base stations as commodity steps to spin off.

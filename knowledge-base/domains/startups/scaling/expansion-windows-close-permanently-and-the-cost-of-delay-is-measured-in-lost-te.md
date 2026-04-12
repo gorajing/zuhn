@@ -50,7 +50,6 @@ stance: >-
   permanently shrinks the maximum addressable territory, making speed of
   expansion a survival variable rather than a growth optimization.
 related:
-  - INS-260330-FFAB
   - INS-260330-8625
   - INS-260403-CA5A
   - INS-260403-6AD0
@@ -60,6 +59,7 @@ related:
   - INS-260412-2E7D
   - INS-260412-EF6C
   - INS-260412-8C32
+  - INS-260412-CFA6
 ---
 The universe's accelerating expansion means the set of reachable galaxies shrinks continuously. Every second of delay permanently reduces the maximum territory any civilization could ever claim. This isn't a recoverable loss — once a galaxy crosses the cosmological horizon, no amount of future technology can retrieve it.
 

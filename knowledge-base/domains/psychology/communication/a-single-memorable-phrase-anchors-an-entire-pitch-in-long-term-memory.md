@@ -48,7 +48,6 @@ stance: >-
   highest-leverage pitch investment because professional investors hear hundreds
   of pitches that blur together and the first filter is simply being remembered
 related:
-  - INS-260325-D82A
   - INS-260403-81CE
   - INS-260403-2A1D
   - INS-260403-F171
@@ -58,6 +57,7 @@ related:
   - INS-260404-D242
   - INS-260405-E6F9
   - INS-260405-A596
+  - PRI-260406-80E7
 evidence:
   - id: INS-260403-81CE
     type: TRANSFERS_TO

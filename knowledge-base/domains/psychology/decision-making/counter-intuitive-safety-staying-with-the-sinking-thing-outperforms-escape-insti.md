@@ -56,7 +56,6 @@ stance: >-
   through prior training.
 related:
   - INS-260323-422C
-  - INS-260330-66F7
   - INS-260330-BD3C
   - INS-260330-E68E
   - INS-260403-E8DD

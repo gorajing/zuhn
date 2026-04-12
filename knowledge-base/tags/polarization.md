@@ -5,6 +5,7 @@
 - `INS-260325-8290` Every 80 years — founding era (1787), post-Civil War (1865), post-WWII (1945), and now (2025) — America undergoes violent systemic change followed by 25 years of explosive innovation.
 - `INS-260325-B6AF` The Founding (1787), post-Civil War (1865), post-WWII (1945), and now (2025) form an 80-year pattern of extreme conflict followed by 25-year explosions of institutional reinvention.
 - `INS-260330-365B` When exaggerated claims are excused as 'pointing in the right direction,' everyone ratchets up rhetoric until opponents seem like existential threats, enabling real political violence.
+- `INS-260327-842F` Each British crackdown (Stamp Act, Townshend Acts, Tea Act, Intolerable Acts) hardened colonial resistance, and each colonial protest hardened British resolve — until compromise was impossible.
 - `INS-260405-5702` Feed algorithms don't just show different opinions — they construct different facts for different population clusters.
 - `INS-260330-E0F5` Movements built on cultural grievances provoke opponents to double down, creating self-reinforcing polarization spirals.
 - `INS-260330-E0ED` Intelligent people routinely collapse complex political landscapes into single-axis narratives, making them unable to acknowledge threats from both sides simultaneously.
@@ -17,4 +18,3 @@
 - `INS-260323-DEF0` Censoring speech does not change opinions — it pushes people to share views only with those who already agree, accelerating group polarization.
 - `INS-260403-958C` Online interaction encourages people to identify with distant interest-based groups over local physical communities.
 - `INS-260325-6A35` At every 80-year cycle, those whose identity and livelihood depend on the old system fight its replacement with extreme passion — the Civil War being the most extreme example.
-- `INS-260327-842F` Each British crackdown (Stamp Act, Townshend Acts, Tea Act, Intolerable Acts) hardened colonial resistance, and each colonial protest hardened British resolve — until compromise was impossible.

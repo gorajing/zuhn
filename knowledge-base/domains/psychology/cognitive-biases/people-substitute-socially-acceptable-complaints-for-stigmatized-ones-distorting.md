@@ -48,7 +48,7 @@ related:
   - INS-260403-6861
   - INS-260403-AAA6
   - INS-260404-F834
+  - INS-260412-DD1D
   - INS-260403-D99D
-  - INS-260325-600C
 ---
 When expressing concern about visible disorder (homelessness, litter, loud behavior in public spaces) carries social penalties like being called racist or a 'Karen,' people redirect their complaints toward crime, which retains more social legitimacy. This creates a systematic measurement distortion: public concern about 'crime' appears disconnected from crime statistics because it's actually measuring something else entirely. This proxy-complaint pattern likely generalizes beyond crime — wherever direct expression of a concern is socially penalized, complaints migrate to the nearest acceptable substitute, making it harder to diagnose what populations actually care about and address their real concerns.

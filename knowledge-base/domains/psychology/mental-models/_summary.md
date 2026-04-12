@@ -1,6 +1,6 @@
 # Topic: mental-models
 
-> 94 insights
+> 98 insights
 
 - `INS-260409-3138` [high] Computers are fully explainable bottom-up from electricity through logic gates to instructions — there is no magical layer, only layers of abstraction humans haven't personally traversed.
 - `INS-260330-420B` [high] Three competing theories for the Indus Valley's decline each tell a confident story from the same absence of evidence, revealing how humans handle epistemic gaps.
@@ -28,12 +28,14 @@
 - `INS-260330-1AB0` [high] All real-world exponentials are logistic curves that saturate when the growth medium is exhausted, making the S-curve the true model for any bounded growth process.
 - `INS-260330-8544` [high] The discovery that tidal forces can substitute for solar energy in sustaining liquid water fundamentally expanded where we search for life — by questioning which variable (energy source) was truly fixed.
 - `INS-260330-8429` [high] Both Europa and dark matter show that the obvious energy source (sun, matter) isn't always the real driver — systematically questioning assumed sources expands the solution space.
+- `INS-260412-10FC` [high] We've focused most ocean research on the top 2% by biomass while 98% of the ocean volume remains largely unexplored.
 - `INS-260330-8FE7` [high] A growth factor near 1 feels like steady new additions, but it actually signals you're at the logistic inflection point — total will roughly double from current levels then plateau.
 - `INS-260330-6AA3` [high] The growth factor (today's new cases divided by yesterday's) directly reveals the exponent driving a process, making it a superior early-warning metric to absolute counts.
 - `INS-260410-CE40` [high] Americans (and most analysts) default to 'Team America' analysis — studying only their own options and mirror-imaging the other side — and this explains repeated strategic surprises from Pearl Harbor to Iraq's insurgency.
 - `INS-260330-42DE` [high] The body's hierarchy — atoms, cells, tissues, organs, organ systems, organism — shows how stacking simple organized layers produces capabilities none could achieve alone.
 - `INS-260330-09DE` [high] Photosynthesis is 'complicated, inefficient and confusing' yet dominates all life on Earth because it achieved planetary scale before any competitor could emerge.
 - `INS-260330-C172` [high] Knowledge is best validated like a crossword puzzle: each answer must fit independently (evidence) AND be consistent with intersecting answers (coherence).
+- `INS-260412-1024` [high] Dairy farming communities evolved lactose tolerance in ~11,000 years through natural selection favoring those who could digest an abundant calorie source.
 - `INS-260404-3500` [high] Photosynthesis converts sunlight to sugar through a long chain of intermediaries (excited electrons → proton gradient → ATP → G3P), each step losing energy but gaining reliability.
 - `INS-260330-DEF7` [high] The linearity constraint — parallel lines stay parallel, origin stays fixed — eliminates most possible transformations, making the remaining ones tractable and powerful.
 - `INS-260330-E03A` [high] NASA used aerogel to catch comet dust at 6 km/s because the porous structure gradually absorbs kinetic energy instead of causing instantaneous vaporization.
@@ -47,6 +49,7 @@
 - `INS-260405-D606` [high] Getting the problem statement right is not preliminary work — it is the core intellectual work.
 - `INS-260409-D66D` [high] GBAR's positron moderator keeps 1 in 1000 — a 0.1% yield — yet builds a usable 100M-positron cloud by simply accumulating over minutes.
 - `INS-260330-CE2F` [high] JS classes are syntactic sugar over prototypal inheritance, where real objects link to real objects rather than abstract class hierarchies.
+- `INS-260412-C451` [high] A massive force doesn't need to collide with a system to destroy it — proximity alone reshapes orbits and triggers cascading failures.
 - `INS-260330-64D8` [high] If you add something that makes a problem easier, redefine the entire problem in terms of what you added.
 - `INS-260403-6EA0` [high] Thinking in specific causal chains rather than vague decline narratives is both more accurate and more psychologically sustainable.
 - `INS-260330-814E` [high] WWII's unprecedented destruction came not from unprecedented hatred but from unprecedented industrial capacity to act on ordinary human impulses at scale.
@@ -87,6 +90,7 @@
 - `INS-260412-8C32` [medium] Stars reach their maximum physical size only after exhausting core hydrogen and entering a dying giant phase — adding more mass to a living star doesn't work.
 - `INS-260409-3E53` [medium] CERN's BASE team built a portable antimatter trap — not because CERN couldn't do more experiments, but because background magnetic noise at CERN itself capped precision.
 - `INS-260330-9BC3` [medium] A vacuum cannon works by combining negative pressure (vacuum) with positive pressure across a sealed boundary — the differential produces forces neither side could generate alone.
+- `INS-260412-6FB8` [medium] Modern life represents less than 0.001% of human history, yet we treat it as the natural baseline.
 - `INS-260412-E146` [medium] The information paradox was resolved by asking 'what do black holes do with information in the meantime' instead of debating whether it's lost or preserved at the end.
 - `INS-260402-1F58` [medium] The real question is not 'patents or freedom' but 'patents or secrecy'—and secrecy's historical track record is far worse.
 - `INS-260403-9E31` [medium] The gangsterism lens — treating governance as mafia-style personal power projection — reliably predicts which institutions will be targeted and how.

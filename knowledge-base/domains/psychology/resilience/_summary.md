@@ -1,6 +1,6 @@
 # Topic: resilience
 
-> 175 insights
+> 176 insights
 
 - `INS-260325-DF82` [very_high] Events are not traumatic — they are potentially traumatic — because the same event produces resilience in most people and lasting harm in a minority, meaning trauma is in the response, not the event.
 - `INS-260327-48BA` [high] Most suffering about change comes from resisting it rather than from the change itself - accepting impermanence eliminates the anxiety of trying to freeze what cannot be frozen.
@@ -44,6 +44,7 @@
 - `INS-260327-7427` [high] Kierkegaard argued that the anxiety of having genuine choices is not a bug but a feature of human freedom - the only people without angst are those without real options.
 - `INS-260327-4153` [high] Living deep in the Amazon for 17 years restructured Rosolie's entire value system in ways that no intellectual understanding of nature could replicate.
 - `INS-260330-E68E` [high] Near-death experiences in the Amazon consistently produced calm acceptance rather than panic, suggesting ego is counterproductive in genuine survival situations.
+- `INS-260412-FCDC` [high] At abyssal depths, every surviving species moves in slow motion and conserves energy as its primary survival strategy.
 - `INS-260329-C689` [high] Expecting failure as a cyclical phase prevents the emotional spiral that amplifies setbacks beyond their actual damage.
 - `INS-260330-E3ED` [high] Fame removes the honest critics who keep you dying properly to your bad ideas, which is why celebrities and leaders spiral out of control.
 - `INS-260404-21AA` [high] Most people never start ambitious projects because they cannot tolerate the inevitably poor quality of early versions.

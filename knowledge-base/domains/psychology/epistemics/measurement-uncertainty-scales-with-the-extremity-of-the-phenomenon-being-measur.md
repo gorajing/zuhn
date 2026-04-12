@@ -56,6 +56,7 @@ related:
   - INS-260412-AB32
   - INS-260412-DB5A
   - INS-260412-640C
+  - INS-260412-C451
 ---
 Red hypergiants — the largest known stars — are extremely bright, extremely far away, and actively shedding mass in violent stellar winds. Each of these properties independently increases measurement uncertainty, and combined they create huge margins of error. As instruments improve, the 'largest star' title regularly changes hands.
 

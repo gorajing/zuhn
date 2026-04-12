@@ -1,9 +1,12 @@
 # Tag: sustainability
 
 - `INS-260327-FF4D` Biology builds elephants at room temperature from grass and water with zero waste - human manufacturing can't come close to this efficiency.
+- `INS-260410-F366` MTM on illiquid assets pulls all future revenue forward, leaving zero recurring base and forcing ever-bigger fake deals to maintain growth.
+- `INS-260325-A8E6` Searching for other Earths reveals how unique and irreplaceable our planet is, confirming there is no practical Planet B.
 - `INS-260405-3753` US agricultural water sources are being drawn down at 10x their natural replenishment rate, creating a non-negotiable physical constraint on food production.
 - `INS-260325-8DF7` Greenwashing works because consumers want to feel virtuous more than verify claims — most 'eco' products are marginally better at best.
 - `INS-260330-6AB7` The Calvin Cycle produces 6 G3P molecules but 5 must be recycled to regenerate the starting material — only 1/6 of output actually leaves the system as usable product.
+- `INS-260412-FCDC` At abyssal depths, every surviving species moves in slow motion and conserves energy as its primary survival strategy.
 - `INS-260330-633F` Passion ignites the rocket but burns out fast; curiosity is the propellant that keeps you in orbit for decades.
 - `INS-260403-0A20` The startup ecosystem's growth obsession obscures that staying intentionally small often produces better founder outcomes in wealth, freedom, and sustainability.
 - `INS-260403-0414` Durable competitive advantage comes from business model design, not product or technology superiority alone.
@@ -19,11 +22,9 @@
 - `INS-260327-E992` The best cheat code for surviving founder grind is choosing a problem that genuinely excites you and your team.
 - `INS-260327-99E5` 80% of consumers say they want sustainable products; less than 5% actually buy them when they cost more.
 - `INS-260323-0AF3` Creating mycelium leather is pointless if assembling the shoe still requires toxic glue — true sustainability demands solving the entire production chain from CO2 to compostable end product.
+- `INS-260403-0CB8` Resilient 'camel' startups that grow slowly but survive market shocks are replacing unprofitable unicorns as the aspirational model for founders.
 - `INS-260403-AA20` The 996 grind culture trades short-term velocity for compounding burnout costs that destroy long-term startup viability.
 - `INS-260404-D1F6` The Calvin Cycle produces 6 G3P molecules but only 1 exits — 83% is reinvested to keep the cycle running.
 - `INS-260330-8C52` The Calvin Cycle produces 6 G3P molecules but must reinvest 5 to regenerate its starting materials — only 1 in 6 (17%) is net output, yet this sustains all plant life on Earth.
 - `INS-260404-1C01` The Calvin Cycle produces 6 G3P molecules but must reinvest 5 of them to regenerate its starting materials, netting only 1 — a pattern that mirrors sustainable business unit economics.
-- `INS-260403-0CB8` Resilient 'camel' startups that grow slowly but survive market shocks are replacing unprofitable unicorns as the aspirational model for founders.
 - `INS-260329-C893` If your growth depends on gaming a platform (SEO, app store, token issuance), expect a turkey graph — great until the platform changes, then instant death.
-- `INS-260410-F366` MTM on illiquid assets pulls all future revenue forward, leaving zero recurring base and forcing ever-bigger fake deals to maintain growth.
-- `INS-260325-A8E6` Searching for other Earths reveals how unique and irreplaceable our planet is, confirming there is no practical Planet B.

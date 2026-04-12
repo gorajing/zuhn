@@ -45,6 +45,5 @@ related:
   - INS-260327-AB93
   - INS-260327-9EC4
   - INS-260327-F50F
-  - INS-260327-7F98
 ---
 DHA (docosahexaenoic acid) comprises 25% of brain fat and is the omega-3 most critical for neurological function; fish roe, egg yolks, and grass-fed animal fat provide it in more bioavailable forms than processed fish oil capsules

@@ -1,10 +1,11 @@
 # Topic: cognitive-biases
 
-> 320 insights
+> 322 insights
 
 - `INS-260326-163A` [very_high] Data quality dominates ML architecture just as install base and data gravity beat product design elegance in business -- what you've accumulated is the moat, not how you've arranged it.
 - `INS-260326-CA66` [very_high] Insulin resistance manifests as heart disease, diabetes, obesity, and dementia -- just as a misidentified business model manifests as churn, pricing problems, and sales failures.
 - `INS-260330-FC6E` [high] Over 85% of near-Earth asteroids are found in the 45-degree band opposite the sun because asteroids approaching from the sun's direction are invisible to ground telescopes — no amount of better ground telescopes fixes this.
+- `INS-260412-531A` [high] Framing nuclear weapons as strategy tools rather than human experiences suppresses the emotional processing needed for proportional risk response.
 - `INS-260403-F0BF` [high] Algorithmic feeds replaced neighbor-comparison with influencer-comparison, escalating financial inadequacy.
 - `INS-260330-3260` [high] Saying 'Hitler was bad' doesn't get algorithmic boost, but novel contrarian revisionism does — creating structural incentives for misinformation.
 - `INS-260403-8C12` [high] Lifelong exposure to high crime rates blinds Americans to how aberrant their situation is compared to peer nations.
@@ -31,6 +32,7 @@
 - `INS-260402-A558` [high] Childhood reassurance about alarming realities creates adults who are trained to ignore those same problems, enabling bad conditions to persist.
 - `INS-260403-D463` [high] How someone behaves when only self-enforcement exists reveals far more about their character than behavior under external enforcement.
 - `INS-260403-34C0` [high] Schools optimize for intelligence because it's measurable, creating a lifelong illusion that intelligence is the destination rather than a means to an end.
+- `INS-260412-5F4D` [high] Chronic loneliness makes your brain pay more attention to social cues but interpret them less accurately, biasing toward hostility.
 - `INS-260404-B8D9` [high] Testing a theory with instruments that depend on that same theory creates unfalsifiable circular logic.
 - `INS-260330-14BD` [high] Amsterdam onlookers couldn't believe Destin genuinely forgot how to ride a bike because their own bias ('everyone can ride a bike') prevented them from processing his demonstration.
 - `INS-260330-9471` [high] Destin found he could only re-designate his bias, not remove it — after learning the backwards bike, the old normal-bike algorithm persisted and resurfaced after 20 minutes.

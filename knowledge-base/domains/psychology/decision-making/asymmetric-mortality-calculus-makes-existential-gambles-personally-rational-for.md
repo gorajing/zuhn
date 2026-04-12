@@ -54,11 +54,11 @@ stance: >-
   civilization-level risk that would be collectively insane.
 related:
   - INS-260327-1F6A
+  - INS-260412-BE47
   - PRI-260407-2DBD
   - INS-260410-EA10
   - INS-260403-9173
   - PRI-260328-BD81
-  - INS-260405-57C5
 ---
 Smith surfaces a motivation for AI development that almost nobody discusses publicly: the personal immortality calculus. Throughout history, powerful men from Genghis Khan to modern billionaires funding longevity startups have sought technologies to cheat death. Superintelligence, as Dario Amodei describes in 'Machines of Loving Grace,' could radically accelerate biotechnology enough to double human lifespan and potentially reach 'escape velocity' where most people alive today could live indefinitely.
 

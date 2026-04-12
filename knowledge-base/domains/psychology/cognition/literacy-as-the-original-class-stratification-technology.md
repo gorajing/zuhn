@@ -51,10 +51,10 @@ stance: >-
   that outlast the civilizations that invented them.
 related:
   - INS-260327-57CE
+  - INS-260412-C921
   - INS-260327-74CF
   - PRI-260405-7F1E
   - INS-260329-19B3
-  - INS-260327-1D3D
 evidence:
   - id: INS-260329-919F
     type: TRANSFERS_TO

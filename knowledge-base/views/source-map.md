@@ -834,6 +834,7 @@ Generated on 2026-04-12 | 2367 sources
 | Let's build the GPT Tokenizer | youtube | 5 | 2026-04-10 |
 | Let's reproduce GPT-2 (124M) | youtube | 5 | 2026-04-10 |
 | Lockheed Martin (Audio) | youtube | 5 | 2026-04-11 |
+| Loneliness | youtube | 5 | 2026-04-12 |
 | Male inequality, explained by an expert | Richard Reeves | youtube | 5 | 2026-03-30 |
 | Marc Andreessen's 2026 Outlook: AI Timelines, US vs. China, and The Price of AI | youtube | 5 | 2026-03-22 |
 | Mark Zuckerberg — AI will write most Meta code in 18 months | youtube | 5 | 2026-04-10 |
@@ -1505,6 +1506,7 @@ Generated on 2026-04-12 | 2367 sources
 | Max Tegmark: The Case for Halting AI Development | Lex Fridman Podcast #371 | youtube | 4 | 2026-03-24 |
 | Messages For The Future | youtube | 4 | 2026-03-30 |
 | Michio Kaku: What If Einstein Is Wrong? | Big Think | youtube | 4 | 2026-03-30 |
+| Milk. White Poison or Healthy Drink? | youtube | 4 | 2026-04-12 |
 | Most AI Startups Fail (Here’s Why Yours Might Too) | youtube | 4 | 2026-03-23 |
 | My $10M Failed Startup Story - Learnings & Advice for Entrepreneurs | youtube | 4 | 2026-03-23 |
 | My App Failed - My Brutal 6 Months Building a Startup | youtube | 4 | 2026-03-23 |
@@ -1560,6 +1562,7 @@ Generated on 2026-04-12 | 2367 sources
 | The Most Founder Mode CEO Working Today Isn’t the Founder: Opendoor’s Kaz Nejatian | youtube | 4 | 2026-03-26 |
 | The Most Misunderstood Concept in Physics | youtube | 4 | 2026-03-30 |
 | The Nervous System, Part 1: Crash Course Anatomy & Physiology #8 | youtube | 4 | 2026-03-30 |
+| The Origin of Consciousness – How Unaware Things Became Aware | youtube | 4 | 2026-04-12 |
 | The Psychology of Making Money | youtube | 4 | 2026-03-23 |
 | The Secret Marketing Strategy That Built a16z: From Zero to Legendary VC Firm | youtube | 4 | 2026-03-22 |
 | The Simplest Math Problem No One Can Solve - Collatz Conjecture | youtube | 4 | 2026-03-30 |
@@ -1583,13 +1586,17 @@ Generated on 2026-04-12 | 2367 sources
 | Vectors | Chapter 1, Essence of linear algebra | youtube | 4 | 2026-03-30 |
 | Waking Up with Sam Harris - Mindfulness Meditation (9 minutes) | youtube | 4 | 2026-03-30 |
 | We're Witnessing Soviet-Scale Collapse of National Power | youtube | 4 | 2026-03-30 |
+| What Do Alien Civilizations Look Like? The Kardashev Scale | youtube | 4 | 2026-04-12 |
+| What Happened Before History? Human Origins | youtube | 4 | 2026-04-12 |
 | What Happens if the Moon Crashes into Earth? | youtube | 4 | 2026-04-12 |
+| What If Earth got Kicked Out of the Solar System? Rogue Earth | youtube | 4 | 2026-04-12 |
 | What If Everyone JUMPED At Once? | youtube | 4 | 2026-03-30 |
 | What if my startup fails? | Ahana Gautam, Open Secret | UnStarted Ep2 | youtube | 4 | 2026-03-23 |
 | What If You Fall into a Black Hole? | youtube | 4 | 2026-04-12 |
 | What makes quantum computers SO powerful? | youtube | 4 | 2026-03-23 |
 | What to do if your inner voice is cruel | Ethan Kross | youtube | 4 | 2026-03-30 |
 | What Will We Miss? | youtube | 4 | 2026-03-30 |
+| What’s Hiding at the Most Solitary Place on Earth? The Deep Sea | youtube | 4 | 2026-04-12 |
 | What’s the Future of Vertical SaaS in an AGI World? Jamie Cuffe, CEO of Pace | youtube | 4 | 2026-03-26 |
 | When You Truly Work for Yourself | youtube | 4 | 2026-03-30 |
 | Where to invest in a multipolar world (WW3?) | youtube | 4 | 2026-03-22 |
@@ -1602,6 +1609,7 @@ Generated on 2026-04-12 | 2367 sources
 | Why Most AI Projects Fail Before They Start | youtube | 4 | 2026-03-23 |
 | Why OpenAI Doesn't Pay Sales Commission (And Why It Works) with OpenAI GTM Leader Maggie Hott | youtube | 4 | 2026-03-27 |
 | Why Snatch Blocks are AWESOME (How Pulleys Work)  - Smarter Every Day 228 | youtube | 4 | 2026-03-30 |
+| Why We Should NOT Look For Aliens - The Dark Forest | youtube | 4 | 2026-04-12 |
 | Why You Should Not Startup In Your 20s | Startup Founder Reality | youtube | 4 | 2026-03-23 |
 | Willpower likely won’t save you from your bad habits. Science explains why | youtube | 4 | 2026-03-25 |
 | Work As Hard As You Can | youtube | 4 | 2026-03-30 |
@@ -1750,6 +1758,7 @@ Generated on 2026-04-12 | 2367 sources
 | Walter Isaacson: Elon Musk, Steve Jobs, Einstein, Da Vinci & Ben Franklin | Lex Fridman Podcast #395 | youtube | 3 | 2026-03-24 |
 | What Happens If You Keep Slowing Down? | youtube | 3 | 2026-03-23 |
 | What if it actually works out? | youtube | 3 | 2026-03-22 |
+| What if We Nuke a City? | youtube | 3 | 2026-04-12 |
 | Why AI Will Transform Customer Experience: Cresta CEO Ping Wu and Sequoia’s Doug Leone | youtube | 3 | 2026-03-26 |
 | Why did my side-hustle fail? How to validate business ideas | youtube | 3 | 2026-03-23 |
 | Why Gravity Is A Lie, explained in Zero G | youtube | 3 | 2026-03-23 |
@@ -2339,8 +2348,6 @@ Generated on 2026-04-12 | 2367 sources
 | How to Move the Sun: Stellar Engines | youtube | 0 | 2026-04-12 |
 | How We Could Build a Moon Base TODAY – Space Colonization 1 | youtube | 0 | 2026-04-12 |
 | Is Reality Real? The Simulation Argument | youtube | 0 | 2026-04-12 |
-| Loneliness | youtube | 0 | 2026-04-12 |
-| Milk. White Poison or Healthy Drink? | youtube | 0 | 2026-04-12 |
 | Neutron Stars – The Most Extreme Things that are not Black Holes | youtube | 0 | 2026-04-12 |
 | Optimistic Nihilism | youtube | 0 | 2026-04-12 |
 | Quantum Computers Explained – Limits of Human Technology | youtube | 0 | 2026-04-12 |
@@ -2353,20 +2360,13 @@ Generated on 2026-04-12 | 2367 sources
 | The Fermi Paradox — Where Are All The Aliens? (1/2) | youtube | 0 | 2026-04-12 |
 | The Immune System Explained I – Bacteria Infection | youtube | 0 | 2026-04-12 |
 | The Most Dangerous Stuff in the Universe - Strange Stars Explained | youtube | 0 | 2026-04-12 |
-| The Origin of Consciousness – How Unaware Things Became Aware | youtube | 0 | 2026-04-12 |
 | The World War of the Ants – The Army Ant | youtube | 0 | 2026-04-12 |
 | This Virus Shouldn't Exist (But it Does) | youtube | 0 | 2026-04-12 |
 | Three Ways to Destroy the Universe | youtube | 0 | 2026-04-12 |
-| What Do Alien Civilizations Look Like? The Kardashev Scale | youtube | 0 | 2026-04-12 |
-| What Happened Before History? Human Origins | youtube | 0 | 2026-04-12 |
 | What Happens If We Throw an Elephant From a Skyscraper? Life & Size 1 | youtube | 0 | 2026-04-12 |
-| What If Earth got Kicked Out of the Solar System? Rogue Earth | youtube | 0 | 2026-04-12 |
 | What If We Detonated All Nuclear Bombs at Once? | youtube | 0 | 2026-04-12 |
-| What if We Nuke a City? | youtube | 0 | 2026-04-12 |
 | What if We Nuke the Moon? | youtube | 0 | 2026-04-12 |
 | What If You Detonated a Nuclear Bomb In The Marianas Trench? (Science not Fantasy) | youtube | 0 | 2026-04-12 |
-| What’s Hiding at the Most Solitary Place on Earth? The Deep Sea | youtube | 0 | 2026-04-12 |
 | Why Alien Life Would be our Doom - The Great Filter | youtube | 0 | 2026-04-12 |
 | Why Blue Whales Don't Get Cancer - Peto's Paradox | youtube | 0 | 2026-04-12 |
-| Why We Should NOT Look For Aliens - The Dark Forest | youtube | 0 | 2026-04-12 |
 | Wormholes Explained – Breaking Spacetime | youtube | 0 | 2026-04-12 |

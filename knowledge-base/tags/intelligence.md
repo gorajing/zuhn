@@ -6,6 +6,7 @@
 - `INS-260403-B8AA` Neuroscience research suggests language modeling captures communication patterns but not the underlying cognitive processes that produce genuine reasoning.
 - `INS-260409-8758` 2025 cell-type atlases show avian DVR and mammalian neocortex evolved intelligence independently from different ancestral cell populations, settling a 60-year debate in favor of convergence.
 - `INS-260405-2021` Musk's 'Hitchhiker's Guide' framing — the answer is 42, but we don't know the question — reframes progress as a problem of question quality, not answer capacity.
+- `INS-260327-EDBA` Paul Revere's ride was possible because the colonial intelligence network (supported by the entire sympathetic population) tracked every British movement while the British had no intelligence on colonial preparations.
 - `INS-260403-A4CF` Being smart is a prerequisite for new ideas but the two are far from identical, and most smart people produce nothing original.
 - `INS-260403-AB5C` Increasing knowledge specialization creates more points on the performance curve, widening the gap between average (wisdom) and peaks (intelligence), forcing a civilizational choice.
 - `INS-260403-A1DF` Wisdom means consistently good decisions across many situations; intelligence means spectacularly good decisions in a few.
@@ -21,4 +22,3 @@
 - `INS-260328-68BA` The most aggressive, ambitious, smartest people who can see things others cannot tend to win — and this advantage can overcome starting conditions like family wealth.
 - `INS-260323-CF93` Intelligence is multi-dimensional — Bezos left theoretical physics when he saw people who could effortlessly do what was hard for him, then discovered his genius was lateral-thinking invention.
 - `INS-260330-04C0` Never attribute to conspiracy what can be explained by incompetence—executing complex lies exceeds most organizations' actual competency.
-- `INS-260327-EDBA` Paul Revere's ride was possible because the colonial intelligence network (supported by the entire sympathetic population) tracked every British movement while the British had no intelligence on colonial preparations.

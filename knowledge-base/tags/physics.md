@@ -8,8 +8,8 @@
 - `INS-260323-2FC3` The Aharonov-Bohm effect proved that potentials (once dismissed as mere mathematical shortcuts) directly influence physical reality — a reminder that abstractions can be more fundamental than the concrete phenomena derived from them.
 - `INS-260330-A7C6` When bubbles collapse rapidly enough during sonoluminescence, the compressed gas inside can briefly reach temperatures exceeding the sun's surface, emitting visible light from sound energy alone.
 - `INS-260330-6C17` Filming an underwater AK-47 shot at 27,450 fps revealed three completely separate physical phenomena—barrel cavitation, gas trailing, and shock-wave vapor—that appear as a single splash at normal speed.
-- `INS-260412-3C64` We default to simpler models not because they're better but because they're solvable, creating blind spots where reality diverges most.
 - `INS-260325-916B` Panpsychism proposes consciousness is a fundamental feature of nature, more like gravity than like computation.
+- `INS-260412-3C64` We default to simpler models not because they're better but because they're solvable, creating blind spots where reality diverges most.
 - `INS-260330-56E0` The archer's paradox only exists if you assume arrows are rigid — once you add flex as a variable, the paradox dissolves.
 - `INS-260409-E0A9` Antimatter is hard not because we can't make it, but because we can't hold it — most scarcity problems have a similar 'containment hides as creation' structure.
 - `INS-260330-4DC5` Physics and evolutionary psychology independently converge on the same conclusion: spacetime is a useful data structure, not fundamental reality — reducing billion-term calculations to single expressions when you abandon the spacetime framework.

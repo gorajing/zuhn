@@ -9,8 +9,11 @@
 - `INS-260410-9303` The brain's 'special sauce' is a large set of innately wired, species-specific reward functions — not a clever learning algorithm or architecture.
 - `INS-260325-BF44` Your immune system uses hypermutation and clonal selection — the same mutation-selection staircase as evolution — to fight novel pathogens in real time.
 - `INS-260410-BE5A` If you're reaching 65 at 1% rates throughout human history, evolution can't select alleles that preserve late-life function, which is why anti-aging should be relatively tractable versus problems evolution iterated on.
+- `INS-260410-C329` Plague evades the 'don't kill your host' constraint by being vector-borne and rodent-native; COVID-19 was uncontainable because of a specific latency window, not raw lethality.
 - `INS-260330-4B22` Boredom sits on the same emotional spoke as disgust and loathing, driving organisms toward complexity and neural growth.
+- `INS-260412-0EC0` Consciousness is best understood as a multi-step continuum from simple directed motion to self-reflective awareness.
 - `INS-260330-EEAE` Lane argues that single cells already act as coherent units using electrical membrane fields as real-time environmental feedback — and that consciousness is an elaboration of this ancient sensing mechanism, not a phase transition from computation.
+- `INS-260412-CF9B` Consciousness likely originated as a survival mechanism for directing hungry organisms toward food sources.
 - `INS-260330-D304` RuBisCo evolved in a low-oxygen world and now grabs oxygen instead of CO2 half the time — the same pattern drives human cognitive biases in modern environments.
 - `INS-260330-3B05` Kissing, curiosity, and exploration all share an evolutionary root: organisms that convert uncertainty into knowledge make better decisions and outcompete those that don't.
 - `INS-260404-AE3C` RuBisCo is a terrible enzyme that plants compensate for by producing 40 billion tons of it rather than evolving a replacement, illustrating how path dependence locks in suboptimal strategies.
@@ -26,6 +29,7 @@
 - `INS-260403-1E5A` Distractions continuously evolve toward knowledge workers, requiring ever-updated defenses rather than one-time solutions.
 - `INS-260403-0C95` Research on hunter-gatherers and organizations converges on 8 as ideal, 20 as hard to manage, and 50 as unwieldy—matching our evolutionary design.
 - `INS-260330-1DDE` Evolution can only reach solutions through chains of viable intermediates, while human creativity can leap across non-viable gaps — explaining why no species ever made a campfire despite billions of years.
+- `INS-260412-C921` Cumulative knowledge transfer across generations, not individual brilliance, is what made humans dominant.
 - `INS-260409-0584` A 2025 Bayesian phylogenetic model by Jordan Douglas detected saltative branching — rapid evolutionary leaps at speciation nodes followed by long stability — across enzymes, cephalopod body shapes, and Indo-European languages, validating punctuated equilibrium theory.
 - `INS-260409-BB40` Douglas's saltative branching model revealed that extinct evolutionary branches leave mathematical footprints on surviving lineages — the dead-end paths still shape what survived, even when invisible to direct observation.
 - `INS-260330-09DE` Photosynthesis is 'complicated, inefficient and confusing' yet dominates all life on Earth because it achieved planetary scale before any competitor could emerge.
@@ -47,7 +51,6 @@
 - `INS-260403-1284` Marketplaces in every category follow a predictable arc: horizontal discovery → vertical discovery → vertical transactional → fintech-enabled managed marketplace.
 - `INS-260404-0F87` Studying how a company's website messaging evolves reveals which value propositions are constant (the platform identity) versus which change (individual product positioning).
 - `INS-260403-8653` Plants evolved entire metabolic pathways to manage RuBisCo's toxic byproducts rather than replace the enzyme itself.
-- `INS-260404-5E8F` RuBisCo is terrible at its job but plants scaled it to 40 billion tons and dominated Earth, proving that volume compensates for per-unit inefficiency.
 - `INS-260404-CC7C` RuBisCo is evolution's ultimate legacy system — plants produce 40 billion tons of a bad enzyme rather than redesign the core pathway.
 - `INS-260330-0B4A` RuBisCo — the most abundant protein on Earth at 40 billion tons — is demonstrably bad at its job, confusing O2 for CO2 half the time, yet plants are permanently locked into it.
 - `INS-260404-FAE9` RuBisCo's 450-million-year reign shows that dominant systems compensate for flaws rather than replace core mechanisms.
@@ -60,4 +63,4 @@
 - `INS-260404-3B9D` RuBisCo is a terrible enzyme that won by being first and scaling to 40 billion tons rather than being replaced by something better.
 - `INS-260405-F20F` RuBisCo, an enzyme that makes catastrophic errors 50% of the time, remains the planet's dominant carbon-fixing enzyme because plants went all-in on it before oxygen made it dysfunctional.
 - `INS-260330-4489` RuBisCo is terrible at its job but plants produce 40 billion tons of it rather than evolving a better enzyme — a biological case study in scale-over-quality lock-in.
-- `INS-260410-C329` Plague evades the 'don't kill your host' constraint by being vector-borne and rodent-native; COVID-19 was uncontainable because of a specific latency window, not raw lethality.
+- `INS-260404-5E8F` RuBisCo is terrible at its job but plants scaled it to 40 billion tons and dominated Earth, proving that volume compensates for per-unit inefficiency.

@@ -50,11 +50,11 @@ stance: >-
   if it generates surplus that enables labor specialization and compound
   innovation.
 related:
+  - INS-260412-5684
   - INS-260330-66EF
   - INS-260330-696D
   - INS-260405-FBD7
   - INS-260403-1636
-  - INS-260330-EB1B
 evidence:
   - id: INS-260327-0D7C
     type: CHALLENGES

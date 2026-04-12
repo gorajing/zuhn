@@ -6,11 +6,17 @@
 - `INS-260323-1C32` If every AI project must show predictable ROI, you're structurally incapable of innovation — the first pancake is always burned.
 - `INS-260403-33DF` Regulation and capitalism are co-dependent, not adversarial — historically, oversight has enabled rather than blocked economic scaling.
 - `INS-260409-6A6C` Matuschak and Nielsen coin 'insight-through-making loop' — deep original research insights drive tool improvements which drive deeper research insights which drive better tools, forming a rapidly-turning feedback loop that produces transformative tools (Hindu-Arabic numerals, writing, calculus notation) that conventional product practice or conventional research practice cannot.
+- `INS-260327-EFA6` Car companies face electrification, Chinese competition, autonomous driving, regulatory changes, and consumer affordability crises all at once - any one would be manageable but together they're potentially fatal.
+- `INS-260410-C02E` Japan and Germany's export models weren't just about foreign demand — they were about forcing their firms to compete with world-class rivals when domestic markets would have tolerated monopolies.
+- `INS-260325-9CDC` The line between fringe and mainstream science shifts constantly -- exoplanet research went from 'silly' to a major field in one generation.
+- `INS-260410-5D08` Innovation ecosystems depend on risk-tolerant investors; one arbitrary crackdown — or even the credible threat of one — can wreck the whole stack for a decade.
 - `INS-260402-FE91` If you can think ideas that would make people's hair stand on end, the 'small trips outside the box' that people call innovation become effortless.
-- `INS-260330-255F` Only enter a category when you can make it one to two orders of magnitude better than what exists — if the technology or market isn't ready, wait.
-- `INS-260402-8ACF` Truly novel and valuable ideas must appear bad to most evaluators, because obvious good ideas get executed immediately and stop being novel.
+- `INS-260327-7C4A` Senior French generals couldn't see the Toulon solution because their experience trained them to think in terms of infantry assault — Napoleon's artillery background gave him a completely different analytical framework.
+- `INS-260327-479C` Russia maintained serfdom until 1861 — centuries after Western Europe abandoned it — which suppressed industrialization, innovation, and economic growth despite Russia's enormous natural resources.
 - `INS-260403-AAE4` The paths to new ideas look unpromising by definition — if they looked promising, others would have already explored them.
 - `INS-260410-A1A9` The 'collective brain' — population size times interconnectedness — explains why humans beat larger-brained Neanderthals and why Eurasia out-innovated other continents.
+- `INS-260330-255F` Only enter a category when you can make it one to two orders of magnitude better than what exists — if the technology or market isn't ready, wait.
+- `INS-260402-8ACF` Truly novel and valuable ideas must appear bad to most evaluators, because obvious good ideas get executed immediately and stop being novel.
 - `INS-260403-87AC` In technology, revenue growth can continue long after a company has lost its ability to create new things, as Microsoft demonstrated post-2000.
 - `INS-260403-39E9` Dismissing new ideas earns reliable social status while pursuing them only pays off probabilistically, creating a structural bias toward criticism.
 - `INS-260325-D033` 75,000-year-old African beds used ash layers to repel ticks and aromatic leaves to deter mosquitoes, while ostrich egg canteens were self-cooling through micro-porous evaporation.
@@ -32,14 +38,14 @@
 - `INS-260403-599B` When new technology arrives, ventures creating previously-impossible value win; those preserving old revenue models lose.
 - `INS-260403-D645` Language benchmarks using predefined specs miss the main advantage of powerful languages: enabling discovery of new solutions.
 - `INS-260405-F06C` Dismissing new ideas is not human nature — it's a cultural habit that formed when innovation happened too slowly to develop better customs, and it can change.
-- `INS-260330-D99D` McDonald's biggest innovations — the Big Mac, drive-thru, Ronald McDonald, and Happy Meal — all came from individual franchisees experimenting locally, not corporate headquarters.
-- `INS-260322-E06A` Stan Lee's publisher had three logical-sounding objections to Spider-Man — all three were wrong because they reflected conventions, not truths about what audiences want.
-- `INS-260409-EC0C` Not knowing the playbook guarantees you won't execute the playbook — making inexperience a forcing function for differentiation.
-- `INS-260330-95E8` OpenAI succeeded commercially because it needed revenue to sustain research; Google DeepMind underperformed commercially because Google's deep pockets removed the urgency.
 - `INS-260410-8EC3` Azure wasn't started inside Server & Tools — it was incubated under Ray Ozzie with Dave Cutler, separate from the group whose business it would reshape; Windows NT was separated from Windows for the same reason.
 - `INS-260328-6A18` Founders can't innovate across 20 zones — pick the top 3 where you want to innovate and hire the experienced person for everything else.
 - `INS-260328-6E7A` The more something looks like producing bolts, the more process works; the more it looks like producing art, the less process helps — and confusing the two is where startups go wrong.
 - `INS-260403-906E` Startups-as-acquisition-targets create better technology faster because developers are directly accountable for building the winner.
+- `INS-260330-D99D` McDonald's biggest innovations — the Big Mac, drive-thru, Ronald McDonald, and Happy Meal — all came from individual franchisees experimenting locally, not corporate headquarters.
+- `INS-260322-E06A` Stan Lee's publisher had three logical-sounding objections to Spider-Man — all three were wrong because they reflected conventions, not truths about what audiences want.
+- `INS-260409-EC0C` Not knowing the playbook guarantees you won't execute the playbook — making inexperience a forcing function for differentiation.
+- `INS-260330-95E8` OpenAI succeeded commercially because it needed revenue to sustain research; Google DeepMind underperformed commercially because Google's deep pockets removed the urgency.
 - `INS-260330-36DB` Tencent created three separate internal teams to build a mobile messaging app that would compete against their own dominant desktop product QQ, ensuring they disrupted themselves before an outsider could.
 - `INS-260321-96CE` Markets (topics) rarely change and can't be invented. Formats (creative vessels) are born daily. Innovate on format, not market — then transplant across markets for maximum leverage.
 - `INS-260403-363C` Benioff's catalytic question 'What if we sold enterprise software like Amazon sells books?' emerged from a broad cross-industry listening tour after leaving Oracle.
@@ -102,8 +108,6 @@
 - `INS-260325-F306` From 1870-1920 humanity had five major technological revolutions; from 1970-2020 we had only one definitive one (computing) and possibly two.
 - `INS-260330-9346` At the beginning of a technology S-curve, it's impossible to know if commercial viability is months or centuries away — and once the curve kicks in, decades of progress happen in years.
 - `INS-260325-EBDD` Bacon foresaw the power of systematic science in 1620 but the Industrial Revolution did not arrive until 200 years later.
-- `INS-260403-3A7A` Inconsistent cross-department innovation collaboration signals the need to formalize innovation processes with dedicated tooling.
-- `INS-260330-DE65` Labs forced to monetize their research (like OpenAI) consistently out-commercialize well-funded labs (like Google Brain/DeepMind) because financial pressure drives product focus.
 - `INS-260330-C607` Oxygen was photosynthesis's 'useless byproduct' that became the foundation of all animal life — the side effect outweighed the intended product.
 - `INS-260403-EEDF` Cities exhibit a universal super-linear scaling law where innovation and economic output increase ~15% per capita each time the population doubles.
 - `INS-260405-D8AA` Show the CFO what competitors are spending on innovation; loss aversion moves budgets faster than projected IRR.
@@ -112,12 +116,9 @@
 - `INS-260405-225B` SF will remain viable but become 'establishment' — the new innovation clusters will be distributed, crypto-friendly, and globally distributed rather than concentrated in a single American city.
 - `INS-260330-C7CB` The agricultural revolution was not a revolution — it was 13,000+ years of people incrementally optimizing for 'more food' without intending systemic change.
 - `INS-260402-B0AB` You cannot have technical imagination without political imagination — suppressing one suppresses both.
+- `INS-260412-6990` Tools without communication infrastructure to share and build on knowledge produce stagnation, not progress.
 - `INS-260330-B27A` LA discovered that sunlight + chlorine + bromide creates bromate — a carcinogenic reaction not covered by existing regulations that only monitored ozone-based bromate formation.
+- `INS-260403-3A7A` Inconsistent cross-department innovation collaboration signals the need to formalize innovation processes with dedicated tooling.
+- `INS-260330-DE65` Labs forced to monetize their research (like OpenAI) consistently out-commercialize well-funded labs (like Google Brain/DeepMind) because financial pressure drives product focus.
 - `INS-260405-DF08` Early uncertainty is irreducible by analysis — only experiments generate the evidence that reduces it.
 - `INS-260403-508D` Categorizing gains as expected, desired, or surprising reveals whether your value proposition is merely adequate or genuinely differentiated.
-- `INS-260327-EFA6` Car companies face electrification, Chinese competition, autonomous driving, regulatory changes, and consumer affordability crises all at once - any one would be manageable but together they're potentially fatal.
-- `INS-260410-C02E` Japan and Germany's export models weren't just about foreign demand — they were about forcing their firms to compete with world-class rivals when domestic markets would have tolerated monopolies.
-- `INS-260325-9CDC` The line between fringe and mainstream science shifts constantly -- exoplanet research went from 'silly' to a major field in one generation.
-- `INS-260327-7C4A` Senior French generals couldn't see the Toulon solution because their experience trained them to think in terms of infantry assault — Napoleon's artillery background gave him a completely different analytical framework.
-- `INS-260327-479C` Russia maintained serfdom until 1861 — centuries after Western Europe abandoned it — which suppressed industrialization, innovation, and economic growth despite Russia's enormous natural resources.
-- `INS-260410-5D08` Innovation ecosystems depend on risk-tolerant investors; one arbitrary crackdown — or even the credible threat of one — can wreck the whole stack for a decade.

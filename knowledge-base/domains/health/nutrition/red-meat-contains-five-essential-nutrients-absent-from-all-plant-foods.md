@@ -56,6 +56,7 @@ related:
   - INS-260327-118C
   - PRI-260325-654D
   - INS-260327-3678
+  - INS-260412-63A5
 ---
 A 2020 paper in the journal Amino Acids identifies taurine, creatine, carnosine, anserine, and 4-hydroxyproline as highly abundant in beef with critical roles in antioxidative, anti-inflammatory, neurological, muscular, retinal, immunological, and cardiovascular function. All five are absent from plant foods.
 

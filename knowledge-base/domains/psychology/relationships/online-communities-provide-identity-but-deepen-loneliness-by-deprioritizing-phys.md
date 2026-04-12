@@ -59,8 +59,8 @@ related:
   - INS-260323-D783
   - INS-260403-E36A
   - INS-260403-958C
-  - INS-260330-3888
-  - INS-260325-11E9
+  - INS-260412-12D3
+  - INS-260412-B769
 ---
 The essay presents a nuanced view of online communities: they genuinely help marginalized individuals (like a gay teen in a prejudiced town) find identity and hope. However, these communities simultaneously deprioritize physical place, eroding the local third spaces — churches, malls, community centers — where embodied relationships form. The result is a generation with broad but shallow social graphs: many loose digital connections but fewer close friends than any previous generation.
 

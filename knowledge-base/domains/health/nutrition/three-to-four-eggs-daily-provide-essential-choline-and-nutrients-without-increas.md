@@ -42,7 +42,7 @@ related:
   - PRI-260325-654D
   - INS-260325-69E8
   - INS-260327-C0C7
+  - INS-260412-5A41
   - INS-260327-83E1
-  - INS-260327-8A06
 ---
 Multiple large studies show 3-4 eggs daily do not increase cardiovascular risk while providing critical choline (90% of Americans are deficient), complete protein, B12, selenium, and fat-soluble vitamins

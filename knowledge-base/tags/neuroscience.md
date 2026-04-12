@@ -15,8 +15,6 @@
 - `INS-260330-9C40` Subtle fidgety movements trigger local epinephrine release from neurons innervating fat, burning 800-2500 additional calories daily without formal exercise.
 - `INS-260330-7981` Mitochondria do far more than produce energy — they regulate neurotransmitters, hormones, inflammation, and gene expression, making them the central node in mental health.
 - `INS-260330-443B` Palmer hypothesizes that obesity is often the consequence of brain dysfunction rather than a metabolic problem that then impacts the brain, reversing the conventional causal arrow.
-- `INS-260323-5EA1` Rick Beato believes all children are born with perfect pitch and lose it around nine months (when they become 'culturally bound listeners'); exposing babies to high-information music prenatally and in the first months engages the social brain for 'native music fluency.'
-- `INS-260330-B85B` Profanity is neurologically distinct from regular language, routed through the limbic system rather than cortical speech areas.
 - `INS-260403-CF23` Dopamine from novelty, risk, and complexity amplifies pattern recognition and drives motivation rather than serving as a reward signal.
 - `INS-260404-0519` The brain processes empathy through two distinct systems: prefrontal 'cold' reasoning circuits and amygdala-based 'hot' emotional mirroring, which can operate independently.
 - `INS-260403-705C` Neuroscience's predictive coding theory reveals humans and AIs share the same core learning algorithm — predict the next input, update weights.
@@ -24,6 +22,7 @@
 - `INS-260404-0348` fMRI scans show psychopaths' emotion centers remain silent during personal moral dilemmas that light up normal brains like a pinball machine.
 - `INS-260330-17C3` Romantic love elevates dopamine (the same reward pathway as cocaine addiction) and alters serotonin in patterns matching OCD, producing obsessive rumination and addictive attachment.
 - `INS-260330-0C10` Swearing uses a separate neural pathway from regular language, rooted in the emotional limbic system rather than cortical language areas.
+- `INS-260330-B85B` Profanity is neurologically distinct from regular language, routed through the limbic system rather than cortical speech areas.
 - `INS-260330-4B22` Boredom sits on the same emotional spoke as disgust and loathing, driving organisms toward complexity and neural growth.
 - `INS-260323-CA1F` In deep sleep, experience ceases — no space, no time, no self — yet something knows that nothing happened, suggesting awareness persists even at the lowest layer.
 - `INS-260408-59B3` Hassabis: most neuroscientists think the brain is an approximate Turing machine; no quantum effects found yet, so AI's ceiling is empirically open.
@@ -65,3 +64,4 @@
 - `INS-260325-CA88` Brain scans of people rejected in love show activity in the nucleus accumbens — the core addiction circuit activated by cocaine and heroin — plus physical pain regions, explaining why rejection can be more persistent than a toothache.
 - `INS-260325-A66E` The stress response is a multi-phase system that shifts from automatic survival processing to reflective goal-driven thinking, with cortisol acting through both high-affinity and low-affinity receptors to create a self-regulating arc.
 - `INS-260330-85D9` The brain's willpower center grows only from doing unwanted tasks, not merely difficult ones you enjoy.
+- `INS-260323-5EA1` Rick Beato believes all children are born with perfect pitch and lose it around nine months (when they become 'culturally bound listeners'); exposing babies to high-information music prenatally and in the first months engages the social brain for 'native music fluency.'

@@ -40,8 +40,9 @@ stance: >-
   positive attributes of the alternatives, creating shallow loyalty vulnerable
   to the next avoidance trend.
 related:
-  - INS-260327-EB60
   - INS-260327-CCD0
+  - INS-260412-63A5
+  - INS-260327-EB60
   - INS-260330-318C
   - INS-260327-F723
   - INS-260327-7B05

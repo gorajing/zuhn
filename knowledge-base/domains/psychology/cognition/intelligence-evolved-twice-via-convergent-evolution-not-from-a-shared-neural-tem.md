@@ -60,7 +60,6 @@ stance: >-
   higher cognition.
 related:
   - INS-260330-4634
-  - INS-260330-F056
   - INS-260409-C3F7
   - INS-260409-4CBB
   - INS-260321-3967

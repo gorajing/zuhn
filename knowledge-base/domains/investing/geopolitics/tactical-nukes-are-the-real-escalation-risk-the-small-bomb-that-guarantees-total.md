@@ -52,7 +52,7 @@ related:
   - INS-260330-F488
   - INS-260403-7E6A
   - INS-260323-CB47
-  - PRI-260323-7749
+  - INS-260412-531A
   - INS-260323-AEA5
 stance: >-
   Tactical nuclear weapons — designed for battlefield use — are the most

@@ -1,18 +1,18 @@
 # Tag: founder-psychology
 
 - `INS-260403-6890` Graham argues signalling risk from VC non-follow-on is in the same category as competitor fear—something founders worry about that rarely kills good startups.
+- `INS-260403-2F77` Successfully raising once miscalibrates founders into overestimating their ability to raise again under fundamentally different conditions.
+- `INS-260404-A8B9` Founders who are genuinely productive feel like frauds because their working conditions don't match the cultural archetype of professional success.
+- `INS-260404-94EB` We default to personality explanations for disinterest when the real cause is often structural incentive misalignment.
+- `INS-260404-B6B1` Taking full responsibility during a crisis isn't just virtuous — it functionally increases survival odds by keeping the founder in problem-solving mode rather than blame mode.
+- `INS-260403-3059` Constraints force founders to prioritize ruthlessly, while excess capital dulls urgency and enables avoidance of hard product decisions.
+- `INS-260329-C36D` The real obstacle to your first customers is your discomfort with asking people you know to buy from you, not any external market condition.
 - `INS-260330-D644` Don't start acquisition conversations unless you'd accept a low offer — the distraction and psychological demoralization of entertaining buyers kills more companies than most founders realize.
 - `INS-260403-8AEA` $10B+ founders nearly universally exhibit both a superiority complex and a deep inferiority complex operating simultaneously.
 - `INS-260403-E3E6` Most founders who take premature corp dev meetings already know it's a mistake but do it anyway because being wanted feels good.
 - `INS-260330-9BF3` Founder psychology doesn't stabilize with success — the emotional amplitude expands, with higher highs but increasingly devastating lows.
 - `INS-260403-DF73` Founders face coordinated pressure from VCs and executives to abandon instincts that are actually correct.
 - `INS-260330-3138` Success amplifies both the highs and lows of founding — the swings get wider, not smaller.
-- `INS-260404-B6B1` Taking full responsibility during a crisis isn't just virtuous — it functionally increases survival odds by keeping the founder in problem-solving mode rather than blame mode.
-- `INS-260403-3059` Constraints force founders to prioritize ruthlessly, while excess capital dulls urgency and enables avoidance of hard product decisions.
-- `INS-260329-C36D` The real obstacle to your first customers is your discomfort with asking people you know to buy from you, not any external market condition.
-- `INS-260403-2F77` Successfully raising once miscalibrates founders into overestimating their ability to raise again under fundamentally different conditions.
-- `INS-260404-A8B9` Founders who are genuinely productive feel like frauds because their working conditions don't match the cultural archetype of professional success.
-- `INS-260404-94EB` We default to personality explanations for disinterest when the real cause is often structural incentive misalignment.
 - `INS-260403-2A8A` Second-time founders develop calibrated emotional distance that turns churn, failed features, and funding pressure into data points rather than identity crises.
 - `INS-260403-DFBD` Expecting difficulty as the default state prevents the psychological fracture that occurs when optimistic leaders encounter inevitable friction.
 - `INS-260330-1226` After his wife died four months into their marriage, the 24-year-old Morgan threw himself into work with an intensity that defined the rest of his career.
@@ -31,6 +31,8 @@
 - `INS-260403-0821` What stops people from starting companies is the crushing weight of responsibility, not financial risk or long hours.
 - `INS-260329-B0F4` The beliefs you don't even think to question — not the ones you debate — are what truly limit your potential.
 - `INS-260409-3CCA` Writing the story doesn't feel like work, so founders skip the most important part of the job.
+- `INS-260327-7FDA` If you can quit, you should. If you literally cannot stop yourself from continuing, that's your signal to keep going.
+- `INS-260327-5B30` Check with your investors before assuming they want you to keep grinding on a failing idea.
 - `INS-260410-2402` Nvidia should have died at least four separate times between 1995 and 2019 — they survived not through brilliant pivots but through Jensen's refusal to abandon CUDA through 80% and 50% stock crashes when everyone else would have sold the company.
 - `INS-260328-0540` Ask yourself: what are the three things in my business that give me a stomach ache? Not pop problems or things from Twitter — the real ones.
 - `INS-260328-EBBC` The quality of what you give us is the only factor in the quality of what we give you back — generic prompts get generic answers, honest ones get real insight.
@@ -43,8 +45,6 @@
 - `INS-260329-E0DE` Business stress is universal across all states; the decision to categorize something as a 'problem' causes more stress than the problem itself.
 - `INS-260327-7B8E` At some point, founders must deliberately override their logical brain to pursue what rational analysis rejects.
 - `INS-260329-6117` The most damaging limits are the ones you don't know you have because you never think to question them.
-- `INS-260327-7FDA` If you can quit, you should. If you literally cannot stop yourself from continuing, that's your signal to keep going.
-- `INS-260327-5B30` Check with your investors before assuming they want you to keep grinding on a failing idea.
 - `INS-260328-B57E` Do not be discouraged by others' growth, but do not accept slow growth either — better tools mean you should be going faster than before.
 - `INS-260328-03BB` You will be judged by investors relative to your direct peers, not relative to the fastest-growing company in all of AI.
 - `INS-260405-12E6` Investors who can't evaluate your product in 10 minutes will fall back on your own apparent conviction as the main signal.

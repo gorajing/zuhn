@@ -51,7 +51,6 @@ stance: >-
   state alone - it requires reconstructing the minimum historical pathway that
   could have produced it.
 related:
-  - INS-260325-4E20
   - INS-260327-9DB0
   - PRI-260328-36C3
   - INS-260325-75A3

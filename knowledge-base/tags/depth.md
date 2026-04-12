@@ -6,3 +6,4 @@
 - `INS-260409-1AA0` One deliberate trip down the stack permanently changes how you reason about every layer above it — depth compounds.
 - `INS-260327-7846` Late success isn't failed early success - the depth required for truly meaningful work often requires decades of development that early success shortcuts.
 - `INS-260329-595E` Depth in one area compounds returns faster than breadth across many.
+- `INS-260412-578D` Each ocean depth zone has completely different light, pressure, food sources, and survival strategies — no single adaptation works across all layers.

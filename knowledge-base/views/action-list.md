@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-12 | 4850 actionable insights
+Generated on 2026-04-12 | 4859 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -993,6 +993,8 @@ Generated on 2026-04-12 | 4850 actionable insights
 - [INS-260329-72EF] Put sauce on the underside of your utensil before each bite so it hits your tongue first, making a tiny amount of sauce feel like a generous portion.
 - [INS-260325-024F] Two researchers proved the vitamin D RDA should be approximately 8895 IU not 600 IU but the error persists due to institutional incentives.
 - [INS-260409-BB5E] Zinc, vitamin D3, and heme iron from liver are rate-limiting for follicle stem cell activation and hair protein synthesis.
+- [INS-260412-5A41] Meta-analyses find no cancer or cardiovascular risk from moderate daily milk consumption (100-250ml).
+- [INS-260412-63A5] Soy milk is the only plant-based milk that naturally matches cow milk in protein and overall nutritional value; others require fortification.
 
 ## investing/ai-business-models
 - [INS-260322-5790] AI model input costs have declined 99%+ in two years (faster than Moore's law) while quality doubles every 7 months — meaning today's thin margins on AI apps will likely expand dramatically as long as model competition persists.
@@ -1296,6 +1298,7 @@ Generated on 2026-04-12 | 4850 actionable insights
 - [INS-260409-7632] Most people wait for results to grant permission for a new identity; the causal direction is actually reversed — identity must shift first and results follow.
 - [INS-260409-CE5F] Treat chronic fear as legacy survival code misfiring, not as a report about present reality.
 - [INS-260409-A1B2] Three-column exercise: write the emotions/thoughts/actions of your future self who achieved the goal, contrast with today's, then practice the future-self column as daily behavior.
+- [INS-260412-B769] The loneliness cycle must be broken at three points: what you attend to, how you interpret it, and how you behave in response.
 
 ## psychology/cognition
 - [INS-260330-8045] Every nervous system action follows a three-stage pipeline: sense the environment, integrate meaning, then execute a motor response.
@@ -1434,6 +1437,7 @@ Generated on 2026-04-12 | 4850 actionable insights
 - [INS-260403-E419] Harvard research found investors ask men promotion-oriented questions about scaling and growth while asking women prevention-oriented questions about risks and challenges, directly shaping funding outcomes.
 - [INS-260412-2CD6] The vaccine debate illustrates how evidence-based arguments inherently lose to emotional narratives because statistical reasoning can't compete with vivid anecdotes.
 - [INS-260412-FA41] When vaccines eliminate visible disease, people compare rare vaccine side effects against a now-invisible threat, making vaccines seem riskier than the disease.
+- [INS-260412-5F4D] Chronic loneliness makes your brain pay more attention to social cues but interpret them less accurately, biasing toward hostility.
 
 ## psychology/communication
 - [INS-260330-3570] Arguments that start by explicitly naming what is being disagreed about — and what is not — dramatically outperform arguments that jump straight into positions.
@@ -1562,6 +1566,7 @@ Generated on 2026-04-12 | 4850 actionable insights
 - [INS-260410-F5B6] Nike pioneered Asian outsourced manufacturing and then was caught completely off guard by the sweatshop labor crisis that its own strength invited.
 - [INS-260410-2CBC] People who over-plan their careers unconsciously filter for signals that confirm the plan and dismiss unrelated opportunities, which is exactly how the biggest opportunities get missed.
 - [INS-260412-C1EC] Inside a black hole's event horizon, moving in any direction only brings you to the singularity faster — the longest survival comes from doing nothing.
+- [INS-260412-4FBF] If something powerful enough would leave unmistakable traces and you find none, that silence is itself a strong signal.
 
 ## psychology/epistemics
 - [INS-260405-2B3F] Treating survey non-response as randomly missing data produces systematically wrong estimates whenever the stigmatized view is also the under-reported one.
@@ -1579,6 +1584,8 @@ Generated on 2026-04-12 | 4850 actionable insights
 - [INS-260411-8AEF] AI 'knowledge' is statistical likelihood rather than justified belief, requiring a Bayesian rather than classical epistemic framework.
 - [INS-260411-F649] AI deployments should be segmented by epistemic risk tolerance: tolerate hallucinations for creative tasks, require grounding for decision support, and demand formal verification for autonomous execution.
 - [INS-260411-7F4F] Aleatoric uncertainty (irreducible noise), epistemic uncertainty (knowledge gaps), and ontological uncertainty (ambiguous concepts) each demand different mitigation strategies.
+- [INS-260412-75FF] Single-example reasoning demands surfacing which properties you assume are universal versus local.
+- [INS-260412-7728] When you don't know the rules of the game, watch silently before announcing yourself.
 
 ## psychology/expertise
 - [INS-260330-C7B5] Making a tool part of your identity makes you worse at evaluating alternatives.
@@ -2304,6 +2311,7 @@ Generated on 2026-04-12 | 4850 actionable insights
 - [INS-260409-F691] Start documenting purposefully at your lowest point — that's when commitment crystallizes and the 'never again' story begins.
 - [INS-260409-143A] Hustle-driven anxiety triggers fight/flight physiology which measurably reduces creativity and opportunity recognition — the opposite of what the pursuit requires.
 - [INS-260409-B521] To get good you must be willing to be bad for a very long time — ego protection prevents the iteration that produces skill.
+- [INS-260412-FCDC] At abyssal depths, every surviving species moves in slow motion and conserves energy as its primary survival strategy.
 
 ## psychology/skill-development
 - [INS-260405-874D] Autonomy in work is a one-way door: once crossed, the cage of a managed job becomes visible and unbearable.
@@ -2753,6 +2761,7 @@ Generated on 2026-04-12 | 4850 actionable insights
 - [INS-260410-8BF9] No carrier would adopt CDMA unless someone made the base stations, the handsets, AND the chips — so Qualcomm built JVs with Nortel and Sony to make all three before divesting every non-core layer.
 - [INS-260410-3EF5] Pick an extreme: dominate globally with massive fixed costs or aggregate the world's weirdos around one niche — never sit in the middle.
 - [INS-260411-40CA] Empirical data on U.S. establishments from 1978-2022 shows roughly 60% of new entrants exit within 5 years and 80% within 10, yet challengers remain overconfident and drawn to ambiguous payoffs.
+- [INS-260412-3A50] Technological progress compounds so fast that delayed competitive response can become permanently unrecoverable.
 
 ## startups/content-strategy
 - [INS-260329-3332] A single 4+ hour comprehensive tutorial can accumulate millions of views over years by dominating 'full course' search queries.

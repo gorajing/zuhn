@@ -57,7 +57,6 @@ stance: >-
   2-billion-year stagnation, and only structural reorganization (like
   endosymbiosis) enables the next level of complexity.
 related:
-  - INS-260325-4E20
   - INS-260410-91C0
   - INS-260409-004E
   - INS-260410-3B8B

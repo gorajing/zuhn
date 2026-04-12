@@ -1,7 +1,8 @@
 # Topic: decision-making
 
-> 146 insights
+> 150 insights
 
+- `INS-260412-4FBF` [high] If something powerful enough would leave unmistakable traces and you find none, that silence is itself a strong signal.
 - `INS-260404-A246` [high] Admitting you're bad at something is the first step to finding effective workarounds like delegation or systematic search.
 - `INS-260403-F03A` [high] Judge purchases by projected usage, not by the deal you got.
 - `INS-260410-3B3E` [high] Munger's core life strategy — which Senra identified as the dominant theme of their 3-hour dinner — is that great businesses, great spouses, and great friends simply generate fewer crises than mediocre ones, so front-loading quality selection solves 99% of downstream problems.
@@ -14,6 +15,7 @@
 - `INS-260330-4BFD` [high] When a model needs ad-hoc explanations for gravity, time zones, satellite imagery, and navigation simultaneously, the model itself is wrong — not the evidence.
 - `INS-260330-6CB7` [high] Four of seven SI base units depend on the kilogram, so a fingerprint-weight drift in Big K corrupts Newtons, Joules, Volts, and Watts.
 - `INS-260412-8111` [high] The asteroid's direct impact was devastating, but it was the chain of earthquakes, tsunamis, atmospheric heating, wildfires, and nuclear winter that actually killed 75% of species.
+- `INS-260412-9D2A` [high] When a disaster destroys the very systems meant to respond to it, only prevention — not preparedness — offers real protection.
 - `INS-260404-2135` [high] Growing up with accuracy-focused judgments trains a false expectation that all judgments aim to be fair.
 - `INS-260330-D0B4` [high] Staying buckled in an inverted sinking helicopter is safer than the instinctive escape attempt, but requires trained override of natural panic responses.
 - `INS-260403-0769` [high] The belief that history guarantees your victory makes you stop doing the strategic work required to actually win.
@@ -120,6 +122,7 @@
 - `INS-260330-4315` [medium] Agriculture emerged independently worldwide, but this convergence proves shared evolutionary pressures, not that farming was the best choice.
 - `INS-260412-C1EC` [medium] Inside a black hole's event horizon, moving in any direction only brings you to the singularity faster — the longest survival comes from doing nothing.
 - `INS-260403-C695` [medium] Just as novice pilots overcorrect and cause oscillation, investors with too much power apply excessive corrections that destabilize startups.
+- `INS-260412-6D71` [medium] Unverifiable intentions plus existential stakes collapse decision-making to worst-case assumptions.
 - `INS-260330-3B05` [medium] Kissing, curiosity, and exploration all share an evolutionary root: organisms that convert uncertainty into knowledge make better decisions and outcompete those that don't.
 - `INS-260330-E403` [medium] New information or advice only expands your decision space if it's linearly independent from what you already know.
 - `INS-260405-6E4F` [medium] Better inputs compound into better judgment — information diet is a leverage point most people underinvest in.
@@ -136,6 +139,7 @@
 - `INS-260403-3548` [medium] Houdini refused surgery because accepting treatment contradicted his identity as someone who could overcome any physical challenge.
 - `INS-260403-9E97` [medium] Trump's rage at SCOTUS striking down tariffs — despite tariffs dragging his approval ratings — reveals how identity attachment to a signature policy overrides rational political self-interest.
 - `INS-260330-F82A` [medium] Plants maintaining a 50%-failure-rate enzyme for 450 million years demonstrates that sunk-cost behavior is a structural property of complex systems, not just a human cognitive flaw.
+- `INS-260412-BE47` [medium] A 1-in-100,000 chance over 5 billion years sounds negligible, but thousands of years of advance notice transforms an extinction event into a solvable engineering problem.
 - `INS-260403-9FB1` [medium] A typo in the Congressional Apportionment Amendment — 'more than' instead of 'less than' — would force the Supreme Court to definitively choose between textualism and originalism with no room for compromise.
 - `INS-260412-2F0C` [medium] Venus looks far worse than Mars today but its 90% Earth gravity makes it the better multi-generational bet.
 - `INS-260403-4452` [medium] The gap between supporting charity via taxation vs. personal donation reflects genuinely conflicting time-horizons within individuals, not hypocrisy.

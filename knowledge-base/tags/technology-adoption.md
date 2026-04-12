@@ -3,6 +3,9 @@
 - `INS-260330-E5F7` Languages succeed by occupying unique positions on the abstraction-vs-control spectrum, and shifts happen when new languages find gaps in that curve.
 - `INS-260410-0430` The printing press kept firing off new revolutionary applications — pamphlets enabling the Reformation, newspapers, magazines — for 150 years; the computer is doing the same thing now.
 - `INS-260403-03BD` Removing friction from simple tasks doesn't make people lazy — it frees them to attempt harder things.
+- `INS-260405-963B` Chamath argues AI is still early-stage even after two years of mainstream adoption and a trillion in investment.
+- `INS-260403-C314` When a superior technology gets coded as politically partisan, the opposing political coalition actively undermines national adoption, creating industrial decline.
+- `INS-260330-38C9` Son's 'time machine' theory treats the US tech ecosystem as a preview of what will succeed globally, turning geographic lag into an investment edge.
 - `INS-260402-0D16` Programming languages shape how practitioners think, making adoption a cognitive transformation rather than a simple tool swap — which is why features take decades to go mainstream.
 - `INS-260403-3C68` Years of EV FUD (range anxiety, charging time, mineral scarcity) successfully suppressed US adoption despite each concern being outdated or quantitatively wrong.
 - `INS-260330-8950` WWII forced the question of whether Western industrial progress actually represents moral progress, revealing that advanced capability enables advanced destruction.
@@ -15,6 +18,3 @@
 - `INS-260330-9346` At the beginning of a technology S-curve, it's impossible to know if commercial viability is months or centuries away — and once the curve kicks in, decades of progress happen in years.
 - `INS-260403-B835` Young founders use the latest technology first, positioning them to discover fixable brokenness before older, more experienced operators.
 - `INS-260330-BF8F` Web pages as UI were crude compared to desktop apps, but ubiquitous browser access was such a large advantage that quality didn't matter.
-- `INS-260405-963B` Chamath argues AI is still early-stage even after two years of mainstream adoption and a trillion in investment.
-- `INS-260403-C314` When a superior technology gets coded as politically partisan, the opposing political coalition actively undermines national adoption, creating industrial decline.
-- `INS-260330-38C9` Son's 'time machine' theory treats the US tech ecosystem as a preview of what will succeed globally, turning geographic lag into an investment edge.

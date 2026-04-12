@@ -60,6 +60,7 @@ related:
   - INS-260405-F26B
   - INS-260403-9E51
   - INS-260322-CCAA
+  - INS-260412-6898
 ---
 Zico Kolter's work highlights that as AI agents become autonomous decision-makers operating in environments with other agents, classical game theory becomes essential for predicting emergent behaviors. When multiple agents optimize for their own objectives, Nash equilibria, mechanism design, and strategic reasoning become the relevant analytical tools rather than single-agent optimization.
 
