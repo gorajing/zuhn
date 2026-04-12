@@ -56,10 +56,10 @@ related:
   - INS-260403-862D
   - INS-260404-EF52
   - INS-260404-5A02
-  - INS-260404-109D
   - INS-260403-ABD1
   - PRI-260405-E9C5
   - PRI-260406-7F84
   - INS-260409-3AC7
+  - INS-260404-943E
 ---
 Comparisons of US and European startup dynamism often attribute the gap to 'culture' — that Americans embrace failure while Europeans fear it. But this framing mistakes output for cause. The deeper explanation is institutional: US bankruptcy law allows fast discharge and restarting, founder blacklisting is culturally stigmatized, and the labor market supports movement between startups and back again. These structures create a feedback loop where failure becomes epistemically valuable rather than terminal. European ecosystems have improved significantly, but persistent gaps in labor mobility, investor attitudes toward repeat founders, and insolvency regimes mean the structural recovery infrastructure lags. Founders operating across both geographies should understand that the risk calculus is genuinely different, not just perceptually different.

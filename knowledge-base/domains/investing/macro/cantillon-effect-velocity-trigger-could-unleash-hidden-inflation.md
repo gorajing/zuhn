@@ -54,14 +54,13 @@ stance: >-
 related:
   - INS-260327-9638
   - INS-260330-EA56
-  - INS-260330-F67A
   - INS-260330-4D05
   - INS-260403-330D
   - INS-260411-EAE4
+  - PRI-260412-30DA
   - PRI-260328-2C4C
   - PRI-260403-2927
   - INS-260412-5253
-  - INS-260412-AB8A
 ---
 The standard objection to inflation fears post-QE has been 'where is the inflation?' The answer is that inflation has been sequestered in asset classes — housing, equities, bonds — rather than in consumer goods. Money velocity (the rate at which money changes hands in the real economy) has remained low because QE money circulates within financial markets rather than the general economy.
 

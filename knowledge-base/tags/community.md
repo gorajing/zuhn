@@ -5,29 +5,29 @@
 - `INS-260403-750A` Gen Z's return to religion and structured practices signals that unconstrained freedom is experienced as a burden, not liberation.
 - `INS-260412-8846` Financial communities that develop identity rituals and persecution narratives become self-policing systems that actively suppress fraud detection.
 - `INS-260403-DB0A` Making status visible in egalitarian communities instantly creates divisive in-group/out-group dynamics that are hard to reverse.
-- `INS-260330-647D` Secular culture has won the argument against religion but failed to build replacement institutions for community, ethical instruction, and the sacred — leaving a genuine void.
 - `INS-260403-958C` Online interaction encourages people to identify with distant interest-based groups over local physical communities.
 - `INS-260325-05E4` Gratitude combats the loneliness epidemic by expanding one's sense of belonging beyond the individual self.
 - `INS-260323-7263` Messaging on Discord, following creators who resonate with you, and having online friends all genuinely reduce loneliness and matter as real social connection — not just a substitute for in-person relationships.
 - `INS-260330-DD91` Rogan trusts old friends and fellow comedians because the grueling process of becoming a comic — years of bombing, humiliation, and persistence — creates a bond that reveals character more reliably than any other signal.
-- `INS-260324-6345` The Pokemon card market is part hobby, part investment, part cultural revival — driven by nostalgia-fueled millennials who brought professional career mindsets into the hobby.
+- `INS-260330-647D` Secular culture has won the argument against religion but failed to build replacement institutions for community, ethical instruction, and the sacred — leaving a genuine void.
 - `INS-260405-8F59` A 25% hard cap for underrepresented categories lets curators correct homogeneity without destroying participant trust in merit-based selection.
 - `INS-260405-17D4` When users publicly identify as 'a Figma designer,' the product gains social switching costs on top of technical ones.
 - `INS-260403-A331` Event hosting is becoming a systematic deal sourcing engine that shapes VC conviction before pitch decks exist.
 - `INS-260403-C17B` Twice-yearly high-visibility campaigns convert passive interest into active community participation by lowering activation energy at scale.
 - `INS-260403-D4D4` Lenny called his 2,500-member private Slack community one of his proudest achievements, distinct from the newsletter itself.
-- `INS-260405-42D3` Crowd voting surfaces candidates; editorial judgment makes final calls — this hybrid beats both pure democracy and pure autocracy in content curation.
+- `INS-260324-6345` The Pokemon card market is part hobby, part investment, part cultural revival — driven by nostalgia-fueled millennials who brought professional career mindsets into the hobby.
 - `INS-260405-4523` Well-maintained curated lists in fast-moving technical fields attract disproportionate community engagement because they solve the navigation problem most practitioners face.
+- `INS-260405-42D3` Crowd voting surfaces candidates; editorial judgment makes final calls — this hybrid beats both pure democracy and pure autocracy in content curation.
 - `INS-260327-B387` Serve your core fans like a band plays its hits—sideline critics will never become users no matter what you change.
 - `INS-260410-8B2C` Porsche's impenetrable model-number lineage (911 / 964 / 993 / 996 / 997 / 991 / 992, GT3, GT3 RS, Carrera, Carrera S, Turbo S) creates a language enthusiasts have to learn, which deepens tribal identification rather than hurting sales.
 - `INS-260330-1C50` Refusing to celebrate others' success out of competitive anxiety shrinks the total pie rather than protecting your share.
 - `INS-260403-C161` Plarium's strategy games with built-in clan mechanics achieved 2x retention versus the same games without clans.
 - `INS-260403-58CF` Early users come from consistent presence in user communities, not from one-time launch spikes.
 - `INS-260403-C445` Gen Z and younger millennials preferentially buy from founder-led, mission-driven brands over feature-equivalent faceless alternatives.
-- `INS-260403-2759` Effective startup ecosystems are built from small, intentional networks of 6-20 people that share knowledge and build mutual confidence.
-- `INS-260323-6414` Manifast reached 4,000 users and 50 paid customers by combining building-in-public on LinkedIn/Threads, sponsoring niche communities, recruiting ambassadors, and personally going offline to hand out flyers.
 - `INS-260323-4A3D` In prisoner's dilemma simulations, adding just a few shortcut connections to a clustered network destroys cooperation entirely -- explaining why social media breeds toxicity.
 - `INS-260328-982A` Zuckerberg chose founders (Doordash's Tony, Airbnb's Brian, Dropbox's Drew) for Meta's board over any investor — because operators in the trenches give better advice.
+- `INS-260323-6414` Manifast reached 4,000 users and 50 paid customers by combining building-in-public on LinkedIn/Threads, sponsoring niche communities, recruiting ambassadors, and personally going offline to hand out flyers.
+- `INS-260403-2759` Effective startup ecosystems are built from small, intentional networks of 6-20 people that share knowledge and build mutual confidence.
 - `INS-260323-D783` Cooking for others and sharing meals creates a uniquely powerful social bond — people become fundamentally different when sitting down together versus standing, drinking, or interacting online.
 - `INS-260403-1A08` Focus moderation on behavior standards rather than user gatekeeping to prevent community quality decay.
 - `INS-260403-22EE` Bad comments set the tone for entire threads and attract more bad comments, while bad submissions exist in isolation — requiring different moderation strategies.

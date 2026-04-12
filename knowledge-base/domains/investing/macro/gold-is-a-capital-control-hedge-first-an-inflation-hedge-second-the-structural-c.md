@@ -54,9 +54,9 @@ stance: >-
   interest rates, which financial repression explicitly targets.
 related:
   - INS-260403-8C41
+  - PRI-260412-3344
   - INS-260403-2225
   - PRI-260328-6CDE
   - INS-260412-B2FC
-  - PRI-260407-AE33
 ---
 Two stacked reasons for gold in a financial-repression regime. First, portability: when governments restrict how stocks, bonds, and regulated financial assets can move across borders, gold retains physical mobility that electronic assets lose. It becomes the practical means of defense for capital that wants to exit the repressed regime. Second, real-rate correlation: statistical analysis of gold's returns shows roughly 80% of price movements correlate inversely with real interest rates. Financial repression's explicit goal is forcing real rates negative. A regime that mechanically drives the variable gold most correlates with in the favorable direction is a structurally bullish regime for gold. This is a different argument from 'gold protects against inflation' — it's that gold protects against the specific mechanism (negative real rates + capital control) that defines the next era.

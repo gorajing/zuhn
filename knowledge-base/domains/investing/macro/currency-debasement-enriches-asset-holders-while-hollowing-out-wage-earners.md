@@ -51,9 +51,9 @@ stance: >-
 related:
   - INS-260330-EA56
   - INS-260412-5253
+  - PRI-260412-30DA
   - INS-260403-4227
   - INS-260412-89BE
-  - INS-260412-4859
 ---
 The video highlights a critical mechanism: when governments respond to debt crises by printing money, the inflation doesn't show up uniformly. Asset prices (housing, stocks) surge while wages remain stagnant or grow far slower. This creates a compounding generational disadvantage — Boomers bought homes at 2-3x income, Gen Z faces 6-7x. The dynamic is self-reinforcing: existing asset holders see their wealth grow passively while new entrants need ever-larger incomes to acquire the same assets.
 

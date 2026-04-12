@@ -58,7 +58,7 @@ related:
   - INS-260329-644B
   - INS-260403-976C
   - INS-260405-DA33
-  - INS-260403-3AE7
+  - PRI-260412-52DA
 ---
 Karpathy emphasizes that next-token prediction accuracy is a remarkably smooth function of only two variables — parameters N and training tokens D — with no observed plateau. Crucially, this accuracy correlates tightly with performance on downstream evals people actually care about. The strategic consequence is that algorithmic progress becomes a 'nice bonus' rather than the gating factor: if you can secure a bigger GPU cluster and more data, you are almost guaranteed a better model.
 

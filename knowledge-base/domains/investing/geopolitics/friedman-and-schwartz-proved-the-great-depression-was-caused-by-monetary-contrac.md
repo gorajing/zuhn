@@ -52,10 +52,10 @@ resolutions:
     can override all other economic factors.
 related:
   - INS-260327-D4D8
+  - PRI-260412-52DA
   - PRI-260328-0993
   - PRI-260328-6CDE
   - INS-260405-6D3A
-  - PRI-260406-C40C
 stance: >-
   Friedman and Schwartz's 12-year study proved the Great Depression was caused
   by a 30% drop in money supply due to Fed inaction

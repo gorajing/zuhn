@@ -47,10 +47,10 @@ stance: >-
   systematically mislead about economic impact.
 related:
   - INS-260404-6B73
+  - PRI-260412-30DA
   - PRI-260328-2C4C
   - INS-260405-6D3A
   - INS-260412-2C3F
-  - PRI-260324-3081
 evidence:
   - id: INS-260324-468C
     type: SUPPORTS

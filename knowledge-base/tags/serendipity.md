@@ -20,7 +20,7 @@
 - `INS-260404-0FEB` Oxygen — the gas that enabled all animal life — is a waste byproduct of photosynthesis's water-splitting step, not its intended product.
 - `INS-260404-FF39` Oxygen — the molecule enabling all animal life — was originally a toxic waste product of early photosynthesis, suggesting that transformative innovations often emerge as byproducts.
 - `INS-260403-EFE6` Oxygen — the gas that enabled all animal life — is just a waste byproduct of photosynthesis's real job of making glucose.
+- `INS-260410-58F2` The weight-loss effect of liraglutide was observed in rat trials years before Novo pursued it — overcoming internal stigma, not science, was the bottleneck.
 - `INS-260330-656A` Oxygen — the gas all animal life depends on — was originally just a toxic waste product of plants splitting water to replace stolen electrons.
 - `INS-260330-19C3` Oxygen was a toxic waste product of early photosynthesis that became the foundation for all complex animal life — a reminder that byproducts can eclipse primary products in value.
-- `INS-260410-58F2` The weight-loss effect of liraglutide was observed in rat trials years before Novo pursued it — overcoming internal stigma, not science, was the bottleneck.
 - `INS-260330-C607` Oxygen was photosynthesis's 'useless byproduct' that became the foundation of all animal life — the side effect outweighed the intended product.

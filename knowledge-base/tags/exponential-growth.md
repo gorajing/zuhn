@@ -5,16 +5,17 @@
 - `INS-260412-3FF0` A 2013 smartphone chip performed 28 billion calculations per second — 72 million times more than ENIAC, which filled an entire room in 1946.
 - `INS-260330-FF5B` Log scales convert exponential curves into straight lines, making growth rates, trend changes, and inflection points immediately visible to human perception.
 - `INS-260412-41A5` Superradiant scattering shows that exponential amplification requires both an energy source and a reflective boundary working together.
+- `INS-260412-AEE1` A Dyson Swarm bootstraps itself through exponential doubling — each panel powers the construction of the next, completing in ~60 doublings.
 - `INS-260405-A309` The length of tasks AI can perform autonomously doubles roughly every seven months, accelerating exposure of knowledge work.
-- `INS-260412-2D98` Effective early intervention against exponential threats always feels like an overreaction because success is invisible.
-- `INS-260330-AA4F` Because humans linearize exponentials, they systematically under-react when early action is cheapest and over-react when the situation is already determined.
-- `INS-260412-A944` When threats escalate non-linearly, the early months feel barely noticeable while the final phase overwhelms all capacity to respond — and the intervention window closes during the comfortable phase.
 - `INS-260330-FB66` Human brains default to linear extrapolation, causing systematic underestimation of exponential processes in their early stages.
 - `INS-260330-864C` We anchor on small early numbers in exponential sequences and then are shocked when they suddenly look big, even though the pattern was perfectly consistent all along.
 - `INS-260330-41A5` People instinctively project linear trends even when told growth is exponential, because ancestral environments rarely produced compounding phenomena.
-- `INS-260402-4BC7` Learning compounds on itself, and nearly every form of exponential growth is either learning or deeply intertwined with it.
+- `INS-260412-2D98` Effective early intervention against exponential threats always feels like an overreaction because success is invisible.
+- `INS-260330-AA4F` Because humans linearize exponentials, they systematically under-react when early action is cheapest and over-react when the situation is already determined.
+- `INS-260412-A944` When threats escalate non-linearly, the early months feel barely noticeable while the final phase overwhelms all capacity to respond — and the intervention window closes during the comfortable phase.
 - `INS-260330-9935` Converting percentage growth rates into doubling times gives non-mathematical audiences an intuitive grasp of exponential speed that raw percentages cannot provide.
 - `INS-260330-ED8A` Log-scale plots convert exponentials into straight lines, making changes in growth rate perceptually obvious where linear plots obscure them.
+- `INS-260402-4BC7` Learning compounds on itself, and nearly every form of exponential growth is either learning or deeply intertwined with it.
 - `INS-260330-1C84` Every exponential process in nature eventually saturates, making the logistic S-curve a more accurate mental model than pure exponential growth.
 - `INS-260330-1AB0` All real-world exponentials are logistic curves that saturate when the growth medium is exhausted, making the S-curve the true model for any bounded growth process.
 - `INS-260330-6AA3` The growth factor (today's new cases divided by yesterday's) directly reveals the exponent driving a process, making it a superior early-warning metric to absolute counts.
@@ -26,4 +27,3 @@
 - `INS-260330-608C` A small reduction in growth rate (e.g., from 15% to 10% daily) produces dramatically different outcomes over time due to compounding, making rate optimization the highest-leverage intervention.
 - `INS-260402-318B` Superlinear returns arise from exponential compounding, winner-take-all thresholds, or their combination.
 - `INS-260323-244C` Netanyahu identifies the core AI leadership challenge: most people — including most political leaders — think in linear increments and cannot intuitively grasp geometric growth rates.
-- `INS-260412-AEE1` A Dyson Swarm bootstraps itself through exponential doubling — each panel powers the construction of the next, completing in ~60 doublings.

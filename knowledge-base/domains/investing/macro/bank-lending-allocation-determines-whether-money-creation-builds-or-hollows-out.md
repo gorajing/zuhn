@@ -60,7 +60,7 @@ related:
   - INS-260410-731D
   - INS-260412-56D5
   - INS-260412-2054
-  - PRI-260328-8284
+  - PRI-260412-52DA
 ---
 Banks prefer mortgage and real estate lending because physical collateral makes defaults recoverable — if a borrower can't pay, the bank takes the house. This rational self-interest systematically starves productive investment: R&D, small business, manufacturing, and education receive less funding because they lack physical collateral and carry higher default risk.
 

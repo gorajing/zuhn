@@ -25,8 +25,8 @@
 - `INS-260412-37A6` Commoditized technology lets new entrants match incumbent quality at a fraction of the price, shifting competition to design and distribution.
 - `INS-260323-DDC2` You can only iterate fearlessly on expensive robots if you can repair them yourself — the ability to 'just go make it' is the enabling condition for rapid learning.
 - `INS-260330-C0E2` Apple's improving phone quality extended upgrade cycles from 2 years to 3-4 years, flattening sales despite a growing installed base — a structural paradox for any durable goods company.
-- `INS-260412-8E7E` Samsung repeatedly entered established markets late, then iterated until they became market leaders — memory chips, TVs, smartphones, displays.
 - `INS-260404-047D` Halo's live demo was rated the highest session at a 100-founder retreat, with audience members visibly emotional — proving that experiential proof outperforms analytical proof for novel technology.
+- `INS-260412-8E7E` Samsung repeatedly entered established markets late, then iterated until they became market leaders — memory chips, TVs, smartphones, displays.
 - `INS-260405-ABE0` Valve can afford hardware bets others can't because every device plugs into an already-won software distribution war.
 - `INS-260330-0E4B` At scale, force daily multi-hour cross-functional calls where every discipline shares trade-offs and hears how their decisions affect others.
 - `INS-260404-3BAB` YC W26 tilts heavily toward physical-world AI problems as the easy SaaS layer gets commoditized, signaling where defensible value is migrating.

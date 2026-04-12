@@ -57,6 +57,7 @@ related:
   - INS-260412-5291
   - INS-260330-F79F
   - PRI-260406-7862
+  - PRI-260412-30DA
   - PRI-260328-0993
 ---
 DCF math: fair value equals the sum of all future cash flows discounted to present value. When the discount rate is very low, cash flows 10-20 years out contribute enormously to today's price — which is why growth stocks, whose cash flows are backloaded, dominated during the zero-rate era. The discount rate was low not because of market supply and demand alone, but because China pegged its currency to the dollar in 1994 and Asian central banks bought US Treasuries on a massive scale to maintain the peg. That buying pressure artificially depressed the 10-year yield and thus the equity discount rate. Under capital nationalism, foreign Treasury demand reverses — and when the discount rate normalizes, long-duration growth equity compresses far more than short-duration value equity. The same mechanism that levitated growth for 30 years now drags it down.

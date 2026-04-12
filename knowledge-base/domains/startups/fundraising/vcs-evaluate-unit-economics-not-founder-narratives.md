@@ -43,9 +43,9 @@ stance: >-
   who can
 related:
   - INS-260330-4E10
+  - PRI-260412-52DA
   - INS-260403-C838
   - INS-260403-2F60
   - INS-260403-3AE7
-  - INS-260330-6F7B
 ---
 The post is explicit: 'Venture capital investors don't care about stories—they care about metrics.' The KPIs that matter are MRR/ARR growth, burn rate, runway, LTV:CAC ratio, and customer payback period. A founder who arrives at a pitch unable to walk through these numbers with confidence signals they don't have control of the business. This is a compressible pattern across many investor accounts: the story earns the meeting, but the numbers determine the term sheet. Founders should treat financial fluency as a fundraising skill, not an accounting task.

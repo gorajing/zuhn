@@ -49,11 +49,11 @@ stance: >-
   market is no longer reflecting economic reality but rather functioning as a
   receptacle for central bank money creation
 related:
+  - PRI-260412-30DA
   - INS-260403-99DE
   - INS-260327-505A
   - INS-260405-6E60
   - INS-260403-BED6
-  - INS-260411-EAE4
 ---
 Throughout the 20th century, stock markets roughly tracked economic output — they were measuring instruments for productive activity. The post-2008 divergence, where US stock market capitalization reached nearly twice GDP, reveals that markets have become disconnected from the real economy and instead function as the primary absorption mechanism for QE money.
 

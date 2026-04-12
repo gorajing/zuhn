@@ -44,7 +44,6 @@ stance: >-
   broad hedging.
 related:
   - INS-260322-7276
-  - INS-260323-F5EF
   - INS-260326-6B98
   - INS-260330-790A
   - INS-260403-147C
@@ -53,5 +52,6 @@ related:
   - INS-260403-970B
   - INS-260403-032B
   - INS-260403-D8B5
+  - INS-260403-2241
 ---
 The power law of venture returns means that most portfolio companies return little or nothing, while one or two outliers generate the entire fund's returns and then some. This is not a quirk but a structural feature of the asset class. VCs who spread capital thinly across many bets to 'reduce risk' actually reduce expected returns — you can't own enough of the winner if you've already diluted capital into 50 mediocre bets. The implication is that portfolio construction should favor fewer, larger positions in the highest-conviction companies. Reserves — capital held back for follow-on investments in winners — are critical precisely because they allow doubling down on outliers rather than spreading evenly.

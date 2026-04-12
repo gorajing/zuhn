@@ -3,10 +3,6 @@
 - `INS-260321-53E2` All AI computation is matrix multiplication (word relationships scored as points in matrices) — Hinton discovered GPUs excelled at this by accident in 2012, winning ImageNet overwhelmingly.
 - `INS-260325-BB13` A smartphone processor requires tools from the Netherlands, chemicals from Japan, design from the US, fabrication in Taiwan, and assembly in Malaysia — no single company or country controls the full stack.
 - `INS-260325-76BD` Nuclear weapon technology has barely improved since the 1960s and even North Korea can build one — but cutting-edge chips require such extreme precision that only 3 companies worldwide can manufacture them.
-- `INS-260404-1755` ARM's licensing model lets it scale globally without any manufacturing infrastructure or costs.
-- `INS-260412-4CC8` TSMC holds 61.7% foundry market share vs Samsung's 11% because higher yields attract premium clients, whose revenue funds further R&D — a flywheel that accelerates the gap.
-- `INS-260403-90A0` China's rare earth export tightening and Western chip seizures are forcing companies to vertically integrate within their geopolitical bloc or risk existential supply disruption.
-- `INS-260410-020E` Qualcomm patented CDMA in 1986 when the processing required was physically impossible — because they correctly forecasted Moore's Law would make it feasible by ship date.
 - `INS-260412-22A6` Samsung's failure to produce qualifying HBM3E chips for Nvidia — despite being a major semiconductor manufacturer — triggered a $122B market cap loss precisely because memory chips are Samsung's supposed core competency.
 - `INS-260410-CA89` Qualcomm's $120B franchise exists because it owns the patents AND the chip designs while treating handsets and base stations as commodity steps to spin off.
 - `INS-260410-F96E` Nvidia's decision to write its own drivers in the 1990s — a costly move most chip companies outsourced — planted the low-level software expertise that became CUDA and eventually enabled 66% gross margins on hardware.
@@ -23,3 +19,7 @@
 - `INS-260325-2BB0` TSMC makes roughly 90% of advanced processor chips used in phones, computers, and AI — an unprecedented concentration of critical manufacturing in one company in one geopolitically sensitive location.
 - `INS-260323-FFE8` The decisive factor in US-China competition is technological supremacy — particularly AI and standard-setting — not raw GDP growth.
 - `INS-260323-D6BD` Despite appearing ideologically opposed, Biden barely cut any tariffs on China and maintained aggressive semiconductor export controls — US containment of China is structurally bipartisan.
+- `INS-260404-1755` ARM's licensing model lets it scale globally without any manufacturing infrastructure or costs.
+- `INS-260412-4CC8` TSMC holds 61.7% foundry market share vs Samsung's 11% because higher yields attract premium clients, whose revenue funds further R&D — a flywheel that accelerates the gap.
+- `INS-260403-90A0` China's rare earth export tightening and Western chip seizures are forcing companies to vertically integrate within their geopolitical bloc or risk existential supply disruption.
+- `INS-260410-020E` Qualcomm patented CDMA in 1986 when the processing required was physically impossible — because they correctly forecasted Moore's Law would make it feasible by ship date.

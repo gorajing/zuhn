@@ -48,9 +48,9 @@ stance: >-
 related:
   - INS-260410-76A3
   - INS-260330-F5A1
+  - PRI-260412-52DA
   - INS-260410-A325
   - INS-260405-3240
-  - INS-260325-5B7F
   - INS-260409-A11F
 evidence:
   - id: INS-260330-F5A1

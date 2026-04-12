@@ -57,9 +57,9 @@ related:
   - INS-260329-89ED
   - INS-260410-7F35
   - PRI-260325-262C
+  - PRI-260412-3344
   - INS-260412-7B69
   - INS-260410-CBF9
-  - PRI-260406-F9EB
 ---
 Paine's core thesis is that the commissar system and party apparatus communists built are unmatched at the specific task of seizing power during warfare and maintaining it afterward. Mao killed tens of millions yet faced no successful coup or insurgency; North Korea remains a dynastic mess yet the Kim family stays in power; North Vietnam seized a three-harvest-per-year country and promptly engineered famine.
 

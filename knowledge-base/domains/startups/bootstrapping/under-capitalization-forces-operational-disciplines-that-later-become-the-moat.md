@@ -60,9 +60,9 @@ related:
   - INS-260327-3DCB
   - INS-260404-5A02
   - INS-260403-98DA
+  - PRI-260412-52DA
   - INS-260403-3059
   - INS-260412-2C3F
-  - PRI-260406-6C43
   - INS-260410-17E2
 ---
 Kmart had everything Walmart didn't: a national distribution backbone, Wall Street darling status, capital to expand city by city. Walmart had to build every piece of infrastructure from cash flow, which meant every distribution center, every trucking lane, every vendor negotiation had to pay for itself. Sam Walton said directly that had they been well-capitalized, they wouldn't have bothered with small-town America or the ruthless per-unit discipline — they would have tried to build Kmart.

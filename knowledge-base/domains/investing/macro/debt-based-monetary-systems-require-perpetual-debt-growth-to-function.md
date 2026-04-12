@@ -51,8 +51,8 @@ related:
   - INS-260412-9E3A
   - INS-260412-5253
   - INS-260412-B2FC
+  - PRI-260412-30DA
   - PRI-260406-861A
-  - INS-260412-D883
 ---
 In a debt-based monetary system, 97% of money exists as digital bank credit created through loans. This means the money supply is literally composed of outstanding debt. When borrowers repay loans without new loans being issued, money is destroyed — the money supply contracts. This creates an inherent growth imperative: the system needs continuously expanding debt to maintain a stable or growing money supply.
 

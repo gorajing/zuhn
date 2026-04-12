@@ -5,16 +5,16 @@
 - `INS-260330-AA8B` YC data shows all 9 companies that added random co-founders between interview and batch start fell apart within a year.
 - `INS-260404-9263` Solo founders get into top accelerators, but strong co-founding teams have a clear edge in selection.
 - `INS-260326-7B2A` If you can't hire someone smarter than you, do the work yourself — early hires set the talent bar that attracts or repels all future candidates.
-- `INS-260322-70DD` Stop hiring for the business you used to be — at $30-50M revenue you need a CFO not a bookkeeper, and the founder becomes the ceiling when every function must pass through them.
-- `INS-260320-A1D3` Keep your content creator team to 5-10 people max, meet with each 1:1, and share what converts vs what doesn't — a small elite team compounds while a large team dilutes quality.
 - `INS-260320-07A2` Hire people who were already customers — they have conviction you can't interview for.
 - `INS-260327-7349` Kaz extends Toby Lutke's trust battery concept: start at 75% trust to enable risk-taking, but deplete faster to quickly identify who belongs.
+- `INS-260320-A1D3` Keep your content creator team to 5-10 people max, meet with each 1:1, and share what converts vs what doesn't — a small elite team compounds while a large team dilutes quality.
+- `INS-260403-26CD` Top accelerators prioritize diverse, complementary teams over solo founders in their selection process.
+- `INS-260403-F554` 92% of VCs say the team is the most important element, valuing complementary skills and pivot capability over raw individual talent.
+- `INS-260322-70DD` Stop hiring for the business you used to be — at $30-50M revenue you need a CFO not a bookkeeper, and the founder becomes the ceiling when every function must pass through them.
 - `INS-260403-FA12` Early hires define company culture and execution speed more decisively than any strategic or product decision.
 - `INS-260403-AC29` List your weaknesses and hire exclusively from that list for your first three roles.
 - `INS-260404-9626` Offshore hires often stay longer than domestic ones, and their presence reduces burnout-driven turnover on local teams.
 - `INS-260403-A8A3` Second-time founders stop wearing every hat early, hire for trajectory and ownership mindset, and design roles for the company's future shape.
-- `INS-260403-26CD` Top accelerators prioritize diverse, complementary teams over solo founders in their selection process.
-- `INS-260403-F554` 92% of VCs say the team is the most important element, valuing complementary skills and pivot capability over raw individual talent.
 - `INS-260323-46F8` 50% of businesses fail in 2 years because leaders cannot hold teams accountable — the failure is internal culture, not external markets.
 - `INS-260327-BEEE` Everyone needs money to pay rent, but people work for many other reasons — understanding those motivations and rewarding them is what retains talent.
 - `INS-260403-4963` Plan quarterly meetups centered on one unforgettable shared activity, because Slack doesn't build culture — shared memory does.

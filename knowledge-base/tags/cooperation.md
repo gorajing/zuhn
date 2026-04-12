@@ -1,6 +1,7 @@
 # Tag: cooperation
 
 - `INS-260404-34DB` CMU's Zico Kolter argues AI agents must be designed to cooperate via game theory, not just optimize individual goals.
+- `INS-260412-C876` The Antarctic Treaty succeeded by explicitly refusing to resolve territorial claims while banning military and mining activity.
 - `INS-260327-6C64` In game theory tournaments, tit-for-tat (cooperate first, then mirror) consistently beats both always-cooperate and always-defect strategies across repeated interactions.
 - `INS-260325-47FE` Tit-for-tat wins repeated game theory: cooperate first, then mirror — simplicity and consistency beat complex manipulation.
 - `INS-260412-9F1D` Competitive dynamics within a crowd destroy cooperative behavior and are the primary driver of crowd crush risk.
@@ -15,4 +16,3 @@
 - `INS-260323-4A3D` In prisoner's dilemma simulations, adding just a few shortcut connections to a clustered network destroys cooperation entirely -- explaining why social media breeds toxicity.
 - `INS-260412-E2A2` Argentine ants' low genetic diversity — normally a weakness — eliminated inter-colony rivalry and enabled continent-spanning supercolonies.
 - `INS-260412-6990` Tools without communication infrastructure to share and build on knowledge produce stagnation, not progress.
-- `INS-260412-C876` The Antarctic Treaty succeeded by explicitly refusing to resolve territorial claims while banning military and mining activity.

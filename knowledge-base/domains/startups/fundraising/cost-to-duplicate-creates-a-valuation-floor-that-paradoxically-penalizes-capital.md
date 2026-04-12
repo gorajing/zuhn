@@ -59,7 +59,7 @@ related:
   - INS-260403-B374
   - INS-260330-4E10
   - PRI-260406-CA93
-  - INS-260403-3BBB
+  - PRI-260412-52DA
 ---
 The Cost-to-Duplicate approach estimates what it would take to rebuild a startup from scratch — engineering time, salaries, R&D, patents, infrastructure. If you spent $1.2M building a working prototype, that becomes your valuation floor. But this creates a perverse incentive: a team that spent $3M building the same thing gets a higher floor than the lean team that did it for $500K.
 

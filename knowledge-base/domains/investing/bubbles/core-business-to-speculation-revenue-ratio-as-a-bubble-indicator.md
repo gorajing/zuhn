@@ -57,7 +57,7 @@ related:
   - PRI-260328-EAC4
   - PRI-260328-6136
   - PRI-260328-0993
-  - INS-260327-3A81
+  - PRI-260412-30DA
 ---
 During the late 1980s, Japanese manufacturers including Nissan earned more revenue from speculative investments in real estate and stocks than from their actual products. This represents a measurable, objective signal that an economy has shifted from productive growth to speculative mania.
 

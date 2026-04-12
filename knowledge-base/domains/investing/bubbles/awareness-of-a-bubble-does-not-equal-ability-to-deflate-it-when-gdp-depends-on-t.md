@@ -54,12 +54,11 @@ stance: >-
   act when the bubble has become structurally load-bearing for economic growth
   metrics.
 related:
-  - INS-260327-D7DD
   - INS-260327-77A0
   - PRI-260328-EAC4
   - PRI-260403-2927
   - INS-260412-F80E
-  - INS-260412-4859
+  - PRI-260412-30DA
 ---
 Perhaps the most striking detail in China's housing situation is that Beijing is fully aware of the bubble, understands the risks, and even knows the approximate solution set — slow lending, rein in local governments, introduce property taxes. Yet it struggles to act because real estate is so deeply intertwined with GDP that any corrective measure would risk significant economic deceleration.
 

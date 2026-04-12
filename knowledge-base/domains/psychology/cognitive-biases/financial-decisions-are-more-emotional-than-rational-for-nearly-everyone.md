@@ -46,7 +46,6 @@ stance: >-
   psychological factors rather than calculated self-interest.
 related:
   - INS-260322-760A
-  - INS-260323-1338
   - INS-260323-53FF
   - INS-260327-5C91
   - INS-260327-A8D9
@@ -55,6 +54,7 @@ related:
   - INS-260402-A999
   - INS-260325-5A72
   - INS-260403-5843
+  - INS-260403-35EE
 evidence:
   - id: INS-260322-760A
     type: SUPPORTS

@@ -1,8 +1,9 @@
 # Tag: survival
 
+- `INS-260410-B74C` Choose to be modestly less profitable than peers in booms so you can remain standing — and acquire them — during busts.
 - `INS-260330-051F` All death results from irreversible homeostatic failure, regardless of the proximate cause.
-- `INS-260412-CF9B` Consciousness likely originated as a survival mechanism for directing hungry organisms toward food sources.
 - `INS-260330-C8B4` Organisms that over-detect patterns survive longer than those that under-detect them because missing a real threat is costlier than reacting to a false one.
+- `INS-260412-CF9B` Consciousness likely originated as a survival mechanism for directing hungry organisms toward food sources.
 - `INS-260323-EDAD` Repeatedly putting yourself in high-stakes situations where failure is likely trains you to accept setbacks faster and redirect energy toward the next opportunity.
 - `INS-260323-34B7` The most intense flow states and deepest gratitude emerge when your actions are directly connected to meeting fundamental survival needs.
 - `INS-260330-12D5` Over-detecting threats in ambiguous stimuli is evolutionarily cheaper than missing real threats, so apophenia persists as a survival advantage.
@@ -29,4 +30,3 @@
 - `INS-260403-D49E` Shifting from 'buy our product' to 'what do you need' unlocks immediate revenue from startup talent advantages.
 - `INS-260403-AC9F` The most dangerous period for startups is not the search for PMF but the growth plateau that follows 3-5 years after finding it.
 - `INS-260330-440E` The Indus Valley shows almost no evidence of warfare or military infrastructure, and its collapse coincided with the arrival of more warlike peoples.
-- `INS-260410-B74C` Choose to be modestly less profitable than peers in booms so you can remain standing — and acquire them — during busts.

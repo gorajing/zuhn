@@ -1,7 +1,7 @@
 # Tag: scalability
 
-- `INS-260412-C956` The Matrix demo's city was procedurally generated from algorithmic rules, freeing designers to focus on story and fine-tuning rather than manual asset placement.
 - `INS-260325-CACA` From non-interchangeable bolts to standardized programming languages, the story of computing's power is inseparable from the story of standardization.
+- `INS-260412-C956` The Matrix demo's city was procedurally generated from algorithmic rules, freeing designers to focus on story and fine-tuning rather than manual asset placement.
 - `INS-260330-74A0` Proof of work exploits the asymmetry between creation difficulty and verification ease to scale trust across unlimited participants.
 - `INS-260404-420F` Use the Business Model Canvas to iterate toward a model that is both profitable and scalable, not just one or the other.
 - `INS-260402-B42C` A barbershop's locality limits its growth but also limits its competition to other local barbers — startups that remove such constraints face the whole world.

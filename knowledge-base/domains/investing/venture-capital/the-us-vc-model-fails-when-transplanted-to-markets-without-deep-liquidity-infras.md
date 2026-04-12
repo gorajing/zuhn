@@ -56,8 +56,8 @@ related:
   - INS-260409-F485
   - PRI-260406-6C43
   - INS-260403-5426
+  - PRI-260412-52DA
   - INS-260404-1A3F
-  - INS-260405-BC10
 ---
 The 10-year VC fund model was designed for the US ecosystem where pension funds provide deep LP pools, secondary markets offer interim liquidity, and a robust M&A/IPO pipeline enables exits. When this model is transplanted to European, African, or Indian markets, it encounters fundamental structural mismatches: money is less liquid, pension funds aren't universal LP participants, and innovation ecosystems don't generate the same exit velocity.
 

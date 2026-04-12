@@ -57,6 +57,7 @@ related:
   - PRI-260328-6CDE
   - PRI-260328-D68F
   - INS-260403-225B
+  - PRI-260412-A051
 ---
 The US changed unemployment methodology in 1994 to exclude discouraged workers and underemployed — comparing today's U6 to historical U3 reveals unemployment is worse than any period except the late 1970s and early 1980s. Similarly, CPI calculations were altered in the 1980s to substitute cheaper goods and exclude direct housing costs, creating a persistent gap between official and shadow inflation rates.
 

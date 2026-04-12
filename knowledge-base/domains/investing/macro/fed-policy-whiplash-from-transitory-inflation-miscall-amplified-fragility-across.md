@@ -61,7 +61,8 @@ related:
   - INS-260403-9897
   - INS-260409-053F
   - INS-260412-09A7
-  - INS-260412-4859
+  - PRI-260412-A051
+  - PRI-260412-30DA
 ---
 The Federal Reserve initially characterized rising inflation in late 2021 as 'transitory' and delayed rate hikes. When this assessment proved wrong, the Fed had to raise rates much faster than it otherwise would have, creating a whiplash effect in bond markets. SVB's long-term bond portfolio lost value far more rapidly than it would have under a gradual, well-telegraphed tightening cycle. The speed of the rate increases — not just their magnitude — was what made the duration mismatch lethal.
 

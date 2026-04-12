@@ -1,8 +1,8 @@
 # Tag: mentorship
 
 - `INS-260409-A1D3` Skills are teachable in weeks; attitudes calcify over decades — so over-indexing on attitude selection beats over-indexing on skill screening.
-- `INS-260410-734F` In hunter-gatherer environments the best hunters are 36-40; in Silicon Valley the best founders are often 25 — because the rate of change determines how long a previous generation's knowledge stays useful.
 - `INS-260329-7C84` High-performers respect hustle and learning in younger people, not luxury consumption.
+- `INS-260410-734F` In hunter-gatherer environments the best hunters are 36-40; in Silicon Valley the best founders are often 25 — because the rate of change determines how long a previous generation's knowledge stays useful.
 - `INS-260412-0ABC` Masayoshi Son's 12-minute investment decision and Alibaba-tier praise gave Neumann an untouchable status that silenced internal dissent.
 - `INS-260330-AE22` A practitioner who teaches from the ground up transfers more usable knowledge than an expert who skips foundations.
 - `INS-260329-3CB6` Master an existing system by exact replication first — earn the right to iterate by proving you can duplicate the original results.
