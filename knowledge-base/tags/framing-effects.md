@@ -1,6 +1,7 @@
 # Tag: framing-effects
 
 - `INS-260409-FEAE` Naming the field 'artificial intelligence' was a marketing choice that now distorts every public debate — evaluating systems by output and cost rather than by analogy to humans would be more honest.
+- `INS-260330-7EDF` Asking 'what could go right?' instead of 'what went wrong?' shifts strategic focus from diagnosis of failure to identification of actionable opportunities.
 - `INS-260330-0C1D` Calling an unknown phenomenon 'dark matter' makes people debate whether it's matter, when the only confirmed property is gravitational — 'dark gravity' would keep the hypothesis space open.
 - `INS-260409-A0D7` 'UFO' bakes in 'flying object'; UAP opens the door back up to atmospheric optics and instrument artifacts.
 - `INS-260330-CCD8` Labeling a problem as timeless or identity-based discourages solution-seeking by making resolution feel impossible.
@@ -12,4 +13,3 @@
 - `INS-260403-524B` Costco's confusing warehouse layout makes shoppers feel like deal-hunters rather than annoyed customers, turning a cost-saving measure into a positive brand experience.
 - `INS-260323-A14D` Problems that appear impossible often result from the wrong framing, not the wrong physics.
 - `INS-260330-0F49` The reflexive racial framing of the Capitol security failure ignored contradicting evidence — like black cops struggling to defend the building and a white woman being shot — while alienating the moderate conservatives needed for democratic healing.
-- `INS-260330-7EDF` Asking 'what could go right?' instead of 'what went wrong?' shifts strategic focus from diagnosis of failure to identification of actionable opportunities.

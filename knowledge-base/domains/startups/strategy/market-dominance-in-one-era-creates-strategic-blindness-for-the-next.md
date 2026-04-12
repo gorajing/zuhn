@@ -57,8 +57,8 @@ related:
   - PRI-260405-6216
   - INS-260330-F527
   - INS-260405-8F5D
-  - INS-260404-98EE
   - INS-260403-44FF
+  - INS-260403-0D41
 ---
 When Microsoft dominated the PC era, it enjoyed margins that were practically impossible to replicate in mobile or cloud. The psychological and organizational anchoring to those margins created a structural barrier to reinvention — any new business looked inadequate by comparison, making it easy to dismiss or underfund.
 

@@ -1,6 +1,5 @@
 # Tag: m-and-a
 
-- `INS-260403-6713` Corp dev teams systematically flip the dynamic so founders end up selling themselves rather than being courted.
 - `INS-260322-88C3` AI threatens every incumbent company simultaneously, driving a wave of M&A as corporations acquire startups to reconstruct how they work rather than building capabilities internally.
 - `INS-260320-39A3` Shelter your team and family from acquisition signal-to-noise until the wire hits — deals fall apart in the last week, and premature sharing creates damaging anxiety.
 - `INS-260403-1019` Earn-outs should be evaluated at present value, not nominal — a $20M earn-out payable in 3 years with uncertain triggers may be worth a fraction of face value.
@@ -23,3 +22,4 @@
 - `INS-260402-CCF4` Patents serve startups primarily as signals to acquirers that the technology is defensible and worth buying rather than building.
 - `INS-260403-FA8E` Capital One saw Brex as a bargain shortcut to a scaled platform; VCs saw a 58% haircut from peak valuation — both were correct within their own frameworks.
 - `INS-260403-318A` Study who's buying in your space and engineer partnerships with them early — the best acquisitions grow out of product integrations, co-selling, and shared customers.
+- `INS-260403-6713` Corp dev teams systematically flip the dynamic so founders end up selling themselves rather than being courted.

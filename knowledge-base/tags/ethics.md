@@ -3,6 +3,16 @@
 - `INS-260322-6088` The current alignment paradigm of steering/control is appropriate for tool-like AI but becomes morally equivalent to slavery when applied to general intelligence — the only good outcome is AI that genuinely cares about us.
 - `INS-260323-133A` Editing your own cells (somatic) affects only you; editing embryos (germline) permanently changes all future descendants — a fundamentally different ethical calculus.
 - `INS-260405-C592` When people can choose different enhancements, humans a century from now may differ from each other more than any two people differ today — creating cooperation problems no institution currently exists to solve.
+- `INS-260405-4423` The most successful investors are disproportionately the most ethical — not coincidentally.
+- `INS-260403-7563` Bad actors in startups exploit in sequence — cofounders, then users, then acquirers — and each layer of deception caps the company's upside.
+- `INS-260410-B2A6` Kashmir, Korea, and Palestine all show the same dynamic: an outside power funds an insurgency to 'pin' a rival, the rival gets frozen from acting elsewhere, and the population bears horrendous deaths and zero growth for decades while the patron pays nothing.
+- `INS-260330-8D4F` DuPont knew C8 caused cancer in rats by the early 1980s, liver disease in workers by the mid-1970s, and toxic effects across multiple species from the 1960s — but shared none of this with the scientific community or regulators for decades.
+- `INS-260330-66C7` Uber built secret systems (Greyball, Hell, Heaven) to surveil regulators and competitors, creating asymmetric information advantages that were nearly impossible to counter.
+- `INS-260323-FFAC` Cox maintained the narrative that he was 'helping people get homes' through every escalation of fraud, only recognizing his self-deception years later in prison while writing an ethics course.
+- `INS-260323-95FE` Cox's first fraud (whiting out a late payment) didn't satisfy the urge — it emboldened him, rapidly escalating from minor document alteration to synthetic identities and $55M in fraud.
+- `INS-260403-6C88` Chamath's admission that Facebook's team wishes they'd been more careful proves that competitive pressure overrides good intentions without external constraints.
+- `INS-260404-AE2E` Publicly committing to ethical standards beyond legal requirements attracts top talent who self-select for principled employers.
+- `INS-260328-6A8C` Selling something that produces no benefit for the buyer isn't trade — it's something else entirely.
 - `INS-260330-0764` Simply counting casualties without weighing intentions produces morally incoherent judgments about who is in the right.
 - `INS-260330-F8B6` The same culture can move from celebrating lynchings to prosecuting war crimes within generations, proving moral progress is real but unevenly distributed.
 - `INS-260405-DB32` You are accountable for acting from your values, even if you didn't choose those values from scratch.
@@ -15,13 +25,3 @@
 - `INS-260323-44A9` The ideal moral framework balances rational analysis of impact with genuine compassion for well-being — neither alone is sufficient.
 - `INS-260325-C2BD` Ethics come from outside (professional codes) while morals come from inside (personal beliefs) — CIA teaches that moral flexibility is essential because what feels moral must shift based on mission context.
 - `INS-260325-BAA4` Ethics are defined externally by professions; morals are internal beliefs — CIA training teaches that moral flexibility (adapting personal convictions to mission requirements) is essential for high-stakes effectiveness.
-- `INS-260403-7563` Bad actors in startups exploit in sequence — cofounders, then users, then acquirers — and each layer of deception caps the company's upside.
-- `INS-260405-4423` The most successful investors are disproportionately the most ethical — not coincidentally.
-- `INS-260410-B2A6` Kashmir, Korea, and Palestine all show the same dynamic: an outside power funds an insurgency to 'pin' a rival, the rival gets frozen from acting elsewhere, and the population bears horrendous deaths and zero growth for decades while the patron pays nothing.
-- `INS-260323-FFAC` Cox maintained the narrative that he was 'helping people get homes' through every escalation of fraud, only recognizing his self-deception years later in prison while writing an ethics course.
-- `INS-260323-95FE` Cox's first fraud (whiting out a late payment) didn't satisfy the urge — it emboldened him, rapidly escalating from minor document alteration to synthetic identities and $55M in fraud.
-- `INS-260330-8D4F` DuPont knew C8 caused cancer in rats by the early 1980s, liver disease in workers by the mid-1970s, and toxic effects across multiple species from the 1960s — but shared none of this with the scientific community or regulators for decades.
-- `INS-260330-66C7` Uber built secret systems (Greyball, Hell, Heaven) to surveil regulators and competitors, creating asymmetric information advantages that were nearly impossible to counter.
-- `INS-260403-6C88` Chamath's admission that Facebook's team wishes they'd been more careful proves that competitive pressure overrides good intentions without external constraints.
-- `INS-260404-AE2E` Publicly committing to ethical standards beyond legal requirements attracts top talent who self-select for principled employers.
-- `INS-260328-6A8C` Selling something that produces no benefit for the buyer isn't trade — it's something else entirely.

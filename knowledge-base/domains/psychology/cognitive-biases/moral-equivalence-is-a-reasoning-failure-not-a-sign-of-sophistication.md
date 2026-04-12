@@ -54,7 +54,6 @@ related:
   - INS-260330-0764
   - INS-260402-B14F
   - INS-260403-45E3
-  - INS-260403-8DCA
 ---
 Harris identifies a specific cognitive trap: educated, ethically-minded people often draw moral equivalences between parties in a conflict as a way of signaling their own fairness and nuance. But when one side deliberately targets civilians for maximum horror while the other side treats civilian casualties as regrettable collateral damage, equating them isn't sophisticated — it's a category error that erases the very concept of moral progress.
 

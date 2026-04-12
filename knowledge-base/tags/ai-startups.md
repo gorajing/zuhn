@@ -9,11 +9,11 @@
 - `INS-260403-9FEB` 46% of new creator economy unicorns since 2020 are AI-based platforms, and AI-related startups captured the majority of new funding in 2024.
 - `INS-260403-4AB2` A16Z reports 60% surge in AI-first startup funding while early-stage SaaS investment declines as investors chase automation leverage.
 - `INS-260403-1F6B` Just 11 AI startups absorbed a third of all 2025 VC funding, widening the gap between megadeals and the rest of the ecosystem.
+- `INS-260403-7841` AI companies that embed into workflows and build network effects create durable moats beyond mere execution speed.
+- `INS-260403-3C66` AI startups need at least one of three moats — domain expertise, differentiated distribution, or new interaction models — to survive platform competition.
 - `INS-260327-FCCF` AI startup ideas are hiding in plain sight: every job people pay humans to do is a potential product.
 - `INS-260327-0595` Sequoia's Pat Grady: 'Raise your hand if you have a data flywheel. Now what business metric does it move? Less certainty means your flywheel is fake.'
 - `INS-260403-6F22` Building at the boundary of what AI models can do today positions you to immediately capitalize when the next generation arrives.
-- `INS-260403-7841` AI companies that embed into workflows and build network effects create durable moats beyond mere execution speed.
-- `INS-260403-3C66` AI startups need at least one of three moats — domain expertise, differentiated distribution, or new interaction models — to survive platform competition.
 - `INS-260403-6E4C` Big Tech is acquiring AI startup teams in quiet sub-$20M deals as founders who raised too much hit AI headwinds.
 - `INS-260328-AB0C` Much AI-era ARR is run-rate revenue from usage-based pricing, multiplied by 12, on customers who could leave tomorrow.
 - `INS-260404-620D` AI-native positioning dominates successful seed-stage pitch decks in 2024, appearing in the majority of funded companies across the sample.

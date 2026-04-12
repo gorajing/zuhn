@@ -2,18 +2,6 @@
 
 - `INS-260323-01F9` Iterative public deployment of imperfect models surfaces discoveries — both positive and negative — that internal testing cannot.
 - `INS-260320-508F` Don't lead in prompts if you want honest feedback — Claude tells you what it thinks you want to hear.
-- `INS-260404-8031` You need colleagues who can see promise in rough early work, not just people who say everything is great.
-- `INS-260403-5216` The right creative peers aren't cheerleaders but fellow practitioners who can tell whether early ugly work has genuine promise.
-- `INS-260404-4985` Surround yourself with peers who can tell the difference between promising-but-ugly early work and genuinely bad work, not people who encourage everything.
-- `INS-260405-7460` You need colleagues who can tell an ugly duckling from a baby swan — and only people doing similar ambitious work have that calibration.
-- `INS-260403-2AA2` You need colleagues who can actually evaluate early work's potential, not just cheerleaders you'll learn to discount.
-- `INS-260404-F212` Surrounding yourself with people working on similarly ambitious projects provides encouragement you won't learn to discount.
-- `INS-260403-1228` The right creative peers aren't cheerleaders but fellow practitioners who can accurately judge the potential of ugly early work.
-- `INS-260330-C13A` Reframing feedback requests as advice requests shifts people from cheerleader/critic mode into coach mode with actionable forward-looking suggestions.
-- `INS-260330-E03A` NASA used aerogel to catch comet dust at 6 km/s because the porous structure gradually absorbs kinetic energy instead of causing instantaneous vaporization.
-- `INS-260330-8D2C` The architecture of social media makes criticism indistinguishable from cruelty, so personal growth requires deliberately building and maintaining a trusted inner circle whose feedback you actually internalize.
-- `INS-260326-2E56` When a team's culture prioritizes niceness over candor, the loudest and most aggressive person rises while everyone else retreats into passive-aggressive behavior.
-- `INS-260326-06A1` Ego protection kills founders and strategic safety destroys relationships through the same mechanism -- shielding yourself from pain also shields you from the feedback required to change.
 - `INS-260322-1C17` Find 2-3 peers at a similar skill level who will give brutally honest feedback, and don't release anything until it passes their criticism.
 - `INS-260323-E2ED` When a founder's self-worth becomes entangled with their codebase, negative user feedback triggers emotional defensiveness instead of productive iteration.
 - `INS-260403-56A9` Seek peers working on their own ambitious projects rather than generic cheerleaders, because they can tell ugly ducklings from baby swans.
@@ -28,3 +16,15 @@
 - `INS-260405-7A41` VCs who need founders to like them end up softening feedback, creating a 'trough' where founders receive pleasant noise instead of useful signal.
 - `INS-260404-FA5B` You need peers who can tell an ugly duckling from a baby swan, not just people who are always encouraging.
 - `INS-260323-40AA` Friends and acquaintances will give positive feedback and feature requests not because they want your product, but because they want to be nice to you — this deceiving signal drives fatal feature creep.
+- `INS-260404-8031` You need colleagues who can see promise in rough early work, not just people who say everything is great.
+- `INS-260403-5216` The right creative peers aren't cheerleaders but fellow practitioners who can tell whether early ugly work has genuine promise.
+- `INS-260404-4985` Surround yourself with peers who can tell the difference between promising-but-ugly early work and genuinely bad work, not people who encourage everything.
+- `INS-260405-7460` You need colleagues who can tell an ugly duckling from a baby swan — and only people doing similar ambitious work have that calibration.
+- `INS-260403-2AA2` You need colleagues who can actually evaluate early work's potential, not just cheerleaders you'll learn to discount.
+- `INS-260404-F212` Surrounding yourself with people working on similarly ambitious projects provides encouragement you won't learn to discount.
+- `INS-260403-1228` The right creative peers aren't cheerleaders but fellow practitioners who can accurately judge the potential of ugly early work.
+- `INS-260330-C13A` Reframing feedback requests as advice requests shifts people from cheerleader/critic mode into coach mode with actionable forward-looking suggestions.
+- `INS-260330-E03A` NASA used aerogel to catch comet dust at 6 km/s because the porous structure gradually absorbs kinetic energy instead of causing instantaneous vaporization.
+- `INS-260330-8D2C` The architecture of social media makes criticism indistinguishable from cruelty, so personal growth requires deliberately building and maintaining a trusted inner circle whose feedback you actually internalize.
+- `INS-260326-2E56` When a team's culture prioritizes niceness over candor, the loudest and most aggressive person rises while everyone else retreats into passive-aggressive behavior.
+- `INS-260326-06A1` Ego protection kills founders and strategic safety destroys relationships through the same mechanism -- shielding yourself from pain also shields you from the feedback required to change.

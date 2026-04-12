@@ -58,7 +58,6 @@ stance: >-
   not spread for diversification.
 related:
   - INS-260323-2B53
-  - INS-260322-B3D0
   - INS-260327-DAA4
   - INS-260327-6992
   - INS-260328-33E8
@@ -67,6 +66,7 @@ related:
   - INS-260403-147C
   - INS-260403-FBC0
   - INS-260404-B81C
+  - PRI-260406-CA2F
 ---
 Munger argues that the central error of business school investing pedagogy is teaching diversification instead of concentration. Real edges are rare — by his count, you get maybe five or six chances in a lifetime to recognize a situation where you know you're right and the payoff is enormous. Most investors who try to repeat this trick two or three times 'go broke because they think it's easy.' The skill isn't in finding many opportunities; it's in recognizing the rare one and then having the courage to size it correctly.
 

@@ -66,9 +66,9 @@ related:
   - INS-260327-A75C
   - INS-260330-4ACF
   - INS-260330-4E5F
-  - INS-260330-2EB0
   - INS-260404-DBA8
   - PRI-260406-541E
+  - INS-260410-CD75
 ---
 Paine's central analytical move is this: before assessing whether two countries will cooperate, ignore the rhetoric and check whose primary adversary is whose. The WWII Allies wanted three mutually incompatible futures — British empire, American decolonization, Stalinist communism — but all three needed Hitler gone first, and that 'common way station' held the alliance together against all odds. The fascist Axis, by contrast, shared an ideology but each had a different primary enemy in a different theater (Britain for Italy, Russia for Germany, China then the US for Japan), so they fought parallel wars and got dismantled one at a time.
 

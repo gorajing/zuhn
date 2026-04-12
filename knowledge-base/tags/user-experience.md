@@ -2,8 +2,8 @@
 
 - `INS-260330-82B5` One bad AI interaction permanently destroys user willingness to retry, creating a vicious cycle of declining engagement and improvement.
 - `INS-260403-F5EE` People pirate content mostly because it offers a better user experience, not just because it's free — iTunes proved people will pay when buying is easy.
-- `INS-260327-DECA` AI model capability is racing ahead but UX is the bottleneck—winning means solving the interface problem.
 - `INS-260327-099A` 95% of music downloads were pirated at peak, not because people refused to pay but because piracy was easier - streaming killed piracy by being more convenient, not cheaper.
+- `INS-260327-DECA` AI model capability is racing ahead but UX is the bottleneck—winning means solving the interface problem.
 - `INS-260403-1D92` When AI makes building cheap, taste and design become the scarce differentiator.
 - `INS-260330-C95F` Multiple localization failures compound into a narrative of market disrespect that's harder to reverse than any single missing feature.
 - `INS-260404-E5EB` Delight operates through three pillars: removing friction, anticipating needs, and exceeding expectations.

@@ -55,7 +55,6 @@ stance: >-
   and misdiagnosing which one you face leads to applying the wrong survival
   playbook
 related:
-  - INS-260322-E791
   - INS-260330-A1A4
   - INS-260403-BA62
   - INS-260403-FB0C

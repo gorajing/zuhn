@@ -56,7 +56,6 @@ related:
   - INS-260404-1ADA
   - INS-260404-4146
   - INS-260403-8450
-  - INS-260403-BF8C
 ---
 Dealroom's State of Global VC report identifies the Middle East and Southeast Asia as gaining meaningful traction in 2024, moving beyond the 'emerging market premium' narrative into genuine deal flow centers. This isn't purely about sovereign wealth fund recycling — it reflects growing local startup ecosystems, regulatory modernization, and demographic tailwinds (young, mobile-first populations).
 

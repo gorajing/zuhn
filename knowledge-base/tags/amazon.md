@@ -2,10 +2,10 @@
 
 - `INS-260410-DA0E` Amazon used the 2000-2007 dot-com winter—when everyone else was retrenching—to build the fulfillment, Prime, and Marketplace infrastructure that became its permanent moat.
 - `INS-260405-C0AF` Surviving retailers like Costco, Ross, Aldi, and Dollar General prove physical retail isn't dying — only undifferentiated or maladapted retail is.
-- `INS-260405-F691` Amazon Prime shows that pairing a mundane utility with entertainment makes customers reluctant to cancel either, since dropping the subscription means losing both.
-- `INS-260410-03FA` When customers pay you before you pay suppliers, every dollar of growth generates free capital instead of consuming it.
 - `INS-260404-34D4` Amazon's $2.75B Anthropic investment signals that big tech strategic capital now dominates AI startup funding over traditional VC.
 - `INS-260410-228E` Don't sell winners based on growth rate or maturity — sell based on whether decades of growth remain ahead.
+- `INS-260405-F691` Amazon Prime shows that pairing a mundane utility with entertainment makes customers reluctant to cancel either, since dropping the subscription means losing both.
+- `INS-260410-03FA` When customers pay you before you pay suppliers, every dollar of growth generates free capital instead of consuming it.
 - `INS-260329-6D3B` Incumbent competition is inevitable at scale — the question shifts from 'if' to 'how do I compete against their bundle advantage.'
 - `INS-260330-C825` Profitable divisions (like AWS) can fund indefinite losses in new markets (like groceries), making it impossible for single-industry competitors to survive on margins alone.
 - `INS-260327-4440` Amazon dominated e-commerce by offering incredible service below cost, but maintaining that service at scale without unpopular sacrifices was mathematically impossible from the start.

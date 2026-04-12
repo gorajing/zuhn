@@ -49,7 +49,6 @@ stance: >-
   anyone whose work lacks natural deadlines.
 related:
   - INS-260325-D797
-  - INS-260325-F1BC
   - PRI-260328-30C2
   - INS-260328-FE38
   - INS-260325-CEE1
@@ -58,6 +57,7 @@ related:
   - INS-260323-D9CE
   - INS-260329-9745
   - INS-260329-B4F5
+  - INS-260329-C881
 evidence:
   - id: INS-260320-E872
     type: TRANSFERS_TO

@@ -54,7 +54,7 @@ related:
   - INS-260323-176B
   - INS-260403-06FA
   - INS-260330-D460
-  - INS-260403-0AF6
+  - PRI-260411-5A63
 ---
 The 'supply chain risk' designation was designed to protect against foreign espionage threats like Huawei. Using it as a bargaining chip in contract negotiations with a domestic company is what Alexander calls 'insane Third World bullshit' — it transforms a legitimate security tool into an instrument of arbitrary economic destruction with no legal review.
 

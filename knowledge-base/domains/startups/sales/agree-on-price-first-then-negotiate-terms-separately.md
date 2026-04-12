@@ -45,11 +45,11 @@ stance: >-
   Separating price negotiation from terms negotiation is a more effective deal
   structure than negotiating both simultaneously.
 related:
-  - INS-260329-3D14
   - INS-260330-F0F2
+  - INS-260329-3D14
+  - PRI-260411-5353
   - INS-260403-BF8C
   - INS-260404-28A1
-  - INS-260403-6EBD
 ---
 Hormozi's mentor taught him a two-phase negotiation framework: first agree on the total price, then separately negotiate the terms of payment. This is powerful because sellers anchor on the headline number — if you agree to their price, they feel they've won, making them more flexible on terms.
 

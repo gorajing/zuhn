@@ -47,11 +47,11 @@ stance: >-
   escalator disproportionate leverage because the other side negotiates from
   relief rather than strength
 related:
+  - PRI-260411-5A63
   - INS-260322-96F1
   - INS-260410-75B9
   - INS-260404-8394
   - INS-260330-A476
-  - PRI-260406-91C2
 evidence:
   - id: INS-260322-96F1
     type: TRANSFERS_TO

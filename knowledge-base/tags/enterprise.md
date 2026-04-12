@@ -16,7 +16,6 @@
 - `INS-260405-B88A` AI automation applied to the RFP process promises dramatic efficiency gains in both proposal generation and vendor evaluation.
 - `INS-260403-1A38` $23.6B in Q4 2025 enterprise deals driven by CIOs buying agentic platforms instead of building internally marks the buy-over-build inflection point.
 - `INS-260403-EDA1` SaaS value is migrating from code to workflow orchestration, compliance, and distribution — categories AI cannot easily replicate.
-- `INS-260327-178E` Block unwound their GM structure into a functional org specifically because AI transformation requires unified technical capabilities across product lines.
 - `INS-260403-E3CC` Deep operational integration makes ripping out your product so costly that competitors cannot displace you on features or price alone.
 - `INS-260403-9149` AI's probabilistic nature makes it unsuitable as a standalone replacement for SaaS in regulated enterprise functions like finance, HR, and legal.
 - `INS-260330-6050` Build where incumbents face structural inability to compete, not just unwillingness.
@@ -25,6 +24,7 @@
 - `INS-260329-9BC0` Hybrid cloud deployments are almost always driven by legacy constraints and organizational inertia rather than optimal architecture decisions.
 - `INS-260403-5C9D` SaaS survival depends on building agentic capabilities atop existing data moats before AI overlays capture the user relationship.
 - `INS-260330-EC76` Attack incumbents where their business model or architecture prevents them from responding, not where they're strongest.
+- `INS-260327-178E` Block unwound their GM structure into a functional org specifically because AI transformation requires unified technical capabilities across product lines.
 - `INS-260405-5CCD` The champion, not the salesperson, is the real closer in bottom-up enterprise deals.
 - `INS-260403-0350` For SMBs, AI agents are pure value-add filling gaps they couldn't afford to fill; for enterprises, agents must replace entrenched processes, creating friction.
 - `INS-260405-8107` Bundled technology ecosystems like Java/Oracle convert upfront savings into permanent switching costs that organizations discuss escaping but rarely do.
@@ -34,9 +34,9 @@
 - `INS-260330-62D6` Find the smallest valuable problem incumbents ignore, nail the UX, then expand outward.
 - `INS-260330-7168` Find the gap between incumbent solutions, build the best experience for that narrow slice, then expand to larger customers or more use cases over time.
 - `INS-260330-2C79` Translate customer problems into elegant solutions rather than implementing their proposed features.
+- `INS-260404-007F` Enterprise SaaS IPOs from 2012 outperformed expectations by solving deep operational pain points with recurring revenue models.
+- `INS-260330-1F25` Look for the widest gap between what's now technically possible and how things are still being done.
 - `INS-260328-070D` Nine times out of ten, what founders dismiss as consulting is actually a chance to deeply learn the problem space and build a moat.
 - `INS-260330-EEA9` Let the product drive user adoption, but deploy consultative salespeople to help customers navigate deployment and competition.
 - `INS-260403-3326` Scaling innovation in enterprises requires dedicated structures, not just individual champions evangelizing the methodology.
-- `INS-260404-007F` Enterprise SaaS IPOs from 2012 outperformed expectations by solving deep operational pain points with recurring revenue models.
-- `INS-260330-1F25` Look for the widest gap between what's now technically possible and how things are still being done.
 - `INS-260330-3E6B` When an industry's business model is disrupted, the enterprises in that industry need new software — creating opportunities for vertical startups.

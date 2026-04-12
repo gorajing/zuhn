@@ -3,9 +3,9 @@
 - `INS-260404-02C8` OpenAI's $3.4B in ChatGPT subscription revenue demonstrates massive consumer demand for AI tools.
 - `INS-260403-957B` Coding assistants are proving to be AI's first real business model with billions in projected revenue, marking the shift from hype to validated payoff.
 - `INS-260405-B4D0` AI investment enthusiasm has materially exceeded demonstrated revenue, reproducing the pattern of prior tech bubbles.
-- `INS-260405-FE5C` Print media lost classifieds first, then print advertising, then newsstand revenue — each loss made the next harder to absorb, until collapse arrived all at once.
 - `INS-260321-D484` Jensen predicts $1T in NVIDIA bookings through 2027, but TSMC manufacturing is the real bottleneck — NVIDIA has locked up 70% of TSMC's 3nm node capacity.
 - `INS-260410-AA87` Mao kept exporting grain while 40 million Chinese starved because food exports were 'his pocket change' — the main source of government income he needed to fund anything else.
+- `INS-260405-FE5C` Print media lost classifieds first, then print advertising, then newsstand revenue — each loss made the next harder to absorb, until collapse arrived all at once.
 - `INS-260323-0FDA` The founder realized that when customers truly use a service, they ultimately pay -- saying 'it's good' without buying means it's not good enough.
 - `INS-260322-94A9` More than 80% of subscription conversions happen during onboarding, so spend 90% of your optimization time on onboarding screens, paywall design, and commitment psychology — not the app itself.
 - `INS-260321-822B` The fastest AI companies reach $100M revenue significantly faster than SaaS predecessors, with top performers growing 693% YoY — driven by product demand, not sales spend — and running at $500K-1M ARR per FTE versus the old SaaS benchmark of $400K.

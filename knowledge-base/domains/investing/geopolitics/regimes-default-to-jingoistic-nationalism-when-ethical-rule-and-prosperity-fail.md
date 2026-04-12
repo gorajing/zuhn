@@ -72,8 +72,8 @@ related:
   - INS-260410-FF8B
   - INS-260410-CBF9
   - PRI-260322-9E36
+  - PRI-260411-5A63
   - PRI-260324-1A67
-  - PRI-260406-F9EB
 ---
 Paine argues that the Chinese Communist Party historically rested on three pillars of legitimacy: ethical rule, economic prosperity, and territorial integrity. With ethical rule gone and economic growth faltering, Xi is left with the territorial card — hence the incursions into India, South China Sea island-building, and Taiwan pressure. Putin is playing the same hand with Ukraine after communism and Russian Orthodoxy failed as marketable ideologies. The Chinese Communist Party deliberately pivoted to jingoistic nationalism after Tiananmen in 1989, rewriting textbooks to focus on 'evil Japanese, evil Americans.'
 

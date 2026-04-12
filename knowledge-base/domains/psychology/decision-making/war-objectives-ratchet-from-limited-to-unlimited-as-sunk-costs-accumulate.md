@@ -63,10 +63,10 @@ related:
   - INS-260330-9EBA
   - INS-260410-A992
   - INS-260410-0065
+  - PRI-260411-0C54
   - INS-260327-377A
   - INS-260330-72BD
   - PRI-260328-43D8
-  - INS-260330-F116
 ---
 Paine's observation about WWI is a general principle of conflict escalation: nobody enters with the objective of overthrowing the other side's government, but after enough blood and treasure are spent, nothing less than regime change feels like adequate justification for the losses. The initial limited objective — 'push them out of our territory' — becomes 'make them pay for what they did to us,' which becomes 'replace the government that could do this.'
 

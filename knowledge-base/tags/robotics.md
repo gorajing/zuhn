@@ -24,10 +24,10 @@
 - `INS-260410-F7B8` Physical Intelligence's robots can execute minute-long tasks like folding inside-out shorts using only ~1 second of visual context because dexterity is Moravec's paradox in disguise — the easy-feeling tasks are where the real hard computation lives.
 - `INS-260321-9906` Natural language interfaces change who can program a robot, not just what it can do — but they trade a small precise vocabulary (preprogrammed tasks) for a large ambiguous one where the boundary of understanding is opaque.
 - `INS-260327-0875` A robot that can build copies of itself from its own parts enables exponential manufacturing capacity - exactly how ribosomes build elephants one molecule at a time.
-- `INS-260323-FCC1` Raibert describes himself as 'only the dreamer' and says the smartest thing he ever did was find excellent engineers who could actually make things work — the builder-dreamer complementarity is essential.
 - `INS-260405-ADCE` US and China are pursuing humanoid robotics through different incentive structures and deployment contexts, making a single global market unlikely.
 - `INS-260405-C673` SpaceX, Tesla, and xAI are modules of one integrated long-term mission — the biggest bets of the next decade will be at places where disciplines collide, not inside single categories.
 - `INS-260405-FC36` Labor scarcity from aging populations is the demand-side forcing function that makes the humanoid robot market thesis structurally sound.
+- `INS-260323-FCC1` Raibert describes himself as 'only the dreamer' and says the smartest thing he ever did was find excellent engineers who could actually make things work — the builder-dreamer complementarity is essential.
 - `INS-260403-215E` Humanoid robots lead Q3 2025 deal count while AI leads dollar volume, revealing a hardware-many-bets vs software-mega-bet divergence.
 - `INS-260323-7DAE` Boston Dynamics' breakthrough approach was reducing complex locomotion to a bouncing pogo stick — solve the simplified version first, then extrapolate.
 - `INS-260323-F7DB` Boston Dynamics' breakthrough came from rejecting the safe, slow, static approach to robotics in favor of aggressive dynamic movement — bouncing, running, and predicting rather than always maintaining perfect stability.

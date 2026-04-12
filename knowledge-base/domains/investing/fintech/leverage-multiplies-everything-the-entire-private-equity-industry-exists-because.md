@@ -49,7 +49,6 @@ resolutions:
     you've already built, so the prerequisite is having something worth
     leveraging.
 related:
-  - INS-260321-2F43
   - INS-260403-0240
   - INS-260329-B424
   - PRI-260328-26AA
@@ -59,6 +58,7 @@ related:
   - INS-260329-9DF3
   - INS-260329-CB6D
   - INS-260330-8FEC
+  - INS-260330-2952
 stance: >-
   A $200K down payment on a $1M house that appreciates 10% yields a 50% return
   instead of 10%

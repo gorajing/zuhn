@@ -68,10 +68,10 @@ stance: >-
   the decisive factor.
 related:
   - INS-260327-6AA0
+  - PRI-260411-5353
   - PRI-260322-9E36
   - INS-260322-F128
   - INS-260405-28DF
-  - PRI-260406-D9D6
   - INS-260410-54CB
 ---
 Japan's Russo-Japanese War success came from orchestrating instruments of national power nearly simultaneously: diplomacy (the Anglo-Japanese Alliance isolating Russia from European buddies), information/psyops (postcards to Russian soldiers promising good POW life, funding Polish and Finnish revolutionaries via Colonel Akashi in Stockholm, paying fair prices to Manchurians to build local goodwill, tapping Russian fleet communications), military (building up during the arms race and using the Sino-Japanese War indemnity), economics (two-fifths of the war funded by international loans whose interest rates depended on battlefield success). Simultaneously, Japan planned the exit: Harvard alum Viscount Kaneko was pre-positioned with Roosevelt before the first shot was fired, and Ito's son-in-law went to London to keep the alliance solid.

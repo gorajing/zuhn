@@ -51,7 +51,7 @@ related:
   - INS-260403-44A6
   - PRI-260328-7E58
   - PRI-260328-A4AC
-  - PRI-260406-D287
+  - PRI-260411-5A63
   - INS-260403-1F97
 ---
 As markets learn to price in presidential reversals, each threat must be more extreme than the last to produce the bond and currency moves that historically cause policy retreats. This creates a game-theoretic escalation ratchet: the very mechanism that prevents damage (backing down) requires increasing the stakes each round.

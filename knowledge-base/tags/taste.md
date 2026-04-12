@@ -2,13 +2,6 @@
 
 - `INS-260327-1795` AI can execute everything but cannot know your values -- the competitive moat shifts from execution ability to values articulation and taste.
 - `INS-260403-A2E9` As AI collapses implementation costs, the human role shifts from engine to editor-in-chief — the scarce skill becomes deciding what to build and evaluating quality, not writing code.
-- `INS-260404-0570` You must develop your own quality judgments because institutional gatekeepers' incentives often diverge from honest evaluation.
-- `INS-260403-DE28` Good taste comes from (a) becoming a connoisseur of trickery so tricks stop working on you, and (b) traveling widely in time and space to escape your own cultural defaults.
-- `INS-260402-E11A` If your taste improves with practice, your old taste was worse — not just different — disproving pure aesthetic relativism.
-- `INS-260403-31B1` Fame, museum placement, and social expectations dominate most quality judgments, drowning out genuine aesthetic response.
-- `INS-260404-5AEB` Ask what you'd pay for something if you found it dirty and anonymous at a garage sale to reveal your real opinion of it.
-- `INS-260404-C99B` Your guilty pleasures — what you read when not trying to be impressive — reveal your genuine aesthetic preferences.
-- `INS-260404-8A87` Only copy work you authentically enjoy, not work you admire for its status.
 - `INS-260403-E33F` Non-affiliate, taste-driven curation signals authenticity and builds deeper audience trust than monetized recommendation lists.
 - `INS-260403-F657` If you're excited about non-prestigious work and can explain what others miss about it, that's a positive signal worth acting on.
 - `INS-260403-4431` Rare genuine interest in commercially valuable but unappealing work creates a natural monopoly on motivation and persistence.
@@ -19,3 +12,10 @@
 - `INS-260327-C9BA` Apple never A/B tested the add-to-cart button color — a taste-based judgment call from one executive settled it.
 - `INS-260329-2EB1` Real taste means having an honest internal barometer for whether your product creates genuine user value, not just whether it looks good in a demo.
 - `INS-260330-8907` Golden ages aren't recognized during their occurrence — they feel like smart people working hard on interesting problems and getting results, which is exactly the signal to follow.
+- `INS-260403-31B1` Fame, museum placement, and social expectations dominate most quality judgments, drowning out genuine aesthetic response.
+- `INS-260404-5AEB` Ask what you'd pay for something if you found it dirty and anonymous at a garage sale to reveal your real opinion of it.
+- `INS-260404-0570` You must develop your own quality judgments because institutional gatekeepers' incentives often diverge from honest evaluation.
+- `INS-260403-DE28` Good taste comes from (a) becoming a connoisseur of trickery so tricks stop working on you, and (b) traveling widely in time and space to escape your own cultural defaults.
+- `INS-260402-E11A` If your taste improves with practice, your old taste was worse — not just different — disproving pure aesthetic relativism.
+- `INS-260404-C99B` Your guilty pleasures — what you read when not trying to be impressive — reveal your genuine aesthetic preferences.
+- `INS-260404-8A87` Only copy work you authentically enjoy, not work you admire for its status.

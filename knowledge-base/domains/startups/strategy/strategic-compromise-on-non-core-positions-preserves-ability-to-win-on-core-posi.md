@@ -54,7 +54,7 @@ related:
   - INS-260403-B7C6
   - INS-260330-2F52
   - INS-260403-3059
-  - INS-260329-B424
+  - PRI-260411-0C54
 ---
 The Democrats' historical successes involved deliberate strategic retreat: 'safe, legal, and rare' on abortion, civil unions as a stepping stone to marriage equality. These compromises weren't moral failures — they were strategic moves that preserved resources and credibility for the fights that mattered most. The current progressive refusal to entertain any compromise on any position simultaneously weakens their hand on every issue.
 

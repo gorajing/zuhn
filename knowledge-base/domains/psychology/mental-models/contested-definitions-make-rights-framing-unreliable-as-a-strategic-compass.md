@@ -51,7 +51,7 @@ related:
   - INS-260330-3698
   - INS-260330-87A0
   - INS-260409-2B3A
-  - INS-260330-6D13
+  - PRI-260411-5A63
 ---
 Female athletes can frame sex-segregated spaces as a liberty right. Trans women can frame inclusion as an equality right. Asian applicants can frame opposition to affirmative action as anti-discrimination. Citizens can frame crackdowns on petty crime as freedom to walk safely. When 'rights' and 'freedoms' genuinely cut in multiple directions, the assumption that your side holds the self-evident rights position is a strategic blind spot.
 

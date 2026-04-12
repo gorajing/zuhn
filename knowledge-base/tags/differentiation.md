@@ -2,12 +2,10 @@
 
 - `INS-260325-DD43` Open Router revealed that the same model from different providers at different speeds enables entirely different use cases, making deployment selection a first-class product decision.
 - `INS-260323-B4D2` If AI lets you build faster, it lets every other founder build faster too — a customer who had 2-3 options now has 20-30, making differentiation the real bottleneck.
-- `INS-260403-6F65` Equal optimization on substance makes charisma the tiebreaker.
-- `INS-260329-6B87` State your downsides first — if someone is fine with all of them, the relationship only has upside.
 - `INS-260322-7FA4` As AI-generated content commoditizes visual spectacle, the creator's durable advantage becomes narrative authenticity — stories infused with personal emotion, values, and philosophical depth that audiences instinctively recognize.
 - `INS-260404-63F0` 75% of YC's latest batch focusing on AI suggests dangerous herd behavior that will produce many undifferentiated startups competing for the same markets.
-- `INS-260410-ED4E` Pasture-raised chicken startups fail because factory-farmed chicken is legally sold as 'all-natural' and consumers assume the labels mean the same thing.
 - `INS-260403-21B2` VC fundraising is lagging prior cycles despite headline interest, with undifferentiated managers facing extended timelines and tougher terms.
+- `INS-260410-ED4E` Pasture-raised chicken startups fail because factory-farmed chicken is legally sold as 'all-natural' and consumers assume the labels mean the same thing.
 - `INS-260330-B65B` Half of all content is the same 50-100 common words; differentiation and value live entirely in the rare, specific vocabulary choices.
 - `INS-260402-5BE6` AI handles top-of-funnel informational queries well, but struggles to replicate case studies, product comparisons, and implementation guides rooted in real experience.
 - `INS-260329-5B18` Craft a single sentence that names your specific avatar, their desired outcome, your delivery timeframe, and your unique mechanism to instantly differentiate from competitors.
@@ -35,3 +33,5 @@
 - `INS-260327-575D` Feature comparison matrices are one-sided and savvy buyers ignore them -- instead, explain the specific architectural decisions you made and why they matter, like how Dropbox's delta sync technology became the headline that won NBC Universal.
 - `INS-260403-FFD2` Your PMF story must show two clear fits: Feature A solves the customer's core problem, and Feature B addresses the specific shortcomings of dominant alternatives.
 - `INS-260403-508D` Categorizing gains as expected, desired, or surprising reveals whether your value proposition is merely adequate or genuinely differentiated.
+- `INS-260403-6F65` Equal optimization on substance makes charisma the tiebreaker.
+- `INS-260329-6B87` State your downsides first — if someone is fine with all of them, the relationship only has upside.

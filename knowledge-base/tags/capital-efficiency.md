@@ -3,16 +3,16 @@
 - `INS-260410-320D` Mars targets a fixed 18% return on the replacement cost of assets, forcing continuous asset productivity and disciplined reinvestment.
 - `INS-260403-2369` Stablecoins move money fast but earn nothing — the real opportunity is building yield layers on top of them.
 - `INS-260329-CB10` Buying an existing business with seller financing lets you skip years of startup risk and immediately own a cash-flowing asset.
+- `INS-260403-F732` Rising rates shake out weak competitors, concentrate talent, and force the survivors to build sustainably profitable businesses.
 - `INS-260403-5BBE` Collecting payment before incurring costs transforms cash flow from a constraint into a competitive weapon.
 - `INS-260410-03FA` When customers pay you before you pay suppliers, every dollar of growth generates free capital instead of consuming it.
 - `INS-260410-270E` Coca-Cola serves the entire world from a handful of syrup plants because it lets independent bottlers put up the capital and labor for bottling and distribution while the parent company keeps the trademark, the formula, and the marketing.
-- `INS-260403-F732` Rising rates shake out weak competitors, concentrate talent, and force the survivors to build sustainably profitable businesses.
+- `INS-260403-B7C6` Overfunded competitors lose exit flexibility and operational agility, turning their capital advantage into a strategic cage.
+- `INS-260330-09E3` Harvard Business Review's three paths to market dominance—best price (logistics), best product (R&D), best overall solution (customer intimacy)—reveal that only the third path requires no capital, just humility and manners.
 - `INS-260410-F69C` Steve Ballmer reflected that Microsoft's worst mistakes 'only lost money' — the real cost was the best engineers sunk into projects like Vista instead of competing in search, mobile, and social.
 - `INS-260410-66E4` Lalit Modi orchestrated a $1B media deal, $400M+ in franchise auctions, and Bollywood ownership for a sports league that had never existed by capping every party's year-one cash exposure to the smallest amount that signaled credible commitment.
 - `INS-260403-4A2F` The cheapest-to-operate startups are the hardest to kill, making extreme frugality the best recession-proofing and the best default operating mode.
 - `INS-260403-FB4A` Instead of moving ships empty between Caribbean and European seasons, cruise lines sell repositioning tickets — turning a cost center (transit) into a revenue stream.
-- `INS-260403-B7C6` Overfunded competitors lose exit flexibility and operational agility, turning their capital advantage into a strategic cage.
-- `INS-260330-09E3` Harvard Business Review's three paths to market dominance—best price (logistics), best product (R&D), best overall solution (customer intimacy)—reveal that only the third path requires no capital, just humility and manners.
 - `INS-260328-D220` If AI halves the need for capital and fundraising processes stay this painful, profitable companies will increasingly choose not to raise at all.
 - `INS-260403-3D75` Burn multiple (net burn ÷ net new ARR) has become the dominant investor filter, with sub-1x considered excellent and over-2x triggering tough conversations.
 - `INS-260403-6740` A burn multiple around 1.5x signals strong capital efficiency; above 2.5x means growth needs scrutiny regardless of top-line momentum.

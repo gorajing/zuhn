@@ -20,7 +20,6 @@
 - `INS-260402-8170` Orchestrating a full ecosystem for underserved market participants creates virtuous cycles that individual product improvements cannot match.
 - `INS-260330-D556` When unit sales plateau, shift monetization from selling new devices to extracting recurring revenue from every device already in users' hands.
 - `INS-260327-9DA6` Twitter's decision to restrict its API and push users away from third-party clients (which served 20-30% of users) became one of the company's most costly strategic mistakes.
-- `INS-260410-F06E` Spotify's internal mantra is 'talk is cheap' — they spend deliberate time game-theorizing because their dependency on labels means any change takes 1-2 years to license, so being right matters more than being fast.
 - `INS-260410-7075` If you monetize an ecosystem rather than the product itself, you can pay distributors to adopt your free product — a move your directly-monetized competitors structurally cannot match.
 - `INS-260410-0E77` Jensen's operating principle was not 'if we build it they will come' but 'if we don't build it they can't come' — the platform must exist before the market materializes or no one can show up at all.
 - `INS-260327-8682` Intuit's expansion playbook: after accounting (the anchor), the next problem was invoicing and getting paid (right next to accounting), then payroll, then credit — each one right next to the last.
@@ -36,6 +35,7 @@
 - `INS-260330-007E` M-PESA's genius was piggybacking on existing phone networks and SIM cards rather than building new financial infrastructure, achieving massive scale at minimal cost.
 - `INS-260330-856B` Tools must be embedded in existing popular systems to gain adoption — standalone merit is insufficient.
 - `INS-260327-F0B2` Systems of record like Salesforce must choose: charge for data and give away agentic workflows, or charge for workflows and make data storage free.
+- `INS-260410-F06E` Spotify's internal mantra is 'talk is cheap' — they spend deliberate time game-theorizing because their dependency on labels means any change takes 1-2 years to license, so being right matters more than being fast.
 - `INS-260321-69E1` A16z hired an 18-year-old for Instagram (up 35% MoM) because each platform has its own vibe, taste, and spirit — crossposting one idea everywhere fails to appreciate what each platform rewards.
 - `INS-260404-DFA5` The best deeptech startups blend physical science with software platforms rather than choosing one modality.
 - `INS-260402-3196` IBM's fatal error was granting a non-exclusive DOS license, allowing Microsoft to own the PC standard from within the supply chain.

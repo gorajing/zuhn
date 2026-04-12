@@ -40,11 +40,6 @@
 - `INS-260329-5B50` Most engineering optimizations are variants of one tradeoff: storing precomputed results (space) to avoid recomputing them (time).
 - `INS-260330-0CAD` Unix pipes demonstrate that composing small focused tools outperforms building large multipurpose ones.
 - `INS-260330-4B29` NASA chose aerogel for Mars rovers because passive thermal insulation requires zero maintenance, unlike active heating systems that would fail in unmaintainable environments.
-- `INS-260404-C7A1` Making everything an expression rather than mixing expressions with statements enables arbitrary composition — a multiplicative increase in what you can express.
-- `INS-260403-5137` An 81.7% overturn rate on prior authorization denials means the system functions as a friction filter rather than a genuine decision-making process.
-- `INS-260330-A260` JavaScript handles concurrency on a single thread by using an event loop to schedule callbacks, proving parallelism isn't required for concurrent I/O.
-- `INS-260330-881A` The Julian calendar drifted only 10 days in 1,500+ years, yet that imperceptible annual error eventually forced Pope Gregory to delete 10 days from October 1582.
-- `INS-260329-DFDB` Layering simple, well-understood components produces more robust complex systems than designing bespoke monolithic solutions.
 - `INS-260404-82B2` Renaissance's edge was the integration of sizing, hedging, and execution across thousands of instruments, not a single brilliant algorithm.
 - `INS-260403-A9F3` Gerrymandering 6,641 tiny districts is computationally harder and more fragile than gerrymandering 435 large ones, and buying 0.02% of Congress per seat is less attractive than buying 0.23%.
 - `INS-260403-11F9` The 'data moat' is largely a fallacy—architectural feedback loops that compound over time are what actually create defensibility.
@@ -52,5 +47,10 @@
 - `INS-260404-95D0` The email system's fundamental vulnerability is that sending messages has no consequences for the sender.
 - `INS-260329-4696` Batching operations increases total system throughput by amortizing overhead, but each individual request waits longer — you cannot optimize both simultaneously.
 - `INS-260330-8718` Neurons are amitotic and irreplaceable once specialized, making them the nervous system's critical vulnerability despite being its most valuable component.
+- `INS-260404-C7A1` Making everything an expression rather than mixing expressions with statements enables arbitrary composition — a multiplicative increase in what you can express.
 - `INS-260403-0B14` Parental drive to advantage children is so powerful that only structural solutions (smaller organizations, market measurement) work—rule-based patches always get circumvented.
 - `INS-260330-2C71` Photosynthesis uses a 4-complex electron transport chain with intermediate carriers (ATP, NADPH) rather than directly converting sunlight to glucose, enabling independent optimization of each stage.
+- `INS-260403-5137` An 81.7% overturn rate on prior authorization denials means the system functions as a friction filter rather than a genuine decision-making process.
+- `INS-260330-A260` JavaScript handles concurrency on a single thread by using an event loop to schedule callbacks, proving parallelism isn't required for concurrent I/O.
+- `INS-260330-881A` The Julian calendar drifted only 10 days in 1,500+ years, yet that imperceptible annual error eventually forced Pope Gregory to delete 10 days from October 1582.
+- `INS-260329-DFDB` Layering simple, well-understood components produces more robust complex systems than designing bespoke monolithic solutions.

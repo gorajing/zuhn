@@ -55,7 +55,6 @@ stance: >-
   increase European defense spending, while Trump's deliberate provocations
   achieved in weeks what persuasion could not accomplish in half a century.
 related:
-  - INS-260323-874F
   - INS-260330-5C69
   - INS-260327-A654
   - INS-260410-5CDC

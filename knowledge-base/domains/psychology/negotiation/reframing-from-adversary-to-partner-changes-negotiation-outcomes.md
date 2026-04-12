@@ -47,11 +47,11 @@ stance: >-
   most powerful structural move in conflict resolution because it changes what
   both parties are optimizing for
 related:
-  - INS-260323-4473
   - INS-260410-BD56
   - INS-260404-34DB
+  - PRI-260411-5353
+  - INS-260323-4473
   - INS-260329-64B8
-  - INS-260410-11F3
 evidence:
   - id: INS-260323-4473
     type: EXTENDS

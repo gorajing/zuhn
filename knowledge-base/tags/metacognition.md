@@ -10,11 +10,11 @@
 - `INS-260330-AEE3` The sense of self dissolves under direct investigation because it was never a stable entity — just unexamined thought patterns.
 - `INS-260330-6CA5` The feeling of being the thinker is not evidence of a thinker — it's the phenomenological signature of thinking without noticing you're thinking.
 - `INS-260330-1B74` Thoughts arise unbidden, last fractions of a second, and vanish completely — yet we build our entire sense of self on this flickering stream.
-- `INS-260409-A239` Treating your current self-model as untrustworthy is a generative stance when paired with willingness to act on better evidence, not a paralysis.
 - `INS-260404-A246` Admitting you're bad at something is the first step to finding effective workarounds like delegation or systematic search.
 - `INS-260404-1289` When receiving advice, people either evaluate it with fresh eyes and give logical reasons for disagreement, or unconsciously munge it to fit pre-existing decisions.
 - `INS-260403-F1C6` Hard work is not a simple intensity dial but a complex dynamic system where self-honesty is the single skill that enables correct calibration at every point.
 - `INS-260403-CB80` Recording confidence ratings at decision time and comparing to outcomes is a powerful metacognitive calibration tool.
+- `INS-260409-A239` Treating your current self-model as untrustworthy is a generative stance when paired with willingness to act on better evidence, not a paralysis.
 - `INS-260403-3442` Consuming startup advice feels like progress but produces fragmented thinking and delays execution.
 - `INS-260403-FE91` A Dunning-Kruger-like effect causes conventional thinkers to overestimate and independent thinkers to underestimate their own independent-mindedness.
 - `INS-260330-43EE` Novices overestimate their abilities because the skills required to assess competence are the same skills they lack.

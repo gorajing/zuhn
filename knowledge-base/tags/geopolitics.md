@@ -10,9 +10,6 @@
 - `INS-260323-636C` Netanyahu's game-theoretic observation: no nation will voluntarily slow AI development to cooperate on regulation — universal AI regulation may only become possible if AI threatens all nations simultaneously.
 - `INS-260403-D7EF` DeepSeek R1's built-in censorship on politically sensitive topics demonstrates that state alignment creates structural bias that persists despite jailbreak attempts.
 - `INS-260404-83C6` DeepSeek proved frontier AI can emerge from a hedge fund side project in China, not just from billion-dollar Western labs.
-- `INS-260405-BBC9` The most compelling recent evidence for a trend is often a leading indicator of its reversal, not its continuation.
-- `INS-260403-F653` Stories we tell about competitors often reveal what we wish we were, not what they actually are.
-- `INS-260403-69C3` National security framing activates fear circuits that override the capacity for nuanced policy engagement.
 - `INS-260405-24F0` Britain's relative manufacturing share predicted its WWI dependency on America decades before the war; today's US-China manufacturing gap signals a similar structural shift.
 - `INS-260405-ADCE` US and China are pursuing humanoid robotics through different incentive structures and deployment contexts, making a single global market unlikely.
 - `INS-260404-841B` NATO launched an innovation fund at its summit, merging venture capital with defense and political cooperation goals.
@@ -94,3 +91,6 @@
 - `INS-260404-8791` Democratic governance alignment between India and the US reduces political risk, regulatory unpredictability, and cultural friction for American entrepreneurs in ways that create durable structural advantages.
 - `INS-260410-81E8` Nadella argues the most important feature of American AI isn't capability but trust — countries are deploying based on whether the supplier and its institutions will still be around in 20 years.
 - `INS-260404-1579` Geopolitical realignment is turning deeptech startups into sovereignty infrastructure with government-backed demand.
+- `INS-260405-BBC9` The most compelling recent evidence for a trend is often a leading indicator of its reversal, not its continuation.
+- `INS-260403-F653` Stories we tell about competitors often reveal what we wish we were, not what they actually are.
+- `INS-260403-69C3` National security framing activates fear circuits that override the capacity for nuanced policy engagement.

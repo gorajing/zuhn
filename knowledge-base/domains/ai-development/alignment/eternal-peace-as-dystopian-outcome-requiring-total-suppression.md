@@ -54,11 +54,11 @@ stance: >-
   because enforcing zero conflict requires totalitarian suppression of human
   agency and progress.
 related:
+  - PRI-260411-0C54
   - INS-260330-A47B
   - INS-260325-537A
   - INS-260325-C9EB
   - INS-260325-D5C6
-  - INS-260410-AB78
 evidence:
   - id: INS-260330-A47B
     type: SUPPORTS

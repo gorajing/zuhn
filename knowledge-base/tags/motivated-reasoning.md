@@ -1,9 +1,9 @@
 # Tag: motivated-reasoning
 
-- `INS-260409-5CD4` Julia Galef: 'Scout Mindset is the motivation to see what's really there and not just what you wish was there' — distinguishing it from soldier mindset where beliefs are defended against threatening evidence through rationalization, denial, and motivated reasoning.
 - `INS-260409-AD0C` Galef distinguishes three decision categories: (1) concrete everyday choices where scout thinking comes naturally (what to eat), (2) ideological issues where incentives push toward self-deception (politics, religion), (3) important personal decisions with competing scout/soldier incentives (career, marriage, parenting) — each requires a different calibration of vigilance.
 - `INS-260403-7B28` We keep falling for the same negotiation cycle because wanting to believe it's different this time overrides our ability to recognize the pattern.
 - `INS-260404-1678` Shifting justifications after the fact reveal the absence of pre-existing strategic reasoning.
+- `INS-260409-5CD4` Julia Galef: 'Scout Mindset is the motivation to see what's really there and not just what you wish was there' — distinguishing it from soldier mindset where beliefs are defended against threatening evidence through rationalization, denial, and motivated reasoning.
 - `INS-260403-37B1` Stacking multiple artifact explanations to dismiss a finding often requires more suspicious coincidences than simply accepting the finding at face value.
 - `INS-260404-DA41` Confirmation bias across multiple actors in the justice system compounds into a reliable wrongful conviction pipeline.
 - `INS-260330-059B` If economic pain is what finally changes someone's mind about a leader whose moral failures were already obvious, the person's reasoning framework is dangerously self-interest-driven.

@@ -1,3 +1,3 @@
-# Tag: tetlock
+# Tag: Tetlock
 
-- `INS-260325-F0CE` Philip Tetlock's research shows expert financial forecasts are no better than average person predictions, and no one predicted the major market-moving events of recent years.
+- `INS-260323-15F4` Philip Tetlock's 20-year study of 284 experts and 80,000 predictions found that the most confident, framework-driven experts (hedgehogs) were the least accurate — often worse than random chance.

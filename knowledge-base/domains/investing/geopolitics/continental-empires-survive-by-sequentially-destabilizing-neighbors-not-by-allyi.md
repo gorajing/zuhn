@@ -66,8 +66,8 @@ related:
   - INS-260330-825F
   - INS-260410-B2A6
   - PRI-260406-541E
+  - PRI-260411-0C54
   - INS-260410-C207
-  - INS-260323-DF0F
 ---
 Paine argues that the fundamental rules of continental empire are (1) no two-front wars and (2) no great power neighbors. To satisfy these, you take on adversaries one at a time, destabilizing rising neighbors and ingesting failing ones while installing buffer zones in between. Russia executed this playbook against China for over a century — scripting the Qing into ceding Central Asia and the Pacific coast during the Opium Wars, manipulating the First United Front to get Chinese communists massacred, advising Mao to halt at the Yangtze to preserve a divided China, and prolonging the Korean War to 'fight to the last Chinese.'
 
