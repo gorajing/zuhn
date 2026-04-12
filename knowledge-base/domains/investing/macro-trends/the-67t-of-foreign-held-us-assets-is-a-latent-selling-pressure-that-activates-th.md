@@ -53,8 +53,8 @@ related:
   - INS-260330-EA56
   - INS-260404-5CD3
   - INS-260330-C1EA
+  - INS-260412-F62F
   - PRI-260406-4D4E
   - INS-260403-5056
-  - INS-260410-151D
 ---
 European pension funds, Japanese life insurers, British investment trusts, and Middle Eastern sovereign wealth funds have spent 40 years accumulating $67T of US assets chasing higher returns. But when their own governments enter financial repression and force institutions to 'buy patriotic bonds,' those institutions must sell something — and that something is overwhelmingly US assets. UK repression creates US-asset selling pressure. Japanese repression creates US-asset selling pressure. Even a modest reversal of the marginal foreign flow is enough to suppress US asset returns for a decade. This is why Napier predicts the next 10 years of S&P 500 returns will materially underperform the last 10.

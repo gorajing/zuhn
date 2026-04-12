@@ -3,16 +3,15 @@
 - `INS-260410-5D16` Karpathy sees AI as continuous with computing — you can't find computers or the iPhone in the GDP curve either, and AGI will diffuse the same way despite subjective feelings of discontinuity.
 - `INS-260323-1F27` Galaxies grow hierarchically — larger ones absorb smaller neighbors — and the evidence of those acquisitions persists in the chemistry and position of ancient stars at the galaxy's outskirts.
 - `INS-260405-110D` VCs are now prioritizing path-to-profitability over top-line growth, reversing a decade-long trend.
-- `INS-260327-A25E` Islam's universalist message — any person of any background could convert and be equal in the faith — enabled it to grow far faster than religions tied to specific ethnic or cultural identities.
 - `INS-260325-243C` If personal development advice makes you cringe, that reaction is a signal it has reached something real and vulnerable.
 - `INS-260325-58F5` Lower the bar of the first step until you find a version you are actually willing to do right now.
+- `INS-260327-A25E` Islam's universalist message — any person of any background could convert and be equal in the faith — enabled it to grow far faster than religions tied to specific ethnic or cultural identities.
 - `INS-260330-A47B` Just as biological systems require cellular death to prevent cancer, psychological health requires voluntarily killing off bad ideas and identities before they become tyrannical.
 - `INS-260325-EC85` Growth amplifies both strengths and unresolved co-founder issues — the 'let's not rock the boat' phase builds pressure that explodes during scaling.
 - `INS-260405-EE74` Growth-stage companies pay a premium for reliability because delays cost more than overpaying.
 - `INS-260405-A1E6` Overpayment patterns expose a company's real bottleneck — follow the money to find the constraint.
 - `INS-260403-C907` Growth comes from publishing valuable content people want to share, repeatedly, not from optimizing anything else.
 - `INS-260330-1C50` Refusing to celebrate others' success out of competitive anxiety shrinks the total pie rather than protecting your share.
-- `INS-260330-8D6F` Lost momentum causes internal disagreement and attrition; only small concrete wins — not vision speeches — can reverse the spiral.
 - `INS-260330-73A2` Growth equals conversion minus churn, and reducing churn by 1% has the identical mathematical effect on growth as increasing conversion by 1%, but costs significantly less.
 - `INS-260403-544B` High acquisition numbers create a false sense of growth health while churn quietly erodes the MRR base each month.
 - `INS-260402-2632` Users judge products as animations not snapshots — the velocity of improvement matters more than current feature set, and responding to feedback creates word-of-mouth that no ad budget can match.
@@ -30,6 +29,7 @@
 - `INS-260323-8C53` Open Secret's marketplace failure created the financial discipline that enabled 3x growth while staying profitable — the crisis was the catalyst.
 - `INS-260403-6C88` Chamath's admission that Facebook's team wishes they'd been more careful proves that competitive pressure overrides good intentions without external constraints.
 - `INS-260323-4082` Many of your current problems are the result of achieving the dreams of your past self — the stress comes with the job you wanted, the arguments come with the relationship you sought.
+- `INS-260330-8D6F` Lost momentum causes internal disagreement and attrition; only small concrete wins — not vision speeches — can reverse the spiral.
 - `INS-260403-2174` Modern PLG upgrades should trigger on behavioral milestones—automations completed, integrations added—not arbitrary limits like storage caps.
 - `INS-260330-931A` Uber's playbook of subsidizing rides to build a loyal user base before regulators could act turned public support into a political shield.
 - `INS-260404-8750` Viaweb paid $16k/month for PR because in the 1990s, press mentions were the only way to get found — Google didn't even exist yet.

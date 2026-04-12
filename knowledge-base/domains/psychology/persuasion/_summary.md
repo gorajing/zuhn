@@ -1,6 +1,6 @@
 # Topic: persuasion
 
-> 56 insights
+> 57 insights
 
 - `INS-260403-9DB6` [high] Steady accumulation of documented incidents shifts opinion more than any single dramatic event because patterns resist counter-narrative.
 - `INS-260403-36F0` [high] Correctness about what's wrong doesn't convert into support without a clear alternative vision.
@@ -16,6 +16,7 @@
 - `INS-260403-23C1` [high] The article pitches the same amendment separately to Democrats (anti-gerrymandering), Republicans (Trump's legacy building), Libertarians (third-party viability), and state legislators (personal career advancement).
 - `INS-260403-560A` [high] Labels like x-ist end discussion by signaling that truth-evaluation is no longer relevant.
 - `INS-260403-49CC` [high] Insider status grants persuasive leverage that outsiders cannot replicate.
+- `INS-260412-C71D` [high] Bukele's path from emergency legislative session to marching soldiers into congress to dismissing Supreme Court judges to reinterpreting term limits followed a step-by-step escalation where each move had plausible justification.
 - `INS-260403-F171` [high] Craft a single compelling phrase ('the X of Y') that investors will remember after hearing dozens of pitches.
 - `INS-260330-5BEB` [high] The Black Legend pattern shows how condemning a rival's cruelty becomes moral cover for your own imperial ambitions.
 - `INS-260403-21A5` [high] Persuasion overhead increases with idea novelty until it consumes all available energy, capping how far you can push thinking.

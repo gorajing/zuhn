@@ -6,8 +6,8 @@
 - `INS-260412-15D0` Point particles are admittedly fictional yet predict electron properties to 14 decimal places, proving that useful approximations beat paralysis from incomplete knowledge.
 - `INS-260404-6C8F` A 4%+ fatal error rate makes philosophical arguments for or against the death penalty moot — the implementation failure dominates.
 - `INS-260409-005E` Predictive competence and interpretive understanding are separable capabilities — prediction can run far ahead of intuition.
-- `INS-260329-E333` Solving the problem correctly first, then refactoring for elegance, consistently beats attempting beautiful code from the start.
-- `INS-260405-2299` Using available low-tech tools beats waiting for proper systems when speed of alignment matters.
 - `INS-260323-BDC1` The tension between dreaming and pragmatism is not a contradiction to resolve but a dance to maintain — you need both the north star and the day-by-day execution.
 - `INS-260323-3982` Friedman's willingness to compromise and say 'I was wrong' gave him lasting policy influence, while Rand's philosophical purity made her schismatic and limited her practical impact.
+- `INS-260329-E333` Solving the problem correctly first, then refactoring for elegance, consistently beats attempting beautiful code from the start.
+- `INS-260405-2299` Using available low-tech tools beats waiting for proper systems when speed of alignment matters.
 - `INS-260323-8B90` Destiny identifies a recurring pattern in conservative argumentation: every proposed incremental fix gets redirected to a root cause (like two-parent households) that neither side can directly engineer, creating a policy paralysis loop.

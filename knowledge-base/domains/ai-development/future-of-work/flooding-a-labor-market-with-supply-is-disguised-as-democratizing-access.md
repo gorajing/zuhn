@@ -43,7 +43,6 @@ stance: >-
   engineering wage suppression through oversupply, not expanding opportunity
 related:
   - INS-260322-2B2D
-  - INS-260322-0D87
   - INS-260330-16B1
   - INS-260402-C4FF
   - INS-260403-16B4

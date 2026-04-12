@@ -33,9 +33,9 @@
 - `INS-260405-844D` A 43-day shutdown forcing unpaid essential workers illustrates the brittleness of government services reliant on continuous human labor.
 - `INS-260409-94D6` Don't ask 'should I hire an editor' — list the 6-10 things an editor actually does with their hands and ask which of those can become workflows.
 - `INS-260327-9C56` Fan envisions a Physical API that gives software a physical actuator, enabling a skill economy where experts teach robots and deliver their expertise as a service at scale.
-- `INS-260412-B89F` At planetary construction scale, humans become controllers overseeing autonomous machine armies rather than direct operators.
 - `INS-260405-B88A` AI automation applied to the RFP process promises dramatic efficiency gains in both proposal generation and vendor evaluation.
 - `INS-260409-6AEB` Web Clipper plus Local Images Plus gives one-click ingestion with localized images.
+- `INS-260412-B89F` At planetary construction scale, humans become controllers overseeing autonomous machine armies rather than direct operators.
 - `INS-260320-D58E` An n8n workflow scrapes YouTube, Reddit, Twitter, and the web daily to identify content outliers and trending topics, then generates detailed content ideas with scripts, hooks, and storylines.
 - `INS-260320-41E3` A daily n8n content research automation that scrapes multiple platforms, identifies trends, and delivers a content digest costs under $0.35 per day to operate.
 - `INS-260320-9935` The 0-to-175K growth came from automating content research and ideation, not from automating content creation itself -- the competitive advantage is knowing what to create, not how to create it.
@@ -43,9 +43,9 @@
 - `INS-260320-4BA8` Keep spec templates simple — if too heavy, people skip them. Automate file creation and periodically revisit findings for tech debt.
 - `INS-260329-3243` HFT systems run automated pre-trade risk checks in microseconds — blocking bad orders before they hit exchanges without slowing the pipeline.
 - `INS-260329-9745` SQL triggers automatically execute code in response to INSERT/UPDATE/DELETE events, enabling powerful automation but creating implicit behavior that doesn't appear in application code.
+- `INS-260405-A309` The length of tasks AI can perform autonomously doubles roughly every seven months, accelerating exposure of knowledge work.
 - `INS-260320-71C1` Full pipeline: search query to scrape 100+ profiles, extract data, pull company info, AI-generate personalized opener, export to Google Sheets.
 - `INS-260320-6A9D` Safety-first scraping: decouple your personal account from the scraping tool. If the tool gets flagged, your account is unaffected.
-- `INS-260405-A309` The length of tasks AI can perform autonomously doubles roughly every seven months, accelerating exposure of knowledge work.
 - `INS-260405-E34C` Doorways, staircases, and tools are built for human dimensions — a humanoid robot inherits compatibility with all existing infrastructure at no cost.
 - `INS-260412-662C` After infection clearance, a few helper T cells and B cells persist as memory cells that guard tissue for years and maintain low-level antibody production, making reinfection nearly impossible.
 - `INS-260403-13AF` Healthcare's $1T/year administrative layer — 185,000 coders translating across 70,000+ diagnosis codes — represents exactly the kind of repetitive translation work AI automates first.

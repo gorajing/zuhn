@@ -52,11 +52,11 @@ stance: >-
   and when the conflict doesn't end quickly, this unpreparedness multiplies the
   damage.
 related:
+  - INS-260412-2B91
   - PRI-260406-E38B
+  - INS-260412-9E81
   - INS-260327-32BA
   - INS-260330-5C69
-  - INS-260327-A072
-  - INS-260410-647F
   - INS-260410-5CDC
   - INS-260410-7028
 evidence:

@@ -56,6 +56,7 @@ related:
   - INS-260410-CBF9
   - INS-260404-FAE9
   - INS-260330-95F3
+  - INS-260412-DAEF
 ---
 The LDP's near-unbroken rule since 1955 looks like a one-party state but functions as a responsive democracy. When corruption and environmental anger threatened them in the 1970s, they became environmentalist. When the bubble burst in the 1990s, they deployed massive fiscal stimulus. When they lost power in 2009, they brought in Abe's pro-growth economics. Each crisis produced genuine policy adaptation rather than doubling down.
 

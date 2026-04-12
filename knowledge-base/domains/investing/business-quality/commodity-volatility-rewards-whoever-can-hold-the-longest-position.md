@@ -62,7 +62,6 @@ related:
   - INS-260330-341D
   - INS-260410-FECA
   - INS-260410-17E2
-  - INS-260410-DF92
 ---
 Early oil refining was a textbook boom-bust commodity: prices swung from $12 a barrel to pennies based on rumors of a new gusher. Most refiners optimized for harvest — grab high margins during booms, shrink during busts. Rockefeller did the opposite. He ran Standard Oil as a permanent reinvestment engine: experimenting constantly with process (using his own gasoline byproduct to power the refineries, treating wood for lighter barrels, vertically integrating plumbers and blacksmiths), and lining up bank financing ahead of every downturn so he could buy the dip while competitors were fire-selling.
 

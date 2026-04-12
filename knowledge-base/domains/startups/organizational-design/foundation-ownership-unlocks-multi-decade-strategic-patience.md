@@ -56,6 +56,7 @@ related:
   - INS-260330-7BF5
   - PRI-260405-5912
   - INS-260410-DF70
+  - INS-260412-8EAE
 ---
 The Novo Nordisk Foundation holds 77% of the voting shares and 28% of the economic shares of the operating company. Its stated mission is stability and humanitarian impact — growth is not in the charter. Yet this company became Europe's largest by market cap, explicitly because the foundation's control allowed management to reject Nordisk's merger overtures in the 1970s, invest through the enzyme-business crisis, and patiently fund GLP-1 research from the 1990s through 2021 clinical trials — a three-decade arc no activist-exposed public company would tolerate.
 

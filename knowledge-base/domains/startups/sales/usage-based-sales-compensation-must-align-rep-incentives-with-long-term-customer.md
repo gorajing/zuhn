@@ -55,13 +55,13 @@ related:
   - INS-260323-D621
   - INS-260327-16D7
   - INS-260329-1962
-  - INS-260330-9933
   - PRI-260327-942E
   - INS-260404-EAA7
   - PRI-260407-C35C
   - INS-260328-A666
   - INS-260410-2632
   - INS-260410-001F
+  - INS-260410-141F
 ---
 Mark Regan and Joe Morrissey's 2024 essay on usage-based sales compensation addresses a core structural problem: most B2B sales comp plans were designed for subscription or seat-based SaaS, where the contracted value is locked in at signing. Usage-based models (UBB) decouple the contract from actual revenue — a customer can sign a $500K deal and consume only $50K.
 

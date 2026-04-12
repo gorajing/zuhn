@@ -47,10 +47,10 @@ stance: >-
   transformative outcomes than any other intervention.
 related:
   - INS-260410-00F0
+  - INS-260412-923A
   - INS-260410-0120
   - INS-260409-60C2
   - INS-260330-27DD
-  - INS-260403-219F
 evidence:
   - id: INS-260330-CAD2
     type: CONTRADICTS

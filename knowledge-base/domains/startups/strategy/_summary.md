@@ -1,6 +1,6 @@
 # Topic: strategy
 
-> 263 insights
+> 264 insights
 
 - `INS-260330-98EA` [high] The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples.
 - `INS-260403-0530` [high] New York struggles as a startup hub because founders there are second-class citizens in a status hierarchy that most admires financial wealth.
@@ -47,6 +47,7 @@
 - `INS-260330-9A92` [high] Growing 100 cheap vine robots into a collapsed building where only one finds a survivor is a massive success — the strategy works because unit cost approaches zero.
 - `INS-260410-DF88` [high] Benchmark's 'we will not scale' is a real strategy because the thing they sell — partnership-wide attention on every portfolio company — literally cannot exist at 5x the size.
 - `INS-260403-D444` [high] Shrinking an industry's total revenue by 95% is a viable strategy if you capture all of what remains, because incumbents can't follow you down.
+- `INS-260412-DC05` [high] Toyota stockpiled 2-6 months of semiconductors because chips have irreplaceable, slow-to-rebuild supply chains — making that inventory necessary, not excess.
 - `INS-260330-0B4A` [high] RuBisCo — the most abundant protein on Earth at 40 billion tons — is demonstrably bad at its job, confusing O2 for CO2 half the time, yet plants are permanently locked into it.
 - `INS-260404-FAE9` [high] RuBisCo's 450-million-year reign shows that dominant systems compensate for flaws rather than replace core mechanisms.
 - `INS-260404-16B0` [high] RuBisCo is a terrible enzyme that won the planet by being produced in enormous quantities — 40 billion tons — rather than by being good at its job.

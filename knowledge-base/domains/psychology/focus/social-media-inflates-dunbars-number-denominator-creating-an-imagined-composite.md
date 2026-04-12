@@ -53,7 +53,6 @@ stance: >-
   hardwired inadequacy response.
 related:
   - INS-260325-9507
-  - INS-260323-4A3D
   - INS-260410-A1A9
   - INS-260403-3CFB
   - INS-260327-E41B

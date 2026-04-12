@@ -48,11 +48,11 @@ stance: >-
   flows into AI startups, indicating the AI funding boom is approaching a
   selectivity inflection point.
 related:
+  - INS-260412-1191
   - INS-260325-DA83
   - INS-260405-0327
   - INS-260412-4716
   - INS-260404-B016
-  - INS-260403-21B2
 ---
 While AI startups collectively raised nearly $30 billion in the first half of 2024, indicators suggest early-stage investors are developing AI fatigue. This divergence between capital volume and investor enthusiasm is significant — it suggests the easy-money phase of AI investing is ending while growth-stage deals continue to attract capital.
 

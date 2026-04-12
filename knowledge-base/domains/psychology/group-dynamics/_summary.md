@@ -1,6 +1,6 @@
 # Topic: group-dynamics
 
-> 109 insights
+> 112 insights
 
 - `INS-260330-2EB0` [high] The Pueblo Revolt shows that a shared existential threat can override deep tribal divisions — but the unity is temporary.
 - `INS-260403-D609` [high] Enforcers of orthodoxy compete with each other, creating a race to the bottom where any borderline idea gets banned.
@@ -14,6 +14,7 @@
 - `INS-260410-5437` [high] Gorbachev assumed that if the Warsaw Pact dissolved then NATO would dissolve too, and if Comecon went away the European Community would follow — but NATO and the EC grew stronger because their members had chosen them, while the Warsaw Pact had only ever held together under threat of Soviet tanks.
 - `INS-260404-BAED` [high] The spam problem is fundamentally a collective action failure where the rational majority cannot stop the exploitable minority from sustaining the attacker's business model.
 - `INS-260330-4B55` [high] Harvard Business School's largest cohorts systematically catch the last wave — junk bonds in 1989, dotcom in 1999, housing in 2005-2007 — because competition feels like validation rather than a warning signal.
+- `INS-260412-9F1D` [high] Competitive dynamics within a crowd destroy cooperative behavior and are the primary driver of crowd crush risk.
 - `INS-260403-8B13` [high] Conformism varies on two orthogonal axes — conventional/independent and passive/aggressive — creating four stable personality types observable from childhood.
 - `INS-260412-1773` [high] Leafcutter ants respond to army ant attacks with instant role-based mobilization — soldiers to frontline, workers to barricades, small teams to flanking — all without central coordination.
 - `INS-260330-0FF7` [high] China's One Child Policy created a surplus of 35 million men, making property ownership a prerequisite for marriage and turning housing into inelastic social demand.
@@ -54,6 +55,7 @@
 - `INS-260403-758F` [high] SEIU proposed the same dialysis regulations three consecutive elections because voters lack context to identify extortion disguised as reform.
 - `INS-260403-EDDC` [high] BART fare gates cut crime 54% by blocking the small fraction of non-paying riders who caused nearly all disorder.
 - `INS-260403-6861` [high] When crime policy becomes entangled with racial justice framing, pragmatic solutions like increased policing become morally impermissible regardless of evidence.
+- `INS-260412-3A8E` [high] Stronger shared identity among crowd members produces more cooperative behavior, even in dangerous situations.
 - `INS-260402-FFCB` [high] Bret Weinstein's taxonomy — witch-hunters, followers, silent majority, and resisters who become the witches — describes a recurring social pattern where opposition to a movement gets recast as the very evil being hunted.
 - `INS-260403-8C7E` [high] Social media functions as a status marketplace where divisive hostility is the most reliable path to visibility and influence.
 - `INS-260403-C4E2` [high] When enough people around you are doing something ambitious, it stops feeling crazy and starts feeling like the obvious next step.
@@ -91,6 +93,7 @@
 - `INS-260403-CF01` [medium] The same ethnic group can have radically different outcomes depending on the selection mechanism that brought them to a country.
 - `INS-260410-C474` [medium] Paine argues Bismarck's manipulation of Europe's monarchs demonstrated the structural incompetence of inherited leadership, because kings selected by birth rather than skill consistently failed to see strategic patterns a competent peer group would have caught.
 - `INS-260403-DA14` [medium] A leader's repeated norm violations train their handlers and staff to preemptively execute the cheating pattern without explicit instructions.
+- `INS-260412-3455` [medium] South Korean youth culture has reorganized entirely around the 'Samsung Man' ideal, with 100,000+ applicants taking the Samsung Aptitude Test and failure to join a chaebol treated as social shame.
 - `INS-260403-2D89` [medium] Corporate roles survive because dismantling any one threatens all adjacent roles that depend on it for legitimacy.
 - `INS-260403-8E0C` [medium] SF's hardline progressives effectively allied with old-money NIMBYs to freeze the city in amber, despite framing their agenda as equity-driven.
 - `INS-260403-3A71` [medium] Publicizing that charisma decides elections should eventually force both sides to match on charisma, restoring issue-based competition.

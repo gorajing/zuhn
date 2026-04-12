@@ -1,6 +1,7 @@
 # Tag: pivots
 
 - `INS-260403-0AF7` Existential constraints strip away incrementalism and force founders into genuinely novel business model territory.
+- `INS-260412-FD95` The wind-shear crisis killed the 737 plan but led to the Airlink E190 solution with connecting routes from both Johannesburg and Cape Town — arguably better than the original single-origin Comair service.
 - `INS-260409-2578` Pivots at scale rarely work — only pivot when you have literally no other choice.
 - `INS-260403-0F89` Photosynthesis produced oxygen as an unwanted byproduct that eventually enabled all complex animal life — the most consequential pivot in biological history.
 - `INS-260328-A9D2` Dalton's core advice framework for pivots: every person has one perfect startup idea — the one where they have the most unfair advantages, best network, and deepest expertise.

@@ -1,6 +1,6 @@
 # Topic: decision-making
 
-> 159 insights
+> 164 insights
 
 - `INS-260412-4FBF` [high] If something powerful enough would leave unmistakable traces and you find none, that silence is itself a strong signal.
 - `INS-260404-A246` [high] Admitting you're bad at something is the first step to finding effective workarounds like delegation or systematic search.
@@ -18,9 +18,11 @@
 - `INS-260412-8111` [high] The asteroid's direct impact was devastating, but it was the chain of earthquakes, tsunamis, atmospheric heating, wildfires, and nuclear winter that actually killed 75% of species.
 - `INS-260412-9D2A` [high] When a disaster destroys the very systems meant to respond to it, only prevention — not preparedness — offers real protection.
 - `INS-260404-2135` [high] Growing up with accuracy-focused judgments trains a false expectation that all judgments aim to be fair.
+- `INS-260412-9958` [high] Documents that identify every problem but fail to ruthlessly rank them by urgency produce paralysis on the most critical issues.
 - `INS-260330-D0B4` [high] Staying buckled in an inverted sinking helicopter is safer than the instinctive escape attempt, but requires trained override of natural panic responses.
 - `INS-260412-66D8` [high] The dendritic cell's binary choice between anti-virus and anti-bacteria response determines which entire army gets mobilized, making it the highest-leverage decision point in immune response.
 - `INS-260403-0769` [high] The belief that history guarantees your victory makes you stop doing the strategic work required to actually win.
+- `INS-260412-0B8B` [high] Charging to 50% twice is faster than charging to 100% once because batteries accept power at diminishing rates as they fill.
 - `INS-260403-B710` [high] Counting finite instances of recurring experiences makes time scarcity concrete and actionable.
 - `INS-260404-E783` [high] Seemingly paradoxical findings often dissolve when you recognize the phenomenon as a mix of tradeoff and failure components rather than seeking a single unified explanation.
 - `INS-260410-0735` [high] Mao was a military genius who reunified a shattered China after 40 years of civil war, and the same person then caused the largest peacetime famine in Chinese history — because the skills that win wars are not the skills that run economies.
@@ -53,12 +55,14 @@
 - `INS-260412-A944` [high] When threats escalate non-linearly, the early months feel barely noticeable while the final phase overwhelms all capacity to respond — and the intervention window closes during the comfortable phase.
 - `INS-260402-8ACF` [high] Truly novel and valuable ideas must appear bad to most evaluators, because obvious good ideas get executed immediately and stop being novel.
 - `INS-260403-3BD3` [high] If people don't think you're weird, you're probably living badly — because statistically normal behavior increasingly includes harmful addictive patterns.
+- `INS-260412-2B91` [high] Russia planned for a 3-5 day war with no logistics fallback, so when Ukraine resisted, the entire invasion apparatus broke down simultaneously.
 - `INS-260404-AE3C` [high] RuBisCo is a terrible enzyme that plants compensate for by producing 40 billion tons of it rather than evolving a replacement, illustrating how path dependence locks in suboptimal strategies.
 - `INS-260404-0BED` [high] RuBisCo was adequate in a low-oxygen world but became deeply flawed when plants changed the atmosphere, yet plants couldn't switch away.
 - `INS-260403-EB12` [high] True persistence means flexibility on methods while maintaining commitment to the goal; obstinacy is the reverse.
 - `INS-260404-C258` [high] The switch from impersonal to personal moral dilemmas shifts brain activation from prefrontal reasoning circuits to the amygdala's emotion centers.
 - `INS-260330-C9A6` [high] Reference standards — whether physical kilograms or personal heuristics — drift over time and must be recalibrated against unchanging fundamentals.
 - `INS-260410-58DB` [high] Japan's path to Pearl Harbor was locked in by 1936 when young officers murdered Finance Minister Takahashi for opposing empire — by 1941 the peace faction could no longer save face, let alone stop the military.
+- `INS-260412-6564` [high] Salvadorans maintained 90% approval of Bukele even as he suspended constitutional rights, dismissed judges, and detained 70,000 people — because gang violence had been an existential daily threat for decades.
 - `INS-260402-40D7` [high] Avoid locking into fixed life plans early; instead maximize the range of future options available to you.
 - `INS-260403-B9E5` [high] Prestige biases your perception of your own interests, making you pursue what you'd like to like rather than what you actually like.
 - `INS-260403-5137` [high] An 81.7% overturn rate on prior authorization denials means the system functions as a friction filter rather than a genuine decision-making process.
@@ -74,6 +78,7 @@
 - `INS-260330-BB0C` [high] Intense romantic love activates ancient brain drive systems while shutting down newer cognitive regions for planning and evaluation.
 - `INS-260404-ABCB` [high] NASA's Bennu sample return found fragile organic compounds that meteorite studies could never detect because atmospheric entry destroys them.
 - `INS-260404-EC33` [high] Plants produce 40 billion tons of an inefficient enzyme rather than evolving a better one — volume compensates for poor per-unit performance.
+- `INS-260412-BBF8` [high] Manufacturers stripped JIT down to pure inventory elimination because that showed immediate savings, while resilience mechanisms only prove their value during rare disruptions.
 - `INS-260412-59F2` [high] The barrier to becoming an interstellar civilization isn't technical feasibility but humanity's chronic short-term political focus.
 - `INS-260330-8849` [high] Cultural norms tying property ownership to marriage eligibility create demand that persists regardless of whether the purchase makes financial sense.
 - `INS-260403-2AC0` [high] Coercing a hostile vendor to build your weapons is self-defeating regardless of their technical capability.

@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-12 | 4878 actionable insights
+Generated on 2026-04-12 | 4889 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1439,6 +1439,7 @@ Generated on 2026-04-12 | 4878 actionable insights
 - [INS-260412-2CD6] The vaccine debate illustrates how evidence-based arguments inherently lose to emotional narratives because statistical reasoning can't compete with vivid anecdotes.
 - [INS-260412-FA41] When vaccines eliminate visible disease, people compare rare vaccine side effects against a now-invisible threat, making vaccines seem riskier than the disease.
 - [INS-260412-5F4D] Chronic loneliness makes your brain pay more attention to social cues but interpret them less accurately, biasing toward hostility.
+- [INS-260412-774E] After crowd disasters, blame consistently falls on participant character rather than system design flaws, preventing real fixes.
 
 ## psychology/communication
 - [INS-260330-3570] Arguments that start by explicitly naming what is being disagreed about — and what is not — dramatically outperform arguments that jump straight into positions.
@@ -1569,6 +1570,8 @@ Generated on 2026-04-12 | 4878 actionable insights
 - [INS-260412-C1EC] Inside a black hole's event horizon, moving in any direction only brings you to the singularity faster — the longest survival comes from doing nothing.
 - [INS-260412-4FBF] If something powerful enough would leave unmistakable traces and you find none, that silence is itself a strong signal.
 - [INS-260412-4CB1] When no path is cosmically 'right,' the only remaining criterion is personal alignment, which is faster to evaluate.
+- [INS-260412-9958] Documents that identify every problem but fail to ruthlessly rank them by urgency produce paralysis on the most critical issues.
+- [INS-260412-2B91] Russia planned for a 3-5 day war with no logistics fallback, so when Ukraine resisted, the entire invasion apparatus broke down simultaneously.
 
 ## psychology/epistemics
 - [INS-260405-2B3F] Treating survey non-response as randomly missing data produces systematically wrong estimates whenever the stigmatized view is also the under-reported one.
@@ -2769,6 +2772,7 @@ Generated on 2026-04-12 | 4878 actionable insights
 - [INS-260410-3EF5] Pick an extreme: dominate globally with massive fixed costs or aggregate the world's weirdos around one niche — never sit in the middle.
 - [INS-260411-40CA] Empirical data on U.S. establishments from 1978-2022 shows roughly 60% of new entrants exit within 5 years and 80% within 10, yet challengers remain overconfident and drawn to ambiguous payoffs.
 - [INS-260412-3A50] Technological progress compounds so fast that delayed competitive response can become permanently unrecoverable.
+- [INS-260412-BA6D] Ukraine's guerrilla defense focused on destroying unarmored fuel trucks, rail connections, and road signs—targeting Russia's weakest logistical links rather than its strongest military assets.
 
 ## startups/content-strategy
 - [INS-260329-3332] A single 4+ hour comprehensive tutorial can accumulate millions of views over years by dominating 'full course' search queries.
@@ -3099,6 +3103,7 @@ Generated on 2026-04-12 | 4878 actionable insights
 - [INS-260410-7224] Dee Hock insisted on 9-month deadlines for Visa's entire authorization and settlement systems because he believed engineers will always consume whatever time you give them.
 - [INS-260410-8EC3] Azure wasn't started inside Server & Tools — it was incubated under Ray Ozzie with Dave Cutler, separate from the group whose business it would reshape; Windows NT was separated from Windows for the same reason.
 - [INS-260412-94BD] Venus terraforming works because each phase — frozen surface, liquid oceans, breathable atmosphere — is independently useful to settlers.
+- [INS-260412-923A] Bukele's transformation of a 7,000-person town — eliminating illiteracy, building infrastructure, near-zero homicides — became the proof point that propelled him to the presidency.
 
 ## startups/exits
 - [INS-260409-143C] Give yourself two months to try for acquisition, then shut down — no time frame means no exit.
@@ -4315,6 +4320,7 @@ Generated on 2026-04-12 | 4878 actionable insights
 
 ## startups/operations
 - [INS-260405-54A9] Internal AI agents (HR, knowledge base, competitor intel) deliver faster ROI than customer-facing ones because deployment barriers are lower.
+- [INS-260412-F4DA] Systems with three actor groups holding different incentives and no shared situational awareness predictably cascade into failure.
 
 ## startups/organizational-design
 - [INS-260405-346A] Org structure is fundamentally a filter—it determines which conflicts are visible to leadership and which are suppressed before surfacing.
@@ -4373,6 +4379,7 @@ Generated on 2026-04-12 | 4878 actionable insights
 - [INS-260403-A70D] Measuring outcomes over outputs forces product teams to validate that shipped features actually change user behavior and create value.
 - [INS-260403-6C07] Solve the problem users have right now before expanding into the product you envision for the future.
 - [INS-260409-2A8D] Your only job is right product at right time — everything else is avoidance of that job.
+- [INS-260412-9657] Solving one bottleneck in a complex system without addressing the whole system just moves the failure point downstream.
 
 ## startups/product-development
 - [INS-260322-58B7] Ship the minimal core feature fast and let actual user feedback determine where the product goes next.
@@ -4556,6 +4563,7 @@ Generated on 2026-04-12 | 4878 actionable insights
 
 ## startups/resilience
 - [INS-260412-EE18] Forces that maintain cohesion at small scale break down at larger scales, requiring different survival strategies at each phase.
+- [INS-260412-2419] State service failure reliably creates private parallel infrastructure markets, but these markets accelerate public system decline by removing the constituency that would demand improvement.
 
 ## startups/sales
 - [INS-260327-7A44] The moment a customer has their first 'wow' result -- first milestone hit, first successful implementation, first measurable outcome -- immediately ask: 'Is there one or two people just like you that we could help?'
@@ -4932,6 +4940,7 @@ Generated on 2026-04-12 | 4878 actionable insights
 - [INS-260412-A1F4] Historical colonization always followed three phases — exploration, dependent outpost, self-sufficient colony — and this pattern maps directly to entering new markets.
 - [INS-260412-F0F5] String theory's rowing-boat-to-cruise-ship analogy shows that working in a simplified model universe that shares structural properties with the real problem can yield transferable insights even when direct application fails.
 - [INS-260412-4716] Startups face discrete 'great filters' at each stage — finding PMF, scaling, and sustaining — where most die, mirroring the Fermi Paradox's civilizational filters.
+- [INS-260412-DC05] Toyota stockpiled 2-6 months of semiconductors because chips have irreplaceable, slow-to-rebuild supply chains — making that inventory necessary, not excess.
 
 ## startups/team-building
 - [INS-260405-F378] Searching for a technical cofounder before validating demand is backwards — demand attracts technical talent.
@@ -5125,6 +5134,8 @@ Generated on 2026-04-12 | 4878 actionable insights
 - [INS-260403-F6EC] Metrics that don't connect to revenue, retention, or scalability harm credibility when presented to sophisticated investors.
 - [INS-260403-3739] Validating that customers will pay for a solution is a stricter and more predictive test than just confirming they have the problem.
 - [INS-260409-B73E] First paying customer in 30 days is the only validation test that cannot be faked.
+- [INS-260412-379C] Angola simultaneously produced Africa's first female billionaire and had only 15-19% high school attainment—proving that trophy metrics can coexist with systemic failure.
+- [INS-260412-E925] St Helena airport's most compelling proof of value wasn't tourism numbers but emergency medevac flights that saved lives — including a premature baby who would have died waiting for the monthly ship.
 
 ## startups/venture-capital
 - [INS-260405-B01A] Deal mechanics and preference stacks can legally redirect all exit proceeds away from founders regardless of valuation.

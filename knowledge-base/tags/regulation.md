@@ -17,15 +17,15 @@
 - `INS-260410-7AC1` Vague AI safety terminology in regulation is a loaded weapon waiting for an authoritarian to pick up.
 - `INS-260327-D65E` OpenAI frames iterative deployment as essential for building societal readiness for the long-term vision of autonomous AI agents.
 - `INS-260405-6E5F` The SEC issued an interpretive release separating crypto into five categories—four of which are not securities—ending the default 'everything is a security' enforcement posture.
-- `INS-260410-F41F` The 2009 HITECH Act's $36B in 'meaningful use' incentives drove EMR adoption from 9% to 95% of hospitals in five years—which sounds like a tailwind, but the deeper effect was closing the door on any future innovative competitor by compressing decades of buying decisions into one window.
+- `INS-260412-737B` You'd need ~5,000 liters of milk to match the hormone dose in a single birth control pill, and most would be destroyed by digestion anyway.
 - `INS-260327-BF93` BNPL companies have $500B+ in debt not recorded like traditional credit, with users treating what should be 8-week payment plans as permanent budget-stretching tools.
 - `INS-260330-FC9F` The day the first NFT fraud indictment was announced, multiple abandoned NFT projects immediately resumed development — proving fraudsters explicitly calculate prosecution probability.
 - `INS-260403-71E6` Kalshi's $11B valuation after a $1B round highlights that prediction market growth is inseparable from regulatory risk as volumes surge.
 - `INS-260404-D475` Kalshi's $11B valuation and 1000% volume growth validates regulated prediction markets as a mainstream financial category.
 - `INS-260403-BCCB` Regulatory infrastructure, not code, is the true barrier to entry in tokenized credit markets.
+- `INS-260410-F41F` The 2009 HITECH Act's $36B in 'meaningful use' incentives drove EMR adoption from 9% to 95% of hospitals in five years—which sounds like a tailwind, but the deeper effect was closing the door on any future innovative competitor by compressing decades of buying decisions into one window.
 - `INS-260410-5D08` Innovation ecosystems depend on risk-tolerant investors; one arbitrary crackdown — or even the credible threat of one — can wreck the whole stack for a decade.
 - `INS-260403-8002` Fund manager wealth required both new strategies and the 1978 regulatory change allowing pension fund investment — a two-factor gate.
-- `INS-260412-737B` You'd need ~5,000 liters of milk to match the hormone dose in a single birth control pill, and most would be destroyed by digestion anyway.
 - `INS-260327-1F4A` Markets had priced in perpetual regulatory leniency toward monopolies, making the Google ruling a wake-up call for every trillion-dollar company.
 - `INS-260321-C6C0` Post-2008 regulations pushed risky lending from regulated banks to private credit — a $2T opaque market with higher fees, less oversight, and now rising defaults.
 - `INS-260323-EA65` W.R. Grace lobbied regulators to define asbestos contamination below 1% as 'asbestos-free' — controlling the definition was more effective than fighting every individual regulation.
@@ -53,6 +53,7 @@
 - `INS-260330-A1DB` India's 30% local sourcing rule for retail stores forced Apple into partner-dependent distribution, compounding its market weakness.
 - `INS-260330-F23F` India's requirement that foreign companies source 30% of materials locally before opening retail stores blocked Apple from its most profitable distribution channel.
 - `INS-260403-C4B3` Regulatory compliance costs act as de facto subsidies for large businesses by creating barriers that small competitors cannot easily absorb.
+- `INS-260412-CAAD` St Helena's airport needs nearly the same firefighting, meteorology, navigation, and security infrastructure as Heathrow despite having one flight per week versus thousands.
 - `INS-260403-BA4B` Geopolitical decentralization prevents any single lobby from permanently distorting property definitions to serve incumbents.
 - `INS-260403-CD68` Libra failed partly because regulators went beyond setting guardrails to actively managing product decisions, making it impossible to ship a market-responsive product.
 - `INS-260404-7834` When you can't fix the source of a problem (e.g., patent issuance), target the point where harm actually occurs (e.g., patent enforcement against startups).

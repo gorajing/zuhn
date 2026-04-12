@@ -1,6 +1,6 @@
 # Topic: scaling
 
-> 188 insights
+> 189 insights
 
 - `INS-260403-49FB` [high] Startups need 2-3x longer than founders expect to validate their market, and 70% scale prematurely — largely explaining the 90% failure rate.
 - `INS-260403-AA20` [high] The 996 grind culture trades short-term velocity for compounding burnout costs that destroy long-term startup viability.
@@ -44,6 +44,7 @@
 - `INS-260330-912C` [high] Rome successfully absorbed conquered peoples for centuries by making them Romans, but collapsed when expansion outpaced cultural integration.
 - `INS-260329-88A4` [high] Freedom and control are inversely correlated for entrepreneurs — growth requires systematically trading control for freedom through output-based trust.
 - `INS-260327-0D0B` [high] Plan for your company to break at every headcount doubling—the breakage is a feature, not a bug.
+- `INS-260412-907D` [high] The top 10 shipping lines controlling 85% of the market and the US relying on just 5 Pacific deepwater ports shows how scale optimization concentrates risk.
 - `INS-260403-D704` [high] McDonald's demands more from franchisees than competitors — approved suppliers, Hamburger University training, rigid operating standards — yet attracts $1-2M investments because the constraints signal safety.
 - `INS-260329-A57B` [high] Each additional nine of availability cuts allowed downtime by 10x but costs roughly 10x more to achieve — most startups should target three nines, not five.
 - `INS-260403-193E` [high] Fixed costs like headcount and infrastructure jump in steps, not linearly—controlling when those steps happen is a key founder lever for preserving cash.

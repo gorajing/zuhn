@@ -55,9 +55,8 @@ related:
   - INS-260327-C22F
   - INS-260327-377A
   - INS-260326-E411
+  - INS-260412-2B91
   - INS-260327-1107
-  - INS-260327-191B
-  - INS-260327-A072
 ---
 Wellington shadowed Marmont's French army for days, both armies marching in parallel, neither willing to attack. Then Marmont made a single error: he extended his line to try to outflank Wellington, creating a gap between his divisions. Wellington spotted it instantly — 'Mon cher Alava, Marmont is lost!' — and launched an attack within 40 minutes. The result was the destruction of an entire French army in a single afternoon.
 

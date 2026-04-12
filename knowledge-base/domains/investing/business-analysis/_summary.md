@@ -1,10 +1,11 @@
 # Topic: business-analysis
 
-> 23 insights
+> 24 insights
 
 - `INS-260410-641D` [high] An acquisition serving three strategic purposes simultaneously is worth far more than critics who grade on one dimension will estimate — YouTube went from 'Google's worst mistake' to a $500B business.
 - `INS-260410-C89B` [high] Greg Abel in the 2025 letter: 'At Berkshire's scale, the math of compounding works against us — a reality long understood and best acknowledged plainly. Our opportunity is improvement in per-share value over the long term, even when progress comes in smaller increments.'
 - `INS-260410-DA0E` [high] Amazon used the 2000-2007 dot-com winter—when everyone else was retrenching—to build the fulfillment, Prime, and Marketplace infrastructure that became its permanent moat.
+- `INS-260412-1038` [high] The Lee family controls Samsung's 59 affiliates through cascading cross-ownership where each entity's operating profits buy controlling stakes in the next, amplifying control geometrically beyond actual capital invested.
 - `INS-260410-0118` [high] Pork and egg production look like commodity businesses but concentrate into handful-of-firm oligopolies whose price-fixing and inelastic demand let them earn outsized profits.
 - `INS-260410-ED7E` [high] Hermès could raise Birkin prices meaningfully without losing buyers, but choosing not to creates the scarcity tax that drives purchase of adjacent products, yielding more lifetime revenue than the foregone price would.
 - `INS-260411-F990` [high] DuPont decomposition of sustained top-quintile ROIC performers from 1963-2023 shows NOPAT margins (differentiation) contributed 4.4x the universe average while invested capital turnover (cost leadership) contributed only 1.8x.

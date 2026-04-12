@@ -5,18 +5,18 @@
 - `INS-260330-7C24` Vibe coding creates a barbell market where giant apps and tiny niche apps thrive, but 5-20 person software companies get squeezed out.
 - `INS-260322-5678` Each platform shift (PCs, web, mobile) succeeded not by doing the previous thing better, but by enabling entirely new behaviors — AI will likely follow the same pattern of creating new categories rather than replacing existing software.
 - `INS-260405-54B7` Tesla's January 2026 unsupervised robotaxi launch in Austin caused Uber and Lyft to fall 1-2% on the news, confirming that market participants now price AV as a live platform threat, not a future one.
+- `INS-260327-EFA6` Car companies face electrification, Chinese competition, autonomous driving, regulatory changes, and consumer affordability crises all at once - any one would be manageable but together they're potentially fatal.
+- `INS-260327-40D5` Tech workers went from guaranteed careers with stock-option millionaires to mass layoffs and AI replacement, becoming everything they promised to disrupt.
+- `INS-260322-C472` For AI startups to beat established software companies like Salesforce, they need all three: a reimagined proactive UI, access to new data sources (unstructured data over structured databases), and a disruptive business model beyond seat-based pricing.
 - `INS-260410-E5C9` Oracle, IBM, and DEC all ran 70-80% margin hardware/license businesses and couldn't bring themselves to compete with AWS's 20-30% margin cloud — their cost structures, sales motions, and investor expectations were all calibrated to the old model.
 
 
 - `INS-260405-C0AF` Surviving retailers like Costco, Ross, Aldi, and Dollar General prove physical retail isn't dying — only undifferentiated or maladapted retail is.
-- `INS-260327-EFA6` Car companies face electrification, Chinese competition, autonomous driving, regulatory changes, and consumer affordability crises all at once - any one would be manageable but together they're potentially fatal.
-- `INS-260327-40D5` Tech workers went from guaranteed careers with stock-option millionaires to mass layoffs and AI replacement, becoming everything they promised to disrupt.
-- `INS-260322-C472` For AI startups to beat established software companies like Salesforce, they need all three: a reimagined proactive UI, access to new data sources (unstructured data over structured databases), and a disruptive business model beyond seat-based pricing.
 - `INS-260405-8532` With U.S. labor costs at ~$18.6 trillion (60% of GDP), even partial AI-driven displacement would constitute the largest economic value transfer in modern history.
+- `INS-260405-EF0F` People grabbed newspapers and magazines at newsstands out of commuting habit — when smartphones replaced the commute ritual, the revenue vanished even though the content was still good.
 - `INS-260327-2964` Prussia's army was considered Europe's finest based on Frederick the Great's victories 50 years earlier — but it had not modernized and collapsed in a single day.
 - `INS-260327-203C` China, the world's most advanced civilization for centuries, was humiliated by Western powers because it stopped innovating while Europe underwent the Industrial Revolution.
 - `INS-260327-B950` Venice's decline began when Portuguese discovery of the sea route to India bypassed the Mediterranean trade routes that Venice controlled.
-- `INS-260405-EF0F` People grabbed newspapers and magazines at newsstands out of commuting habit — when smartphones replaced the commute ritual, the revenue vanished even though the content was still good.
 - `INS-260402-EC9F` Being poor means your personal cost threshold naturally produces products priced an order of magnitude below incumbents, which incumbents psychologically cannot follow.
 - `INS-260403-CA57` Plot every business model on profitability vs. disruption risk to surface hidden vulnerabilities in seemingly healthy businesses.
 - `INS-260405-1894` Invincible companies reinvent their business model categories, not just their execution.
@@ -79,6 +79,7 @@
 - `INS-260403-E4AD` The next generation of technology is more often built by outsiders tinkering with current systems than by insiders planning the official successor.
 - `INS-260405-3066` Apple framed wallet replacement not as a convenience upgrade but as a security and privacy improvement — a more compelling reason to change entrenched behavior.
 - `INS-260403-924B` The biggest startup opportunities come from using technology to break through consolidated industries, not from inventing new categories.
+- `INS-260412-DAEF` Bukele won 53% of the vote by attacking the two-party system itself rather than running a traditional campaign against individual opponents.
 - `INS-260402-3196` IBM's fatal error was granting a non-exclusive DOS license, allowing Microsoft to own the PC standard from within the supply chain.
 - `INS-260403-E592` Outsiders disrupt better because they reach conviction before accumulating the insider knowledge that would prevent them from starting.
 - `INS-260410-EA73` Benchmark's partners explicitly reject words like 'institution' and 'franchise' because their job is killing incumbents, so they've built a culture where every partner who has ever left fired themselves before peer pressure had to.

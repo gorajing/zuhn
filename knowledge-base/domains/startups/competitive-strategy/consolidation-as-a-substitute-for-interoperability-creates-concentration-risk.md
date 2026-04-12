@@ -60,5 +60,6 @@ related:
   - PRI-260323-7BFA
   - INS-260405-C88A
   - PRI-260328-A4AC
+  - INS-260412-BA52
 ---
 Epic captured 42% of the hospital EHR market (70% among 500+ bed hospitals) through horizontal consolidation. UnitedHealth consolidated vertically — insuring 52M lives, employing 90,000+ physicians, managing pharmacy benefits, and processing 40% of all U.S. claims through Change Healthcare. This moved coordination from across organizations to within them. But the Change Healthcare ransomware attack exposed the fragility: a single portal lacking multi-factor authentication led to a $2.45B breach affecting 192.7M Americans and disrupting 40% of U.S. medical claims processing. The pattern applies broadly — when an industry consolidates to solve coordination failures rather than building open interoperability, it creates systems where a single failure can cascade across the entire sector.

@@ -49,7 +49,6 @@ stance: >-
   neutralizes their numerical advantage because they cannot bring their full
   force to bear.
 related:
-  - INS-260325-DDEE
   - INS-260327-048C
   - INS-260327-AC1B
   - INS-260327-DC45
@@ -59,6 +58,7 @@ related:
   - INS-260327-377A
   - PRI-260403-B9A0
   - INS-260327-0FA9
+  - INS-260327-5452
 evidence:
   - id: INS-260326-E411
     type: TRANSFERS_TO

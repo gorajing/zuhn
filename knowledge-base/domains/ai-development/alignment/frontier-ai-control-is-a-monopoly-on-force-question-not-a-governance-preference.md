@@ -52,9 +52,9 @@ stance: >-
 related:
   - INS-260328-5431
   - INS-260404-6B73
+  - INS-260412-C77F
   - INS-260330-6B7F
   - PRI-260328-0123
-  - PRI-260328-37D8
 ---
 Ben Thompson's argument crystallizes a structural truth: if AI becomes as powerful as nuclear weapons (as its own creators claim), then private companies controlling it is equivalent to private nuclear arsenals. The nation-state's most fundamental function is maintaining a monopoly on the use of force — without it, laws cannot be enforced, public safety cannot be ensured, and democratic will cannot be executed.
 

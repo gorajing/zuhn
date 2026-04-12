@@ -48,10 +48,10 @@ resolutions:
     more than your character does.
 related:
   - PRI-260323-9928
+  - INS-260412-9F1D
   - PRI-260406-7C9C
   - INS-260410-CA42
   - INS-260403-0637
-  - INS-260327-9562
 stance: >-
   In prisoner's dilemma simulations, adding just a few shortcut connections to a
   clustered network destroys cooperation entirely

@@ -53,9 +53,9 @@ resolutions:
 related:
   - PRI-260328-37D8
   - INS-260327-F3F0
+  - INS-260412-C71D
   - INS-260325-A326
   - INS-260330-3698
-  - INS-260405-5020
 stance: >-
   Pentagon officials write defense contracts, leave for defense contractor board
   seats, then return to government positions

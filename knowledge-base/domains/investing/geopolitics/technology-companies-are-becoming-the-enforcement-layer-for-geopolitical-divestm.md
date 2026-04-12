@@ -57,8 +57,8 @@ related:
   - INS-260403-B6C6
   - INS-260410-151D
   - INS-260404-2A95
+  - INS-260412-F62F
   - INS-260403-9D7C
-  - INS-260330-16F7
 ---
 In the proposed TikTok deal, Oracle (along with Silver Lake and Andreessen Horowitz) would hold an 80% stake in TikTok's U.S. operations while ByteDance retains a minority share under 20%, satisfying the PAFACAA divestment requirement upheld by the Supreme Court. Oracle's role extends beyond equity ownership to hosting and managing all U.S. user data via its Project Texas cloud environment.
 

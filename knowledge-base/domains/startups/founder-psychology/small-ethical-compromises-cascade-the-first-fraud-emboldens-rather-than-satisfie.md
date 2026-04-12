@@ -58,6 +58,7 @@ related:
   - INS-260322-2D2F
   - INS-260330-FC9F
   - INS-260330-D6EF
+  - INS-260412-7BD8
 stance: Cox's first fraud (whiting out a late payment) didn't satisfy the urge
 evidence:
   - id: INS-260322-2D2F

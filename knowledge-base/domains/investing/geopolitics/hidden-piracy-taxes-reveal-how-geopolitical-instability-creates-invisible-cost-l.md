@@ -55,10 +55,10 @@ stance: >-
   cost of failed states far higher than direct damage estimates suggest.
 related:
   - INS-260404-EE07
+  - INS-260412-3382
   - INS-260323-FEAB
   - INS-260322-F868
   - INS-260327-DFF1
-  - INS-260403-747B
 evidence:
   - id: INS-260322-F868
     type: TRANSFERS_TO

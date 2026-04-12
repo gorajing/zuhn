@@ -61,7 +61,6 @@ stance: >-
   effort will destroy the gains already achieved and exiting the conflict
   decisively.
 related:
-  - INS-260330-A2D4
   - INS-260410-99A3
   - PRI-260324-8EE6
   - PRI-260411-5A63

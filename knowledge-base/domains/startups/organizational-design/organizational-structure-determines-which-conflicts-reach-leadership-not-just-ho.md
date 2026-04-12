@@ -53,7 +53,6 @@ stance: >-
   hears about—companies that design for conflict visibility will catch critical
   issues earlier than those optimized for hierarchy and consensus.
 related:
-  - INS-260323-B1F5
   - INS-260325-F1BC
   - INS-260403-2CA3
   - INS-260404-CEFC

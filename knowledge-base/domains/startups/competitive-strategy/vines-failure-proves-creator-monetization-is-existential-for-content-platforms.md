@@ -58,6 +58,7 @@ related:
   - INS-260327-723A
   - INS-260409-8DDE
   - INS-260327-2B62
+  - INS-260412-2551
 ---
 Vine had 200M monthly active users and cultural relevance in 2015, yet was dead by 2017. The proximate cause was a meeting where 18 top creators demanded $1.2 million each per year to continue posting three Vines per week. Twitter (Vine's parent) feared setting a precedent that would lead to people wanting payment for tweets, and Vine was already losing money, so they refused. The creators left, taking their audiences with them.
 

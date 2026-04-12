@@ -52,8 +52,8 @@ related:
   - INS-260325-EC93
   - INS-260327-CEE4
   - INS-260327-482E
-  - INS-260330-62D6
   - INS-260403-AA0B
+  - INS-260412-9958
   - INS-260405-D20A
 ---
 The 'capital flows like water' mental model reframes fundraising from a persuasion exercise into a gravity exercise. Money naturally rushes toward large, acute problems the same way water flows to the lowest point. Founders who struggle to raise often have a problem-framing issue, not a solution issue—they lead with their technology rather than the scale and urgency of the pain they address.

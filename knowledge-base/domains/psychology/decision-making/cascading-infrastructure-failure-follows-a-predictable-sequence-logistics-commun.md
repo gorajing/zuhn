@@ -50,8 +50,8 @@ related:
   - PRI-260325-6400
   - INS-260403-A6AF
   - INS-260405-ECD2
+  - INS-260412-A77B
   - INS-260325-793A
   - INS-260325-3C17
-  - PRI-260406-6DBE
 ---
 The moon-crash scenario reveals a universal failure cascade: rising tides first disable coastal ports (shipping halts), then flood undersea cable terminals (95% of global internet lost), then inundate coastal refineries (energy rationing begins), and finally contaminate freshwater via tidal river reversal (food and water crisis). The specific disaster doesn't matter — the ordering is dictated by which systems physically sit at lower elevations and which depend on which. This same dependency-chain analysis applies to any systemic shock: pandemic, war, financial crisis. Understanding the sequence means you can predict which dominoes fall next and where intervention has the highest leverage — usually at the earliest, cheapest-to-protect nodes.

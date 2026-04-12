@@ -45,10 +45,10 @@ stance: >-
   Leaders who refuse to temporarily accept worse outcomes in order to hire and
   delegate will burn out and eventually destroy their teams
 related:
+  - INS-260412-1191
   - INS-260330-625B
+  - INS-260412-D367
   - INS-260403-8441
   - INS-260403-024E
-  - INS-260403-DD13
-  - INS-260404-89DA
 ---
 Hero mode starts from a good place — leading by example, working 18-hour days to show the team what's possible. But as the company grows, the hero can't scale. A customer service manager doing 20 hours of tickets per day can't stop because 'we'll fall behind.' The only exit is a deliberate sacrifice: accept 2-3 weeks of falling behind to hire three more people. This requires calculating growth rates and getting ahead of the curve next time. Most founders stay in hero mode until they burn out because the short-term cost of stepping away feels unacceptable. The pattern applies broadly — any leader who can't tolerate temporary regression to invest in capacity will hit a ceiling.

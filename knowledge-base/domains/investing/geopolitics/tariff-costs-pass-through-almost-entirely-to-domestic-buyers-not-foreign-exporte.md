@@ -57,6 +57,7 @@ related:
   - INS-260403-8194
   - PRI-260406-1115
   - INS-260403-42BA
+  - INS-260412-3382
 ---
 The Kiel Institute studied shipment-level data covering over 25 million transactions and found near-complete pass-through of tariffs to US import prices. Foreign exporters absorbed only about 4% of the tariff burden. Event studies on Brazil (50% tariff) and India (25-50% tariff) confirmed that export prices did not decline — trade volumes collapsed instead. Indian export customs data validated that exporters maintained their prices and simply reduced shipments.
 

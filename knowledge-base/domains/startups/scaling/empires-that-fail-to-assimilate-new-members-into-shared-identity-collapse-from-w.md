@@ -61,7 +61,6 @@ related:
   - PRI-260406-6C43
   - INS-260330-B559
   - INS-260330-F229
-  - INS-260327-F93A
 evidence:
   - id: INS-260327-619F
     type: TRANSFERS_TO

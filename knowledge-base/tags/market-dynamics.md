@@ -1,9 +1,9 @@
 # Tag: market-dynamics
 
 - `INS-260322-0C28` Only 9% of consumers pay for more than one LLM assistant, and less than 10% of ChatGPT users even visit competitors — signaling winner-take-most dynamics in general AI.
-- `INS-260325-F48E` A year-over-year test of 268 prompts found most LLMs became less speech-restrictive — competitive pressure is correcting initial over-censorship.
 - `INS-260403-2183` Top AI leaders have shifted repeatedly in just 2.5 years, proving that execution speed matters more than any single breakthrough.
 - `INS-260404-0153` Accenture's generative AI revenue surpasses all VC-backed AI startups combined, showing incumbents capture value faster than disruptors.
+- `INS-260325-F48E` A year-over-year test of 268 prompts found most LLMs became less speech-restrictive — competitive pressure is correcting initial over-censorship.
 - `INS-260330-7C24` Vibe coding creates a barbell market where giant apps and tiny niche apps thrive, but 5-20 person software companies get squeezed out.
 - `INS-260402-180C` Two-thirds of venture capital goes to AI companies, with two-thirds of that concentrated in the Bay Area, creating extreme geographic funding asymmetry.
 - `INS-260405-DDC2` Global VC funding settled near $20B/month in early 2024 but AI's share kept growing, compressing available capital for other sectors.

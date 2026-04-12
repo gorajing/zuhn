@@ -1,6 +1,6 @@
 # Topic: cognitive-biases
 
-> 323 insights
+> 325 insights
 
 - `INS-260326-163A` [very_high] Data quality dominates ML architecture just as install base and data gravity beat product design elegance in business -- what you've accumulated is the moat, not how you've arranged it.
 - `INS-260326-CA66` [very_high] Insulin resistance manifests as heart disease, diabetes, obesity, and dementia -- just as a misidentified business model manifests as churn, pricing problems, and sales failures.
@@ -76,6 +76,7 @@
 - `INS-260330-870B` [high] Ponzi deliberately targeted people with more dreams than financial knowledge, avoiding sophisticated investors who could spot the scheme.
 - `INS-260403-3C68` [high] Years of EV FUD (range anxiety, charging time, mineral scarcity) successfully suppressed US adoption despite each concern being outdated or quantitatively wrong.
 - `INS-260403-14C3` [high] Political scientists find that gasoline prices affect public mood and political approval far beyond what their share of household spending would predict.
+- `INS-260412-FDBF` [high] Canada's east coast is closer to Croatia than Vancouver; Russia's east is closer to Mexico than Moscow — facts that feel wrong because flat-map intuitions override spherical reality.
 - `INS-260405-8469` [high] RuBisCo is a mediocre enzyme that became the planet's most abundant protein precisely because all life built its infrastructure around it before better options could evolve.
 - `INS-260403-3AC7` [high] The US government redefines 'collect' to mean 'query' rather than 'gather', allowing mass data acquisition while truthfully denying 'collection' under oath.
 - `INS-260403-C5BA` [high] Years of grade optimization create a subconscious pattern of seeking tricks over substance that most people never recognize or unlearn.
@@ -135,6 +136,7 @@
 - `INS-260330-AF47` [high] Poe's Law states that parody of extremism and sincere extremism are indistinguishable at their limits, making intent-based evaluation unreliable.
 - `INS-260330-9EBA` [high] The kilogram's name exists because 'grave' sounded too aristocratic during the French Revolution — supposedly objective standards are shaped by politics.
 - `INS-260330-A15F` [high] Bad decisions trigger escalating rationalization rather than course-correction, especially when peer groups reward continued commitment.
+- `INS-260412-774E` [high] After crowd disasters, blame consistently falls on participant character rather than system design flaws, preventing real fixes.
 - `INS-260403-61A1` [high] Pundits invent complex explanations when a simpler one (charisma) already fits the data.
 - `INS-260403-9A8A` [high] After Creandum's 13x Fund II, they doubled down on paranoia rather than celebrating, citing Feynman's warning that the easiest person to fool is yourself.
 - `INS-260330-141E` [high] People systematically misrepresent their beliefs under social pressure, making public opinion appear more uniform than it actually is.

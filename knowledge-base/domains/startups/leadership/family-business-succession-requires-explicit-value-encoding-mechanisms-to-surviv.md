@@ -55,6 +55,7 @@ related:
   - INS-260410-7726
   - INS-260323-E15B
   - INS-260329-CE86
+  - INS-260412-8EAE
 ---
 Only about a third of family businesses survive the second generation, and another 50% don't last to the third. In-N-Out defied these odds through six leadership changes — including three deaths, an interim outside president, and a generational handoff to a 30-year-old heir. The company emerged from each transition with its core values intact.
 

@@ -60,6 +60,7 @@ related:
   - INS-260403-E09C
   - PRI-260328-1D90
   - INS-260403-8256
+  - INS-260412-FDBF
 ---
 While the remote-first narrative dominates startup discourse, three categories maintain genuine location dependencies. Brick-and-mortar businesses (restaurants, retail, fitness) where foot traffic and zoning are the business. Deeptech startups requiring proximity to university labs, specialized equipment, and niche scientific talent that clusters near research institutions. And compliance-heavy sectors (fintech, healthtech) where proximity to regulators, legacy institutions, and legal experts accelerates licensing and shortens feedback loops.
 

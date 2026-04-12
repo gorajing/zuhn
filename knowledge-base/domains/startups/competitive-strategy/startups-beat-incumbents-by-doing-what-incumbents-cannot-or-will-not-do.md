@@ -58,6 +58,7 @@ related:
   - PRI-260406-B331
   - PRI-260406-1796
   - INS-260403-FBD6
+  - INS-260412-DAEF
 ---
 Large incumbents are constrained by their existing business models, customer commitments, internal politics, and incentive structures. A startup that competes directly on the incumbent's strongest dimensions will lose. The winning move is to identify what the incumbent cannot do (structural impossibility — e.g., cannibalizing existing revenue) or will not do (willful avoidance — e.g., serving low-margin segments they consider beneath them), and make that the core of the startup's strategy.
 

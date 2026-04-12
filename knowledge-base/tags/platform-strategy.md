@@ -51,6 +51,7 @@
 - `INS-260330-C418` Cows thrived by being useful to humans; elephants declined despite being smarter and stronger — usefulness to the dominant player beats independent capability.
 - `INS-260323-6043` Sweeney shipped the game editor alongside ZZT, empowering players to become creators -- this 'tools + product' pattern became Epic's core strategy and the reason the company survived decades of game industry volatility.
 - `INS-260404-0CA7` Vertical SaaS that bundles financial and operational workflows becomes nearly impossible to rip out.
+- `INS-260412-6F4D` St Helena's airport worked technically but didn't transform the economy because the island lacked the marketing, investment attraction, and route development to exploit it.
 - `INS-260410-3C05` AWS launched bare-bones S3 and EC2 while Microsoft Azure Cloud Services and Google App Engine launched opinionated PaaS offerings — AWS captured the market because primitives enable both lift-and-shift and new-build use cases.
 - `INS-260404-68EE` 78% of public software companies above $5B market cap are multi-product, making it effectively mandatory for outsized outcomes.
 - `INS-260403-008F` Horizontal tools with light integration face multiple compression as AI features become table stakes, while mission-critical workflow platforms maintain 120%+ NRR and premium valuations.

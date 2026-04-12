@@ -13,9 +13,9 @@
 - `INS-260404-DBD1` Experienced VC partners are increasingly leaving big firms to launch specialized niche funds.
 - `INS-260404-77E7` Specialist VC funds outperform generalist funds by 47%, suggesting deep expertise is the new source of alpha in venture.
 - `INS-260405-7ABE` A narrow focus gives emerging VC managers a sourcing and conviction edge that broad generalist funds cannot easily replicate.
-- `INS-260325-6262` No Bronze Age civilization was self-sufficient — each depended on others for critical resources like tin, copper, gold, and grain.
 - `INS-260330-790A` Serial pivots away from proven talent usually signal identity rejection rather than strategic diversification.
 - `INS-260403-AB5C` Increasing knowledge specialization creates more points on the performance curve, widening the gap between average (wisdom) and peaks (intelligence), forcing a civilizational choice.
+- `INS-260325-6262` No Bronze Age civilization was self-sufficient — each depended on others for critical resources like tin, copper, gold, and grain.
 - `INS-260330-16B1` Universalizing a specialized skill devalues its practitioners while wasting the time of learners better suited to other specializations.
 - `INS-260403-41BC` Wisdom comes from cutting away biases and noise accumulated in youth; intelligence comes from selecting one bias and growing it into mastery.
 - `INS-260327-C571` Finkel can read cuneiform scripts that perhaps only a handful of people alive can read - when these scholars die, the ability to directly access thousands of ancient texts may die with them.
@@ -25,8 +25,8 @@
 - `INS-260330-ACCD` China's Greater Bay Area assigns each city a distinct role — Hong Kong as global finance gateway, Shenzhen as tech hub, Macau as entertainment, Guangzhou as administration — creating a composite competitor stronger than any single city.
 - `INS-260330-40DA` Agriculture made individuals less healthy and overworked compared to foraging, yet it dominated because surplus calories enabled specialization cascades.
 - `INS-260330-9055` General-purpose editors win breadth but specialized IDEs win depth for committed platform developers.
-- `INS-260403-9DA1` Destin's fluid dynamics knowledge combined with David's motion control engineering made a previously impossible recreation achievable.
 - `INS-260329-0935` Sustained focus on one domain compounds returns far more than spreading effort across many.
+- `INS-260403-9DA1` Destin's fluid dynamics knowledge combined with David's motion control engineering made a previously impossible recreation achievable.
 - `INS-260330-73C1` The Greater Bay Area plan assigns distinct economic roles to each city — finance, manufacturing, tourism, administration — rather than making them compete as generalists.
 - `INS-260404-D8D8` Sector-specialist VCs win deals by offering founders industry access and expertise that generalist capital cannot match.
 - `INS-260402-0727` Late career specialization produces more founders because 'startup founder' is never a planned career — it emerges from flexible systems.

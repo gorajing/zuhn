@@ -25,11 +25,12 @@
 - `INS-260325-FD14` TurboQuant's data-oblivious algorithm beats dataset-specific tuned competitors, demonstrating that fundamental algorithmic breakthroughs can instantly commoditize proprietary optimization moats.
 - `INS-260330-B76F` Blended supplements hide three critical problems: you can't identify which ingredient causes side effects, manufacturers under-dose expensive ingredients, and label accuracy drops dramatically in multi-ingredient products.
 - `INS-260330-B1F6` Galpin's supplement 80/20 rule: pick one from each of fuel (creatine), stimulant (caffeine/beetroot), and fatigue blocker (beta-alanine/sodium bicarbonate) for maximum ROI.
-- `INS-260405-8469` RuBisCo is a mediocre enzyme that became the planet's most abundant protein precisely because all life built its infrastructure around it before better options could evolve.
 - `INS-260409-4CBB` Convergent evolution of intelligence in birds and mammals, winged flight in birds and bats, and camera-eyes in octopuses and mammals is cumulative evidence that these functions have narrow optimal solutions that any sufficient search process will find.
+- `INS-260412-0B8B` Charging to 50% twice is faster than charging to 100% once because batteries accept power at diminishing rates as they fill.
 - `INS-260403-3BD3` If people don't think you're weird, you're probably living badly — because statistically normal behavior increasingly includes harmful addictive patterns.
 - `INS-260404-EC33` Plants produce 40 billion tons of an inefficient enzyme rather than evolving a better one — volume compensates for poor per-unit performance.
 - `INS-260404-B6E8` Plants produce massive quantities of a flawed enzyme rather than evolving a better one, mirroring how humans double down on suboptimal commitments.
+- `INS-260405-8469` RuBisCo is a mediocre enzyme that became the planet's most abundant protein precisely because all life built its infrastructure around it before better options could evolve.
 - `INS-260329-A86F` Adding a hash table to a heap reduces arbitrary element removal from O(n) to O(log n) by eliminating the linear search bottleneck.
 - `INS-260329-89CB` Optimization reframes calculus from abstract computation to a practical framework for finding the best possible outcome under real-world constraints.
 - `INS-260329-4092` Setting the derivative to zero finds extrema faster than comparing every possible value — optimize by analyzing change rates, not outcomes.
@@ -43,11 +44,11 @@
 - `INS-260330-E068` The Calvin Cycle produces 6 G3P molecules but must reinvest 5 to regenerate — only 1/6 of gross output is net output.
 - `INS-260329-8D70` Binary search trees average O(log n) but degrade to O(n) when data arrives sorted — this single gap motivated AVL trees, red-black trees, and the entire field of self-balancing structures.
 - `INS-260330-8E95` The Navy's tumblehome hull optimizes radar stealth but sacrifices the restoring force that prevents capsizing in rough seas.
+- `INS-260402-7FF5` Pick a weekly growth target and use it as the sole criterion for every decision — anything that hits the number is right.
 - `INS-260330-C33B` Don't just push harder — also remove friction on the other side of the equation.
 - `INS-260329-B2BE` Calculus proves that profit is maximized where marginal cost equals marginal revenue, not where total profit looks largest.
 - `INS-260329-ADCD` Calculus formalizes the business intuition that optimal scale is where the cost of the next unit equals the revenue it generates.
 - `INS-260402-92AE` Centivax outsourced initial testing but brought optimization in-house once they knew the technology worked, making iteration cheaper, faster, and producing a more polished product.
-- `INS-260402-7FF5` Pick a weekly growth target and use it as the sole criterion for every decision — anything that hits the number is right.
 - `INS-260329-D062` Do more of what works, then optimize it, then try new things — in that strict order.
 - `INS-260402-3C79` Don't guess where your system is weak — examine the specific cases it fails on and fix those, just as you'd profile slow code before optimizing.
 - `INS-260405-F7C5` The Magnus effect aircraft generated more lift per unit than conventional wings — and proportionally far more drag, causing it to crash after a single flight.

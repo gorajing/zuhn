@@ -45,12 +45,12 @@ stance: >-
   per-capita GDP stagnates or declines, creating a statistical illusion of
   economic health that masks deteriorating individual living standards.
 related:
-  - INS-260327-EF98
   - PRI-260328-6CDE
-  - INS-260330-912C
   - INS-260330-230D
   - INS-260330-C477
   - PRI-260328-6136
+  - INS-260327-EF98
+  - INS-260412-23A9
   - INS-260323-DA6F
   - INS-260403-20C2
   - INS-260403-441E

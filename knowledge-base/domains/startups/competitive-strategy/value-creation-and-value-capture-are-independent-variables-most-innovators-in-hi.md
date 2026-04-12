@@ -54,11 +54,12 @@ stance: >-
   innovation, because value creation (X) and value capture (Y%) are completely
   independent variables
 related:
-  - INS-260324-861B
   - PRI-260406-1F31
   - PRI-260403-5DEA
   - INS-260325-95A6
+  - INS-260324-861B
   - PRI-260324-3081
+  - INS-260412-FEFA
 evidence:
   - id: INS-260330-A0AE
     type: SUPPORTS

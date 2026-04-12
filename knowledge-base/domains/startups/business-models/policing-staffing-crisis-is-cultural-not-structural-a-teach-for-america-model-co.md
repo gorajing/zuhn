@@ -46,11 +46,11 @@ resolutions:
     know how to solve homicides for 20 years. Higher-tech policing also makes
     the career more attractive to educated candidates.
 related:
+  - INS-260412-3455
   - INS-260327-1D37
   - PRI-260406-6B63
   - INS-260325-B50B
   - INS-260410-362D
-  - INS-260330-B28C
 stance: A Teach for America model for law enforcement
 evidence:
   - id: INS-260327-1D37

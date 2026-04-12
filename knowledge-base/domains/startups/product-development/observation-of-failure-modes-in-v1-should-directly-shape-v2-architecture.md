@@ -48,11 +48,11 @@ stance: >-
   The highest-leverage product iterations come from closely observing how the
   previous version fails at the margins, not from adding features users request.
 related:
-  - INS-260323-1811
   - INS-260402-3C79
   - INS-260323-AB5F
   - INS-260405-3CC7
-  - INS-260402-426C
+  - INS-260323-1811
+  - INS-260412-9657
   - INS-260404-7C1F
 evidence:
   - id: INS-260323-1811

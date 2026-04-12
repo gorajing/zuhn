@@ -65,6 +65,7 @@ related:
   - INS-260327-A654
   - INS-260410-84F5
   - INS-260410-17E2
+  - INS-260412-9805
 ---
 The 1879 Tidewater Pipeline was a genuine technical disruption: long-distance pipes moved oil dramatically cheaper than rail. On paper, this was the kind of paradigm shift that should have broken Standard Oil's monopoly. Instead, Rockefeller skipped the obvious response (smash the pipeline, which his lieutenants wanted to do) and used his leverage over the railroads — whom he controlled via tank car ownership and volume commitments — to slash rail shipping rates on the pipeline's exact routes until shipping by rail was cheaper than shipping by pipeline. Tidewater burned through its capital trying to recoup the pipeline's construction cost and sold a minority stake to Standard within a year. Standard then took the technology and built four of its own pipelines.
 

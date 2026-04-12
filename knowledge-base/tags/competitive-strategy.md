@@ -41,10 +41,10 @@
 - `INS-260330-E0A9` Toussaint L'Ouverture made conquered European generals into his own officers because he prioritized upgrading his army's culture over satisfying his soldiers' desire for revenge.
 - `INS-260330-4C67` Toussaint L'Ouverture made conquered French, British, and Spanish officers into his own generals because he needed their expertise to build a first-world country, not just win a war.
 - `INS-260329-BCB7` Mobile users are trained by existing apps — mimic their patterns and improve on them rather than inventing novel interactions.
-- `INS-260410-E3E6` NVIDIA's superpower is navigating to 'zero-billion-dollar markets' — non-existent markets they believe will emerge — and arriving a decade before competitors even understand why they're there.
-- `INS-260403-93A5` Historical technology windows show the viable launch period for category-defining products is extremely compressed — 11 months for social networks, 30 months for mobile social.
 - `INS-260327-FA43` Competition isn't just your rival vendor — it's the CIO who wants to build it internally, the adjacent solution competing for the same budget, the 'do nothing' option, and inertia (Whyte's least favorite because it means you haven't qualified well enough).
 - `INS-260327-C6DC` When buyers lack defined decision criteria, elite sellers craft it for them — embedding their unique differentiators as 'must-haves' that disqualify competitors.
+- `INS-260410-E3E6` NVIDIA's superpower is navigating to 'zero-billion-dollar markets' — non-existent markets they believe will emerge — and arriving a decade before competitors even understand why they're there.
+- `INS-260403-93A5` Historical technology windows show the viable launch period for category-defining products is extremely compressed — 11 months for social networks, 30 months for mobile social.
 - `INS-260330-EB1B` Early organisms compensated for RuBisCo's poor performance by producing enormous quantities of it — a strategy that dominated Earth but left no room for optimization.
 - `INS-260403-7DEC` Carnegie's steel and Standard Oil's distribution made more from railroads than railroad companies themselves did.
 - `INS-260330-440E` The Indus Valley shows almost no evidence of warfare or military infrastructure, and its collapse coincided with the arrival of more warlike peoples.

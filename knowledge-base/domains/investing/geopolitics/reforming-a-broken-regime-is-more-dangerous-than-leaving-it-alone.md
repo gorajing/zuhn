@@ -60,12 +60,12 @@ related:
   - INS-260327-7A27
   - INS-260327-3D0F
   - INS-260327-15E1
-  - INS-260327-2958
   - PRI-260328-E1CE
   - INS-260330-247C
   - INS-260330-2B4F
   - INS-260330-1183
   - INS-260330-59BC
+  - INS-260330-4416
 ---
 Paine identifies sequencing as Gorbachev's decisive error: glasnost and perestroika released political pressure while the command economy — the actual source of decay — remained untouched and in fact deteriorated further under half-reform. Price controls without private property created backroom corruption instead of markets, and loosened censorship surfaced grievances faster than the regime could absorb them.
 

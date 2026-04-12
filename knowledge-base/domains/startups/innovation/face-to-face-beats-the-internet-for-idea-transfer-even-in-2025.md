@@ -65,6 +65,7 @@ related:
   - INS-260403-36A6
   - PRI-260328-0332
   - INS-260403-13E6
+  - INS-260412-CAAD
 ---
 Henrich addresses the puzzle of why the internet didn't cause a second urbanization — why hasn't productivity growth accelerated as hard as the '90s optimists predicted? His in-progress answer: face-to-face interaction is doing something the internet isn't. Research he cites shows that whether two cities have direct flights between them predicts the flow of ideas between those places, even when both are fully internet-connected. And the effect is larger when the cities are more culturally different — precisely the cases where cross-pollination should be most valuable.
 

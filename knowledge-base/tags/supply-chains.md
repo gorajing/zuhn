@@ -1,5 +1,7 @@
 # Tag: supply-chains
 
+- `INS-260412-F401` Container shortages worsened port congestion, which worsened container shortages, which worsened truck driver shortages — each shortage feeding the next in a vicious cycle.
+- `INS-260412-10F1` The 2021 shipping crisis showed that a 25% demand increase caused delays and costs to spiral far beyond 25% because congestion compounds through interdependent chokepoints.
 - `INS-260325-5096` Napoleon's Russian disaster proves that logistics cannot scale linearly with army size — supply chains have a hard distance ceiling.
 - `INS-260327-9D23` Napoleon's army didn't lose to the Russian military — it lost to the distance between Paris and Moscow exceeding its supply chain capacity.
 - `INS-260403-E9E0` US manufacturing shed workers for 8 consecutive months post-Liberation Day because tariffs taxed the imported inputs that most factories depend on.

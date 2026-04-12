@@ -41,7 +41,7 @@ related:
   - INS-260405-A6E1
   - INS-260324-1216
   - INS-260404-238B
+  - INS-260412-23A9
   - INS-260403-4314
-  - INS-260403-E294
 ---
 TechCrunch data reveals that despite AI capturing most of the venture capital conversation, the surge in megadeals (rounds >$100M) is happening disproportionately in non-AI sectors. This creates a narrative-reality gap where founders outside AI may actually have better access to large-scale funding than the media portrayal suggests. For investors, this signals that following consensus narrative about AI dominance may cause them to miss the actual flow of large-check capital into sectors like fintech, health tech, and enterprise infrastructure.

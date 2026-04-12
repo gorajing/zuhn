@@ -12,10 +12,10 @@
 - `INS-260330-7ED0` M-PESA succeeded because Safaricom's telecom monopoly solved the cold-start problem that fragments US mobile payment competitors.
 - `INS-260404-8321` When capital is abundant, VCs who offer distribution and media reach win competitive allocations over those who only offer money.
 - `INS-260403-52B7` Jake Paul's VC portfolio (Ramp, Anduril, Cognition) shows that timing, access, and distribution often outweigh traditional VC pedigree in generating outsized returns.
-- `INS-260409-AE80` The initial 200-person sample is mostly strangers, so follower count gives almost no advantage during the cold-start phase.
-- `INS-260409-8750` Algorithms pick ~200 viewers as a fit-score sample test; that group's engagement is the single most leveraged lever in short-form distribution.
 - `INS-260402-B12D` Professionals seemed superior to amateurs only because narrow channels ensured high average quality; once anyone can publish, audiences select the best regardless of professional status.
 - `INS-260409-3E53` CERN's BASE team built a portable antimatter trap — not because CERN couldn't do more experiments, but because background magnetic noise at CERN itself capped precision.
+- `INS-260409-AE80` The initial 200-person sample is mostly strangers, so follower count gives almost no advantage during the cold-start phase.
+- `INS-260409-8750` Algorithms pick ~200 viewers as a fit-score sample test; that group's engagement is the single most leveraged lever in short-form distribution.
 - `INS-260405-615E` Platform companies are acquiring agentic workflow capability to embed automation into existing distribution, not to win on model benchmarks.
 - `INS-260410-9120` Google One has over 150 million paying subscribers growing ~50% year-over-year, which gives Google a realistic path to monetize AI through bundle economics that pure standalone AI subscriptions cannot replicate.
 - `INS-260403-EDA1` SaaS value is migrating from code to workflow orchestration, compliance, and distribution — categories AI cannot easily replicate.
@@ -75,14 +75,15 @@
 - `INS-260330-0FB9` TikTok deliberately made it easy to share watermarked videos on Instagram, YouTube, and Snapchat, turning every repost into free advertising that eventually drove users to download TikTok.
 - `INS-260403-AF3B` In a market where capital concentrates in fewer deals, founders who demonstrate distribution and audience ownership before fundraising gain disproportionate investor attention.
 - `INS-260410-93E3` David Ogilvy's principle that audiences are a moving parade means your back catalog keeps converting new listeners/readers forever, making re-exposure to proven material more ROI-positive than chasing novelty.
+- `INS-260412-2551` Three GDS providers (Amadeus, Sabre, Travelport) suspending Aeroflot's access was a 'death blow' because no alternative booking infrastructure existed.
 - `INS-260403-E71A` Platform owners like Apple with iTunes function as tollbooths, not stores — they tax transactions rather than sell content, driving content prices to near-zero.
 - `INS-260403-C1E9` Software is too complex and iterative for a publisher-intermediary model that works for music or books.
 - `INS-260405-ABE0` Valve can afford hardware bets others can't because every device plugs into an already-won software distribution war.
 - `INS-260402-B36F` Every AI feature PRD should specify how the feature distributes itself, where it inserts into existing workflows, and whether its economics improve at 10x scale.
-- `INS-260410-111A` Gutenberg went bankrupt because his small German town had only seven legal buyers for 300 Bibles — the press worked, the distribution didn't.
-- `INS-260403-4E7A` Paradigm shifts like AI create rare adoption windows in stagnant industries — whoever wins distribution first locks in for decades.
 - `INS-260329-7B47` Send 100 personalized outreach messages daily using a compliment-plus-positioning formula to guarantee your first five customers through pure volume.
 - `INS-260329-B194` Allen's breakthrough came from selling to agencies (who each had 50+ SMB clients) rather than individual small businesses, turning one pitch into a thousand customers.
+- `INS-260410-111A` Gutenberg went bankrupt because his small German town had only seven legal buyers for 300 Bibles — the press worked, the distribution didn't.
+- `INS-260403-4E7A` Paradigm shifts like AI create rare adoption windows in stagnant industries — whoever wins distribution first locks in for decades.
 - `INS-260330-2737` Paul's Roman citizenship gave him free travel throughout the empire, allowing him to use Rome's own road network and legal protections to spread a message that would eventually undermine Roman religious authority.
 - `INS-260330-9FCC` In-N-Out's requirement that all ingredients reach stores within a single day's drive from distribution centers caps expansion at ~500 miles per center.
 - `INS-260329-FB3F` TikTok viral app videos simultaneously prove market demand and provide a distribution template you can replicate.

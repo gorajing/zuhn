@@ -44,9 +44,9 @@ stance: >-
   the conceptual boundary that limited where and why force could be applied.
 related:
   - INS-260403-46DD
+  - INS-260412-BA52
   - INS-260403-0550
   - INS-260404-82AA
-  - INS-260329-67CB
-  - INS-260330-AFAD
+  - INS-260412-C77F
 ---
 Smith identifies a subtle but critical shift: Trump arrested Maduro not to enforce international norms but to enforce American domestic law, treating Venezuela as functionally American territory. This framing trick has broad applicability in competitive strategy. When an actor redefines the boundaries of their jurisdiction — whether a nation claiming extraterritorial legal authority or a platform claiming governance over its ecosystem — it removes the natural limits on intervention. For startups, this pattern appears when dominant platforms extend their 'domestic' rules into partners' territory. Understanding this framing is essential for anticipating where a powerful competitor will intervene next: follow the jurisdictional claims, not the stated intentions.

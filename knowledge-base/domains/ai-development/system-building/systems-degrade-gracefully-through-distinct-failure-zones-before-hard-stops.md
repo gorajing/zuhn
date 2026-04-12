@@ -44,6 +44,7 @@ resolutions:
     distinct symptoms that can be detected and handled differently.
 related:
   - PRI-260407-69A9
+  - INS-260412-F5CF
   - PRI-260406-6C2C
   - PRI-260407-68B9
   - INS-260330-D7CC

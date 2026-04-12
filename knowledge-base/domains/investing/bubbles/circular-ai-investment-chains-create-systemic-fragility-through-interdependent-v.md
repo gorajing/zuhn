@@ -58,6 +58,7 @@ related:
   - PRI-260328-0E23
   - INS-260410-5D08
   - INS-260403-738F
+  - INS-260412-2419
 ---
 The satirical chain — NVIDIA funding OpenAI funding Oracle funding Broadcom funding a startup buying OpenAI stock backstopping AMD — parodies real circular dependencies in AI infrastructure investment. Each company's stock rises 80% on announcement, but the gains are interdependent: if any link's valuation drops, it threatens the collateral underpinning every other link. This mirrors classic bubble mechanics where apparent wealth creation is actually circular validation.
 

@@ -53,7 +53,6 @@ stance: >-
   birthright create self-correcting governance systems because they provide
   built-in justification for replacing failed leaders.
 related:
-  - INS-260323-17B5
   - PRI-260406-C1EF
   - INS-260410-EA78
   - PRI-260325-262C

@@ -56,7 +56,6 @@ related:
   - INS-260325-DDEE
   - PRI-260406-0EC6
   - INS-260403-361D
-  - INS-260403-FAAF
 ---
 Russia's fundamental geographic problem is that most of its ports freeze in winter. From Peter the Great's founding of St. Petersburg, through Catherine's conquest of Crimea, through Soviet naval ambitions, to Putin's seizure of Crimea in 2014, the strategic priority of warm-water port access has been constant across 300+ years and every possible form of government. Geography outlasts ideology.
 

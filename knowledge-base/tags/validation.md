@@ -87,6 +87,7 @@
 - `INS-260403-C228` A.Team's founder described palpable energy in early Zoom rooms as teams formed — genuine product-market fit in marketplaces announces itself through participant enthusiasm, not metrics gymnastics.
 - `INS-260405-C8B2` Urgency and full-price payment are the only PMF signals that actually predict survival.
 - `INS-260404-4E13` Test cards and learning cards formalize the experiment-learn loop into a repeatable validation system.
+- `INS-260412-E925` St Helena airport's most compelling proof of value wasn't tourism numbers but emergency medevac flights that saved lives — including a premature baby who would have died waiting for the monthly ship.
 - `INS-260327-B12E` Start with customer problems, not technology — talk to as many people as possible about their problems and what skills you can bring.
 - `INS-260330-3F24` If users won't put down five dollars for your idea, their verbal enthusiasm is not real validation.
 - `INS-260330-CFBA` Good startup ideas look like narrow deep wells — a small number of people who want the product desperately — not broad shallow holes of mild interest.

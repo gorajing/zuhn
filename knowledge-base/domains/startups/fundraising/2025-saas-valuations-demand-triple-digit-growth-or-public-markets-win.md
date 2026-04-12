@@ -47,7 +47,6 @@ stance: >-
   moderate-growth companies.
 related:
   - INS-260327-EF98
-  - INS-260403-CF98
   - INS-260405-285D
   - INS-260325-195E
   - INS-260403-1E5C
@@ -56,6 +55,7 @@ related:
   - INS-260405-ED7E
   - INS-260404-2C23
   - INS-260404-F45E
+  - INS-260404-9FBC
 ---
 Redpoint's 2025 analysis reveals a stark bifurcation in SaaS valuations: companies growing at triple-digit rates command premium private valuations, while anything below that threshold actually prices better in public markets. This represents a fundamental shift from the 2021 era when VCs would pay premiums for 40-60% growth.
 

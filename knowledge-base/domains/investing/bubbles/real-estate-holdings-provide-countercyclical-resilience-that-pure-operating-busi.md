@@ -47,11 +47,11 @@ stance: >-
   recessions because property values create a floor, tax depreciation shields
   income, and downturns become acquisition opportunities for discounted assets.
 related:
+  - INS-260412-23A9
   - INS-260410-45CE
   - INS-260330-16F7
   - INS-260403-CCED
   - INS-260327-EAB9
-  - INS-260404-9103
   - INS-260410-9E97
 evidence:
   - id: INS-260330-2347

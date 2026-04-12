@@ -34,9 +34,9 @@
 - `INS-260330-2306` Your job is to hear the problem behind the request and build the simplest solution to that problem.
 - `INS-260330-62D6` Find the smallest valuable problem incumbents ignore, nail the UX, then expand outward.
 - `INS-260330-7168` Find the gap between incumbent solutions, build the best experience for that narrow slice, then expand to larger customers or more use cases over time.
-- `INS-260404-007F` Enterprise SaaS IPOs from 2012 outperformed expectations by solving deep operational pain points with recurring revenue models.
-- `INS-260330-1F25` Look for the widest gap between what's now technically possible and how things are still being done.
 - `INS-260328-070D` Nine times out of ten, what founders dismiss as consulting is actually a chance to deeply learn the problem space and build a moat.
 - `INS-260330-EEA9` Let the product drive user adoption, but deploy consultative salespeople to help customers navigate deployment and competition.
+- `INS-260404-007F` Enterprise SaaS IPOs from 2012 outperformed expectations by solving deep operational pain points with recurring revenue models.
+- `INS-260330-1F25` Look for the widest gap between what's now technically possible and how things are still being done.
 - `INS-260403-3326` Scaling innovation in enterprises requires dedicated structures, not just individual champions evangelizing the methodology.
 - `INS-260330-3E6B` When an industry's business model is disrupted, the enterprises in that industry need new software — creating opportunities for vertical startups.

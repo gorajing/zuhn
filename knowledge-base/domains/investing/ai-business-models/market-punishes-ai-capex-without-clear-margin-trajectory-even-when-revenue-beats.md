@@ -53,7 +53,6 @@ stance: >-
   escalation, punishing even strong performers who cannot demonstrate capital
   efficiency
 related:
-  - INS-260324-1216
   - INS-260324-A9DF
   - PRI-260323-68F0
   - PRI-260321-05B5
@@ -63,6 +62,7 @@ related:
   - INS-260411-FC21
   - INS-260403-8EE8
   - INS-260403-C838
+  - INS-260403-83A4
 ---
 The Q3 2025 earnings pattern reveals a maturing investor framework for evaluating AI bets. Microsoft dropped ~3% despite beating Azure growth expectations because management admitted being 'short on capacity'—implying missed near-term revenue and continued capex pressure. Meta's stock plunged ~11% as $97B in planned capex (nearly double prior year) overshadowed record $51B quarterly revenue.
 

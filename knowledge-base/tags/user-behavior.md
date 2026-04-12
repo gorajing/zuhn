@@ -5,9 +5,9 @@
 - `INS-260323-9D6E` Users stick with an LLM until it fails badly on a task they care about, then switch -- loyalty is driven by peak moments and broken by threshold failures.
 - `INS-260330-BCD8` Most users never change default settings — making ignorance and apathy the most reliable distribution channels in tech.
 - `INS-260327-38D8` Under Ev Williams, Twitter's best features -- hashtags, retweets, lists, and @mentions -- were all organic user behaviors that the team formalized into official features.
-- `INS-260327-B17E` You cannot pre-test AI products with infinite use cases—ship fast and learn from real user behavior.
 - `INS-260403-64AE` Win-back campaigns get under 10% reactivation; preventing churn through friction removal and early value delivery is far more effective.
 - `INS-260402-5523` Successful growth loops are designed around behaviors users already exhibit naturally, not invented from scratch.
+- `INS-260327-B17E` You cannot pre-test AI products with infinite use cases—ship fast and learn from real user behavior.
 - `INS-260329-E208` CS50P's use of established conventions (CLI arguments, JSON APIs, pytest patterns) teaches that leveraging existing mental models accelerates adoption more than inventing optimal-but-novel interfaces.
 - `INS-260326-A0B4` Uber wins because people need to get somewhere three times a day; car-buying sites struggle because people buy a car once every seven years.
 - `INS-260329-BCB7` Mobile users are trained by existing apps — mimic their patterns and improve on them rather than inventing novel interactions.

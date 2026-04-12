@@ -64,6 +64,7 @@ related:
   - INS-260327-5DD3
   - INS-260327-42BA
   - INS-260330-43EB
+  - INS-260412-3AA3
 ---
 Paine's aside — 'there's a reason why you don't want to have people inherit offices, they don't tend to be very good at it' — is a compressed argument about selection mechanisms. Royal succession selects on ancestry, which has near-zero correlation with strategic judgment. When the decision-makers of five great powers were all selected this way, none of them noticed what Bismarck was doing until it was too late. A peer group selected for competence would have caught the pattern after the second war at latest.
 

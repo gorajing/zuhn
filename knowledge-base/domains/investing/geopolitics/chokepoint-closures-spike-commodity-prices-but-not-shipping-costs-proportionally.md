@@ -52,11 +52,13 @@ related:
   - INS-260330-7DB6
   - INS-260411-8DE4
   - INS-260403-EC09
+  - INS-260412-10F1
   - INS-260403-213C
-  - INS-260323-9FCA
+  - INS-260412-A77B
   - INS-260330-43FF
   - INS-260403-DC18
   - INS-260403-2C07
+  - INS-260412-F401
 ---
 Känzig and Raghavan (2025) modeled the economic impact of shipping chokepoint closures and found that a 10% shipping cost increase produces relatively modest inflation and GDP effects. Critically, during the Iran war the Strait of Hormuz closure spiked oil prices by ~50% but shipping costs barely increased — ships simply avoided the strait rather than paying more to transit it.
 

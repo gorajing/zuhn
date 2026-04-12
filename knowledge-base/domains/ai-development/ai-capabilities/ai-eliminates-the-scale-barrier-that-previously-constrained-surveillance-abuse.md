@@ -50,9 +50,9 @@ stance: >-
 related:
   - INS-260327-EDBA
   - INS-260403-DDD5
+  - INS-260412-B172
   - INS-260330-12FB
   - INS-260322-25B4
-  - INS-260330-BA13
   - INS-260404-667A
 ---
 Current law already permits the government to buy data from third parties and analyze it freely. The practical constraint was always economics: you cannot manually review every text message to identify dissidents. AI dissolves this constraint entirely. An AI could perform meaningful semantic search across all messages in a database, piecing together patterns to generate loyalty scores or identify dissenters without them ever mentioning their names in plaintext.

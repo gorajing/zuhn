@@ -49,10 +49,10 @@ stance: >-
   create systematic resource extraction that market-based regulation cannot
   address.
 related:
+  - INS-260412-0C4C
   - INS-260403-FAAF
   - INS-260327-AB3D
   - INS-260403-4183
   - INS-260410-7E29
-  - INS-260327-A592
 ---
 China operates roughly 57,000 industrial fishing vessels that dominate 44% of the world's visible fishing activity. These vessels are often shadowed by armed Chinese Coast Guard ships and serve as de-facto paramilitary personnel asserting sovereignty claims, particularly in the South China Sea. The civilian guise allows China to push territorial boundaries without triggering military confrontation — described as 'using its big belly to push you out, to dare you to hit first.' This dual-use model means traditional economic tools like subsidy reform or trade pressure are insufficient because the fleet's value to the state extends far beyond seafood revenue. Investors and strategists analyzing geopolitical risk in maritime regions should recognize that China's fishing fleet is a strategic asset, not merely a commercial one, which changes the calculus for any policy response.

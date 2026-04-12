@@ -51,7 +51,6 @@ stance: >-
   competition naturally concentrates among the few entities wealthy enough to
   build and maintain them.
 related:
-  - INS-260327-0758
   - INS-260327-DFD8
   - INS-260327-B65A
   - INS-260327-E4A1

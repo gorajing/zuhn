@@ -25,6 +25,6 @@
 - `INS-260326-8217` When someone reacts with anger to your feedback, shift from defensive mode to curiosity — ask why they're upset instead of matching their energy.
 - `INS-260404-226F` Each feedback layer — internal, user prototype, and public release — reveals distinct categories of issues that earlier stages miss.
 - `INS-260405-7A41` VCs who need founders to like them end up softening feedback, creating a 'trough' where founders receive pleasant noise instead of useful signal.
+- `INS-260322-1C17` Find 2-3 peers at a similar skill level who will give brutally honest feedback, and don't release anything until it passes their criticism.
 - `INS-260404-FA5B` You need peers who can tell an ugly duckling from a baby swan, not just people who are always encouraging.
 - `INS-260323-40AA` Friends and acquaintances will give positive feedback and feature requests not because they want your product, but because they want to be nice to you — this deceiving signal drives fatal feature creep.
-- `INS-260322-1C17` Find 2-3 peers at a similar skill level who will give brutally honest feedback, and don't release anything until it passes their criticism.

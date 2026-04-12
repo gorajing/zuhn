@@ -24,3 +24,4 @@
 - `INS-260403-3FF5` Wartime prioritization requires cuts so deep that everyone in the organization can feel the change in direction.
 - `INS-260327-0C56` NPS can drop 30 points overnight but takes 12-18 months of sustained product improvement to recover; there are no magic blog posts or gestures that shortcut the process.
 - `INS-260403-7CAA` Keeping the company running during crisis gives employees stability and purpose, not just revenue.
+- `INS-260412-FEFA` British tabloids branded St Helena's airport 'the world's most useless airport' based on a single aborted landing, and years of successful operations couldn't undo the damage.

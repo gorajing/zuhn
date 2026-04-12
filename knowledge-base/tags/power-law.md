@@ -22,9 +22,9 @@
 - `INS-260403-4227` More VC money doesn't produce more great startups — it inflates prices, spreads talent thin, and compresses exit multiples.
 - `INS-260403-CB97` Top-quartile venture funds consistently outpace median returns across vintages, reinforcing concentration of capital with repeat winners.
 - `INS-260404-74DD` Even the worst Demo Day investors (3.3x TVPI) outperform the best quartile of traditional VC, validating accelerator-stage portfolio strategies.
-- `INS-260330-7DA5` In both the US and China, the vast majority of economic power concentrates in a few coastal corridors — 37 of 75 top-earning US counties in the Northeast, 54% of startup funding in just 5 metro areas.
-- `INS-260330-E4FA` The 80/20 rule is a reliable heuristic because power-law distributions emerge independently across nearly all complex systems.
 - `INS-260403-A868` Elite developer talent is qualitatively different from average, following power-law rather than normal distribution.
+- `INS-260330-E4FA` The 80/20 rule is a reliable heuristic because power-law distributions emerge independently across nearly all complex systems.
+- `INS-260330-7DA5` In both the US and China, the vast majority of economic power concentrates in a few coastal corridors — 37 of 75 top-earning US counties in the Northeast, 54% of startup funding in just 5 metro areas.
 - `INS-260330-8F91` Memory operates on a Zipf-like distribution — a few experiences are retained strongly while most are forgotten entirely.
 - `INS-260321-7D76` A common mistake is automating wherever it's easiest rather than wherever the constraint actually is. The single biggest bottleneck in your process probably accounts for most of the available gains. Find that one thing. Automate that.
 - `INS-260329-4B99` Top-20 schools still deliver outsized ROI through brand and ruling-class network access; mid-tier schools cost too much for what they deliver.

@@ -53,6 +53,7 @@ related:
   - INS-260403-9F64
   - INS-260403-0992
   - INS-260403-CF1D
+  - INS-260412-1191
 ---
 Static unit economics give investors a snapshot, but monthly trend data tells a story. When CLTV rises faster than CAC over consecutive months, it signals compounding efficiency — often indicating product-channel fit or pricing leverage. This accelerating ratio is the kind of trend line VCs use to value startups.
 

@@ -58,6 +58,7 @@ related:
   - INS-260404-A032
   - PRI-260406-701E
   - INS-260403-E407
+  - INS-260412-D367
 ---
 Norway's startup crisis illustrates how quickly regulatory changes can threaten an otherwise functional ecosystem. This pattern repeats globally—policy environments are not passive backdrops but active determinants of whether startups form and scale in a given region. Glasgow and Italy's VC ecosystem reports similarly show that ecosystem health depends heavily on regulatory frameworks, tax incentives, and government support structures.
 

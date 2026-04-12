@@ -44,11 +44,12 @@ resolutions:
 related:
   - INS-260405-A1E6
   - PRI-260321-14D8
+  - INS-260412-9657
   - PRI-260406-26FB
   - INS-260327-DECA
-  - INS-260403-7F89
   - INS-260330-BE23
   - INS-260403-0902
+  - INS-260403-7F89
 stance: >-
   A common mistake is automating wherever it's easiest rather than wherever the
   constraint actually is

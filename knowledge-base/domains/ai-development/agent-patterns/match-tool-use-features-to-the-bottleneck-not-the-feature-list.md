@@ -53,7 +53,7 @@ related:
   - INS-260409-F9D5
   - INS-260327-DECA
   - INS-260403-7F89
-  - PRI-260321-14D8
+  - INS-260412-9657
 ---
 Anthropic is explicit that each feature carries a cost. Tool Search Tool adds a search step before invocation, so it's wasted overhead when you have fewer than ten tools or use all of them every session. Programmatic Tool Calling adds a code execution step, which hurts on simple single-tool lookups. Tool Use Examples add tokens to every tool definition, so they're wasted on obviously-structured tools.
 

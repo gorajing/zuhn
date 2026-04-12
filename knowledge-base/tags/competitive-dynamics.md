@@ -1,8 +1,8 @@
 # Tag: competitive-dynamics
 
-- `INS-260403-C8EF` Anthropic's designation as a 'supply chain risk' for refusing surveillance use demonstrates that AI safety positions carry direct commercial punishment.
 - `INS-260327-C15B` Anthropic subsidizing Claude Code with model profits creates pricing pressure that independent coding tool startups cannot match, forcing them to compete on product quality rather than cost.
 - `INS-260403-8A65` DeepSeek R1 matched OpenAI o1's benchmarks within months of o1's release, as a free open-source model.
+- `INS-260403-C8EF` Anthropic's designation as a 'supply chain risk' for refusing surveillance use demonstrates that AI safety positions carry direct commercial punishment.
 - `INS-260410-D0F5` AI lab competition has so far neutralized every supposed flywheel, with talent flow and reverse-engineering keeping rivals close.
 - `INS-260403-83F3` AI prototyping tools compete on hosting architecture (browser-side vs. real cloud vs. full database) rather than code generation quality.
 - `INS-260410-F8B9` Moats are only sufficient if the castle is too unattractive to invade — once the prize gets big enough, attackers arrive regardless.

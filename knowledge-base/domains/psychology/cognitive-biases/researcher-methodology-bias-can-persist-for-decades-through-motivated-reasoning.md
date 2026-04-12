@@ -58,8 +58,8 @@ related:
   - PRI-260406-CF83
   - INS-260330-9471
   - PRI-260406-B9C9
+  - INS-260412-F681
   - INS-260330-420B
-  - PRI-260406-A33C
   - INS-260403-9006
 ---
 Across multiple papers spanning over a decade, economist George Borjas has produced anti-immigration findings that diverge sharply from the consensus — and each time, peer review has identified specific methodological choices that drove the result. These include: selecting a sample of only 17-25 workers to study the Mariel Boatlift, ignoring a Census measurement change that created an artificial wage drop, using immigrant stock levels instead of immigrant flow changes (which confounds demand-driven native wage increases with immigration effects), and comparing H-1B wages from 2020-2023 against native wages from 2023 only without inflation adjustment.

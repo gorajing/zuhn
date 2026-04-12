@@ -54,12 +54,11 @@ stance: >-
   destabilizing political consequences
 related:
   - INS-260323-AE9C
-  - INS-260327-BBC2
   - INS-260403-DB0A
+  - INS-260412-3A8E
   - INS-260403-320A
   - INS-260323-CF27
   - INS-260323-D783
-  - INS-260404-7EFA
 ---
 For virtually all of human history, personal relationships — the single biggest determinant of happiness — were governed by physical proximity. You bonded with neighbors, coworkers, and people you could meet in person. The internet fundamentally broke this constraint, enabling 'vertical communities' of physically distant people who share identities and interests.
 

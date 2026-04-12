@@ -51,7 +51,6 @@ stance: >-
   engagement but dangerous when it becomes an excuse to bypass organizational
   structure and management discipline.
 related:
-  - INS-260330-EF51
   - INS-260403-4CD0
   - INS-260403-C23E
   - INS-260403-F6F9

@@ -12,10 +12,10 @@
 - `INS-260325-568A` Every great scientific breakthrough, even those attributed to lone geniuses, arose from collaborative social contexts — and knowing this helps us create better conditions for future discovery.
 - `INS-260403-49DF` The best partnerships combine complementary strengths within the same domain, not identical skills or different fields entirely.
 - `INS-260330-1C50` Refusing to celebrate others' success out of competitive anxiety shrinks the total pie rather than protecting your share.
+- `INS-260322-8F3F` Tight-knit groups of early employees at breakout companies go on to found and lead the next generation of billion-dollar companies, creating collaborative networks that compound over decades.
 - `INS-260327-5AFE` Using AI well is a social skill—coaching, delegating, providing context—not a technical prompting skill.
 - `INS-260403-9DA1` Destin's fluid dynamics knowledge combined with David's motion control engineering made a previously impossible recreation achievable.
 - `INS-260403-0A1C` Moving participants from seated table discussions to standing around wall-mounted visual tools increases engagement by changing the physical and social dynamics of collaboration.
-- `INS-260322-8F3F` Tight-knit groups of early employees at breakout companies go on to found and lead the next generation of billion-dollar companies, creating collaborative networks that compound over decades.
 - `INS-260330-FBC0` Innovation is an incremental, collaborative evolutionary process — not breakthrough moments by lone geniuses.
 - `INS-260410-9B33` Research shows direct long-haul flight connections between cities increase cross-city idea flow more than internet connectivity — and the effect is strongest between culturally distant places.
 - `INS-260403-8280` A design that represents one person's coherent vision will be coherent for the user; committee designs fragment into incoherence.

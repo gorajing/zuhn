@@ -64,7 +64,7 @@ related:
   - INS-260330-9E1B
   - INS-260402-8E46
   - INS-260403-3155
-  - INS-260405-3772
+  - INS-260412-C185
 ---
 To any outsider, the Porsche lineup is confusing: all the 911s since 1964 are called '911' on the back, but each generation has an internal engineering code (964, 993, 996, 997, 991, 992) that enthusiasts use to distinguish them. Within each generation there are a dozen trim variants (Carrera, Carrera S, Targa, Turbo, Turbo S, GT3, GT3 RS, GT3 Touring, GT3 RS Weissach, etc.) with meaningful differences only a devotee can name. Conventional wisdom would say this is a branding failure and Porsche should simplify.
 

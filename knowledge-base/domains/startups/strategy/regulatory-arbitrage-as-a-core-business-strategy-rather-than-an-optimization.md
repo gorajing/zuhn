@@ -52,8 +52,8 @@ related:
   - INS-260402-C030
   - INS-260403-FB4A
   - INS-260410-920E
+  - INS-260412-2948
   - PRI-260406-834A
-  - INS-260403-4E9D
   - INS-260409-F4AA
 ---
 Cruise ships can register in any country whose labor laws they prefer — most fly flags of convenience from Panama or Liberia. This isn't a minor tax optimization; it's a foundational business decision that makes the entire economic model viable. It enables hiring Barbadian maître d's and Latvian housekeepers at rates that would be illegal under American labor law, with work conditions (3-12 month contracts, mandatory quarters confinement off-duty) that no developed nation would permit.

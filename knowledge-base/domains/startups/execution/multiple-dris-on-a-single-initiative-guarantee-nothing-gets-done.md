@@ -53,5 +53,6 @@ related:
   - INS-260326-967C
   - INS-260330-8C52
   - INS-260410-CC41
+  - INS-260412-1038
 ---
 Weinberg uses a vivid analogy: if you ask two friends to water your plant while you're away for a month, the plant will definitely die — either from no water or constant water. The same principle applies to company initiatives. He found that almost every problem traced back to unclear ownership with multiple DRIs. The fix isn't asking the team who should be in charge (that takes too long and people hedge). It's the CEO saying 'this person is in charge.' Just like having three P0 priorities means having no P0, having three DRIs means having none. Weinberg connects this directly to the product roadmap problem: people create P0, P1, P2, then three P0s, then (his favorite) a P00, all because they don't want to be wrong. Single ownership forces single accountability, which is uncomfortable but the only thing that works.

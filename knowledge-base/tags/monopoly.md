@@ -20,4 +20,5 @@
 - `INS-260330-A0AE` Creating enormous value (X) guarantees nothing about capturing it (Y%) — airlines created $195B in revenue but cumulative profits ≈ zero over 100 years, while Google captured far more from a smaller market.
 - `INS-260330-0525` Tesla and SpaceX succeeded not through a single 10x breakthrough but through complex vertical integration that pulled in distributors and subcontractors that would otherwise extract monopoly profits.
 - `INS-260330-66A0` The best startup ideas look bad initially because good-sounding ones attract too many competitors, preventing monopoly formation.
+- `INS-260412-2551` Three GDS providers (Amadeus, Sabre, Travelport) suspending Aeroflot's access was a 'death blow' because no alternative booking infrastructure existed.
 - `INS-260330-9DCD` Government monopoly on land rezoning functions as an uncapped, unaccountable tax on housing demand.

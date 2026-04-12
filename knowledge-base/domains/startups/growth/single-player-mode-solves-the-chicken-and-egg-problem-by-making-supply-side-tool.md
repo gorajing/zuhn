@@ -47,7 +47,6 @@ stance: >-
   before any demand exists can bootstrap past the cold-start problem without
   subsidies or manual operations.
 related:
-  - INS-260324-157A
   - INS-260327-A8B6
   - INS-260403-6412
   - INS-260403-A331

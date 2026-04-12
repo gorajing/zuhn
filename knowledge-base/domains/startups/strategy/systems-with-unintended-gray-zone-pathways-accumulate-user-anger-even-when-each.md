@@ -53,11 +53,11 @@ stance: >-
   intent but clearly violate its spirit, cumulative public frustration
   eventually forces a disruptive correction
 related:
+  - INS-260412-774E
   - INS-260322-C935
   - INS-260330-AA25
   - INS-260403-949E
   - INS-260403-3D8C
-  - INS-260326-E0CB
 ---
 Smith describes how U.S. asylum law — which grants hearings even to those who entered illegally — creates a gray zone where people are 'illegal when they cross, legal while awaiting hearing, then illegal again if denied.' Most Americans don't understand the mechanism but sense that their democratic will is being violated. This diffuse, poorly-understood anger builds until it produces an overcorrection (Trump's ICE).
 

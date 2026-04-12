@@ -58,7 +58,7 @@ related:
   - INS-260405-C49E
   - INS-260411-BC19
   - INS-260403-839E
-  - INS-260327-A072
+  - INS-260412-9E81
 ---
 The shutdown ended with a continuing resolution funding most agencies only through January 30, 2026 — roughly ten weeks away. The underlying dispute (ACA premium subsidies) was not resolved; Democrats received only a promise of a Senate vote, not guaranteed passage. This structure guarantees a repeat confrontation at the next deadline.
 

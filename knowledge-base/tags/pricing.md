@@ -7,9 +7,9 @@
 - `INS-260410-ED7E` Hermès could raise Birkin prices meaningfully without losing buyers, but choosing not to creates the scarcity tax that drives purchase of adjacent products, yielding more lifetime revenue than the foregone price would.
 - `INS-260405-ECD2` Retail food prices are the last output of an infrastructure system shaped far upstream by inputs, water, labor, and policy.
 - `INS-260410-6CE5` Greg Abel signals that 2026 will see Berkshire write LESS property-casualty and reinsurance business because 'additional capital entered the market, resulting in lower pricing' — deliberate shrinkage rather than chasing a softening cycle.
-- `INS-260323-7F22` Unlike Uber where subsidized-to-real price increases were 2-3x within the psychology of cab fares, AI would require 5-7x increases into a range users have never mentally budgeted for.
 - `INS-260410-D5FC` Costco's hard 14% markup ceiling (11% target) converts every operational improvement into customer value, which compounds into trust, retention, and supplier leverage no competitor can match.
 - `INS-260410-6E43` Epic captures only ~$10M per year per hospital system despite being the central nervous system those hospitals cannot function without—and that underpricing is precisely why they have never lost a customer in 47 years.
+- `INS-260323-7F22` Unlike Uber where subsidized-to-real price increases were 2-3x within the psychology of cab fares, AI would require 5-7x increases into a range users have never mentally budgeted for.
 - `INS-260403-94A3` Evergreen funds buying VC secondaries pay closer to NAV than institutional buyers because they optimize for stable access rather than deep discounts.
 - `INS-260404-47F3` At $40-50K per implant with 10K units/year target, Neuralink is building a $400-500M/year premium medical device business, not a consumer product.
 - `INS-260403-6044` In breakout companies, speed and access dominate price as the primary driver of venture returns.
@@ -47,9 +47,9 @@
 - `INS-260410-F681` Luxury brands like Rolex and Hermès win by controlling the market — keeping production flat, raising prices incrementally, and refusing to chase demand spikes — rather than by participating as price-taking sellers.
 - `INS-260329-9D87` Narrowing your niche from generic to hyper-specific lets you charge 500x more while facing virtually no competition.
 - `INS-260403-2318` Large companies protect profitable lines, creating structural openings for startups with lower costs and fresh approaches.
-- `INS-260327-DD5C` Christoph Janz's framework shows five ways to build a $100M business: 1,000 customers at $100K, 10,000 at $10K, or 10 million at $10 — and your sales approach must match which path you're on.
 - `INS-260405-3315` Freemium works because it routes adoption through the user, not through procurement.
 - `INS-260329-64A3` Arbitrage — same asset, two markets, different prices — is the meta-pattern behind all of Hormozi's 10 wealth strategies.
+- `INS-260327-DD5C` Christoph Janz's framework shows five ways to build a $100M business: 1,000 customers at $100K, 10,000 at $10K, or 10 million at $10 — and your sales approach must match which path you're on.
 - `INS-260402-24B0` Unlike SaaS where marginal cost trends to zero, every AI user incurs real compute cost, making undisciplined distribution a path to margin collapse.
 - `INS-260329-3DD7` Raise price, decrease cost, increase frequency, cross-sell, increase quantity, upgrade quality, downsell, and offer economy tiers — these 8 levers make any single customer worth more.
 - `INS-260330-999F` Spotify's free ad-funded tier lost money but was the primary engine converting users to paid subscriptions, which competitors without free tiers couldn't match.

@@ -6,4 +6,5 @@
 - `INS-260403-3346` Operational competence earns the trust needed for strategic ambition.
 - `INS-260327-DC65` When AlphaChip first showed results to the chip design team, they were not just skeptical — they were angry. Only superhuman results changed minds.
 - `INS-260327-CEA6` Champions require all three criteria: power and influence, active internal selling on your behalf, and a vested personal interest in your success — missing any one means they're a coach, not a champion.
+- `INS-260412-E925` St Helena airport's most compelling proof of value wasn't tourism numbers but emergency medevac flights that saved lives — including a premature baby who would have died waiting for the monthly ship.
 - `INS-260330-4ACF` Britain promised Palestine to three different parties simultaneously, ensuring universal betrayal and lasting conflict.

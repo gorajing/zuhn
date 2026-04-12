@@ -1,8 +1,10 @@
 # Tag: focus
 
 - `INS-260327-9F10` Creatine is the most evidence-based supplement for both physical and cognitive performance
-- `INS-260327-236D` Napoleon invaded Russia with 200,000+ troops still tied down in Spain, ensuring neither campaign had sufficient resources to succeed.
 - `INS-260330-F671` The electron transport chain extracts energy through a cascade of small reactions rather than one explosive step — a pattern that maps directly to sustainable human productivity.
+- `INS-260403-E1E9` Replit CEO Amjad Masad's six lessons on winning emphasize that progress compounds through clarity and consistency, not through shortcuts or hype cycles.
+- `INS-260330-D644` Don't start acquisition conversations unless you'd accept a low offer — the distraction and psychological demoralization of entertaining buyers kills more companies than most founders realize.
+- `INS-260329-6D8B` Entrepreneurial 'strategy sessions' about new directions often mask emotional avoidance of difficult execution work.
 - `INS-260329-EE04` Commitment to any path beats keeping options open because decision fatigue from optionality is more costly than a wrong choice.
 - `INS-260322-6042` Delay checking email, social media, and other non-essential inputs for as long as possible each day because once you let them in, they occupy mental bandwidth permanently until your next reset.
 - `INS-260330-7AE9` Expert meditators don't hold perfect focus — they recover from distraction faster, making each mind-wandering episode a training rep rather than a failure.
@@ -21,15 +23,13 @@
 - `INS-260403-3CD9` Busywork that feels productive is worse than obvious procrastination because it prevents self-correction.
 - `INS-260322-E90F` Stare at a wall for 10-15 minutes when you can't focus — it acts as a mental bandwidth reset that reliably produces flow state afterward, with diminishing returns past 15 minutes.
 - `INS-260403-FFF0` Newton serves as Graham's model for seeking questions people didn't even realize were questions, rather than settling for the immediate rewards of familiar problems.
-- `INS-260403-E1E9` Replit CEO Amjad Masad's six lessons on winning emphasize that progress compounds through clarity and consistency, not through shortcuts or hype cycles.
-- `INS-260330-D644` Don't start acquisition conversations unless you'd accept a low offer — the distraction and psychological demoralization of entertaining buyers kills more companies than most founders realize.
-- `INS-260329-6D8B` Entrepreneurial 'strategy sessions' about new directions often mask emotional avoidance of difficult execution work.
 - `INS-260405-DC8D` Neutral framing of interruptions ('it doesn't matter how long') removes the shame spiral that prevents return, making recovery from distraction faster and more automatic.
+- `INS-260327-236D` Napoleon invaded Russia with 200,000+ troops still tied down in Spain, ensuring neither campaign had sufficient resources to succeed.
 - `INS-260405-0CE7` Measuring 'how fast am I improving' instead of 'how good is this now' sustains motivation during the worst part of any ambitious project.
 - `INS-260329-9A7F` Twenty hours of deeply focused study on one skill — using a physical timer to enforce attention — creates enough competence to begin job applications in that field.
 - `INS-260327-0833` Every hour spent on non-compounding activities is an hour your competitor is building.
-- `INS-260403-EF30` Creating a sticky one-phrase description of your startup doubles as a strategic focus test.
 - `INS-260410-1D7A` Sol Price's 'intelligent loss of sales' principle: forgo customers who only need 3 oz of WD-40 so you can carry only the 8 oz can — the SKU reduction unlocks logistics, labor, and supplier benefits that dwarf the lost revenue.
+- `INS-260403-EF30` Creating a sticky one-phrase description of your startup doubles as a strategic focus test.
 - `INS-260410-9AC4` Buffett and Munger's three piles — yes, no, and too-hard — work because the too-hard pile saves you from evaluating things you will never do well.
 
 - `INS-260327-432E` Start with a niche so small that big companies won't bother, then expand from strength.
@@ -41,20 +41,6 @@
 - `INS-260330-7BAE` Netflix beat Blockbuster by retreating to improve its core service rather than launching new features to differentiate.
 - `INS-260329-B6DF` Winners focus on customers while competitors focus on winners — creating a vicious cycle where copiers become progressively blind to what actually matters.
 - `INS-260329-6E0F` Competitors who copy you are looking at you instead of their customers — their distraction is your advantage.
-- `INS-260410-F69C` Steve Ballmer reflected that Microsoft's worst mistakes 'only lost money' — the real cost was the best engineers sunk into projects like Vista instead of competing in search, mobile, and social.
-- `INS-260329-6514` Improving what you already have compounds over time while new ventures reset your progress.
-- `INS-260403-566D` Selecting three high-leverage 12-month priorities and filtering every decision through them keeps innovation teams focused and aligned.
-- `INS-260403-9680` Hedging your startup with grad school, consulting, or side projects is functionally equivalent to quitting.
-- `INS-260403-3835` Startups peak in productivity when founders are uninterrupted, and hiring can destroy this by imposing an interrupt-driven culture.
-- `INS-260403-3058` Better focus makes startups faster by both shortening the path and increasing confidence-driven speed along it.
-- `INS-260328-6A18` Founders can't innovate across 20 zones — pick the top 3 where you want to innovate and hire the experienced person for everything else.
-- `INS-260402-C13F` Bob Klein's principle from the F-14 program — tight group, little money, little time — describes how constraints create focus that abundance destroys.
-- `INS-260329-E6DB` Hormozi admits Prestige Labs stalled Gym Launch's growth because his attention split — the biggest lesson was he probably shouldn't have done it.
-- `INS-260329-4293` Stop doing low-value activities rather than adding new ones to unlock outsized productivity.
-- `INS-260330-637F` The McDonald brothers found 80% of revenue came from hamburgers, cut everything else, and used the focus to build an assembly-line system that redefined the industry.
-- `INS-260330-A78C` YC found that teams who had gotten new things done every time they checked in were the strongest predictor of eventual success.
-- `INS-260329-C881` Declare a bounded period where you reject all non-essential commitments to create space for breakthrough execution.
-- `INS-260403-2774` Founders who activate every credit program they qualify for drown their teams in context switching, turning free tools into a net productivity loss.
 - `INS-260405-AEA0` Most competitor moves are about their opportunity, not your company — applying Graham's 'see randomness' heuristic prevents strategic paralysis.
 - `INS-260330-323E` Test one growth channel at a time with full dedication for a week; only move on when you have a clear signal it works or doesn't.
 - `INS-260403-7D5B` Analysis of the most successful consumer startups shows most achieved initial scale through just one of three growth lanes.
@@ -70,6 +56,20 @@
 - `INS-260329-0117` The '7 income streams' advice is survivorship bias — millionaires built wealth by going all-in on one stream, then diversified to preserve it.
 - `INS-260329-1669` The belief that pursuing multiple opportunities increases the odds of one succeeding is a fallacy—any single one could have succeeded with full focus, but none will with divided attention.
 - `INS-260329-DEE5` Frame ruthless prioritization as a temporary 'season of no' to make the sacrifice psychologically sustainable.
+- `INS-260410-F69C` Steve Ballmer reflected that Microsoft's worst mistakes 'only lost money' — the real cost was the best engineers sunk into projects like Vista instead of competing in search, mobile, and social.
+- `INS-260329-6514` Improving what you already have compounds over time while new ventures reset your progress.
+- `INS-260403-566D` Selecting three high-leverage 12-month priorities and filtering every decision through them keeps innovation teams focused and aligned.
+- `INS-260403-9680` Hedging your startup with grad school, consulting, or side projects is functionally equivalent to quitting.
+- `INS-260403-3835` Startups peak in productivity when founders are uninterrupted, and hiring can destroy this by imposing an interrupt-driven culture.
+- `INS-260403-3058` Better focus makes startups faster by both shortening the path and increasing confidence-driven speed along it.
+- `INS-260328-6A18` Founders can't innovate across 20 zones — pick the top 3 where you want to innovate and hire the experienced person for everything else.
+- `INS-260402-C13F` Bob Klein's principle from the F-14 program — tight group, little money, little time — describes how constraints create focus that abundance destroys.
+- `INS-260329-E6DB` Hormozi admits Prestige Labs stalled Gym Launch's growth because his attention split — the biggest lesson was he probably shouldn't have done it.
+- `INS-260329-4293` Stop doing low-value activities rather than adding new ones to unlock outsized productivity.
+- `INS-260330-637F` The McDonald brothers found 80% of revenue came from hamburgers, cut everything else, and used the focus to build an assembly-line system that redefined the industry.
+- `INS-260330-A78C` YC found that teams who had gotten new things done every time they checked in were the strongest predictor of eventual success.
+- `INS-260329-C881` Declare a bounded period where you reject all non-essential commitments to create space for breakthrough execution.
+- `INS-260403-2774` Founders who activate every credit program they qualify for drown their teams in context switching, turning free tools into a net productivity loss.
 - `INS-260329-AF18` Before exploring new growth channels, exhaust 10x potential in your current working channel first.
 - `INS-260403-EDFC` Make a few users love you rather than many users tolerate you — it's easier to expand userwise than satisfactionwise.
 - `INS-260323-2040` Rella tried to serve everyone on social media, built a confused Frankenstein product, nearly died — then narrowed to social media managers only and hit $2M ARR in 15 months.

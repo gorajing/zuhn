@@ -48,9 +48,9 @@ stance: >-
 related:
   - INS-260403-E9DB
   - INS-260403-B805
+  - INS-260412-F681
   - INS-260403-36A6
   - INS-260327-1F6A
-  - INS-260322-25B4
 ---
 When you've lived with a problem your entire life, you lose the ability to see it as abnormal. Americans compare their crime rates to their own recent past (e.g., celebrating the post-2022 decline) rather than to peer countries, where murder rates are 5-10x lower. This is a textbook case of reference point bias — the anchor is set by personal experience rather than objective benchmarks.
 

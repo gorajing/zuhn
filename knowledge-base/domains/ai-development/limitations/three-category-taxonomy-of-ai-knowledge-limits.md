@@ -61,6 +61,7 @@ related:
   - INS-260330-7A80
   - INS-260325-5023
   - INS-260412-44FA
+  - INS-260412-F4DA
 ---
 Structural limits arise from architecture and training: data coverage gaps, context window constraints, parameter budgets, and alignment filters that create deliberate epistemic blind spots. Operational limits emerge at deployment: RAG retrieval failures, sampling variance from temperature/beam search, prompt sensitivity, and distributional shift. Emergent limits appear dynamically: hallucination escalation, ontological drift from continual fine-tuning, and reward hacking in self-modifying agents.
 

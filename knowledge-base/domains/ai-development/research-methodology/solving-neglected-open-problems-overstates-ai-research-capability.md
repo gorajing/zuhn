@@ -48,7 +48,7 @@ related:
   - INS-260330-62D6
   - INS-260403-EAF7
   - INS-260327-CEE4
+  - INS-260412-9958
   - INS-260402-4AB4
-  - INS-260330-C0B9
 ---
 Aletheia reportedly solved four open Erdős problems autonomously, but a mathematician consulted by the video's author said this was 'pretty good' rather than remarkable because there are many such problems and not many people working on them — i.e., they are tractable but understaffed. This distinction matters for benchmarking AI research capability: an 'open problem' is not automatically a hard problem, and the marginal difficulty of an open problem depends heavily on how much human attention it has received. When assessing AI research claims, always ask how much expert effort the problem has absorbed before declaring a capability threshold crossed. A stronger signal would be contributions to problems that hundreds of mathematicians have actively failed to solve.

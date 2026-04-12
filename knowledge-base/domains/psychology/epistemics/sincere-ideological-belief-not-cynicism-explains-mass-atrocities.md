@@ -65,7 +65,6 @@ related:
   - INS-260323-DF0F
   - INS-260410-A544
   - INS-260410-CD75
-  - INS-260410-7D8E
   - INS-260410-260E
 ---
 Kotkin pushes hard against the modern temptation to explain mass atrocity through cynicism — the comforting assumption that 'no one really believed that stuff, they must have been smart like us.' The declassified archives from the Soviet period reveal the opposite: true belief was pervasive and durable, even among educated people, even among people whose own families were destroyed by the system, even in the face of overwhelming empirical falsification.

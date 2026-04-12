@@ -61,6 +61,7 @@ related:
   - INS-260327-4313
   - INS-260404-E544
   - INS-260405-3753
+  - INS-260412-E078
 ---
 Most Western analysis frames China's clean energy push as climate policy or industrial strategy. The deeper driver is existential: coal (China's primary energy source) requires massive water, and China faces severe water scarcity — Beijing is among the most water-stressed major cities globally. Meanwhile, 80% of China's oil imports transit the Malacca Strait, a two-mile-wide chokepoint that any naval adversary could blockade.
 

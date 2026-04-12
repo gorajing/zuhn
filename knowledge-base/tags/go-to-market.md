@@ -13,12 +13,12 @@
 - `INS-260330-C9C6` PayPal started with 20,000 eBay power sellers, Facebook started with 10,000 Harvard students — markets so small they seemed worthless, but they enabled 25-60% penetration in months before expanding concentrically.
 - `INS-260325-F451` Andy Raskin's strategic narrative framework: sell a movement (world shift), not a product — it unifies the entire organization around one story.
 - `INS-260410-8BF9` No carrier would adopt CDMA unless someone made the base stations, the handsets, AND the chips — so Qualcomm built JVs with Nortel and Sony to make all three before divesting every non-core layer.
-- `INS-260403-2041` Invest deeply in validating your go-to-market thesis before hiring sales and marketing teams.
 - `INS-260403-D2F4` Second-time founders bake GTM strategy into week one of building, treating distribution as the product rather than an afterthought.
 - `INS-260404-70DE` Prediction markets reached mainstream scale by distributing through platforms with 100M+ existing accounts rather than acquiring users directly.
 - `INS-260403-EAC6` Waze became one of the strongest app brands in France by investing where organic growth appeared, while Germany — where they tried to manufacture demand — never adopted the product despite similar investment.
 - `INS-260330-1266` Dominant technologies almost always grew through word-of-mouth from devoted early adopters, not through splashy launches.
 - `INS-260403-05CE` The stealth-to-public transition demands a structured launch blueprint: working backwards from a date, building amplifier networks, scheduling publishing waves, and shipping a follow-up within 30 days.
+- `INS-260403-2041` Invest deeply in validating your go-to-market thesis before hiring sales and marketing teams.
 - `INS-260410-8C24` Microsoft sold to the enterprise by leveraging the fact that employees had already smuggled Excel and Word into their offices personally — turning employee love into the wedge for top-down enterprise deals.
 - `INS-260323-8896` Frederic Tudor broke through zero demand by giving bartenders free ice to make cocktails — once customers experienced cold drinks, they could never go back.
 - `INS-260403-CA42` Building distribution in parallel with product is now table stakes for startup survival, not a post-PMF optimization.
@@ -39,6 +39,7 @@
 - `INS-260405-867E` There is no single path to PMF — lessons from 20 founders reveal irreducible diversity in how it is found.
 - `INS-260330-13E8` Find the gap between existing enterprise products, nail that narrow use case, then expand to adjacent problems over time.
 - `INS-260403-B198` Revolutionary framing creates a false dichotomy; the winning strategy is evolving what already works with new capabilities layered on top.
+- `INS-260412-6F4D` St Helena's airport worked technically but didn't transform the economy because the island lacked the marketing, investment attraction, and route development to exploit it.
 - `INS-260404-97AA` Halo targets ALS and locked-in syndrome patients first, creating emotional demonstrations and clinical validation before pursuing consumer augmentation.
 - `INS-260330-62D6` Find the smallest valuable problem incumbents ignore, nail the UX, then expand outward.
 - `INS-260330-6611` Build a product that sells itself, then hire salespeople anyway — they serve different functions.

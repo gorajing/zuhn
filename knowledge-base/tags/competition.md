@@ -1,26 +1,27 @@
 # Tag: competition
 
 - `INS-260403-420F` YC's Spring 2025 batch is nearly 50% AI agent startups, reflecting both massive opportunity and intense incoming competition.
-- `INS-260325-F48E` A year-over-year test of 268 prompts found most LLMs became less speech-restrictive — competitive pressure is correcting initial over-censorship.
 - `INS-260322-299C` DeepSeek's surprise replication of frontier model capabilities from a hedge fund proves that AI leads are inherently temporary — once capability is demonstrated, others catch up quickly with far fewer resources.
 - `INS-260410-8E02` Whenever the buyer is a corporation, IT department, or government, market structure forecloses winner-take-all outcomes — the buyer will force multiple suppliers to exist.
 - `INS-260323-E2DD` Healthy competition across ideas, companies, products, and cultures — maintaining variance — is what keeps complex systems adaptive and growing.
 - `INS-260403-D3ED` DeepSeek's open-weight release at a fraction of US training costs signals that closed-source model pricing power is rapidly eroding.
+- `INS-260325-F48E` A year-over-year test of 268 prompts found most LLMs became less speech-restrictive — competitive pressure is correcting initial over-censorship.
 - `INS-260323-B4D2` If AI lets you build faster, it lets every other founder build faster too — a customer who had 2-3 options now has 20-30, making differentiation the real bottleneck.
 - `INS-260325-FD14` TurboQuant's data-oblivious algorithm beats dataset-specific tuned competitors, demonstrating that fundamental algorithmic breakthroughs can instantly commoditize proprietary optimization moats.
 - `INS-260410-C02E` Japan and Germany's export models weren't just about foreign demand — they were about forcing their firms to compete with world-class rivals when domestic markets would have tolerated monopolies.
 - `INS-260403-F732` Rising rates shake out weak competitors, concentrate talent, and force the survivors to build sustainably profitable businesses.
+- `INS-260403-B734` For most of history, success meant winning zero-sum contests where ruthlessness helped; in idea-driven economies, the polarity reverses.
+- `INS-260330-0D11` Harvard Business School's largest cohort systematically catches the last wave (junk bonds in 1989, dotcom in 1999, housing in 2007) because extroverted, low-conviction people in a hot-house environment use peer behavior as their signal for value.
+- `INS-260330-09AD` Harvard Business School's largest graduating cohort systematically catches the last wave — junk bonds before Milken's arrest, tech at the dot-com peak, housing before 2008 — because extroverted, low-conviction people use competition as a proxy for value.
+- `INS-260323-334D` Nicky Ryan visualizes obsessively for weeks, Nicky Rod duplicates exact warm-up routines until competition feels like 'another Tuesday,' and Craig Jones blocks it all out until the last second — all three compete at the world level.
+- `INS-260330-4B55` Harvard Business School's largest cohorts systematically catch the last wave — junk bonds in 1989, dotcom in 1999, housing in 2005-2007 — because competition feels like validation rather than a warning signal.
+- `INS-260412-9F1D` Competitive dynamics within a crowd destroy cooperative behavior and are the primary driver of crowd crush risk.
 - `INS-260410-3F35` 25 years of 50/50 JVs produced zero Chinese auto champions; 18 months of Tesla competing directly taught BYD the consumer design it needed to become world-class.
 - `INS-260405-F20C` Beijing designates industry priorities top-down but lets 300+ prefectural governments compete bottom-up to back local firms with subsidies and credit.
 - `INS-260321-21BE` Google's TPU (Tensor Processing Unit) is already competitive for AI workloads, but NVIDIA's software ecosystem moat delays competitors — the 90% monopoly era will gradually end.
 - `INS-260405-5856` When hundreds of local governments simultaneously subsidize competing firms in the same industry, the winning national champion emerges alongside massive excess capacity.
-- `INS-260330-0D11` Harvard Business School's largest cohort systematically catches the last wave (junk bonds in 1989, dotcom in 1999, housing in 2007) because extroverted, low-conviction people in a hot-house environment use peer behavior as their signal for value.
-- `INS-260330-09AD` Harvard Business School's largest graduating cohort systematically catches the last wave — junk bonds before Milken's arrest, tech at the dot-com peak, housing before 2008 — because extroverted, low-conviction people use competition as a proxy for value.
-- `INS-260403-B734` For most of history, success meant winning zero-sum contests where ruthlessness helped; in idea-driven economies, the polarity reverses.
-- `INS-260323-334D` Nicky Ryan visualizes obsessively for weeks, Nicky Rod duplicates exact warm-up routines until competition feels like 'another Tuesday,' and Craig Jones blocks it all out until the last second — all three compete at the world level.
-- `INS-260330-4B55` Harvard Business School's largest cohorts systematically catch the last wave — junk bonds in 1989, dotcom in 1999, housing in 2005-2007 — because competition feels like validation rather than a warning signal.
-- `INS-260403-6F65` Equal optimization on substance makes charisma the tiebreaker.
 - `INS-260330-9367` Since the 1950s, no famous skyscraper ever held the tallest-structure record because unglamorous radio and TV towers always surpassed them.
+- `INS-260403-6F65` Equal optimization on substance makes charisma the tiebreaker.
 - `INS-260405-9E7D` Landing a rocket once proves engineering; landing and relaunching it cheaply proves the business.
 - `INS-260412-6B75` Argentine ants conquered six continents because native ant species had defenses evolved against local competitors, not against swarm-and-overwhelm tactics.
 - `INS-260327-EE5E` Twitter makes AI agent competition feel intense, but the market is so huge companies rarely encounter actual competitors.

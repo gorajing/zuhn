@@ -63,8 +63,8 @@ related:
   - INS-260403-7E6A
   - PRI-260328-FA83
   - INS-260327-4D1F
+  - INS-260412-9E81
   - INS-260323-9FCA
-  - PRI-260328-FADC
 ---
 Paine highlights Mao's explicit admission that defeating a strong enemy requires three conditions: progress by China, difficulties for the enemy, and international support. The third is non-negotiable: phase three — the conventional, war-winning phase — consumes industrial quantities of shells, trucks, and artillery that an agrarian base area cannot manufacture. Mao's decision to set his terminal point of retreat at Yan'an, on the Soviet border, was strategic: he was literally positioning himself to plug into a supply line from his 'big friend'.
 

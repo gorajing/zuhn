@@ -10,8 +10,8 @@
 - `INS-260405-47FD` Costco pays $21/hour average — double the U.S. retail average — and gets employees three times more productive in return.
 - `INS-260403-C1F5` Bonus-driven executives optimize for extracting value from existing models rather than building new ones, creating openings for equity-motivated challengers.
 - `INS-260403-88B9` The 'startup' label at mature companies often serves as cover for offering below-market salaries with speculative equity.
-- `INS-260405-202B` Costco pays double the U.S. retail average and reports employees three times more productive, suggesting the productivity gain exceeds the wage cost.
 - `INS-260405-F20D` Founder compensation should be benchmarked against funding stage and market norms, not minimized to signal commitment.
+- `INS-260405-202B` Costco pays double the U.S. retail average and reports employees three times more productive, suggesting the productivity gain exceeds the wage cost.
 - `INS-260330-7E58` In-N-Out pays managers $160K+ with full benefits, achieving 14-year average tenure in an industry with 150%+ annual turnover.
 - `INS-260403-09E8` The real cost of a hire includes payroll tax, benefits, dental, vision, bonuses, and annual raises — often 20-40% above base salary.
 - `INS-260403-85DE` An employee who improves expected outcomes by 20% is worth up to 16.7% equity before salary costs.

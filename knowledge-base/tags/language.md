@@ -5,21 +5,21 @@
 - `INS-260329-7BAF` Humans effortlessly resolve ambiguity that crashes machines — this asymmetry is why programming exists as a discipline.
 - `INS-260329-EDA2` It is fundamentally easier to teach humans programming languages than to build machines that understand natural language.
 - `INS-260329-6AF5` Naming a variable 'hours' helps humans read code but tricks beginners into thinking Python understands the concept of hours.
-- `INS-260403-9669` Daniel Dennett argues that qualia seem private and ineffable due to language failure, not because they are inherently unshareable.
-- `INS-260330-B85B` Profanity is neurologically distinct from regular language, routed through the limbic system rather than cortical speech areas.
 - `INS-260330-EA8B` Profanity is processed by the limbic system rather than the left hemisphere language areas, which is why Tourette's patients and people with left-hemisphere damage can still swear.
 - `INS-260330-0C10` Swearing uses a separate neural pathway from regular language, rooted in the emotional limbic system rather than cortical language areas.
-- `INS-260403-3AC7` The US government redefines 'collect' to mean 'query' rather than 'gather', allowing mass data acquisition while truthfully denying 'collection' under oath.
+- `INS-260403-9669` Daniel Dennett argues that qualia seem private and ineffable due to language failure, not because they are inherently unshareable.
+- `INS-260330-B85B` Profanity is neurologically distinct from regular language, routed through the limbic system rather than cortical speech areas.
 - `INS-260409-885E` If an experience exists prior to concept, we should expect it to be described in mutually incompatible-sounding vocabularies by people who had no shared metaphor bank to draw from.
 - `INS-260330-2294` The Library of Babel contains every possible 3200-character text — including your birth, death, and every joke — yet we intuitively feel none of it has been 'said' until a person means it.
 - `INS-260330-84C6` The gap between peak conscious experience and linguistic description is not a matter of degree but of kind — language is structurally incapable of encoding these states.
+- `INS-260403-3AC7` The US government redefines 'collect' to mean 'query' rather than 'gather', allowing mass data acquisition while truthfully denying 'collection' under oath.
 - `INS-260329-72AC` Computers demand a precision of thought that exposes logical gaps humans normally gloss over in natural language.
 - `INS-260402-2C6B` Everyday words work fine in normal use but produce meaningless disputes when pushed into abstract territory, because they lack precise definitions.
 - `INS-260329-40B6` Teaching isolated components before composition mirrors natural language acquisition and produces deeper mastery despite feeling counterintuitive.
 - `INS-260323-FAD5` The N-word demonstrates that identical words carry radically different meanings in different contexts — from slur to art to academic study to community bonding.
 - `INS-260330-B8C6` Zipf's law in language likely emerges from multiple colluding mechanisms rather than a single cause, reflecting something fundamental about how minds model complexity.
-- `INS-260403-14F4` Phrases like 'let's revisit later' and 'we need more data' feel reasonable but systematically introduce hesitation that calcifies into slow-moving culture.
 - `INS-260410-614E` Most VCs say 'we made a bet' or 'it's a good risk-adjusted bet' — Benchmark partners argue this language encodes passive super-forecasting, whereas 'commitment' encodes active odds-denting on the field with the founder.
+- `INS-260403-14F4` Phrases like 'let's revisit later' and 'we need more data' feel reasonable but systematically introduce hesitation that calcifies into slow-moving culture.
 - `INS-260330-1089` When your company name becomes the verb for an action ('Google it', 'Uber there'), competitors face a social friction barrier that operates independently of product quality.
 - `INS-260323-181D` Terms like 'liberal' and 'progressive' evolve rapidly in meaning — what was self-identifying becomes a smear in months, forcing constant repositioning.
 - `INS-260323-5CE3` Blues, bebop, and other musical styles are languages with their own syntax; hearing bebop as a child (like Rick from his non-musician dad, or Flea from his jazz-bassist stepfather) creates fluency that teenage exposure cannot replicate.

@@ -55,6 +55,7 @@ related:
   - INS-260330-7D6D
   - INS-260403-7DEC
   - INS-260402-3134
+  - INS-260412-C77F
 ---
 When Morgan entered the railroad industry, dozens of competing companies offered similar routes and slashed prices in destructive competition. Rather than picking a winner, Morgan systematically acquired and merged these competitors into unified conglomerates that could set prices and benefit from economies of scale. This 'morganization' approach was so successful it became a named strategy.
 

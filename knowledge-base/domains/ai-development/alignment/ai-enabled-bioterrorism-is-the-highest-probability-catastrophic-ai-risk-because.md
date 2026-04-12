@@ -53,7 +53,6 @@ stance: >-
   attacks, making bioterrorism the most likely path to AI-caused civilizational
   collapse.
 related:
-  - INS-260321-86F1
   - INS-260327-FC68
   - INS-260327-E0B0
   - INS-260402-31D8

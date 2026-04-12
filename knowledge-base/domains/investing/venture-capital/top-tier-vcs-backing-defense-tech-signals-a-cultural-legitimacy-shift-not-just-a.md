@@ -50,7 +50,6 @@ stance: >-
   defense tech as a category for the broader startup ecosystem, accelerating
   talent and capital flows into it.
 related:
-  - INS-260323-E204
   - INS-260410-3264
   - PRI-260406-275E
   - INS-260402-CCF4

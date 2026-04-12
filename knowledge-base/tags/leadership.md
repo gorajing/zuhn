@@ -1,10 +1,5 @@
 # Tag: leadership
 
-- `INS-260327-725F` The average public company CEO is 58, average director 63, average Congress member over 60, and average world leader 40 years older than their population.
-- `INS-260327-6058` Napoleon's Waterloo strategy was sound but failed because Marshal Grouchy and Marshal Ney couldn't execute independently at the critical moment.
-- `INS-260323-A197` Former Defense Secretary Leon Panetta revealed that President Clinton avoided engaging with nuclear issues, and Reagan publicly misstated that submarine-launched missiles could be recalled — they cannot.
-- `INS-260330-51B1` States behave aggressively not because leaders are inherently aggressive, but because the anarchic international system leaves them no choice but to maximize relative power.
-- `INS-260330-383F` Peterson's dragon test: if the crisis you're fighting makes you terrified and authoritarian, your emotional state disqualifies you from leading the response regardless of whether the threat is real.
 - `INS-260410-0735` Mao was a military genius who reunified a shattered China after 40 years of civil war, and the same person then caused the largest peacetime famine in Chinese history — because the skills that win wars are not the skills that run economies.
 - `INS-260410-0065` 85% of Japanese WWII deaths and 43% of German deaths happened in the last year of the war — after the outcome was already decided — because regimes optimize for their own survival, not their populations'.
 - `INS-260404-1678` Shifting justifications after the fact reveal the absence of pre-existing strategic reasoning.
@@ -12,10 +7,15 @@
 - `INS-260403-497B` Leadership titles are stepping stones to career optionality, not end destinations — optionality enables you to craft work on your own terms.
 - `INS-260410-8D62` When you take a leadership role, commit real, personal, post-tax capital — not just granted equity — so every decision is visibly yours too.
 - `INS-260403-5E03` Guy Kawasaki argues optimism means believing in your ability to shape reality, not ignoring it — a mindset that compounds through team inspiration and opportunity attraction.
+- `INS-260330-383F` Peterson's dragon test: if the crisis you're fighting makes you terrified and authoritarian, your emotional state disqualifies you from leading the response regardless of whether the threat is real.
 - `INS-260330-7D83` Travis's 'uber against the world' narrative drove 12-hour workdays and fierce loyalty, but the same combative culture produced internal backstabbing, sexual harassment cover-ups, and employee burnout.
 - `INS-260410-C474` Paine argues Bismarck's manipulation of Europe's monarchs demonstrated the structural incompetence of inherited leadership, because kings selected by birth rather than skill consistently failed to see strategic patterns a competent peer group would have caught.
 - `INS-260403-DA14` A leader's repeated norm violations train their handlers and staff to preemptively execute the cheating pattern without explicit instructions.
 - `INS-260402-62E3` Organizations without strong leaders default to 'best practices' consensus and cannot delay when accused of impropriety, making them trivially capturable by small ideological groups.
+- `INS-260327-725F` The average public company CEO is 58, average director 63, average Congress member over 60, and average world leader 40 years older than their population.
+- `INS-260327-6058` Napoleon's Waterloo strategy was sound but failed because Marshal Grouchy and Marshal Ney couldn't execute independently at the critical moment.
+- `INS-260323-A197` Former Defense Secretary Leon Panetta revealed that President Clinton avoided engaging with nuclear issues, and Reagan publicly misstated that submarine-launched missiles could be recalled — they cannot.
+- `INS-260330-51B1` States behave aggressively not because leaders are inherently aggressive, but because the anarchic international system leaves them no choice but to maximize relative power.
 - `INS-260325-09AF` The 'sturdy pilot' metaphor: the best leader acknowledges your fear is real AND stays calm and in control — neither dismissing your feelings nor being overwhelmed by them.
 - `INS-260330-E3ED` Fame removes the honest critics who keep you dying properly to your bad ideas, which is why celebrities and leaders spiral out of control.
 - `INS-260320-39A3` Shelter your team and family from acquisition signal-to-noise until the wire hits — deals fall apart in the last week, and premature sharing creates damaging anxiety.
@@ -24,11 +24,6 @@
 - `INS-260410-C56B` Conflict-averse CEOs systematically transfer shareholder value to anyone willing to make a fuss, because the path of least resistance is always to pay them off.
 - `INS-260327-8AE7` Many billionaire CEOs would create more value for shareholders by retiring and allowing succession than by continuing to lead with outdated strategies.
 - `INS-260330-1C50` Refusing to celebrate others' success out of competitive anxiety shrinks the total pie rather than protecting your share.
-- `INS-260404-DF88` In a startup crisis, waiting for perfect information narrows your options faster than making an imperfect early decision.
-- `INS-260330-AB95` Delaying termination of a bad employee risks losing good employees who won't tolerate the toxic environment, making procrastination strictly worse than action.
-- `INS-260330-258F` Quick, direct, face-to-face termination with immediate access revocation is the professional standard — procrastination lets toxic employees drive away good ones.
-- `INS-260403-8B26` The founder's personal speed of decision-making and unblocking directly determines the company's overall execution velocity.
-- `INS-260330-8D6F` Lost momentum causes internal disagreement and attrition; only small concrete wins — not vision speeches — can reverse the spiral.
 - `INS-260323-8B22` Altman's default-trust philosophy served him well until the board coup — the danger is overcorrecting from trusting to paranoid.
 - `INS-260323-F853` Founders like Musk have deep empathy for humanity's mission but can be callous to individuals in the room, while others like Ben Franklin excel at personal empathy -- both are valid superpowers for different contexts.
 - `INS-260330-8048` Mark Zuckerberg chose monthly active users over registered users and held everyone — internal and external — to that metric, which prevented the vanity-metric trap that killed competitors.
@@ -44,11 +39,16 @@
 - `INS-260329-58E7` Ramsey's breakthrough from tactical hustle to $300M came when MBAs taught him strategic thinking in exchange for him teaching them execution.
 - `INS-260323-244C` Netanyahu identifies the core AI leadership challenge: most people — including most political leaders — think in linear increments and cannot intuitively grasp geometric growth rates.
 - `INS-260325-8B36` Conflict between high performers with the same goal but different approaches produces better decisions — but only when the company, not ego, is at the center.
-- `INS-260330-687B` Delaying a necessary firing risks losing good employees who won't tolerate a toxic colleague, and equivocating during the termination creates legal and emotional complications.
-- `INS-260404-56C1` Vasco Pedro's top criterion for Halo's first CEO is someone who cares so deeply that others might think they're 'a bit weird' — prioritizing missionary zeal over mercenary polish.
+- `INS-260404-DF88` In a startup crisis, waiting for perfect information narrows your options faster than making an imperfect early decision.
+- `INS-260330-AB95` Delaying termination of a bad employee risks losing good employees who won't tolerate the toxic environment, making procrastination strictly worse than action.
+- `INS-260330-258F` Quick, direct, face-to-face termination with immediate access revocation is the professional standard — procrastination lets toxic employees drive away good ones.
+- `INS-260403-8B26` The founder's personal speed of decision-making and unblocking directly determines the company's overall execution velocity.
+- `INS-260330-8D6F` Lost momentum causes internal disagreement and attrition; only small concrete wins — not vision speeches — can reverse the spiral.
 - `INS-260322-9172` Successful brands ask fundamental questions and act fast on answers; failing brands have CEOs who already decided the answer and insist 'just do it this way.'
 - `INS-260327-29F0` The framework is not the hard part — getting the entire leadership team aligned on one strategic story is where the real value lies.
 - `INS-260322-D57C` When scaling, CEOs cannot just delegate customer-facing work — they must personally demonstrate the brand's standard alongside new employees so sensibility transfers through shared experience.
+- `INS-260330-687B` Delaying a necessary firing risks losing good employees who won't tolerate a toxic colleague, and equivocating during the termination creates legal and emotional complications.
+- `INS-260404-56C1` Vasco Pedro's top criterion for Halo's first CEO is someone who cares so deeply that others might think they're 'a bit weird' — prioritizing missionary zeal over mercenary polish.
 - `INS-260403-F554` 92% of VCs say the team is the most important element, valuing complementary skills and pivot capability over raw individual talent.
 - `INS-260403-1B15` Business models expire faster than CEO tenures, forcing leaders to build systematic invention capabilities rather than ride a single model.
 - `INS-260403-9627` Committees produce safe, lumpy designs because no group will agree to the bold risks that distinguish great work.

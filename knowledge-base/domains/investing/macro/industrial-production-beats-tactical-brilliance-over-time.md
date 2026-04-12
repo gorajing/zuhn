@@ -55,6 +55,7 @@ related:
   - INS-260327-A592
   - INS-260327-65E7
   - PRI-260403-B9A0
+  - INS-260412-2948
 ---
 Paine shows that Germany's U-boat program was tactically excellent — wolfpack tactics, four-rotor Enigma, captured British codes, Hitler's Happy Time, 850,000 tons sunk. What broke it was arithmetic: in 1943 the US tripled naval hulls and personnel, quadrupled merchant ship construction, and started sinking U-boats at rates Germany couldn't replace. The divergence between construction and destruction curves in mid-1943 is the whole story.
 

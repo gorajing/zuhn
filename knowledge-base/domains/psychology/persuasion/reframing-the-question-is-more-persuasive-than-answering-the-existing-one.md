@@ -44,11 +44,11 @@ stance: >-
   Showing that the commonly debated question is the wrong question entirely is
   more persuasive than providing a better answer to the existing debate.
 related:
-  - INS-260330-ED37
   - INS-260404-6C8F
+  - INS-260412-F681
+  - INS-260330-ED37
   - INS-260409-3064
   - INS-260330-0E49
-  - INS-260330-14CA
 evidence:
   - id: INS-260330-0E49
     type: SUPPORTS

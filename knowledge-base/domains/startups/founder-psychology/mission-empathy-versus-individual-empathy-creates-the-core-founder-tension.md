@@ -56,8 +56,8 @@ related:
   - INS-260412-66F5
   - INS-260327-F405
   - INS-260323-46B2
-  - INS-260323-D783
   - INS-260326-F3E0
+  - INS-260327-58ED
 stance: >-
   Founders like Musk have deep empathy for humanity's mission but can be callous
   to individuals in the room, while others like Ben Franklin excel at ...

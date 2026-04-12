@@ -1,6 +1,6 @@
 # Topic: execution
 
-> 282 insights
+> 288 insights
 
 - `INS-260329-FCF2` [high] Doing 10-100x more volume beats 2x optimization, but you must relearn this lesson independently in each new domain you enter.
 - `INS-260403-FED1` [high] YC's batch funding model — its most important innovation — was adopted not strategically but because a summer program seemed like the fastest way to learn angel investing.
@@ -148,6 +148,7 @@
 - `INS-260409-2578` [high] Pivots at scale rarely work — only pivot when you have literally no other choice.
 - `INS-260403-F4D7` [high] Best-in-class infrastructure components are now commodity plug-and-play, so building custom infra is almost always wrong for early-stage startups.
 - `INS-260403-144A` [high] Rollins recognized the shrinking middle class in his 20s and deliberately stacked multiple income streams — music, acting, writing, voiceover, speaking — as insurance.
+- `INS-260412-B8CB` [high] Samsung's transformation from grocery trader to industrial conglomerate began by acquiring leftover Japanese colonial assets at cents on the dollar during the Korean War's wreckage.
 - `INS-260330-BF96` [high] Byron Ferguson hits aspirins mid-air not by eliminating arrow wobble but by testing every arrow's spine and rejecting those outside tolerance.
 - `INS-260328-6E7A` [high] The more something looks like producing bolts, the more process works; the more it looks like producing art, the less process helps — and confusing the two is where startups go wrong.
 - `INS-260330-DC3B` [high] Teams that see inevitable cuts being postponed grow more anxious than teams that absorb a single decisive cut paired with a clear plan.
@@ -176,6 +177,7 @@
 - `INS-260329-3739` [high] Skill = repetitions × improvement-per-rep; reviewing your top and bottom 10% of outputs is the multiplier most people skip.
 - `INS-260329-21C0` [high] Skills compound multiplicatively—each new adjacent skill doesn't just add value, it multiplies the value of every skill acquired before it.
 - `INS-260403-ADF9` [high] The most iconic startups found their winning product by observing what users actually did inside a failing product, not by executing their original plan.
+- `INS-260412-923A` [high] Bukele's transformation of a 7,000-person town — eliminating illiteracy, building infrastructure, near-zero homicides — became the proof point that propelled him to the presidency.
 - `INS-260330-E9D4` [high] Ross Ulbricht was caught not by crypto-breaking or advanced surveillance, but by a trail of careless forum posts, a personal email in a job ad, a Stack Overflow question under his real name, and living near the IP-traced internet cafe.
 - `INS-260326-E411` [high] Napoleon's Italian Campaign succeeded because he moved his worst-supplied army faster than anyone believed possible, defeating enemies before they could coordinate.
 - `INS-260326-8798` [high] Pay yourself less, get a worse office, and read your bank statement every month — burn rate is the only runway lever that's 100% in your control.
@@ -246,7 +248,9 @@
 - `INS-260327-767B` [medium] In frontier tech, no existing playbook applies—build your own through experimentation and first principles.
 - `INS-260329-ADC4` [medium] Being busy creates natural prioritization pressure that eliminates waste — start now rather than waiting for free time that never comes.
 - `INS-260403-B4B9` [medium] Use your business model as the starting point for defining what to measure, not generic KPIs.
+- `INS-260412-FD95` [medium] The wind-shear crisis killed the 737 plan but led to the Airlink E190 solution with connecting routes from both Johannesburg and Cape Town — arguably better than the original single-origin Comair service.
 - `INS-260403-566D` [medium] Selecting three high-leverage 12-month priorities and filtering every decision through them keeps innovation teams focused and aligned.
+- `INS-260412-2948` [medium] Slow steaming — running ships at 14-18 knots instead of 22 — was a desperate 2008 crisis response that became permanent industry standard, saving 10-25% on fuel.
 - `INS-260405-B59F` [medium] Translating unit objectives into explicit joint commitments creates the cross-unit accountability that crises demand.
 - `INS-260402-55FB` [medium] Deliberately choosing roles with real complexity across different stages and cycles builds a compounding pattern library that becomes your primary competitive advantage.
 - `INS-260327-5297` [medium] When the startup opportunity is clear, finishing your degree adds less value than starting immediately.
@@ -257,6 +261,7 @@
 - `INS-260403-14F4` [medium] Phrases like 'let's revisit later' and 'we need more data' feel reasonable but systematically introduce hesitation that calcifies into slow-moving culture.
 - `INS-260327-95C6` [medium] China shutting down Bitcoin mining forced Alex to build US data centers from scratch — that forced capability became the foundation for AI infrastructure.
 - `INS-260405-A9B2` [medium] Costco's confusing warehouse layout forces customers to traverse most aisles, increasing exposure to products they didn't plan to buy.
+- `INS-260412-B172` [medium] Northern Pacific Airways went from 'resounding skepticism among experts' to 'potentially feasible' overnight when Russian airspace closed and Anchorage became strategically relevant again.
 - `INS-260403-C4BE` [medium] Maintaining safety habits even when technically unnecessary prevents errors by eliminating per-situation judgment calls.
 - `INS-260405-A103` [medium] The Calvin Cycle produces 6 G3P molecules per turn but must use 5 of them to regenerate the starting molecules — only 1 net output escapes per cycle, meaning 83% of output is structural overhead.
 - `INS-260403-7BBD` [medium] Better cameras on a 1992 experiment revealed new fluid dynamics phenomena that decades of numerical simulation had missed.
@@ -276,6 +281,7 @@
 - `INS-260329-5EE7` [medium] Reproduce production bugs in staging before debugging — debugging in production risks making the issue worse.
 - `INS-260403-4A42` [medium] Top-performing 2025 revenue teams achieved ~77% higher revenue per rep through deep AI integration and workflow redesign rather than headcount expansion.
 - `INS-260403-8C2D` [medium] Delaying two hires by one quarter can extend runway by 3.5 months — scenario modeling makes these tradeoffs visible before they become consequences.
+- `INS-260412-1191` [medium] Organizations can summon exceptional performance for showcase moments while their steady-state operations are deteriorating — and the showcase success actively delays recognition of the underlying decline.
 - `INS-260409-1A44` [medium] You have permission to shrink the team before pivoting — the ship is going down and directors who aren't helping aren't helping.
 - `INS-260403-78AD` [medium] Solo founders now start over a third of new startups as AI tools replace functions that previously required full teams.
 - `INS-260329-6253` [medium] Start new habits when you're busiest — if they survive peak load, they'll persist; habits formed during slack time break the moment pressure returns.

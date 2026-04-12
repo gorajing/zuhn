@@ -57,10 +57,10 @@ stance: >-
   margins.
 related:
   - INS-260327-00EB
+  - INS-260412-9805
   - INS-260403-90A0
   - INS-260403-80D9
   - PRI-260328-37D8
-  - INS-260330-E082
 ---
 Sellers of Russian crude have resumed requesting yuan payment from Indian state refiners as sanctions pressure and counterparty risk rise. This routing had appeared before but lapsed — its return is pragmatic, driven by the need to clear sanctioned barrels rather than a strategic push for yuan dominance. China's currency still handles only ~4% of international payments by value versus ~50% for the dollar.
 

@@ -59,9 +59,10 @@ related:
   - INS-260403-E936
   - INS-260404-8BC7
   - INS-260403-EB8F
+  - INS-260412-10F1
+  - INS-260412-A77B
   - PRI-260405-8E48
   - INS-260403-2151
-  - PRI-260328-0993
 ---
 Diego Känzig and Ramya Raghavan's research on global shipping disruptions establishes one of the rare areas where macroeconomists can make reliable predictions. Historical incidents show a consistent pattern: commodity prices spike (especially oil), inflation rises as input costs flow through, and industrial production contracts. This is a clean natural experiment because chokepoint closures are discrete, observable events.
 

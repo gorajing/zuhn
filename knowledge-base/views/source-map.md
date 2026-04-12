@@ -1,5 +1,5 @@
 # Source Map
-Generated on 2026-04-12 | 2367 sources
+Generated on 2026-04-12 | 2417 sources
 
 | Source | Type | Insights | Date |
 |--------|------|----------|------|
@@ -754,6 +754,7 @@ Generated on 2026-04-12 | 2367 sources
 | Emil Michael: The Department of War Is Moving Faster Than Silicon Valley on AI | The a16z Show | youtube | 5 | 2026-03-22 |
 | Enron | youtube | 5 | 2026-04-11 |
 | Epic Systems (MyChart) | youtube | 5 | 2026-04-11 |
+| Every Country in the World (Part 1) | youtube | 5 | 2026-04-12 |
 | Everything We Teach at YCombinator in 10 Minutes | youtube | 5 | 2026-03-27 |
 | Evolution designed us to die fast; we can change that — Jacob Kimmel | youtube | 5 | 2026-04-10 |
 | Feel Free is a NIGHTMARE | youtube | 5 | 2026-03-26 |
@@ -779,15 +780,18 @@ Generated on 2026-04-12 | 2367 sources
 | How McDonald's Really Makes Money | youtube | 5 | 2026-03-30 |
 | How Meditation Works & Science-Based Effective Meditations | youtube | 5 | 2026-03-30 |
 | How North Korea Makes Money | youtube | 5 | 2026-03-30 |
+| How Ocean Shipping Works (And Why It's Broken) | youtube | 5 | 2026-04-12 |
 | How One Company Secretly Poisoned The Planet | youtube | 5 | 2026-03-30 |
 | How one psychedelic trip can alter an entire lifetime | Matthew Johnson: Full Interview | youtube | 5 | 2026-03-25 |
 | How OpenAI Builds for 800 Million Weekly Users: Model Specialization and Fine-Tuning | youtube | 5 | 2026-03-22 |
 | How Sugar & Processed Foods Impact Your Health | Dr. Robert Lustig | youtube | 5 | 2026-03-30 |
+| How the World’s Most Dangerous Country Solved Murder | youtube | 5 | 2026-04-12 |
 | How to Access Your Creativity | Rick Rubin | youtube | 5 | 2026-03-30 |
 | How To Actually Get Rich In Your 20s | youtube | 5 | 2026-03-30 |
 | How to Build a Dyson Sphere - The Ultimate Megastructure | youtube | 5 | 2026-04-12 |
 | How to Build Immense Inner Strength | David Goggins | youtube | 5 | 2026-03-30 |
 | How to Build Top-Performing Sales Orgs with OpenAI's GTM Leader Maggie Hott | youtube | 5 | 2026-03-27 |
+| How to Control a Crowd | youtube | 5 | 2026-04-12 |
 | How to Get and Evaluate Startup Ideas | Startup School | youtube | 5 | 2026-03-27 |
 | How to Get Rich [Full Interview with Dave Ramsey] | youtube | 5 | 2026-03-30 |
 | How To Get Unique AI Startup Ideas | youtube | 5 | 2026-03-29 |
@@ -883,6 +887,7 @@ Generated on 2026-04-12 | 2367 sources
 | Sam Harris & Ben Shapiro Debate: Trump, Election Interference, & Foreign Policy | youtube | 5 | 2026-03-30 |
 | Sam Harris Challenges Douglas Murray on His Ties to MAGA | youtube | 5 | 2026-03-30 |
 | Sam Harris on Tariffs, SignalGate, Trump, Elon, Joe Rogan, & Douglas Murray | youtube | 5 | 2026-03-30 |
+| Samsung’s Dangerous Dominance over South Korea | youtube | 5 | 2026-04-12 |
 | Sarah Paine – How Hitler almost starved Britain | youtube | 5 | 2026-04-10 |
 | Sarah Paine — How Imperial Japan defeated Tsarist Russia & Qing China | youtube | 5 | 2026-04-10 |
 | Sarah Paine — How Mao conquered China (lecture & interview) | youtube | 5 | 2026-04-10 |
@@ -901,6 +906,7 @@ Generated on 2026-04-12 | 2367 sources
 | Some thoughts on the Sutton interview | youtube | 5 | 2026-04-10 |
 | Something Strange Happens When You Follow Einstein's Math | youtube | 5 | 2026-03-30 |
 | SONY (75 years of electronics history in 3 hours) | youtube | 5 | 2026-04-11 |
+| South Africa's Slow, Inevitable March Towards Collapse | youtube | 5 | 2026-04-12 |
 | Spotify CEO Daniel Ek | youtube | 5 | 2026-04-11 |
 | Standard Oil Part 1 | youtube | 5 | 2026-04-11 |
 | Starbucks (with Howard Schultz) | youtube | 5 | 2026-04-11 |
@@ -920,7 +926,9 @@ Generated on 2026-04-12 | 2367 sources
 | The CRAZY Truth About McDonald's | youtube | 5 | 2026-03-30 |
 | The Deadliest Being on Planet Earth – The Bacteriophage | youtube | 5 | 2026-04-12 |
 | The Disturbing History of Coca-Cola | youtube | 5 | 2026-03-30 |
+| The Electric Vehicle Charging Problem | youtube | 5 | 2026-04-12 |
 | The essence of calculus | youtube | 5 | 2026-03-30 |
+| The Failed Logistics of Russia's Invasion of Ukraine | youtube | 5 | 2026-04-12 |
 | The French Revolution: Crash Course World History #29 | youtube | 5 | 2026-03-30 |
 | The Future Mark Zuckerberg Is Trying To Build | youtube | 5 | 2026-03-23 |
 | The hardest problem on the hardest test | youtube | 5 | 2026-03-30 |
@@ -939,6 +947,7 @@ Generated on 2026-04-12 | 2367 sources
 | The Power of Suggestion | youtube | 5 | 2026-03-30 |
 | The Power of Vulnerability | Brené Brown | TED | youtube | 5 | 2026-03-27 |
 | The Reckoning (Episode #391) | youtube | 5 | 2026-03-30 |
+| The Sanction-Fueled Destruction of the Russian Aviation Industry | youtube | 5 | 2026-04-12 |
 | The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton | youtube | 5 | 2026-03-30 |
 | The Science of Making & Breaking Habits | youtube | 5 | 2026-03-30 |
 | The Secret Chinese Company That Owns Everything | youtube | 5 | 2026-03-30 |
@@ -953,6 +962,7 @@ Generated on 2026-04-12 | 2367 sources
 | The Unicorn Founder Who Delegated Everything. | youtube | 5 | 2026-03-22 |
 | The Unicorn Hunter: The Craziest Billionaire EVER | youtube | 5 | 2026-03-30 |
 | The Untold Truth of Instagram - The INSANE Full Story | youtube | 5 | 2026-03-30 |
+| The World's Most Useful Airport [Documentary] | youtube | 5 | 2026-04-12 |
 | The Zipf Mystery | youtube | 5 | 2026-03-30 |
 | These are the asteroids to worry about | youtube | 5 | 2026-03-30 |
 | This Unstoppable Robot Could Save Your Life | youtube | 5 | 2026-03-30 |
@@ -1476,6 +1486,7 @@ Generated on 2026-04-12 | 2367 sources
 | How Somalia’s Pirates Make Money | youtube | 4 | 2026-03-30 |
 | How the body keeps the score on trauma | Bessel van der Kolk for Big Think+ | youtube | 4 | 2026-03-30 |
 | How The Immune System ACTUALLY Works – IMMUNE | youtube | 4 | 2026-04-12 |
+| How This Central African City Became the World’s Most Expensive | youtube | 4 | 2026-04-12 |
 | How To Convert Customers With Cold Emails | Startup School | youtube | 4 | 2026-03-27 |
 | How To Count Past Infinity | youtube | 4 | 2026-03-30 |
 | How to Create a Frequency so Magnetic Your Desires Chase You | youtube | 4 | 2026-03-23 |
@@ -1635,6 +1646,7 @@ Generated on 2026-04-12 | 2367 sources
 | Why Most AI Projects Fail Before They Start | youtube | 4 | 2026-03-23 |
 | Why OpenAI Doesn't Pay Sales Commission (And Why It Works) with OpenAI GTM Leader Maggie Hott | youtube | 4 | 2026-03-27 |
 | Why Snatch Blocks are AWESOME (How Pulleys Work)  - Smarter Every Day 228 | youtube | 4 | 2026-03-30 |
+| Why There are Now So Many Shortages (It's Not COVID) | youtube | 4 | 2026-04-12 |
 | Why We Should NOT Look For Aliens - The Dark Forest | youtube | 4 | 2026-04-12 |
 | Why You Should Not Startup In Your 20s | Startup Founder Reality | youtube | 4 | 2026-03-23 |
 | Willpower likely won’t save you from your bad habits. Science explains why | youtube | 4 | 2026-03-25 |
@@ -2370,3 +2382,41 @@ Generated on 2026-04-12 | 2367 sources
 | You Are Taking Creatine Wrong (here's how to fix it) | youtube | 1 | 2026-03-26 |
 | You Will Never Wear AirPods Again | youtube | 1 | 2026-03-26 |
 | You'll Never Eat Sardines Again | youtube | 1 | 2026-03-26 |
+| Australia's China Problem | youtube | 0 | 2026-04-12 |
+| China's Geography Problem | youtube | 0 | 2026-04-12 |
+| Cities at Sea: How Aircraft Carriers Work | youtube | 0 | 2026-04-12 |
+| Elon Musk's Basic Economics | youtube | 0 | 2026-04-12 |
+| Every State in the US | youtube | 0 | 2026-04-12 |
+| Guam: Why America's Most Isolated Territory Exists | youtube | 0 | 2026-04-12 |
+| How Africa is Becoming China's China | youtube | 0 | 2026-04-12 |
+| How Air Traffic Control Works | youtube | 0 | 2026-04-12 |
+| How Airlines Quietly Became Banks | youtube | 0 | 2026-04-12 |
+| How Airlines Schedule Flights | youtube | 0 | 2026-04-12 |
+| How Airports Make Money | youtube | 0 | 2026-04-12 |
+| How Budget Airlines Work | youtube | 0 | 2026-04-12 |
+| How China Broke the World's Recycling | youtube | 0 | 2026-04-12 |
+| How Overnight Shipping Works | youtube | 0 | 2026-04-12 |
+| How Rwanda is Becoming the Singapore of Africa | youtube | 0 | 2026-04-12 |
+| How the US Government Will Survive Doomsday | youtube | 0 | 2026-04-12 |
+| How the World’s Wealthiest People Travel | youtube | 0 | 2026-04-12 |
+| How to Design Impenetrable Airport Security | youtube | 0 | 2026-04-12 |
+| How to Stop a Riot | youtube | 0 | 2026-04-12 |
+| Living Underwater: How Submarines Work | youtube | 0 | 2026-04-12 |
+| Mini Countries Abroad: How Embassies Work | youtube | 0 | 2026-04-12 |
+| Russia's Geography Problem | youtube | 0 | 2026-04-12 |
+| The Economics of Airline Class | youtube | 0 | 2026-04-12 |
+| The Economics of Private Jets | youtube | 0 | 2026-04-12 |
+| The Insane Logistics of Formula 1 | youtube | 0 | 2026-04-12 |
+| The Logistics of Living in Antarctica | youtube | 0 | 2026-04-12 |
+| The Most Valuable Airspace in the World | youtube | 0 | 2026-04-12 |
+| The Plane Highway in the Sky | youtube | 0 | 2026-04-12 |
+| The US President's $2,614 Per Minute Transport System | youtube | 0 | 2026-04-12 |
+| The World's Shortcut: How the Panama Canal Works | youtube | 0 | 2026-04-12 |
+| What's Actually the Plane of the Future | youtube | 0 | 2026-04-12 |
+| Why China Is so Good at Building Railways | youtube | 0 | 2026-04-12 |
+| Why Chinese Manufacturing Wins | youtube | 0 | 2026-04-12 |
+| Why Cities Are Where They Are | youtube | 0 | 2026-04-12 |
+| Why Flying is So Expensive | youtube | 0 | 2026-04-12 |
+| Why Planes Don't Fly Faster | youtube | 0 | 2026-04-12 |
+| Why the Northernmost Town in America Exists | youtube | 0 | 2026-04-12 |
+| Why Trains Suck in America | youtube | 0 | 2026-04-12 |

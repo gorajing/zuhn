@@ -53,12 +53,10 @@ stance: >-
   single element deviates from the plan.
 related:
   - INS-260327-0FA9
+  - INS-260412-9E81
+  - INS-260412-2B91
   - INS-260327-C22F
   - PRI-260403-B9A0
-  - INS-260327-EF8C
-  - INS-260326-E411
-  - INS-260327-485B
-  - INS-260405-397C
 evidence:
   - id: INS-260326-E411
     type: CHALLENGES

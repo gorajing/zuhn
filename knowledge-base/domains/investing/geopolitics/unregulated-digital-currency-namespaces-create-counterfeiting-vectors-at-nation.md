@@ -57,6 +57,7 @@ related:
   - PRI-260406-7862
   - INS-260403-8BE9
   - INS-260403-5440
+  - INS-260412-60EC
 evidence:
   - id: INS-260330-A561
     type: TRANSFERS_TO

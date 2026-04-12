@@ -48,7 +48,6 @@ stance: >-
   The longer and more exposed your supply route becomes, the more vulnerable
   your entire operation is to disruption at any point along that route.
 related:
-  - INS-260325-5096
   - INS-260327-3FC7
   - PRI-260328-A589
   - INS-260327-9D23

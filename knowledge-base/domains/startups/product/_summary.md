@@ -1,11 +1,12 @@
 # Topic: product
 
-> 23 insights
+> 24 insights
 
 - `INS-260403-6CE6` [high] Treating aid recipients as product users with real feedback loops produces dramatically better outcomes than top-down charity models.
 - `INS-260403-8DA1` [high] Never assume other teams see your project as a priority — explicitly demonstrate impact on their specific goals.
 - `INS-260403-1A08` [high] Focus moderation on behavior standards rather than user gatekeeping to prevent community quality decay.
 - `INS-260403-1D92` [high] When AI makes building cheap, taste and design become the scarce differentiator.
+- `INS-260412-9657` [high] Solving one bottleneck in a complex system without addressing the whole system just moves the failure point downstream.
 - `INS-260409-6C62` [high] Right-product-right-time requires simultaneous understanding of world, tech landscape, your tech, customers, market, and competition — one human must own all of it.
 - `INS-260403-EF20` [high] BioCity transformed their messaging from technical jargon about robotic compound retrieval to emotionally resonant language about control and budget maximization.
 - `INS-260404-1299` [high] Good PMs produce good artifacts, and those artifacts are the mechanism for having 'impact on the impact.'

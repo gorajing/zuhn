@@ -48,11 +48,11 @@ stance: >-
   when scaling is not the primary mission.
 related:
   - INS-260329-9074
+  - INS-260412-9657
   - INS-260410-022B
   - INS-260404-7060
   - INS-260321-7D76
   - PRI-260321-14D8
-  - INS-260327-DECA
 evidence:
   - id: INS-260329-9074
     type: SUPPORTS

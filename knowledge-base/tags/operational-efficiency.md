@@ -1,6 +1,7 @@
 # Tag: operational-efficiency
 
 - `INS-260403-524B` Costco's confusing warehouse layout makes shoppers feel like deal-hunters rather than annoyed customers, turning a cost-saving measure into a positive brand experience.
+- `INS-260412-2948` Slow steaming — running ships at 14-18 knots instead of 22 — was a desperate 2008 crisis response that became permanent industry standard, saving 10-25% on fuel.
 - `INS-260403-323A` Costco's warehouse layout and limited selection feel like treasure-hunting to customers rather than cost-cutting, similar to how IKEA's DIY assembly creates pride of ownership.
 - `INS-260330-744E` Domino's discovered that cutting from five pizza sizes to one and removing non-pizza items boosted profitability because customers simply bought more of the profitable items instead.
 - `INS-260403-3291` Integration work takes operators 4x longer than experts, making the $10K outsourcing cost a clear win when operator time is the scarcest resource.

@@ -62,6 +62,7 @@ related:
   - INS-260327-ABE5
   - INS-260327-60C6
   - INS-260327-A654
+  - INS-260412-C71D
 ---
 Takahashi Korekiyo pulled Japan out of the Great Depression through deficit spending before Keynes was fashionable, and warned the Army that imperial conquest would be a capital sink requiring years of investment before yielding resources. In February 1936, young officers came to his house and literally hacked him apart. That was the moment the moderate faction lost.
 

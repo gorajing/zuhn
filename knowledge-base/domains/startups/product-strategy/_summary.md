@@ -1,6 +1,6 @@
 # Topic: product-strategy
 
-> 86 insights
+> 87 insights
 
 - `INS-260405-4AAD` [high] Juicero raised $120M for technology that was immediately undermined when customers realized the same outcome was achievable by hand.
 - `INS-260330-809A` [high] Apple's acquisition pattern — Authentec for Touch ID, Siri for voice, NeXT for Jobs — shows that buying capabilities yields higher returns than buying businesses.
@@ -28,6 +28,7 @@
 - `INS-260403-3A44` [high] Publicly excluding customer segments that don't fit your product sharpens value perception for the customers who actually matter.
 - `INS-260330-2E34` [high] The arrow hits the target precisely because it bends — rigidity would cause it to deflect off course.
 - `INS-260404-C30F` [high] HubSpot reached IPO in 2014 on GTM excellence alone, with additional products only crossing 20% of ARR five years later in 2019.
+- `INS-260412-6F4D` [high] St Helena's airport worked technically but didn't transform the economy because the island lacked the marketing, investment attraction, and route development to exploit it.
 - `INS-260403-9AB5` [high] Most organizations underexplore innovation by focusing only on product features, missing business model, process, and experience innovations.
 - `INS-260410-3C05` [high] AWS launched bare-bones S3 and EC2 while Microsoft Azure Cloud Services and Google App Engine launched opinionated PaaS offerings — AWS captured the market because primitives enable both lift-and-shift and new-build use cases.
 - `INS-260330-2306` [high] Your job is to hear the problem behind the request and build the simplest solution to that problem.

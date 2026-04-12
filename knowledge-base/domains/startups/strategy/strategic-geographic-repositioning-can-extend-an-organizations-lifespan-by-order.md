@@ -57,10 +57,10 @@ stance: >-
   extending the empire's lifespan by 1000 years.
 related:
   - INS-260330-F5D1
+  - INS-260412-B8CB
   - PRI-260328-65EC
   - PRI-260403-B9A0
   - PRI-260406-CB40
-  - PRI-260405-C47B
 ---
 When Constantine moved the Roman capital to Byzantium (renamed Constantinople) in 330 CE, he was effectively abandoning the decaying Western half of the empire to concentrate resources on the more defensible, commercially vibrant East. This wasn't framed as retreat — it was rebranding. The new capital sat at the crossroads of Europe and Asia, controlling trade routes and benefiting from natural defensive geography.
 

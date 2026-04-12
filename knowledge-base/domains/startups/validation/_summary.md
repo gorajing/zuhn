@@ -1,6 +1,6 @@
 # Topic: validation
 
-> 182 insights
+> 184 insights
 
 - `INS-260329-F7F4` [high] When a functional prototype costs 15 minutes instead of 3 months, validation shifts from optional luxury to mandatory first step.
 - `INS-260327-CD36` [high] At least 70% of YC's top 100 companies by valuation came from ideas noticed organically rather than deliberate brainstorming, because brainstorming systematically produces tar pit ideas.
@@ -109,11 +109,13 @@
 - `INS-260403-BF09` [high] BioCity discovered that biologists and chemists had entirely different pains and gains regardless of whether they worked at a university, biotech startup, or large pharma company.
 - `INS-260329-78CB` [high] High-ticket with few customers is easier to execute than low-ticket at scale, especially when starting with no resources.
 - `INS-260329-180B` [high] Limit your first app to one core feature so you can ship fast and get real user feedback before building more.
+- `INS-260412-379C` [high] Angola simultaneously produced Africa's first female billionaire and had only 15-19% high school attainment—proving that trophy metrics can coexist with systemic failure.
 - `INS-260403-6B37` [high] Starting with a solution and searching for a problem leads to high acquisition costs, poor fit, and stagnant growth.
 - `INS-260323-E15F` [high] When every founder can build fast with AI tools, the bottleneck shifts permanently from execution speed to insight discovery speed.
 - `INS-260329-AAD1` [high] Start free to get reps and feedback, then systematically reduce discounts in batches of five customers until you reach and exceed full price.
 - `INS-260405-C8B2` [high] Urgency and full-price payment are the only PMF signals that actually predict survival.
 - `INS-260404-4E13` [high] Test cards and learning cards formalize the experiment-learn loop into a repeatable validation system.
+- `INS-260412-E925` [high] St Helena airport's most compelling proof of value wasn't tourism numbers but emergency medevac flights that saved lives — including a premature baby who would have died waiting for the monthly ship.
 - `INS-260323-92AD` [high] Mortgage fraud safeguards are designed for ordinary borrowers, not for brokers who understand the system — Cox learned to exploit seams by moving from employee to company owner where he could see the full architecture.
 - `INS-260327-B12E` [high] Start with customer problems, not technology — talk to as many people as possible about their problems and what skills you can bring.
 - `INS-260323-1B87` [high] Most founders talk to 3-5 customers per week and think that's enough; Kim insists on 3-5 per day with 24-hour follow-up cycles during the PMF search phase.

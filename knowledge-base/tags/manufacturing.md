@@ -8,6 +8,7 @@
 - `INS-260405-F05B` Structured environments like factory floors let humanoid robots learn fast and fail cheaply before tackling complex unstructured domains.
 - `INS-260404-4F1B` Solar's 99.9% cost decline since 1975 demonstrates how manufacturing learning curves create inevitable cost dominance over extraction-based competitors.
 - `INS-260405-24F0` Britain's relative manufacturing share predicted its WWI dependency on America decades before the war; today's US-China manufacturing gap signals a similar structural shift.
+- `INS-260412-3382` Pre-pandemic shipping cost of ~$1,000 per 20-foot container from Asia to the US means transporting a single shoebox 8,000 miles cost about 30 cents — less than a chicken nugget.
 - `INS-260330-BBCF` Since China's 2001 WTO entry, manufacturing value-added flipped from US at 2x China to China at 2x US — a structural shift in hard power.
 - `INS-260404-57D0` China controls 80-95% of global solar manufacturing across polysilicon, wafers, cells, and modules with no near-term Western alternative.
 - `INS-260403-33BF` Japan's forced remilitarization could paradoxically end its economic stagnation by funding bold R&D, reviving manufacturing, and attracting foreign investment.
@@ -22,8 +23,8 @@
 - `INS-260405-2AFD` China's workforce built deep process knowledge by assembling goods for international firms, and that accumulated expertise became the foundation for leapfrogging into EVs, solar, and AI hardware.
 - `INS-260403-44D9` EV technology shares components with drones, robots, and electronics, so low EV adoption limits scale for the entire manufacturing ecosystem.
 - `INS-260330-5600` Compute the raw material cost of your product's constituent atoms — that's the asymptotic floor — then ask why your actual cost is higher.
-- `INS-260404-880A` J&J's $1B+ investment in a 2M sq ft cell therapy facility marks the transition from experimental to industrial-scale advanced therapy manufacturing.
 - `INS-260321-E654` Defense primes' advantage over startups is not inventiveness but production and manufacturing at scale — startups must build factory and quality-testing muscle to cross the procurement chasm.
+- `INS-260404-880A` J&J's $1B+ investment in a 2M sq ft cell therapy facility marks the transition from experimental to industrial-scale advanced therapy manufacturing.
 - `INS-260410-6286` Kelly Johnson insisted Skunk Works engineers sit only steps from the shop floor because 'a stone's throw was too far away' — the shortest design-to-build feedback loop wins.
 - `INS-260403-50F6` Regulatory finality—not just regulatory speed—determines where capital-intensive manufacturing actually gets built.
 - `INS-260330-A1DB` India's 30% local sourcing rule for retail stores forced Apple into partner-dependent distribution, compounding its market weakness.

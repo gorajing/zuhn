@@ -19,8 +19,8 @@
 - `INS-260322-7723` AI labs and big tech are structurally incapable of building opinionated standalone consumer products because their promo committees incentivize safe, incremental features over risky bets.
 - `INS-260327-E747` Build something 10X better, not incrementally better—that's how Gmail beat Hotmail.
 - `INS-260324-A046` UNIQLO identifies trending pieces too expensive for the mass market, replaces natural fibers with proprietary synthetics, and proactively tweaks design to exceed expectations through merit — not just price.
-- `INS-260330-637F` The McDonald brothers found 80% of revenue came from hamburgers, cut everything else, and used the focus to build an assembly-line system that redefined the industry.
 - `INS-260330-C0E2` Apple's improving phone quality extended upgrade cycles from 2 years to 3-4 years, flattening sales despite a growing installed base — a structural paradox for any durable goods company.
+- `INS-260330-637F` The McDonald brothers found 80% of revenue came from hamburgers, cut everything else, and used the focus to build an assembly-line system that redefined the industry.
 - `INS-260403-DC6C` Photosynthesis is explicitly inefficient and complicated yet powers all life on Earth — adequacy under real constraints beats theoretical optimization.
 - `INS-260403-05B8` The winning pitch in VC 3.0 isn't that you use AI — it's that your product fundamentally could not exist without it.
 - `INS-260403-BA5D` In emerging markets, targeting broken essential industries provides both large market size and natural urgency that overcomes adoption friction.

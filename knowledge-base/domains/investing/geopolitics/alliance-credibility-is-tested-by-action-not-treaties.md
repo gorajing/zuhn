@@ -49,7 +49,7 @@ related:
   - INS-260327-5140
   - INS-260404-96E6
   - INS-260327-E36A
-  - INS-260327-6058
+  - INS-260412-BA6D
 ---
 When Israel launched extensive attacks on Iran with US support, the most geopolitically revealing signal was what didn't happen: China and Russia did not intervene on Iran's behalf. This demonstrates that Iran is not a core member of the revisionist alliance — it's a peripheral partner whose security guarantees are largely rhetorical.
 

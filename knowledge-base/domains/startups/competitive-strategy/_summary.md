@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 585 insights
+> 586 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -38,6 +38,7 @@
 - `INS-260402-ECD2` [high] In hierarchical markets, winning one apex customer (e.g., a top law firm) cascades credibility and adoption downstream more effectively than scaling from the bottom up.
 - `INS-260330-D801` [high] Patek Philippe's business model — forcing buyers through loyalty tiers, policing resales, and rebuying watches to trace leakers — is fundamentally bubble management, not watchmaking.
 - `INS-260410-8AF0` [high] Britain could have weighed in against Prussia at any point in Bismarck's three wars and didn't, because each war individually looked too minor to merit intervention.
+- `INS-260412-BA6D` [high] Ukraine's guerrilla defense focused on destroying unarmored fuel trucks, rail connections, and road signs—targeting Russia's weakest logistical links rather than its strongest military assets.
 - `INS-260329-6D3B` [high] Incumbent competition is inevitable at scale — the question shifts from 'if' to 'how do I compete against their bundle advantage.'
 - `INS-260403-5593` [high] Big companies can't let individuals hold whole programs in their heads, so startups should target problems that demand exactly that.
 - `INS-260410-490C` [high] Salary caps leak through side deals and multi-year contract gymnastics; an in-room auction with fixed budgets and standardized contracts eliminates every gaming vector at once.

@@ -1,6 +1,6 @@
 # Topic: leadership
 
-> 197 insights
+> 198 insights
 
 - `INS-260404-F834` [high] Replace abstract culture complaints with specific behavioral stories backed by evidence to surface real, fixable problems.
 - `INS-260330-4A89` [high] Raises given on request incentivize lobbying over performance; formal evaluation cycles protect meritocratic culture.
@@ -130,6 +130,7 @@
 - `INS-260325-6F89` [high] The founder's job changes every 12-18 months — most fail because they keep using skills that worked at the previous stage.
 - `INS-260330-DB4B` [high] When something important lands on your desk, saying 'I need to think this through from all perspectives' produces better outcomes than the instinct to demonstrate decisiveness.
 - `INS-260323-1176` [high] When Ignacio told Rosolie 'you'd be an idiot to leave right now,' the decision to stay produced the historic first-contact encounter -- leaders must create space for trusted operators to override the plan.
+- `INS-260412-DAEF` [high] Bukele won 53% of the vote by attacking the two-party system itself rather than running a traditional campaign against individual opponents.
 - `INS-260329-5975` [high] Teaching someone to program transforms their identity from passive consumer to active creator, which is more valuable than any specific technical skill.
 - `INS-260326-98A0` [high] Frame work as learning (not execution), say 'I may miss something — I need your input,' and ask lots of questions to create necessity for voice.
 - `INS-260403-11F8` [high] Musk's bluntness and Nadella's warmth both scale, but they attract and retain fundamentally different people.

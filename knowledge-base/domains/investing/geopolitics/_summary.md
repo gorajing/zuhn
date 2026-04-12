@@ -1,6 +1,6 @@
 # Topic: geopolitics
 
-> 536 insights
+> 550 insights
 
 - `INS-260326-3E19` [very_high] Pharmaceutical companies funding the FDA, banks staffing financial regulators, and tech giants writing platform regulations are structurally identical -- the mechanism is industry-funded oversight producing industry-favorable rules.
 - `INS-260326-79DF` [very_high] Germany's unrestricted submarine warfare sank 886,000 tons in April 1917 alone -- a tactical triumph that brought America into the war and guaranteed Germany's defeat.
@@ -141,6 +141,7 @@
 - `INS-260323-DA6F` [high] China's growth has historically been reform-driven: every major reform produced a decade of strong growth, and the current slowdown correlates directly with the slowing pace of reform over the past 15 years.
 - `INS-260327-19D2` [high] In Napoleonic warfare, line beat column (firepower), column beat disordered infantry (shock), and square beat cavalry — each formation optimized for one threat was vulnerable to another.
 - `INS-260403-3AF9` [high] EVs provide the massive scale demand needed to make domestic battery and motor production economically viable, which then feeds into drones, robots, electronics, and military systems.
+- `INS-260412-BA52` [high] Point Roberts (US), Nakhchivan (Azerbaijan), and Copacabana (Bolivia) all show how territorial fragmentation forces residents through foreign borders for basic access, creating permanent diplomatic vulnerability.
 - `INS-260327-C68B` [high] Each American crisis — Civil War, World Wars, Great Depression, Cold War, 9/11 — permanently expanded presidential power because emergency authorities were never fully relinquished.
 - `INS-260327-B038` [high] Napoleon fought at Eylau despite his army being exhausted and overextended because retreating would have shattered his aura of invincibility.
 - `INS-260327-7D63` [high] Napoleon conquered Egypt but Nelson destroyed his fleet at the Nile, stranding the entire French army thousands of miles from home with no way to be reinforced.
@@ -197,6 +198,7 @@
 - `INS-260410-D316` [high] China won on the base layers — ubiquitous internet (1990s bet) and massive cheap electricity (2000s bet) — which then compounded into every downstream industry including AI.
 - `INS-260330-02A7` [high] Inflation should be modeled as a multi-dimensional vector across all assets and goods, not reduced to a single government-defined CPI scalar.
 - `INS-260330-0FCE` [high] Physical infrastructure creates economic interdependency that gradually makes political separation impractical, serving as a subtler tool of control than direct legislation.
+- `INS-260412-C77F` [high] Russia's state-owned rail monopoly enables domestic military dominance but creates a crippling dependency that collapses at the border.
 - `INS-260403-CFBD` [high] Weaponizing legal institutions against independent economic bodies trades durable stability for short-term political leverage.
 - `INS-260410-1803` [high] Mao's revolutionary method — 'triangle building' — was to grow shadow government, army, and civic networks inside the host until they could replace it, not to storm it from outside.
 - `INS-260327-EDBA` [high] Paul Revere's ride was possible because the colonial intelligence network (supported by the entire sympathetic population) tracked every British movement while the British had no intelligence on colonial preparations.
@@ -204,6 +206,7 @@
 - `INS-260325-F5CA` [high] The same interconnections that create prosperity become transmission vectors for cascading collapse.
 - `INS-260327-33EA` [high] Napoleon sat between two Austrian columns at Castiglione and defeated each before they could unite, demonstrating the classic interior lines advantage.
 - `INS-260327-E7AC` [high] Russia didn't lose WW1 to Germany on the battlefield — it collapsed from within when its exhausted population and demoralized army revolted against the Tsar.
+- `INS-260412-60EC` [high] Russia simply ignored the Cape Town Treaty and re-registered 515 foreign-leased aircraft as Russian property, revealing that international commercial law has no enforcement against a defecting sovereign.
 - `INS-260330-C477` [high] China's shrinking working-age population must support a rapidly growing elderly cohort, creating a structural drag on GDP growth that compounds over decades.
 - `INS-260323-B1F5` [high] Iran fights conflicts exclusively through proxies (Hamas, Hezbollah, Houthis) rather than directly — recognizing this pattern is essential for predicting where regional conflicts will emerge.
 - `INS-260327-4046` [high] Job mobility has effectively frozen - companies aren't hiring, employees aren't quitting, and career progression has stalled across industries.
@@ -217,6 +220,7 @@
 - `INS-260327-A048` [high] British PM Eden personally despised Nasser and compared him to Hitler, making the Suez response about personal vendetta rather than calculated national interest.
 - `INS-260327-5200` [high] Alexander personally led cavalry charges in every battle, sustaining multiple wounds — this shared risk created fanatical loyalty that held his army together through 10 years and 20,000 miles of campaign.
 - `INS-260327-7E6F` [high] After Aspern-Essling, Napoleon didn't just try the same approach again — he systematically fixed every failure point: better bridges, more troops, new crossing points, and artillery superiority.
+- `INS-260412-22E3` [high] Russia's 515 foreign-leased aircraft became instant hostages when sanctions forced lessors to terminate, revealing leasing's hidden geopolitical attack surface.
 - `INS-260327-2964` [high] Prussia's army was considered Europe's finest based on Frederick the Great's victories 50 years earlier — but it had not modernized and collapsed in a single day.
 - `INS-260323-17B5` [high] El-Kurd demonstrates how legal systems can be constructed to legitimize displacement, drawing parallels to Jim Crow laws that were technically legal but morally bankrupt.
 - `INS-260410-7F35` [high] The regime can starve its people, kill its people, and destroy its own state capacity — it will still survive as long as citizens have nowhere else to go and no alternative to organize around.
@@ -285,7 +289,9 @@
 - `INS-260327-4294` [high] Apollo was cancelled not because it failed but because the Soviet space threat diminished — once the geopolitical competition ended, the political will to fund the program evaporated.
 - `INS-260409-E421` [high] Income taxes are the wrong instrument for taxing billionaires because founders take $1 salaries and hold appreciating unsold stock.
 - `INS-260410-D6D5` [high] Mao's 'three stages of people's war' only terminates in victory if a big industrial friend arrives to supply the conventional armaments phase three requires.
+- `INS-260412-9E81` [high] Russia's push-based resupply model, where leadership decides what goes where on a schedule, collapsed when the war didn't end in 3-5 days as planned.
 - `INS-260327-719D` [high] Napoleon won at Borodino but lost 30,000+ men without destroying the Russian army — a tactical victory that was strategically catastrophic.
+- `INS-260412-18B7` [high] Russia's truck fleet could only sustain operations ~90 miles from railyards, creating a hard distance ceiling on effective force projection.
 - `INS-260327-65F4` [high] Justinian's reconquest of the Western Roman Empire bankrupted Byzantium — the wars in Italy and Africa cost far more than the conquered territories ever returned in revenue.
 - `INS-260325-3C17` [high] After the Bronze Age collapse, it took 400 years to rebuild comparable Mediterranean trade networks.
 - `INS-260327-15E1` [high] The Qing dynasty's late reforms — abolishing the exam system, creating a constitutional monarchy, modernizing the army — actually accelerated its collapse by destabilizing the existing power structure without creating a viable alternative.
@@ -307,6 +313,7 @@
 - `INS-260327-4313` [high] Germany's WWI defeat partly from insufficient oil access established the lasting geopolitical principle that energy resource control determines who holds power, driving every subsequent superpower's Middle East strategy.
 - `INS-260330-4AC6` [high] Nations expand aggressively when facing existential resource constraints, regardless of their stated ideological justifications.
 - `INS-260330-B559` [high] Germany and Japan chose land conquest over trade to solve food insecurity, and both were destroyed — trade integration consistently outperforms autarky.
+- `INS-260412-23A9` [high] Angola's GDP grew 534% from 2002-2010 while its HDI ranking improved by only 4 places, demonstrating that resource wealth without institutional guardrails concentrates rather than distributes.
 - `INS-260322-2647` [high] Companies with broad retail investor bases trade at higher multiples and benefit from organic brand defense because owners have skin in the game.
 - `INS-260327-5DD7` [high] The Abbasid revolution united Persian converts, non-Arab Muslims, Shia partisans, and discontented Arab tribes — each dissatisfied with Umayyad rule for different reasons — into an unstoppable coalition.
 - `INS-260327-994B` [high] At Cape St. Vincent, Nelson broke formation without orders to cut off the retreating Spanish fleet — a violation of procedure that created victory from what would have been an indecisive engagement.
@@ -322,13 +329,16 @@
 - `INS-260327-50B6` [high] Prussia sent Napoleon an ultimatum demanding withdrawal from Germany without first ensuring Russian forces could arrive in time to help.
 - `INS-260327-479C` [high] Russia maintained serfdom until 1861 — centuries after Western Europe abandoned it — which suppressed industrialization, innovation, and economic growth despite Russia's enormous natural resources.
 - `INS-260330-0881` [high] China's one-child policy combined with cultural son preference produced roughly 30-40 million excess men, creating downstream social and economic disruption.
+- `INS-260412-8EAE` [high] Cult leader's daughter Choi Soon-sil, operating from above an Italian restaurant with no government title, directed presidential decisions including the pension fund vote that preserved Samsung's ownership structure.
 - `INS-260403-EC09` [high] Research by Känzig and Raghavan shows shipping disruptions produce a clean, quantifiable macro response: commodities up, inflation up, industrial output down.
 - `INS-260403-7943` [high] Population decline creates a doom loop where fewer workers means fewer researchers means lower productivity growth means less ability to compensate for fewer workers.
 - `INS-260322-B369` [high] Goldman's CEO identifies the current US macro environment as the sweetest spot in 40 years: fiscal stimulus, rate-cutting cycle, capital investment super cycle, and deregulatory unwind all happening simultaneously.
 - `INS-260330-7DB6` [high] A pandemic, Fed rate hikes, and the Ukraine war each individually would be significant — but hitting simultaneously creates non-linear damage because each shock removes the buffer against the others.
 - `INS-260327-8152` [high] The 1848 revolutions erupted across Europe simultaneously but each national movement pursued different goals and couldn't coordinate, allowing conservative governments to crush them one by one.
 - `INS-260327-E2F1` [high] The UK's few things working well are all concentrated in London, making national GDP look acceptable while the rest of the country structurally declines.
+- `INS-260412-3AA3` [high] Samsung's 20% GDP share makes South Korea unable to meaningfully prosecute its leaders, as demonstrated by two generations of Lee family pardons.
 - `INS-260323-9676` [high] ASML is the sole manufacturer of EUV lithography machines worldwide — every advanced chip on Earth depends on one company in one Dutch town, making semiconductor manufacturing the most concentrated chokepoint in the global economy.
+- `INS-260412-D367` [high] Capital and talent flight from declining states is a one-way ratchet that converts temporary service failures into permanent economic contraction.
 - `INS-260327-7750` [high] Belisarius repeatedly defeated armies 5-10x his size because his forces were professionally trained, personally loyal, and under unified command while his opponents were tribal coalitions.
 - `INS-260403-7157` [high] Solar attracts ~$500B/year in investment and installs more new capacity than every other electricity source combined.
 - `INS-260327-C22F` [high] Belisarius conquered the entire Vandal Kingdom in weeks by attacking before they could assemble their dispersed forces, defeating them piecemeal before they understood the threat.
@@ -441,6 +451,7 @@
 - `INS-260403-F2A2` [medium] China's state-engineered AI strategy—targeting 90% penetration by 2030—follows the same playbook as its EV and robotics mobilizations.
 - `INS-260403-E936` [medium] Chokepoint conflicts transmit economic damage primarily through commodity price spikes rather than shipping cost increases.
 - `INS-260330-CF10` [medium] Every existing civilization has survived every past catastrophe, creating systematic underestimation of civilizational fragility.
+- `INS-260412-C185` [medium] Three countries share 'Guinea' in their names because colonizers named the entire West African region Guinea, and post-independence nations inherited overlapping identifiers.
 - `INS-260322-823B` [medium] The convergence of GLP-1 normalization, declining medical trust, and biohacker culture is creating a 'Pharma 2.0' category where consumers self-direct injectable health optimization.
 - `INS-260330-F9C9` [medium] When billionaires capture regulatory systems, consumer economic pressure through boycotts becomes the primary remaining accountability mechanism.
 - `INS-260330-2718` [medium] If military action creates more terrorists than it eliminates, the strategy fails — conspicuous kindness breaks the cycle more effectively than force.
@@ -465,6 +476,7 @@
 - `INS-260403-DF45` [medium] Technology isolation can cause a rival's ecosystem to optimize for a smaller domestic market, permanently limiting its global competitiveness.
 - `INS-260403-A2FE` [medium] Total protectionism against Chinese EVs risks isolating the US auto industry from the global EV transition, cutting off export markets and stalling critical technology development.
 - `INS-260403-8E25` [medium] The U.S. leads in space with launch sites, talent, capital markets, and reusable launch technology, but history shows every transportation era's early winner eventually faces challengers who close the gap.
+- `INS-260412-9805` [medium] Angola leveraged simultaneous US and Chinese demand for oil to extract favorable terms from both while avoiding accountability pressure from either.
 - `INS-260409-EF00` [medium] California's wealth-tax proposal covers any billionaire who was a resident as of January 1st this year, so moving out afterward does not escape the tax.
 - `INS-260405-6EE5` [medium] Gulf investors are becoming structurally active in European pre-seed and early-stage deals, diversifying the European funding ecosystem beyond traditional US and local capital.
 - `INS-260327-1A9C` [medium] Rome's symbolic importance forced the Goths to commit their entire army to besiege it for over a year, while Belisarius needed only a small garrison to tie down 50,000 troops.
@@ -478,6 +490,7 @@
 - `INS-260404-8BC7` [medium] Japan's 21.3 trillion yen stimulus package has pushed JGB yields to post-2008 highs, raising fears of a repeat carry trade crisis.
 - `INS-260403-6570` [medium] Combining market access with joint venture requirements and local content incentives forces foreign companies to build domestic supply chains and transfer know-how — the same strategy China used to build its own manufacturing sectors.
 - `INS-260323-E74E` [medium] Kharg Island's strategic value extends beyond oil — it is the only viable western gateway for US ground force deployment into Iran, since eastern routes through Afghanistan/Pakistan are blocked by their own ongoing war.
+- `INS-260412-0C4C` [medium] Bolivia's 5,000-person navy and Mongolia's one-tugboat fleet exist as sovereignty assertions, not military assets.
 - `INS-260327-0C9F` [medium] Of the estimated 100,000 who started the First Crusade, only 12,000 reached Jerusalem — but those survivors were the toughest, most committed fighters who had been battle-tested over three years.
 - `INS-260405-5341` [medium] How third parties hedge their bets under rival pressure is a sharper signal of great-power military credibility than direct confrontations.
 - `INS-260403-E992` [medium] Economic flexibility, better monetary policy, and reduced oil dependence have cut the GDP and inflation impact of oil price spikes to roughly a third of 1970s levels.
@@ -517,6 +530,7 @@
 - `INS-260323-9B49` [medium] The advanced technology fab in Austin will have lithography mask making, chip fabrication, and testing all in one building — enabling a recursive design loop that Musk claims is an order of magnitude faster than anything else in the world.
 - `INS-260323-DE39` [medium] Musk argues Hamas's strategy was explicitly to provoke Israeli overreaction that rallies Muslims worldwide — meaning the game-theoretically optimal response is 'conspicuous acts of kindness' that deny the narrative.
 - `INS-260323-874F` [medium] The 1947 UN partition of Palestine — an international body proposing a democratic compromise that one side rejects — established a recurring pattern in modern geopolitical conflict resolution.
+- `INS-260412-F681` [medium] International condemnation of Bukele's methods reflects a disconnect between observers who've never lived under daily threat of gang murder and citizens who have, producing systematically different risk calculations.
 - `INS-260327-E314` [medium] Marshal Marmont became history's greatest traitor for surrendering Paris in 1814, even though Napoleon's cause was already lost — his name literally became the French word for betrayal.
 - `INS-260321-3808` [medium] When Japan's GDP reached ~70% of US GDP, the US forced the Plaza Accord and Japan stagnated for 35 years. When China's GDP reached ~70% of US GDP, the US initiated the trade/tech war. The pattern: hegemons don't let vassals surpass them.
 - `INS-260403-80D9` [medium] The 'Trump Always Chickens Out' trade paradoxically forces ever-larger provocations to generate the market pain that triggers retreat.
