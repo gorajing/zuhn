@@ -1,6 +1,6 @@
 # Topic: innovation
 
-> 132 insights
+> 134 insights
 
 - `INS-260405-EFC2` [high] C invented the curly-brace, semicolon syntax that now defines how billions of developers write code — its design choices became the assumed defaults of most successor languages.
 - `INS-260404-4320` [high] AI collapses experimentation costs across deeptech by replacing early-stage lab work with in-silico simulation.
@@ -8,6 +8,7 @@
 - `INS-260409-FDE9` [high] Alan Kay distinguishes pop culture (the conventional tech product practice) from research culture (deep engagement with foundational subject matter); Matuschak and Nielsen argue pop culture has been astoundingly successful at building businesses but cannot produce the Hindu-Arabic-numerals-level insights needed for transformative tools for thought.
 - `INS-260403-1750` [high] Startup success requires being right when everyone else is wrong, which demands aggressive independent-mindedness, not just passive nonconformity.
 - `INS-260404-A183` [high] Lisp wasn't designed to fix Fortran — it was designed to axiomatize computation, and that's precisely why its ideas proved more durable.
+- `INS-260412-23C8` [high] Banning genetic engineering research would drive it to jurisdictions with fewer safety guardrails, not eliminate it.
 - `INS-260403-F8AE` [high] Apple rarely invented iPhone features first but consistently delivered the best implementation, from multi-touch to facial recognition.
 - `INS-260403-1B15` [high] Business models expire faster than CEO tenures, forcing leaders to build systematic invention capabilities rather than ride a single model.
 - `INS-260405-F1A2` [high] Business plans presuppose knowledge that doesn't yet exist in early-stage innovation, making them a liability rather than a tool.
@@ -106,6 +107,7 @@
 - `INS-260405-3772` [medium] Java's flaws spawned Groovy, Clojure, Scala, Kotlin, and arguably JavaScript — more ecosystem value than most 'better' languages ever generated.
 - `INS-260404-09EE` [medium] Standard education systems optimize for convergent thinking, systematically destroying the creative capacity that innovation later demands.
 - `INS-260410-9B33` [medium] Research shows direct long-haul flight connections between cities increase cross-city idea flow more than internet connectivity — and the effect is strongest between culturally distant places.
+- `INS-260412-8CB2` [medium] The immune system's generate-random-then-cull strategy is more effective than designed immunity because the threat space is too vast to predict — the same applies to innovation in unpredictable markets.
 - `INS-260405-9DF5` [medium] Early testing is habit-forming — the first win creates momentum that refinement-first teams never build.
 - `INS-260404-277E` [medium] Startups bridging foodtech with other industries create defensibility through cross-vertical complexity.
 - `INS-260404-6394` [medium] Idea meritocracy — where ideas win over hierarchy — is a structural prerequisite for sustained organizational innovation.

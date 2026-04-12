@@ -1,6 +1,6 @@
 # Topic: physics-intuition
 
-> 85 insights
+> 86 insights
 
 - `INS-260330-CDF8` [high] Light's regularity means its full 3D state is determined by its values on any 2D boundary surface.
 - `INS-260330-12F9` [high] Firing one bullet underwater produces three visually distinct phenomena (Bernoulli cavitation, gas trail, shock vapor) that are invisible at normal speed but separable at 27,450 fps.
@@ -51,6 +51,7 @@
 - `INS-260330-7EFD` [high] Extending Schwarzschild's coordinates to their mathematical limits revealed white holes, parallel universes, and wormholes - none of which were anticipated.
 - `INS-260330-09F8` [high] Photons from the sun's fusion reactions excite electrons in chlorophyll, and the entire electron transport chain exists to convert that fusion energy into ATP and NADPH.
 - `INS-260409-7FC5` [high] You can't 'just drop' an antiproton to test gravity because electric forces dwarf gravity — neutral antiatoms are required, and those in turn are harder to contain.
+- `INS-260412-5ACD` [high] An orbit is not suspension against gravity but sideways motion fast enough that falling continuously misses the ground.
 - `INS-260330-300D` [high] Holograms work because they record phase via interference with a reference beam, while photographs only capture amplitude.
 - `INS-260325-A72C` [high] Physics succeeds by stripping everything to ideal cases (spherical cows) then adding complexity back — a strategy that works for physics but fails for psychology or biology.
 - `INS-260323-3E21` [high] Physics forces you beyond the limitation of human senses to develop intuitions that apply at different distances, scales, and ways of thinking — a meta-skill transferable to any complex domain.

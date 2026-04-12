@@ -1,6 +1,6 @@
 # Topic: growth
 
-> 110 insights
+> 111 insights
 
 - `INS-260404-1A9D` [high] When an AI product cuts process time by 92%, the switching cost of NOT adopting it exceeds the cost of change, driving organic product-led growth.
 - `INS-260330-73A2` [high] Growth equals conversion minus churn, and reducing churn by 1% has the identical mathematical effect on growth as increasing conversion by 1%, but costs significantly less.
@@ -109,6 +109,7 @@
 - `INS-260403-1115` [medium] Roll-up models applying acquisitions and AI to the $6T+ services market may produce larger outcomes than building new SaaS companies.
 - `INS-260402-C49E` [medium] Graham quantifies from running a forum that users were about 3x more likely to upvote content that outraged them, suggesting outrage amplification is structural to engagement-sorted platforms.
 - `INS-260330-7D6D` [medium] Telecom monopolies in Africa ensured quick universal adoption of mobile money by eliminating the fragmentation that plagues payment apps in competitive markets.
+- `INS-260412-DBA9` [medium] Quasi-stars may have served as temporary incubators — their own collapse feeding the black holes inside them for millions of years until the star was fully consumed.
 - `INS-260405-5755` [medium] 35 companies have now cracked $1B ARR, suggesting billion-dollar revenue follows replicable patterns worth studying.
 - `INS-260403-07D2` [medium] The Calvin Cycle produces 6 G3P molecules but must recycle 5 to regenerate starting materials, netting only 1 for actual plant growth.
 - `INS-260403-014D` [medium] Founders who empower aligned influencers to grow their own visibility create reinforcing distribution loops that compound over time.

@@ -53,9 +53,9 @@ stance: >-
 related:
   - INS-260330-FC6E
   - INS-260409-2E2B
+  - INS-260412-4AC2
   - INS-260409-9464
-  - PRI-260323-8E89
-  - INS-260323-527B
-  - INS-260323-15F4
+  - INS-260412-AB32
+  - INS-260412-D634
 ---
 Saul Perlmutter noted that Freedman's results suggest a tension within the star-based measurements themselves, before any comparison to the CMB. This is a different kind of problem than a clean disagreement between two methodologies. If the distance ladder's own rungs give different answers, the instrument-agnostic assumption — that you can bootstrap from parallax to Cepheids to Type Ia supernovae cleanly — may have a hidden bias that every telescope inherits. Note this is contested: Riess argues Freedman's supernova sample was small and potentially biased. But the possibility that a century-old calibration chain has internal inconsistencies invisible to any individual measurement is worth treating as a live hypothesis.

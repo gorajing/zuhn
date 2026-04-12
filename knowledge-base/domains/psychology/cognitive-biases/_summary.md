@@ -1,6 +1,6 @@
 # Topic: cognitive-biases
 
-> 318 insights
+> 320 insights
 
 - `INS-260326-163A` [very_high] Data quality dominates ML architecture just as install base and data gravity beat product design elegance in business -- what you've accumulated is the moat, not how you've arranged it.
 - `INS-260326-CA66` [very_high] Insulin resistance manifests as heart disease, diabetes, obesity, and dementia -- just as a misidentified business model manifests as churn, pricing problems, and sales failures.
@@ -14,6 +14,7 @@
 - `INS-260323-4E23` [high] What looks like intentional strategy in evolution is actually 'simple chemistry that happens to work well and propagates' -- the same applies to business success stories.
 - `INS-260330-FCFA` [high] True randomness clusters in ways humans perceive as non-random, so products must introduce artificial structure to satisfy our pattern-seeking minds.
 - `INS-260330-1319` [high] Apple had to make iTunes shuffle less random because true randomness produced clusters that felt intentional to users.
+- `INS-260412-2CD6` [high] The vaccine debate illustrates how evidence-based arguments inherently lose to emotional narratives because statistical reasoning can't compete with vivid anecdotes.
 - `INS-260330-318B` [high] Dressing salespeople as nurses exploits authority bias to bypass critical evaluation of claims.
 - `INS-260330-B08E` [high] Assigning equal prior probability to simulation and non-simulation scenarios, Bayesian averaging always yields sub-50% simulation probability because base reality persists in both branches.
 - `INS-260404-DBA8` [high] Both leftists and rightists got the multipolar world they wanted but not the version they expected.
@@ -134,6 +135,7 @@
 - `INS-260403-61A1` [high] Pundits invent complex explanations when a simpler one (charisma) already fits the data.
 - `INS-260403-9A8A` [high] After Creandum's 13x Fund II, they doubled down on paranoia rather than celebrating, citing Feynman's warning that the easiest person to fool is yourself.
 - `INS-260330-141E` [high] People systematically misrepresent their beliefs under social pressure, making public opinion appear more uniform than it actually is.
+- `INS-260412-FA41` [high] When vaccines eliminate visible disease, people compare rare vaccine side effects against a now-invisible threat, making vaccines seem riskier than the disease.
 - `INS-260330-8950` [high] WWII forced the question of whether Western industrial progress actually represents moral progress, revealing that advanced capability enables advanced destruction.
 - `INS-260329-55F7` [high] People trust their own conclusions far more than anything a salesperson tells them, so guide them to discover the answer rather than asserting it.
 - `INS-260330-C548` [high] Each moral compromise raises the psychological cost of reversing course, creating an escalation trap.

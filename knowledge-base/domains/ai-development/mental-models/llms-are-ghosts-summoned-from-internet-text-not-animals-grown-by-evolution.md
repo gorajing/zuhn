@@ -54,7 +54,6 @@ stance: >-
   intelligence-space and analogies from animal learning mislead LLM research.
 related:
   - INS-260323-1BF7
-  - INS-260325-CB41
   - INS-260403-141E
   - INS-260323-47D8
   - INS-260410-F985

@@ -52,12 +52,13 @@ stance: >-
   single feeding black hole was doing the brightness work of billions of suns,
   making the galaxy appear 10x more massive than it was.
 related:
-  - INS-260323-1F27
-  - INS-260330-F6B5
   - INS-260330-8625
   - INS-260409-2E2B
-  - INS-260323-76FE
-  - INS-260330-8429
-  - INS-260330-A7C6
+  - INS-260412-2316
+  - INS-260412-CFA6
+  - INS-260412-AB32
+  - INS-260412-640C
+  - INS-260412-4AC2
+  - INS-260412-644F
 ---
 The little-red-dots episode is a clean parable about proxy variables. Astronomers estimate galaxy mass from brightness because, for purely stellar systems, there is a reliable mass-to-light ratio. But the estimator silently assumes the light source — when a compact AGN dominates, the assumption breaks and the estimator is wrong by ~10x. The general lesson: every measurement technique has a hidden model of what it is measuring, and when conditions violate that hidden model (rare source types, new physics, instrumentation artifacts), the readout can be spectacularly wrong without any signal that something is off. Before treating a surprising measurement as revelation, ask what the estimator assumes and whether those assumptions hold in the regime being probed.

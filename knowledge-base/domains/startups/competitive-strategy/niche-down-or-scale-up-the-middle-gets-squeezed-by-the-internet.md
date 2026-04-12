@@ -60,7 +60,7 @@ related:
   - INS-260409-B4D0
   - INS-260330-09DE
   - PRI-260322-9E36
-  - PRI-260407-023B
+  - INS-260412-EF6C
 ---
 Brooks Running was a $60M everything-shoes company losing $5M/year in 2002. Jim Weber's turnaround was to cut product lines, blow up distribution, lay off half the revenue, and become only a performance running shoe company. Twenty years later, Brooks does $1.2B with 30-40% annual growth. The New York Times ran the opposite play: while every mid-sized newspaper went bankrupt, NYT scaled up to be one of a few global trusted news brands, justifying enormous fixed costs in reporting and technology.
 

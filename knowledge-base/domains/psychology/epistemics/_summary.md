@@ -1,22 +1,29 @@
 # Topic: epistemics
 
-> 42 insights
+> 54 insights
 
 - `INS-260409-F93A` [high] Galef argues accurate maps of the world should include explicit uncertainty markers and remain provisional — 'drawn in pencil, not pen' — because false precision creates psychological resistance to updating when better evidence arrives.
 - `INS-260411-8AEF` [high] AI 'knowledge' is statistical likelihood rather than justified belief, requiring a Bayesian rather than classical epistemic framework.
 - `INS-260405-5702` [high] Feed algorithms don't just show different opinions — they construct different facts for different population clusters.
+- `INS-260412-EED1` [high] Bacteria reproduce in 30 minutes versus months for humans, making direct competitive replication impossible — the immune system compensates with a pre-generated library of billions of defenses.
 - `INS-260405-0184` [high] Growing audiences for 2-4 hour deep-dive content disprove the shrinking attention span narrative — people crave depth when the content rewards sustained focus.
 - `INS-260410-A33F` [high] Argument, counterargument, rebuttal — but the rebuttal must come from a completely different angle than the original argument, or it's just repetition.
+- `INS-260412-4AC2` [high] We've catalogued millions of stars but have good data on only about two dozen black holes, with each measurement carrying large error bars from indirect observation and simplifying assumptions.
+- `INS-260412-94B2` [high] Burning paper doesn't destroy its information — it redistributes it across ash, smoke, and heat in a form that's theoretically reconstructable.
+- `INS-260412-61F8` [high] Stability feels like permanence because we lack sensory access to the rare events that shatter it.
 - `INS-260410-0775` [high] Chesterton's Fence is real — bitter cassava processing, food taboos, bow-making techniques encode causal logic that took centuries to evolve and that the people following them cannot explain.
 - `INS-260411-F649` [high] AI deployments should be segmented by epistemic risk tolerance: tolerate hallucinations for creative tasks, require grounding for decision support, and demand formal verification for autonomous execution.
 - `INS-260405-4693` [high] History uniformly shows that every era had forbidden truths; assuming ours is different requires extraordinary evidence.
 - `INS-260410-831F` [high] The Inquisition ignored Voltaire and the Encyclopédie to throw the book at Jansenist treatises about the Trinity — and Palmer says this pattern holds in every era she studies.
 - `INS-260410-8E0D` [high] Paine repeatedly tells Dwarkesh his questions are 'above my pay grade' — she can describe what the Japanese leadership faced, but can't say what was politically feasible for FDR without having served in government.
+- `INS-260412-2E7D` [high] Cosmic expansion will eventually erase all evidence of other galaxies, making the Big Bang undiscoverable to future civilizations.
 - `INS-260405-1CAA` [high] You know what you believe but rarely why you believe it — the source code is gone.
 - `INS-260409-3FDE` [high] Contributor gizmax reproduced MemPalace's 96.6% LongMemEval R@5 on M2 Ultra in under 5 minutes using the public benchmark scripts — that reproduction is exactly what forced the retraction of the other overclaims by making ground truth reviewable.
+- `INS-260412-37B2` [high] The same atoms arranged differently produce coal, diamond, banana, or squirrel — identity is pure pattern.
 - `INS-260409-2E2B` [high] Katherine Chworowski's 2024 re-analysis showed that many 'too-massive' early galaxies were little red dots whose central black holes were doing the brightness work of billions of suns, inflating apparent stellar mass; once removed, the sample fit the standard model with only a mild residual.
 - `INS-260409-1D16` [high] Roswell got famous decades after it happened, because Watergate taught Americans that governments lie.
 - `INS-260409-5E35` [high] Quantum mechanics almost never supports the mystical claims it gets invoked to support.
+- `INS-260412-D634` [high] The largest stars are solar-system-sized behemoths blowing themselves apart, making precise measurement nearly impossible and rankings unstable.
 - `INS-260409-A0D7` [high] 'UFO' bakes in 'flying object'; UAP opens the door back up to atmospheric optics and instrument artifacts.
 - `INS-260405-2B3F` [high] Treating survey non-response as randomly missing data produces systematically wrong estimates whenever the stigmatized view is also the under-reported one.
 - `INS-260405-F7FA` [high] All else being equal, bet against the explanation where you are the protagonist.
@@ -24,12 +31,15 @@
 - `INS-260409-42F7` [high] Within 48 hours of the MemPalace launch, maintainers Milla Jovovich and Ben Sigman wrote a public 'What we got wrong' section admitting four specific overclaims and shipped fixes — a level of intellectual honesty that product marketing incentives rarely allow.
 - `INS-260410-81DC` [high] Prout's atomic-weight hypothesis was correct but looked falsified for 85 years until isotopes were discovered; science progresses by protecting theories against their own current evidence.
 - `INS-260409-5CD4` [high] Julia Galef: 'Scout Mindset is the motivation to see what's really there and not just what you wish was there' — distinguishing it from soldier mindset where beliefs are defended against threatening evidence through rationalization, denial, and motivated reasoning.
+- `INS-260412-3C64` [high] We default to simpler models not because they're better but because they're solvable, creating blind spots where reality diverges most.
 - `INS-260410-B507` [high] The archives declassified after the Soviet collapse showed that 'the Nazis were Nazis and the communists were communists' — the interrogators, torturers, and twenty-five-thousanders believed they were building a new world, even when they knew specific victims were innocent.
 - `INS-260409-A8F4` [high] You cannot infer velocity from one photograph, no matter how good the shutter metadata is.
+- `INS-260412-5E11` [high] Black hole singularities with infinite density likely don't exist — they mark where general relativity's equations stop working, not where physics actually goes to infinity.
 - `INS-260411-7F4F` [high] Aleatoric uncertainty (irreducible noise), epistemic uncertainty (knowledge gaps), and ontological uncertainty (ambiguous concepts) each demand different mitigation strategies.
 - `INS-260409-BF3F` [high] In a field where measurements are routinely precise to ~1%, an 8-9% gap between two independent methods is not a rounding error — it is a crisis exactly because precision grew faster than the gap closed.
 - `INS-260409-0206` [high] The gap between 'unexplained' and 'aliens' is a logical leap people make far too quickly.
 - `INS-260405-D3D7` [high] You cannot use a biased yardstick to measure whether the selection was biased.
+- `INS-260412-2316` [high] Supermassive black holes are only 0.001% of galaxy mass — dark matter, not the visible anchor, holds galaxies together.
 - `INS-260409-9464` [high] JWST was expected to resolve the Hubble tension by cleaning up stellar crowding in Cepheid measurements; instead it confirmed Hubble's 73 km/s/Mpc nearly exactly, eliminating 'measurement error' as an escape hatch and forcing attention onto the standard model itself.
 - `INS-260409-55F6` [medium] Asymmetric epistemic standards — trusting convergence in physics but dismissing it in phenomenology — need to be justified, not assumed.
 - `INS-260409-3BC9` [medium] Galef: 'There are things in that intersection where you can make yourself feel better without having to resort to telling yourself a lie' — the honest-comforting intersection almost always has something in it, but people jump to self-deception without looking for it.
@@ -41,7 +51,9 @@
 - `INS-260409-B704` [medium] Galef acknowledges that while scout thinking helps with happiness, self-awareness, and decision quality, determining what scouts should believe about religion, politics, or complex policy remains genuinely difficult — scout mindset is not a magic oracle and not all issues have discoverable answers.
 - `INS-260409-A62B` [medium] Galef: 'Those are mental and emotional habits; and I think training those habits through repeated practice is quite important' — scout thinking transfers from ideologically low-stakes domains (politics you don't care about, arguments you aren't emotionally invested in) to high-stakes personal decisions where accuracy actually matters.
 - `INS-260409-A239` [medium] Treating your current self-model as untrustworthy is a generative stance when paired with willingness to act on better evidence, not a paralysis.
+- `INS-260412-404F` [medium] Terraforming Venus requires no new physics — just thin foil mirrors, mass drivers, and cyanobacteria deployed at extraordinary scale.
 - `INS-260409-AD3B` [medium] Galef: 'I hate waste... there's all of this unnecessary waste happening where people are leaving value on the table' — the case for scout thinking is efficiency, not morality. Sacrificing accuracy for comfort has compounding costs across thousands of life decisions that usually exceed the emotional benefit.
 - `INS-260409-D603` [medium] Freedman's 2024 JWST analysis produced ~68-70 from red giants and JAGB stars but ~72 from Cepheids using the same telescope — an internal disagreement that suggests the problem may be in the distance ladder's calibration assumptions, not in the comparison to the CMB.
+- `INS-260412-0025` [medium] Modern humans have existed for 0.1% of dinosaur reign duration, yet our survival instincts are calibrated to threats on human timescales, not civilizational ones.
 - `INS-260410-2623` [medium] In censored societies, the binding constraint isn't private information — it's the inability to coordinate on what 'everyone knows everyone knows.'
 

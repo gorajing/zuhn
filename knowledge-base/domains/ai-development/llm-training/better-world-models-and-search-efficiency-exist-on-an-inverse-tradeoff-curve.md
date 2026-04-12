@@ -48,9 +48,9 @@ stance: >-
 related:
   - INS-260328-C246
   - INS-260408-C572
+  - INS-260412-3C64
   - PRI-260328-A82C
   - INS-260322-5790
-  - PRI-260405-B144
   - INS-260403-1432
 evidence:
   - id: INS-260322-5790

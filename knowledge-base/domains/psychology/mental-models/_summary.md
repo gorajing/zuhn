@@ -1,6 +1,6 @@
 # Topic: mental-models
 
-> 88 insights
+> 94 insights
 
 - `INS-260409-3138` [high] Computers are fully explainable bottom-up from electricity through logic gates to instructions — there is no magical layer, only layers of abstraction humans haven't personally traversed.
 - `INS-260330-420B` [high] Three competing theories for the Indus Valley's decline each tell a confident story from the same absence of evidence, revealing how humans handle epistemic gaps.
@@ -42,6 +42,7 @@
 - `INS-260403-D2FD` [high] The electron transport chain extracts energy through four sequential protein complexes rather than one step, a pattern that applies to any value-extraction system.
 - `INS-260405-BEA7` [high] Photosynthesis is 450 million years old, described as 'complicated, inefficient and confusing'—yet it powers virtually all life on Earth.
 - `INS-260330-E068` [high] The Calvin Cycle produces 6 G3P molecules but must reinvest 5 to regenerate — only 1/6 of gross output is net output.
+- `INS-260412-26A4` [high] Venus's atmosphere shows zero visible change for 60 years of cooling, then CO2 liquefies all at once in a 30-year global rainstorm.
 - `INS-260409-16CF` [high] To make the 1/8 gram antimatter bomb from 'Angels and Demons,' CERN would need to run for longer than the age of the universe.
 - `INS-260405-D606` [high] Getting the problem statement right is not preliminary work — it is the core intellectual work.
 - `INS-260409-D66D` [high] GBAR's positron moderator keeps 1 in 1000 — a 0.1% yield — yet builds a usable 100M-positron cloud by simply accumulating over minutes.
@@ -49,6 +50,7 @@
 - `INS-260330-64D8` [high] If you add something that makes a problem easier, redefine the entire problem in terms of what you added.
 - `INS-260403-6EA0` [high] Thinking in specific causal chains rather than vague decline narratives is both more accurate and more psychologically sustainable.
 - `INS-260330-814E` [high] WWII's unprecedented destruction came not from unprecedented hatred but from unprecedented industrial capacity to act on ordinary human impulses at scale.
+- `INS-260412-DB5A` [high] Supermassive stars blow away their own fuel through radiation pressure, capping formation at ~150 solar masses despite available gas.
 - `INS-260330-4D0E` [high] PSII contains at least 99 chemicals coordinated to achieve a single task: transferring one excited electron to a carrier molecule.
 - `INS-260330-24B6` [high] A single gunshot underwater produces three physically independent phenomena (cavitation, gas trail, shock vapor), each governed by different equations.
 - `INS-260330-A260` [high] JavaScript handles concurrency on a single thread by using an event loop to schedule callbacks, proving parallelism isn't required for concurrent I/O.
@@ -79,13 +81,17 @@
 - `INS-260330-1953` [medium] Underwater bubbles oscillating and collapsing under Rayleigh-Plesset dynamics concentrate enough energy to produce light (sonoluminescence), demonstrating how oscillating collapse amplifies small inputs into extreme outputs.
 - `INS-260409-0584` [medium] A 2025 Bayesian phylogenetic model by Jordan Douglas detected saltative branching — rapid evolutionary leaps at speciation nodes followed by long stability — across enzymes, cephalopod body shapes, and Indo-European languages, validating punctuated equilibrium theory.
 - `INS-260409-BB40` [medium] Douglas's saltative branching model revealed that extinct evolutionary branches leave mathematical footprints on surviving lineages — the dead-end paths still shape what survived, even when invisible to direct observation.
+- `INS-260412-EF6C` [medium] The Local Group's ~54 galaxies and trillion stars represent humanity's absolute maximum territory, reframing the question from limitless expansion to optimal utilization.
 - `INS-260409-F4E0` [medium] Cosmology has been at this exact epistemic junction before — the 1990s stellar-age contradiction looked fatal until the accelerating-expansion discovery retroactively made sense of it, and most physics crises follow the same pattern of appearing to be endings but turning out to be doors.
 - `INS-260403-45E3` [medium] Classical virtue ethics focused on character over action because its audience had no real choice about what to do with their lives.
+- `INS-260412-8C32` [medium] Stars reach their maximum physical size only after exhausting core hydrogen and entering a dying giant phase — adding more mass to a living star doesn't work.
 - `INS-260409-3E53` [medium] CERN's BASE team built a portable antimatter trap — not because CERN couldn't do more experiments, but because background magnetic noise at CERN itself capped precision.
 - `INS-260330-9BC3` [medium] A vacuum cannon works by combining negative pressure (vacuum) with positive pressure across a sealed boundary — the differential produces forces neither side could generate alone.
+- `INS-260412-E146` [medium] The information paradox was resolved by asking 'what do black holes do with information in the meantime' instead of debating whether it's lost or preserved at the end.
 - `INS-260402-1F58` [medium] The real question is not 'patents or freedom' but 'patents or secrecy'—and secrecy's historical track record is far worse.
 - `INS-260403-9E31` [medium] The gangsterism lens — treating governance as mafia-style personal power projection — reliably predicts which institutions will be targeted and how.
 - `INS-260403-6AD0` [medium] A photon takes millions of years bouncing randomly inside a star before escaping — a powerful metaphor for progress through complex, opaque systems.
+- `INS-260412-DBD1` [medium] The Roche limit — where tidal forces exceed self-gravity and a body disintegrates — maps onto any system where proximity to a dominant force tears apart internal bonds.
 - `INS-260404-A2F0` [medium] Some identities like 'scientist' function as anti-identities — they commit you to following evidence rather than defending conclusions.
 - `INS-260330-5958` [medium] 64% of Singaporeans said economic development matters more than democracy — revealing a transactional relationship where support is rented, not owned, and can be withdrawn when delivery falters.
 - `INS-260409-1AA0` [medium] One deliberate trip down the stack permanently changes how you reason about every layer above it — depth compounds.

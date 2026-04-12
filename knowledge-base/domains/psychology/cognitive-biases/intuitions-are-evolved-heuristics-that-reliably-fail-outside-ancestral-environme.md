@@ -51,9 +51,9 @@ stance: >-
 related:
   - INS-260330-3B05
   - INS-260330-4634
+  - INS-260412-0025
   - INS-260325-DFA5
   - INS-260410-67D5
-  - INS-260410-06DB
 evidence:
   - id: INS-260404-D452
     type: TRANSFERS_TO

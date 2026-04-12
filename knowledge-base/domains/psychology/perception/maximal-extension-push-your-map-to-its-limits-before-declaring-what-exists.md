@@ -48,7 +48,6 @@ related:
   - PRI-260407-684A
   - PRI-260325-EEE9
   - INS-260323-1302
-  - INS-260330-1509
   - INS-260330-DEF7
 stance: >-
   The simplest solution to Einstein's equations already contained black holes,

@@ -55,7 +55,6 @@ stance: >-
   disprove a first cause or non-benevolent creator.
 related:
   - INS-260323-D4B1
-  - INS-260325-BF44
   - INS-260323-38EC
   - INS-260322-13D6
   - INS-260325-D680
@@ -64,6 +63,7 @@ related:
   - INS-260323-7D90
   - INS-260325-CB41
   - INS-260325-1E0B
+  - INS-260325-E19E
 evidence:
   - id: INS-260323-38EC
     type: TRANSFERS_TO

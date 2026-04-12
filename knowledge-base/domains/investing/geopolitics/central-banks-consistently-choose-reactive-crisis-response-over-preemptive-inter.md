@@ -56,8 +56,8 @@ related:
   - INS-260327-C68B
   - INS-260330-7106
   - INS-260330-9BB5
+  - INS-260412-A944
   - INS-260330-8BB4
-  - INS-260404-B661
 ---
 From the Great Depression through the 2008 financial crisis and COVID-19, the Federal Reserve has consistently opted to address the aftermath of financial excess rather than intervene preemptively. Greenspan explicitly chose not to act on 'irrational exuberance' in 1996, instead cutting rates after the dot-com bust. The 2008 response introduced ZIRP and QE; COVID extended QE to junk bonds — each crisis requiring more extreme tools than the last.
 

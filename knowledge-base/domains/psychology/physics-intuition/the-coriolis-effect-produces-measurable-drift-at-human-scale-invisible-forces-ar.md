@@ -52,7 +52,6 @@ stance: >-
   field-goal distance, proving that forces we dismiss as negligible at human
   scale actually accumulate into real effects
 related:
-  - INS-260330-FC6E
   - INS-260330-D7CD
   - INS-260405-D3B5
   - INS-260330-80A2

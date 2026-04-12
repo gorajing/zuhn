@@ -71,6 +71,7 @@ related:
   - INS-260410-1AF0
   - PRI-260325-3A00
   - PRI-260328-5989
+  - INS-260412-A9A9
 ---
 Church directly counsels his gene therapy companies to avoid rare diseases and focus on common/age-related conditions because rare recessives already have a cheaper, more effective solution: preconception genetic counseling. The Dor Yeshorim community program has run this since 1985 with clear success. At ~$100 per genome, screening is less than zero-cost after accounting for averted lifetime caregiving, medical, and opportunity costs — at least 10x ROI, which he calls 'a no brainer from a public health standpoint.'
 

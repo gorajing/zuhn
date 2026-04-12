@@ -48,11 +48,11 @@ stance: >-
   Disruptive products must outperform incumbents on the incumbents' own metrics
   before the market will take broader claims seriously.
 related:
+  - INS-260412-FA41
+  - INS-260412-CDDC
+  - INS-260412-8CB2
   - INS-260402-086D
   - INS-260403-B255
-  - INS-260322-3A00
-  - INS-260405-4AAD
-  - INS-260321-CCE3
 evidence:
   - id: INS-260330-7E97
     type: CHALLENGES

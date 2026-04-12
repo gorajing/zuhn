@@ -47,7 +47,6 @@ stance: >-
   piece regardless of the others.
 related:
   - INS-260323-0780
-  - INS-260325-5692
   - INS-260323-C0BD
   - INS-260329-CCDE
   - INS-260329-EC78
@@ -56,6 +55,7 @@ related:
   - INS-260403-2245
   - INS-260410-3043
   - PRI-260406-69FC
+  - INS-260329-33D4
 evidence:
   - id: INS-260322-3537
     type: TRANSFERS_TO

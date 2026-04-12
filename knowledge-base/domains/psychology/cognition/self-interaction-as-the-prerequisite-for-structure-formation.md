@@ -53,8 +53,8 @@ related:
   - INS-260323-76FE
   - INS-260330-833E
   - INS-260330-2E54
+  - INS-260412-2316
   - INS-260330-8429
-  - INS-260323-9F38
 ---
 Tyson explains that dark matter is diffusely spread across the universe rather than concentrated because its particles don't interact with one another. Normal matter forms planets, stars, and galaxies because atomic and molecular bonds allow particles to accumulate and create concentrated structures. Without self-interaction, you just get an undifferentiated zone of mass.
 

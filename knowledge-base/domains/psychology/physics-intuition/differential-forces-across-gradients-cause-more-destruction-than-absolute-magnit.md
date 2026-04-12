@@ -53,10 +53,10 @@ stance: >-
   absolute gravity, cause spaghettification
 related:
   - INS-260330-1509
+  - INS-260412-C1EC
+  - INS-260412-5E11
+  - INS-260412-2316
   - INS-260323-849E
-  - INS-260323-9F38
-  - INS-260330-A149
-  - INS-260330-04F9
 ---
 Spaghettification occurs because gravity near a singularity varies enormously over short distances. Parts of your body closer to the singularity experience dramatically stronger pull than parts farther away. This differential — not the absolute force — is what stretches and destroys matter.
 

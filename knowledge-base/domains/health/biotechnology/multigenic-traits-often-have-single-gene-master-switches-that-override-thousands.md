@@ -64,10 +64,10 @@ stance: >-
 related:
   - INS-260323-8F70
   - INS-260404-07C3
+  - INS-260412-812C
   - INS-260330-E660
   - INS-260404-B6E8
   - PRI-260325-E271
-  - INS-260410-1AF0
 ---
 GWAS typically attributes complex traits like height to thousands of small-effect loci, suggesting that modifying them requires editing most of the genome. Church argues this picture is misleading: growth hormone alone produces extreme stature variation and is used clinically for seven treatments. Similarly, a single transcription factor can often convert a stem cell into a specific neuron type. Biology is forgiving because development runs at a 'high programming level' where small rule changes cascade into large morphological differences.
 

@@ -49,7 +49,6 @@ stance: >-
   goal focus — which explains why it's rare and why partial versions fail.
 related:
   - INS-260330-DA0B
-  - INS-260330-1B74
   - PRI-260406-69FC
   - PRI-260325-A95E
   - INS-260403-E8DD

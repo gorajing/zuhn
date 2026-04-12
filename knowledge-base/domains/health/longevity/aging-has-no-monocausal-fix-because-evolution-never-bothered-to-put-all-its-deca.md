@@ -68,9 +68,9 @@ stance: >-
 related:
   - INS-260325-5501
   - INS-260410-BE5A
+  - INS-260412-79FE
   - PRI-260325-2800
   - INS-260325-E8BC
-  - INS-260403-E492
 ---
 Kimmel pushes back explicitly on longevity proponents who frame aging as having a single master switch. The evolutionary argument that explains why evolution didn't fix aging also implies aging is multi-causal: if aging were monocausal, even weak selection pressure (because occasionally a grandparent's extra years did help propagate genes) would have partially addressed it. The persistence of aging across all complex metazoans argues the causes are distributed across many molecular layers — epigenetic drift, proteostasis, metabolic dysfunction, clonal dynamics, extracellular matrix decay, etc.
 

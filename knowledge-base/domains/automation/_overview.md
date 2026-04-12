@@ -1,6 +1,6 @@
 # Domain: automation
 
-> 34 insights across 7 topics
+> 36 insights across 7 topics
 
 ## Topics
 
@@ -12,4 +12,4 @@
 | n8n-workflows | 9 | Full pipeline: search query to scrape 100+ profiles, extract data, pull company info, AI-generate personalized opener, export to Google Sheets. |
 | pipelines | 1 | Sequential pipelines need periodic energy re-injection to sustain throughput, not just extraction at each stage. |
 | robotics | 2 | Structured environments like factory floors let humanoid robots learn fast and fail cheaply before tackling complex unstructured domains. |
-| self-improving-systems | 5 | Replace subjective 'rate 1-10' evals with binary yes/no questions (e.g., 'Does the hook describe a result, not a feature?') to make optimization machine-readable and eliminate subjectivity. |
+| self-improving-systems | 7 | Replace subjective 'rate 1-10' evals with binary yes/no questions (e.g., 'Does the hook describe a result, not a feature?') to make optimization machine-readable and eliminate subjectivity. |

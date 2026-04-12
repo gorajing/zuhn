@@ -52,11 +52,10 @@ stance: >-
   toxicology problem.
 related:
   - INS-260327-B8E7
-  - INS-260327-61F5
-  - INS-260330-96FE
   - INS-260330-9733
-  - INS-260330-2A6A
   - INS-260330-FD7C
+  - INS-260330-2A6A
+  - INS-260327-61F5
   - INS-260327-9EC4
 ---
 Tattoo ink is surprisingly unregulated in most countries, and many inks contain heavy metals: red pigments may include mercury sulfide, yellow pigments cadmium sulfide, and green pigments chromium compounds. Because the ink particles are trapped permanently in the dermis (they're too large for immune clearance), these metals represent a lifetime of low-level exposure at the injection site.

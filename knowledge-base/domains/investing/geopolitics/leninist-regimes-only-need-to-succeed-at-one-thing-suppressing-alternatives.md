@@ -65,7 +65,6 @@ stance: >-
   all political alternatives.
 related:
   - INS-260323-6A05
-  - INS-260323-75A8
   - INS-260330-03A9
   - INS-260403-4D45
   - INS-260403-2A50

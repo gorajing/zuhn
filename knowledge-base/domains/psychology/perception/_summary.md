@@ -1,6 +1,6 @@
 # Topic: perception
 
-> 304 insights
+> 306 insights
 
 - `INS-260325-6AE7` [very_high] Perfect squares become vanishingly rare as numbers grow — 'almost no' numbers are perfect squares — yet there are infinitely many of them, perfectly predictably located.
 - `INS-260325-0921` [very_high] The Collatz sequence's logarithmic behavior matches geometric Brownian motion — a stock-market-like random walk emerging from a fully deterministic rule.
@@ -89,6 +89,7 @@
 - `INS-260327-A40E` [high] Brands with decades of cultural presence command premiums based on accumulated social proof, family tradition, and aspir
 - `INS-260330-E4AD` [high] High-frequency waves dissipate faster than low-frequency ones, meaning distance acts as a natural low-pass filter on all wave-based information.
 - `INS-260403-4502` [high] Processes too fast for human perception contain mechanical structure only revealed through time-stretching observation tools.
+- `INS-260412-644F` [high] A black hole with solar mass lives 10^67 years; the video admits 'there is no good concept to help our brains grasp these time scales.'
 - `INS-260327-A3A2` [high] Humanity's technological power to affect planetary-scale change has grown exponentially while the wisdom to wield it has barely improved since ancient philosophy.
 - `INS-260327-8E9B` [high] When food choices become identity markers, consumers evaluate products based on tribal affiliation rather than taste, cr
 - `INS-260327-538D` [high] Indigenous peoples have accumulated millennia of ecological knowledge through direct observation that Western science is only now catching up to through formal methods.
@@ -192,6 +193,7 @@
 - `INS-260323-518A` [high] The giant impact hypothesis became the leading Moon origin theory not because it was proven, but because it was 'the least bad' option — a pattern where scientific and business consensus defaults to the best available story even when it has known fatal flaws.
 - `INS-260325-D82A` [high] Psychopathy's defining feature is 'The Mask of Sanity' — an outwardly normal, charming exterior concealing profound deficits in emotion and genuine caring about others.
 - `INS-260323-0865` [high] SLAC researchers get most excited when simulated electron behavior diverges from experimental measurements — the gap is where new physics lives.
+- `INS-260412-CFA6` [high] We can observe galaxies whose light was emitted when they were closer, but they are now permanently beyond reach — seeing is not the same as accessing.
 - `INS-260325-1EB3` [high] Reactionary influencers tell boys 'nobody wants you to watch my content' -- slamming the laptop shut proves their point, while curiosity and real-world male role models provide the actual antidote.
 - `INS-260327-691F` [high] Every astronaut who has seen Earth from space reports the same thing: borders, conflicts, and individual concerns become absurd when you see the whole planet as one fragile system.
 - `INS-260325-216D` [high] The wavy walls and pretty colors are the trivial part of psychedelics — the therapeutic mechanism is the dissolution of identity and self-definition that allows people to reframe their entire life narrative.

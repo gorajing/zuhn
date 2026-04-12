@@ -51,7 +51,6 @@ stance: >-
   from novel strategies but from maintaining simple operational systems
   consistently over years while competitors abandon them.
 related:
-  - INS-260323-E81D
   - INS-260329-E078
   - INS-260330-7D83
   - INS-260330-09AD

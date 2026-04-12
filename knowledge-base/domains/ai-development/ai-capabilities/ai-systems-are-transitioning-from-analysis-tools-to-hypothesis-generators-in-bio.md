@@ -56,10 +56,10 @@ stance: >-
   then validate experimentally.
 related:
   - INS-260330-C761
+  - INS-260412-A5C4
   - INS-260323-8519
   - INS-260403-B1F2
-  - INS-260403-62B2
-  - INS-260327-CFD5
+  - INS-260412-8CB2
 ---
 Google DeepMind's C2S-Scale 27B model, built with Yale researchers, generated an unexpected insight into how tumors evade immune detection — specifically suggesting a mechanism to convert 'cold' tumors (invisible to the immune system) into 'hot' ones responsive to immunotherapy. When tested in living cells, the approach produced roughly a 50% increase in antigen presentation.
 

@@ -1,9 +1,9 @@
 # Tag: exercise
 
-- `INS-260409-6B22` Sprint performance is a clean mitochondrial-capacity biomarker and sprinting itself is an underprescribed longevity protocol.
 - `INS-260330-A33F` Fat leaves the body as CO2 through exhalation; any exercise that increases respiration rate equally drives fat loss.
 - `INS-260327-E8A4` Functional mobility training with 5 simple exercises maintains leanness and flexibility without gym equipment
 - `INS-260323-3ED8` Rotating between heavy lifting and lighter/higher-rep training in 3-month cycles gives joints rest and changes hormonal cascades that directly affect cognitive performance.
+- `INS-260409-6B22` Sprint performance is a clean mitochondrial-capacity biomarker and sprinting itself is an underprescribed longevity protocol.
 - `INS-260330-45D9` Exercise helps maintain weight loss mainly by making your brain more responsive to fullness signals, not by burning significant calories.
 - `INS-260330-1078` High-intensity exercise burns glycogen during activity but triggers elevated fat oxidation for up to 24 hours afterward, making post-exercise metabolism the bigger lever for fat loss.
 - `INS-260325-3306` Posture is fixed by strengthening weak posterior muscles not stretching tight ones — results are visible within minutes.

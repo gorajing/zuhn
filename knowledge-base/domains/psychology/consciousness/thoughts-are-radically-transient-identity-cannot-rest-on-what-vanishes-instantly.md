@@ -50,9 +50,9 @@ stance: >-
 related:
   - INS-260323-CA1F
   - INS-260404-21B2
+  - INS-260412-61F8
   - INS-260330-9743
   - INS-260323-BEF0
-  - INS-260403-D2A5
 evidence:
   - id: INS-260323-BEF0
     type: TRANSFERS_TO

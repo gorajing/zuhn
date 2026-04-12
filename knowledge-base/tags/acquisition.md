@@ -1,6 +1,5 @@
 # Tag: acquisition
 
-- `INS-260403-5843` Acquirers behave like Benjamin Graham's Mr. Market — manic-depressive cycles of overpaying and ignoring, averaging out only over multi-year windows.
 - `INS-260329-0DA4` An existing business with customers and cash flow can fund its own acquisition — a startup cannot.
 - `INS-260320-39A3` Shelter your team and family from acquisition signal-to-noise until the wire hits — deals fall apart in the last week, and premature sharing creates damaging anxiety.
 - `INS-260403-0FEC` Public company acquisitions function as pooled-risk management services for founders seeking freedom and security.
@@ -15,3 +14,4 @@
 - `INS-260404-F589` Large-scale exits increasingly reward companies with defensible go-to-market strategies over pure product innovation.
 - `INS-260404-A15B` Incumbents reject better technology when the status quo is irrationally profitable.
 - `INS-260330-98EA` The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples.
+- `INS-260403-5843` Acquirers behave like Benjamin Graham's Mr. Market — manic-depressive cycles of overpaying and ignoring, averaging out only over multi-year windows.

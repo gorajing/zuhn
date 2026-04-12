@@ -7,6 +7,7 @@
 - `INS-260403-0479` Robert Morris's strategy of never saying anything unless fairly sure of it made him essentially never wrong — not through omniscience but through careful qualification.
 - `INS-260330-B711` Shared precise vocabulary is a coordination technology that enables complex collaborative action in high-stakes domains.
 - `INS-260403-6652` Writing demands more rigor than talking because less can go unsaid and you lose the crutch of tone and shared context.
+- `INS-260412-D634` The largest stars are solar-system-sized behemoths blowing themselves apart, making precise measurement nearly impossible and rankings unstable.
 - `INS-260329-579D` The limit operation is the conceptual bridge that transforms approximate finite calculations into exact infinite-process results.
 - `INS-260409-E73C` GBAR builds a positronium converter and elaborate ion cooling just to make fewer antihydrogen atoms than ALPHA-g — because ALPHA-g's 0.5K is 50,000x too warm for 1% gravity precision.
 - `INS-260402-2C6B` Everyday words work fine in normal use but produce meaningless disputes when pushed into abstract territory, because they lack precise definitions.

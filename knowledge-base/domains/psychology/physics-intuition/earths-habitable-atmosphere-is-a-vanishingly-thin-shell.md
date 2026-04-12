@@ -51,9 +51,9 @@ related:
   - INS-260409-0A28
   - INS-260409-C25D
   - INS-260325-1709
+  - INS-260412-26A4
   - INS-260330-85AA
   - INS-260409-D170
-  - INS-260409-8908
 ---
 In Artemis II's long-exposure dark-side Earth image, the breathable atmosphere and the cloud layer blur into a single thin shell against the curve of the planet. Earth's radius is ~6,371 km; the troposphere where weather and breathable air exist is roughly 10 km thick. That's about 0.16% of the radius. At the scale of the globe, our entire life-support system is thinner than the lacquer on a basketball.
 

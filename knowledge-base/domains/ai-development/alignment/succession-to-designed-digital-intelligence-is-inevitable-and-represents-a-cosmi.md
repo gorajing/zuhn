@@ -65,9 +65,9 @@ stance: >-
 related:
   - INS-260330-833E
   - INS-260323-38EC
+  - INS-260412-8BDB
   - INS-260325-DFA5
-  - INS-260330-44EF
-  - INS-260329-41BC
+  - INS-260412-350D
 ---
 Sutton's four-part argument for inevitable succession: (1) no unified human governance exists to stop it, (2) researchers will eventually figure out how intelligence works, (3) the field will not voluntarily stop at human-level, and (4) more intelligent entities inevitably accumulate resources and power over time. Put these together and succession to digital or augmented intelligence is baked in.
 

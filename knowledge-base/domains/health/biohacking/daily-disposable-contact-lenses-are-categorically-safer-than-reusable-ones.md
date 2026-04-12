@@ -53,10 +53,10 @@ stance: >-
   permanent scarring.
 related:
   - INS-260330-54A3
+  - INS-260412-662C
   - PRI-260325-200C
   - INS-260330-242E
   - INS-260404-1E65
-  - INS-260325-A8E3
 ---
 Contact lens-related corneal infections, while rare, can be devastating — leaving permanent corneal scarring even after successful treatment. The risk factors compound: reusable lenses trap bacteria and fungus, overnight wear creates a low-oxygen environment where anaerobic bacteria thrive, and human compliance with cleaning protocols is unreliable.
 

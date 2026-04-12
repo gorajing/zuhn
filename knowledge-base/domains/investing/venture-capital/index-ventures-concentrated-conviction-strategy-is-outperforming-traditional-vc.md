@@ -57,6 +57,7 @@ related:
   - INS-260405-2F43
   - PRI-260407-40F9
   - INS-260403-839E
+  - INS-260412-2F0C
 ---
 Index Ventures is already realizing $11 billion in returns from companies like Figma, Wiz, and Scale AI—while most VC firms are still waiting for exits. The newsletter argues Index is becoming 'the new Sequoia' by backing category-defining companies with high conviction and riding them to massive outcomes.
 

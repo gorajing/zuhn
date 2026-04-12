@@ -54,10 +54,10 @@ related:
   - INS-260323-9F38
   - INS-260323-72EB
   - INS-260323-7F5D
-  - INS-260330-E990
   - INS-260330-86A7
   - INS-260330-1114
   - INS-260330-D7CD
+  - INS-260330-D17A
 stance: Einstein showed that gravity is not a force at all
 evidence:
   - id: INS-260323-2D1D

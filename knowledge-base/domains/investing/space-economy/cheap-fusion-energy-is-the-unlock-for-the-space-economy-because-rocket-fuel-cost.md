@@ -57,5 +57,6 @@ related:
   - INS-260402-5C89
   - INS-260405-9E7D
   - INS-260410-0ECA
+  - INS-260412-94BD
 ---
 Hassabis paints a 50-year sci-fi trajectory inspired by Iain Banks' Culture series: solve fusion via AI-assisted research, get pretty-much-free clean energy, then 'we can just make infinite rocket fuel out of seawater because we have catalyst plants and desalination everywhere.' That removes the dominant cost SpaceX still faces (rocket fuel = energy cost), unlocking real space access — asteroid mining, Dyson spheres around the sun (specifically with material from Mercury), and 'bringing consciousness to the rest of the galaxy.' Whether or not the timeline is right, the dependency chain (fusion → cheap energy → cheap rocket fuel → space economy) is an important investment heuristic for which physics breakthrough actually moves the space industry.

@@ -48,7 +48,6 @@ stance: >-
   The correct response to a single experiment contradicting established theory
   is skepticism and replication demands, not immediate paradigm revision.
 related:
-  - INS-260330-B224
   - INS-260330-1509
   - INS-260330-466E
   - INS-260330-AACC

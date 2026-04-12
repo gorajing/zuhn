@@ -48,8 +48,8 @@ related:
   - INS-260409-CE1D
   - INS-260409-4EA5
   - INS-260409-8908
+  - INS-260412-D634
   - INS-260330-CBFD
-  - INS-260323-189B
 ---
 Artemis II's most striking 'Earth over the Moon' images were shot on a Nikon D5 with an 80-400mm lens, then cropped further. A human standing on the Moon would see an Earth somewhat bigger than our Moon appears from home — about four times the diameter — but nothing like the giant globe that fills the frame in the famous shot. The telephoto lens flattens distance and inflates apparent size.
 

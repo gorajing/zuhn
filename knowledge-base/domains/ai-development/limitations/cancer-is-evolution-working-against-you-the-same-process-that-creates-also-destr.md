@@ -49,7 +49,6 @@ stance: >-
   mutation and selection operating within the body, which means the same forces
   that build complex life also dismantle it.
 related:
-  - INS-260323-133A
   - INS-260325-BF44
   - INS-260325-DFA5
   - PRI-260323-A05E

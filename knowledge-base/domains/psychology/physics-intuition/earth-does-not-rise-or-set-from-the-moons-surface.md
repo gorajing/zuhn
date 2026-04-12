@@ -48,8 +48,8 @@ related:
   - INS-260322-7A2F
   - INS-260322-3833
   - INS-260409-C25D
-  - INS-260409-9C74
-  - INS-260330-E990
+  - INS-260412-26A4
+  - INS-260412-5ACD
 ---
 The Moon rotates in concert with its revolution around Earth — tidally locked — so the near side always faces us and the far side never does. If you stand on the near side, Earth hangs in a fixed position in the sky and wobbles only slightly from libration. If you stand on the far side, you never see Earth at all. There is no Earthrise from the ground.
 

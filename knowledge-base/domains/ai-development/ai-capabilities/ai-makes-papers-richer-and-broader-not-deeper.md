@@ -56,6 +56,7 @@ related:
   - INS-260409-60C2
   - INS-260409-5065
   - INS-260404-D6F7
+  - INS-260412-94B2
 ---
 Tao reports that AI has roughly 5x'd the speed of his current papers — but only because those papers now contain features he wouldn't have bothered to include before (extensive numerics, plots, deeper literature reviews). If he rewrote a 2020 paper to the same level of functionality, time savings would be modest. The core mathematical reasoning — the hardest part — still happens on pen and paper with no meaningful AI acceleration.
 

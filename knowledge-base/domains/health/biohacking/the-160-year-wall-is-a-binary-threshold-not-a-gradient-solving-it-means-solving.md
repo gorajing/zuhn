@@ -48,10 +48,10 @@ stance: >-
   threshold rather than as gradual year-by-year life expectancy gains
 related:
   - INS-260325-39FD
+  - INS-260412-EF6C
+  - INS-260412-8BDB
   - INS-260330-49A4
   - INS-260330-C658
-  - INS-260325-90C6
-  - PRI-260325-3A00
 evidence:
   - id: INS-260330-49A4
     type: CHALLENGES

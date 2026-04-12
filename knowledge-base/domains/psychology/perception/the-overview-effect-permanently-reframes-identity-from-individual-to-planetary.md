@@ -46,7 +46,6 @@ stance: >-
   shift where national, political, and individual identities dissolve in favor
   of planetary identity - the overview effect.
 related:
-  - INS-260323-5955
   - INS-260323-7212
   - INS-260327-684D
   - INS-260325-23E0

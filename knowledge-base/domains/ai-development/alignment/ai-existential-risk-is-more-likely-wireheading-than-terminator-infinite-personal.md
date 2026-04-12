@@ -58,9 +58,9 @@ related:
   - INS-260330-2F13
   - INS-260325-415A
   - INS-260323-5955
-  - INS-260330-FFAB
   - INS-260330-E990
   - INS-260403-474E
+  - INS-260410-72B8
 stance: >-
   Hotz argues humanity is more likely to be destroyed by AI-generated infinite
   TikTok that we can't look away from than by a hostile superintelligence

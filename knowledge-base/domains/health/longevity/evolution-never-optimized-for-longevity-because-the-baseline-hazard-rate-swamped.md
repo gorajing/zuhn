@@ -71,8 +71,8 @@ related:
   - INS-260327-7000
   - INS-260403-E492
   - INS-260410-D75D
+  - INS-260412-79FE
   - PRI-260325-2800
-  - PRI-260325-3A00
 ---
 Kimmel's three-part argument: (1) baseline hazard rates during most of human evolution were extremely high — infectious disease, predation, injury meant very few individuals reached ages where aging mattered, so the gradient signal flowing back to the genome for longevity alleles was negligible. (2) Kin-selection creates an active regularization pressure against longevity: an aged individual consuming calories while contributing less fitness is a net drag on genome propagation compared to two young adults taking their place. (3) Optimization constraints — mutation rate caps step size, population size caps parallel variants, and most selection pressure was consumed by infectious-disease resilience.
 

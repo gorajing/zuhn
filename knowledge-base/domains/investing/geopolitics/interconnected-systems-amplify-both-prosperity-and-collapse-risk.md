@@ -43,10 +43,10 @@ stance: >-
   structures that transmit cascading failure when stressed.
 related:
   - PRI-260325-6400
+  - INS-260412-8F97
   - INS-260325-3C17
   - INS-260325-3A0E
   - PRI-260406-7128
-  - PRI-260406-6C43
 evidence:
   - id: INS-260322-5D22
     type: TRANSFERS_TO

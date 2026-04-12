@@ -56,8 +56,6 @@ related:
   - INS-260409-BE6D
   - INS-260330-6E61
   - INS-260330-A149
-  - INS-260330-BE0A
-  - INS-260330-D17A
   - INS-260323-9955
 stance: >-
   Quantum mechanics describes tiny particles brilliantly but cannot explain

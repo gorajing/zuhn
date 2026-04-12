@@ -54,7 +54,6 @@ stance: >-
   The primary economic danger of AI is that it consumes energy and land humans
   need to survive, not that it makes human labor obsolete
 related:
-  - INS-260323-7D90
   - INS-260330-8D0C
   - INS-260330-5A0B
   - INS-260403-B539

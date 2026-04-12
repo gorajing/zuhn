@@ -47,11 +47,14 @@ stance: >-
   principles as species evolution, making it the most tangible example of
   evolutionary processes in daily life.
 related:
+  - INS-260412-8CB2
+  - INS-260412-812C
+  - INS-260412-E072
   - INS-260325-D680
   - INS-260325-75A3
-  - PRI-260323-A05E
-  - INS-260410-69C2
-  - INS-260325-DFA5
+  - INS-260412-339C
+  - INS-260412-A5C4
+  - INS-260412-EED1
 evidence:
   - id: INS-260325-D680
     type: SUPPORTS

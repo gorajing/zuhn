@@ -1,9 +1,10 @@
 # Topic: biotechnology
 
-> 13 insights
+> 14 insights
 
 - `INS-260405-0AE7` [high] IsoDDE moves beyond AlphaFold's static structure prediction to simulate molecular motion, unlocking binding sites on proteins previously labeled 'undruggable.'
 - `INS-260410-55B5` [high] Physical DNA/protein libraries of 10^17 variants barcoded and screened in an afternoon constitute a 100% precise 'natural computer' that bypasses the assumption stack that AlphaFold-style simulations depend on.
+- `INS-260412-4441` [high] CRISPR's 99% cost reduction and timeline compression from years to weeks mirrors the computing revolution's democratization arc.
 - `INS-260409-F9D5` [high] The bottleneck is integrating disparate fields, not advancing any one of them.
 - `INS-260410-CEAA` [high] Height involves ~10,000 genes but one protein (growth hormone) produces extreme variation clinically — most complex traits have analogous single-lever overrides.
 - `INS-260410-9D16` [high] TFs are queries, their binding motifs are keys, downstream genes are values — and like attention, small edits to the embedding vector produce dramatically different outputs, which is why Yamanaka flipped adult cells to stem cells using just four TFs out of 20,000 genes.

@@ -74,14 +74,14 @@ stance: >-
 related:
   - INS-260323-198E
   - INS-260325-9F5F
-  - INS-260325-BF44
-  - INS-260330-E3C0
   - INS-260403-C8FD
   - INS-260409-9EB7
   - INS-260409-BDAC
   - INS-260409-D830
   - PRI-260328-5989
-  - INS-260410-1AF0
+  - INS-260412-A5C4
+  - INS-260412-EED1
+  - INS-260412-8CB2
 ---
 Kimmel's controversial contention: lipid nanoparticles and viral vectors are both fundamentally limited. Viruses are always somewhat immunogenic (your immune system fights them), and no single viral species infects all tissue types, so each new indication requires re-engineering. LNPs have inherent size and biodistribution constraints — they're mostly confined to tissues that naturally take up fat (liver), with engineered targeting still limited to a subset of cell types. Both are fine for the next several decades of work, but neither is the endgame.
 

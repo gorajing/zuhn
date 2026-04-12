@@ -51,10 +51,9 @@ stance: >-
   them rare, and normalizing them would destroy the signaling mechanism that
   makes them useful.
 related:
-  - INS-260323-87F3
-  - INS-260325-D797
   - INS-260327-690E
   - INS-260329-78AE
+  - INS-260323-87F3
   - PRI-260403-88F5
   - INS-260403-5683
   - PRI-260320-5947

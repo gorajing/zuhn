@@ -1,5 +1,6 @@
 # Tag: infinity
 
+- `INS-260412-5E11` Black hole singularities with infinite density likely don't exist — they mark where general relativity's equations stop working, not where physics actually goes to infinity.
 - `INS-260330-BEDC` The Basel proof doubles circles repeatedly while preserving brightness, and the infinite limit of evenly-spaced lighthouses on a line yields the series sum.
 - `INS-260330-594E` Our brains treat infinity like a big finite number, which produces wrong answers — infinity/2 = infinity, and the set of even numbers equals the set of all whole numbers.
 - `INS-260325-C523` Infinity is not the biggest number — it's how many numbers there are, a size rather than a quantity on the number line.

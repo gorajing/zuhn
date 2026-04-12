@@ -53,11 +53,11 @@ stance: >-
   inflating mass estimates — within about two years; frontier surprises should
   be treated as provisional until someone publishes the boring correction.
 related:
-  - INS-260330-8625
   - INS-260409-02C5
   - INS-260409-D603
+  - INS-260412-AB32
   - INS-260409-0250
-  - INS-260323-1F27
-  - INS-260330-DFA4
+  - INS-260412-DBA9
+  - INS-260412-4AC2
 ---
 When JWST first reported massive galaxies at z~10, the initial reaction was alarm and speculation about new physics. Two years later, a graduate student led a paper showing the culprit was mundane — compact AGN flux inflating photometric mass estimates because brightness is usually a reliable proxy for mass, but 'usually' breaks when a feeding black hole is present. This is the modal trajectory of frontier discoveries: initial claim, media cycle, quiet correction that resolves most of the anomaly but leaves a smaller residual (here, still ~2x more massive galaxies than expected, enough to require some adjustment to early star-formation efficiency). The epistemic discipline is to hold the initial claim provisionally, wait for the correction pass, and then ask what residual remains after mundane explanations are exhausted.

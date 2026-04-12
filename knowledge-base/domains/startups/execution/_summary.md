@@ -1,6 +1,6 @@
 # Topic: execution
 
-> 281 insights
+> 282 insights
 
 - `INS-260329-FCF2` [high] Doing 10-100x more volume beats 2x optimization, but you must relearn this lesson independently in each new domain you enter.
 - `INS-260403-FED1` [high] YC's batch funding model — its most important innovation — was adopted not strategically but because a summer program seemed like the fastest way to learn angel investing.
@@ -39,6 +39,7 @@
 - `INS-260329-572E` [high] CAP theorem's real value is forcing you to explicitly choose which two of consistency, availability, and partition tolerance you prioritize — before a production incident makes the choice for you.
 - `INS-260410-66E4` [high] Lalit Modi orchestrated a $1B media deal, $400M+ in franchise auctions, and Bollywood ownership for a sports league that had never existed by capping every party's year-one cash exposure to the smallest amount that signaled credible commitment.
 - `INS-260403-2A30` [high] A clear cash runway model turns the existential threat of running out of money into a series of calm, informed decisions.
+- `INS-260412-94BD` [high] Venus terraforming works because each phase — frozen surface, liquid oceans, breathable atmosphere — is independently useful to settlers.
 - `INS-260327-178E` [high] Block unwound their GM structure into a functional org specifically because AI transformation requires unified technical capabilities across product lines.
 - `INS-260403-1904` [high] Centralizing all financial assumptions in one tab and wiring downstream logic to it prevents the Jenga-tower fragility that plagues most startup spreadsheets.
 - `INS-260327-3C19` [high] As CEO, one wrong prioritization decision can easily waste 3 months building something that does not matter.

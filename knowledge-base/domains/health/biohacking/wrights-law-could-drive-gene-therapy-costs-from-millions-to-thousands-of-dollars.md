@@ -52,7 +52,6 @@ stance: >-
   with every doubling of cumulative production — potentially making personalized
   genetic medicine affordable for rare and ultra-rare diseases.
 related:
-  - INS-260323-198E
   - INS-260325-07FA
   - INS-260410-53B0
   - PRI-260325-3A00

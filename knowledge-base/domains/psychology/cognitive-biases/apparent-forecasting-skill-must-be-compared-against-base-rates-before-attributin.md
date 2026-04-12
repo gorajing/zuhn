@@ -54,7 +54,6 @@ stance: >-
   outcome provides no real information and should not be trusted more than a
   coin flip after accounting for base rates
 related:
-  - INS-260330-3EDA
   - INS-260330-881A
   - INS-260404-88D8
   - INS-260325-9F41

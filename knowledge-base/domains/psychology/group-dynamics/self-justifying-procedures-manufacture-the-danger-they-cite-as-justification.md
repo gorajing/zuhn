@@ -52,9 +52,9 @@ stance: >-
 related:
   - INS-260330-5A0B
   - PRI-260406-F937
+  - INS-260412-A944
   - PRI-260324-8EE6
   - PRI-260406-F95C
-  - INS-260330-F488
 ---
 The Wall Street Journal identified a systematic pattern across 13 ICE vehicle shootings: agents box in a vehicle, try to extract an individual, block attempts to flee, then fire when the trapped person tries to escape. The procedure itself creates the 'threatening vehicle movement' that agents then cite as justification for lethal force. From inside the system, each shooting looks justified — the car moved toward an agent. From outside, the pattern reveals that the procedure manufactures the danger.
 

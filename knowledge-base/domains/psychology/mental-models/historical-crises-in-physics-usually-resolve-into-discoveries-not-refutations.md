@@ -57,6 +57,5 @@ related:
   - PRI-260328-9FB6
   - INS-260325-4C09
   - INS-260325-9CDC
-  - INS-260409-02C5
 ---
 The narrator explicitly draws this base rate: in the 1990s, measurements suggested the universe was younger than its oldest stars, which was impossible. Then accelerating expansion and dark energy were discovered, and the contradiction resolved itself into a new discovery rather than a demolition. The base rate for 'terminal crisis' versus 'productive anomaly that precedes discovery' in mature physics is heavily weighted toward the latter — general relativity did not kill Newton, quantum mechanics did not kill classical mechanics, both absorbed their predecessors as limiting cases. Treating the current Hubble tension as likely heralding a discovery (early dark energy, modified dark matter, something else) rather than a collapse of ΛCDM is consistent with the historical base rate. Not a proof, but the right prior.

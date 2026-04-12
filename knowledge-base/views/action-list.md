@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-12 | 4843 actionable insights
+Generated on 2026-04-12 | 4850 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1432,6 +1432,8 @@ Generated on 2026-04-12 | 4843 actionable insights
 - [INS-260403-1FB1] Repeated corrections cannot overcome an opponent's commitment to misrepresenting your position in adversarial settings.
 - [INS-260403-AEA3] Critics used Bio Anchors' acknowledged uncertainty to conclude 'things are fine and normal' rather than recognizing that uncertainty cuts both ways and timelines could be shorter.
 - [INS-260403-E419] Harvard research found investors ask men promotion-oriented questions about scaling and growth while asking women prevention-oriented questions about risks and challenges, directly shaping funding outcomes.
+- [INS-260412-2CD6] The vaccine debate illustrates how evidence-based arguments inherently lose to emotional narratives because statistical reasoning can't compete with vivid anecdotes.
+- [INS-260412-FA41] When vaccines eliminate visible disease, people compare rare vaccine side effects against a now-invisible threat, making vaccines seem riskier than the disease.
 
 ## psychology/communication
 - [INS-260330-3570] Arguments that start by explicitly naming what is being disagreed about — and what is not — dramatically outperform arguments that jump straight into positions.
@@ -1559,6 +1561,7 @@ Generated on 2026-04-12 | 4843 actionable insights
 - [INS-260410-3B3E] Munger's core life strategy — which Senra identified as the dominant theme of their 3-hour dinner — is that great businesses, great spouses, and great friends simply generate fewer crises than mediocre ones, so front-loading quality selection solves 99% of downstream problems.
 - [INS-260410-F5B6] Nike pioneered Asian outsourced manufacturing and then was caught completely off guard by the sweatshop labor crisis that its own strength invited.
 - [INS-260410-2CBC] People who over-plan their careers unconsciously filter for signals that confirm the plan and dismiss unrelated opportunities, which is exactly how the biggest opportunities get missed.
+- [INS-260412-C1EC] Inside a black hole's event horizon, moving in any direction only brings you to the singularity faster — the longest survival comes from doing nothing.
 
 ## psychology/epistemics
 - [INS-260405-2B3F] Treating survey non-response as randomly missing data produces systematically wrong estimates whenever the stigmatized view is also the under-reported one.
@@ -1990,6 +1993,7 @@ Generated on 2026-04-12 | 4843 actionable insights
 - [INS-260403-29C7] Kissinger chose Go over xiangqi not because it described China accurately, but because it made America respond the way he wanted.
 - [INS-260409-1AA0] One deliberate trip down the stack permanently changes how you reason about every layer above it — depth compounds.
 - [INS-260410-CE40] Americans (and most analysts) default to 'Team America' analysis — studying only their own options and mirror-imaging the other side — and this explains repeated strategic surprises from Pearl Harbor to Iraq's insurgency.
+- [INS-260412-E146] The information paradox was resolved by asking 'what do black holes do with information in the meantime' instead of debating whether it's lost or preserved at the end.
 
 ## psychology/negotiation
 - [INS-260330-A954] When an investor says 'I want to invest but I don't lead,' translate to 'No, except yes if you become a hot deal.'
@@ -2829,6 +2833,7 @@ Generated on 2026-04-12 | 4843 actionable insights
 
 ## startups/disruption
 - [INS-260405-9EE4] When AI agents do the work instead of human seats, per-seat SaaS revenue evaporates.
+- [INS-260412-0F3F] Dinosaurs dominated for 165 million years and were wiped out in months — market incumbents with decades of dominance face the same non-linear disruption risk.
 
 ## startups/engineering
 - [INS-260330-2200] GitHub stars and green squares measure visibility and gaming, not engineering skill.
@@ -3076,6 +3081,7 @@ Generated on 2026-04-12 | 4843 actionable insights
 - [INS-260410-66E4] Lalit Modi orchestrated a $1B media deal, $400M+ in franchise auctions, and Bollywood ownership for a sports league that had never existed by capping every party's year-one cash exposure to the smallest amount that signaled credible commitment.
 - [INS-260410-7224] Dee Hock insisted on 9-month deadlines for Visa's entire authorization and settlement systems because he believed engineers will always consume whatever time you give them.
 - [INS-260410-8EC3] Azure wasn't started inside Server & Tools — it was incubated under Ray Ozzie with Dave Cutler, separate from the group whose business it would reshape; Windows NT was separated from Windows for the same reason.
+- [INS-260412-94BD] Venus terraforming works because each phase — frozen surface, liquid oceans, breathable atmosphere — is independently useful to settlers.
 
 ## startups/exits
 - [INS-260409-143C] Give yourself two months to try for acquisition, then shut down — no time frame means no exit.
@@ -4102,6 +4108,7 @@ Generated on 2026-04-12 | 4843 actionable insights
 - [INS-260404-AC7C] Evaluating new ideas by imagining how they could work rather than why they won't is a trainable skill with outsized returns.
 - [INS-260410-9B33] Research shows direct long-haul flight connections between cities increase cross-city idea flow more than internet connectivity — and the effect is strongest between culturally distant places.
 - [INS-260410-6286] Kelly Johnson insisted Skunk Works engineers sit only steps from the shop floor because 'a stone's throw was too far away' — the shortest design-to-build feedback loop wins.
+- [INS-260412-8CB2] The immune system's generate-random-then-cull strategy is more effective than designed immunity because the threat space is too vast to predict — the same applies to innovation in unpredictable markets.
 
 ## startups/investor-relations
 - [INS-260405-94A1] Match your pitch deck's emphasis to investor decision criteria at your specific funding stage.

@@ -54,9 +54,9 @@ stance: >-
 related:
   - INS-260330-1801
   - INS-260330-8429
+  - INS-260412-2316
   - INS-260330-0C1D
   - INS-260323-12F2
-  - INS-260404-80AC
   - INS-260330-466E
 evidence:
   - id: INS-260404-80AC

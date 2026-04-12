@@ -50,7 +50,6 @@ stance: >-
   Subjective certainty about a proposition's truth is not evidence of its truth,
   even in domains like mathematics that feel most certain.
 related:
-  - INS-260323-36A8
   - INS-260325-A79E
   - INS-260329-6727
   - INS-260325-CC49

@@ -6,3 +6,4 @@
 - `INS-260329-70F2` The progression from simple data types to complex object hierarchies mirrors natural cognitive development from concrete to abstract thinking.
 - `INS-260330-B5D6` Teaching people that both their skills AND their jobs are malleable building blocks produces a sustainable happiness boost that growth mindset about skills alone cannot achieve.
 - `INS-260329-32DB` Building programming skill through escalating project complexity outperforms abstract concept lectures because each project creates a concrete mental anchor for multiple concepts simultaneously.
+- `INS-260412-DBA9` Quasi-stars may have served as temporary incubators — their own collapse feeding the black holes inside them for millions of years until the star was fully consumed.

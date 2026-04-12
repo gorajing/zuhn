@@ -54,6 +54,7 @@ related:
   - INS-260321-CCE3
   - INS-260327-5A72
   - INS-260403-86BF
+  - INS-260412-350D
 stance: >-
   The convergence of GLP-1 normalization, declining medical trust, and biohacker
   culture is creating a 'Pharma 2.0' category where consumers self-dir...

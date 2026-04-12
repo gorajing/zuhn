@@ -1,5 +1,5 @@
 # Source Map
-Generated on 2026-04-12 | 2317 sources
+Generated on 2026-04-12 | 2367 sources
 
 | Source | Type | Insights | Date |
 |--------|------|----------|------|
@@ -794,6 +794,7 @@ Generated on 2026-04-12 | 2317 sources
 | How to Improve Your Eye Health & Offset Vision Loss | Dr. Jeffrey Goldberg | youtube | 5 | 2026-03-30 |
 | How to Lose Fat with Science-Based Tools | youtube | 5 | 2026-03-30 |
 | How to Sell by Tyler Bosmeny | youtube | 5 | 2026-03-27 |
+| How To Terraform Venus (Quickly) | youtube | 5 | 2026-04-12 |
 | How to Unlock Your Potential, Motivation & Unique Abilities | Dr. Adam Grant | youtube | 5 | 2026-03-30 |
 | How Truemed Is Incentivizing Americans to Invest in Prevention | youtube | 5 | 2026-03-22 |
 | How We Built The #1 Best Selling Probiotic On Amazon (in 2.5 Years) | youtube | 5 | 2026-03-22 |
@@ -934,6 +935,7 @@ Generated on 2026-04-12 | 2317 sources
 | The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton | youtube | 5 | 2026-03-30 |
 | The Science of Making & Breaking Habits | youtube | 5 | 2026-03-30 |
 | The Secret Chinese Company That Owns Everything | youtube | 5 | 2026-03-30 |
+| The Side Effects of Vaccines - How High is the Risk? | youtube | 5 | 2026-04-12 |
 | The Skills Required for a $300k+ Tech Sales Job (Enterprise Sales) | youtube | 5 | 2026-03-27 |
 | The spelled-out intro to language modeling: building makemore | youtube | 5 | 2026-04-10 |
 | The Steve Ballmer Interview | youtube | 5 | 2026-04-11 |
@@ -1437,6 +1439,7 @@ Generated on 2026-04-12 | 2317 sources
 | Fireside Chat #15: Making Large Language Models Uncool Again | youtube | 4 | 2026-03-28 |
 | From Dot-Com Bust to AI Boom: What I Learned the Hard Way (So You Don't Have To) | Bruce Wang | youtube | 4 | 2026-03-26 |
 | Gary Marcus on the Massive Problems Facing AI & LLM Scaling | The Real Eisman Playbook Episode 42 | youtube | 4 | 2026-03-23 |
+| Genetic Engineering Will Change Everything Forever – CRISPR | youtube | 4 | 2026-04-12 |
 | Ginni Rometty: IBM CEO on Leadership, Power, and Adversity | Lex Fridman Podcast #362 | youtube | 4 | 2026-03-24 |
 | "GPU 쓸 곳이 없어요." AI 시대 한국이 '멘붕'에 빠진 이유ㅣ지식인초대석 EP.88 (김대식 교수) | youtube | 4 | 2026-03-22 |
 | Gradient descent, how neural networks learn | Deep Learning Chapter 2 | youtube | 4 | 2026-03-30 |
@@ -1463,6 +1466,7 @@ Generated on 2026-04-12 | 2317 sources
 | How Nightcrawlers Really Make Money | youtube | 4 | 2026-03-24 |
 | How Somalia’s Pirates Make Money | youtube | 4 | 2026-03-30 |
 | How the body keeps the score on trauma | Bessel van der Kolk for Big Think+ | youtube | 4 | 2026-03-30 |
+| How The Immune System ACTUALLY Works – IMMUNE | youtube | 4 | 2026-04-12 |
 | How To Convert Customers With Cold Emails | Startup School | youtube | 4 | 2026-03-27 |
 | How To Count Past Infinity | youtube | 4 | 2026-03-30 |
 | How to Create a Frequency so Magnetic Your Desires Chase You | youtube | 4 | 2026-03-23 |
@@ -1543,10 +1547,13 @@ Generated on 2026-04-12 | 2317 sources
 | The Banach–Tarski Paradox | youtube | 4 | 2026-03-30 |
 | The Best and Worst Music Marketing Strategies Ranked by Tier | youtube | 4 | 2026-03-27 |
 | The Black Legend, Native Americans, and Spaniards: Crash Course US History #1 | youtube | 4 | 2026-03-30 |
+| The Day the Dinosaurs Died – Minute by Minute | youtube | 4 | 2026-04-12 |
 | The Homeless Teen Who Created Louis Vuitton | youtube | 4 | 2026-03-30 |
 | The idea so strange Einstein thought it broke quantum physics | Jim Al-Khalili | youtube | 4 | 2026-03-25 |
 | The Illegal Rise of Spotify | youtube | 4 | 2026-03-30 |
 | The Internet Was Weeks Away From Disaster and No One Knew | youtube | 4 | 2026-03-23 |
+| The Largest Black Hole in the Universe - Size Comparison | youtube | 4 | 2026-04-12 |
+| The Largest Star in the Universe – Size Comparison | youtube | 4 | 2026-04-12 |
 | The Limits of American Power – Sarah Paine | youtube | 4 | 2026-04-10 |
 | The Man Who Fooled The World | youtube | 4 | 2026-03-23 |
 | The Most Controversial Idea in Biology | youtube | 4 | 2026-03-23 |
@@ -1570,13 +1577,16 @@ Generated on 2026-04-12 | 2317 sources
 | This Paradox Splits Smart People 50/50 | youtube | 4 | 2026-03-23 |
 | Training General Robots for Any Task: Physical Intelligence’s Karol Hausman and Tobi Springenberg | youtube | 4 | 2026-03-26 |
 | Travel INSIDE a Black Hole | youtube | 4 | 2026-03-30 |
+| TRUE Limits Of Humanity – The Final Border We Will Never Cross | youtube | 4 | 2026-04-12 |
 | Trying to Catch a 1,000 MPH Baseball - Smarter Every Day 247 | youtube | 4 | 2026-03-30 |
 | Two Vortex Rings Colliding in SLOW MOTION - Smarter Every Day 195 | youtube | 4 | 2026-03-30 |
 | Vectors | Chapter 1, Essence of linear algebra | youtube | 4 | 2026-03-30 |
 | Waking Up with Sam Harris - Mindfulness Meditation (9 minutes) | youtube | 4 | 2026-03-30 |
 | We're Witnessing Soviet-Scale Collapse of National Power | youtube | 4 | 2026-03-30 |
+| What Happens if the Moon Crashes into Earth? | youtube | 4 | 2026-04-12 |
 | What If Everyone JUMPED At Once? | youtube | 4 | 2026-03-30 |
 | What if my startup fails? | Ahana Gautam, Open Secret | UnStarted Ep2 | youtube | 4 | 2026-03-23 |
+| What If You Fall into a Black Hole? | youtube | 4 | 2026-04-12 |
 | What makes quantum computers SO powerful? | youtube | 4 | 2026-03-23 |
 | What to do if your inner voice is cruel | Ethan Kross | youtube | 4 | 2026-03-30 |
 | What Will We Miss? | youtube | 4 | 2026-03-30 |
@@ -1586,6 +1596,7 @@ Generated on 2026-04-12 | 2317 sources
 | Why 90% of Startup CEOs Are Failing | John Kim Sendbird | youtube | 4 | 2026-03-23 |
 | Why AI Is Tech's Latest Hoax | youtube | 4 | 2026-03-24 |
 | Why Are Things Creepy? | youtube | 4 | 2026-03-30 |
+| Why Black Holes Could Delete The Universe – The Information Paradox | youtube | 4 | 2026-04-12 |
 | Why do prime numbers make these spirals? | Dirichlet’s theorem and pi approximations | youtube | 4 | 2026-03-30 |
 | Why is pi here?  And why is it squared?  A geometric answer to the Basel problem | youtube | 4 | 2026-03-30 |
 | Why Most AI Projects Fail Before They Start | youtube | 4 | 2026-03-23 |
@@ -1596,6 +1607,7 @@ Generated on 2026-04-12 | 2317 sources
 | Work As Hard As You Can | youtube | 4 | 2026-03-30 |
 | World's Fastest Pitch - Supersonic Baseball Cannon - Smarter Every Day 242 | youtube | 4 | 2026-03-30 |
 | World's Longest Home Run (The "Mad Batter" Machine) - Smarter Every Day 230 | youtube | 4 | 2026-03-30 |
+| You Are Immune Against Every Disease | youtube | 4 | 2026-04-12 |
 | Your life needs more ‘existential grit.’ Here’s how to find it | Kate Bowler | youtube | 4 | 2026-03-25 |
 | You've (Likely) Been Playing The Game of Life Wrong | youtube | 4 | 2026-03-23 |
 | 200+ VC Funds Under $200M Still Investing in 2025 | blog | 3 | 2026-03-30 |
@@ -2320,3 +2332,41 @@ Generated on 2026-04-12 | 2317 sources
 | You Are Taking Creatine Wrong (here's how to fix it) | youtube | 1 | 2026-03-26 |
 | You Will Never Wear AirPods Again | youtube | 1 | 2026-03-26 |
 | You'll Never Eat Sardines Again | youtube | 1 | 2026-03-26 |
+| Black Holes Explained – From Birth to Death | youtube | 0 | 2026-04-12 |
+| Building a Marsbase is a Horrible Idea: Let’s do it! | youtube | 0 | 2026-04-12 |
+| How Far Can We Go? Limits of Humanity (Old Version – Watch the New One) | youtube | 0 | 2026-04-12 |
+| How to Build a Dyson Sphere - The Ultimate Megastructure | youtube | 0 | 2026-04-12 |
+| How to Move the Sun: Stellar Engines | youtube | 0 | 2026-04-12 |
+| How We Could Build a Moon Base TODAY – Space Colonization 1 | youtube | 0 | 2026-04-12 |
+| Is Reality Real? The Simulation Argument | youtube | 0 | 2026-04-12 |
+| Loneliness | youtube | 0 | 2026-04-12 |
+| Milk. White Poison or Healthy Drink? | youtube | 0 | 2026-04-12 |
+| Neutron Stars – The Most Extreme Things that are not Black Holes | youtube | 0 | 2026-04-12 |
+| Optimistic Nihilism | youtube | 0 | 2026-04-12 |
+| Quantum Computers Explained – Limits of Human Technology | youtube | 0 | 2026-04-12 |
+| String Theory Explained – What is The True Nature of Reality? | youtube | 0 | 2026-04-12 |
+| The Billion Ant Mega Colony and the Biggest War on Earth | youtube | 0 | 2026-04-12 |
+| The Black Hole Bomb and Black Hole Civilizations | youtube | 0 | 2026-04-12 |
+| The Coronavirus Explained & What You Should Do | youtube | 0 | 2026-04-12 |
+| The Deadliest Being on Planet Earth – The Bacteriophage | youtube | 0 | 2026-04-12 |
+| The Egg - A Short Story | youtube | 0 | 2026-04-12 |
+| The Fermi Paradox — Where Are All The Aliens? (1/2) | youtube | 0 | 2026-04-12 |
+| The Immune System Explained I – Bacteria Infection | youtube | 0 | 2026-04-12 |
+| The Most Dangerous Stuff in the Universe - Strange Stars Explained | youtube | 0 | 2026-04-12 |
+| The Origin of Consciousness – How Unaware Things Became Aware | youtube | 0 | 2026-04-12 |
+| The World War of the Ants – The Army Ant | youtube | 0 | 2026-04-12 |
+| This Virus Shouldn't Exist (But it Does) | youtube | 0 | 2026-04-12 |
+| Three Ways to Destroy the Universe | youtube | 0 | 2026-04-12 |
+| What Do Alien Civilizations Look Like? The Kardashev Scale | youtube | 0 | 2026-04-12 |
+| What Happened Before History? Human Origins | youtube | 0 | 2026-04-12 |
+| What Happens If We Throw an Elephant From a Skyscraper? Life & Size 1 | youtube | 0 | 2026-04-12 |
+| What If Earth got Kicked Out of the Solar System? Rogue Earth | youtube | 0 | 2026-04-12 |
+| What If We Detonated All Nuclear Bombs at Once? | youtube | 0 | 2026-04-12 |
+| What if We Nuke a City? | youtube | 0 | 2026-04-12 |
+| What if We Nuke the Moon? | youtube | 0 | 2026-04-12 |
+| What If You Detonated a Nuclear Bomb In The Marianas Trench? (Science not Fantasy) | youtube | 0 | 2026-04-12 |
+| What’s Hiding at the Most Solitary Place on Earth? The Deep Sea | youtube | 0 | 2026-04-12 |
+| Why Alien Life Would be our Doom - The Great Filter | youtube | 0 | 2026-04-12 |
+| Why Blue Whales Don't Get Cancer - Peto's Paradox | youtube | 0 | 2026-04-12 |
+| Why We Should NOT Look For Aliens - The Dark Forest | youtube | 0 | 2026-04-12 |
+| Wormholes Explained – Breaking Spacetime | youtube | 0 | 2026-04-12 |

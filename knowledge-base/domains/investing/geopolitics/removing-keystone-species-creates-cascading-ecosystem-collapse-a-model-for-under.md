@@ -52,9 +52,9 @@ resolutions:
 related:
   - INS-260325-DFA5
   - INS-260330-4634
+  - INS-260412-8111
   - INS-260330-C418
   - INS-260322-F6C3
-  - INS-260402-1640
   - INS-260330-0027
 stance: >-
   When humans hunted the Tasmanian tiger to extinction, the loss of this apex

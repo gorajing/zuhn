@@ -1,6 +1,6 @@
 # Topic: decision-making
 
-> 139 insights
+> 146 insights
 
 - `INS-260404-A246` [high] Admitting you're bad at something is the first step to finding effective workarounds like delegation or systematic search.
 - `INS-260403-F03A` [high] Judge purchases by projected usage, not by the deal you got.
@@ -13,6 +13,7 @@
 - `INS-260404-3959` [high] Intentional moderates and ideologues both acquire opinions in bulk rather than reasoning independently about each question.
 - `INS-260330-4BFD` [high] When a model needs ad-hoc explanations for gravity, time zones, satellite imagery, and navigation simultaneously, the model itself is wrong — not the evidence.
 - `INS-260330-6CB7` [high] Four of seven SI base units depend on the kilogram, so a fingerprint-weight drift in Big K corrupts Newtons, Joules, Volts, and Watts.
+- `INS-260412-8111` [high] The asteroid's direct impact was devastating, but it was the chain of earthquakes, tsunamis, atmospheric heating, wildfires, and nuclear winter that actually killed 75% of species.
 - `INS-260404-2135` [high] Growing up with accuracy-focused judgments trains a false expectation that all judgments aim to be fair.
 - `INS-260330-D0B4` [high] Staying buckled in an inverted sinking helicopter is safer than the instinctive escape attempt, but requires trained override of natural panic responses.
 - `INS-260403-0769` [high] The belief that history guarantees your victory makes you stop doing the strategic work required to actually win.
@@ -43,6 +44,7 @@
 - `INS-260404-7C3F` [high] Keeping your identity small — refusing to label yourself as an X or Y person — preserves your ability to think clearly across more domains.
 - `INS-260410-0065` [high] 85% of Japanese WWII deaths and 43% of German deaths happened in the last year of the war — after the outcome was already decided — because regimes optimize for their own survival, not their populations'.
 - `INS-260410-260E` [high] The missionary-children Foreign Service officers correctly called the Chinese Civil War hopeless in 1945-46 based on ground truth, were purged by McCarthy for being right, and their fate illustrates both the value and the cost of honest net assessment.
+- `INS-260412-A944` [high] When threats escalate non-linearly, the early months feel barely noticeable while the final phase overwhelms all capacity to respond — and the intervention window closes during the comfortable phase.
 - `INS-260402-8ACF` [high] Truly novel and valuable ideas must appear bad to most evaluators, because obvious good ideas get executed immediately and stop being novel.
 - `INS-260403-3BD3` [high] If people don't think you're weird, you're probably living badly — because statistically normal behavior increasingly includes harmful addictive patterns.
 - `INS-260404-AE3C` [high] RuBisCo is a terrible enzyme that plants compensate for by producing 40 billion tons of it rather than evolving a replacement, illustrating how path dependence locks in suboptimal strategies.
@@ -78,6 +80,7 @@
 - `INS-260330-3899` [high] People who repeatedly state their intentions usually mean it — treating explicit promises as bluffs is a common forecasting error.
 - `INS-260403-5AAC` [high] Taking a vote on art quality is like finding north with a compass next to a magnet — the error overwhelms the signal, so more data just measures more error.
 - `INS-260403-225B` [high] A worsening trend from a good absolute position is more alarming than a bad but improving absolute position.
+- `INS-260412-350D` [high] The progression from disease elimination to designer babies follows an ethical ratchet where each incremental step is individually rational but collectively transformative.
 - `INS-260402-9D7B` [high] The willingness to cut entire subtrees of work — even after heavy investment — is what separates high-quality creative output from mediocre accumulation.
 - `INS-260404-6C8F` [high] A 4%+ fatal error rate makes philosophical arguments for or against the death penalty moot — the implementation failure dominates.
 - `INS-260403-59D5` [high] Congressional staffers in their late 20s effectively set ideological direction because politicians are too busy fundraising and speechmaking to supervise the details of governance.
@@ -98,6 +101,7 @@
 - `INS-260403-8ECB` [medium] Tools that flag unrealistic inputs at the moment of entry prevent more bad decisions than post-hoc review ever will.
 - `INS-260403-3280` [medium] Bullet repayment preserves cash today but concentrates all repayment risk into a single exit event, exploiting human tendency to discount future costs.
 - `INS-260403-A6F1` [medium] Careers can be evaluated like financial instruments—liquid paths offer security and optionality while illiquid paths carry concentrated risk and reward.
+- `INS-260412-8F97` [medium] Regardless of the triggering catastrophe, infrastructure collapses in a predictable sequence determined by dependency chains — ports first, then communications, then energy, then food supply.
 - `INS-260404-2F16` [medium] Psychopaths' ability to act on utilitarian logic without emotional interference makes them more effective decision-makers in specific high-stakes personal scenarios.
 - `INS-260403-3D8C` [medium] Working within bad systems to improve them usually produces more good than refusing to engage on principle.
 - `INS-260403-D6FE` [medium] Writing about topics in durable public form forces you to worry about getting things right far more than casual conversation does.
@@ -106,6 +110,7 @@
 - `INS-260403-E9DB` [medium] Many of America's most-discussed problems — sprawl, bad transit, housing costs — are actually second-order effects of its uniquely high crime rates.
 - `INS-260404-1C9D` [medium] Tracking tools in high-stakes personal domains can shift focus from judgment to metrics.
 - `INS-260409-AD0C` [medium] Galef distinguishes three decision categories: (1) concrete everyday choices where scout thinking comes naturally (what to eat), (2) ideological issues where incentives push toward self-deception (politics, religion), (3) important personal decisions with competing scout/soldier incentives (career, marriage, parenting) — each requires a different calibration of vigilance.
+- `INS-260412-A5C4` [medium] Dendritic cells collect pathogen samples from the wound, travel to lymph nodes, and physically present evidence to helper T cells — bridging the gap between detection and targeted response.
 - `INS-260330-255F` [medium] Only enter a category when you can make it one to two orders of magnitude better than what exists — if the technology or market isn't ready, wait.
 - `INS-260403-45D5` [medium] PG told Fred to meet the Airbnb founders before debating the idea, because abstract debate anchors on skepticism.
 - `INS-260330-CED2` [medium] The archer's paradox shows that a flexible arrow bends around the bow — rigidity would cause a miss, while flexibility finds the target.
@@ -113,6 +118,7 @@
 - `INS-260405-690F` [medium] The gain of today is the expectation of tomorrow — adaptation collapses the distance between delight and neutral.
 - `INS-260403-81A4` [medium] Instead of dwelling on death, cultivate aggressive impatience about doing the things that matter to you.
 - `INS-260330-4315` [medium] Agriculture emerged independently worldwide, but this convergence proves shared evolutionary pressures, not that farming was the best choice.
+- `INS-260412-C1EC` [medium] Inside a black hole's event horizon, moving in any direction only brings you to the singularity faster — the longest survival comes from doing nothing.
 - `INS-260403-C695` [medium] Just as novice pilots overcorrect and cause oscillation, investors with too much power apply excessive corrections that destabilize startups.
 - `INS-260330-3B05` [medium] Kissing, curiosity, and exploration all share an evolutionary root: organisms that convert uncertainty into knowledge make better decisions and outcompete those that don't.
 - `INS-260330-E403` [medium] New information or advice only expands your decision space if it's linearly independent from what you already know.
@@ -131,6 +137,7 @@
 - `INS-260403-9E97` [medium] Trump's rage at SCOTUS striking down tariffs — despite tariffs dragging his approval ratings — reveals how identity attachment to a signature policy overrides rational political self-interest.
 - `INS-260330-F82A` [medium] Plants maintaining a 50%-failure-rate enzyme for 450 million years demonstrates that sunk-cost behavior is a structural property of complex systems, not just a human cognitive flaw.
 - `INS-260403-9FB1` [medium] A typo in the Congressional Apportionment Amendment — 'more than' instead of 'less than' — would force the Supreme Court to definitively choose between textualism and originalism with no room for compromise.
+- `INS-260412-2F0C` [medium] Venus looks far worse than Mars today but its 90% Earth gravity makes it the better multi-generational bet.
 - `INS-260403-4452` [medium] The gap between supporting charity via taxation vs. personal donation reflects genuinely conflicting time-horizons within individuals, not hypocrisy.
 - `INS-260403-CB80` [medium] Recording confidence ratings at decision time and comparing to outcomes is a powerful metacognitive calibration tool.
 - `INS-260403-6602` [medium] Attack the wealth-to-power conversion through radical transparency rather than attacking wealth itself, which has destructive side effects on innovation.

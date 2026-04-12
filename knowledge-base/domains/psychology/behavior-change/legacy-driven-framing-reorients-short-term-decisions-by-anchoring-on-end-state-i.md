@@ -49,6 +49,6 @@ related:
   - INS-260403-5B4E
   - INS-260329-CB03
   - INS-260403-A408
-  - PRI-260406-CF83
+  - INS-260412-E146
 ---
 Itzler's closing frame is that everything except your story gets sold off or forgotten — so the only rational optimization target is the story itself. The epistemic value of this frame is that it reduces hyperbolic discounting: asking 'will this matter in the story people tell about me' reliably deflates the emotional pull of short-term wins that won't survive narrative compression. The limitation is that legacy-framing can rationalize under-investment in present comfort and over-investment in signaling behavior. Used well, it's a corrective against short-termism; used poorly, it becomes performative.

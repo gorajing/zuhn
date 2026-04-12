@@ -1,6 +1,6 @@
 # Topic: math-perception
 
-> 54 insights
+> 55 insights
 
 - `INS-260409-C758` [high] Base-10, base-2, and base-16 are all the same formula with a different base — decimal just happens to be the one humans learned first.
 - `INS-260325-03D5` [high] Hard problems yield to successive approximation converging on precision, not to brute-force exact computation.
@@ -41,6 +41,7 @@
 - `INS-260325-5FE9` [high] When a problem reduces to summing many small rectangles, plotting them as area under a graph often reveals the answer visually.
 - `INS-260325-28AD` [high] Decompose problems along their natural symmetries and math rewards you with simpler subproblems.
 - `INS-260330-3C70` [high] The 3x+1 rule is trivially simple yet produces hailstone sequences that follow geometric Brownian motion — the same statistical pattern as stock market fluctuations.
+- `INS-260412-640C` [high] A star with 2x the Sun's mass is 25x brighter; at 10x the mass, it's 20,000x brighter — a relationship humans consistently fail to intuit.
 - `INS-260330-D475` [high] Math rewards you when your decomposition respects the symmetry of the problem — concentric rings for a circle, not random slices.
 - `INS-260329-FEA8` [high] The derivative simultaneously means geometric slope, instantaneous rate of change, and marginal cost/revenue — and the real skill is knowing which interpretation to apply in which context.
 - `INS-260329-8015` [high] The derivative at a point is defined as the limit of secant line slopes as the interval shrinks to zero — instantaneous rates are always constructed, never observed.

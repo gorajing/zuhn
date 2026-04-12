@@ -57,7 +57,6 @@ related:
   - PRI-260406-40ED
   - INS-260403-EAE5
   - PRI-260406-5CA8
-  - INS-260403-6632
 evidence:
   - id: INS-260323-DA13
     type: TRANSFERS_TO

@@ -54,5 +54,6 @@ related:
   - INS-260404-70AE
   - INS-260403-57FF
   - INS-260403-6890
+  - INS-260412-CDDC
 ---
 When three-quarters of Y Combinator's latest cohort is building AI companies, the signal is not just that AI is important — it is that the space is becoming dangerously crowded. This pattern mirrors previous technology waves: the dot-com era, mobile apps post-iPhone, and crypto in 2021. In each case, massive cohort convergence on a single technology produced a few winners and many indistinguishable losers. The insight for founders is counterintuitive: the best time to build in a technology category may be when fewer people are doing it, not more. For those already committed to AI, differentiation must come from deep domain expertise, proprietary data, or novel distribution — not from the AI capability itself, which is increasingly commoditized.

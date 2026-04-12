@@ -54,7 +54,6 @@ stance: >-
   credit, while the original discoverer who lacked a compelling narrative is
   forgotten
 related:
-  - INS-260323-7BA4
   - INS-260325-EBDD
   - INS-260327-45B4
   - INS-260327-0048
@@ -64,6 +63,7 @@ related:
   - INS-260403-837D
   - INS-260410-83CF
   - INS-260330-3ECE
+  - INS-260330-4FA3
 evidence:
   - id: INS-260323-7BA4
     type: EXTENDS

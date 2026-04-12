@@ -1,7 +1,8 @@
 # Topic: human-physiology
 
-> 34 insights
+> 41 insights
 
+- `INS-260412-812C` [high] The adaptive immune system recombines ~100 gene fragments to produce 1-10 billion unique receptors, covering every possible pathogen protein shape.
 - `INS-260330-BC56` [high] Photons from solar fusion excite electrons in chlorophyll, which through an elaborate transport chain produce ATP and NADPH, which build glucose, which animals then reverse-engineer back into ATP — making all aerobic life indirectly fusion-powered.
 - `INS-260330-B061` [high] PSII splits water to replace lost electrons, producing oxygen as a byproduct — this single reaction in chloroplasts is the source of virtually all breathable oxygen on Earth.
 - `INS-260403-726B` [high] Oxygen — the molecule all animal life requires — is a waste product of photosynthesis, not its purpose.
@@ -14,8 +15,13 @@
 - `INS-260404-EE01` [high] Stress is not the silent killer — lack of recovery from stress is.
 - `INS-260330-81E0` [high] Biological function is a direct consequence of physical form at every organizational level.
 - `INS-260330-051F` [high] All death results from irreversible homeostatic failure, regardless of the proximate cause.
+- `INS-260412-CDDC` [high] Measles herd immunity requires 95% vaccination coverage — one of the highest thresholds of any disease — making it extremely fragile to even small anti-vaccine movements.
+- `INS-260412-E072` [high] Innate immunity buys time with fast, cheap, self-destructing cells while the adaptive system spends days manufacturing precision weapons.
 - `INS-260330-9733` [high] White blood cells detect tattoo ink immediately but can only remove particles smaller than themselves, which is why tattoos fade slowly over decades.
+- `INS-260412-0689` [high] Measles survivors have a severely weakened immune system that takes extended time to regenerate, leaving them vulnerable to other diseases.
 - `INS-260403-2DEE` [high] Tensed muscles absorb punch energy before it reaches organs, while relaxed muscles allow force to transmit directly to vulnerable tissue.
+- `INS-260412-00D4` [high] Neutrophils are programmed to die within days of birth because their indiscriminate killing — including DNA-net explosions — would destroy the body's own tissue if left unchecked.
+- `INS-260412-A9A9` [high] Per 10 million exposures, measles kills ~20,000 children and seriously harms ~2.5 million, while MMR vaccination causes ~120 treatable serious side effects and near-zero deaths.
 - `INS-260330-57E6` [high] PSII splits water to replace stolen electrons, producing oxygen as literal waste — yet this byproduct enabled the entire aerobic biosphere.
 - `INS-260330-E8CF` [high] Light reactions produce ATP and NADPH as portable energy carriers; the Calvin Cycle then spends those carriers to fix carbon into G3P, the universal building block.
 - `INS-260330-100F` [high] Thylakoid membranes store energy by pumping protons to one side, creating a 'charged battery' that drives ATP synthase — energy stored as a gradient, not a molecule.
@@ -25,6 +31,7 @@
 - `INS-260330-5676` [high] Cultural taboos against direct examination of human bodies delayed anatomical knowledge for centuries, forcing reliance on flawed animal analogies.
 - `INS-260330-E647` [high] Neurons have extremely high metabolic rates, with the brain consuming about 25% of daily calories, making cognitive function the first casualty of energy deficits.
 - `INS-260330-1677` [high] Chloroplasts charge thylakoids like batteries by pumping protons inside, then harvest that gradient through ATP synthase to produce ATP.
+- `INS-260412-339C` [high] The thymus kills 98% of new adaptive immune cells that react to self-proteins, making massive overproduction the price of unconstrained diversity.
 - `INS-260405-174B` [medium] Replacing blood with saline and albumin mimics young-blood transfusion benefits, revealing that aging damage accumulation — not depletion of youth factors — is the primary mechanism.
 - `INS-260409-9215` [medium] Suppressing DHT alone is insufficient because follicle damage persists as hypoxia, scar tissue, and broken mitochondria that must be independently repaired.
 - `INS-260404-D122` [medium] Neuralink requires ~20-minute personalized calibration per user because neural firing patterns for identical intended movements vary significantly between individuals.

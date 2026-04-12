@@ -46,8 +46,8 @@ related:
   - INS-260322-9095
   - PRI-260323-FA42
   - INS-260403-B255
+  - INS-260412-CDDC
   - PRI-260328-E3A7
-  - INS-260405-62F8
 stance: >-
   When insurance rejected a BMI-34.7 patient for Ozempic coverage at
   $1000/month, she turned to Chinese-sourced peptides at $15/vial

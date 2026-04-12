@@ -52,6 +52,5 @@ related:
   - INS-260409-FB26
   - INS-260325-6BDE
   - INS-260323-C9B1
-  - INS-260409-4EA5
 ---
 This is Korzybski's 'the map is not the territory' rendered in contemplative vocabulary. The map is useful — it helps you navigate, it preserves the pointing gesture, it survives across generations. But confusing the map for the territory produces the failure mode where people defend doctrines about awakening rather than exploring the experience the doctrine was meant to preserve. The generalization is wide: the same error shows up whenever a pointer gets mistaken for the thing pointed at — in science (mistaking models for reality), in startups (mistaking OKRs for the goals they represent), in design (mistaking style guides for taste), in engineering (mistaking specs for working software). The discipline is to keep asking 'what is this representation trying to point at?' rather than 'what does the representation say?'

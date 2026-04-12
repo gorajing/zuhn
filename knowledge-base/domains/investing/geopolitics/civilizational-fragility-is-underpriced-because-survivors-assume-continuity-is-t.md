@@ -57,14 +57,13 @@ stance: >-
   experienced total collapse, so they systematically underestimate the
   probability
 related:
-  - INS-260325-9677
   - INS-260323-DA4E
   - INS-260327-E82A
   - PRI-260328-22EC
   - INS-260330-FFAB
+  - INS-260412-0025
   - INS-260403-7BC0
   - PRI-260325-6400
-  - INS-260330-7E97
   - INS-260330-EDF4
   - INS-260325-6262
 evidence:

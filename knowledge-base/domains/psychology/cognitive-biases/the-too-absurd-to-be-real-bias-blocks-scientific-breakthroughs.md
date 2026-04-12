@@ -52,11 +52,11 @@ stance: >-
   conclusions feel intuitively absurd, and this aesthetic objection has
   historically delayed acceptance of correct theories by decades.
 related:
+  - INS-260412-DBA9
+  - INS-260412-644F
+  - INS-260412-8BDB
   - INS-260409-0250
-  - INS-260330-1509
-  - INS-260323-1670
-  - PRI-260328-9FB6
-  - INS-260409-2E2B
+  - INS-260412-AB32
 evidence:
   - id: INS-260323-2D1D
     type: CHALLENGES

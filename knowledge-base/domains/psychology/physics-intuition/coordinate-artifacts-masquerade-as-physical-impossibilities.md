@@ -50,12 +50,11 @@ stance: >-
   of chosen representation than real physical barriers, and mistaking one for
   the other can block scientific progress for decades.
 related:
-  - INS-260330-8625
+  - INS-260412-C1EC
   - INS-260330-D17A
   - INS-260330-7EFD
+  - INS-260412-5E11
   - INS-260404-80AC
-  - INS-260323-A52F
-  - INS-260330-4FC5
   - INS-260330-9B16
 evidence:
   - id: INS-260404-80AC
