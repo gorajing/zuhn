@@ -1,6 +1,6 @@
 # Domain: startups
 
-> 4411 insights across 54 topics
+> 4412 insights across 54 topics
 
 ## Topics
 
@@ -35,7 +35,7 @@
 | ideation | 90 | The smartest people can make the impossible happen, but if you cannot attract the smartest people, you cannot even make the possible happen. |
 | innovation | 132 | C invented the curly-brace, semicolon syntax that now defines how billions of developers write code — its design choices became the assumed defaults of most successor languages. |
 | investor-relations | 4 | Match your pitch deck's emphasis to investor decision criteria at your specific funding stage. |
-| leadership | 196 | Microsoft grew revenue from $6B to $80B under Ballmer, yet the stock stayed flat for over a decade because the company could not articulate a coherent story for consumers, developers, or investors. |
+| leadership | 197 | Microsoft grew revenue from $6B to $80B under Ballmer, yet the stock stayed flat for over a decade because the company could not articulate a coherent story for consumers, developers, or investors. |
 | market-entry | 55 | Simultaneous supply aging and demand shifting creates opportunities that favor operationally heavy startups over pure software. |
 | marketing | 8 | Availability friction raises perceived value; waiting lists create the FOMO that 'buy now' buttons destroy. |
 | mental-models | 7 | If a system is linear, tracking what happens to a few basis cases lets you predict outcomes for all possible inputs. |

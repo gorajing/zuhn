@@ -55,6 +55,7 @@ related:
   - INS-260410-0ECA
   - INS-260404-EE07
   - INS-260410-E151
+  - INS-260411-CF02
 ---
 While nuclear restarts and new gas plants grab headlines, the velocity of storage and solar deployment is the real story. Storage growing 20x in five years with solar costs down 90% in a decade creates a compounding flywheel—cheaper solar generates more intermittent power, which drives demand for more storage, which improves storage economics at scale.
 

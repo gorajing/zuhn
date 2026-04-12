@@ -47,10 +47,10 @@ stance: >-
   effects - making the bubble self-sustaining until the spending stops.
 related:
   - INS-260327-16A1
+  - INS-260411-FC21
   - INS-260403-87CF
   - PRI-260328-EAC4
   - PRI-260328-43F1
-  - PRI-260328-8284
 evidence:
   - id: INS-260327-0A6B
     type: CHALLENGES

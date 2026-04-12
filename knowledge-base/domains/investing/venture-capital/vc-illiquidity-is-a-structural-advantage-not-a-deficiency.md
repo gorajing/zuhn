@@ -52,6 +52,7 @@ related:
   - PRI-260406-0A0B
   - PRI-260328-2C4C
   - INS-260410-F366
+  - INS-260411-C094
 ---
 Illiquidity in venture capital is commonly framed as a drawback requiring a return premium to compensate investors. But a more accurate framing is that illiquidity is a feature: it forces patient capital allocation, prevents panic selling during downturns, and gives portfolio companies the runway to pursue long-term value creation strategies that public market pressures would prohibit.
 

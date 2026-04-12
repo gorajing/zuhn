@@ -51,7 +51,6 @@ stance: >-
   successfully raise in the current environment.
 related:
   - INS-260328-9415
-  - INS-260405-397C
   - INS-260404-15B8
   - INS-260405-F01C
   - PRI-260406-6895

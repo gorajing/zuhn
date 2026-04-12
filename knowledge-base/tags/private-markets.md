@@ -1,7 +1,7 @@
 # Tag: private-markets
 
-- `INS-260405-F374` SpaceX at $350B staying private proves the largest strategic assets no longer need public markets for liquidity.
 - `INS-260403-94A3` Evergreen funds buying VC secondaries pay closer to NAV than institutional buyers because they optimize for stable access rather than deep discounts.
+- `INS-260405-F374` SpaceX at $350B staying private proves the largest strategic assets no longer need public markets for liquidity.
 - `INS-260403-B8A3` As companies remain private longer and Gen Z/Millennial investors demand private market access, equity tokenization fills a structural gap that traditional finance cannot address.
 - `INS-260404-5CD3` The family office sector has grown to approximately 15,000 offices worldwide managing an estimated $5.9 trillion in assets.
 - `INS-260403-F642` Nearly 300 private capital professionals report firms doubling down on data consolidation and AI to sharpen sourcing and evaluation as a competitive differentiator.

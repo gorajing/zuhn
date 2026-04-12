@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-12 | 4834 actionable insights
+Generated on 2026-04-12 | 4835 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -4233,6 +4233,7 @@ Generated on 2026-04-12 | 4834 actionable insights
 - [INS-260410-9D9C] If you will need the person back within a year, the severance-plus-retraining math already tells you not to lay off — and performance ratings are too subjective to defend when you do.
 - [INS-260410-CE39] The time to build the Goldman relationship is a decade before you need to raise billions — seeds planted in good times are the only ones available in a crunch.
 - [INS-260410-141F] Top performers should trade measurable commitments (e.g. 'I'll be number one in the country') for freedom from internal meetings — bureaucracy kills the sales instinct.
+- [INS-260411-791E] Dimon argues competitive battles are fought at the detailed segment level by hundreds of small, authorized teams — not by large management committees where 'We'll get it done' means it never will.
 
 ## startups/market-entry
 - [INS-260330-7EDF] Asking 'what could go right?' instead of 'what went wrong?' shifts strategic focus from diagnosis of failure to identification of actionable opportunities.

@@ -53,7 +53,6 @@ stance: >-
   outsized dilution if the company's valuation grows significantly.
 related:
   - INS-260323-2FF9
-  - INS-260329-D38D
   - INS-260330-8FEC
   - INS-260330-AF2B
   - INS-260403-D500
@@ -62,6 +61,7 @@ related:
   - INS-260405-FFCE
   - INS-260403-36DB
   - PRI-260406-CA93
+  - PRI-260406-ADF0
 ---
 The choice between discount and valuation cap in a SAFE has asymmetric consequences depending on how much the company grows before the next priced round. A 20% discount means the SAFE investor converts at 80% of the round price—a bounded, predictable dilution. A valuation cap, however, locks in a maximum conversion price. If the company raises at 2-5x the cap, the investor gets shares at a fraction of what new investors pay.
 

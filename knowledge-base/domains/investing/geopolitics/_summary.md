@@ -1,6 +1,6 @@
 # Topic: geopolitics
 
-> 535 insights
+> 536 insights
 
 - `INS-260326-3E19` [very_high] Pharmaceutical companies funding the FDA, banks staffing financial regulators, and tech giants writing platform regulations are structurally identical -- the mechanism is industry-funded oversight producing industry-favorable rules.
 - `INS-260326-79DF` [very_high] Germany's unrestricted submarine warfare sank 886,000 tons in April 1917 alone -- a tactical triumph that brought America into the war and guaranteed Germany's defeat.
@@ -526,6 +526,7 @@
 - `INS-260323-F4FA` [medium] Democratic peace theory, economic interdependence theory, and liberal institutionalism each offer optimistic views of international relations but all fail to account for the structural pressures of anarchy.
 - `INS-260330-38C9` [medium] Son's 'time machine' theory treats the US tech ecosystem as a preview of what will succeed globally, turning geographic lag into an investment edge.
 - `INS-260322-96F1` [medium] The entire GameStop crisis was caused by an archaic settlement system (T+1) that requires collateral posting for trades that have already occurred — tokenization eliminates this by enabling instant settlement.
+- `INS-260411-8DE4` [medium] U.S. tariffs had minor direct effects on inflation and growth, but the broader trade battles are causing nations to realign economic relationships in ways whose long-term effects are hard to predict.
 - `INS-260324-4521` [medium] Ukraine claims $15T in minerals but couldn't exploit them pre-war due to oligarch corruption, zero foreign investment (1% GDP), and no mining infrastructure — the US deal is a forcing function.
 - `INS-260403-4B5A` [medium] Technological disruption of military power hierarchies historically precedes major wars because ambiguity emboldens risk-taking.
 - `INS-260403-2151` [medium] Russia's apparent post-2022 economic resilience likely reflects understated inflation rather than genuine growth, with independent estimates showing GDP actually fell 1.5%.

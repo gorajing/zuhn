@@ -13,4 +13,5 @@
 - `INS-260405-2299` Using available low-tech tools beats waiting for proper systems when speed of alignment matters.
 - `INS-260329-5818` In early stages, doing more reps at lower quality beats doing fewer reps at higher quality.
 - `INS-260403-CD90` VCs have moved from measuring network effects and stickiness to prioritizing velocity, trust, and durability of value as their core evaluation criteria for AI startups.
+- `INS-260411-791E` Dimon argues competitive battles are fought at the detailed segment level by hundreds of small, authorized teams — not by large management committees where 'We'll get it done' means it never will.
 - `INS-260327-088D` Vlad Tenev argues wartime should be the default state; any period of peacetime comfort means you probably weren't executing aggressively enough.

@@ -51,10 +51,10 @@ stance: >-
   erodes alliance value and trade relationships over years
 related:
   - INS-260403-E936
+  - INS-260411-8DE4
   - INS-260403-44A6
   - PRI-260324-2A76
   - INS-260330-825F
-  - PRI-260407-023B
 ---
 The Iran war's direct economic impact on the US (roughly 1.25pp inflation, 1.5pp GDP drag) is manageable. But the second-order reputational damage — allies seeing America as a 'dangerous loose cannon' that attacks without provocation and leaves others to bear fuel shortages — compounds over time. Countries that experience disproportionate pain from American foreign policy decisions become more motivated to reduce dependence on US-centric supply chains, energy routes, and alliance structures.
 

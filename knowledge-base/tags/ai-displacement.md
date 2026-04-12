@@ -1,6 +1,7 @@
 # Tag: ai-displacement
 
 - `INS-260409-21E0` Becoming an architect rather than a mason in the AI era requires extreme environmental constraints to rewire patterns, not motivational self-talk, because the discipline gap is what separates the two groups.
+- `INS-260411-CF02` Unlike electricity or the internet where adoption took decades, AI deployment will be far faster — and the gap between job displacement and new job creation may require unprecedented government and corporate intervention.
 - `INS-260329-6CE8` AI replaced creative and white-collar jobs first, not physical labor as universally predicted.
 - `INS-260403-287B` AI is reducing new job creation for junior roles rather than eliminating existing positions.
 - `INS-260323-DA85` When companies replace interns and junior staff with AI, they destroy the training ground that produces the next generation of senior experts.

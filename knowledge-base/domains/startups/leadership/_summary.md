@@ -1,6 +1,6 @@
 # Topic: leadership
 
-> 196 insights
+> 197 insights
 
 - `INS-260404-F834` [high] Replace abstract culture complaints with specific behavioral stories backed by evidence to surface real, fixable problems.
 - `INS-260330-4A89` [high] Raises given on request incentivize lobbying over performance; formal evaluation cycles protect meritocratic culture.
@@ -109,6 +109,7 @@
 - `INS-260403-2CA3` [high] Staff around senior leaders naturally filter out uncomfortable or surprising information, creating dangerous blind spots that leaders must actively counteract.
 - `INS-260323-7D01` [high] Leaders should shape the belief systems of employees, board, partners, and customers gradually over months so that by the time a major strategic decision is announced, it feels obvious and inevitable rather than shocking.
 - `INS-260323-D783` [high] Cooking for others and sharing meals creates a uniquely powerful social bond — people become fundamentally different when sitting down together versus standing, drinking, or interacting online.
+- `INS-260411-791E` [high] Dimon argues competitive battles are fought at the detailed segment level by hundreds of small, authorized teams — not by large management committees where 'We'll get it done' means it never will.
 - `INS-260323-4B1C` [high] With 44% of technical skills becoming obsolete within 10 years, the hardest and most durable leadership skills are the soft ones — conflict resolution, empathy, listening.
 - `INS-260322-3CFB` [high] Optimizing for stewardship (what you do and serve) rather than status (titles and positions) produces both deeper fulfillment and better career outcomes.
 - `INS-260403-5419` [high] Culture is shaped more by what leaders exclude than what they celebrate.

@@ -12,8 +12,10 @@
 - `INS-260329-425B` Dynamic arrays double in size when full, making each individual resize expensive but amortizing the cost across all appends to achieve constant time on average.
 - `INS-260327-FF4D` Biology builds elephants at room temperature from grass and water with zero waste - human manufacturing can't come close to this efficiency.
 - `INS-260329-A171` Suffix arrays replaced suffix trees by storing only sorted indices instead of full tree structures, recovering equivalent power through the LCP auxiliary array.
-- `INS-260330-545E` The electron transport chain extracts energy from excited electrons across four protein complexes in small decrements, converting it to usable ATP and NADPH rather than releasing it as waste heat.
 - `INS-260330-1084` A photon's journey from solar fusion through photosynthesis to cellular ATP involves at least 6 major conversion steps, each losing energy — making biological systems inherently energy-constrained despite abundant solar input.
+- `INS-260330-545E` The electron transport chain extracts energy from excited electrons across four protein complexes in small decrements, converting it to usable ATP and NADPH rather than releasing it as waste heat.
+- `INS-260330-30AB` Dematerializing physical processes into digital ones creates 100-1,000,000x efficiency gains — the entire history of human progress compressed into a single paradigm shift.
+- `INS-260327-0C65` Alexander repeatedly targeted the Persian king Darius personally on the battlefield — at Issus and Gaugamela, Darius's flight from the field caused his entire army to collapse.
 - `INS-260404-92B8` The block-collision pi algorithm is simultaneously the most elegant and most absurdly inefficient way to compute pi, revealing that elegance and efficiency measure fundamentally different things.
 - `INS-260409-AD3B` Galef: 'I hate waste... there's all of this unnecessary waste happening where people are leaving value on the table' — the case for scout thinking is efficiency, not morality. Sacrificing accuracy for comfort has compounding costs across thousands of life decisions that usually exceed the emotional benefit.
 - `INS-260330-6AB7` The Calvin Cycle produces 6 G3P molecules but 5 must be recycled to regenerate the starting material — only 1/6 of output actually leaves the system as usable product.
@@ -44,5 +46,3 @@
 - `INS-260404-F69A` The Calvin Cycle produces 6 G3P molecules but must recycle 5 to regenerate its starting materials, yielding only 1 net output per full cycle.
 - `INS-260405-9DB6` Plants respond to RuBisCo's 50% error rate not by evolving a better enzyme but by producing 40 billion tons of it — making raw abundance the substitute for precision.
 - `INS-260403-D8DB` Burn multiple (spend per ARR dollar), efficiency score (ARR per burn dollar), and hype factor (capital raised vs ARR) together reveal whether growth is real.
-- `INS-260330-30AB` Dematerializing physical processes into digital ones creates 100-1,000,000x efficiency gains — the entire history of human progress compressed into a single paradigm shift.
-- `INS-260327-0C65` Alexander repeatedly targeted the Persian king Darius personally on the battlefield — at Issus and Gaugamela, Darius's flight from the field caused his entire army to collapse.

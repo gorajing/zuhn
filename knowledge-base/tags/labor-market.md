@@ -3,6 +3,7 @@
 - `INS-260322-59B9` The total percentage of jobs automated matters less than whether displacement happens gradually (manageable) or in a 6-month shock (potentially destabilizing).
 - `INS-260404-C5B7` The Fed's January 2026 minutes explicitly cite AI as driving investment strength while simultaneously creating hiring uncertainty and financial concentration risk.
 - `INS-260403-7D11` Companies are quietly replacing departing employees with AI agents that deliver 70-80% of human output at a fraction of the cost.
+- `INS-260411-CF02` Unlike electricity or the internet where adoption took decades, AI deployment will be far faster — and the gap between job displacement and new job creation may require unprecedented government and corporate intervention.
 - `INS-260404-6BD6` AI agents are moving beyond task-level automation to reshape how entire workforces are structured.
 - `INS-260403-D5BB` AI labor debates are confused because participants argue from different layers of a $31T labor market without a shared framework.
 - `INS-260403-287B` AI is reducing new job creation for junior roles rather than eliminating existing positions.
@@ -11,12 +12,12 @@
 - `INS-260323-FE69` Acemoglu predicts only 5% of tasks will be profitably automated and no current occupation will disappear within 5-10 years, because every occupation embeds complex tacit knowledge.
 - `INS-260405-C709` AI-jobs debates feel unresolvable because optimists and pessimists are each describing a different causal layer of the same system.
 - `INS-260405-2287` 54.6% of U.S. adults use AI personally but fewer than 10% of businesses have integrated it into production, so the real disruption hasn't started yet.
-- `INS-260322-054E` The largest AI opportunity is not replacing existing software but replacing labor tasks where the cost-to-value equation was previously inverted.
-- `INS-260327-4D70` Jobs that 'nobody wants' almost always fall into three categories: paying below market, terrible conditions, or located in areas where the wage doesn't cover living costs.
-- `INS-260330-4E01` HEAL sector jobs will outnumber new STEM jobs 3:1 by 2030, but only 24% of HEAL workers are male and the share is falling with no organized effort to reverse it.
 - `INS-260327-40D5` Tech workers went from guaranteed careers with stock-option millionaires to mass layoffs and AI replacement, becoming everything they promised to disrupt.
 - `INS-260405-8532` With U.S. labor costs at ~$18.6 trillion (60% of GDP), even partial AI-driven displacement would constitute the largest economic value transfer in modern history.
 - `INS-260403-2242` The Fed cut rates 25bps to 3.75-4.00% and announced QT ending December 1, with dissents revealing internal division, as major layoffs at UPS (48K), Amazon (30K), and others signal accelerating labor market deterioration.
 - `INS-260327-004B` 30 million Americans will retire by 2030 representing nearly a fifth of the labor force, with most having less than $250K in total assets.
 - `INS-260405-EE1F` Aggregate economic health metrics can look normal while underlying dynamics are historically anomalous.
 - `INS-260327-3653` 8.2 million job openings vs 7 million job seekers looks like a skills mismatch, but most unfilled positions simply pay below what the required skills command in the market.
+- `INS-260322-054E` The largest AI opportunity is not replacing existing software but replacing labor tasks where the cost-to-value equation was previously inverted.
+- `INS-260327-4D70` Jobs that 'nobody wants' almost always fall into three categories: paying below market, terrible conditions, or located in areas where the wage doesn't cover living costs.
+- `INS-260330-4E01` HEAL sector jobs will outnumber new STEM jobs 3:1 by 2030, but only 24% of HEAL workers are male and the share is falling with no organized effort to reverse it.

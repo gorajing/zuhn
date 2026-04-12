@@ -1,12 +1,11 @@
 # Tag: relationships
 
 - `INS-260329-0CDD` AI companions tuned to individual preferences for voice, personality, and emotional responsiveness will outperform human partners on availability and attentiveness.
+- `INS-260327-56B3` While overt narcissists demand attention through grandiosity, covert narcissists achieve the same result through victimhood, making them far harder to identify and far more damaging in close relationships.
 - `INS-260410-3B3E` Munger's core life strategy — which Senra identified as the dominant theme of their 3-hour dinner — is that great businesses, great spouses, and great friends simply generate fewer crises than mediocre ones, so front-loading quality selection solves 99% of downstream problems.
 - `INS-260409-065B` Creativity and relationship-building are what AI can't replicate — hire for both, most firms don't.
-- `INS-260327-56B3` While overt narcissists demand attention through grandiosity, covert narcissists achieve the same result through victimhood, making them far harder to identify and far more damaging in close relationships.
 - `INS-260329-0014` Early entrepreneurial support comes from others' increased relative status; later hostility comes from your success highlighting their inaction.
 - `INS-260330-4605` The Polarity Principle in relationships operates through the same variable-ratio reinforcement schedule that drives gambling addiction.
-- `INS-260327-7193` Stop trying to make people fully understand you - they can't, and accepting that transforms your relationships from frustrated performance to genuine connection.
 - `INS-260325-3223` Psychologist Sonja Lyubomirsky's analysis estimates 50% of happiness is genetic set point, 10% is circumstances, and 40% is under our control.
 - `INS-260330-A33E` Active addiction of any kind — drugs, crime, gambling — makes genuine love impossible because the addiction always comes first.
 - `INS-260325-88DF` Attachment theory research estimates that caregivers let down about 50% of children — meaning on any given date, there is a 50% chance the other person has an attachment wound operating unconsciously.
@@ -48,6 +47,7 @@
 - `INS-260323-CF27` Positive interactions require vulnerability -- exposing that you care, that you're stressed, that you want to be liked -- and this exposure is what transforms routine exchanges into genuine bonds.
 - `INS-260325-3A54` The 85-year Harvard Study of Adult Development shows that the single choice most likely to keep you happy and healthy is investing in relationships.
 - `INS-260329-2460` A partner must love both your current self and the person you are actively working to become.
+- `INS-260327-7193` Stop trying to make people fully understand you - they can't, and accepting that transforms your relationships from frustrated performance to genuine connection.
 - `INS-260404-4F67` The number one predictor of happiness and the top enabler of antifragility are the same thing: quality relationships.
 - `INS-260327-B767` Learning to enjoy being alone transforms every relationship into a choice rather than a dependency.
 - `INS-260330-A075` Deliberately allowing yourself to be influenced by others' ideas requires the confidence that you can return to yourself afterward.

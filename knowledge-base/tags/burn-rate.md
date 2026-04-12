@@ -1,12 +1,12 @@
 # Tag: burn-rate
 
-- `INS-260405-13C5` Spending on acquisition before proving unit economics is the most common cash-kill mechanism in SaaS.
-- `INS-260405-B361` Runway tools derive value from proactive scenario modeling before each hire or campaign, not retrospective tracking.
 - `INS-260403-2A30` A clear cash runway model turns the existential threat of running out of money into a series of calm, informed decisions.
 - `INS-260330-9751` Spending less money gives you more time, more negotiating power, and more freedom to let ideas evolve at every stage.
 - `INS-260330-DC3B` Teams that see inevitable cuts being postponed grow more anxious than teams that absorb a single decisive cut paired with a clear plan.
 - `INS-260326-8798` Pay yourself less, get a worse office, and read your bank statement every month — burn rate is the only runway lever that's 100% in your control.
 - `INS-260403-4A2F` The cheapest-to-operate startups are the hardest to kill, making extreme frugality the best recession-proofing and the best default operating mode.
+- `INS-260405-13C5` Spending on acquisition before proving unit economics is the most common cash-kill mechanism in SaaS.
+- `INS-260405-B361` Runway tools derive value from proactive scenario modeling before each hire or campaign, not retrospective tracking.
 - `INS-260403-538C` Fast growth comes from hitting a real need, not from high spending — these two variables are surprisingly uncorrelated in practice.
 - `INS-260403-09E8` The real cost of a hire includes payroll tax, benefits, dental, vision, bonuses, and annual raises — often 20-40% above base salary.
 - `INS-260403-7692` People costs are 60-80% of early-stage burn, making headcount planning the single most important financial lever founders have.

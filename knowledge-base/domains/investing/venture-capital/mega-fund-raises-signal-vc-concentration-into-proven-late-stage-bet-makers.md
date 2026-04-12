@@ -51,7 +51,6 @@ related:
   - INS-260405-6FE3
   - INS-260403-87C4
   - INS-260403-5031
-  - INS-260404-88F9
 ---
 Founders Fund closing $4.6B represents a broader trend of LP capital consolidating into mega-funds with proven track records. When macro uncertainty rises, LPs retreat to brand-name managers with demonstrated returns, creating a barbell effect where large established funds grow while emerging managers struggle.
 

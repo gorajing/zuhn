@@ -50,11 +50,11 @@ stance: >-
   logistics disruption in chokepoint conflicts
 related:
   - INS-260330-7DB6
+  - INS-260411-8DE4
   - INS-260403-EC09
   - INS-260403-213C
   - INS-260323-9FCA
   - INS-260330-43FF
-  - INS-260403-44A6
   - INS-260403-DC18
   - INS-260403-2C07
 ---

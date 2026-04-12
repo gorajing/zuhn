@@ -52,10 +52,10 @@ stance: >-
   solutions.
 related:
   - INS-260404-8076
+  - INS-260411-FE7B
   - INS-260404-FA1E
   - INS-260323-4945
   - INS-260402-E144
-  - INS-260403-06FA
 ---
 Bill Gates's commentary on Germany's €1bn climate fund reflects a broader structural truth: the most impactful climate technologies (grid-scale storage, industrial decarbonization, nuclear, carbon capture) have capital requirements and return timelines that are mismatched with the typical 10-year VC fund model. Breakthrough Energy Ventures and similar patient capital vehicles exist precisely because standard VC structures create systematic underinvestment in these categories.
 

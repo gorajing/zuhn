@@ -50,5 +50,6 @@ related:
   - INS-260323-8893
   - INS-260403-53C0
   - INS-260403-B2ED
+  - INS-260411-C094
 ---
 Venture capital investments are placed at moments that do not correspond neatly to a company's operational readiness or market timing. Funds have fixed 10-year lives, LPs have liquidity expectations, and GPs must deploy capital on a schedule largely independent of whether portfolio companies are at inflection points. This creates 'time dislocation' — capital arrives too early or too late relative to when the business actually needs it. Founders who understand this can raise defensively during good windows rather than when they need money, and can structure deals to absorb the mismatch rather than being caught off-guard by it.

@@ -2,9 +2,9 @@
 
 - `INS-260325-6576` Animal research suggests psychedelics increase neuroplasticity in the days after use, creating a window where new patterns stick more easily — explaining why single sessions produce lasting change.
 - `INS-260330-72D9` Strobe-light training goggles that reduce visual information during practice produce measurably better visual performance when removed — a principle being studied at Stanford's new Vision Performance Center.
-- `INS-260330-4079` Psychedelics appear to work therapeutically by temporarily destabilizing rigid neural patterns, creating a window of increased flexibility where new behavioral repertoires can form.
 - `INS-260325-085E` Addiction is dopamine receptor downregulation — dopamine fasting (abstinence periods) restores receptor sensitivity without willpower.
 - `INS-260330-C89D` Chronic drinking increases synapses in habit circuits while reducing connections in prefrontal control circuits, creating lasting impulsivity outside drinking episodes.
+- `INS-260330-4079` Psychedelics appear to work therapeutically by temporarily destabilizing rigid neural patterns, creating a window of increased flexibility where new behavioral repertoires can form.
 - `INS-260330-2304` Psychedelics temporarily suppress the default mode network, breaking entrenched neural patterns and enabling cognitive flexibility that persists after the drug wears off.
 - `INS-260409-2CE9` The DMN is treatable as an observable engine of self-model construction; its age-related stiffening and psychedelic-induced disruption are both falsifiable claims, not metaphors.
 - `INS-260326-24E6` Embodied engagement accesses what intellect cannot, and psychedelics produce lasting change through a neuroplasticity window -- both show that the body is the primary transformation channel, not the thinking mind.
