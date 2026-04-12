@@ -1,5 +1,5 @@
 # Source Map
-Generated on 2026-04-12 | 2417 sources
+Generated on 2026-04-12 | 2467 sources
 
 | Source | Type | Insights | Date |
 |--------|------|----------|------|
@@ -730,6 +730,7 @@ Generated on 2026-04-12 | 2417 sources
 | Charlie Munger (Audio) | youtube | 5 | 2026-04-11 |
 | "China is digging out of a crisis. And America’s luck is wearing thin." — Ken Rogoff | youtube | 5 | 2026-04-10 |
 | China is killing the US on energy. Does that mean they’ll win AGI? — Casey Handmer | youtube | 5 | 2026-04-10 |
+| China's Economy is in Bad Shape | youtube | 5 | 2026-04-12 |
 | China's Geography Problem | youtube | 5 | 2026-04-12 |
 | Christianity from Judaism to Constantine: Crash Course World History #11 | youtube | 5 | 2026-03-30 |
 | Coca-Cola: The Complete History & Strategy | youtube | 5 | 2026-04-11 |
@@ -775,6 +776,7 @@ Generated on 2026-04-12 | 2417 sources
 | How AI Will Transform Fintech In 2026 | youtube | 5 | 2026-03-22 |
 | How Air Traffic Control Works | youtube | 5 | 2026-04-12 |
 | How Airlines Quietly Became Banks | youtube | 5 | 2026-04-12 |
+| How Apple Just Changed the Entire Industry (M1 Chip) | youtube | 5 | 2026-04-12 |
 | How are holograms possible? | youtube | 5 | 2026-03-30 |
 | How Barbers Really Make Money | youtube | 5 | 2026-03-24 |
 | How Budget Airlines Work | youtube | 5 | 2026-04-12 |
@@ -782,6 +784,7 @@ Generated on 2026-04-12 | 2417 sources
 | How evolution works in 54 minutes | Sean B. Carroll: Full Interview | youtube | 5 | 2026-03-25 |
 | How I built an app that makes $2,000 in one month (from scratch) | youtube | 5 | 2026-03-22 |
 | How I use LLMs | youtube | 5 | 2026-04-10 |
+| How is Money Created? – Everything You Need to Know | youtube | 5 | 2026-04-12 |
 | How McDonald's Really Makes Money | youtube | 5 | 2026-03-30 |
 | How Meditation Works & Science-Based Effective Meditations | youtube | 5 | 2026-03-30 |
 | How North Korea Makes Money | youtube | 5 | 2026-03-30 |
@@ -792,6 +795,7 @@ Generated on 2026-04-12 | 2417 sources
 | How Overnight Shipping Works | youtube | 5 | 2026-04-12 |
 | How Rwanda is Becoming the Singapore of Africa | youtube | 5 | 2026-04-12 |
 | How Sugar & Processed Foods Impact Your Health | Dr. Robert Lustig | youtube | 5 | 2026-03-30 |
+| How the 2008 Financial Crisis Still Affects You | youtube | 5 | 2026-04-12 |
 | How the World’s Most Dangerous Country Solved Murder | youtube | 5 | 2026-04-12 |
 | How to Access Your Creativity | Rick Rubin | youtube | 5 | 2026-03-30 |
 | How To Actually Get Rich In Your 20s | youtube | 5 | 2026-03-30 |
@@ -804,6 +808,7 @@ Generated on 2026-04-12 | 2417 sources
 | How To Get Unique AI Startup Ideas | youtube | 5 | 2026-03-29 |
 | How to Grow Your Business SO Fast in 2026 It Feels ILLEGAL | youtube | 5 | 2026-03-30 |
 | How to Improve Your Eye Health & Offset Vision Loss | Dr. Jeffrey Goldberg | youtube | 5 | 2026-03-30 |
+| How to Lie Your Way to $34 Billion [Nikola Motors Fraud] | youtube | 5 | 2026-04-12 |
 | How to Lose Fat with Science-Based Tools | youtube | 5 | 2026-03-30 |
 | How to Sell by Tyler Bosmeny | youtube | 5 | 2026-03-27 |
 | How To Terraform Venus (Quickly) | youtube | 5 | 2026-04-12 |
@@ -831,6 +836,7 @@ Generated on 2026-04-12 | 2417 sources
 | Isolation - Mind Field (Ep 1) | youtube | 5 | 2026-03-30 |
 | Israel, Hamas, and the Battle for Civilization | Sam Harris & Douglas Murray | youtube | 5 | 2026-03-30 |
 | It's Actually Pretty Easy to Get Ahead of 99% of People | youtube | 5 | 2026-03-30 |
+| It’s Time to Pay Attention to A.I. (ChatGPT and Beyond) | youtube | 5 | 2026-04-12 |
 | Jeff Dean & Noam Shazeer — 25 years at Google: from PageRank to AGI | youtube | 5 | 2026-04-10 |
 | Jeff Kaplan: World of Warcraft, Overwatch, Blizzard, and Future of Gaming | Lex Fridman Podcast #493 | youtube | 5 | 2026-03-23 |
 | Jensen Huang: NVIDIA - The $4 Trillion Company & the AI Revolution | Lex Fridman Podcast #494 | youtube | 5 | 2026-03-23 |
@@ -883,6 +889,7 @@ Generated on 2026-04-12 | 2417 sources
 | Ponzi: The Financial Idiot Who Scammed the World | youtube | 5 | 2026-03-30 |
 | Porsche (with Doug DeMuro) | youtube | 5 | 2026-04-11 |
 | Real vs Fake Startups | youtube | 5 | 2026-03-29 |
+| Reddit vs Wallstreet - GameStop, The Movie | youtube | 5 | 2026-04-12 |
 | Renaissance Technologies (Audio) | youtube | 5 | 2026-04-11 |
 | Richard Sutton – Father of RL thinks LLMs are a dead end | youtube | 5 | 2026-04-10 |
 | Rick Beato: Greatest Guitarists of All Time, History & Future of Music | Lex Fridman Podcast #492 | youtube | 5 | 2026-03-23 |
@@ -940,6 +947,7 @@ Generated on 2026-04-12 | 2417 sources
 | The essence of calculus | youtube | 5 | 2026-03-30 |
 | The Failed Logistics of Russia's Invasion of Ukraine | youtube | 5 | 2026-04-12 |
 | The French Revolution: Crash Course World History #29 | youtube | 5 | 2026-03-30 |
+| The FTX Disaster is Deeper Than you Think | youtube | 5 | 2026-04-12 |
 | The Future Mark Zuckerberg Is Trying To Build | youtube | 5 | 2026-03-23 |
 | The hardest problem on the hardest test | youtube | 5 | 2026-03-30 |
 | The illusion of shared reality | Anil Seth & Jonny Thomson | youtube | 5 | 2026-03-25 |
@@ -958,6 +966,7 @@ Generated on 2026-04-12 | 2417 sources
 | The Power of Suggestion | youtube | 5 | 2026-03-30 |
 | The Power of Vulnerability | Brené Brown | TED | youtube | 5 | 2026-03-27 |
 | The Reckoning (Episode #391) | youtube | 5 | 2026-03-30 |
+| The Sackler Family – A Secretive Billion Dollar Opioid Empire | youtube | 5 | 2026-04-12 |
 | The Sanction-Fueled Destruction of the Russian Aviation Industry | youtube | 5 | 2026-04-12 |
 | The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton | youtube | 5 | 2026-03-30 |
 | The Science of Making & Breaking Habits | youtube | 5 | 2026-03-30 |
@@ -967,6 +976,7 @@ Generated on 2026-04-12 | 2417 sources
 | The spelled-out intro to language modeling: building makemore | youtube | 5 | 2026-04-10 |
 | The Steve Ballmer Interview | youtube | 5 | 2026-04-11 |
 | The strongest arguments for and against the existence of God | Alex O'Connor: Full Interview | youtube | 5 | 2026-03-25 |
+| The Struggle of Building the Original iPhone - The Untold Story | youtube | 5 | 2026-04-12 |
 | The Surprising Secret of Synchronization | youtube | 5 | 2026-03-30 |
 | The Timeless Business of Steakhouses | youtube | 5 | 2026-03-24 |
 | The Uber Story: Fraud, Betrayal, Death & Cars | youtube | 5 | 2026-03-30 |
@@ -1006,6 +1016,7 @@ Generated on 2026-04-12 | 2417 sources
 | Why Chinese Manufacturing Wins | youtube | 5 | 2026-04-12 |
 | Why I don’t think AGI is right around the corner | youtube | 5 | 2026-04-10 |
 | Why In-N-Out Isn't Coming to a City Near You | youtube | 5 | 2026-03-30 |
+| Why is Gen Z so Poor? | youtube | 5 | 2026-04-12 |
 | Why It Was Almost Impossible to Make the Blue LED | youtube | 5 | 2026-03-30 |
 | Why Leonardo was a saboteur, Gutenberg went broke, and Florence was weird – Ada Palmer | youtube | 5 | 2026-04-10 |
 | Why Netflix is Collapsing: The Truth About Netflix's Empire | youtube | 5 | 2026-03-30 |
@@ -1635,6 +1646,7 @@ Generated on 2026-04-12 | 2417 sources
 | The Wild Economics of Online Gambling | youtube | 4 | 2026-03-24 |
 | The World War of the Ants – The Army Ant | youtube | 4 | 2026-04-12 |
 | The World's Most Important Machine | youtube | 4 | 2026-03-23 |
+| Theranos – Silicon Valley’s Greatest Disaster | youtube | 4 | 2026-04-12 |
 | This coach teaches tech sales mentality hacks | youtube | 4 | 2026-03-27 |
 | This Common Substance Was Once Worth Millions | youtube | 4 | 2026-03-23 |
 | This free Chinese AI just crushed OpenAI's $200 o1 model... | youtube | 4 | 2026-03-30 |
@@ -2420,3 +2432,41 @@ Generated on 2026-04-12 | 2417 sources
 | You Are Taking Creatine Wrong (here's how to fix it) | youtube | 1 | 2026-03-26 |
 | You Will Never Wear AirPods Again | youtube | 1 | 2026-03-26 |
 | You'll Never Eat Sardines Again | youtube | 1 | 2026-03-26 |
+| 5 Mind Blowing Facts About Your Smartphone! | youtube | 0 | 2026-04-12 |
+| 6 People Who Predicted the Future With Stunning Accuracy | youtube | 0 | 2026-04-12 |
+| Deepfakes - Real Consequences | youtube | 0 | 2026-04-12 |
+| Enron - The Biggest Fraud in History | youtube | 0 | 2026-04-12 |
+| EU Just Changed Smartphones Forever | youtube | 0 | 2026-04-12 |
+| Ex-Apple CEO Starts His Own Phone Company! | youtube | 0 | 2026-04-12 |
+| Exploring the Dark Web | youtube | 0 | 2026-04-12 |
+| 'Fake Bitcoin' - How this Woman Scammed the World, then Vanished | youtube | 0 | 2026-04-12 |
+| Google's Deep Mind Explained! - Self Learning A.I. | youtube | 0 | 2026-04-12 |
+| How a 28 Year Old Man Destroyed England’s Oldest Bank | youtube | 0 | 2026-04-12 |
+| How BIG is Google? | youtube | 0 | 2026-04-12 |
+| How BIG is Samsung? (They Have a Military Department!) | youtube | 0 | 2026-04-12 |
+| How BIG is TATA? (They Own Jaguar) | ColdFusion | youtube | 0 | 2026-04-12 |
+| How Big is Toyota? (They’ve Owned 27% of Tesla Motors!) | youtube | 0 | 2026-04-12 |
+| How BIG is Volkswagen? (They own Lamborghini, Bentley, Bugatti, Porsche..) | youtube | 0 | 2026-04-12 |
+| How One Powerful Family Destroyed A Country | youtube | 0 | 2026-04-12 |
+| How This 31 Year Old Woman Scammed JP Morgan | youtube | 0 | 2026-04-12 |
+| How This Man Just Caused a $45 BILLION Crash [Terra Luna] | youtube | 0 | 2026-04-12 |
+| Japan's Lost Decade - An Economic Disaster [Documentary] | youtube | 0 | 2026-04-12 |
+| Li-Fi, 100X Faster Than Wi-Fi! | ColdFusion | youtube | 0 | 2026-04-12 |
+| Major Breakthrough: Graphene Batteries FINALLY Hit the Market | youtube | 0 | 2026-04-12 |
+| Married Couple Steals $4.5 Billion in Bitcoin Heist [Bitfinex] | youtube | 0 | 2026-04-12 |
+| Next-Gen Graphics FINALLY Arrive [Unreal Engine 5] | youtube | 0 | 2026-04-12 |
+| Next Generation Robots - Boston Dynamics, Asimo, Da Vinci, SoFi | youtube | 0 | 2026-04-12 |
+| Nokia’s 2017 Return | youtube | 0 | 2026-04-12 |
+| Samsung is in Crisis | youtube | 0 | 2026-04-12 |
+| The Man Who Stole $65 Billion (Bernie Madoff) | youtube | 0 | 2026-04-12 |
+| The True Story of Nikola Tesla [Pt.1] | youtube | 0 | 2026-04-12 |
+| The Truth About Solar | youtube | 0 | 2026-04-12 |
+| Three Men Lost in Space – The Apollo 13 Disaster | youtube | 0 | 2026-04-12 |
+| US Banking Crisis: The Truth Behind The Disaster | youtube | 0 | 2026-04-12 |
+| WeWork - The $47 Billion Disaster | youtube | 0 | 2026-04-12 |
+| What Was the Biggest Company in History? - $7.9 Trillion! | youtube | 0 | 2026-04-12 |
+| When Greed Goes Too Far - The Worldcom Fraud | youtube | 0 | 2026-04-12 |
+| Where Did Bitcoin Come From? – The True Story | youtube | 0 | 2026-04-12 |
+| Who Controls All of Our Money? | youtube | 0 | 2026-04-12 |
+| Why Meta Lost $230 billion [Biggest Company Loss in History] | youtube | 0 | 2026-04-12 |
+| Worst Company Disasters! | Top 6 Blunders | youtube | 0 | 2026-04-12 |

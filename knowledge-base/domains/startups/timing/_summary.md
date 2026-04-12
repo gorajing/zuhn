@@ -1,6 +1,6 @@
 # Topic: timing
 
-> 67 insights
+> 68 insights
 
 - `INS-260404-007F` [high] Enterprise SaaS IPOs from 2012 outperformed expectations by solving deep operational pain points with recurring revenue models.
 - `INS-260330-ADB7` [high] Gallium nitride was declared a 'dead end' by RCA in 1972 and by Nichia's biggest customer in 1990, yet became an $80 billion industry by 2024.
@@ -55,6 +55,7 @@
 - `INS-260404-6FFF` [medium] Consumer-focused startups are making a comeback, following a historical pattern where new technology waves re-open B2C opportunity windows.
 - `INS-260404-D40E` [medium] Map the business environment — trends, competition, customer context, and macro forces — to validate whether your timing is right.
 - `INS-260328-9C16` [medium] Founders with good domain insights but poor pre-AI tools are finding that AI lets them deliver dramatically more value to the same customers.
+- `INS-260412-6C6F` [medium] The 2008 crisis directly spawned Bitcoin and the Occupy movement because mass betrayal by trusted institutions creates explosive demand for alternatives.
 - `INS-260404-1A18` [medium] Photosynthesis has been 'complicated, inefficient and confusing' for 450 million years yet dominates all life on Earth, demonstrating that first-mover lock-in can outlast any degree of technical debt.
 - `INS-260325-8062` [medium] From 1870-1920 we got electricity, internal combustion, telecom, synthetic chemistry, and public health revolutions; from 1970-2020, mainly just information technology.
 - `INS-260325-66BE` [medium] In 1800 nobody thought lacking refrigerators or plumbing was extreme poverty because it was normal — our descendants may view our era the same way.

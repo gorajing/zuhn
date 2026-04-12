@@ -45,7 +45,6 @@ stance: >-
   concentrates in the Bay Area, creating a self-reinforcing talent and capital
   gravity well that starves other regions
 related:
-  - INS-260403-C8A9
   - PRI-260406-3317
   - INS-260402-180C
   - INS-260330-608C

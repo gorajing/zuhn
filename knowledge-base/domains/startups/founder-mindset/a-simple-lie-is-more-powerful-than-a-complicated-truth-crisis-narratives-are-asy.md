@@ -50,9 +50,9 @@ resolutions:
 related:
   - INS-260322-96F1
   - PRI-260411-5A63
+  - INS-260412-09EE
   - PRI-260321-2DF0
   - PRI-260407-93D7
-  - INS-260323-8C53
 stance: >-
   During a crisis, the false but simple narrative ('Robinhood colluded with
   hedge funds') will always defeat the true but complex explanation (cleari...

@@ -61,8 +61,8 @@ related:
   - INS-260402-31D8
   - INS-260404-78E0
   - INS-260327-368D
+  - INS-260412-9C7F
   - PRI-260406-03D1
-  - INS-260403-FF74
 ---
 The March 2026 SEC/CFTC joint interpretive release represents a structural shift in US crypto regulation. By introducing a formal taxonomy (digital commodities, collectibles, tools, stablecoins = not securities; digital securities = securities), the SEC eliminated the ambiguity that forced companies to either avoid the US market or operate under constant enforcement risk.
 

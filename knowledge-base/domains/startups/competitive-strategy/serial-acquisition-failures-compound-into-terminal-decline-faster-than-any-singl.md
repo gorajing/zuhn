@@ -56,7 +56,7 @@ related:
   - INS-260330-8326
   - INS-260403-CCED
   - INS-260330-9933
-  - INS-260405-77C9
+  - INS-260412-AB09
 ---
 Yahoo's decline wasn't caused by any single missed deal — it was the compounding effect of repeatedly making the same category of error. Passing on Google in 2002 was costly but survivable. But then passing on Facebook in 2006 (over a $100M gap), rejecting Microsoft's $46B buyout in 2008, and choosing Tumblr over Netflix in 2013 created a pattern where each miss narrowed Yahoo's strategic options while competitors grew exponentially.
 

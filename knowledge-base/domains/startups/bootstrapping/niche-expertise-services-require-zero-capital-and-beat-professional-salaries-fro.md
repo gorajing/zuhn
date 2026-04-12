@@ -56,7 +56,6 @@ related:
   - INS-260409-D012
   - PRI-260406-9780
   - INS-260329-12EC
-  - INS-260409-B15B
 ---
 The business has near-zero fixed costs: no office (use libraries), no equipment, no inventory, no employees at the start. The only asset required is a verifiable test score and a structured method. This makes the downside effectively zero — if it doesn't work, you've lost a few months of evenings.
 

@@ -10,5 +10,5 @@
 - `INS-260403-C7AB` The same return multiple can represent wildly different investment quality depending on how long capital was locked up.
 - `INS-260403-CF1D` VC fund performance metrics are improving with rising DPI, growing LP check sizes, and faster capital deployment reducing dry powder.
 - `INS-260403-B9B8` VCs require 25-40% returns depending on stage, market risk, and deal competition — higher for earlier stages where failure probability is greatest.
-- `INS-260403-03CC` Showing investors exactly why your ask works mathematically — not hoping they 'get it' — builds credibility and strengthens your negotiating position.
 - `INS-260405-5C48` Having live IRR numbers before every investor call signals operational discipline and closes the trust gap faster than almost any other preparation.
+- `INS-260403-03CC` Showing investors exactly why your ask works mathematically — not hoping they 'get it' — builds credibility and strengthens your negotiating position.

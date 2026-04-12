@@ -50,11 +50,11 @@ stance: >-
   startup's existing VC backers and their likelihood of continued support, not
   on the startup's standalone financial metrics.
 related:
+  - INS-260412-9E3A
   - PRI-260406-B702
   - INS-260327-1555
   - INS-260405-9C70
   - INS-260404-D4A0
-  - INS-260403-636D
 ---
 Unlike traditional bank lending which evaluates cash flows and collateral, venture debt underwriting is fundamentally a bet on the startup's ability to raise future equity or reach break-even. Lenders prioritize investor backing from reputable firms, sufficient runway (ideally 12+ months), a clear deployment plan for the capital, and a credible path to the next milestone. Many deals explicitly include 'investor support' clauses requiring existing VCs to continue backing the company.
 

@@ -54,5 +54,6 @@ related:
   - PRI-260407-F884
   - INS-260330-AB95
   - INS-260330-258F
+  - INS-260412-EE2D
 ---
 Bill Campbell taught Horowitz this principle: you can take someone's job, but you don't have to take their dignity. When firing someone, be honest with them directly — usually the failure is a hiring mismatch, not personal inadequacy. But when communicating to the company, thank them for their work and let them move on without airing personal details. This isn't just kindness — it's strategic. Every employee will get reference calls about the departing person. If you publicly humiliate them, it won't be interpreted as 'we screwed up hiring,' it will be interpreted as 'they screwed up' — damaging their career unfairly. More importantly, every remaining employee watches how you treat people on their way out and calibrates their own loyalty accordingly. The firing conversation requires radical honesty; the company announcement requires radical dignity.

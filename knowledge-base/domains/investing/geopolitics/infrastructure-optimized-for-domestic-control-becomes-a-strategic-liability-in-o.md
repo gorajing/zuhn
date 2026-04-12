@@ -54,6 +54,5 @@ related:
   - INS-260412-9351
   - INS-260327-37E3
   - PRI-260321-0A4D
-  - INS-260412-8780
 ---
 Russia's 20,000 state-owned locomotives and 30,000 Railway Troops personnel represent enormous domestic capability—they can mobilize 175,000 troops with heavy equipment across thousands of kilometers to staging areas near any border. But this very optimization creates a structural dependency: the military never needed to develop robust truck-based or flexible logistics because rail always handled it domestically. When operations crossed into Ukraine where rail couldn't follow, the military had no adequate substitute. This is a general pattern: infrastructure optimized for internal control—whether state rail networks, centralized communication systems, or domestic supply chains—creates capabilities that look formidable but contain hidden dependencies. The same state control that makes domestic mobilization seamless makes foreign projection fragile, because the system was never designed to operate without the infrastructure it monopolized.

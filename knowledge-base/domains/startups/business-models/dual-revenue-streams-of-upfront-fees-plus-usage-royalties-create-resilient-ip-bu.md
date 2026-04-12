@@ -52,8 +52,7 @@ related:
   - INS-260330-8FEC
   - INS-260410-5981
   - INS-260329-2EAA
-  - INS-260410-F455
-  - INS-260410-CA89
+  - INS-260412-FB49
 evidence:
   - id: INS-260330-8FEC
     type: REFINES

@@ -29,6 +29,7 @@
 - `INS-260327-38BC` Rotating product strategies generate novelty-driven visits but prevent the creation of signature items that form lasting
 - `INS-260327-6A4B` Zara competitive advantage is supply chain speed, not design quality — they produce mediocre designs faster than anyone 
 - `INS-260412-BEBE` The competitive drive that lets you win a market can be the same force that burns it down.
+- `INS-260410-B6EA` Mixed human-AI corporations will be outcompeted by fully autonomous ones the way a spreadsheet with some human-computed cells would be worse than a pure spreadsheet.
 - `INS-260403-B7C6` Overfunded competitors lose exit flexibility and operational agility, turning their capital advantage into a strategic cage.
 - `INS-260410-8AF0` Britain could have weighed in against Prussia at any point in Bismarck's three wars and didn't, because each war individually looked too minor to merit intervention.
 - `INS-260327-4431` When customer demand is driven by anxiety about future availability rather than current need, sales are inherently unpre
@@ -57,14 +58,15 @@
 - `INS-260327-E153` Airlines only generate sustainable profits when they achieve hub dominance that reduces competition on specific routes, 
 - `INS-260322-0E41` Unlike Windows' 95% monopoly which crushed VisiCalc/Lotus, having 5+ model providers means AI startups face taxation risk, not existential platform risk.
 - `INS-260403-F4D3` Plausible alternatives erode incumbent control more effectively than head-on competition because they expand buyer optionality without triggering defensive responses.
+- `INS-260412-AB09` Intel CEO Paul Otellini rejected the iPhone chip deal because mobile margins seemed too thin, inadvertently funding Apple's path to replacing Intel entirely.
 - `INS-260327-9CB1` Restaurants that design menus and presentations for Instagram shareability optimize for first-visit spectacle at the exp
 - `INS-260327-E359` Ice cream shops face the structural challenge that demand is seasonal but rent, equipment, and staff costs are year-roun
 - `INS-260404-CB96` The best defense turns the attacker's greatest strength into their greatest vulnerability.
 - `INS-260327-CC05` In SEO spam, mobile apps, and crypto ICOs, the sloppers all followed the same 'turkey graph' — looked like winning early, then collapsed. AI slop will be no different.
 - `INS-260405-F03A` Plants evolved RuBisCo in a low-oxygen atmosphere, then produced the very oxygen that made RuBisCo increasingly dysfunctional — a trap where success altered the environment enough to undermine the mechanism of success.
-- `INS-260410-B6EA` Mixed human-AI corporations will be outcompeted by fully autonomous ones the way a spreadsheet with some human-computed cells would be worse than a pure spreadsheet.
 - `INS-260412-F93A` F1 forbids teams from touching freight until all teams' equipment has arrived, ensuring no one gets a head start on assembly.
 - `INS-260403-4960` Tell investors truthfully about competing interest to create real urgency, but never exaggerate — investors are hypersensitive to manipulation.
+- `INS-260412-829C` Walgreens invested $105M partly because they feared Safeway would land the partnership first.
 - `INS-260402-A3DB` Coordinate first meetings within a 2-3 week window and manage all funds on parallel timelines to create a competitive market for your equity.
 - `INS-260404-00CD` Patent trolls are parasites seeking rent, but incumbents suing startups are deliberately trying to kill superior products — a far worse outcome for innovation.
 - `INS-260412-CAEF` Amtrak's 98.6% of delays come from freight companies who own the tracks and naturally prioritize their own trains.

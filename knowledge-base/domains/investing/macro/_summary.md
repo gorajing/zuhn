@@ -1,17 +1,22 @@
 # Topic: macro
 
-> 45 insights
+> 62 insights
 
+- `INS-260412-BE3C` [high] Crowded short positions above 100% float create exploitable asymmetric risk where shorts face unlimited loss while longs risk only their principal.
 - `INS-260411-FC21` [high] Capital formation drives GDP growth, R&D, and jobs — 80% of R&D and 70% of capex comes from large companies, and countries like Sweden that promote retail investment outperform those that don't.
 - `INS-260412-80AB` [high] Panama's $5.4B lock expansion forced New Jersey to spend $1.7B raising a single bridge, plus billions more in port upgrades coast-wide.
+- `INS-260412-5253` [high] QE transfers wealth upward by inflating asset prices with newly created money while burdening taxpayers with the repayment obligation.
 - `INS-260412-C17E` [high] Incompatible EV charging standards split the installed base and prevent any single network from reaching critical density.
 - `INS-260405-397C` [high] A continuing resolution ending January 30 means the same fight resumes in six weeks with even less goodwill.
+- `INS-260412-AB8A` [high] Post-2008 money printing inflates assets faster than wages, making housing and investments progressively unreachable for wage earners.
 - `INS-260412-E3CC` [high] In 1974 it was illegal to fly NYC-LA for less than $1,442 (inflation-adjusted); deregulation enabled a 50% real price drop over three decades.
 - `INS-260410-4357` [high] At scale, effectiveness of achieving outcomes matters more than efficiency of resource use — the 'waste' in China's growth was the mechanism that produced the growth.
 - `INS-260410-6A19` [high] Goldman Sachs and every serious forecaster predicted China would dwarf the US by now — they were all wrong, just as they were wrong about Japan and the USSR before that.
 - `INS-260410-75B9` [high] Financial crises are categorically different from recessions — they blow up business models and leave 15-50% permanent GDP gaps that never recover.
 - `INS-260410-5075` [high] Financial repression is bad, but suddenly removing it is worse — Japan's 1985 Plaza Accord deregulation led directly to their 1992 crisis because they 'didn't know what they were doing' yet.
+- `INS-260412-A718` [high] Banks now operate with zero reserve requirements, removing the last quantitative constraint on money creation.
 - `INS-260411-0841` [high] Household net worth at 560% of GDP and low credit spreads mean anything less than positive outcomes could trigger dramatic asset price declines.
+- `INS-260412-F80E` [high] 70% of Chinese household wealth in real estate means any property correction threatens social stability, not just portfolios.
 - `INS-260410-E47B` [high] The Battle of the Atlantic turned not on brilliant tactics but on the moment US shipyards started building merchantmen faster than U-boats could sink them.
 - `INS-260412-3713` [high] Anchorage went from one of the world's most connected airports to near-abandonment within a decade when Russia opened its airspace after the Soviet collapse.
 - `INS-260412-52B9` [high] No landlocked country ranks among the world's 18 largest economies because maritime shipping remains the cheapest long-distance trade method.
@@ -19,12 +24,17 @@
 - `INS-260412-3382` [high] Pre-pandemic shipping cost of ~$1,000 per 20-foot container from Asia to the US means transporting a single shoebox 8,000 miles cost about 30 cents — less than a chicken nugget.
 - `INS-260410-C329` [high] Plague evades the 'don't kill your host' constraint by being vector-borne and rodent-native; COVID-19 was uncontainable because of a specific latency window, not raw lethality.
 - `INS-260411-BC19` [high] With PE holding periods doubling to 7 years and 13K companies staying private, the exit mechanism is broken — continuation funds and secondary sales are temporary fixes masking the underlying problem.
+- `INS-260412-46A4` [high] Robinhood's buy-side restrictions during the GME squeeze revealed that platforms funded by institutional order flow payments will protect those institutions when retail activity threatens them.
+- `INS-260412-7B69` [high] When governments equate policy reversal with weakness, failing policies become self-reinforcing traps that compound economic damage.
 - `INS-260411-0B4F` [high] Private credit at $1.8T has weaker covenants, aggressive assumptions, PIK interest, and no rigorous valuation marks, making losses in a downturn unpredictable.
+- `INS-260412-89BE` [high] Near-zero rates after 2008 pushed investment away from productive innovation and into speculative financial assets, permanently lowering GDP per capita trajectory.
 - `INS-260410-F814` [high] Soviet growth was already stagnating in the late 1950s until the 1959 Siberian oil discovery and 1973-85 oil boom gave them two decades of hard currency to paper over command-economy failure — and when oil prices collapsed in the mid-1980s the hidden rot became unmanageable almost overnight.
 
 - `INS-260412-5731` [high] China's own economic success raised wages enough that Chinese manufacturers now seek cheaper labor in Africa, replicating the pattern that built China.
 - `INS-260411-FE7B` [high] The capital requirements for AI infrastructure, supply chain resilience, and government capabilities are raising barriers to entry and making scale advantages more durable, not less.
+- `INS-260412-8D4F` [high] Purdue's cumulative settlements were described as 'pennies on the dollar' against $35B in OxyContin revenue, functioning as an 'expensive license for criminal misconduct.'
 - `INS-260410-731D` [high] China's banking system lets strategic-sector companies borrow on the promise of producing units, not profits — which produces world-leading manufacturing capacity alongside massive capital destruction.
+- `INS-260412-BC68` [high] Stock market cap exceeding GDP indicates the market reflects monetary policy rather than economic fundamentals.
 - `INS-260412-F401` [high] Container shortages worsened port congestion, which worsened container shortages, which worsened truck driver shortages — each shortage feeding the next in a vicious cycle.
 - `INS-260410-147B` [high] China built a magnificent production machine but no demand machine — the result is deflation, shrinking pricing power, and growth below potential even as tech capacity soars.
 - `INS-260412-10F1` [high] The 2021 shipping crisis showed that a 25% demand increase caused delays and costs to spiral far beyond 25% because congestion compounds through interdependent chokepoints.
@@ -32,14 +42,20 @@
 - `INS-260405-AB6B` [high] The SRF caps rates by providing unlimited cash against collateral; the RRP floors rates by offering a guaranteed return that crowds out sub-Fed-rate private lending.
 - `INS-260405-F6E6` [high] America's $32B agricultural trade deficit in 2024 signals a structural shift after decades as a net food exporter.
 - `INS-260405-25DD` [high] December 31 Fed facility spikes are a predictable accounting artifact of banks shrinking balance sheets for year-end regulatory snapshots.
+- `INS-260412-9E3A` [medium] Where banks direct their lending matters more than how much money they create — speculation vs. production determines economic resilience.
 - `INS-260410-E151` [medium] Batteries substitute for the grid by arbitraging across time instead of space, and since batteries are deployed behind-the-meter without grid operator consent, grid utilization is structurally declining while operating costs rise.
+- `INS-260412-4859` [medium] Inflation is currently sequestered in asset prices; when asset holders liquidate into the real economy, money velocity will spike and consumer inflation will follow.
 - `INS-260412-F62F` [medium] St Kitts and Nevis sells citizenship for a $400K real estate investment, effectively putting a market price on sovereignty access.
+- `INS-260412-D138` [medium] CZ's strategic tweet dumping $2B in FTT was a calculated competitive kill shot that would be illegal in regulated markets but was perfectly legal in crypto.
+- `INS-260412-0257` [medium] Each bailout teaches financial institutions they'll be rescued, encouraging larger bets, while low-rate scaffolding makes the system unable to withstand normal conditions.
 - `INS-260410-F682` [medium] Lane argues that on billions of wet rocky planets, the same carbon chemistry, proton gradients, and Krebs cycle intermediates will keep appearing because the substrate is deterministic—and the same logic applies to any system where underlying constraints are fixed and alternatives have been thoroughly searched.
 - `INS-260410-C02E` [medium] Japan and Germany's export models weren't just about foreign demand — they were about forcing their firms to compete with world-class rivals when domestic markets would have tolerated monopolies.
+- `INS-260412-D82A` [medium] GameStop's price dislocation was framed as an anomaly, but it was actually a concentrated expression of the same price-value disconnect that financialization has been producing across all markets since the Commodity Futures Modernization Act of 2000.
 - `INS-260412-A21A` [medium] Outsourcing operations to developing countries with limited air service makes private jets a necessity rather than a luxury for corporate travel.
 - `INS-260412-12A5` [medium] Governments offer EV purchase tax credits but neglect charging infrastructure, putting the cart before the horse.
 - `INS-260405-C88A` [medium] Agricultural consolidation reshapes who bears risk and who captures value faster than any technology innovation cycle.
 - `INS-260405-24F0` [medium] Britain's relative manufacturing share predicted its WWI dependency on America decades before the war; today's US-China manufacturing gap signals a similar structural shift.
+- `INS-260412-AB38` [medium] Governments changed how they measure inflation and unemployment to report lower numbers, masking how much worse conditions actually are.
 - `INS-260405-B6CB` [medium] China's post-2008 infrastructure investment produced not just recovery but a transportation, energy, and digital backbone that now underpins its manufacturing dominance.
 - `INS-260412-CD24` [medium] Australia's desert interior funnels economic activity into coastal mining exports, structurally limiting diversification.
 - `INS-260412-7262` [medium] California's HSR social benefits ($440M/year from lower emissions, higher productivity, fewer road deaths) almost exactly offset its required subsidy.
@@ -48,3 +64,4 @@
 - `INS-260410-AC50` [medium] The US has four ways out of its debt — default, austerity, financial repression, or inflation — and inflation is both politically easiest and historically how the US handled WWII debt.
 - `INS-260405-DA83` [medium] TSMC's record $52-56B capex guidance reflects hyperscalers reserving capacity years ahead, de-risking the investment case.
 - `INS-260405-2230` [medium] IMF projects US GDP growth to slow in 2025 after leading advanced economies post-COVID.
+- `INS-260412-2D60` [medium] China's tang ping and bai lan movements signal a broken social contract where effort no longer yields proportional reward, degrading future human capital formation.

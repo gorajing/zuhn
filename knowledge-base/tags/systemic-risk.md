@@ -3,6 +3,8 @@
 - `INS-260327-3A81` If AI fails we lose jobs from the economic collapse of wasted investment; if AI succeeds we lose jobs from automation - the economy has placed an irreversible bet on a technology whose success and failure both lead to displacement.
 - `INS-260403-B0E3` Circular investment chains in AI infrastructure create fragility where one valuation drop can cascade through the entire system.
 - `INS-260327-D4D8` Markets dropping 12% in Japan then recovering the next day while fingers are pointed at multiple unrelated causes suggests nobody - not traders, not regulators, not economists - truly understands what's happening.
+- `INS-260412-0257` Each bailout teaches financial institutions they'll be rescued, encouraging larger bets, while low-rate scaffolding makes the system unable to withstand normal conditions.
+- `INS-260412-F80E` 70% of Chinese household wealth in real estate means any property correction threatens social stability, not just portfolios.
 - `INS-260411-0B4F` Private credit at $1.8T has weaker covenants, aggressive assumptions, PIK interest, and no rigorous valuation marks, making losses in a downturn unpredictable.
 - `INS-260412-F401` Container shortages worsened port congestion, which worsened container shortages, which worsened truck driver shortages — each shortage feeding the next in a vicious cycle.
 - `INS-260327-BB67` Auto lending has become so fragmented across leases, subprime loans, buy-here-pay-here, and cross-collateralized products that even regulators admit they can't track total exposure.

@@ -2,6 +2,7 @@
 
 - `INS-260403-A36C` Under-communicating founders don't just fade into the background — they get actively misread as lacking vision or ambition.
 - `INS-260404-405A` Never verbally claim passion or quality — audiences discount explicit self-praise but heavily weight the implicit confidence of your delivery.
+- `INS-260412-C040` Milton's emotional stage presence and personal backstory consistently overrode the complete absence of technical evidence, fooling Bosch, GM, and thousands of investors.
 - `INS-260403-DED8` Cuban says the biggest Shark Tank mistake is leading with the product instead of selling yourself — business is a human relationship first.
 - `INS-260405-6387` The deck opens the door; the meeting closes it—optimize for curiosity, not completeness.
 - `INS-260403-B90F` Back-to-back 2-minute pitches with no breaks create an electric, exhausting atmosphere that benefits founders by preventing investor cooldown between pitches.

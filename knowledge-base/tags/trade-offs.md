@@ -5,12 +5,12 @@
 - `INS-260405-5649` Biological neurons operate in milliseconds on minimal power; H100 GPUs process billions of times faster but consume massive energy—these are fundamentally different engineering solutions to intelligence, not points on a spectrum.
 - `INS-260410-B282` Larger vocab compresses sequences (more context per token) but bloats embedding/softmax layers — the optimum is a tuned trade-off, not a maximum.
 - `INS-260329-A171` Suffix arrays replaced suffix trees by storing only sorted indices instead of full tree structures, recovering equivalent power through the LCP auxiliary array.
-- `INS-260403-5CD6` The freedom we sacrifice for commitments was mostly unused anyway — we paid for it in loneliness without exercising it.
 - `INS-260402-72EF` Being popular requires as much dedicated effort as any elite skill — nerds simply invest their hours elsewhere.
+- `INS-260403-5CD6` The freedom we sacrifice for commitments was mostly unused anyway — we paid for it in loneliness without exercising it.
 - `INS-260330-66EF` Fossil evidence shows foragers were healthier than early farmers, yet every independent civilization chose agriculture anyway.
 - `INS-260402-1F58` The real question is not 'patents or freedom' but 'patents or secrecy'—and secrecy's historical track record is far worse.
-- `INS-260330-BC8E` Time zones replaced locally accurate solar time with globally coordinated clock time because coordination across distances matters more than precision at a point.
 - `INS-260329-DFDD` Commitment means trading novelty for loyalty, exploration for trust, and the chase for a shared journey — only commit if you value the latter in each pair.
+- `INS-260330-BC8E` Time zones replaced locally accurate solar time with globally coordinated clock time because coordination across distances matters more than precision at a point.
 - `INS-260410-59C5` Trader Joe's breaks every grocery rule — small stores, no delivery, no brands, no sales, bad parking — and each broken rule only works because the others are also broken.
 - `INS-260330-40DA` Agriculture made individuals less healthy and overworked compared to foraging, yet it dominated because surplus calories enabled specialization cascades.
 - `INS-260410-CC41` Benchmark's no-growth-fund, equal-partners, no-memos, five-person structure isn't a list of quirks — each constraint only works because the others exist, and together they multiply instead of conflict.

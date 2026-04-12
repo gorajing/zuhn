@@ -3,6 +3,7 @@
 - `INS-260410-2383` Ten Napoleons are not worth 400,000 soldiers — parallelizing AI researchers hits diminishing returns fast, and the binding constraints become taste and compute.
 - `INS-260403-4E71` Big pharma doing less internal R&D and acquiring innovation later means startups bear more early-stage risk with less capital.
 - `INS-260404-CCE7` ARM invests in chip designs eight years before they generate revenue, creating a depth of IP that fast-followers cannot shortcut.
+- `INS-260412-FB49` Apple's iPhone profits funded chip R&D that improved 300% in five years while Intel improved only 28%, demonstrating how adjacent-market cash flows can fuel disruption.
 - `INS-260404-4320` AI collapses experimentation costs across deeptech by replacing early-stage lab work with in-silico simulation.
 - `INS-260403-CF09` Kodak, Nokia, and Blackberry were technologically innovative companies that died because they invested in product R&D without exploring new business models.
 - `INS-260410-44B7` Lock R&D at a fixed percentage of revenue through any business cycle so your technology leaders stop negotiating and start building.

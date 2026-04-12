@@ -50,7 +50,6 @@ stance: >-
   incumbents (Walmart play), or building full-stack competitors from scratch
   (Amazon) — with dramatically different risk/return profiles.
 related:
-  - INS-260323-750A
   - INS-260328-A417
   - INS-260403-3D38
   - PRI-260403-26B9

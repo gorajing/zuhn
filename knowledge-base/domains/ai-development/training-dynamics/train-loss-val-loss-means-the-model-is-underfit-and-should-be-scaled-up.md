@@ -57,8 +57,8 @@ related:
   - INS-260330-38E1
   - INS-260320-EF3A
   - INS-260320-96C9
+  - INS-260412-9777
   - INS-260320-0511
-  - INS-260410-C2E6
 ---
 Karpathy uses the gap between train loss and dev loss as a live diagnostic. With 3,400 parameters and 228,000 examples, train and dev loss are both ~2.3, indistinguishable. That isn't 'good generalization' — it's a signal the model hasn't even exhausted its ability to memorize the training signal, let alone overfit. The correct response is to add capacity (larger hidden layer, bigger embedding dimension), not to add dropout or weight decay.
 

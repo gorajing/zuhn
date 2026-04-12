@@ -53,10 +53,10 @@ stance: >-
   only become visible in higher-rate environments.
 related:
   - INS-260325-FDB3
-  - INS-260402-D7C7
   - PRI-260406-5E9A
+  - INS-260412-89BE
+  - INS-260402-D7C7
   - INS-260325-9F41
-  - INS-260403-3A72
 ---
 From roughly 2010 to 2022, zero interest rates and loose monetary policy created unprecedented tailwinds for tech valuations. Funding rounds grew larger, valuations soared, and nearly every tech-related asset class hit all-time highs. In this environment, separating genuine alpha (picking better companies, adding real value) from beta (benefiting from the same rising tide as everyone else) became nearly impossible because everything went up.
 

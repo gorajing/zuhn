@@ -1,6 +1,7 @@
 # Tag: path-dependency
 
 - `INS-260404-5440` Fortran's expression/statement distinction existed because of punch cards, but persisted in languages long after that constraint vanished.
+- `INS-260412-7B69` When governments equate policy reversal with weakness, failing policies become self-reinforcing traps that compound economic damage.
 - `INS-260327-A654` U.S. Middle East involvement started with a single 1930s oil concession that created an oil-military-alliance feedback loop so embedded in policy doctrine that withdrawal became structurally impossible.
 - `INS-260412-9270` Russia's political decisions from Ivan the Terrible through Putin follow a remarkably consistent pattern driven by the same geographic vulnerabilities, suggesting structure dominates leadership.
 - `INS-260404-0BED` RuBisCo was adequate in a low-oxygen world but became deeply flawed when plants changed the atmosphere, yet plants couldn't switch away.

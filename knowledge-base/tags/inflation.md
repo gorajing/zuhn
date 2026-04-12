@@ -1,5 +1,7 @@
 # Tag: inflation
 
+- `INS-260412-4859` Inflation is currently sequestered in asset prices; when asset holders liquidate into the real economy, money velocity will spike and consumer inflation will follow.
+- `INS-260412-AB38` Governments changed how they measure inflation and unemployment to report lower numbers, masking how much worse conditions actually are.
 - `INS-260411-EAE4` Dimon identifies stagflation as the 'skunk at the party' — inflation slowly rising while growth slows, a scenario markets are not positioned for.
 - `INS-260410-AC50` The US has four ways out of its debt — default, austerity, financial repression, or inflation — and inflation is both politically easiest and historically how the US handled WWII debt.
 - `INS-260404-5B6A` A Fed working paper found Kalshi's probability distributions for CPI and rate decisions outperform Bloomberg consensus and fed funds futures.

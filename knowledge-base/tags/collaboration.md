@@ -3,8 +3,8 @@
 - `INS-260325-11E9` AI turns interdependent work into solo work, risking the same 'alone together' fragmentation that social media created.
 - `INS-260410-988F` AI problem-solving is trial-and-error at scale, not cumulative — it can jump and fail repeatedly, but it can't reach a handhold, stay there, and climb from it.
 - `INS-260403-4120` Moltbook reveals that AI agents excel at founding projects but cannot sustain them, producing thousands of one-off ideas with almost no follow-through or genuine collaboration.
-- `INS-260403-3D8C` Working within bad systems to improve them usually produces more good than refusing to engage on principle.
 - `INS-260403-8B92` Ownership has two axes: choosing to do it (pull vs push) and doing it yourself (solo vs collaborative), which combine independently.
+- `INS-260403-3D8C` Working within bad systems to improve them usually produces more good than refusing to engage on principle.
 - `INS-260403-F322` Great work clusters historically around institutions that concentrate ambitious peers — a force potentially more valuable than expert advice.
 - `INS-260403-0C95` Research on hunter-gatherers and organizations converges on 8 as ideal, 20 as hard to manage, and 50 as unwieldy—matching our evolutionary design.
 - `INS-260404-F212` Surrounding yourself with people working on similarly ambitious projects provides encouragement you won't learn to discount.
@@ -15,9 +15,9 @@
 - `INS-260327-5AFE` Using AI well is a social skill—coaching, delegating, providing context—not a technical prompting skill.
 - `INS-260403-9DA1` Destin's fluid dynamics knowledge combined with David's motion control engineering made a previously impossible recreation achievable.
 - `INS-260403-0A1C` Moving participants from seated table discussions to standing around wall-mounted visual tools increases engagement by changing the physical and social dynamics of collaboration.
-- `INS-260322-8F3F` Tight-knit groups of early employees at breakout companies go on to found and lead the next generation of billion-dollar companies, creating collaborative networks that compound over decades.
 - `INS-260330-FBC0` Innovation is an incremental, collaborative evolutionary process — not breakthrough moments by lone geniuses.
 - `INS-260410-9B33` Research shows direct long-haul flight connections between cities increase cross-city idea flow more than internet connectivity — and the effect is strongest between culturally distant places.
+- `INS-260322-8F3F` Tight-knit groups of early employees at breakout companies go on to found and lead the next generation of billion-dollar companies, creating collaborative networks that compound over decades.
 - `INS-260403-8280` A design that represents one person's coherent vision will be coherent for the user; committee designs fragment into incoherence.
 - `INS-260410-0CFE` Rentech's single-model architecture — where every researcher's improvement instantly benefits everyone — is the structural difference that Citadel, DE Shaw, and Two Sigma cannot replicate because their multi-strategy pods are culturally and compensation-wise competitive.
 - `INS-260323-6C84` Wikipedia's predecessor Nupedia had a 7-stage academic review process that produced almost nothing in 2 years — switching to open wiki editing produced more work in 2 weeks than 2 years of rigorous process.

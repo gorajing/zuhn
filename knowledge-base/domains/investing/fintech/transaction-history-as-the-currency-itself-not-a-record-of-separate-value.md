@@ -42,10 +42,10 @@ stance: >-
   collapsing the distinction between representation and value.
 related:
   - INS-260330-5EE9
+  - INS-260412-AFF7
   - INS-260327-368D
   - INS-260327-4A5D
   - INS-260403-8EFF
-  - INS-260325-F451
 evidence:
   - id: INS-260327-368D
     type: EXTENDS

@@ -1,6 +1,6 @@
 # Topic: resilience
 
-> 179 insights
+> 180 insights
 
 - `INS-260325-DF82` [very_high] Events are not traumatic — they are potentially traumatic — because the same event produces resilience in most people and lasting harm in a minority, meaning trauma is in the response, not the event.
 - `INS-260327-48BA` [high] Most suffering about change comes from resisting it rather than from the change itself - accepting impermanence eliminates the anxiety of trying to freeze what cannot be frozen.
@@ -154,6 +154,7 @@
 - `INS-260330-033A` [medium] Partial fusion at 22 grams vs. 14 grams taught more than either a clean miss or perfect replication would have.
 - `INS-260403-4F4B` [medium] Persistence is best learned through lived experience on a single obsessive project, not through frameworks or advice.
 - `INS-260330-7A80` [medium] Panic is the collapse of sequential reasoning — restoring it requires forcing yourself to make one decision at a time rather than trying to solve the whole crisis simultaneously.
+- `INS-260412-5ADA` [medium] Wayne Westerman's wrist condition drove him to invent the multi-touch technology that became the iPhone's core interface, and the slide-to-unlock was inspired by an airplane toilet latch.
 - `INS-260330-1226` [medium] After his wife died four months into their marriage, the 24-year-old Morgan threw himself into work with an intensity that defined the rest of his career.
 - `INS-260327-900A` [medium] The darkest philosophical questions don't need to be avoided for psychological health - they need to be integrated, producing a resilience that avoidance can never build.
 - `INS-260403-53A0` [medium] Founders who survive the full 10-year journey report that exits feel quiet and anticlimactic because the person who wanted the exit no longer exists.

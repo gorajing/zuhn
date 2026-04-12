@@ -55,12 +55,13 @@ stance: >-
   currency to those who hold property.
 related:
   - INS-260323-1338
+  - INS-260412-4859
   - PRI-260403-2927
+  - INS-260412-AB8A
+  - INS-260412-5253
   - PRI-260328-EAC4
-  - INS-260409-9D83
-  - INS-260402-A999
-  - INS-260409-5E94
   - INS-260330-247C
+  - INS-260409-5E94
 evidence:
   - id: INS-260323-1338
     type: SUPPORTS

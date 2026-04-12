@@ -46,14 +46,14 @@ stance: >-
   Governments use mega-infrastructure projects primarily as tools of political
   control and territorial integration, with economic returns being secondary
 related:
-  - INS-260330-0FCE
   - INS-260403-7DEC
   - INS-260403-8E0C
   - INS-260412-C77F
+  - INS-260412-DFC7
   - INS-260330-E4B6
+  - INS-260330-0FCE
   - INS-260321-10FF
   - INS-260412-8780
-  - INS-260412-2EA9
 ---
 The $20B Lanzhou-Urumqi high-speed line can never break even—ticket revenues don't even cover electricity costs. China built it anyway, openly stating the goal was 'ethnic unity' in the Uyghur-majority Xinjiang province. The same logic drove the world's highest-elevation rail to Tibet and the politically contentious Hong Kong connection.
 

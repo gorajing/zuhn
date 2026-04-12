@@ -1,11 +1,12 @@
 # Topic: persuasion
 
-> 62 insights
+> 65 insights
 
 - `INS-260403-9DB6` [high] Steady accumulation of documented incidents shifts opinion more than any single dramatic event because patterns resist counter-narrative.
 - `INS-260403-36F0` [high] Correctness about what's wrong doesn't convert into support without a clear alternative vision.
 - `INS-260403-7848` [high] Conservatives and liberals both benefit from treating 'the West' as monolithic — one gets scary stories, the other avoids engaging with uncomfortable European statistics.
 - `INS-260403-6F65` [high] Equal optimization on substance makes charisma the tiebreaker.
+- `INS-260412-8AB6` [high] Elizabeth Holmes' repeated lies became accepted truth because consistent repetition plus credible social context overrides skepticism.
 - `INS-260403-22FE` [high] Explicit claims of passion or quality trigger skepticism filters, while implicit confidence conveyed through demeanor and specifics builds genuine credibility.
 - `INS-260404-405A` [high] Never verbally claim passion or quality — audiences discount explicit self-praise but heavily weight the implicit confidence of your delivery.
 - `INS-260404-5017` [high] When your audience can't evaluate your technical work directly, your own visible conviction becomes their strongest data point.
@@ -13,11 +14,13 @@
 - `INS-260403-6399` [high] Rhetoric that questions whether a system is legitimate makes it impossible for the speaker to credibly claim they should lead that system.
 - `INS-260403-B12E` [high] Saying 'nothing could go wrong' destroys credibility — genuine experts enumerate risks in detail because deep knowledge reveals more failure modes.
 - `INS-260403-C37D` [high] Good persuaders don't lie — they choose which truths to tell, the same way a flatterer picks genuine compliments.
+- `INS-260412-C040` [high] Milton's emotional stage presence and personal backstory consistently overrode the complete absence of technical evidence, fooling Bosch, GM, and thousands of investors.
 - `INS-260412-6DC9` [high] Heathrow's highest-in-world retail revenue per passenger comes from environmental design choices, not aggressive selling.
 - `INS-260403-23C1` [high] The article pitches the same amendment separately to Democrats (anti-gerrymandering), Republicans (Trump's legacy building), Libertarians (third-party viability), and state legislators (personal career advancement).
 - `INS-260403-560A` [high] Labels like x-ist end discussion by signaling that truth-evaluation is no longer relevant.
 - `INS-260403-49CC` [high] Insider status grants persuasive leverage that outsiders cannot replicate.
 - `INS-260412-C71D` [high] Bukele's path from emergency legislative session to marching soldiers into congress to dismissing Supreme Court judges to reinterpreting term limits followed a step-by-step escalation where each move had plausible justification.
+- `INS-260412-AC34` [high] Arthur Sackler invented the term 'psychic tension' to expand Valium beyond anxiety patients, making almost anyone a candidate for prescription.
 - `INS-260403-F171` [high] Craft a single compelling phrase ('the X of Y') that investors will remember after hearing dozens of pitches.
 - `INS-260330-5BEB` [high] The Black Legend pattern shows how condemning a rival's cruelty becomes moral cover for your own imperial ambitions.
 - `INS-260412-D627` [high] Post-2008, companies cut private jets that made economic sense purely for optics — the same force that now drives unjustified personal jet use in the opposite direction.

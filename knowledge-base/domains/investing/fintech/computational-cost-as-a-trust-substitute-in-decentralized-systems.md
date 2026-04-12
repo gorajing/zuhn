@@ -43,11 +43,11 @@ stance: >-
   Expensive-to-produce but cheap-to-verify work can replace institutional trust
   entirely, enabling coordination without central authority.
 related:
-  - INS-260323-95FE
-  - INS-260323-92AD
   - INS-260330-74A0
+  - INS-260323-92AD
+  - INS-260323-95FE
+  - INS-260412-BA99
   - INS-260322-627E
-  - INS-260328-E410
 evidence:
   - id: INS-260323-95FE
     type: CONTRADICTS

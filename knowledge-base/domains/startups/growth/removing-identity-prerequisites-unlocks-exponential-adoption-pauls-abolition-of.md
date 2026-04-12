@@ -56,7 +56,7 @@ related:
   - INS-260327-A25E
   - INS-260323-1BB4
   - INS-260403-750A
-  - INS-260327-1F4A
+  - INS-260412-AFF7
 evidence:
   - id: INS-260327-1F4A
     type: CHALLENGES

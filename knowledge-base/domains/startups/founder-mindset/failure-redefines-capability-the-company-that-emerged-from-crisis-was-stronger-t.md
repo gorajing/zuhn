@@ -48,16 +48,16 @@ resolutions:
     are only accessible through experiencing and recovering from significant
     failures.
 related:
-  - INS-260322-E791
+  - INS-260412-D883
   - PRI-260328-B11D
+  - INS-260412-6C6F
   - INS-260405-7B7C
   - INS-260327-DD1D
-  - INS-260403-1C09
-  - INS-260402-8F67
   - INS-260327-CA05
   - INS-260329-9A8B
   - INS-260330-84BD
   - INS-260403-E1EB
+  - INS-260403-1C09
 stance: >-
   Open Secret's marketplace failure created the financial discipline that
   enabled 3x growth while staying profitable — the crisis was the catalyst.

@@ -1,6 +1,6 @@
 # Topic: geopolitics
 
-> 575 insights
+> 576 insights
 
 - `INS-260326-3E19` [very_high] Pharmaceutical companies funding the FDA, banks staffing financial regulators, and tech giants writing platform regulations are structurally identical -- the mechanism is industry-funded oversight producing industry-favorable rules.
 - `INS-260326-79DF` [very_high] Germany's unrestricted submarine warfare sank 886,000 tons in April 1917 alone -- a tactical triumph that brought America into the war and guaranteed Germany's defeat.
@@ -213,6 +213,7 @@
 - `INS-260412-C6ED` [high] China built money-losing rail lines to Xinjiang and Tibet explicitly to integrate separatist regions, prioritizing political unity over financial returns.
 - `INS-260330-0FCE` [high] Physical infrastructure creates economic interdependency that gradually makes political separation impractical, serving as a subtler tool of control than direct legislation.
 - `INS-260412-AB8C` [high] China's relatively modest infrastructure loans buy disproportionate UN influence because each African nation gets one equal vote regardless of size.
+- `INS-260412-DFC7` [high] China's high-speed rail and Belt and Road show that infrastructure built for political prestige rather than economic demand becomes a permanent fiscal drain.
 - `INS-260412-C77F` [high] Russia's state-owned rail monopoly enables domestic military dominance but creates a crippling dependency that collapses at the border.
 - `INS-260403-CFBD` [high] Weaponizing legal institutions against independent economic bodies trades durable stability for short-term political leverage.
 - `INS-260410-1803` [high] Mao's revolutionary method — 'triangle building' — was to grow shadow government, army, and civic networks inside the host until they could replace it, not to storm it from outside.

@@ -1,6 +1,6 @@
 # Topic: fundraising
 
-> 462 insights
+> 464 insights
 
 - `INS-260323-E9E4` [high] Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead.
 - `INS-260330-09FF` [high] A YC company that was incorrectly converted from a Connecticut LLC to a Delaware C-Corp accumulated a $500K legal bill across four law firms when the error surfaced during a major fundraise.
@@ -86,6 +86,7 @@
 - `INS-260403-4D4D` [high] First VC calls screen for clarity, conviction, and chemistry rather than polished pitches or comprehensive business plans.
 - `INS-260403-7764` [high] Candidates should systematically evaluate profitability, investor pressure, peer liquidity, cash benchmarks, and exit plans before accepting startup equity.
 - `INS-260403-A3BD` [high] A five-variable MRR model (new customers, ARPU, churn, current MRR, goal) provides 80% of the decision value of a full financial model.
+- `INS-260412-829C` [high] Walgreens invested $105M partly because they feared Safeway would land the partnership first.
 - `INS-260404-06B9` [high] The startups where VCs need compulsion over founders are not the ones that become big hits driving fund returns.
 - `INS-260404-30B2` [high] The best startups set fundraising norms because VCs compete hardest for them, making founder-favorable terms a quality signal.
 - `INS-260330-7BF5` [high] Board votes essentially never happen in practice — founder power scales directly with company performance, overriding any formal governance structure or protective covenants.
@@ -399,6 +400,7 @@
 - `INS-260405-1EFD` [medium] The pitch deck as a static document is being superseded by a four-stage cycle that takes investors on a narrative journey.
 - `INS-260409-2232` [medium] Pitching a fake version of yourself is like dating as someone else — it fails when the real you shows up.
 - `INS-260403-EC66` [medium] VCs choosing political sides in the Musk-Trump feud introduces political alignment as a hidden variable in fundraising.
+- `INS-260412-4477` [medium] FTX spent $73M+ on political donations across both parties to build regulatory cover, substituting lobbying for legitimate compliance — a strategy that amplified rather than reduced risk.
 - `INS-260403-76F5` [medium] After VC silence, wait 3-4 weeks then send concise milestone updates rather than chasing — this keeps the door open while signaling confidence.
 - `INS-260403-C1FB` [medium] Structured monthly updates with clear asks turn passive investors into active strategic assets for hiring, partnerships, and follow-on funding.
 - `INS-260403-10C8` [medium] Mira Murati's $12B valuation with no product shows that frontier AI fundraising now prices team credibility over product-market fit.

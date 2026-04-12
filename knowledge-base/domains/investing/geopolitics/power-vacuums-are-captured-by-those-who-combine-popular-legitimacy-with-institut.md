@@ -52,13 +52,11 @@ stance: >-
   or elite conspiracy alone, but through the combination of mass legitimacy and
   a critical mass of institutional co-conspirators.
 related:
-  - INS-260327-6853
   - INS-260327-768D
   - INS-260327-E30A
   - INS-260403-952F
   - INS-260330-B885
   - INS-260327-94CC
-  - INS-260409-1D16
 evidence:
   - id: INS-260327-6853
     type: CHALLENGES

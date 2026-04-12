@@ -5,6 +5,6 @@
 - `INS-260330-1298` Cells cannot use glucose energy directly — it must first be converted to ATP, a universal intermediary, just as economies need standardized currency to function.
 - `INS-260330-BC8E` Time zones replaced locally accurate solar time with globally coordinated clock time because coordination across distances matters more than precision at a point.
 - `INS-260330-7F62` A YC company's Connecticut LLC-to-Delaware conversion was done incorrectly by local lawyers, requiring four law firms and $500K to fix years later during a major fundraise.
-- `INS-260403-8D8D` Before YC, seed funding was chaotic with random terms, bad docs, and amateur lawyers — standardization unlocked the market.
 - `INS-260410-362D` Epic hires almost exclusively from Midwestern colleges regardless of major, gives programming-test-based offers with no interview, and then drills them for six months in 'the Epic way'—down to how to take notes on a legal pad and write emails.
+- `INS-260403-8D8D` Before YC, seed funding was chaotic with random terms, bad docs, and amateur lawyers — standardization unlocked the market.
 - `INS-260330-6BAF` The Indus Valley used uniformly sized bricks and perpendicular street grids across distant cities, implying sophisticated coordination without visible authoritarian structures.

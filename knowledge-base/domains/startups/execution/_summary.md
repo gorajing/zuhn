@@ -1,6 +1,6 @@
 # Topic: execution
 
-> 291 insights
+> 292 insights
 
 - `INS-260329-FCF2` [high] Doing 10-100x more volume beats 2x optimization, but you must relearn this lesson independently in each new domain you enter.
 - `INS-260403-FED1` [high] YC's batch funding model — its most important innovation — was adopted not strategically but because a summer program seemed like the fastest way to learn angel investing.
@@ -98,6 +98,7 @@
 - `INS-260330-636E` [high] Ponzi's scheme collapsed when he hired honest publicist William McMasters, who gained access to records and exposed the fraud to the Boston Post.
 - `INS-260327-24F4` [high] Zero failures means you're not placing enough bets at the frontier.
 - `INS-260327-7FDA` [high] If you can quit, you should. If you literally cannot stop yourself from continuing, that's your signal to keep going.
+- `INS-260412-7FF8` [high] iPhone engineers worked 7-day weeks for years, with multiple divorces and health breakdowns, while the world only saw the magical launch event.
 - `INS-260326-C657` [high] Teams lose critical information every day because members silently manage impressions rather than risk appearing ignorant or negative.
 - `INS-260403-30E5` [high] When facing death, redirect all engineering effort to whatever closes revenue fastest — more code is worthless if the company dies.
 - `INS-260327-FFA7` [high] In AI, waiting for perfection guarantees missing the window—launch rough and iterate with the technology.

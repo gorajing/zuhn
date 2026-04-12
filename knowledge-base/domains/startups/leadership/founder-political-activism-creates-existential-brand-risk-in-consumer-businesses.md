@@ -55,7 +55,6 @@ stance: >-
   say in those positions
 related:
   - INS-260323-07BE
-  - INS-260327-C05A
   - INS-260330-629E
   - INS-260410-9A10
   - INS-260327-8D86

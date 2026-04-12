@@ -67,11 +67,11 @@ stance: >-
   that patents the fundamental techniques of each generation obtains effectively
   perpetual monopoly despite finite patent lifetimes.
 related:
+  - INS-260412-8496
   - INS-260403-6184
   - INS-260403-1B15
   - INS-260410-CA89
   - PRI-260403-1D59
-  - INS-260330-C0E2
 ---
 Patent monopolies are normally time-bounded: a 20-year exclusivity window, then generic competition. This is why pharmaceutical patent cliffs are catastrophic — Advil stays useful after the patent expires, so generics immediately capture the market. Qualcomm discovered (or benefited from) a rare structural property of telecom: successive generations of wireless standards happen on roughly the same cadence as patent lifetimes. The core CDMA patents were filed in 1986 and expired around 2006 — but by then 3G had arrived, which Qualcomm's CDMA patents still dominated, and by the time those expired, Qualcomm had bought Flarion in 2005 specifically to own the 4G/OFDMA patents. The 4G patents carried them into the 5G era, and RF-front-end patents extend it further.
 

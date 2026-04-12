@@ -1,6 +1,6 @@
 # Topic: platform-shifts
 
-> 56 insights
+> 57 insights
 
 - `INS-260403-5DD7` [high] Selling AI as the product rather than as the means to a complete outcome creates a fragile, easily copied competitive position.
 - `INS-260403-AC02` [high] The AI vs SaaS narrative mirrors the SaaS vs on-premise transition — incumbents adapt and absorb the new paradigm rather than disappearing.
@@ -16,6 +16,7 @@
 - `INS-260403-A2BA` [high] Data has replaced code as the core differentiator in AI-era SaaS, making data architecture the primary strategic investment.
 - `INS-260325-DD43` [high] Open Router revealed that the same model from different providers at different speeds enables entirely different use cases, making deployment selection a first-class product decision.
 - `INS-260328-6C9A` [high] In 2013, Sam Altman left YC to work on nuclear power because 'electricity is everything' — the AI era proved him exactly right.
+- `INS-260412-C0B4` [high] Sam Altman's three-layer AI stack thesis predicts base model oligopoly with massive value creation in domain-specific fine-tuning.
 - `INS-260323-6230` [high] NVIDIA chose gaming as its first market because it was large enough to fund massive R&D, creating a flywheel between technology investment and market scale that later enabled the AI revolution.
 - `INS-260325-A782` [high] Transistors are approaching 5 atoms across, at which point electrons tunnel through causing short circuits — Moore's Law will physically end, and quantum computing is the only successor.
 - `INS-260322-5678` [high] Each platform shift (PCs, web, mobile) succeeded not by doing the previous thing better, but by enabling entirely new behaviors — AI will likely follow the same pattern of creating new categories rather than replacing existing software.

@@ -17,6 +17,7 @@
 - `INS-260405-5113` Khosla and Andreessen represent two ideological poles on AI's future — concentrated safety vs. unfettered advancement — and their influence shapes policy and capital flows.
 - `INS-260410-212B` The old safety playbook — hoard research so the responsible lab keeps its lead — assumed the lab would actually burn that lead on alignment; now that assumption looks naive.
 - `INS-260328-896B` OpenAI's board tried to exercise its nonprofit mission authority and was immediately overridden by financial stakeholders — proving money wins over governance.
+- `INS-260412-E332` When money is cheap and markets rise, even sophisticated investors abandon governance scrutiny — Sequoia invested $210M while the founder played video games on the call.
 - `INS-260330-E43F` China's cities receive 40% of tax revenue but bear 80% of expenses, forcing them to use land sales as their primary funding mechanism.
 - `INS-260410-001F` When auditors make as much from consulting a client as from auditing them, the audit is captured by definition.
 - `INS-260403-A447` Centralized custodian failures in crypto repeat the exact structural patterns of traditional finance collapses.
@@ -51,9 +52,6 @@
 - `INS-260403-B1D6` Countries with stronger civil liberties grow richer because open discourse selects for efficient solutions over politically favored ones.
 - `INS-260330-1B8A` The Constitution's framers designed checks against both government tyranny and democratic mob rule, creating a system durable enough to last 230+ years.
 - `INS-260323-0683` As stakes increase, power struggles intensify — resilient governance structures must be built early, before the pressure peaks.
-- `INS-260410-575B` After Yahoo's 2006 $1B offer where Meta's board tried to fire Zuckerberg for refusing it, he restructured the company so a future him couldn't be overruled on the same kind of long-horizon bet.
-- `INS-260410-DA77` Rolex's single-foundation ownership (Hans Wilsdorf Foundation) was arguably the key structural factor that let it survive the quartz crisis and grow dominant — it could absorb 2-3 bad years without firing a CEO, let competitors panic first, and make 20-year bets when public Swiss peers were forced into short-term rollups.
-- `INS-260410-320A` Zuckerberg's retained control through Peter Thiel's and Accel's unprecedented founder-friendly terms is what allowed Meta to survive IPO, mobile, Instagram, Oculus, and reality-labs bets that a standard board would have blocked.
 - `INS-260403-CEC0` Sophisticated investors repeatedly overlook missing governance basics like boards of directors, which are the strongest predictors of catastrophic failure.
 - `INS-260404-3275` Board votes are almost always unanimous — the side that would lose adjusts its position before the vote happens.
 - `INS-260403-59F0` The assumption that board seats protect VC returns is untested—removing them could unlock 2-3x deal throughput.
@@ -63,6 +61,9 @@
 - `INS-260402-FC79` Ten friends each writing small checks under slightly different terms creates a cap table nightmare that VCs will either demand you fix or walk away from entirely.
 - `INS-260403-1438` Continuation funds reset carry and can change exit timing pressure; NAV facilities add leverage and opacity to the fund supporting you.
 - `INS-260402-8424` VCs invest in startups over ordinary businesses because equity-based returns through IPO/acquisition prevent the agency problem of founders self-dealing through inflated expenses.
+- `INS-260410-575B` After Yahoo's 2006 $1B offer where Meta's board tried to fire Zuckerberg for refusing it, he restructured the company so a future him couldn't be overruled on the same kind of long-horizon bet.
+- `INS-260410-DA77` Rolex's single-foundation ownership (Hans Wilsdorf Foundation) was arguably the key structural factor that let it survive the quartz crisis and grow dominant — it could absorb 2-3 bad years without firing a CEO, let competitors panic first, and make 20-year bets when public Swiss peers were forced into short-term rollups.
+- `INS-260410-320A` Zuckerberg's retained control through Peter Thiel's and Accel's unprecedented founder-friendly terms is what allowed Meta to survive IPO, mobile, Instagram, Oculus, and reality-labs bets that a standard board would have blocked.
 - `INS-260330-FA07` Mesopotamian power shifted from temple priests who interpreted gods to kings who delivered military protection and economic stability.
 - `INS-260328-2CFF` A board member is either a +1, 0, or -1 — there are only a handful of +1s in the world, so aim for a zero.
 - `INS-260403-A505` OpenAI's charter gave the board power to determine when AGI was achieved — a subjective call with massive financial consequences — making conflict inevitable as capabilities advanced.

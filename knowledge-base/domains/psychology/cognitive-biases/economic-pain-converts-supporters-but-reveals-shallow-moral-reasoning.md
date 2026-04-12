@@ -54,10 +54,10 @@ stance: >-
   but only economic self-interest creates action.
 related:
   - INS-260403-7A1D
+  - INS-260412-7B69
   - PRI-260328-BEAB
   - PRI-260328-E53E
   - PRI-260406-003E
-  - PRI-260406-6FA3
 evidence:
   - id: INS-260325-B8CB
     type: SUPPORTS

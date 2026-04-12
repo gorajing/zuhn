@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 604 insights
+> 607 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -275,6 +275,7 @@
 - `INS-260403-0240` [high] Under leverage, being right 90% vs 80% of the time doesn't yield 12% more value — it yields orders of magnitude more.
 - `INS-260330-1FED` [high] Rockefeller secured 50-75% railroad discounts by negotiating when railroads were desperate, then used the cost advantage to bankrupt competitors through sustained price wars.
 - `INS-260403-298E` [high] Graham predicted super-angels would invest larger amounts while VCs would make more smaller investments faster, making them hard to distinguish within a decade.
+- `INS-260412-8496` [high] As OxyContin's patent neared expiration, Purdue lobbied that their own drug was prone to abuse, convincing the FDA in 2013 to block all generic copies while keeping their version on the market.
 - `INS-260327-A61B` [high] Lower barriers to build (AWS, Stripe, AI) simultaneously lower barriers for competitors, making speed the primary differentiator.
 - `INS-260324-1CC8` [high] Buy Alexander McQueen sneakers, a Gucci jacket, and a YSL bag from 3 'different' brands — all your money goes to the same company (Kering). LVMH ($54B revenue) and Kering dominate through an illusion of brand independence.
 - `INS-260327-87A3` [high] LVMHs competitive advantage is vertical integration across the luxury value chain: they own materials suppliers, manufac
@@ -374,6 +375,7 @@
 - `INS-260410-431E` [high] Morita turned down Bulova's 100,000-unit order for the TR-63 because Bulova demanded its own brand on the radio, and he later called it the single best business decision of his career.
 - `INS-260410-090B` [high] Never co-develop your core technology as a junior partner — you trade short-term access for the permanent loss of your own development capability.
 - `INS-260403-D328` [high] Saying no to corp dev meetings signals confidence and reminds acquirer founders of their own early discipline.
+- `INS-260412-AB09` [high] Intel CEO Paul Otellini rejected the iPhone chip deal because mobile margins seemed too thin, inadvertently funding Apple's path to replacing Intel entirely.
 - `INS-260330-C761` [high] When DuPont phased out C8/PFOA, they replaced it with GenX (C6), which caused the same three tumor types in rats but legally counted as a new substance requiring fresh evidence.
 - `INS-260403-D8C1` [high] Clear, minimal regulation — like trademarking USD and setting three simple requirements — can unleash private-sector innovation at ecosystem scale.
 - `INS-260403-1F40` [high] Jurisdiction-specific regulation prevents winner-take-all dynamics and protects local startups from global incumbents.
@@ -486,6 +488,7 @@
 - `INS-260328-F752` [high] VCs dismissing batch-model investing by claiming they already know all the good companies are admitting they view venture as a zero-sum commodity business.
 - `INS-260327-94FE` [high] Companies like Expo (security), Traversal (DevOps), and Meter (networking) are showing agents that outperform top human specialists in their specific domains.
 - `INS-260403-ABC5` [high] Vertical AI startups must build data loops and lock-in strategies from day one because speed alone provides no lasting moat.
+- `INS-260412-FB49` [high] Apple's iPhone profits funded chip R&D that improved 300% in five years while Intel improved only 28%, demonstrating how adjacent-market cash flows can fuel disruption.
 - `INS-260330-0525` [high] Tesla and SpaceX succeeded not through a single 10x breakthrough but through complex vertical integration that pulled in distributors and subcontractors that would otherwise extract monopoly profits.
 - `INS-260327-F229` [high] Disney's competitive advantage isn't better movies — it's owning the entire pipeline from film production through theme parks, merchandise, streaming, and cruise ships.
 - `INS-260330-80A7` [high] Vine died because it couldn't pay creators — when top Viners demanded $1.2M each annually and Twitter refused, they left, triggering a death spiral that killed the platform within two years.

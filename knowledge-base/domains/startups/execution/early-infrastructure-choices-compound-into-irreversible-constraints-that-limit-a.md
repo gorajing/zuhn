@@ -50,7 +50,7 @@ related:
   - INS-260412-8780
   - INS-260412-7FC0
   - INS-260412-EDBF
+  - INS-260412-DFC7
   - INS-260410-83CF
-  - INS-260412-C6ED
 ---
 The Northeast Corridor's rail infrastructure was built in the 1800s, and cities grew up around it so densely that there is 'truly no open space between the cities.' Rebuilding straighter, high-speed tracks would require razing houses across hundreds of miles at astronomical cost. Meanwhile, European and Asian countries that built high-speed rail later could route tracks through undeveloped corridors. This is a direct analog to technical debt in startups: early architectural decisions that work fine at small scale become load-bearing walls that constrain every future decision. The insight is that path dependency doesn't just make change expensive — it makes the optimal solution geometrically more expensive over time as the system builds dependencies on the suboptimal structure.

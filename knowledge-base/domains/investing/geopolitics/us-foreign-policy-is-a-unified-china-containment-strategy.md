@@ -48,8 +48,8 @@ related:
   - PRI-260323-9295
   - INS-260327-A654
   - INS-260327-F84E
-  - INS-260330-247C
   - INS-260403-62BC
+  - INS-260410-17E2
 stance: >-
   Venezuela, Iran, Greenland — every major US foreign policy move is about
   creating oil and resource chokepoints against China, not the surface-level...

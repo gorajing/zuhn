@@ -2,15 +2,16 @@
 
 - `INS-260403-3664` Figure's $39B valuation rests on the thesis that automating manual labor ($42T/yr, ~50% of GDP) creates shared abundance.
 - `INS-260405-285D` Mistral raised €600M at a €5.8bn valuation from DST Global and General Catalyst despite a 50% contraction in active European VCs.
-- `INS-260410-641D` An acquisition serving three strategic purposes simultaneously is worth far more than critics who grade on one dimension will estimate — YouTube went from 'Google's worst mistake' to a $500B business.
 - `INS-260403-7F67` AI's unpredictability beyond short time horizons may invalidate the long-duration assumptions that underpin traditional equity pricing.
 - `INS-260327-CFE5` A company can miss earnings targets and still surge 30% if it tells a compelling AI story, revealing that markets are pricing narrative not performance.
 - `INS-260404-6B73` DeepSeek R1 wiped nearly a trillion dollars in market value by proving frontier AI doesn't require frontier spending.
 - `INS-260403-912C` A five-factor bubble framework comparing economic strain, returns, valuations, and funding quality shows AI is overheated in some dimensions but grounded in others.
 - `INS-260402-D7C7` The end of zero interest rates forces a binary sort of companies into those with real unit economics and those that were subsidized by cheap money.
+- `INS-260410-641D` An acquisition serving three strategic purposes simultaneously is worth far more than critics who grade on one dimension will estimate — YouTube went from 'Google's worst mistake' to a $500B business.
+- `INS-260412-9B06` Nikola surpassed Ford's $28B market cap within one week of going public despite having zero revenue, zero deliveries, and no functioning technology.
 - `INS-260411-0841` Household net worth at 560% of GDP and low credit spreads mean anything less than positive outcomes could trigger dramatic asset price declines.
-- `INS-260404-D475` Kalshi's $11B valuation and 1000% volume growth validates regulated prediction markets as a mainstream financial category.
 - `INS-260405-F374` SpaceX at $350B staying private proves the largest strategic assets no longer need public markets for liquidity.
+- `INS-260404-D475` Kalshi's $11B valuation and 1000% volume growth validates regulated prediction markets as a mainstream financial category.
 - `INS-260403-D880` Judging sky-high valuations by the revenue needed to justify them — given realistic margins, growth, and reinvestment — reveals that aggregated company narratives often exceed plausible total market demand.
 - `INS-260405-B738` DCF ignores the strategic flexibility and explosive optionality that defines startup value, making it the wrong tool for early-stage companies.
 - `INS-260410-EFB8` Stop trying to DCF a napkin — early-stage VC values the magnitude and probability distribution of outcomes, like an option.

@@ -42,11 +42,11 @@ resolutions:
     a patchwork where apps race to be first in each newly legal market. Same
     playbook as Uber — subsidize usage, capture territory, raise prices later.
 related:
+  - INS-260412-4477
   - INS-260330-931A
   - INS-260403-DAB3
   - PRI-260403-E097
   - INS-260322-D7B1
-  - INS-260404-4146
 stance: >-
   FanDuel and DraftKings are spending billions on advertising and sign-up
   bonuses to acquire users in newly legal states before the regulatory window...

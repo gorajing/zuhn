@@ -1,6 +1,6 @@
 # Topic: cognitive-biases
 
-> 329 insights
+> 332 insights
 
 - `INS-260326-163A` [very_high] Data quality dominates ML architecture just as install base and data gravity beat product design elegance in business -- what you've accumulated is the moat, not how you've arranged it.
 - `INS-260326-CA66` [very_high] Insulin resistance manifests as heart disease, diabetes, obesity, and dementia -- just as a misidentified business model manifests as churn, pricing problems, and sales failures.
@@ -71,6 +71,7 @@
 - `INS-260327-C316` [high] People treat money as the most rational domain of their lives while making consistently irrational financial decisions driven by fear, status anxiety, and emotional needs.
 - `INS-260403-3A8A` [high] Applying finite-game thinking to inherently infinite-game situations causes systematic strategic errors during periods of technological disruption.
 - `INS-260403-1CC6` [high] Nearly all fundraising scams converge on the same psychological exploit: fabricating social proof and urgency to override rational evaluation.
+- `INS-260412-C33C` [high] Sam's 'humble billionaire who drives a Toyota' persona neutralized scrutiny from investors, media, and regulators who should have seen obvious structural problems.
 - `INS-260403-2F77` [high] Successfully raising once miscalibrates founders into overestimating their ability to raise again under fundamentally different conditions.
 - `INS-260330-CCD8` [high] Labeling a problem as timeless or identity-based discourages solution-seeking by making resolution feel impossible.
 - `INS-260330-870B` [high] Ponzi deliberately targeted people with more dreams than financial knowledge, avoiding sophisticated investors who could spot the scheme.
@@ -133,6 +134,7 @@
 - `INS-260323-97A1` [high] Everyone expected a spy to look like James Bond; the actual spy was a goofy, church-going college kid who talked to everyone — our threat models are shaped by fiction, not reality.
 - `INS-260330-13B2` [high] People don't value privacy or decentralization until someone goes to jail or gets deplatformed, creating a predictable cycle of complacency and panic.
 - `INS-260330-3851` [high] The Columbus flat-Earth myth persists because the hero-vs-ignorance narrative is more compelling than the boring truth that educated people already knew Earth was round.
+- `INS-260412-9E32` [high] The Sacklers attached their name to the Louvre, Westminster Abbey, Guggenheim, and dozens of universities, creating a philanthropic shield that delayed public accountability for decades.
 - `INS-260329-882A` [high] Phishing works primarily by exploiting authority bias and urgency, not by exploiting technical ignorance about email systems.
 - `INS-260330-AF47` [high] Poe's Law states that parody of extremism and sincere extremism are indistinguishable at their limits, making intent-based evaluation unreliable.
 - `INS-260330-9EBA` [high] The kilogram's name exists because 'grave' sounded too aristocratic during the French Revolution — supposedly objective standards are shaped by politics.
@@ -144,6 +146,7 @@
 - `INS-260412-FA41` [high] When vaccines eliminate visible disease, people compare rare vaccine side effects against a now-invisible threat, making vaccines seem riskier than the disease.
 - `INS-260330-8950` [high] WWII forced the question of whether Western industrial progress actually represents moral progress, revealing that advanced capability enables advanced destruction.
 - `INS-260329-55F7` [high] People trust their own conclusions far more than anything a salesperson tells them, so guide them to discover the answer rather than asserting it.
+- `INS-260412-0FFC` [high] Credit rating agencies rated junk mortgage products AAA because banks would take their business to competitors who would — the gatekeeper's revenue depends on pleasing the gated.
 - `INS-260330-C548` [high] Each moral compromise raises the psychological cost of reversing course, creating an escalation trap.
 - `INS-260405-BBC9` [high] The most compelling recent evidence for a trend is often a leading indicator of its reversal, not its continuation.
 - `INS-260325-2F12` [high] Recognizing that 'sum of many small things' equals 'area under a curve' unlocks a universal problem-solving template.

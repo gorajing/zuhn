@@ -4,9 +4,10 @@
 - `INS-260410-8E02` Whenever the buyer is a corporation, IT department, or government, market structure forecloses winner-take-all outcomes — the buyer will force multiple suppliers to exist.
 - `INS-260404-3D17` AI's highest-value opportunities are shifting from horizontal platforms to deep industry-specific solutions.
 - `INS-260403-A52D` Competitive fragmentation in AI markets creates natural redundancy that limits any single rogue AI's ability to permanently harm humanity.
+- `INS-260409-5FBA` OpenAI is a consumer-subscription business and Anthropic is an API/enterprise business; comparing headline revenue numbers is apples-to-oranges until both normalize for public markets.
 - `INS-260410-0118` Pork and egg production look like commodity businesses but concentrate into handful-of-firm oligopolies whose price-fixing and inelastic demand let them earn outsized profits.
 - `INS-260412-46A7` Russia's policy of granting Siberian overflight to only one airline per European country creates de facto monopolies on Asia routes for legacy carriers.
-- `INS-260409-5FBA` OpenAI is a consumer-subscription business and Anthropic is an API/enterprise business; comparing headline revenue numbers is apples-to-oranges until both normalize for public markets.
+- `INS-260412-BE3C` Crowded short positions above 100% float create exploitable asymmetric risk where shorts face unlimited loss while longs risk only their principal.
 - `INS-260410-F41F` The 2009 HITECH Act's $36B in 'meaningful use' incentives drove EMR adoption from 9% to 95% of hospitals in five years—which sounds like a tailwind, but the deeper effect was closing the door on any future innovative competitor by compressing decades of buying decisions into one window.
 - `INS-260404-7AA0` More traders create better price signals, which attract more traders — a classic liquidity network effect that compounds.
 - `INS-260403-9A94` VC secondaries have evolved from emergency liquidity hacks into planned, core fund infrastructure hitting $152B in 2024.

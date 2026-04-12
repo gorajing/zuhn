@@ -53,7 +53,7 @@ related:
   - INS-260403-DED8
   - INS-260322-A02C
   - INS-260409-D681
-  - INS-260322-5831
+  - INS-260412-829C
   - INS-260409-EF0C
 ---
 Robert Herjavec observes that many Shark Tank founders make the mistake of jumping straight into product features. His core argument is that business is fundamentally a human connection: if you don't build trust with the investor or customer first, the product won't matter. This inverts the typical founder instinct to lead with metrics and demos.

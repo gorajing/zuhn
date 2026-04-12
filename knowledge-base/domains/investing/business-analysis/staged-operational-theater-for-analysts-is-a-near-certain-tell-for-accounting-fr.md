@@ -64,8 +64,8 @@ related:
   - INS-260405-9EE4
   - INS-260404-312D
   - INS-260322-F891
+  - INS-260412-BA99
   - INS-260409-B73E
-  - INS-260403-DE45
 ---
 In 1997, four years before its collapse, Enron Energy Services rapidly fitted out a fake war room on the sixth floor of its Houston office, drafting secretaries and employees from other locations to sit at computer terminals pretending to trade. One administrative assistant was told to bring her personal photos to make her desk look real; she spent the visit talking to friends on the phone. The analysts left impressed by 'the very picture of a sophisticated booming business.'
 

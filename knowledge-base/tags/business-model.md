@@ -20,16 +20,16 @@
 - `INS-260405-FE86` 23andMe turned its genetic database from a customer education tool into a drug discovery asset—the same resource, a second business.
 - `INS-260410-DFE2` Microsoft's revenue went from $25M to $98M in 18 months on the back of DOS clone licensing because they were both selling infinitely replicable software AND occupying the position every PC maker had to integrate with.
 - `INS-260403-754F` Validating that customers want your product is necessary but insufficient — you must also validate that the business model produces more revenue than costs.
+- `INS-260405-BFC0` Local news collapsed because the internet made geographic information monopolies impossible, not because local journalism got worse.
 - `INS-260410-7075` If you monetize an ecosystem rather than the product itself, you can pay distributors to adopt your free product — a move your directly-monetized competitors structurally cannot match.
 - `INS-260327-D285` Don't just build a better product—build a business model that makes incumbents look exploitative.
 - `INS-260403-A0F7` Salesforce's evolution from 1999 SaaS pioneer to 2005+ platform shows that iterative business model extension compounds into resilience.
 - `INS-260410-3043` Scarcity is only a weakness until you engineer it into the product — Acquired copied Hermès and the NFL by refusing to scale their inputs.
-- `INS-260405-BFC0` Local news collapsed because the internet made geographic information monopolies impossible, not because local journalism got worse.
 - `INS-260403-F85C` A 5% annual churn rate can be excellent or fatal depending entirely on business model context.
-- `INS-260323-F274` Success podcasts follow a 4-step loop: create/exploit anxiety, promise the solution, deliver partial satisfaction, repeat — a model that requires listeners to stay anxious to keep consuming.
+- `INS-260321-3BA8` The Department of War is replacing cost-plus contracts with 1000-requirement RFPs with simple firm-fixed-price requirements — the SpaceX model where vendors keep margins from economizing.
 - `INS-260405-092A` Smart investors expect your early business model to be wrong, so dwelling on it wastes time and can actively damage your pitch.
 - `INS-260405-180B` A top VC invested in a company specifically knowing their business model would change three times — detail-pitching yours signals you don't understand this.
-- `INS-260321-3BA8` The Department of War is replacing cost-plus contracts with 1000-requirement RFPs with simple firm-fixed-price requirements — the SpaceX model where vendors keep margins from economizing.
+- `INS-260323-F274` Success podcasts follow a 4-step loop: create/exploit anxiety, promise the solution, deliver partial satisfaction, repeat — a model that requires listeners to stay anxious to keep consuming.
 - `INS-260327-58AC` Whatever is your source of money, that is where the company will steer — if advertisers pay, you will build for advertisers, not users.
 - `INS-260410-E338` Every business line should either feed another line with customers, data, or distribution — otherwise it's a hobby and should be sold.
 - `INS-260322-229C` Most of the world's most successful companies made their real money not from their core product but from a first derivative of it — Union Pacific from land sales, Google from ads on search, Shopify from payments on commerce.

@@ -1,6 +1,6 @@
 # Topic: llm-training
 
-> 63 insights
+> 64 insights
 
 - `INS-260326-8201` [very_high] At 3.5 bits per channel (4.5x compression), TurboQuant matches full-precision Llama 3.1 8B on LongBench with zero quality loss; at 2.5 bits (6.4x), quality degradation is marginal.
 - `INS-260320-7682` [high] Run systematic ablation experiments on architecture, data mixtures, and hyperparameters at small scale before committing to a full training run -- this consumes ~37% of total compute but prevents costly mistakes.
@@ -43,6 +43,7 @@
 - `INS-260322-3616` [high] Supervised fine-tuning only changed tone and instruction-following; reinforcement fine-tuning lets companies train models to domain-expert level on their proprietary data, creating the first real moat from model customization.
 - `INS-260410-8E1C` [high] RL broadcasts a single final-reward bit across an entire trajectory, upweighting tokens from wrong paths that happened to end in the right answer — it's terrible, just less terrible than imitation.
 - `INS-260410-46CA` [high] Capabilities unlock domain by domain based on how cleanly you can construct a verifiable reward signal, not on general intelligence improvements.
+- `INS-260412-9777` [high] ChatGPT's RLHF training produced a model 100x smaller than GPT-3 but with better performance, proving human feedback matters more than raw scale.
 - `INS-260321-8C35` [high] AGI requires weight plasticity (continual learning without catastrophic forgetting) and causal modeling (simulation over correlation) — neither solvable by making models bigger.
 - `INS-260403-B73D` [high] RL training exhibits the same scaling dynamics as pre-training, meaning the compute exponential that's driven 23 years of progress continues unbroken.
 - `INS-260410-7933` [high] LLMs below ~10B parameters were mostly nonsense generators; the same architecture at 100B+ started reasoning about the world in ways no researcher predicted.

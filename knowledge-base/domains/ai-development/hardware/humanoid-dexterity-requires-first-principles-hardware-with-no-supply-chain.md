@@ -60,9 +60,9 @@ stance: >-
 related:
   - INS-260403-2E12
   - PRI-260328-C528
+  - INS-260412-5ADA
   - PRI-260328-7007
   - INS-260405-E34C
-  - INS-260410-F7B8
 ---
 Musk identifies three hard problems for humanoid robots: real-world intelligence, the hand, and scale manufacturing. The hand alone is harder than everything else combined from an electromechanical standpoint, because there is no existing supplier making actuators with the torque density, precision, and degrees of freedom required. Tesla had to custom-design motors, gears, power electronics, controls, and sensors from physics first principles for every single component.
 

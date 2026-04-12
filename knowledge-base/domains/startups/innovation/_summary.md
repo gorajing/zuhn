@@ -1,6 +1,6 @@
 # Topic: innovation
 
-> 135 insights
+> 136 insights
 
 - `INS-260405-EFC2` [high] C invented the curly-brace, semicolon syntax that now defines how billions of developers write code — its design choices became the assumed defaults of most successor languages.
 - `INS-260404-4320` [high] AI collapses experimentation costs across deeptech by replacing early-stage lab work with in-silico simulation.
@@ -117,6 +117,7 @@
 - `INS-260403-0372` [medium] Organizations should invest in innovation software when they cannot demonstrate ROI on innovation efforts, not simply when idea volume grows.
 - `INS-260405-34F1` [medium] Diagnosing where an organization currently sits on the innovation maturity spectrum is the prerequisite to building an effective innovation system.
 - `INS-260403-17E1` [medium] Newton's alchemy and theology obsessions were 'wasted' time, but the same disposition that produced those bets also produced his physics — you can't separate the wins from the losses.
+- `INS-260412-B825` [medium] Apple ran two competing iPhone teams (iPod-phone vs touch-Mac-OS) without letting them see each other's work, and the underdog team won.
 - `INS-260403-B5A5` [medium] Startups need INVENT patterns to design new business models; incumbents need SHIFT patterns to transform existing ones — different strategic contexts require different pattern sets.
 - `INS-260403-ACA8` [medium] Large companies need innovation frameworks designed for their unique constraints, not copied startup methods.
 - `INS-260403-31C2` [medium] Enterprise lean startup adoption scales faster through peer practitioner networks than top-down mandates.

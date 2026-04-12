@@ -46,14 +46,15 @@ stance: >-
   government contracts drive tech company valuations more effectively than
   product quality or financial performance.
 related:
+  - INS-260412-9B06
   - INS-260403-CCED
   - PRI-260406-1AA1
   - INS-260410-F681
   - INS-260403-5D89
-  - INS-260402-8F67
   - INS-260405-6E60
   - INS-260410-2B55
   - INS-260412-E317
+  - INS-260412-BC68
 evidence:
   - id: INS-260324-A9DF
     type: CHALLENGES

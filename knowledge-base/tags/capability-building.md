@@ -5,4 +5,5 @@
 
 
 - `INS-260330-809A` Apple's acquisition pattern — Authentec for Touch ID, Siri for voice, NeXT for Jobs — shows that buying capabilities yields higher returns than buying businesses.
+- `INS-260412-032F` Apple acquired FingerWorks not just for multi-touch patents but primarily to get Wayne Westerman's team, who became core to the iPhone's touch technology.
 - `INS-260403-C05F` Combining specialized innovation programs at different organizational levels produces better results than relying on one.

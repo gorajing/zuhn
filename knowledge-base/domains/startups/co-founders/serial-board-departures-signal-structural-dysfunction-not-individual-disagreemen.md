@@ -56,7 +56,7 @@ related:
   - INS-260324-C882
   - INS-260328-4ED2
   - PRI-260328-BEAB
-  - INS-260327-77A0
+  - INS-260412-6C6F
 ---
 Before Altman's removal, OpenAI's board experienced a cascade of departures: Elon Musk left citing Tesla conflicts (but later revealed frustration with for-profit drift), Will Hurd cited a presidential bid, Reid Hoffman left over investment conflicts, and Shivon Zilis departed. Each departure had a plausible individual explanation, but the pattern reveals structural dysfunction — the hybrid structure created inherent conflicts of interest that made board service untenable for anyone with outside commitments.
 

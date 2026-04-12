@@ -60,9 +60,9 @@ stance: >-
 related:
   - INS-260410-5E3F
   - INS-260410-0D14
+  - INS-260412-829C
   - INS-260403-C200
   - INS-260330-C7FF
-  - INS-260405-7698
 ---
 Walmart's first hires as multi-store managers weren't salaried employees with stock options; they were partners in the specific store they ran. They put up real dollars. Their upside was tied to the P&L of their unit, which they directly controlled, not to some aggregate company performance they had no influence over. Existing managers were also allowed to invest in new store partnerships as they opened, which created both cross-store alignment and a form of internal GP commit on every new launch.
 

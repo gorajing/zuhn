@@ -57,7 +57,6 @@ stance: >-
   persists for hundreds of millions of years in biology and decades in markets
 related:
   - INS-260327-BA97
-  - INS-260327-4153
   - INS-260330-09DE
   - INS-260402-26B0
   - INS-260403-47C0
@@ -66,6 +65,7 @@ related:
   - PRI-260407-E7CD
   - INS-260404-8A57
   - INS-260404-FAE9
+  - INS-260410-C8C2
 evidence:
   - id: INS-260403-5755
     type: SUPPORTS

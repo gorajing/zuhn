@@ -52,9 +52,9 @@ resolutions:
 related:
   - PRI-260323-6A93
   - INS-260404-8CAE
+  - INS-260412-FB49
   - INS-260327-C79D
   - INS-260403-5031
-  - INS-260327-33E0
 stance: >-
   Nvidia investing $30B in OpenAI while OpenAI buys Nvidia chips is circular
   financing

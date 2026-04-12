@@ -23,6 +23,6 @@
 - `INS-260330-66C7` Uber built secret systems (Greyball, Hell, Heaven) to surveil regulators and competitors, creating asymmetric information advantages that were nearly impossible to counter.
 - `INS-260323-FFAC` Cox maintained the narrative that he was 'helping people get homes' through every escalation of fraud, only recognizing his self-deception years later in prison while writing an ethics course.
 - `INS-260323-95FE` Cox's first fraud (whiting out a late payment) didn't satisfy the urge — it emboldened him, rapidly escalating from minor document alteration to synthetic identities and $55M in fraud.
-- `INS-260403-6C88` Chamath's admission that Facebook's team wishes they'd been more careful proves that competitive pressure overrides good intentions without external constraints.
 - `INS-260404-AE2E` Publicly committing to ethical standards beyond legal requirements attracts top talent who self-select for principled employers.
+- `INS-260403-6C88` Chamath's admission that Facebook's team wishes they'd been more careful proves that competitive pressure overrides good intentions without external constraints.
 - `INS-260328-6A8C` Selling something that produces no benefit for the buyer isn't trade — it's something else entirely.

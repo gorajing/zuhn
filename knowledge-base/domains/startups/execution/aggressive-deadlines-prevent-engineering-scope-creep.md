@@ -66,8 +66,8 @@ related:
   - INS-260403-7749
   - INS-260321-0CCD
   - INS-260323-4457
+  - INS-260412-7FF8
   - INS-260403-B2EA
-  - INS-260409-3AEE
 ---
 Dee Hock gave Aram Tootelian nine months to build BASE I — a nationwide telecom network, computer installations at hundreds of member banks, training programs, and a new centralized data center — from scratch, starting in 1971. He then gave the same team a similar deadline for BASE II, Visa's automated clearing house, which was being built in parallel to the Federal Reserve's own ACH with none of the collaboration between the two projects. Both shipped on time, both worked, and both became the backbone of global payments.
 

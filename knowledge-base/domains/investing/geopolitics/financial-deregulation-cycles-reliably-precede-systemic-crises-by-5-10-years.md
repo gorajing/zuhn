@@ -51,10 +51,10 @@ stance: >-
   times are predictable enough to be investable signals.
 related:
   - INS-260321-C6C0
+  - INS-260412-6C6F
   - INS-260403-B6C6
   - INS-260330-4181
   - INS-260327-C68B
-  - PRI-260328-37D8
 ---
 The Banking Act of 1933 separated commercial and investment banking precisely because their combination had amplified the Great Depression. When Gramm-Leach-Bliley repealed these provisions in 1999, it allowed banks to combine deposit-taking, securities trading, and insurance under one roof — recreating the exact risk concentration the original law was designed to prevent. Within a decade, this contributed to the subprime mortgage crisis metastasizing into a global financial meltdown.
 

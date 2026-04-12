@@ -51,11 +51,11 @@ stance: >-
   bonds, and foreign assets, real estate becomes the only store of value and
   will be bid up far beyond intrinsic worth.
 related:
-  - INS-260330-F67A
-  - INS-260330-C1EA
   - PRI-260328-EAC4
+  - INS-260330-C1EA
   - PRI-260403-2927
   - INS-260327-9638
+  - INS-260412-4859
   - INS-260405-69F1
 evidence:
   - id: INS-260405-69F1

@@ -48,10 +48,10 @@ stance: >-
   for brain-computer interfaces faster than lab-only R&D ever could
 related:
   - INS-260404-1E65
+  - INS-260412-9777
   - INS-260403-99D1
   - INS-260321-1A0B
   - INS-260403-B835
-  - INS-260330-D5DD
 ---
 Neuralink's expansion from 1 to 21 human trial participants revealed that real-world surgical data from the first patient (Noland) was more valuable than years of animal testing for improving outcomes. Signal quality improved in 18 of 20 subsequent cases, demonstrating that brain-computer interfaces benefit enormously from iterative clinical feedback loops.
 

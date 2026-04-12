@@ -48,11 +48,11 @@ stance: >-
   itself (like governments) creates existential renegotiation risk that cannot
   be fully mitigated by contract terms alone.
 related:
-  - INS-260321-1A03
   - INS-260323-176B
   - INS-260403-FA1E
   - INS-260403-9012
-  - PRI-260324-2A76
+  - INS-260412-09EE
+  - INS-260321-1A03
 ---
 Anthropic's original Pentagon contract included usage policy requirements that both sides agreed to. But when the Pentagon wanted different terms, it bypassed normal contract dispute mechanisms and threatened extra-contractual coercion — supply chain designation, Defense Production Act invocation. The contract itself provided zero protection against a counterparty willing to use power outside the contractual framework.
 

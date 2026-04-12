@@ -57,10 +57,11 @@ stance: >-
   probable outcome than markets currently price.
 related:
   - INS-260403-330D
+  - INS-260412-4859
   - PRI-260328-0993
   - PRI-260328-6136
   - PRI-260405-8E48
-  - INS-260327-EF98
+  - INS-260412-BC68
 ---
 Dimon outlines a convergence of inflationary pressures: $725B in AI hyperscaler capex (2026), $300B fiscal stimulus from the One Big Beautiful Bill, geopolitical commodity shocks from wars in Ukraine and Iran disrupting oil, fertilizer, and helium supply chains, and U.S. debt-to-GDP projected to hit 120% by 2036. While AI capex is long-run deflationary via productivity, it is short-run inflationary. Combined with high asset prices (household net worth at 560% of GDP vs 460% at 2006 peak) and historically low credit spreads, the setup is fragile.
 

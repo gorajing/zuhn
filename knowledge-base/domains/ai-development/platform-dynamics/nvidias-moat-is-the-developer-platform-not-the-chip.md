@@ -64,12 +64,12 @@ related:
   - INS-260327-F316
   - INS-260328-8B2C
   - INS-260403-04AF
-  - INS-260404-CCE7
   - INS-260404-B18A
   - INS-260405-FAA3
   - INS-260323-7B63
   - INS-260404-9004
   - PRI-260406-E015
+  - INS-260410-7C07
 ---
 When analysts compare Nvidia to Cisco or Intel as cyclical hardware providers, they miss that Nvidia is structurally a platform company. Since 2006, Nvidia committed to shipping every single GPU as CUDA-capable even when it imposed real costs on the hardware, and today ~1,600+ engineers work directly on CUDA with over 4 million registered developers on the platform. The integral of Nvidia's CUDA engineering investment approaches 10,000 person-years — a head start that AMD's ROCm, Apple's Metal, and even the Facebook-led pytorch foundation cannot close quickly, because open-source alternatives must assemble contributions from dozens of companies each committing only handfuls of engineers.
 

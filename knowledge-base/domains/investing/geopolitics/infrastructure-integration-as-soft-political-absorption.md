@@ -50,12 +50,13 @@ stance: >-
   more effective tool for eroding autonomy than direct legislative action
   because it creates economic dependency that makes separation impractical.
 related:
+  - INS-260412-DFC7
   - PRI-260324-3AAE
   - INS-260412-C7FA
   - INS-260412-AB8C
   - PRI-260406-6C43
-  - INS-260412-C6ED
   - INS-260403-CFBD
+  - INS-260412-C6ED
 evidence:
   - id: INS-260322-5D22
     type: TRANSFERS_TO

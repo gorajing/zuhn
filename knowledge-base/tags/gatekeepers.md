@@ -1,6 +1,7 @@
 # Tag: gatekeepers
 
 - `INS-260403-F01C` Media technologies cycle between democratization (which enables divisive entrepreneurs) and consolidation (which restores moderation), and LLMs may be the consolidating phase of the social media cycle.
+- `INS-260412-0FFC` Credit rating agencies rated junk mortgage products AAA because banks would take their business to competitors who would — the gatekeeper's revenue depends on pleasing the gated.
 - `INS-260403-9689` A gatekeeper between you and your customers holds existential power over your business regardless of how good your product is.
 - `INS-260403-C9C2` Ambitious people can now bypass corporate ladders entirely by building things the market judges directly, which was nearly impossible a generation ago.
 - `INS-260322-E06A` Stan Lee's publisher had three logical-sounding objections to Spider-Man — all three were wrong because they reflected conventions, not truths about what audiences want.

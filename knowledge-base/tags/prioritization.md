@@ -1,8 +1,8 @@
 # Tag: prioritization
 
+- `INS-260412-AC11` Abstract awareness of mortality rarely changes behavior, but seeing '2,340 weeks left' creates visceral urgency that does.
 - `INS-260412-9958` Documents that identify every problem but fail to ruthlessly rank them by urgency produce paralysis on the most critical issues.
 - `INS-260410-DB1D` Paine's practical advice: check alignments before committing, reassess early and often, don't get hung up about changing your mind, and recognize that part of good strategy is accepting that some problems cannot be solved and routing scarce resources to ones that can.
-- `INS-260412-AC11` Abstract awareness of mortality rarely changes behavior, but seeing '2,340 weeks left' creates visceral urgency that does.
 - `INS-260403-3CD9` Busywork that feels productive is worse than obvious procrastination because it prevents self-correction.
 - `INS-260330-BFD0` The gradient vector doesn't just point downhill — its component magnitudes reveal which parameters carry the most bang for your buck.
 - `INS-260330-6C0E` Deliberately decide which relationships matter more than political agreement, and protect those while holding public figures to a different standard.
@@ -14,6 +14,10 @@
 - `INS-260403-30E5` When facing death, redirect all engineering effort to whatever closes revenue fastest — more code is worthless if the company dies.
 - `INS-260403-52C4` Partially working features that resist deprecation due to sunk cost create more cumulative drag than outright failures that get quickly killed.
 - `INS-260412-8780` China built more high-speed rail than the rest of the world combined not through superior technology but by making it the government's top priority.
+- `INS-260403-C283` Give trial project candidates more work than they can finish to see how they triage, scope, and communicate what they chose to skip and why.
+- `INS-260330-0AA7` Talk to all investors in parallel but allocate attention proportional to expected value (likelihood × quality).
+- `INS-260404-16E1` Mention your business model to show you've thought about it, but don't elaborate—smart investors expect it to be wrong at this stage.
+- `INS-260405-092A` Smart investors expect your early business model to be wrong, so dwelling on it wastes time and can actively damage your pitch.
 - `INS-260329-F4CD` Find the single domino that, when toppled, makes every other optimization unnecessary.
 - `INS-260329-EC01` Champions win by saying no to everything except their singular focus, not by adding more skills or opportunities.
 - `INS-260328-0540` Ask yourself: what are the three things in my business that give me a stomach ache? Not pop problems or things from Twitter — the real ones.
@@ -22,10 +26,6 @@
 - `INS-260330-6A94` Reclaiming your time follows a progression — roommates, commute, alarm clock, calendar, email — and each stage requires disappointing someone.
 - `INS-260329-BC6C` Instead of 100 tactical optimizations, find the one big domino that makes them all irrelevant.
 - `INS-260329-DEE5` Frame ruthless prioritization as a temporary 'season of no' to make the sacrifice psychologically sustainable.
-- `INS-260330-0AA7` Talk to all investors in parallel but allocate attention proportional to expected value (likelihood × quality).
-- `INS-260404-16E1` Mention your business model to show you've thought about it, but don't elaborate—smart investors expect it to be wrong at this stage.
-- `INS-260405-092A` Smart investors expect your early business model to be wrong, so dwelling on it wastes time and can actively damage your pitch.
-- `INS-260403-C283` Give trial project candidates more work than they can finish to see how they triage, scope, and communicate what they chose to skip and why.
 - `INS-260322-EE1B` There's a power law in everything — identify the single most important thing each period and go all-in before distributing effort across secondary goals.
 - `INS-260403-3FF5` Wartime prioritization requires cuts so deep that everyone in the organization can feel the change in direction.
 - `INS-260327-482E` Stop avoiding hard problems—identify the biggest risk and attack it directly.

@@ -48,8 +48,6 @@ stance: >-
   tactics fail but cumulative small wins compound, making focus and sequencing
   more important than finding one breakthrough channel.
 related:
-  - INS-260323-8C53
-  - INS-260327-505A
   - INS-260402-7623
   - INS-260410-A2D3
   - PRI-260322-8FD4

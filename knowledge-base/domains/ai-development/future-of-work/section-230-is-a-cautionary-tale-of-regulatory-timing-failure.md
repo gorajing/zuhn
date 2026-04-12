@@ -53,9 +53,9 @@ stance: >-
 related:
   - INS-260330-1F7E
   - INS-260409-EA56
+  - INS-260412-4233
   - INS-260322-C5BD
   - INS-260403-225F
-  - INS-260403-FF74
 ---
 Section 230 was written for a nascent internet and became essentially immovable as the technology evolved far beyond what legislators imagined. The result is that internet content regulation now depends on Supreme Court justices with no technology background, and lawmakers have lost the ability to pass reasonable updates. Chamath frames this explicitly as a failure mode to avoid with AI.
 

@@ -11,4 +11,5 @@
 - `INS-260403-B1D6` Countries with stronger civil liberties grow richer because open discourse selects for efficient solutions over politically favored ones.
 - `INS-260402-E60E` For most of human history, the fastest way to get rich was stealing — wealth creation as the dominant path only emerged with the Industrial Revolution.
 - `INS-260324-1C12` The world's best transit systems (Tokyo, Paris, Berlin, Taipei) operate like for-profit businesses with annual reports and clear financial goals — American systems lose record money every year with no accountability.
+- `INS-260412-4477` FTX spent $73M+ on political donations across both parties to build regulatory cover, substituting lobbying for legitimate compliance — a strategy that amplified rather than reduced risk.
 - `INS-260412-7BD8` Isabel dos Santos signed off as both lender and borrower on a $460M transfer between her own companies, illustrating how dual-role positions make fraud structurally undetectable.

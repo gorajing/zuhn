@@ -1,11 +1,11 @@
 # Tag: social-pressure
 
 - `INS-260330-8849` Cultural norms tying property ownership to marriage eligibility create demand that persists regardless of whether the purchase makes financial sense.
-- `INS-260403-A739` Karp maintained contrarian positions for 20 years while being called a failure, and that tolerance for ostracism was itself a competitive advantage.
 - `INS-260405-8732` Conformists can't imagine true-but-dangerous ideas because their own views are always safe to express.
 - `INS-260330-141E` People systematically misrepresent their beliefs under social pressure, making public opinion appear more uniform than it actually is.
 - `INS-260403-33E2` Humans suppress guessing primarily because the social cost of being wrong far outweighs the marginal expected value of occasionally being right.
 - `INS-260329-177E` The 'Season of No' is a deliberate period of saying no to all social activities and entertainment to create an environment that makes intense work the only option.
+- `INS-260403-A739` Karp maintained contrarian positions for 20 years while being called a failure, and that tolerance for ostracism was itself a competitive advantage.
 - `INS-260403-DF73` Founders face coordinated pressure from VCs and executives to abandon instincts that are actually correct.
 - `INS-260404-FDB2` Being an accidental moderate requires more courage than being an extremist because you face attacks from both sides with no group to sustain you.
 - `INS-260403-BDE0` Cities send subtle but powerful messages about which type of ambition is most valued, and these messages shape inhabitants more than most people realize.

@@ -53,6 +53,7 @@ related:
   - PRI-260406-6690
   - INS-260405-68DC
   - INS-260410-2DB5
+  - INS-260412-1F14
 ---
 Smith draws a direct parallel between AI's effect on software engineers and the power loom's effect on master weavers. In both cases, automation doesn't eliminate the domain — it changes the nature of the work from craft to oversight. The remaining human role is understanding failure modes, maintaining systems, and advising less-skilled operators.
 

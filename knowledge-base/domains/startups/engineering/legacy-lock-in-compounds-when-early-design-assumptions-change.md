@@ -53,7 +53,6 @@ stance: >-
   accumulate costly workarounds rather than redesign when conditions shift, and
   the workaround cost grows with scale
 related:
-  - INS-260328-D0F6
   - INS-260330-CA97
   - INS-260330-D304
   - INS-260330-3FF4

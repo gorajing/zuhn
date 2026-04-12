@@ -1,6 +1,6 @@
 # Topic: business-analysis
 
-> 38 insights
+> 40 insights
 
 - `INS-260410-641D` [high] An acquisition serving three strategic purposes simultaneously is worth far more than critics who grade on one dimension will estimate — YouTube went from 'Google's worst mistake' to a $500B business.
 - `INS-260412-55F4` [high] Dubai grew faster than Abu Dhabi despite being farther from the oil because it captured the administrative and economic coordination layer.
@@ -9,6 +9,7 @@
 - `INS-260410-DA0E` [high] Amazon used the 2000-2007 dot-com winter—when everyone else was retrenching—to build the fulfillment, Prime, and Marketplace infrastructure that became its permanent moat.
 - `INS-260412-1038` [high] The Lee family controls Samsung's 59 affiliates through cascading cross-ownership where each entity's operating profits buy controlling stakes in the next, amplifying control geometrically beyond actual capital invested.
 - `INS-260410-0118` [high] Pork and egg production look like commodity businesses but concentrate into handful-of-firm oligopolies whose price-fixing and inelastic demand let them earn outsized profits.
+- `INS-260412-132B` [high] Purdue corrupted doctors, distributors, pharmacists, politicians, and the FDA simultaneously, creating a self-reinforcing system that resisted correction for over two decades.
 - `INS-260410-ED7E` [high] Hermès could raise Birkin prices meaningfully without losing buyers, but choosing not to creates the scarcity tax that drives purchase of adjacent products, yielding more lifetime revenue than the foregone price would.
 - `INS-260411-F990` [high] DuPont decomposition of sustained top-quintile ROIC performers from 1963-2023 shows NOPAT margins (differentiation) contributed 4.4x the universe average while invested capital turnover (cost leadership) contributed only 1.8x.
 - `INS-260412-339A` [high] Aircraft wear is determined by pressurization cycles, not flight hours, so short-haul planes doing 8-10 cycles daily age faster than long-haul planes doing one.
@@ -20,6 +21,7 @@
 - `INS-260410-6CE5` [high] Greg Abel signals that 2026 will see Berkshire write LESS property-casualty and reinsurance business because 'additional capital entered the market, resulting in lower pricing' — deliberate shrinkage rather than chasing a softening cycle.
 - `INS-260412-E317` [high] United's MileagePlus was valued at $21.9B while the airline's market cap was only $10B, proving the loyalty program is the real business.
 - `INS-260410-F366` [high] MTM on illiquid assets pulls all future revenue forward, leaving zero recurring base and forcing ever-bigger fake deals to maintain growth.
+- `INS-260412-9B06` [high] Nikola surpassed Ford's $28B market cap within one week of going public despite having zero revenue, zero deliveries, and no functioning technology.
 - `INS-260410-F6FE` [high] Nike mistook the running boom for the fitness boom and refused to do aerobics on principle, letting Reebok overtake them in sales by 1988.
 - `INS-260412-16FD` [high] Airline ticket prices are dominated by airport fees, taxes, maintenance, and aircraft depreciation, leaving airlines with thin margins on each seat.
 - `INS-260412-A9C3` [high] The Concorde burned only 2.5x more total fuel per mile than the Dreamliner, but per-passenger fuel economy was 14 vs 104 mpg — a 7.4x gap.

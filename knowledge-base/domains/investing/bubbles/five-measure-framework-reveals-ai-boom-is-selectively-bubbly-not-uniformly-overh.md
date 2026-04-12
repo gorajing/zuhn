@@ -52,9 +52,9 @@ stance: >-
 related:
   - PRI-260403-2927
   - INS-260403-9E4D
+  - INS-260412-9E3A
   - PRI-260328-8284
   - PRI-260328-6136
-  - PRI-260407-93D7
 ---
 Azeem Azhar and Nathan Warren propose evaluating the AI boom against five historical bubble measures: economic strain, realized returns, valuation levels, funding quality, and speculative behavior. Unlike the dot-com era where all five metrics flashed red simultaneously, AI appears to be selectively overheated.
 

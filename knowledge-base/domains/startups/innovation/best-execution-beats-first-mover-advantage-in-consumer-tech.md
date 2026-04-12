@@ -45,10 +45,10 @@ stance: >-
   being the first inventor in consumer markets
 related:
   - INS-260327-38D8
+  - INS-260412-5ADA
   - INS-260323-1B0B
+  - INS-260412-032F
   - INS-260410-BCA3
-  - INS-260327-8C1C
-  - INS-260330-059C
 evidence:
   - id: INS-260322-888D
     type: SUPPORTS

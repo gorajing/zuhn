@@ -67,7 +67,6 @@ related:
   - INS-260409-AD81
   - INS-260324-C33C
   - INS-260410-A17B
-  - INS-260410-52AE
   - INS-260410-3B42
 ---
 Coke's structural advantage is that it has never needed to invest meaningful capital into bottling or distribution. The parent company sells concentrated syrup; thousands of independent bottlers around the world buy that syrup, mix it with water, bottle it, and distribute it locally — putting up their own capital, hiring their own employees, and bearing their own working-capital risk. Asa Candler bought the entire company for $2,300 in 1891 because there was no capital to invest in. The business has been a cash-flow bonanza since day one.

@@ -14,6 +14,7 @@
 - `INS-260409-4719` When intelligence costs go to zero, humans get paid for taking risk — the one thing machines cannot perform on your behalf.
 - `INS-260409-A180` Hassabis softly rejects Marc Andreessen's 'history always repeats' view — AGI at 10x Industrial Revolution speed may exceed the economy's capacity to create replacement jobs.
 - `INS-260403-3E16` When everyone delegates to AI, human professional identity shifts from 'what I do' to 'what I delegate.'
+- `INS-260412-1F14` AI displacement follows a clear sequence — translation professionals fell first, then artists, with white-collar knowledge workers next in line.
 - `INS-260404-459B` Inverting startup culture's oddities reveals the 'normal' world as conservative, hierarchical, and slow — which Graham argues is actually a portrait of the past, not a permanent default.
 - `INS-260410-B6EA` Mixed human-AI corporations will be outcompeted by fully autonomous ones the way a spreadsheet with some human-computed cells would be worse than a pure spreadsheet.
 - `INS-260403-10CE` As AI automates task execution, the scarce human contribution shifts to judgment, taste, and the ability to orchestrate AI systems effectively.

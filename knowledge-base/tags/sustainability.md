@@ -17,13 +17,13 @@
 - `INS-260403-5EEA` Topic selection should prioritize what gives you energy to think and write about for years, not what the market says it wants.
 - `INS-260403-09CB` Long-term content success requires prioritizing stamina by writing about what energizes you rather than chasing what performs well.
 - `INS-260403-CEBA` Technology leads are temporary; customer understanding compounds into durable competitive advantage.
-- `INS-260412-1191` Organizations can summon exceptional performance for showcase moments while their steady-state operations are deteriorating — and the showcase success actively delays recognition of the underlying decline.
 - `INS-260328-8DF8` People who are having fun can sustain crazy levels of effort for years — people who aren't fun eventually burn out and quit.
+- `INS-260412-1191` Organizations can summon exceptional performance for showcase moments while their steady-state operations are deteriorating — and the showcase success actively delays recognition of the underlying decline.
 - `INS-260403-07D2` The Calvin Cycle produces 6 G3P molecules but must recycle 5 to regenerate starting materials, netting only 1 for actual plant growth.
+- `INS-260327-99E5` 80% of consumers say they want sustainable products; less than 5% actually buy them when they cost more.
 - `INS-260322-92D7` Before chasing product-market fit, verify you have founder-market fit — domain expertise and personal stakes that make the problem sustainably compelling.
 - `INS-260405-F20D` Founder compensation should be benchmarked against funding stage and market norms, not minimized to signal commitment.
 - `INS-260327-E992` The best cheat code for surviving founder grind is choosing a problem that genuinely excites you and your team.
-- `INS-260327-99E5` 80% of consumers say they want sustainable products; less than 5% actually buy them when they cost more.
 - `INS-260323-0AF3` Creating mycelium leather is pointless if assembling the shoe still requires toxic glue — true sustainability demands solving the entire production chain from CO2 to compostable end product.
 - `INS-260403-AA20` The 996 grind culture trades short-term velocity for compounding burnout costs that destroy long-term startup viability.
 - `INS-260412-9300` The Caplan thruster harvests mass from the Sun to fuel itself, yet this actually extends the Sun's lifespan because lower-mass stars burn slower.

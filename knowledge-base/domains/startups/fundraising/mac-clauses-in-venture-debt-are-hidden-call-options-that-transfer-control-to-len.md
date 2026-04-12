@@ -55,10 +55,10 @@ stance: >-
   exact moments when startups are most vulnerable.
 related:
   - PRI-260406-B702
+  - INS-260412-09EE
   - INS-260403-636D
   - INS-260403-35E1
   - INS-260327-7F73
-  - INS-260327-14E6
 ---
 Material Adverse Change clauses are among the most dangerous provisions in venture debt term sheets because they give lenders broad discretion to declare a default if the business 'deteriorates significantly.' The problem is that 'significantly' is often poorly defined, creating an asymmetric option: lenders can invoke MAC during any downturn to renegotiate terms, demand immediate repayment, or seize collateral (which often includes a blanket lien on all company assets, including IP).
 

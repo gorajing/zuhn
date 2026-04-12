@@ -15,11 +15,11 @@
 - `INS-260403-E255` Clustering meetings at day's end converts interruptions into bounded schedule compression without fragmenting deep work blocks.
 - `INS-260329-6253` Start new habits when you're busiest — if they survive peak load, they'll persist; habits formed during slack time break the moment pressure returns.
 - `INS-260329-24CE` Maker time protection evolves through three stages: stolen hours, half-day splits, then entire dedicated maker days as your business scales.
-- `INS-260327-3F64` Ruthless time discipline and daily exercise are the actual differentiators at the highest level.
-- `INS-260330-6A94` Reclaiming your time follows a progression — roommates, commute, alarm clock, calendar, email — and each stage requires disappointing someone.
 - `INS-260403-882A` The fundraising bottleneck is not finding investors but organizing existing information—founders waste weeks on research that already exists in aggregated form.
 - `INS-260405-1982` Treat fundraising as a sprint with a hard end date to minimize distraction and create investor urgency.
 - `INS-260402-421B` Prolonged investor indecision is more lethal to startups than outright rejection because it consumes months while the company stagnates.
 - `INS-260402-5974` Founders should fit investor meetings into gaps in their development schedule, not fit development into gaps between investor meetings.
+- `INS-260327-3F64` Ruthless time discipline and daily exercise are the actual differentiators at the highest level.
+- `INS-260330-6A94` Reclaiming your time follows a progression — roommates, commute, alarm clock, calendar, email — and each stage requires disappointing someone.
 - `INS-260330-2BEC` Founders should aggressively drive prospects to yes or no, because a thousand maybes consume all resources while producing zero revenue.
 - `INS-260327-0E33` The most dangerous sales mistake is chasing easy conversations -- startups, friendly contacts, bottom-up users for top-down products -- because it creates an illusion of progress while yielding zero revenue.

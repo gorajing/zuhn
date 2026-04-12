@@ -11,10 +11,10 @@
 - `INS-260325-8A61` Mind the Product's 2026 guide proposes the 3x rule: an AI feature must create measurable value at least 3x its direct compute cost, or treat it as research, not product.
 - `INS-260328-D826` AI features in SaaS create an inverse relationship between user engagement and profitability unless usage caps and smart routing are in place.
 - `INS-260325-206C` AI Dungeon's near-death from token costs is the cautionary tale: variable-cost AI engines inside fixed-price subscriptions create margin erosion that grows with your best users.
-- `INS-260412-A9C3` The Concorde burned only 2.5x more total fuel per mile than the Dreamliner, but per-passenger fuel economy was 14 vs 104 mpg — a 7.4x gap.
 - `INS-260323-F753` Anthropic has earned $5B revenue against $10B spent; OpenAI's ratio is even worse — both companies lose money on every user query.
 - `INS-260404-F62A` Foundation model businesses are booming in revenue but the path to sustainable profitability remains unclear.
 - `INS-260323-FEAB` Traditional SaaS scales cheaply per user, but AI products have marginal costs that increase with usage — Anthropic spends $8-$135 per dollar of Claude Code subscription revenue.
+- `INS-260412-A9C3` The Concorde burned only 2.5x more total fuel per mile than the Dreamliner, but per-passenger fuel economy was 14 vs 104 mpg — a 7.4x gap.
 - `INS-260404-19C2` Only 13 of Europe's 50 fintech unicorns are profitable, exposing a systemic gap between valuations and business fundamentals.
 - `INS-260404-2C23` Rubrik's 133% net retention rate proved to investors that growth was organic and sustainable, not acquisition-dependent.
 - `INS-260404-47F3` At $40-50K per implant with 10K units/year target, Neuralink is building a $400-500M/year premium medical device business, not a consumer product.
@@ -50,13 +50,6 @@
 - `INS-260403-91A1` Growing revenue from existing customers through upsells and expansion is more efficient than acquiring new ones.
 - `INS-260403-53B0` Net retention above 100% means upsell revenue from existing customers exceeds churn losses, creating compounding growth independent of new acquisition.
 - `INS-260403-3A72` ZIRP-era companies like Uber and Snapchat have never achieved sustained profitability, while high-rate-era companies like Microsoft and Google were profitable at IPO.
-- `INS-260403-44E9` Build revenue projections from funnel conversion rates upward rather than starting from a target number and working backward.
-- `INS-260403-6740` A burn multiple around 1.5x signals strong capital efficiency; above 2.5x means growth needs scrutiny regardless of top-line momentum.
-- `INS-260403-1D7D` For early rounds, present a clean dashboard showing retention, expansion, and CAC efficiency instead of bloated financial projections.
-- `INS-260403-21DB` VCs expect LTV to be at least 3x CAC — below 1:1 signals pricing or retention needs immediate work.
-- `INS-260403-4E51` Showing CLTV/CAC ratio improvement over time is a stronger fundraising signal than a single favorable snapshot.
-- `INS-260405-3098` Series B pitches succeed by proving unit economics are scalable, not just by showing growth.
-- `INS-260405-7F03` Venture capital decisions are driven by quantitative metrics, not story quality.
 - `INS-260409-B9F6` Do the math on free services as a customer acquisition channel — the implicit CAC often beats paid media.
 - `INS-260322-3259` SiteGPT's $1700-1800 LTV per customer makes even low-conversion organic traffic highly profitable.
 - `INS-260329-49A4` LTV-to-CAC ratio (using gross profit, not revenue) determines scaling ceiling — aim for 3:1 minimum, and pour fuel when you see 30:1+.
@@ -64,6 +57,13 @@
 - `INS-260402-24B0` Unlike SaaS where marginal cost trends to zero, every AI user incurs real compute cost, making undisciplined distribution a path to margin collapse.
 - `INS-260329-4EF5` When your first sale covers acquisition + fulfillment for the next customer, growth becomes self-funding and capital is no longer the bottleneck.
 - `INS-260329-3DD7` Raise price, decrease cost, increase frequency, cross-sell, increase quantity, upgrade quality, downsell, and offer economy tiers — these 8 levers make any single customer worth more.
+- `INS-260403-44E9` Build revenue projections from funnel conversion rates upward rather than starting from a target number and working backward.
+- `INS-260403-6740` A burn multiple around 1.5x signals strong capital efficiency; above 2.5x means growth needs scrutiny regardless of top-line momentum.
+- `INS-260403-1D7D` For early rounds, present a clean dashboard showing retention, expansion, and CAC efficiency instead of bloated financial projections.
+- `INS-260403-21DB` VCs expect LTV to be at least 3x CAC — below 1:1 signals pricing or retention needs immediate work.
+- `INS-260403-4E51` Showing CLTV/CAC ratio improvement over time is a stronger fundraising signal than a single favorable snapshot.
+- `INS-260405-3098` Series B pitches succeed by proving unit economics are scalable, not just by showing growth.
+- `INS-260405-7F03` Venture capital decisions are driven by quantitative metrics, not story quality.
 - `INS-260329-ACFF` Price either extremely high for a select few or extremely low for everyone — the middle kills businesses.
 - `INS-260405-0060` Usage-based revenue doesn't accrue at contract signing, so compensating reps on TCV or ACV creates a structural misalignment — reps win, but the company may not.
 - `INS-260410-0D14` Every new store had to clear a 2:1 sales-to-investment ratio and 20% operating margin — no exceptions, for decades.

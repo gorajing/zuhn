@@ -1,6 +1,6 @@
 # Topic: founder-psychology
 
-> 81 insights
+> 82 insights
 
 - `INS-260323-9C11` [high] Early hardship — while not required for success — instills an unshakeable belief that solutions exist and are within your control.
 - `INS-260328-91A1` [high] We are so early in AI adoption that freezing all model development today would still yield massive business improvements for years -- current tools are dramatically under-deployed.
@@ -40,6 +40,7 @@
 - `INS-260323-5986` [high] In fast-growing companies you cannot learn organically fast enough — systematically interview people who are one or two stages ahead to discover the pattern of what you need 12-24 months from now.
 - `INS-260323-FFAC` [high] Cox maintained the narrative that he was 'helping people get homes' through every escalation of fraud, only recognizing his self-deception years later in prison while writing an ethics course.
 - `INS-260326-20C8` [high] The same mechanism that makes founders avoid hard truths is what makes people avoid emotional intimacy — self-protection destroys what it claims to protect.
+- `INS-260412-71C6` [high] Trevor Milton's pattern of defrauding buyers and partners repeated identically across four companies over 15 years, escalating in scale each time.
 - `INS-260409-FCE1` [high] Founders owe their employees and investors honest effort, not a successful outcome; the expected outcome was never winning.
 - `INS-260323-95FE` [high] Cox's first fraud (whiting out a late payment) didn't satisfy the urge — it emboldened him, rapidly escalating from minor document alteration to synthetic identities and $55M in fraud.
 - `INS-260403-D417` [high] Surrounding yourself with people who can distinguish ugly ducklings from bad ideas is critical for ambitious work.

@@ -41,11 +41,11 @@ stance: >-
   lose to AI-native startups built from scratch, just as pre-iPhone mobile
   companies lost to post-iPhone startups.
 related:
+  - INS-260412-B825
   - INS-260410-320A
   - INS-260330-7ED0
   - INS-260330-C24F
   - INS-260330-36DB
-  - INS-260403-AC5E
 evidence:
   - id: INS-260322-5678
     type: SUPPORTS

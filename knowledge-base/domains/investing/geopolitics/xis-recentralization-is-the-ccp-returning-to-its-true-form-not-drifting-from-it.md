@@ -64,7 +64,7 @@ related:
   - INS-260410-CD75
   - INS-260403-397B
   - INS-260330-1293
-  - INS-260412-B8CB
+  - INS-260412-AFF7
 ---
 Paine is emphatic: don't ever kid yourself that the Communist Party of China doesn't believe in communism. They view the Deng Xiaoping reforms as a modification of economic mechanisms — a pragmatic adjustment — not a renunciation of the underlying political-economic model. Xi is now recentralizing 'right back the way it was.'
 

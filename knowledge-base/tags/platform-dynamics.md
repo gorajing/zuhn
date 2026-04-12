@@ -6,6 +6,7 @@
 - `INS-260325-E652` TurboQuant improves LLM inference, vector search recall, and embedding storage simultaneously because all three are bottlenecked by the same high-dimensional vector operations.
 - `INS-260322-A367` Unlike traditional cloud infrastructure that gets abstracted away, AI models resist disintermediation because users and developers form both emotional and technical relationships with specific models.
 - `INS-260403-C164` Cuban believes AI infrastructure (Databricks, Snowflake-type companies) will capture long-term value while consumer AI gets commoditized.
+- `INS-260412-C0B4` Sam Altman's three-layer AI stack thesis predicts base model oligopoly with massive value creation in domain-specific fine-tuning.
 - `INS-260330-E5F7` Languages succeed by occupying unique positions on the abstraction-vs-control spectrum, and shifts happen when new languages find gaps in that curve.
 - `INS-260329-7BA7` Internet value accrues to those who control the user relationship while commoditizing supply — now playing out in AI
 - `INS-260403-56D7` Moderate users leaving social media doesn't reduce polarization — it concentrates extremist influence by removing the moderating majority.

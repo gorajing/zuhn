@@ -56,8 +56,8 @@ related:
   - INS-260329-5514
   - INS-260329-5B3D
   - INS-260329-D159
-  - INS-260330-3A7B
   - INS-260330-C84C
+  - INS-260330-08FA
 ---
 Mark Cuban's contrarian fundraising advice centers on a simple math truth: dilution compounds. Every round you raise reduces your ownership, and most founders get caught optimizing top-line revenue rather than bottom-line profit. Cuban frames fundraising as an obligation many founders must accept, not an accomplishment to celebrate.
 

@@ -47,10 +47,10 @@ stance: >-
   individual revenue opportunity.
 related:
   - INS-260329-79D3
+  - INS-260412-BA99
   - INS-260403-B12E
   - INS-260403-8CDC
   - INS-260403-8302
-  - INS-260327-9EE4
 evidence:
   - id: INS-260402-7FCC
     type: TRANSFERS_TO

@@ -53,11 +53,11 @@ stance: >-
   built real businesses from those who relied on cheap capital to mask weak
   fundamentals.
 related:
+  - INS-260412-89BE
   - INS-260403-8DD4
   - PRI-260406-7128
+  - INS-260412-A718
   - PRI-260328-BEDD
-  - PRI-260324-3081
-  - INS-260403-B73A
   - INS-260403-E33B
 ---
 During ZIRP (2008-2022), cheap capital allowed companies to grow without regard to profitability, creating inflated valuations across tech, biotech, SPACs, and crypto. When the Fed raised rates from near-zero to ~5%, the mathematical reality hit: unprofitable companies' future cash flows get discounted more harshly, rendering many effectively valueless. This created a clear divide between management teams who 'found religion' — cutting costs and pursuing profitability — and those trying to avoid reality.

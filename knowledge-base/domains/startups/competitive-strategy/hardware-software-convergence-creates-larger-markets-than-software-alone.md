@@ -45,7 +45,6 @@ stance: >-
   dramatically larger markets and more successful companies than software-only
   advances
 related:
-  - INS-260403-E59C
   - INS-260405-55E0
   - INS-260402-9EBD
   - INS-260410-3D3B

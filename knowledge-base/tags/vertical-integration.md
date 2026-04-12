@@ -11,6 +11,7 @@
 - `INS-260323-9B49` The advanced technology fab in Austin will have lithography mask making, chip fabrication, and testing all in one building — enabling a recursive design loop that Musk claims is an order of magnitude faster than anything else in the world.
 - `INS-260402-C03D` MrBeast's $500M+ revenue empire proves a single creator can bypass traditional marketing by using content as the distribution engine for vertically integrated businesses.
 - `INS-260330-7251` Netflix's shift to original content was forced by the existential threat of content owners pulling licenses to launch competing streaming services.
+- `INS-260412-2147` Multi-tier supplier chains compound markups at each layer, making vertically integrated competitors dramatically cheaper.
 - `INS-260402-5E4E` Computers slashed transaction costs, making networks of specialized companies outperform monolithic vertical integration.
 - `INS-260330-B284` Rockefeller first consolidated 90% of oil refining (horizontal) before expanding into drilling, pipelines, storage, and distribution (vertical), using his refining monopoly as leverage for each expansion.
 - `INS-260411-A093` Industries start vertically integrated because coordination costs are high for complex new products, then dis-integrate into horizontal layers as modularization reduces coordination needs -- but premature modularization is catastrophic.
@@ -21,9 +22,9 @@
 - `INS-260330-27E8` Onitsuka's betrayal forced Blue Ribbon Sports to create Nike — transforming them from a dependent distributor into a vertically integrated brand worth billions.
 - `INS-260403-90A0` China's rare earth export tightening and Western chip seizures are forcing companies to vertically integrate within their geopolitical bloc or risk existential supply disruption.
 - `INS-260330-F9B4` Tech strategy is a race up the control hierarchy: plugins → websites → apps → OS → hardware, where each level reduces dependence on others.
+- `INS-260412-FB49` Apple's iPhone profits funded chip R&D that improved 300% in five years while Intel improved only 28%, demonstrating how adjacent-market cash flows can fuel disruption.
 - `INS-260330-0525` Tesla and SpaceX succeeded not through a single 10x breakthrough but through complex vertical integration that pulled in distributors and subcontractors that would otherwise extract monopoly profits.
 - `INS-260327-F229` Disney's competitive advantage isn't better movies — it's owning the entire pipeline from film production through theme parks, merchandise, streaming, and cruise ships.
-- `INS-260412-2147` Multi-tier supplier chains compound markups at each layer, making vertically integrated competitors dramatically cheaper.
 - `INS-260402-91B5` Focus on vertical slices that span the boundaries where bigger organizations divide labor, because the best insights live in those seams.
 - `INS-260410-D2D1` Walmart had to build its own distribution network, trucking fleet, and private satellite system because no third party could provide the efficiency their discount model required.
 - `INS-260405-1B93` When Amazon started producing its own TV shows, it stopped competing purely on logistics and began competing on culture — a much harder moat to replicate.

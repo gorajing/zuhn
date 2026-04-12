@@ -1,6 +1,6 @@
 # Topic: group-dynamics
 
-> 118 insights
+> 119 insights
 
 - `INS-260330-2EB0` [high] The Pueblo Revolt shows that a shared existential threat can override deep tribal divisions — but the unity is temporary.
 - `INS-260403-D609` [high] Enforcers of orthodoxy compete with each other, creating a race to the bottom where any borderline idea gets banned.
@@ -61,6 +61,7 @@
 - `INS-260403-6861` [high] When crime policy becomes entangled with racial justice framing, pragmatic solutions like increased policing become morally impermissible regardless of evidence.
 - `INS-260412-3A8E` [high] Stronger shared identity among crowd members produces more cooperative behavior, even in dangerous situations.
 - `INS-260402-FFCB` [high] Bret Weinstein's taxonomy — witch-hunters, followers, silent majority, and resisters who become the witches — describes a recurring social pattern where opposition to a movement gets recast as the very evil being hunted.
+- `INS-260412-AFF7` [high] WallStreetBets transformed GameStop from a trade into an identity movement where selling became moral betrayal, causing participants to hold through massive losses they would never accept in isolation.
 - `INS-260403-8C7E` [high] Social media functions as a status marketplace where divisive hostility is the most reliable path to visibility and influence.
 - `INS-260403-C4E2` [high] When enough people around you are doing something ambitious, it stops feeling crazy and starts feeling like the obvious next step.
 - `INS-260403-750A` [high] Gen Z's return to religion and structured practices signals that unconstrained freedom is experienced as a burden, not liberation.

@@ -2,6 +2,7 @@
 
 - `INS-260404-6DAD` The Assistant API lets builders deploy AI assistants anywhere, breaking free from OpenAI's walled garden while preserving the same training and capabilities.
 - `INS-260323-5C6F` If your AI product is just a layer on top of an underlying AI platform, that platform can replicate it — Jasper, Zynga, and SEO companies all learned this the hard way.
+- `INS-260412-46A4` Robinhood's buy-side restrictions during the GME squeeze revealed that platforms funded by institutional order flow payments will protect those institutions when retail activity threatens them.
 - `INS-260327-B950` Venice's decline began when Portuguese discovery of the sea route to India bypassed the Mediterranean trade routes that Venice controlled.
 - `INS-260412-0BF3` Guam's economy depends on two concentrated pillars — US military (largest employer) and Asian tourism — making it prosperous but fragile to shifts in either.
 - `INS-260330-F324` When your audience is built on tribal identity rather than expertise, changing your position is an extinction-level business event.

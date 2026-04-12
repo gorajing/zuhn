@@ -58,7 +58,6 @@ stance: >-
   keeping the right to license your IP to everyone else.
 related:
   - INS-260402-3196
-  - INS-260404-396E
   - INS-260327-09D7
   - INS-260410-2632
   - INS-260410-DFE2

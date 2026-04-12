@@ -54,7 +54,7 @@ related:
   - PRI-260406-FD1C
   - INS-260403-A057
   - PRI-260406-9226
-  - INS-260404-4682
+  - INS-260412-09EE
 ---
 Most startup advice pushes SAFEs as the default fundraising instrument because they defer valuation and are founder-friendly. But this advice breaks down for friends-and-family rounds where most investors are non-accredited (under $200K income or $1M net worth). In the U.S., offering securities to non-accredited investors without proper exemptions or disclosures can expose founders to legal liability, force round unwinding, and scare off future institutional investors.
 

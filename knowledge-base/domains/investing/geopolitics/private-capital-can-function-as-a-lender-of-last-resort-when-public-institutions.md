@@ -57,11 +57,11 @@ stance: >-
   holders become de facto monetary authorities with both the power and the
   profit motive to stabilize economies.
 related:
+  - INS-260412-0257
   - INS-260410-CBF9
   - PRI-260328-37D8
   - INS-260412-839B
   - INS-260409-7C61
-  - INS-260330-84BD
 evidence:
   - id: INS-260330-84BD
     type: SUPPORTS

@@ -69,7 +69,6 @@ stance: >-
   make coordinated strategy impossible, regardless of individual competence.
 related:
   - INS-260323-A197
-  - INS-260327-B959
   - INS-260410-0826
   - INS-260410-7E29
   - INS-260410-58DB

@@ -5,8 +5,8 @@
 - `INS-260410-EA51` Systematic sweeps show ~1-2% per-problem success rates; the impressive headlines come from cherry-picking the wins from massive parallel attempts.
 - `INS-260403-ECB2` Over two-thirds of the best angel outcomes came from deals that were already 'hot' at the time of investment, making access the binding constraint.
 - `INS-260403-9D9E` Astia Fund's sift strategy represents a shift from network-dependent to systematic deal sourcing designed to reduce failure rates.
-- `INS-260402-AD42` Sufficiently corrupt tests invert their purpose and select against the people they should be selecting for.
 - `INS-260405-2B3F` Treating survey non-response as randomly missing data produces systematically wrong estimates whenever the stigmatized view is also the under-reported one.
+- `INS-260402-AD42` Sufficiently corrupt tests invert their purpose and select against the people they should be selecting for.
 - `INS-260403-ABA7` Selecting evidence from whichever country supports your argument is a powerful and under-recognized form of cherry-picking.
 - `INS-260403-28C7` We misjudge unfamiliar experiences because negative moments are visible while positive ones are quiet and private.
 - `INS-260404-E185` Selection-type judgments aim to pick a good-enough set, not to evaluate you accurately.

@@ -1,7 +1,7 @@
 # Tag: objection-handling
 
-- `INS-260403-641F` Harry Stebbings led his $400M raise by surfacing the hardest question first — whether they could get 15%+ ownership — then showed data proving a clear upward trend, converting skepticism into conviction.
 - `INS-260403-9E6A` Place a mini-FAQ answering security, integrations, setup time, cancellation, and ROI questions directly beside your pricing CTA to catch bounces at the moment of intent.
+- `INS-260403-641F` Harry Stebbings led his $400M raise by surfacing the hardest question first — whether they could get 15%+ ownership — then showed data proving a clear upward trend, converting skepticism into conviction.
 - `INS-260329-B604` Sales objections are cognitive distortions that manifest as blame directed at circumstances, other people, or self.
 - `INS-260329-1A3B` If prospects reject your free offer, their objections reveal hidden costs that, once eliminated, let you charge premium prices while competitors still impose those costs.
 - `INS-260328-93F7` Sales interviews disproportionately weight how you describe handling objections because it simultaneously reveals listening skills, composure, and problem-solving ability.

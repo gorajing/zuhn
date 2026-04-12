@@ -1,6 +1,6 @@
 # Domain: ai-development
 
-> 1701 insights across 40 topics
+> 1706 insights across 40 topics
 
 ## Topics
 
@@ -23,21 +23,21 @@
 | embeddings | 18 | Different basis choices make different operations trivial or impossible in vector spaces. |
 | foundation-models | 9 | LLMs win the AGI race, but their first act as AGIs is to replace themselves with something closer to Sutton's from-scratch experiential architecture. |
 | future-of-work | 98 | Tens of millions learning Python through free YouTube tutorials represent a workforce transformation happening outside traditional education. |
-| governance | 14 | 80% of Americans want AI regulated — a rare civic consensus — and frontier labs are spending hundreds of millions to kill it; the organizing opening is real. |
-| hardware | 14 | An H100 is worth more today than three years ago because the models it runs generate far more value per token than GPT-4 did, and you can't just buy a Rubin instead. |
+| governance | 15 | 80% of Americans want AI regulated — a rare civic consensus — and frontier labs are spending hundreds of millions to kill it; the organizing opening is real. |
+| hardware | 15 | An H100 is worth more today than three years ago because the models it runs generate far more value per token than GPT-4 did, and you can't just buy a Rubin instead. |
 | human-ai-relationship | 75 | When AI outperforms humans, human-AI synergy is g = -0.54; when humans outperform AI, synergy is g = +0.46. |
 | industry-trends | 15 | Each AI capability phase — transformers, LLMs, reasoning, agents — requires discarding the mental models built in the previous phase. |
 | infrastructure | 19 | Multi-turn agent workloads flip the inference bottleneck from decode to prefill, requiring new optimization strategies for KV cache reuse and context processing. |
 | limitations | 65 | The optical nerve delivers about 10^15 bytes to a 4-year-old's brain versus 2x10^13 bytes of all internet text used to train LLMs -- most human knowledge comes from sensory interaction with the physical world, not from language. |
 | llm-behavior | 12 | Once an AI cites a source, it tends to return to it — making first-mover citation advantage self-reinforcing. |
-| llm-costs | 19 | OpenRouter offers 50-1000 free requests/day on certain models — not trial credits, actually free forever. |
-| llm-training | 63 | Run systematic ablation experiments on architecture, data mixtures, and hyperparameters at small scale before committing to a full training run -- this consumes ~37% of total compute but prevents costly mistakes. |
+| llm-costs | 20 | OpenRouter offers 50-1000 free requests/day on certain models — not trial credits, actually free forever. |
+| llm-training | 64 | Run systematic ablation experiments on architecture, data mixtures, and hyperparameters at small scale before committing to a full training run -- this consumes ~37% of total compute but prevents costly mistakes. |
 | llms | 1 | In a field flooded with tutorials, a handful of rigorously maintained repositories account for most of the practical engineering knowledge. |
 | mental-models | 16 | Backprop doesn't know anything about neural networks — it applies the chain rule to any directed expression graph, and neural nets are just a particular shape of graph we happen to care about. |
 | model-architecture | 18 | Each biological neuron runs its own learning mechanisms and maintains state; each artificial neuron is just y = Wx + b, making raw neuron-count comparisons between brains and AI models deeply misleading. |
 | pedagogy | 4 | Watching someone use AI live is more instructive than reading or hearing about it. |
 | platform-dynamics | 40 | OpenAI doesn't treat agents as a separate category — ChatGPT, Codex CLI, Sora, and the API are all just different interfaces for deploying the same underlying intelligence, each optimized for different user contexts. |
-| platform-shifts | 56 | Agentic AI is moving from an engineering concern to a board-level strategic imperative. |
+| platform-shifts | 57 | Agentic AI is moving from an engineering concern to a board-level strategic imperative. |
 | product-strategy | 91 | MIT found 95% of genAI pilots yield zero P&L impact because enterprise AI tools become static science projects that never adapt to real workflows. |
 | productivity | 4 | Founders are now shipping in days what used to take engineer-months or years — Chamath vibe-coded a bookmark service he'd sat on for 15 years in one weekend, and his team doubled click-through rates via auto-research in a day. |
 | prompting | 7 | Anthropic built a tool-testing agent that used a flawed MCP tool, then rewrote its description — future agents using the new description completed tasks 40% faster. |

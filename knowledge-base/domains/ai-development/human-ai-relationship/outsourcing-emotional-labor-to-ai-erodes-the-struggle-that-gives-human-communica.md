@@ -52,9 +52,9 @@ related:
   - INS-260330-1F41
   - INS-260320-26B1
   - INS-260323-AFA7
-  - INS-260326-3C9C
   - INS-260327-04D8
   - INS-260330-C9C2
+  - INS-260403-EF20
 stance: >-
   Using AI to rewrite emotional messages or generate personal speeches
   eliminates the meaningful human struggle from communication.

@@ -10,6 +10,7 @@
 - `INS-260402-36DE` Massive fiscal deficits and shrinking buyer base for Treasuries mean Fed rate cuts no longer reliably lower long-term yields.
 - `INS-260409-900D` The California wealth-tax campaign gained traction specifically because a 2025 federal bill cut ~$100B from state Medicaid over five years while delivering comparable gains to billionaires.
 - `INS-260330-4150` Great powers that spend more servicing debt than funding defense consistently lose their dominant position within a generation.
+- `INS-260412-DFC7` China's high-speed rail and Belt and Road show that infrastructure built for political prestige rather than economic demand becomes a permanent fiscal drain.
 - `INS-260403-2F55` Multiple studies find a significant cross-country correlation between pandemic-era fiscal deficits and subsequent inflation, supporting the view that government borrowing has real inflationary costs.
 - `INS-260403-9897` Japan's inflation return forces a fiscal reckoning where higher rates to control inflation make government debt vastly more expensive, with elderly benefit cuts as the only viable escape.
 - `INS-260403-8DD4` With rates near zero in 2021, the U.S. could have refinanced its national debt cheaply but didn't, now facing 5%+ rates on trillions in rolling maturities.

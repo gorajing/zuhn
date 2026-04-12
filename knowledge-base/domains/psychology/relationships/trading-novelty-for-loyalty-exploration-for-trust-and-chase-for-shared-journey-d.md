@@ -50,10 +50,10 @@ stance: >-
 related:
   - INS-260328-6A8C
   - INS-260329-DFDD
+  - INS-260412-AFF7
   - INS-260323-73AB
   - INS-260325-5A93
   - INS-260412-FB83
-  - INS-260329-CEC5
 evidence:
   - id: INS-260328-6A8C
     type: TRANSFERS_TO

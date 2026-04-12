@@ -139,11 +139,8 @@
 - `INS-260403-37FD` Well-funded startups are often too busy spending money to ship good software, making the competitive landscape far less threatening than it appears.
 - `INS-260328-F752` VCs dismissing batch-model investing by claiming they already know all the good companies are admitting they view venture as a zero-sum commodity business.
 - `INS-260405-0375` At current exit velocity, the entire U.S. unicorn backlog would take 49 years to clear.
-- `INS-260410-79C4` The Qualcomm pitch required threading 15+ needles in sequence — a prima facie auto-pass — but the team already knew, from information theory first principles, that each needle was threadable.
-- `INS-260410-614E` Most VCs say 'we made a bet' or 'it's a good risk-adjusted bet' — Benchmark partners argue this language encodes passive super-forecasting, whereas 'commitment' encodes active odds-denting on the field with the founder.
-- `INS-260410-320A` Zuckerberg's retained control through Peter Thiel's and Accel's unprecedented founder-friendly terms is what allowed Meta to survive IPO, mobile, Instagram, Oculus, and reality-labs bets that a standard board would have blocked.
-- `INS-260402-43F9` Giving someone investment capital to build their own thing produces better outcomes than paying them a salary to build your thing.
 - `INS-260404-86D3` Health tech funding remains robust across stages (Series B through growth) and geographies, suggesting structural rather than cyclical demand.
+- `INS-260405-3554` Founders misunderstand what VCs are optimized for, and VCs misunderstand how founders emotionally relate to their company — this mutual misreading creates predictable friction at board level.
 - `INS-260323-E9E4` Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead.
 - `INS-260404-620D` AI-native positioning dominates successful seed-stage pitch decks in 2024, appearing in the majority of funded companies across the sample.
 - `INS-260402-8E29` Angel investors can only come from successful founders reinvesting locally — governments can fund VCs but cannot manufacture angels.
@@ -187,12 +184,16 @@
 - `INS-260402-8424` VCs invest in startups over ordinary businesses because equity-based returns through IPO/acquisition prevent the agency problem of founders self-dealing through inflated expenses.
 - `INS-260403-F554` 92% of VCs say the team is the most important element, valuing complementary skills and pivot capability over raw individual talent.
 - `INS-260403-2936` Strong teams with clear pitches can raise from anywhere because VCs now allocate by sector and quality, not geography.
-- `INS-260405-3554` Founders misunderstand what VCs are optimized for, and VCs misunderstand how founders emotionally relate to their company — this mutual misreading creates predictable friction at board level.
+- `INS-260410-79C4` The Qualcomm pitch required threading 15+ needles in sequence — a prima facie auto-pass — but the team already knew, from information theory first principles, that each needle was threadable.
+- `INS-260410-614E` Most VCs say 'we made a bet' or 'it's a good risk-adjusted bet' — Benchmark partners argue this language encodes passive super-forecasting, whereas 'commitment' encodes active odds-denting on the field with the founder.
+- `INS-260410-320A` Zuckerberg's retained control through Peter Thiel's and Accel's unprecedented founder-friendly terms is what allowed Meta to survive IPO, mobile, Instagram, Oculus, and reality-labs bets that a standard board would have blocked.
+- `INS-260402-43F9` Giving someone investment capital to build their own thing produces better outcomes than paying them a salary to build your thing.
 - `INS-260328-2CFF` A board member is either a +1, 0, or -1 — there are only a handful of +1s in the world, so aim for a zero.
 - `INS-260403-FA89` Startup hubs form if and only if both technical talent and experienced investors are co-located; no other input is sufficient.
 - `INS-260403-8FC1` The creator economy startup field is shrinking but surviving companies are in a healthier competitive position than during the boom.
 - `INS-260405-DADB` VCs explicitly screen for network effects because they are the strongest defensibility mechanism in software — each new user increases value for all users.
 - `INS-260405-6342` Pitchbook data from Q1 2024 shows the US has more startups than VCs can realistically fund, meaning competition for capital has intensified beyond what deal quality alone explains.
+- `INS-260404-6FFF` Consumer-focused startups are making a comeback, following a historical pattern where new technology waves re-open B2C opportunity windows.
 - `INS-260403-16EA` True scalability means growing revenue exponentially while costs grow linearly, best demonstrated through LTV/CAC ratios and declining marginal costs.
 - `INS-260405-6317` AMI's $1.03B seed — Europe's largest ever — shows sophisticated investors concentrating capital at inception when the paradigm bet is clear.
 - `INS-260405-54E2` Roughly two-thirds of venture dollars go to AI, and two-thirds of AI venture dollars go to the Bay Area — a compounding concentration effect.
@@ -200,6 +201,5 @@
 - `INS-260405-7A41` VCs who need founders to like them end up softening feedback, creating a 'trough' where founders receive pleasant noise instead of useful signal.
 - `INS-260409-AB8D` VC-backed industrial software must chase hockey stick growth, which means every feature decision optimizes for 'biggest problems for the most people, ideally wealthy people with disposable income' — leaving a nearly infinite long tail of niche and local needs permanently out of scope.
 - `INS-260405-AA3C` A VC's internal portfolio study is a mirror of their own biases, not a market study.
-- `INS-260404-6FFF` Consumer-focused startups are making a comeback, following a historical pattern where new technology waves re-open B2C opportunity windows.
 - `INS-260328-A417` PG's anti-zero-sum thesis — that funding more startups creates more total wealth rather than diluting a fixed pool — was proven right by YC and applies to AI-era Series A investing.
 - `INS-260403-D5DC` Choose your startup location based on what fuels your business, not who funds it.

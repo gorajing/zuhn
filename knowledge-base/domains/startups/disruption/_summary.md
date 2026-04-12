@@ -1,8 +1,9 @@
 # Topic: disruption
 
-> 18 insights
+> 19 insights
 
 - `INS-260410-04EA` [high] The quartz crisis killed the mechanical watch's job of accurate timekeeping, but a new job — signaling achievement and lifestyle — was waiting to be filled; Rolex survived by recognizing these were two different markets and refusing to compete on the dying one.
+- `INS-260412-454A` [high] Christensen's disruption framework played out precisely with ARM chips moving from mobile into desktop computing over three decades.
 - `INS-260410-A365` [high] Google had a working transformer-based chatbot (Mina, then Lambda) years before ChatGPT but couldn't ship it because of ad cannibalization, brand-trust requirements, and safety standards that OpenAI as a startup simply didn't face.
 - `INS-260410-9738` [high] When Larry and Sergey demoed page rank to Excite's CEO in 1997, he killed the deal precisely because the results were too good — users would find what they wanted and leave, destroying Excite's CPM banner-ad page-view business.
 - `INS-260410-F0E4` [high] Intel was the largest early investor in EUV lithography — $4B in 2012 — and still failed to ship a chip made with it, because optimizing existing 193nm immersion was the safer bet on every spreadsheet.

@@ -1,6 +1,6 @@
 # Topic: bubbles
 
-> 78 insights
+> 85 insights
 
 - `INS-260325-FC0B` [high] About 30% of investors who panic sell during crashes never return to equities, missing massive subsequent gains.
 - `INS-260403-52FF` [high] Carta data shows sub-$10M funds hit 90th percentile TVPI of ~4.03x while $100M+ funds only reach ~1.67x, and 73% of top-performing funds are Fund I or II.
@@ -16,6 +16,7 @@
 - `INS-260326-6B99` [high] Taleb's barbell strategy — 80% ultra-safe assets plus 20% highly speculative bets — is mathematically superior to medium-risk allocation because it creates a convex payoff that benefits from volatility rather than being destroyed by it.
 - `INS-260325-3B28` [high] Leading digits in natural datasets follow a logarithmic distribution (30% start with 1, <5% start with 9) — deviations flag fabricated financial or electoral data.
 - `INS-260403-F157` [high] Major bubbles form around real innovations, not pure fiction, which is why smart people get fooled.
+- `INS-260412-E332` [high] When money is cheap and markets rise, even sophisticated investors abandon governance scrutiny — Sequoia invested $210M while the founder played video games on the call.
 - `INS-260410-4670` [high] Frauds reach Enron scale only in bull markets because saturated capital chases low-disclosure assets and stops asking questions.
 - `INS-260327-C79D` [high] In a market where Bitcoin, stocks, and Dogecoin only go up, people will convince themselves that anything - watches, sneakers, Pokemon cards - is an investment.
 - `INS-260403-358D` [high] VC money flowing into startups that spend it on ads at incumbent platforms creates a self-reinforcing bubble.
@@ -26,7 +27,9 @@
 - `INS-260404-6B73` [high] DeepSeek R1 wiped nearly a trillion dollars in market value by proving frontier AI doesn't require frontier spending.
 - `INS-260323-114D` [high] $178.5B in data center credit deals in 2025 alone, funded by junk-grade debt, for customers that are unprofitable AI startups — this is the financial crisis vector, not software disruption.
 - `INS-260403-738F` [high] Companies invest in AI infrastructure defensively, then can't admit it isn't working because they've already spent too much.
+- `INS-260412-0846` [high] The same speculative instruments get banned after crashes and re-legalized once the generation that lived through them is gone.
 - `INS-260403-988C` [high] Banks that chased yield in long-duration bonds during zero-rate years faced catastrophic unrealized losses when the Fed hiked aggressively, triggering depositor runs.
+- `INS-260412-E3B4` [high] Theranos operated without a CFO for 10 years, enabling Sunny to present investor projections 10x higher than internal forecasts with no one to challenge them.
 - `INS-260325-51E6` [high] When a financial product reaches retail investors through social media, institutions have already captured the easy returns — what's left is mostly risk.
 - `INS-260325-F0CE` [high] Philip Tetlock's research shows expert financial forecasts are no better than average person predictions, and no one predicted the major market-moving events of recent years.
 - `INS-260325-9F41` [high] Wharton's Philip Tetlock found expert forecasts were no better than average guesses — nobody predicted the 2020 pandemic, 2021 Ukraine invasion, or 2022's 500bp rate hikes.
@@ -35,6 +38,7 @@
 - `INS-260325-803C` [high] Financial media does not sell content to viewers — it sells viewers to advertisers — which is why everything is presented as an existential threat designed to capture attention rather than inform decisions.
 - `INS-260330-E43F` [high] China's cities receive 40% of tax revenue but bear 80% of expenses, forcing them to use land sales as their primary funding mechanism.
 - `INS-260404-EEAF` [high] Most fortunes are destroyed by bad investments rather than extravagant spending because investments bypass our innate alarms about self-indulgence.
+- `INS-260412-A54C` [high] BlackRock and eight other institutional players quietly extracted $16B from the GameStop squeeze while retail investors held through the decline, demonstrating that Wall Street always finds a way to win.
 - `INS-260325-0688` [high] The loser's game framework shows that investing success comes from minimizing errors, not maximizing returns.
 - `INS-260325-9DBB` [high] Like amateur tennis, investing is won not by brilliant plays but by making fewer mistakes than your opponent.
 - `INS-260325-13C2` [high] We know average equity returns, inflation rates, and economic ranges — the only unsolved variable in investing is our own behavior.
@@ -47,11 +51,14 @@
 - `INS-260330-06CD` [high] Masa Son's $20M Alibaba bet returning $70B+ proved that a single outlier can justify hundreds of failed investments.
 - `INS-260325-195E` [high] Bessembinder's research shows just 2% of stocks account for all net market gains over 75 years.
 - `INS-260325-FDB3` [high] Less than half of professional fund managers beat their benchmark in any given year, dropping to under 10% at 10 years and virtually zero at 20.
+- `INS-260412-BA99` [high] Each prestigious partner a fraudulent company signs makes the next partner less likely to investigate, creating a cascade of unearned credibility.
 - `INS-260330-3B31` [high] Ponzi schemes are mathematically unsustainable because they need exponential growth in new investors to pay promised returns.
 - `INS-260324-72E8` [high] After the dot-com crash, VCs stopped rushing to IPO — they now use series C/D/E/F rounds to supercharge growth, inflate valuations through closed circles, and exit at peak before public investors bear the loss.
+- `INS-260412-D883` [high] Pre-sale financing that funds new projects instead of completing sold ones creates Ponzi dynamics that collapse when demand growth decelerates.
 - `INS-260323-500B` [high] The stock market is a voting machine short-term but a weighing machine long-term — the edge comes from knowing the difference between price and value.
 - `INS-260403-CF98` [high] McDonald's was one of only two Dow Jones stocks to increase in value during 2008, and has raised dividends for 25+ consecutive years, because its real estate base provides stability that food margins never could.
 - `INS-260403-EFFB` [high] The source of yield — real borrower payments vs. token emissions — is the single most important distinction in evaluating any DeFi product.
+- `INS-260412-8EC1` [high] Nikola chose a reverse merger specifically because it avoided the detailed disclosures a traditional IPO would have required, hiding fatal flaws from investors.
 - `INS-260323-C8AC` [high] The SaaS selloff blamed on AI disruption is actually the end of a decade-long hypergrowth era — hundreds of billions in private-equity-held software companies are worth less than their acquisition price.
 - `INS-260325-9AD4` [high] Instead of researching why you should buy an investment, research why you should not — if you cannot find a compelling reason against it, that is a stronger signal than all the confirming evidence combined.
 - `INS-260324-27E2` [high] Before AI it was big data, before that crypto/web3, before that VR/AR, before that IoT/wearables — Silicon Valley recycles the same pump-and-dump playbook with a new technology name every 3-5 years.

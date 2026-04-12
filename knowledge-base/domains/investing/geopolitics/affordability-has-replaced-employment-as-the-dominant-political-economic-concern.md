@@ -48,6 +48,7 @@ stance: >-
   Cost of living has overtaken unemployment as the primary economic anxiety
   driving voter behavior and political strategy in the US.
 related:
+  - INS-260412-AB38
   - INS-260403-330D
   - PRI-260328-6CDE
   - PRI-260405-8E48

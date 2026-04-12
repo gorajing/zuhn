@@ -52,9 +52,9 @@ stance: >-
 related:
   - INS-260324-8C30
   - INS-260403-B01D
+  - INS-260412-9E3A
   - INS-260403-5BBE
   - INS-260410-731D
-  - INS-260405-8E85
 ---
 Airlines have achieved something extraordinary: they issue a virtual currency (miles/points), control its supply, control the goods available for redemption, and are the sole entity that can convert it to real value. Unlike actual central banks, they operate as private for-profit companies with no regulatory oversight on their currency. They can create more currency at will and sell it to credit card companies at ~1 cent per point while the variable cost of redemption (a seat on an existing flight) is roughly $15.
 

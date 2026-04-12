@@ -1,8 +1,9 @@
 # Topic: hardware
 
-> 14 insights
+> 15 insights
 
 - `INS-260410-4696` [high] An H100 is worth more today than three years ago because the models it runs generate far more value per token than GPT-4 did, and you can't just buy a Rubin instead.
+- `INS-260412-8396` [high] ARM's reduced instruction set approach, initially dismissed as underpowered, became decisive when desktop CPUs hit power and thermal limits that simpler architectures inherently avoid.
 - `INS-260410-AA40` [high] Matrix multiplication (N³ compute, N² data) is the perfect shape for hardware where arithmetic is cheap and data movement is expensive, so deep learning was destined to win once TPUs filled the chip with arithmetic units.
 - `INS-260410-101D` [high] China adds a France-or-UK-sized power grid every year; their strategic bet on cheap abundant electricity positions them to deploy more AI than anyone once the model matters less than how many you can run.
 - `INS-260410-E6E8` [high] Nadella identifies the Majorana 1 achievement as dual — both physics existence proof AND a repeatable fabrication technique — and treats the fabrication half as the precondition for everything that follows.

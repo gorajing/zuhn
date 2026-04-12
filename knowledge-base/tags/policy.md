@@ -22,8 +22,8 @@
 - `INS-260403-9E82` Even if everyone gets richer, social comparison to influencers caps how much happier growth can make people.
 - `INS-260404-0095` Letting in a few thousand great programmers per year costs almost nothing but failing to do so could cost a country its technological lead.
 - `INS-260403-160A` Anti-wealth-creation policies don't eliminate startups — they just push founders to other countries, trading economic dynamism for a lower Gini coefficient.
-- `INS-260404-DE04` Regulatory shifts can rapidly undermine entire regional startup ecosystems independent of talent and capital availability.
 - `INS-260322-D051` US crop subsidies for corn, soy, and wheat made these ingredients artificially cheap, causing food companies to systematically replace real ingredients with processed versions — driving the chronic disease epidemic since the 1970s.
+- `INS-260404-DE04` Regulatory shifts can rapidly undermine entire regional startup ecosystems independent of talent and capital availability.
 - `INS-260402-9F35` Mid-century equality was produced by war and oligopoly, making it a poor baseline for modern policy goals.
 - `INS-260330-22A2` Sweden's 480-day paid parental leave per child boosted fertility but made employers reluctant to hire young women.
 - `INS-260403-0611` When regulation makes going public impractical, startups die silently—the founders just stay in grad school instead.

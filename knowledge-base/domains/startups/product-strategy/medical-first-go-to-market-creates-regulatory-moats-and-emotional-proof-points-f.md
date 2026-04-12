@@ -48,7 +48,6 @@ stance: >-
   applications is a superior GTM strategy for radical new hardware because it
   generates undeniable proof of value and regulatory precedent simultaneously
 related:
-  - INS-260330-1A23
   - INS-260327-6188
   - INS-260410-1D64
   - INS-260404-3ACB

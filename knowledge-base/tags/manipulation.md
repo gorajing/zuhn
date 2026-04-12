@@ -5,6 +5,7 @@
 - `INS-260403-1CC6` Nearly all fundraising scams converge on the same psychological exploit: fabricating social proof and urgency to override rational evaluation.
 - `INS-260325-36EA` Chronic niceness is covert manipulation to control others' perception — it breeds resentment in the giver and discomfort in the receiver.
 - `INS-260330-6A3A` The conviction that you understand persuasion too well to be persuaded is itself a persuasion vulnerability.
+- `INS-260412-8AB6` Elizabeth Holmes' repeated lies became accepted truth because consistent repetition plus credible social context overrides skepticism.
 - `INS-260330-A1AF` Adams, the self-proclaimed expert on manipulation tactics, was ultimately destroyed by a manipulation technique straight out of his own playbook that he failed to recognize.
 - `INS-260330-8B79` After years of global espionage, the most surprising finding about human nature is the universal painful longing for human connection across all socioeconomic brackets and cultures.
 - `INS-260327-0017` Victimhood as a relationship strategy is nearly unassailable because any attempt to challenge it becomes evidence of further victimization.

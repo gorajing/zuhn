@@ -53,6 +53,7 @@ related:
   - INS-260327-505A
   - INS-260404-78E0
   - INS-260322-B369
+  - INS-260412-BC68
 ---
 When DeepSeek hit #1 on the App Store in early 2025, it didn't just generate tech headlines — it forced rapid recalibration at Meta, Google, and across the AI startup ecosystem while disrupting hundreds of billions in market value. This represents a phase shift: AI model releases are no longer just product launches but macro market events comparable to central bank decisions or geopolitical shocks.
 

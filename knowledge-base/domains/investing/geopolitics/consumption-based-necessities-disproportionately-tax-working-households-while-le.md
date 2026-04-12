@@ -57,12 +57,12 @@ related:
   - INS-260327-D77C
   - INS-260329-0117
   - INS-260329-A011
-  - INS-260330-EA56
   - INS-260330-F9C9
   - INS-260330-68EF
   - INS-260403-62D0
   - INS-260409-DBAE
   - INS-260409-755C
   - INS-260409-E421
+  - INS-260409-1210
 ---
 Workers interviewed in the documentary correctly observed that sales taxes, gas taxes, and utility surcharges fall disproportionately on them. The mechanism is mathematical: a household that consumes 100% of its income is effectively taxed on 100% of its economic base, while a billionaire consuming 0.5% of net worth each year is taxed on 0.5%. A 'flat' 8% sales tax therefore produces effective rates of 8% for workers and ~0.04% for billionaires. This is base-mismatch in reverse: consumption taxes are a natural instrument for reaching working-household economic activity but a terrible instrument for reaching wealth. States that rely on consumption revenue and progressive income tax will always produce regressive total incidence at the extreme wealth tail, because both instruments miss unrealized capital gains. Any state serious about progressive incidence at the billionaire level must add a wealth-base instrument (wealth tax, mark-to-market, or estate tax with strong enforcement) alongside income taxes, not instead of them. Reforming consumption taxes alone cannot reach this outcome.

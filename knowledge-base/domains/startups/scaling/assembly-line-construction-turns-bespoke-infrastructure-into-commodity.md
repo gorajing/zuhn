@@ -48,8 +48,8 @@ related:
   - INS-260412-8780
   - INS-260412-2EA9
   - INS-260412-EDBF
+  - INS-260412-DFC7
   - INS-260412-828C
-  - INS-260330-30F0
 ---
 China treats high-speed rail construction like a factory assembly line, mass-producing even the most expensive components like viaducts and tunnels. This industrialization of bespoke infrastructure drove per-mile costs to roughly one-fifth of California's equivalent project ($30M vs $148M per mile). While lower labor and land costs contribute, the key differentiator is process standardization at scale.
 

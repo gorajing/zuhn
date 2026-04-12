@@ -1,7 +1,7 @@
 # Tag: behavioral-economics
 
-- `INS-260330-5C6E` The early Islamic empire didn't require conversion but taxed non-Muslims more, creating a persistent economic nudge that drove widespread voluntary conversion over generations.
 - `INS-260330-121C` Sugar-laden foods show addiction-like price inelasticity (0.77-0.81) — when prices rise, consumption barely drops, matching the 'hedonic actor' model where cost becomes irrelevant to the fix.
+- `INS-260330-5C6E` The early Islamic empire didn't require conversion but taxed non-Muslims more, creating a persistent economic nudge that drove widespread voluntary conversion over generations.
 - `INS-260412-E89C` South Korean tourists continued visiting Guam during the 2017 North Korean missile crisis because missile threats were a normalized part of their daily reality, unlike Japanese tourists who cancelled en masse.
 - `INS-260403-3F91` Once customers pay $60-120 upfront, they stop comparing prices elsewhere because not using the membership feels like wasting money.
 - `INS-260329-BEFB` Being broke biases people toward gambling mentality — chasing unlikely big wins instead of reliable small gains that compound.
@@ -16,7 +16,7 @@
 - `INS-260403-597B` Once a belief enters the startup investment market, follow-on dollars, valuation markups, and co-investor activity all amplify the same signal until divergence becomes irrational.
 - `INS-260412-37E5` Airlines invented modern price discrimination by using advance purchase requirements and flexibility as self-sorting mechanisms—tourists willingly chose the cheaper constrained ticket while business travelers revealed their willingness to pay.
 - `INS-260329-B011` People who stay poor consistently choose comfort today and push pain to tomorrow, then are surprised when today becomes yesterday's tomorrow and the deferred pain arrives.
-- `INS-260327-A75B` Each individual failure is less painful than expected, but everything is collectively more painful than expected; this mismatch creates opportunity for entrepreneurs.
 - `INS-260403-9DC2` A strategically inferior pricing tier makes your target plan feel like the obvious choice through asymmetric dominance.
+- `INS-260327-A75B` Each individual failure is less painful than expected, but everything is collectively more painful than expected; this mismatch creates opportunity for entrepreneurs.
 - `INS-260405-6B96` Amazon's 'free' streaming is only free in the sense that it's not line-itemed — its cost is recovered through the shopping behavior change it induces in Prime subscribers.
 - `INS-260403-CBC7` Customer interviews reveal preferences but only call-to-action tests (pre-orders, sign-ups, payments) reliably predict real demand.

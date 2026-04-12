@@ -50,7 +50,6 @@ stance: >-
   incumbent defense easier through modular tech stacks.
 related:
   - INS-260325-4846
-  - INS-260328-9408
   - INS-260330-A25A
   - INS-260325-BC2A
   - PRI-260328-4CC0

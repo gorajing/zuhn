@@ -1,6 +1,6 @@
 # Topic: decision-making
 
-> 171 insights
+> 173 insights
 
 - `INS-260412-4FBF` [high] If something powerful enough would leave unmistakable traces and you find none, that silence is itself a strong signal.
 - `INS-260404-A246` [high] Admitting you're bad at something is the first step to finding effective workarounds like delegation or systematic search.
@@ -40,6 +40,7 @@
 - `INS-260403-CA46` [high] When abundance replaces scarcity, the winning strategy inverts but behavior lags.
 - `INS-260410-B47B` [high] The U-2 spy plane kept the Cold War cold because both sides rationally preferred the Soviets tracking it silently over admitting they couldn't shoot it down — information and its management beat raw force.
 - `INS-260410-AF9A` [high] Imperial Japan's army and navy kept their war plans secret from each other, didn't hold liaison meetings until 1944, and hid the loss of four carriers at Midway for months — individual samurai excellence couldn't overcome structural stovepiping.
+- `INS-260412-5768` [high] Intel evaluated the iPhone deal against current mobile chip margins rather than the trajectory of mobile performance converging with desktop, a systematic error incumbents repeatedly make.
 - `INS-260403-6EDC` [high] Difficulty choosing between passion and money reveals gaps in self-knowledge and work knowledge, not a genuine tie between options.
 - `INS-260403-97B4` [high] When inspiration strikes, act on it immediately because it won't survive being shelved.
 - `INS-260330-ED37` [high] Collateral damage and intentional massacre produce corpses equally dead, but moral frameworks that ignore the intention behind each death lose the ability to distinguish civilization from barbarism.
@@ -129,6 +130,7 @@
 - `INS-260404-1C9D` [medium] Tracking tools in high-stakes personal domains can shift focus from judgment to metrics.
 - `INS-260409-AD0C` [medium] Galef distinguishes three decision categories: (1) concrete everyday choices where scout thinking comes naturally (what to eat), (2) ideological issues where incentives push toward self-deception (politics, religion), (3) important personal decisions with competing scout/soldier incentives (career, marriage, parenting) — each requires a different calibration of vigilance.
 - `INS-260412-A5C4` [medium] Dendritic cells collect pathogen samples from the wound, travel to lymph nodes, and physically present evidence to helper T cells — bridging the gap between detection and targeted response.
+- `INS-260412-FE12` [medium] Gen Z increasingly choosing trades and community colleges over expensive universities reflects rational recalculation as degree ROI declines and student debt compounds.
 - `INS-260330-255F` [medium] Only enter a category when you can make it one to two orders of magnitude better than what exists — if the technology or market isn't ready, wait.
 - `INS-260403-45D5` [medium] PG told Fred to meet the Airbnb founders before debating the idea, because abstract debate anchors on skepticism.
 - `INS-260412-7512` [medium] Framing stakes as irreversible losses (life gone forever) drives urgency better than framing them as missed opportunities.

@@ -17,8 +17,8 @@
 - `INS-260409-B9A1` If you don't believe in your own ending, no one else can be recruited to help you get there.
 - `INS-260327-CD49` Everyone thinks confidence leads to big actions, but it is completely reversed -- you do big things, put yourself out there while scared, and then confidence builds from the evidence of having survived.
 - `INS-260330-A075` Deliberately allowing yourself to be influenced by others' ideas requires the confidence that you can return to yourself afterward.
-- `INS-260330-156C` After 9 years of evaluating YC founders, Graham found that swaggering confidence and quiet self-doubt predict outcomes equally poorly — the only way to know is to try.
 - `INS-260404-ED0F` With limited time and technical understanding, investors use your confidence as a proxy for product quality — but it must be shown, never stated.
 - `INS-260402-66A5` VCs select for founders who are best at performing certainty, not founders with the best businesses.
 - `INS-260405-2AFB` Never say 'we're passionate' — investors tune out assertions and read posture, pacing, and directness instead.
+- `INS-260330-156C` After 9 years of evaluating YC founders, Graham found that swaggering confidence and quiet self-doubt predict outcomes equally poorly — the only way to know is to try.
 - `INS-260405-0B17` When investors lack the context to evaluate your product directly, your own belief in it becomes the dominant signal.

@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-12 | 4918 actionable insights
+Generated on 2026-04-12 | 4932 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -698,6 +698,7 @@ Generated on 2026-04-12 | 4918 actionable insights
 
 ## automation/labor-displacement
 - [INS-260405-C709] AI-jobs debates feel unresolvable because optimists and pessimists are each describing a different causal layer of the same system.
+- [INS-260412-1F14] AI displacement follows a clear sequence — translation professionals fell first, then artists, with white-collar knowledge workers next in line.
 
 ## automation/n8n-workflows
 - [INS-260320-D3D5] Process items sequentially in n8n batch loops to respect API rate limits -- pull from a queue (e.g., Google Sheets rows), process one at a time, and skip already-completed items.
@@ -1046,6 +1047,9 @@ Generated on 2026-04-12 | 4918 actionable insights
 - [INS-260325-1407] A high-cost portfolio generates 20% less value over 25-30 years than a low-cost one, and the Vanguard effect has saved investors roughly $2 trillion in fees since the 1970s.
 - [INS-260403-F6D2] An entire industry can succeed wildly while flagship companies within it fail, leaving concentrated investors holding the bag.
 - [INS-260403-EFFB] The source of yield — real borrower payments vs. token emissions — is the single most important distinction in evaluating any DeFi product.
+- [INS-260412-E3B4] Theranos operated without a CFO for 10 years, enabling Sunny to present investor projections 10x higher than internal forecasts with no one to challenge them.
+- [INS-260412-BA99] Each prestigious partner a fraudulent company signs makes the next partner less likely to investigate, creating a cascade of unearned credibility.
+- [INS-260412-8EC1] Nikola chose a reverse merger specifically because it avoided the detailed disclosures a traditional IPO would have required, hiding fatal flaws from investors.
 
 ## investing/business-analysis
 - [INS-260410-91A6] Every generational operator — Buffett, Carnegie, Rockefeller, Izzy Sharp, Ogilvy — grew fastest during downturns by deploying capital into advertising, acquisitions, and hiring while panicked competitors cut back.
@@ -1057,12 +1061,16 @@ Generated on 2026-04-12 | 4918 actionable insights
 - [INS-260412-55F4] Dubai grew faster than Abu Dhabi despite being farther from the oil because it captured the administrative and economic coordination layer.
 - [INS-260412-A9C3] The Concorde burned only 2.5x more total fuel per mile than the Dreamliner, but per-passenger fuel economy was 14 vs 104 mpg — a 7.4x gap.
 - [INS-260412-4FD3] NYC-LA flights are cheap because five airlines compete, while Denver-Gunnison costs $500+ for 130 miles because United is the sole operator.
+- [INS-260412-9B06] Nikola surpassed Ford's $28B market cap within one week of going public despite having zero revenue, zero deliveries, and no functioning technology.
 
 ## investing/business-quality
 - [INS-260411-CBCF] Interbrand's top 25 global brand rankings show weak correlation with ROIC-WACC spreads, proving that brand recognition alone does not constitute a competitive advantage.
 - [INS-260411-102F] Classifying companies by the combination of positive/negative cash flows from operating, investing, and financing activities maps them to five life cycle stages with distinct ROIC profiles.
 - [INS-260411-97BF] Measuring the average absolute value of market share changes across all competitors over 3-5 years provides a quantitative signal of moat durability, with 2% as the stability threshold.
 - [INS-260411-CCB2] Value creation requires ROIC above WACC; a positive ROIC that falls below the cost of capital actually destroys shareholder value.
+
+## investing/crypto
+- [INS-260412-09EE] Self-referential collateral (own-token backing) guarantees insolvency the moment confidence breaks.
 
 ## investing/fintech
 - [INS-260323-825F] The greatest financial innovations came from outsiders — a physicist who counted cards, a mathematician who broke Russian codes, and Einstein's Brownian motion theory — because pattern recognition transfers across domains.
@@ -1169,6 +1177,8 @@ Generated on 2026-04-12 | 4918 actionable insights
 
 ## investing/macro
 - [INS-260405-25DD] December 31 Fed facility spikes are a predictable accounting artifact of banks shrinking balance sheets for year-end regulatory snapshots.
+- [INS-260412-4859] Inflation is currently sequestered in asset prices; when asset holders liquidate into the real economy, money velocity will spike and consumer inflation will follow.
+- [INS-260412-BC68] Stock market cap exceeding GDP indicates the market reflects monetary policy rather than economic fundamentals.
 
 ## investing/space-economy
 - [INS-260325-A8E6] Searching for other Earths reveals how unique and irreplaceable our planet is, confirming there is no practical Planet B.
@@ -2152,6 +2162,7 @@ Generated on 2026-04-12 | 4918 actionable insights
 - [INS-260410-8122] 'Melts in your mouth, not in your hand' sold parents on M&M's by addressing the hidden fear of chocolate-smeared furniture, not the kids' desire for candy.
 - [INS-260412-6DC9] Heathrow's highest-in-world retail revenue per passenger comes from environmental design choices, not aggressive selling.
 - [INS-260412-37E5] Airlines invented modern price discrimination by using advance purchase requirements and flexibility as self-sorting mechanisms—tourists willingly chose the cheaper constrained ticket while business travelers revealed their willingness to pay.
+- [INS-260412-C040] Milton's emotional stage presence and personal backstory consistently overrode the complete absence of technical evidence, fooling Bosch, GM, and thousands of investors.
 
 ## psychology/physics-intuition
 - [INS-260330-AE9C] Abstract proofs and concrete examples serve complementary roles: proofs guarantee generality, examples build understanding.
@@ -2541,6 +2552,7 @@ Generated on 2026-04-12 | 4918 actionable insights
 - [INS-260405-AC40] Costco pays double the retail average wage and reports three times the productivity, suggesting high wages are a competitive lever rather than a constraint.
 - [INS-260410-C56B] Conflict-averse CEOs systematically transfer shareholder value to anyone willing to make a fuss, because the path of least resistance is always to pay them off.
 - [INS-260410-0042] Equity to part-time frontline workers isn't retention math — it's the moment a company becomes a different organism.
+- [INS-260412-9C7F] Theranos's extreme secrecy, surveillance, and retaliation against dissenters functioned as a fraud-preservation system rather than legitimate IP protection.
 
 ## startups/competition
 - [INS-260410-95BC] Sam Walton walked into competitor stores with a yellow legal pad for 50 years — and claimed to have spent more time in Kmarts than any Kmart employee outside of senior management.
@@ -3126,6 +3138,7 @@ Generated on 2026-04-12 | 4918 actionable insights
 - [INS-260405-E155] In hybrid hardware+SaaS models, blended margin is the single metric most likely to hide a fatal business problem.
 - [INS-260405-13C5] Spending on acquisition before proving unit economics is the most common cash-kill mechanism in SaaS.
 - [INS-260405-B361] Runway tools derive value from proactive scenario modeling before each hire or campaign, not retrospective tracking.
+- [INS-260412-35AC] Gen Z workers who change jobs frequently earn almost 30% more than those who stay, turning employer disloyalty into an advantage.
 
 ## startups/founder-mindset
 - [INS-260320-F751] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
@@ -3370,6 +3383,7 @@ Generated on 2026-04-12 | 4918 actionable insights
 - [INS-260409-FCE1] Founders owe their employees and investors honest effort, not a successful outcome; the expected outcome was never winning.
 - [INS-260409-3CCA] Writing the story doesn't feel like work, so founders skip the most important part of the job.
 - [INS-260410-EA10] Unlike fighting dragons, companies only die when founders quit — so cultivate survival obsession over strategic certainty.
+- [INS-260412-71C6] Trevor Milton's pattern of defrauding buyers and partners repeated identically across four companies over 15 years, escalating in scale each time.
 
 ## startups/fundraising
 - [INS-260322-A02C] At pre-seed and seed stage, investors and early customers are betting on the founder's story and character, not the product.
@@ -3709,6 +3723,7 @@ Generated on 2026-04-12 | 4918 actionable insights
 - [INS-260404-2A95] YC's SAFE contains provisions that many founders don't fully understand, creating hidden advantages for investors.
 - [INS-260403-BAE1] YC's evolution toward consensus-friendly prompts risks creating a 'Consensus Capital Machine' where founders chase trends instead of pursuing conviction-driven missions.
 - [INS-260409-3B53] Pitch the argument that convinces YOU to join — 'what does Ben want to hear' is unknowable and gets you talked out of your idea.
+- [INS-260412-829C] Walgreens invested $105M partly because they feared Safeway would land the partnership first.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.
@@ -4502,6 +4517,7 @@ Generated on 2026-04-12 | 4918 actionable insights
 - [INS-260403-9BEB] Defining success as '10% increase in X within 3 months' creates a decision filter that vague directional goals cannot provide.
 - [INS-260403-CEB7] The best products come from teams of 4-6, not 40-60 — the original Mac was 20 people, the iPhone was 24.
 - [INS-260403-D4E1] Stay in low-fidelity block frames as long as possible — the first detailed design becomes an anchor that limits all subsequent exploration.
+- [INS-260412-1F30] Apple's iPhone emerged through iterative demos where 'first prototypes are never any good' but contain kernels that get selected and refined — a process engineer Bas Ording called 'creative selection.'
 
 ## startups/product-market-fit
 - [INS-260405-95D1] Removing friction meets the baseline; gains require going beyond what customers already expect.

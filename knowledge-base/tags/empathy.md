@@ -1,11 +1,11 @@
 # Tag: empathy
 
 - `INS-260404-0519` The brain processes empathy through two distinct systems: prefrontal 'cold' reasoning circuits and amygdala-based 'hot' emotional mirroring, which can operate independently.
-- `INS-260412-66F5` Recognizing that other selves have their own perspectives enables the most complex forms of consciousness including empathy and strategic social behavior.
-- `INS-260412-73A8` Treating all others as literal extensions of yourself collapses the cognitive distance that enables cruelty.
+- `INS-260402-46AD` The gap between good and great hackers is not intelligence but empathy — understanding how users actually think and behave.
 - `INS-260404-2F16` Psychopaths' ability to act on utilitarian logic without emotional interference makes them more effective decision-makers in specific high-stakes personal scenarios.
 - `INS-260404-C258` The switch from impersonal to personal moral dilemmas shifts brain activation from prefrontal reasoning circuits to the amygdala's emotion centers.
-- `INS-260402-46AD` The gap between good and great hackers is not intelligence but empathy — understanding how users actually think and behave.
+- `INS-260412-66F5` Recognizing that other selves have their own perspectives enables the most complex forms of consciousness including empathy and strategic social behavior.
+- `INS-260412-73A8` Treating all others as literal extensions of yourself collapses the cognitive distance that enables cruelty.
 - `INS-260404-2E30` MRI studies show Apple users' brains respond to brand news with the same empathy patterns as family relationships.
 - `INS-260323-2874` Emotional contagion empathy makes one identified victim more compelling than 500,000 statistical victims — reason must override this bias for good ethical decisions.
 - `INS-260330-9575` Americans' failure to put themselves in Russia's or China's shoes leads to policies that provoke the exact conflicts they aim to prevent.
@@ -17,10 +17,10 @@
 - `INS-260325-4EE9` A prisoner exchange of 1,000 Palestinians for 1 Israeli revealed to Wright that the unequal valuation of human life is at the root of the conflict's durability.
 - `INS-260330-523E` Expert social engineers often learned to read people as abused children needing to predict and manipulate caregivers for survival.
 - `INS-260323-F853` Founders like Musk have deep empathy for humanity's mission but can be callous to individuals in the room, while others like Ben Franklin excel at personal empathy -- both are valid superpowers for different contexts.
-- `INS-260323-F540` JFK's greatest quality was not courage but curiosity — the ability to see the world from adversaries' perspectives enabled breakthroughs like the Cuban Missile Crisis resolution.
-- `INS-260329-CD64` Building for people who share your lived experience creates the emotional fuel to persist and the empathy to build exceptional products.
 - `INS-260322-185B` You cannot discover real customer pain points remotely — physical immersion in your users' environment reveals needs that surveys and interviews miss.
 - `INS-260322-A9DE` Real pain points only surface through direct immersion with users in their actual environment — traveling to parks, teaching in schools, and riding overnight buses reveals what desk research never will.
+- `INS-260323-F540` JFK's greatest quality was not courage but curiosity — the ability to see the world from adversaries' perspectives enabled breakthroughs like the Cuban Missile Crisis resolution.
+- `INS-260329-CD64` Building for people who share your lived experience creates the emotional fuel to persist and the empathy to build exceptional products.
 - `INS-260323-8271` Empathy is not sympathy or agreement — it is articulating where someone is coming from, which requires zero concession and works even with hostile counterparts.
 - `INS-260330-16CD` A dropdown asking users their emotional state was filled out 75.8% of the time and measurably reduced exclamation marks, curse words, and all-caps in support tickets.
 - `INS-260329-F2BB` Describe the customer's problem more accurately than they can, and they'll believe you can solve it without needing proof.

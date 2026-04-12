@@ -2,9 +2,9 @@
 
 - `INS-260329-8DDF` Superintelligent AI access will be the defining resource of the future, more valuable than energy, capital, or territory.
 - `INS-260410-8AA8` Technical alignment success without resolving 'aligned to whom' just produces an army of obedient employees for whoever controls the model.
-- `INS-260405-F1A1` The US data center pipeline hit 241 GW but only a third is under active development, with utilities unable to supply power fast enough despite $650B in planned 2026 CapEx.
 - `INS-260405-1054` xAI's third data center reaches nearly 2 gigawatts of compute power by co-locating with an acquired power plant, signaling that energy access—not just hardware—is the binding constraint for frontier AI labs.
 - `INS-260410-6A86` Even if combined-cycle turbine lead times stretch past 2030, 16+ alternative power vendors plus behind-the-meter solutions make power the easiest problem to solve relative to chips.
+- `INS-260405-F1A1` The US data center pipeline hit 241 GW but only a third is under active development, with utilities unable to supply power fast enough despite $650B in planned 2026 CapEx.
 - `INS-260410-A544` Once Mao put all peasants on communes, the party controlled food distribution — which meant Beijing was literally choosing who ate and who died, and 40 million starved.
 
 

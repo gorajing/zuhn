@@ -53,10 +53,10 @@ stance: >-
   misreading liquidity operations as money printing.
 related:
   - INS-260409-D465
+  - INS-260412-09EE
   - INS-260403-B98A
   - PRI-260406-FD1C
   - PRI-260406-6E0F
-  - INS-260403-BED6
   - INS-260403-4093
 ---
 Central bank rate corridor mechanics are frequently misunderstood, leading to viral misreadings of normal Fed operations as crisis signals. The SRF acts as a ceiling: if money market rates spike above the SRF rate, any bank can borrow from the Fed at that rate, making it irrational for rates to go higher. The RRP acts as a floor: if money market rates fall below the RRP rate, any money fund would rather park funds at the Fed than lend to a riskier private counterparty for less.

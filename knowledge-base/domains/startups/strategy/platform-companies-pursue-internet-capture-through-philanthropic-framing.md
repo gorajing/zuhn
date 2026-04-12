@@ -52,9 +52,9 @@ stance: >-
 related:
   - INS-260403-2496
   - INS-260330-13EE
+  - INS-260412-9E32
   - INS-260330-460D
   - INS-260327-768D
-  - INS-260404-6D4D
   - INS-260403-76E9
 evidence:
   - id: INS-260330-460D

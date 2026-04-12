@@ -55,9 +55,8 @@ related:
   - INS-260327-0758
   - INS-260330-9933
   - INS-260330-6D49
-  - INS-260410-7D8E
+  - INS-260412-AFF7
   - INS-260412-5291
   - INS-260330-27E8
-  - INS-260403-7C71
 ---
 Lee Byung-chul's pivot from fish and noodle trading to industrial manufacturing was timed to exploit a specific window: the Korean War had destroyed much of the peninsula's meager industrial infrastructure, Japanese colonial assets were selling at distressed prices, and President Rhee was actively funneling international aid to allied industrialists to reduce import dependence. By launching a sugar refinery and wool mill in 1953-54 under these conditions — cheap assets, destroyed competition, government subsidies, and desperate consumer demand for basics — Samsung became the nation's 4th largest borrower within years and Lee's net worth represented 19% of all South Korean wealth within a decade. This pattern recurs across economic history: the greatest fortunes are often seeded not by innovation but by acquiring productive capacity when others cannot or will not, then riding the recovery. The insight for founders and investors is that crisis creates asymmetric opportunity precisely when conventional wisdom says to retreat.

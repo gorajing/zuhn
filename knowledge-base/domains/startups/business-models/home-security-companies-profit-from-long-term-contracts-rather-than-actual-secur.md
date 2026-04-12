@@ -41,10 +41,10 @@ stance: >-
   and multi-year commitments.
 related:
   - INS-260402-31D8
+  - INS-260412-0FFC
   - INS-260405-B22F
   - INS-260405-70D4
   - INS-260330-D801
-  - INS-260403-7E7C
 evidence:
   - id: INS-260321-1A03
     type: TRANSFERS_TO

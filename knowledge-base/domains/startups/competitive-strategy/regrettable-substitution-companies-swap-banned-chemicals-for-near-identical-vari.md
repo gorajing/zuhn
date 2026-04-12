@@ -51,12 +51,11 @@ stance: >-
   making minor molecular modifications to toxic products, forcing regulators to
   restart decades-long evidence-gathering from scratch each time.
 related:
-  - INS-260325-3488
   - INS-260330-8D4F
+  - INS-260412-8496
   - INS-260403-6632
   - INS-260322-3A00
   - INS-260410-58F2
-  - INS-260405-D6E6
 evidence:
   - id: INS-260325-3488
     type: SUPPORTS

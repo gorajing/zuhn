@@ -48,6 +48,7 @@ related:
   - INS-260409-5FBA
   - INS-260410-9120
   - INS-260404-6751
+  - INS-260412-8D4F
 stance: >-
   BuzzFeed ($1.7B valuation to penny stock) and VICE (bankruptcy) prove that
   millions of views and hit shows are worth almost nothing without subscri...

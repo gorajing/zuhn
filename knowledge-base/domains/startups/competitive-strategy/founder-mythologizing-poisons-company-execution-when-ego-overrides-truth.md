@@ -51,6 +51,7 @@ stance: >-
   destabilize the organization and prioritize personal brand over company
   outcomes.
 related:
+  - INS-260412-C040
   - INS-260405-03BB
   - PRI-260328-604D
   - INS-260403-7563

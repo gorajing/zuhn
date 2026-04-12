@@ -2,6 +2,9 @@
 
 - `INS-260404-C5B7` The Fed's January 2026 minutes explicitly cite AI as driving investment strength while simultaneously creating hiring uncertainty and financial concentration risk.
 - `INS-260403-988C` Banks that chased yield in long-duration bonds during zero-rate years faced catastrophic unrealized losses when the Fed hiked aggressively, triggering depositor runs.
+- `INS-260412-AB8A` Post-2008 money printing inflates assets faster than wages, making housing and investments progressively unreachable for wage earners.
+- `INS-260412-D82A` GameStop's price dislocation was framed as an anomaly, but it was actually a concentrated expression of the same price-value disconnect that financialization has been producing across all markets since the Commodity Futures Modernization Act of 2000.
+- `INS-260412-A718` Banks now operate with zero reserve requirements, removing the last quantitative constraint on money creation.
 - `INS-260405-AB6B` The SRF caps rates by providing unlimited cash against collateral; the RRP floors rates by offering a guaranteed return that crowds out sub-Fed-rate private lending.
 - `INS-260405-25DD` December 31 Fed facility spikes are a predictable accounting artifact of banks shrinking balance sheets for year-end regulatory snapshots.
 - `INS-260409-053F` Arthur Burns admitted in a 1979 speech that the Fed had the power to end 1970s inflation but didn't because the political cost (mass unemployment during Cold War mobilization) was unacceptable — the same constraint now applies under US-China rivalry.

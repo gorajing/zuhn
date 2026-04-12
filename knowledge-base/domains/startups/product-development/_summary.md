@@ -1,10 +1,11 @@
 # Topic: product-development
 
-> 139 insights
+> 141 insights
 
 - `INS-260327-EB3E` [high] Apple's 48-hour design review rhythm forced constant refinement that produced best-in-class products.
 - `INS-260329-1028` [high] freeCodeCamp's 48M-view tutorial demonstrates that one comprehensive free resource can become a permanent acquisition engine dwarfing paid channels.
 - `INS-260403-B448` [high] An effective MVP delivers one complete, polished workflow rather than a broad but half-baked product, because user conviction requires depth over breadth.
+- `INS-260412-032F` [high] Apple acquired FingerWorks not just for multi-touch patents but primarily to get Wayne Westerman's team, who became core to the iPhone's touch technology.
 - `INS-260330-16CD` [high] A dropdown asking users their emotional state was filled out 75.8% of the time and measurably reduced exclamation marks, curse words, and all-caps in support tickets.
 - `INS-260327-956D` [high] Using AI to convert HTML to JSON or restructure messy data sounds mundane but is the lubricant that makes all data science workflows frictionless.
 - `INS-260323-C90C` [high] True AI-native companies embed AI directly into the product so it works with the customer without human involvement, scaling with compute instead of headcount.
@@ -28,6 +29,7 @@
 - `INS-260330-83D5` [high] Support staff who can interrupt developers with live bugs become the most effective QA and product intelligence system.
 - `INS-260329-B1A1` [high] Audiences eagerly consume hours of complex content when production quality and intellectual respect are high
 - `INS-260327-C99D` [high] Deep AI does the whole 10-step task from one prompt; shallow AI assists each step in a human-guided workflow — both are valuable but for different reasons.
+- `INS-260412-1F30` [high] Apple's iPhone emerged through iterative demos where 'first prototypes are never any good' but contain kernels that get selected and refined — a process engineer Bas Ording called 'creative selection.'
 - `INS-260403-912E` [high] Programmers acquired by a big company said they'd trade up to half the acquisition price just to regain the ability to release code immediately.
 - `INS-260323-EBC3` [high] Moddoc stalled at low revenue serving 'all Koreans' until they narrowed to ophthalmology patients -- then revenue tripled annually.
 - `INS-260403-2A44` [high] Good design requires diagnosing user needs rather than implementing stated requests.

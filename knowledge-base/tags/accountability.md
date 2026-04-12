@@ -15,6 +15,7 @@
 - `INS-260329-4499` Your self-respect degrades each time you break a promise to yourself, because you're the only one who knows your true capacity.
 - `INS-260327-176D` Board seats pay hundreds of thousands for showing up to quarterly meetings, creating a professional director class incentivized to avoid rocking any boat.
 - `INS-260326-73F4` Taleb's ethics framework centers on one rule: never let someone harvest upside while transferring downside to others, because this creates systemic fragility that no regulation can compensate for.
+- `INS-260402-8C0E` Founders are driven more by not wanting to look bad in front of peers than by the theoretical possibility of getting rich.
 - `INS-260328-E410` Accountability works because it forces the measured actions that generate confidence — not because it motivates harder work.
 - `INS-260405-B59F` Translating unit objectives into explicit joint commitments creates the cross-unit accountability that crises demand.
 - `INS-260325-0FED` Since the Panic Monster only responds to real consequences, effective execution in unstructured work requires manufacturing genuine external deadlines.
@@ -22,9 +23,8 @@
 - `INS-260403-10D8` Startups that maintain regular contact with external stakeholders are dramatically less likely to die than those that go silent.
 - `INS-260402-841D` Releasing early transforms problems from interesting puzzles into urgent fires, which is precisely why founders resist it and why it works.
 - `INS-260403-906E` Startups-as-acquisition-targets create better technology faster because developers are directly accountable for building the winner.
-- `INS-260402-8C0E` Founders are driven more by not wanting to look bad in front of peers than by the theoretical possibility of getting rich.
-- `INS-260325-3CE2` Structured peer groups of 6-8 founders at similar stages outperform any advisor — EO's 18,000-member model proves this at scale.
 - `INS-260403-0372` Organizations should invest in innovation software when they cannot demonstrate ROI on innovation efforts, not simply when idea volume grows.
+- `INS-260325-3CE2` Structured peer groups of 6-8 founders at similar stages outperform any advisor — EO's 18,000-member model proves this at scale.
 - `INS-260323-46F8` 50% of businesses fail in 2 years because leaders cannot hold teams accountable — the failure is internal culture, not external markets.
 - `INS-260323-5737` Gabbard's daily task of reading every combat injury list name by name never became routine -- this forced daily confrontation with the human cost of policy decisions prevented the normalization that enables bureaucratic indifference.
 - `INS-260330-AA25` Never apologizing works in environments without accountability but creates compounding credibility debt that collapses catastrophically when external pressure arrives.
