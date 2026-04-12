@@ -1,8 +1,8 @@
 # Tag: iteration
 
+- `INS-260323-649B` Unlike normal engineering where you fail, learn, and try again, the first failure to align something much smarter than you could be a civilizational-ending event with no second attempt.
 - `INS-260323-F204` AI systems launch knowing only half of what they need — the rest must be learned through real-world usage and continuous human feedback.
 - `INS-260323-C316` AI should be deployed in narrow, iterative layers rather than as a massive transformation project — the same lesson enterprises failed to learn from Salesforce rollouts.
-- `INS-260323-649B` Unlike normal engineering where you fail, learn, and try again, the first failure to align something much smarter than you could be a civilizational-ending event with no second attempt.
 - `INS-260320-4993` Re-prompt often using double-esc to recall previous prompts — you get better results armed with knowledge of what you DON'T want.
 - `INS-260403-31E4` Follow-up prompts that reshape output ('too long, trim to 100 words, make it conversational') are more effective than trying to craft one perfect initial prompt.
 - `INS-260329-CF48` Python's for-loop-over-file-handle pattern unifies local files, network resources, and databases into a single iteration abstraction that other languages require separate paradigms to handle.
@@ -41,12 +41,12 @@
 - `INS-260323-DDC2` You can only iterate fearlessly on expensive robots if you can repair them yourself — the ability to 'just go make it' is the enabling condition for rapid learning.
 - `INS-260405-0FC4` RuBisCo wasn't particularly good at its job—so the first organisms just made enormous quantities of it and dominated the planet anyway.
 - `INS-260329-5818` In early stages, doing more reps at lower quality beats doing fewer reps at higher quality.
+- `INS-260328-A46F` Standard Capital explicitly encourages repeat applications because two data points showing progress over time are far more compelling than a single snapshot.
 - `INS-260402-2CAF` Shifting which problem you solve produces order-of-magnitude improvements that execution refinement cannot match.
-- `INS-260402-3866` Prepare materials to 70% completeness, then test with 4-6 people who've fundraised or invested before iterating to final form.
 - `INS-260403-8D2C` New business model creation follows a search loop of hypothesis-test-pivot, not a linear execution plan.
 - `INS-260410-6286` Kelly Johnson insisted Skunk Works engineers sit only steps from the shop floor because 'a stone's throw was too far away' — the shortest design-to-build feedback loop wins.
 - `INS-260404-8256` Plants produce 40 billion tons of inefficient RuBisCo rather than evolving one perfect enzyme—volume compensates for individual mediocrity.
-- `INS-260328-A46F` Standard Capital explicitly encourages repeat applications because two data points showing progress over time are far more compelling than a single snapshot.
+- `INS-260402-3866` Prepare materials to 70% completeness, then test with 4-6 people who've fundraised or invested before iterating to final form.
 - `INS-260404-74F4` Schedule quarterly culture map reviews to assess whether enablers produced desired behaviors and blockers were actually removed.
 - `INS-260403-637C` RuBisCo was terrible at its job but vastly better than hoping to stumble on organic carbon — so the organism made tons of it and conquered the planet.
 - `INS-260405-5E18` AI PMF is a continuous recalibration process, not a one-time validation milestone.

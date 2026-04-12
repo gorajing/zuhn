@@ -58,6 +58,7 @@ related:
   - PRI-260406-4FAE
   - INS-260330-8E3C
   - INS-260412-EE2D
+  - INS-260412-E21D
 ---
 YC's advice on firing distills to a specific asymmetry: there is only downside to procrastination when dealing with a bad employee. If a toxic employee stays too long, good employees may quit. If the employee is underperforming, you continue losing business or users every day you delay. The upside of waiting is zero.
 

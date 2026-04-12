@@ -55,6 +55,6 @@ related:
   - INS-260412-7BD8
   - INS-260330-990F
   - INS-260329-78AE
-  - INS-260412-71C6
+  - INS-260412-B47E
 ---
 Nikola Motors demonstrated a devastating pattern: Trevor Milton used fabricated technology claims to attract Bosch, then used Bosch's brand to attract BP, then used both to attract General Motors in a $2 billion deal. Each partner assumed the previous ones had done due diligence, but none actually had. This 'credibility laundering' through partnership stacking is a reliable fraud pattern — when a company's primary asset is its partner logos rather than demonstrable technology, the partnership chain itself becomes the product. Investors should treat an impressive partner list as a yellow flag requiring independent technical verification, not as a substitute for it.

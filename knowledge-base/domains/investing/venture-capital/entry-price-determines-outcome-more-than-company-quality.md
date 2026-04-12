@@ -55,6 +55,8 @@ related:
   - INS-260328-195E
   - PRI-260328-0993
   - INS-260403-53A4
+  - INS-260412-F791
+  - INS-260412-E21D
 ---
 The Brex acquisition perfectly illustrates how the same outcome produces radically different results depending on cap table position. Early investors who entered at low valuations saw massive multiples on a $5.15B exit. Late-stage investors who entered at the $12.3B peak lost capital. Employees who received options priced at peak valuation saw them become worthless.
 

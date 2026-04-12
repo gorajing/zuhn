@@ -47,7 +47,6 @@ stance: >-
   the most important change startups embody.
 related:
   - INS-260327-9638
-  - INS-260330-4C23
   - INS-260330-B906
   - INS-260403-B280
   - INS-260329-C45C

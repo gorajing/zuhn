@@ -11,6 +11,7 @@
 - `INS-260403-2A8A` Second-time founders develop calibrated emotional distance that turns churn, failed features, and funding pressure into data points rather than identity crises.
 - `INS-260329-C689` Expecting failure as a cyclical phase prevents the emotional spiral that amplifies setbacks beyond their actual damage.
 - `INS-260327-71A3` Two people with identical anxiety levels can live completely different lives depending on whether they engage with it or flee from it.
+- `INS-260412-987F` Lovell's crew didn't avoid panic through heroism—they recognized panic as wasted time that returns you to the same starting point.
 - `INS-260329-A9B7` When you feel hopeless, interpret it as 'I don't know enough yet' rather than 'my situation is impossible' — ignorance is solvable, fate is not.
 - `INS-260329-C089` Interpreting hopelessness as 'I don't know enough yet' rather than 'I can't' converts despair into a solvable problem.
 - `INS-260329-5412` Sadness and anxiety are distinct emotional states with opposite causes and opposite solutions — knowledge for sadness, decision for anxiety.

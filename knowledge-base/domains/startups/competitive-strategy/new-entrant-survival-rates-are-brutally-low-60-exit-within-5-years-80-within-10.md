@@ -59,10 +59,10 @@ related:
   - INS-260404-51A2
   - INS-260405-BD2E
   - INS-260405-5569
-  - INS-260403-53A0
   - INS-260405-0375
   - INS-260409-5FF6
   - INS-260403-5056
+  - PRI-260328-0993
 ---
 The entry and exit research reveals several stylized facts: (1) 30-45 firms per 100 in an industry will enter over 5 years, and a similar number will exit, creating 30-45% turnover; (2) new entrants are about 30% the size of existing firms; (3) entry rates are higher in profitable industries, exit rates higher in mature/declining ones; (4) entry and exit rates are highly correlated across sectors (r=0.93). About 80% of U.S. establishments survive one year but only 50% survive five years.
 

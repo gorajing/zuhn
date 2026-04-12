@@ -56,6 +56,7 @@ related:
   - PRI-260406-ADF0
   - INS-260403-8EE8
   - INS-260403-5056
+  - INS-260412-084F
 ---
 The IPO window reopening with significant markdowns from last private valuations reveals a fundamental disconnect that built up during 2020-2021. Public markets are now enforcing pricing discipline that private markets avoided for years. This isn't just affecting late-stage companies — it cascades backward through the entire funding stack as later-stage investors reprice their expectations, which compresses Series A and B valuations.
 

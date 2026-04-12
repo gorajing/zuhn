@@ -45,10 +45,10 @@ stance: >-
   harm, because moral certainty eliminates the self-doubt that prevents excess.
 related:
   - INS-260405-8732
+  - INS-260412-E154
   - INS-260403-63E2
   - INS-260327-015B
   - INS-260410-9B0E
-  - INS-260330-D7CC
 evidence:
   - id: INS-260322-627E
     type: CHALLENGES

@@ -41,7 +41,6 @@ resolutions:
     civilian market — spending surpasses even what the US military spends on its
     troops.
 related:
-  - INS-260324-2244
   - PRI-260323-7805
   - PRI-260324-5F05
   - INS-260330-C7E6

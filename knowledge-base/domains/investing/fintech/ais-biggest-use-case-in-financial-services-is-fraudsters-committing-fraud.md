@@ -44,12 +44,13 @@ resolutions:
 related:
   - INS-260322-2E33
   - INS-260323-99E0
+  - INS-260412-F8D1
   - INS-260412-71C6
   - INS-260403-DE45
   - PRI-260407-93D7
-  - INS-260330-4370
-  - INS-260323-95FE
+  - INS-260412-7C35
   - INS-260330-FC9F
+  - INS-260330-4370
 stance: >-
   Financial fraud is growing 18-20% per year because AI-powered fraud
   (deepfakes, pig butchering, automated scams) is outpacing defensive AI tools.

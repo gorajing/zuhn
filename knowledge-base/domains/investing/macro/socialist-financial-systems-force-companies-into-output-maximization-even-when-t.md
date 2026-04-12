@@ -70,7 +70,7 @@ related:
   - INS-260404-1C01
   - PRI-260406-9573
   - PRI-260406-0A40
-  - INS-260412-56D5
+  - INS-260412-3EFA
 ---
 Shih frames the fundamental difference between Chinese and American capital allocation as a distinction between output-maximization and profit-maximization. Chinese companies like BYD or CATL may themselves want to make money, but their capital base comes from a state banking system whose lending criterion is 'can you produce the strategic good the Party wants?' — not 'can you earn a return?' A robotics startup can borrow against the promise of shipping units, with explicit acknowledgment that profit is optional.
 

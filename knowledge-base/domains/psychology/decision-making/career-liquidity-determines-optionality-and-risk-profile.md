@@ -49,10 +49,10 @@ stance: >-
   potential reward but dramatically reduced optionality
 related:
   - INS-260402-2FDF
+  - INS-260412-D4E4
   - PRI-260406-6574
   - INS-260329-EE04
   - INS-260404-B640
-  - PRI-260406-E5FB
   - INS-260403-9149
   - INS-260412-B69B
 ---

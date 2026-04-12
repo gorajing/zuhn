@@ -55,10 +55,10 @@ stance: >-
   future possibilities.
 related:
   - INS-260409-B8C1
+  - INS-260412-A130
   - INS-260409-2E2B
   - INS-260412-491A
   - INS-260330-6DE0
-  - INS-260330-DFA4
 ---
 During cosmic inflation, random quantum fluctuations — the smallest possible variations in energy density — were stretched to galactic scales in fractions of a second. These became the seeds of all large-scale cosmic structure. Dense regions collapsed under gravity into galaxy clusters; sparse regions became voids. The structure is now permanent.
 

@@ -53,7 +53,6 @@ related:
   - PRI-260328-6CDE
   - PRI-260405-8E48
   - PRI-260328-6136
-  - INS-260403-9897
   - INS-260403-14C3
 ---
 The traditional political-economic framework where leaders prioritize job creation is being displaced by affordability politics. Gallup data shows that while 'the economy' tops concern lists generically, inflation and cost of living specifically dominate over unemployment by a wide margin. This shift fundamentally changes what economic success means politically.

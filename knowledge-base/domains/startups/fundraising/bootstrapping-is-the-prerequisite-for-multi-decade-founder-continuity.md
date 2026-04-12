@@ -63,9 +63,9 @@ stance: >-
 related:
   - INS-260330-8156
   - INS-260410-DA77
+  - INS-260412-1DAA
   - INS-260410-17D4
   - INS-260330-B6FA
-  - INS-260403-3A72
   - INS-260412-8EAE
 ---
 Judy Faulkner's aversion to outside capital wasn't ideological—it was observational. In the 1970s and 80s, the venture playbook explicitly involved bringing in experienced executives to replace technical founders once a company reached scale. Her Microsoft comparison is instructive: both started within four years of each other, both had generational-programmer founders, both refused primary venture capital. Both founders got to run their companies for multiple decades and imprint them completely.

@@ -1,6 +1,6 @@
 # Topic: decision-making
 
-> 173 insights
+> 177 insights
 
 - `INS-260412-4FBF` [high] If something powerful enough would leave unmistakable traces and you find none, that silence is itself a strong signal.
 - `INS-260404-A246` [high] Admitting you're bad at something is the first step to finding effective workarounds like delegation or systematic search.
@@ -29,6 +29,7 @@
 - `INS-260410-0735` [high] Mao was a military genius who reunified a shattered China after 40 years of civil war, and the same person then caused the largest peacetime famine in Chinese history — because the skills that win wars are not the skills that run economies.
 - `INS-260404-C497` [high] Temperature-dependent sensors measuring the speed of light produced a fake diurnal cycle because the lab was outdoors.
 - `INS-260330-D304` [high] RuBisCo evolved in a low-oxygen world and now grabs oxygen instead of CO2 half the time — the same pattern drives human cognitive biases in modern environments.
+- `INS-260412-F8D1` [high] Leeson's losses grew from £4M to £94M to £160M to £830M because each concealment required deeper fraud to sustain.
 - `INS-260405-3048` [high] RuBisCo worked perfectly in a low-oxygen world; the problem wasn't the enzyme but the changed atmosphere — the same dynamic explains many human cognitive 'errors'.
 - `INS-260412-2D98` [high] Effective early intervention against exponential threats always feels like an overreaction because success is invisible.
 - `INS-260330-AA4F` [high] Because humans linearize exponentials, they systematically under-react when early action is cheapest and over-react when the situation is already determined.
@@ -39,6 +40,7 @@
 - `INS-260412-7E9E` [high] Governments consistently fail to fund long-horizon projects like lunar bases despite clear positive ROI, because political incentive structures reward short-term spending.
 - `INS-260403-CA46` [high] When abundance replaces scarcity, the winning strategy inverts but behavior lags.
 - `INS-260410-B47B` [high] The U-2 spy plane kept the Cold War cold because both sides rationally preferred the Soviets tracking it silently over admitting they couldn't shoot it down — information and its management beat raw force.
+- `INS-260412-6F0E` [high] When multiple systems fail simultaneously, the hardest decision is which failure to address first.
 - `INS-260410-AF9A` [high] Imperial Japan's army and navy kept their war plans secret from each other, didn't hold liaison meetings until 1944, and hid the loss of four carriers at Midway for months — individual samurai excellence couldn't overcome structural stovepiping.
 - `INS-260412-5768` [high] Intel evaluated the iPhone deal against current mobile chip margins rather than the trajectory of mobile performance converging with desktop, a systematic error incumbents repeatedly make.
 - `INS-260403-6EDC` [high] Difficulty choosing between passion and money reveals gaps in self-knowledge and work knowledge, not a genuine tie between options.
@@ -92,6 +94,7 @@
 - `INS-260403-803A` [high] When unsure what to do, choose options that keep the most future doors open rather than optimizing for any single outcome.
 - `INS-260403-F075` [high] Like floating on multi-layer shade balls, staying still keeps you on the surface while thrashing causes you to sink deeper.
 - `INS-260412-56B8` [high] Antibiotics worked so well that we stopped respecting both the threat (bacteria) and the weapon (antibiotics), overusing them until resistance emerged.
+- `INS-260412-7C35` [high] Charlie Javice's decade-long pattern shows how unchallenged small lies (fake nonprofit metrics, fabricated scholarship rejections) trained her to attempt a $175M fraud against JP Morgan.
 - `INS-260404-B6E8` [high] Plants produce massive quantities of a flawed enzyme rather than evolving a better one, mirroring how humans double down on suboptimal commitments.
 - `INS-260403-3F91` [high] Once customers pay $60-120 upfront, they stop comparing prices elsewhere because not using the membership feels like wasting money.
 - `INS-260403-2DC4` [high] Plants rationally invest in workaround enzymes for RuBisCo's failures rather than replacing the enzyme itself.
@@ -105,6 +108,7 @@
 - `INS-260403-59D5` [high] Congressional staffers in their late 20s effectively set ideological direction because politicians are too busy fundraising and speechmaking to supervise the details of governance.
 - `INS-260403-5CD6` [high] The freedom we sacrifice for commitments was mostly unused anyway — we paid for it in loneliness without exercising it.
 - `INS-260410-35F5` [high] Every super-successful person Munger knows had three things — high intelligence, hard work, and good luck — and the only way to get lucky two or three times is to start early and keep trying for a long time.
+- `INS-260412-FCF8` [high] SVB had no Chief Risk Officer for 8 months (April 2022 – January 2023) during the exact period when rising rates demanded portfolio rebalancing.
 - `INS-260402-CCC3` [high] VCs optimize for defensible-looking decisions rather than highest expected value, creating systematic blind spots.
 - `INS-260410-90BD` [high] Stalin genuinely fought tsarist injustice for 20 years as a penniless revolutionary and then built a regime orders of magnitude more unjust — this 'perverse and unintended consequences' pattern is the rule, not the exception.
 - `INS-260403-330D` [high] Voters expect absolute price decreases, not just slower inflation, creating a nearly impossible standard for politicians to meet.

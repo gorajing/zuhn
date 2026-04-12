@@ -1,6 +1,6 @@
 # Topic: business-models
 
-> 242 insights
+> 243 insights
 
 - `INS-260410-9246` [high] Visa's interchange is not a fee — it's an envelope of value the network can redistribute to issuing banks, acquiring banks, co-brand merchants, and rewards programs as needed to align behavior.
 - `INS-260410-58A5` [high] F1's durability isn't mostly brand or network effects — it's that the FIA explicitly calls it 'the pinnacle,' a regulatory grant no rival motorsport can replicate with money.
@@ -92,6 +92,7 @@
 - `INS-260327-5580` [high] Micro-mobility businesses discovered that the distances too short to walk are also too short to generate fares that cove
 - `INS-260327-418E` [high] Donut shops that survived evolved from simple bakeries to premium experiences, coffee destinations, and social media att
 - `INS-260327-5D01` [high] Legal cannabis businesses face the paradox of competing with the illegal market on price while bearing the compliance co
+- `INS-260412-3AF6` [high] WeWork's 15-year lease commitments against month-to-month tenant revenue created an unhedgeable duration mismatch that any economic downturn would expose.
 - `INS-260403-616B` [high] Mainstream cruise lines sell tickets at or below cost, then profit from onboard casinos, spas, drinks, and shopping where passengers have no alternatives.
 - `INS-260327-0E28` [high] Luxury conglomerates like LVMH reduce risk through portfolio diversification across fashion, wines, cosmetics, and jewel
 - `INS-260405-48EC` [high] When membership fees are the primary revenue source, the company is structurally forced to keep product prices low to drive renewals.

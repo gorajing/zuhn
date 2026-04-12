@@ -1,6 +1,6 @@
 # Topic: innovation
 
-> 136 insights
+> 137 insights
 
 - `INS-260405-EFC2` [high] C invented the curly-brace, semicolon syntax that now defines how billions of developers write code — its design choices became the assumed defaults of most successor languages.
 - `INS-260404-4320` [high] AI collapses experimentation costs across deeptech by replacing early-stage lab work with in-silico simulation.
@@ -10,6 +10,7 @@
 - `INS-260404-A183` [high] Lisp wasn't designed to fix Fortran — it was designed to axiomatize computation, and that's precisely why its ideas proved more durable.
 - `INS-260412-23C8` [high] Banning genetic engineering research would drive it to jurisdictions with fewer safety guardrails, not eliminate it.
 - `INS-260403-F8AE` [high] Apple rarely invented iPhone features first but consistently delivered the best implementation, from multi-touch to facial recognition.
+- `INS-260412-326A` [high] Bitcoin didn't invent digital currency — it solved the double-spending problem that killed eCash, b-money, and bit gold before it.
 - `INS-260403-1B15` [high] Business models expire faster than CEO tenures, forcing leaders to build systematic invention capabilities rather than ride a single model.
 - `INS-260405-F1A2` [high] Business plans presuppose knowledge that doesn't yet exist in early-stage innovation, making them a liability rather than a tool.
 - `INS-260403-5C74` [high] Oxygen — the molecule enabling all complex animal life — is merely the waste product of photosynthesis, whose actual purpose is making glucose.

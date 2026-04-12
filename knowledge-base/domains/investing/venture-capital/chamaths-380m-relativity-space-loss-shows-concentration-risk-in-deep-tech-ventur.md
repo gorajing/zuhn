@@ -53,9 +53,9 @@ related:
   - INS-260404-C7B2
   - INS-260330-06CD
   - INS-260403-2E2C
+  - INS-260412-CE4D
   - INS-260410-A5E1
   - INS-260403-7045
-  - INS-260403-01FD
 ---
 Chamath Palihapitiya's $380M loss on Relativity Space after a recapitalization event—reportedly despite a $3B acquisition offer from Eric Schmidt—is a stark lesson in deep-tech venture concentration risk. Unlike software startups that can pivot quickly, deep-tech companies (rockets, biotech, fusion) have long development cycles where capital burns continuously and pivots are expensive or impossible.
 

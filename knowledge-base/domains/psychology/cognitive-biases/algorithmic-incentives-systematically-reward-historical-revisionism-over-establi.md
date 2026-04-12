@@ -56,7 +56,6 @@ related:
   - PRI-260406-C1EF
   - INS-260403-39E9
   - INS-260330-7511
-  - INS-260330-AACC
 evidence:
   - id: INS-260330-AACC
     type: TRANSFERS_TO

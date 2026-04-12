@@ -51,5 +51,6 @@ related:
   - INS-260403-35E1
   - INS-260322-96F1
   - INS-260330-C4D4
+  - INS-260412-D4E4
 ---
 FTX's balance sheet was dominated by FTT, a token FTX itself created and could manipulate via wash trading. This meant the collateral backing Alameda's billions was worth whatever FTX said it was — until it wasn't. When CZ announced he'd dump $2B in FTT, the token cratered 80% in two days, evaporating the collateral and exposing a $8B shortfall. This is structurally identical to a company listing its own unregistered equity as a liquid asset. The lesson applies beyond crypto: any entity whose solvency depends on the market price of instruments it controls is running a circular scheme that will break under redemption pressure.

@@ -1,11 +1,13 @@
 # Tag: due-diligence
 
+- `INS-260410-9A20` Staged 'busy office' tours are a fraud tell — real businesses don't need to fake activity for visiting analysts.
 - `INS-260412-E332` When money is cheap and markets rise, even sophisticated investors abandon governance scrutiny — Sequoia invested $210M while the founder played video games on the call.
 - `INS-260410-4670` Frauds reach Enron scale only in bull markets because saturated capital chases low-disclosure assets and stops asking questions.
+- `INS-260412-D3D4` The 2008-2022 low-rate era created competitive pressure among investors and acquirers that made skepticism more costly than gullibility, enabling serial fraudsters like Javice, Holmes, and Bankman-Fried.
 - `INS-260412-BA99` Each prestigious partner a fraudulent company signs makes the next partner less likely to investigate, creating a cascade of unearned credibility.
-- `INS-260410-9A20` Staged 'busy office' tours are a fraud tell — real businesses don't need to fake activity for visiting analysts.
 - `INS-260327-D1BB` Epstein charged tens of millions for tax advice without being a CPA, hundreds of millions for wealth management without a Series 7, and consulting fees without a college degree - and nobody questioned it for decades.
 - `INS-260327-A5CD` At the highest levels of finance, who you know matters infinitely more than what you know or what credentials you hold.
+- `INS-260412-C69B` JP Morgan's $175M acquisition of Frank collapsed because the bank accepted indirect evidence of 4.25M users without independently verifying the customer database.
 - `INS-260405-11EA` Flybridge's AI memo generator is an early signal that VC's information-processing work is automatable, concentrating value on the parts that aren't.
 - `INS-260403-402F` A messy cap table during due diligence signals broader operational dysfunction and is one of the fastest deal-killers in venture financing.
 - `INS-260403-082C` Disorganized diligence processes cause more deal failures than actual red flags in the company.

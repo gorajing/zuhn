@@ -4,13 +4,14 @@
 - `INS-260327-6058` Napoleon's Waterloo strategy was sound but failed because Marshal Grouchy and Marshal Ney couldn't execute independently at the critical moment.
 - `INS-260323-A197` Former Defense Secretary Leon Panetta revealed that President Clinton avoided engaging with nuclear issues, and Reagan publicly misstated that submarine-launched missiles could be recalled — they cannot.
 - `INS-260330-51B1` States behave aggressively not because leaders are inherently aggressive, but because the anarchic international system leaves them no choice but to maximize relative power.
+- `INS-260330-383F` Peterson's dragon test: if the crisis you're fighting makes you terrified and authoritarian, your emotional state disqualifies you from leading the response regardless of whether the threat is real.
 - `INS-260403-497B` Leadership titles are stepping stones to career optionality, not end destinations — optionality enables you to craft work on your own terms.
 - `INS-260410-0735` Mao was a military genius who reunified a shattered China after 40 years of civil war, and the same person then caused the largest peacetime famine in Chinese history — because the skills that win wars are not the skills that run economies.
 - `INS-260412-9270` Russia's political decisions from Ivan the Terrible through Putin follow a remarkably consistent pattern driven by the same geographic vulnerabilities, suggesting structure dominates leadership.
 - `INS-260410-0065` 85% of Japanese WWII deaths and 43% of German deaths happened in the last year of the war — after the outcome was already decided — because regimes optimize for their own survival, not their populations'.
 - `INS-260404-1678` Shifting justifications after the fact reveal the absence of pre-existing strategic reasoning.
 - `INS-260403-9E97` Trump's rage at SCOTUS striking down tariffs — despite tariffs dragging his approval ratings — reveals how identity attachment to a signature policy overrides rational political self-interest.
-- `INS-260330-383F` Peterson's dragon test: if the crisis you're fighting makes you terrified and authoritarian, your emotional state disqualifies you from leading the response regardless of whether the threat is real.
+- `INS-260412-FCF8` SVB had no Chief Risk Officer for 8 months (April 2022 – January 2023) during the exact period when rising rates demanded portfolio rebalancing.
 - `INS-260410-8D62` When you take a leadership role, commit real, personal, post-tax capital — not just granted equity — so every decision is visibly yours too.
 - `INS-260403-5E03` Guy Kawasaki argues optimism means believing in your ability to shape reality, not ignoring it — a mindset that compounds through team inspiration and opportunity attraction.
 - `INS-260330-7D83` Travis's 'uber against the world' narrative drove 12-hour workdays and fierce loyalty, but the same combative culture produced internal backstabbing, sexual harassment cover-ups, and employee burnout.
@@ -22,6 +23,7 @@
 - `INS-260320-39A3` Shelter your team and family from acquisition signal-to-noise until the wire hits — deals fall apart in the last week, and premature sharing creates damaging anxiety.
 - `INS-260330-76DA` Debaters evaluate whether challenging a point is necessary for progress or merely satisfying — and let go of arguments that won't advance the overall dispute.
 - `INS-260403-F2BF` Founders must distinguish between strategic messaging and keyboard venting before hitting send.
+- `INS-260412-98B1` Neumann's personal habits — tequila retreats, barefoot offices, impulsive bans — became WeWork's culture, making the company inseparable from his increasingly erratic behavior.
 - `INS-260410-C56B` Conflict-averse CEOs systematically transfer shareholder value to anyone willing to make a fuss, because the path of least resistance is always to pay them off.
 - `INS-260327-8AE7` Many billionaire CEOs would create more value for shareholders by retiring and allowing succession than by continuing to lead with outdated strategies.
 - `INS-260330-1C50` Refusing to celebrate others' success out of competitive anxiety shrinks the total pie rather than protecting your share.
@@ -37,11 +39,6 @@
 - `INS-260322-9172` Successful brands ask fundamental questions and act fast on answers; failing brands have CEOs who already decided the answer and insist 'just do it this way.'
 - `INS-260327-29F0` The framework is not the hard part — getting the entire leadership team aligned on one strategic story is where the real value lies.
 - `INS-260322-D57C` When scaling, CEOs cannot just delegate customer-facing work — they must personally demonstrate the brand's standard alongside new employees so sensibility transfers through shared experience.
-- `INS-260330-687B` Delaying a necessary firing risks losing good employees who won't tolerate a toxic colleague, and equivocating during the termination creates legal and emotional complications.
-- `INS-260404-56C1` Vasco Pedro's top criterion for Halo's first CEO is someone who cares so deeply that others might think they're 'a bit weird' — prioritizing missionary zeal over mercenary polish.
-- `INS-260403-F554` 92% of VCs say the team is the most important element, valuing complementary skills and pivot capability over raw individual talent.
-- `INS-260403-1B15` Business models expire faster than CEO tenures, forcing leaders to build systematic invention capabilities rather than ride a single model.
-- `INS-260403-9627` Committees produce safe, lumpy designs because no group will agree to the bold risks that distinguish great work.
 - `INS-260323-E874` The XZ attacker succeeded specifically because the maintainer was burned out and desperate for help — burnout is an attack surface.
 - `INS-260321-13C6` Every determinative defense innovation in history was a heretical idea — someone had to protect the heretic from the institution that tried to kill them.
 - `INS-260323-2CCA` Musk's WWII veteran grandfather had next-level PTSD but never bragged about his medals — the generation that viscerally understood war is gone, leaving decision-makers without that embodied knowledge.
@@ -53,6 +50,11 @@
 - `INS-260329-58E7` Ramsey's breakthrough from tactical hustle to $300M came when MBAs taught him strategic thinking in exchange for him teaching them execution.
 - `INS-260323-244C` Netanyahu identifies the core AI leadership challenge: most people — including most political leaders — think in linear increments and cannot intuitively grasp geometric growth rates.
 - `INS-260325-8B36` Conflict between high performers with the same goal but different approaches produces better decisions — but only when the company, not ego, is at the center.
+- `INS-260330-687B` Delaying a necessary firing risks losing good employees who won't tolerate a toxic colleague, and equivocating during the termination creates legal and emotional complications.
+- `INS-260404-56C1` Vasco Pedro's top criterion for Halo's first CEO is someone who cares so deeply that others might think they're 'a bit weird' — prioritizing missionary zeal over mercenary polish.
+- `INS-260403-1B15` Business models expire faster than CEO tenures, forcing leaders to build systematic invention capabilities rather than ride a single model.
+- `INS-260403-9627` Committees produce safe, lumpy designs because no group will agree to the bold risks that distinguish great work.
+- `INS-260403-F554` 92% of VCs say the team is the most important element, valuing complementary skills and pivot capability over raw individual talent.
 - `INS-260329-5A24` Declaring amnesty for past failures lets teams diagnose the real problem instead of defending their territory.
 - `INS-260403-CF44` Dario spends 30-40% of his time on culture because at exponential speed, organizational decoherence is the binding constraint on execution.
 - `INS-260403-48CC` Push purpose and strategy understanding down so frontline staff can make decisions without managerial approval.

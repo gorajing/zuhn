@@ -1,5 +1,6 @@
 # Tag: reserve-currency
 
+- `INS-260412-5932` When the Fed creates dollars, every country holding dollar reserves sees their reserves lose value — an unlegislated tax on foreign nations.
 - `INS-260403-6E7C` The U.S. benefits from a trust premium built over decades that could evaporate far faster than it was accumulated.
 - `INS-260403-8C41` Historical precedent shows reserve currency transitions happen through gold accumulation during crises, and China is quietly stockpiling gold at rates 10x its official reports.
 - `INS-260403-3912` Stablecoins digitize the dollar's global reach, defending its reserve status against digital-native competitors.

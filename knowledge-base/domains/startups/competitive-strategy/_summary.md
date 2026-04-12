@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 607 insights
+> 609 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -204,7 +204,9 @@
 - `INS-260403-D7B1` [high] Gas stations depend on a minimum customer base; as EV adoption grows, station closures accelerate the shift in a self-reinforcing cycle.
 - `INS-260403-9689` [high] A gatekeeper between you and your customers holds existential power over your business regardless of how good your product is.
 - `INS-260327-0BDD` [high] When affluent consumers discover and popularize budget shopping channels (thrift stores, discount retailers), prices ris
+- `INS-260412-0275` [high] The US engineered the Plaza Accord to force Japan to appreciate the yen and handicap its own exporters, despite being Japan's closest ally.
 - `INS-260412-FDF1` [high] China's government kickstarted African investment, but 90% of 10,000 Chinese businesses there are now privately owned and self-sustaining.
+- `INS-260412-6D8C` [high] The NSA's campaign to suppress cryptography research — including secrecy orders and banning conference sessions — drove cypherpunks to build systems specifically designed to be unstoppable by governments.
 - `INS-260327-CADA` [high] The eco-premium business model profits from the gap between consumer willingness to pay for sustainability and the actua
 - `INS-260322-CFB1` [high] AI-native startups win most reliably at greenfield moments — new company creation or inflection points where customers must switch systems anyway — rather than trying to displace incumbent software.
 - `INS-260330-E670` [high] Foreign companies physically operating in a country create knowledge spillovers through supplier interactions and employee job-switching that domestic policy alone cannot replicate.

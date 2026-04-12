@@ -54,9 +54,9 @@ stance: >-
 related:
   - INS-260330-AB95
   - INS-260329-E45A
+  - INS-260412-E21D
   - PRI-260406-4FAE
   - INS-260330-36B4
-  - INS-260329-177E
   - INS-260412-35AC
 ---
 The video presents what looks like laziness (quiet quitting, bare minimum Mondays, 25% less time on work activities) but reframes it through a game theory lens: companies openly demonstrate they'll lay off workers the moment it helps the bottom line. Gen Z may be the first generation to enter the workforce already knowing this, rather than learning it painfully mid-career. The rational response to a partner who won't cooperate is to defect — give exactly what you're paid for, nothing more.

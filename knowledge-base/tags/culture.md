@@ -10,6 +10,7 @@
 - `INS-260325-F8B8` The Roman toga was impossible to put on alone — its design literally encoded dependency on slave labor into the daily fabric of elite life.
 - `INS-260322-F609` ElevenLabs removed all titles, which simultaneously filtered out ego-driven candidates and eliminated implicit bias in idea-sharing and collaboration.
 - `INS-260330-64E1` Even solo founders should put standard 4-year vesting on their shares to set cultural precedent and satisfy investor expectations.
+- `INS-260412-98B1` Neumann's personal habits — tequila retreats, barefoot offices, impulsive bans — became WeWork's culture, making the company inseparable from his increasingly erratic behavior.
 - `INS-260410-3B42` Rentech's location in East Setauket — a wooded Long Island town of 10,000 — is a load-bearing cultural feature, not an accident: employees don't grab drinks with Two Sigma counterparts because those counterparts aren't within reach.
 - `INS-260405-AC40` Costco pays double the retail average wage and reports three times the productivity, suggesting high wages are a competitive lever rather than a constraint.
 - `INS-260410-C56B` Conflict-averse CEOs systematically transfer shareholder value to anyone willing to make a fuss, because the path of least resistance is always to pay them off.
@@ -25,7 +26,14 @@
 - `INS-260330-D031` Stripe's radical transparency (BCCing everyone on all emails) broke Gmail and overwhelmed new hires, requiring new tooling and norms to sustain.
 - `INS-260321-C292` After the movie 300, Navy SEAL recruitment spiked — entertainment that inspires heroism and optimism creates the cultural conditions for industrial mobilization.
 - `INS-260322-D57C` When scaling, CEOs cannot just delegate customer-facing work — they must personally demonstrate the brand's standard alongside new employees so sensibility transfers through shared experience.
-- `INS-260403-922C` Startup ecosystems require blanket tolerance for strangeness because you can't predict which weird ideas will become valuable.
+- `INS-260410-7687` Greg Abel's 2025 Berkshire letter explicitly catalogues six foundational values (Decentralized Model, Integrity, Financial Strength, Capital Discipline, Risk Management, Operational Excellence) 'that will continue into perpetuity,' framing them as the mechanism for surviving the Warren-to-Greg transition without identity loss.
+- `INS-260325-502D` Conflict between high performers with the same goal but different approaches is a feature, not a bug — organizations that seamlessly resolve conflict are winning teams.
+- `INS-260409-355C` Treat financial and spiritual capital as multiplicative factors, not additive line items — either zero and the total collapses.
+- `INS-260325-8B36` Conflict between high performers with the same goal but different approaches produces better decisions — but only when the company, not ego, is at the center.
+- `INS-260325-7B58` Progress does not happen automatically — it happens when people choose to make it happen and believe it is both possible and desirable.
+- `INS-260405-4EAA` Silicon Valley's tolerance for weird ideas is a cultivated social custom that spread because it reliably produced better outcomes — not because its inhabitants are smarter or kinder.
+- `INS-260325-B14B` Before the 1500s, no major civilization believed in upward progress — history was seen as cyclical or as decline from a golden age.
+- `INS-260410-CC88` Greg Abel in the 2025 letter: 'Our role is stewardship. That stewardship has shaped a culture and reinforced a set of values that are not the result of our success, but the reason for it.'
 - `INS-260330-1B37` Airbnb spent 5 months hiring their first employee and only hired two people in year one because early hire quality is existential.
 - `INS-260330-7E58` In-N-Out pays managers $160K+ with full benefits, achieving 14-year average tenure in an industry with 150%+ annual turnover.
 - `INS-260403-BE24` Extreme hour requirements screen out experienced and diverse candidates, leaving a narrow, less resilient talent pool.
@@ -38,6 +46,7 @@
 - `INS-260330-B384` Rome's shift from citizen-soldiers to mercenary armies eroded the loyalty that held the empire together — the same dynamic applies to startups replacing missionaries with mercenaries.
 - `INS-260405-C8BC` Costco pays double the retail average and gets triple the productivity — the premium pays for itself with room to spare.
 - `INS-260403-D966` Good programmers want to work with other good programmers, so talent decline is a one-way ratchet.
+- `INS-260403-922C` Startup ecosystems require blanket tolerance for strangeness because you can't predict which weird ideas will become valuable.
 - `INS-260403-74E5` Startup ideas look crazy at first, so only cultures that tolerate oddness allow them to develop past the social-filtering stage.
 - `INS-260404-E6E0` Silicon Valley's advantage is not superior people but a cultural custom of treating early work charitably — a custom any community can develop.
 - `INS-260404-A1BA` Harsh judgment of early work is a cultural habit, not human nature, and environments like Silicon Valley prove it can be unlearned.
@@ -47,14 +56,6 @@
 - `INS-260403-EFCC` Early-stage ambitious work requires switching evaluation polarity from finding flaws to imagining how it could succeed.
 - `INS-260404-0782` Silicon Valley's supportive stance toward strange-sounding ideas from unknown people is a practiced skill that produces outsized returns, not naive credulity.
 - `INS-260405-0A6D` Portfolio innovation strategy only works if you actually exit the failures fast—without a kill discipline, you accumulate zombie projects that consume resources and produce nothing.
-- `INS-260410-7687` Greg Abel's 2025 Berkshire letter explicitly catalogues six foundational values (Decentralized Model, Integrity, Financial Strength, Capital Discipline, Risk Management, Operational Excellence) 'that will continue into perpetuity,' framing them as the mechanism for surviving the Warren-to-Greg transition without identity loss.
-- `INS-260325-502D` Conflict between high performers with the same goal but different approaches is a feature, not a bug — organizations that seamlessly resolve conflict are winning teams.
-- `INS-260409-355C` Treat financial and spiritual capital as multiplicative factors, not additive line items — either zero and the total collapses.
-- `INS-260325-8B36` Conflict between high performers with the same goal but different approaches produces better decisions — but only when the company, not ego, is at the center.
-- `INS-260325-7B58` Progress does not happen automatically — it happens when people choose to make it happen and believe it is both possible and desirable.
-- `INS-260405-4EAA` Silicon Valley's tolerance for weird ideas is a cultivated social custom that spread because it reliably produced better outcomes — not because its inhabitants are smarter or kinder.
-- `INS-260325-B14B` Before the 1500s, no major civilization believed in upward progress — history was seen as cyclical or as decline from a golden age.
-- `INS-260410-CC88` Greg Abel in the 2025 letter: 'Our role is stewardship. That stewardship has shaped a culture and reinforced a set of values that are not the result of our success, but the reason for it.'
 - `INS-260404-F834` Replace abstract culture complaints with specific behavioral stories backed by evidence to surface real, fixable problems.
 - `INS-260330-4A89` Raises given on request incentivize lobbying over performance; formal evaluation cycles protect meritocratic culture.
 - `INS-260330-3A7B` When you give a raise because someone asked, the employee who didn't ask but performs better learns that lobbying matters more than results.

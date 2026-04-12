@@ -8,12 +8,12 @@
 - `INS-260328-0B99` Models improved faster than expected in 2025 with multiple strong releases from Google and others, but it takes time to even assess how good new models are -- and the distance from 'very useful' to 'superintelligence' remains vast.
 - `INS-260330-4C5A` Tesla's autopilot, constrained to 100 watts, may pioneer more compute-efficient paths to AGI than data-center-scale LLMs using megawatts.
 - `INS-260322-474A` AI automating AI R&D won't produce runaway self-improvement because research requires proportional scaling of experimental compute, not just more researchers.
+- `INS-260322-6088` The current alignment paradigm of steering/control is appropriate for tool-like AI but becomes morally equivalent to slavery when applied to general intelligence — the only good outcome is AI that genuinely cares about us.
+- `INS-260410-91A1` Imagine a superintelligent 15-year-old that's very eager to learn — you deploy it as a programmer, doctor, etc., and the deployment itself is a learning process, not a finished product release.
 - `INS-260410-5D16` Karpathy sees AI as continuous with computing — you can't find computers or the iPhone in the GDP curve either, and AGI will diffuse the same way despite subjective feelings of discontinuity.
 - `INS-260408-A0F5` Hassabis would have preferred CERN-like collaboration on AGI; ChatGPT going viral forced commercial pressure that changed the entire industry's pace.
 - `INS-260403-02E2` Treating AGI arrival as an instant winner-take-all event is faith-based reasoning that substitutes for sound business fundamentals.
 - `INS-260410-010F` Nadella rejects capability-based AGI declarations as 'nonsensical benchmark hacking' and substitutes a demand-side test: is the world economy actually growing at industrial-revolution rates (10% nominal, 5% inflation-adjusted)?
-- `INS-260322-6088` The current alignment paradigm of steering/control is appropriate for tool-like AI but becomes morally equivalent to slavery when applied to general intelligence — the only good outcome is AI that genuinely cares about us.
-- `INS-260410-91A1` Imagine a superintelligent 15-year-old that's very eager to learn — you deploy it as a programmer, doctor, etc., and the deployment itself is a learning process, not a finished product release.
 - `INS-260410-7AF5` Unlike humans, AI copies can pool their on-the-job learning — so one AI effectively learns every job in the economy simultaneously once online learning works.
 - `INS-260323-D2AA` AI capabilities are 'jagged' -- superhuman at frontend/traditional ML but bad at distributed systems -- making the 'superhuman coder' milestone unreachable as a binary goal.
 - `INS-260410-098A` The winning career bet isn't avoiding automation — it's positioning to manage ever-larger fleets of AI workers, which still rewards deep fundamentals and frontier proximity.
@@ -22,12 +22,12 @@
 - `INS-260330-C681` AGI requires genuine creative disobedience — choosing unprogrammed goals — which no current AI approach is designed to produce.
 - `INS-260409-D922` Hassabis calls current models 'jagged intelligences' — amazing at certain framings but failing at basic variants, and closing this gap is core to AGI.
 - `INS-260410-B7B1` Lab spending on pre-baked skill training is revealed-preference evidence that current models lack humanlike on-the-job learning.
+- `INS-260410-06DB` LLMs are ethereal spirits mimicking human internet text, not evolved animals — pretraining is 'crappy evolution' that instills knowledge rather than learning algorithms.
 - `INS-260323-2651` Hotz argues that maximizing compression (cross-entropy) can never reach AGI because it produces 'mid' outputs — competent but never brilliant — and lacks the embodied feedback loops of human learning.
 - `INS-260321-8567` LLMs learn and navigate the manifold created by human-written training data but cannot create new manifolds — the representation breakthroughs that define scientific revolutions.
 - `INS-260403-CDB0` DeepSeek's R1-Zero model learned complex reasoning entirely through reinforcement learning without human data, discovering novel problem-solving approaches.
 - `INS-260321-8C35` AGI requires weight plasticity (continual learning without catastrophic forgetting) and causal modeling (simulation over correlation) — neither solvable by making models bigger.
 - `INS-260322-CCE8` Even within OpenAI, the original belief was one AGI model that subsumes everything — that's completely changed, and the future is a portfolio of specialized models for different use cases.
-- `INS-260410-06DB` LLMs are ethereal spirits mimicking human internet text, not evolved animals — pretraining is 'crappy evolution' that instills knowledge rather than learning algorithms.
 - `INS-260409-5FF6` Hassabis sees a very good chance of AGI within 5 years, consistent with Shane Legg's 2010 extrapolation predicting ~20 years.
 - `INS-260409-2DE3` Hassabis quantifies AGI as 10x the Industrial Revolution's impact compressed into 10x less time — over a decade instead of a century.
 - `INS-260409-35EC` Hassabis disagrees with Yann LeCun — LLMs are the substrate, not a dead-end, and AGI comes from building on them rather than replacing them.

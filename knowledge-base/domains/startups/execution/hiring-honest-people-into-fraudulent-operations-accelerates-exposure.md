@@ -45,15 +45,14 @@ stance: >-
   people who gain access to real operational data.
 related:
   - INS-260323-FFAC
-  - INS-260323-95FE
   - INS-260327-C05A
   - INS-260330-FC9F
   - INS-260330-90C3
+  - INS-260412-F8D1
   - INS-260330-10CF
-  - INS-260327-CB72
-  - INS-260412-C040
+  - INS-260412-7C35
   - INS-260330-22D6
-  - INS-260409-1D16
+  - INS-260412-1DBF
 evidence:
   - id: INS-260330-FC9F
     type: EXTENDS

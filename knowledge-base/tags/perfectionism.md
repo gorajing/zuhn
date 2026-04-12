@@ -7,6 +7,7 @@
 - `INS-260404-9213` Photosynthesis is 'complicated, inefficient and confusing' yet it powers essentially all life on Earth because it shipped 450 million years ago.
 - `INS-260405-F402` Calling ambitious work a 'sketch' or 'hack' is a legitimate psychological technique that disables premature quality judgment long enough for momentum to build.
 - `INS-260403-8930` Ambitious work passes through an ugly phase where it looks worse than it is, and most people quit here rather than pushing through.
+- `INS-260412-1023` David Chaum rejected Bill Gates' $100M offer to integrate eCash into Windows 95, then rejected every subsequent offer until DigiCash went bankrupt.
 - `INS-260329-E333` Solving the problem correctly first, then refactoring for elegance, consistently beats attempting beautiful code from the start.
 - `INS-260327-A98E` Nothing is going to be perfect if you do not ship the product — get it to market and iterate based on feedback.
 - `INS-260329-5818` In early stages, doing more reps at lower quality beats doing fewer reps at higher quality.

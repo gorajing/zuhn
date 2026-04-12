@@ -64,7 +64,7 @@ related:
   - INS-260404-36F3
   - PRI-260406-6287
   - PRI-260406-0A0B
-  - INS-260404-0475
+  - INS-260412-D4E4
 ---
 Enron's adoption of mark-to-market accounting for long-dated energy contracts let it recognize 20 years of projected cash flows as Day 1 revenue. The fatal property of this scheme is that it leaves zero recurring revenue: every January 1 you start at zero, no matter how good last year's contracts performed. To show any growth, you must originate even larger deals than the prior year, which means accepting worse counterparties, padding projections more aggressively, and ultimately fabricating transactions with related-party SPEs.
 

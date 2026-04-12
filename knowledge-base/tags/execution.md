@@ -54,14 +54,6 @@
 - `INS-260323-CB34` Founders who try to be every team member stifle company growth and drain energy from the entire organization.
 - `INS-260329-AB9A` Programming for your own use cases removes the hardest parts of software development and lets you focus purely on problem-solving.
 - `INS-260402-8F67` Most marketplace supply tactics fail individually, but cumulative small wins across many channels compound into massive growth.
-- `INS-260328-B57E` Do not be discouraged by others' growth, but do not accept slow growth either — better tools mean you should be going faster than before.
-- `INS-260330-36DB` Tencent created three separate internal teams to build a mobile messaging app that would compete against their own dominant desktop product QQ, ensuring they disrupted themselves before an outsider could.
-- `INS-260403-294D` The startup edge is applying disproportionate brainpower to mundane problems that large companies delegate to average employees.
-- `INS-260409-8438` There are no ideas, only the idea maze — founders navigate walls, not pick concepts.
-- `INS-260402-C2BA` F&F capital works when tied to a specific unlockable milestone like an MVP or pilot launch, not when used to buy time while figuring things out.
-- `INS-260403-F8AE` Apple rarely invented iPhone features first but consistently delivered the best implementation, from multi-touch to facial recognition.
-- `INS-260403-427E` Truly disruptive solutions are often conceptually simple — the moat is in the execution, not the idea.
-- `INS-260403-F75F` Most innovation failures happen not at ideation but at the transfer stage where validated ideas must shift from exploration teams to execution teams.
 - `INS-260329-82B1` When starting with no capital, embrace high-effort manual strategies first — automation and delegation come after you have revenue, not before.
 - `INS-260323-BDC1` The tension between dreaming and pragmatism is not a contradiction to resolve but a dance to maintain — you need both the north star and the day-by-day execution.
 - `INS-260405-6F45` Before PMF, your job is to discover, not to deliver — treating a startup like a Fortune 500 kills the learning loop.
@@ -73,6 +65,14 @@
 - `INS-260403-0C1D` Spheres packed as tightly as possible still only cover 91% of a surface — a mathematical ceiling that no amount of optimization can overcome.
 - `INS-260329-A01C` The opportunity cost of starting a second business is often the continued growth trajectory of your first one.
 - `INS-260327-8760` Altman rejects backward-from-vision planning, saying he's never seen people with elaborate backward-chain strategies massively succeed.
+- `INS-260328-B57E` Do not be discouraged by others' growth, but do not accept slow growth either — better tools mean you should be going faster than before.
+- `INS-260330-36DB` Tencent created three separate internal teams to build a mobile messaging app that would compete against their own dominant desktop product QQ, ensuring they disrupted themselves before an outsider could.
+- `INS-260403-294D` The startup edge is applying disproportionate brainpower to mundane problems that large companies delegate to average employees.
+- `INS-260409-8438` There are no ideas, only the idea maze — founders navigate walls, not pick concepts.
+- `INS-260403-F8AE` Apple rarely invented iPhone features first but consistently delivered the best implementation, from multi-touch to facial recognition.
+- `INS-260403-427E` Truly disruptive solutions are often conceptually simple — the moat is in the execution, not the idea.
+- `INS-260403-F75F` Most innovation failures happen not at ideation but at the transfer stage where validated ideas must shift from exploration teams to execution teams.
+- `INS-260402-C2BA` F&F capital works when tied to a specific unlockable milestone like an MVP or pilot launch, not when used to buy time while figuring things out.
 - `INS-260405-8080` Meta's explicit goal of making AI teams 'operate more like startups' signals that enterprise overhead is now a recognized competitive liability in AI.
 - `INS-260323-F15D` When transforming a large organization, changing processes and tools (the 'how') unlocks speed more effectively than simply demanding faster output.
 - `INS-260404-74F4` Schedule quarterly culture map reviews to assess whether enablers produced desired behaviors and blockers were actually removed.

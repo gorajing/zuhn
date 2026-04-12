@@ -1,6 +1,6 @@
 # Topic: cognitive-biases
 
-> 332 insights
+> 336 insights
 
 - `INS-260326-163A` [very_high] Data quality dominates ML architecture just as install base and data gravity beat product design elegance in business -- what you've accumulated is the moat, not how you've arranged it.
 - `INS-260326-CA66` [very_high] Insulin resistance manifests as heart disease, diabetes, obesity, and dementia -- just as a misidentified business model manifests as churn, pricing problems, and sales failures.
@@ -37,6 +37,7 @@
 - `INS-260404-B8D9` [high] Testing a theory with instruments that depend on that same theory creates unfalsifiable circular logic.
 - `INS-260330-14BD` [high] Amsterdam onlookers couldn't believe Destin genuinely forgot how to ride a bike because their own bias ('everyone can ride a bike') prevented them from processing his demonstration.
 - `INS-260330-9471` [high] Destin found he could only re-designate his bias, not remove it — after learning the backwards bike, the old normal-bike algorithm persisted and resurfaced after 20 minutes.
+- `INS-260412-5DA8` [high] Japanese authorities and citizens saw risks but were too caught up in national economic euphoria to act — optimism was 'the real killer.'
 - `INS-260403-37B1` [high] Stacking multiple artifact explanations to dismiss a finding often requires more suspicious coincidences than simply accepting the finding at face value.
 - `INS-260330-0D11` [high] Harvard Business School's largest cohort systematically catches the last wave (junk bonds in 1989, dotcom in 1999, housing in 2007) because extroverted, low-conviction people in a hot-house environment use peer behavior as their signal for value.
 - `INS-260330-09AD` [high] Harvard Business School's largest graduating cohort systematically catches the last wave — junk bonds before Milken's arrest, tech at the dot-com peak, housing before 2008 — because extroverted, low-conviction people use competition as a proxy for value.
@@ -100,6 +101,7 @@
 - `INS-260330-F6DB` [high] Facebook's own internal research found Instagram is 'toxic to a sizable percent of users' and worsens body image for 1 in 3 teen girls — a structural consequence of curated self-presentation at scale.
 - `INS-260330-BE91` [high] Institutions that abandon their own principles under pressure destroy their credibility far more than the original controversy would have.
 - `INS-260330-790F` [high] Imperfect institutions that can self-correct beat unaccountable personalities who never correct errors.
+- `INS-260412-851F` [high] Javice leveraged a Wharton degree, ink magazine feature, Forbes 30 Under 30, and VC backing into a self-reinforcing credibility loop where each institution assumed prior ones had done the vetting.
 - `INS-260402-5522` [high] When you hire people whose job is to find a specific type of problem, they will always find it because their employment depends on the problem existing.
 - `INS-260330-77D1` [high] Goldman Sachs earned ~200x their normal fees on 1MDB bond deals, creating an overwhelming financial incentive to suppress internal questions about fund legitimacy.
 - `INS-260327-E07D` [high] If you can't articulate the best argument against your own position, you don't actually understand your position well enough to hold it confidently.
@@ -161,6 +163,7 @@
 - `INS-260412-DAC5` [high] Consumers and municipal leaders were satisfied by the act of recycling without ever verifying that materials were actually recycled, enabling a broken system to persist for 50+ years.
 - `INS-260330-E1CA` [high] Rogue waves aren't random — they're multiple ordinary waves meeting and amplifying, which reframes how we think about extreme events.
 - `INS-260330-10AA` [high] Romantic love activates the same dopamine reward circuits as cocaine addiction and the same serotonin patterns as OCD, producing predictable obsession and rumination.
+- `INS-260412-E154` [high] Marketing risky products as safe attracts exactly the people who will be most devastated when the risk materializes.
 - `INS-260330-F737` [high] Schlep blindness causes founders to unconsciously avoid ideas involving tedious operational work, systematically hiding the highest-value opportunities.
 - `INS-260410-1898` [high] We've made dogfighting and cockfighting felonies while permitting identical practices on 10 billion factory-farmed animals — a five-orders-of-magnitude blind spot driven by scope insensitivity, not genuine moral reasoning.
 - `INS-260330-716C` [high] Tyson identifies at least four stacking biases in the search for extraterrestrial life (carbon, planet, habitable zone, intelligence), each of which independently narrows the search space.
@@ -191,6 +194,7 @@
 - `INS-260403-1FB1` [high] Repeated corrections cannot overcome an opponent's commitment to misrepresenting your position in adversarial settings.
 - `INS-260403-D0EE` [high] Beyond a threshold, your stuff starts making your decisions for you.
 - `INS-260403-99FE` [high] When established players consistently make irrational decisions, the resulting gap is a reliable signal of untapped opportunity.
+- `INS-260412-023C` [high] Leeson recovered his initial £4M loss through doubled-down gambling, then concluded he was a genius who could trade out of any hole — when it was pure luck.
 - `INS-260412-4127` [high] Customers with 10,000 miles will pay 5% more for an American flight rather than start from zero with United — sunk cost fallacy becomes a designed moat.
 - `INS-260404-13F1` [high] Once customers pay a membership fee, sunk-cost psychology makes them default to that retailer without comparing prices, converting a one-time payment into persistent behavioral change.
 - `INS-260404-3156` [high] Costco's mandatory $60-120 fee triggers sunk-cost reasoning that makes customers stop comparing prices with competitors.

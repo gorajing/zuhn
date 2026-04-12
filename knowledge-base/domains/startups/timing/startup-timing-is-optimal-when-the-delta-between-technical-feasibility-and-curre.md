@@ -53,7 +53,6 @@ stance: >-
   accumulated improvements create a wide gap between what's now possible and how
   the industry still operates.
 related:
-  - INS-260327-26D3
   - PRI-260328-0993
   - PRI-260406-7128
   - INS-260403-330D

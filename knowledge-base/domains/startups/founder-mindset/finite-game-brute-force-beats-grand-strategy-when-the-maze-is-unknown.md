@@ -60,7 +60,6 @@ stance: >-
   For ambiguous markets, a founder who tries many bold bets and quickly kills
   failures will outperform one who tries to plot the correct path in advance.
 related:
-  - INS-260323-97DB
   - INS-260322-98D2
   - INS-260327-24F4
   - INS-260403-17E1
@@ -70,6 +69,7 @@ related:
   - INS-260403-7DBB
   - INS-260330-06CD
   - INS-260327-9F46
+  - INS-260327-5E93
 ---
 Amazon's track record is a graveyard of failed initiatives: Amazon Auctions, zShops, the Fire Phone, the A9 search engine, BlockView, sijo.com partnerships, pets.com investments, home grocer, webvan-era bets. Joy Covey said it looked 'like Jeff fired an arrow and then followed that arc'—but the arrow was philosophical (customer obsession, long-term, reinvestment) while the tactical path was random exploration. Bezos himself wrote in the 1997 letter: 'we will make bold rather than timid investment decisions where we see a sufficient probability of gaining market leadership... some of these investments will pay off, others will not, and we will have learned another valuable lesson in either case.'
 

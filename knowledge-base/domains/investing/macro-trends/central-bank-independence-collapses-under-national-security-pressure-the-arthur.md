@@ -55,9 +55,9 @@ stance: >-
   stated commitments.
 related:
   - INS-260403-E992
+  - INS-260412-A130
   - INS-260403-98DA
   - INS-260403-2225
   - PRI-260328-99F0
-  - INS-260404-4F1B
 ---
 The counterargument to financial repression is that an independent central bank will refuse to hold rates below inflation. Napier's rebuttal: central banks are not actually independent when the stakes are existential national rivalry. Arthur Burns' 1979 'Central Bank's Brain' speech is the confession — the Fed had the technical tools to end inflation 15 years earlier but did not, because doing so would have required austerity severe enough to cause mass unemployment during the Cold War mobilization against the USSR. The national mission of winning the Cold War took precedence over the statutory mission of price stability. The parallel now: defeating China in the tech and industrial rivalry is becoming the organizing historical calling of the US government, and a Fed that raises rates into that mobilization is politically untenable regardless of Powell's statements. Trump's pressure on the Fed is not anomalous; it is the historically normal relationship between central banks and governments during nationally existential periods.

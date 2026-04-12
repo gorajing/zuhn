@@ -51,9 +51,9 @@ related:
   - INS-260330-EA56
   - INS-260330-ED77
   - INS-260412-4859
+  - INS-260412-2054
   - INS-260412-AB8A
   - INS-260403-3280
-  - INS-260402-A999
 ---
 The Cantillon effect describes how the first recipients of newly created money benefit disproportionately — they can purchase assets before prices adjust upward. In modern QE, central banks create digital money and funnel it through banks and hedge funds into stock and bond markets. Asset owners see their wealth grow 420% since 1980, while wage earners face the eventual inflationary cost.
 

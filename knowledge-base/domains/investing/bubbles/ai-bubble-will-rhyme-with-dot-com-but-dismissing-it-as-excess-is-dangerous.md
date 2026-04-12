@@ -55,6 +55,7 @@ related:
   - INS-260403-358D
   - INS-260405-B4D0
   - INS-260405-7576
+  - INS-260412-3EFA
 ---
 Brett Taylor draws a specific parallel between AI valuations and the dot-com bubble, noting that today's top market cap companies—Amazon, Google, PayPal, eBay, Salesforce—were all founded during the dot-com era. The current AI landscape shows similar signs of excess: companies like Poolside, Magic, Adept, and Character.AI have combined valuations exceeding $17B on combined revenue under $100M.
 

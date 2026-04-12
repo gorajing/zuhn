@@ -1,6 +1,6 @@
 # Topic: founder-psychology
 
-> 82 insights
+> 84 insights
 
 - `INS-260323-9C11` [high] Early hardship — while not required for success — instills an unshakeable belief that solutions exist and are within your control.
 - `INS-260328-91A1` [high] We are so early in AI adoption that freezing all model development today would still yield massive business improvements for years -- current tools are dramatically under-deployed.
@@ -13,6 +13,7 @@
 - `INS-260323-4574` [high] Kreischer's comedy lesson: the first spontaneous telling of a joke is almost always the best version — subsequent 'improvements' add complexity that destroys the simplicity that made it work.
 - `INS-260330-5EB6` [high] Paul Graham found no correlation between founder confidence at YC admission and which startups became stars.
 - `INS-260403-35EE` [high] VCs screen for obsession—founders who would keep building even if the money disappeared—because it predicts survival through inevitable chaos.
+- `INS-260412-1023` [high] David Chaum rejected Bill Gates' $100M offer to integrate eCash into Windows 95, then rejected every subsequent offer until DigiCash went bankrupt.
 - `INS-260330-9933` [high] Brian Acton left $850M on the table to escape Facebook's monetization of WhatsApp, then funded Signal to rebuild what WhatsApp was supposed to be — illustrating that values misalignment in acquisitions always surfaces.
 - `INS-260323-81F5` [high] If you cannot imagine yourself working on this problem for 10 years, you will abandon it when the inevitable 2-3 year difficulty spike hits.
 - `INS-260323-0C3A` [high] Confidence is necessary to start a business, but owners who think they can do it all and know it all fail at much higher rates than those who hire or retain experts in their blind spots.
@@ -71,6 +72,7 @@
 - `INS-260405-F5D8` [medium] Independent-mindedness gives founders access to true insights that conventionally-minded people are structurally blocked from perceiving.
 - `INS-260403-9F9F` [medium] People who want to get rich by changing the world work harder and build better products than those optimizing purely for money.
 - `INS-260403-3E9A` [medium] Letting personal preference break ties between roughly equal-EV problems is adaptive because passion drives effort and often signals hidden importance.
+- `INS-260412-1C32` [medium] Javice's core skill was generating media coverage and crafting narratives — ink magazine, Forbes 30 Under 30, podcasts — while her actual products consistently failed to deliver on claims.
 - `INS-260403-F0D4` [medium] Replace 10-year visions with 90-day micro-ambitions that stack and reveal new ceilings you couldn't previously see.
 - `INS-260405-03BB` [medium] Adam Neumann's bid to buy WeWork back — five years after his ousting — exemplifies how founder identity becomes entangled with company narrative to the point of overriding rational capital allocation.
 - `INS-260325-5B08` [medium] Recovery periods are not downtime but essential inputs to sustained creativity and productivity.

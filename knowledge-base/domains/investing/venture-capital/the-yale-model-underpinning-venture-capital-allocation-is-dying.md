@@ -43,7 +43,6 @@ stance: >-
   Institutional LP allocation models are shifting away from the Yale endowment
   approach, which will restructure how venture capital raises and deploys funds
 related:
-  - INS-260327-C05A
   - INS-260404-EF52
   - INS-260404-DFE8
   - INS-260404-C28B
@@ -53,5 +52,6 @@ related:
   - PRI-260403-26B9
   - PRI-260406-EE38
   - INS-260328-D220
+  - PRI-260406-070D
 ---
 The Yale Model—pioneered by David Swensen—encouraged endowments and institutional investors to allocate heavily to alternative assets including venture capital. Its potential decline has cascading effects: if large LPs reduce VC allocations, fund sizes may shrink, fewer firms will successfully raise, and the power dynamics between GPs and LPs shift. This matters for founders because it affects how much capital is available and at what terms. Smaller funds may actually benefit founders by forcing more disciplined investing and realistic valuations, but the transition period creates uncertainty. Founders should watch LP sentiment as a leading indicator of future fundraising climate.

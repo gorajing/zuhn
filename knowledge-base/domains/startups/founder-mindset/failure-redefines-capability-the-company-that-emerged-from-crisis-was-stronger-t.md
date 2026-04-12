@@ -56,8 +56,8 @@ related:
   - INS-260327-CA05
   - INS-260329-9A8B
   - INS-260330-84BD
-  - INS-260403-E1EB
   - INS-260403-1C09
+  - INS-260403-6546
 stance: >-
   Open Secret's marketplace failure created the financial discipline that
   enabled 3x growth while staying profitable — the crisis was the catalyst.

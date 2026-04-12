@@ -53,7 +53,7 @@ related:
   - PRI-260324-3081
   - PRI-260328-0993
   - INS-260403-2E2C
-  - PRI-260406-ADF0
+  - INS-260412-DC2F
   - INS-260412-0257
 ---
 Thrasio filing for bankruptcy after raising $3.4B and Hopin's UK business entering liquidation after a $7.75B valuation are canonical post-ZIRP collapse cases. Both businesses had credible growth stories in their funding windows: Thrasio rode Amazon FBA aggregation while interest rates were near zero (cheap capital to acquire brands), and Hopin rode pandemic-driven virtual event demand. Neither had durable structural advantages when conditions normalized. The shared failure pattern is dependency on a macro tailwind that was misread as a product-market advantage. For VCs evaluating similar models, the diagnostic question is: does this business still work if the tailwind disappears in 18 months?

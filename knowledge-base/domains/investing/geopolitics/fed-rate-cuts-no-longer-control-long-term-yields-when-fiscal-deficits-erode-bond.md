@@ -55,7 +55,6 @@ stance: >-
   permanently.
 related:
   - INS-260403-988C
-  - INS-260403-6024
   - INS-260403-2242
   - PRI-260406-BAAC
   - PRI-260328-0993

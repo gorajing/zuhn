@@ -59,6 +59,7 @@ related:
   - PRI-260406-E371
   - PRI-260403-E097
   - INS-260327-EF98
+  - INS-260412-8334
 ---
 When companies grow fast, capitalized commissions and deferred R&D expenses create an ever-widening gap between true costs and reported GAAP expenses. New commissions on growing revenue get pushed to future periods, making current CAC and efficiency metrics look artificially good. But when growth slows, the pipeline reverses — old capitalized expenses keep flowing through while new capitalization shrinks, causing a sudden and dramatic deterioration in reported metrics.
 

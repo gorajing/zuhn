@@ -54,8 +54,10 @@ related:
   - PRI-260406-992F
   - INS-260403-693C
   - INS-260403-7F67
+  - INS-260412-FCF8
   - INS-260403-776C
   - INS-260410-7687
+  - INS-260412-0ABC
 ---
 When markets collapsed in 2022, Brex and Ramp faced the same decision: accept reality or defend the old price. Ramp took the mark-down, reset expectations, and regained the ability to raise capital and operate without the burden of justifying a fantasy valuation. Brex chose to defend its $12.3B number by cutting costs internally rather than repricing externally.
 

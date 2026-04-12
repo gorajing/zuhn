@@ -48,8 +48,8 @@ related:
   - INS-260330-1B5E
   - INS-260412-8AB6
   - INS-260330-90C3
+  - INS-260412-7C35
   - INS-260330-10CF
-  - INS-260330-636E
   - INS-260412-9E32
 ---
 The original 1947 Roswell incident attracted little public interest. Its transformation into the foundational UFO cover-up narrative happened in the 1990s, after Watergate had made 'the government lies to citizens' a default mental model. Once that prior was installed, latent strange-event reports from decades earlier found an audience that would extrapolate them into cover-up stories. The lesson is counterintuitive but actionable for institutions: transparent, boring disclosure starves the narrative of its fuel, while secrecy — even secrecy about genuinely mundane failures — creates the vacuum that exotic explanations rush to fill. The best interview quote: governments are rarely competent enough to hide a big truth, but they are more than competent enough to leak the appearance of one.

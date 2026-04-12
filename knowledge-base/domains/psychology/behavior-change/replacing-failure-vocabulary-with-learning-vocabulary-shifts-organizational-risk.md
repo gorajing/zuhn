@@ -48,7 +48,6 @@ stance: >-
   Eliminating the word 'failure' and substituting 'learning moments' measurably
   increases employee willingness to take risks and share mistakes
 related:
-  - INS-260325-5023
   - INS-260329-4531
   - INS-260329-4A09
   - INS-260403-28C7

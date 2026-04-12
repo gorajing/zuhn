@@ -57,6 +57,7 @@ related:
   - INS-260323-BC61
   - INS-260402-B0AB
   - INS-260403-A2FE
+  - INS-260412-6D8C
 ---
 Alex Karp's argument against AI superintelligence bans rests on a core strategic logic: unilateral restriction doesn't eliminate the technology, it relocates who controls it. If the US constrains its own AI development, rival nations continue building without equivalent governance guardrails, and the US ends up importing both the technology and the values embedded within it.
 

@@ -50,6 +50,6 @@ related:
   - INS-260410-5CAA
   - PRI-260324-3081
   - INS-260410-45CE
-  - INS-260405-6D3A
+  - INS-260412-FCF8
 ---
 When Theranos's CFO discovered Elizabeth was lying about the product's capabilities in 2006, she fired him immediately and never filled the role again. This wasn't negligence — it was a deliberate structural choice that removed the one role specifically designed to verify financial claims against reality. With no CFO, Sunny could present revenue projections to investors that were 10x the internal forecasts with zero accountability. For investors, the absence of a CFO (or other standard governance roles) in a company making extraordinary claims should be treated as a disqualifying red flag, not an eccentricity of a visionary founder.

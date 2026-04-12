@@ -16,8 +16,6 @@
 - `INS-260329-4E70` The boring middle is a feature of ambitious paths, not a signal to pivot.
 - `INS-260329-50BD` The four-year opportunity cost of college is the largest hidden expense — direct experience compounds while academic credentials depreciate.
 - `INS-260329-24CE` Maker time protection evolves through three stages: stolen hours, half-day splits, then entire dedicated maker days as your business scales.
-- `INS-260402-0727` Late career specialization produces more founders because 'startup founder' is never a planned career — it emerges from flexible systems.
-- `INS-260405-9FD9` Osterwalder observes that being tasked with 'inventing the future' of a company carries surprisingly little prestige inside most large organizations.
 - `INS-260327-8D86` Rosolie's Jungle Keepers protects 50,000+ acres not through activism alone but through startup-style fundraising, marketing, and organizational building.
 - `INS-260330-70BF` No entrepreneur fears AI taking their job because entrepreneurship requires self-directed agency and authentic desires that AI structurally lacks.
 - `INS-260327-A75B` Each individual failure is less painful than expected, but everything is collectively more painful than expected; this mismatch creates opportunity for entrepreneurs.
@@ -31,6 +29,8 @@
 - `INS-260409-7D27` Real entrepreneurs know the two years spent on a doomed project compound into skills for the next thing, so the 'why start if it'll be automated' objection exposes that you're not actually an entrepreneur.
 - `INS-260402-96E2` Starting a company in mid-century America was rejected not as too risky but as too low-status compared to climbing institutional ladders.
 - `INS-260329-60CF` Owning equity in a profitable business reaches millionaire status far faster than saving from high income due to valuation multipliers.
+- `INS-260402-0727` Late career specialization produces more founders because 'startup founder' is never a planned career — it emerges from flexible systems.
+- `INS-260405-9FD9` Osterwalder observes that being tasked with 'inventing the future' of a company carries surprisingly little prestige inside most large organizations.
 - `INS-260405-7529` Entrepreneurs don't balance work and life — the two collapse into one undifferentiated thing.
 - `INS-260405-56CB` Self-employment is the shallow reading; self-expression through work is the deep one.
 - `INS-260402-4633` The first phase of business creation is product creation — hacking — and figuring out monetization afterward is the comparatively easy part.

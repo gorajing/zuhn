@@ -772,6 +772,7 @@ Generated on 2026-04-12 | 2467 sources
 | Google Part III: The AI Company. Google is amazingly well-positioned... will they win in AI? (audio) | youtube | 5 | 2026-04-11 |
 | Graham Hancock: Lost Civilization of the Ice Age & Ancient Human History | Lex Fridman Podcast #449 | youtube | 5 | 2026-03-30 |
 | Hermès (Audio) | youtube | 5 | 2026-04-11 |
+| How a 28 Year Old Man Destroyed England’s Oldest Bank | youtube | 5 | 2026-04-12 |
 | How A Kid With $0 Created Nike | youtube | 5 | 2026-03-30 |
 | How AI Will Transform Fintech In 2026 | youtube | 5 | 2026-03-22 |
 | How Air Traffic Control Works | youtube | 5 | 2026-04-12 |
@@ -797,6 +798,8 @@ Generated on 2026-04-12 | 2467 sources
 | How Sugar & Processed Foods Impact Your Health | Dr. Robert Lustig | youtube | 5 | 2026-03-30 |
 | How the 2008 Financial Crisis Still Affects You | youtube | 5 | 2026-04-12 |
 | How the World’s Most Dangerous Country Solved Murder | youtube | 5 | 2026-04-12 |
+| How This 31 Year Old Woman Scammed JP Morgan | youtube | 5 | 2026-04-12 |
+| How This Man Just Caused a $45 BILLION Crash [Terra Luna] | youtube | 5 | 2026-04-12 |
 | How to Access Your Creativity | Rick Rubin | youtube | 5 | 2026-03-30 |
 | How To Actually Get Rich In Your 20s | youtube | 5 | 2026-03-30 |
 | How to Build a Dyson Sphere - The Ultimate Megastructure | youtube | 5 | 2026-04-12 |
@@ -837,6 +840,7 @@ Generated on 2026-04-12 | 2467 sources
 | Israel, Hamas, and the Battle for Civilization | Sam Harris & Douglas Murray | youtube | 5 | 2026-03-30 |
 | It's Actually Pretty Easy to Get Ahead of 99% of People | youtube | 5 | 2026-03-30 |
 | It’s Time to Pay Attention to A.I. (ChatGPT and Beyond) | youtube | 5 | 2026-04-12 |
+| Japan's Lost Decade - An Economic Disaster [Documentary] | youtube | 5 | 2026-04-12 |
 | Jeff Dean & Noam Shazeer — 25 years at Google: from PageRank to AGI | youtube | 5 | 2026-04-10 |
 | Jeff Kaplan: World of Warcraft, Overwatch, Blizzard, and Future of Gaming | Lex Fridman Podcast #493 | youtube | 5 | 2026-03-23 |
 | Jensen Huang: NVIDIA - The $4 Trillion Company & the AI Revolution | Lex Fridman Podcast #494 | youtube | 5 | 2026-03-23 |
@@ -989,6 +993,7 @@ Generated on 2026-04-12 | 2467 sources
 | These are the asteroids to worry about | youtube | 5 | 2026-03-30 |
 | This Unstoppable Robot Could Save Your Life | youtube | 5 | 2026-03-30 |
 | This Virus Shouldn't Exist (But it Does) | youtube | 5 | 2026-04-12 |
+| Three Men Lost in Space – The Apollo 13 Disaster | youtube | 5 | 2026-04-12 |
 | Trader Joe’s (Audio) | youtube | 5 | 2026-04-11 |
 | Transformers, the tech behind LLMs | Deep Learning Chapter 5 | youtube | 5 | 2026-03-30 |
 | Trump 2.0, DOGE, and America's Global Decline with Sam Harris and Jonah Goldberg | youtube | 5 | 2026-03-30 |
@@ -998,11 +1003,13 @@ Generated on 2026-04-12 | 2467 sources
 | TSMC (Remastered) | youtube | 5 | 2026-04-11 |
 | Uber CEO Dara Khosrowshahi | youtube | 5 | 2026-04-11 |
 | Unlimited War: Putin vs Bismarck – Sarah Paine | youtube | 5 | 2026-04-10 |
+| US Banking Crisis: The Truth Behind The Disaster | youtube | 5 | 2026-04-12 |
 | Visa (Audio) | youtube | 5 | 2026-04-11 |
 | Vitalik: Ethereum, Part 1 | youtube | 5 | 2026-03-30 |
 | Walmart | youtube | 5 | 2026-04-11 |
 | Was The War Against Japan Avoidable? - Sarah Paine | youtube | 5 | 2026-04-10 |
 | Watch This If You Have a Service Business | youtube | 5 | 2026-03-22 |
+| WeWork - The $47 Billion Disaster | youtube | 5 | 2026-04-12 |
 | What Alcohol Does to Your Body, Brain & Health | youtube | 5 | 2026-03-30 |
 | What are we scaling? | youtube | 5 | 2026-04-10 |
 | What Putin Fears More Than War | youtube | 5 | 2026-03-30 |
@@ -1680,7 +1687,9 @@ Generated on 2026-04-12 | 2467 sources
 | What’s Hiding at the Most Solitary Place on Earth? The Deep Sea | youtube | 4 | 2026-04-12 |
 | What’s the Future of Vertical SaaS in an AGI World? Jamie Cuffe, CEO of Pace | youtube | 4 | 2026-03-26 |
 | When You Truly Work for Yourself | youtube | 4 | 2026-03-30 |
+| Where Did Bitcoin Come From? – The True Story | youtube | 4 | 2026-04-12 |
 | Where to invest in a multipolar world (WW3?) | youtube | 4 | 2026-03-22 |
+| Who Controls All of Our Money? | youtube | 4 | 2026-04-12 |
 | Why 90% of Startup CEOs Are Failing | John Kim Sendbird | youtube | 4 | 2026-03-23 |
 | Why AI Is Tech's Latest Hoax | youtube | 4 | 2026-03-24 |
 | Why Alien Life Would be our Doom - The Great Filter | youtube | 4 | 2026-04-12 |
@@ -2441,16 +2450,12 @@ Generated on 2026-04-12 | 2467 sources
 | Exploring the Dark Web | youtube | 0 | 2026-04-12 |
 | 'Fake Bitcoin' - How this Woman Scammed the World, then Vanished | youtube | 0 | 2026-04-12 |
 | Google's Deep Mind Explained! - Self Learning A.I. | youtube | 0 | 2026-04-12 |
-| How a 28 Year Old Man Destroyed England’s Oldest Bank | youtube | 0 | 2026-04-12 |
 | How BIG is Google? | youtube | 0 | 2026-04-12 |
 | How BIG is Samsung? (They Have a Military Department!) | youtube | 0 | 2026-04-12 |
 | How BIG is TATA? (They Own Jaguar) | ColdFusion | youtube | 0 | 2026-04-12 |
 | How Big is Toyota? (They’ve Owned 27% of Tesla Motors!) | youtube | 0 | 2026-04-12 |
 | How BIG is Volkswagen? (They own Lamborghini, Bentley, Bugatti, Porsche..) | youtube | 0 | 2026-04-12 |
 | How One Powerful Family Destroyed A Country | youtube | 0 | 2026-04-12 |
-| How This 31 Year Old Woman Scammed JP Morgan | youtube | 0 | 2026-04-12 |
-| How This Man Just Caused a $45 BILLION Crash [Terra Luna] | youtube | 0 | 2026-04-12 |
-| Japan's Lost Decade - An Economic Disaster [Documentary] | youtube | 0 | 2026-04-12 |
 | Li-Fi, 100X Faster Than Wi-Fi! | ColdFusion | youtube | 0 | 2026-04-12 |
 | Major Breakthrough: Graphene Batteries FINALLY Hit the Market | youtube | 0 | 2026-04-12 |
 | Married Couple Steals $4.5 Billion in Bitcoin Heist [Bitfinex] | youtube | 0 | 2026-04-12 |
@@ -2461,12 +2466,7 @@ Generated on 2026-04-12 | 2467 sources
 | The Man Who Stole $65 Billion (Bernie Madoff) | youtube | 0 | 2026-04-12 |
 | The True Story of Nikola Tesla [Pt.1] | youtube | 0 | 2026-04-12 |
 | The Truth About Solar | youtube | 0 | 2026-04-12 |
-| Three Men Lost in Space – The Apollo 13 Disaster | youtube | 0 | 2026-04-12 |
-| US Banking Crisis: The Truth Behind The Disaster | youtube | 0 | 2026-04-12 |
-| WeWork - The $47 Billion Disaster | youtube | 0 | 2026-04-12 |
 | What Was the Biggest Company in History? - $7.9 Trillion! | youtube | 0 | 2026-04-12 |
 | When Greed Goes Too Far - The Worldcom Fraud | youtube | 0 | 2026-04-12 |
-| Where Did Bitcoin Come From? – The True Story | youtube | 0 | 2026-04-12 |
-| Who Controls All of Our Money? | youtube | 0 | 2026-04-12 |
 | Why Meta Lost $230 billion [Biggest Company Loss in History] | youtube | 0 | 2026-04-12 |
 | Worst Company Disasters! | Top 6 Blunders | youtube | 0 | 2026-04-12 |

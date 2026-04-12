@@ -52,9 +52,9 @@ related:
   - INS-260322-2D2F
   - INS-260330-7F62
   - INS-260403-5843
+  - INS-260412-7C35
+  - INS-260412-F8D1
   - PRI-260321-2DF0
-  - INS-260403-7563
-  - INS-260412-BA99
-  - INS-260327-226A
+  - INS-260412-D3D4
 ---
 Milton's career reveals a textbook escalation pattern: his first company involved overpromising to a buyer for a $300K exit, dHybrid defrauded Swift Transportation of $2M with non-functional engine conversions, dHybrid Systems was sold to Worthington for $16M with known-fatal engineering defects, and finally Nikola scaled the same playbook to $34 billion. At each stage, Milton refined the same core technique — promising revolutionary technology, taking money, delivering nothing functional, then moving on before consequences caught up. The critical insight for investors is that this pattern was fully visible in the public record before Nikola's IPO. Each previous venture left behind lawsuits, angry partners, and failed technology. The Silicon Valley norm of celebrating 'pivots' and 'learning from failure' provides perfect cover for serial fraudsters to rebrand the same con at increasing scale.

@@ -49,12 +49,12 @@ stance: >-
   believe they can reverse the trend almost always end up with nothing rather
   than something.
 related:
-  - INS-260327-4A64
   - INS-260327-E052
   - INS-260327-E7AC
   - INS-260323-79A5
   - INS-260327-B038
-  - INS-260327-F484
+  - INS-260327-4A64
+  - INS-260412-1023
 evidence:
   - id: INS-260323-1BB4
     type: TRANSFERS_TO

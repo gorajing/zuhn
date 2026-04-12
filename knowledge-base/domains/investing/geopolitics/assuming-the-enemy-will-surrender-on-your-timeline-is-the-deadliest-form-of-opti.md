@@ -50,7 +50,6 @@ stance: >-
   at a predictable point systematically underestimate adversary resolve and
   overcommit resources.
 related:
-  - INS-260323-D564
   - INS-260410-5437
   - INS-260327-4419
   - INS-260327-5E93

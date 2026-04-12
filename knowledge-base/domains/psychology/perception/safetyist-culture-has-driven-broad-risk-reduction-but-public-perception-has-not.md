@@ -58,9 +58,9 @@ related:
   - INS-260403-1879
   - INS-260403-3C68
   - INS-260323-BC61
+  - INS-260412-E154
   - PRI-260407-00A1
   - INS-260403-4D04
-  - PRI-260328-E3A7
   - INS-260412-FA41
 ---
 The US has achieved historic lows in crime, car accident fatalities, childhood injuries, and hospital errors through systematic safety interventions — airbags, playground standards, malpractice liability, and policing reforms. Yet public intuition about danger levels has not updated proportionally. This perception gap is driven by availability heuristic (vivid crime coverage is more memorable than statistical trends), negativity bias (threat information is weighted more heavily), and media incentive structures (fear drives engagement).

@@ -45,6 +45,7 @@ related:
   - INS-260321-A56C
   - INS-260329-EAFD
   - INS-260403-5BD6
+  - INS-260412-28C9
 stance: >-
   Most prompting failures stem from mode mismatch — you intend augmentation
   (think together) but signal automation (just execute), or vice versa

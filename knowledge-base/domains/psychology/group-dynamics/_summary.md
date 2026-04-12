@@ -1,6 +1,6 @@
 # Topic: group-dynamics
 
-> 119 insights
+> 120 insights
 
 - `INS-260330-2EB0` [high] The Pueblo Revolt shows that a shared existential threat can override deep tribal divisions — but the unity is temporary.
 - `INS-260403-D609` [high] Enforcers of orthodoxy compete with each other, creating a race to the bottom where any borderline idea gets banned.
@@ -22,6 +22,7 @@
 - `INS-260412-AD6F` [high] Crowds deindividualize people, causing them to match the violence level of the most aggressive members rather than acting on individual judgment.
 - `INS-260330-0FF7` [high] China's One Child Policy created a surplus of 35 million men, making property ownership a prerequisite for marriage and turning housing into inelastic social demand.
 - `INS-260330-6AC1` [high] Developer pecking orders reward complexity theater over actual delivery.
+- `INS-260412-F07F` [high] Lovell and Swigert split attitude control axes between them because neither could manage all three alone under pressure.
 - `INS-260403-3CFB` [high] The neocortex constrains stable social relationships to ~150-230 people, a biological limit unaffected by social media scale.
 - `INS-260403-2A50` [high] A population barely surviving only has energy to survive, while one tasting improvement develops the capacity and desire to demand more.
 - `INS-260403-5216` [high] The right creative peers aren't cheerleaders but fellow practitioners who can tell whether early ugly work has genuine promise.

@@ -4,10 +4,10 @@
 - `INS-260330-1F7E` The solution to social media misinformation is holding platforms liable for what their algorithms promote, not censoring what users post.
 - `INS-260405-F8AE` AI's most dangerous failure modes are inequality amplification and accountability erosion, not the unemployment scenario that dominates public debate.
 - `INS-260412-9805` Angola leveraged simultaneous US and Chinese demand for oil to extract favorable terms from both while avoiding accountability pressure from either.
-- `INS-260402-F3D7` Having an audience prevents the natural tendency to stop thinking at exactly the point where deeper exploration would be most valuable.
 - `INS-260405-966C` Public outcome data enables bias audits that institutions cannot suppress.
 - `INS-260330-790F` Imperfect institutions that can self-correct beat unaccountable personalities who never correct errors.
 - `INS-260330-66E6` Oscillating between 'I'm an expert' and 'I never claimed expertise' is a deliberate rhetorical trick that makes someone impossible to hold accountable.
+- `INS-260402-F3D7` Having an audience prevents the natural tendency to stop thinking at exactly the point where deeper exploration would be most valuable.
 - `INS-260325-D797` The Panic Monster — triggered by looming deadlines or public embarrassment — is the only thing that reliably scares the Instant Gratification Monkey into submission.
 - `INS-260403-D950` Unchecked institutional misconduct escalates predictably because lack of consequences signals that aggression is safe.
 - `INS-260329-6B95` Wherever you assign blame for your situation, you simultaneously assign power over your future outcomes to that same thing.
@@ -23,8 +23,8 @@
 - `INS-260403-10D8` Startups that maintain regular contact with external stakeholders are dramatically less likely to die than those that go silent.
 - `INS-260402-841D` Releasing early transforms problems from interesting puzzles into urgent fires, which is precisely why founders resist it and why it works.
 - `INS-260403-906E` Startups-as-acquisition-targets create better technology faster because developers are directly accountable for building the winner.
-- `INS-260403-0372` Organizations should invest in innovation software when they cannot demonstrate ROI on innovation efforts, not simply when idea volume grows.
 - `INS-260325-3CE2` Structured peer groups of 6-8 founders at similar stages outperform any advisor — EO's 18,000-member model proves this at scale.
+- `INS-260403-0372` Organizations should invest in innovation software when they cannot demonstrate ROI on innovation efforts, not simply when idea volume grows.
 - `INS-260323-46F8` 50% of businesses fail in 2 years because leaders cannot hold teams accountable — the failure is internal culture, not external markets.
 - `INS-260323-5737` Gabbard's daily task of reading every combat injury list name by name never became routine -- this forced daily confrontation with the human cost of policy decisions prevented the normalization that enables bureaucratic indifference.
 - `INS-260330-AA25` Never apologizing works in environments without accountability but creates compounding credibility debt that collapses catastrophically when external pressure arrives.

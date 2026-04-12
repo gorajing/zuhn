@@ -1,10 +1,11 @@
 # Topic: venture-capital
 
-> 302 insights
+> 304 insights
 
 - `INS-260403-6B24` [high] High-profile 2025 IPOs like Figma, Chime, and Navan traded below debut prices even as Nasdaq and S&P 500 rallied.
 - `INS-260405-0CAB` [high] 38% of VCs stopped doing deals in 2023, exposing a large cohort of cycle-dependent tourist investors who entered during the 2020-2021 bull market.
 - `INS-260403-D98E` [high] Acquirers like Google discovered they can buy startups at pre-Series A stage, cutting VCs out of the value chain entirely.
+- `INS-260412-C69B` [high] JP Morgan's $175M acquisition of Frank collapsed because the bank accepted indirect evidence of 4.25M users without independently verifying the customer database.
 - `INS-260405-07DF` [high] European active VCs dropped from 1,955 to 906 in one year, a >50% contraction.
 - `INS-260403-968A` [high] AI startups now command $192.7B and 62.7% of US VC funding while total startup count has dropped from 4,430 in 2022 to 823.
 - `INS-260403-3BFA` [high] AI absorbing 60%+ of global VC funding means LPs are overexposed to the same thesis, firms, and companies regardless of which fund they back.
@@ -16,6 +17,7 @@
 - `INS-260403-5056` [high] Carta's analysis of 60,000+ startups reveals AI capturing 44% of US capital at record valuations while initial equity grants fell 50% since 2022.
 - `INS-260403-5CBD` [high] The top 1% of AI companies now absorb over a third of total VC funding, creating extreme capital concentration reminiscent of early internet dynamics.
 - `INS-260404-BEBB` [high] Record unicorn creation in 2020-2021 was driven by cheap capital, not proportional increases in transformational startups.
+- `INS-260412-E21D` [high] Adam Neumann walked away with $1.7B while thousands of employees faced layoffs, revealing how founder exit packages can create severe moral hazard.
 - `INS-260410-5D08` [high] Innovation ecosystems depend on risk-tolerant investors; one arbitrary crackdown — or even the credible threat of one — can wreck the whole stack for a decade.
 - `INS-260404-0711` [high] Chamath's 2016 India bets around UPI were thesis-correct but timing-wrong, producing losses despite the ecosystem later validating every part of the investment thesis.
 - `INS-260403-4DFB` [high] In rapidly changing domains, evaluating people (earnest, energetic, independent-minded) outperforms evaluating ideas because future discoveries are unpredictable but discoverer traits are not.

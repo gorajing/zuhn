@@ -61,9 +61,9 @@ stance: >-
 related:
   - INS-260403-272E
   - INS-260403-0AE1
+  - INS-260412-7C35
   - INS-260323-3982
   - INS-260322-E06A
-  - INS-260327-4C73
 ---
 Palmer, who studies the history of censorship, has a game: take any era where censors were active, and the things they were obsessed with are invariably not what mattered. The French Enlightenment Inquisition raided a clandestine bookshop and shrugged at Voltaire, Rousseau, Diderot, and the banned Encyclopédie — then threw the book at Jansenist treatises about the nature of the Trinity. When Rome ordered a ceremonial burning of the Encyclopédie, Paris substituted a Jansenist pamphlet instead. The 1545 Index of Banned Books put minor Protestant theologians in ALL CAPS while Machiavelli didn't even make the top tier. Milton's Paradise Lost was censored on one line about astrology while Satan spouting republican anti-monarchical rhetoric passed without comment.
 

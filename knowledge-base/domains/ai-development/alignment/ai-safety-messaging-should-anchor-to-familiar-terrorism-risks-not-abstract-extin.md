@@ -54,6 +54,7 @@ related:
   - INS-260403-BF45
   - INS-260408-11E1
   - INS-260323-BC61
+  - INS-260412-E154
   - INS-260403-AE2C
 ---
 Noah Smith argues that abstract extinction scenarios fail to motivate public action because humans have an ingrained tendency to dismiss risks they haven't personally witnessed. Everyone has seen Terminator, but nobody thinks it's real. However, framing AI dangers as enabling terrorism — like radicals using AI agents to engineer a super-Covid virus — connects to threats people have actually experienced and believe in.

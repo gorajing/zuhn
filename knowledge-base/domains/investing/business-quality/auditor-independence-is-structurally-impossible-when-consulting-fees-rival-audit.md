@@ -62,9 +62,9 @@ stance: >-
 related:
   - INS-260403-CBFF
   - INS-260405-0060
+  - INS-260412-B47E
   - PRI-260406-8EBD
   - INS-260404-312D
-  - INS-260404-EAA7
 ---
 Arthur Andersen made roughly $50M/year from Enron, split nearly evenly between audit/tax fees and consulting fees. Audit clients are sticky and slow to switch; consulting engagements can be terminated overnight. The math meant Andersen partners had a continuous incentive to keep Enron management happy on every accounting judgment call, because half their economics could disappear with one phone call.
 

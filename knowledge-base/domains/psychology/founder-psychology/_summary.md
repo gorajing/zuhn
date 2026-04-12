@@ -1,6 +1,6 @@
 # Topic: founder-psychology
 
-> 29 insights
+> 31 insights
 
 - `INS-260330-D644` [high] Don't start acquisition conversations unless you'd accept a low offer — the distraction and psychological demoralization of entertaining buyers kills more companies than most founders realize.
 - `INS-260405-80B0` [high] Being slightly overconfident armors you against both others' skepticism and your own harsh early-work judgments.
@@ -11,8 +11,10 @@
 - `INS-260403-E3E6` [high] Most founders who take premature corp dev meetings already know it's a mistake but do it anyway because being wanted feels good.
 - `INS-260403-9FEA` [high] 42% of business owners experienced burnout recently, but the early warning signs are culturally celebrated rather than treated.
 - `INS-260330-9BF3` [high] Founder psychology doesn't stabilize with success — the emotional amplitude expands, with higher highs but increasingly devastating lows.
+- `INS-260412-3156` [high] Do Kwon's narcissistic dismissal of critics who correctly predicted Terra's collapse turned fixable design flaws into a $45 billion catastrophe.
 - `INS-260329-1DA3` [high] An expert is someone who has made all the mistakes possible in a narrow field, and the cost of not making those mistakes (staying ignorant) compounds faster than financial debt.
 - `INS-260330-90C3` [high] Jho Low's fake credentials compounded — each lie made the next one easier because people used prior signals as validation.
+- `INS-260412-0ABC` [high] Masayoshi Son's 12-minute investment decision and Alibaba-tier praise gave Neumann an untouchable status that silenced internal dissent.
 - `INS-260329-6BFC` [high] Full passive income without engaging work produces boredom and depression, not the freedom people imagine.
 - `INS-260329-5B3D` [high] Spending to look rich instead of being rich reveals that you've outsourced your self-worth to other people's opinions.
 - `INS-260330-7D83` [high] Travis's 'uber against the world' narrative drove 12-hour workdays and fierce loyalty, but the same combative culture produced internal backstabbing, sexual harassment cover-ups, and employee burnout.

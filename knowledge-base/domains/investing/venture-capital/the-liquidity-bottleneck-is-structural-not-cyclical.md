@@ -48,7 +48,6 @@ stance: >-
   traditional fund structures.
 related:
   - INS-260330-44C7
-  - INS-260403-988C
   - INS-260404-92AA
   - INS-260403-02B8
   - INS-260404-3FBC
@@ -57,6 +56,7 @@ related:
   - PRI-260406-6287
   - INS-260403-AAAC
   - INS-260403-53A0
+  - INS-260403-F0D4
 ---
 The venture capital liquidity crisis extends beyond cyclical exit windows. Companies that might have gone public in 18 months now sit in limbo for 4-5 years, while $5B+ private companies choose to stay private longer than ever. This creates a vicious feedback loop: weak DPI causes LPs to slow re-ups, which squeezes GPs into extending fund lives or chasing follow-on rounds to prop up paper markups.
 

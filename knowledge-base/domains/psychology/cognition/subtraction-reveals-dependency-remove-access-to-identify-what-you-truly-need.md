@@ -44,10 +44,10 @@ stance: >-
   surface hidden psychological dependencies
 related:
   - PRI-260406-1188
+  - INS-260412-BB61
   - PRI-260407-69A9
   - INS-260330-C31B
   - PRI-260405-C27E
-  - INS-260403-2D99
 evidence:
   - id: INS-260330-C31B
     type: SUPPORTS

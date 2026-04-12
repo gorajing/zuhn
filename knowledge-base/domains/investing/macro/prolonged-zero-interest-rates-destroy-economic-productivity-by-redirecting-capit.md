@@ -59,7 +59,8 @@ related:
   - INS-260403-E33B
   - INS-260412-AB8A
   - PRI-260406-5E9A
-  - PRI-260321-2DF0
+  - INS-260412-D3D4
+  - INS-260412-FCF8
 ---
 After 2008, central banks held interest rates near zero for over a decade. This created cheap money that disproportionately flowed into financial speculation rather than productive economic activity — R&D, manufacturing, infrastructure. US GDP per capita never returned to its pre-2008 trend line, and Janet Yellen called productivity 'the most important factor determining continued advancements in living standards.'
 

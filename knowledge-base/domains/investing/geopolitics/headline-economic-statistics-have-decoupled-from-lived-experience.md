@@ -46,10 +46,10 @@ stance: >-
   problem - the statistics are measuring the wrong things.
 related:
   - PRI-260328-6CDE
+  - INS-260412-2C3F
   - INS-260327-EF98
   - INS-260403-BB6B
   - INS-260327-D7DD
-  - INS-260330-39C6
 evidence:
   - id: INS-260330-39C6
     type: TRANSFERS_TO

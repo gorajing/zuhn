@@ -13,8 +13,8 @@
 - `INS-260325-206C` AI Dungeon's near-death from token costs is the cautionary tale: variable-cost AI engines inside fixed-price subscriptions create margin erosion that grows with your best users.
 - `INS-260323-F753` Anthropic has earned $5B revenue against $10B spent; OpenAI's ratio is even worse — both companies lose money on every user query.
 - `INS-260404-F62A` Foundation model businesses are booming in revenue but the path to sustainable profitability remains unclear.
-- `INS-260323-FEAB` Traditional SaaS scales cheaply per user, but AI products have marginal costs that increase with usage — Anthropic spends $8-$135 per dollar of Claude Code subscription revenue.
 - `INS-260412-A9C3` The Concorde burned only 2.5x more total fuel per mile than the Dreamliner, but per-passenger fuel economy was 14 vs 104 mpg — a 7.4x gap.
+- `INS-260323-FEAB` Traditional SaaS scales cheaply per user, but AI products have marginal costs that increase with usage — Anthropic spends $8-$135 per dollar of Claude Code subscription revenue.
 - `INS-260404-19C2` Only 13 of Europe's 50 fintech unicorns are profitable, exposing a systemic gap between valuations and business fundamentals.
 - `INS-260404-2C23` Rubrik's 133% net retention rate proved to investors that growth was organic and sustainable, not acquisition-dependent.
 - `INS-260404-47F3` At $40-50K per implant with 10K units/year target, Neuralink is building a $400-500M/year premium medical device business, not a consumer product.

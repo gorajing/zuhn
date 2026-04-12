@@ -54,7 +54,6 @@ related:
   - INS-260405-051E
   - INS-260405-D4F4
   - INS-260405-0060
-  - INS-260410-001F
 ---
 Costco generates 75% of its revenue from membership fees, not product markup. This fundamentally changes its incentive structure: raising prices saves pennies today but risks losing $60-120 annual renewals. Amazon Prime, by contrast, is optional and self-selecting — it creates loyalty but doesn't restructure the underlying business model.
 

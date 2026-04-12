@@ -27,13 +27,13 @@
 - `INS-260329-FE15` Ground your first business idea in personal pain, professional expertise, or deep passion rather than abstract market research.
 - `INS-260322-2155` Selling frozen dumplings below cost on a recipe-sharing social platform proved market demand existed before investing in infrastructure — the pre-prototype validates the hypothesis, not the product.
 - `INS-260330-F125` The value of what you build is determined by whether people want it, not by how technically interesting or personally exciting it is to you.
+- `INS-260403-0701` Innovation engines should prototype and test business models to reduce uncertainty, not write business plans that create false confidence.
+- `INS-260404-BD46` Unproven business models should be validated through many small experiments rather than detailed business plans.
 - `INS-260404-5D18` Sequoia looks for 'proxy for demand' — what people are doing now with bad tools that proves they need what you're making.
 - `INS-260405-E7FB` Sequoia calls it 'proxy for demand' — what are people doing right now with inadequate tools that proves they need what you're building?
 - `INS-260405-4B31` What are people doing right now with inadequate tools? That story is worth more than any market size number.
 - `INS-260405-7CF9` Pitch only after confirming scalability, large market, and real customer signals — pitching before this burns credibility.
 - `INS-260403-6F75` Founders who equate raising money with product validation often build investor-pleasing businesses instead of customer-pleasing ones.
-- `INS-260403-0701` Innovation engines should prototype and test business models to reduce uncertainty, not write business plans that create false confidence.
-- `INS-260404-BD46` Unproven business models should be validated through many small experiments rather than detailed business plans.
 - `INS-260405-45E0` PMF is the primary predictor of startup success because it confirms that value creation and capture are aligned.
 - `INS-260403-A7D0` Gut-feel product decisions waste time and money building features nobody wants — systematic assumption testing is the mitigation.
 - `INS-260405-839E` AI routinely surfaces more valuable use cases than the ones founders set out to solve.

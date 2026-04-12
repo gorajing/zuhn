@@ -57,6 +57,7 @@ related:
   - INS-260403-D880
   - INS-260403-AC02
   - INS-260404-C189
+  - INS-260412-1C32
 ---
 Smith observes that OpenAI's early framing of its mission as building a godlike superintelligence was an effective recruitment tactic — ambitious engineers are drawn to the possibility of building something world-changing. However, the same narrative becomes a strategic liability when decision-makers internalize it and use it to dismiss concerns about profitability, leverage, market structure, and vertical integration.
 

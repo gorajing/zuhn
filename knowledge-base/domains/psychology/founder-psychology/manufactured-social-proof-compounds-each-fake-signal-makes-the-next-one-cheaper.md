@@ -50,7 +50,6 @@ stance: >-
   that's nearly impossible for individual actors to break.
 related:
   - INS-260323-97A1
-  - INS-260323-FFAC
   - INS-260323-95FE
   - INS-260329-C81C
   - INS-260330-E9D4
@@ -59,6 +58,7 @@ related:
   - INS-260330-04C0
   - INS-260412-8AB6
   - INS-260330-636E
+  - INS-260412-BA99
 evidence:
   - id: INS-260330-4370
     type: CONTRADICTS

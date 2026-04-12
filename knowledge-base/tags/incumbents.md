@@ -34,11 +34,11 @@
 - `INS-260330-EC76` Attack incumbents where their business model or architecture prevents them from responding, not where they're strongest.
 - `INS-260405-7B7C` Companies like Ross, Aldi, Dollar General, and Costco thrived during the 'retail apocalypse,' suggesting Amazon punished bad strategy rather than killed an industry.
 - `INS-260405-A671` Massive acquisition activity in software startups (2024) reflects incumbents buying growth rather than building it, creating exit opportunities for founders.
+- `INS-260321-C513` Avoid building features that incumbents can bundle (like meeting notetakers for Zoom), and avoid pure prompt wrappers that next model releases will obsolete.
 - `INS-260404-8D91` McDonald's had every asset needed for the VDC model but its optimization machinery rejected the concept.
 - `INS-260404-00CD` Patent trolls are parasites seeking rent, but incumbents suing startups are deliberately trying to kill superior products — a far worse outcome for innovation.
 - `INS-260403-E4AD` The next generation of technology is more often built by outsiders tinkering with current systems than by insiders planning the official successor.
 - `INS-260403-924B` The biggest startup opportunities come from using technology to break through consolidated industries, not from inventing new categories.
-- `INS-260321-C513` Avoid building features that incumbents can bundle (like meeting notetakers for Zoom), and avoid pure prompt wrappers that next model releases will obsolete.
 - `INS-260402-3196` IBM's fatal error was granting a non-exclusive DOS license, allowing Microsoft to own the PC standard from within the supply chain.
 - `INS-260403-C4B3` Regulatory compliance costs act as de facto subsidies for large businesses by creating barriers that small competitors cannot easily absorb.
 - `INS-260403-D444` Shrinking an industry's total revenue by 95% is a viable strategy if you capture all of what remains, because incumbents can't follow you down.

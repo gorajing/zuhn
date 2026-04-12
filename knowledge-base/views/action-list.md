@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-12 | 4932 actionable insights
+Generated on 2026-04-12 | 4942 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1050,6 +1050,9 @@ Generated on 2026-04-12 | 4932 actionable insights
 - [INS-260412-E3B4] Theranos operated without a CFO for 10 years, enabling Sunny to present investor projections 10x higher than internal forecasts with no one to challenge them.
 - [INS-260412-BA99] Each prestigious partner a fraudulent company signs makes the next partner less likely to investigate, creating a cascade of unearned credibility.
 - [INS-260412-8EC1] Nikola chose a reverse merger specifically because it avoided the detailed disclosures a traditional IPO would have required, hiding fatal flaws from investors.
+- [INS-260412-2C3F] Nissan making more money from speculative investments than manufacturing cars was a clear signal that Japan's economy had detached from productive activity.
+- [INS-260412-D4E4] Offering instant redemption on illiquid backing is an invitation for bank runs — withdrawal delays are a necessary safety valve.
+- [INS-260412-B47E] Apparent profitability creates a perverse incentive to avoid auditing the profit source, enabling fraud to compound unchecked.
 
 ## investing/business-analysis
 - [INS-260410-91A6] Every generational operator — Buffett, Carnegie, Rockefeller, Izzy Sharp, Ogilvy — grew fastest during downturns by deploying capital into advertising, acquisitions, and hiring while panicked competitors cut back.
@@ -1071,6 +1074,7 @@ Generated on 2026-04-12 | 4932 actionable insights
 
 ## investing/crypto
 - [INS-260412-09EE] Self-referential collateral (own-token backing) guarantees insolvency the moment confidence breaks.
+- [INS-260412-8334] Fixed high yields in DeFi are growth subsidies disguised as returns, and they guarantee eventual insolvency.
 
 ## investing/fintech
 - [INS-260323-825F] The greatest financial innovations came from outsiders — a physicist who counted cards, a mathematician who broke Russian codes, and Einstein's Brownian motion theory — because pattern recognition transfers across domains.
@@ -1243,6 +1247,7 @@ Generated on 2026-04-12 | 4932 actionable insights
 - [INS-260410-FC55] eBay returned 92x the fund because it was already working at the time of investment — the 'risk' was purely in how the UI looked and what people were selling (beanie babies).
 - [INS-260410-F026] The eBay deal likely included 1.5M of founder secondary — and that may have been what prevented Pierre from selling to Knight Ridder for 50M instead of building a 21B company.
 - [INS-260410-228E] Don't sell winners based on growth rate or maturity — sell based on whether decades of growth remain ahead.
+- [INS-260412-C69B] JP Morgan's $175M acquisition of Frank collapsed because the bank accepted indirect evidence of 4.25M users without independently verifying the customer database.
 
 ## music-production/music-marketing
 - [INS-260321-13EA] Release on Friday (international release day) with minimum 4 weeks from master delivery — things go wrong with aggregators, you need time to pitch DSPs, and thinking 'I'll release on Tuesday to fox them' is thinking small.
@@ -1590,6 +1595,7 @@ Generated on 2026-04-12 | 4932 actionable insights
 - [INS-260412-2B91] Russia planned for a 3-5 day war with no logistics fallback, so when Ukraine resisted, the entire invasion apparatus broke down simultaneously.
 - [INS-260412-3BC3] Australia-China trade is nominally mutual but functionally one-directional because severance pain is radically asymmetric.
 - [INS-260412-6318] The UK's 'letters of last resort' model — where PMs pre-commit nuclear retaliation decisions at the start of their term — shows that separating decision-making from decision-execution improves outcomes under extreme stress.
+- [INS-260412-FCF8] SVB had no Chief Risk Officer for 8 months (April 2022 – January 2023) during the exact period when rising rates demanded portfolio rebalancing.
 
 ## psychology/epistemics
 - [INS-260405-2B3F] Treating survey non-response as randomly missing data produces systematically wrong estimates whenever the stigmatized view is also the under-reported one.
@@ -1830,6 +1836,7 @@ Generated on 2026-04-12 | 4932 actionable insights
 - [INS-260403-1228] The right creative peers aren't cheerleaders but fellow practitioners who can accurately judge the potential of ugly early work.
 - [INS-260404-C29F] Surrounding yourself with indiscriminate encouragers teaches you to discount praise — you need peers with calibrated judgment on early work.
 - [INS-260412-1773] Leafcutter ants respond to army ant attacks with instant role-based mobilization — soldiers to frontline, workers to barricades, small teams to flanking — all without central coordination.
+- [INS-260412-F07F] Lovell and Swigert split attitude control axes between them because neither could manage all three alone under pressure.
 
 ## psychology/habits
 - [INS-260405-DC8D] Neutral framing of interruptions ('it doesn't matter how long') removes the shame spiral that prevents return, making recovery from distraction faster and more automatic.
@@ -2484,6 +2491,7 @@ Generated on 2026-04-12 | 4932 actionable insights
 - [INS-260410-1D7A] Sol Price's 'intelligent loss of sales' principle: forgo customers who only need 3 oz of WD-40 so you can carry only the 8 oz can — the SKU reduction unlocks logistics, labor, and supplier benefits that dwarf the lost revenue.
 - [INS-260410-EFD5] Costco's refusal to raise the hot dog or rotisserie chicken price is a deliberate sacred anchor — the signal that the whole store is cheap is worth far more than the margin.
 - [INS-260412-F566] As merely wealthy people travel to be seen, the ultra-wealthy increasingly pay premium prices to disappear — making privacy itself the ultimate luxury product.
+- [INS-260412-3AF6] WeWork's 15-year lease commitments against month-to-month tenant revenue created an unhedgeable duration mismatch that any economic downturn would expose.
 
 ## startups/co-founders
 - [INS-260323-0B5E] Teams that default to 'more meetings and re-strategizing' instead of shipping are using planning as emotional avoidance of the market test they fear.
@@ -3384,6 +3392,7 @@ Generated on 2026-04-12 | 4932 actionable insights
 - [INS-260409-3CCA] Writing the story doesn't feel like work, so founders skip the most important part of the job.
 - [INS-260410-EA10] Unlike fighting dragons, companies only die when founders quit — so cultivate survival obsession over strategic certainty.
 - [INS-260412-71C6] Trevor Milton's pattern of defrauding buyers and partners repeated identically across four companies over 15 years, escalating in scale each time.
+- [INS-260412-1C32] Javice's core skill was generating media coverage and crafting narratives — ink magazine, Forbes 30 Under 30, podcasts — while her actual products consistently failed to deliver on claims.
 
 ## startups/fundraising
 - [INS-260322-A02C] At pre-seed and seed stage, investors and early customers are betting on the founder's story and character, not the product.
@@ -4357,6 +4366,7 @@ Generated on 2026-04-12 | 4932 actionable insights
 - [INS-260412-2785] F1 priority pallets contain wall panels and electrical systems — not the most valuable items, but the ones needed first for assembly.
 - [INS-260412-5523] F1 teams ship 5 duplicate sea kits months ahead so bulky equipment is always waiting at the next venue, avoiding expensive air freight.
 - [INS-260412-B136] Barrow's single annual barge window means any vehicle, building material, or large equipment order is a once-per-year decision with no correction opportunity until the next summer.
+- [INS-260412-1DBF] Leeson was both head of Singapore trading operations AND in charge of Singapore accounting, making his fraud invisible to standard oversight.
 
 ## startups/organizational-design
 - [INS-260405-346A] Org structure is fundamentally a filter—it determines which conflicts are visible to leadership and which are suppressed before surfacing.

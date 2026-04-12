@@ -46,11 +46,11 @@ stance: >-
   funds, it signals the same liquidity-duration mismatch that causes traditional
   bank runs, just in a less regulated wrapper.
 related:
+  - INS-260412-D4E4
   - INS-260404-B496
   - PRI-260406-6287
   - INS-260409-526E
   - PRI-260406-6895
-  - PRI-260406-91C2
 evidence:
   - id: INS-260322-A31D
     type: TRANSFERS_TO

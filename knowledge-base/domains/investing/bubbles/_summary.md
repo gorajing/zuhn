@@ -1,6 +1,6 @@
 # Topic: bubbles
 
-> 85 insights
+> 93 insights
 
 - `INS-260325-FC0B` [high] About 30% of investors who panic sell during crashes never return to equities, missing massive subsequent gains.
 - `INS-260403-52FF` [high] Carta data shows sub-$10M funds hit 90th percentile TVPI of ~4.03x while $100M+ funds only reach ~1.67x, and 73% of top-performing funds are Fund I or II.
@@ -23,12 +23,14 @@
 - `INS-260329-7372` [high] College ROI is inversely correlated with family wealth — the wealthiest families get the least financial return but push it hardest.
 - `INS-260329-191D` [high] College tuition has doubled in recent decades while starting salaries stayed flat, creating $1.76 trillion in student debt that exceeds most nations' GDP.
 - `INS-260329-F443` [high] College costs doubled in recent decades while median starting salaries remained flat, creating $1.76 trillion in student debt that cannot be discharged in bankruptcy.
+- `INS-260412-084F` [high] SVB's 50% market share of US VC-backed startups meant a tech downturn simultaneously increased withdrawals while decreasing new deposits.
 - `INS-260330-C1EA` [high] Chinese households save nearly 40% of disposable income but funnel 70% of wealth into real estate because domestic stocks are volatile and banks are distrusted.
 - `INS-260404-6B73` [high] DeepSeek R1 wiped nearly a trillion dollars in market value by proving frontier AI doesn't require frontier spending.
 - `INS-260323-114D` [high] $178.5B in data center credit deals in 2025 alone, funded by junk-grade debt, for customers that are unprofitable AI startups — this is the financial crisis vector, not software disruption.
 - `INS-260403-738F` [high] Companies invest in AI infrastructure defensively, then can't admit it isn't working because they've already spent too much.
 - `INS-260412-0846` [high] The same speculative instruments get banned after crashes and re-legalized once the generation that lived through them is gone.
 - `INS-260403-988C` [high] Banks that chased yield in long-duration bonds during zero-rate years faced catastrophic unrealized losses when the Fed hiked aggressively, triggering depositor runs.
+- `INS-260412-D3D4` [high] The 2008-2022 low-rate era created competitive pressure among investors and acquirers that made skepticism more costly than gullibility, enabling serial fraudsters like Javice, Holmes, and Bankman-Fried.
 - `INS-260412-E3B4` [high] Theranos operated without a CFO for 10 years, enabling Sunny to present investor projections 10x higher than internal forecasts with no one to challenge them.
 - `INS-260325-51E6` [high] When a financial product reaches retail investors through social media, institutions have already captured the easy returns — what's left is mostly risk.
 - `INS-260325-F0CE` [high] Philip Tetlock's research shows expert financial forecasts are no better than average person predictions, and no one predicted the major market-moving events of recent years.
@@ -38,6 +40,7 @@
 - `INS-260325-803C` [high] Financial media does not sell content to viewers — it sells viewers to advertisers — which is why everything is presented as an existential threat designed to capture attention rather than inform decisions.
 - `INS-260330-E43F` [high] China's cities receive 40% of tax revenue but bear 80% of expenses, forcing them to use land sales as their primary funding mechanism.
 - `INS-260404-EEAF` [high] Most fortunes are destroyed by bad investments rather than extravagant spending because investments bypass our innate alarms about self-indulgence.
+- `INS-260412-D4E4` [high] Offering instant redemption on illiquid backing is an invitation for bank runs — withdrawal delays are a necessary safety valve.
 - `INS-260412-A54C` [high] BlackRock and eight other institutional players quietly extracted $16B from the GameStop squeeze while retail investors held through the decline, demonstrating that Wall Street always finds a way to win.
 - `INS-260325-0688` [high] The loser's game framework shows that investing success comes from minimizing errors, not maximizing returns.
 - `INS-260325-9DBB` [high] Like amateur tennis, investing is won not by brilliant plays but by making fewer mistakes than your opponent.
@@ -56,15 +59,18 @@
 - `INS-260324-72E8` [high] After the dot-com crash, VCs stopped rushing to IPO — they now use series C/D/E/F rounds to supercharge growth, inflate valuations through closed circles, and exit at peak before public investors bear the loss.
 - `INS-260412-D883` [high] Pre-sale financing that funds new projects instead of completing sold ones creates Ponzi dynamics that collapse when demand growth decelerates.
 - `INS-260323-500B` [high] The stock market is a voting machine short-term but a weighing machine long-term — the edge comes from knowing the difference between price and value.
+- `INS-260412-B47E` [high] Apparent profitability creates a perverse incentive to avoid auditing the profit source, enabling fraud to compound unchecked.
 - `INS-260403-CF98` [high] McDonald's was one of only two Dow Jones stocks to increase in value during 2008, and has raised dividends for 25+ consecutive years, because its real estate base provides stability that food margins never could.
 - `INS-260403-EFFB` [high] The source of yield — real borrower payments vs. token emissions — is the single most important distinction in evaluating any DeFi product.
 - `INS-260412-8EC1` [high] Nikola chose a reverse merger specifically because it avoided the detailed disclosures a traditional IPO would have required, hiding fatal flaws from investors.
 - `INS-260323-C8AC` [high] The SaaS selloff blamed on AI disruption is actually the end of a decade-long hypergrowth era — hundreds of billions in private-equity-held software companies are worth less than their acquisition price.
+- `INS-260412-3EFA` [high] Japan's window guidance system first directed capital into productive sectors, then became the engine of reckless lending that created the bubble.
 - `INS-260325-9AD4` [high] Instead of researching why you should buy an investment, research why you should not — if you cannot find a compelling reason against it, that is a stronger signal than all the confirming evidence combined.
 - `INS-260324-27E2` [high] Before AI it was big data, before that crypto/web3, before that VR/AR, before that IoT/wearables — Silicon Valley recycles the same pump-and-dump playbook with a new technology name every 3-5 years.
 - `INS-260327-1D23` [high] Markets crashed trillions in days then recovered almost immediately because reflexivity means expectations don't just predict reality - they change it, creating self-amplifying loops.
 - `INS-260330-44C7` [high] Investing $10,000 at age 22 at 10% yields $600K by retirement versus $232K starting at 32 — the 10-year head start nearly triples the outcome at the same return rate.
 - `INS-260327-D7DD` [high] When real estate is unaffordable, bonds are unattractive, and savings accounts lose to inflation, stocks become the only game in town regardless of fundamentals.
+- `INS-260412-CE4D` [high] WeWork's tech narrative sustained a $47B valuation that collapsed 80% once IPO filings revealed it was losing $5,000 per new customer.
 - `INS-260327-F9C3` [high] VCs need radical ideas and founders want to start businesses on someone else's dime -- both sides must perform to reach the same payday, and since winning once in tech is enough, there is a near-infinite pool of aspiring participants willing to forgive past failures.
 - `INS-260323-35D4` [high] Bain Capital estimates $2T in revenue needed to justify AI spending but only ~$55B exists — Deutsche Bank says continued parabolic spending is the only path, which they call 'very unlikely.'
 - `INS-260327-9638` [high] Everything from stocks to real estate to meme coins has experienced massive price increases fueled primarily by wealthy speculators running out of things to invest in.
@@ -77,12 +83,14 @@
 - `INS-260405-D9DF` [medium] AI bubble concerns are the market's early signal that expectation-to-delivery gaps are becoming too large to ignore.
 - `INS-260403-B0E3` [medium] Circular investment chains in AI infrastructure create fragility where one valuation drop can cascade through the entire system.
 - `INS-260327-5D13` [medium] If everybody has agreed the AI market is a bubble, then why are informed investors still piling billions into it every month - are they dumber than retail investors or do they see something different?
+- `INS-260412-2C3F` [medium] Nissan making more money from speculative investments than manufacturing cars was a clear signal that Japan's economy had detached from productive activity.
 - `INS-260323-5C25` [medium] Coreweave — backed by Nvidia, Blackstone, JP Morgan, Goldman — projects $23B negative free cash flow in 2026; if the best-positioned AI infrastructure borrower can't raise debt, smaller players are finished.
 - `INS-260323-F12F` [medium] AI data centers take 1-2 years to build but GPUs become obsolete in 3-6 years — by the time they turn on, the hardware is already outdated and the customers (unprofitable AI startups) can't pay.
 - `INS-260405-7576` [medium] Data center capex is matching dot-com-era contributions to GDP growth, raising legitimate bubble-pattern concerns.
 - `INS-260403-3C81` [medium] The post-2000 tech market didn't re-bubble because acquisition-based exits are structurally less prone to irrational exuberance than IPO-based exits.
 - `INS-260403-912C` [medium] A five-factor bubble framework comparing economic strain, returns, valuations, and funding quality shows AI is overheated in some dimensions but grounded in others.
 - `INS-260330-808B` [medium] When Standard Oil was broken into 34 companies, investors nearly tripled Rockefeller's share value because each independent company was valued higher than its fraction of the whole — the classic conglomerate discount in reverse.
+- `INS-260412-1DAA` [medium] Barings' 230-year reputation masked that its operations were outdated, its controls were weak, and its staff couldn't understand modern derivatives.
 - `INS-260403-F6D2` [medium] An entire industry can succeed wildly while flagship companies within it fail, leaving concentrated investors holding the bag.
 - `INS-260323-D288` [medium] When OpenAI and Anthropic file S-1s for IPO, the forced financial transparency will likely trigger a WeWork-style reassessment — Anthropic has leaked inconsistent revenue figures and OpenAI plans to burn $200B+ even at optimistic revenue targets.
 - `INS-260324-5C53` [medium] OpenAI is Netscape (first mover, no moat), Nvidia is Sun+Cisco (shovel seller), hyperscalers are Exodus Communications (building for demand that hasn't materialized).

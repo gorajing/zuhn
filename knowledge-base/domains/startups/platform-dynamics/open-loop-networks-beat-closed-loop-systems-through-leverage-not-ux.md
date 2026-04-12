@@ -65,6 +65,7 @@ related:
   - INS-260329-B194
   - INS-260410-90C5
   - INS-260330-7D6D
+  - INS-260412-C69B
 ---
 American Express ran a closed-loop system where it was both the issuing bank and the acquiring bank — it owned the full stack and could offer a polished, consistent experience on both sides. Visa, by contrast, was a bank-of-banks: each bank it signed up brought pre-existing consumer and merchant relationships into the network without Visa having to build them. This network-of-networks leverage meant Visa could add tens of millions of nodes with marketing and contracts instead of branch openings and underwriting.
 

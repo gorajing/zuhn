@@ -51,8 +51,8 @@ related:
   - INS-260402-B653
   - INS-260403-6BA6
   - INS-260404-00DE
+  - INS-260412-5932
   - INS-260402-5C89
-  - INS-260403-8C41
 ---
 Until March 2020, banks were required to hold at least 10% of deposits in reserve, creating a theoretical ceiling on money multiplication. The Fed eliminated this requirement entirely, meaning banks can now create unlimited digital money through lending with no reserve backing whatsoever.
 

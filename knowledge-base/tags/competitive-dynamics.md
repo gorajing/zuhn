@@ -1,8 +1,8 @@
 # Tag: competitive-dynamics
 
+- `INS-260403-C8EF` Anthropic's designation as a 'supply chain risk' for refusing surveillance use demonstrates that AI safety positions carry direct commercial punishment.
 - `INS-260327-C15B` Anthropic subsidizing Claude Code with model profits creates pricing pressure that independent coding tool startups cannot match, forcing them to compete on product quality rather than cost.
 - `INS-260403-8A65` DeepSeek R1 matched OpenAI o1's benchmarks within months of o1's release, as a free open-source model.
-- `INS-260403-C8EF` Anthropic's designation as a 'supply chain risk' for refusing surveillance use demonstrates that AI safety positions carry direct commercial punishment.
 - `INS-260410-D0F5` AI lab competition has so far neutralized every supposed flywheel, with talent flow and reverse-engineering keeping rivals close.
 - `INS-260403-83F3` AI prototyping tools compete on hosting architecture (browser-side vs. real cloud vs. full database) rather than code generation quality.
 - `INS-260412-46A7` Russia's policy of granting Siberian overflight to only one airline per European country creates de facto monopolies on Asia routes for legacy carriers.
@@ -48,6 +48,7 @@
 - `INS-260327-F651` Theme parks compete through a capital expenditure arms race where each new ride must be bigger and more expensive than t
 - `INS-260327-9018` Fintech companies that tried to disrupt remittances discovered that the last-mile challenge is physical cash distributio
 - `INS-260327-5973` Donut economics work because the product cost is trivially low relative to the selling price, making even modest volume 
+- `INS-260412-0275` The US engineered the Plaza Accord to force Japan to appreciate the yen and handicap its own exporters, despite being Japan's closest ally.
 - `INS-260330-FF09` The same focus that builds a monopoly prevents the company from destroying it, even when survival requires exactly that.
 - `INS-260412-F909` Chinese airlines' 63-67% on-time rates stem from military control of 70% of airspace—a structural constraint rail doesn't face.
 - `INS-260403-E482` Yahoo rejected Google's $1M/year search deal and later a $3B acquisition because accepting either would acknowledge Google's technology was superior.
@@ -65,10 +66,10 @@
 - `INS-260327-CC05` In SEO spam, mobile apps, and crypto ICOs, the sloppers all followed the same 'turkey graph' — looked like winning early, then collapsed. AI slop will be no different.
 - `INS-260405-F03A` Plants evolved RuBisCo in a low-oxygen atmosphere, then produced the very oxygen that made RuBisCo increasingly dysfunctional — a trap where success altered the environment enough to undermine the mechanism of success.
 - `INS-260412-F93A` F1 forbids teams from touching freight until all teams' equipment has arrived, ensuring no one gets a head start on assembly.
+- `INS-260404-00CD` Patent trolls are parasites seeking rent, but incumbents suing startups are deliberately trying to kill superior products — a far worse outcome for innovation.
 - `INS-260403-4960` Tell investors truthfully about competing interest to create real urgency, but never exaggerate — investors are hypersensitive to manipulation.
 - `INS-260412-829C` Walgreens invested $105M partly because they feared Safeway would land the partnership first.
 - `INS-260402-A3DB` Coordinate first meetings within a 2-3 week window and manage all funds on parallel timelines to create a competitive market for your equity.
-- `INS-260404-00CD` Patent trolls are parasites seeking rent, but incumbents suing startups are deliberately trying to kill superior products — a far worse outcome for innovation.
 - `INS-260412-CAEF` Amtrak's 98.6% of delays come from freight companies who own the tracks and naturally prioritize their own trains.
 - `INS-260405-474C` ChatGPT's capabilities set the expectation ceiling for every AI product, regardless of use case.
 - `INS-260404-6D22` A structured competitive sale reliably adds 1-2x ARR premium over bilateral negotiations, worth millions on even modest ARR bases.

@@ -1,5 +1,7 @@
 # Tag: hubris
 
+- `INS-260412-3156` Do Kwon's narcissistic dismissal of critics who correctly predicted Terra's collapse turned fixable design flaws into a $45 billion catastrophe.
+- `INS-260412-0ABC` Masayoshi Son's 12-minute investment decision and Alibaba-tier praise gave Neumann an untouchable status that silenced internal dissent.
 - `INS-260328-F752` VCs dismissing batch-model investing by claiming they already know all the good companies are admitting they view venture as a zero-sum commodity business.
 - `INS-260323-78A5` Casper rejected Target's $900M acquisition offer because it wasn't a billion dollars; the company IPO'd at $500M, then continued dropping — the unicorn ego cost investors hundreds of millions.
 - `INS-260322-9172` Successful brands ask fundamental questions and act fast on answers; failing brands have CEOs who already decided the answer and insist 'just do it this way.'

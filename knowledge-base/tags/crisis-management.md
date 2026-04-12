@@ -1,5 +1,6 @@
 # Tag: crisis-management
 
+- `INS-260412-6F0E` When multiple systems fail simultaneously, the hardest decision is which failure to address first.
 - `INS-260330-7987` In crisis, making one small correct decision at a time toward safety beats trying to solve the whole problem at once.
 - `INS-260404-B6B1` Taking full responsibility during a crisis isn't just virtuous — it functionally increases survival odds by keeping the founder in problem-solving mode rather than blame mode.
 - `INS-260330-7A80` Panic is the collapse of sequential reasoning — restoring it requires forcing yourself to make one decision at a time rather than trying to solve the whole crisis simultaneously.

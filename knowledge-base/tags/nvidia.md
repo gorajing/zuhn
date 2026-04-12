@@ -18,10 +18,10 @@
 - `INS-260323-6230` NVIDIA chose gaming as its first market because it was large enough to fund massive R&D, creating a flywheel between technology investment and market scale that later enabled the AI revolution.
 - `INS-260323-750A` Nvidia investing $30B in OpenAI while OpenAI buys Nvidia chips is circular financing — the market has remained irrational but 70% of fund managers now see AI as overvalued.
 - `INS-260404-183A` Meta choosing NVIDIA Grace CPUs over Intel/AMD shows GPU vendors are expanding into full compute stacks, threatening incumbent CPU makers.
-- `INS-260404-6B73` DeepSeek R1 wiped nearly a trillion dollars in market value by proving frontier AI doesn't require frontier spending.
-- `INS-260324-5C53` OpenAI is Netscape (first mover, no moat), Nvidia is Sun+Cisco (shovel seller), hyperscalers are Exodus Communications (building for demand that hasn't materialized).
 - `INS-260410-2B55` AlexNet happened in 2012 and Nvidia was at the center of it, yet Nvidia stock didn't reclaim its 2007 market cap until 2016 — four full years of mispricing despite Jensen openly telling investors what was happening on earnings calls.
 - `INS-260410-D42F` Enterprises re-architect data centers at most once a decade — whoever wins the current AI transition locks in revenue for 5-10 years regardless of whether the hype holds.
+- `INS-260404-6B73` DeepSeek R1 wiped nearly a trillion dollars in market value by proving frontier AI doesn't require frontier spending.
+- `INS-260324-5C53` OpenAI is Netscape (first mover, no moat), Nvidia is Sun+Cisco (shovel seller), hyperscalers are Exodus Communications (building for demand that hasn't materialized).
 - `INS-260403-8A28` Firms like Tiger Global and Insight Partners have had multiple portfolio companies acquired by Nvidia in the past two years, revealing how concentrated AI exit paths have become.
 - `INS-260321-D484` Jensen predicts $1T in NVIDIA bookings through 2027, but TSMC manufacturing is the real bottleneck — NVIDIA has locked up 70% of TSMC's 3nm node capacity.
 - `INS-260321-21BE` Google's TPU (Tensor Processing Unit) is already competitive for AI workloads, but NVIDIA's software ecosystem moat delays competitors — the 90% monopoly era will gradually end.

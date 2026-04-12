@@ -48,7 +48,7 @@ related:
   - INS-260402-3A0D
   - INS-260409-526E
   - INS-260330-579B
+  - INS-260412-BB61
   - INS-260323-9C11
-  - PRI-260403-88F5
 ---
 CERN makes 10^10 antiprotons per year — plenty in count — but the practical scarcity comes from the fact that antimatter annihilates on contact with any normal matter. The real achievement was not particle creation but a Penning trap (magnetic + electric confinement in 4K ultra-vacuum) that now holds antiprotons for 614+ days. Generalize: when something is 'expensive per gram' or 'hard to get,' ask whether the binding constraint is production volume or storage/transport/handling. In batteries, vaccines, exotic chemicals, and hazardous materials, the containment and logistics cost dominates. Press narratives almost always attribute scarcity to the flashy creation step while engineers solve the boring shelf-life problem.

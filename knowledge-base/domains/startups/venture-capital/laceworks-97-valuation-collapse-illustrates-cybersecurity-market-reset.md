@@ -46,8 +46,8 @@ stance: >-
 related:
   - INS-260327-4E34
   - PRI-260406-5E9A
+  - INS-260412-CE4D
   - PRI-260328-0993
   - INS-260403-0D24
-  - PRI-260405-5912
 ---
 Lacework was last valued at $8.3B in 2021, making it one of the most prominent cybersecurity unicorns. By 2024 it was in talks to sell for $150-200M — roughly a 98% decline. This isn't merely a bad outcome; it's evidence that the 2021 valuation was almost entirely a function of the zero-interest-rate environment inflating multiples on revenue, not sustainable business economics. For investors, it's a reminder that paper markups on follow-on rounds in a frothy market can evaporate entirely. For founders, it illustrates how chasing top-of-market valuations can create a cap table and expectation structure that becomes impossible to survive a downturn.

@@ -53,7 +53,6 @@ related:
   - PRI-260328-7F20
   - INS-260330-383F
   - INS-260403-4102
-  - INS-260330-D0B4
 evidence:
   - id: INS-260323-47B0
     type: TRANSFERS_TO

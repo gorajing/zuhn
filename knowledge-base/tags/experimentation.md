@@ -27,6 +27,10 @@
 - `INS-260410-86A5` YouTube Shorts drove at least half of Dwarkesh's podcast growth — a channel he would never have predicted for a long-form deep-dive AI show.
 - `INS-260323-8165` Run daily marketing experiments, calculate cost-per-customer for each, and pour everything into the cheapest acquisition channel.
 - `INS-260327-7C6B` Consistency alone causes plateaus, virality alone causes sugar-crash comedowns — real growth is consistency x experimentation.
+- `INS-260405-6F45` Before PMF, your job is to discover, not to deliver — treating a startup like a Fortune 500 kills the learning loop.
+- `INS-260327-2386` If something takes less than 3 minutes and seems interesting, do it right now — do not wait, because most of the time failure is great if you fail fast.
+- `INS-260329-4A09` When a business experiment fails, you're not back at zero — you're at your previous position plus one experience point, and enough experience points trigger a level-up.
+- `INS-260410-419F` Amazon's success was a philosophically straight line, a strategically squiggly line, and a tactically random set of dots through a maze of failed bets.
 - `INS-260403-96F9` Like a brainless virus that outpaces scientists through sheer mutation speed, startups find PMF by running many cheap experiments faster than competitors can think.
 - `INS-260405-5617` When regulations prevent informed, consenting adults from voluntarily joining early-stage experiments, the cost is paid in slower iteration cycles and delayed learning — not just in lost individual freedom.
 - `INS-260403-71A6` The gap between understanding customers and testing ideas is where most innovation efforts stall — closing that gap through systematic linking is the key leverage point.
@@ -40,10 +44,6 @@
 - `INS-260404-BD46` Unproven business models should be validated through many small experiments rather than detailed business plans.
 - `INS-260403-910E` Internal innovation should follow VC portfolio logic: many small bets filtered by evidence, not executive intuition.
 - `INS-260405-0A6D` Portfolio innovation strategy only works if you actually exit the failures fast—without a kill discipline, you accumulate zombie projects that consume resources and produce nothing.
-- `INS-260405-6F45` Before PMF, your job is to discover, not to deliver — treating a startup like a Fortune 500 kills the learning loop.
-- `INS-260327-2386` If something takes less than 3 minutes and seems interesting, do it right now — do not wait, because most of the time failure is great if you fail fast.
-- `INS-260329-4A09` When a business experiment fails, you're not back at zero — you're at your previous position plus one experience point, and enough experience points trigger a level-up.
-- `INS-260410-419F` Amazon's success was a philosophically straight line, a strategically squiggly line, and a tactically random set of dots through a maze of failed bets.
 - `INS-260405-A6BA` Test your riskiest business assumptions before writing a single line of code.
 - `INS-260403-3569` Nine experiment archetypes let founders systematically match the cheapest test to each business assumption.
 - `INS-260403-D379` Spend the least on experiments when you know the least, and increase stakes only as validated learning reduces uncertainty.

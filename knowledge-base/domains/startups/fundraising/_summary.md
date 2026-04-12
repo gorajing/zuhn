@@ -1,6 +1,6 @@
 # Topic: fundraising
 
-> 464 insights
+> 465 insights
 
 - `INS-260323-E9E4` [high] Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead.
 - `INS-260330-09FF` [high] A YC company that was incorrectly converted from a Connecticut LLC to a Delaware C-Corp accumulated a $500K legal bill across four law firms when the error surfaced during a major fundraise.
@@ -216,6 +216,7 @@
 - `INS-260403-3D38` [high] Founders are investors buying stock with work, so downturns represent the same buying opportunity for them as for financial investors.
 - `INS-260402-3D61` [high] Glanville pushed through exhausting fundraising to curate investors who shared his long-term vision, resisting advice to take whatever money was available.
 - `INS-260404-DE04` [high] Regulatory shifts can rapidly undermine entire regional startup ecosystems independent of talent and capital availability.
+- `INS-260412-D937` [high] SVB's CEO lobbied Congress in 2015 to exempt mid-size banks from Dodd-Frank stress testing, got his wish in 2018, then the bank collapsed from exactly the risks those tests would have caught.
 - `INS-260403-9DEC` [high] Sapphire Ventures' modeling shows concentrated reserves lift net returns from 4.0x to 5.0x, while broad pro-rata follow-ons sink them to 3.3x — and missing the breakout drops returns to 2.5x.
 - `INS-260403-EB97` [high] Revenue growth deceleration simultaneously exposes capitalized commissions, deferred expenses, and inflated efficiency metrics that were hidden during high-growth periods.
 - `INS-260403-2F60` [high] Model how proceeds actually distribute across the cap table before committing capital, because headline valuations mask who really gets paid.

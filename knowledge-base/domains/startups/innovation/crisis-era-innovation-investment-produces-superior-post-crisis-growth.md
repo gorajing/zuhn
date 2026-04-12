@@ -48,10 +48,10 @@ stance: >-
   field while building capabilities competitors abandoned.
 related:
   - INS-260327-DD1D
+  - INS-260412-084F
   - PRI-260328-A4AC
   - PRI-260324-12CF
   - INS-260323-8C53
-  - PRI-260328-0993
 ---
 Research consistently shows that companies maintaining innovation investment during economic crises experience superior growth and performance afterward. The intuition to cut innovation budgets during uncertainty is widespread but counterproductive — it sacrifices future positioning precisely when competitors are also pulling back, creating a wider field for those who stay the course.
 

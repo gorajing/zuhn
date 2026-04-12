@@ -46,11 +46,11 @@ stance: >-
   system's theoretical merits is a category error that distracts from the actual
   problem.
 related:
-  - INS-260403-7471
   - INS-260404-9C25
+  - INS-260403-7471
+  - INS-260412-6F0E
   - INS-260325-5023
   - INS-260327-9F46
-  - INS-260321-1A0B
 evidence:
   - id: INS-260403-7471
     type: CHALLENGES

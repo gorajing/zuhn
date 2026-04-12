@@ -59,10 +59,10 @@ stance: >-
   industry materially reduces talent leakage and information bleed.
 related:
   - INS-260412-8DF5
+  - INS-260412-98B1
   - INS-260327-B4B3
   - INS-260410-270E
   - INS-260402-B42C
-  - INS-260329-E45A
 ---
 Every description of Rentech's campus sounds like an academic retreat: tennis courts, winding paths, colleagues who know each other's kids. The flip side is equally important — nobody at Rentech bumps into quants from Citadel at a Manhattan bar, trades gossip, or gets casually recruited away. The dense social graph that makes finance leaky in New York simply doesn't exist in East Setauket.
 

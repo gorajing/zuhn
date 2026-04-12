@@ -1,6 +1,6 @@
 # Topic: resilience
 
-> 180 insights
+> 182 insights
 
 - `INS-260325-DF82` [very_high] Events are not traumatic — they are potentially traumatic — because the same event produces resilience in most people and lasting harm in a minority, meaning trauma is in the response, not the event.
 - `INS-260327-48BA` [high] Most suffering about change comes from resisting it rather than from the change itself - accepting impermanence eliminates the anxiety of trying to freeze what cannot be frozen.
@@ -34,6 +34,7 @@
 - `INS-260404-F8E6` [high] Great work almost always looks lame at first; the fear of that lameness is the primary killer of ambitious projects.
 - `INS-260403-5EE3` [high] Applying finished-work standards to early-stage projects is a category error that destroys ambitious work.
 - `INS-260403-FE41` [high] Most great projects go through a phase where they look terrible even to their creators, and most people quit before pushing through it.
+- `INS-260412-1F69` [high] Japan's Lost Decade created the hikikomori phenomenon — 63,000+ middle-aged shutins still living with aging parents decades later.
 - `INS-260403-7475` [high] Body-based interventions outperform medication and pure talk therapy for trauma because trauma is stored in survival circuitry, not narrative memory.
 - `INS-260327-9F46` [high] Ever tried. Ever failed. No matter. Try again. Fail again. Fail better. - When failure is the expected method rather than the feared outcome, it loses its paralyzing power.
 - `INS-260327-6021` [high] Spinoza didn't say stop feeling - he said understand why you feel, because understanding transforms overwhelming emotions into manageable ones.
@@ -74,6 +75,7 @@
 - `INS-260330-A47B` [high] Just as biological systems require cellular death to prevent cancer, psychological health requires voluntarily killing off bad ideas and identities before they become tyrannical.
 - `INS-260326-0894` [high] Organic systems (bodies, economies, psyches) communicate with their environment through stressors and require variability to remain healthy — removing all volatility is the disease Taleb calls interventionism.
 - `INS-260329-03C1` [high] When you force yourself to name the specific person whose judgment you fear, you realize it's usually someone who won't even be at your funeral.
+- `INS-260412-987F` [high] Lovell's crew didn't avoid panic through heroism—they recognized panic as wasted time that returns you to the same starting point.
 - `INS-260329-F21F` [high] Passion emerges from competence, not the other way around — so pick based on opportunity, not feeling.
 - `INS-260330-633F` [high] Passion ignites the rocket but burns out fast; curiosity is the propellant that keeps you in orbit for decades.
 - `INS-260329-3ED9` [high] Poor people flip the gratification equation: pleasure now, pain later — then are surprised when 'later' arrives as today.

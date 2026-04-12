@@ -1,17 +1,18 @@
 # Tag: geopolitics
 
 - `INS-260405-6A6F` AI agents that can code and reason may nullify the workforce scale advantage that underpins China's tech sector.
-- `INS-260321-86F1` China is stealing American AI models, removing all guardrails, and potentially deploying them against the US — creating an absurd scenario where America fights with one arm tied behind its back against its own technology.
-- `INS-260321-3C8A` AI labs fight viciously against each other for dominance but frame the global AI race as positive-sum — the actual zero-sum game is between nations, and the labs don't see it.
-- `INS-260408-A0F5` Hassabis would have preferred CERN-like collaboration on AGI; ChatGPT going viral forced commercial pressure that changed the entire industry's pace.
-- `INS-260322-AFE9` AI application to specific industries has no proven playbook anywhere in the world, making benchmarking-based strategy obsolete.
 - `INS-260403-474E` Palantir CEO Alex Karp argues that banning AI superintelligence development in the US would hand technological and ideological influence to global rivals rather than making the world safer.
 - `INS-260403-A68D` Major AI pause advocates (Pause AI, Yudkowsky, Krueger) all explicitly call for international treaties, not unilateral action.
 - `INS-260323-636C` Netanyahu's game-theoretic observation: no nation will voluntarily slow AI development to cooperate on regulation — universal AI regulation may only become possible if AI threatens all nations simultaneously.
 - `INS-260403-D7EF` DeepSeek R1's built-in censorship on politically sensitive topics demonstrates that state alignment creates structural bias that persists despite jailbreak attempts.
+- `INS-260321-86F1` China is stealing American AI models, removing all guardrails, and potentially deploying them against the US — creating an absurd scenario where America fights with one arm tied behind its back against its own technology.
+- `INS-260321-3C8A` AI labs fight viciously against each other for dominance but frame the global AI race as positive-sum — the actual zero-sum game is between nations, and the labs don't see it.
+- `INS-260408-A0F5` Hassabis would have preferred CERN-like collaboration on AGI; ChatGPT going viral forced commercial pressure that changed the entire industry's pace.
+- `INS-260322-AFE9` AI application to specific industries has no proven playbook anywhere in the world, making benchmarking-based strategy obsolete.
 - `INS-260404-83C6` DeepSeek proved frontier AI can emerge from a hedge fund side project in China, not just from billion-dollar Western labs.
 - `INS-260412-3713` Anchorage went from one of the world's most connected airports to near-abandonment within a decade when Russia opened its airspace after the Soviet collapse.
 - `INS-260405-24F0` Britain's relative manufacturing share predicted its WWI dependency on America decades before the war; today's US-China manufacturing gap signals a similar structural shift.
+- `INS-260412-5932` When the Fed creates dollars, every country holding dollar reserves sees their reserves lose value — an unlegislated tax on foreign nations.
 - `INS-260412-ED82` Guam's location — US soil less than four hours from North Korea, the East China Sea, and South China Sea — makes it irreplaceably valuable to US military strategy regardless of its colonial origins.
 - `INS-260405-ADCE` US and China are pursuing humanoid robotics through different incentive structures and deployment contexts, making a single global market unlikely.
 - `INS-260404-841B` NATO launched an innovation fund at its summit, merging venture capital with defense and political cooperation goals.
@@ -95,6 +96,7 @@
 - `INS-260403-F653` Stories we tell about competitors often reveal what we wish we were, not what they actually are.
 - `INS-260403-69C3` National security framing activates fear circuits that override the capacity for nuanced policy engagement.
 - `INS-260412-FD55` Russia threatened to close its airspace over EU sanctions (2014), Dutch landing slot disputes (2017), and US military action in Syria (2018)—using one asset as leverage across completely unrelated conflicts.
+- `INS-260412-0275` The US engineered the Plaza Accord to force Japan to appreciate the yen and handicap its own exporters, despite being Japan's closest ally.
 - `INS-260324-C1B8` In firearms, the US government decides which foreign manufacturers can sell to American civilians — the logic is political, not economic, with NATO allies allowed and adversaries blocked.
 - `INS-260403-90A0` China's rare earth export tightening and Western chip seizures are forcing companies to vertically integrate within their geopolitical bloc or risk existential supply disruption.
 - `INS-260403-44A6` Canada's decision to slash Chinese EV tariffs from 100% to 6.1% was a direct consequence of deteriorating US-Canada relations under Trump's tariff threats, illustrating how bullying allies creates unintended competitive openings.

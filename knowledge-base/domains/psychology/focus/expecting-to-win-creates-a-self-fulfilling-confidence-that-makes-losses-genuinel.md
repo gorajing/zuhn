@@ -48,11 +48,11 @@ resolutions:
     athlete operates without the friction of doubt — a self-reinforcing loop
     where confidence enables the performance that justifies the confidence.
 related:
+  - INS-260412-023C
   - INS-260323-CEA8
   - INS-260403-17E1
   - INS-260323-2B53
   - INS-260329-BBBE
-  - INS-260410-419F
 stance: Adams never thought losing was possible
 evidence:
   - id: INS-260327-3F8B

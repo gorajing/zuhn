@@ -1,9 +1,10 @@
 # Topic: problem-solving
 
-> 10 insights
+> 11 insights
 
 - `INS-260330-F8E7` [high] Shade balls were originally 'bird balls' for mine tailings ponds and airports — repurposed for water quality rather than invented from scratch.
 - `INS-260403-74AC` [high] Airbnb's social travel feature failed because 'travelers want to hang out with other travelers' was a solution masquerading as a problem statement.
+- `INS-260412-BB61` [high] Hard constraints force creative solutions that comfortable environments rarely produce.
 - `INS-260403-E09E` [high] Repeatedly returning to the problem statement during design reviews and progress updates is the most effective scope control mechanism.
 - `INS-260403-7BCF` [high] Every team member holds a unique mental model of the problem, and without forced alignment the team builds toward different goals.
 - `INS-260403-868C` [high] Solutions that handle any finite or countably infinite load can completely break at the next order of complexity.

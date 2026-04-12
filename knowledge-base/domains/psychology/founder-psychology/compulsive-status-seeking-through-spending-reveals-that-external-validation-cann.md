@@ -55,10 +55,10 @@ stance: >-
   fundamentally unsatisfiable through material means.
 related:
   - INS-260325-A1BC
+  - INS-260412-98B1
   - INS-260323-7AF7
   - INS-260323-CEA8
   - INS-260327-9BFD
-  - INS-260327-94CC
 evidence:
   - id: INS-260323-7AF7
     type: CHALLENGES

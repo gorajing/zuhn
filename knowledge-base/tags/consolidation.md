@@ -10,8 +10,8 @@
 - `INS-260404-1A34` The Coursera-Udemy merger exemplifies how post-hype consolidation creates value by combining complementary distribution models in a commoditizing market.
 - `INS-260405-A671` Massive acquisition activity in software startups (2024) reflects incumbents buying growth rather than building it, creating exit opportunities for founders.
 - `INS-260403-1115` Roll-up models applying acquisitions and AI to the $6T+ services market may produce larger outcomes than building new SaaS companies.
-- `INS-260404-8A36` Roll-ups let consolidators scale quickly by acquiring sub-scale competitors in fragmented industries.
 - `INS-260321-1A99` After the Cold War, defense consolidated from 51 primes to 5 — the real damage wasn't lost competition but financialization that expelled all the founders and heretics.
+- `INS-260404-8A36` Roll-ups let consolidators scale quickly by acquiring sub-scale competitors in fragmented industries.
 - `INS-260410-1384` Google+ failed as a product but succeeded as an organizational forcing function — Larry Page used it to unify a fragmented company under one identity and account system.
-- `INS-260403-7C71` Founder wealth creation is the historical default; the mid-20th century corporate era was a temporary phase caused by consolidation.
 - `INS-260412-907D` The top 10 shipping lines controlling 85% of the market and the US relying on just 5 Pacific deepwater ports shows how scale optimization concentrates risk.
+- `INS-260403-7C71` Founder wealth creation is the historical default; the mid-20th century corporate era was a temporary phase caused by consolidation.

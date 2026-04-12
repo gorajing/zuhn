@@ -1,7 +1,7 @@
 # Tag: logistics
 
-- `INS-260327-F4DB` AI voice fidelity and latency have crossed the threshold for enterprise use cases like logistics coordination and OTC trading, where voice interactions still dominate.
 - `INS-260405-8B05` An AI system routing 2,000 medical devices across 50 hospital locations cut nursing retrieval travel by 50% — staff only noticed they were happier.
+- `INS-260327-F4DB` AI voice fidelity and latency have crossed the threshold for enterprise use cases like logistics coordination and OTC trading, where voice interactions still dominate.
 - `INS-260412-3512` Anchorage — a city of 300K people — hosts the 4th busiest cargo airport in the world because it sits on the great-circle route between US and Asian hubs, serving as both a refueling stop and a sorting node.
 - `INS-260412-3382` Pre-pandemic shipping cost of ~$1,000 per 20-foot container from Asia to the US means transporting a single shoebox 8,000 miles cost about 30 cents — less than a chicken nugget.
 - `INS-260412-F401` Container shortages worsened port congestion, which worsened container shortages, which worsened truck driver shortages — each shortage feeding the next in a vicious cycle.

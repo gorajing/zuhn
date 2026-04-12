@@ -1,7 +1,7 @@
 # Tag: regulatory-capture
 
-- `INS-260328-92BC` Howard argues the EU AI Act's foundation model provisions would outlaw competition with OpenAI while providing no real safety benefit since developers would simply relocate.
 - `INS-260403-B255` Moderna's CEO says the company won't invest in new late-stage vaccine trials because anti-vaccine US officials have made the market too small for ROI.
+- `INS-260328-92BC` Howard argues the EU AI Act's foundation model provisions would outlaw competition with OpenAI while providing no real safety benefit since developers would simply relocate.
 - `INS-260409-B005` 80% of Americans want AI regulated — a rare civic consensus — and frontier labs are spending hundreds of millions to kill it; the organizing opening is real.
 - `INS-260409-5B7B` AGI has no stable definition — OpenAI redefines it per audience to serve the specific mobilization need in front of them.
 - `INS-260328-896B` OpenAI's board tried to exercise its nonprofit mission authority and was immediately overridden by financial stakeholders — proving money wins over governance.

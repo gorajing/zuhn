@@ -55,7 +55,7 @@ related:
   - INS-260412-BA99
   - INS-260329-2B04
   - INS-260327-BB67
-  - INS-260323-95FE
+  - INS-260412-7C35
 ---
 Isabel dos Santos exploited her dual positions to execute transactions that would be impossible under proper governance. She lent $460 million from Unitel to her own Unitel International Holdings, signing off as both lender and borrower. She had urban redevelopment projects greenlit by presidential decree using documents her own lawyers drafted. Her shell company with no oil expertise won Sonangol restructuring contracts.
 

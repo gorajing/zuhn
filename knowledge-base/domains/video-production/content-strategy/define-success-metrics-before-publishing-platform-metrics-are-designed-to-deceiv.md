@@ -49,11 +49,11 @@ stance: >-
   publishing it, platform notifications will convince you everything is working
   when your actual goals are not being met.
 related:
+  - INS-260412-1C32
   - PRI-260327-5635
   - INS-260410-419F
   - INS-260322-E22A
   - INS-260403-0AE1
-  - PRI-260407-2E0F
 evidence:
   - id: INS-260329-3D3E
     type: SUPPORTS

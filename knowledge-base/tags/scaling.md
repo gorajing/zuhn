@@ -24,13 +24,13 @@
 - `INS-260405-A4DB` AI workloads depend on HBM as the data conduit to GPUs, but HBM is harder to manufacture, lower yield, and supply is concentrated in three players.
 - `INS-260412-9B00` At launch, a single ChatGPT response cost ~5 cents vs fractions of a cent for Google search, making Google-scale AI deployment cost $425M/day.
 - `INS-260405-DA33` DeepSeek's mHC demonstrates that structural improvements to information flow yield real capability gains without added cost.
+- `INS-260330-F493` Thinking in doubling times rather than absolute numbers enables correct intuition about exponential processes.
 - `INS-260323-4E12` The jump from GPT-3.5 to GPT-4 came from hundreds of small improvements multiplied together across data, training, architecture, and optimization.
 - `INS-260410-3E86` A trillion-parameter transformer and a 41-parameter micrograd MLP use the same forward pass, same backward pass, same gradient descent loop — only the loss function (cross-entropy vs MSE) and optimizer tweaks differ.
 - `INS-260410-656B` Going from 3 to 8 characters of context in the same flat MLP moved validation loss from 2.10 to 2.02 — a bigger gain than the later hierarchical WaveNet rewrite produced at matched parameter count.
 - `INS-260321-8C35` AGI requires weight plasticity (continual learning without catastrophic forgetting) and causal modeling (simulation over correlation) — neither solvable by making models bigger.
 - `INS-260323-3F39` Modern frontier models are essentially GPT-2 with minor tweaks; the real advances are in training methodology, data curation, and post-training.
 - `INS-260410-2FEE` With 27 tokens a bigram table has 729 entries but a 10-gram table would need 27^10 ≈ 2×10^14 entries — tables are structurally unscalable, which is the real reason neural language models won.
-- `INS-260330-F493` Thinking in doubling times rather than absolute numbers enables correct intuition about exponential processes.
 - `INS-260410-3B8B` Bacteria pick up random gene fragments from their environment and it works because their genomes are small, but eukaryotes needed systematic sexual recombination to maintain quality across large genomes—an iron law about how sharing mechanisms must match the size of the system being shared.
 - `INS-260328-6C9A` In 2013, Sam Altman left YC to work on nuclear power because 'electricity is everything' — the AI era proved him exactly right.
 - `INS-260327-DCF8` Scaling video diffusion models produces emergent world simulation capabilities including object permanence and physics understanding.
@@ -41,8 +41,8 @@
 - `INS-260329-3EB6` AWS Lambda's auto-scaling model means you never under-provision, but the operational discipline shifts from capacity planning to cost monitoring and function optimization.
 - `INS-260409-7162` Start with the simple vault; let scale failures force the cutover, don't pre-argue it.
 - `INS-260409-B80C` A shared bus with arbitration is how you escape N-squared point-to-point wiring — the same idea powers hardware buses, message queues, and event buses.
-- `INS-260404-F62A` Foundation model businesses are booming in revenue but the path to sustainable profitability remains unclear.
 - `INS-260412-A4E9` Elephants require more mutations per cell to develop cancer because evolution equipped them with additional tumor suppressor genes to offset their massive cell counts.
+- `INS-260404-F62A` Foundation model businesses are booming in revenue but the path to sustainable profitability remains unclear.
 - `INS-260412-5494` Kurzgesagt's method of escalating from 15,000 warheads to all-uranium-on-Earth reveals phase transitions invisible at normal scale.
 - `INS-260404-EC33` Plants produce 40 billion tons of an inefficient enzyme rather than evolving a better one — volume compensates for poor per-unit performance.
 - `INS-260412-AB42` A 10x change in one dimension produces 100x and 1000x changes in related dimensions, making single-scale intuition dangerously misleading.
@@ -80,26 +80,26 @@
 - `INS-260321-E654` Defense primes' advantage over startups is not inventiveness but production and manufacturing at scale — startups must build factory and quality-testing muscle to cross the procurement chasm.
 - `INS-260329-49A4` LTV-to-CAC ratio (using gross profit, not revenue) determines scaling ceiling — aim for 3:1 minimum, and pour fuel when you see 30:1+.
 - `INS-260322-D57C` When scaling, CEOs cannot just delegate customer-facing work — they must personally demonstrate the brand's standard alongside new employees so sensibility transfers through shared experience.
-- `INS-260404-880A` J&J's $1B+ investment in a 2M sq ft cell therapy facility marks the transition from experimental to industrial-scale advanced therapy manufacturing.
-- `INS-260325-07FA` Just as semiconductors and solar followed Wright's Law cost curves, gene therapy could drop from millions per dose to thousands — enabling treatment of ultra-rare diseases that currently have no economic model.
-- `INS-260329-AF18` Before exploring new growth channels, exhaust 10x potential in your current working channel first.
-- `INS-260410-1C96` Size ambition to the reach of your brand equity, not the size of your revenue.
-- `INS-260403-B18C` Exponential growth comes from stacking multiple self-reinforcing growth loops, not optimizing individual acquisition channels.
-- `INS-260322-70DD` Stop hiring for the business you used to be — at $30-50M revenue you need a CFO not a bookkeeper, and the founder becomes the ceiling when every function must pass through them.
-- `INS-260330-965B` Each of your first 10 hires effectively recruits the next 10 people like themselves, so you're really choosing 100 people.
-- `INS-260403-A136` Startup headcount growth systematically dilutes independent-mindedness because conventional thinkers vastly outnumber independent ones.
-- `INS-260403-A8A3` Second-time founders stop wearing every hat early, hire for trajectory and ownership mindset, and design roles for the company's future shape.
-- `INS-260403-A851` The spectrum from full codebase access (Linear, Gumroad) to synthetic take-home projects (PostHog, Automattic at scale) reflects a deliberate trade-off between signal depth and process scalability.
-- `INS-260403-59F0` The assumption that board seats protect VC returns is untested—removing them could unlock 2-3x deal throughput.
-- `INS-260403-5F1C` The transition from spreadsheet to dedicated equity platform should happen at the first priced round, not when errors become visible.
-- `INS-260403-5E86` IPO preparation should begin 2-3 years before the target date as an operational transformation, not a financial sprint.
-- `INS-260405-093F` Offshore accounting and specialized talent from Philippines and Latin America can cut labor costs by up to 80% vs. equivalent US hires.
-- `INS-260403-ACA8` Large companies need innovation frameworks designed for their unique constraints, not copied startup methods.
-- `INS-260403-F75F` Most innovation failures happen not at ideation but at the transfer stage where validated ideas must shift from exploration teams to execution teams.
 - `INS-260330-F800` Wen's retrospective finding: every department that underperformed at PolyAI was one where the founders hired a leader without first getting hands dirty in that function themselves.
 - `INS-260329-58E7` Ramsey's breakthrough from tactical hustle to $300M came when MBAs taught him strategic thinking in exchange for him teaching them execution.
 - `INS-260329-727B` The fastest way to $1M/year isn't the fastest way to $10M, and the fastest way to $10M isn't the fastest way to $100M.
 - `INS-260322-B3D0` Pre-PMF advice (just ship, talk to users, no strategy) becomes actively harmful post-PMF — you need strategic bets like Facebook opening beyond .edu or DoorDash expanding beyond food.
+- `INS-260404-880A` J&J's $1B+ investment in a 2M sq ft cell therapy facility marks the transition from experimental to industrial-scale advanced therapy manufacturing.
+- `INS-260325-07FA` Just as semiconductors and solar followed Wright's Law cost curves, gene therapy could drop from millions per dose to thousands — enabling treatment of ultra-rare diseases that currently have no economic model.
+- `INS-260330-965B` Each of your first 10 hires effectively recruits the next 10 people like themselves, so you're really choosing 100 people.
+- `INS-260403-A136` Startup headcount growth systematically dilutes independent-mindedness because conventional thinkers vastly outnumber independent ones.
+- `INS-260403-A8A3` Second-time founders stop wearing every hat early, hire for trajectory and ownership mindset, and design roles for the company's future shape.
+- `INS-260403-A851` The spectrum from full codebase access (Linear, Gumroad) to synthetic take-home projects (PostHog, Automattic at scale) reflects a deliberate trade-off between signal depth and process scalability.
+- `INS-260329-AF18` Before exploring new growth channels, exhaust 10x potential in your current working channel first.
+- `INS-260410-1C96` Size ambition to the reach of your brand equity, not the size of your revenue.
+- `INS-260403-B18C` Exponential growth comes from stacking multiple self-reinforcing growth loops, not optimizing individual acquisition channels.
+- `INS-260322-70DD` Stop hiring for the business you used to be — at $30-50M revenue you need a CFO not a bookkeeper, and the founder becomes the ceiling when every function must pass through them.
+- `INS-260403-ACA8` Large companies need innovation frameworks designed for their unique constraints, not copied startup methods.
+- `INS-260403-F75F` Most innovation failures happen not at ideation but at the transfer stage where validated ideas must shift from exploration teams to execution teams.
+- `INS-260403-59F0` The assumption that board seats protect VC returns is untested—removing them could unlock 2-3x deal throughput.
+- `INS-260403-5F1C` The transition from spreadsheet to dedicated equity platform should happen at the first priced round, not when errors become visible.
+- `INS-260403-5E86` IPO preparation should begin 2-3 years before the target date as an operational transformation, not a financial sprint.
+- `INS-260405-093F` Offshore accounting and specialized talent from Philippines and Latin America can cut labor costs by up to 80% vs. equivalent US hires.
 - `INS-260403-CF44` Dario spends 30-40% of his time on culture because at exponential speed, organizational decoherence is the binding constraint on execution.
 - `INS-260403-8B5A` Founder-led deep involvement beats the conventional 'hire and delegate' playbook at scale.
 - `INS-260405-B4D2` Silicon Valley is rehabilitating micromanagement as a tool founders should embrace rather than avoid.

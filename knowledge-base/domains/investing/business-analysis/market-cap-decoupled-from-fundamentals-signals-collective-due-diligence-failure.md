@@ -55,5 +55,6 @@ related:
   - PRI-260328-82BE
   - INS-260404-0153
   - PRI-260324-3081
+  - INS-260412-F791
 ---
 The most striking data point in the Nikola story is the market's verdict: within one week of its reverse merger, Nikola was valued at over $30 billion — surpassing Ford, which sold 5.5 million vehicles in 2019 with $155 billion in revenue. This wasn't retail investor froth alone; institutional investors and corporate partners like GM validated the valuation. The gap between Nikola's $0 revenue and Ford's $155 billion reveals that the market was not pricing future cash flows — it was pricing narrative momentum. This pattern recurs across fraud cycles: when valuation becomes entirely decoupled from any measurable output, the market has collectively decided that story supersedes substance. For investors, extreme revenue-to-valuation gaps in companies with unproven technology should trigger mandatory independent technical due diligence, regardless of how many prestigious partners are on board.

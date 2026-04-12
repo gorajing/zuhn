@@ -58,6 +58,7 @@ related:
   - PRI-260406-BAAC
   - PRI-260406-861A
   - INS-260412-89BE
+  - INS-260412-FCF8
 ---
 In 2021, the Federal Funds Rate sat near zero — a historically anomalous window where the U.S. Treasury could have issued long-duration bonds to lock in generationally cheap financing on the national debt. Instead, the Treasury continued issuing shorter-duration instruments. When inflation forced the Fed into its most aggressive hiking cycle in decades (0% to 5%+ by 2023), the cost of servicing and rolling over that debt exploded.
 

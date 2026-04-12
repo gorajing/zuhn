@@ -53,6 +53,7 @@ related:
   - PRI-260406-97BB
   - PRI-260403-26B9
   - PRI-260406-EE38
+  - INS-260412-F791
 ---
 Founders confuse fundraising events with value-creating moments. When a public company has a strong quarter and its stock rises, that is literal value creation -- everyone's shares are worth more and could be sold immediately. A fundraising announcement is the opposite: it's an illiquid bet with probably less than 50% chance of success, all the way down to seed rounds with even lower odds.
 

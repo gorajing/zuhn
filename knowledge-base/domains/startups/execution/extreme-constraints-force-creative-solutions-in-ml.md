@@ -42,11 +42,11 @@ stance: >-
   succeed if the team designs the right reward structure and leverages transfer
   learning creatively.
 related:
+  - INS-260412-BB61
   - PRI-260320-3032
   - INS-260327-E63E
   - INS-260330-CBEF
   - PRI-260406-6531
-  - PRI-260406-1188
 evidence:
   - id: INS-260323-197A
     type: SUPPORTS

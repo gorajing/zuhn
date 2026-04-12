@@ -52,13 +52,12 @@ resolutions:
     first small compromise.
 related:
   - INS-260323-FFAC
+  - INS-260412-F8D1
   - INS-260330-90C3
+  - INS-260412-7C35
   - INS-260330-22D6
-  - INS-260330-636E
-  - INS-260322-2D2F
   - INS-260330-FC9F
   - INS-260330-D6EF
-  - INS-260412-7BD8
 stance: Cox's first fraud (whiting out a late payment) didn't satisfy the urge
 evidence:
   - id: INS-260322-2D2F

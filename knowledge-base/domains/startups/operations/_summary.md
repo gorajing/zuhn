@@ -1,6 +1,6 @@
 # Topic: operations
 
-> 25 insights
+> 26 insights
 
 - `INS-260412-2754` [high] The US government's COGCON system splits every agency into three independent teams (A, B, C) at separate sites, each ready to assume full operations if the team above it falls.
 - `INS-260412-3978` [high] Eliminating ground transport forces all physical goods through air freight, creating massive cost premiums proportional to weight and bulk rather than intrinsic value.
@@ -20,6 +20,7 @@
 - `INS-260412-CAAD` [high] St Helena's airport needs nearly the same firefighting, meteorology, navigation, and security infrastructure as Heathrow despite having one flight per week versus thousands.
 - `INS-260412-F414` [high] Aircraft carriers restock fuel, food, and mail while underway, avoiding the vulnerability of port stops — a pattern applicable to any organization that cannot afford downtime.
 - `INS-260412-B136` [high] Barrow's single annual barge window means any vehicle, building material, or large equipment order is a once-per-year decision with no correction opportunity until the next summer.
+- `INS-260412-1DBF` [high] Leeson was both head of Singapore trading operations AND in charge of Singapore accounting, making his fraud invisible to standard oversight.
 - `INS-260410-D2D1` [high] Walmart had to build its own distribution network, trucking fleet, and private satellite system because no third party could provide the efficiency their discount model required.
 - `INS-260412-F4DA` [high] Systems with three actor groups holding different incentives and no shared situational awareness predictably cascade into failure.
 - `INS-260412-B6D3` [medium] Airlines submit preferred routes nightly to Gander ATC, which synthesizes them into the day's North Atlantic Tracks — bottom-up input with centralized coordination.

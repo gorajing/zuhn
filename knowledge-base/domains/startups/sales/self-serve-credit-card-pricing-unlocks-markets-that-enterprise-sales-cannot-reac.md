@@ -58,12 +58,12 @@ stance: >-
   Removing sales friction with a credit-card signup creates an entirely new
   customer segment that enterprise sales motions cannot serve at any price.
 related:
-  - INS-260330-FC9F
   - INS-260404-A6D4
   - INS-260321-2F09
   - INS-260412-9B06
   - INS-260403-4819
   - INS-260410-15AC
+  - INS-260412-F791
 ---
 Before AWS, procuring infrastructure meant a proposal, financial approval, RFP, vendor selection, contract negotiation, and often a data center visit. AWS made a credit card the only required artifact. This wasn't just a nicer UX — it created a market segment (weekend hackers, 48-hour hackathon projects, pre-seed startups building MVPs) that enterprise sales motions literally cannot serve, because the cost of a sales call exceeds the lifetime value of most of those users.
 

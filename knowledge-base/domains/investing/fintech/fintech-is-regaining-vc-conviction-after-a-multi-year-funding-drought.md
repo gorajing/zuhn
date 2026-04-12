@@ -53,9 +53,9 @@ stance: >-
 related:
   - INS-260322-BC97
   - INS-260404-EC16
+  - INS-260412-084F
   - INS-260403-5056
   - INS-260405-5514
-  - INS-260404-FA1E
   - INS-260405-AA34
 ---
 After the post-2021 correction gutted fintech valuations and dried up deal flow, Q1 2025 data shows VCs actively re-entering the sector. The pullback was severe—rising interest rates, BNPL defaults, and neobank struggles spooked institutional capital. The renewed conviction appears driven by leaner, more defensible business models and AI-enabled unit economics that couldn't exist in the prior cycle.

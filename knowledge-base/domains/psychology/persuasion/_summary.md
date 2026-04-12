@@ -1,6 +1,6 @@
 # Topic: persuasion
 
-> 65 insights
+> 66 insights
 
 - `INS-260403-9DB6` [high] Steady accumulation of documented incidents shifts opinion more than any single dramatic event because patterns resist counter-narrative.
 - `INS-260403-36F0` [high] Correctness about what's wrong doesn't convert into support without a clear alternative vision.
@@ -57,6 +57,7 @@
 - `INS-260403-20C3` [medium] LLM fact-checkers like Grok achieve belief-accuracy shifts comparable to professional fact-checking, and resist their creators' political biases.
 - `INS-260403-7EB2` [medium] Keep a running notes document tracking exec questions and feedback to anticipate their reactions in future discussions.
 - `INS-260330-A1AF` [medium] Adams, the self-proclaimed expert on manipulation tactics, was ultimately destroyed by a manipulation technique straight out of his own playbook that he failed to recognize.
+- `INS-260412-4995` [medium] The Federal Reserve's creators publicly attacked their own bill to trick the public into supporting it, exploiting the heuristic that 'if bankers hate it, it must be good for us.'
 - `INS-260403-FC2E` [medium] Shift from defending your position to calling out the pattern of misrepresentation itself.
 - `INS-260410-1D64` [medium] Coca-Cola's early team intuited that you don't want customers thinking about headaches and nervousness when they reach for your drink — you want them thinking about happiness, friendship, and Christmas.
 - `INS-260403-524B` [medium] Costco's confusing warehouse layout makes shoppers feel like deal-hunters rather than annoyed customers, turning a cost-saving measure into a positive brand experience.

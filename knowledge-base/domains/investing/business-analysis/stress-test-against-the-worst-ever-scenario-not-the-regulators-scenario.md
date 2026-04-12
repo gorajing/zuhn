@@ -56,10 +56,10 @@ stance: >-
   events that do occur.
 related:
   - INS-260403-518E
+  - INS-260412-D937
   - INS-260325-A66E
   - INS-260404-C663
   - INS-260403-5C1D
-  - INS-260329-E0DE
 ---
 When Dimon took over JP Morgan's risk book, the bank's high-yield stress test assumed a 40% credit spread move because '17% was the worst ever and the market is more sophisticated now.' He forced the test to use the worst-ever number. In 2008 the spread hit 20% and the market for bonds vanished entirely. The lesson: you are not trying to predict tails, you are trying to survive them. Stress tests calibrated to recent memory or to regulator templates create false confidence — the Fed's scenarios are a floor, not a ceiling.
 

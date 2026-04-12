@@ -6,6 +6,7 @@
 
 
 - `INS-260410-7D8E` The CCP never stopped believing in communism — Deng's liberalization was a modification of economic tactics, not a change in the party's fundamental identity, and Xi is now walking it back.
+- `INS-260412-3156` Do Kwon's narcissistic dismissal of critics who correctly predicted Terra's collapse turned fixable design flaws into a $45 billion catastrophe.
 - `INS-260403-D198` Highly specialized markets like startups and trading still cluster geographically because in-person interaction enables deal velocity that technology cannot yet match.
 - `INS-260327-178E` Block unwound their GM structure into a functional org specifically because AI transformation requires unified technical capabilities across product lines.
 - `INS-260330-EA23` Domino's centralized all ingredient preparation into hub facilities, enabling individual stores to be much smaller and cheaper while maintaining consistent quality across thousands of locations.

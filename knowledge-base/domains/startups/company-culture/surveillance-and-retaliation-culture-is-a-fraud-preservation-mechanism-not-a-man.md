@@ -50,8 +50,8 @@ related:
   - INS-260330-66C7
   - INS-260403-46DD
   - INS-260405-6E5F
+  - INS-260412-6D8C
+  - INS-260412-F8D1
   - INS-260323-92AD
-  - INS-260403-B6C6
-  - INS-260412-132B
 ---
 Theranos required NDAs at hiring and again at departure, used private investigators to stalk suspected whistleblowers, fired anyone who raised concerns (including the CFO, sales team members, and engineers), monitored employees via CCTV, and threatened defamation lawsuits against journalists. Sunny told employees working only 8 hours that he would 'fix' them. This entire apparatus served one purpose: preventing information about the non-functional technology from reaching the outside world. For anyone evaluating a company — as employee, investor, or partner — extreme secrecy combined with high employee turnover and aggressive legal postures toward departing staff should trigger immediate suspicion that the secrecy protects fraud rather than legitimate intellectual property.
