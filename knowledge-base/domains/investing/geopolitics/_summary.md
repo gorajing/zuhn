@@ -1,6 +1,6 @@
 # Topic: geopolitics
 
-> 576 insights
+> 577 insights
 
 - `INS-260326-3E19` [very_high] Pharmaceutical companies funding the FDA, banks staffing financial regulators, and tech giants writing platform regulations are structurally identical -- the mechanism is industry-funded oversight producing industry-favorable rules.
 - `INS-260326-79DF` [very_high] Germany's unrestricted submarine warfare sank 886,000 tons in April 1917 alone -- a tactical triumph that brought America into the war and guaranteed Germany's defeat.
@@ -310,6 +310,7 @@
 - `INS-260410-D6D5` [high] Mao's 'three stages of people's war' only terminates in victory if a big industrial friend arrives to supply the conventional armaments phase three requires.
 - `INS-260412-9E81` [high] Russia's push-based resupply model, where leadership decides what goes where on a schedule, collapsed when the war didn't end in 3-5 days as planned.
 - `INS-260327-719D` [high] Napoleon won at Borodino but lost 30,000+ men without destroying the Russian army — a tactical victory that was strategically catastrophic.
+- `INS-260412-E0D9` [high] Sri Lanka's overnight fertilizer ban collapsed food production, and reversing it months later couldn't restore the lost growing seasons or export capacity.
 - `INS-260412-18B7` [high] Russia's truck fleet could only sustain operations ~90 miles from railyards, creating a hard distance ceiling on effective force projection.
 - `INS-260327-65F4` [high] Justinian's reconquest of the Western Roman Empire bankrupted Byzantium — the wars in Italy and Africa cost far more than the conquered territories ever returned in revenue.
 - `INS-260325-3C17` [high] After the Bronze Age collapse, it took 400 years to rebuild comparable Mediterranean trade networks.

@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 609 insights
+> 611 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -136,6 +136,7 @@
 
 
 - `INS-260327-6E93` [high] Crosby's customers (Cursor, Clay) care about how fast contracts close, not how cheap the review is, because their growth rate makes delay the real cost.
+- `INS-260412-6C62` [high] Ford was offered Volkswagen for free after WWII and declined, calling it worthless — VW went on to become the world's second-largest automaker.
 - `INS-260330-2CE3` [high] Bing's $5B/year profit proves that owning the default position on a dominant platform is more valuable than building a better product.
 - `INS-260330-7DAA` [high] Bing earns $5B/year not from product quality but from being Windows' default — distribution through defaults beats product superiority.
 - `INS-260412-FAA0` [high] Ant species that survive army ant attacks evolved specialized defenders (square-headed blockers, massive soldiers) long before any specific attack.
@@ -194,6 +195,7 @@
 - `INS-260323-0539` [high] Cursor forked VS Code rather than building an extension because plugin APIs limit what you can build — when AI changes how software is built, you need full control of the editing surface.
 - `INS-260327-94F5` [high] Kevin Plank spent $700M acquiring fitness apps to chase big data and IoT hype, declared Under Armour was 'a technology company' on national TV, and no one in the organization could push back because the founder's voice was always the loudest and always correct.
 - `INS-260327-CB72` [high] Jack Dorsey systematically fabricated a solo-founder origin story for Twitter, manipulated media coverage, and orchestrated two CEO coups -- all to serve his personal mythos rather than the company's health.
+- `INS-260412-4CC8` [high] TSMC holds 61.7% foundry market share vs Samsung's 11% because higher yields attract premium clients, whose revenue funds further R&D — a flywheel that accelerates the gap.
 - `INS-260410-2CED` [high] Bismarck overturned the European balance of power by framing each of three wars as limited and local, so rivals never coordinated against him.
 - `INS-260327-0FC4` [high] Crumbl rapid franchise expansion outpaced its ability to maintain quality control, creating inconsistent product experie
 - `INS-260327-092E` [high] When a franchise brand goes viral (Popeyes chicken sandwich), individual franchisees lack the operational infrastructure

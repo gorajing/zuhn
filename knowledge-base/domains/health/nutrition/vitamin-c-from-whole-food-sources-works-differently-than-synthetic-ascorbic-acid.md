@@ -56,6 +56,6 @@ related:
   - INS-260327-29E1
   - INS-260325-A003
   - PRI-260325-B4FA
-  - INS-260327-BF59
+  - INS-260327-28FC
 ---
 Ascorbic acid is only the outer shell of the vitamin C complex. The full complex includes: bioflavonoids (strengthen capillaries and enhance absorption), tyrosinase (copper-containing enzyme), Factor P, Factor J, and Factor K. Synthetic ascorbic acid (most supplements) provides only the antioxidant shell without the functional cofactors. High-dose synthetic C can even compete with the full complex for absorption. Best whole food sources: sauerkraut (700mg per cup), bell peppers, berries, and leafy greens. If supplementing, use acerola cherry or camu camu (whole food concentrates) rather than pure ascorbic acid. The body uses vitamin C for collagen synthesis, immune function, and iron absorption — all of which work better with the full complex.

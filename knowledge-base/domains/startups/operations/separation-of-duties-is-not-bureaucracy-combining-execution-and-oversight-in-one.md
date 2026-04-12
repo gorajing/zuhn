@@ -55,11 +55,11 @@ stance: >-
   records for those transactions guarantees that fraud, once initiated, cannot
   be detected through normal channels.
 related:
+  - INS-260412-24DB
   - INS-260412-F8D1
   - INS-260323-92AD
   - INS-260330-636E
-  - INS-260412-C33C
-  - INS-260330-22D6
+  - INS-260412-D341
 ---
 The single most critical failure at Barings was structural: Nick Leeson simultaneously controlled both the trading floor and the back-office accounting in Singapore. This meant every trade he made, he also recorded. When he created the secret 'Five Eights' account to hide losses, there was no independent accounting function to flag the discrepancy. He could alter software, fabricate client accounts, and buy futures from himself at discounted prices — all without a single cross-check.
 

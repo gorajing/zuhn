@@ -52,6 +52,6 @@ related:
   - INS-260412-B172
   - INS-260327-C68B
   - INS-260323-A197
-  - INS-260323-3CD0
+  - INS-260412-D625
 ---
 When North Korea threatened Guam in 2017, Japanese tourism collapsed — school groups and corporate retreats universally cancelled. South Korean tourism actually increased, partially offsetting the losses. The key difference wasn't objective risk assessment but lived familiarity: South Koreans experience missile threats routinely, so the incremental risk of visiting Guam barely registered. This demonstrates that risk perception is driven less by probability and more by novelty. First-time exposure to a threat triggers outsized behavioral response, while chronic exposure leads to habituation. This has implications for how markets react to recurring vs. novel crises, how founders assess competitive threats they've faced before vs. new categories of risk, and why experienced operators often appear 'irrationally calm' — they've simply habituated to the ambient threat level of their domain.

@@ -43,7 +43,6 @@ stance: >-
   news for humanity's survival, making 'good news is bad news' a reliable
   pattern wherever selection effects dominate
 related:
-  - INS-260330-7ABB
   - INS-260402-5CF0
   - INS-260403-63E6
   - INS-260403-EB56
@@ -53,5 +52,6 @@ related:
   - INS-260323-1670
   - INS-260403-5772
   - PRI-260406-A33C
+  - INS-260408-8F0A
 ---
 The Great Filter argument demonstrates a powerful general pattern: in any system where survivors are rare and unobserved, evidence that the path is easy early on implies the hard part comes later. This 'good news is bad news' inversion applies far beyond astrophysics. In startups, an easy market entry with no visible competitors could mean the real barrier (retention, monetization, regulation) lies ahead. In investing, an asset class with no historical blowups may simply not have encountered its tail risk yet. The mental model is: when you're looking at a funnel with near-zero output, evidence that early stages are common shifts the bottleneck forward — toward you.

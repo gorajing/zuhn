@@ -62,6 +62,7 @@ related:
   - INS-260327-485B
   - PRI-260406-E38B
   - INS-260327-2958
+  - INS-260412-BE19
 ---
 Paine pushes back on the optimist framing that a smarter America could have prevented the communist takeover of China. Her counter is not primarily strategic but political: after WWII, American GIs had served for the duration of the war — no nine-month rotations, they came home only when it was over — and both they and their families were done. Telling a veteran to 'go make nice to the Chinese and go get yourself killed there' was a non-starter regardless of how strong the strategic case was. Europe being leveled and the real fear of Italian and French communist parties also absorbed all available bandwidth.
 

@@ -55,6 +55,7 @@ related:
   - INS-260327-E751
   - PRI-260328-43D8
   - INS-260327-8AF8
+  - INS-260412-BE19
 ---
 Napoleon deposed the Spanish monarchy with barely a fight in 1808. The conventional military phase was trivial. But occupying and governing Spain proved impossible — the population launched a guerrilla resistance that tied down 200,000+ French troops for six years, cost enormous casualties, and was never suppressed. Napoleon called it his 'Spanish Ulcer,' the wound that never healed.
 

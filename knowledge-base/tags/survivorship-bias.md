@@ -2,6 +2,7 @@
 
 - `INS-260327-32F1` Career advice from successful people is inherently flawed by survivorship bias (only winners speak) and confirmation bias (they accentuate positives and eliminate negatives in retrospect).
 - `INS-260330-CF10` Every existing civilization has survived every past catastrophe, creating systematic underestimation of civilizational fragility.
+- `INS-260412-CC17` Earth's atmosphere silently prevents nuclear shockwaves from being replaced by worse unimpeded radiation — we only notice this protection by imagining its absence.
 - `INS-260323-4E23` What looks like intentional strategy in evolution is actually 'simple chemistry that happens to work well and propagates' -- the same applies to business success stories.
 - `INS-260330-5C80` Early Chinese historians systematically reshaped the past to validate Confucian moral philosophy, revealing how all historical narrative serves the ideological needs of its authors.
 - `INS-260330-14E1` Chinese historians wrote dynastic history to prove Confucian moral philosophy, systematically distorting the record to fit their framework.
@@ -15,7 +16,6 @@
 - `INS-260403-C0D4` Failure is a better teacher than success because failure modes cluster predictably while success depends on unrepeatable context.
 - `INS-260323-1670` If the Moon is necessary for complex life, then its improbable formation should be expected — because we can only ask the question in universes where it happened, a form of selection bias that applies to evaluating any rare event.
 - `INS-260325-622D` Mentions of 'find your purpose' in books surged 700% in two decades, creating an Epic Script that stigmatizes simple, content lives.
-- `INS-260412-CC17` Earth's atmosphere silently prevents nuclear shockwaves from being replaced by worse unimpeded radiation — we only notice this protection by imagining its absence.
 - `INS-260329-5FB5` Multiple failures before success is the statistical norm for entrepreneurs, not the exception, because failure builds pattern-matching that classroom learning cannot.
 - `INS-260327-5AF9` The idea that if you haven't succeeded by 30 it's probably over is survivorship bias mythology - most meaningful achievements historically come from people in their 40s, 50s, and beyond.
 - `INS-260329-0F10` The primary barrier to audience growth is premature quitting, not lack of skill—making persistence itself the competitive moat.
@@ -28,9 +28,9 @@
 - `INS-260323-475F` Duncan Watts' Music Lab experiment showed that the same song ranked #1 in one group and #40 in another — quality sets a floor and ceiling, but within that range, success is determined by randomness.
 - `INS-260323-FDB8` We only study winners, but losers often executed the same playbook — luck and timing separated them.
 - `INS-260328-58B1` Name the 20 software companies you respect most — not one of them made it in a year.
-- `INS-260404-8CEE` Sears, Toys-R-Us, and RadioShack died from strategic failures, not from Amazon's existence — Costco, Aldi, and Dollar General thrived in the same environment.
-- `INS-260403-6CA8` Sears, Toys-R-Us, and RadioShack died not because of Amazon but because they failed to adapt, while Ross, Aldi, Dollar General, and Costco thrived in the same environment.
-- `INS-260330-5E47` Startups compress a lifetime of work into a few years — the total pain is roughly conserved, the payoff distribution is extreme (mean 30x but median zero), and most startups fail.
 - `INS-260403-06E7` A structured checklist asking what's missing, what luck was involved, what resources they had, whether it works without funding, and whether the model is generalizable turns inspiration into usable intelligence.
 - `INS-260330-5EA4` If users tolerate a problem and keep using your product, that problem is by definition not a critical blocker.
 - `INS-260412-379C` Angola simultaneously produced Africa's first female billionaire and had only 15-19% high school attainment—proving that trophy metrics can coexist with systemic failure.
+- `INS-260404-8CEE` Sears, Toys-R-Us, and RadioShack died from strategic failures, not from Amazon's existence — Costco, Aldi, and Dollar General thrived in the same environment.
+- `INS-260403-6CA8` Sears, Toys-R-Us, and RadioShack died not because of Amazon but because they failed to adapt, while Ross, Aldi, Dollar General, and Costco thrived in the same environment.
+- `INS-260330-5E47` Startups compress a lifetime of work into a few years — the total pain is roughly conserved, the payoff distribution is extreme (mean 30x but median zero), and most startups fail.

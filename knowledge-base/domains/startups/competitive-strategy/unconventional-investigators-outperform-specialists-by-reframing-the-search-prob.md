@@ -52,10 +52,10 @@ stance: >-
   assumptions about where to look
 related:
   - INS-260327-D1BB
+  - INS-260412-4FE6
   - INS-260329-1DA3
   - INS-260403-3587
   - INS-260330-E585
-  - INS-260330-E9D4
 evidence:
   - id: INS-260325-4C92
     type: SUPPORTS

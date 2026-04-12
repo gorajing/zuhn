@@ -1,6 +1,6 @@
 # Domain: ai-development
 
-> 1706 insights across 40 topics
+> 1709 insights across 40 topics
 
 ## Topics
 
@@ -12,7 +12,7 @@
 | ai-agents | 64 | AI agents' biggest value is eliminating the friction between idea and implementation, not writing code faster. |
 | ai-automation | 29 | Improving multi-agent systems requires observability into inter-agent conversations -- GPTers built a dashboard to view session-send exchanges between agents to understand how to improve their collaboration. |
 | ai-business-models | 1 | Microsoft is seeing strong demand for Windows 365 instances provisioned for autonomous agents that need their own machine — the per-seat business is becoming per-user-plus-per-agent. |
-| ai-capabilities | 148 | Aletheia matches a 6-month-old model's reasoning performance using 100x less inference compute, driven by a stronger base model rather than more thinking time. |
+| ai-capabilities | 149 | Aletheia matches a 6-month-old model's reasoning performance using 100x less inference compute, driven by a stronger base model rather than more thinking time. |
 | ai-market-dynamics | 154 | Porn is a leading indicator for consumer tech — if AI avatars, chatbot characters, and generated content are working there, they're coming to mainstream markets soon. |
 | alignment | 92 | Accidental misalignment in automated workflows is more dangerous than deliberate misuse because it cascades silently at scale. |
 | applications | 6 | An AI system routing 2,000 medical devices across 50 hospital locations cut nursing retrieval travel by 50% — staff only noticed they were happier. |
@@ -23,7 +23,7 @@
 | embeddings | 18 | Different basis choices make different operations trivial or impossible in vector spaces. |
 | foundation-models | 9 | LLMs win the AGI race, but their first act as AGIs is to replace themselves with something closer to Sutton's from-scratch experiential architecture. |
 | future-of-work | 98 | Tens of millions learning Python through free YouTube tutorials represent a workforce transformation happening outside traditional education. |
-| governance | 15 | 80% of Americans want AI regulated — a rare civic consensus — and frontier labs are spending hundreds of millions to kill it; the organizing opening is real. |
+| governance | 17 | 80% of Americans want AI regulated — a rare civic consensus — and frontier labs are spending hundreds of millions to kill it; the organizing opening is real. |
 | hardware | 15 | An H100 is worth more today than three years ago because the models it runs generate far more value per token than GPT-4 did, and you can't just buy a Rubin instead. |
 | human-ai-relationship | 75 | When AI outperforms humans, human-AI synergy is g = -0.54; when humans outperform AI, synergy is g = +0.46. |
 | industry-trends | 15 | Each AI capability phase — transformers, LLMs, reasoning, agents — requires discarding the mental models built in the previous phase. |

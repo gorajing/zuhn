@@ -65,11 +65,11 @@ stance: >-
   vertically integrated incumbents get dismantled into specialized layers that
   each focus on one step of the stack.
 related:
+  - INS-260412-7CED
   - INS-260323-9676
   - PRI-260328-A1AA
   - PRI-260406-6C6C
   - INS-260409-7731
-  - PRI-260328-06F1
 ---
 Intel in 1975 did everything — transistor research, chip design, manufacturing, packaging, sales. By 2020, the industry had cleanly disaggregated into five layers: EDA tools (Synopsys, Cadence), IP cores (Arm), fabless designers (Nvidia, Apple), lithography equipment (ASML), and foundries (TSMC). Each layer is dominated by one or two companies that reinvest virtually all their profits into staying at the frontier of their single specialty. The treadmill — Moore's Law doubling transistor density every two years — forced this split: no single firm could keep pace across all five layers simultaneously, and the ones that tried (Intel) fell behind in every layer.
 

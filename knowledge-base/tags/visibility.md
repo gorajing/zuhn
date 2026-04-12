@@ -4,4 +4,5 @@
 - `INS-260403-50F1` Physical separation of work and internet computers forces conscious awareness of distraction that software tools cannot replicate.
 - `INS-260325-2B9F` Real espionage effectiveness comes from being completely forgettable — the 'gray man' who disappears in any setting is more operationally valuable than any James Bond.
 - `INS-260403-02CE` Page's silence let the media credit Schmidt for Google's success, demonstrating that work does not speak for itself at scale.
+- `INS-260412-9DC8` Vannevar Bush's 1945 Memex concept directly inspired the internet, hyperlinks, the mouse, and the GUI, yet he remains virtually unknown compared to the product builders who implemented his vision.
 - `INS-260403-93BB` Founder visibility isn't self-promotion — it's a leadership tool that enables team confidence, investor trust, and market legibility.

@@ -53,8 +53,8 @@ related:
   - INS-260323-07BE
   - INS-260410-270E
   - INS-260327-B772
+  - INS-260412-816C
   - INS-260323-104E
-  - INS-260329-C0F1
 ---
 LVMH's pivot achieved three objectives simultaneously: it responded to a humanitarian need, kept factories operational (avoiding production shutdown risks), and permanently repositioned the brand in consumers' minds. The cost was raw materials for sanitizer; the return was a shift in brand perception that advertising budgets of tens of millions couldn't reliably purchase.
 

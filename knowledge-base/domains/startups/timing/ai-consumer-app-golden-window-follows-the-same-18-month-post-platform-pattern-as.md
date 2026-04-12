@@ -53,10 +53,10 @@ stance: >-
   app explosion timeline
 related:
   - INS-260322-68FE
+  - INS-260412-2327
   - INS-260403-8F6E
   - INS-260403-93A5
   - INS-260410-8767
-  - INS-260322-5790
   - INS-260403-64A5
   - INS-260405-3061
   - INS-260403-E63B

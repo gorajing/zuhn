@@ -1,6 +1,6 @@
 # Topic: epistemics
 
-> 77 insights
+> 80 insights
 
 - `INS-260412-0F94` [high] The empty universe is not a lack of data — it is the single most important data point in the Fermi Paradox.
 - `INS-260412-CC9E` [high] At sufficient scale, not finding what you'd expect to find is itself strong evidence that it doesn't exist.
@@ -17,7 +17,9 @@
 - `INS-260412-4AC2` [high] We've catalogued millions of stars but have good data on only about two dozen black holes, with each measurement carrying large error bars from indirect observation and simplifying assumptions.
 - `INS-260412-94B2` [high] Burning paper doesn't destroy its information — it redistributes it across ash, smoke, and heat in a form that's theoretically reconstructable.
 - `INS-260412-61F8` [high] Stability feels like permanence because we lack sensory access to the rare events that shatter it.
+- `INS-260412-3F34` [high] Independent convergence on the same prediction (Tesla, Watkins, Bush all foresaw instant global communication) is stronger evidence of inevitability than any single prediction's accuracy.
 - `INS-260410-0775` [high] Chesterton's Fence is real — bitter cassava processing, food taboos, bow-making techniques encode causal logic that took centuries to evolve and that the people following them cannot explain.
+- `INS-260412-5C2D` [high] Once deepfakes are common knowledge, politicians and public figures can dismiss authentic video evidence as fabricated, weaponizing the technology's existence without ever using it.
 - `INS-260411-F649` [high] AI deployments should be segmented by epistemic risk tolerance: tolerate hallucinations for creative tasks, require grounding for decision support, and demand formal verification for autonomous execution.
 - `INS-260405-4693` [high] History uniformly shows that every era had forbidden truths; assuming ours is different requires extraordinary evidence.
 - `INS-260410-831F` [high] The Inquisition ignored Voltaire and the Encyclopédie to throw the book at Jansenist treatises about the Trinity — and Palmer says this pattern holds in every era she studies.
@@ -53,6 +55,7 @@
 - `INS-260412-BDB5` [high] Heavy elements require stars to die twice — first in supernovae to make neutron stars, then in kilonova collisions to forge gold and uranium.
 - `INS-260412-1F4E` [high] We exist at a cosmologically unique moment where we can see both our origins and our future — a privilege that will never recur.
 - `INS-260411-7F4F` [high] Aleatoric uncertainty (irreducible noise), epistemic uncertainty (knowledge gaps), and ontological uncertainty (ambiguous concepts) each demand different mitigation strategies.
+- `INS-260412-4701` [high] Kurzweil's 86% prediction accuracy via trend extrapolation coexists with his total miss on the dot-com crash, revealing the method's blind spot for non-technological discontinuities.
 - `INS-260409-BF3F` [high] In a field where measurements are routinely precise to ~1%, an 8-9% gap between two independent methods is not a rounding error — it is a crisis exactly because precision grew faster than the gap closed.
 - `INS-260409-0206` [high] The gap between 'unexplained' and 'aliens' is a logical leap people make far too quickly.
 - `INS-260412-C97E` [high] Emotionally satisfying unfalsifiable narratives outcompete empirically grounded ones in memetic spread.

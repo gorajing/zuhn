@@ -56,11 +56,11 @@ stance: >-
   conditions for catastrophic fraud.
 related:
   - INS-260410-001F
+  - INS-260412-1111
   - INS-260403-CA57
   - INS-260323-92AD
   - INS-260322-F6AA
   - INS-260412-BA99
-  - PRI-260406-DE8A
 ---
 Barings Bank transferred 75% of its entire capital — £330 million — to a single 28-year-old trader without meaningful oversight because his reported profits were spectacular. When other traders raised doubts about Leeson's numbers not adding up, executives dismissed them. Auditors who visited Singapore 'didn't test one record.' The bank sent him hundreds of thousands of pounds daily for margin payments without question.
 

@@ -61,8 +61,8 @@ related:
   - INS-260410-ED8E
   - INS-260410-0AA8
   - INS-260403-E482
+  - INS-260412-6C62
   - INS-260328-23B4
-  - INS-260330-8326
 ---
 In 1955 Sony was a tiny Japanese company trying to enter the US market when Bulova, an established American watch brand, offered to buy 100,000 transistor radios — an order many orders of magnitude larger than anything Sony had ever done. The only catch was that the radios had to ship under the Bulova name. Morita refused and told Bulova they could sell the Sony TR-63 or nothing. He later identified this as the most important decision of his career.
 

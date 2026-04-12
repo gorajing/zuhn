@@ -59,7 +59,7 @@ related:
   - INS-260411-0B4F
   - PRI-260406-4B0E
   - PRI-260406-4D4E
-  - INS-260410-151D
+  - INS-260412-4D5D
 ---
 Dimon highlights that high asset prices 'certainly feel good in the short run' but 'create additional risk if anything goes wrong.' Household net worth as a percentage of GDP is 560%, far above the 460% peak during the 2006 housing bubble. Credit spreads are at levels that leave minimal margin for error. This setup means anything less than the positive scenarios being priced in could cause rapid repricing.
 

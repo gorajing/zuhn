@@ -47,7 +47,6 @@ stance: >-
   once dilution is accounted for, meaning founders and early investors
   consistently overestimate their gains until they do the math.
 related:
-  - INS-260329-577E
   - INS-260330-404B
   - INS-260330-7346
   - INS-260405-285D

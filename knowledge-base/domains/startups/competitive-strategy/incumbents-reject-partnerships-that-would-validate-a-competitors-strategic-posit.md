@@ -58,8 +58,8 @@ related:
   - INS-260404-9C69
   - INS-260410-431E
   - INS-260410-5799
-  - INS-260412-032F
   - INS-260412-1023
+  - INS-260412-2A09
 ---
 Yahoo had at least three chances to neutralize Google — a $1M/year licensing deal, a $3B acquisition, and a trial integration that doubled user engagement in one week. Each time, Yahoo walked away not because the economics were bad, but because the deal structure positioned Google as the essential technology provider. Accepting meant admitting Yahoo's core search capability was inferior.
 

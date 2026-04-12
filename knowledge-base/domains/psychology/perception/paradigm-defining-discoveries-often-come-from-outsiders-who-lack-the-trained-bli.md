@@ -56,15 +56,15 @@ stance: >-
   through existing frameworks that make anomalies invisible
 related:
   - INS-260330-72D9
+  - INS-260412-C3AB
   - INS-260330-AB5D
   - INS-260323-D400
   - PRI-260406-A33C
   - INS-260404-3D14
-  - INS-260330-464E
   - INS-260330-3737
+  - INS-260330-464E
   - INS-260330-3ADD
   - INS-260330-FE21
-  - INS-260402-607A
 evidence:
   - id: INS-260330-3ADD
     type: TRANSFERS_TO

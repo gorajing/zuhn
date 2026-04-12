@@ -51,10 +51,10 @@ stance: >-
   humans expect them to learn
 related:
   - INS-260410-F08E
+  - INS-260412-C3AB
   - INS-260330-0FCC
   - INS-260330-3879
   - INS-260325-FD14
-  - INS-260330-7DCF
 evidence:
   - id: INS-260330-0FCC
     type: TRANSFERS_TO

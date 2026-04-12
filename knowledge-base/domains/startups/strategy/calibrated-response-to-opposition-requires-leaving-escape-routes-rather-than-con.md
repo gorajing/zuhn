@@ -52,7 +52,6 @@ stance: >-
   Optimal conflict management contains the behavior you want to stop while
   always providing an exit path for adversaries who choose to disengage.
 related:
-  - INS-260330-0F49
   - INS-260403-6861
   - INS-260412-47D5
   - INS-260412-891B

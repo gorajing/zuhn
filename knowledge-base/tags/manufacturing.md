@@ -24,6 +24,7 @@
 - `INS-260412-2147` Multi-tier supplier chains compound markups at each layer, making vertically integrated competitors dramatically cheaper.
 - `INS-260325-C5FD` American automakers take 6 years to ship a new model; Chinese competitors do it in 18 months — with 50 major EV makers competing fiercely, iteration speed IS the innovation.
 - `INS-260405-2AFD` China's workforce built deep process knowledge by assembling goods for international firms, and that accumulated expertise became the foundation for leapfrogging into EVs, solar, and AI hardware.
+- `INS-260412-4CC8` TSMC holds 61.7% foundry market share vs Samsung's 11% because higher yields attract premium clients, whose revenue funds further R&D — a flywheel that accelerates the gap.
 - `INS-260403-44D9` EV technology shares components with drones, robots, and electronics, so low EV adoption limits scale for the entire manufacturing ecosystem.
 - `INS-260330-5600` Compute the raw material cost of your product's constituent atoms — that's the asymptotic floor — then ask why your actual cost is higher.
 - `INS-260321-E654` Defense primes' advantage over startups is not inventiveness but production and manufacturing at scale — startups must build factory and quality-testing muscle to cross the procurement chasm.

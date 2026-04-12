@@ -2,4 +2,5 @@
 
 - `INS-260410-7AF5` Unlike humans, AI copies can pool their on-the-job learning — so one AI effectively learns every job in the economy simultaneously once online learning works.
 - `INS-260330-3C2F` Direct observation reveals that thinking is punctuated by gaps of pure awareness, challenging the assumption that cognition is a continuous stream.
+- `INS-260412-4701` Kurzweil's 86% prediction accuracy via trend extrapolation coexists with his total miss on the dot-com crash, revealing the method's blind spot for non-technological discontinuities.
 - `INS-260412-AB32` Black holes show a gap from 150 to millions of solar masses because incremental star-eating can't bridge it — a different mechanism (quasi-stars) was needed.

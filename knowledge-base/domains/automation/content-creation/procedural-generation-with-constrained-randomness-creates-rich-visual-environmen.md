@@ -51,7 +51,6 @@ stance: >-
   visually compelling star fields than any hand-placed arrangement could
 related:
   - INS-260327-A44E
-  - INS-260330-3ADD
   - INS-260330-FCFA
   - INS-260403-C4EE
   - INS-260325-436A
@@ -60,6 +59,7 @@ related:
   - INS-260329-5ECD
   - INS-260329-9CFE
   - INS-260409-661A
+  - INS-260412-9414
 evidence:
   - id: INS-260329-5ECD
     type: CHALLENGES

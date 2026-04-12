@@ -760,6 +760,7 @@ Generated on 2026-04-12 | 2467 sources
 | Every Country in the World (Part 1) | youtube | 5 | 2026-04-12 |
 | Everything We Teach at YCombinator in 10 Minutes | youtube | 5 | 2026-03-27 |
 | Evolution designed us to die fast; we can change that — Jacob Kimmel | youtube | 5 | 2026-04-10 |
+| 'Fake Bitcoin' - How this Woman Scammed the World, then Vanished | youtube | 5 | 2026-04-12 |
 | Feel Free is a NIGHTMARE | youtube | 5 | 2026-03-26 |
 | Formula 1 (Audio) | youtube | 5 | 2026-04-11 |
 | From $0 to $11B: The ElevenLabs Story | youtube | 5 | 2026-03-22 |
@@ -780,6 +781,7 @@ Generated on 2026-04-12 | 2467 sources
 | How Apple Just Changed the Entire Industry (M1 Chip) | youtube | 5 | 2026-04-12 |
 | How are holograms possible? | youtube | 5 | 2026-03-30 |
 | How Barbers Really Make Money | youtube | 5 | 2026-03-24 |
+| How BIG is Volkswagen? (They own Lamborghini, Bentley, Bugatti, Porsche..) | youtube | 5 | 2026-04-12 |
 | How Budget Airlines Work | youtube | 5 | 2026-04-12 |
 | How Does A Carburetor Work? | Transparent Carburetor at 28,546 fps Slow Mo - Smarter Every Day 259 | youtube | 5 | 2026-03-30 |
 | How evolution works in 54 minutes | Sean B. Carroll: Full Interview | youtube | 5 | 2026-03-25 |
@@ -791,6 +793,7 @@ Generated on 2026-04-12 | 2467 sources
 | How North Korea Makes Money | youtube | 5 | 2026-03-30 |
 | How Ocean Shipping Works (And Why It's Broken) | youtube | 5 | 2026-04-12 |
 | How One Company Secretly Poisoned The Planet | youtube | 5 | 2026-03-30 |
+| How One Powerful Family Destroyed A Country | youtube | 5 | 2026-04-12 |
 | How one psychedelic trip can alter an entire lifetime | Matthew Johnson: Full Interview | youtube | 5 | 2026-03-25 |
 | How OpenAI Builds for 800 Million Weekly Users: Model Specialization and Fine-Tuning | youtube | 5 | 2026-03-22 |
 | How Overnight Shipping Works | youtube | 5 | 2026-04-12 |
@@ -906,6 +909,7 @@ Generated on 2026-04-12 | 2467 sources
 | Sam Harris & Ben Shapiro Debate: Trump, Election Interference, & Foreign Policy | youtube | 5 | 2026-03-30 |
 | Sam Harris Challenges Douglas Murray on His Ties to MAGA | youtube | 5 | 2026-03-30 |
 | Sam Harris on Tariffs, SignalGate, Trump, Elon, Joe Rogan, & Douglas Murray | youtube | 5 | 2026-03-30 |
+| Samsung is in Crisis | youtube | 5 | 2026-04-12 |
 | Samsung’s Dangerous Dominance over South Korea | youtube | 5 | 2026-04-12 |
 | Sarah Paine – How Hitler almost starved Britain | youtube | 5 | 2026-04-10 |
 | Sarah Paine — How Imperial Japan defeated Tsarist Russia & Qing China | youtube | 5 | 2026-04-10 |
@@ -1439,6 +1443,7 @@ Generated on 2026-04-12 | 2467 sources
 | 25 Years of Building Startups Explained in 17 Minutes | TaleTree, Matt Hagger | youtube | 4 | 2026-03-23 |
 | 3 ways smart people stay stuck in failing patterns | Anne-Laure Le Cunff | youtube | 4 | 2026-03-25 |
 | 42 Life Lessons I Know at 42 That I Wish I Knew Sooner | youtube | 4 | 2026-03-23 |
+| 6 People Who Predicted the Future With Stunning Accuracy | youtube | 4 | 2026-04-12 |
 | 6 ways to heal trauma without medication | Bessel van der Kolk | Big Think | youtube | 4 | 2026-03-30 |
 | 서울대 의대 출신 창업가가 6년 삽질하고 깨달은 사업의 원리 | 모두닥 다큐멘터리 | youtube | 4 | 2026-03-23 |
 | A Guided Tour of Musical Feeling | youtube | 4 | 2026-03-22 |
@@ -1482,11 +1487,13 @@ Generated on 2026-04-12 | 2467 sources
 | Computer & Technology Basics Course for Absolute Beginners | youtube | 4 | 2026-03-29 |
 | Context Engineering Our Way to Long-Horizon Agents: LangChain’s Harrison Chase | youtube | 4 | 2026-03-26 |
 | Cursor Team: Future of Programming with AI | Lex Fridman Podcast #447 | youtube | 4 | 2026-03-24 |
+| Deepfakes - Real Consequences | youtube | 4 | 2026-04-12 |
 | Don’t chase happiness. Become antifragile | Tal Ben-Shahar | Big Think | youtube | 4 | 2026-03-30 |
 | Editing Your DNA, with Nobel Prize Winner Dr. Jennifer Doudna | youtube | 4 | 2026-03-23 |
 | Eigenvectors and eigenvalues | Chapter 14, Essence of linear algebra | youtube | 4 | 2026-03-30 |
 | Eliezer Yudkowsky: Dangers of AI and the End of Human Civilization | Lex Fridman Podcast #368 | youtube | 4 | 2026-03-24 |
 | Emmett Shear on Building AI That Actually Cares: Beyond Control and Steering | youtube | 4 | 2026-03-22 |
+| Enron - The Biggest Fraud in History | youtube | 4 | 2026-04-12 |
 | Enterprise Sales | Startup School | youtube | 4 | 2026-03-27 |
 | Every major leap in human progress has this in common | Jason Crawford: Full Interview | youtube | 4 | 2026-03-25 |
 | Every State in the US | youtube | 4 | 2026-04-12 |
@@ -1686,6 +1693,7 @@ Generated on 2026-04-12 | 2467 sources
 | What's Actually the Plane of the Future | youtube | 4 | 2026-04-12 |
 | What’s Hiding at the Most Solitary Place on Earth? The Deep Sea | youtube | 4 | 2026-04-12 |
 | What’s the Future of Vertical SaaS in an AGI World? Jamie Cuffe, CEO of Pace | youtube | 4 | 2026-03-26 |
+| When Greed Goes Too Far - The Worldcom Fraud | youtube | 4 | 2026-04-12 |
 | When You Truly Work for Yourself | youtube | 4 | 2026-03-30 |
 | Where Did Bitcoin Come From? – The True Story | youtube | 4 | 2026-04-12 |
 | Where to invest in a multipolar world (WW3?) | youtube | 4 | 2026-03-22 |
@@ -1713,6 +1721,7 @@ Generated on 2026-04-12 | 2467 sources
 | World's Fastest Pitch - Supersonic Baseball Cannon - Smarter Every Day 242 | youtube | 4 | 2026-03-30 |
 | World's Longest Home Run (The "Mad Batter" Machine) - Smarter Every Day 230 | youtube | 4 | 2026-03-30 |
 | Wormholes Explained – Breaking Spacetime | youtube | 4 | 2026-04-12 |
+| Worst Company Disasters! | Top 6 Blunders | youtube | 4 | 2026-04-12 |
 | You Are Immune Against Every Disease | youtube | 4 | 2026-04-12 |
 | Your life needs more ‘existential grit.’ Here’s how to find it | Kate Bowler | youtube | 4 | 2026-03-25 |
 | You've (Likely) Been Playing The Game of Life Wrong | youtube | 4 | 2026-03-23 |
@@ -2442,31 +2451,22 @@ Generated on 2026-04-12 | 2467 sources
 | You Will Never Wear AirPods Again | youtube | 1 | 2026-03-26 |
 | You'll Never Eat Sardines Again | youtube | 1 | 2026-03-26 |
 | 5 Mind Blowing Facts About Your Smartphone! | youtube | 0 | 2026-04-12 |
-| 6 People Who Predicted the Future With Stunning Accuracy | youtube | 0 | 2026-04-12 |
-| Deepfakes - Real Consequences | youtube | 0 | 2026-04-12 |
-| Enron - The Biggest Fraud in History | youtube | 0 | 2026-04-12 |
 | EU Just Changed Smartphones Forever | youtube | 0 | 2026-04-12 |
 | Ex-Apple CEO Starts His Own Phone Company! | youtube | 0 | 2026-04-12 |
 | Exploring the Dark Web | youtube | 0 | 2026-04-12 |
-| 'Fake Bitcoin' - How this Woman Scammed the World, then Vanished | youtube | 0 | 2026-04-12 |
 | Google's Deep Mind Explained! - Self Learning A.I. | youtube | 0 | 2026-04-12 |
 | How BIG is Google? | youtube | 0 | 2026-04-12 |
 | How BIG is Samsung? (They Have a Military Department!) | youtube | 0 | 2026-04-12 |
 | How BIG is TATA? (They Own Jaguar) | ColdFusion | youtube | 0 | 2026-04-12 |
 | How Big is Toyota? (They’ve Owned 27% of Tesla Motors!) | youtube | 0 | 2026-04-12 |
-| How BIG is Volkswagen? (They own Lamborghini, Bentley, Bugatti, Porsche..) | youtube | 0 | 2026-04-12 |
-| How One Powerful Family Destroyed A Country | youtube | 0 | 2026-04-12 |
 | Li-Fi, 100X Faster Than Wi-Fi! | ColdFusion | youtube | 0 | 2026-04-12 |
 | Major Breakthrough: Graphene Batteries FINALLY Hit the Market | youtube | 0 | 2026-04-12 |
 | Married Couple Steals $4.5 Billion in Bitcoin Heist [Bitfinex] | youtube | 0 | 2026-04-12 |
 | Next-Gen Graphics FINALLY Arrive [Unreal Engine 5] | youtube | 0 | 2026-04-12 |
 | Next Generation Robots - Boston Dynamics, Asimo, Da Vinci, SoFi | youtube | 0 | 2026-04-12 |
 | Nokia’s 2017 Return | youtube | 0 | 2026-04-12 |
-| Samsung is in Crisis | youtube | 0 | 2026-04-12 |
 | The Man Who Stole $65 Billion (Bernie Madoff) | youtube | 0 | 2026-04-12 |
 | The True Story of Nikola Tesla [Pt.1] | youtube | 0 | 2026-04-12 |
 | The Truth About Solar | youtube | 0 | 2026-04-12 |
 | What Was the Biggest Company in History? - $7.9 Trillion! | youtube | 0 | 2026-04-12 |
-| When Greed Goes Too Far - The Worldcom Fraud | youtube | 0 | 2026-04-12 |
 | Why Meta Lost $230 billion [Biggest Company Loss in History] | youtube | 0 | 2026-04-12 |
-| Worst Company Disasters! | Top 6 Blunders | youtube | 0 | 2026-04-12 |

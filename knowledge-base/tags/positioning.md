@@ -61,12 +61,12 @@
 - `INS-260405-B11B` FOMO-based selling backfires by triggering buyer resistance rather than accelerating decisions.
 - `INS-260405-390B` The most effective salespeople act as expert guides helping buyers make a good decision, not advocates pushing their own product.
 - `INS-260410-E3E6` NVIDIA's superpower is navigating to 'zero-billion-dollar markets' — non-existent markets they believe will emerge — and arriving a decade before competitors even understand why they're there.
+- `INS-260403-6932` Audiences choose between concerts and all other leisure options, so musicians compete in the attention economy, not just the music market.
+- `INS-260329-3EC3` Define your ideal customer as one hyper-specific person rather than a broad demographic to unlock premium pricing and faster sales cycles.
+- `INS-260403-E209` When stuck at any PMF level, reassess the four P's — persona, problem, promise, product — rather than reflexively iterating on product alone.
 - `INS-260330-85C2` Morgan became so central to U.S. financial stability that presidents had no choice but to call on him during crises, giving him extraordinary leverage.
 - `INS-260330-FEB0` The Eastern Empire survived 1,000 years longer than the West primarily because it was richer, more urban, more compact, and closer to major trade routes — not because it had better armies.
 - `INS-260403-4F1B` A centralized failure that mirrors what your decentralized product prevents becomes the strongest possible validation of your value proposition.
 - `INS-260330-24E0` When resources genuinely constrain you, realist assessment of your actual position beats maintaining an aspirational narrative about strength you no longer have.
 - `INS-260404-007B` Costco's warehouse layout and IKEA's DIY model prove that reframing cost-cutting constraints as intentional experiences creates emotional loyalty beyond price.
 - `INS-260403-FBD6` Refusing to budge on low-priority positions drains political capital needed to win the battles that actually matter.
-- `INS-260329-3EC3` Define your ideal customer as one hyper-specific person rather than a broad demographic to unlock premium pricing and faster sales cycles.
-- `INS-260403-E209` When stuck at any PMF level, reassess the four P's — persona, problem, promise, product — rather than reflexively iterating on product alone.
-- `INS-260403-6932` Audiences choose between concerts and all other leisure options, so musicians compete in the attention economy, not just the music market.

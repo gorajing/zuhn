@@ -9,23 +9,25 @@
 - `INS-260409-CDCD` The only way humans build anything as complex as a CPU is by aggressively black-boxing working parts and refusing to reason about internals and externals simultaneously.
 - `INS-260410-9DB0` Every piece of a harness encodes an assumption about what the model can't do; those assumptions are worth re-stress-testing each model release.
 - `INS-260329-A67B` When variables are linked by constraint equations, the chain rule reveals how change propagates through the system at rates that defy naive intuition.
-- `INS-260330-7994` Psychology's strength as a science comes from maintaining multiple competing schools of thought rather than converging on a single methodology.
-- `INS-260330-BE0A` Dark matter doesn't form planets or galaxies because its particles don't interact with each other — self-interaction, not just external interaction, is what enables structural complexity.
+- `INS-260412-1111` Inability to explain a profit model in plain terms is a stronger fraud signal than any financial metric.
 - `INS-260325-793A` The Bronze Age collapse resulted from drought, migration, earthquakes, and trade disruption compounding — not any single cause.
 - `INS-260327-C834` The economy hasn't collapsed despite tariff whiplash, mass firings, and regulatory chaos because large systems have enormous inertia.
 - `INS-260325-3A0E` WWI proves that interlocking alliance systems turn local crises into global catastrophes — complexity creates systemic fragility.
+- `INS-260330-7994` Psychology's strength as a science comes from maintaining multiple competing schools of thought rather than converging on a single methodology.
+- `INS-260330-BE0A` Dark matter doesn't form planets or galaxies because its particles don't interact with each other — self-interaction, not just external interaction, is what enables structural complexity.
 - `INS-260404-E783` Seemingly paradoxical findings often dissolve when you recognize the phenomenon as a mix of tradeoff and failure components rather than seeking a single unified explanation.
 - `INS-260330-FB9C` Adding unnecessary complexity (abstract factories, excessive type gymnastics) often functions as social dominance signaling rather than engineering improvement.
+- `INS-260330-E8BD` Mastering complex systems requires identifying the few repeated patterns rather than memorizing individual components.
+- `INS-260403-FC01` The entire light-dependent reaction chain reduces to one principle: use excited electrons to pump protons, creating a gradient that drives ATP synthesis.
+- `INS-260403-2DC0` Photosynthesis looks simple (sunlight + water + CO2 → glucose + O2) but requires four protein complexes, multiple electron carriers, and a regeneration cycle—complexity hidden by clean I/O descriptions.
 - `INS-260330-8A65` Sanderson's observation that 'if it were any simpler, what hope would we have that it could recognize digits?' reveals a useful heuristic: solution complexity should be proportional to problem complexity.
 - `INS-260329-4109` Big-O deliberately ignores constants and small inputs, which means theoretically equivalent algorithms can have vastly different real-world performance.
 - `INS-260330-3C70` The 3x+1 rule is trivially simple yet produces hailstone sequences that follow geometric Brownian motion — the same statistical pattern as stock market fluctuations.
 - `INS-260329-BFBF` Big-O notation forces worst-case thinking, which is the opposite of how humans naturally estimate outcomes.
-- `INS-260330-E8BD` Mastering complex systems requires identifying the few repeated patterns rather than memorizing individual components.
-- `INS-260403-FC01` The entire light-dependent reaction chain reduces to one principle: use excited electrons to pump protons, creating a gradient that drives ATP synthesis.
-- `INS-260403-2DC0` Photosynthesis looks simple (sunlight + water + CO2 → glucose + O2) but requires four protein complexes, multiple electron carriers, and a regeneration cycle—complexity hidden by clean I/O descriptions.
 - `INS-260330-6AB7` The Calvin Cycle produces 6 G3P molecules but 5 must be recycled to regenerate the starting material — only 1/6 of output actually leaves the system as usable product.
 - `INS-260330-42DE` The body's hierarchy — atoms, cells, tissues, organs, organ systems, organism — shows how stacking simple organized layers produces capabilities none could achieve alone.
 - `INS-260405-BEA7` Photosynthesis is 450 million years old, described as 'complicated, inefficient and confusing'—yet it powers virtually all life on Earth.
+- `INS-260330-CA43` A mechanical engineer discovered he didn't truly understand an everyday device until he built a transparent version and watched it in slow motion.
 - `INS-260329-DFDB` Layering simple, well-understood components produces more robust complex systems than designing bespoke monolithic solutions.
 - `INS-260325-0921` The Collatz sequence's logarithmic behavior matches geometric Brownian motion — a stock-market-like random walk emerging from a fully deterministic rule.
 - `INS-260327-4A10` Standing in primary Amazon rainforest reveals that everything we call 'complex' in human systems is trivially simple compared to what evolution has produced.
@@ -34,7 +36,6 @@
 - `INS-260329-B8B6` The chain rule states that when y depends on u which depends on x, the rate dy/dx equals dy/du times du/dx — rates of change through composed systems multiply, they don't add.
 - `INS-260329-8D70` Binary search trees average O(log n) but degrade to O(n) when data arrives sorted — this single gap motivated AVL trees, red-black trees, and the entire field of self-balancing structures.
 - `INS-260330-B8C6` Zipf's law in language likely emerges from multiple colluding mechanisms rather than a single cause, reflecting something fundamental about how minds model complexity.
-- `INS-260330-CA43` A mechanical engineer discovered he didn't truly understand an everyday device until he built a transparent version and watched it in slow motion.
 - `INS-260325-F707` Lists of '3 traits of highly resilient people' are myths — research finds many factors with small effects, meaning resilience is not a fixed character trait but an emergent outcome of many interacting variables.
 - `INS-260412-44FA` Ecosystems with multiple layers of interdependency develop emergent defensive properties that no single layer could achieve alone.
 - `INS-260323-A1FE` Jet engine turbine blades must simultaneously optimize for temperature resistance (1,500C), centripetal force (20 metric tons per blade), oxidation resistance, creep resistance, weight, and manufacturing precision — and you can't max one without sacrificing others, making the integration itself the competitive moat.
@@ -43,8 +44,8 @@
 - `INS-260330-BC6F` A YC company that improperly converted from a Connecticut LLC to a Delaware Corporation discovered the mistake years later during fundraising, requiring four law firms and $500K to resolve.
 - `INS-260325-486C` Adjacent numbers 26 and 27 in Collatz reach maximums of 40 and 9,232 respectively — simple rules create wildly divergent outcomes that no intuition can predict.
 - `INS-260403-868C` Solutions that handle any finite or countably infinite load can completely break at the next order of complexity.
-- `INS-260329-7B1D` Malan's technique of changing only one thing per code iteration — either the concept or the syntax, never both — minimizes cognitive load and accelerates learning.
 - `INS-260404-E8B2` Fewer components means fewer connections between them, and connection-count is where bugs actually live.
+- `INS-260329-7B1D` Malan's technique of changing only one thing per code iteration — either the concept or the syntax, never both — minimizes cognitive load and accelerates learning.
 - `INS-260403-DD41` YC broke at 80 startups because partner-startup relationships were O(n²) — sharding into dedicated groups fixed it instantly.
 - `INS-260330-240A` Bacteria explored far more genetic sequence space than eukaryotes over 4 billion years yet never became complex — proving that more iteration on the same architecture cannot overcome structural energy constraints.
 - `INS-260405-3CC7` Rare edge cases become common failures at scale, creating novel downstream problems no amount of upfront architecture prevents.

@@ -51,10 +51,10 @@ stance: >-
   mistake of underestimating the speed and scale of disruption.
 related:
   - PRI-260328-C528
+  - INS-260412-30EE
   - PRI-260328-4B40
   - PRI-260328-D401
   - INS-260404-9DBB
-  - INS-260323-05B5
 evidence:
   - id: INS-260323-05B5
     type: CONTRADICTS

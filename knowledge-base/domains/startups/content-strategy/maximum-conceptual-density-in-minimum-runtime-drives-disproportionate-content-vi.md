@@ -46,7 +46,6 @@ stance: >-
   longer explorations of the same idea because it respects attention while
   delivering full emotional payoff.
 related:
-  - INS-260327-9816
   - INS-260323-527B
   - INS-260409-9851
   - INS-260405-0184

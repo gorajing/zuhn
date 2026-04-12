@@ -63,8 +63,8 @@ related:
   - INS-260330-10CF
   - PRI-260328-82BE
   - PRI-260326-DB67
+  - INS-260412-8C4F
   - INS-260403-C228
-  - INS-260410-93E3
 ---
 By 1953, mail-order furniture in Sweden had a trust crisis: competitors used attractive catalog photos that bore little resemblance to what arrived, with no recourse (no credit cards, no modern returns). Price wars were degenerating into quality fraud. Kamprad's answer wasn't to pull back from mail order or to become a chain of stores. He opened one showroom in a town of a thousand people — explicitly not a store, just a place to 'convince' customers. People would take the train from across the country to touch the furniture once, fill out an order form, and receive it by mail weeks later. The catalog did the selling; the showroom did the trusting.
 

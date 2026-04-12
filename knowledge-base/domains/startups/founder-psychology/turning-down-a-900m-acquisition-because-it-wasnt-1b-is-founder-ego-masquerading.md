@@ -50,13 +50,13 @@ resolutions:
 related:
   - INS-260403-C349
   - INS-260403-E482
+  - INS-260412-24DB
   - INS-260412-1023
   - INS-260403-EA15
   - INS-260330-CECB
   - INS-260402-96E2
   - INS-260403-912E
   - INS-260330-808B
-  - INS-260410-5799
   - INS-260412-AB09
 stance: >-
   Casper rejected Target's $900M acquisition offer because it wasn't a billion

@@ -54,5 +54,6 @@ related:
   - INS-260410-C474
   - PRI-260321-0A4D
   - PRI-260324-3AAE
+  - INS-260412-29B6
 ---
 The video traces a continuous thread from Russia's earliest expansion through Stalin's buffer states to Putin's Crimea annexation—all driven by the same structural vulnerabilities: the Northern European Plain funnel, lack of warm-water ports, and chokepoint-controlled ocean access. Different leaders across centuries, different ideologies (tsarist, communist, capitalist-authoritarian), yet strikingly similar strategic behavior. This suggests that when structural constraints are severe enough, they dominate leadership quality as a predictor of behavior. The implication for decision-making is humbling: before attributing outcomes to individual brilliance or incompetence, examine the structural constraints that channel behavior. In business analysis, this means evaluating the structural position of a company (market structure, regulatory environment, supply chain geography) may be more predictive than assessing management quality.

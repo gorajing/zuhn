@@ -47,6 +47,7 @@ resolutions:
     don't need a massive sensor array if you have a reproducible signal.
 related:
   - INS-260325-2999
+  - INS-260412-C3AB
   - INS-260323-189B
   - INS-260410-42CB
   - INS-260410-4782

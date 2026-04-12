@@ -65,7 +65,6 @@ stance: >-
   software produces cost structures that enterprise-hardware competitors cannot
   replicate later.
 related:
-  - INS-260327-12BE
   - INS-260405-1054
   - INS-260405-95A6
   - INS-260325-5CB1

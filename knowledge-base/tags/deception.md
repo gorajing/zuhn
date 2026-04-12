@@ -6,6 +6,7 @@
 - `INS-260412-7C35` Charlie Javice's decade-long pattern shows how unchallenged small lies (fake nonprofit metrics, fabricated scholarship rejections) trained her to attempt a $175M fraud against JP Morgan.
 - `INS-260330-90C3` Jho Low's fake credentials compounded — each lie made the next one easier because people used prior signals as validation.
 - `INS-260403-4CF9` Smooth-tongued liars succeed by method-acting belief in false premises, producing internally consistent but externally ungrounded reasoning.
+- `INS-260412-1440` Mixing genuine credentials with fabricated ones creates a credibility halo that makes each element harder to independently question.
 - `INS-260325-D82A` Psychopathy's defining feature is 'The Mask of Sanity' — an outwardly normal, charming exterior concealing profound deficits in emotion and genuine caring about others.
 - `INS-260330-5C69` Deliberately deceiving an adversary in negotiations to buy time destroys the possibility of future diplomatic solutions, often at catastrophic long-term cost.
 - `INS-260412-F893` Two identical presidential limos with the same plates make spotter intelligence worthless — a deception principle applicable to competitive strategy.

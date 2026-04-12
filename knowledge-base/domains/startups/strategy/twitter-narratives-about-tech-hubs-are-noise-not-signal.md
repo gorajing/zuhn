@@ -46,10 +46,10 @@ stance: >-
   for decision-making.
 related:
   - INS-260322-38D8
+  - INS-260412-C3AB
   - INS-260322-F65F
   - INS-260323-BEF0
   - INS-260404-D976
-  - INS-260403-28C7
 evidence:
   - id: INS-260322-F65F
     type: SUPPORTS

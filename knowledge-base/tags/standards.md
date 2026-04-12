@@ -10,5 +10,5 @@
 - `INS-260329-CBF3` The market rewards what is required, not what you tried — if your best isn't enough, the answer is to become better, not to feel good about falling short.
 - `INS-260330-3D0D` Protocols create the most durable network effects but the creator must retain control of identity, addressing, or tokens to capture value — otherwise the standard becomes a public good they don't profit from.
 - `INS-260405-EFC2` C invented the curly-brace, semicolon syntax that now defines how billions of developers write code — its design choices became the assumed defaults of most successor languages.
-- `INS-260330-C2C4` Web components promise framework-agnostic reusable elements, but the underlying browser API is so difficult that entire frameworks (Lit, Stencil) exist solely to make them palatable — revealing a gap between standard availability and standard usability.
 - `INS-260403-8BA2` You don't need total consensus on rankings to have meaningful quality standards — a partial order where great is distinguishable from mediocre is enough.
+- `INS-260330-C2C4` Web components promise framework-agnostic reusable elements, but the underlying browser API is so difficult that entire frameworks (Lit, Stencil) exist solely to make them palatable — revealing a gap between standard availability and standard usability.

@@ -56,9 +56,9 @@ stance: >-
 related:
   - INS-260327-AFC7
   - INS-260330-13EE
-  - INS-260330-D429
   - INS-260330-9BC4
   - INS-260405-AD58
-  - INS-260327-8912
+  - INS-260330-D429
+  - INS-260412-E0D9
 ---
 China's trajectory reveals a universal scaling paradox: the geographic advantages that enabled it to grow the world's largest population (fertile land, rice double-cropping, 11M calories/acre vs wheat's 4M) eventually became insufficient for that very population. China now imports more food and oil than it exports, making it dependent on foreign powers it is often at odds with. This mirrors a common pattern in competitive systems — a company that bootstraps on internal advantages (proprietary tech, unique data, cheap labor) eventually scales beyond what those advantages can sustain, requiring partnerships with or purchases from competitors. The transition from self-sufficient to import-dependent is particularly dangerous because the organizational culture and strategy were built around self-sufficiency assumptions. Africa becoming 'China's China' — supplying the country that supplies the world — shows how scaling entities must replicate their own supply chain dynamics one level down, creating fragile dependency chains that extend their vulnerability surface.

@@ -1,5 +1,6 @@
 # Tag: neural-networks
 
+- `INS-260412-2327` Free apps like FakeApp achieved results comparable to Hollywood's 18-month, six-figure VFX pipelines in 30 minutes on consumer hardware.
 - `INS-260404-DDC8` Figure AI's Helix 02 replaces over 100,000 lines of C++ with a three-layer neural network that handles balance, sensor fusion, and reasoning in a single system.
 - `INS-260330-5F36` Replacing C++ heuristics with neural nets that directly output vectors instead of a 'giant bag of points' is the key architectural evolution.
 - `INS-260325-4C6D` Neural networks succeed precisely because they work like human intuition rather than like explicit logical rules.

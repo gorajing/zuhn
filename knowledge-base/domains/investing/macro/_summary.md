@@ -1,6 +1,6 @@
 # Topic: macro
 
-> 66 insights
+> 68 insights
 
 - `INS-260412-BE3C` [high] Crowded short positions above 100% float create exploitable asymmetric risk where shorts face unlimited loss while longs risk only their principal.
 - `INS-260411-FC21` [high] Capital formation drives GDP growth, R&D, and jobs — 80% of R&D and 70% of capex comes from large companies, and countries like Sweden that promote retail investment outperform those that don't.
@@ -10,6 +10,7 @@
 - `INS-260405-397C` [high] A continuing resolution ending January 30 means the same fight resumes in six weeks with even less goodwill.
 - `INS-260412-AB8A` [high] Post-2008 money printing inflates assets faster than wages, making housing and investments progressively unreachable for wage earners.
 - `INS-260412-2054` [high] When money is created through bank lending, reducing total debt shrinks the money supply itself, creating a deflationary spiral.
+- `INS-260412-BC15` [high] Sri Lanka tripled external debt from 2006-2012 to double GDP per capita, but the growth vanished the moment tourism revenue and export capacity were disrupted.
 - `INS-260412-E3CC` [high] In 1974 it was illegal to fly NYC-LA for less than $1,442 (inflation-adjusted); deregulation enabled a 50% real price drop over three decades.
 - `INS-260410-4357` [high] At scale, effectiveness of achieving outcomes matters more than efficiency of resource use — the 'waste' in China's growth was the mechanism that produced the growth.
 - `INS-260410-6A19` [high] Goldman Sachs and every serious forecaster predicted China would dwarf the US by now — they were all wrong, just as they were wrong about Japan and the USSR before that.
@@ -36,6 +37,7 @@
 - `INS-260412-5731` [high] China's own economic success raised wages enough that Chinese manufacturers now seek cheaper labor in Africa, replicating the pattern that built China.
 - `INS-260411-FE7B` [high] The capital requirements for AI infrastructure, supply chain resilience, and government capabilities are raising barriers to entry and making scale advantages more durable, not less.
 - `INS-260412-8D4F` [high] Purdue's cumulative settlements were described as 'pennies on the dollar' against $35B in OxyContin revenue, functioning as an 'expensive license for criminal misconduct.'
+- `INS-260412-DB82` [high] Sri Lanka's island geography meant that foreign reserve depletion simultaneously cut off fuel, food, medicine, and even printing paper — a crisis multiplier that continental economies with overland trade routes do not face.
 - `INS-260410-731D` [high] China's banking system lets strategic-sector companies borrow on the promise of producing units, not profits — which produces world-leading manufacturing capacity alongside massive capital destruction.
 - `INS-260412-BC68` [high] Stock market cap exceeding GDP indicates the market reflects monetary policy rather than economic fundamentals.
 - `INS-260412-F401` [high] Container shortages worsened port congestion, which worsened container shortages, which worsened truck driver shortages — each shortage feeding the next in a vicious cycle.

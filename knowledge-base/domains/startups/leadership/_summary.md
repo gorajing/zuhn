@@ -1,6 +1,6 @@
 # Topic: leadership
 
-> 199 insights
+> 203 insights
 
 - `INS-260404-F834` [high] Replace abstract culture complaints with specific behavioral stories backed by evidence to surface real, fixable problems.
 - `INS-260330-4A89` [high] Raises given on request incentivize lobbying over performance; formal evaluation cycles protect meritocratic culture.
@@ -19,6 +19,7 @@
 - `INS-260327-6F11` [high] The two things that give a CEO the biggest leverage are having the right product vision and communicating that vision to the team.
 - `INS-260327-24D2` [high] Parker Conrad argues CEOs must develop firsthand understanding of every area rather than delegating to domain experts and trusting them to figure it out.
 - `INS-260403-6731` [high] CEO time allocation to innovation is the single strongest predictor of whether innovation programs produce results.
+- `INS-260412-01CE` [high] Blockbuster's replacement CEO thought it was a retail business instead of an entertainment one, killing their competitive online component and losing 85% of company value in 18 months.
 - `INS-260403-8E4D` [high] Steve Jobs was unique because he had genuine taste himself rather than delegating it, which most CEOs do and which the design paradox shows produces near-random outcomes.
 - `INS-260403-EEDB` [high] The CEO's primary innovation job is building the environment where people explore, not choosing which innovations to fund.
 - `INS-260323-F15D` [high] When transforming a large organization, changing processes and tools (the 'how') unlocks speed more effectively than simply demanding faster output.
@@ -143,6 +144,7 @@
 - `INS-260327-A8D9` [high] If you don't use your values for the hardest decisions of your life, they're not really your values.
 - `INS-260323-FA30` [high] Teddy Atlas's father never lectured about values -- he picked up homeless people on holidays, treated patients for free, and his son absorbed these values through proximity and observation rather than direct instruction.
 - `INS-260327-088D` [high] Vlad Tenev argues wartime should be the default state; any period of peacetime comfort means you probably weren't executing aggressively enough.
+- `INS-260412-4FE6` [high] Cynthia Cooper uncovered WorldCom's fraud not because she had special access, but because she kept investigating after being actively discouraged by the CFO and encountering institutional resistance.
 - `INS-260323-8726` [high] The moment you decide you are too embarrassed to try something new, you stop learning — making willingness to be a beginner the most important skill for leaders.
 - `INS-260403-7CAA` [high] Keeping the company running during crisis gives employees stability and purpose, not just revenue.
 - `INS-260330-36B4` [high] When announcing someone's departure, preserve their dignity — every employee in the company will be called as a reference for that person.
@@ -166,7 +168,9 @@
 - `INS-260403-8B5A` [medium] Founder-led deep involvement beats the conventional 'hire and delegate' playbook at scale.
 - `INS-260405-B4D2` [medium] Silicon Valley is rehabilitating micromanagement as a tool founders should embrace rather than avoid.
 - `INS-260410-A65C` [medium] The NFL got Pete Rozelle as a paid commissioner; F1 needed Bernie Ecclestone as an owner-operator because you cannot wage-incentivize someone to wrangle global teams, tracks, broadcasters, and a regulator across 45 years.
+- `INS-260412-86F1` [medium] Ferdinand Porsche was rejected by every European automaker before Hitler's government finally backed his people's car vision.
 - `INS-260403-93BB` [medium] Founder visibility isn't self-promotion — it's a leadership tool that enables team confidence, investor trust, and market legibility.
+- `INS-260412-EF0E` [medium] Samsung appointed three new CEOs in 2021, reshuffled chip leadership in 2024, and enforced six-day executive work weeks — a pattern that signals strategic drift rather than course correction.
 - `INS-260323-FBD9` [medium] Leading an MMO guild of 30+ anonymous players with mixed motivations (loot-seekers, lonely escapists, competitive achievers) teaches real leadership — motivation, discipline, coordination — in a high-stakes emotional environment.
 - `INS-260410-87C4` [medium] Greg Abel: 'Our owners' time horizon extends beyond the tenure of any individual CEO. I will not be your CEO for the next 60 years as simple arithmetic makes that — shall we say — an ambitious plan.'
 - `INS-260330-E0A9` [medium] Toussaint L'Ouverture made conquered European generals into his own officers because he prioritized upgrading his army's culture over satisfying his soldiers' desire for revenge.

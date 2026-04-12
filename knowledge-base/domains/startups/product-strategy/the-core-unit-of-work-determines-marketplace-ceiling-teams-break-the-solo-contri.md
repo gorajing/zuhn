@@ -52,13 +52,12 @@ stance: >-
   asymptote problem because teams create dense subnetworks where participants
   complement rather than compete
 related:
-  - INS-260323-7866
   - INS-260327-4CCE
   - INS-260402-3134
   - PRI-260403-7E5E
   - INS-260403-E3E0
+  - INS-260412-7CED
   - INS-260325-502D
-  - PRI-260406-1993
   - INS-260403-8D5C
 evidence:
   - id: INS-260321-3C8A

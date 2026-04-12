@@ -52,10 +52,10 @@ stance: >-
   destroy your credibility as a potential leader of that system
 related:
   - INS-260323-3F30
+  - INS-260412-1440
   - INS-260329-78AE
   - INS-260329-4D5E
   - INS-260327-3136
-  - INS-260330-F258
   - INS-260410-8E0D
 ---
 Smith identifies a critical rhetorical trap: when progressives use 'stolen land' framing to counter anti-immigrant sentiment, they inadvertently undermine the premise that America is a legitimate democratic nation whose citizens have the right to make collective decisions — including about immigration. This makes it logically impossible for them to then argue that they should be elected to lead that nation's immigration policy.

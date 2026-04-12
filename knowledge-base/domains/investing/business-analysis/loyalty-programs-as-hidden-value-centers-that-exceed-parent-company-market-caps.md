@@ -50,11 +50,11 @@ stance: >-
   The most valuable asset in a commodity business is often not the core product
   but the financial ecosystem built around customer retention.
 related:
+  - INS-260412-FEA0
   - INS-260412-6DD9
   - INS-260405-39A6
   - INS-260403-3F5F
-  - INS-260327-505A
-  - INS-260330-A0AE
+  - INS-260412-4D5D
 ---
 During COVID, SEC filings revealed that airline loyalty programs were worth 2-3x their parent companies' market caps — United's MileagePlus at $21.9B vs a $10B market cap, Delta's SkyMiles at $26B vs $20B, and American's AAdvantage at $18.5-31.5B vs $6B. American Airlines actually lost ~0.5 cents per seat-mile flown but earned $1.9B in pre-tax profit exclusively from $4.2B in frequent flyer revenue. The airline operation is a loss leader for the loyalty business.
 

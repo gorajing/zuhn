@@ -67,8 +67,8 @@ related:
   - INS-260405-F6E6
   - INS-260412-C668
   - INS-260403-B539
+  - INS-260412-E0D9
   - INS-260327-8572
-  - INS-260403-BD30
 ---
 Unlike most economic constraints, water depletion is not solvable by capital, technology, or policy alone — it is a physical accounting problem. Aquifers like the Ogallala in the Great Plains, which underpin enormous volumes of US grain and cattle production, are being depleted at rates roughly 10x faster than natural recharge. Once depleted, recharge timescales are measured in centuries, not years.
 

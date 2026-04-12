@@ -35,11 +35,11 @@ stance: >-
   colors, and GMOs that are standard in the American food supply, contributing
   to better population health outcomes
 related:
-  - INS-260324-5B35
   - INS-260327-8572
   - INS-260327-44CC
+  - INS-260324-5B35
+  - INS-260412-E0D9
   - INS-260327-868D
-  - INS-260325-4599
   - INS-260327-AEF6
 evidence:
   - id: INS-260324-5B35

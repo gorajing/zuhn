@@ -53,6 +53,7 @@
 - `INS-260410-3A08` Pretraining gives a base model all its knowledge; a cheap fine-tuning stage on ~100k curated Q&A pairs reshapes it into a helpful assistant without adding knowledge.
 - `INS-260410-F985` A pretrained GPT just completes internet-shaped documents; turning it into ChatGPT requires SFT on Q&A examples, a learned reward model, and PPO fine-tuning — none of which scale alone provides.
 - `INS-260403-FFFE` Model alignment is a removable fine-tuning layer, not a fundamental architectural property.
+- `INS-260320-10E8` Always clap once or use a clapboard at the start of each take -- the sharp transient creates a visible spike in both audio waveforms, making manual sync alignment trivial.
 - `INS-260410-F789` Charging 2-and-20 or 3-and-30 before demonstrating unusual results attracts people who are good at fundraising and fee extraction, not people who are good at investing.
 - `INS-260403-C200` Capital is commoditized; the founder-investor relationship and alignment determine post-deal outcomes more than the money itself.
 - `INS-260327-B72F` When everything is incredibly hard and getting harder, the problem might not be insufficient effort but wrong direction.
@@ -72,4 +73,3 @@
 - `INS-260330-3585` Productivity falls with the square of employees unless you actively build alignment through repeated roadmap communication, offsites, and quarterly planning.
 - `INS-260330-725F` Every founder thinks their team knows the top 3 goals; random sampling proves none of them do.
 - `INS-260403-066E` A shared visual framework like the BMC eliminates the translation overhead when marketing, engineering, operations, and finance collaborate on strategy.
-- `INS-260320-10E8` Always clap once or use a clapboard at the start of each take -- the sharp transient creates a visible spike in both audio waveforms, making manual sync alignment trivial.

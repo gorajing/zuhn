@@ -1,6 +1,6 @@
 # Topic: organizational-design
 
-> 20 insights
+> 21 insights
 
 - `INS-260405-0271` [high] Innovation and execution are fundamentally different activities that require different investment mechanisms, success metrics, and decision frameworks.
 - `INS-260410-17AE` [high] Visa's 'reverse holding company' — a for-profit, non-stock membership corporation with non-transferable participation rights — made member banks structurally unable to sell, exit, or run competing networks.
@@ -10,6 +10,7 @@
 - `INS-260410-0F1C` [high] Mark Zuckerberg set up Meta's supervoting structure specifically because in 2006 the board tried to fire him for refusing Yahoo's $1B offer — without that control, he could not have funded Reality Labs through a 50% market cap drawdown.
 - `INS-260410-B2E3` [high] If the same customers buy from all your 'divisions,' you don't have divisions — functional structure is the only one that matches the customer reality.
 
+- `INS-260412-7CED` [high] Nokia's split into competing Symbian and MeeGo teams created such internal squabbling that basic decisions with external partners took a year — fatal in a fast-moving tech market.
 - `INS-260410-0CFE` [high] Rentech's single-model architecture — where every researcher's improvement instantly benefits everyone — is the structural difference that Citadel, DE Shaw, and Two Sigma cannot replicate because their multi-strategy pods are culturally and compensation-wise competitive.
 - `INS-260410-E3FB` [high] Bezos mandated all teams expose data only via service interfaces, with firing as the penalty, because process and coordination collapse under Metcalfe's law as org size grows.
 - `INS-260410-DB84` [high] Dismantle comp structures that pay people for outcomes you'd regret — expect attrition, and treat that attrition as a feature.

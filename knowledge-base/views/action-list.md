@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-12 | 4942 actionable insights
+Generated on 2026-04-12 | 4951 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1053,6 +1053,9 @@ Generated on 2026-04-12 | 4942 actionable insights
 - [INS-260412-2C3F] Nissan making more money from speculative investments than manufacturing cars was a clear signal that Japan's economy had detached from productive activity.
 - [INS-260412-D4E4] Offering instant redemption on illiquid backing is an invitation for bank runs — withdrawal delays are a necessary safety valve.
 - [INS-260412-B47E] Apparent profitability creates a perverse incentive to avoid auditing the profit source, enabling fraud to compound unchecked.
+- [INS-260412-D625] Founder security escalation combined with calm family reactions to disappearance signals a pre-planned exit rather than a crisis.
+- [INS-260412-1111] Inability to explain a profit model in plain terms is a stronger fraud signal than any financial metric.
+- [INS-260412-8CD7] Bernie Ebbers borrowed $408M against WorldCom stock for personal purchases, creating an existential personal incentive to keep the stock price elevated regardless of business reality.
 
 ## investing/business-analysis
 - [INS-260410-91A6] Every generational operator — Buffett, Carnegie, Rockefeller, Izzy Sharp, Ogilvy — grew fastest during downturns by deploying capital into advertising, acquisitions, and hiring while panicked competitors cut back.
@@ -1065,6 +1068,8 @@ Generated on 2026-04-12 | 4942 actionable insights
 - [INS-260412-A9C3] The Concorde burned only 2.5x more total fuel per mile than the Dreamliner, but per-passenger fuel economy was 14 vs 104 mpg — a 7.4x gap.
 - [INS-260412-4FD3] NYC-LA flights are cheap because five airlines compete, while Denver-Gunnison costs $500+ for 130 miles because United is the sole operator.
 - [INS-260412-9B06] Nikola surpassed Ford's $28B market cap within one week of going public despite having zero revenue, zero deliveries, and no functioning technology.
+- [INS-260412-24DB] WorldCom's entire growth engine was serial acquisition; when the Sprint merger was blocked, the company had no organic playbook and resorted to fraud.
+- [INS-260412-51C1] Enron's status as Bush's largest campaign contributor bought them regulatory immunity that enabled fraud to scale.
 
 ## investing/business-quality
 - [INS-260411-CBCF] Interbrand's top 25 global brand rankings show weak correlation with ROIC-WACC spreads, proving that brand recognition alone does not constitute a competitive advantage.
@@ -1461,6 +1466,8 @@ Generated on 2026-04-12 | 4942 actionable insights
 - [INS-260412-5F4D] Chronic loneliness makes your brain pay more attention to social cues but interpret them less accurately, biasing toward hostility.
 - [INS-260412-774E] After crowd disasters, blame consistently falls on participant character rather than system design flaws, preventing real fixes.
 - [INS-260412-4127] Customers with 10,000 miles will pay 5% more for an American flight rather than start from zero with United — sunk cost fallacy becomes a designed moat.
+- [INS-260412-30EE] Asimov correctly predicted home computers connected to libraries acting as personalized teachers, but wrongly predicted this would make traditional schooling obsolete—the technology existed, the behavioral shift didn't.
+- [INS-260412-95DD] Ken Lay's decision to keep rogue Valhalla traders because they were profitable established the cultural norm that profit excuses misconduct.
 
 ## psychology/communication
 - [INS-260330-3570] Arguments that start by explicitly naming what is being disagreed about — and what is not — dramatically outperform arguments that jump straight into positions.
@@ -4311,6 +4318,7 @@ Generated on 2026-04-12 | 4942 actionable insights
 - [INS-260410-CE39] The time to build the Goldman relationship is a decade before you need to raise billions — seeds planted in good times are the only ones available in a crunch.
 - [INS-260410-141F] Top performers should trade measurable commitments (e.g. 'I'll be number one in the country') for freedom from internal meetings — bureaucracy kills the sales instinct.
 - [INS-260411-791E] Dimon argues competitive battles are fought at the detailed segment level by hundreds of small, authorized teams — not by large management committees where 'We'll get it done' means it never will.
+- [INS-260412-EF0E] Samsung appointed three new CEOs in 2021, reshuffled chip leadership in 2024, and enforced six-day executive work weeks — a pattern that signals strategic drift rather than course correction.
 
 ## startups/market-entry
 - [INS-260330-7EDF] Asking 'what could go right?' instead of 'what went wrong?' shifts strategic focus from diagnosis of failure to identification of actionable opportunities.
@@ -4376,6 +4384,7 @@ Generated on 2026-04-12 | 4942 actionable insights
 - [INS-260410-C4BB] Kelly Johnson built the first US jet fighter in 143 days with 23 engineers and 30 shop workers in a literal circus tent, codifying it as Skunk Works Rule 3: restrict team size in an almost vicious manner.
 - [INS-260410-44B7] Lock R&D at a fixed percentage of revenue through any business cycle so your technology leaders stop negotiating and start building.
 - [INS-260410-DB84] Dismantle comp structures that pay people for outcomes you'd regret — expect attrition, and treat that attrition as a feature.
+- [INS-260412-7CED] Nokia's split into competing Symbian and MeeGo teams created such internal squabbling that basic decisions with external partners took a year — fatal in a fast-moving tech market.
 
 ## startups/pitch-decks
 - [INS-260405-D514] As pitch descriptions approach 'could be anything,' their information content approaches zero.

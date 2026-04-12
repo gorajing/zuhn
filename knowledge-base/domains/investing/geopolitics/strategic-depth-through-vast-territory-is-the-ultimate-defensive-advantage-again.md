@@ -57,6 +57,7 @@ related:
   - INS-260327-DC45
   - INS-260327-B038
   - INS-260327-0876
+  - INS-260412-DB82
 ---
 Russia's vast size gave it a unique defensive advantage: it could retreat almost indefinitely, drawing invaders deeper into hostile territory while their supply lines lengthened and their forces attrit. This strategy — trading space for time — defeated both Napoleon (1812) and Hitler (1941-45). The territory itself was the weapon; no tactical genius could overcome the simple mathematics of distance.
 

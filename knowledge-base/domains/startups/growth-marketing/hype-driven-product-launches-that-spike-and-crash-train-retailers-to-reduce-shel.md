@@ -44,7 +44,7 @@ related:
   - INS-260327-B946
   - PRI-260328-7E58
   - INS-260403-FED6
-  - PRI-260328-0993
+  - INS-260412-FEA0
 ---
 Products that create massive initial demand followed by sharp decline damage not just their own brand but the retail category because retailers reduce shelf space allocation after being burned by unsold inventory.
 

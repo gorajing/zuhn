@@ -6,6 +6,7 @@
 - `INS-260322-A367` Unlike traditional cloud infrastructure that gets abstracted away, AI models resist disintermediation because users and developers form both emotional and technical relationships with specific models.
 - `INS-260329-3AE5` AWS's 200+ services create lock-in through integration complexity — migrating one service is easy, but migrating an ecosystem of interconnected services is practically impossible.
 - `INS-260322-B641` In a reversal of the traditional software pattern where enterprise was stickier than consumer, consumer AI (ChatGPT) is proving stickier than B2B model access — because switching a family's habits is harder than switching an API call.
+- `INS-260412-FEA0` VW survived Dieselgate's $30B market cap hit because its manufacturing scale, dealer networks, and brand portfolio created switching costs that exceeded customer outrage.
 - `INS-260410-D42F` Enterprises re-architect data centers at most once a decade — whoever wins the current AI transition locks in revenue for 5-10 years regardless of whether the hype holds.
 - `INS-260410-6E43` Epic captures only ~$10M per year per hospital system despite being the central nervous system those hospitals cannot function without—and that underpricing is precisely why they have never lost a customer in 47 years.
 - `INS-260405-8469` RuBisCo is a mediocre enzyme that became the planet's most abundant protein precisely because all life built its infrastructure around it before better options could evolve.

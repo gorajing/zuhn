@@ -51,6 +51,6 @@ related:
   - INS-260330-696D
   - INS-260410-D593
   - INS-260412-032F
-  - INS-260403-202E
+  - INS-260412-9DC8
 ---
 Multiple iPhone breakthroughs came from personal necessity rather than market analysis. Wayne Westerman couldn't type more than a page without wrist pain, so he invented capacitive multi-touch for his university research — technology Apple would later acquire as the iPhone's foundation. Freddy Anzures discovered slide-to-unlock by observing an airplane bathroom latch while personally needing to use it. Ken Kocienda solved the keyboard crisis by recognizing from direct experience that a small touchscreen needed AI assistance, not just different key shapes. The pattern suggests that constraint-driven innovation produces more intuitive solutions because the inventor has embodied understanding of the problem. This has implications for hiring and team composition: people who personally suffer from the problem you're solving may produce more elegant solutions than technically superior engineers who only understand it abstractly.

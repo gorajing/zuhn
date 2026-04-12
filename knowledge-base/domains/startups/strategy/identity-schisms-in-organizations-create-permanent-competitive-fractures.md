@@ -54,10 +54,10 @@ stance: >-
   organizational splits.
 related:
   - INS-260330-4181
+  - INS-260412-7CED
   - PRI-260328-79DA
   - INS-260327-A75C
   - PRI-260406-541E
-  - INS-260412-D82A
 evidence:
   - id: INS-260330-4181
     type: REFINES

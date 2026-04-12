@@ -9,24 +9,24 @@
 - `INS-260329-3441` Wrap specific risky operations in try-catch, not entire programs — granular error handling enables recovery, catch-all handlers just hide bugs.
 - `INS-260320-0F7C` Markdown files are the source of truth; SQLite database, indices, mindmap, and tag files are all generated and disposable — when the DB had schema issues, we just regenerated it.
 - `INS-260330-0804` Using supplements to manage symptoms of poor sleep, hydration, or stress hygiene suppresses the pain signals that would otherwise motivate you to fix the actual problem.
-- `INS-260330-5F6C` The brain treats novel sensory environments as threats initially but habituates within minutes, revealing that psychological resilience — not fragility — is the baseline.
 - `INS-260330-B7AB` DNA replication errors that escape proofreading accumulate silently until a critical threshold triggers disease — the same dynamic applies to institutional governance failures that prosperity masks.
 - `INS-260327-DEEB` The coalition armies that defeated Napoleon in 1813-15 were far more effective than those he crushed in 1805-06, having learned from their earlier failures.
 - `INS-260327-31B8` At Eylau, a blinding snowstorm caused an entire French corps to march into the Russian center by accident, turning a controlled battle into chaos that negated Napoleon's tactical superiority.
 - `INS-260327-7E6F` After Aspern-Essling, Napoleon didn't just try the same approach again — he systematically fixed every failure point: better bridges, more troops, new crossing points, and artillery superiority.
 - `INS-260323-DA4E` Third-generation refugees maintain resilience through the frame 'nothing lasts forever' — historical perspective that no occupation is permanent provides psychological survival even when immediate hope is absent.
 - `INS-260325-3C17` After the Bronze Age collapse, it took 400 years to rebuild comparable Mediterranean trade networks.
-- `INS-260403-D2A5` Persistence emerges from the interaction of energy, imagination, resilience, good judgment, and goal focus — missing any one degrades the whole.
+- `INS-260330-5F6C` The brain treats novel sensory environments as threats initially but habituates within minutes, revealing that psychological resilience — not fragility — is the baseline.
 - `INS-260412-8F97` Regardless of the triggering catastrophe, infrastructure collapses in a predictable sequence determined by dependency chains — ports first, then communications, then energy, then food supply.
 - `INS-260412-BBF8` Manufacturers stripped JIT down to pure inventory elimination because that showed immediate savings, while resilience mechanisms only prove their value during rare disruptions.
-- `INS-260330-B1A3` Masa Son's explicit 50-year plan — build in 20s, accumulate in 30s, deploy in 40s, consolidate in 50s, hand off after 60 — gave him a framework to absorb $70B losses without changing course.
-- `INS-260403-E1E9` Replit CEO Amjad Masad's six lessons on winning emphasize that progress compounds through clarity and consistency, not through shortcuts or hype cycles.
-- `INS-260403-5E03` Guy Kawasaki argues optimism means believing in your ability to shape reality, not ignoring it — a mindset that compounds through team inspiration and opportunity attraction.
+- `INS-260403-D2A5` Persistence emerges from the interaction of energy, imagination, resilience, good judgment, and goal focus — missing any one degrades the whole.
 - `INS-260323-EDAD` Repeatedly putting yourself in high-stakes situations where failure is likely trains you to accept setbacks faster and redirect energy toward the next opportunity.
 - `INS-260329-03B5` Malan deliberately introduces bugs in live demos and normalizes debugging as the primary activity, which removes the perfectionism barrier that stops beginners from writing their first line of code.
 - `INS-260405-18F3` Using breath, body, and sound as interchangeable anchors creates a fault-tolerant attention architecture rather than a single point of failure.
 - `INS-260325-5C03` The resilience paradox: we can identify many factors correlated with resilience, but none strongly predict who will be resilient next time, because the meta-skill is flexibly matching strategy to situation.
 - `INS-260329-FC75` CS50 explicitly frames the struggle of debugging and hitting walls as the core learning experience, not a bug in the pedagogy.
+- `INS-260330-B1A3` Masa Son's explicit 50-year plan — build in 20s, accumulate in 30s, deploy in 40s, consolidate in 50s, hand off after 60 — gave him a framework to absorb $70B losses without changing course.
+- `INS-260403-E1E9` Replit CEO Amjad Masad's six lessons on winning emphasize that progress compounds through clarity and consistency, not through shortcuts or hype cycles.
+- `INS-260403-5E03` Guy Kawasaki argues optimism means believing in your ability to shape reality, not ignoring it — a mindset that compounds through team inspiration and opportunity attraction.
 - `INS-260330-9BF3` Founder psychology doesn't stabilize with success — the emotional amplitude expands, with higher highs but increasingly devastating lows.
 - `INS-260330-90AD` Getting fired from Stanford redirected Keating from safe postdoc work to founding the BICEP experiment — the most important work of his career.
 - `INS-260330-3138` Success amplifies both the highs and lows of founding — the swings get wider, not smaller.
@@ -99,8 +99,8 @@
 - `INS-260330-8718` Neurons are amitotic and irreplaceable once specialized, making them the nervous system's critical vulnerability despite being its most valuable component.
 - `INS-260412-B650` On the Moon, a nuclear seismic wave reaches everywhere because it's small — on Earth, distance and mass absorb the shock before it circles the globe.
 - `INS-260403-E09C` Design for geographic flexibility by treating location as a variable you iterate on as the company evolves.
+- `INS-260323-422C` The more times you fall off the cliff, the faster you learn to recover -- eventually recovery becomes so seamless the audience never notices, and you effectively learn to fly.
 - `INS-260403-0CB8` Resilient 'camel' startups that grow slowly but survive market shocks are replacing unprofitable unicorns as the aspirational model for founders.
 - `INS-260412-DC05` Toyota stockpiled 2-6 months of semiconductors because chips have irreplaceable, slow-to-rebuild supply chains — making that inventory necessary, not excess.
 - `INS-260330-84BD` The collapse of North Korea's Public Distribution System forced the emergence of illegal private markets that now sustain the majority of the population.
 - `INS-260330-D88C` Humanity's interstellar messages span plaques, golden records, radio signals, silicon discs, and orbital satellites — each with different durability profiles — because no single medium survives all failure modes.
-- `INS-260323-422C` The more times you fall off the cliff, the faster you learn to recover -- eventually recovery becomes so seamless the audience never notices, and you effectively learn to fly.

@@ -60,6 +60,7 @@ related:
   - INS-260403-3566
   - PRI-260406-598F
   - PRI-260323-A3A3
+  - INS-260412-8846
 ---
 The article presents a deceptively simple formula: Stealth Success = (Clarity × Trust × Timing) ÷ Ego. The numerator variables — knowing what you're building, having internal guidance infrastructure, and being at the right stage — are standard strategic considerations. But ego as the denominator is the insight that cuts deepest.
 

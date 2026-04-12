@@ -62,9 +62,9 @@ stance: >-
 related:
   - INS-260410-DA81
   - INS-260402-8A7A
+  - INS-260412-C3AB
   - INS-260330-1A63
   - INS-260323-8544
-  - INS-260325-B067
 ---
 In count-based bigram models, the classic fix for the 'zero probability = infinite loss' problem is add-k smoothing: add 1 (or any constant) to every cell of the count matrix before normalizing. More k means a more uniform distribution; less k means a more peaked distribution that fits the observed data tightly.
 

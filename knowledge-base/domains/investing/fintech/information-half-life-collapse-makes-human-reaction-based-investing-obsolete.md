@@ -53,8 +53,8 @@ related:
   - INS-260404-4758
   - INS-260327-C54D
   - INS-260403-5D89
+  - INS-260412-1255
   - PRI-260406-0E02
-  - PRI-260406-598F
   - INS-260405-FD9D
 ---
 Markets have evolved from environments where information scarcity created edge to ones where information is nearly instantly priced in. The half-life of new information is measured in milliseconds, meaning any strategy that depends on reading filings, reacting to news, or forming opinions competes in a game humans physically cannot win. This doesn't mean all human investing is dead — long-term conviction investing (Buffett-style) still works because it operates on a different timescale. But for any strategy that depends on information processing speed, the human ceiling has been permanently surpassed. The practical implication is that retail and institutional investors should stop competing on speed and instead focus on edges machines struggle with: long time horizons, illiquid markets, and contrarian conviction.

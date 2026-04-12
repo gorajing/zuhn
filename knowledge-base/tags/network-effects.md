@@ -10,19 +10,19 @@
 - `INS-260330-D583` Lack of banking infrastructure in Africa turned into a competitive advantage for mobile payment adoption.
 - `INS-260404-7AA0` More traders create better price signals, which attract more traders — a classic liquidity network effect that compounds.
 - `INS-260330-7ED0` M-PESA succeeded because Safaricom's telecom monopoly solved the cold-start problem that fragments US mobile payment competitors.
-- `INS-260403-CAE5` On-orbit satellite servicing — extending satellite life, repositioning, and deorbiting — will transform space economics the same way gas stations and highway maintenance transformed automotive economics.
 - `INS-260412-C17E` Incompatible EV charging standards split the installed base and prevent any single network from reaching critical density.
+- `INS-260403-CAE5` On-orbit satellite servicing — extending satellite life, repositioning, and deorbiting — will transform space economics the same way gas stations and highway maintenance transformed automotive economics.
+- `INS-260327-D25D` Christianity spread across the Roman Empire's road network, administrative structure, and urban hierarchy — then outlasted the empire itself by inheriting its institutional infrastructure.
+- `INS-260325-F5CA` The same interconnections that create prosperity become transmission vectors for cascading collapse.
+- `INS-260412-65EF` A French ATC strike forced rerouting through Spanish, North African, Swiss, Italian, German, and UK airspace, requiring days of multi-country coordination to manage cascading delays.
 - `INS-260404-7680` Each attack stopped and integration added makes the security platform smarter, creating a compounding data moat that new entrants cannot replicate.
 - `INS-260403-3122` The most effective deal-flow strategy is building a small circle of active angels and sharing every deal you invest in with them.
 - `INS-260404-1ADA` Breaking into VC requires overcoming structural barriers where deal flow, reputation, and LP access form self-reinforcing loops favoring incumbents.
 - `INS-260403-C032` Infrastructure windows close when value becomes priced in, capital barriers exclude new entrants, and network effects lock users in — a framework applicable to any technology cycle.
 - `INS-260403-4C61` NFX evaluates AI startups on moat strength, proprietary data, and network effects rather than the AI component itself, since AI capabilities are rapidly commoditizing.
 - `INS-260403-92B5` Avoiding YC concentration means missing alpha, not managing risk, because YC network effects drive superior survival and exit outcomes.
-- `INS-260327-D25D` Christianity spread across the Roman Empire's road network, administrative structure, and urban hierarchy — then outlasted the empire itself by inheriting its institutional infrastructure.
-- `INS-260325-F5CA` The same interconnections that create prosperity become transmission vectors for cascading collapse.
-- `INS-260412-65EF` A French ATC strike forced rerouting through Spanish, North African, Swiss, Italian, German, and UK airspace, requiring days of multi-country coordination to manage cascading delays.
-- `INS-260410-A1A9` The 'collective brain' — population size times interconnectedness — explains why humans beat larger-brained Neanderthals and why Eurasia out-innovated other continents.
 - `INS-260330-9931` A few network-joining decisions create the gravitational field that shapes all subsequent daily choices.
+- `INS-260410-A1A9` The 'collective brain' — population size times interconnectedness — explains why humans beat larger-brained Neanderthals and why Eurasia out-innovated other continents.
 - `INS-260403-68CE` A woman's probability of having a child spikes in the 12-24 months after a close friend gives birth, proving fertility decisions spread socially.
 - `INS-260403-D198` Highly specialized markets like startups and trading still cluster geographically because in-person interaction enables deal velocity that technology cannot yet match.
 - `INS-260330-6D2E` Tribal networks are uniquely powerful because members actively and intentionally build value for each other and defend the network, unlike other network effects where value creation is a passive byproduct.
@@ -47,6 +47,7 @@
 - `INS-260410-AF68` Bill Gates licensed Microsoft BASIC to Apple for just $31,000 because his goal was to be the default programming language on every microcomputer, not to extract maximum revenue per deal.
 - `INS-260403-6412` Fintech components reduce multi-tenanting and disintermediation by making the platform essential to the transaction itself.
 - `INS-260327-7C67` For an alarming number of major companies, becoming a monopoly isn't just profit maximization - it's the only way they can make a profit at all.
+- `INS-260412-4CC8` TSMC holds 61.7% foundry market share vs Samsung's 11% because higher yields attract premium clients, whose revenue funds further R&D — a flywheel that accelerates the gap.
 - `INS-260403-D7B1` Gas stations depend on a minimum customer base; as EV adoption grows, station closures accelerate the shift in a self-reinforcing cycle.
 - `INS-260403-9E2D` A unique market wedge gets you in the door, but lasting defensibility requires stacking multiple moat types over time.
 - `INS-260330-DD63` Innovation clusters geographically because innovators need complementary tech, talent, and early-adopter customers co-located.
@@ -76,11 +77,9 @@
 - `INS-260403-13E6` Social connection — not entertainment or utility — is what drives technology from niche to mass adoption.
 - `INS-260330-7D6D` Telecom monopolies in Africa ensured quick universal adoption of mobile money by eliminating the fragmentation that plagues payment apps in competitive markets.
 - `INS-260403-014D` Founders who empower aligned influencers to grow their own visibility create reinforcing distribution loops that compound over time.
-- `INS-260329-CB2C` Prioritize building audience goodwill over immediate monetization because it compounds faster and converts to money on your timeline.
 - `INS-260323-7AF7` Kreischer's analysis of Rogan: instead of being the funniest person in every room, Rogan made his podcast a platform to elevate others — and now 8 of his 10 closest friends do arenas.
 - `INS-260329-DD01` Birth zip code outpredicts IQ, race, and gender for lifetime earnings because environment shapes ambition through social comparison.
-- `INS-260403-E497` Screening for character at entry creates compounding returns through the quality of the network that forms around your organization.
-- `INS-260330-1C90` Optimize your first job for the quality of people you'll work with, not the paycheck or prestige on your resume.
+- `INS-260329-CB2C` Prioritize building audience goodwill over immediate monetization because it compounds faster and converts to money on your timeline.
 - `INS-260330-059C` ByteDance's core innovation was building products around a personalization algorithm rather than a social graph, eliminating the need for users to follow anyone to get value.
 - `INS-260330-931A` Uber's playbook of subsidizing rides to build a loyal user base before regulators could act turned public support into a political shield.
 - `INS-260327-B357` Intuit's accountant channel drives faster sales cycles, higher retention, and broader product adoption — but only because they invest in making accountants genuine partners who use the product themselves, not just resellers.
@@ -97,6 +96,8 @@
 - `INS-260403-296C` Sequoia invests real work in explaining their passes — sometimes detailed memos with specific suggestions — because founders talk and graceful rejections compound reputation.
 - `INS-260403-76E5` Fewer women-led exits produce fewer serial women founders, which reduces investor confidence, which further depresses funding — a self-reinforcing cycle that masquerades as a pipeline problem.
 - `INS-260403-E6DE` Warm intros to investors convert to meetings roughly 10x better than cold emails, making network cultivation the top fundraising priority.
+- `INS-260403-E497` Screening for character at entry creates compounding returns through the quality of the network that forms around your organization.
+- `INS-260330-1C90` Optimize your first job for the quality of people you'll work with, not the paycheck or prestige on your resume.
 - `INS-260403-CC4E` Saturated marketplaces that have asymptoted reveal repositioning opportunities because the incumbents' rigidity traps unserved participants.
 - `INS-260403-710A` Capturing the top 10,000 expert users in a domain gives you outsized strategic power because they set quality benchmarks for the broader market.
 - `INS-260402-15A7` Constraining to a narrow initial market — like Facebook starting at Harvard only — creates the critical mass and intensity needed to expand outward.

@@ -49,7 +49,6 @@ stance: >-
   where money creation, buybacks, and low interest rates have made speculation
   the dominant mode of capital allocation since 2000.
 related:
-  - INS-260330-E474
   - INS-260327-9BE8
   - INS-260410-D926
   - PRI-260321-2DF0

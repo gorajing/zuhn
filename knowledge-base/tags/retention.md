@@ -2,6 +2,7 @@
 
 - `INS-260403-19C9` Top AI coding tools are seeing traffic declines, forcing startups to rework retention and monetization after a year of rapid growth.
 - `INS-260405-3061` ChatGPT's retention improves after month one, bucking the typical viral app decay curve as users embed it into daily work.
+- `INS-260327-94E6` YouTube Shorts doesn't care about your niche, personality, or subscriber count — it only measures if viewers stay or swipe, making the first 3 seconds more important than everything else combined.
 - `INS-260410-4627` Rentech's 5-and-44 fee structure on a closed insider fund functions as a tenured university department would: senior partners (LPs) automatically transfer economic value to the current working team (GPs) through carry, keeping active researchers richly incentivized without requiring arbitrary annual bonus decisions.
 - `INS-260329-656B` Use complete mini-projects rather than isolated exercises to teach technical concepts.
 - `INS-260329-153F` Teaching concepts at the moment a project demands them creates natural motivation and deeper retention than abstract-first instruction.
@@ -35,7 +36,6 @@
 - `INS-260403-29AC` First adopters retain 20-30% better than paid users; treat their curve as a benchmark, not a baseline you can maintain.
 - `INS-260323-C814` Boston Dynamics' extremely low attrition comes from people pursuing genuine fascination — you do it much better when you love it.
 - `INS-260409-D681` Relationships are the ballast that keeps transactional businesses afloat when the deal flow turns — customers stay with people, not products.
-- `INS-260404-9626` Offshore hires often stay longer than domestic ones, and their presence reduces burnout-driven turnover on local teams.
 - `INS-260329-3DD7` Raise price, decrease cost, increase frequency, cross-sell, increase quantity, upgrade quality, downsell, and offer economy tiers — these 8 levers make any single customer worth more.
 - `INS-260329-8BD3` Working on retention forces you to ask 'am I actually helping users?' while working on top-line growth tempts you to extract value from users through dark patterns.
 - `INS-260329-CCC4` Two businesses with 300 customers have radically different trajectories — one with 100% churn needs ever-increasing acquisition, while one with 100% retention grows automatically.
@@ -44,6 +44,7 @@
 - `INS-260403-E930` Investors value cohort retention tables above topline metrics because they prove revenue durability rather than just acquisition velocity.
 - `INS-260404-F0E9` Greylock's Hierarchy of Engagement framework shows that billion-dollar businesses are built by systematically moving users up levels of increasing engagement and commitment.
 - `INS-260403-1D7D` For early rounds, present a clean dashboard showing retention, expansion, and CAC efficiency instead of bloated financial projections.
+- `INS-260404-9626` Offshore hires often stay longer than domestic ones, and their presence reduces burnout-driven turnover on local teams.
 - `INS-260330-4A89` Raises given on request incentivize lobbying over performance; formal evaluation cycles protect meritocratic culture.
 - `INS-260327-BEEE` Everyone needs money to pay rent, but people work for many other reasons — understanding those motivations and rewarding them is what retains talent.
 - `INS-260409-4EC0` Early-stage churn is an education problem, not a product problem — fix it with your time, not a roadmap.
@@ -57,10 +58,9 @@
 - `INS-260327-A814` After the initial close, future-pace the customer: 'People love texting me when they hit their first milestone -- would you keep me in the loop on your transformation?' This cements commitment and shifts you from sales rep to partner.
 - `INS-260403-B6F2` Retention, upsells, and product stickiness are the three compounding levers for CLTV that outperform CAC reduction strategies long-term.
 - `INS-260404-A19C` Retention, not acquisition, is the linchpin of durable ARR growth in SaaS.
-- `INS-260404-C13E` Costco pays double the retail average but gets triple the productivity — high wages are an investment with measurable ROI.
+- `INS-260321-E529` Your content feed must feel episodic like a TV show — if each post is a different genre (live, mimed, behind-scenes, different clothes), viewers get the Game of Thrones problem where every episode is a different show.
 - `INS-260403-C837` If Day 1 retention stays under 10% and no cohort flattens across segments, stop A/B testing buttons and rethink the core value proposition.
 - `INS-260403-E1E0` Product-market fit is proven by users staying and returning, not by how many you acquire or how much press you generate.
 - `INS-260403-14E0` Superhuman built a Minimum Lovable Product instead of an MVP, testing whether users loved it rather than whether it worked, and the resulting word-of-mouth created a massive waitlist.
 - `INS-260330-F268` If users tolerate a problem and keep using your product anyway, that problem is probably not worth prioritizing over acquisition barriers.
-- `INS-260327-94E6` YouTube Shorts doesn't care about your niche, personality, or subscriber count — it only measures if viewers stay or swipe, making the first 3 seconds more important than everything else combined.
-- `INS-260321-E529` Your content feed must feel episodic like a TV show — if each post is a different genre (live, mimed, behind-scenes, different clothes), viewers get the Game of Thrones problem where every episode is a different show.
+- `INS-260404-C13E` Costco pays double the retail average but gets triple the productivity — high wages are an investment with measurable ROI.

@@ -2,3 +2,4 @@
 
 - `INS-260330-9014` Blockbuster's 60,000 employees and thousands of stores — once their moat — became their biggest liability when streaming eliminated the need for physical locations.
 - `INS-260330-7BAE` Netflix beat Blockbuster by retreating to improve its core service rather than launching new features to differentiate.
+- `INS-260412-01CE` Blockbuster's replacement CEO thought it was a retail business instead of an entertainment one, killing their competitive online component and losing 85% of company value in 18 months.

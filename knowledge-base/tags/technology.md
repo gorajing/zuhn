@@ -4,13 +4,14 @@
 - `INS-260412-E9A1` The window between controlling a planet and escaping it is the highest-risk period for any civilization — and we are in that window now.
 - `INS-260403-E652` Technology inherently makes things more addictive by concentrating the desirable properties of their predecessors.
 - `INS-260330-7C58` The Holocaust used Western civilization's best tools — record-keeping, industrial production, technology — for systematic extermination, proving progress is morally neutral.
+- `INS-260412-1255` The gap between technological advancement speed and public comprehension speed creates a persistent window of fraud vulnerability.
 - `INS-260330-7E97` WWII proved that the most technologically advanced civilization in history could commit the worst atrocities, shattering the Enlightenment assumption that progress is unitary.
 - `INS-260403-1E5A` Distractions continuously evolve toward knowledge workers, requiring ever-updated defenses rather than one-time solutions.
+- `INS-260323-C9B1` Upgrading from Newton's to Einstein's model of gravity was not just philosophical — it enabled GPS, accurate satellites, and Uber; better frameworks for understanding reality directly produce better tools.
+- `INS-260405-4810` Like physical strength after industrialization, writing will persist only in those who choose to cultivate it, not those compelled by circumstance.
 - `INS-260327-A3A2` Humanity's technological power to affect planetary-scale change has grown exponentially while the wisdom to wield it has barely improved since ancient philosophy.
 - `INS-260325-26C6` Freud used steam engines, the 20th century used computers, and now neural networks may rehabilitate intuition as a valid metaphor for mind.
 - `INS-260327-74CF` The most dangerous pattern in history is repeating: powerful entities restrict access to transformative technology to maintain their position, whether ancient priests hoarding literacy or modern companies hoarding AI.
-- `INS-260323-C9B1` Upgrading from Newton's to Einstein's model of gravity was not just philosophical — it enabled GPS, accurate satellites, and Uber; better frameworks for understanding reality directly produce better tools.
-- `INS-260405-4810` Like physical strength after industrialization, writing will persist only in those who choose to cultivate it, not those compelled by circumstance.
 - `INS-260404-A375` Technology should reinforce or transform your business model, not drive it — the business model question comes first.
 - `INS-260405-F6A6` The two categories of programming languages are ones people complain about and ones nobody uses — complaints imply relevance.
 - `INS-260403-599B` When new technology arrives, ventures creating previously-impossible value win; those preserving old revenue models lose.

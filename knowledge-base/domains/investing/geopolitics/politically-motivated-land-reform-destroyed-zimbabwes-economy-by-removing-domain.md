@@ -53,12 +53,12 @@ stance: >-
   suggests, because tacit operational knowledge is the true scarce resource.
 related:
   - INS-260327-AFC7
-  - INS-260327-BF95
   - INS-260330-EC7C
   - INS-260330-C7CB
   - INS-260327-25AD
-  - INS-260412-00A1
+  - INS-260412-E0D9
   - INS-260405-AD58
+  - INS-260412-00A1
 evidence:
   - id: INS-260327-AFC7
     type: TRANSFERS_TO

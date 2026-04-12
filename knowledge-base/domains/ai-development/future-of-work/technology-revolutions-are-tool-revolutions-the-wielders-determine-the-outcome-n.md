@@ -49,9 +49,9 @@ resolutions:
 related:
   - INS-260325-D624
   - INS-260323-AEA7
+  - INS-260412-8C4F
   - INS-260323-9770
   - INS-260323-05B5
-  - INS-260323-224F
 stance: >-
   Galileo didn't invent the telescope — the future of AI will be determined by
   the people who wield it, not the labs that built it.

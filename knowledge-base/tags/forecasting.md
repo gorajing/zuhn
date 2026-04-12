@@ -3,20 +3,21 @@
 - `INS-260403-1EFF` Bio Anchors estimated 30% yearly algorithmic progress from easy-task benchmarks, but frontier AI saw 200% yearly gains because harder tasks have more room for improvement.
 - `INS-260403-F8CB` Yudkowsky predicted shorter timelines than Bio Anchors via disjunctive reasoning — either deep learning pays off fast or a new paradigm emerges — and was right on the bottom line despite the wrong mechanism.
 - `INS-260403-F0DC` Bio Anchors had many anchors and parameters but its output was almost entirely determined by the algorithmic progress rate, which was its least-researched input.
-- `INS-260404-4434` The Bio Anchors report's efficiency comparisons are technology-invariant, undermining their usefulness for timing AI progress.
 - `INS-260403-CEAD` Bio Anchors accurately predicted willingness-to-spend and cost-per-FLOP trends through 2025, correctly forecasting the massive data center buildout from observable investment patterns.
+- `INS-260404-4434` The Bio Anchors report's efficiency comparisons are technology-invariant, undermining their usefulness for timing AI progress.
 - `INS-260410-BCFD` Chips, power, and even raw share of GDP spent on training all cap out around 2030 — after which progress depends entirely on algorithmic gains with diminishing low-hanging fruit.
 - `INS-260410-3075` A concrete scenario forces you to confront implementation details and surface crux disagreements that vague probability estimates let you skate past.
 - `INS-260410-42CB` On camera Nadella names '27, 28, 29' as the window for Microsoft to go from Majorana 1 to an integrated fault-tolerant quantum computer, a dramatic compression of the usual quantum timeline rhetoric.
-- `INS-260325-F0CE` Philip Tetlock's research shows expert financial forecasts are no better than average person predictions, and no one predicted the major market-moving events of recent years.
-- `INS-260325-9F41` Wharton's Philip Tetlock found expert forecasts were no better than average guesses — nobody predicted the 2020 pandemic, 2021 Ukraine invasion, or 2022's 500bp rate hikes.
 - `INS-260404-4758` Prediction markets aggregate dispersed knowledge into price signals that react faster and more accurately than polls.
 - `INS-260404-5B6A` A Fed working paper found Kalshi's probability distributions for CPI and rate decisions outperform Bloomberg consensus and fed funds futures.
 - `INS-260410-6A19` Goldman Sachs and every serious forecaster predicted China would dwarf the US by now — they were all wrong, just as they were wrong about Japan and the USSR before that.
-- `INS-260404-4E1A` Human optimism is fueled by narrative continuity about the future, not by present comfort.
+- `INS-260325-F0CE` Philip Tetlock's research shows expert financial forecasts are no better than average person predictions, and no one predicted the major market-moving events of recent years.
+- `INS-260325-9F41` Wharton's Philip Tetlock found expert forecasts were no better than average guesses — nobody predicted the 2020 pandemic, 2021 Ukraine invasion, or 2022's 500bp rate hikes.
 - `INS-260321-B7CB` AI companies will be 'model busters' — growing faster and longer than any spreadsheet model predicts — just as iPhone caused consensus models to miss Apple's performance by 3x over four years despite being the most covered company in the world.
 - `INS-260405-5EB2` Peak-consensus forecasts of national rise historically coincide with the onset of structural decline.
 - `INS-260404-4BC4` Stacking AI disruption with geopolitical chaos creates compound uncertainty that no single-variable model can price.
+- `INS-260404-4E1A` Human optimism is fueled by narrative continuity about the future, not by present comfort.
+- `INS-260412-4701` Kurzweil's 86% prediction accuracy via trend extrapolation coexists with his total miss on the dot-com crash, revealing the method's blind spot for non-technological discontinuities.
 - `INS-260405-75AC` Staten Island Chuck's 85% accuracy dissolves once you notice he predicts early spring 25 out of 31 times—he's a broken clock in a town where spring usually comes early
 - `INS-260330-FB66` Human brains default to linear extrapolation, causing systematic underestimation of exponential processes in their early stages.
 - `INS-260405-BBC9` The most compelling recent evidence for a trend is often a leading indicator of its reversal, not its continuation.

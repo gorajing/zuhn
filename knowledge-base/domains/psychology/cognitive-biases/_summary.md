@@ -1,6 +1,6 @@
 # Topic: cognitive-biases
 
-> 336 insights
+> 340 insights
 
 - `INS-260326-163A` [very_high] Data quality dominates ML architecture just as install base and data gravity beat product design elegance in business -- what you've accumulated is the moat, not how you've arranged it.
 - `INS-260326-CA66` [very_high] Insulin resistance manifests as heart disease, diabetes, obesity, and dementia -- just as a misidentified business model manifests as churn, pricing problems, and sales failures.
@@ -146,6 +146,7 @@
 - `INS-260403-9A8A` [high] After Creandum's 13x Fund II, they doubled down on paranoia rather than celebrating, citing Feynman's warning that the easiest person to fool is yourself.
 - `INS-260330-141E` [high] People systematically misrepresent their beliefs under social pressure, making public opinion appear more uniform than it actually is.
 - `INS-260412-FA41` [high] When vaccines eliminate visible disease, people compare rare vaccine side effects against a now-invisible threat, making vaccines seem riskier than the disease.
+- `INS-260412-180B` [high] Nokia's CEO dismissed Android as 'pissing in your pants in winter to keep warm' while spending $5B/year on failed internal OS efforts, converting market leadership into obsolescence.
 - `INS-260330-8950` [high] WWII forced the question of whether Western industrial progress actually represents moral progress, revealing that advanced capability enables advanced destruction.
 - `INS-260329-55F7` [high] People trust their own conclusions far more than anything a salesperson tells them, so guide them to discover the answer rather than asserting it.
 - `INS-260412-0FFC` [high] Credit rating agencies rated junk mortgage products AAA because banks would take their business to competitors who would — the gatekeeper's revenue depends on pleasing the gated.
@@ -208,6 +209,7 @@
 - `INS-260403-C0D4` [high] Failure is a better teacher than success because failure modes cluster predictably while success depends on unrepeatable context.
 - `INS-260326-A7CB` [high] The body shows nutritional deficiencies on skin and nails years before blood tests detect disease -- just as emotions flag relationship problems before conscious analysis catches up.
 - `INS-260403-53C9` [high] Photosynthesis produced oxygen that poisoned its own key enzyme, forcing plants to build elaborate workarounds for a problem they created.
+- `INS-260412-1255` [high] The gap between technological advancement speed and public comprehension speed creates a persistent window of fraud vulnerability.
 - `INS-260403-0EC5` [high] Autocrats must constantly manage internal threats to their power, making them just as short-term oriented as democratic leaders.
 - `INS-260323-821F` [high] Mathematicians who publicly rejected the axiom of choice were found to be unknowingly using it in their own proofs -- the most natural assumptions are the hardest to notice.
 - `INS-260402-AC3D` [high] You can see what's missing in weaker tools but are blind to what's missing in your own compared to more powerful ones.
@@ -222,6 +224,7 @@
 - `INS-260402-D534` [high] Believing all options are equivalent is a cognitive shortcut that eliminates evaluation of dimensions the decision-maker cannot understand.
 - `INS-260404-DCCD` [high] 'If you're not with us, you're against us' is often literally false because accidental moderates don't occupy a single point on the political spectrum.
 - `INS-260330-5263` [high] The Euclidean geometry example shows that absolute certainty about 'only one line through two points' was false once you consider curved space — our feeling of certainty is always suspect.
+- `INS-260412-95DD` [high] Ken Lay's decision to keep rogue Valhalla traders because they were profitable established the cultural norm that profit excuses misconduct.
 - `INS-260404-5AEB` [high] Ask what you'd pay for something if you found it dirty and anonymous at a garage sale to reveal your real opinion of it.
 - `INS-260402-F04F` [high] People prefer to believe in innate genius because it absolves them of the responsibility to try harder.
 - `INS-260330-7ABB` [high] Two things don't have to literally match for our brains to see a connection — the 'law of near enough' plus selection and confirmation bias make any vague prediction seem prophetic.
@@ -273,6 +276,7 @@
 - `INS-260330-1B5E` [medium] America is the only country whose citizens generate conspiracy theories about their own greatest achievements, like the moon landing — even Soviet citizens under total propaganda didn't doubt Gagarin.
 - `INS-260403-FE91` [medium] A Dunning-Kruger-like effect causes conventional thinkers to overestimate and independent thinkers to underestimate their own independent-mindedness.
 - `INS-260327-764F` [medium] Nietzsche's most controversial insight: conventional morality may protect the weak but it also constrains the strong, functioning as a cage disguised as virtue.
+- `INS-260412-30EE` [medium] Asimov correctly predicted home computers connected to libraries acting as personalized teachers, but wrongly predicted this would make traditional schooling obsolete—the technology existed, the behavioral shift didn't.
 - `INS-260403-F66B` [medium] Customers say they want flashy features but actually follow the taste of sophisticated buyers they aspire to imitate.
 - `INS-260330-15AE` [medium] Cynics excuse their own bad behavior by projecting it as universal, making cynicism a trust signal.
 - `INS-260403-8C75` [medium] Most forms of disorder lack reliable longitudinal data, so perception fills the vacuum and systematically overcounts decline.

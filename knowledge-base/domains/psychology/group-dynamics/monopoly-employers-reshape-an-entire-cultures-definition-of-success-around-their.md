@@ -56,5 +56,6 @@ related:
   - PRI-260406-7BA2
   - INS-260330-B8CC
   - PRI-260405-7F1E
+  - INS-260412-29B6
 ---
 Samsung's dominance has produced a cultural phenomenon where the entire South Korean aspirational hierarchy maps to a single employer's selection funnel. Over 100,000 people take the biannual Samsung Aptitude Test, hundreds of thousands more are screened out before even reaching it, and those who fail cascade down a rigid social hierarchy: top chaebols, then lesser chaebols, then SMEs — with the latter treated as a mark of failure to hide from family. The 'Samsung Man' archetype has become so culturally embedded it's a cliché plot device in Korean film and television. This reveals a broader pattern: when economic power concentrates sufficiently, it doesn't just capture markets and governments — it captures culture itself, redefining what success means for an entire generation. The analog in the US would be if working at Walmart were simultaneously the highest social aspiration for American youth, which illustrates how extreme the concentration is.

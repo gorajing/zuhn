@@ -10,6 +10,7 @@
 - `INS-260403-F0D4` Replace 10-year visions with 90-day micro-ambitions that stack and reveal new ceilings you couldn't previously see.
 - `INS-260402-4DB4` In fast-moving nascent markets, a 95/5 execution-to-vision ratio beats the traditional 70/30 because strategies expire faster than implementation cycles.
 - `INS-260404-F48F` Improve team performance by working up the stack: first nail execution clarity, then strategic coherence, then vision alignment.
+- `INS-260412-86F1` Ferdinand Porsche was rejected by every European automaker before Hitler's government finally backed his people's car vision.
 - `INS-260330-6D59` Map your product vision across today, tomorrow, and future — then build today's product as a stepping stone that graduates users forward.
 - `INS-260403-30FF` Clear organizational vision replaces coordination overhead — everyone already knows what to build without being told.
 - `INS-260405-0D9A` Structure your roadmap so each milestone lowers the cost or risk of the next, making progress compound rather than just accumulate.

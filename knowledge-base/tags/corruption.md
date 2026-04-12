@@ -1,5 +1,6 @@
 # Tag: corruption
 
+- `INS-260412-29B6` Samsung's chaebol structure creates a pattern where every generation of leadership faces legal prosecution yet retains control because the company is deemed too important to the national economy.
 - `INS-260326-3E19` Pharmaceutical companies funding the FDA, banks staffing financial regulators, and tech giants writing platform regulations are structurally identical -- the mechanism is industry-funded oversight producing industry-favorable rules.
 - `INS-260403-D5B0` Blanket tariffs plus selective exemptions create a system where the president personally controls which companies and countries succeed, concentrating enormous economic power in one office.
 - `INS-260412-8EAE` Cult leader's daughter Choi Soon-sil, operating from above an Italian restaurant with no government title, directed presidential decisions including the pension fund vote that preserved Samsung's ownership structure.

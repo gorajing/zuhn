@@ -1,8 +1,6 @@
 # Tag: systemic-risk
 
 - `INS-260327-3A81` If AI fails we lose jobs from the economic collapse of wasted investment; if AI succeeds we lose jobs from automation - the economy has placed an irreversible bet on a technology whose success and failure both lead to displacement.
-- `INS-260403-B0E3` Circular investment chains in AI infrastructure create fragility where one valuation drop can cascade through the entire system.
-- `INS-260327-D4D8` Markets dropping 12% in Japan then recovering the next day while fingers are pointed at multiple unrelated causes suggests nobody - not traders, not regulators, not economists - truly understands what's happening.
 - `INS-260327-BB67` Auto lending has become so fragmented across leases, subprime loans, buy-here-pay-here, and cross-collateralized products that even regulators admit they can't track total exposure.
 - `INS-260327-226A` Many companies haven't been profitable in years and survived by continuously refinancing cheap debt - rising rates are exposing them all simultaneously.
 - `INS-260412-0257` Each bailout teaches financial institutions they'll be rescued, encouraging larger bets, while low-rate scaffolding makes the system unable to withstand normal conditions.
@@ -10,6 +8,8 @@
 - `INS-260412-F80E` 70% of Chinese household wealth in real estate means any property correction threatens social stability, not just portfolios.
 - `INS-260411-0B4F` Private credit at $1.8T has weaker covenants, aggressive assumptions, PIK interest, and no rigorous valuation marks, making losses in a downturn unpredictable.
 - `INS-260412-F401` Container shortages worsened port congestion, which worsened container shortages, which worsened truck driver shortages — each shortage feeding the next in a vicious cycle.
+- `INS-260403-B0E3` Circular investment chains in AI infrastructure create fragility where one valuation drop can cascade through the entire system.
+- `INS-260327-D4D8` Markets dropping 12% in Japan then recovering the next day while fingers are pointed at multiple unrelated causes suggests nobody - not traders, not regulators, not economists - truly understands what's happening.
 - `INS-260330-B7AB` DNA replication errors that escape proofreading accumulate silently until a critical threshold triggers disease — the same dynamic applies to institutional governance failures that prosperity masks.
 - `INS-260327-C834` The economy hasn't collapsed despite tariff whiplash, mass firings, and regulatory chaos because large systems have enormous inertia.
 - `INS-260327-10E8` When healthcare is tied to employment, every layoff and career transition creates a gap in medical coverage that directly increases mortality risk.
@@ -23,9 +23,9 @@
 - `INS-260327-5140` Marmont's divisions were spread too thin, and when one was broken, the entire French line collapsed division by division in a cascade of failures.
 - `INS-260330-01D5` Government dependence on land revenue creates existential incentives to suppress price discovery, allowing vacancy rates to climb far beyond what free markets would tolerate.
 - `INS-260327-1F6A` Americans aged 25-44 are 2.5x more likely to die than peers in other wealthy nations, with a 20-year life expectancy gap between the richest and poorest US counties.
+- `INS-260330-6CB7` Four of seven SI base units depend on the kilogram, so a fingerprint-weight drift in Big K corrupts Newtons, Joules, Volts, and Watts.
 - `INS-260330-77D1` Goldman Sachs earned ~200x their normal fees on 1MDB bond deals, creating an overwhelming financial incentive to suppress internal questions about fund legitimacy.
 - `INS-260330-27DF` Voter demand, media incentives, and political self-preservation form a mutually reinforcing triangle that locks in extremism.
-- `INS-260330-6CB7` Four of seven SI base units depend on the kilogram, so a fingerprint-weight drift in Big K corrupts Newtons, Joules, Volts, and Watts.
 - `INS-260410-E6BF` Harper's counterfactual: absent the Justinianic plague and volcanic cold snap, Justinian's Rome was on a trajectory to reconsolidate a pan-Mediterranean empire.
 - `INS-260403-0E11` The failure front in a Prince Rupert's Drop is powered by the drop's own stored mechanical energy, not by the force that nicked the tail.
 - `INS-260403-28AB` If OpenAI fails after absorbing $100B+, the resulting investor panic could hand AI leadership to Chinese competitors.

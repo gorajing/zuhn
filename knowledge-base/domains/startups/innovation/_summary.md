@@ -1,6 +1,6 @@
 # Topic: innovation
 
-> 137 insights
+> 138 insights
 
 - `INS-260405-EFC2` [high] C invented the curly-brace, semicolon syntax that now defines how billions of developers write code — its design choices became the assumed defaults of most successor languages.
 - `INS-260404-4320` [high] AI collapses experimentation costs across deeptech by replacing early-stage lab work with in-silico simulation.
@@ -95,6 +95,7 @@
 - `INS-260403-CACE` [high] The best thing a university can do for startups is be an excellent research institution, not run entrepreneurship programs.
 - `INS-260403-EFE6` [high] Oxygen — the gas that enabled all animal life — is just a waste byproduct of photosynthesis's real job of making glucose.
 - `INS-260403-E7E1` [high] When everyone has the team and the tech, the scarce resource is a strong enough point of view on what should exist.
+- `INS-260412-9DC8` [high] Vannevar Bush's 1945 Memex concept directly inspired the internet, hyperlinks, the mouse, and the GUI, yet he remains virtually unknown compared to the product builders who implemented his vision.
 - `INS-260403-DF01` [medium] Banzai went from near-bankruptcy to surpassing pre-pandemic event volume by acquiring a virtual events firm in days rather than building the capability internally.
 - `INS-260403-47BF` [medium] Lack of structured innovation processes is itself a warning sign that the organization is behind.
 - `INS-260405-FBF1` [medium] An innovation Sharpe Ratio gives CFOs a risk-adjusted metric to compare experimentation against other asset classes rather than treating it as pure cost.

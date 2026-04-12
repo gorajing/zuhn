@@ -1,6 +1,6 @@
 # Topic: persuasion
 
-> 66 insights
+> 67 insights
 
 - `INS-260403-9DB6` [high] Steady accumulation of documented incidents shifts opinion more than any single dramatic event because patterns resist counter-narrative.
 - `INS-260403-36F0` [high] Correctness about what's wrong doesn't convert into support without a clear alternative vision.
@@ -16,6 +16,7 @@
 - `INS-260403-C37D` [high] Good persuaders don't lie — they choose which truths to tell, the same way a flatterer picks genuine compliments.
 - `INS-260412-C040` [high] Milton's emotional stage presence and personal backstory consistently overrode the complete absence of technical evidence, fooling Bosch, GM, and thousands of investors.
 - `INS-260412-6DC9` [high] Heathrow's highest-in-world retail revenue per passenger comes from environmental design choices, not aggressive selling.
+- `INS-260412-1440` [high] Mixing genuine credentials with fabricated ones creates a credibility halo that makes each element harder to independently question.
 - `INS-260403-23C1` [high] The article pitches the same amendment separately to Democrats (anti-gerrymandering), Republicans (Trump's legacy building), Libertarians (third-party viability), and state legislators (personal career advancement).
 - `INS-260403-560A` [high] Labels like x-ist end discussion by signaling that truth-evaluation is no longer relevant.
 - `INS-260403-49CC` [high] Insider status grants persuasive leverage that outsiders cannot replicate.

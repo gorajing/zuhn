@@ -14,8 +14,8 @@
 - `INS-260323-F753` Anthropic has earned $5B revenue against $10B spent; OpenAI's ratio is even worse — both companies lose money on every user query.
 - `INS-260404-F62A` Foundation model businesses are booming in revenue but the path to sustainable profitability remains unclear.
 - `INS-260412-A9C3` The Concorde burned only 2.5x more total fuel per mile than the Dreamliner, but per-passenger fuel economy was 14 vs 104 mpg — a 7.4x gap.
-- `INS-260323-FEAB` Traditional SaaS scales cheaply per user, but AI products have marginal costs that increase with usage — Anthropic spends $8-$135 per dollar of Claude Code subscription revenue.
 - `INS-260404-19C2` Only 13 of Europe's 50 fintech unicorns are profitable, exposing a systemic gap between valuations and business fundamentals.
+- `INS-260323-FEAB` Traditional SaaS scales cheaply per user, but AI products have marginal costs that increase with usage — Anthropic spends $8-$135 per dollar of Claude Code subscription revenue.
 - `INS-260404-2C23` Rubrik's 133% net retention rate proved to investors that growth was organic and sustainable, not acquisition-dependent.
 - `INS-260404-47F3` At $40-50K per implant with 10K units/year target, Neuralink is building a $400-500M/year premium medical device business, not a consumer product.
 - `INS-260405-B4D4` The 100x unit-economics threshold — cost savings plus revenue uplift — is the practical filter for identifying which AI workforce opportunities will achieve durable adoption.
@@ -81,6 +81,6 @@
 - `INS-260330-696D` Agriculture's key unlock was producing surplus calories that freed people to specialize, creating a compounding flywheel of efficiency.
 - `INS-260404-1C01` The Calvin Cycle produces 6 G3P molecules but must reinvest 5 of them to regenerate its starting materials, netting only 1 — a pattern that mirrors sustainable business unit economics.
 - `INS-260329-D02E` Decompose revenue targets into weekly unit sales to identify whether your constraint is volume or price.
+- `INS-260329-78CB` High-ticket with few customers is easier to execute than low-ticket at scale, especially when starting with no resources.
 - `INS-260330-659D` Shade balls were purchased to block bromate formation, but their secondary benefits — 80-90% evaporation reduction, algae elimination, near-zero chlorination — pay back at least half their cost.
 - `INS-260323-8F70` Natural selection operates on genes because they're the right-sized unit that replicates faithfully and exhibits selectable traits -- businesses must identify their equivalent.
-- `INS-260329-78CB` High-ticket with few customers is easier to execute than low-ticket at scale, especially when starting with no resources.

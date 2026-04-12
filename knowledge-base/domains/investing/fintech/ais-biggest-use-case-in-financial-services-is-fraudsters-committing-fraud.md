@@ -51,6 +51,7 @@ related:
   - INS-260412-7C35
   - INS-260330-FC9F
   - INS-260330-4370
+  - INS-260412-5C2D
 stance: >-
   Financial fraud is growing 18-20% per year because AI-powered fraud
   (deepfakes, pig butchering, automated scams) is outpacing defensive AI tools.

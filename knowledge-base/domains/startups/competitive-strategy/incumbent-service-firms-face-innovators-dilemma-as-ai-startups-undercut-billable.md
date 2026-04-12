@@ -46,7 +46,6 @@ stance: >-
   structurally resist AI adoption, creating a window for startups to steal
   market share before incumbents adapt.
 related:
-  - INS-260321-7109
   - INS-260409-6E05
   - INS-260403-F66F
   - INS-260404-77CD

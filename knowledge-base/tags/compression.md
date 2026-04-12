@@ -3,6 +3,7 @@
 - `INS-260409-6560` MemPalace's 96.6% LongMemEval R@5 comes from raw verbatim ChromaDB storage; their own AAAK lossy compression scores only 84.2% — a 12.4 point regression that inverts the expected efficiency-quality trade-off at small scales.
 - `INS-260325-D392` PolarQuant converts Cartesian vectors to polar coordinates, revealing that angle distributions are naturally concentrated — making compression trivial without the normalization overhead traditional methods require.
 - `INS-260330-6BBD` Forcing a neural net to compress vastly more data than it can memorize pushes it to discover higher-level algorithmic representations.
+- `INS-260412-4493` Camera-model forensic signatures are destroyed by re-compression during internet sharing, eliminating the main technical detection method precisely where fakes circulate.
 - `INS-260325-6150` TurboQuant compresses LLM key-value caches to 3 bits with zero accuracy loss, achieving 6-8x memory reduction and 8x inference speedup.
 - `INS-260326-8201` At 3.5 bits per channel (4.5x compression), TurboQuant matches full-precision Llama 3.1 8B on LongBench with zero quality loss; at 2.5 bits (6.4x), quality degradation is marginal.
 - `INS-260410-4E62` LLM parameters are best understood as a ~100x lossy compression of training text — the model 'dreams' distributions rather than retrieving stored facts.

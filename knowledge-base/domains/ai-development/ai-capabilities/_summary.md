@@ -1,6 +1,6 @@
 # Topic: ai-capabilities
 
-> 148 insights
+> 149 insights
 
 - `INS-260321-E4EB` [very_high] AI made idea generation almost free, just as the internet made communication almost free — the bottleneck shifted to verification, evaluation, and filtering signal from noise.
 - `INS-260321-7D7C` [very_high] AI's superpower is breadth (trying every technique on every problem simultaneously), humans' is depth (cumulative progress from partial understanding). Science must restructure to exploit both.
@@ -40,6 +40,7 @@
 - `INS-260327-3F40` [high] The fierce debate around Assembly Theory's Nature paper produced more scientific scrutiny and engagement than a hundred uncontroversial papers would have.
 - `INS-260325-3F9B` [high] Quantum effects dissipate almost instantly through decoherence, so a computation needing 100 qubits may require a million physical qubits just for error correction redundancy.
 - `INS-260325-05EC` [high] Prof Kuang Xu distinguishes deep AI (learns from decisions, creates feedback loops) from shallow AI (automates existing tasks) — deep wins long-term.
+- `INS-260412-2327` [high] Free apps like FakeApp achieved results comparable to Hollywood's 18-month, six-figure VFX pipelines in 30 minutes on consumer hardware.
 - `INS-260327-A44E` [high] Evolution doesn't randomly search the space of possible organisms - it accumulates successful building blocks and recombines them, which is why it can create complexity that random search never could.
 - `INS-260323-4D8D` [high] Jensen identifies four scaling laws (pre-training, post-training, test-time, agentic) that form a loop — agentic outputs generate data that feeds back into pre-training, meaning intelligence scales fundamentally with compute.
 - `INS-260409-2CCA` [high] Olympiad math is a closed, curated search space; frontier research is unbounded with no training data on unknown answers, making it a categorically harder AI task.

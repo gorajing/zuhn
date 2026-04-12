@@ -54,6 +54,6 @@ related:
   - INS-260410-3B42
   - INS-260327-263F
   - INS-260327-8521
-  - INS-260330-669C
+  - INS-260412-95DD
 ---
 Adam Neumann didn't just lead WeWork — he was WeWork. His personal preferences (tequila at executive retreats starting in the morning, barefoot office culture, impulsive company-wide meat bans, private boxing sessions) became the company's operating norms. He installed friends and family in executive positions, trademarked the word 'we' personally then charged the company $5.9M in licensing fees, and used company resources as personal assets. This fusion of founder identity and company identity creates a specific failure mode: the organization cannot course-correct because every critique of company behavior is implicitly a critique of the founder personally. When Neumann was finally forced out, WeWork had to essentially rebuild its culture from scratch while hemorrhaging cash — the company had no identity separable from its founder's personality.

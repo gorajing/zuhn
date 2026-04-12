@@ -50,9 +50,9 @@ stance: >-
 related:
   - INS-260327-0061
   - INS-260405-AD04
+  - INS-260412-D625
   - INS-260403-6F9C
   - INS-260330-E68E
-  - INS-260412-E21D
 ---
 The article captures a paradox that experienced founders consistently report: by the time you achieve the exit you spent a decade pursuing, you've been so thoroughly transformed by the journey that the outcome no longer maps to the desire that motivated it. The founder refreshing Stripe dashboards in year 1 is a fundamentally different person from the systems thinker allocating capital in year 10. The exit satisfies a ghost.
 

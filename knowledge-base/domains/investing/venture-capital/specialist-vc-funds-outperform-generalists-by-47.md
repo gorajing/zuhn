@@ -47,7 +47,6 @@ stance: >-
   returns than broad generalist approaches, and this advantage will widen over
   the next decade.
 related:
-  - INS-260327-4CCE
   - PRI-260406-F9AC
   - INS-260404-EA1D
   - INS-260403-01FD

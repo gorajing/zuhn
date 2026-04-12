@@ -54,7 +54,6 @@ stance: >-
   because they conflate algorithmic possibility with hardware maturity, and the
   gap between the two will persist for at least this decade.
 related:
-  - INS-260322-5932
   - INS-260327-6976
   - INS-260330-38C9
   - INS-260404-CC8B

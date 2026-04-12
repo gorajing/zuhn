@@ -44,10 +44,10 @@
 - `INS-260410-E660` The internet gave LLMs a massive free pretraining corpus for text; for computer use there is no equivalent, and longer rollouts plus image/video processing slow progress further.
 - `INS-260323-4D8D` Jensen identifies four scaling laws (pre-training, post-training, test-time, agentic) that form a loop — agentic outputs generate data that feeds back into pre-training, meaning intelligence scales fundamentally with compute.
 - `INS-260323-8AEC` Reinforcement learning with verifiable rewards plus inference-time compute scaling is what enabled models to use tools, write code agentically, and perform multi-step reasoning.
-- `INS-260410-0A28` Prompt injection is fundamentally a trust-boundary failure: retrieved web pages, shared docs, and images are parsed as instructions when they should be treated as untrusted data.
 - `INS-260321-C5AA` Custom apps are overproduction — everything should be exposed API endpoints with agents as the intelligent glue that tool-calls all the parts.
 - `INS-260322-D0F6` For the first time, a genuine threat exists to systems of record — not through better UI (which failed in SaaS 2.0) but because AI agents collapse the distance between user intent and execution.
 - `INS-260325-DB7D` Agent-era AI demands openness because you need to optimize entire workflows, not single answers.
+- `INS-260410-0A28` Prompt injection is fundamentally a trust-boundary failure: retrieved web pages, shared docs, and images are parsed as instructions when they should be treated as untrusted data.
 - `INS-260405-2DCC` Each AI capability phase — transformers, LLMs, reasoning, agents — requires discarding the mental models built in the previous phase.
 - `INS-260405-567D` NVIDIA's Vera Rubin platform delivers 10x inference efficiency gains, signaling the industry's pivot from training to inference as the dominant workload.
 - `INS-260410-B3D7` LLMs have total recall but can't synthesize across fields because pre-training doesn't teach the active exploration loop that PhDs learn.

@@ -45,9 +45,9 @@ resolutions:
 related:
   - INS-260403-33BF
   - INS-260330-C7E6
+  - INS-260412-86F1
   - INS-260412-47D5
   - INS-260327-3675
-  - INS-260327-F3F0
 stance: >-
   The US government used the American Dream (home + car ownership) as both
   domestic reintegration tool for veterans and Cold War propaganda against S...

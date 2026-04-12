@@ -54,7 +54,6 @@ stance: >-
   financially successful
 related:
   - INS-260327-A75B
-  - INS-260327-0061
   - INS-260327-46F6
   - INS-260403-53A0
   - PRI-260403-5C44

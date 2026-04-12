@@ -52,7 +52,6 @@ stance: >-
   architectures hit thermal and efficiency walls that simplicity-based designs
   avoid entirely
 related:
-  - INS-260403-E59C
   - PRI-260321-14D8
   - INS-260412-5768
   - PRI-260407-590E

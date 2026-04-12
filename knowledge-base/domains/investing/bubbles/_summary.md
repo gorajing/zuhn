@@ -1,6 +1,6 @@
 # Topic: bubbles
 
-> 93 insights
+> 97 insights
 
 - `INS-260325-FC0B` [high] About 30% of investors who panic sell during crashes never return to equities, missing massive subsequent gains.
 - `INS-260403-52FF` [high] Carta data shows sub-$10M funds hit 90th percentile TVPI of ~4.03x while $100M+ funds only reach ~1.67x, and 73% of top-performing funds are Fund I or II.
@@ -23,6 +23,7 @@
 - `INS-260329-7372` [high] College ROI is inversely correlated with family wealth — the wealthiest families get the least financial return but push it hardest.
 - `INS-260329-191D` [high] College tuition has doubled in recent decades while starting salaries stayed flat, creating $1.76 trillion in student debt that exceeds most nations' GDP.
 - `INS-260329-F443` [high] College costs doubled in recent decades while median starting salaries remained flat, creating $1.76 trillion in student debt that cannot be discharged in bankruptcy.
+- `INS-260412-1111` [high] Inability to explain a profit model in plain terms is a stronger fraud signal than any financial metric.
 - `INS-260412-084F` [high] SVB's 50% market share of US VC-backed startups meant a tech downturn simultaneously increased withdrawals while decreasing new deposits.
 - `INS-260330-C1EA` [high] Chinese households save nearly 40% of disposable income but funnel 70% of wealth into real estate because domestic stocks are volatile and banks are distrusted.
 - `INS-260404-6B73` [high] DeepSeek R1 wiped nearly a trillion dollars in market value by proving frontier AI doesn't require frontier spending.
@@ -49,12 +50,14 @@
 - `INS-260325-FF45` [high] Markets drop 5% twice a year and 10% every 18 months — but loss aversion (feeling losses 2x more than gains) makes these routine events feel catastrophic, driving panic selling.
 - `INS-260327-D522` [high] When headlines say trillions were 'wiped out', the money didn't go anywhere because it never existed as liquid capital in the first place.
 - `INS-260404-C7B2` [high] Speculative AI disruption blog posts can trigger real stock sell-offs even when they contain no new capability data.
+- `INS-260412-E90F` [high] MLM's community reinforcement plus crypto's opacity create a fraud synergy that resists outside correction.
 - `INS-260323-6351` [high] The two cardinal rules of investing: only use money you don't need short-term, and never leverage your portfolio — because black swan events can halve any stock overnight.
 - `INS-260327-D4D8` [high] Markets dropping 12% in Japan then recovering the next day while fingers are pointed at multiple unrelated causes suggests nobody - not traders, not regulators, not economists - truly understands what's happening.
 - `INS-260330-06CD` [high] Masa Son's $20M Alibaba bet returning $70B+ proved that a single outlier can justify hundreds of failed investments.
 - `INS-260325-195E` [high] Bessembinder's research shows just 2% of stocks account for all net market gains over 75 years.
 - `INS-260325-FDB3` [high] Less than half of professional fund managers beat their benchmark in any given year, dropping to under 10% at 10 years and virtually zero at 20.
 - `INS-260412-BA99` [high] Each prestigious partner a fraudulent company signs makes the next partner less likely to investigate, creating a cascade of unearned credibility.
+- `INS-260412-8CD7` [high] Bernie Ebbers borrowed $408M against WorldCom stock for personal purchases, creating an existential personal incentive to keep the stock price elevated regardless of business reality.
 - `INS-260330-3B31` [high] Ponzi schemes are mathematically unsustainable because they need exponential growth in new investors to pay promised returns.
 - `INS-260324-72E8` [high] After the dot-com crash, VCs stopped rushing to IPO — they now use series C/D/E/F rounds to supercharge growth, inflate valuations through closed circles, and exit at peak before public investors bear the loss.
 - `INS-260412-D883` [high] Pre-sale financing that funds new projects instead of completing sold ones creates Ponzi dynamics that collapse when demand growth decelerates.
@@ -81,6 +84,7 @@
 - `INS-260403-5835` [medium] Like the dot-com era, the AI bubble contains both genuine excess and the seeds of the next generation of dominant companies.
 - `INS-260405-B4D0` [medium] AI investment enthusiasm has materially exceeded demonstrated revenue, reproducing the pattern of prior tech bubbles.
 - `INS-260405-D9DF` [medium] AI bubble concerns are the market's early signal that expectation-to-delivery gaps are becoming too large to ignore.
+- `INS-260412-D625` [medium] Founder security escalation combined with calm family reactions to disappearance signals a pre-planned exit rather than a crisis.
 - `INS-260403-B0E3` [medium] Circular investment chains in AI infrastructure create fragility where one valuation drop can cascade through the entire system.
 - `INS-260327-5D13` [medium] If everybody has agreed the AI market is a bubble, then why are informed investors still piling billions into it every month - are they dumber than retail investors or do they see something different?
 - `INS-260412-2C3F` [medium] Nissan making more money from speculative investments than manufacturing cars was a clear signal that Japan's economy had detached from productive activity.

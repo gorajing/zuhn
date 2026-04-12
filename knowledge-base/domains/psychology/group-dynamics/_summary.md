@@ -1,6 +1,6 @@
 # Topic: group-dynamics
 
-> 120 insights
+> 123 insights
 
 - `INS-260330-2EB0` [high] The Pueblo Revolt shows that a shared existential threat can override deep tribal divisions — but the unity is temporary.
 - `INS-260403-D609` [high] Enforcers of orthodoxy compete with each other, creating a race to the bottom where any borderline idea gets banned.
@@ -9,6 +9,7 @@
 - `INS-260403-0525` [high] Ambition is contagious and withers in isolation — concentrating ambitious people together amplifies everyone's output like pulling control rods from a reactor.
 - `INS-260404-F172` [high] People say things anonymously online they would never say face to face, just as drivers behave more aggressively than pedestrians.
 - `INS-260403-39E9` [high] Dismissing new ideas earns reliable social status while pursuing them only pays off probabilistically, creating a structural bias toward criticism.
+- `INS-260412-D341` [high] WorldCom's accountants made billions in fraudulent entries simply because their seniors told them to, without knowing the entries were fabricated.
 - `INS-260412-E3C2` [high] Tear gas and similar tools work not through pain alone but by forcing people out of collective consciousness and back into individual self-concern.
 - `INS-260403-BDE0` [high] Cities send subtle but powerful messages about which type of ambition is most valued, and these messages shape inhabitants more than most people realize.
 - `INS-260330-3528` [high] English profanity largely descends from lower-class Saxon vocabulary that was stigmatized when Norman French speakers held social power.
@@ -76,6 +77,7 @@
 - `INS-260330-6D2E` [high] Tribal networks are uniquely powerful because members actively and intentionally build value for each other and defend the network, unlike other network effects where value creation is a passive byproduct.
 - `INS-260403-BA53` [high] When a movement's opposition collapses, the movement loses its corrective feedback and extends past diminishing returns.
 - `INS-260330-FB9C` [high] Adding unnecessary complexity (abstract factories, excessive type gymnastics) often functions as social dominance signaling rather than engineering improvement.
+- `INS-260412-8846` [high] Financial communities that develop identity rituals and persecution narratives become self-policing systems that actively suppress fraud detection.
 - `INS-260403-DB0A` [high] Making status visible in egalitarian communities instantly creates divisive in-group/out-group dynamics that are hard to reverse.
 - `INS-260404-F212` [high] Surrounding yourself with people working on similarly ambitious projects provides encouragement you won't learn to discount.
 - `INS-260403-1228` [high] The right creative peers aren't cheerleaders but fellow practitioners who can accurately judge the potential of ugly early work.
@@ -120,5 +122,6 @@
 - `INS-260330-534C` [medium] Which words are considered most offensive shifts historically, tracking whatever a culture holds most sacred or anxiety-producing.
 - `INS-260403-EC1D` [medium] Even incentive-aligned coordination mechanisms like assurance contracts fail because human attention, comprehension, and decision-making capacity are the binding constraints, not free-riding.
 - `INS-260410-43F6` [medium] Xi Jinping personally suffered during the Cultural Revolution — his father was purged, his mother turned him away starving — yet he reveres Mao and is recentralizing the system that harmed him.
+- `INS-260412-BE19` [medium] The Rajapaksas' legitimacy from ending a 26-year civil war shielded them from accountability for corruption and debt accumulation — until citizens literally could not buy food or fuel.
 - `INS-260330-6300` [medium] Taboo words often become taboo through class-based avoidance — higher-status groups abandon terms associated with lower-status groups, creating a euphemism treadmill.
 - `INS-260403-9A44` [low] Social backlash cycles can overshoot the original equilibrium, producing outcomes that exceed pre-controversy baselines.

@@ -53,6 +53,5 @@ related:
   - INS-260327-EAB9
   - PRI-260328-0993
   - INS-260403-5056
-  - INS-260412-C69B
 ---
 WeWork positioned itself as a tech company using data analytics, but its core business was subleasing office space — a traditional real estate model. This narrative premium allowed it to attract $14.2B in funding at tech-company multiples. The moment IPO disclosure requirements forced transparency on unit economics (losing $5,000 per new customer, $1.6B annual losses), the valuation collapsed by 80%. The pattern reveals that narrative-driven valuations are inherently fragile — they persist only as long as the information asymmetry between insiders and investors is maintained. The IPO process, by mandating disclosure, acts as a forced repricing event that destroys narrative premiums disconnected from fundamentals.

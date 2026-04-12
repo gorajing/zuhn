@@ -63,7 +63,7 @@ related:
   - INS-260410-5E3F
   - INS-260404-3A2E
   - INS-260403-BCB1
-  - INS-260330-86CD
+  - INS-260412-24DB
 ---
 Ballmer's pattern: every time Microsoft needed to build a business that would disrupt an existing franchise, they pulled it out of the franchise's org. Windows NT was incubated away from Windows 9x. Azure was incubated under Ozzie, not under Server & Tools, even though Azure was literally the future of Server & Tools. The incumbent team has too much self-preservation instinct, too much installed pattern, and too much short-term revenue pressure to nurture a business that competes with their own P&L.
 

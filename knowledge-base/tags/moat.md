@@ -6,6 +6,7 @@
 - `INS-260403-415E` When your entire product depends on a third-party API, you don't control pricing, uptime, or differentiation—any competitor can clone you in a weekend.
 - `INS-260323-5C6F` If your AI product is just a layer on top of an underlying AI platform, that platform can replicate it — Jasper, Zynga, and SEO companies all learned this the hard way.
 - `INS-260411-CBCF` Interbrand's top 25 global brand rankings show weak correlation with ROIC-WACC spreads, proving that brand recognition alone does not constitute a competitive advantage.
+- `INS-260412-FEA0` VW survived Dieselgate's $30B market cap hit because its manufacturing scale, dealer networks, and brand portfolio created switching costs that exceeded customer outrage.
 - `INS-260411-CCB2` Value creation requires ROIC above WACC; a positive ROIC that falls below the cost of capital actually destroys shareholder value.
 - `INS-260412-3829` Airline points are tax-free because governments classify them as purchase rebates rather than income — a classification that enables the entire multi-billion dollar points economy.
 - `INS-260411-FE7B` The capital requirements for AI infrastructure, supply chain resilience, and government capabilities are raising barriers to entry and making scale advantages more durable, not less.

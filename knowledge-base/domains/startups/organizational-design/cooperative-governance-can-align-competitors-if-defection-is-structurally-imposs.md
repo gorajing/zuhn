@@ -62,10 +62,10 @@ stance: >-
   unattractive.
 related:
   - INS-260412-8EC1
+  - INS-260412-24DB
   - INS-260330-86CD
   - PRI-260406-0ACE
   - INS-260411-BC19
-  - INS-260403-9D7C
 ---
 Dee Hock's core innovation at Visa was not technology or branding — it was a legal structure that made defection impossible. Ownership in Visa could not be sold because there was no stock to sell; your 'ownership' was your participation volume, and it was non-transferable. Member banks also agreed to operate exclusively within the network (no side-chains allowed), and to be bound by future rule changes passed by supermajority vote, much like a constitution they couldn't exit.
 

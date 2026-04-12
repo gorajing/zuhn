@@ -46,10 +46,10 @@ stance: >-
   identical to contentment from the outside.
 related:
   - INS-260403-8930
+  - INS-260412-D625
   - INS-260403-53A0
   - INS-260327-3E6F
   - INS-260329-3848
-  - INS-260405-AD04
 evidence:
   - id: INS-260327-3E6F
     type: CONTRADICTS

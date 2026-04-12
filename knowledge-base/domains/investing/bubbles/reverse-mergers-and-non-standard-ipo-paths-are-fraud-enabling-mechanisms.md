@@ -48,9 +48,9 @@ stance: >-
   fraudulent
 related:
   - INS-260410-17AE
+  - INS-260412-24DB
   - INS-260410-A5E1
   - PRI-260406-ADF0
   - INS-260404-1A34
-  - PRI-260328-604D
 ---
 Nikola went public through a reverse merger in June 2020, a mechanism that bypasses the rigorous disclosure requirements of a traditional IPO. Within one week, Nikola's market cap surpassed Ford's $28 billion — despite having zero revenue, zero deliveries, and technology that didn't exist. The reverse merger path was not incidental; it was strategic. A standard IPO would have required detailed financial audits and technology verification that would have exposed the fraud immediately. This pattern — choosing the listing mechanism with the least scrutiny — is a strong negative signal. When combined with Theranos (which stayed private as long as possible) and Wirecard (which exploited regulatory gaps), a clear meta-pattern emerges: fraudulent companies systematically select the corporate structure that minimizes external verification.

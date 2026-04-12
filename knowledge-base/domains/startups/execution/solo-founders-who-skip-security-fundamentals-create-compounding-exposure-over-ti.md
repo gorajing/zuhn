@@ -49,12 +49,11 @@ stance: >-
   sophisticated adversaries but accumulated small operational mistakes that
   create a trail back to the founder
 related:
-  - INS-260327-2520
-  - INS-260330-1D3B
+  - INS-260412-4FE6
   - INS-260330-2B42
+  - INS-260327-2520
   - INS-260323-A8B5
   - INS-260323-FFAC
-  - INS-260330-90C3
 evidence:
   - id: INS-260323-A8B5
     type: CHALLENGES

@@ -38,11 +38,11 @@
 - `INS-260327-4669` Insta360 discovered that 70%+ of action camera users had content sitting on hard drives collecting dust because editing was too hard -- investing in mobile-first editing software became their primary competitive moat over GoPro.
 - `INS-260330-8890` Define 5 or fewer 'Why' statements that articulate specific user problems whose solutions make the product indispensable, then use them as the filter for every trade-off decision.
 - `INS-260328-8B2C` The classic pitch 'we save you 5 engineers worth a million dollars' almost never works because companies buy what makes them bigger, not what makes them leaner.
+- `INS-260409-AB8D` VC-backed industrial software must chase hockey stick growth, which means every feature decision optimizes for 'biggest problems for the most people, ideally wealthy people with disposable income' — leaving a nearly infinite long tail of niche and local needs permanently out of scope.
 - `INS-260329-97C1` Ramsey Solutions' diverse product mix (radio, books, courses, coaching, app, endorsements) prevented stair-step growth by having different products peak at different times.
 - `INS-260329-BB8F` When the market wants a suite, building only the best single tool creates a ceiling — you must decide whether to bundle or accept a limited outcome.
 - `INS-260329-22A8` One product, one avatar, one channel to $1M; add second product at $10M; add second channel after that.
-- `INS-260409-AB8D` VC-backed industrial software must chase hockey stick growth, which means every feature decision optimizes for 'biggest problems for the most people, ideally wealthy people with disposable income' — leaving a nearly infinite long tail of niche and local needs permanently out of scope.
-- `INS-260330-7B1C` The real strategy stack is financing → distribution → product, not the other way around.
 - `INS-260330-5EA4` If users tolerate a problem and keep using your product, that problem is by definition not a critical blocker.
 - `INS-260330-48DE` Users ask for specific features but the real insights are the goals behind those requests — Twitch built subscriptions (not polls) because the underlying goal was making money.
 - `INS-260330-F268` If users tolerate a problem and keep using your product anyway, that problem is probably not worth prioritizing over acquisition barriers.
+- `INS-260330-7B1C` The real strategy stack is financing → distribution → product, not the other way around.

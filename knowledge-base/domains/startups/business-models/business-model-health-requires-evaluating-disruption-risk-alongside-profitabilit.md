@@ -55,6 +55,7 @@ related:
   - PRI-260324-A608
   - PRI-260406-17AA
   - INS-260412-B47E
+  - INS-260412-1111
 ---
 Traditional business assessment focuses almost exclusively on financial metrics like revenue, margins, and growth. Osterwalder and Pigneur argue this creates a dangerous blind spot: a highly profitable business can be on the verge of disruption from technology, market shifts, or regulatory changes — Kodak's film business being the canonical example.
 

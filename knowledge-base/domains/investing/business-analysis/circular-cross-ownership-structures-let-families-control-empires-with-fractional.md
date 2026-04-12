@@ -56,5 +56,6 @@ related:
   - INS-260330-F3E4
   - INS-260327-DCA9
   - PRI-260406-4B0E
+  - INS-260412-014F
 ---
 The Samsung ownership structure demonstrates how circular cross-holdings amplify control far beyond proportional equity. The mechanism works by selling non-controlling stakes (49.9%) in one entity to buy controlling stakes (50%+1) in others, then using those controlled entities' operating profits to acquire control of additional affiliates — never paying dividends that would trigger income tax. In practice, the threshold drops below 50% because cult-of-personality effects and allied investors reduce the dissent risk, meaning 30-40% ownership often suffices for effective control. This creates a web so convoluted it confuses professional financial analysts, which is itself a feature — opacity protects the structure from external challenge. The key vulnerability is inheritance: South Korea's 50% inheritance tax threatens to unravel the entire chain when shares transfer between generations, which is what drove the C&T/Cheil merger scandal.

@@ -11,22 +11,22 @@
 - `INS-260329-67CB` Database constraints like foreign keys, NOT NULL, and ON DELETE CASCADE enforce business rules at the lowest shared layer, preventing corrupt data regardless of which application writes to the database.
 - `INS-260329-9BEF` JavaScript's evolution from var (global scope) to let/const (block scope, immutability) demonstrates how language-level constraints prevent entire classes of bugs that developer discipline cannot.
 - `INS-260330-3B0B` Rust's borrow checker shows that encoding safety rules as compile-time constraints eliminates memory bugs more effectively than garbage collection or manual discipline.
+- `INS-260410-7028` Telling a 1945 American GI who just finished a three-year WWII tour to go die in China was politically impossible, which is why counterfactuals about 'saving China' miss the binding constraint — domestic willpower, not strategic insight, was the limit.
 - `INS-260403-951B` Arbitrary constraints on creative work force productive re-examination that gravitates toward improvement.
 - `INS-260330-4F49` Rooting vectors at the origin trades away free placement for a coordinate system that makes computation possible.
 - `INS-260412-6864` Wormholes enabling time travel would violate causality — and many physicists take this as evidence they cannot exist rather than evidence that causality is breakable.
-- `INS-260410-7028` Telling a 1945 American GI who just finished a three-year WWII tour to go die in China was politically impossible, which is why counterfactuals about 'saving China' miss the binding constraint — domestic willpower, not strategic insight, was the limit.
-- `INS-260403-EDB9` The duct-tape hack and the paradigm shift exist on the same continuum — both break rules, differing only in how imaginatively.
 - `INS-260330-CED2` The archer's paradox shows that a flexible arrow bends around the bow — rigidity would cause a miss, while flexibility finds the target.
 - `INS-260330-4315` Agriculture emerged independently worldwide, but this convergence proves shared evolutionary pressures, not that farming was the best choice.
+- `INS-260403-EDB9` The duct-tape hack and the paradigm shift exist on the same continuum — both break rules, differing only in how imaginatively.
 - `INS-260329-EC78` Focus means concentrating all rungs on one ladder rather than distributing them across four ladders that each fall short of the wall.
 - `INS-260330-90AD` Getting fired from Stanford redirected Keating from safe postdoc work to founding the BICEP experiment — the most important work of his career.
 - `INS-260330-F183` The discovery that math is fundamentally incomplete led directly to the invention of computers, showing that limits catalyze breakthroughs.
 - `INS-260409-E0A9` Antimatter is hard not because we can't make it, but because we can't hold it — most scarcity problems have a similar 'containment hides as creation' structure.
 - `INS-260330-DEF7` The linearity constraint — parallel lines stay parallel, origin stays fixed — eliminates most possible transformations, making the remaining ones tractable and powerful.
-- `INS-260322-9C84` Problems that seem inescapable may simply be artifacts of the dimensional framework you're operating within.
-- `INS-260325-C724` When you can't find an answer directly, discovering constraints the answer must satisfy often lets you work backward to it.
 - `INS-260409-5C28` Binary exists because noisy electricity cannot reliably represent ten distinct voltage levels — it is a noise-tolerance hack, not a mathematical preference.
 - `INS-260330-85AA` Aerogel insulates better than air despite being 99% air because its pores are smaller than air molecules' mean free path.
+- `INS-260322-9C84` Problems that seem inescapable may simply be artifacts of the dimensional framework you're operating within.
+- `INS-260325-C724` When you can't find an answer directly, discovering constraints the answer must satisfy often lets you work backward to it.
 - `INS-260330-2492` Rubin argues that infinite choices don't lead to better creative work — deliberately limiting your palette (e.g., only green and red paint) forces novel problem-solving that unconstrained freedom cannot.
 - `INS-260330-66F7` Under-ice submarine operations remove the option to surface during emergencies, forcing fundamentally different and more rigorous preparation.
 - `INS-260410-C445` Walmart's refusal to take outside capital forced obsessive focus on inventory turns and per-unit economics, which became the actual advantage over Kmart at scale.
@@ -61,10 +61,10 @@
 - `INS-260330-8890` Define 5 or fewer 'Why' statements that articulate specific user problems whose solutions make the product indispensable, then use them as the filter for every trade-off decision.
 - `INS-260330-21C2` Longbows work through the archer's paradox via arrow flex; compound bows engineer it away with cut-out risers and drop-away rests — both valid, with different tradeoff profiles.
 - `INS-260412-B416` The Panama Canal's lock dimensions literally determine what size 50% of the world's cargo ships are built to be.
+- `INS-260321-9C2E` Charlie Puth's vast musical index becomes a liability without collaborators to constrain him — 'if you only know one sound, you'll use it, but too many options means you need someone to tell you to sit down.'
+- `INS-260409-FE00` Offline processing unlocks 'look at the whole file first' operations — like sorting grains by amplitude — that real-time DSP is structurally incapable of.
+- `INS-260404-2AA1` Brainstorming with explicit constraints and guidelines channels creative energy more productively than unconstrained sessions.
 - `INS-260330-73F3` DNA replication's lagging strand can't simply mirror the leading strand — it requires an entirely different mechanism with Okazaki fragments, multiple primers, and extra enzymes.
 - `INS-260412-F465` A rogue Earth losing its atmosphere makes spaceflight trivially easier — the very catastrophe that kills surface life removes the biggest barrier to leaving.
 - `INS-260330-012D` LA water engineers tried floating tarps, PVC trampolines, pipe chippers, and debris fields — each failure's specific flaw narrowed the solution space until shade balls emerged.
 - `INS-260403-C0FE` Mapping a competitor's business model reveals their structural limits and what moves they cannot make.
-- `INS-260404-2AA1` Brainstorming with explicit constraints and guidelines channels creative energy more productively than unconstrained sessions.
-- `INS-260321-9C2E` Charlie Puth's vast musical index becomes a liability without collaborators to constrain him — 'if you only know one sound, you'll use it, but too many options means you need someone to tell you to sit down.'
-- `INS-260409-FE00` Offline processing unlocks 'look at the whole file first' operations — like sorting grains by amplitude — that real-time DSP is structurally incapable of.

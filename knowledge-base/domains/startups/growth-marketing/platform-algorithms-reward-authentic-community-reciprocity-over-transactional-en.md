@@ -54,7 +54,7 @@ related:
   - PRI-260328-8E01
   - PRI-260328-6CEC
   - INS-260410-684D
-  - INS-260330-059C
+  - INS-260412-E90F
 ---
 The Product Hunt ecosystem operates on reciprocity — makers who participate in discussions, upvote products they genuinely like, and offer feedback to others for at least 30 days before their launch earn organic support when it's their turn. The algorithm favors engagement from seasoned accounts, meaning last-minute account creation by supporters provides diminished returns.
 

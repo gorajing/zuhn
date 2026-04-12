@@ -1,11 +1,11 @@
 # Tag: exit-strategy
 
 - `INS-260403-E185` Super-angels rationally optimize for fast acquisitions because a 10x return in one year beats a VC's 6-year path to IPO on an annualized basis.
+- `INS-260327-4419` Napoleon rejected the Frankfurt Proposals that would have kept him as Emperor of France within its natural frontiers, and ended up losing everything.
 - `INS-260403-6B24` High-profile 2025 IPOs like Figma, Chime, and Navan traded below debut prices even as Nasdaq and S&P 500 rallied.
 - `INS-260403-2668` Europe's VC direct secondaries market is projected to reach $77.2B, driven by liquidity constraints reshaping how investors and founders access exits.
 - `INS-260403-53AF` Exit structure details like lock-ups, earn-outs, and IPO discounts significantly erode the gap between paper valuation and actual cash received.
 - `INS-260403-E503` 65% of VCs weigh anticipated exit opportunities as the key valuation determinant, with competitor benchmarks (60%) as secondary anchor.
-- `INS-260327-4419` Napoleon rejected the Frankfurt Proposals that would have kept him as Emperor of France within its natural frontiers, and ended up losing everything.
 - `INS-260410-FA8E` Victory goes to whoever can identify the culminating point — push too far and you trigger counterattacks, third-party interventions, or supply collapse that erase your winnings.
 - `INS-260323-78A5` Casper rejected Target's $900M acquisition offer because it wasn't a billion dollars; the company IPO'd at $500M, then continued dropping — the unicorn ego cost investors hundreds of millions.
 - `INS-260404-2AFE` Acqui-hires often yield better risk-adjusted financial outcomes for founders and early investors than commonly believed.

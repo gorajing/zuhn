@@ -48,13 +48,14 @@ resolutions:
 related:
   - INS-260327-7D75
   - INS-260327-9CAD
+  - INS-260412-1111
   - PRI-260328-FA83
   - INS-260403-0769
-  - INS-260403-4C80
   - INS-260329-B583
   - INS-260329-D9A4
   - INS-260403-B734
   - INS-260403-E1E9
+  - INS-260403-4C80
 stance: >-
   When victory or success is never defined precisely, it is always a tell that
   there is deception at the heart of the claim

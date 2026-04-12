@@ -50,10 +50,10 @@ stance: >-
   always results in the outsider capturing control
 related:
   - INS-260327-0D82
-  - INS-260330-27E8
   - INS-260330-9BF5
   - INS-260330-341D
-  - INS-260405-03BB
+  - INS-260330-27E8
+  - INS-260412-24DB
   - INS-260410-0AA8
   - INS-260412-3AA3
   - INS-260412-0ABC

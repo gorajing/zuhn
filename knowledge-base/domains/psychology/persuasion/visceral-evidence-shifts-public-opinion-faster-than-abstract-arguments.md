@@ -47,6 +47,6 @@ related:
   - INS-260330-E695
   - INS-260403-1879
   - INS-260402-D0F2
-  - INS-260323-E492
+  - INS-260412-C3AB
 ---
 Smith notes that 82% of Americans saw the video of Renee Good's killing, and opinion swung decisively toward viewing it as unjustified — a shift that abstract warnings about ICE overreach hadn't achieved. This echoes a general pattern: people are resistant to theoretical risk arguments but responsive to concrete, visceral examples. For anyone trying to persuade — founders pitching investors, leaders driving organizational change, advocates pushing policy — the implication is to lead with specific, emotionally resonant evidence rather than statistical or logical arguments. A single compelling story or demonstration often does more persuasive work than a mountain of data.

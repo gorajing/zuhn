@@ -60,6 +60,7 @@ related:
   - INS-260412-79D5
   - INS-260329-8C14
   - INS-260410-42CB
+  - INS-260412-1255
 ---
 Kaku highlights the security implications of quantum computing: all digital encryption relies on the difficulty of factorizing very large numbers. A 50-digit number might take a digital computer hundreds of years to factorize. A quantum computer could potentially do it almost instantly. This means every digital code — national secrets, financial data, personal communications — could be cracked.
 

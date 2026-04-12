@@ -52,7 +52,6 @@ stance: >-
   institutional legitimacy and operational stability.
 related:
   - INS-260327-94CC
-  - INS-260327-7690
   - INS-260327-A675
   - INS-260327-B7FC
   - PRI-260328-BEAB

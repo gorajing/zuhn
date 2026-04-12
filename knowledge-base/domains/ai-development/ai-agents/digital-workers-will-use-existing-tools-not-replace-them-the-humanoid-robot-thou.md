@@ -49,12 +49,11 @@ resolutions:
     the impact on computing is as big as the original PC revolution.
 related:
   - INS-260327-1B82
+  - INS-260412-30EE
   - INS-260327-A9D5
   - INS-260327-1D37
   - INS-260325-031F
-  - INS-260327-9C56
   - INS-260321-28FB
-  - INS-260327-6976
   - INS-260403-9B5D
   - INS-260405-E34C
 stance: >-

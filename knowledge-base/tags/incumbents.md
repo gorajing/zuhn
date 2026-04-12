@@ -1,5 +1,6 @@
 # Tag: incumbents
 
+- `INS-260412-8C4F` Kodak invented the digital camera and Xerox invented the GUI, yet both lost to competitors because their organizations couldn't sacrifice existing revenue to pursue the new paradigm.
 - `INS-260327-2964` Prussia's army was considered Europe's finest based on Frederick the Great's victories 50 years earlier — but it had not modernized and collapsed in a single day.
 - `INS-260326-3E19` Pharmaceutical companies funding the FDA, banks staffing financial regulators, and tech giants writing platform regulations are structurally identical -- the mechanism is industry-funded oversight producing industry-favorable rules.
 - `INS-260410-3697` Michelson kept believing in the ether until his death in 1929; Poincaré had all the mathematical pieces for special relativity but couldn't let go of a dynamical interpretation of length contraction.

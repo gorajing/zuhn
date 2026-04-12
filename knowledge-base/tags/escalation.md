@@ -7,4 +7,5 @@
 - `INS-260403-80D9` The 'Trump Always Chickens Out' trade paradoxically forces ever-larger provocations to generate the market pain that triggers retreat.
 - `INS-260410-0065` 85% of Japanese WWII deaths and 43% of German deaths happened in the last year of the war — after the outcome was already decided — because regimes optimize for their own survival, not their populations'.
 - `INS-260410-24DA` Paine notes that World War I started with modest territorial objectives but, as casualties mounted into the millions, escalated to demands for regime change that the original goals never contemplated.
+- `INS-260412-95DD` Ken Lay's decision to keep rogue Valhalla traders because they were profitable established the cultural norm that profit excuses misconduct.
 - `INS-260412-B25A` The immune system uses cheap macrophages to handle most threats and only escalates to expensive adaptive immunity when the first layer fails, a pattern directly applicable to organizational design.

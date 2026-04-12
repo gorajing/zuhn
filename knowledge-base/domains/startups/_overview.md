@@ -1,6 +1,6 @@
 # Domain: startups
 
-> 4591 insights across 55 topics
+> 4600 insights across 55 topics
 
 ## Topics
 
@@ -12,9 +12,9 @@
 | co-founders | 42 | Esther Perel's framework from couples therapy identifies three root causes under every co-founder conflict: who has power, who feels cared for, and who gets recognized. |
 | communication | 23 | Debaters evaluate whether challenging a point is necessary for progress or merely satisfying — and let go of arguments that won't advance the overall dispute. |
 | community-building | 7 | A 25% hard cap for underrepresented categories lets curators correct homogeneity without destroying participant trust in merit-based selection. |
-| company-culture | 9 | Neumann's personal habits — tequila retreats, barefoot offices, impulsive bans — became WeWork's culture, making the company inseparable from his increasingly erratic behavior. |
+| company-culture | 10 | Neumann's personal habits — tequila retreats, barefoot offices, impulsive bans — became WeWork's culture, making the company inseparable from his increasingly erratic behavior. |
 | competition | 5 | Uber lost US food delivery to doordash because Uber's urban-fast-cheap identity made them see the suburbs as someone else's market—but suburbs are where the food delivery money actually is. |
-| competitive-strategy | 609 | 3D portfolio websites signal elite skill to non-technical evaluators while requiring only beginner-level Three.js knowledge. |
+| competitive-strategy | 611 | 3D portfolio websites signal elite skill to non-technical evaluators while requiring only beginner-level Three.js knowledge. |
 | content-strategy | 71 | Rogan gained 2 million subscribers during his cancellation attempt because the coordinated media attack inadvertently proved his independence from institutional control. |
 | customer-discovery | 4 | You cannot identify gains until you've mapped the expectation floor — everything below it is pain, everything at it is neutral. |
 | decision-making | 6 | When you bet the company, you're not gambling — you're pulling every future risk into the present so the outcome is already determined before the bet. |
@@ -33,14 +33,14 @@
 | health-innovation | 16 | Photosynthesis is explicitly inefficient and complicated yet powers all life on Earth — adequacy under real constraints beats theoretical optimization. |
 | hiring | 68 | The speed at which a skill can be taught is inversely correlated with its long-term career defensibility. |
 | ideation | 90 | The smartest people can make the impossible happen, but if you cannot attract the smartest people, you cannot even make the possible happen. |
-| innovation | 137 | C invented the curly-brace, semicolon syntax that now defines how billions of developers write code — its design choices became the assumed defaults of most successor languages. |
+| innovation | 138 | C invented the curly-brace, semicolon syntax that now defines how billions of developers write code — its design choices became the assumed defaults of most successor languages. |
 | investor-relations | 4 | Match your pitch deck's emphasis to investor decision criteria at your specific funding stage. |
-| leadership | 199 | Microsoft grew revenue from $6B to $80B under Ballmer, yet the stock stayed flat for over a decade because the company could not articulate a coherent story for consumers, developers, or investors. |
+| leadership | 203 | Microsoft grew revenue from $6B to $80B under Ballmer, yet the stock stayed flat for over a decade because the company could not articulate a coherent story for consumers, developers, or investors. |
 | market-entry | 57 | Simultaneous supply aging and demand shifting creates opportunities that favor operationally heavy startups over pure software. |
 | marketing | 8 | Availability friction raises perceived value; waiting lists create the FOMO that 'buy now' buttons destroy. |
 | mental-models | 7 | If a system is linear, tracking what happens to a few basis cases lets you predict outcomes for all possible inputs. |
 | operations | 26 | The US government's COGCON system splits every agency into three independent teams (A, B, C) at separate sites, each ready to assume full operations if the team above it falls. |
-| organizational-design | 20 | Innovation and execution are fundamentally different activities that require different investment mechanisms, success metrics, and decision frameworks. |
+| organizational-design | 21 | Innovation and execution are fundamentally different activities that require different investment mechanisms, success metrics, and decision frameworks. |
 | pitch-decks | 8 | As pitch descriptions approach 'could be anything,' their information content approaches zero. |
 | platform-dynamics | 24 | McDonald's owns the land, charges 8.5-15% of sales as rent versus the industry norm of 6-10%, and can replace underperforming franchisees while keeping the appreciating asset. |
 | platform-strategy | 15 | Bezos's beer-brewery analogy was a marketing pitch for AWS, but the deeper lesson was that being the unregulated utility is the great hidden business model. |

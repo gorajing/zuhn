@@ -63,8 +63,8 @@ related:
   - INS-260330-636E
   - INS-260412-9C7F
   - INS-260412-71C6
-  - INS-260412-7C35
-  - INS-260412-1DBF
+  - INS-260412-4FE6
+  - INS-260412-51C1
 ---
 Leeson's initial losses were modest — his team made bad bets during market volatility. At that stage, disclosure would have cost him his job but nothing more. Instead, he chose concealment, creating the Five Eights account. This first concealment created a new problem: margin payments on hidden losing trades required external funding, which required fabricating fake clients, which required falsifying records.
 

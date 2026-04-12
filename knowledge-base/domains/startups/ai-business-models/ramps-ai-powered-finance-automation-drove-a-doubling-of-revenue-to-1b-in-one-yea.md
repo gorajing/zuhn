@@ -57,7 +57,6 @@ stance: >-
   where customers save money while the platform captures expanding wallet share
   across the full finance stack
 related:
-  - INS-260320-901C
   - INS-260323-5341
   - INS-260327-EEBD
   - INS-260329-2D77
@@ -67,6 +66,7 @@ related:
   - INS-260403-92CC
   - INS-260410-9120
   - INS-260327-DD5C
+  - INS-260403-9BEB
 ---
 Ramp raised $300M at a $32B valuation after doubling revenue to over $1B in a single year — a 153% YoY growth rate that is 10x faster than the median public SaaS business. The growth engine is their AI system that has made over 26 million autonomous decisions across $10 billion in spend, creating what they call 'thinking money' that audits itself with intelligence, memory, and reason.
 

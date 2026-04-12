@@ -1,6 +1,6 @@
 # Topic: decision-making
 
-> 177 insights
+> 178 insights
 
 - `INS-260412-4FBF` [high] If something powerful enough would leave unmistakable traces and you find none, that silence is itself a strong signal.
 - `INS-260404-A246` [high] Admitting you're bad at something is the first step to finding effective workarounds like delegation or systematic search.
@@ -179,3 +179,4 @@
 - `INS-260403-E554` [medium] Top VCs make decisions by thinking in probabilities and leaning into uncertainty rather than relying on gut instinct.
 - `INS-260403-7342` [medium] Visual strategic frameworks succeed because the brain processes visual information roughly 60,000 times faster than text, making pattern recognition in complex systems nearly instantaneous.
 - `INS-260410-734F` [medium] In hunter-gatherer environments the best hunters are 36-40; in Silicon Valley the best founders are often 25 — because the rate of change determines how long a previous generation's knowledge stays useful.
+- `INS-260412-2A09` [low] Ferdinand Porsche declined Stalin's offer to lead Soviet auto development not over ideology, but because he couldn't speak Russian.

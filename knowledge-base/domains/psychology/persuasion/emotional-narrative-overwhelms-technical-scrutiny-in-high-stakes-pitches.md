@@ -56,6 +56,5 @@ related:
   - INS-260404-047D
   - INS-260412-C33C
   - INS-260327-4434
-  - INS-260412-7C35
 ---
 At the 2016 Nikola One reveal, Bloomberg reported that Milton's emotional delivery 'alarmed some people familiar with the truck's capability' — yet the event still generated massive buzz and investment. The truck was literally plugged into a wall socket under the stage, had no motor or fuel cell, and its door had to be taped shut. Despite this, Milton's combination of personal narrative (rough childhood, deceased mother, missionary experience) and confident energy convinced sophisticated corporate partners like Bosch and General Motors to commit billions without basic technical verification. This reveals something uncomfortable about human cognition: emotional conviction is processed as evidence of competence. When a presenter seems genuinely moved by their own vision, audiences unconsciously attribute technical credibility to that emotional authenticity, even when the two have zero correlation.

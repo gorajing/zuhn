@@ -1,5 +1,6 @@
 # Tag: political-risk
 
+- `INS-260412-51C1` Enron's status as Bush's largest campaign contributor bought them regulatory immunity that enabled fraud to scale.
 - `INS-260405-397C` A continuing resolution ending January 30 means the same fight resumes in six weeks with even less goodwill.
 - `INS-260412-B3A3` Authoritarian development models like Rwanda's concentrate institutional knowledge and legitimacy in a single leader, creating a catastrophic and unhedgeable succession risk that investors consistently underprice.
 - `INS-260410-2DB5` Regimes that need engineers, industry, and now AI to compete geopolitically cannot prevent the educated class and organized workers they create from eventually threatening their rule.

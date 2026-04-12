@@ -53,6 +53,7 @@ related:
   - INS-260403-FF3E
   - INS-260410-5799
   - INS-260412-5768
+  - INS-260412-22A6
   - INS-260323-78A5
 ---
 When Intel's CEO refused to build chips for the original iPhone — believing mobile volumes couldn't cover R&D costs and doubting the iPhone would sell well — he made a classically fatal competitive error. Apple responded by acquiring PA Semi, licensing ARM architecture, and building its own chip design team. Each successive iPhone generation then funded progressively more sophisticated silicon R&D, creating a flywheel: iPhone revenue → better chips → better iPhones → more revenue → even better chips. By 2020, Apple's mobile chips surpassed Intel's desktop CPUs in single-threaded performance while using 25x less power. The strategic lesson is stark: when an adjacent player asks you to supply a component for an emerging market, refusing doesn't protect your position — it forces them to vertically integrate, and their eventual in-house capability will be optimized to compete directly with you.

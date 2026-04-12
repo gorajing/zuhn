@@ -59,6 +59,7 @@ related:
   - PRI-260321-0A4D
   - INS-260404-6077
   - INS-260327-4313
+  - INS-260412-29B6
 ---
 If frontier AI companies succeed in building superintelligence, the power dynamic becomes zero-sum. Either the state controls the technology and the companies serve at the state's pleasure, or the companies possess power that eclipses the state, effectively making their CEOs 'god-warlords' regardless of whether they claim the title. Smith's framing of Dario Amodei as a potential 'Emperor of Earth' sounds hyperbolic but follows directly from the premises that AI companies themselves espouse about their technology's trajectory.
 

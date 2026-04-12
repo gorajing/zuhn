@@ -52,7 +52,6 @@ related:
   - INS-260327-94F5
   - INS-260330-1002
   - INS-260327-4440
-  - INS-260323-2040
 stance: >-
   Every round of Facebook, Stripe, and similar companies was called 'insane' by
   consensus

@@ -1,7 +1,8 @@
 # Topic: company-culture
 
-> 9 insights
+> 10 insights
 
+- `INS-260412-376C` [high] Enron's rank-and-yank system created a culture where 18-hour days and ruthless profit-seeking replaced ethical guardrails.
 - `INS-260410-0042` [high] Equity to part-time frontline workers isn't retention math — it's the moment a company becomes a different organism.
 - `INS-260410-C56B` [high] Conflict-averse CEOs systematically transfer shareholder value to anyone willing to make a fuss, because the path of least resistance is always to pay them off.
 - `INS-260410-5474` [high] Trader Joe's pays crew members 40–150% above industry comp and rotates everyone through every role — no dedicated cashiers, baggers, or stockers — so any employee can knowledgeably answer any product question.
