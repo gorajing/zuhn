@@ -23,7 +23,7 @@ date_extracted: '2026-04-12'
 last_accessed: null
 access_count: 0
 indexed: true
-embedded: false
+embedded: true
 embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
