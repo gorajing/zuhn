@@ -52,9 +52,9 @@ related:
   - INS-260403-C5FB
   - INS-260412-DBD1
   - INS-260412-E82B
+  - INS-260412-EE18
   - PRI-260406-6C43
   - PRI-260323-A33E
-  - INS-260330-8BB4
   - INS-260412-DE2D
 ---
 Gravity naturally closes wormholes, so they require exotic matter with negative mass to stay open. This is a specific instance of a universal pattern: structures that exist against their environment's default tendency require continuous counter-force. Startups fighting market incumbents need continuous differentiation energy. Habits that oppose biological defaults (diet, exercise) need ongoing willpower or environmental design. Organizational cultures that resist bureaucratic drift need active maintenance. Even information structures like knowledge bases resist entropy only through active curation. Recognizing which structures in your life are counter-gradient helps you allocate maintenance effort correctly — and decide which ones aren't worth propping open.

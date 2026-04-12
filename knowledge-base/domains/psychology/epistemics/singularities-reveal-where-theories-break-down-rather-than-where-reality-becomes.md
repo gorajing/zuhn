@@ -56,6 +56,6 @@ related:
   - INS-260330-4FC5
   - INS-260330-D17A
   - INS-260412-C1EC
-  - INS-260325-CC49
+  - INS-260412-B26A
 ---
 The video carefully distinguishes between what singularities are mathematically (infinite curvature, infinite density, a divide-by-zero in the universe) and what they likely represent physically (a breakdown in our current theory). This distinction — between a model producing infinity and reality being infinite — is one of the most important epistemological moves in science. It generalizes broadly: when an economic model predicts infinite growth, when a social theory predicts total collapse, when a trend extrapolation hits an asymptote — the infinity almost always signals model breakdown, not actual unbounded behavior. Recognizing 'the map is screaming, not the territory' prevents both false precision and false alarm. The practical takeaway: when any model you're using produces extreme or infinite outputs, treat it as a diagnostic signal that you've exceeded the model's valid range, not as a literal prediction.

@@ -55,8 +55,8 @@ related:
   - INS-260330-E03A
   - INS-260330-8BA6
   - INS-260412-C451
+  - INS-260412-B26A
   - INS-260412-DD79
-  - INS-260330-FEDD
   - INS-260412-FD9A
 ---
 On NASA's Stardust mission, comet dust hit the aerogel collector at ~6 km/s. A solid surface at that velocity would vaporize the particles on contact — the energy has nowhere to go except into destroying the sample. Aerogel's low-density, porous network lets particles penetrate and progressively break apart the silica structure, converting kinetic energy into structural deformation over centimeters rather than microseconds. The particle decelerates gradually and survives intact.

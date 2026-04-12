@@ -51,8 +51,8 @@ related:
   - INS-260412-D8ED
   - INS-260412-FE0A
   - INS-260412-6B75
-  - INS-260323-6D41
-  - INS-260330-3FF4
+  - INS-260412-5568
+  - INS-260412-4D8F
 ---
 When a few Argentine ant queens were transported globally, the resulting colonies had extremely low genetic diversity. This meant new colonies didn't diverge enough to become rivals — they cooperated as one supercolony instead of fragmenting into warring factions as they do in their native range.
 

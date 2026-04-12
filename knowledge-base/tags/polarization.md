@@ -5,9 +5,9 @@
 - `INS-260325-8290` Every 80 years — founding era (1787), post-Civil War (1865), post-WWII (1945), and now (2025) — America undergoes violent systemic change followed by 25 years of explosive innovation.
 - `INS-260325-B6AF` The Founding (1787), post-Civil War (1865), post-WWII (1945), and now (2025) form an 80-year pattern of extreme conflict followed by 25-year explosions of institutional reinvention.
 - `INS-260327-842F` Each British crackdown (Stamp Act, Townshend Acts, Tea Act, Intolerable Acts) hardened colonial resistance, and each colonial protest hardened British resolve — until compromise was impossible.
+- `INS-260330-365B` When exaggerated claims are excused as 'pointing in the right direction,' everyone ratchets up rhetoric until opponents seem like existential threats, enabling real political violence.
 - `INS-260330-E0F5` Movements built on cultural grievances provoke opponents to double down, creating self-reinforcing polarization spirals.
 - `INS-260330-E0ED` Intelligent people routinely collapse complex political landscapes into single-axis narratives, making them unable to acknowledge threats from both sides simultaneously.
-- `INS-260330-365B` When exaggerated claims are excused as 'pointing in the right direction,' everyone ratchets up rhetoric until opponents seem like existential threats, enabling real political violence.
 - `INS-260405-5702` Feed algorithms don't just show different opinions — they construct different facts for different population clusters.
 - `INS-260403-889B` Moderate disengagement from online politics creates a selection effect that makes remaining discourse more extreme than the population it claims to represent.
 - `INS-260403-56D7` Moderate users leaving social media doesn't reduce polarization — it concentrates extremist influence by removing the moderating majority.

@@ -7,5 +7,6 @@
 - `INS-260325-DFA5` If God chose evolution by natural selection as the mechanism to create humans, billions of years of animal predation, disease, and extinction were built into the design — this challenges God's goodness more than God's existence.
 - `INS-260327-78DA` Nietzsche's amor fati doesn't just accept suffering - it loves it, treating every hardship as necessary raw material for becoming who you are.
 - `INS-260325-0172` Happiness is fragile and requires things going well; joy is existentially gritty and can coexist with the deepest suffering.
+- `INS-260412-3140` Framing hardship as developmental rather than random gives people a psychologically stable relationship with suffering.
 - `INS-260329-68C8` We repeat behaviors that are reinforcing (aligned with deeper purpose), not just those that are rewarding (pleasurable).
 - `INS-260327-1B09` The harder you try to control life, the worse it gets - because the energy spent maintaining control exceeds the benefit of the control itself.

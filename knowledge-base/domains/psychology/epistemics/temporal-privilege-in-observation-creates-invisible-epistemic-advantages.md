@@ -50,9 +50,9 @@ stance: >-
 related:
   - INS-260325-A8E6
   - INS-260327-8936
+  - INS-260412-F943
   - INS-260412-61F8
   - INS-260412-CFA6
-  - INS-260325-76E6
 ---
 Humanity occupies a brief window in cosmic history where the universe is old enough to have formed complex structures but young enough that light from the Big Bang and distant galaxy clusters still reaches us. This allows us to reconstruct the full story of cosmic evolution. No future civilization will have this capability.
 

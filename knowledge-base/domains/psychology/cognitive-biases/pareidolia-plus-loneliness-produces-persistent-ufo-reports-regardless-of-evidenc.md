@@ -50,7 +50,7 @@ related:
   - INS-260327-684D
   - INS-260325-05E4
   - INS-260325-76E6
+  - INS-260412-F943
   - INS-260323-7263
-  - INS-260330-5F21
 ---
 Reflecting on the viral AI-upscaled balloon, the astronomer observes that people seem to 'unconditionally rush to put aliens on' anything unfamiliar in the sky, and reads this as a kind of cosmic loneliness: in the absence of confirmed extraterrestrial life, humans fill the void by treating every ambiguous smudge as a candidate. This reframes UFO belief from an intellectual mistake into an emotional one. The practical implication: technical debunks (lens artifacts, balloon ID, thermal-imaging explanations) will never reduce belief rates at the population level, because the demand is affective. The only things that reduce it are either a real detection or cultural shifts in how lonely humans feel about their place in the universe.

@@ -1,6 +1,6 @@
 # Topic: consciousness
 
-> 113 insights
+> 115 insights
 
 - `INS-260327-CA82` [high] Complex strategic board games existed 4,000+ years ago in Mesopotamia, demonstrating sophisticated mathematical and strategic thinking thousands of years before formal game theory.
 - `INS-260327-1B60` [high] Trillion-dollar companies are built on capturing human attention - the most finite and valuable resource any person possesses.
@@ -54,6 +54,7 @@
 - `INS-260327-1AD8` [medium] People who have genuinely confronted the possibility that existence is meaningless often develop a stronger commitment to living than those who never questioned it.
 - `INS-260330-2E54` [medium] Hoffman inverts the hard problem of consciousness: instead of explaining how matter creates experience, he asks how conscious agents create the data structure we call spacetime.
 - `INS-260330-BE4D` [medium] Consciousness is like a mirror that reflects ugly or beautiful images without itself being changed.
+- `INS-260412-F943` [medium] We are not separate from the universe observing it — we are the part of the universe that became aware of itself.
 - `INS-260327-A4FE` [medium] When you examine consciousness, you're using consciousness to examine itself - like trying to see your own eyes directly, the tool and the subject are the same thing.
 - `INS-260412-0EC0` [medium] Consciousness is best understood as a multi-step continuum from simple directed motion to self-reflective awareness.
 - `INS-260330-EEAE` [medium] Lane argues that single cells already act as coherent units using electrical membrane fields as real-time environmental feedback — and that consciousness is an elaboration of this ancient sensing mechanism, not a phase transition from computation.
@@ -110,6 +111,7 @@
 - `INS-260325-FBA0` [medium] Gratitude aimed beyond the self — toward God, nature, or existence — delivers stronger psychological benefits than person-directed or private gratitude practices.
 - `INS-260327-B37E` [medium] Uncontacted tribes are the only remaining examples of human minds shaped entirely by nature rather than civilization - once contacted, their unique perspective is permanently lost.
 - `INS-260327-4C73` [medium] A person following rules to produce perfect Chinese responses without understanding Chinese suggests that behavior and understanding are separable - with direct implications for AI.
+- `INS-260412-73A8` [medium] Treating all others as literal extensions of yourself collapses the cognitive distance that enables cruelty.
 - `INS-260409-9809` [low] If the ground of awareness is already here, practice is less about attaining and more about noticing what was never absent — which changes how the goal is shaped.
 - `INS-260325-916B` [low] Panpsychism proposes consciousness is a fundamental feature of nature, more like gravity than like computation.
 - `INS-260322-C4A2` [low] Jung proposed that synchronicities reveal an underlying reality ('unus mundus') where psyche and matter are not separate substances but expressions of a single unified order.

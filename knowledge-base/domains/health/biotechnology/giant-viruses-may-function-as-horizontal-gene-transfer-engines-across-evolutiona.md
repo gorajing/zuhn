@@ -50,9 +50,8 @@ related:
   - INS-260330-A59D
   - INS-260410-3B8B
   - INS-260325-BF44
+  - INS-260412-0B6B
   - INS-260325-E19E
-  - INS-260403-96F9
   - INS-260412-3C98
-  - INS-260412-D8ED
 ---
 Unlike standard viruses with minimal genomes, gyruses carry hundreds to thousands of genes — including hallmarks of living cells like energy production and nutrient metabolism genes. When they infect hosts, they can integrate host DNA into their own genome and deposit their genes into new hosts, creating chimeric organisms. Over billions of years, this bidirectional gene flow may represent an underappreciated engine of evolutionary innovation, shuffling genetic capabilities across species boundaries far more aggressively than vertical inheritance alone. This reframes viruses from pure parasites to accidental architects of biodiversity — a perspective with implications for gene therapy, synthetic biology, and understanding how complex traits spread through ecosystems.

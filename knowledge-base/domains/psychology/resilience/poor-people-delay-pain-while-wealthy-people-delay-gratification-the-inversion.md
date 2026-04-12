@@ -47,11 +47,11 @@ stance: >-
   intelligence or opportunity but the direction of pain deferral — taking pain
   now for pleasure later versus taking pleasure now for guaranteed pain later.
 related:
-  - INS-260325-8729
   - INS-260323-28FB
   - INS-260329-3ED9
+  - INS-260325-8729
+  - INS-260412-3140
   - INS-260323-9C11
-  - INS-260405-690F
 evidence:
   - id: INS-260323-28FB
     type: SUPPORTS

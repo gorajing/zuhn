@@ -5,3 +5,4 @@
 - `INS-260410-DED5` Jensen Huang's rule: don't enter a market until you have a differentiated reason to — expansion without differentiation is just fighting for low margins.
 - `INS-260330-930D` Apple's dismissal of India as low-revenue ignores that competitors are building ecosystem lock-in with hundreds of millions of users who will be difficult to convert later.
 - `INS-260403-4572` Spotify delayed US entry to perfect product-market fit while Klarna raced in because the cost of staying out exceeded the cost of imperfection—both succeeded because they correctly diagnosed their existential risk.
+- `INS-260412-4162` In resistant markets, disruptive entrants oscillate between expansion and recompression before either finding equilibrium or being absorbed.

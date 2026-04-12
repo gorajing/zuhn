@@ -1,6 +1,6 @@
 # Topic: space-economy
 
-> 36 insights
+> 37 insights
 
 - `INS-260325-415A` [high] Detecting an alien signal would statistically prove that technological civilizations can have long futures, because the math of detection requires that such technologies are long-lived on cosmic timescales.
 - `INS-260322-7A2F` [high] Artemis builds permanent lunar presence through deliberate phased deployment — unmanned test, crewed orbit, first landing, rover, habitable vehicle, base camp — each phase de-risking the next.
@@ -23,6 +23,7 @@
 - `INS-260412-AEE1` [medium] A Dyson Swarm bootstraps itself through exponential doubling — each panel powers the construction of the next, completing in ~60 doublings.
 - `INS-260325-4E20` [medium] Life emerged on Earth within 200 million years of ocean formation — so fast it overwhelms evolutionary timing arguments and suggests abiogenesis is relatively easy.
 - `INS-260330-F6B5` [medium] About half of sun-like stars have gas giants in habitable zones, and if even 20% host Earth-like moons, habitable moons outnumber habitable planets.
+- `INS-260412-0404` [medium] Humanity's progression on the Kardashev scale (currently ~0.73) implies that every technology enabling greater energy capture and utilization is on a multi-century growth curve.
 - `INS-260322-02A6` [medium] Korea's K-RAD CubeSat on Artemis 2 tests radiation effects on human tissue and Korean semiconductors — a dual-purpose mission validating both biological and industrial readiness for space.
 - `INS-260403-AFA5` [medium] Launch is the mandatory toll on every space company's P&L, making launch providers the landlords of the space economy.
 - `INS-260412-D015` [medium] Mercury's metal richness, low gravity, no atmosphere, and proximity to the Sun create compounding advantages for space-industrial operations.

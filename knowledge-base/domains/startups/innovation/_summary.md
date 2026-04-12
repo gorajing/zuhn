@@ -1,6 +1,6 @@
 # Topic: innovation
 
-> 134 insights
+> 135 insights
 
 - `INS-260405-EFC2` [high] C invented the curly-brace, semicolon syntax that now defines how billions of developers write code — its design choices became the assumed defaults of most successor languages.
 - `INS-260404-4320` [high] AI collapses experimentation costs across deeptech by replacing early-stage lab work with in-silico simulation.
@@ -23,6 +23,7 @@
 - `INS-260403-F8A2` [high] Innovation functions need CEO-level reporting to survive organizational inertia.
 - `INS-260404-DFA5` [high] The best deeptech startups blend physical science with software platforms rather than choosing one modality.
 - `INS-260403-9627` [high] Committees produce safe, lumpy designs because no group will agree to the bold risks that distinguish great work.
+- `INS-260412-0C54` [high] Phage therapy was known for a century but ignored while antibiotics worked; only the superbug crisis is forcing serious investment.
 - `INS-260404-A1BA` [high] Harsh judgment of early work is a cultural habit, not human nature, and environments like Silicon Valley prove it can be unlearned.
 - `INS-260403-1B53` [high] The same trait that makes hackers disrespectful of hierarchy is what makes them capable of breakthrough innovation.
 - `INS-260403-427E` [high] Truly disruptive solutions are often conceptually simple — the moat is in the execution, not the idea.

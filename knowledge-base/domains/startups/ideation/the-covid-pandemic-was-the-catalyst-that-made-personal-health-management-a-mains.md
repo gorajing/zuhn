@@ -64,6 +64,7 @@ related:
   - INS-260322-823B
   - INS-260327-54B6
   - INS-260322-D58A
+  - INS-260412-0C54
 stance: >-
   COVID triggered a permanent shift where consumers took responsibility for
   their own health

@@ -1,8 +1,10 @@
 # Topic: epistemics
 
-> 72 insights
+> 77 insights
 
 - `INS-260412-0F94` [high] The empty universe is not a lack of data — it is the single most important data point in the Fermi Paradox.
+- `INS-260412-CC9E` [high] At sufficient scale, not finding what you'd expect to find is itself strong evidence that it doesn't exist.
+- `INS-260412-B854` [high] We fail to let accumulated negative evidence (1,000+ nuclear tests with no catastrophe) properly update our catastrophic priors.
 - `INS-260409-F93A` [high] Galef argues accurate maps of the world should include explicit uncertainty markers and remain provisional — 'drawn in pencil, not pen' — because false precision creates psychological resistance to updating when better evidence arrives.
 - `INS-260411-8AEF` [high] AI 'knowledge' is statistical likelihood rather than justified belief, requiring a Bayesian rather than classical epistemic framework.
 - `INS-260405-5702` [high] Feed algorithms don't just show different opinions — they construct different facts for different population clusters.
@@ -21,6 +23,7 @@
 - `INS-260410-831F` [high] The Inquisition ignored Voltaire and the Encyclopédie to throw the book at Jansenist treatises about the Trinity — and Palmer says this pattern holds in every era she studies.
 - `INS-260410-8E0D` [high] Paine repeatedly tells Dwarkesh his questions are 'above my pay grade' — she can describe what the Japanese leadership faced, but can't say what was politically feasible for FDR without having served in government.
 - `INS-260412-491A` [high] Neutron star cores recreate Big Bang conditions, letting physicists study the universe's founding rules — extremes are windows to origins.
+- `INS-260412-AC11` [high] Abstract awareness of mortality rarely changes behavior, but seeing '2,340 weeks left' creates visceral urgency that does.
 - `INS-260412-2E7D` [high] Cosmic expansion will eventually erase all evidence of other galaxies, making the Big Bang undiscoverable to future civilizations.
 - `INS-260405-1CAA` [high] You know what you believe but rarely why you believe it — the source code is gone.
 - `INS-260409-3FDE` [high] Contributor gizmax reproduced MemPalace's 96.6% LongMemEval R@5 on M2 Ultra in under 5 minutes using the public benchmark scripts — that reproduction is exactly what forced the retraction of the other overclaims by making ground truth reviewable.
@@ -32,6 +35,7 @@
 - `INS-260412-D634` [high] The largest stars are solar-system-sized behemoths blowing themselves apart, making precise measurement nearly impossible and rankings unstable.
 - `INS-260412-75FF` [high] Single-example reasoning demands surfacing which properties you assume are universal versus local.
 - `INS-260409-A0D7` [high] 'UFO' bakes in 'flying object'; UAP opens the door back up to atmospheric optics and instrument artifacts.
+- `INS-260412-CE01` [high] Naming an unknown phenomenon creates a collaborative anchor that accelerates investigation despite masking ignorance.
 - `INS-260405-2B3F` [high] Treating survey non-response as randomly missing data produces systematically wrong estimates whenever the stigmatized view is also the under-reported one.
 - `INS-260412-7728` [high] When you don't know the rules of the game, watch silently before announcing yourself.
 - `INS-260412-B9F4` [high] Future Milkdromeda civilizations will have no evidence of the Big Bang, cosmic expansion, or other galaxies — they'll rationally conclude a static, solitary universe.
@@ -51,6 +55,7 @@
 - `INS-260411-7F4F` [high] Aleatoric uncertainty (irreducible noise), epistemic uncertainty (knowledge gaps), and ontological uncertainty (ambiguous concepts) each demand different mitigation strategies.
 - `INS-260409-BF3F` [high] In a field where measurements are routinely precise to ~1%, an 8-9% gap between two independent methods is not a rounding error — it is a crisis exactly because precision grew faster than the gap closed.
 - `INS-260409-0206` [high] The gap between 'unexplained' and 'aliens' is a logical leap people make far too quickly.
+- `INS-260412-C97E` [high] Emotionally satisfying unfalsifiable narratives outcompete empirically grounded ones in memetic spread.
 - `INS-260412-15D0` [high] Point particles are admittedly fictional yet predict electron properties to 14 decimal places, proving that useful approximations beat paralysis from incomplete knowledge.
 - `INS-260405-D3D7` [high] You cannot use a biased yardstick to measure whether the selection was biased.
 - `INS-260412-2316` [high] Supermassive black holes are only 0.001% of galaxy mass — dark matter, not the visible anchor, holds galaxies together.

@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-12 | 4869 actionable insights
+Generated on 2026-04-12 | 4878 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1568,6 +1568,7 @@ Generated on 2026-04-12 | 4869 actionable insights
 - [INS-260410-2CBC] People who over-plan their careers unconsciously filter for signals that confirm the plan and dismiss unrelated opportunities, which is exactly how the biggest opportunities get missed.
 - [INS-260412-C1EC] Inside a black hole's event horizon, moving in any direction only brings you to the singularity faster — the longest survival comes from doing nothing.
 - [INS-260412-4FBF] If something powerful enough would leave unmistakable traces and you find none, that silence is itself a strong signal.
+- [INS-260412-4CB1] When no path is cosmically 'right,' the only remaining criterion is personal alignment, which is faster to evaluate.
 
 ## psychology/epistemics
 - [INS-260405-2B3F] Treating survey non-response as randomly missing data produces systematically wrong estimates whenever the stigmatized view is also the under-reported one.
@@ -1588,6 +1589,7 @@ Generated on 2026-04-12 | 4869 actionable insights
 - [INS-260412-75FF] Single-example reasoning demands surfacing which properties you assume are universal versus local.
 - [INS-260412-7728] When you don't know the rules of the game, watch silently before announcing yourself.
 - [INS-260412-0F94] The empty universe is not a lack of data — it is the single most important data point in the Fermi Paradox.
+- [INS-260412-AC11] Abstract awareness of mortality rarely changes behavior, but seeing '2,340 weeks left' creates visceral urgency that does.
 
 ## psychology/expertise
 - [INS-260330-C7B5] Making a tool part of your identity makes you worse at evaluating alternatives.
@@ -1806,6 +1808,7 @@ Generated on 2026-04-12 | 4869 actionable insights
 - [INS-260404-F212] Surrounding yourself with people working on similarly ambitious projects provides encouragement you won't learn to discount.
 - [INS-260403-1228] The right creative peers aren't cheerleaders but fellow practitioners who can accurately judge the potential of ugly early work.
 - [INS-260404-C29F] Surrounding yourself with indiscriminate encouragers teaches you to discount praise — you need peers with calibrated judgment on early work.
+- [INS-260412-1773] Leafcutter ants respond to army ant attacks with instant role-based mobilization — soldiers to frontline, workers to barricades, small teams to flanking — all without central coordination.
 
 ## psychology/habits
 - [INS-260405-DC8D] Neutral framing of interruptions ('it doesn't matter how long') removes the shame spiral that prevents return, making recovery from distraction faster and more automatic.
@@ -2003,6 +2006,7 @@ Generated on 2026-04-12 | 4869 actionable insights
 - [INS-260409-1AA0] One deliberate trip down the stack permanently changes how you reason about every layer above it — depth compounds.
 - [INS-260410-CE40] Americans (and most analysts) default to 'Team America' analysis — studying only their own options and mirror-imaging the other side — and this explains repeated strategic surprises from Pearl Harbor to Iraq's insurgency.
 - [INS-260412-E146] The information paradox was resolved by asking 'what do black holes do with information in the meantime' instead of debating whether it's lost or preserved at the end.
+- [INS-260412-17AF] Scenario-based thinking outperforms point forecasts when core variables are deeply uncertain.
 
 ## psychology/negotiation
 - [INS-260330-A954] When an investor says 'I want to invest but I don't lead,' translate to 'No, except yes if you become a hot deal.'
@@ -2314,6 +2318,7 @@ Generated on 2026-04-12 | 4869 actionable insights
 - [INS-260409-143A] Hustle-driven anxiety triggers fight/flight physiology which measurably reduces creativity and opportunity recognition — the opposite of what the pursuit requires.
 - [INS-260409-B521] To get good you must be willing to be bad for a very long time — ego protection prevents the iteration that produces skill.
 - [INS-260412-FCDC] At abyssal depths, every surviving species moves in slow motion and conserves energy as its primary survival strategy.
+- [INS-260412-DABC] The impossibility of permanent failure in a finite existence removes the rational basis for paralyzing fear.
 
 ## psychology/skill-development
 - [INS-260405-874D] Autonomy in work is a one-way door: once crossed, the cage of a managed job becomes visible and unbearable.
@@ -2820,6 +2825,7 @@ Generated on 2026-04-12 | 4869 actionable insights
 - [INS-260410-25AF] Great writing propagates efficiently through elite networks in roughly a week — audience compounding is an artifact of the creator slowly getting better, not of slow network accretion.
 - [INS-260410-CB92] A CNBC article is worth 2% of its value within a month; Acquired targets 80% value at five years, and that choice drives every other decision.
 
+- [INS-260412-3603] An 8-minute video conveying a complete philosophical worldview demonstrates that conceptual density, not runtime, drives content resonance.
 
 ## startups/customer-discovery
 - [INS-260405-A742] You cannot identify gains until you've mapped the expectation floor — everything below it is pain, everything at it is neutral.
@@ -3297,6 +3303,7 @@ Generated on 2026-04-12 | 4869 actionable insights
 - [INS-260410-320A] Zuckerberg's retained control through Peter Thiel's and Accel's unprecedented founder-friendly terms is what allowed Meta to survive IPO, mobile, Instagram, Oculus, and reality-labs bets that a standard board would have blocked.
 - [INS-260410-ED8E] Akio Morita refused a 100,000-unit Sony order that required removing the Sony name, and Ralph Lauren walked away from a Bloomingdale's house-brand deal while sleeping on a mattress — both later made most of their money from licensing the brand they refused to dilute.
 - [INS-260410-614E] Most VCs say 'we made a bet' or 'it's a good risk-adjusted bet' — Benchmark partners argue this language encodes passive super-forecasting, whereas 'commitment' encodes active odds-denting on the field with the founder.
+- [INS-260412-9719] If the universe has no scoreboard, you get to design your own — and founders who do this explicitly build more resilient companies.
 
 ## startups/founder-psychology
 - [INS-260323-81F5] If you cannot imagine yourself working on this problem for 10 years, you will abandon it when the inevitable 2-3 year difficulty spike hits.
@@ -4547,6 +4554,9 @@ Generated on 2026-04-12 | 4869 actionable insights
 - [INS-260404-67C5] Multiple checkpoints (police, prosecutors, defense, jury) all biased toward conviction means zero effective error correction.
 - [INS-260403-868F] Spending tens of hours on primary research per post produces insights readers can't find elsewhere, which is what makes content worth sharing.
 
+## startups/resilience
+- [INS-260412-EE18] Forces that maintain cohesion at small scale break down at larger scales, requiring different survival strategies at each phase.
+
 ## startups/sales
 - [INS-260327-7A44] The moment a customer has their first 'wow' result -- first milestone hit, first successful implementation, first measurable outcome -- immediately ask: 'Is there one or two people just like you that we could help?'
 - [INS-260327-FD15] Always BAMFAM (Book A Meeting From A Meeting): schedule the next call before hanging up, send the calendar invite while they're still on the line, and commitment-lock them by asking 'if something comes up, could you text me beforehand?'
@@ -4921,6 +4931,7 @@ Generated on 2026-04-12 | 4869 actionable insights
 - [INS-260412-0EF9] To move a solar system, you only move the Sun — everything else follows via gravity.
 - [INS-260412-A1F4] Historical colonization always followed three phases — exploration, dependent outpost, self-sufficient colony — and this pattern maps directly to entering new markets.
 - [INS-260412-F0F5] String theory's rowing-boat-to-cruise-ship analogy shows that working in a simplified model universe that shares structural properties with the real problem can yield transferable insights even when direct application fails.
+- [INS-260412-4716] Startups face discrete 'great filters' at each stage — finding PMF, scaling, and sustaining — where most die, mirroring the Fermi Paradox's civilizational filters.
 
 ## startups/team-building
 - [INS-260405-F378] Searching for a technical cofounder before validating demand is backwards — demand attracts technical talent.

@@ -53,6 +53,6 @@ related:
   - INS-260409-5B7B
   - INS-260409-9296
   - PRI-260323-0F93
-  - INS-260326-BF32
+  - INS-260412-EE18
 ---
 Strange matter illustrates a powerful general principle: when a system reaches a state of superior stability, it doesn't merely coexist with less stable neighbors — it converts them. Each conversion releases energy that fuels further conversion, creating a self-reinforcing cascade. This pattern appears across domains: dominant platforms converting users (network effects as 'infection'), winning cultural narratives absorbing competing worldviews, and monopolies absorbing competitors. The key insight is that stability itself becomes the propagation mechanism — the converted material doesn't need external force to stay converted, it's now in a lower energy state. This reframes competitive dynamics: the winner isn't always the most aggressive actor, but the one offering the most stable equilibrium.

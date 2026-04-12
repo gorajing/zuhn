@@ -56,5 +56,6 @@ related:
   - INS-260403-7BCF
   - INS-260403-FFFE
   - INS-260404-8791
+  - INS-260412-4CB1
 ---
 Jan Leike (former OpenAI alignment lead, now at Anthropic) argues that alignment is increasingly looking solvable because current techniques work well on existing AIs. His proposed strategy: use a slightly-sub-superintelligent AI as an automated alignment researcher, throwing thousands of researcher-years into the problem in months. The critical assumption is that there exists a 'golden middle' — a capability level where AIs are simultaneously simple enough to be fully alignable with current techniques AND smart enough to do genuinely useful superalignment research. Scott Alexander notes this also assumes current alignment is deep rather than shallow. If alignment techniques that work on today's models are merely surface-level behavioral compliance rather than genuine value alignment, the entire bootstrap strategy fails — you'd be trusting a superficially-aligned AI to solve deep alignment, which is circular.

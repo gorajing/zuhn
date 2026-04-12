@@ -55,7 +55,6 @@ related:
   - PRI-260406-4A83
   - PRI-260406-818D
   - INS-260403-E1CE
-  - INS-260412-6B75
 evidence:
   - id: INS-260320-901C
     type: TRANSFERS_TO

@@ -7,4 +7,5 @@
 - `INS-260412-5AD5` Framing collective sacrifice as mutual insurance — you protect them, they protect you — is more effective than appeals to abstract duty.
 - `INS-260404-BAED` The spam problem is fundamentally a collective action failure where the rational majority cannot stop the exploitable minority from sustaining the attacker's business model.
 - `INS-260403-5F8E` Anti-piracy patrols create classic free-rider problems where non-paying companies benefit equally, making voluntary collective defense inherently unstable.
+- `INS-260412-5568` Army ants defeat individually stronger wasps and other colonies by acting as a coordinated social unit with overwhelming numbers.
 - `INS-260323-D934` What is rational for one person can be irrational for the group — rational societies are built from cooperators, not defectors.

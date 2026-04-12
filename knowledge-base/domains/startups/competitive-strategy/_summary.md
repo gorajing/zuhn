@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 580 insights
+> 585 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -73,6 +73,7 @@
 - `INS-260403-C074` [high] Intercom's path to $400M ARR came from aggressively betting on AI agent Fin at the expense of its traditional model.
 - `INS-260330-57BB` [high] Son's strategy of offering 5x what companies asked for pressured them into unsustainable growth-at-all-costs playbooks while scaring away competitors.
 - `INS-260403-0E11` [high] The failure front in a Prince Rupert's Drop is powered by the drop's own stored mechanical energy, not by the force that nicked the tail.
+- `INS-260412-CDDD` [high] Attacking on two fronts where defending one front requires vulnerability to the other creates an unwinnable position for the target.
 - `INS-260402-9DBC` [high] Defining the vocabulary of your market (roles, categories, workflows) anchors your brand in every conversation about that space in ways features never can.
 - `INS-260327-7A5A` [high] Celebrities who launch product lines exploit parasocial fan relationships to bypass normal quality evaluation, resulting
 - `INS-260330-E811` [high] Innovation ecosystems are historically destroyed by authoritarian rulers, ideological fundamentalists, or rent-seeking extractors.
@@ -134,6 +135,7 @@
 - `INS-260327-6E93` [high] Crosby's customers (Cursor, Clay) care about how fast contracts close, not how cheap the review is, because their growth rate makes delay the real cost.
 - `INS-260330-2CE3` [high] Bing's $5B/year profit proves that owning the default position on a dominant platform is more valuable than building a better product.
 - `INS-260330-7DAA` [high] Bing earns $5B/year not from product quality but from being Windows' default — distribution through defaults beats product superiority.
+- `INS-260412-FAA0` [high] Ant species that survive army ant attacks evolved specialized defenders (square-headed blockers, massive soldiers) long before any specific attack.
 - `INS-260404-8076` [high] Defense-tech and climate-tech are drawing the largest late-stage rounds, reflecting a structural reallocation of venture capital toward hard-tech sectors.
 - `INS-260403-FF7E` [high] AI-era startups should prioritize building compounding moats over optimizing gross margins, because margins can mislead while defensibility determines survival.
 - `INS-260403-9A5D` [high] Peter Thiel's principle that advantages must be defensible means VCs discount any competitive edge that competitors can replicate within 12-18 months.
@@ -157,6 +159,7 @@
 - `INS-260330-EC7C` [high] Britain's enclosure movement privatized common fields, boosting agricultural output but impoverishing tenant farmers — a pattern that repeats in every platform economy shift.
 - `INS-260403-DAA9` [high] Decades of accumulated context at a single company create pattern recognition and reinvention capacity that no amount of capital or talent can fast-track.
 - `INS-260330-6050` [high] Build where incumbents face structural inability to compete, not just unwillingness.
+- `INS-260412-8D55` [high] A disruptive product's actual impact depends more on the market's structural resistance than on the product's raw power.
 - `INS-260327-7F1B` [high] Glass bottles are better for the environment but lost to plastic and aluminum because transportation costs per unit are 
 - `INS-260403-CC59` [high] ERP systems are unbundling into specialized tools, opening market entry windows for focused startups.
 - `INS-260403-3C2C` [high] Every technology eventually hits a commoditization inflection point where differentiation must shift away from the tech itself.
@@ -308,6 +311,7 @@
 - `INS-260326-841D` [high] Taleb's simulation shows that someone with a convex payoff (option-like exposure) massively outperforms someone with superior knowledge, explaining why tinkering has historically beaten theoretical approaches.
 - `INS-260403-35E7` [high] Real standards establish themselves before most people hear about them — heavy promotion is a smell of inadequacy.
 - `INS-260402-4605` [high] Eminence constrains innovation more than obscurity constrains execution.
+- `INS-260412-5568` [high] Army ants defeat individually stronger wasps and other colonies by acting as a coordinated social unit with overwhelming numbers.
 - `INS-260410-7CB7` [high] When the incumbent controls both the scarce talent and the distribution rights, a well-funded competitor with a great product still loses — the IPL killed the rival ICL by banning any player who joined it from ever playing for India.
 - `INS-260403-A862` [high] Incumbents' existing architecture and customer base anchor them to old threat models when the battleground shifts.
 - `INS-260403-F68A` [high] RuBisCo is a terrible enzyme that won evolution because it was first, and now 40 billion tons of it run the planet.
@@ -502,6 +506,7 @@
 - `INS-260403-68B4` [medium] Market crowding shifts the advantage from speed-to-market to depth-of-understanding.
 - `INS-260329-CABE` [medium] Big and small goals require similar effort, but big goals face less competition because most people dismiss them as unrealistic.
 - `INS-260403-162F` [medium] Deep customer understanding makes competitor tracking largely irrelevant.
+- `INS-260412-4D8F` [medium] Army ants never fight other army ants — those that did probably eradicated themselves millions of years ago.
 - `INS-260405-E2F2` [medium] Companies invest in OSS to influence standards, attract developers, and commoditize competitors' advantages.
 - `INS-260403-943D` [medium] Deliberately generating 'bad' ideas is the path to genuinely differentiated branding in commodity markets.
 - `INS-260329-4B99` [medium] Top-20 schools still deliver outsized ROI through brand and ruling-class network access; mid-tier schools cost too much for what they deliver.

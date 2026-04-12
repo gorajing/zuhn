@@ -60,6 +60,7 @@ related:
   - INS-260405-ACCE
   - INS-260405-B406
   - INS-260325-502D
+  - INS-260412-4716
 ---
 Most organizational design thinking focuses on efficiency, span of control, or speed of execution. But an equally important dimension is information flow: which conflicts, disagreements, and problems naturally rise to leadership versus which get resolved—or suppressed—at lower levels. Organizations optimized for smooth consensus tend to surface only problems that have already become crises, while structures with designated conflict escalation paths catch issues earlier.
 

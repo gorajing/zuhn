@@ -47,7 +47,6 @@ stance: >-
   through reserves, follow-on rights, and flexible mandates — systematically
   outperform rigid allocation strategies.
 related:
-  - INS-260403-CC4E
   - INS-260403-C732
   - INS-260404-A2CA
   - INS-260403-FA65

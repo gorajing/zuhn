@@ -61,6 +61,7 @@ related:
   - INS-260404-7325
   - INS-260403-A36C
   - INS-260402-D739
+  - INS-260412-9719
 ---
 Baxley learned from his Pinterest experience that 'bouncing off' a company's culture is a real risk for design leaders. His key evaluation criterion: look for a founding story about why the founders personally believe in design. Companies like Apple and Airbnb have deep founding narratives around design being central to their identity. Companies that hire design leaders to 'add design culture' without that founding conviction will consistently deprioritize design when it conflicts with shipping speed or revenue.
 

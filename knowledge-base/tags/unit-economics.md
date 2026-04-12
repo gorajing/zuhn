@@ -38,13 +38,6 @@
 - `INS-260402-E2FF` Make the adversary's business model unviable rather than trying to block every specific attack.
 - `INS-260405-E155` In hybrid hardware+SaaS models, blended margin is the single metric most likely to hide a fatal business problem.
 - `INS-260327-DD5C` Christoph Janz's framework shows five ways to build a $100M business: 1,000 customers at $100K, 10,000 at $10K, or 10 million at $10 — and your sales approach must match which path you're on.
-- `INS-260403-44E9` Build revenue projections from funnel conversion rates upward rather than starting from a target number and working backward.
-- `INS-260403-6740` A burn multiple around 1.5x signals strong capital efficiency; above 2.5x means growth needs scrutiny regardless of top-line momentum.
-- `INS-260403-1D7D` For early rounds, present a clean dashboard showing retention, expansion, and CAC efficiency instead of bloated financial projections.
-- `INS-260403-21DB` VCs expect LTV to be at least 3x CAC — below 1:1 signals pricing or retention needs immediate work.
-- `INS-260403-4E51` Showing CLTV/CAC ratio improvement over time is a stronger fundraising signal than a single favorable snapshot.
-- `INS-260405-3098` Series B pitches succeed by proving unit economics are scalable, not just by showing growth.
-- `INS-260405-7F03` Venture capital decisions are driven by quantitative metrics, not story quality.
 - `INS-260330-73A2` Growth equals conversion minus churn, and reducing churn by 1% has the identical mathematical effect on growth as increasing conversion by 1%, but costs significantly less.
 - `INS-260403-6D8C` Cohort-level CAC payback reveals which acquisition channels and time periods produce self-funding growth versus cash-burning growth.
 - `INS-260403-1817` Each churned customer destroys not just current revenue but years of future compounding profit.
@@ -63,6 +56,13 @@
 - `INS-260322-3259` SiteGPT's $1700-1800 LTV per customer makes even low-conversion organic traffic highly profitable.
 - `INS-260329-49A4` LTV-to-CAC ratio (using gross profit, not revenue) determines scaling ceiling — aim for 3:1 minimum, and pour fuel when you see 30:1+.
 - `INS-260321-8D2B` Price AI products using three factors: value creation vs human cost, unit economics including hidden storage costs, and representative customer surveys.
+- `INS-260403-44E9` Build revenue projections from funnel conversion rates upward rather than starting from a target number and working backward.
+- `INS-260403-6740` A burn multiple around 1.5x signals strong capital efficiency; above 2.5x means growth needs scrutiny regardless of top-line momentum.
+- `INS-260403-1D7D` For early rounds, present a clean dashboard showing retention, expansion, and CAC efficiency instead of bloated financial projections.
+- `INS-260403-21DB` VCs expect LTV to be at least 3x CAC — below 1:1 signals pricing or retention needs immediate work.
+- `INS-260403-4E51` Showing CLTV/CAC ratio improvement over time is a stronger fundraising signal than a single favorable snapshot.
+- `INS-260405-3098` Series B pitches succeed by proving unit economics are scalable, not just by showing growth.
+- `INS-260405-7F03` Venture capital decisions are driven by quantitative metrics, not story quality.
 - `INS-260329-ACFF` Price either extremely high for a select few or extremely low for everyone — the middle kills businesses.
 - `INS-260405-0060` Usage-based revenue doesn't accrue at contract signing, so compensating reps on TCV or ACV creates a structural misalignment — reps win, but the company may not.
 - `INS-260410-0D14` Every new store had to clear a 2:1 sales-to-investment ratio and 20% operating margin — no exceptions, for decades.

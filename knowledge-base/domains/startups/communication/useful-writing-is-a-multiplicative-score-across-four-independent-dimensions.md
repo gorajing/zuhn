@@ -46,7 +46,6 @@ stance: >-
   novelty, and strength — weakness in any single dimension zeros out the whole
   piece regardless of the others.
 related:
-  - INS-260323-0780
   - INS-260323-C0BD
   - INS-260329-EC78
   - INS-260329-976E
@@ -56,6 +55,7 @@ related:
   - PRI-260406-69FC
   - INS-260329-33D4
   - INS-260404-CC79
+  - INS-260404-29EC
 evidence:
   - id: INS-260322-3537
     type: TRANSFERS_TO

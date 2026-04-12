@@ -52,7 +52,6 @@ stance: >-
   start
 related:
   - INS-260327-679A
-  - INS-260327-CA72
   - INS-260403-B1F2
   - INS-260403-5C89
   - INS-260403-0B99
@@ -61,6 +60,7 @@ related:
   - INS-260403-48FE
   - INS-260403-872C
   - INS-260404-A46A
+  - INS-260404-6DA9
 ---
 Graham catalogs several psychological techniques for pushing through the ugly early phase of ambitious work, and many converge on the same principle: lower the perceived stakes. Calling a painting 'just a sketch,' software 'just a hack,' or a project 'just an experiment' lets you judge initial results by a lower standard. Once the project gains momentum, you can quietly convert it into something more ambitious. This isn't self-deception — it's strategically managing the gap between your standards and your current output.
 

@@ -54,10 +54,10 @@ stance: >-
   supercritical point.
 related:
   - INS-260330-D795
+  - INS-260412-B26A
   - INS-260330-B6DE
   - INS-260330-2DF9
   - INS-260330-43D3
-  - INS-260330-9BB5
 evidence:
   - id: INS-260403-227B
     type: TRANSFERS_TO

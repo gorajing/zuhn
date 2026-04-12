@@ -48,5 +48,6 @@ related:
   - INS-260323-085A
   - INS-260323-3F30
   - INS-260325-CC49
+  - INS-260412-CC9E
 ---
 General relativity is a set of equations with many possible solutions, but not all mathematics describes reality. Wormholes are permitted by the math of GR, yet no evidence confirms they exist. This pattern recurs across fields: financial models can produce internally consistent projections that never materialize, AI architectures can be theoretically optimal yet practically untrainable. The gap between 'the math works' and 'the thing exists' is where most overconfident predictions live. Rigorous thinkers treat mathematical validity as one filter among many — necessary for plausibility, but never sufficient for belief.

@@ -51,7 +51,6 @@ stance: >-
   Logging confidence levels at the point of commitment exposes that subjective
   certainty has weak predictive power over outcomes
 related:
-  - INS-260403-7EA1
   - PRI-260406-A4AA
   - PRI-260406-4C28
   - INS-260411-7232

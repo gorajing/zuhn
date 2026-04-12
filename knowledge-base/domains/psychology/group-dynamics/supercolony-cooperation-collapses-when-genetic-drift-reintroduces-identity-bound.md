@@ -54,9 +54,11 @@ related:
   - INS-260330-F056
   - INS-260412-E2A2
   - INS-260412-FE0A
+  - INS-260412-5568
   - INS-260412-6B75
-  - INS-260412-8361
+  - INS-260412-4D8F
   - INS-260412-C3E6
+  - INS-260412-FAA0
 ---
 In their native range, Argentine ant colonies constantly diverge through mutation and begin treating former siblings as enemies. Even the global supercolony is fragmenting — the Lake Hodges and Very Large Colony factions wage a war killing 30 million ants annually along a kilometers-long front in San Diego.
 

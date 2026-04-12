@@ -47,10 +47,10 @@ stance: >-
   means they should be treated as legacy code to debug rather than as signals
   about present reality.
 related:
+  - INS-260412-DABC
   - INS-260322-D0F6
   - INS-260327-1845
   - INS-260327-CA72
   - PRI-260405-9D7B
-  - INS-260330-23CD
 ---
 Hughes's claim that 'fear is an illusion' is too strong. A better version: most chronic fears that dominate modern psychological life — social rejection, falling behind, not being enough, losing status — are evolved heuristics calibrated to small-group survival and now firing in contexts they were never designed for. The useful consequence is practical: when a fear activates, the first question is not 'what should I do about this threat' but 'is this responding to the actual environment or to an ancestral one.' Most of the time it is the latter, and the appropriate response is to observe the heuristic, not obey it.

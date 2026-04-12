@@ -1,6 +1,6 @@
 # Domain: investing
 
-> 1222 insights across 12 topics
+> 1225 insights across 12 topics
 
 ## Topics
 
@@ -15,6 +15,6 @@
 | fintech | 100 | Every $250/month saved consistently compounds to roughly $1M by retirement, making micro-savings feel consequential. |
 | geopolitics | 536 | A 5% one-time levy on a 7% per year portfolio is recovered in about 9 months of normal returns, smaller than typical market volatility. |
 | macro | 28 | Batteries substitute for the grid by arbitraging across time instead of space, and since batteries are deployed behind-the-meter without grid operator consent, grid utilization is structurally declining while operating costs rise. |
-| macro-trends | 20 | The Internet was commercialized in the early 1990s but only showed in productivity statistics in the late 1990s; at current debt accumulation of $7.2B/day, even an AI productivity miracle won't bend the ratio fast enough to displace financial repression. |
-| space-economy | 36 | Detecting an alien signal would statistically prove that technological civilizations can have long futures, because the math of detection requires that such technologies are long-lived on cosmic timescales. |
+| macro-trends | 22 | The Internet was commercialized in the early 1990s but only showed in productivity statistics in the late 1990s; at current debt accumulation of $7.2B/day, even an AI productivity miracle won't bend the ratio fast enough to displace financial repression. |
+| space-economy | 37 | Detecting an alien signal would statistically prove that technological civilizations can have long futures, because the math of detection requires that such technologies are long-lived on cosmic timescales. |
 | venture-capital | 302 | Declining VC distributions through 2024 are fundamentally altering the LP-GP relationship and fund economics. |

@@ -1,6 +1,6 @@
 # Topic: biotechnology
 
-> 15 insights
+> 16 insights
 
 - `INS-260405-0AE7` [high] IsoDDE moves beyond AlphaFold's static structure prediction to simulate molecular motion, unlocking binding sites on proteins previously labeled 'undruggable.'
 - `INS-260410-55B5` [high] Physical DNA/protein libraries of 10^17 variants barcoded and screened in an afternoon constitute a 100% precise 'natural computer' that bypasses the assumption stack that AlphaFold-style simulations depend on.
@@ -10,6 +10,7 @@
 - `INS-260410-9D16` [high] TFs are queries, their binding motifs are keys, downstream genes are values — and like attention, small edits to the embedding vector produce dramatically different outputs, which is why Yamanaka flipped adult cells to stem cells using just four TFs out of 20,000 genes.
 - `INS-260409-9EB7` [medium] A living pharmacy produces the drug inside the body only when it is needed, rather than dosing it from outside.
 - `INS-260409-2663` [medium] Personalization requires sense-and-respond control over dose, not just a patient-specific molecule.
+- `INS-260412-0B6B` [medium] Phages have co-evolved with bacteria for billions of years, making them self-updating weapons that continuously improve — unlike static antibiotics.
 - `INS-260412-8361` [medium] Giant viruses may be one of evolution's primary mechanisms for transferring genetic innovations between unrelated organisms.
 - `INS-260409-BDAC` [medium] Ovarian cancer is a fit-first indication: invasive implantation is already acceptable and local delivery has clear advantages over systemic.
 - `INS-260409-CFD0` [medium] Patient-derived iPSC organoids let you run a personalized phase-1 trial in a dish before taking the drug yourself.

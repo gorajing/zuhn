@@ -16,6 +16,7 @@
 - `INS-260330-C825` Profitable divisions (like AWS) can fund indefinite losses in new markets (like groceries), making it impossible for single-industry competitors to survive on margins alone.
 - `INS-260330-923F` A crowded market is a positive signal — it proves demand exists and no solution is good enough — while competitor-free markets are a red flag.
 - `INS-260403-CEBA` Technology leads are temporary; customer understanding compounds into durable competitive advantage.
+- `INS-260412-FAA0` Ant species that survive army ant attacks evolved specialized defenders (square-headed blockers, massive soldiers) long before any specific attack.
 - `INS-260403-9A5D` Peter Thiel's principle that advantages must be defensible means VCs discount any competitive edge that competitors can replicate within 12-18 months.
 - `INS-260330-9197` Use difficulty as a strategic compass: at every fork, take the harder path because it compounds into an insurmountable lead over larger competitors.
 - `INS-260403-16A7` You cannot create strategic dependency on an actor who has explicitly committed to eliminating that dependency.

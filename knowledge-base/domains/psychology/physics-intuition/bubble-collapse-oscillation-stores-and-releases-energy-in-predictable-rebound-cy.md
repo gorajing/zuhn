@@ -49,7 +49,6 @@ stance: >-
   Rayleigh-Plesset equation
 related:
   - INS-260327-8773
-  - INS-260330-5D8A
   - INS-260330-1953
   - INS-260330-8BB4
   - INS-260330-A7C6

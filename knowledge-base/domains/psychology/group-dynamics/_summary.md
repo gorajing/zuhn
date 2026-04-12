@@ -1,6 +1,6 @@
 # Topic: group-dynamics
 
-> 108 insights
+> 109 insights
 
 - `INS-260330-2EB0` [high] The Pueblo Revolt shows that a shared existential threat can override deep tribal divisions — but the unity is temporary.
 - `INS-260403-D609` [high] Enforcers of orthodoxy compete with each other, creating a race to the bottom where any borderline idea gets banned.
@@ -15,6 +15,7 @@
 - `INS-260404-BAED` [high] The spam problem is fundamentally a collective action failure where the rational majority cannot stop the exploitable minority from sustaining the attacker's business model.
 - `INS-260330-4B55` [high] Harvard Business School's largest cohorts systematically catch the last wave — junk bonds in 1989, dotcom in 1999, housing in 2005-2007 — because competition feels like validation rather than a warning signal.
 - `INS-260403-8B13` [high] Conformism varies on two orthogonal axes — conventional/independent and passive/aggressive — creating four stable personality types observable from childhood.
+- `INS-260412-1773` [high] Leafcutter ants respond to army ant attacks with instant role-based mobilization — soldiers to frontline, workers to barricades, small teams to flanking — all without central coordination.
 - `INS-260330-0FF7` [high] China's One Child Policy created a surplus of 35 million men, making property ownership a prerequisite for marriage and turning housing into inelastic social demand.
 - `INS-260330-6AC1` [high] Developer pecking orders reward complexity theater over actual delivery.
 - `INS-260403-3CFB` [high] The neocortex constrains stable social relationships to ~150-230 people, a biological limit unaffected by social media scale.

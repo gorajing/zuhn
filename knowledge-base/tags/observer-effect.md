@@ -5,3 +5,4 @@
 - `INS-260327-B64B` You cannot know yourself fully because the act of knowing yourself changes what there is to know - self-knowledge has a built-in uncertainty principle.
 - `INS-260412-C37A` The Heisenberg uncertainty principle shows that seeing is touching — observing particles with enough energy to detect them inevitably alters them, establishing a hard limit on simultaneous knowledge.
 - `INS-260330-28BE` The cosmological principle shows that every point in the expanding universe appears to be the center of expansion — the 'center' is an artifact of the observer's frame of reference, not a real property of the system.
+- `INS-260412-2EF8` An outside observer sees someone falling into a black hole freeze and fade away, while the falling person sees the universe fast-forward — same event, completely different realities.

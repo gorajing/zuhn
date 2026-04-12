@@ -1,7 +1,9 @@
 # Tag: virality
 
 - `INS-260321-AACC` MrBeast spent a decade obsessing over one question: what makes content enjoyable for anyone regardless of geography? The answer is universal human experiences.
+- `INS-260412-C97E` Emotionally satisfying unfalsifiable narratives outcompete empirically grounded ones in memetic spread.
 - `INS-260405-FD9D` SaaS is speedrunning itself — viral today, vanished tomorrow — making defensibility more urgent than ever.
+- `INS-260412-3603` An 8-minute video conveying a complete philosophical worldview demonstrates that conceptual density, not runtime, drives content resonance.
 - `INS-260402-C49E` Graham quantifies from running a forum that users were about 3x more likely to upvote content that outraged them, suggesting outrage amplification is structural to engagement-sorted platforms.
 - `INS-260403-B18C` Exponential growth comes from stacking multiple self-reinforcing growth loops, not optimizing individual acquisition channels.
 - `INS-260404-899D` Prioritize owned channels like virality and UGC over rented channels like paid social, because competitors can always outbid you on rented platforms.

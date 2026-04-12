@@ -57,7 +57,6 @@ related:
   - INS-260405-5649
   - PRI-260411-FB73
   - INS-260330-E282
-  - INS-260412-8361
   - INS-260412-3C98
 ---
 The virus analogy is provocatively counterintuitive: a brainless organism consistently outperforms the world's smartest scientists by mutating rapidly and letting selection do the work. Applied to startups, this means the founder's primary competitive advantage isn't intelligence or strategy — it's iteration velocity. Paul Graham reinforces this by noting that even experienced founders are terrible at judging which ideas will work, so the optimal strategy is trying lots of different things quickly.

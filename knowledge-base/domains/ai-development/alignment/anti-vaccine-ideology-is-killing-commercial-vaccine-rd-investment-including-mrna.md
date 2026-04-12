@@ -58,7 +58,6 @@ stance: >-
   entire mRNA therapeutic pipeline including cancer treatments
 related:
   - INS-260322-E7E9
-  - INS-260402-0A49
   - INS-260322-3A00
   - INS-260404-17DD
   - INS-260330-8998

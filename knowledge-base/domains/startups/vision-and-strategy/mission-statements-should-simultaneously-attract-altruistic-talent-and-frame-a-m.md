@@ -65,7 +65,6 @@ stance: >-
   sound altruistic enough to recruit mission-driven talent, and contain an
   implicit theory of how to extract economic value.
 related:
-  - INS-260323-CD28
   - INS-260327-D76A
   - INS-260327-BA97
   - INS-260327-57CE
@@ -75,6 +74,7 @@ related:
   - INS-260403-68C8
   - INS-260403-E1CE
   - INS-260330-007E
+  - INS-260410-0120
 ---
 Google's mission statement, written in 1999 for their first press release after the Series A, has survived unchanged for a quarter century while the company expanded from search to ads, mail, maps, Android, YouTube, cloud, and AI. It satisfies three criteria that most mission statements miss.
 

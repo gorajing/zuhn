@@ -46,10 +46,10 @@ stance: >-
   outcompete individually superior but smaller rivals
 related:
   - INS-260412-D8ED
+  - INS-260412-5568
   - INS-260412-6B75
   - INS-260412-E2A2
-  - INS-260412-C921
-  - INS-260330-C418
+  - INS-260412-1773
   - INS-260412-C3E6
 ---
 Argentine ants are 2-3mm with weak mandibles — individually unremarkable compared to fire ants or carpenter ants. Yet they built the largest society on Earth by going all-in on reproduction (one queen per 120 workers, 60 eggs/day) and cooperation across colonies.

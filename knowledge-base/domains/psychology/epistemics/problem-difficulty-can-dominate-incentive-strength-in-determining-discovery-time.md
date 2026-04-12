@@ -67,6 +67,7 @@ related:
   - INS-260325-898A
   - INS-260327-E7A3
   - INS-260410-988F
+  - INS-260412-0C54
 ---
 Harper pushes back on the implicit assumption that if a discovery would have been enormously valuable, someone motivated would have found it. Vaccination is the single most important public health intervention in history, yet humanity spent thousands of years with smallpox killing ten to twenty percent of children before Jenner figured it out — and another sixty to seventy years before Pasteur generalized the approach. Scurvy was solved, lost, and rediscovered because without a mechanistic theory of vitamin C, the empirical signal was noisy: limes worked, lemons worked worse, different fruits behaved differently.
 

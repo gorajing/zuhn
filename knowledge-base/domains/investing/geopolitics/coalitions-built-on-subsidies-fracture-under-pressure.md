@@ -48,10 +48,10 @@ stance: >-
   participate in the fight.
 related:
   - PRI-260406-541E
+  - INS-260412-EE18
   - INS-260403-E8DD
   - PRI-260328-FA83
   - INS-260326-2259
-  - PRI-260328-7F20
   - INS-260403-EB0B
 evidence:
   - id: INS-260323-7866

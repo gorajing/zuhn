@@ -44,10 +44,10 @@ resolutions:
     magnitude that exceeds human intuition.
 related:
   - INS-260404-59D1
+  - INS-260412-3603
   - PRI-260323-DAB9
   - INS-260412-644F
   - INS-260330-649B
-  - INS-260410-4782
   - INS-260409-D170
 stance: Smifter's video uses a ladder of progressively larger scale comparisons
 evidence:

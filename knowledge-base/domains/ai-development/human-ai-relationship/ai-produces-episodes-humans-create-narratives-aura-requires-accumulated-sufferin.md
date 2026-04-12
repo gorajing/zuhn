@@ -57,6 +57,7 @@ related:
   - PRI-260322-94C4
   - PRI-260323-0942
   - PRI-260405-9D7B
+  - INS-260412-C97E
 stance: >-
   AI outputs are 'episodes' (trendy, replaceable, no pain) while human creative
   work builds 'narratives' (time-intensive, suffering-accumulated)

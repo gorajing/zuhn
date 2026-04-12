@@ -1,6 +1,6 @@
 # Topic: strategy
 
-> 260 insights
+> 263 insights
 
 - `INS-260330-98EA` [high] The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples.
 - `INS-260403-0530` [high] New York struggles as a startup hub because founders there are second-class citizens in a status hierarchy that most admires financial wealth.
@@ -81,6 +81,7 @@
 - `INS-260405-0806` [high] RuBisCo makes errors ~50% of the time yet dominates because plants produce 40 billion tons of it — volume compensated for quality and the strategy locked in permanently.
 - `INS-260323-BEE6` [high] GSP uses his jab to plant a seed of pain in the opponent's memory, creating a flinch response that opens the path for a completely different attack (the takedown).
 - `INS-260328-4BF3` [high] Getting angry about hype cycles is like getting angry about the weather — they always exist, so develop the skill of neutral observation instead.
+- `INS-260412-A38B` [high] Phages kill bacteria by being absurdly specialized against one species, while antibiotics carpet-bomb everything — specialization wins when precision matters.
 - `INS-260403-B133` [high] The executives who rose to the top by making the right choices for the old business are wired to make the wrong choices for the new one.
 - `INS-260323-2DB0` [high] Asbestos companies funded Saranac Labs research with a clause giving them editorial control, then buried findings that showed cancer links.
 - `INS-260330-84BD` [high] The collapse of North Korea's Public Distribution System forced the emergence of illegal private markets that now sustain the majority of the population.
@@ -227,6 +228,7 @@
 - `INS-260330-9DCD` [medium] Government monopoly on land rezoning functions as an uncapped, unaccountable tax on housing demand.
 - `INS-260403-5DF2` [medium] Using AWS credits year one, shifting to GCP year two, and testing Scaleway GPU pricing creates years of subsidized infrastructure through provider arbitrage.
 - `INS-260405-225B` [medium] SF will remain viable but become 'establishment' — the new innovation clusters will be distributed, crypto-friendly, and globally distributed rather than concentrated in a single American city.
+- `INS-260412-4162` [medium] In resistant markets, disruptive entrants oscillate between expansion and recompression before either finding equilibrium or being absorbed.
 - `INS-260412-A4DB` [medium] Quantum computers will likely start as specialized tools for cryptography, simulation, and search before potentially becoming general-purpose.
 - `INS-260404-C13E` [medium] Costco pays double the retail average but gets triple the productivity — high wages are an investment with measurable ROI.
 - `INS-260330-440E` [medium] The Indus Valley shows almost no evidence of warfare or military infrastructure, and its collapse coincided with the arrival of more warlike peoples.
@@ -254,6 +256,7 @@
 - `INS-260323-4457` [medium] A product that takes months to reach a testable state is burning the founder's most scarce resource — time to learn whether the idea even matters — on engineering before validation.
 - `INS-260323-8B90` [medium] Destiny identifies a recurring pattern in conservative argumentation: every proposed incremental fix gets redirected to a root cause (like two-parent households) that neither side can directly engineer, creating a policy paralysis loop.
 - `INS-260403-6E76` [medium] The erosion of gatekeepers is pulling ambitious people away from test-hacking careers toward fields where genuine quality wins.
+- `INS-260412-4716` [medium] Startups face discrete 'great filters' at each stage — finding PMF, scaling, and sustaining — where most die, mirroring the Fermi Paradox's civilizational filters.
 - `INS-260410-FB7E` [medium] The transitions that happened only once in trillions of attempts—eukaryogenesis, for instance—define the game because no alternative ever emerged, and that singularity is where durable advantage lives.
 - `INS-260404-0A17` [medium] Business model innovation exists on a continuum from incremental improvement to radical invention, not as a binary choice.
 - `INS-260323-224F` [medium] The Large Hadron Collider discovered the Higgs boson (confirming a 50-year-old prediction) but failed to find supersymmetry, becoming a cautionary tale about building a machine optimized for the expected rather than the unknown.

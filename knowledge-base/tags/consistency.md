@@ -11,8 +11,8 @@
 - `INS-260327-BE49` The more boring you are - consistent routines, repeated practice, unglamorous persistence - the more impressive you become over time.
 - `INS-260329-D9A4` Redefine success as daily activity completion rather than revenue or follower milestones to break the feast-famine cycle.
 - `INS-260409-74B9` 'Never miss a dinner' is a higher-fidelity legacy signal than any single achievement, because it survives statistical averaging.
-- `INS-260403-E63B` Lenny had no plan for the newsletter but weekly consistency for 18 months made the path obvious.
 - `INS-260329-93AE` Stop treating goal-setting as a strategy — focus instead on committing to the daily activities that produce goals, since everyone already shares the same goals.
+- `INS-260403-E63B` Lenny had no plan for the newsletter but weekly consistency for 18 months made the path obvious.
 - `INS-260324-358F` Diners have survived unchanged since the 1940s because their customers don't want artisan bread and organic eggs — they want processed cheese, fake butter, and frozen hash browns served consistently at any hour.
 - `INS-260329-127F` Multi-year daily content output is the only reliable audience-building strategy; most people quit too early.
 - `INS-260409-B213` The right cadence is the one you'll still hit in year three — optimize for survival, not intensity.

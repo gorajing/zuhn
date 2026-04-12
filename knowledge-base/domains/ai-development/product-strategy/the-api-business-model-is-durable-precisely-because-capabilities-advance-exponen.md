@@ -72,7 +72,7 @@ related:
   - INS-260405-474C
   - PRI-260328-A82C
   - INS-260403-976C
-  - INS-260403-4803
+  - INS-260412-0404
   - INS-260410-8F36
 ---
 Amodei argues the API model is more durable than people think, and the reason is counterintuitive: it's durable *because* the underlying technology is moving fast, not despite it. Any given packaged product — a chatbot, an IDE plugin, a specific agentic workflow — makes sense only for a particular band of model capability. The chatbot surface is already hitting limits where smarter models don't meaningfully improve the average consumer experience. That's not a sign that models are 'good enough'; it's a sign that product surface has saturated relative to its target use case. Meanwhile, every three months a new frontier of use cases becomes feasible that nobody built for before.

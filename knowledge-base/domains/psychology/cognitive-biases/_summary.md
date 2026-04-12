@@ -1,6 +1,6 @@
 # Topic: cognitive-biases
 
-> 322 insights
+> 323 insights
 
 - `INS-260326-163A` [very_high] Data quality dominates ML architecture just as install base and data gravity beat product design elegance in business -- what you've accumulated is the moat, not how you've arranged it.
 - `INS-260326-CA66` [very_high] Insulin resistance manifests as heart disease, diabetes, obesity, and dementia -- just as a misidentified business model manifests as churn, pricing problems, and sales failures.
@@ -30,6 +30,7 @@
 - `INS-260329-BEFB` [high] Being broke biases people toward gambling mentality — chasing unlikely big wins instead of reliable small gains that compound.
 - `INS-260330-184C` [high] Exhaustive testing of a finite subset cannot prove universal claims over infinite domains, as counterexamples can hide astronomically far away.
 - `INS-260402-A558` [high] Childhood reassurance about alarming realities creates adults who are trained to ignore those same problems, enabling bad conditions to persist.
+- `INS-260412-DDEF` [high] Our catastrophic intuitions ignore the dampening properties of the systems we're reasoning about.
 - `INS-260403-D463` [high] How someone behaves when only self-enforcement exists reveals far more about their character than behavior under external enforcement.
 - `INS-260403-34C0` [high] Schools optimize for intelligence because it's measurable, creating a lifelong illusion that intelligence is the destination rather than a means to an end.
 - `INS-260412-5F4D` [high] Chronic loneliness makes your brain pay more attention to social cues but interpret them less accurately, biasing toward hostility.

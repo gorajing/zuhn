@@ -1,6 +1,6 @@
 # Topic: mental-models
 
-> 106 insights
+> 107 insights
 
 - `INS-260409-3138` [high] Computers are fully explainable bottom-up from electricity through logic gates to instructions — there is no magical layer, only layers of abstraction humans haven't personally traversed.
 - `INS-260330-420B` [high] Three competing theories for the Indus Valley's decline each tell a confident story from the same absence of evidence, revealing how humans handle epistemic gaps.
@@ -84,6 +84,7 @@
 - `INS-260409-D6A8` [medium] Goals entangled with emotional state are produced as byproducts of internal conditions, not by direct pursuit — optimize for state, not outcome.
 - `INS-260410-E6BF` [medium] Harper's counterfactual: absent the Justinianic plague and volcanic cold snap, Justinian's Rome was on a trajectory to reconsolidate a pan-Mediterranean empire.
 - `INS-260405-5670` [medium] Moon's 2.3-second round-trip latency allows synchronous coordination with Earth; Mars's 10-30 minute latency forces asynchronous civilization — and asynchronous civilizations can declare independence.
+- `INS-260412-17AF` [medium] Scenario-based thinking outperforms point forecasts when core variables are deeply uncertain.
 - `INS-260330-972B` [medium] The thylakoid membrane stores energy by pumping protons to create a concentration differential — the same pattern underlies arbitrage, expertise moats, and information advantages.
 - `INS-260330-CA88` [medium] Confucius's Five Key Relationships defined mutual obligations at every level of society, creating a stable coordination framework that lasted millennia.
 - `INS-260403-8DCA` [medium] Both sides of many social debates can credibly claim to defend 'rights,' making rights-based framing insufficient for strategic decision-making.

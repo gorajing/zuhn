@@ -1,6 +1,6 @@
 # Topic: resilience
 
-> 176 insights
+> 178 insights
 
 - `INS-260325-DF82` [very_high] Events are not traumatic — they are potentially traumatic — because the same event produces resilience in most people and lasting harm in a minority, meaning trauma is in the response, not the event.
 - `INS-260327-48BA` [high] Most suffering about change comes from resisting it rather than from the change itself - accepting impermanence eliminates the anxiety of trying to freeze what cannot be frozen.
@@ -132,6 +132,7 @@
 - `INS-260329-93AE` [high] Stop treating goal-setting as a strategy — focus instead on committing to the daily activities that produce goals, since everyone already shares the same goals.
 - `INS-260329-D3F6` [medium] Stop-doing lists require less activation energy than start-doing lists, making them more effective for rapid change.
 - `INS-260327-015B` [medium] Rosolie faces genuine mortal danger regularly from poachers, animals, and the jungle itself - and reports a depth of meaning that safe career optimization cannot provide.
+- `INS-260412-DABC` [medium] The impossibility of permanent failure in a finite existence removes the rational basis for paralyzing fear.
 - `INS-260327-37C8` [medium] Thompson's self-destruction wasn't separate from his creativity - it was the cost of trying to maintain authenticity while the world demanded he become a product.
 - `INS-260329-F04B` [medium] Expanding the time between effort and reward is a trainable cognitive skill that correlates with intelligence and long-term success.
 - `INS-260330-FE21` [medium] Deliberately recalling painful memories while maintaining witness awareness trains the skill of experiencing without identifying.
@@ -161,6 +162,7 @@
 - `INS-260329-A9B7` [medium] When you feel hopeless, interpret it as 'I don't know enough yet' rather than 'my situation is impossible' — ignorance is solvable, fate is not.
 - `INS-260403-7A1D` [medium] Herjavec's framing — 'the pain of being poor was greater than the pain of failure' — turns entrepreneurship into a rational pain comparison rather than blind optimism.
 - `INS-260329-C089` [medium] Interpreting hopelessness as 'I don't know enough yet' rather than 'I can't' converts despair into a solvable problem.
+- `INS-260412-3140` [medium] Framing hardship as developmental rather than random gives people a psychologically stable relationship with suffering.
 - `INS-260330-2D6D` [medium] Nakamura explicitly credited being shunned by PhD colleagues as the source of his 'fighting spirit' that sustained years of grueling daily work.
 - `INS-260329-541A` [medium] Sadness is a knowledge deficit (no perceived options); anxiety is a prioritization deficit (too many options).
 - `INS-260329-5412` [medium] Sadness and anxiety are distinct emotional states with opposite causes and opposite solutions — knowledge for sadness, decision for anxiety.

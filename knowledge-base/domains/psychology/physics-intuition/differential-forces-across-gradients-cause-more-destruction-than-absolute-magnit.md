@@ -57,6 +57,7 @@ related:
   - INS-260412-5E11
   - INS-260412-2316
   - INS-260323-849E
+  - INS-260412-2EF8
 ---
 Spaghettification occurs because gravity near a singularity varies enormously over short distances. Parts of your body closer to the singularity experience dramatically stronger pull than parts farther away. This differential — not the absolute force — is what stretches and destroys matter.
 

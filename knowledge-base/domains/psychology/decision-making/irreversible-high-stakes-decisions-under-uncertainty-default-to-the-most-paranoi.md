@@ -50,8 +50,8 @@ stance: >-
 related:
   - INS-260329-BFBF
   - INS-260329-8B1C
+  - INS-260412-7512
   - INS-260403-E554
   - INS-260330-3899
-  - PRI-260324-F9CD
 ---
 The Dark Forest hypothesis illustrates a general principle: when you face an irreversible outcome (extinction), cannot verify the other party's true intentions, and communication delay prevents real-time negotiation, rational actors default to worst-case assumptions regardless of the actual probability of hostility. This maps directly to high-stakes business and personal decisions — when the downside is catastrophic and you have no reliable signal about the counterparty's intentions, the expected-value calculus shifts toward paranoid caution even if most scenarios are benign. The key variable is not probability of threat but irreversibility of outcome. This is why nuclear deterrence doctrine, certain legal frameworks, and startup competitive strategy all exhibit similar 'assume the worst' patterns when stakes are existential and information is asymmetric.

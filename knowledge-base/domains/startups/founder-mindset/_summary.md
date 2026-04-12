@@ -1,6 +1,6 @@
 # Topic: founder-mindset
 
-> 332 insights
+> 333 insights
 
 - `INS-260320-F751` [very_high] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
 - `INS-260322-E791` [high] During a crisis, the false but simple narrative ('Robinhood colluded with hedge funds') will always defeat the true but complex explanation (clearing mechanics, Dodd-Frank, collateral requirements).
@@ -301,6 +301,7 @@
 - `INS-260403-F7F4` [medium] Practice optimism during good times so it's accessible as a trained response when everything goes wrong.
 - `INS-260403-A485` [medium] Making bullshit-minimization an explicit priority when choosing employers or customers yields outsized quality-of-life gains.
 - `INS-260329-8B33` [medium] Taking six months to find a business you can acquire for free beats immediately starting one that costs your life savings.
+- `INS-260412-9719` [medium] If the universe has no scoreboard, you get to design your own — and founders who do this explicitly build more resilient companies.
 - `INS-260323-B374` [medium] High-turnaround physical activities like jiu-jitsu and surfing teach leaders the crucial lesson that some things cannot be forced, a lesson business cycle times are too long to teach.
 - `INS-260325-3B2A` [medium] Getting on the plane to meet someone in person, even for 15 minutes, creates a signal of commitment that consistently beats remote communication in closing deals.
 - `INS-260323-0277` [medium] Raibert deliberately made the top and bottom ideas on his project list boring and put 'pogo stick robot' in the middle — letting Ivan Sutherland naturally select the exciting one, which led to the first $3,000 of funding.

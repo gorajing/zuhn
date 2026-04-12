@@ -68,6 +68,7 @@ related:
   - INS-260327-C7BF
   - INS-260410-BD56
   - INS-260327-23FA
+  - INS-260412-CDDD
 ---
 Paine identifies a recurring American mistake: assuming warring parties can be brought to cooperate through coalition structures. Marshall spent 1946 pressuring Chiang Kai-shek to halt his advance and negotiate with the Communists — a delay that some historians argue cost the Nationalists the civil war by giving Mao breathing room. The same pattern repeated with Pakistan-India, with Iraqi factions post-invasion, and with every attempt to build power-sharing democracies among groups that want each other dead.
 

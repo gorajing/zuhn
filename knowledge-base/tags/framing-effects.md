@@ -8,6 +8,7 @@
 - `INS-260404-5AEB` Ask what you'd pay for something if you found it dirty and anonymous at a garage sale to reveal your real opinion of it.
 - `INS-260403-CF54` The pie fallacy — treating wealth as fixed-sum — dominates inequality discourse because it matches childhood experience but not adult economic reality.
 - `INS-260409-A0D7` 'UFO' bakes in 'flying object'; UAP opens the door back up to atmospheric optics and instrument artifacts.
+- `INS-260412-7512` Framing stakes as irreversible losses (life gone forever) drives urgency better than framing them as missed opportunities.
 - `INS-260325-5977` Media describes being alone as negative 10x more than positive — people who internalize this framing feel lonelier when alone, while those with positive beliefs about solitude actually benefit from it.
 - `INS-260330-EDF4` Our definition of 'civilization' privileges traits like writing and monuments, causing us to undervalue the Indus Valley's achievements in sanitation and urban planning.
 - `INS-260403-524B` Costco's confusing warehouse layout makes shoppers feel like deal-hunters rather than annoyed customers, turning a cost-saving measure into a positive brand experience.

@@ -59,5 +59,6 @@ related:
   - INS-260403-7E6A
   - INS-260323-38EC
   - INS-260404-AD45
+  - INS-260412-DABC
 ---
 The video notes it 'only takes a small group of people with power to go crazy or rogue, a small misstep or a simple misunderstanding' to trigger catastrophe. This frames nuclear governance as a system requiring a zero-defect rate sustained indefinitely — a requirement no human system has ever met. Every year of successful deterrence makes the system appear safer while the cumulative probability of failure monotonically increases. This is a specific application of the principle that any system requiring perpetual perfection from human operators will eventually fail. The insight connects to broader existential risk thinking: when the consequences of a single failure are civilization-ending, even vanishingly small per-year failure probabilities compound to near-certainty over decades. This mathematical reality is obscured by survivorship bias — we observe only the timeline where deterrence hasn't failed yet, and mistake that observation for evidence that the system works reliably.

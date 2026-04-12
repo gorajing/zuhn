@@ -9,6 +9,7 @@
 - `INS-260327-58ED` The people-pleaser isn't selfless - they're controlling the emotional environment to avoid the discomfort of others' displeasure, which is actually a self-serving strategy.
 - `INS-260330-2C4D` People feel anxious in extreme silence because reverb normally signals spatial safety — its absence triggers an expectation violation that the brain interprets as claustrophobia.
 - `INS-260327-48BA` Most suffering about change comes from resisting it rather than from the change itself - accepting impermanence eliminates the anxiety of trying to freeze what cannot be frozen.
+- `INS-260412-DABC` The impossibility of permanent failure in a finite existence removes the rational basis for paralyzing fear.
 - `INS-260403-C55F` When people sever their connection to bodily experience, unfamiliar physical sensations start triggering anxiety because they've lost the calibration to interpret them.
 - `INS-260325-0E1D` Kierkegaard: anxiety is the dizziness of freedom — it signals authentic choice and numbing it eliminates the compass for meaningful action.
 - `INS-260330-207D` Career anxiety is best addressed by channeling it into dedicated pursuit of your passion rather than retreating to safer options.

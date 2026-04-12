@@ -56,6 +56,7 @@ related:
   - INS-260403-59AC
   - INS-260323-DE7F
   - INS-260323-0897
+  - INS-260412-73A8
 ---
 Western scrub jays demonstrate theory of mind by re-hiding food when they notice another bird watching — they model the thief's awareness and act on that model. This capacity to simulate another's perspective is what makes empathy, deception, cooperation, and complex social structures possible.
 

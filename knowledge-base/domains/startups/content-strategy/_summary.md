@@ -1,6 +1,6 @@
 # Topic: content-strategy
 
-> 70 insights
+> 71 insights
 
 - `INS-260330-B885` [high] Rogan gained 2 million subscribers during his cancellation attempt because the coordinated media attack inadvertently proved his independence from institutional control.
 - `INS-260405-3F0F` [high] Google ranks pages; AI cites statements — this single difference demands a claim-first approach to content structure.
@@ -23,6 +23,7 @@
 - `INS-260402-C1A9` [high] HubSpot lost millions of visits and Chegg's stock tanked because AI can now answer the same generic questions their content targeted.
 - `INS-260403-8ABF` [high] Stebbings spent two years interviewing only seed investors in San Francisco, and argues that narrowing until it hurts is exactly what creates clear guest profiles, obvious sponsorship models, and a thousand true fans who actually convert.
 - `INS-260403-D20A` [high] List formats reduce reader risk by making content parallel, random-access, and fault-tolerant — like watertight compartments.
+- `INS-260412-3603` [high] An 8-minute video conveying a complete philosophical worldview demonstrates that conceptual density, not runtime, drives content resonance.
 - `INS-260329-DC86` [high] Imperfect ratings with high volume signal authenticity and outperform perfect scores with low volume in building trust.
 - `INS-260403-7878` [high] Readers trust bloggers more than mainstream media because online writing lacks the invisible fingerprints of PR firms shaping editorial content.
 - `INS-260403-6BF7` [high] Developer influencers who master visibility often outperform technically superior peers in career outcomes.

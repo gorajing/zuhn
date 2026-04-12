@@ -1,9 +1,10 @@
 # Topic: macro-trends
 
-> 20 insights
+> 22 insights
 
 - `INS-260412-79D5` [high] Public-key encryption's security relies on computational difficulty that quantum computers eliminate, creating a binary safe/broken threshold.
 - `INS-260409-F485` [high] Napier's emerging-market heuristic: avoid countries where trading rights are not guaranteed, constitutions are weak, or exchange rates are overvalued — operationalized as 'don't invest where you wouldn't live after retirement.'
+- `INS-260412-762C` [high] Entropy dictates that all structures — physical, economic, organizational — decay without continuous energy input.
 - `INS-260412-4E72` [high] Heavy elements forged in neutron star collisions billions of years ago became the raw materials for Earth's geology, biology, and modern technology.
 - `INS-260410-F41F` [high] The 2009 HITECH Act's $36B in 'meaningful use' incentives drove EMR adoption from 9% to 95% of hospitals in five years—which sounds like a tailwind, but the deeper effect was closing the door on any future innovative competitor by compressing decades of buying decisions into one window.
 - `INS-260409-1390` [medium] The Internet was commercialized in the early 1990s but only showed in productivity statistics in the late 1990s; at current debt accumulation of $7.2B/day, even an AI productivity miracle won't bend the ratio fast enough to displace financial repression.
@@ -14,6 +15,7 @@
 - `INS-260409-C911` [medium] Of the five ways to deal with unservicable debt — grow, inflate, default, restructure, repress — only financial repression is politically viable at current levels, and Napier argues this regime is now starting and will run ~15 years.
 - `INS-260409-232E` [medium] Napier's structural case for gold: in a world that restricts cross-border capital movement, gold physically moves in ways regulated financial assets cannot, and 80% of gold's returns historically correlate inversely with real rates — which repression explicitly forces negative.
 - `INS-260412-F121` [medium] Dark energy permanently separates gravitationally unbound galaxy groups, making the Local Group humanity's absolute ceiling regardless of technology.
+- `INS-260412-B26A` [medium] Black holes lose mass through Hawking radiation — virtual particle pairs at the event horizon boundary where one escapes — proving even the most powerful gravitational structures eventually evaporate.
 - `INS-260409-8B3D` [medium] Napier: the investment question for the next 10-15 years is not 'which company wins' but 'who gets cheap credit and who gets excluded' — winners are re-industrialization, rearmament, defense, energy, robotics, and old-economy manufacturing.
 - `INS-260412-3090` [medium] Strangelets — invisible, subatomic, and capable of converting Earth — exemplify risks where detection is impossible before impact.
 - `INS-260405-8532` [medium] With U.S. labor costs at ~$18.6 trillion (60% of GDP), even partial AI-driven displacement would constitute the largest economic value transfer in modern history.

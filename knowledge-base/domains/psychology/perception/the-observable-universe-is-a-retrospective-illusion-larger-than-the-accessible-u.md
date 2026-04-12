@@ -57,6 +57,7 @@ related:
   - INS-260323-76FE
   - INS-260412-8BDB
   - INS-260412-1F4E
+  - INS-260412-F943
 ---
 The observable universe appears vastly larger than the universe we can physically interact with. Light from galaxies that have already crossed the cosmological horizon continues to arrive because it was emitted billions of years ago when those galaxies were much closer. This creates a perceptual illusion: the night sky suggests a universe far more accessible than it actually is.
 

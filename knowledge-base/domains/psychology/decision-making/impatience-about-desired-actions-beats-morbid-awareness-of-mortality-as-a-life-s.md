@@ -53,6 +53,7 @@ related:
   - INS-260330-E68E
   - INS-260404-9CAD
   - INS-260323-9369
+  - INS-260412-AC11
 ---
 The traditional response to life's shortness is memento mori — constant awareness of death. Graham argues this is the wrong end of the problem. Morbid death-awareness creates anxiety without clear direction, and most people find it unsustainable as a daily practice.
 

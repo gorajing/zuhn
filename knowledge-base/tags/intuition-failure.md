@@ -1,5 +1,6 @@
 # Tag: intuition-failure
 
+- `INS-260412-DDEF` Our catastrophic intuitions ignore the dampening properties of the systems we're reasoning about.
 - `INS-260330-864C` We anchor on small early numbers in exponential sequences and then are shocked when they suddenly look big, even though the pattern was perfectly consistent all along.
 - `INS-260412-640C` A star with 2x the Sun's mass is 25x brighter; at 10x the mass, it's 20,000x brighter — a relationship humans consistently fail to intuit.
 - `INS-260412-AB42` A 10x change in one dimension produces 100x and 1000x changes in related dimensions, making single-scale intuition dangerously misleading.

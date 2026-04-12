@@ -58,7 +58,6 @@ stance: >-
   Locating an elite team physically far from the dense social network of their
   industry materially reduces talent leakage and information bleed.
 related:
-  - INS-260409-0A28
   - INS-260327-B4B3
   - INS-260410-270E
   - INS-260402-B42C

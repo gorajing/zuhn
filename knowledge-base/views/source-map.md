@@ -864,6 +864,7 @@ Generated on 2026-04-12 | 2367 sources
 | On Artificial Intelligence | youtube | 5 | 2026-03-30 |
 | On Recruiting | youtube | 5 | 2026-03-30 |
 | OpenClaw: The Viral AI Agent that Broke the Internet - Peter Steinberger | Lex Fridman Podcast #491 | youtube | 5 | 2026-03-23 |
+| Optimistic Nihilism | youtube | 5 | 2026-04-12 |
 | Palo Alto Networks CEO Nikesh Arora on the Virtues of Being an Outsider | youtube | 5 | 2026-03-26 |
 | Parker Conrad’s Revenge Fantasy | youtube | 5 | 2026-03-26 |
 | Paul Rosolie: Uncontacted Tribes in the Amazon Jungle | Lex Fridman Podcast #489 | youtube | 5 | 2026-03-23 |
@@ -917,6 +918,7 @@ Generated on 2026-04-12 | 2367 sources
 | The Biggest Marketing Opportunity in History Is Being Ignored | youtube | 5 | 2026-03-22 |
 | "The Brilliance of Communism" – Sarah Paine | youtube | 5 | 2026-04-10 |
 | The CRAZY Truth About McDonald's | youtube | 5 | 2026-03-30 |
+| The Deadliest Being on Planet Earth – The Bacteriophage | youtube | 5 | 2026-04-12 |
 | The Disturbing History of Coca-Cola | youtube | 5 | 2026-03-30 |
 | The essence of calculus | youtube | 5 | 2026-03-30 |
 | The French Revolution: Crash Course World History #29 | youtube | 5 | 2026-03-30 |
@@ -1563,6 +1565,8 @@ Generated on 2026-04-12 | 2367 sources
 | The Black Legend, Native Americans, and Spaniards: Crash Course US History #1 | youtube | 4 | 2026-03-30 |
 | The Coronavirus Explained & What You Should Do | youtube | 4 | 2026-04-12 |
 | The Day the Dinosaurs Died – Minute by Minute | youtube | 4 | 2026-04-12 |
+| The Egg - A Short Story | youtube | 4 | 2026-04-12 |
+| The Fermi Paradox — Where Are All The Aliens? (1/2) | youtube | 4 | 2026-04-12 |
 | The Homeless Teen Who Created Louis Vuitton | youtube | 4 | 2026-03-30 |
 | The idea so strange Einstein thought it broke quantum physics | Jim Al-Khalili | youtube | 4 | 2026-03-25 |
 | The Illegal Rise of Spotify | youtube | 4 | 2026-03-30 |
@@ -1585,6 +1589,7 @@ Generated on 2026-04-12 | 2367 sources
 | The Tiny Donut That Proved We Still Don't Understand Magnetism | youtube | 4 | 2026-03-23 |
 | The Trillion Dollar Equation | youtube | 4 | 2026-03-23 |
 | The Wild Economics of Online Gambling | youtube | 4 | 2026-03-24 |
+| The World War of the Ants – The Army Ant | youtube | 4 | 2026-04-12 |
 | The World's Most Important Machine | youtube | 4 | 2026-03-23 |
 | This coach teaches tech sales mentality hacks | youtube | 4 | 2026-03-27 |
 | This Common Substance Was Once Worth Millions | youtube | 4 | 2026-03-23 |
@@ -1592,6 +1597,7 @@ Generated on 2026-04-12 | 2367 sources
 | This Is Why Trump Cheats at Golf | youtube | 4 | 2026-03-30 |
 | This new AI is powerful and uncensored… Let’s run it | youtube | 4 | 2026-03-30 |
 | This Paradox Splits Smart People 50/50 | youtube | 4 | 2026-03-23 |
+| Three Ways to Destroy the Universe | youtube | 4 | 2026-04-12 |
 | Training General Robots for Any Task: Physical Intelligence’s Karol Hausman and Tobi Springenberg | youtube | 4 | 2026-03-26 |
 | Travel INSIDE a Black Hole | youtube | 4 | 2026-03-30 |
 | TRUE Limits Of Humanity – The Final Border We Will Never Cross | youtube | 4 | 2026-04-12 |
@@ -1609,6 +1615,7 @@ Generated on 2026-04-12 | 2367 sources
 | What if my startup fails? | Ahana Gautam, Open Secret | UnStarted Ep2 | youtube | 4 | 2026-03-23 |
 | What If We Detonated All Nuclear Bombs at Once? | youtube | 4 | 2026-04-12 |
 | What if We Nuke the Moon? | youtube | 4 | 2026-04-12 |
+| What If You Detonated a Nuclear Bomb In The Marianas Trench? (Science not Fantasy) | youtube | 4 | 2026-04-12 |
 | What If You Fall into a Black Hole? | youtube | 4 | 2026-04-12 |
 | What makes quantum computers SO powerful? | youtube | 4 | 2026-03-23 |
 | What to do if your inner voice is cruel | Ethan Kross | youtube | 4 | 2026-03-30 |
@@ -1827,6 +1834,7 @@ Generated on 2026-04-12 | 2367 sources
 | Belisarius: The Battle of Rome (3/6) | youtube | 2 | 2026-03-26 |
 | Belisarius: The Emperor's Sword (1/6) | youtube | 2 | 2026-03-26 |
 | Belisarius: The Last Battle (6/6) | youtube | 2 | 2026-03-26 |
+| Black Holes Explained – From Birth to Death | youtube | 2 | 2026-04-12 |
 | Bolt ft. Markus Villig - From Bootstrapping in Estonia to a Global Leader in Mobility | youtube | 2 | 2026-03-26 |
 | Building AI Search Engine for the GPT-5 Era | Will Bryk, Exa | youtube | 2 | 2026-03-26 |
 | Built to Share: 2M Users in 18 Months | Julius AI, Rahul Sonwalkar | youtube | 2 | 2026-03-26 |
@@ -2362,11 +2370,3 @@ Generated on 2026-04-12 | 2367 sources
 | You Are Taking Creatine Wrong (here's how to fix it) | youtube | 1 | 2026-03-26 |
 | You Will Never Wear AirPods Again | youtube | 1 | 2026-03-26 |
 | You'll Never Eat Sardines Again | youtube | 1 | 2026-03-26 |
-| Black Holes Explained – From Birth to Death | youtube | 0 | 2026-04-12 |
-| Optimistic Nihilism | youtube | 0 | 2026-04-12 |
-| The Deadliest Being on Planet Earth – The Bacteriophage | youtube | 0 | 2026-04-12 |
-| The Egg - A Short Story | youtube | 0 | 2026-04-12 |
-| The Fermi Paradox — Where Are All The Aliens? (1/2) | youtube | 0 | 2026-04-12 |
-| The World War of the Ants – The Army Ant | youtube | 0 | 2026-04-12 |
-| Three Ways to Destroy the Universe | youtube | 0 | 2026-04-12 |
-| What If You Detonated a Nuclear Bomb In The Marianas Trench? (Science not Fantasy) | youtube | 0 | 2026-04-12 |

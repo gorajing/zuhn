@@ -6,4 +6,5 @@
 - `INS-260330-6A9E` Shadows and geometric intersection points can exceed light speed because they transfer no information — only physical causation is speed-limited.
 - `INS-260330-C71A` The ball doesn't 'know' it's moving — from its perspective, the glove is approaching at supersonic speed, which immediately explains why leather strips leather on impact.
 - `INS-260330-6EE2` Length contraction in special relativity means a sufficiently fast-moving observer would measure Earth as physically flat — shape depends on reference frame.
+- `INS-260412-2EF8` An outside observer sees someone falling into a black hole freeze and fade away, while the falling person sees the universe fast-forward — same event, completely different realities.
 - `INS-260330-80A2` Traveling at light speed toward the Sun would initially make it appear to recede because your field of view expands to include light from nearly behind you, compressing forward objects into a smaller apparent region.

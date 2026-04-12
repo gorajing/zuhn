@@ -55,7 +55,6 @@ stance: >-
   continuous gain innovation a structural requirement rather than a nice-to-have
 related:
   - INS-260329-3ED9
-  - INS-260329-B011
   - INS-260403-F7F4
   - INS-260404-4E1A
   - INS-260405-A742
