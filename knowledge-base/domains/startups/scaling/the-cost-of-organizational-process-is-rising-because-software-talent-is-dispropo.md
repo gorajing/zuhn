@@ -50,6 +50,7 @@ stance: >-
   motivated by shipping velocity
 related:
   - INS-260403-46BD
+  - INS-260411-1676
   - INS-260403-DED4
   - PRI-260406-DC9B
   - PRI-260328-8317

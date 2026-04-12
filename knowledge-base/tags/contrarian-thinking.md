@@ -20,8 +20,8 @@
 - `INS-260330-0E49` Contrarian conviction must be grounded in a specific knowledge advantage over smart critics, not just general disagreement.
 - `INS-260321-3660` Making startup decisions based on VC podcasts and content is literally the definition of generating non-unique ideas.
 - `INS-260329-AA30` If your startup idea came from a podcast or VC content, it is by definition not unique — because millions of other people consumed the same content.
-- `INS-260403-2788` The right response to a new idea is not gentler criticism but actively imagining how it could work.
 - `INS-260403-BAE1` YC's evolution toward consensus-friendly prompts risks creating a 'Consensus Capital Machine' where founders chase trends instead of pursuing conviction-driven missions.
+- `INS-260403-2788` The right response to a new idea is not gentler criticism but actively imagining how it could work.
 - `INS-260403-8B94` Markets fill gaps fast, so viable startup ideas hide in five specific places where the market is temporarily imperfect.
 - `INS-260327-643E` Ideas that seem bad — boring (Gusto/payroll), hard to start (Stripe/bank deals), or crowded (Dropbox/20 competitors) — systematically outperform because most founders avoid them.
 - `INS-260323-09E4` When everyone agrees your startup idea is great, someone has probably already built it; when everyone thinks it's crazy, you may be onto something real.

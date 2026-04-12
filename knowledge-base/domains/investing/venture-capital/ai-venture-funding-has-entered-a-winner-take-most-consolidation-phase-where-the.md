@@ -58,7 +58,6 @@ related:
   - PRI-260406-070D
   - INS-260403-F387
   - INS-260403-C89A
-  - INS-260404-48D1
 ---
 In 2025, AI startups absorbed $192.7B — the first time a single category captured more than half of global VC dollars. But this capital pools dramatically at the top: Anthropic, OpenAI, xAI, and Mistral together captured nearly one-third of all global venture money. Late-stage AI rounds surged 66% YoY while seed rounds held flat but grew far more selective.
 

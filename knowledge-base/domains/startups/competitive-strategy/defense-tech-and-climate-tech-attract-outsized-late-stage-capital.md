@@ -59,7 +59,7 @@ related:
   - PRI-260406-FBCE
   - INS-260404-D5B5
   - INS-260404-86D3
-  - INS-260402-9EBD
+  - INS-260410-7C07
 ---
 The fundraising data reveals a clear pattern: defense-tech (Shield AI at $5.3B, Epirus $250M, Flock Safety targeting $7.5B) and climate-tech (Spiritus $30M, ReSource Chemical $15M, Stargate Hydrogen €11M, Steady Energy €22M) are attracting outsized capital. This isn't a temporary trend but reflects structural tailwinds—geopolitical instability driving defense spending, and regulatory pressure plus energy transition economics driving climate investment.
 

@@ -1,9 +1,5 @@
 # Tag: m-and-a
 
-- `INS-260403-1019` Earn-outs should be evaluated at present value, not nominal — a $20M earn-out payable in 3 years with uncertain triggers may be worth a fraction of face value.
-- `INS-260403-2D9B` Pro forma EPS improvement from acquisitions reflects share count math, not operational value creation — but markets and boards treat it as a real signal anyway.
-- `INS-260403-F852` Deal structure (cash/stock/debt/earn-out mix) determines who carries downside risk far more than the headline acquisition price.
-- `INS-260403-E294` Unicorn exits accelerating in AI, cyber, and health while other sectors remain illiquid reveals selective rather than broad liquidity recovery.
 - `INS-260403-6713` Corp dev teams systematically flip the dynamic so founders end up selling themselves rather than being courted.
 - `INS-260322-88C3` AI threatens every incumbent company simultaneously, driving a wave of M&A as corporations acquire startups to reconstruct how they work rather than building capabilities internally.
 - `INS-260320-39A3` Shelter your team and family from acquisition signal-to-noise until the wire hits — deals fall apart in the last week, and premature sharing creates damaging anxiety.
@@ -16,10 +12,14 @@
 - `INS-260403-BF8C` Once headline price is agreed in M&A, structural negotiation leverage evaporates — so structure should be modeled and discussed before price anchoring.
 - `INS-260404-DFE5` A regression formula from 63 real transactions turns three tracked metrics into a defensible baseline valuation multiple.
 - `INS-260404-3574` Thousands of profitable European SMEs face closure due to retiring founders, creating a €20B serviceable market for employee-buyout platforms.
-- `INS-260404-6D22` A structured competitive sale reliably adds 1-2x ARR premium over bilateral negotiations, worth millions on even modest ARR bases.
 - `INS-260330-809A` Apple's acquisition pattern — Authentec for Touch ID, Siri for voice, NeXT for Jobs — shows that buying capabilities yields higher returns than buying businesses.
 - `INS-260327-3930` Nikesh Arora's key M&A principle: acquired founders become the bosses of existing Palo Alto teams, because if incumbents were capable enough, they wouldn't have needed the acquisition.
+- `INS-260404-6D22` A structured competitive sale reliably adds 1-2x ARR premium over bilateral negotiations, worth millions on even modest ARR bases.
 - `INS-260330-217C` Apple's strategy of acquiring small teams for talent and technology rather than buying large companies preserves the extreme focus that drives its premium margins.
 - `INS-260402-CCF4` Patents serve startups primarily as signals to acquirers that the technology is defensible and worth buying rather than building.
 - `INS-260403-FA8E` Capital One saw Brex as a bargain shortcut to a scaled platform; VCs saw a 58% haircut from peak valuation — both were correct within their own frameworks.
 - `INS-260403-318A` Study who's buying in your space and engineer partnerships with them early — the best acquisitions grow out of product integrations, co-selling, and shared customers.
+- `INS-260403-1019` Earn-outs should be evaluated at present value, not nominal — a $20M earn-out payable in 3 years with uncertain triggers may be worth a fraction of face value.
+- `INS-260403-2D9B` Pro forma EPS improvement from acquisitions reflects share count math, not operational value creation — but markets and boards treat it as a real signal anyway.
+- `INS-260403-F852` Deal structure (cash/stock/debt/earn-out mix) determines who carries downside risk far more than the headline acquisition price.
+- `INS-260403-E294` Unicorn exits accelerating in AI, cyber, and health while other sectors remain illiquid reveals selective rather than broad liquidity recovery.

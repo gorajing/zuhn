@@ -55,10 +55,10 @@ stance: >-
   fully linked.
 related:
   - PRI-260406-BC09
+  - INS-260411-102F
   - INS-260405-45E0
   - INS-260403-1904
   - INS-260403-88B9
-  - INS-260322-C472
   - INS-260403-ABAD
 ---
 Most early-stage financial models stop at the income statement, showing revenue minus costs equals profit. But profit and cash are fundamentally different things. A SaaS company collecting annual prepayments shows deferred revenue that inflates the bank balance without being earned yet. A company with 60-day payment terms shows revenue that hasn't arrived as cash. Capex hits cash immediately but only appears on the income statement gradually through depreciation.

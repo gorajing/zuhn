@@ -1,6 +1,7 @@
 # Tag: macro
 
 - `INS-260405-95A6` U.S. productivity growth near its post-WWII peak is attributable to data center investment, not white-collar AI tool use.
+- `INS-260410-F38A` Joe Coulombe read two articles — the GI Bill pushing college attendance from 2% to 60%, and the 747 cutting European travel cost 15x — and built an entire grocery chain around 'overeducated and underpaid' customers who didn't fully exist yet.
 - `INS-260405-397C` A continuing resolution ending January 30 means the same fight resumes in six weeks with even less goodwill.
 - `INS-260405-24F0` Britain's relative manufacturing share predicted its WWI dependency on America decades before the war; today's US-China manufacturing gap signals a similar structural shift.
 - `INS-260405-F6E6` America's $32B agricultural trade deficit in 2024 signals a structural shift after decades as a net food exporter.
@@ -13,4 +14,3 @@
 - `INS-260405-EE1F` Aggregate economic health metrics can look normal while underlying dynamics are historically anomalous.
 - `INS-260404-8BC7` Japan's 21.3 trillion yen stimulus package has pushed JGB yields to post-2008 highs, raising fears of a repeat carry trade crisis.
 - `INS-260322-B369` Goldman's CEO identifies the current US macro environment as the sweetest spot in 40 years: fiscal stimulus, rate-cutting cycle, capital investment super cycle, and deregulatory unwind all happening simultaneously.
-- `INS-260410-F38A` Joe Coulombe read two articles — the GI Bill pushing college attendance from 2% to 60%, and the 747 cutting European travel cost 15x — and built an entire grocery chain around 'overeducated and underpaid' customers who didn't fully exist yet.

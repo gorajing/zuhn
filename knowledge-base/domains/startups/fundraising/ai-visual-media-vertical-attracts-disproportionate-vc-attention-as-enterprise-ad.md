@@ -49,10 +49,10 @@ stance: >-
   validation.
 related:
   - INS-260404-F22C
+  - INS-260411-1676
   - INS-260404-86D3
   - INS-260403-4AB2
   - INS-260403-9FEB
-  - INS-260403-5CBD
 ---
 VC funding for AI visual media surged nearly 90%, with startups like HeyGen ($60M Series A at $500M valuation) exemplifying the trend. This vertical is attractive because it sits at the intersection of two powerful forces: big tech companies like Apple and Alphabet making content generation central to their AI strategies, and enterprise clients willing to pay for AI-generated visuals.
 

@@ -49,7 +49,6 @@ stance: >-
   SaaS TAM but the total cost of human labor performing that work, which is at
   least an order of magnitude larger.
 related:
-  - INS-260322-EDA4
   - INS-260322-054E
   - INS-260327-DBAD
   - INS-260330-3E6B
@@ -57,8 +56,9 @@ related:
   - INS-260403-B5C0
   - INS-260327-5690
   - INS-260410-5981
+  - INS-260411-1676
   - PRI-260406-8EBD
-  - INS-260405-FE74
+  - INS-260404-7A54
 evidence:
   - id: INS-260327-5690
     type: REFINES

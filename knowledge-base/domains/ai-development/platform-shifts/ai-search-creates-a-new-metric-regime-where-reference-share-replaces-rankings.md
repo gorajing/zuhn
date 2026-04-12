@@ -51,6 +51,7 @@ stance: >-
   click-through rates to how frequently AI systems cite or reference a source
 related:
   - INS-260405-0810
+  - INS-260411-CBCF
   - INS-260410-FA70
   - PRI-260406-88DD
   - INS-260404-1C9D

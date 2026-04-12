@@ -53,6 +53,7 @@ related:
   - PRI-260406-4B0E
   - INS-260404-A42E
   - INS-260403-11E3
+  - INS-260411-4967
 ---
 Multiple VC authors converge on the same point: term sheets are the single most consequential document in a startup's fundraising journey, yet most first-time founders treat them as formalities. Brad Feld's 'Venture Deals' and Scott Kupor's 'Secrets of Sand Hill Road' both emphasize that control terms matter more than valuation when building for the long haul.
 

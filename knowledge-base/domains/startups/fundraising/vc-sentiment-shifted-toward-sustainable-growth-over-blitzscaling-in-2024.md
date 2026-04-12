@@ -51,8 +51,8 @@ related:
   - PRI-260406-DE8A
   - INS-260322-0C91
   - INS-260404-7295
+  - INS-260411-CCB2
   - INS-260403-6740
-  - PRI-260406-CA93
 ---
 The Q3 2024 US VC valuations report confirms a structural recalibration in how investors price startups. After the zero-interest-rate era inflated valuations based on growth alone, the correction has made capital efficiency, unit economics, and clear paths to profitability the primary drivers of valuation multiples.
 

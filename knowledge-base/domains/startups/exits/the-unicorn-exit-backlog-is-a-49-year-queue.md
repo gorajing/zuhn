@@ -49,11 +49,10 @@ stance: >-
 related:
   - INS-260403-FA30
   - INS-260405-5569
-  - INS-260403-53A0
   - INS-260322-047D
+  - INS-260411-40CA
   - INS-260403-001C
   - INS-260327-4E34
-  - INS-260404-1A18
 ---
 Crunchbase data as of mid-2024 shows that if IPO markets and M&A activity remain at their sluggish pace, every unicorn currently in the private markets would need 49+ years to find an exit. This is not a cyclical dip — it reflects a structural imbalance between the rate at which capital minted unicorns (especially 2019-2021) and the absorptive capacity of public markets and acquirers.
 

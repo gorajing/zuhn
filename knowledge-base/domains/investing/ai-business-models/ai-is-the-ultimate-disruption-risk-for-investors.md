@@ -51,6 +51,7 @@ related:
   - INS-260410-E3E0
   - INS-260403-FF7E
   - INS-260403-11F9
+  - INS-260411-97BF
 stance: >-
   AI creates the greatest period of business disruptability in history, making
   moat analysis the most critical and difficult skill for investors.

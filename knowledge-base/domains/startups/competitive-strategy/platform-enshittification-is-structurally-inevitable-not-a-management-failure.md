@@ -45,7 +45,6 @@ stance: >-
   failure of management but a structural inevitability of the grow-then-extract
   platform business model.
 related:
-  - INS-260322-7B61
   - INS-260322-06EA
   - INS-260327-C900
   - INS-260330-C24F
@@ -55,6 +54,7 @@ related:
   - PRI-260328-1D90
   - INS-260330-7ED0
   - INS-260403-DC6E
+  - INS-260403-2496
 evidence:
   - id: INS-260322-7B61
     type: EXTENDS

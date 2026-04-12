@@ -46,10 +46,10 @@ related:
   - PRI-260324-12CF
   - INS-260403-EAC6
   - INS-260324-62A8
-  - INS-260327-E1EB
   - INS-260327-78A0
   - INS-260327-749F
   - INS-260405-1B93
+  - INS-260410-B47A
 stance: >-
   After years of cost-cutting, Hershey, Kellogg, and General Mills all pivoted
   to acquiring emerging brands because they'd lost the internal talent a...

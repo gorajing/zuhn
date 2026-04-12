@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-12 | 4827 actionable insights
+Generated on 2026-04-12 | 4834 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1040,6 +1040,14 @@ Generated on 2026-04-12 | 4827 actionable insights
 - [INS-260410-9A20] Staged 'busy office' tours are a fraud tell — real businesses don't need to fake activity for visiting analysts.
 - [INS-260410-5871] Run stress tests against the worst outcome ever recorded for each exposure, not against the milder scenarios regulators or consensus supply.
 - [INS-260410-F1F1] Genuinely great opportunities come five or six times in a lifetime — when you know you have an edge, the correct response is to bet heavily, not to diversify.
+- [INS-260411-4967] A profit pool chart with ROIC-WACC on the y-axis and invested capital on the x-axis instantly shows which industry participants create versus destroy value and how much capital is at stake.
+- [INS-260411-2B1D] The value stick (WTP minus Price minus Cost minus WTS) breaks value creation into consumer surplus, firm value, and supplier surplus, revealing precisely where a company's strategy creates and captures value.
+
+## investing/business-quality
+- [INS-260411-CBCF] Interbrand's top 25 global brand rankings show weak correlation with ROIC-WACC spreads, proving that brand recognition alone does not constitute a competitive advantage.
+- [INS-260411-102F] Classifying companies by the combination of positive/negative cash flows from operating, investing, and financing activities maps them to five life cycle stages with distinct ROIC profiles.
+- [INS-260411-97BF] Measuring the average absolute value of market share changes across all competitors over 3-5 years provides a quantitative signal of moat durability, with 2% as the stability threshold.
+- [INS-260411-CCB2] Value creation requires ROIC above WACC; a positive ROIC that falls below the cost of capital actually destroys shareholder value.
 
 ## investing/fintech
 - [INS-260323-825F] The greatest financial innovations came from outsiders — a physicist who counted cards, a mathematician who broke Russian codes, and Einstein's Brownian motion theory — because pattern recognition transfers across domains.
@@ -2732,6 +2740,7 @@ Generated on 2026-04-12 | 4827 actionable insights
 - [INS-260410-17E2] Rockefeller refused to speculate on drilling in Titusville and instead seized refining in Cleveland — the reliable, capital-intensive chokepoint everyone else ignored because it wasn't as exciting as hitting a gusher.
 - [INS-260410-8BF9] No carrier would adopt CDMA unless someone made the base stations, the handsets, AND the chips — so Qualcomm built JVs with Nortel and Sony to make all three before divesting every non-core layer.
 - [INS-260410-3EF5] Pick an extreme: dominate globally with massive fixed costs or aggregate the world's weirdos around one niche — never sit in the middle.
+- [INS-260411-40CA] Empirical data on U.S. establishments from 1978-2022 shows roughly 60% of new entrants exit within 5 years and 80% within 10, yet challengers remain overconfident and drawn to ambiguous payoffs.
 
 ## startups/content-strategy
 - [INS-260329-3332] A single 4+ hour comprehensive tutorial can accumulate millions of views over years by dominating 'full course' search queries.

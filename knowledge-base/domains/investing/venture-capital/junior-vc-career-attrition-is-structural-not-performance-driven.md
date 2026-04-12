@@ -49,10 +49,10 @@ stance: >-
   career path that filters for networked operators rather than diligent analysts
 related:
   - PRI-260406-25D0
+  - INS-260411-40CA
   - INS-260323-FE69
   - INS-260403-8834
   - PRI-260403-7BEC
-  - INS-260404-12FB
   - INS-260403-049F
 ---
 The attrition data from Jackson & Strebulaev reveals that VC is not a conventional meritocratic career ladder. Only 23% of junior VCs ever reach partner level, and 65% leave the industry entirely within a decade. This is not primarily because of poor investment judgment — it's because the skills that drive advancement (deal flow generation, founder relationships, fund visibility) are network and brand effects, not analytical competencies that can be learned in place. This has implications for both aspiring VCs and founders evaluating their investors: a junior partner with strong operator networks and distribution may be more valuable than a senior associate with better financial modeling skills. For anyone building a career in VC, the lesson is that cultivating a public presence and founder relationships early is more durable than climbing an internal hierarchy.

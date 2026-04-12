@@ -59,8 +59,8 @@ related:
   - INS-260403-B462
   - INS-260410-5581
   - INS-260410-DCE5
+  - INS-260411-CBCF
   - INS-260330-629E
-  - INS-260403-6BF7
 ---
 Pharma products almost never develop consumer brand power. Lipitor lowers cholesterol silently — you feel nothing, others see nothing. Ozempic is different on two dimensions. First, a tight feedback loop: users lose 6+ pounds in the first month, immediately observable. This mirrors the gratification mechanics that consumer tech companies like Zynga engineered deliberately. Second, a social visibility loop: weight loss is legible to everyone around the user, making each patient a walking billboard. Combined with a memorable name that entered pop culture via Jimmy Kimmel's Oscars monologue, these dynamics produced unprecedented word-of-mouth momentum.
 

@@ -56,7 +56,6 @@ related:
   - INS-260323-8637
   - INS-260403-5CAD
   - INS-260322-8147
-  - INS-260403-021D
 stance: The AI industry will likely cascade like the computer industry
 evidence:
   - id: INS-260321-B7CB

@@ -57,10 +57,10 @@ related:
   - INS-260405-931E
   - INS-260404-D3C3
   - INS-260404-3821
-  - INS-260404-F22C
   - INS-260405-6EE5
   - PRI-260406-EE38
   - INS-260404-488A
+  - INS-260403-F8FB
 ---
 The fund raises highlighted — Coatue's $249M ClimateTech fund, Nina Capital's €50M HealthTech fund, and PitchBook's coverage of commercial space VC — reveal a structural shift toward sector specialization in venture capital. LPs are increasingly willing to back funds with deep domain expertise over generalist approaches.
 

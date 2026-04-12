@@ -53,7 +53,6 @@ stance: >-
   arithmetically unlikely to solve the debt problem before financial repression
   begins, given debt accumulates at $7.2B/day.
 related:
-  - INS-260327-D480
   - INS-260330-ADB7
   - INS-260404-8750
   - INS-260403-F0EE
@@ -63,5 +62,6 @@ related:
   - PRI-260328-0993
   - INS-260330-95E8
   - INS-260323-DA6F
+  - PRI-260328-6136
 ---
 The optimistic counterargument to Napier: AI triggers a productivity revolution, GDP grows out of the debt ratio, financial repression becomes unnecessary. The historical analog is the 1990s Internet + end-of-Cold-War combination that produced late-Clinton fiscal surpluses. The problem is time: productivity revolutions historically take 5-10 years to propagate from commercial deployment to macro statistics. The Internet went mainstream in 1993-95 but productivity gains only appeared in late-1990s data. If AI is on the same curve, its macro effect arrives roughly 2028-2032. Meanwhile debt is increasing at $7.2B/day right now. The arithmetic is unforgiving: unless AI productivity front-loads dramatically and simultaneously bends the debt curve, the repression regime arrives first. Note this is not an argument against AI's long-term effect — it's an argument about sequencing, and sequencing determines which scenario you must position for in the meantime.

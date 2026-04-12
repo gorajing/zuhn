@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 575 insights
+> 577 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -230,6 +230,7 @@
 - `INS-260327-2BAD` [high] Cannabis businesses cannot achieve the scale economies that other industries enjoy because state-by-state legalization c
 - `INS-260327-290C` [high] Businesses that make consumers so accustomed to effortless consumption create switching costs based on effort aversion t
 - `INS-260402-7DCC` [high] 'Industry best practice' in technology shields managers from blame but guarantees mediocre results that bolder competitors will exploit.
+- `INS-260411-A093` [high] Industries start vertically integrated because coordination costs are high for complex new products, then dis-integrate into horizontal layers as modularization reduces coordination needs -- but premature modularization is catastrophic.
 - `INS-260404-60F4` [high] Photosynthesis was inefficient from the start but dominated because it created the oxygen-rich atmosphere that made alternatives even harder.
 - `INS-260327-4F94` [high] Health services promoted through influencer sponsorships face disproportionate backlash when problems emerge because fol
 - `INS-260330-8D4F` [high] DuPont knew C8 caused cancer in rats by the early 1980s, liver disease in workers by the mid-1970s, and toxic effects across multiple species from the 1960s — but shared none of this with the scientific community or regulators for decades.
@@ -289,6 +290,7 @@
 - `INS-260326-8189` [high] Napoleon renamed a suicidal artillery battery 'Battery of Men Without Fear' and suddenly had no shortage of volunteers.
 - `INS-260404-21E6` [high] DoorDash's value comes from its network and market position, not its code — AI tools that make cloning easy don't threaten network-effect moats.
 - `INS-260330-63FE` [high] At Stalingrad, Russians 'hugged' German front lines so Luftwaffe air strikes would kill both sides equally — neutralizing Germany's air superiority through proximity.
+- `INS-260411-40CA` [high] Empirical data on U.S. establishments from 1978-2022 shows roughly 60% of new entrants exit within 5 years and 80% within 10, yet challengers remain overconfident and drawn to ambiguous payoffs.
 - `INS-260327-2A58` [high] Analog products can sustain premium niche markets among enthusiasts but cannot recapture mass-market share because the c
 - `INS-260410-3EF5` [high] Pick an extreme: dominate globally with massive fixed costs or aggregate the world's weirdos around one niche — never sit in the middle.
 - `INS-260329-9D87` [high] Narrowing your niche from generic to hyper-specific lets you charge 500x more while facing virtually no competition.

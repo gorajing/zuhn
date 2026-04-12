@@ -57,8 +57,8 @@ related:
   - PRI-260406-8987
   - PRI-260406-CA93
   - INS-260403-EA28
+  - INS-260411-4967
   - INS-260403-C8F0
-  - PRI-260406-0A98
 ---
 A waterfall analysis calculates how proceeds from a liquidity event flow to each shareholder class based on liquidation preferences, participation rights, and seniority stacking. VCs run these models routinely, but most founders don't—which creates a dangerous information asymmetry at the negotiating table.
 

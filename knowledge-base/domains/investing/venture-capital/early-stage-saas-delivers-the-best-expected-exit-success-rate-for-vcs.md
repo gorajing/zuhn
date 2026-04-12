@@ -45,8 +45,8 @@ related:
   - INS-260405-963B
   - PRI-260406-8E01
   - INS-260403-E503
+  - INS-260411-40CA
   - INS-260403-248E
-  - INS-260405-2F43
   - INS-260405-5514
 ---
 According to Pitchbook research, early-stage SaaS companies boast the best expected exit success rate for venture capital investors. This is notable because it suggests that despite the current AI hype cycle, the proven SaaS business model at early stages still offers the most reliable path to VC returns.

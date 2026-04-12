@@ -55,7 +55,6 @@ related:
   - INS-260403-32BA
   - INS-260403-535C
   - INS-260327-3B91
-  - INS-260404-68EE
 ---
 The traditional AI business model sells tools that make humans more productive. But Sequoia's analysis highlights a fundamental shift: AI-native companies are now delivering the finished work itself — completed tax returns, drafted contracts, processed insurance claims. This matters because the services market dwarfs the software market. Every dollar spent on software typically supports $4-5 of human labor. By replacing the labor directly, AI autopilots capture revenue from the much larger services TAM rather than competing for the smaller tools budget.
 

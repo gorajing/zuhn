@@ -47,7 +47,6 @@ stance: >-
   The majority of entrepreneurial wealth comes from equity appreciation via
   revenue multiples, not from profit distributions
 related:
-  - INS-260323-9A29
   - INS-260329-60CF
   - INS-260330-855A
   - INS-260403-18E0

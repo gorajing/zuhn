@@ -55,7 +55,6 @@ stance: >-
   not merely individual career moves.
 related:
   - INS-260405-A761
-  - INS-260405-BD2E
   - INS-260404-DBD1
   - PRI-260406-6C6C
   - INS-260404-3821

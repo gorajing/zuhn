@@ -46,10 +46,10 @@ stance: >-
   positions
 related:
   - PRI-260406-435D
+  - INS-260411-1676
   - INS-260322-B450
   - INS-260327-643C
   - INS-260323-7D3C
-  - INS-260403-C6C3
 ---
 Data from Lone Pine Capital shows that 78% of public companies with >$5B market cap are multi-product. Of the single-product public companies tracked from end of 2016, roughly one-third were acquired by end of 2022 — absorbed by what Tidemark calls 'Platforms of Compounding Greatness.' This suggests single-product companies face a binary fate: expand or get acquired.
 

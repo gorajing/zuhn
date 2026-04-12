@@ -9,11 +9,11 @@
 - `INS-260325-E78D` Claiming you do not need a philosophy of life IS a philosophy of life — an unexamined one that probably serves you worse than a deliberate one.
 - `INS-260327-E833` Strategy (choosing what to pursue) matters infinitely more than tactics (how to pursue it).
 - `INS-260327-2915` What would remain if everything were taken away? The answer reveals what you actually value versus what you maintain out of habit and social expectation.
+- `INS-260403-C445` Gen Z and younger millennials preferentially buy from founder-led, mission-driven brands over feature-equivalent faceless alternatives.
 - `INS-260410-7687` Greg Abel's 2025 Berkshire letter explicitly catalogues six foundational values (Decentralized Model, Integrity, Financial Strength, Capital Discipline, Risk Management, Operational Excellence) 'that will continue into perpetuity,' framing them as the mechanism for surviving the Warren-to-Greg transition without identity loss.
 - `INS-260409-355C` Treat financial and spiritual capital as multiplicative factors, not additive line items — either zero and the total collapses.
 - `INS-260409-9D44` MemPalace maintainers explicitly stated 'we'd rather be right than impressive' when admitting four launch overclaims — an intentional value choice against the default incentive to hype at launch and correct later.
 - `INS-260410-CC88` Greg Abel in the 2025 letter: 'Our role is stewardship. That stewardship has shaped a culture and reinforced a set of values that are not the result of our success, but the reason for it.'
-- `INS-260403-C445` Gen Z and younger millennials preferentially buy from founder-led, mission-driven brands over feature-equivalent faceless alternatives.
 - `INS-260410-9AD9` Greg Abel in the 2025 Berkshire letter: 'Berkshire must have leaders that reflect its principles, and not principles that fit individuals.' The ordering matters — values come first, leadership selection comes second.
 - `INS-260403-5419` Culture is shaped more by what leaders exclude than what they celebrate.
 - `INS-260327-A8D9` If you don't use your values for the hardest decisions of your life, they're not really your values.

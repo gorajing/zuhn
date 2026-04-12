@@ -56,7 +56,7 @@ related:
   - INS-260403-85DE
   - INS-260403-D880
   - INS-260403-0240
-  - INS-260403-5056
+  - INS-260411-CCB2
 ---
 The standard accelerator equity range of 5-7% (Y Combinator takes 7% for $500K, Techstars takes 6% for $120K) represents a market-tested equilibrium between founder dilution and program value. Programs demanding significantly more—above 10%—without offering proportionally superior mentorship, funding, or network access are likely optimizing for their own returns at the founder's expense.
 

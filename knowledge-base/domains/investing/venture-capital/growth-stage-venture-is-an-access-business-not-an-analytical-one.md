@@ -66,6 +66,7 @@ related:
   - INS-260326-870E
   - INS-260409-3AC7
   - INS-260404-F45E
+  - INS-260411-102F
 ---
 David articulates a blunt distinction that most founder and investor writing blurs: early-stage venture is an art of picking founders at the napkin stage where you're really just dreaming up what a market might look like, while growth-stage venture is an access business where the diligence is mostly commodity and the scarce asset is getting into the round. Acquired's whole investment fund thesis rests on this: they pre-qualify their sponsors editorially, and then they just ask to invest. The round is usually $300M so a couple million from them is trivial from a cap table standpoint, but it aligns incentives and lets them participate in outcomes they already identified through the show.
 

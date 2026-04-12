@@ -47,11 +47,11 @@ stance: >-
   Any function that can be performed in software will eventually migrate there,
   regardless of how embedded it is in physical form
 related:
-  - INS-260323-76B8
   - INS-260327-85E2
   - PRI-260403-6DD6
+  - INS-260411-1676
+  - INS-260323-76B8
   - INS-260404-D646
-  - INS-260403-5CAD
 evidence:
   - id: INS-260327-85E2
     type: EXTENDS

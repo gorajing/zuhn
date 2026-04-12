@@ -53,10 +53,10 @@ stance: >-
   portfolio planning consistently underestimates the gap between disciplined
   compounders and market-rate compounders.
 related:
+  - INS-260411-F990
   - INS-260409-BF3F
   - INS-260329-CC75
   - INS-260327-D480
   - INS-260329-28B0
-  - INS-260323-7E6F
 ---
 The 2025 letter's final table lists Berkshire's per-share market value percentage change vs S&P 500 with dividends for every year from 1965 to 2025. The summary line: 'Compounded Annual Gain — 1965-2025: Berkshire 19.7%, S&P 10.5%. Overall Gain — 1964-2025: Berkshire 6,099,294%, S&P 46,061%.' In 60 years, a 9-point CAGR gap turned a 46,061% S&P return into a 6,099,294% Berkshire return — roughly 132x more absolute return for less than 2x the percentage rate. This is the geometric intuition gap: linear mental models estimate the gap as 'about double,' when the true gap is two orders of magnitude. The lesson generalizes to any multi-decade commitment: individual retirement savers, endowments, family offices with true long time horizons dramatically underestimate the absolute dollar difference between a 10% compounder and a 19% compounder over 30-60 years. The practical consequence: if you believe an investment edge is durable, concentration in that edge produces dramatically larger absolute outcomes than the percentage gap suggests, which justifies taking concentration risk that arithmetic intuition would reject.
