@@ -1,6 +1,6 @@
 # Topic: market-entry
 
-> 55 insights
+> 56 insights
 
 - `INS-260403-535C` [high] Simultaneous supply aging and demand shifting creates opportunities that favor operationally heavy startups over pure software.
 - `INS-260403-16AB` [high] AI copilots in marketplaces increase supply capacity while preserving trust, whereas full autopilots race to zero pricing.
@@ -28,6 +28,7 @@
 
 
 - `INS-260403-C130` [high] Evaluate potential niches on pain severity and willingness to pay, then focus exclusively on the high-pain/high-willingness quadrant.
+- `INS-260412-8843` [high] Hard constraints on user travel distance cause competitors to self-organize into evenly spaced non-overlapping territories.
 - `INS-260330-3431` [high] Premium brand identity can prevent entry into massive price-sensitive markets where the bulk of demand sits far below your price floor.
 - `INS-260330-7479` [high] Apple's $1,100+ iPhone captures only 1% of India where 75% of smartphones sell under $250, proving brand prestige alone cannot overcome price-sensitivity at scale.
 - `INS-260330-7EDF` [high] Asking 'what could go right?' instead of 'what went wrong?' shifts strategic focus from diagnosis of failure to identification of actionable opportunities.

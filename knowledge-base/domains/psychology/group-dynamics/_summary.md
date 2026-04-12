@@ -1,6 +1,6 @@
 # Topic: group-dynamics
 
-> 112 insights
+> 114 insights
 
 - `INS-260330-2EB0` [high] The Pueblo Revolt shows that a shared existential threat can override deep tribal divisions — but the unity is temporary.
 - `INS-260403-D609` [high] Enforcers of orthodoxy compete with each other, creating a race to the bottom where any borderline idea gets banned.
@@ -91,6 +91,7 @@
 - `INS-260403-69C3` [medium] National security framing activates fear circuits that override the capacity for nuanced policy engagement.
 - `INS-260402-1CAD` [medium] Group identities persist because their arbitrary, irrational elements create the cohesion needed to carry beneficial beliefs as payload.
 - `INS-260403-CF01` [medium] The same ethnic group can have radically different outcomes depending on the selection mechanism that brought them to a country.
+- `INS-260412-8401` [medium] Peachtree, Georgia built 90 miles of golf-cart roads, and the infrastructure itself — not any mandate — transformed golf carts from novelty into a community identity where 12-year-olds commute to school.
 - `INS-260410-C474` [medium] Paine argues Bismarck's manipulation of Europe's monarchs demonstrated the structural incompetence of inherited leadership, because kings selected by birth rather than skill consistently failed to see strategic patterns a competent peer group would have caught.
 - `INS-260403-DA14` [medium] A leader's repeated norm violations train their handlers and staff to preemptively execute the cheating pattern without explicit instructions.
 - `INS-260412-3455` [medium] South Korean youth culture has reorganized entirely around the 'Samsung Man' ideal, with 100,000+ applicants taking the Samsung Aptitude Test and failure to join a chaebol treated as social shame.
@@ -105,6 +106,7 @@
 - `INS-260403-A4EB` [medium] Your colleagues self-selected for the same reasons you did, which amplifies whatever motivated the choice — money makes it worse, interest makes it better.
 - `INS-260403-9A57` [medium] LatAm founders' shared vision of regional transformation creates collaborative network density that purely profit-driven ecosystems struggle to replicate.
 - `INS-260403-22ED` [medium] When people's financial incentives align with others' success, genuine cultures of encouragement emerge over time.
+- `INS-260412-F730` [medium] The ultra-wealthy follow a structured social calendar not because they enjoy the events, but because absence signals declining status within their peer network.
 - `INS-260403-597B` [medium] Once a belief enters the startup investment market, follow-on dollars, valuation markups, and co-investor activity all amplify the same signal until divergence becomes irrational.
 - `INS-260403-D198` [medium] Highly specialized markets like startups and trading still cluster geographically because in-person interaction enables deal velocity that technology cannot yet match.
 - `INS-260404-459B` [medium] Inverting startup culture's oddities reveals the 'normal' world as conservative, hierarchical, and slow — which Graham argues is actually a portrait of the past, not a permanent default.

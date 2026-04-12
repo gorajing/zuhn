@@ -16,9 +16,9 @@
 - `INS-260410-52C8` CUDA is Nvidia's real moat — a 17-year, thousands-of-engineers platform investment that competitors cannot replicate on relevant timescales.
 - `INS-260323-8DE7` NVIDIA created CUDA to let any programmer use GPU parallel processing via familiar languages — a speculative infrastructure bet that paid off when AI researchers adopted it for deep learning.
 - `INS-260323-6230` NVIDIA chose gaming as its first market because it was large enough to fund massive R&D, creating a flywheel between technology investment and market scale that later enabled the AI revolution.
+- `INS-260410-2B55` AlexNet happened in 2012 and Nvidia was at the center of it, yet Nvidia stock didn't reclaim its 2007 market cap until 2016 — four full years of mispricing despite Jensen openly telling investors what was happening on earnings calls.
 - `INS-260323-750A` Nvidia investing $30B in OpenAI while OpenAI buys Nvidia chips is circular financing — the market has remained irrational but 70% of fund managers now see AI as overvalued.
 - `INS-260404-183A` Meta choosing NVIDIA Grace CPUs over Intel/AMD shows GPU vendors are expanding into full compute stacks, threatening incumbent CPU makers.
-- `INS-260410-2B55` AlexNet happened in 2012 and Nvidia was at the center of it, yet Nvidia stock didn't reclaim its 2007 market cap until 2016 — four full years of mispricing despite Jensen openly telling investors what was happening on earnings calls.
 - `INS-260410-D42F` Enterprises re-architect data centers at most once a decade — whoever wins the current AI transition locks in revenue for 5-10 years regardless of whether the hype holds.
 - `INS-260404-6B73` DeepSeek R1 wiped nearly a trillion dollars in market value by proving frontier AI doesn't require frontier spending.
 - `INS-260324-5C53` OpenAI is Netscape (first mover, no moat), Nvidia is Sun+Cisco (shovel seller), hyperscalers are Exodus Communications (building for demand that hasn't materialized).

@@ -43,7 +43,6 @@ stance: >-
   Systems that exert force in one direction require an explicit counter-force
   mechanism to maintain stability, not just passive equilibrium
 related:
-  - INS-260326-3CDE
   - INS-260327-CF53
   - INS-260405-F7C5
   - INS-260412-9300

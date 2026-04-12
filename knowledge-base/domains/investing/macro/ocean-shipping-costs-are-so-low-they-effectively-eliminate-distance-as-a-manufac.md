@@ -53,13 +53,12 @@ stance: >-
   negligible enough that labor cost differentials dominate location decisions
   regardless of distance.
 related:
-  - INS-260324-E785
   - INS-260324-157A
   - INS-260403-F98F
+  - INS-260412-4127
   - INS-260412-10F1
   - INS-260403-20ED
   - INS-260328-8445
-  - INS-260410-D9DC
 ---
 The video illustrates that Vietnam can manufacture shoes, ship them across the entire Pacific Ocean, and still profit on a $20 sale price because pre-pandemic container rates were roughly $1,000 for a 20-foot container holding 3,500 shoeboxes — about 30 cents per box. This extraordinary cheapness is what 'ocean shipping enabling globalization' actually means in concrete terms.
 

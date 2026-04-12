@@ -45,6 +45,7 @@ related:
   - INS-260322-FCFC
   - INS-260403-D5B0
   - INS-260327-B715
+  - INS-260412-3829
 ---
 Cruise lines optimize revenue by creating a closed economic system where all spending occurs within their controlled environment, eliminating competitive alternatives.
 

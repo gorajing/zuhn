@@ -54,12 +54,12 @@ related:
   - INS-260327-E3DE
   - INS-260327-73CB
   - INS-260327-178E
-  - INS-260330-73C1
   - INS-260403-529D
   - INS-260403-9A0F
   - INS-260405-8646
   - PRI-260406-2BC0
   - INS-260325-FDF5
+  - PRI-260406-8C9D
 ---
 In mature web2 companies, the PM role was progressively unbundled into user researchers, data scientists, UX designers, product marketing managers, and more. Web3 reverses this trend because the work—on-chain analysis, tokenomics design, community engagement, partnership formation, and launch marketing—is so technically interdependent that splitting it across specialists creates coordination overhead that exceeds the benefit of specialization.
 

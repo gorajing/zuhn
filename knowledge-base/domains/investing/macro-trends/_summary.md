@@ -1,12 +1,13 @@
 # Topic: macro-trends
 
-> 22 insights
+> 23 insights
 
 - `INS-260412-79D5` [high] Public-key encryption's security relies on computational difficulty that quantum computers eliminate, creating a binary safe/broken threshold.
 - `INS-260409-F485` [high] Napier's emerging-market heuristic: avoid countries where trading rights are not guaranteed, constitutions are weak, or exchange rates are overvalued — operationalized as 'don't invest where you wouldn't live after retirement.'
 - `INS-260412-762C` [high] Entropy dictates that all structures — physical, economic, organizational — decay without continuous energy input.
 - `INS-260412-4E72` [high] Heavy elements forged in neutron star collisions billions of years ago became the raw materials for Earth's geology, biology, and modern technology.
 - `INS-260410-F41F` [high] The 2009 HITECH Act's $36B in 'meaningful use' incentives drove EMR adoption from 9% to 95% of hospitals in five years—which sounds like a tailwind, but the deeper effect was closing the door on any future innovative competitor by compressing decades of buying decisions into one window.
+- `INS-260412-2367` [high] Wealth consolidation forces each wealth tier to spend more to maintain the same level of exclusivity, as the tier below floods their previous status markers.
 - `INS-260409-1390` [medium] The Internet was commercialized in the early 1990s but only showed in productivity statistics in the late 1990s; at current debt accumulation of $7.2B/day, even an AI productivity miracle won't bend the ratio fast enough to displace financial repression.
 - `INS-260409-1DD3` [medium] 1939-1979 financial repression worked because Bretton Woods made capital flight institutionally difficult; today capital moves in one click, but partial controls — Trump tariffs, pension investment mandates, 401(k) rule changes — are already accumulating.
 - `INS-260409-053F` [medium] Arthur Burns admitted in a 1979 speech that the Fed had the power to end 1970s inflation but didn't because the political cost (mass unemployment during Cold War mobilization) was unacceptable — the same constraint now applies under US-China rivalry.

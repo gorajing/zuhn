@@ -12,9 +12,6 @@
 - `INS-260403-9442` Plants produce 40 billion tons of the flawed enzyme RuBisCo rather than evolving a better one, proving that volume of a mediocre approach can dominate.
 - `INS-260403-C7A0` Incumbents who outsourced their entire tech stack to vendors cannot compete on product speed with tech-native challengers.
 - `INS-260403-58BA` Stripping bureaucracy to maintain speed over 20 years made Palantir impossible to compete with.
-- `INS-260330-49A4` At 10 users worry about reaching 100, not about reaching a million — necessity will force the right solutions at each stage.
-- `INS-260327-2386` If something takes less than 3 minutes and seems interesting, do it right now — do not wait, because most of the time failure is great if you fail fast.
-- `INS-260327-BA8E` Your biggest regret will be not pivoting three months earlier, not the pivot itself.
 - `INS-260403-79F3` Founders can now go from idea to product to seed round in less than a quarter by leveraging pretrained models and existing AI APIs.
 - `INS-260404-EC32` AI-accelerated teams build faster but accumulate operational debt sooner, requiring earlier systematization.
 - `INS-260329-59A5` For reversible decisions, the cost of deliberation almost always exceeds the cost of being wrong and correcting.
@@ -23,7 +20,10 @@
 - `INS-260403-D1D0` Graham pushed Reddit to launch in weeks since a v1 link-sharing site only needed a couple hundred lines of code, and they shipped about three weeks into the YC batch.
 - `INS-260326-E411` Napoleon's Italian Campaign succeeded because he moved his worst-supplied army faster than anyone believed possible, defeating enemies before they could coordinate.
 - `INS-260405-0FC4` RuBisCo wasn't particularly good at its job—so the first organisms just made enormous quantities of it and dominated the planet anyway.
+- `INS-260330-49A4` At 10 users worry about reaching 100, not about reaching a million — necessity will force the right solutions at each stage.
 - `INS-260321-EE05` The NYT's 24-hour editorial cycle is an OODA loop — the internet cycles in 12 hours, causing traditional media to perpetually chase viral posts and have a psychological breakdown.
+- `INS-260327-2386` If something takes less than 3 minutes and seems interesting, do it right now — do not wait, because most of the time failure is great if you fail fast.
+- `INS-260327-BA8E` Your biggest regret will be not pivoting three months earlier, not the pivot itself.
 - `INS-260403-DF01` Banzai went from near-bankruptcy to surpassing pre-pandemic event volume by acquiring a virtual events firm in days rather than building the capability internally.
 - `INS-260403-FFBD` When functional prototypes cost minutes instead of weeks, the constraint on product discovery shifts from engineering bandwidth to hypothesis quality.
 - `INS-260329-1DE0` Cut delivery time in half or add priority access to create a premium tier that wealthy buyers prefer over larger promises.

@@ -50,13 +50,13 @@ related:
   - INS-260325-3C17
   - INS-260323-7185
   - PRI-260323-B798
-  - INS-260327-C834
   - INS-260327-8912
   - INS-260327-5140
   - INS-260327-64A5
   - INS-260327-15E1
   - INS-260330-5C6E
   - INS-260330-F158
+  - INS-260330-912C
 stance: >-
   The Soviet Union didn't collapse primarily from ideological or economic
   failure

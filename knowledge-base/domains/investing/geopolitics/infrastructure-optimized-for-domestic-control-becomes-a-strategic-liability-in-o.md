@@ -50,7 +50,6 @@ stance: >-
   operate beyond sovereign borders
 related:
   - INS-260403-2475
-  - INS-260404-667A
   - INS-260327-37E3
   - PRI-260321-0A4D
   - INS-260330-E4B6

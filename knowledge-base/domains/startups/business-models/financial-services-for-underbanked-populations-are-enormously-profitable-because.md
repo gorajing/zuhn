@@ -40,7 +40,6 @@ stance: >-
   sending remittances, unbanked populations — have no alternative infrastructure
   and price-insensitive demand.
 related:
-  - INS-260324-8C30
   - INS-260403-9104
   - INS-260405-631B
   - INS-260404-AC1B

@@ -8,8 +8,8 @@
 - `INS-260329-CB03` Comments should explain why, not what — if code needs a comment to explain what it does, the code itself should be rewritten.
 - `INS-260410-264E` If your corpus is under ~500 pages, just put the whole thing in the prompt and cache it — no RAG infrastructure required.
 - `INS-260403-49E1` Consolidating VC return analysis into one tab eliminates formula breakage and creates a shared decision language.
-- `INS-260327-D10B` Thoreau went to the woods to live deliberately - reducing life to its essentials revealed more depth than the complexity he left behind.
 - `INS-260330-97B3` Clear, credible 'cross this line and I'll hit you' deterrence often outperforms nuanced diplomatic strategies in preventing adversary escalation.
+- `INS-260327-D10B` Thoreau went to the woods to live deliberately - reducing life to its essentials revealed more depth than the complexity he left behind.
 - `INS-260329-294C` Reducing toolchain complexity for beginners removes failure modes unrelated to the skill being learned, keeping focus on core concepts.
 - `INS-260326-3B43` Complexity in nature does not require complex causes — Rule 30 shows that trivially simple rules produce infinitely complex behavior.
 - `INS-260330-2492` Rubin argues that infinite choices don't lead to better creative work — deliberately limiting your palette (e.g., only green and red paint) forces novel problem-solving that unconstrained freedom cannot.

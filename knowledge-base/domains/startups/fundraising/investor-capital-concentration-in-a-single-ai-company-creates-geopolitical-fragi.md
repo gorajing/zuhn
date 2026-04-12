@@ -54,9 +54,9 @@ related:
   - INS-260403-CEC0
   - INS-260403-F6D2
   - PRI-260403-26B9
+  - INS-260412-B3A3
   - INS-260402-7FCC
   - INS-260403-5554
-  - INS-260322-88C3
 ---
 Smith raises a geopolitical dimension often missing from AI investment analysis: the unprecedented concentration of capital in OpenAI (potentially $190B+ from Nvidia, Microsoft, Amazon, SoftBank, Middle Eastern sovereigns, and public markets) means that OpenAI's failure wouldn't just hurt investors — it could cause an unwarranted chill in U.S. AI investment broadly, creating an opening for Chinese companies like DeepSeek to seize leadership.
 

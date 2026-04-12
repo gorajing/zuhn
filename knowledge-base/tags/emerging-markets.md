@@ -7,6 +7,7 @@
 - `INS-260403-D500` Cross-market valuation comparisons are deceptive because entry discounts don't guarantee proportional exit returns when market dynamics differ.
 - `INS-260404-A893` VC deal flow is structurally shifting toward the Middle East and Southeast Asia as new innovation hubs.
 - `INS-260404-80F3` VC's outsized return potential can absorb currency depreciation that makes public EM indices unattractive.
+- `INS-260412-94D9` Rwanda ranking 29th globally on the Ease of Doing Business Index — above the Netherlands, Switzerland, and Japan — generates outsized credibility and investment signaling far exceeding what raw GDP metrics would attract.
 - `INS-260404-1A3F` Narrow signals like startup deal flow are necessary but insufficient for emerging market investment decisions — structural analysis across governance, demographics, infrastructure, and finance is required.
 - `INS-260412-F681` International condemnation of Bukele's methods reflects a disconnect between observers who've never lived under daily threat of gang murder and citizens who have, producing systematically different risk calculations.
 - `INS-260330-38C9` Son's 'time machine' theory treats the US tech ecosystem as a preview of what will succeed globally, turning geographic lag into an investment edge.

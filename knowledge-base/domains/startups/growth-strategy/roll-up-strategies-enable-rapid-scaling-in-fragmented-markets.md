@@ -43,12 +43,12 @@ stance: >-
   more capital-efficient path to market dominance than organic growth when the
   market has many sub-scale competitors.
 related:
-  - INS-260405-C88A
   - INS-260403-1462
   - INS-260404-6914
+  - INS-260405-C88A
   - INS-260404-2CA6
   - PRI-260406-0EC6
   - INS-260327-DAE5
-  - INS-260404-1A34
+  - INS-260412-2367
 ---
 Industry consolidators and serial acquirers use roll-up strategies to rapidly build market position by acquiring multiple smaller players in fragmented markets. The strategy works because fragmented markets contain many businesses operating below efficient scale — combining them creates operational synergies, pricing power, and platform value that none could achieve independently. This approach is especially relevant for PE-backed and growth-stage companies where organic growth alone cannot capture a market window before competitors consolidate first. The key risk is integration complexity — each acquisition adds operational overhead that can destroy value if not managed systematically.

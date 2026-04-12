@@ -51,7 +51,6 @@ stance: >-
   before Photosystem I) generates ongoing cognitive overhead that compounds
   across learners
 related:
-  - INS-260325-B061
   - INS-260330-9A46
   - INS-260330-C8ED
   - INS-260330-0143
@@ -61,6 +60,7 @@ related:
   - INS-260404-BEF7
   - INS-260404-78EB
   - INS-260404-E4B8
+  - INS-260405-F72B
 ---
 Photosystem II acts before Photosystem I in the electron transport chain, but was named second because it was discovered second. This historical accident means every student of biology must spend cognitive effort resolving the naming conflict, and every teacher must preemptively address the confusion. The alternative name — plastoquinone oxidoreductase — is technically precise but unusable.
 

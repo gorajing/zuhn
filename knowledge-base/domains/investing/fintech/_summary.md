@@ -1,6 +1,6 @@
 # Topic: fintech
 
-> 100 insights
+> 101 insights
 
 - `INS-260329-C4A4` [high] Every $250/month saved consistently compounds to roughly $1M by retirement, making micro-savings feel consequential.
 - `INS-260323-C370` [high] When you account for size, value, profitability, and investment factors, most active fund managers who appeared to beat the market were simply maintaining factor exposures that can be replicated at far lower cost.
@@ -96,6 +96,7 @@
 - `INS-260404-5B6A` [medium] A Fed working paper found Kalshi's probability distributions for CPI and rate decisions outperform Bloomberg consensus and fed funds futures.
 - `INS-260404-CB21` [medium] The Trump Accounts initiative succeeded politically because Brad Gerstner's personal story about his son's question gave an abstract policy idea emotional traction.
 - `INS-260404-D475` [medium] Kalshi's $11B valuation and 1000% volume growth validates regulated prediction markets as a mainstream financial category.
+- `INS-260412-3829` [medium] Airline points are tax-free because governments classify them as purchase rebates rather than income — a classification that enables the entire multi-billion dollar points economy.
 - `INS-260403-94A3` [medium] Evergreen funds buying VC secondaries pay closer to NAV than institutional buyers because they optimize for stable access rather than deep discounts.
 - `INS-260322-760A` [medium] The 'self-driving money' app that automatically allocates paychecks, sweeps savings, and invests is technically feasible but faces a trust barrier — most consumers don't understand or trust the agent's actions.
 - `INS-260403-EA6D` [medium] The rapid growth of stablecoins as a settlement layer demonstrates that tokenized financial instruments can scale when they offer tangible infrastructure improvements over incumbents.

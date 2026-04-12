@@ -54,7 +54,6 @@ related:
   - INS-260412-9657
   - PRI-260323-57AC
   - INS-260323-1811
-  - INS-260412-E71C
 ---
 The video describes how overwhelmed hospitals face a doom loop: too many patients means healthcare workers get sick, which reduces hospital capacity, which means even more patients go untreated. This isn't unique to healthcare — it's a universal pattern in any capacity-constrained system.
 

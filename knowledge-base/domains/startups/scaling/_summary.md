@@ -1,6 +1,6 @@
 # Topic: scaling
 
-> 189 insights
+> 190 insights
 
 - `INS-260403-49FB` [high] Startups need 2-3x longer than founders expect to validate their market, and 70% scale prematurely — largely explaining the 90% failure rate.
 - `INS-260403-AA20` [high] The 996 grind culture trades short-term velocity for compounding burnout costs that destroy long-term startup viability.
@@ -38,6 +38,7 @@
 - `INS-260330-0E4B` [high] At scale, force daily multi-hour cross-functional calls where every discipline shares trade-offs and hears how their decisions affect others.
 - `INS-260329-97C1` [high] Ramsey Solutions' diverse product mix (radio, books, courses, coaching, app, endorsements) prevented stair-step growth by having different products peak at different times.
 - `INS-260327-1EC4` [high] Anderson's first piece of advice to scaling founders: don't hire professional managers, because they will implement the bureaucratic systems they were trained in.
+- `INS-260412-E5CC` [high] Air traffic control sectors dynamically combine at night and split during peak hours, matching controller allocation to actual demand rather than fixed assignments.
 - `INS-260403-0D24` [high] eDreams focused on unit economics and EBITDA from day one, reaching unicorn status with real profits rather than just a billion-dollar valuation on paper.
 - `INS-260330-2E1E` [high] The Assyrians extended their empire beyond their road network, making administration impossible and contributing to collapse.
 - `INS-260330-72BD` [high] The Mongol Empire splintered into four separate khanates after Genghis Khan's death because conquest outpaced institutional development.

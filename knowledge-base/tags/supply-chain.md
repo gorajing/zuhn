@@ -26,6 +26,7 @@
 - `INS-260404-95CA` Project Vault pairs $12B in reserves with bilateral agreements across 11 countries, recognizing that mineral security requires allied coordination, not just stockpiling.
 - `INS-260403-7779` China's share of US imports fell from over one-fifth to less than one-thirteenth, but America's overall trade deficit remains largely unchanged.
 - `INS-260405-1CC3` The US-Taiwan deal reduces tariffs from 20% to 15% contingent on $500B in US semiconductor investment, making trade policy a reshoring mechanism.
+- `INS-260412-9DEE` The US-China trade deficit made westbound Pacific shipping near-free, enabling an entire global recycling industry that collapsed when China closed the receiving end.
 - `INS-260325-2BB0` TSMC makes roughly 90% of advanced processor chips used in phones, computers, and AI — an unprecedented concentration of critical manufacturing in one company in one geopolitically sensitive location.
 - `INS-260404-2AD7` China banning foreign AI chips from state data centers and the US securing $1.4B in rare-earth deals indicate a permanent split in AI hardware supply chains.
 - `INS-260327-048B` Domino's franchisees earn only 11% margins while the corporate entity makes most of its money selling cheese, dough, and ingredients at markup to its own franchise network.

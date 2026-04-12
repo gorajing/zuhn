@@ -54,7 +54,7 @@ related:
   - INS-260412-A77B
   - INS-260410-E47B
   - INS-260403-EC09
-  - INS-260412-907D
+  - INS-260412-9DEE
 ---
 During the 2008 financial crisis, Maersk faced collapsing demand and surging fuel costs. A working group proposed simply going slower — running ships at 14-18 knots instead of the designed 22. The industry had long assumed this would damage engines, but Maersk proved that belief false. The result was 10-25% fuel savings per journey, and slow steaming became standard practice industry-wide.
 

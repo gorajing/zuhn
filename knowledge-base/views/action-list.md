@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-12 | 4889 actionable insights
+Generated on 2026-04-12 | 4896 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -667,6 +667,7 @@ Generated on 2026-04-12 | 4889 actionable insights
 - [INS-260410-1430] Structurally isolate credentials from Claude's execution environment rather than relying on narrow token scopes, because scope-based mitigations depend on assumptions about model capability that get weaker over time.
 - [INS-260410-0C77] Desktop Extensions declare user_config with a 'sensitive: true' flag, and Claude Desktop stores those values in the OS keychain rather than leaving them in JSON files.
 - [INS-260412-2B01] Only compute what the consumer actually inspects — everything else can remain a stub until accessed.
+- [INS-260412-B252] Eurocontrol distributes flight plans to all downstream control centers before takeoff, ensuring each controller has context before receiving the aircraft.
 
 ## ai-development/systems-design
 - [INS-260404-C663] Components tuned for original conditions do not just underperform in new environments — they generate actively harmful outputs.
@@ -1053,6 +1054,7 @@ Generated on 2026-04-12 | 4889 actionable insights
 - [INS-260410-F1F1] Genuinely great opportunities come five or six times in a lifetime — when you know you have an edge, the correct response is to bet heavily, not to diversify.
 - [INS-260411-4967] A profit pool chart with ROIC-WACC on the y-axis and invested capital on the x-axis instantly shows which industry participants create versus destroy value and how much capital is at stake.
 - [INS-260411-2B1D] The value stick (WTP minus Price minus Cost minus WTS) breaks value creation into consumer surplus, firm value, and supplier surplus, revealing precisely where a company's strategy creates and captures value.
+- [INS-260412-55F4] Dubai grew faster than Abu Dhabi despite being farther from the oil because it captured the administrative and economic coordination layer.
 
 ## investing/business-quality
 - [INS-260411-CBCF] Interbrand's top 25 global brand rankings show weak correlation with ROIC-WACC spreads, proving that brand recognition alone does not constitute a competitive advantage.
@@ -1440,6 +1442,7 @@ Generated on 2026-04-12 | 4889 actionable insights
 - [INS-260412-FA41] When vaccines eliminate visible disease, people compare rare vaccine side effects against a now-invisible threat, making vaccines seem riskier than the disease.
 - [INS-260412-5F4D] Chronic loneliness makes your brain pay more attention to social cues but interpret them less accurately, biasing toward hostility.
 - [INS-260412-774E] After crowd disasters, blame consistently falls on participant character rather than system design flaws, preventing real fixes.
+- [INS-260412-4127] Customers with 10,000 miles will pay 5% more for an American flight rather than start from zero with United — sunk cost fallacy becomes a designed moat.
 
 ## psychology/communication
 - [INS-260330-3570] Arguments that start by explicitly naming what is being disagreed about — and what is not — dramatically outperform arguments that jump straight into positions.
@@ -2462,6 +2465,7 @@ Generated on 2026-04-12 | 4889 actionable insights
 - [INS-260410-9C58] The $60 membership and bulk pack sizes select for customers who have cash flow flexibility, storage space, and a willingness to plan ahead — yielding the wealthiest customer base of any major US retailer despite the lowest prices.
 - [INS-260410-1D7A] Sol Price's 'intelligent loss of sales' principle: forgo customers who only need 3 oz of WD-40 so you can carry only the 8 oz can — the SKU reduction unlocks logistics, labor, and supplier benefits that dwarf the lost revenue.
 - [INS-260410-EFD5] Costco's refusal to raise the hot dog or rotisserie chicken price is a deliberate sacred anchor — the signal that the whole store is cheap is worth far more than the margin.
+- [INS-260412-F566] As merely wealthy people travel to be seen, the ultra-wealthy increasingly pay premium prices to disappear — making privacy itself the ultimate luxury product.
 
 ## startups/co-founders
 - [INS-260323-0B5E] Teams that default to 'more meetings and re-strategizing' instead of shipping are using planning as emotional avoidance of the market test they fear.
@@ -4003,6 +4007,7 @@ Generated on 2026-04-12 | 4889 actionable insights
 - [INS-260410-2952] Church explicitly hires for niceness and multidisciplinarity over genius, producing an international alumni network that cooperates across supposedly cutthroat fields and spawns 100+ companies.
 - [INS-260410-E076] Dwarkesh received ~1000 applications for a chief-of-staff role through his large platform, but ended up hiring (and finding top contenders) via mutual friends — evidence that elite generalists don't self-apply.
 - [INS-260410-362D] Epic hires almost exclusively from Midwestern colleges regardless of major, gives programming-test-based offers with no interview, and then drills them for six months in 'the Epic way'—down to how to take notes on a legal pad and write emails.
+- [INS-260412-2DEF] The US foreign service's tiered hardship and danger pay system voluntarily fills the worst postings by transparently pricing difficulty into compensation.
 
 ## startups/ideation
 - [INS-260321-E471] Most founders filter out ideas requiring more than two years to work, so simply imagining ideas with longer timelines dramatically reduces competition.
@@ -4546,6 +4551,7 @@ Generated on 2026-04-12 | 4889 actionable insights
 - [INS-260410-9F29] The coffee was the conduit. The product was community.
 - [INS-260410-3C05] AWS launched bare-bones S3 and EC2 while Microsoft Azure Cloud Services and Google App Engine launched opinionated PaaS offerings — AWS captured the market because primitives enable both lift-and-shift and new-build use cases.
 - [INS-260410-277B] Spotify realized it could own audiobooks and podcasts because German labels had already started quietly uploading audiobooks to its music platform.
+- [INS-260412-B69B] Israel's 1-6 risk scoring system applies intensive screening only to high-risk passengers while low-risk travelers pass through quickly, achieving better security with less aggregate friction.
 
 ## startups/quality
 - [INS-260330-FA4D] Byron Ferguson spine-tests every arrow and discards out-of-tolerance ones before they ever enter his quiver — precision is built in preparation, not performance.
@@ -4971,6 +4977,7 @@ Generated on 2026-04-12 | 4889 actionable insights
 - [INS-260405-7ACC] CAC and churn are the two variables that determine whether a SaaS business is structurally viable — everything else is execution.
 - [INS-260405-4B5D] The 3:1 LTV:CAC threshold is the minimum ratio at which SaaS unit economics justify growth spend.
 - [INS-260410-0D14] Every new store had to clear a 2:1 sales-to-investment ratio and 20% operating margin — no exceptions, for decades.
+- [INS-260412-A52B] Purchase frequency directly determines how many people you need in a radius to sustain one location of a business.
 
 ## startups/validation
 - [INS-260323-F9E5] The most expensive period of a failing startup is not the building phase — it's the denial phase after the founder already knows it won't work.

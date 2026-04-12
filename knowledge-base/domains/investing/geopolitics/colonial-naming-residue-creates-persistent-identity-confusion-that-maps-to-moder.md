@@ -52,10 +52,10 @@ stance: >-
 related:
   - INS-260403-0550
   - INS-260410-8B2C
+  - INS-260412-8A13
   - INS-260410-C207
   - INS-260323-F963
   - PRI-260323-B798
-  - INS-260403-91DB
 ---
 When West African nations gained independence, multiple chose to include 'Guinea' — the colonial name for the broader region — in their national names, creating Guinea, Guinea-Bissau, and Equatorial Guinea. This naming collision is not cosmetic; it creates real friction in trade recognition, investor pattern-matching, and diplomatic identity.
 

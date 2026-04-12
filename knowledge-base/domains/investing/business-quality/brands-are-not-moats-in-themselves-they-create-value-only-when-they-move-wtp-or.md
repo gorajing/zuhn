@@ -60,7 +60,8 @@ related:
   - INS-260403-8BA2
   - INS-260402-E040
   - INS-260410-FA70
-  - INS-260327-EF89
+  - INS-260412-94D9
+  - INS-260412-93EA
 ---
 Mauboussin argues that brands are commonly but incorrectly cited as sources of sustainable value creation. Plotting Interbrand's 2024 top 25 global brands against their 2023 ROIC-WACC spreads reveals no reliable relationship: Samsung (#4 brand) has a near-zero spread, Toyota (#5) and Mercedes-Benz (#7) have modest spreads, while Apple (#1) and Microsoft (#2) have large positive spreads. A well-known brand does not always create value.
 

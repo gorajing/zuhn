@@ -2,6 +2,7 @@
 
 - `INS-260403-6E7C` The U.S. benefits from a trust premium built over decades that could evaporate far faster than it was accumulated.
 - `INS-260404-F5C3` The killing of Iran's Supreme Leader represents an irreversible escalation that forecloses diplomatic off-ramps.
+- `INS-260412-B3A3` Authoritarian development models like Rwanda's concentrate institutional knowledge and legitimacy in a single leader, creating a catastrophic and unhedgeable succession risk that investors consistently underprice.
 - `INS-260330-8F72` Chinese dynastic history reveals a recurring cycle of institutional vigor → consolidation → complacency → collapse that maps onto corporate and political institutions today.
 - `INS-260403-2225` U.S. monetary regime changes have been crisis-forced rather than voluntarily chosen, from the 1907 Panic creating the Fed to France's gold demands ending Bretton Woods.
 - `INS-260327-F389` Napoleon's coup succeeded because he had both the popular fame that made opposition politically costly and enough insiders (Sieyes, Talleyrand) to open the institutional doors.

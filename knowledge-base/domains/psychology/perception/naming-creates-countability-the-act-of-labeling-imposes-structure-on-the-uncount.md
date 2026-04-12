@@ -52,11 +52,11 @@ stance: >-
   structured one through systematic labeling — is the foundational move of every
   taxonomy, ontology, and knowledge system.
 related:
+  - INS-260412-8A13
   - INS-260330-C8ED
   - PRI-260328-8516
   - INS-260330-0C0C
   - INS-260330-6494
-  - INS-260404-FDEA
 evidence:
   - id: INS-260330-0C0C
     type: EXTENDS

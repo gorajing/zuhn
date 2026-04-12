@@ -65,6 +65,7 @@ related:
   - INS-260403-7B41
   - INS-260330-1A63
   - INS-260404-124F
+  - INS-260412-90B3
 ---
 The Sales Medic Group breaks MEDDIC metrics into two tiers: M1 (proof-point metrics from existing customers) and M2 (prospect-specific metrics uncovered through discovery). The critical insight is that M1 unlocks M2 — you cannot do effective discovery if the prospect doesn't trust you yet.
 

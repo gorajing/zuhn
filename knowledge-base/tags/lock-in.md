@@ -1,10 +1,11 @@
 # Tag: lock-in
 
 - `INS-260403-330E` In capital-intensive infrastructure markets, early movers who solve the core technical problem create nearly permanent competitive positions.
-- `INS-260404-0BED` RuBisCo was adequate in a low-oxygen world but became deeply flawed when plants changed the atmosphere, yet plants couldn't switch away.
 - `INS-260405-8469` RuBisCo is a mediocre enzyme that became the planet's most abundant protein precisely because all life built its infrastructure around it before better options could evolve.
 - `INS-260403-CE5F` Costco's mandatory membership triggers sunk-cost reasoning on every shopping trip, while Amazon Prime's optional nature lets non-subscribers self-select out.
 - `INS-260405-02EE` Plants evolved RuBisCo in a low-oxygen world, then their own photosynthesis filled the atmosphere with O2 — the enzyme they were locked into now malfunctions half the time because of the environment they created.
+- `INS-260412-4127` Customers with 10,000 miles will pay 5% more for an American flight rather than start from zero with United — sunk cost fallacy becomes a designed moat.
+- `INS-260404-0BED` RuBisCo was adequate in a low-oxygen world but became deeply flawed when plants changed the atmosphere, yet plants couldn't switch away.
 - `INS-260330-5C64` Users make one unrelated choice (e.g., buying a phone) that forces dozens of subsequent choices, creating compounding lock-in that no single service could generate independently.
 - `INS-260403-97F8` Switching costs should be deliberately architected into the business model, not left as a byproduct of product stickiness.
 - `INS-260403-2457` RuBisCo is terrible at its job but 450 million years of biological investment make it irreplaceable — the same pattern traps startups in early architectural choices.
@@ -26,7 +27,6 @@
 - `INS-260404-D6EC` ARM's 1,000+ partner ecosystem creates switching costs that no single competitor can overcome, even with superior technology.
 - `INS-260330-F7F4` Apple's ecosystem moat is irrelevant in India because most users never entered it in the first place.
 - `INS-260404-1A18` Photosynthesis has been 'complicated, inefficient and confusing' for 450 million years yet dominates all life on Earth, demonstrating that first-mover lock-in can outlast any degree of technical debt.
-- `INS-260404-1000` RuBisCo is a terrible enzyme that dominates Earth's biology because it arrived first and plants just made 40 billion tons of it to compensate.
 - `INS-260404-CC7C` RuBisCo is evolution's ultimate legacy system — plants produce 40 billion tons of a bad enzyme rather than redesign the core pathway.
 - `INS-260330-0B4A` RuBisCo — the most abundant protein on Earth at 40 billion tons — is demonstrably bad at its job, confusing O2 for CO2 half the time, yet plants are permanently locked into it.
 - `INS-260404-FAE9` RuBisCo's 450-million-year reign shows that dominant systems compensate for flaws rather than replace core mechanisms.
@@ -40,3 +40,4 @@
 - `INS-260404-3B9D` RuBisCo is a terrible enzyme that won by being first and scaling to 40 billion tons rather than being replaced by something better.
 - `INS-260405-F20F` RuBisCo, an enzyme that makes catastrophic errors 50% of the time, remains the planet's dominant carbon-fixing enzyme because plants went all-in on it before oxygen made it dysfunctional.
 - `INS-260330-4489` RuBisCo is terrible at its job but plants produce 40 billion tons of it rather than evolving a better enzyme — a biological case study in scale-over-quality lock-in.
+- `INS-260404-1000` RuBisCo is a terrible enzyme that dominates Earth's biology because it arrived first and plants just made 40 billion tons of it to compensate.

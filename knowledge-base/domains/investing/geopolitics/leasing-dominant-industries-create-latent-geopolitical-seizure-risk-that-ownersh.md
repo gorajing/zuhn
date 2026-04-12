@@ -55,7 +55,6 @@ stance: >-
   are structurally more vulnerable to geopolitical sanctions because asset
   control can be severed remotely by foreign lessors or their governments.
 related:
-  - INS-260410-B47B
   - INS-260412-E71C
   - INS-260412-60EC
   - PRI-260328-37D8

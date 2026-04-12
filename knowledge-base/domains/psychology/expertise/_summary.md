@@ -1,6 +1,6 @@
 # Topic: expertise
 
-> 76 insights
+> 77 insights
 
 - `INS-260402-F3D7` [high] Having an audience prevents the natural tendency to stop thinking at exactly the point where deeper exploration would be most valuable.
 - `INS-260403-EA34` [high] Building skills must be developed early because they require sustained focus, but selling skills can be added later.
@@ -56,6 +56,7 @@
 - `INS-260403-497B` [medium] Leadership titles are stepping stones to career optionality, not end destinations — optionality enables you to craft work on your own terms.
 - `INS-260403-83E2` [medium] Once you're established, you lose the freedom to mess around with random projects — and that freedom was the source of your best ideas.
 - `INS-260410-3697` [medium] Michelson kept believing in the ether until his death in 1929; Poincaré had all the mathematical pieces for special relativity but couldn't let go of a dynamical interpretation of length contraction.
+- `INS-260412-0F9A` [medium] Air traffic controllers spend entire careers in a single sector group, building deep spatial knowledge of their specific airspace geometry that enables safe split-second decisions.
 - `INS-260403-F60C` [medium] Deep knowledge of how code fails makes technologists rationally skeptical of smart devices and automated systems.
 - `INS-260404-0570` [medium] You must develop your own quality judgments because institutional gatekeepers' incentives often diverge from honest evaluation.
 - `INS-260403-5808` [medium] Earnestness isn't the opposite of one thing — it's the center that many different failure modes orbit.

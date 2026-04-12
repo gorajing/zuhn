@@ -57,6 +57,8 @@ related:
   - PRI-260406-CC5E
   - INS-260403-21E1
   - INS-260404-707C
+  - INS-260412-839B
+  - INS-260412-DAC5
 ---
 Many VC funds deploy too much capital upfront and lack reserves to participate in later rounds of their best companies. As winners raise larger rounds at higher valuations, funds without reserves get diluted out of meaningful ownership. The recycling dimension — returning early capital to reinvest — compounds this further.
 

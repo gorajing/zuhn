@@ -1,6 +1,6 @@
 # Topic: macro
 
-> 34 insights
+> 35 insights
 
 - `INS-260411-FC21` [high] Capital formation drives GDP growth, R&D, and jobs — 80% of R&D and 70% of capex comes from large companies, and countries like Sweden that promote retail investment outperform those that don't.
 - `INS-260412-C17E` [high] Incompatible EV charging standards split the installed base and prevent any single network from reaching critical density.
@@ -22,6 +22,7 @@
 - `INS-260412-F401` [high] Container shortages worsened port congestion, which worsened container shortages, which worsened truck driver shortages — each shortage feeding the next in a vicious cycle.
 - `INS-260410-147B` [high] China built a magnificent production machine but no demand machine — the result is deflation, shrinking pricing power, and growth below potential even as tech capacity soars.
 - `INS-260412-10F1` [high] The 2021 shipping crisis showed that a 25% demand increase caused delays and costs to spiral far beyond 25% because congestion compounds through interdependent chokepoints.
+- `INS-260412-839B` [high] China's recycling ban proved that private-sector profitability masking national-level losses is an unstable equilibrium that regulators eventually correct.
 - `INS-260405-AB6B` [high] The SRF caps rates by providing unlimited cash against collateral; the RRP floors rates by offering a guaranteed return that crowds out sub-Fed-rate private lending.
 - `INS-260405-F6E6` [high] America's $32B agricultural trade deficit in 2024 signals a structural shift after decades as a net food exporter.
 - `INS-260405-25DD` [high] December 31 Fed facility spikes are a predictable accounting artifact of banks shrinking balance sheets for year-end regulatory snapshots.

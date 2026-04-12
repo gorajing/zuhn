@@ -16,10 +16,10 @@
 - `INS-260403-AFC4` Paradigms shape not just what we think but the mental components we think with, creating invisible evaluation bias against novel ideas.
 - `INS-260412-3C98` If giant viruses hid in plain sight until 2003, every mature field likely contains fundamental phenomena we're miscategorizing or ignoring.
 - `INS-260409-02C5` The standard model of cosmology still explains the CMB, primordial hydrogen/helium abundances, and large-scale galaxy clustering with extraordinary precision; the cracks are real but localized, and conflating 'in crisis' with 'dead' is a category error.
-- `INS-260323-E77E` Bohm and Aharonov, both academic outsiders — one exiled by McCarthyism, the other a student — overturned 200 years of physics consensus because their marginalization freed them from orthodoxy.
-- `INS-260330-0FCC` Disciplinary training creates perceptual filters that make anomalies invisible to insiders but obvious to outsiders.
 - `INS-260330-DBA4` We abandoned solar time because mechanical clocks were more regular than the sun, choosing invented precision over natural truth.
 - `INS-260330-F9FB` The tallest human structures shifted from pushing against gravity (compression) to hanging from anchor points (tension), revealing how reframing constraints unlocks new solution spaces.
+- `INS-260323-E77E` Bohm and Aharonov, both academic outsiders — one exiled by McCarthyism, the other a student — overturned 200 years of physics consensus because their marginalization freed them from orthodoxy.
+- `INS-260330-0FCC` Disciplinary training creates perceptual filters that make anomalies invisible to insiders but obvious to outsiders.
 - `INS-260403-A862` Incumbents' existing architecture and customer base anchor them to old threat models when the battleground shifts.
 - `INS-260327-98DE` AI breakthroughs that look like bugs will become common across all knowledge work.
 - `INS-260403-E492` Waiting for disease then treating it ('sick care') can't overcome aging's exponential decay — only preemptive renewal ('health care') can.

@@ -53,6 +53,5 @@ related:
   - PRI-260406-66BA
   - INS-260403-8DE1
   - PRI-260406-1EF3
-  - INS-260409-05F8
 ---
 The essay's sharpest observation: 'The finger that points at the moon is not the moon.' Direct contemplative experience gets turned into doctrine, doctrine hardens into belief, and institutions get built around the beliefs. Then the institution's survival instincts take over — it protects the wrapper rather than the contents. This is a general pattern far beyond religion: scientific paradigms, management methodologies, design systems, even startup 'playbooks' follow the same arc. The first generation has direct contact with the problem; the second inherits the rules; the third defends the rules against people who have direct contact with the problem. If you want the insight, you usually have to go back to the source or re-derive it first-hand.

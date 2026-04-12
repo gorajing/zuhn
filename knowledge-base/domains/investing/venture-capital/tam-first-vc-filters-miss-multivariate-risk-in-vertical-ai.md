@@ -54,6 +54,7 @@ related:
   - PRI-260406-A33C
   - PRI-260406-7ED0
   - INS-260405-3403
+  - INS-260412-B69B
 ---
 Traditional VC screening starts with market size—is this a $1B+ opportunity? But in Vertical AI, the most defensible businesses often address markets that look small under naive TAM analysis, because they require deep domain integration that creates switching costs invisible to surface-level sizing. Euclid's framing is that the better filter is multivariate risk: can this company achieve distribution, avoid commoditization as models improve, and build data moats before incumbents respond?
 

@@ -42,9 +42,9 @@ stance: >-
 related:
   - INS-260323-9F61
   - PRI-260328-F0B4
+  - INS-260412-2648
   - PRI-260328-F497
   - INS-260403-20B1
-  - PRI-260406-0ACE
 ---
 Airlines only generate sustainable profits when they achieve hub dominance that reduces competition on specific routes, allowing pricing power that the open market would eliminate.
 

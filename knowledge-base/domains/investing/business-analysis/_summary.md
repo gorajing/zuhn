@@ -1,8 +1,9 @@
 # Topic: business-analysis
 
-> 24 insights
+> 27 insights
 
 - `INS-260410-641D` [high] An acquisition serving three strategic purposes simultaneously is worth far more than critics who grade on one dimension will estimate — YouTube went from 'Google's worst mistake' to a $500B business.
+- `INS-260412-55F4` [high] Dubai grew faster than Abu Dhabi despite being farther from the oil because it captured the administrative and economic coordination layer.
 - `INS-260410-C89B` [high] Greg Abel in the 2025 letter: 'At Berkshire's scale, the math of compounding works against us — a reality long understood and best acknowledged plainly. Our opportunity is improvement in per-share value over the long term, even when progress comes in smaller increments.'
 - `INS-260410-DA0E` [high] Amazon used the 2000-2007 dot-com winter—when everyone else was retrenching—to build the fulfillment, Prime, and Marketplace infrastructure that became its permanent moat.
 - `INS-260412-1038` [high] The Lee family controls Samsung's 59 affiliates through cascading cross-ownership where each entity's operating profits buy controlling stakes in the next, amplifying control geometrically beyond actual capital invested.
@@ -15,6 +16,7 @@
 
 - `INS-260410-5981` [high] Because AI businesses run at ~50% gross margins instead of the ~80% typical of software, chip cost differentials flow directly to the bottom line, making vertical integration a durable advantage.
 - `INS-260410-6CE5` [high] Greg Abel signals that 2026 will see Berkshire write LESS property-casualty and reinsurance business because 'additional capital entered the market, resulting in lower pricing' — deliberate shrinkage rather than chasing a softening cycle.
+- `INS-260412-E317` [high] United's MileagePlus was valued at $21.9B while the airline's market cap was only $10B, proving the loyalty program is the real business.
 - `INS-260410-F366` [high] MTM on illiquid assets pulls all future revenue forward, leaving zero recurring base and forcing ever-bigger fake deals to maintain growth.
 - `INS-260410-F6FE` [high] Nike mistook the running boom for the fitness boom and refused to do aerobics on principle, letting Reebok overtake them in sales by 1988.
 - `INS-260411-4967` [high] A profit pool chart with ROIC-WACC on the y-axis and invested capital on the x-axis instantly shows which industry participants create versus destroy value and how much capital is at stake.
@@ -28,3 +30,4 @@
 - `INS-260410-F1F1` [high] Genuinely great opportunities come five or six times in a lifetime — when you know you have an edge, the correct response is to bet heavily, not to diversify.
 - `INS-260405-C0AF` [medium] Surviving retailers like Costco, Ross, Aldi, and Dollar General prove physical retail isn't dying — only undifferentiated or maladapted retail is.
 - `INS-260410-9A20` [medium] Staged 'busy office' tours are a fraud tell — real businesses don't need to fake activity for visiting analysts.
+- `INS-260412-10FD` [medium] Superyachts cost roughly 10% of their value annually to maintain, but owners justify this as business infrastructure because a single deal closed on board can pay back the investment many times over.

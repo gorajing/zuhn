@@ -57,12 +57,11 @@ stance: >-
   valuation produce more durable companies than those who optimize for
   fundraising optics.
 related:
-  - INS-260329-D062
   - INS-260329-F2E1
   - INS-260403-955F
   - PRI-260405-0676
   - PRI-260405-49C0
-  - INS-260403-E681
+  - INS-260329-D062
 ---
 Musk's formulation — 'aim to make more than you take' — is a compact version of a principle that shows up across enduring founders: money arrives as a byproduct of value, not the other way around. This isn't naive idealism; it's a competitive strategy. When you optimize directly for valuation, you get companies built around narrative and optics. When you optimize for usefulness, you get compounding.
 

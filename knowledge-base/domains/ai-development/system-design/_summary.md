@@ -1,12 +1,13 @@
 # Topic: system-design
 
-> 18 insights
+> 19 insights
 
 - `INS-260410-1ED3` [high] In agentic systems a minor bug cascades across many turns, so production requires resumable execution, retry logic, and rainbow deployments — not stateless request handling.
 - `INS-260412-B89F` [high] At planetary construction scale, humans become controllers overseeing autonomous machine armies rather than direct operators.
 - `INS-260410-A27C` [high] Because agents are non-deterministic across runs, grade final outputs with an LLM judge on a rubric and start with ~20 real queries — not hundreds of rigid test cases.
 - `INS-260404-9C57` [high] Photosynthesis converts chaotic photon energy into standardized ATP and NADPH currencies before the Calvin Cycle consumes them, enabling the two stages to evolve independently.
 - `INS-260410-1430` [high] Structurally isolate credentials from Claude's execution environment rather than relying on narrow token scopes, because scope-based mitigations depend on assumptions about model capability that get weaker over time.
+- `INS-260412-B252` [high] Eurocontrol distributes flight plans to all downstream control centers before takeoff, ensuring each controller has context before receiving the aircraft.
 - `INS-260412-2B01` [high] Only compute what the consumer actually inspects — everything else can remain a stub until accessed.
 - `INS-260410-31AA` [high] Nadella frames AI as an emulator of a simulator and quantum as a simulator of nature, arguing the future stack uses quantum to generate synthetic training data that trains AI models for chemistry, physics, and biology.
 - `INS-260404-B1BC` [high] Lisp's nine radical ideas from 1958 gradually became standard features in mainstream languages, proving theoretical purity wins over time.

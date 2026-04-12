@@ -12,6 +12,7 @@
 - `INS-260404-FDB2` Being an accidental moderate requires more courage than being an extremist because you face attacks from both sides with no group to sustain you.
 - `INS-260405-E06B` When elite culture enforces a consensus, many people mouth the consensus publicly while holding different views privately — a stable equilibrium Graham calls 'bad table manners.'
 - `INS-260402-FFCB` Bret Weinstein's taxonomy — witch-hunters, followers, silent majority, and resisters who become the witches — describes a recurring social pattern where opposition to a movement gets recast as the very evil being hunted.
+- `INS-260412-F730` The ultra-wealthy follow a structured social calendar not because they enjoy the events, but because absence signals declining status within their peer network.
 - `INS-260403-E9DD` Traditional education's emphasis on obedience and standardization produces wisdom at the expense of intelligence by suppressing the idiosyncratic interests that drive peak performance.
 - `INS-260329-03C1` When you force yourself to name the specific person whose judgment you fear, you realize it's usually someone who won't even be at your funeral.
 - `INS-260324-ABAC` Steakhouses make up over half of the top 100 highest-grossing US restaurants because customers show up expecting to spend $50-100 per steak — the more predictable the menu and experience, the better.

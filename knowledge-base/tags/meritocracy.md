@@ -1,9 +1,9 @@
 # Tag: meritocracy
 
+- `INS-260327-70EF` Napoleon created many marshals for political reasons — rewarding loyalty, balancing factions — which diluted the rank and made it unreliable as an indicator of capability.
 - `INS-260402-AD42` Sufficiently corrupt tests invert their purpose and select against the people they should be selecting for.
 - `INS-260403-7644` Organizations that win by exercising power gradually lose the ability to win by doing better work.
 - `INS-260410-C474` Paine argues Bismarck's manipulation of Europe's monarchs demonstrated the structural incompetence of inherited leadership, because kings selected by birth rather than skill consistently failed to see strategic patterns a competent peer group would have caught.
-- `INS-260327-70EF` Napoleon created many marshals for political reasons — rewarding loyalty, balancing factions — which diluted the rank and made it unreliable as an indicator of capability.
 - `INS-260403-8A25` Cram schools reveal the exact weaknesses in any credentialing system—their decline signals the system is becoming harder to game.
 - `INS-260403-47C0` Power has been steadily transferring from charismatic dealmakers to technically competent people for a century, and nothing on the horizon reverses this.
 - `INS-260321-3D65` Fresh graduates (23-25) who grew up vibe coding think differently and generate the best new ideas at AI companies.

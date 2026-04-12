@@ -47,7 +47,6 @@ stance: >-
   compassion toward perpetrators systematically harm the poor communities they
   claim to protect.
 related:
-  - INS-260330-2EF0
   - INS-260330-84BD
   - INS-260403-8C12
   - PRI-260328-A4AC

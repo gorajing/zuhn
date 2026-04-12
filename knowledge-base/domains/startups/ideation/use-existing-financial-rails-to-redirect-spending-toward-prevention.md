@@ -45,12 +45,13 @@ resolutions:
     potential is hundreds of billions redirected toward prevention using
     mechanisms that already exist.
 related:
+  - INS-260412-3829
   - INS-260405-4D81
   - INS-260329-C6BB
   - INS-260327-8D86
   - INS-260403-738F
-  - INS-260404-00DE
   - INS-260403-F98F
+  - INS-260412-8401
 stance: >-
   Truemed built infrastructure that lets people use existing tax-free HSA/FSA
   dollars on lifestyle interventions, redirecting billions toward prevent...

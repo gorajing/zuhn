@@ -1,5 +1,6 @@
 # Tag: trade-policy
 
+- `INS-260412-839B` China's recycling ban proved that private-sector profitability masking national-level losses is an unstable equilibrium that regulators eventually correct.
 - `INS-260403-42BA` Trump's tariffs caused a 32% drop in Midwest PE deals and 26% in the Southeast, revealing how trade policy creates geographic funding disparities.
 - `INS-260403-CCCC` While the statutory US tariff rate was 27.5% in September 2025, the actual rate importers paid was only about 14% due to extensive carve-outs, USMCA compliance, and product-specific exemptions.
 - `INS-260327-7605` Napoleon's Continental System hurt Russia's economy more than Britain's, causing Russia to secretly resume trade and triggering the 1812 invasion.

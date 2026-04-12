@@ -54,11 +54,11 @@ related:
   - INS-260402-6BB6
   - INS-260403-922C
   - INS-260403-1AD3
-  - INS-260404-EF52
   - INS-260403-B0E3
   - PRI-260406-E015
   - INS-260403-3EDE
   - PRI-260406-3AE8
+  - INS-260411-F649
 ---
 Dwarkesh frames this as a general principle illustrated by China: 'It's a good reminder of how easy it is to completely wreck an innovation landscape that depends on risk-taking investors.' Once founders and VCs internalize that the government might cancel your IPO, jail your founders (Jack Ma), or change the rules mid-game, the rational response is to demand much higher returns or simply not play. This isn't fixed by reversing the original policy, because trust takes far longer to rebuild than to destroy.
 

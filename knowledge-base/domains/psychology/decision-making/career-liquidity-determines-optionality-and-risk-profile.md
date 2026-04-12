@@ -54,6 +54,7 @@ related:
   - INS-260404-B640
   - PRI-260406-E5FB
   - INS-260403-9149
+  - INS-260412-B69B
 ---
 Applying the investment concept of liquidity to careers reveals an underappreciated dimension of career decisions. Linear, credentialed paths (consulting, medicine, engineering at large firms) function like liquid assets—easily transferable, broadly valued, with clear market pricing. Non-linear paths (founding a company, creative careers, niche expertise) behave like illiquid investments—harder to exit, harder to value, but with potentially outsized returns.
 

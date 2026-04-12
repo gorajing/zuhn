@@ -49,11 +49,11 @@ stance: >-
   disruptive than the dollar-based system because no large trustworthy entity
   manages gold's price, making it subject to rapid destabilizing swings.
 related:
-  - INS-260403-24AE
   - INS-260330-6411
   - INS-260409-AD81
   - INS-260403-9149
-  - INS-260404-FB91
+  - INS-260412-B3A3
+  - INS-260403-24AE
 ---
 Goldbugs argue that gold's natural scarcity and independence from central bank interference make it inherently stable. But the opposite is true — the absence of a large, trustworthy price-managing entity means gold is subject to rapid price swings, as demonstrated by sharp selloffs even during peak uncertainty periods. If global payment and collateral systems were denominated in gold, those swings would propagate through the entire financial system.
 

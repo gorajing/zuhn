@@ -62,8 +62,8 @@ related:
   - INS-260403-7779
   - INS-260330-9BC4
   - INS-260404-DA3A
+  - INS-260412-9DEE
   - INS-260405-3753
-  - INS-260403-6988
 ---
 For most of modern history, the US has been a dominant agricultural exporter, running consistent trade surpluses in food. In 2024, that surplus flipped to a $32 billion deficit — a reversal that reflects the compounding of farm input cost inflation, water depletion in key growing regions, labor shortages, and demand patterns the domestic supply chain was not built to serve.
 

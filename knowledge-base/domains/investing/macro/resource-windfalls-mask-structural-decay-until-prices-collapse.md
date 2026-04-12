@@ -65,8 +65,8 @@ related:
   - INS-260403-9D90
   - INS-260409-1DD3
   - PRI-260328-0993
+  - INS-260412-55F4
   - INS-260325-B315
-  - INS-260327-A654
 ---
 Paine highlights that 80% of Soviet hard currency earnings from 1973–1985 came from oil, which the regime used to import grain it couldn't produce, to prop up Eastern European satellites, and to fund the Red Army and Third World clients like Angola, Ethiopia, and Nicaragua. The oil income was a life-support system disguised as economic success; during this period growth statistics looked tolerable even as the underlying productive system decayed.
 

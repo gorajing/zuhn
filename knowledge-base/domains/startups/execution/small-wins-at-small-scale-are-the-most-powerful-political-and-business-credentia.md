@@ -55,7 +55,7 @@ related:
   - INS-260330-0FF7
   - INS-260327-E30A
   - INS-260329-B194
-  - INS-260327-7E6F
+  - INS-260412-8401
 ---
 Bukele's path from Nuevo Cuscatlán mayor to president follows a pattern that maps directly to startup scaling: prove it works small, then use that proof to earn the right to go bigger. His tiny town became a living case study — journalists couldn't find a single critic, literacy went from 15% to near-universal, and the homicide rate dropped to near zero. These weren't projections or promises; they were observable, verifiable results.
 

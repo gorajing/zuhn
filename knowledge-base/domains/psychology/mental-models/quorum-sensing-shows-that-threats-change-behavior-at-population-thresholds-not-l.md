@@ -59,6 +59,7 @@ related:
   - INS-260330-C8B4
   - INS-260325-C2DA
   - PRI-260406-BA3B
+  - INS-260412-1863
 ---
 The video describes how bacteria initially 'fly under the radar' after entering a wound, doubling every 20 minutes. Only when a certain population threshold is reached do they collectively change behavior and begin damaging the body by altering the environment around them. This is quorum sensing — a phase transition triggered by population density rather than any individual bacterium's decision.
 

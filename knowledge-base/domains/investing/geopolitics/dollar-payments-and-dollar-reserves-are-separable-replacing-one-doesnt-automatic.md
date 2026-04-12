@@ -60,6 +60,7 @@ related:
   - INS-260403-A87D
   - INS-260327-9BE8
   - INS-260330-516E
+  - INS-260412-56D5
 ---
 People conflate three distinct dollar roles: payments denomination, reserve asset holding, and collateral for lending. In modern currency markets, a bank can swap rupees for dollars instantly to settle a payment, then the receiving bank swaps dollars for yuan — nobody holds dollars for long. This means the proliferation of yuan-based or other non-dollar payment systems doesn't automatically erode dollar reserve demand.
 

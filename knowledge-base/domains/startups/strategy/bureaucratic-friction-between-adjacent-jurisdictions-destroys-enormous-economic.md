@@ -53,10 +53,10 @@ stance: >-
   especially for knowledge workers and professional services.
 related:
   - INS-260327-5580
+  - INS-260412-8843
   - INS-260403-5710
   - PRI-260406-7128
   - INS-260324-E785
-  - INS-260330-7220
 evidence:
   - id: INS-260327-10E8
     type: SUPPORTS

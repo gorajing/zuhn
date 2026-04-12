@@ -10,8 +10,8 @@
 - `INS-260327-6E93` Crosby's customers (Cursor, Clay) care about how fast contracts close, not how cheap the review is, because their growth rate makes delay the real cost.
 - `INS-260404-397F` Apple Pay's moat comes from simultaneously delivering seamless UX to consumers, mobile customer access to merchants, business continuity to networks, and fraud reduction to banks — all of which must be matched together.
 - `INS-260403-7E95` Competitive advantage only materializes when outperformance maps to the specific metrics customers use to evaluate success.
-- `INS-260402-7623` Earnings estimates outperform all other supply-side value propositions by an order of magnitude.
 - `INS-260327-C75F` The iPhone and AWS completely eliminated the P2P CDN value proposition by reducing bandwidth costs and changing how people consumed video.
+- `INS-260402-7623` Earnings estimates outperform all other supply-side value propositions by an order of magnitude.
 - `INS-260403-EF20` BioCity transformed their messaging from technical jargon about robotic compound retrieval to emotionally resonant language about control and budget maximization.
 - `INS-260403-AEAF` The same attributes that built a brand's dominance can become its biggest handicap when customer values shift.
 - `INS-260405-95D1` Removing friction meets the baseline; gains require going beyond what customers already expect.

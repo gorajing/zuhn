@@ -64,7 +64,7 @@ related:
   - INS-260330-63FE
   - INS-260327-EDC6
   - INS-260412-B172
-  - INS-260412-22E3
+  - INS-260412-1863
 ---
 When the U-2 first flew over the Soviet Union on July 4, 1956, the Soviets tracked it on radar from takeoff — contrary to US assumptions. But they said nothing for four years, because admitting they could see it would require also admitting they could not shoot it down, which would be a bigger loss of face than quietly letting the US photograph their installations. Meanwhile the US got near-perfect intelligence on Soviet nuclear capability, which let both sides avoid miscalculation and never actually fight.
 

@@ -1,6 +1,6 @@
 # Topic: business-models
 
-> 232 insights
+> 235 insights
 
 - `INS-260410-9246` [high] Visa's interchange is not a fee — it's an envelope of value the network can redistribute to issuing banks, acquiring banks, co-brand merchants, and rewards programs as needed to align behavior.
 - `INS-260410-58A5` [high] F1's durability isn't mostly brand or network effects — it's that the FIA explicitly calls it 'the pinnacle,' a regulatory grant no rival motorsport can replicate with money.
@@ -121,6 +121,7 @@
 - `INS-260403-4E16` [high] Shifting from task-based to outcome-based pricing for AI agents mirrors healthcare's fee-for-service to value-based care transition, emphasizing quality over quantity.
 - `INS-260404-DF95` [high] Payment friction acts as a quality filter that ad-supported models lack, because people won't pay for content they only rage-engage with.
 - `INS-260403-586C` [high] Per-seat pricing breaks down when AI agents do the work instead of humans, forcing a shift to usage or outcome-based billing.
+- `INS-260412-AAB9` [high] The plastics industry's deliberate creation of recycling as a PR solution in 1969 suppressed real alternatives for over 50 years by eliminating consumer and regulatory pressure.
 - `INS-260403-F5EE` [high] People pirate content mostly because it offers a better user experience, not just because it's free — iTunes proved people will pay when buying is easy.
 - `INS-260324-D612` [high] Pizza has the lowest food costs in fast food (flour, canned tomatoes, subsidized cheese), needs minimal space, and 50% of US pizza shops are still independent — unlike burgers where 90% are chains.
 - `INS-260327-C294` [high] Two-sided platforms that subsidize drivers and riders simultaneously create artificial network effects that collapse whe
@@ -189,6 +190,7 @@
 - `INS-260403-754F` [high] Validating that customers want your product is necessary but insufficient — you must also validate that the business model produces more revenue than costs.
 - `INS-260404-19B0` [high] Vertical SaaS companies are scaling ACV by embedding AI to automate more tasks across three waves: Cloud, Fintech, and now AI Inside.
 - `INS-260403-BB22` [high] Great products fail when the surrounding business model — pricing, channels, retention, cost structure — is structurally broken.
+- `INS-260412-56D5` [high] Airlines act as central banks for their own currencies — controlling supply, redemption availability, and being the only entity that can convert points to cash.
 - `INS-260330-D824` [high] WhatsApp's unenforced $1/year fee kept users while covering costs, proving that in network-effect businesses, user retention matters more than per-user monetization.
 - `INS-260327-38BC` [high] Rotating product strategies generate novelty-driven visits but prevent the creation of signature items that form lasting
 - `INS-260405-A1E6` [high] Overpayment patterns expose a company's real bottleneck — follow the money to find the constraint.
@@ -223,6 +225,7 @@
 - `INS-260404-2F57` [medium] Substack achieves meaningful creator ownership — portable subscriber lists, direct payment relationships — without any blockchain infrastructure, because the layer that matters is the relationship, not the protocol.
 - `INS-260403-BE18` [medium] Somali piracy independently reinvented venture capital, equity splits, and performance bonuses because these are convergent solutions to coordination under uncertainty.
 - `INS-260322-0D87` [medium] A Teach for America model for law enforcement — serve 2-4 years, get student debt retired — could solve the policing staffing crisis by resetting cultural stigma and attracting college-educated talent.
+- `INS-260412-F566` [medium] As merely wealthy people travel to be seen, the ultra-wealthy increasingly pay premium prices to disappear — making privacy itself the ultimate luxury product.
 - `INS-260403-F590` [medium] The time required for business model change is driven by organizational readiness, not by how radical the change is.
 - `INS-260330-DA4A` [medium] Mesopotamia invented writing and territorial kingdoms because it lacked basic resources and had to trade for metal, stone, and wood.
 - `INS-260404-BEAA` [medium] Reports of SaaS death are exaggerated, but the sentiment reflects genuine pressure from AI-native tools that can replicate SaaS functionality without traditional subscription models.

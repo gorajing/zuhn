@@ -47,7 +47,6 @@ related:
   - INS-260327-E092
   - INS-260330-51AE
   - INS-260403-6EED
-  - INS-260409-0A28
 evidence:
   - id: INS-260330-BBEE
     type: TRANSFERS_TO

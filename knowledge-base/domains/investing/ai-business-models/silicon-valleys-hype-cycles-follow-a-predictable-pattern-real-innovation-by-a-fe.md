@@ -56,7 +56,6 @@ stance: >-
   genuine breakthroughs by a handful of companies create a narrative that
   thousands of startups co-opt to rationalize unsustainable business models.
 related:
-  - INS-260320-8FFC
   - INS-260327-7265
   - INS-260327-EA4E
   - INS-260403-A232
@@ -66,6 +65,7 @@ related:
   - INS-260327-94F5
   - INS-260327-BE1F
   - INS-260330-10CF
+  - INS-260330-3ECE
 evidence:
   - id: INS-260320-8FFC
     type: CHALLENGES

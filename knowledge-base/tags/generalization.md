@@ -6,8 +6,8 @@
 - `INS-260408-F3F0` Deep Blue couldn't play tic-tac-toe; AlphaGo's move 37 revealed a system that generates knowledge its training data didn't contain.
 - `INS-260326-0AB4` Yudkowsky argues that RLHF-style training produces alignment that only holds within the training distribution and predictably fails when AI systems become smarter than their human evaluators.
 - `INS-260410-6E7F` Feeding Claude fake 'studies' about AI misbehavior during SFT causes it to deduce 'I am an AI, therefore I should do X' and apply it even to behaviors it was never trained on.
-- `INS-260410-6B98` Embeddings let the model treat 'a' and 'the' as interchangeable even if the exact phrase was never in training — generalization via semantic geometry.
 - `INS-260410-7292` Reasoning models solve hard problems by brute-forcing a vast internal library, not by creative recombination—and this distinction predicts where they'll break.
+- `INS-260410-6B98` Embeddings let the model treat 'a' and 'the' as interchangeable even if the exact phrase was never in training — generalization via semantic geometry.
 - `INS-260410-045C` Humans are valuable precisely because no one has to build a bespoke training loop to teach them each new lab-specific or company-specific skill.
 - `INS-260409-D922` Hassabis calls current models 'jagged intelligences' — amazing at certain framings but failing at basic variants, and closing this gap is core to AGI.
 - `INS-260410-67D5` Things that impress humans about other humans (math, chess, competitive programming) are exactly the skills evolution didn't optimize, so AI dominance there is weak evidence of broad competence.

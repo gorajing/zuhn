@@ -52,8 +52,8 @@ related:
   - INS-260412-17AF
   - INS-260323-15F4
   - INS-260325-9F41
+  - INS-260412-94D9
   - INS-260323-584D
-  - INS-260404-8A8A
 ---
 An automated AI system achieved a top-4 ranking among nearly 500 competitors in a forecasting tournament, outperforming almost all human participants. The critical insight is that the competitive edge came not from superior reasoning or domain expertise, but from disciplined data sourcing, multi-step reasoning chains, and well-calibrated uncertainty estimates.
 

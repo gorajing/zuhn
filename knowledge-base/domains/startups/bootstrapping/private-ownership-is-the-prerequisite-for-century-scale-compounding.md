@@ -59,9 +59,9 @@ stance: >-
 related:
   - INS-260403-35CB
   - INS-260405-F374
+  - INS-260412-F566
   - INS-260410-52AE
   - INS-260403-B8A3
-  - INS-260325-FD0F
 ---
 Mars's fifth principle is Freedom, which concretely means: no public shareholders, no debt, no external board pressure. The family has refused photographs for decades and paid off a freelance photographer $20,000 to recover images from a Washington Post article they disliked. This extreme privacy isn't eccentricity — it's strategy.
 

@@ -48,11 +48,12 @@ stance: >-
   with their geographic distribution reflecting and reinforcing geopolitical
   fault lines in AI, finance, aerospace, and communications.
 related:
-  - INS-260321-3EC0
   - PRI-260322-9E36
   - INS-260330-EF74
+  - INS-260321-3EC0
   - INS-260403-361D
   - PRI-260406-0EC6
   - INS-260403-E09C
+  - INS-260412-8843
 ---
 The four companies above $100B — ByteDance (China), SpaceX (US), OpenAI (US), and Ant Group (China) — span AI, aerospace, fintech, and social media, representing the exact domains where US-China competition is most intense. Below them, India's Reliance Retail and Jio Platforms, the UAE's Telegram, and Europe's Revolut and Mistral AI show that technology capital is becoming a proxy for national strategic positioning. This means investment in these companies is not purely a financial decision — it carries geopolitical implications around data sovereignty, defense capability, and economic influence that shape both regulatory risk and return profiles.

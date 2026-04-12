@@ -1,5 +1,6 @@
 # Tag: deal-flow
 
+- `INS-260412-10FD` Superyachts cost roughly 10% of their value annually to maintain, but owners justify this as business infrastructure because a single deal closed on board can pay back the investment many times over.
 - `INS-260404-1B7E` Innovative data strategies are replacing traditional networks as the primary pre-seed deal sourcing mechanism.
 - `INS-260403-ECB2` Over two-thirds of the best angel outcomes came from deals that were already 'hot' at the time of investment, making access the binding constraint.
 - `INS-260403-CDC9` Winning deals matters more than picking them because access compounds faster than analytical skill.
@@ -18,8 +19,8 @@
 - `INS-260403-4F8D` VCs increasingly use newsletters to build personal brands and attract quality deal flow by establishing trust with founders before they pitch.
 - `INS-260403-407A` YC's core strategic advantage is creating new startups rather than competing with VCs for the same fixed pipeline.
 - `INS-260328-F752` VCs dismissing batch-model investing by claiming they already know all the good companies are admitting they view venture as a zero-sum commodity business.
-- `INS-260329-8B33` Taking six months to find a business you can acquire for free beats immediately starting one that costs your life savings.
 - `INS-260404-2032` Owned media audiences can be converted into startup launch services, creating a flywheel that feeds both content growth and investment access.
+- `INS-260329-8B33` Taking six months to find a business you can acquire for free beats immediately starting one that costs your life savings.
 - `INS-260403-DE0E` Investing well in a few startups and genuinely helping them creates a chain reaction of increasingly high-quality referrals.
 - `INS-260404-EFA0` 80% of startups in a curated fundraising list are pre-seed or seed, with only 13% at Series A/B.
 - `INS-260403-215E` Humanoid robots lead Q3 2025 deal count while AI leads dollar volume, revealing a hardware-many-bets vs software-mega-bet divergence.

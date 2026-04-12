@@ -1,6 +1,6 @@
 # Topic: geopolitics
 
-> 550 insights
+> 561 insights
 
 - `INS-260326-3E19` [very_high] Pharmaceutical companies funding the FDA, banks staffing financial regulators, and tech giants writing platform regulations are structurally identical -- the mechanism is industry-funded oversight producing industry-favorable rules.
 - `INS-260326-79DF` [very_high] Germany's unrestricted submarine warfare sank 886,000 tons in April 1917 alone -- a tactical triumph that brought America into the war and guaranteed Germany's defeat.
@@ -34,6 +34,7 @@
 - `INS-260327-A8C0` [high] Britain's attempt to seize colonial weapons stores at Concord triggered the armed conflict it was designed to prevent — the militia fought to protect their capacity to resist.
 - `INS-260327-E1DD` [high] The Entente's fundamental advantage in WW1 was deeper resource pools — more men, more industrial capacity, control of the seas — which meant equal attrition rates favored them.
 - `INS-260327-048C` [high] Napoleon's early Italian victories created a reputation for invincibility that caused future opponents to be intimidated before the battle even began.
+- `INS-260412-B3A3` [high] Authoritarian development models like Rwanda's concentrate institutional knowledge and legitimacy in a single leader, creating a catastrophic and unhedgeable succession risk that investors consistently underprice.
 - `INS-260410-2DB5` [high] Regimes that need engineers, industry, and now AI to compete geopolitically cannot prevent the educated class and organized workers they create from eventually threatening their rule.
 - `INS-260327-96A5` [high] Russian history repeats the same cycle: reforming tsar modernizes aggressively, successor retreats into reaction, next reformer starts again — Peter, Catherine, Alexander II, each followed by reactionaries.
 - `INS-260327-60C6` [high] Justinian repeatedly recalled and disgraced Belisarius out of jealousy and suspicion, ultimately leaving the empire without its best military commander when enemies threatened.
@@ -127,6 +128,7 @@
 - `INS-260327-C834` [high] The economy hasn't collapsed despite tariff whiplash, mass firings, and regulatory chaos because large systems have enormous inertia.
 - `INS-260330-A3D9` [high] Russia subsidizes 300+ economically dead monotowns because their real output is political compliance, not goods.
 - `INS-260403-DC18` [high] Oil's inelastic demand means small supply disruptions cause massive price spikes, while electricity prices remain comparatively stable.
+- `INS-260412-4516` [high] Embassy building design is a deliberate projection of national identity and strategic narrative to foreign audiences.
 - `INS-260327-64A5` [high] Napoleon's empire required continuous military victories to maintain legitimacy — the moment he suffered a major defeat (Russia 1812), the entire system began to unravel because it had no other foundation.
 - `INS-260327-F7FE` [high] Alexander's empire — the largest the world had seen — fragmented immediately upon his death into warring successor states because he built no institutions, only personal loyalty.
 - `INS-260327-8912` [high] Russia expanded massively under Catherine but maintained serfdom and autocratic governance — creating a vast empire with medieval institutions that would eventually collapse under its own contradictions.
@@ -191,6 +193,7 @@
 - `INS-260403-F98F` [high] Piracy costs $4.9-8.3B annually in security, insurance, and fuel surcharges that get passed to consumers as an invisible tax on global trade.
 - `INS-260327-F4B8` [high] Australia has the second-highest median net worth globally but ranks 102nd in economic complexity, behind Uganda, because wealth is concentrated in mining and real estate rather than diversified production.
 - `INS-260327-77A0` [high] Canada, Australia, UK, and US have all independently developed housing crises through different mechanisms but the same root cause: treating housing as an investment vehicle.
+- `INS-260412-25C1` [high] Israel's Ben Gurion airport has never had a successful hijacking by focusing on behavioral interviews and risk-scoring passengers rather than relying solely on scanners.
 - `INS-260403-8155` [high] Fully autonomous weapons remove the critical democratic safeguard of soldiers who can refuse to fire on their own citizens.
 - `INS-260330-AACC` [high] Zimbabwe's redenominations (removing 10 and then 12 zeros) failed because citizens' inflation expectations were self-fulfilling without credible institutional reform.
 - `INS-260327-3381` [high] Davout was Napoleon's most valuable marshal because he could win battles independently — at Auerstedt he defeated the main Prussian army with a single corps while Napoleon fought a secondary force at Jena.
@@ -211,6 +214,7 @@
 - `INS-260323-B1F5` [high] Iran fights conflicts exclusively through proxies (Hamas, Hezbollah, Houthis) rather than directly — recognizing this pattern is essential for predicting where regional conflicts will emerge.
 - `INS-260327-4046` [high] Job mobility has effectively frozen - companies aren't hiring, employees aren't quitting, and career progression has stalled across industries.
 - `INS-260327-7C4A` [high] Senior French generals couldn't see the Toulon solution because their experience trained them to think in terms of infantry assault — Napoleon's artillery background gave him a completely different analytical framework.
+- `INS-260412-2D3A` [high] Overlapping but imperfectly aligned jurisdictional boundaries create permanent ungoverned voids, as demonstrated by Yellowstone's Idaho zone where jury trial requirements make prosecution impossible.
 - `INS-260327-1756` [high] The Vandals conquered North Africa as fierce warriors but within 100 years had softened into a comfortable ruling class that couldn't fight effectively against Belisarius's disciplined force.
 - `INS-260330-B490` [high] Removing the Sinaloa cartel's leadership shattered it into a dozen warring factions and empowered the far more violent Jalisco New Generation Cartel.
 - `INS-260410-009B` [high] The Chinese, Vietnamese, and Korean civil wars all turned on which side distributed land to peasants first — a political act that glued loyalty more firmly than any military campaign.
@@ -244,6 +248,7 @@
 - `INS-260325-5096` [high] Napoleon's Russian disaster proves that logistics cannot scale linearly with army size — supply chains have a hard distance ceiling.
 - `INS-260410-4A68` [high] Marshall Plan cash worked in Germany and Japan because they already had institutions to rebuild; the same playbook fails in China, Iraq, and Afghanistan where those institutions never existed.
 - `INS-260410-5735` [high] Japan and Germany recovered after WWII because they already had the institutional scaffolding; China, Iraq, and Afghanistan couldn't because it didn't exist and can't be imported with dollars.
+- `INS-260412-2648` [high] National airlines serve as enabling infrastructure for business hub status, not just transportation — Dubai, Singapore, and now Rwanda all invested in airlines as strategic economic tools.
 - `INS-260327-3675` [high] Nasser's nationalization of the Suez Canal succeeded because he correctly judged that the US and Soviet Union would prevent Britain and France from reversing it by force.
 - `INS-260327-DFD8` [high] Britain's naval blockade of Germany was boring and invisible but arguably the single most important factor in winning WW1 — it slowly starved Germany's economy and population.
 - `INS-260327-4E10` [high] Australia's negative gearing lets individuals write off real estate investment losses against personal income, converting high-taxed salary (45%) into low-taxed capital gains and driving house prices to 8x median income.
@@ -326,6 +331,7 @@
 - `INS-260327-FDD0` [high] At Toulon, the 24-year-old Napoleon identified the one fort whose capture would force the British fleet to withdraw, while senior generals were planning futile frontal assaults on the harbor.
 - `INS-260327-3918` [high] Kennedy's deadline — 'land a man on the Moon before the decade is out' — mobilized $25B, 400,000 workers, and unprecedented innovation because the specificity and audacity of the goal demanded maximum effort.
 - `INS-260325-6262` [high] No Bronze Age civilization was self-sufficient — each depended on others for critical resources like tin, copper, gold, and grain.
+- `INS-260412-DEDA` [high] The Baghdad embassy's self-sufficient compound — with its own generators, wells, water treatment, phone network, and internet uplink — illustrates how infrastructure duplication becomes necessary when host systems fail.
 - `INS-260327-50B6` [high] Prussia sent Napoleon an ultimatum demanding withdrawal from Germany without first ensuring Russian forces could arrive in time to help.
 - `INS-260327-479C` [high] Russia maintained serfdom until 1861 — centuries after Western Europe abandoned it — which suppressed industrialization, innovation, and economic growth despite Russia's enormous natural resources.
 - `INS-260330-0881` [high] China's one-child policy combined with cultural son preference produced roughly 30-40 million excess men, creating downstream social and economic disruption.
@@ -337,6 +343,7 @@
 - `INS-260327-8152` [high] The 1848 revolutions erupted across Europe simultaneously but each national movement pursued different goals and couldn't coordinate, allowing conservative governments to crush them one by one.
 - `INS-260327-E2F1` [high] The UK's few things working well are all concentrated in London, making national GDP look acceptable while the rest of the country structurally declines.
 - `INS-260412-3AA3` [high] Samsung's 20% GDP share makes South Korea unable to meaningfully prosecute its leaders, as demonstrated by two generations of Lee family pardons.
+- `INS-260412-65EF` [high] A French ATC strike forced rerouting through Spanish, North African, Swiss, Italian, German, and UK airspace, requiring days of multi-country coordination to manage cascading delays.
 - `INS-260323-9676` [high] ASML is the sole manufacturer of EUV lithography machines worldwide — every advanced chip on Earth depends on one company in one Dutch town, making semiconductor manufacturing the most concentrated chokepoint in the global economy.
 - `INS-260412-D367` [high] Capital and talent flight from declining states is a one-way ratchet that converts temporary service failures into permanent economic contraction.
 - `INS-260327-7750` [high] Belisarius repeatedly defeated armies 5-10x his size because his forces were professionally trained, personally loyal, and under unified command while his opponents were tribal coalitions.
@@ -352,6 +359,7 @@
 - `INS-260327-504C` [high] Desaix marched to the sound of the guns at Marengo without orders, arriving at exactly the moment his counterattack could reverse the battle.
 - `INS-260327-A4BB` [high] The Somme offensive continued for months despite catastrophic casualties because commanders couldn't justify stopping without something to show for the losses already sustained.
 - `INS-260327-CB71` [high] Austrian relief armies in Italy were consistently hampered by supply difficulties through Alpine passes, while Napoleon's shorter supply lines from France gave him a logistical advantage.
+- `INS-260412-0847` [high] A surveying error gave Minnesota the Northwest Angle — a US territory accessible only through Canada — and this accident persists because correcting boundaries is politically harder than accommodating absurdity.
 - `INS-260330-825F` [high] Economic ties between nations cannot prevent war when survival is at stake, because security always trumps prosperity in the realist hierarchy.
 - `INS-260327-BF95` [high] During the Great Leap Forward, local officials inflated grain production numbers because reporting shortfalls was punished — so Beijing exported food while millions starved.
 - `INS-260410-7E29` [high] Pearl Harbor was an A+ military operation that converted isolationist America into Japan's destroyer — proving tactical perfection is worthless if it mobilizes a vastly stronger opponent.
@@ -394,6 +402,7 @@
 - `INS-260327-25AD` [high] Mao's Great Leap Forward mandated nationwide agricultural and industrial methods from Beijing that ignored local conditions, causing 30-45 million deaths from famine.
 - `INS-260330-3994` [high] Sri Lanka's tourism (22% of GDP) dropped 70% after a 2019 bombing and then to zero during COVID — revealing tourism-heavy economies as fragile single points of failure.
 - `INS-260405-5856` [high] When hundreds of local governments simultaneously subsidize competing firms in the same industry, the winning national champion emerges alongside massive excess capacity.
+- `INS-260412-9DEE` [high] The US-China trade deficit made westbound Pacific shipping near-free, enabling an entire global recycling industry that collapsed when China closed the receiving end.
 - `INS-260327-7C1A` [high] Russia was founded by Viking traders who established fortified trading posts along rivers connecting the Baltic to Constantinople — the trade route became the state.
 - `INS-260327-DBEB` [high] China stopped buying American soybeans entirely, strengthening ties with Brazil instead, even at higher prices.
 - `INS-260327-B4B3` [high] Venice's power came from sitting at the exact geographic point where European grain and wine met Eastern spices and silk — controlling the chokepoint of East-West trade.
@@ -463,6 +472,8 @@
 - `INS-260403-4183` [medium] Cheap drone fleets can now threaten global shipping lanes in ways that traditional naval power cannot easily counter.
 - `INS-260330-8F72` [medium] Chinese dynastic history reveals a recurring cycle of institutional vigor → consolidation → complacency → collapse that maps onto corporate and political institutions today.
 - `INS-260327-9CAD` [medium] Bunker Hill was technically a British victory but it taught the Americans they could fight regulars and taught the British nothing about how to actually win the war.
+- `INS-260412-94D9` [medium] Rwanda ranking 29th globally on the Ease of Doing Business Index — above the Netherlands, Switzerland, and Japan — generates outsized credibility and investment signaling far exceeding what raw GDP metrics would attract.
+- `INS-260412-F1F5` [medium] Continents oriented east-west allow crops and livestock to transfer across similar climates, compounding into civilizational advantages that persist today.
 - `INS-260330-0AD5` [medium] A stagnant developed country gains developing-country cost advantages while retaining first-world infrastructure and institutions, creating unique investment opportunity.
 - `INS-260323-5B36` [medium] El-Kurd's campaign succeeded globally because it finally matched visual imagery to rhetoric, making the power asymmetry undeniable to international observers.
 - `INS-260402-5C89` [medium] Near-zero marginal cost energy via solar and storage removes resource scarcity as the fundamental driver of international conflict, unlocking a massive peace dividend.

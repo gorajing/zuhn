@@ -56,8 +56,8 @@ stance: >-
   overload with twice-daily training sessions over months
 related:
   - INS-260323-422C
-  - INS-260326-3CDE
   - INS-260327-BEC7
+  - INS-260412-A747
   - INS-260404-9A69
   - INS-260329-783C
   - INS-260405-36AF

@@ -57,6 +57,7 @@ related:
   - PRI-260406-B785
   - INS-260403-586C
   - INS-260321-A56C
+  - INS-260412-2DEF
 ---
 The agentic/assistive distinction creates two fundamentally different value propositions that require different monetization strategies. Agentic products (Intercom Fin, Adept, Jasper for full content drafting) deliver complete task execution, making per-result or per-task pricing natural—the AI is the worker. Assistive products (GitHub Copilot, Grammarly) enhance human capability, making seat-based or feature-tiered pricing appropriate because value still scales with human usage.
 

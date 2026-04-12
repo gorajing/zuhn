@@ -45,11 +45,11 @@ stance: >-
   attention-stealing rather than trust-building.
 related:
   - INS-260322-7B61
-  - INS-260322-A36C
   - PRI-260323-2E5A
   - INS-260327-94E6
   - INS-260404-1C9D
-  - INS-260330-E8C6
+  - INS-260412-93EA
+  - INS-260322-A36C
   - INS-260329-5257
   - INS-260403-9C60
   - INS-260402-3CF1

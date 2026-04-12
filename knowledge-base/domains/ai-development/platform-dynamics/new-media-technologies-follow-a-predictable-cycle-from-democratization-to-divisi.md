@@ -60,7 +60,7 @@ related:
   - PRI-260328-D292
   - INS-260403-7B04
   - INS-260404-2CA6
-  - INS-260325-B882
+  - INS-260412-2367
 ---
 Noah Smith identifies a recurring historical pattern: new media technologies open entry to divisive voices (Charles Coughlin on radio in the 1930s, Rush Limbaugh on talk radio, Sean Hannity on cable TV, Drudge Report on the web), until consolidating forces emerge. In the mid-20th century, local newspaper monopolies and limited broadcast spectrum created the gatekeeping that produced the 'Cronkite era' of centrist, shared-reality media. Each subsequent technology that lowered barriers to entry reignited the cycle.
 

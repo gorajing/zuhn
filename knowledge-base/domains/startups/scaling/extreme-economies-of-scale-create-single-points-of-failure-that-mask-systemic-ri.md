@@ -53,7 +53,6 @@ stance: >-
   of redundancy.
 related:
   - INS-260327-B715
-  - INS-260412-2948
   - INS-260412-10F1
   - PRI-260406-901E
   - PRI-260328-F497

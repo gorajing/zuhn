@@ -50,6 +50,6 @@ related:
   - INS-260330-6494
   - INS-260330-84C6
   - INS-260404-D711
-  - INS-260409-EA75
+  - INS-260412-8A13
 ---
 The opening of the Tao Te Ching ('the Tao that can be spoken is not the eternal Tao') and Jesus's use of parables both point at the same problem: language evolved to coordinate group behavior around external referents (food, weather, threats), and its grammar assumes a separate self observing separate things. Phenomenal states where subject-object structure dissolves cannot be described directly in that grammar without introducing distortion. This is not mysticism — it is a basic observation about the expressive limits of symbol systems. Any contemplative framework that takes itself literally rather than pointerically is likely mistaken; the canonical contemplative texts were better at this than their modern interpreters.

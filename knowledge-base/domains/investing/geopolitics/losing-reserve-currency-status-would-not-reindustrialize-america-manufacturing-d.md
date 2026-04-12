@@ -56,12 +56,11 @@ stance: >-
   status.
 related:
   - INS-260405-24F0
-  - INS-260405-F6E6
   - INS-260403-33BF
+  - INS-260412-9DEE
   - INS-260403-7779
   - INS-260330-A029
   - INS-260327-D1B7
-  - INS-260405-1CC3
 ---
 A popular narrative claims the dollar's reserve currency status causes trade deficits that hollowed out American manufacturing. Krugman's analysis shows this is mostly wrong on two levels. First, the reserve currency story only partially explains trade deficits. Second and more importantly, trade deficits account for only a small fraction of manufacturing's long-term decline as a share of the economy.
 

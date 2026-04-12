@@ -22,24 +22,29 @@
 - `INS-260403-A447` Centralized custodian failures in crypto repeat the exact structural patterns of traditional finance collapses.
 - `INS-260403-FF15` Design your organization around the conflicts you want to hear about, not around eliminating disagreement.
 - `INS-260403-2349` VC value-add is maximized through structured involvement like governance rigor, operating cadence, and early professionalization rather than ad-hoc help.
-- `INS-260403-C695` Just as novice pilots overcorrect and cause oscillation, investors with too much power apply excessive corrections that destabilize startups.
-- `INS-260330-6566` The difference between a dangerous fiction and a useful one is whether it includes mechanisms for self-correction, which requires honesty about its human origins.
-- `INS-260412-6898` Deterrence theory assumes perpetual perfect rationality from every nuclear-armed actor, which is incompatible with known human and organizational failure rates.
-- `INS-260410-C474` Paine argues Bismarck's manipulation of Europe's monarchs demonstrated the structural incompetence of inherited leadership, because kings selected by birth rather than skill consistently failed to see strategic patterns a competent peer group would have caught.
-- `INS-260330-1293` North Korea maintains stability by selectively tolerating illegal capitalism rather than cracking down uniformly, turning potential dissidents into co-opted participants.
+- `INS-260412-B3A3` Authoritarian development models like Rwanda's concentrate institutional knowledge and legitimacy in a single leader, creating a catastrophic and unhedgeable succession risk that investors consistently underprice.
 - `INS-260403-6024` Presidents fear bond market signals more than stock drops because rising yields directly threaten the government's ability to finance itself.
 - `INS-260330-B7AB` DNA replication errors that escape proofreading accumulate silently until a critical threshold triggers disease — the same dynamic applies to institutional governance failures that prosperity masks.
 - `INS-260325-854D` China's senior leadership were all trained engineers who build compulsively — roads, homes, economies, souls. America's elite are mostly lawyers who block everything, good and bad.
 - `INS-260405-F20C` Beijing designates industry priorities top-down but lets 300+ prefectural governments compete bottom-up to back local firms with subsidies and credit.
 - `INS-260410-19E3` Communist regimes are brilliant at maintaining power but deliver compounding poverty as a direct byproduct of the same mechanisms.
+- `INS-260412-2D3A` Overlapping but imperfectly aligned jurisdictional boundaries create permanent ungoverned voids, as demonstrated by Yellowstone's Idaho zone where jury trial requirements make prosecution impossible.
 - `INS-260327-E382` Venice endured as a republic for over 1,000 years with 117 successive doges, while surrounding monarchies rose and fell with their dynasties.
+- `INS-260412-0847` A surveying error gave Minnesota the Northwest Angle — a US territory accessible only through Canada — and this accident persists because correcting boundaries is politically harder than accommodating absurdity.
 - `INS-260327-7C1A` Russia was founded by Viking traders who established fortified trading posts along rivers connecting the Baltic to Constantinople — the trade route became the state.
+- `INS-260412-8A13` Washington state was renamed from Columbia specifically to avoid confusion with DC, yet the confusion persisted and worsened — demonstrating that naming collisions are structurally unfixable once established.
+- `INS-260330-6566` The difference between a dangerous fiction and a useful one is whether it includes mechanisms for self-correction, which requires honesty about its human origins.
+- `INS-260403-C695` Just as novice pilots overcorrect and cause oscillation, investors with too much power apply excessive corrections that destabilize startups.
+- `INS-260412-FB83` The 'liberty for prosperity' trade that both Singapore and Rwanda embrace appears rational in isolation but creates path-dependent lock-in where the cost of reversing course compounds invisibly over time.
+- `INS-260412-6898` Deterrence theory assumes perpetual perfect rationality from every nuclear-armed actor, which is incompatible with known human and organizational failure rates.
+- `INS-260410-C474` Paine argues Bismarck's manipulation of Europe's monarchs demonstrated the structural incompetence of inherited leadership, because kings selected by birth rather than skill consistently failed to see strategic patterns a competent peer group would have caught.
+- `INS-260330-1293` North Korea maintains stability by selectively tolerating illegal capitalism rather than cracking down uniformly, turning potential dissidents into co-opted participants.
 - `INS-260405-5670` Moon's 2.3-second round-trip latency allows synchronous coordination with Earth; Mars's 10-30 minute latency forces asynchronous civilization — and asynchronous civilizations can declare independence.
 - `INS-260330-7511` The Mandate of Heaven made political legitimacy conditional on moral performance, creating a recursive loop where failure itself became proof of illegitimacy.
 - `INS-260326-0C14` Near-equal equity avoids resentment and one extra CEO share prevents the 50/50 deadlocks that YC sees kill companies regularly.
+- `INS-260410-C56B` Conflict-averse CEOs systematically transfer shareholder value to anyone willing to make a fuss, because the path of least resistance is always to pay them off.
 - `INS-260327-D480` In 1965, CEOs earned 20x average employees; today it's 300x+, almost entirely in stock-based compensation that incentivizes price manipulation over business building.
 - `INS-260403-6546` OpenAI's capped-profit hybrid structure embedded a structural conflict between mission and commercialization that directly caused its 2023 leadership crisis.
-- `INS-260410-C56B` Conflict-averse CEOs systematically transfer shareholder value to anyone willing to make a fuss, because the path of least resistance is always to pay them off.
 - `INS-260323-960A` The activist investor playbook — identify underperformance, build external credibility, assemble a coalition, and force accountability — is a universal framework for organizational change.
 - `INS-260327-176D` Board seats pay hundreds of thousands for showing up to quarterly meetings, creating a professional director class incentivized to avoid rocking any boat.
 - `INS-260403-B1D6` Countries with stronger civil liberties grow richer because open discourse selects for efficient solutions over politically favored ones.
@@ -72,9 +77,9 @@
 - `INS-260403-BA4B` Geopolitical decentralization prevents any single lobby from permanently distorting property definitions to serve incumbents.
 - `INS-260323-4AB5` Wikipedia's deepest ongoing challenge is notability — deciding what deserves an entry — which requires nuanced rules varying by subject matter, especially for living persons.
 - `INS-260330-6BAF` The Indus Valley used uniformly sized bricks and perpendicular street grids across distant cities, implying sophisticated coordination without visible authoritarian structures.
-- `INS-260405-B01A` Deal mechanics and preference stacks can legally redirect all exit proceeds away from founders regardless of valuation.
 - `INS-260403-2ED2` Democratic governance kills venture firm scaling because partners vote to preserve their own power during reorganizations.
 - `INS-260330-E585` The Articles of Confederation collapsed primarily because Congress could not collect taxes, proving that authority without enforcement mechanisms is meaningless.
+- `INS-260405-B01A` Deal mechanics and preference stacks can legally redirect all exit proceeds away from founders regardless of valuation.
 - `INS-260330-F258` Good democratic systems are optimized for removing bad leaders efficiently and nonviolently, not for selecting the best ones — mirroring how science progresses by falsification, not verification.
 - `INS-260330-23CD` Laws are immortal code for civilization — without garbage collection, they accumulate into bloatware that prevents anything from getting done.
 - `INS-260403-47F1` SF's entire turnaround depended on a 6-5 board majority — one seat flip would have blocked every reform the mayor enacted.

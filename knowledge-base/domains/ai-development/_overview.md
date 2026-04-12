@@ -1,6 +1,6 @@
 # Domain: ai-development
 
-> 1699 insights across 40 topics
+> 1700 insights across 40 topics
 
 ## Topics
 
@@ -43,6 +43,6 @@
 | prompting | 7 | Anthropic built a tool-testing agent that used a flawed MCP tool, then rewrote its description — future agents using the new description completed tasks 40% faster. |
 | research-methodology | 31 | LLM grokking, like penicillin, was discovered by accident—and this accidental-discovery pattern is more characteristic of deep learning progress than theory-driven research. |
 | system-building | 215 | Prototyping a basic LLM-wiki in Claude Code takes about an hour — the scarce resource is knowing what to build it for. |
-| system-design | 18 | In agentic systems a minor bug cascades across many turns, so production requires resumable execution, retry logic, and rainbow deployments — not stateless request handling. |
+| system-design | 19 | In agentic systems a minor bug cascades across many turns, so production requires resumable execution, retry logic, and rainbow deployments — not stateless request handling. |
 | systems-design | 1 | Components tuned for original conditions do not just underperform in new environments — they generate actively harmful outputs. |
 | training-dynamics | 12 | For composed operations like softmax+cross-entropy, pen-and-paper differentiation produces gradient expressions vastly shorter than autograd's atomic chain — which is why every serious framework ships fused backward kernels for them. |

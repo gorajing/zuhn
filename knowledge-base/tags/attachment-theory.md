@@ -1,7 +1,7 @@
 # Tag: attachment-theory
 
-- `INS-260330-8286` Infant monkeys chose the soft cloth mother over the wire mother that provided food, proving tactile comfort is the primary driver of attachment.
 - `INS-260330-C8E2` Harlow's wire mother experiments proved that infant primates bond to sources of comfort rather than sources of nourishment, overturning the cupboard theory of attachment.
+- `INS-260330-8286` Infant monkeys chose the soft cloth mother over the wire mother that provided food, proving tactile comfort is the primary driver of attachment.
 - `INS-260325-88DF` Attachment theory research estimates that caregivers let down about 50% of children — meaning on any given date, there is a 50% chance the other person has an attachment wound operating unconsciously.
 - `INS-260325-B09C` Children learn 'is it safe to be upset around people who love me?' and carry that answer as their default relationship setting into adulthood.
 - `INS-260325-88A7` Just as children absorb grammatical language invisibly, they also absorb an emotional grammar -- patterns of trust, fear, and communication -- from caregivers that shapes every adult relationship.

@@ -18,6 +18,7 @@
 - `INS-260403-4F4B` Persistence is best learned through lived experience on a single obsessive project, not through frameworks or advice.
 - `INS-260330-633F` Passion ignites the rocket but burns out fast; curiosity is the propellant that keeps you in orbit for decades.
 - `INS-260329-764E` Focusing on the act of creating rather than follower counts prevents the motivational collapse that kills most content efforts.
+- `INS-260403-A14B` Novel problems attract skaters and let them skate full-time, creating a double productivity multiplier.
 - `INS-260403-35EE` VCs screen for obsession—founders who would keep building even if the money disappeared—because it predicts survival through inevitable chaos.
 - `INS-260403-E365` Work on ambitious projects you genuinely enjoy, and the right things will naturally get left undone.
 - `INS-260403-E6A7` Every billionaire founder could have stopped sooner — they kept going not for money but because there was nothing else they'd rather do.
@@ -27,4 +28,3 @@
 - `INS-260404-7325` The secret weapon of top founders is that money isn't their primary driver — the company is their creative project.
 - `INS-260412-9719` If the universe has no scoreboard, you get to design your own — and founders who do this explicitly build more resilient companies.
 - `INS-260403-4431` Rare genuine interest in commercially valuable but unappealing work creates a natural monopoly on motivation and persistence.
-- `INS-260403-A14B` Novel problems attract skaters and let them skate full-time, creating a double productivity multiplier.

@@ -49,12 +49,13 @@ stance: >-
   distributed decision-makers who have explicitly committed to specific
   objectives and resources, creating accountability without bottlenecks.
 related:
-  - PRI-260328-F0E4
   - INS-260329-422F
   - INS-260403-EC1D
+  - PRI-260328-F0E4
   - PRI-260403-7E5E
   - INS-260403-30FF
   - INS-260403-2F4D
+  - INS-260412-B252
 ---
 During Geneva Hospital's COVID-19 transformation, the Head of Operations, Surgical bloc manager, Patient flow manager, and projects department each took ownership of their units' transformation. The Team Alignment Map made their individual commitments visible to everyone else.
 

@@ -54,6 +54,7 @@ related:
   - INS-260327-FC68
   - INS-260403-9012
   - INS-260321-7109
+  - INS-260412-2DEF
 ---
 When Anthropic refused to allow the Department of War to use their AI for mass surveillance and autonomous weapons, the Secretary of War designated them a 'supply chain risk' — the first time this label was applied to a US company. Within hours, OpenAI signed an agreement-in-principle to fill the gap, with weaker safeguards. This creates a clear race-to-the-bottom dynamic: companies that maintain safety positions lose contracts to competitors willing to accept vaguer terms.
 

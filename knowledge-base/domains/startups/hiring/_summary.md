@@ -1,6 +1,6 @@
 # Topic: hiring
 
-> 67 insights
+> 68 insights
 
 - `INS-260330-4341` [high] The speed at which a skill can be taught is inversely correlated with its long-term career defensibility.
 - `INS-260330-1B37` [high] Airbnb spent 5 months hiring their first employee and only hired two people in year one because early hire quality is existential.
@@ -27,6 +27,7 @@
 - `INS-260403-AC29` [high] List your weaknesses and hire exclusively from that list for your first three roles.
 - `INS-260330-1C90` [high] Optimize your first job for the quality of people you'll work with, not the paycheck or prestige on your resume.
 - `INS-260330-C7FF` [high] The most successful YC companies gave generous equity to early employees (~10% for first 10) while fighting to minimize investor dilution.
+- `INS-260412-2DEF` [high] The US foreign service's tiered hardship and danger pay system voluntarily fills the worst postings by transparently pricing difficulty into compensation.
 - `INS-260402-AA3F` [high] Great hackers cluster together, so talent attraction scales with the square of environment quality, not linearly.
 - `INS-260403-A136` [high] Startup headcount growth systematically dilutes independent-mindedness because conventional thinkers vastly outnumber independent ones.
 - `INS-260403-7692` [high] People costs are 60-80% of early-stage burn, making headcount planning the single most important financial lever founders have.

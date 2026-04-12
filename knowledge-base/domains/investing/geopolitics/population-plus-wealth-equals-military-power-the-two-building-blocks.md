@@ -49,6 +49,7 @@ related:
   - INS-260403-3AF9
   - PRI-260406-C4FD
   - INS-260330-4150
+  - INS-260412-A52B
 stance: >-
   National power is fundamentally a function of population size and wealth —
   both are required to build the military capability that ensures survival.

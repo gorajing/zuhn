@@ -58,6 +58,7 @@ related:
   - INS-260330-B284
   - PRI-260328-37D8
   - INS-260410-FECA
+  - INS-260412-55F4
 ---
 Within months of the civil war ending, China signed a $2 billion oil-backed loan with Angola while President dos Santos was invited to the Bush Oval Office. Angola became China's largest oil supplier while also courting American investment. This bidirectional courtship gave the dos Santos regime enormous leverage—if one power pushed too hard on governance reforms, the other was waiting.
 

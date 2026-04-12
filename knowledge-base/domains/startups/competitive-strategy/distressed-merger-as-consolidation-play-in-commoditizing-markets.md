@@ -53,9 +53,8 @@ related:
   - INS-260405-C88A
   - INS-260403-64F4
   - PRI-260407-F704
+  - INS-260412-2367
   - INS-260403-C200
-  - PRI-260328-43F1
-  - INS-260404-8A36
 ---
 Both Coursera and Udemy traded roughly 80% below their pandemic-era IPO prices, reflecting the structural deflation of the online education market after the COVID demand surge normalized. Rather than continuing to compete for shrinking marginal returns, the merger combines Coursera's institutional partnerships (universities, enterprise reskilling) with Udemy's marketplace of independent instructors — two fundamentally different supply models that don't cannibalize each other.
 

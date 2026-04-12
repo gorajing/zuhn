@@ -48,11 +48,11 @@ stance: >-
   reinvention rather than divestiture, because the existing customer base and
   operational infrastructure represent recoverable value.
 related:
+  - INS-260412-10FD
   - INS-260404-2DB4
   - INS-260403-C164
   - PRI-260328-A1AA
   - INS-260412-BBF8
-  - PRI-260406-B331
 evidence:
   - id: INS-260327-96BB
     type: CONTRADICTS

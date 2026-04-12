@@ -50,7 +50,6 @@ stance: >-
   operational rigor.
 related:
   - INS-260322-EDA4
-  - INS-260322-F868
   - INS-260327-6061
   - INS-260327-E1EB
   - INS-260330-DE65
@@ -59,6 +58,7 @@ related:
   - INS-260403-AEBD
   - INS-260403-3059
   - INS-260402-ABB5
+  - PRI-260406-1F70
 ---
 When VCs are pressured to deploy large funds within fixed timelines, they tend to over-capitalize portfolio companies. This excess capital systematically undermines founder discipline—removing the resource constraints that force careful prioritization, lean operations, and rigorous metric tracking. The author observes that 'too much money = big ego' is nearly inherent, and that balance is key.
 

@@ -48,11 +48,11 @@ stance: >-
   function rather than when all nodes compete to replicate the same
   capabilities.
 related:
-  - INS-260323-E214
   - INS-260330-ACCD
   - INS-260405-F20C
   - INS-260330-9E26
-  - INS-260402-142F
+  - INS-260323-E214
+  - INS-260412-2648
 evidence:
   - id: INS-260323-E214
     type: TRANSFERS_TO

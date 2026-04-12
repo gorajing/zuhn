@@ -1,6 +1,6 @@
 # Topic: cognitive-biases
 
-> 325 insights
+> 329 insights
 
 - `INS-260326-163A` [very_high] Data quality dominates ML architecture just as install base and data gravity beat product design elegance in business -- what you've accumulated is the moat, not how you've arranged it.
 - `INS-260326-CA66` [very_high] Insulin resistance manifests as heart disease, diabetes, obesity, and dementia -- just as a misidentified business model manifests as churn, pricing problems, and sales failures.
@@ -118,6 +118,7 @@
 - `INS-260330-5A66` [high] The feeling of moral outrage masquerades as evidence, making people certain they understand situations they haven't actually analyzed.
 - `INS-260403-A1B6` [high] Convergent evidence from independent measurement methods is far stronger than any single dataset, because each method has different biases that would need to coincidentally align.
 - `INS-260403-32CF` [high] Sequoia cataloged 40 cognitive biases with names after post-mortems repeatedly revealed that their biggest misses came from psychology, not analysis.
+- `INS-260412-8A13` [high] Washington state was renamed from Columbia specifically to avoid confusion with DC, yet the confusion persisted and worsened — demonstrating that naming collisions are structurally unfixable once established.
 - `INS-260403-57F6` [high] Refusing to change your mind isn't neutral — it makes you progressively more wrong as reality diverges from your frozen beliefs.
 - `INS-260403-25F3` [high] Registering as independent to protest extremism removes moderates from primaries, making nominees even more extreme — a classic case where the intuitive protest action worsens the problem.
 - `INS-260330-4441` [high] RuBisCo was optimized for a low-oxygen world, but photosynthesis itself flooded the atmosphere with oxygen, causing RuBisCo to malfunction half the time — your greatest success can corrupt your core mechanism.
@@ -154,6 +155,7 @@
 - `INS-260403-5564` [high] The economist's habit of calling whatever behavior emerges in the moment the 'revealed preference' collapses when applied to addiction, akrasia, and any domain with genuinely time-inconsistent preferences.
 - `INS-260330-748E` [high] Repeated exposure to extreme rhetoric triggers habituation, making previously shocking statements functionally invisible to audiences.
 - `INS-260330-4B4F` [high] Medical experts place PFAS in the lowest tier of a risk reduction hierarchy — below smoking cessation, exercise, diet, sleep, regular checkups, and cholesterol management.
+- `INS-260412-DAC5` [high] Consumers and municipal leaders were satisfied by the act of recycling without ever verifying that materials were actually recycled, enabling a broken system to persist for 50+ years.
 - `INS-260330-E1CA` [high] Rogue waves aren't random — they're multiple ordinary waves meeting and amplifying, which reframes how we think about extreme events.
 - `INS-260330-10AA` [high] Romantic love activates the same dopamine reward circuits as cocaine addiction and the same serotonin patterns as OCD, producing predictable obsession and rumination.
 - `INS-260330-F737` [high] Schlep blindness causes founders to unconsciously avoid ideas involving tedious operational work, systematically hiding the highest-value opportunities.
@@ -186,6 +188,7 @@
 - `INS-260403-1FB1` [high] Repeated corrections cannot overcome an opponent's commitment to misrepresenting your position in adversarial settings.
 - `INS-260403-D0EE` [high] Beyond a threshold, your stuff starts making your decisions for you.
 - `INS-260403-99FE` [high] When established players consistently make irrational decisions, the resulting gap is a reliable signal of untapped opportunity.
+- `INS-260412-4127` [high] Customers with 10,000 miles will pay 5% more for an American flight rather than start from zero with United — sunk cost fallacy becomes a designed moat.
 - `INS-260404-13F1` [high] Once customers pay a membership fee, sunk-cost psychology makes them default to that retailer without comparing prices, converting a one-time payment into persistent behavioral change.
 - `INS-260404-3156` [high] Costco's mandatory $60-120 fee triggers sunk-cost reasoning that makes customers stop comparing prices with competitors.
 - `INS-260330-CECB` [high] SafeMoon holders who lost 99% of their investment doubled down and formed cult-like communities because acknowledging the scam would mean admitting devastating personal failure.
@@ -268,6 +271,7 @@
 - `INS-260403-8C75` [medium] Most forms of disorder lack reliable longitudinal data, so perception fills the vacuum and systematically overcounts decline.
 - `INS-260329-A231` [medium] The debt snowball method wins not because it saves the most interest, but because quick wins create psychological momentum that prevents abandonment.
 - `INS-260330-0F55` [medium] Early Christians didn't write down Jesus's life for decades because they believed his return and a new kingdom were imminent — why document what's about to be superseded?
+- `INS-260412-1863` [medium] TSA catches only 5-30% of test threats yet zero US-origin flights have been attacked since 9/11, suggesting deterrence matters more than detection.
 - `INS-260330-8B24` [medium] Direct experience consistently overrides and corrects media-constructed mental models of people and places.
 - `INS-260330-059B` [medium] If economic pain is what finally changes someone's mind about a leader whose moral failures were already obvious, the person's reasoning framework is dangerously self-interest-driven.
 - `INS-260330-F20D` [medium] Highly educated people's instinct to distrust politically charged moral language and seek nuance can paradoxically lead them to equivocate about unambiguous atrocities.

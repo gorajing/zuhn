@@ -1,22 +1,22 @@
 # Tag: meaning
 
 - `INS-260323-87F3` Using AI to rewrite emotional messages or generate personal speeches eliminates the meaningful human struggle from communication.
+- `INS-260409-2093` Hassabis worries most about post-AGI philosophy — meaning, purpose, consciousness, what it is to be human — and says we lack modern philosophers equipped for it.
 - `INS-260403-955F` Meaning emerges from friction, obligation, and inconvenience — optimizing these away optimizes away purpose itself.
 - `INS-260409-DBCF` The 'what story will remain?' frame is a cleaner decision filter than 'what do I want?' because terminal state is harder to fool.
-- `INS-260409-2093` Hassabis worries most about post-AGI philosophy — meaning, purpose, consciousness, what it is to be human — and says we lack modern philosophers equipped for it.
 - `INS-260327-1AD8` People who have genuinely confronted the possibility that existence is meaningless often develop a stronger commitment to living than those who never questioned it.
 - `INS-260330-2294` The Library of Babel contains every possible 3200-character text — including your birth, death, and every joke — yet we intuitively feel none of it has been 'said' until a person means it.
 - `INS-260330-5828` External sources of transcendence (substances, outrage, consumption) create escalating tolerance, while internally generated sublime experiences are permanently transformative.
 - `INS-260323-DA91` Camus's Sisyphus finds happiness not by winning but by embracing the insurmountable task with full commitment — meaning comes from service and duty, not from outcomes.
 - `INS-260325-13B9` We suffer doubly from problems — once from the problem itself and once from the false belief that we shouldn't have problems at all.
 - `INS-260402-D9D0` Pointless work doesn't just bore people — it creates lasting aversion to the content, poisoning future engagement.
+- `INS-260330-D812` After 72 hours alone, Michael realized he didn't just miss people — he discovered that experiences literally feel incomplete without someone to share them with.
 - `INS-260330-D006` Peterson argues that beauty — particularly in art and architecture — functions like empirical evidence pointing to deep structural truths, not unlike how scientific data points to natural laws.
 - `INS-260325-E9B1` Meaning is found when you reach a motivation so fundamental that asking 'but why?' feels like a category error — for parents it is their children, for the religious it is God, for others it is the pursuit of understanding.
 - `INS-260325-87FC` A nihilist still feels thirsty and still drinks water — nihilism does not remove desires but recognizes that all values trace back to groundless preferences rather than objective purpose.
 - `INS-260330-647D` Secular culture has won the argument against religion but failed to build replacement institutions for community, ethical instruction, and the sacred — leaving a genuine void.
 - `INS-260325-AE23` Ask 'why' enough times about any action and you reach either God, a self-justifying value like family, or the uncomfortable realization that reasons simply run out.
 - `INS-260323-FAD5` The N-word demonstrates that identical words carry radically different meanings in different contexts — from slur to art to academic study to community bonding.
-- `INS-260330-D812` After 72 hours alone, Michael realized he didn't just miss people — he discovered that experiences literally feel incomplete without someone to share them with.
 - `INS-260327-015B` Rosolie faces genuine mortal danger regularly from poachers, animals, and the jungle itself - and reports a depth of meaning that safe career optimization cannot provide.
 - `INS-260330-48C6` The video's punchline — a programmer who becomes a farmer — illustrates that exiting status competition requires decoupling identity from professional achievement entirely.
 - `INS-260330-DA0B` Successful people who feel 'something is missing' are sensing their undeveloped willpower and unexplored potential, not lacking external achievements.

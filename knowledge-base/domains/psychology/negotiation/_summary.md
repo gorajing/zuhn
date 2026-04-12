@@ -1,10 +1,11 @@
 # Topic: negotiation
 
-> 17 insights
+> 18 insights
 
 - `INS-260403-5681` [high] SEIU weaponized ballot initiatives as destruction threats to extract concessions worth 16x their investment.
 - `INS-260403-8FB5` [high] Somali ransom negotiations show that calibrated irrationality — seeming rash enough to execute threats but patient enough to deal — is the optimal bilateral monopoly strategy.
 - `INS-260410-AB78` [high] Whether 'compromise' is wisdom or suicide is entirely a function of the other side's real objective — a slice of territory can be traded; regime change and extermination cannot be appeased without empowering the executioner.
+- `INS-260412-6F6A` [high] Diplomatic immunity forces host countries to use blunt instruments like expulsion rather than precise enforcement, creating costly asymmetric dynamics.
 - `INS-260403-6713` [high] Corp dev teams systematically flip the dynamic so founders end up selling themselves rather than being courted.
 - `INS-260410-647F` [high] Bush Sr. and Kohl deliberately avoided triumphalism around German reunification and the Soviet collapse, which bought Eastern Europe roughly 20 years to integrate with the West before Russian hardliners consolidated and started trying to destabilize them.
 - `INS-260404-B6CC` [high] Arguments escalate when they shift from debating issues to threatening someone's core identity and values.

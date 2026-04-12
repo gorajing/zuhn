@@ -53,11 +53,11 @@ stance: >-
   viable when paired with state and federal incentive structures, making
   industrial policy a prerequisite rather than a bonus.
 related:
+  - INS-260412-3829
   - PRI-260406-03D1
   - INS-260327-16A1
   - INS-260403-8256
   - INS-260404-2AD7
-  - INS-260324-2244
 ---
 Micron's $100B megafab in Onondaga County—the largest semiconductor facility in US history—is receiving New York state support. xAI's $20B Mississippi data center qualified for the Mississippi Development Authority's Data Center Incentive, granting sales and use tax exemptions. In both cases, the government subsidy is not incidental but load-bearing for the investment decision.
 

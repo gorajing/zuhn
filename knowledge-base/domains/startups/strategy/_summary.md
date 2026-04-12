@@ -1,6 +1,6 @@
 # Topic: strategy
 
-> 264 insights
+> 265 insights
 
 - `INS-260330-98EA` [high] The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples.
 - `INS-260403-0530` [high] New York struggles as a startup hub because founders there are second-class citizens in a status hierarchy that most admires financial wealth.
@@ -202,6 +202,7 @@
 - `INS-260403-165F` [medium] Applied Intuition reached $15B valuation by serving 18 of 20 top automakers while preserving capital and expanding to multi-product within a year.
 - `INS-260405-7DC3` [medium] E-Ship 1 added four Flettner rotors to reduce diesel consumption — not to replace diesel, making the economics and risk profile of adoption far more tractable.
 - `INS-260409-B4D0` [medium] Barbell: AI-first disruption bets on one side, durable human-need verticals (health, food, entertainment) on the other — skip the middle.
+- `INS-260412-93EA` [medium] Rwanda's strategy of explicitly targeting World Bank indicators and global rankings mirrors Goodhart's Law in business — when a measure becomes a target, it ceases to be a good measure.
 - `INS-260329-06F2` [medium] $100K is harder than $1M because $100K assumes trading hours for wages — $1M forces you to find entirely different tools and leverage.
 - `INS-260403-D1D4` [medium] Doubling your already-ambitious targets forces strategic creativity and attracts higher-caliber collaborators.
 - `INS-260404-0022` [medium] Mapping all business models on return-vs-risk and evidence-vs-potential axes reveals disruption vulnerability at a glance.

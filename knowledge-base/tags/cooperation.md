@@ -7,9 +7,9 @@
 - `INS-260412-3201` We judge unknown actors by our own nature, which is protective but may be the very thing preventing us from accessing cooperation.
 - `INS-260412-3A8E` Stronger shared identity among crowd members produces more cooperative behavior, even in dangerous situations.
 - `INS-260412-D8ED` Argentine ant supercolonies eventually fracture into warring factions as mutations create enough genetic distance for ants to recognize each other as outsiders.
+- `INS-260403-7848` Conservatives and liberals both benefit from treating 'the West' as monolithic — one gets scary stories, the other avoids engaging with uncomfortable European statistics.
 - `INS-260327-BBC2` People cooperate not because they're good but because they expect to meet again - the shadow of future interactions is the real engine of ethical behavior.
 - `INS-260330-F056` Humans evolved uniquely white scleras to make gaze direction obvious — a cooperative trade-off that predators cannot afford.
-- `INS-260403-7848` Conservatives and liberals both benefit from treating 'the West' as monolithic — one gets scary stories, the other avoids engaging with uncomfortable European statistics.
 - `INS-260403-E05D` Extractive strategies that replace cooperative arrangements reliably destroy more value than they capture.
 - `INS-260412-FE0A` Argentine ants dominate not through superior individual capabilities but through massive numbers and seamless inter-colony cooperation.
 - `INS-260323-4A3D` In prisoner's dilemma simulations, adding just a few shortcut connections to a clustered network destroys cooperation entirely -- explaining why social media breeds toxicity.

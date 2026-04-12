@@ -55,7 +55,8 @@ related:
   - INS-260412-CAAD
   - INS-260412-FEFA
   - INS-260412-6F4D
-  - INS-260322-D69E
+  - INS-260412-25C1
+  - INS-260412-2117
 ---
 Two years after opening, St Helena's tourism numbers showed modest growth — on target but not transformative. If judged solely on visitor arrivals and economic impact, the airport looked like a questionable investment. But the documentary's most powerful segment is about Eli, a premature baby with respiratory distress syndrome who was medevac'd to Cape Town in five hours. Without the airport, the month-long wait for the ship would likely have been fatal.
 

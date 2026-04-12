@@ -1,6 +1,6 @@
 # Domain: startups
 
-> 4482 insights across 55 topics
+> 4493 insights across 55 topics
 
 ## Topics
 
@@ -8,7 +8,7 @@
 | ----- | -------- | ------- |
 | ai-business-models | 41 | Andreessen Horowitz's AI x Commerce thesis argues AI will reshape how consumers discover and purchase products, creating massive startup opportunities. |
 | bootstrapping | 35 | Buying an existing business with seller financing lets you skip years of startup risk and immediately own a cash-flowing asset. |
-| business-models | 232 | The time required to build a company is often predictive of how long it will last. |
+| business-models | 235 | The time required to build a company is often predictive of how long it will last. |
 | co-founders | 42 | Esther Perel's framework from couples therapy identifies three root causes under every co-founder conflict: who has power, who feels cared for, and who gets recognized. |
 | communication | 23 | Debaters evaluate whether challenging a point is necessary for progress or merely satisfying — and let go of arguments that won't advance the overall dispute. |
 | community-building | 7 | A 25% hard cap for underrepresented categories lets curators correct homogeneity without destroying participant trust in merit-based selection. |
@@ -31,33 +31,33 @@
 | growth-marketing | 151 | Channels with 3,000-5,000 subscribers are hitting 2-3 million views by applying proven formats to underserved markets — subscriber count doesn't determine reach when format-market fit is strong. |
 | growth-strategy | 78 | Before exploring new growth channels, exhaust 10x potential in your current working channel first. |
 | health-innovation | 16 | Photosynthesis is explicitly inefficient and complicated yet powers all life on Earth — adequacy under real constraints beats theoretical optimization. |
-| hiring | 67 | The speed at which a skill can be taught is inversely correlated with its long-term career defensibility. |
+| hiring | 68 | The speed at which a skill can be taught is inversely correlated with its long-term career defensibility. |
 | ideation | 90 | The smartest people can make the impossible happen, but if you cannot attract the smartest people, you cannot even make the possible happen. |
 | innovation | 135 | C invented the curly-brace, semicolon syntax that now defines how billions of developers write code — its design choices became the assumed defaults of most successor languages. |
 | investor-relations | 4 | Match your pitch deck's emphasis to investor decision criteria at your specific funding stage. |
 | leadership | 198 | Microsoft grew revenue from $6B to $80B under Ballmer, yet the stock stayed flat for over a decade because the company could not articulate a coherent story for consumers, developers, or investors. |
-| market-entry | 55 | Simultaneous supply aging and demand shifting creates opportunities that favor operationally heavy startups over pure software. |
+| market-entry | 56 | Simultaneous supply aging and demand shifting creates opportunities that favor operationally heavy startups over pure software. |
 | marketing | 8 | Availability friction raises perceived value; waiting lists create the FOMO that 'buy now' buttons destroy. |
 | mental-models | 7 | If a system is linear, tracking what happens to a few basis cases lets you predict outcomes for all possible inputs. |
-| operations | 8 | Three GDS providers (Amadeus, Sabre, Travelport) suspending Aeroflot's access was a 'death blow' because no alternative booking infrastructure existed. |
+| operations | 9 | Three GDS providers (Amadeus, Sabre, Travelport) suspending Aeroflot's access was a 'death blow' because no alternative booking infrastructure existed. |
 | organizational-design | 19 | Innovation and execution are fundamentally different activities that require different investment mechanisms, success metrics, and decision frameworks. |
 | pitch-decks | 8 | As pitch descriptions approach 'could be anything,' their information content approaches zero. |
-| platform-dynamics | 22 | McDonald's owns the land, charges 8.5-15% of sales as rent versus the industry norm of 6-10%, and can replace underperforming franchisees while keeping the appreciating asset. |
+| platform-dynamics | 23 | McDonald's owns the land, charges 8.5-15% of sales as rent versus the industry norm of 6-10%, and can replace underperforming franchisees while keeping the appreciating asset. |
 | platform-strategy | 15 | Bezos's beer-brewery analogy was a marketing pitch for AWS, but the deeper lesson was that being the unregulated utility is the great hidden business model. |
 | problem-solving | 10 | Shade balls were originally 'bird balls' for mine tailings ponds and airports — repurposed for water quality rather than invented from scratch. |
 | product | 24 | Treating aid recipients as product users with real feedback loops produces dramatically better outcomes than top-down charity models. |
 | product-development | 139 | Apple's 48-hour design review rhythm forced constant refinement that produced best-in-class products. |
 | product-market-fit | 10 | AI PMF is a continuous recalibration process, not a one-time validation milestone. |
-| product-strategy | 87 | Juicero raised $120M for technology that was immediately undermined when customers realized the same outcome was achievable by hand. |
+| product-strategy | 88 | Juicero raised $120M for technology that was immediately undermined when customers realized the same outcome was achievable by hand. |
 | quality | 13 | Attempting exceptional work is a bargain because most people self-select out of the competition due to intimidation alone. |
 | resilience | 5 | Forces that maintain cohesion at small scale break down at larger scales, requiring different survival strategies at each phase. |
 | sales | 187 | Send 100 personalized outreach messages daily using a compliment-plus-positioning formula to guarantee your first five customers through pure volume. |
-| scaling | 189 | Startups need 2-3x longer than founders expect to validate their market, and 70% scale prematurely — largely explaining the 90% failure rate. |
+| scaling | 190 | Startups need 2-3x longer than founders expect to validate their market, and 70% scale prematurely — largely explaining the 90% failure rate. |
 | startup-ecosystem | 6 | Entrepreneurship programs designed around employment outcomes rather than viable business models systematically fail both goals. |
-| strategy | 264 | The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples. |
+| strategy | 265 | The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples. |
 | team-building | 1 | Searching for a technical cofounder before validating demand is backwards — demand attracts technical talent. |
 | timing | 66 | Enterprise SaaS IPOs from 2012 outperformed expectations by solving deep operational pain points with recurring revenue models. |
-| unit-economics | 5 | Every new store had to clear a 2:1 sales-to-investment ratio and 20% operating margin — no exceptions, for decades. |
+| unit-economics | 6 | Every new store had to clear a 2:1 sales-to-investment ratio and 20% operating margin — no exceptions, for decades. |
 | validation | 184 | Pretty much 100% of startups that make something popular manage to make money from it. |
 | venture-capital | 10 | AMI's $1.03B seed — Europe's largest ever — shows sophisticated investors concentrating capital at inception when the paradigm bet is clear. |
 | vision-and-strategy | 5 | Meta survived nine existential threats by framing itself as a 'human connection company,' not a 'social network' or 'social app' — letting the product form change while the mission stayed fixed. |

@@ -56,6 +56,7 @@ related:
   - INS-260403-CCCC
   - INS-260403-6988
   - INS-260403-20ED
+  - INS-260412-9DEE
   - INS-260403-42BA
 ---
 Trump's tariffs on China — far higher than rates on other countries — have achieved a dramatic reduction in bilateral trade dependence, with China's share of US imports plummeting. DiPippo's analysis shows that roughly 82% of China's lost US exports found alternative markets rather than being transshipped back to America, with only an upper bound of 23% potentially reaching the US indirectly. However, the overall US trade deficit has not meaningfully shrunk — November data showed imports soaring and exports falling. The divergence matters: if you evaluate tariffs by their stated goal (eliminating trade deficits), they're failing. If you evaluate them as geopolitical risk mitigation (reducing dependence on a strategic competitor), they're working. This distinction between a policy's intended and actual effects is crucial for investors and strategists assessing trade policy.

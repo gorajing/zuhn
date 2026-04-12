@@ -50,9 +50,9 @@ stance: >-
 related:
   - INS-260403-6F9C
   - INS-260403-3EDE
+  - INS-260412-B3A3
   - INS-260403-E2DE
   - PRI-260406-0A0B
-  - INS-260404-8CAE
 ---
 Traditional VC funds operate on a 10-year lifecycle—6-7 years of deployment followed by 3-4 years of divestment—inherited directly from private equity conventions. This structure forces GPs to deploy large pools of capital ($150M+) within rigid windows, which creates two failure modes: over-capitalizing founders (which inflates egos and burns cash without discipline) or backing weaker deals to hit deployment targets.
 

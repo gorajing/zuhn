@@ -1,6 +1,6 @@
 # Topic: decision-making
 
-> 164 insights
+> 166 insights
 
 - `INS-260412-4FBF` [high] If something powerful enough would leave unmistakable traces and you find none, that silence is itself a strong signal.
 - `INS-260404-A246` [high] Admitting you're bad at something is the first step to finding effective workarounds like delegation or systematic search.
@@ -78,6 +78,7 @@
 - `INS-260330-BB0C` [high] Intense romantic love activates ancient brain drive systems while shutting down newer cognitive regions for planning and evaluation.
 - `INS-260404-ABCB` [high] NASA's Bennu sample return found fragile organic compounds that meteorite studies could never detect because atmospheric entry destroys them.
 - `INS-260404-EC33` [high] Plants produce 40 billion tons of an inefficient enzyme rather than evolving a better one — volume compensates for poor per-unit performance.
+- `INS-260412-2117` [high] Increased US airport security after 9/11 drove a 6% decline in air travel, causing 500+ additional driving deaths in 2002 alone from passengers choosing cars over planes.
 - `INS-260412-BBF8` [high] Manufacturers stripped JIT down to pure inventory elimination because that showed immediate savings, while resilience mechanisms only prove their value during rare disruptions.
 - `INS-260412-59F2` [high] The barrier to becoming an interstellar civilization isn't technical feasibility but humanity's chronic short-term political focus.
 - `INS-260330-8849` [high] Cultural norms tying property ownership to marriage eligibility create demand that persists regardless of whether the purchase makes financial sense.
@@ -135,6 +136,7 @@
 - `INS-260412-C1EC` [medium] Inside a black hole's event horizon, moving in any direction only brings you to the singularity faster — the longest survival comes from doing nothing.
 - `INS-260403-C695` [medium] Just as novice pilots overcorrect and cause oscillation, investors with too much power apply excessive corrections that destabilize startups.
 - `INS-260412-6D71` [medium] Unverifiable intentions plus existential stakes collapse decision-making to worst-case assumptions.
+- `INS-260412-FB83` [medium] The 'liberty for prosperity' trade that both Singapore and Rwanda embrace appears rational in isolation but creates path-dependent lock-in where the cost of reversing course compounds invisibly over time.
 - `INS-260330-3B05` [medium] Kissing, curiosity, and exploration all share an evolutionary root: organisms that convert uncertainty into knowledge make better decisions and outcompete those that don't.
 - `INS-260330-E403` [medium] New information or advice only expands your decision space if it's linearly independent from what you already know.
 - `INS-260405-6E4F` [medium] Better inputs compound into better judgment — information diet is a leverage point most people underinvest in.

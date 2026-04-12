@@ -68,7 +68,6 @@ related:
   - PRI-260406-901E
   - INS-260403-0435
   - INS-260410-F38A
-  - INS-260412-3382
 ---
 Jim Sinegal taught Bezos the Costco model over coffee at a Barnes & Noble Starbucks: Costco makes essentially zero operating margin on merchandise and earns all its profit on membership fees. Once customers pay the fee, sunk-cost psychology kicks in—they feel compelled to 'get their money's worth,' which means routing all their shopping through Costco and becoming extraordinarily loyal. The membership also funds the low-prices-guarantee promise that makes the whole flywheel believable.
 

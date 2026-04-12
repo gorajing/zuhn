@@ -49,11 +49,11 @@ stance: >-
   Small operators face disproportionate per-unit regulatory burden because
   compliance infrastructure has a high fixed floor regardless of throughput
 related:
+  - INS-260412-25C1
   - INS-260412-E925
   - INS-260412-FEFA
   - INS-260412-6F4D
-  - INS-260410-9B33
-  - INS-260412-FD95
+  - INS-260412-2648
 ---
 ICAO regulations require every airport to maintain firefighting capability with a three-minute response time to the runway — whether the airport handles one flight a week or thousands. St Helena needs full CNS (communications, navigation, surveillance) systems, trained security staff, a dedicated meteorologist, maintenance crews, and HR/finance functions. The per-flight cost of this infrastructure is astronomical compared to a busy airport.
 

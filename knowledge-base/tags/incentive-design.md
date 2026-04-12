@@ -1,14 +1,14 @@
 # Tag: incentive-design
 
 - `INS-260404-D654` Tesla's $1T pay package only vests if the company hits $8.5T valuation through AI, robotics, and energy milestones — aligning Musk's payout with transformative value creation.
-- `INS-260330-5C6E` The early Islamic empire didn't require conversion but taxed non-Muslims more, creating a persistent economic nudge that drove widespread voluntary conversion over generations.
 - `INS-260410-F026` The eBay deal likely included 1.5M of founder secondary — and that may have been what prevented Pierre from selling to Knight Ridder for 50M instead of building a 21B company.
 - `INS-260410-4627` Rentech's 5-and-44 fee structure on a closed insider fund functions as a tenured university department would: senior partners (LPs) automatically transfer economic value to the current working team (GPs) through carry, keeping active researchers richly incentivized without requiring arbitrary annual bonus decisions.
+- `INS-260330-1EAC` China's 70-year land leases and GDP-linked official promotions incentivize developers to build low-quality housing that will need rebuilding, boosting future GDP cycles.
+- `INS-260330-3BBD` Trump's provocative approach to NATO allies finally broke the 50-year free-rider equilibrium that conventional diplomacy could not.
+- `INS-260330-5C6E` The early Islamic empire didn't require conversion but taxed non-Muslims more, creating a persistent economic nudge that drove widespread voluntary conversion over generations.
 - `INS-260412-BBF8` Manufacturers stripped JIT down to pure inventory elimination because that showed immediate savings, while resilience mechanisms only prove their value during rare disruptions.
 - `INS-260412-9F1D` Competitive dynamics within a crowd destroy cooperative behavior and are the primary driver of crowd crush risk.
 - `INS-260403-FF74` Formal restrictions provoke resistance in hacker-minded people, while informal social contracts earn genuine compliance.
-- `INS-260330-1EAC` China's 70-year land leases and GDP-linked official promotions incentivize developers to build low-quality housing that will need rebuilding, boosting future GDP cycles.
-- `INS-260330-3BBD` Trump's provocative approach to NATO allies finally broke the 50-year free-rider equilibrium that conventional diplomacy could not.
 - `INS-260330-3879` The MNIST network confidently classifies random noise because its cost function never incentivized uncertainty — what you optimize for defines the ceiling of what you learn.
 - `INS-260404-78E6` When downvotes affect karma, users delete wisecracks but stubbornly leave up substantive controversial opinions.
 - `INS-260330-1B8A` The Constitution's framers designed checks against both government tyranny and democratic mob rule, creating a system durable enough to last 230+ years.
@@ -16,6 +16,7 @@
 - `INS-260403-86DF` Removing the economic incentive for a behavior (prosecuting employers) is more effective than trying to physically prevent the behavior (ICE raids).
 - `INS-260330-AE70` Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.
 - `INS-260330-C7FF` The most successful YC companies gave generous equity to early employees (~10% for first 10) while fighting to minimize investor dilution.
+- `INS-260412-2DEF` The US foreign service's tiered hardship and danger pay system voluntarily fills the worst postings by transparently pricing difficulty into compensation.
 - `INS-260404-886C` Intrapreneurs who create billion-dollar internal ventures deserve compensation and career tracks equivalent to salespeople who generate comparable revenue.
 - `INS-260330-175F` A formal, periodic raise process prevents the culture from rewarding those who ask over those who perform.
 - `INS-260410-A65C` The NFL got Pete Rozelle as a paid commissioner; F1 needed Bernie Ecclestone as an owner-operator because you cannot wage-incentivize someone to wrangle global teams, tracks, broadcasters, and a regulator across 45 years.

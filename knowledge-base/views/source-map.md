@@ -771,6 +771,8 @@ Generated on 2026-04-12 | 2417 sources
 | Hermès (Audio) | youtube | 5 | 2026-04-11 |
 | How A Kid With $0 Created Nike | youtube | 5 | 2026-03-30 |
 | How AI Will Transform Fintech In 2026 | youtube | 5 | 2026-03-22 |
+| How Air Traffic Control Works | youtube | 5 | 2026-04-12 |
+| How Airlines Quietly Became Banks | youtube | 5 | 2026-04-12 |
 | How are holograms possible? | youtube | 5 | 2026-03-30 |
 | How Barbers Really Make Money | youtube | 5 | 2026-03-24 |
 | How Does A Carburetor Work? | Transparent Carburetor at 28,546 fps Slow Mo - Smarter Every Day 259 | youtube | 5 | 2026-03-30 |
@@ -784,6 +786,7 @@ Generated on 2026-04-12 | 2417 sources
 | How One Company Secretly Poisoned The Planet | youtube | 5 | 2026-03-30 |
 | How one psychedelic trip can alter an entire lifetime | Matthew Johnson: Full Interview | youtube | 5 | 2026-03-25 |
 | How OpenAI Builds for 800 Million Weekly Users: Model Specialization and Fine-Tuning | youtube | 5 | 2026-03-22 |
+| How Rwanda is Becoming the Singapore of Africa | youtube | 5 | 2026-04-12 |
 | How Sugar & Processed Foods Impact Your Health | Dr. Robert Lustig | youtube | 5 | 2026-03-30 |
 | How the World’s Most Dangerous Country Solved Murder | youtube | 5 | 2026-04-12 |
 | How to Access Your Creativity | Rick Rubin | youtube | 5 | 2026-03-30 |
@@ -1454,6 +1457,7 @@ Generated on 2026-04-12 | 2417 sources
 | Emmett Shear on Building AI That Actually Cares: Beyond Control and Steering | youtube | 4 | 2026-03-22 |
 | Enterprise Sales | Startup School | youtube | 4 | 2026-03-27 |
 | Every major leap in human progress has this in common | Jason Crawford: Full Interview | youtube | 4 | 2026-03-25 |
+| Every State in the US | youtube | 4 | 2026-04-12 |
 | Fireside Chat #15: Making Large Language Models Uncool Again | youtube | 4 | 2026-03-28 |
 | From Dot-Com Bust to AI Boom: What I Learned the Hard Way (So You Don't Have To) | Bruce Wang | youtube | 4 | 2026-03-26 |
 | Gary Marcus on the Massive Problems Facing AI & LLM Scaling | The Real Eisman Playbook Episode 42 | youtube | 4 | 2026-03-23 |
@@ -1473,6 +1477,7 @@ Generated on 2026-04-12 | 2417 sources
 | How Axon Became Wall Street's Hottest Stock | youtube | 4 | 2026-03-24 |
 | How Boba Shops Really Make Money | youtube | 4 | 2026-03-24 |
 | How childhood wiring impacts adult life, in 90 minutes | Becky Kennedy: Full Interview | youtube | 4 | 2026-03-25 |
+| How China Broke the World's Recycling | youtube | 4 | 2026-04-12 |
 | How China's 'Perfect' Spy Got Caught | Bloomberg Investigates | youtube | 4 | 2026-03-23 |
 | How Cruise Ships Work | youtube | 4 | 2026-03-30 |
 | How Earth Moves | youtube | 4 | 2026-03-30 |
@@ -1486,10 +1491,12 @@ Generated on 2026-04-12 | 2417 sources
 | How Somalia’s Pirates Make Money | youtube | 4 | 2026-03-30 |
 | How the body keeps the score on trauma | Bessel van der Kolk for Big Think+ | youtube | 4 | 2026-03-30 |
 | How The Immune System ACTUALLY Works – IMMUNE | youtube | 4 | 2026-04-12 |
+| How the World’s Wealthiest People Travel | youtube | 4 | 2026-04-12 |
 | How This Central African City Became the World’s Most Expensive | youtube | 4 | 2026-04-12 |
 | How To Convert Customers With Cold Emails | Startup School | youtube | 4 | 2026-03-27 |
 | How To Count Past Infinity | youtube | 4 | 2026-03-30 |
 | How to Create a Frequency so Magnetic Your Desires Chase You | youtube | 4 | 2026-03-23 |
+| How to Design Impenetrable Airport Security | youtube | 4 | 2026-04-12 |
 | How to enter ‘flow state’ on command | Steven Kotler for Big Think | youtube | 4 | 2026-03-30 |
 | How to Get Rich | youtube | 4 | 2026-03-30 |
 | How to Lead With Radical Candor | Kim Scott | TED | youtube | 4 | 2026-03-27 |
@@ -1528,6 +1535,7 @@ Generated on 2026-04-12 | 2417 sources
 | Messages For The Future | youtube | 4 | 2026-03-30 |
 | Michio Kaku: What If Einstein Is Wrong? | Big Think | youtube | 4 | 2026-03-30 |
 | Milk. White Poison or Healthy Drink? | youtube | 4 | 2026-04-12 |
+| Mini Countries Abroad: How Embassies Work | youtube | 4 | 2026-04-12 |
 | Most AI Startups Fail (Here’s Why Yours Might Too) | youtube | 4 | 2026-03-23 |
 | My $10M Failed Startup Story - Learnings & Advice for Entrepreneurs | youtube | 4 | 2026-03-23 |
 | My App Failed - My Brutal 6 Months Building a Startup | youtube | 4 | 2026-03-23 |
@@ -1641,6 +1649,7 @@ Generated on 2026-04-12 | 2417 sources
 | Why Are Things Creepy? | youtube | 4 | 2026-03-30 |
 | Why Black Holes Could Delete The Universe – The Information Paradox | youtube | 4 | 2026-04-12 |
 | Why Blue Whales Don't Get Cancer - Peto's Paradox | youtube | 4 | 2026-04-12 |
+| Why Cities Are Where They Are | youtube | 4 | 2026-04-12 |
 | Why do prime numbers make these spirals? | Dirichlet’s theorem and pi approximations | youtube | 4 | 2026-03-30 |
 | Why is pi here?  And why is it squared?  A geometric answer to the Basel problem | youtube | 4 | 2026-03-30 |
 | Why Most AI Projects Fail Before They Start | youtube | 4 | 2026-03-23 |
@@ -2386,23 +2395,15 @@ Generated on 2026-04-12 | 2417 sources
 | China's Geography Problem | youtube | 0 | 2026-04-12 |
 | Cities at Sea: How Aircraft Carriers Work | youtube | 0 | 2026-04-12 |
 | Elon Musk's Basic Economics | youtube | 0 | 2026-04-12 |
-| Every State in the US | youtube | 0 | 2026-04-12 |
 | Guam: Why America's Most Isolated Territory Exists | youtube | 0 | 2026-04-12 |
 | How Africa is Becoming China's China | youtube | 0 | 2026-04-12 |
-| How Air Traffic Control Works | youtube | 0 | 2026-04-12 |
-| How Airlines Quietly Became Banks | youtube | 0 | 2026-04-12 |
 | How Airlines Schedule Flights | youtube | 0 | 2026-04-12 |
 | How Airports Make Money | youtube | 0 | 2026-04-12 |
 | How Budget Airlines Work | youtube | 0 | 2026-04-12 |
-| How China Broke the World's Recycling | youtube | 0 | 2026-04-12 |
 | How Overnight Shipping Works | youtube | 0 | 2026-04-12 |
-| How Rwanda is Becoming the Singapore of Africa | youtube | 0 | 2026-04-12 |
 | How the US Government Will Survive Doomsday | youtube | 0 | 2026-04-12 |
-| How the World’s Wealthiest People Travel | youtube | 0 | 2026-04-12 |
-| How to Design Impenetrable Airport Security | youtube | 0 | 2026-04-12 |
 | How to Stop a Riot | youtube | 0 | 2026-04-12 |
 | Living Underwater: How Submarines Work | youtube | 0 | 2026-04-12 |
-| Mini Countries Abroad: How Embassies Work | youtube | 0 | 2026-04-12 |
 | Russia's Geography Problem | youtube | 0 | 2026-04-12 |
 | The Economics of Airline Class | youtube | 0 | 2026-04-12 |
 | The Economics of Private Jets | youtube | 0 | 2026-04-12 |
@@ -2415,7 +2416,6 @@ Generated on 2026-04-12 | 2417 sources
 | What's Actually the Plane of the Future | youtube | 0 | 2026-04-12 |
 | Why China Is so Good at Building Railways | youtube | 0 | 2026-04-12 |
 | Why Chinese Manufacturing Wins | youtube | 0 | 2026-04-12 |
-| Why Cities Are Where They Are | youtube | 0 | 2026-04-12 |
 | Why Flying is So Expensive | youtube | 0 | 2026-04-12 |
 | Why Planes Don't Fly Faster | youtube | 0 | 2026-04-12 |
 | Why the Northernmost Town in America Exists | youtube | 0 | 2026-04-12 |

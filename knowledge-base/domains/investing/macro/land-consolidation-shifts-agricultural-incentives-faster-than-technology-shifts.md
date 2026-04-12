@@ -68,10 +68,11 @@ stance: >-
 related:
   - INS-260403-3615
   - INS-260403-F01C
+  - INS-260412-2367
   - INS-260404-1A34
   - INS-260404-2CA6
-  - INS-260404-8A36
   - INS-260403-B6C6
+  - INS-260404-8A36
 ---
 Technology in agriculture — precision sensors, gene editing, automation — operates on 10-20 year adoption curves bounded by regulatory approval, capital cost, and integration with legacy equipment. Market consolidation operates on deal timescales: an acquisition changes pricing power, risk distribution, and incentive structures within months.
 

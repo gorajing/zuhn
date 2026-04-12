@@ -6,14 +6,14 @@
 - `INS-260330-22F0` Before psychoanalysis, mentally ill patients were confined to sanatoriums; Freud's talk therapy demonstrated that conversation itself could be curative.
 - `INS-260325-4C2E` The algorithm effect replaces internal motivation with external validation loops, creating population-level identity outsourcing to platforms.
 - `INS-260330-F6DB` Facebook's own internal research found Instagram is 'toxic to a sizable percent of users' and worsens body image for 1 in 3 teen girls — a structural consequence of curated self-presentation at scale.
+- `INS-260325-765F` Rather than viewing time alone as reflecting something wrong about you, reframing it as an opportunity for creativity and pleasant self-reflection transforms the experience from harmful to beneficial.
+- `INS-260328-3FCE` The Dark Playground — leisure during times meant for work — fills the air with guilt and anxiety, making the fun not actually fun.
 - `INS-260403-8AEA` $10B+ founders nearly universally exhibit both a superiority complex and a deep inferiority complex operating simultaneously.
 - `INS-260403-9FEA` 42% of business owners experienced burnout recently, but the early warning signs are culturally celebrated rather than treated.
 - `INS-260330-9BF3` Founder psychology doesn't stabilize with success — the emotional amplitude expands, with higher highs but increasingly devastating lows.
-- `INS-260325-765F` Rather than viewing time alone as reflecting something wrong about you, reframing it as an opportunity for creativity and pleasant self-reflection transforms the experience from harmful to beneficial.
-- `INS-260328-3FCE` The Dark Playground — leisure during times meant for work — fills the air with guilt and anxiety, making the fun not actually fun.
 - `INS-260403-6EA0` Thinking in specific causal chains rather than vague decline narratives is both more accurate and more psychologically sustainable.
-- `INS-260327-9D51` Algorithms optimized for engagement systematically show people the most extreme, emotional, and divisive content, creating population-scale distortion of what the world actually looks like.
 - `INS-260325-0892` Men open up more readily shoulder-to-shoulder during shared activities than face-to-face in a therapy office, which is why walk-and-talk therapy and coaching are more effective engagement models.
+- `INS-260327-9D51` Algorithms optimized for engagement systematically show people the most extreme, emotional, and divisive content, creating population-scale distortion of what the world actually looks like.
 - `INS-260330-D2CE` Agency and gratitude serve as the top-level indicators of mental health, paralleling blood pressure and endurance in physical health.
 - `INS-260325-1345` A third of male K-12 teachers also coach, and coaches naturally spot struggling boys and open conversations in non-threatening shoulder-to-shoulder settings -- they are disguised mental health infrastructure.
 - `INS-260403-CCC3` Managing chatter requires building a personalized toolkit across three domains: solo techniques, social strategies, and environmental design.

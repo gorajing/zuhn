@@ -53,11 +53,11 @@ stance: >-
   companies) have a meaningful fundraising advantage because investors trust
   they understand the problem at a level outsiders cannot replicate.
 related:
+  - INS-260412-B3A3
   - INS-260330-D7CC
   - INS-260405-BC10
   - INS-260403-C732
   - INS-260404-7679
-  - INS-260410-5D08
 evidence:
   - id: INS-260330-D7CC
     type: CHALLENGES

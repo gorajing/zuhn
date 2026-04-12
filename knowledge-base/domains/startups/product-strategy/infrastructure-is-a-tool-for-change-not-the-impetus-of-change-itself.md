@@ -50,9 +50,9 @@ related:
   - INS-260410-54CB
   - INS-260412-CAAD
   - INS-260412-FEFA
+  - INS-260412-25C1
   - INS-260412-E925
-  - INS-260324-FF33
-  - INS-260330-E615
+  - INS-260412-2648
 ---
 St Helena spent hundreds of millions on an airport expecting it to catalyze tourism growth, but two years in there was no tourism explosion. The airport functioned — flights landed reliably, no diversions occurred — yet the island remained a niche destination because flights were expensive, infrequent, and indirect for non-South Africans.
 
