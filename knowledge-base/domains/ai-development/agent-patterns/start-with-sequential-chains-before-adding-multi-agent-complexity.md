@@ -48,10 +48,10 @@ stance: >-
   failures instead of task logic.
 related:
   - INS-260321-18D0
+  - PRI-260411-78CD
   - INS-260410-0E26
   - INS-260323-2E51
   - INS-260330-7E4F
-  - INS-260409-0DB0
 ---
 Google's final pro-tip mirrors Anthropic's core guidance on agent architecture: 'Do not build a nested loop system on day one. Start with a sequential chain, debug it, and then add complexity.' This is the agent equivalent of premature optimization — adding coordination overhead before the individual agent tasks are validated.
 

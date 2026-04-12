@@ -1,11 +1,11 @@
 # Tag: contrarian-thinking
 
 - `INS-260330-4AD5` AI improves its usability faster than you can learn tricks, so just speak naturally and let the models catch up to you.
+- `INS-260405-BBC9` The most compelling recent evidence for a trend is often a leading indicator of its reversal, not its continuation.
+- `INS-260403-99FE` When established players consistently make irrational decisions, the resulting gap is a reliable signal of untapped opportunity.
 - `INS-260402-8ACF` Truly novel and valuable ideas must appear bad to most evaluators, because obvious good ideas get executed immediately and stop being novel.
 - `INS-260330-31B5` If you're drawn to work despite its lack of prestige, that's evidence both of genuine interest and of untapped opportunity.
 - `INS-260403-B6FD` False popular beliefs suppress exploration of nearby true ideas, creating predictable regions where novel insights cluster.
-- `INS-260405-BBC9` The most compelling recent evidence for a trend is often a leading indicator of its reversal, not its continuation.
-- `INS-260403-99FE` When established players consistently make irrational decisions, the resulting gap is a reliable signal of untapped opportunity.
 - `INS-260323-7345` Bohr's social authority caused the physics community to dismiss the EPR paradox for 30 years — not because he refuted it, but because his response was so obscure nobody dared challenge it, and anyone who did was told 'Do you think you're smarter than Niels Bohr?'
 - `INS-260323-0556` Black holes were resisted for decades because they seemed 'too preposterous to be real,' with senior scientists publicly attacking younger ones for following the math.
 - `INS-260330-548E` Rubin identifies owning your aesthetic feelings in the face of external disagreement as 'probably the single most important thing to practice as an artist.'
@@ -14,14 +14,14 @@
 - `INS-260329-AAE3` You can be right 99% of the time that individual attempts will fail, but being 100% wrong on the long-term outcome because one of them would have worked if you kept going.
 - `INS-260409-81CB` The most valuable AI insight for you personally is whichever side you're currently not considering — deliberately steelman the counter to your default position.
 - `INS-260327-7F11` The biggest wins come from holding ideas that smart people call stupid—expert consensus is where the alpha is.
+- `INS-260403-BAE1` YC's evolution toward consensus-friendly prompts risks creating a 'Consensus Capital Machine' where founders chase trends instead of pursuing conviction-driven missions.
+- `INS-260403-2788` The right response to a new idea is not gentler criticism but actively imagining how it could work.
 - `INS-260330-66A0` The best startup ideas look bad initially because good-sounding ones attract too many competitors, preventing monopoly formation.
 - `INS-260329-ABD9` Find ideas others have discarded rather than trying to discover something nobody has ever considered.
 - `INS-260330-4EF8` A contrarian idea is only valuable if you can name what you know that smart, informed skeptics don't — otherwise you're just wrong.
 - `INS-260330-0E49` Contrarian conviction must be grounded in a specific knowledge advantage over smart critics, not just general disagreement.
 - `INS-260321-3660` Making startup decisions based on VC podcasts and content is literally the definition of generating non-unique ideas.
 - `INS-260329-AA30` If your startup idea came from a podcast or VC content, it is by definition not unique — because millions of other people consumed the same content.
-- `INS-260403-2788` The right response to a new idea is not gentler criticism but actively imagining how it could work.
-- `INS-260403-BAE1` YC's evolution toward consensus-friendly prompts risks creating a 'Consensus Capital Machine' where founders chase trends instead of pursuing conviction-driven missions.
 - `INS-260403-8B94` Markets fill gaps fast, so viable startup ideas hide in five specific places where the market is temporarily imperfect.
 - `INS-260327-643E` Ideas that seem bad — boring (Gusto/payroll), hard to start (Stripe/bank deals), or crowded (Dropbox/20 competitors) — systematically outperform because most founders avoid them.
 - `INS-260323-09E4` When everyone agrees your startup idea is great, someone has probably already built it; when everyone thinks it's crazy, you may be onto something real.

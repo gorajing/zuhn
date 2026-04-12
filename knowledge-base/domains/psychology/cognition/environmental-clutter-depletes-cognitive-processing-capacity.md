@@ -42,11 +42,11 @@ stance: >-
   surroundings to build mental models, and complex scenes consume processing
   energy that would otherwise fuel conscious thought
 related:
+  - PRI-260411-9CB1
   - PRI-260406-6531
   - INS-260327-ABF8
   - INS-260330-CA97
   - INS-260410-BD9D
-  - PRI-260405-E628
 evidence:
   - id: INS-260330-CA97
     type: SUPPORTS

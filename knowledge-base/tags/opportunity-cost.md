@@ -2,6 +2,11 @@
 
 - `INS-260402-C98A` Cheaper AI produces more value, which drives up the price of AI's best uses, perpetually leaving room for human workers in lower-priority tasks.
 - `INS-260402-2D38` Finite compute forces allocation tradeoffs that keep humans economically relevant regardless of AI capability.
+- `INS-260329-55DC` Young people should invest in skills rather than the S&P 500 because earning capacity compounds faster than 10% annual market returns.
+- `INS-260330-7EAA` Cash sitting idle in offshore accounts destroys value because it earns no return while shareholders' alternative investments would.
+- `INS-260329-EC33` Stop chasing passive income and instead calculate your effective hourly rate, then maximize hours in your highest-paying activity.
+- `INS-260410-6E01` Missing Google or Facebook costs more than a dozen Webvans, so the correct bias in venture is toward aggressive pursuit of any plausible outlier.
+- `INS-260403-8DD4` With rates near zero in 2021, the U.S. could have refinanced its national debt cheaply but didn't, now facing 5%+ rates on trillions in rolling maturities.
 - `INS-260403-F03A` Judge purchases by projected usage, not by the deal you got.
 - `INS-260402-B66A` Your early twenties offer unique exploration that a startup's all-consuming depth-first search permanently forecloses.
 - `INS-260403-D294` Irreversible geological and cosmic decay means some present-day experiences are genuinely non-renewable, which should increase their weight in how we allocate time.
@@ -46,8 +51,3 @@
 - `INS-260327-D0F4` Goldman exited their consumer business with Apple not because it failed but because at less than 5% of revenue it consumed 40% of management attention, blocking higher-value initiatives.
 - `INS-260329-7D18` Your 20s are for sampling widely and your 30s are for going deep on the best thing you found — mistiming this transition is the most common career error.
 - `INS-260329-FC53` Your results are mostly determined by which vehicle you operate in, not how hard you row.
-- `INS-260329-55DC` Young people should invest in skills rather than the S&P 500 because earning capacity compounds faster than 10% annual market returns.
-- `INS-260330-7EAA` Cash sitting idle in offshore accounts destroys value because it earns no return while shareholders' alternative investments would.
-- `INS-260329-EC33` Stop chasing passive income and instead calculate your effective hourly rate, then maximize hours in your highest-paying activity.
-- `INS-260410-6E01` Missing Google or Facebook costs more than a dozen Webvans, so the correct bias in venture is toward aggressive pursuit of any plausible outlier.
-- `INS-260403-8DD4` With rates near zero in 2021, the U.S. could have refinanced its national debt cheaply but didn't, now facing 5%+ rates on trillions in rolling maturities.

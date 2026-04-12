@@ -4,6 +4,9 @@
 - `INS-260403-02E2` Treating AGI arrival as an instant winner-take-all event is faith-based reasoning that substitutes for sound business fundamentals.
 - `INS-260403-CDB9` Proprietary real-time data sources like social media feeds create defensible advantages over competitors relying on static web scrapes.
 - `INS-260404-573C` Despite AI advances, Google's structural advantages in data, distribution, and advertising make search displacement extremely unlikely.
+- `INS-260405-C0AF` Surviving retailers like Costco, Ross, Aldi, and Dollar General prove physical retail isn't dying — only undifferentiated or maladapted retail is.
+- `INS-260404-7AA0` More traders create better price signals, which attract more traders — a classic liquidity network effect that compounds.
+- `INS-260403-BCCB` Regulatory infrastructure, not code, is the true barrier to entry in tokenized credit markets.
 - `INS-260402-2D7B` Building authoritative trust in an adjacent domain creates differentiation that competitors cannot easily replicate.
 - `INS-260403-C681` Waze's CEO argues data is only worth what you sold it for — the widespread startup belief that 'having a lot of data is valuable' is fundamentally wrong without a specific value-creation mechanism.
 - `INS-260403-F52E` RuBisCo evolved when oxygen was scarce and CO2 abundant — rising oxygen levels broke its core function, but plants couldn't pivot.
@@ -38,12 +41,12 @@
 - `INS-260403-8011` When the Internet eliminates distribution bottlenecks, 'build it and they will come' becomes a viable strategy.
 - `INS-260402-45FA` Choosing unfamiliar but powerful technology creates advantages competitors can't even diagnose, let alone copy.
 - `INS-260403-B3E8` A16z is hiring dedicated ecosystem leadership to turn its relationship network into compounding infrastructure rather than treating connections as ad hoc deal flow.
-- `INS-260330-66A0` The best startup ideas look bad initially because good-sounding ones attract too many competitors, preventing monopoly formation.
 - `INS-260404-277E` Startups bridging foodtech with other industries create defensibility through cross-vertical complexity.
+- `INS-260330-66A0` The best startup ideas look bad initially because good-sounding ones attract too many competitors, preventing monopoly formation.
 - `INS-260404-C501` Treat differentiation as a combinatorial selection from ~20 possible axes rather than finding one unique angle.
 - `INS-260403-204E` In vertical AI, the defensible position is owning the control point that facilitates the transaction, not just saving time on adjacent tasks.
-- `INS-260404-1A18` Photosynthesis has been 'complicated, inefficient and confusing' for 450 million years yet dominates all life on Earth, demonstrating that first-mover lock-in can outlast any degree of technical debt.
 - `INS-260403-FCD7` YC's culture was its product, and the authentic family atmosphere created a competitive moat that traditional VC firms on Sand Hill Road could not replicate.
+- `INS-260404-1A18` Photosynthesis has been 'complicated, inefficient and confusing' for 450 million years yet dominates all life on Earth, demonstrating that first-mover lock-in can outlast any degree of technical debt.
 - `INS-260404-3C7A` Costco turns confusing layouts, limited selection, and upfront fees into deal-hunting excitement, supplier leverage, and customer loyalty respectively.
 - `INS-260403-F290` Plants built entire metabolic pathways to compensate for RuBisCo's flaws rather than replace it — a pattern that applies to startups managing legacy technical debt.
 - `INS-260410-DF88` Benchmark's 'we will not scale' is a real strategy because the thing they sell — partnership-wide attention on every portfolio company — literally cannot exist at 5x the size.
@@ -51,6 +54,3 @@
 - `INS-260405-F20F` RuBisCo, an enzyme that makes catastrophic errors 50% of the time, remains the planet's dominant carbon-fixing enzyme because plants went all-in on it before oxygen made it dysfunctional.
 - `INS-260403-7E6A` North Korea skipped conventional military parity and went straight to nuclear weapons, showing how one overwhelming capability can substitute for broad competitiveness.
 - `INS-260404-8B1C` Costco turns warehouse aesthetics, confusing layouts, and limited selection into feelings of deal-hunting and exclusivity—making cost savings feel like customer features.
-- `INS-260405-C0AF` Surviving retailers like Costco, Ross, Aldi, and Dollar General prove physical retail isn't dying — only undifferentiated or maladapted retail is.
-- `INS-260404-7AA0` More traders create better price signals, which attract more traders — a classic liquidity network effect that compounds.
-- `INS-260403-BCCB` Regulatory infrastructure, not code, is the true barrier to entry in tokenized credit markets.

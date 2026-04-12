@@ -42,7 +42,6 @@ stance: >-
   Viewing people who judge you as customers rather than judges removes the
   expectation of fairness and makes rejection less personally painful.
 related:
-  - INS-260322-D6D7
   - INS-260324-40AA
   - INS-260327-C6DC
   - INS-260328-41C9
@@ -52,6 +51,7 @@ related:
   - INS-260404-E185
   - INS-260404-5A3D
   - INS-260405-02BE
+  - INS-260405-D3D7
 evidence:
   - id: INS-260322-D6D7
     type: TRANSFERS_TO

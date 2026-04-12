@@ -14,5 +14,5 @@
 - `INS-260322-FFF6` The cost of reaching audiences on social platforms is zero for distribution — an unprecedented asymmetry that most businesses fail to exploit.
 - `INS-260403-4610` Creandum went Stockholm → San Francisco → Germany → London, using US credibility to unlock European markets.
 - `INS-260403-BA0D` Obsessing over product quality and customer service can substitute for early brand investment by generating organic trust and word-of-mouth.
-- `INS-260323-FF23` Every business needs a creator — build in public, show the behind-the-scenes journey, and your content will naturally attract your ideal customer profile while filtering out everyone else.
 - `INS-260323-4DD9` Having a great product is necessary but nowhere near sufficient — you also need visibility, authority, credibility, marketing strategy, and customer experience to survive.
+- `INS-260323-FF23` Every business needs a creator — build in public, show the behind-the-scenes journey, and your content will naturally attract your ideal customer profile while filtering out everyone else.

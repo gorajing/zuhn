@@ -53,11 +53,11 @@ stance: >-
   improvements come from a separate skeptical evaluator agent rather than asking
   the generator to self-critique.
 related:
-  - INS-260409-E080
+  - PRI-260411-14DC
   - INS-260403-4363
   - INS-260410-F40F
   - PRI-260405-4B06
-  - INS-260410-3601
+  - INS-260409-E080
 ---
 When asked to judge their own work, agents reliably skew positive — they identify legitimate issues then talk themselves into approving the work anyway. This persists even on tasks with verifiable outcomes, not just subjective ones like design. Splitting the work-doer from the work-judger doesn't automatically solve this (the evaluator is still an LLM inclined to be generous toward LLM outputs), but tuning a standalone evaluator to be skeptical is much easier than making a generator self-critical.
 

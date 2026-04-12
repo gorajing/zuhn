@@ -49,9 +49,9 @@ resolutions:
 related:
   - INS-260410-F40F
   - INS-260322-D1AB
+  - PRI-260411-14DC
   - PRI-260405-4B06
   - INS-260410-4EB9
-  - INS-260404-5365
   - INS-260402-D534
 stance: >-
   Replace subjective 'rate 1-10' evals with binary yes/no questions (e.g., 'Does

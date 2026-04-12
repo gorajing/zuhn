@@ -32,9 +32,9 @@
 - `INS-260404-FC9E` AI is the platform shift enabling open-source tools to displace entrenched SaaS incumbents.
 - `INS-260404-83C6` DeepSeek proved frontier AI can emerge from a hedge fund side project in China, not just from billion-dollar Western labs.
 - `INS-260410-B30D` Leonardo wrote his discoveries in coded mirror script and Brunelleschi burned his dome schematics — both wanted to be marveled at forever, and Palmer calls them saboteurs of human progress.
-- `INS-260320-0063` n8n workflows can be exported as JSON and shared on GitHub with Google Doc templates -- the business analysis workflow repo has 98 stars and is MIT licensed.
 - `INS-260323-E559` The XZ backdoor nearly succeeded because the entire Linux ecosystem depended on a compression tool maintained by one burned-out volunteer for 20 years.
 - `INS-260323-A8B5` Jia Tan did not hack XZ — he spent years building trust with the maintainer, then weaponized that trust to insert a backdoor.
+- `INS-260320-0063` n8n workflows can be exported as JSON and shared on GitHub with Google Doc templates -- the business analysis workflow repo has 98 stars and is MIT licensed.
 - `INS-260409-3FDE` Contributor gizmax reproduced MemPalace's 96.6% LongMemEval R@5 on M2 Ultra in under 5 minutes using the public benchmark scripts — that reproduction is exactly what forced the retraction of the other overclaims by making ground truth reviewable.
 - `INS-260409-42F7` Within 48 hours of the MemPalace launch, maintainers Milla Jovovich and Ben Sigman wrote a public 'What we got wrong' section admitting four specific overclaims and shipped fixes — a level of intellectual honesty that product marketing incentives rarely allow.
 - `INS-260405-94A0` OSS is not free software without monetization — it is a distribution and ecosystem strategy that enables diverse commercial models on top.

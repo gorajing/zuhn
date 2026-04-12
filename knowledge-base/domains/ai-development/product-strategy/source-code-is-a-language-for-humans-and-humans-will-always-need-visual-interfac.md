@@ -54,12 +54,12 @@ stance: >-
   believing humans will never need to interact with code, which won't happen
   until AGI.
 related:
-  - INS-260321-9906
   - INS-260327-9D50
   - INS-260329-500E
+  - PRI-260411-64C7
+  - INS-260321-9906
   - INS-260403-8953
   - INS-260322-CCAA
-  - INS-260325-031F
 ---
 Nathan Sobo makes a philosophical argument for the IDE's survival: source code is not binary for machines but a language for human comprehension. Quoting Harold Abelson: 'Programs should be written for people to read and only incidentally for machines to execute.' As long as humans need to understand, review, and verify what AI agents are doing to their codebases, they need interfaces optimized for reading and navigating code.
 

@@ -16,8 +16,8 @@
 - `INS-260403-9DA1` Destin's fluid dynamics knowledge combined with David's motion control engineering made a previously impossible recreation achievable.
 - `INS-260403-0A1C` Moving participants from seated table discussions to standing around wall-mounted visual tools increases engagement by changing the physical and social dynamics of collaboration.
 - `INS-260322-8F3F` Tight-knit groups of early employees at breakout companies go on to found and lead the next generation of billion-dollar companies, creating collaborative networks that compound over decades.
-- `INS-260330-FBC0` Innovation is an incremental, collaborative evolutionary process — not breakthrough moments by lone geniuses.
 - `INS-260410-9B33` Research shows direct long-haul flight connections between cities increase cross-city idea flow more than internet connectivity — and the effect is strongest between culturally distant places.
+- `INS-260330-FBC0` Innovation is an incremental, collaborative evolutionary process — not breakthrough moments by lone geniuses.
 - `INS-260403-8280` A design that represents one person's coherent vision will be coherent for the user; committee designs fragment into incoherence.
 - `INS-260410-0CFE` Rentech's single-model architecture — where every researcher's improvement instantly benefits everyone — is the structural difference that Citadel, DE Shaw, and Two Sigma cannot replicate because their multi-strategy pods are culturally and compensation-wise competitive.
 - `INS-260323-6C84` Wikipedia's predecessor Nupedia had a 7-stage academic review process that produced almost nothing in 2 years — switching to open wiki editing produced more work in 2 weeks than 2 years of rigorous process.

@@ -11,6 +11,8 @@
 - `INS-260330-6418` The Women's March on Versailles was driven by grain hoarding rumors, not Enlightenment philosophy — material deprivation is the actual catalyst for collective action.
 - `INS-260405-9760` Being measured on output alone and judged against your own bar is the condition for peak productivity.
 - `INS-260403-0949` Speaking excels at motivation and emotional impact, not at conveying complex ideas — choose your communication medium accordingly.
+- `INS-260327-A052` The Crusade mobilized tens of thousands to march across a continent at their own expense because the spiritual incentive (remission of sins) was more powerful than any paycheck.
+- `INS-260329-A231` The debt snowball method wins not because it saves the most interest, but because quick wins create psychological momentum that prevents abandonment.
 - `INS-260403-81A4` Instead of dwelling on death, cultivate aggressive impatience about doing the things that matter to you.
 - `INS-260403-5BF9` Rollins credits his relentless work ethic to never forgetting the $8/hour ice cream shop he'd return to if he stopped hustling.
 - `INS-260405-E05D` The right to pitch future articles and sidebar placement may be worth more to a writer than the $2,500 first prize.
@@ -19,7 +21,6 @@
 - `INS-260402-8223` Great work comes from deep curiosity about specific questions, not from forcing yourself through material via discipline.
 - `INS-260403-48FE` Treating new work as experiments means even failures produce knowledge, removing the psychological cost of early-stage lameness.
 - `INS-260403-8B92` Ownership has two axes: choosing to do it (pull vs push) and doing it yourself (solo vs collaborative), which combine independently.
-- `INS-260329-A231` The debt snowball method wins not because it saves the most interest, but because quick wins create psychological momentum that prevents abandonment.
 - `INS-260403-4CE2` Perceived laziness in young people often reflects unappetizing work, not lack of drive — ownership unlocks latent intensity.
 - `INS-260403-FE8D` Stebbings observes that 90% of great founders show entrepreneurial behavior before age 13, and that gaming clan leadership is more predictive of startup success than college prestige.
 - `INS-260330-DC8B` Burnout typically signals you're working on something that isn't working or that you don't fundamentally enjoy, not that you need a vacation.
@@ -50,10 +51,10 @@
 - `INS-260330-053D` Framing knowledge as 'you could have invented this' converts memorization into genuine understanding.
 - `INS-260329-89CB` Optimization reframes calculus from abstract computation to a practical framework for finding the best possible outcome under real-world constraints.
 - `INS-260402-0F45` Aristotle's most consequential error was inferring that because curiosity-driven inquiry is noble, the resulting knowledge should be valued precisely for being useless.
-- `INS-260402-B14F` Both the Visionary and Brahma refuse to leverage self-interest arguments for morality, finding it 'aesthetically unappealing' to reduce ethics to incentives.
 - `INS-260322-A928` You can only do your best work if you are doing what you want to do, the way you think it should be done, and you can take pride in it after.
 - `INS-260329-9CCF` Interleaving prerequisite material with advanced content at the point of need — as this calculus course does with algebra corequisites — creates immediate motivation and context that front-loaded prerequisites lack.
 - `INS-260325-AE23` Ask 'why' enough times about any action and you reach either God, a self-justifying value like family, or the uncomfortable realization that reasons simply run out.
+- `INS-260402-B14F` Both the Visionary and Brahma refuse to leverage self-interest arguments for morality, finding it 'aesthetically unappealing' to reduce ethics to incentives.
 - `INS-260329-F21F` Passion emerges from competence, not the other way around — so pick based on opportunity, not feeling.
 - `INS-260330-633F` Passion ignites the rocket but burns out fast; curiosity is the propellant that keeps you in orbit for decades.
 - `INS-260330-1226` After his wife died four months into their marriage, the 24-year-old Morgan threw himself into work with an intensity that defined the rest of his career.
@@ -89,7 +90,6 @@
 - `INS-260329-B4C8` Discretionary effort is voluntary and only flows toward leaders who use praise over punishment.
 - `INS-260329-1E81` CS50 tells students 'what matters is not where you end up relative to classmates but where you end up relative to yourself when you began' — the delta is the metric.
 - `INS-260327-0E57` SMB: easy to motivate (direct access to power), hard to enable (limited resources). Enterprise: hard to motivate (risk-averse, slow, process-heavy), easier to enable once committed.
-- `INS-260322-E22A` When a colleague's casual remark about her 'declining directing skills' triggered depression, she channeled the resulting anger into accepting two simultaneously impossible K-pop MV projects — and won best MV awards for both.
 - `INS-260404-FA5B` You need peers who can tell an ugly duckling from a baby swan, not just people who are always encouraging.
+- `INS-260322-E22A` When a colleague's casual remark about her 'declining directing skills' triggered depression, she channeled the resulting anger into accepting two simultaneously impossible K-pop MV projects — and won best MV awards for both.
 - `INS-260323-01A1` When learning guitar, start by learning songs you love rather than scales and theory — the struggle of figuring out songs by ear builds skills faster than abstract exercises, and keeps motivation alive.
-- `INS-260327-A052` The Crusade mobilized tens of thousands to march across a continent at their own expense because the spiritual incentive (remission of sins) was more powerful than any paycheck.

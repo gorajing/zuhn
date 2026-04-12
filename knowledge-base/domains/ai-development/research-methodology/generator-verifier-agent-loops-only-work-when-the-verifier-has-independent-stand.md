@@ -49,6 +49,7 @@ stance: >-
   itself and the pattern produces no quality gain.
 related:
   - INS-260409-5C28
+  - PRI-260411-14DC
   - INS-260410-3601
   - INS-260403-C4EE
   - INS-260411-8034

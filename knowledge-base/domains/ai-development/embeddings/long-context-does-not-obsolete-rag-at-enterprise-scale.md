@@ -52,7 +52,6 @@ stance: >-
   make full-context approaches infeasible at scale.
 related:
   - INS-260320-5B49
-  - INS-260327-FDC1
   - INS-260410-761B
   - PRI-260406-8EBD
   - INS-260329-818A

@@ -2,9 +2,9 @@
 
 - `INS-260404-C5B7` The Fed's January 2026 minutes explicitly cite AI as driving investment strength while simultaneously creating hiring uncertainty and financial concentration risk.
 - `INS-260403-988C` Banks that chased yield in long-duration bonds during zero-rate years faced catastrophic unrealized losses when the Fed hiked aggressively, triggering depositor runs.
-- `INS-260409-053F` Arthur Burns admitted in a 1979 speech that the Fed had the power to end 1970s inflation but didn't because the political cost (mass unemployment during Cold War mobilization) was unacceptable — the same constraint now applies under US-China rivalry.
 - `INS-260405-AB6B` The SRF caps rates by providing unlimited cash against collateral; the RRP floors rates by offering a guaranteed return that crowds out sub-Fed-rate private lending.
 - `INS-260405-25DD` December 31 Fed facility spikes are a predictable accounting artifact of banks shrinking balance sheets for year-end regulatory snapshots.
+- `INS-260409-053F` Arthur Burns admitted in a 1979 speech that the Fed had the power to end 1970s inflation but didn't because the political cost (mass unemployment during Cold War mobilization) was unacceptable — the same constraint now applies under US-China rivalry.
 - `INS-260330-EA56` By excluding assets from CPI, governments hide the true inflation that transfers wealth from currency-holders (working class) to property-holders (wealthy class).
 - `INS-260403-4B3D` The Fed's pattern of letting bubbles inflate then responding with emergency measures has escalated intervention scale at each crisis.
 - `INS-260330-6DE0` Zimbabwe's hyperinflation persisted because citizens' expectation of rising prices became the primary driver of rising prices, creating an irreversible feedback loop.

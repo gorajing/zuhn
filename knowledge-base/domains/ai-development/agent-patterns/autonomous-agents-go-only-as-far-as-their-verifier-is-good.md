@@ -46,10 +46,10 @@ related:
   - INS-260330-FC4D
   - INS-260403-5C1D
   - INS-260403-9C60
-  - INS-260403-4363
   - INS-260409-E080
+  - PRI-260411-14DC
+  - INS-260403-4363
   - PRI-260406-3EF8
   - INS-260410-A27C
-  - INS-260410-AA6E
 ---
 Carlini spent most of his engineering effort not on the Claude agents themselves but on building a nearly-perfect verifier: compiler test suites, build scripts for real open-source projects, and CI that blocked regressions. When he noticed Claude was breaking existing functionality while adding features, he didn't prompt harder — he tightened the CI gate. The generalizable point is that an autonomous agent is a search process over solution space, and tests are the fitness function. A weak fitness function produces Goodharted solutions that pass the tests while missing the goal. Before scaling autonomy, invest in verifier coverage and false-negative reduction — otherwise more compute just gets you more confidently wrong code.

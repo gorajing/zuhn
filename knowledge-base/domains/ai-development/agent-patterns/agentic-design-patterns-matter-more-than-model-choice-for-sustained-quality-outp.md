@@ -48,6 +48,7 @@ stance: >-
   but establishing organizational patterns like QA loops, approval gates, and
   structured handoffs between specialized agents.
 related:
+  - PRI-260411-14DC
   - INS-260326-163A
   - PRI-260328-F723
   - PRI-260405-1A34

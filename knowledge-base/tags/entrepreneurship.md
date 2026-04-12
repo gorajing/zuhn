@@ -29,10 +29,10 @@
 - `INS-260409-7D27` Real entrepreneurs know the two years spent on a doomed project compound into skills for the next thing, so the 'why start if it'll be automated' objection exposes that you're not actually an entrepreneur.
 - `INS-260402-96E2` Starting a company in mid-century America was rejected not as too risky but as too low-status compared to climbing institutional ladders.
 - `INS-260329-60CF` Owning equity in a profitable business reaches millionaire status far faster than saving from high income due to valuation multipliers.
-- `INS-260402-0727` Late career specialization produces more founders because 'startup founder' is never a planned career — it emerges from flexible systems.
 - `INS-260405-9FD9` Osterwalder observes that being tasked with 'inventing the future' of a company carries surprisingly little prestige inside most large organizations.
+- `INS-260402-0727` Late career specialization produces more founders because 'startup founder' is never a planned career — it emerges from flexible systems.
 - `INS-260405-7529` Entrepreneurs don't balance work and life — the two collapse into one undifferentiated thing.
 - `INS-260405-56CB` Self-employment is the shallow reading; self-expression through work is the deep one.
 - `INS-260402-4633` The first phase of business creation is product creation — hacking — and figuring out monetization afterward is the comparatively easy part.
-- `INS-260329-3036` Hormozi claims every wealthy person he knows started with years of high-volume sales conversations with strangers — it's the universal entrepreneurial apprenticeship.
 - `INS-260329-3924` You enter entrepreneurship for freedom but gain absolute control instead; each growth stage requires giving up control to regain freedom.
+- `INS-260329-3036` Hormozi claims every wealthy person he knows started with years of high-volume sales conversations with strangers — it's the universal entrepreneurial apprenticeship.

@@ -4,6 +4,9 @@
 - `INS-260410-46BB` AI labs are one permit denial or one Amazon/Nvidia side conversation away from existential pressure, regardless of their own government contract status.
 - `INS-260403-7089` The power structure emerging from AI development converges to either state control or corporate warlordism, with no viable middle ground.
 - `INS-260403-AE5B` In leadership communication, fewer words carry more weight because they signal resolved thinking.
+- `INS-260330-A2D4` China can destroy North Korea economically or militarily but cannot meaningfully steer it because using blunt tools would destabilize the buffer it needs.
+- `INS-260323-B40C` States pursue power not because they are inherently aggressive but because the anarchic structure of international politics leaves them no alternative for survival.
+- `INS-260405-1101` Britain in 1870-1914 produced more in absolute terms at war's outbreak than in 1870, yet felt weaker because America and Germany had grown faster — the lesson applies to any competitive system.
 - `INS-260330-3528` English profanity largely descends from lower-class Saxon vocabulary that was stigmatized when Norman French speakers held social power.
 - `INS-260410-EBDC` Mao's Red Guards worked because telling teenagers with no life experience that they were in charge was incredibly empowering — and they started by killing the teachers who had given them hard grades.
 - `INS-260403-7644` Organizations that win by exercising power gradually lose the ability to win by doing better work.
@@ -15,8 +18,8 @@
 - `INS-260330-F8A2` The British created separate Christian, Jewish, and Muslim institutions in Palestine specifically to prevent unified Palestinian opposition.
 - `INS-260403-47C0` Power has been steadily transferring from charismatic dealmakers to technically competent people for a century, and nothing on the horizon reverses this.
 - `INS-260330-3ECE` Rosalind Franklin's open data-sharing with Watson and Crick directly enabled them to claim credit for the DNA double helix discovery.
-- `INS-260325-3E9F` Xiaoyin Qu (2 exits, ex-Facebook PM): traction flips the fundraising power dynamic from begging for money to investors begging you to take theirs.
 - `INS-260330-3084` Henry Racamier invited Bernard Arnault to help manage an internal dispute; Arnault secretly acquired 43% of shares and seized control of LVMH.
+- `INS-260325-3E9F` Xiaoyin Qu (2 exits, ex-Facebook PM): traction flips the fundraising power dynamic from begging for money to investors begging you to take theirs.
 - `INS-260330-7BF5` Board votes essentially never happen in practice — founder power scales directly with company performance, overriding any formal governance structure or protective covenants.
 - `INS-260330-FA07` Mesopotamian power shifted from temple priests who interpreted gods to kings who delivered military protection and economic stability.
 - `INS-260330-F158` The Western Empire fell to internal power struggles between generals, not to barbarian military superiority — while the East survived because clear imperial authority over the Church prevented political fragmentation.
@@ -28,6 +31,3 @@
 - `INS-260403-3876` Movements with members on both sides of a divide can influence whichever side currently holds power.
 - `INS-260403-4C4E` As the music industry's distribution monopoly collapsed, musicians who learned business strategy gained control over their brand, customers, and revenue.
 - `INS-260330-CB2E` Jho Low let Malaysia's Deputy PM take full credit for brokering a Middle East investment deal, converting zero public credit into private access to the country's most powerful person.
-- `INS-260330-A2D4` China can destroy North Korea economically or militarily but cannot meaningfully steer it because using blunt tools would destabilize the buffer it needs.
-- `INS-260323-B40C` States pursue power not because they are inherently aggressive but because the anarchic structure of international politics leaves them no alternative for survival.
-- `INS-260405-1101` Britain in 1870-1914 produced more in absolute terms at war's outbreak than in 1870, yet felt weaker because America and Germany had grown faster — the lesson applies to any competitive system.

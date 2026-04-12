@@ -57,9 +57,9 @@ related:
   - INS-260327-9D50
   - INS-260410-566F
   - INS-260410-E658
+  - PRI-260411-14DC
   - PRI-260328-1ED1
+  - PRI-260411-78CD
   - INS-260323-4D8D
-  - PRI-260406-2D38
-  - INS-260411-BCB0
 ---
 Single-shot RAG is relatively easy to evaluate: did the retriever find the right chunks (R@K)? Did the synthesis answer correctly? Two metrics, both well-understood. Agent loops are much harder. An agent might plan 5 sub-questions, retrieve for each, realize one answer is insufficient, plan follow-up sub-questions, re-retrieve, and finally synthesize. Where do things go wrong? The plan could be wrong. The sub-queries could be badly phrased. The retrieval could miss. The synthesis could fail. Errors could compound across steps — a mediocre sub-answer could mislead the next sub-question. Jerry Liu's observation: you need to track state transitions, measure intermediate decisions, and trace error propagation across the loop — not just output correctness. This is why 'agent evaluation' is an unsolved area in the RAG community and why LlamaIndex and other agent frameworks ship their own evaluation tools. The implication for anyone building agent systems: traditional end-to-end metrics are insufficient, and you need to instrument every step of the loop to debug failures. Generalizes beyond RAG to any multi-step LLM pipeline.

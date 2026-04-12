@@ -52,7 +52,6 @@ stance: >-
   cannot be keyword-stuffed or ad-influenced.
 related:
   - INS-260328-C12D
-  - INS-260330-FC4D
   - PRI-260406-D017
   - INS-260403-BA0D
   - INS-260403-45DB

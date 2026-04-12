@@ -51,11 +51,11 @@ stance: >-
   Tool call accuracy on complex APIs comes from concrete examples, not more
   elaborate schemas.
 related:
+  - PRI-260411-64C7
   - INS-260321-703F
   - INS-260323-DA4A
   - INS-260321-82FE
   - PRI-260406-40ED
-  - INS-260329-6A26
 ---
 A JSON schema can say 'due_date is a string' but cannot tell the model whether to emit '2024-11-06', 'Nov 6, 2024', or '2024-11-06T00:00:00Z'. It can mark reporter.id as a string without explaining that your API expects 'USR-12345' format. It cannot express that critical bugs should populate contact info and escalation while feature requests shouldn't. These conventions live in usage patterns, not type definitions.
 

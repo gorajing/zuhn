@@ -19,6 +19,7 @@
 - `INS-260329-63DD` Comprehensive long-form tutorials dominate search results because they fully satisfy user intent, creating compounding organic traffic that short content cannot match.
 - `INS-260403-002C` VC newsletters increasingly monetize through embedded partner tool credits rather than paywalling core content.
 - `INS-260329-FCF2` Doing 10-100x more volume beats 2x optimization, but you must relearn this lesson independently in each new domain you enter.
+- `INS-260410-86A5` YouTube Shorts drove at least half of Dwarkesh's podcast growth — a channel he would never have predicted for a long-form deep-dive AI show.
 - `INS-260323-7EDF` Pakman explicitly structures his show as a content pyramid — serious deep dives at the base, entertaining segments on top — deliberately adapting the ratio to each platform.
 - `INS-260321-69E1` A16z hired an 18-year-old for Instagram (up 35% MoM) because each platform has its own vibe, taste, and spirit — crossposting one idea everywhere fails to appreciate what each platform rewards.
 - `INS-260320-630D` Frame your product as a solution to a problem, not a toy — a video framing Coconote as a fun toy got 41M views but terrible conversion, while solution-framed videos converted far better.
@@ -32,7 +33,6 @@
 - `INS-260321-96CE` Markets (topics) rarely change and can't be invented. Formats (creative vessels) are born daily. Innovate on format, not market — then transplant across markets for maximum leverage.
 - `INS-260403-4D04` Digital content creates awareness, but traditional media like TV and books creates credibility that compounds over time.
 - `INS-260321-141B` Write a proven format at the top of a grid, list all markets down the side, mark where the combination exists — empty cells are your blue ocean.
-- `INS-260410-86A5` YouTube Shorts drove at least half of Dwarkesh's podcast growth — a channel he would never have predicted for a long-form deep-dive AI show.
 - `INS-260322-81CD` Frame your content around a public if-then challenge ('If I get X followers, I'll do Y') to create narrative tension that keeps viewers coming back.
 - `INS-260409-6ABF` The four-factor framework — relevance, non-obvious insight, high absorbability, short implementation distance — is a checklist for engagement-rate optimization.
 - `INS-260409-8750` Algorithms pick ~200 viewers as a fit-score sample test; that group's engagement is the single most leveraged lever in short-form distribution.

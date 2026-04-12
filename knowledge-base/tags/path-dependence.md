@@ -1,6 +1,7 @@
 # Tag: path-dependence
 
 - `INS-260410-6BBC` The tech tree branches so widely that different civilizations would discover entirely different subsets of it, producing enormous potential gains from trade between any two.
+- `INS-260330-4181` The Orthodox-Catholic split of 1054 created geopolitical fault lines that persisted for a millennium — ideological schisms in any system create permanent structural divisions.
 - `INS-260330-4315` Agriculture emerged independently worldwide, but this convergence proves shared evolutionary pressures, not that farming was the best choice.
 - `INS-260330-2C57` Agriculture was adopted through millions of small, locally rational choices that collectively created an irreversible civilizational transformation with massive unintended consequences.
 - `INS-260330-9931` A few network-joining decisions create the gravitational field that shapes all subsequent daily choices.
@@ -30,4 +31,3 @@
 - `INS-260330-C7CB` The agricultural revolution was not a revolution — it was 13,000+ years of people incrementally optimizing for 'more food' without intending systemic change.
 - `INS-260405-F20F` RuBisCo, an enzyme that makes catastrophic errors 50% of the time, remains the planet's dominant carbon-fixing enzyme because plants went all-in on it before oxygen made it dysfunctional.
 - `INS-260404-B1AB` RuBisCo is terrible at its job but 40 billion tons of it run the biosphere because early life scaled quantity over quality.
-- `INS-260330-4181` The Orthodox-Catholic split of 1054 created geopolitical fault lines that persisted for a millennium — ideological schisms in any system create permanent structural divisions.

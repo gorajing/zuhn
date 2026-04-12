@@ -50,11 +50,11 @@ stance: >-
   putting it in the system prompt, where the model can integrate it into overall
   behavior.
 related:
+  - PRI-260411-64C7
   - PRI-260406-1AC6
   - INS-260330-2C97
   - INS-260329-0F39
   - INS-260321-82FE
-  - PRI-260321-037A
 ---
 Anthropic explicitly recommends: when think-tool instructions get long or complex, move them out of the tool's description field and into the system prompt. The tool description should stay tight and functional — what the tool does, what it returns, parameter schema. Rich behavioral guidance (when to use it, what to reason about, worked examples) belongs at the system level.
 

@@ -1,9 +1,9 @@
 # Tag: founder-psychology
 
-- `INS-260403-6890` Graham argues signalling risk from VC non-follow-on is in the same category as competitor fear—something founders worry about that rarely kills good startups.
 - `INS-260403-2F77` Successfully raising once miscalibrates founders into overestimating their ability to raise again under fundamentally different conditions.
 - `INS-260404-A8B9` Founders who are genuinely productive feel like frauds because their working conditions don't match the cultural archetype of professional success.
 - `INS-260404-94EB` We default to personality explanations for disinterest when the real cause is often structural incentive misalignment.
+- `INS-260403-6890` Graham argues signalling risk from VC non-follow-on is in the same category as competitor fear—something founders worry about that rarely kills good startups.
 - `INS-260404-B6B1` Taking full responsibility during a crisis isn't just virtuous — it functionally increases survival odds by keeping the founder in problem-solving mode rather than blame mode.
 - `INS-260403-3059` Constraints force founders to prioritize ruthlessly, while excess capital dulls urgency and enables avoidance of hard product decisions.
 - `INS-260329-C36D` The real obstacle to your first customers is your discomfort with asking people you know to buy from you, not any external market condition.

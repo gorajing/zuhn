@@ -13,8 +13,8 @@
 - `INS-260403-AB5C` Increasing knowledge specialization creates more points on the performance curve, widening the gap between average (wisdom) and peaks (intelligence), forcing a civilizational choice.
 - `INS-260404-7604` Complex problems almost always have both 'chosen cost' and 'pure dysfunction' causes, and separating them improves analysis.
 - `INS-260330-0C1B` A 4:1 mechanical advantage means you pull with 1/4 the force but must pull 4x the distance — you never get something for nothing, only redistribute the cost.
-- `INS-260329-59D2` Commitment means trading novelty for loyalty, exploration for trust, and the chase for a shared journey.
 - `INS-260323-189B` Edgerton's single-frame strobe technique from the 1930s produces sharper images than a modern 20,000 FPS camera because it sacrifices all temporal resolution for maximum spatial resolution.
+- `INS-260329-59D2` Commitment means trading novelty for loyalty, exploration for trust, and the chase for a shared journey.
 - `INS-260410-1D7A` Sol Price's 'intelligent loss of sales' principle: forgo customers who only need 3 oz of WD-40 so you can carry only the 8 oz can — the SKU reduction unlocks logistics, labor, and supplier benefits that dwarf the lost revenue.
 - `INS-260402-B42C` A barbershop's locality limits its growth but also limits its competition to other local barbers — startups that remove such constraints face the whole world.
 - `INS-260410-920E` Low SKU count enables pallet-only logistics, which enables cross-docking, which enables labor efficiency, which enables higher wages, which enables low shrinkage, which enables thin margins — pull any thread and the whole tapestry unravels.
