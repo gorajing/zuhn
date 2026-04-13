@@ -66,6 +66,7 @@ related:
   - INS-260403-A726
   - PRI-260406-A77B
   - PRI-260328-6CDE
+  - INS-260413-DAEA
 ---
 If financial constraints were the dominant driver of low fertility, wealthier countries should have the highest birth rates. The data shows the exact opposite: many of the world's richest countries have fertility rates below 1.5 children per woman, while several of the poorest maintain rates above four. In the U.S., raising a child to 17 costs roughly $310,000 excluding college, and key family expenses (housing, childcare, education) have grown faster than household income.
 

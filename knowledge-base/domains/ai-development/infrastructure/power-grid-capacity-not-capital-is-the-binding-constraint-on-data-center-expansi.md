@@ -66,6 +66,7 @@ related:
   - INS-260328-F05E
   - INS-260410-C602
   - INS-260404-E544
+  - INS-260413-07F2
 ---
 The data center boom has hit a physical constraint that capital cannot solve on short timescales: electrical grid capacity. US disclosed pipeline reached 241 GW by end of 2025 (up 159% YoY), but only a third of projects are actively developing. Q4 2025 saw only 25 GW of new capacity added—half the Q3 pace—because utilities lack the grid and generating capacity to serve these massive new demand centers.
 

@@ -1,6 +1,6 @@
 # Topic: geopolitics
 
-> 577 insights
+> 584 insights
 
 - `INS-260326-3E19` [very_high] Pharmaceutical companies funding the FDA, banks staffing financial regulators, and tech giants writing platform regulations are structurally identical -- the mechanism is industry-funded oversight producing industry-favorable rules.
 - `INS-260326-79DF` [very_high] Germany's unrestricted submarine warfare sank 886,000 tons in April 1917 alone -- a tactical triumph that brought America into the war and guaranteed Germany's defeat.
@@ -16,6 +16,7 @@
 - `INS-260322-415E` [high] Very new, very big, very exciting world-changing technologies deterministically lead to bubbles — the question is whether we're in 1997, 1998, or 1999.
 - `INS-260321-CBD2` [high] Unlike the dot-com era, AI capex is financed by the most profitable companies in history and there are 'no dark GPUs' (every deployed GPU gets fully utilized immediately), but private credit entering the data center buildout and Oracle's massive cash-flow-negative bet are early warning signals.
 - `INS-260321-4B99` [high] Factory capacity for DRAM and NAND is fixed, but AI demand pays so much more that producers shifted mass production lines to HBM — making consumer memory prices rise in tandem.
+- `INS-260413-9269` [high] National AI strategies are expanding fastest in developing economies with no prior AI policy, but supercomputing capacity is wildly unequal — China 85, Europe/Central Asia 44, North America 41, South Asia 2.
 - `INS-260412-F17D` [high] Russia's Siberian airspace control lets it extract ~$100/ticket on Europe-Asia routes by being the only direct path between $20T+ economies.
 - `INS-260325-4C16` [high] Alexander won with 40,000 troops against millions by moving faster than enemies could react — speed and adaptability beat numbers.
 - `INS-260327-FB61` [high] Germany's 1918 Spring Offensive gained more territory than any operation since 1914 but exhausted its last reserves, so when the Allies counterattacked with fresh American troops, Germany had nothing left.
@@ -60,6 +61,7 @@
 
 
 - `INS-260327-5DD3` [high] Murat was the greatest cavalry commander of his era but a disastrous king — his instinct for dramatic personal action was perfect for leading charges but catastrophic for governance.
+- `INS-260413-3860` [high] China accounted for 54% of industrial robots installed globally in 2024 (up from 51.1% in 2023) while US, Germany, and Italy declined — pairing AI capability with the manufacturing base to deploy it.
 - `INS-260325-854D` [high] China's senior leadership were all trained engineers who build compulsively — roads, homes, economies, souls. America's elite are mostly lawyers who block everything, good and bad.
 - `INS-260403-42E4` [high] China is historically unique as a US competitor — no prior adversary ever matched 60% of US GDP, yet China now contests American technological edge across multiple domains.
 - `INS-260410-2D8E` [high] China's central economic distortion is too much supply and too little demand — the inverse of America's NIMBY scarcity model.
@@ -101,6 +103,7 @@
 - `INS-260330-F79F` [high] Currency pegs that overvalue the local currency create a doom loop where black market exchange rates drain official reserves faster.
 - `INS-260330-5EE9` [high] North Korea's 2009 currency redenomination wiped out savings and permanently shifted unofficial transactions to the Chinese Yuan.
 - `INS-260327-8B9A` [high] At Vitoria, the French army collapsed into chaos when its retreat route was threatened, abandoning enormous stores of loot and equipment.
+- `INS-260413-5622` [high] Data localization measures by region (cumulative): East Asia Pacific 77, Sub-Saharan Africa 71, Europe/Central Asia 66, MENA 44, LATAM 36, South Asia 24, and North America just 3 — the splits are structural, not cyclical.
 - `INS-260327-9BE8` [high] De-dollarization by China and Russia is selective and gradual -- reducing dollar use where politically necessary while maintaining it where convenient -- making sudden dollar collapse unlikely but slow erosion real.
 - `INS-260327-4775` [high] As the Abbasid Caliphate politically fragmented, Islamic civilization actually flourished more because independent courts competed to attract scholars and the trade networks persisted without centralized control.
 - `INS-260326-6C36` [high] The First Crusade succeeded precisely because its leaders had competing personal motives, all channeled by the overwhelming narrative of spiritual salvation.
@@ -402,6 +405,7 @@
 - `INS-260327-25C7` [high] Marshal Grouchy's failure to march to Waterloo when he heard the guns — pursuing a phantom Prussian force instead — turned a possible French victory into total defeat.
 - `INS-260403-2B95` [high] The same core components (batteries, motors, power electronics) underpin EVs, drones, robots, and AI data centers, making them a single interconnected industrial revolution.
 - `INS-260327-35CB` [high] Russia defeated Napoleon in 1812 primarily by refusing to fight decisive battles — retreating, burning their own territory, and letting distance and winter destroy the Grande Armee.
+- `INS-260413-EB7C` [high] Across 25 countries in Pew's 2025 survey, median 53% trust the EU to regulate AI effectively, compared to 37% for the US and 27% for China — a clear 16-point lead for Europe as the default regulator.
 - `INS-260327-7F88` [high] In March 1918, Germany was winning its greatest offensive of the war. By November 1918, it had surrendered. The eight-month gap between peak success and total collapse was invisible to observers.
 - `INS-260323-E204` [high] Pentagon officials write defense contracts, leave for defense contractor board seats, then return to government positions -- creating a self-reinforcing cycle where the people making war decisions directly profit from perpetuating war.
 - `INS-260327-99DF` [high] Ships of the line were so expensive that only a handful of European powers could afford significant fleets — naval power was inherently oligopolistic because of the capital barrier.
@@ -411,8 +415,10 @@
 - `INS-260327-3653` [high] 8.2 million job openings vs 7 million job seekers looks like a skills mismatch, but most unfilled positions simply pay below what the required skills command in the market.
 - `INS-260323-DF0F` [high] The Soviet Union didn't collapse primarily from ideological or economic failure — it was the last major European empire to disintegrate, driven by the rise of constituent nationalisms including Russian nationalism itself.
 - `INS-260323-9FCA` [high] Musk warns that China's economy will be 2-3x the US economy, creating the same Athens-vs-Sparta dynamic that led to the Peloponnesian War — a war both sides saw coming and couldn't prevent.
+- `INS-260413-09C4` [high] DeepSeek-R1 briefly matched the top US model in Feb 2025 and as of March 2026 Anthropic leads by just 2.7% — US AI supremacy is a contested measurement, not a structural condition.
 - `INS-260323-7185` [high] Despite popular mythology, the US actively tried to keep the Soviet Union together through 1991 — the collapse created nuclear weapon concerns and destroyed a useful junior partnership.
 - `INS-260403-8DD4` [high] With rates near zero in 2021, the U.S. could have refinanced its national debt cheaply but didn't, now facing 5%+ rates on trillions in rolling maturities.
+- `INS-260413-DAEA` [high] Only 31% of Americans trust their own government to regulate AI — the lowest of any country surveyed and far below the global average of 54%, Singapore's 81%, and Indonesia's 76%.
 - `INS-260405-1CC3` [high] The US-Taiwan deal reduces tariffs from 20% to 15% contingent on $500B in US semiconductor investment, making trade policy a reshoring mechanism.
 - `INS-260327-32BA` [high] Britain and France 'won' WW1 but emerged so devastated — financially, demographically, psychologically — that they were unable to maintain their empires or prevent the next war.
 - `INS-260327-25AD` [high] Mao's Great Leap Forward mandated nationwide agricultural and industrial methods from Beijing that ignored local conditions, causing 30-45 million deaths from famine.
@@ -435,6 +441,7 @@
 - `INS-260404-25F5` [high] US power generation grew only 1.3x since 2000 while China expanded 7x to ~10,000 TWh, creating a physical infrastructure gap that limits AI deployment capacity.
 - `INS-260327-A654` [high] U.S. Middle East involvement started with a single 1930s oil concession that created an oil-military-alliance feedback loop so embedded in policy doctrine that withdrawal became structurally impossible.
 - `INS-260323-D6BD` [high] Despite appearing ideologically opposed, Biden barely cut any tariffs on China and maintained aggressive semiconductor export controls — US containment of China is structurally bipartisan.
+- `INS-260413-255E` [high] US federal AI spending 2013-2024: $20.4B in contracts and grants. US private AI investment 2025 alone: $285.9B. The ratio is roughly 14:1 — in a single year — and the gap is compounding.
 - `INS-260327-0FA9` [high] After defeating Napoleon at Aspern-Essling, Austria hesitated instead of pressing the advantage, giving Napoleon six weeks to rebuild and return with overwhelming force.
 - `INS-260327-A75C` [high] The Thirty Years' War began as a Catholic-Protestant religious conflict but became a pure power struggle — Catholic France allied with Protestant Sweden against Catholic Austria because geopolitics trumped ideology.
 - `INS-260327-485B` [high] Every WW1 belligerent expected the war to last months; it lasted four years. The catastrophic cost was amplified by the universal failure to prepare for a long war.

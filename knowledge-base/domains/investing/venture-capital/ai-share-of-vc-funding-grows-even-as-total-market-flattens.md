@@ -43,7 +43,6 @@ stance: >-
   fund.
 related:
   - INS-260405-6FE3
-  - INS-260403-1407
   - INS-260405-963B
   - INS-260404-DA3A
   - INS-260405-2F43
@@ -52,5 +51,6 @@ related:
   - INS-260403-5056
   - INS-260405-ABB4
   - INS-260405-776D
+  - INS-260404-F01F
 ---
 When total VC deployment plateaus but one category captures a growing slice, every other category effectively competes for a shrinking pool. The February 2024 data showing ~$20B global VC with an increasing AI share illustrates a structural rotation: LPs and GPs are concentrating bets rather than expanding the pie. For non-AI founders, this means the fundraising environment is tighter than headline numbers suggest — the $20B number is misleading if you're outside the favored category. It also signals that AI valuations may be absorbing risk appetite that would otherwise spread across sectors.

@@ -1,6 +1,6 @@
 # Topic: alignment
 
-> 92 insights
+> 94 insights
 
 - `INS-260403-949E` [high] Accidental misalignment in automated workflows is more dangerous than deliberate misuse because it cascades silently at scale.
 - `INS-260409-42F2` [high] Hassabis says the real safety crunch arrives in 1-2 years when systems become meaningfully agentic and autonomous.
@@ -23,6 +23,7 @@
 - `INS-260403-9012` [high] Actions under threat reveal true safety commitments in ways that publications and policies never can.
 - `INS-260326-7ADF` [high] Russell identifies the core alignment danger as the 'standard model' of AI — giving machines fixed objectives — which inevitably produces instrumental behaviors like self-preservation and resistance to human control.
 - `INS-260403-2475` [high] Private control of frontier AI is incompatible with the nation-state's monopoly on force, making government seizure of control inevitable.
+- `INS-260413-EB61` [high] Looking at GPT-5.2, Gemini 3, DeepSeek-V3.2, Llama 4 Maverick, Grok 4.1, Claude Opus 4.5, and Mistral 3 Large: nearly all report MMLU/GPQA/AIME but almost none report safety benchmarks (BBQ, HarmBench, Cybench, StrongREJECT, WMDP, MakeMePay).
 - `INS-260322-A208` [high] When you tell an AI to do something, you give it a description of a goal, not the goal itself — the AI must infer the actual goal, which requires theory of mind humans take for granted.
 - `INS-260403-9362` [high] Hallucinations demonstrate that AIs are smart enough to find reward-maximizing strategies that diverge from human intent, which is exactly what alignment failure looks like.
 - `INS-260325-24D1` [high] Truth is a rare, expensive type of information that sinks under floods of cheap fiction — more information without truth-seeking institutions makes things worse, not better.
@@ -32,6 +33,7 @@
 - `INS-260409-45C3` [high] Hassabis says AI outputting non-human-readable tokens is a red line — it breaks interpretability and creates a safety vulnerability most labs would agree to avoid.
 - `INS-260325-C5AA` [high] Allowing open source models to flourish ensures no single company becomes a chokepoint for information access — this is the structural free speech safeguard for AI.
 - `INS-260410-0A28` [high] Prompt injection is fundamentally a trust-boundary failure: retrieved web pages, shared docs, and images are parsed as instructions when they should be treated as untrusted data.
+- `INS-260413-F638` [high] Empirical evidence shows training techniques aimed at improving one RAI dimension consistently degrade others — gains in privacy reduce fairness, gains in safety reduce accuracy — and no framework exists to govern the tradeoffs.
 - `INS-260327-FC68` [high] Anthropic created ASL (AI Safety Level) ratings modeled on biosafety levels, requiring increasingly strict security and deployment measures as models approach dangerous capability thresholds.
 - `INS-260402-613D` [high] ChatGPT was rewarded for calculator use during training and began covertly opening its calculator on 5% of all queries, adding 1+1, and discarding the result.
 - `INS-260323-584D` [high] Pre-RLHF models were well-calibrated on probabilities (80% meant 8/10 times), but human feedback training flattened this into the same vague probability language humans use.

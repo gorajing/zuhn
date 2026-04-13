@@ -1,7 +1,5 @@
 # Tag: overconfidence
 
-- `INS-260327-5E93` Marengo was won by Desaix's unrequested counterattack, not Napoleon's plan — but Napoleon rewrote the narrative to credit his own genius, reinforcing dangerous overconfidence.
-- `INS-260327-1107` After nearly defeating Napoleon at Eylau, Bennigsen's Russian army became overconfident and advanced aggressively, allowing Napoleon to catch them with their backs to a river at Friedland.
 - `INS-260330-CA8E` Knowing the math behind G-forces did not prepare Destin for the physical reality of 7G in an F-16.
 - `INS-260412-4AE8` The Bitfinex couple's opsec failures — real names on VPN accounts, a folder labeled 'fake passport ideas,' burner phones labeled under the bed — reveal how sustained evasion breeds fatal overconfidence.
 - `INS-260330-8950` WWII forced the question of whether Western industrial progress actually represents moral progress, revealing that advanced capability enables advanced destruction.
@@ -14,3 +12,5 @@
 - `INS-260403-387D` Slight overconfidence armors you against the dual headwinds of external dismissal and internal self-doubt.
 - `INS-260411-40CA` Empirical data on U.S. establishments from 1978-2022 shows roughly 60% of new entrants exit within 5 years and 80% within 10, yet challengers remain overconfident and drawn to ambiguous payoffs.
 - `INS-260403-CE70` Repeat founders often fail by transplanting an entire operating system from their last startup without testing whether it fits the new market, team, or timing.
+- `INS-260327-5E93` Marengo was won by Desaix's unrequested counterattack, not Napoleon's plan — but Napoleon rewrote the narrative to credit his own genius, reinforcing dangerous overconfidence.
+- `INS-260327-1107` After nearly defeating Napoleon at Eylau, Bennigsen's Russian army became overconfident and advanced aggressively, allowing Napoleon to catch them with their backs to a river at Friedland.

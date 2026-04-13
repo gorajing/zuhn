@@ -53,12 +53,11 @@ stance: >-
   Every major trend-based projection about rising economies (Japan, USSR, China)
   has been proven wrong because catch-up growth systematically decelerates.
 related:
-  - INS-260325-F0CE
   - INS-260325-9F41
   - INS-260330-1D61
-  - INS-260405-75AC
   - INS-260403-9A8A
   - INS-260409-A318
+  - INS-260325-F0CE
   - INS-260323-F0A2
   - INS-260330-3899
 ---

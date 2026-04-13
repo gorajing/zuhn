@@ -66,11 +66,12 @@ stance: >-
   software effectively lock in whichever vendors are leading at that moment,
   closing the market to all future entrants.
 related:
+  - INS-260413-36B4
   - INS-260405-62F8
   - INS-260404-3714
   - PRI-260403-E097
   - INS-260403-4E7A
-  - PRI-260328-A4AC
+  - INS-260413-416A
 ---
 The standard reading of HITECH and meaningful use is that it was a massive tailwind for Epic and other EMR incumbents. That's true but understates what happened. The deeper structural effect was temporal: by dangling $44K-$64K per physician in one concentrated window, the government forced every hospital in America to run their EMR buying decision within a 3-5 year stretch. RFPs that would naturally have happened over 20+ years all collapsed into one moment. Whichever vendors had the best product in that specific window would win effectively permanently, because switching costs on a 'nervous system' implementation are enormous enough that no hospital rebids for decades.
 

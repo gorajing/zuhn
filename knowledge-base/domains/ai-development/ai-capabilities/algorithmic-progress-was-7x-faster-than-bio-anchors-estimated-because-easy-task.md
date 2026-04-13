@@ -58,11 +58,11 @@ related:
   - INS-260328-5431
   - INS-260410-5951
   - INS-260409-DD69
-  - INS-260409-E776
+  - INS-260413-7B46
   - INS-260403-F0DC
   - INS-260403-36E6
+  - INS-260409-E776
   - INS-260409-B367
-  - INS-260410-56B4
 ---
 Ajeya Cotra's Bio Anchors report based its algorithmic progress estimate primarily on Hernandez & Brown 2020, which measured how much cheaper it became to match AlexNet's 2012 performance. But later research showed that apparent algorithmic progress speed varies by an order of magnitude depending on task difficulty — easy tasks where low-hanging fruit is already picked show slower progress than hard frontier tasks with room to improve.
 

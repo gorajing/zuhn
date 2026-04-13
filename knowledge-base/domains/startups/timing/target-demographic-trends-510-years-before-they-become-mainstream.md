@@ -61,7 +61,6 @@ related:
   - INS-260322-D69E
   - INS-260412-2117
   - INS-260412-FD95
-  - INS-260412-BBAB
 ---
 Most founders anchor on who the customer is today. Joe Coulombe looked 5–10 years out and identified two mutually reinforcing macro trends: a demographic surge of college-educated young adults (thanks to the GI Bill) and an affordability collapse in international travel (thanks to the 747). The implication he drew wasn't 'make grocery cheaper' or 'make grocery more convenient' but 'build the store that welltraveled, well-educated, value-conscious consumers will want when they finally arrive.'
 

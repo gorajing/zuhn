@@ -63,8 +63,8 @@ related:
   - PRI-260403-F981
   - INS-260403-FFF0
   - PRI-260406-80E7
+  - INS-260413-C64F
   - PRI-260327-3BD9
-  - INS-260321-BFA3
 ---
 Musk's reference to Hitchhiker's Guide captures something real about the structure of scientific and philosophical progress: the breakthroughs tend to come from someone asking a question no one thought to ask, not from someone solving a known problem more efficiently. Newtonian physics didn't fail because no one could solve the equations — it failed because no one had asked the right question about light. The question preceded the answer by decades.
 

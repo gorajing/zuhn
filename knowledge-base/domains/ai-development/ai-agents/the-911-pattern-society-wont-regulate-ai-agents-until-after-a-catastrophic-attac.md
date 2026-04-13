@@ -58,7 +58,6 @@ related:
   - PRI-260406-9051
   - PRI-260328-E349
   - INS-260404-5CFB
-  - INS-260403-5BCF
 ---
 The historical pattern is clear: jet airliners existed for decades before 9/11 forced security overhauls, RC hobby drones became the leading weapon category of the century before meaningful drone regulation existed, and nuclear technology was only controlled after Hiroshima. Smith argues AI agents will follow this identical trajectory — they won't be regulated as weapons until someone uses them as weapons.
 

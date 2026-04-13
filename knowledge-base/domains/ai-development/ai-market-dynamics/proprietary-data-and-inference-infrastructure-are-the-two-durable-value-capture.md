@@ -50,7 +50,6 @@ stance: >-
 related:
   - INS-260323-9BAB
   - INS-260322-7282
-  - INS-260327-5D5F
   - INS-260403-2138
   - INS-260405-B7C7
   - PRI-260406-22E2
@@ -58,5 +57,6 @@ related:
   - PRI-260328-A82C
   - INS-260405-567D
   - INS-260404-1A34
+  - INS-260410-4E62
 ---
 Chamath identifies two clear areas of durable value creation in AI. First, proprietary data — exemplified by Reddit licensing its dataset to Google for Gemini training — because unique, high-quality data directly enhances model capabilities in ways that cannot be replicated. Second, inference infrastructure, because current GPU architectures are optimized for training parallelism but poorly suited for the sequential computations of language model inference, creating latency problems that block product-market fit. This framing suggests that the model layer itself may commoditize (as open-source catches up), while the data and infrastructure layers retain pricing power. For founders, this means building proprietary data flywheels or solving inference bottlenecks may be more defensible than building yet another model or wrapper application.

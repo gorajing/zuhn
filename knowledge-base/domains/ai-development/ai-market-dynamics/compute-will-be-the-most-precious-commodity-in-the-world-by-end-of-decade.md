@@ -48,6 +48,7 @@ related:
   - INS-260403-1337
   - INS-260323-4D14
   - INS-260410-BC76
+  - INS-260413-07F2
 stance: >-
   Altman predicts compute becomes the world's most precious commodity,
   functioning as a new currency by end of decade.

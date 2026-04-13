@@ -50,10 +50,10 @@ stance: >-
   undiscovered value
 related:
   - INS-260330-8544
+  - INS-260413-539D
   - INS-260412-578D
   - INS-260321-D959
   - INS-260330-716C
-  - INS-260330-7DA5
 ---
 The video highlights that less than 2% of Earth's biomass lives in the oceans, and 90% of that is in the first 200 meters — yet the ocean represents the largest habitat on Earth by volume. Humanity has concentrated its attention on the thin, accessible surface layer while the vast majority of ocean space remains a mystery.
 

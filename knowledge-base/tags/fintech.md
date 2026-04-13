@@ -1,17 +1,6 @@
 # Tag: fintech
 
 - `INS-260322-642F` For the first time, banks and insurers face more risk from keeping decades-old mainframes than from migrating to AI-native platforms — unlocking massive market opportunity.
-- `INS-260403-14C7` Better ML models achieving greater accuracy from smaller datasets allow startup marketplaces to match incumbent underwriting capabilities without decades of historical data.
-- `INS-260322-2D2F` Financial fraud is growing 18-20% per year because AI-powered fraud (deepfakes, pig butchering, automated scams) is outpacing defensive AI tools.
-- `INS-260404-EC16` Fintech investment is recovering unevenly, with infrastructure plays attracting capital while consumer fintech struggles.
-- `INS-260405-C5E5` VCs are doubling down on fintech after years of caution, signaling a sector recovery worth timing for founders and investors alike.
-- `INS-260405-C987` Speculators generate corposlop; info buyers face a public-goods problem; only hedgers provide a structurally sound, recurring source of market liquidity
-- `INS-260405-33CD` NYSE's tokenization platform integrates its existing Pillar matching engine with blockchain settlement, showing incumbents will own RWA by solving the fungibility and trust problems that crypto-native platforms cannot.
-- `INS-260403-71E6` Kalshi's $11B valuation after a $1B round highlights that prediction market growth is inseparable from regulatory risk as volumes surge.
-- `INS-260404-D475` Kalshi's $11B valuation and 1000% volume growth validates regulated prediction markets as a mainstream financial category.
-- `INS-260322-96F1` The entire GameStop crisis was caused by an archaic settlement system (T+1) that requires collateral posting for trades that have already occurred — tokenization eliminates this by enabling instant settlement.
-- `INS-260405-5514` Onfido's acquisition delivered a reported 320x return to its first backer, demonstrating that early conviction in infrastructure fintech compounds dramatically regardless of how the exit occurs.
-- `INS-260404-9FBC` Ramp's 153% YoY growth at $1B revenue is 10x the median public SaaS growth rate, suggesting AI-native business models resist typical growth deceleration.
 - `INS-260322-EDA4` New AI-first financial platforms will be 10x bigger than their predecessors because they capture both software spend and labor spend — automating work humans didn't want to do or couldn't hire for.
 - `INS-260404-8CA8` Ramp reached $1B revenue with 153% YoY growth by using AI to automate 26 million financial decisions across $10B in customer spend.
 - `INS-260325-B8CB` BNPL psychologically decouples payment pain from purchase pleasure, creating systematic overspending in a generation with no credit framework.
@@ -29,3 +18,14 @@
 - `INS-260403-CD68` Libra failed partly because regulators went beyond setting guardrails to actively managing product decisions, making it impossible to ship a market-responsive product.
 - `INS-260403-E1EB` Zillow's iBuying shutdown shows that marketplace DNA (software-first) clashes fatally with fintech DNA (financial operations and risk management).
 - `INS-260403-32E9` Identify your sector's primary risk layer and retire it first before addressing downstream risks.
+- `INS-260403-14C7` Better ML models achieving greater accuracy from smaller datasets allow startup marketplaces to match incumbent underwriting capabilities without decades of historical data.
+- `INS-260322-2D2F` Financial fraud is growing 18-20% per year because AI-powered fraud (deepfakes, pig butchering, automated scams) is outpacing defensive AI tools.
+- `INS-260404-EC16` Fintech investment is recovering unevenly, with infrastructure plays attracting capital while consumer fintech struggles.
+- `INS-260405-C5E5` VCs are doubling down on fintech after years of caution, signaling a sector recovery worth timing for founders and investors alike.
+- `INS-260405-C987` Speculators generate corposlop; info buyers face a public-goods problem; only hedgers provide a structurally sound, recurring source of market liquidity
+- `INS-260405-33CD` NYSE's tokenization platform integrates its existing Pillar matching engine with blockchain settlement, showing incumbents will own RWA by solving the fungibility and trust problems that crypto-native platforms cannot.
+- `INS-260403-71E6` Kalshi's $11B valuation after a $1B round highlights that prediction market growth is inseparable from regulatory risk as volumes surge.
+- `INS-260404-D475` Kalshi's $11B valuation and 1000% volume growth validates regulated prediction markets as a mainstream financial category.
+- `INS-260405-5514` Onfido's acquisition delivered a reported 320x return to its first backer, demonstrating that early conviction in infrastructure fintech compounds dramatically regardless of how the exit occurs.
+- `INS-260404-9FBC` Ramp's 153% YoY growth at $1B revenue is 10x the median public SaaS growth rate, suggesting AI-native business models resist typical growth deceleration.
+- `INS-260322-96F1` The entire GameStop crisis was caused by an archaic settlement system (T+1) that requires collateral posting for trades that have already occurred — tokenization eliminates this by enabling instant settlement.

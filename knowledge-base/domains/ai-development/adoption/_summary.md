@@ -1,6 +1,6 @@
 # Topic: adoption
 
-> 48 insights
+> 51 insights
 
 - `INS-260409-8DDA` [high] Despite massive latent AI value, ~95% of enterprise AI pilots fail because organizations don't know how to operationalize the technology — throwing AI 'over a wall' doesn't work.
 - `INS-260403-A9CC` [high] Companies fail at AI adoption because they issue vague 'be AI-first' mandates without concrete tactics for daily workflows.
@@ -8,6 +8,7 @@
 - `INS-260322-3159` [high] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
 - `INS-260322-750D` [high] AI voice agents in loan servicing and collections can speak 50 languages, maintain perfect UDAP compliance, and deliver better customer experiences — reorienting fintech TAM from IT budgets to labor costs.
 - `INS-260403-00A4` [high] AI deployment patterns bifurcate along economic lines — rich countries augment professionals, developing countries augment students.
+- `INS-260413-D96C` [high] 80% of US high school and college students use AI for schoolwork but only 50% of middle/high schools have AI policies and just 6% of teachers say those policies are clear — a 13x usage-to-policy-clarity gap.
 - `INS-260322-F891` [high] AI only saves time when verification is cheaper than doing the task manually — generating 200 marketing images to pick 10 works, but AI copying 200 numbers from PDFs that all need checking doesn't.
 - `INS-260409-6C66` [high] Allocate 20% of your time to automating yourself out of a job — if you don't, someone else will, and they'll capture the leverage.
 - `INS-260405-62F8` [high] Tesla's FSD data access to Lemonade produced a ~50% premium cut, showing that AV adoption ripples through adjacent industries before consumer uptake is even widespread.
@@ -29,6 +30,7 @@
 - `INS-260403-BBCF` [high] McKinsey's 2025 State of AI shows the gap between AI leaders and laggards is driven by operational redesign willingness, not technology access.
 - `INS-260405-9285` [high] AI agent deployment now requires use case judgment, not engineering skill — the bottleneck has shifted from build to design.
 - `INS-260405-CD42` [high] Not learning AI is not a neutral stance—it is slow-motion failure as the competency floor rises.
+- `INS-260413-BBFA` [high] Over 80% of respondents in China, Malaysia, Thailand, Indonesia, and Singapore expect AI to profoundly change their lives in 3-5 years, with Malaysia showing the largest +9pp increase — while North America/Europe cluster at high nervousness.
 - `INS-260322-55D8` [high] ChatGPT has 800-900M weekly active users, but only 5% pay — five times more people have accounts than can find a weekly use case.
 - `INS-260409-D012` [high] Proficiency takes ~20 hours; people delay the first hour for decades because the cost of starting is visible and the cost of not starting is invisible.
 - `INS-260403-D540` [high] AI capability moves at research speed while economic adoption moves at institutional speed, and the gap between them is where fortunes are made.
@@ -36,6 +38,7 @@
 - `INS-260403-2A0F` [high] Effective AI adoption measurement pairs leading indicators like power-user counts with lagging indicators like hours saved or PRs merged.
 - `INS-260409-52CE` [high] If your AI output is slop, you probably asked it to 'write good copy' instead of giving it 12 rules and 16 samples — the feedback loop is the same as training a junior employee, just 100x faster.
 - `INS-260322-0812` [high] The most viral consumer AI moments of 2025 were all image/video — Ghibli, Nano Banana, VO3, Sora 2 — making multimodal generation the primary driver of new user acquisition.
+- `INS-260413-6CE0` [high] 58% of employees globally use AI at work regularly — but the share exceeds 80% in India, China, Nigeria, UAE, and Saudi Arabia, while North America/Europe sit at 40-48%, inverting the usual wealth-diffusion pattern.
 - `INS-260403-E23C` [medium] An MIT study found 95% of companies investing in AI tools saw zero return, pointing to a gap between AI capability and organizational readiness to deploy it effectively.
 - `INS-260329-C4F5` [medium] Framing AI as augmentation rather than replacement is the only actionable mindset because the alternative is paralysis.
 - `INS-260403-643A` [medium] AI tools generate code easily but debugging still requires technical intuition, creating a hidden cliff where non-coders get stuck.

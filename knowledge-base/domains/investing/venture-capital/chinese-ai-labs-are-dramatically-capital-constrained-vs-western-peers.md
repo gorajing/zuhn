@@ -53,8 +53,8 @@ related:
   - INS-260404-6B73
   - INS-260403-10C8
   - INS-260409-B005
+  - INS-260413-7B46
   - PRI-260406-FCF0
-  - INS-260410-0330
 ---
 The 2021 tech crackdown shell-shocked Chinese VCs, and exit options remain terrible: 2% bank yields, a chronically depressed stock market, the threat of cancelled IPOs, and capital controls that make it hard to even get money out. One VC half-jokingly asked Dwarkesh to help him expatriate his funds. This means even if a Chinese AI startup builds something exceptional, the funding stack to scale compute spending into the tens of billions doesn't exist domestically.
 

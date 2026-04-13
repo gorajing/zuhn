@@ -59,7 +59,7 @@ related:
   - INS-260411-CBCF
   - INS-260404-C147
   - INS-260403-DAFA
-  - INS-260324-1216
+  - INS-260413-09C4
 ---
 Rwanda's 29th-place ranking on the World Bank's Ease of Doing Business Index is a masterclass in regulatory signaling. By focusing legislative reform on the ten specific factors the index measures — starting a business, construction permits, electricity access, property registration, credit, investor protection, taxes, cross-border trade, contracts, and insolvency — Rwanda engineered a ranking that places it above countries with 50-100x its GDP per capita.
 

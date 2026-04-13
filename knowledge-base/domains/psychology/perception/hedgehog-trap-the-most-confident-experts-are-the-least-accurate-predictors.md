@@ -46,16 +46,16 @@ resolutions:
     When evaluating advice, weight the tentative, nuanced thinkers over the
     charismatic formula-givers.
 related:
-  - INS-260325-4793
   - INS-260325-F0CE
   - INS-260325-9F41
   - INS-260323-D6C7
   - PRI-260324-2C9F
+  - INS-260413-BE3E
   - INS-260325-E84D
-  - INS-260403-615D
   - INS-260330-2838
   - INS-260403-268F
   - INS-260403-7EA1
+  - INS-260403-6908
 stance: >-
   Philip Tetlock's 20-year study of 284 experts and 80,000 predictions found
   that the most confident, framework-driven experts (hedgehogs) were the l...

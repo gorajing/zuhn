@@ -56,7 +56,6 @@ stance: >-
   invisible context — their customer data, failed experiments, and strategic
   reasoning — that shaped those tactics.
 related:
-  - INS-260330-0FCC
   - INS-260330-2B5F
   - INS-260403-0907
   - PRI-260406-B9E0

@@ -49,7 +49,6 @@ stance: >-
   for moderately successful startups.
 related:
   - INS-260403-1034
-  - INS-260404-15B8
   - PRI-260406-97BB
   - INS-260403-1E5F
   - INS-260403-0680

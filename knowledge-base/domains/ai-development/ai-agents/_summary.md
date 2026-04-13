@@ -1,6 +1,6 @@
 # Topic: ai-agents
 
-> 64 insights
+> 65 insights
 
 - `INS-260330-8F07` [high] AI agents' biggest value is eliminating the friction between idea and implementation, not writing code faster.
 - `INS-260325-7FAF` [high] The agentic inflection point comes from model capability AND inference ease-of-use converging simultaneously.
@@ -8,6 +8,7 @@
 - `INS-260403-D56A` [high] Anthropic's 2026 report shows the biggest agent gains go to teams that rebuild work around agents rather than layering AI on top of old systems.
 - `INS-260403-8311` [high] AI agents that book flights, send emails, and interact with real systems multiply prompt injection risks far beyond what chatbot-era defenses can handle.
 - `INS-260403-4A16` [high] AI agents that can autonomously execute multi-step tasks in the physical world cross the line from information hazard to actual weapon.
+- `INS-260413-AD37` [high] OSWorld agent accuracy leapt from 12% to 66.3% in 2025, within 6 points of human performance, with Claude Sonnet 4.5 alone hitting 61.4% on computer-use tasks.
 - `INS-260404-BD96` [high] The transition from AI as information provider to AI as autonomous workflow executor represents the next major frontier in generative AI value creation.
 - `INS-260327-B9AD` [high] Pace's CEO argues that building AI into task-level workflow nodes is 'relatively short on AI' — the real opportunity is having agents run entire standard operating procedures end-to-end, replacing BPO services completely.
 - `INS-260403-4819` [high] Cursor and Replit have crossed $500M+ ARR in under four years, setting a new speed record for developer tool commercialization.

@@ -12,7 +12,6 @@
 - `INS-260409-C0DF` The interesting longevity claim is that psychedelics may produce measurable metabolic and neural rejuvenation effects, not just subjective mental health benefits.
 - `INS-260409-6B22` Sprint performance is a clean mitochondrial-capacity biomarker and sprinting itself is an underprescribed longevity protocol.
 - `INS-260405-174B` Replacing blood with saline and albumin mimics young-blood transfusion benefits, revealing that aging damage accumulation — not depletion of youth factors — is the primary mechanism.
-- `INS-260403-B9E6` Longevity investments should be evaluated by whether they flatten the mortality curve (like naked mole rats) rather than shift it rightward.
 - `INS-260327-A478` Blue Zone centenarian counts may be inflated by birth record errors and pension fraud in regions with historically poor documentation, undermining dietary conclusions drawn from this data.
 - `INS-260325-1550` Creatine at 10-20g/day provides brain energy and longevity benefits beyond the standard 5g muscle dose — the brain is a primary consumer.
 - `INS-260327-7B16` Hunter-gatherers surviving childhood regularly lived to 68-78 years without chronic disease; the 30-40 year average lifespan is skewed by high infant and childhood mortality.
@@ -30,3 +29,4 @@
 - `INS-260410-EA73` Benchmark's partners explicitly reject words like 'institution' and 'franchise' because their job is killing incumbents, so they've built a culture where every partner who has ever left fired themselves before peer pressure had to.
 - `INS-260412-9300` The Caplan thruster harvests mass from the Sun to fuel itself, yet this actually extends the Sun's lifespan because lower-mass stars burn slower.
 - `INS-260409-9E95` Academic DSP archives like CDP contain unique processes that commercial plugin vendors never replicated, making them permanently worth searching.
+- `INS-260403-B9E6` Longevity investments should be evaluated by whether they flatten the mortality curve (like naked mole rats) rather than shift it rightward.

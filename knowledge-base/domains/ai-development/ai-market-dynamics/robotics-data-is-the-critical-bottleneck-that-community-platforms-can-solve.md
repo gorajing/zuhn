@@ -55,7 +55,7 @@ related:
   - INS-260327-6E57
   - PRI-260328-7007
   - INS-260410-56F7
-  - INS-260405-E4FC
+  - INS-260413-3860
 ---
 The fundamental asymmetry between language AI and robotics AI is data availability. Language models trained on trillions of internet tokens; there is no equivalent corpus of robot actions. Thomas Wolf sees Hugging Face's community platform as the solution: thousands of contributors sharing robotic datasets, with exponential growth in the number of community-uploaded datasets already visible.
 

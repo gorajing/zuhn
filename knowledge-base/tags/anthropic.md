@@ -21,13 +21,13 @@
 - `INS-260327-EEBD` When enterprise customers arrive with 'a thousand use cases,' Anthropic's sales team uses a 2x2 (internal/external x save money/make money) to prioritize — starting with internal cost savings as learning deployments before tackling external revenue generation.
 - `INS-260327-42F0` Artifacts, MCP, and Anthropic's best products all started as bottom-up prototypes from engineers working close to the model, not planned features.
 - `INS-260403-3B8D` Anthropic proved that safety-first positioning creates enterprise value by making predictability the product, not the overhead.
+- `INS-260327-6B78` Anthropic's enterprise sales targets two distinct buyers: developers/CPOs who consume the API and Chief AI Officers who manage model portfolios — with the majority of the Fortune 500 now having someone in the latter role.
+- `INS-260405-9015` Anthropic's Pentagon conflict drove it from #120 to #1 on the App Store—an outcome no ad campaign had achieved
+- `INS-260327-8FD4` Kate Jensen identifies three AI use cases she uses daily: AI-powered account planning and exec meeting prep, screenshot-based dashboard analysis for insights, and rapid coaching from call transcripts.
+- `INS-260327-679A` Kate Jensen builds Anthropic's sales culture around data obsession, deliberate experimentation (letting ICs propose and test hypotheses), and vulnerability — celebrating wins while learning quickly from failures.
 - `INS-260327-40E3` Ramp data shows Anthropic capturing 73% of new enterprise AI spend as OpenAI's strategic inconsistency — from flat headcount to doubling, from standalone Sora to folding it in — erodes buyer confidence.
 - `INS-260409-5FBA` OpenAI is a consumer-subscription business and Anthropic is an API/enterprise business; comparing headline revenue numbers is apples-to-oranges until both normalize for public markets.
 - `INS-260403-3099` Dario Amodei warns that misalignment between massive AI infrastructure spending and uncertain revenue timing creates existential risk for companies pursuing aggressive YOLO strategies.
 - `INS-260323-D288` When OpenAI and Anthropic file S-1s for IPO, the forced financial transparency will likely trigger a WeWork-style reassessment — Anthropic has leaked inconsistent revenue figures and OpenAI plans to burn $200B+ even at optimistic revenue targets.
 - `INS-260403-0BE9` AI venture funding hit $225.8B in 2025 but mega-rounds dominated, with OpenAI, Anthropic, and xAI capturing 38% of total investment.
 - `INS-260404-34D4` Amazon's $2.75B Anthropic investment signals that big tech strategic capital now dominates AI startup funding over traditional VC.
-- `INS-260327-6B78` Anthropic's enterprise sales targets two distinct buyers: developers/CPOs who consume the API and Chief AI Officers who manage model portfolios — with the majority of the Fortune 500 now having someone in the latter role.
-- `INS-260405-9015` Anthropic's Pentagon conflict drove it from #120 to #1 on the App Store—an outcome no ad campaign had achieved
-- `INS-260327-8FD4` Kate Jensen identifies three AI use cases she uses daily: AI-powered account planning and exec meeting prep, screenshot-based dashboard analysis for insights, and rapid coaching from call transcripts.
-- `INS-260327-679A` Kate Jensen builds Anthropic's sales culture around data obsession, deliberate experimentation (letting ICs propose and test hypotheses), and vulnerability — celebrating wins while learning quickly from failures.

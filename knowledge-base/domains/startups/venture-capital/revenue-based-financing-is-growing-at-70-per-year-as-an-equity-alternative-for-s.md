@@ -52,7 +52,6 @@ stance: >-
   ~70% annually, signaling that RBF is becoming a mainstream capital option for
   recurring-revenue businesses rather than a niche instrument.
 related:
-  - INS-260403-1407
   - INS-260403-CE07
   - INS-260403-5F8B
   - INS-260404-C30F
@@ -60,6 +59,7 @@ related:
   - INS-260403-4365
   - INS-260405-2F43
   - INS-260405-DDC2
+  - INS-260413-AC10
   - INS-260403-9FEB
   - INS-260410-9120
 ---

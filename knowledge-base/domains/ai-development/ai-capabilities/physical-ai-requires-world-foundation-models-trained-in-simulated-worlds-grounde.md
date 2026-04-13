@@ -55,7 +55,6 @@ related:
   - INS-260323-C9B1
   - INS-260321-9906
   - INS-260327-6E57
-  - INS-260327-DCF8
   - INS-260410-56F7
 stance: >-
   Just as ChatGPT needed a language model, robots need a world foundation model

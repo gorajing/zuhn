@@ -58,10 +58,10 @@ stance: >-
   applied-knowledge bridge operating in proximity.
 related:
   - PRI-260406-9573
+  - INS-260413-0992
   - INS-260410-5735
   - INS-260403-924B
   - INS-260404-8D91
-  - INS-260412-6F4D
 ---
 Harper argues Rome pushed Smithian growth — gains from trade, specialization, comparative advantage, and sophisticated finance — as far as a pre-industrial economy plausibly could. They had impersonal banking, contract enforcement, urbanization, and even artisanal-to-industrial scaling in some sectors. Yet productivity never compounded into a takeoff.
 

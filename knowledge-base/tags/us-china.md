@@ -2,9 +2,11 @@
 
 - `INS-260327-4E8E` If AI models in datacenters are like a 'country of geniuses,' the natural question is what their intent is — and this existential risk of autonomous AI action is the one area where limited US-China cooperation might be possible.
 - `INS-260409-BBBA` 10 years ago China published 50% of US research papers; last year it published 50% more. The inversion extends beyond AI into biotech, materials, and life sciences — with China becoming a scientific leader, not just a copycat.
+- `INS-260413-3860` China accounted for 54% of industrial robots installed globally in 2024 (up from 51.1% in 2023) while US, Germany, and Italy declined — pairing AI capability with the manufacturing base to deploy it.
 - `INS-260327-10C9` Dario argues export controls on advanced chips are the most important national security policy in all fields because AI dominance translates directly to military and economic dominance, and the US has a ~4-year hardware lead that creates a critical 10-year window.
 - `INS-260405-8FCF` A hegemon loses its ability to set global rules unilaterally when rivals reach parity, even if the hegemon itself never declines in absolute terms.
 - `INS-260323-9FCA` Musk warns that China's economy will be 2-3x the US economy, creating the same Athens-vs-Sparta dynamic that led to the Peloponnesian War — a war both sides saw coming and couldn't prevent.
+- `INS-260413-09C4` DeepSeek-R1 briefly matched the top US model in Feb 2025 and as of March 2026 Anthropic leads by just 2.7% — US AI supremacy is a contested measurement, not a structural condition.
 - `INS-260404-2AD7` China banning foreign AI chips from state data centers and the US securing $1.4B in rare-earth deals indicate a permanent split in AI hardware supply chains.
 - `INS-260323-FFE8` The decisive factor in US-China competition is technological supremacy — particularly AI and standard-setting — not raw GDP growth.
 - `INS-260323-D6BD` Despite appearing ideologically opposed, Biden barely cut any tariffs on China and maintained aggressive semiconductor export controls — US containment of China is structurally bipartisan.

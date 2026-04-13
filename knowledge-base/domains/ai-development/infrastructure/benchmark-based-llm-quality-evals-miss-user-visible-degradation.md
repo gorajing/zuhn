@@ -57,10 +57,12 @@ related:
   - INS-260330-EC22
   - INS-260403-5F69
   - INS-260410-E3BB
+  - INS-260413-EB61
+  - INS-260413-B79B
   - PRI-260405-6867
   - INS-260325-EE14
-  - INS-260412-1191
   - INS-260410-9D04
+  - INS-260412-1191
 ---
 Anthropic explicitly admitted their validation relied too heavily on 'noisy evaluations' that couldn't distinguish working from broken implementations sharply enough to catch the bugs. Benchmarks aggregate performance across many prompts; a bug that degrades 1-2% of requests disappears into the noise floor of benchmark variance. Worse, LLMs are self-correcting enough that a single wrong token often doesn't tank a whole eval score, even when the cumulative user experience is noticeably worse.
 

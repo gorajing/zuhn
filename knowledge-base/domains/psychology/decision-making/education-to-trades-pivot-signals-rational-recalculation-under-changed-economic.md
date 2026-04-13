@@ -55,7 +55,6 @@ stance: >-
   colleges represents better expected-value reasoning than previous generations'
   default credentialism.
 related:
-  - INS-260327-9431
   - INS-260329-191D
   - INS-260329-D8C7
   - INS-260329-04CB

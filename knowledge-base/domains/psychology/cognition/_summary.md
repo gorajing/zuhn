@@ -1,6 +1,6 @@
 # Topic: cognition
 
-> 94 insights
+> 96 insights
 
 - `INS-260330-984C` [high] Flat Earth theories are clever ad hoc explanations that address individual challenges but fail to fit all evidence into a unified framework.
 - `INS-260403-518E` [high] Chatter makes stress toxic by keeping the stress response active long after the triggering event has passed.
@@ -11,6 +11,7 @@
 - `INS-260403-8BF4` [high] Cutting words isn't just style — it's how you discover what you actually mean.
 - `INS-260402-9676` [high] Our programming languages limit what we can conceive as possible, making easier solutions feel surprising when discovered.
 - `INS-260404-92B8` [high] The block-collision pi algorithm is simultaneously the most elegant and most absurdly inefficient way to compute pi, revealing that elegance and efficiency measure fundamentally different things.
+- `INS-260413-C64F` [high] Across 68 LEAP forecast questions, AI experts predicted faster progress than the public 71% of the time and were on average 16% more likely to predict faster outcomes on any given milestone.
 - `INS-260404-4E6D` [high] Writing ideas down matters not because you'll re-read them, but because holding an idea in memory blocks the next one from forming.
 - `INS-260330-F889` [high] Special relativity shows that even an object's shape is observer-dependent, challenging naive realism about 'objective truth.'
 - `INS-260405-32BB` [high] Call it a sketch. Call it a quick hack. The label you apply to your work changes the internal standards you apply — and once momentum exists, you can quietly convert it to something real.
@@ -46,6 +47,7 @@
 - `INS-260404-50F7` [high] Imagining constrained environments exposes which dependencies you've normalized and stopped noticing.
 - `INS-260330-0C10` [high] Swearing uses a separate neural pathway from regular language, rooted in the emotional limbic system rather than cortical language areas.
 - `INS-260330-B87C` [high] The same nerve signals producing pleasure or irritation depending on context reveals that the brain constructs meaning from sensory data rather than passively receiving it.
+- `INS-260413-3C99` [high] People are AI-optimistic for themselves and AI-pessimistic for everyone else — 56% globally say AI saves them time, 40% say AI will make their job better, yet 64% of US adults expect AI to produce fewer jobs overall.
 - `INS-260330-8045` [high] Every nervous system action follows a three-stage pipeline: sense the environment, integrate meaning, then execute a motor response.
 - `INS-260402-7C15` [high] Truly effective essays become culturally absorbed and thus lose their capacity to surprise future readers, creating a paradox where impact and timelessness are inversely related.
 - `INS-260330-7C58` [high] The Holocaust used Western civilization's best tools — record-keeping, industrial production, technology — for systematic extermination, proving progress is morally neutral.

@@ -46,10 +46,10 @@ stance: >-
   decline
 related:
   - INS-260327-1ACE
-  - INS-260405-2230
   - INS-260403-DAFA
+  - INS-260413-4EB1
+  - INS-260405-2230
   - INS-260403-6B24
-  - INS-260403-5F8B
 ---
 The GSER 2025 reveals meaningful shifts in global startup power centers. London's drop to #3 and the rise of Beijing, Shanghai, Hong Kong, and Bengaluru signal that innovation gravity is shifting eastward. Meanwhile, Boston's return to the Top 5 suggests mature ecosystems with deep research institutions retain durable advantages.
 

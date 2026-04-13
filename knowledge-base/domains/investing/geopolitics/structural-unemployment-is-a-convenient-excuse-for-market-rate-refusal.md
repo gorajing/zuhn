@@ -46,10 +46,10 @@ stance: >-
   vacancy a skills shortage.
 related:
   - INS-260327-10E8
+  - INS-260413-6DBD
   - INS-260330-43EE
   - INS-260405-945B
   - PRI-260328-D68F
-  - INS-260330-B28C
 evidence:
   - id: INS-260330-B28C
     type: SUPPORTS

@@ -1,6 +1,6 @@
 # Topic: venture-capital
 
-> 304 insights
+> 305 insights
 
 - `INS-260403-6B24` [high] High-profile 2025 IPOs like Figma, Chime, and Navan traded below debut prices even as Nasdaq and S&P 500 rallied.
 - `INS-260405-0CAB` [high] 38% of VCs stopped doing deals in 2023, exposing a large cohort of cycle-dependent tourist investors who entered during the 2020-2021 bull market.
@@ -104,6 +104,7 @@
 - `INS-260403-BB6B` [high] Venture returns are so concentrated in a few outliers that non-outlier investments are economically irrelevant.
 - `INS-260403-6044` [high] In breakout companies, speed and access dominate price as the primary driver of venture returns.
 - `INS-260403-AAC8` [high] Harry Stebbings missed $400M+ in gains on Deel and Vanta by letting market concerns override his conviction in generational founders, permanently changing his investment framework.
+- `INS-260413-AC10` [high] 2025 global AI private investment hit $344.7B (+127.5%), generative AI alone $170.9B (+200%+), newly funded companies 3,499 (+70.8%), and 28 billion-dollar events vs 15 in 2024.
 - `INS-260404-F45E` [high] Private markets now offer enough capital and liquidity that the most valuable startups can indefinitely defer going public.
 - `INS-260403-D986` [high] $14.6B of Q2 2024's $55.6B venture total went to just two companies (CoreWeave and xAI), masking a weaker broad market.
 - `INS-260404-22CB` [high] QSBS allows up to $10M or 10x basis in capital gains exclusion on qualifying startup investments, creating significant after-tax return advantages for structured VC funds.

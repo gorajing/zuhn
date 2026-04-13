@@ -7,7 +7,7 @@
 - `INS-260322-1435` New TikTok Ads accounts get matched spending credits (spend $200, get $200 free) plus recurring coupons, effectively halving your early ad costs.
 - `INS-260330-7346` A full-time internal fundraiser hired post-Series B can double your next-round valuation compared to using investment bankers, at literally half the dilution.
 - `INS-260412-CFF6` Antarctica uses intercontinental jets to coastal McMurdo, ski-equipped LC-130s inland, and 40-day tractor convoys for bulk cargo—each mode optimized for its leg.
-- `INS-260412-C029` Airlines fly at 500-550 mph instead of near the 767 mph speed of sound because fuel cost per flight ($15K+) is 3x the aircraft cost per flight ($5K).
 - `INS-260412-47D5` The motorcade uses local police for route clearing and local ambulances for medical standby, reserving Secret Service resources exclusively for the president's immediate security.
 - `INS-260330-9A92` Growing 100 cheap vine robots into a collapsed building where only one finds a survivor is a massive success — the strategy works because unit cost approaches zero.
+- `INS-260412-C029` Airlines fly at 500-550 mph instead of near the 767 mph speed of sound because fuel cost per flight ($15K+) is 3x the aircraft cost per flight ($5K).
 - `INS-260322-144E` Start on cheap beginner gear at home and rent professional equipment (e.g., Pioneer CDJs at Pirate Studios) for practice sessions instead of buying.

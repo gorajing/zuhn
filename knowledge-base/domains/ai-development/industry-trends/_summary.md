@@ -1,6 +1,6 @@
 # Topic: industry-trends
 
-> 15 insights
+> 16 insights
 
 - `INS-260409-A11F` [high] Frontier AI compute is only economically viable because its environmental and public health costs are externalized onto vulnerable communities that never consented to host the infrastructure.
 - `INS-260410-6290` [high] Human corporations can't clone themselves because they're made of people, which is why they age and die — AI firms built from copyable code will compound like eukaryotic life over prokaryotic bacteria.
@@ -9,6 +9,7 @@
 - `INS-260410-AF67` [high] Benchmark progress tracks the bulls' timelines while economic impact tracks the bears' — both sides are partly right about different metrics.
 - `INS-260409-62DA` [high] Altman's firing was triggered by documented pattern of manufactured internal chaos plus discovery that the OpenAI Startup Fund was legally his personal vehicle.
 - `INS-260410-F849` [high] Smartphone volumes are projected to fall from 1.1B to 500-600M as memory prices double and triple, freeing DRAM for AI accelerators where it can earn much higher margins.
+- `INS-260413-3AB5` [high] 67% of US AI software master's graduates and 55% of AI PhD graduates are non-residents — and federal visa revocations plus discouraged enrollment make further declines expected as the 89% drop in new AI talent inflow since 2017 compounds.
 - `INS-260405-2DCC` [medium] Each AI capability phase — transformers, LLMs, reasoning, agents — requires discarding the mental models built in the previous phase.
 - `INS-260405-1054` [medium] xAI's third data center reaches nearly 2 gigawatts of compute power by co-locating with an acquired power plant, signaling that energy access—not just hardware—is the binding constraint for frontier AI labs.
 - `INS-260410-D0F5` [medium] AI lab competition has so far neutralized every supposed flywheel, with talent flow and reverse-engineering keeping rivals close.

@@ -51,8 +51,8 @@ related:
   - PRI-260406-275E
   - INS-260405-C49E
   - INS-260405-776D
+  - INS-260413-AC10
   - INS-260403-9A94
-  - INS-260404-E55F
   - INS-260405-B7C0
 ---
 The Q1 2026 fund data shows multiple funds over $1B explicitly targeting defense and dual-use technology. This is a sharp reversal from the prior decade when most VC firms avoided defense due to ethical concerns, long procurement cycles, and limited exit options. The shift is driven by geopolitical competition—particularly US-China tension—combined with government spending signals and the rise of defense-friendly founders from the SpaceX and Anduril generation. The combination of government as a guaranteed large customer and AI as a capability multiplier has made defense tech a credible venture-scale category. Firms that built this capability early (a16z, Andreessen's American Dynamism, Founders Fund) are now raising significantly larger vehicles.

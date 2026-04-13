@@ -48,11 +48,11 @@ stance: >-
   of US GDP growth, not just a tech sector phenomenon, contributing over 2
   percentage points of the 3.8% annualized growth in early 2025.
 related:
+  - INS-260413-BD80
   - INS-260405-2230
+  - INS-260413-CAA6
+  - INS-260413-AC10
   - INS-260405-B204
-  - INS-260405-FCA9
-  - INS-260403-DAFA
-  - INS-260405-DDC2
 ---
 BEA data shows information processing equipment contributed ~1.11 percentage points and software ~0.99 points to real GDP growth in H1 2025, together explaining over half of the 3.8% annualized growth print while other components were mixed. This means AI-driven infrastructure spending is no longer a niche tech story — it's a macroeconomic force propping up headline GDP numbers.
 

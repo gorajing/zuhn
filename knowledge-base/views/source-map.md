@@ -1,5 +1,5 @@
 # Source Map
-Generated on 2026-04-12 | 2467 sources
+Generated on 2026-04-13 | 2468 sources
 
 | Source | Type | Insights | Date |
 |--------|------|----------|------|
@@ -8,6 +8,7 @@ Generated on 2026-04-12 | 2467 sources
 | How to Present to Investors | blog | 166 | 2026-03-31 |
 | Why Costco is Cheaper than Amazon | youtube | 136 | 2026-03-30 |
 | February 2025 Startups Raising Capital | blog | 84 | 2026-03-30 |
+| ai_index_report_2026 | pdf | 50 | 2026-04-13 |
 | Claude Code is a Beast – Tips from 6 Months of Hardcore Use | reddit | 30 | 2026-03-20 |
 | Why we shifted to Spec-Driven Development | reddit | 30 | 2026-03-20 |
 | Calculus 1 - Full College Course | youtube | 30 | 2026-03-29 |

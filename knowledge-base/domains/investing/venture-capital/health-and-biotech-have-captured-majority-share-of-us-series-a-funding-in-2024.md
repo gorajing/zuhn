@@ -49,14 +49,16 @@ stance: >-
   sector rotation away from pure software toward regulated, capital-intensive
   industries.
 related:
-  - INS-260403-0BE9
   - INS-260405-5F16
+  - INS-260403-0BE9
   - INS-260403-FD57
   - INS-260405-6FE3
   - INS-260405-DDC2
   - INS-260403-39B8
   - INS-260405-B126
   - INS-260404-F22C
+  - INS-260413-E2C4
+  - INS-260413-B7A7
 ---
 The data from Crunchbase shows that health and biotech startups have pulled in roughly $5.6 billion across 110 Series A rounds in early 2024, accounting for 53% of all Series A funding. This is a significant marker because Series A is considered the most closely watched barometer for where the startup ecosystem is heading — it represents committed institutional conviction, not speculative seed bets.
 

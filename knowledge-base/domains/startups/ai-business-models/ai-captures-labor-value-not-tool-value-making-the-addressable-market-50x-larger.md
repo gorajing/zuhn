@@ -42,7 +42,6 @@ stance: >-
   software tools will capture dramatically more value because the global labor
   market is 50x larger than the global software market.
 related:
-  - INS-260330-4E01
   - INS-260403-BB5E
   - INS-260403-F62E
   - PRI-260328-8317

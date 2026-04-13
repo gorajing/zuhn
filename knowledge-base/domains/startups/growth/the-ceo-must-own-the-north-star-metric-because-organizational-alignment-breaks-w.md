@@ -53,7 +53,6 @@ stance: >-
   personally champion a single North Star metric that the entire company
   optimizes for
 related:
-  - INS-260327-5A72
   - PRI-260406-818D
   - INS-260403-A0B0
   - INS-260330-21CC

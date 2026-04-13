@@ -1,8 +1,5 @@
 # Tag: ideology
 
-- `INS-260327-A052` The Crusade mobilized tens of thousands to march across a continent at their own expense because the spiritual incentive (remission of sins) was more powerful than any paycheck.
-- `INS-260410-CD75` Shared ideology is a weak glue compared to existential threat — the Sino-Soviet split shows that once Russia asked the US for permission to nuke China, Moscow became Beijing's primary adversary overnight despite both being communist.
-
 - `INS-260403-EBE4` Legacy environmental groups like Greenpeace have largely gone quiet on Chinese overfishing while continuing to critique Western environmental practices.
 - `INS-260410-1601` Rome sustained a society where 10-20% were enslaved without racialized ideology or significant abolitionist pushback, using coercion, manumission incentives, and household embedding instead.
 - `INS-260330-2EC6` Ross went from libertarian idealist growing mushrooms to approving weapons sales, body parts listings, and commissioning hits — each step rationalized as defending the 'free market' philosophy he started with.
@@ -14,3 +11,6 @@
 - `INS-260412-C6F9` Ross Ulbricht's libertarian philosophy framing Silk Road as empowering people against government tyranny sustained both his commitment and community loyalty.
 - `INS-260330-1243` Applying ideological threat models to fundamentally transactional actors leads to systematic misprediction of their behavior and goals.
 - `INS-260330-E811` Innovation ecosystems are historically destroyed by authoritarian rulers, ideological fundamentalists, or rent-seeking extractors.
+- `INS-260327-A052` The Crusade mobilized tens of thousands to march across a continent at their own expense because the spiritual incentive (remission of sins) was more powerful than any paycheck.
+- `INS-260410-CD75` Shared ideology is a weak glue compared to existential threat — the Sino-Soviet split shows that once Russia asked the US for permission to nuke China, Moscow became Beijing's primary adversary overnight despite both being communist.
+

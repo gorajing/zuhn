@@ -48,9 +48,9 @@ stance: >-
 related:
   - INS-260405-D4FA
   - INS-260405-CD10
+  - INS-260413-4EB1
   - INS-260403-839E
   - INS-260403-1B46
-  - INS-260404-8881
   - INS-260403-7410
 ---
 The 2025 IPO class reveals a structural disconnect: public market indices can rise while newly public VC-backed companies still underperform. This challenges the conventional wisdom that a rising market lifts all IPO boats. Companies like Figma, Chime, and Navan debuted to initial excitement that faded quickly as macro uncertainty persisted.

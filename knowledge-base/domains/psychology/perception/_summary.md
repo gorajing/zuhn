@@ -1,6 +1,6 @@
 # Topic: perception
 
-> 308 insights
+> 309 insights
 
 - `INS-260325-6AE7` [very_high] Perfect squares become vanishingly rare as numbers grow — 'almost no' numbers are perfect squares — yet there are infinitely many of them, perfectly predictably located.
 - `INS-260325-0921` [very_high] The Collatz sequence's logarithmic behavior matches geometric Brownian motion — a stock-market-like random walk emerging from a fully deterministic rule.
@@ -257,6 +257,7 @@
 - `INS-260325-3A04` [medium] Unlike temporal causation (dominoes that keep falling after the first is removed), hierarchical causation requires every link to borrow causal power from something more fundamental RIGHT NOW — implying a necessary sustaining foundation.
 - `INS-260330-F056` [medium] Humans evolved uniquely white scleras to make gaze direction obvious — a cooperative trade-off that predators cannot afford.
 - `INS-260327-70DF` [medium] Success breeds humility through exposure to genuine expertise, not the reverse.
+- `INS-260413-F591` [medium] India registered the sharpest rise in AI nervousness of any country surveyed (+14 percentage points 2024-2025) with only a modest increase in excitement (+2) — anxiety and optimism decoupled in the country most central to global AI talent.
 - `INS-260325-1CE4` [medium] Discovering that two operations are inverses (like integrals and derivatives) is the most powerful type of mathematical insight.
 - `INS-260329-9CCF` [medium] Interleaving prerequisite material with advanced content at the point of need — as this calculus course does with algebra corequisites — creates immediate motivation and context that front-loaded prerequisites lack.
 - `INS-260330-4824` [medium] Our logarithmic perception of scale causes systematic underestimation of exponential differences in physical dimensions like building height.

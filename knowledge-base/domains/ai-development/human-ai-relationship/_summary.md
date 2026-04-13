@@ -1,6 +1,6 @@
 # Topic: human-ai-relationship
 
-> 75 insights
+> 77 insights
 
 - `INS-260325-9C2F` [very_high] When AI outperforms humans, human-AI synergy is g = -0.54; when humans outperform AI, synergy is g = +0.46.
 - `INS-260325-3EF4` [very_high] Decision tasks show negative synergy (g = -0.27, p = 0.002) while creation tasks show positive synergy (g = 0.19), a statistically significant difference.
@@ -45,6 +45,7 @@
 - `INS-260409-8C6C` [high] The three empirical studies on GenAI and critical thinking do not convict AI itself; they convict RLHF-trained sycophancy plus generic deferential chatbot interfaces — both of which are fixable design choices, not inherent limitations of the technology.
 - `INS-260409-3C6A` [high] Non-developers who push tools like Airtable and Notion to their limits hit a 'command line wall' — the terminal is a huge jump in complexity, usability, and frustration from no-code tools, and almost no one crosses it without becoming a full-time programmer.
 - `INS-260322-CC69` [high] In the AI era, the core educational skill shifts from producing correct answers to evaluating whether answers are correct.
+- `INS-260413-6DBD` [high] US experts vs public AI optimism on jobs: 73% vs 23%. On economy: 69% vs 21%. On medical care: 84% vs 44%. The expert-public gap is 50 points on average and replicates across nearly every AI topic surveyed.
 - `INS-260322-F6B5` [high] A designer quit her job not because AI replaced her work, but because her boss's AI-generated feedback overwhelmed her judgment to the point where she feared losing her own creative identity.
 - `INS-260403-AB55` [high] The philosophical framework of evaluating AI behavior by external causes and effects rather than internal experience dissolves the reality/roleplay debate into something empirically testable.
 - `INS-260322-83D4` [high] The highest-value use of AI is building richer internal world models for better decision-making, not outsourcing output production.
@@ -64,6 +65,7 @@
 - `INS-260325-ADF3` [medium] Developing an intuitive sense of when ChatGPT will hallucinate is as legitimate as understanding its architecture.
 - `INS-260330-4AD5` [medium] AI improves its usability faster than you can learn tricks, so just speak naturally and let the models catch up to you.
 - `INS-260327-8936` [medium] Every human has independently relearned all of civilization through their unique combination of genes and experiences, making each person an irreplaceable perspective.
+- `INS-260413-9818` [medium] AI Index 2026 flags emerging evidence that heavy AI reliance may carry long-term learning penalties that slow skill development over time — the productivity-for-learning trade-off becomes structural.
 - `INS-260403-B280` [medium] The deeper significance of AI isn't economic disruption but humanity losing its position as the most intelligent entity on Earth for the first time in history.
 - `INS-260325-19E9` [medium] Only 3 of 106 experiments tested intentional subtask delegation between humans and AI; those 3 showed positive synergy (g = 0.22) versus the overall negative average.
 - `INS-260329-C555` [medium] 40+ years of research into natural language processing hasn't closed the gap that a few weeks of Python education can bridge from the human side.

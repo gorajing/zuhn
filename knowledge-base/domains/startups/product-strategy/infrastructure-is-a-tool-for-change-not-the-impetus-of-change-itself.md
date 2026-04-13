@@ -47,7 +47,6 @@ stance: >-
   Building enabling infrastructure without a go-to-market engine produces
   underwhelming results even when the infrastructure works perfectly
 related:
-  - INS-260410-54CB
   - INS-260412-CAAD
   - INS-260412-FEFA
   - INS-260412-25C1

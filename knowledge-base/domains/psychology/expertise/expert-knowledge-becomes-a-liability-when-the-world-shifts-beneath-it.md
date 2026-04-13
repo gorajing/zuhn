@@ -51,6 +51,7 @@ related:
   - INS-260405-2E0A
   - INS-260330-0E86
   - INS-260403-A27F
+  - INS-260413-E816
 ---
 When the world is static, accumulated experience monotonically increases the reliability of beliefs. But most domains change, and experts who don't account for this become prisoners of outdated mental models. The danger is that expertise feels increasingly reliable over time — the very mechanism that makes experts useful in stable domains makes them fragile in shifting ones.
 

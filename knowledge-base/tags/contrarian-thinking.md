@@ -14,7 +14,6 @@
 - `INS-260329-AAE3` You can be right 99% of the time that individual attempts will fail, but being 100% wrong on the long-term outcome because one of them would have worked if you kept going.
 - `INS-260409-81CB` The most valuable AI insight for you personally is whichever side you're currently not considering — deliberately steelman the counter to your default position.
 - `INS-260327-7F11` The biggest wins come from holding ideas that smart people call stupid—expert consensus is where the alpha is.
-- `INS-260403-BAE1` YC's evolution toward consensus-friendly prompts risks creating a 'Consensus Capital Machine' where founders chase trends instead of pursuing conviction-driven missions.
 - `INS-260330-66A0` The best startup ideas look bad initially because good-sounding ones attract too many competitors, preventing monopoly formation.
 - `INS-260329-ABD9` Find ideas others have discarded rather than trying to discover something nobody has ever considered.
 - `INS-260330-4EF8` A contrarian idea is only valuable if you can name what you know that smart, informed skeptics don't — otherwise you're just wrong.
@@ -22,6 +21,7 @@
 - `INS-260321-3660` Making startup decisions based on VC podcasts and content is literally the definition of generating non-unique ideas.
 - `INS-260329-AA30` If your startup idea came from a podcast or VC content, it is by definition not unique — because millions of other people consumed the same content.
 - `INS-260403-2788` The right response to a new idea is not gentler criticism but actively imagining how it could work.
+- `INS-260403-BAE1` YC's evolution toward consensus-friendly prompts risks creating a 'Consensus Capital Machine' where founders chase trends instead of pursuing conviction-driven missions.
 - `INS-260403-8B94` Markets fill gaps fast, so viable startup ideas hide in five specific places where the market is temporarily imperfect.
 - `INS-260327-643E` Ideas that seem bad — boring (Gusto/payroll), hard to start (Stripe/bank deals), or crowded (Dropbox/20 competitors) — systematically outperform because most founders avoid them.
 - `INS-260323-09E4` When everyone agrees your startup idea is great, someone has probably already built it; when everyone thinks it's crazy, you may be onto something real.

@@ -51,7 +51,6 @@ stance: >-
   progress but fails catastrophically at economic and social discontinuities.
 related:
   - INS-260322-5932
-  - INS-260325-F0CE
   - INS-260323-BA17
   - INS-260405-75AC
   - INS-260409-BF3F
@@ -59,6 +58,7 @@ related:
   - PRI-260403-50EF
   - INS-260325-9F41
   - PRI-260406-4358
+  - INS-260413-E816
 ---
 Ray Kurzweil achieved 86% prediction accuracy by extrapolating technology performance curves—he correctly predicted computers beating chess champions by 2000 and wireless internet going mainstream in the early 2000s. Yet he completely missed the dot-com crash, predicting continuous economic boom from 1998 through 2009. He also wrongly predicted speech recognition would dominate text creation by 2009.
 

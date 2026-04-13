@@ -59,6 +59,7 @@ related:
   - INS-260404-4758
   - INS-260403-8BE9
   - INS-260405-62F8
+  - INS-260413-5622
 ---
 The Scorecard Method starts with the average pre-money valuation for startups at your stage in your region, then adjusts based on weighted criteria like team (25%), market size (20%), product (18%), and sales channels (15%). A weighted score of 110% against a $3M average yields a $3.3M valuation.
 

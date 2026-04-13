@@ -70,11 +70,11 @@ stance: >-
   facilities, so the question for AI policy is not whether to have AI but
   whether to subsidize rockets when bicycles serve most human needs better.
 related:
+  - INS-260413-0992
   - INS-260327-89AE
   - PRI-260324-3B70
   - INS-260323-3ADC
   - INS-260408-C572
-  - INS-260328-92BC
   - INS-260412-48E7
 ---
 The transportation analogy: we have nuanced conversations about transportation where we push electric vehicles, public transit, bicycles. We don't say everyone should get a rocket for all transportation needs — that would be absurd. AI should be discussed the same way. Frontier LLMs from OpenAI, Anthropic, xAI, Meta are the rockets: massive data, massive compute, massive energy, massive externalities, broad but shallow capability, benefit for some people at huge cost to others.

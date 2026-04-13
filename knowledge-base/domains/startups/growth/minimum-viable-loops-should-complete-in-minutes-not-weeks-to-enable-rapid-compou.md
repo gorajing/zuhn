@@ -45,14 +45,14 @@ stance: >-
   faster cycles produce exponentially faster compounding than larger but slower
   loops
 related:
-  - INS-260323-95BC
   - INS-260329-595E
   - INS-260330-4AE7
-  - INS-260330-608C
   - INS-260402-B743
   - INS-260402-D7DE
   - PRI-260406-2D38
   - INS-260403-B18C
+  - INS-260330-608C
   - PRI-260328-94D4
+  - INS-260413-62D5
 ---
 The article emphasizes that loop speed — how quickly one user's action leads to the next user's action — is the most important variable to optimize. A loop completing in 30 seconds compounds dramatically faster than one taking two weeks. This mirrors the lean startup insight that iteration speed beats iteration quality, but applied to growth mechanics rather than product development. The practical framework is to build a Minimum Viable Loop (MVL) that is scrappy and fast rather than polished: hardcode things, manually onboard users, use off-the-shelf tools. The goal is to get one turn of the wheel spinning, then tighten each step. Startups that try to build the final polished loop on day one typically never ship.

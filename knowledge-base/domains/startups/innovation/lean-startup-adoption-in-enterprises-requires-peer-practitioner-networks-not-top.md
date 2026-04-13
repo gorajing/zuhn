@@ -58,7 +58,7 @@ related:
   - PRI-260406-CA09
   - PRI-260328-C581
   - INS-260403-ABD1
-  - PRI-260406-4CF9
+  - INS-260413-36B4
 ---
 Strategyzer's approach to helping large organizations adopt Business Model Canvas and Lean Startup reveals a key pattern: the most effective knowledge transfer happens through facilitated peer exchange among practitioners who face similar challenges, not through traditional consulting or training programs. This peer group model works because enterprise innovation challenges are contextual—what blocks adoption at a 5,000-person financial services company differs from a 10,000-person manufacturer, yet the structural patterns (leadership resistance, cultural inertia, measurement gaps) rhyme enough that practitioners can translate each other's solutions.
 

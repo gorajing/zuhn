@@ -59,7 +59,6 @@ related:
   - INS-260403-6D4F
   - INS-260403-E294
   - INS-260330-D8D1
-  - INS-260411-F990
 ---
 With startups staying private far longer than the traditional 7-10 year window, employee equity has become increasingly illiquid. This creates a talent retention crisis—employees holding paper wealth can't pay mortgages with stock options. Founders who proactively offer structured secondary liquidity events (tender offers, direct secondaries) can partially cash out early employees, clean up cap tables by consolidating scattered angel positions, and extend private growth periods without the pressure to rush to IPO.
 

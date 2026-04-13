@@ -52,6 +52,6 @@ related:
   - INS-260410-0330
   - INS-260403-C1A5
   - INS-260410-AA40
-  - INS-260325-FDA9
+  - INS-260413-BD80
 ---
 ENIAC (1946) performed 385 calculations per second and filled an entire room. A Snapdragon 800 (2013) performs 28 billion calculations per second on a fingernail-sized chip — a 72-million-fold improvement. The equivalent ENIAC footprint would cover an area 20% larger than the United States. This exponential compression is easy to intellectually acknowledge but hard to internalize for planning purposes. The practical implication: any computation that feels expensive or specialized today will likely be trivially cheap within 10-15 years. For AI development specifically, this means current hardware constraints on model inference are temporary — the question is what applications become viable when today's datacenter-scale computation fits in a pocket device.

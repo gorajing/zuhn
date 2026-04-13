@@ -1,6 +1,6 @@
 # Topic: ai-capabilities
 
-> 150 insights
+> 155 insights
 
 - `INS-260321-E4EB` [very_high] AI made idea generation almost free, just as the internet made communication almost free — the bottleneck shifted to verification, evaluation, and filtering signal from noise.
 - `INS-260321-7D7C` [very_high] AI's superpower is breadth (trying every technique on every problem simultaneously), humans' is depth (cumulative progress from partial understanding). Science must restructure to exploit both.
@@ -17,7 +17,9 @@
 - `INS-260329-5ECD` [high] Feed AI code editors one screen at a time with explicit spatial descriptions because they misplace UI elements when given multiple screens at once.
 - `INS-260403-D090` [high] Karpathy's coding workflow flipped from 80% manual to 80% agent-driven in just weeks, demonstrating that AI coding capability crossed a phase transition rather than improving gradually.
 - `INS-260403-46DD` [high] Mass surveillance was legally possible but practically infeasible before AI; AI removes the cost/scale constraint that served as the real protection.
+- `INS-260413-62D5` [high] Aardvark Weather replaced the traditional numerical weather prediction pipeline with a single ML system in 2025, and FourCastNet 3 generates a 60-day forecast in under 4 minutes — 8 to 60 times faster than prior approaches.
 - `INS-260410-ED68` [high] Human science is optimized for depth because that's all humans can do; AI unlocks a parallel breadth-first mode that requires restructuring how science is practiced.
+- `INS-260413-7816` [high] Frontier models beat human chemists on ChemBench 2,700+ Q&A averages but score <20% on ReplicationBench, and PaperArena best agent 38.8% vs PhD expert 83.5% — capability collapses from Q&A to real research.
 - `INS-260325-5656` [high] Dyno trains ML models on petabytes of capsid performance data from primate experiments, then queries them billions of times in silico to find optimal sequences — replacing random mutation with AI-guided design.
 - `INS-260325-F20C` [high] Sequoia sizes AI at $10T+ because it replaces cognitive labor — every knowledge worker seat becomes a software purchase.
 - `INS-260410-C045` [high] Tao's papers now contain more code, more figures, deeper literature searches thanks to AI — but the hardest parts still happen on pen and paper.
@@ -45,6 +47,7 @@
 - `INS-260323-4D8D` [high] Jensen identifies four scaling laws (pre-training, post-training, test-time, agentic) that form a loop — agentic outputs generate data that feeds back into pre-training, meaning intelligence scales fundamentally with compute.
 - `INS-260409-2CCA` [high] Olympiad math is a closed, curated search space; frontier research is unbounded with no training data on unknown answers, making it a categorically harder AI task.
 - `INS-260403-267B` [high] Functional output, not architectural similarity to human thought, is the meaningful measure of intelligence.
+- `INS-260413-0992` [high] Most AI foundation models for science originate from academia and government with international collaborations, inverting the 91.58% industry dominance in general-purpose frontier AI.
 - `INS-260403-FB82` [high] Generative AI's deeper impact is enabling infinite personalized content variants that were economically impossible before, not just making existing workflows cheaper.
 - `INS-260323-3F30` [high] Godel proved that any sufficiently powerful formal system either contains unprovable truths or is inconsistent -- this is a hard theoretical ceiling on what any AI reasoning system can guarantee about itself.
 - `INS-260323-D56E` [high] Yudkowsky publicly acknowledges that GPT-4 exceeded what he thought stacking transformer layers could achieve, which means he can't predict what GPT-5 will do.
@@ -127,6 +130,7 @@
 - `INS-260403-F8CB` [medium] Yudkowsky predicted shorter timelines than Bio Anchors via disjunctive reasoning — either deep learning pays off fast or a new paradigm emerges — and was right on the bottom line despite the wrong mechanism.
 - `INS-260409-F90C` [medium] Hassabis predicts Isomorphic's drug design engine ready in 5-10 years, then regulatory reform of trials is the second act.
 - `INS-260404-DDC8` [medium] Figure AI's Helix 02 replaces over 100,000 lines of C++ with a three-layer neural network that handles balance, sensor fusion, and reasoning in a single system.
+- `INS-260413-61CE` [medium] Sakana's AI Scientist-v2 produced a paper accepted at an ICLR workshop without human-coded templates, and Google's AI Co-Scientist was validated in three biomedical areas — the first autonomous AI research crossing peer review.
 - `INS-260323-B029` [medium] When you tally coding assistance against deepfake porn, education degradation, military errors killing innocents, and employment disruption, generative AI's net contribution to society is questionable.
 - `INS-260410-4782` [medium] Pure video prediction is cursed by having to model too much — clouds, molecules, pedestrians, everything — while an embodied agent with a goal has a ruthless focusing mechanism that tells it what to pay attention to, making the same raw data far more learnable.
 - `INS-260409-5975` [medium] LLM self-verifiers that see the reasoning trace rubber-stamp it; hiding the trace and showing only the final claim forces a fresh evaluation.
@@ -147,6 +151,7 @@
 - `INS-260405-0327` [medium] Benedict Evans' Q1 2024 framing captures a market where most enterprises are still in the 'looking for use-cases' phase, not the 'scaling deployments' phase — suggesting the real AI ROI wave is still ahead.
 - `INS-260327-F608` [medium] You can't determine how complex something is by looking at it - you have to figure out the minimum number of steps it took to create it, which encodes its evolutionary history.
 - `INS-260409-60C2` [medium] Search is easy to bolt on; heavy training to synthesize dozens of papers without drift is what actually stopped Aletheia from fabricating references.
+- `INS-260413-8CA7` [medium] Google DeepMind's Veo 3 demonstrated emergent physical understanding — buoyancy simulation and maze solving — without being explicitly trained on those tasks, across 18,000 generated videos.
 - `INS-260326-E0CB` [medium] Trust surprising AI outputs enough to investigate them — formal systems regularly reveal truths their creators did not intend.
 - `INS-260405-4F2B` [low] AI's economic footprint may show up first in how hard machines run, not how much workers produce per hour.
 - `INS-260403-A3E4` [low] Human specialization in sparse-data pattern recognition may represent a near-optimal solution that AI cannot meaningfully surpass.

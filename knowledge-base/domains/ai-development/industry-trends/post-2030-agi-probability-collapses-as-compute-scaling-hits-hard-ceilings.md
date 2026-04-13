@@ -56,8 +56,8 @@ related:
   - INS-260403-B73D
   - INS-260403-8421
   - INS-260410-1159
+  - INS-260413-9818
   - INS-260403-976C
-  - PRI-260403-EA13
 ---
 Dwarkesh's answer to the obvious counter-question ('if you're 7 years from intelligence explosion, why is that long?') is that AGI timelines are lognormal: it's roughly 'this decade or bust.' The logic is that scaling training compute at >4x/year is the main engine of recent progress, and every physical input to that scaling hits a wall around 2030 — chip supply, power availability, and the share of global GDP you can plausibly devote to training runs.
 

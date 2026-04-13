@@ -55,6 +55,7 @@ related:
   - INS-260403-59AC
   - PRI-260406-CF83
   - PRI-260406-B9C9
+  - INS-260413-E816
 stance: >-
   Stanford and Princeton studies show sycophantic models degrade human reasoning
   by confirming wrong answers

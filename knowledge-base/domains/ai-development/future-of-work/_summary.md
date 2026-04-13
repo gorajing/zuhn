@@ -1,6 +1,6 @@
 # Topic: future-of-work
 
-> 99 insights
+> 103 insights
 
 - `INS-260320-A745` [very_high] Anthropic's own studies show AI deskilling in coding is real, but depends on HOW you use models — some usage patterns cause skill degradation, some don't.
 - `INS-260321-9824` [very_high] Tao's papers now have more code, more plots, deeper literature searches — but the core mathematical work (pen and paper for the hardest part) hasn't been accelerated. AI enriches output without deepening it.
@@ -19,6 +19,7 @@
 - `INS-260405-FCBE` [high] AI automates volume in sales, making precision the only remaining differentiator.
 - `INS-260404-6BD6` [high] AI agents are moving beyond task-level automation to reshape how entire workforces are structured.
 - `INS-260409-53F7` [high] AI is both genuinely automating some jobs and serving as convenient executive cover for layoffs, and the new jobs it creates barbell between high-skill orchestration and dehumanizing data annotation.
+- `INS-260413-CAA6` [high] New AI PhDs in US/Canada +22% from 2022-2024 but industry's share of new PhDs stayed flat — all the growth went to academia, reversing a decade-long trend and disproving the 'brain drain' narrative.
 - `INS-260403-F0EE` [high] Individual AI productivity gains are real but haven't conclusively appeared in aggregate statistics yet, making macro claims premature.
 - `INS-260321-4178` [high] AI doesn't just automate procedures — it automates judgment calls. The person who deeply understands insurance underwriting and can talk an AI into building a tool is now more dangerous than the engineer who can build anything but doesn't know what to build.
 - `INS-260325-DA83` [high] Harvard/MIT research at BCG shows top performers got much better with AI while lower performers got worse — the 'selective upgrade puzzle.'
@@ -26,6 +27,7 @@
 - `INS-260320-DEAF` [high] Coding is going away first — AI models handle raw coding now, but broader software engineering (architecture, design, user needs, team management) takes longer to automate.
 - `INS-260320-E683` [high] Even if you're only doing 5% of the task and AI does 95%, that 5% gets "super amplified" — you become 20x more productive through comparative advantage.
 - `INS-260320-DDD9` [high] In a world where AI can generate anything, "having basic critical thinking skills may be the most important thing to success."
+- `INS-260413-E5F8` [high] US four-year CS undergrad enrollment fell 11% from 2024-2025 but AI software master's graduates grew 82% from 2022-2024 and 17% YoY — students are moving upmarket to AI specialization as entry-level coding jobs erode.
 - `INS-260410-2D5D` [high] Hume observed that over 50% of candidates would have been better off delegating entirely to Claude Code well before Opus 4 explicitly broke his test.
 - `INS-260403-6B72` [high] Competitive pressure makes human-in-the-loop economically unsustainable in any domain meeting the automation trifecta, creating systemic fragility.
 - `INS-260323-DA85` [high] When companies replace interns and junior staff with AI, they destroy the training ground that produces the next generation of senior experts.
@@ -38,10 +40,12 @@
 - `INS-260410-045C` [high] Humans are valuable precisely because no one has to build a bespoke training loop to teach them each new lab-specific or company-specific skill.
 - `INS-260410-56B4` [high] If a problem lives in well-documented territory (bank conflicts, SIMD, common compiler tricks), a frontier model will likely outperform humans on it within hours.
 - `INS-260410-D834` [high] People who imagine fast automation are mentally modeling jobs as one simple task, but real jobs are bundles of many competences—automating the headline task barely moves the needle.
+- `INS-260413-86EA` [high] US software developer employment for ages 22-25 fell ~20% from 2024 while older developer headcount grew, and 1/3 of surveyed organizations expect further workforce reductions ahead.
 - `INS-260320-5F14` [high] "Even if an AI is always going to be better than you at something, you can still learn that thing. You can still enrich yourself intellectually."
 - `INS-260327-32F1` [high] Career advice from successful people is inherently flawed by survivorship bias (only winners speak) and confirmation bias (they accentuate positives and eliminate negatives in retrospect).
 - `INS-260325-ADF5` [high] Open Router reports that sales and support staff are building agents that multiply their output, doing in hours what previously took days — the transformation is not engineers getting faster but non-engineers becoming builders.
 - `INS-260320-F78E` [high] Prompt engineering is like playing piano — you can't just sit down and start; it requires practice and iteration to develop the skill.
+- `INS-260413-BE3E` [high] Public vs expert forecasts for AI-driven job loss: cashiers 73% / 73% (agree), truck drivers 33% / 62%, lawyers 23% / 38% — public underestimates expert-identified risk, and overestimates teacher/doctor risk.
 - `INS-260410-5AB5` [high] Job-representative interviews were always the gold standard, but once models can do the job in 2 hours, 'representative' and 'AI-resistant' become incompatible goals.
 - `INS-260403-5BCF` [high] Section 230 locked in rules before anyone understood social media's impact, leaving AI regulation as the chance to avoid repeating that mistake.
 - `INS-260321-988C` [high] A worker saving 20% of their time is 'soft savings' — employers rarely productively reallocate that 20% immediately. Individual task speedups don't automatically translate to enterprise-level value.

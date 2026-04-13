@@ -1,9 +1,10 @@
 # Topic: limitations
 
-> 65 insights
+> 67 insights
 
 - `INS-260323-EECF` [high] The optical nerve delivers about 10^15 bytes to a 4-year-old's brain versus 2x10^13 bytes of all internet text used to train LLMs -- most human knowledge comes from sensory interaction with the physical world, not from language.
 - `INS-260330-C31B` [high] AI's constraints on scientific discovery are a subset of human constraints — both fail when data is sparse, but AI excels where data is abundant but patterns are too complex for human cognition.
+- `INS-260413-C4EE` [high] AI systems can propose novel candidate molecules at scale but clinical trials and wet-lab experiments to validate them remain costly multiyear processes — the generation-validation gap is the binding constraint in drug discovery.
 - `INS-260323-F2C3` [high] AI's strongest achievements (AlphaGo, AlphaFold) are in domains with verifiable ground truth, not in the tacit-knowledge-heavy tasks that dominate real occupations.
 - `INS-260402-31D8` [high] The AI security consulting industry sells prompt-level protections that cannot work because LLMs are fundamentally jailbreakable; only permission restriction provides real security.
 - `INS-260410-EA51` [high] Systematic sweeps show ~1-2% per-problem success rates; the impressive headlines come from cherry-picking the wins from massive parallel attempts.
@@ -42,6 +43,7 @@
 - `INS-260325-ED75` [high] Conway's FRACTRAN — a generalization of 3x+1 — is Turing-complete and subject to the halting problem, raising the possibility that Collatz itself is undecidable.
 - `INS-260323-F68A` [high] Claude Code users spend $8-13.5x their subscription in compute — if they had to pay per-error like a metered taxi, most would abandon the service because mistakes become expensive.
 - `INS-260326-97C9` [high] Searching the space of possible programs yields more sophisticated results than designing them from scratch.
+- `INS-260413-A950` [high] Gemini Deep Think earned IMO gold yet reads analog clocks correctly 50.1% of the time versus 91% for humans — 'AGI-level' performance on one axis predicts nothing about adjacent tasks.
 - `INS-260409-DA17` [high] Lee 2025 (Microsoft, 319 knowledge workers), Ye 2024 (UW Social Futures Lab, philosophers), and Gerlich 2025 (666 participants) all independently found GenAI use negatively correlates with critical thinking — with Gerlich specifically identifying a younger-is-worse age gradient mediated by cognitive offloading.
 - `INS-260411-33E5` [high] AI knowledge failures stem from three distinct categories — structural, operational, and emergent — each requiring different mitigation approaches.
 - `INS-260330-00D5` [high] LLMs accumulate small errors token-by-token that compound into incoherence, needing gestalt-level self-review like authors revising drafts.

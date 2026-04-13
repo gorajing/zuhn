@@ -48,7 +48,6 @@ stance: >-
   experimental verification, not the rate of hypothesis generation.
 related:
   - INS-260323-0865
-  - INS-260327-40DA
   - PRI-260411-FB73
   - INS-260410-5740
   - INS-260330-63DD
@@ -57,6 +56,7 @@ related:
   - INS-260403-F4F6
   - INS-260403-4050
   - INS-260403-219F
+  - INS-260403-96F9
 evidence:
   - id: INS-260323-0865
     type: SUPPORTS

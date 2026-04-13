@@ -54,7 +54,6 @@ related:
   - INS-260411-1676
   - INS-260403-8256
   - INS-260403-87AC
-  - INS-260403-690C
   - INS-260405-64FA
 stance: >-
   AI's economic impact and design space exceeds the internet era, meaning more

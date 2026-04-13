@@ -53,8 +53,8 @@ stance: >-
 related:
   - INS-260325-2999
   - INS-260330-6C6B
+  - INS-260413-A950
   - INS-260403-2BAD
   - INS-260403-F1C6
-  - INS-260405-1F0B
 ---
 Before a Neuralink user can control a cursor, they undergo approximately 20 minutes of calibration where they imagine specific movements while the system maps their unique neural firing patterns to intended actions. This isn't a one-time setup convenience — it's a fundamental requirement because the same intended movement produces detectably different neural signatures across individuals. The machine learning decoder must be trained per-person. This has implications beyond BCIs: it suggests that neuroscience's population-averaged brain maps may obscure significant individual variation in how motor intentions are encoded. It also means BCI scaling requires either robust transfer learning across neural patterns or efficient per-user calibration — a non-trivial engineering challenge that parallels personalization problems in AI more broadly.

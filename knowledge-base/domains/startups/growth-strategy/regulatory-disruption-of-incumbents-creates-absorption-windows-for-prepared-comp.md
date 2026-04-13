@@ -44,11 +44,11 @@ resolutions:
     displacement waves, and the winners are those who prepared infrastructure
     before the wave hits, not those who react after.
 related:
+  - INS-260413-B7A7
   - INS-260322-D69E
   - PRI-260328-A4AC
   - INS-260330-B437
   - INS-260405-D660
-  - INS-260404-C3F1
 stance: >-
   When Airbnb expelled unlicensed Korean hosts in October 2025, EncoWithers grew
   from under 100 to over 7,000 hosts because they had spent a year pre...

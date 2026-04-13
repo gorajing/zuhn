@@ -55,7 +55,6 @@ stance: >-
   downstream advantage across autonomous vehicles, drones, robotics, and urban
   infrastructure that other nations cannot quickly replicate.
 related:
-  - INS-260321-2BF9
   - INS-260322-8147
   - INS-260402-F833
   - INS-260403-2E12

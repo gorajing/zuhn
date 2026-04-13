@@ -1,6 +1,6 @@
 # Domain: investing
 
-> 1381 insights across 11 topics
+> 1389 insights across 11 topics
 
 ## Topics
 
@@ -13,7 +13,7 @@
 | climate | 7 | Solar's peak demand occurs at night while peak generation occurs during the day, making battery storage — not panel efficiency — the true bottleneck. |
 | crypto | 9 | The two-token algorithmic stablecoin model contains an inherent death spiral that activates when selling pressure exceeds the system's ability to print its way back to equilibrium. |
 | fintech | 101 | Every $250/month saved consistently compounds to roughly $1M by retirement, making micro-savings feel consequential. |
-| geopolitics | 577 | A 5% one-time levy on a 7% per year portfolio is recovered in about 9 months of normal returns, smaller than typical market volatility. |
+| geopolitics | 584 | A 5% one-time levy on a 7% per year portfolio is recovered in about 9 months of normal returns, smaller than typical market volatility. |
 | macro | 92 | The Internet was commercialized in the early 1990s but only showed in productivity statistics in the late 1990s; at current debt accumulation of $7.2B/day, even an AI productivity miracle won't bend the ratio fast enough to displace financial repression. |
 | space-economy | 38 | Detecting an alien signal would statistically prove that technological civilizations can have long futures, because the math of detection requires that such technologies are long-lived on cosmic timescales. |
-| venture-capital | 304 | Declining VC distributions through 2024 are fundamentally altering the LP-GP relationship and fund economics. |
+| venture-capital | 305 | Declining VC distributions through 2024 are fundamentally altering the LP-GP relationship and fund economics. |

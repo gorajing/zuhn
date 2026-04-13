@@ -61,10 +61,10 @@ stance: >-
   that can find new recipes with existing compute, not labs with the largest
   compute budgets.
 related:
-  - INS-260323-4D14
   - INS-260409-CBC7
   - INS-260410-022B
   - PRI-260323-8E89
+  - INS-260413-CAA6
   - INS-260322-474A
 ---
 Sutskever's framing: pre-training was a recipe that let companies invest compute with low risk ('go forth and pre-train'), but data is finite and the belief that 100x more scale would transform anything is no longer credible. Compute is now large enough that proving a new idea doesn't require the largest cluster — AlexNet ran on 2 GPUs, the original transformer on at most 64 GPUs of 2017 (roughly 2 modern GPUs), and o1 reasoning was not the most compute-heavy thing in the world.

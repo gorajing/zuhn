@@ -53,5 +53,6 @@ related:
   - INS-260410-9120
   - INS-260322-B450
   - INS-260405-D4FA
+  - INS-260413-EB7C
 ---
 Jason Calacanis cites ChatGPT share trajectory (100% → 85% → 75%) and argues that Apple, Meta, and Windows/Microsoft have barely begun to compete. Because these three have massive distribution (phones, social, desktop), they don't need to match OpenAI on raw capability — they just need to make a 'good enough' chatbot the default, free, and pre-installed. The prediction: ChatGPT falls well under 50% market share as that happens. The implication is that paid consumer AI subscription revenue is a precarious base for OpenAI's valuation and is part of why OpenAI is pivoting toward enterprise despite a massive consumer lead.

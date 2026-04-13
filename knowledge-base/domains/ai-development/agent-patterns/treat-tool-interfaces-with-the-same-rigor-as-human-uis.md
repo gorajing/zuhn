@@ -54,10 +54,10 @@ related:
   - INS-260409-160F
   - INS-260410-7ED2
   - PRI-260411-64C7
+  - INS-260413-AD37
   - INS-260410-85AD
   - PRI-260406-3EF8
   - PRI-260407-D1AD
-  - PRI-260328-F723
 ---
 When building their SWE-bench coding agent, the Anthropic team spent more time optimizing tool definitions than the overall prompt. Tools are how the agent actually acts on the world, and models struggle with formats that require counting lines (like diffs with chunk headers) or escaping quotes (like code inside JSON). Formats that look close to what the model saw on the open internet work best.
 

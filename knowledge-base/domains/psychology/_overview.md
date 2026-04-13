@@ -1,13 +1,13 @@
 # Domain: psychology
 
-> 2496 insights across 24 topics
+> 2499 insights across 24 topics
 
 ## Topics
 
 | Topic | Insights | Preview |
 | ----- | -------- | ------- |
 | behavior-change | 41 | Rules-based approaches to distraction fail because the addictive part of your brain finds plausible exceptions; adversarial design works better. |
-| cognition | 94 | Flat Earth theories are clever ad hoc explanations that address individual challenges but fail to fit all evidence into a unified framework. |
+| cognition | 96 | Flat Earth theories are clever ad hoc explanations that address individual challenges but fail to fit all evidence into a unified framework. |
 | cognitive-biases | 343 | Over 85% of near-Earth asteroids are found in the 45-degree band opposite the sun because asteroids approaching from the sun's direction are invisible to ground telescopes — no amount of better ground telescopes fixes this. |
 | communication | 50 | Craft one 'the X of Y' phrase that sticks — professional investors hear so many pitches they blur, and the first filter is simply being remembered. |
 | consciousness | 115 | Johnson's framework reframes psychiatric disorders as varieties of stuck-ness — narrowed loops of thought and behavior — that psychedelics disrupt by forcing the brain into novel configurations. |
@@ -24,7 +24,7 @@
 | math-perception | 55 | Sanderson's observation that 'if it were any simpler, what hope would we have that it could recognize digits?' reveals a useful heuristic: solution complexity should be proportional to problem complexity. |
 | mental-models | 108 | Computers are fully explainable bottom-up from electricity through logic gates to instructions — there is no magical layer, only layers of abstraction humans haven't personally traversed. |
 | negotiation | 19 | Russia threatened to close its airspace over EU sanctions (2014), Dutch landing slot disputes (2017), and US military action in Syria (2018)—using one asset as leverage across completely unrelated conflicts. |
-| perception | 308 | A 13-hour course with 7.6M views shows audiences will commit to extreme depth when they trust the source. |
+| perception | 309 | A 13-hour course with 7.6M views shows audiences will commit to extreme depth when they trust the source. |
 | persuasion | 70 | Steady accumulation of documented incidents shifts opinion more than any single dramatic event because patterns resist counter-narrative. |
 | physics-intuition | 89 | Light's regularity means its full 3D state is determined by its values on any 2D boundary surface. |
 | relationships | 88 | Psychologist Sonja Lyubomirsky's analysis estimates 50% of happiness is genetic set point, 10% is circumstances, and 40% is under our control. |

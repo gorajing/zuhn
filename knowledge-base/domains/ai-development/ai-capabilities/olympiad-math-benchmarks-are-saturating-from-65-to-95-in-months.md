@@ -49,11 +49,12 @@ stance: >-
   capability benchmark on roughly a one-year horizon.
 related:
   - INS-260325-F48E
-  - INS-260403-1EFF
   - INS-260403-5F69
   - INS-260410-5951
+  - INS-260403-1EFF
+  - INS-260413-7B46
   - INS-260323-7EEB
   - INS-260322-5790
-  - INS-260323-3F39
+  - INS-260413-C040
 ---
 The video reports that Aletheia, even without internet access, beats the prior gold-medal mathematical olympiad AI 'easily', moving scores from about 65% to 95% in just a few months. This is classic benchmark saturation dynamics: once a model crosses ~90% on a task with any noise floor, the remaining gap compresses and the benchmark loses discrimination power. Anyone using olympiad math as a capability benchmark for model selection or progress tracking should plan to replace it within ~12 months with harder or qualitatively different tasks (open research problems, adversarial proof tasks, cross-field synthesis). Confidence is medium because the exact numbers come from a popularization summary — but the trajectory is consistent with independent reports on reasoning model progress in late 2025 and early 2026.

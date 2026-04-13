@@ -49,12 +49,11 @@ stance: >-
   at higher valuations rather than spreading capital broadly, making the gap
   between funded and unfunded startups wider than ever.
 related:
-  - INS-260403-7410
   - INS-260404-F54F
   - INS-260404-50AC
   - INS-260405-FCA9
   - INS-260403-0BE9
-  - INS-260403-1E5F
+  - INS-260413-BD80
 ---
 Carta's 2025 data reveals a structural shift in pre-seed funding: while total capital deployed remains substantial at $10.4B, it is concentrating into fewer rounds rather than spreading across more startups. Median SAFE caps have settled at $10M-$15M, establishing a new baseline that would have seemed aggressive just a few years ago.
 

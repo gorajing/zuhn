@@ -52,7 +52,6 @@ stance: >-
   weapon.
 related:
   - INS-260323-81F5
-  - INS-260327-6E33
   - INS-260327-3918
   - INS-260330-CBEF
   - INS-260330-49A4
@@ -61,6 +60,7 @@ related:
   - INS-260405-0D9A
   - INS-260403-CA5A
   - INS-260403-F0D4
+  - INS-260403-9B24
 evidence:
   - id: INS-260327-3918
     type: CONTRADICTS

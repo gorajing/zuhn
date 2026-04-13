@@ -57,8 +57,8 @@ related:
   - INS-260330-5BC4
   - INS-260330-0E49
   - INS-260403-D5BB
-  - INS-260405-C709
   - INS-260405-5702
+  - INS-260403-BADB
 stance: >-
   The Shapiro-Destiny debate demonstrates that two intelligent people with
   different foundational priors will interpret identical data points in oppo...

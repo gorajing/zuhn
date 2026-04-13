@@ -55,8 +55,8 @@ related:
   - INS-260327-5D5F
   - INS-260405-B7C7
   - PRI-260406-22E2
+  - INS-260413-25EC
   - PRI-260405-B144
-  - INS-260404-CE26
 ---
 DeepSeek R1 is open-weight, meaning anyone can download, modify, and self-host it — unlike OpenAI and Anthropic's closed models. Combined with training costs of $5.57M versus OpenAI's rumored $100M+, this creates a two-pronged competitive threat: the model is both cheaper to build AND free to use.
 

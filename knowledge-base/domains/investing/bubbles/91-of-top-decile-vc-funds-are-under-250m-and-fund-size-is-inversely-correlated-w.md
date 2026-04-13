@@ -60,7 +60,6 @@ related:
   - INS-260403-713B
   - INS-260403-B224
   - INS-260404-77E7
-  - INS-260404-C147
 ---
 Josh Kopelman's Venture Arrogance Score (VAS) quantifies why mega-funds structurally underperform: a $7B fund aiming for 10% ownership would need to capture 50% of all exit value in its investing window — something no firm has ever achieved. Kopelman argues real venture funds rarely exceed a VAS of ~10%, and anything above that is essentially private equity disguised as VC. Empirical data confirms this: 91% of top-decile funds had assets under $250M, 73% were Fund I or II, and median top-decile fund size was ~$38M.
 

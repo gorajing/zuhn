@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-12 | 4962 actionable insights
+Generated on 2026-04-13 | 4964 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -119,6 +119,7 @@ Generated on 2026-04-12 | 4962 actionable insights
 - [INS-260410-AF66] Bootstrap agent evals from 20-50 real failure cases; effect sizes are large early so small samples suffice.
 - [INS-260410-376A] Gate expensive chain-of-thought reasoning behind a cheap single-token filter tuned for high recall.
 - [INS-260410-83EC] Claude Code is an expert at reading evaluation transcripts and refactoring tool implementations and descriptions to improve performance.
+- [INS-260413-11C9] Microsoft's AI Diagnostic Orchestrator + OpenAI o3 scored 85.5% on complex case studies vs 20% for unaided physicians, and multi-agent frameworks show 7% to over 60% gains over single-agent baselines.
 
 ## ai-development/ai-agents
 - [INS-260320-E6DD] Structure knowledge as a relational database (entities + relationships), not text blobs. Every Claude instance reads/writes the same structured knowledge base.
@@ -151,6 +152,7 @@ Generated on 2026-04-12 | 4962 actionable insights
 - [INS-260405-1A3C] 2026 marks the transition from AI agent experiments to accountable production deployments with real governance requirements.
 - [INS-260403-2609] The market has moved from AI-enhanced SaaS that helps humans to AI-native systems of action that autonomously execute entire workflows on their behalf.
 - [INS-260322-E4D8] AI agents need three levels of business context: Level 1 (identity — who you are), Level 2 (strategic — mission, products, team, communication style), Level 3 (enterprise — playbooks, decision trees, escalation paths, meeting history).
+- [INS-260413-AD37] OSWorld agent accuracy leapt from 12% to 66.3% in 2025, within 6 points of human performance, with Claude Sonnet 4.5 alone hitting 61.4% on computer-use tasks.
 
 ## ai-development/ai-automation
 - [INS-260320-5A6F] AI-enabled beats AI-replaced — keep the human touch in important parts, automate the repetitive.

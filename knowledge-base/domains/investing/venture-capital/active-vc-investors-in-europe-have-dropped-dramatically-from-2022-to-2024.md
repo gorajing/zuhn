@@ -47,7 +47,6 @@ stance: >-
   shakeout rather than a temporary downturn, permanently reducing the number of
   funding sources available to European founders.
 related:
-  - INS-260322-34AE
   - INS-260404-9B51
   - INS-260405-0CAB
   - INS-260403-968A
@@ -57,6 +56,7 @@ related:
   - INS-260403-F387
   - INS-260403-DD13
   - INS-260405-F01C
+  - INS-260404-CB41
 ---
 PitchBook data shows a significant decline in the number of active European VC investors between 2022 and 2024. This matters beyond the headline number because VC markets exhibit strong network effects — fewer active investors means fewer competitive term sheets, less price discovery, and slower deal velocity across the ecosystem.
 

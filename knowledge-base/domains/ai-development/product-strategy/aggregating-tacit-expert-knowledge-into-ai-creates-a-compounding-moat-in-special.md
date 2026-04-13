@@ -55,11 +55,11 @@ stance: >-
   collective tacit knowledge that exists only in practitioners' heads, creating
   a data asset no competitor can replicate.
 related:
+  - INS-260413-E2C4
   - INS-260322-3263
   - INS-260403-EF2C
+  - INS-260413-6DBD
   - INS-260404-B208
-  - INS-260330-8048
-  - INS-260322-823B
 evidence:
   - id: INS-260330-8048
     type: CHALLENGES

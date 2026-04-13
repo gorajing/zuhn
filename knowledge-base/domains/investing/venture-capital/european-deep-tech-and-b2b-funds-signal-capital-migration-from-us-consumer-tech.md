@@ -54,7 +54,6 @@ stance: >-
 related:
   - INS-260403-021D
   - INS-260403-9A94
-  - INS-260405-25E5
   - INS-260404-FA1E
   - INS-260403-3AEE
   - PRI-260406-FBCE
@@ -62,6 +61,7 @@ related:
   - INS-260403-8BA4
   - INS-260404-250E
   - INS-260404-F22C
+  - INS-260404-DFA5
 ---
 The wave of fund launches in Q4 2024—including Faber Deep Tech (€60M, Iberian deeptech), Dawn Capital V (€400M, European B2B), Chemistry Capital ($350M, sustainability), and Seedcamp VII (€200M, fintech/healthtech/climatetech)—reveals where LPs and GPs see the next decade of returns. The pattern shows capital flowing toward sectors with defensible intellectual property, regulatory moats, and longer development cycles.
 

@@ -59,10 +59,10 @@ related:
   - INS-260327-D480
   - INS-260410-3270
   - PRI-260328-0993
+  - INS-260413-09C4
   - INS-260404-C147
   - PRI-260405-5912
   - INS-260403-D880
-  - INS-260403-8834
 ---
 ROIC decomposes into NOPAT margin times invested capital turnover (via DuPont analysis). Companies can achieve the same ROIC through very different paths: Marathon Petroleum earns 18% ROIC through 8% margin and 2.3x turnover (cost leadership), while Devon Energy earns the same 18% through 26% margin and 0.7x turnover (differentiation). The isoquant curve at ~8% cost of capital cleanly separates value creators from value destroyers.
 

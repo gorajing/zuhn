@@ -51,9 +51,9 @@ related:
   - INS-260320-C56D
   - INS-260327-41A9
   - INS-260329-62C1
+  - INS-260413-3AB5
   - PRI-260406-25D0
-  - PRI-260328-5CDE
-  - INS-260404-D6F7
+  - INS-260413-E5F8
 ---
 The AI skills divide has created a paradoxical labor market: record numbers of CS graduates and widespread tech layoffs coexist with extreme scarcity of specialized AI talent commanding salaries up to $500K. Mid-career engineers without AI specialization find themselves increasingly sidelined.
 

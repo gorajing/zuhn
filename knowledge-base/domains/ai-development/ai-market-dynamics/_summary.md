@@ -1,6 +1,6 @@
 # Topic: ai-market-dynamics
 
-> 154 insights
+> 159 insights
 
 - `INS-260321-86F1` [high] China is stealing American AI models, removing all guardrails, and potentially deploying them against the US — creating an absurd scenario where America fights with one arm tied behind its back against its own technology.
 - `INS-260327-5690` [high] Traditional SaaS sells productivity enhancement to workers; vertical AI agents sell the work itself, accessing the entire cost of labor as TAM rather than just the software budget.
@@ -17,6 +17,7 @@
 - `INS-260327-991D` [high] The shift from perceptual AI to generative AI and reasoning has made inference as compute-intensive as training.
 - `INS-260405-6E60` [high] DeepSeek's App Store debut disrupted hundreds of billions in market cap overnight, signaling AI has become a macroeconomic force.
 - `INS-260321-807B` [high] AI native marketing agencies go end-to-end with AI, bypassing tools like Adobe entirely, dramatically improving margins and delivering ads within days.
+- `INS-260413-539D` [high] AI-related publications in natural sciences reached ~80,150 in 2025 (+26% YoY), with AI accounting for 5.8-8.8% of research output across fields — up from under 1% in 2010.
 - `INS-260323-EA36` [high] 95% of AI projects fail — twice the rate of any other emerging technology — driven equally by skills gaps and employee resistance to adoption.
 - `INS-260328-92BC` [high] Howard argues the EU AI Act's foundation model provisions would outlaw competition with OpenAI while providing no real safety benefit since developers would simply relocate.
 - `INS-260403-5DAD` [high] AI is shifting SaaS from process automation to intelligent, self-compounding growth systems that rewrite GTM playbooks.
@@ -53,12 +54,15 @@
 - `INS-260321-1749` [high] Fortune 500 CEOs universally say they want to become AI companies, but actual deployment lags because change management across large organizations is fundamentally harder than deploying the technology itself.
 - `INS-260322-C5BD` [high] The biggest US AI policy risk has shifted from federal overregulation to 1,200+ state-level bills that could create a patchwork of incompatible AI regulations across 50 states.
 - `INS-260409-8181` [high] Frontier AI labs are empires, not businesses — they extract more value than they return across data, labor, knowledge production, and environmental impact.
+- `INS-260413-7B46` [high] As of March 2026 the top frontier labs are indistinguishable on Arena within 25 Elo points, so the competitive game has shifted from capability to cost, reliability, and workflow fit.
+- `INS-260413-36B4` [high] Generative AI reached 53% US population adoption within 3 years — faster than the PC or internet — while organizational adoption hit 88% and Singapore/UAE lead at 61%/54% with the US ranking 24th at 28.3%.
 - `INS-260327-95D3` [high] OpenAI's IMO gold came from general-purpose techniques for scaling test-time compute, not math-specific engineering.
 - `INS-260323-7A11` [high] Classical ML has one right answer and measurable error; generative AI has infinite valid outputs, making traditional ROI frameworks useless.
 - `INS-260403-FF65` [high] The generative AI landscape is splitting between dominant horizontal players like OpenAI/Anthropic and specialized vertical startups in legal, medical, and other domains.
 - `INS-260321-2241` [high] Singapore, Hong Kong, and UAE lead per-capita AI adoption, while the US ranks 20th — driven primarily by cultural trust differentials (32% US trust vs 50-70% in leading countries) rather than technology availability.
 - `INS-260410-46BB` [high] AI labs are one permit denial or one Amazon/Nvidia side conversation away from existential pressure, regardless of their own government contract status.
 - `INS-260402-BCEC` [high] Despite a proliferation of high-quality models, OpenAI pulled ahead because ChatGPT became a daily habit for millions, not because it scored highest on benchmarks.
+- `INS-260413-0EF6` [high] In 2025 industry produced 87 of 95 notable models (91.58%) while academia produced 1 (1.05%), and the top labs have stopped disclosing training code, dataset sizes, and parameter counts.
 - `INS-260405-6A94` [high] OpenRouter's 100 trillion token study shows inference becoming a dominant operating cost that volume growth keeps pushing higher despite falling unit prices.
 - `INS-260323-1C32` [high] If every AI project must show predictable ROI, you're structurally incapable of innovation — the first pancake is always burned.
 - `INS-260327-5E40` [high] Prompts reset every session; training data compounds institutional knowledge over time, creating a moat that deepens with each iteration.
@@ -74,6 +78,7 @@
 - `INS-260325-DAD7` [high] Open models are home manufacturing (custom, higher cost); closed models are mega token factories (shared, cheaper at scale).
 - `INS-260403-8A65` [high] DeepSeek R1 matched OpenAI o1's benchmarks within months of o1's release, as a free open-source model.
 - `INS-260409-DD69` [high] Hassabis pegs the open-source lag at ~6 months behind frontier — the reimplementation time — with DeepMind's Gemma line pushing best-in-class at small sizes for edge/startup/academic use.
+- `INS-260413-25EC` [high] The open-weight gap reopened from 0.5% to 3.3% between August 2024 and March 2026, with 6 of the top 10 Arena models now closed-weight — treating open-weight catch-up as a one-way ratchet is empirically wrong.
 - `INS-260403-D3ED` [high] DeepSeek's open-weight release at a fraction of US training costs signals that closed-source model pricing power is rapidly eroding.
 - `INS-260327-5D5F` [high] Fine-tuning an open-weights model degrades its other capabilities because you cannot mix new data with the original training distribution; truly open-source models with full training pipelines are fundamentally more useful.
 - `INS-260321-5DF8` [high] OpenClaw became the most popular open-source project in history within weeks, surpassing Linux's 30-year adoption curve — each AI unhobbling stacks on prior ones and grows faster.

@@ -47,7 +47,6 @@ related:
   - INS-260402-C4FF
   - INS-260403-16B4
   - PRI-260407-2ACF
-  - INS-260327-02CF
 evidence:
   - id: INS-260322-0D87
     type: TRANSFERS_TO

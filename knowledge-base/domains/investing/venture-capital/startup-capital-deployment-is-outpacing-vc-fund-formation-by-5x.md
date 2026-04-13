@@ -53,6 +53,6 @@ related:
   - PRI-260406-8F89
   - PRI-260407-D50C
   - INS-260403-FD57
-  - INS-260403-DAFA
+  - INS-260410-DAB6
 ---
 The structural imbalance between startup fundraising volume and new VC fund formation reveals a fundamental shift in who controls venture capital. When startups raise 5x what VCs are committing to new funds, the difference is coming from sovereign wealth funds, corporate ventures, family offices, and high-net-worth individuals writing larger checks directly. This changes the power dynamics founders face: traditional VC value-add (network, governance, operational support) becomes less important when capital is abundant from alternative sources. For founders, this means more leverage in negotiations but also a need to evaluate investors on dimensions beyond just capital — the best money comes with strategic access, not just a term sheet.

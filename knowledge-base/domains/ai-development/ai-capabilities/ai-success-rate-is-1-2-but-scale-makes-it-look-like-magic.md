@@ -45,7 +45,6 @@ related:
   - INS-260329-64B8
   - INS-260329-FC53
   - INS-260330-77E2
-  - INS-260405-2021
 stance: >-
   AI solved 50 Erdős problems which looks amazing, but systematic studies show a
   1-2% success rate per problem

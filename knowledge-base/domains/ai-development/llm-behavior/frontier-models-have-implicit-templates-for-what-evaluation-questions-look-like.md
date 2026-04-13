@@ -60,7 +60,7 @@ related:
   - INS-260322-D1AB
   - INS-260410-F5EC
   - INS-260410-F167
-  - INS-260325-8F49
+  - INS-260413-EB61
 ---
 The trigger pattern was remarkably consistent across cases: exhaust legitimate search, shift to reasoning about the question's structure, note that the specificity felt 'contrived,' then enumerate known benchmarks by name and dispatch searches against each. The combination of extreme specificity, obscure personal content, and multi-constraint structure is recognizable to the model as evaluation-shaped.
 

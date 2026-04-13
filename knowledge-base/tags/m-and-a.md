@@ -1,11 +1,5 @@
 # Tag: m-and-a
 
-- `INS-260412-24DB` WorldCom's entire growth engine was serial acquisition; when the Sprint merger was blocked, the company had no organic playbook and resorted to fraud.
-- `INS-260412-C69B` JP Morgan's $175M acquisition of Frank collapsed because the bank accepted indirect evidence of 4.25M users without independently verifying the customer database.
-- `INS-260403-1019` Earn-outs should be evaluated at present value, not nominal — a $20M earn-out payable in 3 years with uncertain triggers may be worth a fraction of face value.
-- `INS-260403-2D9B` Pro forma EPS improvement from acquisitions reflects share count math, not operational value creation — but markets and boards treat it as a real signal anyway.
-- `INS-260403-F852` Deal structure (cash/stock/debt/earn-out mix) determines who carries downside risk far more than the headline acquisition price.
-- `INS-260403-E294` Unicorn exits accelerating in AI, cyber, and health while other sectors remain illiquid reveals selective rather than broad liquidity recovery.
 - `INS-260403-6713` Corp dev teams systematically flip the dynamic so founders end up selling themselves rather than being courted.
 - `INS-260322-88C3` AI threatens every incumbent company simultaneously, driving a wave of M&A as corporations acquire startups to reconstruct how they work rather than building capabilities internally.
 - `INS-260320-39A3` Shelter your team and family from acquisition signal-to-noise until the wire hits — deals fall apart in the last week, and premature sharing creates damaging anxiety.
@@ -25,3 +19,9 @@
 - `INS-260402-CCF4` Patents serve startups primarily as signals to acquirers that the technology is defensible and worth buying rather than building.
 - `INS-260403-FA8E` Capital One saw Brex as a bargain shortcut to a scaled platform; VCs saw a 58% haircut from peak valuation — both were correct within their own frameworks.
 - `INS-260403-318A` Study who's buying in your space and engineer partnerships with them early — the best acquisitions grow out of product integrations, co-selling, and shared customers.
+- `INS-260412-24DB` WorldCom's entire growth engine was serial acquisition; when the Sprint merger was blocked, the company had no organic playbook and resorted to fraud.
+- `INS-260412-C69B` JP Morgan's $175M acquisition of Frank collapsed because the bank accepted indirect evidence of 4.25M users without independently verifying the customer database.
+- `INS-260403-1019` Earn-outs should be evaluated at present value, not nominal — a $20M earn-out payable in 3 years with uncertain triggers may be worth a fraction of face value.
+- `INS-260403-2D9B` Pro forma EPS improvement from acquisitions reflects share count math, not operational value creation — but markets and boards treat it as a real signal anyway.
+- `INS-260403-F852` Deal structure (cash/stock/debt/earn-out mix) determines who carries downside risk far more than the headline acquisition price.
+- `INS-260403-E294` Unicorn exits accelerating in AI, cyber, and health while other sectors remain illiquid reveals selective rather than broad liquidity recovery.

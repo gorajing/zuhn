@@ -56,6 +56,7 @@ related:
   - PRI-260328-A1AA
   - PRI-260324-3AAE
   - INS-260321-9E91
+  - INS-260413-7C61
 stance: >-
   Saudi Arabia and Gulf states are accelerating their pivot toward China because
   the US repeatedly failed to protect oil infrastructure (Aramco 2019,...
