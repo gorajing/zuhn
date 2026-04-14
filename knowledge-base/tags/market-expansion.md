@@ -4,8 +4,8 @@
 - `INS-260404-116E` When a cheaper AI model launches, the demand expansion from lower costs outweighs the margin compression investors fear.
 - `INS-260412-AC34` Arthur Sackler invented the term 'psychic tension' to expand Valium beyond anxiety patients, making almost anyone a candidate for prescription.
 - `INS-260410-2D4D` IPL had already absorbed India's entire cricket-advertising budget with the international rights deal, so they redesigned the product to compete with soap operas instead of with cricket — unlocking a parallel TAM by attracting women viewers and beauty-brand sponsors.
-- `INS-260327-0A48` Under Armour's premium pricing ($25 tees when competitors sold for $10-15, $100 running shoes) built credibility with athletes and retailer confidence, but the same pricing became a barrier when they tried to reach mainstream consumers and international markets.
 - `INS-260405-CF38` Netflix's streaming shift wasn't just about convenience—it structurally expanded the addressable market by removing physical distribution constraints.
+- `INS-260327-0A48` Under Armour's premium pricing ($25 tees when competitors sold for $10-15, $100 running shoes) built credibility with athletes and retailer confidence, but the same pricing became a barrier when they tried to reach mainstream consumers and international markets.
 - `INS-260403-EAC6` Waze became one of the strongest app brands in France by investing where organic growth appeared, while Germany — where they tried to manufacture demand — never adopted the product despite similar investment.
 - `INS-260412-4238` Budget airlines don't just take passengers from legacy carriers—any destination Ryanair opens becomes popular simply because traveling there cheaply is now possible, creating demand that didn't previously exist.
 - `INS-260403-0550` Shared language and cultural similarity across LatAm countries dramatically reduces the friction of multi-country expansion compared to Europe's patchwork.

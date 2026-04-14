@@ -1,8 +1,8 @@
 # Tag: career-decisions
 
-- `INS-260402-0392` People get jobs because it's the default, not because they've rationally chosen employment over alternatives.
 - `INS-260403-6EDC` Difficulty choosing between passion and money reveals gaps in self-knowledge and work knowledge, not a genuine tie between options.
 - `INS-260412-2A09` Ferdinand Porsche declined Stalin's offer to lead Soviet auto development not over ideology, but because he couldn't speak Russian.
+- `INS-260402-0392` People get jobs because it's the default, not because they've rationally chosen employment over alternatives.
 - `INS-260403-A7FD` When the worst-case cost is trivial (a day's wages, some embarrassment), the decision to try is mathematically obvious.
 - `INS-260330-207D` Career anxiety is best addressed by channeling it into dedicated pursuit of your passion rather than retreating to safer options.
 - `INS-260327-DAA4` Most people dramatically under-invest in risk—the US ecosystem uniquely rewards those who take bold career bets.

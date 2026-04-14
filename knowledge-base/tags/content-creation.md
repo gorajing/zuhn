@@ -6,6 +6,8 @@
 - `INS-260320-9935` The 0-to-175K growth came from automating content research and ideation, not from automating content creation itself -- the competitive advantage is knowing what to create, not how to create it.
 - `INS-260404-D45D` Introverts should leverage written content as their primary vehicle for demonstrating expertise rather than competing in verbal-dominant settings.
 - `INS-260329-D9A4` Redefine success as daily activity completion rather than revenue or follower milestones to break the feast-famine cycle.
+- `INS-260323-CD03` Everyone wants media coverage, which means holding a camera is a universal access pass — the journalist is a portal for exposure that gives front-row seats to history as it unfolds.
+- `INS-260321-AACC` MrBeast spent a decade obsessing over one question: what makes content enjoyable for anyone regardless of geography? The answer is universal human experiences.
 - `INS-260329-127F` Multi-year daily content output is the only reliable audience-building strategy; most people quit too early.
 - `INS-260330-CDE1` Shapiro's practice of maintaining a public list of his own bad takes, combined with deliberately holding positions his audience dislikes, creates a structural defense against the audience capture that degrades most media platforms.
 - `INS-260329-4C4C` Plan for years of content creation before expecting meaningful audience growth, treating the first year as skill development.
@@ -13,13 +15,11 @@
 - `INS-260403-6BF7` Developer influencers who master visibility often outperform technically superior peers in career outcomes.
 - `INS-260403-C907` Growth comes from publishing valuable content people want to share, repeatedly, not from optimizing anything else.
 - `INS-260329-D212` Obsess over the first 3 seconds of any content because trimming a weak opening can multiply viewership by 19x.
-- `INS-260329-461A` CS50's theatrical production quality — not just Malan's knowledge — is what makes it the world's most popular CS course.
 - `INS-260322-4B63` Most people who aren't creating content are stopped by fear of negative comments from anonymous strangers, not by lack of ability or time.
 - `INS-260324-5952` Top food influencers succeed on personality and stream-of-consciousness delivery, not food quality — they deliberately avoid watching competitors to keep their voice unique.
 - `INS-260327-98F7` Ship, post, get feedback—that learning loop beats any formal education for content and startup skills.
 - `INS-260322-FFF6` The cost of reaching audiences on social platforms is zero for distribution — an unprecedented asymmetry that most businesses fail to exploit.
 - `INS-260327-CA1C` Verticalized content creation—being THE authority in one domain—is as viable as verticalized SaaS.
+- `INS-260329-461A` CS50's theatrical production quality — not just Malan's knowledge — is what makes it the world's most popular CS course.
 - `INS-260327-4669` Insta360 discovered that 70%+ of action camera users had content sitting on hard drives collecting dust because editing was too hard -- investing in mobile-first editing software became their primary competitive moat over GoPro.
 - `INS-260403-868F` Spending tens of hours on primary research per post produces insights readers can't find elsewhere, which is what makes content worth sharing.
-- `INS-260323-CD03` Everyone wants media coverage, which means holding a camera is a universal access pass — the journalist is a portal for exposure that gives front-row seats to history as it unfolds.
-- `INS-260321-AACC` MrBeast spent a decade obsessing over one question: what makes content enjoyable for anyone regardless of geography? The answer is universal human experiences.

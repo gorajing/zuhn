@@ -59,7 +59,7 @@ related:
   - INS-260410-566F
   - INS-260413-11C9
   - INS-260413-AD37
+  - PRI-260413-A957
   - PRI-260406-3EF8
-  - INS-260413-C040
 ---
 The AI Index 2026 Chapter 5 documents a sharp drop-off when AI moves from structured scientific Q&A to actual research workflows. On ChemBench, with over 2,700 chemistry question-answer pairs, the best frontier models outperform human chemists on average, yet struggle with basic tasks. On ReplicationBench, frontier models score below 20% on paper-scale replication tasks in computational astrophysics. On UnivEarth, LLM agents answer Earth observation questions with 33% accuracy and their code fails 58% of the time. On PaperArena, the best agent reaches 38.8% accuracy versus a PhD expert baseline of 83.5%. On BixBench, frontier models achieve roughly 17% accuracy on real-world bioinformatics analysis. The pattern is that AI has captured the measurable surface of science (Q&A pairs that can be graded) but not the iterative, experimental, multi-step workflow that produces actual research output. Any plan to automate scientific discovery needs to confront that the benchmark-to-discovery translation is a sharp cliff, not a smooth slope — and that benchmark saturation does not imply scientific competence.

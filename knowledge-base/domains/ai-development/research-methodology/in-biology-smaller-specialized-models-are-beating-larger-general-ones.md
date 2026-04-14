@@ -56,8 +56,8 @@ related:
   - INS-260410-E042
   - INS-260413-7816
   - INS-260413-09C4
+  - PRI-260413-A957
   - INS-260405-547E
   - INS-260409-E776
-  - INS-260409-BBBA
 ---
 The AI Index 2026 Chapter 6 documents a striking pattern that contradicts the general-purpose scaling narrative: in molecular biology, smaller models with better data and training methods consistently beat larger general-purpose ones. MSAPairformer, a 111-million-parameter protein language model, outperformed previous leading methods on ProteinGym. GPN-Star, a 200-million-parameter genomics model, outperformed Evo 2 at 40 billion parameters on multiple variant effect prediction tasks. Despite multiple 3B+ models being released in 2025 (SimpleFold at 3B, SeedFold at 923M), AlphaFold 3 (370M) still leads FoldBench at 64.90%. The protein language model trend shifted in 2025 from scaling model size (2024 culminated in 98B-parameter ESM3) to improving model efficiency, curated data, and retrieval augmentation (E1 Retrieval Augmented at 11M params reached 0.48 on ProteinGym vs ESM3's 0.47). The implication is that 'more parameters → better science' is simply wrong in biology — and data quality, experimental grounding, and task specialization are the dominant variables. This calls into question the capital-allocation assumption that frontier biology AI requires hyperscaler-class compute.

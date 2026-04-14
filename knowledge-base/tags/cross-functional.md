@@ -1,8 +1,8 @@
 # Tag: cross-functional
 
+- `INS-260403-E63A` Growth matured from a solo hacker role into a cross-functional team that operates like a systems architecture function spanning product, data, engineering, and design.
 - `INS-260405-B59F` Translating unit objectives into explicit joint commitments creates the cross-unit accountability that crises demand.
 - `INS-260403-1ECB` When hiring plans live in Notion, runway models in Excel, and compensation decisions in separate conversations, the resulting misalignment silently erodes runway.
-- `INS-260403-E63A` Growth matured from a solo hacker role into a cross-functional team that operates like a systems architecture function spanning product, data, engineering, and design.
 - `INS-260403-3A34` Build reusable legal and compliance frameworks with legal teams upfront so innovation teams don't renegotiate from scratch each time.
 - `INS-260330-CCF0` Hardware teams learning speed from software and software teams learning deliberation from hardware creates better products than either discipline alone.
 - `INS-260404-16DC` Product teams fail when they don't actively translate between the three distinct languages of customers, product, and business.

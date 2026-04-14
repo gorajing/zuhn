@@ -49,7 +49,6 @@ stance: >-
   processing, emotional regulation, and mathematical reasoning.
 related:
   - INS-260323-3ED8
-  - INS-260321-8567
   - INS-260323-D400
   - INS-260403-9774
   - PRI-260407-7FB7
@@ -58,6 +57,7 @@ related:
   - INS-260330-28EF
   - INS-260330-72D9
   - INS-260330-83BC
+  - INS-260330-B85B
 evidence:
   - id: INS-260327-5E40
     type: TRANSFERS_TO

@@ -59,6 +59,7 @@ related:
   - INS-260413-539D
   - INS-260413-CAA6
   - INS-260410-0330
-  - INS-260413-C040
+  - PRI-260413-A957
+  - PRI-260413-CBC8
 ---
 David Freeberg cites the stark statistic as justification for PCAST's composition of 'doers and builders' rather than traditional academics. The inversion in 10 years (50% of US → 150% of US) is across all disciplines including physics, materials science, chemistry, and broad life sciences. Critically, the narrative that China is a 'copycat' is obsolete in many subdomains of biotech and life sciences — they are becoming the scientific leader. The existential concern Freeberg raises is that China could 'engulf the entire pharmaceutical industry' and lead in medicine and foundational AI. This is a reference-grade geopolitical data point for any decisions involving industrial policy, biotech investment, or AI sovereignty debates. Time-sensitive because the specific numbers will continue shifting, but the underlying trend is unlikely to reverse.

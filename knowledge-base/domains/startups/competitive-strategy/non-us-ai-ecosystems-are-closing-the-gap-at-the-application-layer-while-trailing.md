@@ -52,7 +52,6 @@ stance: >-
   competitive at the application and vertical deployment layers where
   distribution and domain expertise matter more than compute.
 related:
-  - INS-260323-365A
   - INS-260327-FDF4
   - INS-260330-B390
   - INS-260403-5BFB
@@ -62,6 +61,7 @@ related:
   - INS-260403-4C61
   - INS-260403-F68B
   - INS-260403-FF65
+  - INS-260403-3852
 ---
 Multiple signals in the data — Accel's Globalscape report showing non-US ecosystems closing the gap at the application layer, the €33B Japan-Europe tech alliance since 2019, and Europe's push in applied AI with thousands of startups across strategic verticals — point to a bifurcation in global AI competition.
 

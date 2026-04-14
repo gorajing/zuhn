@@ -53,6 +53,6 @@ related:
   - PRI-260406-22E2
   - PRI-260321-14D8
   - PRI-260406-9780
-  - INS-260327-0700
+  - PRI-260413-A957
 ---
 Closed products can publish any number in their launch blog and bury the methodology. Open source cannot. MemPalace shipped reproducible benchmark runners in benchmarks/longmemeval_bench.py alongside the README, and a contributor (@gizmax) ran them independently on an M2 Ultra in under 5 minutes. The 96.6% number held; the other claims did not. The distinction matters: the raw benchmark being reproducible is what made the honest retraction possible at all. If the benchmark were proprietary, the maintainers could have quietly moved the goalposts. Public reproducibility changes the incentive structure for accuracy by making audits cheap and fast. This is the open-source equivalent of 'show your work' — and it is why closed AI benchmarks are increasingly suspect by default.

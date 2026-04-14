@@ -59,8 +59,8 @@ related:
   - INS-260404-E4C3
   - INS-260402-C301
   - INS-260403-FB82
+  - PRI-260413-8B2F
   - PRI-260406-C4C5
-  - INS-260325-FDF5
 ---
 Traditional PRDs cover feature description, user stories, and success metrics. For AI products, this is insufficient because features commoditize in weeks and every usage has real compute cost. A Distribution-First PRD adds three non-negotiable sections: the distribution mechanism (how does this feature spread itself?), the workflow insertion point (where in the user's daily routine does this live?), and the economic impact (what does it cost to distribute this at 10x scale?).
 

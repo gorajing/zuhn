@@ -52,7 +52,6 @@ stance: >-
   'waterfall model' of spacetime) dissolves paradoxes that persist under purely
   algebraic reasoning.
 related:
-  - INS-260327-DCF8
   - INS-260327-EDE4
   - INS-260412-2EF8
   - INS-260323-5199

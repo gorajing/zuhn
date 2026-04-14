@@ -5,7 +5,6 @@
 - `INS-260413-6CE0` 58% of employees globally use AI at work regularly — but the share exceeds 80% in India, China, Nigeria, UAE, and Saudi Arabia, while North America/Europe sit at 40-48%, inverting the usual wealth-diffusion pattern.
 - `INS-260413-11C9` Microsoft's AI Diagnostic Orchestrator + OpenAI o3 scored 85.5% on complex case studies vs 20% for unaided physicians, and multi-agent frameworks show 7% to over 60% gains over single-agent baselines.
 - `INS-260413-AD37` OSWorld agent accuracy leapt from 12% to 66.3% in 2025, within 6 points of human performance, with Claude Sonnet 4.5 alone hitting 61.4% on computer-use tasks.
-- `INS-260413-416A` Ambient clinical AI scribes saw broad adoption in 2025, with hospitals reporting up to 83% less time writing notes, burnout reductions, and 112% ROI in at least one hospital system.
 - `INS-260413-62D5` Aardvark Weather replaced the traditional numerical weather prediction pipeline with a single ML system in 2025, and FourCastNet 3 generates a 60-day forecast in under 4 minutes — 8 to 60 times faster than prior approaches.
 - `INS-260413-7816` Frontier models beat human chemists on ChemBench 2,700+ Q&A averages but score <20% on ReplicationBench, and PaperArena best agent 38.8% vs PhD expert 83.5% — capability collapses from Q&A to real research.
 - `INS-260413-61CE` Sakana's AI Scientist-v2 produced a paper accepted at an ICLR workshop without human-coded templates, and Google's AI Co-Scientist was validated in three biomedical areas — the first autonomous AI research crossing peer review.
@@ -16,6 +15,7 @@
 - `INS-260413-36B4` Generative AI reached 53% US population adoption within 3 years — faster than the PC or internet — while organizational adoption hit 88% and Singapore/UAE lead at 61%/54% with the US ranking 24th at 28.3%.
 - `INS-260413-0EF6` In 2025 industry produced 87 of 95 notable models (91.58%) while academia produced 1 (1.05%), and the top labs have stopped disclosing training code, dataset sizes, and parameter counts.
 - `INS-260413-25EC` The open-weight gap reopened from 0.5% to 3.3% between August 2024 and March 2026, with 6 of the top 10 Arena models now closed-weight — treating open-weight catch-up as a one-way ratchet is empirically wrong.
+- `INS-260413-416A` Ambient clinical AI scribes saw broad adoption in 2025, with hospitals reporting up to 83% less time writing notes, burnout reductions, and 112% ROI in at least one hospital system.
 - `INS-260413-EB61` Looking at GPT-5.2, Gemini 3, DeepSeek-V3.2, Llama 4 Maverick, Grok 4.1, Claude Opus 4.5, and Mistral 3 Large: nearly all report MMLU/GPQA/AIME but almost none report safety benchmarks (BBQ, HarmBench, Cybench, StrongREJECT, WMDP, MakeMePay).
 - `INS-260413-F638` Empirical evidence shows training techniques aimed at improving one RAI dimension consistently degrade others — gains in privacy reduce fairness, gains in safety reduce accuracy — and no framework exists to govern the tradeoffs.
 - `INS-260413-9769` Estimated US consumer surplus from generative AI tools reached $172B annually by early 2026 with median per-user value tripling between 2025 and 2026 — mostly captured through free access.
@@ -39,9 +39,6 @@
 - `INS-260413-E816` GPT-4o's accuracy dropped from 98.2% to 64.4% and DeepSeek R1 from 90% to 14.4% when identical false statements were reframed from 'another person believes' to 'the user believes' — sycophancy is a structural failure mode, not an edge case.
 - `INS-260413-B79B` AI benchmark saturation has compressed from years to months, making sustained measurement infrastructure the binding constraint on progress tracking.
 - `INS-260413-C040` MSAPairformer (111M params) beat prior SOTA on ProteinGym; GPN-Star (200M) beat a 40B genomics model; AlphaFold 3 (370M) still leads FoldBench despite SimpleFold's 3B challenger — data beats scale in biology.
-- `INS-260413-C64F` Across 68 LEAP forecast questions, AI experts predicted faster progress than the public 71% of the time and were on average 16% more likely to predict faster outcomes on any given milestone.
-- `INS-260413-3C99` People are AI-optimistic for themselves and AI-pessimistic for everyone else — 56% globally say AI saves them time, 40% say AI will make their job better, yet 64% of US adults expect AI to produce fewer jobs overall.
-- `INS-260413-F591` India registered the sharpest rise in AI nervousness of any country surveyed (+14 percentage points 2024-2025) with only a modest increase in excitement (+2) — anxiety and optimism decoupled in the country most central to global AI talent.
 - `INS-260413-AC10` 2025 global AI private investment hit $344.7B (+127.5%), generative AI alone $170.9B (+200%+), newly funded companies 3,499 (+70.8%), and 28 billion-dollar events vs 15 in 2024.
 - `INS-260413-9269` National AI strategies are expanding fastest in developing economies with no prior AI policy, but supercomputing capacity is wildly unequal — China 85, Europe/Central Asia 44, North America 41, South Asia 2.
 - `INS-260413-3860` China accounted for 54% of industrial robots installed globally in 2024 (up from 51.1% in 2023) while US, Germany, and Italy declined — pairing AI capability with the manufacturing base to deploy it.
@@ -50,3 +47,6 @@
 - `INS-260413-09C4` DeepSeek-R1 briefly matched the top US model in Feb 2025 and as of March 2026 Anthropic leads by just 2.7% — US AI supremacy is a contested measurement, not a structural condition.
 - `INS-260413-DAEA` Only 31% of Americans trust their own government to regulate AI — the lowest of any country surveyed and far below the global average of 54%, Singapore's 81%, and Indonesia's 76%.
 - `INS-260413-255E` US federal AI spending 2013-2024: $20.4B in contracts and grants. US private AI investment 2025 alone: $285.9B. The ratio is roughly 14:1 — in a single year — and the gap is compounding.
+- `INS-260413-C64F` Across 68 LEAP forecast questions, AI experts predicted faster progress than the public 71% of the time and were on average 16% more likely to predict faster outcomes on any given milestone.
+- `INS-260413-3C99` People are AI-optimistic for themselves and AI-pessimistic for everyone else — 56% globally say AI saves them time, 40% say AI will make their job better, yet 64% of US adults expect AI to produce fewer jobs overall.
+- `INS-260413-F591` India registered the sharpest rise in AI nervousness of any country surveyed (+14 percentage points 2024-2025) with only a modest increase in excitement (+2) — anxiety and optimism decoupled in the country most central to global AI talent.

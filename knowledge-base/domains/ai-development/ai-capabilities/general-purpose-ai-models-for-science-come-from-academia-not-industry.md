@@ -55,9 +55,9 @@ related:
   - INS-260409-0846
   - INS-260410-54CB
   - INS-260410-E8A8
+  - PRI-260413-CBC8
   - INS-260404-83C6
   - INS-260323-365A
   - INS-260322-54F3
-  - INS-260402-F957
 ---
 The AI Index 2026 Chapter 5 documents a notable inversion: while 91.58% of general-purpose notable AI models come from industry (Chapter 1), AI foundation models for science come predominantly from academic and government institutions collaborating across countries. The Physics, Astronomy, Chemistry, and Materials Science table lists AION-1 (UC Berkeley/Flatiron/NYU), ChemDFM (Shanghai Jiao Tong), GPhyT (RWTH Aachen/Virginia), MACE-MP-0 (Cambridge/BAM/Berkeley), PhysiX (UCLA, 4.5B params), and Surya (Alabama Huntsville/NASA, 366M params for heliophysics). Earth science datasets come entirely from government and academic sources. Industry leads foundation model development only in weather and climate (where commercial forecasting is the monetization path). This matters because it means the public science AI stack has a different governance and incentive structure than the general-purpose stack — it is driven by reproducibility, open datasets, cross-institution validation, and credentialism rather than product velocity. The two ecosystems are likely to produce different research cultures, and bridging them (making science AI flow into products, or making general AI serve scientific workflows) is an open strategic question.

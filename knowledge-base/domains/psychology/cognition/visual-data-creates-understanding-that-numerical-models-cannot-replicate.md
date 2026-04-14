@@ -47,10 +47,10 @@ stance: >-
   and simulations systematically fail to deliver.
 related:
   - INS-260403-7BBD
+  - PRI-260413-B2FF
   - INS-260413-8CA7
   - INS-260403-89B5
   - INS-260330-1222
-  - INS-260330-13A8
 evidence:
   - id: INS-260403-7BBD
     type: EXTENDS

@@ -60,11 +60,11 @@ stance: >-
   bottlenecks that matter at the frontier are research taste (which experiments
   to run) and compute for running those experiments.
 related:
+  - PRI-260413-A957
   - INS-260330-C31B
   - INS-260405-E4FC
   - INS-260330-2F74
   - PRI-260323-8E89
-  - PRI-260328-A589
 ---
 Kokotajlo concedes you get massive diminishing returns to having more minds running in parallel. Labs already have only 20-30 people on core pretraining teams and don't seem to be throwing every Harvard math PhD at the problem — if headcount were the bottleneck, they would. The intelligence explosion story doesn't actually rest on 'a million AI researchers in parallel' — it rests on serial thought speed (50-100x humans), online learning, and crucially research taste: the ability to pick which experiments to run rather than flailing.
 

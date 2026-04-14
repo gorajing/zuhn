@@ -50,12 +50,12 @@ stance: >-
   creates disproportionate market power relative to its user count, because
   those users define quality standards for everyone else.
 related:
-  - INS-260327-94FE
   - INS-260329-C45C
   - INS-260402-2D7B
+  - INS-260327-94FE
   - PRI-260406-F9AC
   - INS-260327-91E7
-  - INS-260325-3CE2
+  - PRI-260413-A957
 evidence:
   - id: INS-260329-DDBC
     type: TRANSFERS_TO

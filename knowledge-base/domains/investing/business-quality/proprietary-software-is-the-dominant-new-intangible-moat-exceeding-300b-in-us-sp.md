@@ -58,12 +58,12 @@ related:
   - INS-260325-F20C
   - INS-260322-BBED
   - INS-260322-EDA4
-  - INS-260322-054E
   - INS-260327-969D
   - INS-260327-DFF1
   - INS-260327-E1EB
   - INS-260330-CCF0
   - INS-260403-B387
+  - INS-260403-7B04
 ---
 James Bessen's research identifies three developments that allowed superstar firms to pull away: (1) massive investment in proprietary software as an intangible asset, growing faster than R&D or advertising spend; (2) this software enables both scale economies AND market differentiation simultaneously, breaking the traditional tradeoff; and (3) the software diffuses at a slower rate than past innovations because it is complex, customized, and firms have no incentive to share it.
 

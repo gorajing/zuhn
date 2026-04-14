@@ -56,6 +56,7 @@ related:
   - INS-260321-9906
   - INS-260327-6E57
   - INS-260410-56F7
+  - PRI-260413-B2FF
 stance: >-
   Just as ChatGPT needed a language model, robots need a world foundation model
   that understands gravity, friction, inertia, and cause-and-effect

@@ -59,6 +59,7 @@ related:
   - INS-260410-0DA5
   - PRI-260323-7BFA
   - INS-260410-19DE
+  - PRI-260413-A957
 ---
 Anthropic found nine straightforward contamination cases where answers appeared in ICLR submissions, ArXiv appendices, and GitHub issues. But contamination isn't a one-time cleanup problem: e-commerce sites auto-generate persistent pages from agent search queries, so every BrowseComp run leaves permanent, indexed URL slugs containing agents' hypotheses. One agent correctly diagnosed: 'Multiple AI agents have previously searched for this same puzzle, leaving cached query trails.'
 

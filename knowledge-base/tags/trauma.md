@@ -3,8 +3,8 @@
 - `INS-260403-5DD6` When people overreact to small provocations, the real cause is usually a past experience their nervous system never fully processed, not a character deficiency.
 - `INS-260403-7639` MDMA's therapeutic mechanism is enabling self-compassion — people can face traumatic memories without the self-loathing that normally blocks processing.
 - `INS-260410-43F6` Xi Jinping personally suffered during the Cultural Revolution — his father was purged, his mother turned him away starving — yet he reveres Mao and is recentralizing the system that harmed him.
-- `INS-260330-75B5` Sexual problems are mostly caused by too much hitting the brakes (stress, shame, trauma) rather than not enough gas (stimulation).
 - `INS-260409-8910` REM sleep downregulates the frontal lobe, activates vision, and paralyzes the body — a ready-made abduction experience.
+- `INS-260330-75B5` Sexual problems are mostly caused by too much hitting the brakes (stress, shame, trauma) rather than not enough gas (stimulation).
 - `INS-260403-7475` Body-based interventions outperform medication and pure talk therapy for trauma because trauma is stored in survival circuitry, not narrative memory.
 - `INS-260323-099F` When a low-vibration emotion surfaces, locate it physically in your body and feel it for a few minutes rather than bypassing it — this diffuses the charge permanently.
 - `INS-260403-94CA` Trauma treatment that targets felt bodily safety outperforms purely cognitive interventions because trauma is stored somatically, not just mentally.

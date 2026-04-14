@@ -1,8 +1,8 @@
 # Tag: user-research
 
-- `INS-260327-89E4` Stop running surveys—face-to-face interviews reveal the real pain points that users can't articulate in forms.
 - `INS-260321-021B` Higgsfield interviewed 8 creatives — all 8 gave identical feedback about camera controls, which became their breakout feature.
 - `INS-260320-080B` Ask customers how they describe your product, then use their exact words as marketing copy — Coconote asked and the majority said "never miss a key detail," which became their App Store headline.
+- `INS-260327-89E4` Stop running surveys—face-to-face interviews reveal the real pain points that users can't articulate in forms.
 - `INS-260405-9E25` Investors' deepest fear is that you built something nobody wants — specific user stories and proxies for existing demand directly counter that fear.
 - `INS-260405-E7FB` Sequoia calls it 'proxy for demand' — what are people doing right now with inadequate tools that proves they need what you're building?
 - `INS-260405-4B31` What are people doing right now with inadequate tools? That story is worth more than any market size number.

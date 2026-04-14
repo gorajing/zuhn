@@ -64,9 +64,9 @@ related:
   - PRI-260328-7007
   - INS-260405-ADCE
   - INS-260405-E34C
-  - INS-260404-DDC8
   - INS-260405-FC36
   - INS-260405-F05B
+  - INS-260404-3BAB
 ---
 Software AI — LLMs, code generation, reasoning agents — operates on information that already exists in digital form. Its productivity gains are real but bounded by the share of economic activity that is purely informational. The majority of global GDP still involves physical manipulation: manufacturing, logistics, healthcare, construction, agriculture. Physical AI — AI systems that perceive and act in the material world — addresses this much larger surface area.
 

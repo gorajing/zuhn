@@ -66,10 +66,9 @@ related:
   - INS-260405-1C8D
   - INS-260404-023C
   - INS-260409-1191
+  - PRI-260413-B2FF
   - PRI-260407-7FB7
   - PRI-260406-4F8E
-  - PRI-260403-EA13
-  - INS-260413-8CA7
 ---
 Levine addresses the puzzle of why video models, despite being older as a research direction than language models, have not produced systems with deep world understanding the way LLMs have. His answer: representations. Text has already been compressed by humans into the bits that actually matter semantically. Raw video, by contrast, contains everything from subatomic water droplet physics to pedestrian psychology, and a pixel-level prediction objective gives you no principled way to focus on what's important. You can spend 'decades thinking about clouds' and never get to the pedestrians.
 
