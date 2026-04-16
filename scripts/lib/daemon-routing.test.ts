@@ -1,5 +1,7 @@
+import { readFileSync } from "node:fs";
+import { join } from "node:path";
 import { describe, expect, it } from "vitest";
-import { getDaemonStep } from "./daemon-routing";
+import { getDaemonStep, ROUTED_STATUSES, findMissingProducers } from "./daemon-routing";
 
 describe("getDaemonStep", () => {
   it("routes fast-mode extracting items to extract", () => {
@@ -41,6 +43,24 @@ describe("getDaemonStep", () => {
     expect(getDaemonStep({ status: "failed", agent_a_file: null })).toBeNull();
     expect(getDaemonStep({ status: "filtered", agent_a_file: null })).toBeNull();
     expect(getDaemonStep({ status: "review", agent_a_file: null })).toBeNull();
+  });
+
+  it("ROUTED_STATUSES matches the switch in getDaemonStep", () => {
+    for (const status of ROUTED_STATUSES) {
+      expect(
+        getDaemonStep({ status, agent_a_file: null }),
+        `"${status}" is in ROUTED_STATUSES but getDaemonStep returns null for it`
+      ).not.toBeNull();
+    }
+  });
+
+  it("every routed status has at least one updateStatus producer in daemon.ts", () => {
+    const daemonSource = readFileSync(join(__dirname, "../daemon.ts"), "utf-8");
+    const missing = findMissingProducers(daemonSource);
+    expect(
+      missing,
+      `Routed statuses without updateStatus producers: ${missing.join(", ")}`
+    ).toEqual([]);
   });
 
   it("walks the full heavy-mode pipeline from agent A through commit", () => {

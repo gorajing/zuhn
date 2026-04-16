@@ -14,6 +14,17 @@ export type DaemonStep =
   | "deep_read"
   | "commit";
 
+export const ROUTED_STATUSES = [
+  "pending",
+  "ingesting",
+  "extracting",
+  "extracting_a",
+  "extracting_b",
+  "merging",
+  "verifying",
+  "deep_reading",
+] as const;
+
 export function getDaemonStep(item: DaemonRoutingItem): DaemonStep | null {
   switch (item.status) {
     case "pending":
@@ -35,4 +46,15 @@ export function getDaemonStep(item: DaemonRoutingItem): DaemonStep | null {
     default:
       return null;
   }
+}
+
+export function findMissingProducers(daemonSource: string): string[] {
+  const produced = new Set<string>();
+  for (const line of daemonSource.split("\n")) {
+    if (!line.includes("updateStatus(")) continue;
+    for (const m of line.matchAll(/["']([a-z][a-z_]*[a-z])["']/g)) {
+      produced.add(m[1]);
+    }
+  }
+  return ROUTED_STATUSES.filter((s) => !produced.has(s));
 }
