@@ -818,6 +818,14 @@ async function writeStatus(): Promise<void> {
     .prepare("SELECT COUNT(*) as n FROM inbox_queue WHERE status = 'failed'")
     .get() as { n: number };
 
+  const lastHeavy = db
+    .prepare(
+      `SELECT updated_at, insights_extracted FROM inbox_queue
+       WHERE status = 'committed' AND processing_mode = 'heavy' AND insights_extracted > 0
+       ORDER BY updated_at DESC LIMIT 1`
+    )
+    .get() as { updated_at: string; insights_extracted: number } | undefined;
+
   const status = {
     daemon_pid: process.pid,
     heartbeat: new Date().toISOString(),
@@ -828,6 +836,10 @@ async function writeStatus(): Promise<void> {
       processing: processing.n,
       committed: committed.n,
       failed: failed.n,
+    },
+    heavy_path: {
+      last_commit_at: lastHeavy?.updated_at ?? null,
+      last_insights_extracted: lastHeavy?.insights_extracted ?? null,
     },
     backoff_seconds: backoffSeconds,
   };
