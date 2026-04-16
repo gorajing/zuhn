@@ -158,7 +158,7 @@ All IDs are stateless (timestamp + hash, no counters):
 - Skills: `skills/` (17 portable SKILL.md files — each a standalone workflow)
 - Schemas: `scripts/schemas/` (Zod validation)
 - Benchmarks: `benchmarks/` (epistemic CI/CD — quality metrics and regression detection)
-- MCP server: `scripts/mcp-server.ts` (9 tools — 6 read + 3 write — knowledge access from any directory)
+- MCP server: `scripts/mcp-server.ts` (12 tools — 7 read + 5 write — knowledge access from any directory)
 - Claude Code config: `.claude/` (hooks, agents, project settings)
   - `.claude/hooks/block-kb-writes.sh` — PreToolUse guard enforcing the Golden Rule
   - `.claude/hooks/session-setup.sh` — SessionStart env + KB status injection

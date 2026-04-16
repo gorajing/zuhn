@@ -2,8 +2,8 @@
 
 // ─── Zuhn MCP Server ────────────────────────────────────────────────
 // MCP server exposing Zuhn's knowledge base to any AI agent.
-// Read tools: zuhn_search, zuhn_recall, zuhn_browse, zuhn_flags, zuhn_tensions, zuhn_stats
-// Write tools: zuhn_apply, zuhn_feedback, zuhn_queue_session_insight
+// Read (7): zuhn_search, zuhn_recall, zuhn_brief, zuhn_browse, zuhn_flags, zuhn_tensions, zuhn_stats
+// Write (5): zuhn_queue_source, zuhn_submit_insights, zuhn_flag_tension, zuhn_log_feedback, zuhn_queue_session_insight
 
 import { McpServer } from "@modelcontextprotocol/sdk/server/mcp.js";
 import { StdioServerTransport } from "@modelcontextprotocol/sdk/server/stdio.js";

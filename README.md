@@ -212,6 +212,7 @@ npm run test                        # Vitest test suite
 | **Cross-Domain Transfer** | Finds principles that apply to other domains (zero-tag-overlap surprise) |
 | **Tension Detection** | Flags contradictory insights for resolution |
 | **Empirical Propagation** | Cascades confidence when predictions confirm or falsify |
+| **Cross-Domain Synthesis** | Finds structurally parallel principles across different domains |
 
 All mechanisms run automatically via `npm run learn`.
 
@@ -231,7 +232,7 @@ knowledge-base/                    ← Source of truth (markdown + YAML frontmat
 ├── meta/log.md                    ← Append-only chronological log of events
 └── db/brain.db                    ← SQLite + FTS5 + sqlite-vec
 
-scripts/                           ← 40+ TypeScript scripts
+scripts/                           ← 75+ TypeScript scripts
 ├── lib/learning.ts                ← 9 learning mechanisms
 ├── lib/vector-search.ts           ← Hybrid search (RRF ranking)
 ├── lib/embeddings.ts              ← Ollama embedding client

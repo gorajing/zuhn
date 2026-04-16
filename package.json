@@ -49,7 +49,7 @@
   "keywords": ["knowledge-management", "second-brain", "personal-knowledge", "claude", "mcp", "sqlite"],
   "repository": {
     "type": "git",
-    "url": "https://github.com/gorajin/zuhn.git"
+    "url": "https://github.com/gorajing/zuhn.git"
   },
   "engines": {
     "node": ">=20"
