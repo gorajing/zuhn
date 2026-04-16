@@ -42,7 +42,7 @@
     "daemon:stop": "kill $(cat /tmp/zuhn-daemon.pid 2>/dev/null) 2>/dev/null || echo 'Daemon not running'",
     "daemon:logs": "tail -f knowledge-base/meta/daemon.log",
     "extract-session": "tsx scripts/extract-session.ts",
-    "verify-readme": "tsx scripts/verify-readme.ts",
+    "verify-contracts": "node --import tsx scripts/verify-contracts.ts",
     "red-team": "tsx scripts/red-team.ts",
     "scout": "tsx scripts/scout-predictions.ts && tsx scripts/scout-gaps.ts"
   },

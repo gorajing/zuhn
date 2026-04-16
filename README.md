@@ -135,8 +135,8 @@ npm run daemon:start                # Background: inbox + scouts + red team
 npm run autoknowledge               # Self-improving extraction loop
 
 # Platform
-npm run mcp                         # MCP server (11 tools, any Claude session)
-npm run test                        # 348 tests across 25 files
+npm run mcp                         # MCP server (12 tools, any compatible MCP client)
+npm run test                        # Vitest test suite
 ```
 
 ## How It Learns
@@ -175,7 +175,7 @@ scripts/                           ← 40+ TypeScript scripts
 ├── lib/learning.ts                ← 9 learning mechanisms
 ├── lib/vector-search.ts           ← Hybrid search (RRF ranking)
 ├── lib/embeddings.ts              ← Ollama embedding client
-└── mcp-server.ts                  ← MCP server (11 tools)
+└── mcp-server.ts                  ← MCP server (12 tools)
 
 skills/                            ← 17 portable SKILL.md files (any LLM agent)
 benchmarks/                        ← Epistemic CI/CD (quality metrics + regression gates)
@@ -202,7 +202,7 @@ benchmarks/                        ← Epistemic CI/CD (quality metrics + regres
 | Embeddings | Ollama (nomic-embed-text, 768 dims) |
 | Transcription | Whisper (local) |
 | Scripts | TypeScript (tsx) |
-| Tests | Vitest (348 tests, 25 files) |
+| Tests | Vitest |
 | Graph analysis | graphology + Louvain |
 | Reasoning | Claude (in conversation) |
 

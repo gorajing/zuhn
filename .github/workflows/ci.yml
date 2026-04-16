@@ -22,8 +22,8 @@ jobs:
       - name: Run tests
         run: npm test
 
-      - name: Verify README claims match codebase
-        run: npm run verify-readme
+      - name: Verify public surface contracts
+        run: npm run verify-contracts
 
       - name: Verify hook templates are executable
         run: |

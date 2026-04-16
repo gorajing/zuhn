@@ -27,7 +27,7 @@ Add these actions in order:
 1. **Receive** input from **Share Sheet** (URLs, Text)
 2. **Get URLs from Input** — extracts the URL from whatever was shared
 3. **Get Contents of URL**:
-   - URL: `http://<your-mac-ip>:7777/ingest`
+   - URL: `http://<your-mac-ip>:7777/inbox`
    - Method: **POST**
    - Headers: `Content-Type: application/json`
    - Request Body (JSON):
@@ -45,7 +45,7 @@ On your Mac:
 ipconfig getifaddr en0
 ```
 
-Use this IP in the shortcut (e.g., `http://192.168.1.100:7777/ingest`).
+Use this IP in the shortcut (e.g., `http://192.168.1.100:7777/inbox`).
 
 ### 4. Add to Share Sheet
 
@@ -65,7 +65,7 @@ Use this IP in the shortcut (e.g., `http://192.168.1.100:7777/ingest`).
 If you use Telegram, you can set up a simple bot that forwards URLs:
 
 1. Create a bot via [@BotFather](https://t.me/BotFather)
-2. Set up a webhook pointing to `http://<your-ip>:7777/ingest`
+2. Set up a webhook pointing to `http://<your-ip>:7777/inbox`
 3. Parse incoming messages for URLs and forward them
 
 ## Remote Access (Optional)
@@ -86,16 +86,16 @@ Update your Shortcut URL to the tunnel URL.
 
 ```bash
 # Test from terminal
-curl -X POST http://localhost:7777/ingest \
+curl -X POST http://localhost:7777/inbox \
   -H 'Content-Type: application/json' \
   -d '{"url":"https://example.com/article"}'
 
-# Check the queue
-ls knowledge-base/inbox/pending/
+# Check the queue status
+curl http://localhost:7777/status
 ```
 
 ## Troubleshooting
 
 - **Connection refused**: Make sure `inbox-server.ts` is running and firewall allows port 7777
-- **URL not processed**: Check `knowledge-base/inbox/errors/` for failed ingestions
+- **URL not processed**: Check `GET /status` and daemon logs for queue progress or failures
 - **Shortcut fails silently**: Test with the curl command first to verify the server is reachable
