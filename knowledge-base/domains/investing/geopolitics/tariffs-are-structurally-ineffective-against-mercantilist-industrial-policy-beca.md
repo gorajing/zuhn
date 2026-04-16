@@ -64,8 +64,8 @@ related:
   - INS-260403-5A4C
   - INS-260405-5856
   - PRI-260406-0ACE
+  - PRI-260328-8F94
   - PRI-260406-7128
-  - PRI-260406-9599
 ---
 Tariffs work by raising the import price of foreign goods, making domestic production relatively more competitive. But when a foreign government subsidizes its national champions at the cost level — cheap credit, direct grants, state loans — the tariff wall has to be extraordinarily high to offset the structural cost advantage. And at that height, it functions more as a trade prohibition than a competitive equalizer.
 

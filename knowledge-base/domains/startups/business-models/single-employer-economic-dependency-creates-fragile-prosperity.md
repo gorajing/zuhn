@@ -51,7 +51,7 @@ related:
   - INS-260412-CD24
   - INS-260330-3994
   - INS-260403-00A4
+  - INS-260327-E2F1
   - INS-260323-9FCA
-  - INS-260323-8239
 ---
 Guam's economy is built on two pillars: the US military (single largest employer, occupying 25% of the island's land) and Asian tourism (1.5 million visitors annually for 160,000 residents). This creates real prosperity — $35,000 GDP per capita vs. $1,500 for neighboring Kiribati — but extreme fragility. The 2017 missile crisis demonstrated how quickly the tourism pillar can collapse. The military pillar, while more stable, is subject to Pentagon strategic decisions made 8,000 miles away. This pattern recurs in startup ecosystems: companies built on a single platform (Shopify apps, iOS-only products), towns dependent on a single employer, and economies reliant on a single export commodity. The lesson isn't that concentration is always wrong — Guam's location makes these dependencies nearly inevitable — but that the apparent stability of concentrated prosperity systematically understates tail risk.

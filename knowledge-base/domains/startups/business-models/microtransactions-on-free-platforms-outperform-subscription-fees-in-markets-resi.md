@@ -54,7 +54,6 @@ stance: >-
   core product free and monetizing through small optional purchases generates
   more revenue than subscription or access fees.
 related:
-  - INS-260327-2B62
   - INS-260330-999F
   - INS-260330-C24F
   - PRI-260406-6E0F

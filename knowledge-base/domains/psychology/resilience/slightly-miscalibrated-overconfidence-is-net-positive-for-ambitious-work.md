@@ -49,8 +49,8 @@ stance: >-
 related:
   - INS-260403-B7E3
   - INS-260405-80B0
-  - INS-260405-2E0A
   - INS-260403-387D
+  - PRI-260406-E602
   - INS-260325-3589
 ---
 Perfect self-calibration sounds optimal in theory but fails in practice because ambitious projects face compounding headwinds: other people's skepticism, your own harsh judgment of early results, and the inherent lameness of anything at 20% completion. Slight overconfidence acts as a counterweight to these forces, not as delusion but as error correction.

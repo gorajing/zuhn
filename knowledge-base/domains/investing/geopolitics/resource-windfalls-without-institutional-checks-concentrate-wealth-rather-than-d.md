@@ -62,6 +62,7 @@ related:
   - INS-260412-55F4
   - INS-260404-9103
   - INS-260413-CAA6
+  - INS-260327-E2F1
 ---
 Angola's post-civil-war oil boom is a near-laboratory demonstration of the resource curse. Between 2002 and 2010, the economy grew 534%, yet the Human Development Index ranking improved by a mere 4 positions globally. The everyday Angolan saw almost no change in education, health, or standard of living while Luanda became one of the world's most expensive cities.
 

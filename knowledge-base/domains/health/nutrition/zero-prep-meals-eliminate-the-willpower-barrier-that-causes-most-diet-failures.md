@@ -47,11 +47,11 @@ stance: >-
   problem — removing preparation time matters more than optimizing nutritional
   profiles
 related:
-  - INS-260327-E2F1
-  - INS-260327-E2F2
   - INS-260329-6CCC
   - INS-260329-7E0A
+  - INS-260327-E2F2
   - INS-260329-965A
+  - PRI-260328-D9D0
 evidence:
   - id: INS-260329-21C6
     type: SUPPORTS

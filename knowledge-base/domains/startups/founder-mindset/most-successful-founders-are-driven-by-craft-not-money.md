@@ -43,7 +43,6 @@ stance: >-
   by financial extraction, and this is a competitive advantage
 related:
   - INS-260323-1FC1
-  - INS-260324-2AD8
   - INS-260323-0277
   - INS-260327-58AC
   - INS-260327-1B60
@@ -52,6 +51,7 @@ related:
   - INS-260403-C96F
   - INS-260403-0020
   - INS-260403-F28B
+  - INS-260403-9CD9
 evidence:
   - id: INS-260327-1B60
     type: CHALLENGES

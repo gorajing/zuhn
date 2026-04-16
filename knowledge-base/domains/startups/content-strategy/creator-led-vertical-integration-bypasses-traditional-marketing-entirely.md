@@ -57,8 +57,8 @@ related:
   - INS-260327-CA1C
   - INS-260327-E07A
   - INS-260403-B610
+  - PRI-260328-8F94
   - PRI-260405-675B
-  - INS-260403-9746
 ---
 MrBeast (Jimmy Donaldson) became the most-subscribed YouTuber in history with 550M+ combined subscribers and 80B+ lifetime views in 2024, then converted that attention into a vertically-integrated business pushing toward $500M in annual revenue. His snack brand Feastables hit $250M in sales by embedding product promotion directly into viral content, eliminating the need for traditional marketing channels entirely.
 

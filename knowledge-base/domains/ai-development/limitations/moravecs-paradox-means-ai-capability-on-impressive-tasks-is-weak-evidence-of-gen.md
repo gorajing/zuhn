@@ -65,8 +65,8 @@ related:
   - INS-260330-E660
   - INS-260330-43EE
   - INS-260402-C4FF
+  - INS-260403-876D
   - INS-260404-DBD2
-  - INS-260403-772D
 ---
 Advanced language, chess, Go, Jeopardy, and 100-digit arithmetic all emerged recently in evolutionary time and conferred small fitness gains when they did emerge. Evolution had little time or pressure to optimize for them, so humans find them hard and AI systems blast through them quickly. Meanwhile, sensorimotor skills and commonsense action that animals share were optimized over hundreds of millions of years and remain difficult for AI.
 

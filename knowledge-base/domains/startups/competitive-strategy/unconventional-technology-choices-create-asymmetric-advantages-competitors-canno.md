@@ -47,7 +47,7 @@ related:
   - INS-260403-42E4
   - INS-260403-16D7
   - INS-260403-43B9
-  - PRI-260406-E602
+  - PRI-260407-AF64
 evidence:
   - id: INS-260323-748A
     type: CONTRADICTS

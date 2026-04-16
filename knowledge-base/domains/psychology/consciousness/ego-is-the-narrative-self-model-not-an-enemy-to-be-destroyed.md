@@ -50,6 +50,6 @@ related:
   - INS-260409-2CE9
   - PRI-260406-C60B
   - INS-260323-7DBC
-  - INS-260409-FB26
+  - PRI-260406-E602
 ---
 Hughes frames ego as 'the story you built to survive your fears' and calls it 'the only real enemy.' The first half is good, the second half overcorrects. A narrative self-model is a functional necessity — it stabilizes planning, memory, and agency across time. What causes suffering is not having a self-model but identifying with it so tightly that any contradictory information reads as an existential threat. The practical reframe is not 'kill the ego' but 'notice when the self-model is being defended instead of updated.' Every time a conversation produces defensive urgency rather than curiosity, the self-model is doing work it shouldn't.

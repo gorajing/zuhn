@@ -46,7 +46,6 @@ resolutions:
     advantage among many -- it's the dominant one.
 related:
   - INS-260323-1D15
-  - PRI-260406-E602
   - PRI-260407-AF64
   - PRI-260328-4CC0
   - INS-260412-EED1

@@ -45,10 +45,10 @@ stance: >-
   adding linearly, making system design more important than individual force
 related:
   - PRI-260405-0AC6
-  - PRI-260406-E602
   - PRI-260407-AF64
   - INS-260410-920E
   - INS-260330-0C1B
+  - PRI-260328-F0B4
 evidence:
   - id: INS-260330-0C1B
     type: EXTENDS

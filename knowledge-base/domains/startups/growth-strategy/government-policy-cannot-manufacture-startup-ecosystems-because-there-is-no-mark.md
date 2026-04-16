@@ -47,10 +47,10 @@ stance: >-
   electricity.
 related:
   - PRI-260406-701E
-  - PRI-260406-842D
   - PRI-260407-3BD9
   - PRI-260403-C337
   - INS-260404-DE04
+  - INS-260403-7037
 evidence:
   - id: INS-260327-F417
     type: TRANSFERS_TO

@@ -64,11 +64,11 @@ related:
   - INS-260403-CEBA
   - INS-260405-54E2
   - INS-260405-DEF2
+  - INS-260402-55FB
   - INS-260403-B6F2
   - PRI-260406-9F3D
   - PRI-260406-466E
   - INS-260410-C89B
-  - INS-260403-9482
 ---
 Uber's rides app is now the largest new-customer acquisition channel for Eats—larger than Google, Meta, and Instagram combined—at roughly a quarter of the cost of external channels. On the supply side, Eats is used as a lower-friction recruitment funnel for drivers: because food delivery requires less background-check overhead than rideshare, people can start earning within hours, and Uber then upsells them into rides later. Neither doordash nor Lyft can copy this because they don't own the other side.
 

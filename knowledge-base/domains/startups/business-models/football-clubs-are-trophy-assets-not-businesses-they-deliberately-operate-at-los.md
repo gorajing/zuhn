@@ -42,11 +42,11 @@ resolutions:
     football' is really the business of vanity ownership — similar dynamics in
     professional sports leagues worldwide.
 related:
+  - PRI-260328-8F94
   - INS-260324-988E
   - INS-260324-468C
   - INS-260327-58AC
   - INS-260403-7881
-  - INS-260404-7325
 stance: >-
   European football clubs generate billions in revenue from merchandise, TV
   rights, and sponsorships

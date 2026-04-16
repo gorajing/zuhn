@@ -74,8 +74,8 @@ related:
   - INS-260410-BF1C
   - INS-260412-CB3C
   - PRI-260328-78A5
-  - PRI-260328-8F94
   - INS-260410-3D3B
+  - INS-260327-74CF
 ---
 After losing the Betamax war, Morita concluded Sony needed to own content to never again be at the mercy of Hollywood. Sony bought CBS Records for $2B in 1988 and Columbia Pictures for effectively $6B in 1989. The CBS Records purchase became a great financial asset, generating $2B+ in annual operating cash flow for decades. But the strategic synergy thesis — that owning content would help Sony sell hardware — never materialized. The reason is structural: the hardware division wanted devices that played the widest possible range of content (including pirated, cracked, or foreign content) to maximize device sales, while the content divisions wanted hardware to enforce DRM and format restrictions to protect their catalogs. These incentives cannot be reconciled without one side losing. Sony spent decades trying and failing to make a unified strategy work.
 

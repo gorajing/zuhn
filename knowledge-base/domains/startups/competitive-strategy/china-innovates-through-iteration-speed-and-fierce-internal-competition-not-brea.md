@@ -56,7 +56,6 @@ stance: >-
   breakthroughs, and this manufacturing-driven innovation model is
   underestimated by Silicon Valley.
 related:
-  - PRI-260406-E602
   - PRI-260407-AF64
   - PRI-260328-4CC0
   - PRI-260328-94D4

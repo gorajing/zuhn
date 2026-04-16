@@ -48,15 +48,15 @@ stance: >-
   creates compounding defensibility.
 related:
   - PRI-260406-D017
+  - PRI-260328-8F94
   - INS-260327-0746
   - INS-260404-B893
   - PRI-260324-12CF
-  - INS-260403-22BB
   - INS-260329-B6DF
   - INS-260329-93AE
   - INS-260403-9F9F
   - INS-260403-A485
-  - INS-260404-16DC
+  - INS-260403-22BB
 evidence:
   - id: INS-260329-93AE
     type: EXTENDS

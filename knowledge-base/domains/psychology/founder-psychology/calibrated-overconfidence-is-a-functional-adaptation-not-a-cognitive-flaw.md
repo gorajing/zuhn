@@ -57,7 +57,7 @@ related:
   - INS-260403-1A05
   - INS-260403-387D
   - INS-260405-2E0A
-  - INS-260403-22FE
+  - PRI-260406-E602
   - INS-260409-A239
 ---
 Graham (citing G.H. Hardy) argues that the most successful people across many fields tend to be slightly overconfident. This seems paradoxical — surely accurate self-knowledge is optimal — but it makes sense once you account for the systematic errors that bias in the opposite direction.

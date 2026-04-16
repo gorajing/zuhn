@@ -60,13 +60,14 @@ stance: >-
   strategic positioning.
 related:
   - INS-260323-F5EF
+  - INS-260403-2DB2
   - INS-260403-B7C6
   - INS-260405-AEA0
   - INS-260403-9A5D
   - INS-260330-C215
-  - PRI-260406-E602
   - PRI-260407-AF64
   - PRI-260328-EC3F
+  - PRI-260328-4CC0
 ---
 In Formula 1, teams constantly hunt rule-book loopholes, but most tactical edges get copied within a few races. Edges that buy a full season require a fundamental architectural bet (engine layout, gearbox). Edges that last multiple seasons — Mercedes' eight-year championship run, Adrian Newey's aerodynamic genius, Red Bull's rise under Newey — came from raw operational and engineering competency, not from strategic positioning the other teams couldn't access.
 

@@ -49,7 +49,6 @@ stance: >-
   of where venture capital conviction is concentrating, which founders should
   use to position or reposition their narratives.
 related:
-  - INS-260322-2647
   - INS-260403-D522
   - INS-260404-19C2
   - INS-260404-C189

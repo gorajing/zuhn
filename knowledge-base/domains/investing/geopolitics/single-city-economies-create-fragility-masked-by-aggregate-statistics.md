@@ -45,15 +45,12 @@ stance: >-
   GDP figures mask the structural decline of everywhere else, creating a
   politically unstable dual economy.
 related:
-  - INS-260325-0A8A
-  - INS-260325-D20D
-  - INS-260327-E2F2
-  - INS-260327-B2E3
-  - INS-260329-965A
-  - INS-260329-C34C
-  - INS-260327-B626
-  - INS-260327-9542
-  - INS-260329-7E0A
+  - INS-260321-9E91
+  - INS-260412-0BF3
+  - INS-260412-23A9
+  - INS-260324-1216
+  - INS-260405-2287
+  - INS-260403-8BE9
 evidence:
   - id: INS-260327-E2F2
     type: CHALLENGES

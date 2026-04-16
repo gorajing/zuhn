@@ -63,7 +63,7 @@ related:
   - PRI-260406-1A4D
   - PRI-260328-94D4
   - INS-260325-C5FD
-  - PRI-260406-E602
+  - PRI-260407-AF64
 ---
 Nvidia had nine months of cash and needed to ship an entirely new GPU from scratch — a process that normally took two years because physical prototypes had to be fabbed, tested, and iterated with a foundry. They bet a third of their cash on an unproven software emulator that ran at one frame every 30 seconds (versus 30-60 fps in real hardware), forcing engineers to debug by staring at a screen waiting for frames to render. They skipped physical prototypes entirely and went straight to mass production.
 

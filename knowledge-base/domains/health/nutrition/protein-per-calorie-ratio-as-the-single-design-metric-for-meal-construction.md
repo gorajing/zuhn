@@ -46,12 +46,12 @@ stance: >-
   other macros minimized produces better body composition outcomes than balanced
   macro distribution
 related:
-  - INS-260327-E2F1
   - INS-260327-A7F5
   - INS-260327-E728
   - INS-260327-AA4F
   - INS-260327-E2F2
   - INS-260327-3C60
+  - PRI-260328-D9D0
   - INS-260329-C34C
 evidence:
   - id: INS-260327-E2F1

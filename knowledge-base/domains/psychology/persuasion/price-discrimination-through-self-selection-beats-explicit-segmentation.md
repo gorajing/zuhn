@@ -49,7 +49,7 @@ related:
   - PRI-260405-EBC6
   - INS-260405-9EE6
   - PRI-260328-78A5
-  - PRI-260328-8F94
   - PRI-260328-FD90
+  - INS-260330-106F
 ---
 In 1952, airlines began selling identical seats on the same flight at different prices by attaching constraints (advance purchase, no flexibility) to cheaper tickets. This was brilliant because it made customers self-select: tourists, who plan ahead and don't need flexibility, naturally chose the discounted fare, while business travelers—who book last-minute and need flexibility—revealed their higher willingness to pay. No airline employee had to ask 'are you rich?' The constraints themselves acted as a filter. This self-selection mechanism is now ubiquitous in SaaS pricing (annual vs. monthly), entertainment (opening night vs. matinee), and commerce (full price vs. sale). The key design principle is that the constraint must correlate with willingness to pay without feeling punitive—it should feel like a natural tradeoff, not a penalty.

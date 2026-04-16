@@ -67,7 +67,7 @@ related:
   - INS-260409-94F8
   - INS-260409-4FEB
   - INS-260409-C768
-  - PRI-260406-E602
+  - PRI-260407-AF64
 ---
 When asked what levers Uber has if it doesn't set prices (the marketplace does), Dara pointed to ML-driven matching and pricing improvements that lift throughput roughly 5% per year, on top of an increasingly large base. This is free growth that scales with the data advantage—Uber runs 2 billion transactions per quarter, giving them experimentation capacity no competitor can match.
 

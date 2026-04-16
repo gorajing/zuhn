@@ -45,7 +45,6 @@ stance: >-
   The most successful accelerator cohorts will increasingly favor cybersecurity,
   industrial, and B2B solutions over consumer or speculative technology bets.
 related:
-  - INS-260321-9E91
   - INS-260322-5F87
   - INS-260327-7B2B
   - INS-260327-368D
@@ -55,6 +54,7 @@ related:
   - INS-260405-B6CB
   - INS-260404-78E0
   - INS-260404-2CA6
+  - INS-260404-D7E0
 ---
 Analysis of 5 years of YC investing patterns by Tomasz Tunguz reveals a clear directional shift: YC is backing cybersecurity, industrial/manufacturing, and B2B solutions at increasing rates. AI-focused companies within these batches raise slightly more capital, but the broader signal is a move toward solving tangible, real-world problems.
 

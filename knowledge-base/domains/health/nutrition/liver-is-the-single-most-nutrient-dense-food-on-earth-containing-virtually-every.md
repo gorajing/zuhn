@@ -45,7 +45,7 @@ related:
   - PRI-260325-654D
   - INS-260327-118C
   - INS-260327-5E7F
-  - INS-260327-E2F1
+  - INS-260327-E2F2
 evidence:
   - id: INS-260327-E2F1
     type: TRANSFERS_TO

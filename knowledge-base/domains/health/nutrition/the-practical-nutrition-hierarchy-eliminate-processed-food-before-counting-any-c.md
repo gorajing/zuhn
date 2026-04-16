@@ -51,13 +51,14 @@ stance: >-
   most dietary problems before any calorie counting, macro tracking, or
   supplementation becomes relevant.
 related:
+  - INS-260325-0A8A
   - INS-260325-D20D
-  - INS-260327-E2F1
   - INS-260327-B626
+  - INS-260327-9542
   - INS-260327-B2E3
   - INS-260329-965A
-  - INS-260329-C34C
   - INS-260329-7E0A
+  - INS-260329-C34C
 evidence:
   - id: INS-260327-E2F1
     type: CHALLENGES

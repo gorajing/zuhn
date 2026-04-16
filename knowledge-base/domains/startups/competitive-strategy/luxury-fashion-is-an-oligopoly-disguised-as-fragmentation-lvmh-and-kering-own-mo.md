@@ -47,8 +47,8 @@ related:
   - INS-260327-61AE
   - INS-260410-F681
   - INS-260403-5554
+  - PRI-260406-842D
   - INS-260410-ABFF
-  - INS-260329-C0F1
   - INS-260405-C5B4
 stance: >-
   Buy Alexander McQueen sneakers, a Gucci jacket, and a YSL bag from 3

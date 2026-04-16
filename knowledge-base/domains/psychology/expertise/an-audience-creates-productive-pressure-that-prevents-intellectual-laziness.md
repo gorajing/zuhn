@@ -48,7 +48,6 @@ stance: >-
   because the social accountability prevents you from drifting off at the hard
   parts.
 related:
-  - INS-260323-D060
   - INS-260330-5B0C
   - INS-260404-F227
   - INS-260327-5B13

@@ -52,10 +52,10 @@ stance: >-
   the same tools.
 related:
   - INS-260322-3C3D
-  - PRI-260406-E602
   - PRI-260407-AF64
   - INS-260321-2D72
   - INS-260403-2DB2
+  - INS-260402-55FB
 evidence:
   - id: INS-260329-D48B
     type: SUPPORTS

@@ -49,10 +49,9 @@ stance: >-
   maximize margins are recreating the exact conditions that drove piracy in the
   first place.
 related:
-  - INS-260403-F5EE
   - INS-260327-77C7
+  - INS-260403-F5EE
   - PRI-260328-78A5
-  - PRI-260328-8F94
   - INS-260403-4C4E
   - INS-260330-7882
 ---

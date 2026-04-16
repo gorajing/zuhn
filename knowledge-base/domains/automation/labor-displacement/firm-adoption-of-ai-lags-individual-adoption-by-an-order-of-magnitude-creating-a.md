@@ -67,6 +67,7 @@ related:
   - INS-260413-D96C
   - INS-260403-8EF3
   - INS-260403-E4C7
+  - INS-260327-E2F1
 ---
 Adoption metrics split cleanly into two populations: individuals experimenting with AI tools and firms restructuring production around them. These two populations are currently in very different places. The majority of American adults have used AI in some form, yet fewer than one in ten businesses have meaningfully embedded AI into their operational workflows. This gap creates a misleading signal: because productivity impacts at the labor market level require firm-level integration, not individual experimentation, the disruption appears mild when it is actually deferred.
 

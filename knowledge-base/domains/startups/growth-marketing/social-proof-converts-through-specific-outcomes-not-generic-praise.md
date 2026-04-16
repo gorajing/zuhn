@@ -57,8 +57,8 @@ related:
   - INS-260322-3C3D
   - INS-260329-7B56
   - INS-260403-6CE6
+  - PRI-260406-E602
   - INS-260404-405A
-  - INS-260403-508D
 ---
 Social proof can lift conversions 20-30% when placed strategically, but the format matters enormously. 'Love the product!' from 'Happy Customer, Stealth Mode' converts essentially zero. Compare to: 'We cut onboarding time from 10 days to 2, and support tickets dropped by half — Jamie Talbot, VP Product @ Fieldly.' The second works because it maps directly to a promised benefit with a real person staking their reputation on the claim.
 

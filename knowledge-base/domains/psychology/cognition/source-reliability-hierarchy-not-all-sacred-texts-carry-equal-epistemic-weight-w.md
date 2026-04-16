@@ -51,10 +51,10 @@ stance: >-
   monolithic miss the built-in quality filters.
 related:
   - INS-260323-15F4
+  - PRI-260406-E602
   - INS-260327-32F1
   - INS-260403-6908
   - INS-260412-8AB6
-  - PRI-260403-CCBC
 evidence:
   - id: INS-260325-24D1
     type: REFINES

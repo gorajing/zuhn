@@ -56,6 +56,7 @@ related:
   - PRI-260406-430A
   - INS-260410-992A
   - INS-260412-851F
+  - PRI-260406-E602
 ---
 Dr. Ruja genuinely had a PhD, attended Oxford, and worked at McKinsey — all verifiable and impressive. She then placed a paid advertisement in Forbes Bulgaria that was presented as a front-page feature. The real credentials created a halo effect that made the fabricated ones seem plausible — who would question a Forbes cover when the person actually has an Oxford PhD? This is more dangerous than pure fabrication because partial verification ('she really did go to Oxford') reinforces belief in the unverified parts.
 

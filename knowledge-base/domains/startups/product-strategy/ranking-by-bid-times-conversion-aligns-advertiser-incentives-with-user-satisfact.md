@@ -49,6 +49,6 @@ related:
   - INS-260409-4FEB
   - PRI-260328-6A8D
   - PRI-260328-78A5
-  - PRI-260328-8F94
+  - INS-260329-CBF6
 ---
 Pure bid-based ranking lets well-funded but low-quality sites dominate results, destroying user trust. Pure relevance-based ranking ignores commercial intent entirely. Revenue Loop's insight was that multiplying bids by transaction count creates a composite signal where the highest-ranked results are both commercially valuable and genuinely useful — because transactions are the strongest signal of user satisfaction. This principle extends beyond search to any marketplace or platform where you must rank competing suppliers: the product that generates the most value (measured by actual user behavior, not self-reported quality) should rank highest. The key design insight is finding metrics where platform revenue and user utility are mathematically coupled rather than traded off.

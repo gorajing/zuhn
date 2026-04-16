@@ -52,9 +52,9 @@ stance: >-
 related:
   - PRI-260405-D586
   - INS-260403-22FE
+  - PRI-260406-E602
   - PRI-260323-8EEA
   - PRI-260405-262B
-  - PRI-260407-2E0F
 ---
 When collecting evidence to validate a problem statement, Rachitsky recommends explicitly playing devil's advocate: try to convince yourself the problem isn't real or important enough. This surfaces gaps in your evidence and tests whether data points actually support the conclusion you've drawn. The recommendation for 3-5 strong data points over a dozen weak ones reflects the same principle — padding your case with tangential evidence actually weakens it by creating an illusion of rigor.
 

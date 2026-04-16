@@ -54,8 +54,8 @@ related:
   - INS-260323-04D4
   - INS-260403-62DB
   - INS-260403-C37D
+  - PRI-260406-E602
   - INS-260404-32C5
-  - INS-260330-D066
 ---
 Scott Alexander's detailed response to a Harper's article about Bay Area AI culture illustrates how journalism distorts without lying. The article described him murmuring to himself about crackers—omitting that he was speaking to his two-year-old child. It called his friends 'acolytes.' It framed his quotes about AI agents' difficulties as agreement that 'AI was hitting a wall,' which he explicitly did not believe.
 

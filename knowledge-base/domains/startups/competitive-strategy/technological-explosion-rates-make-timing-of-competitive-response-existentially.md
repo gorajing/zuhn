@@ -54,7 +54,7 @@ related:
   - INS-260403-A1FA
   - PRI-260328-94D4
   - INS-260403-CAAB
-  - PRI-260406-E602
   - PRI-260407-AF64
+  - PRI-260328-4CC0
 ---
 The video's illustration of military technology leaps — Caesar's legions vs. Napoleon's cannons vs. modern drones — maps directly to startup competition in fast-moving tech sectors. A competitor with even a modest head start in a compounding domain (AI, network effects, data flywheels) can reach a capability level where catching up becomes structurally impossible, not just difficult. This is why competitive intelligence and rapid response matter disproportionately in exponential-growth markets. The window between 'we could still compete' and 'it's too late' can be shockingly narrow, and the asymmetry grows non-linearly. The practical implication: monitor competitors' capability trajectories, not just their current market position, and treat accelerating capability gaps as existential signals rather than incremental threats.

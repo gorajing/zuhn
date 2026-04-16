@@ -54,7 +54,6 @@ stance: >-
   the speed of labor substitution.
 related:
   - INS-260405-4F2B
-  - INS-260405-7624
   - INS-260413-6CE0
   - INS-260405-8532
   - INS-260403-7825

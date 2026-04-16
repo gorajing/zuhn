@@ -51,11 +51,11 @@ stance: >-
   shifting the baseline of acceptable discourse rather than maintaining the
   original shock response.
 related:
+  - PRI-260406-E602
   - INS-260330-795D
   - PRI-260406-20FD
   - INS-260403-6E11
   - PRI-260406-C1EF
-  - PRI-260405-262B
   - INS-260330-CDE1
   - INS-260403-963B
 evidence:

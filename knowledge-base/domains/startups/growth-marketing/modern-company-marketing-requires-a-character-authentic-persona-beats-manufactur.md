@@ -49,9 +49,9 @@ resolutions:
 related:
   - INS-260327-37C8
   - INS-260323-4DD9
+  - PRI-260328-8F94
   - INS-260327-735A
   - INS-260403-1B0D
-  - PRI-260323-50FE
 stance: >-
   You can't market a company without a character, but the character must be real
   and sustainable — manufactured personas always collapse over time.

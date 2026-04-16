@@ -52,7 +52,7 @@ related:
   - PRI-260407-00A1
   - INS-260330-E68E
   - INS-260409-2CE9
-  - INS-260325-F707
+  - PRI-260406-E602
 ---
 The claim that 'nobody can last 45 minutes in the world's quietest room' was repeated by major media outlets and shared millions of times despite having no scientific basis. The myth persisted because it activated multiple cognitive biases simultaneously: it was dramatic (availability heuristic), it confirmed our intuition that silence is 'unnatural' (confirmation bias), and the source — an anechoic chamber at a real lab — lent false authority.
 

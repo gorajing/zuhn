@@ -56,12 +56,11 @@ stance: >-
   analyzing which ones a company affects reveals its true source of competitive
   advantage.
 related:
-  - INS-260411-CCB2
   - INS-260411-4967
+  - PRI-260328-8F94
   - PRI-260406-1F31
   - PRI-260406-91C2
   - PRI-260406-CA93
-  - INS-260329-CEC5
 ---
 Oberholzer-Gee's value stick provides a complete decomposition: Willingness to Pay (WTP) minus Price equals consumer surplus; Price minus Cost equals firm value capture; Cost minus Willingness to Sell (WTS) equals supplier surplus. A firm creates value by increasing WTP (via network effects, complements, products/services) or lowering WTS (via data sharing, productivity, employee relations). The critical insight is that companies should focus on raising WTP rather than just raising prices -- pricing power is a consequence of WTP expansion, not a strategy in itself.
 

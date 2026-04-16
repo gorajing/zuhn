@@ -46,11 +46,11 @@ stance: >-
   primary driver of 90% of chronic disease including obesity type 2 diabetes and
   fatty liver.
 related:
-  - INS-260327-E2F1
   - INS-260327-E2F2
   - INS-260327-F06B
   - PRI-260325-4FD3
   - INS-260322-D051
+  - PRI-260328-AF97
   - INS-260327-9B97
 evidence:
   - id: INS-260327-E2F1

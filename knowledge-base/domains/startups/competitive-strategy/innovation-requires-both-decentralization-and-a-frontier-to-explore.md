@@ -49,10 +49,10 @@ stance: >-
   Valley) always combine decentralized competing entities with an unexplored
   frontier, and when either condition disappears, innovation stagnates
 related:
-  - PRI-260406-842D
   - PRI-260407-3BD9
   - INS-260405-225B
   - INS-260330-DD63
   - PRI-260406-0EC6
+  - PRI-260328-0123
 ---
 The historical pattern is consistent: Athenian city-states, Italian Renaissance city-states, and early America all combined decentralized competing polities with frontiers (intellectual or physical). Silicon Valley was the frontier until it became the establishment. The argument extends to why authoritarian systems like China can scale existing ideas but not generate new ones — graduating 50,000 physics PhDs trained to memorize textbooks will never match 10 creative independent thinkers, because creativity goes from zero to one and no amount of scale substitutes. The practical implication for founders: seek the current frontier (crypto, AI, space) and embrace its chaos. Wild West frontiers always attract scammers and weirdness, but that's the price of the freedom needed for genuine innovation. Steve Jobs today wouldn't survive at a modern Silicon Valley company — he'd be in crypto or some other frontier where there's still space to be different.

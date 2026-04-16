@@ -56,9 +56,9 @@ stance: >-
 related:
   - PRI-260406-901E
   - PRI-260328-4CC0
-  - PRI-260406-E602
   - PRI-260407-AF64
   - PRI-260407-40F9
+  - INS-260405-7838
 ---
 Web2 PM career ladders reward strategic thinking and long-term vision-setting as the path to seniority. But in web3 and other nascent markets where new protocols launch daily and fundamental paradigms shift in weeks, the half-life of any strategic vision is shorter than the time needed to execute on it. Jason Shah observed that no web3 PM writes vision documents—vision lives in technical whitepapers by protocol architects.
 

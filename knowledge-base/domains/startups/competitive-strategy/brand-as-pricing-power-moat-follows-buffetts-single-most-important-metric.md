@@ -46,7 +46,6 @@ stance: >-
   most reliable indicator of business quality.
 related:
   - INS-260322-2647
-  - INS-260324-1CC8
   - INS-260327-C9A3
   - INS-260327-538E
   - INS-260327-2A58
@@ -55,6 +54,7 @@ related:
   - INS-260329-4B45
   - INS-260329-D5FF
   - INS-260402-C883
+  - INS-260327-82AA
 evidence:
   - id: INS-260322-2647
     type: SUPPORTS

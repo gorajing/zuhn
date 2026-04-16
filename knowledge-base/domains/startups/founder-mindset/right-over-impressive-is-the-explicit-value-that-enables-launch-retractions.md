@@ -47,9 +47,9 @@ stance: >-
   impressive sustain credibility that overclaiming at launch cannot.
 related:
   - INS-260409-42F7
+  - PRI-260406-E602
   - INS-260403-B374
   - INS-260403-832E
   - INS-260403-C695
-  - INS-260405-2E0A
 ---
 Most product launches over-promise because the incentive gradient rewards impressive numbers on launch day and punishes boring-but-accurate ones. The MemPalace maintainers made the opposite choice explicit in their April 7 2026 correction: 'we'd rather be right than impressive.' Noteworthy because this is not a post-hoc rationalization — they stated it as a principle while actively retracting claims that would have otherwise driven more launch adoption. The value choice is available to anyone but almost no one picks it in commercial launches, which is why open-source self-corrections are disproportionately concentrated in projects whose maintainers have already chosen this frame. Useful as a durable founder-mindset principle about long-term credibility arbitrage.

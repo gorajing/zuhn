@@ -54,10 +54,11 @@ stance: >-
   library than specializing deeply in one domain.
 related:
   - INS-260403-2DB2
+  - INS-260329-E8EB
   - PRI-260328-49CB
-  - PRI-260406-E602
   - PRI-260407-AF64
   - PRI-260409-0156
+  - INS-260410-D3D8
 ---
 Gil's path from Google (hypergrowth at scale) to Mixer Labs (founder in a platform shift) to Twitter (executive in organizational chaos) to Color (regulated market grind) didn't look like a straight line, but each role added a distinct layer of pattern recognition. The Google era taught how decisions age under scale, Mixer Labs taught platform-shift timing, Twitter taught distinguishing surface activity from structural health, and Color taught navigating regulatory friction and long capital cycles.
 
