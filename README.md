@@ -38,37 +38,97 @@ Result:  Retrieves the principle + 5 supporting insights from 4 different
 
 One essay becomes searchable knowledge that connects to everything else you've ingested.
 
-## Start Fresh (5 minutes)
+## Start Here (5 minutes)
+
+**Prerequisites:** Node.js 20+, npm.
+
+### Install
 
 ```bash
 git clone https://github.com/gorajing/zuhn.git && cd zuhn
 npm install
+```
 
-# Remove the example knowledge base and create your own
+### Create your knowledge base
+
+The repo includes a live reference corpus (~11k insights) as both proof-of-concept and working example. If you want your own clean knowledge base instead of the bundled reference corpus:
+
+```bash
 rm -rf knowledge-base
-npx tsx scripts/init.ts
+node --import tsx scripts/init.ts
+```
 
-# Optional: Ollama for semantic search (recommended)
-ollama pull nomic-embed-text
+This creates an empty knowledge base with a bundled sample source — a short essay you can extract from immediately, no network required.
 
-# Ingest your first source
+### Extract your first insights
+
+Open [Claude Code](https://docs.anthropic.com/en/docs/claude-code) in the zuhn directory and say:
+
+```
+extract insights from SRC-000000-DEMO
+```
+
+Claude reads the sample source, writes structured JSON, and runs `extract.ts` — your first insights land in the knowledge base. Extraction works with Claude Code or any LLM that can produce schema-valid JSON (see [CLAUDE.md](CLAUDE.md#extraction-json-format) for the format).
+
+You can delete the demo source after your first successful extraction.
+
+### Search what you know
+
+```bash
+npm run search "spacing effect"
+```
+
+Three steps: **init → extract → search.** Everything else builds on top.
+
+> **Note:** If `npm run` commands fail with tsx-related errors in restrictive environments (Docker, sandboxed shells), use `node --import tsx scripts/<name>.ts` as a fallback.
+
+---
+
+### What requires what
+
+| Feature | LLM (Claude recommended) | Ollama | Network |
+|---------|:------------------------:|:------:|:-------:|
+| Create KB and extract insights | Yes | — | — |
+| Keyword search | — | — | — |
+| Semantic (hybrid) search | — | Yes | — |
+| Ingest URLs (YouTube, blogs, PDFs) | — | — | Yes |
+| Learning mechanisms (`npm run learn`) | — | Yes | — |
+| Decision briefs (MCP) | — | — | — |
+| Autonomous daemon | Yes | Yes | Yes |
+
+### Optional: Semantic search
+
+Zuhn defaults to keyword search (SQLite FTS5). For hybrid keyword + semantic search, install [Ollama](https://ollama.com/download):
+
+```bash
+ollama serve                    # Start the server
+ollama pull nomic-embed-text    # Download the embedding model (768 dims)
+npm run embed                   # Embed your existing insights
+```
+
+Without Ollama, everything works — search returns keyword-only results.
+
+### Optional: URL ingestion
+
+Feed Zuhn any URL — YouTube, blogs, Reddit, PDFs:
+
+```bash
 npm run ingest https://youtu.be/your-video-id
-#   → downloads transcript, creates source file, prints source ID (SRC-XXXXXX-XXXX)
+npm run ingest https://example.com/interesting-article
+npm run ingest path/to/local/file.pdf
 ```
 
-**Extraction:** Open Claude Code in the Zuhn directory and say *"extract insights from SRC-XXXXXX-XXXX"*. Claude reads the source, writes structured JSON, and runs `extract.ts` — which validates via Zod and creates insight files. Or do it manually:
+YouTube requires [yt-dlp](https://github.com/yt-dlp/yt-dlp). PDF ingestion is local (no network after download).
+
+### Optional: Autonomous mode
+
+The daemon watches an inbox, extracts insights, red-teams beliefs, and scouts evidence:
 
 ```bash
-# Write extraction JSON (Claude does this for you in conversation)
-npx tsx scripts/extract.ts --source SRC-XXXXXX-XXXX --file /tmp/zuhn-extract.json --post-ingest
+npm run daemon:start
 ```
 
-```bash
-# Search your knowledge
-npm run search "your query"
-```
-
-Three commands: **ingest → extract → search.** Everything else builds on top.
+Requires Claude API key + Ollama running. See [inbox setup](docs/inbox-setup.md) for configuration.
 
 ## What It Does
 

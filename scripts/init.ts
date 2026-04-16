@@ -1,11 +1,11 @@
-#!/usr/bin/env npx tsx
+#!/usr/bin/env -S node --import tsx
 
 /**
  * Initialize a fresh Zuhn knowledge base.
  * Run this after cloning the repo to create an empty KB structure
  * without any existing knowledge content.
  *
- * Usage: npx tsx scripts/init.ts [--force]
+ * Usage: node --import tsx scripts/init.ts [--force]
  *   --force  Overwrite existing knowledge-base directory
  */
 
@@ -150,11 +150,32 @@ for (const dir of gitkeepDirs) {
   writeFileSync(join(KB_ROOT, dir, ".gitkeep"), "");
 }
 
+// ─── Bundled sample source ──────────────────────────────────────────
+const sampleSource = `---
+id: SRC-000000-DEMO
+type: paste
+title: 'The Spacing Effect: Why Distributed Practice Beats Cramming'
+date_ingested: '${new Date().toISOString().slice(0, 10)}'
+insight_count: 0
+word_count: 195
+---
+Research consistently shows that distributed practice dramatically outperforms massed practice for long-term retention. Students who space their study sessions across multiple days retain two to three times more material than those who cram the same total hours into a single session.
+
+The mechanism appears to be retrieval difficulty: when you revisit material after a delay, the slight effort of recalling it strengthens the memory trace. This is counterintuitive because spaced practice feels harder and less productive in the moment, even though it produces superior long-term results.
+
+The spacing effect applies beyond academic study. Companies that ship features in small, frequent releases build more institutional knowledge than those shipping large quarterly releases. Musicians who practice scales for ten minutes daily improve faster than those who practice seventy minutes once a week.
+
+The optimal spacing interval grows with expertise: beginners benefit from daily review, while experts may need only monthly refreshers. The Leitner system exploits this by sorting flashcards into boxes with increasing review intervals based on recall accuracy.
+
+One practical implication: if you can only do one thing to improve learning, don't change what you study — change when you study it.
+`;
+writeFileSync(join(KB_ROOT, "sources/paste/sample-spacing-effect.md"), sampleSource);
+console.log("  write sources/paste/sample-spacing-effect.md (SRC-000000-DEMO)");
+
 console.log("\n✓ Knowledge base initialized.");
 console.log("\nNext steps:");
-console.log("  1. npm install");
-console.log("  2. ollama pull nomic-embed-text    (optional, for semantic search)");
-console.log("  3. npm run ingest <youtube-url>     (ingest your first source)");
-console.log("  4. Extract insights with Claude, then run:");
-console.log("     npx tsx scripts/extract.ts --source SRC-XXXXXX-XXXX --file /tmp/zuhn-extract.json --post-ingest");
+console.log("  1. Open Claude Code and say: extract insights from SRC-000000-DEMO");
+console.log("  2. npm run search \"spacing effect\"");
+console.log("  3. Optional: ollama pull nomic-embed-text (for semantic search)");
+console.log("  4. Optional: npm run ingest <url> (YouTube, blogs, PDFs)");
 console.log("");
