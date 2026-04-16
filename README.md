@@ -128,7 +128,7 @@ The daemon watches an inbox, extracts insights, red-teams beliefs, and scouts ev
 npm run daemon:start
 ```
 
-Requires Claude API key + Ollama running. See [inbox setup](docs/inbox-setup.md) for configuration.
+Requires Claude Code + Ollama running. See [inbox setup](docs/inbox-setup.md) for configuration.
 
 ## What It Does
 
