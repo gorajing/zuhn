@@ -23,6 +23,7 @@ import { writeFile, mkdir, unlink, rename } from "node:fs/promises";
 import { join, extname } from "node:path";
 import { initDb } from "./lib/db";
 import { generateInsightId } from "./lib/generate-id";
+import { getDaemonStep } from "./lib/daemon-routing";
 import type Database from "better-sqlite3";
 
 // ─── Configuration ──────────────────────────────────────────────────
@@ -243,38 +244,33 @@ async function processItem(item: InboxItem): Promise<void> {
   if (shuttingDown) return;
 
   try {
-    switch (item.status) {
-      case "pending":
+    switch (getDaemonStep(item)) {
+      case "prefilter":
         await stepPrefilter(item);
         break;
-      case "ingesting":
+      case "ingest":
         await stepIngest(item);
         break;
-      case "extracting":
+      case "extract":
         await stepExtract(item);
         break;
-      case "extracting_a":
-        if (!item.agent_a_file) {
-          await stepExtractA(item);
-        } else {
-          await stepExtractB(item);
-        }
+      case "extract_a":
+        await stepExtractA(item);
         break;
-      case "extracting_b":
+      case "extract_b":
+        await stepExtractB(item);
+        break;
+      case "merge":
         await stepMerge(item);
         break;
-      case "merging":
+      case "verify":
         await stepVerify(item);
         break;
-      case "verifying":
+      case "deep_read":
         await stepDeepRead(item);
         break;
-      case "deep_reading":
+      case "commit":
         await stepCommit(item);
-        break;
-      // Fast mode states
-      case "extracting":
-        await stepCommitFast(item);
         break;
     }
   } catch (err: unknown) {
@@ -449,10 +445,10 @@ Do NOT run extract.ts — just write the JSON file.`;
   const result = await spawnOpusAgent(item.id, prompt);
 
   if (result.success) {
-    updateStatus(item.id, "merging", {
+    updateStatus(item.id, "extracting_b", {
       agent_b_file: `/tmp/zuhn-extract-B-${item.source_id}.json`,
     });
-    await log("INFO", `Agent B complete for ${item.id}.`);
+    await log("INFO", `Agent B complete for ${item.id}. Proceeding to merge.`);
   } else if (result.output.startsWith("RATE_LIMITED")) {
     await sleep(backoffSeconds * 1000);
     backoffSeconds = Math.min(backoffSeconds * 2, 900);
@@ -515,10 +511,10 @@ Use the same JSON format as the input files. Output the merged JSON only.`;
   const result = await spawnOpusAgent(item.id, prompt);
 
   if (result.success) {
-    updateStatus(item.id, "verifying", {
+    updateStatus(item.id, "merging", {
       merged_file: `/tmp/zuhn-extract-merged-${item.source_id}.json`,
     });
-    await log("INFO", `Merge complete for ${item.id}.`);
+    await log("INFO", `Merge complete for ${item.id}. Proceeding to verify.`);
   } else if (result.output.startsWith("RATE_LIMITED")) {
     await sleep(backoffSeconds * 1000);
     backoffSeconds = Math.min(backoffSeconds * 2, 900);
@@ -554,7 +550,7 @@ Report: N insights passed, M fixed, K flagged.`;
 
     // Check if priority warrants deep read
     if (item.priority_score > 8) {
-      updateStatus(item.id, "deep_reading", { insights_extracted: count });
+      updateStatus(item.id, "verifying", { insights_extracted: count });
       await log("INFO", `Verified ${item.id}: ${count} insights. Proceeding to deep read.`);
     } else {
       updateStatus(item.id, "committed", { insights_extracted: count });
@@ -605,10 +601,10 @@ Be selective — only flag genuinely surprising or high-value findings.`;
   const result = await spawnOpusAgent(item.id, prompt);
 
   if (result.success) {
-    updateStatus(item.id, "committed", {
+    updateStatus(item.id, "deep_reading", {
       deep_read_findings: `/tmp/zuhn-deep-read-${item.source_id}.json`,
     });
-    await log("INFO", `Deep read complete for ${item.id}.`);
+    await log("INFO", `Deep read complete for ${item.id}. Proceeding to commit.`);
 
     // Append findings to meta/inbox-deep-reads.json
     try {
@@ -643,11 +639,6 @@ async function stepCommit(item: InboxItem): Promise<void> {
   await log("INFO", `✓ ${item.id} fully committed (heavy mode, ${item.insights_extracted} insights).`);
 }
 
-async function stepCommitFast(item: InboxItem): Promise<void> {
-  updateStatus(item.id, "committed");
-  await log("INFO", `✓ ${item.id} committed (fast mode).`);
-}
-
 // ─── Main Loop ──────────────────────────────────────────────────────
 
 function sleep(ms: number): Promise<void> {
@@ -660,12 +651,6 @@ async function processQueue(): Promise<void> {
 
   const item = getNextPending();
   if (!item) return;
-
-  // Handle extracting_a state (needs to call stepExtractA, not processItem's switch)
-  if (item.status === "extracting_a" && !item.agent_a_file) {
-    await stepExtractA(item);
-    return;
-  }
 
   await processItem(item);
 }
@@ -807,7 +792,7 @@ async function writeStatus(): Promise<void> {
     .get() as { n: number };
   const processing = db
     .prepare(
-      "SELECT COUNT(*) as n FROM inbox_queue WHERE status IN ('extracting_a','extracting_b','extracting','merging','verifying','deep_reading','pre_filtering','ingesting')"
+      "SELECT COUNT(*) as n FROM inbox_queue WHERE status IN ('extracting_a','extracting_b','extracting','merging','verifying','deep_reading','ingesting')"
     )
     .get() as { n: number };
   const committed = db
