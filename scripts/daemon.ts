@@ -24,6 +24,7 @@ import { join, extname } from "node:path";
 import { initDb } from "./lib/db";
 import { generateInsightId } from "./lib/generate-id";
 import { getDaemonStep } from "./lib/daemon-routing";
+import { isStubBody, STUB_BODY_THRESHOLD } from "./lib/stub-body";
 import type Database from "better-sqlite3";
 
 // ─── Configuration ──────────────────────────────────────────────────
@@ -372,6 +373,21 @@ async function stepIngest(item: InboxItem): Promise<void> {
   const wordCount = wordMatch
     ? parseInt((wordMatch[1] || wordMatch[2] || wordMatch[3]).replace(/,/g, ""), 10)
     : null;
+
+  // Stub-body guardrail: PDFs and Reddit posts can arrive with empty bodies
+  // (paywalled, scanned, link-only). Filter them before they consume an extraction agent.
+  if (isStubBody(item.type, wordCount)) {
+    await log(
+      "WARN",
+      `${item.id} has stub body (${wordCount} words for ${item.type}). Filtering before extraction.`
+    );
+    updateStatus(item.id, "filtered", {
+      source_id: sourceId,
+      word_count: wordCount,
+      last_error: `Stub body: ${wordCount} words below ${STUB_BODY_THRESHOLD}-word threshold for ${item.type}`,
+    });
+    return;
+  }
 
   // Determine processing mode
   let mode = item.processing_mode;
