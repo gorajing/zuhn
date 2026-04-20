@@ -6,7 +6,7 @@ title: >-
   Success is mostly random within a quality band — Music Lab proves luck is
   invisible from inside
 actionability: reference
-confidence: high
+confidence: very_high
 shelf_life: evergreen
 status: active
 tags:
@@ -81,6 +81,7 @@ evidence:
   - id: INS-260405-D66B
     type: SUPPORTS
     classified_at: '2026-04-06'
+empirical_state: confirmed
 ---
 Columbia sociologist Duncan Watts created an artificial music market with 14,000 participants and 48 songs by unknown bands. In the independent control group, people rated songs purely on quality. But in socially-influenced groups where download counts were visible, the same song could rank anywhere from #1 to #40 depending on random early momentum.
 

@@ -6,7 +6,7 @@ title: >-
   Nonconformist people generate unique ideas naturally while
   consensus-calibrators struggle
 actionability: reference
-confidence: medium
+confidence: high
 shelf_life: evergreen
 status: active
 tags:
@@ -75,5 +75,6 @@ evidence:
   - id: INS-260403-B6FD
     type: SUPPORTS
     classified_at: '2026-04-06'
+empirical_state: confirmed
 ---
 There's a personality-level division in startup ideation: naturally nonconformist, quirky people don't need help coming up with unique ideas — society actually tells them to shut up about their ideas, and their problem is filtering which unique idea to pursue. Meanwhile, people who excel at calibrating and triangulating consensus — a skill that serves well in most careers — have the hardest time with unique ideation because conformity has been trained into them. Paul Graham exemplifies this: he was a weird guy with no investor training who built YC from first principles because he made something he wished existed as a founder. The tech world's increasing attractiveness to non-weird people may be making this dynamic worse.

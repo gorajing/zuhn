@@ -4,7 +4,7 @@ domain: psychology
 topic: perception
 title: Best creative work comes from doing what you genuinely believe in
 actionability: reference
-confidence: high
+confidence: very_high
 shelf_life: evergreen
 status: active
 tags:
@@ -78,6 +78,7 @@ evidence:
   - id: INS-260403-A360
     type: EXTENDS
     classified_at: '2026-04-06'
+empirical_state: confirmed
 ---
 Stan Lee's distillation of creative fulfillment has three components: doing what you want to do, doing it the way you think it should be done, and being able to look at it afterward and say 'I did that and I think it is pretty damn good.' This is not about ignoring feedback or being stubborn — Lee was responsive to what worked. It is about the starting point being internal conviction rather than external validation.
 

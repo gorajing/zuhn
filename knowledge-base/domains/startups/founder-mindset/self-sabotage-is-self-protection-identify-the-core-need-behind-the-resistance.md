@@ -6,7 +6,7 @@ title: >-
   Self-sabotage is self-protection — identify the core need behind the
   resistance
 actionability: immediate
-confidence: high
+confidence: very_high
 shelf_life: evergreen
 status: active
 tags:
@@ -66,6 +66,7 @@ evidence:
   - id: INS-260404-375E
     type: EXTENDS
     classified_at: '2026-04-06'
+empirical_state: confirmed
 ---
 When entrepreneurs procrastinate, perfectionism-loop, or avoid visibility, the behavior is not laziness — it is an unconscious survival mechanism protecting the ego from rejection, failure, or even success. The framework from Brianna Wiest distinguishes 'core commitments' (what you think you need — e.g., control, validation, perfection) from 'core needs' (the actual antidote — e.g., self-trust, self-acceptance, being accepted as imperfect).
 

@@ -2,6 +2,7 @@
 
 - `INS-260403-EE02` Menlo Ventures finds 61% of US adults use AI but only 3% pay, revealing an enormous monetization gap that defines the AI business model challenge.
 - `INS-260327-C7D5` One 60-minute daily workflow — script rewrite, AI voiceover, AI image generation, AI video conversion, CapCut editing — produces Shorts that earn $2K+ on good days.
+- `INS-260321-F0DF` TikTok Live has massive viewer supply but low creator supply — musicians going live regularly earn $10K+/month from TikTok payments while building thousands of followers per week.
 - `INS-260403-2E0F` The best AI business model isn't charging for efficiency — it's using efficiency as a wedge to participate in the downstream transaction and capture a share of the value created.
 - `INS-260405-94A0` OSS is not free software without monetization — it is a distribution and ecosystem strategy that enables diverse commercial models on top.
 - `INS-260403-401F` AI companies need usage-based pricing that kicks in fast because generous free tiers burn cash at a rate that SaaS free tiers never did.
@@ -19,6 +20,5 @@
 - `INS-260330-80A7` Vine died because it couldn't pay creators — when top Viners demanded $1.2M each annually and Twitter refused, they left, triggering a death spiral that killed the platform within two years.
 - `INS-260403-3656` Stripping live ops from a successful game would lose roughly 40% of revenue — yet most non-game companies don't invest in equivalent continuous content operations.
 - `INS-260410-00F0` 'Organize the world's information and make it universally accessible and useful' was genius because it was broad enough to scale for 25+ years, altruistic enough to recruit generational engineering talent, and tautologically monetizable — anyone who organizes information for hundreds of millions of people can monetize intent.
-- `INS-260321-F0DF` TikTok Live has massive viewer supply but low creator supply — musicians going live regularly earn $10K+/month from TikTok payments while building thousands of followers per week.
 - `INS-260402-D8E7` Pretty much 100% of startups that make something popular manage to make money from it.
 - `INS-260403-3739` Validating that customers will pay for a solution is a stricter and more predictive test than just confirming they have the problem.

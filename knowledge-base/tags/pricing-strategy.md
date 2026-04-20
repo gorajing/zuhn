@@ -23,8 +23,8 @@
 - `INS-260412-BA74` Real Graphene's CEO explicitly stated graphene batteries would trickle down from higher-end devices first, using premium willingness-to-pay to absorb the 30% cost premium while scaling manufacturing.
 - `INS-260327-F0B2` Systems of record like Salesforce must choose: charge for data and give away agentic workflows, or charge for workflows and make data storage free.
 - `INS-260330-0C96` Being the entry-level option lets you grow into the market while incumbents get squeezed from below.
-- `INS-260329-F6E1` Launch free or cheap, raise 20% every 5 customers until conversion-rate × price peaks.
 - `INS-260403-83E0` Investors now treat pricing model design as a front-page due diligence item that signals founder sophistication about AI unit economics.
+- `INS-260329-F6E1` Launch free or cheap, raise 20% every 5 customers until conversion-rate × price peaks.
 - `INS-260403-345C` Category creators should anchor pricing high, learn through real sales motions, and evolve from evangelical hunters to scaled execution as the market matures.
 - `INS-260330-3431` Premium brand identity can prevent entry into massive price-sensitive markets where the bulk of demand sits far below your price floor.
 - `INS-260330-7479` Apple's $1,100+ iPhone captures only 1% of India where 75% of smartphones sell under $250, proving brand prestige alone cannot overcome price-sensitivity at scale.

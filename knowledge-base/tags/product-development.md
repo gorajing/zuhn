@@ -11,17 +11,19 @@
 - `INS-260327-0B69` Adding a GPT wrapper to your existing product is a dead end — you must rebuild the entire user experience around what AI models can now do.
 - `INS-260327-38D8` Under Ev Williams, Twitter's best features -- hashtags, retweets, lists, and @mentions -- were all organic user behaviors that the team formalized into official features.
 - `INS-260404-7ED7` The distinction between full and partial stealth reveals that most startups benefit from selective disclosure rather than complete secrecy.
-- `INS-260403-CA42` Building distribution in parallel with product is now table stakes for startup survival, not a post-PMF optimization.
 - `INS-260330-5036` Understanding your users deeply matters far more than knowing startup mechanics like fundraising or growth hacking.
 - `INS-260403-EFAF` Version 1 should be light enough to evolve — over-engineering kills startups faster than technical debt.
 - `INS-260409-22CD` Perfection is impossible when the capability ceiling moves every month — optimize for adaptation, not polish.
 - `INS-260402-841D` Releasing early transforms problems from interesting puzzles into urgent fires, which is precisely why founders resist it and why it works.
 - `INS-260327-3A71` In AI, start with what the technology can do, not what customers say they need—the possibilities exceed imagination.
+- `INS-260403-CA42` Building distribution in parallel with product is now table stakes for startup survival, not a post-PMF optimization.
 - `INS-260402-237D` Build what you personally need, even if it seems niche — Wozniak built himself a computer.
 - `INS-260412-B825` Apple ran two competing iPhone teams (iPod-phone vs touch-Mac-OS) without letting them see each other's work, and the underdog team won.
 - `INS-260410-6286` Kelly Johnson insisted Skunk Works engineers sit only steps from the shop floor because 'a stone's throw was too far away' — the shortest design-to-build feedback loop wins.
 - `INS-260403-6CE6` Treating aid recipients as product users with real feedback loops produces dramatically better outcomes than top-down charity models.
 - `INS-260403-A70D` Measuring outcomes over outputs forces product teams to validate that shipped features actually change user behavior and create value.
+- `INS-260402-2FDF` Following the most interesting path at each step — like a river finding the sea — produces better outcomes than planning the route in advance.
+- `INS-260330-8FD6` Airbnb's photography service started with Chesky personally photographing one host's home, then spreadsheets managing contract photographers, and only built technology after hundreds of photographers proved the perfect service model.
 - `INS-260405-64FA` The AI era simultaneously lowers the cost of building and raises the bar for what satisfies users.
 - `INS-260404-9D14` AI commoditizes code production, making attention — not engineering velocity — the scarce resource for startups.
 - `INS-260330-CCF0` Hardware teams learning speed from software and software teams learning deliberation from hardware creates better products than either discipline alone.
@@ -30,8 +32,6 @@
 - `INS-260404-226F` Each feedback layer — internal, user prototype, and public release — reveals distinct categories of issues that earlier stages miss.
 - `INS-260403-8C63` Building a minimal prototype first and iterating on real feedback outperforms engineering a comprehensive system before launch.
 - `INS-260322-3C3D` ElevenLabs' core advantage comes from product teams talking directly to research teams — product provides real user feedback, research iterates immediately, and models get tested directly on the product.
-- `INS-260402-2FDF` Following the most interesting path at each step — like a river finding the sea — produces better outcomes than planning the route in advance.
-- `INS-260330-8FD6` Airbnb's photography service started with Chesky personally photographing one host's home, then spreadsheets managing contract photographers, and only built technology after hundreds of photographers proved the perfect service model.
 - `INS-260330-0BBA` Listen to customer problems deeply but translate them into the simplest possible solution, which is often not what the customer literally asked for.
 - `INS-260404-3FDF` Viaweb built their entire company site with their own store-building software to experience exactly what users experienced.
 - `INS-260330-2306` Your job is to hear the problem behind the request and build the simplest solution to that problem.

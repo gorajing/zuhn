@@ -6,7 +6,7 @@ title: >-
   There is no cinematic breakthrough moment — waiting for clarity is itself
   self-sabotage
 actionability: immediate
-confidence: high
+confidence: very_high
 shelf_life: evergreen
 status: active
 tags:
@@ -75,6 +75,7 @@ evidence:
   - id: INS-260403-57F6
     type: CHALLENGES
     classified_at: '2026-04-06'
+empirical_state: confirmed
 ---
 Many aspiring founders wait for a moment of perfect clarity, motivation, or readiness that never arrives. This waiting is itself a form of self-sabotage. The reality: most people don't change until they hit rock bottom — when the pain of staying the same exceeds the fear of change.
 

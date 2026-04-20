@@ -5,8 +5,8 @@
 - `INS-260325-51E6` When a financial product reaches retail investors through social media, institutions have already captured the easy returns — what's left is mostly risk.
 - `INS-260405-C5E5` VCs are doubling down on fintech after years of caution, signaling a sector recovery worth timing for founders and investors alike.
 - `INS-260405-7F42` Whether to back the jockey or the horse depends primarily on stage — founders matter most early, market matters most later.
-- `INS-260328-C12D` Enterprise AI buying is real and fast, but predicting which products will endure is like picking winners in early mobile — nobody knows yet.
 - `INS-260327-0004` Nota AI started in 2015 but only generated significant revenue from 2023 -- they survived 7-8 years of market mismatch by maintaining conviction that their AI model optimization technology would eventually be needed.
+- `INS-260328-C12D` Enterprise AI buying is real and fast, but predicting which products will endure is like picking winners in early mobile — nobody knows yet.
 - `INS-260403-535C` Simultaneous supply aging and demand shifting creates opportunities that favor operationally heavy startups over pure software.
 - `INS-260330-930D` Apple's dismissal of India as low-revenue ignores that competitors are building ecosystem lock-in with hundreds of millions of users who will be difficult to convert later.
 - `INS-260404-96CF` Three observable indicators — smartphone penetration, consumer app presence, and government enthusiasm — identify markets primed for tech startup growth.

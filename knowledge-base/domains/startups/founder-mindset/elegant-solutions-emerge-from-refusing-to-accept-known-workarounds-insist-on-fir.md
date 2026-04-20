@@ -6,7 +6,7 @@ title: >-
   Elegant solutions emerge from refusing to accept known workarounds — insist on
   first-principles correctness
 actionability: inspiration
-confidence: high
+confidence: very_high
 shelf_life: evergreen
 status: active
 tags:
@@ -80,6 +80,7 @@ evidence:
   - id: INS-260330-DBA4
     type: SUPPORTS
     classified_at: '2026-04-03'
+empirical_state: confirmed
 ---
 The Klein-Gordon equation was a perfectly functional relativistic wave equation that other physicists accepted. It made reasonable predictions. But Dirac rejected it because its second-order time derivative treated time differently from space — violating the symmetry that relativity demands. His colleagues thought he was being needlessly picky.
 

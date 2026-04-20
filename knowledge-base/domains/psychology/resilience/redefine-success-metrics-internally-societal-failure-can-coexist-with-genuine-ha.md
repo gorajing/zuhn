@@ -6,7 +6,7 @@ title: >-
   Redefine success metrics internally — societal failure can coexist with
   genuine happiness
 actionability: reference
-confidence: medium
+confidence: high
 shelf_life: evergreen
 status: active
 tags:
@@ -68,6 +68,7 @@ evidence:
   - id: INS-260329-DD01
     type: CHALLENGES
     classified_at: '2026-04-03'
+empirical_state: confirmed
 ---
 Paul Yu has an engineering degree he doesn't use, lives with his mom at 35, earns $30-35 every 28 days from YouTube, and does minimal part-time work. By every conventional metric, he is a failure. Yet he is genuinely, verifiably happy — having gone from psychiatric ward stays in his 20s (bipolar disorder) to zero incidents in his entire 30s.
 

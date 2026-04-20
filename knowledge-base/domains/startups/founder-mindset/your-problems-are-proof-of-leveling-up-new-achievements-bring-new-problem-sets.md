@@ -6,7 +6,7 @@ title: >-
   Your problems are proof of leveling up — new achievements bring new problem
   sets
 actionability: reference
-confidence: high
+confidence: very_high
 shelf_life: evergreen
 status: active
 tags:
@@ -66,6 +66,7 @@ evidence:
   - id: INS-260329-2460
     type: SUPPORTS
     classified_at: '2026-04-03'
+empirical_state: confirmed
 ---
 Manson reframes the relationship between success and struggle: you wanted the job, now you have the stress; you wanted the relationship, now you have the arguments. This does not mean something went wrong — it means you leveled up and have a new problem set.
 

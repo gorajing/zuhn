@@ -4,7 +4,7 @@ domain: psychology
 topic: perception
 title: Happiness lives in quiet ordinary moments — not in highlight-reel experiences
 actionability: reference
-confidence: high
+confidence: very_high
 shelf_life: evergreen
 status: active
 tags:
@@ -53,6 +53,7 @@ evidence:
   - id: INS-260327-2F75
     type: SUPPORTS
     classified_at: '2026-04-02'
+empirical_state: confirmed
 ---
 Paul Yu makes an observation that directly counters the highlight-reel culture: even listing his year's best moments (Vegas, Vancouver, German friend visiting), he notes these weren't the most special times. The quiet moments at home — watching YouTube on the couch, going to the gym, enjoying a bag of chips — were equally precious and far more numerous.
 

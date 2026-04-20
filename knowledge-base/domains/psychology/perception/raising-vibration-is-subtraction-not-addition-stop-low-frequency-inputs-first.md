@@ -6,7 +6,7 @@ title: >-
   Raising vibration is subtraction not addition — stop low-frequency inputs
   first
 actionability: immediate
-confidence: medium
+confidence: high
 shelf_life: evergreen
 status: active
 tags:
@@ -51,6 +51,7 @@ related:
 stance: >-
   The fastest way to shift emotional frequency is removing what pulls you down,
   not adding new practices.
+empirical_state: confirmed
 ---
 David Bayer argues that getting into a high vibrational state is less about adding practices and more about stopping what keeps you low: doomscrolling, processed food, excessive caffeine, alcohol, and constant screen time. These inputs create stress on the nervous system, causing energy leaks where cellular resources go toward managing internal friction rather than fueling clarity and creativity.
 

@@ -6,7 +6,7 @@ title: >-
   Negative emotions are diagnostic signals — jealousy reveals desire, anger
   catalyzes change
 actionability: reference
-confidence: medium
+confidence: high
 shelf_life: evergreen
 status: active
 tags:
@@ -65,6 +65,7 @@ evidence:
   - id: INS-260326-8217
     type: EXTENDS
     classified_at: '2026-04-03'
+empirical_state: confirmed
 ---
 Rather than suppressing or intellectualizing emotions, each trigger carries specific information: Regret says 'act now.' Anger provides the peak-state energy needed to override fear and take action — it is often the catalyst before major life changes. Jealousy reveals what you deeply want but haven't allowed yourself to pursue. Deep resistance to a topic (recoiling when someone mentions YouTube/business) often signals it matters to you — true disinterest produces no emotional reaction at all.
 

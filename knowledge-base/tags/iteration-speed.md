@@ -2,19 +2,19 @@
 
 - `INS-260410-DD0E` Hume implemented an entirely new take-home design in under a day by having Claude write it, then used Claude's solving attempts as the design's difficulty oracle.
 - `INS-260325-060A` Elena Verna argues AI companies must re-find PMF every 3 months because capability shifts make yesterday's differentiator today's baseline.
-- `INS-260323-9B49` The advanced technology fab in Austin will have lithography mask making, chip fabrication, and testing all in one building — enabling a recursive design loop that Musk claims is an order of magnitude faster than anything else in the world.
 - `INS-260329-D48B` The write-run-see-error-fix cycle in programming provides the fastest possible feedback loop for learning systematic thinking.
 - `INS-260321-31B3` Ship product updates 6 days per week because AI model improvements reset the entire industry every month.
+- `INS-260323-9B49` The advanced technology fab in Austin will have lithography mask making, chip fabrication, and testing all in one building — enabling a recursive design loop that Musk claims is an order of magnitude faster than anything else in the world.
 - `INS-260329-9A58` Programming education works best when concepts are introduced through progressively complex projects rather than abstract explanations.
 - `INS-260329-E8EB` Speed advantage compounds: each ship-test-iterate cycle generates user insights that make the next cycle more targeted, creating a learning gap not just a time gap.
 - `INS-260325-C5FD` American automakers take 6 years to ship a new model; Chinese competitors do it in 18 months — with 50 major EV makers competing fiercely, iteration speed IS the innovation.
 - `INS-260412-E4F5` Shenzhen's power comes from proximity-driven iteration speed, not just cheap labor.
-- `INS-260402-BEB6` A growth loop that completes in 30 minutes compounds far faster than one taking 30 days, making cycle time the primary optimization target.
 - `INS-260330-ED04` Nakamura's daily routine of modifying his MOCVD reactor each morning and testing each afternoon created an iteration cycle no well-funded lab could match.
 - `INS-260404-4154` Starting with a sketch instead of a sculpture lets you bypass the psychological barrier of commitment that kills ambitious projects early.
 - `INS-260404-DDFB` Working in low-fidelity mediums like sketches or quick hacks lets you start ambitious projects by reducing the psychological weight of imperfect early output.
 - `INS-260409-2A8A` When MVPs take a day, the bottleneck is no longer building — it is learning fast from the market.
 - `INS-260403-77F4` Measure and minimize the gap between failure and relaunch rather than trying to prevent all failures.
+- `INS-260402-BEB6` A growth loop that completes in 30 minutes compounds far faster than one taking 30 days, making cycle time the primary optimization target.
 - `INS-260403-96F9` Like a brainless virus that outpaces scientists through sheer mutation speed, startups find PMF by running many cheap experiments faster than competitors can think.
 - `INS-260327-EB3E` Apple's 48-hour design review rhythm forced constant refinement that produced best-in-class products.
 - `INS-260330-EF64` Delay growing your user base because users create compatibility constraints that freeze your design and prevent the continuous redesign that produces quality.

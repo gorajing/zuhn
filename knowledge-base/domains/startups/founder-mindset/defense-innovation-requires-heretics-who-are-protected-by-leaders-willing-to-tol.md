@@ -6,7 +6,7 @@ title: >-
   Defense innovation requires heretics who are protected by leaders willing to
   tolerate them
 actionability: reference
-confidence: high
+confidence: very_high
 shelf_life: evergreen
 status: active
 tags:
@@ -64,6 +64,7 @@ evidence:
   - id: INS-260330-14E1
     type: SUPPORTS
     classified_at: '2026-04-03'
+empirical_state: confirmed
 ---
 Shyam Sankar catalogs historical defense innovations and finds a universal pattern: every breakthrough — the Higgins boat, the F-16, nuclear submarines, Project Maven — was heretical. The institution fought it. The bureaucracy tried to kill it. What made these innovations survive was not just the heretic's persistence but the existence of a protector — a senior leader who recognized something special and shielded them.
 

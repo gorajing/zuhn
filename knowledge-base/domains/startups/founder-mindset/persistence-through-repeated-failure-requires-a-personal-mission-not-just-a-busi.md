@@ -6,7 +6,7 @@ title: >-
   Persistence through repeated failure requires a personal mission, not just a
   business case
 actionability: inspiration
-confidence: high
+confidence: very_high
 shelf_life: evergreen
 status: active
 tags:
@@ -65,6 +65,7 @@ evidence:
   - id: INS-260403-1547
     type: TRANSFERS_TO
     classified_at: '2026-04-06'
+empirical_state: confirmed
 ---
 Frederic Tudor's early ice ventures were catastrophic failures. Investors laughed. His first Caribbean shipment earned only $50. He accumulated $40,000 in debt (over $1M in today's money), was hounded by creditors, hid from sheriffs on his own ships, and went to debtor's prison twice. He described this period as 'the winter of my discontent.'
 

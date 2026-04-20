@@ -1,8 +1,8 @@
 # Tag: root-cause
 
-- `INS-260330-09B5` Death is always caused by the body's inability to maintain stable internal conditions, not by the injury or disease label itself.
 - `INS-260409-9215` Suppressing DHT alone is insufficient because follicle damage persists as hypoxia, scar tissue, and broken mitochondria that must be independently repaired.
 - `INS-260409-E490` Insulin resistance increases 5-alpha reductase activity and free testosterone availability, making metabolic repair a prerequisite for durable hair regrowth.
+- `INS-260330-09B5` Death is always caused by the body's inability to maintain stable internal conditions, not by the injury or disease label itself.
 - `INS-260325-9DEB` Arterial plaque is the body repair response to endothelial damage — cholesterol is the bandage not the wound.
 - `INS-260325-11E0` Insulin resistance is the single upstream cause of most chronic diseases — treating them separately misses the shared root.
 - `INS-260327-8431` Medical schools train doctors in pharmaceutical symptom management with virtually no nutrition education, making them structurally unable to address the dietary root causes of most chronic disease.

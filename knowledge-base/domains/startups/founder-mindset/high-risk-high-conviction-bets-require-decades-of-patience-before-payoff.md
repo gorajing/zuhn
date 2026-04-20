@@ -4,7 +4,7 @@ domain: startups
 topic: founder-mindset
 title: High-risk high-conviction bets require decades of patience before payoff
 actionability: reference
-confidence: high
+confidence: very_high
 shelf_life: evergreen
 status: active
 tags:
@@ -69,6 +69,7 @@ evidence:
   - id: INS-260323-AEA7
     type: EXTENDS
     classified_at: '2026-04-03'
+empirical_state: confirmed
 ---
 LIGO was considered a high-risk, high-reward bet when construction began in the 1990s, based entirely on Einstein's 75-year-old theoretical prediction. After building two enormous interferometers, they detected nothing for a full decade. Rather than abandoning the project, they kept improving the machine's sensitivity. Three days after turning on the upgraded Advanced LIGO in September 2015, they made their first detection -- almost exactly 100 years after Einstein's prediction.
 

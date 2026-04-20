@@ -4,7 +4,7 @@ domain: startups
 topic: founder-mindset
 title: Use dying channels to test ideas gatekeepers rejected
 actionability: immediate
-confidence: high
+confidence: very_high
 shelf_life: evergreen
 status: active
 tags:
@@ -63,6 +63,7 @@ evidence:
   - id: INS-260325-59D4
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+empirical_state: confirmed
 ---
 When Stan Lee's publisher rejected Spider-Man on every dimension — wrong animal, wrong age, wrong level of personal problems — Lee found a workaround. Amazing Fantasy was being cancelled, and nobody cared what went in the last issue. So he put Spider-Man on the cover of a dying magazine. It became the highest-selling issue, and the publisher came running back claiming they both loved the character.
 

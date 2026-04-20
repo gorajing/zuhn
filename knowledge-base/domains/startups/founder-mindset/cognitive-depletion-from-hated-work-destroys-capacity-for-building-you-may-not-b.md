@@ -6,7 +6,7 @@ title: >-
   Cognitive depletion from hated work destroys capacity for building — you may
   not be lazy, just depleted
 actionability: immediate
-confidence: medium
+confidence: high
 shelf_life: evergreen
 status: active
 tags:
@@ -85,6 +85,7 @@ evidence:
   - id: INS-260404-9A69
     type: CHALLENGES
     classified_at: '2026-04-06'
+empirical_state: confirmed
 ---
 The 'trapped employee' isn't lazy — they're cognitively depleted. Research on cognitive depletion shows that repetitive tasks that violate your values drain your brain's actual capacity. You can't learn new skills, execute long-term plans, or build on nights and weekends because you literally don't have the processing power left.
 

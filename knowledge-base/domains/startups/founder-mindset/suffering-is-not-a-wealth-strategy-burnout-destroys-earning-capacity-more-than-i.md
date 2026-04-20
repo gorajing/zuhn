@@ -6,7 +6,7 @@ title: >-
   Suffering is not a wealth strategy — burnout destroys earning capacity more
   than it builds it
 actionability: immediate
-confidence: high
+confidence: very_high
 shelf_life: evergreen
 status: active
 tags:
@@ -67,6 +67,7 @@ evidence:
   - id: INS-260330-BC1B
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+empirical_state: confirmed
 ---
 Grind culture tells you that if you're not bleeding, you're not trying hard enough. The martyr says 'I'm doing this for my family' when really they can't let go of control, or they're scared to stop because stopping means what they're doing might not be working. Codie Sanchez lived this — bragging about 80-hour weeks in finance until her back gave out.
 

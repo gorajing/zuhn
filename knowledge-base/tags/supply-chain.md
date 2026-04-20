@@ -6,14 +6,15 @@
 - `INS-260410-7C07` Drill past GPUs, past power plants, past turbines, and you find three casting companies making vanes and blades — the real ceiling on AI infrastructure through 2030.
 - `INS-260405-A4DB` AI workloads depend on HBM as the data conduit to GPUs, but HBM is harder to manufacture, lower yield, and supply is concentrated in three players.
 - `INS-260325-BB13` A smartphone processor requires tools from the Netherlands, chemicals from Japan, design from the US, fabrication in Taiwan, and assembly in Malaysia — no single company or country controls the full stack.
-- `INS-260409-B21A` In-body production trades per-dose manufacturing and cold chain for device lifetime and cell viability.
 - `INS-260323-E559` The XZ backdoor nearly succeeded because the entire Linux ecosystem depended on a compression tool maintained by one burned-out volunteer for 20 years.
 - `INS-260323-A8B5` Jia Tan did not hack XZ — he spent years building trust with the maintainer, then weaponized that trust to insert a backdoor.
+- `INS-260409-B21A` In-body production trades per-dose manufacturing and cold chain for device lifetime and cell viability.
 - `INS-260330-1084` A photon's journey from solar fusion through photosynthesis to cellular ATP involves at least 6 major conversion steps, each losing energy — making biological systems inherently energy-constrained despite abundant solar input.
-- `INS-260412-C668` Drought in Panama restricts canal throughput by limiting lock water, directly impacting global shipping costs and schedules in ways disconnected from the drought's geographic location.
 - `INS-260412-132B` Purdue corrupted doctors, distributors, pharmacists, politicians, and the FDA simultaneously, creating a self-reinforcing system that resisted correction for over two decades.
 - `INS-260405-ECD2` Retail food prices are the last output of an infrastructure system shaped far upstream by inputs, water, labor, and policy.
+- `INS-260412-C668` Drought in Panama restricts canal throughput by limiting lock water, directly impacting global shipping costs and schedules in ways disconnected from the drought's geographic location.
 - `INS-260412-80AB` Panama's $5.4B lock expansion forced New Jersey to spend $1.7B raising a single bridge, plus billions more in port upgrades coast-wide.
+- `INS-260327-048B` Domino's franchisees earn only 11% margins while the corporate entity makes most of its money selling cheese, dough, and ingredients at markup to its own franchise network.
 - `INS-260321-4B99` Factory capacity for DRAM and NAND is fixed, but AI demand pays so much more that producers shifted mass production lines to HBM — making consumer memory prices rise in tandem.
 - `INS-260403-1462` Defense-industrial catch-up requires allied co-manufacturing because domestic reshoring timelines are too slow against urgent threats.
 - `INS-260410-A544` Once Mao put all peasants on communes, the party controlled food distribution — which meant Beijing was literally choosing who ate and who died, and 40 million starved.
@@ -33,8 +34,6 @@
 - `INS-260412-9DEE` The US-China trade deficit made westbound Pacific shipping near-free, enabling an entire global recycling industry that collapsed when China closed the receiving end.
 - `INS-260325-2BB0` TSMC makes roughly 90% of advanced processor chips used in phones, computers, and AI — an unprecedented concentration of critical manufacturing in one company in one geopolitically sensitive location.
 - `INS-260404-2AD7` China banning foreign AI chips from state data centers and the US securing $1.4B in rare-earth deals indicate a permanent split in AI hardware supply chains.
-- `INS-260327-048B` Domino's franchisees earn only 11% margins while the corporate entity makes most of its money selling cheese, dough, and ingredients at markup to its own franchise network.
-- `INS-260412-2147` Multi-tier supplier chains compound markups at each layer, making vertically integrated competitors dramatically cheaper.
 - `INS-260403-2E12` Everything from EVs to drones to robots draws on the same batteries, sensors, motors, and compute that the smartphone ecosystem industrialized at scale.
 - `INS-260330-B284` Rockefeller first consolidated 90% of oil refining (horizontal) before expanding into drilling, pipelines, storage, and distribution (vertical), using his refining monopoly as leverage for each expansion.
 - `INS-260403-4874` Costco's 4,000-SKU limit versus Walmart's 140,000 gives it extreme per-item volume and supplier negotiating leverage.
@@ -45,6 +44,7 @@
 - `INS-260403-DD63` Apple keeps 60-70% margins not by manufacturing itself, but by exerting pricing power over its suppliers.
 - `INS-260403-8194` Tariffs up to 34% on China/Taiwan/Korea imports are forcing hardware startups to shift from cost-optimized to resilience-optimized supply chains.
 - `INS-260403-90A0` China's rare earth export tightening and Western chip seizures are forcing companies to vertically integrate within their geopolitical bloc or risk existential supply disruption.
+- `INS-260412-2147` Multi-tier supplier chains compound markups at each layer, making vertically integrated competitors dramatically cheaper.
 - `INS-260402-3196` IBM's fatal error was granting a non-exclusive DOS license, allowing Microsoft to own the PC standard from within the supply chain.
 - `INS-260412-3978` Eliminating ground transport forces all physical goods through air freight, creating massive cost premiums proportional to weight and bulk rather than intrinsic value.
 - `INS-260412-CFF6` Antarctica uses intercontinental jets to coastal McMurdo, ski-equipped LC-130s inland, and 40-day tractor convoys for bulk cargo—each mode optimized for its leg.

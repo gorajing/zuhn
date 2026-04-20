@@ -4,7 +4,7 @@ domain: startups
 topic: founder-mindset
 title: 'Expert objections often reveal conventional thinking, not fatal flaws'
 actionability: reference
-confidence: high
+confidence: very_high
 shelf_life: evergreen
 status: active
 tags:
@@ -67,6 +67,7 @@ evidence:
   - id: INS-260325-59D4
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+empirical_state: confirmed
 ---
 Stan Lee's publisher gave three specific objections to Spider-Man: (1) people hate spiders so you can't name a hero after one, (2) teenagers can only be sidekicks, and (3) superheroes don't have personal problems. Each objection was 'logical' — backed by industry convention and prior experience. And each one was completely wrong. The elements that were supposedly fatal flaws became exactly what made Spider-Man revolutionary and beloved.
 

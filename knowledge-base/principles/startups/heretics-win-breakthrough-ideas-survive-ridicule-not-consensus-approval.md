@@ -10,7 +10,7 @@ summary: >-
   institutional rejection and persist through years of silence or mockery have
   disproportionate upside. Founders should treat expert ridicule of a
   well-reasoned idea as a signal of potential, not a reason to quit.
-confidence: high
+confidence: very_high
 supporting_insights:
   - INS-260321-13C6
   - INS-260321-1A84
@@ -43,6 +43,7 @@ resolutions:
     expert ridicule of a well-reasoned idea as a signal of potential, not a
     reason to quit.
 embedded: true
-embedding_model: "nomic-embed-text"
+embedding_model: nomic-embed-text
+empirical_state: confirmed
 ---
 Every determinative breakthrough — EUV lithography, Spider-Man, LIGO, Dirac's antimatter, Tudor's ice trade — was publicly ridiculed by credentialed experts citing logical-sounding objections that reflected convention, not truth. The pattern is that consensus filters for the median, so ideas that survive institutional rejection and persist through years of silence or mockery have disproportionate upside. Founders should treat expert ridicule of a well-reasoned idea as a signal of potential, not a reason to quit.

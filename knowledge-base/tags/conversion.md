@@ -4,6 +4,7 @@
 - `INS-260403-2385` Structure landing page narratives as Problem → Agitation (real business cost) → Transformation (quantified outcome) using customers' exact language.
 - `INS-260329-BE8E` Simplify all marketing language to a third-to-fifth grade reading level to maximize comprehension and conversion rates.
 - `INS-260409-01E7` Write for the buyer and the broadcaster in the same post — the broadcaster gives you reach, the buyer gives you revenue.
+- `INS-260405-A9B2` Costco's confusing warehouse layout forces customers to traverse most aisles, increasing exposure to products they didn't plan to buy.
 - `INS-260330-73A2` Growth equals conversion minus churn, and reducing churn by 1% has the identical mathematical effect on growth as increasing conversion by 1%, but costs significantly less.
 - `INS-260402-7623` Earnings estimates outperform all other supply-side value propositions by an order of magnitude.
 - `INS-260405-E7EF` The self-serve free trial model is losing efficacy in B2B SaaS as buyers expect more guided, outcome-focused evaluation experiences.
@@ -18,7 +19,6 @@
 - `INS-260329-3818` Give the first session free as a half-assessment, half-pitch that delivers one visible improvement, then ask for the commitment.
 - `INS-260329-825D` List an absurdly expensive premium tier to make your standard offering feel like a bargain by comparison.
 - `INS-260330-20F7` Sean Parker's virality framework breaks viral potential into payload (people reached per blast), frequency (how often you hit them), and conversion rate — different products win on different axes.
-- `INS-260405-A9B2` Costco's confusing warehouse layout forces customers to traverse most aisles, increasing exposure to products they didn't plan to buy.
 - `INS-260409-1BFD` Availability friction raises perceived value; waiting lists create the FOMO that 'buy now' buttons destroy.
 - `INS-260409-57DB` Content gets you seen; email gets you paid — the handoff from one to the other is the core monetization move.
 - `INS-260409-EF0C` Put the founder on camera for 40 minutes; the face-to-face trust signal closes deals no landing page can match.

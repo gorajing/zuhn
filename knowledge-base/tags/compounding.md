@@ -6,39 +6,19 @@
 - `INS-260325-E652` TurboQuant improves LLM inference, vector search recall, and embedding storage simultaneously because all three are bottlenecked by the same high-dimensional vector operations.
 - `INS-260409-D5BD` A single ingested source should ripple through 10-15 existing pages; if it only creates one new page, the system isn't compounding.
 - `INS-260412-4DC7` Memory T cells and B cells persist after infection, enabling near-instant response to future encounters and effectively converting a costly first battle into permanent low-cost protection.
-- `INS-260410-84F5` Rockefeller's competitors treated oil as a gold rush and pocketed profits; he poured every dollar back into efficiency improvements and inventory, so when prices crashed he kept buying the dip until he owned the industry.
-- `INS-260410-B74C` Choose to be modestly less profitable than peers in booms so you can remain standing — and acquire them — during busts.
-- `INS-260410-E3E0` TSMC's moat isn't the machines — everyone can buy ASML — it's 40 years of uninterrupted learning-curve compounding that cannot be replicated by throwing money at the problem.
-- `INS-260330-AD13` Periodic large losses destroy compounding far more than lower steady returns, so risk management trumps return maximization.
-- `INS-260325-039E` High-cost portfolios generate roughly 20% less terminal value than low-cost portfolios over 25-30 years, all else equal.
-- `INS-260325-1407` A high-cost portfolio generates 20% less value over 25-30 years than a low-cost one, and the Vanguard effect has saved investors roughly $2 trillion in fees since the 1970s.
-- `INS-260330-44C7` Investing $10,000 at age 22 at 10% yields $600K by retirement versus $232K starting at 32 — the 10-year head start nearly triples the outcome at the same return rate.
-- `INS-260410-C89B` Greg Abel in the 2025 letter: 'At Berkshire's scale, the math of compounding works against us — a reality long understood and best acknowledged plainly. Our opportunity is improvement in per-share value over the long term, even when progress comes in smaller increments.'
-- `INS-260410-3270` Berkshire 1965–2025: 19.7% CAGR vs S&P 10.5% CAGR. The 9.2-point annual gap produced a total return differential of 6,099,294% vs 46,061% — a 132x absolute multiplier on the arithmetic mean difference.
-- `INS-260330-4370` Waiting for multiple block confirmations creates exponentially increasing security because a fraudster must outpace the entire honest network for each additional block.
-- `INS-260323-7E6F` Speed is the shortest distance between seeing and acting on an opportunity; time is making a good decision and holding it — Berkshire compounded at 20% annually from 1965-2024 by getting both right.
-- `INS-260325-EBC3` The wealth gap is a financial literacy gap — the rich use different instruments (leverage, tax shelters, equity) not just higher incomes.
-- `INS-260405-B6CB` China's post-2008 infrastructure investment produced not just recovery but a transportation, energy, and digital backbone that now underpins its manufacturing dominance.
-- `INS-260410-9E2D` Post-war West Germany set 95% marginal tax rates on industrialists, forcing Porsche and its peers to plow royalties and profits into R&D, racing, and new models rather than take them out — producing decades of compounding brand and engineering assets.
-- `INS-260412-4E72` Heavy elements forged in neutron star collisions billions of years ago became the raw materials for Earth's geology, biology, and modern technology.
-- `INS-260403-41C8` Venture firms that think like product companies building systems outlast those optimizing per-fund carry.
-- `INS-260410-228E` Don't sell winners based on growth rate or maturity — sell based on whether decades of growth remain ahead.
-- `INS-260403-3DCB` PIK interest capitalizes into principal each year, making the total repayment far larger than the stated rate suggests.
-- `INS-260409-D9A1` A 5% one-time levy on a 7% per year portfolio is recovered in about 9 months of normal returns, smaller than typical market volatility.
-- `INS-260327-B3A7` Marshal Suchet was the only French commander to actually succeed in Spain — not through brilliance but through methodical, systematic pacification that won over the local population.
 - `INS-260409-FFEA` Durable behavior change requires small consistent shifts, not dramatic overhauls — the mustard-seed heuristic.
 - `INS-260404-9AEC` Willpower functions as a trainable meta-skill whose gains compound across personal and professional domains simultaneously.
-- `INS-260330-6CB7` Four of seven SI base units depend on the kilogram, so a fingerprint-weight drift in Big K corrupts Newtons, Joules, Volts, and Watts.
-- `INS-260330-9931` A few network-joining decisions create the gravitational field that shapes all subsequent daily choices.
-- `INS-260405-6E4F` Better inputs compound into better judgment — information diet is a leverage point most people underinvest in.
-- `INS-260330-2B29` Revolutions result from accumulated small decisions, not single dramatic moments.
-- `INS-260410-35F5` Every super-successful person Munger knows had three things — high intelligence, hard work, and good luck — and the only way to get lucky two or three times is to start early and keep trying for a long time.
-- `INS-260329-BF51` Showing the compounded future cost of discretionary purchases creates visceral aversion that abstract budget rules cannot.
 - `INS-260403-D2A5` Persistence emerges from the interaction of energy, imagination, resilience, good judgment, and goal focus — missing any one degrades the whole.
 - `INS-260402-1146` Sustained proof-of-work builds a reputation signal that eventually outcompetes brand theatrics and institutional prestige in sophisticated markets.
 - `INS-260403-E1CE` Treat every goal as a funnel where volume of attempts generates information that compounds into exponentially better outcomes over time.
 - `INS-260403-E1E9` Replit CEO Amjad Masad's six lessons on winning emphasize that progress compounds through clarity and consistency, not through shortcuts or hype cycles.
 - `INS-260330-90C3` Jho Low's fake credentials compounded — each lie made the next one easier because people used prior signals as validation.
+- `INS-260329-BF51` Showing the compounded future cost of discretionary purchases creates visceral aversion that abstract budget rules cannot.
+- `INS-260330-6CB7` Four of seven SI base units depend on the kilogram, so a fingerprint-weight drift in Big K corrupts Newtons, Joules, Volts, and Watts.
+- `INS-260330-9931` A few network-joining decisions create the gravitational field that shapes all subsequent daily choices.
+- `INS-260405-6E4F` Better inputs compound into better judgment — information diet is a leverage point most people underinvest in.
+- `INS-260330-2B29` Revolutions result from accumulated small decisions, not single dramatic moments.
+- `INS-260410-35F5` Every super-successful person Munger knows had three things — high intelligence, hard work, and good luck — and the only way to get lucky two or three times is to start early and keep trying for a long time.
 - `INS-260330-E794` Early network advantages compound nonlinearly through preferential attachment, making initial network-selection moments disproportionately consequential.
 - `INS-260403-2949` Curiosity uniquely compounds — satisfying it generates more questions rather than satiation.
 - `INS-260329-F9CD` Not knowing what you don't know is the most expensive form of debt because it silently compounds through repeated mistakes.
@@ -53,7 +33,25 @@
 - `INS-260329-1D08` The dominant failure pattern is serial opportunity-hopping through the same emotional cycle, never staying long enough for compounding returns to kick in.
 - `INS-260327-0833` Every hour spent on non-compounding activities is an hour your competitor is building.
 - `INS-260330-B625` Morale compounds in both directions: high morale → good work → higher morale, or low morale → poor work → demoralization, making it the foundation of sustained ambitious effort.
+- `INS-260410-C89B` Greg Abel in the 2025 letter: 'At Berkshire's scale, the math of compounding works against us — a reality long understood and best acknowledged plainly. Our opportunity is improvement in per-share value over the long term, even when progress comes in smaller increments.'
+- `INS-260410-3270` Berkshire 1965–2025: 19.7% CAGR vs S&P 10.5% CAGR. The 9.2-point annual gap produced a total return differential of 6,099,294% vs 46,061% — a 132x absolute multiplier on the arithmetic mean difference.
+- `INS-260330-AD13` Periodic large losses destroy compounding far more than lower steady returns, so risk management trumps return maximization.
+- `INS-260325-039E` High-cost portfolios generate roughly 20% less terminal value than low-cost portfolios over 25-30 years, all else equal.
+- `INS-260325-1407` A high-cost portfolio generates 20% less value over 25-30 years than a low-cost one, and the Vanguard effect has saved investors roughly $2 trillion in fees since the 1970s.
+- `INS-260330-44C7` Investing $10,000 at age 22 at 10% yields $600K by retirement versus $232K starting at 32 — the 10-year head start nearly triples the outcome at the same return rate.
+- `INS-260330-4370` Waiting for multiple block confirmations creates exponentially increasing security because a fraudster must outpace the entire honest network for each additional block.
+- `INS-260323-7E6F` Speed is the shortest distance between seeing and acting on an opportunity; time is making a good decision and holding it — Berkshire compounded at 20% annually from 1965-2024 by getting both right.
+- `INS-260325-EBC3` The wealth gap is a financial literacy gap — the rich use different instruments (leverage, tax shelters, equity) not just higher incomes.
+- `INS-260405-B6CB` China's post-2008 infrastructure investment produced not just recovery but a transportation, energy, and digital backbone that now underpins its manufacturing dominance.
+- `INS-260410-9E2D` Post-war West Germany set 95% marginal tax rates on industrialists, forcing Porsche and its peers to plow royalties and profits into R&D, racing, and new models rather than take them out — producing decades of compounding brand and engineering assets.
+- `INS-260412-4E72` Heavy elements forged in neutron star collisions billions of years ago became the raw materials for Earth's geology, biology, and modern technology.
 - `INS-260329-CC75` At 9% annual returns, each $250/month saved compounds to roughly $1M over 40 years, creating a simple multiplier for wealth planning.
+- `INS-260410-84F5` Rockefeller's competitors treated oil as a gold rush and pocketed profits; he poured every dollar back into efficiency improvements and inventory, so when prices crashed he kept buying the dip until he owned the industry.
+- `INS-260410-B74C` Choose to be modestly less profitable than peers in booms so you can remain standing — and acquire them — during busts.
+- `INS-260410-E3E0` TSMC's moat isn't the machines — everyone can buy ASML — it's 40 years of uninterrupted learning-curve compounding that cannot be replicated by throwing money at the problem.
+- `INS-260403-41C8` Venture firms that think like product companies building systems outlast those optimizing per-fund carry.
+- `INS-260410-228E` Don't sell winners based on growth rate or maturity — sell based on whether decades of growth remain ahead.
+- `INS-260403-3DCB` PIK interest capitalizes into principal each year, making the total repayment far larger than the stated rate suggests.
 - `INS-260410-45CE` Berkshire's insurance float grew from $88B in 2015 to $171B in 2024 to $176B at end of 2025 — a 2x compound in a decade without any new shareholder capital deployed, creating a zero-cost funding source for the investment portfolio.
 - `INS-260402-B2A2` Tech industry phases are additive layers that compound value, not distinct eras that replace predecessors.
 - `INS-260410-25AF` Great writing propagates efficiently through elite networks in roughly a week — audience compounding is an artifact of the creator slowly getting better, not of slow network accretion.
@@ -61,6 +59,8 @@
 - `INS-260329-0F10` The primary barrier to audience growth is premature quitting, not lack of skill—making persistence itself the competitive moat.
 - `INS-260410-CB92` A CNBC article is worth 2% of its value within a month; Acquired targets 80% value at five years, and that choice drives every other decision.
 
+- `INS-260409-D9A1` A 5% one-time levy on a 7% per year portfolio is recovered in about 9 months of normal returns, smaller than typical market volatility.
+- `INS-260327-B3A7` Marshal Suchet was the only French commander to actually succeed in Spain — not through brilliance but through methodical, systematic pacification that won over the local population.
 - `INS-260329-E8EB` Speed advantage compounds: each ship-test-iterate cycle generates user insights that make the next cycle more targeted, creating a learning gap not just a time gap.
 - `INS-260410-D3D8` When one product inside a portfolio can acquire customers and suppliers for another at a quarter of the external CAC, the compounding advantage is invisible for years then suddenly dominant.
 - `INS-260330-DCE1` Efficiency advantages compound across cost, thermal, battery, and UX dimensions, making them strategically superior to raw power advantages.
@@ -69,32 +69,6 @@
 - `INS-260403-0240` Under leverage, being right 90% vs 80% of the time doesn't yield 12% more value — it yields orders of magnitude more.
 - `INS-260403-494E` When everyone has access to the same foundation models, proprietary data that improves with usage becomes the only sustainable competitive advantage.
 - `INS-260403-CE7C` Durability comes from five compounding forces that must be designed into the business from the start, not bolted on later.
-- `INS-260403-1817` Each churned customer destroys not just current revenue but years of future compounding profit.
-- `INS-260404-7C79` Halving revenue on a 5%-weekly growth curve only puts you 15 weeks behind, regardless of how long you run.
-- `INS-260404-9BC6` In startups with superlinear growth, increasing growth rate by even 1% per week vastly outperforms doubling revenue extraction.
-- `INS-260330-A949` If growth rate is strong, absolute numbers will take care of themselves — stop stressing about how small you currently are.
-- `INS-260403-5648` The Calvin Cycle produces 6 G3P molecules but must feed 5 back to regenerate the cycle — only 1/6 of output is 'profit,' the rest is reinvestment.
-- `INS-260402-8F67` Most marketplace supply tactics fail individually, but cumulative small wins across many channels compound into massive growth.
-- `INS-260403-B301` a16z's modelbuster companies achieve extraordinary growth by redefining markets rather than competing within existing ones.
-- `INS-260330-608C` A small reduction in growth rate (e.g., from 15% to 10% daily) produces dramatically different outcomes over time due to compounding, making rate optimization the highest-leverage intervention.
-- `INS-260403-9863` A 1% monthly churn reduction compounds dramatically over 24 months, making it the highest-leverage growth investment.
-- `INS-260330-8817` Small differences in growth rates compound into enormous outcome divergence because exponential functions amplify parameter sensitivity over time.
-- `INS-260403-07D2` The Calvin Cycle produces 6 G3P molecules but must recycle 5 to regenerate starting materials, netting only 1 for actual plant growth.
-- `INS-260403-458A` Time to $1B revenue compressed from 45 years (IBM) to 7-8 years for modern companies, creating a double effect on founder wealth.
-- `INS-260329-22B6` What looks like speed from the outside is actually fewer strategic pivots over a longer time horizon, not more activity.
-- `INS-260329-5A47` Ignorance isn't a one-time cost — it's a recurring debt that compounds against you every period you don't learn.
-- `INS-260329-0935` Sustained focus on one domain compounds returns far more than spreading effort across many.
-- `INS-260329-595E` Depth in one area compounds returns faster than breadth across many.
-- `INS-260409-355C` Treat financial and spiritual capital as multiplicative factors, not additive line items — either zero and the total collapses.
-- `INS-260325-05FC` Investing in general problem-solving techniques compounds; investing only in specific answers doesn't.
-- `INS-260329-BF96` Avoiding wealth-destroying behaviors compounds faster than seeking wealth-creating ones.
-- `INS-260329-DD06` If you never stop working, you'll be ready for every opportunity window, making the question of timing irrelevant.
-- `INS-260329-FC6D` Two complementary skills compound disproportionately — sales + finance lets you raise billions; coding + marketing lets you build and distribute software solo.
-- `INS-260323-422B` The Barber & Odean study of 66,000 investors showed the most active traders underperformed the market by 7%/year while the least active performed best — jumping between opportunities destroys the compounding that builds wealth.
-- `INS-260329-8542` Writing yourself a 10-year contract to add 1-2 zeros to your net worth transforms your decision-making from gambling to inevitable compounding.
-- `INS-260329-CB2C` Prioritize building audience goodwill over immediate monetization because it compounds faster and converts to money on your timeline.
-- `INS-260329-CCC4` Two businesses with 300 customers have radically different trajectories — one with 100% churn needs ever-increasing acquisition, while one with 100% retention grows automatically.
-- `INS-260403-98E1` Real wealth stacks up through many small chips — businesses, investments, options — not one big windfall.
 - `INS-260403-E099` Top builders embed AI into daily workflows through small systems while others wait for clarity, creating a compounding execution gap.
 - `INS-260329-6514` Improving what you already have compounds over time while new ventures reset your progress.
 - `INS-260329-7691` Making existing processes better (scripts, ads, follow-up, offers) creates leverage because you get more output from the same input, while new initiatives reset you to zero leverage.
@@ -112,13 +86,39 @@
 - `INS-260403-1E05` Five half-built features create more drag than one failed launch because the compounding effect only kicks in upon delivery, not upon starting.
 - `INS-260329-E6C3` Repeatedly starting over in new domains destroys the compounding effect that only kicks in after sustained effort.
 - `INS-260329-3E28` Year 4 of your current business will almost always outperform year 1 of a new one — switching vehicles resets your compounding.
+- `INS-260329-22B6` What looks like speed from the outside is actually fewer strategic pivots over a longer time horizon, not more activity.
+- `INS-260329-5A47` Ignorance isn't a one-time cost — it's a recurring debt that compounds against you every period you don't learn.
+- `INS-260329-0935` Sustained focus on one domain compounds returns far more than spreading effort across many.
+- `INS-260329-595E` Depth in one area compounds returns faster than breadth across many.
+- `INS-260409-355C` Treat financial and spiritual capital as multiplicative factors, not additive line items — either zero and the total collapses.
+- `INS-260325-05FC` Investing in general problem-solving techniques compounds; investing only in specific answers doesn't.
+- `INS-260329-BF96` Avoiding wealth-destroying behaviors compounds faster than seeking wealth-creating ones.
+- `INS-260329-DD06` If you never stop working, you'll be ready for every opportunity window, making the question of timing irrelevant.
+- `INS-260329-FC6D` Two complementary skills compound disproportionately — sales + finance lets you raise billions; coding + marketing lets you build and distribute software solo.
+- `INS-260323-422B` The Barber & Odean study of 66,000 investors showed the most active traders underperformed the market by 7%/year while the least active performed best — jumping between opportunities destroys the compounding that builds wealth.
+- `INS-260329-8542` Writing yourself a 10-year contract to add 1-2 zeros to your net worth transforms your decision-making from gambling to inevitable compounding.
+- `INS-260403-1817` Each churned customer destroys not just current revenue but years of future compounding profit.
+- `INS-260404-7C79` Halving revenue on a 5%-weekly growth curve only puts you 15 weeks behind, regardless of how long you run.
+- `INS-260404-9BC6` In startups with superlinear growth, increasing growth rate by even 1% per week vastly outperforms doubling revenue extraction.
+- `INS-260330-A949` If growth rate is strong, absolute numbers will take care of themselves — stop stressing about how small you currently are.
+- `INS-260403-5648` The Calvin Cycle produces 6 G3P molecules but must feed 5 back to regenerate the cycle — only 1/6 of output is 'profit,' the rest is reinvestment.
+- `INS-260402-8F67` Most marketplace supply tactics fail individually, but cumulative small wins across many channels compound into massive growth.
+- `INS-260403-B301` a16z's modelbuster companies achieve extraordinary growth by redefining markets rather than competing within existing ones.
+- `INS-260330-608C` A small reduction in growth rate (e.g., from 15% to 10% daily) produces dramatically different outcomes over time due to compounding, making rate optimization the highest-leverage intervention.
+- `INS-260403-9863` A 1% monthly churn reduction compounds dramatically over 24 months, making it the highest-leverage growth investment.
+- `INS-260330-8817` Small differences in growth rates compound into enormous outcome divergence because exponential functions amplify parameter sensitivity over time.
+- `INS-260403-07D2` The Calvin Cycle produces 6 G3P molecules but must recycle 5 to regenerate starting materials, netting only 1 for actual plant growth.
+- `INS-260403-458A` Time to $1B revenue compressed from 45 years (IBM) to 7-8 years for modern companies, creating a double effect on founder wealth.
 - `INS-260403-DE0E` Investing well in a few startups and genuinely helping them creates a chain reaction of increasingly high-quality referrals.
+- `INS-260329-CB2C` Prioritize building audience goodwill over immediate monetization because it compounds faster and converts to money on your timeline.
+- `INS-260329-CCC4` Two businesses with 300 customers have radically different trajectories — one with 100% churn needs ever-increasing acquisition, while one with 100% retention grows automatically.
+- `INS-260403-98E1` Real wealth stacks up through many small chips — businesses, investments, options — not one big windfall.
 - `INS-260322-AD9B` It IS faster to do it yourself the first time — but accepting that upfront cost is the only path to compounding leverage.
 - `INS-260330-930D` Apple's dismissal of India as low-revenue ignores that competitors are building ecosystem lock-in with hundreds of millions of users who will be difficult to convert later.
+- `INS-260412-E71C` Iran's aviation sanctions showed that aircraft cannibalization creates an accelerating death spiral — each grounded plane supplies fewer parts to fewer flying ones.
 - `INS-260403-2DB2` Live ops creates a compounding advantage: each data-driven iteration personalizes the experience further, building a moat that static competitors cannot match.
 - `INS-260404-68EE` 78% of public software companies above $5B market cap are multi-product, making it effectively mandatory for outsized outcomes.
-- `INS-260412-E71C` Iran's aviation sanctions showed that aircraft cannibalization creates an accelerating death spiral — each grounded plane supplies fewer parts to fewer flying ones.
-- `INS-260327-7BFA` In your 20s with fewer responsibilities, work 7am to 7pm then prospect until 10pm -- the repetitions compound into skills and relationships that let your 40-year-old self have a family, coach kids' sports, and still earn top-tier income.
+- `INS-260325-0F4F` Progress begets progress: fundamental technologies like computing and steam power feed back into the innovation process itself, creating accelerating returns.
 - `INS-260403-6E23` Mark Leonard built a $100B empire by buying boring software companies, never selling, and compounding returns through operational patience.
 - `INS-260329-33D4` Output = Volume × Leverage means improving leverage multiplies all existing effort rather than adding incrementally.
 - `INS-260329-4223` Moving up the leverage hierarchy from labor to code/content multiplies output per unit of input exponentially.
@@ -127,8 +127,8 @@
 - `INS-260329-9DF3` Four leverage types — Collaboration, Capital, Code, Content — stack multiplicatively to break through revenue ceilings.
 - `INS-260329-9101` A 9.5/10 product requires 20x the work of a 7/10 but sells 1000x more, making the extra effort a 50x leverage multiplier.
 - `INS-260412-FD56` Wealthier F1 teams bring more spare parts and equipment, turning logistics spending into a performance edge when things go wrong.
-- `INS-260325-0F4F` Progress begets progress: fundamental technologies like computing and steam power feed back into the innovation process itself, creating accelerating returns.
 - `INS-260405-0D9A` Structure your roadmap so each milestone lowers the cost or risk of the next, making progress compound rather than just accumulate.
+- `INS-260327-7BFA` In your 20s with fewer responsibilities, work 7am to 7pm then prospect until 10pm -- the repetitions compound into skills and relationships that let your 40-year-old self have a family, coach kids' sports, and still earn top-tier income.
 - `INS-260330-B3DD` Compound pulley systems achieve 8:1 advantage with fewer components than block-and-tackle systems because each stage doubles the previous output rather than adding to it.
 - `INS-260410-0D0C` 85% of Novo Nordisk's revenue comes from metabolic disease — radical concentration, not diversification, produced Europe's most valuable company.
 - `INS-260330-659D` Shade balls were purchased to block bromate formation, but their secondary benefits — 80-90% evaporation reduction, algae elimination, near-zero chlorination — pay back at least half their cost.

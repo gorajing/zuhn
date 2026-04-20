@@ -1,11 +1,11 @@
 # Tag: purpose
 
+- `INS-260412-C996` Sakichi Toyoda invented the power loom because he watched his mother struggle with manual textile weaving — that empathy-driven origin anchored Toyota's culture for over a century.
+- `INS-260329-6BFC` Full passive income without engaging work produces boredom and depression, not the freedom people imagine.
 - `INS-260323-DA91` Camus's Sisyphus finds happiness not by winning but by embracing the insurmountable task with full commitment — meaning comes from service and duty, not from outcomes.
 - `INS-260330-487E` Purpose acts as an internal radar that cuts through distractions and decision paralysis by giving all choices a directional filter.
 - `INS-260327-4739` Meaningful work exists at the intersection of what you love, what you're good at, what the world needs, and what you can be paid for - missing any one creates imbalance.
 - `INS-260327-73CB` The most meaningful work combines multiple domains rather than maximizing one - the person who connects their varied interests often contributes more than the pure specialist.
-- `INS-260412-C996` Sakichi Toyoda invented the power loom because he watched his mother struggle with manual textile weaving — that empathy-driven origin anchored Toyota's culture for over a century.
-- `INS-260329-6BFC` Full passive income without engaging work produces boredom and depression, not the freedom people imagine.
 - `INS-260330-B5BF` Your most authentic purpose signals come from pre-puberty childhood inclinations before social conditioning buried them.
 - `INS-260403-79E0` The five intrinsic motivators — curiosity, passion, purpose, autonomy, mastery — must be built in sequence, not cherry-picked.
 - `INS-260325-E9B1` Meaning is found when you reach a motivation so fundamental that asking 'but why?' feels like a category error — for parents it is their children, for the religious it is God, for others it is the pursuit of understanding.

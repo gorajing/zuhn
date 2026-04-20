@@ -6,7 +6,7 @@ title: >-
   Somatic processing — feel low-vibration emotions for minutes instead of years
   of avoidance
 actionability: immediate
-confidence: medium
+confidence: high
 shelf_life: evergreen
 status: active
 tags:
@@ -64,6 +64,7 @@ evidence:
   - id: INS-260403-2DEE
     type: TRANSFERS_TO
     classified_at: '2026-04-05'
+empirical_state: confirmed
 ---
 Unprocessed emotions keep cycling back as triggers because they were never properly metabolized. The common response is to reach for coffee, alcohol, phone, or screens to bypass the feeling. Somatic work offers an alternative: when a low-vibration feeling arises, physically locate where that emotion sits in your body and actually feel it for a few minutes.
 

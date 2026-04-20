@@ -1,7 +1,6 @@
 # Tag: intrinsic-motivation
 
 - `INS-260405-9760` Being measured on output alone and judged against your own bar is the condition for peak productivity.
-- `INS-260403-B9E5` Prestige biases your perception of your own interests, making you pursue what you'd like to like rather than what you actually like.
 - `INS-260402-8223` Great work comes from deep curiosity about specific questions, not from forcing yourself through material via discipline.
 - `INS-260404-F227` Optimizing creative output for audience surprise is less effective than following genuine curiosity, because curiosity-driven exploration surfaces authentically novel ideas.
 - `INS-260403-2B63` Great work comes from obsessive interest that is disinterested — pursued for its own sake, not for external rewards.
@@ -10,6 +9,7 @@
 - `INS-260330-85E1` Rewarding yourself after hard work actually undermines future motivation; learning to find the effort itself rewarding is the neuroscience behind growth mindset.
 - `INS-260327-4EDE` Authentic curiosity develops problem-solving skills that survive AI automation; credential-seeking does not.
 - `INS-260330-D61A` Doing your most exciting task first makes boring subsequent tasks feel worse and tanks performance on them — start with moderately interesting work instead.
+- `INS-260403-B9E5` Prestige biases your perception of your own interests, making you pursue what you'd like to like rather than what you actually like.
 - `INS-260403-E6FD` Following genuine curiosity beats chasing hot fields because sustained obsession is required to develop judgment at the frontier.
 - `INS-260403-62AF` A motivated student at an average school will learn more than a passive student at an elite one because peer selection and professor quality curves flatten faster than prestige rankings suggest.
 - `INS-260403-B7FA` Skill acquisition is driven more by self-chosen hard projects than by structured coursework.
@@ -19,8 +19,7 @@
 - `INS-260403-4F4B` Persistence is best learned through lived experience on a single obsessive project, not through frameworks or advice.
 - `INS-260330-633F` Passion ignites the rocket but burns out fast; curiosity is the propellant that keeps you in orbit for decades.
 - `INS-260329-764E` Focusing on the act of creating rather than follower counts prevents the motivational collapse that kills most content efforts.
-- `INS-260403-35EE` VCs screen for obsession—founders who would keep building even if the money disappeared—because it predicts survival through inevitable chaos.
-- `INS-260403-E365` Work on ambitious projects you genuinely enjoy, and the right things will naturally get left undone.
+- `INS-260403-A14B` Novel problems attract skaters and let them skate full-time, creating a double productivity multiplier.
 - `INS-260403-E6A7` Every billionaire founder could have stopped sooner — they kept going not for money but because there was nothing else they'd rather do.
 - `INS-260329-36FF` Work created from abundance rather than scarcity resonates differently because people can feel the intention behind it.
 - `INS-260403-862E` Genuine problem interest predicts startup success better than ambition for money or status.
@@ -28,4 +27,5 @@
 - `INS-260404-7325` The secret weapon of top founders is that money isn't their primary driver — the company is their creative project.
 - `INS-260412-9719` If the universe has no scoreboard, you get to design your own — and founders who do this explicitly build more resilient companies.
 - `INS-260403-4431` Rare genuine interest in commercially valuable but unappealing work creates a natural monopoly on motivation and persistence.
-- `INS-260403-A14B` Novel problems attract skaters and let them skate full-time, creating a double productivity multiplier.
+- `INS-260403-35EE` VCs screen for obsession—founders who would keep building even if the money disappeared—because it predicts survival through inevitable chaos.
+- `INS-260403-E365` Work on ambitious projects you genuinely enjoy, and the right things will naturally get left undone.

@@ -2,9 +2,26 @@
 
 - `INS-260404-34DB` CMU's Zico Kolter argues AI agents must be designed to cooperate via game theory, not just optimize individual goals.
 - `INS-260404-AD45` Game theory provides the necessary framework for understanding how AI agents will behave when they interact strategically with other agents and humans.
-- `INS-260403-5616` AI labs cannot slow down unilaterally because competitors (including state actors) will simply fill the gap, making regulation the only viable brake.
 - `INS-260323-636C` Netanyahu's game-theoretic observation: no nation will voluntarily slow AI development to cooperate on regulation — universal AI regulation may only become possible if AI threatens all nations simultaneously.
+- `INS-260403-5616` AI labs cannot slow down unilaterally because competitors (including state actors) will simply fill the gap, making regulation the only viable brake.
 - `INS-260402-BF2E` When every user's filter has different probabilities, spammers can't optimize against a single target — their edit-compile-test cycle becomes appallingly slow.
+- `INS-260330-C9C2` Swear words serve as credible emotional signals because their social cost keeps them scarce—overuse would destroy their alarm function.
+- `INS-260412-EE2D` Gen Z's workplace disengagement is a rational response to seeing companies demonstrate zero loyalty to employees.
+- `INS-260412-2220` Hypertumors — cancers that parasitize other cancers — show that selfish dynamics within a harmful system can cause it to self-destruct without outside intervention.
+- `INS-260330-39D4` Japan bombed Pearl Harbor expecting it would frighten America into neutrality — a catastrophic mirror-imaging error that assumed Americans would react rationally to a show of force.
+- `INS-260327-6C64` In game theory tournaments, tit-for-tat (cooperate first, then mirror) consistently beats both always-cooperate and always-defect strategies across repeated interactions.
+- `INS-260329-78AE` People automatically trust speakers more when the speaker says something that visibly hurts their own interest, because costly signals are expensive to counterfeit.
+- `INS-260325-47FE` Tit-for-tat wins repeated game theory: cooperate first, then mirror — simplicity and consistency beat complex manipulation.
+- `INS-260412-6D71` Unverifiable intentions plus existential stakes collapse decision-making to worst-case assumptions.
+- `INS-260330-B444` Cities surrendered to the Mongols on arrival because the reputation for total destruction made resistance seem irrational.
+- `INS-260403-D06F` Status games require putting others down to rise, making them psychologically toxic compared to positive-sum wealth creation.
+- `INS-260330-2B5F` Human shield tactics are a strategic exploitation of the opponent's superior moral constraints — they only work against enemies who value civilian life more than you do.
+- `INS-260403-5681` SEIU weaponized ballot initiatives as destruction threats to extract concessions worth 16x their investment.
+- `INS-260330-4D9D` When people expect norm compliance from one party but not the other, the norm is already destroyed regardless of what happens next.
+- `INS-260327-BBC2` People cooperate not because they're good but because they expect to meet again - the shadow of future interactions is the real engine of ethical behavior.
+- `INS-260330-6165` Hoffman's fitness-beats-truth theorem mathematically proves that natural selection shapes senses to track fitness payoffs, not objective truth, with probability zero of evolving truth-seeing.
+- `INS-260323-ACD9` Committing in advance to principled behavior yields better outcomes than optimizing each decision in isolation.
+- `INS-260330-5C69` Deliberately deceiving an adversary in negotiations to buy time destroys the possibility of future diplomatic solutions, often at catastrophic long-term cost.
 - `INS-260330-D6EF` Proof of work replaces trust by making fraud more expensive than honest participation.
 - `INS-260330-FC9F` The day the first NFT fraud indictment was announced, multiple abandoned NFT projects immediately resumed development — proving fraudsters explicitly calculate prosecution probability.
 - `INS-260330-4370` Waiting for multiple block confirmations creates exponentially increasing security because a fraudster must outpace the entire honest network for each additional block.
@@ -15,23 +32,6 @@
 - `INS-260410-3018` If a losing adversary calculates 'it's my last day,' they'll happily make it your last day too — which is why nuclear weapons invert the logic of decisive victory.
 - `INS-260323-DE39` Musk argues Hamas's strategy was explicitly to provoke Israeli overreaction that rallies Muslims worldwide — meaning the game-theoretically optimal response is 'conspicuous acts of kindness' that deny the narrative.
 - `INS-260403-80D9` The 'Trump Always Chickens Out' trade paradoxically forces ever-larger provocations to generate the market pain that triggers retreat.
-- `INS-260412-EE2D` Gen Z's workplace disengagement is a rational response to seeing companies demonstrate zero loyalty to employees.
-- `INS-260330-C9C2` Swear words serve as credible emotional signals because their social cost keeps them scarce—overuse would destroy their alarm function.
-- `INS-260412-6D71` Unverifiable intentions plus existential stakes collapse decision-making to worst-case assumptions.
-- `INS-260330-B444` Cities surrendered to the Mongols on arrival because the reputation for total destruction made resistance seem irrational.
-- `INS-260403-D06F` Status games require putting others down to rise, making them psychologically toxic compared to positive-sum wealth creation.
-- `INS-260330-39D4` Japan bombed Pearl Harbor expecting it would frighten America into neutrality — a catastrophic mirror-imaging error that assumed Americans would react rationally to a show of force.
-- `INS-260327-6C64` In game theory tournaments, tit-for-tat (cooperate first, then mirror) consistently beats both always-cooperate and always-defect strategies across repeated interactions.
-- `INS-260329-78AE` People automatically trust speakers more when the speaker says something that visibly hurts their own interest, because costly signals are expensive to counterfeit.
-- `INS-260412-2220` Hypertumors — cancers that parasitize other cancers — show that selfish dynamics within a harmful system can cause it to self-destruct without outside intervention.
-- `INS-260325-47FE` Tit-for-tat wins repeated game theory: cooperate first, then mirror — simplicity and consistency beat complex manipulation.
-- `INS-260330-2B5F` Human shield tactics are a strategic exploitation of the opponent's superior moral constraints — they only work against enemies who value civilian life more than you do.
-- `INS-260403-5681` SEIU weaponized ballot initiatives as destruction threats to extract concessions worth 16x their investment.
-- `INS-260330-4D9D` When people expect norm compliance from one party but not the other, the norm is already destroyed regardless of what happens next.
-- `INS-260327-BBC2` People cooperate not because they're good but because they expect to meet again - the shadow of future interactions is the real engine of ethical behavior.
-- `INS-260330-6165` Hoffman's fitness-beats-truth theorem mathematically proves that natural selection shapes senses to track fitness payoffs, not objective truth, with probability zero of evolving truth-seeing.
-- `INS-260323-ACD9` Committing in advance to principled behavior yields better outcomes than optimizing each decision in isolation.
-- `INS-260330-5C69` Deliberately deceiving an adversary in negotiations to buy time destroys the possibility of future diplomatic solutions, often at catastrophic long-term cost.
 - `INS-260412-4D8F` Army ants never fight other army ants — those that did probably eradicated themselves millions of years ago.
 - `INS-260323-CB47` In both Newcomb's Paradox and nuclear deterrence, the best outcome follows from a credible, irrevocable commitment to a seemingly worse option.
 - `INS-260404-6891` When most players in an ecosystem publicly commit to a standard, the holdouts face disproportionate reputational cost.

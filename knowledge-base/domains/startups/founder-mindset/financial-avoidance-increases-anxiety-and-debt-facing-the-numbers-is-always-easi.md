@@ -6,7 +6,7 @@ title: >-
   Financial avoidance increases anxiety and debt — facing the numbers is always
   easier than the fear of facing them
 actionability: immediate
-confidence: high
+confidence: very_high
 shelf_life: evergreen
 status: active
 tags:
@@ -84,6 +84,7 @@ evidence:
   - id: INS-260403-3BD3
     type: SUPPORTS
     classified_at: '2026-04-06'
+empirical_state: confirmed
 ---
 The avoider can't look at their bank account. Research from Sages & Grayel shows people scoring high in financial avoidance save less, carry more high-interest debt, delay retirement planning, and experience higher financial stress. Saying 'finances aren't my thing' is self-handicapping — an ego protector, not an honest assessment.
 
