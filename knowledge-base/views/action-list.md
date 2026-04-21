@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-20 | 4964 actionable insights
+Generated on 2026-04-21 | 4967 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -252,6 +252,7 @@ Generated on 2026-04-20 | 4964 actionable insights
 - [INS-260330-30FB] G3P is photosynthesis's universal intermediate — one molecule convertible to glucose, cellulose, or starch — showing that versatile intermediates beat specialized end products for system resilience.
 - [INS-260410-0B73] Move container provisioning behind the first tool call so sessions that don't need a sandbox never wait for one — Anthropic saw p50 TTFT drop ~60% and p95 drop >90% from this change alone.
 - [INS-260410-346B] If losing a single container loses the session, you have adopted a pet — externalize state so any component can die and be replaced without human nursing.
+- [INS-260421-43EC] mem0's new algorithm replaced add/delete/update operations with single-pass add-only extraction; recency-weighted scoring surfaces current truth without losing history.
 
 ## ai-development/automation
 - [INS-260329-4751] Python's readability and ecosystem make it the best entry point for automation-focused learners.
@@ -404,6 +405,7 @@ Generated on 2026-04-20 | 4964 actionable insights
 - [INS-260410-A1CA] Anthropic's privacy controls prevented engineers from examining unreported problematic interactions, which lengthened the time needed to identify and reproduce the three infrastructure bugs.
 - [INS-260410-ED34] When LLM routing is sticky, a 0.8% misroute rate becomes a 100% bad experience for the unlucky users rather than a rare glitch for everyone.
 - [INS-260410-8092] Anthropic's December 2024 workaround for a dropped-token bug was inadvertently masking a much worse approximate top-k bug that only became visible when they removed the workaround in August.
+- [INS-260421-CE27] MemMachine demonstrated that single-node retrieval of 'suggest dessert' could miss a stored 'allergic to peanuts' fact; expanding to ±2 neighbor nodes catches the constraint.
 
 ## ai-development/limitations
 - [INS-260323-F68A] Claude Code users spend $8-13.5x their subscription in compute — if they had to pay per-error like a metered taxi, most would abandon the service because mistakes become expensive.
@@ -542,6 +544,7 @@ Generated on 2026-04-20 | 4964 actionable insights
 - [INS-260403-3B8D] Anthropic proved that safety-first positioning creates enterprise value by making predictability the product, not the overhead.
 - [INS-260409-94D6] Don't ask 'should I hire an editor' — list the 6-10 things an editor actually does with their hands and ask which of those can become workflows.
 - [INS-260409-6236] Daily hands-on AI usage builds usable intuition that content consumption cannot replace.
+- [INS-260421-536F] MemMachine's entire positioning ('Own Your Memory') leads with sovereignty; FalkorDB runs in your environment; Cognee ships open-source; enterprise buyers ranked this highly at AI Agents SF #12.
 
 ## ai-development/productivity
 - [INS-260405-7C86] Focused, short demos change AI behavior faster than comprehensive theoretical treatments.

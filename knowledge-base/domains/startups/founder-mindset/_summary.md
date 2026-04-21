@@ -3,6 +3,22 @@
 > 333 insights
 
 - `INS-260320-F751` [very_high] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
+- `INS-260323-E874` [very_high] The XZ attacker succeeded specifically because the maintainer was burned out and desperate for help — burnout is an attack surface.
+- `INS-260323-2F50` [very_high] Both Kinoshita and Hawryluk were publicly ridiculed by experts for proposing EUV lithography — Hawryluk was 'literally laughed off stage' and vowed to 'never speak of it again' — yet the technology they championed became the most important machine in the world.
+- `INS-260321-13C6` [very_high] Every determinative defense innovation in history was a heretical idea — someone had to protect the heretic from the institution that tried to kill them.
+- `INS-260323-3F56` [very_high] Dirac rejected the Klein-Gordon equation not because it was wrong in practice but because it was ugly in principle — its second-order time derivative violated the philosophical symmetry between space and time — and his insistence on elegance led to the discovery of antimatter.
+- `INS-260322-E06A` [very_high] Stan Lee's publisher had three logical-sounding objections to Spider-Man — all three were wrong because they reflected conventions, not truths about what audiences want.
+- `INS-260323-53FF` [very_high] People who score high in financial avoidance save less, carry more high-interest debt, and have higher financial stress — saying 'I'm bad with numbers' is ego protection, not truth.
+- `INS-260323-9770` [very_high] LIGO scientists built a billion-dollar machine on Einstein's unproven prediction and waited 10 years of silence before their first detection.
+- `INS-260323-8848` [very_high] People stay in situations they hate because familiarity feels safer than the unknown — real change comes from tiny daily actions (15 min/day) that slowly expand comfort zones without triggering nervous system rebellion.
+- `INS-260323-D564` [very_high] Tudor went $40K+ in debt, was jailed twice, and lost years of shipments to melting — but persisted because he believed ice could have saved his brother's life.
+- `INS-260323-4C71` [very_high] Self-sabotage is your brain protecting your ego from perceived threats — the fix is identifying the hidden core need (trust, self-worth, acceptance) that is the opposite of your surface-level coping behavior.
+- `INS-260323-475F` [very_high] Duncan Watts' Music Lab experiment showed that the same song ranked #1 in one group and #40 in another — quality sets a floor and ceiling, but within that range, success is determined by randomness.
+- `INS-260323-A700` [very_high] The martyr archetype wears exhaustion as a badge of honor, but burnout reduces productivity by 10%+ and early burnout can cost $300K/year in lost high-earning years — suffering itself is the opposite path to wealth.
+- `INS-260323-DA1E` [very_high] John Bell revolutionized physics by re-examining the EPR paradox that everyone had dismissed as 'settled' — his theorem proved that local hidden variables make different predictions than quantum mechanics, turning a philosophical debate into a testable experiment.
+- `INS-260323-543C` [very_high] The breakthrough moment where all fears dissolve and clarity arrives will never come — if you don't choose to change, life will eventually force change when staying comfortable becomes unbearable.
+- `INS-260322-A61A` [very_high] Stan Lee tested Spider-Man in a dying magazine's last issue because nobody cared what went in it — low-stakes channels are the perfect testing ground for ideas that gatekeepers rejected.
+- `INS-260323-4082` [very_high] Many of your current problems are the result of achieving the dreams of your past self — the stress comes with the job you wanted, the arguments come with the relationship you sought.
 - `INS-260322-E791` [high] During a crisis, the false but simple narrative ('Robinhood colluded with hedge funds') will always defeat the true but complex explanation (clearing mechanics, Dodd-Frank, collateral requirements).
 - `INS-260327-D76A` [high] A library in a small Chinese city transformed a village kid into a Stanford professor with 84,000 citations — access to knowledge is the ultimate equalizer.
 - `INS-260329-4DBC` [high] Claude Code and similar tools make it so easy to build plausible prototypes that founders lose conviction faster and cycle through ideas without depth.
@@ -20,9 +36,9 @@
 - `INS-260329-82B1` [high] When starting with no capital, embrace high-effort manual strategies first — automation and delegation come after you have revenue, not before.
 - `INS-260321-2F09` [high] Many AI founders fail because they build impressive demos that don't solve real painful jobs — if nobody asks about pricing, you don't have product-market fit.
 - `INS-260327-7157` [high] Giertz's shitty robots taught her more about engineering than trying to build perfect ones would have, because removing the pressure of perfection unlocks creative exploration.
-- `INS-260323-E874` [high] The XZ attacker succeeded specifically because the maintainer was burned out and desperate for help — burnout is an attack surface.
 - `INS-260329-EC01` [high] Champions win by saying no to everything except their singular focus, not by adding more skills or opportunities.
 - `INS-260322-750A` [high] Browse top-grossing apps, find categories with identical competitors, then build the same concept with a differentiated angle for an underserved segment.
+- `INS-260323-5D6D` [high] Repetitive work that violates your values causes cognitive depletion — your brain literally runs at lower capacity, making it impossible to learn new skills or build on the side.
 - `INS-260402-8EED` [high] A sufficiently pleasant employer can lull you into staying indefinitely even when starting a startup would produce a better outcome, because startups require crossing an activation energy barrier.
 - `INS-260329-C91D` [high] Commitment equals the elimination of alternatives — you prove commitment by what you stop doing, not by what you start.
 - `INS-260325-486C` [high] Adjacent numbers 26 and 27 in Collatz reach maximums of 40 and 9,232 respectively — simple rules create wildly divergent outcomes that no intuition can predict.
@@ -34,7 +50,6 @@
 - `INS-260323-1338` [high] Even if we perfectly redistributed wealth, the deeper crisis is that society accords prestige to those who manage symbols and money rather than those who produce real value.
 - `INS-260403-5D18` [high] Some people converge on their life's work early like Mozart, while others like Newton restlessly explore multiple fields — both paths can produce great work, and the 'single calling' narrative is often hindsight bias.
 - `INS-260404-8890` [high] How founders respond to advice — chasing all implications vs. filtering through preconceptions — is the strongest early signal of startup success.
-- `INS-260323-2F50` [high] Both Kinoshita and Hawryluk were publicly ridiculed by experts for proposing EUV lithography — Hawryluk was 'literally laughed off stage' and vowed to 'never speak of it again' — yet the technology they championed became the most important machine in the world.
 - `INS-260403-ACB2` [high] Reframing a corporate job from calling to platform unlocks its actual utility as a funding mechanism for real work.
 - `INS-260329-5A47` [high] Ignorance isn't a one-time cost — it's a recurring debt that compounds against you every period you don't learn.
 - `INS-260323-810D` [high] At 54 with grown children and strong convictions, Carlson finds that pure curiosity ('I was just interested') is the most sustainable and honest driver -- outlasting career anxiety, reputation management, and fear.
@@ -42,7 +57,6 @@
 - `INS-260403-0406` [high] Knowing what you want to do at age 16 seems impressive but usually means living a life chosen by someone with terrible information.
 - `INS-260329-0935` [high] Sustained focus on one domain compounds returns far more than spreading effort across many.
 - `INS-260405-5BA9` [high] Equity fundraising is often chosen by default rather than necessity, costing founders compounding ownership they never recover.
-- `INS-260321-13C6` [high] Every determinative defense innovation in history was a heretical idea — someone had to protect the heretic from the institution that tried to kill them.
 - `INS-260329-595E` [high] Depth in one area compounds returns faster than breadth across many.
 - `INS-260404-8A02` [high] Determination matters more than intelligence for startup founders once a baseline IQ threshold is met.
 - `INS-260403-C9C2` [high] Ambitious people can now bypass corporate ladders entirely by building things the market judges directly, which was nearly impossible a generation ago.
@@ -53,7 +67,6 @@
 - `INS-260320-C56D` [high] Your early 20s with no obligations are years you can never get back — don't spend them fixing tickets at big tech.
 - `INS-260405-6F45` [high] Before PMF, your job is to discover, not to deliver — treating a startup like a Fortune 500 kills the learning loop.
 - `INS-260403-862E` [high] Genuine problem interest predicts startup success better than ambition for money or status.
-- `INS-260323-3F56` [high] Dirac rejected the Klein-Gordon equation not because it was wrong in practice but because it was ugly in principle — its second-order time derivative violated the philosophical symmetry between space and time — and his insistence on elegance led to the discovery of antimatter.
 - `INS-260327-BEC7` [high] Ambiguity tolerance is a muscle—push yourself into uncomfortable situations repeatedly and it compounds over decades.
 - `INS-260323-3982` [high] Friedman's willingness to compromise and say 'I was wrong' gave him lasting policy influence, while Rand's philosophical purity made her schismatic and limited her practical impact.
 - `INS-260330-70BF` [high] No entrepreneur fears AI taking their job because entrepreneurship requires self-directed agency and authentic desires that AI structurally lacks.
@@ -62,12 +75,10 @@
 - `INS-260327-CF53` [high] Treat every external limitation and setback as jet fuel for your trajectory.
 - `INS-260329-CE86` [high] Success and failure look identical during the middle years — the only differentiator is who keeps going.
 - `INS-260403-CE70` [high] Repeat founders often fail by transplanting an entire operating system from their last startup without testing whether it fits the new market, team, or timing.
-- `INS-260322-E06A` [high] Stan Lee's publisher had three logical-sounding objections to Spider-Man — all three were wrong because they reflected conventions, not truths about what audiences want.
 - `INS-260327-2386` [high] If something takes less than 3 minutes and seems interesting, do it right now — do not wait, because most of the time failure is great if you fail fast.
 - `INS-260323-8C53` [high] Open Secret's marketplace failure created the financial discipline that enabled 3x growth while staying profitable — the crisis was the catalyst.
 - `INS-260328-9FC0` [high] A fake startup looks like a startup from the outside — office, team, fundraising — but has never shipped a product or served a real customer.
 - `INS-260323-2CCA` [high] Musk's WWII veteran grandfather had next-level PTSD but never bragged about his medals — the generation that viscerally understood war is gone, leaving decision-makers without that embodied knowledge.
-- `INS-260323-53FF` [high] People who score high in financial avoidance save less, carry more high-interest debt, and have higher financial stress — saying 'I'm bad with numbers' is ego protection, not truth.
 - `INS-260329-1CB0` [high] Extreme early frugality isn't about the savings — it's about escaping survival mode so you can think long-term and make strategic bets.
 - `INS-260410-419F` [high] Amazon's success was a philosophically straight line, a strategically squiggly line, and a tactically random set of dots through a maze of failed bets.
 - `INS-260405-AC3E` [high] The insight from a customer conversation degrades with every layer of intermediary between the customer and the decision-maker.
@@ -92,10 +103,8 @@
 - `INS-260330-70F5` [high] Founder excellence is paradox navigation, not single-dimension optimization.
 - `INS-260403-6C88` [high] Chamath's admission that Facebook's team wishes they'd been more careful proves that competitive pressure overrides good intentions without external constraints.
 - `INS-260402-9075` [high] Most startups die not from bad decisions but from founders who never fully committed.
-- `INS-260323-9770` [high] LIGO scientists built a billion-dollar machine on Einstein's unproven prediction and waited 10 years of silence before their first detection.
 - `INS-260320-07A2` [high] Hire people who were already customers — they have conviction you can't interview for.
 - `INS-260328-EBBC` [high] The quality of what you give us is the only factor in the quality of what we give you back — generic prompts get generic answers, honest ones get real insight.
-- `INS-260323-8848` [high] People stay in situations they hate because familiarity feels safer than the unknown — real change comes from tiny daily actions (15 min/day) that slowly expand comfort zones without triggering nervous system rebellion.
 - `INS-260327-200C` [high] Being more excited by others' startup failures than your corporate success is the clearest founder signal.
 - `INS-260328-F303` [high] The startup game is already nearly impossible when taking a real shot — not even taking a real shot is a guaranteed waste of time.
 - `INS-260329-8443` [high] At low savings levels, an extra $1K/month in income matters infinitely more than choosing the right index fund.
@@ -124,6 +133,7 @@
 - `INS-260323-4A3D` [high] In prisoner's dilemma simulations, adding just a few shortcut connections to a clustered network destroys cooperation entirely -- explaining why social media breeds toxicity.
 - `INS-260410-ED8E` [high] Akio Morita refused a 100,000-unit Sony order that required removing the Sony name, and Ralph Lauren walked away from a Bloomingdale's house-brand deal while sleeping on a mattress — both later made most of their money from licensing the brand they refused to dilute.
 - `INS-260403-F657` [high] If you're excited about non-prestigious work and can explain what others miss about it, that's a positive signal worth acting on.
+- `INS-260321-1A84` [high] People who are naturally quirky and nonconformist constantly generate strange ideas on their own, while those skilled at reading consensus find it hardest to produce unique ideas.
 - `INS-260327-47BA` [high] Nothing is going to be handed to you — you have to be vocal and communicate your needs and value to your manager, because good work alone is not enough.
 - `INS-260403-8004` [high] A founder packing boxes at $50M revenue does more for culture than any all-hands talk about being scrappy.
 - `INS-260329-6BE8` [high] Chasing new opportunities instead of deepening existing ones is the main reason entrepreneurs stay poor.
@@ -134,7 +144,6 @@
 - `INS-260403-C0E6` [high] Yahoo at $125B with 90% search market share was psychologically incapable of treating two Stanford PhD students as an existential threat.
 - `INS-260323-244C` [high] Netanyahu identifies the core AI leadership challenge: most people — including most political leaders — think in linear increments and cannot intuitively grasp geometric growth rates.
 - `INS-260329-DD06` [high] If you never stop working, you'll be ready for every opportunity window, making the question of timing irrelevant.
-- `INS-260323-D564` [high] Tudor went $40K+ in debt, was jailed twice, and lost years of shipments to melting — but persisted because he believed ice could have saved his brother's life.
 - `INS-260329-6130` [high] Low personal expenses buy you more shots on goal by letting you survive multiple business failures.
 - `INS-260403-1B8A` [high] The Airbnb founders persisted through a year of no growth and maxed-out credit cards because they had personally experienced the magic of hosting — they'd 'seen a glimpse of the future.'
 - `INS-260403-743D` [high] Self-directed project history reveals intrinsic motivation and execution ability that grades cannot measure.
@@ -163,7 +172,6 @@
 - `INS-260403-5D99` [high] Repeat founders act on informed instinct and validate later, because they know the cost of analysis paralysis exceeds the cost of being wrong.
 - `INS-260330-8733` [high] Nakamura literally crumpled up and threw away multiple written orders from the CEO to stop his research, and credited this disobedience as the reason for his success.
 - `INS-260323-246F` [high] Bezos's grandfather never called for help — he built cranes, made his own veterinary tools, and spent a summer fixing a broken bulldozer, teaching that any problem yields to persistence and ingenuity.
-- `INS-260323-4C71` [high] Self-sabotage is your brain protecting your ego from perceived threats — the fix is identifying the hidden core need (trust, self-worth, acceptance) that is the opposite of your surface-level coping behavior.
 - `INS-260323-1CA4` [high] Cuban redefines selling as simply asking 'can my product help this person?' — a learnable skill that requires empathy and domain knowledge, not innate charisma.
 - `INS-260328-0345` [high] If you already know what you want to do, step one isn't finding an adviser who agrees with you — just do the thing.
 - `INS-260329-AAE3` [high] You can be right 99% of the time that individual attempts will fail, but being 100% wrong on the long-term outcome because one of them would have worked if you kept going.
@@ -182,8 +190,6 @@
 - `INS-260327-80A8` [high] A startup success is your customer success — focus on whether they are getting value, not on vanity metrics.
 - `INS-260403-4431` [high] Rare genuine interest in commercially valuable but unappealing work creates a natural monopoly on motivation and persistence.
 - `INS-260329-E0DE` [high] Business stress is universal across all states; the decision to categorize something as a 'problem' causes more stress than the problem itself.
-- `INS-260323-475F` [high] Duncan Watts' Music Lab experiment showed that the same song ranked #1 in one group and #40 in another — quality sets a floor and ceiling, but within that range, success is determined by randomness.
-- `INS-260323-A700` [high] The martyr archetype wears exhaustion as a badge of honor, but burnout reduces productivity by 10%+ and early burnout can cost $300K/year in lost high-earning years — suffering itself is the opposite path to wealth.
 - `INS-260321-C0A4` [high] Your probability of success directly correlates with whether your closest friends care about and push you toward what you want to achieve.
 - `INS-260323-FDB8` [high] We only study winners, but losers often executed the same playbook — luck and timing separated them.
 - `INS-260323-A64F` [high] Talent only reveals itself when the environment activates it — a person can go their whole life without entering the domain that would unlock their natural ability.
@@ -201,7 +207,6 @@
 - `INS-260402-43F9` [high] Giving someone investment capital to build their own thing produces better outcomes than paying them a salary to build your thing.
 - `INS-260409-7D27` [high] Real entrepreneurs know the two years spent on a doomed project compound into skills for the next thing, so the 'why start if it'll be automated' objection exposes that you're not actually an entrepreneur.
 - `INS-260402-96E2` [high] Starting a company in mid-century America was rejected not as too risky but as too low-status compared to climbing institutional ladders.
-- `INS-260323-DA1E` [high] John Bell revolutionized physics by re-examining the EPR paradox that everyone had dismissed as 'settled' — his theorem proved that local hidden variables make different predictions than quantum mechanics, turning a philosophical debate into a testable experiment.
 - `INS-260328-FFC3` [high] Telling a great engineer to 'build better software' is useless — telling them to invest in sales is transformative.
 - `INS-260329-0117` [high] The '7 income streams' advice is survivorship bias — millionaires built wealth by going all-in on one stream, then diversified to preserve it.
 - `INS-260329-1669` [high] The belief that pursuing multiple opportunities increases the odds of one succeeding is a fallacy—any single one could have succeeded with full focus, but none will with divided attention.
@@ -214,7 +219,6 @@
 - `INS-260327-8254` [high] Horowitz identifies two fatal founder patterns: over-deferring to smart hires because no one else has the CEO's full context, and hesitating on hard decisions until decision debt paralyzes the company.
 - `INS-260327-500C` [high] Zipline's biggest realization was that designing a cool autonomous aircraft was only 15% of building a national-scale delivery system.
 - `INS-260323-CF93` [high] Intelligence is multi-dimensional — Bezos left theoretical physics when he saw people who could effortlessly do what was hard for him, then discovered his genius was lateral-thinking invention.
-- `INS-260323-543C` [high] The breakthrough moment where all fears dissolve and clarity arrives will never come — if you don't choose to change, life will eventually force change when staying comfortable becomes unbearable.
 - `INS-260328-D775` [high] MBA programs were trade schools for middle managers at GM — that rule-following mindset is the exact opposite of what startups require.
 - `INS-260329-4488` [high] Set decade-long commitments to activities rather than short-term outcome targets to reduce emotional ups and downs while building compounding advantages.
 - `INS-260323-61CD` [high] The Watts-Strogatz model shows that rewiring just 0.03% of connections to random shortcuts makes any network as navigable as a fully random one.
@@ -225,7 +229,6 @@
 - `INS-260403-886D` [high] Competitive drive without ambitious projects to channel it into reliably turns into bitterness, trolling, and tearing down others' ideas.
 - `INS-260329-6117` [high] The most damaging limits are the ones you don't know you have because you never think to question them.
 - `INS-260329-5C7A` [high] Channel frustration about slow outcomes into higher volume of deliberate inputs rather than strategy-switching.
-- `INS-260322-A61A` [high] Stan Lee tested Spider-Man in a dying magazine's last issue because nobody cared what went in it — low-stakes channels are the perfect testing ground for ideas that gatekeepers rejected.
 - `INS-260329-89ED` [high] Eliminating the 28 behaviors that guarantee poverty is a more reliable wealth strategy than any positive wealth-building framework.
 - `INS-260329-60CF` [high] Owning equity in a profitable business reaches millionaire status far faster than saving from high income due to valuation multipliers.
 - `INS-260403-E688` [high] Wealth's real value is buying back your time and autonomy, not funding consumption.
@@ -236,7 +239,6 @@
 - `INS-260325-8D66` [high] You cannot get out of bed each morning expecting a breakthrough — but you can get out of bed saying 'today I will figure out how to do this better than last week.'
 - `INS-260323-3A54` [high] Atlas discovered that his anger and street violence came from emotional poverty despite material comfort -- being a doctor's son with a disjointed family taught him that deprivation of connection drives destructive behavior regardless of economic status.
 - `INS-260327-7F11` [high] The biggest wins come from holding ideas that smart people call stupid—expert consensus is where the alpha is.
-- `INS-260323-4082` [high] Many of your current problems are the result of achieving the dreams of your past self — the stress comes with the job you wanted, the arguments come with the relationship you sought.
 - `INS-260325-86B3` [high] Lyft/Presto cofounder Rajat Suri: 5 years of zero revenue survived through a loyalty cycle where team sacrifice inspired founder persistence and vice versa.
 - `INS-260329-DD01` [high] Birth zip code outpredicts IQ, race, and gender for lifetime earnings because environment shapes ambition through social comparison.
 - `INS-260410-7687` [medium] Greg Abel's 2025 Berkshire letter explicitly catalogues six foundational values (Decentralized Model, Integrity, Financial Strength, Capital Discipline, Risk Management, Operational Excellence) 'that will continue into perpetuity,' framing them as the mechanism for surviving the Warren-to-Greg transition without identity loss.
@@ -254,7 +256,6 @@
 - `INS-260409-C3B3` [medium] Out-caring competitors is the only high-leverage moat that isn't gated by scarcity — anyone can occupy that ranking.
 - `INS-260327-E3ED` [medium] Shameless urgency—like chasing PG to his car—signals genuine conviction that investors can't ignore.
 - `INS-260323-1975` [medium] You must be either the tech/product founder or the business/revenue founder, then find a complementary co-founder for the other role.
-- `INS-260323-5D6D` [medium] Repetitive work that violates your values causes cognitive depletion — your brain literally runs at lower capacity, making it impossible to learn new skills or build on the side.
 - `INS-260410-614E` [medium] Most VCs say 'we made a bet' or 'it's a good risk-adjusted bet' — Benchmark partners argue this language encodes passive super-forecasting, whereas 'commitment' encodes active odds-denting on the field with the founder.
 - `INS-260327-E3D5` [medium] Competitive backgrounds in any domain build the exact muscles—discipline, risk tolerance, resilience—that founders need.
 - `INS-260409-BA4E` [medium] Your newsfeed and peer group are in your control and determine whether you can execute in the AI era — deliberately switch them to optimism and action-orientation.
@@ -295,7 +296,6 @@
 - `INS-260329-BF96` [medium] Avoiding wealth-destroying behaviors compounds faster than seeking wealth-creating ones.
 - `INS-260327-98DE` [medium] AI breakthroughs that look like bugs will become common across all knowledge work.
 - `INS-260403-B957` [medium] Naive founders bypass outdated beliefs about impossibility, sometimes solving problems experts had written off.
-- `INS-260321-1A84` [medium] People who are naturally quirky and nonconformist constantly generate strange ideas on their own, while those skilled at reading consensus find it hardest to produce unique ideas.
 - `INS-260327-D5B5` [medium] Exposure to product excellence creates the obsession that produces great founders—Meniri's Apple Store visit changed his life.
 - `INS-260410-4C9D` [medium] Amazon Marketplace let third-party sellers win the buy-box on Amazon's own product pages, which torched category managers' P&L—a move only a founder could force through.
 - `INS-260403-F7F4` [medium] Practice optimism during good times so it's accessible as a trained response when everything goes wrong.

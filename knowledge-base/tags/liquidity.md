@@ -1,6 +1,5 @@
 # Tag: liquidity
 
-- `INS-260403-A6F1` Careers can be evaluated like financial instruments—liquid paths offer security and optionality while illiquid paths carry concentrated risk and reward.
 - `INS-260412-D21C` The tulip crash began when a few buyers in North Holland simply didn't show up to auctions — not a policy change or external shock, but a quiet withdrawal of demand.
 - `INS-260404-FFC4` Medallion closed to outside investors in 1993 because more capital would push trades into less liquid instruments, diluting the edge.
 - `INS-260402-B653` Fractionalization turns capital-gated asset classes into accessible markets by lowering the minimum ownership unit to near-zero.
@@ -25,11 +24,12 @@
 - `INS-260403-E294` Unicorn exits accelerating in AI, cyber, and health while other sectors remain illiquid reveals selective rather than broad liquidity recovery.
 - `INS-260405-BCF4` When LPs stop receiving distributions, they stop writing new fund commitments — shrinking the supply of venture capital with a 12-24 month lag.
 - `INS-260403-8441` Slowing exits are pushing venture firms to adopt private equity tactics like acquisitions and AI-driven growth optimization.
-- `INS-260410-DAB6` Berkshire ended 2025 with $370B+ in cash and Treasuries as 'dry powder' — explicitly reserved to 'allow us to act decisively, invest when others are tentative or fearful, and stand firm when financial storms roll through.'
 - `INS-260409-49EF` California's proposal includes deferred-payment provisions letting startup founders delay wealth-tax payment until after IPO, defusing the 'forced sale' objection.
+- `INS-260403-A6F1` Careers can be evaluated like financial instruments—liquid paths offer security and optionality while illiquid paths carry concentrated risk and reward.
+- `INS-260410-DAB6` Berkshire ended 2025 with $370B+ in cash and Treasuries as 'dry powder' — explicitly reserved to 'allow us to act decisively, invest when others are tentative or fearful, and stand firm when financial storms roll through.'
 - `INS-260405-0375` At current exit velocity, the entire U.S. unicorn backlog would take 49 years to clear.
-- `INS-260402-575D` Ten or more reviews override humans' innate preference for similar people, unlocking cross-demographic trust in marketplaces.
 - `INS-260403-F4AC` Breaking exit proceeds into immediate vs deferred cash exposes whether a high-valuation exit actually delivers usable capital.
 - `INS-260403-0F15` Event-based vesting gives companies total control over whether employees ever receive equity value.
 - `INS-260403-A8BA` IPO timelines have stretched to 11-13+ years, making equity-heavy compensation a much longer bet than most candidates realize.
 - `INS-260403-2330` Seed investors are pivoting to earlier exits as LPs demand faster returns on smaller funds.
+- `INS-260402-575D` Ten or more reviews override humans' innate preference for similar people, unlocking cross-demographic trust in marketplaces.

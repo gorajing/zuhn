@@ -50,10 +50,10 @@ stance: >-
   to linear and is the same architectural insight that reappears as message
   buses, event streams, and shared state stores in software.
 related:
+  - INS-260421-7ADE
   - INS-260410-9246
   - INS-260327-C294
   - INS-260330-3D0D
   - INS-260329-CD02
-  - INS-260404-397F
 ---
 When the video introduces the bus, the presenter frames it explicitly as 'the power of the bus — we can just decide to connect things, versus having to connect everything to everything else.' This isn't just a hardware trick. Point-to-point wiring scales as O(N^2) in connections, and it becomes intractable with more than a handful of components. A shared bus with arbitration control (only one component writes at a time, many can read) reduces this to O(N). The same pattern recurs all the way up the stack: message brokers, event buses, pub-sub, Redux stores, the DOM event model. Every time you're tempted to wire a new component directly to every existing component, ask whether a shared channel with arbitration would scale better. Usually the answer is yes.

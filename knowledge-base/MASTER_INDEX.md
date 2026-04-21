@@ -1,6 +1,6 @@
 # Knowledge Base Master Index
 
-> Last rebuilt: 2026-04-20 | Total insights: 10898 | Sources: 2470
+> Last rebuilt: 2026-04-21 | Total insights: 10908 | Sources: 2471
 
 **NOTE:** Access counts and last_accessed are updated automatically when insights are retrieved.
 
@@ -8,7 +8,7 @@
 
 | Domain | Topics | Insights | Principles | Last Updated |
 | ------ | ------ | -------- | ---------- | ------------ |
-| ai-development | 40 | 1756 | 131 | 2026-04-13 |
+| ai-development | 40 | 1766 | 131 | 2026-04-21 |
 | automation | 7 | 41 | 2 | 2026-04-12 |
 | health | 6 | 483 | 44 | 2026-04-12 |
 | investing | 11 | 1389 | 110 | 2026-04-13 |
@@ -35,53 +35,13 @@ _No flags._
 
 ## Recently Added (last 7 days)
 
-- `INS-260413-D96C` 80% of US high school and college students use AI for schoolwork but only 50% of middle/high schools have AI policies and just 6% of teachers say those policies are clear — a 13x usage-to-policy-clarity gap. _(2026-04-13)_
-- `INS-260413-BBFA` Over 80% of respondents in China, Malaysia, Thailand, Indonesia, and Singapore expect AI to profoundly change their lives in 3-5 years, with Malaysia showing the largest +9pp increase — while North America/Europe cluster at high nervousness. _(2026-04-13)_
-- `INS-260413-6CE0` 58% of employees globally use AI at work regularly — but the share exceeds 80% in India, China, Nigeria, UAE, and Saudi Arabia, while North America/Europe sit at 40-48%, inverting the usual wealth-diffusion pattern. _(2026-04-13)_
-- `INS-260413-11C9` Microsoft's AI Diagnostic Orchestrator + OpenAI o3 scored 85.5% on complex case studies vs 20% for unaided physicians, and multi-agent frameworks show 7% to over 60% gains over single-agent baselines. _(2026-04-13)_
-- `INS-260413-AD37` OSWorld agent accuracy leapt from 12% to 66.3% in 2025, within 6 points of human performance, with Claude Sonnet 4.5 alone hitting 61.4% on computer-use tasks. _(2026-04-13)_
-- `INS-260413-EB61` Looking at GPT-5.2, Gemini 3, DeepSeek-V3.2, Llama 4 Maverick, Grok 4.1, Claude Opus 4.5, and Mistral 3 Large: nearly all report MMLU/GPQA/AIME but almost none report safety benchmarks (BBQ, HarmBench, Cybench, StrongREJECT, WMDP, MakeMePay). _(2026-04-13)_
-- `INS-260413-F638` Empirical evidence shows training techniques aimed at improving one RAI dimension consistently degrade others — gains in privacy reduce fairness, gains in safety reduce accuracy — and no framework exists to govern the tradeoffs. _(2026-04-13)_
-- `INS-260413-62D5` Aardvark Weather replaced the traditional numerical weather prediction pipeline with a single ML system in 2025, and FourCastNet 3 generates a 60-day forecast in under 4 minutes — 8 to 60 times faster than prior approaches. _(2026-04-13)_
-- `INS-260413-7816` Frontier models beat human chemists on ChemBench 2,700+ Q&A averages but score <20% on ReplicationBench, and PaperArena best agent 38.8% vs PhD expert 83.5% — capability collapses from Q&A to real research. _(2026-04-13)_
-- `INS-260413-61CE` Sakana's AI Scientist-v2 produced a paper accepted at an ICLR workshop without human-coded templates, and Google's AI Co-Scientist was validated in three biomedical areas — the first autonomous AI research crossing peer review. _(2026-04-13)_
-- `INS-260413-0992` Most AI foundation models for science originate from academia and government with international collaborations, inverting the 91.58% industry dominance in general-purpose frontier AI. _(2026-04-13)_
-- `INS-260413-8CA7` Google DeepMind's Veo 3 demonstrated emergent physical understanding — buoyancy simulation and maze solving — without being explicitly trained on those tasks, across 18,000 generated videos. _(2026-04-13)_
-- `INS-260413-416A` Ambient clinical AI scribes saw broad adoption in 2025, with hospitals reporting up to 83% less time writing notes, burnout reductions, and 112% ROI in at least one hospital system. _(2026-04-13)_
-- `INS-260413-539D` AI-related publications in natural sciences reached ~80,150 in 2025 (+26% YoY), with AI accounting for 5.8-8.8% of research output across fields — up from under 1% in 2010. _(2026-04-13)_
-- `INS-260413-7B46` As of March 2026 the top frontier labs are indistinguishable on Arena within 25 Elo points, so the competitive game has shifted from capability to cost, reliability, and workflow fit. _(2026-04-13)_
-- `INS-260413-36B4` Generative AI reached 53% US population adoption within 3 years — faster than the PC or internet — while organizational adoption hit 88% and Singapore/UAE lead at 61%/54% with the US ranking 24th at 28.3%. _(2026-04-13)_
-- `INS-260413-0EF6` In 2025 industry produced 87 of 95 notable models (91.58%) while academia produced 1 (1.05%), and the top labs have stopped disclosing training code, dataset sizes, and parameter counts. _(2026-04-13)_
-- `INS-260413-25EC` The open-weight gap reopened from 0.5% to 3.3% between August 2024 and March 2026, with 6 of the top 10 Arena models now closed-weight — treating open-weight catch-up as a one-way ratchet is empirically wrong. _(2026-04-13)_
-- `INS-260413-9769` Estimated US consumer surplus from generative AI tools reached $172B annually by early 2026 with median per-user value tripling between 2025 and 2026 — mostly captured through free access. _(2026-04-13)_
-- `INS-260413-CAA6` New AI PhDs in US/Canada +22% from 2022-2024 but industry's share of new PhDs stayed flat — all the growth went to academia, reversing a decade-long trend and disproving the 'brain drain' narrative. _(2026-04-13)_
-- `INS-260413-E5F8` US four-year CS undergrad enrollment fell 11% from 2024-2025 but AI software master's graduates grew 82% from 2022-2024 and 17% YoY — students are moving upmarket to AI specialization as entry-level coding jobs erode. _(2026-04-13)_
-- `INS-260413-86EA` US software developer employment for ages 22-25 fell ~20% from 2024 while older developer headcount grew, and 1/3 of surveyed organizations expect further workforce reductions ahead. _(2026-04-13)_
-- `INS-260413-BE3E` Public vs expert forecasts for AI-driven job loss: cashiers 73% / 73% (agree), truck drivers 33% / 62%, lawyers 23% / 38% — public underestimates expert-identified risk, and overestimates teacher/doctor risk. _(2026-04-13)_
-- `INS-260413-9E3D` August 2025: US lawmakers increased scrutiny of AI companion safeguards after a widely reported teen suicide linked to an AI companion. October 13: California enacted SB 243 regulating companion bots — emotional AI is now a distinct regulatory frontier. _(2026-04-13)_
-- `INS-260413-E2C4` FDA authorized 258 AI medical devices in 2025 — the vast majority through pathways that rely on existing safety/efficacy evidence — with only 2.4% backed by randomized trial data. _(2026-04-13)_
-- `INS-260413-4EB1` The Foundation Model Transparency Index went 37→58 from 2023-2024 then dropped to 40 in 2025 — the first major regression in disclosure since the index began tracking. _(2026-04-13)_
-- `INS-260413-B7A7` US congressional AI witnesses grew from 5 in 2017 to 102 in 2025 (20x), and industry's share nearly tripled from 13% to 37% to become the largest witness group — academia's share fell to 15%. _(2026-04-13)_
-- `INS-260413-7C61` 2025 saw US federal policy shift to deregulation (Jan 23 EO, Jul 23 AI Action Plan, Dec 12 EO curbing state laws) while Texas TRAIGA, California SB 53, Montana Right to Compute, and Utah HB 452 passed substantive state AI laws. _(2026-04-13)_
-- `INS-260413-CDE2` Across all 50 US states, concern about too-little AI regulation outweighs concern about too-much — 41% say federal AI regulation will not go far enough vs 27% saying it will go too far, though more than one-third are unsure. _(2026-04-13)_
-- `INS-260413-9818` AI Index 2026 flags emerging evidence that heavy AI reliance may carry long-term learning penalties that slow skill development over time — the productivity-for-learning trade-off becomes structural. _(2026-04-13)_
-- `INS-260413-6DBD` US experts vs public AI optimism on jobs: 73% vs 23%. On economy: 69% vs 21%. On medical care: 84% vs 44%. The expert-public gap is 50 points on average and replicates across nearly every AI topic surveyed. _(2026-04-13)_
-- `INS-260413-3AB5` 67% of US AI software master's graduates and 55% of AI PhD graduates are non-residents — and federal visa revocations plus discouraged enrollment make further declines expected as the 89% drop in new AI talent inflow since 2017 compounds. _(2026-04-13)_
-- `INS-260413-BD80` Global AI compute reached 17.1M H100-equivalents in 2025, growing 3.3x per year since 2022, with Nvidia supplying 60%, Google/Amazon supplying most of the rest, and Huawei growing slowly. _(2026-04-13)_
-- `INS-260413-07F2` OpenAI, SoftBank, Oracle, and MGX announced the $500B Stargate Project at the White House in Jan 2025 and by September locked in a $300B 5-year Oracle cloud contract delivering 4.5 GW of compute. _(2026-04-13)_
-- `INS-260413-E816` GPT-4o's accuracy dropped from 98.2% to 64.4% and DeepSeek R1 from 90% to 14.4% when identical false statements were reframed from 'another person believes' to 'the user believes' — sycophancy is a structural failure mode, not an edge case. _(2026-04-13)_
-- `INS-260413-C4EE` AI systems can propose novel candidate molecules at scale but clinical trials and wet-lab experiments to validate them remain costly multiyear processes — the generation-validation gap is the binding constraint in drug discovery. _(2026-04-13)_
-- `INS-260413-A950` Gemini Deep Think earned IMO gold yet reads analog clocks correctly 50.1% of the time versus 91% for humans — 'AGI-level' performance on one axis predicts nothing about adjacent tasks. _(2026-04-13)_
-- `INS-260413-B79B` AI benchmark saturation has compressed from years to months, making sustained measurement infrastructure the binding constraint on progress tracking. _(2026-04-13)_
-- `INS-260413-C040` MSAPairformer (111M params) beat prior SOTA on ProteinGym; GPN-Star (200M) beat a 40B genomics model; AlphaFold 3 (370M) still leads FoldBench despite SimpleFold's 3B challenger — data beats scale in biology. _(2026-04-13)_
-- `INS-260413-C64F` Across 68 LEAP forecast questions, AI experts predicted faster progress than the public 71% of the time and were on average 16% more likely to predict faster outcomes on any given milestone. _(2026-04-13)_
-- `INS-260413-3C99` People are AI-optimistic for themselves and AI-pessimistic for everyone else — 56% globally say AI saves them time, 40% say AI will make their job better, yet 64% of US adults expect AI to produce fewer jobs overall. _(2026-04-13)_
-- `INS-260413-F591` India registered the sharpest rise in AI nervousness of any country surveyed (+14 percentage points 2024-2025) with only a modest increase in excitement (+2) — anxiety and optimism decoupled in the country most central to global AI talent. _(2026-04-13)_
-- `INS-260413-AC10` 2025 global AI private investment hit $344.7B (+127.5%), generative AI alone $170.9B (+200%+), newly funded companies 3,499 (+70.8%), and 28 billion-dollar events vs 15 in 2024. _(2026-04-13)_
-- `INS-260413-9269` National AI strategies are expanding fastest in developing economies with no prior AI policy, but supercomputing capacity is wildly unequal — China 85, Europe/Central Asia 44, North America 41, South Asia 2. _(2026-04-13)_
-- `INS-260413-3860` China accounted for 54% of industrial robots installed globally in 2024 (up from 51.1% in 2023) while US, Germany, and Italy declined — pairing AI capability with the manufacturing base to deploy it. _(2026-04-13)_
-- `INS-260413-5622` Data localization measures by region (cumulative): East Asia Pacific 77, Sub-Saharan Africa 71, Europe/Central Asia 66, MENA 44, LATAM 36, South Asia 24, and North America just 3 — the splits are structural, not cyclical. _(2026-04-13)_
-- `INS-260413-EB7C` Across 25 countries in Pew's 2025 survey, median 53% trust the EU to regulate AI effectively, compared to 37% for the US and 27% for China — a clear 16-point lead for Europe as the default regulator. _(2026-04-13)_
-- `INS-260413-09C4` DeepSeek-R1 briefly matched the top US model in Feb 2025 and as of March 2026 Anthropic leads by just 2.7% — US AI supremacy is a contested measurement, not a structural condition. _(2026-04-13)_
-- `INS-260413-DAEA` Only 31% of Americans trust their own government to regulate AI — the lowest of any country surveyed and far below the global average of 54%, Singapore's 81%, and Indonesia's 76%. _(2026-04-13)_
-- `INS-260413-255E` US federal AI spending 2013-2024: $20.4B in contracts and grants. US private AI investment 2025 alone: $285.9B. The ratio is roughly 14:1 — in a single year — and the gap is compounding. _(2026-04-13)_
+- `INS-260421-E9FC` mem0 released an algorithm update one week before AI Agents SF #12 making 'agent-generated facts first-class' — equal weight to user-authored content in retrieval scoring. _(2026-04-21)_
+- `INS-260421-BD7F` At AI Agents SF #12 all 5 memory vendors competed on retrieval sophistication; the words 'compression,' 'principle,' 'doctrine,' and 'retirement' did not appear once in 1h 42m. _(2026-04-21)_
+- `INS-260421-43EC` mem0's new algorithm replaced add/delete/update operations with single-pass add-only extraction; recency-weighted scoring surfaces current truth without losing history. _(2026-04-21)_
+- `INS-260421-665D` MemMachine, mem0, and Cognee all adopt some variant of working memory (short-term buffer), episodic memory (timestamped events), and semantic memory (extracted facts/profile). _(2026-04-21)_
+- `INS-260421-8004` 4 of 6 speakers at AI Agents SF #12 use graph primitives (Neo4j, FalkorDB, Cognee's own) with vector embeddings layered inside graph nodes rather than as the top-level store. _(2026-04-21)_
+- `INS-260421-7ADE` Semiont's foundational axiom: every operation the system can do is equivalent between humans and agents via a unified event bus with a sliding scale of automation. _(2026-04-21)_
+- `INS-260421-CE27` MemMachine demonstrated that single-node retrieval of 'suggest dessert' could miss a stored 'allergic to peanuts' fact; expanding to ±2 neighbor nodes catches the constraint. _(2026-04-21)_
+- `INS-260421-3E99` Context windows grew 2500x since GPT-3 (4K to 10M tokens) but models degrade well before the advertised limit — Gemini 1M stops reliably using context past ~300-500K. _(2026-04-21)_
+- `INS-260421-60D9` Cognee pitches 'control plane for agent memory' — orchestration across stores — rather than 'a better memory store'; this positioning is harder to commodify than storage-layer differentiation. _(2026-04-21)_
+- `INS-260421-536F` MemMachine's entire positioning ('Own Your Memory') leads with sovereignty; FalkorDB runs in your environment; Cognee ships open-source; enterprise buyers ranked this highly at AI Agents SF #12. _(2026-04-21)_

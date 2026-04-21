@@ -1,8 +1,5 @@
 # Tag: due-diligence
 
-- `INS-260412-C33C` Sam's 'humble billionaire who drives a Toyota' persona neutralized scrutiny from investors, media, and regulators who should have seen obvious structural problems.
-- `INS-260330-990F` Ivy League credentials, celebrity endorsements, and institutional backing create a cascade of unchecked assumptions that sophisticated investors like Sequoia and BlackRock use as substitutes for actual investigation.
-- `INS-260329-DE17` Evaluate free content from a teacher before buying paid courses to reliably predict quality and fit.
 - `INS-260412-51C1` Enron's status as Bush's largest campaign contributor bought them regulatory immunity that enabled fraud to scale.
 - `INS-260410-9A20` Staged 'busy office' tours are a fraud tell — real businesses don't need to fake activity for visiting analysts.
 - `INS-260412-EB4F` Consistent returns uncorrelated with market movements are the top red flag for investment fraud.
@@ -27,8 +24,11 @@
 - `INS-260403-87D9` Most deal-killing risks at early stage live outside the financial model.
 - `INS-260403-35A6` VCs filter investments through five consistent criteria: market size, traction, unit economics, team, and competitive moat.
 - `INS-260403-6EC8` VCs face structural information disadvantages vs public market investors because private companies control what gets reported and many VCs lack accounting expertise.
-- `INS-260402-E148` Job listings are the most honest public signal of a competitor's technical capability because they must be specific to attract the right candidates.
+- `INS-260412-C33C` Sam's 'humble billionaire who drives a Toyota' persona neutralized scrutiny from investors, media, and regulators who should have seen obvious structural problems.
+- `INS-260330-990F` Ivy League credentials, celebrity endorsements, and institutional backing create a cascade of unchecked assumptions that sophisticated investors like Sequoia and BlackRock use as substitutes for actual investigation.
+- `INS-260329-DE17` Evaluate free content from a teacher before buying paid courses to reliably predict quality and fit.
 - `INS-260412-71C6` Trevor Milton's pattern of defrauding buyers and partners repeated identically across four companies over 15 years, escalating in scale each time.
+- `INS-260402-E148` Job listings are the most honest public signal of a competitor's technical capability because they must be specific to attract the right candidates.
 - `INS-260330-09FF` A YC company that was incorrectly converted from a Connecticut LLC to a Delaware C-Corp accumulated a $500K legal bill across four law firms when the error surfaced during a major fundraise.
 - `INS-260403-CEC0` Sophisticated investors repeatedly overlook missing governance basics like boards of directors, which are the strongest predictors of catastrophic failure.
 - `INS-260403-5896` Judge accelerators by their alumni outcomes, not their marketing or brand name.

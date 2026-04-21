@@ -87,6 +87,7 @@
 - `INS-260327-8DFE` [high] Giertz sharing her brain tumor journey publicly created deeper audience loyalty than any product launch, because genuine vulnerability builds trust that curated content cannot.
 - `INS-260327-0061` [high] Most people have quietly given up and no one's noticed - because in a comfortable society, resignation looks exactly like contentment.
 - `INS-260329-3848` [high] Work begins once motivation stops — the period after excitement fades is where most people quit and where champions pull ahead.
+- `INS-260323-9867` [high] A person can be objectively 'failing' by society's standards (no career use of degree, living with mom, minimal income) while being genuinely happy — the gap between external metrics and internal well-being reveals how arbitrary societal success markers are.
 - `INS-260403-1A6B` [high] Deliberately framing ambitious work as sketches, hacks, or experiments lowers the psychological barrier to starting and sustaining it.
 - `INS-260404-5365` [high] Treating selectors as customers rather than judges dissolves the expectation that rejection should be fair.
 - `INS-260329-68C8` [high] We repeat behaviors that are reinforcing (aligned with deeper purpose), not just those that are rewarding (pleasurable).
@@ -107,6 +108,7 @@
 - `INS-260330-523E` [high] Expert social engineers often learned to read people as abused children needing to predict and manipulate caregivers for survival.
 - `INS-260405-ED6F` [high] The right colleagues don't just encourage you — they help you see which ugly ducklings are actually swans, which is what you really need.
 - `INS-260327-B767` [high] Learning to enjoy being alone transforms every relationship into a choice rather than a dependency.
+- `INS-260323-099F` [high] When a low-vibration emotion surfaces, locate it physically in your body and feel it for a few minutes rather than bypassing it — this diffuses the charge permanently.
 - `INS-260325-25A2` [high] Spinoza: caring less is not apathy but rational clarity about what you can influence — most suffering comes from fighting the determined.
 - `INS-260327-439A` [high] Spinoza's insight: caring less about what you can't control isn't weakness - it's the prerequisite for caring more effectively about what you can control.
 - `INS-260409-143A` [high] Hustle-driven anxiety triggers fight/flight physiology which measurably reduces creativity and opportunity recognition — the opposite of what the pursuit requires.
@@ -163,7 +165,6 @@
 - `INS-260403-53A0` [medium] Founders who survive the full 10-year journey report that exits feel quiet and anticlimactic because the person who wanted the exit no longer exists.
 - `INS-260330-48C6` [medium] The video's punchline — a programmer who becomes a farmer — illustrates that exiting status competition requires decoupling identity from professional achievement entirely.
 - `INS-260329-C345` [medium] The debt snowball method works better than the avalanche method because quick wins sustain the behavior change that actually eliminates debt.
-- `INS-260323-9867` [medium] A person can be objectively 'failing' by society's standards (no career use of degree, living with mom, minimal income) while being genuinely happy — the gap between external metrics and internal well-being reveals how arbitrary societal success markers are.
 - `INS-260329-A9B7` [medium] When you feel hopeless, interpret it as 'I don't know enough yet' rather than 'my situation is impossible' — ignorance is solvable, fate is not.
 - `INS-260403-7A1D` [medium] Herjavec's framing — 'the pain of being poor was greater than the pain of failure' — turns entrepreneurship into a rational pain comparison rather than blind optimism.
 - `INS-260329-C089` [medium] Interpreting hopelessness as 'I don't know enough yet' rather than 'I can't' converts despair into a solvable problem.
@@ -174,7 +175,6 @@
 - `INS-260329-5FB5` [medium] Multiple failures before success is the statistical norm for entrepreneurs, not the exception, because failure builds pattern-matching that classroom learning cannot.
 - `INS-260403-39DD` [medium] Losing fortunes and rebuilding them is the empirical test that separates skill-based wealth creation from luck-based wealth.
 - `INS-260403-387D` [medium] Slight overconfidence armors you against the dual headwinds of external dismissal and internal self-doubt.
-- `INS-260323-099F` [medium] When a low-vibration emotion surfaces, locate it physically in your body and feel it for a few minutes rather than bypassing it — this diffuses the charge permanently.
 - `INS-260404-21B2` [medium] Your mind's quit signal fires far earlier than your body's actual limit, leaving massive untapped reserves.
 - `INS-260325-A36F` [medium] Renaming psychopathy repeatedly makes life harder for affected families who cannot find consistent information about diagnosis and treatment.
 - `INS-260329-163B` [medium] Success and failure follow a cyclical pattern; the competitive advantage is recognizing your current phase and shortcutting back to learning.

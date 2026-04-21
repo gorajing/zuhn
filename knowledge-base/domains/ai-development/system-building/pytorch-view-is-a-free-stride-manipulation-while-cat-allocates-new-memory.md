@@ -60,7 +60,7 @@ related:
   - INS-260409-ADD0
   - PRI-260406-8B75
   - INS-260329-F66E
-  - INS-260329-818A
+  - INS-260421-60D9
 ---
 PyTorch tensors are a (storage, offset, stride, shape) quadruple over a flat 1-D memory buffer. Calling .view(32, 6) on a (32, 3, 2) tensor doesn't copy any floats — it rewrites the stride and shape metadata so the same bytes are reinterpreted as a differently-shaped array. Cost is O(1) regardless of tensor size.
 

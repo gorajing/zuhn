@@ -51,6 +51,5 @@ related:
   - INS-260327-DC4C
   - INS-260402-2342
   - INS-260323-4B4D
-  - INS-260409-D3EE
 ---
 In a striking demo, the speaker described connecting a nano-Claude instance running on a Raspberry Pi to a Neo4j database via MCP server, then simply asking it to 'build yourself a better memory.' The agent wrote a skill file defining memory search, type indexing, and session management tools, then immediately started using those tools to persist facts about its environment. This demonstrates an emerging pattern where agents given write access to their own configuration can bootstrap increasingly sophisticated capabilities. The implication is that the barrier to agent memory is not algorithmic complexity but rather providing the right interfaces (MCP, writable skill files, database connections) and letting the agent compose them.

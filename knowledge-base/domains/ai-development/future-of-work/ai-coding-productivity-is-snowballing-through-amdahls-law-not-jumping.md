@@ -70,6 +70,7 @@ related:
   - PRI-260405-B144
   - INS-260409-2A8A
   - INS-260413-25EC
+  - INS-260421-3E99
 ---
 Amodei pushes back on two caricatures. One is 'AI coding isn't really productive because we don't see a renaissance of software' — he says inside Anthropic, where commercial pressure is 'incredible' and there's 'zero time for bullshit,' the tools are unambiguously making engineers faster, and the company wouldn't be paranoid about competitors using them otherwise. The other is 'why isn't there recursive self-improvement creating a persistent leader' — his answer is that the gain is only now large enough to register. Six months ago it was ~5% and didn't matter; now it's 15-20% and is 'one of several factors that kind of matters'; he expects it to keep snowballing to 25%, 40%, etc.
 

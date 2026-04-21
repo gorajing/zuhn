@@ -55,7 +55,6 @@ related:
   - INS-260402-9EBD
   - INS-260404-86D3
   - INS-260404-CCB1
-  - INS-260404-1579
   - INS-260410-6BBC
 evidence:
   - id: INS-260321-2241

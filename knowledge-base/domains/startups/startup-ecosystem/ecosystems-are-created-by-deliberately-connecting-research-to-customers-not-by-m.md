@@ -70,6 +70,7 @@ related:
   - PRI-260407-7C1A
   - INS-260403-4964
   - INS-260404-9C69
+  - INS-260421-536F
   - INS-260412-D256
 ---
 Before Terman, the Bay Area was the Valley of Heart's Delight. Terman, returning from running Harvard's wartime Radio Research Lab, made three deliberate moves: (1) recruited the top radio and computing researchers from across the country and gave them immediate tenure at Stanford; (2) rewrote Stanford's tech transfer to be 'notoriously friendly' — Stanford famously took only 1% of Google at spinout, vs. 33-50% typical elsewhere — which meant professors and students could actually start companies without getting smothered; (3) carved off part of the Stanford campus into the Stanford Industrial Park and anchored it with Lockheed's Missile Systems Company, which employed 30,000 people in Sunnyvale by the mid-60s versus HP's 3,000.

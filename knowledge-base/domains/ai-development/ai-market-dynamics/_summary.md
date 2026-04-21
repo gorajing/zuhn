@@ -1,6 +1,6 @@
 # Topic: ai-market-dynamics
 
-> 159 insights
+> 161 insights
 
 - `INS-260321-86F1` [high] China is stealing American AI models, removing all guardrails, and potentially deploying them against the US — creating an absurd scenario where America fights with one arm tied behind its back against its own technology.
 - `INS-260327-5690` [high] Traditional SaaS sells productivity enhancement to workers; vertical AI agents sell the work itself, accessing the entire cost of labor as TAM rather than just the software budget.
@@ -15,6 +15,7 @@
 - `INS-260323-3A98` [high] No business became an industry leader through cost-cutting alone — AI investments driven by competitive fear rather than strategic vision will fail.
 - `INS-260323-4945` [high] The AI marketing machine works because massive capital buys corridor-of-power access, and people desperately want to believe technology can solve crises like climate change.
 - `INS-260327-991D` [high] The shift from perceptual AI to generative AI and reasoning has made inference as compute-intensive as training.
+- `INS-260421-E9FC` [high] mem0 released an algorithm update one week before AI Agents SF #12 making 'agent-generated facts first-class' — equal weight to user-authored content in retrieval scoring.
 - `INS-260405-6E60` [high] DeepSeek's App Store debut disrupted hundreds of billions in market cap overnight, signaling AI has become a macroeconomic force.
 - `INS-260321-807B` [high] AI native marketing agencies go end-to-end with AI, bypassing tools like Adobe entirely, dramatically improving margins and delivering ads within days.
 - `INS-260413-539D` [high] AI-related publications in natural sciences reached ~80,150 in 2025 (+26% YoY), with AI accounting for 5.8-8.8% of research output across fields — up from under 1% in 2010.
@@ -94,6 +95,7 @@
 - `INS-260409-A200` [high] AI companies shape tech journalism by controlling executive access, and only reporters who've been blacklisted can tell the full story.
 - `INS-260403-02E2` [high] Treating AGI arrival as an instant winner-take-all event is faith-based reasoning that substitutes for sound business fundamentals.
 - `INS-260403-CEAD` [high] Bio Anchors accurately predicted willingness-to-spend and cost-per-FLOP trends through 2025, correctly forecasting the massive data center buildout from observable investment patterns.
+- `INS-260421-BD7F` [high] At AI Agents SF #12 all 5 memory vendors competed on retrieval sophistication; the words 'compression,' 'principle,' 'doctrine,' and 'retirement' did not appear once in 1h 42m.
 - `INS-260323-197A` [high] The winning AI skill isn't prompting — it's architectural thinking: define the outcome, get AI to interview you about constraints, then have AI write its own implementation plan.
 - `INS-260327-DFF1` [high] BPO spend in banking, financial services, and insurance alone is nearly $400B annually — about the same as all global cloud software — and AI agents can transform this from 10-15% margin services to 80% margin businesses.
 - `INS-260327-40DA` [high] Despite rapid benchmark progress, the gap between solving hour-long competition problems and month-long research problems remains a 1000x scaling challenge.

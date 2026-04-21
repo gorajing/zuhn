@@ -6,9 +6,9 @@
 - `INS-260330-F1C8` Track confidence in your investment thesis bullets to know when to persist, adapt, or pivot.
 - `INS-260327-BA8E` Your biggest regret will be not pivoting three months earlier, not the pivot itself.
 - `INS-260323-DEC3` The 'never give up' mantra can be destructive — 170 rejection letters, deep depression, and isolation were the universe telling Jeff Kaplan to quit writing so the door to game design could open.
-- `INS-260330-4AE7` Use a 3-4 week growth flatline as a concrete pivot trigger, provided you've been executing with full effort.
 - `INS-260403-943E` If your company appears too old for VC fundraising timelines, incorporate a new entity that inherits your team and learnings while resetting the incorporation date.
 - `INS-260402-3FC5` Large funding rounds create organizational inertia that prevents the pivots most startups need to survive.
+- `INS-260330-4AE7` Use a 3-4 week growth flatline as a concrete pivot trigger, provided you've been executing with full effort.
 - `INS-260402-2CAF` Shifting which problem you solve produces order-of-magnitude improvements that execution refinement cannot match.
 - `INS-260404-70AE` Roughly half of YC startups significantly change direction by Demo Day, and this is encouraged rather than seen as failure.
 - `INS-260412-F32D` Sakichi Toyoda sold his power loom patent rights for 1 million yen and gave the proceeds to his son to start Japan's first automobile company.

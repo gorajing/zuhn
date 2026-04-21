@@ -49,5 +49,6 @@ related:
   - INS-260329-4986
   - PRI-260405-6867
   - INS-260410-C5A4
+  - INS-260421-43EC
 ---
 CDP has a process that slices a file and reorders every grain from loudest to quietest, producing a descending amplitude ramp. No real-time plugin can do this because real-time DSP only sees the past. The broader principle: offline tools aren't just 'slower real-time' — they belong to a different category of operations that require global knowledge of the signal. Producers who only use DAW plugins are missing an entire half of the sound-design universe. Worth keeping a folder for offline-only processes alongside the real-time chain.

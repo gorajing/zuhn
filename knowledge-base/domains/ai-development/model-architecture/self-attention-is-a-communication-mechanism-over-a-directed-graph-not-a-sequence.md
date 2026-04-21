@@ -53,11 +53,11 @@ stance: >-
   directed graph, which makes the sequence/causal/encoder/decoder variants
   trivial special cases.
 related:
+  - INS-260421-8004
   - INS-260410-268D
   - INS-260410-025A
   - INS-260330-33FF
   - INS-260410-78D3
-  - INS-260323-9F61
 ---
 Karpathy reframes self-attention away from the usual 'sequence of tokens' framing: every token is a node, each node emits a query ('what am I looking for') and a key ('what do I contain'), affinities are computed by dot-producting queries with keys, and information flows as a weighted sum of value vectors along edges. The causal mask in a decoder is just one graph topology (node t only receives from nodes 1..t); an encoder block is the same code with the mask removed (fully connected graph); cross-attention is the same mechanism where keys/values come from a different set of nodes entirely.
 

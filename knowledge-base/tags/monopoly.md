@@ -3,10 +3,11 @@
 - `INS-260412-4FD3` NYC-LA flights are cheap because five airlines compete, while Denver-Gunnison costs $500+ for 130 miles because United is the sole operator.
 - `INS-260412-46A7` Russia's policy of granting Siberian overflight to only one airline per European country creates de facto monopolies on Asia routes for legacy carriers.
 - `INS-260412-03B4` The Dutch East India Company was granted monopoly trade rights plus authority to wage war, mint coins, and negotiate treaties — transforming from corporation to empire within decades.
+- `INS-260410-8B61` Each cellular generation (2G, 3G, 4G, 5G) expires just as the next one arrives — so Qualcomm's CDMA patents expired worthless, but by then 4G patents had replaced them in the licensing stack.
 - `INS-260330-7ED0` M-PESA succeeded because Safaricom's telecom monopoly solved the cold-start problem that fragments US mobile payment competitors.
 - `INS-260409-C768` Problem precision beats market size — a small market solved precisely outperforms a big market solved approximately.
-- `INS-260410-8B61` Each cellular generation (2G, 3G, 4G, 5G) expires just as the next one arrives — so Qualcomm's CDMA patents expired worthless, but by then 4G patents had replaced them in the licensing stack.
 - `INS-260412-56D5` Airlines act as central banks for their own currencies — controlling supply, redemption availability, and being the only entity that can convert points to cash.
+- `INS-260410-FECA` When a rival consortium finally built a long-distance pipeline to bypass Standard's refining chokehold, Rockefeller ordered his captive railroads to ship oil below cost on the parallel routes until the pipeline ran out of capital.
 - `INS-260330-0871` Facebook's $1B Instagram acquisition — mocked as absurd for an 18-month-old app with zero revenue — generated $24B/year by 2019 and eliminated its top competitor.
 - `INS-260403-B6C6` UnitedHealth and Epic solved data fragmentation by owning more of the system, but the Change Healthcare breach showed this creates catastrophic concentration risk.
 - `INS-260330-E4B6` Morgan's 'morganization' strategy turned fragmented railroads into profitable monopolies by merging competitors rather than outcompeting them.
@@ -23,7 +24,6 @@
 - `INS-260330-568A` Successful startups dominate a tiny market first — PayPal took 25-30% of eBay power sellers in 2-3 months, Facebook went 0 to 60% at Harvard in 10 days — then expanded concentrically.
 - `INS-260330-A0AE` Creating enormous value (X) guarantees nothing about capturing it (Y%) — airlines created $195B in revenue but cumulative profits ≈ zero over 100 years, while Google captured far more from a smaller market.
 - `INS-260330-0525` Tesla and SpaceX succeeded not through a single 10x breakthrough but through complex vertical integration that pulled in distributors and subcontractors that would otherwise extract monopoly profits.
-- `INS-260410-FECA` When a rival consortium finally built a long-distance pipeline to bypass Standard's refining chokehold, Rockefeller ordered his captive railroads to ship oil below cost on the parallel routes until the pipeline ran out of capital.
 - `INS-260330-66A0` The best startup ideas look bad initially because good-sounding ones attract too many competitors, preventing monopoly formation.
 - `INS-260412-2551` Three GDS providers (Amadeus, Sabre, Travelport) suspending Aeroflot's access was a 'death blow' because no alternative booking infrastructure existed.
 - `INS-260330-9DCD` Government monopoly on land rezoning functions as an uncapped, unaccountable tax on housing demand.

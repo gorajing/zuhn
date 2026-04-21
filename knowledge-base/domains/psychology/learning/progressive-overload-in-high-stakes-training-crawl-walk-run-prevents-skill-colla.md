@@ -56,7 +56,6 @@ stance: >-
   conditions, while full-immersion approaches cause panic-driven skill collapse.
 related:
   - INS-260323-FAF2
-  - INS-260330-F3FF
   - INS-260330-66F7
   - INS-260330-D0B4
   - INS-260405-945B

@@ -1,9 +1,9 @@
 # Tag: accelerators
 
-- `INS-260404-9263` Solo founders get into top accelerators, but strong co-founding teams have a clear edge in selection.
 - `INS-260403-7068` a16z Speedrun's real offering is structured access to media operators, brand experts, and live demo rehearsals with buyers—not the $1M check.
 - `INS-260403-92B5` Avoiding YC concentration means missing alpha, not managing risk, because YC network effects drive superior survival and exit outcomes.
 - `INS-260403-8BA4` YC's investment focus has migrated from speculative consumer tech toward cybersecurity, industrial, and B2B solutions.
+- `INS-260404-9263` Solo founders get into top accelerators, but strong co-founding teams have a clear edge in selection.
 - `INS-260403-26CD` Top accelerators prioritize diverse, complementary teams over solo founders in their selection process.
 - `INS-260403-B90F` Back-to-back 2-minute pitches with no breaks create an electric, exhausting atmosphere that benefits founders by preventing investor cooldown between pitches.
 - `INS-260403-A3B2` Accelerator equity demands above 10% are a red flag indicating the program extracts more value than it creates.

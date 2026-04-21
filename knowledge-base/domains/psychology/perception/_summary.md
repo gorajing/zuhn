@@ -3,7 +3,10 @@
 > 309 insights
 
 - `INS-260325-6AE7` [very_high] Perfect squares become vanishingly rare as numbers grow — 'almost no' numbers are perfect squares — yet there are infinitely many of them, perfectly predictably located.
+- `INS-260322-A928` [very_high] You can only do your best work if you are doing what you want to do, the way you think it should be done, and you can take pride in it after.
 - `INS-260325-0921` [very_high] The Collatz sequence's logarithmic behavior matches geometric Brownian motion — a stock-market-like random walk emerging from a fully deterministic rule.
+- `INS-260323-4718` [very_high] The day-to-day quiet enjoyment of ordinary life — chips on the couch, a gym session, time with pets — contributes more to annual happiness than travel highlights or Instagram-worthy experiences.
+- `INS-260322-4B4A` [very_high] There is no right answer in creative work, but there are people whose job it is to make their choices become the right answer through total commitment to execution.
 - `INS-260323-189B` [high] Edgerton's single-frame strobe technique from the 1930s produces sharper images than a modern 20,000 FPS camera because it sacrifices all temporal resolution for maximum spatial resolution.
 - `INS-260325-D4F6` [high] In infinite or self-similar systems, a subset can contain everything the whole contains.
 - `INS-260330-2C4D` [high] People feel anxious in extreme silence because reverb normally signals spatial safety — its absence triggers an expectation violation that the brain interprets as claustrophobia.
@@ -25,7 +28,6 @@
 - `INS-260327-A0D7` [high] The cherry blossom is beautiful because it falls, not despite it - awareness of impermanence deepens experience rather than diminishing it.
 - `INS-260323-9E75` [high] When people lack access to water, freedom of movement, and recognition of their basic humanity, all higher-order discourse about peace, politics, and ideology becomes irrelevant.
 - `INS-260325-0713` [high] True understanding means feeling you could have discovered the idea independently, not just following someone else's derivation.
-- `INS-260322-A928` [high] You can only do your best work if you are doing what you want to do, the way you think it should be done, and you can take pride in it after.
 - `INS-260330-4DC5` [high] Physics and evolutionary psychology independently converge on the same conclusion: spacetime is a useful data structure, not fundamental reality — reducing billion-term calculations to single expressions when you abandon the spacetime framework.
 - `INS-260325-5A68` [high] Wright warns that when things become fully black-and-white — all good or all evil — that is exactly when conflict becomes most dangerous.
 - `INS-260327-C9A7` [high] Apple users stay not because of iMessage lock-in or ecosystem integration but because leaving Apple would mean abandoning a part of their self-identity.
@@ -83,7 +85,6 @@
 - `INS-260327-BDD5` [high] Temu's spinning wheel rewards, countdown timers, and flash deal mechanics are gambling mechanics applied to shopping — they trigger compulsive purchasing behavior.
 - `INS-260329-61E5` [high] Breadth-first search (using a queue) explores all neighbors before going deep, while depth-first search (using a stack) goes deep before exploring broadly — same graph, completely different discovery sequences.
 - `INS-260327-5D71` [high] Products marketed as eco-friendly are evaluated based on visual cues (natural colors, kraft paper, leaf imagery) rather 
-- `INS-260323-4718` [high] The day-to-day quiet enjoyment of ordinary life — chips on the couch, a gym session, time with pets — contributes more to annual happiness than travel highlights or Instagram-worthy experiences.
 - `INS-260327-FFB5` [high] Products marketed against invisible threats (air quality, EMF, toxins) exploit health anxiety because consumers cannot i
 - `INS-260323-15F4` [high] Philip Tetlock's 20-year study of 284 experts and 80,000 predictions found that the most confident, framework-driven experts (hedgehogs) were the least accurate — often worse than random chance.
 - `INS-260327-A40E` [high] Brands with decades of cultural presence command premiums based on accumulated social proof, family tradition, and aspir
@@ -116,6 +117,7 @@
 - `INS-260409-AC30` [high] Before asking what the object is, ask what the camera is doing.
 - `INS-260325-3589` [high] Musashi: overthinking is the gap between perception and action — train to act on direct perception before analysis creates paralysis.
 - `INS-260327-DF8B` [high] Musical training physically changes brain structure - enlarging the corpus callosum, strengthening neural pathways, and enhancing capabilities that transfer to language, emotion, and reasoning.
+- `INS-260323-3858` [high] Each negative emotion carries a specific diagnostic message — regret means 'do it now,' jealousy reveals hidden desires, anger provides energy for change, and deep resistance to something often signals it matters deeply to you.
 - `INS-260330-1243` [high] Applying ideological threat models to fundamentally transactional actors leads to systematic misprediction of their behavior and goals.
 - `INS-260330-14B1` [high] Normal maps exploit how humans perceive surface detail through light interaction rather than actual geometry.
 - `INS-260327-2EFD` [high] Consumer interest in analog products (vinyl, film cameras, physical planners) peaks when the aesthetic appeal exceeds th
@@ -138,6 +140,7 @@
 - `INS-260330-548E` [high] Rubin identifies owning your aesthetic feelings in the face of external disagreement as 'probably the single most important thing to practice as an artist.'
 - `INS-260325-A9E0` [high] Clinical psychopathy affects about 1% of adults, as common as schizophrenia, meaning you have almost certainly encountered psychopathic individuals.
 - `INS-260325-B11F` [high] We do not punish children into learning how to swim — we teach them skills. Emotional regulation is an even more important skill that punishment cannot teach.
+- `INS-260323-5D23` [high] The fastest way to shift emotional frequency is removing what pulls you down, not adding new practices.
 - `INS-260325-0471` [high] The ideal covert operative is the person you never notice in line at a coffee shop — brown but not too dark, thin but not too thin, middle-aged — the opposite of James Bond.
 - `INS-260325-1F35` [high] Quantum field theory underlies chemistry which underlies biology, but you cannot understand biology by studying quarks — each layer requires its own conceptual toolkit.
 - `INS-260327-2B94` [high] Consumer recycling programs create the illusion of environmental responsibility while the vast majority of recycled mate
@@ -185,7 +188,6 @@
 - `INS-260329-B8B6` [high] The chain rule states that when y depends on u which depends on x, the rate dy/dx equals dy/du times du/dx — rates of change through composed systems multiply, they don't add.
 - `INS-260323-6BF4` [high] Malice identifies a toxic cultural pattern: people feel compelled to have and share opinions on everything, even topics they know almost nothing about.
 - `INS-260329-95EF` [high] Shrinking the measurement interval from average to instantaneous rate of change is the core technique for converting rough observations into precise understanding.
-- `INS-260322-4B4A` [high] There is no right answer in creative work, but there are people whose job it is to make their choices become the right answer through total commitment to execution.
 - `INS-260329-8D70` [high] Binary search trees average O(log n) but degrade to O(n) when data arrives sorted — this single gap motivated AVL trees, red-black trees, and the entire field of self-balancing structures.
 - `INS-260325-2B9F` [high] Real espionage effectiveness comes from being completely forgettable — the 'gray man' who disappears in any setting is more operationally valuable than any James Bond.
 - `INS-260325-5692` [high] The Hyperwebster dictionary's 'A' volume, with the leading A removed from every entry, contains every possible word — a single twenty-sixth of infinity equals the whole.
@@ -266,7 +268,6 @@
 - `INS-260325-BAA4` [medium] Ethics are defined externally by professions; morals are internal beliefs — CIA training teaches that moral flexibility (adapting personal convictions to mission requirements) is essential for high-stakes effectiveness.
 - `INS-260330-C451` [medium] People grab onto one or two morally defensible positions to psychologically offset the guilt of supporting an otherwise indefensible one.
 - `INS-260325-B061` [medium] Systematic naming transforms an undifferentiated space into a manipulable structure.
-- `INS-260323-3858` [medium] Each negative emotion carries a specific diagnostic message — regret means 'do it now,' jealousy reveals hidden desires, anger provides energy for change, and deep resistance to something often signals it matters deeply to you.
 - `INS-260330-CD62` [medium] The cultural authority of neuroscience props — MRI machines, lab coats, institutional hallways — amplifies placebo effects beyond what pills or doctor visits achieve.
 - `INS-260325-87FC` [medium] A nihilist still feels thirsty and still drinks water — nihilism does not remove desires but recognizes that all values trace back to groundless preferences rather than objective purpose.
 - `INS-260403-AAA6` [medium] We catastrophize modern disorder while romanticizing equivalent historical problems because unfamiliar problem forms feel worse than familiar ones.
@@ -280,7 +281,6 @@
 - `INS-260325-EC93` [medium] Psychopathy is difficult but not impossible to treat; CBT, medication, and parent training all show effectiveness.
 - `INS-260403-6178` [medium] What you overhear and see through windows in a neighborhood reveals its true intellectual character and ambient message more reliably than any reputation or branding.
 - `INS-260330-0F49` [medium] The reflexive racial framing of the Capitol security failure ignored contradicting evidence — like black cops struggling to defend the building and a white woman being shot — while alienating the moderate conservatives needed for democratic healing.
-- `INS-260323-5D23` [medium] The fastest way to shift emotional frequency is removing what pulls you down, not adding new practices.
 - `INS-260403-BF45` [medium] Systematic risk reduction across many domains has succeeded, but public perception of danger persists due to media amplification and availability bias.
 - `INS-260330-649B` [medium] Saying 'if this sphere were Earth, mountains would be 14m tall' makes nanometer-scale precision viscerally understandable in a way raw numbers cannot.
 - `INS-260330-647D` [medium] Secular culture has won the argument against religion but failed to build replacement institutions for community, ethical instruction, and the sacred — leaving a genuine void.

@@ -49,8 +49,8 @@ related:
   - INS-260409-AD81
   - INS-260327-6B78
   - INS-260404-3D17
+  - INS-260421-536F
   - INS-260321-21BE
-  - PRI-260407-F704
   - INS-260404-183A
 ---
 OpenAI's development of internal sales and support systems represents a strategic shift from infrastructure provider to direct enterprise competitor. This mirrors the classic platform-to-product move where API companies realize they can capture more value by building the applications themselves rather than enabling others.

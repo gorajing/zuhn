@@ -43,9 +43,9 @@ stance: >-
   step sequences that should be implemented as simple Python functions chained
   together, not complex agentic systems.
 related:
-  - PRI-260320-D5B7
   - PRI-260403-7585
   - INS-260403-3C6D
+  - INS-260421-7ADE
   - INS-260329-FEBA
   - INS-260326-7F79
 evidence:

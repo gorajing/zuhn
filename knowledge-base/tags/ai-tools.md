@@ -11,11 +11,11 @@
 - `INS-260330-4AD5` AI improves its usability faster than you can learn tricks, so just speak naturally and let the models catch up to you.
 - `INS-260403-699A` AI dev tools form a three-tier hierarchy: chatbots for single pages, cloud environments for multi-feature prototypes, and local IDEs for production apps.
 - `INS-260323-AF7B` AI programming tools have a unique competitive dynamic where every model improvement creates new product possibilities, making iteration speed the primary moat over incumbents.
+- `INS-260405-11EA` Flybridge's AI memo generator is an early signal that VC's information-processing work is automatable, concentrating value on the parts that aren't.
 - `INS-260330-27DD` AI tutoring's real power is meeting you at your exact level — eighth grade vocabulary with fifth grade math — so you're always at the edge of understanding, never lost or bored.
 - `INS-260403-CAB4` One or two founders can now handle the workload that previously required a five-person team by combining AI, no-code, and on-demand freelancers.
 - `INS-260404-2523` AI-powered tools now let solo founders handle engineering, design, and ops tasks that previously required a cofounder or early team.
 - `INS-260403-A6A7` Solo founding has shifted from exception to dominant mode as AI tools collapse the capability gap that previously required cofounders.
-- `INS-260405-11EA` Flybridge's AI memo generator is an early signal that VC's information-processing work is automatable, concentrating value on the parts that aren't.
 - `INS-260403-E662` A minimal launch in a crowded market gives competitors a clear template to copy and outexecute with AI and no-code tools.
 - `INS-260329-7CDE` Never enter an arms race of who can produce the most low-quality output — the platform (Google, Apple, OpenAI) wins, not you.
 - `INS-260327-9610` A 13-year-old built and shipped an AI product with paying customers using AI tools—the building barrier has collapsed.

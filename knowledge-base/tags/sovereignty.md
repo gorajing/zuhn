@@ -1,5 +1,6 @@
 # Tag: sovereignty
 
+- `INS-260421-536F` MemMachine's entire positioning ('Own Your Memory') leads with sovereignty; FalkorDB runs in your environment; Cognee ships open-source; enterprise buyers ranked this highly at AI Agents SF #12.
 - `INS-260412-F62F` St Kitts and Nevis sells citizenship for a $400K real estate investment, effectively putting a market price on sovereignty access.
 - `INS-260412-C185` Three countries share 'Guinea' in their names because colonizers named the entire West African region Guinea, and post-independence nations inherited overlapping identifiers.
 - `INS-260412-C876` The Antarctic Treaty succeeded by explicitly refusing to resolve territorial claims while banning military and mining activity.

@@ -52,5 +52,6 @@ related:
   - INS-260410-4E62
   - INS-260409-ADD0
   - INS-260409-3FDE
+  - INS-260421-BD7F
 ---
 MemPalace ran LongMemEval on 500 questions in both raw verbatim mode and AAAK lossy compression mode. Raw verbatim scored 96.6% R@5 (the highest published result requiring no API calls); AAAK scored 84.2% — a 12.4 point regression. This inverts the naive assumption that smart compression + smart retrieval beats dumb storage + smart retrieval. The explanation: at small scales, compression overhead (entity codes, structural markers, decoded lookups) costs more signal than it saves, and lossy schemes permanently discard information that retrieval might have surfaced. The maintainers were honest enough to publish the regression and fold the result into their April 2026 retraction. Useful warning for any KB tempted to summarize at write time.

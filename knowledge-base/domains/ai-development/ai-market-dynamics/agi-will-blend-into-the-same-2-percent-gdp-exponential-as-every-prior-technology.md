@@ -59,7 +59,6 @@ stance: >-
   AI will diffuse slowly enough to show up as continuation of the existing
   growth exponential rather than a discrete break in the curve.
 related:
-  - INS-260325-E23D
   - INS-260323-085A
   - INS-260330-9346
   - INS-260404-F32F

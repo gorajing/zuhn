@@ -13,5 +13,5 @@
 - `INS-260403-1115` Roll-up models applying acquisitions and AI to the $6T+ services market may produce larger outcomes than building new SaaS companies.
 - `INS-260404-8A36` Roll-ups let consolidators scale quickly by acquiring sub-scale competitors in fragmented industries.
 - `INS-260410-1384` Google+ failed as a product but succeeded as an organizational forcing function — Larry Page used it to unify a fragmented company under one identity and account system.
-- `INS-260403-7C71` Founder wealth creation is the historical default; the mid-20th century corporate era was a temporary phase caused by consolidation.
 - `INS-260412-907D` The top 10 shipping lines controlling 85% of the market and the US relying on just 5 Pacific deepwater ports shows how scale optimization concentrates risk.
+- `INS-260403-7C71` Founder wealth creation is the historical default; the mid-20th century corporate era was a temporary phase caused by consolidation.

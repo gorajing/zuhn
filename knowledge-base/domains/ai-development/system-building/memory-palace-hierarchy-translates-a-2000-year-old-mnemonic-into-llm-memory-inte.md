@@ -49,10 +49,10 @@ stance: >-
   Spatial memory palace metaphors make AI memory navigable in ways pure semantic
   search cannot.
 related:
+  - INS-260421-60D9
   - PRI-260406-8B75
   - INS-260405-6C88
   - INS-260409-6DBE
   - INS-260330-125E
-  - INS-260405-2BB0
 ---
 Ancient Greek orators memorized entire speeches by placing ideas in rooms of an imaginary building and walking through them at recall time. MemPalace translates this to LLM memory: wings (projects or people), rooms (topics within a wing), halls (memory categories like facts/events/discoveries/preferences), closets (summaries pointing to originals), drawers (verbatim files), tunnels (cross-references between wings on the same topic). The hierarchy matters because it gives both the human and the LLM an addressable namespace — you can say 'search wing_driftwood for the auth migration' instead of throwing a keyword at a flat index. This is one alternative to the Zuhn domain/topic/insight/principle hierarchy — worth examining as prior art for any structured personal KB.
