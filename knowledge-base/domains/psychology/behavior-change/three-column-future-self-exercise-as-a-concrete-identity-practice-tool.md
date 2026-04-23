@@ -50,6 +50,6 @@ related:
   - INS-260330-6D59
   - INS-260327-DC0B
   - INS-260327-8521
-  - INS-260330-61C3
+  - INS-260423-AB6B
 ---
 The concrete protocol: top of page = what you want. Three columns = Emotions | Thoughts | Actions. For each, write what the future-self-who-has-the-outcome would experience, then what today's-self-pursuing-the-outcome experiences. The gap between the two columns is the behavioral intervention target. Critically, the exercise rejects the objection 'I can't act like a millionaire — I don't have the money' by forcing downward-scoping to accessible proxies (tip more generously, be more present with family, research future purchases). This converts an abstract identity claim into testable daily behavior.

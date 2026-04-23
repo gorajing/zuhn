@@ -50,7 +50,6 @@ stance: >-
   domains, boring industries, and non-consensus bets — rather than emerging from
   random inspiration.
 related:
-  - INS-260329-A57B
   - INS-260403-DDFD
   - INS-260404-DF88
   - PRI-260403-3906

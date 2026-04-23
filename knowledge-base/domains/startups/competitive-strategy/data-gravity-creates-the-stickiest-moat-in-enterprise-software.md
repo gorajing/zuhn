@@ -57,11 +57,11 @@ stance: >-
   Once a customer stores large data volumes with a vendor, the cost of migration
   grows faster than any competitor's ability to offer a better product.
 related:
+  - INS-260423-7CDC
   - INS-260403-36F4
   - INS-260403-8793
   - INS-260403-D1D0
   - INS-260405-4D4D
-  - INS-260327-9DA6
 ---
 The database market is $100B growing at 10%, and databases are the stickiest software category ever built. But the real lock-in isn't the software — it's the data itself. The internet's bandwidth has not scaled anywhere close to the rate data storage has grown, which is why AWS ships physical 'Snowmobile' trucks to migrate exabytes of data. Even with a semi truck full of storage, large migrations take six months; over the network they'd take years or decades.
 

@@ -50,7 +50,6 @@ stance: >-
   consistent affection.
 related:
   - INS-260325-CA88
-  - INS-260327-6992
   - INS-260329-20E8
   - INS-260329-895D
   - INS-260330-33FF
@@ -59,6 +58,7 @@ related:
   - INS-260330-BE46
   - INS-260330-4605
   - INS-260403-CF23
+  - INS-260405-02BE
 evidence:
   - id: INS-260329-EECD
     type: CHALLENGES

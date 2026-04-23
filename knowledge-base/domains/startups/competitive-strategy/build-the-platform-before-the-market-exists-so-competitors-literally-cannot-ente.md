@@ -67,9 +67,9 @@ related:
   - INS-260409-35EC
   - INS-260409-FA8F
   - PRI-260323-1B96
+  - INS-260423-CA05
   - INS-260403-8011
   - INS-260403-D2B1
-  - PRI-260406-7F84
 ---
 Nvidia committed to CUDA in 2006 with no identifiable market. Scientific computing, the nominal target, was maybe a couple billion dollars total — not nearly enough to justify the 1,100+ engineers eventually dedicated to the platform. For six years it generated essentially no revenue, and the stock got crushed 80% in 2008 partly because of it. The bet only paid off because AlexNet in 2012 accidentally proved deep learning worked on GPUs, and CUDA was the only mature stack available when researchers arrived.
 

@@ -51,7 +51,6 @@ stance: >-
   into new investments significantly outperform those who optimize only for
   initial deal selection.
 related:
-  - INS-260330-A1A4
   - INS-260404-95CA
   - INS-260403-CDC9
   - INS-260404-707C

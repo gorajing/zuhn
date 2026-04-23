@@ -53,7 +53,7 @@ related:
   - INS-260405-62F8
   - INS-260327-DBA1
   - INS-260410-F856
-  - INS-260330-4553
+  - INS-260423-787D
 ---
 One featured startup reframes trade-in programs not as standalone resale but as a payment option at checkout, letting shoppers turn unused goods into instant discounts. Early traction shows +45% average order value and 5-10% revenue penetration, suggesting this framing meaningfully changes consumer behavior.
 

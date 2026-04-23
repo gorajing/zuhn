@@ -1,8 +1,6 @@
 # Tag: loneliness
 
 - `INS-260410-CC1F` Zuckerberg grounds the AI-companion product thesis in a concrete social statistic: Americans average fewer than three close friends but want around fifteen — the gap is the market, and AI fills it when physical connection is unavailable.
-- `INS-260412-C106` Large-scale studies show chronic loneliness is twice as deadly as obesity and accelerates cancer, Alzheimer's, immune decline, and aging.
-- `INS-260325-FC52` Without someone to share stress with, the body stays in low-level fight-or-flight mode, causing chronic inflammation that gradually degrades multiple organ systems.
 - `INS-260412-B769` The loneliness cycle must be broken at three points: what you attend to, how you interpret it, and how you behave in response.
 - `INS-260412-5F4D` Chronic loneliness makes your brain pay more attention to social cues but interpret them less accurately, biasing toward hostility.
 - `INS-260409-67A5` People keep putting aliens on fuzzy photos because we are lonely in the universe.
@@ -15,3 +13,5 @@
 - `INS-260403-320A` Online communities teach people they're not alone but paradoxically deepen loneliness by replacing embodied local bonds with disembodied digital ones.
 - `INS-260323-7263` Messaging on Discord, following creators who resonate with you, and having online friends all genuinely reduce loneliness and matter as real social connection — not just a substitute for in-person relationships.
 - `INS-260330-8B79` After years of global espionage, the most surprising finding about human nature is the universal painful longing for human connection across all socioeconomic brackets and cultures.
+- `INS-260325-FC52` Without someone to share stress with, the body stays in low-level fight-or-flight mode, causing chronic inflammation that gradually degrades multiple organ systems.
+- `INS-260412-C106` Large-scale studies show chronic loneliness is twice as deadly as obesity and accelerates cancer, Alzheimer's, immune decline, and aging.

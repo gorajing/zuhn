@@ -42,7 +42,6 @@ stance: >-
   The company that names and defines a market shift gets permanently associated
   with that category, even if competitors existed before them.
 related:
-  - INS-260321-9EBB
   - INS-260327-85E2
   - PRI-260406-DF94
   - PRI-260328-82BE

@@ -51,8 +51,8 @@ stance: >-
 related:
   - INS-260323-C5D3
   - INS-260323-71B3
+  - INS-260423-A0C9
   - INS-260423-8403
   - INS-260327-4C73
-  - INS-260410-679B
 ---
 The video's conclusion — listen carefully, watch from the undergrowth, don't reply right away — encodes a broadly applicable epistemic strategy. In any new environment where the rules, players, and incentive structures are unknown (new market, new organization, new social group), the highest-EV move is extended observation before committing to a visible position. Signaling too early locks you into a stance before you understand the landscape, and in adversarial environments it reveals your position to potential threats. This is the epistemics version of the military principle 'reconnaissance pull' — let information shape your strategy rather than announcing a strategy and hoping the environment cooperates. The discipline required is patience: the urge to signal (introduce yourself, stake a claim, broadcast your intentions) is strong, but premature signaling trades optionality for visibility.

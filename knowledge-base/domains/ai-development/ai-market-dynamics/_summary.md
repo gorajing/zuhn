@@ -1,6 +1,6 @@
 # Topic: ai-market-dynamics
 
-> 162 insights
+> 163 insights
 
 - `INS-260321-86F1` [high] China is stealing American AI models, removing all guardrails, and potentially deploying them against the US — creating an absurd scenario where America fights with one arm tied behind its back against its own technology.
 - `INS-260327-5690` [high] Traditional SaaS sells productivity enhancement to workers; vertical AI agents sell the work itself, accessing the entire cost of labor as TAM rather than just the software budget.
@@ -129,6 +129,7 @@
 - `INS-260403-F7A9` [medium] Apple and Google's app review processes — sandbox testing, risk assessment, distribution control — already demonstrate how AI models could be evaluated before public deployment.
 - `INS-260403-C1D2` [medium] Over 630 investors backed LLM startups, but NVIDIA, Amazon, Microsoft, Alibaba, Salesforce, and Google write the largest checks while serving as suppliers and competitors.
 - `INS-260404-116E` [medium] When a cheaper AI model launches, the demand expansion from lower costs outweighs the margin compression investors fear.
+- `INS-260423-55A7` [medium] Rory: the Chinese Communist Party is effectively subsidizing the American small independent software vendor by providing cheap open-source models — if you look at the winner list on OpenRouter, it's all Qwen, Kimmy and other open source products.
 - `INS-260323-8637` [medium] Altman predicts compute becomes the world's most precious commodity, functioning as a new currency by end of decade.
 - `INS-260327-1652` [medium] Hugging Face's $100 robot arm and $300 Reachy Mini aim to be the iPhone of robotics: cheap hardware with an app store of behaviors that anyone can create and share.
 - `INS-260410-86B0` [medium] Shih uses DeepSeek over American models for China research because it returns high-quality policy document links even from naive prompts — likely because its hedge-fund parent trained it to detect CCP policy signals.

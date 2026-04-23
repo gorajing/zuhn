@@ -1,11 +1,11 @@
 # Tag: mitochondria
 
-- `INS-260409-D830` Young mitochondria from maternal-line relatives is a biologically coherent source for autologous transplant, with delivery (not supply) as the real problem.
-- `INS-260409-6B22` Sprint performance is a clean mitochondrial-capacity biomarker and sprinting itself is an underprescribed longevity protocol.
-- `INS-260330-F2B6` Both photosynthesis and cellular respiration use the same trick: pump protons across a membrane to create a concentration gradient, then harvest that gradient through ATP synthase.
 - `INS-260330-C456` NAD+ and FAD act as rechargeable batteries derived from B vitamins that carry energy from the Krebs Cycle to the electron transport chain, where 89% of ATP is produced.
 - `INS-260327-1C1B` Methylene blue bypasses parts of the electron transport chain, which helps broken mitochondria but reduces ATP in healthy ones; its MAOI effects confuse users into thinking they have more energy.
 - `INS-260409-32E6` Red light at 630-850nm penetrates tissue and restores mitochondrial function, giving follicles the ATP needed to grow hair.
+- `INS-260330-F2B6` Both photosynthesis and cellular respiration use the same trick: pump protons across a membrane to create a concentration gradient, then harvest that gradient through ATP synthase.
+- `INS-260409-D830` Young mitochondria from maternal-line relatives is a biologically coherent source for autologous transplant, with delivery (not supply) as the real problem.
+- `INS-260409-6B22` Sprint performance is a clean mitochondrial-capacity biomarker and sprinting itself is an underprescribed longevity protocol.
 - `INS-260325-1550` Creatine at 10-20g/day provides brain energy and longevity benefits beyond the standard 5g muscle dose — the brain is a primary consumer.
 - `INS-260330-E218` Fructose irreversibly inhibits three mitochondrial enzymes (AMP kinase, ACAD-L, CPT1), cumulatively degrading cellular energy production over years.
 - `INS-260330-7981` Mitochondria do far more than produce energy — they regulate neurotransmitters, hormones, inflammation, and gene expression, making them the central node in mental health.

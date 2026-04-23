@@ -1,6 +1,10 @@
 # Tag: capital-allocation
 
 - `INS-260410-9267` In AI firms, compute budgets will follow decision value — high-stakes roles like CEO could justify $100B+ in annual inference compute for simulation-heavy strategic planning.
+- `INS-260403-3AE7` Confidence about AI's trajectory is hardening into consensus faster than the underlying evidence supports, creating dangerous belief-lock-in across capital allocation decisions.
+- `INS-260330-4D05` Restricted investment options funnel high savings rates into real estate, disconnecting prices from underlying demand.
+- `INS-260403-738F` Companies invest in AI infrastructure defensively, then can't admit it isn't working because they've already spent too much.
+- `INS-260327-D7DD` When real estate is unaffordable, bonds are unattractive, and savings accounts lose to inflation, stocks become the only game in town regardless of fundamentals.
 - `INS-260410-DA0E` Amazon used the 2000-2007 dot-com winter—when everyone else was retrenching—to build the fulfillment, Prime, and Marketplace infrastructure that became its permanent moat.
 - `INS-260412-339A` Aircraft wear is determined by pressurization cycles, not flight hours, so short-haul planes doing 8-10 cycles daily age faster than long-haul planes doing one.
 - `INS-260412-8A51` Meta's $8.3B metaverse losses compounded the market's negative reaction to Facebook's user decline, creating multiplicative rather than additive punishment.
@@ -10,9 +14,6 @@
 - `INS-260410-B74C` Choose to be modestly less profitable than peers in booms so you can remain standing — and acquire them — during busts.
 - `INS-260411-C094` JPM's 20-year track record of maintaining a fortress balance sheet — $1.4T+ in liquid assets, 20% ROTCE through cycles — demonstrates that conservative capital management is itself a growth strategy.
 - `INS-260411-CCB2` Value creation requires ROIC above WACC; a positive ROIC that falls below the cost of capital actually destroys shareholder value.
-- `INS-260330-4D05` Restricted investment options funnel high savings rates into real estate, disconnecting prices from underlying demand.
-- `INS-260403-738F` Companies invest in AI infrastructure defensively, then can't admit it isn't working because they've already spent too much.
-- `INS-260327-D7DD` When real estate is unaffordable, bonds are unattractive, and savings accounts lose to inflation, stocks become the only game in town regardless of fundamentals.
 - `INS-260329-A6EA` Your investment strategy should shift from human capital to financial assets as your capital base grows.
 - `INS-260330-7EAA` Cash sitting idle in offshore accounts destroys value because it earns no return while shareholders' alternative investments would.
 - `INS-260330-B6AD` When companies cannot repatriate cash cheaply, they issue domestic debt while sitting on foreign cash and pursue suboptimal foreign investments just to deploy trapped capital.
@@ -24,6 +25,7 @@
 - `INS-260409-8B3D` Napier: the investment question for the next 10-15 years is not 'which company wins' but 'who gets cheap credit and who gets excluded' — winners are re-industrialization, rearmament, defense, energy, robotics, and old-economy manufacturing.
 - `INS-260412-89BE` Near-zero rates after 2008 pushed investment away from productive innovation and into speculative financial assets, permanently lowering GDP per capita trajectory.
 - `INS-260410-731D` China's banking system lets strategic-sector companies borrow on the promise of producing units, not profits — which produces world-leading manufacturing capacity alongside massive capital destruction.
+- `INS-260410-17D4` IKEA raised exactly one 500-kroner loan in 1938 and financed 81 years of global expansion entirely from reinvested profit — and that constraint, not a lifestyle choice, is what made the company.
 - `INS-260403-F387` AI dominates VC funding at 40% of total capital while non-AI startups face a funding freeze, and SVB flags rising 'zombiecorns' with shaky growth.
 - `INS-260404-C28B` Anti-woke VC funds are emerging as an explicit political counter-positioning in venture capital.
 - `INS-260404-E55F` New fund launches in late 2024 cluster around European deep tech and B2B software rather than US consumer tech.
@@ -37,12 +39,10 @@
 - `INS-260403-4227` More VC money doesn't produce more great startups — it inflates prices, spreads talent thin, and compresses exit multiples.
 - `INS-260403-D00D` JPMorgan's $1.5T commitment signals that private banks are assuming industrial policy roles governments are too slow to fill.
 - `INS-260403-7157` Solar attracts ~$500B/year in investment and installs more new capacity than every other electricity source combined.
-- `INS-260403-3AE7` Confidence about AI's trajectory is hardening into consensus faster than the underlying evidence supports, creating dangerous belief-lock-in across capital allocation decisions.
-- `INS-260410-17D4` IKEA raised exactly one 500-kroner loan in 1938 and financed 81 years of global expansion entirely from reinvested profit — and that constraint, not a lifestyle choice, is what made the company.
 - `INS-260403-9421` The time required to build a company is often predictive of how long it will last.
 - `INS-260410-45CE` Berkshire's insurance float grew from $88B in 2015 to $171B in 2024 to $176B at end of 2025 — a 2x compound in a decade without any new shareholder capital deployed, creating a zero-cost funding source for the investment portfolio.
-- `INS-260403-A93A` Extremely high CLTV/CAC ratios can signal missed growth opportunities rather than operational excellence.
 - `INS-260329-1CB0` Extreme early frugality isn't about the savings — it's about escaping survival mode so you can think long-term and make strategic bets.
+- `INS-260403-A93A` Extremely high CLTV/CAC ratios can signal missed growth opportunities rather than operational excellence.
 - `INS-260404-F22C` Biotech and health tech VC funds are raising at dramatically larger scales than software-focused peers.
 - `INS-260404-F970` Capital gravitates toward the biggest, most painful problems—founders who articulate problem severity clearly will raise more effectively.
 - `INS-260403-7881` Free money dilutes talent, inflates competition, and rewards unsustainable growth models over durable businesses.
@@ -55,7 +55,7 @@
 - `INS-260405-69F1` Innovation spend framed as a call option is harder for CFOs to cut because it reuses their own valuation logic.
 - `INS-260405-3403` You must fund the losers to find the winners—the portfolio math only works if you don't pre-filter by apparent promise.
 - `INS-260403-BDCC` Fund internal innovation projects in tranches tied to evidence, not annual lump-sum budgets.
-- `INS-260412-F8AE` FedEx uses retired passenger aircraft because their planes only fly ~2 hours/day versus airlines' 12+ hours — cheap purchase price matters more than fuel efficiency at low utilization.
 - `INS-260330-A1A4` Apple's $285B cash hoard demonstrates that past a strategic reserve threshold, excess cash creates more problems than options.
 - `INS-260330-4830` When repatriation taxes trap offshore profits, companies resort to borrowing domestically against foreign assets rather than deploying capital optimally.
+- `INS-260412-F8AE` FedEx uses retired passenger aircraft because their planes only fly ~2 hours/day versus airlines' 12+ hours — cheap purchase price matters more than fuel efficiency at low utilization.
 - `INS-260403-D379` Spend the least on experiments when you know the least, and increase stakes only as validated learning reduces uncertainty.

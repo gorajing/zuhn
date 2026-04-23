@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-23 | 4991 actionable insights
+Generated on 2026-04-23 | 5000 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -366,6 +366,7 @@ Generated on 2026-04-23 | 4991 actionable insights
 - [INS-260423-00AC] Cody Schneider: my job suddenly turns into — I have ideas, I pass them on to Claude Code, and then I'm polishing the end product.
 - [INS-260423-44B4] Cody: my friend texted me yesterday — 'I think I'm going to fire 50 people, that's like 70% of my team. I can automate all their jobs right now with agent swarms.'
 - [INS-260423-4CB1] Seth Godin: are you going to upskill or be deskilled? Are you going to work for an AI — which is going to be unhappy — or is AI going to work for you?
+- [INS-260423-7DC6] Dan Koe: AI doesn't have access to your point of view because every passing moment influences it — and in order to have a meaningful point of view worth writing about, you can't be sitting at your desk on Claude 24/7.
 
 ## ai-development/governance
 - [INS-260409-B005] 80% of Americans want AI regulated — a rare civic consensus — and frontier labs are spending hundreds of millions to kill it; the organizing opening is real.
@@ -1273,6 +1274,8 @@ Generated on 2026-04-23 | 4991 actionable insights
 - [INS-260410-228E] Don't sell winners based on growth rate or maturity — sell based on whether decades of growth remain ahead.
 - [INS-260412-C69B] JP Morgan's $175M acquisition of Frank collapsed because the bank accepted indirect evidence of 4.25M users without independently verifying the customer database.
 - [INS-260423-BD00] Chamath wrote an investment memo for Groq in 2015 and published it on X before writing the check; the memo concluded he had the boundary conditions to build something iconic.
+- [INS-260423-E7F5] Jason Lemkin: I'm nervous about exciting AI investors that have very low ACVs right now — their actual TAMs may end up smaller than they look despite the epic numbers.
+- [INS-260423-23E6] Jason Lemkin: I see too many VCs running a pre-AI enabler playbook — when folks fall behind a tick or two, you see kumbaya activity instead of code-red activity.
 
 ## music-production/music-marketing
 - [INS-260321-13EA] Release on Friday (international release day) with minimum 4 weeks from master delivery — things go wrong with aggregators, you need time to pitch DSPs, and thinking 'I'll release on Tuesday to fox them' is thinking small.
@@ -2839,6 +2842,7 @@ Generated on 2026-04-23 | 4991 actionable insights
 - [INS-260412-3506] Meta's ad revenue decline was partly caused by Apple's privacy changes, showing that even dominant companies face existential risk from upstream platform decisions.
 - [INS-260412-BA74] Real Graphene's CEO explicitly stated graphene batteries would trickle down from higher-end devices first, using premium willingness-to-pay to absorb the 30% cost premium while scaling manufacturing.
 - [INS-260423-5998] Michael Seibel: the Facebook platform slop wars — no one competing with Zynga won; Facebook won.
+- [INS-260423-787D] Jason Lemkin: right now most of the deals you look at have low barriers to entry — if you stumble, you lose. If there's five of you going out of the gates, one won't stumble and they'll win.
 
 ## startups/content-strategy
 - [INS-260329-3332] A single 4+ hour comprehensive tutorial can accumulate millions of views over years by dominating 'full course' search queries.
@@ -2896,6 +2900,10 @@ Generated on 2026-04-23 | 4991 actionable insights
 - [INS-260410-CB92] A CNBC article is worth 2% of its value within a month; Acquired targets 80% value at five years, and that choice drives every other decision.
 
 - [INS-260412-3603] An 8-minute video conveying a complete philosophical worldview demonstrates that conceptual density, not runtime, drives content resonance.
+- [INS-260423-49F1] Dan Koe: people don't follow creators for one piece of content — they follow for a body of coherent work; each essay compounds on the last, and AI cannot replicate a coherent philosophy built through years of genuine thinking.
+- [INS-260423-F7C7] Dan Koe: articles are answers while essays are arguments; articles package existing knowledge while essays change the author's beliefs; AI cannot write an essay.
+- [INS-260423-AEAD] Dan Koe: Substack is the most slept-on social media right now — you own your audience as a list of subscribers, it's email first, and the notes feed has people who appreciate deep and genuine thinking.
+- [INS-260423-AB6B] Dan Koe: write to discover, not to perform — an essay begins with uncertainty and an open mind; most social media engagement comes from packaging, which is a separate skill.
 
 ## startups/customer-discovery
 - [INS-260405-A742] You cannot identify gains until you've mapped the expectation floor — everything below it is pain, everything at it is neutral.
@@ -4642,6 +4650,7 @@ Generated on 2026-04-23 | 4991 actionable insights
 - [INS-260410-277B] Spotify realized it could own audiobooks and podcasts because German labels had already started quietly uploading audiobooks to its music platform.
 - [INS-260412-B69B] Israel's 1-6 risk scoring system applies intensive screening only to high-risk passengers while low-risk travelers pass through quickly, achieving better security with less aggregate friction.
 - [INS-260412-A2FE] Real Graphene's batteries succeed commercially because the graphene sheet is 1-5 atoms thick and doesn't change cell dimensions, making it plug-and-play for phone manufacturers.
+- [INS-260423-2C05] Jason Lemkin: in the AI era you literally probably have to build five distinct products to get to that billion — not a little feature, not a little enhancement. Stuart Butterfieldesque reluctance to go multi-product is much less excusable today.
 
 ## startups/quality
 - [INS-260330-FA4D] Byron Ferguson spine-tests every arrow and discards out-of-tolerance ones before they ever enter his quiver — precision is built in preparation, not performance.

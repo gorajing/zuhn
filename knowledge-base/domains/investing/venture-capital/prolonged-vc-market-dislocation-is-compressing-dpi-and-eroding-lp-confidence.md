@@ -53,6 +53,7 @@ related:
   - INS-260403-3D38
   - INS-260403-08D8
   - INS-260405-BCF4
+  - INS-260423-E7F5
 ---
 Distributions to Paid-In Capital (DPI) has become the critical metric for LP evaluation of venture fund performance, and the current market is producing historically low DPI numbers. With fewer exits, compressed valuations on paper markups, and a sluggish IPO market, LPs are seeing delayed or diminished cash returns from their venture allocations.
 

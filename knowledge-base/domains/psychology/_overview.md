@@ -1,6 +1,6 @@
 # Domain: psychology
 
-> 2503 insights across 24 topics
+> 2505 insights across 24 topics
 
 ## Topics
 
@@ -12,9 +12,9 @@
 | communication | 50 | Craft one 'the X of Y' phrase that sticks — professional investors hear so many pitches they blur, and the first filter is simply being remembered. |
 | consciousness | 116 | Johnson's framework reframes psychiatric disorders as varieties of stuck-ness — narrowed loops of thought and behavior — that psychedelics disrupt by forcing the brain into novel configurations. |
 | decision-making | 178 | If something powerful enough would leave unmistakable traces and you find none, that silence is itself a strong signal. |
-| epistemics | 82 | The empty universe is not a lack of data — it is the single most important data point in the Fermi Paradox. |
+| epistemics | 83 | The empty universe is not a lack of data — it is the single most important data point in the Fermi Paradox. |
 | expertise | 77 | Having an audience prevents the natural tendency to stop thinking at exactly the point where deeper exploration would be most valuable. |
-| focus | 157 | Long-form tutorials act as a self-selection filter — people who click a 4.5-hour video are pre-committed, leading to deeper engagement than bite-sized content. |
+| focus | 158 | Long-form tutorials act as a self-selection filter — people who click a 4.5-hour video are pre-committed, leading to deeper engagement than bite-sized content. |
 | founder-mindset | 31 | Masa Son's explicit 50-year plan — build in 20s, accumulate in 30s, deploy in 40s, consolidate in 50s, hand off after 60 — gave him a framework to absorb $70B losses without changing course. |
 | founder-psychology | 31 | Don't start acquisition conversations unless you'd accept a low offer — the distraction and psychological demoralization of entertaining buyers kills more companies than most founders realize. |
 | group-dynamics | 126 | The Pueblo Revolt shows that a shared existential threat can override deep tribal divisions — but the unity is temporary. |

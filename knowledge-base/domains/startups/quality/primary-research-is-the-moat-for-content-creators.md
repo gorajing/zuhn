@@ -48,9 +48,9 @@ stance: >-
 related:
   - INS-260403-C907
   - INS-260405-0184
+  - INS-260423-AEAD
   - INS-260403-BC04
   - PRI-260403-C76D
-  - INS-260320-47FA
 ---
 Lenny identifies that most writing is either rehashing existing ideas or superficial pontification. The antidote is primary research — doing tens of hours of original investigation to uncover insights that haven't been shared before. This creates genuine value because the writer is doing work on behalf of the reader.
 

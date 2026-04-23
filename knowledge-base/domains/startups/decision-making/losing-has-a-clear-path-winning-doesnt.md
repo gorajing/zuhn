@@ -62,7 +62,6 @@ related:
   - INS-260410-4518
   - PRI-260403-2E59
   - INS-260403-E681
-  - INS-260412-7728
 ---
 Zuckerberg, on Meta's 2012 HTML5-to-native rewrite during the IPO crash: 'It was actually pretty clear what we needed to do. Strategically, it's much harder to know what to do when you're winning. When stuff is going well, what is the next move to go from winning to winning more? When you're losing it's usually pretty clear what you have to do, and a lot of it is just: do you have the pain tolerance to go do it?'
 

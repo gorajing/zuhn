@@ -51,9 +51,10 @@ related:
   - INS-260321-FB3F
   - INS-260402-7C15
   - INS-260403-8C20
+  - INS-260423-7DC6
+  - INS-260423-AB6B
+  - INS-260423-F7C7
   - INS-260402-12D0
-  - PRI-260405-9A14
-  - INS-260403-6E11
 ---
 Chamath explicitly notes he writes quick 1-2 page essays on topics that seem important specifically to 'develop a quick point of view and understand the nuances a little bit better.' This is writing as a thinking tool, not as a publishing exercise. The essay is for him, not for the audience.
 

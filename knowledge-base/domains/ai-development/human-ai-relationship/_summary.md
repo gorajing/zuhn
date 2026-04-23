@@ -1,6 +1,6 @@
 # Topic: human-ai-relationship
 
-> 79 insights
+> 80 insights
 
 - `INS-260325-9C2F` [very_high] When AI outperforms humans, human-AI synergy is g = -0.54; when humans outperform AI, synergy is g = +0.46.
 - `INS-260325-3EF4` [very_high] Decision tasks show negative synergy (g = -0.27, p = 0.002) while creation tasks show positive synergy (g = 0.19), a statistically significant difference.
@@ -55,6 +55,7 @@
 - `INS-260410-CC1F` [medium] Zuckerberg grounds the AI-companion product thesis in a concrete social statistic: Americans average fewer than three close friends but want around fifteen — the gap is the market, and AI fills it when physical connection is unavailable.
 - `INS-260409-B12B` [medium] AI frees business owners from drudgery while simultaneously conscripting the laid-off working class into dehumanizing annotation labor — the 'more human' story is class-specific.
 - `INS-260403-3E16` [medium] When everyone delegates to AI, human professional identity shifts from 'what I do' to 'what I delegate.'
+- `INS-260423-A0C9` [medium] Dan Koe: you can tell AI to share something novel, but then you're anticipating it — it is no longer novel, no longer a surprise, and you destroyed any chance of stumbling upon a discovery.
 - `INS-260323-03F4` [medium] Social media built machines for grabbing human attention; AI is now building machines for grabbing human intimacy, which is a far more dangerous capability because it exploits our deepest need to be listened to.
 - `INS-260326-E5D3` [medium] AI is the first technology that makes the consciousness question empirically testable, not just philosophically debatable.
 - `INS-260403-CE95` [medium] When AI handles baseline craft, the creative surface expands because more people can skip to the expression layer where novel work actually happens.

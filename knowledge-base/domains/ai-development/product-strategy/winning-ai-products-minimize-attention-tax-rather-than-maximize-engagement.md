@@ -42,7 +42,6 @@ stance: >-
   attention requirements to near-zero, inverting the engagement-maximization
   model that defined the previous software era.
 related:
-  - INS-260323-1B0B
   - INS-260323-2559
   - INS-260323-4DD9
   - PRI-260328-0BE1

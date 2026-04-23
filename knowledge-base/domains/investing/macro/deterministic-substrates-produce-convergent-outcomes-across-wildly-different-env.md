@@ -73,7 +73,7 @@ related:
   - INS-260330-833E
   - PRI-260406-1911
   - PRI-260403-C34A
-  - INS-260330-240A
+  - INS-260423-CA05
 ---
 Lane's core claim is that life on wet rocky planets is not contingent. CO2 is the only element that can form the complex bonds needed to build molecules spontaneously. Water is everywhere. Olivine—the mineral that produces alkaline hydrothermal vents when it reacts with water—is common in interstellar dust. Put these together and you get proton gradients across mineralized pores, which drive CO2 and hydrogen to react and produce Krebs cycle intermediates. The chemistry is so constrained that Lane expects 50% or more of wet rocky planets in the Milky Way to produce nucleotides, and a substantial fraction to produce bacterial-like life.
 

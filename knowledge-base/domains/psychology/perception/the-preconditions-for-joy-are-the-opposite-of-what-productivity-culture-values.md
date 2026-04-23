@@ -49,10 +49,10 @@ stance: >-
   productivity culture demands.
 related:
   - INS-260323-2394
+  - INS-260423-AB6B
   - INS-260329-C996
   - INS-260327-F0C0
   - PRI-260403-88F5
-  - INS-260325-FA70
 evidence:
   - id: INS-260329-C996
     type: CHALLENGES

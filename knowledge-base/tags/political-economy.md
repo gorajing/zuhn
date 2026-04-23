@@ -2,6 +2,8 @@
 
 - `INS-260409-581B` Winner-takes-all AI is self-limiting — if 10 companies absorbed all value, governments and displaced workers would force redistribution (three-day work week, subsidies, UBI) before the equilibrium stabilized.
 - `INS-260403-8874` AI fully replacing human labor would create mass displacement and resource competition severe enough to destabilize every political system, making it a different crisis rather than a solution.
+- `INS-260410-58DB` Japan's path to Pearl Harbor was locked in by 1936 when young officers murdered Finance Minister Takahashi for opposing empire — by 1941 the peace faction could no longer save face, let alone stop the military.
+- `INS-260409-7789` A significant fraction of societal malaise may be downstream of metabolic dysfunction, making population-level metabolic interventions a plausible social intervention.
 - `INS-260409-053F` Arthur Burns admitted in a 1979 speech that the Fed had the power to end 1970s inflation but didn't because the political cost (mass unemployment during Cold War mobilization) was unacceptable — the same constraint now applies under US-China rivalry.
 - `INS-260412-7B69` When governments equate policy reversal with weakness, failing policies become self-reinforcing traps that compound economic damage.
 - `INS-260403-A52A` Gallup polling shows inflation and cost-of-living concerns far outweigh unemployment worries, reshaping the political calculus around economic policy.
@@ -13,5 +15,3 @@
 - `INS-260330-D429` Zimbabwe's forced land redistribution cut agricultural output by 50-90% because the new farmers lacked the tacit expertise that made the farms productive.
 - `INS-260330-4980` Tariffs create a bottleneck where industries must petition for exemptions, enabling corruption through selective enforcement.
 - `INS-260409-1210` Massachusetts' millionaire tax survives because voters see free breakfast, free community college, and better transit — a broad beneficiary constituency offsets the concentrated opposition.
-- `INS-260409-7789` A significant fraction of societal malaise may be downstream of metabolic dysfunction, making population-level metabolic interventions a plausible social intervention.
-- `INS-260410-58DB` Japan's path to Pearl Harbor was locked in by 1936 when young officers murdered Finance Minister Takahashi for opposing empire — by 1941 the peace faction could no longer save face, let alone stop the military.

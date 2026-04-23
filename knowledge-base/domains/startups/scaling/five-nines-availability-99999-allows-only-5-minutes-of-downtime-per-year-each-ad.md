@@ -52,10 +52,10 @@ stance: >-
   expensive to achieve.
 related:
   - INS-260323-B4D2
+  - INS-260423-2C05
   - INS-260403-C7E3
   - INS-260330-B5DF
   - INS-260412-B820
-  - INS-260403-8B94
   - INS-260423-6CC0
 evidence:
   - id: INS-260322-1D52

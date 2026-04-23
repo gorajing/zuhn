@@ -54,8 +54,8 @@ related:
   - INS-260325-3A54
   - INS-260403-147C
   - INS-260403-803A
+  - INS-260423-787D
   - PRI-260328-7E6E
-  - INS-260412-EC27
 ---
 When facing two options, Harry's framework is simple: choose the one with a higher chance of opening another door. Go to the drinks party instead of staying home with delivery. Reach out to that person instead of watching Netflix. Take the uncomfortable path over the comfortable one. Applied at 80% over 365 days, this creates 292 opportunities for serendipity versus just 73 — a 4x multiplier on luck surface area.
 

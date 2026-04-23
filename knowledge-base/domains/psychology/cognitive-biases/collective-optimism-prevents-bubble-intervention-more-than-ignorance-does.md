@@ -55,7 +55,6 @@ related:
   - INS-260410-361B
   - PRI-260406-14BB
   - INS-260330-E68E
-  - INS-260413-F591
 ---
 The documentary explicitly identifies optimism as 'the real killer' in Japan's bubble. Authorities had the tools and data to see aggressive lending and asset price inflation, but the national mood of prosperity created a collective action problem: nobody wanted to stop the party when everyone was making money.
 

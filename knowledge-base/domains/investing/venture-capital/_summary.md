@@ -1,6 +1,6 @@
 # Topic: venture-capital
 
-> 306 insights
+> 309 insights
 
 - `INS-260403-6B24` [high] High-profile 2025 IPOs like Figma, Chime, and Navan traded below debut prices even as Nasdaq and S&P 500 rallied.
 - `INS-260405-0CAB` [high] 38% of VCs stopped doing deals in 2023, exposing a large cohort of cycle-dependent tourist investors who entered during the 2020-2021 bull market.
@@ -31,6 +31,7 @@
 - `INS-260403-B8A3` [high] As companies remain private longer and Gen Z/Millennial investors demand private market access, equity tokenization fills a structural gap that traditional finance cannot address.
 - `INS-260403-2E2C` [high] Chamath's ~$62M concentrated bet on Groq from 2017 likely returned low single-digit billions, illustrating that outsized returns require tolerating long periods where being right feels indistinguishable from being wrong.
 - `INS-260403-AAAC` [high] Continuation funds address the growing mismatch between VC fund timelines and the longer paths to liquidity, especially in European venture.
+- `INS-260423-679C` [high] Jason Lemkin on Anthropic: they caught OpenAI in half the time at roughly the same revenue with training costs one-quarter of OpenAI's — that's a double-code-red, you usually don't have both together.
 - `INS-260404-D7E0` [high] Palo Alto Networks and Splunk's 2012 IPOs signaled that cybersecurity and big data were structural growth sectors, not niche plays.
 - `INS-260404-E544` [high] Data center operators signed over 40% of all clean energy power purchase agreements in 2024, making AI infrastructure the largest single demand category for new renewable capacity.
 - `INS-260405-B738` [high] DCF ignores the strategic flexibility and explosive optionality that defines startup value, making it the wrong tool for early-stage companies.
@@ -259,6 +260,7 @@
 - `INS-260403-53A4` [medium] Sensitivity tables showing how returns change with exit timing delays reveal that many apparently strong investments become mediocre if exits take longer than planned.
 - `INS-260403-F5B7` [medium] Tiger Global and SoftBank pulled back, leaving traditional VCs like a16z and General Catalyst to dominate with record-sized rounds.
 - `INS-260403-49E1` [medium] Consolidating VC return analysis into one tab eliminates formula breakage and creates a shared decision language.
+- `INS-260423-E7F5` [medium] Jason Lemkin: I'm nervous about exciting AI investors that have very low ACVs right now — their actual TAMs may end up smaller than they look despite the epic numbers.
 - `INS-260405-7FFC` [medium] Smaller funds beat giants by maintaining agility, concentrated ownership, and disciplined focus rather than deploying at scale.
 - `INS-260404-3A2E` [medium] Solo GPs are launching independently because their personal brand and network, not the firm name, drives deal flow.
 - `INS-260404-77E7` [medium] Specialist VC funds outperform generalist funds by 47%, suggesting deep expertise is the new source of alpha in venture.
@@ -301,6 +303,7 @@
 - `INS-260404-C189` [medium] AI dominates VC narrative but non-AI sectors capture more megadeal volume.
 - `INS-260403-06E2` [medium] Sand Hill Road's boring identical offices reveal that VC firms differentiate on relationships and judgment, not on brand or physical presence.
 - `INS-260404-6D29` [medium] VCs hedge AI risk by investing across competing LLM startups rather than picking a single winner.
+- `INS-260423-23E6` [medium] Jason Lemkin: I see too many VCs running a pre-AI enabler playbook — when folks fall behind a tick or two, you see kumbaya activity instead of code-red activity.
 - `INS-260404-A893` [medium] VC deal flow is structurally shifting toward the Middle East and Southeast Asia as new innovation hubs.
 - `INS-260404-80F3` [medium] VC's outsized return potential can absorb currency depreciation that makes public EM indices unattractive.
 - `INS-260405-83F0` [medium] VC funding cycles and business growth timelines rarely align — this is a known structural property that founders and investors must plan around.

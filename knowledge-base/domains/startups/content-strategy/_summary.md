@@ -1,6 +1,6 @@
 # Topic: content-strategy
 
-> 71 insights
+> 75 insights
 
 - `INS-260330-B885` [high] Rogan gained 2 million subscribers during his cancellation attempt because the coordinated media attack inadvertently proved his independence from institutional control.
 - `INS-260405-3F0F` [high] Google ranks pages; AI cites statements — this single difference demands a claim-first approach to content structure.
@@ -14,6 +14,7 @@
 - `INS-260402-C03D` [high] MrBeast's $500M+ revenue empire proves a single creator can bypass traditional marketing by using content as the distribution engine for vertically integrated businesses.
 - `INS-260330-06E3` [high] Capitalism scaled in Britain partly because writers like Thomas Mun reframed market participation as natural human behavior — even coining 'individuals' and 'career' as personal identity terms.
 - `INS-260409-2EF3` [high] Teach the problem, not the product — the product then appears as the obvious answer the reader already wanted.
+- `INS-260423-F7C7` [high] Dan Koe: articles are answers while essays are arguments; articles package existing knowledge while essays change the author's beliefs; AI cannot write an essay.
 - `INS-260329-9A42` [high] Giving away exhaustive 4+ hour tutorials for free builds defensible audience positions because the depth itself becomes the moat — competitors face prohibitive production costs to match, and audiences consolidate around the 'definitive' resource.
 - `INS-260329-31A2` [high] freeCodeCamp's strategy of publishing complete 4-hour tutorials for free has generated 13M+ views on a single video, demonstrating that exhaustive free content builds massive audiences.
 - `INS-260403-6424` [high] Claiming a list is exhaustive ('The 7 secrets') exploits readers' need to verify completeness, making it effective linkbait but intellectually dishonest.
@@ -46,10 +47,12 @@
 - `INS-260329-3332` [high] A single 4+ hour comprehensive tutorial can accumulate millions of views over years by dominating 'full course' search queries.
 - `INS-260403-4F8D` [high] VCs increasingly use newsletters to build personal brands and attract quality deal flow by establishing trust with founders before they pitch.
 - `INS-260403-45DB` [high] Durable content growth comes from word of mouth driven by consistently high-quality output, not paid acquisition channels.
+- `INS-260423-AB6B` [high] Dan Koe: write to discover, not to perform — an essay begins with uncertainty and an open mind; most social media engagement comes from packaging, which is a separate skill.
 - `INS-260405-0810` [high] More than half of Google searches end without a click, and AI accelerates this trend — meaning brand presence in the answer is worth more than the click itself.
 - `INS-260405-DFBC` [medium] Getting cited by AI engines compounds brand authority faster than traditional SEO because AI models return to sources that performed well before.
 - `INS-260330-CDE1` [medium] Shapiro's practice of maintaining a public list of his own bad takes, combined with deliberately holding positions his audience dislikes, creates a structural defense against the audience capture that degrades most media platforms.
 - `INS-260329-409F` [medium] You can't delete a bad brand pairing — you can only shrink it into irrelevance by overwhelming it with positive associations.
+- `INS-260423-49F1` [medium] Dan Koe: people don't follow creators for one piece of content — they follow for a body of coherent work; each essay compounds on the last, and AI cannot replicate a coherent philosophy built through years of genuine thinking.
 - `INS-260404-B0DC` [medium] Sustained high-volume free value delivery builds trust capital that later converts into business opportunities at rates impossible through cold outreach.
 - `INS-260403-CBED` [medium] Creators are replacing traditional media as the primary channel through which consumer opinions, purchase decisions, and product discovery flow.
 - `INS-260409-01E7` [medium] Write for the buyer and the broadcaster in the same post — the broadcaster gives you reach, the buyer gives you revenue.
@@ -69,6 +72,7 @@
 - `INS-260329-2865` [medium] After a brand misstep, overwhelm the negative pairing with high volume of positive pairings rather than trying to erase or apologize for it.
 - `INS-260405-6019` [medium] Expertise plus authenticity is outcompeting institutional authority as the basis for trusted information.
 - `INS-260403-7BAA` [medium] Organizing content around defined thematic pillars on a predictable schedule compounds audience trust more effectively than reactive or ad-hoc publishing.
+- `INS-260423-AEAD` [medium] Dan Koe: Substack is the most slept-on social media right now — you own your audience as a list of subscribers, it's email first, and the notes feed has people who appreciate deep and genuine thinking.
 - `INS-260403-E33F` [medium] Non-affiliate, taste-driven curation signals authenticity and builds deeper audience trust than monetized recommendation lists.
 - `INS-260409-0F19` [medium] The more AI scales digital content, the more analog real-world experiences become scarce and valuable — operators should barbell between extreme tech and extreme analog.
 - `INS-260405-42D3` [medium] Crowd voting surfaces candidates; editorial judgment makes final calls — this hybrid beats both pure democracy and pure autocracy in content curation.

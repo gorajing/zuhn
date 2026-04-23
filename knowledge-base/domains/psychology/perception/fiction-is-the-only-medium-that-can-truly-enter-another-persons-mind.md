@@ -49,13 +49,14 @@ stance: >-
   because it is the only artistic form that grants access to a character's
   interior psychology in a way journalism and documentary cannot.
 related:
-  - INS-260323-CD03
+  - INS-260423-A0C9
   - INS-260402-A693
+  - INS-260423-7DC6
   - INS-260404-32C5
-  - INS-260330-1E6A
-  - PRI-260405-9A14
-  - INS-260327-7F6A
+  - INS-260423-AB6B
   - INS-260323-2627
+  - INS-260327-7F6A
+  - INS-260330-1E6A
 evidence:
   - id: INS-260323-CD03
     type: CHALLENGES

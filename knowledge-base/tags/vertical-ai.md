@@ -11,11 +11,11 @@
 - `INS-260404-60A6` Vertical AI products trained on domain-specific and proprietary data create defensible positions against generalist LLMs.
 - `INS-260327-F316` Mati argues that while foundation model providers may match ElevenLabs on voice research, the competitive moat is product platform depth and taste that takes thousands of iterations to achieve.
 - `INS-260327-DBAD` A vertical AI voice agent for dentists is a small business; owning all 30+ products a dental practice needs is a potential $10B company.
-- `INS-260404-EA1D` Niche-focused VCs with deep domain expertise are outcompeting generalist funds in vertical AI because founders need investors who understand their specific market.
-- `INS-260405-3046` Euclid Ventures argues TAM-first VC filters are lazy and that multivariate risk assessment finds better Vertical AI winners.
 - `INS-260403-EDFB` Generic AI tools are commoditized, but deep vertical AI products for specific industries and workflows still have massive untapped opportunity.
 - `INS-260409-6611` Big AI labs build horizontal tools — vertical industry problems are where the unclaimed value lives.
 - `INS-260404-8CA8` Ramp reached $1B revenue with 153% YoY growth by using AI to automate 26 million financial decisions across $10B in customer spend.
+- `INS-260404-EA1D` Niche-focused VCs with deep domain expertise are outcompeting generalist funds in vertical AI because founders need investors who understand their specific market.
+- `INS-260405-3046` Euclid Ventures argues TAM-first VC filters are lazy and that multivariate risk assessment finds better Vertical AI winners.
 - `INS-260403-ABC5` Vertical AI startups must build data loops and lock-in strategies from day one because speed alone provides no lasting moat.
 - `INS-260403-2A92` ChatGPT's generalist capabilities are fragmenting into specialized vertical tools, repeating the Excel-to-SaaS evolution pattern.
 - `INS-260403-2D39` Redpoint's framework demands a narrow high-urgency use case with real user love that naturally expands into larger product surfaces where quality sustains pricing power.

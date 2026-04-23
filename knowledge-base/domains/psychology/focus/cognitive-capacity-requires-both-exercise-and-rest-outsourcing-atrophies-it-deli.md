@@ -50,7 +50,6 @@ stance: >-
   absence of stimulation) is not a luxury but the required recovery period that
   restores the capacity outsourcing and overstimulation destroy.
 related:
-  - INS-260327-B19E
   - INS-260327-F0C0
   - INS-260327-4279
   - INS-260327-2F75

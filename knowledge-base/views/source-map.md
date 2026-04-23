@@ -1,5 +1,5 @@
 # Source Map
-Generated on 2026-04-23 | 2509 sources
+Generated on 2026-04-23 | 2530 sources
 
 | Source | Type | Insights | Date |
 |--------|------|----------|------|
@@ -197,12 +197,14 @@ Generated on 2026-04-23 | 2509 sources
 | How Moneyball Ruined Your Favorite Snacks | youtube | 8 | 2026-03-24 |
 | How to Build a Remarkable Brand in the Age of AI | Seth Godin | youtube | 8 | 2026-04-23 |
 | I Waterproofed Myself With Aerogel! | youtube | 8 | 2026-03-30 |
+| I'm begging you to start writing essays (even if you hate writing) | youtube | 8 | 2026-04-23 |
 | Inside Standard Capital: New $425M Series A Fund, Explained | youtube | 8 | 2026-03-29 |
 | Lecture 17 - How to Design Hardware Products (Hosain Rahman) | youtube | 8 | 2026-03-31 |
 | Linear combinations, span, and basis vectors | Chapter 2, Essence of linear algebra | youtube | 8 | 2026-03-30 |
 | Lost technologies and the secrets they hold, in 53 minutes | Sam Kean: Full Interview | youtube | 8 | 2026-03-25 |
 | Men are dying at alarming rates | Richard Reeves | youtube | 8 | 2026-03-25 |
 | Neil deGrasse Tyson: 3 mind-blowing space facts | Big Think | youtube | 8 | 2026-03-30 |
+| OpenAI Buys TBPN & Their Management Team Reboot | Mercor Hack & Why Now is the Time for Cyber | youtube | 8 | 2026-04-23 |
 | Shockingly Good Predictions | youtube | 8 | 2026-03-29 |
 | Slop vs Craft | youtube | 8 | 2026-04-23 |
 | STRAPPED INTO A SINKING HELICOPTER (with U.S. Marines) - Smarter Every Day 201 | youtube | 8 | 2026-03-30 |
@@ -699,7 +701,6 @@ Generated on 2026-04-23 | 2509 sources
 | A Tale of Greed: How 4 CEOs and $5B Failed Twitter | youtube | 5 | 2026-03-24 |
 | ACQ2: The Art of Selling Enterprise Software (with ServiceNow CEO Bill McDermott) | youtube | 5 | 2026-04-11 |
 | Acquired LIVE from Chase Center (with Daniel Ek, Emily Chang, Jensen Huang and Mark Zuckerberg) | youtube | 5 | 2026-04-11 |
-| Adam Marblestone – AI is missing something fundamental about the brain | youtube | 5 | 2026-04-10 |
 | ADHD & How Anyone Can Improve Their Focus | youtube | 5 | 2026-03-30 |
 | AGI is still 30 years away — Ege Erdil & Tamay Besiroglu | youtube | 5 | 2026-04-10 |
 | AI 2027: month-by-month model of intelligence explosion — Scott Alexander & Daniel Kokotajlo | youtube | 5 | 2026-04-10 |
@@ -756,9 +757,7 @@ Generated on 2026-04-23 | 2509 sources
 | Dr. Andy Galpin: How to Build Strength, Muscle Size & Endurance | youtube | 5 | 2026-03-30 |
 | Dr. Andy Galpin: Optimal Nutrition & Supplementation for Fitness | Huberman Lab Guest Series | youtube | 5 | 2026-03-30 |
 | Dr. Paul Conti: How to Understand & Assess Your Mental Health | Huberman Lab Guest Series | youtube | 5 | 2026-03-30 |
-| Dylan Patel — The single biggest bottleneck to scaling AI compute | youtube | 5 | 2026-04-10 |
 | Effects of Fasting & Time Restricted Eating on Fat Loss & Health | Huberman Lab Podcast #41 | youtube | 5 | 2026-03-30 |
-| Elon Musk – "In 36 months, the cheapest place to put AI will be space” | youtube | 5 | 2026-04-10 |
 | Elon Musk: SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI | Lex Fridman Podcast #252 | youtube | 5 | 2026-03-30 |
 | Elon Musk's Basic Economics | youtube | 5 | 2026-04-12 |
 | Emil Michael: The Department of War Is Moving Faster Than Silicon Valley on AI | The a16z Show | youtube | 5 | 2026-03-22 |
@@ -880,7 +879,6 @@ Generated on 2026-04-23 | 2509 sources
 | Matt Ridley: How Innovation Works, Part 1 | youtube | 5 | 2026-03-30 |
 | Mesopotamia: Crash Course World History #3 | youtube | 5 | 2026-03-30 |
 | Meta (Audio) | youtube | 5 | 2026-04-11 |
-| Michael Nielsen – Why aliens will have a different tech stack than us | youtube | 5 | 2026-04-10 |
 | Michael Saylor: Bitcoin, Inflation, and the Future of Money | Lex Fridman Podcast #276 | youtube | 5 | 2026-03-30 |
 | Michio Kaku: The Universe in a Nutshell (Full Presentation) | Big Think | youtube | 5 | 2026-03-30 |
 | Microsoft Volume II: The Complete History and Strategy of the Ballmer Years (Audio) | youtube | 5 | 2026-04-11 |
@@ -944,7 +942,6 @@ Generated on 2026-04-23 | 2509 sources
 | Starbucks (with Howard Schultz) | youtube | 5 | 2026-04-11 |
 | Stephen Kotkin — How Stalin became the most powerful dictator in history | youtube | 5 | 2026-04-10 |
 | Stephen Wolfram: Computational Universe | MIT 6.S099: Artificial General Intelligence (AGI) | youtube | 5 | 2026-03-27 |
-| Terence Tao – How the world’s top mathematician uses AI | youtube | 5 | 2026-04-10 |
 | The $700 Billion AI Productivity Problem No One's Talking About | youtube | 5 | 2026-03-22 |
 | The AI Opportunity that goes beyond Models | youtube | 5 | 2026-03-22 |
 | The Backwards Brain Bicycle - Smarter Every Day 133 | youtube | 5 | 2026-03-30 |
@@ -1024,7 +1021,6 @@ Generated on 2026-04-23 | 2509 sources
 | Watch This If You Have a Service Business | youtube | 5 | 2026-03-22 |
 | WeWork - The $47 Billion Disaster | youtube | 5 | 2026-04-12 |
 | What Alcohol Does to Your Body, Brain & Health | youtube | 5 | 2026-03-30 |
-| What are we scaling? | youtube | 5 | 2026-04-10 |
 | What Putin Fears More Than War | youtube | 5 | 2026-03-30 |
 | What will automated firms look like? | youtube | 5 | 2026-04-10 |
 | Where does consumer AI stand at the end of 2025? | youtube | 5 | 2026-03-22 |
@@ -1479,7 +1475,6 @@ Generated on 2026-04-23 | 2509 sources
 | Bayer’s Bill Anderson: Turning a 168 Year-Old Tanker Like a Speedboat | youtube | 4 | 2026-03-26 |
 | Behind the scenes of a $20M Series A - Part 1 | youtube | 4 | 2026-03-22 |
 | Ben Horowitz on Investing in AI: AI Bubbles, Economic Impact, and VC Acceleration | youtube | 4 | 2026-03-22 |
-| Ben Horowitz On What Makes a Great Founder | youtube | 4 | 2026-03-26 |
 | Big Tech in panic mode... Did DeepSeek R1 just pop the AI bubble? | youtube | 4 | 2026-03-30 |
 | Bill Ackman: Investing, Financial Battles, Harvard, DEI, X & Free Speech | Lex Fridman Podcast #413 | youtube | 4 | 2026-03-24 |
 | Boarding a US NAVY NUCLEAR SUBMARINE in the Arctic - Smarter Every Day 240 | youtube | 4 | 2026-03-30 |
@@ -1665,7 +1660,6 @@ Generated on 2026-04-23 | 2509 sources
 | The Man Who Stole $65 Billion (Bernie Madoff) | youtube | 4 | 2026-04-12 |
 | The Most Controversial Idea in Biology | youtube | 4 | 2026-03-23 |
 | The Most Dangerous Stuff in the Universe - Strange Stars Explained | youtube | 4 | 2026-04-12 |
-| The Most Founder Mode CEO Working Today Isn’t the Founder: Opendoor’s Kaz Nejatian | youtube | 4 | 2026-03-26 |
 | The Most Misunderstood Concept in Physics | youtube | 4 | 2026-03-30 |
 | The Nervous System, Part 1: Crash Course Anatomy & Physiology #8 | youtube | 4 | 2026-03-30 |
 | The Origin of Consciousness – How Unaware Things Became Aware | youtube | 4 | 2026-04-12 |
@@ -2480,35 +2474,62 @@ Generated on 2026-04-23 | 2509 sources
 | "딱 3년만 미친듯이 해보세요" 1조 기업 회장이 말하는 AI 시대의 진짜 생존 공식 (feat. 언러닝 학습법) | youtube | 0 | 2026-04-23 |
 | 수면 전문의가 매일 아침 스마트워치로 체크하는 '3가지'ㅣ지식인초대석 EP.117 (주은연 교수 2부) | youtube | 0 | 2026-04-23 |
 | 뇌과학자가 '이 책' 읽고 하지 않게 된 4가지 "생각 수준이 달라진다"  (사람산책 통합본) | youtube | 0 | 2026-04-23 |
+| Adam Marblestone – AI is missing something fundamental about the brain | youtube | 0 | 2026-04-23 |
 | 뇌과학자가 말하는 AI 시대에도 끝까지 살아남는 5가지 능력 ㅣ 김대식 교수님의 고전 책 5권 추천 ㅣ도서리뷰 | youtube | 0 | 2026-04-23 |
+| AI Is Unlocking Millions Of New Builders | youtube | 0 | 2026-04-23 |
 | Are SaaS Companies Cooked: Which Thrive & Which Die | Aaron Levie | youtube | 0 | 2026-04-23 |
 | Ben Horowitz on AI Anxiety, Big Tech Transitions & The Future of Startups | a16z | youtube | 0 | 2026-04-23 |
+| Ben Horowitz On What Makes a Great Founder | youtube | 0 | 2026-04-23 |
+| BillionToOne Is Solving One of Biotech’s Hardest Problems | youtube | 0 | 2026-04-23 |
 | Box CEO on the AI Adoption Gap | The a16z Show | youtube | 0 | 2026-04-23 |
+| Building Agents at Home: Homeschooling, Parenting and More | The a16z Show | youtube | 0 | 2026-04-23 |
 | CI/CD Breaks at AI Speed: Tangle, Graphite Stacks, Pro-Model PR Review — Mikhail Parakhin, Shopify | youtube | 0 | 2026-04-23 |
 | Dario Amodei — “We are near the end of the exponential” | youtube | 0 | 2026-04-23 |
+| Darwin Gödel Machine Explained: Self-Improving AI Agents | youtube | 0 | 2026-04-23 |
+| DINOv3 Paper Explained: The Computer Vision Foundation Model | youtube | 0 | 2026-04-23 |
+| Dylan Patel — The single biggest bottleneck to scaling AI compute | youtube | 0 | 2026-04-23 |
+| ElevenLabs: Building an AI Sales Machine & Why We Set a 20x Sales Quota | youtube | 0 | 2026-04-23 |
+| Elon Musk – "In 36 months, the cheapest place to put AI will be space” | youtube | 0 | 2026-04-23 |
 | Everyday Foods that Feed CANCER Cells | youtube | 0 | 2026-04-23 |
 | Extreme Harness Engineering: 1M LOC, 1B toks/day, 0% human code or review — Ryan Lopopolo, OpenAI | youtube | 0 | 2026-04-23 |
 | Former Warner Records President REVEALS How Great Artists Are Built | youtube | 0 | 2026-04-23 |
 | François Chollet: Why Scaling Alone Isn’t Enough for AGI | youtube | 0 | 2026-04-23 |
+| From SEO to Agent-Led Growth: Profound's James Cadwallader | youtube | 0 | 2026-04-23 |
+| GDPO Explained: NVIDIA Fixes GRPO for LLM Reinforcement Learning | youtube | 0 | 2026-04-23 |
 | Google Dorking (Find Everything Online!) | youtube | 0 | 2026-04-23 |
+| How Autonomous Labs Will Transform Scientific Research: Ginkgo Bioworks’ Jason Kelly | youtube | 0 | 2026-04-23 |
 | How Bots, Deepfakes and AI Agents Are Forcing a New Internet Identity Layer | Alex Blania on a16z | youtube | 0 | 2026-04-23 |
+| How Stripe Built Their New Website | youtube | 0 | 2026-04-23 |
 | How to Launch a Product Without a Following (What Actually Works) | youtube | 0 | 2026-04-23 |
 | How to Reorg After AI Changes Everything | Block's Owen Jennings on the a16z Show | youtube | 0 | 2026-04-23 |
 | ⚡️ How to turn Documents into Knowledge: Graphs in Modern AI — Emil Eifrem, CEO Neo4J | youtube | 0 | 2026-04-23 |
 | Ilya Sutskever – We're moving from the age of scaling to the age of research | youtube | 0 | 2026-04-23 |
-| I'm begging you to start writing essays (even if you hate writing) | youtube | 0 | 2026-04-23 |
 | It's Tough, But It Gets You Abs In 60 Days | youtube | 0 | 2026-04-23 |
 | Jack Dorsey: Every Company Can Now Be a Mini-AGI | youtube | 0 | 2026-04-23 |
+| Jake Paul: Traditional VC is Toast & Attention is More Valuable than Cash | youtube | 0 | 2026-04-23 |
 | Jensen Huang – Will Nvidia’s moat persist? | youtube | 0 | 2026-04-23 |
+| Marc Andreessen introspects on Death of the Browser, Pi + OpenClaw, and Why "This Time Is Different" | youtube | 0 | 2026-04-23 |
+| Marc Andreessen on The Future of VC: Will a16z Go Public & Why Introspection is Dangerous? | youtube | 0 | 2026-04-23 |
+| mHC Explained: How DeepSeek Rewires LLMs for 2026 | youtube | 0 | 2026-04-23 |
+| Michael Nielsen – Why aliens will have a different tech stack than us | youtube | 0 | 2026-04-23 |
 | Notion’s Sarah Sachs & Simon Last on Custom Agents, Evals, and the Future of Work | youtube | 0 | 2026-04-23 |
-| OpenAI Buys TBPN & Their Management Team Reboot | Mercor Hack & Why Now is the Time for Cyber | youtube | 0 | 2026-04-23 |
 | OpenClaw, Claude Code, and the Future of Software | Peter Yang on The a16z Show | youtube | 0 | 2026-04-23 |
+| Oura’s Tom Hale: What People Don’t Tell You About Being CEO | youtube | 0 | 2026-04-23 |
 | 앞으로 PPT는 직접 안 만들 겁니다 | youtube | 0 | 2026-04-23 |
 | Project Hail Mary's Science Is More Real Than You Think | youtube | 0 | 2026-04-23 |
 | Raw Day Inside $100M+ Venture Capital Firm in Silicon Valley | youtube | 0 | 2026-04-23 |
+| Reinforcement Pre-Training (RPT) By Microsoft Explained | youtube | 0 | 2026-04-23 |
+| Terence Tao – How the world’s top mathematician uses AI | youtube | 0 | 2026-04-23 |
+| Tesla and SpaceX Alumni on Elon Musk, Decision Velocity, and the Future of Hard Tech | a16z | youtube | 0 | 2026-04-23 |
 | ⚡️ The best engineers don't write the most code. They delete the most code. — Stay Sassy | youtube | 0 | 2026-04-23 |
 | The Early Days of Anthropic & How 21 of 22 VCs Rejected It | The Four Bottlenecks in AI | Anj Midha | youtube | 0 | 2026-04-23 |
+| The Era of Hierarchical Reasoning Models | youtube | 0 | 2026-04-23 |
 | The GPT Moment for Robotics Is Here | youtube | 0 | 2026-04-23 |
+| The Most Founder Mode CEO Working Today Isn’t the Founder: Opendoor’s Kaz Nejatian | youtube | 0 | 2026-04-23 |
+| Tiny Recursive Model (TRM) Paper Explained | youtube | 0 | 2026-04-23 |
 | 수준 높은 대화 (구글 전 대표) | youtube | 0 | 2026-04-23 |
+| What are we scaling? | youtube | 0 | 2026-04-23 |
+| What Founders Can Learn About Excellence From MIT President Sally Kornbluth | youtube | 0 | 2026-04-23 |
 | Why Balaji Srinivasan Thinks the SaaS Apocalypse Is Overhyped | The a16z Show | youtube | 0 | 2026-04-23 |
 | Why Claude Feels Different (And What That Means for AI) | The a16z Show | youtube | 0 | 2026-04-23 |
+| Why Reinforcement Learning Unlocks Reasoning in LLMs (Aha Moments Explained) | youtube | 0 | 2026-04-23 |

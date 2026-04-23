@@ -56,6 +56,7 @@ related:
   - PRI-260327-117F
   - PRI-260405-91AD
   - INS-260405-67F2
+  - INS-260423-787D
 ---
 Sales pitches are typically designed to differentiate against named competitors, but research (including the JOLT Effect referenced in the episode) shows that the majority of lost deals end in no decision at all—the buyer simply maintains the status quo. This means competitive differentiation, while necessary, is not sufficient. A pitch must first convince the buyer that their current situation is genuinely costly or risky before alternative solutions become relevant.
 

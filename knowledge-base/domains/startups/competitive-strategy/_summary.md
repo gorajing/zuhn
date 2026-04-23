@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 622 insights
+> 623 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -573,6 +573,7 @@
 - `INS-260410-7B46` [medium] Hermès's logo is a horse-drawn carriage — not a galloping horse — because that carriage world is gone, cannot be reentered, and thus belongs exclusively to brands that participated in it.
 - `INS-260330-8E95` [medium] The Navy's tumblehome hull optimizes radar stealth but sacrifices the restoring force that prevents capsizing in rough seas.
 - `INS-260329-9BC0` [medium] Hybrid cloud deployments are almost always driven by legacy constraints and organizational inertia rather than optimal architecture decisions.
+- `INS-260423-787D` [medium] Jason Lemkin: right now most of the deals you look at have low barriers to entry — if you stumble, you lose. If there's five of you going out of the gates, one won't stumble and they'll win.
 - `INS-260403-C8FB` [medium] Disapproval of the incumbent doesn't transfer to the challenger without a concrete alternative plan.
 - `INS-260404-D149` [medium] OpenAI's immediate response of offering o1 Mini free and rushing out Operator suggests their competitive position was more narrative than technical.
 - `INS-260403-1D43` [medium] Incumbent game studios will use AI to cut costs and add depth to existing formats, but category-defining breakthroughs require AI-native thinking from new entrants.

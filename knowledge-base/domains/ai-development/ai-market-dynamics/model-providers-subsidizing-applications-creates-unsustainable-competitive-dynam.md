@@ -52,10 +52,10 @@ stance: >-
   differentiation, not cost competition.
 related:
   - INS-260403-36EC
+  - INS-260423-55A7
   - PRI-260406-0ACE
   - PRI-260405-B144
   - PRI-260406-9FA8
-  - PRI-260407-7AE9
   - INS-260405-B7C7
   - INS-260403-B53B
   - INS-260412-828C

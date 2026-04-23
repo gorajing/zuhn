@@ -54,6 +54,7 @@ related:
   - INS-260404-6751
   - INS-260403-3F5F
   - INS-260403-59B0
+  - INS-260423-679C
 stance: >-
   Anthropic has earned $5B revenue against $10B spent; OpenAI's ratio is even
   worse — both companies lose money on every user query.

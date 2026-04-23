@@ -49,7 +49,6 @@ stance: >-
   primarily out of obligation to maintain social standing rather than genuine
   interest in the events themselves.
 related:
-  - INS-260409-0A28
   - INS-260330-4746
   - INS-260403-9E82
   - INS-260412-F566

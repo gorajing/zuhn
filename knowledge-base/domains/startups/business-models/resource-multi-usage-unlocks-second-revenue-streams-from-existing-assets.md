@@ -45,11 +45,11 @@ stance: >-
   revenue potential by repurposing those assets for secondary use cases beyond
   their original purpose.
 related:
+  - INS-260423-7CDC
   - INS-260330-F22A
   - PRI-260406-1849
   - INS-260322-3A00
   - INS-260329-E6AF
-  - INS-260322-8D47
 evidence:
   - id: INS-260329-E6AF
     type: TRANSFERS_TO

@@ -54,7 +54,6 @@ related:
   - INS-260330-923F
   - INS-260402-15A7
   - INS-260403-F66F
-  - INS-260403-7B93
   - PRI-260406-12A2
 ---
 John Sculley explicitly chose to avoid the US and European smartphone markets because they are replacement markets with entrenched competitors. Instead, Obi targeted emerging markets in Asia, Africa, and the Middle East where billions of first-time smartphone buyers were entering the market.

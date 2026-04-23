@@ -1,6 +1,6 @@
 # Topic: product-strategy
 
-> 93 insights
+> 94 insights
 
 - `INS-260405-4AAD` [high] Juicero raised $120M for technology that was immediately undermined when customers realized the same outcome was achievable by hand.
 - `INS-260330-809A` [high] Apple's acquisition pattern — Authentec for Touch ID, Siri for voice, NeXT for Jobs — shows that buying capabilities yields higher returns than buying businesses.
@@ -92,6 +92,7 @@
 - `INS-260403-35CB` [medium] Ambient AI's power comes from not requiring oversight, but that same quality limits users' ability to opt out — making privacy a first-class design decision.
 - `INS-260404-A850` [medium] Dynamic, AI-driven posture adjustment beats static security configurations because threat landscapes change faster than humans can respond.
 - `INS-260330-C95F` [medium] Multiple localization failures compound into a narrative of market disrespect that's harder to reverse than any single missing feature.
+- `INS-260423-2C05` [medium] Jason Lemkin: in the AI era you literally probably have to build five distinct products to get to that billion — not a little feature, not a little enhancement. Stuart Butterfieldesque reluctance to go multi-product is much less excusable today.
 - `INS-260405-28DF` [medium] Viability is table stakes; competitive differentiation must be designed in from day one.
 - `INS-260330-2AA7` [medium] Toy designers avoid the paradox (offset rails), compound bows eliminate it (cut-out riser), but longbow archers harness it — each approach trades simplicity for capability.
 - `INS-260402-142F` [medium] Web3 forces PMs to recombine user research, data analysis, design, BD, and marketing into one role because the tasks are too intertwined to specialize.

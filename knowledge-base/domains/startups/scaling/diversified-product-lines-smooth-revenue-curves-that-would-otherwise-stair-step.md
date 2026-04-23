@@ -50,11 +50,11 @@ stance: >-
   smoother growth curves because individual product plateaus are masked by other
   products' growth phases
 related:
+  - INS-260423-2C05
   - PRI-260406-435D
   - INS-260403-EAC6
   - INS-260403-85BB
   - INS-260324-C33C
-  - INS-260403-1C31
 evidence:
   - id: INS-260325-FDF5
     type: CHALLENGES

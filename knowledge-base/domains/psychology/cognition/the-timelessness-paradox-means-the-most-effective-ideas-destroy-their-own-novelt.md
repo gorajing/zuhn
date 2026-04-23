@@ -51,12 +51,11 @@ stance: >-
   changing culture, because successful ideas get assimilated and become obvious
   to the next generation
 related:
+  - INS-260423-AB6B
   - INS-260402-3639
   - PRI-260406-1EF3
   - INS-260403-B9F4
   - INS-260403-F9EE
-  - PRI-260406-ABAA
-  - INS-260403-8C20
 evidence:
   - id: INS-260322-5B1B
     type: SUPPORTS

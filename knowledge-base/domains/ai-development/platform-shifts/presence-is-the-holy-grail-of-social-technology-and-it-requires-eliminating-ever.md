@@ -45,10 +45,10 @@ resolutions:
     invest in motion and interaction quality before visual polish.
 related:
   - INS-260325-D82A
+  - INS-260423-7DC6
   - INS-260330-BE4D
   - INS-260330-AB5D
   - INS-260330-A4A5
-  - INS-260403-AFBB
   - INS-260327-A43C
   - INS-260403-6178
   - INS-260403-F8AE

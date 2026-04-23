@@ -53,8 +53,8 @@ related:
   - INS-260404-B6CA
   - INS-260409-613B
   - INS-260403-822B
+  - INS-260423-AB6B
   - INS-260409-60C2
   - PRI-260405-BF5B
-  - INS-260402-12D0
 ---
 Beginners treat card writing as mechanical: take a fact, turn it into a question, done. But in Matuschak's experience, card writing is an open-ended skill comparable to sentence writing — in the hands of a Nabokov, sentences become virtuoso artforms, and in the hands of a skilled card-writer, cards become the difference between a useful medium and a transformative one. Three of the principles Matuschak discusses: (1) cards should be atomic — one fact per card, because compound cards routinely fail recall while atomic cards succeed; (2) cards should demand active recall, not passive recognition; (3) cards should build conceptual understanding by asking 'why' and 'when' questions, not just 'what.' Getting card writing right means thinking hard about what you actually know, how it connects, and what the smallest testable unit is. This is why Quantum Country cards took so long to develop — the authors were simultaneously learning quantum computing better and learning how to write cards about quantum computing. The skill is under-taught because most SRS users never encounter virtuoso examples.

@@ -5,6 +5,11 @@
 - `INS-260409-B005` 80% of Americans want AI regulated — a rare civic consensus — and frontier labs are spending hundreds of millions to kill it; the organizing opening is real.
 - `INS-260409-5B7B` AGI has no stable definition — OpenAI redefines it per audience to serve the specific mobilization need in front of them.
 - `INS-260328-896B` OpenAI's board tried to exercise its nonprofit mission authority and was immediately overridden by financial stakeholders — proving money wins over governance.
+- `INS-260330-BEF8` Benjamin Franklin identified lead toxicity in 1786, yet tetraethyl lead was added to gasoline in 1921 and not fully banned worldwide until 2021 — a 235-year gap between known truth and universal action.
+- `INS-260412-E842` The SEC failed to act on Markopolos's five separate fraud reports because Madoff had deep ties with the commission and was even called to advise it.
+- `INS-260327-3014` Regulatory capture by food and pharma industries is the primary driver of the chronic disease epidemic
+- `INS-260325-3488` The 1910 Flexner Report, funded by Carnegie/Rockefeller, systematically eliminated natural medicine schools to establish pharmaceutical medicine monopoly.
+- `INS-260327-8572` The food supply has been systematically degraded through seed oils, pesticides, and additives approved by captured regulators
 - `INS-260412-132B` Purdue corrupted doctors, distributors, pharmacists, politicians, and the FDA simultaneously, creating a self-reinforcing system that resisted correction for over two decades.
 - `INS-260412-51C1` Enron's status as Bush's largest campaign contributor bought them regulatory immunity that enabled fraud to scale.
 - `INS-260409-DBAE` Around 50 of California's ~200 billionaires have funded Gavin Newsom's campaigns, and his public opposition to the wealth tax now protects their interests without any explicit quid pro quo.
@@ -12,11 +17,6 @@
 - `INS-260326-3E19` Pharmaceutical companies funding the FDA, banks staffing financial regulators, and tech giants writing platform regulations are structurally identical -- the mechanism is industry-funded oversight producing industry-favorable rules.
 - `INS-260323-EA65` W.R. Grace lobbied regulators to define asbestos contamination below 1% as 'asbestos-free' — controlling the definition was more effective than fighting every individual regulation.
 - `INS-260412-3AA3` Samsung's 20% GDP share makes South Korea unable to meaningfully prosecute its leaders, as demonstrated by two generations of Lee family pardons.
-- `INS-260327-3014` Regulatory capture by food and pharma industries is the primary driver of the chronic disease epidemic
-- `INS-260325-3488` The 1910 Flexner Report, funded by Carnegie/Rockefeller, systematically eliminated natural medicine schools to establish pharmaceutical medicine monopoly.
-- `INS-260327-8572` The food supply has been systematically degraded through seed oils, pesticides, and additives approved by captured regulators
-- `INS-260330-BEF8` Benjamin Franklin identified lead toxicity in 1786, yet tetraethyl lead was added to gasoline in 1921 and not fully banned worldwide until 2021 — a 235-year gap between known truth and universal action.
-- `INS-260412-E842` The SEC failed to act on Markopolos's five separate fraud reports because Madoff had deep ties with the commission and was even called to advise it.
 - `INS-260330-AFAD` Converse and Keds lobbied the US Customs Service to enforce an archaic import duty rule specifically to hit Nike with a $25M bill, using regulation as a weapon rather than competing on product.
 - `INS-260402-3134` Uber became profitable not by solving its unit economics problem but by preventing regulatory crackdown and bullying competitors until only Lyft remained as a cooperative duopolist.
 - `INS-260412-4477` FTX spent $73M+ on political donations across both parties to build regulatory cover, substituting lobbying for legitimate compliance — a strategy that amplified rather than reduced risk.

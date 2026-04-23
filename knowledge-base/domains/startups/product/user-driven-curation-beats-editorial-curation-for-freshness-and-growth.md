@@ -46,11 +46,11 @@ stance: >-
   editorially curated alternatives because user-driven systems are inherently
   faster at surfacing new content.
 related:
-  - INS-260327-38D8
   - INS-260403-C907
+  - INS-260327-38D8
   - INS-260321-38EC
   - INS-260405-3E73
-  - INS-260403-6B97
+  - INS-260423-AEAD
 evidence:
   - id: INS-260320-5A6F
     type: SUPPORTS

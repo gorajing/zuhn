@@ -1,6 +1,6 @@
 # Topic: focus
 
-> 157 insights
+> 158 insights
 
 - `INS-260330-1B64` [high] Sitting quietly for 17 minutes focusing on breathing and internal body sensations significantly reduces attentional blinks in a near-permanent way after just one session.
 - `INS-260325-4A01` [high] Research shows 45% of daily behavior is habitual, meaning we are on autopilot nearly half the time.
@@ -139,6 +139,7 @@
 - `INS-260328-FE38` [medium] There are no non-procrastinators — only people whose most important tasks happen to come with deadlines that activate the Panic Monster.
 - `INS-260323-97DB` [medium] Adams never thought losing was possible — he entered every contest expecting to win, which meant his only losses were Olympic and World Championship finals on split decisions.
 - `INS-260403-6CE8` [medium] We'll increasingly be defined by what we say no to, as the default environment becomes saturated with compelling distractions.
+- `INS-260423-2529` [medium] Dan Koe: meaning isn't something you find in the world — it's a state of consciousness that emerges when attention is ordered toward something complex enough to fully engage you.
 - `INS-260322-71E4` [medium] Your total capacity to focus resets each day; every input (email, podcast, notification) you let in takes permanent space until the next reset — so guard it aggressively.
 - `INS-260405-18F3` [medium] Using breath, body, and sound as interchangeable anchors creates a fault-tolerant attention architecture rather than a single point of failure.
 - `INS-260325-8EED` [medium] The Dutch practice of niksen — three minutes of staring out a window or watching trees — resets cognitive overload more effectively than pushing through fatigue.

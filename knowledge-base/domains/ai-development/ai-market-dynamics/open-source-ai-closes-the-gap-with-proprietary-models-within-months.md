@@ -46,10 +46,10 @@ stance: >-
   capabilities.
 related:
   - INS-260325-522A
+  - INS-260423-55A7
   - PRI-260406-22E2
   - INS-260405-D660
   - INS-260321-5DF8
-  - INS-260410-49D7
 evidence:
   - id: INS-260325-522A
     type: SUPPORTS

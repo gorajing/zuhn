@@ -50,11 +50,11 @@ stance: >-
   things for N=3 is actively harmful because students never learn they need to
   escape the format to do real intellectual work.
 related:
+  - INS-260423-AB6B
+  - INS-260423-F7C7
   - INS-260402-12D0
   - INS-260403-F9EE
   - INS-260402-3639
-  - INS-260402-7C15
-  - PRI-260406-1EF3
 ---
 Graham makes a sharp pedagogical point: the five-paragraph essay taught in schools is structurally identical to a list of N things (for N=3), but students don't realize this because it's dressed up with forced transitions ('Furthermore...') and bookend paragraphs. This disguise is dangerous because students think they're writing real essays when they're actually using training wheels.
 

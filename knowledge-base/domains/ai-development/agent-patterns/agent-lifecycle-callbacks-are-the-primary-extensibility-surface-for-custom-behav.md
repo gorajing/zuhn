@@ -58,5 +58,6 @@ related:
   - INS-260423-1C4D
   - INS-260423-6879
   - INS-260327-13B3
+  - INS-260423-23E6
 ---
 The agent-framework convergence pattern for extensibility is lifecycle callbacks at standardized hook points: before and after the agent as a whole invocation, before and after individual model calls, before and after tool invocations. Custom behavior (content filtering, logging, audit trails, rate limiting, cost tracking, custom memory writes) attaches to these hooks rather than requiring code changes in the framework core. The practical design rule for agent builders: if you want to inject behavior at a specific moment in an agent's lifecycle, first check whether the framework exposes a callback for that moment. If yes, use it. If no, that is a flag to choose a framework that does, because forking the core is a maintenance tax you will pay forever. The callback taxonomy is stabilizing: before_agent, after_agent, before_model, after_model, before_tool, after_tool are near-universal, and frameworks that omit them are falling behind in enterprise adoption.
