@@ -53,7 +53,6 @@ related:
   - INS-260330-4D05
   - INS-260403-F4CC
   - INS-260322-B641
-  - INS-260405-3066
   - INS-260403-FA8E
 evidence:
   - id: INS-260330-4D05

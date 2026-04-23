@@ -50,7 +50,6 @@ related:
   - INS-260403-708E
   - INS-260325-0409
   - INS-260330-EE25
-  - INS-260410-0EFE
 stance: >-
   Bayesian wind tunnel experiments prove transformers perform exact Bayesian
   posterior updating to 10^-3 bits accuracy, but this mechanism is purely ...

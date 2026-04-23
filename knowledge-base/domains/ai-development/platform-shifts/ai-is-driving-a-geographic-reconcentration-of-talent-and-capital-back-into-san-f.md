@@ -57,7 +57,6 @@ related:
   - INS-260404-6FFF
   - INS-260413-CAA6
   - INS-260403-8FC1
-  - INS-260403-A521
 ---
 After years of remote-work exodus and declarations that Silicon Valley was dead, AI has reignited San Francisco as the gravitational center of tech. Office space is disappearing, optimism is rising, and the density of founders and engineers is approaching pre-pandemic levels. This reconcentration is driven by AI's nature as a deeply technical field where proximity to talent, compute infrastructure, and capital creates compounding advantages.
 

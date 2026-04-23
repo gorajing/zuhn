@@ -45,7 +45,6 @@ resolutions:
     transitional ones. This is a common pattern in technology: what starts as an
     interim solution finds its own durable market.
 related:
-  - INS-260320-2058
   - INS-260330-F9B4
   - INS-260330-1DCF
   - PRI-260406-D9D6
@@ -55,6 +54,7 @@ related:
   - INS-260330-5B59
   - INS-260330-3745
   - INS-260330-09E3
+  - INS-260330-217C
 stance: >-
   Meta's AR strategy isn't a single product line converging but three permanent
   tiers at different price and capability points, each serving distinct...

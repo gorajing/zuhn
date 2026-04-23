@@ -46,7 +46,6 @@ stance: >-
   You cannot reason your way into discovering your specific knowledge — it is
   revealed by observing what you've already naturally gravitated toward doing.
 related:
-  - INS-260320-E6DD
   - INS-260320-5F14
   - INS-260329-A077
   - INS-260329-8896
@@ -56,6 +55,7 @@ related:
   - INS-260330-026B
   - INS-260330-63B8
   - INS-260330-E403
+  - INS-260402-E76D
 evidence:
   - id: INS-260320-E6DD
     type: TRANSFERS_TO

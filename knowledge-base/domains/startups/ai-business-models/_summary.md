@@ -1,6 +1,6 @@
 # Topic: ai-business-models
 
-> 41 insights
+> 42 insights
 
 - `INS-260403-3852` [high] Nearly every startup in the Speedrun batch frames itself as an AI agent or autonomous worker for a specific industry vertical rather than a horizontal platform.
 - `INS-260322-019A` [high] AI differentiation is not the same as defensibility — the moat comes from owning the end-to-end workflow and becoming the system of record.
@@ -35,6 +35,7 @@
 - `INS-260404-6586` [medium] AI wrapper startups are winning by packaging complex AI capabilities into simple, domain-specific products that non-technical users can adopt immediately.
 - `INS-260409-D491` [medium] BYOA — one operator with trained agents replaces an entire department and captures a fraction of the saved salary cost; Anthropic's one-person marketing team is the template.
 - `INS-260405-70D4` [medium] Shield AI's 140% valuation jump in one year reflects that government defense AI contracts produce lock-in dynamics more durable than most commercial software.
+- `INS-260423-5F2F` [medium] Aaron Levie: the budget of tokens will have to move out of IT spend and into regular OPEX spend — this can't be treated like trading off between Salesforce licenses and compute tokens.
 - `INS-260409-C768` [medium] Problem precision beats market size — a small market solved precisely outperforms a big market solved approximately.
 - `INS-260403-2E0F` [medium] The best AI business model isn't charging for efficiency — it's using efficiency as a wedge to participate in the downstream transaction and capture a share of the value created.
 - `INS-260405-94A0` [medium] OSS is not free software without monetization — it is a distribution and ecosystem strategy that enables diverse commercial models on top.

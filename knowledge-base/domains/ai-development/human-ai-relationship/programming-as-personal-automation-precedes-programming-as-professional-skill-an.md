@@ -62,7 +62,6 @@ related:
   - INS-260402-F62B
   - INS-260403-648C
   - INS-260322-EDA4
-  - INS-260409-156A
   - INS-260409-533A
 evidence:
   - id: INS-260320-6A9D

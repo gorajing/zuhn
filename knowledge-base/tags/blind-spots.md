@@ -6,8 +6,8 @@
 - `INS-260403-EBE4` Legacy environmental groups like Greenpeace have largely gone quiet on Chinese overfishing while continuing to critique Western environmental practices.
 - `INS-260405-8732` Conformists can't imagine true-but-dangerous ideas because their own views are always safe to express.
 - `INS-260330-A1AF` Adams, the self-proclaimed expert on manipulation tactics, was ultimately destroyed by a manipulation technique straight out of his own playbook that he failed to recognize.
-- `INS-260410-15EC` Uber lost US food delivery to doordash because Uber's urban-fast-cheap identity made them see the suburbs as someone else's market—but suburbs are where the food delivery money actually is.
 - `INS-260404-F017` Each of the nine BMC blocks represents a critical decision area; removing any one risks missing a foundational pillar of the business.
+- `INS-260410-15EC` Uber lost US food delivery to doordash because Uber's urban-fast-cheap identity made them see the suburbs as someone else's market—but suburbs are where the food delivery money actually is.
 - `INS-260330-1DCA` We've cataloged 98% of civilization-ending asteroids (10km+) and accept small ones (<20m), but the 100-800m range — capable of destroying cities — remains largely undetected.
 - `INS-260403-AC29` List your weaknesses and hire exclusively from that list for your first three roles.
 - `INS-260403-2CA3` Staff around senior leaders naturally filter out uncomfortable or surprising information, creating dangerous blind spots that leaders must actively counteract.

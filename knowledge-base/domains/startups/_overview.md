@@ -1,12 +1,12 @@
 # Domain: startups
 
-> 4664 insights across 55 topics
+> 4666 insights across 55 topics
 
 ## Topics
 
 | Topic | Insights | Preview |
 | ----- | -------- | ------- |
-| ai-business-models | 41 | Andreessen Horowitz's AI x Commerce thesis argues AI will reshape how consumers discover and purchase products, creating massive startup opportunities. |
+| ai-business-models | 42 | Andreessen Horowitz's AI x Commerce thesis argues AI will reshape how consumers discover and purchase products, creating massive startup opportunities. |
 | bootstrapping | 35 | Buying an existing business with seller financing lets you skip years of startup risk and immediately own a cash-flowing asset. |
 | business-models | 243 | The time required to build a company is often predictive of how long it will last. |
 | co-founders | 43 | Esther Perel's framework from couples therapy identifies three root causes under every co-founder conflict: who has power, who feels cared for, and who gets recognized. |
@@ -45,7 +45,7 @@
 | platform-dynamics | 27 | McDonald's owns the land, charges 8.5-15% of sales as rent versus the industry norm of 6-10%, and can replace underperforming franchisees while keeping the appreciating asset. |
 | platform-strategy | 16 | Bezos's beer-brewery analogy was a marketing pitch for AWS, but the deeper lesson was that being the unregulated utility is the great hidden business model. |
 | problem-solving | 11 | Shade balls were originally 'bird balls' for mine tailings ponds and airports — repurposed for water quality rather than invented from scratch. |
-| product | 25 | Treating aid recipients as product users with real feedback loops produces dramatically better outcomes than top-down charity models. |
+| product | 26 | Treating aid recipients as product users with real feedback loops produces dramatically better outcomes than top-down charity models. |
 | product-development | 141 | Apple's 48-hour design review rhythm forced constant refinement that produced best-in-class products. |
 | product-market-fit | 10 | AI PMF is a continuous recalibration process, not a one-time validation milestone. |
 | product-strategy | 94 | Juicero raised $120M for technology that was immediately undermined when customers realized the same outcome was achievable by hand. |

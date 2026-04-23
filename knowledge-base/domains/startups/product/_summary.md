@@ -1,6 +1,6 @@
 # Topic: product
 
-> 25 insights
+> 26 insights
 
 - `INS-260403-6CE6` [high] Treating aid recipients as product users with real feedback loops produces dramatically better outcomes than top-down charity models.
 - `INS-260403-8DA1` [high] Never assume other teams see your project as a priority — explicitly demonstrate impact on their specific goals.
@@ -27,3 +27,4 @@
 - `INS-260405-8646` [medium] Product KPIs need to be designed for four audiences at once: product team, stakeholders, executives, and customers.
 - `INS-260403-1269` [medium] The best business tools are conceptually sound, simple, practical, visual, and have great UX — adoption depends on usability, not just correctness.
 - `INS-260403-BA0D` [medium] Obsessing over product quality and customer service can substitute for early brand investment by generating organic trust and word-of-mouth.
+- `INS-260423-BFDE` [medium] Aaron Levie: all software has a database behind it — but there's a lot of business logic in the layer above; ERP is way more than a database because of supply chain automation and accounting logic that none of that goes away.

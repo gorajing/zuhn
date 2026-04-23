@@ -56,5 +56,6 @@ related:
   - INS-260403-3FAE
   - INS-260413-E5F8
   - INS-260413-86EA
+  - INS-260423-E12B
 ---
 The AI Index 2026 Chapter 7 documents that the majority of US AI graduate students are non-residents. In AI software-related master's programs, 67% of graduates are non-residents. At the PhD level, 55% of AI software graduates and 56% of AI hardware graduates are non-residents. Combined with the top-takeaway finding that the number of AI researchers and developers moving to the United States has dropped 89% since 2017 (80% in the last year alone), and the policy finding that the federal government has been revoking student visas and discouraging international student enrollment, the US AI talent pipeline has a structural vulnerability: it depends on continued immigration of graduate students, and that flow is being cut off. The effect will not show in enrollment statistics for another 2-3 years because degree completion lags enrollment, but the pipeline damage is already done. Any US AI strategy that assumes domestic talent production is the primary driver is making a factual error — two-thirds of the production is foreign, and the inflow is collapsing.

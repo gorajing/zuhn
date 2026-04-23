@@ -22,7 +22,6 @@
 - `INS-260327-6B02` Data center buildouts provide tens of thousands of high-paying jobs and stock market gains drive consumer spending, making the AI economy self-sustaining regardless of whether AI delivers on its promises.
 - `INS-260403-CCED` Microsoft and Meta both beat revenue expectations but saw stock declines because investors focused on escalating AI capex eating into margins, while Alphabet and Amazon were rewarded for combining growth with execution efficiency.
 - `INS-260405-DA83` TSMC's record $52-56B capex guidance reflects hyperscalers reserving capacity years ahead, de-risking the investment case.
-- `INS-260404-5AC8` AI infrastructure companies benefit from booming demand regardless of which AI models or applications ultimately dominate.
 - `INS-260403-8A28` Firms like Tiger Global and Insight Partners have had multiple portfolio companies acquired by Nvidia in the past two years, revealing how concentrated AI exit paths have become.
 - `INS-260404-E544` Data center operators signed over 40% of all clean energy power purchase agreements in 2024, making AI infrastructure the largest single demand category for new renewable capacity.
 - `INS-260403-D986` $14.6B of Q2 2024's $55.6B venture total went to just two companies (CoreWeave and xAI), masking a weaker broad market.
@@ -30,6 +29,7 @@
 - `INS-260321-CBD2` Unlike the dot-com era, AI capex is financed by the most profitable companies in history and there are 'no dark GPUs' (every deployed GPU gets fully utilized immediately), but private credit entering the data center buildout and Oracle's massive cash-flow-negative bet are early warning signals.
 - `INS-260402-F833` The U.S. leads in advanced chips while China leads in energy production — whoever integrates both first wins the AI race.
 - `INS-260404-25F5` US power generation grew only 1.3x since 2000 while China expanded 7x to ~10,000 TWh, creating a physical infrastructure gap that limits AI deployment capacity.
+- `INS-260404-5AC8` AI infrastructure companies benefit from booming demand regardless of which AI models or applications ultimately dominate.
 - `INS-260327-BB71` The biggest AI opportunity isn't building agents—it's building the infrastructure every agent will need.
 - `INS-260327-7D53` No CTO has ever said their cloud bill is cheap — multi-model, multi-cloud platforms win by giving enterprises what hyperscalers refuse: freedom from lock-in.
 - `INS-260403-79F3` Founders can now go from idea to product to seed round in less than a quarter by leveraging pretrained models and existing AI APIs.

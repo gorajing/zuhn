@@ -48,7 +48,6 @@ stance: >-
   metric while failing to improve the actual targets like poverty and social
   mobility, because conceptually adjacent metrics are not functionally linked.
 related:
-  - INS-260329-04CB
   - INS-260402-CF0A
   - INS-260403-CF54
   - INS-260403-C888

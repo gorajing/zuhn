@@ -13,9 +13,9 @@
 - `INS-260423-4402` Chamath: A-players are meaningless; there are teams that can perform at an A level. Iron sharpens iron.
 - `INS-260409-6DBE` Matuschak and Nielsen argue that with spaced repetition and the mnemonic medium, memory stops being a chance event subject to forgetting and becomes a deliberate choice — 'follow these steps, and you can remember whatever you choose.'
 - `INS-260403-45E3` Classical virtue ethics focused on character over action because its audience had no real choice about what to do with their lives.
-- `INS-260404-5A3D` Realizing that selectors barely scrutinize you motivates more active self-presentation.
 - `INS-260323-7212` Network experiments show the world is 'poised on an edge of instability' where one person's choice can tip an entire system toward cooperation or defection.
 - `INS-260325-922D` You control nothing but influence everything; every action has unforeseen ripple effects that reshape the future.
+- `INS-260404-5A3D` Realizing that selectors barely scrutinize you motivates more active self-presentation.
 - `INS-260325-3223` Psychologist Sonja Lyubomirsky's analysis estimates 50% of happiness is genetic set point, 10% is circumstances, and 40% is under our control.
 - `INS-260330-D2CE` Agency and gratitude serve as the top-level indicators of mental health, paralleling blood pressure and endurance in physical health.
 - `INS-260330-EFF3` Viewing life as a single-player game removes victim mentality and returns control to the individual.

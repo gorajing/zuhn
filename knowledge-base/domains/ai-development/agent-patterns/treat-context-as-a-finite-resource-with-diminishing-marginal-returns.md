@@ -44,8 +44,8 @@ stance: >-
 related:
   - INS-260322-BEA3
   - INS-260405-94A0
+  - INS-260423-5F2F
   - INS-260405-B7C7
   - INS-260330-01D5
-  - INS-260410-7075
 ---
 The transformer architecture creates n² pairwise relationships across n tokens, so as context grows, attention gets stretched thin and recall degrades. This 'context rot' is architectural, not a bug — it emerges across all models because training data skews toward shorter sequences. The practical implication is that you should treat context like a scarce resource: find the smallest possible set of high-signal tokens that maximize the likelihood of the desired outcome. 'Minimal' doesn't mean 'short' — it means no junk tokens. Bigger context windows don't fix this; they just push the cliff further out.

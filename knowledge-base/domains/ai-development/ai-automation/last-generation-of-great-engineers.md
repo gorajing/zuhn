@@ -19,11 +19,11 @@ sources:
     author: Max Brodeur-Urbas (EO podcast)
     url: 'https://youtu.be/CxFQykWiJqY'
 related:
+  - INS-260423-E12B
   - INS-260403-3FAE
   - INS-260405-68DC
   - INS-260403-7FFA
   - INS-260404-D6F7
-  - PRI-260406-32FE
   - INS-260325-854D
 date_extracted: '2026-03-20'
 last_accessed: null

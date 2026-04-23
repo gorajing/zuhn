@@ -45,8 +45,8 @@ stance: >-
 related:
   - INS-260409-156A
   - INS-260330-F512
+  - INS-260423-BFDE
   - INS-260320-0F7C
   - INS-260323-23B9
-  - INS-260402-E994
 ---
 The video draws a direct contrast with graph-based systems like nano-GraphRAG where you technically can inspect the graph but practically cannot grasp it at a glance. Obsidian makes the corpus, the indexes, and even the wiki links directly human-readable. This is load-bearing because it lets the maintainer notice what's missing, what's stale, and what's wrong before the LLM answers incorrectly. Black-box retrieval systems defer debugging to symptom-level — the user only sees bad answers — while transparent file systems surface problems at the corpus level where they can be fixed.

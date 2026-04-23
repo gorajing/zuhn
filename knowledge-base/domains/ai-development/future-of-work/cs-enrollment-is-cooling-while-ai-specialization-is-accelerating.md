@@ -49,11 +49,10 @@ stance: >-
   2025 as entry-level job automation bit, but AI software master's graduates
   rose 82% from 2022 to 2024 as specialization paid off.
 related:
-  - INS-260403-3FAE
   - INS-260413-CAA6
   - INS-260413-3AB5
   - INS-260413-86EA
   - INS-260403-19C9
-  - INS-260413-4EB1
+  - INS-260423-E12B
 ---
 The AI Index 2026 Chapter 7 documents a sharp divergence in US CS education pipelines. Undergraduate CS enrollment at four-year universities fell 11% between 2024 and 2025, the first meaningful decline in over a decade. At the same time, AI software master's graduates grew 82% from 2022 to 2024 and 17% year-over-year to approximately 94,920 graduates. AI hardware degrees at bachelor's level declined 13% since 2020. This bifurcation maps directly onto the labor market finding from Chapter 4: entry-level software developer employment (ages 22-25) fell ~20% from 2024 as junior coding roles were automated, while demand for AI specialists grew. Students are responding rationally to a shifting job market by moving upmarket — from generic CS degrees to AI-specific master's programs. The secondary implication is that tuition-dependent CS programs at non-elite institutions are at the front of a structural enrollment decline, while elite master's programs are at the front of a specialization boom. The education system is hollowing out its middle.

@@ -50,10 +50,10 @@ stance: >-
   critical threshold, then transform rapidly and irreversibly.
 related:
   - INS-260409-CE1D
+  - INS-260423-EDF7
   - INS-260325-1709
   - INS-260325-8290
   - INS-260325-C7FA
-  - INS-260325-7FE6
 ---
 The terraforming plan describes decades of cooling with no visible progress — the atmosphere stays dense, hot, and deadly. Then at 31°C, the CO2 hits its critical temperature and suddenly liquefies, triggering a 30-year global rainstorm that transforms the entire planet. The pressure and temperature drop in unison once the cascade begins.
 

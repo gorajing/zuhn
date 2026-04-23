@@ -54,9 +54,9 @@ stance: >-
 related:
   - INS-260412-EB2D
   - INS-260403-7D11
+  - INS-260423-FF53
   - INS-260327-2627
   - INS-260409-D491
   - INS-260409-6C66
-  - INS-260405-5222
 ---
 Public discourse on AI job displacement often anchors on enterprise cases where adoption is slow due to procurement, change management, and regulatory friction. The actual early-wave displacement is happening at small-company scale: 50-100 person startups where one technical founder can replace marketing, sales ops, and analyst functions with orchestrated agent swarms. These decisions happen in weeks, not quarters. The pattern is: founder realizes each automated workflow they build removes one person's job; founder builds 10-20 such workflows; founder fires 50-70 percent of the team. There is no enterprise change-management process to slow this down at small scale. The implication for workers: the job-security bet on 'small companies don't automate as aggressively as big ones' is backwards. Small-company workers are more exposed, not less, because the founder can unilaterally decide to automate and fire without committee approval. The next 12-24 months will produce the sharpest displacement signals at the 10-100 employee tier.

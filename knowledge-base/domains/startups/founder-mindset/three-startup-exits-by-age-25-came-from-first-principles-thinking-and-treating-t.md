@@ -47,11 +47,11 @@ stance: >-
   treat every new platform shift (now AI tokens) as a currency arbitrage
   opportunity.
 related:
+  - INS-260423-E12B
   - INS-260327-3A71
   - INS-260327-A22D
   - INS-260403-DC6E
   - INS-260409-A4F0
-  - INS-260403-A521
   - INS-260330-C9A6
   - INS-260403-35E7
 evidence:

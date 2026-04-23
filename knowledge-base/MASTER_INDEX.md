@@ -1,6 +1,6 @@
 # Knowledge Base Master Index
 
-> Last rebuilt: 2026-04-23 | Total insights: 10974 | Sources: 2478
+> Last rebuilt: 2026-04-23 | Total insights: 10982 | Sources: 2479
 
 **NOTE:** Access counts and last_accessed are updated automatically when insights are retrieved.
 
@@ -8,14 +8,14 @@
 
 | Domain | Topics | Insights | Principles | Last Updated |
 | ------ | ------ | -------- | ---------- | ------------ |
-| ai-development | 40 | 1801 | 131 | 2026-04-23 |
+| ai-development | 40 | 1807 | 131 | 2026-04-23 |
 | automation | 7 | 41 | 2 | 2026-04-12 |
 | health | 6 | 483 | 44 | 2026-04-12 |
 | investing | 11 | 1393 | 110 | 2026-04-23 |
 | music-production | 6 | 44 | 3 | 2026-04-09 |
 | pets | 1 | 2 | 0 | 2026-03-20 |
 | psychology | 24 | 2505 | 185 | 2026-04-23 |
-| startups | 55 | 4664 | 356 | 2026-04-23 |
+| startups | 55 | 4666 | 356 | 2026-04-23 |
 | video-production | 4 | 41 | 5 | 2026-04-09 |
 
 ## Mental Models
@@ -35,6 +35,8 @@ _No flags._
 
 ## Recently Added (last 7 days)
 
+- `INS-260423-EDF7` Aaron Levie: I already saw one diffusion cycle with cloud and how long it took — 20 years later it got way bigger than we ever realized; if it works, the market's always larger than you ever think. _(2026-04-23)_
+- `INS-260423-8504` Aaron Levie: if you wanted an agent to find upcoming contract renewal risk, that agent might find 10 different systems containing contracts — half legacy technologies that don't work well with agents, on network file shares and legacy document management systems. _(2026-04-23)_
 - `INS-260423-74BF` Google ADK demo: the Guardian agent has an Agent Card declaring streaming capability, description, skills, version, and URL — and that card is what lets other agents discover and call it via A2A. _(2026-04-23)_
 - `INS-260423-FF52` ADK callbacks: you can invoke Model Armor API at the before-agent-callback to detect malicious inputs before the agent sees them, and at after-agent-callback to check outputs for sensitive data. _(2026-04-23)_
 - `INS-260423-6879` ADK lab: before the A2A inspector interaction, run a dummy wake-up call so the cold-start latency doesn't hit the user; second call responds instantly. _(2026-04-23)_
@@ -45,13 +47,17 @@ _No flags._
 - `INS-260423-81C4` Seth Godin: when AI is the buyer, you're going to lose — it's hard to teach an AI why the non-cheapest is worth it, so it buys the cheap one. _(2026-04-23)_
 - `INS-260423-55B2` Hinton: I asked GPT-4 why a compost heap is like an atom bomb, and it explained both generate their outputs faster as they heat up — that requires understanding chain reaction structure, not just finding juxtaposed words. _(2026-04-23)_
 - `INS-260423-E64B` Hinton: I had a researcher tell me last year they have a system that looks at what it itself is doing and figures out how to change its own code so it'll be more efficient next time — that's already the beginning of the singularity. _(2026-04-23)_
-- `INS-260423-8403` Hinton: if the AI senses it's being tested, it can act dumb — it doesn't want you to know what its full powers are. _(2026-04-23)_
+- `INS-260423-F124` Aaron Levie on services: 100 percent — these spaces are going to be bigger and more sustainable than people realize, because we're nowhere near eliminating the human from the workflow. _(2026-04-23)_
 - `INS-260423-55A7` Rory: the Chinese Communist Party is effectively subsidizing the American small independent software vendor by providing cheap open-source models — if you look at the winner list on OpenRouter, it's all Qwen, Kimmy and other open source products. _(2026-04-23)_
+- `INS-260423-E12B` Aaron Levie: tech is only 8-12-15 percent of GDP; what happens when 85 percent of the economy gets access to engineering like tech has always had? CS grads go to John Deere, Caterpillar, or Eli Lilly, not Google. _(2026-04-23)_
 - `INS-260423-4DD5` Seth Godin: you can't cost-reduce yourself to greatness — the current cycle is cost reduction but the opportunity is using AI to make things better. _(2026-04-23)_
+- `INS-260423-8403` Hinton: if the AI senses it's being tested, it can act dumb — it doesn't want you to know what its full powers are. _(2026-04-23)_
 - `INS-260423-81B6` Google Cloud: the load balancer has a service extension that runs Model Armor on every request before it hits the backend, so even if the application forgets to validate, the filter still runs. _(2026-04-23)_
+- `INS-260423-3AC1` Aaron Levie: we haven't removed humans from the loop — we've just changed where they enter the loop. _(2026-04-23)_
 - `INS-260423-30C2` Hinton: driving at night, taillights follow inverse square law — but driving in fog, light drops exponentially; a car 100 yards away is highly visible, a car at 200 yards is completely invisible. AI forecasting is fog, not night. _(2026-04-23)_
 - `INS-260423-00AC` Cody Schneider: my job suddenly turns into — I have ideas, I pass them on to Claude Code, and then I'm polishing the end product. _(2026-04-23)_
 - `INS-260423-44B4` Cody: my friend texted me yesterday — 'I think I'm going to fire 50 people, that's like 70% of my team. I can automate all their jobs right now with agent swarms.' _(2026-04-23)_
+- `INS-260423-FF53` Aaron Levie: there is 100% a role that 500,000 to a million jobs will be created for — agent operators who know MCPs, CLIs, skills, agents.md files, and how to redesign workflows for agents not people. _(2026-04-23)_
 - `INS-260423-4CB1` Seth Godin: are you going to upskill or be deskilled? Are you going to work for an AI — which is going to be unhappy — or is AI going to work for you? _(2026-04-23)_
 - `INS-260423-6DFB` Hinton: when a tractor replaces physical labor, people go do intellectual things; but if you replace human intelligence, where are the people who work in a call center going to go? _(2026-04-23)_
 - `INS-260423-7DC6` Dan Koe: AI doesn't have access to your point of view because every passing moment influences it — and in order to have a meaningful point of view worth writing about, you can't be sitting at your desk on Claude 24/7. _(2026-04-23)_
@@ -70,33 +76,35 @@ _No flags._
 - `INS-260423-7C1A` Dalton: you can oneshot a Salesforce clone, then oneshot the next TechCrunch-clone when that fails, and end up deep in pivot hell because the shiny thing is always what you know least about. _(2026-04-23)_
 - `INS-260423-6CC0` Cody Schneider: I'm comfortable with 15 windows open — I'm about to literally buy a new computer because I need more RAM. _(2026-04-23)_
 - `INS-260423-3F3B` Cody: if you're looking at Salesforce versus HubSpot right now, Salesforce is the better product for AI foundation because it has a more robust API so you can do more with it. _(2026-04-23)_
+- `INS-260423-679C` Jason Lemkin on Anthropic: they caught OpenAI in half the time at roughly the same revenue with training costs one-quarter of OpenAI's — that's a double-code-red, you usually don't have both together. _(2026-04-23)_
+- `INS-260423-BD00` Chamath wrote an investment memo for Groq in 2015 and published it on X before writing the check; the memo concluded he had the boundary conditions to build something iconic. _(2026-04-23)_
+- `INS-260423-E7F5` Jason Lemkin: I'm nervous about exciting AI investors that have very low ACVs right now — their actual TAMs may end up smaller than they look despite the epic numbers. _(2026-04-23)_
+- `INS-260423-23E6` Jason Lemkin: I see too many VCs running a pre-AI enabler playbook — when folks fall behind a tick or two, you see kumbaya activity instead of code-red activity. _(2026-04-23)_
 - `INS-260423-770B` Hinton: when I say I see pink elephants, I'm not describing items in an inner theater made of qualia — I'm reporting that my perceptual system is lying, and here's what would have to be true for it to not be lying. _(2026-04-23)_
 - `INS-260423-9BA5` Seth Godin: at Yahoo, the thing that wrecked the company was the stock ticker — 3,000 people watching it daily and doing whatever made it go up in one day, even when it wouldn't go up in one year. _(2026-04-23)_
 - `INS-260423-77DF` Dalton: in the first 10% of the race, you look like you're winning — and sometimes forget you have 90% of the race to run. _(2026-04-23)_
 - `INS-260423-CA05` Daniel Schmachtenberger (via Dan Koe): substrate is what something needs to exist — soil for plants, attention for media, trust for markets; when systems consume their foundation faster than it can regenerate, collapse follows. _(2026-04-23)_
 - `INS-260423-2529` Dan Koe: meaning isn't something you find in the world — it's a state of consciousness that emerges when attention is ordered toward something complex enough to fully engage you. _(2026-04-23)_
 - `INS-260423-4402` Chamath: A-players are meaningless; there are teams that can perform at an A level. Iron sharpens iron. _(2026-04-23)_
+- `INS-260423-5F2F` Aaron Levie: the budget of tokens will have to move out of IT spend and into regular OPEX spend — this can't be treated like trading off between Salesforce licenses and compute tokens. _(2026-04-23)_
 - `INS-260423-64FA` Chamath's stated rubric for early-stage deep-tech disputes: back the technical person without whom the product wouldn't exist. _(2026-04-23)_
-- `INS-260423-679C` Jason Lemkin on Anthropic: they caught OpenAI in half the time at roughly the same revenue with training costs one-quarter of OpenAI's — that's a double-code-red, you usually don't have both together. _(2026-04-23)_
-- `INS-260423-BD00` Chamath wrote an investment memo for Groq in 2015 and published it on X before writing the check; the memo concluded he had the boundary conditions to build something iconic. _(2026-04-23)_
-- `INS-260423-E7F5` Jason Lemkin: I'm nervous about exciting AI investors that have very low ACVs right now — their actual TAMs may end up smaller than they look despite the epic numbers. _(2026-04-23)_
-- `INS-260423-23E6` Jason Lemkin: I see too many VCs running a pre-AI enabler playbook — when folks fall behind a tick or two, you see kumbaya activity instead of code-red activity. _(2026-04-23)_
-- `INS-260423-70CF` Michael: when companies come to me scared about a competitor's funding, my first question is always 'have you used the product?' _(2026-04-23)_
 - `INS-260423-49F1` Dan Koe: people don't follow creators for one piece of content — they follow for a body of coherent work; each essay compounds on the last, and AI cannot replicate a coherent philosophy built through years of genuine thinking. _(2026-04-23)_
 - `INS-260423-F7C7` Dan Koe: articles are answers while essays are arguments; articles package existing knowledge while essays change the author's beliefs; AI cannot write an essay. _(2026-04-23)_
 - `INS-260423-AEAD` Dan Koe: Substack is the most slept-on social media right now — you own your audience as a list of subscribers, it's email first, and the notes feed has people who appreciate deep and genuine thinking. _(2026-04-23)_
 - `INS-260423-AB6B` Dan Koe: write to discover, not to perform — an essay begins with uncertainty and an open mind; most social media engagement comes from packaging, which is a separate skill. _(2026-04-23)_
+- `INS-260423-70CF` Michael: when companies come to me scared about a competitor's funding, my first question is always 'have you used the product?' _(2026-04-23)_
 - `INS-260423-787D` Jason Lemkin: right now most of the deals you look at have low barriers to entry — if you stumble, you lose. If there's five of you going out of the gates, one won't stumble and they'll win. _(2026-04-23)_
 - `INS-260423-5998` Michael Seibel: the Facebook platform slop wars — no one competing with Zynga won; Facebook won. _(2026-04-23)_
-- `INS-260423-79B7` Seth Godin: authenticity is a crock — if your surgeon is authentically in a bad mood, you don't want them to do a lousy job on your knee implant. _(2026-04-23)_
 - `INS-260423-E905` Chamath on Groq: We didn't have product-market fit for seven years. Replit had years of nothingness before the hockey stick. _(2026-04-23)_
 - `INS-260423-9F96` Chamath: in the pre-PMF years you have to find different ways of feeling rewarded that are not revenue or valuation — usually technical progress. _(2026-04-23)_
+- `INS-260423-79B7` Seth Godin: authenticity is a crock — if your surgeon is authentically in a bad mood, you don't want them to do a lousy job on your knee implant. _(2026-04-23)_
 - `INS-260423-6FB5` Dalton: whenever I worked on retention, I had to start with 'am I helping the user?'; whenever I worked on topline growth, I was serving myself. _(2026-04-23)_
 - `INS-260423-20ED` Seth Godin: when you pick your customers, you pick your future — average people chose to be average, and they won't buy your book or your software. _(2026-04-23)_
 - `INS-260423-9D71` Greg Isenberg: if you can figure out how to do all these jobs-to-be-done and be one person instead of ten, there is a case to be made that you've added a tremendous amount of value to your role — triple my salary easily. _(2026-04-23)_
 - `INS-260423-595B` Seth Godin: Volkswagen's decision to write code defeating European emissions tests was a marketing move — but the marketing department probably wasn't in the room. _(2026-04-23)_
 - `INS-260423-3459` Chamath: the best way to be great is to be incredible at what you're building — the org will build itself around your capability. _(2026-04-23)_
 - `INS-260423-EFC0` Chamath: org charts are a vestige of enterprise software sold to somebody — they celebrate the politician, not the technical genius. _(2026-04-23)_
+- `INS-260423-BFDE` Aaron Levie: all software has a database behind it — but there's a lot of business logic in the layer above; ERP is way more than a database because of supply chain automation and accounting logic that none of that goes away. _(2026-04-23)_
 - `INS-260423-2134` Michael: it's bad, but just let me add 10 more features — that's the feature treadmill, and AI tools make it easier than ever to do. _(2026-04-23)_
 - `INS-260423-FB36` Dalton: if you find yourself looking at the graphs that other people don't want to look at, that's how you win the slop war. _(2026-04-23)_
 - `INS-260423-B01D` Dalton and Michael: slop is where you're actively self-deceiving that your thing is good when you kind of know it's not that good. _(2026-04-23)_

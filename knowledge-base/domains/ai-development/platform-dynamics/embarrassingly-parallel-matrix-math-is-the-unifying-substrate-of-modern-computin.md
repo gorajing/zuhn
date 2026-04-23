@@ -64,7 +64,6 @@ stance: >-
   them.
 related:
   - INS-260323-6230
-  - INS-260324-27E2
   - INS-260324-9E37
   - INS-260403-90FF
   - INS-260409-A8A3

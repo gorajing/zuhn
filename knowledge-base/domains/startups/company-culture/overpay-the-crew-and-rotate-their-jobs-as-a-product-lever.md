@@ -60,7 +60,7 @@ related:
   - INS-260327-77FA
   - INS-260412-EB2D
   - INS-260409-D491
-  - PRI-260407-C8FE
+  - INS-260423-FF53
 ---
 Traditional grocery treats labor as a cost to minimize: specialize the roles, pay the market-clearing rate, let CPG vendors stock the shelves. Trader Joe's treats labor as the product. By paying dramatically above market, they attract talent that wouldn't normally consider retail and retain it long enough to develop genuine product knowledge. By rotating every employee through every job (cashier, stocker, receiver, sampler), they build crew members who can evangelize any item on any aisle — which is the operational precondition for the 'wine merchant' positioning.
 

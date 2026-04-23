@@ -1,6 +1,5 @@
 # Tag: insulin-resistance
 
-- `INS-260326-CA66` Insulin resistance manifests as heart disease, diabetes, obesity, and dementia -- just as a misidentified business model manifests as churn, pricing problems, and sales failures.
 - `INS-260327-1DAB` Chronic stress and cortisol management is as important as diet for health outcomes
 - `INS-260409-E490` Insulin resistance increases 5-alpha reductase activity and free testosterone availability, making metabolic repair a prerequisite for durable hair regrowth.
 - `INS-260327-9E9D` 93 percent of Americans are metabolically unhealthy making metabolic dysfunction the root of most chronic disease
@@ -16,3 +15,4 @@
 - `INS-260327-FC60` Refined sugar causes insulin resistance through gut dysbiosis and endotoxin-driven inflammation, not blood glucose spikes -- while whole fruits containing the same sugars with bioactive compounds do not cause dysbiosis.
 - `INS-260327-FF4A` Linoleic acid from seed oils accumulates in mitochondrial membranes, causing proton leak across the electron transport chain and reducing ATP production -- the molecular root of metabolic dysfunction.
 - `INS-260327-C9DA` Human interventional studies confirm whole fruit does not cause insulin resistance; its hundreds of bioactive compounds prevent the gut dysbiosis that isolated fructose triggers.
+- `INS-260326-CA66` Insulin resistance manifests as heart disease, diabetes, obesity, and dementia -- just as a misidentified business model manifests as churn, pricing problems, and sales failures.

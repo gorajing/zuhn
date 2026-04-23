@@ -3,10 +3,10 @@
 - `INS-260323-87F3` Using AI to rewrite emotional messages or generate personal speeches eliminates the meaningful human struggle from communication.
 - `INS-260403-955F` Meaning emerges from friction, obligation, and inconvenience — optimizing these away optimizes away purpose itself.
 - `INS-260409-DBCF` The 'what story will remain?' frame is a cleaner decision filter than 'what do I want?' because terminal state is harder to fool.
+- `INS-260409-2093` Hassabis worries most about post-AGI philosophy — meaning, purpose, consciousness, what it is to be human — and says we lack modern philosophers equipped for it.
 - `INS-260327-1AD8` People who have genuinely confronted the possibility that existence is meaningless often develop a stronger commitment to living than those who never questioned it.
 - `INS-260330-2294` The Library of Babel contains every possible 3200-character text — including your birth, death, and every joke — yet we intuitively feel none of it has been 'said' until a person means it.
 - `INS-260330-5828` External sources of transcendence (substances, outrage, consumption) create escalating tolerance, while internally generated sublime experiences are permanently transformative.
-- `INS-260409-2093` Hassabis worries most about post-AGI philosophy — meaning, purpose, consciousness, what it is to be human — and says we lack modern philosophers equipped for it.
 - `INS-260323-DA91` Camus's Sisyphus finds happiness not by winning but by embracing the insurmountable task with full commitment — meaning comes from service and duty, not from outcomes.
 - `INS-260423-2529` Dan Koe: meaning isn't something you find in the world — it's a state of consciousness that emerges when attention is ordered toward something complex enough to fully engage you.
 - `INS-260325-13B9` We suffer doubly from problems — once from the problem itself and once from the false belief that we shouldn't have problems at all.

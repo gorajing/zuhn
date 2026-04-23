@@ -41,6 +41,7 @@ related:
   - INS-260404-57B8
   - INS-260404-688B
   - INS-260322-F46F
+  - INS-260423-BFDE
   - INS-260403-9E6A
 stance: >-
   Fuelfinance is building an MCP integration that lets Claude talk directly to

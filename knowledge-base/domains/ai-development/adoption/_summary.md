@@ -1,6 +1,6 @@
 # Topic: adoption
 
-> 51 insights
+> 53 insights
 
 - `INS-260409-8DDA` [high] Despite massive latent AI value, ~95% of enterprise AI pilots fail because organizations don't know how to operationalize the technology — throwing AI 'over a wall' doesn't work.
 - `INS-260403-A9CC` [high] Companies fail at AI adoption because they issue vague 'be AI-first' mandates without concrete tactics for daily workflows.
@@ -21,7 +21,9 @@
 - `INS-260410-797C` [high] Slow enterprise AI adoption is revealing capability shortfalls, not normal technology-diffusion lag.
 - `INS-260404-3714` [high] Early AI adoption creates compounding advantages that late movers struggle to close.
 - `INS-260403-1106` [high] ICONIQ's State of AI report shows enterprises are blocked on AI adoption by security and compliance issues, not by capability limitations.
+- `INS-260423-EDF7` [high] Aaron Levie: I already saw one diffusion cycle with cloud and how long it took — 20 years later it got way bigger than we ever realized; if it works, the market's always larger than you ever think.
 - `INS-260322-7B61` [high] Just as the internet ad industry needed companies like DoubleClick, Comscore, and Omniture before Google/Facebook could scale revenue, enterprise AI needs measurement infrastructure before the $700B spend can be justified.
+- `INS-260423-8504` [high] Aaron Levie: if you wanted an agent to find upcoming contract renewal risk, that agent might find 10 different systems containing contracts — half legacy technologies that don't work well with agents, on network file shares and legacy document management systems.
 - `INS-260322-A36C` [high] When a measure becomes a target, it stops being accurate — AI productivity must be measured through passive behavioral data (who actually uses the tools) married with outcomes, not self-reported surveys.
 - `INS-260410-953E` [high] MCP servers remained inaccessible not because they lacked power, but because installation required Node.js, manual JSON config editing, and dependency resolution.
 - `INS-260322-3083` [high] Stop analyzing AI and start using it this weekend -- vibe coding, agent mode reports, and conversational problem-solving.

@@ -1,6 +1,6 @@
 # Topic: ai-market-dynamics
 
-> 163 insights
+> 165 insights
 
 - `INS-260321-86F1` [high] China is stealing American AI models, removing all guardrails, and potentially deploying them against the US — creating an absurd scenario where America fights with one arm tied behind its back against its own technology.
 - `INS-260327-5690` [high] Traditional SaaS sells productivity enhancement to workers; vertical AI agents sell the work itself, accessing the entire cost of labor as TAM rather than just the software budget.
@@ -121,6 +121,7 @@
 - `INS-260403-2183` [medium] Top AI leaders have shifted repeatedly in just 2.5 years, proving that execution speed matters more than any single breakthrough.
 - `INS-260404-CC8B` [medium] Musk's orbital compute thesis rests on the claim that electricity and cooling requirements are becoming the binding constraint on AI progress, not algorithms.
 - `INS-260323-0B52` [medium] The hidden multiplier in AI building: have AI document everything it does so every project creates a reusable blueprint for the next one.
+- `INS-260423-F124` [medium] Aaron Levie on services: 100 percent — these spaces are going to be bigger and more sustainable than people realize, because we're nowhere near eliminating the human from the workflow.
 - `INS-260403-042B` [medium] AI democratizes equity research by making public data analysis match institutional quality when properly orchestrated.
 - `INS-260403-C1EB` [medium] AI agents dissolve switching costs by automating migrations, making data and trust the last real moats.
 - `INS-260327-1D37` [medium] Dario predicts models matching Nobel Prize-level intelligence in 2-4 years, eventually doing all remote work, and argues the critical policy challenge is managing this transition before it randomly divides humanity into 'useful' and 'useless' categories.
@@ -136,6 +137,7 @@
 - `INS-260327-CFDC` [medium] Robots performing economically useful tasks in the real world will produce training data as a byproduct, creating a data flywheel unavailable from internet scraping.
 - `INS-260322-D0F6` [medium] For the first time, a genuine threat exists to systems of record — not through better UI (which failed in SaaS 2.0) but because AI agents collapse the distance between user intent and execution.
 - `INS-260409-04C8` [medium] Foundation labs focus on autonomous reasoning models and Deep Research workflows (AI thinks for you) rather than tool-for-thought interfaces (AI helps you think better) because automating cognitive work is a larger addressable market than augmenting it.
+- `INS-260423-E12B` [medium] Aaron Levie: tech is only 8-12-15 percent of GDP; what happens when 85 percent of the economy gets access to engineering like tech has always had? CS grads go to John Deere, Caterpillar, or Eli Lilly, not Google.
 - `INS-260330-AB67` [medium] Agents paying for ephemeral API access per-task will create a new category of businesses built entirely for agent consumption.
 - `INS-260404-C5B7` [medium] The Fed's January 2026 minutes explicitly cite AI as driving investment strength while simultaneously creating hiring uncertainty and financial concentration risk.
 - `INS-260403-504D` [medium] Being the only AI vendor integrated into classified systems creates leverage so strong that the government prefers coercion over switching.

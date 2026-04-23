@@ -185,6 +185,7 @@ Generated on 2026-04-23 | 2530 sources
 | 2025 Year In Review | youtube | 8 | 2026-03-29 |
 | A $350,000 AI AD Using Only 1 Tool (2026) | youtube | 8 | 2026-04-09 |
 | A Day In My Life for Longevity (Live to 120+) | youtube | 8 | 2026-03-26 |
+| Are SaaS Companies Cooked: Which Thrive & Which Die | Aaron Levie | youtube | 8 | 2026-04-23 |
 | Ben Shapiro vs Destiny Debate: Politics, Jan 6, Israel, Ukraine & Wokeism | Lex Fridman Podcast #410 | youtube | 8 | 2026-03-30 |
 | Claude Code & MCPs built my $145K marketing machine | youtube | 8 | 2026-04-23 |
 | DNA Structure and Replication: Crash Course Biology #10 | youtube | 8 | 2026-03-30 |
@@ -2477,7 +2478,6 @@ Generated on 2026-04-23 | 2530 sources
 | Adam Marblestone – AI is missing something fundamental about the brain | youtube | 0 | 2026-04-23 |
 | 뇌과학자가 말하는 AI 시대에도 끝까지 살아남는 5가지 능력 ㅣ 김대식 교수님의 고전 책 5권 추천 ㅣ도서리뷰 | youtube | 0 | 2026-04-23 |
 | AI Is Unlocking Millions Of New Builders | youtube | 0 | 2026-04-23 |
-| Are SaaS Companies Cooked: Which Thrive & Which Die | Aaron Levie | youtube | 0 | 2026-04-23 |
 | Ben Horowitz on AI Anxiety, Big Tech Transitions & The Future of Startups | a16z | youtube | 0 | 2026-04-23 |
 | Ben Horowitz On What Makes a Great Founder | youtube | 0 | 2026-04-23 |
 | BillionToOne Is Solving One of Biotech’s Hardest Problems | youtube | 0 | 2026-04-23 |

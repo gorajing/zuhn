@@ -53,7 +53,7 @@ related:
   - INS-260409-7C48
   - INS-260409-D0B6
   - INS-260327-A653
+  - INS-260423-BFDE
   - INS-260409-AB8D
-  - INS-260409-96B0
 ---
 Appleton makes this specific technical claim: 'Most of the software needs of local communities could be solved with simple CRUD apps persisting data over time, with some basic user authentication, and a few API calls.' Barefoot developer software doesn't need to scale to millions of people, juggle conflicting user needs, pivot business plans, or ship lots of features very fast to make a high return for venture capitalists. The reason most current software feels over-engineered to individual users is that it was built for constraints they don't share. A newborn breastfeeding tracker for one family does not need rate limiting, caching layers, or horizontal scaling. A personal finance reconciler for one person does not need multi-tenant architecture. The simplicity of the actual use case is what makes home-cooked software tractable for barefoot developers in the first place — the complexity of industrial software is mostly there to serve scale and commerce, not the underlying problem.

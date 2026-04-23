@@ -64,7 +64,7 @@ related:
   - INS-260403-5D1F
   - PRI-260406-940C
   - INS-260327-ACB3
-  - PRI-260406-0EC6
+  - INS-260423-E12B
 ---
 Kotkin argues modernization is not a sociological process that just happens — it's a geopolitical process driven by ruthless competition between states. To have a modern military you need steel, chemicals, engineers, and workers. But those same workers organize unions, and those same engineers develop political ideas about separation of powers and property rights. The tsarist regime was the quintessential example: it had to modernize to compete, then had to repress the very people (workers, intellectuals) it needed 'like oxygen' to do the modernizing.
 

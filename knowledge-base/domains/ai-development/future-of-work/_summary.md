@@ -1,6 +1,6 @@
 # Topic: future-of-work
 
-> 109 insights
+> 111 insights
 
 - `INS-260320-A745` [very_high] Anthropic's own studies show AI deskilling in coding is real, but depends on HOW you use models — some usage patterns cause skill degradation, some don't.
 - `INS-260321-9824` [very_high] Tao's papers now have more code, more plots, deeper literature searches — but the core mathematical work (pen and paper for the hardest part) hasn't been accelerated. AI enriches output without deepening it.
@@ -21,6 +21,7 @@
 - `INS-260409-53F7` [high] AI is both genuinely automating some jobs and serving as convenient executive cover for layoffs, and the new jobs it creates barbell between high-skill orchestration and dehumanizing data annotation.
 - `INS-260413-CAA6` [high] New AI PhDs in US/Canada +22% from 2022-2024 but industry's share of new PhDs stayed flat — all the growth went to academia, reversing a decade-long trend and disproving the 'brain drain' narrative.
 - `INS-260403-F0EE` [high] Individual AI productivity gains are real but haven't conclusively appeared in aggregate statistics yet, making macro claims premature.
+- `INS-260423-3AC1` [high] Aaron Levie: we haven't removed humans from the loop — we've just changed where they enter the loop.
 - `INS-260321-4178` [high] AI doesn't just automate procedures — it automates judgment calls. The person who deeply understands insurance underwriting and can talk an AI into building a tool is now more dangerous than the engineer who can build anything but doesn't know what to build.
 - `INS-260325-DA83` [high] Harvard/MIT research at BCG shows top performers got much better with AI while lower performers got worse — the 'selective upgrade puzzle.'
 - `INS-260327-4F3D` [high] True career fulfillment requires firing on all four Ikigai cylinders simultaneously: passion (what you love), prowess (what you're good at), purpose (what the world needs), and profit (what sustains you).
@@ -105,6 +106,7 @@
 - `INS-260405-0E77` [medium] AI collapses the historical separation between software budgets and labor budgets by doing the whole job, not just tooling it.
 - `INS-260403-7D1D` [medium] Software engineering's vulnerability to AI reveals it was always more routine cognitive work than the creative profession engineers believed it to be.
 - `INS-260405-B204` [medium] Slow job growth plus fast productivity growth looks like automation displacement, but may actually reflect a capital investment cycle.
+- `INS-260423-FF53` [medium] Aaron Levie: there is 100% a role that 500,000 to a million jobs will be created for — agent operators who know MCPs, CLIs, skills, agents.md files, and how to redesign workflows for agents not people.
 - `INS-260403-6691` [medium] The pandemic proved many coordination-heavy roles only existed because of physical office culture, not because they produced real output.
 - `INS-260409-9EE8` [medium] Past tech waves rewarded better swimmers — AI turns the water to gas, and even the best swimmer can't flap their way through air.
 - `INS-260409-A180` [medium] Hassabis softly rejects Marc Andreessen's 'history always repeats' view — AGI at 10x Industrial Revolution speed may exceed the economy's capacity to create replacement jobs.

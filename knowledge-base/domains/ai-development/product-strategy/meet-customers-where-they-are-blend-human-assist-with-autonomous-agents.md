@@ -57,6 +57,7 @@ related:
   - PRI-260328-F723
   - INS-260327-C1A4
   - PRI-260405-AF79
+  - INS-260423-F124
 ---
 Cresta's CEO makes a pragmatic observation: despite AI capabilities, none of the Fortune 500 will eliminate human contact center agents in the next five years. The market predicted full automation when GPT-4 launched, and it hasn't materialized. Cresta's playbook is to meet customers where they are: some want AI that helps human agents be better (real-time suggestions, summarization), some want partial automation of low-emotion interactions, and only a few are ready for fully autonomous agents.
 

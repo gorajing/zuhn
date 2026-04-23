@@ -1,9 +1,5 @@
 # Tag: sleep
 
-- `INS-260323-CA1F` In deep sleep, experience ceases — no space, no time, no self — yet something knows that nothing happened, suggesting awareness persists even at the lowest layer.
-- `INS-260330-0982` Sleeping on a stuck problem reliably produces solutions that extended conscious grinding cannot.
-- `INS-260330-FA9D` When stuck debugging, sleep on it—your brain continues processing unconsciously and often solves it by morning.
-- `INS-260326-16A8` Sleep deprivation doesn't just make you tired -- it degrades immune function, insulin sensitivity, emotional regulation, and cognitive performance simultaneously, just as attention depletion collapses decision quality across every life domain.
 - `INS-260327-DF1D` Creatine monohydrate at 5g/day builds muscle, 10g/day supports bone density, and 15-20g/day crosses the blood-brain barrier for cognitive and sleep benefits.
 - `INS-260327-4FFA` Five changes raised testosterone from 500 to 857 at age 48: adding fruit/honey carbs, optimizing sleep, removing endocrine disruptors, eating organ meats, and managing stress/cortisol.
 - `INS-260327-B987` Grounding mats that connect to earth's electromagnetic field may be the most effective non-pharmaceutical sleep relaxation tool, based on reported subjective effects and emerging research.
@@ -20,3 +16,7 @@
 - `INS-260325-4601` Growth hormone releases during early deep sleep — seven common nighttime habits suppress it and accelerate aging.
 - `INS-260327-1AEC` The most common health questions center on seed oils, testosterone, sleep, and supplement confusion
 - `INS-260325-EDC8` Waking at 2-3AM is a cortisol spike from dropping blood sugar — eating more fat at dinner prevents it.
+- `INS-260330-0982` Sleeping on a stuck problem reliably produces solutions that extended conscious grinding cannot.
+- `INS-260330-FA9D` When stuck debugging, sleep on it—your brain continues processing unconsciously and often solves it by morning.
+- `INS-260323-CA1F` In deep sleep, experience ceases — no space, no time, no self — yet something knows that nothing happened, suggesting awareness persists even at the lowest layer.
+- `INS-260326-16A8` Sleep deprivation doesn't just make you tired -- it degrades immune function, insulin sensitivity, emotional regulation, and cognitive performance simultaneously, just as attention depletion collapses decision quality across every life domain.

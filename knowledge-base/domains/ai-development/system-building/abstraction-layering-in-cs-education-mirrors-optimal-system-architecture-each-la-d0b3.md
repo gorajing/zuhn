@@ -50,12 +50,12 @@ stance: >-
   The most effective teaching progression for complex systems follows the same
   abstraction hierarchy that makes those systems buildable in the first place
 related:
-  - INS-260329-70F2
   - PRI-260403-ABDE
   - INS-260403-30BF
   - INS-260330-70A8
   - INS-260329-A461
-  - INS-260327-85E2
+  - INS-260423-BFDE
+  - INS-260329-70F2
 evidence:
   - id: INS-260330-70A8
     type: SUPPORTS

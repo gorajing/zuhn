@@ -52,11 +52,11 @@ stance: >-
   changes too fast for 12-month allocation.
 related:
   - INS-260320-2058
+  - INS-260423-5F2F
   - INS-260404-488A
   - PRI-260406-C40C
   - INS-260330-7220
   - PRI-260406-04DB
-  - PRI-260406-EE38
   - INS-260403-F0BF
   - INS-260403-B2ED
   - INS-260410-320D
