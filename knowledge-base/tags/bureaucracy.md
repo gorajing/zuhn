@@ -7,6 +7,8 @@
 - `INS-260328-7241` Bad process is like a cancer — a machine that only wants more power and more people, until you have a thousand process people and one guy making bolts.
 - `INS-260403-7749` SF cut housing permit approval from 605 days to 280 days average — with new applications averaging 114 days — signaling that bureaucratic speed reform has outsized economic impact.
 - `INS-260403-23AA` Long approval processes for AI tools don't prevent usage — they push employees to unapproved personal accounts, creating more risk than fast-tracking would.
+- `INS-260423-3459` Chamath: the best way to be great is to be incredible at what you're building — the org will build itself around your capability.
+- `INS-260423-EFC0` Chamath: org charts are a vestige of enterprise software sold to somebody — they celebrate the politician, not the technical genius.
 - `INS-260412-7763` Small hardware companies can iterate designs and swap components faster than large incumbents slowed by bureaucracy.
 - `INS-260403-7F89` The bottleneck to customer understanding is internal process friction, not lack of resources.
 - `INS-260327-390A` Bill Anderson argues that bureaucracy isn't a disease you treat — it's produced by the composition of the organization itself, specifically layers, functional silos, and annual budgets.

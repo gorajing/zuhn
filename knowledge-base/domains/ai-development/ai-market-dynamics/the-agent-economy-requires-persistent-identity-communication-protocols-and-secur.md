@@ -53,7 +53,6 @@ stance: >-
   communication protocols, and agent security.
 related:
   - INS-260325-BC2A
-  - INS-260325-F981
   - PRI-260328-8317
   - INS-260327-76B2
   - INS-260405-5222
@@ -62,6 +61,7 @@ related:
   - INS-260403-834C
   - INS-260404-9E11
   - INS-260409-42F2
+  - INS-260409-8408
 evidence:
   - id: INS-260321-4E98
     type: SUPPORTS

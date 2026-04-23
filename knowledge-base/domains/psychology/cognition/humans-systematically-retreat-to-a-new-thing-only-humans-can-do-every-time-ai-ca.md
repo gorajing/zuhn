@@ -50,5 +50,6 @@ related:
   - INS-260330-18F3
   - INS-260330-C418
   - INS-260327-B37E
+  - INS-260423-770B
 ---
 In the conversation, Cleo Abram catches herself doing exactly what humans have done throughout history: 'I am trying to find the reason why we are special. We have to be at the center of the universe — oh wait, we're not. We have to be the ones that are emotionally attuned — oh wait, elephants have funerals. We must be the ones that can be creative and create art — oh wait, Gemini can do that.' She names it as an instinct in the moment. The pattern is recognizable enough that recognizing it should make any specific 'humans are uniquely X' claim suspect on priors. This applies to every claim of human uniqueness made in the AI era.

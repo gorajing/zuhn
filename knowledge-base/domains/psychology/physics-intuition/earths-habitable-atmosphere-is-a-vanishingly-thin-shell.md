@@ -48,7 +48,6 @@ stance: >-
   is both terrifying and reassuring.
 related:
   - INS-260409-A0D7
-  - INS-260409-0A28
   - INS-260409-C25D
   - INS-260325-1709
   - INS-260412-26A4

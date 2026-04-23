@@ -53,10 +53,10 @@ stance: >-
   innovation.
 related:
   - INS-260327-F405
+  - INS-260423-6FB5
   - INS-260402-C301
   - INS-260330-059C
   - INS-260403-F8AE
-  - INS-260410-BCA3
   - INS-260403-7F06
 evidence:
   - id: INS-260402-0E46

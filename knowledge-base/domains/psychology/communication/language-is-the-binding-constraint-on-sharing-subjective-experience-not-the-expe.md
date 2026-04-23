@@ -53,10 +53,10 @@ stance: >-
   systems could theoretically close the explanatory gap.
 related:
   - INS-260323-3F30
+  - INS-260423-770B
   - INS-260405-3772
   - INS-260323-085A
   - PRI-260406-1EF3
-  - PRI-260407-1D23
 evidence:
   - id: INS-260323-3F30
     type: CHALLENGES

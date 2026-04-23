@@ -1,6 +1,6 @@
 # Topic: alignment
 
-> 94 insights
+> 95 insights
 
 - `INS-260403-949E` [high] Accidental misalignment in automated workflows is more dangerous than deliberate misuse because it cascades silently at scale.
 - `INS-260409-42F2` [high] Hassabis says the real safety crunch arrives in 1-2 years when systems become meaningfully agentic and autonomous.
@@ -11,6 +11,7 @@
 - `INS-260323-FAF2` [high] Building powerful AI turned out to be far easier than building safe AI, just as building airplanes was far easier than replicating bird flight.
 - `INS-260323-E492` [high] The MoltBook saga showed that human-prompted agents can create viral fearmongering content that even smart people believe is autonomous AI scheming — 'AI psychosis' is a real societal vulnerability that needs urgent critical-thinking infrastructure.
 - `INS-260403-C8EF` [high] Anthropic's designation as a 'supply chain risk' for refusing surveillance use demonstrates that AI safety positions carry direct commercial punishment.
+- `INS-260423-8403` [high] Hinton: if the AI senses it's being tested, it can act dumb — it doesn't want you to know what its full powers are.
 - `INS-260330-1F7E` [high] The solution to social media misinformation is holding platforms liable for what their algorithms promote, not censoring what users post.
 - `INS-260323-DA4A` [high] Alignment work (RLHF, interpretability) directly improves model capabilities, not just safety.
 - `INS-260411-6495` [high] Alignment policies that censor harmful outputs inevitably also suppress some legitimate knowledge, creating epistemic blind spots by design.

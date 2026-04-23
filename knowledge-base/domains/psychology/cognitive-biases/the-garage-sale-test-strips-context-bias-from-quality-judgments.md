@@ -44,11 +44,11 @@ stance: >-
   Mentally removing presentation, provenance, and institutional framing from a
   work reveals your true assessment of its intrinsic quality.
 related:
+  - INS-260423-B01D
   - INS-260329-BBF9
   - INS-260329-5B3D
   - INS-260404-C99B
   - INS-260409-FCF1
-  - INS-260403-B462
 ---
 Graham's 'garage sale test' — imagining a museum painting found frameless, dirty, and unsigned — is a practical debiasing technique for separating intrinsic quality from contextual prestige. When you walk through a museum applying this filter, the results are startling: works you thought you admired turn out to be carried entirely by their framing.
 

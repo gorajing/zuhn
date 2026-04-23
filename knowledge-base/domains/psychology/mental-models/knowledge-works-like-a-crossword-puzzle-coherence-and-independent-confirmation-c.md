@@ -53,7 +53,6 @@ stance: >-
   pure foundationalism or coherentism because it requires both independent
   evidence and mutual consistency among beliefs.
 related:
-  - INS-260329-5F96
   - INS-260330-901B
   - PRI-260403-CCBC
   - INS-260330-9BB7

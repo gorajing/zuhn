@@ -51,5 +51,6 @@ related:
   - INS-260403-5301
   - INS-260403-4572
   - INS-260403-0373
+  - INS-260423-E905
 ---
 The most common path to business model death is building around features rather than customer needs. Even when teams target the right customer jobs, they fail if their products don't sufficiently alleviate pains or create substantial gains. The fix is methodological: before any feature discussion, map which jobs customers are trying to get done, rank pains by severity, and identify which gains matter most. Only then design products and services against that prioritized map. This is the jobs-to-be-done framework applied as a survival mechanism, not just a design tool.

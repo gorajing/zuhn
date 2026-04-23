@@ -1,6 +1,6 @@
 # Topic: group-dynamics
 
-> 125 insights
+> 126 insights
 
 - `INS-260330-2EB0` [high] The Pueblo Revolt shows that a shared existential threat can override deep tribal divisions — but the unity is temporary.
 - `INS-260403-D609` [high] Enforcers of orthodoxy compete with each other, creating a race to the bottom where any borderline idea gets banned.
@@ -84,6 +84,7 @@
 - `INS-260404-F212` [high] Surrounding yourself with people working on similarly ambitious projects provides encouragement you won't learn to discount.
 - `INS-260403-1228` [high] The right creative peers aren't cheerleaders but fellow practitioners who can accurately judge the potential of ugly early work.
 - `INS-260404-C29F` [high] Surrounding yourself with indiscriminate encouragers teaches you to discount praise — you need peers with calibrated judgment on early work.
+- `INS-260423-4402` [medium] Chamath: A-players are meaningless; there are teams that can perform at an A level. Iron sharpens iron.
 - `INS-260404-FDB2` [medium] Being an accidental moderate requires more courage than being an extremist because you face attacks from both sides with no group to sustain you.
 - `INS-260403-62E0` [medium] AI slop constructions are being stigmatized through the same sociolinguistic mechanism that stigmatizes human dialects — association with a perceived low-status group, not any inherent grammatical deficiency.
 - `INS-260403-B9F4` [medium] Group settings amplify emotional reactions at the expense of intellectual processing, making audiences inherently less thoughtful than individual readers.

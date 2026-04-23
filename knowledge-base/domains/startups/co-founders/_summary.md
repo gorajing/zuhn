@@ -1,6 +1,6 @@
 # Topic: co-founders
 
-> 42 insights
+> 43 insights
 
 - `INS-260325-9B73` [high] Esther Perel's framework from couples therapy identifies three root causes under every co-founder conflict: who has power, who feels cared for, and who gets recognized.
 - `INS-260326-D8B9` [high] No one ever says 'great person, wrong skills' when co-founders split — it's always 'brilliant person, impossible to work with.'
@@ -36,6 +36,7 @@
 - `INS-260325-F1BC` [high] Matt Jones's containment principle: uncontained conflict contaminates execution — schedule a specific time and space for processing disagreements instead of reacting immediately.
 - `INS-260330-3E6F` [high] Among YC's highest-valued companies, none had significantly unequal founder equity splits.
 - `INS-260330-E170` [high] When founders don't pay themselves, a fired co-founder can use unpaid wage claims as leverage to negotiate vesting acceleration they wouldn't otherwise deserve.
+- `INS-260423-64FA` [high] Chamath's stated rubric for early-stage deep-tech disputes: back the technical person without whom the product wouldn't exist.
 - `INS-260403-5365` [medium] Structured, data-driven equity splits based on measurable contributions outperform equal or gut-feel defaults.
 - `INS-260323-0B5E` [medium] Teams that default to 'more meetings and re-strategizing' instead of shipping are using planning as emotional avoidance of the market test they fear.
 - `INS-260403-49DF` [medium] The best partnerships combine complementary strengths within the same domain, not identical skills or different fields entirely.

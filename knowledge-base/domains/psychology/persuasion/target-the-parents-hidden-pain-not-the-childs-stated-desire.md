@@ -59,8 +59,8 @@ related:
   - INS-260403-393C
   - INS-260410-6ADD
   - INS-260403-A51A
+  - INS-260423-31A1
   - INS-260410-671A
-  - INS-260330-6418
 ---
 When Mars launched M&M's in America, the product's innovation (a hard candy shell over chocolate) was literally invisible to consumers. The brilliant move was the slogan: 'the milk chocolate that melts in your mouth, not in your hand.' This didn't sell the candy's taste or the kids' happiness — both were already assumed by the buyer. It targeted the hidden anxiety of the actual purchase decision-maker: parents who didn't want chocolate smeared across their furniture, walls, and clothing.
 

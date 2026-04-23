@@ -49,7 +49,6 @@ related:
   - INS-260327-E2F1
   - INS-260403-600C
   - PRI-260322-9E36
-  - INS-260403-76E9
 stance: >-
   The US has wanted to pivot to Asia since the 2000s but keeps getting stuck in
   the Middle East

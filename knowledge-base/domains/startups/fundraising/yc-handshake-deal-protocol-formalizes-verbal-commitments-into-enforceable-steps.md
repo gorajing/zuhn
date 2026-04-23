@@ -47,7 +47,6 @@ stance: >-
   more effectively than relying on reputation and trust alone
 related:
   - INS-260327-D9D6
-  - INS-260327-C4AD
   - INS-260329-57B3
   - INS-260330-CA88
   - INS-260405-B59F

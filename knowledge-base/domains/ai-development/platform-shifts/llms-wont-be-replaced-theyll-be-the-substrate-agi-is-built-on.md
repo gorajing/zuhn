@@ -50,7 +50,7 @@ related:
   - INS-260330-3570
   - INS-260412-6FB6
   - INS-260410-0E77
+  - INS-260423-3F3B
   - INS-260325-95EB
-  - INS-260327-FA43
 ---
 Hassabis puts 50/50 odds there are breakthroughs still missing (perhaps around world models), but 'strongly' bets LLMs won't be replaced. The question isn't 'will something supplant LLMs?' but rather 'is the LLM foundation model the key component only, or is it the total system?' This contradicts LeCun's view that LLMs are a dead end. Strategic implication: if you're building products on foundation models, Hassabis's framing says you're not building on sand — the architecture extends rather than gets replaced. If LeCun is right, your stack could be obsolete in 3 years. Hassabis's bet is that the sunk investment in LLM scale carries forward into whatever AGI looks like.

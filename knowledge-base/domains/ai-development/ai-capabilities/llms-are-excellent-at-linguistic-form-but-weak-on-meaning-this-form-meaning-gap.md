@@ -57,6 +57,7 @@ related:
   - INS-260329-ACE6
   - INS-260330-2666
   - INS-260403-617C
+  - INS-260423-C506
 stance: >-
   A leading psycholinguist confirms that LLMs have mastered the form (syntax,
   grammar, patterns) of language but not its meaning

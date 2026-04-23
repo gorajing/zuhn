@@ -53,10 +53,10 @@ related:
   - INS-260405-C1E4
   - INS-260404-9D14
   - INS-260403-2B09
-  - INS-260405-3061
   - INS-260325-EE14
   - INS-260330-5747
   - INS-260410-0B73
+  - INS-260413-E5F8
 ---
 After a year of explosive ARR growth, leading AI coding tools are experiencing traffic declines that expose a fundamental product challenge: converting initial excitement into habitual daily use. The 'vibe coding' wave brought massive trial adoption, but users who tried AI coding for novelty are churning when it doesn't reliably improve their actual workflow.
 

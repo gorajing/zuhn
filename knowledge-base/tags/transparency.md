@@ -2,8 +2,8 @@
 
 - `INS-260413-4EB1` The Foundation Model Transparency Index went 37→58 from 2023-2024 then dropped to 40 in 2025 — the first major regression in disclosure since the index began tracking.
 - `INS-260410-212B` The old safety playbook — hoard research so the responsible lab keeps its lead — assumed the lab would actually burn that lead on alignment; now that assumption looks naive.
-- `INS-260409-4CE8` Plain files beat opaque stores because you can see, edit, and trust what the system knows.
 - `INS-260412-583A` Blockchain's public ledger turns large crypto thefts into self-trapping events where stolen funds become nearly impossible to liquidate.
+- `INS-260409-4CE8` Plain files beat opaque stores because you can see, edit, and trust what the system knows.
 - `INS-260411-0B4F` Private credit at $1.8T has weaker covenants, aggressive assumptions, PIK interest, and no rigorous valuation marks, making losses in a downturn unpredictable.
 - `INS-260403-E332` Ubiquitous video plus independent analysis creates near real-time falsification of institutional narratives.
 - `INS-260405-966C` Public outcome data enables bias audits that institutions cannot suppress.

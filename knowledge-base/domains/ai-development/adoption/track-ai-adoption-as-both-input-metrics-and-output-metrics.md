@@ -52,6 +52,7 @@ related:
   - INS-260413-36B4
   - PRI-260323-2E5A
   - INS-260410-797C
+  - INS-260423-2B80
 ---
 The most successful companies track both sides: Ramp publishes the number of AI power users (5+ actions/week) by team as a leading indicator, while Zapier tracks downstream impact like 10 hours saved per sales rep per week. Intercom uses merged pull requests as a proxy metric, seeing a durable 20% year-over-year improvement from AI-assisted development.
 

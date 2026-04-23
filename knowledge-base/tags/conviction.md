@@ -8,6 +8,7 @@
 - `INS-260405-5514` Onfido's acquisition delivered a reported 320x return to its first backer, demonstrating that early conviction in infrastructure fintech compounds dramatically regardless of how the exit occurs.
 - `INS-260403-DFA2` Sequoia found that deals everyone mildly liked underperformed deals that triggered strong conviction even with disagreement, so they eliminated middle-score options.
 - `INS-260403-735E` Only one-third of an experienced angel's top performers were rated high-conviction at investment time.
+- `INS-260423-BD00` Chamath wrote an investment memo for Groq in 2015 and published it on X before writing the check; the memo concluded he had the boundary conditions to build something iconic.
 - `INS-260403-30A5` The best VC entry point is when most risk is resolved but most investors still hesitate.
 - `INS-260322-06EA` Every round of Facebook, Stripe, and similar companies was called 'insane' by consensus — Yuri Milner invested at $5B because he'd run a social network and could do math others couldn't.
 - `INS-260330-B1A3` Masa Son's explicit 50-year plan — build in 20s, accumulate in 30s, deploy in 40s, consolidate in 50s, hand off after 60 — gave him a framework to absorb $70B losses without changing course.

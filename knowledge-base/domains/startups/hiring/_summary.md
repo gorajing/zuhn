@@ -1,6 +1,6 @@
 # Topic: hiring
 
-> 68 insights
+> 69 insights
 
 - `INS-260330-4341` [high] The speed at which a skill can be taught is inversely correlated with its long-term career defensibility.
 - `INS-260330-1B37` [high] Airbnb spent 5 months hiring their first employee and only hired two people in year one because early hire quality is existential.
@@ -69,4 +69,5 @@
 - `INS-260405-C8BC` [medium] Costco pays double the retail average and gets triple the productivity — the premium pays for itself with room to spare.
 - `INS-260403-A8A3` [medium] Second-time founders stop wearing every hat early, hire for trajectory and ownership mindset, and design roles for the company's future shape.
 - `INS-260403-6935` [medium] Academic failures driven by project obsession are often better hires than straight-A students because obsession is a stronger signal of builder aptitude than compliance.
+- `INS-260423-9D71` [medium] Greg Isenberg: if you can figure out how to do all these jobs-to-be-done and be one person instead of ten, there is a case to be made that you've added a tremendous amount of value to your role — triple my salary easily.
 - `INS-260403-680C` [medium] Mike Dauber argues most VC firms hire associates wrong by treating them as disposable leverage instead of future partners, destroying their talent pipeline.

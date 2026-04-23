@@ -51,9 +51,9 @@ resolutions:
 related:
   - INS-260330-7AE9
   - PRI-260328-902C
+  - INS-260423-77DF
   - INS-260330-D61A
   - INS-260329-3848
-  - INS-260329-70D5
 stance: >-
   Nicky Ryan visualizes obsessively for weeks, Nicky Rod duplicates exact
   warm-up routines until competition feels like 'another Tuesday,' and Craig ...

@@ -1,6 +1,6 @@
 # Topic: organizational-design
 
-> 21 insights
+> 23 insights
 
 - `INS-260405-0271` [high] Innovation and execution are fundamentally different activities that require different investment mechanisms, success metrics, and decision frameworks.
 - `INS-260410-17AE` [high] Visa's 'reverse holding company' — a for-profit, non-stock membership corporation with non-transferable participation rights — made member banks structurally unable to sell, exit, or run competing networks.
@@ -23,4 +23,6 @@
 - `INS-260405-B406` [medium] If critical tensions aren't reaching leadership, the org structure is filtering them out.
 - `INS-260410-899C` [medium] Every early Walmart store was its own partnership, and the manager was a real dollar-invested equity partner — making the alignment immediate and scoped to their own performance.
 - `INS-260410-AFB9` [medium] Benchmark commissioned a custom round table where no sidebar conversation is possible because everyone hears everything — destroying the hierarchy a rectangular table embeds and the atomization a circular table creates.
+- `INS-260423-3459` [medium] Chamath: the best way to be great is to be incredible at what you're building — the org will build itself around your capability.
+- `INS-260423-EFC0` [medium] Chamath: org charts are a vestige of enterprise software sold to somebody — they celebrate the politician, not the technical genius.
 - `INS-260410-1384` [medium] Google+ failed as a product but succeeded as an organizational forcing function — Larry Page used it to unify a fragmented company under one identity and account system.

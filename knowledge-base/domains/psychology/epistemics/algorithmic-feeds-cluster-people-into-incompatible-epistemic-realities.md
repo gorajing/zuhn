@@ -52,11 +52,12 @@ stance: >-
 related:
   - INS-260330-2B33
   - INS-260402-5ACE
-  - INS-260404-8A8A
   - INS-260404-4758
   - INS-260323-9AA5
   - INS-260323-8966
   - PRI-260406-A33C
+  - INS-260404-8A8A
+  - INS-260423-FB36
 ---
 The polarization problem is commonly framed as people having different values or opinions. But algorithmic clustering runs deeper: when two people's feeds are sufficiently diverged, they are exposed to different sets of claimed facts, different framings of events, and different figures of authority. The result is not disagreement about conclusions but incompatible starting premises — which makes persuasion or common ground nearly impossible.
 

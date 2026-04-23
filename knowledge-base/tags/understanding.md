@@ -1,6 +1,7 @@
 # Tag: understanding
 
 - `INS-260320-76E7` Only automate what you deeply understand — automating ignorance creates slot machines, not efficiency.
+- `INS-260423-55B2` Hinton: I asked GPT-4 why a compost heap is like an atom bomb, and it explained both generate their outputs faster as they heat up — that requires understanding chain reaction structure, not just finding juxtaposed words.
 - `INS-260327-AEFA` Some mysteries aren't problems to solve but sources of wonder that analysis would destroy rather than enhance.
 - `INS-260330-B15C` Instead of seeking solutions to problems like anxiety, examine where the problem comes from — that examination IS the resolution.
 - `INS-260327-4C73` A person following rules to produce perfect Chinese responses without understanding Chinese suggests that behavior and understanding are separable - with direct implications for AI.

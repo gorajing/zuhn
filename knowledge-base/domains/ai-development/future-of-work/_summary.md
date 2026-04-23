@@ -1,6 +1,6 @@
 # Topic: future-of-work
 
-> 103 insights
+> 108 insights
 
 - `INS-260320-A745` [very_high] Anthropic's own studies show AI deskilling in coding is real, but depends on HOW you use models — some usage patterns cause skill degradation, some don't.
 - `INS-260321-9824` [very_high] Tao's papers now have more code, more plots, deeper literature searches — but the core mathematical work (pen and paper for the hardest part) hasn't been accelerated. AI enriches output without deepening it.
@@ -36,6 +36,8 @@
 - `INS-260403-B800` [high] Competitive advantage in the agent era comes from identifying which resources AI makes scarce, not which it makes abundant.
 - `INS-260410-2388` [high] The 'conservative' move of assuming AI progress will stop isn't neutral — you're claiming an established trend will break, which needs positive justification.
 - `INS-260329-3489` [high] Experts shift from spending 90% of time generating to spending most time on QA and validation of AI output.
+- `INS-260423-30C2` [high] Hinton: driving at night, taillights follow inverse square law — but driving in fog, light drops exponentially; a car 100 yards away is highly visible, a car at 200 yards is completely invisible. AI forecasting is fog, not night.
+- `INS-260423-00AC` [high] Cody Schneider: my job suddenly turns into — I have ideas, I pass them on to Claude Code, and then I'm polishing the end product.
 - `INS-260408-3691` [high] Hassabis to students: 'immerse myself in every tool available and become almost like superpowered' — the gap is creative application, not technical skill.
 - `INS-260410-045C` [high] Humans are valuable precisely because no one has to build a bespoke training loop to teach them each new lab-specific or company-specific skill.
 - `INS-260410-56B4` [high] If a problem lives in well-documented territory (bank conflicts, SIMD, common compiler tricks), a frontier model will likely outperform humans on it within hours.
@@ -46,6 +48,7 @@
 - `INS-260325-ADF5` [high] Open Router reports that sales and support staff are building agents that multiply their output, doing in hours what previously took days — the transformation is not engineers getting faster but non-engineers becoming builders.
 - `INS-260320-F78E` [high] Prompt engineering is like playing piano — you can't just sit down and start; it requires practice and iteration to develop the skill.
 - `INS-260413-BE3E` [high] Public vs expert forecasts for AI-driven job loss: cashiers 73% / 73% (agree), truck drivers 33% / 62%, lawyers 23% / 38% — public underestimates expert-identified risk, and overestimates teacher/doctor risk.
+- `INS-260423-44B4` [high] Cody: my friend texted me yesterday — 'I think I'm going to fire 50 people, that's like 70% of my team. I can automate all their jobs right now with agent swarms.'
 - `INS-260410-5AB5` [high] Job-representative interviews were always the gold standard, but once models can do the job in 2 hours, 'representative' and 'AI-resistant' become incompatible goals.
 - `INS-260403-5BCF` [high] Section 230 locked in rules before anyone understood social media's impact, leaving AI regulation as the chance to avoid repeating that mistake.
 - `INS-260321-988C` [high] A worker saving 20% of their time is 'soft savings' — employers rarely productively reallocate that 20% immediately. Individual task speedups don't automatically translate to enterprise-level value.
@@ -53,6 +56,8 @@
 - `INS-260321-28FB` [high] Galileo didn't invent the telescope — the future of AI will be determined by the people who wield it, not the labs that built it.
 - `INS-260403-5D1F` [high] Software engineers are transitioning from master craftsmen to factory operators who set up and maintain AI systems, mirroring the Industrial Revolution's displacement of artisans.
 - `INS-260410-9AF4` [high] AI's collective edge over human labor isn't intelligence — it's that you can copy a trained worker millions of times with all their skills and judgment intact.
+- `INS-260423-4CB1` [high] Seth Godin: are you going to upskill or be deskilled? Are you going to work for an AI — which is going to be unhappy — or is AI going to work for you?
+- `INS-260423-6DFB` [high] Hinton: when a tractor replaces physical labor, people go do intellectual things; but if you replace human intelligence, where are the people who work in a call center going to go?
 - `INS-260404-B81C` [high] Career planning requires hedging across multiple fields rather than betting on a single professional track.
 - `INS-260321-9A03` [high] Workers who see their employer as invested in them are more optimistic about AI. Building trust in AI may require building trust in the people deploying it, more than changing attitudes toward the technology.
 - `INS-260321-99C0` [high] Share every major decision with AI daily, then monthly ask 'what was my biggest mistake in the past 6 months?' — accumulated context makes AI an increasingly powerful strategic advisor.

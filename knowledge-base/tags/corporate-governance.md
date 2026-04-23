@@ -1,8 +1,8 @@
 # Tag: corporate-governance
 
-- `INS-260403-88F2` OpenAI's conversion to a for-profit PBC at $500B valuation, with nonprofit retaining control and a $25B commitment, establishes a new governance playbook for AI companies balancing mission with scale.
 - `INS-260412-29B6` Samsung's chaebol structure creates a pattern where every generation of leadership faces legal prosecution yet retains control because the company is deemed too important to the national economy.
 - `INS-260412-1038` The Lee family controls Samsung's 59 affiliates through cascading cross-ownership where each entity's operating profits buy controlling stakes in the next, amplifying control geometrically beyond actual capital invested.
+- `INS-260403-88F2` OpenAI's conversion to a for-profit PBC at $500B valuation, with nonprofit retaining control and a $25B commitment, establishes a new governance playbook for AI companies balancing mission with scale.
 - `INS-260412-E3B4` Theranos operated without a CFO for 10 years, enabling Sunny to present investor projections 10x higher than internal forecasts with no one to challenge them.
 - `INS-260412-8CD7` Bernie Ebbers borrowed $408M against WorldCom stock for personal purchases, creating an existential personal incentive to keep the stock price elevated regardless of business reality.
 - `INS-260327-7F73` When PE firms borrow billions to acquire companies, the debt goes on the acquired company's books - the PE firm collects fees regardless while employees bear the bankruptcy risk.

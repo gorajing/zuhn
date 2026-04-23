@@ -47,11 +47,11 @@ stance: >-
   investment decisions than elaborate multi-tab spreadsheets because they
   eliminate formula breakage and force shared assumptions.
 related:
+  - INS-260423-FB98
   - INS-260322-3083
   - INS-260330-4329
   - INS-260409-2A51
   - INS-260403-7795
-  - PRI-260406-CA93
 ---
 Traditional multi-tab financial models accumulate complexity that works against their purpose — formulas reference wrong cells, partners use different versions, and founders can't trace the assumptions. A single-tab return model that connects revenue, margins, raise sizes, valuation, and exit multiples forces both founders and investors to agree on the same inputs and see the same outputs.
 

@@ -20,10 +20,10 @@
 - `INS-260404-0427` A startup's .com domain matters more as a strength signal than as a way for users to find the company.
 - `INS-260412-923A` Bukele's transformation of a 7,000-person town — eliminating illiteracy, building infrastructure, near-zero homicides — became the proof point that propelled him to the presidency.
 - `INS-260409-9D44` MemPalace maintainers explicitly stated 'we'd rather be right than impressive' when admitting four launch overclaims — an intentional value choice against the default incentive to hype at launch and correct later.
+- `INS-260403-4D04` Digital content creates awareness, but traditional media like TV and books creates credibility that compounds over time.
 - `INS-260404-EF52` Deep institutional domain experience signals irreplaceable problem understanding that de-risks the venture for investors.
 - `INS-260403-7FF8` Investors reward founders who can articulate the mechanical relationship between their inputs and projected MRR over those who simply show large numbers.
 - `INS-260405-2AFB` Never say 'we're passionate' — investors tune out assertions and read posture, pacing, and directness instead.
-- `INS-260403-4D04` Digital content creates awareness, but traditional media like TV and books creates credibility that compounds over time.
 - `INS-260326-3C9C` Alexander's Opis speech worked because he could strip and show his scars -- shared suffering creates unchallengeable authority.
 - `INS-260403-93BB` Founder visibility isn't self-promotion — it's a leadership tool that enables team confidence, investor trust, and market legibility.
 - `INS-260410-9D9C` If you will need the person back within a year, the severance-plus-retraining math already tells you not to lay off — and performance ratings are too subjective to defend when you do.

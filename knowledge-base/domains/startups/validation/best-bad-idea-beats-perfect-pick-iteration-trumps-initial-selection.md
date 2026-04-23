@@ -47,7 +47,6 @@ stance: >-
   waiting for the perfect idea with zero customer context
 related:
   - INS-260322-5650
-  - INS-260327-6E33
   - INS-260327-A98E
   - PRI-260407-2E0F
   - INS-260403-AA8F

@@ -1,6 +1,6 @@
 # Topic: quality
 
-> 14 insights
+> 16 insights
 
 - `INS-260402-EF63` [high] Attempting exceptional work is a bargain because most people self-select out of the competition due to intimidation alone.
 - `INS-260403-4942` [high] Fifteenth-century Florentine artists produced extraordinary work partly because they believed extraordinary work was possible and competed fiercely to achieve it.
@@ -16,3 +16,5 @@
 - `INS-260412-1358` [high] When US automakers downsized cars after the 1970s oil crisis, cost-cutting degraded their quality — while Toyota's systematic Total Quality Control maintained standards at any scale.
 - `INS-260402-E994` [high] Unseen details accumulate into visible quality — great software, like great painting, requires fanatical devotion to parts no one is supposed to see.
 - `INS-260402-3A0D` [high] Simplicity forces you to face the real problem because you can't hide behind ornament.
+- `INS-260423-B01D` [high] Dalton and Michael: slop is where you're actively self-deceiving that your thing is good when you kind of know it's not that good.
+- `INS-260423-FB36` [medium] Dalton: if you find yourself looking at the graphs that other people don't want to look at, that's how you win the slop war.

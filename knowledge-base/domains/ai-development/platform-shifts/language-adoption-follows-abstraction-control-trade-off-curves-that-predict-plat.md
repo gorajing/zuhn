@@ -48,7 +48,6 @@ stance: >-
   the abstraction-vs-control curve, and new languages succeed by finding
   unexploited positions on that curve.
 related:
-  - INS-260329-34C0
   - PRI-260328-5F64
   - INS-260329-E839
   - INS-260322-5678

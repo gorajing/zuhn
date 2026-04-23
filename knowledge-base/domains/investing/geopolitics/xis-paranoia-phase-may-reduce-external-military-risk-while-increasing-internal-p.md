@@ -54,8 +54,8 @@ related:
   - INS-260412-A944
   - INS-260405-59AB
   - PRI-260321-0A4D
+  - INS-260423-31A1
   - INS-260330-9BC4
-  - INS-260323-8B22
 ---
 Smith draws a parallel between Xi Jinping at 72 and Stalin's terminal paranoia, arguing that aging autocrats who rose through patronage and backstabbing become increasingly focused on internal threats as they weaken. With no term limits and no successor, Xi may spend his remaining decade-plus in power fighting real or imagined internal challengers rather than launching external conflicts like a Taiwan invasion.
 

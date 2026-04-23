@@ -54,6 +54,7 @@ related:
   - INS-260405-A164
   - INS-260330-707D
   - INS-260403-9E6A
+  - INS-260423-81C4
   - INS-260403-0F72
 ---
 Most founders skip pricing research entirely, defaulting to gut feel or competitor mimicry. The Van Westendorp Price Sensitivity Meter offers a fast, lean alternative: ask potential customers four questions — at what price does it feel too cheap to be credible, when does it start feeling expensive, when is it too expensive to consider, and what price makes it a bargain. Charting the overlap reveals a data-backed pricing window. The method works surprisingly well even with small sample sizes, making it ideal for early-stage startups that can't run statistically significant A/B tests yet. Combine this with customer interviews where you present mock pricing tiers and watch for flinch points to triangulate your optimal price.

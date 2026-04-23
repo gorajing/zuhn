@@ -48,10 +48,10 @@ stance: >-
   attract technical talent more reliably than the reverse.
 related:
   - INS-260404-5882
+  - INS-260423-64FA
   - INS-260403-D966
   - INS-260323-1975
   - PRI-260405-D586
-  - INS-260404-D6F7
 ---
 The conventional advice to 'find a technical cofounder' often causes non-technical founders to treat it as a prerequisite rather than an optimization. The result is months lost waiting for a serendipitous match before building anything. The better frame is that validated traction — paying customers, clear problem definition, early revenue — is what attracts strong technical talent, not the other way around.
 

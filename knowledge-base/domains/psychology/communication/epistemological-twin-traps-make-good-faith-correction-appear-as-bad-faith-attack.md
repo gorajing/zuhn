@@ -56,9 +56,9 @@ stance: >-
 related:
   - INS-260404-AE27
   - INS-260404-F0A3
+  - INS-260423-30C2
   - INS-260329-78AE
   - INS-260409-0FA2
-  - INS-260330-14CA
 ---
 Alexander identifies a deep structural problem in public discourse: the malicious streetlight effect and directional correctness are mirror images, and attempting to correct either one looks identical to committing the other. If you point out that crime statistics don't capture disorder concerns, you might be legitimately noting a streetlight effect — or you might be using 'directional correctness' to defend the false claim that murder is up.
 

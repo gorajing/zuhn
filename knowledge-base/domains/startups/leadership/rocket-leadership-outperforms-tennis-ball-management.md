@@ -47,11 +47,11 @@ stance: >-
   The most productive teams emerge when leaders point talented people at
   problems and grant full autonomy rather than directing their detailed work.
 related:
+  - INS-260423-7396
   - INS-260327-24D2
   - INS-260327-91E7
   - INS-260322-A928
   - INS-260327-BEEE
-  - INS-260326-7B2A
 evidence:
   - id: INS-260330-5EAC
     type: TRANSFERS_TO

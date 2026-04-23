@@ -45,7 +45,6 @@ stance: >-
   action will succeed, making persistence possible even in the complete absence
   of hope or apparent meaning.
 related:
-  - INS-260320-5F14
   - INS-260323-DA4E
   - INS-260323-9C11
   - INS-260327-1AD8

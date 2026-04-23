@@ -47,7 +47,6 @@ stance: >-
   triggering different emotional responses and requiring different design
   approaches.
 related:
-  - INS-260321-167A
   - INS-260330-F140
   - INS-260330-09E3
   - INS-260403-CE7C

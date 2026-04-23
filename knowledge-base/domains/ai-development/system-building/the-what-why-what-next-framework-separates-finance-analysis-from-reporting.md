@@ -37,11 +37,11 @@ resolutions:
     plans, reorg memos, strategic decisions buried in threads nobody tagged.
     Stale knowledge bases are worse than none — they give false confidence.
 related:
+  - INS-260423-2B80
   - INS-260404-19B0
   - INS-260327-2627
   - INS-260405-0271
   - INS-260405-7196
-  - INS-260404-E5EB
   - INS-260330-FF9A
 stance: >-
   Finance has three jobs: explain what happened (the metric), why it happened

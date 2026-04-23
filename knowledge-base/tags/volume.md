@@ -2,6 +2,7 @@
 
 - `INS-260410-1399` Rentech's secret isn't genius market calls — it's recognizing that a barely-better-than-coin-flip edge compounds into historic returns when you make millions of small bets and lever up smartly, rather than waiting for high-conviction opportunities.
 - `INS-260329-C409` HFT makes fractions of a cent per trade but profits through extreme volume and speed advantage.
+- `INS-260322-0AA6` Getting volume levels right first makes every subsequent mixing decision (EQ, compression, spatial) easier and more effective.
 - `INS-260329-2865` After a brand misstep, overwhelm the negative pairing with high volume of positive pairings rather than trying to erase or apologize for it.
 - `INS-260330-45A9` Plants conquered Earth not by making RuBisCo better, but by making more of it — volume strategy beat optimization strategy over evolutionary timescales.
 - `INS-260329-FCF2` Doing 10-100x more volume beats 2x optimization, but you must relearn this lesson independently in each new domain you enter.
@@ -15,4 +16,3 @@
 - `INS-260330-8BF6` Plants produce 40 billion tons of a bad enzyme rather than evolving a better one — volume compensates for quality at sufficient scale.
 - `INS-260330-EB1B` Early organisms compensated for RuBisCo's poor performance by producing enormous quantities of it — a strategy that dominated Earth but left no room for optimization.
 - `INS-260329-F2E1` When something works, scale it by doing more rather than trying to make it better, because more has guaranteed returns while optimization risks breaking what works.
-- `INS-260322-0AA6` Getting volume levels right first makes every subsequent mixing decision (EQ, compression, spatial) easier and more effective.

@@ -65,10 +65,10 @@ stance: >-
   read technical signals.
 related:
   - INS-260410-5CAA
+  - INS-260423-9BA5
   - INS-260405-6D3A
   - PRI-260406-992F
   - INS-260410-2402
-  - INS-260327-505A
 ---
 The Nvidia story between 2012 and 2016 is a case study in how long markets can take to price in a visible platform shift. AlexNet in 2012 was the Big Bang of deep learning, it ran on CUDA, and Jensen was explicitly telling investors at every earnings call that the future of the company was machine learning. Mark Andreessen said publicly in 2016 that every AI startup his firm saw was building on Nvidia and that he'd put his entire hedge fund into the stock. Brian Catanzaro's 2013 Stanford paper with Andrew Ng made deep learning on GPUs dramatically more accessible. All of this was in public view.
 

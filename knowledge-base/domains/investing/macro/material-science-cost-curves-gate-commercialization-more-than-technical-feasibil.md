@@ -60,6 +60,7 @@ related:
   - INS-260412-0D71
   - PRI-260328-3C01
   - INS-260404-4F1B
+  - INS-260423-E905
 ---
 Graphene was isolated in 2004, won a Nobel Prize in 2010, yet didn't appear in a purchasable product until 2020. The science was settled almost immediately — 100x stronger than steel, best known conductor of heat and electricity. What changed was manufacturing economics: graphene went from $300,000 per kilogram to roughly $25 per sheet, and from $1,000 per cubic centimeter to $0.01. This pattern recurs across breakthrough materials (carbon fiber, solar cells, lithium-ion itself) and suggests that investors and founders should track manufacturing cost curves as the primary signal for commercialization timing, not scientific publications or lab demonstrations.
 

@@ -21,16 +21,16 @@
 - `INS-260403-1B9E` Founders copy each other's funding strategies as fast as they copy tech stacks, so one visible bootstrapped success could shift industry norms.
 - `INS-260329-DC86` Imperfect ratings with high volume signal authenticity and outperform perfect scores with low volume in building trust.
 - `INS-260403-4788` If experts are contemptuous of your approach, you may have found a structural advantage they can't access.
-- `INS-260403-C8A9` Investor interest compounds exponentially because each commitment makes others more likely to invest.
-- `INS-260403-77B4` PG sent 10+ emails over a month pushing Fred Wilson toward Airbnb, each adding a new data point.
-- `INS-260404-569C` Without public traction metrics or media validation, stealth fundraising shifts the evaluation entirely to founder credibility and trusted referral networks.
-- `INS-260405-5D19` Behind every pitch decision is a messy mix of conviction, timing, and 'who else is in?' social proof — which founders can engineer.
-- `INS-260402-4719` VCs primarily invest based on traction and other investors' interest rather than their own technical evaluation.
 - `INS-260329-563F` Treat free customers as your most valuable asset because they generate reviews, send referrals, and may convert to paid — three independent growth channels from one relationship.
 - `INS-260327-212A` Stanley tumblers grew explosively not because they were better water bottles but because carrying one signaled membership in specific social tribes.
 - `INS-260329-F73D` Before launching any new product or entering a new market, work for free in exchange for testimonials because proof makes selling unnecessary.
 - `INS-260403-92E9` Use testimonials with full attribution and specific quantified outcomes that map to core product benefits, never generic praise.
 - `INS-260329-7B56` Reviews that mention real downsides before praising outcomes are more believable and convert better than pure five-star praise.
+- `INS-260403-C8A9` Investor interest compounds exponentially because each commitment makes others more likely to invest.
+- `INS-260403-77B4` PG sent 10+ emails over a month pushing Fred Wilson toward Airbnb, each adding a new data point.
+- `INS-260404-569C` Without public traction metrics or media validation, stealth fundraising shifts the evaluation entirely to founder credibility and trusted referral networks.
+- `INS-260405-5D19` Behind every pitch decision is a messy mix of conviction, timing, and 'who else is in?' social proof — which founders can engineer.
+- `INS-260402-4719` VCs primarily invest based on traction and other investors' interest rather than their own technical evaluation.
 - `INS-260327-D7AA` Each customer success story unlocks an industry vertical — OpenAI's Moderna partnership unlocked life sciences credibility, and Morgan Stanley unlocked financial services, because prospects want proof rather than promise.
 - `INS-260327-E3CA` Lead with proof-point metrics from similar customers (M1) to build trust, then unlock the prospect's specific value metrics (M2) through discovery.
 - `INS-260329-4A69` Invest in capturing and displaying proof rather than crafting elaborate promises — proof is always more compelling.

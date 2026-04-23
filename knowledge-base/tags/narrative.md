@@ -31,6 +31,7 @@
 - `INS-260326-8189` Napoleon renamed a suicidal artillery battery 'Battery of Men Without Fear' and suddenly had no shortage of volunteers.
 - `INS-260412-1C32` Javice's core skill was generating media coverage and crafting narratives — ink magazine, Forbes 30 Under 30, podcasts — while her actual products consistently failed to deliver on claims.
 - `INS-260322-E791` During a crisis, the false but simple narrative ('Robinhood colluded with hedge funds') will always defeat the true but complex explanation (clearing mechanics, Dodd-Frank, collateral requirements).
+- `INS-260327-29F0` The framework is not the hard part — getting the entire leadership team aligned on one strategic story is where the real value lies.
 - `INS-260403-05B8` The winning pitch in VC 3.0 isn't that you use AI — it's that your product fundamentally could not exist without it.
 - `INS-260405-A596` Find the one variable that governs your market and organize everything—strategy, pitch, and milestones—around it.
 - `INS-260404-8DEE` Coinbase pitched Bitcoin at $6.25 like a manifesto, and Dropbox's pristine deck worked because founder conviction came through on every slide.
@@ -39,7 +40,6 @@
 - `INS-260404-63D5` The most effective AI-assisted pitch decks come from treating the tool as a story-building partner rather than a template filler.
 - `INS-260403-7B41` Without hard metrics, founders must package qualitative indicators — waitlists, engagement data, customer feedback — as credible evidence of future traction.
 - `INS-260404-B6CA` WeWork raised $355M on a Series D deck that was a masterclass in storytelling with hollow fundamentals — the most instructive deck for understanding narrative vs. substance.
-- `INS-260327-29F0` The framework is not the hard part — getting the entire leadership team aligned on one strategic story is where the real value lies.
 - `INS-260412-DAEF` Bukele won 53% of the vote by attacking the two-party system itself rather than running a traditional campaign against individual opponents.
 - `INS-260330-FAB8` The stated mission often masks the real driver — when organizations face resource constraints, they build ideological stories to justify aggressive moves.
 - `INS-260403-4F1B` A centralized failure that mirrors what your decentralized product prevents becomes the strongest possible validation of your value proposition.

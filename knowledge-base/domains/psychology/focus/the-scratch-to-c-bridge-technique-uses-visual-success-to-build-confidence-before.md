@@ -55,7 +55,6 @@ stance: >-
   starting directly with text, because early success creates the motivation to
   persist through later difficulty.
 related:
-  - INS-260323-334D
   - INS-260327-1B9A
   - INS-260329-F969
   - INS-260329-F20E
@@ -65,6 +64,7 @@ related:
   - INS-260329-ACE6
   - INS-260323-197A
   - INS-260329-975C
+  - INS-260329-A53C
 evidence:
   - id: INS-260327-1B9A
     type: SUPPORTS

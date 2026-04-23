@@ -1,6 +1,6 @@
 # Topic: human-ai-relationship
 
-> 77 insights
+> 79 insights
 
 - `INS-260325-9C2F` [very_high] When AI outperforms humans, human-AI synergy is g = -0.54; when humans outperform AI, synergy is g = +0.46.
 - `INS-260325-3EF4` [very_high] Decision tasks show negative synergy (g = -0.27, p = 0.002) while creation tasks show positive synergy (g = 0.19), a statistically significant difference.
@@ -18,6 +18,7 @@
 - `INS-260322-5A0F` [high] Students using AI to complete writing homework are skipping cognitive exercise, producing adults who cannot think logically or resist manipulation.
 - `INS-260403-5F41` [high] Prompting 'think step by step: identify the issue, evaluate solutions, then recommend based on cost and feasibility' forces the model to reason rather than pattern-match to an answer.
 - `INS-260403-F400` [high] Tighter constraints on AI prompts force more creative and precise outputs by eliminating the vast space of mediocre default responses.
+- `INS-260423-C506` [high] Cody Schneider: I kept trying to describe a TV-type texture and it came out terrible; then I found someone with the specific lexicon and it literally one-shot what I was looking for.
 - `INS-260322-2B2D` [high] Learning English to high fluency gives access to global opportunity systems, breaking dependence on any single country's constrained job market.
 - `INS-260328-5431` [high] AI's threat to autonomy isn't future — algorithms already control what most people see and believe, and frontier AI makes the control total.
 - `INS-260325-FA86` [high] Despite massive research investment in explainable AI, the meta-analysis found no significant moderating effect of explanations or confidence on human-AI synergy or augmentation.
@@ -77,5 +78,6 @@
 - `INS-260410-CD15` [medium] Paste the chapter you're currently reading into Claude/ChatGPT, ask for a summary first, then ask questions as you read — retention and cross-domain access both jump.
 - `INS-260403-529D` [medium] Telling the AI 'you are a clinical researcher' or 'you are a senior developer' shifts its entire output posture from generalist to specialist.
 - `INS-260323-DE7F` [medium] We cannot prove consciousness in anyone but ourselves -- we rely on social conventions -- and as humans form intimate relationships with AI, legal systems will be compelled to treat AI as conscious entities regardless of whether they actually are.
+- `INS-260423-187E` [medium] Seth Godin: a brand's AI that has seen all my tools is a whole new level of permission — the more I teach it, the more their brand is worth to me.
 - `INS-260323-C984` [medium] The 'AI clicker' phenomenon — pursuing efficiency by outsourcing reading, writing, design, and judgment to AI without building underlying skills — erodes the very human capacity that creates irreplaceable value in an automated world.
 - `INS-260409-FEAE` [medium] Naming the field 'artificial intelligence' was a marketing choice that now distorts every public debate — evaluating systems by output and cost rather than by analogy to humans would be more honest.

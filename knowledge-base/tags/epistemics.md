@@ -16,6 +16,7 @@
 - `INS-260405-4693` History uniformly shows that every era had forbidden truths; assuming ours is different requires extraordinary evidence.
 - `INS-260410-831F` The Inquisition ignored Voltaire and the Encyclopédie to throw the book at Jansenist treatises about the Trinity — and Palmer says this pattern holds in every era she studies.
 - `INS-260412-491A` Neutron star cores recreate Big Bang conditions, letting physicists study the universe's founding rules — extremes are windows to origins.
+- `INS-260423-77DF` Dalton: in the first 10% of the race, you look like you're winning — and sometimes forget you have 90% of the race to run.
 - `INS-260412-2E7D` Cosmic expansion will eventually erase all evidence of other galaxies, making the Big Bang undiscoverable to future civilizations.
 - `INS-260405-1CAA` You know what you believe but rarely why you believe it — the source code is gone.
 - `INS-260409-3FDE` Contributor gizmax reproduced MemPalace's 96.6% LongMemEval R@5 on M2 Ultra in under 5 minutes using the public benchmark scripts — that reproduction is exactly what forced the retraction of the other overclaims by making ground truth reviewable.

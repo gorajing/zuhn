@@ -41,10 +41,10 @@ stance: >-
   permanence vs novelty.
 related:
   - INS-260324-DC98
+  - INS-260423-3F3B
   - INS-260403-8BF4
   - INS-260327-4445
   - INS-260329-ACE6
-  - INS-260403-11F8
 evidence:
   - id: INS-260403-8BF4
     type: TRANSFERS_TO

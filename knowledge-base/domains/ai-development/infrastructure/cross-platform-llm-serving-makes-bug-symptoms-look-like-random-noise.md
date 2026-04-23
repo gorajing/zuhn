@@ -59,9 +59,9 @@ related:
   - INS-260329-D2CA
   - INS-260410-09B4
   - INS-260410-E73E
+  - INS-260423-85B3
   - PRI-260323-1CF9
   - PRI-260403-5FC4
-  - INS-260329-F84E
 ---
 Anthropic's three bugs had very different platform footprints: the routing bug affected all platforms at different rates, the output corruption hit only first-party TPU servers, and the XLA:TPU miscompilation affected TPU-served requests but not Bedrock or Vertex. Users reported degradation, but the pattern looked like random noise because the correlation between 'which bug am I seeing' and 'which platform served me' wasn't visible externally.
 

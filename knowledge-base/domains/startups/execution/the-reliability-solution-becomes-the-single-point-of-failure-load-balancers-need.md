@@ -49,10 +49,10 @@ stance: >-
   at the meta-level, creating an infinite regression of redundancy requirements.
 related:
   - INS-260329-F887
+  - INS-260423-81B6
   - INS-260329-C689
   - INS-260403-4F1B
   - PRI-260328-0AB1
-  - INS-260403-77F4
   - INS-260403-868C
 evidence:
   - id: INS-260329-8CC0

@@ -49,7 +49,6 @@ stance: >-
   undifferentiated ones are literally forgotten
 related:
   - INS-260322-7B71
-  - INS-260327-6D57
   - INS-260327-F7BD
   - INS-260327-0595
   - INS-260403-6F52
@@ -58,6 +57,7 @@ related:
   - INS-260404-8D37
   - INS-260404-D242
   - INS-260404-3212
+  - INS-260404-B87E
 evidence:
   - id: INS-260403-0AF4
     type: REFINES

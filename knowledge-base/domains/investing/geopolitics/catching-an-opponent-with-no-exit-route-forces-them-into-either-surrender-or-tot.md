@@ -50,7 +50,6 @@ stance: >-
   opponent cannot retreat, forcing a binary outcome that eliminates the
   possibility of prolonged attrition.
 related:
-  - INS-260323-E874
   - INS-260327-23FA
   - INS-260327-191B
   - INS-260327-377A
@@ -60,6 +59,7 @@ related:
   - INS-260327-F484
   - INS-260327-CF72
   - INS-260327-31B8
+  - INS-260327-3FC7
 evidence:
   - id: INS-260323-E874
     type: TRANSFERS_TO

@@ -61,7 +61,7 @@ related:
   - INS-260328-F3C4
   - INS-260327-A763
   - INS-260410-F856
-  - INS-260327-F6BA
+  - INS-260423-81C4
 ---
 Munger explains that Costco's governing norm is 'don't raise the market — get it low and keep it there forever.' When a new CEO tried to raise the $1.50 hot dog price, Jim Sinegal forbade it at the leadership level, not even as a board-level discussion. The dollar of missed margin is trivial; the trust signal that Costco-is-still-cheap is the entire brand.
 

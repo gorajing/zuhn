@@ -45,7 +45,6 @@ stance: >-
   the same extractive model with worse job security, as companies now optimize
   for replacing the very workforce that built them.
 related:
-  - INS-260323-7403
   - INS-260330-B3D9
   - INS-260327-2627
   - INS-260403-7D11

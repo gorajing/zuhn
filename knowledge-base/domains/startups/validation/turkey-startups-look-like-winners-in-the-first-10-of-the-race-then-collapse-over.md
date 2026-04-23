@@ -48,7 +48,6 @@ stance: >-
   rapid early growth followed by sudden total collapse when the platform
   corrects
 related:
-  - INS-260327-CC05
   - PRI-260405-5912
   - PRI-260328-C918
   - INS-260330-DE80

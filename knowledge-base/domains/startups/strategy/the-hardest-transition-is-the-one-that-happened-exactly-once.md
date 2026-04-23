@@ -70,6 +70,7 @@ related:
   - PRI-260328-BD81
   - INS-260330-1DDE
   - INS-260412-88B6
+  - INS-260423-7C1A
 ---
 Life appeared quickly on Earth and bacteria radiated across every niche within a billion years. Then for two billion years, nothing complex arose. A single endosymbiotic event—one bacterium swallowing another and not digesting it—produced eukaryotes, and every plant, animal, fungus, and protist descends from that one cell. Nick Lane argues this wasn't because the problem was unsolvable in other ways, but because the probabilistic conditions required were extreme enough that in trillions of bacterial lifetimes across four billion years, no alternative ever emerged.
 

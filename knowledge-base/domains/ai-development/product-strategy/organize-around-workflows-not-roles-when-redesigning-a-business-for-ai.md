@@ -45,8 +45,8 @@ stance: >-
 related:
   - INS-260410-410E
   - INS-260403-648C
+  - INS-260423-72D0
   - INS-260330-A69C
   - INS-260322-4B4A
-  - INS-260403-A2E9
 ---
 Hormozi's reframe: traditional org charts bundle tasks into roles because humans need coordination hierarchies, but this bundling hides which specific tasks are automatable. The correct decomposition is to write down every granular activity (not 'I run ads' but 'I write headline variants, set budgets, analyze CTR') and then ask task-by-task whether each can live inside a workflow instead of headcount. This changes the automation question from the emotionally loaded 'should I replace this person' to the tactical 'can I eliminate this one task.' The broader principle: when the substrate changes (from humans to agents), the unit of organization must change with it — from hierarchies to pipelines.

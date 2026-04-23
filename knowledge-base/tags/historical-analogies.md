@@ -1,3 +1,4 @@
 # Tag: historical-analogies
 
+- `INS-260423-6DFB` Hinton: when a tractor replaces physical labor, people go do intellectual things; but if you replace human intelligence, where are the people who work in a call center going to go?
 - `INS-260409-6698` Mao's 1960s barefoot doctor program trained rural Chinese villagers as basic healthcare providers and placed them back in their home villages — by the mid-1970s, 1.5M barefoot doctors served China's villages and life expectancy rose from 35 to 63 years. The same 'embedded community members with basic training' template applies to software.

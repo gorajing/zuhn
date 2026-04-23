@@ -50,11 +50,12 @@ stance: >-
   and pushing pain to the future, then being shocked when that future becomes
   today
 related:
+  - INS-260323-4711
   - INS-260323-433B
   - INS-260405-690F
-  - INS-260323-4711
   - INS-260329-B011
   - INS-260330-A9DD
+  - INS-260423-9F96
 ---
 Hormozi identifies a precise inversion of delayed gratification: instead of taking pain now for pleasure later, people take pleasure now and delay pain to tomorrow. The diet starts Monday, the savings start next month, the hard work begins next year. But today is yesterday's tomorrow — the pain you deferred is the reality you're living in right now.
 

@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-21 | 4967 actionable insights
+Generated on 2026-04-23 | 4991 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -105,6 +105,10 @@ Generated on 2026-04-21 | 4967 actionable insights
 - [INS-260411-BCB0] Build and debug a sequential agent chain first, then add parallelism, loops, or routing only when the simple version works.
 - [INS-260411-6106] Write sub-agent descriptions with the same precision as API documentation — they are the routing signal for LLM-driven delegation.
 - [INS-260411-5478] Use AgentTool to wrap a sub-agent hierarchy as a callable function, letting parent agents delegate without managing internals.
+- [INS-260423-FF52] ADK callbacks: you can invoke Model Armor API at the before-agent-callback to detect malicious inputs before the agent sees them, and at after-agent-callback to check outputs for sensitive data.
+- [INS-260423-6879] ADK lab: before the A2A inspector interaction, run a dummy wake-up call so the cold-start latency doesn't hit the user; second call responds instantly.
+- [INS-260423-7396] Hinton: Microsoft took an AI, made several copies, told them to play different roles and talk to each other — that does better than most doctors at diagnosis.
+- [INS-260423-72D0] Cody: this isn't go open Claude Code and give it access to everything — I'm talking about specific jobs-to-be-done workflows custom-made for how you operate day-to-day.
 
 ## ai-development/agents
 - [INS-260405-FE94] Coinbase's Agentic Wallets let AI agents hold funds, pay for APIs, and execute trades without human approval at each step.
@@ -170,6 +174,9 @@ Generated on 2026-04-21 | 4967 actionable insights
 - [INS-260403-7AD0] Prompts that specify role, output structure, and analytical framework can match institutional analyst output quality.
 - [INS-260403-E78C] Claude Sonnet completing multi-page workflows at 94% accuracy for $0.30 creates a 100x cost gap that makes human contractors economically irrational for routine tasks.
 - [INS-260404-6DAD] The Assistant API lets builders deploy AI assistants anywhere, breaking free from OpenAI's walled garden while preserving the same training and capabilities.
+
+## ai-development/ai-business-models
+- [INS-260423-81C4] Seth Godin: when AI is the buyer, you're going to lose — it's hard to teach an AI why the non-cheapest is worth it, so it buys the cheap one.
 
 ## ai-development/ai-capabilities
 - [INS-260323-4D14] Jensen Huang argues the last decade was about the science of AI; the next decade will be about applying AI to biology, climate, agriculture, robotics, logistics, and every other domain.
@@ -356,6 +363,9 @@ Generated on 2026-04-21 | 4967 actionable insights
 - [INS-260410-2D5D] Hume observed that over 50% of candidates would have been better off delegating entirely to Claude Code well before Opus 4 explicitly broke his test.
 - [INS-260410-DD0E] Hume implemented an entirely new take-home design in under a day by having Claude write it, then used Claude's solving attempts as the design's difficulty oracle.
 - [INS-260410-56B4] If a problem lives in well-documented territory (bank conflicts, SIMD, common compiler tricks), a frontier model will likely outperform humans on it within hours.
+- [INS-260423-00AC] Cody Schneider: my job suddenly turns into — I have ideas, I pass them on to Claude Code, and then I'm polishing the end product.
+- [INS-260423-44B4] Cody: my friend texted me yesterday — 'I think I'm going to fire 50 people, that's like 70% of my team. I can automate all their jobs right now with agent swarms.'
+- [INS-260423-4CB1] Seth Godin: are you going to upskill or be deskilled? Are you going to work for an AI — which is going to be unhappy — or is AI going to work for you?
 
 ## ai-development/governance
 - [INS-260409-B005] 80% of Americans want AI regulated — a rare civic consensus — and frontier labs are spending hundreds of millions to kill it; the organizing opening is real.
@@ -398,6 +408,7 @@ Generated on 2026-04-21 | 4967 actionable insights
 - [INS-260403-7D7A] Treating prompts as code-like instructions rather than search queries is the single highest-leverage shift for AI output quality.
 - [INS-260403-529D] Telling the AI 'you are a clinical researcher' or 'you are a senior developer' shifts its entire output posture from generalist to specialist.
 - [INS-260410-CD15] Paste the chapter you're currently reading into Claude/ChatGPT, ask for a summary first, then ask questions as you read — retention and cross-domain access both jump.
+- [INS-260423-C506] Cody Schneider: I kept trying to describe a TV-type texture and it came out terrible; then I found someone with the specific lexicon and it literally one-shot what I was looking for.
 
 ## ai-development/infrastructure
 - [INS-260410-0DA5] Anthropic's existing benchmarks didn't flag the degradation users were reporting because benchmarks test isolated prompts and Claude often recovers from single mistakes even when the underlying quality has dropped.
@@ -406,6 +417,7 @@ Generated on 2026-04-21 | 4967 actionable insights
 - [INS-260410-ED34] When LLM routing is sticky, a 0.8% misroute rate becomes a 100% bad experience for the unlucky users rather than a rare glitch for everyone.
 - [INS-260410-8092] Anthropic's December 2024 workaround for a dropped-token bug was inadvertently masking a much worse approximate top-k bug that only became visible when they removed the workaround in August.
 - [INS-260421-CE27] MemMachine demonstrated that single-node retrieval of 'suggest dessert' could miss a stored 'allergic to peanuts' fact; expanding to ±2 neighbor nodes catches the constraint.
+- [INS-260423-9225] Google Cloud: for self-hosted VLM or Ollama, the platform captures GPU utilization at approximation but tokens-per-second and prefill/decode breakdown require a Prometheus sidecar exporting from the model's internal metrics.
 
 ## ai-development/limitations
 - [INS-260323-F68A] Claude Code users spend $8-13.5x their subscription in compute — if they had to pay per-error like a metered taxi, most would abandon the service because mistakes become expensive.
@@ -545,6 +557,7 @@ Generated on 2026-04-21 | 4967 actionable insights
 - [INS-260409-94D6] Don't ask 'should I hire an editor' — list the 6-10 things an editor actually does with their hands and ask which of those can become workflows.
 - [INS-260409-6236] Daily hands-on AI usage builds usable intuition that content consumption cannot replace.
 - [INS-260421-536F] MemMachine's entire positioning ('Own Your Memory') leads with sovereignty; FalkorDB runs in your environment; Cognee ships open-source; enterprise buyers ranked this highly at AI Agents SF #12.
+- [INS-260423-3F3B] Cody: if you're looking at Salesforce versus HubSpot right now, Salesforce is the better product for AI foundation because it has a more robust API so you can do more with it.
 
 ## ai-development/productivity
 - [INS-260405-7C86] Focused, short demos change AI behavior faster than comprehensive theoretical treatments.
@@ -1259,6 +1272,7 @@ Generated on 2026-04-21 | 4967 actionable insights
 - [INS-260410-F026] The eBay deal likely included 1.5M of founder secondary — and that may have been what prevented Pierre from selling to Knight Ridder for 50M instead of building a 21B company.
 - [INS-260410-228E] Don't sell winners based on growth rate or maturity — sell based on whether decades of growth remain ahead.
 - [INS-260412-C69B] JP Morgan's $175M acquisition of Frank collapsed because the bank accepted indirect evidence of 4.25M users without independently verifying the customer database.
+- [INS-260423-BD00] Chamath wrote an investment memo for Groq in 2015 and published it on X before writing the check; the memo concluded he had the boundary conditions to build something iconic.
 
 ## music-production/music-marketing
 - [INS-260321-13EA] Release on Friday (international release day) with minimum 4 weeks from master delivery — things go wrong with aggregators, you need time to pitch DSPs, and thinking 'I'll release on Tuesday to fox them' is thinking small.
@@ -1630,6 +1644,7 @@ Generated on 2026-04-21 | 4967 actionable insights
 - [INS-260412-7728] When you don't know the rules of the game, watch silently before announcing yourself.
 - [INS-260412-0F94] The empty universe is not a lack of data — it is the single most important data point in the Fermi Paradox.
 - [INS-260412-AC11] Abstract awareness of mortality rarely changes behavior, but seeing '2,340 weeks left' creates visceral urgency that does.
+- [INS-260423-9BA5] Seth Godin: at Yahoo, the thing that wrecked the company was the stock ticker — 3,000 people watching it daily and doing whatever made it go up in one day, even when it wouldn't go up in one year.
 
 ## psychology/expertise
 - [INS-260330-C7B5] Making a tool part of your identity makes you worse at evaluating alternatives.
@@ -2538,6 +2553,7 @@ Generated on 2026-04-21 | 4967 actionable insights
 - [INS-260403-0629] OpenAI lost Musk, Hurd, Hoffman, and Zilis from its board before the Altman crisis — each departure cited different reasons but all stemmed from the same structural tensions.
 - [INS-260403-A6A7] Solo founding has shifted from exception to dominant mode as AI tools collapse the capability gap that previously required cofounders.
 - [INS-260330-E170] When founders don't pay themselves, a fired co-founder can use unpaid wage claims as leverage to negotiate vesting acceleration they wouldn't otherwise deserve.
+- [INS-260423-64FA] Chamath's stated rubric for early-stage deep-tech disputes: back the technical person without whom the product wouldn't exist.
 
 ## startups/communication
 - [INS-260330-D511] Anatomy's elaborate directional vocabulary exists because vague descriptions like 'achey belly' are useless for surgical precision — shared terminology is coordination infrastructure.
@@ -2822,6 +2838,7 @@ Generated on 2026-04-21 | 4967 actionable insights
 - [INS-260412-D103] Bitfinex's reliance on BitGo to secure user wallets created the single vulnerability that enabled the entire $4.5B hack.
 - [INS-260412-3506] Meta's ad revenue decline was partly caused by Apple's privacy changes, showing that even dominant companies face existential risk from upstream platform decisions.
 - [INS-260412-BA74] Real Graphene's CEO explicitly stated graphene batteries would trickle down from higher-end devices first, using premium willingness-to-pay to absorb the 30% cost premium while scaling manufacturing.
+- [INS-260423-5998] Michael Seibel: the Facebook platform slop wars — no one competing with Zynga won; Facebook won.
 
 ## startups/content-strategy
 - [INS-260329-3332] A single 4+ hour comprehensive tutorial can accumulate millions of views over years by dominating 'full course' search queries.
@@ -2893,6 +2910,7 @@ Generated on 2026-04-21 | 4967 actionable insights
 - [INS-260410-5799] Intel passed on the iPhone chip contract because Jobs's offer was 'lowball' — which turned out to be the most expensive pricing decision in tech history.
 - [INS-260410-DDD0] When you bet the company, you're not gambling — you're pulling every future risk into the present so the outcome is already determined before the bet.
 - [INS-260410-679B] When losing, the strategy is usually obvious — the question is whether you can stomach executing it; when winning, you have to invent the next move from a position of comfort that misleads you.
+- [INS-260423-70CF] Michael: when companies come to me scared about a competitor's funding, my first question is always 'have you used the product?'
 
 ## startups/developer-tools
 - [INS-260330-737B] Unfashionable legacy technologies like COBOL create outsized earning potential because shrinking talent supply meets persistent institutional demand.
@@ -3409,6 +3427,8 @@ Generated on 2026-04-21 | 4967 actionable insights
 - [INS-260410-EA10] Unlike fighting dragons, companies only die when founders quit — so cultivate survival obsession over strategic certainty.
 - [INS-260412-71C6] Trevor Milton's pattern of defrauding buyers and partners repeated identically across four companies over 15 years, escalating in scale each time.
 - [INS-260412-1C32] Javice's core skill was generating media coverage and crafting narratives — ink magazine, Forbes 30 Under 30, podcasts — while her actual products consistently failed to deliver on claims.
+- [INS-260423-E905] Chamath on Groq: We didn't have product-market fit for seven years. Replit had years of nothingness before the hockey stick.
+- [INS-260423-9F96] Chamath: in the pre-PMF years you have to find different ways of feeling rewarded that are not revenue or valuation — usually technical progress.
 
 ## startups/fundraising
 - [INS-260322-A02C] At pre-seed and seed stage, investors and early customers are betting on the founder's story and character, not the product.
@@ -3997,6 +4017,8 @@ Generated on 2026-04-21 | 4967 actionable insights
 - [INS-260410-8C24] Microsoft sold to the enterprise by leveraging the fact that employees had already smuggled Excel and Word into their offices personally — turning employee love into the wedge for top-down enterprise deals.
 - [INS-260410-DCE5] Google initially begged early portals to include 'Powered by Google' attribution on their search results pages — which trained tens of millions of users that Google meant high-quality search, eventually making the Google brand a value proposition that portals wanted rather than resisted.
 - [INS-260410-1C96] Size ambition to the reach of your brand equity, not the size of your revenue.
+- [INS-260423-6FB5] Dalton: whenever I worked on retention, I had to start with 'am I helping the user?'; whenever I worked on topline growth, I was serving myself.
+- [INS-260423-20ED] Seth Godin: when you pick your customers, you pick your future — average people chose to be average, and they won't buy your book or your software.
 
 ## startups/health-innovation
 - [INS-260403-DC6C] Photosynthesis is explicitly inefficient and complicated yet powers all life on Earth — adequacy under real constraints beats theoretical optimization.
@@ -4058,6 +4080,7 @@ Generated on 2026-04-21 | 4967 actionable insights
 - [INS-260410-E076] Dwarkesh received ~1000 applications for a chief-of-staff role through his large platform, but ended up hiring (and finding top contenders) via mutual friends — evidence that elite generalists don't self-apply.
 - [INS-260410-362D] Epic hires almost exclusively from Midwestern colleges regardless of major, gives programming-test-based offers with no interview, and then drills them for six months in 'the Epic way'—down to how to take notes on a legal pad and write emails.
 - [INS-260412-2DEF] The US foreign service's tiered hardship and danger pay system voluntarily fills the worst postings by transparently pricing difficulty into compensation.
+- [INS-260423-9D71] Greg Isenberg: if you can figure out how to do all these jobs-to-be-done and be one person instead of ten, there is a case to be made that you've added a tremendous amount of value to your role — triple my salary easily.
 
 ## startups/ideation
 - [INS-260321-E471] Most founders filter out ideas requiring more than two years to work, so simply imagining ideas with longer timelines dramatically reduces competition.
@@ -4371,6 +4394,7 @@ Generated on 2026-04-21 | 4967 actionable insights
 - [INS-260410-C070] Frank Robinson dropped Coca-Cola's 'sovereign remedy for headache and nervousness' messaging and repositioned it as 'delicious and refreshing' — the product was identical, but he was advertising to the masses instead of the few.
 - [INS-260410-3E0A] Coke pivoted from describing what the drink does ('delicious and refreshing') to associating it with happiness, family, Christmas, and sports heroes — and that extrinsic association is what compounded into a $300B brand.
 - [INS-260412-0CAA] Nokia contracted a top-tier independent ad agency (MOTHER) for an all-out campaign blitz, recognizing that brand re-entry is a one-shot moment that demands memorable, resonant advertising.
+- [INS-260423-595B] Seth Godin: Volkswagen's decision to write code defeating European emissions tests was a marketing move — but the marketing department probably wasn't in the room.
 
 ## startups/mental-models
 - [INS-260330-C0D1] If a system is linear, tracking what happens to a few basis cases lets you predict outcomes for all possible inputs.
@@ -4448,6 +4472,7 @@ Generated on 2026-04-21 | 4967 actionable insights
 - [INS-260403-6C07] Solve the problem users have right now before expanding into the product you envision for the future.
 - [INS-260409-2A8D] Your only job is right product at right time — everything else is avoidance of that job.
 - [INS-260412-9657] Solving one bottleneck in a complex system without addressing the whole system just moves the failure point downstream.
+- [INS-260423-2134] Michael: it's bad, but just let me add 10 more features — that's the feature treadmill, and AI tools make it easier than ever to do.
 
 ## startups/product-development
 - [INS-260322-58B7] Ship the minimal core feature fast and let actual user feedback determine where the product goes next.
@@ -4632,6 +4657,7 @@ Generated on 2026-04-21 | 4967 actionable insights
 - [INS-260404-67C5] Multiple checkpoints (police, prosecutors, defense, jury) all biased toward conviction means zero effective error correction.
 - [INS-260403-868F] Spending tens of hours on primary research per post produces insights readers can't find elsewhere, which is what makes content worth sharing.
 - [INS-260412-1358] When US automakers downsized cars after the 1970s oil crisis, cost-cutting degraded their quality — while Toyota's systematic Total Quality Control maintained standards at any scale.
+- [INS-260423-B01D] Dalton and Michael: slop is where you're actively self-deceiving that your thing is good when you kind of know it's not that good.
 
 ## startups/resilience
 - [INS-260412-EE18] Forces that maintain cohesion at small scale break down at larger scales, requiring different survival strategies at each phase.

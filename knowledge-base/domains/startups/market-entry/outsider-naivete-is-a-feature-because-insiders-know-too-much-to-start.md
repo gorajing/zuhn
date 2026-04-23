@@ -49,7 +49,6 @@ stance: >-
   accumulate enough knowledge to be paralyzed by awareness of obstacles, while
   outsiders reach conviction before encountering the full complexity.
 related:
-  - INS-260402-AD42
   - INS-260330-0E49
   - INS-260326-291C
   - INS-260403-AC74

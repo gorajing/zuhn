@@ -48,11 +48,11 @@ resolutions:
     value in post-AI is someone who can say: this is what I think.' Personal
     philosophy, not technical skill, becomes the critical human asset.
 related:
+  - INS-260423-00AC
   - INS-260322-E22A
   - INS-260403-FE41
   - INS-260327-2627
   - INS-260403-5788
-  - INS-260323-E2ED
 stance: >-
   A designer quit her job not because AI replaced her work, but because her
   boss's AI-generated feedback overwhelmed her judgment to the point where ...

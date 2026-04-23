@@ -51,7 +51,6 @@ stance: >-
   the distance ladder's foundation has internal inconsistencies — a different
   and more troubling problem than the CMB-vs-local tension.
 related:
-  - INS-260330-FC6E
   - INS-260409-2E2B
   - INS-260412-4AC2
   - INS-260409-9464

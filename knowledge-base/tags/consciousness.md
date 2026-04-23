@@ -21,6 +21,7 @@
 - `INS-260330-BE4D` Consciousness is like a mirror that reflects ugly or beautiful images without itself being changed.
 - `INS-260412-F943` We are not separate from the universe observing it — we are the part of the universe that became aware of itself.
 - `INS-260327-A4FE` When you examine consciousness, you're using consciousness to examine itself - like trying to see your own eyes directly, the tool and the subject are the same thing.
+- `INS-260423-770B` Hinton: when I say I see pink elephants, I'm not describing items in an inner theater made of qualia — I'm reporting that my perceptual system is lying, and here's what would have to be true for it to not be lying.
 - `INS-260412-0EC0` Consciousness is best understood as a multi-step continuum from simple directed motion to self-reflective awareness.
 - `INS-260330-EEAE` Lane argues that single cells already act as coherent units using electrical membrane fields as real-time environmental feedback — and that consciousness is an elaboration of this ancient sensing mechanism, not a phase transition from computation.
 - `INS-260325-916B` Panpsychism proposes consciousness is a fundamental feature of nature, more like gravity than like computation.

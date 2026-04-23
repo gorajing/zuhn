@@ -1,6 +1,6 @@
 # Topic: consciousness
 
-> 115 insights
+> 116 insights
 
 - `INS-260327-CA82` [high] Complex strategic board games existed 4,000+ years ago in Mesopotamia, demonstrating sophisticated mathematical and strategic thinking thousands of years before formal game theory.
 - `INS-260327-1B60` [high] Trillion-dollar companies are built on capturing human attention - the most finite and valuable resource any person possesses.
@@ -56,6 +56,7 @@
 - `INS-260330-BE4D` [medium] Consciousness is like a mirror that reflects ugly or beautiful images without itself being changed.
 - `INS-260412-F943` [medium] We are not separate from the universe observing it — we are the part of the universe that became aware of itself.
 - `INS-260327-A4FE` [medium] When you examine consciousness, you're using consciousness to examine itself - like trying to see your own eyes directly, the tool and the subject are the same thing.
+- `INS-260423-770B` [medium] Hinton: when I say I see pink elephants, I'm not describing items in an inner theater made of qualia — I'm reporting that my perceptual system is lying, and here's what would have to be true for it to not be lying.
 - `INS-260412-0EC0` [medium] Consciousness is best understood as a multi-step continuum from simple directed motion to self-reflective awareness.
 - `INS-260330-EEAE` [medium] Lane argues that single cells already act as coherent units using electrical membrane fields as real-time environmental feedback — and that consciousness is an elaboration of this ancient sensing mechanism, not a phase transition from computation.
 - `INS-260409-FCF1` [medium] The experiment is cheap, reversible, and requires no belief — look for the self that is currently reading this, and see what happens when you can't locate it.

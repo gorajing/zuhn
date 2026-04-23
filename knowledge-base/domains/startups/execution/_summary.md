@@ -1,6 +1,6 @@
 # Topic: execution
 
-> 292 insights
+> 293 insights
 
 - `INS-260329-FCF2` [high] Doing 10-100x more volume beats 2x optimization, but you must relearn this lesson independently in each new domain you enter.
 - `INS-260403-FED1` [high] YC's batch funding model — its most important innovation — was adopted not strategically but because a summer program seemed like the fastest way to learn angel investing.
@@ -247,6 +247,7 @@
 - `INS-260409-D947` [high] Treat the zombie like pre-PMF — nothing is sacred, and the AB-tested local maximum is still a bad onboarding flow.
 - `INS-260403-832B` [medium] eDreams built Spain's first unicorn without lean startup methodology, finding that the absence of playbooks forced them to focus on what actually worked rather than conventional wisdom.
 - `INS-260410-7224` [medium] Dee Hock insisted on 9-month deadlines for Visa's entire authorization and settlement systems because he believed engineers will always consume whatever time you give them.
+- `INS-260423-79B7` [medium] Seth Godin: authenticity is a crock — if your surgeon is authentically in a bad mood, you don't want them to do a lousy job on your knee implant.
 - `INS-260329-7A3C` [medium] Fill your calendar from 5pm backward so meetings stack at the end of the day and mornings stay open for deep work.
 - `INS-260327-767B` [medium] In frontier tech, no existing playbook applies—build your own through experimentation and first principles.
 - `INS-260329-ADC4` [medium] Being busy creates natural prioritization pressure that eliminates waste — start now rather than waiting for free time that never comes.

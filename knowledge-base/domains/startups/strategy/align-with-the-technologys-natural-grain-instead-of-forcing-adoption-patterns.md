@@ -48,10 +48,10 @@ stance: >-
   into artificial models.
 related:
   - INS-260403-2496
+  - INS-260423-31A1
   - INS-260330-DD9C
   - INS-260330-66C7
   - INS-260403-B557
-  - INS-260321-9E91
 evidence:
   - id: INS-260321-9E91
     type: TRANSFERS_TO

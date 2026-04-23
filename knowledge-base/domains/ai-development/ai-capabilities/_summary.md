@@ -1,6 +1,6 @@
 # Topic: ai-capabilities
 
-> 155 insights
+> 157 insights
 
 - `INS-260321-E4EB` [very_high] AI made idea generation almost free, just as the internet made communication almost free — the bottleneck shifted to verification, evaluation, and filtering signal from noise.
 - `INS-260321-7D7C` [very_high] AI's superpower is breadth (trying every technique on every problem simultaneously), humans' is depth (cumulative progress from partial understanding). Science must restructure to exploit both.
@@ -34,6 +34,7 @@
 - `INS-260323-3920` [high] Every sentence in every language forms a tree structure where each word connects to exactly one other word, and languages evolve to minimize the distance between connected words.
 - `INS-260408-306A` [high] AlphaFold predicts protein 3D structure in seconds where wet lab took years and hundreds of thousands of dollars per protein.
 - `INS-260408-B5EC` [high] AlphaZero learns chess from random to better-than-world-champion in 16-17 self-play generations, no human data required.
+- `INS-260423-55B2` [high] Hinton: I asked GPT-4 why a compost heap is like an atom bomb, and it explained both generate their outputs faster as they heat up — that requires understanding chain reaction structure, not just finding juxtaposed words.
 - `INS-260321-8433` [high] Karpathy's auto-research loop found hyperparameter improvements overnight that his two decades of ML experience missed — the agent found weight decay and Adam beta issues that interact jointly.
 - `INS-260410-F64D` [high] Evolution has spent a billion years making chickens the cheapest possible protein converters, creating a cost floor that even AGI-enabled alternatives may not beat.
 - `INS-260325-D392` [high] PolarQuant converts Cartesian vectors to polar coordinates, revealing that angle distributions are naturally concentrated — making compression trivial without the normalization overhead traditional methods require.
@@ -150,6 +151,7 @@
 - `INS-260403-841F` [medium] Superintelligence emerged from combining human-equivalent reasoning with computers' pre-existing superhuman memory, speed, and processing power.
 - `INS-260405-0327` [medium] Benedict Evans' Q1 2024 framing captures a market where most enterprises are still in the 'looking for use-cases' phase, not the 'scaling deployments' phase — suggesting the real AI ROI wave is still ahead.
 - `INS-260327-F608` [medium] You can't determine how complex something is by looking at it - you have to figure out the minimum number of steps it took to create it, which encodes its evolutionary history.
+- `INS-260423-E64B` [medium] Hinton: I had a researcher tell me last year they have a system that looks at what it itself is doing and figures out how to change its own code so it'll be more efficient next time — that's already the beginning of the singularity.
 - `INS-260409-60C2` [medium] Search is easy to bolt on; heavy training to synthesize dozens of papers without drift is what actually stopped Aletheia from fabricating references.
 - `INS-260413-8CA7` [medium] Google DeepMind's Veo 3 demonstrated emergent physical understanding — buoyancy simulation and maze solving — without being explicitly trained on those tasks, across 18,000 generated videos.
 - `INS-260326-E0CB` [medium] Trust surprising AI outputs enough to investigate them — formal systems regularly reveal truths their creators did not intend.

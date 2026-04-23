@@ -53,13 +53,12 @@ related:
   - INS-260327-BEEE
   - INS-260329-7C84
   - INS-260330-BCC2
-  - INS-260402-C4FF
-  - INS-260403-C6A6
   - INS-260403-2369
   - INS-260403-F732
   - PRI-260403-7D1F
+  - INS-260402-C4FF
+  - INS-260423-3459
   - INS-260403-7881
-  - INS-260405-945B
 ---
 Horowitz draws a sharp line between two CEO archetypes: those who try to coach everyone up, and those who relentlessly seek out people who are already exceptional. The latter consistently build better companies. This is counterintuitive because most leadership advice emphasizes developing your team, but at the CEO level, the highest-leverage activity is talent selection, not talent development.
 

@@ -51,5 +51,6 @@ related:
   - INS-260409-53F7
   - INS-260323-FE69
   - INS-260410-9D9C
+  - INS-260423-44B4
 ---
 The asymmetric bet: either your role survives and you've 10x'd your throughput (and captured the productivity gain), or your role disappears and you're the person who built the replacement (and you own that knowledge). Not automating yourself is dominated by both outcomes. The reframe breaks the psychological block that employees feel about self-replacement by pointing out that the automation is going to happen regardless — the only question is agency. The 20% time allocation is a practical heuristic: small enough that daily output doesn't collapse, large enough that real workflow-replacement projects can ship over a quarter.

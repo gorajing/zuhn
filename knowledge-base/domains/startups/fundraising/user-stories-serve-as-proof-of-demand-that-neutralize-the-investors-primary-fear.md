@@ -46,11 +46,12 @@ stance: >-
   persuasive than market size data because it directly addresses investors' fear
   that the product solves a problem no one has
 related:
-  - INS-260403-53AA
-  - INS-260403-7072
   - INS-260404-29F4
+  - INS-260403-53AA
   - INS-260405-9E25
   - INS-260405-0B17
+  - INS-260403-7072
   - INS-260403-2647
+  - INS-260423-70CF
 ---
 Graham identifies the dominant fear at early-stage investing: that the founders built something based on a priori theories that no actual user wants. Market size statistics don't address this fear because they measure a category, not demand for the specific product. User stories address it directly by showing the problem exists and people are already solving it poorly. Sequoia's Greg McAdoo formalized this as the 'proxy for demand' — what are people doing right now with inadequate tools that reveals the need? The strongest variant is founder-own-need (Apple, Microsoft, Yahoo, Google all grew from founder problems), because it's maximally credible and non-gameable. The next tier is stories from people the founder knows personally.

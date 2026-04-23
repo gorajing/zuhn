@@ -50,7 +50,6 @@ stance: >-
   harmful myth — many successful people's lives never fully converge, and
   restless exploration is a legitimate mode of great work.
 related:
-  - INS-260327-A59A
   - INS-260327-73CB
   - INS-260329-1669
   - INS-260404-4985

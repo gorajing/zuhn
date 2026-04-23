@@ -29,6 +29,7 @@
 - `INS-260325-F1BC` Matt Jones's containment principle: uncontained conflict contaminates execution — schedule a specific time and space for processing disagreements instead of reacting immediately.
 - `INS-260330-3E6F` Among YC's highest-valued companies, none had significantly unequal founder equity splits.
 - `INS-260330-E170` When founders don't pay themselves, a fired co-founder can use unpaid wage claims as leverage to negotiate vesting acceleration they wouldn't otherwise deserve.
+- `INS-260423-64FA` Chamath's stated rubric for early-stage deep-tech disputes: back the technical person without whom the product wouldn't exist.
 - `INS-260323-1975` You must be either the tech/product founder or the business/revenue founder, then find a complementary co-founder for the other role.
 - `INS-260403-26CD` Top accelerators prioritize diverse, complementary teams over solo founders in their selection process.
 - `INS-260403-31BD` Equity sitting with people who no longer contribute tells VCs the founder either can't make hard decisions or doesn't understand equity's strategic value.

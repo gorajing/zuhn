@@ -48,7 +48,6 @@ resolutions:
     wrong one. Better to commit fully and make the choice right through effort
     than to search endlessly for the mythically correct option.
 related:
-  - INS-260322-A928
   - PRI-260324-E8C6
   - INS-260327-A817
   - INS-260330-2492

@@ -50,8 +50,8 @@ related:
   - INS-260322-A36C
   - PRI-260406-3EF8
   - INS-260329-500E
+  - INS-260423-2B80
   - INS-260328-E410
-  - PRI-260323-2E5A
   - INS-260403-7EB2
 stance: >-
   Instead of measuring lines of code or contracts drafted, measure whether

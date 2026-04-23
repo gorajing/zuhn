@@ -16,9 +16,9 @@
 - `INS-260404-D688` Calling early work a sketch or hack lowers the psychological bar enough to actually start and iterate.
 - `INS-260327-A98E` Nothing is going to be perfect if you do not ship the product — get it to market and iterate based on feedback.
 - `INS-260329-AB9A` Programming for your own use cases removes the hardest parts of software development and lets you focus purely on problem-solving.
+- `INS-260402-BEB6` A growth loop that completes in 30 minutes compounds far faster than one taking 30 days, making cycle time the primary optimization target.
 - `INS-260322-750A` Browse top-grossing apps, find categories with identical competitors, then build the same concept with a differentiated angle for an underserved segment.
 - `INS-260403-2FC3` YC launched its first batch with wet paint on the walls, a borrowed building, and a last-minute location change — and the structure barely changed afterward.
-- `INS-260402-BEB6` A growth loop that completes in 30 minutes compounds far faster than one taking 30 days, making cycle time the primary optimization target.
 - `INS-260404-8256` Plants produce 40 billion tons of inefficient RuBisCo rather than evolving one perfect enzyme—volume compensates for individual mediocrity.
 - `INS-260403-6C07` Solve the problem users have right now before expanding into the product you envision for the future.
 - `INS-260403-637C` RuBisCo was terrible at its job but vastly better than hoping to stumble on organic carbon — so the organism made tons of it and conquered the planet.

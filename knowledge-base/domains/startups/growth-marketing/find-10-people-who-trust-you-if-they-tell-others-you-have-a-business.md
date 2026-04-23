@@ -45,8 +45,8 @@ stance: >-
 related:
   - INS-260328-FF2C
   - INS-260330-49A4
+  - INS-260423-7396
   - INS-260413-3C99
   - INS-260329-A7E2
-  - INS-260329-B0BA
 ---
 Godin's most actionable framework: start with 10 people who trust you. Bring them your idea. If they don't tell others, you need to make something better — not spend more on promotion. If they do tell others, you're onto something. He proved this with Purple Cow: sold 5,000 copies through a Fast Company column offer (send $5, get a free copy), broke even, did zero additional promotion, and it went on to sell millions. The book wasn't the 'best ever written' — but it was easy to talk about, and reading it made your life better (your boss would be impressed you were reading it). This is the opposite of the growth-hacking playbook: instead of scaling distribution, scale the story's worthiness of being told.

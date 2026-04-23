@@ -59,11 +59,11 @@ related:
   - INS-260323-FE69
   - PRI-260328-D401
   - INS-260403-B87D
-  - INS-260403-DF37
   - INS-260405-C709
   - INS-260409-53F7
   - INS-260404-6BD6
   - PRI-260407-2ACF
+  - INS-260410-F7B8
 ---
 Ege Erdil notes that popular automation estimates hinge on a wrong mental model: 'travel agents book flights, therefore automating flight-booking automates travel agents.' But the fraction of a travel agent's time spent on flight-booking is small; most of the work is client communication, problem-solving, negotiation, and handling exceptions. Even if AI can book flights perfectly by end of 2026, travel agent jobs don't disappear.
 

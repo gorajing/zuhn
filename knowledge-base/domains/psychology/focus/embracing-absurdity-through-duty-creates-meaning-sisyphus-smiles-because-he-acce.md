@@ -56,7 +56,7 @@ related:
   - INS-260325-0172
   - INS-260323-FC5B
   - INS-260322-3CFB
-  - INS-260327-F6B2
+  - INS-260327-7581
 stance: >-
   Camus's Sisyphus finds happiness not by winning but by embracing the
   insurmountable task with full commitment

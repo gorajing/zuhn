@@ -47,10 +47,11 @@ stance: >-
   selection operates faster than corporate decision-making
 related:
   - INS-260321-D01E
-  - INS-260403-AC5E
   - INS-260403-D2B1
+  - INS-260403-AC5E
   - PRI-260328-4CC0
   - PRI-260406-9D48
+  - INS-260423-5998
 evidence:
   - id: INS-260321-D01E
     type: CONTRADICTS

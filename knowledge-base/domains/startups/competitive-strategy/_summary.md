@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 621 insights
+> 622 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -448,6 +448,7 @@
 - `INS-260403-7E95` [high] Competitive advantage only materializes when outperformance maps to the specific metrics customers use to evaluate success.
 - `INS-260403-58BA` [high] Stripping bureaucracy to maintain speed over 20 years made Palantir impossible to compete with.
 - `INS-260329-7CDE` [high] Never enter an arms race of who can produce the most low-quality output — the platform (Google, Apple, OpenAI) wins, not you.
+- `INS-260423-5998` [high] Michael Seibel: the Facebook platform slop wars — no one competing with Zynga won; Facebook won.
 - `INS-260403-11F9` [high] The 'data moat' is largely a fallacy—architectural feedback loops that compound over time are what actually create defensibility.
 - `INS-260403-65D2` [high] Multi-layer systems exhibit emergent rigidity that single layers don't, because elements trap each other rather than flowing freely.
 - `INS-260403-E748` [high] Extreme strength at the core does not protect against catastrophic failure triggered at the weakest peripheral link.

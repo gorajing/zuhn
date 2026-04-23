@@ -10,12 +10,12 @@
 - `INS-260403-FAC0` People in passionate arguments are often arguing about two different things and sometimes even agree without realizing it.
 - `INS-260410-8C5F` Paine's framing: limited objectives ('you lose a province but stay in power') create settlement space, while unlimited objectives ('you're out of power') eliminate it entirely.
 - `INS-260404-6753` Consciously listening for the first 10 minutes and acknowledging the other side's logic disarms conflict more effectively than arguing.
-- `INS-260325-5A68` Wright warns that when things become fully black-and-white — all good or all evil — that is exactly when conflict becomes most dangerous.
 - `INS-260330-6C0E` Deliberately decide which relationships matter more than political agreement, and protect those while holding public figures to a different standard.
+- `INS-260325-5A68` Wright warns that when things become fully black-and-white — all good or all evil — that is exactly when conflict becomes most dangerous.
 - `INS-260403-D99D` The instinct to resolve a hater's complaint like a normal dispute wastes time because the complaint is not the actual driver.
+- `INS-260330-76DA` Debaters evaluate whether challenging a point is necessary for progress or merely satisfying — and let go of arguments that won't advance the overall dispute.
 - `INS-260326-F845` Founders who haven't had a real conversation with their co-founder in months know the relationship is over but choose years of pain over one hard conversation.
 - `INS-260327-3C96` You need to know whether you can work with people in extremely stressful situations — skills matter less than stress compatibility.
 - `INS-260330-8550` Spend 20+ hours with potential co-founders covering disagreements, work styles, and explicit divorce scenarios before committing.
 - `INS-260325-C5AE` Taking ownership of what your co-founder complains about ('I know I do this') stops the escalation cycle because they no longer need to prove their point.
-- `INS-260330-76DA` Debaters evaluate whether challenging a point is necessary for progress or merely satisfying — and let go of arguments that won't advance the overall dispute.
 - `INS-260326-8217` When someone reacts with anger to your feedback, shift from defensive mode to curiosity — ask why they're upset instead of matching their energy.

@@ -48,6 +48,7 @@ related:
   - PRI-260328-EAC4
   - PRI-260405-F20C
   - INS-260404-5CD3
+  - INS-260423-6CC0
 stance: >-
   America has 50,000 self-storage facilities and 2 billion sq ft of extra
   storage for 300M people — Europe has 5,000 facilities for 750M people

@@ -59,6 +59,7 @@ related:
   - INS-260403-F7DD
   - INS-260323-FEDF
   - PRI-260406-FCF0
+  - INS-260423-3F3B
 ---
 There is a critical distinction between startups that use AI as a feature and those built so that AI is the structural foundation. VCs in the current era are specifically screening for this difference. A company that bolts GPT onto an existing workflow is fundamentally different from one that reimagines the workflow around what AI uniquely enables.
 

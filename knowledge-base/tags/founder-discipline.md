@@ -1,5 +1,6 @@
 # Tag: founder-discipline
 
+- `INS-260423-7C1A` Dalton: you can oneshot a Salesforce clone, then oneshot the next TechCrunch-clone when that fails, and end up deep in pivot hell because the shiny thing is always what you know least about.
 - `INS-260327-F95F` When you can send Claude Code a TechCrunch article and get a working clone in an hour, the temptation to constantly pivot becomes almost irresistible — and that's exactly how startups die.
 - `INS-260410-431E` Morita turned down Bulova's 100,000-unit order for the TR-63 because Bulova demanded its own brand on the radio, and he later called it the single best business decision of his career.
 - `INS-260329-8B33` Taking six months to find a business you can acquire for free beats immediately starting one that costs your life savings.

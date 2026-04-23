@@ -51,6 +51,7 @@ related:
   - PRI-260328-FA83
   - INS-260327-D1B7
   - INS-260326-286F
+  - INS-260423-77DF
 stance: >-
   Even after a major win, assume your competitor has achieved the same advantage
   and continue producing at maximum intensity.

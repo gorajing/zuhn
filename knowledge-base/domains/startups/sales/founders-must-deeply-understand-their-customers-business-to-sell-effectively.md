@@ -46,7 +46,6 @@ stance: >-
   A founder who cannot articulate their customer's top three business problems
   is not ready to sell to them.
 related:
-  - INS-260327-47BA
   - INS-260327-4212
   - INS-260328-0540
   - INS-260330-0BBA

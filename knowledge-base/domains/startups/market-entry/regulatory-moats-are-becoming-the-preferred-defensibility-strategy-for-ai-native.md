@@ -61,7 +61,6 @@ stance: >-
   using compliance complexity as a deliberate competitive moat, not just
   tolerating it as a cost of entry.
 related:
-  - INS-260327-5A72
   - INS-260404-F38A
   - PRI-260406-263A
   - PRI-260328-0123

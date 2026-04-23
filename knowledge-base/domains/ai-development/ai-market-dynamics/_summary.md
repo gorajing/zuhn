@@ -1,6 +1,6 @@
 # Topic: ai-market-dynamics
 
-> 161 insights
+> 162 insights
 
 - `INS-260321-86F1` [high] China is stealing American AI models, removing all guardrails, and potentially deploying them against the US — creating an absurd scenario where America fights with one arm tied behind its back against its own technology.
 - `INS-260327-5690` [high] Traditional SaaS sells productivity enhancement to workers; vertical AI agents sell the work itself, accessing the entire cost of labor as TAM rather than just the software budget.
@@ -94,6 +94,7 @@
 - `INS-260327-CB1E` [high] Semiconductor companies prize long-term sincerity over technical superiority -- Nota built partnerships with 17 chip companies by showing up consistently at regular meetings and demonstrating steady progress over years.
 - `INS-260409-A200` [high] AI companies shape tech journalism by controlling executive access, and only reporters who've been blacklisted can tell the full story.
 - `INS-260403-02E2` [high] Treating AGI arrival as an instant winner-take-all event is faith-based reasoning that substitutes for sound business fundamentals.
+- `INS-260423-4DD5` [high] Seth Godin: you can't cost-reduce yourself to greatness — the current cycle is cost reduction but the opportunity is using AI to make things better.
 - `INS-260403-CEAD` [high] Bio Anchors accurately predicted willingness-to-spend and cost-per-FLOP trends through 2025, correctly forecasting the massive data center buildout from observable investment patterns.
 - `INS-260421-BD7F` [high] At AI Agents SF #12 all 5 memory vendors competed on retrieval sophistication; the words 'compression,' 'principle,' 'doctrine,' and 'retirement' did not appear once in 1h 42m.
 - `INS-260323-197A` [high] The winning AI skill isn't prompting — it's architectural thinking: define the outcome, get AI to interview you about constraints, then have AI write its own implementation plan.

@@ -51,6 +51,7 @@ stance: >-
   blueprint for public AI regulatory infrastructure
 related:
   - INS-260320-1B10
+  - INS-260423-1C4D
   - INS-260329-92E9
   - INS-260323-01F9
   - INS-260410-D03C

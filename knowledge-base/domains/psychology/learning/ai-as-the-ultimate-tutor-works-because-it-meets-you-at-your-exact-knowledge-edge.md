@@ -56,11 +56,11 @@ stance: >-
 related:
   - INS-260327-D76A
   - INS-260329-D159
+  - INS-260423-61B6
   - INS-260403-6711
   - INS-260323-D400
   - INS-260320-5F14
   - INS-260329-BE50
-  - INS-260329-69F0
 evidence:
   - id: INS-260320-5F14
     type: EXTENDS

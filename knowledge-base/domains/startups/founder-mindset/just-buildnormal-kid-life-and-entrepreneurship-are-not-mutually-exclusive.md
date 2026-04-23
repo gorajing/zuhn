@@ -48,7 +48,6 @@ stance: >-
   the spirit of building is authentic rather than forced.
 related:
   - INS-260325-B4D1
-  - INS-260320-70FA
   - INS-260403-393C
   - INS-260327-E039
   - INS-260410-2AF4

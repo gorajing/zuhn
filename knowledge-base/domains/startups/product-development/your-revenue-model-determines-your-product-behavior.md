@@ -44,7 +44,6 @@ stance: >-
   ad-supported companies will always drift toward attention-grabbing regardless
   of stated values.
 related:
-  - INS-260321-3312
   - INS-260323-FF23
   - INS-260324-2AD8
   - INS-260323-0026
@@ -54,6 +53,7 @@ related:
   - INS-260410-7075
   - INS-260410-1C96
   - INS-260404-7325
+  - INS-260403-E71A
 evidence:
   - id: INS-260327-AD0D
     type: CHALLENGES

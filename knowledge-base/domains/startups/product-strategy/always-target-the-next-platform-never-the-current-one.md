@@ -64,9 +64,9 @@ stance: >-
 related:
   - PRI-260328-A1AA
   - INS-260323-AB5F
+  - INS-260423-5998
   - INS-260327-0FA9
   - INS-260327-5CB0
-  - INS-260403-8011
 ---
 Microsoft Multiplan tried to compete with Lotus 1-2-3 on the existing 8-bit/character-mode platform and got crushed. Lotus dominated by counter-positioning: building specifically for the IBM PC's capabilities. Microsoft's lesson, internalized hard, was that in a fast-moving technology landscape you should never fight the last war. The applications team got an explicit mandate to look around at the most cutting-edge platform — regardless of what the rest of the company was doing — and build the killer app for it. That platform turned out to be the Macintosh GUI, and the killer app became Excel, the world's first graphical spreadsheet.
 

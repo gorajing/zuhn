@@ -30,8 +30,8 @@
 - `INS-260329-1F3F` Burning your escape routes forces the persistence that passion-based motivation cannot sustain.
 - `INS-260409-2AF8` When prospects pay with time now, they are more likely to pay with money later.
 - `INS-260403-AA8F` Founders stick with bad ideas because invested time feels like evidence of quality, not because better ideas don't exist.
+- `INS-260323-F9E5` The most expensive period of a failing startup is not the building phase — it's the denial phase after the founder already knows it won't work.
 - `INS-260405-E353` Costco's maze-like layout and IKEA's self-assembly both work because they make customers feel like active participants who earned their reward rather than passive consumers.
 - `INS-260330-53A9` RuBisCo fails ~50% of the time but plants compensate with 40 billion tons of it rather than evolving a replacement — a textbook case of strategic lock-in.
 - `INS-260330-54ED` RuBisCo is terrible at its job but plants produce 40 billion tons of it rather than evolving a replacement, illustrating how early commitment to a suboptimal strategy creates permanent compensatory overhead.
 - `INS-260403-9B3A` RuBisCo's evolutionary story shows how early strategic commitments become permanent even when they stop working well.
-- `INS-260323-F9E5` The most expensive period of a failing startup is not the building phase — it's the denial phase after the founder already knows it won't work.

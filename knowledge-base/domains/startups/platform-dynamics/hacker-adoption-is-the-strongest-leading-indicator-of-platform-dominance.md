@@ -47,7 +47,6 @@ stance: >-
   market within a decade, because novel software originates with great hackers
   who write first for their own machine.
 related:
-  - INS-260328-C12D
   - INS-260403-8F6E
   - INS-260328-91A1
   - INS-260325-BC2A

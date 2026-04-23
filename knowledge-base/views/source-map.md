@@ -1,5 +1,5 @@
 # Source Map
-Generated on 2026-04-21 | 2469 sources
+Generated on 2026-04-23 | 2509 sources
 
 | Source | Type | Insights | Date |
 |--------|------|----------|------|
@@ -112,6 +112,7 @@ Generated on 2026-04-21 | 2469 sources
 | If you're ambitious and in your 20s or 30s, please watch this. | youtube | 10 | 2026-03-30 |
 | "I'm Broke... What Should I Do?" | youtube | 10 | 2026-03-30 |
 | Introduction to Programming and Computer Science - Full Course | youtube | 10 | 2026-03-29 |
+| Is AI Hiding Its Full Power? With Geoffrey Hinton | youtube | 10 | 2026-04-23 |
 | Karpathy의 Obsidian RAG와 Claude Code 조합, 정말 치트키입니다 | youtube | 10 | 2026-04-09 |
 | Learn JavaScript - Full Course for Beginners | youtube | 10 | 2026-03-29 |
 | Lecture 1 - How to Start a Startup (Sam Altman, Dustin Moskovitz) | youtube | 10 | 2026-03-31 |
@@ -185,13 +186,16 @@ Generated on 2026-04-21 | 2469 sources
 | A $350,000 AI AD Using Only 1 Tool (2026) | youtube | 8 | 2026-04-09 |
 | A Day In My Life for Longevity (Live to 120+) | youtube | 8 | 2026-03-26 |
 | Ben Shapiro vs Destiny Debate: Politics, Jan 6, Israel, Ukraine & Wokeism | Lex Fridman Podcast #410 | youtube | 8 | 2026-03-30 |
+| Claude Code & MCPs built my $145K marketing machine | youtube | 8 | 2026-04-23 |
 | DNA Structure and Replication: Crash Course Biology #10 | youtube | 8 | 2026-03-30 |
 | Elon Musk: War, AI, Aliens, Politics, Physics, Video Games, and Humanity | Lex Fridman Podcast #400 | youtube | 8 | 2026-03-30 |
 | Everything You Want Comes When You Let Go | youtube | 8 | 2026-04-09 |
+| Gemma 4 production stack: Model Armor, ADK Agents, Tracing | youtube | 8 | 2026-04-23 |
 | '50 AI Agents Running My Company' Is a Lie — Gumloop, Max Brodeur-Urbas | youtube | 8 | 2026-03-20 |
 | How a CPU Works in 100 Seconds // Apple Silicon M1 vs Intel i9 | youtube | 8 | 2026-03-30 |
 | How High Can We Build? | youtube | 8 | 2026-03-30 |
 | How Moneyball Ruined Your Favorite Snacks | youtube | 8 | 2026-03-24 |
+| How to Build a Remarkable Brand in the Age of AI | Seth Godin | youtube | 8 | 2026-04-23 |
 | I Waterproofed Myself With Aerogel! | youtube | 8 | 2026-03-30 |
 | Inside Standard Capital: New $425M Series A Fund, Explained | youtube | 8 | 2026-03-29 |
 | Lecture 17 - How to Design Hardware Products (Hosain Rahman) | youtube | 8 | 2026-03-31 |
@@ -200,12 +204,14 @@ Generated on 2026-04-21 | 2469 sources
 | Men are dying at alarming rates | Richard Reeves | youtube | 8 | 2026-03-25 |
 | Neil deGrasse Tyson: 3 mind-blowing space facts | Big Think | youtube | 8 | 2026-03-30 |
 | Shockingly Good Predictions | youtube | 8 | 2026-03-29 |
+| Slop vs Craft | youtube | 8 | 2026-04-23 |
 | STRAPPED INTO A SINKING HELICOPTER (with U.S. Marines) - Smarter Every Day 201 | youtube | 8 | 2026-03-30 |
 | Testing if 60 minutes of silence drives you crazy | youtube | 8 | 2026-03-30 |
 | The Truth is Finally Coming Out… About Health Freedom | youtube | 8 | 2026-03-26 |
 | Tucker Carlson: Putin, Navalny, Trump, CIA, NSA, War, Politics & Freedom | Lex Fridman Podcast #414 | youtube | 8 | 2026-03-30 |
 | We are living through a slowdown in human progress | Jason Crawford | youtube | 8 | 2026-03-25 |
 | What Happens If You Take Collagen Every Day? | youtube | 8 | 2026-03-26 |
+| What You Can Learn From Our $20B Groq Deal | youtube | 8 | 2026-04-23 |
 | Why Bing Isn't a Failure (& the Future of the Internet) | youtube | 8 | 2026-03-30 |
 | Why every computer still follows a 1940s blueprint | David Alan Grier: Full Interview | youtube | 8 | 2026-03-25 |
 | World's Lightest Solid! | youtube | 8 | 2026-03-30 |
@@ -740,7 +746,6 @@ Generated on 2026-04-21 | 2469 sources
 | Conflict in Israel and Palestine through 2015: Crash Course World History #223 | youtube | 5 | 2026-03-30 |
 | Controlling Your Dopamine For Motivation, Focus & Satisfaction | youtube | 5 | 2026-03-30 |
 | Costco (Audio) | youtube | 5 | 2026-04-11 |
-| Dario Amodei — “We are near the end of the exponential” | youtube | 5 | 2026-04-10 |
 | David Deutsch: Knowledge Creation and The Human Race, Part 1 | youtube | 5 | 2026-03-30 |
 | David Kipping: Alien Civilizations and Habitable Worlds | Lex Fridman Podcast #355 | youtube | 5 | 2026-03-30 |
 | Deep Dive into LLMs like ChatGPT | youtube | 5 | 2026-04-10 |
@@ -833,7 +838,6 @@ Generated on 2026-04-21 | 2469 sources
 | If I Wanted To Become a Millionaire in 2026, This Is What I'd Do [FULL BLUEPRINT] | youtube | 5 | 2026-03-30 |
 | If you want 2026 to be the best year of your life. Please watch this video… | youtube | 5 | 2026-03-30 |
 | IKEA (Audio) | youtube | 5 | 2026-04-11 |
-| Ilya Sutskever – We're moving from the age of scaling to the age of research | youtube | 5 | 2026-04-10 |
 | Indian Premier League Cricket (Audio) | youtube | 5 | 2026-04-11 |
 | Infinity, Paradoxes, Gödel Incompleteness & the Mathematical Multiverse | Lex Fridman Podcast #488 | youtube | 5 | 2026-03-23 |
 | Inside a16z’s Top 100 AI Apps Report with Olivia Moore | youtube | 5 | 2026-03-22 |
@@ -930,7 +934,6 @@ Generated on 2026-04-21 | 2469 sources
 | Science of Muscle Growth, Increasing Strength & Muscular Recovery | youtube | 5 | 2026-03-30 |
 | Sessions: David Senra (Founders Podcast) | youtube | 5 | 2026-04-11 |
 | Singapore: The World's Only Successful Dictatorship? | youtube | 5 | 2026-03-30 |
-| Slop vs Craft | youtube | 5 | 2026-03-29 |
 | Solving Wordle using information theory | youtube | 5 | 2026-03-30 |
 | Some thoughts on the Sutton interview | youtube | 5 | 2026-04-10 |
 | Something Strange Happens When You Follow Einstein's Math | youtube | 5 | 2026-03-30 |
@@ -1883,7 +1886,6 @@ Generated on 2026-04-21 | 2469 sources
 | Tim Sweeney: Fortnite, Unreal Engine, and the Future of Gaming | Lex Fridman Podcast #467 | youtube | 3 | 2026-03-24 |
 | Top 6 Sales Interview Questions and Answers for SaaS Sales, Software Sales & Tech Sales | youtube | 3 | 2026-03-27 |
 | Tulsi Gabbard: War, Politics, and the Military Industrial Complex | Lex Fridman Podcast #423 | youtube | 3 | 2026-03-24 |
-| 🙇 겸손하게 살아야 할까? 에 대한 솔직한 생각 털어보기 | youtube | 3 | 2026-03-27 |
 | Walter Isaacson: Elon Musk, Steve Jobs, Einstein, Da Vinci & Ben Franklin | Lex Fridman Podcast #395 | youtube | 3 | 2026-03-24 |
 | What Happens If You Keep Slowing Down? | youtube | 3 | 2026-03-23 |
 | What if it actually works out? | youtube | 3 | 2026-03-22 |
@@ -2472,3 +2474,41 @@ Generated on 2026-04-21 | 2469 sources
 | You Are Taking Creatine Wrong (here's how to fix it) | youtube | 1 | 2026-03-26 |
 | You Will Never Wear AirPods Again | youtube | 1 | 2026-03-26 |
 | You'll Never Eat Sardines Again | youtube | 1 | 2026-03-26 |
+| 하버드대에서 밝힌 「삶에 여유가 없을수록 꼭 해야하는 1가지」 | youtube | 0 | 2026-04-23 |
+| "10배 저렴한데, 효과는 더 좋습니다!" 피부과 의사가 매일 쓰고 효과 본 재생크림 6가지 추천 | youtube | 0 | 2026-04-23 |
+| 10년 전, 젠슨 황과 일론 머스크가 본 미래 | 거장들의 대화 Ep.01 | youtube | 0 | 2026-04-23 |
+| "딱 3년만 미친듯이 해보세요" 1조 기업 회장이 말하는 AI 시대의 진짜 생존 공식 (feat. 언러닝 학습법) | youtube | 0 | 2026-04-23 |
+| 수면 전문의가 매일 아침 스마트워치로 체크하는 '3가지'ㅣ지식인초대석 EP.117 (주은연 교수 2부) | youtube | 0 | 2026-04-23 |
+| 뇌과학자가 '이 책' 읽고 하지 않게 된 4가지 "생각 수준이 달라진다"  (사람산책 통합본) | youtube | 0 | 2026-04-23 |
+| 뇌과학자가 말하는 AI 시대에도 끝까지 살아남는 5가지 능력 ㅣ 김대식 교수님의 고전 책 5권 추천 ㅣ도서리뷰 | youtube | 0 | 2026-04-23 |
+| Are SaaS Companies Cooked: Which Thrive & Which Die | Aaron Levie | youtube | 0 | 2026-04-23 |
+| Ben Horowitz on AI Anxiety, Big Tech Transitions & The Future of Startups | a16z | youtube | 0 | 2026-04-23 |
+| Box CEO on the AI Adoption Gap | The a16z Show | youtube | 0 | 2026-04-23 |
+| CI/CD Breaks at AI Speed: Tangle, Graphite Stacks, Pro-Model PR Review — Mikhail Parakhin, Shopify | youtube | 0 | 2026-04-23 |
+| Dario Amodei — “We are near the end of the exponential” | youtube | 0 | 2026-04-23 |
+| Everyday Foods that Feed CANCER Cells | youtube | 0 | 2026-04-23 |
+| Extreme Harness Engineering: 1M LOC, 1B toks/day, 0% human code or review — Ryan Lopopolo, OpenAI | youtube | 0 | 2026-04-23 |
+| Former Warner Records President REVEALS How Great Artists Are Built | youtube | 0 | 2026-04-23 |
+| François Chollet: Why Scaling Alone Isn’t Enough for AGI | youtube | 0 | 2026-04-23 |
+| Google Dorking (Find Everything Online!) | youtube | 0 | 2026-04-23 |
+| How Bots, Deepfakes and AI Agents Are Forcing a New Internet Identity Layer | Alex Blania on a16z | youtube | 0 | 2026-04-23 |
+| How to Launch a Product Without a Following (What Actually Works) | youtube | 0 | 2026-04-23 |
+| How to Reorg After AI Changes Everything | Block's Owen Jennings on the a16z Show | youtube | 0 | 2026-04-23 |
+| ⚡️ How to turn Documents into Knowledge: Graphs in Modern AI — Emil Eifrem, CEO Neo4J | youtube | 0 | 2026-04-23 |
+| Ilya Sutskever – We're moving from the age of scaling to the age of research | youtube | 0 | 2026-04-23 |
+| I'm begging you to start writing essays (even if you hate writing) | youtube | 0 | 2026-04-23 |
+| It's Tough, But It Gets You Abs In 60 Days | youtube | 0 | 2026-04-23 |
+| Jack Dorsey: Every Company Can Now Be a Mini-AGI | youtube | 0 | 2026-04-23 |
+| Jensen Huang – Will Nvidia’s moat persist? | youtube | 0 | 2026-04-23 |
+| Notion’s Sarah Sachs & Simon Last on Custom Agents, Evals, and the Future of Work | youtube | 0 | 2026-04-23 |
+| OpenAI Buys TBPN & Their Management Team Reboot | Mercor Hack & Why Now is the Time for Cyber | youtube | 0 | 2026-04-23 |
+| OpenClaw, Claude Code, and the Future of Software | Peter Yang on The a16z Show | youtube | 0 | 2026-04-23 |
+| 앞으로 PPT는 직접 안 만들 겁니다 | youtube | 0 | 2026-04-23 |
+| Project Hail Mary's Science Is More Real Than You Think | youtube | 0 | 2026-04-23 |
+| Raw Day Inside $100M+ Venture Capital Firm in Silicon Valley | youtube | 0 | 2026-04-23 |
+| ⚡️ The best engineers don't write the most code. They delete the most code. — Stay Sassy | youtube | 0 | 2026-04-23 |
+| The Early Days of Anthropic & How 21 of 22 VCs Rejected It | The Four Bottlenecks in AI | Anj Midha | youtube | 0 | 2026-04-23 |
+| The GPT Moment for Robotics Is Here | youtube | 0 | 2026-04-23 |
+| 수준 높은 대화 (구글 전 대표) | youtube | 0 | 2026-04-23 |
+| Why Balaji Srinivasan Thinks the SaaS Apocalypse Is Overhyped | The a16z Show | youtube | 0 | 2026-04-23 |
+| Why Claude Feels Different (And What That Means for AI) | The a16z Show | youtube | 0 | 2026-04-23 |

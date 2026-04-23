@@ -60,6 +60,7 @@ related:
   - INS-260409-B122
   - INS-260405-A992
   - INS-260409-F0F5
+  - INS-260423-74BF
 ---
 Linda from MiniMax described a vision (attributed to OpenClaw's Peter) where each person has a master agent that holds their complete memory and personal data locally, maintaining full privacy. This master agent then spawns sub-agents with deliberately limited access and different personas for different contexts: a professional sub-agent for the Microsoft workspace, a casual one for social networks, a different persona for dating apps. Each sub-agent gets only the data and communication style appropriate for its environment.
 

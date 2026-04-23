@@ -57,8 +57,8 @@ related:
   - INS-260403-03CC
   - INS-260327-C79D
   - INS-260403-00D7
+  - INS-260423-81C4
   - INS-260403-4960
-  - INS-260404-A526
 evidence:
   - id: INS-260327-C79D
     type: EXTENDS

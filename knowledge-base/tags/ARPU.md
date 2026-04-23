@@ -1,3 +1,3 @@
-# Tag: ARPU
+# Tag: arpu
 
-- `INS-260403-D2A9` Bundling financial services raises ARPU enough to unlock marketing channels that were previously uneconomical.
+- `INS-260403-12B4` Minor metric misestimates in churn and ARPU compound over 12 months into massive revenue shortfalls.

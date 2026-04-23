@@ -1,6 +1,6 @@
 # Topic: product
 
-> 24 insights
+> 25 insights
 
 - `INS-260403-6CE6` [high] Treating aid recipients as product users with real feedback loops produces dramatically better outcomes than top-down charity models.
 - `INS-260403-8DA1` [high] Never assume other teams see your project as a priority — explicitly demonstrate impact on their specific goals.
@@ -19,6 +19,7 @@
 - `INS-260403-637C` [high] RuBisCo was terrible at its job but vastly better than hoping to stumble on organic carbon — so the organism made tons of it and conquered the planet.
 - `INS-260403-22EE` [high] Bad comments set the tone for entire threads and attract more bad comments, while bad submissions exist in isolation — requiring different moderation strategies.
 - `INS-260403-A7D0` [high] Gut-feel product decisions waste time and money building features nobody wants — systematic assumption testing is the mitigation.
+- `INS-260423-2134` [high] Michael: it's bad, but just let me add 10 more features — that's the feature treadmill, and AI tools make it easier than ever to do.
 - `INS-260403-66AE` [high] User-voted platforms must actively suppress low-effort-to-judge content or it will inevitably dominate the feed.
 - `INS-260403-7F06` [high] Reddit beat Slashdot because user submissions made content fresher than human moderators could achieve, and users always follow the newest news.
 - `INS-260403-AEAF` [high] The same attributes that built a brand's dominance can become its biggest handicap when customer values shift.

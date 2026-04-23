@@ -5,14 +5,14 @@
 - `INS-260330-B076` Nearly all life on Earth is fusion-powered — photons from solar fusion cascade through photosynthesis into every biological process, revealing how apparent diversity masks single-source dependency.
 - `INS-260412-BC15` Sri Lanka tripled external debt from 2006-2012 to double GDP per capita, but the growth vanished the moment tourism revenue and export capacity were disrupted.
 - `INS-260412-10F1` The 2021 shipping crisis showed that a 25% demand increase caused delays and costs to spiral far beyond 25% because congestion compounds through interdependent chokepoints.
-- `INS-260330-BA7F` Every oxygen molecule we breathe originates from Photosystem II splitting water — a single reaction point sustaining all aerobic life.
-- `INS-260330-D582` Reversing just one variable in bicycle steering — handlebars to wheel direction — made riding impossible for everyone who tried, despite 99% of the physical system remaining identical.
 - `INS-260323-6357` Much of democracy's stability relies on unwritten norms rather than enforceable laws — a shameless norm-violator reveals how fragile the system really is.
 - `INS-260325-F5CA` The same interconnections that create prosperity become transmission vectors for cascading collapse.
 - `INS-260330-6AED` The leading theory for the Indus Valley's collapse is that the Indus River shifted course, destroying the agricultural base of an otherwise advanced civilization.
 - `INS-260327-5140` Marmont's divisions were spread too thin, and when one was broken, the entire French line collapsed division by division in a cascade of failures.
 - `INS-260330-59BC` Singapore's lack of accountability let the PAP implement excellent policies efficiently, but the same lack of checks means a less benevolent successor could do permanent, lethal damage with no mechanism for removal.
 - `INS-260325-3A0E` WWI proves that interlocking alliance systems turn local crises into global catastrophes — complexity creates systemic fragility.
+- `INS-260330-BA7F` Every oxygen molecule we breathe originates from Photosystem II splitting water — a single reaction point sustaining all aerobic life.
+- `INS-260330-D582` Reversing just one variable in bicycle steering — handlebars to wheel direction — made riding impossible for everyone who tried, despite 99% of the physical system remaining identical.
 - `INS-260412-2B91` Russia planned for a 3-5 day war with no logistics fallback, so when Ukraine resisted, the entire invasion apparatus broke down simultaneously.
 - `INS-260330-A3EB` RuBisCo was perfectly adequate in a low-oxygen atmosphere but became fundamentally broken when plants' own oxygen output changed the environment — optimization creates invisible assumptions.
 - `INS-260330-4E55` The neo-Assyrian Empire collapsed partly because its theology required perpetual conquest — one loss shattered the entire worldview.

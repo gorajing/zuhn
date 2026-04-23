@@ -44,9 +44,9 @@ resolutions:
 related:
   - PRI-260328-8F94
   - INS-260324-988E
+  - INS-260423-4402
   - INS-260324-468C
   - INS-260327-58AC
-  - INS-260403-7881
 stance: >-
   European football clubs generate billions in revenue from merchandise, TV
   rights, and sponsorships

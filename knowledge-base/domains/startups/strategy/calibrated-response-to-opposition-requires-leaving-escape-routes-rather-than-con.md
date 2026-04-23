@@ -55,9 +55,9 @@ related:
   - INS-260403-6861
   - INS-260412-47D5
   - INS-260412-891B
+  - INS-260423-31A1
   - INS-260403-4D45
   - INS-260410-A992
-  - INS-260330-2718
 ---
 A critical principle of riot control is the distinction between containing violence and containing people. Police deliberately leave escape routes for demonstrators who decide they've had enough. Full containment would trap people who want to leave alongside those who want to fight, converting potential defectors into cornered combatants. The intimidating appearance and formation of riot police serves this exact function — not to crush opposition, but to make leaving the attractive option.
 

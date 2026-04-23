@@ -57,7 +57,7 @@ related:
   - INS-260409-5CF4
   - INS-260402-8D38
   - INS-260329-8BD3
-  - INS-260320-4993
+  - INS-260423-6FB5
 ---
 Karpathy's reading workflow for texts like Adam Smith's Wealth of Nations (1776) or unfamiliar biology papers: find the raw text (Project Gutenberg, PDF), paste the specific chapter into the LLM's context window, and read with the model as a live tutor. Crucially, he doesn't just ask the model about the book — he loads the actual text, because the model's parametric knowledge of classic books is hazy and it will hallucinate chapter content if asked from memory.
 

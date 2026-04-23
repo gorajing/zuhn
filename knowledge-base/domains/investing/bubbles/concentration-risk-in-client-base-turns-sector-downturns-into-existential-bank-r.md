@@ -52,7 +52,6 @@ stance: >-
   sector stress, making traditional diversification assumptions about deposit
   stability invalid.
 related:
-  - INS-260327-CC05
   - INS-260330-5958
   - INS-260403-E1EB
   - INS-260403-1C09
@@ -62,6 +61,7 @@ related:
   - INS-260403-4AB2
   - INS-260403-5056
   - INS-260403-8EE8
+  - INS-260403-7045
 ---
 SVB held deposits from nearly 50% of all US venture-backed startups. This concentration created a doom loop: when rising interest rates choked off venture funding, startups simultaneously (1) stopped making new deposits, (2) began drawing down existing deposits to fund operations, and (3) panicked in unison when trouble appeared — $42 billion withdrawn in a single day. The correlated behavior of a homogeneous depositor base turned what might have been manageable attrition into an extinction-level bank run.
 

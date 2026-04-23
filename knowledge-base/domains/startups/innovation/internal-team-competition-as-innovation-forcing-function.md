@@ -48,6 +48,6 @@ related:
   - INS-260330-36DB
   - INS-260325-502D
   - INS-260330-C24F
-  - INS-260412-7CED
+  - INS-260423-5998
 ---
 Steve Jobs let Tony Fadell's iPod-enlargement team and Scott Forstall's shrunken-Mac-OS team compete head-to-head without cross-visibility. This internal competition forced both teams to produce their best work under pressure. The underdog Forstall team ultimately won because they bet correctly that mobile chips were powerful enough to run a real OS. The approach is expensive — it doubles engineering effort and creates political tension — but it prevents premature convergence on a safe but inferior solution. This mirrors Amazon's two-pizza team philosophy and is most valuable when the design space is genuinely uncertain and the stakes justify the cost.

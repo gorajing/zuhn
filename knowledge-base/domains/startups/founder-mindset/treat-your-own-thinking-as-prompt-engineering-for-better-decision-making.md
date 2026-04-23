@@ -42,10 +42,10 @@ stance: >-
   reasoning ability.
 related:
   - INS-260327-27DA
+  - INS-260423-00AC
   - INS-260322-B3D0
   - INS-260327-8521
   - INS-260326-98A0
-  - INS-260326-C692
 evidence:
   - id: INS-260325-2944
     type: SUPPORTS

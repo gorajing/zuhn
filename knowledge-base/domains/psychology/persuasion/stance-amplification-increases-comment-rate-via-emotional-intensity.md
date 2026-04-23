@@ -50,9 +50,9 @@ stance: >-
 related:
   - INS-260405-8BEA
   - INS-260323-A430
+  - INS-260423-3F3B
   - INS-260327-F405
   - INS-260403-EDFC
-  - PRI-260403-57EC
 ---
 The same underlying claim can be framed mildly or extremely, and the more extreme version consistently drives more comments. This is because mild framing activates weak emotion, and weak emotion rarely crosses the threshold that turns a passive viewer into a typing commenter. Extreme framing produces either strong agreement (enthusiasm) or strong disagreement (outrage), and both drive comment behavior.
 

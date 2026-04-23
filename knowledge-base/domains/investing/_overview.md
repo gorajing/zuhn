@@ -1,6 +1,6 @@
 # Domain: investing
 
-> 1389 insights across 11 topics
+> 1390 insights across 11 topics
 
 ## Topics
 
@@ -16,4 +16,4 @@
 | geopolitics | 584 | A 5% one-time levy on a 7% per year portfolio is recovered in about 9 months of normal returns, smaller than typical market volatility. |
 | macro | 92 | The Internet was commercialized in the early 1990s but only showed in productivity statistics in the late 1990s; at current debt accumulation of $7.2B/day, even an AI productivity miracle won't bend the ratio fast enough to displace financial repression. |
 | space-economy | 38 | Detecting an alien signal would statistically prove that technological civilizations can have long futures, because the math of detection requires that such technologies are long-lived on cosmic timescales. |
-| venture-capital | 305 | Declining VC distributions through 2024 are fundamentally altering the LP-GP relationship and fund economics. |
+| venture-capital | 306 | Declining VC distributions through 2024 are fundamentally altering the LP-GP relationship and fund economics. |

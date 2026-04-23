@@ -64,6 +64,7 @@ related:
   - INS-260410-AA40
   - PRI-260328-5F64
   - INS-260410-3D3B
+  - INS-260423-E64B
 ---
 Looking at the last decade of AI progress, algorithmic efficiency gains track hardware improvements closely, matching a pattern seen across traditional software (about 30%/year growth matching Moore's law). The biggest deep learning innovations—the transformer (harnessing parallel compute), flash attention (more efficient attention), chinchilla scaling laws (better compute allocation)—were all hardware-motivated.
 

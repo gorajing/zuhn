@@ -6,6 +6,9 @@
 - `INS-260404-E55F` New fund launches in late 2024 cluster around European deep tech and B2B software rather than US consumer tech.
 - `INS-260404-2D82` Frontier tech investing demands specialized fund structures that generalist VCs cannot effectively replicate.
 - `INS-260404-841B` NATO launched an innovation fund at its summit, merging venture capital with defense and political cooperation goals.
+- `INS-260423-64FA` Chamath's stated rubric for early-stage deep-tech disputes: back the technical person without whom the product wouldn't exist.
+- `INS-260423-E905` Chamath on Groq: We didn't have product-market fit for seven years. Replit had years of nothingness before the hockey stick.
+- `INS-260423-9F96` Chamath: in the pre-PMF years you have to find different ways of feeling rewarded that are not revenue or valuation — usually technical progress.
 - `INS-260327-0004` Nota AI started in 2015 but only generated significant revenue from 2023 -- they survived 7-8 years of market mismatch by maintaining conviction that their AI model optimization technology would eventually be needed.
 - `INS-260327-7D0B` Rwanda's Ministry of Health bet on Zipline the same day a mother died from a 9-hour blood delivery delay, anchoring the company's decade-long trajectory.
 - `INS-260403-A3DA` Trillions in non-dilutive government funding from the CHIPS Act, IRA, and IIJA create a new fundraising paradigm where creative capital stacking beats pure VC reliance.

@@ -1,6 +1,6 @@
 # Topic: growth-strategy
 
-> 79 insights
+> 81 insights
 
 - `INS-260329-AF18` [high] Before exploring new growth channels, exhaust 10x potential in your current working channel first.
 - `INS-260402-24B0` [high] Unlike SaaS where marginal cost trends to zero, every AI user incurs real compute cost, making undisciplined distribution a path to margin collapse.
@@ -26,6 +26,7 @@
 - `INS-260328-C12D` [high] Enterprise AI buying is real and fast, but predicting which products will endure is like picking winners in early mobile — nobody knows yet.
 - `INS-260329-9E6C` [high] Goodwill from overdelivering compounds into referrals, retention, and pricing power that outpaces short-term extraction.
 - `INS-260330-C7E6` [high] Coca-Cola used WWII patriotism to get government-funded bottling plants in 64 countries, turning the US military into a de facto sales force.
+- `INS-260423-6FB5` [high] Dalton: whenever I worked on retention, I had to start with 'am I helping the user?'; whenever I worked on topline growth, I was serving myself.
 - `INS-260403-B18C` [high] Exponential growth comes from stacking multiple self-reinforcing growth loops, not optimizing individual acquisition channels.
 - `INS-260403-4C42` [high] Design growth loops where the sharing mechanism is inseparable from the product's core experience, not a separate referral layer.
 - `INS-260403-5426` [high] Each GTM stage has its own valid acquisition playbook; using tactics from the wrong stage burns resources and generates false signals.
@@ -43,6 +44,7 @@
 - `INS-260404-899D` [high] Prioritize owned channels like virality and UGC over rented channels like paid social, because competitors can always outbid you on rented platforms.
 - `INS-260329-CCC4` [high] Two businesses with 300 customers have radically different trajectories — one with 100% churn needs ever-increasing acquisition, while one with 100% retention grows automatically.
 - `INS-260322-F128` [high] The #1 strategic decision is choosing a category you can realistically become #1 in — not just participate in — then killing everything else to focus all resources there.
+- `INS-260423-20ED` [high] Seth Godin: when you pick your customers, you pick your future — average people chose to be average, and they won't buy your book or your software.
 - `INS-260322-5650` [high] In 2026, customer feedback is too fast and too public for mediocre products to survive — subscriptions only work if the product genuinely delivers, and the founder should use their own product daily.
 - `INS-260330-3D0D` [high] Protocols create the most durable network effects but the creator must retain control of identity, addressing, or tokens to capture value — otherwise the standard becomes a public good they don't profit from.
 - `INS-260329-6079` [high] Price increases that reduce conversion by less than the price multiplier always increase total profit, and pricing is far more inelastic than most founders assume.

@@ -65,7 +65,6 @@ stance: >-
   the opposite of what will happen, and founders who defer to consultants for
   novel-category decisions will miss their largest opportunities.
 related:
-  - INS-260320-07A2
   - INS-260328-D2EC
   - INS-260330-1854
   - INS-260330-255F

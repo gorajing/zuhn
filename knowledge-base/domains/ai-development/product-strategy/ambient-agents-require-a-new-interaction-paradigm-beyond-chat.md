@@ -59,6 +59,7 @@ related:
   - INS-260327-FE24
   - INS-260403-656F
   - INS-260410-1ED3
+  - INS-260423-74BF
 ---
 Chase defines ambient agents as those triggered by events rather than human messages, running thousands of instances in the background with relaxed latency requirements. The key insight is that 'ambient does not mean fully autonomous' -- human interaction remains critical for better results, trust building, and most subtly, enabling the agent to learn from user feedback (no interaction means no memory-building data).
 

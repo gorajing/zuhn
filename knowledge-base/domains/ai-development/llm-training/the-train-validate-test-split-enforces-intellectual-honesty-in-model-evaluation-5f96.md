@@ -55,10 +55,10 @@ stance: >-
   inflated accuracy estimates that fail in production.
 related:
   - INS-260403-1F1B
+  - INS-260423-6172
   - INS-260403-FFEA
   - INS-260329-8CC0
   - INS-260326-0AB4
-  - INS-260330-C172
   - INS-260410-41DD
 evidence:
   - id: INS-260330-C172

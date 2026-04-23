@@ -61,7 +61,6 @@ stance: >-
   third-party developers as essential partners precisely when the incumbent
   treats them as dispensable.
 related:
-  - INS-260329-7CDE
   - INS-260403-05B8
   - INS-260403-8F6E
   - INS-260403-4964

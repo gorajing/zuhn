@@ -54,11 +54,11 @@ stance: >-
   Children with ADHD, migraines, and compulsive disorders can achieve clinically
   meaningful symptom reduction through structured placebo suggestion alone
 related:
+  - INS-260423-7396
   - INS-260330-0804
   - INS-260330-887A
   - INS-260402-DCC5
   - INS-260325-D994
-  - INS-260330-A256
 evidence:
   - id: INS-260330-0804
     type: CHALLENGES

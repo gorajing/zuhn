@@ -56,7 +56,6 @@ stance: >-
   kills product quality.
 related:
   - INS-260323-8AA1
-  - INS-260327-38D8
   - INS-260329-180B
   - INS-260403-F8AE
   - INS-260405-F705

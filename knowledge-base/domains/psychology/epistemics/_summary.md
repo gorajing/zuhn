@@ -1,6 +1,6 @@
 # Topic: epistemics
 
-> 80 insights
+> 82 insights
 
 - `INS-260412-0F94` [high] The empty universe is not a lack of data — it is the single most important data point in the Fermi Paradox.
 - `INS-260412-CC9E` [high] At sufficient scale, not finding what you'd expect to find is itself strong evidence that it doesn't exist.
@@ -25,7 +25,9 @@
 - `INS-260410-831F` [high] The Inquisition ignored Voltaire and the Encyclopédie to throw the book at Jansenist treatises about the Trinity — and Palmer says this pattern holds in every era she studies.
 - `INS-260410-8E0D` [high] Paine repeatedly tells Dwarkesh his questions are 'above my pay grade' — she can describe what the Japanese leadership faced, but can't say what was politically feasible for FDR without having served in government.
 - `INS-260412-491A` [high] Neutron star cores recreate Big Bang conditions, letting physicists study the universe's founding rules — extremes are windows to origins.
+- `INS-260423-9BA5` [high] Seth Godin: at Yahoo, the thing that wrecked the company was the stock ticker — 3,000 people watching it daily and doing whatever made it go up in one day, even when it wouldn't go up in one year.
 - `INS-260412-AC11` [high] Abstract awareness of mortality rarely changes behavior, but seeing '2,340 weeks left' creates visceral urgency that does.
+- `INS-260423-77DF` [high] Dalton: in the first 10% of the race, you look like you're winning — and sometimes forget you have 90% of the race to run.
 - `INS-260412-2E7D` [high] Cosmic expansion will eventually erase all evidence of other galaxies, making the Big Bang undiscoverable to future civilizations.
 - `INS-260405-1CAA` [high] You know what you believe but rarely why you believe it — the source code is gone.
 - `INS-260409-3FDE` [high] Contributor gizmax reproduced MemPalace's 96.6% LongMemEval R@5 on M2 Ultra in under 5 minutes using the public benchmark scripts — that reproduction is exactly what forced the retraction of the other overclaims by making ground truth reviewable.

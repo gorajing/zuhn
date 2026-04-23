@@ -42,9 +42,9 @@ stance: >-
 related:
   - PRI-260328-909D
   - INS-260327-D129
+  - INS-260423-4DD5
   - PRI-260328-935B
   - INS-260325-F500
-  - INS-260327-86FE
   - INS-260327-2915
 ---
 The decluttering movement does not reduce consumption because removing old possessions creates psychological permission and physical space for new purchases.

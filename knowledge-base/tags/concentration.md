@@ -10,12 +10,12 @@
 - `INS-260410-151D` Berkshire's equity portfolio concentrates asymmetrically: Apple at only 1.6% of company but $62B market value, American Express at 22.1% of company and $56B market value — conviction level, not diversification rules, drove the ownership percentage.
 - `INS-260403-693C` Index Ventures is reaping $11B+ from concentrated bets on Figma, Wiz, and Scale AI, positioning it as the new Sequoia.
 - `INS-260403-E407` Funding, talent, and attention are clustering around fewer startups, with AI and Bay Area companies dominating capital flows.
-- `INS-260403-E652` Technology inherently makes things more addictive by concentrating the desirable properties of their predecessors.
 - `INS-260410-A544` Once Mao put all peasants on communes, the party controlled food distribution — which meant Beijing was literally choosing who ate and who died, and 40 million starved.
 
 
 - `INS-260327-191B` At Rivoli, the Austrians attacked in multiple columns from different directions but Napoleon concentrated against each column before the others could arrive, defeating them piecemeal.
 - `INS-260327-33EA` Napoleon sat between two Austrian columns at Castiglione and defeated each before they could unite, demonstrating the classic interior lines advantage.
+- `INS-260403-E652` Technology inherently makes things more addictive by concentrating the desirable properties of their predecessors.
 - `INS-260412-121B` Neutron stars spin many times per second because collapsing from star-size to city-size concentrates all rotational energy into a tiny radius.
 - `INS-260403-CA93` Unlike agriculture, cities, and industrialization which all spread widely, the startup revolution may remain concentrated in a few dominant hubs.
 - `INS-260329-0117` The '7 income streams' advice is survivorship bias — millionaires built wealth by going all-in on one stream, then diversified to preserve it.

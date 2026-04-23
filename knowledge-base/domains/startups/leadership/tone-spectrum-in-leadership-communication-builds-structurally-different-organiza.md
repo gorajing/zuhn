@@ -46,7 +46,6 @@ stance: >-
   filters for different employee types and builds fundamentally different
   organizational cultures
 related:
-  - INS-260327-F867
   - INS-260403-15DA
   - INS-260327-F405
   - INS-260323-F853

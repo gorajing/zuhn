@@ -54,7 +54,6 @@ related:
   - INS-260402-31D8
   - INS-260403-2FAE
   - INS-260410-761E
-  - INS-260412-2B01
 evidence:
   - id: INS-260330-CAD2
     type: TRANSFERS_TO

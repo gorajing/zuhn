@@ -49,12 +49,11 @@ stance: >-
   framing
 related:
   - INS-260329-0CC5
-  - INS-260330-5609
   - INS-260330-541B
+  - INS-260330-5609
   - INS-260402-2CAF
   - INS-260329-64B8
   - PRI-260406-D3E4
-  - INS-260330-84F4
 evidence:
   - id: INS-260329-0CC5
     type: CHALLENGES

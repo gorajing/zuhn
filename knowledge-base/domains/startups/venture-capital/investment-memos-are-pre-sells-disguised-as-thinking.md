@@ -54,10 +54,10 @@ stance: >-
   it injects the author's bias and ego before the group ever meets the founder.
 related:
   - INS-260403-296C
+  - INS-260423-BD00
   - INS-260403-A36C
   - INS-260405-11EA
   - INS-260323-5B9F
-  - INS-260326-291C
 ---
 Benchmark's partners argue that memos serve two roles — forcing clarity of thought and acting as a sales artifact — and the second quietly corrupts the first. Writing one makes you commit to a narrative, fill in gaps the entrepreneur hasn't actually addressed, and layer your sector thesis or ego onto the company. By the time the founder walks in, the partnership is no longer evaluating them; it's evaluating your memo. Instead, Benchmark requires partners to verbally relay the calls and notes from their diligence, which forces them to distinguish between what they discovered and what they want to be true.
 

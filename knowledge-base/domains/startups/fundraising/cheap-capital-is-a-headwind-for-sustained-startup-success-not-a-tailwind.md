@@ -44,7 +44,6 @@ stance: >-
   startup succeeding by spreading capital and talent too thinly across too many
   competitors
 related:
-  - INS-260324-2AD8
   - INS-260330-9751
   - INS-260330-D98E
   - INS-260404-FD24

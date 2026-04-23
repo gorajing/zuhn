@@ -15,13 +15,15 @@
 - `INS-260403-889B` Moderate disengagement from online politics creates a selection effect that makes remaining discourse more extreme than the population it claims to represent.
 - `INS-260412-AFF7` WallStreetBets transformed GameStop from a trade into an identity movement where selling became moral betrayal, causing participants to hold through massive losses they would never accept in isolation.
 - `INS-260403-8C7E` Social media functions as a status marketplace where divisive hostility is the most reliable path to visibility and influence.
+- `INS-260403-958C` Online interaction encourages people to identify with distant interest-based groups over local physical communities.
+- `INS-260330-8D2C` The architecture of social media makes criticism indistinguishable from cruelty, so personal growth requires deliberately building and maintaining a trusted inner circle whose feedback you actually internalize.
 - `INS-260403-3800` Gen Z reports needing $588K income to feel financially successful — 13x the median — likely driven by influencer exposure.
 - `INS-260323-4718` The day-to-day quiet enjoyment of ordinary life — chips on the couch, a gym session, time with pets — contributes more to annual happiness than travel highlights or Instagram-worthy experiences.
 - `INS-260327-A458` Trends that used to take years to peak and decline now cycle in weeks because TikTok and Instagram compress the discovery-adoption-saturation-backlash cycle.
 - `INS-260330-795D` Social media transforms genuine discourse into performance, systematically undermining a society's shared capacity to assess truth.
 - `INS-260325-1EB3` Reactionary influencers tell boys 'nobody wants you to watch my content' -- slamming the laptop shut proves their point, while curiosity and real-world male role models provide the actual antidote.
-- `INS-260403-958C` Online interaction encourages people to identify with distant interest-based groups over local physical communities.
-- `INS-260330-8D2C` The architecture of social media makes criticism indistinguishable from cruelty, so personal growth requires deliberately building and maintaining a trusted inner circle whose feedback you actually internalize.
+- `INS-260323-FF23` Every business needs a creator — build in public, show the behind-the-scenes journey, and your content will naturally attract your ideal customer profile while filtering out everyone else.
+- `INS-260322-81CD` Frame your content around a public if-then challenge ('If I get X followers, I'll do Y') to create narrative tension that keeps viewers coming back.
 - `INS-260330-E695` Rosolie's spontaneous, profanity-filled Instagram video about Amazon fires went viral and led to the major funding that transformed Jungle Keepers, while his calculated Discovery Channel stunt backfired catastrophically.
 - `INS-260402-C49E` Graham quantifies from running a forum that users were about 3x more likely to upvote content that outraged them, suggesting outrage amplification is structural to engagement-sorted platforms.
 - `INS-260404-3B83` Mamdani's NYC mayoral win used social-media-first grassroots fundraising to defeat opponents backed by 26 billionaires spending $22M+.
@@ -30,5 +32,3 @@
 - `INS-260323-D6F2` Rella never runs ads on content created specifically for ads — they only boost posts that already performed well organically, using the algorithm as a free testing ground.
 - `INS-260322-FFF6` The cost of reaching audiences on social platforms is zero for distribution — an unprecedented asymmetry that most businesses fail to exploit.
 - `INS-260327-EBDF` Social platforms surface metrics that serve their business (engagement time) not yours (revenue from trust) — stop measuring what's easy and start measuring what matters.
-- `INS-260323-FF23` Every business needs a creator — build in public, show the behind-the-scenes journey, and your content will naturally attract your ideal customer profile while filtering out everyone else.
-- `INS-260322-81CD` Frame your content around a public if-then challenge ('If I get X followers, I'll do Y') to create narrative tension that keeps viewers coming back.

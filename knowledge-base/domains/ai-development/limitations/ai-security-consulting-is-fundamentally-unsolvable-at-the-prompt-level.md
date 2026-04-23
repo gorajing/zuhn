@@ -58,6 +58,6 @@ related:
   - INS-260403-FF74
   - INS-260403-1106
   - INS-260403-DF2E
-  - INS-260403-2FAE
+  - INS-260403-D7EF
 ---
 The core argument is that an entire industry of 'AI security consultants' has emerged selling solutions to a problem that cannot be solved at the layer they operate on. LLMs are susceptible to jailbreaks and prompt injection, and no amount of system-prompt guardrails or wrapper-layer filtering can guarantee the model won't leak sensitive data when an adversary applies the right technique — or sometimes just asks nicely. This problem may eventually be solved by frontier labs working on the model architecture itself, but it fundamentally cannot be solved by an external consultant adding a special prompt telling the LLM to be careful. The only currently viable approach for secure LLM deployment is architectural: be extremely restrictive about what permissions and data access the LLM has, and separate public-facing LLMs from those with access to sensitive systems. This is essentially the principle of least privilege applied to AI — behavioral controls are unreliable, so rely on structural controls instead.

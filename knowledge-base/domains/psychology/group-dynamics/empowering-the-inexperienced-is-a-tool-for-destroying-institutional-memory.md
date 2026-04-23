@@ -58,8 +58,8 @@ related:
   - INS-260410-CE69
   - INS-260323-9D21
   - INS-260327-3B69
+  - INS-260423-31A1
   - INS-260330-E089
-  - INS-260403-393C
 ---
 Paine describes the mechanics of the Red Guards vividly: Mao told teenagers educated on Mao-worship that they were now in charge. With no life experience and no investment in the existing order, they attacked the educational system from the bottom up, starting with teachers they personally resented. The result was ruinous for production and gutted the educational system — every teacher who had 'given hard grades' and 'may have actually known something' was gone.
 

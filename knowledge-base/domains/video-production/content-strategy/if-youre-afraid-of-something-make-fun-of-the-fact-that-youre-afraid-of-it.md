@@ -53,7 +53,6 @@ related:
   - INS-260327-1845
   - PRI-260328-7F20
   - INS-260330-DD91
-  - INS-260327-80DC
   - INS-260330-423B
 stance: >-
   Jon Stewart's advice to Bassem Youssef when he was afraid to satirize the

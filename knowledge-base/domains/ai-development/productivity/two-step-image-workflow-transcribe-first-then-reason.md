@@ -57,7 +57,6 @@ related:
   - PRI-260328-DD93
   - INS-260409-BE39
   - INS-260412-A5C4
-  - INS-260410-DABE
 ---
 Multimodal LLMs can misread images in subtle ways — dropping a digit, misgrouping values, missing fine print — and if you go straight from image to interpretation, those misreads silently propagate into the answer. Karpathy's workflow for blood tests, supplement labels, and toothpaste ingredients is deliberately two-step: (1) 'transcribe this into a table,' scan the output to confirm every value is right, (2) ask 'which of these are safest / what's missing / interpret this panel.'
 

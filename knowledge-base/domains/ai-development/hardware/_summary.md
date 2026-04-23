@@ -1,6 +1,6 @@
 # Topic: hardware
 
-> 16 insights
+> 17 insights
 
 - `INS-260410-4696` [high] An H100 is worth more today than three years ago because the models it runs generate far more value per token than GPT-4 did, and you can't just buy a Rubin instead.
 - `INS-260412-8396` [high] ARM's reduced instruction set approach, initially dismissed as underpowered, became decisive when desktop CPUs hit power and thermal limits that simpler architectures inherently avoid.
@@ -8,6 +8,7 @@
 - `INS-260410-101D` [high] China adds a France-or-UK-sized power grid every year; their strategic bet on cheap abundant electricity positions them to deploy more AI than anyone once the model matters less than how many you can run.
 - `INS-260412-3FF0` [high] A 2013 smartphone chip performed 28 billion calculations per second — 72 million times more than ENIAC, which filled an entire room in 1946.
 - `INS-260410-E6E8` [high] Nadella identifies the Majorana 1 achievement as dual — both physics existence proof AND a repeatable fabrication technique — and treats the fabrication half as the precondition for everything that follows.
+- `INS-260423-6172` [high] Chamath: training is systems work with different traffic patterns; inference is north-south with separate prefill/decode, and SRAM-heavy designs that don't make sense for training crush at decode.
 - `INS-260410-3C37` [high] Flash Attention does MORE floating-point operations than vanilla attention yet runs 7.6x faster, because it avoids materializing the T×T attention matrix in HBM.
 - `INS-260410-CB70` [high] LLM training is memory-bandwidth-bound: modern AI requires treating an entire data center as one computer with ultra-fast interconnects and 2.5D-stacked memory adjacent to compute.
 - `INS-260412-3CF8` [high] Below ~5nm, electrons tunnel through transistor gates, making classical binary switching unreliable.

@@ -1,6 +1,6 @@
 # Topic: venture-capital
 
-> 305 insights
+> 306 insights
 
 - `INS-260403-6B24` [high] High-profile 2025 IPOs like Figma, Chime, and Navan traded below debut prices even as Nasdaq and S&P 500 rallied.
 - `INS-260405-0CAB` [high] 38% of VCs stopped doing deals in 2023, exposing a large cohort of cycle-dependent tourist investors who entered during the 2020-2021 bull market.
@@ -222,6 +222,7 @@
 - `INS-260404-D3C3` [medium] Large fund launches across multiple hot sectors simultaneously suggest narrative-chasing capital rotation rather than broad market growth.
 - `INS-260403-01FD` [medium] Mega funds are precision machines designed to follow outliers and bet big as venture outcomes scale toward trillion-dollar companies.
 - `INS-260405-A6E1` [medium] The data is showing mega funds beating middle-market funds, inverting a long-held VC narrative.
+- `INS-260423-BD00` [medium] Chamath wrote an investment memo for Groq in 2015 and published it on X before writing the check; the memo concluded he had the boundary conditions to build something iconic.
 - `INS-260403-FA65` [medium] VC returns are polarizing, squeezing funds that are neither small/disciplined nor elite/access-driven.
 - `INS-260403-B9E6` [medium] Longevity investments should be evaluated by whether they flatten the mortality curve (like naked mole rats) rather than shift it rightward.
 - `INS-260404-841B` [medium] NATO launched an innovation fund at its summit, merging venture capital with defense and political cooperation goals.

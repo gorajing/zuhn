@@ -1,6 +1,7 @@
 # Tag: commoditization
 
 - `INS-260403-7BC6` LLMs threaten financial analyst roles because the analytical frameworks were always public — only the execution was scarce.
+- `INS-260423-81C4` Seth Godin: when AI is the buyer, you're going to lose — it's hard to teach an AI why the non-cheapest is worth it, so it buys the cheap one.
 - `INS-260409-CBC7` Hassabis predicts the moat is shifting from scale to algorithmic invention — labs without novel-idea capacity will fall behind.
 - `INS-260405-B7C7` Meta giving away a $10B AI model forces the AI market toward commoditized model weights, undermining the subscription economics of closed competitors while costing Meta nothing since it doesn't sell AI.
 - `INS-260409-DD69` Hassabis pegs the open-source lag at ~6 months behind frontier — the reimplementation time — with DeepMind's Gemma line pushing best-in-class at small sizes for edge/startup/academic use.

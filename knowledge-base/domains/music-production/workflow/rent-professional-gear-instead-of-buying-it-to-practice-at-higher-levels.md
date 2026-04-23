@@ -43,10 +43,10 @@ resolutions:
 related:
   - INS-260323-0982
   - PRI-260322-3DA5
+  - INS-260423-81C4
   - INS-260323-0C3A
   - INS-260403-A486
   - INS-260330-F0F2
-  - INS-260404-CE26
 stance: >-
   Start on cheap beginner gear at home and rent professional equipment (e.g.,
   Pioneer CDJs at Pirate Studios) for practice sessions instead of buying.

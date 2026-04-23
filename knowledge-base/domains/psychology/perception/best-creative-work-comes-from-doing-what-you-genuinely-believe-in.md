@@ -47,10 +47,10 @@ resolutions:
     has already worked, not what could work.
 related:
   - INS-260327-7581
+  - INS-260423-3459
   - INS-260403-E365
   - INS-260327-4739
   - INS-260327-F6B2
-  - INS-260322-4B4A
   - INS-260327-47BA
   - INS-260403-A360
   - INS-260403-2BAF

@@ -59,6 +59,7 @@ related:
   - PRI-260328-82BE
   - INS-260330-217C
   - INS-260403-5598
+  - INS-260423-64FA
 ---
 An early investor in ElevenLabs (now a billion-dollar AI company) shared two specific red flags that cause him to walk away from deals: teams that lack deep technical capability, and founders chasing crowded, hype-driven markets. These two factors interact—without technical depth, teams can't build defensible products, and in hype-driven markets, the lack of differentiation means they compete primarily on capital rather than innovation.
 

@@ -37,11 +37,11 @@ resolutions:
     This is the 'apps should become APIs' principle (Karpathy) applied to
     finance tooling.
 related:
+  - INS-260423-FB98
   - INS-260404-57B8
   - INS-260404-688B
   - INS-260322-F46F
   - INS-260403-9E6A
-  - INS-260404-2BAD
 stance: >-
   Fuelfinance is building an MCP integration that lets Claude talk directly to
   your financial data inside Fuel

@@ -63,7 +63,6 @@ related:
   - INS-260327-DBEB
   - INS-260328-F3C4
   - INS-260410-671A
-  - INS-260410-EFD5
 evidence:
   - id: INS-260327-DBEB
     type: TRANSFERS_TO

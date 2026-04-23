@@ -64,7 +64,6 @@ related:
   - INS-260403-B73A
   - INS-260410-28C3
   - INS-260411-791E
-  - INS-260412-B825
   - INS-260409-7731
 ---
 After recognizing the iPhone threat, Nokia split its software team into two groups: one revamping Symbian and one building MeeGo from scratch. Rather than accelerating response, this created destructive internal competition. Both teams fought for resources from executives, and the political friction bled into external relationships — when dealing with chip manufacturers, internal disagreements meant decisions took 'the better part of a year.'

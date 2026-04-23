@@ -59,11 +59,11 @@ related:
   - INS-260330-E9D4
   - INS-260330-636E
   - INS-260403-272E
-  - INS-260403-0AE1
   - INS-260412-7BD8
   - INS-260412-9C7F
   - INS-260412-F8D1
   - INS-260412-7C35
+  - INS-260412-51C1
 ---
 Internal auditor Cynthia Cooper discovered $3 billion in bogus balance sheet entries under the mysterious label 'prepaid capacity.' But discovery was only the beginning—CFO Scott Sullivan called her at a hair salon to tell her to stop investigating, corporate finance directors couldn't explain the entries, and the institutional culture discouraged questioning senior officials. Cooper persisted anyway, interviewing the accountants who made the entries and escalating to the audit committee, which eventually brought in KPMG for external review.
 

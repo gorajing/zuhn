@@ -51,10 +51,10 @@ related:
   - INS-260329-F33F
   - INS-260404-9D4E
   - PRI-260403-2E59
+  - INS-260423-4DD5
   - INS-260325-0C4A
   - INS-260404-A375
   - PRI-260328-604D
-  - INS-260329-6BE8
 ---
 The central paradox of corporate reinvention is that the urgency to change is lowest precisely when the capacity to change is highest. When a company is profitable and dominant, stakeholders resist disruption of the status quo. But waiting until the core business declines means fewer resources, less talent retention, and diminished market credibility to launch something new.
 

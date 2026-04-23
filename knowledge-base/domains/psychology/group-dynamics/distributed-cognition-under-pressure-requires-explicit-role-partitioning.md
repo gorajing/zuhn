@@ -54,7 +54,7 @@ related:
   - INS-260327-157B
   - INS-260327-6058
   - INS-260410-CD75
-  - INS-260403-8B92
+  - INS-260423-31A1
 ---
 During the critical manual course correction burn, Lovell realized he couldn't keep Earth centered in the window alone because the attitude controller had three independent axes (pitch, roll, yaw). His solution was to partition the problem: he took up-and-down, Swigert took side-to-side, and they used manual start/stop buttons for the engine burn timing. Neither astronaut tried to manage the whole system—they explicitly divided cognitive load by axis.
 

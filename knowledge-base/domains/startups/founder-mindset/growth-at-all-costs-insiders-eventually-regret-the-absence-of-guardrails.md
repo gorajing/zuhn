@@ -58,7 +58,7 @@ related:
   - INS-260404-7EFA
   - INS-260330-9575
   - INS-260326-2E56
-  - INS-260330-1F41
+  - INS-260423-31A1
 ---
 Chamath's first-person account from inside Facebook is unusually candid: 'We did what we did to grow at all costs and beat the competition. We all wish we had been more careful.' This is a powerful data point against the self-regulation argument. Even people who understood the risks and had good intentions couldn't resist the competitive pressure to exploit an ungoverned landscape.
 

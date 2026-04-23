@@ -44,11 +44,12 @@ stance: >-
   something nobody wants.
 related:
   - INS-260402-F5E0
-  - INS-260403-53AA
   - INS-260403-7072
   - INS-260404-B01F
   - INS-260405-F9EC
   - INS-260405-9E25
+  - INS-260403-53AA
+  - INS-260423-70CF
 evidence:
   - id: INS-260404-B887
     type: REFINES

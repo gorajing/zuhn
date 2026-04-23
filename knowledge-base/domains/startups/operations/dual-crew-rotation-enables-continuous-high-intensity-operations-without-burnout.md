@@ -58,8 +58,8 @@ related:
   - INS-260410-5474
   - INS-260412-FEE1
   - INS-260410-3271
+  - INS-260423-44B4
   - INS-260330-625B
-  - INS-260409-D491
 ---
 Submarines maintain two complete crews (Blue and Gold) that rotate: one runs a 77-day patrol while the other rests, trains, and prepares. The 25-day turnover period ensures knowledge transfer. This model works because it treats the entire crew as an atomic unit that swaps in and out, rather than trying to rotate individuals.
 

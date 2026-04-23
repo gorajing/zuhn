@@ -18,9 +18,11 @@
 - `INS-260329-4C4C` Plan for years of content creation before expecting meaningful audience growth, treating the first year as skill development.
 - `INS-260403-DAA9` Decades of accumulated context at a single company create pattern recognition and reinvention capacity that no amount of capital or talent can fast-track.
 - `INS-260403-B2A5` Sequoia's edge comes from committing to simple systems — talent tracking, forced conviction, post-mortems — and running them for years without interruption while competitors quit early.
+- `INS-260423-E905` Chamath on Groq: We didn't have product-market fit for seven years. Replit had years of nothingness before the hockey stick.
 - `INS-260329-B4F5` What makes results extraordinary is not the nature of the action but the extraordinary duration of commitment to doing ordinary things.
 - `INS-260327-734D` It took nine different iterations from 2012 to finding Marco Polo — the first thing you put out just does not work.
 - `INS-260329-E40B` The normal learning path for programming is prolonged confusion followed by a sudden breakthrough, and knowing this pattern exists is itself the most valuable intervention.
+- `INS-260403-98E1` Real wealth stacks up through many small chips — businesses, investments, options — not one big windfall.
 - `INS-260329-22B6` What looks like speed from the outside is actually fewer strategic pivots over a longer time horizon, not more activity.
 - `INS-260328-F1D2` Be insanely impatient to start and push the world to move fast, while accepting that solving hard problems takes years.
 - `INS-260329-8B33` Taking six months to find a business you can acquire for free beats immediately starting one that costs your life savings.
@@ -31,7 +33,6 @@
 - `INS-260403-7A31` Investor ecosystems grow organically from successful exits — they cannot be seeded artificially or attracted by incentives.
 - `INS-260403-76F5` After VC silence, wait 3-4 weeks then send concise milestone updates rather than chasing — this keeps the door open while signaling confidence.
 - `INS-260402-3D61` Glanville pushed through exhausting fundraising to curate investors who shared his long-term vision, resisting advice to take whatever money was available.
-- `INS-260403-98E1` Real wealth stacks up through many small chips — businesses, investments, options — not one big windfall.
 - `INS-260325-E895` Gawande's coach taught him to count to 30 in his head before intervening when surgical trainees struggled with bleeding — breaking his instinct to grab the instruments and do it himself.
 - `INS-260403-952F` Page's 10-year path from sidelined co-founder to Alphabet CEO shows that quiet competence accumulation beats political maneuvering.
 - `INS-260329-476D` Willingness to work on something for 5-10 years is itself a competitive advantage because most founders filter out ideas that won't pay off in two years.

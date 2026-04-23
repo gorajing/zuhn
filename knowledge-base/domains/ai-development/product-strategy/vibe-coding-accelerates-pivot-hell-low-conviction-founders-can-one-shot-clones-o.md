@@ -50,12 +50,11 @@ stance: >-
   problems they understand.
 related:
   - PRI-260407-590E
+  - INS-260423-7C1A
   - INS-260410-6290
   - INS-260405-6F45
   - INS-260403-9A4C
-  - INS-260404-CD1A
   - INS-260327-6C54
-  - INS-260330-59FD
   - INS-260403-97B4
 evidence:
   - id: INS-260330-A86C

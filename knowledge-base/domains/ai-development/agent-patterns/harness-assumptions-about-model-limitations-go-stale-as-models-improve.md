@@ -54,10 +54,10 @@ stance: >-
 related:
   - INS-260410-09B4
   - INS-260410-9DB0
+  - INS-260423-85B3
   - PRI-260403-5FC4
   - INS-260410-E73E
   - INS-260403-EAFC
-  - PRI-260320-6847
 ---
 Anthropic addressed Sonnet 4.5's 'context anxiety' (wrapping up prematurely as the context window filled) by adding context resets to the harness. When they tested the same harness on Opus 4.5, the behavior was gone — the resets had become dead weight. This generalizes: harnesses encode assumptions about what the model can't do on its own, and each model improvement can silently invalidate those assumptions.
 

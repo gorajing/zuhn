@@ -54,9 +54,9 @@ related:
   - INS-260325-36F0
   - INS-260325-D9D8
   - INS-260329-1739
-  - INS-260329-A45D
   - INS-260330-487E
   - INS-260330-C7B5
+  - INS-260402-9E2D
 stance: >-
   Some people use AI to avoid thinking; others use it to think more deeply than
   ever before — the tool amplifies whatever intent you bring to it.

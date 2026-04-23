@@ -58,7 +58,7 @@ related:
   - PRI-260324-3081
   - PRI-260328-0993
   - INS-260327-EAB9
+  - INS-260423-9BA5
   - INS-260412-E3B4
-  - INS-260410-2B55
 ---
 From 2000 to 2014 Microsoft tripled revenue, built Azure from scratch, and preserved the Windows/Office franchise through multiple platform shifts — yet the stock was essentially flat. Investors were not pricing in the durability of Windows and Office and were only valuing new bets which mostly failed. The diagnosis was a storytelling failure: consumers had no idea what Microsoft's strategy was, developers didn't either, and therefore investors didn't either. When Satya Nadella took over, the fundamentals didn't change overnight — what changed was a simple, obsessively repeated message: 'mobile-first, cloud-first.' The right amount of repetition for a leader communicating strategy is roughly ten times more than feels natural. A flat stock price also poisons internal culture: employees come to believe nothing they do can grow the pie, so the only way to grow personal value is to win at peers' expense — which is exactly the zero-sum dynamic that produced the infamous Microsoft 'guns pointed at each other' org chart.
