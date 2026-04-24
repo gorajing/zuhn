@@ -15,15 +15,15 @@
 - `INS-260404-CC9A` Existing and new business models demand fundamentally different management rules, metrics, and failure tolerances.
 - `INS-260412-376C` Enron's rank-and-yank system created a culture where 18-hour days and ruthless profit-seeking replaced ethical guardrails.
 - `INS-260412-9C7F` Theranos's extreme secrecy, surveillance, and retaliation against dissenters functioned as a fraud-preservation system rather than legitimate IP protection.
-- `INS-260403-3A9D` Yahoo's choice to call itself a media company caused it to treat programming as commodity work, which destroyed product quality.
 - `INS-260403-5593` Big companies can't let individuals hold whole programs in their heads, so startups should target problems that demand exactly that.
 - `INS-260402-300A` Companies that enforce top-down idea flow and quality control lose to decentralized systems where the best work self-selects through audience feedback.
 - `INS-260330-1B8A` The Constitution's framers designed checks against both government tyranny and democratic mob rule, creating a system durable enough to last 230+ years.
 - `INS-260403-58BA` Stripping bureaucracy to maintain speed over 20 years made Palantir impossible to compete with.
-- `INS-260323-0683` As stakes increase, power struggles intensify — resilient governance structures must be built early, before the pressure peaks.
+- `INS-260403-3A9D` Yahoo's choice to call itself a media company caused it to treat programming as commodity work, which destroyed product quality.
 - `INS-260402-ABB5` Financial constraints force companies to fix dysfunctions — overpaying underperformers, underpaying top talent, coordination-heavy middle management — that abundant capital made invisible.
 - `INS-260328-7241` Bad process is like a cancer — a machine that only wants more power and more people, until you have a thousand process people and one guy making bolts.
 - `INS-260403-1ECB` When hiring plans live in Notion, runway models in Excel, and compensation decisions in separate conversations, the resulting misalignment silently erodes runway.
+- `INS-260323-0683` As stakes increase, power struggles intensify — resilient governance structures must be built early, before the pressure peaks.
 - `INS-260404-89DA` Founder mode correctly emphasizes deep engagement but becomes dangerous when used to justify bypassing management structure entirely.
 - `INS-260327-99DB` Supercell was founded on flipping the org chart: game teams (cells) own the vision, leadership serves them, and the best game developers are the superstars of the company.
 - `INS-260410-4C9D` Amazon Marketplace let third-party sellers win the buy-box on Amazon's own product pages, which torched category managers' P&L—a move only a founder could force through.

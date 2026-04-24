@@ -8,10 +8,10 @@
 - `INS-260404-FC20` Quantum computing repurposes the quantum tunneling effect that limits classical transistor shrinkage as a computational resource rather than a bug.
 - `INS-260325-F21D` Digital computers abstract reality into zeros and ones, but molecules and diseases are not zeros and ones — quantum computers work with electrons and atoms directly, making them native to simulating biological reality.
 - `INS-260410-DD35` From 2012-2020 was research, 2020-2025 was scaling, and now we're back to research with big computers because 100x more scale would not transform outcomes.
-- `INS-260412-4441` CRISPR's 99% cost reduction and timeline compression from years to weeks mirrors the computing revolution's democratization arc.
-- `INS-260330-0FA7` The PADIRKO mouse (kidney-specific insulin receptor knockout) develops diabetic nephropathy with normal blood glucose — proving insulin itself, not glucose, drives metabolic organ damage.
 - `INS-260404-4F1B` Solar's 99.9% cost decline since 1975 demonstrates how manufacturing learning curves create inevitable cost dominance over extraction-based competitors.
+- `INS-260412-4441` CRISPR's 99% cost reduction and timeline compression from years to weeks mirrors the computing revolution's democratization arc.
 - `INS-260330-22F0` Before psychoanalysis, mentally ill patients were confined to sanatoriums; Freud's talk therapy demonstrated that conversation itself could be curative.
+- `INS-260330-0FA7` The PADIRKO mouse (kidney-specific insulin receptor knockout) develops diabetic nephropathy with normal blood glucose — proving insulin itself, not glucose, drives metabolic organ damage.
 - `INS-260330-C366` Psychedelic therapy's one-session-lasting-change model breaks the pharmacological assumption that psychiatric treatment requires continuous chemical intervention.
 - `INS-260403-AFC4` Paradigms shape not just what we think but the mental components we think with, creating invisible evaluation bias against novel ideas.
 - `INS-260412-3C98` If giant viruses hid in plain sight until 2003, every mature field likely contains fundamental phenomena we're miscategorizing or ignoring.

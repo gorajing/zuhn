@@ -12,5 +12,5 @@
 - `INS-260320-446F` Hire content creators directly (Gmail in bio, 5-10K followers) — if their email is at an agency, the arbitrage is already gone.
 - `INS-260403-2C50` The best deals for creative and entrepreneurial communities are in cities that were once rich and then became poor — solid infrastructure at bargain prices.
 - `INS-260412-90B3` Airlines closed earning arbitrage (distance-based → spend-based points) then redemption arbitrage (fixed → dynamic award charts), making the system exploitation-proof.
-- `INS-260403-5DF2` Using AWS credits year one, shifting to GCP year two, and testing Scaleway GPU pricing creates years of subsidized infrastructure through provider arbitrage.
 - `INS-260403-7219` The gap between outdated bigger-is-better norms and current small-group advantages creates exploitable arbitrage.
+- `INS-260403-5DF2` Using AWS credits year one, shifting to GCP year two, and testing Scaleway GPU pricing creates years of subsidized infrastructure through provider arbitrage.

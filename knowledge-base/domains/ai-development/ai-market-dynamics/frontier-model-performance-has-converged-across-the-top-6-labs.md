@@ -53,7 +53,6 @@ related:
   - INS-260409-B367
   - INS-260410-D0F5
   - INS-260410-3880
-  - INS-260410-E8A8
   - PRI-260406-28E1
 ---
 The AI Index 2026 shows that as of March 2026 the top 6 labs occupy a 25-Elo-point band on the Arena Leaderboard: Anthropic (1503), xAI (1495), Google (1494), OpenAI (1481), Alibaba (1449), and DeepSeek (1424). Benchmarks designed to discriminate between models are now separating the top 15 by as little as 3 percentage points in professional domains (tax, legal, mortgage, corporate finance). When capability converges, the meaningful competitive axes become cost per token, reliability under adversarial input, deployment ergonomics, and domain-specific usefulness — all areas where procurement and enterprise requirements, not pretraining scale, decide the winner. Strategies built on 'our model is smarter' are obsolete; strategies built on 'our model is cheaper/faster/more reliable at X' are the new frontier.

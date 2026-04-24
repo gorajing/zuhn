@@ -57,6 +57,6 @@ related:
   - INS-260405-77C9
   - INS-260327-7F73
   - INS-260330-809A
-  - INS-260405-1894
+  - INS-260424-90E6
 ---
 Jason describes how the venture capital model is evolving into something that looks like private equity: General Catalyst's Hemant discussed rolling up accounting firms, healthcare firms, and hospitals; Josh Kushner has a big effort; Chamath's 8090 operates a similar 'software factory' model. The logic is structural: if 95% of enterprise AI pilots fail because of change-management bottlenecks, then selling AI to existing businesses is inefficient. Buying them and forcing the transformation captures the full value. This represents a regime change in venture strategy — from minority-stake bets on high-growth startups to majority-stake acquisitions of legacy businesses with embedded AI transformation playbooks. Implication: the line between VC and PE blurs, and traditional SaaS VC may face competitive pressure from firms pursuing this rollup-plus-AI model.

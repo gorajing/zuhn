@@ -1,6 +1,6 @@
 # Topic: product-strategy
 
-> 94 insights
+> 96 insights
 
 - `INS-260325-95A6` [very_high] MIT found 95% of genAI pilots yield zero P&L impact because enterprise AI tools become static science projects that never adapt to real workflows.
 - `INS-260325-206C` [very_high] AI Dungeon's near-death from token costs is the cautionary tale: variable-cost AI engines inside fixed-price subscriptions create margin erosion that grows with your best users.
@@ -81,6 +81,7 @@
 - `INS-260404-60A6` [medium] Vertical AI products trained on domain-specific and proprietary data create defensible positions against generalist LLMs.
 - `INS-260409-7C48` [medium] Local-first (data stays on user devices, syncs via cloud) and home-cooked software (built for small communities by their own members) both prize user agency and ownership, but orchestration agents for barefoot developers will make most design decisions by default — so local-first tools need to be the path of least resistance, not an opt-in.
 - `INS-260405-4091` [medium] AI tooling lowers the cost of building but not the cost of building the wrong thing.
+- `INS-260424-5759` [medium] Logan Kilpatrick: every product is going to become agentic — Gmail becomes an agent, Google search becomes an agent, all the foundational pieces all become agentic.
 - `INS-260403-3C6D` [medium] Curated prompt packages that encode professional workflows represent a transitional business model that will shrink as models become more capable at self-structuring.
 - `INS-260403-F0AA` [medium] Recurring ChatGPT prompt patterns reveal unmet product needs that can be quickly converted into dedicated tools with built-in validated demand.
 - `INS-260327-5F10` [medium] Programs are written for people to read and only incidentally for machines to execute; as long as humans need to understand what AI agents do to their code, visual code interfaces remain essential.
@@ -88,6 +89,7 @@
 - `INS-260409-6236` [medium] Daily hands-on AI usage builds usable intuition that content consumption cannot replace.
 - `INS-260409-9851` [medium] Matuschak and Nielsen argue that tools-for-thought work has historically been 'stuck in Spock-space,' designing for cognition alone, while movies, music, and video games take emotional response seriously — the best tools for thought must blend the emotional range of video with the intellectual depth of text.
 - `INS-260410-6F67` [medium] Fast exponential capability growth continuously generates new use cases that require bare-metal API access, so the API is the one surface that stays relevant across capability generations.
+- `INS-260424-273F` [medium] Ben Gilbert: I'm not really sure we're seeing the killer native app of the agentic AI era — we don't even know what it looks like; we're trying to make all of our existing stuff more efficient and put it into this AI modality, but I don't think there's…
 - `INS-260327-9C56` [medium] Fan envisions a Physical API that gives software a physical actuator, enabling a skill economy where experts teach robots and deliver their expertise as a service at scale.
 - `INS-260327-FE24` [medium] The terminal became more important with AI agents because its text-based, loggable, multi-session architecture perfectly matches agentic workflows.
 - `INS-260328-4A93` [medium] AI product orgs need three new capabilities: unit economics dashboarding, context/retrieval quality ownership, and eval-based QA for non-deterministic outputs.

@@ -11,10 +11,6 @@
 - `INS-260325-3AE4` fMRI studies show psychedelics produce massive increases in communication between brain areas that normally never talk to each other — breaking down the brain's usual compartmentalization.
 - `INS-260404-D122` Neuralink requires ~20-minute personalized calibration per user because neural firing patterns for identical intended movements vary significantly between individuals.
 - `INS-260330-5D64` Expressing daily verbal appreciation to a partner reduces their cortisol and cholesterol while boosting immune function — and produces the same benefits in the speaker.
-- `INS-260330-2726` Creatine fuels the phosphocreatine system in the brain — supporting executive function, rule-switching, and even partially offsetting cognitive decline from sleep deprivation.
-- `INS-260330-9C40` Subtle fidgety movements trigger local epinephrine release from neurons innervating fat, burning 800-2500 additional calories daily without formal exercise.
-- `INS-260330-7981` Mitochondria do far more than produce energy — they regulate neurotransmitters, hormones, inflammation, and gene expression, making them the central node in mental health.
-- `INS-260330-443B` Palmer hypothesizes that obesity is often the consequence of brain dysfunction rather than a metabolic problem that then impacts the brain, reversing the conventional causal arrow.
 - `INS-260403-CF23` Dopamine from novelty, risk, and complexity amplifies pattern recognition and drives motivation rather than serving as a reward signal.
 - `INS-260404-0519` The brain processes empathy through two distinct systems: prefrontal 'cold' reasoning circuits and amygdala-based 'hot' emotional mirroring, which can operate independently.
 - `INS-260403-705C` Neuroscience's predictive coding theory reveals humans and AIs share the same core learning algorithm — predict the next input, update weights.
@@ -22,6 +18,10 @@
 - `INS-260404-0348` fMRI scans show psychopaths' emotion centers remain silent during personal moral dilemmas that light up normal brains like a pinball machine.
 - `INS-260330-17C3` Romantic love elevates dopamine (the same reward pathway as cocaine addiction) and alters serotonin in patterns matching OCD, producing obsessive rumination and addictive attachment.
 - `INS-260330-0C10` Swearing uses a separate neural pathway from regular language, rooted in the emotional limbic system rather than cortical language areas.
+- `INS-260330-2726` Creatine fuels the phosphocreatine system in the brain — supporting executive function, rule-switching, and even partially offsetting cognitive decline from sleep deprivation.
+- `INS-260330-9C40` Subtle fidgety movements trigger local epinephrine release from neurons innervating fat, burning 800-2500 additional calories daily without formal exercise.
+- `INS-260330-7981` Mitochondria do far more than produce energy — they regulate neurotransmitters, hormones, inflammation, and gene expression, making them the central node in mental health.
+- `INS-260330-443B` Palmer hypothesizes that obesity is often the consequence of brain dysfunction rather than a metabolic problem that then impacts the brain, reversing the conventional causal arrow.
 - `INS-260330-B85B` Profanity is neurologically distinct from regular language, routed through the limbic system rather than cortical speech areas.
 - `INS-260330-4B22` Boredom sits on the same emotional spoke as disgust and loathing, driving organisms toward complexity and neural growth.
 - `INS-260323-CA1F` In deep sleep, experience ceases — no space, no time, no self — yet something knows that nothing happened, suggesting awareness persists even at the lowest layer.

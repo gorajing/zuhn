@@ -1,6 +1,6 @@
 # Topic: business-quality
 
-> 26 insights
+> 27 insights
 
 - `INS-260410-1399` [high] Rentech's secret isn't genius market calls — it's recognizing that a barely-better-than-coin-flip edge compounds into historic returns when you make millions of small bets and lever up smartly, rather than waiting for high-conviction opportunities.
 - `INS-260410-001F` [high] When auditors make as much from consulting a client as from auditing them, the audit is captured by definition.
@@ -11,6 +11,7 @@
 - `INS-260410-D42F` [high] Enterprises re-architect data centers at most once a decade — whoever wins the current AI transition locks in revenue for 5-10 years regardless of whether the hype holds.
 - `INS-260410-B74C` [high] Choose to be modestly less profitable than peers in booms so you can remain standing — and acquire them — during busts.
 - `INS-260411-C094` [high] JPM's 20-year track record of maintaining a fortress balance sheet — $1.4T+ in liquid assets, 20% ROTCE through cycles — demonstrates that conservative capital management is itself a growth strategy.
+- `INS-260424-24A3` [high] David Rosenthal: Google is the only company that has a chip, a cloud, and a model — there are multi-trillion-dollar companies that have one of those things.
 - `INS-260410-6E43` [high] Epic captures only ~$10M per year per hospital system despite being the central nervous system those hospitals cannot function without—and that underpricing is precisely why they have never lost a customer in 47 years.
 - `INS-260411-97BF` [high] Measuring the average absolute value of market share changes across all competitors over 3-5 years provides a quantitative signal of moat durability, with 2% as the stability threshold.
 - `INS-260410-F8B9` [high] Moats are only sufficient if the castle is too unattractive to invade — once the prize gets big enough, attackers arrive regardless.

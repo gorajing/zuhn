@@ -58,7 +58,7 @@ related:
   - INS-260410-CDE9
   - INS-260410-38C9
   - INS-260410-CB70
+  - INS-260424-0554
   - INS-260326-0AB4
-  - INS-260404-CE26
 ---
 The silicon stack for AI divides cleanly along training versus inference boundaries. Training workloads are systems problems with high east-west bandwidth demand (gradient exchange across parallel devices), tolerate higher latency, and reward massive HBM capacity. Inference workloads have north-south traffic (input in, output out), latency-sensitive user loops, and split into structurally distinct prefill and decode phases. Groq's architectural bet — heavy SRAM usage, deterministic flow — makes no sense for training (you'd starve on capacity) but dominates for decode (low-latency deterministic throughput). The implication for the AI stack: there is no unified 'AI chip,' there are training chips and inference chips, and companies that try to split the difference produce middling architectures. Investors and operators should reject the framing 'what's the best AI chip?' — always ask for which workload.

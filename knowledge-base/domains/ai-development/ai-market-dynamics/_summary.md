@@ -1,6 +1,6 @@
 # Topic: ai-market-dynamics
 
-> 165 insights
+> 167 insights
 
 - `INS-260321-86F1` [high] China is stealing American AI models, removing all guardrails, and potentially deploying them against the US — creating an absurd scenario where America fights with one arm tied behind its back against its own technology.
 - `INS-260327-5690` [high] Traditional SaaS sells productivity enhancement to workers; vertical AI agents sell the work itself, accessing the entire cost of labor as TAM rather than just the software budget.
@@ -64,6 +64,7 @@
 - `INS-260410-46BB` [high] AI labs are one permit denial or one Amazon/Nvidia side conversation away from existential pressure, regardless of their own government contract status.
 - `INS-260402-BCEC` [high] Despite a proliferation of high-quality models, OpenAI pulled ahead because ChatGPT became a daily habit for millions, not because it scored highest on benchmarks.
 - `INS-260413-0EF6` [high] In 2025 industry produced 87 of 95 notable models (91.58%) while academia produced 1 (1.05%), and the top labs have stopped disclosing training code, dataset sizes, and parameter counts.
+- `INS-260424-0554` [high] Ben Gilbert: when we made our NVIDIA series in 2023-2024, training was what everybody was focused on; inference is fine, you know, like oh yeah I guess you could run that on the same chip — now I think the compute loads for inference have eclipsed the line for training.
 - `INS-260405-6A94` [high] OpenRouter's 100 trillion token study shows inference becoming a dominant operating cost that volume growth keeps pushing higher despite falling unit prices.
 - `INS-260323-1C32` [high] If every AI project must show predictable ROI, you're structurally incapable of innovation — the first pancake is always burned.
 - `INS-260327-5E40` [high] Prompts reset every session; training data compounds institutional knowledge over time, creating a moat that deepens with each iteration.
@@ -156,6 +157,7 @@
 - `INS-260327-D8D1` [medium] Just as software developers became AI researchers, they are now becoming roboticists as Python libraries and vibe coding make physical AI accessible to anyone who can code.
 - `INS-260327-EE5B` [medium] Dean envisions models with heterogeneous expert sizes, dynamic parameter expansion/compaction, and 100-1000x variation in compute per path, mimicking biological brain efficiency.
 - `INS-260323-1720` [medium] Oracle and the wider tech industry are applying the 'spend big, growth follows' playbook from the cloud era to AI, but the underlying economics are fundamentally different.
+- `INS-260424-981C` [medium] Google Cloud lead: the age of specialization is going to continue — I wouldn't be surprised if two chips here, we're going to find additional workloads that might need their own chip.
 - `INS-260327-E18C` [medium] Sequoia predicts the next major wave is an agent economy, but it requires solving persistent identity, seamless communication protocols (MCP is the starting gun, not the finish line), and agent-level security.
 - `INS-260323-3ADC` [medium] MIT research shows $291B wasted on AI because the ecosystem trained people to sell AI services, not build AI that actually works reliably.
 - `INS-260322-8147` [medium] The next industrial revolution isn't just factories — it's the shared component stack (batteries, motors, power electronics, compute) that powers EVs, drones, data centers, and manufacturing.

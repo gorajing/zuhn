@@ -1,14 +1,14 @@
 # Tag: crisis-management
 
+- `INS-260404-B6B1` Taking full responsibility during a crisis isn't just virtuous — it functionally increases survival odds by keeping the founder in problem-solving mode rather than blame mode.
 - `INS-260412-6F0E` When multiple systems fail simultaneously, the hardest decision is which failure to address first.
 - `INS-260330-7987` In crisis, making one small correct decision at a time toward safety beats trying to solve the whole problem at once.
-- `INS-260404-B6B1` Taking full responsibility during a crisis isn't just virtuous — it functionally increases survival odds by keeping the founder in problem-solving mode rather than blame mode.
 - `INS-260330-7A80` Panic is the collapse of sequential reasoning — restoring it requires forcing yourself to make one decision at a time rather than trying to solve the whole crisis simultaneously.
 - `INS-260403-F2BF` Founders must distinguish between strategic messaging and keyboard venting before hitting send.
-- `INS-260329-409F` You can't delete a bad brand pairing — you can only shrink it into irrelevance by overwhelming it with positive associations.
-- `INS-260329-2865` After a brand misstep, overwhelm the negative pairing with high volume of positive pairings rather than trying to erase or apologize for it.
 - `INS-260405-9015` Anthropic's Pentagon conflict drove it from #120 to #1 on the App Store—an outcome no ad campaign had achieved
 - `INS-260330-242D` Domino's ran ads showing real focus group footage calling their crust 'cardboard,' admitted the criticism was deserved, then documented their complete recipe overhaul — generating a billion media impressions and 4,000% stock growth over the next decade.
+- `INS-260329-409F` You can't delete a bad brand pairing — you can only shrink it into irrelevance by overwhelming it with positive associations.
+- `INS-260329-2865` After a brand misstep, overwhelm the negative pairing with high volume of positive pairings rather than trying to erase or apologize for it.
 - `INS-260404-DF88` In a startup crisis, waiting for perfect information narrows your options faster than making an imperfect early decision.
 - `INS-260405-B59F` Translating unit objectives into explicit joint commitments creates the cross-unit accountability that crises demand.
 - `INS-260403-30E5` When facing death, redirect all engineering effort to whatever closes revenue fastest — more code is worthless if the company dies.

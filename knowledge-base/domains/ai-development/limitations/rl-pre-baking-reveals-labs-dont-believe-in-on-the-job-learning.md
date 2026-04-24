@@ -55,7 +55,7 @@ related:
   - INS-260410-38C9
   - INS-260404-CE26
   - INS-260403-27A5
-  - PRI-260407-9DDF
+  - INS-260424-0554
 ---
 Short-timeline AGI bulls and the existence of a multi-billion-dollar RL environment supply chain are in tension. If models were close to humanlike learners, you wouldn't need to pay PhDs and consultants to write training examples for crafting PowerPoint slides — the model would pick that up on the job like any new hire.
 

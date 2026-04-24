@@ -1,9 +1,9 @@
 # Tag: cost-structure
 
-- `INS-260409-B21A` In-body production trades per-dose manufacturing and cold chain for device lifetime and cell viability.
 - `INS-260410-5981` Because AI businesses run at ~50% gross margins instead of the ~80% typical of software, chip cost differentials flow directly to the bottom line, making vertical integration a durable advantage.
 - `INS-260412-16FD` Airline ticket prices are dominated by airport fees, taxes, maintenance, and aircraft depreciation, leaving airlines with thin margins on each seat.
 - `INS-260412-B820` Falcon 9 fuel costs only $200K per launch versus $80M total price, proving that rocket reusability—not fuel optimization—is the key to dramatically cheaper space access.
+- `INS-260409-B21A` In-body production trades per-dose manufacturing and cold chain for device lifetime and cell viability.
 - `INS-260423-679C` Jason Lemkin on Anthropic: they caught OpenAI in half the time at roughly the same revenue with training costs one-quarter of OpenAI's — that's a double-code-red, you usually don't have both together.
 - `INS-260409-1191` Cheap execution makes creative direction, not budget, the new bottleneck for agency-grade video.
 - `INS-260403-1A5A` Customer love without sustainable unit economics creates a trap where positive feedback accelerates cash burn rather than signaling viability.

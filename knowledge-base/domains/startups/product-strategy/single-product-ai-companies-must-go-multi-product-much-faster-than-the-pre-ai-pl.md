@@ -67,5 +67,6 @@ related:
   - PRI-260406-435D
   - INS-260423-6CC0
   - INS-260323-BF81
+  - INS-260424-BFDC
 ---
 Paul Graham's classical advice to focus on one product until product-market fit is well-established was calibrated for a software environment where competitive cycles took 5-7 years and single-product dominance was achievable. The 2026 AI environment inverts this: commoditization cycles compress to 2-3 years, and any single-product AI company will see its core offering commoditized before it hits escape velocity. The winning pattern is the rippling playbook: expand aggressively into adjacent products while the core is still differentiated, using the core's momentum to establish positions in adjacencies before competitors can match. This requires a specific founder type — willing to break focus, willing to hire aggressively into new product leadership, willing to live with the organizational chaos of three simultaneous product launches. Founders who say they are willing but are actually Stuart-Butterfield-style reluctant to go multi-product should be identified early and investors should consider selling at current high valuations rather than holding through the inevitable commoditization. The signal is behavioral: watch whether the CEO allocates capital to adjacent products or preserves all capital for the core.

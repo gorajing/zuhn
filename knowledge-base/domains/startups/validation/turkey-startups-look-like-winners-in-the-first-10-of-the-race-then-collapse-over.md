@@ -48,10 +48,10 @@ stance: >-
   rapid early growth followed by sudden total collapse when the platform
   corrects
 related:
+  - INS-260424-E832
   - PRI-260405-5912
   - PRI-260328-C918
   - INS-260330-DE80
   - PRI-260406-0ACE
-  - INS-260330-78B1
 ---
 The 'turkey startup' metaphor (attributed to PB/Paul Buchheit) captures a pattern that repeats across every platform era: the business metrics look increasingly good right up until the moment they go to zero. SEO spam companies had great revenue until Google updated its algorithm. App Store subscription traps showed impressive LTV until Apple cracked down. ICO projects showed massive fundraises until the market collapsed. The key diagnostic is whether your growth is built on genuine user value or on exploiting a temporary platform gap. If users would leave the moment the platform changed its rules, you're a turkey. The uncomfortable truth is that turkey startups can raise VC money, show impressive metrics, and feel like real companies — the graph literally looks like winning until the day it doesn't.

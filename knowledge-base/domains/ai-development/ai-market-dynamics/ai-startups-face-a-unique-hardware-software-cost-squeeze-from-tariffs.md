@@ -51,7 +51,6 @@ stance: >-
   punished by semiconductor tariffs compared to API-first competitors
 related:
   - INS-260325-BEAC
-  - INS-260327-7D53
   - INS-260403-4C61
   - INS-260329-C754
   - INS-260403-7037

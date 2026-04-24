@@ -63,7 +63,7 @@ related:
   - INS-260412-AB09
   - INS-260410-F0E4
   - INS-260403-E482
-  - INS-260412-22A6
+  - INS-260424-AE8B
 ---
 In the mid-2000s Steve Jobs approached Paul Otellini about manufacturing the iPhone SoC. Intel already made the Mac CPUs. The deal died because Otellini thought the offered price was too low to justify the factory capacity. Apple went to Samsung, then to TSMC, and the volumes from iPhone (plus Apple silicon, plus every hyperscaler custom chip that followed the same fabless model) rerouted the entire semiconductor industry away from Intel. Intel's market cap is now a fraction of TSMC's and smaller than ASML's.
 

@@ -53,8 +53,6 @@ stance: >-
   of expertise, the market punishes it far more severely than if it had missed
   an opportunity in an unrelated field.
 related:
-  - INS-260327-BE1F
-  - INS-260410-5799
   - INS-260410-F0E4
   - INS-260412-DC05
   - INS-260412-5768

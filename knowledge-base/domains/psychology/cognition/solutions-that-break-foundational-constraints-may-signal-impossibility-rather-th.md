@@ -48,7 +48,6 @@ stance: >-
   of revolutionary potential.
 related:
   - INS-260323-5199
-  - INS-260322-A8F2
   - INS-260403-368A
   - PRI-260323-6644
   - INS-260325-CC49

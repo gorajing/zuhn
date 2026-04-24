@@ -63,9 +63,9 @@ stance: >-
 related:
   - INS-260410-431E
   - INS-260330-56B2
+  - INS-260424-B404
   - INS-260330-3084
   - INS-260327-D0F4
-  - INS-260403-F62E
 ---
 In 1979 Sony's marketers, engineers, and board all opposed the Walkman. The product had no speakers, no recording capability, and required people to put things in their ears while walking around in public — a behavior that simply did not exist at scale. Marketers said nobody wanted this. Engineers said the power budget was impossible. Morita overrode all of them and personally committed to resign if the first 30,000 units didn't sell in six months. The product tripled monthly for many consecutive months and ultimately sold a quarter billion units.
 

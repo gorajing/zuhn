@@ -1,6 +1,6 @@
 # Topic: ai-capabilities
 
-> 157 insights
+> 160 insights
 
 - `INS-260321-E4EB` [very_high] AI made idea generation almost free, just as the internet made communication almost free — the bottleneck shifted to verification, evaluation, and filtering signal from noise.
 - `INS-260321-7D7C` [very_high] AI's superpower is breadth (trying every technique on every problem simultaneously), humans' is depth (cumulative progress from partial understanding). Science must restructure to exploit both.
@@ -101,6 +101,7 @@
 - `INS-260403-8953` [high] AI that writes code can act on the physical world through software systems, making it far more dangerous than AI that only talks.
 - `INS-260330-0C0C` [high] Embedding spaces develop meaningful geometric structure as a side effect of prediction training, with directions encoding concepts like gender and nationality.
 - `INS-260323-6134` [high] The most elegant and efficient robot movement comes from designing machines whose physics naturally want to do the right thing, then augmenting with control rather than overpowering.
+- `INS-260424-3176` [medium] Ben Gilbert: a lot more AI tasks will start feeling synchronous instead of async — there's such a big difference in computing applications between something that feels instant versus not, and we can't yet predict what that unlocks.
 - `INS-260409-17E9` [medium] Aletheia matches a 6-month-old model's reasoning performance using 100x less inference compute, driven by a stronger base model rather than more thinking time.
 - `INS-260329-8DDF` [medium] Superintelligent AI access will be the defining resource of the future, more valuable than energy, capital, or territory.
 - `INS-260403-C709` [medium] Claude Opus 4.6's adaptive effort — dynamically adjusting reasoning depth by task difficulty — represents a fundamental shift from uniform computation to intelligent resource allocation.
@@ -136,6 +137,7 @@
 - `INS-260410-4782` [medium] Pure video prediction is cursed by having to model too much — clouds, molecules, pedestrians, everything — while an embodied agent with a goal has a ruthless focusing mechanism that tells it what to pay attention to, making the same raw data far more learnable.
 - `INS-260409-5975` [medium] LLM self-verifiers that see the reasoning trace rubber-stamp it; hiding the trace and showing only the final claim forces a fresh evaluation.
 - `INS-260323-8519` [medium] The LLM paradigm applied to biological data — 'large molecule models' — could unlock nature's design intelligence across all five kingdoms of life.
+- `INS-260424-4111` [medium] Logan Kilpatrick (citing Jeff Dean): the frontier of autonomous agent runtime today is on the order of hours; in the next 12 months it's truly going to be on the order of days or weeks.
 - `INS-260322-32E3` [medium] Math and formal reasoning are domains where RL-based AI training works especially well, making AI-driven proofs of major unsolved math problems plausible within 5 years.
 - `INS-260410-8DDD` [medium] Self-driving stagnated for 15+ years because you cannot let a car make-and-correct mistakes at 60mph; manipulation is different because dishes can break and the robot just tries again — which turns each failure into training data.
 - `INS-260321-3967` [medium] The current monoculture of one model for everything will give way to speciated models — smaller models with the cognitive core intact but specialized for specific domains, like the animal kingdom's brain diversity.
@@ -145,6 +147,7 @@
 - `INS-260409-E776` [medium] Math olympiad AI scores jumped from ~65% to ~95% in a few months — the benchmark is saturating and will stop discriminating between frontier models soon.
 - `INS-260321-C3E6` [medium] A research organization is described by its program.md — you can imagine having a better research organization the same way you optimize code. Fewer standups, different risk profiles, optimized instructions.
 - `INS-260323-0603` [medium] Social pressure on speech creates invisible constraints on thinking itself — anonymous communication can unlock broader parameter spaces of thought.
+- `INS-260424-9544` [medium] Logan Kilpatrick: robotics is at this crossroads that I think a lot of the coding models were at 18 months ago — we're probably 12-18 months from a bunch of significant breakthroughs.
 - `INS-260325-1B3E` [medium] The first quantum revolution gave us lasers, transistors, and GPS; the second leverages entanglement and superposition for quantum computers, sensing, imaging, and communication.
 - `INS-260322-474A` [medium] AI automating AI R&D won't produce runaway self-improvement because research requires proportional scaling of experimental compute, not just more researchers.
 - `INS-260409-1D91` [medium] Birds achieving cognitive parity with mammals via a completely different pallial architecture is biological proof that intelligence doesn't require a specific substrate — relevant analogy for AI systems that differ structurally from brains.

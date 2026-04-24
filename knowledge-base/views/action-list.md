@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-23 | 5003 actionable insights
+Generated on 2026-04-24 | 5008 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -110,6 +110,7 @@ Generated on 2026-04-23 | 5003 actionable insights
 - [INS-260423-6879] ADK lab: before the A2A inspector interaction, run a dummy wake-up call so the cold-start latency doesn't hit the user; second call responds instantly.
 - [INS-260423-7396] Hinton: Microsoft took an AI, made several copies, told them to play different roles and talk to each other — that does better than most doctors at diagnosis.
 - [INS-260423-72D0] Cody: this isn't go open Claude Code and give it access to everything — I'm talking about specific jobs-to-be-done workflows custom-made for how you operate day-to-day.
+- [INS-260424-FE8E] Logan Kilpatrick: we have someone whose job is to take a bunch of these agentically-engineered changes and get them over the line into the actual AI Studio codebase, and is also responsible for how to make that cycle better.
 
 ## ai-development/agents
 - [INS-260405-FE94] Coinbase's Agentic Wallets let AI agents hold funds, pay for APIs, and execute trades without human approval at each step.
@@ -178,6 +179,7 @@ Generated on 2026-04-23 | 5003 actionable insights
 
 ## ai-development/ai-business-models
 - [INS-260423-81C4] Seth Godin: when AI is the buyer, you're going to lose — it's hard to teach an AI why the non-cheapest is worth it, so it buys the cheap one.
+- [INS-260424-E832] Logan Kilpatrick: there is way more demand than there is supply across every Google product surface — over the next 2-3 years you'll end up with a fixed amount of tokens, where do you deploy them in your own life and your business?
 
 ## ai-development/ai-capabilities
 - [INS-260323-4D14] Jensen Huang argues the last decade was about the science of AI; the next decade will be about applying AI to biology, climate, agriculture, robotics, logistics, and every other domain.
@@ -412,6 +414,8 @@ Generated on 2026-04-23 | 5003 actionable insights
 - [INS-260403-529D] Telling the AI 'you are a clinical researcher' or 'you are a senior developer' shifts its entire output posture from generalist to specialist.
 - [INS-260410-CD15] Paste the chapter you're currently reading into Claude/ChatGPT, ask for a summary first, then ask questions as you read — retention and cross-domain access both jump.
 - [INS-260423-C506] Cody Schneider: I kept trying to describe a TV-type texture and it came out terrible; then I found someone with the specific lexicon and it literally one-shot what I was looking for.
+- [INS-260424-1E10] Ben Gilbert: most people for most tasks throughout the day, it still doesn't occur to you even if you're an AI maximalist trying to lean into the tools — there's just not the muscle memory yet, and most people 99-plus-percent still don't think 'I should create an agent to do that on my behalf.'
+- [INS-260424-BFDC] Logan Kilpatrick: instead of asking for one thing, you can now ask for 30 things — but the weight is on me, the onus is on me to be like I really could build this.
 
 ## ai-development/infrastructure
 - [INS-260410-0DA5] Anthropic's existing benchmarks didn't flag the degradation users were reporting because benchmarks test isolated prompts and Claude often recovers from single mistakes even when the underlying quality has dropped.
@@ -567,6 +571,7 @@ Generated on 2026-04-23 | 5003 actionable insights
 - [INS-260405-10DF] Knowledge workers spend nearly two hours per week fixing low-quality AI outputs ('workslop'), creating a hidden productivity tax during the adoption dip.
 - [INS-260409-3AEE] Founders are now shipping in days what used to take engineer-months or years — Chamath vibe-coded a bookmark service he'd sat on for 15 years in one weekend, and his team doubled click-through rates via auto-research in a day.
 - [INS-260410-4CE7] For nutrition labels, blood tests, ingredient lists — first ask the model to transcribe the image to text so you can verify it saw correctly, then ask your real question.
+- [INS-260424-50EE] Logan Kilpatrick: if you haven't tried it in the last 2 weeks, go check it out — what didn't work last year now works.
 
 ## ai-development/prompting
 - [INS-260405-880C] Prompt engineering has an accumulating body of research-backed techniques that reward systematic study over ad-hoc experimentation.

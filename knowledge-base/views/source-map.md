@@ -1,5 +1,5 @@
 # Source Map
-Generated on 2026-04-23 | 2530 sources
+Generated on 2026-04-24 | 2541 sources
 
 | Source | Type | Insights | Date |
 |--------|------|----------|------|
@@ -185,6 +185,7 @@ Generated on 2026-04-23 | 2530 sources
 | 2025 Year In Review | youtube | 8 | 2026-03-29 |
 | A $350,000 AI AD Using Only 1 Tool (2026) | youtube | 8 | 2026-04-09 |
 | A Day In My Life for Longevity (Live to 120+) | youtube | 8 | 2026-03-26 |
+| Acquired's Ben Gilbert and David Rosenthal live from Google Cloud Next | youtube | 8 | 2026-04-24 |
 | Are SaaS Companies Cooked: Which Thrive & Which Die | Aaron Levie | youtube | 8 | 2026-04-23 |
 | Ben Shapiro vs Destiny Debate: Politics, Jan 6, Israel, Ukraine & Wokeism | Lex Fridman Podcast #410 | youtube | 8 | 2026-03-30 |
 | Claude Code & MCPs built my $145K marketing machine | youtube | 8 | 2026-04-23 |
@@ -205,6 +206,7 @@ Generated on 2026-04-23 | 2530 sources
 | Lost technologies and the secrets they hold, in 53 minutes | Sam Kean: Full Interview | youtube | 8 | 2026-03-25 |
 | Men are dying at alarming rates | Richard Reeves | youtube | 8 | 2026-03-25 |
 | Neil deGrasse Tyson: 3 mind-blowing space facts | Big Think | youtube | 8 | 2026-03-30 |
+| Next '26: The Future of AI Infrastructure | youtube | 8 | 2026-04-24 |
 | OpenAI Buys TBPN & Their Management Team Reboot | Mercor Hack & Why Now is the Time for Cyber | youtube | 8 | 2026-04-23 |
 | Shockingly Good Predictions | youtube | 8 | 2026-03-29 |
 | Slop vs Craft | youtube | 8 | 2026-04-23 |
@@ -212,6 +214,7 @@ Generated on 2026-04-23 | 2530 sources
 | Testing if 60 minutes of silence drives you crazy | youtube | 8 | 2026-03-30 |
 | The Truth is Finally Coming Out… About Health Freedom | youtube | 8 | 2026-03-26 |
 | Tucker Carlson: Putin, Navalny, Trump, CIA, NSA, War, Politics & Freedom | Lex Fridman Podcast #414 | youtube | 8 | 2026-03-30 |
+| Vibe coding to production: Logan Kilpatrick on the evolution of AI Studio | youtube | 8 | 2026-04-24 |
 | We are living through a slowdown in human progress | Jason Crawford | youtube | 8 | 2026-03-25 |
 | What Happens If You Take Collagen Every Day? | youtube | 8 | 2026-03-26 |
 | What You Can Learn From Our $20B Groq Deal | youtube | 8 | 2026-04-23 |
@@ -2475,9 +2478,12 @@ Generated on 2026-04-23 | 2530 sources
 | "딱 3년만 미친듯이 해보세요" 1조 기업 회장이 말하는 AI 시대의 진짜 생존 공식 (feat. 언러닝 학습법) | youtube | 0 | 2026-04-23 |
 | 수면 전문의가 매일 아침 스마트워치로 체크하는 '3가지'ㅣ지식인초대석 EP.117 (주은연 교수 2부) | youtube | 0 | 2026-04-23 |
 | 뇌과학자가 '이 책' 읽고 하지 않게 된 4가지 "생각 수준이 달라진다"  (사람산책 통합본) | youtube | 0 | 2026-04-23 |
+| A closer look at Agents CLI | youtube | 0 | 2026-04-24 |
+| A closer look at Gemma 4 with Baseten and NVIDIA | youtube | 0 | 2026-04-24 |
 | Adam Marblestone – AI is missing something fundamental about the brain | youtube | 0 | 2026-04-23 |
 | 뇌과학자가 말하는 AI 시대에도 끝까지 살아남는 5가지 능력 ㅣ 김대식 교수님의 고전 책 5권 추천 ㅣ도서리뷰 | youtube | 0 | 2026-04-23 |
 | AI Is Unlocking Millions Of New Builders | youtube | 0 | 2026-04-23 |
+| Automating Creativity: Building Gen Media Agents with ADK and MCP | youtube | 0 | 2026-04-24 |
 | Ben Horowitz on AI Anxiety, Big Tech Transitions & The Future of Startups | a16z | youtube | 0 | 2026-04-23 |
 | Ben Horowitz On What Makes a Great Founder | youtube | 0 | 2026-04-23 |
 | BillionToOne Is Solving One of Biotech’s Hardest Problems | youtube | 0 | 2026-04-23 |
@@ -2494,7 +2500,11 @@ Generated on 2026-04-23 | 2530 sources
 | Extreme Harness Engineering: 1M LOC, 1B toks/day, 0% human code or review — Ryan Lopopolo, OpenAI | youtube | 0 | 2026-04-23 |
 | Former Warner Records President REVEALS How Great Artists Are Built | youtube | 0 | 2026-04-23 |
 | François Chollet: Why Scaling Alone Isn’t Enough for AGI | youtube | 0 | 2026-04-23 |
+| From idea to production: Building AI apps with GDE Tomek Porozynski | youtube | 0 | 2026-04-24 |
+| From Prototype to Production: Building with Gemini Enterprise Agent Platform | youtube | 0 | 2026-04-24 |
 | From SEO to Agent-Led Growth: Profound's James Cadwallader | youtube | 0 | 2026-04-23 |
+| From smartphones to Raspberry Pi: Running Gemma 4 anywhere | youtube | 0 | 2026-04-24 |
+| From systems of intelligence to systems ofaAction: Yasmeen Ahmad on the agentic data cloud | youtube | 0 | 2026-04-24 |
 | GDPO Explained: NVIDIA Fixes GRPO for LLM Reinforcement Learning | youtube | 0 | 2026-04-23 |
 | Google Dorking (Find Everything Online!) | youtube | 0 | 2026-04-23 |
 | How Autonomous Labs Will Transform Scientific Research: Ginkgo Bioworks’ Jason Kelly | youtube | 0 | 2026-04-23 |
@@ -2512,6 +2522,7 @@ Generated on 2026-04-23 | 2530 sources
 | Marc Andreessen on The Future of VC: Will a16z Go Public & Why Introspection is Dangerous? | youtube | 0 | 2026-04-23 |
 | mHC Explained: How DeepSeek Rewires LLMs for 2026 | youtube | 0 | 2026-04-23 |
 | Michael Nielsen – Why aliens will have a different tech stack than us | youtube | 0 | 2026-04-23 |
+| Nano Banana, Veo, and Lyria: Mastering the Google gen media stack | youtube | 0 | 2026-04-24 |
 | Notion’s Sarah Sachs & Simon Last on Custom Agents, Evals, and the Future of Work | youtube | 0 | 2026-04-23 |
 | OpenClaw, Claude Code, and the Future of Software | Peter Yang on The a16z Show | youtube | 0 | 2026-04-23 |
 | Oura’s Tom Hale: What People Don’t Tell You About Being CEO | youtube | 0 | 2026-04-23 |

@@ -23,13 +23,13 @@
 - `INS-260323-9770` LIGO scientists built a billion-dollar machine on Einstein's unproven prediction and waited 10 years of silence before their first detection.
 - `INS-260320-07A2` Hire people who were already customers — they have conviction you can't interview for.
 - `INS-260327-7F11` The biggest wins come from holding ideas that smart people call stupid—expert consensus is where the alpha is.
+- `INS-260403-E7E1` When everyone has the team and the tech, the scarce resource is a strong enough point of view on what should exist.
 - `INS-260403-AC74` Self-conviction based on honest evaluation is more persuasive than rehearsed pitch technique.
 - `INS-260403-C349` Synthesia rejected $3B acquisition offers from Adobe and Meta, then raised $180M independently after enduring 100 rejections.
 - `INS-260403-BF83` VC due diligence is designed to confirm or deny an initial gut feeling about a startup rather than to objectively discover its merits.
 - `INS-260405-5D19` Behind every pitch decision is a messy mix of conviction, timing, and 'who else is in?' social proof — which founders can engineer.
-- `INS-260403-E7E1` When everyone has the team and the tech, the scarce resource is a strong enough point of view on what should exist.
-- `INS-260403-E592` Outsiders disrupt better because they reach conviction before accumulating the insider knowledge that would prevent them from starting.
 - `INS-260327-2520` Arora didn't even know cybersecurity was one word when he joined Palo Alto, but succeeded by learning furiously while projecting calm conviction — like a duck, serene on top but paddling furiously underneath.
+- `INS-260403-E592` Outsiders disrupt better because they reach conviction before accumulating the insider knowledge that would prevent them from starting.
 - `INS-260330-5A82` Phil Knight failed at selling encyclopedias but effortlessly sold running shoes because customers sensed his genuine conviction in the product's superiority.
 - `INS-260329-2B04` Deep conviction in what you sell transfers more powerfully than any closing technique because prospects can sense authenticity and it makes the seller immune to rejection streaks.
 - `INS-260329-EF96` True conviction that the product helps people creates involuntary tonal authority that prospects detect and respond to, independent of the words spoken.

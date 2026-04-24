@@ -44,11 +44,11 @@ resolutions:
     to building what you think customers want: let your real users reveal the
     value they actually extract, then pivot your positioning to match reality.
 related:
+  - INS-260424-B404
   - INS-260322-55D8
   - INS-260423-F124
   - INS-260323-6414
   - INS-260404-B086
-  - PRI-260323-7B35
 stance: >-
   80% of TwoSpace's 10,000 members already had offices — they were paying for
   community access and environmental variety, not affordable workspace.

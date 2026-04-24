@@ -54,7 +54,6 @@ stance: >-
 related:
   - INS-260320-9D89
   - INS-260325-252D
-  - INS-260321-C5AA
   - INS-260327-A22D
   - INS-260327-A9D5
   - INS-260327-BB71
@@ -62,6 +61,7 @@ related:
   - INS-260330-0F23
   - INS-260330-8F07
   - INS-260330-AB67
+  - INS-260405-E8A1
 evidence:
   - id: INS-260327-A9D5
     type: EXTENDS

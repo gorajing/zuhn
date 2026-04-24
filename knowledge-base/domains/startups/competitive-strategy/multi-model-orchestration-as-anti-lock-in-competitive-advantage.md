@@ -44,10 +44,10 @@ stance: >-
   refuse to be locked into a single AI vendor.
 related:
   - INS-260321-D01E
+  - INS-260424-24A3
   - INS-260403-8256
   - INS-260403-7A48
   - INS-260322-0E41
-  - INS-260403-F68B
   - INS-260403-9BEF
 evidence:
   - id: INS-260321-D01E

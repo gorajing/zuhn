@@ -12,8 +12,8 @@
 - `INS-260412-CE4D` WeWork's tech narrative sustained a $47B valuation that collapsed 80% once IPO filings revealed it was losing $5,000 per new customer.
 - `INS-260402-D7C7` The end of zero interest rates forces a binary sort of companies into those with real unit economics and those that were subsidized by cheap money.
 - `INS-260412-4D5D` Samsung's 80 subsidiaries across construction, finance, healthcare, and electronics prevent existential risk but didn't prevent a $122B market cap loss because markets price the flagship's trajectory, not the portfolio's floor.
-- `INS-260404-D475` Kalshi's $11B valuation and 1000% volume growth validates regulated prediction markets as a mainstream financial category.
 - `INS-260405-F374` SpaceX at $350B staying private proves the largest strategic assets no longer need public markets for liquidity.
+- `INS-260404-D475` Kalshi's $11B valuation and 1000% volume growth validates regulated prediction markets as a mainstream financial category.
 - `INS-260411-0841` Household net worth at 560% of GDP and low credit spreads mean anything less than positive outcomes could trigger dramatic asset price declines.
 - `INS-260412-C69B` JP Morgan's $175M acquisition of Frank collapsed because the bank accepted indirect evidence of 4.25M users without independently verifying the customer database.
 - `INS-260403-D880` Judging sky-high valuations by the revenue needed to justify them — given realistic margins, growth, and reinvestment — reveals that aggregated company narratives often exceed plausible total market demand.
@@ -30,8 +30,8 @@
 - `INS-260403-A07A` Investors psychologically resist paying higher prices for companies they already own, even when new information strongly supports the higher valuation.
 - `INS-260404-A2C4` AI companies appear at every valuation tier from $10B to $157B across radically different verticals, confirming AI as a horizontal platform shift.
 - `INS-260405-70D4` Shield AI's 140% valuation jump in one year reflects that government defense AI contracts produce lock-in dynamics more durable than most commercial software.
-- `INS-260409-0988` Once you're a zombie, the odds of getting rich from acquisition are effectively nil — your revenue doesn't move the acquirer's needle.
 - `INS-260330-D63C` At PayPal in 2001, 75% of the company's value came from projected cash flows in 2011 and beyond — proving that durability, not growth rate, dominates value equations.
+- `INS-260409-0988` Once you're a zombie, the odds of getting rich from acquisition are effectively nil — your revenue doesn't move the acquirer's needle.
 - `INS-260403-6E4C` Big Tech is acquiring AI startup teams in quiet sub-$20M deals as founders who raised too much hit AI headwinds.
 - `INS-260402-3D34` Excessive early dilution locks in low valuations that create down-round dynamics or insufficient upside for later-stage investors.
 - `INS-260403-7DC7` Cost-to-Duplicate valuation rewards spending over efficiency, creating a paradox where lean teams must argue beyond cost to get fair valuations.
@@ -63,6 +63,6 @@
 - `INS-260403-001C` The VC Method estimates future exit value then discounts back to today using target return rates, bypassing the need for cash flow history.
 - `INS-260405-DADB` VCs explicitly screen for network effects because they are the strongest defensibility mechanism in software — each new user increases value for all users.
 - `INS-260403-DAFA` Dealroom's 2025 VC ranking weights two-thirds of scores on real revenue milestones rather than growth narratives.
+- `INS-260405-180A` Lacework's near-total value destruction illustrates how much 2021 unicorn valuations were driven by rate environment rather than business quality.
 - `INS-260405-4CDA` The 1980s leveraged buyout wave succeeded partly because corporate balance sheets never formalized the debt owed to employees for deferred promotion promises.
 - `INS-260403-B228` Valuation reflects how much uncertainty remains — momentum can inflate it temporarily but markets always revert to evidence.
-- `INS-260405-180A` Lacework's near-total value destruction illustrates how much 2021 unicorn valuations were driven by rate environment rather than business quality.

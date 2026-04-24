@@ -20,8 +20,8 @@
 - `INS-260325-45BC` In 1971, men were 56% of psychology undergraduates; now it is 20% and falling — Reeves argues this gender imbalance in caregiving professions may matter even more than the lack of women in tech.
 - `INS-260330-206F` There are infinitely more ways to make your life worse than better, so protect what you have rather than chasing marginal gains.
 - `INS-260325-5A93` CIA, Mossad, and MI6 all look for the same trait: someone so loyal and dependent on external validation that they will lie, steal, and change their identity to earn approval from one institution.
-- `INS-260405-874D` Autonomy in work is a one-way door: once crossed, the cage of a managed job becomes visible and unbearable.
 - `INS-260330-D42C` Responsive desire (emerging from pleasure, not before it) is normal — recognizing it resolves most 'low desire' concerns without intervention.
+- `INS-260405-874D` Autonomy in work is a one-way door: once crossed, the cage of a managed job becomes visible and unbearable.
 - `INS-260412-FEE1` Antarctic winter crews are more isolated than ISS astronauts—seven months with zero possibility of external support, requiring total pre-commitment of resources and personnel.
 - `INS-260330-568F` Adversarial questioning triggers defensive responses with rehearsed talking points, while patient listening reveals authentic beliefs.
 - `INS-260327-4153` Living deep in the Amazon for 17 years restructured Rosolie's entire value system in ways that no intellectual understanding of nature could replicate.
@@ -44,10 +44,10 @@
 - `INS-260323-3A54` Atlas discovered that his anger and street violence came from emotional poverty despite material comfort -- being a doctor's son with a disjointed family taught him that deprivation of connection drives destructive behavior regardless of economic status.
 - `INS-260409-7C92` Buyers pay when they are thirstiest; lead magnets should intensify deprivation, not relieve it.
 - `INS-260409-2AF8` When prospects pay with time now, they are more likely to pay with money later.
-- `INS-260330-C84C` If you want to raise $500k, tell investors you're raising $250k — hitting milestones faster creates FOMO.
 - `INS-260403-5441` The biggest startup ideas trigger fear and identity threat, causing founders to unconsciously filter them out.
-- `INS-260409-1BFD` Availability friction raises perceived value; waiting lists create the FOMO that 'buy now' buttons destroy.
+- `INS-260330-C84C` If you want to raise $500k, tell investors you're raising $250k — hitting milestones faster creates FOMO.
 - `INS-260323-4D5E` People decide based on what they care about first, then construct rational justifications — which makes reason itself an emotion-based process.
 - `INS-260327-5F94` The acute crisis gets adrenaline and support; the real challenge is the psychological rebuilding on day 60 that nobody talks about.
+- `INS-260409-1BFD` Availability friction raises perceived value; waiting lists create the FOMO that 'buy now' buttons destroy.
 - `INS-260329-0B1D` Label prospects with positive traits during objections so they later feel compelled to live up to those identities at close time.
 - `INS-260329-116A` Sales objections are psychological distortions of reality that map to Albert Ellis's three core CBT distortions: circumstances, others, and self.

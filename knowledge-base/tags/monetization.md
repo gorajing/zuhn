@@ -14,11 +14,11 @@
 - `INS-260403-75E3` Per-seat pricing creates an inverse relationship between AI product effectiveness and revenue.
 - `INS-260403-7C60` Game companies constantly adjust conversion pressure per user segment; most non-game companies set one static paywall and leave money on the table.
 - `INS-260404-B8EB` Usage-based pricing is displacing seat-based licensing as the dominant SaaS monetization model.
+- `INS-260330-80A7` Vine died because it couldn't pay creators — when top Viners demanded $1.2M each annually and Twitter refused, they left, triggering a death spiral that killed the platform within two years.
 - `INS-260403-29EB` Lenny crossed 1,000 paid subscribers and exceeded his Airbnb PM Lead salary within months of launching paid.
 - `INS-260403-002C` VC newsletters increasingly monetize through embedded partner tool credits rather than paywalling core content.
-- `INS-260330-80A7` Vine died because it couldn't pay creators — when top Viners demanded $1.2M each annually and Twitter refused, they left, triggering a death spiral that killed the platform within two years.
 - `INS-260403-3656` Stripping live ops from a successful game would lose roughly 40% of revenue — yet most non-game companies don't invest in equivalent continuous content operations.
+- `INS-260410-00F0` 'Organize the world's information and make it universally accessible and useful' was genius because it was broad enough to scale for 25+ years, altruistic enough to recruit generational engineering talent, and tautologically monetizable — anyone who organizes information for hundreds of millions of people can monetize intent.
 - `INS-260321-F0DF` TikTok Live has massive viewer supply but low creator supply — musicians going live regularly earn $10K+/month from TikTok payments while building thousands of followers per week.
 - `INS-260402-D8E7` Pretty much 100% of startups that make something popular manage to make money from it.
 - `INS-260403-3739` Validating that customers will pay for a solution is a stricter and more predictive test than just confirming they have the problem.
-- `INS-260410-00F0` 'Organize the world's information and make it universally accessible and useful' was genius because it was broad enough to scale for 25+ years, altruistic enough to recruit generational engineering talent, and tautologically monetizable — anyone who organizes information for hundreds of millions of people can monetize intent.

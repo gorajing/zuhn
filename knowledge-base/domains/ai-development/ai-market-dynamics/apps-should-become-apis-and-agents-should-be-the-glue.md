@@ -38,8 +38,8 @@ related:
   - INS-260410-F910
   - PRI-260328-8317
   - INS-260409-96B0
+  - INS-260424-273F
   - INS-260410-85AD
-  - INS-260403-0350
 stance: >-
   Custom apps are overproduction — everything should be exposed API endpoints
   with agents as the intelligent glue that tool-calls all the parts.

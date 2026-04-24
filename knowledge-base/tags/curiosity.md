@@ -2,10 +2,10 @@
 
 - `INS-260322-B693` Using AI to optimize exam performance produces 'human versions of AI' — the real educational opportunity is cultivating intrinsic motivation and original thinking.
 - `INS-260405-2021` Musk's 'Hitchhiker's Guide' framing — the answer is 42, but we don't know the question — reframes progress as a problem of question quality, not answer capacity.
-- `INS-260330-3B05` Kissing, curiosity, and exploration all share an evolutionary root: organisms that convert uncertainty into knowledge make better decisions and outcompete those that don't.
 - `INS-260402-8223` Great work comes from deep curiosity about specific questions, not from forcing yourself through material via discipline.
 - `INS-260403-AAE4` The paths to new ideas look unpromising by definition — if they looked promising, others would have already explored them.
 - `INS-260404-F227` Optimizing creative output for audience surprise is less effective than following genuine curiosity, because curiosity-driven exploration surfaces authentically novel ideas.
+- `INS-260330-3B05` Kissing, curiosity, and exploration all share an evolutionary root: organisms that convert uncertainty into knowledge make better decisions and outcompete those that don't.
 - `INS-260327-4EDE` Authentic curiosity develops problem-solving skills that survive AI automation; credential-seeking does not.
 - `INS-260327-A817` AI can execute defined tasks, but asking the right questions—knowing what to solve—remains uniquely human.
 - `INS-260403-A51A` Schools handle breadth; parents should encourage preposterously deep pursuit of whatever a child finds genuinely fascinating.
@@ -22,8 +22,8 @@
 - `INS-260323-0865` SLAC researchers get most excited when simulated electron behavior diverges from experimental measurements — the gap is where new physics lives.
 - `INS-260325-1EAC` Shunryu Suzuki's teaching that beginner's mind holds many possibilities while expert's mind holds few applies to relationships, business, and self-understanding alike.
 - `INS-260330-633F` Passion ignites the rocket but burns out fast; curiosity is the propellant that keeps you in orbit for decades.
-- `INS-260403-5EEA` Topic selection should prioritize what gives you energy to think and write about for years, not what the market says it wants.
 - `INS-260402-7E2A` Ambition makes you climb known peaks, but curiosity can create entirely new fields with the most extreme returns.
+- `INS-260403-5EEA` Topic selection should prioritize what gives you energy to think and write about for years, not what the market says it wants.
 - `INS-260323-810D` At 54 with grown children and strong convictions, Carlson finds that pure curiosity ('I was just interested') is the most sustainable and honest driver -- outlasting career anxiety, reputation management, and fear.
 - `INS-260323-F540` JFK's greatest quality was not courage but curiosity — the ability to see the world from adversaries' perspectives enabled breakthroughs like the Cuban Missile Crisis resolution.
 - `INS-260323-C814` Boston Dynamics' extremely low attrition comes from people pursuing genuine fascination — you do it much better when you love it.

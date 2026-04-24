@@ -54,8 +54,8 @@ stance: >-
 related:
   - INS-260403-643A
   - INS-260409-A682
+  - INS-260424-123B
   - INS-260405-C1E4
   - INS-260403-D6C2
-  - INS-260404-D6F7
 ---
 Appleton identifies a distinct category of people who are technically savvy and interested in solving problems for themselves and their community but don't want to become full-time programmers. Right now they live in no-code tools — teachers with elaborate Notion spreadsheets for class management, students with over-the-top personal dashboards, financial planners with gigantic Excel files. They push these tools to their limits, but they never cross what Appleton calls 'the command line wall.' The terminal is a huge jump in complexity, usability, and frustration from Airtable or Notion. The result: their work is held hostage in the cloud behind monthly subscription fees, and they have far less agency than full developers. The command line wall is not an individual failing — it is a structural design gap where nothing exists between 'fully no-code' and 'fully professional developer.' Every attempt to fill this gap in the last 20 years has failed because the cliff was too high for the available tools. This is the specific skill gap LLM-based orchestration is now uniquely positioned to fill.

@@ -18,9 +18,9 @@
 - `INS-260403-97F8` Switching costs should be deliberately architected into the business model, not left as a byproduct of product stickiness.
 - `INS-260410-3B42` Rentech's location in East Setauket — a wooded Long Island town of 10,000 — is a load-bearing cultural feature, not an accident: employees don't grab drinks with Two Sigma counterparts because those counterparts aren't within reach.
 - `INS-260410-0042` Equity to part-time frontline workers isn't retention math — it's the moment a company becomes a different organism.
-- `INS-260405-C1E4` AI coding tools like Base44 grew 900% then cooled within weeks, proving that developer retention requires workflow depth, not feature novelty.
 - `INS-260403-E3CC` Deep operational integration makes ripping out your product so costly that competitors cannot displace you on features or price alone.
 - `INS-260327-C673` Not every product needs to make money — some exist for retention, and confusing the two goals causes teams to optimize for the wrong outcomes.
+- `INS-260405-C1E4` AI coding tools like Base44 grew 900% then cooled within weeks, proving that developer retention requires workflow depth, not feature novelty.
 - `INS-260404-0EE0` Startups that track only revenue and signups miss the early warning signals—return rates, cancellation trends, AOV drops—that predict failure.
 - `INS-260323-C814` Boston Dynamics' extremely low attrition comes from people pursuing genuine fascination — you do it much better when you love it.
 - `INS-260409-D681` Relationships are the ballast that keeps transactional businesses afloat when the deal flow turns — customers stay with people, not products.
@@ -48,10 +48,10 @@
 - `INS-260403-1D7D` For early rounds, present a clean dashboard showing retention, expansion, and CAC efficiency instead of bloated financial projections.
 - `INS-260330-4A89` Raises given on request incentivize lobbying over performance; formal evaluation cycles protect meritocratic culture.
 - `INS-260327-BEEE` Everyone needs money to pay rent, but people work for many other reasons — understanding those motivations and rewarding them is what retains talent.
+- `INS-260409-4EC0` Early-stage churn is an education problem, not a product problem — fix it with your time, not a roadmap.
 - `INS-260329-7F3D` Telling users 'the system is confused' instead of 'you made an error' prevents the emotional shutdown that causes abandonment.
 - `INS-260329-1E81` CS50 tells students 'what matters is not where you end up relative to classmates but where you end up relative to yourself when you began' — the delta is the metric.
 - `INS-260329-D1F2` Real-world data extraction projects retain learners better than synthetic exercises because the output has immediate personal value.
-- `INS-260409-4EC0` Early-stage churn is an education problem, not a product problem — fix it with your time, not a roadmap.
 - `INS-260403-4388` Andrew Chen's data shows churn is almost impossible to fix retroactively, making early retention the critical PMF signal.
 - `INS-260404-8A67` Products that map emotional motivators alongside functional needs achieve stronger retention and organic growth.
 - `INS-260403-3656` Stripping live ops from a successful game would lose roughly 40% of revenue — yet most non-game companies don't invest in equivalent continuous content operations.
@@ -59,9 +59,9 @@
 - `INS-260327-A814` After the initial close, future-pace the customer: 'People love texting me when they hit their first milestone -- would you keep me in the loop on your transformation?' This cements commitment and shifts you from sales rep to partner.
 - `INS-260403-B6F2` Retention, upsells, and product stickiness are the three compounding levers for CLTV that outperform CAC reduction strategies long-term.
 - `INS-260404-A19C` Retention, not acquisition, is the linchpin of durable ARR growth in SaaS.
-- `INS-260404-C13E` Costco pays double the retail average but gets triple the productivity — high wages are an investment with measurable ROI.
 - `INS-260321-E529` Your content feed must feel episodic like a TV show — if each post is a different genre (live, mimed, behind-scenes, different clothes), viewers get the Game of Thrones problem where every episode is a different show.
 - `INS-260403-C837` If Day 1 retention stays under 10% and no cohort flattens across segments, stop A/B testing buttons and rethink the core value proposition.
 - `INS-260403-E1E0` Product-market fit is proven by users staying and returning, not by how many you acquire or how much press you generate.
 - `INS-260403-14E0` Superhuman built a Minimum Lovable Product instead of an MVP, testing whether users loved it rather than whether it worked, and the resulting word-of-mouth created a massive waitlist.
 - `INS-260330-F268` If users tolerate a problem and keep using your product anyway, that problem is probably not worth prioritizing over acquisition barriers.
+- `INS-260404-C13E` Costco pays double the retail average but gets triple the productivity — high wages are an investment with measurable ROI.

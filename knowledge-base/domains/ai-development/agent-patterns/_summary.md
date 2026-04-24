@@ -1,6 +1,6 @@
 # Topic: agent-patterns
 
-> 114 insights
+> 115 insights
 
 - `INS-260321-18D0` [very_high] Your bottleneck shifted from typing speed to token throughput — maximize how many agent sessions you can run in parallel, not how fast you code.
 - `INS-260321-2482` [high] When agents fail, the instinct now is 'I gave bad instructions' not 'the AI can't do this' — most failures are configuration problems, not capability limits.
@@ -85,6 +85,7 @@
 
 - `INS-260410-E658` [high] Let agents write while-loops and if-statements as code rather than rerunning the model to evaluate each branch.
 - `INS-260410-199B` [high] pass@k rewards capability ceiling; pass^k rewards floor consistency — the metric that actually matters for production agents.
+- `INS-260424-FE8E` [high] Logan Kilpatrick: we have someone whose job is to take a bunch of these agentically-engineered changes and get them over the line into the actual AI Studio codebase, and is also responsible for how to make that cycle better.
 - `INS-260410-1030` [high] Workflows orchestrate LLMs through predefined code paths; agents let LLMs dynamically direct their own process and tool use — pick deliberately based on whether you need predictability or flexibility.
 - `INS-260411-5478` [high] Use AgentTool to wrap a sub-agent hierarchy as a callable function, letting parent agents delegate without managing internals.
 - `INS-260410-F259` [high] System prompts fail at two extremes: brittle hardcoded if-else logic or vague high-level guidance — aim for the middle altitude.

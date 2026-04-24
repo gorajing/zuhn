@@ -51,10 +51,10 @@ stance: >-
 related:
   - INS-260325-E62D
   - INS-260323-7A11
+  - INS-260424-0554
   - INS-260405-567D
   - INS-260423-6172
   - INS-260409-17E9
-  - INS-260405-A22F
   - INS-260403-C709
 ---
 Kagan traces the evolution: perceptual AI (image classification) was a single forward pass. Generative AI requires recursive token-by-token generation, each requiring a full model pass. Reasoning adds another multiplier -- the model explores multiple solution paths. Combined with the fact that you train once but infer billions of times (ChatGPT's billion users pounding the same model), inference compute demand has matched or exceeded training.

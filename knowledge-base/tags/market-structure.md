@@ -23,5 +23,5 @@
 - `INS-260403-F66F` Fragmented markets with entrenched but low-quality incumbents let startups capture outsized value through aggregation and 10X better experiences.
 - `INS-260330-A0AE` Creating enormous value (X) guarantees nothing about capturing it (Y%) — airlines created $195B in revenue but cumulative profits ≈ zero over 100 years, while Google captured far more from a smaller market.
 - `INS-260405-9492` Overlapping valuation bands across seed, Series A, and Series B mean stage labels no longer reliably communicate company maturity or risk profile.
-- `INS-260403-63F9` A survey of 500 executives shows enterprises overwhelmingly buying AI tools rather than building, with startups dominating application layers.
 - `INS-260409-AB8D` VC-backed industrial software must chase hockey stick growth, which means every feature decision optimizes for 'biggest problems for the most people, ideally wealthy people with disposable income' — leaving a nearly infinite long tail of niche and local needs permanently out of scope.
+- `INS-260403-63F9` A survey of 500 executives shows enterprises overwhelmingly buying AI tools rather than building, with startups dominating application layers.

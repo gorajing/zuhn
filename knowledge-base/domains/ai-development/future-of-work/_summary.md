@@ -1,6 +1,6 @@
 # Topic: future-of-work
 
-> 111 insights
+> 112 insights
 
 - `INS-260320-A745` [very_high] Anthropic's own studies show AI deskilling in coding is real, but depends on HOW you use models — some usage patterns cause skill degradation, some don't.
 - `INS-260321-9824` [very_high] Tao's papers now have more code, more plots, deeper literature searches — but the core mathematical work (pen and paper for the hardest part) hasn't been accelerated. AI enriches output without deepening it.
@@ -104,6 +104,7 @@
 - `INS-260325-2069` [medium] The unemployed won't be biologists and chemists but biologists and chemists who don't use quantum computers -- the hammer doesn't replace the carpenter, it amplifies them.
 - `INS-260409-4719` [medium] When intelligence costs go to zero, humans get paid for taking risk — the one thing machines cannot perform on your behalf.
 - `INS-260405-0E77` [medium] AI collapses the historical separation between software budgets and labor budgets by doing the whole job, not just tooling it.
+- `INS-260424-123B` [medium] Logan Kilpatrick: this is going to increase the demand for traditional developers — there will be a stopping point of how far you can go without understanding the technology, and people need a developer to partner with.
 - `INS-260403-7D1D` [medium] Software engineering's vulnerability to AI reveals it was always more routine cognitive work than the creative profession engineers believed it to be.
 - `INS-260405-B204` [medium] Slow job growth plus fast productivity growth looks like automation displacement, but may actually reflect a capital investment cycle.
 - `INS-260423-FF53` [medium] Aaron Levie: there is 100% a role that 500,000 to a million jobs will be created for — agent operators who know MCPs, CLIs, skills, agents.md files, and how to redesign workflows for agents not people.

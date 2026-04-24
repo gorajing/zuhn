@@ -47,11 +47,11 @@ stance: >-
   cofounder waste their most critical early window, since validated demand can
   attract technical talent more reliably than the reverse.
 related:
+  - INS-260424-123B
   - INS-260404-5882
   - INS-260423-64FA
   - INS-260403-D966
   - INS-260323-1975
-  - PRI-260405-D586
 ---
 The conventional advice to 'find a technical cofounder' often causes non-technical founders to treat it as a prerequisite rather than an optimization. The result is months lost waiting for a serendipitous match before building anything. The better frame is that validated traction — paying customers, clear problem definition, early revenue — is what attracts strong technical talent, not the other way around.
 

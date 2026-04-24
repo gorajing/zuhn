@@ -57,13 +57,13 @@ related:
   - INS-260325-EF79
   - INS-260323-4D63
   - PRI-260328-3C01
-  - INS-260328-0B99
   - INS-260330-9346
   - INS-260403-07C6
   - INS-260403-A22E
   - INS-260405-963B
   - INS-260325-4846
   - PRI-260407-A13C
+  - INS-260412-0D71
 ---
 Harold Haas demonstrated Li-Fi transmitting HD video through a desk lamp in a 2011 TED talk. By 2015, Estonian office trials showed 1 Gbps real-world speeds. Yet over a decade later, Li-Fi remains a niche technology without mass consumer adoption. This isn't a failure — it's the normal cadence for technologies that require changes to physical infrastructure, manufacturing tooling, device hardware, and standards bodies.
 

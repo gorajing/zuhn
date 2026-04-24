@@ -46,7 +46,6 @@ stance: >-
   Founders who rigidly commit to their initial idea underperform those who treat
   early-stage direction as provisional and follow evidence wherever it leads
 related:
-  - INS-260327-968C
   - INS-260402-2B96
   - INS-260403-67AB
   - INS-260403-ADF9

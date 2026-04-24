@@ -70,6 +70,7 @@ related:
   - INS-260412-22A6
   - INS-260323-9676
   - INS-260410-E5EA
+  - INS-260424-AE8B
 ---
 The standard framing of the innovator's dilemma is 'incumbents don't see disruption coming.' TSMC's story shows a more uncomfortable version: incumbents see it, invest in it, and still fail to commercialize it because each quarter the rational decision is to squeeze one more generation out of the proven process. Intel invested heavily in EUV R&D years before TSMC committed production capacity to it. They had the talent, the capital, and a decade's head start in the underlying physics. Yet by 2025 there is still no shipping Intel chip manufactured with Intel's own EUV — every time the decision came up, the counterfactual of 'improve existing lithography one more node' looked safer, cheaper, and higher-yield.
 

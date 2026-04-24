@@ -50,7 +50,6 @@ stance: >-
   curve flattens to a horizontal asymptote rather than declining to zero
 related:
   - INS-260327-A5F9
-  - INS-260329-C893
   - INS-260330-4AE7
   - INS-260403-B9E6
   - INS-260404-7C79
@@ -59,6 +58,7 @@ related:
   - PRI-260406-00E6
   - PRI-260403-E097
   - PRI-260406-D017
+  - INS-260403-9BEB
 evidence:
   - id: INS-260330-78B1
     type: SUPPORTS

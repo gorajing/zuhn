@@ -64,7 +64,6 @@ stance: >-
   across racks.
 related:
   - INS-260320-5818
-  - INS-260410-E660
   - PRI-260406-8B75
   - INS-260403-1F1B
   - INS-260404-CE26

@@ -1,6 +1,6 @@
 # Domain: startups
 
-> 4666 insights across 55 topics
+> 4668 insights across 55 topics
 
 ## Topics
 
@@ -17,7 +17,7 @@
 | competitive-strategy | 623 | 3D portfolio websites signal elite skill to non-technical evaluators while requiring only beginner-level Three.js knowledge. |
 | content-strategy | 75 | Rogan gained 2 million subscribers during his cancellation attempt because the coordinated media attack inadvertently proved his independence from institutional control. |
 | customer-discovery | 4 | You cannot identify gains until you've mapped the expectation floor — everything below it is pain, everything at it is neutral. |
-| decision-making | 7 | When you bet the company, you're not gambling — you're pulling every future risk into the present so the outcome is already determined before the bet. |
+| decision-making | 8 | When you bet the company, you're not gambling — you're pulling every future risk into the present so the outcome is already determined before the bet. |
 | developer-tools | 11 | Svelte and Solid compile components into direct DOM manipulation code, eliminating the virtual DOM runtime entirely and achieving top benchmark scores with smaller bundle sizes. |
 | disruption | 24 | When AI agents do the work instead of human seats, per-seat SaaS revenue evaporates. |
 | engineering | 29 | Counting AST elements measures the conceptual load a programmer must hold in their head, unlike lines or characters. |
@@ -52,7 +52,7 @@
 | quality | 16 | Attempting exceptional work is a bargain because most people self-select out of the competition due to intimidation alone. |
 | resilience | 9 | Forces that maintain cohesion at small scale break down at larger scales, requiring different survival strategies at each phase. |
 | sales | 187 | Send 100 personalized outreach messages daily using a compliment-plus-positioning formula to guarantee your first five customers through pure volume. |
-| scaling | 198 | Startups need 2-3x longer than founders expect to validate their market, and 70% scale prematurely — largely explaining the 90% failure rate. |
+| scaling | 199 | Startups need 2-3x longer than founders expect to validate their market, and 70% scale prematurely — largely explaining the 90% failure rate. |
 | startup-ecosystem | 6 | Entrepreneurship programs designed around employment outcomes rather than viable business models systematically fail both goals. |
 | strategy | 271 | The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples. |
 | team-building | 1 | Searching for a technical cofounder before validating demand is backwards — demand attracts technical talent. |

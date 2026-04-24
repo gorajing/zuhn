@@ -56,8 +56,8 @@ related:
   - INS-260412-22A6
   - PRI-260328-06F1
   - INS-260403-8194
+  - INS-260424-ABB2
   - INS-260412-BBF8
-  - INS-260409-3346
 ---
 After the 2011 earthquake exposed semiconductor supply chain fragility, Toyota distinguished between commoditized inputs (easily substitutable, like plastic resin) and critical-path inputs (semiconductors, with years-long facility construction times). For the latter, holding months of inventory isn't waste — it's insurance against inevitable disruption.
 

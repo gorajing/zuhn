@@ -1,13 +1,13 @@
 # Tag: incentives
 
 - `INS-260322-FD23` Individual employees want to be lazier and richer — if AI lets them do 8 hours of work in 4, the company only benefits if it can capture the other 4 hours of productivity.
-- `INS-260327-6A68` Food companies engineer addictive processed products that create chronic disease, which pharmaceutical companies then treat symptomatically -- a trillion-dollar feedback loop with no incentive to cure.
 - `INS-260410-001F` When auditors make as much from consulting a client as from auditing them, the audit is captured by definition.
 - `INS-260405-C987` Speculators generate corposlop; info buyers face a public-goods problem; only hedgers provide a structurally sound, recurring source of market liquidity
 - `INS-260405-C88A` Agricultural consolidation reshapes who bears risk and who captures value faster than any technology innovation cycle.
 - `INS-260410-CBCC` Equal partnerships only work with ruthless self-selection into people who bring equal value; the structure is a filter, not a fairness doctrine.
 - `INS-260410-F789` Charging 2-and-20 or 3-and-30 before demonstrating unusual results attracts people who are good at fundraising and fee extraction, not people who are good at investing.
 - `INS-260403-B008` Government employees optimize for decisions that can be justified if they fail, which is the exact opposite of good venture investing.
+- `INS-260327-6A68` Food companies engineer addictive processed products that create chronic disease, which pharmaceutical companies then treat symptomatically -- a trillion-dollar feedback loop with no incentive to cure.
 - `INS-260410-0575` Soviet planners couldn't know actual productivity, capital value, or consumer preferences because every subunit lied about inventories and needs, and the lies aggregated upward until top leadership was navigating on garbage data.
 - `INS-260326-6C36` The First Crusade succeeded precisely because its leaders had competing personal motives, all channeled by the overwhelming narrative of spiritual salvation.
 - `INS-260405-32D8` Both Micron's $100B NY megafab and xAI's Mississippi data center received state tax exemptions, confirming that government incentives are structural prerequisites for domestic semiconductor and compute investment.
@@ -33,8 +33,8 @@
 - `INS-260410-4C9D` Amazon Marketplace let third-party sellers win the buy-box on Amazon's own product pages, which torched category managers' P&L—a move only a founder could force through.
 - `INS-260330-95E8` OpenAI succeeded commercially because it needed revenue to sustain research; Google DeepMind underperformed commercially because Google's deep pockets removed the urgency.
 - `INS-260405-3554` Founders misunderstand what VCs are optimized for, and VCs misunderstand how founders emotionally relate to their company — this mutual misreading creates predictable friction at board level.
-- `INS-260402-6D5E` Historical evidence shows wealth creation switches on and off like a fan depending on whether creators are allowed to keep their gains.
 - `INS-260410-282E` Kelly Johnson's inverted principle: 'I give raises to the guy who supervises the least — that means he's doing more and taking more responsibility.'
+- `INS-260402-6D5E` Historical evidence shows wealth creation switches on and off like a fan depending on whether creators are allowed to keep their gains.
 - `INS-260412-F4DA` Systems with three actor groups holding different incentives and no shared situational awareness predictably cascade into failure.
 - `INS-260410-5CB4` Novo Nordisk's 77% foundation voting control is not tax engineering — it is the structural reason the company survived and produced GLP-1s.
 - `INS-260410-899C` Every early Walmart store was its own partnership, and the manager was a real dollar-invested equity partner — making the alignment immediate and scoped to their own performance.

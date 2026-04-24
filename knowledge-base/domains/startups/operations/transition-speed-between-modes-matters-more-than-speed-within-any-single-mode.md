@@ -50,7 +50,6 @@ stance: >-
   greater total throughput than optimizing the speed of any individual phase.
 related:
   - INS-260324-E785
-  - INS-260405-5670
   - INS-260409-D012
   - INS-260412-1E19
   - INS-260329-4B07

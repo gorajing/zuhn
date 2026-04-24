@@ -62,10 +62,10 @@ stance: >-
   treats them as dispensable.
 related:
   - INS-260403-05B8
+  - INS-260424-123B
   - INS-260403-8F6E
   - INS-260403-4964
   - PRI-260406-FCF0
-  - PRI-260328-FD47
 ---
 When Sony entered the console market in 1994, Nintendo was the dominant platform with Mario, Zelda, and a stable of first-party hits that generated more than enough software to sell hardware. Nintendo treated third-party developers accordingly — licensing was expensive, development required proprietary Silicon Graphics workstations, and first-party games got internal preference. Sony's pitch to the same developers was the opposite: CD format instead of cartridges (more storage, more creative range), PC-based development tools (lower cost of entry), and an explicit posture of 'we need you.' Third parties flooded to the PlayStation. The PS1 got 8,000 unique games; the N64 got 400. Once install base crossed a threshold, exclusivity flipped in Sony's direction and the generation was over.
 

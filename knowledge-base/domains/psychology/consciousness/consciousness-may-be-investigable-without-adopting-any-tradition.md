@@ -56,5 +56,6 @@ related:
   - INS-260404-8ACB
   - INS-260325-55D8
   - INS-260423-8403
+  - INS-260424-50EE
 ---
 The essay ends with a practical move: you don't have to adopt Buddhism or Christianity or Sufism to test the claim. The instrument is attention, the laboratory is your own present experience, and the experiment is to look for the one who is hearing or seeing right now. This is epistemically attractive because it asks for nothing upfront — no doctrine, no initiation, no community, no cost. If there's nothing there, you've lost nothing. If there is, you've verified it first-hand rather than on authority. The Ramana Maharshi lineage is the cleanest version of this: no cosmology, no commandments, just the question 'Who am I?' followed until it dissolves. Whether or not the metaphysical claims are true, the invitation to test them is unusually low-friction for a two-and-a-half-thousand-year-old lineage.

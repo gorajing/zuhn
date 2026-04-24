@@ -59,7 +59,7 @@ related:
   - INS-260405-3066
   - INS-260410-0EFE
   - INS-260410-9EFC
+  - INS-260424-E832
   - INS-260325-4FF3
-  - INS-260403-DC6E
 ---
 The current enterprise tech spend baseline is roughly 10-12 percent of revenue, capped by IT budget approval cycles and quarterly earnings pressures. AI agent deployments that augment specific functions do not belong in IT budgets because they displace labor or campaign spend, not infrastructure. The emerging pattern: function heads like the CMO, CLO, head of sales allocate OPEX to agent deployments that previously would have gone to campaign spend or headcount. This category migration is structurally different from IT budget growth — it taps into a new, larger pool that was not previously technology-addressable. Levie estimates this roughly doubles total enterprise technology spend from 10-12 to something like 20 percent of revenue. The implications are substantial: software vendors selling to line-of-business heads have a much larger addressable budget than vendors selling to CIOs, procurement dynamics for agent spend are faster than for traditional IT purchases, and the winners in enterprise AI will often be companies that position as OPEX augmentation rather than IT infrastructure.

@@ -30,8 +30,6 @@
 - `INS-260327-0833` Every hour spent on non-compounding activities is an hour your competitor is building.
 - `INS-260403-EF30` Creating a sticky one-phrase description of your startup doubles as a strategic focus test.
 - `INS-260410-1D7A` Sol Price's 'intelligent loss of sales' principle: forgo customers who only need 3 oz of WD-40 so you can carry only the 8 oz can — the SKU reduction unlocks logistics, labor, and supplier benefits that dwarf the lost revenue.
-- `INS-260410-9AC4` Buffett and Munger's three piles — yes, no, and too-hard — work because the too-hard pile saves you from evaluating things you will never do well.
-
 - `INS-260327-432E` Start with a niche so small that big companies won't bother, then expand from strength.
 - `INS-260327-E3DE` A focused AI tool for one task beats ChatGPT's mediocre everything—the same reason you hire specialists.
 - `INS-260329-F33F` Like the woman in the red dress from The Matrix, opportunities become more seductive as you succeed — requiring a stronger 'no' muscle at every level.
@@ -41,7 +39,8 @@
 - `INS-260330-7BAE` Netflix beat Blockbuster by retreating to improve its core service rather than launching new features to differentiate.
 - `INS-260329-B6DF` Winners focus on customers while competitors focus on winners — creating a vicious cycle where copiers become progressively blind to what actually matters.
 - `INS-260329-6E0F` Competitors who copy you are looking at you instead of their customers — their distraction is your advantage.
-- `INS-260405-AEA0` Most competitor moves are about their opportunity, not your company — applying Graham's 'see randomness' heuristic prevents strategic paralysis.
+- `INS-260410-9AC4` Buffett and Munger's three piles — yes, no, and too-hard — work because the too-hard pile saves you from evaluating things you will never do well.
+
 - `INS-260410-F69C` Steve Ballmer reflected that Microsoft's worst mistakes 'only lost money' — the real cost was the best engineers sunk into projects like Vista instead of competing in search, mobile, and social.
 - `INS-260329-6514` Improving what you already have compounds over time while new ventures reset your progress.
 - `INS-260403-566D` Selecting three high-leverage 12-month priorities and filtering every decision through them keeps innovation teams focused and aligned.
@@ -56,6 +55,7 @@
 - `INS-260330-A78C` YC found that teams who had gotten new things done every time they checked in were the strongest predictor of eventual success.
 - `INS-260329-C881` Declare a bounded period where you reject all non-essential commitments to create space for breakthrough execution.
 - `INS-260403-2774` Founders who activate every credit program they qualify for drown their teams in context switching, turning free tools into a net productivity loss.
+- `INS-260405-AEA0` Most competitor moves are about their opportunity, not your company — applying Graham's 'see randomness' heuristic prevents strategic paralysis.
 - `INS-260329-EC01` Champions win by saying no to everything except their singular focus, not by adding more skills or opportunities.
 - `INS-260329-C91D` Commitment equals the elimination of alternatives — you prove commitment by what you stop doing, not by what you start.
 - `INS-260329-0935` Sustained focus on one domain compounds returns far more than spreading effort across many.
@@ -75,10 +75,10 @@
 - `INS-260323-2040` Rella tried to serve everyone on social media, built a confused Frankenstein product, nearly died — then narrowed to social media managers only and hit $2M ARR in 15 months.
 - `INS-260322-F128` The #1 strategic decision is choosing a category you can realistically become #1 in — not just participate in — then killing everything else to focus all resources there.
 - `INS-260403-76B7` Find one channel where you can win and double down until diminishing returns before diversifying.
+- `INS-260321-08AC` There are no true focus-enhancing drugs — only alertness-enhancing stimulants (Adderall, modafinil, caffeine, nicotine) that indirectly improve focus but carry cardiac and sleep costs — and a non-stimulant peptide that reduces cognitive noise would capture enormous demand.
 - `INS-260405-A596` Find the one variable that governs your market and organize everything—strategy, pitch, and milestones—around it.
 - `INS-260403-2B6E` Fundraising cuts productivity to a third by replacing product thinking with investor thinking in founders' idle cognitive cycles.
 - `INS-260405-1982` Treat fundraising as a sprint with a hard end date to minimize distraction and create investor urgency.
-- `INS-260321-08AC` There are no true focus-enhancing drugs — only alertness-enhancing stimulants (Adderall, modafinil, caffeine, nicotine) that indirectly improve focus but carry cardiac and sleep costs — and a non-stimulant peptide that reduces cognitive noise would capture enormous demand.
 - `INS-260327-D0F4` Goldman exited their consumer business with Apple not because it failed but because at less than 5% of revenue it consumed 40% of management attention, blocking higher-value initiatives.
 - `INS-260403-3FF5` Wartime prioritization requires cuts so deep that everyone in the organization can feel the change in direction.
 - `INS-260409-2A8D` Your only job is right product at right time — everything else is avoidance of that job.

@@ -23,9 +23,9 @@
 - `INS-260330-BA13` SHA256's security is empirical rather than proven — no one has found a way to reverse it, but there's no proof that it's impossible.
 - `INS-260323-D41A` Spy agencies recruit assets who combine technical knowledge with clean backgrounds and personal naivety — the ideal agent is competent enough to access targets but inexperienced enough to be manipulated.
 - `INS-260412-4AE8` The Bitfinex couple's opsec failures — real names on VPN accounts, a folder labeled 'fake passport ideas,' burner phones labeled under the bed — reveal how sustained evasion breeds fatal overconfidence.
-- `INS-260412-8C90` The Carter administration realized bunkers concentrated the very leaders an enemy would target, leading to the airborne command post as a distributed alternative.
 - `INS-260412-F893` Two identical presidential limos with the same plates make spotter intelligence worthless — a deception principle applicable to competitive strategy.
 - `INS-260412-D103` Bitfinex's reliance on BitGo to secure user wallets created the single vulnerability that enabled the entire $4.5B hack.
+- `INS-260412-8C90` The Carter administration realized bunkers concentrated the very leaders an enemy would target, leading to the airborne command post as a distributed alternative.
 - `INS-260403-0CCB` Founders are motivated by security rather than luxury, and will seek that security through institutional seniority if startup wealth is unavailable.
 - `INS-260323-E874` The XZ attacker succeeded specifically because the maintainer was burned out and desperate for help — burnout is an attack surface.
 - `INS-260403-F28B` Most founders are motivated by freedom and financial security, but operating a business full-time provides neither.

@@ -48,7 +48,6 @@ stance: >-
   revenue is no longer a black swan event but a learnable pattern with
   identifiable structural prerequisites.
 related:
-  - INS-260330-488B
   - INS-260403-3106
   - PRI-260406-7FE4
   - PRI-260328-0993

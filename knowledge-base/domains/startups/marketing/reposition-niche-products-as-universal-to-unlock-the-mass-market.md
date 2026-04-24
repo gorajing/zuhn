@@ -67,6 +67,7 @@ related:
   - INS-260323-E1BE
   - INS-260328-ACC3
   - INS-260403-14E0
+  - INS-260424-50EE
 ---
 Robinson's insight at Coca-Cola in the late 1890s was that the company was 'advertising to the few — i.e., people who needed a brain tonic — when we ought to advertise to the masses.' The formula didn't change. The bottling didn't change. The price didn't change. What changed was the language: instead of pitching Coke as a fix for a specific problem (headaches, nervousness, fatigue), Robinson pitched it as something anyone could enjoy at any time for any reason. That repositioning was probably more important than any product change in the company's first 50 years.
 

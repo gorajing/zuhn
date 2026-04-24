@@ -50,6 +50,6 @@ related:
   - INS-260330-8901
   - INS-260330-A1AF
   - INS-260326-0AB4
-  - PRI-260407-ED1C
+  - INS-260424-0554
 ---
 Hassabis frames Deep Blue as an expert system where the intelligence resided in the chess grandmasters and programmers who distilled rules into heuristics — the program 'dumbly executed' them. This is why Deep Blue can't even play tic-tac-toe despite being world-champion at chess. AlphaGo's move 37 was the inverse: a move human Go masters considered a beginner's mistake that turned out to win the game 100 moves later. The move wasn't in any training data — the system generated it. This is the operational distinction between a brute-force search system and a learned system, and it's why Hassabis calls move 37 the dawn of the modern AI era.

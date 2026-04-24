@@ -46,9 +46,9 @@ related:
   - INS-260328-92BC
   - INS-260330-F22A
   - INS-260403-1D43
+  - INS-260424-123B
   - INS-260322-8D47
   - INS-260403-0372
   - INS-260403-8BA4
-  - INS-260322-BFDE
 ---
 The business logic behind corporate OSS investment is rarely philanthropic. Companies fund open-source projects because doing so lets them shape the technical standards that their competitors must also conform to, attract developer talent and mindshare, reduce the proprietary advantages of rivals by commoditizing the layer they monetize, and build ecosystems where their complementary closed products become the natural commercial layer. Understanding this dynamic matters for founders: when a large incumbent open-sources a technology adjacent to your market, it is often a strategic move to erode your differentiation. It also signals where the industry expects commodity infrastructure to land.

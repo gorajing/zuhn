@@ -14,8 +14,8 @@
 - `INS-260330-7C58` The Holocaust used Western civilization's best tools — record-keeping, industrial production, technology — for systematic extermination, proving progress is morally neutral.
 - `INS-260403-A408` Step beyond asking 'is this true?' to asking 'why is this topic being written about at all?' — the selection of subject matter is itself a form of manipulation.
 - `INS-260402-3737` Childhood lies create cognitive debt that compounds silently into adulthood, and deliberately identifying and clearing them unlocks disproportionate clarity.
-- `INS-260403-F60A` Lower forms of disagreement (name-calling through tone policing) can never be convincing no matter how well-executed.
 - `INS-260323-0D51` When victory or success is never defined precisely, it is always a tell that there is deception at the heart of the claim -- this applies to geopolitics, business pitches, and any context where vague goals substitute for measurable ones.
+- `INS-260403-F60A` Lower forms of disagreement (name-calling through tone policing) can never be convincing no matter how well-executed.
 - `INS-260327-924F` If everyone believes it, it's probably wrong - not because the majority is always wrong but because beliefs adopted without examination accumulate errors that questioning would catch.
 - `INS-260330-775F` Credential-based dismissal replaces evidence-based engagement when the data is genuinely ambiguous.
 - `INS-260327-E07D` If you can't articulate the best argument against your own position, you don't actually understand your position well enough to hold it confidently.

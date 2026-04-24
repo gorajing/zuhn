@@ -1,6 +1,6 @@
 # Topic: venture-capital
 
-> 309 insights
+> 310 insights
 
 - `INS-260403-6B24` [high] High-profile 2025 IPOs like Figma, Chime, and Navan traded below debut prices even as Nasdaq and S&P 500 rallied.
 - `INS-260405-0CAB` [high] 38% of VCs stopped doing deals in 2023, exposing a large cohort of cycle-dependent tourist investors who entered during the 2020-2021 bull market.
@@ -286,6 +286,7 @@
 - `INS-260403-AA09` [medium] Elite VCs don't need to be paranoid or sneaky because the best deals come to them, creating a virtuous cycle that lesser funds cannot replicate.
 - `INS-260405-5020` [medium] Top VC backing of defense tech functions as a legitimacy signal that unlocks talent and downstream capital.
 - `INS-260404-A032` [medium] Tariff and trade policy uncertainty causes VCs to pause deployment regardless of startup merit.
+- `INS-260424-2F93` [medium] Google Cloud lead: two years ago we were internally talking about AI agents and reinforcement learning in real time, but it wasn't the dominant workload — we had to take some bets but with thousands of researchers helping predict the future, you take notes when leading minds say this is where things are going.
 - `INS-260404-6914` [medium] Several fragmented verticals still offer low-multiple acquisition opportunities for roll-up strategies.
 - `INS-260403-E294` [medium] Unicorn exits accelerating in AI, cyber, and health while other sectors remain illiquid reveals selective rather than broad liquidity recovery.
 - `INS-260405-5569` [medium] Unicorn status typically requires 5 rounds, with private unicorns reaching it more efficiently than exit-unicorns.

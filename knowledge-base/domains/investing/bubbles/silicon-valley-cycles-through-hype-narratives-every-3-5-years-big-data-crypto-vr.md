@@ -43,11 +43,11 @@ resolutions:
     choreographed performances to inject public sector urgency. The specific
     technology changes; the financial mechanics are identical.
 related:
+  - INS-260424-BC8F
   - INS-260423-EDF7
   - INS-260330-EFFB
   - INS-260330-D808
   - INS-260327-7265
-  - INS-260403-572C
 stance: >-
   Before AI it was big data, before that crypto/web3, before that VR/AR, before
   that IoT/wearables

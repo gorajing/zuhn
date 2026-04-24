@@ -53,8 +53,8 @@ related:
   - INS-260409-D0B6
   - INS-260411-1676
   - INS-260327-C673
+  - INS-260424-123B
   - PRI-260328-1D90
   - INS-260403-EE38
-  - INS-260403-DED4
 ---
 Appleton's example is Google Maps: it will never support showing historical borders or tidal patterns, even if those things are essential to hundreds of users, because anything beyond 'how do I get from here to there' is out of scope given the engineering labor cost. She cites Kasey Klimes's 'When to Design for Emergence' essay from his Google Maps work: industrial software is 'designed to only solve the most common needs of the most number of users.' The reason is not that VC-backed founders are stupid or lazy — it is that venture economics require returns that only work at scale, and long-tail needs don't scale. 'Anything that falls below the profit line ends up being a short-lived failure — it's not allowed to survive long in the marketplace.' This is a structural constraint on VC funding as a model, not a defect in execution. Any problem that requires a different economic model (no-profit, low-profit, community-funded, home-cooked) is permanently outside the reach of venture-backed software.

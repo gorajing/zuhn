@@ -1,6 +1,6 @@
 # Topic: scaling
 
-> 198 insights
+> 199 insights
 
 - `INS-260403-49FB` [high] Startups need 2-3x longer than founders expect to validate their market, and 70% scale prematurely — largely explaining the 90% failure rate.
 - `INS-260403-AA20` [high] The 996 grind culture trades short-term velocity for compounding burnout costs that destroy long-term startup viability.
@@ -168,6 +168,7 @@
 - `INS-260403-049F` [medium] Creandum's Benchmark-inspired equal carry and up-or-out model has retained 6 of 9 current partners who joined as junior staff.
 - `INS-260403-D870` [medium] Sweden's unicorn density came from founder alumni reinvesting exits into new startups, amplified by tax incentives — not government venture programs.
 - `INS-260412-E2A2` [medium] Argentine ants' low genetic diversity — normally a weakness — eliminated inter-colony rivalry and enabled continent-spanning supercolonies.
+- `INS-260424-B404` [medium] Ben Gilbert: Thomas came in surveying the org and said 'how many salespeople do we have?' He looked and said 'we need 1000 times more salespeople to run an effective customer-focused enterprise organization' — and Google literally 1000x'd the headcount.
 - `INS-260412-9300` [medium] The Caplan thruster harvests mass from the Sun to fuel itself, yet this actually extends the Sun's lifespan because lower-mass stars burn slower.
 - `INS-260403-EA01` [medium] Plan headcount costs using fully loaded compensation (base + tax + benefits) with month-by-month ramp timing, not annualized base salary.
 - `INS-260403-A538` [medium] Pushing a Head of Sales hire from Q1 to Q2 extended runway by 3 months, creating room to raise on better terms.

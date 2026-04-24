@@ -51,9 +51,9 @@ stance: >-
 related:
   - INS-260321-4E98
   - INS-260322-CCAA
+  - INS-260424-5759
   - INS-260410-D92A
   - INS-260327-E18C
-  - PRI-260328-8317
 ---
 When an emerging technology category grows large enough to require its own landscape map — with distinct subcategories, competitive clusters, and investment patterns — it signals a transition from speculative hype to genuine market formation. The fact that VCs are now publishing comprehensive AI agent directories and analyses indicates the space has crossed this threshold.
 

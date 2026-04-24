@@ -20,8 +20,8 @@
 - `INS-260410-A33F` Argument, counterargument, rebuttal — but the rebuttal must come from a completely different angle than the original argument, or it's just repetition.
 - `INS-260409-53A1` 'Because' is a compliance trigger regardless of whether the reason makes sense.
 - `INS-260412-7512` Framing stakes as irreversible losses (life gone forever) drives urgency better than framing them as missed opportunities.
-- `INS-260403-29C7` Kissinger chose Go over xiangqi not because it described China accurately, but because it made America respond the way he wanted.
 - `INS-260404-6753` Consciously listening for the first 10 minutes and acknowledging the other side's logic disarms conflict more effectively than arguing.
+- `INS-260403-29C7` Kissinger chose Go over xiangqi not because it described China accurately, but because it made America respond the way he wanted.
 - `INS-260325-59D4` Suppression creates an inference: if the idea were not dangerous to the powerful, they would not bother censoring it — making the forbidden idea seem more credible.
 - `INS-260330-0F49` The reflexive racial framing of the Capitol security failure ignored contradicting evidence — like black cops struggling to defend the building and a white woman being shot — while alienating the moderate conservatives needed for democratic healing.
 - `INS-260325-0147` Suppressing an idea does not just draw attention to it -- it actually increases the likelihood people will believe it.

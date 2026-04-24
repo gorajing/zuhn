@@ -55,9 +55,9 @@ related:
   - INS-260403-76E9
   - INS-260412-6FB6
   - INS-260410-8F36
+  - INS-260424-BC8F
   - INS-260327-4440
   - INS-260403-4964
-  - INS-260410-1941
 ---
 Yahoo built its empire on human editors organizing websites like librarians sorting index cards. This worked when the web was small, but as sites proliferated exponentially, the manual approach couldn't keep pace. Google's PageRank eliminated human bottlenecks entirely — no editors, no manual updates, no scaling costs proportional to content growth.
 

@@ -9,8 +9,8 @@
 - `INS-260327-1F6A` Americans aged 25-44 are 2.5x more likely to die than peers in other wealthy nations, with a 20-year life expectancy gap between the richest and poorest US counties.
 - `INS-260403-5137` An 81.7% overturn rate on prior authorization denials means the system functions as a friction filter rather than a genuine decision-making process.
 - `INS-260403-4E71` Big pharma doing less internal R&D and acquiring innovation later means startups bear more early-stage risk with less capital.
-- `INS-260405-AACA` Embedding in customer environments converts the most resistant users into your biggest champions.
 - `INS-260403-B6C6` UnitedHealth and Epic solved data fragmentation by owning more of the system, but the Change Healthcare breach showed this creates catastrophic concentration risk.
+- `INS-260405-AACA` Embedding in customer environments converts the most resistant users into your biggest champions.
 - `INS-260403-DFBC` Future generations will view waiting for symptoms before diagnosing disease the way we view pre-anaesthesia surgery — as needlessly barbaric.
 - `INS-260403-86BF` MUMPS fused three layers into one, making healthcare IT migration an all-or-nothing proposition that no one has attempted.
 - `INS-260403-E492` Waiting for disease then treating it ('sick care') can't overcome aging's exponential decay — only preemptive renewal ('health care') can.

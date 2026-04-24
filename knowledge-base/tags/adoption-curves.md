@@ -2,6 +2,7 @@
 
 - `INS-260409-A4F0` Porn is a leading indicator for consumer tech — if AI avatars, chatbot characters, and generated content are working there, they're coming to mainstream markets soon.
 - `INS-260325-4846` Every successful technology follows the same S-curve adoption pattern, and AI is at its steepest inflection.
+- `INS-260424-BC8F` Ben Gilbert: there's an analog to the early web — Google's 2000 infrastructure was a giant one-time web crawl, by 2010-2015 the vast majority was serving pages for queries; you see that exact same thing with training and inference but on a much more compressed timescale of 4 years rather than 15.
 - `INS-260412-021A` EV cost and range already meet consumer tipping-point thresholds, but charging speed and station density do not.
 - `INS-260327-6976` Just as institutions failed to anticipate how quickly personal computers would transform everything, they're failing to anticipate how quickly personal fabrication will do the same.
 - `INS-260412-8BE0` Smartphones grew at 4x the PC industry's peak growth rate, selling 1 billion units in a single year versus PCs taking 33 years to reach the same cumulative total.

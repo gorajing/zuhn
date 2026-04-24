@@ -46,10 +46,9 @@ stance: >-
   transitional crutch that reveals the market has not yet internalized that AI
   is autonomous labor rather than a tool.
 related:
-  - INS-260321-9EBB
-  - INS-260324-27E2
   - PRI-260406-DF94
   - INS-260405-F705
+  - INS-260321-9EBB
   - INS-260330-C8ED
   - PRI-260327-0D6E
 evidence:

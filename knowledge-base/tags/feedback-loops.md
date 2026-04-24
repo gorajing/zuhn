@@ -64,22 +64,22 @@
 - `INS-260405-AC3E` The insight from a customer conversation degrades with every layer of intermediary between the customer and the decision-maker.
 - `INS-260323-B374` High-turnaround physical activities like jiu-jitsu and surfing teach leaders the crucial lesson that some things cannot be forced, a lesson business cycle times are too long to teach.
 - `INS-260329-F6E1` Launch free or cheap, raise 20% every 5 customers until conversion-rate × price peaks.
-- `INS-260402-3866` Prepare materials to 70% completeness, then test with 4-6 people who've fundraised or invested before iterating to final form.
 - `INS-260403-71A6` The gap between understanding customers and testing ideas is where most innovation efforts stall — closing that gap through systematic linking is the key leverage point.
 - `INS-260410-6286` Kelly Johnson insisted Skunk Works engineers sit only steps from the shop floor because 'a stone's throw was too far away' — the shortest design-to-build feedback loop wins.
-- `INS-260410-FA70` Ozempic achieved Tylenol-tier brand recognition because users can see weight come off in weeks and everyone around them notices too.
+- `INS-260402-3866` Prepare materials to 70% completeness, then test with 4-6 people who've fundraised or invested before iterating to final form.
 - `INS-260325-B50B` CIA's three-step training model — educate, exercise, experience — compresses skill acquisition by immediately applying classroom learning in real-world settings with self-accountability.
 - `INS-260326-C692` Start by asking for criticism of yourself before criticizing others — it builds trust and credibility for harder conversations.
 - `INS-260330-26E7` Loyalty-first hiring filters for liars or zealots, destroying an organization's capacity for honest self-assessment.
 - `INS-260325-75EA` A teacher makes deposits of knowledge; a coach observes your real performance over time and walks you through iterative change — the distinction is about feedback loops, not content.
+- `INS-260410-FA70` Ozempic achieved Tylenol-tier brand recognition because users can see weight come off in weeks and everyone around them notices too.
 - `INS-260330-C134` Plants' own success at producing oxygen through photosynthesis poisoned their core enzyme RuBisCo, which evolved for a low-oxygen world — their greatest output became their biggest problem.
 - `INS-260330-C391` YC finds that founders who hook PagerDuty to customer support tickets and respond within an hour at 3am correlate with startup success more than almost any other behavior.
 - `INS-260404-8A18` Rapid iteration with visible progress keeps amateur contributors motivated through multi-day creative projects.
 - `INS-260330-3A3E` When the people who build the product also support it, bugs get fixed faster and the knowledge gap between builders and users collapses.
 - `INS-260322-3C3D` ElevenLabs' core advantage comes from product teams talking directly to research teams — product provides real user feedback, research iterates immediately, and models get tested directly on the product.
 - `INS-260404-95D0` The email system's fundamental vulnerability is that sending messages has no consequences for the sender.
-- `INS-260327-1787` The speed of feedback is inversely correlated with the number of repetitions needed to learn -- stopping mid-role-play to correct and repeat is far more effective than notes at the end.
 - `INS-260325-0F4F` Progress begets progress: fundamental technologies like computing and steam power feed back into the innovation process itself, creating accelerating returns.
+- `INS-260327-1787` The speed of feedback is inversely correlated with the number of repetitions needed to learn -- stopping mid-role-play to correct and repeat is far more effective than notes at the end.
 - `INS-260403-64D0` The startup environment's rapid success/failure cycle makes it uniquely suited to reveal which evaluation signals actually predict performance.
 - `INS-260329-180B` Limit your first app to one core feature so you can ship fast and get real user feedback before building more.
 - `INS-260329-DFD1` TestFlight's screenshot feedback feature captures user frustration in-context — tell beta users to screenshot anything weird and you get zero-friction bug reports with visual evidence.

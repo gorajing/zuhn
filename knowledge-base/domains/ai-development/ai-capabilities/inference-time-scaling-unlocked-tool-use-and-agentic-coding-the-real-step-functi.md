@@ -54,7 +54,6 @@ related:
   - PRI-260411-ACEF
   - INS-260409-17E9
   - INS-260323-6C6F
-  - INS-260405-567D
   - INS-260410-F167
 stance: >-
   Reinforcement learning with verifiable rewards plus inference-time compute

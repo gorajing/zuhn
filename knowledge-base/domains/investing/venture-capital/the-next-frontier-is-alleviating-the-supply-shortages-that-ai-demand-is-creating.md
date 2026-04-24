@@ -55,6 +55,5 @@ related:
   - INS-260409-2A8A
   - PRI-260406-4B37
   - INS-260410-6A86
-  - INS-260412-DC05
 ---
 Horowitz says a16z funded a power transformer company — 'I never thought we would fund that' — because of the massive shortage in physical transformers needed to build new power plants, which themselves are needed for AI. He enumerates the constraint stack: electricity shortage, chip shortage, token shortage, and an upcoming cooling shortage. His framing: if demand for tokens is effectively unlimited, then every supply-side bottleneck is a valuable investable lever. Beyond AI infrastructure, he flags 'problems of humanity that have been around a long time' like cancer becoming newly solvable, but his specific investment thesis is supply-side shortages in the AI stack. This is a notable shift for a firm historically focused on software — a16z funding atoms-based infrastructure companies.

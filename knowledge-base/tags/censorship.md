@@ -5,8 +5,8 @@
 - `INS-260403-D7EF` DeepSeek R1's built-in censorship on politically sensitive topics demonstrates that state alignment creates structural bias that persists despite jailbreak attempts.
 - `INS-260403-FFFE` Model alignment is a removable fine-tuning layer, not a fundamental architectural property.
 - `INS-260403-27F5` Proprietary AI safety layers are strategically undermined by uncensored open-source alternatives that attract users seeking unrestricted generation.
-- `INS-260327-1439` Proposed legislation threatens to criminalize sharing health information that contradicts pharmaceutical interests
 - `INS-260403-4672` Idea restrictions propagate backward: forbidding conclusions in one domain suppresses exploration in every domain that connects to it.
+- `INS-260327-1439` Proposed legislation threatens to criminalize sharing health information that contradicts pharmaceutical interests
 - `INS-260410-831F` The Inquisition ignored Voltaire and the Encyclopédie to throw the book at Jansenist treatises about the Trinity — and Palmer says this pattern holds in every era she studies.
 - `INS-260410-2623` In censored societies, the binding constraint isn't private information — it's the inability to coordinate on what 'everyone knows everyone knows.'
 

@@ -1,11 +1,12 @@
 # Topic: platform-shifts
 
-> 57 insights
+> 59 insights
 
 - `INS-260403-5DD7` [high] Selling AI as the product rather than as the means to a complete outcome creates a fragile, easily copied competitive position.
 - `INS-260403-AC02` [high] The AI vs SaaS narrative mirrors the SaaS vs on-premise transition — incumbents adapt and absorb the new paradigm rather than disappearing.
 - `INS-260327-561F` [high] AI ethics is not a feature to patch later but foundational infrastructure -- like rebar in a building -- without which even the best AI technology inevitably becomes a surveillance tool.
 - `INS-260403-C164` [high] Cuban believes AI infrastructure (Databricks, Snowflake-type companies) will capture long-term value while consumer AI gets commoditized.
+- `INS-260424-9760` [high] Google Cloud lead: in 2000 our number one problem was building the web index — by 2005-2010 the dominant workload was serving the index; the value comes from serving, and we knew yes training is dominant now but the value will come from serving the model.
 - `INS-260322-E734` [high] Unlike previous platform shifts where physical limits were known (modem speeds, battery life, fiber deployment), AI's theoretical limits are unknown because we don't fully understand why it works or what human intelligence is.
 - `INS-260322-5932` [high] Unlike previous platform shifts (internet, mobile), AI lacks a known theoretical ceiling, making deterministic predictions uniquely unreliable.
 - `INS-260404-FC20` [high] Quantum computing repurposes the quantum tunneling effect that limits classical transistor shrinkage as a computational resource rather than a bug.
@@ -41,6 +42,7 @@
 - `INS-260325-2832` [medium] AI will amplify human mental powers the same way mechanical engines amplified physical powers, creating a permanent civilizational threshold that cannot be uncrossed.
 - `INS-260404-FC9E` [medium] AI is the platform shift enabling open-source tools to displace entrenched SaaS incumbents.
 - `INS-260403-A4FC` [medium] The AI boom is pulling talent and capital back into San Francisco, reversing the pandemic's geographic dispersal of tech.
+- `INS-260424-BC8F` [medium] Ben Gilbert: there's an analog to the early web — Google's 2000 infrastructure was a giant one-time web crawl, by 2010-2015 the vast majority was serving pages for queries; you see that exact same thing with training and inference but on a much more compressed timescale of 4 years rather than 15.
 - `INS-260325-9C1E` [medium] The arrival of AI as a mental amplifier parallels steam engines as physical amplifiers — the world we build with amplified cognition will be as unrecognizable as the post-industrial world was to pre-industrial people.
 - `INS-260402-E040` [medium] Zero-click visibility, brand mentions in AI tools, and featured citations in AI summaries are replacing traditional ranking position as the metrics that matter.
 - `INS-260325-B6AF` [medium] The Founding (1787), post-Civil War (1865), post-WWII (1945), and now (2025) form an 80-year pattern of extreme conflict followed by 25-year explosions of institutional reinvention.

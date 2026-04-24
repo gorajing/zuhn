@@ -54,8 +54,8 @@ related:
   - INS-260322-760A
   - INS-260329-BCB7
   - INS-260329-560D
+  - INS-260424-273F
   - INS-260405-A992
   - INS-260323-DE2B
-  - INS-260323-8AA1
 ---
 Sacks offers a speculative but structurally interesting counterfactual: if personal digital assistants get good enough, the 'wall of apps' paradigm of the iPhone becomes obsolete. You don't open Uber, you tell the agent to get you a ride. You don't open your email, you ask. This is directly analogous to Chamath's 'strangulation as a service' observation in enterprise software. The implication for Apple is that its platform moat is predicated on the app model, not hardware. If agents win, the hardware becomes a commodity dashboard — you still need to visualize where your Uber is, but you don't need a premium OS to do it. Apple's weakness in native AI (no data center capex, no frontier lab) becomes structurally important. Low confidence because Apple has counter-moves (Siri++, partnerships, hardware AI) but worth holding as a long-arc thesis.

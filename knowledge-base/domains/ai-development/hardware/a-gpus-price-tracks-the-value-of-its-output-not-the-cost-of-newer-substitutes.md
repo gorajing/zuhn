@@ -59,9 +59,9 @@ related:
   - INS-260327-A22D
   - INS-260405-547E
   - INS-260410-AA93
+  - INS-260424-E832
   - PRI-260405-B144
   - INS-260322-5790
-  - PRI-260407-7AE9
   - INS-260421-3E99
 ---
 The bearish GPU-depreciation narrative assumes you can always substitute a newer chip (Blackwell, Rubin) at higher perf/$. That's only true if supply is elastic. It isn't. ASML, HBM, and CoWoS all cap how fast new chips arrive, so the pricing of an H100 is set not by what a Rubin would cost but by the marginal value of what the H100 can produce today.

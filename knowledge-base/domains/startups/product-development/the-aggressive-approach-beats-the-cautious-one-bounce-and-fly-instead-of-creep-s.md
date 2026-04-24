@@ -52,9 +52,9 @@ resolutions:
 related:
   - INS-260323-6134
   - INS-260323-7DAE
+  - INS-260424-9544
   - PRI-260328-9EC9
   - INS-260330-8304
-  - INS-260403-D51A
   - INS-260330-08D1
 stance: >-
   Boston Dynamics' breakthrough came from rejecting the safe, slow, static

@@ -1,6 +1,6 @@
 # Topic: infrastructure
 
-> 28 insights
+> 32 insights
 
 - `INS-260405-3B54` [high] Multi-turn agent workloads flip the inference bottleneck from decode to prefill, requiring new optimization strategies for KV cache reuse and context processing.
 - `INS-260423-7CDC` [high] Jason: Replit changed their platform so every single app has a database whether you use it or not — they found enough of them use it that it's not worth adding later. Agents create more databases than humans now.
@@ -16,17 +16,21 @@
 - `INS-260423-1C4D` [high] Google Cloud's Model Armor: filters prompt injection, jailbreaks, PII leaks, social security numbers, and harassment at the load balancer layer before requests reach the model.
 - `INS-260405-F1A1` [high] The US data center pipeline hit 241 GW but only a third is under active development, with utilities unable to supply power fast enough despite $650B in planned 2026 CapEx.
 - `INS-260410-A1CA` [high] Anthropic's privacy controls prevented engineers from examining unreported problematic interactions, which lengthened the time needed to identify and reproduce the three infrastructure bugs.
+- `INS-260424-ABB2` [high] Google Cloud lead: at 100,000 chips, several times a day at least one will fail — if a human is needed for diagnosis, that's a 30-minute minimum, and you have zero throughput until you start again.
 - `INS-260423-9225` [high] Google Cloud: for self-hosted VLM or Ollama, the platform captures GPU utilization at approximation but tokens-per-second and prefill/decode breakdown require a Prometheus sidecar exporting from the model's internal metrics.
 - `INS-260410-13C8` [high] Solar has a 43% Wright's Law coefficient — every doubling of cumulative production drops cost 43% — and since demand elasticity exceeds the learning rate, the cycle doesn't saturate.
 - `INS-260410-ED34` [high] When LLM routing is sticky, a 0.8% misroute rate becomes a 100% bad experience for the unlucky users rather than a rare glitch for everyone.
 - `INS-260405-131B` [high] C powers the interpreters, OS kernels, and databases that higher-level developers use daily, making it the most influential language most programmers never consciously think about.
 - `INS-260413-07F2` [high] OpenAI, SoftBank, Oracle, and MGX announced the $500B Stargate Project at the White House in Jan 2025 and by September locked in a $300B 5-year Oracle cloud contract delivering 4.5 GW of compute.
 - `INS-260410-8092` [high] Anthropic's December 2024 workaround for a dropped-token bug was inadvertently masking a much worse approximate top-k bug that only became visible when they removed the workaround in August.
+- `INS-260424-865F` [medium] Google Cloud lead: the default way of connecting chips together didn't support latency, it supported throughput — but in age of agents you care about the minimum time it takes to get the data through.
 - `INS-260409-AEF3` [medium] Hassabis claims grid optimization alone could unlock 30-40% efficiency on national grids, and AI will more than pay for its own energy footprint medium-to-long term.
+- `INS-260424-7A03` [medium] Google Cloud lead: CPUs are going to make a comeback — there's a lot of general-purpose compute involved in running these agents, orchestrating inference, creating sandboxes, virtual machines to build code, run it, check results.
 - `INS-260405-95A6` [medium] U.S. productivity growth near its post-WWII peak is attributable to data center investment, not white-collar AI tool use.
 - `INS-260405-844D` [medium] A 43-day shutdown forcing unpaid essential workers illustrates the brittleness of government services reliant on continuous human labor.
 - `INS-260421-CE27` [medium] MemMachine demonstrated that single-node retrieval of 'suggest dessert' could miss a stored 'allergic to peanuts' fact; expanding to ±2 neighbor nodes catches the constraint.
 - `INS-260423-FB98` [medium] Cody: I created a Postgres database on the fly using the Railway API, pumped the data in, did the analysis with Claude, pushed the outputs out, and spun the database down.
 - `INS-260405-D638` [medium] Starcloud's orbital GPU clusters use solar power and vacuum cooling to eliminate the cost structure of terrestrial AI infrastructure.
+- `INS-260424-F8BB` [medium] Google Cloud lead: the worst failures are not fail-stop but silent data corruption — one chip silently gets the computation wrong every once in a while, and one chip's error goes to everybody.
 - `INS-260412-3252` [medium] The visible light spectrum has 10,000x the frequency range of radio waves, enabling vastly higher data throughput for Li-Fi.
 - `INS-260410-0ECA` [low] Musk predicts that in under 36 months, space will be the cheapest place to run AI because solar panels get 5x more power without atmosphere or day-night cycles, and no batteries are needed.

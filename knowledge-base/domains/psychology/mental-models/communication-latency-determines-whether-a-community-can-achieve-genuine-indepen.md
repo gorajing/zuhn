@@ -58,9 +58,9 @@ stance: >-
 related:
   - INS-260322-A8F2
   - INS-260329-05BB
+  - INS-260424-3176
   - INS-260330-D483
-  - INS-260412-D787
-  - PRI-260403-2024
+  - INS-260424-865F
 evidence:
   - id: INS-260330-D483
     type: TRANSFERS_TO

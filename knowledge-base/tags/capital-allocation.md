@@ -13,12 +13,12 @@
 - `INS-260410-B74C` Choose to be modestly less profitable than peers in booms so you can remain standing — and acquire them — during busts.
 - `INS-260411-C094` JPM's 20-year track record of maintaining a fortress balance sheet — $1.4T+ in liquid assets, 20% ROTCE through cycles — demonstrates that conservative capital management is itself a growth strategy.
 - `INS-260411-CCB2` Value creation requires ROIC above WACC; a positive ROIC that falls below the cost of capital actually destroys shareholder value.
+- `INS-260403-B744` Space tech is following the same stack-layer consolidation pattern as AI, but capital fixation on AI has left space infrastructure windows unusually open.
 - `INS-260329-A6EA` Your investment strategy should shift from human capital to financial assets as your capital base grows.
 - `INS-260330-7EAA` Cash sitting idle in offshore accounts destroys value because it earns no return while shareholders' alternative investments would.
 - `INS-260330-B6AD` When companies cannot repatriate cash cheaply, they issue domestic debt while sitting on foreign cash and pursue suboptimal foreign investments just to deploy trapped capital.
 - `INS-260330-ED77` Apple borrows money in the US to pay American bills despite having $285B in offshore accounts it cannot access without triggering taxes.
 - `INS-260330-137A` Offshore cash that can't be repatriated without heavy taxes acts as dead weight on shareholder returns rather than a competitive advantage.
-- `INS-260403-B744` Space tech is following the same stack-layer consolidation pattern as AI, but capital fixation on AI has left space infrastructure windows unusually open.
 - `INS-260410-4357` At scale, effectiveness of achieving outcomes matters more than efficiency of resource use — the 'waste' in China's growth was the mechanism that produced the growth.
 - `INS-260412-12A5` Governments offer EV purchase tax credits but neglect charging infrastructure, putting the cart before the horse.
 - `INS-260409-8B3D` Napier: the investment question for the next 10-15 years is not 'which company wins' but 'who gets cheap credit and who gets excluded' — winners are re-industrialization, rearmament, defense, energy, robotics, and old-economy manufacturing.
@@ -43,6 +43,9 @@
 - `INS-260410-45CE` Berkshire's insurance float grew from $88B in 2015 to $171B in 2024 to $176B at end of 2025 — a 2x compound in a decade without any new shareholder capital deployed, creating a zero-cost funding source for the investment portfolio.
 - `INS-260329-1CB0` Extreme early frugality isn't about the savings — it's about escaping survival mode so you can think long-term and make strategic bets.
 - `INS-260403-A93A` Extremely high CLTV/CAC ratios can signal missed growth opportunities rather than operational excellence.
+- `INS-260405-69F1` Innovation spend framed as a call option is harder for CFOs to cut because it reuses their own valuation logic.
+- `INS-260405-3403` You must fund the losers to find the winners—the portfolio math only works if you don't pre-filter by apparent promise.
+- `INS-260403-BDCC` Fund internal innovation projects in tranches tied to evidence, not annual lump-sum budgets.
 - `INS-260404-F22C` Biotech and health tech VC funds are raising at dramatically larger scales than software-focused peers.
 - `INS-260404-F970` Capital gravitates toward the biggest, most painful problems—founders who articulate problem severity clearly will raise more effectively.
 - `INS-260403-7881` Free money dilutes talent, inflates competition, and rewards unsustainable growth models over durable businesses.
@@ -52,10 +55,7 @@
 - `INS-260330-A38C` Travis systematically learned when Lyft had investor meetings, then immediately contacted those same investors to announce Uber's upcoming round, causing investors to back out of Lyft deals.
 - `INS-260330-2BB3` Each funding round should target specific risks to eliminate, with the amount raised calibrated precisely to the milestones needed to peel away those risk layers.
 - `INS-260405-5B4D` Investors asking 'what will you do with the money?' are really asking whether you understand your own business's leverage points.
-- `INS-260405-69F1` Innovation spend framed as a call option is harder for CFOs to cut because it reuses their own valuation logic.
-- `INS-260405-3403` You must fund the losers to find the winners—the portfolio math only works if you don't pre-filter by apparent promise.
-- `INS-260403-BDCC` Fund internal innovation projects in tranches tied to evidence, not annual lump-sum budgets.
+- `INS-260412-F8AE` FedEx uses retired passenger aircraft because their planes only fly ~2 hours/day versus airlines' 12+ hours — cheap purchase price matters more than fuel efficiency at low utilization.
 - `INS-260330-A1A4` Apple's $285B cash hoard demonstrates that past a strategic reserve threshold, excess cash creates more problems than options.
 - `INS-260330-4830` When repatriation taxes trap offshore profits, companies resort to borrowing domestically against foreign assets rather than deploying capital optimally.
-- `INS-260412-F8AE` FedEx uses retired passenger aircraft because their planes only fly ~2 hours/day versus airlines' 12+ hours — cheap purchase price matters more than fuel efficiency at low utilization.
 - `INS-260403-D379` Spend the least on experiments when you know the least, and increase stakes only as validated learning reduces uncertainty.

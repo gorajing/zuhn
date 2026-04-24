@@ -4,6 +4,7 @@
 - `INS-260330-B539` Object boundaries and spatial differentiation are partially conceptual overlays that can be intentionally softened to access raw perceptual data.
 - `INS-260403-47FC` Both Fatima and Dhammakaya crowds saw spinning colored suns, but Catholics saw the Virgin Mary while Buddhists saw their founder — priming shapes content, mechanism shapes structure.
 - `INS-260330-B87C` The same nerve signals producing pleasure or irritation depending on context reveals that the brain constructs meaning from sensory data rather than passively receiving it.
+- `INS-260327-E30A` Napoleon's Egyptian campaign was militarily inconclusive but his propaganda made it a triumph, creating the popular mandate that powered his coup.
 - `INS-260405-76E4` Investors without technical depth use founder confidence as a proxy for product quality.
 - `INS-260330-2988` While thoughts, emotions, and sensations constantly change, the awareness that notices them remains structurally identical across all experiences.
 - `INS-260405-B8BE` Sounds, sensations, and thoughts arise in consciousness automatically — only the act of selecting and holding an object of attention requires cognitive effort.
@@ -13,7 +14,6 @@
 - `INS-260330-AB38` What we see is heavily filtered by conceptual overlays — relaxing these filters reveals experience as an undifferentiated field of light and color.
 - `INS-260325-33DA` Each person constructs their own unique perceptual world, but consciousness feels so transparent that we assume others experience the same reality we do.
 - `INS-260323-9774` The brain is not recording reality — it is rendering a real-time simulation filtered through evolutionary structures designed for survival, not for representing truth.
-- `INS-260327-E30A` Napoleon's Egyptian campaign was militarily inconclusive but his propaganda made it a triumph, creating the popular mandate that powered his coup.
 - `INS-260330-FCFA` True randomness clusters in ways humans perceive as non-random, so products must introduce artificial structure to satisfy our pattern-seeking minds.
 - `INS-260330-1319` Apple had to make iTunes shuffle less random because true randomness produced clusters that felt intentional to users.
 - `INS-260330-8B24` Direct experience consistently overrides and corrects media-constructed mental models of people and places.

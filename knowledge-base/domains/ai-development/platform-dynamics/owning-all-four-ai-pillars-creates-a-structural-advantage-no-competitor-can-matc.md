@@ -60,11 +60,11 @@ stance: >-
   simultaneously has a durable strategic advantage that no single-pillar
   competitor can replicate.
 related:
+  - INS-260424-24A3
   - INS-260409-AD81
   - INS-260323-9676
   - INS-260413-0992
   - INS-260404-83C6
-  - INS-260413-7B46
 ---
 Mapping the AI landscape by capability reveals a stark asymmetry. Nvidia has chips only. Microsoft has cloud and application surface but no frontier model and no chips. Amazon has cloud only (with some early chip efforts). Meta has applications but exited the frontier model race. OpenAI and Anthropic have models but no chips, no data centers, and depend on external capital. Apple has essentially none of these pillars. Google is the only company with credible scale in all four: Gemini as frontier model, TPUs at roughly Nvidia-comparable unit volume, Google Cloud as distribution, and Google Search, YouTube, Gmail, Maps, Android as consumer applications.
 

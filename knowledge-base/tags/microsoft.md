@@ -6,10 +6,10 @@
 - `INS-260410-42CB` On camera Nadella names '27, 28, 29' as the window for Microsoft to go from Majorana 1 to an integrated fault-tolerant quantum computer, a dramatic compression of the usual quantum timeline rhetoric.
 - `INS-260403-87AC` In technology, revenue growth can continue long after a company has lost its ability to create new things, as Microsoft demonstrated post-2000.
 - `INS-260410-DFE2` Microsoft's revenue went from $25M to $98M in 18 months on the back of DOS clone licensing because they were both selling infinitely replicable software AND occupying the position every PC maker had to integrate with.
-- `INS-260412-6FB6` Nokia's decision to use Microsoft's OS instead of Android meant superior hardware was undermined by a barren app ecosystem, proving that platform ecosystem size trumps hardware quality.
 - `INS-260329-6D3B` Incumbent competition is inevitable at scale — the question shifts from 'if' to 'how do I compete against their bundle advantage.'
 - `INS-260410-AF68` Bill Gates licensed Microsoft BASIC to Apple for just $31,000 because his goal was to be the default programming language on every microcomputer, not to extract maximum revenue per deal.
 - `INS-260403-B557` Yahoo crippled itself by hiding from Microsoft rather than competing directly as a tech company.
+- `INS-260412-6FB6` Nokia's decision to use Microsoft's OS instead of Android meant superior hardware was undermined by a barren app ecosystem, proving that platform ecosystem size trumps hardware quality.
 - `INS-260404-9C69` Microsoft's deal with Inflection AI pioneered a non-acquisition structure that lets big tech absorb AI startups while avoiding regulatory acquisition scrutiny.
 - `INS-260404-688B` Microsoft's Series E investment in Rubrik created ecosystem integration that added credibility and enterprise distribution beyond what financial investors alone could provide.
 - `INS-260410-BCA3` Office was the first-party killer app that made Windows good, Outlook was the first-party app that made Exchange good — platforms without a great first-party driver don't develop the signal needed to become great.

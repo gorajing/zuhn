@@ -1,6 +1,6 @@
 # Topic: adoption
 
-> 53 insights
+> 54 insights
 
 - `INS-260409-8DDA` [high] Despite massive latent AI value, ~95% of enterprise AI pilots fail because organizations don't know how to operationalize the technology — throwing AI 'over a wall' doesn't work.
 - `INS-260403-A9CC` [high] Companies fail at AI adoption because they issue vague 'be AI-first' mandates without concrete tactics for daily workflows.
@@ -44,6 +44,7 @@
 - `INS-260403-E23C` [medium] An MIT study found 95% of companies investing in AI tools saw zero return, pointing to a gap between AI capability and organizational readiness to deploy it effectively.
 - `INS-260329-C4F5` [medium] Framing AI as augmentation rather than replacement is the only actionable mindset because the alternative is paralysis.
 - `INS-260403-643A` [medium] AI tools generate code easily but debugging still requires technical intuition, creating a hidden cliff where non-coders get stuck.
+- `INS-260424-90E6` [medium] Jason Davenport (Google Cloud): I think we're in an efficiency phase of AI right now — I'm a little excited for when it's over and we start to think about business transformation as a result of AI, because that's where the next Googles, the next Ubers, the next yeah, they're going to come from.
 - `INS-260409-21E0` [medium] Becoming an architect rather than a mason in the AI era requires extreme environmental constraints to rewire patterns, not motivational self-talk, because the discipline gap is what separates the two groups.
 - `INS-260322-7DD5` [medium] 2026 marks when major consumer AI products shift from helping you work to helping you stay connected — understanding who you are and facilitating real human relationships.
 - `INS-260403-C355` [medium] High-stakes industries adopt AI through a predictable trust ladder: copilot for routine tasks → demonstrated reliability → autopilot acceptance → perceived necessity.

@@ -1,10 +1,11 @@
 # Topic: human-ai-relationship
 
-> 80 insights
+> 82 insights
 
 - `INS-260325-9C2F` [very_high] When AI outperforms humans, human-AI synergy is g = -0.54; when humans outperform AI, synergy is g = +0.46.
 - `INS-260325-3EF4` [very_high] Decision tasks show negative synergy (g = -0.27, p = 0.002) while creation tasks show positive synergy (g = 0.19), a statistically significant difference.
 - `INS-260325-4793` [very_high] Meta-analysis of 106 experiments shows human-AI systems average g = -0.23 vs best-of-either, meaning most teams are worse than using the best partner alone.
+- `INS-260424-1E10` [high] Ben Gilbert: most people for most tasks throughout the day, it still doesn't occur to you even if you're an AI maximalist trying to lean into the tools — there's just not the muscle memory yet, and most people 99-plus-percent still don't think 'I should create an agent to do that on my behalf.'
 - `INS-260329-560D` [high] AI app builders fail not because the AI is weak, but because users cannot articulate what they want with sufficient precision.
 - `INS-260323-64A4` [high] Some people use AI to avoid thinking; others use it to think more deeply than ever before — the tool amplifies whatever intent you bring to it.
 - `INS-260322-D2E9` [high] Neither white-collar nor blue-collar jobs are safe from AI — the only lasting career security comes from being the kind of person others actively want to collaborate with.
@@ -16,6 +17,7 @@
 - `INS-260322-13D6` [high] AI has already demonstrated creative problem-solving beyond human capability; the remaining human edge is the intrinsic motivation to preserve human flourishing.
 - `INS-260403-BA48` [high] AI trained to be agreeable slowly erodes users' ability to challenge their own assumptions.
 - `INS-260322-5A0F` [high] Students using AI to complete writing homework are skipping cognitive exercise, producing adults who cannot think logically or resist manipulation.
+- `INS-260424-BFDC` [high] Logan Kilpatrick: instead of asking for one thing, you can now ask for 30 things — but the weight is on me, the onus is on me to be like I really could build this.
 - `INS-260403-5F41` [high] Prompting 'think step by step: identify the issue, evaluate solutions, then recommend based on cost and feasibility' forces the model to reason rather than pattern-match to an answer.
 - `INS-260403-F400` [high] Tighter constraints on AI prompts force more creative and precise outputs by eliminating the vast space of mediocre default responses.
 - `INS-260423-C506` [high] Cody Schneider: I kept trying to describe a TV-type texture and it came out terrible; then I found someone with the specific lexicon and it literally one-shot what I was looking for.

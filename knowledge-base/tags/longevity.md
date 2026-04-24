@@ -12,13 +12,13 @@
 - `INS-260409-D830` Young mitochondria from maternal-line relatives is a biologically coherent source for autologous transplant, with delivery (not supply) as the real problem.
 - `INS-260409-C0DF` The interesting longevity claim is that psychedelics may produce measurable metabolic and neural rejuvenation effects, not just subjective mental health benefits.
 - `INS-260409-6B22` Sprint performance is a clean mitochondrial-capacity biomarker and sprinting itself is an underprescribed longevity protocol.
+- `INS-260403-B9E6` Longevity investments should be evaluated by whether they flatten the mortality curve (like naked mole rats) rather than shift it rightward.
 - `INS-260327-A478` Blue Zone centenarian counts may be inflated by birth record errors and pension fraud in regions with historically poor documentation, undermining dietary conclusions drawn from this data.
 - `INS-260325-1550` Creatine at 10-20g/day provides brain energy and longevity benefits beyond the standard 5g muscle dose — the brain is a primary consumer.
 - `INS-260327-7B16` Hunter-gatherers surviving childhood regularly lived to 68-78 years without chronic disease; the 30-40 year average lifespan is skewed by high infant and childhood mortality.
 - `INS-260325-6088` Legs fail first because they are furthest from the heart — leg weakness is the earliest warning of systemic health decline.
 - `INS-260327-52AA` Observational research consistently links higher C15 and C17 odd-chain fatty acid levels (from dairy fat) with better longevity outcomes, yet no one in the longevity space supplements them.
 - `INS-260327-D19D` Bryan Johnson's vegan longevity protocol requires 100+ daily supplements to compensate for nutrients naturally abundant in meat and organs, yet still misses key compounds.
-- `INS-260403-B9E6` Longevity investments should be evaluated by whether they flatten the mortality curve (like naked mole rats) rather than shift it rightward.
 - `INS-260403-1CB1` Our inability to intuit exponential change causes us to underfund moonshot longevity research in favor of comfortable incremental approaches.
 - `INS-260403-1B96` AI founders face a personal expected-value calculation where certain death in decades vs. a chance at immortality makes even a 25% extinction risk individually rational.
 - `INS-260410-35F5` Every super-successful person Munger knows had three things — high intelligence, hard work, and good luck — and the only way to get lucky two or three times is to start early and keep trying for a long time.

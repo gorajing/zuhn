@@ -10,8 +10,6 @@
 - `INS-260322-7FA4` As AI-generated content commoditizes visual spectacle, the creator's durable advantage becomes narrative authenticity — stories infused with personal emotion, values, and philosophical depth that audiences instinctively recognize.
 - `INS-260404-63F0` 75% of YC's latest batch focusing on AI suggests dangerous herd behavior that will produce many undifferentiated startups competing for the same markets.
 - `INS-260410-ED4E` Pasture-raised chicken startups fail because factory-farmed chicken is legally sold as 'all-natural' and consumers assume the labels mean the same thing.
-- `INS-260330-B65B` Half of all content is the same 50-100 common words; differentiation and value live entirely in the rare, specific vocabulary choices.
-- `INS-260402-5BE6` AI handles top-of-funnel informational queries well, but struggles to replicate case studies, product comparisons, and implementation guides rooted in real experience.
 - `INS-260329-5B18` Craft a single sentence that names your specific avatar, their desired outcome, your delivery timeframe, and your unique mechanism to instantly differentiate from competitors.
 - `INS-260403-7B04` AI app-layer tech is commoditizing so fast that brand and distribution are now the primary moats.
 - `INS-260410-DED5` Jensen Huang's rule: don't enter a market until you have a differentiated reason to — expansion without differentiation is just fighting for low margins.
@@ -24,14 +22,16 @@
 - `INS-260325-E19E` New species form when populations are isolated long enough to accumulate distinct mutations — roughly 2 million years for mammals.
 - `INS-260403-7E95` Competitive advantage only materializes when outperformance maps to the specific metrics customers use to evaluate success.
 - `INS-260404-D4E6` The strongest companies combine 3-4 differentiation dimensions (price, quality, experience, supply) rather than competing on one axis.
+- `INS-260330-B65B` Half of all content is the same 50-100 common words; differentiation and value live entirely in the rare, specific vocabulary choices.
+- `INS-260402-5BE6` AI handles top-of-funnel informational queries well, but struggles to replicate case studies, product comparisons, and implementation guides rooted in real experience.
 - `INS-260409-C3B3` Out-caring competitors is the only high-leverage moat that isn't gated by scarcity — anyone can occupy that ranking.
 - `INS-260409-EC0C` Not knowing the playbook guarantees you won't execute the playbook — making inexperience a forcing function for differentiation.
 - `INS-260403-05F2` Preparing 2-3 smart questions about the VC's involvement style and portfolio support is the easiest way to differentiate yourself from other founders.
 - `INS-260410-7AA0` In B2B enterprise software, brand is the identity that scales trust across a global buyer base — underinvesting in it cedes the most leveraged asset you can build.
 - `INS-260404-C501` Treat differentiation as a combinatorial selection from ~20 possible axes rather than finding one unique angle.
 - `INS-260327-F405` Giertz's products succeed not because they're technically superior but because they express genuine personality that creates emotional connection with users.
-- `INS-260403-868F` Spending tens of hours on primary research per post produces insights readers can't find elsewhere, which is what makes content worth sharing.
 - `INS-260410-ABFF` Walmart's Great Value and Costco's Kirkland compete against brands on price; Trader Joe's refuses to launch a private label product unless it's differentiated on recipe, packaging, size, or merchandising — which is why the house brand carries the store's own name.
+- `INS-260403-868F` Spending tens of hours on primary research per post produces insights readers can't find elsewhere, which is what makes content worth sharing.
 - `INS-260327-4E36` 99% of salespeople sound the same -- the pattern interrupt (doing something genuinely different, specific, and human) is what makes prospects actually pay attention and remember you.
 - `INS-260329-D1A1` Custom-researched outreach to multiple stakeholders per target company signals the hustle that generic mass applications cannot.
 - `INS-260327-575D` Feature comparison matrices are one-sided and savvy buyers ignore them -- instead, explain the specific architectural decisions you made and why they matter, like how Dropbox's delta sync technology became the headline that won NBC Universal.

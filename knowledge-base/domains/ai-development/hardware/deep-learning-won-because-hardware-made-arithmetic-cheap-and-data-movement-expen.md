@@ -65,9 +65,9 @@ related:
   - INS-260329-2612
   - INS-260330-F5A1
   - INS-260330-9D44
-  - INS-260330-4C31
   - INS-260402-5242
   - INS-260409-C133
+  - INS-260409-AB32
 ---
 Noam Shazeer argues the algorithms have been following the hardware: at this point arithmetic is very cheap and moving data is comparatively expensive, which is precisely the regime where matrix multiplication (N³ ops over N² bytes of communication) dominates. Larry Page reportedly framed this as opportunity cost — if your chip has mostly empty area with a few arithmetic units, you're leaving orders of magnitude of throughput on the floor.
 

@@ -1,0 +1,3 @@
+# Tag: native-ai-app
+
+- `INS-260424-273F` Ben Gilbert: I'm not really sure we're seeing the killer native app of the agentic AI era — we don't even know what it looks like; we're trying to make all of our existing stuff more efficient and put it into this AI modality, but I don't think there's…

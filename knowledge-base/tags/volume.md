@@ -2,8 +2,8 @@
 
 - `INS-260410-1399` Rentech's secret isn't genius market calls — it's recognizing that a barely-better-than-coin-flip edge compounds into historic returns when you make millions of small bets and lever up smartly, rather than waiting for high-conviction opportunities.
 - `INS-260329-C409` HFT makes fractions of a cent per trade but profits through extreme volume and speed advantage.
-- `INS-260329-2865` After a brand misstep, overwhelm the negative pairing with high volume of positive pairings rather than trying to erase or apologize for it.
 - `INS-260330-45A9` Plants conquered Earth not by making RuBisCo better, but by making more of it — volume strategy beat optimization strategy over evolutionary timescales.
+- `INS-260329-2865` After a brand misstep, overwhelm the negative pairing with high volume of positive pairings rather than trying to erase or apologize for it.
 - `INS-260329-FCF2` Doing 10-100x more volume beats 2x optimization, but you must relearn this lesson independently in each new domain you enter.
 - `INS-260329-3FF3` Doing something enough times guarantees outcomes that individual attempts leave to chance.
 - `INS-260405-0FC4` RuBisCo wasn't particularly good at its job—so the first organisms just made enormous quantities of it and dominated the planet anyway.

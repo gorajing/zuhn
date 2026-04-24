@@ -32,6 +32,6 @@
 - `INS-260330-1002` Pony Ma secured critical early funding by telling investors 'if you don't fund us, Tencent will probably die' and admitting he wasn't sure how to monetize—his brutal honesty made investors trust him more than typical overconfident founders.
 - `INS-260403-0E87` When VCs probe fragile parts of your business, responding with honest acknowledgment and a clear mitigation plan builds trust faster than defensive spinning.
 - `INS-260405-F531` Simply asking 'what would a bootstrapped company do?' cuts through VC-funded bloat and restores prioritization clarity.
-- `INS-260403-E592` Outsiders disrupt better because they reach conviction before accumulating the insider knowledge that would prevent them from starting.
 - `INS-260330-8686` Travis's relentless aggression built Uber into a global giant, but the same traits made him unfit to lead it once the company needed to repair its reputation and prepare for an IPO.
+- `INS-260403-E592` Outsiders disrupt better because they reach conviction before accumulating the insider knowledge that would prevent them from starting.
 - `INS-260329-B0BA` Start with your best bad idea and let customer feedback make it less wrong over time, rather than waiting for the perfect concept.

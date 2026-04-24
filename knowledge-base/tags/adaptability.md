@@ -9,10 +9,10 @@
 - `INS-260327-F55A` Adaptability to novel situations, not deep expertise in any domain, is the only AI-proof career strategy.
 - `INS-260330-66F7` Under-ice submarine operations remove the option to surface during emergencies, forcing fundamentally different and more rigorous preparation.
 - `INS-260403-DFBD` Expecting difficulty as the default state prevents the psychological fracture that occurs when optimistic leaders encounter inevitable friction.
-- `INS-260329-ACE6` CS50's success comes from teaching thinking patterns that transfer across languages, not Python-specific tricks.
 - `INS-260403-F52E` RuBisCo evolved when oxygen was scarce and CO2 abundant — rising oxygen levels broke its core function, but plants couldn't pivot.
 - `INS-260410-A671` Meta has won or neutralized every major threat — MySpace, Google+, Twitter, Snapchat, TikTok, Vine, Periscope — because it holds its connect-the-world mission rigidly but treats every product, technology, and strategy as disposable.
 - `INS-260323-7D3C` Linux dominates because anyone can tweak it for their specific use case — covering more applications than any proprietary system ever could.
+- `INS-260329-ACE6` CS50's success comes from teaching thinking patterns that transfer across languages, not Python-specific tricks.
 - `INS-260327-ECDA` When the world changes, change the plan—and be transparent about it with investors, board, and employees.
 - `INS-260327-95C6` China shutting down Bitcoin mining forced Alex to build US data centers from scratch — that forced capability became the foundation for AI infrastructure.
 - `INS-260404-393A` Strategy is a hypothesis, not a plan — its value is only realized through execution that tests, validates, and iterates on strategic choices.
@@ -24,5 +24,5 @@
 - `INS-260403-5D3C` 65% of VCs rank management team quality as the top investment criterion, ahead of market size and product quality.
 - `INS-260322-ABA0` Businesses that become one-dimensional on currently-working channels almost always see revenue halve rather than double, because platform shifts are inevitable.
 - `INS-260327-8521` Bret Taylor learned as Facebook CTO to stop conforming the job to his strengths and instead identify the most important thing each day, even if uncomfortable, creating a virtuous cycle of broader impact and greater joy.
-- `INS-260330-440E` The Indus Valley shows almost no evidence of warfare or military infrastructure, and its collapse coincided with the arrival of more warlike peoples.
 - `INS-260403-DF7F` Complete business model validation requires testing desirability, viability, feasibility, and adaptability—not just whether customers want the product.
+- `INS-260330-440E` The Indus Valley shows almost no evidence of warfare or military infrastructure, and its collapse coincided with the arrival of more warlike peoples.

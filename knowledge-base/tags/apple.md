@@ -4,15 +4,15 @@
 - `INS-260405-FAA3` Apple licensing Gemini for ~$1B/year shows foundation model capability is now a moat even Apple can't bridge alone.
 - `INS-260410-228E` Don't sell winners based on growth rate or maturity — sell based on whether decades of growth remain ahead.
 - `INS-260330-1319` Apple had to make iTunes shuffle less random because true randomness produced clusters that felt intentional to users.
-- `INS-260412-5768` Intel evaluated the iPhone deal against current mobile chip margins rather than the trajectory of mobile performance converging with desktop, a systematic error incumbents repeatedly make.
 - `INS-260403-87AC` In technology, revenue growth can continue long after a company has lost its ability to create new things, as Microsoft demonstrated post-2000.
+- `INS-260412-5768` Intel evaluated the iPhone deal against current mobile chip margins rather than the trajectory of mobile performance converging with desktop, a systematic error incumbents repeatedly make.
 - `INS-260325-A54F` Apple's power is ecosystem lock-in that makes switching feel like identity loss — not product superiority.
 - `INS-260404-B863` Participants subliminally exposed to the Apple logo outperformed IBM-exposed groups on creative tasks.
-- `INS-260412-454A` Christensen's disruption framework played out precisely with ARM chips moving from mobile into desktop computing over three decades.
 - `INS-260412-3506` Meta's ad revenue decline was partly caused by Apple's privacy changes, showing that even dominant companies face existential risk from upstream platform decisions.
 - `INS-260412-AB09` Intel CEO Paul Otellini rejected the iPhone chip deal because mobile margins seemed too thin, inadvertently funding Apple's path to replacing Intel entirely.
 - `INS-260330-8326` Apple's refusal to make large acquisitions is its competitive advantage, not a missed opportunity.
 - `INS-260412-FB49` Apple's iPhone profits funded chip R&D that improved 300% in five years while Intel improved only 28%, demonstrating how adjacent-market cash flows can fuel disruption.
+- `INS-260412-454A` Christensen's disruption framework played out precisely with ARM chips moving from mobile into desktop computing over three decades.
 - `INS-260412-7FF8` iPhone engineers worked 7-day weeks for years, with multiple divorces and health breakdowns, while the world only saw the magical launch event.
 - `INS-260412-B825` Apple ran two competing iPhone teams (iPod-phone vs touch-Mac-OS) without letting them see each other's work, and the underdog team won.
 - `INS-260330-3431` Premium brand identity can prevent entry into massive price-sensitive markets where the bulk of demand sits far below your price floor.

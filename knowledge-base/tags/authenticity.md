@@ -7,8 +7,8 @@
 - `INS-260325-BA76` Pessoa's paradox: self-awareness splits the experiencer from the experience, making authentic living impossible for the deeply conscious.
 - `INS-260325-36EA` Chronic niceness is covert manipulation to control others' perception — it breeds resentment in the giver and discomfort in the receiver.
 - `INS-260330-5F21` Partially adopted personas trigger uncanny valley effects that repel rather than attract.
-- `INS-260330-31B5` If you're drawn to work despite its lack of prestige, that's evidence both of genuine interest and of untapped opportunity.
 - `INS-260403-5808` Earnestness isn't the opposite of one thing — it's the center that many different failure modes orbit.
+- `INS-260330-31B5` If you're drawn to work despite its lack of prestige, that's evidence both of genuine interest and of untapped opportunity.
 - `INS-260327-8B1A` You can't know yourself in others' company because social settings automatically activate performance mode.
 - `INS-260405-E06B` When elite culture enforces a consensus, many people mouth the consensus publicly while holding different views privately — a stable equilibrium Graham calls 'bad table manners.'
 - `INS-260404-C99B` Your guilty pleasures — what you read when not trying to be impressive — reveal your genuine aesthetic preferences.
@@ -29,13 +29,13 @@
 - `INS-260403-7878` Readers trust bloggers more than mainstream media because online writing lacks the invisible fingerprints of PR firms shaping editorial content.
 - `INS-260405-6019` Expertise plus authenticity is outcompeting institutional authority as the basis for trusted information.
 - `INS-260412-9BFD` Real Graphene's CEO noted many companies claim to use graphene but actually use graphite, creating a trust gap that authentic producers can exploit as a differentiator.
-- `INS-260402-4B96` Startups are where gaming the system stops working because users only care if your product solves their problem.
 - `INS-260423-79B7` Seth Godin: authenticity is a crock — if your surgeon is authentically in a bad mood, you don't want them to do a lousy job on your knee implant.
+- `INS-260402-4B96` Startups are where gaming the system stops working because users only care if your product solves their problem.
 - `INS-260327-0053` Building products doesn't require sacrificing normal life—authentic entrepreneurial spirit coexists with being a kid.
 - `INS-260329-CD64` Building for people who share your lived experience creates the emotional fuel to persist and the empathy to build exceptional products.
-- `INS-260322-5650` In 2026, customer feedback is too fast and too public for mediocre products to survive — subscriptions only work if the product genuinely delivers, and the founder should use their own product daily.
 - `INS-260322-BD0D` You can't market a company without a character, but the character must be real and sustainable — manufactured personas always collapse over time.
 - `INS-260321-5598` Professional CEOs trained to say nothing on stage now lose to founder CEOs interesting enough to fill 3 hours on Joe Rogan — the 80-year reign of synthetic corporate communication is over.
+- `INS-260322-5650` In 2026, customer feedback is too fast and too public for mediocre products to survive — subscriptions only work if the product genuinely delivers, and the founder should use their own product daily.
 - `INS-260403-D531` College marks the transition point where signaling compliance stops working and genuine ability becomes the only reliable path forward.
 - `INS-260405-371F` Experienced investors are better at detecting bullshit than early founders are at producing it — candid rawness beats practiced polish.
 - `INS-260403-DE45` Experienced investors detect bullshit better than hackers produce it, so authenticity about your stage outperforms performative polish.

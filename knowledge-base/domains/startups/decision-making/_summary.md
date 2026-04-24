@@ -1,6 +1,6 @@
 # Topic: decision-making
 
-> 7 insights
+> 8 insights
 
 - `INS-260410-DDD0` [high] When you bet the company, you're not gambling — you're pulling every future risk into the present so the outcome is already determined before the bet.
 - `INS-260423-70CF` [high] Michael: when companies come to me scared about a competitor's funding, my first question is always 'have you used the product?'
@@ -9,4 +9,5 @@
 - `INS-260410-5799` [high] Intel passed on the iPhone chip contract because Jobs's offer was 'lowball' — which turned out to be the most expensive pricing decision in tech history.
 - `INS-260410-9AC4` [high] Buffett and Munger's three piles — yes, no, and too-hard — work because the too-hard pile saves you from evaluating things you will never do well.
 
+- `INS-260424-AE8B` [medium] Google Cloud lead: in 2013 conventional wisdom said custom silicon was a bad idea, but the initial TPU bet was 30-40 people and low tens of millions of dollars — big and controversial at the time, but the cost of failure was low and the cost of success significant.
 - `INS-260405-809E` [medium] Updating predictions to match outcomes after the fact eliminates any information the prediction contained and corrupts future calibration.

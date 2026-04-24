@@ -1,6 +1,6 @@
 # Knowledge Base Master Index
 
-> Last rebuilt: 2026-04-23 | Total insights: 10982 | Sources: 2479
+> Last rebuilt: 2026-04-24 | Total insights: 11006 | Sources: 2482
 
 **NOTE:** Access counts and last_accessed are updated automatically when insights are retrieved.
 
@@ -8,14 +8,14 @@
 
 | Domain | Topics | Insights | Principles | Last Updated |
 | ------ | ------ | -------- | ---------- | ------------ |
-| ai-development | 40 | 1807 | 131 | 2026-04-23 |
+| ai-development | 40 | 1827 | 131 | 2026-04-24 |
 | automation | 7 | 41 | 2 | 2026-04-12 |
 | health | 6 | 483 | 44 | 2026-04-12 |
-| investing | 11 | 1393 | 110 | 2026-04-23 |
+| investing | 11 | 1395 | 110 | 2026-04-24 |
 | music-production | 6 | 44 | 3 | 2026-04-09 |
 | pets | 1 | 2 | 0 | 2026-03-20 |
 | psychology | 24 | 2505 | 185 | 2026-04-23 |
-| startups | 55 | 4666 | 356 | 2026-04-23 |
+| startups | 55 | 4668 | 356 | 2026-04-24 |
 | video-production | 4 | 41 | 5 | 2026-04-09 |
 
 ## Mental Models
@@ -35,6 +35,30 @@ _No flags._
 
 ## Recently Added (last 7 days)
 
+- `INS-260424-90E6` Jason Davenport (Google Cloud): I think we're in an efficiency phase of AI right now — I'm a little excited for when it's over and we start to think about business transformation as a result of AI, because that's where the next Googles, the next Ubers, the next yeah, they're going to come from. _(2026-04-24)_
+- `INS-260424-FE8E` Logan Kilpatrick: we have someone whose job is to take a bunch of these agentically-engineered changes and get them over the line into the actual AI Studio codebase, and is also responsible for how to make that cycle better. _(2026-04-24)_
+- `INS-260424-E832` Logan Kilpatrick: there is way more demand than there is supply across every Google product surface — over the next 2-3 years you'll end up with a fixed amount of tokens, where do you deploy them in your own life and your business? _(2026-04-24)_
+- `INS-260424-3176` Ben Gilbert: a lot more AI tasks will start feeling synchronous instead of async — there's such a big difference in computing applications between something that feels instant versus not, and we can't yet predict what that unlocks. _(2026-04-24)_
+- `INS-260424-4111` Logan Kilpatrick (citing Jeff Dean): the frontier of autonomous agent runtime today is on the order of hours; in the next 12 months it's truly going to be on the order of days or weeks. _(2026-04-24)_
+- `INS-260424-9544` Logan Kilpatrick: robotics is at this crossroads that I think a lot of the coding models were at 18 months ago — we're probably 12-18 months from a bunch of significant breakthroughs. _(2026-04-24)_
+- `INS-260424-0554` Ben Gilbert: when we made our NVIDIA series in 2023-2024, training was what everybody was focused on; inference is fine, you know, like oh yeah I guess you could run that on the same chip — now I think the compute loads for inference have eclipsed the line for training. _(2026-04-24)_
+- `INS-260424-981C` Google Cloud lead: the age of specialization is going to continue — I wouldn't be surprised if two chips here, we're going to find additional workloads that might need their own chip. _(2026-04-24)_
+- `INS-260424-123B` Logan Kilpatrick: this is going to increase the demand for traditional developers — there will be a stopping point of how far you can go without understanding the technology, and people need a developer to partner with. _(2026-04-24)_
+- `INS-260424-1E10` Ben Gilbert: most people for most tasks throughout the day, it still doesn't occur to you even if you're an AI maximalist trying to lean into the tools — there's just not the muscle memory yet, and most people 99-plus-percent still don't think 'I should create an agent to do that on my behalf.' _(2026-04-24)_
+- `INS-260424-BFDC` Logan Kilpatrick: instead of asking for one thing, you can now ask for 30 things — but the weight is on me, the onus is on me to be like I really could build this. _(2026-04-24)_
+- `INS-260424-865F` Google Cloud lead: the default way of connecting chips together didn't support latency, it supported throughput — but in age of agents you care about the minimum time it takes to get the data through. _(2026-04-24)_
+- `INS-260424-7A03` Google Cloud lead: CPUs are going to make a comeback — there's a lot of general-purpose compute involved in running these agents, orchestrating inference, creating sandboxes, virtual machines to build code, run it, check results. _(2026-04-24)_
+- `INS-260424-ABB2` Google Cloud lead: at 100,000 chips, several times a day at least one will fail — if a human is needed for diagnosis, that's a 30-minute minimum, and you have zero throughput until you start again. _(2026-04-24)_
+- `INS-260424-F8BB` Google Cloud lead: the worst failures are not fail-stop but silent data corruption — one chip silently gets the computation wrong every once in a while, and one chip's error goes to everybody. _(2026-04-24)_
+- `INS-260424-9760` Google Cloud lead: in 2000 our number one problem was building the web index — by 2005-2010 the dominant workload was serving the index; the value comes from serving, and we knew yes training is dominant now but the value will come from serving the model. _(2026-04-24)_
+- `INS-260424-BC8F` Ben Gilbert: there's an analog to the early web — Google's 2000 infrastructure was a giant one-time web crawl, by 2010-2015 the vast majority was serving pages for queries; you see that exact same thing with training and inference but on a much more compressed timescale of 4 years rather than 15. _(2026-04-24)_
+- `INS-260424-5759` Logan Kilpatrick: every product is going to become agentic — Gmail becomes an agent, Google search becomes an agent, all the foundational pieces all become agentic. _(2026-04-24)_
+- `INS-260424-273F` Ben Gilbert: I'm not really sure we're seeing the killer native app of the agentic AI era — we don't even know what it looks like; we're trying to make all of our existing stuff more efficient and put it into this AI modality, but I don't think there's… _(2026-04-24)_
+- `INS-260424-50EE` Logan Kilpatrick: if you haven't tried it in the last 2 weeks, go check it out — what didn't work last year now works. _(2026-04-24)_
+- `INS-260424-24A3` David Rosenthal: Google is the only company that has a chip, a cloud, and a model — there are multi-trillion-dollar companies that have one of those things. _(2026-04-24)_
+- `INS-260424-2F93` Google Cloud lead: two years ago we were internally talking about AI agents and reinforcement learning in real time, but it wasn't the dominant workload — we had to take some bets but with thousands of researchers helping predict the future, you take notes when leading minds say this is where things are going. _(2026-04-24)_
+- `INS-260424-AE8B` Google Cloud lead: in 2013 conventional wisdom said custom silicon was a bad idea, but the initial TPU bet was 30-40 people and low tens of millions of dollars — big and controversial at the time, but the cost of failure was low and the cost of success significant. _(2026-04-24)_
+- `INS-260424-B404` Ben Gilbert: Thomas came in surveying the org and said 'how many salespeople do we have?' He looked and said 'we need 1000 times more salespeople to run an effective customer-focused enterprise organization' — and Google literally 1000x'd the headcount. _(2026-04-24)_
 - `INS-260423-EDF7` Aaron Levie: I already saw one diffusion cycle with cloud and how long it took — 20 years later it got way bigger than we ever realized; if it works, the market's always larger than you ever think. _(2026-04-23)_
 - `INS-260423-8504` Aaron Levie: if you wanted an agent to find upcoming contract renewal risk, that agent might find 10 different systems containing contracts — half legacy technologies that don't work well with agents, on network file shares and legacy document management systems. _(2026-04-23)_
 - `INS-260423-74BF` Google ADK demo: the Guardian agent has an Agent Card declaring streaming capability, description, skills, version, and URL — and that card is what lets other agents discover and call it via A2A. _(2026-04-23)_
@@ -73,9 +97,9 @@ _No flags._
 - `INS-260423-9225` Google Cloud: for self-hosted VLM or Ollama, the platform captures GPU utilization at approximation but tokens-per-second and prefill/decode breakdown require a Prometheus sidecar exporting from the model's internal metrics. _(2026-04-23)_
 - `INS-260423-D900` Hinton: chatbots don't store strings of words or particular events — they make them up when asked, and get details wrong just like John Dean testifying about Watergate meetings he was actually present in. _(2026-04-23)_
 - `INS-260423-61B6` Hinton: train a good-at-math AI to give the wrong answer, and it doesn't get worse at math — it understands you want wrong answers and starts giving wrong answers to everything. _(2026-04-23)_
+- `INS-260423-3F3B` Cody: if you're looking at Salesforce versus HubSpot right now, Salesforce is the better product for AI foundation because it has a more robust API so you can do more with it. _(2026-04-23)_
 - `INS-260423-7C1A` Dalton: you can oneshot a Salesforce clone, then oneshot the next TechCrunch-clone when that fails, and end up deep in pivot hell because the shiny thing is always what you know least about. _(2026-04-23)_
 - `INS-260423-6CC0` Cody Schneider: I'm comfortable with 15 windows open — I'm about to literally buy a new computer because I need more RAM. _(2026-04-23)_
-- `INS-260423-3F3B` Cody: if you're looking at Salesforce versus HubSpot right now, Salesforce is the better product for AI foundation because it has a more robust API so you can do more with it. _(2026-04-23)_
 - `INS-260423-679C` Jason Lemkin on Anthropic: they caught OpenAI in half the time at roughly the same revenue with training costs one-quarter of OpenAI's — that's a double-code-red, you usually don't have both together. _(2026-04-23)_
 - `INS-260423-BD00` Chamath wrote an investment memo for Groq in 2015 and published it on X before writing the check; the memo concluded he had the boundary conditions to build something iconic. _(2026-04-23)_
 - `INS-260423-E7F5` Jason Lemkin: I'm nervous about exciting AI investors that have very low ACVs right now — their actual TAMs may end up smaller than they look despite the epic numbers. _(2026-04-23)_
@@ -88,16 +112,16 @@ _No flags._
 - `INS-260423-4402` Chamath: A-players are meaningless; there are teams that can perform at an A level. Iron sharpens iron. _(2026-04-23)_
 - `INS-260423-5F2F` Aaron Levie: the budget of tokens will have to move out of IT spend and into regular OPEX spend — this can't be treated like trading off between Salesforce licenses and compute tokens. _(2026-04-23)_
 - `INS-260423-64FA` Chamath's stated rubric for early-stage deep-tech disputes: back the technical person without whom the product wouldn't exist. _(2026-04-23)_
+- `INS-260423-787D` Jason Lemkin: right now most of the deals you look at have low barriers to entry — if you stumble, you lose. If there's five of you going out of the gates, one won't stumble and they'll win. _(2026-04-23)_
+- `INS-260423-5998` Michael Seibel: the Facebook platform slop wars — no one competing with Zynga won; Facebook won. _(2026-04-23)_
 - `INS-260423-49F1` Dan Koe: people don't follow creators for one piece of content — they follow for a body of coherent work; each essay compounds on the last, and AI cannot replicate a coherent philosophy built through years of genuine thinking. _(2026-04-23)_
 - `INS-260423-F7C7` Dan Koe: articles are answers while essays are arguments; articles package existing knowledge while essays change the author's beliefs; AI cannot write an essay. _(2026-04-23)_
 - `INS-260423-AEAD` Dan Koe: Substack is the most slept-on social media right now — you own your audience as a list of subscribers, it's email first, and the notes feed has people who appreciate deep and genuine thinking. _(2026-04-23)_
 - `INS-260423-AB6B` Dan Koe: write to discover, not to perform — an essay begins with uncertainty and an open mind; most social media engagement comes from packaging, which is a separate skill. _(2026-04-23)_
 - `INS-260423-70CF` Michael: when companies come to me scared about a competitor's funding, my first question is always 'have you used the product?' _(2026-04-23)_
-- `INS-260423-787D` Jason Lemkin: right now most of the deals you look at have low barriers to entry — if you stumble, you lose. If there's five of you going out of the gates, one won't stumble and they'll win. _(2026-04-23)_
-- `INS-260423-5998` Michael Seibel: the Facebook platform slop wars — no one competing with Zynga won; Facebook won. _(2026-04-23)_
+- `INS-260423-79B7` Seth Godin: authenticity is a crock — if your surgeon is authentically in a bad mood, you don't want them to do a lousy job on your knee implant. _(2026-04-23)_
 - `INS-260423-E905` Chamath on Groq: We didn't have product-market fit for seven years. Replit had years of nothingness before the hockey stick. _(2026-04-23)_
 - `INS-260423-9F96` Chamath: in the pre-PMF years you have to find different ways of feeling rewarded that are not revenue or valuation — usually technical progress. _(2026-04-23)_
-- `INS-260423-79B7` Seth Godin: authenticity is a crock — if your surgeon is authentically in a bad mood, you don't want them to do a lousy job on your knee implant. _(2026-04-23)_
 - `INS-260423-6FB5` Dalton: whenever I worked on retention, I had to start with 'am I helping the user?'; whenever I worked on topline growth, I was serving myself. _(2026-04-23)_
 - `INS-260423-20ED` Seth Godin: when you pick your customers, you pick your future — average people chose to be average, and they won't buy your book or your software. _(2026-04-23)_
 - `INS-260423-9D71` Greg Isenberg: if you can figure out how to do all these jobs-to-be-done and be one person instead of ten, there is a case to be made that you've added a tremendous amount of value to your role — triple my salary easily. _(2026-04-23)_
@@ -106,9 +130,9 @@ _No flags._
 - `INS-260423-EFC0` Chamath: org charts are a vestige of enterprise software sold to somebody — they celebrate the politician, not the technical genius. _(2026-04-23)_
 - `INS-260423-BFDE` Aaron Levie: all software has a database behind it — but there's a lot of business logic in the layer above; ERP is way more than a database because of supply chain automation and accounting logic that none of that goes away. _(2026-04-23)_
 - `INS-260423-2134` Michael: it's bad, but just let me add 10 more features — that's the feature treadmill, and AI tools make it easier than ever to do. _(2026-04-23)_
+- `INS-260423-2C05` Jason Lemkin: in the AI era you literally probably have to build five distinct products to get to that billion — not a little feature, not a little enhancement. Stuart Butterfieldesque reluctance to go multi-product is much less excusable today. _(2026-04-23)_
 - `INS-260423-FB36` Dalton: if you find yourself looking at the graphs that other people don't want to look at, that's how you win the slop war. _(2026-04-23)_
 - `INS-260423-B01D` Dalton and Michael: slop is where you're actively self-deceiving that your thing is good when you kind of know it's not that good. _(2026-04-23)_
-- `INS-260423-2C05` Jason Lemkin: in the AI era you literally probably have to build five distinct products to get to that billion — not a little feature, not a little enhancement. Stuart Butterfieldesque reluctance to go multi-product is much less excusable today. _(2026-04-23)_
 - `INS-260421-E9FC` mem0 released an algorithm update one week before AI Agents SF #12 making 'agent-generated facts first-class' — equal weight to user-authored content in retrieval scoring. _(2026-04-21)_
 - `INS-260421-BD7F` At AI Agents SF #12 all 5 memory vendors competed on retrieval sophistication; the words 'compression,' 'principle,' 'doctrine,' and 'retirement' did not appear once in 1h 42m. _(2026-04-21)_
 - `INS-260421-43EC` mem0's new algorithm replaced add/delete/update operations with single-pass add-only extraction; recency-weighted scoring surfaces current truth without losing history. _(2026-04-21)_

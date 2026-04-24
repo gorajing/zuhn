@@ -14,5 +14,5 @@
 - `INS-260403-2D68` Acquirers price current revenue while founders with infrastructure moats can rationally price the compounding potential of their regulatory and technical assets.
 - `INS-260403-C349` Synthesia rejected $3B acquisition offers from Adobe and Meta, then raised $180M independently after enduring 100 rejections.
 - `INS-260404-F589` Large-scale exits increasingly reward companies with defensible go-to-market strategies over pure product innovation.
-- `INS-260330-98EA` The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples.
 - `INS-260404-A15B` Incumbents reject better technology when the status quo is irrationally profitable.
+- `INS-260330-98EA` The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples.

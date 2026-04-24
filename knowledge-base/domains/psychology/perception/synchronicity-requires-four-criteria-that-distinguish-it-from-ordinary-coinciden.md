@@ -49,10 +49,10 @@ resolutions:
     common dilution of synchronicity into 'any weird coincidence.'
 related:
   - INS-260322-C4A2
+  - INS-260424-3176
   - INS-260405-5670
   - PRI-260323-6644
   - INS-260403-9BBA
-  - INS-260412-6864
 stance: >-
   Jung's synchronicity demands two events (one internal, one external), no
   causal link between them, meaningful symbolic connection, and close tempor...

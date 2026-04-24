@@ -43,11 +43,11 @@ stance: >-
   analyze-then-reorganize) unlock textures that real-time plugins fundamentally
   cannot produce.
 related:
+  - INS-260424-3176
   - INS-260410-3C37
   - INS-260329-CC79
   - PRI-260403-5B3D
   - INS-260329-4986
-  - PRI-260405-6867
   - INS-260410-C5A4
   - INS-260421-43EC
 ---

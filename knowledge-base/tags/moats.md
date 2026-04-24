@@ -34,7 +34,6 @@
 - `INS-260404-9004` Subscription SaaS companies from 2012 built durable moats through deep enterprise integration and high switching costs.
 - `INS-260403-97F8` Switching costs should be deliberately architected into the business model, not left as a byproduct of product stickiness.
 - `INS-260410-270E` Coca-Cola serves the entire world from a handful of syrup plants because it lets independent bottlers put up the capital and labor for bottling and distribution while the parent company keeps the trademark, the formula, and the marketing.
-- `INS-260330-DE2B` The largest extension marketplace creates a self-reinforcing adoption loop that competitors cannot easily replicate.
 - `INS-260404-2FD0` Bundling adjacent features around a core product creates stickiness in commodity markets.
 - `INS-260403-7B04` AI app-layer tech is commoditizing so fast that brand and distribution are now the primary moats.
 - `INS-260403-5384` AI makes building software cheap, shifting competitive value from code to distribution, proprietary data, and workflow entrenchment.
@@ -96,6 +95,7 @@
 - `INS-260403-8402` Great value propositions are difficult to copy not because of one feature but because of interlocking systemic barriers.
 - `INS-260403-ABC5` Vertical AI startups must build data loops and lock-in strategies from day one because speed alone provides no lasting moat.
 - `INS-260330-9DE6` Omega died chasing performance against quartz while Patek survived by pivoting to brand, proving that doubling down on a commoditized advantage is fatal.
+- `INS-260330-DE2B` The largest extension marketplace creates a self-reinforcing adoption loop that competitors cannot easily replicate.
 - `INS-260402-B743` Copying a competitor's growth loop features without understanding the underlying system mechanics and timing conditions produces poor results.
 - `INS-260403-1DE4` Startups that build hyperlocal network effects in emerging markets create moats that global competitors cannot penetrate even with superior resources.
 - `INS-260403-86BF` MUMPS fused three layers into one, making healthcare IT migration an all-or-nothing proposition that no one has attempted.

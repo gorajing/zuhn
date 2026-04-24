@@ -9,10 +9,10 @@
 - `INS-260403-8008` The most powerful business models get customers, communities, or third parties to create the core value while the company provides the platform.
 - `INS-260412-DF15` Capacity-constrained platforms maximize revenue by selecting for high-value participants rather than increasing total volume.
 - `INS-260324-157A` Chinese merchants on Wish/Temu profit on $1-10 items because of low cost of living, cheap rural warehouses, and subsidized state-owned postal services — the platform takes a cut while owning zero inventory.
-- `INS-260409-8DDE` Platforms don't pay creators and never have — the real AI threat to creators is brands choosing AI faces they can own over human creators they rent, not platforms replacing content producers.
 - `INS-260330-2CE3` Bing's $5B/year profit proves that owning the default position on a dominant platform is more valuable than building a better product.
 - `INS-260330-EC7C` Britain's enclosure movement privatized common fields, boosting agricultural output but impoverishing tenant farmers — a pattern that repeats in every platform economy shift.
+- `INS-260409-8DDE` Platforms don't pay creators and never have — the real AI threat to creators is brands choosing AI faces they can own over human creators they rent, not platforms replacing content producers.
 - `INS-260410-F455` Bill Gates accepted a $430K flat fee from IBM for DOS instead of per-copy royalties — but kept the right to license DOS to every other PC maker, which became the foundation of Microsoft's empire.
-- `INS-260403-85BB` Revenue diversification across multiple financial product categories signals a company has become infrastructure rather than a point solution.
 - `INS-260410-1996` Facebook at one point employed ~100k content moderators — costs that look fixed but behave variably and grow with sophistication of both platform and adversaries.
+- `INS-260403-85BB` Revenue diversification across multiple financial product categories signals a company has become infrastructure rather than a point solution.
 - `INS-260330-9DCD` Government monopoly on land rezoning functions as an uncapped, unaccountable tax on housing demand.

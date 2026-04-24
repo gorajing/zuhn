@@ -13,15 +13,15 @@
 - `INS-260404-D976` Samsung users' MRIs showed strong anti-Apple responses they didn't consciously report feeling.
 - `INS-260327-399D` You don't have a consistent moral framework - nobody does - and pretending you do prevents the ethical development that comes from grappling with your actual contradictions.
 - `INS-260403-9DBA` Microsoft's biggest weakness was not knowing how much they sucked — they still believed they could compete by building software in-house.
-- `INS-260404-1289` When receiving advice, people either evaluate it with fresh eyes and give logical reasons for disagreement, or unconsciously munge it to fit pre-existing decisions.
-- `INS-260403-5BF9` Rollins credits his relentless work ethic to never forgetting the $8/hour ice cream shop he'd return to if he stopped hustling.
-- `INS-260403-F1C6` Hard work is not a simple intensity dial but a complex dynamic system where self-honesty is the single skill that enables correct calibration at every point.
-- `INS-260410-F5B6` Nike pioneered Asian outsourced manufacturing and then was caught completely off guard by the sweatshop labor crisis that its own strength invited.
 - `INS-260403-2612` Experts benefit more from writing about their domain because they hold more unconscious knowledge that only surfaces through articulation.
 - `INS-260403-C135` Specific knowledge is found by looking backward at what you've already done, not forward at what you plan to learn.
 - `INS-260403-1202` Rollins explicitly states he has no talent — only tenacity, discipline, and focus — and these carried him further than more talented peers.
 - `INS-260403-D022` Intense creative work has a daily hour limit (roughly 5 hours) beyond which quality declines, and crossing it is performative rather than productive.
 - `INS-260409-8487` Hate directed at people who care is projected self-contempt from people who haven't committed to anything.
+- `INS-260404-1289` When receiving advice, people either evaluate it with fresh eyes and give logical reasons for disagreement, or unconsciously munge it to fit pre-existing decisions.
+- `INS-260403-5BF9` Rollins credits his relentless work ethic to never forgetting the $8/hour ice cream shop he'd return to if he stopped hustling.
+- `INS-260403-F1C6` Hard work is not a simple intensity dial but a complex dynamic system where self-honesty is the single skill that enables correct calibration at every point.
+- `INS-260410-F5B6` Nike pioneered Asian outsourced manufacturing and then was caught completely off guard by the sweatshop labor crisis that its own strength invited.
 - `INS-260327-B19E` Boredom isn't absence of stimulation - it's a signal that your current activity doesn't match your creative capacity, pointing toward what you should be doing instead.
 - `INS-260328-FE38` There are no non-procrastinators — only people whose most important tasks happen to come with deadlines that activate the Panic Monster.
 - `INS-260404-D547` Fake work — activity that looks like work but produces nothing — is more dangerous than leisure because it doesn't trigger the guilt alarms that would prompt you to stop.

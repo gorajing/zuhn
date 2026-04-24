@@ -36,5 +36,5 @@
 - `INS-260405-21C7` Webvan expanded to multiple cities before understanding its unit economics, and the fixed cost structure made course correction impossible.
 - `INS-260412-FD56` Wealthier F1 teams bring more spare parts and equipment, turning logistics spending into a performance edge when things go wrong.
 - `INS-260322-F46F` AI works with data -- if you don't have complete data architecture in place, there's nothing for AI to operate on.
-- `INS-260412-90AC` When production processes are still being refined, proximity between engineering and manufacturing teams enables faster optimization cycles than offshoring could save in labor costs.
 - `INS-260327-CECA` Kisson's restaurant booking app failed because owners bought it but part-time employees who actually used it didn't know it existed.
+- `INS-260412-90AC` When production processes are still being refined, proximity between engineering and manufacturing teams enables faster optimization cycles than offshoring could save in labor costs.

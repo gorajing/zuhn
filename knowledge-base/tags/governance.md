@@ -71,7 +71,6 @@
 - `INS-260403-1438` Continuation funds reset carry and can change exit timing pressure; NAV facilities add leverage and opacity to the fund supporting you.
 - `INS-260412-D937` SVB's CEO lobbied Congress in 2015 to exempt mid-size banks from Dodd-Frank stress testing, got his wish in 2018, then the bank collapsed from exactly the risks those tests would have caught.
 - `INS-260402-8424` VCs invest in startups over ordinary businesses because equity-based returns through IPO/acquisition prevent the agency problem of founders self-dealing through inflated expenses.
-- `INS-260404-8791` Democratic governance alignment between India and the US reduces political risk, regulatory unpredictability, and cultural friction for American entrepreneurs in ways that create durable structural advantages.
 - `INS-260330-FA07` Mesopotamian power shifted from temple priests who interpreted gods to kings who delivered military protection and economic stability.
 - `INS-260328-2CFF` A board member is either a +1, 0, or -1 — there are only a handful of +1s in the world, so aim for a zero.
 - `INS-260403-A505` OpenAI's charter gave the board power to determine when AGI was achieved — a subjective call with massive financial consequences — making conflict inevitable as capabilities advanced.
@@ -79,6 +78,7 @@
 - `INS-260330-8686` Travis's relentless aggression built Uber into a global giant, but the same traits made him unfit to lead it once the company needed to repair its reputation and prepare for an IPO.
 - `INS-260330-F158` The Western Empire fell to internal power struggles between generals, not to barbarian military superiority — while the East survived because clear imperial authority over the Church prevented political fragmentation.
 - `INS-260324-C882` Twitter's board fired 4 CEOs in 10 years, creating a culture of chaos where execution was impossible — interested buyers (Google, Disney, Salesforce) all walked away over governance concerns deeper than price.
+- `INS-260404-8791` Democratic governance alignment between India and the US reduces political risk, regulatory unpredictability, and cultural friction for American entrepreneurs in ways that create durable structural advantages.
 - `INS-260412-7BD8` Isabel dos Santos signed off as both lender and borrower on a $460M transfer between her own companies, illustrating how dual-role positions make fraud structurally undetectable.
 - `INS-260410-17AE` Visa's 'reverse holding company' — a for-profit, non-stock membership corporation with non-transferable participation rights — made member banks structurally unable to sell, exit, or run competing networks.
 - `INS-260410-5CB4` Novo Nordisk's 77% foundation voting control is not tax engineering — it is the structural reason the company survived and produced GLP-1s.
@@ -88,10 +88,10 @@
 - `INS-260330-6BAF` The Indus Valley used uniformly sized bricks and perpendicular street grids across distant cities, implying sophisticated coordination without visible authoritarian structures.
 - `INS-260403-2ED2` Democratic governance kills venture firm scaling because partners vote to preserve their own power during reorganizations.
 - `INS-260330-E585` The Articles of Confederation collapsed primarily because Congress could not collect taxes, proving that authority without enforcement mechanisms is meaningless.
+- `INS-260405-B01A` Deal mechanics and preference stacks can legally redirect all exit proceeds away from founders regardless of valuation.
+- `INS-260412-D033` Musk keeps SpaceX private specifically to avoid shareholder pressure that would divert resources from the Mars colonization mission toward short-term profitability.
 - `INS-260330-F258` Good democratic systems are optimized for removing bad leaders efficiently and nonviolently, not for selecting the best ones — mirroring how science progresses by falsification, not verification.
 - `INS-260330-23CD` Laws are immortal code for civilization — without garbage collection, they accumulate into bloatware that prevents anything from getting done.
 - `INS-260403-47F1` SF's entire turnaround depended on a 6-5 board majority — one seat flip would have blocked every reform the mayor enacted.
 - `INS-260330-D74A` The Articles required 9 of 13 states to agree on any decision and unanimity for amendments, resulting in zero amendments ever passed and near-total paralysis.
 - `INS-260403-1325` Technology tools are neutral; exploitation happens through governance failures around the humans wielding them.
-- `INS-260405-B01A` Deal mechanics and preference stacks can legally redirect all exit proceeds away from founders regardless of valuation.
-- `INS-260412-D033` Musk keeps SpaceX private specifically to avoid shareholder pressure that would divert resources from the Mars colonization mission toward short-term profitability.

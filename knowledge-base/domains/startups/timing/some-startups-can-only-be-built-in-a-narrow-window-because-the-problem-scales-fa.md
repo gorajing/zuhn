@@ -68,11 +68,11 @@ stance: >-
   about to close.
 related:
   - INS-260403-F658
+  - INS-260424-BC8F
+  - INS-260424-9760
   - INS-260403-3831
   - INS-260410-8F36
   - INS-260410-83CF
-  - INS-260321-9EBB
-  - INS-260410-00F0
 ---
 When Larry and Sergey started back rub in 1996, the web had around 600,000 sites and was growing 723% year-over-year. That meant two Stanford students could, with borrowed computers from loading docks and Stanford's network bandwidth, actually copy a meaningful chunk of the internet and compute page rank on it as a research project. Had they started the same project denovo in 1998 or 1999, the storage, compute, and bandwidth costs of building a full index from scratch would have been prohibitive for any unfunded team.
 

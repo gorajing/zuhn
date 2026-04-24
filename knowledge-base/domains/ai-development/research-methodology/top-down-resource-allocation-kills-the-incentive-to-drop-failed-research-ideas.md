@@ -63,11 +63,11 @@ stance: >-
   something isn't working.
 related:
   - INS-260330-3ECE
+  - INS-260424-ABB2
   - INS-260327-DE27
+  - INS-260424-F8BB
   - INS-260409-647D
   - INS-260404-CCE7
-  - INS-260325-DA83
-  - INS-260330-9D44
 ---
 Shazeer contrasts two resource-allocation regimes he's worked under. Google Brain ran a bottom-up UBI model: every researcher got one credit, and teams pooled credits to run the experiments they cared about. This meant that if your idea wasn't working, the rational move was to free your credit and join someone whose idea was working — honest self-assessment was rewarded.
 

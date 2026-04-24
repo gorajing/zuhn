@@ -6,4 +6,5 @@
 - `INS-260404-0095` Letting in a few thousand great programmers per year costs almost nothing but failing to do so could cost a country its technological lead.
 - `INS-260330-63FE` At Stalingrad, Russians 'hugged' German front lines so Luftwaffe air strikes would kill both sides equally — neutralizing Germany's air superiority through proximity.
 - `INS-260326-73F4` Taleb's ethics framework centers on one rule: never let someone harvest upside while transferring downside to others, because this creates systemic fragility that no regulation can compensate for.
+- `INS-260424-AE8B` Google Cloud lead: in 2013 conventional wisdom said custom silicon was a bad idea, but the initial TPU bet was 30-40 people and low tens of millions of dollars — big and controversial at the time, but the cost of failure was low and the cost of success significant.
 - `INS-260403-FAFA` Early-stage VCs suffer more from missing winners than from funding losers, which means founders should emphasize upside potential over risk mitigation.

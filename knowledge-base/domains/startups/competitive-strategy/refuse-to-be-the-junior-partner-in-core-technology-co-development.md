@@ -62,11 +62,11 @@ stance: >-
   co-development partnerships with a dominant partner, because co-development
   erodes the ability to develop your own process from the inside out.
 related:
+  - INS-260424-123B
   - PRI-260406-0ACE
   - INS-260329-DFDD
   - INS-260403-6570
   - INS-260329-61CF
-  - PRI-260406-25D0
 ---
 In 1999, after losing Qualcomm's foundry business to TSMC, IBM approached TSMC to co-develop the 0.13-micron node, positioning itself as the senior partner. Chang refused without deliberation. IBM then went to UMC (TSMC's smaller Taiwanese rival), which accepted — and, in Chang's words, 'regretted seriously their acceptance.' UMC never recovered its independent process lead.
 

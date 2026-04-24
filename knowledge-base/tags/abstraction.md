@@ -43,9 +43,9 @@
 - `INS-260330-4C23` Bitcoin's key conceptual shift is that the history of transactions constitutes the currency rather than tracking some external asset.
 - `INS-260403-BADD` Erosion rates turn incomprehensible deep time into something the human mind can grasp and reason about.
 - `INS-260325-2F12` Recognizing that 'sum of many small things' equals 'area under a curve' unlocks a universal problem-solving template.
+- `INS-260403-C6DC` The most useful philosophical knowledge is the highest-level abstraction extracted from deep mastery of a concrete field.
 - `INS-260412-CE01` Naming an unknown phenomenon creates a collaborative anchor that accelerates investigation despite masking ignorance.
 - `INS-260412-15D0` Point particles are admittedly fictional yet predict electron properties to 14 decimal places, proving that useful approximations beat paralysis from incomplete knowledge.
-- `INS-260403-C6DC` The most useful philosophical knowledge is the highest-level abstraction extracted from deep mastery of a concrete field.
 - `INS-260329-48FD` Teaching complex concepts by starting with physical metaphors before moving to formal notation produces far better understanding than abstract-first approaches.
 - `INS-260409-C758` Base-10, base-2, and base-16 are all the same formula with a different base — decimal just happens to be the one humans learned first.
 - `INS-260330-849D` Cardinality measures how many things exist while ordinality measures how they're arranged, and these diverge at infinity.
