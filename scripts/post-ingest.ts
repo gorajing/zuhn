@@ -239,13 +239,18 @@ async function main(): Promise<void> {
     // it manually before running post-ingest), abort the auto-commit
     // rather than mixing code into a data commit. This preserves the
     // Option B invariant that auto-commits to main are data-only.
+    // Use -z for null-terminated output. Without it, git C-quotes
+    // non-ASCII filenames (default core.quotePath=true), turning paths
+    // like `knowledge-base/foo-ñ.md` into `"knowledge-base/foo-\303\261.md"`.
+    // The leading quote would defeat isDataPath's prefix check and
+    // misclassify legitimate Unicode-named data files as non-data,
+    // aborting auto-git on pure data runs.
     const stagedFiles = execFileSync(
       "git",
-      ["diff", "--cached", "--name-only"],
+      ["diff", "--cached", "--name-only", "-z"],
       { encoding: "utf-8", cwd: PROJECT_ROOT },
     )
-      .split("\n")
-      .map((s) => s.trim())
+      .split("\0")
       .filter(Boolean);
 
     const nonDataFiles = stagedFiles.filter((f) => !isDataPath(f));
