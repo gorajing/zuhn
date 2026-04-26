@@ -1,0 +1,101 @@
+name: Codex Review
+
+# Runs OpenAI Codex review on every PR that touches code (not data).
+# Pairs with the Option B architecture: data changes commit directly
+# to main via post-ingest's auto-git step; code changes flow through
+# branches + PRs and are reviewed here before merge.
+#
+# Setup required:
+#   1. Install the OpenAI Codex GitHub App in repo settings, OR
+#      use the openai/codex-action (whichever your account has).
+#   2. Add OPENAI_API_KEY to repo secrets:
+#        Settings → Secrets and variables → Actions → New repo secret
+#   3. (Optional) Enable branch protection on main:
+#        Settings → Branches → Add rule for main:
+#          - Require pull request before merging
+#          - Require status checks (CI + Codex Review)
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened, ready_for_review]
+    paths:
+      # Code surface — review when these change
+      - "scripts/**"
+      - ".github/**"
+      - "tests/**"
+      - "templates/**"
+      - "skills/**"
+      - "package.json"
+      - "package-lock.json"
+      - "tsconfig.json"
+      - "vitest.config.ts"
+      # Briefs are user-authored content; review for craft + voice
+      - "briefs/**"
+      - "docs/**"
+      - "README.md"
+      - "CLAUDE.md"
+      - "AGENTS.md"
+    paths-ignore:
+      # Data surface — never review (regenerable from sources)
+      - "knowledge-base/**"
+      - "**/views/**"
+      - "**/MASTER_INDEX.md"
+      - "**/_summary.md"
+      - "**/_overview.md"
+
+# Cancel in-progress reviews when a new commit lands on the same PR
+concurrency:
+  group: codex-review-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+
+jobs:
+  codex-review:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pull-requests: write
+      issues: write
+
+    steps:
+      - name: Checkout PR
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          # Check out the PR's HEAD, not the merge commit, so Codex
+          # reviews the actual proposed code.
+          ref: ${{ github.event.pull_request.head.sha }}
+
+      - name: Run Codex review
+        # NOTE: confirm the action ref against what your OpenAI Codex
+        # subscription provides. Common forms:
+        #   - openai/codex-action@v1
+        #   - openai/codex@v1
+        # If your install uses the GitHub App rather than an action,
+        # you can delete this step entirely; the App posts comments
+        # automatically when the workflow trigger fires.
+        uses: openai/codex-action@v1
+        with:
+          openai-api-key: ${{ secrets.OPENAI_API_KEY }}
+          # Review focus — tells Codex what to prioritize
+          review-instructions: |
+            Review for: correctness, simplicity, type-safety, hidden bugs,
+            unnecessary abstractions, and adherence to the project's
+            CLAUDE.md and AGENTS.md conventions. Skip nitpicks on
+            formatting handled by linters. Prefer concrete suggestions
+            with file:line references.
+
+      - name: Summarize review status
+        if: always()
+        # Move PR-controlled values into env vars rather than expanding
+        # them directly in the run script. PR head ref / branch name
+        # are user-controlled and should never be substituted into a
+        # shell command. See:
+        # https://github.blog/security/vulnerability-research/how-to-catch-github-actions-workflow-injections-before-attackers-do/
+        env:
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+          PR_BRANCH: ${{ github.event.pull_request.head.ref }}
+          PR_HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+        run: |
+          echo "Codex review completed for PR #${PR_NUMBER}"
+          echo "Branch: ${PR_BRANCH}"
+          echo "Head SHA: ${PR_HEAD_SHA}"
