@@ -227,7 +227,9 @@ async function main(): Promise<void> {
   try {
     // Stage knowledge-base/ — auto-git is intentionally narrow-scoped
     // to data only. Code, briefs, and config changes go through PRs
-    // (see .github/workflows/codex-review.yml for the review surface).
+    // and are reviewed by the chatgpt-codex-connector GitHub App,
+    // which triggers automatically on pull_request events. No workflow
+    // file is needed; the App listens via webhooks.
     execFileSync("git", ["add", "knowledge-base/"], {
       stdio: "pipe",
       cwd: PROJECT_ROOT,
