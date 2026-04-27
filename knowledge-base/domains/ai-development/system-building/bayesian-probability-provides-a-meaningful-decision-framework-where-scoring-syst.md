@@ -49,7 +49,7 @@ stance: >-
   combination and transparent decision-making, while arbitrary scoring systems
   obscure both meaning and the method for combining evidence.
 related:
-  - INS-260330-6C09
+  - PRI-260426-9E23
   - INS-260404-8A8A
   - INS-260330-9BB7
   - INS-260403-A1B6

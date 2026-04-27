@@ -1,14 +1,14 @@
 # Tag: evaluation
 
+- `INS-260410-E73E` Anthropic found environment setup issues, double-applied patches, and hidden tests the model couldn't see all caused failures that weren't really about model skill.
+- `INS-260410-F5EC` Generate dozens of evaluation tasks grounded in real data sources that require chained, multi-step tool calls rather than single-shot lookups.
+- `INS-260410-83EC` Claude Code is an expert at reading evaluation transcripts and refactoring tool implementations and descriptions to improve performance.
 - `INS-260410-0E26` Start with single LLM calls plus retrieval and examples; add workflow complexity only when a simpler solution measurably fails, and add autonomous agents only when workflows measurably fail.
 - `INS-260327-E07C` The same environment you use to eval your model offline can be used as your train set for reinforcement learning, unifying evaluation and training infrastructure.
 - `INS-260409-0DB0` Jerry Liu on the 'additional complexity of evaluating agent loops' — unlike single-shot RAG where you measure retrieval@K and answer correctness, agent loops require tracking state transitions, intermediate decisions, and how errors propagate across steps.
 - `INS-260410-AA6E` A separate evaluator agent is far more tractable to tune toward skepticism than convincing a generator to be critical of its own output.
 - `INS-260410-E4C4` 'Is this beautiful?' is unanswerable, but 'does this follow our design principles?' gives the model something concrete to grade against.
 - `INS-260410-199B` pass@k rewards capability ceiling; pass^k rewards floor consistency — the metric that actually matters for production agents.
-- `INS-260410-E73E` Anthropic found environment setup issues, double-applied patches, and hidden tests the model couldn't see all caused failures that weren't really about model skill.
-- `INS-260410-F5EC` Generate dozens of evaluation tasks grounded in real data sources that require chained, multi-step tool calls rather than single-shot lookups.
-- `INS-260410-83EC` Claude Code is an expert at reading evaluation transcripts and refactoring tool implementations and descriptions to improve performance.
 - `INS-260403-F943` The 5% Rule reframes AGI progress as raising the floor of competence across fields rather than pushing the ceiling of peak performance.
 - `INS-260403-5F69` Rising benchmark scores mask the gap between test performance and messy real-world reliability.
 - `INS-260403-E6F0` Benchmark optimization produces models that score well on tests while serving rocks as hors d'oeuvres.
@@ -29,10 +29,10 @@
 - `INS-260410-A27C` Because agents are non-deterministic across runs, grade final outputs with an LLM judge on a rubric and start with ~20 real queries — not hundreds of rigid test cases.
 - `INS-260330-B153` Score translation quality without reference translations by training a separate quality estimation model on human error judgments
 - `INS-260330-EC22` Real-world workflow tests reveal performance truths that synthetic benchmarks systematically miss due to component-level measurement bias.
-- `INS-260405-3E73` Anonymizing submissions is the only reliable way to prevent social proximity from contaminating quality judgments.
-- `INS-260404-7C63` We judge early ambitious work by finished-work standards because we never developed customs for the special case of nascent projects.
 - `INS-260410-0735` Mao was a military genius who reunified a shattered China after 40 years of civil war, and the same person then caused the largest peacetime famine in Chinese history — because the skills that win wars are not the skills that run economies.
 - `INS-260403-5AAC` Taking a vote on art quality is like finding north with a compass next to a magnet — the error overwhelms the signal, so more data just measures more error.
+- `INS-260405-3E73` Anonymizing submissions is the only reliable way to prevent social proximity from contaminating quality judgments.
+- `INS-260404-7C63` We judge early ambitious work by finished-work standards because we never developed customs for the special case of nascent projects.
 - `INS-260403-5EE3` Applying finished-work standards to early-stage projects is a category error that destroys ambitious work.
 - `INS-260404-4127` Give a founder one sentence of advice and observe whether they chase down all its implications — this tests general resourcefulness, not just communication skill.
 - `INS-260404-695D` We judge early ambitious work harshly because we have no cultural customs for it, not because skepticism is hardwired.

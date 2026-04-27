@@ -58,7 +58,6 @@ related:
   - INS-260404-4758
   - INS-260411-8AEF
   - INS-260323-B309
-  - INS-260405-5702
   - INS-260403-9149
 ---
 Google partnered with Polymarket and Kalshi to display real-time prediction market probabilities directly in Search and Google Finance results. When users search questions about future events — elections, inflation, GDP — they now see market-implied probabilities sourced from active trading.

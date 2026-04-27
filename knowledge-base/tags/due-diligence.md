@@ -27,8 +27,8 @@
 - `INS-260412-C33C` Sam's 'humble billionaire who drives a Toyota' persona neutralized scrutiny from investors, media, and regulators who should have seen obvious structural problems.
 - `INS-260330-990F` Ivy League credentials, celebrity endorsements, and institutional backing create a cascade of unchecked assumptions that sophisticated investors like Sequoia and BlackRock use as substitutes for actual investigation.
 - `INS-260329-DE17` Evaluate free content from a teacher before buying paid courses to reliably predict quality and fit.
-- `INS-260402-E148` Job listings are the most honest public signal of a competitor's technical capability because they must be specific to attract the right candidates.
 - `INS-260412-71C6` Trevor Milton's pattern of defrauding buyers and partners repeated identically across four companies over 15 years, escalating in scale each time.
+- `INS-260402-E148` Job listings are the most honest public signal of a competitor's technical capability because they must be specific to attract the right candidates.
 - `INS-260403-5788` Before joining a company as a designer, ask founders for their personal story about why they believe in design — if they don't have one, design will always be an afterthought.
 - `INS-260403-88F8` Replace short interviews with 6+ hour shared activities because facades crack after 2-3 hours, revealing the real person.
 - `INS-260405-94A1` Match your pitch deck's emphasis to investor decision criteria at your specific funding stage.

@@ -6,6 +6,6 @@
 - `INS-260330-AEE3` The sense of self dissolves under direct investigation because it was never a stable entity — just unexamined thought patterns.
 - `INS-260330-6CA5` The feeling of being the thinker is not evidence of a thinker — it's the phenomenological signature of thinking without noticing you're thinking.
 - `INS-260330-6D5C` The unconscious mind is a biological supercomputer running 95% of brain operations, and ignoring it makes conscious self-improvement efforts structurally incomplete.
-- `INS-260403-C135` Specific knowledge is found by looking backward at what you've already done, not forward at what you plan to learn.
 - `INS-260409-55F6` Asymmetric epistemic standards — trusting convergence in physics but dismissing it in phenomenology — need to be justified, not assumed.
 - `INS-260405-1CAA` You know what you believe but rarely why you believe it — the source code is gone.
+- `INS-260403-C135` Specific knowledge is found by looking backward at what you've already done, not forward at what you plan to learn.

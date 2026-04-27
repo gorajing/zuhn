@@ -34,20 +34,20 @@
 - `INS-260405-ECD2` Retail food prices are the last output of an infrastructure system shaped far upstream by inputs, water, labor, and policy.
 - `INS-260412-3512` Anchorage — a city of 300K people — hosts the 4th busiest cargo airport in the world because it sits on the great-circle route between US and Asian hubs, serving as both a refueling stop and a sorting node.
 - `INS-260412-6DD9` Heathrow's $19 per-passenger cost is covered by $29 in airline fees plus $13.32 in retail, but retail is where the margin lives.
-- `INS-260328-FDC8` AI is not a hoax like subprime mortgages -- real value is being created -- but the debt being issued to finance data centers and GPU purchases mirrors the debt-driven dynamics of every prior bubble.
-- `INS-260405-7576` Data center capex is matching dot-com-era contributions to GDP growth, raising legitimate bubble-pattern concerns.
-- `INS-260412-3A35` The electrical revolution created a startup investment bubble far exceeding the 1990s dot-com bubble in relative economic impact.
 - `INS-260412-C668` Drought in Panama restricts canal throughput by limiting lock water, directly impacting global shipping costs and schedules in ways disconnected from the drought's geographic location.
 - `INS-260412-021A` EV cost and range already meet consumer tipping-point thresholds, but charging speed and station density do not.
 - `INS-260405-39FA` When Mastercard formalizes a 85-firm coalition including Circle, Binance, and PayPal around stablecoin payments, it's infrastructure convergence, not a pilot program.
-- `INS-260322-7A2F` Artemis builds permanent lunar presence through deliberate phased deployment — unmanned test, crewed orbit, first landing, rover, habitable vehicle, base camp — each phase de-risking the next.
-- `INS-260403-AFA5` Launch is the mandatory toll on every space company's P&L, making launch providers the landlords of the space economy.
-- `INS-260322-B8E6` Orion's design for reuse across multiple Artemis missions fundamentally changes space economics from disposable to durable infrastructure.
-- `INS-260330-AF2A` Space elevators work in theory but require materials with strength-to-weight ratios beyond current capabilities.
+- `INS-260328-FDC8` AI is not a hoax like subprime mortgages -- real value is being created -- but the debt being issued to finance data centers and GPU purchases mirrors the debt-driven dynamics of every prior bubble.
+- `INS-260405-7576` Data center capex is matching dot-com-era contributions to GDP growth, raising legitimate bubble-pattern concerns.
+- `INS-260412-3A35` The electrical revolution created a startup investment bubble far exceeding the 1990s dot-com bubble in relative economic impact.
 - `INS-260329-76EE` HFT systems use colocation facilities and kernel-bypass networking (DPDK/Solarflare) to handle market data in microseconds.
 - `INS-260403-8991` Equity tokens address 24/7 trading, reduced settlement friction, and democratized private market access as a bundled value proposition.
 - `INS-260404-EC16` Fintech investment is recovering unevenly, with infrastructure plays attracting capital while consumer fintech struggles.
 - `INS-260403-2369` Stablecoins move money fast but earn nothing — the real opportunity is building yield layers on top of them.
+- `INS-260322-7A2F` Artemis builds permanent lunar presence through deliberate phased deployment — unmanned test, crewed orbit, first landing, rover, habitable vehicle, base camp — each phase de-risking the next.
+- `INS-260403-AFA5` Launch is the mandatory toll on every space company's P&L, making launch providers the landlords of the space economy.
+- `INS-260322-B8E6` Orion's design for reuse across multiple Artemis missions fundamentally changes space economics from disposable to durable infrastructure.
+- `INS-260330-AF2A` Space elevators work in theory but require materials with strength-to-weight ratios beyond current capabilities.
 - `INS-260412-80AB` Panama's $5.4B lock expansion forced New Jersey to spend $1.7B raising a single bridge, plus billions more in port upgrades coast-wide.
 - `INS-260412-12A5` Governments offer EV purchase tax credits but neglect charging infrastructure, putting the cart before the horse.
 - `INS-260412-3713` Anchorage went from one of the world's most connected airports to near-abandonment within a decade when Russia opened its airspace after the Soviet collapse.
@@ -83,6 +83,9 @@
 - `INS-260403-87CF` Once a startup hub reaches critical mass, it's the people — not tax breaks, office space, or weather — that sustain the ecosystem.
 - `INS-260402-B2A2` Tech industry phases are additive layers that compound value, not distinct eras that replace predecessors.
 - `INS-260412-BCBB` About two-thirds of airports worldwide lose money, and private ownership only works at massive scale.
+- `INS-260330-B771` Serverless platforms like Firebase eliminate the need for Docker, Kubernetes, Terraform, and manual server configuration — removing an entire skill domain from early-stage requirements.
+- `INS-260410-F31C` Google leased data center space by square footage rather than power, which forced them to maximize density with cork-board server racks and commodity parts — ultimately producing 87% gross margins on search that Yahoo, Alta Vista, and Inktomi could never match on enterprise hardware.
+- `INS-260412-E078` Tesla would need $7.8 billion and 31,251 new stations to match gas station accessibility—roughly 10x its 2020 annual profit—making solo infrastructure build-out economically impossible.
 - `INS-260404-EE07` Grid delivery fees and taxes—not generation—make up most of household electricity bills, so distributed solar captures avoided infrastructure costs directly.
 - `INS-260412-E0B5` Wow Air planned to route around Russian airspace to Delhi by adding only 45 minutes of flight time, undermining the leverage of the chokepoint.
 - `INS-260403-75C3` Proprietary infrastructure investments that seem painfully slow eventually create compounding returns that feature-layer competitors cannot replicate.
@@ -91,9 +94,6 @@
 - `INS-260403-F4D3` Plausible alternatives erode incumbent control more effectively than head-on competition because they expand buyer optionality without triggering defensive responses.
 - `INS-260403-D8C1` Clear, minimal regulation — like trademarking USD and setting three simple requirements — can unleash private-sector innovation at ecosystem scale.
 - `INS-260412-D103` Bitfinex's reliance on BitGo to secure user wallets created the single vulnerability that enabled the entire $4.5B hack.
-- `INS-260330-B771` Serverless platforms like Firebase eliminate the need for Docker, Kubernetes, Terraform, and manual server configuration — removing an entire skill domain from early-stage requirements.
-- `INS-260412-E078` Tesla would need $7.8 billion and 31,251 new stations to match gas station accessibility—roughly 10x its 2020 annual profit—making solo infrastructure build-out economically impossible.
-- `INS-260410-F31C` Google leased data center space by square footage rather than power, which forced them to maximize density with cork-board server racks and commodity parts — ultimately producing 87% gross margins on search that Yahoo, Alta Vista, and Inktomi could never match on enterprise hardware.
 - `INS-260412-2EA9` The Northeast Corridor's 1800s rail layout created such dense development around it that rebuilding straighter high-speed tracks is now prohibitively expensive.
 - `INS-260412-F93A` F1 forbids teams from touching freight until all teams' equipment has arrived, ensuring no one gets a head start on assembly.
 - `INS-260403-F4D7` Best-in-class infrastructure components are now commodity plug-and-play, so building custom infra is almost always wrong for early-stage startups.
@@ -114,9 +114,9 @@
 - `INS-260403-3615` Infrastructure consolidation reliably creates the conditions for an application-layer startup boom, as cheap reliable infrastructure enables new use cases.
 - `INS-260410-A17B` Bezos's beer-brewery analogy was a marketing pitch for AWS, but the deeper lesson was that being the unregulated utility is the great hidden business model.
 - `INS-260412-9657` Solving one bottleneck in a complex system without addressing the whole system just moves the failure point downstream.
-- `INS-260330-6BAF` The Indus Valley used uniformly sized bricks and perpendicular street grids across distant cities, implying sophisticated coordination without visible authoritarian structures.
 - `INS-260412-6F4D` St Helena's airport worked technically but didn't transform the economy because the island lacked the marketing, investment attraction, and route development to exploit it.
 - `INS-260403-8793` Replit's decade of integrating editor, database, and hosting into one container was the only reason AI agents could autonomously write, test, and deploy code — a moat competitors cannot quickly replicate.
+- `INS-260330-6BAF` The Indus Valley used uniformly sized bricks and perpendicular street grids across distant cities, implying sophisticated coordination without visible authoritarian structures.
 - `INS-260323-60C1` Ice did not just preserve food — it launched the fish industry, meat packing, brewing, and fundamentally restructured American cities.
 - `INS-260403-8DE1` Disruption requires not just the right insight but the right infrastructure moment — the same idea fails or succeeds based on what enabling platforms exist.
 - `INS-260410-111A` Gutenberg went bankrupt because his small German town had only seven legal buyers for 300 Bibles — the press worked, the distribution didn't.

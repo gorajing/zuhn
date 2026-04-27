@@ -1,8 +1,8 @@
 # Tag: autonomy
 
-- `INS-260410-3601` The quality of the test/verifier is the binding constraint on what an unsupervised agent can actually achieve.
 - `INS-260405-FE94` Coinbase's Agentic Wallets let AI agents hold funds, pay for APIs, and execute trades without human approval at each step.
 - `INS-260405-E8A1` When agents can monetize their own outputs and spend autonomously, they become economic actors, not just tools — blurring the line between software and economic agent.
+- `INS-260410-3601` The quality of the test/verifier is the binding constraint on what an unsupervised agent can actually achieve.
 - `INS-260403-F6F6` AI agents can conceive ambitious projects but consistently fail to sustain them beyond a single session due to time-horizon constraints that are rapidly improving.
 - `INS-260405-88A4` Shield AI's Hivemind is valuable because it operates when networks fail, not just when they work—the degraded-environment use case is the one no commercial AI product solves.
 - `INS-260409-42F2` Hassabis says the real safety crunch arrives in 1-2 years when systems become meaningfully agentic and autonomous.
@@ -18,8 +18,8 @@
 - `INS-260403-79E0` The five intrinsic motivators — curiosity, passion, purpose, autonomy, mastery — must be built in sequence, not cherry-picked.
 - `INS-260405-5670` Moon's 2.3-second round-trip latency allows synchronous coordination with Earth; Mars's 10-30 minute latency forces asynchronous civilization — and asynchronous civilizations can declare independence.
 - `INS-260405-874D` Autonomy in work is a one-way door: once crossed, the cage of a managed job becomes visible and unbearable.
-- `INS-260330-C6A2` Submarines operate on broad mission intent with autonomous decision-making because communication would compromise stealth.
 - `INS-260330-9BF5` Systrom tolerated years of small Facebook interferences but resigned when Zuckerberg throttled team growth and began treating Instagram as subordinate to Facebook's interests.
+- `INS-260330-C6A2` Submarines operate on broad mission intent with autonomous decision-making because communication would compromise stealth.
 - `INS-260403-21AF` When you can't act on ideas, you stop having them—implementation constraints propagate upstream to kill creative thinking itself.
 - `INS-260412-9719` If the universe has no scoreboard, you get to design your own — and founders who do this explicitly build more resilient companies.
 - `INS-260330-8733` Nakamura literally crumpled up and threw away multiple written orders from the CEO to stop his research, and credited this disobedience as the reason for his success.

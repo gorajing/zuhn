@@ -28,12 +28,12 @@
 - `INS-260329-2242` Block your first 4-6 hours for the one thing that would make all other problems disappear.
 - `INS-260323-61FE` In judo, you press until the opponent presses back — then use their resistance energy to execute the throw, turning their strength into your advantage.
 - `INS-260329-94E6` Switching data structures can transform an O(n²) problem into O(n log n) without changing the problem — representation is leverage.
-- `INS-260330-6F36` Clear thinking lets you identify the 1% of decisions that matter and apply leverage to magnify their impact.
-- `INS-260410-0120` Charlie Munger told Senra he made $400M from reading Barron's for 50 years based on a single idea he acted on — the math of extracting one actionable insight from curated deep work is why biography-reading is absurdly positive-EV.
-
 - `INS-260412-FD55` Russia threatened to close its airspace over EU sanctions (2014), Dutch landing slot disputes (2017), and US military action in Syria (2018)—using one asset as leverage across completely unrelated conflicts.
 - `INS-260403-5681` SEIU weaponized ballot initiatives as destruction threats to extract concessions worth 16x their investment.
 - `INS-260412-6F6A` Diplomatic immunity forces host countries to use blunt instruments like expulsion rather than precise enforcement, creating costly asymmetric dynamics.
+- `INS-260330-6F36` Clear thinking lets you identify the 1% of decisions that matter and apply leverage to magnify their impact.
+- `INS-260410-0120` Charlie Munger told Senra he made $400M from reading Barron's for 50 years based on a single idea he acted on — the math of extracting one actionable insight from curated deep work is why biography-reading is absurdly positive-EV.
+
 - `INS-260412-F06F` The Penrose process trades expendable mass for vastly more valuable rotational energy — a pattern that generalizes to any asymmetric exchange.
 - `INS-260402-C4FF` A top performer's concentrated skill creates disproportionate value that cannot be replicated by distributing the same total skill across many people.
 - `INS-260409-3E53` CERN's BASE team built a portable antimatter trap — not because CERN couldn't do more experiments, but because background magnetic noise at CERN itself capped precision.
@@ -50,18 +50,24 @@
 - `INS-260403-8008` The most powerful business models get customers, communities, or third parties to create the core value while the company provides the platform.
 - `INS-260329-72A5` A 10x price increase on the same product can yield a 31x increase in net profit because fixed costs remain constant.
 - `INS-260329-27A7` Charging $35/session to 8 students yields $280/hr versus $60/hr in a 1-on-1 model — a 4.5x increase for the same time block.
+- `INS-260329-BC11` Self-publishing builds a compounding content asset; gatekeeper-dependent publishing trades leverage for credibility.
+- `INS-260404-5AC1` Content creators maximize impact by identifying important ideas that smart people tend to learn late in their careers and making those ideas accessible earlier.
 - `INS-260412-BA6D` Ukraine's guerrilla defense focused on destroying unarmored fuel trucks, rail connections, and road signs—targeting Russia's weakest logistical links rather than its strongest military assets.
 - `INS-260403-0240` Under leverage, being right 90% vs 80% of the time doesn't yield 12% more value — it yields orders of magnitude more.
 - `INS-260403-4874` Costco's 4,000-SKU limit versus Walmart's 140,000 gives it extreme per-item volume and supplier negotiating leverage.
 - `INS-260410-DF92` Henry Flagler's 'Lakeshore Agreement' promised railroads enough oil volume to run dedicated trains in exchange for shipping rates no competitor could match — turning a negotiated discount into an industry lock.
-- `INS-260329-BC11` Self-publishing builds a compounding content asset; gatekeeper-dependent publishing trades leverage for credibility.
-- `INS-260404-5AC1` Content creators maximize impact by identifying important ideas that smart people tend to learn late in their careers and making those ideas accessible earlier.
 - `INS-260329-7691` Making existing processes better (scripts, ads, follow-up, offers) creates leverage because you get more output from the same input, while new initiatives reset you to zero leverage.
 - `INS-260330-C33B` Don't just push harder — also remove friction on the other side of the equation.
 - `INS-260330-6F7B` You need both measurement (your output is trackable) and leverage (your decisions multiply impact) to generate outsized wealth.
 - `INS-260329-3FA6` Redefine work as outputs (volume × leverage) rather than inputs like hours, effort, or intensity.
 - `INS-260329-1F4D` Block your first 8 hours for uninterrupted work until you have enough team leverage that directing others outproduces your own output.
 - `INS-260330-2952` Choosing Stripe over rolling your own payments saves months of development — a leverage multiplier that framework debates never achieve.
+- `INS-260330-608C` A small reduction in growth rate (e.g., from 15% to 10% daily) produces dramatically different outcomes over time due to compounding, making rate optimization the highest-leverage intervention.
+- `INS-260330-931A` Uber's playbook of subsidizing rides to build a loyal user base before regulators could act turned public support into a political shield.
+- `INS-260330-2413` Ramsey argues that the investment world uses beta to risk-adjust stock returns, but business and real estate analysis never applies equivalent risk adjustment to leverage.
+- `INS-260329-793D` Businesses typically have far more untapped leverage in their existing offer and customer base than they realize.
+- `INS-260321-C4CD` A podcast episode is both a distribution mechanism AND a credibility-building mechanism — it operates on two axes at once. Most tools do one thing. Media does both, which is why its returns feel disproportionate.
+- `INS-260329-DAC4` Warm outreach, cold outreach, content, and paid ads are the only four ways one person can let others know about their product; customers, employees, affiliates, and agencies multiply those four.
 - `INS-260329-F4CD` Find the single domino that, when toppled, makes every other optimization unnecessary.
 - `INS-260325-05FC` Investing in general problem-solving techniques compounds; investing only in specific answers doesn't.
 - `INS-260329-1D8D` Investing $10K in skills that multiply your active income beats $10K in the S&P 500 because human capital ROI dwarfs market returns at the early stage.
@@ -69,12 +75,6 @@
 - `INS-260329-BC6C` Instead of 100 tactical optimizations, find the one big domino that makes them all irrelevant.
 - `INS-260403-B05A` What you work on and who you work with matter more than how many hours you put in.
 - `INS-260327-CEE4` Work on problems where the effort you put in and the reward you get is disproportionate — not the hardest problems, the highest-leverage ones.
-- `INS-260330-608C` A small reduction in growth rate (e.g., from 15% to 10% daily) produces dramatically different outcomes over time due to compounding, making rate optimization the highest-leverage intervention.
-- `INS-260321-C4CD` A podcast episode is both a distribution mechanism AND a credibility-building mechanism — it operates on two axes at once. Most tools do one thing. Media does both, which is why its returns feel disproportionate.
-- `INS-260329-DAC4` Warm outreach, cold outreach, content, and paid ads are the only four ways one person can let others know about their product; customers, employees, affiliates, and agencies multiply those four.
-- `INS-260330-931A` Uber's playbook of subsidizing rides to build a loyal user base before regulators could act turned public support into a political shield.
-- `INS-260330-2413` Ramsey argues that the investment world uses beta to risk-adjust stock returns, but business and real estate analysis never applies equivalent risk adjustment to leverage.
-- `INS-260329-793D` Businesses typically have far more untapped leverage in their existing offer and customer base than they realize.
 - `INS-260404-7060` Deliberately concentrating resources behind a bottleneck and releasing them through one optimized channel creates disproportionate output.
 - `INS-260330-B6FA` Parker Conrad's key insight from failing to raise for two years was that building a business with enough cash flow to potentially never need investors made fundraising trivially easy.
 - `INS-260330-6204` Borrowing money instead of selling stock keeps more upside for founders but introduces existential risk if the business underperforms.
@@ -86,8 +86,8 @@
 - `INS-260330-C0D1` If a system is linear, tracking what happens to a few basis cases lets you predict outcomes for all possible inputs.
 - `INS-260404-1299` Good PMs produce good artifacts, and those artifacts are the mechanism for having 'impact on the impact.'
 - `INS-260403-8176` Groq's value was not in customer count but in forcing the assumption that GPUs were the only sensible way to run large models at scale to become questionable.
-- `INS-260329-B194` Allen's breakthrough came from selling to agencies (who each had 50+ SMB clients) rather than individual small businesses, turning one pitch into a thousand customers.
 - `INS-260412-492D` A Learjet trip costing $11,600 requires a $1M earner solo but only a $111K earner per seat when full — a 9x improvement from utilization alone.
+- `INS-260329-B194` Allen's breakthrough came from selling to agencies (who each had 50+ SMB clients) rather than individual small businesses, turning one pitch into a thousand customers.
 - `INS-260329-CF70` One A+ hire at 170K outperforms five B-players at 100K each in knowledge work.
 - `INS-260329-545B` Earn-outs let you buy a business by paying the seller from the business's own future profits.
 - `INS-260329-33D4` Output = Volume × Leverage means improving leverage multiplies all existing effort rather than adding incrementally.

@@ -1,8 +1,8 @@
 # Tag: crispr
 
 - `INS-260408-8F0A` AlphaGenome predicts whether single-letter genome mutations are harmful or benign in the 98% non-coding region CRISPR can target but doctors can't yet interpret.
+- `INS-260412-4441` CRISPR's 99% cost reduction and timeline compression from years to weeks mirrors the computing revolution's democratization arc.
 - `INS-260323-3657` CRISPR-Cas9 uses RNA-guided proteins to make targeted DNA edits cheaply and quickly, unlike earlier one-off gene-editing tools.
 - `INS-260323-198E` Casgevy, the first FDA-approved CRISPR therapy, effectively cures sickle cell disease in a single treatment, but requires hospitalization and bone marrow transplant, making it expensive and inaccessible globally.
 - `INS-260323-133A` Editing your own cells (somatic) affects only you; editing embryos (germline) permanently changes all future descendants — a fundamentally different ethical calculus.
-- `INS-260412-4441` CRISPR's 99% cost reduction and timeline compression from years to weeks mirrors the computing revolution's democratization arc.
 - `INS-260323-D631` We can now precisely edit DNA like a text editor, but we still lack the postal system to deliver those edits to specific cell types inside the body.

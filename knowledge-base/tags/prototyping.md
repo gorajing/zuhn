@@ -12,8 +12,8 @@
 - `INS-260403-1A6B` Deliberately framing ambitious work as sketches, hacks, or experiments lowers the psychological barrier to starting and sustaining it.
 - `INS-260321-FE91` Opus Clip validated by manually engineering final video outputs and emailing them to potential customers, getting 60% positive feedback before writing a single line of product code.
 - `INS-260404-6A15` Constrained prototyping deliberately restricts business model variables to force teams into imagining radically different configurations.
-- `INS-260330-7882` Spotify pirated millions of songs to build the prototype that would convince record labels to license music legally.
 - `INS-260403-0A7A` Rewriting code you've already written forces you to fully understand it, which is the prerequisite for seeing fundamentally better designs.
+- `INS-260330-7882` Spotify pirated millions of songs to build the prototype that would convince record labels to license music legally.
 - `INS-260405-D925` Starting with an explicit low-commitment frame ('just a sketch', 'just a hack') bypasses perfectionism and lets real work accumulate.
 - `INS-260403-E7A7` Calling ambitious work 'just a sketch' or 'just a hack' lowers the psychological barrier to starting, then momentum carries you forward.
 - `INS-260404-4154` Starting with a sketch instead of a sculpture lets you bypass the psychological barrier of commitment that kills ambitious projects early.

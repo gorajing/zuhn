@@ -1,8 +1,8 @@
 # Tag: error-handling
 
+- `INS-260410-14E5` Return denials as tool results so false positives cost a single retry instead of killing the session.
 - `INS-260410-38C8` The SWE-bench agent always requires absolute paths and only performs an edit when `old_str` matches exactly once — both choices eliminate entire classes of silent failure.
 - `INS-260410-E27A` Tool error responses are prompt-engineering surfaces — use them to teach agents correct usage, not just to report failure.
-- `INS-260410-14E5` Return denials as tool results so false positives cost a single retry instead of killing the session.
 - `INS-260320-7379` A Stop hook detects risky patterns (try-catch, async, DB calls) in edited files and shows gentle non-blocking self-check reminders.
 - `INS-260320-4ED6` The full hook pipeline runs in sequence: Claude responds, Prettier formats code, build checker catches errors, error reminder does a self-check — zero errors left behind.
 - `INS-260320-69CD` A Stop event hook analyzes edited files after Claude responds and shows gentle self-check reminders for error handling.

@@ -54,11 +54,8 @@ stance: >-
   time per request) which require fundamentally different chip-interconnect
   designs
 related:
-  - INS-260329-33AA
-  - INS-260330-D483
   - INS-260330-C06E
   - INS-260330-4C31
-  - INS-260405-5670
   - INS-260424-981C
   - INS-260424-ABB2
   - INS-260424-F8BB

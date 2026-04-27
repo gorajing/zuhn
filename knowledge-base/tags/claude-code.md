@@ -1,9 +1,9 @@
 # Tag: claude-code
 
+- `INS-260410-83EC` Claude Code is an expert at reading evaluation transcripts and refactoring tool implementations and descriptions to improve performance.
 - `INS-260410-19DE` Smart agents use file paths, queries, and links to fetch data on demand — like humans use file systems and bookmarks rather than memorizing everything.
 - `INS-260405-2BB0` The speaker's Claude-based agent on a Raspberry Pi autonomously wrote its own Neo4j memory skill and immediately began using it to persist knowledge, with no human code involved.
 - `INS-260405-AFF7` MiniMax's Linda frames three coding eras — GUI copilots, CLI agents, and autonomous agent swarms — all emerging within months and coexisting rather than replacing each other.
-- `INS-260410-83EC` Claude Code is an expert at reading evaluation transcripts and refactoring tool implementations and descriptions to improve performance.
 - `INS-260403-656F` Claude Code automation with parallel agents can handle overnight inbox triage, scheduling, and task planning previously done by virtual assistants.
 - `INS-260321-0CCD` A portfolio founder assigned two AI-native engineers with unlimited budgets on Claude Code, Codex, and Cursor and saw 10-20x faster progress — concluding his entire product and engineering organization needs restructuring within 12 months.
 - `INS-260410-D034` If you've corrected Claude twice on the same issue, stop correcting — /clear and restart with a prompt that incorporates what you learned.

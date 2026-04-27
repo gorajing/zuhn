@@ -1,6 +1,6 @@
 # Knowledge Base Master Index
 
-> Last rebuilt: 2026-04-24 | Total insights: 11006 | Sources: 2482
+> Last rebuilt: 2026-04-26 | Total insights: 11006 | Sources: 2482
 
 **NOTE:** Access counts and last_accessed are updated automatically when insights are retrieved.
 
@@ -8,7 +8,7 @@
 
 | Domain | Topics | Insights | Principles | Last Updated |
 | ------ | ------ | -------- | ---------- | ------------ |
-| ai-development | 40 | 1827 | 131 | 2026-04-24 |
+| ai-development | 40 | 1827 | 134 | 2026-04-24 |
 | automation | 7 | 41 | 2 | 2026-04-12 |
 | health | 6 | 483 | 44 | 2026-04-12 |
 | investing | 11 | 1395 | 110 | 2026-04-24 |
@@ -27,7 +27,7 @@
 
 ## Top Tags
 
-fundraising(247) mental-models(215) venture-capital(204) scaling(200) decision-making(183) strategy(151) compounding(132) infrastructure(132) innovation(129) competitive-advantage(127) network-effects(126) leadership(121) product-market-fit(120) trust(116) organizational-design(116) hiring(116) leverage(115) disruption(112) systems-thinking(111) china(110)
+fundraising(247) mental-models(215) venture-capital(204) scaling(200) decision-making(183) strategy(151) infrastructure(132) compounding(132) innovation(129) competitive-advantage(127) network-effects(126) leadership(121) product-market-fit(120) trust(116) organizational-design(116) hiring(116) leverage(115) disruption(112) systems-thinking(111) china(110)
 
 ## Flags (for Claude)
 
@@ -61,12 +61,12 @@ _No flags._
 - `INS-260424-B404` Ben Gilbert: Thomas came in surveying the org and said 'how many salespeople do we have?' He looked and said 'we need 1000 times more salespeople to run an effective customer-focused enterprise organization' — and Google literally 1000x'd the headcount. _(2026-04-24)_
 - `INS-260423-EDF7` Aaron Levie: I already saw one diffusion cycle with cloud and how long it took — 20 years later it got way bigger than we ever realized; if it works, the market's always larger than you ever think. _(2026-04-23)_
 - `INS-260423-8504` Aaron Levie: if you wanted an agent to find upcoming contract renewal risk, that agent might find 10 different systems containing contracts — half legacy technologies that don't work well with agents, on network file shares and legacy document management systems. _(2026-04-23)_
+- `INS-260423-85B3` Google ADK with LiteLLM: the Guardian agent runs on Gemma 4 today, can swap to any LiteLLM-supported model tomorrow, because the agent layer does not encode Gemini-specific assumptions. _(2026-04-23)_
 - `INS-260423-74BF` Google ADK demo: the Guardian agent has an Agent Card declaring streaming capability, description, skills, version, and URL — and that card is what lets other agents discover and call it via A2A. _(2026-04-23)_
 - `INS-260423-FF52` ADK callbacks: you can invoke Model Armor API at the before-agent-callback to detect malicious inputs before the agent sees them, and at after-agent-callback to check outputs for sensitive data. _(2026-04-23)_
 - `INS-260423-6879` ADK lab: before the A2A inspector interaction, run a dummy wake-up call so the cold-start latency doesn't hit the user; second call responds instantly. _(2026-04-23)_
 - `INS-260423-7396` Hinton: Microsoft took an AI, made several copies, told them to play different roles and talk to each other — that does better than most doctors at diagnosis. _(2026-04-23)_
 - `INS-260423-72D0` Cody: this isn't go open Claude Code and give it access to everything — I'm talking about specific jobs-to-be-done workflows custom-made for how you operate day-to-day. _(2026-04-23)_
-- `INS-260423-85B3` Google ADK with LiteLLM: the Guardian agent runs on Gemma 4 today, can swap to any LiteLLM-supported model tomorrow, because the agent layer does not encode Gemini-specific assumptions. _(2026-04-23)_
 - `INS-260423-B612` Rory: what do you do when you can sell more if you had more, but you can't make more? You start allocating capacity based on money — exactly what anyone in economics would say to do. _(2026-04-23)_
 - `INS-260423-81C4` Seth Godin: when AI is the buyer, you're going to lose — it's hard to teach an AI why the non-cheapest is worth it, so it buys the cheap one. _(2026-04-23)_
 - `INS-260423-55B2` Hinton: I asked GPT-4 why a compost heap is like an atom bomb, and it explained both generate their outputs faster as they heat up — that requires understanding chain reaction structure, not just finding juxtaposed words. _(2026-04-23)_
@@ -112,16 +112,16 @@ _No flags._
 - `INS-260423-4402` Chamath: A-players are meaningless; there are teams that can perform at an A level. Iron sharpens iron. _(2026-04-23)_
 - `INS-260423-5F2F` Aaron Levie: the budget of tokens will have to move out of IT spend and into regular OPEX spend — this can't be treated like trading off between Salesforce licenses and compute tokens. _(2026-04-23)_
 - `INS-260423-64FA` Chamath's stated rubric for early-stage deep-tech disputes: back the technical person without whom the product wouldn't exist. _(2026-04-23)_
-- `INS-260423-787D` Jason Lemkin: right now most of the deals you look at have low barriers to entry — if you stumble, you lose. If there's five of you going out of the gates, one won't stumble and they'll win. _(2026-04-23)_
-- `INS-260423-5998` Michael Seibel: the Facebook platform slop wars — no one competing with Zynga won; Facebook won. _(2026-04-23)_
 - `INS-260423-49F1` Dan Koe: people don't follow creators for one piece of content — they follow for a body of coherent work; each essay compounds on the last, and AI cannot replicate a coherent philosophy built through years of genuine thinking. _(2026-04-23)_
 - `INS-260423-F7C7` Dan Koe: articles are answers while essays are arguments; articles package existing knowledge while essays change the author's beliefs; AI cannot write an essay. _(2026-04-23)_
 - `INS-260423-AEAD` Dan Koe: Substack is the most slept-on social media right now — you own your audience as a list of subscribers, it's email first, and the notes feed has people who appreciate deep and genuine thinking. _(2026-04-23)_
 - `INS-260423-AB6B` Dan Koe: write to discover, not to perform — an essay begins with uncertainty and an open mind; most social media engagement comes from packaging, which is a separate skill. _(2026-04-23)_
 - `INS-260423-70CF` Michael: when companies come to me scared about a competitor's funding, my first question is always 'have you used the product?' _(2026-04-23)_
-- `INS-260423-79B7` Seth Godin: authenticity is a crock — if your surgeon is authentically in a bad mood, you don't want them to do a lousy job on your knee implant. _(2026-04-23)_
+- `INS-260423-787D` Jason Lemkin: right now most of the deals you look at have low barriers to entry — if you stumble, you lose. If there's five of you going out of the gates, one won't stumble and they'll win. _(2026-04-23)_
+- `INS-260423-5998` Michael Seibel: the Facebook platform slop wars — no one competing with Zynga won; Facebook won. _(2026-04-23)_
 - `INS-260423-E905` Chamath on Groq: We didn't have product-market fit for seven years. Replit had years of nothingness before the hockey stick. _(2026-04-23)_
 - `INS-260423-9F96` Chamath: in the pre-PMF years you have to find different ways of feeling rewarded that are not revenue or valuation — usually technical progress. _(2026-04-23)_
+- `INS-260423-79B7` Seth Godin: authenticity is a crock — if your surgeon is authentically in a bad mood, you don't want them to do a lousy job on your knee implant. _(2026-04-23)_
 - `INS-260423-6FB5` Dalton: whenever I worked on retention, I had to start with 'am I helping the user?'; whenever I worked on topline growth, I was serving myself. _(2026-04-23)_
 - `INS-260423-20ED` Seth Godin: when you pick your customers, you pick your future — average people chose to be average, and they won't buy your book or your software. _(2026-04-23)_
 - `INS-260423-9D71` Greg Isenberg: if you can figure out how to do all these jobs-to-be-done and be one person instead of ten, there is a case to be made that you've added a tremendous amount of value to your role — triple my salary easily. _(2026-04-23)_
