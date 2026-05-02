@@ -49,7 +49,6 @@ stance: >-
   Adding an unevaluable emotional or artistic component to a functional product
   lets sellers exit feature-for-feature price competition entirely.
 related:
-  - INS-260327-6A45
   - INS-260402-C883
   - INS-260329-C0F1
   - PRI-260328-70D9

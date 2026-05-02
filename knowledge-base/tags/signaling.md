@@ -1,11 +1,5 @@
 # Tag: signaling
 
-- `INS-260412-94D9` Rwanda ranking 29th globally on the Ease of Doing Business Index — above the Netherlands, Switzerland, and Japan — generates outsized credibility and investment signaling far exceeding what raw GDP metrics would attract.
-- `INS-260412-4516` Embassy building design is a deliberate projection of national identity and strategic narrative to foreign audiences.
-- `INS-260412-0C4C` Bolivia's 5,000-person navy and Mongolia's one-tugboat fleet exist as sovereignty assertions, not military assets.
-- `INS-260403-06E2` Sand Hill Road's boring identical offices reveal that VC firms differentiate on relationships and judgment, not on brand or physical presence.
-- `INS-260403-1A6C` PitchBook data shows ~40% of top-20 VC firm deals are co-invested with at least one other top-20 firm, revealing systematic coordination over independence.
-- `INS-260330-3BBC` Crises force binary choices that expose where people truly stand, cutting through ambiguity.
 - `INS-260404-F965` Sophisticated evaluators penalize polish that masks inexperience because it hides the raw talent signal they're actually looking for.
 - `INS-260403-7586` Smart evaluators screen for raw talent, not polish — pretending to be further along than you are conceals the signal they're looking for.
 - `INS-260403-4363` When evaluators can't assess substance directly, the presenter's implicit confidence becomes their primary evidence for quality.
@@ -16,6 +10,7 @@
 - `INS-260410-B47B` The U-2 spy plane kept the Cold War cold because both sides rationally preferred the Soviets tracking it silently over admitting they couldn't shoot it down — information and its management beat raw force.
 - `INS-260410-8D62` When you take a leadership role, commit real, personal, post-tax capital — not just granted equity — so every decision is visibly yours too.
 - `INS-260402-A2F1` When moral rules become elaborate enough, following them substitutes for actually being good, attracting people who weaponize compliance.
+- `INS-260330-3BBC` Crises force binary choices that expose where people truly stand, cutting through ambiguity.
 - `INS-260403-22FE` Explicit claims of passion or quality trigger skepticism filters, while implicit confidence conveyed through demeanor and specifics builds genuine credibility.
 - `INS-260404-405A` Never verbally claim passion or quality — audiences discount explicit self-praise but heavily weight the implicit confidence of your delivery.
 - `INS-260404-5017` When your audience can't evaluate your technical work directly, your own visible conviction becomes their strongest data point.
@@ -35,3 +30,8 @@
 - `INS-260405-8BEA` Never say you're passionate or that your product is great — both are ignored or actively backfire; demonstrated confidence is the only kind that works.
 - `INS-260405-9492` Overlapping valuation bands across seed, Series A, and Series B mean stage labels no longer reliably communicate company maturity or risk profile.
 - `INS-260403-7708` A firm like Sequoia taking 30% needs to improve outcomes by 43%—their brand signal alone may exceed that.
+- `INS-260412-94D9` Rwanda ranking 29th globally on the Ease of Doing Business Index — above the Netherlands, Switzerland, and Japan — generates outsized credibility and investment signaling far exceeding what raw GDP metrics would attract.
+- `INS-260412-4516` Embassy building design is a deliberate projection of national identity and strategic narrative to foreign audiences.
+- `INS-260412-0C4C` Bolivia's 5,000-person navy and Mongolia's one-tugboat fleet exist as sovereignty assertions, not military assets.
+- `INS-260403-06E2` Sand Hill Road's boring identical offices reveal that VC firms differentiate on relationships and judgment, not on brand or physical presence.
+- `INS-260403-1A6C` PitchBook data shows ~40% of top-20 VC firm deals are co-invested with at least one other top-20 firm, revealing systematic coordination over independence.

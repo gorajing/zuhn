@@ -66,8 +66,8 @@ related:
   - INS-260405-ADCE
   - INS-260405-E34C
   - INS-260412-B89F
+  - PRI-260501-CD0C
   - INS-260405-E4FC
-  - INS-260405-F05B
 ---
 Liu's structural argument: 5 years ago, super-intelligence was imagined as 'one omnipotent AI looking at everything everywhere all at once.' Reality is different — agents are converging on humanoid-shaped role specialization (content marketer agent, lead enrichment agent, customer email responder agent) for the same reason hardware robots converge on humanoid form factor. The infrastructure they operate in was built for humans (job functions, software interfaces, organizational protocols), so to slot into it effectively, agents need human-shaped capabilities.
 

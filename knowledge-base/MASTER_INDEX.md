@@ -8,7 +8,7 @@
 
 | Domain | Topics | Insights | Principles | Last Updated |
 | ------ | ------ | -------- | ---------- | ------------ |
-| ai-development | 40 | 1947 | 134 | 2026-05-01 |
+| ai-development | 40 | 1947 | 137 | 2026-05-01 |
 | automation | 7 | 41 | 2 | 2026-04-12 |
 | health | 6 | 483 | 44 | 2026-04-12 |
 | investing | 14 | 1400 | 110 | 2026-05-01 |
@@ -56,13 +56,6 @@ _No flags._
 - `INS-260501-DAD0` Cursor's $3B ARR but bad margins is the structural picture of every vertical AI app without its own model — a sale to a model owner is the inevitable destination. _(2026-05-01)_
 - `INS-260501-E8E9` Amjad Masad (citing Jason Lemkin): inference is the new sales and marketing — every other day during the Cloud Code / Codex hype, it was 50% more tokens, less rate limits. _(2026-05-01)_
 - `INS-260501-2A3D` Pat Grady: legal services in the US alone is a $400B market — that's one vertical and one geo and it's the same as all of software. The services TAM is conveniently 10 trillion. _(2026-05-01)_
-- `INS-260501-A748` Claude + dynamic content script = launch AB tests in 30 seconds without bothering engineering. Most marketers still ask devs to push code. _(2026-05-01)_
-- `INS-260501-E3C7` One-shot prompts produce shallow output. Claude Design asks 5-10 structured questions first. The questions are the product. _(2026-05-01)_
-- `INS-260501-4043` A physical therapist who knows fascia release builds better fascia software than a contractor in offshore — domain knowledge is the moat once code is free. _(2026-05-01)_
-- `INS-260501-4903` Figma is for static handoff. Vibe coding loses iteration history. Paper.app gives you a canvas where you iterate visually and the code updates live. _(2026-05-01)_
-- `INS-260501-2D9C` Drop screenshots of sites you love into Claude. Ask it to extrapolate a design system. Reference that system in every future component. Vibe-coded sites stop looking like vibe-coded sites. _(2026-05-01)_
-- `INS-260501-B933` The valuable workflows aren't 'use Claude Code' or 'use Idea Browser.' They're 'use Idea Browser MCP + Lead Magnet skill + Paper MCP + Humbalytics MCP in one session.' Composition is the product. _(2026-05-01)_
-- `INS-260501-DBDB` Wireframe first = constraint generation + cheap iteration. One-shotting hi-fi designs burns tokens and locks in random feature choices. _(2026-05-01)_
 - `INS-260501-FD20` Greg Brockman: over the course of December, agentic coding tools went from writing 20% of your code to writing 80% — they went from sideshow to main thing. _(2026-05-01)_
 - `INS-260501-9C3F` Hassabis pegs ~50/50 odds AGI needs 1-2 more big breakthroughs beyond what we already have — primarily in continual learning, long-term reasoning, and consistency. _(2026-05-01)_
 - `INS-260501-47F5` Hype cycles reshape the early curve, not the long tail. Survivors are the ones who knew it was a long tail from the start. _(2026-05-01)_
@@ -73,6 +66,13 @@ _No flags._
 - `INS-260501-9465` Pat Grady: from a commercial standpoint, if you can dispatch an agent to do a job and it can recover from failure and persist until that job is done — I don't know, that feels pretty much like AGI. _(2026-05-01)_
 - `INS-260501-A550` If you're in the RL circuits, you fly; if you're not, you struggle — and the labs decide which circuits exist. _(2026-05-01)_
 - `INS-260501-0662` Greg Brockman: a systems engineer prepared a design document, handed it to the model, went to sleep — woke up to find the model had implemented the spec, seen it was slow, added instrumentation, run a profiler, and iterated multiple times until it got an optimized result. _(2026-05-01)_
+- `INS-260501-A748` Claude + dynamic content script = launch AB tests in 30 seconds without bothering engineering. Most marketers still ask devs to push code. _(2026-05-01)_
+- `INS-260501-E3C7` One-shot prompts produce shallow output. Claude Design asks 5-10 structured questions first. The questions are the product. _(2026-05-01)_
+- `INS-260501-4043` A physical therapist who knows fascia release builds better fascia software than a contractor in offshore — domain knowledge is the moat once code is free. _(2026-05-01)_
+- `INS-260501-4903` Figma is for static handoff. Vibe coding loses iteration history. Paper.app gives you a canvas where you iterate visually and the code updates live. _(2026-05-01)_
+- `INS-260501-2D9C` Drop screenshots of sites you love into Claude. Ask it to extrapolate a design system. Reference that system in every future component. Vibe-coded sites stop looking like vibe-coded sites. _(2026-05-01)_
+- `INS-260501-B933` The valuable workflows aren't 'use Claude Code' or 'use Idea Browser.' They're 'use Idea Browser MCP + Lead Magnet skill + Paper MCP + Humbalytics MCP in one session.' Composition is the product. _(2026-05-01)_
+- `INS-260501-DBDB` Wireframe first = constraint generation + cheap iteration. One-shotting hi-fi designs burns tokens and locks in random feature choices. _(2026-05-01)_
 - `INS-260501-10B4` Anthropic at $1T enterprise-of-choice today — but the autonomous-agent battle is just starting and OpenAI's Codex is shipping daily. _(2026-05-01)_
 - `INS-260501-AF86` Price tiers are involuntary architectural disclosures — competitors must price close to cost, so the structure of the price reveals the structure of the system. _(2026-05-01)_
 - `INS-260501-B6EE` Pat Grady: there's an expression in racing — you cannot pass 15 cars in the sun, but you can pass 15 cars in the rain. Right now there is a torrential downpour of new capabilities, which means no lead is safe but anybody can win. _(2026-05-01)_
@@ -113,14 +113,14 @@ _No flags._
 - `INS-260501-5DF6` Constantine Buhler: in the mid 1800s aluminum was the most precious metal — within decades of electrolysis, aluminum was used to wrap our candies and our sandwiches. Aluminum is intelligence. Electrolysis is AI. _(2026-05-01)_
 - `INS-260501-A5F5` Greg Brockman: you spend so much of your effort right now just explaining to your computer what's going on — like, why are you explaining to your computer what's going on? That makes no sense. _(2026-05-01)_
 - `INS-260501-D9D1` Agents are interns with great recall; humans own the spec, the unique-user-ID decision, and the why. _(2026-05-01)_
+- `INS-260501-1FC3` If agents were really delivering full value, a kid would have vibe-coded a hit game by now — that we haven't seen it suggests we're still in experimentation. _(2026-05-01)_
+- `INS-260501-3585` 16 years to 100M autonomous miles. 6 months to the next 100M. 10M of 20M total rides happened in the last 7 months. The phase transition is real. _(2026-05-01)_
 - `INS-260501-4B6F` Greg Brockman on launch day: my team asked how much compute should we buy, I said all of it. They said no seriously how much. I said no matter how fast we ramp, we won't keep up with demand. That's been true ever since. _(2026-05-01)_
 - `INS-260501-12F4` Google's $40B + Amazon's $5B is a chip-and-capital bundle to displace Nvidia's 70% gross margin and lock Anthropic onto TPU/Trainium. _(2026-05-01)_
 - `INS-260501-B1AA` iPhone scan → 3D objects → drop into simulator → augment infinitely. The pocket world-scanner unlocks million-environment-scale RL. _(2026-05-01)_
 - `INS-260501-E26C` Cache hit price = HBM storage cost; cache miss price = full forward-pass recomputation; the ratio tells you provider's caching strategy. _(2026-05-01)_
 - `INS-260501-814C` Physical machines today = 50 different OSes per industry. AI can't deploy until someone builds the Android. That's Applied Intuition. _(2026-05-01)_
 - `INS-260501-D18A` Even with infinite optimization, latency is bounded below by total params / memory bandwidth — that's the hardware floor. _(2026-05-01)_
-- `INS-260501-1FC3` If agents were really delivering full value, a kid would have vibe-coded a hit game by now — that we haven't seen it suggests we're still in experimentation. _(2026-05-01)_
-- `INS-260501-3585` 16 years to 100M autonomous miles. 6 months to the next 100M. 10M of 20M total rides happened in the last 7 months. The phase transition is real. _(2026-05-01)_
 - `INS-260501-3C20` Batch size compounds — unbatched inference is ~1000x worse economics than batched, which is why Fast Mode costs 6x for 2.5x speed and Slow Mode could exist at lower price. _(2026-05-01)_
 - `INS-260501-AF40` Cheaper inference doesn't mean free inference — we'll just use more of it (agent swarms, ensembled reasoning, parallel chains-of-thought). _(2026-05-01)_
 - `INS-260501-EBDD` Don't back-prop through all 16 recursion steps; do them, then back-prop through just the last one — fixed-point iteration in latent space. _(2026-05-01)_
@@ -155,11 +155,6 @@ _No flags._
 - `INS-260501-F258` Stop fusing AI into your product. Make your product a tool the agent uses. The agent is just another user with a license. _(2026-05-01)_
 - `INS-260501-BA23` Every SaaS tool you buy creates a data silo. The fix isn't another SaaS — it's a vibe-coded internal tool that hits the source. _(2026-05-01)_
 - `INS-260501-4646` Claude-in-Chrome MCP took 2-3 seconds per action with crazy context bloat. Tan wrapped Playwright at the CLI and made it trivially fast. _(2026-05-01)_
-- `INS-260501-61C7` Markets moved when Chamath tweeted. He confused that with skill. Then he was too afraid to publicly reverse course. $5B lesson. _(2026-05-01)_
-- `INS-260501-DE83` Build your own compound interest table in a Google Sheet. The math is more powerful when you've typed it yourself than when you've read it. _(2026-05-01)_
-- `INS-260501-3E4F` If Bezos and Elon are selling, sell. If they're buying, consider buying. Then prove yourself why you wouldn't. _(2026-05-01)_
-- `INS-260501-3BCF` When the 'safe' part of an LP's portfolio takes venture-sized losses, the math on the entire risk budget changes. _(2026-05-01)_
-- `INS-260501-B854` $5.1B equity wipeout on a deal that wasn't even heavily leveraged — pre-AI SaaS + any debt + negative terminal value = handed to creditors. _(2026-05-01)_
 - `INS-260501-6FFE` Buffett at 95, Munger died doing the job. They weren't chasing objectives — they were committed to process. That's why they never stopped. _(2026-05-01)_
 - `INS-260501-9CD4` Find win-wins. Preserve relationships, egos, emotions. Listen more, talk less. Don't blow yourself up doing something stupid. Optionality compounds. _(2026-05-01)_
 - `INS-260501-F021` Time, introspection, honesty. No shortcut to knowing yourself. Lose money in stocks? Own it, don't blame the market. _(2026-05-01)_
@@ -182,11 +177,16 @@ _No flags._
 - `INS-260501-09FD` Bucket 1: agents replace you, you're toast (especially if leveraged). Bucket 2: agents tolerate you as system-of-record, slow growth. Bucket 3: agents amplify you, increasing returns. _(2026-05-01)_
 - `INS-260501-F9F7` Be 5 years ahead, not 50 — early enough to win the wave, late enough to survive long enough to ride it. _(2026-05-01)_
 - `INS-260501-5320` Don't play not to lose. Play to win. Chase-winning is the founder mentality — fear-losing is the manager mentality. _(2026-05-01)_
-- `INS-260501-D6B8` Hire by giving a real project to build; then run 10 attacker agents at it; can the candidate's system survive? _(2026-05-01)_
-- `INS-260501-2243` Amjad Masad: operations teams sit at the nexus of data flow, buy a lot of SaaS, are typically not happy with it — when they use Replit the ROI is as good if not greater than product teams. _(2026-05-01)_
 - `INS-260501-2322` Show me MAU/revenue ratio. If revenue grows but engagement doesn't, your customers have already churned mentally — they just haven't done the paperwork yet. _(2026-05-01)_
 - `INS-260501-15D5` One person + AI tools = old large engineering team. Therefore: high API bill is cheap relative to the headcount it replaces. _(2026-05-01)_
+- `INS-260501-D6B8` Hire by giving a real project to build; then run 10 attacker agents at it; can the candidate's system survive? _(2026-05-01)_
+- `INS-260501-2243` Amjad Masad: operations teams sit at the nexus of data flow, buy a lot of SaaS, are typically not happy with it — when they use Replit the ROI is as good if not greater than product teams. _(2026-05-01)_
 - `INS-260501-D701` The CIO whose team deploys 200 agents needs a fabric they can audit in real-time — not a YC startup with an orchestration dashboard. _(2026-05-01)_
 - `INS-260501-A6E0` Three roles: builders, DRIs (one person, one outcome), AI founders. Middle management = legacy of pre-AI information routing. Goes away. _(2026-05-01)_
 - `INS-260501-3D33` Old: company = open loop, decide-execute-don't-measure. New: company = closed loop, intelligence at center auto-adjusting from outcomes. _(2026-05-01)_
 - `INS-260501-63E7` Cursor at $60B is the largest private venture acquisition ever — but it's structured as a post-IPO option because both companies need each other to look like a real business. _(2026-05-01)_
+- `INS-260501-61C7` Markets moved when Chamath tweeted. He confused that with skill. Then he was too afraid to publicly reverse course. $5B lesson. _(2026-05-01)_
+- `INS-260501-DE83` Build your own compound interest table in a Google Sheet. The math is more powerful when you've typed it yourself than when you've read it. _(2026-05-01)_
+- `INS-260501-3E4F` If Bezos and Elon are selling, sell. If they're buying, consider buying. Then prove yourself why you wouldn't. _(2026-05-01)_
+- `INS-260501-3BCF` When the 'safe' part of an LP's portfolio takes venture-sized losses, the math on the entire risk budget changes. _(2026-05-01)_
+- `INS-260501-B854` $5.1B equity wipeout on a deal that wasn't even heavily leveraged — pre-AI SaaS + any debt + negative terminal value = handed to creditors. _(2026-05-01)_

@@ -1,6 +1,5 @@
 # Tag: operational-efficiency
 
-- `INS-260412-06A1` Airlines perform maintenance on planes forced to sit idle in South America, exploiting cheaper labor to extract value from schedule-imposed downtime.
 - `INS-260403-524B` Costco's confusing warehouse layout makes shoppers feel like deal-hunters rather than annoyed customers, turning a cost-saving measure into a positive brand experience.
 - `INS-260412-2948` Slow steaming — running ships at 14-18 knots instead of 22 — was a desperate 2008 crisis response that became permanent industry standard, saving 10-25% on fuel.
 - `INS-260403-323A` Costco's warehouse layout and limited selection feel like treasure-hunting to customers rather than cost-cutting, similar to how IKEA's DIY assembly creates pride of ownership.
@@ -9,3 +8,4 @@
 - `INS-260404-C9B5` Costco's 15% max markup rule forces operational innovation and builds customer trust that compounds into 90% retention rates.
 - `INS-260404-38A6` Different timezones enable continuous progress — offshore teams advance work overnight for morning review — when handoff planning is deliberate.
 - `INS-260404-8B1C` Costco turns warehouse aesthetics, confusing layouts, and limited selection into feelings of deal-hunting and exclusivity—making cost savings feel like customer features.
+- `INS-260412-06A1` Airlines perform maintenance on planes forced to sit idle in South America, exploiting cheaper labor to extract value from schedule-imposed downtime.

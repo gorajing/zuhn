@@ -2,7 +2,6 @@
 
 - `INS-260409-5065` Ingest adds new material; query probes and adds explorations; lint finds contradictions, orphans, and gaps.
 - `INS-260329-3EB6` AWS Lambda's auto-scaling model means you never under-provision, but the operational discipline shifts from capacity planning to cost monitoring and function optimization.
-- `INS-260327-E9FC` Berthier as Chief of Staff was arguably more important to Napoleon's success than any fighting marshal — he translated Napoleon's often vague strategic vision into precise orders that thousands could execute.
 - `INS-260330-2689` The mathematician defines a vector by what you can do with it (add, scale), not by what it is — this yields maximum generality.
 - `INS-260405-AC40` Costco pays double the retail average wage and reports three times the productivity, suggesting high wages are a competitive lever rather than a constraint.
 - `INS-260402-8595` Embracing operational complexity that competitors avoid — like managing physical assets — creates durable defensibility through accumulated expertise and supply-side lock-in.
@@ -14,9 +13,9 @@
 - `INS-260326-8798` Pay yourself less, get a worse office, and read your bank statement every month — burn rate is the only runway lever that's 100% in your control.
 - `INS-260330-637F` The McDonald brothers found 80% of revenue came from hamburgers, cut everything else, and used the focus to build an assembly-line system that redefined the industry.
 - `INS-260330-DC22` Unscalable founder involvement is a moat that should be defended, not a phase to outgrow.
-- `INS-260501-2243` Amjad Masad: operations teams sit at the nexus of data flow, buy a lot of SaaS, are typically not happy with it — when they use Replit the ROI is as good if not greater than product teams.
 - `INS-260405-1982` Treat fundraising as a sprint with a hard end date to minimize distraction and create investor urgency.
 - `INS-260328-3A00` YC's core advantage was being a software company built by someone who loved software and hated hiring people — Standard Capital is replicating this approach for Series A.
+- `INS-260501-2243` Amjad Masad: operations teams sit at the nexus of data flow, buy a lot of SaaS, are typically not happy with it — when they use Replit the ROI is as good if not greater than product teams.
 - `INS-260412-2785` F1 priority pallets contain wall panels and electrical systems — not the most valuable items, but the ones needed first for assembly.
 - `INS-260412-4D3B` Southwest and Spirit achieve cost leadership by keeping planes flying 11+ hours daily versus legacy carriers' 8.5 hours.
 - `INS-260412-B6D3` Airlines submit preferred routes nightly to Gander ATC, which synthesizes them into the day's North Atlantic Tracks — bottom-up input with centralized coordination.
@@ -39,3 +38,4 @@
 - `INS-260322-F46F` AI works with data -- if you don't have complete data architecture in place, there's nothing for AI to operate on.
 - `INS-260412-90AC` When production processes are still being refined, proximity between engineering and manufacturing teams enables faster optimization cycles than offshoring could save in labor costs.
 - `INS-260327-CECA` Kisson's restaurant booking app failed because owners bought it but part-time employees who actually used it didn't know it existed.
+- `INS-260327-E9FC` Berthier as Chief of Staff was arguably more important to Napoleon's success than any fighting marshal — he translated Napoleon's often vague strategic vision into precise orders that thousands could execute.

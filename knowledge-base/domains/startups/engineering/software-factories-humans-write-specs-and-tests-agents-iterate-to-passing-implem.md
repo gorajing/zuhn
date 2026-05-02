@@ -59,7 +59,6 @@ stance: >-
   and iterate until passing — making code-writing fully automated while
   spec-writing becomes the new craft.
 related:
-  - INS-260320-A4BF
   - INS-260327-9D50
   - INS-260410-A27C
   - PRI-260406-3EF8

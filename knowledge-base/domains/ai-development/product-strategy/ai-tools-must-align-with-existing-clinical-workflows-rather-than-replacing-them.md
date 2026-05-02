@@ -44,7 +44,6 @@ stance: >-
   theoretically superior
 related:
   - INS-260327-B9AD
-  - INS-260327-D020
   - INS-260329-FEBA
   - INS-260329-808C
   - INS-260329-2B52
@@ -53,6 +52,7 @@ related:
   - INS-260501-B933
   - INS-260410-0E26
   - INS-260403-FB82
+  - INS-260405-6CED
 evidence:
   - id: INS-260323-F15D
     type: CONTRADICTS
